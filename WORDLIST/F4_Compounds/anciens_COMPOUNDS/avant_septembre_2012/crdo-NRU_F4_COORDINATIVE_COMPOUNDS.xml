@@ -1,0 +1,945 @@
+<WORDLIST  id="crdo-NRU_COORDINATIVE_COMPOUNDS.wav"
+ xml:lang="nru">
+<HEADER>
+<TITLE xml:lang="fr">Coordinative compounds. Speaker F4.</TITLE>
+<SOUNDFILE href="crdo-NRU_F4_COORDINATIVE_COMPOUNDS.wav"/>
+</HEADER>
+<NOTE xml:lang="en" message = "The notations used in this document are underlying-phonological transcriptions: for instance, /ə˧mi˧-zo#˥/, indicating the underlying tone category of this item (tone #H: a High tone that only associates to the right of the item to which it is lexically attached), rather than the surface-phonological notation /ə˧mi˧-zo˧/, which reflects the surface realization but not the underlying tonal category. Likewise, /bv̩˩ʂwæ˩-bv̩˩mi˩/ is transcribed as an all-L sequence, according to the underlying-phonological pattern; on the surface, it becomes /bv̩˩ʂwæ˩-bv̩˩mi˩˥/ through addition of a postlexical H tone to all-L tone groups."/>
+<W id="Coordinative_compounds_001">
+	<FORM>mv̩˧di˧˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H and LM"/>
+	<NOTE xml:lang="en" message = "Resulting tone: MH#"/>
+	<TRANSL xml:lang="fr">univers</TRANSL>
+	<TRANSL xml:lang="en">universe (‘sky’+‘earth’)</TRANSL>
+<AUDIO start="0.371" end="1.555"/>
+</W>
+<W id="Coordinative_compounds_002">
+	<FORM>zo˧mv̩˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H and LH"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">enfants</TRANSL>
+	<TRANSL xml:lang="en">child (‘son’+‘daughter’)</TRANSL>
+<AUDIO start="2.763" end="3.681"/>
+</W>
+<W id="Coordinative_compounds_003">
+	<FORM>ə˧mi˧-mv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and LH"/>
+	<NOTE xml:lang="en" message = "Resulting tone: °L"/>
+	<TRANSL xml:lang="fr">mère et fille</TRANSL>
+	<TRANSL xml:lang="en">mother and daughter</TRANSL>
+<AUDIO start="4.78" end="6.048"/>
+</W>
+<W id="Coordinative_compounds_004">
+	<FORM>ə˧mi˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">mère et fils</TRANSL>
+	<TRANSL xml:lang="en">mother and son</TRANSL>
+<AUDIO start="6.861" end="7.964"/>
+</W>
+<W id="Coordinative_compounds_005">
+	<FORM>ə˧dɑ˧-mv̩˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and LH"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">père et fille</TRANSL>
+	<TRANSL xml:lang="en">father and daughter</TRANSL>
+<AUDIO start="8.869" end="9.89"/>
+</W>
+<W id="Coordinative_compounds_006">
+	<FORM>ə˧dɑ˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">père et fils</TRANSL>
+	<TRANSL xml:lang="en">father and son</TRANSL>
+<AUDIO start="10.75" end="11.656"/>
+</W>
+<W id="Coordinative_compounds_007">
+	<FORM>ə˧pʰv̩˧-ʐv̩˧v#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">grand-oncle et petits-neveux</TRANSL>
+	<TRANSL xml:lang="en">great-uncle and great-nephews</TRANSL>
+<AUDIO start="13.212" end="14.547"/>
+</W>
+<W id="Coordinative_compounds_008">
+	<FORM>ə˧pʰv̩˧-ʐv̩˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">grand-oncle et petites-nièces</TRANSL>
+	<TRANSL xml:lang="en">great-uncle and great-nieces</TRANSL>
+<AUDIO start="15.812" end="16.952"/>
+</W>
+<W id="Coordinative_compounds_009">
+	<FORM>ə˧si˧-ə˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">ancêtres à la troisième génération</TRANSL>
+	<TRANSL xml:lang="en">3rd-generation ancestors</TRANSL>
+<AUDIO start="18.459" end="19.667"/>
+</W>
+<W id="Coordinative_compounds_010">
+	<FORM>ə˧si˧-ʐv̩˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">arrière-grand-mère et petites-filles</TRANSL>
+	<TRANSL xml:lang="en">great-grandmother and granddaughters</TRANSL>
+<AUDIO start="20.99" end="22.117"/>
+</W>
+<W id="Coordinative_compounds_011">
+	<FORM>ə˧si˧-ʐv̩˧v#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">arrière-grand-mère et petits-fils</TRANSL>
+	<TRANSL xml:lang="en">great-grandmother and grandsons</TRANSL>
+<AUDIO start="23.219" end="24.426"/>
+</W>
+<W id="Coordinative_compounds_012">
+	<FORM>gv̩˧dv̩˧-gv̩˧mi˧</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: M"/>
+	<TRANSL xml:lang="fr">corps</TRANSL>
+	<TRANSL xml:lang="en">(human) body</TRANSL>
+<AUDIO start="25.75" end="26.9"/>
+</W>
+<W id="Coordinative_compounds_013">
+	<FORM>jo˧mi˧-po˧lo˧</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">brebis et bouc</TRANSL>
+	<TRANSL xml:lang="en">ewe and ram</TRANSL>
+<AUDIO start="27.933" end="29.28"/>
+</W>
+<W id="Coordinative_compounds_014">
+	<FORM>ɖʐwæ˧mi˧-ɖʐwæ˧pʰv̩˧</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">hirondelles femelle et mâle</TRANSL>
+	<TRANSL xml:lang="en">male and female sparrow</TRANSL>
+<AUDIO start="30.243" end="31.497"/>
+</W>
+<W id="Coordinative_compounds_015">
+	<FORM>bæ˧mi˧-bæ˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">canard femelle et mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male duck</TRANSL>
+<AUDIO start="32.356" end="33.668"/>
+</W>
+<W id="Coordinative_compounds_016">
+	<FORM>bæ˧mi˧-bæ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">canard femelle et caneton</TRANSL>
+	<TRANSL xml:lang="en">female duck and duckling</TRANSL>
+<AUDIO start="34.4" end="35.631"/>
+</W>
+<W id="Coordinative_compounds_017">
+	<FORM>bv̩˧mi˧-bv̩˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">yak femelle et petit yak</TRANSL>
+	<TRANSL xml:lang="en">female yak and baby yak</TRANSL>
+<AUDIO start="36.385" end="37.742"/>
+</W>
+<W id="Coordinative_compounds_018">
+	<FORM>ə˧mi˧-ze˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: °L"/>
+	<TRANSL xml:lang="fr">tante et nièce</TRANSL>
+	<TRANSL xml:lang="en">aunt and niece</TRANSL>
+<AUDIO start="39.195" end="40.483"/>
+</W>
+<W id="Coordinative_compounds_019">
+	<FORM>ə˧mi˧-ze˩v̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">tante et neveu</TRANSL>
+	<TRANSL xml:lang="en">aunt and nephew</TRANSL>
+<AUDIO start="41.099" end="42.388"/>
+</W>
+<W id="Coordinative_compounds_020">
+	<FORM>bv̩˧mi˧-bv̩˩ʂwæ˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">yak femelle et yak mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male yak</TRANSL>
+<AUDIO start="42.968" end="44.326"/>
+</W>
+<W id="Coordinative_compounds_021">
+	<FORM>dzo˧mi˧-dzo˩pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: M and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">lézard femelle et mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male lizard</TRANSL>
+<AUDIO start="45.29" end="46.764"/>
+</W>
+<W id="Coordinative_compounds_022">
+	<FORM>gi˧zɯ˧-go˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">petit frère et petite soeur</TRANSL>
+	<TRANSL xml:lang="en">little brothers and sisters</TRANSL>
+<AUDIO start="47.496" end="48.643"/>
+</W>
+<W id="Coordinative_compounds_023">
+	<FORM>bæ˧zo˧-bæ˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">caneton et cane</TRANSL>
+	<TRANSL xml:lang="en">duckling and female duck </TRANSL>
+<AUDIO start="49.476" end="50.746"/>
+</W>
+<W id="Coordinative_compounds_024">
+	<FORM>bæ˧pʰv̩˧-bæ˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">canard mâle et cane</TRANSL>
+	<TRANSL xml:lang="en">male duck and female duck </TRANSL>
+<AUDIO start="51.443" end="52.722"/>
+</W>
+<W id="Coordinative_compounds_025">
+	<FORM>tsʰɯ˧zo˧-to˧qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">chevreau et chevrette</TRANSL>
+	<TRANSL xml:lang="en">kids and little nanny goats</TRANSL>
+<AUDIO start="53.786" end="54.822"/>
+</W>
+<W id="Coordinative_compounds_026">
+	<FORM>ʐv̩˧v̩˥-ʐv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#°"/>
+	<TRANSL xml:lang="fr">petits-enfants</TRANSL>
+	<TRANSL xml:lang="en">grandchildren</TRANSL>
+<AUDIO start="55.78" end="56.929"/>
+</W>
+<W id="Coordinative_compounds_027">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="59.453" end="60.525"/>
+</W>
+<W id="Coordinative_compounds_028">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="63.285" end="64.288"/>
+</W>
+<W id="Coordinative_compounds_029">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="68.127" end="69.207"/>
+</W>
+<W id="Coordinative_compounds_030">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˧-zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="72.632" end="73.595"/>
+</W>
+<W id="Coordinative_compounds_031">
+	<FORM>ʈʂʰɯ˧ ǀ hwɤ˧pʰv̩˧-hwɤ˧-zo˧ ɲi˥.</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="76.691" end="78.007"/>
+</W>
+<W id="Coordinative_compounds_032">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˥zo˩ ɲi˩.</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="84.65" end="85.942"/>
+</W>
+<W id="Coordinative_compounds_033">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˥zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">chat mâle et chaton</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and kitten</TRANSL>
+<AUDIO start="87.051" end="88.05"/>
+</W>
+<W id="Coordinative_compounds_034">
+	<FORM>dʑi˧zo˧-dʑi˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">enfant buffle et mère buffle</TRANSL>
+	<TRANSL xml:lang="en">male and female water buffalo</TRANSL>
+<AUDIO start="332.817" end="334.193"/>
+</W>
+<W id="Coordinative_compounds_035">
+	<FORM>dʑi˧zo˧-dʑi˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H / #H°"/>
+	<TRANSL xml:lang="fr">enfant buffle et mère buffle</TRANSL>
+	<TRANSL xml:lang="en">male and female water buffalo</TRANSL>
+<AUDIO start="335.551" end="336.979"/>
+</W>
+<W id="Coordinative_compounds_036">
+	<FORM>lɑ˧mi˧-lɑ˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">tigre femelle et tigre mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male tiger</TRANSL>
+<AUDIO start="93.135" end="94.423"/>
+</W>
+<W id="Coordinative_compounds_037">
+	<FORM>lɑ˧mi˧-lɑ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: "/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">tigresse et petit tigre</TRANSL>
+	<TRANSL xml:lang="en">female and baby tiger</TRANSL>
+<AUDIO start="95.904" end="97.146"/>
+</W>
+<W id="Coordinative_compounds_038">
+	<FORM>ʈʂʰɯ˧ ǀ ʁv̩˧pʰv̩˧-ʁv̩˧mi˧ ɲi˥.</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and MH"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">grue mâle et grue femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female crane</TRANSL>
+<AUDIO start="119.327" end="121.19"/>
+</W>
+<W id="Coordinative_compounds_039">
+	<FORM>ʁv̩˧pʰv̩˧-ʁv̩˧mi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and MH"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">grue mâle et grue femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female crane</TRANSL>
+<AUDIO start="128.645" end="129.811"/>
+</W>
+<W id="Coordinative_compounds_040">
+	<FORM>hwɤ˧pʰv̩˧-hwɤ˧mi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and H$"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">chat mâle et chat femelle</TRANSL>
+	<TRANSL xml:lang="en">tom-cat and she-cat</TRANSL>
+<AUDIO start="130.786" end="132.005"/>
+</W>
+<W id="Coordinative_compounds_041">
+	<FORM>hwɤ˧zo˧-hwɤ˧mi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: "/>
+	<NOTE xml:lang="en" message = "Resulting tone: "/>
+	<TRANSL xml:lang="fr">chatons et chats adultes; chats</TRANSL>
+	<TRANSL xml:lang="en">cats: kitten and parents</TRANSL>
+<AUDIO start="132.867" end="134.034"/>
+</W>
+<W id="Coordinative_compounds_042">
+	<FORM>ʐwæ˧zo˧-ʐwæ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°/ H#"/>
+	<TRANSL xml:lang="fr">poulain et jument</TRANSL>
+	<TRANSL xml:lang="en">colt and mare</TRANSL>
+<AUDIO start="135.185" end="136.369"/>
+</W>
+<W id="Coordinative_compounds_043">
+	<FORM>ʐwæ˧zo˧-ʐwæ˧mi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°/ H#"/>
+	<TRANSL xml:lang="fr">poulain et jument</TRANSL>
+	<TRANSL xml:lang="en">colt and mare</TRANSL>
+<AUDIO start="137.715" end="138.884"/>
+</W>
+<W id="Coordinative_compounds_044">
+	<FORM>pʰɤ˧pʰv̩˧-pʰɤ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°/ H#"/>
+	<TRANSL xml:lang="fr">hyène mâle et hyène femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female hyena</TRANSL>
+<AUDIO start="142.814" end="143.952"/>
+</W>
+<W id="Coordinative_compounds_045">
+	<FORM>pʰɤ˧pʰv̩˧-pʰɤ˧mi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°/ H#"/>
+	<TRANSL xml:lang="fr">hyène mâle et hyène femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female hyena</TRANSL>
+<AUDIO start="145.055" end="146.065"/>
+</W>
+<W id="Coordinative_compounds_046">
+	<FORM>kʰv̩˧zo˥-kʰv̩˩mv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#° / H#"/>
+	<TRANSL xml:lang="fr">chiots mâles et femelles</TRANSL>
+	<TRANSL xml:lang="en">male and female puppies</TRANSL>
+<AUDIO start="147.423" end="148.526"/>
+</W>
+<W id="Coordinative_compounds_047">
+	<FORM>kʰv̩˧zo˧-kʰv̩˧mv̩˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: #H and H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#° / H#"/>
+	<TRANSL xml:lang="fr">chiots mâles et femelles</TRANSL>
+	<TRANSL xml:lang="en">male and female puppies</TRANSL>
+<AUDIO start="149.825" end="150.759"/>
+</W>
+<W id="Coordinative_compounds_048">
+	<FORM>ə˧ʑi˧-ə˧pʰv̩˧˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: MH#"/>
+	<TRANSL xml:lang="fr">grand-parents</TRANSL>
+	<TRANSL xml:lang="en">elders, grandparents</TRANSL>
+<AUDIO start="152.973" end="154.296"/>
+</W>
+<W id="Coordinative_compounds_049">
+	<FORM>æ˧mv̩˧-go˧mi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">soeurs</TRANSL>
+	<TRANSL xml:lang="en">sisters, female siblings</TRANSL>
+<AUDIO start="155.393" end="156.386"/>
+</W>
+<W id="Coordinative_compounds_050">
+	<FORM>ə˧ʑi˧-ʐv̩˥v̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°"/>
+	<TRANSL xml:lang="fr">grand-mère et petits-fils</TRANSL>
+	<TRANSL xml:lang="en">grandmother and grandsons</TRANSL>
+<AUDIO start="159.154" end="160.269"/>
+</W>
+<W id="Coordinative_compounds_051">
+	<FORM>ə˧ʑi˧-ʐv̩˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°"/>
+	<TRANSL xml:lang="fr">grand-mère et petites-filles</TRANSL>
+	<TRANSL xml:lang="en">grandmother and granddaughter</TRANSL>
+<AUDIO start="161.262" end="162.394"/>
+</W>
+<W id="Coordinative_compounds_052">
+	<FORM>æ˧mv̩˧-gi˥zɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°"/>
+	<TRANSL xml:lang="fr">frères</TRANSL>
+	<TRANSL xml:lang="en">brethren, brothers</TRANSL>
+<AUDIO start="164.414" end="165.598"/>
+</W>
+<W id="Coordinative_compounds_053">
+	<FORM>ə˧v̩˧-ze˥v̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: MH#°"/>
+	<TRANSL xml:lang="fr">oncle et neveu</TRANSL>
+	<TRANSL xml:lang="en">uncle and nephew</TRANSL>
+<AUDIO start="166.352" end="167.453"/>
+</W>
+<W id="Coordinative_compounds_054">
+	<FORM>ə˧v̩˧-ze˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: MH#°"/>
+	<TRANSL xml:lang="fr">oncle et nièce</TRANSL>
+	<TRANSL xml:lang="en">uncle and niece</TRANSL>
+<AUDIO start="168.912" end="169.981"/>
+</W>
+<W id="Coordinative_compounds_055">
+	<FORM>zo˧hṽ˧-mv̩˥zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: MH# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: MH#°"/>
+	<TRANSL xml:lang="fr">descendants</TRANSL>
+	<TRANSL xml:lang="en">descendants</TRANSL>
+<AUDIO start="171.119" end="172.338"/>
+</W>
+<W id="Coordinative_compounds_056">
+	<FORM>tsʰɯ˧mi˧-po˧lo˥ </FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#"/>
+	<TRANSL xml:lang="fr">chèvre et bouc</TRANSL>
+	<TRANSL xml:lang="en">nanny goat and billy goat</TRANSL>
+<AUDIO start="173.241" end="174.204"/>
+</W>
+<W id="Coordinative_compounds_057">
+	<FORM>ə˧dɑ˧-ə˧mi#˥ </FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">père et mère</TRANSL>
+	<TRANSL xml:lang="en">father and mother, parents</TRANSL>
+<AUDIO start="175.426" end="176.459"/>
+</W>
+<W id="Coordinative_compounds_058">
+	<FORM>ə˧ɲi˧tsʰi˧ɲi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">ces jours-ci</TRANSL>
+	<TRANSL xml:lang="en">these days</TRANSL>
+<AUDIO start="177.678" end="178.641"/>
+</W>
+<W id="Coordinative_compounds_059">
+	<FORM>ə˧ʝi˧-tsʰi˧ʝi#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">ces années-ci</TRANSL>
+	<TRANSL xml:lang="en">these years</TRANSL>
+<AUDIO start="179.234" end="180.224"/>
+</W>
+<W id="Coordinative_compounds_060">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="181.115" end="182.09"/>
+</W>
+<W id="Coordinative_compounds_061">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="183.919" end="184.877"/>
+</W>
+<W id="Coordinative_compounds_062">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="186.967" end="187.97"/>
+</W>
+<W id="Coordinative_compounds_063">
+	<FORM>ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧zo˧ ɲi˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="189.117" end="190.589"/>
+</W>
+<W id="Coordinative_compounds_064">
+	<FORM>ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧zo˥$.</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="193.762" end="194.908"/>
+</W>
+<W id="Coordinative_compounds_065">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="196.197" end="197.172"/>
+</W>
+<W id="Coordinative_compounds_066">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<NOTE xml:lang="en" message = "Carefully articulated token, bringing out successive syllables"/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="199.201" end="200.296"/>
+</W>
+<W id="Coordinative_compounds_067">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="208.474" end="209.431"/>
+</W>
+<W id="Coordinative_compounds_068">
+	<FORM>hwɤ˧mi˧-hwɤ˧zo˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone:  #H / H$ "/>
+	<TRANSL xml:lang="fr">chatte et chaton</TRANSL>
+	<TRANSL xml:lang="en">she-cat and kitten</TRANSL>
+<AUDIO start="216.143" end="217.141"/>
+</W>
+<W id="Coordinative_compounds_069">
+	<FORM>ʈʂʰæ˧mi˧-ʈʂʰæ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and H$"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">biche et cerf</TRANSL>
+	<TRANSL xml:lang="en">doe and stag</TRANSL>
+<AUDIO start="219.861" end="220.904"/>
+</W>
+<W id="Coordinative_compounds_070">
+	<FORM>hwɤ˧mi˧-hwɤ˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="221.65" end="222.841"/>
+</W>
+<W id="Coordinative_compounds_071">
+	<FORM>hwɤ˧mi˧-hwɤ˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="224.661" end="225.976"/>
+</W>
+<W id="Coordinative_compounds_072">
+	<FORM>hwɤ˧mi˧-hwɤ˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="227.346" end="228.411"/>
+</W>
+<W id="Coordinative_compounds_073">
+	<FORM>hwɤ˧mi˧-hwɤ˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="231.269" end="232.234"/>
+</W>
+<W id="Coordinative_compounds_074">
+	<FORM>hwɤ˧mi˧-hwɤ˧pʰv#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="233.244" end="234.231"/>
+</W>
+<W id="Coordinative_compounds_075">
+	<FORM>hwɤ˧mi˧-hwɤ˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="242.726" end="243.745"/>
+</W>
+<W id="Coordinative_compounds_076">
+	<FORM>hwɤ˧mi˧-hwɤ˧pʰv̩˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="246.421" end="247.465"/>
+</W>
+<W id="Coordinative_compounds_077">
+	<FORM>hwɤ˧mi˧-hwɤ˧pʰv̩˥$</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="251.335" end="252.291"/>
+</W>
+<W id="Coordinative_compounds_078">
+	<FORM>ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧pʰv̩˧ ɲi˥.</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H° / #H / H$"/>
+	<TRANSL xml:lang="fr">chatte et chat</TRANSL>
+	<TRANSL xml:lang="en">she-cat and tom-cat</TRANSL>
+<AUDIO start="264.916" end="266.344"/>
+</W>
+<W id="Coordinative_compounds_079">
+	<FORM>ɖɯ˧ɲi˧-ɖɯ˥hɑ̃˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and MH#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°"/>
+	<TRANSL xml:lang="fr">un jour et une nuit</TRANSL>
+	<TRANSL xml:lang="en">one day and one night</TRANSL>
+<AUDIO start="267.058" end="268.26"/>
+</W>
+<W id="Coordinative_compounds_080">
+	<FORM>ʈʂʰæ˧mi˧-ʈʂʰæ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and H$"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H"/>
+	<TRANSL xml:lang="fr">biche et cerf</TRANSL>
+	<TRANSL xml:lang="en">doe and fawn</TRANSL>
+<AUDIO start="270.989" end="272.265"/>
+</W>
+<W id="Coordinative_compounds_081">
+	<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H$ and LM+#H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: #H°"/>
+	<TRANSL xml:lang="fr">autrefois</TRANSL>
+	<TRANSL xml:lang="en">in the past</TRANSL>
+<AUDIO start="273.24" end="274.436"/>
+</W>
+<W id="Coordinative_compounds_082">
+	<FORM>bv̩˩ʂwæ˩-bv̩˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="276.352" end="277.466"/>
+</W>
+<W id="Coordinative_compounds_083">
+	<FORM>bv̩˩ʂwæ˩-bv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="278.883" end="280.148"/>
+</W>
+<W id="Coordinative_compounds_084">
+	<FORM>bv̩˩ʂwæ˩-bv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="281.994" end="283.376"/>
+</W>
+<W id="Coordinative_compounds_085">
+	<FORM>bv̩˩ʂwæ˩-bv̩˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="286.863" end="287.856"/>
+</W>
+<W id="Coordinative_compounds_086">
+	<FORM>bv̩˩ʂwæ˩-bv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="296.46" end="297.459"/>
+</W>
+<W id="Coordinative_compounds_087">
+	<FORM>bv̩˩ʂwæ˩-bv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">yak mâle et yak femelle</TRANSL>
+	<TRANSL xml:lang="en">male yak and female yak</TRANSL>
+<AUDIO start="302.544" end="303.786"/>
+</W>
+<W id="Coordinative_compounds_088">
+	<FORM>kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female falcon</TRANSL>
+<AUDIO start="306.155" end="307.792"/>
+</W>
+<W id="Coordinative_compounds_089">
+	<FORM>kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female falcon</TRANSL>
+<AUDIO start="312.456" end="313.712"/>
+</W>
+<W id="Coordinative_compounds_090">
+	<FORM>kɤ˩pʰv̩˩-kɤ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female falcon</TRANSL>
+<AUDIO start="316.636" end="317.753"/>
+</W>
+<W id="Coordinative_compounds_091">
+	<FORM>dzo˩pʰv̩˩-dzo˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">lézard mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female lizards</TRANSL>
+<AUDIO start="318.676" end="320.33"/>
+</W>
+<W id="Coordinative_compounds_092">
+	<FORM>dzo˩pʰv̩˩-dzo˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
+	<TRANSL xml:lang="fr">lézard mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female lizards</TRANSL>
+<AUDIO start="321.462" end="322.803"/>
+</W>
+<W id="Coordinative_compounds_093">
+	<FORM>mv̩˩zɯ˩-ni˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">frères et soeurs</TRANSL>
+	<TRANSL xml:lang="en">brothers and sisters</TRANSL>
+<AUDIO start="324.092" end="325.52"/>
+</W>
+<W id="Coordinative_compounds_094">
+	<FORM>ʐwæ˩mi˩-ʐwæ˩zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L"/>
+	<TRANSL xml:lang="fr">jument et poulain</TRANSL>
+	<TRANSL xml:lang="en">mare and colt</TRANSL>
+<AUDIO start="326.878" end="328.585"/>
+</W>
+<W id="Coordinative_compounds_095">
+	<FORM>ʝi˩mi˩-ʐɤ˥qo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">vache et veau</TRANSL>
+	<TRANSL xml:lang="en">cow and veal</TRANSL>
+<AUDIO start="374.77" end="376.14"/>
+</W>
+<W id="Coordinative_compounds_096">
+	<FORM>ʝi˩mi˩-ʐɤ˥qo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">vache et veau</TRANSL>
+	<TRANSL xml:lang="en">cow and veal</TRANSL>
+<AUDIO start="384.359" end="385.683"/>
+</W>
+<W id="Coordinative_compounds_097">
+	<FORM>ʝi˩mi˩˥, ǀ ʐɤ˩qo˩˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "This token is a simple juxtaposition of the two terms, not a compound."/>
+	<TRANSL xml:lang="fr">vache et veau</TRANSL>
+	<TRANSL xml:lang="en">cow and veal</TRANSL>
+<AUDIO start="377.115" end="378.578"/>
+</W>
+<W id="Coordinative_compounds_098">
+	<FORM>ze˩v̩˩-ze˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">neveux et nièces</TRANSL>
+	<TRANSL xml:lang="en">nephews and nieces</TRANSL>
+<AUDIO start="387.517" end="388.841"/>
+</W>
+<W id="Coordinative_compounds_099">
+	<FORM>ze˩v̩˩-ze˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">neveux et nièces</TRANSL>
+	<TRANSL xml:lang="en">nephews and nieces</TRANSL>
+<AUDIO start="389.729" end="391.156"/>
+</W>
+<W id="Coordinative_compounds_100">
+	<FORM>ʝi˩bv̩˩-ʝi˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">taureau et vache</TRANSL>
+	<TRANSL xml:lang="en">bull and cow</TRANSL>
+<AUDIO start="392.846" end="394.274"/>
+</W>
+<W id="Coordinative_compounds_101">
+	<FORM>pɤ˩mi˩-pɤ˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">grenouille femelle et grenouille mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male frog</TRANSL>
+<AUDIO start="396.12" end="397.479"/>
+</W>
+<W id="Coordinative_compounds_102">
+	<FORM>pʰɤ˩mi˩-pʰɤ˥zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L+#H°"/>
+	<TRANSL xml:lang="fr">hyène femelle et petite hyène</TRANSL>
+	<TRANSL xml:lang="en">female and child hyena</TRANSL>
+<AUDIO start="398.82" end="400.248"/>
+</W>
+<W id="Coordinative_compounds_103">
+	<FORM>ʐwæ˧sɯ˩, ǀ ʐwæ˧zo#˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L# and #H"/>
+	<NOTE xml:lang="en" message = "This token is a simple juxtaposition of the two terms, not a compound."/>
+	<TRANSL xml:lang="fr">étalon et poulain</TRANSL>
+	<TRANSL xml:lang="en">stallion and colt</TRANSL>
+<AUDIO start="401.867" end="403.382"/>
+</W>
+<W id="Coordinative_compounds_104">
+	<FORM>ʐwæ˧sɯ˩-ʐwæ˩zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L# and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L#°"/>
+	<TRANSL xml:lang="fr">étalon et poulain</TRANSL>
+	<TRANSL xml:lang="en">stallion and colt</TRANSL>
+<AUDIO start="409.669" end="410.731"/>
+</W>
+<W id="Coordinative_compounds_105">
+	<FORM>ʐwæ˧sɯ˩-ʐwæ˩zo˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L# and #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L#°"/>
+	<TRANSL xml:lang="fr">étalon et poulain</TRANSL>
+	<TRANSL xml:lang="en">stallion and colt</TRANSL>
+<AUDIO start="412.299" end="413.483"/>
+</W>
+<W id="Coordinative_compounds_106">
+	<FORM>ʐwæ˧sɯ˩-ʐwæ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: L# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: L#°"/>
+	<TRANSL xml:lang="fr">étalon et jument</TRANSL>
+	<TRANSL xml:lang="en">stallion and mare</TRANSL>
+<AUDIO start="416.95" end="418.535"/>
+</W>
+<W id="Coordinative_compounds_107">
+	<FORM>ɑ˩ʁo˧-ʑi˧dv̩˧</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM and M"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM°"/>
+	<TRANSL xml:lang="fr">maisonnée</TRANSL>
+	<TRANSL xml:lang="en">the household</TRANSL>
+<AUDIO start="420.571" end="421.982"/>
+</W>
+<W id="Coordinative_compounds_108">
+	<FORM>pv̩˩tsɯ˧-pv̩˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM+MH# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+MH#°"/>
+	<TRANSL xml:lang="fr">peignes</TRANSL>
+	<TRANSL xml:lang="en">combs</TRANSL>
+<AUDIO start="423.758" end="424.82"/>
+</W>
+<W id="Coordinative_compounds_109">
+	<FORM>pɤ˩tɕi˧-pɤ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM+MH# and L"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+MH#°"/>
+	<TRANSL xml:lang="fr">têtard</TRANSL>
+	<TRANSL xml:lang="en">tadpole</TRANSL>
+<AUDIO start="426.788" end="427.99"/>
+</W>
+<W id="Coordinative_compounds_110">
+	<FORM>æ˩mi˧-æ˧ʂwæ˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM and H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+H#"/>
+	<TRANSL xml:lang="fr">poule et coq</TRANSL>
+	<TRANSL xml:lang="en">hen and cock</TRANSL>
+<AUDIO start="429.244" end="430.619"/>
+</W>
+<W id="Coordinative_compounds_111">
+	<FORM>æ˩mi˧-æ˧tsɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM and H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+H#"/>
+	<TRANSL xml:lang="fr">poule et poussins</TRANSL>
+	<TRANSL xml:lang="en">hen and chicks</TRANSL>
+<AUDIO start="431.839" end="433.232"/>
+</W>
+<W id="Coordinative_compounds_112">
+	<FORM>bo˩mi˧-bæ˧bv̩˥</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM and H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+H#"/>
+	<TRANSL xml:lang="fr">truie et porcelets</TRANSL>
+	<TRANSL xml:lang="en">sow and piglets</TRANSL>
+<AUDIO start="434.764" end="435.983"/>
+</W>
+<W id="Coordinative_compounds_113">
+	<FORM>ʐæ˩pʰv̩˧-ʐæ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM and LM+#H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM°L"/>
+	<TRANSL xml:lang="fr">panthère mâle et femelle</TRANSL>
+	<TRANSL xml:lang="en">male and female panther</TRANSL>
+<AUDIO start="438.079" end="439.553"/>
+</W>
+<W id="Coordinative_compounds_114">
+	<FORM>dv̩˩mi˧-dv̩˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM+#H and LM"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+#H°"/>
+	<TRANSL xml:lang="fr">belette femelle et belette mâle</TRANSL>
+	<TRANSL xml:lang="en">female and male weasels</TRANSL>
+<AUDIO start="442.166" end="443.594"/>
+</W>
+<W id="Coordinative_compounds_115">
+	<FORM>ɑ˩mi˧-ɑ˥pʰv̩˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM+#H and LM+#H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+#H°"/>
+	<TRANSL xml:lang="fr">oie mâle et oie femelle</TRANSL>
+	<TRANSL xml:lang="en">female and male goose </TRANSL>
+<AUDIO start="445.561" end="446.937"/>
+</W>
+<W id="Coordinative_compounds_116">
+	<FORM>ɖɯ˩zo˧-ɖɯ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: LM+#H and LM+#H"/>
+	<NOTE xml:lang="en" message = "Resulting tone: LM+#H°"/>
+	<TRANSL xml:lang="fr">mule mâle et mule femelle</TRANSL>
+	<TRANSL xml:lang="en">female and male mule </TRANSL>
+<AUDIO start="448.365" end="450.002"/>
+</W>
+<W id="Coordinative_compounds_117">
+	<FORM>æ˧ʂwæ˥-æ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "Input tones: H# and LM"/>
+	<NOTE xml:lang="en" message = "Resulting tone: H#°"/>
+	<TRANSL xml:lang="fr">coq et poule</TRANSL>
+	<TRANSL xml:lang="en">cock and hen</TRANSL>
+<AUDIO start="450.98" end="452.347"/>
+</W>
+</WORDLIST>

@@ -1,0 +1,91 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="showText3.xsl"?>
+<WORDLIST  id="crdo-NRU_NumPlusCL_L2_Trees_1to10_F4_11March2009"
+ xml:lang="nru">
+<url_sound>../audio/NumPlusCL_L2_Trees_1to10_F4_11March2009.wav</url_sound>
+<HEADER>
+<TITLE xml:lang="fr">NumPlusCL_L2_Trees_1to10_F4_11March2009</TITLE>
+<SOUNDFILE href="NumPlusCL_L2_Trees_1to10_F4_11March2009.wav"/>
+</HEADER>
+<NOTE xml:lang="en" message="Technical note: there is some background noise due to strong wind during the recording session, hissing through the cracks in the roof. Also, I was typing the data as they were being elicited, hence the click sounds of keyboard keys."/>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_001">
+	<FORM>si˧dzi˩ ɖɯ˧-dzi˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#."/>
+	<TRANSL xml:lang = "cn">1 棵树</TRANSL>
+	<TRANSL xml:lang = "en">1 tree</TRANSL>
+	<TRANSL xml:lang = "fr">1 arbre</TRANSL>
+	<AUDIO start="2.274" end="4.086"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_002">
+	<FORM>si˧dzi˩ ɲi˧-dzi˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#."/>
+	<TRANSL xml:lang = "cn">2 棵树</TRANSL>
+	<TRANSL xml:lang = "en">2 trees</TRANSL>
+	<TRANSL xml:lang = "fr">2 arbres</TRANSL>
+	<AUDIO start="5.999" end="8.15"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_003">
+	<FORM>si˧dzi˩ so˧-dzi˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">3 棵树</TRANSL>
+	<TRANSL xml:lang = "en">3 trees</TRANSL>
+	<TRANSL xml:lang = "fr">3 arbres</TRANSL>
+	<AUDIO start="8.15" end="10.216"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_004">
+	<FORM>ʐv̩˧-dzi˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">4 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">4 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">4 +classificateur des arbres</TRANSL>
+	<AUDIO start="11.447" end="13.397"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_005">
+	<FORM>ŋwɤ˧-dzi˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">5 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">5 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">5 +classificateur des arbres</TRANSL>
+	<AUDIO start="13.397" end="15.65"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_006">
+	<FORM>qʰv̩˧-dzi˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">6 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">6 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">6 +classificateur des arbres</TRANSL>
+	<AUDIO start="15.65" end="17.531"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_007">
+	<FORM>ʂɯ˧-dzi˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#."/>
+	<TRANSL xml:lang = "cn">7 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">7 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">7 +classificateur des arbres</TRANSL>
+	<AUDIO start="17.531" end="19.783"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_008">
+	<FORM>hũ˧-dzi˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">8 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">8 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">8 +classificateur des arbres</TRANSL>
+	<AUDIO start="19.783" end="21.884"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_009">
+	<FORM>gv̩˧-dzi˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#. Variant: gv̩˧-dzi˥ (surface phonological representation); underlying tone: H#."/>
+	<TRANSL xml:lang = "cn">9 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">9 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">9 +classificateur des arbres</TRANSL>
+	<AUDIO start="21.884" end="23.742"/>
+</W>
+<W id="NumPlusCL_L2_Trees_1to10_F4_11March2009_010">
+	<FORM>tsʰe˧-dzi˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">10 棵（树）</TRANSL>
+	<TRANSL xml:lang = "en">10 +classifier for trees</TRANSL>
+	<TRANSL xml:lang = "fr">10 +classificateur des arbres</TRANSL>
+	<AUDIO start="23.742" end="25.495"/>
+</W>
+</WORDLIST>

@@ -1,0 +1,294 @@
+﻿Liste de régions : Tone_Peoples_1_F4_2006.wav
+
+Nom                                Début           Fin      Longueur
+-------------------------- ------------- ------------- -------------
+m1+d3_s_couteau na_254+510 "couteau"  00:29:34,599  00:29:38,302  00:00:03,703
+m1+d3_s_couteau na_254+510 "couteau"  00:29:43,492  00:29:44,908  00:00:01,416
+m1+d4_s_étalon na_254+1859 "étalon"  00:29:28,341  00:29:32,521  00:00:04,179
+m1+d4_s_étalon na_254+1859 "étalon"  00:29:44,908  00:29:46,557  00:00:01,648
+m4a+d1_a_sa couverture      00:00:58,258  00:00:59,210  00:00:00,952
+m4a+d1_a_sa couverture      00:08:04,134  00:08:05,063  00:00:00,928
+m4a+d2b_a_sa bande molletière  00:07:28,131  00:07:31,005  00:00:02,873
+m4a+d2b_a_sa bande molletière  00:07:33,925  00:07:35,028  00:00:01,102
+m4a+d2b_a_sa bande molletière  00:08:05,330  00:08:06,317  00:00:00,986
+m4a+d2b_a_sa bande molletière_soulignant la séquence des tons M du composé: MMMR  00:07:45,442  00:07:46,522  00:00:01,079
+m4a+d2b_a_son couteau_sans remontée finale  00:09:41,095  00:09:44,293  00:00:03,198
+m4a+d2b_a_son couteau_sans remontée finale  00:09:46,832  00:09:47,649  00:00:00,817
+m4a+d2b_a_son couteau_sans remontée finale  00:09:50,667  00:09:51,526  00:00:00,859
+m4a+d3_a_son vêtement_sans remontée finale  00:03:52,803  00:03:55,623  00:00:02,819
+m4a+d3_a_son vêtement_sans remontée finale  00:03:56,794  00:03:57,458  00:00:00,664
+m4a+d4_a_son ambre          00:02:25,960  00:02:29,269  00:00:03,308
+m4a+d5a_a_son anneau        00:05:20,760  00:05:23,430  00:00:02,670
+m4a+d5a_a_son anneau        00:07:51,282  00:07:52,234  00:00:00,952
+m4a+m4a_a_sang humain       00:17:01,766  00:17:02,973  00:00:01,207
+d1+m1_s_bol bai_détachant chaque syllabe  00:16:48,368  00:16:52,350  00:00:03,982
+d1+m2_s_champ bai           00:16:23,105  00:16:24,150  00:00:01,044
+d1+m4a_s_sang bai)          00:17:23,198  00:17:24,336  00:00:01,137
+d1+d1_s_couverture bai)     00:00:37,871  00:00:39,775  00:00:01,904
+d1+d2a_s_feutre bai          00:12:27,797  00:12:29,132  00:00:01,335
+d1+d2a_s_feutre bai          00:12:31,698  00:12:38,420  00:00:06,722
+d1+d2b_s_bande molletière bai  00:06:28,886  00:06:33,832  00:00:04,945
+d1+d2b_s_bande molletière bai  00:06:59,536  00:07:00,616  00:00:01,079
+d1+d2b_s_bande molletière bai)  00:06:42,130  00:06:43,445  00:00:01,314
+d1+d2b_s_bande molletière bai)  00:06:47,015  00:06:47,944  00:00:00,928
+d1+d2b_s_tuile bai)         00:15:42,539  00:15:43,529  00:00:00,989
+d1+d2b_s_tuile bai)         00:15:45,454  00:15:49,900  00:00:04,446
+d1+d2b_s_tuile bai)         00:15:54,591  00:15:55,891  00:00:01,300
+d1+d3_a_vêtement bai        00:03:33,995  00:03:35,225  00:00:01,230
+d1+d3_s_vêtement bai        00:03:25,125  00:03:26,471  00:00:01,346
+d1+d3_s_vêtement bai)       00:03:28,285  00:03:31,313  00:00:03,027
+d1+d3_s_coeur bai           00:18:10,009  00:18:11,286  00:00:01,277
+d1+d3_s_coeur bai_deux dernières syllabes  00:18:13,550  00:18:14,363  00:00:00,812
+d1+d3_s_couteau bai        00:09:26,066  00:09:27,354  00:00:01,288
+d1+d3_s_couteau bai)       00:09:33,590  00:09:34,608  00:00:01,017
+d1+d3_s_couteau bai         00:26:35,335  00:26:38,098  00:00:02,763
+d1+d3_s_couteau bai         00:28:24,173  00:28:25,868  00:00:01,695
+d1+d3_s_couteau bai)        00:26:39,948  00:26:40,620  00:00:00,671
+d1+d3_s_couteau bai_détachant les syllabes_extrêmement clair  00:26:48,953  00:26:58,508  00:00:09,555
+d1+d3_s_couteau bai_faisant ressortir les tons  00:27:22,335  00:27:23,934  00:00:01,599
+d1+d3_s_couteau bai_mettant en valeur les tons des deux dernières syllabes)  00:26:45,424  00:26:47,235  00:00:01,811
+d1+d3_s_couteau bai_deux dernières syllabes  00:09:30,071  00:09:31,011  00:00:00,940
+d1+d3_s_couteau bai_deux dernières syllabes)  00:26:41,952  00:26:44,042  00:00:02,089
+d1+d3_s_couteau bai_deux dernières syllabes_mettant en valeur les tons  00:27:03,663  00:27:04,511  00:00:00,847
+d1+d4_a_ambre bai)          00:01:55,034  00:01:56,076  00:00:01,041
+d1+d4_s_ambre bai           00:01:50,689  00:01:51,687  00:00:00,998
+d1+d4_s_sanctuaire bai_réalisé très haut, erreur ou manque de cadre/hauteur-repère  00:29:05,481  00:29:07,222  00:00:01,741
+d1+d5a_a_anneau bai         00:04:43,852  00:04:51,456  00:00:07,604
+d1+d5a_s_anneau bai)        00:04:54,857  00:04:59,351  00:00:04,494
+d1+d5a_tapis de selle bai   00:13:48,204  00:13:49,458  00:00:01,253
+d1+d5b_s_tabouret bai       00:13:03,204  00:13:04,470  00:00:01,265
+d1+d5b_s_tabouret bai)      00:13:07,128  00:13:10,507  00:00:03,378
+d1+d7_s_boucle d'oreille bai  00:10:56,229  00:10:57,552  00:00:01,323
+d1+d7_s_boucle d'oreille bai)  00:11:02,597  00:11:05,633  00:00:03,036
+d1+d7_s_briquet bai         00:12:02,777  00:12:03,915  00:00:01,137
+d1+d7_s_col d'argent bai    00:11:43,597  00:11:44,898  00:00:01,300
+d1+d7_s_turban bai          00:11:25,718  00:11:28,667  00:00:02,948
+d3+m4a_s_"sang du coeur"_schéma tonal régulier  00:17:28,121  00:17:29,305  00:00:01,184
+d4+m1_s_bol tibétain        00:16:53,848  00:16:56,646  00:00:02,798
+d4+m2_s_champ tibétain      00:16:26,472  00:16:27,424  00:00:00,952
+d4+m4a_s_sang tibétain      00:17:25,729  00:17:26,751  00:00:01,021
+d4+d1_a_couverture tibétaine  00:00:56,376  00:00:57,359  00:00:00,982
+d4+d1_s_couverture tibétaine  00:00:41,679  00:00:45,696  00:00:04,017
+d4+d1_s_couverture tibétaine  00:02:11,842  00:02:12,614  00:00:00,772
+d4+d1_s_couverture tibétaine)  00:00:53,754  00:00:54,462  00:00:00,708
+d4+d1_s_couverture tibétaine_détachant les syllabes  00:00:47,972  00:00:49,922  00:00:01,950
+d4+d2a_s_feutre tibétain    00:12:39,650  00:12:40,858  00:00:01,207
+d4+d2b_s_bande molletière tibétaine  00:07:15,128  00:07:16,104  00:00:00,975
+d4+d2b_s_bande molletière tibétaine)  00:07:12,870  00:07:13,620  00:00:00,750
+d4+d2b_s_bande molletière tibétaine_détachant les syllabes  00:07:22,475  00:07:23,804  00:00:01,329
+d4+d2b_s_bande molletière tibétaine_deux dernières syllabes  00:07:09,010  00:07:11,123  00:00:02,113
+d4+d2b_s_tuile tibétaine    00:16:00,544  00:16:01,321  00:00:00,777
+d4+d2b_s_tuile tibétaine    00:16:03,948  00:16:04,958  00:00:01,010
+d4+d3_s_coeur tibétain      00:18:19,762  00:18:20,888  00:00:01,126
+d4+d3_s_couteau tibétain    00:09:36,677  00:09:38,140  00:00:01,462
+d4+d3_a_vêtement tibétain)  00:03:46,243  00:03:47,091  00:00:00,847
+d4+d3_s_vêtement tibétain   00:03:37,454  00:03:38,639  00:00:01,184
+d4+d3_s_vêtement tibétain   00:03:41,750  00:03:42,749  00:00:00,998
+d4+d3_s_vêtement tibétain   00:03:49,401  00:03:49,993  00:00:00,592
+d4+d4_a_ambre tibétain      00:02:16,719  00:02:18,263  00:00:01,544
+d4+d4_s_ambre tibétain      00:01:59,745  00:02:00,743  00:00:00,998
+d4+d4_s_ambre tibétain      00:02:06,001  00:02:06,685  00:00:00,683
+d4+d4_s_ambre tibétain)     00:02:09,602  00:02:10,287  00:00:00,684
+d4+d4_s_ambre tibétain_attention_simple juxtaposition  00:02:01,927  00:02:04,517  00:00:02,589
+d4+d4_s_sanctuaire tibétain  00:29:11,367  00:29:13,202  00:00:01,834
+d4+d4_s_sanctuaire tibétain)  00:29:15,454  00:29:17,416  00:00:01,962
+d4+d5a_a_anneau tibétain    00:05:04,352  00:05:05,412  00:00:01,059
+d4+d5a_a_anneau tibétain_erreur  00:05:08,680  00:05:09,661  00:00:00,981
+d4+d5a_s_anneau tibétain    00:05:11,124  00:05:12,726  00:00:01,602
+d4+d5a_s_tapis de selle tibétain  00:14:10,937  00:14:12,446  00:00:01,509
+d4+d5b_s_tabouret tibétain  00:13:12,898  00:13:13,978  00:00:01,079
+d4+d5b_s_tabouret tibétain  00:13:17,740  00:13:19,063  00:00:01,323
+d4+d7_s_boucle d'oreille tibétaine  00:11:07,270  00:11:08,396  00:00:01,126
+d4+d7_s_briquet tibétain    00:12:06,399  00:12:07,595  00:00:01,195
+d4+d7_s_col d'argent tibétain  00:11:47,777  00:11:49,124  00:00:01,346
+d4+d7_s_turban tibétain     00:11:30,919  00:11:33,799  00:00:02,879
+d5b+m1_s_bol naxi           00:16:35,597  00:16:36,723  00:00:01,126
+d5b+m2_s_champ naxi         00:16:13,886  00:16:14,618  00:00:00,731
+d5b+m4a_s_sang naxi         00:17:04,970  00:17:05,876  00:00:00,905
+d5b+d1_a_couverture naxi    00:00:00,185  00:00:04,690  00:00:04,504
+d5b+d1_s_couverture naxi    00:18:59,449  00:19:00,587  00:00:01,137
+d5b+d1_s_couverture naxi    00:19:02,734  00:19:03,890  00:00:01,155
+d5b+d1_s_couverture naxi    00:19:12,162  00:19:13,578  00:00:01,416
+d5b+d1_s_couverture naxi_erroné  00:00:06,887  00:00:07,778  00:00:00,891
+d5b+d2a_s_feutre naxi        00:12:13,133  00:12:14,457  00:00:01,323
+d5b+d2a_s_feutre naxi        00:12:15,873  00:12:17,777  00:00:01,904
+d5b+d2b_a_bande molletière naxi  00:05:30,859  00:05:32,136  00:00:01,277
+d5b+d2b_s_bande molletière naxi  00:05:36,920  00:05:37,964  00:00:01,044
+d5b+d2b_s_bande molletière naxi)  00:05:43,735  00:05:44,391  00:00:00,655
+d5b+d2b_s_bande molletière naxi_détachant chaque syllabe_très clair  00:05:49,841  00:05:51,119  00:00:01,277
+d5b+d2b_s_bande molletière naxi_deux dernières syllabes  00:05:45,592  00:05:46,649  00:00:01,056
+d5b+d2b_s_tuile naxi        00:14:25,867  00:14:27,307  00:00:01,439
+d5b+d3_a_coeur naxi         00:17:30,141  00:17:32,184  00:00:02,043
+d5b+d3_s_coeur naxi         00:17:35,388  00:17:41,960  00:00:06,571
+d5b+d3_s_coeur naxi         00:18:24,329  00:18:25,490  00:00:01,160
+d5b+d3_s_coeur naxi         00:18:30,435  00:18:32,177  00:00:01,741
+d5b+d3_s_coeur naxi_détachant les syllabes  00:17:50,493  00:17:52,281  00:00:01,787
+d5b+d3_s_coeur naxi_deux dernières syllabes  00:18:26,047  00:18:29,809  00:00:03,761
+d5b+d3_s_coeur naxi_vérification du fait que ce n'est pas LMHL_exemple d'erreur: ce qui lui fait dire que ce n'est pas bon, c'est le débit très lent.  00:18:32,641  00:18:43,729  00:00:11,087
+d5b+d3_s_d5b+d5a_coeur naxi_coussin de selle naxi_vérification de l'identité entre les divers exemples de LH+LR  00:18:50,590  00:18:54,329  00:00:03,738
+d5b+d3_a_couteau naxi      00:08:16,742  00:08:18,043  00:00:01,300
+d5b+d3_s_couteau naxi      00:08:20,318  00:08:21,317  00:00:00,998
+d5b+d3_s_couteau naxi      00:08:23,418  00:08:24,719  00:00:01,300
+d5b+d3_s_couteau naxi)     00:08:42,818  00:08:43,994  00:00:01,175
+d5b+d3_s_couteau naxi)     00:08:48,844  00:08:50,173  00:00:01,329
+d5b+d3_s_couteau naxi_détachant les syllabes  00:08:36,665  00:08:38,500  00:00:01,834
+d5b+d3_s_couteau naxi_détachant les syllabes  00:08:52,048  00:08:53,778  00:00:01,729
+d5b+d3_s_couteau naxi_détachant les syllabes_soulignant le ton final M et non L  00:08:54,788  00:08:56,298  00:00:01,509
+d5b+d3_s_couteau naxi_deux dernières syllabes  00:08:27,377  00:08:28,352  00:00:00,975
+d5b+d3_a_vêtement naxi      00:02:33,762  00:02:35,155  00:00:01,393
+d5b+d3_a_vêtement naxi      00:02:37,570  00:02:38,963  00:00:01,393
+d5b+d3_s_vêtement naxi      00:02:42,812  00:02:43,429  00:00:00,616
+d5b+d3_s_vêtement naxi)     00:02:44,803  00:02:45,411  00:00:00,608
+d5b+d3_s_vêtement naxi)     00:02:55,891  00:02:56,901  00:00:01,010
+d5b+d3_s_vêtement naxi_détachant chaque syllabe_très clair  00:02:48,646  00:02:49,784  00:00:01,137
+d5b+d4_a_ambre naxi         00:01:03,135  00:01:04,458  00:00:01,323
+d5b+d4_a_ambre naxi         00:01:16,474  00:01:17,682  00:00:01,207
+d5b+d4_a_ambre naxi)        00:01:19,667  00:01:22,721  00:00:03,053
+d5b+d4_s_ambre naxi         00:01:11,656  00:01:15,720  00:00:04,063
+d5b+d4_s_ambre naxi         00:01:25,234  00:01:25,953  00:00:00,718
+d5b+d4_s_sanctuaire naxi_sans changement de ton_erreur: suggestion erronée de ma part  00:28:40,345  00:28:41,379  00:00:01,033
+d5b+d5a_a_anneau naxi       00:04:06,154  00:04:07,571  00:00:01,416
+d5b+d5a_s_anneau naxi       00:04:10,682  00:04:13,979  00:00:03,297
+d5b+d5a_s_anneau naxi)      00:04:18,905  00:04:19,657  00:00:00,751
+d5b+d5a_s_anneau naxi_détachant clairement les syllabes  00:04:24,893  00:04:29,723  00:00:04,829
+d5b+d5a_s_tapis de selle naxi  00:13:35,178  00:13:42,864  00:00:07,685
+d5b+d5b_s_tabouret naxi_deux dernières syllabes)  00:12:44,326  00:12:49,551  00:00:05,224
+d5b+d5b_s_tabouret naxi_deux dernières syllabes)  00:12:50,108  00:12:51,246  00:00:01,137
+d5b+d7_a_boucle d'oreille naxi  00:10:17,087  00:10:18,062  00:00:00,975
+d5b+d7_s_boucle d'oreille naxi  00:10:19,553  00:10:20,702  00:00:01,149
+d5b+d7_s_boucle d'oreille naxi  00:10:22,165  00:10:23,825  00:00:01,660
+d5b+d7_s_boucle d'oreille naxi  00:10:26,855  00:10:27,877  00:00:01,021
+d5b+d7_s_boucle d'oreille naxi)  00:10:25,477  00:10:26,282  00:00:00,805
+d5b+d7_s_boucle d'oreille naxi_détachant les syllabes_très clair)  00:10:31,880  00:10:33,125  00:00:01,245
+d5b+d7_s_briquet naxi       00:11:55,382  00:11:56,450  00:00:01,068
+d5b+d7_s_col d'argent naxi  00:11:36,051  00:11:37,328  00:00:01,277
+d5b+d7_s_turban naxi        00:11:17,754  00:11:19,100  00:00:01,346
+d7+m1_s_bol lisu            00:16:38,999  00:16:42,145  00:00:03,146
+d7+m1_s_bol lisu_mettant en valeur le ton L final  00:16:44,885  00:16:45,953  00:00:01,068
+d7+m2_s_champ lisu          00:16:17,694  00:16:18,739  00:00:01,044
+d7+m4a_s_sang lisu          00:17:07,780  00:17:08,871  00:00:01,091
+d7+m4a_s_sang lisu          00:17:19,877  00:17:21,480  00:00:01,602
+d7+d1_s_couverture lisu     00:00:09,822  00:00:13,116  00:00:03,294
+d7+d1_s_couverture lisu     00:00:31,079  00:00:32,345  00:00:01,265
+d7+d1_s_couverture lisu     00:00:32,670  00:00:33,703  00:00:01,033
+d7+d1_s_couverture lisu     00:22:46,038  00:22:50,171  00:00:04,133
+d7+d1_s_couverture lisu     00:24:11,951  00:24:13,379  00:00:01,428
+d7+d1_s_couverture lisu)    00:00:16,518  00:00:17,191  00:00:00,673
+d7+d1_s_couverture lisu)    00:00:28,055  00:00:28,949  00:00:00,893
+d7+d1_s_couverture lisu)    00:22:43,584  00:22:44,369  00:00:00,785
+d7+d1_s_couverture lisu_débit rapide  00:00:34,783  00:00:35,526  00:00:00,743
+d7+d1_s_couverture lisu_mettant en valeur les tons des deux dernières syllabes  00:22:53,398  00:22:55,558  00:00:02,159
+d7+d1_s_couverture lisu_mettant en valeur les tons des deux dernières syllabes  00:23:14,192  00:23:16,642  00:00:02,449
+d7+d1_s_couverture lisu_deux dernières syllabes  00:00:14,024  00:00:14,413  00:00:00,388
+d7+d1_s_couverture lisu_deux dernières syllabes  00:00:21,733  00:00:22,453  00:00:00,719
+d7+d1_s_couverture lisu_deux dernières syllabes_mettant en valeur les tons  00:22:50,333  00:22:53,073  00:00:02,739
+d7+d2a_s_gencives de rat     00:25:03,500  00:25:05,032  00:00:01,532
+d7+d2a_s_gencives de rat)    00:24:56,773  00:24:58,113  00:00:01,339
+d7+d2a_s_feutre lisu         00:12:19,635  00:12:26,067  00:00:06,431
+d7+d2b_s_bande molletière lisu  00:24:34,312  00:24:35,938  00:00:01,625
+d7+d2b_s_bande molletière lisu  00:05:54,520  00:05:55,774  00:00:01,253
+d7+d2b_s_bande molletière lisu  00:06:23,325  00:06:24,660  00:00:01,335
+d7+d2b_s_bande molletière lisu  00:24:23,248  00:24:24,688  00:00:01,439
+d7+d2b_s_bande molletière lisu  00:25:01,096  00:25:02,606  00:00:01,509
+d7+d2b_s_bande molletière lisu_détachant les syllabes  00:24:41,673  00:24:43,507  00:00:01,834
+d7+d2b_s_bande molletière lisu_détachant les syllabes  00:06:01,904  00:06:08,719  00:00:06,815
+d7+d2b_s_bande molletière lisu_détachant les syllabes  00:06:14,884  00:06:16,370  00:00:01,486
+d7+d2b_s_bande molletière lisu_deux dernières syllabes  00:05:58,421  00:05:59,211  00:00:00,789
+d7+d2b_s_bande molletière lisu_deux dernières syllabes_faisant ressortir les tons  00:24:44,645  00:24:45,435  00:00:00,789
+d7+d2b_s_tuile lisu         00:14:29,513  00:14:30,859  00:00:01,346
+d7+d2b_s_tuile lisu         00:15:20,063  00:15:21,432  00:00:01,369
+d7+d2b_s_tuile lisu)        00:15:16,881  00:15:17,967  00:00:01,085
+d7+d2b_s_tuile lisu_deux dernières syllabes  00:14:33,054  00:14:34,041  00:00:00,986
+d7+d3_s_coeur lisu          00:18:04,831  00:18:06,968  00:00:02,136
+d7+d3_s_couteau lisu        00:09:04,384  00:09:05,586  00:00:01,201
+d7+d3_s_couteau lisu        00:09:55,787  00:09:56,809  00:00:01,021
+d7+d3_s_couteau lisu        00:27:33,167  00:27:33,965  00:00:00,798
+d7+d3_s_couteau lisu        00:28:08,104  00:28:10,032  00:00:01,927
+d7+d3_s_couteau lisu        00:28:27,714  00:28:29,374  00:00:01,660
+d7+d3_s_couteau lisu)       00:27:35,777  00:27:36,630  00:00:00,852
+d7+d3_s_couteau lisu)       00:27:52,199  00:27:58,422  00:00:06,222
+d7+d3_s_couteau lisu_avec une pause entre chaque syllabe, extrêmement clair  00:09:18,391  00:09:22,757  00:00:04,365
+d7+d3_s_couteau lisu_détachant les syllabes  00:09:13,074  00:09:14,717  00:00:01,642
+d7+d3_s_couteau lisu_détachant les syllabes  00:10:00,797  00:10:02,196  00:00:01,399
+d7+d3_s_couteau lisu_détachant les syllabes  00:10:08,233  00:10:09,742  00:00:01,509
+d7+d3_s_couteau lisu_détachant les syllabes_très clair  00:27:47,276  00:27:48,971  00:00:01,695
+d7+d3_s_couteau lisu_deux dernières syllabes)  00:27:37,756  00:27:40,264  00:00:02,507
+d7+d3_s_vêtement lisu       00:03:01,115  00:03:04,424  00:00:03,308
+d7+d3_s_vêtement lisu)      00:03:22,152  00:03:22,866  00:00:00,714
+d7+d3_s_vêtement lisu_détachant les trois niveaux tonals: M, H, LL  00:03:12,133  00:03:13,352  00:00:01,219
+d7+d4_a_ambre lisu         00:01:29,431  00:01:30,940  00:00:01,509
+d7+d4_a_ambre lisu         00:01:42,536  00:01:43,504  00:00:00,967
+d7+d4_a_ambre lisu_trois dernières syllabes)  00:01:35,561  00:01:39,033  00:00:03,471
+d7+d4_s_ambre lisu         00:25:59,599  00:26:01,178  00:00:01,578
+d7+d4_s_ambre lisu)        00:01:46,787  00:01:47,467  00:00:00,680
+d7+d4_s_ambre lisu_tons corrects, confusion des fricatives  00:26:02,223  00:26:03,639  00:00:01,416
+d7+d4_s_ambre lisu_erreur_réalisation ML de la tête  00:01:32,264  00:01:34,331  00:00:02,066
+d7+d4_s_sanctuaire lisu     00:28:44,525  00:28:45,837  00:00:01,311
+d7+d4_s_sanctuaire lisu_détachant les syllabes  00:29:00,477  00:29:02,300  00:00:01,822
+d7+d4_s_sanctuaire lisu_détachant les syllabes)  00:28:56,228  00:28:57,969  00:00:01,741
+d7+d4_s_sanctuaire lisu_deux dernières syllabes_hyper-articulé  00:28:47,927  00:28:48,606  00:00:00,679
+d7+d4_s_sanctuaire lisu_deux dernières syllabes_hyper-articulé)  00:28:52,803  00:28:55,032  00:00:02,229
+d7+d4_a_oreille de rat      00:19:37,370  00:19:38,972  00:00:01,602
+d7+d4_a_oreille de rat      00:20:05,710  00:20:11,071  00:00:05,360
+d7+d4_a_oreille de rat      00:20:30,439  00:20:32,085  00:00:01,645
+d7+d4_a_oreille de rat_articulé avec soin)  00:20:12,773  00:20:14,252  00:00:01,478
+d7+d4_a_oreille de rat_débit rapide  00:20:24,190  00:20:25,052  00:00:00,862
+d7+d4_a_oreille de rat_débit rapide)  00:19:30,787  00:19:31,569  00:00:00,782
+d7+d4_a_oreille de rat_dernière syllabe)  00:20:37,008  00:20:37,203  00:00:00,195
+d7+d4_a_oreille de rat_détachant les syllabes_syll. 3, 4 et 5)  00:20:17,665  00:20:21,613  00:00:03,947
+d7+d4_a_oreille de rat_deux dernières syllabes  00:20:34,616  00:20:35,637  00:00:01,021
+d7+d4_a_oreille de rat_deux dernières syllabes  00:20:38,134  00:20:39,004  00:00:00,870
+d7+d4_a_oreille de rat_trois dernières syllabes_détachant chaque syllabe)  00:20:56,860  00:20:59,043  00:00:02,182
+d7+d4_s_oreille de rat      00:19:16,968  00:19:18,083  00:00:01,114
+d7+d4_s_oreille de rat      00:19:19,917  00:19:21,752  00:00:01,834
+d7+d4_s_oreille de rat)     00:19:21,844  00:19:27,440  00:00:05,596
+d7+d4_s_oreille de rat_ama souligne que c'est "mieux" que la forme analytique)  00:19:42,975  00:20:01,551  00:00:18,575
+d7+d4_s_tête de rat         00:25:52,227  00:25:53,460  00:00:01,233
+(d'après ama: même schéma tonal pour "tête de souris" et "oreille de souris")  00:21:03,223  00:21:20,522  00:00:17,298
+d7+d5a_s_anneau lisu_détachant les syllabes  00:04:35,197  00:04:36,956  00:00:01,758
+d7+d5a_s_tapis de selle lisu  00:13:44,768  00:13:46,254  00:00:01,486
+d7+d5a_s_tapis de selle lisu  00:23:59,273  00:24:00,783  00:00:01,509
+d7+d5a_s_tapis de selle lisu  00:24:14,459  00:24:15,922  00:00:01,462
+d7+d5a_s_tapis de selle lisu_détachant les syllabes  00:24:01,851  00:24:04,150  00:00:02,298
+d7+d5a_s_tapis de selle lisu_hyper-articulé)  00:24:07,290  00:24:09,026  00:00:01,735
+d7+d5b_s_tabouret lisu      00:12:53,591  00:12:54,810  00:00:01,219
+d7+d5b_s_tabouret lisu      00:13:00,278  00:13:01,579  00:00:01,300
+d7+d6_a_oeil de rat_erreur  00:21:58,533  00:21:59,903  00:00:01,369
+d7+d6_a_oeil de rat_erreur  00:22:08,610  00:22:09,934  00:00:01,323
+d7+d6_s_oeil de rat         00:21:24,771  00:21:26,164  00:00:01,393
+d7+d6_s_oeil de rat         00:24:31,096  00:24:32,571  00:00:01,474
+d7+d6_s_oeil de rat_détachant les syllabes  00:21:33,966  00:21:36,334  00:00:02,368
+d7+d6_s_oeil de rat_détachant les syllabes  00:21:52,403  00:21:54,446  00:00:02,043
+d7+d6_s_oeil de rat_deux dernières syllabes)  00:21:27,592  00:21:31,354  00:00:03,761
+d7+d6_s_oeil de rat_deux dernières syllabes)  00:21:37,828  00:21:38,575  00:00:00,747
+d7+d6_s_oeil de rat_deux dernières syllabes)  00:21:44,415  00:21:47,503  00:00:03,088
+d7+d7_s_boucle d'oreille lisu  00:10:51,724  00:10:53,094  00:00:01,369
+d7+d7_s_boucle d'oreille lisu)  00:10:41,670  00:10:43,667  00:00:01,996
+d7+d7_s_briquet lisu        00:11:58,574  00:11:59,677  00:00:01,102
+d7+d7_s_col d'argent lisu   00:11:39,557  00:11:41,043  00:00:01,486
+d7+d7_s_col en argent lisu  00:14:48,019  00:15:07,802  00:00:19,783
+d7+d7_s_col en argent lisu_schéma erroné_simple juxtaposition MH+MH_ama prononce MHMH, contrairement à ce qu'elle avait indiqué précédemment_pas de conscience des tons  00:14:36,409  00:14:45,163  00:00:08,753
+d7+d7_s_turban lisu         00:11:21,562  00:11:22,816  00:00:01,253
+acheter                     00:27:05,939  00:27:06,682  00:00:00,743
+"acheter un couteau bai"    00:27:07,750  00:27:09,665  00:00:01,915
+"acheter un couteau bai"    00:27:29,960  00:27:30,990  00:00:01,030
+"acheter un couteau bai"_ama fait ressortir le changement de niveau tonal entre "couteau" et le verbe  00:27:12,487  00:27:15,203  00:00:02,716
+m1_bol                      00:16:30,814  00:16:31,580  00:00:00,766
+m2_champ                    00:16:08,499  00:16:09,208  00:00:00,708
+d2a_feutre                  00:12:10,347  00:12:11,229  00:00:00,882
+d2a_gencive                 00:24:53,028  00:24:53,747  00:00:00,719
+d2b_bande molletière        00:05:24,195  00:05:27,748  00:00:03,552
+d2b_bande molletière        00:06:09,532  00:06:10,136  00:00:00,603
+d2b_tuile                   00:14:16,173  00:14:24,462  00:00:08,289
+d3_couteau                  00:08:13,585  00:08:14,397  00:00:00,812
+d4_ambre_437               00:01:01,486  00:01:02,484  00:00:00,998
+d4_tibétain(250_"tibétain"_HL)  00:00:51,745  00:00:52,128  00:00:00,383
+d5a_444b_tapis de selle     00:13:29,582  00:13:30,244  00:00:00,661
+d5a_444b_tapis de selle     00:13:32,203  00:13:32,781  00:00:00,577
+d5a_tapis de selle          00:23:55,581  00:23:56,371  00:00:00,789
+d5a_anneau                  00:04:00,123  00:04:02,816  00:00:02,693
+d5b_485_tabouret            00:28:36,723  00:28:38,569  00:00:01,846
+d5b_tabouret                00:12:42,480  00:12:43,270  00:00:00,789
+d7_boucle d'oreille         00:10:14,201  00:10:14,990  00:00:00,789
+d7_briquet)                 00:11:53,489  00:11:54,371  00:00:00,882
+d7_turban                   00:11:11,740  00:11:14,689  00:00:02,948

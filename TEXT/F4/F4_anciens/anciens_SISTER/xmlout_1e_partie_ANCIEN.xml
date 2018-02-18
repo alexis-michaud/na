@@ -1,0 +1,2945 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<TEXT id="crdo-NBF_﻿FrereEtSoeur_version1" xml:lang="nbf">
+<HEADER>
+<TITLE xml:lang="fr">﻿FrereEtSoeur_version1</TITLE>
+<SOUNDFILE href="xxx.wav"/>
+</HEADER>
+<S id="﻿FrereEtSoeur_version1S001">
+	<FORM>ə˧i˧-ʂɯ˥i˩ | dʑu˩ || … ə˩-gi˩ ! ||</FORM>
+	<TRANSL xml:lang="fr">Jadis, eh bien… n’est-ce pas…</TRANSL>
+		<W>
+			<FORM>ə˧i˧-ʂɯ˥i˩</FORM>
+			<TRANSL xml:lang="fr">jadis</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ə˩</FORM>
+			<TRANSL xml:lang="fr">°interrog</TRANSL>
+		</W>
+		<W>
+			<FORM>gi˩</FORM>
+			<TRANSL xml:lang="fr">véritable</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S002">
+	<FORM>ʈʂʰɯ˧ne˧˥ | gv˧ | tsɯ˩ mv˩ ||</FORM>
+	<NOTE message = "d’abord noté gv˩, mais est en fait gv˧ ; vérifié auprès de F4 en mars 09 ; ce mot marque le début d’un groupe phonologique."/>
+	<TRANSL xml:lang="fr">c’est comme ça (que ça s’est passé), à ce qu’on raconte : / on dit que c’est ainsi : </TRANSL>
+		<W>
+			<FORM>ʈʂʰɯ˧ne˧˥</FORM>
+			<TRANSL xml:lang="fr">ainsi</TRANSL>
+		</W>
+		<W>
+			<FORM>gv˧</FORM>
+			<TRANSL xml:lang="fr">se passer</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S003">
+	<FORM>tʰi˩˧ | ə… </FORM>
+	<TRANSL xml:lang="fr">alors… euh…</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ə</FORM>
+			<TRANSL xml:lang="fr">°hésitation</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S004">
+	<FORM>mv˩zɯ˩-ni˧mi˩ | ɲi˧-kv˧ dʑu˧ || tsɯ˩ mv˩ ! |</FORM>
+	<NOTE message = "confirmé : est dʑu˧, et pas dʑu˩˥ comme originellement noté"/>
+	<TRANSL xml:lang="fr">on raconte qu’il y avait deux enfants (deux personnes de la même fratrie) !</TRANSL>
+		<W>
+			<FORM>mv˩zɯ˩</FORM>
+			<TRANSL xml:lang="fr">frère</TRANSL>
+		</W>
+		<W>
+			<FORM>ni˧mi˥</FORM>
+			<TRANSL xml:lang="fr">sœur</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˧</FORM>
+			<TRANSL xml:lang="fr">deux</TRANSL>
+		</W>
+		<W>
+			<FORM>kv˧</FORM>
+			<TRANSL xml:lang="fr">°cl</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˧</FORM>
+			<TRANSL xml:lang="fr">°exist</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S005">
+	<FORM>tʰi˩˧ | æ˧mv˧-i˥-hĩ˩ | dʑu˩ | 'zo˧ ɲi˥ | tsɯ˩ mv˩ ! |</FORM>
+	<NOTE message = "tʰi˩˧ : d’abord noté tʰe˩˥ ; modifié en tʰi˩˧ sur l’avis de M18, à qui je demandais de choisir ; en 2008, choix entre ˩˧ et ˧˥ : F4 choisit ˩˥, càd partant de bas ; réinterprété en 2009 comme ˩˧"/>
+	<NOTE message = "dʑu˩ : corrigé en 09 ; auparavant : dʑu˧"/>
+	<TRANSL xml:lang="fr">et l’aîné, c’était le garçon (littéralement : celui qui avait le statut d’aîné, c’était le garçon).</TRANSL>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>i </FORM>
+			<TRANSL xml:lang="fr">faire</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>zo˥</FORM>
+			<TRANSL xml:lang="fr">homme/garçon</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S006">
+	<FORM>tʰi˩˧ || 'zo˧ dʑu˩ | tʰi˩˧ || kʰv˧ʂæ˧-hɯ˧˥ | tsɯ˩ mv˩.</FORM>
+	<NOTE message = "vérifié avec soin en mars 09 : est : zo˧ dʑu˩ tʰi˩˧, et non : zo˧ dʑu˧tʰi˩˧ comme je l’avais d’abord noté"/>
+	<NOTE message = "forme de base : kʰv˧, ʂæ˧ ; tons en contexte : kʰv˧ʂæ˧hɯ˧˥"/>
+	<NOTE message = "avant 2007 : noté kʰv˧ʂæ˧hɯ˧"/>
+	<NOTE message = "avant terrain 2007, pensé à kʰv˩ ʂæ˩ hɯ˧ ; vérifié en 2007 : est bien : / kʰv˧ʂæ˧-hɯ˧˥ tsɯ˩ mv˩/ "/>
+	<TRANSL xml:lang="fr">et le garçon est parti chasser ;</TRANSL>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+		<W>
+			<FORM>zo˥ </FORM>
+			<TRANSL xml:lang="fr">homme/garçon</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˧ʂæ˧˥</FORM>
+			<TRANSL xml:lang="fr">chasser </TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩ </FORM>
+			<TRANSL xml:lang="fr">partir </TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S007">
+	<FORM>tʰi˩˧ || dʑi˩nɑ˩mi˩-ʁu˧ | ɖɯ˧-so˩-kʰv˩ | tʰi˧-dzi˩ || tsɯ˩-mv˩.</FORM>
+	<NOTE message = "ɖɯ˧ : d’abord noté ˧ ; M18 corrige en ˥, simplement du fait de l’intonation ; finalement : est bien ɖɯ˧"/>
+	<NOTE message = "tʰi˧-dzi˩ : d’abord noté tʰe˩ ; corrigé en tʰi˧ en 2009, bien vérifié"/>
+	<TRANSL xml:lang="fr">on dit qu’il s’en alla vivre plusieurs années dans les forêts de haute altitude. </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑi˩nɑ˩mi˩</FORM>
+			<TRANSL xml:lang="fr">forêt_d’altitude</TRANSL>
+		</W>
+		<W>
+			<FORM>ʁu˧ </FORM>
+			<TRANSL xml:lang="fr">dans</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧-so˩</FORM>
+			<TRANSL xml:lang="fr">quelques</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˧˥</FORM>
+			<TRANSL xml:lang="fr">année</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˧</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">demeurer</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S008">
+	<FORM>ə… tɕʰi˩di˩ hɯ˩˧ || tsɯ˩-mv˩.</FORM>
+	<NOTE message = "tons : tɕʰi˩+di˧˥>tɕʰi˩di˩˧ ; tɕʰi˩di˩˧+hɯ˩>tɕʰi˩di˩hɯ˩˧ ; la locutrice fait une pause/réalise une frontière après /hɯ/, de sorte que la partie haute du contour ˩˧ ne se déplace pas phonétiquement sur la syllabe /tsɯ/. La réalisation phonétique coïncide donc avec la « phonologie de surface » : tɕʰi˩di˩hɯ˩˧, tsɯ˩mv˩. Lors de la séance de retravail, elle répète plus rapidement, et cela se rapproche phonétiquement de : [tɕʰi˩di˩hɯ˩tsɯ˥mv˩], par l’effet de la coarticulation tonale."/>
+	<NOTE message = "Répétition de /di/ : F4 dit, lors de la transcription de l’histoire, qqch comme : [lə˧di˥lə˧di˥lə˧di˥lə˧di˧˥], seul le dernier contour ˧˥ étant réalisé phonétiquement, les autres se simplifiant phonétiquement en ˥.)"/>
+	<TRANSL xml:lang="fr">il est parti traquer le muntjac, dit-on.</TRANSL>
+		<W>
+			<FORM>ə</FORM>
+			<TRANSL xml:lang="fr">°hésitation</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˩</FORM>
+			<TRANSL xml:lang="fr">muntjac</TRANSL>
+		</W>
+		<W>
+			<FORM>di˧˥ </FORM>
+			<TRANSL xml:lang="fr">poursuivre/chasser</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩ </FORM>
+			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S009">
+	<FORM>tʰi˩˧ || gu˧mi˧ | dʑu˩ tʰi˩˧ || ɑ˩ʁu˧ dʑu˩ || tsɯ˩ mv˩.</FORM>
+	<NOTE message = "d’abord noté gu˧mi˧dʑu˧ tʰi˩˧ ; mais vérifié avec soin en mars 09 : est en fait gu˧mi˧ dʑu˩ tʰi˩˧)"/>
+	<TRANSL xml:lang="fr">Quant à la sœur, elle demeurait à la maison, dit-on. </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_sœur</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧, </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɑ˩ʁu˧ </FORM>
+			<TRANSL xml:lang="fr">domicile</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩, </FORM>
+			<TRANSL xml:lang="fr">°exist.être_présent</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩.</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S010">
+	<FORM>tʰi˩˧ || æ˧mv˩ | lə˧-mə˧-t… lə˧-mə˧-tsʰɯ˩ | dʑu˩ tʰi˩˧ || hĩ˧-ki˧ ki˩ || tsɯ˩ mv˩.</FORM>
+	<TRANSL xml:lang="fr">Après… comme le grand frère ne revenait pas, [la sœur] [se] donna [en mariage] à quelqu’un.</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné(e)</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°nég</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧ </FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S011">
+	<FORM>tʰi˩˧ || hĩ˧-ki˧ ki˩-se˩ | dʑu˩ tʰi˩˧ || mm… | tʰi˩˧ | ʐɯ˧ ʈʰɯ˩ || tsɯ˩ mv˩.</FORM>
+	<NOTE message = "à ce point du récit, M18, jouant son rôle de répondant, glisse : ʐɯ˧ ʈʰɯ˩, hɑ˧ dzɯ˧. « On a bu du vin, et on a mangé. »)"/>
+	<TRANSL xml:lang="fr">Comme le mariage était décidé, on l’a fêté (« boire du vin » signifie, par synecdoque, « faire la fête », et spécifiquement célébrer un mariage), à ce qu’on raconte.</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner </TRANSL>
+		</W>
+		<W>
+			<FORM>se˩</FORM>
+			<TRANSL xml:lang="fr">°achev</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʐɯ˧ </FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩ </FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S012">
+	<FORM>ʐɯ˧… ʐɯ˧ ʈʰɯ˩ | hɑ˧ dzɯ˧-ʁu˧-tu˩ | dʑu˩ tʰi˩˧ || kɤ˧dzi˧ || tsɯ˩ mv˩ ||</FORM>
+	<NOTE message = "d’abord noté « ɖɯ˧ ɲi˧ tʰi˩˧ », par erreur)"/>
+	<TRANSL xml:lang="fr">Pendant la fête/A l’heure du festin, eh bien, le plan de table (la façon dont les gens étaient installés à telle ou telle place), </TRANSL>
+		<W>
+			<FORM>ʐɯ˧</FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>hɑ˥</FORM>
+			<TRANSL xml:lang="fr">nourriture</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>ʁu˧-tu˩</FORM>
+			<TRANSL xml:lang="fr">pendant_que</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kɤ˧dzi˧</FORM>
+			<TRANSL xml:lang="fr">prendre_place</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S013">
+	<FORM>kɤ˧dzi˧ || dʑu˩ tʰi˩˧ || ɖɯ˩-hĩ˩˧ dʑu˩ | gɤ˩dzɤ˧ dzi˧-kʰɯ˥ || tɕi˩-hĩ˩˧ | mv˩dzɤ˧ dzi˧˥.</FORM>
+	<NOTE message = "d’abord noté …gɤ˩dzɤ˧-dzi˩-kʰɯ˧ ; mais attention : gɤ˩dzɤ˧-dzi˧˥, gɤ˩dzɤ˧-dzi˧-ze˥ ; n’est pas *gɤ˩dzɤ˧-dzi˩ (vérifié en mars 09) ; idem pour mv˩dzɤ˧…"/>
+	<NOTE message = "tɕi˩hĩ˩˧, d’abord noté ˩ ˥, par erreur : « petit », tɕi ˩˧, +/hĩ/ particule relative, « les petits =les gens peu importants »"/>
+	<NOTE message = "corrigé en avril 09 : est bien …dzi˧˥, …dzi˧ze˥, …dzi˧kʰɯ˥ dans ce contexte ; en 2007, avais noté ˩˧, jugeant la montée sur la dernière syllabe optionnelle/intonative)"/>
+	<TRANSL xml:lang="fr">Quand on s'est assis/qu'on a pris place, on a placé les gens importants en haut (dans la partie noble de la maison), et les petites gens en bas (plus près de la porte).</TRANSL>
+		<W>
+			<FORM>kɤ˧dzi˧</FORM>
+			<TRANSL xml:lang="fr">prendre_place</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˩</FORM>
+			<TRANSL xml:lang="fr">grand</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>gɤ˩dzɤ˧ </FORM>
+			<TRANSL xml:lang="fr">en_bas</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰɯ˧˥ </FORM>
+			<TRANSL xml:lang="fr">°caus</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕi˩</FORM>
+			<TRANSL xml:lang="fr">petit</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩dzɤ˧ </FORM>
+			<TRANSL xml:lang="fr">en_bas</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S014">
+	<FORM>tʰi˩˧ || ɖɯ˧tɑ˧˥ | kɤ˧dzi˧ | ɖɯ˩-hĩ˩ ɖɯ˧-dzi˩ | ɖɯ˧-dzi˩ | ɖɯ˧-dzi˩ | ɖɯ˧-dzi˩ | ʈʂʰɯ˧ko˧ tʰv˧ dʑu˧ ||</FORM>
+	<TRANSL xml:lang="fr">然后	所有		座位顺序	大	°名物化	°起始		坐		这里		到		°进行式</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧tɑ˧˥ </FORM>
+			<TRANSL xml:lang="fr">tout</TRANSL>
+		</W>
+		<W>
+			<FORM>kɤ˧dzi˧</FORM>
+			<TRANSL xml:lang="fr">prendre_place </TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˩</FORM>
+			<TRANSL xml:lang="fr">grand</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ </FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩ </FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ko˧</FORM>
+			<TRANSL xml:lang="fr">ici</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧ </FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu</FORM>
+			<TRANSL xml:lang="fr">°prog</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S015">
+	<FORM>%ʈʂʰɯ˧ : d’abord noté tʰe˧,  tʰv˩</FORM>
+	<TRANSL xml:lang="fr">alors, tout le monde a pris place à table ; les gens importants se sont assis, assis, assis, occupant les places jusqu’ici (la locutrice fait un geste)</TRANSL>
+		<W>
+			<FORM>%ku˧ : d’abord noté kʰʶo˩</FORM>
+			<TRANSL xml:lang="fr">%ʈʂʰɯ˧ko˧ tʰv˧ : d’abord noté ˩ ˩ ˩ ; est ensuite vérifié que c’est ˧ ˧ ˧ ; à nouveau vérifié en 2007) </TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S016">
+	<FORM>mæ˧ko˩ | ʈʂʰɯ˧ko˧ tʰv˧ | dʑu˩ tʰi˩˧ || ʈʂʰɯ˧ æ˧mv˩ | ʈʂʰɯ˧ | tɕʰi˩ di˩˧ | lə˧-tsʰɯ˩ || tsɯ˩ mv˩.</FORM>
+	<NOTE message = "ku˧tʰv˧ : d’abord noté kʰʶo˩ tʰv˩"/>
+	<NOTE message = "selon la conteuse : il aurait été préférable de dire : mæ˧ko˩ tʰv˩"/>
+	<NOTE message = "ʈʂʰɯ˧ : d’abord noté tʰv˥"/>
+	<NOTE message = "æ˧mv˩ ʈʂʰɯ˧ : d’abord noté ʈʂʰɯ˥, puis corrigé en ʈʂʰɯ˩ à l’écoute du récit ; en réalité : son ton est ˧ dans ce contexte ; faiblesse+effet de fin de groupe le rabaissent"/>
+	<NOTE message = "commentaire de M18 : læ˧ est la prononciation locale, le˧ est la formule de « la ville », Lijiang ; ensuite, revient sur son affirmation ; serait un peu différent du /le˧/ de Lijiang mais « pas tout à fait » læ˧ ; analyse 2008 : est le˧+æ˧ ; puis réflexions à l’automne 2008 : serait /lə/, voyelle neutre subissant une harmonie vocalique."/>
+	<TRANSL xml:lang="fr">[on est] parvenu à la fin (=jusqu’au fond de la salle) ; et alors son grand frère est revenu de la chasse.</TRANSL>
+		<W>
+			<FORM>mæ˧ko˩ </FORM>
+			<TRANSL xml:lang="fr">fond/fin</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ko˧ </FORM>
+			<TRANSL xml:lang="fr">ici</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧ </FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥ </FORM>
+			<TRANSL xml:lang="fr">3sg</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˩di˩ </FORM>
+			<TRANSL xml:lang="fr">chasser</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩ </FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S017">
+	<FORM>dʑi˩ʁu˩-ɳɯ˧ | tɕʰi˩ di˩˧ | lə˧-tsʰɯ˩ | dʑu˩ tʰi˩˧ | kʰv˩mi˩-ɳɯ˧ | lə˧-tɕʰi˧-hɯ˥ | tsɯ˩ mv˩.</FORM>
+	<TRANSL xml:lang="fr">il est venu [jusqu’au lieu du mariage] chassant, depuis la haute montagne ; [son] chien était parti sur une piste, à qu’on raconte.</TRANSL>
+		<W>
+			<FORM>dʑi˩ʁu˩ </FORM>
+			<TRANSL xml:lang="fr">haute_montagne</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°abl</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˩di˩ </FORM>
+			<TRANSL xml:lang="fr">chasser</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩ </FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ </FORM>
+			<TRANSL xml:lang="fr">°agt </TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˧˥</FORM>
+			<TRANSL xml:lang="fr">pister</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ</FORM>
+			<TRANSL xml:lang="fr">aller.pst</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S018">
+	<FORM>tʰi˩˧ | kʰv˩mi˩-ɳɯ˧ | lə˧-tɕʰi˧-hɯ˥ | ko˩kɑ˩-ʁu˩to˧ tʰv˧ | dʑu˩ tʰi˩˧ || kʰv˩mi˩˧ | lə˧-ɻwæ˥ | dʑu˩ tʰi˩˧ | kʰv˩mi˩˧ | mə˧-ɖɯ˧ dʑu˥ | tʰi˩˧</FORM>
+	<NOTE message = "d’abord noté …mə˧ɖɯ˧dʑu˧tʰi˩˧ ; en fait : /dʑu/ reçoit un ton H ; vérifié en mars 09 : n’est pas /dʑu˩tʰi˩˧/ ni /dʑu˧tʰi˩˧ ; vérifié à nouveau en avril ; paradoxal car on ne s’attend pas à ce qu’il y ait un ton H dans ce mot phonologique : « obtenir », ɖɯ˧, est un ton M. Cf doc. « tons »."/>
+	<NOTE message = "transcription M18 : /kʰv˩mi˩˧ le˧-lwæ˥…/ : M18 dit : lwæ˥ : appeler ; ɖɯ˧-lwæ˧-ɻ˥ « appeler », 叫一声 : M18 a perdu l’initiale ɻ, confondue avec l ; la forme correcte est : ɖɯ˧-ɻwæ˧-ɻ˥"/>
+	<TRANSL xml:lang="fr">et le chien, suivant cette piste, est parvenu au col (littéralement : en haut du col), et alors, [le grand frère] a appelé son chien ; ne le retrouvant pas, </TRANSL>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ˧</FORM>
+			<TRANSL xml:lang="fr">°a/foc</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˧˥</FORM>
+			<TRANSL xml:lang="fr">pister</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ</FORM>
+			<TRANSL xml:lang="fr">aller.pst</TRANSL>
+		</W>
+		<W>
+			<FORM>ko˩kɑ˩</FORM>
+			<TRANSL xml:lang="fr">col</TRANSL>
+		</W>
+		<W>
+			<FORM>ʁu˧to˩ </FORM>
+			<TRANSL xml:lang="fr">sur</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧ </FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻwæ˥ </FORM>
+			<TRANSL xml:lang="fr">crier/appeler</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧ </FORM>
+			<TRANSL xml:lang="fr">obtenir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S019">
+	<FORM>kʰv˩mi˩-qʰwɤ˧ | lə˧-nv˥ | lə˧-nv˥ | lə˧-nv˥ | lə˧-tsʰɯ˩ | dʑu˩ tʰi˩˧ || gu˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ tʰv˧ | tsɯ˩ mv˩.</FORM>
+	<NOTE message = "qʰwɤ˧ : ton de base du monosyllabe déduit d’après le résultat en composition"/>
+	<NOTE message = " lə˧nv˥ : suivre à la trace ; formulation complète ʈʂɤ˩nv˩˧, « suivre à la trace, en regardant les empreintes » ; vérifié : est bien n, et non ɳ rétroflexe ; exemple : lə˧-ʈʂɤ˩nv˩ lə˧-hɯ˩ "/>
+	<NOTE message = "« chien » : d’abord noté kʰv˩mi˩˧, forme isolée, que la locutrice fournissait qd elle répétait mot à mot"/>
+	<NOTE message = "hĩ˧ : syllabe phonétiquement très faible"/>
+	<NOTE message = "d’abord noté ki˧ tʰv˧, puis corrigé en 2011 en ki˩ tʰv˧ avec F4, conformément aux attentes : on s’attend en effet à : -ki˩ tʰv˧ : après un ton ˥, la particule ne peut être qu’au ton ˩."/>
+	<TRANSL xml:lang="fr">il a suivi les traces du chien, suivi, suivi, suivi, et il est arrivé [là où la fête avait lieu] ; il est parvenu [à la maison de] la famille à laquelle [sa] petite sœur se donnait [en mariage]</TRANSL>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>qʰwɤ˧ </FORM>
+			<TRANSL xml:lang="fr">traces</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>nv˥ </FORM>
+			<TRANSL xml:lang="fr">pister </TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_sœur </TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ </FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˧˥</FORM>
+			<TRANSL xml:lang="fr">maison</TRANSL>
+		</W>
+		<W>
+			<FORM>ki </FORM>
+			<TRANSL xml:lang="fr">°dat/all</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧</FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S020">
+	<FORM>tʰi˩˧ | gu˧mi˧ ʈʂʰɯ˧-ʑi˥ ki˧… tʰi˧-ki˧-hĩ˧… tʰv˧ | dʑu˩tʰi˩˧ | … kʰv˩mi˩-ɳɯ˧ | … ʈʂʰɯ˧… | mæ˧ | … ɬi˩ʈɯ˩mæ˧ hĩ˩-hɯ˩ | tsɯ˩ mv˩.</FORM>
+	<NOTE message = "le premier mæ˧ est de trop : hésitation de la conteuse ; formulation simple : ʈʂʰɯ˧ ɬi˩ʈɯ˩mæ˧ hĩ˩-hɯ˩"/>
+	<NOTE message = "formulation simplifiée proposée par M18 : kʰv˩mi˩-ɳɯ˧ ɬi˩ʈɯ˩mæ˧"/>
+	<NOTE message = "tons vérifiés en avril 09 : est …mæ˧ hĩ˩ hɯ˩, non ˧ ˧ ˩ ni ˧ ˧ ˧)"/>
+	<TRANSL xml:lang="fr">alors, la petite sœur, la famille… à qui elle s’était donnée… [le frère y] est arrivé, et alors… le chien, lui…il arrive à la maison à laquelle la sœur se donne… (début de phrase embrouillé, que M18 ne souhaite pas traduire ; je transcris seul ; le début de phrase n’ajoute rien à la phrase précédente) ; le chien est venu prendre place dans l’espace entre la porte et le foyer ;</TRANSL>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite.soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˧˥ </FORM>
+			<TRANSL xml:lang="fr">maison</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">°dat/all</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧ </FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ˧</FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ɬi˩ʈɯ˩mæ˧</FORM>
+			<TRANSL xml:lang="fr">en_bas</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˧˥</FORM>
+			<TRANSL xml:lang="fr">se_tenir</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩</FORM>
+			<TRANSL xml:lang="fr">aller.pst</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S021">
+	<FORM>tʰi˩˧ | « tse˩ʈʂʰv˩-kʰv˧ | no˧ | ɑ˩pʰu˩ se˩˧ ! » | pi˧ tsɯ˩ mv˩.</FORM>
+	<NOTE message = "tons de se˩˧ : d’abord noté se˧˥ ; juin 08 : confirmé avec F4 : est se˩˧"/>
+	<NOTE message = "on pourrait également dire : no˧ ɑ˩pʰu˩ hũ˩˧ !"/>
+	<TRANSL xml:lang="fr">alors, [on] a lancé au chien : « Holà, sac à puces ! tu sors ! » (La conteuse indique, lors de la transcription, que c’est la sœur elle-même qui aurait voulu chasser le chien.)</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>tse˩ʈʂʰv˩</FORM>
+			<TRANSL xml:lang="fr">sac_à_puces</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>no˩ </FORM>
+			<TRANSL xml:lang="fr">2sg</TRANSL>
+		</W>
+		<W>
+			<FORM>ɑ˩pʰu˩ </FORM>
+			<TRANSL xml:lang="fr">dehors</TRANSL>
+		</W>
+		<W>
+			<FORM>se˥</FORM>
+			<TRANSL xml:lang="fr">marcher</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S022">
+	<FORM>tʰi˩˧ | ʈʂʰɯ˧-ʑi˧=ɻ˧-ɳɯ˥ | gu˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˧=ɻ˧-ɳɯ˥ |</FORM>
+	<NOTE message = "première notation : pas de syll. entre ʑi˧ et ɳɯ˥ : /tʰi˩˧, ʈʂʰɯ˧ʑi˧ɳɯ˥, gu˧mi˧ tʰi˧ki˧ ʈʂʰɯ˧ʑi˧ɳɯ˥/ ; puis observe la présence d’un /ɻ/"/>
+	<NOTE message = "ʑi˧ a d’abord été noté zɯ˧, par erreur ; illustration de leur proximité phonétique)"/>
+	<TRANSL xml:lang="fr">Alors, les gens de cette famille, les gens de la famille à laquelle se donnait la sœur, </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˧˥</FORM>
+			<TRANSL xml:lang="fr">famille</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻ</FORM>
+			<TRANSL xml:lang="fr">°pl</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˧˥</FORM>
+			<TRANSL xml:lang="fr">famille</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻ</FORM>
+			<TRANSL xml:lang="fr">°pl</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S023">
+	<FORM>tʰi˩˧ | « tse˩ʈʂʰv˩˧ | no˧ ɑ˩pʰu˩ se˩˧ ! » pi˧ | tʰi˩˧ | æ˧mv˩-ɳɯ˩ | tsʰo˧ | lə˧-hɯ˩ || ɬi˩ʈɯ˩mæ˧ | ʈʂʰɯ˧ko˧ | tʰi˧-dzi˩ || tsɯ˩ mv˩.</FORM>
+	<NOTE message = "/kʰv˧/ « chien » : sous-entendu par la formule tse˩ʈʂʰv˩˧ ; phonétiquement, ʈʂʰv paraît avoir ici simplement un ton ˥, mais la forme sous-jacente est bel et bien ˩˧ ; tons vérifiés pour toute la séquence /tse˩ʈʂʰv˩˧ no˧ ɑ˩pʰu˩se˩˧/"/>
+	<NOTE message = "2006 : avais noté æ˥mv˧ɳɯ˧, par erreur"/>
+	<NOTE message = "lə˧hɯ˩ : tons vérifiés ; avais d’abord noté lə˥hɯ˧"/>
+	<NOTE message = "avais d’abord noté tʰi˥dzi˩, par erreur : préfixe rehaussé par des facteurs intonatifs. Vérifié en juin 08."/>
+	<NOTE message = "ʈʂʰɯ˧ko˧ : avais d’abord noté ʈʰɯ˥ko˥"/>
+	<NOTE message = "d’abord noté ɬe˩tv˩mæ˧)"/>
+	<TRANSL xml:lang="fr">alors, [ils lui] ont dit : « sac à puces, sors d’ici ! » ; alors, le grand frère, lui, il [y] est allé d’un bond : il s’est assis là (=il est venu s’asseoir là), en contrebas du foyer [c’est-à-dire à côté de son chien], à ce qu’on raconte.</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>tse˩ʈʂʰv˩</FORM>
+			<TRANSL xml:lang="fr">sac_à_puces </TRANSL>
+		</W>
+		<W>
+			<FORM>no˩ </FORM>
+			<TRANSL xml:lang="fr">2sg</TRANSL>
+		</W>
+		<W>
+			<FORM>ɑ˩pʰu˩</FORM>
+			<TRANSL xml:lang="fr">dehors</TRANSL>
+		</W>
+		<W>
+			<FORM>se˥</FORM>
+			<TRANSL xml:lang="fr">marcher</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥</FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ </FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰo˧ </FORM>
+			<TRANSL xml:lang="fr">sauter</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩ </FORM>
+			<TRANSL xml:lang="fr">aller.pst</TRANSL>
+		</W>
+		<W>
+			<FORM>ɬi˩ʈɯ˩mæ˧ </FORM>
+			<TRANSL xml:lang="fr">en_bas</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ko˧ </FORM>
+			<TRANSL xml:lang="fr">ici</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S024">
+	<FORM>« ũ˧-gu˧mi˥ ɲi˩-ɳɯ˧ ɲi˩˧ » | lə˧-ʂv˧ɖv˧ || tʰi˧-dzi˩ | dʑu˩ tʰi˩˧ |</FORM>
+	<NOTE message = "d’abord noté : ũ˧ gu˧mi˥ ɲi˩ɳɯ˥ɲi˩˥, ʂv˧dv˧, tʰe˥ dzɯ˧, dʑu˧ tʰi˩˧)"/>
+	<NOTE message = "le /lə/ est entièrement dévoisé)"/>
+	<TRANSL xml:lang="fr">« Est-ce que ce ne serait pas ma propre sœur ? » se demandait-il ; et il se tenait [là] assis.</TRANSL>
+		<W>
+			<FORM>ũ˥</FORM>
+			<TRANSL xml:lang="fr">soi-même/propre</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧</FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ </FORM>
+			<TRANSL xml:lang="fr">ou</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩˧</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>lə˧</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂv˧ɖv˧</FORM>
+			<TRANSL xml:lang="fr">réfléchir</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˧</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S025">
+	<FORM>lə˧-u˧-tʰu˧tɕu˥ | tʰi˩˧ | tʰi˧-dzi˩ || ɖɯ˧tɑ˧˥ | tʰi˧-dzi˩-kʰɯ˩-se˩ kwɤ˩-tɕi˩-lɑ˩ | </FORM>
+	<NOTE message = " tʰu˧tɕu˧ : d’abord noté : « tʰu˧tɕu˥ : se retourner » ; en fait : veut dire : «vers l'arrière»."/>
+	<NOTE message = " exemples : «après que tu te sois assis, je te verse un verre d’eau chaude»: /no˧ tʰi˧-dzi˩-kʰɯ˩-se˩, dʑu˩, dʑi˩-tsʰi˧ ɖɯ˧-qʰwɤ˧˥ pʰv˥ tʰi˧-ki˧ » (tʰi˧-ki˧ : donner) ; /ʈʂʰɯ˧ tʰi˧-dzi˩-kwɤ˩tɕi˩, ɖɯ˧-kʰwɤ˧ ʐwɤ˧-ɻ˥ : « sɤ˧sɤ˧˥ ʐwæ˧˥ ! »/ « après s’être assis/lorsqu’il fut assis, il dit une phrase : 'quel confort !' »"/>
+	<NOTE message = "d’abord noté : tʰi˧ dzɯ˩ ɖɯ˧tɑ˧ tʰi˥ dzɯ˥"/>
+	<NOTE message = "kwɤ˩tɕi˩ : d’abord noté kwɤ˩tse˩ ; non reconnu à la relecture 2007, corrigé en kwɤ˩tɕi˩"/>
+	<TRANSL xml:lang="fr">Il s’est détourné [de sorte que sa sœur n’a pu le voir de face], et se tint assis ; comme tout le monde avait pris place (=après que tout le monde se soit assis), </TRANSL>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>u˧˥</FORM>
+			<TRANSL xml:lang="fr">se_tourner</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰu˧tɕu˧</FORM>
+			<TRANSL xml:lang="fr">vers_l’arrière</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧tɑ˧˥ </FORM>
+			<TRANSL xml:lang="fr">tout/tous</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰɯ˧˥</FORM>
+			<TRANSL xml:lang="fr">°caus</TRANSL>
+		</W>
+		<W>
+			<FORM>se˩ </FORM>
+			<TRANSL xml:lang="fr">°achev</TRANSL>
+		</W>
+		<W>
+			<FORM>kwɤ.tɕi.lɑ </FORM>
+			<TRANSL xml:lang="fr">après/comme</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S026">
+	<FORM>wɤ˩˧ lə˧-u˧-tʰu˧tɕu˥ | lə˧-tsʰɯ˩ | tʰi˩˧ | ʂe˧ ɖɯ˧-kʰwɤ˥ | ʂe˧ ɖɯ˧-kʰwɤ˥ | bu˩-ɬo˧ ʈʂʰɯ˩ |</FORM>
+	<NOTE message = "ʂe˧ ɖɯ˧-kʰwɤ˥ : d’abord noté ˥ ˧ ˧, par erreur : effet de facteurs intonatifs ; puis corrigé en ˧ ˧ ˧, manquant le ˥ final, là aussi du fait de facteurs intonatifs"/>
+	<NOTE message = "le marqueur de topique reçoit un ton ˩ du ton d6b : bu˩ɬo˧, bu˩ɬo˧ʈʂʰɯ˩"/>
+	<TRANSL xml:lang="fr">il s’est retourné ; alors, la viande… un morceau de viande… des côtes de porc, </TRANSL>
+		<W>
+			<FORM>wɤ˩˧</FORM>
+			<TRANSL xml:lang="fr">à_nouveau</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>u˧˥</FORM>
+			<TRANSL xml:lang="fr">se_tourner</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰu˧tɕu˧</FORM>
+			<TRANSL xml:lang="fr">vers_l'arrière</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂe˥ </FORM>
+			<TRANSL xml:lang="fr">viande</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un </TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwɤ˥</FORM>
+			<TRANSL xml:lang="fr">morceau</TRANSL>
+		</W>
+		<W>
+			<FORM>bu˩</FORM>
+			<TRANSL xml:lang="fr">porc</TRANSL>
+		</W>
+		<W>
+			<FORM>ɬo˥</FORM>
+			<TRANSL xml:lang="fr">côte</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S027">
+	<FORM>bu˩-bv˧ | li˧pɑ˥ | ʈʂʰɯ˧ | tʰi˩˧ | bu˩-ɬo˧ ʈʂʰɯ˩ |</FORM>
+	<NOTE message = "li˧pɑ˥ : mot emprunté au chinois : 肋巴, 肋巴骨 lèibagǔ « côtes »"/>
+	<NOTE message = "vérifié : est bu˩ɬo˧ ʈʂʰɯ˩"/>
+	<TRANSL xml:lang="fr">et les côtes de porc [emprunt chinois], les côtes de porc [mot na], eh bien, </TRANSL>
+		<W>
+			<FORM>bu˩</FORM>
+			<TRANSL xml:lang="fr">porc</TRANSL>
+		</W>
+		<W>
+			<FORM>bv˧</FORM>
+			<TRANSL xml:lang="fr">°gen</TRANSL>
+		</W>
+		<W>
+			<FORM>li˧pɑ˥ </FORM>
+			<TRANSL xml:lang="fr">肋巴::côtes</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>bu˩</FORM>
+			<TRANSL xml:lang="fr">porc</TRANSL>
+		</W>
+		<W>
+			<FORM>ɬo˥ </FORM>
+			<TRANSL xml:lang="fr">côte</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S028">
+	<FORM>ɖɯ˧-ʈv˩ tʰi˧-tɕɤ˩ | dʑu˩ tʰi˩˧ | ɖɯ˧-v˧ ɖɯ˧-kʰwɤ˥ | ɖɯ˧-v˧ ɖɯ˧-kʰwɤ˥ | ɖɯ˧-v˧ ɖɯ˧-kʰwɤ˥ |</FORM>
+	<NOTE message = "ɖɯ˧-v˧ ɖɯ˧-kʰwɤ˥ : tons vérifiés longuement avec F4 en juin 08"/>
+	<TRANSL xml:lang="fr">on en avait fait bouillir un gros quartier ; [et on a donné] un morceau à chacun, un morceau chacun, un morceau chacun.</TRANSL>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈv˩ </FORM>
+			<TRANSL xml:lang="fr">°cl:gros_morceau</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕɤ˧˥</FORM>
+			<TRANSL xml:lang="fr">bouillir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un</TRANSL>
+		</W>
+		<W>
+			<FORM>v˧</FORM>
+			<TRANSL xml:lang="fr">°cl:homme</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwɤ˥</FORM>
+			<TRANSL xml:lang="fr">°cl:morceau</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S029">
+	<FORM>ʂæ˧-hĩ˧ | ʈʂʰɯ˧-ʂæ˧-gv˧ || ɖæ˧-hĩ˧ | ʈʂʰɯ˧-ɖæ˧-gv˧ || ɖæ˧-hĩ˧ | ʈʂʰɯ˧-ɖæ˧-gv˧ || ɖæ˧-hĩ˧ | ʈʂʰɯ˧-ɖæ˧-gv˧ || dʑu˩ tʰi˩˧ |</FORM>
+	<NOTE message = "vérifié en 09 : ɖæ˧ (ton ˧) et ʂæ˧ (ton ˥) ont mêmes tons qd on leur ajoute /hĩ/ : ʂæ˧hĩ˧, ɖæ˧hĩ˧ ; avais d’abord noté ʂæ˧hĩ˥, ɖæ˧hĩ˥ ; effet intonatif"/>
+	<TRANSL xml:lang="fr">Des gros morceaux (littéralement « des morceaux longs »), gros comme ça (la conteuse fait un geste : correspond à un beau morceau de viande), [puis] des petits morceaux (littéralement « des morceaux courts »), petits comme ça (littéralement « courts comme ça ») (geste : correspond à un morceau plus petit), comme ça, comme ça, comme ça (chaque répétition s’accompagne d’un geste ; les gestes successifs indiquent une taille de plus en plus petite) ; et alors, </TRANSL>
+		<W>
+			<FORM>ʂæ˧</FORM>
+			<TRANSL xml:lang="fr">long</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ </FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂæ˧</FORM>
+			<TRANSL xml:lang="fr">long</TRANSL>
+		</W>
+		<W>
+			<FORM>gv</FORM>
+			<TRANSL xml:lang="fr">°nmlz_adj</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖæ˥</FORM>
+			<TRANSL xml:lang="fr">long </TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ </FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖæ˥</FORM>
+			<TRANSL xml:lang="fr">long</TRANSL>
+		</W>
+		<W>
+			<FORM>gv</FORM>
+			<TRANSL xml:lang="fr">°nmlz_adj</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S030">
+	<FORM>æ˧mv˩-ki˩ dʑu˩ | ʈʂʰɯ˧-ɖæ˧ | ɖɯ˧-kʰwɤ˥ | tʰi˧-ki˧ || tsɯ˩ mv˩. </FORM>
+	<NOTE message = "æ˧mv˩-ki˩ dʑu˩ : d’abord noté ˥ ˧ ˩ ˧ puis ˥ ˩ ˩ ˩"/>
+	<NOTE message = "tʰi˧-ki˧ : d’abord noté tʰi˧-ki˥"/>
+	<TRANSL xml:lang="fr">à l’aîné (le grand frère), on a donné un morceau petit comme ça (geste : morceau tout petit), à ce qu’on raconte.</TRANSL>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ki </FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖæ˥ </FORM>
+			<TRANSL xml:lang="fr">court</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwɤ˥ </FORM>
+			<TRANSL xml:lang="fr">°cl:morceau</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˧</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩ </FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S031">
+	<FORM>tʰi˩˧, bu˩-ʂe˧ tʰi˧-ki˧-se˩, tʰi˧-dzɯ˩-se˩, tʰi˩˧, </FORM>
+	<TRANSL xml:lang="fr">alors, toute la viande de porc a été entièrement distribuée, et entièrement mangée ; alors, </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>bu˩</FORM>
+			<TRANSL xml:lang="fr">porc</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂe˥</FORM>
+			<TRANSL xml:lang="fr">viande</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>se</FORM>
+			<TRANSL xml:lang="fr">°achev</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>se</FORM>
+			<TRANSL xml:lang="fr">°achev</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S032">
+	<FORM>ʐɯ˧ | wɤ˩˧ | ɖɯ˧-v˧ ɖɯ˧-qʰwɤ˧˥ |</FORM>
+	<NOTE message = "d’abord noté kʰwɑ˩˥"/>
+	<TRANSL xml:lang="fr">pour le vin, à nouveau (=pareillement) : un bol par personne, </TRANSL>
+		<W>
+			<FORM>ʐɯ˧ </FORM>
+			<TRANSL xml:lang="fr">vin </TRANSL>
+		</W>
+		<W>
+			<FORM>wɤ˩˧ </FORM>
+			<TRANSL xml:lang="fr">à_nouveau</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un</TRANSL>
+		</W>
+		<W>
+			<FORM>v˧ </FORM>
+			<TRANSL xml:lang="fr">°cl:homme</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">un </TRANSL>
+		</W>
+		<W>
+			<FORM>qʰwɤ˧˥, </FORM>
+			<TRANSL xml:lang="fr">°cl:bols</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S033">
+	<FORM>ʈʂʰɯ˧-ɳɯ˧ | ɖɯ˧-pʰv˧˥ | ɖɯ˧-pʰv˧˥ | ɖɯ˧-pʰv˧˥ | ɖɯ˧-pʰv˧˥ | ɖɯ˧-pʰv˧-ɳɯ˥ | mæ˧ko˩ tʰv˩ || tʰi˩˧ || æ˧mv˩-ki˩ ki˩ | tsɯ˩ mv˩</FORM>
+	<NOTE message = "mæ˧ku˩tʰv˩ : d’abord noté mæ˥ku˩tʰv˧ ; corrigé en juin 08 en : ɖɯ˧-pʰv˧-ɳɯ˥ mæ˧ko˩-tʰv˩"/>
+	<NOTE message = "d’abord noté /pʰv˧/, n’entendant pas le contour montant du fait du débit rapide)"/>
+	<TRANSL xml:lang="fr">elle [la petite soeur] verse, elle verse, elle verse, et elle arrive en bout de rangée, alors elle en donne à [son] frère, </TRANSL>
+		<W>
+			<FORM>ʈʂʰɯ˥ </FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°a</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
+		</W>
+		<W>
+			<FORM>pʰv˧˥ </FORM>
+			<TRANSL xml:lang="fr">verser</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
+		</W>
+		<W>
+			<FORM>pʰv˧˥</FORM>
+			<TRANSL xml:lang="fr">verser</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ </FORM>
+			<TRANSL xml:lang="fr">°abl/top</TRANSL>
+		</W>
+		<W>
+			<FORM>mæ˧ko˩ </FORM>
+			<TRANSL xml:lang="fr">fond/fin</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧ </FORM>
+			<TRANSL xml:lang="fr">parvenir</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ki </FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner </TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S034">
+	<FORM>tʰi˩˧, hĩ˧=ɻæ˥ dʑu˩ gɤ˩-ʑi˧ dzɯ˧, tsɯ˩ mv˩.</FORM>
+	<NOTE message = "hĩ˧ɻæ˥ : d’abord noté ˥ ˥ ; tons vérifiés en juin 08"/>
+	<TRANSL xml:lang="fr">les gens prennent (la nourriture), et mangent (littéralement : « lèvent [leurs assiettes] et mangent »)</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻæ </FORM>
+			<TRANSL xml:lang="fr">°pl</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>gɤ˩</FORM>
+			<TRANSL xml:lang="fr">vers_le_haut</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˩ </FORM>
+			<TRANSL xml:lang="fr">prendre</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S035">
+	<FORM>ɖɯ˩-hĩ˩˧… ɖɯ˩-hĩ˩˧ dʑu˩ lə˧-fv˧ ɲi˥, kɤ˧ɕi˩ kwɤ˩-tɕi˩, lə˧-dzɯ˥, tsɯ˩ mv˩.</FORM>
+	<NOTE message = "lə˧-fv˧-ɲi˥ : on pourrait aussi dire lə˧-fv˧-ze˧. Remarque de 2007"/>
+	<TRANSL xml:lang="fr">Les gens importants, comme ils sont bien contents, qu’ils sont happy [de la portion qu’ils ont reçue], ils mangent.</TRANSL>
+		<W>
+			<FORM>ɖɯ˩</FORM>
+			<TRANSL xml:lang="fr">grand</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ</FORM>
+			<TRANSL xml:lang="fr">°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>fv˧ </FORM>
+			<TRANSL xml:lang="fr">content</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>kɤ˧ɕi˩</FORM>
+			<TRANSL xml:lang="fr">高兴:joyeux </TRANSL>
+		</W>
+		<W>
+			<FORM>kwɤ.tɕi</FORM>
+			<TRANSL xml:lang="fr">comme/après</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S036">
+	<FORM>æ˧mv˩ dʑu˩ tʰi˩˧, ɕi˧tɕɤ˧ de˧˥ko˧ tʰi˧-dzi˩.</FORM>
+	<NOTE message = "də˧˥ko˧ : d’abord noté de˧˥…)"/>
+	<TRANSL xml:lang="fr">Quant au frère, il était stressed ; il était assis tout là-bas (au fond de la pièce), tout stressed.</TRANSL>
+		<W>
+			<FORM>æ˧mv˩ </FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɕi˧tɕɤ˧ </FORM>
+			<TRANSL xml:lang="fr">心急:impatient</TRANSL>
+		</W>
+		<W>
+			<FORM>de˧˥ko˧ </FORM>
+			<TRANSL xml:lang="fr">tout_là_bas</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S037">
+	<FORM>tʰi˧-dzi˩, dʑu˩ ; hĩ˧=ɻæ˥ lə˧-dzɯ˥, dʑu˩ tʰi˩˧, lə˧-dzɯ˥, lə˧-dzɯ˥, pi˧, dʑu˩, ʈʂʰɯ˧-ɳɯ˧, tʰi˩˧, </FORM>
+	<NOTE message = "pi˧ dʑu˩ : soupçonné en 2006 qqch en ellipse ; retravail 2007 : semble ne rien y avoir ; même constat en 2009"/>
+	<TRANSL xml:lang="fr">il reste assis ; les gens mangent, mangent, mangent ; et alors, lui [dans son coin] : </TRANSL>
+		<W>
+			<FORM>tʰi˧</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻæ</FORM>
+			<TRANSL xml:lang="fr">°pl</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˧ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">3sg</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧ </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S038">
+	<FORM>kʰv˩mi˩-ki˧ : « dzɯ˧ gɤ˥ dzɯ˧ mə˧-gɤ˩ ! », dʑu˩, </FORM>
+	<TRANSL xml:lang="fr">[il dit] au chien : « quand il n’y a pas assez à manger, on n’a pas le cœur à manger !/quand y’a pas assez, à quoi bon se mettre à table ! » (expression figée/dicton)</TRANSL>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥ </FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>gɤ˧ </FORM>
+			<TRANSL xml:lang="fr">manquer</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥ </FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>gɤ˩</FORM>
+			<TRANSL xml:lang="fr">se_résigner</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S039">
+	<FORM>« ɕi˧ɕi˩lo˩ dʑu˩, kʰv˩mi˩˧ | no˧ dzɯ˧-hũ˧ ! », pi˧ tsɯ˩ mv˩. </FORM>
+	<NOTE message = "d’abord noté ɕi˥ɕi˧lo˩ : désigne les plus petites des côtelettes"/>
+	<NOTE message = "confirmé : est bien nasalisé : /hũ˧/ ; n’est pas /hṽ/ ; ton : d’abord noté ˩˥, du fait de facteurs intonatifs ; vérifié en juin 08 : est bien ˧)"/>
+	<TRANSL xml:lang="fr">« ces toutes petites côtelettes, [mon] chien, mange-les-donc ! »/ « Ces toutes petites côtelettes… allez, le chien, c’est pour toi ! »</TRANSL>
+		<W>
+			<FORM>ɕi˧ɕi˩lo˩</FORM>
+			<TRANSL xml:lang="fr">petites_côtelettes</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>no˩</FORM>
+			<TRANSL xml:lang="fr">2sg </TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>hũ˧</FORM>
+			<TRANSL xml:lang="fr">aller.°imp</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩</FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩ </FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S040">
+	<FORM>tʰi˩˧, « ʈʰɯ˩-gɤ˩ ʈʰɯ˩-mə˩-lv˧, dʑu˩, ʈʂe˧nɑ˥ no˧ ʈʰɯ˩-hũ˩˧ », pi˧ ze˩.</FORM>
+	<NOTE message = "ʈʰɯ˩ gɤ˩ ʈʰɯ˩ mɤ˩ lv˧ : d’abord noté ˩ ˩ ˩ ˧ ˥ ; sens : « ça ne suffit pas », 不过瘾"/>
+	<NOTE message = "ʈʂe˧nɑ˥ : d’abord noté ˥ ˥"/>
+	<NOTE message = "pi˧ ze˩ : d’abord noté ˥ ˥ puis ˥ ˩"/>
+	<NOTE message = "no˩ ʈʰɯ˩-hũ˩˧ : tons vérifiés en juin 08 et à nouveau en juillet 2011 ; série complète dans le document « tons »"/>
+	<TRANSL xml:lang="fr">après, [il a dit :] « quand y’a pas assez à boire, y’a pas de plaisir ! Terre noire, bois-moi ça ! »</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>gɤ˧ </FORM>
+			<TRANSL xml:lang="fr">manquer</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>lv˩</FORM>
+			<TRANSL xml:lang="fr">suffire</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂe˧nɑ˥ </FORM>
+			<TRANSL xml:lang="fr">terre_noire</TRANSL>
+		</W>
+		<W>
+			<FORM>no˩ </FORM>
+			<TRANSL xml:lang="fr">2sg</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>hũ˧</FORM>
+			<TRANSL xml:lang="fr">aller.°imp</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>ze</FORM>
+			<TRANSL xml:lang="fr">°pfv</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S041">
+	<FORM>« ʐɯ˧-nɑ˩ so˩-qʰwɤ˩ | ʈʂe˧nɑ˥ ʈʰɯ˩ ! », pi˧ ze˩</FORM>
+	<NOTE message = "ʐɯ˧nɑ˩ : corrigé avec kz en avril 09 ; d’abord noté ˧ ˩ puis corrigé en nɑ˩˧"/>
+	<NOTE message = "qʰwɤ : d’abord noté kʰwɑ˩˥, qui est la forme de citation"/>
+	<NOTE message = "ʐɯ˧nɑ˩ : vin noir/fort = bon vin"/>
+	<TRANSL xml:lang="fr">« terre noire, bois-moi ces trois bols de bon vin ! »</TRANSL>
+		<W>
+			<FORM>ʐɯ˧</FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>nɑ˩ </FORM>
+			<TRANSL xml:lang="fr">noir</TRANSL>
+		</W>
+		<W>
+			<FORM>so</FORM>
+			<TRANSL xml:lang="fr">3</TRANSL>
+		</W>
+		<W>
+			<FORM>qʰwɤ˩ </FORM>
+			<TRANSL xml:lang="fr">°cl:bols</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂe˧nɑ˥ </FORM>
+			<TRANSL xml:lang="fr">terre_noire</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+		<W>
+			<FORM>ze</FORM>
+			<TRANSL xml:lang="fr">°pfv</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S042">
+	<FORM>ʐɯ˧ lə˧-ʑi˩, ʈʂe˧-ko˩ pʰv˩-hɯ˩ tsɯ˧ mv˩.</FORM>
+	<NOTE message = "d’abord noté pʰv˩˧"/>
+	<NOTE message = "hɯ˩tsɯ˧mv˩ : d’abord noté ˥ ˥ ˩ ; tons vérifiés en juin 08"/>
+	<TRANSL xml:lang="fr">Il prend le vin, et le répand par terre.</TRANSL>
+		<W>
+			<FORM>ʐɯ˧ </FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˩</FORM>
+			<TRANSL xml:lang="fr">prendre</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂe˥</FORM>
+			<TRANSL xml:lang="fr">terre</TRANSL>
+		</W>
+		<W>
+			<FORM>ko </FORM>
+			<TRANSL xml:lang="fr">°loc </TRANSL>
+		</W>
+		<W>
+			<FORM>pʰv˧˥</FORM>
+			<TRANSL xml:lang="fr">verser</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩ </FORM>
+			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S043">
+	<FORM>hæ˧ʂɯ˥ ʈʂʰɯ˧ne˧˥ gv˧ ɲi˥ tsɯ˩ mv˩, ə˧i˧-ʂɯ˥i˩ !</FORM>
+	<NOTE message = "pourquoi le ton ˥ sur la copule, alors que le verbe qui précède a un ton lexical ˧ ? comme plus haut …ɖɯ˧ dʑu˥…, venant de : /ɖɯ˧/+/dʑu˩/)"/>
+	<TRANSL xml:lang="fr">Eh oui, ça c’est bel et bien passé comme ça, jadis, à ce qu’on raconte !</TRANSL>
+		<W>
+			<FORM>hæ˧ʂɯ˥ </FORM>
+			<TRANSL xml:lang="fr">还是::tout_de_même</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ne˧˥ </FORM>
+			<TRANSL xml:lang="fr">ainsi</TRANSL>
+		</W>
+		<W>
+			<FORM>gv˧ </FORM>
+			<TRANSL xml:lang="fr">se passer</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩ </FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+		<W>
+			<FORM>ə˧i˧-ʂɯ˥i˩</FORM>
+			<TRANSL xml:lang="fr">jadis</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S044">
+	<FORM>tʰi˩˧, æ˧mv˧gu˧mi˥ tʰi˩˧, 	ɖɯ˧-dze˩ lɑ˩ ɲi˩, tsɯ˩ mv˩.</FORM>
+	<NOTE message = "ɖɯ˧dze˩ « une paire » : d’abord noté ɖɯ˧tse˩, par erreur)"/>
+	<TRANSL xml:lang="fr">Alors… aîné et cadette, ça, ça forme une paire (=c’est indissociable).</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˧gu˧mi˥ </FORM>
+			<TRANSL xml:lang="fr">aîné_et_cadette</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>dze˩ </FORM>
+			<TRANSL xml:lang="fr">°cl:paire</TRANSL>
+		</W>
+		<W>
+			<FORM>lɑ </FORM>
+			<TRANSL xml:lang="fr">seulement</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rel</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S045">
+	<FORM>ɖɯ˧dze˩, ʈʂʰɯ˧ne˧˥ zo˩, tʰi˩˧, ə…</FORM>
+	<TRANSL xml:lang="fr">[comme] une paire, voilà comment ça doit être ; alors, euh…</TRANSL>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>dze˩</FORM>
+			<TRANSL xml:lang="fr">°cl:paire</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ne˧˥ </FORM>
+			<TRANSL xml:lang="fr">ainsi</TRANSL>
+		</W>
+		<W>
+			<FORM>zo</FORM>
+			<TRANSL xml:lang="fr">°oblig</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ə</FORM>
+			<TRANSL xml:lang="fr">°hésitation</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S046">
+	<FORM>æ˧mv˧˥ dʑu˩, dʑi˩ʁu˧ kʰv˧ʂæ˧˥ ;</FORM>
+	<NOTE message = "æ˧mv˧˥ dʑu˩ : d’abord noté ˧ ˥ ˧ ; est la variante d2b de ce mot, unique mot observé à ce jour – en 2009 – qui possède deux variantes tonales"/>
+	<NOTE message = "kʰv˧ʂæ˧˥ : d’abord noté ˧ ˧ puis ˥ ˩˥"/>
+	<TRANSL xml:lang="fr">l’aîné, il chassait en haute montagne ; </TRANSL>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑi˩ʁu˧ </FORM>
+			<TRANSL xml:lang="fr">haute_montagne</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˧ʂæ˧˥ </FORM>
+			<TRANSL xml:lang="fr">chasser</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S047">
+	<FORM>gu˧mi˧ dʑu˩, ɑ˩ʁu˧ dʑu˩, dʑu˩, </FORM>
+	<TRANSL xml:lang="fr">quand à la sœur, elle était à la maison ; </TRANSL>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ɑ˩ʁu˧ </FORM>
+			<TRANSL xml:lang="fr">foyer</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°exist.être_présent</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S048">
+	<FORM>gu˧mi˧ hĩ˧-ki˧ ki˩-bi˩-ze˩, pi˧, </FORM>
+	<NOTE message = "hĩ˧ki˧ki˩bi˩ze˩ : d’abord noté ˥ ˥ ˥ ˧ ˩"/>
+	<TRANSL xml:lang="fr">la petite sœur s’apprêtait à se marier ; </TRANSL>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+		<W>
+			<FORM>bi</FORM>
+			<TRANSL xml:lang="fr">°fut_imm</TRANSL>
+		</W>
+		<W>
+			<FORM>ze</FORM>
+			<TRANSL xml:lang="fr">°pfv</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥</FORM>
+			<TRANSL xml:lang="fr">dire </TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S049">
+	<FORM>æ˧mv˧˥ lə˧-mə˧-tsʰɯ˩.</FORM>
+	<TRANSL xml:lang="fr">[or] son grand frère ne revenait pas.</TRANSL>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S050">
+	<FORM>tʰi˩˧, æ˧mv˩ ki˧ tʰi˧-mə˧-tɕ… gu˧mi˧… </FORM>
+	<NOTE message = "d’abord noté : æ˧mv˥ ki˥ tʰi˧ mə˧ ki˥, gu˧mi˧…"/>
+	<TRANSL xml:lang="fr">(phrase mal engagée ; la locutrice abandonne et reprend une nouvelle phrase)</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S051">
+	<FORM>æ˧mv˧˥ lə˧-tsʰɯ˩, tʰi˩˧, gu˧mi˧-ɳɯ˧ æ˧mv˧˥ mə˧-sɯ˥, tsɯ˩ mv˩.</FORM>
+	<NOTE message = "observation phonétique : syllabe mv˩ très réduite"/>
+	<TRANSL xml:lang="fr">[Lorsque] le grand frère est arrivé, la petite sœur ne l’a pas reconnu.</TRANSL>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>tsʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">arriver</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧</FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ</FORM>
+			<TRANSL xml:lang="fr">°a/top</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>sɯ˥</FORM>
+			<TRANSL xml:lang="fr">savoir/reconnaître</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S052">
+	<FORM>tʰi˩˧, ʈʂʰɯ˧ne˧ gv˧˥ kwɤ˩-tɕi˩-lɑ˩, tʰi˩˧, </FORM>
+	<NOTE message = "n’est pas : gwɤ˩"/>
+	<NOTE message = "vérifié en avril 09 : on peut dire /ʈʂʰɯ˧ne˧gv˧˥…/ aussi bien que /ʈʂʰɯ˧ne˧˥ gv˧…/"/>
+	<NOTE message = "retravail 2007 : F4 préfère simplifier en : ʈʂʰɯ˧ ne˧ gv˧˥ tsɯ˥"/>
+	<TRANSL xml:lang="fr">alors, comme c’est précisément comme ça que ça s’était passé (=comme on en était parvenu juste à ce point-là),  </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ne˧˥</FORM>
+			<TRANSL xml:lang="fr">ainsi</TRANSL>
+		</W>
+		<W>
+			<FORM>gv˧ </FORM>
+			<TRANSL xml:lang="fr">se_passer</TRANSL>
+		</W>
+		<W>
+			<FORM>kwɤ.tɕi.lɑ</FORM>
+			<TRANSL xml:lang="fr">comme/après</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S053">
+	<FORM>ʈʂʰɯ˧, hɑ˧ lə˧-dzɯ˧, ʐɯ˧ lə˧-ʈʰɯ˩, tʰi˧-dzi˩, tʰi˩˧, ʈʂʰɯ˧ dʑu˩  lə˧-ʂæ˧ɕi˥ kʰɯ˩,</FORM>
+	<NOTE message = "ʈʂʰɯ˧ : d’abord noté tʰi˩˧, par erreur"/>
+	<TRANSL xml:lang="fr">elle, elle a mangé de la nourriture, elle a bu du vin, elle s’est tenue assise (=elle a pris part à la fête) ; et lui, ça l’a rendu tout sad ;</TRANSL>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">3sg</TRANSL>
+		</W>
+		<W>
+			<FORM>hɑ˥ </FORM>
+			<TRANSL xml:lang="fr">nourriture</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>dzɯ˥</FORM>
+			<TRANSL xml:lang="fr">manger</TRANSL>
+		</W>
+		<W>
+			<FORM>ʐɯ˧ </FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>lə˧</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʰɯ˩</FORM>
+			<TRANSL xml:lang="fr">boire</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˧</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>dzi˩</FORM>
+			<TRANSL xml:lang="fr">s’asseoir</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧, </FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥ </FORM>
+			<TRANSL xml:lang="fr">3sg</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩  </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂæ˧ɕi˥  </FORM>
+			<TRANSL xml:lang="fr">伤心::affligé</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰɯ˧˥</FORM>
+			<TRANSL xml:lang="fr">°caus</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S054">
+	<FORM>ʐɯ˧ lə˧-ʑi˩, ʈʂe˧-ko˩ pʰv˩ ;</FORM>
+	<NOTE message = "tons vérifiés"/>
+	<TRANSL xml:lang="fr">il a pris le vin, et l’a renversé par terre ; </TRANSL>
+		<W>
+			<FORM>ʐɯ˧ </FORM>
+			<TRANSL xml:lang="fr">vin</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°acccomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˩ </FORM>
+			<TRANSL xml:lang="fr">prendre</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂe˥</FORM>
+			<TRANSL xml:lang="fr">terre</TRANSL>
+		</W>
+		<W>
+			<FORM>ko </FORM>
+			<TRANSL xml:lang="fr">°loc</TRANSL>
+		</W>
+		<W>
+			<FORM>pʰv˧˥</FORM>
+			<TRANSL xml:lang="fr">verser </TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S055">
+	<FORM>ʂe˧ lə˧-ʑi˩, kʰv˩mi˩-ki˧ ki˩, </FORM>
+	<NOTE message = "ʂe˧ : forte insistance sur le mot ; réalisé très haut ; a conduit à une notation ˥ dans la première transcription)"/>
+	<TRANSL xml:lang="fr">il a pris la viande, et l’a donnée à son chien ; alors, </TRANSL>
+		<W>
+			<FORM>ʂe˥</FORM>
+			<TRANSL xml:lang="fr">viande</TRANSL>
+		</W>
+		<W>
+			<FORM>lə˧</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʑi˩</FORM>
+			<TRANSL xml:lang="fr">prendre</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰv˩mi˩</FORM>
+			<TRANSL xml:lang="fr">chien</TRANSL>
+		</W>
+		<W>
+			<FORM>ki</FORM>
+			<TRANSL xml:lang="fr">°dat</TRANSL>
+		</W>
+		<W>
+			<FORM>ki˧</FORM>
+			<TRANSL xml:lang="fr">donner</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S056">
+	<FORM>tʰi˩˧, dʑu˩ tʰi˩˧, æ˧mv˧˥ dʑu˩ ʂæ˧ɕi˥, tʰi˩˧, </FORM>
+	<NOTE message = "remarque de la locutrice pendant la séance de transcription : plutôt que d’utiliser le mot chinois, il aurait fallu dire /gv˩dʑi˩˧/ « être affligé » ; mot na ancien)"/>
+	<TRANSL xml:lang="fr">alors, l’aîné, il a été tout affligé ; </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˧˥</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂæ˧ɕi˥</FORM>
+			<TRANSL xml:lang="fr">伤心::affligé</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S057">
+	<FORM>ʐæ˩sɯ˩˧ | ɖɯ˧-ɭɯ˧ kʰwæ˧hwæ˩, </FORM>
+	<NOTE message = "Ici le fils de la conteuse intervient, lui soufflant le « bon mot na » pour « triste, affligé », que la conteuse reprend ; une ou deux syllabes superposées avec ce que dit son fils ne sont plus reconnues à la réécoute : tsʰɯ˩ zo˩ tʰi˩˧ ?? d’abord noté tsɯ˥ dʑu˧, puis tsɯ˥ zo˧)"/>
+	<TRANSL xml:lang="fr">Il était drapé dans une pièce de feutre ;</TRANSL>
+		<W>
+			<FORM>ʐæ˩sɯ˩ </FORM>
+			<TRANSL xml:lang="fr">feutre_grossier</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>ɭɯ˧ </FORM>
+			<TRANSL xml:lang="fr">°cl</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwæ˧hwæ˩ </FORM>
+			<TRANSL xml:lang="fr">se_draper</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S058">
+	<FORM>gv˩dʑi˩˧ lə˧-hɯ˩ ɲi˩, tsɯ˩ mv˩.</FORM>
+	<NOTE message = "lə˧-hɯ˩-ɲi˩ : en 2006, noté ˧ ˩ ˩, puis ˥ ˧ ˩ ; conservais des doutes ; tons vérifiés en juin 08 : la syllabe /lə˧/ est en fait plus haute que /dʑi/ : montée de /dʑi/ se termine pendant la syllabe suivante)"/>
+	<TRANSL xml:lang="fr">et il s’en alla, très affligé !</TRANSL>
+		<W>
+			<FORM>gv˩dʑi˩</FORM>
+			<TRANSL xml:lang="fr">affligé</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩</FORM>
+			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S059">
+	<FORM>lə˧-hɯ˩ dʑu˩ tʰi˩˧, gu˧mi˧ ʈʂʰɯ˧-v˧ dʑu˩, « ũ˧ æ˧mv˧˥ ɲi˩-ze˩ », ʂv˧ɖv˧-zo˩ tʰi˩˧, ə… </FORM>
+	<NOTE message = "tons vérifiés"/>
+	<NOTE message = "ũ˧ æ˧mv˧˥ ɲi˩ : tons vérifiés en 2007, confirmés en juin 08 ; auparavant, noté ˥ ˧ ˥ ˥ ; vérifié en avril 09 auprès de F4 : on ne peut dire *ũ˧æ˧mv˧ɲi˥…"/>
+	<NOTE message = "ex. d’emploi de /dʑu/, et de changement de ton : ɬi˧di˩-di˩mi˩ dʑu˩…"/>
+	<TRANSL xml:lang="fr">Comme il partait, sa sœur, elle, se prit à penser : « C’est mon frère ! » Alors…</TRANSL>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩ </FORM>
+			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩ </FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem.prox</TRANSL>
+		</W>
+		<W>
+			<FORM>v˧ </FORM>
+			<TRANSL xml:lang="fr">°cl:individu</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>ũ˥ </FORM>
+			<TRANSL xml:lang="fr">propre</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˧˥ </FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>ze</FORM>
+			<TRANSL xml:lang="fr">°pfv</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂv˧ɖv˧</FORM>
+			<TRANSL xml:lang="fr">penser</TRANSL>
+		</W>
+		<W>
+			<FORM>zo </FORM>
+			<TRANSL xml:lang="fr">°advb</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S060">
+	<FORM>ʐæ˩sɯ˩-bi˧ tʰi˧-ʈʂʰv˧˥ tsɯ˩ mv˩, lə˧-pʰu˩-hɯ˩.</FORM>
+	<NOTE message = "ʈʂʰv˧˥ : ici réalisé phonétiquement proche de [ʈʂʰwe] : la diphtongaison du /v/ est particulièrement forte ; l’insistance sur ce mot crée une tension entre la bonne réalisation de la rime /v/, fricative et fermée, d’une part, et l’ouverture plus grande qui résulte de l’insistance ; cette tension a pour résultat un mouvement ouvrant qui modifie considérablement la rime"/>
+	<NOTE message = "ʐæ˩sɯ˩bi˧ : d’abord noté ˧ ˧ ˥, par erreur ; corrigé en 2007"/>
+	<NOTE message = "sens vérifié"/>
+	<TRANSL xml:lang="fr">elle s’agrippe au feutre [dont il s’est drapé], [mais] [le grand frère] détale (malgré le geste de sa sœur pour le retenir).</TRANSL>
+		<W>
+			<FORM>ʐæ˩sɯ˩</FORM>
+			<TRANSL xml:lang="fr">feutre</TRANSL>
+		</W>
+		<W>
+			<FORM>bi˧ </FORM>
+			<TRANSL xml:lang="fr">sur</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi</FORM>
+			<TRANSL xml:lang="fr">°dur</TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰv˧˥ </FORM>
+			<TRANSL xml:lang="fr">agripper</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>pʰu˩</FORM>
+			<TRANSL xml:lang="fr">s’enfuir</TRANSL>
+		</W>
+		<W>
+			<FORM>hɯ˩.</FORM>
+			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S061">
+	<FORM>« æ˧mv˩ njɤ˧ no˧… »</FORM>
+	<TRANSL xml:lang="fr">grand frère, moi, toi… (à la transcription, la conteuse juge que ce bout de phrase est en trop : « faux départ»)</TRANSL>
+		<W>
+			<FORM>æ˧mv˩ </FORM>
+			<TRANSL xml:lang="fr">grand_frère</TRANSL>
+		</W>
+		<W>
+			<FORM>njɤ˩</FORM>
+			<TRANSL xml:lang="fr">1sg</TRANSL>
+		</W>
+		<W>
+			<FORM>no˩</FORM>
+			<TRANSL xml:lang="fr">2sg</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S062">
+	<FORM>« no˧ njɤ˧ æ˧mv˩-ɳɯ˩… njɤ˧ æ˧mv˩ ɲi˩ », pi˧, </FORM>
+	<NOTE message = "corrigé par la locutrice au retravail 2007 en : no˧ njɤ˧ æ˧mv˩ ɲi˩, njɤ˧ æ˧mv˩ ɲi˩ ; la syllabe /ɳɯ˩/ est un lapsus"/>
+	<TRANSL xml:lang="fr"> « Tu es mon grand frère ! », dit(-elle)</TRANSL>
+		<W>
+			<FORM>no˩ </FORM>
+			<TRANSL xml:lang="fr">2sg</TRANSL>
+		</W>
+		<W>
+			<FORM>njɤ˩ </FORM>
+			<TRANSL xml:lang="fr">1sg</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩</FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ɳɯ </FORM>
+			<TRANSL xml:lang="fr">°a</TRANSL>
+		</W>
+		<W>
+			<FORM>njɤ˩ </FORM>
+			<TRANSL xml:lang="fr">1sg</TRANSL>
+		</W>
+		<W>
+			<FORM>æ˧mv˩ </FORM>
+			<TRANSL xml:lang="fr">aîné</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˧ </FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S063">
+	<FORM>ʈʂʰɯ˧tɕu˧ ɻ˩, ɖɯ˧-kʰwɤ˥ hæ̃˩ ; ɖɯ˩tɕu˧ ɻ˩, ɖɯ˧-kʰwɤ˥ hæ̃˩-ze˩</FORM>
+	<NOTE message = "ton de « se tourner » : vérifié"/>
+	<NOTE message = "hæ̃˩ : nasalité pas notée en 2006"/>
+	<NOTE message = "vérifié : tons : est : ʈʂʰɯ˧-tɕu˧ ; avais auparavant eu l’hypothèse suivante : « ne serait-ce pas ʈʂʰɯ˥tɕu˥, mot phonologique tout au ton ˥ ? »"/>
+	<NOTE message = "ze˩ : vérifié : n’est pas zo˩"/>
+	<NOTE message = "ʈʂʰɯ˧-tɕu˧ : par ici ; ɖɯ˩-tɕu˧ : de ce côté-là (ajouté en 2011 ; avais noté ɖɯ˧tɕu˥ auparavant)"/>
+	<TRANSL xml:lang="fr">il se tourne de ce côté-ci, [et] tranche un morceau [de son feutre] ; il se tourne d’un autre côté, et tranche [à nouveau] un morceau [du feutre qu’agrippe sa petite sœur]</TRANSL>
+		<W>
+			<FORM>ʈʂʰɯ˥</FORM>
+			<TRANSL xml:lang="fr">°dem_prox</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕu˥</FORM>
+			<TRANSL xml:lang="fr">direction</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻ˧˥ </FORM>
+			<TRANSL xml:lang="fr">se_tourner</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwɤ˥ </FORM>
+			<TRANSL xml:lang="fr">°cl:morceau</TRANSL>
+		</W>
+		<W>
+			<FORM>hæ̃˧˥</FORM>
+			<TRANSL xml:lang="fr">couper</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕu˥ </FORM>
+			<TRANSL xml:lang="fr">direction</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻ˧˥</FORM>
+			<TRANSL xml:lang="fr">se_tourner</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">1</TRANSL>
+		</W>
+		<W>
+			<FORM>kʰwɤ˥ </FORM>
+			<TRANSL xml:lang="fr">°cl:morceau</TRANSL>
+		</W>
+		<W>
+			<FORM>hæ̃˧˥</FORM>
+			<TRANSL xml:lang="fr">couper</TRANSL>
+		</W>
+		<W>
+			<FORM>ze</FORM>
+			<TRANSL xml:lang="fr">°pfv</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S064">
+	<FORM>sɯ˩tʰi˩ pv˧ ɲi˩ tsɯ˩ mv˩ !</FORM>
+	<NOTE message = "tons vérifiés ; schéma tonal régulier"/>
+	<NOTE message = "Le fils de la conteuse lui souffle alors un élément de l’histoire qu’elle n’a pas explicité : le grand frère sort son couteau"/>
+	<TRANSL xml:lang="fr">(Le frère) a sorti son couteau !</TRANSL>
+		<W>
+			<FORM>sɯ˩tʰi˩</FORM>
+			<TRANSL xml:lang="fr">couteau</TRANSL>
+		</W>
+		<W>
+			<FORM>pv˧˥ </FORM>
+			<TRANSL xml:lang="fr">dégainer</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩ </FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S065">
+	<FORM>sɯ˩tʰi˩˧ | lə˧-pv˧˥, tʰi˩˧, ʁu˧dɑ˧ tʰv˧ ɻ˥, dʑu˩, lə˧-hæ̃˧˥ mə˧-ɖɯ˧ ɲi˥-hu˩ mæ˩, (hĩ˧)… </FORM>
+	<NOTE message = "tons vérifiés"/>
+	<NOTE message = "ɖɯ˧+ɲi˥ : d’où vient le ton haut ? même surprise que précédemment, pour les verbes gv˧ et ɖɯ˧"/>
+	<NOTE message = "ʁu˧dɑ˧ tʰv˧ ɻ˥ : d’abord noté ʈʂʰɯ˧ lɻ˧, puis ʈʂʰɯ˧ ɻv˥"/>
+	<NOTE message = "hĩ˧ : ici : est mot lexical plein : « homme » ; première idée : désignerait la petite sœur ; selon F4 en juin 08, est une erreur : mot dit par erreur"/>
+	<TRANSL xml:lang="fr">il dégaine son couteau ; alors, se tournant vers l’avant, (elle) n’a pas réussi à la couper, de sorte que… (erreur de la conteuse, il aurait fallu dire : « (elle) n’a pas réussi à la saisir/à s’y agripper »)</TRANSL>
+		<W>
+			<FORM>sɯ˩tʰi˩</FORM>
+			<TRANSL xml:lang="fr">couteau</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>pv˧˥</FORM>
+			<TRANSL xml:lang="fr">dégainer</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>ʁu˧dɑ˧</FORM>
+			<TRANSL xml:lang="fr">l’avant</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv˧</FORM>
+			<TRANSL xml:lang="fr">°dem.dist</TRANSL>
+		</W>
+		<W>
+			<FORM>ɻ˧˥</FORM>
+			<TRANSL xml:lang="fr">se_tourner</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑu˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+		</W>
+		<W>
+			<FORM>lə˧</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>hæ̃˧˥</FORM>
+			<TRANSL xml:lang="fr">couper</TRANSL>
+		</W>
+		<W>
+			<FORM>mə</FORM>
+			<TRANSL xml:lang="fr">°neg</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">obtenir</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>hu</FORM>
+			<TRANSL xml:lang="fr">°désidératif</TRANSL>
+		</W>
+		<W>
+			<FORM>mæ˩</FORM>
+			<TRANSL xml:lang="fr">affirm</TRANSL>
+		</W>
+		<W>
+			<FORM>hĩ˥</FORM>
+			<TRANSL xml:lang="fr">personne</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S066">
+	<FORM>ɬo˧tɑ˧ lɑ˧ hæ̃˧˥ ɖɯ˧ ɲi˥, hu˩ mæ˩.</FORM>
+	<TRANSL xml:lang="fr">elle n'a pu se saisir que des bords, qu'il a coupés.</TRANSL>
+		<W>
+			<FORM>ɬo˧tɑ˧</FORM>
+			<TRANSL xml:lang="fr">côté</TRANSL>
+		</W>
+		<W>
+			<FORM>lɑ</FORM>
+			<TRANSL xml:lang="fr">seulement</TRANSL>
+		</W>
+		<W>
+			<FORM>hæ̃˧˥</FORM>
+			<TRANSL xml:lang="fr">couper</TRANSL>
+		</W>
+		<W>
+			<FORM>ɖɯ˧</FORM>
+			<TRANSL xml:lang="fr">obtenir</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˥</FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>hu˩</FORM>
+			<TRANSL xml:lang="fr">°désidératif/fut</TRANSL>
+		</W>
+		<W>
+			<FORM>mæ˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S067">
+	<FORM>tʰi˩˧, gu˧mi˧ lə˧-ʂɯ˧ ɲi˥ tsɯ˩ mv˩ !</FORM>
+	<TRANSL xml:lang="fr">Alors, la petite sœur est morte.</TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors </TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧ </FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂɯ˧ </FORM>
+			<TRANSL xml:lang="fr">mourir</TRANSL>
+		</W>
+		<W>
+			<FORM>ɲi˩ </FORM>
+			<TRANSL xml:lang="fr">°cop</TRANSL>
+		</W>
+		<W>
+			<FORM>tsɯ˩ </FORM>
+			<TRANSL xml:lang="fr">°rep</TRANSL>
+		</W>
+		<W>
+			<FORM>mv˩</FORM>
+			<TRANSL xml:lang="fr">°affirm</TRANSL>
+		</W>
+</S>
+<S id="﻿FrereEtSoeur_version1S068">
+	<FORM>tʰi˩˧, gu˧mi˧ lə˧-ʂɯ˧ kwɤ˧tɕi˥ lɑ˩, tʰi˩˧, tɕʰi˧sɯ˥ lə˧-ʂɯ˧ kwɤ˧tɕi˥ lɑ˩, tʰi˩˧, </FORM>
+	<NOTE message = "tɕʰi˧sɯ˥ : être affligé, être dans l’affliction. Vérifié à plusieurs reprises : n’est pas un calque du chinois (气死) ; la ressemblance phonétique est une simple coïncidence"/>
+	<TRANSL xml:lang="fr">alors, la sœur étant morte, la sœur étant morte de chagrin, </TRANSL>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>gu˧mi˧</FORM>
+			<TRANSL xml:lang="fr">petite_soeur</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂɯ˧</FORM>
+			<TRANSL xml:lang="fr">mourir</TRANSL>
+		</W>
+		<W>
+			<FORM>kwɤ-tɕi-lɑ</FORM>
+			<TRANSL xml:lang="fr">comme/après</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+		<W>
+			<FORM>tɕʰi˧sɯ˥</FORM>
+			<TRANSL xml:lang="fr">affligé</TRANSL>
+		</W>
+		<W>
+			<FORM>lə</FORM>
+			<TRANSL xml:lang="fr">°accomp</TRANSL>
+		</W>
+		<W>
+			<FORM>ʂɯ˧</FORM>
+			<TRANSL xml:lang="fr">mourir</TRANSL>
+		</W>
+		<W>
+			<FORM>kwɤ.tɕi.lɑ</FORM>
+			<TRANSL xml:lang="fr">comme/après</TRANSL>
+		</W>
+		<W>
+			<FORM>tʰi˩˧</FORM>
+			<TRANSL xml:lang="fr">alors</TRANSL>
+		</W>
+</S>
+</TEXT>

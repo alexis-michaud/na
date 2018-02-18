@@ -1,0 +1,2016 @@
+﻿Tone_BodyPartsOfAnimals_1to4_F4_2006
+bu˩-hi˧
+bu˩˧
+hi˥
+LM H
+LM+#H
+dent de porc
+猪的牙齿
+pig's tooth
+
+bu˩-hṽ˧
+bu˩˧
+hṽ˥
+LM H
+LM+#H
+poil de porc
+猪的毛
+pig's hair
+
+bu˩-sɤ˧
+bu˩˧
+sɤ˥
+LM H
+LM+#H
+sang de porc
+猪的血
+pig's blood
+
+bu˩-ɬv̩˧˥
+bu˩˧
+ɬv̩˧˥
+LM MH#
+L°MH#
+cervelle de porc
+猪的脑髓
+pig's brains
+
+bu˩-ɬv̩˧˥
+bu˩˧
+ɬv̩˧˥
+LM MH#
+L°MH#
+cervelle de porc
+猪的脑髓
+pig's brains
+
+bu˩-hi˧kʰɯ˧
+bu˩˧
+hi˧kʰɯ#˥
+LM #H
+LM+#H
+gencives de porc
+猪的牙龈
+pig's gums
+
+bu˩-ɲi˧gɤ˧
+bu˩˧
+ɲi˧gɤ#˥
+LM #H
+L°#H
+nez de porc (groin de porc)
+猪的鼻子
+pig's nose (pig's snout)
+
+bu˩-hu˧mi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+bu˩-hu˧mi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+bu˩-hu˧mi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+bu˩-hu˧mi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+bu˩-hu˧mi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+bu˩-nv̩˧mi˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+coeur de porc
+猪的心脏
+pig's heart
+
+bu˩-nv̩˧mi˩ dʑu˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+coeur de porc+°existentiel
+猪的心脏+存在动词（"有"）
+pig's heart+°existential verb
+
+bu˩-nv̩˧mi˩ dʑu˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+coeur de porc+°existentiel
+猪的心脏+存在动词（"有"）
+pig's heart+°existential verb
+
+bu˩-nv̩˧mi˩ dʑu˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+coeur de porc+°existentiel
+猪的心脏+存在动词（"有"）
+pig's heart+°existential verb
+
+bu˩-nv̩˧mi˩ dʑu˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+coeur de porc+°existentiel
+猪的心脏+存在动词（"有"）
+pig's heart+°existential verb
+
+bu˩-nv̩˧mi˩ dʑu˩
+bu˩˧
+nv̩˩mi˩
+LM L
+LML
+%Strongly articulated, in order to bring out the tones
+coeur de porc+°existentiel
+猪的心脏+存在动词（"有"）
+pig's heart+°existential verb
+
+bu˩-ɬi˧pi˩
+bu˩˧
+ɬi˧pi˩
+LM L#
+LML
+oreilles de porc
+猪的耳朵
+pig's ears
+
+bu˩-ʁu˧qʰwɤ˩
+bu˩˧
+ʁu˧qʰwɤ˩
+LM L# 
+LML
+tête de porc
+猪的头
+pig's head
+
+bu˩-njɤ˧ɭɯ˩
+bu˩˧
+njɤ˧ɭɯ˩
+LM L# 
+LML
+oeil de porc
+猪的眼睛
+pig's eyes
+
+bu˩-lo˧qʰwɤ˩
+bu˩˧
+lo˩qʰwɤ˧
+LM LM
+LML
+patte avant de porc
+猪的前腿
+pig's leg
+
+hĩ˧-hi˧
+hĩ˥
+hi˥
+H H
+#H
+dent humaine
+人的牙齿
+human tooth
+
+hĩ˧-bv̩˧ ǀ hi˧
+hĩ˥
+hi˥
+H H
+x
+%Analytic phrasing, with possessive /bv/
+dent humaine
+人的牙齿
+human tooth
+
+hĩ˧-hṽ˧
+hĩ˥
+hṽ˥
+H H
+#H
+poil corporel ("poil humain")
+人的毛
+human body hair
+
+hĩ˧-hṽ˧
+hĩ˥
+hṽ˥
+H H
+#H
+poil corporel ("poil humain")
+人的毛
+human body hair
+
+hĩ˧-bv̩˧ ǀ hṽ˧
+hĩ˥
+hṽ˥
+x
+x
+%Analytic phrasing, with possessive /bv/
+poil corporel ("poil humain")
+人的毛
+human body hair
+
+hĩ˧-sɤ˧
+hĩ˥
+sɤ˥
+H H
+#H
+sang humain
+人的血
+human blood
+
+hĩ˧-sɤ˧
+hĩ˥
+sɤ˥
+H H
+#H
+sang humain
+人的血
+human blood
+
+hĩ˧-ɬv̩˩
+hĩ˥
+ɬv̩˧˥
+H MH
+°L
+cervelle humaine
+人的脑髓
+human brains
+
+hĩ˧-hi˧kʰɯ˧
+hĩ˥
+hi˧kʰɯ#˥
+H #H
+#H
+gencives humaines
+人的牙龈
+human gums
+
+hĩ˧-bv̩˧ ǀ hi˧kʰɯ˧
+hĩ˥
+hi˧kʰɯ#˥
+H #H
+x
+%Analytic phrasing, with possessive /bv/
+gencives humaines
+人的牙龈
+human gums
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-ɲi˧gɤ˧
+hĩ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez humain
+人的鼻子
+human nose
+
+hĩ˧-hu˩mi˩
+hĩ˥
+hu˧mi˥$
+H H$
+°L
+estomac humain
+人的胃
+human stomach
+
+hĩ˧-bv̩˧ ǀ hu˧mi˥
+hĩ˥
+hu˧mi˥$
+H H$
+x
+estomac humain
+人的胃
+human stomach
+
+hĩ˧-bv̩˧ ǀ hu˧mi˥
+hĩ˥
+hu˧mi˥$
+H H$
+x
+estomac humain
+人的胃
+human stomach
+
+hĩ˧-nv̩˥mi˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+coeur d'homme
+人的心脏
+human heart
+
+hĩ˧-nv̩˥mi˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+coeur d'homme
+人的心脏
+human heart
+
+ə... hĩ˧-nv̩˥mi˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+%This token is preceded by a hesitation, transcribed as ə...
+coeur d'homme
+人的心脏
+human heart
+
+hĩ˧-nv̩˥mi˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+coeur d'homme
+人的心脏
+human heart
+
+hĩ˧-nv̩˥mi˩ dʑu˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+coeur d'homme+°existentiel
+人的心脏+存在动词（"有"）
+human heart+°existential verb
+
+hĩ˧-nv̩˥mi˩ dʑu˩
+hĩ˥
+nv̩˩mi˩
+H L
+#H°
+%Fast speaking rate
+coeur d'homme+°existentiel
+人的心脏+存在动词（"有"）
+human heart+°existential verb
+
+hĩ˧-ɬi˧pi˥
+hĩ˥
+ɬi˧pi˩
+H L#
+H#
+oreilles humaines
+人的耳朵
+human ears
+
+hĩ˧-ɬi˧pi˥
+hĩ˥
+ɬi˧pi˩
+H L#
+H#
+oreilles humaines
+人的耳朵
+human ears
+
+hĩ˧-ʁu˧qʰwɤ˥
+hĩ˥
+ʁu˧qʰwɤ˩
+H L#
+H#
+tête humaine
+人的头
+human head
+
+hĩ˧-njɤ˥ɭɯ˩
+hĩ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux humains
+人的眼睛
+human eyes
+
+hĩ˧-njɤ˥ɭɯ˩
+hĩ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux humains
+人的眼睛
+human eyes
+
+hĩ˧-lo˥qʰwɤ˩
+hĩ˥
+lo˩qʰwɤ˧
+H LM
+#H°
+bras humain
+人的胳膊
+human arm
+
+ʐwæ˧-hi˧
+ʐwæ˥
+hi˥
+H H
+#H
+dent de cheval
+马的牙齿
+horse's tooth
+
+ʐwæ˧-hṽ˧
+ʐwæ˥
+hṽ˥
+H H
+#H
+poil de cheval
+马的毛
+horse's hair
+
+ʐwæ˧-sɤ˧
+ʐwæ˥
+sɤ˥
+H #
+#H
+sang de cheval
+马的血
+horse's blood
+
+ʐwæ˧-sɤ˧
+ʐwæ˥
+sɤ˥
+H H
+#H
+sang de cheval
+马的血
+horse's blood
+
+ʐwæ˧-ɬv̩˩
+ʐwæ˥
+ɬv̩˧˥
+H MH#
+°L
+cervelle de cheval
+马的脑髓
+horse's brains
+
+ʐwæ˧-hi˧kʰɯ˧
+ʐwæ˥
+hi˧kʰɯ#˥
+H #H
+#H
+gencives de cheval
+马的牙龈
+horse's gums
+
+ʐwæ˧-ɲi˧gɤ˧
+ʐwæ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de cheval (museau de cheval)
+马的鼻子
+horse's nose (horse's muzzle)
+
+ʐwæ˧-ɲi˧gɤ˧
+ʐwæ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de cheval (museau de cheval)
+马的鼻子
+horse's nose (horse's muzzle)
+
+ʐwæ˧-hu˩mi˩
+ʐwæ˥
+hu˧mi˥$
+H H$
+°L
+estomac de cheval
+马的胃
+horse's stomach
+
+ʐwæ˧-hu˩mi˩
+ʐwæ˥
+hu˧mi˥$
+H H$
+°L
+estomac de cheval
+马的胃
+horse's stomach
+
+ʐwæ˧-nv̩˥mi˩ dʑu˩
+ʐwæ˥
+nv̩˩mi˩
+H L
+#H°
+coeur de cheval+°existentiel
+马的心脏+存在动词（"有"）
+horse's heart+°existential verb
+
+ʐwæ˧-ɬi˧pi˥
+ʐwæ˥
+ɬi˧pi˩
+H L#
+H#
+oreilles de cheval
+马的耳朵
+horse's ears
+
+ʐwæ˧-ɬi˧pi˥
+ʐwæ˥
+ɬi˧pi˩
+H L#
+H#
+oreilles de cheval
+马的耳朵
+horse's ears
+
+ʐwæ˧-ʁu˧qʰwɤ˥
+ʐwæ˥
+ʁu˧qʰwɤ˩
+H L#
+H#
+tête de cheval
+马的头
+horse's head
+
+ʐwæ˧-njɤ˥ɭɯ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʐwæ˧-njɤ˥ɭɯ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʐwæ˧-njɤ˥ɭɯ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʐwæ˧-njɤ˥ɭɯ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʐwæ˧-njɤ˥ɭɯ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʐwæ˧-lo˥qʰwɤ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de cheval
+马的前腿
+horse's forelimb
+
+ʐwæ˧-lo˥qʰwɤ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de cheval
+马的前腿
+horse's forelimb
+
+ʐwæ˧-lo˥qʰwɤ˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+%Strongly articulated realization, separating successive syllables
+patte avant de cheval
+马的前腿
+horse's forelimb
+
+kʰv̩˧-hi˧
+kʰv̩˥
+hi˥
+H H
+#H
+dent de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的牙齿（注：指‘狗’的这个单音节词不是常用的）
+dog's tooth (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-hi˧kʰɯ˧
+kʰv̩˥
+hi˧kʰɯ#˥
+H #H
+#H
+gencives de chien
+狗的牙龈
+dog's gums
+
+kʰv̩˧-ɲi˧gɤ˧
+kʰv̩˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de chien (museau de chien) (forme monosyllabique de 'chien', peu usuelle)
+狗的鼻子（注：指‘狗’的这个单音节词不是常用的）
+dog's nose (dog's muzzle) (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-ɲi˧gɤ˧
+kʰv̩˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de chien (museau de chien) (forme monosyllabique de 'chien', peu usuelle)
+狗的鼻子（注：指‘狗’的这个单音节词不是常用的）
+dog's nose (dog's muzzle) (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-ɲi˧gɤ˧
+kʰv̩˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de chien (museau de chien) (forme monosyllabique de 'chien', peu usuelle)
+狗的鼻子（注：指‘狗’的这个单音节词不是常用的）
+dog's nose (dog's muzzle) (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-hu˧mi˥
+kʰv̩˥
+hu˧mi˥$
+H H$
+H#
+%This combination has two variants. The most common is °L. The present variant, H#, is also acceptable. There are occasional hesitations: at some point I thought that H$ was also acceptable but verifications in 2012 suggest that it is not.
+estomac de chien
+狗的胃
+dog's stomach
+
+kʰv̩˧-hu˧mi˥
+kʰv̩˥
+hu˧mi˥$
+H H$
+H#
+%Cette combinaison a deux variantes: la plus courante est °L; la présente variante, H#, est acceptable aussi. Il y a quelques hésitations sur cette variante, qu'avant 2012 j'avais notée comme H$.
+estomac de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的胃（注：指‘狗’的这个单音节词不是常用的）
+dog's stomach (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-nv̩˥mi˩
+kʰv̩˥
+nv̩˩mi˩
+H L
+#H°
+coeur de chien
+狗的心脏
+dog's heart
+
+kʰv̩˧-nv̩˥mi˩
+kʰv̩˥
+nv̩˩mi˩
+H L
+#H°
+coeur de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的心脏（注：指‘狗’的这个单音节词不是常用的）
+dog's heart (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-njɤ˥ɭɯ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de chien
+狗的眼睛
+dog's eyes
+
+kʰv̩˧-njɤ˥ɭɯ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的眼睛（注：指‘狗’的这个单音节词不是常用的）
+dog's eyes (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-lo˥qʰwɤ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de chien
+狗的前腿
+dog's forelimb
+
+kʰv̩˧-lo˥qʰwɤ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的前腿（注：指‘狗’的这个单音节词不是常用的）
+dog's forelimb (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+kʰv̩˧-lo˥qʰwɤ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de chien
+狗的前腿
+dog's forelimb
+
+kʰv̩˧-lo˥qʰwɤ˩
+kʰv̩˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+patte avant de chien (forme monosyllabique de 'chien', peu usuelle)
+狗的前腿（注：指‘狗’的这个单音节词不是常用的）
+dog's forelimb (note: this monosyllabic form of the word for 'dog' is not in common use)
+
+pu˧lo˧-hi˧
+pu˧lo˧
+hi˥
+M H
+#H
+dent de bélier
+公绵羊的牙齿
+ram's tooth
+
+pu˧lo˧-hṽ˧
+pu˧lo˧
+hṽ˥
+M #H
+#H
+poil de bélier
+公绵羊的毛
+ram's hair
+
+pu˧lo˧-sɤ˧
+pu˧lo˧
+sɤ˥
+M H
+#H
+sang de bélier
+公绵羊的血
+ram's blood
+
+pu˧lo˧-ɬv̩˩
+pu˧lo˧
+ɬv̩˧˥
+M MH#
+°L
+cervelle de bélier
+公绵羊的脑髓
+ram's brains
+
+pu˧lo˧-hi˧kʰɯ˧
+pu˧lo˧
+hi˧kʰɯ#˥
+M #H
+#H
+gencives de bélier
+公绵羊的牙龈
+ram's gums
+
+pu˧lo˧-hu˧mi˥
+pu˧lo˧
+hu˧mi˥$
+M H$
+H$
+estomac de bélier
+公绵羊的胃
+ram's stomach
+
+pu˧lo˧-hu˧mi˥
+pu˧lo˧
+hu˧mi˥$
+M H$
+H$
+estomac de bélier
+公绵羊的胃
+ram's stomach
+
+pu˧lo˧-nv̩˩mi˩
+pu˧lo˧
+nv̩˩mi˩
+M L
+°L
+coeur de bélier
+公绵羊的心脏
+ram's heart
+
+pu˧lo˧-nv̩˩mi˩
+pu˧lo˧
+nv̩˩mi˩
+M L
+°L
+%Hyper-articulated, separating successive syllables
+coeur de bélier
+公绵羊的心脏
+ram's heart
+
+pu˧lo˧-nv̩˩mi˩
+pu˧lo˧
+nv̩˩mi˩
+M L
+°L
+%Hyper-articulated, separating successive syllables
+coeur de bélier
+公绵羊的心脏
+ram's heart
+
+pu˧lo˧-nv̩˩mi˩ dʑu˩
+pu˧lo˧
+nv̩˩mi˩
+M L
+°L
+%Hyper-articulated, separating successive syllables
+coeur de bélier+°existentiel
+公绵羊的心脏+存在动词（"有"）
+ram's heart+°existential verb
+
+pu˧lo˧-nv̩˩mi˩ dʑu˩
+pu˧lo˧
+nv̩˩mi˩
+M L
+°L
+coeur de bélier+°existentiel
+公绵羊的心脏+存在动词（"有"）
+ram's heart+°existential verb
+
+pu˧lo˧-ɬi˧pi˩
+pu˧lo˧
+ɬi˧pi˩
+M L#
+L#
+oreilles de bélier
+公绵羊的耳朵
+ram's ears
+
+pu˧lo˧-ɬi˧pi˩
+pu˧lo˧
+ɬi˧pi˩
+M L#
+L#
+oreilles de bélier
+公绵羊的耳朵
+ram's ears
+
+pu˧lo˧-ɬi˧pi˩
+pu˧lo˧
+ɬi˧pi˩
+M L#
+L#
+oreilles de bélier
+公绵羊的耳朵
+ram's ears
+
+pu˧lo˧-ʁu˧qʰwɤ˩
+pu˧lo˧
+ʁu˧qʰwɤ˩
+M L#
+°L#
+tête de bélier
+公绵羊的头
+ram's head
+
+pu˧lo˧-ʁu˧qʰwɤ˩
+pu˧lo˧
+ʁu˧qʰwɤ˩
+M L#
+°L#
+tête de bélier
+公绵羊的头
+ram's head
+
+pu˧lo˧-njɤ˩ɭɯ˩
+pu˧lo˧
+njɤ˩ɭɯ˧
+M LM
+°L
+yeux de bélier
+公绵羊的眼睛
+ram's eyes
+
+pu˧lo˧-njɤ˩ɭɯ˩
+pu˧lo˧
+njɤ˩ɭɯ˧
+M LM
+°L
+yeux de bélier
+公绵羊的眼睛
+ram's eyes
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+%Hyperarticulated realization
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+pu˧lo˧-lo˩qʰwɤ˩
+pu˧lo˧
+lo˩qʰwɤ˧
+M LM
+°L
+%Hyperarticulated realization bringing out the tones
+patte avant de bélier
+公绵羊的前腿
+ram's forelimb
+
+ʐwæ˧zo˧-hi˧
+ʐwæ˧zo#˥
+hi˥
+#H H
+#H
+dent de poulain
+马驹子的牙齿
+colt's tooth
+
+ʐwæ˧zo˧-hṽ˧
+ʐwæ˧zo#˥
+hṽ˥
+#H H
+#H
+poil de poulain
+马驹子的毛
+colt's hair
+
+ʐwæ˧zo˧-sɤ˧
+ʐwæ˧zo#˥
+sɤ˥
+#H H
+#H
+sang de poulain
+马驹子的血
+colt's blood
+
+ʐwæ˧zo˧-ɬv̩˩
+ʐwæ˧zo#˥
+ɬv̩˧˥
+#H MH#
+°L
+%phonétiquement, la dernière syllabe n'est pas très basse, et l'expression pourrait évoquer *ʐwæ˧zo˧-ɬv̩˧˥; mais la séquence tonale a été soigneusement vérifiée, c'est M.M.L. Le ton L final est signalé par la montée sur la syllabe qui le précède, laquelle participe à établir un contraste entre les niveaux de hauteur de la 2e syllabe et de la 3e.
+cervelle de poulain
+马驹子的脑髓
+colt's brains
+
+ʐwæ˧zo˧-hi˧kʰɯ˧
+ʐwæ˧zo#˥
+hi˧kʰɯ#˥
+#H #H
+#H
+gencives de poulain
+马驹子的牙龈
+colt's gums
+
+ʐwæ˧zo˧-hu˧mi˥
+ʐwæ˧zo#˥
+hu˧mi˥$
+#H H$
+H$
+estomac de poulain
+马驹子的胃
+colt's stomach
+
+ʐwæ˧zo˧-nv̩˥mi˩ dʑu˩
+ʐwæ˧zo#˥
+nv̩˩mi˩
+#H L
+#H°
+coeur de poulain+°existentiel
+马驹子的心脏+存在动词（"有"）
+colt's heart+°existential verb
+
+ʐwæ˧zo˧-ɬi˧pi˥
+ʐwæ˧zo#˥
+ɬi˧pi˩
+#H L#
+H#
+oreilles de poulain
+马驹子的耳朵
+colt's ears
+
+ʐwæ˧zo˧-ɬi˧pi˥
+ʐwæ˧zo#˥
+ɬi˧pi˩
+#H L#
+H#
+oreilles de poulain
+马驹子的耳朵
+colt's ears
+
+ʐwæ˧zo˧-ʁu˧qʰwɤ˥
+ʐwæ˧zo#˥
+ʁu˧qʰwɤ˩
+#H L#
+H#
+tête de poulain
+马驹子的头
+colt's head
+
+ʐwæ˧zo˧-njɤ˥ɭɯ˩
+ʐwæ˧zo#˥
+njɤ˩ɭɯ˧
+#H LM
+#H°
+yeux de poulain
+马驹子的眼睛
+colt's eyes
+
+ʐwæ˧zo˧-lo˥qʰwɤ˩
+ʐwæ˧zo#˥
+lo˩qʰwɤ˧
+#H LM
+#H°
+patte avant de poulain
+马驹子的前腿
+colt's forelimb
+
+hwɤ˧li˧-hi˧˥
+hwɤ˧li˧˥
+hi˥
+MH# H
+MH#
+dent de chat
+猫的牙齿
+cat's tooth
+
+hwɤ˧li˧-hṽ˧˥
+hwɤ˧li˧˥
+hṽ˥
+MH# H
+MH#
+poil de chat
+猫的毛
+cat's hair
+
+hwɤ˧li˧-sɤ˧˥
+hwɤ˧li˧˥
+sɤ˥
+MH# H
+MH#
+sang de chat
+猫的血
+cat's blood
+
+hwɤ˧li˧-ɬv̩˥
+hwɤ˧li˧˥
+ɬv̩˧˥
+MH# MH#
+H#
+cervelle de chat
+猫的脑髓
+cat's brains
+
+hwɤ˧li˧-hi˧kʰɯ˧˥
+hwɤ˧li˧˥
+hi˧kʰɯ#˥
+MH# #H
+MH#
+gencives de chat
+猫的牙龈
+cat's gums
+
+hwɤ˧li˧-ɲi˧gɤ˧˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+hwɤ˧li˧-ɲi˧gɤ˧˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+hwɤ˧li˧-ɲi˧gɤ˧˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+hwɤ˧li˧-ɲi˧gɤ˧˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+hwɤ˧li˧-ɲi˧gɤ˧˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+%The final rise on this token, corresponding to the tone sequence /MH/, is overriden by the marking of finality.
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+hwɤ˧li˧-hu˧mi˥
+hwɤ˧li˧˥
+hu˧mi˥$
+MH# H
+H#
+%Il existe deux variantes pour cette combinaison: H# et #H°
+estomac de chat
+猫的胃
+cat's stomach
+
+hwɤ˧li˧-hu˧mi˥
+hwɤ˧li˧˥
+hu˧mi˥$
+MH# H
+H#
+%Il existe deux variantes pour cette combinaison: H# et #H°
+estomac de chat
+猫的胃
+cat's stomach
+
+hwɤ˧li˧-hu˧mi˥
+hwɤ˧li˧˥
+hu˧mi˥$
+MH# H
+H#
+%Il existe deux variantes pour cette combinaison: H# et #H°
+estomac de chat
+猫的胃
+cat's stomach
+
+hwɤ˧li˧-nv̩˥mi˩
+hwɤ˧li˧˥
+nv̩˩mi˩
+MH# L
+MH#°
+coeur de chat
+猫的心脏
+cat's heart
+
+hwɤ˧li˧-ɬi˧pi˥
+hwɤ˧li˧˥
+ɬi˧pi˩
+MH# L#
+H#
+oreilles de chat
+猫的耳朵
+cat's ears
+
+hwɤ˧li˧-ɬi˧pi˥
+hwɤ˧li˧˥
+ɬi˧pi˩
+MH# L#
+H#
+oreilles de chat
+猫的耳朵
+cat's ears
+
+hwɤ˧li˧-ʁu˧qʰwɤ˥
+hwɤ˧li˧˥
+ʁu˧qʰwɤ˩
+MH# L#
+H#
+tête de chat
+猫的头
+cat's head
+
+hwɤ˧li˧-njɤ˥ɭɯ˩
+hwɤ˧li˧˥
+njɤ˩ɭɯ˧
+MH# LM
+MH#°
+yeux de chat
+猫的眼睛
+cat's eyes
+
+hwɤ˧li˧-njɤ˥ɭɯ˩
+hwɤ˧li˧˥
+njɤ˩ɭɯ˧
+MH# LM
+MH#°
+yeux de chat
+猫的眼睛
+cat's eyes
+
+hwɤ˧li˧-njɤ˥ɭɯ˩
+hwɤ˧li˧˥
+njɤ˩ɭɯ˧
+MH# LM
+MH#°
+%Hyperarticulated realization, separating successive syllables
+yeux de chat
+猫的眼睛
+cat's eyes
+
+hwɤ˧li˧-njɤ˥ɭɯ˩
+hwɤ˧li˧˥
+njɤ˩ɭɯ˧
+MH# LM
+MH#°
+%Hyperarticulated realization, separating successive syllables
+yeux de chat
+猫的眼睛
+cat's eyes
+
+hwɤ˧li˧-lo˥qʰwɤ˩
+hwɤ˧li˧˥
+lo˩qʰwɤ˧
+MH# LM
+MH#°
+patte avant de chat
+猫的前腿
+cat's forelimb
+
+hwɤ˧li˧-lo˥qʰwɤ˩
+hwɤ˧li˧˥
+lo˩qʰwɤ˧
+MH# LM
+MH#°
+patte avant de chat
+猫的前腿
+cat's forelimb
+
+hwɤ˧li˧-lo˥qʰwɤ˩
+hwɤ˧li˧˥
+lo˩qʰwɤ˧
+MH# LM
+MH#°
+patte avant de chat
+猫的前腿
+cat's forelimb
+
+kʰv̩˩mi˩-hi˩˥
+kʰv̩˩mi˩
+hi˥
+L H
+L
+dent de chien
+狗的牙齿
+dog's tooth
+
+kʰv̩˩mi˩-hṽ˩˥
+kʰv̩˩mi˩
+hṽ˥
+L H
+L
+poil de chien
+狗的毛
+dog's hair
+
+kʰv̩˩mi˩-sɤ˩˥
+kʰv̩˩mi˩
+sɤ˥
+L H
+L
+sang de chien
+狗的血
+dog's blood
+
+kʰv̩˩mi˩-ɬv̩˥
+kʰv̩˩mi˩
+ɬv̩˧˥
+L MH#
+L+H#
+cervelle de chien
+狗的脑髓
+dog's brains
+
+kʰv̩˩mi˩-hi˩kʰɯ˥
+kʰv̩˩mi˩
+hi˧kʰɯ#˥
+L #H
+L
+%ressemble un peu phonétiquement à *L.L.L.LH, mais la séquence est bien L.L.L.H; vérifié à nouveau en 2012
+gencives de chien
+狗的牙龈
+dog's gums
+
+kʰv̩˩mi˩-ɲi˩gɤ˩˥
+kʰv̩˩mi˩
+ɲi˧gɤ#˥
+L H#
+L
+nez de chien (museau de chien)
+狗的鼻子
+dog's nose (dog's muzzle)
+
+kʰv̩˩mi˩-ɲi˩gɤ˩˥
+kʰv̩˩mi˩
+ɲi˧gɤ#˥
+L H#
+L
+nez de chien (museau de chien)
+狗的鼻子
+dog's nose (dog's muzzle)
+
+kʰv̩˩mi˩-hu˩mi˥
+kʰv̩˩mi˩
+hu˧mi˥$
+L H$
+L+H#
+estomac de chien
+狗的胃
+dog's stomach
+
+kʰv̩˩mi˩-hu˩mi˥
+kʰv̩˩mi˩
+hu˧mi˥$
+L H$
+L+H#
+estomac de chien
+狗的胃
+dog's stomach
+
+kʰv̩˩mi˩-hu˩mi˥
+kʰv̩˩mi˩
+hu˧mi˥$
+L H$
+L+H#
+estomac de chien
+狗的胃
+dog's stomach
+
+kʰv̩˩mi˩-nv̩˥mi˩
+kʰv̩˩mi˩
+nv̩˩mi˩
+L L
+L+#H°
+coeur de chien
+狗的心脏
+dog's heart
+
+kʰv̩˩mi˩-nv̩˥mi˩ dʑu˩
+kʰv̩˩mi˩
+nv̩˩mi˩
+L L
+L+#H°
+coeur de chien+°existentiel
+狗的心脏+存在动词（"有"）
+dog's heart+°existential verb
+
+kʰv̩˩mi˩-ɬi˩pi˥
+kʰv̩˩mi˩
+ɬi˧pi˩
+L L#
+L+H#
+oreilles de chien
+狗的耳朵
+dog's ears
+
+kʰv̩˩mi˩-ʁu˩qʰwɤ˥
+kʰv̩˩mi˩
+ʁu˧qʰwɤ˩
+L L#
+L+H#
+tête de chien
+狗的头
+dog's head
+
+kʰv̩˩mi˩-lo˥qʰwɤ˩
+kʰv̩˩mi˩
+lo˩qʰwɤ˧
+L LM
+L+#H°
+patte avant de chien
+狗的前腿
+dog's leg
+
+kʰv̩˩mi˩-lo˥qʰwɤ˩
+kʰv̩˩mi˩
+lo˩qʰwɤ˧
+L LM
+L+#H°
+patte avant de chien
+狗的前腿
+dog's leg
+
+dɑ˧ʝi˩-hi˩
+dɑ˧ʝi˩
+hi˥
+L# H
+L#°
+dent de mule
+骡子的牙齿
+mule's tooth
+
+dɑ˧ʝi˩-hṽ˩
+dɑ˧ʝi˩
+hṽ˥
+L# H
+L#°
+poil de mule
+骡子的毛
+mule's hair
+
+dɑ˧ʝi˩-sɤ˩
+dɑ˧ʝi˩
+sɤ˥
+L# H
+L#°
+sang de mule
+骡子的血
+mule's blood
+
+dɑ˧ʝi˩-ɬv̩˩
+dɑ˧ʝi˩
+ɬv̩˧˥
+L# MH#
+L#°
+%Phonetically, the sequence resembles *MML: the tone sequence /MLL/ is realized by a very gradual decline.
+cervelle de mule
+骡子的脑髓
+mule's brains
+
+dɑ˧ʝi˩-hi˩kʰɯ˩
+dɑ˧ʝi˩
+hi˧kʰɯ#˥
+L# #H
+#H
+gencives de mule
+骡子的牙龈
+mule's gums
+
+dɑ˧ʝi˩-ɲi˩gɤ˩
+dɑ˧ʝi˩
+ɲi˧gɤ#˥
+L# H#
+L#°
+nez de mule (museau de mule)
+骡子的鼻子
+mule's nose (mule's muzzle)
+
+dɑ˧ʝi˩-hu˩mi˩
+dɑ˧ʝi˩
+hu˧mi˥$
+L# H$
+L#°
+estomac de mule
+骡子的胃
+mule's stomach
+
+dɑ˧ʝi˩-nv̩˩mi˩
+dɑ˧ʝi˩
+nv̩˩mi˩
+L# L
+L#°
+coeur de mule
+骡子的心脏
+mule's heart
+
+dɑ˧ʝi˩-ɬi˩pi˩
+dɑ˧ʝi˩
+ɬi˧pi˩
+L# L#
+L#°
+oreilles de mule
+骡子的耳朵
+mule's ears
+
+dɑ˧ʝi˩-ʁu˩qʰwɤ˩
+dɑ˧ʝi˩
+ʁu˧qʰwɤ˩
+L# L#
+L#°
+tête de mule
+骡子的头
+mule's head
+
+dɑ˧ʝi˩-njɤ˩ɭɯ˩
+dɑ˧ʝi˩
+njɤ˩ɭɯ˧
+L# LM
+L#°
+yeux de mule
+骡子的眼睛
+mule's eyes
+
+dɑ˧ʝi˩-lo˩qʰwɤ˩
+dɑ˧ʝi˩
+lo˩qʰwɤ˧
+L# LM
+L#°
+patte avant de mule
+骡子的前腿
+mule's forelimb
+
+ʐwæ˧sɯ˩-hi˩
+ʐwæ˧sɯ˩
+hi˥
+L# H
+L#°
+dent d'étalon
+公马的牙齿
+stallion's tooth
+
+ʐwæ˧sɯ˩-hṽ˩
+ʐwæ˧sɯ˩
+hṽ˥
+L# H
+L#°
+poil d'étalon
+公马的毛
+stallion's hair
+
+ʐwæ˧sɯ˩-sɤ˩
+ʐwæ˧sɯ˩
+sɤ˥
+L# H
+L#°
+sang d'étalon
+公马的血
+stallion's blood
+
+ʐwæ˧sɯ˩-ɬv̩˩
+ʐwæ˧sɯ˩
+ɬv̩˧˥
+L# MH#
+L#°
+cervelle d'étalon
+公马的脑髓
+stallion's brains
+
+ʐwæ˧sɯ˩-hi˩kʰɯ˩
+ʐwæ˧sɯ˩
+hi˧kʰɯ#˥
+L# #H
+L#°
+gencives d'étalon
+公马的牙龈
+stallion's gums
+
+ʐwæ˧sɯ˩-ɲi˩gɤ˩
+ʐwæ˧sɯ˩
+ɲi˧gɤ#˥
+L# #H
+L#°
+nez d'étalon
+公马的鼻子
+stallion's nose (stallion's muzzle)
+
+ʐwæ˧sɯ˩-hu˩mi˩
+ʐwæ˧sɯ˩
+hu˧mi˥$
+L# H
+L#°
+estomac d'étalon
+公马的胃
+stallion's stomach
+
+ʐwæ˧sɯ˩-nv̩˩mi˩
+ʐwæ˧sɯ˩
+nv̩˩mi˩
+L# ˩
+L#°
+coeur d'étalon
+公马的心脏
+stallion's heart
+
+ʐwæ˧sɯ˩-ɬi˩pi˩
+ʐwæ˧sɯ˩
+ɬi˧pi˩
+L# L#
+L#°
+oreilles d'étalon
+公马的耳朵
+stallion's ears
+
+ʐwæ˧sɯ˩-ʁu˩qʰwɤ˩
+ʐwæ˧sɯ˩
+ʁu˧qʰwɤ˩
+L# L#
+L#°
+tête d'étalon
+公马的头
+stallion's head
+
+ʐwæ˧sɯ˩-njɤ˩ɭɯ˩
+ʐwæ˧sɯ˩
+njɤ˩ɭɯ˧
+L# LM
+L#°
+yeux d'étalon
+公马的眼睛
+stallion's eyes
+
+ʐwæ˧sɯ˩-lo˩qʰwɤ˩
+ʐwæ˧sɯ˩
+lo˩qʰwɤ˧
+L# LM
+L#°
+patte avant d'étalon
+公马的前腿
+stallion's forelimb
+
+hwæ˧tsɯ˥-hi˩
+hwæ˧tsɯ˥
+hi˥
+H# H
+H°
+dent de rat
+老鼠的牙齿
+rat's tooth
+
+hwæ˧tsɯ˥-hṽ˩
+hwæ˧tsɯ˥
+hṽ˥
+H# H
+H°
+poil de rat
+老鼠的毛
+rat's hair
+
+hwæ˧tsɯ˥-sɤ˩
+hwæ˧tsɯ˥
+sɤ˥
+H# H
+H°
+sang de rat
+老鼠的血
+rat's blood
+
+hwæ˧tsɯ˥-ɬv̩˩
+hwæ˧tsɯ˥
+ɬv̩˧˥
+H# MH#
+H°
+cervelle de rat
+老鼠的脑髓
+rat's brains
+
+hwæ˧tsɯ˥-hi˩kʰɯ˩
+hwæ˧tsɯ˥
+hi˧kʰɯ#˥
+H# #H
+H°
+gencives de rat
+老鼠的牙龈
+rat's gums
+
+hwæ˧tsɯ˥-ɲi˩gɤ˩
+hwæ˧tsɯ˥
+ɲi˧gɤ#˥
+H# #H
+H#°
+nez de rat (museau de rat)
+老鼠的鼻子
+rat's nose (rat's muzzle)
+
+﻿hwæ˧tsɯ˥-hu˩mi˩
+hwæ˧tsɯ˥
+hu˧mi˥$
+H# H$
+H°
+estomac de rat
+老鼠的胃
+rat's stomach
+
+hwæ˧tsɯ˥-nv̩˩mi˩
+hwæ˧tsɯ˥
+nv̩˩mi˩
+H# L
+H#°
+coeur de rat
+老鼠的心脏
+rat's heart
+
+hwæ˧tsɯ˥-ɬi˩pi˩
+hwæ˧tsɯ˥
+ɬi˧pi˩
+H# L#
+H#°
+oreilles de rat
+老鼠的耳朵
+rat's ears
+
+hwæ˧tsɯ˥-ʁu˩qʰwɤ˩
+hwæ˧tsɯ˥
+ʁu˧qʰwɤ˩
+H# L#
+H°
+tête de rat
+老鼠的头
+rat's head
+
+hwæ˧tsɯ˥-njɤ˩ɭɯ˩
+hwæ˧tsɯ˥
+njɤ˩ɭɯ˧
+H# LM
+H#°
+yeux de rat
+老鼠的眼睛
+rat's eyes
+
+hwæ˧tsɯ˥-njɤ˩ɭɯ˩
+hwæ˧tsɯ˥
+njɤ˩ɭɯ˧
+H# LM
+H#°
+yeux de rat
+老鼠的眼睛
+rat's eyes
+
+hwæ˧tsɯ˥-njɤ˩ɭɯ˩
+hwæ˧tsɯ˥
+njɤ˩ɭɯ˧
+H# LM
+H#°
+yeux de rat
+老鼠的眼睛
+rat's eyes
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+%This is a strongly hyperarticulated realization, bringing out the tones. Initially I hesitated between two interpretations: /M+H+L+L/ and /M+H+L+L/. This token helped establish that the pattern is M+H+L+L pattern.
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+%This is a strongly hyperarticulated realization, bringing out the tones. Initially I hesitated between two interpretations: /M+H+L+L/ and /M+H+L+L/. This token helped establish that the pattern is M+H+L+L pattern.
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+%This is a strongly hyperarticulated realization, bringing out the tones. Initially I hesitated between two interpretations: /M+H+L+L/ and /M+H+L+L/. This token helped establish that the pattern is M+H+L+L pattern.
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hwæ˧tsɯ˥-lo˩qʰwɤ˩
+hwæ˧tsɯ˥
+lo˩qʰwɤ˧
+H# LM
+H#°
+%This token is said at the same time by the language consultant and the investigator, to verify the tones of the last two syllables. Initially I hesitated between two interpretations: /M+H+L+L/ and /M+H+L+L/. This token helped establish that the pattern is M+H+L+L pattern.
+patte avant de rat
+老鼠的前腿
+rat's forelimb
+
+hu˧mi˥
+hu˧mi˥$
+x
+H$
+x
+estomac
+胃
+stomach
+
+hi˧kʰɯ˧
+hi˧kʰɯ#˥
+x
+#H
+x
+gencive
+牙龈
+gums
+
+ɬi˧pi˩
+ɬi˧pi˩
+x
+L#
+x
+oreille
+耳朵
+ear
+
+lo˩qʰwɤ˧
+lo˩qʰwɤ˧
+x
+LM
+x
+bras, patte avant
+前腿
+forelimb
+
+kʰv̩˧
+kʰv̩˥
+x
+#H
+x
+chien
+狗的
+dog
+
+nv̩˩mi˩˥
+nv̩˩mi˩
+x
+L
+x
+coeur
+心脏
+heart

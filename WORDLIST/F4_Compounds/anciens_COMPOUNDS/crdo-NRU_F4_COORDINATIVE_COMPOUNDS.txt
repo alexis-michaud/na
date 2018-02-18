@@ -1,0 +1,703 @@
+﻿Coordinative compounds
+mv̩˧di˧˥
+%Input tones: H and LM
+%Resulting tone: MH#
+univers
+universe (‘sky’+‘earth’)
+
+zo˧mv̩˥
+%Input tones: H and LH
+%Resulting tone: H#
+enfants
+child (‘son’+‘daughter’)
+
+ə˧mi˧-mv̩˩
+%Input tones: M and LH
+%Resulting tone: °L
+mère et fille
+mother and daughter
+
+ə˧mi˧-zo#˥
+%Input tones: M and #H
+%Resulting tone: #H
+mère et fils
+mother and son
+
+ə˧dɑ˧-mv̩˥
+%Input tones: H$ and LH
+%Resulting tone: H#
+père et fille
+father and daughter
+
+ə˧dɑ˧-zo#˥
+%Input tones: H$ and H
+%Resulting tone: #H
+père et fils
+father and son
+
+ə˧pʰv̩˧-ʐv̩˧v#˥
+%Input tones: M and M
+%Resulting tone: #H
+grand-oncle et petits-neveux
+great-uncle and great-nephews
+
+ə˧pʰv̩˧-ʐv̩˧mi#˥
+%Input tones: M and M
+%Resulting tone: 
+grand-oncle et petites-nièces
+great-uncle and great-nieces
+
+ə˧si˧-ə˧pʰv#˥
+%Input tones: M and M
+%Resulting tone: 
+ancêtres à la troisième génération
+3rd-generation ancestors
+
+ə˧si˧-ʐv̩˧mi#˥
+%Input tones: M and M
+%Resulting tone: 
+arrière-grand-mère et petites-filles
+great-grandmother and granddaughters
+
+ə˧si˧-ʐv̩˧v#˥
+%Input tones: M and M
+%Resulting tone: 
+arrière-grand-mère et petits-fils
+great-grandmother and grandsons
+
+gv̩˧dv̩˧-gv̩˧mi˧
+%Input tones: M and M
+%Resulting tone: M
+corps
+(human) body
+
+jo˧mi˧-po˧lo˧
+%Input tones: M and M
+%Resulting tone: 
+brebis et bouc
+ewe and ram
+
+ɖʐwæ˧mi˧-ɖʐwæ˧pʰv̩˧
+%Input tones: M and M
+%Resulting tone: 
+hirondelles femelle et mâle
+male and female sparrow
+
+bæ˧mi˧-bæ˧pʰv#˥
+%Input tones: M and #H
+%Resulting tone: #H
+canard femelle et mâle
+female and male duck
+
+bæ˧mi˧-bæ˧zo#˥
+%Input tones: M and #H
+%Resulting tone: 
+canard femelle et caneton
+female duck and duckling
+
+bv̩˧mi˧-bv̩˧zo#˥
+%Input tones: M and #H
+%Resulting tone: 
+yak femelle et petit yak
+female yak and baby yak
+
+ə˧mi˧-ze˩mi˩
+%Input tones: M and L
+%Resulting tone: °L
+tante et nièce
+aunt and niece
+
+ə˧mi˧-ze˩v̩˩
+%Input tones: M and L
+%Resulting tone: 
+tante et neveu
+aunt and nephew
+
+bv̩˧mi˧-bv̩˩ʂwæ˩
+%Input tones: M and L
+%Resulting tone: 
+yak femelle et yak mâle
+female and male yak
+
+dzo˧mi˧-dzo˩pʰv̩˩
+%Input tones: M and L
+%Resulting tone: 
+lézard femelle et mâle
+female and male lizard
+
+gi˧zɯ˧-go˧mi#˥
+%Input tones: #H and M
+%Resulting tone: #H
+petit frère et petite soeur
+little brothers and sisters
+
+bæ˧zo˧-bæ˧mi#˥
+%Input tones: #H and M
+%Resulting tone: 
+caneton et cane
+duckling and female duck 
+
+bæ˧pʰv̩˧-bæ˧mi#˥
+%Input tones: #H and M
+%Resulting tone: 
+canard mâle et cane
+male duck and female duck 
+
+tsʰɯ˧zo˧-to˧qɑ˥
+%Input tones: #H and M
+%Resulting tone: H#
+chevreau et chevrette
+kids and little nanny goats
+
+ʐv̩˧v̩˥-ʐv̩˩mi˩
+%Input tones: #H and #H
+%Resulting tone: H#°
+petits-enfants
+grandchildren
+
+hwɤ˧pʰv̩˧-hwɤ˧-zo#˥
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+hwɤ˧pʰv̩˧-hwɤ˧-zo#˥
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+hwɤ˧pʰv̩˧-hwɤ˧-zo#˥
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+hwɤ˧pʰv̩˧-hwɤ˧-zo#˥
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+ʈʂʰɯ˧ ǀ hwɤ˧pʰv̩˧-hwɤ˧-zo˧ ɲi˥.
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+hwɤ˧pʰv̩˧-hwɤ˥zo˩ ɲi˩.
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+hwɤ˧pʰv̩˧-hwɤ˥zo˩
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+chat mâle et chaton
+tom-cat and kitten
+
+dʑi˧zo˧-dʑi˥mi˩
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+enfant buffle et mère buffle
+male and female water buffalo
+
+dʑi˧zo˧-dʑi˥mi˩
+%Input tones: #H and #H
+%Resulting tone: #H / #H°
+enfant buffle et mère buffle
+male and female water buffalo
+
+lɑ˧mi˧-lɑ˧pʰv#˥
+%Input tones: #H and #H
+%Resulting tone: #H
+tigre femelle et tigre mâle
+female and male tiger
+
+lɑ˧mi˧-lɑ˧zo#˥
+%Input tones: 
+%Resulting tone: 
+tigresse et petit tigre
+female and baby tiger
+
+ʈʂʰɯ˧ ǀ ʁv̩˧pʰv̩˧-ʁv̩˧mi˧ ɲi˥.
+%Input tones: #H and MH
+%Resulting tone: #H
+grue mâle et grue femelle
+male and female crane
+
+ʁv̩˧pʰv̩˧-ʁv̩˧mi#˥
+%Input tones: #H and MH
+%Resulting tone: #H
+grue mâle et grue femelle
+male and female crane
+
+hwɤ˧pʰv̩˧-hwɤ˧mi˥
+%Input tones: #H and H$
+%Resulting tone: H#
+chat mâle et chat femelle
+tom-cat and she-cat
+
+hwɤ˧zo˧-hwɤ˧mi˥
+%Input tones: 
+%Resulting tone: 
+chatons et chats adultes; chats
+cats: kitten and parents
+
+ʐwæ˧zo˧-ʐwæ˥mi˩
+%Input tones: #H and L
+%Resulting tone: #H°/ H#
+poulain et jument
+colt and mare
+
+ʐwæ˧zo˧-ʐwæ˧mi˥
+%Input tones: #H and L
+%Resulting tone: #H°/ H#
+poulain et jument
+colt and mare
+
+pʰɤ˧pʰv̩˧-pʰɤ˥mi˩
+%Input tones: #H and L
+%Resulting tone: #H°/ H#
+hyène mâle et hyène femelle
+male and female hyena
+
+pʰɤ˧pʰv̩˧-pʰɤ˧mi˥
+%Input tones: #H and L
+%Resulting tone: #H°/ H#
+hyène mâle et hyène femelle
+male and female hyena
+
+kʰv̩˧zo˥-kʰv̩˩mv̩˩
+%Input tones: #H and H#
+%Resulting tone: H#° / H#
+chiots mâles et femelles
+male and female puppies
+
+kʰv̩˧zo˧-kʰv̩˧mv̩˥
+%Input tones: #H and H#
+%Resulting tone: H#° / H#
+chiots mâles et femelles
+male and female puppies
+
+ə˧ʑi˧-ə˧pʰv̩˧˥
+%Input tones: MH# and M
+%Resulting tone: MH#
+grand-parents
+elders, grandparents
+
+æ˧mv̩˧-go˧mi˥
+%Input tones: MH# and M
+%Resulting tone: H#
+soeurs
+sisters, female siblings
+
+ə˧ʑi˧-ʐv̩˥v̩˩
+%Input tones: MH# and #H
+%Resulting tone: #H°
+grand-mère et petits-fils
+grandmother and grandsons
+
+ə˧ʑi˧-ʐv̩˥mi˩
+%Input tones: MH# and #H
+%Resulting tone: #H°
+grand-mère et petites-filles
+grandmother and granddaughter
+
+æ˧mv̩˧-gi˥zɯ˩
+%Input tones: MH# and #H
+%Resulting tone: #H°
+frères
+brethren, brothers
+
+ə˧v̩˧-ze˥v̩˩
+%Input tones: MH# and L
+%Resulting tone: MH#°
+oncle et neveu
+uncle and nephew
+
+ə˧v̩˧-ze˥mi˩
+%Input tones: MH# and L
+%Resulting tone: MH#°
+oncle et nièce
+uncle and niece
+
+zo˧hṽ˧-mv̩˥zo˩
+%Input tones: MH# and L
+%Resulting tone: MH#°
+descendants
+descendants
+
+tsʰɯ˧mi˧-po˧lo˥ 
+%Input tones: H$ and M
+%Resulting tone: H#
+chèvre et bouc
+nanny goat and billy goat
+
+ə˧dɑ˧-ə˧mi#˥ 
+%Input tones: H$ and M
+%Resulting tone: #H
+père et mère
+father and mother, parents
+
+ə˧ɲi˧tsʰi˧ɲi#˥
+%Input tones: H$ and #H
+%Resulting tone: #H
+ces jours-ci
+these days
+
+ə˧ʝi˧-tsʰi˧ʝi#˥
+%Input tones: H$ and #H
+%Resulting tone: #H
+ces années-ci
+these years
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧zo˧ ɲi˥
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧zo˥$.
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+%Carefully articulated token, bringing out successive syllables
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo#˥
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+hwɤ˧mi˧-hwɤ˧zo˥$
+%Input tones: H$ and #H
+%Resulting tone:  #H / H$ 
+chatte et chaton
+she-cat and kitten
+
+ʈʂʰæ˧mi˧-ʈʂʰæ˧zo#˥
+%Input tones: H$ and H$
+%Resulting tone: #H
+biche et cerf
+doe and stag
+
+hwɤ˧mi˧-hwɤ˥pʰv̩˩
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˥pʰv̩˩
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˧pʰv#˥
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˧pʰv#˥
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˧pʰv#˥
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˥pʰv̩˩
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˧pʰv̩˥
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+hwɤ˧mi˧-hwɤ˧pʰv̩˥
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+ʈʂʰɯ˧ ǀ hwɤ˧mi˧-hwɤ˧pʰv̩˧ ɲi˥.
+%Input tones: H$ and #H
+%Resulting tone: #H° / #H / H$
+chatte et chat
+she-cat and tom-cat
+
+ɖɯ˧ɲi˧-ɖɯ˥hɑ̃˩
+%Input tones: H$ and MH#
+%Resulting tone: #H°
+un jour et une nuit
+one day and one night
+
+ʈʂʰæ˧mi˧-ʈʂʰæ˧zo#˥
+%Input tones: H$ and H$
+%Resulting tone: #H
+biche et cerf
+doe and fawn
+
+ə˧ʝi˧-ʂɯ˥ʝi˩
+%Input tones: H$ and LM+#H
+%Resulting tone: #H°
+autrefois
+in the past
+
+bv̩˩ʂwæ˩-bv̩˥mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+bv̩˩ʂwæ˩-bv̩˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+bv̩˩ʂwæ˩-bv̩˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+bv̩˩ʂwæ˩-bv̩˥mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+bv̩˩ʂwæ˩-bv̩˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+bv̩˩ʂwæ˩-bv̩˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+yak mâle et yak femelle
+male yak and female yak
+
+kɤ˩pʰv̩˩-kɤ˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+faucon mâle et femelle
+male and female falcon
+
+kɤ˩pʰv̩˩-kɤ˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+faucon mâle et femelle
+male and female falcon
+
+kɤ˩pʰv̩˩-kɤ˥mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+faucon mâle et femelle
+male and female falcon
+
+dzo˩pʰv̩˩-dzo˥mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+lézard mâle et femelle
+male and female lizards
+
+dzo˩pʰv̩˩-dzo˩mi˩
+%Input tones: L and M
+%Resulting tone: L / L+#H°
+lézard mâle et femelle
+male and female lizards
+
+mv̩˩zɯ˩-ni˥mi˩
+%Input tones: L and #H
+%Resulting tone: L+#H°
+frères et soeurs
+brothers and sisters
+
+ʐwæ˩mi˩-ʐwæ˩zo˩
+%Input tones: L and #H
+%Resulting tone: L
+jument et poulain
+mare and colt
+
+ʝi˩mi˩-ʐɤ˥qo˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+vache et veau
+cow and veal
+
+ʝi˩mi˩-ʐɤ˥qo˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+vache et veau
+cow and veal
+
+ʝi˩mi˩˥, ǀ ʐɤ˩qo˩˥
+%Input tones: L and L
+%This token is a simple juxtaposition of the two terms, not a compound.
+vache et veau
+cow and veal
+
+ze˩v̩˩-ze˥mi˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+neveux et nièces
+nephews and nieces
+
+ze˩v̩˩-ze˥mi˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+neveux et nièces
+nephews and nieces
+
+ʝi˩bv̩˩-ʝi˥mi˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+taureau et vache
+bull and cow
+
+pɤ˩mi˩-pɤ˥pʰv̩˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+grenouille femelle et grenouille mâle
+female and male frog
+
+pʰɤ˩mi˩-pʰɤ˥zo˩
+%Input tones: L and L
+%Resulting tone: L+#H°
+hyène femelle et petite hyène
+female and child hyena
+
+ʐwæ˧sɯ˩, ǀ ʐwæ˧zo#˥
+%Input tones: L# and #H
+%This token is a simple juxtaposition of the two terms, not a compound.
+étalon et poulain
+stallion and colt
+
+ʐwæ˧sɯ˩-ʐwæ˩zo˩
+%Input tones: L# and #H
+%Resulting tone: L#°
+étalon et poulain
+stallion and colt
+
+ʐwæ˧sɯ˩-ʐwæ˩zo˩
+%Input tones: L# and #H
+%Resulting tone: L#°
+étalon et poulain
+stallion and colt
+
+ʐwæ˧sɯ˩-ʐwæ˩mi˩
+%Input tones: L# and L
+%Resulting tone: L#°
+étalon et jument
+stallion and mare
+
+ɑ˩ʁo˧-ʑi˧dv̩˧
+%Input tones: LM and M
+%Resulting tone: LM°
+maisonnée
+the household
+
+pv̩˩tsɯ˧-pv̩˥mi˩
+%Input tones: LM+MH# and L
+%Resulting tone: LM+MH#°
+peignes
+combs
+
+pɤ˩tɕi˧-pɤ˥mi˩
+%Input tones: LM+MH# and L
+%Resulting tone: LM+MH#°
+têtard
+tadpole
+
+æ˩mi˧-æ˧ʂwæ˥
+%Input tones: LM and H#
+%Resulting tone: LM+H#
+poule et coq
+hen and cock
+
+æ˩mi˧-æ˧tsɯ˥
+%Input tones: LM and H#
+%Resulting tone: LM+H#
+poule et poussins
+hen and chicks
+
+bo˩mi˧-bæ˧bv̩˥
+%Input tones: LM and H#
+%Resulting tone: LM+H#
+truie et porcelets
+sow and piglets
+
+ʐæ˩pʰv̩˧-ʐæ˩mi˩
+%Input tones: LM and LM+#H
+%Resulting tone: LM°L
+panthère mâle et femelle
+male and female panther
+
+dv̩˩mi˧-dv̩˥pʰv̩˩
+%Input tones: LM+#H and LM
+%Resulting tone: LM+#H°
+belette femelle et belette mâle
+female and male weasels
+
+ɑ˩mi˧-ɑ˥pʰv̩˩
+%Input tones: LM+#H and LM+#H
+%Resulting tone: LM+#H°
+oie mâle et oie femelle
+female and male goose 
+
+ɖɯ˩zo˧-ɖɯ˥mi˩
+%Input tones: LM+#H and LM+#H
+%Resulting tone: LM+#H°
+mule mâle et mule femelle
+female and male mule 
+
+æ˧ʂwæ˥-æ˩mi˩
+%Input tones: H# and LM
+%Resulting tone: H#°
+coq et poule
+cock and hen

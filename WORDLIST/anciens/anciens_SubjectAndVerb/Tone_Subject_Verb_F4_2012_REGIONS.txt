@@ -1,0 +1,151 @@
+﻿Liste de régions : Tone_Subject_Verb_F4_2012.wav
+
+Nom                                Début           Fin      Longueur
+-------------------------- ------------- ------------- -------------
+LM M_le porc est mort       00:00:06,687  00:00:09,624  00:00:02,937
+LM #H_porc saute_bon_LMM    00:06:02,183  00:06:03,141  00:00:00,957
+LM #H_porc saute_bon_LMM    00:06:04,774  00:06:07,339  00:00:02,565
+LM #H_porc saute_LM+M       00:02:01,139  00:02:04,389  00:00:03,250
+LM #H_porc saute_LM+M       00:02:09,371  00:02:10,258  00:00:00,887
+LM #H_porc saute_LM+M       00:02:12,795  00:02:14,143  00:00:01,348
+LM #H_porc saute_LM+M       00:02:14,855  00:02:16,010  00:00:01,154
+LM #H_porc saute_LM+M       00:15:57,556  00:15:58,645  00:00:01,089
+LM #H_porc saute_LM+L_deuxgroupes  00:15:55,650  00:15:56,602  00:00:00,952
+LM H_porc marche            00:07:36,263  00:07:37,525  00:00:01,262
+LM L_porc arrive            00:09:17,644  00:09:21,771  00:00:04,127
+LM LM_porc boit             00:11:03,666  00:11:07,036  00:00:03,369
+LM LM_porc boit             00:11:12,034  00:11:13,053  00:00:01,018
+LM LM_porc boit_LM+L_correct  00:17:16,474  00:17:17,448  00:00:00,973
+LM MH_porc court            00:14:08,558  00:14:11,876  00:00:03,317
+LH M_panthère morte         00:00:11,006  00:00:14,593  00:00:03,587
+LH H#_panthère saute_LMM    00:02:17,276  00:02:20,861  00:00:03,585
+LH H_léopart marche         00:07:41,601  00:07:45,023  00:00:03,422
+LM L_panthère arrive        00:09:22,886  00:09:26,439  00:00:03,552
+LH LM_panthère boit          00:11:18,208  00:11:21,830  00:00:03,622
+LH MH_panthère court        00:14:13,403  00:14:16,424  00:00:03,020
+M M_tigre mort              00:00:16,637  00:00:19,795  00:00:03,157
+M #H_tigre saute_bon_MMM    00:06:13,243  00:06:14,578  00:00:01,335
+M #H_tigre saute_bon_MMM    00:06:16,006  00:06:17,330  00:00:01,323
+M #H_tigre saute_MMM        00:16:07,236  00:16:08,467  00:00:01,230
+M #H_tigre saute_sans °pfv  00:03:14,560  00:03:15,395  00:00:00,835
+M H#_tigre saute_deux groupes  00:02:22,570  00:02:26,097  00:00:03,526
+M H#_tigre saute_deux groupes  00:02:30,512  00:02:31,695  00:00:01,183
+M #H_tigre saute_deux groupes_M.M.L  00:03:16,945  00:03:18,269  00:00:01,323
+M #H_tigre saute_MML_deuxgroupes  00:16:13,413  00:16:14,481  00:00:01,068
+M H_tigre marche            00:07:46,868  00:07:50,421  00:00:03,552
+M L_tigre arrive            00:09:27,727  00:09:31,193  00:00:03,466
+M LM_tigre boit             00:11:23,154  00:11:27,078  00:00:03,924
+M MH_tigre court            00:14:18,331  00:14:21,396  00:00:03,065
+L M mouton mort_LLH         00:00:31,341  00:00:32,409  00:00:01,067
+L M_mouton meurt_LLH              00:00:35,561  00:00:36,641  00:00:01,079
+L M_mouton mort_variante MMM  00:00:22,511  00:00:26,540  00:00:04,028
+L #H_mouton saute_bon_MMM   00:06:21,770  00:06:25,306  00:00:03,535
+L #H_mouton saute_correct_M.M.M  00:02:56,912  00:02:59,803  00:00:02,890
+L #H_mouton saute_correct_M.M+M  00:02:54,149  00:02:55,037  00:00:00,888
+L #H_mouton saute_2gpes_M.M+L  00:02:46,300  00:02:50,387  00:00:04,087
+L H_mouton marche           00:07:52,032  00:07:55,785  00:00:03,752
+L_L_mouton arrive_correct_LLH  00:09:43,854  00:09:47,231  00:00:03,377
+L L_mouton arrive_réalisation en deux groupes_M L+L  00:09:32,656  00:09:36,156  00:00:03,500
+L LM_mouton boit            00:11:46,568  00:11:50,165  00:00:03,596
+L LM_mouton boit_L.L+H      00:17:01,640  00:17:02,454  00:00:00,813
+L LM_mouton boit_L.L+H      00:17:09,803  00:17:10,613  00:00:00,809
+L LM_mouton boit_sans °pfv  00:11:35,664  00:11:36,668  00:00:01,004
+LM_mouton boit_M.L+L_deuxgroupes  00:17:05,519  00:17:06,363  00:00:00,844
+LL LM_mouton boit_erroné_MLL  00:11:28,193  00:11:32,001  00:00:03,807
+L MH_mouton court           00:14:22,953  00:14:25,880  00:00:02,927
+#H M_cheval mort            00:00:38,638  00:00:42,883  00:00:04,245
+#H #H_cheval saute          00:03:35,423  00:03:39,811  00:00:04,388
+#H H_cheval marche          00:07:57,814  00:08:01,192  00:00:03,378
+#H L_cheval arrive          00:09:49,756  00:09:53,240  00:00:03,484
+#H LM_cheval boit           00:12:05,194  00:12:08,626  00:00:03,432
+#H MH_cheval court          00:14:27,630  00:14:30,373  00:00:02,742
+MH M_cerf mort              00:00:45,650  00:00:49,528  00:00:03,877
+MH #H_cerf saute            00:03:41,570  00:03:44,862  00:00:03,291
+MH H_cerf marche_hyperarticulé_1e syll réalisée montante  00:08:02,987  00:08:06,225  00:00:03,238
+MH L_cerf arrive            00:09:54,634  00:09:58,447  00:00:03,813
+MH LM_cerf boit             00:12:11,132  00:12:14,476  00:00:03,344
+MH MH_cerf court            00:14:32,907  00:14:35,990  00:00:03,083
+MM M_petite soeur morte     00:00:53,638  00:00:57,585  00:00:03,947
+M #H_petite soeur saute_correct_MMMM  00:03:54,562  00:03:55,641  00:00:01,079
+M #H_petite soeur saute_correct_MMMM  00:03:57,122  00:03:58,379  00:00:01,257
+M #H_petite soeur saute_deux groupes_MMM+L  00:03:47,509  00:03:51,009  00:00:03,500
+M H_petite soeur marche     00:08:09,795  00:08:13,522  00:00:03,726
+M L_petite soeur arrive     00:10:00,572  00:10:04,003  00:00:03,430
+M LM_petite soeur boit      00:12:16,060  00:12:19,595  00:00:03,535
+M MH_petite soeur court     00:14:37,975  00:14:41,562  00:00:03,587
+#H M_petit frère mort       00:01:01,463  00:01:05,294  00:00:03,831
+#H #H_petit frère saute_correct  00:04:00,883  00:04:04,279  00:00:03,396
+#H H_petit frère marche     00:08:17,615  00:08:21,254  00:00:03,639
+#H L_petit frère arrive     00:10:06,371  00:10:09,854  00:00:03,482
+#H LM_petit frère boit      00:12:22,861  00:12:26,353  00:00:03,491
+#H MH_petit frère court     00:14:45,785  00:14:48,927  00:00:03,141
+MH# M_chat mort             00:01:08,173  00:01:11,819  00:00:03,645
+MH# #H_chat saute           00:04:06,787  00:04:10,357  00:00:03,570
+MH# H_chat marche           00:08:22,979  00:08:27,141  00:00:04,162
+MH# L_chat arrive           00:10:11,299  00:10:14,609  00:00:03,309
+MH# LM_chat boit            00:12:29,018  00:12:32,605  00:00:03,587
+MH# MH_chat court           00:14:51,176  00:14:54,745  00:00:03,569
+H$ M_chatte morte           00:01:13,773  00:01:17,554  00:00:03,780
+H$ #H_chatte saute_M.M.M.H_correct  00:17:21,285  00:17:22,250  00:00:00,965
+H$ #H_chatte saute_M.M.M.H_correct  00:17:25,221  00:17:26,382  00:00:01,160
+H$ #H_chatte saute_M.M.M.H_correct  00:17:30,439  00:17:34,828  00:00:04,388
+H$ #H_chatte saute_M.M.M (sans °pfv)_correct  00:17:41,087  00:17:43,849  00:00:02,762
+H$ #H_chatte saute_deux groupes_MM ML  00:06:48,624  00:06:52,696  00:00:04,071
+H$ #H_chatte saute_deux groupes_MMML  00:04:24,394  00:04:27,894  00:00:03,500
+H$ #H_chatte saute_deux groupes_MMML  00:04:33,414  00:04:34,825  00:00:01,410
+H$ #H_chatte saute_deux groupes_MMML  00:04:38,656  00:04:40,189  00:00:01,532
+H$ #H_chatte saute_erreur_MMHL  00:04:11,506  00:04:14,658  00:00:03,151
+H$ H_chatte marche          00:08:28,638  00:08:31,843  00:00:03,204
+H$ L_chatte arrive          00:10:16,629  00:10:20,112  00:00:03,482
+H$ LM_chatte boit           00:12:33,859  00:12:37,359  00:00:03,500
+H$ MH_chatte court          00:14:56,261  00:14:59,465  00:00:03,204
+L M_chien mort              00:01:18,878  00:01:22,407  00:00:03,529
+L #H_chien saute            00:04:47,939  00:04:53,352  00:00:05,413
+L H_chien marche            00:08:34,002  00:08:38,164  00:00:04,162
+L L_chien arrive            00:10:21,644  00:10:24,971  00:00:03,327
+L LM_chien boit             00:12:38,578  00:12:42,183  00:00:03,605
+L MH_chien court            00:15:01,247  00:15:04,626  00:00:03,378
+L# M_tibétain mort          00:01:24,148  00:01:28,259  00:00:04,110
+L# #H_mule saute            00:04:54,939  00:04:58,940  00:00:04,000
+L# H_mule marche            00:08:41,195  00:08:44,817  00:00:03,622
+L# L_mule arrive            00:10:26,886  00:10:30,639  00:00:03,752
+L# LM_mule boit             00:12:43,768  00:12:47,338  00:00:03,570
+L# MH_mule court            00:15:06,518  00:15:09,989  00:00:03,471
+LM+MH M_loup mort           00:01:30,023  00:01:33,878  00:00:03,854
+LM+MH# #H_loup saute        00:05:00,409  00:05:04,047  00:00:03,638
+LM+MH# H_loup marche        00:08:46,227  00:08:49,867  00:00:03,639
+LM+MH# L_loup arrive        00:10:33,870  00:10:37,455  00:00:03,585
+LM+MH# LM_loup boit         00:12:48,505  00:12:51,779  00:00:03,273
+LM+MH# MH_loup court        00:15:11,325  00:15:15,085  00:00:03,760
+LM+#H m_cane morte          00:01:35,991  00:01:39,635  00:00:03,643
+LM+#H #H_poule saute  00:05:50,249  00:05:54,336  00:00:04,086
+LM+#H_#H_cane saute_deux groupes_LMML  00:05:06,886  00:05:10,700  00:00:03,813
+LM+#H H_cane marche         00:08:51,870  00:08:55,649  00:00:03,778
+LM+#H L_cane arrive         00:10:39,120  00:10:42,351  00:00:03,230
+LM+#H LM_cane boit          00:13:15,724  00:13:18,754  00:00:03,030
+LM+#H LM_cane boit_erreur/variante  00:13:06,459  00:13:10,865  00:00:04,406
+LM+#H LM_cane boit_erreur_LMLL  00:12:54,304  00:12:57,804  00:00:03,500
+LM+#H MH_cane court         00:15:16,259  00:15:19,219  00:00:02,960
+LM M_truie morte            00:01:42,028  00:01:45,999  00:00:03,970
+LM #H_truie saute  00:05:44,676  00:05:46,386  00:00:01,709
+LM #H_truie saute_bon_LMMM  00:07:05,961  00:07:06,983  00:00:01,021
+LM #H_truie saute_bon_LMMM  00:07:07,920  00:07:09,052  00:00:01,131
+LM #H_truie saute_deux groupes_LMML  00:05:18,380  00:05:22,350  00:00:03,970
+LM #H_truie saute_deux groupes_LMML  00:05:27,714  00:05:29,247  00:00:01,532
+LM #H_truie saute_deux groupes_LMML  00:05:35,063  00:05:39,052  00:00:03,989
+LM H_truie marche           00:08:57,597  00:09:01,256  00:00:03,659
+LM L_truie arrive           00:10:44,170  00:10:47,801  00:00:03,630
+LM LM_truie boit            00:13:26,068  00:13:29,760  00:00:03,691
+LM MH_truie court           00:15:21,425  00:15:25,199  00:00:03,773
+LH M_verrat mort            00:01:47,578  00:01:51,502  00:00:03,924
+LH #H_verrat saute          00:07:11,786  00:07:15,844  00:00:04,057
+LH H_verrat marche          00:09:02,580  00:09:06,359  00:00:03,779
+LH L_verrat arrive          00:10:48,811  00:10:52,390  00:00:03,579
+LH LM_verrat boit           00:13:32,321  00:13:36,169  00:00:03,848
+LH MH_verrat court          00:15:27,544  00:15:31,106  00:00:03,561
+H# M_souris morte           00:01:53,591  00:01:57,331  00:00:03,739
+H# #H_souris saute          00:07:25,370  00:07:28,957  00:00:03,587
+H# H_souris marche          00:09:08,257  00:09:12,280  00:00:04,023
+H# L_souris arrive          00:10:54,706  00:10:58,007  00:00:03,300
+H# LM_souris boit           00:13:38,259  00:13:41,881  00:00:03,622
+H# MH_souris court          00:15:33,453  00:15:36,600  00:00:03,146

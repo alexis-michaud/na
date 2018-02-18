@@ -1,0 +1,653 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="showText3.xsl"?>
+<WORDLIST  id="crdo-NRU_NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG"
+ xml:lang="nru">
+<url_sound>../audio/NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIO.wav</url_sound>
+<HEADER>
+<TITLE xml:lang="fr">NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG</TITLE>
+<SOUNDFILE href="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIO.wav"/>
+</HEADER>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_001">
+	<FORM>ɖɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">1 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">1 heap (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">1 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="0" end="1.602"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_002">
+	<FORM>ɲi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">2 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">2 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">2 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="1.602" end="3.448"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_003">
+	<FORM>so˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">3 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">3 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">3 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="3.448" end="5.05"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_004">
+	<FORM>ʐv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L."/>
+	<TRANSL xml:lang = "cn">4 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">4 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">4 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="5.05" end="6.617"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_005">
+	<FORM>ŋwɤ˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L."/>
+	<TRANSL xml:lang = "cn">5 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">5 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">5 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="6.617" end="8.219"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_006">
+	<FORM>qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">6 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">6 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">6 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="8.219" end="9.891"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_007">
+	<FORM>ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">7 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">7 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">7 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="9.891" end="11.354"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_008">
+	<FORM>hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">8 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">8 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">8 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="11.354" end="12.852"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_009">
+	<FORM>gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L."/>
+	<TRANSL xml:lang = "cn">9 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">9 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">9 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="12.852" end="14.21"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_010">
+	<FORM>tsʰe˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">10 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">10 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">10 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="14.21" end="15.464"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_011">
+	<FORM>tsʰe˧ɖɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">11 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">11 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">11 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="15.464" end="16.962"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_012">
+	<FORM>tsʰe˧ɲi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">12 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">12 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">12 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="16.962" end="18.494"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_013">
+	<FORM>tsʰe˧so˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">13 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">13 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">13 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="18.494" end="19.818"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_014">
+	<FORM>tsʰe˩ʐv̩˩-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+H#."/>
+	<TRANSL xml:lang = "cn">14 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">14 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">14 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="19.818" end="21.141"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_015">
+	<FORM>tsʰe˩ŋwɤ˩-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+H#."/>
+	<TRANSL xml:lang = "cn">15 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">15 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">15 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="21.141" end="22.534"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_016">
+	<FORM>tsʰe˩qʰv̩˩-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+H#."/>
+	<TRANSL xml:lang = "cn">16 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">16 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">16 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="22.534" end="23.962"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_017">
+	<FORM>tsʰe˧ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">17 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">17 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">17 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="23.962" end="25.495"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_018">
+	<FORM>tsʰe˩hũ˩-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+H#."/>
+	<TRANSL xml:lang = "cn">18 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">18 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">18 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="25.495" end="26.749"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_019">
+	<FORM>tsʰe˩gv̩˩-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+H#."/>
+	<TRANSL xml:lang = "cn">19 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">19 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">19 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="26.749" end="28.107"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_020">
+	<FORM>ɲi˧tsi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">20 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">20 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">20 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="28.107" end="29.396"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_021">
+	<FORM>ɲi˧tsi˧ɖɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">21 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">21 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">21 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="29.396" end="30.928"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_022">
+	<FORM>ɲi˧tsi˧ɲi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">22 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">22 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">22 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="30.928" end="32.461"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_023">
+	<FORM>ɲi˧tsi˧so˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L. Variant: ɲi˧tsi˧so˧-ʁwɤ˧ (surface phonological representation); underlying tone: M."/>
+	<TRANSL xml:lang = "cn">23 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">23 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">23 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="32.461" end="34.098"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_024">
+	<FORM>ɲi˧tsi˧ʐv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">24 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">24 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">24 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="34.098" end="35.631"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_025">
+	<FORM>ɲi˧tsi˧ŋwɤ˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">25 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">25 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">25 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="35.631" end="37.372"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_026">
+	<FORM>ɲi˧tsi˧qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">26 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">26 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">26 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="37.372" end="39.114"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_027">
+	<FORM>ɲi˧tsi˧ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">27 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">27 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">27 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="39.114" end="40.855"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_028">
+	<FORM>ɲi˧tsi˧hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">28 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">28 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">28 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="40.855" end="42.283"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_029">
+	<FORM>ɲi˧tsi˧gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">29 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">29 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">29 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="42.283" end="43.668"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_030">
+	<FORM>so˧tsʰi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">30 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">30 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">30 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="43.668" end="44.913"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_031">
+	<FORM>so˧tsʰi˧ɖɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">31 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">31 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">31 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="44.913" end="46.158"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_032">
+	<FORM>so˧tsʰi˧ɲi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">32 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">32 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">32 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="46.158" end="47.455"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_033">
+	<FORM>so˧tsʰi˧so˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">33 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">33 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">33 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="47.725" end="49.04"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_034">
+	<FORM>so˧tsʰi˧ʐv̩˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">34 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">34 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">34 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="49.179" end="54.209"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_035">
+	<FORM>so˧tsʰi˧ŋwɤ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<NOTE xml:lang = "en" message = "This token was added two days later after the original recording, from a supplementary recording."/>
+	<TRANSL xml:lang = "cn">35 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">35 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">35 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="54.289" end="55.752"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_036">
+	<FORM>so˧tsʰi˧qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">36 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">36 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">36 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="55.752" end="57.049"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_037">
+	<FORM>so˧tsʰi˧ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">37 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">37 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">37 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="57.049" end="58.547"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_038">
+	<FORM>so˧tsʰi˧hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: H#."/>
+	<TRANSL xml:lang = "cn">38 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">38 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">38 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="58.547" end="59.818"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_039">
+	<FORM>so˧tsʰi˧gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: °L."/>
+	<TRANSL xml:lang = "cn">39 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">39 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">39 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="60.115" end="61.215"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_040">
+	<FORM>ʐv̩˧tsʰi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°."/>
+	<TRANSL xml:lang = "cn">40 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">40 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">40 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="61.506" end="64.097"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_041">
+	<FORM>ʐv̩˧tsʰi˩ɖɯ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°."/>
+	<TRANSL xml:lang = "cn">41 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">41 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">41 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="64.097" end="65.461"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_042">
+	<FORM>ʐv̩˧tsʰi˩ɲi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°."/>
+	<TRANSL xml:lang = "cn">42 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">42 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">42 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="65.461" end="66.622"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_043">
+	<FORM>ʐv̩˧tsʰi˩so˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°."/>
+	<TRANSL xml:lang = "cn">43 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">43 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">43 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="66.622" end="67.731"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_044">
+	<FORM>ʐv̩˧tsʰi˩ʐv̩˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʐv̩˧tsʰi˩ʐv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">44 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">44 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">44 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="68.195" end="69.228"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_045">
+	<FORM>ʐv̩˧tsʰi˩ŋwɤ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʐv̩˧tsʰi˩ŋwɤ˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">45 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">45 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">45 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="69.228" end="70.755"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_046">
+	<FORM>ʐv̩˧tsʰi˩qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: ʐv̩˧tsʰi˩qʰv̩˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">46 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">46 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">46 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="70.755" end="72.346"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_047">
+	<FORM>ʐv̩˧tsʰi˩ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°M. Variant: ʐv̩˧tsʰi˩ʂɯ˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">47 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">47 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">47 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="72.346" end="73.742"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_048">
+	<FORM>ʐv̩˧tsʰi˩hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: ʐv̩˧tsʰi˩hũ˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">48 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">48 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">48 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="73.742" end="74.943"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_049">
+	<FORM>ʐv̩˧tsʰi˩gv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: ʐv̩˧tsʰi˩gv̩˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">49 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">49 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">49 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="74.943" end="76.763"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_050">
+	<FORM>qʰv̩˩tsʰi˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#."/>
+	<TRANSL xml:lang = "cn">60 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">60 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">60 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="78.296" end="79.349"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_051">
+	<FORM>qʰv̩˩tsʰi˧ɖɯ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#. Variant: qʰv̩˩tsʰi˧˥ɖɯ˧-ʁwɤ˧ (surface phonological representation); underlying tone: L+MH#°M."/>
+	<TRANSL xml:lang = "cn">61 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">61 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">61 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="79.349" end="81.03"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_052">
+	<FORM>qʰv̩˩tsʰi˧ɲi˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#. Variant: qʰv̩˩tsʰi˧˥ɲi˧-ʁwɤ˧ (surface phonological representation); underlying tone: L+MH#°M."/>
+	<TRANSL xml:lang = "cn">62 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">62 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">62 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="81.03" end="82.728"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_053">
+	<FORM>*qʰv̩˩tsʰi˧so˩-ʁwɤ˩˥</FORM>
+	<NOTE xml:lang="en" message="The tone sequence of this token is mistaken realization. The correct form is: /qʰv̩˩tsʰi˧so˧-ʁwɤ˥/ in surface phonological representation, and its underlying tone is LM°H#. Variant: qʰv̩˩tsʰi˧˥so˧-ʁwɤ˧ (surface phonological representation); underlying tone: L+MH#°M./"/>
+	<TRANSL xml:lang = "cn">63 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">63 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">63 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="82.728" end="84.304"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_054">
+	<FORM>qʰv̩˩tsʰi˧ʐv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#. Variant: qʰv̩˩tsʰi˧˥ʐv̩˩-ʁwɤ˩˥ (surface phonological representation); underlying tone: L+MH#°L."/>
+	<TRANSL xml:lang = "cn">64 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">64 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">64 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="84.304" end="85.584"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_055">
+	<FORM>qʰv̩˩tsʰi˧ŋwɤ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#. Variant: qʰv̩˩tsʰi˧˥ŋwɤ˩-ʁwɤ˩˥ (surface phonological representation); underlying tone: L+MH#°L."/>
+	<TRANSL xml:lang = "cn">65 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">65 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">65 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="85.958" end="87.264"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_056">
+	<FORM>qʰv̩˩tsʰi˧qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#."/>
+	<TRANSL xml:lang = "cn">66 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">66 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">66 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="87.264" end="88.719"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_057">
+	<FORM>qʰv̩˩tsʰi˧ʂɯ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#. Variant: qʰv̩˩tsʰi˧˥ʂɯ˧-ʁwɤ˧ (surface phonological representation); underlying tone: L+MH#°M."/>
+	<TRANSL xml:lang = "cn">67 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">67 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">67 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="88.719" end="90.077"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_058">
+	<FORM>qʰv̩˩tsʰi˧hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: LM°H#."/>
+	<TRANSL xml:lang = "cn">68 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">68 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">68 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="90.077" end="91.27"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_059">
+	<FORM>qʰv̩˩tsʰi˧˥gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L+MH#°L. Variant: qʰv̩˩tsʰi˧gv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: LM°H#."/>
+	<TRANSL xml:lang = "cn">69 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">69 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">69 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="91.27" end="93.586"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_060">
+	<FORM>ʂɯ˧tsʰi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°."/>
+	<TRANSL xml:lang = "cn">70 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">70 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">70 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="94.261" end="95.088"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_061">
+	<FORM>ʂɯ˧tsʰi˩ɖɯ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʂɯ˧tsʰi˩ɖɯ˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">71 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">71 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">71 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="95.554" end="96.799"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_062">
+	<FORM>ʂɯ˧tsʰi˩ɲi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʂɯ˧tsʰi˩ɲi˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">72 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">72 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">72 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="96.799" end="98.227"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_063">
+	<FORM>ʂɯ˧tsʰi˩so˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʂɯ˧tsʰi˩so˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">73 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">73 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">73 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="98.227" end="99.446"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_064">
+	<FORM>ʂɯ˧tsʰi˩ʐv̩˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʂɯ˧tsʰi˩ʐv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">74 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">74 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">74 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="99.777" end="100.996"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_065">
+	<FORM>ʂɯ˧tsʰi˩ŋwɤ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: ʂɯ˧tsʰi˩ŋwɤ˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">75 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">75 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">75 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="101.371" end="102.816"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_066">
+	<FORM>ʂɯ˧tsʰi˩qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: ʂɯ˧tsʰi˩qʰv̩˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<NOTE xml:lang = "en" message = "This token was added two days later after the original recording, from a supplementary recording."/>
+	<TRANSL xml:lang = "cn">76 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">76 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">76 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="103.531" end="108.382"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_067">
+	<FORM>ʂɯ˧tsʰi˩ʂɯ˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°M. Variant: ʂɯ˧tsʰi˩ʂɯ˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">77 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">77 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">77 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="108.593" end="109.702"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_068">
+	<FORM>ʂɯ˧tsʰi˩hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: ʂɯ˧tsʰi˩hũ˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">78 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">78 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">78 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="109.998" end="111.182"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_069">
+	<FORM>ʂɯ˧tsʰi˩gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°L. Variant: ʂɯ˧tsʰi˩gv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">79 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">79 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">79 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="112.463" end="113.557"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_070">
+	<FORM>gv̩˧tsʰi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: gv̩˧tsʰi˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">90 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">90 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">90 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="114.624" end="115.506"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_071">
+	<FORM>gv̩˧tsʰi˩ɖɯ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: gv̩˧tsʰi˩ɖɯ˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">91 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">91 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">91 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="115.78" end="116.947"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_072">
+	<FORM>gv̩˧tsʰi˩ɲi˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: gv̩˧tsʰi˩ɲi˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">92 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">92 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">92 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="116.947" end="118.153"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_073">
+	<FORM>gv̩˧tsʰi˩so˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: gv̩˧tsʰi˩so˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">93 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">93 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">93 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="118.153" end="119.481"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_074">
+	<FORM>gv̩˧tsʰi˩ʐv̩˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°L. Variant: gv̩˧tsʰi˩ʐv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">94 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">94 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">94 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="119.933" end="121.126"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_075">
+	<FORM>gv̩˧tsʰi˩ŋwɤ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°L. Variant: gv̩˧tsʰi˩ŋwɤ˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">95 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">95 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">95 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="121.126" end="122.393"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_076">
+	<FORM>gv̩˧tsʰi˩qʰv̩˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: gv̩˧tsʰi˩qʰv̩˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<NOTE xml:lang = "en" message = "This token was added two days later after the original recording, from a supplementary recording."/>
+	<TRANSL xml:lang = "cn">96 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">96 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">96 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="122.949" end="127.587"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_077">
+	<FORM>gv̩˧tsʰi˩ʂɯ˩-ʁwɤ˩ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°. Variant: gv̩˧tsʰi˩ʂɯ˧-ʁwɤ˧ (surface phonological representation); underlying tone: L#°M."/>
+	<TRANSL xml:lang = "cn">97 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">97 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">97 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="127.715" end="129.039"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_078">
+	<FORM>gv̩˧tsʰi˩hũ˧-ʁwɤ˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°H#. Variant: gv̩˧tsʰi˩hũ˩-ʁwɤ˩ (surface phonological representation); underlying tone: L#°."/>
+	<TRANSL xml:lang = "cn">98 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">98 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">98 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="129.039" end="130.205"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_079">
+	<FORM>gv̩˧tsʰi˩gv̩˩-ʁwɤ˩˥ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: L#°L. Variant: gv̩˧tsʰi˩gv̩˧-ʁwɤ˥ (surface phonological representation); underlying tone: L#°H#."/>
+	<TRANSL xml:lang = "cn">99 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">99 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">99 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="130.532" end="131.96"/>
+</W>
+<W id="NumPlusCL_M1_Heap_1to100_F4_24Sept2011_AUDIOPLUSEGG_080">
+	<FORM>ɖɯ˧ɕi˧-ʁwɤ˧ </FORM>
+	<NOTE xml:lang="en" message = "The transcription is a surface phonological representation. The underlying tone of this phrase is: M."/>
+	<TRANSL xml:lang = "cn">100 堆（粮食……）</TRANSL>
+	<TRANSL xml:lang = "en">100 heaps (e.g. of grains, of cut wood)</TRANSL>
+	<TRANSL xml:lang = "fr">100 tas (de céréales, de bois coupé...)</TRANSL>
+	<AUDIO start="131.96" end="132.935"/>
+</W>
+</WORDLIST>

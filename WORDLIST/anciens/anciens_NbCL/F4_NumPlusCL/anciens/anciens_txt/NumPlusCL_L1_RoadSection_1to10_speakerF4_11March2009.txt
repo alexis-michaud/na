@@ -1,0 +1,41 @@
+﻿NumPlusCL_Month_speakerF4_2009
+ɖɯ˧-ɖæ˩
+un+classificateur des sections de route
+one+classifier for road sections
+一段（路）
+ʐɤ˩mi˩˥ ɖɯ˧-ɖæ˩
+un bout de route
+a section of road
+一段路
+ɲi˧-ɖæ˩
+deux+classificateur des sections de route
+two+classifier for road sections
+两段（路）
+ʐv̩˧-ɖæ˥
+quatre+classificateur des sections de route
+four+classifier for road sections
+四段（路）
+ŋwɤ˧-ɖæ˥
+cinq+classificateur des sections de route
+five+classifier for road sections
+五段（路）
+qʰv̩˧-ɖæ˥
+six+classificateur des sections de route
+six+classifier for road sections
+六段（路）
+ʂɯ˧-ɖæ˩
+sept+classificateur des sections de route
+seven+classifier for road sections
+七段（路）
+hũ˧-ɖæ˥
+huit+classificateur des sections de route
+eight+classifier for road sections
+八段（路）
+gv̩˧-ɖæ˥
+neuf+classificateur des sections de route
+nine+classifier for road sections
+九段（路）
+tsʰe˩-ɖæ˩˥
+dix+classificateur des sections de route
+ten+classifier for road sections
+十段（路）

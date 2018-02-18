@@ -1,0 +1,587 @@
+<WORDLIST id="crdo-NRU_F4_TONETUTORIAL_PART3" xml:lang="NRU">
+<HEADER>
+<TITLE xml:lang="eng">Tone tutorial: verification of tone patterns for a monograph (later published as Michaud 2017), part 3 of 3: tables 5.14 and 5.15</TITLE>
+<SOUNDFILE href="crdo-NRU_F4_TONETUTORIAL_PART3.wav"/>
+</HEADER>
+<W id="F4_TONETUTORIAL_PART3_001">
+	<FORM kindOf="phono">bo˩ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘pig’"/>
+	<NOTE xml:lang="en" message = "Hypothesized underlying form: //bo˩ ɳɯ˧//"/>
+	<TRANSL xml:lang="en">by (a/the) pig </TRANSL>
+	<AUDIO start="0" end="0.731"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_002">
+	<FORM kindOf="phono">ʐæ˩ ɳɯ˥ </FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘leopard’"/>
+	<TRANSL xml:lang="en">by (a/the) leopard </TRANSL>
+	<AUDIO start="2.113" end="2.984"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_003">
+	<FORM kindOf="phono">lɑ˧ ɳɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘tiger’"/>
+	<TRANSL xml:lang="en">by (a/the) tiger </TRANSL>
+	<AUDIO start="4.365" end="5.178"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_004">
+	<FORM kindOf="phono">jo˧ ɳɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep’"/>
+	<TRANSL xml:lang="en">by (a/the) sheep </TRANSL>
+	<AUDIO start="6.966" end="7.825"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_005">
+	<FORM kindOf="phono">jo˩ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep’"/>
+	<TRANSL xml:lang="en">by (a/the) sheep </TRANSL>
+	<AUDIO start="9.543" end="10.403"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_006">
+	<FORM kindOf="phono">ʐwæ˧ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘horse’"/>
+	<TRANSL xml:lang="en">by (a/the) horse </TRANSL>
+	<AUDIO start="13.305" end="14.187"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_007">
+	<FORM kindOf="phono">ʈʂʰæ˧ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer’"/>
+	<TRANSL xml:lang="en">by (a/the) deer </TRANSL>
+	<AUDIO start="15.673" end="16.556"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_008">
+	<FORM kindOf="phono">ɖɤ˧mi˧ ɳɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘fox’"/>
+	<TRANSL xml:lang="en">by (a/the) fox </TRANSL>
+	<AUDIO start="18.843" end="19.888"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_009">
+	<FORM kindOf="phono">ʐwæ˧zo˧ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: #H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘colt’"/>
+	<TRANSL xml:lang="en">by (a/the) colt </TRANSL>
+	<AUDIO start="22.187" end="23.417"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_010">
+	<FORM kindOf="phono">hwɤ˧li˧ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘cat’"/>
+	<TRANSL xml:lang="en">by (a/the) cat </TRANSL>
+	<AUDIO start="25.704" end="26.865"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_011">
+	<FORM kindOf="phono">hwɤ˧mi˥ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat’"/>
+	<TRANSL xml:lang="en">by (a/the) she-cat </TRANSL>
+	<AUDIO start="28.944" end="30.174"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_012">
+	<FORM kindOf="phono">hwɤ˧mi˥ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat’"/>
+	<TRANSL xml:lang="en">by (a/the) she-cat </TRANSL>
+	<AUDIO start="31.417" end="32.427"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_013">
+	<FORM kindOf="phono">hwɤ˧mi˧ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat’"/>
+	<TRANSL xml:lang="en">by (a/the) she-cat </TRANSL>
+	<AUDIO start="37.506" end="38.499"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_014">
+	<FORM kindOf="phono">kʰv̩˩mi˩ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘dog’"/>
+	<TRANSL xml:lang="en">by (a/the) dog </TRANSL>
+	<AUDIO start="41.076" end="42.208"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_015">
+	<FORM kindOf="phono">dɑ˧ʝi˩ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘mule’"/>
+	<TRANSL xml:lang="en">by (a/the) mule </TRANSL>
+	<AUDIO start="44.089" end="45.308"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_016">
+	<FORM kindOf="phono">õ˩dv̩˧ ɳɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘wolf’"/>
+	<TRANSL xml:lang="en">by (a/the) wolf </TRANSL>
+	<AUDIO start="47.363" end="48.721"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_017">
+	<FORM kindOf="phono">nɑ˩hĩ˧ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+#H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘Naxi’"/>
+	<TRANSL xml:lang="en">by (a/the) Naxi </TRANSL>
+	<AUDIO start="51.003" end="52.257"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_018">
+	<FORM kindOf="phono">bo˩mi˧ ɳɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sow’"/>
+	<TRANSL xml:lang="en">by (a/the) sow </TRANSL>
+	<AUDIO start="56.001" end="57.011"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_019">
+	<FORM kindOf="phono">bo˩ɬɑ˥ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘boar’"/>
+	<TRANSL xml:lang="en">by (a/the) boar </TRANSL>
+	<AUDIO start="58.822" end="60.024"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_020">
+	<FORM kindOf="phono">hwæ˧tsɯ˥ ɳɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘rat’"/>
+	<TRANSL xml:lang="en">by (a/the) rat </TRANSL>
+	<AUDIO start="61.695" end="62.88"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_021">
+	<FORM kindOf="phono">bo˩-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘pig’"/>
+	<NOTE xml:lang="en" message = "Hypothesized underlying form: //bo˩-ki˧//"/>
+	<TRANSL xml:lang="en">to (a/the) pig </TRANSL>
+	<AUDIO start="68.627" end="69.689"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_022">
+	<FORM kindOf="phono">ʐæ˩-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘leopard’"/>
+	<TRANSL xml:lang="en">to (a/the) leopard </TRANSL>
+	<AUDIO start="71.169" end="72.144"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_023">
+	<FORM kindOf="phono">lɑ˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘tiger’"/>
+	<TRANSL xml:lang="en">to (a/the) tiger </TRANSL>
+	<AUDIO start="73.642" end="74.6"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_024">
+	<FORM kindOf="phono">jo˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep’"/>
+	<TRANSL xml:lang="en">to (a/the) sheep </TRANSL>
+	<AUDIO start="76.272" end="77.212"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_025">
+	<FORM kindOf="phono">jo˩-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep’"/>
+	<TRANSL xml:lang="en">to (a/the) sheep </TRANSL>
+	<AUDIO start="78.466" end="79.494"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_026">
+	<FORM kindOf="phono">ʐwæ˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘horse’"/>
+	<TRANSL xml:lang="en">to (a/the) horse </TRANSL>
+	<AUDIO start="81.078" end="82.21"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_027">
+	<FORM kindOf="phono">ʈʂʰæ˧-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer’"/>
+	<TRANSL xml:lang="en">to (a/the) deer </TRANSL>
+	<AUDIO start="83.29" end="84.126"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_028">
+	<FORM kindOf="phono">ɖɤ˧mi˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘fox’"/>
+	<TRANSL xml:lang="en">to (a/the) fox </TRANSL>
+	<AUDIO start="85.78" end="86.86"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_029">
+	<FORM kindOf="phono">ʐwæ˧zo˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: #H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘colt’"/>
+	<TRANSL xml:lang="en">to (a/the) colt </TRANSL>
+	<AUDIO start="88.184" end="89.281"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_030">
+	<FORM kindOf="phono">hwɤ˧li˧-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘cat’"/>
+	<TRANSL xml:lang="en">to (a/the) cat </TRANSL>
+	<AUDIO start="90.813" end="91.928"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_031">
+	<FORM kindOf="phono">hwɤ˧mi˥-ki˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat’"/>
+	<TRANSL xml:lang="en">to (a/the) she-cat </TRANSL>
+	<AUDIO start="93.547" end="94.575"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_032">
+	<FORM kindOf="phono">kʰv̩˩mi˩-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘dog’"/>
+	<TRANSL xml:lang="en">to (a/the) dog </TRANSL>
+	<AUDIO start="96.125" end="97.083"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_033">
+	<FORM kindOf="phono">dɑ˧ʝi˩-ki˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘mule’"/>
+	<TRANSL xml:lang="en">to (a/the) mule </TRANSL>
+	<AUDIO start="98.528" end="99.799"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_034">
+	<FORM kindOf="phono">õ˩dv̩˧-ki˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘wolf’"/>
+	<TRANSL xml:lang="en">to (a/the) wolf </TRANSL>
+	<AUDIO start="101.21" end="102.272"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_035">
+	<FORM kindOf="phono">nɑ˩hĩ˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+#H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘Naxi’"/>
+	<TRANSL xml:lang="en">to (a/the) Naxi </TRANSL>
+	<AUDIO start="103.962" end="104.867"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_036">
+	<FORM kindOf="phono">bo˩mi˧-ki˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sow’"/>
+	<TRANSL xml:lang="en">to (a/the) sow </TRANSL>
+	<AUDIO start="106.225" end="107.183"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_037">
+	<FORM kindOf="phono">bo˩ɬɑ˥-ki˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘boar’"/>
+	<TRANSL xml:lang="en">to (a/the) boar </TRANSL>
+	<AUDIO start="108.507" end="109.83"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_038">
+	<FORM kindOf="phono">hwæ˧tsɯ˥-ki˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘rat’"/>
+	<TRANSL xml:lang="en">to (a/the) rat </TRANSL>
+	<AUDIO start="111.258" end="112.356"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_039">
+	<FORM kindOf="phono">bo˩ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘pig ’"/>
+	<NOTE xml:lang="en" message = "Hypothesized underlying form: //bo˩ ʈʂʰɯ˧//"/>
+	<TRANSL xml:lang="en">as for (a/the) pig ...</TRANSL>
+	<AUDIO start="119.574" end="120.393"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_040">
+	<FORM kindOf="phono">ʐæ˩ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘leopard ’"/>
+	<TRANSL xml:lang="en">as for (a/the) leopard ...</TRANSL>
+	<AUDIO start="121.942" end="122.831"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_041">
+	<FORM kindOf="phono">lɑ˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘tiger ’"/>
+	<TRANSL xml:lang="en">as for (a/the) tiger ...</TRANSL>
+	<AUDIO start="124.433" end="125.634"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_042">
+	<FORM kindOf="phono">jo˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep ’"/>
+	<TRANSL xml:lang="en">as for (a/the) sheep ...</TRANSL>
+	<AUDIO start="126.74" end="127.733"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_043">
+	<FORM kindOf="phono">jo˩ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep ’"/>
+	<TRANSL xml:lang="en">as for (a/the) sheep ...</TRANSL>
+	<AUDIO start="128.839" end="129.771"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_044">
+	<FORM kindOf="phono">ʐwæ˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘horse ’"/>
+	<TRANSL xml:lang="en">as for (a/the) horse ...</TRANSL>
+	<AUDIO start="131.686" end="132.557"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_045">
+	<FORM kindOf="phono">ʈʂʰæ˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer ’"/>
+	<TRANSL xml:lang="en">as for (a/the) deer ...</TRANSL>
+	<AUDIO start="134.568" end="135.578"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_046">
+	<FORM kindOf="phono">ʈʂʰæ˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer ’"/>
+	<TRANSL xml:lang="en">as for (a/the) deer ...</TRANSL>
+	<AUDIO start="140.202" end="141.235"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_047">
+	<FORM kindOf="phono">ʈʂʰæ˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer ’"/>
+	<TRANSL xml:lang="en">as for (a/the) deer ...</TRANSL>
+	<AUDIO start="143.151" end="144.01"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_048">
+	<FORM kindOf="phono">ɖɤ˧mi˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘fox ’"/>
+	<TRANSL xml:lang="en">as for (a/the) fox ...</TRANSL>
+	<AUDIO start="146.379" end="147.505"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_049">
+	<FORM kindOf="phono">ʐwæ˧zo˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: #H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘colt ’"/>
+	<TRANSL xml:lang="en">as for (a/the) colt ...</TRANSL>
+	<AUDIO start="149.386" end="150.512"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_050">
+	<FORM kindOf="phono">hwɤ˧li˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘cat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) cat ...</TRANSL>
+	<AUDIO start="152.323" end="153.31"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_051">
+	<FORM kindOf="phono">hwɤ˧mi˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) she-cat ...</TRANSL>
+	<AUDIO start="154.773" end="155.736"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_052">
+	<FORM kindOf="phono">hwɤ˧mi˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) she-cat ...</TRANSL>
+	<AUDIO start="158.221" end="159.254"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_053">
+	<FORM kindOf="phono">hwɤ˧mi˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) she-cat ...</TRANSL>
+	<AUDIO start="173.186" end="174.231"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_054">
+	<FORM kindOf="phono">hwɤ˧mi˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she-cat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) she-cat ...</TRANSL>
+	<AUDIO start="177.418" end="178.48"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_055">
+	<FORM kindOf="phono">kʰv̩˩mi˩ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘dog ’"/>
+	<TRANSL xml:lang="en">as for (a/the) dog ...</TRANSL>
+	<AUDIO start="188.685" end="189.713"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_056">
+	<FORM kindOf="phono">dɑ˧ʝi˩ ʈʂʰɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘mule ’"/>
+	<TRANSL xml:lang="en">as for (a/the) mule ...</TRANSL>
+	<AUDIO start="191.245" end="192.464"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_057">
+	<FORM kindOf="phono">õ˩dv̩˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘wolf ’"/>
+	<TRANSL xml:lang="en">as for (a/the) wolf ...</TRANSL>
+	<AUDIO start="194.119" end="195.355"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_058">
+	<FORM kindOf="phono">õ˩dv̩˧ ʈʂʰɯ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+MH#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘wolf ’"/>
+	<TRANSL xml:lang="en">as for (a/the) wolf ...</TRANSL>
+	<AUDIO start="196.714" end="198.037"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_059">
+	<FORM kindOf="phono">nɑ˩hĩ˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+#H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘Naxi ’"/>
+	<TRANSL xml:lang="en">as for (a/the) Naxi ...</TRANSL>
+	<AUDIO start="200.789" end="201.747"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_060">
+	<FORM kindOf="phono">bo˩mi˧ ʈʂʰɯ˧</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sow ’"/>
+	<TRANSL xml:lang="en">as for (a/the) sow ...</TRANSL>
+	<AUDIO start="203.453" end="204.498"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_061">
+	<FORM kindOf="phono">bo˩ɬɑ˥ ʈʂʰɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘boar ’"/>
+	<TRANSL xml:lang="en">as for (a/the) boar ...</TRANSL>
+	<AUDIO start="205.891" end="206.878"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_062">
+	<FORM kindOf="phono">hwæ˧tsɯ˥ ʈʂʰɯ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘rat ’"/>
+	<TRANSL xml:lang="en">as for (a/the) rat ...</TRANSL>
+	<AUDIO start="208.446" end="209.316"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_063">
+	<FORM kindOf="phono">bo˩-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘pig’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: //L.M// (on surface: realized in the same way as //LH//)"/>
+	<TRANSL xml:lang="en">with (a/the) pig </TRANSL>
+	<AUDIO start="222.006" end="223.074"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_064">
+	<FORM kindOf="phono">ʐæ˩-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘leopard’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: //L.H// (on surface: realized in the same way as //LM//)"/>
+	<TRANSL xml:lang="en">with (a/the) leopard </TRANSL>
+	<AUDIO start="224.328" end="225.245"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_065">
+	<FORM kindOf="phono">lɑ˧-qɑ˧˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘tiger’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.MH"/>
+	<TRANSL xml:lang="en">with (a/the) tiger </TRANSL>
+	<AUDIO start="228.589" end="229.808"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_066">
+	<FORM kindOf="phono">jo˩-qɑ˩˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sheep’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.LH"/>
+	<TRANSL xml:lang="en">with (a/the) sheep </TRANSL>
+	<AUDIO start="232.06" end="233.012"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_067">
+	<FORM kindOf="phono">ʐwæ˧-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘horse’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.L"/>
+	<TRANSL xml:lang="en">with (a/the) horse </TRANSL>
+	<AUDIO start="235.16" end="236.089"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_068">
+	<FORM kindOf="phono">ʈʂʰæ˧-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘deer’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.H"/>
+	<TRANSL xml:lang="en">with (a/the) deer </TRANSL>
+	<AUDIO start="237.61" end="238.504"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_069">
+	<FORM kindOf="phono">ɖɤ˧mi˧-qɑ˧˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘fox’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.M.MH"/>
+	<TRANSL xml:lang="en">with (a/the) fox </TRANSL>
+	<AUDIO start="240.21" end="241.302"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_070">
+	<FORM kindOf="phono">ɖɤ˧mi˧-qɑ˧˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘fox’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.M.MH"/>
+	<TRANSL xml:lang="en">with (a/the) fox </TRANSL>
+	<AUDIO start="242.149" end="243.322"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_071">
+	<FORM kindOf="phono">ʐwæ˧zo˧-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: \#H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘colt’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.M.L"/>
+	<TRANSL xml:lang="en">with (a/the) colt </TRANSL>
+	<AUDIO start="245.18" end="246.364"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_072">
+	<FORM kindOf="phono">hwɤ˧li˧-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: MH\#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘cat’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.M.H"/>
+	<TRANSL xml:lang="en">with (a/the) cat </TRANSL>
+	<AUDIO start="247.954" end="249.011"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_073">
+	<FORM kindOf="phono">hwɤ˧mi˥-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H\$"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘she'=cat’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.H.L"/>
+	<TRANSL xml:lang="en">with (a/the) she"=cat </TRANSL>
+	<AUDIO start="250.659" end="251.82"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_074">
+	<FORM kindOf="phono">kʰv̩˩mi˩-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘dog’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.L.H"/>
+	<TRANSL xml:lang="en">with (a/the) dog </TRANSL>
+	<AUDIO start="253.33" end="254.34"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_075">
+	<FORM kindOf="phono">dɑ˧ʝi˩-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: L\#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘mule’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.L.L"/>
+	<TRANSL xml:lang="en">with (a/the) mule </TRANSL>
+	<AUDIO start="256.07" end="257.207"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_076">
+	<FORM kindOf="phono">õ˩dv̩˧-qɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+MH\#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘wolf’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.M.H"/>
+	<TRANSL xml:lang="en">with (a/the) wolf </TRANSL>
+	<AUDIO start="258.589" end="259.715"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_077">
+	<FORM kindOf="phono">nɑ˩hĩ˧-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM+\#H"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘Naxi’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.M.L"/>
+	<TRANSL xml:lang="en">with (a/the) Naxi </TRANSL>
+	<AUDIO start="261.642" end="262.629"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_078">
+	<FORM kindOf="phono">bo˩mi˧-qɑ˧˥</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘sow’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.M.MH"/>
+	<TRANSL xml:lang="en">with (a/the) sow </TRANSL>
+	<AUDIO start="264.464" end="265.543"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_079">
+	<FORM kindOf="phono">bo˩ɬɑ˥-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘boar’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: L.H.L"/>
+	<TRANSL xml:lang="en">with (a/the) boar </TRANSL>
+	<AUDIO start="267.738" end="268.736"/>
+</W>
+<W id="F4_TONETUTORIAL_PART3_080">
+	<FORM kindOf="phono">hwæ˧tsɯ˥-qɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Tone of noun: H\#"/>
+	<NOTE xml:lang="en" message = "Meaning of input noun: ‘rat’"/>
+	<NOTE xml:lang="en" message = "Tonal analysis of noun-plus-comitative combination: M.H.L"/>
+	<TRANSL xml:lang="en">with (a/the) rat </TRANSL>
+	<AUDIO start="270.257" end="271.325"/>
+</W>
+</WORDLIST>

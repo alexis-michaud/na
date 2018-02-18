@@ -1,0 +1,270 @@
+﻿A_DAT_TOP
+
+bo˩ ɳɯ˥
+%The underlying phonological form is hypothesized to be //bo˩ ɳɯ˧//.
+%Lexical tone of noun: LM
+‘pig’ plus ablative marker: ‘by [a/the...] pig’
+
+ʐæ˩ ɳɯ˥
+%Lexical tone of noun: LH
+‘leopard’ plus ablative marker: ‘by [a/the...] leopard’
+
+lɑ˧ ɳɯ˧
+%Lexical tone of noun: M
+‘tiger’ plus ablative marker: ‘by [a/the...] tiger’
+
+jo˧ ɳɯ˧
+%/jo˩ ɳɯ˥/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus ablative marker: ‘by [a/the...] sheep’
+
+jo˩ ɳɯ˥
+%/jo˧ ɳɯ˧/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus ablative marker: ‘by [a/the...] sheep’
+
+ʐwæ˧ ɳɯ˩
+%Lexical tone of noun: H
+‘horse’ plus ablative marker: ‘by [a/the...] horse’
+
+ʈʂʰæ˧ ɳɯ˥
+%Lexical tone of noun: MH
+‘deer’ plus ablative marker: ‘by [a/the...] deer’
+
+ɖɤ˧mi˧ ɳɯ˧
+%Lexical tone of noun: M
+‘fox’ plus ablative marker: ‘by [a/the...] fox’
+
+ʐwæ˧zo˧ ɳɯ˩
+%Lexical tone of noun: #H
+‘colt’ plus ablative marker: ‘by [a/the...] colt’
+
+hwɤ˧li˧ ɳɯ˥
+%Lexical tone of noun: MH#
+‘cat’ plus ablative marker: ‘by [a/the...] cat’
+
+hwɤ˧li˧ ɳɯ˥
+%Lexical tone of noun: MH#
+‘cat’ plus ablative marker: ‘by [a/the...] cat’
+
+hwɤ˧mi˥ ɳɯ˩
+%/hwɤ˧mi˧ ɳɯ˥/ is an acceptable variant
+%Lexical tone of noun: H$
+‘she-cat’ plus ablative marker: ‘by [a/the...] she-cat’
+
+hwɤ˧mi˧ ɳɯ˥
+%/hwɤ˧mi˥ ɳɯ˩/ is an acceptable variant
+%Lexical tone of noun: H$
+‘she-cat’ plus ablative marker: ‘by [a/the...] she-cat’
+
+kʰv̩˩mi˩ ɳɯ˥
+%Lexical tone of noun: L
+‘dog’ plus ablative marker: ‘by [a/the...] dog’
+
+dɑ˧ʝi˩ ɳɯ˩
+%Lexical tone of noun: L#
+‘mule’ plus ablative marker: ‘by [a/the...] mule’
+
+õ˩dv̩˧ ɳɯ˥
+%Lexical tone of noun: LM+MH#
+‘wolf’ plus ablative marker: ‘by [a/the...] wolf’
+
+nɑ˩hĩ˧ ɳɯ˩
+%Lexical tone of noun: LM+#H
+‘Naxi’ plus ablative marker: ‘by [a/the...] Naxi’
+
+bo˩mi˧ ɳɯ˧ 
+%Lexical tone of noun: LM
+‘sow’ plus ablative marker: ‘by [a/the...] sow’
+
+bo˩ɬɑ˥ ɳɯ˩
+%Lexical tone of noun: LH
+‘boar’ plus ablative marker: ‘by [a/the...] boar’
+
+hwæ˧tsɯ˥ ɳɯ˩
+%Lexical tone of noun: H#
+‘rat’ plus ablative marker: ‘by [a/the...] rat’
+
+bo˩-ki˥
+%The underlying phonological form is hypothesized to be //bo˩-ki˧//.
+%Lexical tone of noun: LM
+‘pig’ plus dative marker: ‘to [a/the...] pig’
+
+ʐæ˩-ki˥
+%Lexical tone of noun: LH
+‘leopard’ plus dative marker: ‘to [a/the...] leopard’
+
+lɑ˧-ki˧
+%Lexical tone of noun: M
+‘tiger’ plus dative marker: ‘to [a/the...] tiger’
+
+jo˧ki˧
+%/jo˩-ki˥/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus dative marker: ‘to [a/the...] sheep’
+
+jo˩-ki˥
+%/jo˧ki˧/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus dative marker: ‘to [a/the...] sheep’
+
+ʐwæ˧-ki˧
+%Lexical tone of noun: H
+‘horse’ plus dative marker: ‘to [a/the...] horse’
+
+ʈʂʰæ˧-ki˥
+%Lexical tone of noun: MH
+‘deer’ plus dative marker: ‘to [a/the...] deer’
+
+ɖɤ˧mi˧-ki˧
+%Lexical tone of noun: M
+‘fox’ plus dative marker: ‘to [a/the...] fox’
+
+ʐwæ˧zo˧-ki˧
+%Lexical tone of noun: #H
+‘colt’ plus dative marker: ‘to [a/the...] colt’
+
+hwɤ˧li˧-ki˥
+%Lexical tone of noun: MH#
+‘cat’ plus dative marker: ‘to [a/the...] cat’
+
+hwɤ˧mi˥-ki˩
+%Lexical tone of noun: H$
+‘she-cat’ plus dative marker: ‘to [a/the...] she-cat’
+
+hwɤ˧mi˥-ki˩
+%Lexical tone of noun: H$
+‘she-cat’ plus dative marker: ‘to [a/the...] she-cat’
+
+kʰv̩˩mi˩-ki˥
+%Lexical tone of noun: L
+‘dog’ plus dative marker: ‘to [a/the...] dog’
+
+dɑ˧ʝi˩-ki˩
+%Lexical tone of noun: L#
+‘mule’ plus dative marker: ‘to [a/the...] mule’
+
+õ˩dv̩˧-ki˥
+%Lexical tone of noun: LM+MH#
+‘wolf’ plus dative marker: ‘to [a/the...] wolf’
+
+nɑ˩hĩ˧-ki˧
+%Lexical tone of noun: LM+#H
+‘Naxi’ plus dative marker: ‘to [a/the...] Naxi’
+
+bo˩mi˧-ki˧
+%Lexical tone of noun: LM
+‘sow’ plus dative marker: ‘to [a/the...] sow’
+
+bo˩ɬɑ˥-ki˩
+%Lexical tone of noun: LH
+‘boar’ plus dative marker: ‘to [a/the...] boar’
+
+hwæ˧tsɯ˥-ki˩
+%Lexical tone of noun: H#
+‘rat’ plus dative marker: ‘to [a/the...] rat’
+
+bo˩ ʈʂʰɯ˥
+%The underlying phonological form is hypothesized to be //bo˩ ʈʂʰɯ˧//.
+%Lexical tone of noun: LM
+‘pig’ plus topic marker: ‘as for [a/the...] pig...’
+
+ʐæ˩ ʈʂʰɯ˥
+%Lexical tone of noun: LH
+‘leopard’ plus topic marker: ‘as for [a/the...] leopard...’
+
+lɑ˧ ʈʂʰɯ˧
+%Lexical tone of noun: M
+‘tiger’ plus topic marker: ‘as for [a/the...] tiger...’
+
+jo˧ ʈʂʰɯ˧
+%/jo˩ ʈʂʰɯ˥/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus topic marker: ‘as for [a/the...] sheep...’
+
+jo˩ ʈʂʰɯ˥
+%/jo˧ ʈʂʰɯ˧/ is an acceptable variant
+%Lexical tone of noun: L
+‘sheep’ plus topic marker: ‘as for [a/the...] sheep...’
+
+ʐwæ˧ ʈʂʰɯ˧
+%Lexical tone of noun: H
+‘horse’ plus topic marker: ‘as for [a/the...] horse...’
+
+ʈʂʰæ˧ ʈʂʰɯ˥
+%/ʈʂʰæ˧ ʈʂʰɯ˧/ is an acceptable variant
+%Lexical tone of noun: MH
+‘deer’ plus topic marker: ‘as for [a/the...] deer...’
+
+ʈʂʰæ˧ ʈʂʰɯ˧
+%/ʈʂʰæ˧ ʈʂʰɯ˥/ is an acceptable variant
+%Lexical tone of noun: MH
+‘deer’ plus topic marker: ‘as for [a/the...] deer...’
+
+ʈʂʰæ˧ ʈʂʰɯ˥
+%/ʈʂʰæ˧ ʈʂʰɯ˧/ is an acceptable variant
+%Lexical tone of noun: MH
+‘deer’ plus topic marker: ‘as for [a/the...] deer...’
+
+ɖɤ˧mi˧ ʈʂʰɯ˧
+%Lexical tone of noun: M
+‘fox’ plus topic marker: ‘as for [a/the...] fox...’
+
+ʐwæ˧zo˧ ʈʂʰɯ˧
+%Lexical tone of noun: #H
+‘colt’ plus topic marker: ‘as for [a/the...] colt...’
+
+hwɤ˧li˧ ʈʂʰɯ˥
+%Lexical tone of noun: MH#
+‘cat’ plus topic marker: ‘as for [a/the...] cat...’
+
+hwɤ˧mi˧ ʈʂʰɯ˧
+%/hwɤ˧mi˧ ʈʂʰɯ˥/ is an acceptable variant
+%Lexical tone of noun: H$
+‘she-cat’ plus topic marker: ‘as for [a/the...] she-cat...’
+
+kʰv̩˩mi˩ ʈʂʰɯ˥
+%Lexical tone of noun: L
+‘dog’ plus topic marker: ‘as for [a/the...] dog...’
+
+dɑ˧ʝi˩ ʈʂʰɯ˩
+%Lexical tone of noun: L#
+‘mule’ plus topic marker: ‘as for [a/the...] mule...’
+
+õ˩dv̩˧ ʈʂʰɯ˧
+%/õ˩dv̩˧ ʈʂʰɯ˥/ is an acceptable variant
+%Lexical tone of noun: LM+MH#
+‘wolf’ plus topic marker: ‘as for [a/the...] wolf...’
+
+õ˩dv̩˧ ʈʂʰɯ˥
+%/õ˩dv̩˧ ʈʂʰɯ˧/ is an acceptable variant
+%Lexical tone of noun: LM+MH#
+‘wolf’ plus topic marker: ‘as for [a/the...] wolf...’
+
+nɑ˩hĩ˧ ʈʂʰɯ˧
+%Lexical tone of noun: LM+#H
+‘Naxi’ plus topic marker: ‘as for [a/the...] Naxi...’
+
+bo˩mi˧ ʈʂʰɯ˧
+%Lexical tone of noun: LM
+‘sow’ plus topic marker: ‘as for [a/the...] sow...’
+
+bo˩ɬɑ˥ ʈʂʰɯ˩
+%Lexical tone of noun: LH
+‘boar’ plus topic marker: ‘as for [a/the...] boar...’
+
+hwæ˧tsɯ˥ ʈʂʰɯ˩
+%Lexical tone of noun: H#
+‘rat’ plus topic marker: ‘as for [a/the...] rat...’
+
+ĩ˧, | ɲi˧-bæ˧ | ho˩˥! 
+Yes, both are correct! Oui, les deux sont bons !
+
+ho˩˥! 
+That is correct! C'est exact !
+
+ĩ˧!
+Yes! Oui !
+
+ʐwɤ˩ mɤ˩-tʰɑ˥!
+It is not right to say it this way! / It's wrong! Ca ne se dit pas ! 

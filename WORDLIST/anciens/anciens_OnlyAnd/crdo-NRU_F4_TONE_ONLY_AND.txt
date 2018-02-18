@@ -1,0 +1,120 @@
+﻿Tone_Only_And
+bo˩-lɑ˧
+%Lexical tone of noun: LM
+%Resulting tone pattern: L.M
+porc
+pig
+
+ʐæ˩-lɑ˥ 
+%Lexical tone of noun: LH
+%Resulting tone pattern: L.H
+léopard
+leopard
+
+lɑ˧-lɑ˧
+%Lexical tone of noun: M
+%Resulting tone pattern: M.M
+tigre
+tiger
+
+jo˩-lɑ˥
+%Lexical tone of noun: L
+%Resulting tone pattern: L.H
+mouton
+sheep
+
+ʐwæ˧-lɑ˩
+%Lexical tone of noun: H
+%Resulting tone pattern: M.L
+cheval
+horse
+
+ʈʂʰæ˧-lɑ˥
+%Lexical tone of noun: MH
+%Resulting tone pattern: M.H
+cerf
+deer
+
+ɖɤ˧mi˧-lɑ˧
+%Lexical tone of noun: M
+%Resulting tone pattern: M.M.M
+renard
+fox
+
+ʐwæ˧zo˧-lɑ˩
+%Lexical tone of noun: #H
+%Resulting tone pattern: M.M.L
+%This token reveals a clear pattern of tonal coarticulation, whereby the second M tone is raised in anticipation of the step-down to the final L tone.
+poulain
+colt
+
+hwɤ˧li˧-lɑ˥
+%Lexical tone of noun: MH#
+%Resulting tone pattern: M.M.H
+chat
+cat
+
+*hwɤ˧mi˧-lɑ˥
+%Mistaken realization. The lexical tone of the noun is H$. The correct resulting tone pattern is M.H.L.
+chatte
+she-cat
+
+hwɤ˧mi˧-lɑ˩
+%Lexical tone of noun: H$
+%Resulting tone pattern: M.H.L
+chatte
+she-cat
+
+hwɤ˧mi˧-lɑ˩
+%Lexical tone of noun: H$
+%Resulting tone pattern: M.H.L
+chatte
+she-cat
+
+kʰv̩˩mi˩-lɑ˥
+%Lexical tone of noun: L
+%Resulting tone pattern: L.L.H
+chien
+dog
+
+kʰv̩˩mi˩-lɑ˥ ǀ nɑ˩˧
+%Lexical tone of noun: L
+%Resulting tone pattern: L.L.H
+le chien et les Na [association symbolique importante: voir le récit Dog]
+dog and the Na [this is an important symbolic pair in Na culture: see the narrative Dog]
+
+dɑ˧ʝi˩-lɑ˩
+%Lexical tone of noun: L#
+%Resulting tone pattern: M.L.L
+mule
+mule
+
+õ˩dv˧-lɑ˥
+%Lexical tone of noun: LM+MH#
+%Resulting tone pattern: L.M.H
+loup
+wolf
+
+nɑ˩hĩ˧-lɑ˩
+%Lexical tone of noun: LM+#H
+%Resulting tone pattern: L.M.L
+Naxi
+Naxi
+
+bo˩mi˧-lɑ˧ ǀ bo˩ɬɑ˥
+%Lexical tone of noun: LM
+%Resulting tone pattern: L.M.M
+truie et verrat
+sow and boar
+
+bo˩ɬɑ˥-lɑ˩
+%Lexical tone of noun: LH
+%Resulting tone pattern: L.H.L
+verrat
+boar
+
+hwæ˧tsɯ˥-lɑ˩
+%Lexical tone of noun: H#
+%Resulting tone pattern: M.H.L
+rat
+rat

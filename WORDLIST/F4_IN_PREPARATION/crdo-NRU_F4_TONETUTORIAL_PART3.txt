@@ -1,0 +1,422 @@
+﻿F4_TONETUTORIAL_PART3
+
+bo˩ ɳɯ˥
+%Tone of noun: LM
+%Meaning of input noun: ‘pig’
+%Hypothesized underlying form: //bo˩ ɳɯ˧//
+by (a/the) pig 
+
+ʐæ˩ ɳɯ˥ 
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard’
+by (a/the) leopard 
+
+lɑ˧ ɳɯ˧
+%Tone of noun: M
+%Meaning of input noun: ‘tiger’
+by (a/the) tiger 
+
+jo˧ ɳɯ˧
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+by (a/the) sheep 
+
+jo˩ ɳɯ˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+by (a/the) sheep 
+
+ʐwæ˧ ɳɯ˩
+%Tone of noun: H
+%Meaning of input noun: ‘horse’
+by (a/the) horse 
+
+ʈʂʰæ˧ ɳɯ˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer’
+by (a/the) deer 
+
+ɖɤ˧mi˧ ɳɯ˧
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+by (a/the) fox 
+
+ʐwæ˧zo˧ ɳɯ˩
+%Tone of noun: #H
+%Meaning of input noun: ‘colt’
+by (a/the) colt 
+
+hwɤ˧li˧ ɳɯ˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘cat’
+by (a/the) cat 
+
+hwɤ˧mi˥ ɳɯ˩
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+by (a/the) she-cat 
+
+hwɤ˧mi˥ ɳɯ˩
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+by (a/the) she-cat 
+
+hwɤ˧mi˧ ɳɯ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+by (a/the) she-cat 
+
+kʰv̩˩mi˩ ɳɯ˥
+%Tone of noun: L
+%Meaning of input noun: ‘dog’
+by (a/the) dog 
+
+dɑ˧ʝi˩ ɳɯ˩
+%Tone of noun: L#
+%Meaning of input noun: ‘mule’
+by (a/the) mule 
+
+õ˩dv̩˧ ɳɯ˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf’
+by (a/the) wolf 
+
+nɑ˩hĩ˧ ɳɯ˩
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi’
+by (a/the) Naxi 
+
+bo˩mi˧ ɳɯ˧
+%Tone of noun: LM
+%Meaning of input noun: ‘sow’
+by (a/the) sow 
+
+bo˩ɬɑ˥ ɳɯ˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar’
+by (a/the) boar 
+
+hwæ˧tsɯ˥ ɳɯ˩
+%Tone of noun: H#
+%Meaning of input noun: ‘rat’
+by (a/the) rat 
+
+bo˩-ki˥
+%Tone of noun: LM
+%Meaning of input noun: ‘pig’
+%Hypothesized underlying form: //bo˩-ki˧//
+to (a/the) pig 
+
+ʐæ˩-ki˥
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard’
+to (a/the) leopard 
+
+lɑ˧-ki˧
+%Tone of noun: M
+%Meaning of input noun: ‘tiger’
+to (a/the) tiger 
+
+jo˧-ki˧
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+to (a/the) sheep 
+
+jo˩-ki˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+to (a/the) sheep 
+
+ʐwæ˧-ki˧
+%Tone of noun: H
+%Meaning of input noun: ‘horse’
+to (a/the) horse 
+
+ʈʂʰæ˧-ki˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer’
+to (a/the) deer 
+
+ɖɤ˧mi˧-ki˧
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+to (a/the) fox 
+
+ʐwæ˧zo˧-ki˧
+%Tone of noun: #H
+%Meaning of input noun: ‘colt’
+to (a/the) colt 
+
+hwɤ˧li˧-ki˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘cat’
+to (a/the) cat 
+
+hwɤ˧mi˥-ki˩
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+to (a/the) she-cat 
+
+kʰv̩˩mi˩-ki˥
+%Tone of noun: L
+%Meaning of input noun: ‘dog’
+to (a/the) dog 
+
+dɑ˧ʝi˩-ki˩
+%Tone of noun: L#
+%Meaning of input noun: ‘mule’
+to (a/the) mule 
+
+õ˩dv̩˧-ki˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf’
+to (a/the) wolf 
+
+nɑ˩hĩ˧-ki˧
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi’
+to (a/the) Naxi 
+
+bo˩mi˧-ki˧
+%Tone of noun: LM
+%Meaning of input noun: ‘sow’
+to (a/the) sow 
+
+bo˩ɬɑ˥-ki˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar’
+to (a/the) boar 
+
+hwæ˧tsɯ˥-ki˩
+%Tone of noun: H#
+%Meaning of input noun: ‘rat’
+to (a/the) rat 
+
+bo˩ ʈʂʰɯ˥
+%Tone of noun: LM
+%Meaning of input noun: ‘pig ’
+%Hypothesized underlying form: //bo˩ ʈʂʰɯ˧//
+as for (a/the) pig ...
+
+ʐæ˩ ʈʂʰɯ˥
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard ’
+as for (a/the) leopard ...
+
+lɑ˧ ʈʂʰɯ˧
+%Tone of noun: M
+%Meaning of input noun: ‘tiger ’
+as for (a/the) tiger ...
+
+jo˧ ʈʂʰɯ˧
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+as for (a/the) sheep ...
+
+jo˩ ʈʂʰɯ˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+as for (a/the) sheep ...
+
+ʐwæ˧ ʈʂʰɯ˧
+%Tone of noun: H
+%Meaning of input noun: ‘horse ’
+as for (a/the) horse ...
+
+ʈʂʰæ˧ ʈʂʰɯ˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+as for (a/the) deer ...
+
+ʈʂʰæ˧ ʈʂʰɯ˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+as for (a/the) deer ...
+
+ʈʂʰæ˧ ʈʂʰɯ˧
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+as for (a/the) deer ...
+
+ɖɤ˧mi˧ ʈʂʰɯ˧
+%Tone of noun: M
+%Meaning of input noun: ‘fox ’
+as for (a/the) fox ...
+
+ʐwæ˧zo˧ ʈʂʰɯ˧
+%Tone of noun: #H
+%Meaning of input noun: ‘colt ’
+as for (a/the) colt ...
+
+hwɤ˧li˧ ʈʂʰɯ˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘cat ’
+as for (a/the) cat ...
+
+hwɤ˧mi˧ ʈʂʰɯ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+as for (a/the) she-cat ...
+
+hwɤ˧mi˧ ʈʂʰɯ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+as for (a/the) she-cat ...
+
+hwɤ˧mi˧ ʈʂʰɯ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+as for (a/the) she-cat ...
+
+hwɤ˧mi˧ ʈʂʰɯ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+as for (a/the) she-cat ...
+
+kʰv̩˩mi˩ ʈʂʰɯ˥
+%Tone of noun: L
+%Meaning of input noun: ‘dog ’
+as for (a/the) dog ...
+
+dɑ˧ʝi˩ ʈʂʰɯ˩
+%Tone of noun: L#
+%Meaning of input noun: ‘mule ’
+as for (a/the) mule ...
+
+õ˩dv̩˧ ʈʂʰɯ˧
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+as for (a/the) wolf ...
+
+õ˩dv̩˧ ʈʂʰɯ˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+as for (a/the) wolf ...
+
+nɑ˩hĩ˧ ʈʂʰɯ˧
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi ’
+as for (a/the) Naxi ...
+
+bo˩mi˧ ʈʂʰɯ˧
+%Tone of noun: LM
+%Meaning of input noun: ‘sow ’
+as for (a/the) sow ...
+
+bo˩ɬɑ˥ ʈʂʰɯ˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar ’
+as for (a/the) boar ...
+
+hwæ˧tsɯ˥ ʈʂʰɯ˩
+%Tone of noun: H#
+%Meaning of input noun: ‘rat ’
+as for (a/the) rat ...
+
+bo˩-qɑ˥
+%Tone of noun: LM
+%Meaning of input noun: ‘pig’
+%Tonal analysis of noun-plus-comitative combination: //L.M// (on surface: realized in the same way as //LH//)
+with (a/the) pig 
+
+ʐæ˩-qɑ˥
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard’
+%Tonal analysis of noun-plus-comitative combination: //L.H// (on surface: realized in the same way as //LM//)
+with (a/the) leopard 
+
+lɑ˧-qɑ˧˥
+%Tone of noun: M
+%Meaning of input noun: ‘tiger’
+%Tonal analysis of noun-plus-comitative combination: M.MH
+with (a/the) tiger 
+
+jo˩-qɑ˩˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+%Tonal analysis of noun-plus-comitative combination: L.LH
+with (a/the) sheep 
+
+ʐwæ˧-qɑ˩
+%Tone of noun: H
+%Meaning of input noun: ‘horse’
+%Tonal analysis of noun-plus-comitative combination: M.L
+with (a/the) horse 
+
+ʈʂʰæ˧-qɑ˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer’
+%Tonal analysis of noun-plus-comitative combination: M.H
+with (a/the) deer 
+
+ɖɤ˧mi˧-qɑ˧˥
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+%Tonal analysis of noun-plus-comitative combination: M.M.MH
+with (a/the) fox 
+
+ɖɤ˧mi˧-qɑ˧˥
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+%Tonal analysis of noun-plus-comitative combination: M.M.MH
+with (a/the) fox 
+
+ʐwæ˧zo˧-qɑ˩
+%Tone of noun: \#H
+%Meaning of input noun: ‘colt’
+%Tonal analysis of noun-plus-comitative combination: M.M.L
+with (a/the) colt 
+
+hwɤ˧li˧-qɑ˥
+%Tone of noun: MH\#
+%Meaning of input noun: ‘cat’
+%Tonal analysis of noun-plus-comitative combination: M.M.H
+with (a/the) cat 
+
+hwɤ˧mi˥-qɑ˩
+%Tone of noun: H\$
+%Meaning of input noun: ‘she"=cat’
+%Tonal analysis of noun-plus-comitative combination: M.H.L
+with (a/the) she"=cat 
+
+kʰv̩˩mi˩-qɑ˥
+%Tone of noun: L
+%Meaning of input noun: ‘dog’
+%Tonal analysis of noun-plus-comitative combination: L.L.H
+with (a/the) dog 
+
+dɑ˧ʝi˩-qɑ˩
+%Tone of noun: L\#
+%Meaning of input noun: ‘mule’
+%Tonal analysis of noun-plus-comitative combination: M.L.L
+with (a/the) mule 
+
+õ˩dv̩˧-qɑ˥
+%Tone of noun: LM+MH\#
+%Meaning of input noun: ‘wolf’
+%Tonal analysis of noun-plus-comitative combination: L.M.H
+with (a/the) wolf 
+
+nɑ˩hĩ˧-qɑ˩
+%Tone of noun: LM+\#H
+%Meaning of input noun: ‘Naxi’
+%Tonal analysis of noun-plus-comitative combination: L.M.L
+with (a/the) Naxi 
+
+bo˩mi˧-qɑ˧˥
+%Tone of noun: LM
+%Meaning of input noun: ‘sow’
+%Tonal analysis of noun-plus-comitative combination: L.M.MH
+with (a/the) sow 
+
+bo˩ɬɑ˥-qɑ˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar’
+%Tonal analysis of noun-plus-comitative combination: L.H.L
+with (a/the) boar 
+
+hwæ˧tsɯ˥-qɑ˩
+%Tone of noun: H\#
+%Meaning of input noun: ‘rat’
+%Tonal analysis of noun-plus-comitative combination: M.H.L
+with (a/the) rat 

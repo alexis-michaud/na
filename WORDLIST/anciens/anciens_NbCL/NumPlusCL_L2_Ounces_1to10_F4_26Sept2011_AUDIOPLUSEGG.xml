@@ -1,0 +1,79 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="showText3.xsl"?>
+<TEXT id="crdo-NRU_NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG" xml:lang="nru">
+<url_sound>NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIO.wav</url_sound>
+<HEADER>
+<TITLE xml:lang="fr">NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG</TITLE>
+<SOUNDFILE href="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIO.wav"/>
+</HEADER>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_001">
+	<FORM>ɖɯ˧-ju˩ (surface phonological representation); underlying tone: L#.</FORM>
+	<TRANSL xml:lang = "cn">1 两</TRANSL>
+	<TRANSL xml:lang = "en">1 ounce</TRANSL>
+	<TRANSL xml:lang = "fr">1 once</TRANSL>
+	<AUDIO start="0.926" end="1.508"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_002">
+	<FORM>ɲi˧-ju˩ (surface phonological representation); underlying tone: L#.</FORM>
+	<TRANSL xml:lang = "cn">2 两</TRANSL>
+	<TRANSL xml:lang = "en">2 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">2 onces</TRANSL>
+	<AUDIO start="2.739" end="3.877"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_003">
+	<FORM>so˧-ju˧ (surface phonological representation); underlying tone: M.</FORM>
+	<TRANSL xml:lang = "cn">3 两</TRANSL>
+	<TRANSL xml:lang = "en">3 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">3 onces</TRANSL>
+	<AUDIO start="4.585" end="5.596"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_004">
+	<FORM>ʐv̩˧-ju˥ (surface phonological representation); underlying tone: H#.</FORM>
+	<TRANSL xml:lang = "cn">4 两</TRANSL>
+	<TRANSL xml:lang = "en">4 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">4 onces</TRANSL>
+	<AUDIO start="6.315" end="7.523"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_005">
+	<FORM>ŋwɤ˧-ju˥ (surface phonological representation); underlying tone: H#.</FORM>
+	<TRANSL xml:lang = "cn">5 两</TRANSL>
+	<TRANSL xml:lang = "en">5 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">5 onces</TRANSL>
+	<AUDIO start="8.231" end="9.276"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_006">
+	<FORM>qʰv̩˧-ju˥ (surface phonological representation); underlying tone: H#.</FORM>
+	<TRANSL xml:lang = "cn">6 两</TRANSL>
+	<TRANSL xml:lang = "en">6 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">6 onces</TRANSL>
+	<AUDIO start="9.822" end="10.948"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_007">
+	<FORM>ʂɯ˧-ju˩ (surface phonological representation); underlying tone: L#.</FORM>
+	<TRANSL xml:lang = "cn">7 两</TRANSL>
+	<TRANSL xml:lang = "en">7 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">7 onces</TRANSL>
+	<AUDIO start="11.238" end="12.445"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_008">
+	<FORM>hũ˧-ju˥ (surface phonological representation); underlying tone: H#.</FORM>
+	<TRANSL xml:lang = "cn">8 两</TRANSL>
+	<TRANSL xml:lang = "en">8 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">8 onces</TRANSL>
+	<AUDIO start="12.782" end="13.873"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_009">
+	<FORM>gv̩˧-ju˥ (surface phonological representation); underlying tone: H#. Variant: gv̩˧-ju˩ (surface phonological representation); underlying tone: L#.</FORM>
+	<TRANSL xml:lang = "cn">9 两</TRANSL>
+	<TRANSL xml:lang = "en">9 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">9 onces</TRANSL>
+	<AUDIO start="14.164" end="15.487"/>
+</W>
+<W id="NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_AUDIOPLUSEGG_010">
+	<FORM>tsʰe˧-ju˧ (surface phonological representation); underlying tone: M.</FORM>
+	<TRANSL xml:lang = "cn">10 两</TRANSL>
+	<TRANSL xml:lang = "en">10 ounces</TRANSL>
+	<TRANSL xml:lang = "fr">10 onces</TRANSL>
+	<AUDIO start="15.708" end="16.962"/>
+</W>
+</TEXT>

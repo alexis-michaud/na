@@ -1,0 +1,24 @@
+﻿Liste de régions : Tone_BodyPartsOfAnimals_11_AFewVerifications_F4_2008.wav
+
+Nom                                Début           Fin      Longueur
+-------------------------- ------------- ------------- -------------
+m2+m2_a_intestin de tigre_sans copule  00:00:24,554  00:00:26,853  00:00:02,299
+m2+m2_a_intestin de tigre_hors cadre  00:00:11,703  00:00:13,444  00:00:01,741
+m2+m2_a_intestin de tigre   00:00:34,488  00:00:35,665  00:00:01,176
+m2+m2_a_intestin de tigre   00:00:30,372  00:00:31,764  00:00:01,392
+m2+m2_s_intestin de tigre_sans copule  00:00:07,105  00:00:11,703  00:00:04,597
+m2+m2_s_intestin de tigre_hors cadre  00:00:15,557  00:00:19,179  00:00:03,621
+m2+m2_s_intestin de tigre   00:01:03,854  00:01:04,922  00:00:01,068
+m2+m2_s_intestin de tigre   00:00:37,358  00:00:40,080  00:00:02,721
+d1+m2_s_erroné_intestin de renard           00:00:41,865  00:00:43,792  00:00:01,927
+d1+m4b_s_erreur_sans changement tonal_cervelle de renard  00:01:07,871  00:01:08,963  00:00:01,091
+d1+d4b_s_cervelle de renard_erreur_schéma sans changement tonal_sans démonstratif  00:00:59,419  00:01:00,508  00:00:01,088
+d1+d4b_s_cervelle de renard_erreur_schéma sans changement tonal  00:00:45,255  00:00:50,155  00:00:04,899
+d6b+d1_a_dos de verrat_sans_demonstratif  00:02:05,805  00:02:07,489  00:00:01,683
+d6b_verrat+d1_s_dos de verrat_erreur_sans changement tonal  00:01:38,173  00:01:53,255  00:00:15,081
+d6b_verrat+d2a_s_nez de verrat_erreur_sans changement tonal  00:02:23,824  00:02:26,285  00:00:02,461
+tigre                       00:00:02,738  00:00:03,413  00:00:00,674
+verrat+copule               00:01:28,955  00:01:29,803  00:00:00,847
+verrat_hors cadre           00:01:21,594  00:01:22,616  00:00:01,021
+verrat                      00:01:23,626  00:01:24,143  00:00:00,516
+dos+copule                  00:01:33,762  00:01:34,632  00:00:00,870

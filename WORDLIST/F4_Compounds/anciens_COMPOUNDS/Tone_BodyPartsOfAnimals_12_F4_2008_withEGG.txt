@@ -1,0 +1,1808 @@
+﻿﻿Tone_BodyPartsOfAnimals_12_F4_2008_withEGG
+ʈʂʰɯ˧ ǀ bu˩-ɣɯ˧ ɲi˩
+bu˩˧
+ɣɯ˩˧
+LM LM
+LM
+peau de porc (couenne de porc)
+猪的皮
+pig's skin
+
+ʈʂʰɯ˧ ǀ bu˩-bv˧ ɲi˩
+bu˩˧
+bv˧
+LM M
+LM
+intestin de porc
+猪的场子
+pig's intestine
+
+ʈʂʰɯ˧ ǀ bu˩-mɤ˧ ɲi˩
+bu˩˧
+mɤ˩
+LM L
+LM
+saindoux, graisse de porc
+猪的油
+pig's fat
+
+ʈʂʰɯ˧ ǀ bu˩-sɤ˧ ɲi˥
+bu˩˧
+sɤ˥
+LM H
+LM+#H
+sang de porc
+猪的血
+pig's blood
+
+ʈʂʰɯ˧ ǀ bu˩-ɬv˧ ɲi˥
+bu˩˧
+ɬv˧˥
+LM MH#
+L°MH#
+cervelle de porc
+猪的脑髓
+pig's brains
+
+ʈʂʰɯ˧ ǀ bu˩-gv˧dv˧ ɲi˩
+bu˩˧
+gv˧dv˧
+LM M
+L°
+dos de porc
+猪的背
+pig's back
+
+ʈʂʰɯ˧ ǀ bu˩-ɲi˧gɤ˧ ɲi˥
+bu˩˧
+ɲi˧gɤ#˥
+LM #H
+L°#H
+nez de porc (groin de porc)
+猪的鼻子
+pig's nose (pig's snout)
+
+ʈʂʰɯ˧ ǀ bu˩-qv˧ʈʂæ˧ ɲi˥
+bu˩˧
+qv˧ʈʂæ˧˥
+LM MH#
+LM+MH#
+gorge de porc
+猪的喉咙
+pig's throat
+
+ʈʂʰɯ˧ ǀ bu˩-hu˧mi˧ ɲi˥
+bu˩˧
+hu˧mi˥$
+LM H$
+LM+H$
+estomac de porc
+猪的胃
+pig's stomach
+
+ʈʂʰɯ˧ ǀ bu˩-nv˧mi˩ ɲi˩
+bu˩˧
+nv˩mi˩
+LM L
+LML
+coeur de porc
+猪的心脏
+pig's heart
+
+ʈʂʰɯ˧ ǀ bu˩-nv˧mi˩ ɲi˩
+bu˩˧
+nv˩mi˩
+LM L
+LML
+coeur de porc
+猪的心脏
+pig's heart
+
+ʈʂʰɯ˧ ǀ bu˩-ɬi˧pi˩ ɲi˩
+bu˩˧
+ɬi˧pi˩
+LM L#
+LML
+oreilles de porc
+猪的耳朵
+pig's ears
+
+ʈʂʰɯ˧ ǀ bu˩-ʝi˧ʈʂæ˩ ɲi˩
+bu˩˧
+ʝi˩ʈʂæ˧˥
+LM L+MH#
+LML
+taille de porc
+猪的腰
+pig's waist
+
+ʈʂʰɯ˧ ǀ bu˩-njɤ˧ɭɯ˩ ɲi˩
+bu˩˧
+njɤ˩ɭɯ˧
+LM LM
+LML
+yeux de porc
+猪的眼睛
+pig's eyes
+
+ʈʂʰɯ˧ ǀ bu˩-ʁæ˧ʈv˥ ɲi˩
+bu˩˧
+ʁæ˧ʈv˥
+LM H#
+LM+H#
+cou de porc
+猪的脖子
+pig's neck
+
+ʈʂʰɯ˧ ǀ lɑ˧-ɣɯ˩ ɲi˩
+lɑ˧
+ɣɯ˩˧
+M LM
+°L
+peau de tigre
+老虎的皮
+tiger's skin
+
+ʈʂʰɯ˧ ǀ lɑ˧-bv˧ ɲi˥
+lɑ˧
+bv˧
+M M
+#H
+intestin de tigre
+老虎的场子
+tiger's intestine
+
+ʈʂʰɯ˧ ǀ lɑ˧-mɤ˩ ɲi˩
+lɑ˧
+mɤ˩
+M L
+°L
+graisse de tigre
+老虎的油
+tiger's fat
+
+ʈʂʰɯ˧ ǀ lɑ˧-sɤ˧ ɲi˥
+lɑ˧
+sɤ˥
+M H
+#H
+sang de tigre
+老虎的血
+tiger's blood
+
+ʈʂʰɯ˧ ǀ lɑ˧-ɬv˧ ɲi˥
+lɑ˧
+ɬv˧˥
+M MH#
+MH#
+cervelle de tigre
+老虎的脑髓
+tiger's brains
+
+ʈʂʰɯ˧ ǀ lɑ˧-gv˧dv˧ ɲi˩
+lɑ˧
+gv˧dv˧
+M M
+M
+dos de tigre
+老虎的背
+tiger's back
+
+ʈʂʰɯ˧ ǀ lɑ˧-ɲi˧gɤ˧ ɲi˥
+lɑ˧
+ɲi˧gɤ#˥
+M #H
+#H
+nez de tigre (museau de tigre)
+老虎的鼻子
+tiger's nose (tiger's muzzle)
+
+ʈʂʰɯ˧ ǀ lɑ˧-qv˧ʈʂæ˧ ɲi˥
+lɑ˧
+qv˧ʈʂæ˧˥
+M MH#
+MH#
+gorge de tigre
+老虎的喉咙
+tiger's throat
+
+ʈʂʰɯ˧ ǀ lɑ˧-hu˧mi˧ ɲi˥
+lɑ˧
+hu˧mi˥$
+M H$
+H$
+estomac de tigre
+老虎的胃
+tiger's stomach
+
+ʈʂʰɯ˧ ǀ lɑ˧-nv˩mi˩ ɲi˩
+lɑ˧
+nv˩mi˩
+M L
+°L
+coeur de tigre
+老虎的心脏
+tiger's heart
+
+ʈʂʰɯ˧ ǀ lɑ˧-ɬi˧pi˩ ɲi˩
+lɑ˧
+ɬi˧pi˩
+M L#
+°L#
+oreilles de tigre
+老虎的耳朵
+tiger's ears
+
+ʈʂʰɯ˧ ǀ lɑ˧-ʝi˩ʈʂæ˩ ɲi˩
+lɑ˧
+ʝi˩ʈʂæ˧˥
+M L+MH#
+°L
+taille de tigre
+老虎的腰
+tiger's waist
+
+ʈʂʰɯ˧ ǀ lɑ˧-njɤ˩ɭɯ˩ ɲi˩
+lɑ˧
+njɤ˩ɭɯ˧
+M LM
+°L
+yeux de tigre
+老虎的眼睛
+tiger's eyes
+
+ʈʂʰɯ˧ ǀ lɑ˧-ʁæ˧ʈv˥ ɲi˩
+lɑ˧
+ʁæ˧ʈv˥
+M H#
+H#
+cou de tigre
+老虎的脖子
+tiger's neck
+
+*ʈʂʰɯ˧ ǀ mv˩-ɣɯ˧ ɲi˩
+mv˩
+ɣɯ˩˧
+L LM
+x
+%Réalisation erronée, du fait que le composé est trop artificiel. Le ton attendu est: L.
+peau de fille
+女孩的皮
+daughter's skin
+
+ʈʂʰɯ˧ ǀ mv˩-bv˩ ɲi˥
+mv˩
+bv˧
+L M
+L
+intestin de fille
+女孩的场子
+daughter's intestine
+
+*ʈʂʰɯ˧ ǀ mv˩-mɤ˧ ɲi˩
+mv˩
+mɤ˩
+L L
+x
+%Réalisation erronée, du fait que le composé est trop artificiel. Le ton attendu est: L.
+graisse de fille
+女孩的油
+daughter's fat
+
+ʈʂʰɯ˧ ǀ mv˩-sɤ˩ ɲi˥
+mv˩
+sɤ˥
+L H
+L
+sang de fille
+女孩的血
+daughter's blood
+
+*ʈʂʰɯ˧ ǀ mv˩-ɬv˧ ɲi˩
+mv˩
+ɬv˧˥
+L MH#
+x
+%Réalisation erronée, du fait que le composé est trop artificiel. Le ton attendu est: L.
+cervelle de fille
+女孩的脑髓
+daughter's brains
+
+*ʈʂʰɯ˧ ǀ mv˩-gv˩dv˥ ɲi˩
+mv˩
+gv˧dv˧
+L M
+x
+%Réalisation erronée, du fait que le composé est trop artificiel. Le ton attendu est: L.
+dos de fille
+女孩的脊背
+daughter's back
+
+ʈʂʰɯ˧ ǀ mv˩-ɲi˩gɤ˩ ɲi˥
+mv˩
+ɲi˧gɤ#˥
+L #H
+L
+nez de fille
+女孩的鼻子
+daughter's nose
+
+*ʈʂʰɯ˧ ǀ mv˩-qv˧ʈʂæ˩ ɲi˥
+mv˩
+qv˧ʈʂæ˧˥
+L MH#
+x
+%Réalisation erronée, du fait que le composé est trop artificiel. Le ton attendu est: L.
+gorge de fille
+女孩的喉咙
+daughter's throat
+
+*ʈʂʰɯ˧ ǀ mv˩-hu˩mi˩ ɲi˥
+mv˩
+hu˧mi˥$
+L H$
+x
+estomac de fille
+女孩的胃
+daughter's stomach
+
+*ʈʂʰɯ˧ ǀ mv˩-nv˧mi˩ ɲi˩
+mv˩
+nv˩mi˩
+L L
+x
+%Réalisation erronée. Le ton attendu est: L.
+coeur de fille
+女孩的心脏
+daughter's heart
+
+ʈʂʰɯ˧ ǀ mv˩-ɬi˩pi˥ ɲi˩
+mv˩
+ɬi˧pi˩
+L L#
+L+H#
+oreilles de fille
+女孩的耳朵
+daughter's ears
+
+ʈʂʰɯ˧ ǀ mv˩-ʝi˧ʈʂæ˩ ɲi˩
+mv˩
+ʝi˩ʈʂæ˧˥
+L L+MH#
+LML
+taille de fille
+女孩的腰
+daughter's waist
+
+ʈʂʰɯ˧ ǀ mv˩-njɤ˧ɭɯ˩ ɲi˩
+mv˩
+njɤ˩ɭɯ˧
+L LM
+LML
+yeux de fille
+女孩的眼睛
+daughter's eyes
+
+ʈʂʰɯ˧ ǀ mv˩-ʁæ˩ʈv˥ ɲi˩
+mv˩
+ʁæ˧ʈv˥
+L H#
+H#
+cou de fille
+女孩的脖子
+daughter's neck
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ɣɯ˥ ɲi˩
+ʐwæ˥
+ɣɯ˩˧
+H LM
+#H
+peau de cheval
+马的皮
+horse's skin
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-bv˧ ɲi˥
+ʐwæ˥
+bv˧
+H M
+#H
+intestin de cheval
+马的场子
+horse's intestine
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-mɤ˧ ɲi˥
+ʐwæ˥
+mɤ˩
+H L
+#H
+graisse de cheval
+马的油
+horse's fat
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-sɤ˧ ɲi˥
+ʐwæ˥
+sɤ˥
+H H
+#H
+sang de cheval
+马的血
+horse's blood
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ɬv˩ ɲi˩
+ʐwæ˥
+ɬv˧˥
+H MH#
+°L
+cervelle de cheval
+马的脑髓
+horse's brains
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-gv˧dv˥ ɲi˩
+ʐwæ˥
+gv˧dv˧
+H M
+H#
+dos de cheval
+马的脊背
+horse's back
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ɲi˧gɤ˧ ɲi˥
+ʐwæ˥
+ɲi˧gɤ#˥
+H #H
+#H
+nez de cheval (museau de cheval)
+马的鼻子
+horse's nose (horse's muzzle)
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-qv˥ʈʂæ˩ ɲi˥
+ʐwæ˥
+qv˧ʈʂæ˧˥
+H MH#
+#H°
+%Cette catégorie tonale pourrait également être notée °H, ce qui paraîtrait superficiellement plus simple, mais cela n'est pas très intuitif du fait qu'un ton H ne s'attache pas d'ordinaire au DEBUT d'une expression mais à sa FIN.
+gorge de cheval
+马的喉咙
+horse's throat
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-bv˧ ǀ hu˧mi˧ ɲi˥
+ʐwæ˥
+hu˧mi˥$
+H H$
+x
+estomac de cheval
+马的胃
+horse's stomach
+
+*ʈʂʰɯ˧ ǀ ʐwæ˧ ǀ hu˧mi˧ ɲi˥
+ʐwæ˥
+hu˧mi˥$
+H H$
+x
+%erreur: la locutrice redit l'expression sans modification tonale, comme une simple succession: ʐwæ˧ ǀ hu˧mi˧ ɲi˥. Cette expression connaît deux variantes tonales: la plus courante est °L; on peut également dire H$, d'après la locutrice F4 (mais F5 ne reconnaît que °L comme correct). 
+estomac de cheval
+马的胃
+horse's stomach
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-nv˥mi˩ ɲi˩
+ʐwæ˥
+nv˩mi˩
+H L
+#H°
+coeur de cheval
+马的心脏
+horse's heart
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ɬi˧pi˥ ɲi˩
+ʐwæ˥
+ɬi˧pi˩
+H L#
+H#
+oreilles de cheval
+马的耳朵
+horse's ears
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ʝi˥ʈʂæ˩ ɲi˩
+ʐwæ˥
+ʝi˩ʈʂæ˧˥
+H L+MH#
+#H°
+taille de cheval
+马的腰
+horse's waist
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-njɤ˥ɭɯ˩ ɲi˩
+ʐwæ˥
+njɤ˩ɭɯ˧
+H LM
+#H°
+yeux de cheval
+马的眼睛
+horse's eyes
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ʁæ˧ʈv˥ ɲi˩
+ʐwæ˥
+ʁæ˧ʈv˥
+H H#
+H#
+cou de cheval
+马的脖子
+horse's neck
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ɣɯ˩ ɲi˩
+ɖɤ˧mi˧
+ɣɯ˩˧
+M LM
+°L
+peau de renard
+狐狸皮
+fox's skin
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-bv˧ ɲi˥
+ɖɤ˧mi˧
+bv˧
+M M
+#H
+intestin de renard
+狐狸场子
+fox's intestine
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-mɤ˩ ɲi˩
+ɖɤ˧mi˧
+mɤ˩
+M L
+°L
+graisse de renard
+狐狸油
+fox's fat
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-sɤ˧ ɲi˥
+ɖɤ˧mi˧
+sɤ˥
+M H
+#H
+sang de renard
+狐狸血
+fox's blood
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ɬv˩ ɲi˩
+ɖɤ˧mi˧
+ɬv˧˥
+M MH#
+°L
+cervelle de renard
+狐狸脑髓
+fox's brains
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-gv˧dv˧ ɲi˩
+ɖɤ˧mi˧
+gv˧dv˧
+M M
+M
+dos de renard
+狐狸的脊背
+fox's back
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ɲi˧gɤ˧ ɲi˥
+ɖɤ˧mi˧
+ɲi˧gɤ#˥
+M #H
+#H
+nez de renard (museau de renard)
+狐狸的鼻子
+fox's nose (fox's muzzle)
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-qv˧ʈʂæ˧ ɲi˥
+ɖɤ˧mi˧
+qv˧ʈʂæ˧˥
+M MH#
+MH#
+gorge de renard
+狐狸的喉咙
+fox's throat
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-hu˧mi˧ ɲi˥
+ɖɤ˧mi˧
+hu˧mi˥$
+M H$
+H$
+estomac de renard
+狐狸的胃
+fox's stomach
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-nv˩mi˩ ɲi˩
+ɖɤ˧mi˧
+nv˩mi˩
+M L
+°L
+coeur de renard
+狐狸的心脏
+fox's heart
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ɬi˧pi˩ ɲi˩
+ɖɤ˧mi˧
+ɬi˧pi˩
+M L#
+°L#
+oreilles de renard
+狐狸耳朵
+fox's ears
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ʝi˩ʈʂæ˩ ɲi˩
+ɖɤ˧mi˧
+ʝi˩ʈʂæ˧˥
+M L+MH#
+°L
+taille de renard
+狐狸的腰
+fox's waist
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-njɤ˩ɭɯ˩ ɲi˩
+ɖɤ˧mi˧
+njɤ˩ɭɯ˧
+M LM
+°L
+yeux de renard
+狐狸眼睛
+fox's eyes
+
+ʈʂʰɯ˧ ǀ ɖɤ˧mi˧-ʁæ˧ʈv˥ ɲi˩
+ɖɤ˧mi˧
+ʁæ˧ʈv˥
+M H#
+H#
+cou de renard
+狐狸的脖子
+fox's neck
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ɣɯ˥ ɲi˩
+ʐwæ˧zo#˥
+ɣɯ˩˧
+#H LM
+#H°
+peau de poulain
+马驹子的皮
+colt's skin
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-bv˧ ɲi˥
+ʐwæ˧zo#˥
+bv˧
+#H M
+#H
+intestin de poulain
+马驹子的场子
+colt's intestine
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-mɤ˧ ɲi˥
+ʐwæ˧zo#˥
+mɤ˩
+#H L
+#H
+graisse de poulain
+马驹子的油
+colt's fat
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-sɤ˧ ɲi˥
+ʐwæ˧zo#˥
+sɤ˥
+#H H
+#H
+sang de poulain
+马驹子的血
+colt's blood
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ɬv˩ ɲi˩
+ʐwæ˧zo#˥
+ɬv˧˥
+#H MH#
+°L
+cervelle de poulain
+马驹子的脑髓
+colt's brains
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-gv˧dv˥ ɲi˩
+ʐwæ˧zo#˥
+gv˧dv˧
+#H M
+H#
+dos de poulain
+马驹子的脊背
+colt's back
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ɲi˧gɤ˧ ɲi˥
+ʐwæ˧zo#˥
+ɲi˧gɤ#˥
+#H #H
+#H
+nez de poulain (museau de poulain)
+马驹子的鼻子
+colt's nose (colt's muzzle)
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-qv˥ʈʂæ˩ ɲi˩
+ʐwæ˧zo#˥
+qv˧ʈʂæ˧˥
+#H MH#
+#H°
+gorge de poulain
+马驹子的喉咙
+colt's throat
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-hu˥mi˩ ɲi˩
+ʐwæ˧zo#˥
+hu˧mi˥$
+#H H$
+#H°
+%Cette séquence tonale est une variante acceptable; la plus courante est: H$; une réalisation H# serait également acceptable
+estomac de poulain
+马驹子的胃
+colt's stomach
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-nv˥mi˩ ɲi˩
+ʐwæ˧zo#˥
+nv˩mi˩
+#H L
+#H°
+coeur de poulain
+马驹子的心脏
+colt's heart
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ɬi˧pi˥ ɲi˩
+ʐwæ˧zo#˥
+ɬi˧pi˩
+#H L#
+H#
+oreilles de poulain
+马驹子的耳朵
+colt's ears
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ʝi˥ʈʂæ˩ ɲi˩
+ʐwæ˧zo#˥
+ʝi˩ʈʂæ˧˥
+#H L+MH#
+#H°
+taille de poulain
+马驹子的腰
+colt's waist
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-njɤ˥ɭɯ˩ ɲi˩
+ʐwæ˧zo#˥
+njɤ˩ɭɯ˧
+#H LM
+#H°
+yeux de poulain
+马驹子的眼睛
+colt's eyes
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-ʁæ˧ʈv˥ ɲi˩
+ʐwæ˧zo#˥
+ʁæ˧ʈv˥
+#H H#
+H#
+cou de poulain
+马驹子的脖子
+colt's neck
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-ɣɯ˥ ɲi˩
+hwɤ˧li˧˥
+ɣɯ˩˧
+MH# LM
+MH#°
+peau de chat
+猫的皮
+cat's skin
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-bv˧ ɲi˥
+hwɤ˧li˧˥
+bv˧
+MH# M
+MH#
+intestin de chat
+猫的场子
+cat's intestine
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-mɤ˧ ɲi˥
+hwɤ˧li˧˥
+mɤ˩
+MH# L
+MH#
+graisse de chat
+猫的油
+cat's fat
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-sɤ˧ ɲi˥
+hwɤ˧li˧˥
+sɤ˥
+MH# H
+MH#
+sang de chat
+猫的血
+cat's blood
+
+*ʈʂʰɯ˧ ǀ hwɤ˧ɬi˧-ɬv˧ ɲi˥
+hwɤ˧li˧˥
+ɬv˧˥
+MH# MH#
+x
+%Schéma tonal erroné. On attend: H#. L'initiale de la 2e syllabe de 'chat' est en outre prononcée ɬ au lieu de l (par anticipation du ɬ qui suit), autre signe de fatigue/relâchement d'attention.
+cervelle de chat
+猫的脑髓
+cat's brains
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-gv˧dv˥ ɲi˩
+hwɤ˧li˧˥
+gv˧dv˧
+MH# M
+H#
+%réalisation légèrement hypo-articulée, de sorte que le ton haut n'est pas nettement perceptible
+dos de chat
+猫的脊背
+cat's back
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-gv˧dv˥ ɲi˩
+hwɤ˧li˧˥
+gv˧dv˧
+MH# M
+H#
+%réalisation fortement articulée, de sorte que le ton haut ressort
+dos de chat
+猫的脊背
+cat's back
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-ɲi˧gɤ˧ ɲi˥
+hwɤ˧li˧˥
+ɲi˧gɤ#˥
+MH# H#
+MH#
+nez de chat (museau de chat)
+猫的鼻子
+cat's nose (cat's muzzle)
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-qv˥ʈʂæ˩ ɲi˩
+hwɤ˧li˧˥
+qv˧ʈʂæ˧˥
+MH# MH#
+MH#°
+gorge de chat
+猫的喉咙
+cat's throat
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-hu˧mi˥ ɲi˩
+hwɤ˧li˧˥
+hu˧mi˥$
+MH# H$
+H#
+%Cette séquence tonale est une variante acceptable; la plus courante est: MH#°
+estomac de chat
+猫的胃
+cat's stomach
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-nv˥mi˩ ɲi˩
+hwɤ˧li˧˥
+nv˩mi˩
+MH# L
+MH#°
+coeur de chat
+猫的心脏
+cat's heart
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-ɬi˧pi˥ ɲi˩
+hwɤ˧li˧˥
+ɬi˧pi˩
+MH# L#
+H#
+oreilles de chat
+猫的耳朵
+cat's ears
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-ʝi˥ʈʂæ˩ ɲi˩
+hwɤ˧li˧˥
+ʝi˩ʈʂæ˧˥
+MH# L+MH#
+MH#°
+taille de chat
+猫的腰
+cat's waist
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-njɤ˥ɭɯ˩ ɲi˩
+hwɤ˧li˧˥
+njɤ˩ɭɯ˧
+MH# LM
+MH#°
+yeux de chat
+猫的眼睛
+cat's eyes
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧-ʁæ˧ʈv˥ ɲi˩
+hwɤ˧li˧˥
+ʁæ˧ʈv˥
+MH# H#
+H#
+cou de chat
+猫的脖子
+cat's neck
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-ɣɯ˥ ɲi˩
+kv˧ʂe˥$
+ɣɯ˩˧
+H$ LM
+H#
+peau de puce
+跳蚤的皮
+flea's skin
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-bv˧ ɲi˥
+kv˧ʂe˥$
+bv˧
+H$ M
+#H
+intestin de puce
+跳蚤的场子
+flea's intestine
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-mɤ˧ ɲi˥
+kv˧ʂe˥$
+mɤ˩
+H$ L
+H$
+graisse de puce
+跳蚤的油
+flea's fat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-sɤ˧ ɲi˥
+kv˧ʂe˥$
+sɤ˥
+H$ H
+#H
+sang de puce
+跳蚤的血
+flea's blood
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥-ɬv˩ ɲi˩
+kv˧ʂe˥$
+ɬv˧˥
+H$ MH#
+H#°
+cervelle de puce
+跳蚤的脑髓
+flea's brains
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-gv˧dv˥ ɲi˩
+kv˧ʂe˥$
+gv˧dv˧
+H$ M
+H#
+dos de puce
+跳蚤的脊背
+flea's back
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-ɲi˧gɤ˧ ɲi˥
+kv˧ʂe˥$
+ɲi˧gɤ#˥
+H$ H#
+#H
+nez de puce
+跳蚤的鼻子
+flea's nose
+
+*ʈʂʰɯ˧ ǀ kv˧ʂe˧-qv˧ʈʂæ˧ ɲi˩
+kv˧ʂe˥$
+qv˧ʈʂæ˧˥
+H$ MH#
+x
+gorge de puce
+跳蚤的喉咙
+flea's throat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥-qv˩ʈʂæ˩ ɲi˩
+kv˧ʂe˥$
+qv˧ʈʂæ˧˥
+H$ MH#
+H#
+%Ton attendu: #H°. Le ton H# est une variante acceptable.
+gorge de puce
+跳蚤的喉咙
+flea's throat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥-hu˩mi˩ ɲi˩
+kv˧ʂe˥$
+hu˧mi˥$
+H$ H$
+H#
+%Ton attendu: #H°. Le ton H# est une variante acceptable.
+estomac de puce
+跳蚤的胃
+flea's stomach
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-nv˥mi˩ ɲi˩
+kv˧ʂe˥$
+nv˩mi˩
+H$ L
+#H°
+coeur de puce
+跳蚤的心脏
+flea's heart
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-ɬi˧pi˥ ɲi˩
+kv˧ʂe˥$
+ɬi˧pi˩
+H$ L#
+H#
+oreilles de puce
+跳蚤的耳朵
+flea's ears
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-ʝi˥ʈʂæ˩ ɲi˩
+kv˧ʂe˥$
+ʝi˩ʈʂæ˧˥
+H$ L+MH#
+#H°
+taille de puce
+跳蚤的腰
+flea's waist
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-njɤ˥ɭɯ˩ ɲi˩
+kv˧ʂe˥$
+njɤ˩ɭɯ˧
+H$ LM
+#H°
+yeux de puce
+跳蚤的眼睛
+flea's eyes
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧-ʁæ˧ʈv˥ ɲi˩
+kv˧ʂe˥$
+ʁæ˧ʈv˥
+H$ H#
+H#
+cou de puce
+跳蚤的脖子
+flea's neck
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-ɣɯ˥ ɲi˩
+kʰv˩mi˩
+ɣɯ˩˧
+L LM
+L+H#
+peau de chien
+狗的皮
+dog's skin
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-bv˩ ɲi˥
+kʰv˩mi˩
+bv˧
+L M
+L
+intestin de chien
+狗的场子
+dog's intestine
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-mɤ˩ ɲi˥
+kʰv˩mi˩
+mɤ˩
+L L
+L
+graisse de chien
+狗的油
+dog's fat
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-sɤ˩ ɲi˥
+kʰv˩mi˩
+sɤ˥
+L H
+L
+sang de chien
+狗的血
+dog's blood
+
+*ʈʂʰɯ˧ ǀ kʰv˩mi˩-ɬv˩ ɲi˥
+kʰv˩mi˩
+ɬv˧˥
+L MH#
+x
+%The more common pattern is: L+H# (data confirmation in 2012). The present realization is considered as a mistake by the speaker.
+cervelle de chien
+狗的脑髓
+dog's brains
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-gv˩dv˥ ɲi˩
+kʰv˩mi˩
+gv˧dv˧
+L M
+H#
+dos de chien
+狗的脊背
+dog's back
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-ɲi˩gɤ˩ ɲi˥
+kʰv˩mi˩
+ɲi˧gɤ#˥
+L H#
+#H
+nez de chien (museau de chien)
+狗的鼻子
+dog's nose (dog's muzzle)
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-qv˥ʈʂæ˩ ɲi˩
+kʰv˩mi˩
+qv˧ʈʂæ˧˥
+L MH#
+L+#H°
+gorge de chien
+狗的喉咙
+dog's throat
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-hu˩mi˥ ɲi˩
+kʰv˩mi˩
+hu˧mi˥$
+L H$
+L+H#
+estomac de chien
+狗的胃
+dog's stomach
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-nv˥mi˩ ɲi˩
+kʰv˩mi˩
+nv˩mi˩
+L L
+L+#H°
+coeur de chien
+狗的心脏
+dog's heart
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-ɬi˩pi˥ ɲi˩
+kʰv˩mi˩
+ɬi˧pi˩
+L L#
+L+H#
+oreilles de chien
+狗的耳朵
+dog's ears
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-ʝi˥ʈʂæ˩ ɲi˩
+kʰv˩mi˩
+ʝi˩ʈʂæ˧˥
+L L+MH#
+L+#H°
+taille de chien
+狗的腰
+dog's waist
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-njɤ˥ɭɯ˩ ɲi˩
+kʰv˩mi˩
+njɤ˩ɭɯ˧
+L LM
+L+#H°
+yeux de chien
+狗的眼睛
+dog's eyes
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩-ʁæ˩ʈv˥ ɲi˩
+kʰv˩mi˩
+ʁæ˧ʈv˥
+L H#
+L+H#
+cou de chien
+狗的脖子
+dog's neck
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ɣɯ˩ ɲi˩
+dɑ˧ʝi˩
+ɣɯ˩˧
+L# LM
+L#°
+peau de mule
+骡子的皮
+mule's skin
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-bv˩ ɲi˩
+dɑ˧ʝi˩
+bv˧
+L# M
+L#°
+intestin de mule
+骡子的场子
+mule's intestine
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-mɤ˩ ɲi˩
+dɑ˧ʝi˩
+mɤ˩
+L# L
+L#°
+graisse de mule
+骡子的油
+mule's fat
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-sɤ˩ ɲi˩
+dɑ˧ʝi˩
+sɤ˥
+L# H
+L#°
+sang de mule
+骡子的血
+mule's blood
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ɬv˩ ɲi˩
+dɑ˧ʝi˩
+ɬv˧˥
+L# MH#
+L#°
+cervelle de mule
+骡子的脑髓
+mule's brains
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-gv˩dv˩ ɲi˩
+dɑ˧ʝi˩
+gv˧dv˧
+L# M
+L#°
+dos de mule
+骡子的脊背
+mule's back
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ɲi˩gɤ˩ ɲi˩
+dɑ˧ʝi˩
+ɲi˧gɤ#˥
+L# H#
+L#°
+nez de mule (museau de mule)
+骡子的鼻子
+mule's nose (mule's muzzle)
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-qv˩ʈʂæ˩ ɲi˩
+dɑ˧ʝi˩
+qv˧ʈʂæ˧˥
+L# MH#
+L#°
+gorge de mule
+骡子的喉咙
+mule's throat
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-hu˩mi˩ ɲi˩
+dɑ˧ʝi˩
+hu˧mi˥$
+L# H$
+L#°
+estomac de mule
+骡子的胃
+mule's stomach
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-nv˩mi˩ ɲi˩
+dɑ˧ʝi˩
+nv˩mi˩
+L# L
+L#°
+coeur de mule
+骡子的心脏
+mule's heart
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ɬi˩pi˩ ɲi˩
+dɑ˧ʝi˩
+ɬi˧pi˩
+L# L#
+L#°
+oreilles de mule
+骡子的耳朵
+mule's ears
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ʝi˩ʈʂæ˩ ɲi˩
+dɑ˧ʝi˩
+ʝi˩ʈʂæ˧˥
+L# L+MH#
+L#°
+taille de mule
+骡子的腰
+mule's waist
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-njɤ˩ɭɯ˩ ɲi˩
+dɑ˧ʝi˩
+njɤ˩ɭɯ˧
+L# LM
+L#°
+yeux de mule
+骡子的眼睛
+mule's eyes
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩-ʁæ˩ʈv˩ ɲi˩
+dɑ˧ʝi˩
+ʁæ˧ʈv˥
+L# H#
+L#°
+cou de mule
+骡子的脖子
+mule's neck
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ɣɯ˥ ɲi˩
+ũ˩dv˧˥
+ɣɯ˩˧
+L+MH# LM
+LM+MH#°
+peau de loup
+狼的皮
+wolf's skin
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-bv˧ ɲi˥
+ũ˩dv˧˥
+bv˧
+L+MH# M
+LM+MH#
+intestin de loup
+狼的场子
+wolf's intestine
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-mɤ˧ ɲi˥
+ũ˩dv˧˥
+mɤ˩
+L+MH# L
+LM+H#
+graisse de loup
+狼的油
+wolf's fat
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-sɤ˧ ɲi˥
+ũ˩dv˧˥
+sɤ˥
+L+MH# H
+LM+H#
+sang de loup
+狼的血
+wolf's blood
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ɬv˧ ɲi˥
+ũ˩dv˧˥
+ɬv˧˥
+L+MH# MH#
+LM+H#
+cervelle de loup
+狼的脑髓
+wolf's brains
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-gv˧dv˥ ɲi˩
+ũ˩dv˧˥
+gv˧dv˧
+L+MH# M
+LM+H#
+dos de loup
+狼的脊背
+wolf's back
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ɲi˧gɤ˧ ɲi˥
+ũ˩dv˧˥
+ɲi˧gɤ#˥
+L+MH# H#
+LM+#H
+nez de loup (museau de loup)
+狼的鼻子
+wolf's nose (wolf's muzzle)
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-qv˥ʈʂæ˩ ɲi˩
+ũ˩dv˧˥
+qv˧ʈʂæ˧˥
+L+MH# MH#
+LM+MH#°
+gorge de loup
+狼的喉咙
+wolf's throat
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-hu˧mi˧ ɲi˥
+ũ˩dv˧˥
+hu˧mi˥$
+L+MH# H$
+LM+H$
+%variante; le plus courant est: ũ˩dv˧-hu˥mi˩ +ɲi˩, au ton L+MH#°.
+estomac de loup
+狼的胃
+wolf's stomach
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-nv˥mi˩ ɲi˩
+ũ˩dv˧˥
+nv˩mi˩
+L+MH# L
+LM+MH#°
+coeur de loup
+狼的心脏
+wolf's heart
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ɬi˧pi˥ ɲi˩
+ũ˩dv˧˥
+ɬi˧pi˩
+L+MH# L#
+LM+H#
+oreilles de loup
+狼的耳朵
+wolf's ears
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ʝi˥ʈʂæ˩ ɲi˩
+ũ˩dv˧˥
+ʝi˩ʈʂæ˧˥
+L+MH# L+MH#
+LM+MH#°
+taille de loup
+狼的腰
+wolf's waist
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-njɤ˥ɭɯ˩ ɲi˩
+ũ˩dv˧˥
+njɤ˩ɭɯ˧
+L+MH# LM
+LM+MH#°
+yeux de loup
+狼的眼睛
+wolf's eyes
+
+ʈʂʰɯ˧ ǀ ũ˩dv˧-ʁæ˧ʈv˥ ɲi˩
+ũ˩dv˧˥
+ʁæ˧ʈv˥
+L+MH# H#
+LM+H#
+cou de loup
+狼的脖子
+wolf's neck
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-ɣɯ˩ ɲi˩
+bu˩mi˧
+ɣɯ˩˧
+LM LM
+LM°L
+peau de truie
+母猪的皮
+sow's skin
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-bv˧ ɲi˩
+bu˩mi˧
+bv˧
+LM M
+LM°
+intestin de truie
+母猪的场子
+sow's intestine
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-mɤ˩ ɲi˩
+bu˩mi˧
+mɤ˩
+LM L
+LM°L
+graisse de truie
+母猪的油
+sow's fat
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-sɤ˧ ɲi˥
+bu˩mi˧
+sɤ˥
+LM H
+LM°#H
+sang de truie
+母猪的血
+sow's blood
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-ɬv˧ ɲi˥
+bu˩mi˧
+ɬv˧˥
+LM MH#
+LM°MH#
+cervelle de truie
+母猪的脑髓
+sow's brains
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-gv˧dv˧ ɲi˩
+bu˩mi˧
+gv˧dv˧
+LM M
+LM°
+dos de truie
+母猪的脊背
+sow's back
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-qv˧ʈʂæ˧ ɲi˥
+bu˩mi˧
+qv˧ʈʂæ˧˥
+LM MH#
+LM°MH#
+gorge de truie
+母猪的喉咙
+sow's throat
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-hu˧mi˧ ɲi˥
+bu˩mi˧
+hu˧mi˥$
+LM H$
+LM°H$
+estomac de truie
+母猪的胃
+sow's stomach
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-nv˩mi˩ ɲi˩
+bu˩mi˧
+nv˩mi˩
+LM L
+LM°L
+coeur de truie
+母猪的心脏
+sow's heart
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-ɬi˧pi˩ ɲi˩
+bu˩mi˧
+ɬi˧pi˩
+LM L#
+LM°L#
+oreilles de truie
+母猪的耳朵
+sow's ears
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-ʝi˩ʈʂæ˩ ɲi˩
+bu˩mi˧
+ʝi˩ʈʂæ˧˥
+LM L+MH#
+LM°L
+taille de truie
+母猪的腰
+sow's waist
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-njɤ˩ɭɯ˩ ɲi˩
+bu˩mi˧
+njɤ˩ɭɯ˧
+LM LM
+LM°L
+yeux de truie
+母猪的眼睛
+sow's eyes
+
+ʈʂʰɯ˧ ǀ bu˩mi˧-ʁæ˧ʈv˥ ɲi˩
+bu˩mi˧
+ʁæ˧ʈv˥
+LM H#
+LM°H#
+cou de truie
+母猪的脖子
+sow's neck
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ɣɯ˩ ɲi˩
+bu˩ɬɑ˧˩
+ɣɯ˩˧
+LML LM
+LM°L
+peau de verrat
+公猪的皮
+boar's skin
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-bv˩ ɲi˩
+bu˩ɬɑ˧˩
+bv˧
+LML M
+LM°L
+intestin de verrat
+公猪的场子
+boar's intestine
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-mɤ˩ ɲi˩
+bu˩ɬɑ˧˩
+mɤ˩
+LML L
+LM°L
+graisse de verrat
+公猪的油
+boar's fat
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-sɤ˩ ɲi˩
+bu˩ɬɑ˧˩
+sɤ˥
+LML H
+LM°L
+sang de verrat
+公猪的血
+boar's blood
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ɬv˩ ɲi˩
+bu˩ɬɑ˧˩
+ɬv˧˥
+LML MH#
+LM°L
+cervelle de verrat
+公猪的脑髓
+boar's brains
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-gv˩dv˩ ɲi˩
+bu˩ɬɑ˧˩
+gv˧dv˧
+LML M
+LM°L
+dos de verrat
+公猪的脊背
+boar's back
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ɲi˩gɤ˩ ɲi˩
+bu˩ɬɑ˧˩
+ɲi˧gɤ#˥
+LML #H
+LM°L
+nez de verrat (museau de verrat)
+公猪的鼻子
+boar's nose (boar's snout)
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-qv˩ʈʂæ˩ ɲi˩
+bu˩ɬɑ˧˩
+qv˧ʈʂæ˧˥
+LML MH#
+LM°L
+gorge de verrat
+公猪的喉咙
+boar's throat
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-hu˩mi˩ ɲi˩
+bu˩ɬɑ˧˩
+hu˧mi˥$
+LML H$
+LM°L
+estomac de verrat
+公猪的胃
+boar's stomach
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-nv˩mi˩ ɲi˩
+bu˩ɬɑ˧˩
+nv˩mi˩
+LML L
+LM°L
+coeur de verrat
+公猪的心脏
+boar's heart
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ɬi˩pi˩ ɲi˩
+bu˩ɬɑ˧˩
+ɬi˧pi˩
+LML L#
+LM°L
+oreilles de verrat
+公猪的耳朵
+boar's ears
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ʝi˩ʈʂæ˩ ɲi˩
+bu˩ɬɑ˧˩
+ʝi˩ʈʂæ˧˥
+LML L+MH#
+LM°L
+taille de verrat
+公猪的腰
+boar's waist
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-njɤ˩ɭɯ˩ ɲi˩
+bu˩ɬɑ˧˩
+njɤ˩ɭɯ˧
+LML LM
+LM°L
+yeux de verrat
+公猪的眼睛
+boar's eyes
+
+ʈʂʰɯ˧ ǀ bu˩ɬɑ˧-ʁæ˩ʈv˩ ɲi˩
+bu˩ɬɑ˧˩
+ʁæ˧ʈv˥
+LML H#
+LM°L
+cou de verrat
+公猪的脖子
+boar's neck
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ɣɯ˩ ɲi˩
+hwæ˧tsɯ˥
+ɣɯ˩˧
+H# LM
+H#°
+peau de rat
+老鼠的皮
+rat's skin
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-bv˩ ɲi˩
+hwæ˧tsɯ˥
+bv˧
+H# M
+H#°
+intestin de rat
+老鼠的场子
+rat's intestine
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-mɤ˩ ɲi˩
+hwæ˧tsɯ˥
+mɤ˩
+H# L
+H#°
+graisse de rat
+老鼠的油
+rat's fat
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-sɤ˩ ɲi˩
+hwæ˧tsɯ˥
+sɤ˥
+H# H
+H#°
+sang de rat
+老鼠的血
+rat's blood
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ɬv˩ ɲi˩
+hwæ˧tsɯ˥
+ɬv˧˥
+H# MH#
+H#°
+cervelle de rat
+老鼠的脑髓
+rat's brains
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-gv˩dv˩ ɲi˩
+hwæ˧tsɯ˥
+gv˧dv˧
+H# M
+H#°
+dos de rat
+老鼠的脊背
+rat's back
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ɲi˩gɤ˩ ɲi˩
+hwæ˧tsɯ˥
+ɲi˧gɤ#˥
+H# #H
+H#°
+nez de rat (museau de rat)
+老鼠的鼻子
+rat's nose (rat's muzzle)
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-qv˩ʈʂæ˩ ɲi˩
+hwæ˧tsɯ˥
+qv˧ʈʂæ˧˥
+H# MH#
+H#°
+gorge de rat
+老鼠的喉咙
+rat's throat
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-hu˩mi˩ ɲi˩
+hwæ˧tsɯ˥
+hu˧mi˥$
+H# H$
+H#°
+estomac de rat
+老鼠的胃
+rat's stomach
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-nv˩mi˩ ɲi˩
+hwæ˧tsɯ˥
+nv˩mi˩
+H# L
+H#°
+coeur de rat
+老鼠的心脏
+rat's heart
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ɬi˩pi˩ ɲi˩
+hwæ˧tsɯ˥
+ɬi˧pi˩
+H# L#
+H#°
+oreilles de rat
+老鼠的耳朵
+rat's ears
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ʝi˩ʈʂæ˩ ɲi˩
+hwæ˧tsɯ˥
+ʝi˩ʈʂæ˧˥
+H# L+MH#
+H#°
+taille de rat
+老鼠的腰
+rat's waist
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-njɤ˩ɭɯ˩ ɲi˩
+hwæ˧tsɯ˥
+njɤ˩ɭɯ˧
+H# LM
+H#°
+yeux de rat
+老鼠的眼睛
+rat's eyes
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ʁæ˩ʈv˩ ɲi˩
+hwæ˧tsɯ˥
+ʁæ˧ʈv˥
+H# H#
+H#°
+cou de rat
+老鼠的脖子
+rat's neck

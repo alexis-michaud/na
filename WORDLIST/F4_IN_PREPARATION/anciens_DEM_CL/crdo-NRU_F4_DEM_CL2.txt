@@ -1,0 +1,913 @@
+F4_DEM_CL2.wav
+
+tʰv̩˧-bo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+那顶
+that+classifier for headdresses
+
+tʰv̩˧-bo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+那顶
+that+classifier for headdresses
+
+tʰv̩˧-bo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+那顶
+that+classifier for headdresses
+
+tʰv̩˧-bo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+那顶
+that+classifier for headdresses
+
+tʰv̩˧-bo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+那顶
+that+classifier for headdresses
+
+ʈʂʰɯ˧-bo˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des coiffes
+这顶
+this+classifier for headdresses
+
+ʈʂʰɯ˧-bo˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des coiffes
+这顶
+this+classifier for headdresses
+
+tʰv̩˧-bo˧ ɲi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des coiffes+cop.
+是那顶
+that+classifier for headdresses+cop.
+
+ʈʂʰɯ˧-bo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des coiffes+cop.
+是这顶
+this+classifier for headdresses+cop.
+
+ʈʂʰɯ˧-bo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des coiffes+cop.
+是这顶
+this+classifier for headdresses+cop.
+
+ʈʂʰɯ˧-bo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des coiffes+cop.
+是这顶
+this+classifier for headdresses+cop.
+
+ʈʂʰɯ˧-bo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des coiffes+cop.
+是这顶
+this+classifier for headdresses+cop.
+
+tʰv̩˧-dv̩˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des petits groupes
+那些
+this+classifier for small groups
+
+ʈʂʰɯ˧-dv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des petits groupes+cop.
+是这些
+this+classifier for small groups+cop.
+
+ʈʂʰɯ˧-dv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des petits groupes+cop.
+是这些
+this+classifier for small groups+cop.
+
+ʈʂʰɯ˧-dv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des petits groupes+cop.
+是这些
+this+classifier for small groups+cop.
+
+ʈʂʰɯ˧-dv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des petits groupes+cop.
+是这些
+this+classifier for small groups+cop.
+
+tʰv̩˧-dzi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+那棵
+that+classifier for trees
+
+tʰv̩˧-dzi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres+cop.
+是那棵
+that+classifier for trees+cop.
+
+tʰv̩˧-dzi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres+cop.
+是那棵
+that+classifier for trees+cop.
+
+tʰv̩˧-dzi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres+cop.
+是那棵
+that+classifier for trees+cop.
+
+tʰv̩˧-dzi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres+cop.
+是那棵
+that+classifier for trees+cop.
+
+tʰv̩˧-jo˧˥
+H L2
+MH#
+ce+classificateur des onces
+那两
+that+classifier for ounces
+
+tʰv̩˧-jo˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des onces+cop.
+是那两
+that+classifier for ounces+cop.
+
+tʰv̩˧-kʰɯ˧ ɲi˥
+H L2
+MH#
+ce+classificateur des brins+cop.
+是那条（线）
+that+classifier for threads+cop.
+
+ʈʂʰɯ˧-kʰɯ˧ ɲi˥
+H L2
+MH#
+%This classifier, /kʰɯ˩2/, is exceptional in that, in association with a demonstrative, it does not allow a H$ variant.
+ce+classificateur des brins+cop.
+是那条（线）
+that+classifier for threads+cop.
+
+ʈʂʰɯ˧-kʰɯ˧ ɲi˥
+H L2
+MH#
+%This classifier, /kʰɯ˩2/, is exceptional in that, in association with a demonstrative, it does not allow a H$ variant.
+ce+classificateur des brins+cop.
+是那条（线）
+that+classifier for threads+cop.
+
+tʰv̩˧-ɬi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+tʰv̩˧-lo˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des vallées
+那个（山谷）
+that+classifier for valleys
+
+ʈʂʰɯ˧-lo˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des vallées+cop.
+是那个（山谷）
+that+classifier for valleys+cop.
+
+ʈʂʰɯ˧-lo˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des vallées+cop.
+是那个（山谷）
+that+classifier for valleys+cop.
+
+tʰv̩˧-mi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+tʰv̩˧-mi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+tʰv̩˧-mi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+tʰv̩˧-mi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+tʰv̩˧-mi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+ʈʂʰɯ˧-mi˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des animaux
+这只
+that+classifier for animals
+
+ʈʂʰɯ˧-mi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des animaux
+这只
+this+classifier for animals
+
+tʰv̩˧-mi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des animaux+cop.
+是那只
+that+classifier for animals+cop.
+
+tʰv̩˧-mi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des animaux+cop.
+是那只
+that+classifier for animals+cop.
+
+tʰv̩˧-mi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des animaux+cop.
+是那只
+that+classifier for animals+cop.
+
+tʰv̩˧-mi˧ ɲi˥
+H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des animaux+cop.
+是那只
+that+classifier for animals+cop.
+
+ʈʂʰɯ˧-pʰv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des champs
+这块（田地）
+this+classifier for fields
+
+ʈʂʰɯ˧-pʰv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des champs+cop.
+是这块（田地）
+this+classifier for fields+cop.
+
+ʈʂʰɯ˧-pʰv̩˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des champs+cop.
+是这块（田地）
+this+classifier for fields+cop.
+
+tʰv̩˧-pɤ˥
+H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des éléments de menuiserie/charpente
+那个（门，梯子）
+that+classifier for ladders, doors, etc.
+
+tʰv̩˧-pɤ˥
+H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des éléments de menuiserie/charpente
+那个（门，梯子）
+that+classifier for ladders, doors, etc.
+
+tʰv̩˧-pɤ˥
+H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des éléments de menuiserie/charpente
+那个（门，梯子）
+that+classifier for ladders, doors, etc.
+
+tʰv̩˧-po˥
+H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+那包
+that+classifier for packages
+
+tʰv̩˧-po˥
+H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+那包
+that+classifier for packages
+
+ʈʂʰɯ˧-po˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+这包
+this+classifier for packages
+
+ʈʂʰɯ˧-po˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+这包
+this+classifier for packages
+
+ʈʂʰɯ˧-po˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+这包
+this+classifier for packages
+
+ʈʂʰɯ˧-po˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets
+这包
+this+classifier for packages
+
+ʈʂʰɯ˧-po˧ ɲi˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets+cop.
+是这包
+this+classifier for packages+cop.
+
+ʈʂʰɯ˧-po˧ ɲi˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets+cop.
+是这包
+this+classifier for packages+cop.
+
+ʈʂʰɯ˧-po˧ ɲi˥
+#H L2
+H$
+%The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des paquets+cop.
+是这包
+this+classifier for packages+cop.
+
+tʰv̩˧-ʁo˥
+H L2
+H$ / H#
+%Two variants are acceptable: H$ and H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés
+那种
+that+classifier for types
+
+ʈʂʰɯ˧-ʁo˥
+#H L2
+H$ / H#
+%Two variants are acceptable: H$ and H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés
+这种
+this+classifier for types
+
+ʈʂʰɯ˧-ʁo˥
+#H L2
+H$ / H#
+%Two variants are acceptable: H$ and H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés
+这种
+this+classifier for types
+
+ʈʂʰɯ˧-ʁo˥
+#H L2
+H$ / H#
+%Two variants are acceptable: H$ and H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés
+这种
+this+classifier for types
+
+tʰv̩˧-ʁo˧ ɲi˥
+H L2
+H$
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H$. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是那种
+that+classifier for types+cop.
+
+tʰv̩˧-ʁo˧ ɲi˥
+H L2
+H$
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H$. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是那种
+that+classifier for types+cop.
+
+tʰv̩˧-ʁo˥ ɲi˩
+H L2
+H#
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是那种
+that+classifier for types+cop.
+
+tʰv̩˧-ʁo˥ ɲi˩
+H L2
+H#
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是那种
+that+classifier for types+cop.
+
+tʰv̩˧-ʁo˥ ɲi˩
+H L2
+H#
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是那种
+that+classifier for types+cop.
+
+ʈʂʰɯ˧-ʁo˥ ɲi˩
+#H L2
+H#
+%Two variants are acceptable: H$ and H#. The variant represented on this token is H#. The speaker does not accept tone *MH# for this classifier in association with a demonstrative.
+ce+classificateur des variétés+cop.
+是这种
+this+classifier for types+cop.
+
+tʰv̩˧-ʂɯ˥
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois
+那次
+that+classifier for times
+
+tʰv̩˧-ʂɯ˥
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois
+那次
+that+classifier for times
+
+tʰv̩˧-ʂɯ˥
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois
+那次
+that+classifier for times
+
+tʰv̩˧-ʂɯ˥
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois
+那次
+that+classifier for times
+
+tʰv̩˧-ʂɯ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois+cop.
+是那次
+that+classifier for times+cop.
+
+tʰv̩˧-ʂɯ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois+cop.
+是那次
+that+classifier for times+cop.
+
+tʰv̩˧-ʂɯ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois+cop.
+是那次
+that+classifier for times+cop.
+
+tʰv̩˧-ʂɯ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois+cop.
+是那次
+that+classifier for times+cop.
+
+tʰv̩˧-ʂɯ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fois+cop.
+是那次
+that+classifier for times+cop.
+
+tʰv̩˧-tɑ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fortes sommes d'argent+cop.
+那笔（钱）
+that+classifier for large sums of money+cop.
+
+ʈʂʰɯ˧-tɑ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fortes sommes d'argent+cop.
+那笔（钱）
+that+classifier for large sums of money+cop.
+
+ʈʂʰɯ˧-tɑ˥ ɲi˩
+H L2
+H#
+%No other tonal variant was found for this combination: neither H$ nor MH#.
+ce+classificateur des fortes sommes d'argent+cop.
+那笔（钱）
+that+classifier for large sums of money+cop.
+
+tʰv̩˧-tɕʰi˧˥
+H L2
+MH#
+ce+classificateur des repas
+那顿
+that+classifier for meals
+
+tʰv̩˧-tɕʰi˧ ɲi˥
+H L2
+MH#
+ce+classificateur des repas+cop.
+是那顿
+that+classifier for meals+cop.
+
+ʈʂʰɯ˧-tʰv̩˧˥
+#H L2
+MH#
+ce+classificateur des dizaines
+这十个
+this+classifier for tens
+
+ʈʂʰɯ˧-tʰv̩˧ ɲi˥
+#H L2
+MH#
+ce+classificateur des dizaines+cop.
+是这十个
+this+classifier for tens+cop.
+
+ʈʂʰɯ˧-tsʰe˥
+#H L2
+H$
+ce+classificateur des feuilles
+这片（叶子）
+this+classifier for leaves
+
+ʈʂʰɯ˧-tsʰe˧ ɲi˥
+#H L2
+H$
+ce+classificateur des feuilles+cop.
+是这片（叶子）
+this+classifier for leaves+cop.
+
+ʈʂʰɯ˧-ʈv̩˥
+#H L2
+H#
+ce+classificateur des quartiers
+这大块
+this+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥ ɲi˩
+#H L2
+H#
+ce+classificateur des quartiers+cop.
+是这大块
+this+classifier for large chunks+cop.
+
+ʈʂʰɯ˧-wɤ˧˥
+#H L2
+MH#
+ce+classificateur des fardeaux
+这担
+this+classifier for loads
+
+ʈʂʰɯ˧-wɤ˧˥
+#H L2
+MH#
+ce+classificateur des fardeaux
+这担
+this+classifier for loads
+
+ʈʂʰɯ˧-wɤ˧ ɲi˥
+#H L2
+MH#
+ce+classificateur des fardeaux+cop.
+是这担
+this+classifier for loads+cop.
+
+ʈʂʰɯ˧-wɤ˧ ɲi˥
+#H L2
+MH#
+ce+classificateur des fardeaux+cop.
+是这担
+this+classifier for loads+cop.
+
+ʈʂʰɯ˧-wo˧˥
+#H L2
+MH#
+ce+classificateur des attelages
+这架（牛）
+this+classifier for teams
+
+ʈʂʰɯ˧-wo˧ ɲi˥
+#H L2
+H$
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-wo˧ ɲi˥
+#H L2
+H$
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+tʰv̩˧-bi˥
+H L3
+H$ / H#
+ce+classificateur des sabots
+那个（蹄子）
+that+classifier for hooves
+
+tʰv̩˧-bi˥
+H L3
+H$ / H#
+ce+classificateur des sabots
+那个（蹄子）
+that+classifier for hooves
+
+tʰv̩˧-bi˥
+H L3
+H$ / H#
+ce+classificateur des sabots
+那个（蹄子）
+that+classifier for hooves
+
+tʰv̩˧-bi˥ ɲi˩
+H L3
+H#
+%This combination allows two variants: H$ and H#. This token carries tone H#.
+ce+classificateur des sabots+cop.
+是那个（蹄子）
+that+classifier for hooves+cop.
+
+tʰv̩˧-bi˥ ɲi˩
+H L3
+H#
+%This combination allows two variants: H$ and H#. This token carries tone H#.
+ce+classificateur des sabots+cop.
+是那个（蹄子）
+that+classifier for hooves+cop.
+
+tʰv̩˧-bi˧ ɲi˥
+H L3
+H#
+%This combination allows two variants: H$ and H#. This token carries tone H$.
+ce+classificateur des sabots+cop.
+是那个（蹄子）
+that+classifier for hooves+cop.
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$
+%Confirmed prior to current recording that this classifier cannot take tone MH# when in association with a demonstrative
+%No tokens with copula to confirm the analysis as H$ rather than H#
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$
+%Confirmed prior to current recording that this classifier cannot take tone MH# when in association with a demonstrative
+%No tokens with copula to confirm the analysis as H$ rather than H#
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$
+%Confirmed prior to current recording that this classifier cannot take tone MH# when in association with a demonstrative
+%No tokens with copula to confirm the analysis as H$ rather than H#
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-qɑ˥
+#H L3 
+H#
+ce+classificateur des bottes
+这抱
+this+classifier for large bundles 
+
+ʈʂʰɯ˧-qɑ˥
+#H L3 
+H#
+ce+classificateur des bottes
+这抱
+this+classifier for large bundles 
+
+ʈʂʰɯ˧-qɑ˥ ɲi˩
+#H L3
+H#
+ce+classificateur des bottes+cop.
+是这抱
+this+classifier for large bundles+cop.
+
+tʰv̩˧-tso˥
+H L3
+H#
+ce+classificateur des pièces
+那间
+that+classifier for rooms
+
+tʰv̩˧-tso˥
+H L3
+H#
+ce+classificateur des pièces
+那间
+that+classifier for rooms
+
+tʰv̩˧-tso˥ ɲi˩
+H L3
+H#
+ce+classificateur des pièces+cop.
+是那间
+that+classifier for rooms+cop.
+
+tʰv̩˧-ʐɤ˥
+H L3
+H$
+ce+classificateur des motifs
+那个（花纹）
+that+classifier for patterns
+
+tʰv̩˧-ʐɤ˥
+H L3
+H$
+ce+classificateur des motifs
+那个（花纹）
+that+classifier for patterns
+
+tʰv̩˧-ʐɤ˧ ɲi˥
+H L3
+H$
+ce+classificateur des motifs+cop.
+是那个（花纹）
+that+classifier for patterns+cop.
+
+tʰv̩˧-ʐɤ˧ ɲi˥
+H L3
+H$
+ce+classificateur des motifs+cop.
+是那个（花纹）
+that+classifier for patterns+cop.
+
+bæ˧ | ʈʂʰɯ˧-kʰɯ˧˥
+L #H L2
+MH#
+corde+ce+classificateur des brins
+这条绳子
+rope+this+classifier for threads
+
+kʰi˧ | tʰv̩˧-pɤ˥
+#H H L2
+H$
+porte+ce+classificateur des éléments de menuiserie/charpente
+那只们
+door+that+classifier for ladders, doors, etc. 
+
+kʰi˧ | tʰv̩˧-pɤ˥
+#H H L2
+H$
+porte+ce+classificateur des éléments de menuiserie/charpente
+那只们
+door+that+classifier for ladders, doors, etc. 
+
+kʰi˧ | tʰv̩˧-pɤ˥
+#H H L2
+H$
+porte+ce+classificateur des éléments de menuiserie/charpente
+那只们
+door+that+classifier for ladders, doors, etc. 
+
+kʰi˧ | tʰv̩˧-pɤ˥
+#H H L2
+H$
+porte+ce+classificateur des éléments de menuiserie/charpente
+那只们
+door+that+classifier for ladders, doors, etc. 

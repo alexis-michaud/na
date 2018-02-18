@@ -1,0 +1,4279 @@
+<WORDLIST id="crdo-NRU_M28_VOCABULARY" xml:lang="nru">
+    <HEADER>
+        <TITLE xml:lang="eng">Labai vocabulary by speaker M28</TITLE>
+        <SOUNDFILE href="M28_Vocabulary.wav"/>
+    </HEADER>
+    <NOTE xml:lang="en" message="Work with Lamu Gatusa only extended over two sessions, on August 11th and August 12th, 2009. The second session was recorded. This is an exploratory elicitation session: the items were transcribed as they were being said; the speaker and the investigator discussed in Chinese over the meaning of words, cases of homophony, issues of transcription, and so on. The purpose was to devise a first version of a transcription system in the International Phonetic Alphabet, which Mr. Lamu would then use (and develop further) for transcribing Na stories, proverbs and rituals and preparing annotated bilingual editions.  The transcription of large amounts of texts had to be postponed; for a range of purposes, from scientific research to orthographic developments, it appeared useful nonetheless to make this small data set available to all interested. The sound file was edited, deleting asides, long explanations, and some taboo items of vocabulary. It must be emphasized that this document is NOT based on an in-depth phonemic analysis, unlike the Yongning Na data: the transcription of tones needs to be verified and deepened. Technically, the quality of the recordings is not very good: the recording took place at Mr. Lamu's home in Kunming; the distance to the microphone varies greatly in the course of the recording."/>
+    <W id="M28_Vocabulary_S001">
+        <FORM>mv̩˥ʁo˥</FORM>
+        <TRANSL xml:lang="fr">ciel</TRANSL>
+        <TRANSL xml:lang="zh">天</TRANSL>
+        <TRANSL xml:lang="en">sky</TRANSL>
+        <AUDIO start="34.029" end="34.987"/>
+    </W>
+    <W id="M28_Vocabulary_S002">
+        <FORM>ʈʂɯ˩sv̩˩˧</FORM>
+        <NOTE xml:lang="en" message="Variant: /ʈʂɯ˩sv̩˩/, without a final rise"/>
+        <TRANSL xml:lang="fr">brume, nuage</TRANSL>
+        <TRANSL xml:lang="zh">雾，云</TRANSL>
+        <TRANSL xml:lang="en">mist, fog, cloud</TRANSL>
+        <AUDIO start="0" end="1.033"/>
+    </W>
+    <W id="M28_Vocabulary_S003">
+        <FORM>mv̩˥ʁo˥ ʈʂɯ˩sv̩˩ ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">il y a beaucoup de nuages au ciel, le temps est nuageux</TRANSL>
+        <TRANSL xml:lang="zh">天上多云</TRANSL>
+        <TRANSL xml:lang="en">cloudy weather</TRANSL>
+        <AUDIO start="3.138" end="11.242"/>
+    </W>
+    <W id="M28_Vocabulary_S004">
+        <FORM>ʈʂɯ˩sv̩˩ ɖʐɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="Realization bringing out the rising tone of the last syllable"/>
+        <TRANSL xml:lang="fr">il y a beaucoup de nuages</TRANSL>
+        <TRANSL xml:lang="zh">云很多</TRANSL>
+        <TRANSL xml:lang="en">There are lots of clouds</TRANSL>
+        <AUDIO start="16.075" end="16.876"/>
+    </W>
+    <W id="M28_Vocabulary_S005">
+        <FORM>ɖʐɯ˧˥; ʈʂɯ˩sv̩˩ ɖʐɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="Realization bringing out the tone of 'many'"/>
+        <TRANSL xml:lang="fr">beaucoup; il y a beaucoup de nuages</TRANSL>
+        <TRANSL xml:lang="zh">多，云很多</TRANSL>
+        <TRANSL xml:lang="en">Many; there are lots of clouds</TRANSL>
+        <AUDIO start="18.531" end="19.995"/>
+    </W>
+    <W id="M28_Vocabulary_S006">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="15.117" end="15.761"/>
+    </W>
+    <W id="M28_Vocabulary_S007">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="20.622" end="21.214"/>
+    </W>
+    <W id="M28_Vocabulary_S008">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="Realization bringing out the rising tone"/>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="12.387" end="13.229"/>
+    </W>
+    <W id="M28_Vocabulary_S009">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="Realization bringing out the rising tone"/>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="14.159" end="14.745"/>
+    </W>
+    <W id="M28_Vocabulary_S010">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="27.624" end="28.251"/>
+    </W>
+    <W id="M28_Vocabulary_S011">
+        <FORM>ɖʐɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="Realization bringing out the rising tone"/>
+        <TRANSL xml:lang="fr">beaucoup</TRANSL>
+        <TRANSL xml:lang="zh">多</TRANSL>
+        <TRANSL xml:lang="en">many, a lot of</TRANSL>
+        <AUDIO start="31.143" end="31.692"/>
+    </W>
+    <W id="M28_Vocabulary_S012">
+        <FORM>mbi˥</FORM>
+        <TRANSL xml:lang="fr">neige</TRANSL>
+        <TRANSL xml:lang="zh">雪</TRANSL>
+        <TRANSL xml:lang="en">snow</TRANSL>
+        <AUDIO start="39.182" end="39.579"/>
+    </W>
+    <W id="M28_Vocabulary_S013">
+        <FORM>mv̩˥ŋgv̩˥</FORM>
+        <TRANSL xml:lang="fr">tonnerre</TRANSL>
+        <TRANSL xml:lang="zh">雷、霹雷</TRANSL>
+        <TRANSL xml:lang="en">thunder</TRANSL>
+        <AUDIO start="42.127" end="43.218"/>
+    </W>
+    <W id="M28_Vocabulary_S014">
+        <FORM>ndzo˥</FORM>
+        <TRANSL xml:lang="fr">grêle</TRANSL>
+        <TRANSL xml:lang="zh">冰雹</TRANSL>
+        <TRANSL xml:lang="en">hail</TRANSL>
+        <AUDIO start="45.578" end="46.083"/>
+    </W>
+    <W id="M28_Vocabulary_S015">
+        <FORM>ndzo˥lv̩˥</FORM>
+        <TRANSL xml:lang="fr">grêlons</TRANSL>
+        <TRANSL xml:lang="zh">冰雹块</TRANSL>
+        <TRANSL xml:lang="en">hailstone</TRANSL>
+        <AUDIO start="48.277" end="48.962"/>
+    </W>
+    <W id="M28_Vocabulary_S016">
+        <FORM>ndzo˥lv̩˥</FORM>
+        <TRANSL xml:lang="fr">grêlons</TRANSL>
+        <TRANSL xml:lang="zh">冰雹块</TRANSL>
+        <TRANSL xml:lang="en">hailstone</TRANSL>
+        <AUDIO start="49.789" end="50.44"/>
+    </W>
+    <W id="M28_Vocabulary_S017">
+        <FORM>[ndzo˥]lv̩˥</FORM>
+        <TRANSL xml:lang="fr">grêlons (2e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">冰雹块（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">hailstone (2nd syllable)</TRANSL>
+        <AUDIO start="51.209" end="51.589"/>
+    </W>
+    <W id="M28_Vocabulary_S018">
+        <FORM>ɳɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">rosée</TRANSL>
+        <TRANSL xml:lang="zh">露水</TRANSL>
+        <TRANSL xml:lang="en">dew</TRANSL>
+        <AUDIO start="54.323" end="54.962"/>
+    </W>
+    <W id="M28_Vocabulary_S019">
+        <FORM>ɳɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">rosée</TRANSL>
+        <TRANSL xml:lang="zh">露水</TRANSL>
+        <TRANSL xml:lang="en">dew</TRANSL>
+        <AUDIO start="57.59" end="58.392"/>
+    </W>
+    <W id="M28_Vocabulary_S020">
+        <FORM>ɳɖʐɯ˧</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the vowel quality of the rhyme clearly"/>
+        <TRANSL xml:lang="fr">rosée</TRANSL>
+        <TRANSL xml:lang="zh">露水</TRANSL>
+        <TRANSL xml:lang="en">dew</TRANSL>
+        <AUDIO start="55.914" end="56.853"/>
+    </W>
+    <W id="M28_Vocabulary_S021">
+        <FORM>ɲi˥pʰə˞˥</FORM>
+        <TRANSL xml:lang="fr">givre</TRANSL>
+        <TRANSL xml:lang="zh">霜</TRANSL>
+        <TRANSL xml:lang="en">frost</TRANSL>
+        <AUDIO start="59.191" end="60.95"/>
+    </W>
+    <W id="M28_Vocabulary_S022">
+        <FORM>ɲi˥pʰə˞˥</FORM>
+        <TRANSL xml:lang="fr">givre</TRANSL>
+        <TRANSL xml:lang="zh">霜</TRANSL>
+        <TRANSL xml:lang="en">frost</TRANSL>
+        <AUDIO start="61.419" end="62.378"/>
+    </W>
+    <W id="M28_Vocabulary_S023">
+        <FORM>ɲi˥pʰə˞˥</FORM>
+        <TRANSL xml:lang="fr">givre</TRANSL>
+        <TRANSL xml:lang="zh">霜</TRANSL>
+        <TRANSL xml:lang="en">frost</TRANSL>
+        <AUDIO start="65.639" end="66.458"/>
+    </W>
+    <W id="M28_Vocabulary_S024">
+        <FORM>ɲi˥pʰə˞˥</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, separating successive syllables to bring out the tone pattern"/>
+        <TRANSL xml:lang="fr">givre</TRANSL>
+        <TRANSL xml:lang="zh">霜</TRANSL>
+        <TRANSL xml:lang="en">frost</TRANSL>
+        <AUDIO start="67.031" end="67.832"/>
+    </W>
+    <W id="M28_Vocabulary_S025">
+        <FORM>dzv̩˧</FORM>
+        <TRANSL xml:lang="fr">glace</TRANSL>
+        <TRANSL xml:lang="zh">冰</TRANSL>
+        <TRANSL xml:lang="en">ice</TRANSL>
+        <AUDIO start="75.764" end="76.417"/>
+    </W>
+    <W id="M28_Vocabulary_S026">
+        <FORM>dzv̩˧</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the M tone"/>
+        <TRANSL xml:lang="fr">glace</TRANSL>
+        <TRANSL xml:lang="zh">冰</TRANSL>
+        <TRANSL xml:lang="en">ice</TRANSL>
+        <AUDIO start="81.168" end="81.596"/>
+    </W>
+    <W id="M28_Vocabulary_S027">
+        <FORM>dzv̩˧pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">morceau de glace</TRANSL>
+        <TRANSL xml:lang="zh">冰块</TRANSL>
+        <TRANSL xml:lang="en">piece of ice</TRANSL>
+        <AUDIO start="69.404" end="72.086"/>
+    </W>
+    <W id="M28_Vocabulary_S028">
+        <FORM>dzv̩˧pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">morceau de glace</TRANSL>
+        <TRANSL xml:lang="zh">冰块</TRANSL>
+        <TRANSL xml:lang="en">piece of ice</TRANSL>
+        <AUDIO start="77.548" end="78.637"/>
+    </W>
+    <W id="M28_Vocabulary_S029">
+        <FORM>dzv̩˧pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">morceau de glace</TRANSL>
+        <TRANSL xml:lang="zh">冰块</TRANSL>
+        <TRANSL xml:lang="en">piece of ice</TRANSL>
+        <AUDIO start="81.596" end="82.583"/>
+    </W>
+    <W id="M28_Vocabulary_S030">
+        <FORM>dzv̩˧pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">morceau de glace</TRANSL>
+        <TRANSL xml:lang="zh">冰块</TRANSL>
+        <TRANSL xml:lang="en">piece of ice</TRANSL>
+        <AUDIO start="84.51" end="85.276"/>
+    </W>
+    <W id="M28_Vocabulary_S031">
+        <FORM>[dzv̩˧]pʰæ˧˥</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the rising tone"/>
+        <TRANSL xml:lang="fr">morceau de [glace]</TRANSL>
+        <TRANSL xml:lang="zh">[冰]块</TRANSL>
+        <TRANSL xml:lang="en">piece of [ice]</TRANSL>
+        <AUDIO start="83.175" end="83.535"/>
+    </W>
+    <W id="M28_Vocabulary_S032">
+        <FORM>mi˥</FORM>
+        <TRANSL xml:lang="fr">feu</TRANSL>
+        <TRANSL xml:lang="zh">火</TRANSL>
+        <TRANSL xml:lang="en">fire</TRANSL>
+        <AUDIO start="86.1" end="87.192"/>
+    </W>
+    <W id="M28_Vocabulary_S033">
+        <FORM>mi˧ʐæ˥</FORM>
+        <TRANSL xml:lang="fr">étincelle</TRANSL>
+        <TRANSL xml:lang="zh">火花</TRANSL>
+        <TRANSL xml:lang="en">spark</TRANSL>
+        <AUDIO start="88.033" end="88.751"/>
+    </W>
+    <W id="M28_Vocabulary_S034">
+        <FORM>mi˧ʐæ˥</FORM>
+        <TRANSL xml:lang="fr">étincelle</TRANSL>
+        <TRANSL xml:lang="zh">火花</TRANSL>
+        <TRANSL xml:lang="en">spark</TRANSL>
+        <AUDIO start="89.329" end="89.945"/>
+    </W>
+    <W id="M28_Vocabulary_S035">
+        <FORM>mv̩˧kʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">fumée</TRANSL>
+        <TRANSL xml:lang="zh">烟</TRANSL>
+        <TRANSL xml:lang="en">smoke</TRANSL>
+        <AUDIO start="92.197" end="95.552"/>
+    </W>
+    <W id="M28_Vocabulary_S036">
+        <FORM>mv̩˧kʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">fumée</TRANSL>
+        <TRANSL xml:lang="zh">烟</TRANSL>
+        <TRANSL xml:lang="en">smoke</TRANSL>
+        <AUDIO start="96.674" end="97.441"/>
+    </W>
+    <W id="M28_Vocabulary_S037">
+        <FORM>mv̩˧kʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">fumée</TRANSL>
+        <TRANSL xml:lang="zh">烟</TRANSL>
+        <TRANSL xml:lang="en">smoke</TRANSL>
+        <AUDIO start="98.766" end="99.349"/>
+    </W>
+    <W id="M28_Vocabulary_S038">
+        <FORM>[mv̩˧]kʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">fumée (2e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">烟（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">smoke (2nd syllable)</TRANSL>
+        <AUDIO start="98.269" end="98.675"/>
+    </W>
+    <W id="M28_Vocabulary_S039">
+        <FORM>so˧˥</FORM>
+        <TRANSL xml:lang="fr">souffle</TRANSL>
+        <TRANSL xml:lang="zh">(一口)气</TRANSL>
+        <TRANSL xml:lang="en">breath</TRANSL>
+        <AUDIO start="100.246" end="104.108"/>
+    </W>
+    <W id="M28_Vocabulary_S040">
+        <FORM>pv̩˩so˩˧</FORM>
+        <TRANSL xml:lang="fr">vapeur</TRANSL>
+        <TRANSL xml:lang="zh">蒸汽</TRANSL>
+        <TRANSL xml:lang="en">vapour</TRANSL>
+        <AUDIO start="104.517" end="105.481"/>
+    </W>
+    <W id="M28_Vocabulary_S041">
+        <FORM>pv̩˩so˩</FORM>
+        <NOTE xml:lang="en" message="This token is realized with a L.L tone pattern. The sound of the quality is not good due to superposition of the investigator's voice with that of the speaker."/>
+        <TRANSL xml:lang="fr">vapeur</TRANSL>
+        <TRANSL xml:lang="zh">蒸汽</TRANSL>
+        <TRANSL xml:lang="en">vapour</TRANSL>
+        <AUDIO start="108.691" end="109.259"/>
+    </W>
+    <W id="M28_Vocabulary_S042">
+        <FORM>ɳɖʐv̩˧</FORM>
+        <NOTE xml:lang="en" message="Note: there exists a variant /ɳɖʐɯ˧/, in phrases such as /ɳɖʐɯ˧nɑ˩mi˥/ 'deep forest'"/>
+        <TRANSL xml:lang="fr">montagne</TRANSL>
+        <TRANSL xml:lang="zh">山</TRANSL>
+        <TRANSL xml:lang="en">mountain</TRANSL>
+        <AUDIO start="110.728" end="111.274"/>
+    </W>
+    <W id="M28_Vocabulary_S043">
+        <FORM>ɳɖʐv̩˧</FORM>
+        <NOTE xml:lang="en" message="Note: there exists a variant /ɳɖʐɯ˧/, in phrases such as /ɳɖʐɯ˧nɑ˩mi˥/ 'deep forest'"/>
+        <TRANSL xml:lang="fr">montagne</TRANSL>
+        <TRANSL xml:lang="zh">山</TRANSL>
+        <TRANSL xml:lang="en">mountain</TRANSL>
+        <AUDIO start="112.145" end="112.911"/>
+    </W>
+    <W id="M28_Vocabulary_S044">
+        <FORM>ɳɖʐɯ˧nɑ˩˥</FORM>
+        <TRANSL xml:lang="fr">haute montagne</TRANSL>
+        <TRANSL xml:lang="zh">高山</TRANSL>
+        <TRANSL xml:lang="en">high mountain, tall mountain</TRANSL>
+        <AUDIO start="116.333" end="117.12"/>
+    </W>
+    <W id="M28_Vocabulary_S045">
+        <FORM>ɳɖʐɯ˧nɑ˩mi˥</FORM>
+        <TRANSL xml:lang="fr">haute montagne</TRANSL>
+        <TRANSL xml:lang="zh">高山</TRANSL>
+        <TRANSL xml:lang="en">high mountain, tall mountain</TRANSL>
+        <AUDIO start="118.744" end="119.511"/>
+    </W>
+    <W id="M28_Vocabulary_S046">
+        <FORM>ɳɖʐɯ˧nɑ˩mi˥</FORM>
+        <TRANSL xml:lang="fr">haute montagne</TRANSL>
+        <TRANSL xml:lang="zh">高山</TRANSL>
+        <TRANSL xml:lang="en">high mountain, tall mountain</TRANSL>
+        <AUDIO start="124.777" end="125.613"/>
+    </W>
+    <W id="M28_Vocabulary_S047">
+        <FORM>mbo˧ʁo˥</FORM>
+        <TRANSL xml:lang="fr">pente, versant escarpé de montagne/colline</TRANSL>
+        <TRANSL xml:lang="zh">山坡, 岗</TRANSL>
+        <TRANSL xml:lang="en">mountain slope, hillside</TRANSL>
+        <AUDIO start="128.161" end="132.863"/>
+    </W>
+    <W id="M28_Vocabulary_S048">
+        <FORM>mbo˧ʁo˥</FORM>
+        <TRANSL xml:lang="fr">pente, versant escarpé de montagne/colline</TRANSL>
+        <TRANSL xml:lang="zh">山坡, 岗</TRANSL>
+        <TRANSL xml:lang="en">mountain slope, hillside</TRANSL>
+        <AUDIO start="133.515" end="134.135"/>
+    </W>
+    <W id="M28_Vocabulary_S049">
+        <FORM>to˧˥</FORM>
+        <TRANSL xml:lang="fr">chemin escarpé</TRANSL>
+        <TRANSL xml:lang="zh">陡的路</TRANSL>
+        <TRANSL xml:lang="en">steep path</TRANSL>
+        <AUDIO start="149.929" end="150.304"/>
+    </W>
+    <W id="M28_Vocabulary_S050">
+        <FORM>to˧˥</FORM>
+        <TRANSL xml:lang="fr">chemin escarpé</TRANSL>
+        <TRANSL xml:lang="zh">陡的路</TRANSL>
+        <TRANSL xml:lang="en">steep path</TRANSL>
+        <AUDIO start="151.242" end="151.834"/>
+    </W>
+    <W id="M28_Vocabulary_S051">
+        <FORM>lo˧qo˧</FORM>
+        <TRANSL xml:lang="fr">dans la vallée</TRANSL>
+        <TRANSL xml:lang="zh">山谷里</TRANSL>
+        <TRANSL xml:lang="en">in the mountain valley</TRANSL>
+        <AUDIO start="154.759" end="157.598"/>
+    </W>
+    <W id="M28_Vocabulary_S052">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="162.474" end="168.076"/>
+    </W>
+    <W id="M28_Vocabulary_S053">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="235.683" end="236.299"/>
+    </W>
+    <W id="M28_Vocabulary_S054">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="172.479" end="173.472"/>
+    </W>
+    <W id="M28_Vocabulary_S055">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="177.262" end="177.886"/>
+    </W>
+    <W id="M28_Vocabulary_S056">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="181.291" end="182.066"/>
+    </W>
+    <W id="M28_Vocabulary_S057">
+        <FORM>æ˩ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff</TRANSL>
+        <AUDIO start="492.025" end="492.456"/>
+    </W>
+    <W id="M28_Vocabulary_S058">
+        <FORM>[æ˩]ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic (2e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff (2nd syllable)</TRANSL>
+        <AUDIO start="183.065" end="183.418"/>
+    </W>
+    <W id="M28_Vocabulary_S059">
+        <FORM>[æ˩]ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic (2e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff (2nd syllable)</TRANSL>
+        <AUDIO start="169.829" end="170.223"/>
+    </W>
+    <W id="M28_Vocabulary_S060">
+        <FORM>[æ˩]ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">falaise, précipice, à-pic (2e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">悬崖，崖山，崖壁（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">precipice, overhanging cliff (2nd syllable)</TRANSL>
+        <AUDIO start="174.436" end="174.873"/>
+    </W>
+    <W id="M28_Vocabulary_S061">
+        <FORM>æ˩pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">dos d'une falaise</TRANSL>
+        <TRANSL xml:lang="zh">悬崖不陡的那一面</TRANSL>
+        <TRANSL xml:lang="en">the back of a cliff (non-steep face)</TRANSL>
+        <AUDIO start="206.807" end="207.503"/>
+    </W>
+    <W id="M28_Vocabulary_S062">
+        <FORM>æ˩pʰæ˧˥</FORM>
+        <TRANSL xml:lang="fr">dos d'une falaise</TRANSL>
+        <TRANSL xml:lang="zh">悬崖不陡的那一面</TRANSL>
+        <TRANSL xml:lang="en">the back of a cliff (non-steep face)</TRANSL>
+        <AUDIO start="216.945" end="217.54"/>
+    </W>
+    <W id="M28_Vocabulary_S063">
+        <FORM>æ˩qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">grotte, caverne</TRANSL>
+        <TRANSL xml:lang="zh">山洞</TRANSL>
+        <TRANSL xml:lang="en">cave, cavern</TRANSL>
+        <AUDIO start="225.149" end="226.054"/>
+    </W>
+    <W id="M28_Vocabulary_S064">
+        <FORM>æ˩qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">grotte, caverne</TRANSL>
+        <TRANSL xml:lang="zh">山洞</TRANSL>
+        <TRANSL xml:lang="en">cave, cavern</TRANSL>
+        <AUDIO start="226.59" end="227.182"/>
+    </W>
+    <W id="M28_Vocabulary_S065">
+        <FORM>æ˩qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">grotte, caverne</TRANSL>
+        <TRANSL xml:lang="zh">山洞</TRANSL>
+        <TRANSL xml:lang="en">cave, cavern</TRANSL>
+        <AUDIO start="228.551" end="229.202"/>
+    </W>
+    <W id="M28_Vocabulary_S066">
+        <FORM>qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">trou</TRANSL>
+        <TRANSL xml:lang="zh">洞</TRANSL>
+        <TRANSL xml:lang="en">hole</TRANSL>
+        <AUDIO start="243.822" end="244.397"/>
+    </W>
+    <W id="M28_Vocabulary_S067">
+        <FORM>qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">trou</TRANSL>
+        <TRANSL xml:lang="zh">洞</TRANSL>
+        <TRANSL xml:lang="en">hole</TRANSL>
+        <AUDIO start="283.55" end="284.055"/>
+    </W>
+    <W id="M28_Vocabulary_S068">
+        <FORM>qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">trou</TRANSL>
+        <TRANSL xml:lang="zh">洞</TRANSL>
+        <TRANSL xml:lang="en">hole</TRANSL>
+        <AUDIO start="286.145" end="286.702"/>
+    </W>
+    <W id="M28_Vocabulary_S069">
+        <FORM>qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">trou</TRANSL>
+        <TRANSL xml:lang="zh">洞</TRANSL>
+        <TRANSL xml:lang="en">hole</TRANSL>
+        <AUDIO start="287.28" end="287.648"/>
+    </W>
+    <W id="M28_Vocabulary_S070">
+        <FORM>qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">trou</TRANSL>
+        <TRANSL xml:lang="zh">洞</TRANSL>
+        <TRANSL xml:lang="en">hole</TRANSL>
+        <AUDIO start="290.203" end="290.69"/>
+    </W>
+    <W id="M28_Vocabulary_S071">
+        <FORM>to˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">crevasse</TRANSL>
+        <TRANSL xml:lang="zh">小山洞（难进去，或人都不能进去）</TRANSL>
+        <TRANSL xml:lang="en">crevice, small cavern (difficult to enter, or too small for a person to enter)</TRANSL>
+        <AUDIO start="245.413" end="246.597"/>
+    </W>
+    <W id="M28_Vocabulary_S072">
+        <FORM>to˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">crevasse</TRANSL>
+        <TRANSL xml:lang="zh">小山洞（难进去，或人都不能进去）</TRANSL>
+        <TRANSL xml:lang="en">crevice, small cavern (difficult to enter, or too small for a person to enter)</TRANSL>
+        <AUDIO start="248.06" end="248.501"/>
+    </W>
+    <W id="M28_Vocabulary_S073">
+        <FORM>sɯ˧ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">forêt (clairsemée)</TRANSL>
+        <TRANSL xml:lang="zh">森林</TRANSL>
+        <TRANSL xml:lang="en">forest</TRANSL>
+        <AUDIO start="253.288" end="253.987"/>
+    </W>
+    <W id="M28_Vocabulary_S074">
+        <FORM>sɯ˧ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">forêt (clairsemée)</TRANSL>
+        <TRANSL xml:lang="zh">森林</TRANSL>
+        <TRANSL xml:lang="en">forest</TRANSL>
+        <AUDIO start="254.703" end="255.485"/>
+    </W>
+    <W id="M28_Vocabulary_S075">
+        <FORM>sɯ˧ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">forêt (clairsemée)</TRANSL>
+        <TRANSL xml:lang="zh">森林</TRANSL>
+        <TRANSL xml:lang="en">forest</TRANSL>
+        <AUDIO start="257.332" end="258.88"/>
+    </W>
+    <W id="M28_Vocabulary_S076">
+        <FORM>sɯ˧nɑ˥</FORM>
+        <TRANSL xml:lang="fr">forêt épaisse</TRANSL>
+        <TRANSL xml:lang="zh">深的森林（难走路）</TRANSL>
+        <TRANSL xml:lang="en">deep forest</TRANSL>
+        <AUDIO start="262.468" end="263.077"/>
+    </W>
+    <W id="M28_Vocabulary_S077">
+        <FORM>sɯ˧nɑ˥</FORM>
+        <NOTE xml:lang="en" message="Hypo-articulated rendering."/>
+        <TRANSL xml:lang="fr">forêt épaisse</TRANSL>
+        <TRANSL xml:lang="zh">深的森林（难走路）</TRANSL>
+        <TRANSL xml:lang="en">deep forest</TRANSL>
+        <AUDIO start="266.536" end="267.009"/>
+    </W>
+    <W id="M28_Vocabulary_S078">
+        <FORM>ɳɖʐɯ˩nɑ˩mi˩ʁo˧</FORM>
+        <TRANSL xml:lang="fr">forêt primaire de la montagne</TRANSL>
+        <TRANSL xml:lang="zh">深山老林</TRANSL>
+        <TRANSL xml:lang="en">remote, thickly forested mountains</TRANSL>
+        <AUDIO start="267.337" end="268.003"/>
+    </W>
+    <W id="M28_Vocabulary_S079">
+        <FORM>qʰə˞˧ɳɖʐv̩˥</FORM>
+        <TRANSL xml:lang="fr">trou, cavité (ex.: trou de souris)</TRANSL>
+        <TRANSL xml:lang="zh">窟窿</TRANSL>
+        <TRANSL xml:lang="en">hole, cavity (eg mouse hole)</TRANSL>
+        <AUDIO start="276.161" end="278.241"/>
+    </W>
+    <W id="M28_Vocabulary_S080">
+        <FORM>qʰə˞˧ɳɖʐv̩˥</FORM>
+        <TRANSL xml:lang="fr">trou, cavité (ex.: trou de souris)</TRANSL>
+        <TRANSL xml:lang="zh">窟窿</TRANSL>
+        <TRANSL xml:lang="en">hole, cavity (eg mouse hole)</TRANSL>
+        <AUDIO start="280.037" end="280.52"/>
+    </W>
+    <W id="M28_Vocabulary_S081">
+        <FORM>gɯ˧ɖʐɯ˧; gɯ˧.</FORM>
+        <TRANSL xml:lang="fr">le fleuve Yangtze; par extension: grande rivière</TRANSL>
+        <TRANSL xml:lang="zh">金沙江，大河</TRANSL>
+        <TRANSL xml:lang="en">the Yangtze river; by extension: any large river</TRANSL>
+        <AUDIO start="296.447" end="298.82"/>
+    </W>
+    <W id="M28_Vocabulary_S082">
+        <FORM>gɯ˧ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">le fleuve Yangtze; par extension: grande rivière</TRANSL>
+        <TRANSL xml:lang="zh">金沙江，大河</TRANSL>
+        <TRANSL xml:lang="en">the Yangtze river; by extension: any large river</TRANSL>
+        <AUDIO start="302.719" end="303.554"/>
+    </W>
+    <W id="M28_Vocabulary_S083">
+        <FORM>gɯ˧ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">le fleuve Yangtze; par extension: grande rivière</TRANSL>
+        <TRANSL xml:lang="zh">金沙江，大河</TRANSL>
+        <TRANSL xml:lang="en">the Yangtze river; by extension: any large river</TRANSL>
+        <AUDIO start="305.104" end="305.801"/>
+    </W>
+    <W id="M28_Vocabulary_S084">
+        <FORM>bɤ˧-ʈʂʰæ˧-ɖʐɯ˩</FORM>
+        <TRANSL xml:lang="fr">ruisseau (littéralement "l'eau où se lavent les Pumi"; ceux-ci habitent en amont)</TRANSL>
+        <TRANSL xml:lang="zh">溪流</TRANSL>
+        <TRANSL xml:lang="en">brook, rivulet (literally "the washing-water of the Pumi", who live upstream)</TRANSL>
+        <AUDIO start="316.285" end="317.33"/>
+    </W>
+    <W id="M28_Vocabulary_S085">
+        <FORM>bɤ˧-ʈʂʰæ˧[-ɖʐɯ˩]</FORM>
+        <TRANSL xml:lang="fr">ruisseau (littéralement "l'eau où se lavent les Pumi"; ceux-ci habitent en amont)</TRANSL>
+        <TRANSL xml:lang="zh">溪流</TRANSL>
+        <TRANSL xml:lang="en">brook, rivulet (literally "the washing-water of the Pumi", who live upstream)</TRANSL>
+        <AUDIO start="318.61" end="319.367"/>
+    </W>
+    <W id="M28_Vocabulary_S086">
+        <FORM>[bɤ˧-ʈʂʰæ˧-]ɖʐɯ˩</FORM>
+        <TRANSL xml:lang="fr">ruisseau (littéralement "l'eau où se lavent les Pumi"; ceux-ci habitent en amont)</TRANSL>
+        <TRANSL xml:lang="zh">溪流</TRANSL>
+        <TRANSL xml:lang="en">brook, rivulet (literally "the washing-water of the Pumi", who live upstream)</TRANSL>
+        <AUDIO start="323.782" end="324.209"/>
+    </W>
+    <W id="M28_Vocabulary_S087">
+        <FORM>hɯ˧</FORM>
+        <TRANSL xml:lang="fr">lac (monosyllabe)	</TRANSL>
+        <TRANSL xml:lang="zh">湖（单音节）</TRANSL>
+        <TRANSL xml:lang="en">lake (monosyllabic word)</TRANSL>
+        <AUDIO start="375.784" end="376.252"/>
+    </W>
+    <W id="M28_Vocabulary_S088">
+        <FORM>hɯ˧nɑ˩mi˥</FORM>
+        <TRANSL xml:lang="fr">lac</TRANSL>
+        <TRANSL xml:lang="zh">湖</TRANSL>
+        <TRANSL xml:lang="en">lake</TRANSL>
+        <AUDIO start="376.252" end="376.941"/>
+    </W>
+    <W id="M28_Vocabulary_S089">
+        <FORM>hɯ˧nɑ˩mi˥</FORM>
+        <NOTE xml:lang="en" message="Hypo-articulated token."/>
+        <TRANSL xml:lang="fr">lac</TRANSL>
+        <TRANSL xml:lang="zh">湖</TRANSL>
+        <TRANSL xml:lang="en">lake</TRANSL>
+        <AUDIO start="388.913" end="389.409"/>
+    </W>
+    <W id="M28_Vocabulary_S090">
+        <FORM>ɖʐɯ˧kʰɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">bord de l'eau</TRANSL>
+        <TRANSL xml:lang="zh">水边</TRANSL>
+        <TRANSL xml:lang="en">water's edge</TRANSL>
+        <AUDIO start="391.998" end="395.753"/>
+    </W>
+    <W id="M28_Vocabulary_S091">
+        <FORM>ɖʐɯ˧kʰɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">bord de l'eau</TRANSL>
+        <TRANSL xml:lang="zh">水边</TRANSL>
+        <TRANSL xml:lang="en">water's edge</TRANSL>
+        <AUDIO start="405.514" end="406.582"/>
+    </W>
+    <W id="M28_Vocabulary_S092">
+        <FORM>ɖʐɯ˧kʰɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">bord de l'eau</TRANSL>
+        <TRANSL xml:lang="zh">水边</TRANSL>
+        <TRANSL xml:lang="en">water's edge</TRANSL>
+        <AUDIO start="411.342" end="412.085"/>
+    </W>
+    <W id="M28_Vocabulary_S093">
+        <FORM>[ɖʐɯ˧]kʰɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">bord de l'eau</TRANSL>
+        <TRANSL xml:lang="zh">水边</TRANSL>
+        <TRANSL xml:lang="en">water's edge</TRANSL>
+        <AUDIO start="407.283" end="407.775"/>
+    </W>
+    <W id="M28_Vocabulary_S094">
+        <FORM>ɳɖwæ˥</FORM>
+        <TRANSL xml:lang="fr">réserve d'eau, mare (artificielle)</TRANSL>
+        <TRANSL xml:lang="zh">池塘</TRANSL>
+        <TRANSL xml:lang="en">pond, pool (artificial)</TRANSL>
+        <AUDIO start="419.071" end="419.925"/>
+    </W>
+    <W id="M28_Vocabulary_S095">
+        <FORM>ɳɖwæ˥</FORM>
+        <TRANSL xml:lang="fr">réserve d'eau, mare (artificielle)</TRANSL>
+        <TRANSL xml:lang="zh">池塘</TRANSL>
+        <TRANSL xml:lang="en">pond, pool (artificial)</TRANSL>
+        <AUDIO start="421.998" end="423.39"/>
+    </W>
+    <W id="M28_Vocabulary_S096">
+        <FORM>qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">canal (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">水沟（单音节）</TRANSL>
+        <TRANSL xml:lang="en">trench (monosyllable)</TRANSL>
+        <AUDIO start="424.731" end="425.236"/>
+    </W>
+    <W id="M28_Vocabulary_S097">
+        <FORM>qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">canal (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">水沟（单音节）</TRANSL>
+        <TRANSL xml:lang="en">trench (monosyllable)</TRANSL>
+        <AUDIO start="429.52" end="429.955"/>
+    </W>
+    <W id="M28_Vocabulary_S098">
+        <FORM>qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">canal (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">水沟（单音节）</TRANSL>
+        <TRANSL xml:lang="en">trench (monosyllable)</TRANSL>
+        <AUDIO start="431.087" end="431.418"/>
+    </W>
+    <W id="M28_Vocabulary_S099">
+        <FORM>qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">canal (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">水沟（单音节）</TRANSL>
+        <TRANSL xml:lang="en">trench (monosyllable)</TRANSL>
+        <AUDIO start="432.603" end="433.003"/>
+    </W>
+    <W id="M28_Vocabulary_S100">
+        <FORM>qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">canal (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">水沟（单音节）</TRANSL>
+        <TRANSL xml:lang="en">trench (monosyllable)</TRANSL>
+        <AUDIO start="435.18" end="435.528"/>
+    </W>
+    <W id="M28_Vocabulary_S101">
+        <FORM>qʰæ˥kʰwɤ˥</FORM>
+        <TRANSL xml:lang="fr">petite rigole, petit canal</TRANSL>
+        <TRANSL xml:lang="zh">小沟</TRANSL>
+        <TRANSL xml:lang="en">small gulley, small trench</TRANSL>
+        <AUDIO start="438.149" end="439.074"/>
+    </W>
+    <W id="M28_Vocabulary_S102">
+        <FORM>qʰæ˥kʰwɤ˥</FORM>
+        <TRANSL xml:lang="fr">petite rigole, petit canal</TRANSL>
+        <TRANSL xml:lang="zh">小沟</TRANSL>
+        <TRANSL xml:lang="en">small gulley, small trench</TRANSL>
+        <AUDIO start="440.135" end="440.796"/>
+    </W>
+    <W id="M28_Vocabulary_S103">
+        <FORM>mbo˧</FORM>
+        <TRANSL xml:lang="fr">diguette en bord de champ, sur laquelle on peut marcher</TRANSL>
+        <TRANSL xml:lang="zh">田埂、小堤坝</TRANSL>
+        <TRANSL xml:lang="en">small dike at the edge of a field; one can walk on it</TRANSL>
+        <AUDIO start="447.748" end="448.086"/>
+    </W>
+    <W id="M28_Vocabulary_S104">
+        <FORM>jɤ˧mi˩˥</FORM>
+        <TRANSL xml:lang="fr">route</TRANSL>
+        <TRANSL xml:lang="zh">路</TRANSL>
+        <TRANSL xml:lang="en">road</TRANSL>
+        <AUDIO start="450.539" end="451.026"/>
+    </W>
+    <W id="M28_Vocabulary_S105">
+        <FORM>jɤ˧mi˩˥</FORM>
+        <TRANSL xml:lang="fr">route</TRANSL>
+        <TRANSL xml:lang="zh">路</TRANSL>
+        <TRANSL xml:lang="en">road</TRANSL>
+        <AUDIO start="455.419" end="456.144"/>
+    </W>
+    <W id="M28_Vocabulary_S106">
+        <FORM>jɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">route, chemin (monosyllabe)</TRANSL>
+        <TRANSL xml:lang="zh">路（单音节）</TRANSL>
+        <TRANSL xml:lang="en">road (monosyllable)</TRANSL>
+        <AUDIO start="460.515" end="461.076"/>
+    </W>
+    <W id="M28_Vocabulary_S107">
+        <FORM>jɤ˩tsɯ˥</FORM>
+        <TRANSL xml:lang="fr">raccourci</TRANSL>
+        <TRANSL xml:lang="zh">径道</TRANSL>
+        <TRANSL xml:lang="en">shortcut, short path</TRANSL>
+        <AUDIO start="466.473" end="467.086"/>
+    </W>
+    <W id="M28_Vocabulary_S108">
+        <FORM>jɤ˩tsɯ˥</FORM>
+        <TRANSL xml:lang="fr">raccourci</TRANSL>
+        <TRANSL xml:lang="zh">径道</TRANSL>
+        <TRANSL xml:lang="en">shortcut, short path</TRANSL>
+        <AUDIO start="468.668" end="469.443"/>
+    </W>
+    <W id="M28_Vocabulary_S109">
+        <FORM>jɤ˩tsɯ˥</FORM>
+        <TRANSL xml:lang="fr">raccourci</TRANSL>
+        <TRANSL xml:lang="zh">径道</TRANSL>
+        <TRANSL xml:lang="en">shortcut, short path</TRANSL>
+        <AUDIO start="483.314" end="485.482"/>
+    </W>
+    <W id="M28_Vocabulary_S110">
+        <FORM>jɤ˩tsɯ˥</FORM>
+        <TRANSL xml:lang="fr">raccourci</TRANSL>
+        <TRANSL xml:lang="zh">径道</TRANSL>
+        <TRANSL xml:lang="en">shortcut, short path</TRANSL>
+        <AUDIO start="488.574" end="489.331"/>
+    </W>
+    <W id="M28_Vocabulary_S111">
+        <FORM>qwæ˧lo˧˥</FORM>
+        <TRANSL xml:lang="fr">chemin de derrière</TRANSL>
+        <TRANSL xml:lang="zh">后路</TRANSL>
+        <TRANSL xml:lang="en">back passage</TRANSL>
+        <AUDIO start="502.207" end="509.382"/>
+    </W>
+    <W id="M28_Vocabulary_S112">
+        <FORM>qwæ˧lo˧˥</FORM>
+        <TRANSL xml:lang="fr">chemin de derrière</TRANSL>
+        <TRANSL xml:lang="zh">后路</TRANSL>
+        <TRANSL xml:lang="en">back passage</TRANSL>
+        <AUDIO start="511.649" end="512.415"/>
+    </W>
+    <W id="M28_Vocabulary_S113">
+        <FORM>qwæ˧lo˧˥</FORM>
+        <TRANSL xml:lang="fr">chemin de derrière</TRANSL>
+        <TRANSL xml:lang="zh">后路</TRANSL>
+        <TRANSL xml:lang="en">back passage</TRANSL>
+        <AUDIO start="515.863" end="516.513"/>
+    </W>
+    <W id="M28_Vocabulary_S114">
+        <FORM>di˧</FORM>
+        <TRANSL xml:lang="fr">terre (le ciel et la terre)</TRANSL>
+        <TRANSL xml:lang="zh">地（天地的地）</TRANSL>
+        <TRANSL xml:lang="en">earth (as in: the sky and the earth)</TRANSL>
+        <AUDIO start="533.69" end="534.439"/>
+    </W>
+    <W id="M28_Vocabulary_S115">
+        <FORM>hæ̃˧ʈv̩˧</FORM>
+        <TRANSL xml:lang="fr">aire où l'on bat les céréales</TRANSL>
+        <TRANSL xml:lang="zh">打场</TRANSL>
+        <TRANSL xml:lang="en">area for threshing cereals</TRANSL>
+        <AUDIO start="556.921" end="557.489"/>
+    </W>
+    <W id="M28_Vocabulary_S116">
+        <FORM>hæ̃˧ʈv̩˧</FORM>
+        <TRANSL xml:lang="fr">aire où l'on bat les céréales</TRANSL>
+        <TRANSL xml:lang="zh">打场</TRANSL>
+        <TRANSL xml:lang="en">area for threshing cereals</TRANSL>
+        <AUDIO start="558.361" end="559.151"/>
+    </W>
+    <W id="M28_Vocabulary_S117">
+        <FORM>hæ̃˧ʈv̩˧</FORM>
+        <TRANSL xml:lang="fr">aire où l'on bat les céréales</TRANSL>
+        <TRANSL xml:lang="zh">打场</TRANSL>
+        <TRANSL xml:lang="en">area for threshing cereals</TRANSL>
+        <AUDIO start="560.548" end="562.811"/>
+    </W>
+    <W id="M28_Vocabulary_S118">
+        <FORM>hæ̃˧ʈv̩˧</FORM>
+        <TRANSL xml:lang="fr">aire où l'on bat les céréales</TRANSL>
+        <TRANSL xml:lang="zh">打场</TRANSL>
+        <TRANSL xml:lang="en">area for threshing cereals</TRANSL>
+        <AUDIO start="564.762" end="565.615"/>
+    </W>
+    <W id="M28_Vocabulary_S119">
+        <FORM>hæ̃˧ʈv̩˧</FORM>
+        <TRANSL xml:lang="fr">aire où l'on bat les céréales</TRANSL>
+        <TRANSL xml:lang="zh">打场</TRANSL>
+        <TRANSL xml:lang="en">area for threshing cereals</TRANSL>
+        <AUDIO start="566.564" end="567.104"/>
+    </W>
+    <W id="M28_Vocabulary_S120">
+        <FORM>lv̩˧... lv̩˧-qo˧!</FORM>
+        <TRANSL xml:lang="fr">champ; dans les champs</TRANSL>
+        <TRANSL xml:lang="zh">田，在田地</TRANSL>
+        <TRANSL xml:lang="en">field; in the fields</TRANSL>
+        <AUDIO start="574.995" end="576.552"/>
+    </W>
+    <W id="M28_Vocabulary_S121">
+        <FORM>ʂɯ˧lv̩˧</FORM>
+        <NOTE xml:lang="en" message="ʂɯ˧: rice"/>
+        <TRANSL xml:lang="fr">champs de riz</TRANSL>
+        <TRANSL xml:lang="zh">水田</TRANSL>
+        <TRANSL xml:lang="en">paddy field</TRANSL>
+        <AUDIO start="585.311" end="588.147"/>
+    </W>
+    <W id="M28_Vocabulary_S122">
+        <FORM>ʂɯ˧lv̩˧</FORM>
+        <NOTE xml:lang="en" message="ʂɯ˧: rice"/>
+        <TRANSL xml:lang="fr">champs de riz</TRANSL>
+        <TRANSL xml:lang="zh">水田</TRANSL>
+        <TRANSL xml:lang="en">paddy field</TRANSL>
+        <AUDIO start="589.594" end="590.049"/>
+    </W>
+    <W id="M28_Vocabulary_S123">
+        <FORM>pə˞˧lv̩˧</FORM>
+        <TRANSL xml:lang="fr">champ sec/pluvial</TRANSL>
+        <TRANSL xml:lang="zh">旱地</TRANSL>
+        <TRANSL xml:lang="en">nonirrigated farmland; dry land</TRANSL>
+        <AUDIO start="605.083" end="608.291"/>
+    </W>
+    <W id="M28_Vocabulary_S124">
+        <FORM>pə˞˧lv̩˧</FORM>
+        <TRANSL xml:lang="fr">champ sec/pluvial</TRANSL>
+        <TRANSL xml:lang="zh">旱地</TRANSL>
+        <TRANSL xml:lang="en">nonirrigated farmland; dry land</TRANSL>
+        <AUDIO start="617.56" end="617.987"/>
+    </W>
+    <W id="M28_Vocabulary_S125">
+        <FORM>pə˞˧lv̩˧</FORM>
+        <TRANSL xml:lang="fr">champ sec/pluvial</TRANSL>
+        <TRANSL xml:lang="zh">旱地</TRANSL>
+        <TRANSL xml:lang="en">nonirrigated farmland; dry land</TRANSL>
+        <AUDIO start="623.411" end="623.796"/>
+    </W>
+    <W id="M28_Vocabulary_S126">
+        <FORM>pə˞˧lv̩˧</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, separating successive syllables"/>
+        <TRANSL xml:lang="fr">champ sec/pluvial</TRANSL>
+        <TRANSL xml:lang="zh">旱地</TRANSL>
+        <TRANSL xml:lang="en">nonirrigated farmland; dry land</TRANSL>
+        <AUDIO start="615.616" end="616.637"/>
+    </W>
+    <W id="M28_Vocabulary_S127">
+        <FORM>pə˞˧[lv̩˧]</FORM>
+        <TRANSL xml:lang="fr">sec (1e syllabe de "champ sec/pluvial")</TRANSL>
+        <TRANSL xml:lang="zh">干（“旱地”的第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">dry (1st syllable of "nonirrigated farmland; dry land")</TRANSL>
+        <AUDIO start="608.441" end="608.945"/>
+    </W>
+    <W id="M28_Vocabulary_S128">
+        <FORM>pə˞˧[lv̩˧]</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the rhyme: /ə˞/ and not /*v/"/>
+        <TRANSL xml:lang="fr">sec (1e syllabe de "champ sec/pluvial")</TRANSL>
+        <TRANSL xml:lang="zh">干（“旱地”的第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">dry (1st syllable of "nonirrigated farmland; dry land")</TRANSL>
+        <AUDIO start="611.28" end="611.822"/>
+    </W>
+    <W id="M28_Vocabulary_S129">
+        <FORM>pə˞˧[lv̩˧]</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the rhyme: /ə˞/ and not /*v/"/>
+        <TRANSL xml:lang="fr">sec (1e syllabe de "champ sec/pluvial")</TRANSL>
+        <TRANSL xml:lang="zh">干（“旱地”的第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">dry (1st syllable of "nonirrigated farmland; dry land")</TRANSL>
+        <AUDIO start="612.77" end="613.259"/>
+    </W>
+    <W id="M28_Vocabulary_S130">
+        <FORM>pə˞˧[lv̩˧]</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the rhyme: /ə˞/ and not /*v/"/>
+        <TRANSL xml:lang="fr">sec (1e syllabe de "champ sec/pluvial")</TRANSL>
+        <TRANSL xml:lang="zh">干（“旱地”的第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">dry (1st syllable of "nonirrigated farmland; dry land")</TRANSL>
+        <AUDIO start="620.877" end="621.184"/>
+    </W>
+    <W id="M28_Vocabulary_S131">
+        <FORM>pə˞˧[lv̩˧]</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated realization, bringing out the rhyme: /ə˞/ and not /*v/"/>
+        <TRANSL xml:lang="fr">sec (1e syllabe de "champ sec/pluvial")</TRANSL>
+        <TRANSL xml:lang="zh">干（“旱地”的第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">dry (1st syllable of "nonirrigated farmland; dry land")</TRANSL>
+        <AUDIO start="622.675" end="622.971"/>
+    </W>
+    <W id="M28_Vocabulary_S132">
+        <FORM>lv̩˧mi˧</FORM>
+        <TRANSL xml:lang="fr">pierre</TRANSL>
+        <TRANSL xml:lang="zh">石头</TRANSL>
+        <TRANSL xml:lang="en">stone</TRANSL>
+        <AUDIO start="628.681" end="629.329"/>
+    </W>
+    <W id="M28_Vocabulary_S133">
+        <FORM>tɕi˧mi˧˥</FORM>
+        <TRANSL xml:lang="fr">sable (par ex. celui des rives du Yangtze)</TRANSL>
+        <TRANSL xml:lang="zh">沙子（如：金沙江边的沙子）</TRANSL>
+        <TRANSL xml:lang="en">fine sand (e.g. that found on the banks of the Yangtze)</TRANSL>
+        <AUDIO start="632.034" end="633.396"/>
+    </W>
+    <W id="M28_Vocabulary_S134">
+        <FORM>tɕi˧mi˧˥</FORM>
+        <TRANSL xml:lang="fr">sable (par ex. celui des rives du Yangtze)</TRANSL>
+        <TRANSL xml:lang="zh">沙子（如：金沙江边的沙子）</TRANSL>
+        <TRANSL xml:lang="en">fine sand (e.g. that found on the banks of the Yangtze)</TRANSL>
+        <AUDIO start="634.935" end="637.117"/>
+    </W>
+    <W id="M28_Vocabulary_S135">
+        <FORM>tɕi˧mi˧˥</FORM>
+        <TRANSL xml:lang="fr">sable (par ex. celui des rives du Yangtze)</TRANSL>
+        <TRANSL xml:lang="zh">沙子（如：金沙江边的沙子）</TRANSL>
+        <TRANSL xml:lang="en">fine sand (e.g. that found on the banks of the Yangtze)</TRANSL>
+        <AUDIO start="639.491" end="640.281"/>
+    </W>
+    <W id="M28_Vocabulary_S136">
+        <FORM>tɕi˧mi˧˥</FORM>
+        <NOTE xml:lang="en" message="Hypoarticulated token."/>
+        <TRANSL xml:lang="fr">sable (par ex. celui des rives du Yangtze)</TRANSL>
+        <TRANSL xml:lang="zh">沙子（如：金沙江边的沙子）</TRANSL>
+        <TRANSL xml:lang="en">fine sand (e.g. that found on the banks of the Yangtze)</TRANSL>
+        <AUDIO start="634.069" end="634.47"/>
+    </W>
+    <W id="M28_Vocabulary_S137">
+        <FORM>tsɑ˧mbɤ˧</FORM>
+        <TRANSL xml:lang="fr">poudre</TRANSL>
+        <TRANSL xml:lang="zh">粉, 粉末</TRANSL>
+        <TRANSL xml:lang="en">powder</TRANSL>
+        <AUDIO start="644.837" end="645.348"/>
+    </W>
+    <W id="M28_Vocabulary_S138">
+        <FORM>tsɑ˧mbɤ˧</FORM>
+        <NOTE xml:lang="en" message="In this token, the vowel of the second syllable is hyperarticulated."/>
+        <TRANSL xml:lang="fr">poudre</TRANSL>
+        <TRANSL xml:lang="zh">粉, 粉末</TRANSL>
+        <TRANSL xml:lang="en">powder</TRANSL>
+        <AUDIO start="650.559" end="651.42"/>
+    </W>
+    <W id="M28_Vocabulary_S139">
+        <FORM>[tsɑ˧]mbɤ˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the vowel."/>
+        <TRANSL xml:lang="fr">poudre</TRANSL>
+        <TRANSL xml:lang="zh">粉, 粉末</TRANSL>
+        <TRANSL xml:lang="en">powder</TRANSL>
+        <AUDIO start="651.42" end="652.256"/>
+    </W>
+    <W id="M28_Vocabulary_S140">
+        <FORM>[tsɑ˧]mbɤ˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the vowel."/>
+        <TRANSL xml:lang="fr">poudre</TRANSL>
+        <TRANSL xml:lang="zh">粉, 粉末</TRANSL>
+        <TRANSL xml:lang="en">powder</TRANSL>
+        <AUDIO start="652.849" end="653.418"/>
+    </W>
+    <W id="M28_Vocabulary_S141">
+        <FORM>[tsɑ˧]mbɤ˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the vowel."/>
+        <TRANSL xml:lang="fr">poudre</TRANSL>
+        <TRANSL xml:lang="zh">粉, 粉末</TRANSL>
+        <TRANSL xml:lang="en">powder</TRANSL>
+        <AUDIO start="655.263" end="655.716"/>
+    </W>
+    <W id="M28_Vocabulary_S142">
+        <FORM>tɕi˥</FORM>
+        <TRANSL xml:lang="fr">terre</TRANSL>
+        <TRANSL xml:lang="zh">土</TRANSL>
+        <TRANSL xml:lang="en">earth</TRANSL>
+        <AUDIO start="658.537" end="660.894"/>
+    </W>
+    <W id="M28_Vocabulary_S143">
+        <FORM>tɕi˥hṽ˧˥</FORM>
+        <TRANSL xml:lang="fr">terre rouge, argile rouge, latérite (utilisée pour faire des murs)</TRANSL>
+        <TRANSL xml:lang="zh">红土</TRANSL>
+        <TRANSL xml:lang="en">red soil, clay</TRANSL>
+        <AUDIO start="663.048" end="663.814"/>
+    </W>
+    <W id="M28_Vocabulary_S144">
+        <FORM>tɕi˥hṽ˧˥</FORM>
+        <TRANSL xml:lang="fr">terre rouge, argile rouge, latérite (utilisée pour faire des murs)</TRANSL>
+        <TRANSL xml:lang="zh">红土</TRANSL>
+        <TRANSL xml:lang="en">red soil, clay</TRANSL>
+        <AUDIO start="665.851" end="669.421"/>
+    </W>
+    <W id="M28_Vocabulary_S145">
+        <FORM>tɕi˥hṽ˧˥</FORM>
+        <TRANSL xml:lang="fr">terre rouge, argile rouge, latérite (utilisée pour faire des murs)</TRANSL>
+        <TRANSL xml:lang="zh">红土</TRANSL>
+        <TRANSL xml:lang="en">red soil, clay</TRANSL>
+        <AUDIO start="674.89" end="675.587"/>
+    </W>
+    <W id="M28_Vocabulary_S146">
+        <FORM>tɕi˥pʰə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">terre blanche (qu'on réduit en poudre pour peindre un mur, ou servir de fondation à une maison ; on peut la cuire pour faire de la chaux)</TRANSL>
+        <TRANSL xml:lang="zh">白土</TRANSL>
+        <TRANSL xml:lang="en">white clay, China clay</TRANSL>
+        <AUDIO start="676.77" end="678.773"/>
+    </W>
+    <W id="M28_Vocabulary_S147">
+        <FORM>tɕi˥pʰə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">terre blanche (qu'on réduit en poudre pour peindre un mur, ou servir de fondation à une maison ; on peut la cuire pour faire de la chaux)</TRANSL>
+        <TRANSL xml:lang="zh">白土</TRANSL>
+        <TRANSL xml:lang="en">white clay, China clay</TRANSL>
+        <AUDIO start="680.323" end="681.001"/>
+    </W>
+    <W id="M28_Vocabulary_S148">
+        <FORM>tɕi˥pə˞˥</FORM>
+        <TRANSL xml:lang="fr">terre sèche</TRANSL>
+        <TRANSL xml:lang="zh">干土</TRANSL>
+        <TRANSL xml:lang="en">dry earth</TRANSL>
+        <AUDIO start="690.128" end="691.155"/>
+    </W>
+    <W id="M28_Vocabulary_S149">
+        <FORM>tɕi˥pə˞˥</FORM>
+        <TRANSL xml:lang="fr">terre sèche</TRANSL>
+        <TRANSL xml:lang="zh">干土</TRANSL>
+        <TRANSL xml:lang="en">dry earth</TRANSL>
+        <AUDIO start="691.869" end="692.686"/>
+    </W>
+    <W id="M28_Vocabulary_S150">
+        <FORM>ʂwæ˩tɑ˩˧</FORM>
+        <NOTE xml:lang="en" message="The speaker suddenly remembers the word, and says it with great energy; this is reflected in changes in fundamental frequency: the second syllable's F0 is raised way above its usual level."/>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">尘土</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="694.379" end="694.944"/>
+    </W>
+    <W id="M28_Vocabulary_S151">
+        <FORM>ʂwæ˩tɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">尘土</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="695.403" end="698.742"/>
+    </W>
+    <W id="M28_Vocabulary_S152">
+        <FORM>ʂwæ˩tɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">尘土</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="701.76" end="702.434"/>
+    </W>
+    <W id="M28_Vocabulary_S153">
+        <FORM>ʂwæ˩tɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">尘土</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="705.558" end="706.133"/>
+    </W>
+    <W id="M28_Vocabulary_S154">
+        <FORM>ʂwæ˩[tɑ˩˧]</FORM>
+        <NOTE xml:lang="en" message="This realization brings out the vowel."/>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">尘土</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="701.146" end="701.76"/>
+    </W>
+    <W id="M28_Vocabulary_S155">
+        <FORM>qʰə˞˧ʂæ˧˥</FORM>
+        <TRANSL xml:lang="fr">saletés, crasse</TRANSL>
+        <TRANSL xml:lang="zh">污垢</TRANSL>
+        <TRANSL xml:lang="en">dirt, filth</TRANSL>
+        <AUDIO start="710.063" end="711.119"/>
+    </W>
+    <W id="M28_Vocabulary_S156">
+        <FORM>qʰə˞˧ʂæ˧˥</FORM>
+        <TRANSL xml:lang="fr">saletés, crasse</TRANSL>
+        <TRANSL xml:lang="zh">污垢</TRANSL>
+        <TRANSL xml:lang="en">dirt, filth</TRANSL>
+        <AUDIO start="713.046" end="716.193"/>
+    </W>
+    <W id="M28_Vocabulary_S157">
+        <FORM>ɖæ˩˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="718.583" end="719.134"/>
+    </W>
+    <W id="M28_Vocabulary_S158">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="721.735" end="722.567"/>
+    </W>
+    <W id="M28_Vocabulary_S159">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="724.297" end="727.953"/>
+    </W>
+    <W id="M28_Vocabulary_S160">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="731.158" end="731.803"/>
+    </W>
+    <W id="M28_Vocabulary_S161">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="734.589" end="735.442"/>
+    </W>
+    <W id="M28_Vocabulary_S162">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="737.845" end="738.354"/>
+    </W>
+    <W id="M28_Vocabulary_S163">
+        <FORM>ɖæ˩pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="743.748" end="744.629"/>
+    </W>
+    <W id="M28_Vocabulary_S164">
+        <FORM>[ɖæ˩]pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">poussière</TRANSL>
+        <TRANSL xml:lang="zh">灰尘</TRANSL>
+        <TRANSL xml:lang="en">dust</TRANSL>
+        <AUDIO start="730.096" end="730.74"/>
+    </W>
+    <W id="M28_Vocabulary_S165">
+        <FORM>ɳɖʐæ˧qʰæ˧</FORM>
+        <TRANSL xml:lang="fr">boue</TRANSL>
+        <TRANSL xml:lang="zh">泥巴</TRANSL>
+        <TRANSL xml:lang="en">mud</TRANSL>
+        <AUDIO start="751.51" end="754.76"/>
+    </W>
+    <W id="M28_Vocabulary_S166">
+        <FORM>ɖʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">eau</TRANSL>
+        <TRANSL xml:lang="zh">水</TRANSL>
+        <TRANSL xml:lang="en">water</TRANSL>
+        <AUDIO start="763.719" end="764.51"/>
+    </W>
+    <W id="M28_Vocabulary_S167">
+        <FORM>ə˞˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">source chaude</TRANSL>
+        <TRANSL xml:lang="zh">温泉</TRANSL>
+        <TRANSL xml:lang="en">warm springs</TRANSL>
+        <AUDIO start="767.382" end="770.912"/>
+    </W>
+    <W id="M28_Vocabulary_S168">
+        <FORM>ə˞˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">source chaude</TRANSL>
+        <TRANSL xml:lang="zh">温泉</TRANSL>
+        <TRANSL xml:lang="en">warm springs</TRANSL>
+        <AUDIO start="771.783" end="772.33"/>
+    </W>
+    <W id="M28_Vocabulary_S169">
+        <FORM>ə˞˧qʰə˞˧</FORM>
+        <NOTE xml:lang="en" message="Hypoarticulated token."/>
+        <TRANSL xml:lang="fr">source chaude</TRANSL>
+        <TRANSL xml:lang="zh">温泉</TRANSL>
+        <TRANSL xml:lang="en">warm springs</TRANSL>
+        <AUDIO start="774.766" end="775.335"/>
+    </W>
+    <W id="M28_Vocabulary_S170">
+        <FORM>hæ̃˥</FORM>
+        <TRANSL xml:lang="fr">or (métal)</TRANSL>
+        <TRANSL xml:lang="zh">金子</TRANSL>
+        <TRANSL xml:lang="en">gold</TRANSL>
+        <AUDIO start="777.775" end="780.259"/>
+    </W>
+    <W id="M28_Vocabulary_S171">
+        <FORM>hæ̃˥</FORM>
+        <TRANSL xml:lang="fr">or (métal)</TRANSL>
+        <TRANSL xml:lang="zh">金子</TRANSL>
+        <TRANSL xml:lang="en">gold</TRANSL>
+        <AUDIO start="791.22" end="791.709"/>
+    </W>
+    <W id="M28_Vocabulary_S172">
+        <FORM>hæ̃˥</FORM>
+        <TRANSL xml:lang="fr">or (métal)</TRANSL>
+        <TRANSL xml:lang="zh">金子</TRANSL>
+        <TRANSL xml:lang="en">gold</TRANSL>
+        <AUDIO start="793.276" end="793.705"/>
+    </W>
+    <W id="M28_Vocabulary_S173">
+        <FORM>hæ̃˥</FORM>
+        <TRANSL xml:lang="fr">or (métal)</TRANSL>
+        <TRANSL xml:lang="zh">金子</TRANSL>
+        <TRANSL xml:lang="en">gold</TRANSL>
+        <AUDIO start="796.875" end="797.363"/>
+    </W>
+    <W id="M28_Vocabulary_S174">
+        <FORM>ŋv̩˧</FORM>
+        <TRANSL xml:lang="fr">argent (métal)</TRANSL>
+        <TRANSL xml:lang="zh">银子</TRANSL>
+        <TRANSL xml:lang="en">silver</TRANSL>
+        <AUDIO start="783.155" end="783.668"/>
+    </W>
+    <W id="M28_Vocabulary_S175">
+        <FORM>æ̃˥</FORM>
+        <TRANSL xml:lang="fr">cuivre</TRANSL>
+        <TRANSL xml:lang="zh">黄铜</TRANSL>
+        <TRANSL xml:lang="en">brass</TRANSL>
+        <AUDIO start="785.431" end="785.97"/>
+    </W>
+    <W id="M28_Vocabulary_S176">
+        <FORM>æ̃˥</FORM>
+        <TRANSL xml:lang="fr">cuivre</TRANSL>
+        <TRANSL xml:lang="zh">黄铜</TRANSL>
+        <TRANSL xml:lang="en">brass</TRANSL>
+        <AUDIO start="787.656" end="788.039"/>
+    </W>
+    <W id="M28_Vocabulary_S177">
+        <FORM>æ̃˥</FORM>
+        <TRANSL xml:lang="fr">cuivre</TRANSL>
+        <TRANSL xml:lang="zh">黄铜</TRANSL>
+        <TRANSL xml:lang="en">brass</TRANSL>
+        <AUDIO start="789.799" end="790.053"/>
+    </W>
+    <W id="M28_Vocabulary_S178">
+        <FORM>æ̃˥</FORM>
+        <TRANSL xml:lang="fr">cuivre</TRANSL>
+        <TRANSL xml:lang="zh">黄铜</TRANSL>
+        <TRANSL xml:lang="en">brass</TRANSL>
+        <AUDIO start="796.033" end="796.259"/>
+    </W>
+    <W id="M28_Vocabulary_S179">
+        <FORM>æ̃˥</FORM>
+        <TRANSL xml:lang="fr">cuivre</TRANSL>
+        <TRANSL xml:lang="zh">黄铜</TRANSL>
+        <TRANSL xml:lang="en">brass</TRANSL>
+        <AUDIO start="797.655" end="798.001"/>
+    </W>
+    <W id="M28_Vocabulary_S180">
+        <FORM>ɕi˧</FORM>
+        <TRANSL xml:lang="fr">fer</TRANSL>
+        <TRANSL xml:lang="zh">铁</TRANSL>
+        <TRANSL xml:lang="en">iron</TRANSL>
+        <AUDIO start="799.859" end="800.834"/>
+    </W>
+    <W id="M28_Vocabulary_S181">
+        <FORM>hwɤ˧ndzv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="802.325" end="810.632"/>
+    </W>
+    <W id="M28_Vocabulary_S182">
+        <FORM>hwɤ˧ndzv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="813.396" end="813.866"/>
+    </W>
+    <W id="M28_Vocabulary_S183">
+        <FORM>hwɤ˧ndzv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="823.797" end="827.791"/>
+    </W>
+    <W id="M28_Vocabulary_S184">
+        <FORM>hwɤ˧ndzv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="839.442" end="840.347"/>
+    </W>
+    <W id="M28_Vocabulary_S185">
+        <FORM>[hwɤ˧]ndzv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="811.631" end="812.008"/>
+    </W>
+    <W id="M28_Vocabulary_S186">
+        <FORM>hwɤ˧[ndzv̩˩˧]</FORM>
+        <TRANSL xml:lang="fr">rouiller</TRANSL>
+        <TRANSL xml:lang="zh">生锈</TRANSL>
+        <TRANSL xml:lang="en">to rust</TRANSL>
+        <AUDIO start="830.612" end="831.33"/>
+    </W>
+    <W id="M28_Vocabulary_S187">
+        <FORM>hwɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">rouille</TRANSL>
+        <TRANSL xml:lang="zh">锈</TRANSL>
+        <TRANSL xml:lang="en">rust</TRANSL>
+        <AUDIO start="821.022" end="821.534"/>
+    </W>
+    <W id="M28_Vocabulary_S188">
+        <FORM>hɯ˧ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">charbon de bois</TRANSL>
+        <TRANSL xml:lang="zh">炭</TRANSL>
+        <TRANSL xml:lang="en">charcoal</TRANSL>
+        <AUDIO start="844.405" end="845.153"/>
+    </W>
+    <W id="M28_Vocabulary_S189">
+        <FORM>hɯ˧ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">charbon de bois</TRANSL>
+        <TRANSL xml:lang="zh">炭</TRANSL>
+        <TRANSL xml:lang="en">charcoal</TRANSL>
+        <AUDIO start="846.262" end="847.08"/>
+    </W>
+    <W id="M28_Vocabulary_S190">
+        <FORM>hɯ˧ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">charbon de bois</TRANSL>
+        <TRANSL xml:lang="zh">炭</TRANSL>
+        <TRANSL xml:lang="en">charcoal</TRANSL>
+        <AUDIO start="850.51" end="851.169"/>
+    </W>
+    <W id="M28_Vocabulary_S191">
+        <FORM>tsʰe˥</FORM>
+        <TRANSL xml:lang="fr">sel</TRANSL>
+        <TRANSL xml:lang="zh">盐</TRANSL>
+        <TRANSL xml:lang="en">salt</TRANSL>
+        <AUDIO start="852.549" end="852.984"/>
+    </W>
+    <W id="M28_Vocabulary_S192">
+        <FORM>lwɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">cendre végétale (légère, peut s'envoler)</TRANSL>
+        <TRANSL xml:lang="zh">草木灰</TRANSL>
+        <TRANSL xml:lang="en">plant ash</TRANSL>
+        <AUDIO start="856.469" end="856.859"/>
+    </W>
+    <W id="M28_Vocabulary_S193">
+        <FORM>lwɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">cendre végétale (légère, peut s'envoler)</TRANSL>
+        <TRANSL xml:lang="zh">草木灰</TRANSL>
+        <TRANSL xml:lang="en">plant ash</TRANSL>
+        <AUDIO start="860.474" end="861.413"/>
+    </W>
+    <W id="M28_Vocabulary_S194">
+        <FORM>lwɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">cendre végétale (légère, peut s'envoler)</TRANSL>
+        <TRANSL xml:lang="zh">草木灰</TRANSL>
+        <TRANSL xml:lang="en">plant ash</TRANSL>
+        <AUDIO start="863.521" end="864.304"/>
+    </W>
+    <W id="M28_Vocabulary_S195">
+        <FORM>lwɤ˩˧</FORM>
+        <TRANSL xml:lang="fr">cendre végétale (légère, peut s'envoler)</TRANSL>
+        <TRANSL xml:lang="zh">草木灰</TRANSL>
+        <TRANSL xml:lang="en">plant ash</TRANSL>
+        <AUDIO start="864.948" end="865.242"/>
+    </W>
+    <W id="M28_Vocabulary_S196">
+        <FORM>ɳɖæ˧mæ˥</FORM>
+        <NOTE xml:lang="en" message="This word is distinct from /ɖæ/ 'dust'."/>
+        <TRANSL xml:lang="fr">cendres (de charbon, scories...) (lourdes, ne volent pas au vent)</TRANSL>
+        <TRANSL xml:lang="zh">灰烬</TRANSL>
+        <TRANSL xml:lang="en">cinders, ashes</TRANSL>
+        <AUDIO start="868.002" end="871.506"/>
+    </W>
+    <W id="M28_Vocabulary_S197">
+        <FORM>ɳɖæ˧mæ˥</FORM>
+        <NOTE xml:lang="en" message="This word is distinct from /ɖæ/ 'dust'."/>
+        <TRANSL xml:lang="fr">cendres (de charbon, scories...) (lourdes, ne volent pas au vent)</TRANSL>
+        <TRANSL xml:lang="zh">灰烬</TRANSL>
+        <TRANSL xml:lang="en">cinders, ashes</TRANSL>
+        <AUDIO start="873.819" end="874.497"/>
+    </W>
+    <W id="M28_Vocabulary_S198">
+        <FORM>ʐɯ˩ŋgv̩˥</FORM>
+        <TRANSL xml:lang="fr">bateau; ex.: ceux qu'on trouve au lac Lugu</TRANSL>
+        <TRANSL xml:lang="zh">船</TRANSL>
+        <TRANSL xml:lang="en">boat</TRANSL>
+        <AUDIO start="879.99" end="880.522"/>
+    </W>
+    <W id="M28_Vocabulary_S199">
+        <FORM>ʐɯ˩[ŋgv̩˥]</FORM>
+        <TRANSL xml:lang="fr">bateau; ex.: ceux qu'on trouve au lac Lugu</TRANSL>
+        <TRANSL xml:lang="zh">船</TRANSL>
+        <TRANSL xml:lang="en">boat</TRANSL>
+        <AUDIO start="888.991" end="889.529"/>
+    </W>
+    <W id="M28_Vocabulary_S200">
+        <FORM>ndzo˧</FORM>
+        <TRANSL xml:lang="fr">pont</TRANSL>
+        <TRANSL xml:lang="zh">桥</TRANSL>
+        <TRANSL xml:lang="en">bridge</TRANSL>
+        <AUDIO start="915.444" end="917.558"/>
+    </W>
+    <W id="M28_Vocabulary_S201">
+        <FORM>ndzo˧</FORM>
+        <TRANSL xml:lang="fr">pont</TRANSL>
+        <TRANSL xml:lang="zh">桥</TRANSL>
+        <TRANSL xml:lang="en">bridge</TRANSL>
+        <AUDIO start="918.997" end="919.618"/>
+    </W>
+    <W id="M28_Vocabulary_S202">
+        <FORM>go˧bɤ˧</FORM>
+        <TRANSL xml:lang="fr">temple</TRANSL>
+        <TRANSL xml:lang="zh">庙</TRANSL>
+        <TRANSL xml:lang="en">temple</TRANSL>
+        <AUDIO start="927.105" end="927.761"/>
+    </W>
+    <W id="M28_Vocabulary_S203">
+        <FORM>tʰɑ˧pʰə˞˥</FORM>
+        <NOTE xml:lang="en" message="literally 'white tower'"/>
+        <NOTE xml:lang="en" message="The tone needs further checking: may be tʰɑ˧pʰə˞˧˥"/>
+        <TRANSL xml:lang="fr">pagode, stupa</TRANSL>
+        <TRANSL xml:lang="zh">塔</TRANSL>
+        <TRANSL xml:lang="en">pagoda, stupa, tower</TRANSL>
+        <AUDIO start="934.609" end="935.218"/>
+    </W>
+    <W id="M28_Vocabulary_S204">
+        <FORM>tʰɑ˧pʰə˞˥</FORM>
+        <NOTE xml:lang="en" message="literally 'white tower'"/>
+        <NOTE xml:lang="en" message="The tone needs further checking: may be tʰɑ˧pʰə˞˧˥"/>
+        <TRANSL xml:lang="fr">pagode, stupa</TRANSL>
+        <TRANSL xml:lang="zh">塔</TRANSL>
+        <TRANSL xml:lang="en">pagoda, stupa, tower</TRANSL>
+        <AUDIO start="936.341" end="937.109"/>
+    </W>
+    <W id="M28_Vocabulary_S205">
+        <FORM>tʰɑ˧pʰə˞˥</FORM>
+        <NOTE xml:lang="en" message="literally 'white tower'"/>
+        <NOTE xml:lang="en" message="The tone needs further checking: may be tʰɑ˧pʰə˞˧˥"/>
+        <TRANSL xml:lang="fr">pagode, stupa</TRANSL>
+        <TRANSL xml:lang="zh">塔</TRANSL>
+        <TRANSL xml:lang="en">pagoda, stupa, tower</TRANSL>
+        <AUDIO start="937.423" end="937.939"/>
+    </W>
+    <W id="M28_Vocabulary_S206">
+        <FORM>tʰɑ˧pʰə˞˥</FORM>
+        <NOTE xml:lang="en" message="literally 'white tower'"/>
+        <NOTE xml:lang="en" message="The tone needs further checking: may be tʰɑ˧pʰə˞˧˥"/>
+        <TRANSL xml:lang="fr">pagode, stupa</TRANSL>
+        <TRANSL xml:lang="zh">塔</TRANSL>
+        <TRANSL xml:lang="en">pagoda, stupa, tower</TRANSL>
+        <AUDIO start="944.85" end="945.375"/>
+    </W>
+    <W id="M28_Vocabulary_S207">
+        <FORM>so˧tʰɑ˧</FORM>
+        <TRANSL xml:lang="fr">autel</TRANSL>
+        <TRANSL xml:lang="zh">祭坛</TRANSL>
+        <TRANSL xml:lang="en">altar</TRANSL>
+        <AUDIO start="948.631" end="949.275"/>
+    </W>
+    <W id="M28_Vocabulary_S208">
+        <FORM>gv̩˧mv̩˧</FORM>
+        <TRANSL xml:lang="fr">corps</TRANSL>
+        <TRANSL xml:lang="zh">身体</TRANSL>
+        <TRANSL xml:lang="en">body</TRANSL>
+        <AUDIO start="954.5" end="957.025"/>
+    </W>
+    <W id="M28_Vocabulary_S209">
+        <FORM>gv̩˧mv̩˧</FORM>
+        <TRANSL xml:lang="fr">corps</TRANSL>
+        <TRANSL xml:lang="zh">身体</TRANSL>
+        <TRANSL xml:lang="en">body</TRANSL>
+        <AUDIO start="958.401" end="960.56"/>
+    </W>
+    <W id="M28_Vocabulary_S210">
+        <FORM>gv̩˧mv̩˧</FORM>
+        <TRANSL xml:lang="fr">corps</TRANSL>
+        <TRANSL xml:lang="zh">身体</TRANSL>
+        <TRANSL xml:lang="en">body</TRANSL>
+        <AUDIO start="963.347" end="963.991"/>
+    </W>
+    <W id="M28_Vocabulary_S211">
+        <FORM>gv̩˧[mv̩˧]</FORM>
+        <NOTE xml:lang="en" message="This token brings out the rhyme /v/ (and not /*u/)."/>
+        <TRANSL xml:lang="fr">corps</TRANSL>
+        <TRANSL xml:lang="zh">身体</TRANSL>
+        <TRANSL xml:lang="en">body</TRANSL>
+        <AUDIO start="961.949" end="962.528"/>
+    </W>
+    <W id="M28_Vocabulary_S212">
+        <FORM>ʁo˥</FORM>
+        <TRANSL xml:lang="fr">tête (monosyllabique)</TRANSL>
+        <TRANSL xml:lang="zh">头（单音节）</TRANSL>
+        <TRANSL xml:lang="en">head (monosyllable)</TRANSL>
+        <AUDIO start="965.437" end="966.011"/>
+    </W>
+    <W id="M28_Vocabulary_S213">
+        <FORM>ʁo˧lv̩˥</FORM>
+        <TRANSL xml:lang="fr">tête</TRANSL>
+        <TRANSL xml:lang="zh">头</TRANSL>
+        <TRANSL xml:lang="en">head</TRANSL>
+        <AUDIO start="969.154" end="969.955"/>
+    </W>
+    <W id="M28_Vocabulary_S214">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="977.606" end="979.313"/>
+    </W>
+    <W id="M28_Vocabulary_S215">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="981.042" end="981.607"/>
+    </W>
+    <W id="M28_Vocabulary_S216">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="988.763" end="989.227"/>
+    </W>
+    <W id="M28_Vocabulary_S217">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="992.385" end="992.739"/>
+    </W>
+    <W id="M28_Vocabulary_S218">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="993.915" end="994.456"/>
+    </W>
+    <W id="M28_Vocabulary_S219">
+        <FORM>hõ˧˥</FORM>
+        <TRANSL xml:lang="fr">cerveau, cervelle; même mot pour "moëlle (des os)"</TRANSL>
+        <TRANSL xml:lang="zh">脑子， 脑髓</TRANSL>
+        <TRANSL xml:lang="en">brains</TRANSL>
+        <AUDIO start="1921.304" end="1921.67"/>
+    </W>
+    <W id="M28_Vocabulary_S220">
+        <FORM>hṽ˥</FORM>
+        <TRANSL xml:lang="fr">poils</TRANSL>
+        <TRANSL xml:lang="zh">毛</TRANSL>
+        <TRANSL xml:lang="en">body hair</TRANSL>
+        <AUDIO start="1025.394" end="1025.739"/>
+    </W>
+    <W id="M28_Vocabulary_S221">
+        <FORM>hṽ˥</FORM>
+        <TRANSL xml:lang="fr">poils</TRANSL>
+        <TRANSL xml:lang="zh">毛</TRANSL>
+        <TRANSL xml:lang="en">body hair</TRANSL>
+        <AUDIO start="984.862" end="985.384"/>
+    </W>
+    <W id="M28_Vocabulary_S222">
+        <FORM>hṽ˥</FORM>
+        <TRANSL xml:lang="fr">poils</TRANSL>
+        <TRANSL xml:lang="zh">毛</TRANSL>
+        <TRANSL xml:lang="en">body hair</TRANSL>
+        <AUDIO start="987.178" end="987.706"/>
+    </W>
+    <W id="M28_Vocabulary_S223">
+        <FORM>hṽ˥</FORM>
+        <TRANSL xml:lang="fr">poils</TRANSL>
+        <TRANSL xml:lang="zh">毛</TRANSL>
+        <TRANSL xml:lang="en">body hair</TRANSL>
+        <AUDIO start="1018.71" end="1019.337"/>
+    </W>
+    <W id="M28_Vocabulary_S224">
+        <FORM>ʁo˧hṽ˧</FORM>
+        <TRANSL xml:lang="fr">cheveux</TRANSL>
+        <TRANSL xml:lang="zh">头发</TRANSL>
+        <TRANSL xml:lang="en">hair (of the head)</TRANSL>
+        <AUDIO start="996.305" end="998.607"/>
+    </W>
+    <W id="M28_Vocabulary_S225">
+        <FORM>ʁo˧hṽ˧</FORM>
+        <TRANSL xml:lang="fr">cheveux</TRANSL>
+        <TRANSL xml:lang="zh">头发</TRANSL>
+        <TRANSL xml:lang="en">hair (of the head)</TRANSL>
+        <AUDIO start="1000.512" end="1002.32"/>
+    </W>
+    <W id="M28_Vocabulary_S226">
+        <FORM>ʁo˧hṽ˧</FORM>
+        <TRANSL xml:lang="fr">cheveux</TRANSL>
+        <TRANSL xml:lang="zh">头发</TRANSL>
+        <TRANSL xml:lang="en">hair (of the head)</TRANSL>
+        <AUDIO start="1002.627" end="1003.532"/>
+    </W>
+    <W id="M28_Vocabulary_S227">
+        <FORM>ʁo˧hṽ˧</FORM>
+        <TRANSL xml:lang="fr">cheveux</TRANSL>
+        <TRANSL xml:lang="zh">头发</TRANSL>
+        <TRANSL xml:lang="en">hair (of the head)</TRANSL>
+        <AUDIO start="1019.947" end="1020.905"/>
+    </W>
+    <W id="M28_Vocabulary_S228">
+        <FORM>[ʁo˧]hṽ˧</FORM>
+        <TRANSL xml:lang="fr">cheveux</TRANSL>
+        <TRANSL xml:lang="zh">头发</TRANSL>
+        <TRANSL xml:lang="en">hair (of the head)</TRANSL>
+        <AUDIO start="1008.893" end="1009.277"/>
+    </W>
+    <W id="M28_Vocabulary_S229">
+        <FORM>hæ̃˧pɤ˧</FORM>
+        <TRANSL xml:lang="fr">natte, ou tresse</TRANSL>
+        <TRANSL xml:lang="zh">辫子</TRANSL>
+        <TRANSL xml:lang="en">plait; braid</TRANSL>
+        <AUDIO start="1014.459" end="1015.216"/>
+    </W>
+    <W id="M28_Vocabulary_S230">
+        <FORM>to˧kɤ˥</FORM>
+        <TRANSL xml:lang="fr">front</TRANSL>
+        <TRANSL xml:lang="zh">额头</TRANSL>
+        <TRANSL xml:lang="en">forehead</TRANSL>
+        <AUDIO start="1027.395" end="1028.005"/>
+    </W>
+    <W id="M28_Vocabulary_S231">
+        <FORM>to˧kɤ˥</FORM>
+        <TRANSL xml:lang="fr">front</TRANSL>
+        <TRANSL xml:lang="zh">额头</TRANSL>
+        <TRANSL xml:lang="en">forehead</TRANSL>
+        <AUDIO start="1030.321" end="1030.74"/>
+    </W>
+    <W id="M28_Vocabulary_S232">
+        <FORM>to˧kɤ˥</FORM>
+        <TRANSL xml:lang="fr">front</TRANSL>
+        <TRANSL xml:lang="zh">额头</TRANSL>
+        <TRANSL xml:lang="en">forehead</TRANSL>
+        <AUDIO start="1037.293" end="1037.752"/>
+    </W>
+    <W id="M28_Vocabulary_S233">
+        <FORM>to˧kɤ˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tone pattern: M.H"/>
+        <TRANSL xml:lang="fr">front</TRANSL>
+        <TRANSL xml:lang="zh">额头</TRANSL>
+        <TRANSL xml:lang="en">forehead</TRANSL>
+        <AUDIO start="1031.854" end="1035.503"/>
+    </W>
+    <W id="M28_Vocabulary_S234">
+        <FORM>njæ˧tsɯ˧</FORM>
+        <TRANSL xml:lang="fr">cil</TRANSL>
+        <TRANSL xml:lang="zh">睫毛 ; 眼睫毛 ; 眼毛</TRANSL>
+        <TRANSL xml:lang="en">eyelashes</TRANSL>
+        <AUDIO start="1040.387" end="1043.4"/>
+    </W>
+    <W id="M28_Vocabulary_S235">
+        <FORM>njæ˧tsɯ˧</FORM>
+        <TRANSL xml:lang="fr">cil</TRANSL>
+        <TRANSL xml:lang="zh">睫毛 ; 眼睫毛 ; 眼毛</TRANSL>
+        <TRANSL xml:lang="en">eyelashes</TRANSL>
+        <AUDIO start="1047.649" end="1048.537"/>
+    </W>
+    <W id="M28_Vocabulary_S236">
+        <FORM>njæ˧tsɯ˧</FORM>
+        <TRANSL xml:lang="fr">cil</TRANSL>
+        <TRANSL xml:lang="zh">睫毛 ; 眼睫毛 ; 眼毛</TRANSL>
+        <TRANSL xml:lang="en">eyelashes</TRANSL>
+        <AUDIO start="1050.366" end="1050.994"/>
+    </W>
+    <W id="M28_Vocabulary_S237">
+        <FORM>njæ˧[tsɯ˧]</FORM>
+        <TRANSL xml:lang="fr">cil (1e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">睫毛 ; 眼睫毛 ; 眼毛（第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">eyelashes (1st syllable)</TRANSL>
+        <AUDIO start="1044.27" end="1044.898"/>
+    </W>
+    <W id="M28_Vocabulary_S238">
+        <FORM>njæ˧[tsɯ˧]</FORM>
+        <TRANSL xml:lang="fr">cil (1e syllabe)</TRANSL>
+        <TRANSL xml:lang="zh">睫毛 ; 眼睫毛 ; 眼毛（第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">eyelashes (1st syllable)</TRANSL>
+        <AUDIO start="1048.537" end="1049.268"/>
+    </W>
+    <W id="M28_Vocabulary_S239">
+        <FORM>njɤ˧hṽ˧</FORM>
+        <TRANSL xml:lang="fr">sourcil</TRANSL>
+        <TRANSL xml:lang="zh">眉毛</TRANSL>
+        <TRANSL xml:lang="en">eyebrow</TRANSL>
+        <AUDIO start="1051.411" end="1052.194"/>
+    </W>
+    <W id="M28_Vocabulary_S240">
+        <FORM>njɤ˩lv̩˧</FORM>
+        <TRANSL xml:lang="fr">oeil</TRANSL>
+        <TRANSL xml:lang="zh">眼睛</TRANSL>
+        <TRANSL xml:lang="en">eye</TRANSL>
+        <AUDIO start="1054.198" end="1058.047"/>
+    </W>
+    <W id="M28_Vocabulary_S241">
+        <FORM>ɳæ˧ʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">prunelle</TRANSL>
+        <TRANSL xml:lang="zh">眼珠</TRANSL>
+        <TRANSL xml:lang="en">eyeball</TRANSL>
+        <AUDIO start="1059.996" end="1061.026"/>
+    </W>
+    <W id="M28_Vocabulary_S242">
+        <FORM>ɳæ˧ʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">prunelle</TRANSL>
+        <TRANSL xml:lang="zh">眼珠</TRANSL>
+        <TRANSL xml:lang="en">eyeball</TRANSL>
+        <AUDIO start="1065.105" end="1065.772"/>
+    </W>
+    <W id="M28_Vocabulary_S243">
+        <FORM>ɳæ˧ʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">prunelle</TRANSL>
+        <TRANSL xml:lang="zh">眼珠</TRANSL>
+        <TRANSL xml:lang="en">eyeball</TRANSL>
+        <AUDIO start="1068.164" end="1068.834"/>
+    </W>
+    <W id="M28_Vocabulary_S244">
+        <FORM>njɤ˩qʰwɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">orbite</TRANSL>
+        <TRANSL xml:lang="zh">眼圈骨</TRANSL>
+        <TRANSL xml:lang="en">orbit; eye socket</TRANSL>
+        <AUDIO start="1072.378" end="1073.11"/>
+    </W>
+    <W id="M28_Vocabulary_S245">
+        <FORM>njɤ˩qʰwɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">orbite</TRANSL>
+        <TRANSL xml:lang="zh">眼圈骨</TRANSL>
+        <TRANSL xml:lang="en">orbit; eye socket</TRANSL>
+        <AUDIO start="1081.768" end="1082.442"/>
+    </W>
+    <W id="M28_Vocabulary_S246">
+        <FORM>njɤ˩qʰwɤ˧˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">orbite</TRANSL>
+        <TRANSL xml:lang="zh">眼圈骨</TRANSL>
+        <TRANSL xml:lang="en">orbit; eye socket</TRANSL>
+        <AUDIO start="1086.103" end="1086.977"/>
+    </W>
+    <W id="M28_Vocabulary_S247">
+        <FORM>njɤ˩qʰwɤ˧˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">orbite</TRANSL>
+        <TRANSL xml:lang="zh">眼圈骨</TRANSL>
+        <TRANSL xml:lang="en">orbit; eye socket</TRANSL>
+        <AUDIO start="1088.912" end="1089.452"/>
+    </W>
+    <W id="M28_Vocabulary_S248">
+        <FORM>[njɤ˩]qʰwɤ˧˥</FORM>
+        <NOTE xml:lang="en" message="%This token brings out the tone."/>
+        <TRANSL xml:lang="fr">orbite</TRANSL>
+        <TRANSL xml:lang="zh">眼圈骨</TRANSL>
+        <TRANSL xml:lang="en">orbit; eye socket</TRANSL>
+        <AUDIO start="1087.989" end="1088.351"/>
+    </W>
+    <W id="M28_Vocabulary_S249">
+        <FORM>njæ˩qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">chassie</TRANSL>
+        <TRANSL xml:lang="zh">眼屎</TRANSL>
+        <TRANSL xml:lang="en">eye sand, gum in the eyes, rheum</TRANSL>
+        <AUDIO start="1075.502" end="1076.192"/>
+    </W>
+    <W id="M28_Vocabulary_S250">
+        <FORM>njæ˩qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">chassie</TRANSL>
+        <TRANSL xml:lang="zh">眼屎</TRANSL>
+        <TRANSL xml:lang="en">eye sand, gum in the eyes, rheum</TRANSL>
+        <AUDIO start="1079.374" end="1079.862"/>
+    </W>
+    <W id="M28_Vocabulary_S251">
+        <FORM>njæ˩qʰæ˥</FORM>
+        <TRANSL xml:lang="fr">chassie</TRANSL>
+        <TRANSL xml:lang="zh">眼屎</TRANSL>
+        <TRANSL xml:lang="en">eye sand, gum in the eyes, rheum</TRANSL>
+        <AUDIO start="1098.858" end="1099.286"/>
+    </W>
+    <W id="M28_Vocabulary_S252">
+        <FORM>njɤ˩bi˥</FORM>
+        <TRANSL xml:lang="fr">paupière supérieure</TRANSL>
+        <TRANSL xml:lang="zh">上眼皮</TRANSL>
+        <TRANSL xml:lang="en">top eyelid</TRANSL>
+        <AUDIO start="1100.016" end="1102.522"/>
+    </W>
+    <W id="M28_Vocabulary_S253">
+        <FORM>njɤ˩bi˥</FORM>
+        <TRANSL xml:lang="fr">paupière supérieure</TRANSL>
+        <TRANSL xml:lang="zh">上眼皮</TRANSL>
+        <TRANSL xml:lang="en">top eyelid</TRANSL>
+        <AUDIO start="1105.458" end="1106.224"/>
+    </W>
+    <W id="M28_Vocabulary_S254">
+        <FORM>njæ˧mbæ˥</FORM>
+        <TRANSL xml:lang="fr">larme</TRANSL>
+        <TRANSL xml:lang="zh">眼泪</TRANSL>
+        <TRANSL xml:lang="en">tear</TRANSL>
+        <AUDIO start="1109.337" end="1111.461"/>
+    </W>
+    <W id="M28_Vocabulary_S255">
+        <FORM>njæ˧mbæ˥</FORM>
+        <TRANSL xml:lang="fr">larme</TRANSL>
+        <TRANSL xml:lang="zh">眼泪</TRANSL>
+        <TRANSL xml:lang="en">tear</TRANSL>
+        <AUDIO start="1113.567" end="1114.325"/>
+    </W>
+    <W id="M28_Vocabulary_S256">
+        <FORM>njæ˧mbæ˥</FORM>
+        <TRANSL xml:lang="fr">larme</TRANSL>
+        <TRANSL xml:lang="zh">眼泪</TRANSL>
+        <TRANSL xml:lang="en">tear</TRANSL>
+        <AUDIO start="1119.81" end="1120.481"/>
+    </W>
+    <W id="M28_Vocabulary_S257">
+        <FORM>[njæ˧]mbæ˥</FORM>
+        <TRANSL xml:lang="fr">larme (2e syll.)</TRANSL>
+        <TRANSL xml:lang="zh">眼泪（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">tear (2nd syllable)</TRANSL>
+        <AUDIO start="1112.628" end="1113.227"/>
+    </W>
+    <W id="M28_Vocabulary_S258">
+        <FORM>ɲi˧ŋgɤ˥</FORM>
+        <TRANSL xml:lang="fr">nez</TRANSL>
+        <TRANSL xml:lang="zh">鼻子</TRANSL>
+        <TRANSL xml:lang="en">nose</TRANSL>
+        <AUDIO start="1122.798" end="1123.563"/>
+    </W>
+    <W id="M28_Vocabulary_S259">
+        <FORM>ɲi˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">narine</TRANSL>
+        <TRANSL xml:lang="zh">鼻孔</TRANSL>
+        <TRANSL xml:lang="en">nostril</TRANSL>
+        <AUDIO start="1128.585" end="1129.306"/>
+    </W>
+    <W id="M28_Vocabulary_S260">
+        <FORM>ɲi˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">narine</TRANSL>
+        <TRANSL xml:lang="zh">鼻孔</TRANSL>
+        <TRANSL xml:lang="en">nostril</TRANSL>
+        <AUDIO start="1129.835" end="1130.618"/>
+    </W>
+    <W id="M28_Vocabulary_S261">
+        <FORM>ɲi˩˧</FORM>
+        <TRANSL xml:lang="fr">mucus, morve</TRANSL>
+        <TRANSL xml:lang="zh">鼻涕</TRANSL>
+        <TRANSL xml:lang="en">nasal mucus, snivel</TRANSL>
+        <AUDIO start="1132.221" end="1138.862"/>
+    </W>
+    <W id="M28_Vocabulary_S262">
+        <FORM>li˧pi˧</FORM>
+        <TRANSL xml:lang="fr">oreille</TRANSL>
+        <TRANSL xml:lang="zh">耳朵</TRANSL>
+        <TRANSL xml:lang="en">ear</TRANSL>
+        <AUDIO start="1142.763" end="1143.575"/>
+    </W>
+    <W id="M28_Vocabulary_S263">
+        <FORM>li˧pi˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the M.M tone pattern."/>
+        <TRANSL xml:lang="fr">oreille</TRANSL>
+        <TRANSL xml:lang="zh">耳朵</TRANSL>
+        <TRANSL xml:lang="en">ear</TRANSL>
+        <AUDIO start="1154.802" end="1155.44"/>
+    </W>
+    <W id="M28_Vocabulary_S264">
+        <FORM>li˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">conduit auditif</TRANSL>
+        <TRANSL xml:lang="zh">耳孔</TRANSL>
+        <TRANSL xml:lang="en">auditory canal</TRANSL>
+        <AUDIO start="1145.231" end="1145.805"/>
+    </W>
+    <W id="M28_Vocabulary_S265">
+        <FORM>li˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">conduit auditif</TRANSL>
+        <TRANSL xml:lang="zh">耳孔</TRANSL>
+        <TRANSL xml:lang="en">auditory canal</TRANSL>
+        <AUDIO start="1146.466" end="1150.865"/>
+    </W>
+    <W id="M28_Vocabulary_S266">
+        <FORM>li˧qʰə˞˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the M.M tone pattern."/>
+        <TRANSL xml:lang="fr">conduit auditif</TRANSL>
+        <TRANSL xml:lang="zh">耳孔</TRANSL>
+        <TRANSL xml:lang="en">auditory canal</TRANSL>
+        <AUDIO start="1155.684" end="1156.439"/>
+    </W>
+    <W id="M28_Vocabulary_S267">
+        <FORM>li˧qʰæ˧</FORM>
+        <TRANSL xml:lang="fr">cérumen</TRANSL>
+        <TRANSL xml:lang="zh">耳垢</TRANSL>
+        <TRANSL xml:lang="en">earwax</TRANSL>
+        <AUDIO start="1165.179" end="1165.83"/>
+    </W>
+    <W id="M28_Vocabulary_S268">
+        <FORM>li˧qʰæ˧</FORM>
+        <TRANSL xml:lang="fr">cérumen</TRANSL>
+        <TRANSL xml:lang="zh">耳垢</TRANSL>
+        <TRANSL xml:lang="en">earwax</TRANSL>
+        <AUDIO start="1168.832" end="1169.29"/>
+    </W>
+    <W id="M28_Vocabulary_S269">
+        <FORM>pʰæ˧qʰwɤ˧</FORM>
+        <TRANSL xml:lang="fr">visage</TRANSL>
+        <TRANSL xml:lang="zh">脸</TRANSL>
+        <TRANSL xml:lang="en">face</TRANSL>
+        <AUDIO start="1173.559" end="1175.537"/>
+    </W>
+    <W id="M28_Vocabulary_S270">
+        <FORM>pʰæ˧qʰwɤ˧</FORM>
+        <TRANSL xml:lang="fr">visage</TRANSL>
+        <TRANSL xml:lang="zh">脸</TRANSL>
+        <TRANSL xml:lang="en">face</TRANSL>
+        <AUDIO start="1180.302" end="1180.964"/>
+    </W>
+    <W id="M28_Vocabulary_S271">
+        <FORM>pʰæ˧qʰwɤ˧</FORM>
+        <NOTE xml:lang="en" message="Careful realization, separating successive syllables"/>
+        <TRANSL xml:lang="fr">visage</TRANSL>
+        <TRANSL xml:lang="zh">脸</TRANSL>
+        <TRANSL xml:lang="en">face</TRANSL>
+        <AUDIO start="1176.642" end="1177.348"/>
+    </W>
+    <W id="M28_Vocabulary_S272">
+        <FORM>pʰæ˧qʰwɤ˧</FORM>
+        <NOTE xml:lang="en" message="Careful realization, separating successive syllables"/>
+        <TRANSL xml:lang="fr">visage</TRANSL>
+        <TRANSL xml:lang="zh">脸</TRANSL>
+        <TRANSL xml:lang="en">face</TRANSL>
+        <AUDIO start="1178.294" end="1179.026"/>
+    </W>
+    <W id="M28_Vocabulary_S273">
+        <FORM>qwɤ˧pi˩˧</FORM>
+        <TRANSL xml:lang="fr">bouche</TRANSL>
+        <TRANSL xml:lang="zh">嘴巴</TRANSL>
+        <TRANSL xml:lang="en">mouth</TRANSL>
+        <AUDIO start="1184.924" end="1185.552"/>
+    </W>
+    <W id="M28_Vocabulary_S274">
+        <FORM>qwɤ˧pi˩˧</FORM>
+        <TRANSL xml:lang="fr">bouche</TRANSL>
+        <TRANSL xml:lang="zh">嘴巴</TRANSL>
+        <TRANSL xml:lang="en">mouth</TRANSL>
+        <AUDIO start="1186.132" end="1186.689"/>
+    </W>
+    <W id="M28_Vocabulary_S275">
+        <FORM>qwɤ˧pi˩˧</FORM>
+        <TRANSL xml:lang="fr">bouche</TRANSL>
+        <TRANSL xml:lang="zh">嘴巴</TRANSL>
+        <TRANSL xml:lang="en">mouth</TRANSL>
+        <AUDIO start="1188.816" end="1190.605"/>
+    </W>
+    <W id="M28_Vocabulary_S276">
+        <FORM>qwɤ˩to˧</FORM>
+        <TRANSL xml:lang="fr">mâchoire</TRANSL>
+        <TRANSL xml:lang="zh">颚</TRANSL>
+        <TRANSL xml:lang="en">jaw</TRANSL>
+        <AUDIO start="1196.255" end="1197.596"/>
+    </W>
+    <W id="M28_Vocabulary_S277">
+        <FORM>qwɤ˩to˧</FORM>
+        <TRANSL xml:lang="fr">mâchoire</TRANSL>
+        <TRANSL xml:lang="zh">颚</TRANSL>
+        <TRANSL xml:lang="en">jaw</TRANSL>
+        <AUDIO start="1202.536" end="1203.137"/>
+    </W>
+    <W id="M28_Vocabulary_S278">
+        <FORM>hɯ˥hɯ˥</FORM>
+        <TRANSL xml:lang="fr">dent</TRANSL>
+        <TRANSL xml:lang="zh">牙齿</TRANSL>
+        <TRANSL xml:lang="en">tooth</TRANSL>
+        <AUDIO start="1204.573" end="1205.281"/>
+    </W>
+    <W id="M28_Vocabulary_S279">
+        <FORM>hɯ˥hɯ˥</FORM>
+        <TRANSL xml:lang="fr">dent</TRANSL>
+        <TRANSL xml:lang="zh">牙齿</TRANSL>
+        <TRANSL xml:lang="en">tooth</TRANSL>
+        <AUDIO start="1207.206" end="1208.021"/>
+    </W>
+    <W id="M28_Vocabulary_S280">
+        <FORM>hɯ˥hɯ˥</FORM>
+        <TRANSL xml:lang="fr">dent</TRANSL>
+        <TRANSL xml:lang="zh">牙齿</TRANSL>
+        <TRANSL xml:lang="en">tooth</TRANSL>
+        <AUDIO start="1213.912" end="1214.429"/>
+    </W>
+    <W id="M28_Vocabulary_S281">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1217.732" end="1218.362"/>
+    </W>
+    <W id="M28_Vocabulary_S282">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1219.322" end="1219.948"/>
+    </W>
+    <W id="M28_Vocabulary_S283">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1234.711" end="1235.328"/>
+    </W>
+    <W id="M28_Vocabulary_S284">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1243.977" end="1244.929"/>
+    </W>
+    <W id="M28_Vocabulary_S285">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1249.141" end="1250.307"/>
+    </W>
+    <W id="M28_Vocabulary_S286">
+        <FORM>ɕi˧mi˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the rising tone of the second syllable"/>
+        <TRANSL xml:lang="fr">langue</TRANSL>
+        <TRANSL xml:lang="zh">舌头</TRANSL>
+        <TRANSL xml:lang="en">tongue</TRANSL>
+        <AUDIO start="1221.029" end="1221.691"/>
+    </W>
+    <W id="M28_Vocabulary_S287">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1225.785" end="1226.642"/>
+    </W>
+    <W id="M28_Vocabulary_S288">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1228.312" end="1228.861"/>
+    </W>
+    <W id="M28_Vocabulary_S289">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1232.413" end="1233.232"/>
+    </W>
+    <W id="M28_Vocabulary_S290">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1235.328" end="1235.922"/>
+    </W>
+    <W id="M28_Vocabulary_S291">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1244.929" end="1245.939"/>
+    </W>
+    <W id="M28_Vocabulary_S292">
+        <FORM>ɕi˧ʐæ˩˧</FORM>
+        <TRANSL xml:lang="fr">tendon de la langue; luette</TRANSL>
+        <TRANSL xml:lang="zh">舌头的筋，小舌</TRANSL>
+        <TRANSL xml:lang="en">tendon of the tongue; uvula</TRANSL>
+        <AUDIO start="1250.307" end="1251.056"/>
+    </W>
+    <W id="M28_Vocabulary_S293">
+        <FORM>tɑ˧ɻ̍˧</FORM>
+        <TRANSL xml:lang="fr">œsophage; pomme d'Adam</TRANSL>
+        <TRANSL xml:lang="zh">喉管，喉结</TRANSL>
+        <TRANSL xml:lang="en">oesophagus; Adam's apple</TRANSL>
+        <AUDIO start="1257.534" end="1258.353"/>
+    </W>
+    <W id="M28_Vocabulary_S294">
+        <FORM>tɑ˧ɻ̍˧</FORM>
+        <TRANSL xml:lang="fr">œsophage; pomme d'Adam</TRANSL>
+        <TRANSL xml:lang="zh">喉管，喉结</TRANSL>
+        <TRANSL xml:lang="en">oesophagus; Adam's apple</TRANSL>
+        <AUDIO start="1260.451" end="1261.079"/>
+    </W>
+    <W id="M28_Vocabulary_S295">
+        <FORM>tɑ˧ɻ̍˧</FORM>
+        <TRANSL xml:lang="fr">œsophage; pomme d'Adam</TRANSL>
+        <TRANSL xml:lang="zh">喉管，喉结</TRANSL>
+        <TRANSL xml:lang="en">oesophagus; Adam's apple</TRANSL>
+        <AUDIO start="1263.778" end="1264.439"/>
+    </W>
+    <W id="M28_Vocabulary_S296">
+        <FORM>tɑ˧ɻ̍˧</FORM>
+        <TRANSL xml:lang="fr">œsophage; pomme d'Adam</TRANSL>
+        <TRANSL xml:lang="zh">喉管，喉结</TRANSL>
+        <TRANSL xml:lang="en">oesophagus; Adam's apple</TRANSL>
+        <AUDIO start="1266.851" end="1267.293"/>
+    </W>
+    <W id="M28_Vocabulary_S297">
+        <FORM>tɑ˧ɻ̍˧</FORM>
+        <TRANSL xml:lang="fr">œsophage; pomme d'Adam</TRANSL>
+        <TRANSL xml:lang="zh">喉管，喉结</TRANSL>
+        <TRANSL xml:lang="en">oesophagus; Adam's apple</TRANSL>
+        <AUDIO start="1270.014" end="1270.581"/>
+    </W>
+    <W id="M28_Vocabulary_S298">
+        <FORM>qʰə˞˥</FORM>
+        <TRANSL xml:lang="fr">voix</TRANSL>
+        <TRANSL xml:lang="zh">声音</TRANSL>
+        <TRANSL xml:lang="en">voice</TRANSL>
+        <AUDIO start="1280.173" end="1280.674"/>
+    </W>
+    <W id="M28_Vocabulary_S299">
+        <FORM>qʰə˞˥</FORM>
+        <TRANSL xml:lang="fr">voix</TRANSL>
+        <TRANSL xml:lang="zh">声音</TRANSL>
+        <TRANSL xml:lang="en">voice</TRANSL>
+        <AUDIO start="1285.82" end="1287.892"/>
+    </W>
+    <W id="M28_Vocabulary_S300">
+        <FORM>qʰə˞˧dʑɤ˥</FORM>
+        <TRANSL xml:lang="fr">belle voix</TRANSL>
+        <TRANSL xml:lang="zh">美丽的声音</TRANSL>
+        <TRANSL xml:lang="en">pleasant voice</TRANSL>
+        <AUDIO start="1287.892" end="1289.497"/>
+    </W>
+    <W id="M28_Vocabulary_S301">
+        <FORM>qʰə˞˧dʑɤ˥</FORM>
+        <TRANSL xml:lang="fr">belle voix</TRANSL>
+        <TRANSL xml:lang="zh">美丽的声音</TRANSL>
+        <TRANSL xml:lang="en">pleasant voice</TRANSL>
+        <AUDIO start="1283.417" end="1283.992"/>
+    </W>
+    <W id="M28_Vocabulary_S302">
+        <FORM>qʰə˞˧dʑɤ˥</FORM>
+        <TRANSL xml:lang="fr">belle voix</TRANSL>
+        <TRANSL xml:lang="zh">美丽的声音</TRANSL>
+        <TRANSL xml:lang="en">pleasant voice</TRANSL>
+        <AUDIO start="1292.145" end="1292.632"/>
+    </W>
+    <W id="M28_Vocabulary_S303">
+        <FORM>[qʰə˞˧]dʑɤ˥</FORM>
+        <TRANSL xml:lang="fr">belle voix (2e syll.)</TRANSL>
+        <TRANSL xml:lang="zh">美丽的声音（第二个音节）</TRANSL>
+        <TRANSL xml:lang="en">pleasant voice (2nd syll.)</TRANSL>
+        <AUDIO start="1290.508" end="1290.984"/>
+    </W>
+    <W id="M28_Vocabulary_S304">
+        <FORM>nv̩˧bjɤ˥</FORM>
+        <TRANSL xml:lang="fr">lèvres</TRANSL>
+        <TRANSL xml:lang="zh">嘴唇</TRANSL>
+        <TRANSL xml:lang="en">lips</TRANSL>
+        <AUDIO start="1299.06" end="1301.451"/>
+    </W>
+    <W id="M28_Vocabulary_S305">
+        <FORM>nv̩˧bjɤ˥</FORM>
+        <TRANSL xml:lang="fr">lèvres</TRANSL>
+        <TRANSL xml:lang="zh">嘴唇</TRANSL>
+        <TRANSL xml:lang="en">lips</TRANSL>
+        <AUDIO start="1306.342" end="1309.106"/>
+    </W>
+    <W id="M28_Vocabulary_S306">
+        <FORM>nv̩˧bjɤ˥</FORM>
+        <TRANSL xml:lang="fr">lèvres</TRANSL>
+        <TRANSL xml:lang="zh">嘴唇</TRANSL>
+        <TRANSL xml:lang="en">lips</TRANSL>
+        <AUDIO start="1315.962" end="1316.489"/>
+    </W>
+    <W id="M28_Vocabulary_S307">
+        <FORM>ŋɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">palais</TRANSL>
+        <TRANSL xml:lang="zh">上腭</TRANSL>
+        <TRANSL xml:lang="en">palate</TRANSL>
+        <AUDIO start="1327.628" end="1327.951"/>
+    </W>
+    <W id="M28_Vocabulary_S308">
+        <FORM>ŋɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">palais</TRANSL>
+        <TRANSL xml:lang="zh">上腭</TRANSL>
+        <TRANSL xml:lang="en">palate</TRANSL>
+        <AUDIO start="1328.75" end="1329.518"/>
+    </W>
+    <W id="M28_Vocabulary_S309">
+        <FORM>mv̩˧tsɯ˧</FORM>
+        <TRANSL xml:lang="fr">barbe</TRANSL>
+        <TRANSL xml:lang="zh">胡子</TRANSL>
+        <TRANSL xml:lang="en">beard</TRANSL>
+        <AUDIO start="1333.809" end="1339.214"/>
+    </W>
+    <W id="M28_Vocabulary_S310">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1340.743" end="1341.634"/>
+    </W>
+    <W id="M28_Vocabulary_S311">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1342.024" end="1342.611"/>
+    </W>
+    <W id="M28_Vocabulary_S312">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1343.103" end="1343.776"/>
+    </W>
+    <W id="M28_Vocabulary_S313">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1344.91" end="1345.37"/>
+    </W>
+    <W id="M28_Vocabulary_S314">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1346.965" end="1347.465"/>
+    </W>
+    <W id="M28_Vocabulary_S315">
+        <FORM>mi˧˥tɕʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">menton</TRANSL>
+        <TRANSL xml:lang="zh">下巴</TRANSL>
+        <TRANSL xml:lang="en">chin</TRANSL>
+        <AUDIO start="1352.194" end="1354.127"/>
+    </W>
+    <W id="M28_Vocabulary_S316">
+        <FORM>ɑ˩pʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">roter</TRANSL>
+        <TRANSL xml:lang="zh">打饱嗝</TRANSL>
+        <TRANSL xml:lang="en">to belch, to burp</TRANSL>
+        <AUDIO start="1358.59" end="1359.345"/>
+    </W>
+    <W id="M28_Vocabulary_S317">
+        <FORM>ɑ˩pʰv̩˧˥</FORM>
+        <TRANSL xml:lang="fr">roter</TRANSL>
+        <TRANSL xml:lang="zh">打饱嗝</TRANSL>
+        <TRANSL xml:lang="en">to belch, to burp</TRANSL>
+        <AUDIO start="1359.81" end="1362.097"/>
+    </W>
+    <W id="M28_Vocabulary_S318">
+        <FORM>ʁæ˧ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">cou</TRANSL>
+        <TRANSL xml:lang="zh">脖子</TRANSL>
+        <TRANSL xml:lang="en">neck</TRANSL>
+        <AUDIO start="1363.623" end="1364.351"/>
+    </W>
+    <W id="M28_Vocabulary_S319">
+        <FORM>ʁæ˧ʈv̩˥</FORM>
+        <TRANSL xml:lang="fr">cou</TRANSL>
+        <TRANSL xml:lang="zh">脖子</TRANSL>
+        <TRANSL xml:lang="en">neck</TRANSL>
+        <AUDIO start="1366.905" end="1367.364"/>
+    </W>
+    <W id="M28_Vocabulary_S320">
+        <FORM>æ˧mbæ˧</FORM>
+        <TRANSL xml:lang="fr">goître</TRANSL>
+        <TRANSL xml:lang="zh">甲状腺肿瘤</TRANSL>
+        <TRANSL xml:lang="en">goitre</TRANSL>
+        <AUDIO start="1369.85" end="1372.385"/>
+    </W>
+    <W id="M28_Vocabulary_S321">
+        <FORM>æ˧mbæ˧</FORM>
+        <TRANSL xml:lang="fr">goître</TRANSL>
+        <TRANSL xml:lang="zh">甲状腺肿瘤</TRANSL>
+        <TRANSL xml:lang="en">goitre</TRANSL>
+        <AUDIO start="1378.275" end="1378.884"/>
+    </W>
+    <W id="M28_Vocabulary_S322">
+        <FORM>æ˧mbæ˧ qʰwæ˧˥!</FORM>
+        <TRANSL xml:lang="fr">Invective: "qu'il te pende des goîtres à la gorge!"</TRANSL>
+        <TRANSL xml:lang="zh">骂人的话：“让你长甲状腺肿瘤！”</TRANSL>
+        <TRANSL xml:lang="en">Insult/malediction: "May you get goitres!"</TRANSL>
+        <AUDIO start="1382.541" end="1383.725"/>
+    </W>
+    <W id="M28_Vocabulary_S323">
+        <FORM>qʰwɤ˧tsʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀</TRANSL>
+        <TRANSL xml:lang="en">shoulder</TRANSL>
+        <AUDIO start="1394.083" end="1399.743"/>
+    </W>
+    <W id="M28_Vocabulary_S324">
+        <FORM>qʰwɤ˧tsʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀</TRANSL>
+        <TRANSL xml:lang="en">shoulder</TRANSL>
+        <AUDIO start="1419.432" end="1420.29"/>
+    </W>
+    <W id="M28_Vocabulary_S325">
+        <FORM>qʰwɤ˧to˧</FORM>
+        <TRANSL xml:lang="fr">extrémité de l'épaule, bout de l'épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀的尖</TRANSL>
+        <TRANSL xml:lang="en">tip of the shoulder</TRANSL>
+        <AUDIO start="1401.277" end="1402.061"/>
+    </W>
+    <W id="M28_Vocabulary_S326">
+        <FORM>qʰwɤ˧to˧</FORM>
+        <TRANSL xml:lang="fr">extrémité de l'épaule, bout de l'épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀的尖</TRANSL>
+        <TRANSL xml:lang="en">tip of the shoulder</TRANSL>
+        <AUDIO start="1413.441" end="1413.879"/>
+    </W>
+    <W id="M28_Vocabulary_S327">
+        <FORM>qʰwɤ˧to˧</FORM>
+        <TRANSL xml:lang="fr">extrémité de l'épaule, bout de l'épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀的尖</TRANSL>
+        <TRANSL xml:lang="en">tip of the shoulder</TRANSL>
+        <AUDIO start="1416.019" end="1416.742"/>
+    </W>
+    <W id="M28_Vocabulary_S328">
+        <FORM>qʰwɤ˧to˧</FORM>
+        <NOTE xml:lang="en" message="In this token, the first syllable is emphasized; as a result, the fundamental frequency of the second syllable is lower. This reflects intonational factors, which veil the lexical tone."/>
+        <TRANSL xml:lang="fr">extrémité de l'épaule, bout de l'épaule</TRANSL>
+        <TRANSL xml:lang="zh">肩膀的尖</TRANSL>
+        <TRANSL xml:lang="en">tip of the shoulder</TRANSL>
+        <AUDIO start="1420.29" end="1421.095"/>
+    </W>
+    <W id="M28_Vocabulary_S329">
+        <FORM>gv̩˧dv̩˧</FORM>
+        <TRANSL xml:lang="fr">dos</TRANSL>
+        <TRANSL xml:lang="zh">脊背</TRANSL>
+        <TRANSL xml:lang="en">back</TRANSL>
+        <AUDIO start="1426.137" end="1427.147"/>
+    </W>
+    <W id="M28_Vocabulary_S330">
+        <FORM>tsʰɯ˧ʁo˧˥</FORM>
+        <TRANSL xml:lang="fr">omoplate</TRANSL>
+        <TRANSL xml:lang="zh">肩胛骨</TRANSL>
+        <TRANSL xml:lang="en">shoulderblade, scapula</TRANSL>
+        <AUDIO start="1430.186" end="1434.435"/>
+    </W>
+    <W id="M28_Vocabulary_S331">
+        <FORM>tsʰɯ˧ʁo˧˥</FORM>
+        <TRANSL xml:lang="fr">omoplate</TRANSL>
+        <TRANSL xml:lang="zh">肩胛骨</TRANSL>
+        <TRANSL xml:lang="en">shoulderblade, scapula</TRANSL>
+        <AUDIO start="1435.12" end="1435.921"/>
+    </W>
+    <W id="M28_Vocabulary_S332">
+        <FORM>tsʰɯ˧ʁo˧˥</FORM>
+        <TRANSL xml:lang="fr">omoplate</TRANSL>
+        <TRANSL xml:lang="zh">肩胛骨</TRANSL>
+        <TRANSL xml:lang="en">shoulderblade, scapula</TRANSL>
+        <AUDIO start="1437.604" end="1438.139"/>
+    </W>
+    <W id="M28_Vocabulary_S333">
+        <FORM>ŋgɑ˧pv̩˧</FORM>
+        <TRANSL xml:lang="fr">poitrine</TRANSL>
+        <TRANSL xml:lang="zh">胸脯</TRANSL>
+        <TRANSL xml:lang="en">chest</TRANSL>
+        <AUDIO start="1440.867" end="1443.049"/>
+    </W>
+    <W id="M28_Vocabulary_S334">
+        <FORM>ɲi˧bv̩˩lv̩˥</FORM>
+        <TRANSL xml:lang="fr">sein</TRANSL>
+        <TRANSL xml:lang="zh">乳房</TRANSL>
+        <TRANSL xml:lang="en">breast</TRANSL>
+        <AUDIO start="1448.718" end="1451.302"/>
+    </W>
+    <W id="M28_Vocabulary_S335">
+        <FORM>ɲi˧bv̩˩lv̩˥</FORM>
+        <TRANSL xml:lang="fr">sein</TRANSL>
+        <TRANSL xml:lang="zh">乳房</TRANSL>
+        <TRANSL xml:lang="en">breast</TRANSL>
+        <AUDIO start="1455.438" end="1456.1"/>
+    </W>
+    <W id="M28_Vocabulary_S336">
+        <FORM>ɲi˧bv̩˩lv̩˥</FORM>
+        <TRANSL xml:lang="fr">sein</TRANSL>
+        <TRANSL xml:lang="zh">乳房</TRANSL>
+        <TRANSL xml:lang="en">breast</TRANSL>
+        <AUDIO start="1458.233" end="1458.852"/>
+    </W>
+    <W id="M28_Vocabulary_S337">
+        <FORM>ɲi˧bv̩˩lv̩˥</FORM>
+        <TRANSL xml:lang="fr">sein</TRANSL>
+        <TRANSL xml:lang="zh">乳房</TRANSL>
+        <TRANSL xml:lang="en">breast</TRANSL>
+        <AUDIO start="1462.527" end="1463.168"/>
+    </W>
+    <W id="M28_Vocabulary_S338">
+        <FORM>ɲi˧bv̩˩lv̩˥</FORM>
+        <NOTE xml:lang="en" message="Rapid speech"/>
+        <TRANSL xml:lang="fr">sein</TRANSL>
+        <TRANSL xml:lang="zh">乳房</TRANSL>
+        <TRANSL xml:lang="en">breast</TRANSL>
+        <AUDIO start="1470.084" end="1470.509"/>
+    </W>
+    <W id="M28_Vocabulary_S339">
+        <FORM>ɲi˩˧</FORM>
+        <TRANSL xml:lang="fr">lait</TRANSL>
+        <TRANSL xml:lang="zh">奶汁</TRANSL>
+        <TRANSL xml:lang="en">milk</TRANSL>
+        <AUDIO start="1456.254" end="1456.66"/>
+    </W>
+    <W id="M28_Vocabulary_S340">
+        <FORM>ɲi˩˧</FORM>
+        <TRANSL xml:lang="fr">lait</TRANSL>
+        <TRANSL xml:lang="zh">奶汁</TRANSL>
+        <TRANSL xml:lang="en">milk</TRANSL>
+        <AUDIO start="1474.515" end="1474.827"/>
+    </W>
+    <W id="M28_Vocabulary_S341">
+        <FORM>ɲi˩˧</FORM>
+        <TRANSL xml:lang="fr">lait</TRANSL>
+        <TRANSL xml:lang="zh">奶汁</TRANSL>
+        <TRANSL xml:lang="en">milk</TRANSL>
+        <AUDIO start="1476.252" end="1476.635"/>
+    </W>
+    <W id="M28_Vocabulary_S342">
+        <FORM>sɤ˧go˧</FORM>
+        <TRANSL xml:lang="fr">menstrues</TRANSL>
+        <TRANSL xml:lang="zh">月经</TRANSL>
+        <TRANSL xml:lang="en">menses; period</TRANSL>
+        <AUDIO start="1477.404" end="1479.859"/>
+    </W>
+    <W id="M28_Vocabulary_S343">
+        <FORM>sɤ˧go˧-ze˧</FORM>
+        <TRANSL xml:lang="fr">Cette femme est en train d'avoir ses règles.</TRANSL>
+        <TRANSL xml:lang="zh">这位女人来了月经。</TRANSL>
+        <TRANSL xml:lang="en">This women is having her menses.</TRANSL>
+        <AUDIO start="1499.658" end="1500.842"/>
+    </W>
+    <W id="M28_Vocabulary_S344">
+        <FORM>go˧mi˧ qæ˧</FORM>
+        <NOTE xml:lang="en" message="indirect designation: 'to change one's body'"/>
+        <TRANSL xml:lang="fr">menstrues</TRANSL>
+        <TRANSL xml:lang="zh">月经</TRANSL>
+        <TRANSL xml:lang="en">menses; period</TRANSL>
+        <AUDIO start="1482.158" end="1482.851"/>
+    </W>
+    <W id="M28_Vocabulary_S345">
+        <FORM>go˧mi˧ qæ˧</FORM>
+        <NOTE xml:lang="en" message="indirect designation: 'to change one's body'"/>
+        <TRANSL xml:lang="fr">menstrues</TRANSL>
+        <TRANSL xml:lang="zh">月经</TRANSL>
+        <TRANSL xml:lang="en">menses; period</TRANSL>
+        <AUDIO start="1483.221" end="1485.136"/>
+    </W>
+    <W id="M28_Vocabulary_S346">
+        <FORM>go˧mi˧ qæ˧</FORM>
+        <NOTE xml:lang="en" message="indirect designation: 'to change one's body'"/>
+        <TRANSL xml:lang="fr">menstrues</TRANSL>
+        <TRANSL xml:lang="zh">月经</TRANSL>
+        <TRANSL xml:lang="en">menses; period</TRANSL>
+        <AUDIO start="1493.395" end="1493.88"/>
+    </W>
+    <W id="M28_Vocabulary_S347">
+        <FORM>go˧mi˧ qæ˧</FORM>
+        <NOTE xml:lang="en" message="indirect designation: 'to change one's body'"/>
+        <TRANSL xml:lang="fr">menstrues</TRANSL>
+        <TRANSL xml:lang="zh">月经</TRANSL>
+        <TRANSL xml:lang="en">menses; period</TRANSL>
+        <AUDIO start="1496.56" end="1497.631"/>
+    </W>
+    <W id="M28_Vocabulary_S348">
+        <FORM>nv̩˩mi˩˧</FORM>
+        <TRANSL xml:lang="fr">coeur</TRANSL>
+        <TRANSL xml:lang="zh">心脏</TRANSL>
+        <TRANSL xml:lang="en">heart</TRANSL>
+        <AUDIO start="1511.544" end="1511.932"/>
+    </W>
+    <W id="M28_Vocabulary_S349">
+        <FORM>nv̩˩mi˩˧</FORM>
+        <TRANSL xml:lang="fr">coeur</TRANSL>
+        <TRANSL xml:lang="zh">心脏</TRANSL>
+        <TRANSL xml:lang="en">heart</TRANSL>
+        <AUDIO start="1512.539" end="1513.036"/>
+    </W>
+    <W id="M28_Vocabulary_S350">
+        <FORM>bi˧mi˧</FORM>
+        <TRANSL xml:lang="fr">ventre</TRANSL>
+        <TRANSL xml:lang="zh">肚子</TRANSL>
+        <TRANSL xml:lang="en">belly, abdomen</TRANSL>
+        <AUDIO start="1514.324" end="1514.986"/>
+    </W>
+    <W id="M28_Vocabulary_S351">
+        <FORM>bjɤ˧zo˧</FORM>
+        <TRANSL xml:lang="fr">bas-ventre</TRANSL>
+        <TRANSL xml:lang="zh">小肚子</TRANSL>
+        <TRANSL xml:lang="en">lower abdomen</TRANSL>
+        <AUDIO start="1517.555" end="1518.484"/>
+    </W>
+    <W id="M28_Vocabulary_S352">
+        <FORM>bjɤ˧[zo˧]</FORM>
+        <TRANSL xml:lang="fr">bas-ventre (1e syll.)</TRANSL>
+        <TRANSL xml:lang="zh">小肚子（第一个音节）</TRANSL>
+        <TRANSL xml:lang="en">lower abdomen (1st syll.)</TRANSL>
+        <AUDIO start="1520.062" end="1520.771"/>
+    </W>
+    <W id="M28_Vocabulary_S353">
+        <FORM>bi˧˥tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">nombril</TRANSL>
+        <TRANSL xml:lang="zh">肚脐</TRANSL>
+        <TRANSL xml:lang="en">navel</TRANSL>
+        <AUDIO start="1528.272" end="1529.69"/>
+    </W>
+    <W id="M28_Vocabulary_S354">
+        <FORM>bi˧˥tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">nombril</TRANSL>
+        <TRANSL xml:lang="zh">肚脐</TRANSL>
+        <TRANSL xml:lang="en">navel</TRANSL>
+        <AUDIO start="1531.374" end="1532.987"/>
+    </W>
+    <W id="M28_Vocabulary_S355">
+        <FORM>bi˧˥tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">nombril</TRANSL>
+        <TRANSL xml:lang="zh">肚脐</TRANSL>
+        <TRANSL xml:lang="en">navel</TRANSL>
+        <AUDIO start="1541.057" end="1543.564"/>
+    </W>
+    <W id="M28_Vocabulary_S356">
+        <FORM>bi˧˥tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">nombril</TRANSL>
+        <TRANSL xml:lang="zh">肚脐</TRANSL>
+        <TRANSL xml:lang="en">navel</TRANSL>
+        <AUDIO start="1549.137" end="1549.776"/>
+    </W>
+    <W id="M28_Vocabulary_S357">
+        <FORM>bi˧˥tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">nombril</TRANSL>
+        <TRANSL xml:lang="zh">肚脐</TRANSL>
+        <TRANSL xml:lang="en">navel</TRANSL>
+        <AUDIO start="1552.308" end="1553.824"/>
+    </W>
+    <W id="M28_Vocabulary_S358">
+        <FORM>kɯ˥</FORM>
+        <TRANSL xml:lang="fr">vésicule biliaire</TRANSL>
+        <TRANSL xml:lang="zh">胆</TRANSL>
+        <TRANSL xml:lang="en">gallbladder</TRANSL>
+        <AUDIO start="1556.68" end="1557.1"/>
+    </W>
+    <W id="M28_Vocabulary_S359">
+        <FORM>kɯ˥</FORM>
+        <TRANSL xml:lang="fr">vésicule biliaire</TRANSL>
+        <TRANSL xml:lang="zh">胆</TRANSL>
+        <TRANSL xml:lang="en">gallbladder</TRANSL>
+        <AUDIO start="1560.506" end="1560.829"/>
+    </W>
+    <W id="M28_Vocabulary_S360">
+        <FORM>ʝi˩ʈʂæ˩˧</FORM>
+        <TRANSL xml:lang="fr">taille</TRANSL>
+        <TRANSL xml:lang="zh">腰</TRANSL>
+        <TRANSL xml:lang="en">waist</TRANSL>
+        <AUDIO start="1566.438" end="1567.019"/>
+    </W>
+    <W id="M28_Vocabulary_S361">
+        <FORM>ʝi˩ʈʂæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">taille</TRANSL>
+        <TRANSL xml:lang="zh">腰</TRANSL>
+        <TRANSL xml:lang="en">waist</TRANSL>
+        <AUDIO start="1569.348" end="1569.937"/>
+    </W>
+    <W id="M28_Vocabulary_S362">
+        <FORM>ʝi˩ʈʂæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">taille</TRANSL>
+        <TRANSL xml:lang="zh">腰</TRANSL>
+        <TRANSL xml:lang="en">waist</TRANSL>
+        <AUDIO start="1574.417" end="1575.009"/>
+    </W>
+    <W id="M28_Vocabulary_S363">
+        <FORM>ʝi˩ʈʂæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">taille</TRANSL>
+        <TRANSL xml:lang="zh">腰</TRANSL>
+        <TRANSL xml:lang="en">waist</TRANSL>
+        <AUDIO start="1577.212" end="1577.848"/>
+    </W>
+    <W id="M28_Vocabulary_S364">
+        <FORM>ʝi˩ʈʂæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">taille</TRANSL>
+        <TRANSL xml:lang="zh">腰</TRANSL>
+        <TRANSL xml:lang="en">waist</TRANSL>
+        <AUDIO start="1580.289" end="1580.881"/>
+    </W>
+    <W id="M28_Vocabulary_S365">
+        <FORM>ndo˧bv̩˧</FORM>
+        <TRANSL xml:lang="fr">fesse</TRANSL>
+        <TRANSL xml:lang="zh">屁股</TRANSL>
+        <TRANSL xml:lang="en">buttocks</TRANSL>
+        <AUDIO start="1590.892" end="1591.515"/>
+    </W>
+    <W id="M28_Vocabulary_S366">
+        <FORM>ndo˧bv̩˧</FORM>
+        <NOTE xml:lang="en" message="In this token, tones are hyper-articulated."/>
+        <TRANSL xml:lang="fr">fesse</TRANSL>
+        <TRANSL xml:lang="zh">屁股</TRANSL>
+        <TRANSL xml:lang="en">buttocks</TRANSL>
+        <AUDIO start="1593.235" end="1594.349"/>
+    </W>
+    <W id="M28_Vocabulary_S367">
+        <FORM>tsʰɯ˩tɑ˩ə˞˧</FORM>
+        <TRANSL xml:lang="fr">hanche</TRANSL>
+        <TRANSL xml:lang="zh">胯</TRANSL>
+        <TRANSL xml:lang="en">hip</TRANSL>
+        <AUDIO start="1598.778" end="1601.077"/>
+    </W>
+    <W id="M28_Vocabulary_S368">
+        <FORM>tsʰɯ˩tɑ˩ə˞˧</FORM>
+        <TRANSL xml:lang="fr">hanche</TRANSL>
+        <TRANSL xml:lang="zh">胯</TRANSL>
+        <TRANSL xml:lang="en">hip</TRANSL>
+        <AUDIO start="1603.422" end="1604.573"/>
+    </W>
+    <W id="M28_Vocabulary_S369">
+        <FORM>tsʰɯ˩tɑ˩ə˞˧</FORM>
+        <TRANSL xml:lang="fr">hanche</TRANSL>
+        <TRANSL xml:lang="zh">胯</TRANSL>
+        <TRANSL xml:lang="en">hip</TRANSL>
+        <AUDIO start="1607.759" end="1608.701"/>
+    </W>
+    <W id="M28_Vocabulary_S370">
+        <FORM>mæ˧ɻ̃˧</FORM>
+        <TRANSL xml:lang="fr">coccyx</TRANSL>
+        <TRANSL xml:lang="zh">尾椎骨</TRANSL>
+        <TRANSL xml:lang="en">coccyx</TRANSL>
+        <AUDIO start="1618.163" end="1618.849"/>
+    </W>
+    <W id="M28_Vocabulary_S371">
+        <FORM>æ˩ɻ̃˥</FORM>
+        <NOTE xml:lang="en" message="literally 'chicken bone', probably due to the fragility of this bone"/>
+        <TRANSL xml:lang="fr">clavicule</TRANSL>
+        <TRANSL xml:lang="zh">锁骨</TRANSL>
+        <TRANSL xml:lang="en">clavicle; collarbone</TRANSL>
+        <AUDIO start="1620.636" end="1623.021"/>
+    </W>
+    <W id="M28_Vocabulary_S372">
+        <FORM>æ˩ɻ̃˥</FORM>
+        <NOTE xml:lang="en" message="literally 'chicken bone', probably due to the fragility of this bone"/>
+        <TRANSL xml:lang="fr">clavicule</TRANSL>
+        <TRANSL xml:lang="zh">锁骨</TRANSL>
+        <TRANSL xml:lang="en">clavicle; collarbone</TRANSL>
+        <AUDIO start="1623.287" end="1624.124"/>
+    </W>
+    <W id="M28_Vocabulary_S373">
+        <FORM>ɻ̃˥; æ˩ɻ̃˥</FORM>
+        <NOTE xml:lang="en" message="literally 'chicken bone', probably due to the fragility of this bone"/>
+        <TRANSL xml:lang="fr">"os; clavicule"</TRANSL>
+        <TRANSL xml:lang="zh">"骨，锁骨"</TRANSL>
+        <TRANSL xml:lang="en">"bone; clavicle/collarbone"</TRANSL>
+        <AUDIO start="1625.702" end="1626.91"/>
+    </W>
+    <W id="M28_Vocabulary_S374">
+        <FORM>ɳɖʐv̩˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">tendon</TRANSL>
+        <TRANSL xml:lang="zh">筋, 腱; 腱子; 肌腱</TRANSL>
+        <TRANSL xml:lang="en">tendon</TRANSL>
+        <AUDIO start="1641.281" end="1642.586"/>
+    </W>
+    <W id="M28_Vocabulary_S375">
+        <FORM>ɳɖʐv̩˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">tendon</TRANSL>
+        <TRANSL xml:lang="zh">筋, 腱; 腱子; 肌腱</TRANSL>
+        <TRANSL xml:lang="en">tendon</TRANSL>
+        <AUDIO start="1644.215" end="1645.958"/>
+    </W>
+    <W id="M28_Vocabulary_S376">
+        <FORM>ɳɖʐv̩˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">tendon</TRANSL>
+        <TRANSL xml:lang="zh">筋, 腱; 腱子; 肌腱</TRANSL>
+        <TRANSL xml:lang="en">tendon</TRANSL>
+        <AUDIO start="1648.551" end="1651.703"/>
+    </W>
+    <W id="M28_Vocabulary_S377">
+        <FORM>ndo˧bæ˧</FORM>
+        <TRANSL xml:lang="fr">cuisse</TRANSL>
+        <TRANSL xml:lang="zh">大腿</TRANSL>
+        <TRANSL xml:lang="en">thigh</TRANSL>
+        <AUDIO start="1652.239" end="1653.399"/>
+    </W>
+    <W id="M28_Vocabulary_S378">
+        <FORM>ndo˧bæ˧</FORM>
+        <TRANSL xml:lang="fr">cuisse</TRANSL>
+        <TRANSL xml:lang="zh">大腿</TRANSL>
+        <TRANSL xml:lang="en">thigh</TRANSL>
+        <AUDIO start="1654.491" end="1655.326"/>
+    </W>
+    <W id="M28_Vocabulary_S379">
+        <FORM>ndo˧bæ˧</FORM>
+        <TRANSL xml:lang="fr">cuisse</TRANSL>
+        <TRANSL xml:lang="zh">大腿</TRANSL>
+        <TRANSL xml:lang="en">thigh</TRANSL>
+        <AUDIO start="1660.016" end="1660.992"/>
+    </W>
+    <W id="M28_Vocabulary_S380">
+        <FORM>kʰɯ˧tsʰɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">jambe</TRANSL>
+        <TRANSL xml:lang="zh">腿</TRANSL>
+        <TRANSL xml:lang="en">leg</TRANSL>
+        <AUDIO start="1661.442" end="1662.046"/>
+    </W>
+    <W id="M28_Vocabulary_S381">
+        <FORM>kʰɯ˧tsʰɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">jambe</TRANSL>
+        <TRANSL xml:lang="zh">腿</TRANSL>
+        <TRANSL xml:lang="en">leg</TRANSL>
+        <AUDIO start="1663.305" end="1663.741"/>
+    </W>
+    <W id="M28_Vocabulary_S382">
+        <FORM>kʰɯ˧tsʰɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">jambe</TRANSL>
+        <TRANSL xml:lang="zh">腿</TRANSL>
+        <TRANSL xml:lang="en">leg</TRANSL>
+        <AUDIO start="1664.696" end="1665.369"/>
+    </W>
+    <W id="M28_Vocabulary_S383">
+        <FORM>kʰɯ˧tsʰɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">jambe</TRANSL>
+        <TRANSL xml:lang="zh">腿</TRANSL>
+        <TRANSL xml:lang="en">leg</TRANSL>
+        <AUDIO start="1666.362" end="1666.885"/>
+    </W>
+    <W id="M28_Vocabulary_S384">
+        <FORM>kʰɯ˧tsʰɤ˧˥</FORM>
+        <TRANSL xml:lang="fr">jambe</TRANSL>
+        <TRANSL xml:lang="zh">腿</TRANSL>
+        <TRANSL xml:lang="en">leg</TRANSL>
+        <AUDIO start="1670.234" end="1673.532"/>
+    </W>
+    <W id="M28_Vocabulary_S385">
+        <FORM>ŋwɤ˧qə˞˥</FORM>
+        <TRANSL xml:lang="fr">genou</TRANSL>
+        <TRANSL xml:lang="zh">膝盖</TRANSL>
+        <TRANSL xml:lang="en">knee</TRANSL>
+        <AUDIO start="1686.163" end="1686.906"/>
+    </W>
+    <W id="M28_Vocabulary_S386">
+        <FORM>ŋwɤ˧qə˞˥</FORM>
+        <TRANSL xml:lang="fr">genou</TRANSL>
+        <TRANSL xml:lang="zh">膝盖</TRANSL>
+        <TRANSL xml:lang="en">knee</TRANSL>
+        <AUDIO start="1688.03" end="1688.468"/>
+    </W>
+    <W id="M28_Vocabulary_S387">
+        <FORM>ŋwɤ˧qə˞˧tse˥pʰæ˧</FORM>
+        <TRANSL xml:lang="fr">os du genou</TRANSL>
+        <TRANSL xml:lang="zh">膝盖骨</TRANSL>
+        <TRANSL xml:lang="en">kneebone</TRANSL>
+        <AUDIO start="1684.405" end="1685.329"/>
+    </W>
+    <W id="M28_Vocabulary_S388">
+        <FORM>ŋwɤ˧qə˞˧tse˥pʰæ˧</FORM>
+        <TRANSL xml:lang="fr">os du genou</TRANSL>
+        <TRANSL xml:lang="zh">膝盖骨</TRANSL>
+        <TRANSL xml:lang="en">kneebone</TRANSL>
+        <AUDIO start="1701.298" end="1702.22"/>
+    </W>
+    <W id="M28_Vocabulary_S389">
+        <FORM>ʈə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">articulation</TRANSL>
+        <TRANSL xml:lang="zh">关节</TRANSL>
+        <TRANSL xml:lang="en">joint</TRANSL>
+        <AUDIO start="1715.234" end="1716.535"/>
+    </W>
+    <W id="M28_Vocabulary_S390">
+        <FORM>ʈə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">articulation</TRANSL>
+        <TRANSL xml:lang="zh">关节</TRANSL>
+        <TRANSL xml:lang="en">joint</TRANSL>
+        <AUDIO start="1717.712" end="1718.445"/>
+    </W>
+    <W id="M28_Vocabulary_S391">
+        <FORM>ʈə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">articulation</TRANSL>
+        <TRANSL xml:lang="zh">关节</TRANSL>
+        <TRANSL xml:lang="en">joint</TRANSL>
+        <AUDIO start="1721.694" end="1722.339"/>
+    </W>
+    <W id="M28_Vocabulary_S392">
+        <FORM>mi˧bɤ˥</FORM>
+        <TRANSL xml:lang="fr">plante du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚底</TRANSL>
+        <TRANSL xml:lang="en">sole of the foot</TRANSL>
+        <AUDIO start="1724.761" end="1725.492"/>
+    </W>
+    <W id="M28_Vocabulary_S393">
+        <FORM>mi˧bɤ˥</FORM>
+        <TRANSL xml:lang="fr">plante du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚底</TRANSL>
+        <TRANSL xml:lang="en">sole of the foot</TRANSL>
+        <AUDIO start="1725.789" end="1726.752"/>
+    </W>
+    <W id="M28_Vocabulary_S394">
+        <FORM>mi˧bɤ˥</FORM>
+        <TRANSL xml:lang="fr">plante du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚底</TRANSL>
+        <TRANSL xml:lang="en">sole of the foot</TRANSL>
+        <AUDIO start="1756.135" end="1756.98"/>
+    </W>
+    <W id="M28_Vocabulary_S395">
+        <FORM>mi˧bɤ˥</FORM>
+        <TRANSL xml:lang="fr">plante du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚底</TRANSL>
+        <TRANSL xml:lang="en">sole of the foot</TRANSL>
+        <AUDIO start="1757.796" end="1758.516"/>
+    </W>
+    <W id="M28_Vocabulary_S396">
+        <FORM>mi˧gv̩˧</FORM>
+        <TRANSL xml:lang="fr">dessus du pied, partie supérieure du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚背</TRANSL>
+        <TRANSL xml:lang="en">top part of the foot</TRANSL>
+        <AUDIO start="1759.422" end="1760.506"/>
+    </W>
+    <W id="M28_Vocabulary_S397">
+        <FORM>mi˧gv̩˧</FORM>
+        <TRANSL xml:lang="fr">dessus du pied, partie supérieure du pied</TRANSL>
+        <TRANSL xml:lang="zh">脚背</TRANSL>
+        <TRANSL xml:lang="en">top part of the foot</TRANSL>
+        <AUDIO start="1764.781" end="1765.391"/>
+    </W>
+    <W id="M28_Vocabulary_S398">
+        <FORM>mi˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">orteil</TRANSL>
+        <TRANSL xml:lang="zh">脚指</TRANSL>
+        <TRANSL xml:lang="en">toe</TRANSL>
+        <AUDIO start="1729.457" end="1732.952"/>
+    </W>
+    <W id="M28_Vocabulary_S399">
+        <FORM>mi˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">orteil</TRANSL>
+        <TRANSL xml:lang="zh">脚指</TRANSL>
+        <TRANSL xml:lang="en">toe</TRANSL>
+        <AUDIO start="1733.649" end="1734.345"/>
+    </W>
+    <W id="M28_Vocabulary_S400">
+        <FORM>mi˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">orteil</TRANSL>
+        <TRANSL xml:lang="zh">脚指</TRANSL>
+        <TRANSL xml:lang="en">toe</TRANSL>
+        <AUDIO start="1736.818" end="1737.399"/>
+    </W>
+    <W id="M28_Vocabulary_S401">
+        <FORM>mi˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">orteil</TRANSL>
+        <TRANSL xml:lang="zh">脚指</TRANSL>
+        <TRANSL xml:lang="en">toe</TRANSL>
+        <AUDIO start="1738.931" end="1740.626"/>
+    </W>
+    <W id="M28_Vocabulary_S402">
+        <FORM>mi˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">orteil</TRANSL>
+        <TRANSL xml:lang="zh">脚指</TRANSL>
+        <TRANSL xml:lang="en">toe</TRANSL>
+        <AUDIO start="1743.307" end="1743.808"/>
+    </W>
+    <W id="M28_Vocabulary_S403">
+        <FORM>mi˧ʈʰɯ˧! mi˧ʈʰɯ˧! mi˧ʈʰɯ˧!</FORM>
+        <NOTE xml:lang="en" message="This token is said vigorously, as the speaker recalls the word after thinking for a while."/>
+        <TRANSL xml:lang="fr">talon</TRANSL>
+        <TRANSL xml:lang="zh">脚跟</TRANSL>
+        <TRANSL xml:lang="en">heel</TRANSL>
+        <AUDIO start="1748.464" end="1749.333"/>
+    </W>
+    <W id="M28_Vocabulary_S404">
+        <FORM>mi˧ʈʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">talon</TRANSL>
+        <TRANSL xml:lang="zh">脚跟</TRANSL>
+        <TRANSL xml:lang="en">heel</TRANSL>
+        <AUDIO start="1749.962" end="1750.384"/>
+    </W>
+    <W id="M28_Vocabulary_S405">
+        <FORM>mi˧ʈʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">talon</TRANSL>
+        <TRANSL xml:lang="zh">脚跟</TRANSL>
+        <TRANSL xml:lang="en">heel</TRANSL>
+        <AUDIO start="1751.001" end="1751.565"/>
+    </W>
+    <W id="M28_Vocabulary_S406">
+        <FORM>lo˩ɻ̃˥</FORM>
+        <TRANSL xml:lang="fr">bras</TRANSL>
+        <TRANSL xml:lang="zh">胳膊</TRANSL>
+        <TRANSL xml:lang="en">arm</TRANSL>
+        <AUDIO start="1775.808" end="1776.375"/>
+    </W>
+    <W id="M28_Vocabulary_S407">
+        <FORM>lo˩ɻ̃˥</FORM>
+        <TRANSL xml:lang="fr">bras</TRANSL>
+        <TRANSL xml:lang="zh">胳膊</TRANSL>
+        <TRANSL xml:lang="en">arm</TRANSL>
+        <AUDIO start="1777.541" end="1778.237"/>
+    </W>
+    <W id="M28_Vocabulary_S408">
+        <FORM>lo˩tsʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">coude</TRANSL>
+        <TRANSL xml:lang="zh">肘</TRANSL>
+        <TRANSL xml:lang="en">elbow</TRANSL>
+        <AUDIO start="1784.75" end="1788.43"/>
+    </W>
+    <W id="M28_Vocabulary_S409">
+        <FORM>lo˩bɤ˧</FORM>
+        <TRANSL xml:lang="fr">paume</TRANSL>
+        <TRANSL xml:lang="zh">手掌</TRANSL>
+        <TRANSL xml:lang="en">palm of the hand</TRANSL>
+        <AUDIO start="1791.643" end="1792.471"/>
+    </W>
+    <W id="M28_Vocabulary_S410">
+        <FORM>lo˧ɲi˧</FORM>
+        <TRANSL xml:lang="fr">doigt</TRANSL>
+        <TRANSL xml:lang="zh">手指</TRANSL>
+        <TRANSL xml:lang="en">finger</TRANSL>
+        <AUDIO start="1796.717" end="1803.26"/>
+    </W>
+    <W id="M28_Vocabulary_S411">
+        <FORM>lo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">pouce</TRANSL>
+        <TRANSL xml:lang="zh">大拇指</TRANSL>
+        <TRANSL xml:lang="en">thumb</TRANSL>
+        <AUDIO start="1805.434" end="1806.027"/>
+    </W>
+    <W id="M28_Vocabulary_S412">
+        <FORM>lo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">pouce</TRANSL>
+        <TRANSL xml:lang="zh">大拇指</TRANSL>
+        <TRANSL xml:lang="en">thumb</TRANSL>
+        <AUDIO start="1806.439" end="1807.076"/>
+    </W>
+    <W id="M28_Vocabulary_S413">
+        <FORM>lo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">pouce</TRANSL>
+        <TRANSL xml:lang="zh">大拇指</TRANSL>
+        <TRANSL xml:lang="en">thumb</TRANSL>
+        <AUDIO start="1810.529" end="1811.295"/>
+    </W>
+    <W id="M28_Vocabulary_S414">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1815.336" end="1816.392"/>
+    </W>
+    <W id="M28_Vocabulary_S415">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1817.578" end="1818.168"/>
+    </W>
+    <W id="M28_Vocabulary_S416">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1818.795" end="1819.283"/>
+    </W>
+    <W id="M28_Vocabulary_S417">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1821.908" end="1823.028"/>
+    </W>
+    <W id="M28_Vocabulary_S418">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1825.504" end="1828.171"/>
+    </W>
+    <W id="M28_Vocabulary_S419">
+        <FORM>kv̩˧ʈʂɯ˧˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">ongle</TRANSL>
+        <TRANSL xml:lang="zh">指甲</TRANSL>
+        <TRANSL xml:lang="en">nail</TRANSL>
+        <AUDIO start="1830.831" end="1831.978"/>
+    </W>
+    <W id="M28_Vocabulary_S420">
+        <FORM>qʰæ˧qʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">anus</TRANSL>
+        <TRANSL xml:lang="zh">肛门</TRANSL>
+        <TRANSL xml:lang="en">anus</TRANSL>
+        <AUDIO start="1839.45" end="1842.355"/>
+    </W>
+    <W id="M28_Vocabulary_S421">
+        <FORM>ɣɯ˩pɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">peau</TRANSL>
+        <TRANSL xml:lang="zh">皮肤</TRANSL>
+        <TRANSL xml:lang="en">skin</TRANSL>
+        <AUDIO start="1847.548" end="1848.401"/>
+    </W>
+    <W id="M28_Vocabulary_S422">
+        <FORM>ɣɯ˩pɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">peau</TRANSL>
+        <TRANSL xml:lang="zh">皮肤</TRANSL>
+        <TRANSL xml:lang="en">skin</TRANSL>
+        <AUDIO start="1850.63" end="1851.517"/>
+    </W>
+    <W id="M28_Vocabulary_S423">
+        <FORM>ɣɯ˩pɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">peau</TRANSL>
+        <TRANSL xml:lang="zh">皮肤</TRANSL>
+        <TRANSL xml:lang="en">skin</TRANSL>
+        <AUDIO start="1854.357" end="1855.158"/>
+    </W>
+    <W id="M28_Vocabulary_S424">
+        <FORM>so˩˧</FORM>
+        <TRANSL xml:lang="fr">grain de beauté</TRANSL>
+        <TRANSL xml:lang="zh">黑痣</TRANSL>
+        <TRANSL xml:lang="en">mole; pigmented naevus</TRANSL>
+        <AUDIO start="1856.313" end="1856.957"/>
+    </W>
+    <W id="M28_Vocabulary_S425">
+        <FORM>so˩˧</FORM>
+        <TRANSL xml:lang="fr">grain de beauté</TRANSL>
+        <TRANSL xml:lang="zh">黑痣</TRANSL>
+        <TRANSL xml:lang="en">mole; pigmented naevus</TRANSL>
+        <AUDIO start="1860.512" end="1861.154"/>
+    </W>
+    <W id="M28_Vocabulary_S426">
+        <FORM>so˩˧</FORM>
+        <TRANSL xml:lang="fr">grain de beauté</TRANSL>
+        <TRANSL xml:lang="zh">黑痣</TRANSL>
+        <TRANSL xml:lang="en">mole; pigmented naevus</TRANSL>
+        <AUDIO start="1863.436" end="1864.133"/>
+    </W>
+    <W id="M28_Vocabulary_S427">
+        <FORM>so˩˧</FORM>
+        <TRANSL xml:lang="fr">grain de beauté</TRANSL>
+        <TRANSL xml:lang="zh">黑痣</TRANSL>
+        <TRANSL xml:lang="en">mole; pigmented naevus</TRANSL>
+        <AUDIO start="1866.118" end="1866.746"/>
+    </W>
+    <W id="M28_Vocabulary_S428">
+        <FORM>mi˧; mi˧tʰv̩˧</FORM>
+        <TRANSL xml:lang="fr">plaie; avoir une plaie</TRANSL>
+        <TRANSL xml:lang="zh">伤口，受伤</TRANSL>
+        <TRANSL xml:lang="en">wound; to be wounded</TRANSL>
+        <AUDIO start="1872.613" end="1874.215"/>
+    </W>
+    <W id="M28_Vocabulary_S429">
+        <FORM>lo˩pɤ˥</FORM>
+        <TRANSL xml:lang="fr">ampoule</TRANSL>
+        <TRANSL xml:lang="zh">水泡</TRANSL>
+        <TRANSL xml:lang="en">blister</TRANSL>
+		  <NOTE xml:lang="en" message="d'abord traduit comme 'bosse; durillon', chinois 疙瘩, anglais 'swelling'; modifié en 2015, d'après le sens que possède à Yongning le cognat /ɬo˧pɤ˥/."/>
+        <AUDIO start="1874.506" end="1875.185"/>
+    </W>
+    <W id="M28_Vocabulary_S430">
+        <FORM>lo˩pɤ˥</FORM>
+         <FORM>lo˩pɤ˥</FORM>
+        <TRANSL xml:lang="fr">ampoule</TRANSL>
+        <TRANSL xml:lang="zh">水泡</TRANSL>
+        <TRANSL xml:lang="en">blister</TRANSL>
+		  <NOTE xml:lang="en" message="d'abord traduit comme 'bosse; durillon', chinois 疙瘩, anglais 'swelling'; modifié en 2015, d'après le sens que possède à Yongning le cognat /ɬo˧pɤ˥/."/>
+        <AUDIO start="1875.185" end="1875.642"/>
+    </W>
+    <W id="M28_Vocabulary_S431">
+        <FORM>lo˩pɤ˥</FORM>
+        <FORM>lo˩pɤ˥</FORM>
+        <TRANSL xml:lang="fr">ampoule</TRANSL>
+        <TRANSL xml:lang="zh">水泡</TRANSL>
+        <TRANSL xml:lang="en">blister</TRANSL>
+		  <NOTE xml:lang="en" message="d'abord traduit comme 'bosse; durillon', chinois 疙瘩, anglais 'swelling'; modifié en 2015, d'après le sens que possède à Yongning le cognat /ɬo˧pɤ˥/."/>
+		  <AUDIO start="1878.851" end="1879.355"/>
+    </W>
+    <W id="M28_Vocabulary_S432">
+        <FORM>lo˩pɤ˥ qʰwæ˩</FORM>
+        <TRANSL xml:lang="fr">avoir des durillons; avoir une bosse</TRANSL>
+        <TRANSL xml:lang="zh">疙瘩</TRANSL>
+        <TRANSL xml:lang="en">swelling</TRANSL>
+        <AUDIO start="1877.022" end="1877.997"/>
+    </W>
+    <W id="M28_Vocabulary_S433">
+        <FORM>sɤ˥</FORM>
+        <TRANSL xml:lang="fr">sang</TRANSL>
+        <TRANSL xml:lang="zh">血</TRANSL>
+        <TRANSL xml:lang="en">blood</TRANSL>
+        <AUDIO start="1886.563" end="1888.767"/>
+    </W>
+    <W id="M28_Vocabulary_S434">
+        <FORM>sɤ˥</FORM>
+        <TRANSL xml:lang="fr">sang</TRANSL>
+        <TRANSL xml:lang="zh">血</TRANSL>
+        <TRANSL xml:lang="en">blood</TRANSL>
+        <AUDIO start="1893.434" end="1895.631"/>
+    </W>
+    <W id="M28_Vocabulary_S435">
+        <FORM>sɤ˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">veines</TRANSL>
+        <TRANSL xml:lang="zh">血管</TRANSL>
+        <TRANSL xml:lang="en">veins</TRANSL>
+        <AUDIO start="1896.524" end="1897.273"/>
+    </W>
+    <W id="M28_Vocabulary_S436">
+        <FORM>sɤ˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">veines</TRANSL>
+        <TRANSL xml:lang="zh">血管</TRANSL>
+        <TRANSL xml:lang="en">veins</TRANSL>
+        <AUDIO start="1898.204" end="1902.072"/>
+    </W>
+    <W id="M28_Vocabulary_S437">
+        <FORM>sɤ˧kʰɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">veines</TRANSL>
+        <TRANSL xml:lang="zh">血管</TRANSL>
+        <TRANSL xml:lang="en">veins</TRANSL>
+        <AUDIO start="1902.515" end="1903.263"/>
+    </W>
+    <W id="M28_Vocabulary_S438">
+        <FORM>ə̃˞˧</FORM>
+        <TRANSL xml:lang="fr">os, ossement</TRANSL>
+        <TRANSL xml:lang="zh">骨头</TRANSL>
+        <TRANSL xml:lang="en">bone</TRANSL>
+        <AUDIO start="1905.91" end="1906.621"/>
+    </W>
+    <W id="M28_Vocabulary_S439">
+        <FORM>ə̃˞˧</FORM>
+        <TRANSL xml:lang="fr">os, ossement</TRANSL>
+        <TRANSL xml:lang="zh">骨头</TRANSL>
+        <TRANSL xml:lang="en">bone</TRANSL>
+        <AUDIO start="1907.149" end="1907.741"/>
+    </W>
+    <W id="M28_Vocabulary_S440">
+        <FORM>hõ˧</FORM>
+        <TRANSL xml:lang="fr">côte</TRANSL>
+        <TRANSL xml:lang="zh">肋骨</TRANSL>
+        <TRANSL xml:lang="en">rib</TRANSL>
+        <AUDIO start="1912.501" end="1915.113"/>
+    </W>
+    <W id="M28_Vocabulary_S441">
+        <FORM>hõ˧</FORM>
+        <TRANSL xml:lang="fr">côte</TRANSL>
+        <TRANSL xml:lang="zh">肋骨</TRANSL>
+        <TRANSL xml:lang="en">rib</TRANSL>
+        <AUDIO start="1916.419" end="1916.959"/>
+    </W>
+    <W id="M28_Vocabulary_S442">
+        <FORM>hõ˧</FORM>
+        <TRANSL xml:lang="fr">côte</TRANSL>
+        <TRANSL xml:lang="zh">肋骨</TRANSL>
+        <TRANSL xml:lang="en">rib</TRANSL>
+        <AUDIO start="1925.016" end="1925.666"/>
+    </W>
+    <W id="M28_Vocabulary_S443">
+        <FORM>hõ˧</FORM>
+        <TRANSL xml:lang="fr">côte</TRANSL>
+        <TRANSL xml:lang="zh">肋骨</TRANSL>
+        <TRANSL xml:lang="en">rib</TRANSL>
+        <AUDIO start="1925.959" end="1926.548"/>
+    </W>
+    <W id="M28_Vocabulary_S444">
+        <FORM>hõ˧</FORM>
+        <TRANSL xml:lang="fr">côte</TRANSL>
+        <TRANSL xml:lang="zh">肋骨</TRANSL>
+        <TRANSL xml:lang="en">rib</TRANSL>
+        <AUDIO start="1922.932" end="1923.269"/>
+    </W>
+    <W id="M28_Vocabulary_S445">
+        <FORM>ʈʂʰə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">poumon</TRANSL>
+        <TRANSL xml:lang="zh">肺</TRANSL>
+        <TRANSL xml:lang="en">lung</TRANSL>
+        <AUDIO start="1932.426" end="1944.222"/>
+    </W>
+    <W id="M28_Vocabulary_S446">
+        <FORM>ʈʂʰə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">poumon</TRANSL>
+        <TRANSL xml:lang="zh">肺</TRANSL>
+        <TRANSL xml:lang="en">lung</TRANSL>
+        <AUDIO start="1964.171" end="1964.658"/>
+    </W>
+    <W id="M28_Vocabulary_S447">
+        <FORM>ʈʂʰə˞˧˥</FORM>
+        <TRANSL xml:lang="fr">poumon</TRANSL>
+        <TRANSL xml:lang="zh">肺</TRANSL>
+        <TRANSL xml:lang="en">lung</TRANSL>
+        <AUDIO start="1968.725" end="1969.369"/>
+    </W>
+    <W id="M28_Vocabulary_S448">
+        <FORM>sɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">foie</TRANSL>
+        <TRANSL xml:lang="zh">肝</TRANSL>
+        <TRANSL xml:lang="en">liver</TRANSL>
+        <AUDIO start="1970.26" end="1971.035"/>
+    </W>
+    <W id="M28_Vocabulary_S449">
+        <FORM>mbv̩˧lv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">rein</TRANSL>
+        <TRANSL xml:lang="zh">肾</TRANSL>
+        <TRANSL xml:lang="en">kidneys</TRANSL>
+        <AUDIO start="1974.358" end="1975.101"/>
+    </W>
+    <W id="M28_Vocabulary_S450">
+        <FORM>hu˧mi˥</FORM>
+        <TRANSL xml:lang="fr">estomac</TRANSL>
+        <TRANSL xml:lang="zh">胃</TRANSL>
+        <TRANSL xml:lang="en">stomach</TRANSL>
+        <AUDIO start="1977.982" end="1978.905"/>
+    </W>
+    <W id="M28_Vocabulary_S451">
+        <FORM>æ˩lɑ˩sɯ˧</FORM>
+        <TRANSL xml:lang="fr">gésier (du poulet)</TRANSL>
+        <TRANSL xml:lang="zh">鸡胃</TRANSL>
+        <TRANSL xml:lang="en">chicken stomach</TRANSL>
+        <AUDIO start="1980.498" end="1981.408"/>
+    </W>
+    <W id="M28_Vocabulary_S452">
+        <FORM>æ˩lɑ˩sɯ˧</FORM>
+        <NOTE xml:lang="en" message="This token is a clear instance of the tendency towards regressive vowel harmony found in Naish languages: it is close to [ɑ.lɑ...]"/>
+        <TRANSL xml:lang="fr">gésier (du poulet)</TRANSL>
+        <TRANSL xml:lang="zh">鸡胃</TRANSL>
+        <TRANSL xml:lang="en">chicken stomach</TRANSL>
+        <AUDIO start="1984.582" end="1985.401"/>
+    </W>
+    <W id="M28_Vocabulary_S453">
+        <FORM>zo˧ʁo˧ʐv̩˧</FORM>
+        <TRANSL xml:lang="fr">placenta</TRANSL>
+        <TRANSL xml:lang="zh">胎盘、衣胞</TRANSL>
+        <TRANSL xml:lang="en">placenta</TRANSL>
+        <AUDIO start="1991.138" end="1991.949"/>
+    </W>
+    <W id="M28_Vocabulary_S454">
+        <FORM>[zo˧]ʁo˧ʐv̩˧</FORM>
+        <TRANSL xml:lang="fr">placenta</TRANSL>
+        <TRANSL xml:lang="zh">胎盘、衣胞</TRANSL>
+        <TRANSL xml:lang="en">placenta</TRANSL>
+        <AUDIO start="1994.152" end="1995.005"/>
+    </W>
+    <W id="M28_Vocabulary_S455">
+        <FORM>bv̩˧</FORM>
+        <TRANSL xml:lang="fr">intestin</TRANSL>
+        <TRANSL xml:lang="zh">肠</TRANSL>
+        <TRANSL xml:lang="en">intestine</TRANSL>
+        <AUDIO start="2029.364" end="2032.286"/>
+    </W>
+    <W id="M28_Vocabulary_S456">
+        <FORM>bv̩˧</FORM>
+        <TRANSL xml:lang="fr">intestin</TRANSL>
+        <TRANSL xml:lang="zh">肠</TRANSL>
+        <TRANSL xml:lang="en">intestine</TRANSL>
+        <AUDIO start="2039.003" end="2039.792"/>
+    </W>
+    <W id="M28_Vocabulary_S457">
+        <FORM>bv̩˧</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated token."/>
+        <TRANSL xml:lang="fr">intestin</TRANSL>
+        <TRANSL xml:lang="zh">肠</TRANSL>
+        <TRANSL xml:lang="en">intestine</TRANSL>
+        <AUDIO start="2033.981" end="2034.817"/>
+    </W>
+    <W id="M28_Vocabulary_S458">
+        <FORM>bv̩˧pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">gros intestin</TRANSL>
+        <TRANSL xml:lang="zh">大肠</TRANSL>
+        <TRANSL xml:lang="en">large intestine</TRANSL>
+        <AUDIO start="2041.104" end="2042.014"/>
+    </W>
+    <W id="M28_Vocabulary_S459">
+        <FORM>bv̩˧pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">gros intestin</TRANSL>
+        <TRANSL xml:lang="zh">大肠</TRANSL>
+        <TRANSL xml:lang="en">large intestine</TRANSL>
+        <AUDIO start="2042.833" end="2044.922"/>
+    </W>
+    <W id="M28_Vocabulary_S460">
+        <FORM>bv̩˧pʰə˞˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">gros intestin</TRANSL>
+        <TRANSL xml:lang="zh">大肠</TRANSL>
+        <TRANSL xml:lang="en">large intestine</TRANSL>
+        <AUDIO start="2053.559" end="2055.011"/>
+    </W>
+    <W id="M28_Vocabulary_S461">
+        <FORM>bv̩˧nɑ˩</FORM>
+        <TRANSL xml:lang="fr">intestin grêle</TRANSL>
+        <TRANSL xml:lang="zh">小肠</TRANSL>
+        <TRANSL xml:lang="en">small intestine</TRANSL>
+        <AUDIO start="2060.05" end="2060.665"/>
+    </W>
+    <W id="M28_Vocabulary_S462">
+        <FORM>sɯ˧pv̩˧</FORM>
+        <TRANSL xml:lang="fr">vessie</TRANSL>
+        <TRANSL xml:lang="zh">膀胱</TRANSL>
+        <TRANSL xml:lang="en">urinary bladder</TRANSL>
+        <AUDIO start="2064.984" end="2066.842"/>
+    </W>
+    <W id="M28_Vocabulary_S463">
+        <FORM>sɯ˧pv̩˧</FORM>
+        <TRANSL xml:lang="fr">vessie</TRANSL>
+        <TRANSL xml:lang="zh">膀胱</TRANSL>
+        <TRANSL xml:lang="en">urinary bladder</TRANSL>
+        <AUDIO start="2068.734" end="2069.454"/>
+    </W>
+    <W id="M28_Vocabulary_S464">
+        <FORM>qʰæ˧</FORM>
+        <NOTE xml:lang="en" message="Hesitation on the tone: may be ˥; to be verified."/>
+        <TRANSL xml:lang="fr">excrément, fèces</TRANSL>
+        <TRANSL xml:lang="zh">屎</TRANSL>
+        <TRANSL xml:lang="en">excrements, dung, dropping</TRANSL>
+        <AUDIO start="2072.373" end="2072.689"/>
+    </W>
+    <W id="M28_Vocabulary_S465">
+        <FORM>ɳɖʐɯ˥</FORM>
+        <TRANSL xml:lang="fr">urine</TRANSL>
+        <TRANSL xml:lang="zh">尿</TRANSL>
+        <TRANSL xml:lang="en">urine</TRANSL>
+        <AUDIO start="2074.914" end="2075.628"/>
+    </W>
+    <W id="M28_Vocabulary_S466">
+        <FORM>ɳɖʐɯ˥</FORM>
+        <TRANSL xml:lang="fr">urine</TRANSL>
+        <TRANSL xml:lang="zh">尿</TRANSL>
+        <TRANSL xml:lang="en">urine</TRANSL>
+        <AUDIO start="2077.625" end="2078.304"/>
+    </W>
+    <W id="M28_Vocabulary_S467">
+        <FORM>qʰæ˥ kʰɯ˩</FORM>
+        <TRANSL xml:lang="fr">péter</TRANSL>
+        <TRANSL xml:lang="zh">放屁</TRANSL>
+        <TRANSL xml:lang="en">to fart</TRANSL>
+        <AUDIO start="2081.32" end="2082.121"/>
+    </W>
+    <W id="M28_Vocabulary_S468">
+        <FORM>qʰæ˥ kʰɯ˩</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones clearly."/>
+        <TRANSL xml:lang="fr">péter</TRANSL>
+        <TRANSL xml:lang="zh">放屁</TRANSL>
+        <TRANSL xml:lang="en">to fart</TRANSL>
+        <AUDIO start="2084.418" end="2084.989"/>
+    </W>
+    <W id="M28_Vocabulary_S469">
+        <FORM>ʈʂv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">sueur</TRANSL>
+        <TRANSL xml:lang="zh">汗</TRANSL>
+        <TRANSL xml:lang="en">sweat</TRANSL>
+        <AUDIO start="2088.237" end="2088.637"/>
+    </W>
+    <W id="M28_Vocabulary_S470">
+        <FORM>ʈʂv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">sueur</TRANSL>
+        <TRANSL xml:lang="zh">汗</TRANSL>
+        <TRANSL xml:lang="en">sweat</TRANSL>
+        <AUDIO start="2090.271" end="2090.747"/>
+    </W>
+    <W id="M28_Vocabulary_S471">
+        <FORM>ʈʂv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">sueur</TRANSL>
+        <TRANSL xml:lang="zh">汗</TRANSL>
+        <TRANSL xml:lang="en">sweat</TRANSL>
+        <AUDIO start="2100.152" end="2100.585"/>
+    </W>
+    <W id="M28_Vocabulary_S472">
+        <FORM>ʈʂv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">sueur</TRANSL>
+        <TRANSL xml:lang="zh">汗</TRANSL>
+        <TRANSL xml:lang="en">sweat</TRANSL>
+        <AUDIO start="2104.296" end="2104.96"/>
+    </W>
+    <W id="M28_Vocabulary_S473">
+        <FORM>ʈʂv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">sueur</TRANSL>
+        <TRANSL xml:lang="zh">汗</TRANSL>
+        <TRANSL xml:lang="en">sweat</TRANSL>
+        <AUDIO start="2106.872" end="2107.541"/>
+    </W>
+    <W id="M28_Vocabulary_S474">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2097.898" end="2098.433"/>
+    </W>
+    <W id="M28_Vocabulary_S475">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2101.08" end="2101.521"/>
+    </W>
+    <W id="M28_Vocabulary_S476">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2102.446" end="2102.934"/>
+    </W>
+    <W id="M28_Vocabulary_S477">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2105.207" end="2105.677"/>
+    </W>
+    <W id="M28_Vocabulary_S478">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2107.964" end="2108.559"/>
+    </W>
+    <W id="M28_Vocabulary_S479">
+        <FORM>ʈʂɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">crachat</TRANSL>
+        <TRANSL xml:lang="zh">痰</TRANSL>
+        <TRANSL xml:lang="en">phlegm, sputum</TRANSL>
+        <AUDIO start="2117.858" end="2118.537"/>
+    </W>
+    <W id="M28_Vocabulary_S480">
+        <FORM>mbæ˩˧</FORM>
+        <TRANSL xml:lang="fr">pus</TRANSL>
+        <TRANSL xml:lang="zh">脓</TRANSL>
+        <TRANSL xml:lang="en">pus</TRANSL>
+        <AUDIO start="2126.166" end="2126.782"/>
+    </W>
+    <W id="M28_Vocabulary_S481">
+        <FORM>mbæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tone."/>
+        <TRANSL xml:lang="fr">pus</TRANSL>
+        <TRANSL xml:lang="zh">脓</TRANSL>
+        <TRANSL xml:lang="en">pus</TRANSL>
+        <AUDIO start="2128.906" end="2129.661"/>
+    </W>
+    <W id="M28_Vocabulary_S482">
+        <FORM>mbæ˩˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tone."/>
+        <TRANSL xml:lang="fr">pus</TRANSL>
+        <TRANSL xml:lang="zh">脓</TRANSL>
+        <TRANSL xml:lang="en">pus</TRANSL>
+        <AUDIO start="2131.112" end="2131.716"/>
+    </W>
+    <W id="M28_Vocabulary_S483">
+        <FORM>mo˩ɕi˧</FORM>
+        <TRANSL xml:lang="fr">cadavre</TRANSL>
+        <TRANSL xml:lang="zh">尸体</TRANSL>
+        <TRANSL xml:lang="en">corpse</TRANSL>
+        <AUDIO start="2134.637" end="2136.133"/>
+    </W>
+    <W id="M28_Vocabulary_S484">
+        <FORM>mo˩˧... mo˩ɕi˧</FORM>
+        <TRANSL xml:lang="fr">cadavre</TRANSL>
+        <TRANSL xml:lang="zh">尸体</TRANSL>
+        <TRANSL xml:lang="en">corpse</TRANSL>
+        <AUDIO start="2137.737" end="2139.722"/>
+    </W>
+    <W id="M28_Vocabulary_S485">
+        <FORM>dzɯ˧zɯ˧</FORM>
+        <TRANSL xml:lang="fr">vie, existence; longévité</TRANSL>
+        <TRANSL xml:lang="zh">生命</TRANSL>
+        <TRANSL xml:lang="en">life, existence</TRANSL>
+        <AUDIO start="2162.118" end="2162.71"/>
+    </W>
+    <W id="M28_Vocabulary_S486">
+        <FORM>hĩ˧</FORM>
+        <NOTE xml:lang="en" message="The tone may in fact be H (˥); to be verified."/>
+        <TRANSL xml:lang="fr">homme</TRANSL>
+        <TRANSL xml:lang="zh">人</TRANSL>
+        <TRANSL xml:lang="en">man, person</TRANSL>
+        <AUDIO start="2165.196" end="2165.682"/>
+    </W>
+    <W id="M28_Vocabulary_S487">
+        <FORM>mbi˧tsʰɯ˧zɯ˥</FORM>
+        <TRANSL xml:lang="fr">espèce humaine</TRANSL>
+        <TRANSL xml:lang="zh">人类</TRANSL>
+        <TRANSL xml:lang="en">mankind</TRANSL>
+        <AUDIO start="2168.436" end="2169.322"/>
+    </W>
+    <W id="M28_Vocabulary_S488">
+        <FORM>tsʰo˩˧</FORM>
+        <TRANSL xml:lang="fr">espèce humaine</TRANSL>
+        <TRANSL xml:lang="zh">人类</TRANSL>
+        <TRANSL xml:lang="en">mankind</TRANSL>
+        <AUDIO start="2170.448" end="2170.991"/>
+    </W>
+    <W id="M28_Vocabulary_S489">
+        <FORM>ʁo˧dzv̩˧</FORM>
+        <TRANSL xml:lang="fr">Tibétain</TRANSL>
+        <TRANSL xml:lang="zh">藏族</TRANSL>
+        <TRANSL xml:lang="en">Tibetan</TRANSL>
+        <AUDIO start="2173.551" end="2178.445"/>
+    </W>
+    <W id="M28_Vocabulary_S490">
+        <FORM>lo˧lo˧</FORM>
+        <TRANSL xml:lang="fr">Yi/ Lo-lo (nationalité)</TRANSL>
+        <TRANSL xml:lang="zh">彝族</TRANSL>
+        <TRANSL xml:lang="en">Yi/ Lo-lo</TRANSL>
+        <AUDIO start="2184.341" end="2184.855"/>
+    </W>
+    <W id="M28_Vocabulary_S491">
+        <FORM>bɤ˥</FORM>
+        <TRANSL xml:lang="fr">Pumi (Prinmi)</TRANSL>
+        <TRANSL xml:lang="zh">普米族</TRANSL>
+        <TRANSL xml:lang="en">Pumi (Prinmi)</TRANSL>
+        <AUDIO start="2235.93" end="2237.447"/>
+    </W>
+    <W id="M28_Vocabulary_S492">
+        <FORM>nɑ˩hĩ˥</FORM>
+        <TRANSL xml:lang="fr">Naxi</TRANSL>
+        <TRANSL xml:lang="zh">纳西族</TRANSL>
+        <TRANSL xml:lang="en">Naxi</TRANSL>
+        <AUDIO start="2240.153" end="2240.638"/>
+    </W>
+    <W id="M28_Vocabulary_S493">
+        <FORM>nɑ˩hĩ˥</FORM>
+        <TRANSL xml:lang="fr">Naxi</TRANSL>
+        <TRANSL xml:lang="zh">纳西族</TRANSL>
+        <TRANSL xml:lang="en">Naxi</TRANSL>
+        <AUDIO start="2244.585" end="2245.177"/>
+    </W>
+    <W id="M28_Vocabulary_S494">
+        <FORM>nɑ˩hĩ˥</FORM>
+        <TRANSL xml:lang="fr">Naxi</TRANSL>
+        <TRANSL xml:lang="zh">纳西族</TRANSL>
+        <TRANSL xml:lang="en">Naxi</TRANSL>
+        <AUDIO start="2248.189" end="2248.87"/>
+    </W>
+    <W id="M28_Vocabulary_S495">
+        <FORM>nɑ˩˧</FORM>
+        <TRANSL xml:lang="fr">endonyme/autonyme: les Na</TRANSL>
+        <TRANSL xml:lang="zh">自称</TRANSL>
+        <TRANSL xml:lang="en">endonym/autonym</TRANSL>
+        <AUDIO start="2251.708" end="2252.3"/>
+    </W>
+    <W id="M28_Vocabulary_S496">
+        <FORM>li˧hĩ˧</FORM>
+        <TRANSL xml:lang="fr">les gens de Yongning</TRANSL>
+        <TRANSL xml:lang="zh">永宁的人（纳人）</TRANSL>
+        <TRANSL xml:lang="en">people of Yongning (Na, "Moso")</TRANSL>
+        <AUDIO start="2254.761" end="2255.365"/>
+    </W>
+    <W id="M28_Vocabulary_S497">
+        <FORM>li˧bv̩˧</FORM>
+        <TRANSL xml:lang="fr">Bai</TRANSL>
+        <TRANSL xml:lang="zh">白族</TRANSL>
+        <TRANSL xml:lang="en">Bai</TRANSL>
+        <AUDIO start="2258.093" end="2258.859"/>
+    </W>
+    <W id="M28_Vocabulary_S498">
+        <FORM>hæ˧pɤ˧</FORM>
+        <TRANSL xml:lang="fr">Chinois</TRANSL>
+        <TRANSL xml:lang="zh">汉人</TRANSL>
+        <TRANSL xml:lang="en">Chinese</TRANSL>
+        <AUDIO start="2261.59" end="2264.357"/>
+    </W>
+    <W id="M28_Vocabulary_S499">
+        <FORM>hæ˧pɤ˧</FORM>
+        <TRANSL xml:lang="fr">Chinois</TRANSL>
+        <TRANSL xml:lang="zh">汉人</TRANSL>
+        <TRANSL xml:lang="en">Chinese</TRANSL>
+        <AUDIO start="2266.846" end="2267.474"/>
+    </W>
+    <W id="M28_Vocabulary_S500">
+        <FORM>hæ˧pɤ˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the second syllable."/>
+        <TRANSL xml:lang="fr">Chinois</TRANSL>
+        <TRANSL xml:lang="zh">汉人</TRANSL>
+        <TRANSL xml:lang="en">Chinese</TRANSL>
+        <AUDIO start="2269.006" end="2269.61"/>
+    </W>
+    <W id="M28_Vocabulary_S501">
+        <FORM>lv̩˧sv̩˥</FORM>
+        <TRANSL xml:lang="fr">Lisu</TRANSL>
+        <TRANSL xml:lang="zh">傈僳族</TRANSL>
+        <TRANSL xml:lang="en">Lisu</TRANSL>
+        <AUDIO start="2275.838" end="2278.241"/>
+    </W>
+    <W id="M28_Vocabulary_S502">
+        <FORM>lv̩˧sv̩˥</FORM>
+        <TRANSL xml:lang="fr">Lisu</TRANSL>
+        <TRANSL xml:lang="zh">傈僳族</TRANSL>
+        <TRANSL xml:lang="en">Lisu</TRANSL>
+        <AUDIO start="2282.02" end="2282.56"/>
+    </W>
+    <W id="M28_Vocabulary_S503">
+        <FORM>mjɤ˩tsɯ˧</FORM>
+        <TRANSL xml:lang="fr">Hmông</TRANSL>
+        <TRANSL xml:lang="zh">苗族</TRANSL>
+        <TRANSL xml:lang="en">Hmong</TRANSL>
+        <AUDIO start="2286.351" end="2287.129"/>
+    </W>
+    <W id="M28_Vocabulary_S504">
+        <FORM>zo˧hṽ˧˥</FORM>
+        <TRANSL xml:lang="fr">enfant</TRANSL>
+        <TRANSL xml:lang="zh">孩子</TRANSL>
+        <TRANSL xml:lang="en">child</TRANSL>
+        <AUDIO start="2289.028" end="2289.524"/>
+    </W>
+    <W id="M28_Vocabulary_S505">
+        <FORM>zo˧hṽ˧˥</FORM>
+        <TRANSL xml:lang="fr">enfant</TRANSL>
+        <TRANSL xml:lang="zh">孩子</TRANSL>
+        <TRANSL xml:lang="en">child</TRANSL>
+        <AUDIO start="2312.832" end="2313.599"/>
+    </W>
+    <W id="M28_Vocabulary_S506">
+        <FORM>æ˧ɳæ˧</FORM>
+        <TRANSL xml:lang="fr">bébé, nouveau-né, nourrisson</TRANSL>
+        <TRANSL xml:lang="zh">婴儿</TRANSL>
+        <TRANSL xml:lang="en">newborn baby</TRANSL>
+        <AUDIO start="2293.728" end="2294.285"/>
+    </W>
+    <W id="M28_Vocabulary_S507">
+        <FORM>æ˧ɳæ˧</FORM>
+        <TRANSL xml:lang="fr">bébé, nouveau-né, nourrisson</TRANSL>
+        <TRANSL xml:lang="zh">婴儿</TRANSL>
+        <TRANSL xml:lang="en">newborn baby</TRANSL>
+        <AUDIO start="2308.148" end="2308.827"/>
+    </W>
+    <W id="M28_Vocabulary_S508">
+        <FORM>æ˧ɳæ˧</FORM>
+        <TRANSL xml:lang="fr">bébé, nouveau-né, nourrisson</TRANSL>
+        <TRANSL xml:lang="zh">婴儿</TRANSL>
+        <TRANSL xml:lang="en">newborn baby</TRANSL>
+        <AUDIO start="2310.029" end="2310.725"/>
+    </W>
+    <W id="M28_Vocabulary_S509">
+        <FORM>hĩ˧mo˥</FORM>
+        <TRANSL xml:lang="fr">vieillard, vieillarde</TRANSL>
+        <TRANSL xml:lang="zh">老人</TRANSL>
+        <TRANSL xml:lang="en">elderly person</TRANSL>
+        <AUDIO start="2317.919" end="2318.35"/>
+    </W>
+    <W id="M28_Vocabulary_S510">
+        <FORM>hĩ˧mo˥</FORM>
+        <TRANSL xml:lang="fr">vieillard, vieillarde</TRANSL>
+        <TRANSL xml:lang="zh">老人</TRANSL>
+        <TRANSL xml:lang="en">elderly person</TRANSL>
+        <AUDIO start="2319.682" end="2320.692"/>
+    </W>
+    <W id="M28_Vocabulary_S511">
+        <FORM>ə˧ʐɯ˧mo˥</FORM>
+        <TRANSL xml:lang="fr">femme âgée</TRANSL>
+        <TRANSL xml:lang="zh">老太太</TRANSL>
+        <TRANSL xml:lang="en">elderly woman</TRANSL>
+        <AUDIO start="2321.853" end="2324.362"/>
+    </W>
+    <W id="M28_Vocabulary_S512">
+        <FORM>mi˩zɯ˩˧</FORM>
+        <TRANSL xml:lang="fr">femme</TRANSL>
+        <TRANSL xml:lang="zh">妇女、女人</TRANSL>
+        <TRANSL xml:lang="en">woman</TRANSL>
+        <AUDIO start="2330.501" end="2331.429"/>
+    </W>
+    <W id="M28_Vocabulary_S513">
+        <FORM>zo˥</FORM>
+        <TRANSL xml:lang="fr">homme; garçon; fils</TRANSL>
+        <TRANSL xml:lang="zh">男人</TRANSL>
+        <TRANSL xml:lang="en">boy, man</TRANSL>
+        <AUDIO start="2334.634" end="2334.982"/>
+    </W>
+    <W id="M28_Vocabulary_S514">
+        <FORM>zo˥</FORM>
+        <TRANSL xml:lang="fr">homme; garçon; fils</TRANSL>
+        <TRANSL xml:lang="zh">男人</TRANSL>
+        <TRANSL xml:lang="en">boy, man</TRANSL>
+        <AUDIO start="2338.596" end="2339.119"/>
+    </W>
+    <W id="M28_Vocabulary_S515">
+        <FORM>zo˥</FORM>
+        <TRANSL xml:lang="fr">homme; garçon; fils</TRANSL>
+        <TRANSL xml:lang="zh">男人</TRANSL>
+        <TRANSL xml:lang="en">boy, man</TRANSL>
+        <AUDIO start="2341.391" end="2341.861"/>
+    </W>
+    <W id="M28_Vocabulary_S516">
+        <FORM>zo˥</FORM>
+        <TRANSL xml:lang="fr">homme; garçon; fils</TRANSL>
+        <TRANSL xml:lang="zh">男人</TRANSL>
+        <TRANSL xml:lang="en">boy, man</TRANSL>
+        <AUDIO start="2347.62" end="2347.874"/>
+    </W>
+    <W id="M28_Vocabulary_S517">
+        <FORM>mi˩zo˩˧</FORM>
+        <TRANSL xml:lang="fr">jeune fille</TRANSL>
+        <TRANSL xml:lang="zh">姑娘</TRANSL>
+        <TRANSL xml:lang="en">young lady</TRANSL>
+        <AUDIO start="2350.408" end="2351.483"/>
+    </W>
+    <W id="M28_Vocabulary_S518">
+        <FORM>mi˩zo˩˧</FORM>
+        <TRANSL xml:lang="fr">jeune fille</TRANSL>
+        <TRANSL xml:lang="zh">姑娘</TRANSL>
+        <TRANSL xml:lang="en">young lady</TRANSL>
+        <AUDIO start="2354.132" end="2354.613"/>
+    </W>
+    <W id="M28_Vocabulary_S519">
+        <FORM>hæ̃˧kʰo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">demoiselle de la noblesse</TRANSL>
+        <TRANSL xml:lang="zh">小姐</TRANSL>
+        <TRANSL xml:lang="en">princess, young lady of the nobility</TRANSL>
+        <AUDIO start="2358.249" end="2361.272"/>
+    </W>
+    <W id="M28_Vocabulary_S520">
+        <FORM>hæ̃˧kʰo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">demoiselle de la noblesse</TRANSL>
+        <TRANSL xml:lang="zh">小姐</TRANSL>
+        <TRANSL xml:lang="en">princess, young lady of the nobility</TRANSL>
+        <AUDIO start="2362.133" end="2363.42"/>
+    </W>
+    <W id="M28_Vocabulary_S521">
+        <FORM>hæ̃˧kʰo˩mi˧</FORM>
+        <TRANSL xml:lang="fr">demoiselle de la noblesse</TRANSL>
+        <TRANSL xml:lang="zh">小姐</TRANSL>
+        <TRANSL xml:lang="en">princess, young lady of the nobility</TRANSL>
+        <AUDIO start="2364.113" end="2364.801"/>
+    </W>
+    <W id="M28_Vocabulary_S522">
+        <FORM>ɖɯ˧-ʐɯ˩</FORM>
+        <TRANSL xml:lang="fr">une famille, un foyer</TRANSL>
+        <TRANSL xml:lang="zh">一户人</TRANSL>
+        <TRANSL xml:lang="en">one family</TRANSL>
+        <AUDIO start="2368.378" end="2369.063"/>
+    </W>
+    <W id="M28_Vocabulary_S523">
+        <FORM>ʐɯ˧mi˧</FORM>
+        <TRANSL xml:lang="fr">la famille, la maisonnée, le foyer</TRANSL>
+        <TRANSL xml:lang="zh">家、房子</TRANSL>
+        <TRANSL xml:lang="en">a household; a home</TRANSL>
+        <AUDIO start="2560.395" end="2561.091"/>
+    </W>
+    <W id="M28_Vocabulary_S524">
+        <FORM>ɑ˧pʰo˩hĩ˥</FORM>
+        <TRANSL xml:lang="fr">les gens extérieurs à la famille</TRANSL>
+        <TRANSL xml:lang="zh">外人</TRANSL>
+        <TRANSL xml:lang="en">strangers, people outside the family</TRANSL>
+        <AUDIO start="2372.768" end="2373.314"/>
+    </W>
+    <W id="M28_Vocabulary_S525">
+        <FORM>ɑ˧pʰo˩hĩ˥</FORM>
+        <TRANSL xml:lang="fr">les gens extérieurs à la famille</TRANSL>
+        <TRANSL xml:lang="zh">外人</TRANSL>
+        <TRANSL xml:lang="en">strangers, people outside the family</TRANSL>
+        <AUDIO start="2374.281" end="2375.176"/>
+    </W>
+    <W id="M28_Vocabulary_S526">
+        <FORM>ɑ˧pʰo˩hĩ˥</FORM>
+        <NOTE xml:lang="en" message="This token brings out the tones."/>
+        <TRANSL xml:lang="fr">les gens extérieurs à la famille</TRANSL>
+        <TRANSL xml:lang="zh">外人</TRANSL>
+        <TRANSL xml:lang="en">strangers, people outside the family</TRANSL>
+        <AUDIO start="2388.533" end="2389.456"/>
+    </W>
+    <W id="M28_Vocabulary_S527">
+        <FORM>ʈʂʰv̩˧tɕɤ˧</FORM>
+        <TRANSL xml:lang="fr">membres de la famille (étendue)</TRANSL>
+        <TRANSL xml:lang="zh">亲戚</TRANSL>
+        <TRANSL xml:lang="en">relatives, members of the (extended) family</TRANSL>
+        <AUDIO start="2397.661" end="2398.25"/>
+    </W>
+    <W id="M28_Vocabulary_S528">
+        <FORM>ə˧v̩˧˥</FORM>
+        <NOTE xml:lang="en" message="Transcription to be verified: might be ə˧wo˧˥"/>
+        <TRANSL xml:lang="fr">oncle maternel, frère aîné de la mère</TRANSL>
+        <TRANSL xml:lang="zh">舅舅、舅父(比母亲大)	</TRANSL>
+        <TRANSL xml:lang="en">maternal uncle (mother's elder brother)</TRANSL>
+        <AUDIO start="2402.825" end="2406.202"/>
+    </W>
+    <W id="M28_Vocabulary_S529">
+        <FORM>ʐv̩˧v̩˥</FORM>
+        <NOTE xml:lang="en" message="Transcription to be verified again; might be ʐv̩˧wo˥"/>
+        <TRANSL xml:lang="fr">petit-fils</TRANSL>
+        <TRANSL xml:lang="zh">孙子</TRANSL>
+        <TRANSL xml:lang="en">grandson</TRANSL>
+        <AUDIO start="2408.572" end="2409.312"/>
+    </W>
+    <W id="M28_Vocabulary_S530">
+        <FORM>ʐv̩˧mi˥</FORM>
+        <TRANSL xml:lang="fr">petite-fille</TRANSL>
+        <TRANSL xml:lang="zh">孙女</TRANSL>
+        <TRANSL xml:lang="en">granddaughter</TRANSL>
+        <AUDIO start="2411.234" end="2411.663"/>
+    </W>
+    <W id="M28_Vocabulary_S531">
+        <FORM>gɯ˧zɯ˥</FORM>
+        <TRANSL xml:lang="fr">petit frère</TRANSL>
+        <TRANSL xml:lang="zh">弟弟</TRANSL>
+        <TRANSL xml:lang="en">little brother, younger brother</TRANSL>
+        <AUDIO start="2418.501" end="2421.636"/>
+    </W>
+    <W id="M28_Vocabulary_S532">
+        <FORM>gɯ˧zɯ˥</FORM>
+        <TRANSL xml:lang="fr">petit frère</TRANSL>
+        <TRANSL xml:lang="zh">弟弟</TRANSL>
+        <TRANSL xml:lang="en">little brother, younger brother</TRANSL>
+        <AUDIO start="2426.674" end="2427.766"/>
+    </W>
+    <W id="M28_Vocabulary_S533">
+        <FORM>gɯ˧zɯ˥</FORM>
+        <TRANSL xml:lang="fr">petit frère</TRANSL>
+        <TRANSL xml:lang="zh">弟弟</TRANSL>
+        <TRANSL xml:lang="en">little brother, younger brother</TRANSL>
+        <AUDIO start="2429.289" end="2429.762"/>
+    </W>
+    <W id="M28_Vocabulary_S534">
+        <FORM>go˧mi˧</FORM>
+        <TRANSL xml:lang="fr">petite soeur</TRANSL>
+        <TRANSL xml:lang="zh">妹妹</TRANSL>
+        <TRANSL xml:lang="en">younger sister</TRANSL>
+        <AUDIO start="2432.618" end="2433.333"/>
+    </W>
+    <W id="M28_Vocabulary_S535">
+        <FORM>ə˧pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">oncle de l'oncle (aîné) maternel; employé pour tout ancêtre masculin à la deuxième génération</TRANSL>
+        <TRANSL xml:lang="zh">舅舅的舅舅</TRANSL>
+        <TRANSL xml:lang="en">uncle of uncle (on mother's side: mother's elder brother)</TRANSL>
+        <AUDIO start="2440.385" end="2440.838"/>
+    </W>
+    <W id="M28_Vocabulary_S536">
+        <FORM>ə˧pʰə˞˧</FORM>
+        <TRANSL xml:lang="fr">oncle de l'oncle (aîné) maternel; employé pour tout ancêtre masculin à la deuxième génération</TRANSL>
+        <TRANSL xml:lang="zh">舅舅的舅舅</TRANSL>
+        <TRANSL xml:lang="en">uncle of uncle (on mother's side: mother's elder brother)</TRANSL>
+        <AUDIO start="2447.85" end="2449.464"/>
+    </W>
+    <W id="M28_Vocabulary_S537">
+        <FORM>mo˩zo˥</FORM>
+        <TRANSL xml:lang="fr">militaire, soldat</TRANSL>
+        <TRANSL xml:lang="zh">士兵</TRANSL>
+        <TRANSL xml:lang="en">soldier</TRANSL>
+        <AUDIO start="2453.922" end="2454.549"/>
+    </W>
+    <W id="M28_Vocabulary_S538">
+        <FORM>mo˩zo˥</FORM>
+        <TRANSL xml:lang="fr">militaire, soldat</TRANSL>
+        <TRANSL xml:lang="zh">士兵</TRANSL>
+        <TRANSL xml:lang="en">soldier</TRANSL>
+        <AUDIO start="2457.563" end="2458.311"/>
+    </W>
+    <W id="M28_Vocabulary_S539">
+        <FORM>sɯ˧pʰi˧</FORM>
+        <TRANSL xml:lang="fr">noble (la plus haute des 3 castes de la société ancienne)</TRANSL>
+        <TRANSL xml:lang="zh">贵族，奴隶主</TRANSL>
+        <TRANSL xml:lang="en">nobleman (highest of the 3 ranks in feudal society)</TRANSL>
+        <AUDIO start="2461.333" end="2462.114"/>
+    </W>
+    <W id="M28_Vocabulary_S540">
+        <FORM>sɯ˧pʰi˧</FORM>
+        <TRANSL xml:lang="fr">noble (la plus haute des 3 castes de la société ancienne)</TRANSL>
+        <TRANSL xml:lang="zh">贵族，奴隶主</TRANSL>
+        <TRANSL xml:lang="en">nobleman (highest of the 3 ranks in feudal society)</TRANSL>
+        <AUDIO start="2466.717" end="2467.431"/>
+    </W>
+    <W id="M28_Vocabulary_S541">
+        <FORM>dze˧kʰɤ˧</FORM>
+        <TRANSL xml:lang="fr">roturier, la 2e des 3 castes de la société ancienne, intermédiaire entre la noblesse et les serfs</TRANSL>
+        <TRANSL xml:lang="zh">百姓</TRANSL>
+        <TRANSL xml:lang="en">commoner (2nd of the 3 ranks in feudal society)</TRANSL>
+        <AUDIO start="2480.854" end="2481.602"/>
+    </W>
+    <W id="M28_Vocabulary_S542">
+        <FORM>wɤ˧</FORM>
+        <TRANSL xml:lang="fr">serf, esclave (la plus basse caste de la société ancienne)</TRANSL>
+        <TRANSL xml:lang="zh">奴隶、农奴</TRANSL>
+        <TRANSL xml:lang="en">serf, slave (lowest of the 3 ranks in feudal society)</TRANSL>
+        <AUDIO start="2470" end="2470.479"/>
+    </W>
+    <W id="M28_Vocabulary_S543">
+        <FORM>po˧ɖʐv̩˥</FORM>
+        <TRANSL xml:lang="fr">artisan</TRANSL>
+        <TRANSL xml:lang="zh">工匠</TRANSL>
+        <TRANSL xml:lang="en">craftsman</TRANSL>
+        <AUDIO start="2484.936" end="2487.28"/>
+    </W>
+    <W id="M28_Vocabulary_S544">
+        <FORM>po˧ɖʐv̩˥</FORM>
+        <TRANSL xml:lang="fr">artisan</TRANSL>
+        <TRANSL xml:lang="zh">工匠</TRANSL>
+        <TRANSL xml:lang="en">craftsman</TRANSL>
+        <AUDIO start="2488.448" end="2489.301"/>
+    </W>
+    <W id="M28_Vocabulary_S545">
+        <FORM>hɑ˧mi˥; hɑ˧mi˧-hĩ˥</FORM>
+        <TRANSL xml:lang="fr">mendiant; personne qui mendie</TRANSL>
+        <TRANSL xml:lang="zh">乞丐</TRANSL>
+        <TRANSL xml:lang="en">beggar; person who begs</TRANSL>
+        <AUDIO start="2493.348" end="2496.743"/>
+    </W>
+    <W id="M28_Vocabulary_S546">
+        <FORM>hɑ˧mi˧-hĩ˥</FORM>
+        <TRANSL xml:lang="fr">personne qui mendie</TRANSL>
+        <TRANSL xml:lang="zh">乞丐</TRANSL>
+        <TRANSL xml:lang="en">person who begs</TRANSL>
+        <AUDIO start="2499.094" end="2499.774"/>
+    </W>
+    <W id="M28_Vocabulary_S547">
+        <FORM>ɑ˧ɳɖʐv̩˧</FORM>
+        <NOTE xml:lang="en" message="The first syllable can probably be analyzed as /ə/"/>
+        <TRANSL xml:lang="fr">ami/amie, compagnon/compagne</TRANSL>
+        <TRANSL xml:lang="zh">朋友, 伙伴</TRANSL>
+        <TRANSL xml:lang="en">friend, companion, partner</TRANSL>
+        <AUDIO start="2502.421" end="2509.004"/>
+    </W>
+    <W id="M28_Vocabulary_S548">
+        <FORM>li˧mbo˧</FORM>
+        <TRANSL xml:lang="fr">sourd</TRANSL>
+        <TRANSL xml:lang="zh">聋子</TRANSL>
+        <TRANSL xml:lang="en">deaf person</TRANSL>
+        <AUDIO start="2513.06" end="2513.804"/>
+    </W>
+    <W id="M28_Vocabulary_S549">
+        <FORM>li˧mbo˧</FORM>
+        <TRANSL xml:lang="fr">sourd</TRANSL>
+        <TRANSL xml:lang="zh">聋子</TRANSL>
+        <TRANSL xml:lang="en">deaf person</TRANSL>
+        <AUDIO start="2514.779" end="2515.638"/>
+    </W>
+    <W id="M28_Vocabulary_S550">
+        <FORM>li˧mbo˧</FORM>
+        <NOTE xml:lang="en" message="This token brings out the rhyme of the first syllable."/>
+        <TRANSL xml:lang="fr">sourd</TRANSL>
+        <TRANSL xml:lang="zh">聋子</TRANSL>
+        <TRANSL xml:lang="en">deaf person</TRANSL>
+        <AUDIO start="2521.731" end="2523.185"/>
+    </W>
+    <W id="M28_Vocabulary_S551">
+        <FORM>ndɑ˧pv̩˥</FORM>
+        <TRANSL xml:lang="fr">maître de maison, hôte (celui qui accueille)</TRANSL>
+        <TRANSL xml:lang="zh">主人</TRANSL>
+        <TRANSL xml:lang="en">host</TRANSL>
+        <AUDIO start="2567.761" end="2568.365"/>
+    </W>
+    <W id="M28_Vocabulary_S552">
+        <FORM>ʐɯ˧mi˧ndɑ˧pv̩˧</FORM>
+        <TRANSL xml:lang="fr">maître de maison, hôte (celui qui accueille)</TRANSL>
+        <TRANSL xml:lang="zh">主人</TRANSL>
+        <TRANSL xml:lang="en">host</TRANSL>
+        <AUDIO start="2558.514" end="2559.547"/>
+    </W>
+    <W id="M28_Vocabulary_S553">
+        <FORM>ʐɯ˧mi˧ndɑ˧pv̩˧</FORM>
+        <TRANSL xml:lang="fr">maître de maison, hôte (celui qui accueille)</TRANSL>
+        <TRANSL xml:lang="zh">主人</TRANSL>
+        <TRANSL xml:lang="en">host</TRANSL>
+        <AUDIO start="2561.753" end="2562.741"/>
+    </W>
+    <W id="M28_Vocabulary_S554">
+        <FORM>hĩ˧mbæ˧</FORM>
+        <TRANSL xml:lang="fr">invité, visiteur, hôte</TRANSL>
+        <TRANSL xml:lang="zh">客人</TRANSL>
+        <TRANSL xml:lang="en">guest, visitor</TRANSL>
+        <AUDIO start="2571.825" end="2577.862"/>
+    </W>
+    <W id="M28_Vocabulary_S555">
+        <FORM>hĩ˧mbæ˧</FORM>
+        <NOTE xml:lang="en" message="Careful realization, separating successive syllables"/>
+        <TRANSL xml:lang="fr">invité, visiteur, hôte</TRANSL>
+        <TRANSL xml:lang="zh">客人</TRANSL>
+        <TRANSL xml:lang="en">guest, visitor</TRANSL>
+        <AUDIO start="2580.647" end="2584.085"/>
+    </W>
+    <W id="M28_Vocabulary_S556">
+        <FORM>ho˧ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">gruau de riz clair</TRANSL>
+        <TRANSL xml:lang="zh">稀饭</TRANSL>
+        <TRANSL xml:lang="en">watery rice gruel; porridge</TRANSL>
+        <AUDIO start="2589.759" end="2592.499"/>
+    </W>
+    <W id="M28_Vocabulary_S557">
+        <FORM>ho˧ɖʐɯ˧˥</FORM>
+        <TRANSL xml:lang="fr">gruau de riz clair</TRANSL>
+        <TRANSL xml:lang="zh">稀饭</TRANSL>
+        <TRANSL xml:lang="en">watery rice gruel; porridge</TRANSL>
+        <AUDIO start="2593.494" end="2594.117"/>
+    </W>
+    <W id="M28_Vocabulary_S558">
+        <FORM>hɑ˥</FORM>
+        <TRANSL xml:lang="fr">riz cuit; nourriture</TRANSL>
+        <TRANSL xml:lang="zh">饭</TRANSL>
+        <TRANSL xml:lang="en">cooked rice</TRANSL>
+        <AUDIO start="2595.85" end="2596.454"/>
+    </W>
+    <W id="M28_Vocabulary_S559">
+        <FORM>hɑ˥</FORM>
+        <TRANSL xml:lang="fr">riz cuit; nourriture</TRANSL>
+        <TRANSL xml:lang="zh">饭</TRANSL>
+        <TRANSL xml:lang="en">cooked rice</TRANSL>
+        <AUDIO start="2758.549" end="2759.228"/>
+    </W>
+    <W id="M28_Vocabulary_S560">
+        <FORM>ho˥</FORM>
+        <TRANSL xml:lang="fr">gruau</TRANSL>
+        <TRANSL xml:lang="zh">粥</TRANSL>
+        <TRANSL xml:lang="en">porridge, gruel, congee</TRANSL>
+        <AUDIO start="2599.351" end="2599.774"/>
+    </W>
+    <W id="M28_Vocabulary_S561">
+        <FORM>ho˥</FORM>
+        <TRANSL xml:lang="fr">gruau</TRANSL>
+        <TRANSL xml:lang="zh">粥</TRANSL>
+        <TRANSL xml:lang="en">porridge, gruel, congee</TRANSL>
+        <AUDIO start="2600.188" end="2601.687"/>
+    </W>
+    <W id="M28_Vocabulary_S562">
+        <FORM>ho˥</FORM>
+        <TRANSL xml:lang="fr">gruau</TRANSL>
+        <TRANSL xml:lang="zh">粥</TRANSL>
+        <TRANSL xml:lang="en">porridge, gruel, congee</TRANSL>
+        <AUDIO start="2604.281" end="2605.065"/>
+    </W>
+    <W id="M28_Vocabulary_S563">
+        <FORM>tsɑ˧mbɤ˧</FORM>
+        <TRANSL xml:lang="fr">farine, poudre, tsamba</TRANSL>
+        <TRANSL xml:lang="zh">面粉、糌粑</TRANSL>
+        <TRANSL xml:lang="en">powder, flour, tsamba</TRANSL>
+        <AUDIO start="2622.417" end="2625.254"/>
+    </W>
+    <W id="M28_Vocabulary_S564">
+        <FORM>dze˧-tsɑ˧mbɤ˩</FORM>
+        <TRANSL xml:lang="fr">farine de blé</TRANSL>
+        <TRANSL xml:lang="zh">小麦粉</TRANSL>
+        <TRANSL xml:lang="en">wheat flour</TRANSL>
+        <AUDIO start="2613.533" end="2614.237"/>
+    </W>
+    <W id="M28_Vocabulary_S565">
+        <FORM>qʰɑ˧dze˧-tsɑ˧mbɤ˧</FORM>
+        <TRANSL xml:lang="fr">farine de maïs</TRANSL>
+        <TRANSL xml:lang="zh">玉米粉、包谷粉</TRANSL>
+        <TRANSL xml:lang="en">sweetcorn flour</TRANSL>
+        <AUDIO start="2616.637" end="2617.372"/>
+    </W>
+    <W id="M28_Vocabulary_S566">
+        <FORM>jɑ˧qʰɑ˧-tsɑ˧mbɤ˥</FORM>
+        <TRANSL xml:lang="fr">farine de sarrasin</TRANSL>
+        <TRANSL xml:lang="zh">荞麦粉</TRANSL>
+        <TRANSL xml:lang="en">buckwheat flour (Fagopyrum esculentum)</TRANSL>
+        <AUDIO start="2618.358" end="2619.079"/>
+    </W>
+    <W id="M28_Vocabulary_S567">
+        <FORM>ɳɖʐɯ˥</FORM>
+        <TRANSL xml:lang="fr">levure pour alcool</TRANSL>
+        <TRANSL xml:lang="zh">酒药、用发酵、酒曲</TRANSL>
+        <TRANSL xml:lang="en">yeast for brewing/fermenting</TRANSL>
+        <AUDIO start="2633.394" end="2635.31"/>
+    </W>
+    <W id="M28_Vocabulary_S568">
+        <FORM>ɳɖʐɯ˥</FORM>
+        <TRANSL xml:lang="fr">levure pour alcool</TRANSL>
+        <TRANSL xml:lang="zh">酒药、用发酵、酒曲</TRANSL>
+        <TRANSL xml:lang="en">yeast for brewing/fermenting</TRANSL>
+        <AUDIO start="2636.968" end="2637.503"/>
+    </W>
+    <W id="M28_Vocabulary_S569">
+        <FORM>pi˧ɭɯ˧</FORM>
+        <TRANSL xml:lang="fr">reste après distillation d'alcool</TRANSL>
+        <TRANSL xml:lang="zh">酒糟</TRANSL>
+        <TRANSL xml:lang="en">distiller's grains</TRANSL>
+        <AUDIO start="2640.08" end="2640.683"/>
+    </W>
+    <W id="M28_Vocabulary_S570">
+        <FORM>pi˧ɭɯ˧</FORM>
+        <TRANSL xml:lang="fr">reste après distillation d'alcool</TRANSL>
+        <TRANSL xml:lang="zh">酒糟</TRANSL>
+        <TRANSL xml:lang="en">distiller's grains</TRANSL>
+        <AUDIO start="2641.996" end="2644.596"/>
+    </W>
+    <W id="M28_Vocabulary_S571">
+        <FORM>[pi˧]ɭɯ˧</FORM>
+        <NOTE xml:lang="en" message="Hyperarticulated, bringing out the rhyme, which is unexpected: one would expect /lv/, not /ɭɯ/."/>
+        <TRANSL xml:lang="fr">reste après distillation d'alcool</TRANSL>
+        <TRANSL xml:lang="zh">酒糟</TRANSL>
+        <TRANSL xml:lang="en">distiller's grains</TRANSL>
+        <AUDIO start="2647.557" end="2648.255"/>
+    </W>
+    <W id="M28_Vocabulary_S572">
+        <FORM>ɕi˥</FORM>
+        <TRANSL xml:lang="fr">viande, chair</TRANSL>
+        <TRANSL xml:lang="zh">肉</TRANSL>
+        <TRANSL xml:lang="en">meat, flesh</TRANSL>
+        <AUDIO start="2653.064" end="2653.412"/>
+    </W>
+    <W id="M28_Vocabulary_S573">
+        <FORM>ɕi˥</FORM>
+        <TRANSL xml:lang="fr">viande, chair</TRANSL>
+        <TRANSL xml:lang="zh">肉</TRANSL>
+        <TRANSL xml:lang="en">meat, flesh</TRANSL>
+        <AUDIO start="2654.807" end="2655.207"/>
+    </W>
+    <W id="M28_Vocabulary_S574">
+        <FORM>kv̩˥kv̩˥bv̩˧</FORM>
+        <TRANSL xml:lang="fr">saucisse</TRANSL>
+        <TRANSL xml:lang="zh">香肠</TRANSL>
+        <TRANSL xml:lang="en">sausage</TRANSL>
+        <AUDIO start="2658.317" end="2663.728"/>
+    </W>
+    <W id="M28_Vocabulary_S575">
+        <FORM>kv̩˥kv̩˥bv̩˧</FORM>
+        <NOTE xml:lang="en" message="This token emphasizes the rhyme of the last syllable."/>
+        <TRANSL xml:lang="fr">saucisse</TRANSL>
+        <TRANSL xml:lang="zh">香肠</TRANSL>
+        <TRANSL xml:lang="en">sausage</TRANSL>
+        <AUDIO start="2666.984" end="2670.583"/>
+    </W>
+    <W id="M28_Vocabulary_S576">
+        <FORM>kv̩˥kv̩˥bv̩˧</FORM>
+        <NOTE xml:lang="en" message="This token emphasizes the tones."/>
+        <TRANSL xml:lang="fr">saucisse</TRANSL>
+        <TRANSL xml:lang="zh">香肠</TRANSL>
+        <TRANSL xml:lang="en">sausage</TRANSL>
+        <AUDIO start="2678.786" end="2679.445"/>
+    </W>
+    <W id="M28_Vocabulary_S577">
+        <FORM>bo˩mɤ˥</FORM>
+        <TRANSL xml:lang="fr">saindoux (gras de porc)</TRANSL>
+        <TRANSL xml:lang="zh">猪油</TRANSL>
+        <TRANSL xml:lang="en">lard</TRANSL>
+        <AUDIO start="2692.943" end="2694.975"/>
+    </W>
+    <W id="M28_Vocabulary_S578">
+        <FORM>æ˩ɻv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">oeuf</TRANSL>
+        <TRANSL xml:lang="zh">蛋</TRANSL>
+        <TRANSL xml:lang="en">egg</TRANSL>
+        <AUDIO start="2699.784" end="2702.501"/>
+    </W>
+    <W id="M28_Vocabulary_S579">
+        <FORM>æ˩ɻv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">oeuf</TRANSL>
+        <TRANSL xml:lang="zh">蛋</TRANSL>
+        <TRANSL xml:lang="en">egg</TRANSL>
+        <AUDIO start="2704.469" end="2704.981"/>
+    </W>
+    <W id="M28_Vocabulary_S580">
+        <FORM>æ˩ɻv̩˩˧</FORM>
+        <TRANSL xml:lang="fr">oeuf</TRANSL>
+        <TRANSL xml:lang="zh">蛋</TRANSL>
+        <TRANSL xml:lang="en">egg</TRANSL>
+        <AUDIO start="2706.964" end="2707.416"/>
+    </W>
+    <W id="M28_Vocabulary_S581">
+        <FORM>wo˩ɖʐɯ˩˥</FORM>
+        <NOTE xml:lang="en" message="Transcription to be confirmed. Phonetically this is close to u/wu; since no /u/ vowel distinct from /o/ was found in the language this can be reanalyzed as /o/; the choice to transcribe an on-glide was made for all syllables without a consonantal onset, hence /wo/."/>
+        <TRANSL xml:lang="fr">soupe</TRANSL>
+        <TRANSL xml:lang="zh">汤</TRANSL>
+        <TRANSL xml:lang="en">soup</TRANSL>
+        <AUDIO start="2717.484" end="2719.957"/>
+    </W>
+    <W id="M28_Vocabulary_S582">
+        <FORM>ʐɯ˧</FORM>
+        <TRANSL xml:lang="fr">alcool fermenté, chang, vin</TRANSL>
+        <TRANSL xml:lang="zh">酒</TRANSL>
+        <TRANSL xml:lang="en">fermented alcohol, wine</TRANSL>
+        <AUDIO start="2722.058" end="2722.72"/>
+    </W>
+    <W id="M28_Vocabulary_S583">
+        <FORM>li˩˧</FORM>
+        <TRANSL xml:lang="fr">thé</TRANSL>
+        <TRANSL xml:lang="zh">茶</TRANSL>
+        <TRANSL xml:lang="en">tea</TRANSL>
+        <AUDIO start="2724.481" end="2725.493"/>
+    </W>
+    <W id="M28_Vocabulary_S584">
+        <FORM>li˩˧</FORM>
+        <TRANSL xml:lang="fr">thé</TRANSL>
+        <TRANSL xml:lang="zh">茶</TRANSL>
+        <TRANSL xml:lang="en">tea</TRANSL>
+        <AUDIO start="2727.327" end="2728.224"/>
+    </W>
+    <W id="M28_Vocabulary_S585">
+        <FORM>li˩˧</FORM>
+        <TRANSL xml:lang="fr">thé</TRANSL>
+        <TRANSL xml:lang="zh">茶</TRANSL>
+        <TRANSL xml:lang="en">tea</TRANSL>
+        <AUDIO start="2729.164" end="2729.756"/>
+    </W>
+    <W id="M28_Vocabulary_S586">
+        <FORM>ndze˥</FORM>
+        <TRANSL xml:lang="fr">sucre</TRANSL>
+        <TRANSL xml:lang="zh">糖</TRANSL>
+        <TRANSL xml:lang="en">sugar</TRANSL>
+        <AUDIO start="2730.592" end="2731.196"/>
+    </W>
+    <W id="M28_Vocabulary_S587">
+        <FORM>ndze˥</FORM>
+        <TRANSL xml:lang="fr">sucre</TRANSL>
+        <TRANSL xml:lang="zh">糖</TRANSL>
+        <TRANSL xml:lang="en">sugar</TRANSL>
+        <AUDIO start="2732.523" end="2733.113"/>
+    </W>
+    <W id="M28_Vocabulary_S588">
+        <FORM>jɤ˧</FORM>
+        <TRANSL xml:lang="fr">tabac, cigarette</TRANSL>
+        <TRANSL xml:lang="zh">烟</TRANSL>
+        <TRANSL xml:lang="en">tobacco, cigarettes</TRANSL>
+        <AUDIO start="2735.282" end="2735.638"/>
+    </W>
+    <W id="M28_Vocabulary_S589">
+        <FORM>jɤ˧</FORM>
+        <TRANSL xml:lang="fr">tabac, cigarette</TRANSL>
+        <TRANSL xml:lang="zh">烟</TRANSL>
+        <TRANSL xml:lang="en">tobacco, cigarettes</TRANSL>
+        <AUDIO start="91.495" end="91.889"/>
+    </W>
+    <W id="M28_Vocabulary_S590">
+        <FORM>jɤ˧pʰi˧jɤ˧</FORM>
+        <TRANSL xml:lang="fr">opium</TRANSL>
+        <TRANSL xml:lang="zh">鸦片</TRANSL>
+        <TRANSL xml:lang="en">opium</TRANSL>
+        <AUDIO start="2739.379" end="2740.123"/>
+    </W>
+    <W id="M28_Vocabulary_S591">
+        <FORM>jɤ˧pʰi˧jɤ˧</FORM>
+        <TRANSL xml:lang="fr">opium</TRANSL>
+        <TRANSL xml:lang="zh">鸦片</TRANSL>
+        <TRANSL xml:lang="en">opium</TRANSL>
+        <AUDIO start="2748.261" end="2749.143"/>
+    </W>
+    <W id="M28_Vocabulary_S592">
+        <FORM>ʈʂʰæ˧ɣɯ˧</FORM>
+        <TRANSL xml:lang="fr">médicament</TRANSL>
+        <TRANSL xml:lang="zh">药</TRANSL>
+        <TRANSL xml:lang="en">medicine</TRANSL>
+        <AUDIO start="2756.243" end="2756.87"/>
+    </W>
+    <W id="M28_Vocabulary_S593">
+        <FORM>bo˩hɑ˥</FORM>
+        <TRANSL xml:lang="fr">nourriture du cochon/ pâtée des porcs</TRANSL>
+        <TRANSL xml:lang="zh">猪食</TRANSL>
+        <TRANSL xml:lang="en">pig feed, swill</TRANSL>
+        <AUDIO start="2762.632" end="2763.38"/>
+    </W>
+    <W id="M28_Vocabulary_S594">
+        <FORM>ʐwæ˧zɯ˧</FORM>
+        <TRANSL xml:lang="fr">nourriture pour cheval</TRANSL>
+        <TRANSL xml:lang="zh">马料</TRANSL>
+        <TRANSL xml:lang="en">horse fodder</TRANSL>
+        <AUDIO start="2764.898" end="2765.644"/>
+    </W>
+    <W id="M28_Vocabulary_S595">
+        <FORM>kʰɯ˧</FORM>
+        <TRANSL xml:lang="fr">fil</TRANSL>
+        <TRANSL xml:lang="zh">线</TRANSL>
+        <TRANSL xml:lang="en">thread</TRANSL>
+        <AUDIO start="2766.112" end="2767.918"/>
+    </W>
+    <W id="M28_Vocabulary_S596">
+        <FORM>ʈʂʰæ˧</FORM>
+        <NOTE xml:lang="en" message="phonetically close to tɕʰæ˧; phonemic analysis: /ʈʂʰæ/, same initial as in other syllables transcribed with retroflex initials"/>
+        <TRANSL xml:lang="fr">se laver</TRANSL>
+        <TRANSL xml:lang="zh">洗澡</TRANSL>
+        <TRANSL xml:lang="en">to wash oneself</TRANSL>
+        <AUDIO start="321.649" end="322.04"/>
+    </W>
+    <W id="M28_Vocabulary_S597">
+        <FORM>le˧-wo˩-bi˧</FORM>
+        <TRANSL xml:lang="fr">repartir</TRANSL>
+        <TRANSL xml:lang="zh">回去</TRANSL>
+        <TRANSL xml:lang="en">to go back</TRANSL>
+        <AUDIO start="2548.123" end="2548.759"/>
+    </W>
+</WORDLIST>

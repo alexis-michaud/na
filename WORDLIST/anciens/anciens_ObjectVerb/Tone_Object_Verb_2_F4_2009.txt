@@ -1,0 +1,1269 @@
+﻿Tone_Object_Verb_2_F4_2009
+ʈʂʰɯ˧ ǀ bo˩ ti˧.
+bo˩˧
+ti˩
+LM L
+L.M+L
+Il tapote un porc.
+他敲打猪。
+He knocks (gently) a pig.
+
+ʈʂʰɯ˧ ǀ bo˩ ti˧.
+bo˩˧
+ti˩
+LM L
+L.M+L
+Il tapote un porc.
+他敲打猪。
+He knocks (gently) a pig.
+
+ʈʂʰɯ˧ ǀ bo˩ ti˧-ze˩.
+bo˩˧
+ti˩
+LM L
+L.M+L
+Il a tapoté un porc.
+他敲打了猪。
+He knocks (gently) a pig.
+
+ʈʂʰɯ˧ ǀ lɑ˧ ti˩-ze˩.
+lɑ˧
+ti˩
+M L
+M.L
+Il a tapoté un tigre.
+他敲打了老虎。
+He knocks (gently) a tiger.
+
+ʈʂʰɯ˧ ǀ lɑ˧ ti˩-ze˩.
+lɑ˧
+ti˩
+M L
+M.L
+Il a tapoté un tigre.
+他敲打了老虎。
+He knocks (gently) a tiger.
+
+lɑ˧ ti˩-ze˩.
+lɑ˧
+ti˩
+M L
+M.L
+(Il) a tapoté un tigre.
+(他)敲打了老虎。
+(He) knocks (gently) a tiger.
+
+lɑ˧ ti˩
+lɑ˧
+ti˩
+M L
+M.L
+tapoter un tigre.
+敲打老虎
+to knock (gently) a tiger
+
+ʈʂʰɯ˧ ǀ jo˩ ti˩-ze˥.
+jo˩
+ti˩
+L L
+L.L
+Il a tapoté un mouton.
+他敲打了绵羊。
+He knocks (gently) a sheep.
+
+ʈʂʰɯ˧ ǀ jo˩ ti˩-ze˥.
+jo˩
+ti˩
+L L
+L.L
+Il a frappé un mouton.
+他敲打了绵羊。
+He knocks (gently) a sheep.
+
+jo˩ ti˩˥
+jo˩
+ti˩
+L L
+L.L
+tapoter un mouton.
+敲打绵羊
+to knock (gently) a sheep
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ ti˥-ze˩.
+ʐwæ˥
+ti˩
+H L
+M.H
+Il a tapoté un cheval.
+他敲打了马。
+He knocks (gently) a horse.
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ ti˥-ze˩.
+ʐwæ˥
+ti˩
+H L
+M.H
+Il a tapoté un cheval.
+他敲打了马。
+He knocks (gently) a horse.
+
+ʐwæ˧ ti˥
+ʐwæ˥
+ti˩
+H L
+M.H
+tapoter un cheval
+敲打马
+to knock (gently) a horse
+
+hæ˧ ti˥
+hæ˧˥
+ti˩
+MH L
+M.H
+tapoter de la chaux
+敲打石灰
+to knock (pound gently) limestone
+
+hæ˧ ti˥
+hæ˧˥
+ti˩
+MH L
+M.H
+tapoter de la chaux
+敲打石灰
+to knock (pound gently) limestone
+
+hæ˧ ti˥-ze˩
+hæ˧˥
+ti˩
+MH L
+M.H
+tapoter de la chaux
+敲打石灰
+to knock (pound gently) limestone
+
+ʈʂʰɯ˧ ǀ hæ˧ ti˥-ze˩.
+hæ˧˥
+ti˩
+MH L
+M.H
+il a tapoté de la chaux
+敲打石灰
+to knock (pound gently) limestone
+
+tsʰɯ˧ ti˥
+tsʰɯ˧˥
+ti˩
+MH L
+M.H
+tapoter une chèvre
+敲打山羊
+to knock (gently) a goat
+
+po˧lo˧ ti˩
+po˧lo˧
+ti˩
+M L
+M.M.L
+tapoter un bélier
+敲打公绵羊
+to knock (gently) a ram
+
+po˧lo˧ ti˩
+po˧lo˧
+ti˩
+M L
+M.M.L
+tapoter un bélier
+敲打公绵羊
+to knock (gently) a ram
+
+po˧lo˧ ti˩
+po˧lo˧
+ti˩
+M L
+M.M.L
+tapoter un bélier
+敲打公绵羊
+to knock (gently) a ram
+
+po˧lo˧ ti˩-ze˩
+po˧lo˧
+ti˩
+M L
+M.M.L
+tapoter un bélier
+敲打公绵羊
+to knock (gently) a ram
+
+ʐwæ˧zo˧ ti˥
+ʐwæ˧zo#˥
+ti˩
+#H L
+M.M.H
+tapoter un poulain
+敲打马驹子
+to knock (gently) a colt
+
+ʐwæ˧zo˧ ti˥
+ʐwæ˧zo#˥
+ti˩
+#H L
+M.M.H
+tapoter un poulain
+敲打马驹子
+to knock (gently) a colt
+
+ʐwæ˧zo˧ ti˥-ze˩
+ʐwæ˧zo#˥
+ti˩
+#H L
+M.M.H
+tapoter un poulain
+敲打马驹子
+to knock (gently) a colt
+
+hwɤ˧li˧ ti˥-ze˩
+hwɤ˧li˧˥
+ti˩
+MH# L
+M.M.H
+tapoter un chat
+敲打猫
+to knock (gently) a cat
+
+kv˧ʂe˧ ti˥-ze˩
+kv˧ʂe˥$
+ti˩
+H$ L
+M.M.H
+tapoter une puce
+敲打跳蚤
+to knock (gently) a flea
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧ ti˥-ze˩.
+kv˧ʂe˥$
+ti˩
+H$ L
+M.M.H
+il a frappé une puce.
+他敲打跳蚤了。
+He knocked (gently) a flea
+
+kv˧ʂe˧ ti˥
+kv˧ʂe˥$
+ti˩
+H$ L
+M.M.H
+tapoter une puce
+敲打跳蚤
+to knock (gently) a flea
+
+kʰv˩mi˩ ti˥
+kʰv˩mi˩
+ti˩
+L L
+L.L.H
+tapoter un chien
+敲打狗
+to knock (gently) a dog
+
+kʰv˩mi˩ ti˥-ze˩
+kʰv˩mi˩
+ti˩
+L L
+L.L.H
+tapoter un chien
+敲打狗
+to knock (gently) a dog
+
+dɑ˧ʝi˩ ti˩-ze˩
+dɑ˧ʝi˩
+ti˩
+L# L
+M.L.L
+tapoter une mule
+敲打骡子
+to knock (gently) a mule
+
+õ˩dv˧ ti˥-ze˩
+õ˩dv˧˥
+ti˩
+LM+MH# L
+L.M.H
+tapoter un loup
+敲打狼
+to knock (gently) a wolf
+
+õ˩dv˧ ti˥-ze˩
+õ˩dv˧˥
+ti˩
+LM+MH# L
+L.M.H
+tapoter un loup
+敲打狼
+to knock (gently) a wolf
+
+õ˩dv˧ ti˥-ze˩
+õ˩dv˧˥
+ti˩
+LM+MH# L
+L.M.H
+tapoter un loup
+敲打狼
+to knock (gently) a wolf
+
+õ˩dv˧ ti˥-ze˩
+õ˩dv˧˥
+ti˩
+LM+MH# L
+L.M.H
+tapoter un loup
+敲打狼
+to knock (gently) a wolf
+
+jɤ˩jo˧ ti˥
+jɤ˩jo#˥
+ti˩
+LM+#H L
+L.M.H
+hacher des patates
+把洋芋切碎
+to cut potatoes into little pieces
+
+bo˩hɑ˧ ti˥-ze˩
+bo˩hɑ#˥
+ti˩
+LM+#H L
+L.M.H
+tapoter sur la pâtée du cochon
+敲打猪食
+to knock (gently) pigswill
+
+bo˩hɑ˧ ti˥-ze˩
+bo˩hɑ#˥
+ti˩
+LM+#H L
+L.M.H
+tapoter sur la pâtée du cochon
+敲打猪食
+to knock (gently) pigswill
+
+ʈʂʰɯ˧ ǀ bo˩hɑ˧ ti˥
+bo˩hɑ#˥
+ti˩
+LM+#H L
+L.M.H
+tapoter sur la pâtée du cochon
+敲打猪食
+to knock (gently) pigswill
+
+æ˩mi˧ ti˩-ze˩
+æ˩mi˧
+ti˩
+LM L
+L.M.L
+tapoter une poule
+敲打母鸡
+to knock (gently) a hen
+
+æ˩mi˧ ti˩-ze˩
+æ˩mi˧
+ti˩
+LM L
+L.M.L
+tapoter une poule
+敲打母鸡
+to knock (gently) a hen
+
+æ˩mi˧ ti˩-ze˩
+æ˩mi˧
+ti˩
+LM L
+L.M.L
+tapoter une poule
+敲打母鸡
+to knock (gently) a hen
+
+æ˩mi˧ ti˩-ze˩
+æ˩mi˧
+ti˩
+LM L
+L.M.L
+%Hyperarticulated realization, separating object and verb
+tapoter une poule
+敲打母鸡
+to knock (gently) a hen
+
+bo˩ɬɑ˧ ti˩-ze˩
+bo˩ɬɑ˥
+ti˩
+LH L
+L.H.L
+tapoter un verrat
+敲打公猪
+to knock (gently) a boar
+
+hwæ˧tsɯ˥ ti˩-ze˩
+hwæ˧tsɯ˥
+ti˩
+H# L
+M.H.L
+tapoter une souris
+敲打老鼠
+to knock (gently) a mouse
+
+ʈʂʰɯ˧ ǀ bo˩ lɑ˧-ze˥.
+bo˩˧
+lɑ˧˥
+LM MH
+L.MH
+frapper un porc
+他打了猪。
+to beat a pig
+
+ʈʂʰɯ˧ ǀ lɑ˧ lɑ˧-ze˥.
+lɑ˧
+lɑ˧˥
+M MH
+M.MH
+frapper un tigre
+他打了老虎。
+to beat a tiger
+
+ʈʂʰɯ˧ ǀ jo˩ lɑ˩-ze˥.
+jo˩
+lɑ˧˥
+L MH
+L.L
+frapper un mouton
+他打了绵羊。
+to beat a sheep
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ lɑ˩-ze˥.
+ʐwæ˥
+lɑ˧˥
+H MH
+M.L
+frapper un cheval
+他打了马。
+to beat a horse
+
+ɬv˧ lɑ˥
+ɬv˧˥
+lɑ˧˥
+MH MH
+M.H
+%This is an unusual combination, which the speaker accepted to produce nonetheless in view of the fact that it is sometimes necessary to break open a bone to get marrow/brains (the word for both substances is the same). The phrase would then be marginally acceptable as an elliptical turn of phrase to mean 'to strike [bones] for marrow'. 
+frapper de la cervelle
+打脑髓
+to beat brains
+
+po˧lo˧ lɑ˧˥
+po˧lo˧
+lɑ˧˥
+M MH
+M.M.MH
+frapper un bélier
+打公绵羊
+to beat a ram
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧ lɑ˩-ze˩.
+ʐwæ˧zo#˥
+lɑ˧˥
+#H MH
+M.M.L
+frapper un poulain
+打马驹子
+to beat a colt
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ lɑ˥-ze˩.
+hwɤ˧li˧˥
+lɑ˧˥
+MH# MH
+M.M.H
+il a frappé un chat
+他打了猫
+He beat a cat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥ lɑ˩-ze˩.
+kv˧ʂe˥$
+lɑ˧˥
+H$ MH
+M.H.L
+il a frappé une puce
+他打了跳蚤
+He struck a flea
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥ lɑ˩-ze˩.
+kv˧ʂe˥$
+lɑ˧˥
+H$ MH
+M.H.L
+il a frappé une puce
+他打了跳蚤
+He struck a flea
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩ lɑ˥-ze˩.
+kʰv˩mi˩
+lɑ˧˥
+L MH
+L.L.H
+frapper un chien
+打狗
+to beat a dog
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩ lɑ˩-ze˩
+dɑ˧ʝi˩
+lɑ˧˥
+L# MH
+M.L.L
+frapper une mule
+打骡子
+to beat a mule
+
+õ˩dv˧ lɑ˥-ze˩
+õ˩dv˧˥
+lɑ˧˥
+LM+MH# MH
+L.M.H
+frapper un loup
+打狼
+to beat a wolf
+
+*jɤ˩jo˧ ǀ tɕɤ˧˥
+jɤ˩jo#˥
+tɕɤ˧˥
+LM+#H MH
+x
+%Mistaken realization, without tone change: simple juxtaposition of the two words. Correct tone pattern: L.M.L, /jɤ˩ju˧ tɕɤ˩/.
+faire cuire des pommes de terre à l'eau / faire bouillir des patates
+煮洋芋
+to boil potatoes
+
+ʈʂʰɯ˧ ǀ jɤ˩jo˧ ǀ tɕɤ˩.
+jɤ˩jo#˥
+tɕɤ˧˥
+LM+#H MH
+L.M.L
+il fait cuire des pommes de terre à l'eau / faire bouillir des patates
+煮洋芋
+He boils potatoes.
+
+jɤ˩jo˧ ǀ tɕɤ˩
+jɤ˩jo#˥
+tɕɤ˧˥
+LM+#H MH
+L.M.L
+faire cuire des pommes de terre à l'eau / faire bouillir des patates
+煮洋芋
+to boil potatoes.
+
+jɤ˩jo˧ ǀ tɕɤ˩
+jɤ˩jo#˥
+tɕɤ˧˥
+LM+#H MH
+L.M.L
+faire cuire des pommes de terre à l'eau / faire bouillir des patates
+煮洋芋
+to boil potatoes.
+
+jɤ˩jo˧ ǀ tɕɤ˩-ze˩
+jɤ˩jo#˥
+tɕɤ˧˥
+LM+#H MH
+L.M.L
+faire cuire des pommes de terre à l'eau / faire bouillir des patates
+煮洋芋
+to boil potatoes.
+
+jɤ˩jo˧ ǀ ɕjɤ˩
+jɤ˩jo#˥
+ɕjɤ˧˥
+LM+#H MH
+L.M.L
+goûter des pommes de terre
+尝洋芋
+to taste potatoes.
+
+æ˩mi˧ lɑ˧˥
+æ˩mi˧
+lɑ˧˥
+LM MH
+L.M.MH
+frapper une poule
+打母鸡
+to beat a hen
+
+æ˩mi˧ lɑ˧-ze˥
+æ˩mi˧
+lɑ˧˥
+LM MH
+L.M.MH
+frapper une poule
+打母鸡
+to beat a hen
+
+bo˩ɬɑ˧ lɑ˩-ze˩
+bo˩ɬɑ˥
+lɑ˧˥
+LH MH
+L.H.L
+frapper un verrat
+打公猪
+to beat a boar
+
+hwæ˧tsɯ˥ lɑ˩-ze˩
+hwæ˧tsɯ˥
+lɑ˧˥
+H# MH
+M.H.L
+frapper une souris
+打老鼠
+to beat a mouse
+
+ʈʂʰɯ˧ ǀ bo˩ ʈʂʰæ˧.
+bo˩˧
+ʈʂʰæ˥
+LM H
+L.M+L
+%confirmé: le schéma tonal est: bo˩ ʈʂʰæ˧-ze˩.
+il lave un porc
+他洗了猪。
+he washes a pig
+
+ʈʂʰɯ˧ ǀ jo˩ ʈʂʰæ˩˥.
+jo˩
+ʈʂʰæ˥
+L H
+L.L
+laver un mouton
+他洗了绵羊。
+to wash a sheep
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ ʈʂʰæ˧.
+ʐwæ˥
+ʈʂʰæ˥
+H H
+M.M+L
+laver un cheval
+他洗了马。
+to wash a horse
+
+ʐwæ˧ ʈʂʰæ˧-ze˩
+ʐwæ˥
+ʈʂʰæ˥
+H H
+M.M+L
+laver un cheval
+他洗了马。
+to wash a horse
+
+ʈʂʰɯ˧ ǀ po˧lo˧ ʈʂʰæ˧-ze˩.
+po˧lo˧
+ʈʂʰæ˥
+M H
+M.M.M+L
+laver un bélier
+洗公绵羊
+to wash a ram
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧ ʈʂʰæ˧-ze˩.
+ʐwæ˧zo#˥
+ʈʂʰæ˥
+#H H
+M.M.M+L
+laver un poulain
+洗马驹子
+to wash a colt
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ ʈʂʰæ˧-ze˥
+hwɤ˧li˧˥
+ʈʂʰæ˥
+MH# H
+M.M.MH
+%Tone verified in March 2012: /hwɤ˧li˧ ʈʂʰæ˧˥/.
+il a lavé un chat
+他洗了猫
+He washed a cat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧ ʈʂʰæ˧-ze˩.
+kv˧ʂe˥$
+ʈʂʰæ˥
+H$ H
+M.M.M+L
+il a lavé une puce
+他洗了跳蚤
+He washed a flea
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩ ʈʂʰæ˩-ze˥.
+kʰv˩mi˩
+ʈʂʰæ˥
+L H
+L.L.L
+laver un chien
+洗狗
+to wash a dog
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩ ʈʂʰæ˩-ze˩.
+dɑ˧ʝi˩
+ʈʂʰæ˥
+L# H
+M.L.L
+laver une mule
+洗骡子
+to wash a mule
+
+ʈʂʰɯ˧ ǀ õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+ʈʂʰɯ˧ ǀ õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+õ˩dv˧ ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+%Hyperarticulated realization, with a hint of impatience
+laver un loup
+洗狼
+to wash a wolf
+
+[õ˩dv˧] ʈʂʰæ˧-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.M+L
+%hyperarticulated realization
+laver un loup
+洗狼
+to wash a wolf
+
+*õ˩dv˧ ʈʂʰæ˥-ze˩
+õ˩dv˧˥
+ʈʂʰæ˥
+LM+MH# H
+L.M.H
+%Mistaken realization; correct tone pattern: L.M.M+L
+laver un loup
+洗狼
+to wash a wolf
+
+bo˩hɑ˧ ʈʂʰæ˧-ze˩
+bo˩hɑ#˥
+ʈʂʰæ˥
+LM+#H H
+L.M.M+L
+laver la pâtée des cochons
+洗猪食
+to wash pigswill
+
+æ˩mi˧ ʈʂʰæ˧-ze˩
+æ˩mi˧
+ʈʂʰæ˥
+LM H
+L.M.M+L
+laver une poule
+洗母鸡
+to wash a hen
+
+*bo˩ɬɑ˧ ʈʂʰæ˧-ze˩
+bo˩ɬɑ˥
+ʈʂʰæ˥
+LH H
+x
+%Mistaken realization. The correct tone (verified again in March 2012) is: bo˩ɬɑ˥ ʈʂʰæ˩ (-ze˩); tone pattern: L.H.L.
+laver un verrat
+洗公猪
+to wash a boar
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥ ʈʂʰæ˩-ze˩
+hwæ˧tsɯ˥
+ʈʂʰæ˥
+H# H
+M.H.L
+laver une souris
+洗老鼠
+to wash a mouse
+
+bo˩ tɕʰi˧-ze˧.
+bo˩˧
+tɕʰi˥
+LM H#
+L.M+M
+il vend un porc
+他卖了猪。
+he sells a pig
+
+bo˩ tɕʰi˧-ze˧.
+bo˩˧
+tɕʰi˥
+LM H#
+L.M+M
+il vend un porc
+他卖了猪。
+he sells a pig
+
+ʈʂʰɯ˧ ǀ lɑ˧ tɕʰi˧-ze˧.
+lɑ˧
+tɕʰi˥
+M H#
+M.M+M
+il vend un tigre
+他卖了老虎。
+he sells a tiger
+
+ʈʂʰɯ˧ ǀ jo˩ tɕʰi˩-ze˥.
+jo˩
+tɕʰi˥
+L H#
+L.L
+vendre un mouton
+他卖了绵羊。
+to sell a sheep
+
+ʈʂʰɯ˧ ǀ jo˩ tɕʰi˩-ze˥.
+jo˩
+tɕʰi˥
+L H#
+L.L
+vendre un mouton
+他卖了绵羊。
+to sell a sheep
+
+jo˩ tɕʰi˩˥
+jo˩
+tɕʰi˥
+L H#
+L.L
+vendre un mouton
+卖绵羊
+to sell a sheep
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ tɕʰi˧-ze˩.
+ʐwæ˥
+tɕʰi˥
+H H#
+M.M+L
+vendre un cheval
+他卖了马。
+to sell a horse
+
+ʐwæ˧ tɕʰi˧-ze˩
+ʐwæ˥
+tɕʰi˥
+H H#
+M.M+L
+vendre un cheval
+卖了马
+to sell a horse
+
+ʈʂʰɯ˧ ǀ ɬv˧ tɕʰi˥-ze˩
+ɬv˧˥
+tɕʰi˥
+MH H#
+M.H
+vendre de la cervelle
+卖了脑髓
+to sell brains
+
+ʈʂʰɯ˧ ǀ po˧lo˧ tɕʰi˧-ze˧.
+po˧lo˧
+tɕʰi˥
+M H#
+M.M.M+M
+vendre un bélier
+卖公绵羊
+to sell a ram
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧ tɕʰi˧-ze˩.
+ʐwæ˧zo#˥
+tɕʰi˥
+#H H#
+M.M.M+L
+vendre un poulain
+卖马驹子
+to sell a colt
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ tɕʰi˧-ze˥
+hwɤ˧li˧˥
+tɕʰi˥
+MH# H#
+M.M.MH
+il a vendu un chat
+他卖了猫
+He sold a cat
+
+hwɤ˧li˧ tɕʰi˧-ze˥
+hwɤ˧li˧˥
+tɕʰi˥
+MH# H#
+M.M.MH
+il a vendu un chat
+他卖了猫
+He sold a cat
+
+hwɤ˧li˧ tɕʰi˧˥
+hwɤ˧li˧˥
+tɕʰi˥
+MH# H#
+M.M.MH
+il a vendu un chat
+他卖了猫
+He sold a cat
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ tɕʰi˧-ze˥
+hwɤ˧li˧˥
+tɕʰi˥
+MH# H#
+M.M.MH
+il a vendu un chat
+他卖了猫
+He sold a cat
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ tɕʰi˧˥
+hwɤ˧li˧˥
+tɕʰi˥
+MH# H#
+M.M.MH
+il a vendu un chat
+他卖了猫
+He sold a cat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˧ tɕʰi˧-ze˩.
+kv˧ʂe˥$
+tɕʰi˥
+H$ H#
+M.M.M+L
+il a vendu une puce
+他卖了跳蚤
+He sold a flea
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩ tɕʰi˩-ze˥.
+kʰv˩mi˩
+tɕʰi˥
+L H#
+L.L.L
+vendre un chien
+卖狗
+to sell a dog
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩ tɕʰi˩-ze˩.
+dɑ˧ʝi˩
+tɕʰi˥
+L# H#
+M.L.L
+vendre une mule
+卖骡子
+to sell a mule
+
+ʈʂʰɯ˧ ǀ õ˩dv˧ tɕʰi˧-ze˩
+õ˩dv˧˥
+tɕʰi˥
+LM+MH# H#
+L.M.M+L
+vendre un loup
+卖狼
+to sell a wolf
+
+õ˩dv˧ tɕʰi˧-ze˩
+õ˩dv˧˥
+tɕʰi˥
+LM+MH# H#
+L.M.M+L
+vendre un loup
+卖狼
+to sell a wolf
+
+õ˩dv˧ tɕʰi˧-ze˩
+õ˩dv˧˥
+tɕʰi˥
+LM+MH# H#
+L.M.M+L
+vendre un loup
+卖狼
+to sell a wolf
+
+bo˩hɑ˧ tɕʰi˧-ze˩
+bo˩hɑ#˥
+tɕʰi˥
+LM+#H H#
+L.M.M+L
+vendre la pâtée des cochons
+卖猪食
+to sell pigswill
+
+æ˩mi˧ tɕʰi˧-ze˧
+æ˩mi˧
+tɕʰi˥
+LM H#
+L.M.M+M
+vendre une poule
+卖母鸡
+to sell a hen
+
+bo˩ɬɑ˧ tɕʰi˩-ze˩
+bo˩ɬɑ˥
+tɕʰi˥
+LH H#
+L.H.L
+vendre un verrat
+卖公猪
+to sell a boar
+
+hwæ˧tsɯ˥ tɕʰi˩-ze˩
+hwæ˧tsɯ˥
+tɕʰi˥
+H# H#
+M.H.L
+vendre une souris
+卖老鼠
+to sell a mouse
+
+ʈʂʰɯ˧ ǀ bo˩ hwæ˧-ze˧.
+bo˩˧
+hwæ˧
+LM M
+L.M+M
+il achète un porc
+他买了猪。
+he buys a pig
+
+bo˩ hwæ˧, ǀ bo˩ hwæ˧, ǀ njɤ˧ bo˩ hwæ˧-ze˧.
+bo˩˧
+hwæ˧
+LM M
+L.MH
+il achète un porc
+他买了猪。
+he buys a pig
+
+ʈʂʰɯ˧ ǀ lɑ˧ hwæ˧-ze˧.
+lɑ˧
+ti˩
+M L
+M.L+L
+Il a acheté un tigre.
+他买了老虎。
+He buys a tiger.
+
+njɤ˧ ǀ lɑ˧ hwæ˧-ze˧.
+lɑ˧
+ti˩
+M L
+M.L+L
+J'ai acheté un tigre.
+我买了老虎。
+I bought a tiger.
+
+ʈʂʰɯ˧ ǀ jo˧ hwæ˧-ze˧
+jo˩
+hwæ˧
+L M
+M.M+M
+il a acheté un mouton
+他买了绵羊。
+to buy a sheep
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ hwæ˩-ze˩.
+ʐwæ˥
+hwæ˧
+H M
+M.L
+acheter un cheval
+他买了马。
+to buy a horse
+
+njɤ˧ ǀ ʐwæ˧ hwæ˩-ze˩.
+ʐwæ˥
+hwæ˧
+H M
+M.L
+acheter un cheval
+他买了马。
+to buy a horse
+
+ʈʂʰɯ˧ ǀ ʐwæ˧ hwæ˩-ze˩.
+ʐwæ˥
+hwæ˧
+H M
+M.L
+acheter un cheval
+他买了马。
+to buy a horse
+
+ʈʂʰɯ˧ ǀ ɬv˧ hwæ˥-ze˩.
+ɬv˧˥
+tɕʰi˥
+MH M
+M.H
+acheter de la cervelle
+买了脑髓
+to buy brains
+
+ʈʂʰɯ˧ ǀ po˧lo˧ hwæ˧-ze˧.
+po˧lo˧
+hwæ˧
+M M
+M.M.M+M
+acheter un bélier
+买公绵羊
+to buy a ram
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧ hwæ˩-ze˩.
+ʐwæ˧zo#˥
+hwæ˧
+#H M
+M.M.L
+acheter un poulain
+买马驹子
+to buy a colt
+
+ʈʂʰɯ˧ ǀ hwɤ˧li˧ hwæ˥-ze˩
+hwɤ˧li˧˥
+hwæ˧
+MH# M
+M.M.H
+il a lavé un chat
+他买了猫
+He bought a cat
+
+ʈʂʰɯ˧ ǀ kv˧ʂe˥ hwæ˩-ze˩.
+kv˧ʂe˥$
+hwæ˧
+H$ M
+M.H.L
+il a lavé une puce
+他买了跳蚤
+He bought a flea
+
+kv˧ʂe˥ hwæ˩-ze˩.
+kv˧ʂe˥$
+hwæ˧
+H$ M
+M.H.L
+il a lavé une puce
+他买了跳蚤
+He bought a flea
+
+ʈʂʰɯ˧ ǀ kʰv˩mi˩ hwæ˥-ze˩.
+kʰv˩mi˩
+hwæ˧
+L M
+L.L.H
+acheter un chien
+买狗
+to buy a dog
+
+ʈʂʰɯ˧ ǀ dɑ˧ʝi˩ hwæ˩-ze˩.
+dɑ˧ʝi˩
+hwæ˧
+L# M
+M.L.L
+acheter une mule
+买骡子
+to buy a mule
+
+ʈʂʰɯ˧ ǀ õ˩dv˧ hwæ˥-ze˩
+õ˩dv˧˥
+hwæ˧
+LM+MH# M
+L.M.H
+acheter un loup
+买狼
+to buy a wolf
+
+bo˩hɑ˧ hwæ˩-ze˩
+bo˩hɑ#˥
+hwæ˧
+LM+#H M
+L.M.L
+acheter la pâtée des cochons
+买猪食
+to buy pigswill
+
+æ˩mi˧ hwæ˧-ze˧
+æ˩mi˧
+hwæ˧
+LM M
+L.M.M+M
+acheter une poule
+买母鸡
+to buy a hen
+
+bo˩ɬɑ˧ hwæ˩-ze˩
+bo˩ɬɑ˥
+hwæ˧
+LH M
+L.H.L
+acheter un verrat
+买公猪
+to buy a boar
+
+bo˩ɬɑ˧ hwæ˩-ze˩
+bo˩ɬɑ˥
+hwæ˧
+LH M
+L.H.L
+acheter un verrat
+买公猪
+to buy a boar
+
+bo˩ɬɑ˧ hwæ˩-ze˩
+bo˩ɬɑ˥
+hwæ˧
+LH M
+L.H.L
+acheter un verrat
+买公猪
+to buy a boar
+
+hwæ˧tsɯ˥ hwæ˩-ze˩
+hwæ˧tsɯ˥
+hwæ˧
+H# M
+M.H.L
+acheter une souris
+买老鼠
+to buy a mouse

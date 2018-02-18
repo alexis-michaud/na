@@ -1,0 +1,482 @@
+﻿﻿Tone_BodyPartsOfAnimals_6_Verifications_F4_2008
+bu˩-ɣɯ˧ +ɲi˩
+bu˩˧
+ɣɯ˩˧
+LM LM
+LM
+peau de porc (couenne de porc)
+猪的皮
+pig's skin
+
+ʈʂʰɯ˧ ǀ bu˩-bv˧ +ɲi˩
+bu˩˧
+bv˧
+LM M
+LM
+intestin de porc
+猪的场子
+pig's intestine
+
+bu˩-ʝi˧ʈʂæ˩ +ɲi˩
+bu˩˧
+ʝi˩ʈʂæ˧˥
+LM L+MH#
+LML
+taille de porc
+猪的腰
+pig's waist
+
+bu˩-ʁæ˧ʈv˥ +ɲi˩
+bu˩˧
+ʁæ˧ʈv˥
+LM H#
+LM+H#
+cou de porc
+猪的脖子
+pig's neck
+
+bu˩-ʁæ˧ʈv˥ +ɲi˩
+bu˩˧
+ʁæ˧ʈv˥
+LM H#
+LM+H#
+cou de porc
+猪的脖子
+pig's neck
+
+lɑ˧-ɣɯ˩ +ɲi˩
+lɑ˧
+ɣɯ˩˧
+M LM
+°L
+peau de tigre
+老虎的皮
+tiger's skin
+
+lɑ˧-kɯ˧ +ɲi˥
+lɑ˧
+kɯ˧
+M M
+#H
+bile de tigre
+老虎的胆
+tiger's bile
+
+lɑ˧-bv˧ +ɲi˥
+lɑ˧
+bv˧
+M M
+#H
+intestin de tigre
+老虎的场子
+tiger's intestine
+
+*lɑ˧-ɬv˩ +ɲi˩
+lɑ˧
+ɬv˧˥
+M MH#
+x
+%This tone pattern, °L, was refused by the consultant in 2012. It was apparently a mistake due to the speaker's fatigue in the course of elicitation sessions using unusual materials. The correct (or at least the most common) pattern is MH#.
+cervelle de tigre
+老虎的脑髓
+tiger's brains
+
+lɑ˧-gv˧dv˧ +ɲi˩
+lɑ˧
+gv˧dv˧
+M M
+M
+dos de tigre
+老虎的背
+tiger's back
+
+lɑ˧-ɲi˧gɤ˧ ɲi˥
+lɑ˧
+ɲi˧gɤ#˥
+M #H
+#H
+nez de tigre (museau de tigre)
+老虎的鼻子
+tiger's nose (tiger's muzzle)
+
+*lɑ˧-hu˩mi˩ +ɲi˩
+lɑ˧
+hu˧mi˥$
+M H$
+x
+%Mistaken realization. The correct tone pattern is H$.
+estomac de tigre
+老虎的胃
+tiger's stomach
+
+*lɑ˧-hu˩mi˩ +ɲi˩
+lɑ˧
+hu˧mi˥$
+M H$
+x
+%Mistaken realization. The correct tone pattern is H$.
+estomac de tigre
+老虎的胃
+tiger's stomach
+
+lɑ˧-bv˧ hu˧mi˥
+lɑ˧
+hu˧mi˥$
+M H$
+x
+%Analytic realization, with possessive °bv.
+estomac de tigre
+老虎的胃
+tiger's stomach
+
+lɑ˧-nv˩mi˩ +ɲi˩
+lɑ˧
+nv˩mi˩
+M L
+°L
+coeur de tigre
+老虎的心脏
+tiger's heart
+
+lɑ˧-nv˩mi˩ +ɲi˩
+lɑ˧
+nv˩mi˩
+M L
+°L
+coeur de tigre
+老虎的心脏
+tiger's heart
+
+lɑ˧-ɬi˧pi˩ +ɲi˩
+lɑ˧
+ɬi˧pi˩
+M L#
+°L#
+oreilles de tigre
+老虎的耳朵
+tiger's ears
+
+lɑ˧-ɬi˧pi˩ +ɲi˩
+lɑ˧
+ɬi˧pi˩
+M L#
+°L#
+oreilles de tigre
+老虎的耳朵
+tiger's ears
+
+lɑ˧-ʝi˩ʈʂæ˩ +ɲi˩
+lɑ˧
+ʝi˩ʈʂæ˧˥
+M L+MH#
+°L
+taille de tigre
+老虎的腰
+tiger's waist
+
+lɑ˧-lo˩qʰwɤ˩ +ɲi˩
+lɑ˧
+lo˩qʰwɤ˧
+M LM
+°L
+%The phrase lɑ˧-nv˩mi˩ 'tiger's heart' is said just after this phrase, to confirm the tonal identity of these two phrases.
+patte avant de tigre
+老虎的前腿
+tiger's forelimb
+
+lɑ˧-lo˩qʰwɤ˩ +ɲi˩
+lɑ˧
+lo˩qʰwɤ˧
+M LM
+°L
+patte avant de tigre
+老虎的前腿
+tiger's forelimb
+
+lɑ˧-ʁæ˧ʈv˥ +ɲi˩
+lɑ˧
+ʁæ˧ʈv˥
+M H#
+H#
+cou de tigre
+老虎的脖子
+tiger's neck
+
+lɑ˧-ʁæ˧ʈv˥ +ɲi˩
+lɑ˧
+ʁæ˧ʈv˥
+M H#
+H#
+cou de tigre
+老虎的脖子
+tiger's neck
+
+ʈʂʰɯ˧ ǀ ʐwæ˧-ɣɯ˥ +ɲi˩
+ʐwæ˥
+ɣɯ˩˧
+H LM
+#H
+peau de cheval
+马的皮
+horse's skin
+
+ʐwæ˧-bv˧ +ɲi˥
+ʐwæ˥
+bv˧
+H M
+#H
+intestin de cheval
+马的场子
+horse's intestine
+
+ʐwæ˧-ʝi˥ʈʂæ˩ +ɲi˩
+ʐwæ˥
+ʝi˩ʈʂæ˧˥
+H L+MH#
+#H°
+taille de cheval
+马的腰
+horse's waist
+
+ʐwæ˧-ʁæ˧ʈv˥ +ɲi˩
+ʐwæ˥
+ʁæ˧ʈv˥
+H H#
+H#
+cou de cheval
+马的脖子
+horse's neck
+
+pu˧lo˧-ɣɯ˩ +ɲi˩
+pu˧lo˧
+ɣɯ˩˧
+M LM
+°L
+peau de bélier
+公绵羊的皮
+ram's skin
+
+pu˧lo˧-bv˧ +ɲi˥
+pu˧lo˧
+bv˧
+M M
+#H
+intestin de bélier
+公绵羊的场子
+ram's intestine
+
+pu˧lo˧-ʝi˩ʈʂæ˩ +ɲi˩
+pu˧lo˧
+ʝi˩ʈʂæ˧˥
+M L+MH#
+°L
+taille de bélier
+公绵羊的腰
+ram's waist
+
+pu˧lo˧-ʁæ˧ʈv˥ +ɲi˩
+pu˧lo˧
+ʁæ˧ʈv˥
+M H#
+H#
+cou de bélier
+公绵羊的脖子
+ram's neck
+
+ʐwæ˧zo˧-ɣɯ˥ +ɲi˩
+ʐwæ˧zo#˥
+ɣɯ˩˧
+#H LM
+#H°
+peau de poulain
+马驹子的皮
+colt's skin
+
+ʈʂʰɯ˧ ǀ ʐwæ˧zo˧-bv˧ ɲi˥
+ʐwæ˧zo#˥
+bv˧
+#H M
+#H
+intestin de poulain
+马驹子的场子
+colt's intestine
+
+ʐwæ˧zo˧-ʝi˥ʈʂæ˩ +ɲi˩
+ʐwæ˧zo#˥
+ʝi˩ʈʂæ˧˥
+#H L+MH#
+#H°
+taille de poulain
+马驹子的腰
+colt's waist
+
+ʐwæ˧zo˧-ʁæ˧ʈv˥ +ɲi˩
+ʐwæ˧zo#˥
+ʁæ˧ʈv˥
+#H H#
+H#
+cou de poulain
+马驹子的脖子
+colt's neck
+
+hwɤ˧li˧-ɣɯ˥ +ɲi˩
+hwɤ˧li˧˥
+ɣɯ˩˧
+MH# LM
+MH#°
+peau de chat
+猫的皮
+cat's skin
+
+hwɤ˧li˧-bv˧˥, hwɤ˧li˧-bv˧ ɲi˥
+hwɤ˧li˧˥
+bv˧
+MH# M
+MH#
+intestin de chat
+猫的场子
+cat's intestine
+
+hwɤ˧li˧-ʝi˥ʈʂæ˩ +ɲi˩
+hwɤ˧li˧˥
+ʝi˩ʈʂæ˧˥
+MH# L+MH#
+MH#°
+taille de chat
+猫的腰
+cat's waist
+
+hwɤ˧li˧-ʁæ˧ʈv˥ +ɲi˩
+hwɤ˧li˧˥
+ʁæ˧ʈv˥
+MH# H#
+H#
+cou de chat
+猫的脖子
+cat's neck
+
+kʰv˩mi˩-ɣɯ˥ +ɲi˩
+kʰv˩mi˩
+ɣɯ˩˧
+L LM
+L+H#
+peau de chien
+狗的皮
+dog's skin
+
+kʰv˩mi˩-bv˩ ɲi˥
+kʰv˩mi˩
+bv˧
+L M
+L
+intestin de chien
+狗的场子
+dog's intestine
+
+kʰv˩mi˩-bv˩˥
+kʰv˩mi˩
+bv˧
+L M
+L
+intestin de chien
+狗的场子
+dog's intestine
+
+kʰv˩mi˩-ʝi˥ʈʂæ˩ +ɲi˩
+kʰv˩mi˩
+ʝi˩ʈʂæ˧˥
+L L+MH#
+L+#H°
+taille de chien
+狗的腰
+dog's waist
+
+kʰv˩mi˩-ʁæ˩ʈv˥ +ɲi˩
+kʰv˩mi˩
+ʁæ˧ʈv˥
+L H#
+L+H#
+cou de chien
+狗的脖子
+dog's neck
+
+dɑ˧ʝi˩-ɣɯ˩ +ɲi˩
+dɑ˧ʝi˩
+ɣɯ˩˧
+L# LM
+L#°
+peau de mule
+骡子的皮
+mule's skin
+
+dɑ˧ʝi˩-bv˩ +ɲi˩
+dɑ˧ʝi˩
+bv˧
+L# M
+L#°
+intestin de mule
+骡子的场子
+mule's intestine
+
+dɑ˧ʝi˩-ʝi˩ʈʂæ˩ +ɲi˩
+dɑ˧ʝi˩
+ʝi˩ʈʂæ˧˥
+L# L+MH#
+L#°
+taille de mule
+骡子的腰
+mule's waist
+
+dɑ˧ʝi˩-ʁæ˩ʈv˩ +ɲi˩
+dɑ˧ʝi˩
+ʁæ˧ʈv˥
+L# H#
+L#°
+cou de mule
+骡子的脖子
+mule's neck
+
+ʈʂʰɯ˧ ǀ ʐwæ˧sɯ˩-ɣɯ˩ +ɲi˩
+ʐwæ˧sɯ˩
+ɣɯ˩˧
+L# LM
+L#°
+peau d'étalon
+公马的皮
+stallion's skin
+
+ʈʂʰɯ˧ ǀ ʐwæ˧sɯ˩-bv˩ +ɲi˩
+ʐwæ˧sɯ˩
+bv˧
+L# M
+L#°
+intestin d'étalon
+公马的场子
+stallion's intestine
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-ɣɯ˩ +ɲi˩
+hwæ˧tsɯ˥
+ɣɯ˩˧
+H# LM
+H#°
+peau de rat
+老鼠的皮
+rat's skin
+
+ʈʂʰɯ˧ ǀ hwæ˧tsɯ˥-bv˩ +ɲi˩
+hwæ˧tsɯ˥
+bv˧
+H# M
+H#°
+intestin de rat
+老鼠的场子
+rat's intestine
+
+hwæ˧tsɯ˥-ʁæ˩ʈv˩ +ɲi˩
+hwæ˧tsɯ˥
+ʁæ˧ʈv˥
+H# H#
+H#°
+cou de rat
+老鼠的脖子
+rat's neck

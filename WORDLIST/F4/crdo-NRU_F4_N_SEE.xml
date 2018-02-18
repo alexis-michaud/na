@@ -1,0 +1,137 @@
+<WORDLIST id="crdo-NRU_﻿F4_N_SEE" xml:lang="NRU">
+<HEADER>
+<TITLE xml:lang="eng">﻿The verb ‘to see’ in association with the various tonal classes of nouns</TITLE>
+<SOUNDFILE href="crdo-NRU_F4_N_SEE.wav"/>
+</HEADER>
+
+<NOTE xml:lang="en" message = "These data are set out in table form on page 302 of the book /Tone in Yongning Na/ (2017)."/>
+
+<W id="﻿N_SEE_001">
+	<FORM kindOf="phono">bo˩ do˥</FORM>
+	<NOTE xml:lang="en" message = "The underlying phonological form is hypothesized to be //bo˩ do˧//."/>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM"/>
+	<TRANSL xml:lang="en">to see [a/the...] pig</TRANSL>
+	<AUDIO start="0.633" end="1.625"/>
+</W>
+<W id="﻿N_SEE_002">
+	<FORM kindOf="phono">ʐæ˩ do˥</FORM>
+	<NOTE xml:lang="en" message = "The underlying phonological form is hypothesized to be //ʐæ˩ do˥//."/>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LH"/>
+	<TRANSL xml:lang="en">to see [a/the...] leopard</TRANSL>
+	<AUDIO start="2.769" end="3.825"/>
+</W>
+<W id="﻿N_SEE_003">
+	<FORM kindOf="phono">lɑ˧ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: M"/>
+	<TRANSL xml:lang="en">to see [a/the...] tiger</TRANSL>
+	<AUDIO start="4.702" end="5.799"/>
+</W>
+<W id="﻿N_SEE_004">
+	<FORM kindOf="phono">jo˩ do˩˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L"/>
+	<TRANSL xml:lang="en">to see [a/the...] sheep</TRANSL>
+	<AUDIO start="7.256" end="8.26"/>
+</W>
+<W id="﻿N_SEE_005">
+	<FORM kindOf="phono">ʐwæ˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H"/>
+	<TRANSL xml:lang="en">to see [a/the...] horse</TRANSL>
+	<AUDIO start="10.53" end="11.476"/>
+</W>
+<W id="﻿N_SEE_006">
+	<FORM kindOf="phono">ʈʂʰæ˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: MH"/>
+	<TRANSL xml:lang="en">to see [a/the...] deer</TRANSL>
+	<AUDIO start="12.51" end="13.404"/>
+</W>
+<W id="﻿N_SEE_007">
+	<FORM kindOf="phono">po˧lo˧ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: M"/>
+	<TRANSL xml:lang="en">to see [a/the...] ram</TRANSL>
+	<AUDIO start="15.737" end="16.794"/>
+</W>
+<W id="﻿N_SEE_008">
+	<FORM kindOf="phono">ɖɯ˧-bæ˧ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun phrase: M. Lexical tone of classifier: Ma."/>
+	<TRANSL xml:lang="en">to see something</TRANSL>
+	<AUDIO start="18.268" end="19.11"/>
+</W>
+<W id="﻿N_SEE_009">
+	<FORM kindOf="phono">qæ˧do˧ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: M"/>
+	<TRANSL xml:lang="en">to see timber</TRANSL>
+	<AUDIO start="19.87" end="20.817"/>
+</W>
+<W id="﻿N_SEE_010">
+	<FORM kindOf="phono">ʐwæ˧zo˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: #H"/>
+	<TRANSL xml:lang="en">to see [a/the...] colt</TRANSL>
+	<AUDIO start="22.065" end="23.15"/>
+</W>
+<W id="﻿N_SEE_011">
+	<FORM kindOf="phono">tso˧~tso˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: #H"/>
+	<TRANSL xml:lang="en">to see things, to see stuff</TRANSL>
+	<AUDIO start="24.079" end="25.078"/>
+</W>
+<W id="﻿N_SEE_012">
+	<FORM kindOf="phono">hwɤ˧li˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: MH#"/>
+	<TRANSL xml:lang="en">to see [a/the...] cat</TRANSL>
+	<AUDIO start="26.581" end="27.591"/>
+</W>
+<W id="﻿N_SEE_013">
+	<FORM kindOf="phono">kv̩˧ʂe˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H$"/>
+	<TRANSL xml:lang="en">to see [a/the...] flea</TRANSL>
+	<AUDIO start="29.217" end="30.256"/>
+</W>
+<W id="﻿N_SEE_014">
+	<FORM kindOf="phono">ɖɯ˧-kʰwɤ˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun phrase: H$"/>
+	<TRANSL xml:lang="en">to see a piece (of something)</TRANSL>
+	<AUDIO start="31.324" end="32.438"/>
+</W>
+<W id="﻿N_SEE_015">
+	<FORM kindOf="phono">kʰv̩˩mi˩ do˩˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L"/>
+	<TRANSL xml:lang="en">to see [a/the...] dog</TRANSL>
+	<AUDIO start="34.691" end="35.892"/>
+</W>
+<W id="﻿N_SEE_016">
+	<FORM kindOf="phono">dɑ˧ʝi˩ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L#"/>
+	<TRANSL xml:lang="en">to see [a/the...] mule</TRANSL>
+	<AUDIO start="36.9746" end="37.806"/>
+</W>
+<W id="﻿N_SEE_017">
+	<FORM kindOf="phono">õ˩dv̩˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM+MH#"/>
+	<TRANSL xml:lang="en">to see [a/the...] wolf</TRANSL>
+	<AUDIO start="39.265" end="40.159"/>
+</W>
+<W id="﻿N_SEE_018">
+	<FORM kindOf="phono">nv̩˩tɕʰi˧ do˧˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM+#H"/>
+	<TRANSL xml:lang="en">to see fine chaff</TRANSL>
+	<AUDIO start="42.672" end="43.839"/>
+</W>
+<W id="﻿N_SEE_019">
+	<FORM kindOf="phono">bo˩mi˧ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM"/>
+	<TRANSL xml:lang="en">to see [a/the...] sow</TRANSL>
+	<AUDIO start="44.983" end="45.999"/>
+</W>
+<W id="﻿N_SEE_020">
+	<FORM kindOf="phono">bo˩ɬɑ˥ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LH"/>
+	<TRANSL xml:lang="en">to see [a/the...] boar</TRANSL>
+	<AUDIO start="47.096" end="48.106"/>
+</W>
+<W id="﻿N_SEE_021">
+	<FORM kindOf="phono">hwæ˧ʈʂæ˥ do˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H#"/>
+	<TRANSL xml:lang="en">to see [a/the...] squirrel</TRANSL>
+	<AUDIO start="49.087" end="50.051"/>
+</W>
+</WORDLIST>

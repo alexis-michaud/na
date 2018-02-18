@@ -1,0 +1,723 @@
+﻿F4_TONETUTORIAL_PART2
+
+bo˩ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: LM
+%Meaning of input noun: ‘pig’
+%Tone of noun-plus-postposition combination: L.H
+%The recording begins with a set elicited with a verb, on the analogy of a construction attested in the 'Sister's Wedding' narrative (Sister.58): '(She) grabbed the cloak (that he was wearing), (but the older brother) fled'. Then the same set is elicited without the verb.
+to grasp at (a/the) pig
+
+ʐæ˩ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard’
+%Tone of noun-plus-postposition combination: L.H
+to grasp at (a/the) leopard
+
+lɑ˧ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: M
+%Meaning of input noun: ‘tiger’
+%Tone of noun-plus-postposition combination: M.L
+to grasp at (a/the) tiger
+
+jo˩ bi˩ ʈʂʰɻ̍˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+%Tone of noun-plus-postposition combination: L.LH
+to grasp at (a/the) sheep
+
+no˧ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: special case of pronouns carrying L tone.
+%Meaning of input noun: 2nd person singular pronoun
+%Tone of noun-plus-postposition combination: M.L
+to grasp at you
+
+ʐwæ˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: H
+%Meaning of input noun: ‘horse’
+%Tone of noun-plus-postposition combination: M.H
+to grasp at (a/the) horse
+
+ɖɤ˧mi˧ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+%Tone of noun-plus-postposition combination: M.M.L
+to grasp at (a/the) fox
+
+ʐwæ˧zo˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: #H
+%Meaning of input noun: ‘colt’
+%Tone of noun-plus-postposition combination: M.M.H
+to grasp at (a/the) colt
+
+hwɤ˧li˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: MH#
+%Meaning of input noun: ‘cat’
+%Tone of noun-plus-postposition combination: M.M.H
+to grasp at (a/the) cat
+
+hwɤ˧mi˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+%Tone of noun-plus-postposition combination: M.M.H
+to grasp at (a/the) she-cat
+
+kʰv̩˩mi˩ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: L
+%Meaning of input noun: ‘dog’
+%Tone of noun-plus-postposition combination: L.L.H
+to grasp at (a/the) dog
+
+ʐæ˩sɯ˩ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: L
+%Meaning of input noun: ‘felt cloak’
+%Tone of noun-plus-postposition combination: L.L.H
+%It is on the analogy of this example, from Sister.58, that the set was elicited.
+to grasp at the felt cloak
+
+dɑ˧ʝi˩ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: L#
+%Meaning of input noun: ‘mule’
+%Tone of noun-plus-postposition combination: M.L.L
+to grasp at (a/the) mule
+
+õ˩dv̩˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf’
+%Tone of noun-plus-postposition combination: L.M.H
+to grasp at (a/the) wolf
+
+nɑ˩hĩ˧ bi˥ ʈʂʰɻ̍˩
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi’
+%Tone of noun-plus-postposition combination: L.M.H
+to grasp at a Naxi person
+
+bo˩mi˧ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: LM
+%Meaning of input noun: ‘sow’
+%Tone of noun-plus-postposition combination: L.M.L
+to grasp at (a/the) sow
+
+bo˩ɬɑ˥ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar’
+%Tone of noun-plus-postposition combination: L.H.L
+to grasp at (a/the) boar
+
+hwæ˧tsɯ˥ bi˩ ʈʂʰɻ̍˩
+%Tone of noun: H#
+%Meaning of input noun: ‘rat’
+%Tone of noun-plus-postposition combination: M.H.L
+to grasp at (a/the) rat
+
+bo˩ bi˥
+%Tone of noun: LM
+%Meaning of input noun: ‘pig’
+%Tone of noun-plus-postposition combination: L.H
+on/at (a/the) pig
+
+ʐæ˩ bi˥
+%Tone of noun: LH
+%Meaning of input noun: ‘leopard’
+%Tone of noun-plus-postposition combination: L.H
+on/at (a/the) leopard
+
+lɑ˧ bi˩
+%Tone of noun: M
+%Meaning of input noun: ‘tiger’
+%Tone of noun-plus-postposition combination: M.L
+on/at (a/the) tiger
+
+jo˩ bi˩˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep’
+%Tone of noun-plus-postposition combination: L.LH
+on/at (a/the) sheep
+
+no˧ bi˩
+%Tone of noun: special case of pronouns carrying L tone.
+%Meaning of input noun: 2nd person singular pronoun
+%Tone of noun-plus-postposition combination: M.L
+on/at you
+
+ʐwæ˧ bi˥
+%Tone of noun: H
+%Meaning of input noun: ‘horse’
+%Tone of noun-plus-postposition combination: M.H
+on/at (a/the) horse
+
+ʈʂʰæ˧ bi˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer’
+%Tone of noun-plus-postposition combination: M.H
+on/at (a/the) deer
+
+ɖɤ˧mi˧ bi˩
+%Tone of noun: M
+%Meaning of input noun: ‘fox’
+%Tone of noun-plus-postposition combination: M.M.L
+on/at (a/the) fox
+
+ʐwæ˧zo˧ bi˥
+%Tone of noun: #H
+%Meaning of input noun: ‘colt’
+%Tone of noun-plus-postposition combination: M.M.H
+on/at (a/the) colt
+
+hwɤ˧li˧ bi˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘cat’
+%Tone of noun-plus-postposition combination: M.M.H
+on/at (a/the) cat
+
+hwɤ˧mi˧ bi˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat’
+%Tone of noun-plus-postposition combination: M.M.H
+on/at (a/the) she-cat
+
+kʰv̩˩mi˩ bi˥
+%Tone of noun: L
+%Meaning of input noun: ‘dog’
+%Tone of noun-plus-postposition combination: L.L.H
+on/at (a/the) dog
+
+dɑ˧ʝi˩ bi˩
+%Tone of noun: L#
+%Meaning of input noun: ‘mule’
+%Tone of noun-plus-postposition combination: M.L.L
+on/at (a/the) mule
+
+õ˩dv̩˧ bi˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf’
+%Tone of noun-plus-postposition combination: L.M.H
+on/at (a/the) wolf
+
+nɑ˩hĩ˧ bi˥
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi’
+%Tone of noun-plus-postposition combination: L.M.H
+on/at a Naxi person
+
+bo˩mi˧ bi˩
+%Tone of noun: LM
+%Meaning of input noun: ‘sow’
+%Tone of noun-plus-postposition combination: L.M.L
+on/at (a/the) sow
+
+bo˩ɬɑ˥ bi˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar’
+%Tone of noun-plus-postposition combination: L.H.L
+on/at (a/the) boar
+
+hwæ˧tsɯ˥ bi˩
+%Tone of noun: H#
+%Meaning of input noun: ‘rat’
+%Tone of noun-plus-postposition combination: M.H.L
+on/at (a/the) rat
+
+nɑ˩=ɻæ˥=bv̩˩
+%Tone of noun: LM
+%Meaning of input noun: ‘Na (ethnic group) ’
+%Tonal analysis of noun-plus-plural combination: LH
+of the Na (ethnic group)
+
+nɑ˩=ɻæ˥=bv̩˩
+%Tone of noun: LM
+%Meaning of input noun: ‘Na (ethnic group) ’
+%Tonal analysis of noun-plus-plural combination: LH
+of the Na (ethnic group)
+
+mv̩˩=ɻæ˥=bv̩˩
+%Tone of noun: LH
+%Meaning of input noun: ‘daughter ’
+%Tonal analysis: LH
+of the daughters
+
+hæ˧=ɻæ˩=bv̩˩
+%Tone of noun: M
+%Meaning of input noun: ‘Han (ethnic group) ’
+%Tonal analysis: L#
+of the Han (ethnic group)
+
+jo˩=ɻæ˩=bv̩˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+%Tonal analysis: L
+of the sheep (plural)
+
+hĩ˧=ɻæ˧=bv̩˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+of the persons, human beings
+
+ʈʂʰæ˧=ɻæ˥=bv̩˩
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+%Tonal analysis: H#
+of the deer (plural)
+
+ə˧mi˧=ɻæ˩=bv̩˩
+%Tone of noun: M
+%Meaning of input noun: ‘aunt ’
+%Tonal analysis: –L
+of the aunts
+
+gi˧zɯ˧=ɻæ˧=bv̩˥
+%Tone of noun: #H
+%Meaning of input noun: ‘younger brother ’
+%Tonal analysis: H$ / H#
+of the younger brothers
+
+ə˧v̩˧=ɻæ˧=bv̩˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$ / H#
+of the maternal uncles
+
+ə˧v̩˧=ɻæ˧=bv̩˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$ / H#
+of the maternal uncles
+
+ə˧v̩˧=ɻæ˧=bv̩˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$ / H#
+of the maternal uncles
+
+hwɤ˧mi˧=ɻæ˧=bv̩˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+%Tonal analysis: H$ / H#
+of the she-cats
+
+mi˩zɯ˩=ɻæ˩=bv̩˥
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+of the women
+
+ə˧mv̩˩=ɻæ˩=bv̩˩
+%Tone of noun: L#
+%Meaning of input noun: ‘elder sibling ’
+%Tonal analysis: L#–
+of the elder siblings
+
+õ˩dv̩˧=ɻæ˧=bv̩˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+%Tonal analysis: LM+H# / LM+H$
+of the wolves
+
+nɑ˩hĩ˧=ɻæ˧=bv̩˥
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi (ethnic group) ’
+%Tonal analysis: LM+H# / LM+H$
+of the Naxi (ethnic group)
+
+bo˩mi˧=ɻæ˩=bv̩˩
+%Tone of noun: LM
+%Meaning of input noun: ‘sow ’
+%Tonal analysis: LM–L
+of the sows
+
+bo˩ɬɑ˥=ɻæ˩=bv̩˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar ’
+%Tonal analysis: LH–
+of the boars
+
+pʰæ˧tɕi˥=ɻæ˩=bv̩˩
+%Tone of noun: H#
+%Meaning of input noun: ‘young man ’
+%Tonal analysis: H#–
+of the young men
+
+nɑ˩=ɻæ˥
+%Tone of noun: LM
+%Meaning of input noun: ‘Na (ethnic group) ’
+%Tonal analysis of noun-plus-plural combination: LH
+the Na (ethnic group)
+
+mv̩˩=ɻæ˥
+%Tone of noun: LH
+%Meaning of input noun: ‘daughter ’
+%Tonal analysis: LH
+daughters
+
+hæ˧=ɻæ˩
+%Tone of noun: M
+%Meaning of input noun: ‘Han (ethnic group) ’
+%Tonal analysis: L#
+the Han (ethnic group)
+
+jo˩=ɻæ˩˥
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+%Tonal analysis: L
+sheep (plural)
+
+hĩ˧=ɻæ˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+persons, human beings
+
+hĩ˧=ɻæ˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+persons, human beings
+
+hĩ˧=ɻæ˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+persons, human beings
+
+hĩ˧=ɻæ˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+persons, human beings
+
+hĩ˧=ɻæ˥
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+persons, human beings
+
+ʈʂʰæ˧=ɻæ˥
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+%Tonal analysis: H#
+deer (plural)
+
+ə˧mi˧=ɻæ˩
+%Tone of noun: M
+%Meaning of input noun: ‘aunt ’
+%Tonal analysis: –L
+aunts
+
+gi˧zɯ˧=ɻæ˥
+%Tone of noun: #H
+%Meaning of input noun: ‘younger brother ’
+%Tonal analysis: H$ / H#
+younger brothers
+
+ə˧v̩˧=ɻæ˥
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$ / H#
+maternal uncles
+
+hwɤ˧mi˧=ɻæ˥
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+%Tonal analysis: H$ / H#
+she-cats
+
+mi˩zɯ˩=ɻæ˥
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+women
+
+ə˧mv̩˩=ɻæ˩
+%Tone of noun: L#
+%Meaning of input noun: ‘elder sibling ’
+%Tonal analysis: L#–
+elder siblings
+
+õ˩dv̩˧=ɻæ˥
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+%Tonal analysis: LM+H# / LM+H$
+wolves
+
+nɑ˩hĩ˧=ɻæ˥
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi (ethnic group) ’
+%Tonal analysis: LM+H# / LM+H$
+the Naxi (ethnic group)
+
+bo˩mi˧=ɻæ˩
+%Tone of noun: LM
+%Meaning of input noun: ‘sow ’
+%Tonal analysis: LM–L
+sows
+
+bo˩ɬɑ˥=ɻæ˩
+%Tone of noun: LH
+%Meaning of input noun: ‘boar ’
+%Tonal analysis: LH–
+boars
+
+pʰæ˧tɕi˥=ɻæ˩
+%Tone of noun: H#
+%Meaning of input noun: ‘young man ’
+%Tonal analysis: H#–
+young men
+
+nɑ˩=ɻæ˥ ɲi˩.
+%Tone of noun: LM
+%Meaning of input noun: ‘Na (ethnic group) ’
+%Tonal analysis of noun-plus-plural combination: LH
+It is the Na (ethnic group).
+
+mv̩˩=ɻæ˥ ɲi˩.
+%Tone of noun: LH
+%Meaning of input noun: ‘daughter ’
+%Tonal analysis: LH
+It is the daughters.
+
+hæ˧=ɻæ˩ ɲi˩.
+%Tone of noun: M
+%Meaning of input noun: ‘Han (ethnic group) ’
+%Tonal analysis: L#
+It is the Han (ethnic group).
+
+jo˩=ɻæ˩ ɲi˥.
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+%Tonal analysis: L
+It is the sheep (plural).
+
+hĩ˧=ɻæ˥ ɲi˩.
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H#
+It is the persons, human beings.
+
+hĩ˧=ɻæ˧ ɲi˥.
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H$
+It is the persons, human beings.
+
+ʈʂʰæ˧=ɻæ˥ ɲi˩.
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+%Tonal analysis: H#
+It is the deer (plural).
+
+ə˧mi˧=ɻæ˩ ɲi˩.
+%Tone of noun: M
+%Meaning of input noun: ‘aunt ’
+%Tonal analysis: –L
+It is the aunts.
+
+gi˧zɯ˧=ɻæ˧ ɲi˥.
+%Tone of noun: #H
+%Meaning of input noun: ‘younger brother ’
+%Tonal analysis: H$
+It is the younger brothers.
+
+gi˧zɯ˧=ɻæ˥ ɲi˩.
+%Tone of noun: #H
+%Meaning of input noun: ‘younger brother ’
+%Tonal analysis: H#
+It is the younger brothers.
+
+ə˧v̩˧=ɻæ˧ ɲi˥.
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$
+It is the maternal uncles.
+
+ə˧v̩˧=ɻæ˧ ɲi˥.
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$
+It is the maternal uncles.
+
+ə˧v̩˧=ɻæ˥ ɲi˩.
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H#
+It is the maternal uncles.
+
+hwɤ˧mi˧=ɻæ˧ ɲi˥.
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+%Tonal analysis: H$
+It is the she-cats.
+
+hwɤ˧mi˧=ɻæ˥ ɲi˩.
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+%Tonal analysis: H#
+It is the she-cats.
+
+mi˩zɯ˩=ɻæ˥ ɲi˩.
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+It is the women.
+
+mi˩zɯ˩=ɻæ˥ ɲi˩.
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+It is the women.
+
+mi˩zɯ˩=ɻæ˥ ɲi˩.
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+It is the women.
+
+mi˩zɯ˩=ɻæ˥ ɲi˩.
+%Tone of noun: L
+%Meaning of input noun: ‘woman ’
+%Tonal analysis: L+H#
+It is the women.
+
+ə˧mv̩˩=ɻæ˩ ɲi˩.
+%Tone of noun: L#
+%Meaning of input noun: ‘elder sibling ’
+%Tonal analysis: L#–
+It is the elder siblings.
+
+õ˩dv̩˧=ɻæ˥ ɲi˩.
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+%Tonal analysis: LM+H# / LM+H$
+It is the wolves.
+
+nɑ˩hĩ˧=ɻæ˧ ɲi˥.
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi (ethnic group) ’
+%Tonal analysis: LM+H# / LM+H$
+It is the Naxi (ethnic group).
+
+bo˩mi˧=ɻæ˩ ɲi˩.
+%Tone of noun: LM
+%Meaning of input noun: ‘sow ’
+%Tonal analysis: LM–L
+It is the sows.
+
+bo˩ɬɑ˥=ɻæ˩ ɲi˩.
+%Tone of noun: LH
+%Meaning of input noun: ‘boar ’
+%Tonal analysis: LH–
+It is the boars.
+
+pʰæ˧tɕi˥=ɻæ˩ ɲi˩.
+%Tone of noun: H#
+%Meaning of input noun: ‘young man ’
+%Tonal analysis: H#–
+It is the young men.
+
+nɑ˩=ɻæ˥=bv̩˩ ɲi˩.
+%Tone of noun: LM
+%Meaning of input noun: ‘Na (ethnic group) ’
+%Tonal analysis of noun-plus-plural combination: LH
+It is that of the Na (ethnic group) / it belongs to the Na
+
+mv̩˩=ɻæ˥=bv̩˩ ɲi˩.
+%Tone of noun: LH
+%Meaning of input noun: ‘daughter ’
+%Tonal analysis: LH
+It is that of the daughters / it belongs to the daughters
+
+hæ˧=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: M
+%Meaning of input noun: ‘Han (ethnic group) ’
+%Tonal analysis: L#
+It is that of the Han (ethnic group)
+
+jo˩=ɻæ˩=bv̩˥ ɲi˩.
+%Tone of noun: L
+%Meaning of input noun: ‘sheep ’
+%Tonal analysis: L
+It is that of the sheep (plural)
+
+hĩ˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: H
+%Meaning of input noun: ‘person, human being ’
+%Tonal analysis: H# / H$
+It is that of the persons, human beings
+
+ʈʂʰæ˧=ɻæ˥=bv̩˩ ɲi˩.
+%Tone of noun: MH
+%Meaning of input noun: ‘deer ’
+%Tonal analysis: H#
+It is that of the deer (plural)
+
+ə˧mi˧=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: M
+%Meaning of input noun: ‘aunt ’
+%Tonal analysis: –L
+It is that of the aunts
+
+gi˧zɯ˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: #H
+%Meaning of input noun: ‘younger brother ’
+%Tonal analysis: H$ / H#
+It is that of the younger brothers
+
+ə˧v̩˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: MH#
+%Meaning of input noun: ‘maternal uncle ’
+%Tonal analysis: H$ / H#
+It is that of the maternal uncles
+
+hwɤ˧mi˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: H$
+%Meaning of input noun: ‘she-cat ’
+%Tonal analysis: H$ / H#
+It is that of the she-cats
+
+ə˧mv̩˩=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: L#
+%Meaning of input noun: ‘elder sibling ’
+%Tonal analysis: L#–
+It is that of the elder siblings
+
+õ˩dv̩˧=ɻæ˥=bv̩˩ ɲi˩.
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+%Tonal analysis: LM+H#
+It is that of the wolves
+
+õ˩dv̩˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: LM+MH#
+%Meaning of input noun: ‘wolf ’
+%Tonal analysis: LM+H$
+It is that of the wolves
+
+nɑ˩hĩ˧=ɻæ˧=bv̩˥ ɲi˩.
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi (ethnic group) ’
+%Tonal analysis: LM+H$
+It is that of the Naxi (ethnic group)
+
+nɑ˩hĩ˧=ɻæ˥=bv̩˩ ɲi˩.
+%Tone of noun: LM+#H
+%Meaning of input noun: ‘Naxi (ethnic group) ’
+%Tonal analysis: LM+H#
+It is that of the Naxi (ethnic group)
+
+bo˩mi˧=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: LM
+%Meaning of input noun: ‘sow ’
+%Tonal analysis: LM–L
+It is that of the sows
+
+bo˩ɬɑ˥=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: LH
+%Meaning of input noun: ‘boar ’
+%Tonal analysis: LH–
+It is that of the boars
+
+pʰæ˧tɕi˥=ɻæ˩=bv̩˩ ɲi˩.
+%Tone of noun: H#
+%Meaning of input noun: ‘young man ’
+%Tonal analysis: H#–
+It is that of the young men

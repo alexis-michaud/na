@@ -1,0 +1,607 @@
+F4_DEM_CL3
+
+ʈʂʰɯ˧-dv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des petits groupes
+这些
+this+classifier for small groups
+
+ʈʂʰɯ˧-dv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des petits groupes
+这些
+this+classifier for small groups
+
+ʈʂʰɯ˧-dv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des petits groupes
+这些
+this+classifier for small groups
+
+ʈʂʰɯ˧-dv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des petits groupes
+这些
+this+classifier for small groups
+
+ʈʂʰɯ˧-dv̩˧ ɲi˥
+#H L2
+MH# / H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both MH# and H$ yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des petits groupes+cop.
+是这些
+this+classifier for small groups+cop.
+
+tʰv̩˧-dzi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+那棵
+that+classifier for trees
+
+ʈʂʰɯ˧-dzi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧ ɲi˥
+#H L2
+MH# / H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both MH# and H$ yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-dzi˧ ɲi˥
+#H L2
+MH# / H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both MH# and H$ yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des arbres
+这棵
+this+classifier for trees
+
+ʈʂʰɯ˧-jo˧˥
+#H L2
+MH#
+%Accepted M H (H$) but did not repeat
+ce+classificateur des onces
+这两
+this+classifier for ounces
+
+ʈʂʰɯ˧-jo˧˥
+#H L2
+MH#
+%Accepted M H (H$) but did not repeat
+ce+classificateur des onces
+这两
+this+classifier for ounces
+
+ʈʂʰɯ˧-jo˧˥
+#H L2
+MH#
+%Accepted M H (H$) but did not repeat
+ce+classificateur des onces
+这两
+this+classifier for ounces
+
+tʰv̩˧-ɬi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+tʰv̩˧-ɬi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+tʰv̩˧-ɬi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+tʰv̩˧-ɬi˧˥
+H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+tʰv̩˧-ɬi˧˥
+H L2
+MH#
+ce+classificateur des toises
+那庹
+that+classifier for armspans
+
+ʈʂʰɯ˧-ɬi˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des toises
+这庹
+this+classifier for armspans
+
+ʈʂʰɯ˧-ɬi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des toises
+这庹
+this+classifier for armspans
+
+ʈʂʰɯ˧-lo˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des vallées
+这个（山谷）
+that+classifier for valleys
+
+tʰv̩˧-mi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+tʰv̩˧-mi˥
+H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des animaux
+那只
+that+classifier for animals
+
+ʈʂʰɯ˧-pʰv̩˧˥
+#H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des champs
+这块（田地）
+this+classifier for fields
+
+ʈʂʰɯ˧-pʰv̩˧ ɲi˥
+#H L2
+MH# / H$
+%This combination allows two variants: MH# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both MH# and H$ yield a surface-phonological M.M+H string when the copula is added.
+ce+classificateur des champs+cop.
+是这块（田地）
+this+classifier for fields+cop.
+
+ʈʂʰɯ˧-pɤ˥
+#H L2
+H$ / H#
+%This combination allows two variants: H# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both H# and H$ yield a surface-phonological M.H string. *MH# is not an acceptable variant.
+ce+classificateur des éléments de menuiserie/charpente
+这个（门，梯子）
+this+classifier for ladders, doors, etc.
+
+ʈʂʰɯ˧-ʁo˥
+#H L2
+H$ / H#
+%This combination allows two variants: H# and H$. From the surface tones, there is no way to tell which one is illustrated by this token, since both H# and H$ yield a surface-phonological M.H string. *MH# is not an acceptable variant.
+ce+classificateur des variétés
+这种
+this+classifier for types
+
+ʈʂʰɯ˧-tɕʰi˧˥
+#H L2
+MH#
+ce+classificateur des repas
+这顿
+this+classifier for meals
+
+ʈʂʰɯ˧-tʰv̩˧˥
+#H L2
+MH#
+ce+classificateur des dizaines
+这十个
+this+classifier for tens
+
+ʈʂʰɯ˧-tsʰe˧˥
+#H L2 
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des feuilles
+这叶
+this+classifier for leaves
+
+ʈʂʰɯ˧-tsʰe˧˥
+#H L2 
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des feuilles
+这叶
+this+classifier for leaves
+
+ʈʂʰɯ˧-tsʰe˧˥
+#H L2 
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is MH#.
+ce+classificateur des feuilles
+这叶
+this+classifier for leaves
+
+tʰv̩˧-ʈv̩˥
+H L2
+H#
+ce+classificateur des quartiers
+那大块
+that+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥
+#H L2
+H#
+ce+classificateur des quartiers
+这大块
+this+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥
+#H L2
+H#
+ce+classificateur des quartiers
+这大块
+this+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥
+#H L2
+H#
+ce+classificateur des quartiers
+这大块
+this+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥
+#H L2
+H#
+ce+classificateur des quartiers
+这大块
+this+classifier for large chunks
+
+ʈʂʰɯ˧-ʈv̩˥ ɲi˩
+#H L2
+H#
+ce+classificateur des quartiers+cop.
+是这大块
+this+classifier for large chunks+cop.
+
+ʈʂʰɯ˧-wɤ˧˥
+#H L2
+MH#
+ce+classificateur des fardeaux
+这担
+this+classifier for loads
+
+ʈʂʰɯ˧-wɤ˧˥
+#H L2
+MH#
+ce+classificateur des fardeaux
+这担
+this+classifier for loads
+
+ʈʂʰɯ˧-wɤ˧ ɲi˥
+#H L2
+MH#
+ce+classificateur des fardeaux+cop.
+是这担
+this+classifier for loads+cop.
+
+ʈʂʰɯ˧-wɤ˧ ɲi˥
+#H L2
+MH#
+ce+classificateur des fardeaux+cop.
+是这担
+this+classifier for loads+cop.
+
+ʈʂʰɯ˧-wo˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des attelages
+这架（牛）
+this+classifier for teams
+
+ʈʂʰɯ˧-wo˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des attelages
+这架（牛）
+this+classifier for teams
+
+ʈʂʰɯ˧-wo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-wo˧ ɲi˥
+#H L2
+H$ / MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token could be either of the two, as they yield the same result when in association with the copula.
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-wo˧ ɲi˥
+#H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token could be either of the two, as they yield the same result when in association with the copula.
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-bi˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-bi˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des attelages+cop.
+是这架（牛）
+this+classifier for teams+cop.
+
+ʈʂʰɯ˧-di˥
+#H L3
+H# / H$
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of H# or H$.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-di˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-di˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-di˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-di˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-di˧ ɲi˥
+#H L3
+H$ / MH#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des plaines
+这片（地）
+this+classifier for plains
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$ / H#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of H# or H$, as they yield the same result in isolation.
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$ / H#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of H# or H$, as they yield the same result in isolation.
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$ / H#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of H# or H$, as they yield the same result in isolation.
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˥
+#H L3
+H$ / H#
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of H# or H$, as they yield the same result in isolation.
+ce+classificateur des marchés
+这个（市场）
+this+classifier for marketplaces
+
+ʈʂʰɯ˧-ɖʐɯ˧ ɲi˥
+#H L3
+MH# / H$
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des marchés+cop.
+是这个（市场）
+this+classifier for marketplaces+cop.
+
+ʈʂʰɯ˧-ɖʐɯ˧ ɲi˥
+#H L3
+MH# / H$
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des marchés+cop.
+是这个（市场）
+this+classifier for marketplaces+cop.
+
+ʈʂʰɯ˧-ɖʐɯ˧ ɲi˥
+#H L3
+MH# / H$
+%This combination allows three variants: MH#, H$ and H#. The variant illustrated by this token could be either of MH# or H$, as they yield the same result when in association with the copula.
+ce+classificateur des marchés+cop.
+是这个（市场）
+this+classifier for marketplaces+cop.
+
+tʰv̩˧-qɑ˥
+#H L3 
+H#
+ce+classificateur des bottes
+这抱
+this+classifier for large bundles 
+
+tʰv̩˧-qɑ˥ ɲi˩
+#H L3
+H#
+ce+classificateur des bottes+cop.
+是这抱
+this+classifier for large bundles+cop.
+
+tʰv̩˧-tso˥
+H L3
+H#
+ce+classificateur des pièces
+那间
+that+classifier for rooms
+
+tʰv̩˧-tso˥
+H L3
+H#
+ce+classificateur des pièces
+那间
+that+classifier for rooms
+
+tʰv̩˧-tso˥ ɲi˩
+H L3
+H#
+ce+classificateur des pièces+cop.
+是那间
+that+classifier for rooms+cop.
+
+ʈʂʰɯ˧-ʐɤ˥
+#H L3
+H#
+%Previously elicited as H$, recorded in F4_DEM_CL2
+ce+classificateur des motifs
+这个（花纹）
+this+classifier for patterns
+
+ʈʂʰɯ˧-ʐɤ˥
+#H L3
+H#
+%Previously elicited as H$, recorded in F4_DEM_CL2
+ce+classificateur des motifs
+这个（花纹）
+this+classifier for patterns
+
+ʈʂʰɯ˧-ʐɤ˥ ɲi˩
+#H L3
+H#
+%Previously elicited as H$, recorded in F4_DEM_CL2
+ce+classificateur des motifs+cop.
+是这个（花纹）
+this+classifier for patterns+cop.
+
+ʈʂʰɯ˧-ʐɤ˥ ɲi˩
+#H L3
+H#
+%Previously elicited as H$, recorded in F4_DEM_CL2
+ce+classificateur des motifs+cop.
+是这个（花纹）
+this+classifier for patterns+cop.
+
+hĩ˧ ʈʂʰɯ˧-dv̩˥
+Input tones: tone of the noun, the demonstrative, and the classifier (separated by spaces): #H #H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+personne+ce+classificateur des petits groupes
+是这些人
+person+this+classifier for small groups
+
+hĩ˧ ʈʂʰɯ˧-dv̩˥
+Input tones: tone of the noun, the demonstrative, and the classifier (separated by spaces): #H #H L2
+H$
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+personne+ce+classificateur des petits groupes
+是这些人
+person+this+classifier for small groups
+
+hĩ˧ ʈʂʰɯ˧-dv̩˧˥
+Input tones: tone of the noun, the demonstrative, and the classifier (separated by spaces): #H #H L2
+MH#
+%This combination allows two variants: MH# and H$. The variant illustrated by this token is H$.
+personne+ce+classificateur des petits groupes
+是这些人
+person+this+classifier for small groups
+
+æ˩ tʰv̩˧-mi˥
+Input tones: tone of the noun, the demonstrative, and the classifier (separated by spaces): LM H L2
+L.M.H (LM+H#)
+%The output tone for the entire group is: LM+H#, hence /æ˩ tʰv̩˧-mi˥ ɲi˩/ when in association with the copula.
+poulet+ce+classificateur des animaux
+那只鸡
+chicken+that+classifier for animals

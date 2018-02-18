@@ -1,0 +1,1347 @@
+﻿Tone_Subject_Verb_F4_2012
+bo˩ ʂɯ˧-ze˧.
+bo˩˧
+ʂɯ˧
+LM M
+L.M+M
+Le porc est mort.
+猪死了。
+The pig is dead.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ tsʰo˧-ze˧.
+bo˩˧
+tsʰo#˥
+LM #H
+L.M+M
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ ǀ tsʰo˧-ze˩.
+bo˩˧
+tsʰo#˥
+LM #H
+x
+%This token is divided into two tone groups, hence the tone pattern L.M+L instead of the expected pattern L.M+M.
+Le porc a sauté.
+猪跳了。
+The pig jumped.
+
+bo˩ se˥-ze˩.
+bo˩˧
+se˥
+LM H
+L.H
+Le porc a marché.
+猪走路了。
+The pig walked.
+
+bo˩ tsʰɯ˥-ze˩.
+bo˩˧
+tsʰɯ˩
+LM L
+L.H
+Le porc est arrivé.
+猪到了。
+The pig arrived.
+
+bo˩ ʈʰɯ˥-ze˩.
+bo˩˧
+ʈʰɯ˩˧
+LM LM
+L.H
+Le porc a bu.
+猪喝了。
+The pig drank.
+
+bo˩ ʈʰɯ˥-ze˩.
+bo˩˧
+ʈʰɯ˩˧
+LM LM
+L.H
+Le porc a bu.
+猪喝了。
+The pig drank.
+
+bo˩ ʈʰɯ˥-ze˩.
+bo˩˧
+ʈʰɯ˩˧
+LM LM
+L.H
+Le porc a bu.
+猪喝了。
+The pig drank.
+
+bo˩ bæ˧-ze˥.
+bo˩˧
+bæ˧˥
+LM MH
+L.MH
+Le porc a couru.
+猪跑了。
+The pig ran.
+
+ʐæ˩ ʂɯ˧-ze˧.
+ʐæ˩˧
+ʂɯ˧
+LH M
+L.M+M
+La panthère est morte.
+豹子死了。
+The panther is dead.
+
+ʐæ˩ tsʰo˧-ze˧.
+ʐæ˩˧
+tsʰo#˥
+LH #H
+L.M+M
+La panthère a sauté.
+豹子跳了。
+The panther jumped.
+
+ʐæ˩ se˥-ze˩.
+ʐæ˩˧
+se˥
+LH H
+L.H
+La panthère a marché.
+豹子走路了。
+The panther walked.
+
+ʐæ˩ tsʰɯ˥-ze˩.
+ʐæ˩˧
+tsʰɯ˩
+LH L
+L.H
+La panthère est arrivée.
+豹子到了。
+The panther arrived.
+
+ʐæ˩ ʈʰɯ˥-ze˩.
+ʐæ˩˧
+ʈʰɯ˩˧
+LH LM
+L.H
+La panthère a bu.
+豹子喝了。
+The panther drank.
+
+ʐæ˩ bæ˧-ze˥.
+ʐæ˩˧
+bæ˧˥
+LH MH
+L.MH
+La panthère a couru.
+豹子跑了。
+The panther ran.
+
+lɑ˧ ʂɯ˧-ze˧.
+lɑ˧
+ʂɯ˧
+M M
+M.M+M
+Le tigre est mort.
+老虎死了。
+The tiger is dead.
+
+lɑ˧ tsʰo˧-ze˧.
+lɑ˧
+tsʰo#˥
+M #H
+M.M+M
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ tsʰo˧-ze˧.
+lɑ˧
+tsʰo#˥
+M #H
+M.M+M
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ tsʰo˧-ze˧.
+lɑ˧
+tsʰo#˥
+M #H
+M.M+M
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ tsʰo˧.
+lɑ˧
+tsʰo#˥
+M #H
+M.M(+M)
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ ǀ tsʰo˧-ze˩.
+lɑ˧
+tsʰo#˥
+M #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ ǀ tsʰo˧-ze˩.
+lɑ˧
+tsʰo#˥
+M #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ ǀ tsʰo˧-ze˩.
+lɑ˧
+tsʰo#˥
+M #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ ǀ tsʰo˧-ze˩.
+lɑ˧
+tsʰo#˥
+M #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+Le tigre a sauté.
+老虎跳了。
+The tiger jumped.
+
+lɑ˧ se˧-ze˩.
+lɑ˧
+se˥
+M H
+M.M+L
+Le tigre a marché.
+老虎走路了。
+The tiger walked.
+
+lɑ˧ tsʰɯ˩-ze˩.
+lɑ˧
+tsʰɯ˩
+M L
+M.L
+Le tigre est arrivé.
+老虎到了。
+The tiger arrived.
+
+lɑ˧ ʈʰɯ˩-ze˩.
+lɑ˧
+ʈʰɯ˩˧
+M LM
+M.L
+Le tigre a bu.
+老虎喝了。
+The tiger drank.
+
+lɑ˧ bæ˧-ze˥.
+lɑ˧
+bæ˧˥
+M MH
+M.MH
+Le tigre a couru.
+老虎跑了。
+The tiger ran.
+
+jo˩ ʂɯ˩-ze˥.
+jo˩
+ʂɯ˧
+L M
+L.L
+Le mouton est mort.
+绵羊死了。
+The sheep is dead.
+
+jo˩ ʂɯ˩-ze˥.
+jo˩
+ʂɯ˧
+L M
+L.L
+Le mouton est mort.
+绵羊死了。
+The sheep is dead.
+
+jo˧ ǀ ʂɯ˧-ze˧.
+jo˩
+ʂɯ˧
+L M
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+M instead of the expected pattern L.L
+Le mouton est mort.
+绵羊死了。
+The sheep is dead.
+
+jo˧ tsʰo˧-ze˧.
+jo˩
+tsʰo#˥
+L #H
+M.M+M
+Le mouton a sauté.
+绵羊跳了。
+The sheep jumped.
+
+jo˧ tsʰo˧-ze˧.
+jo˩
+tsʰo#˥
+L #H
+M.M+M
+Le mouton a sauté.
+绵羊跳了。
+The sheep jumped.
+
+jo˧ tsʰo˧-ze˧.
+jo˩
+tsʰo#˥
+L #H
+M.M+M
+Le mouton a sauté.
+绵羊跳了。
+The sheep jumped.
+
+jo˧ ǀ tsʰo˧-ze˩.
+jo˩
+tsʰo#˥
+L #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+Le mouton a sauté.
+绵羊跳了。
+The sheep jumped.
+
+jo˧ se˧-ze˩.
+jo˩
+se˥
+L H
+M.M+L
+Le mouton a marché.
+绵羊走路了。
+The sheep walked.
+
+jo˩ tsʰɯ˩-ze˥.
+jo˩
+tsʰɯ˩
+L L
+L.L
+Le mouton est arrivé.
+绵羊到了。
+The sheep arrived.
+
+jo˧ ǀ tsʰɯ˩-ze˩.
+jo˩
+tsʰɯ˩
+L L
+x
+%This token is divided into two tone groups, hence the tone pattern M.L+L instead of the expected pattern M.M+M.
+Le mouton est arrivé.
+绵羊到了。
+The sheep arrived.
+
+jo˩ ʈʰɯ˩-ze˥.
+jo˩
+ʈʰɯ˩˧
+L LM
+L.L
+Le mouton a bu.
+绵羊喝了。
+The sheep drank.
+
+jo˩ ʈʰɯ˩-ze˥.
+jo˩
+ʈʰɯ˩˧
+L LM
+L.L
+Le mouton a bu.
+绵羊喝了。
+The sheep drank.
+
+jo˩ ʈʰɯ˩-ze˥.
+jo˩
+ʈʰɯ˩˧
+L LM
+L.L
+Le mouton a bu.
+绵羊喝了。
+The sheep drank.
+
+jo˩ ʈʰɯ˩˥.
+jo˩
+ʈʰɯ˩˧
+L LM
+L.L
+Le mouton boit.
+绵羊喝。
+The sheep drink.
+
+jo˧ ǀ ʈʰɯ˩-ze˩.
+jo˩
+ʈʰɯ˩˧
+L LM
+x
+%This token is divided into two tone groups, hence the tone pattern M.L+L instead of the expected pattern L.L.
+Le mouton a bu.
+绵羊喝了。
+The sheep drank.
+
+jo˧ ǀ ʈʰɯ˩-ze˩.
+jo˩
+ʈʰɯ˩˧
+L LM
+x
+%This token is divided into two tone groups, hence the tone pattern M.L+L instead of the expected pattern L.L.
+Le mouton a bu.
+绵羊喝了。
+The sheep drank.
+
+jo˩ bæ˩-ze˥.
+jo˩
+bæ˧˥
+L MH
+L.L
+Le mouton a couru.
+绵羊跑了。
+The sheep ran.
+
+ʐwæ˧ ʂɯ˧-ze˩.
+ʐwæ˥
+ʂɯ˧
+#H M
+M.M+L
+Le cheval est mort.
+马死了。
+The horse is dead.
+
+ʐwæ˧ tsʰo˧-ze˩.
+ʐwæ˥
+tsʰo#˥
+#H #H
+M.M+L
+Le cheval a sauté.
+马跳了。
+The horse jumped.
+
+ʐwæ˧ se˧-ze˩.
+ʐwæ˥
+se˥
+#H H
+M.M+L
+Le cheval a marché.
+马走路了。
+The horse walked.
+
+ʐwæ˧ tsʰɯ˧-ze˥.
+ʐwæ˥
+tsʰɯ˩
+#H L
+M.MH
+Le cheval est arrivé.
+马到了。
+The horse arrived.
+
+ʐwæ˧ ʈʰɯ˧-ze˥.
+ʐwæ˥
+ʈʰɯ˩˧
+#H LM
+M.MH
+Le cheval a bu.
+马喝了。
+The horse drank.
+
+ʐwæ˧ bæ˩-ze˩.
+ʐwæ˥
+bæ˧˥
+#H MH
+M.L
+Le cheval a couru.
+马跑了。
+The horse ran.
+
+ʈʂʰæ˧ ʂɯ˥-ze˩.
+ʈʂʰæ˧˥
+ʂɯ˧
+MH M
+M.H
+Le cerf est mort.
+鹿死了。
+The stag is dead.
+
+ʈʂʰæ˧ tsʰo˥-ze˩.
+ʈʂʰæ˧˥
+tsʰo#˥
+MH #H
+M.H
+Le cerf a sauté.
+鹿跳了。
+The stag jumped.
+
+ʈʂʰæ˧ se˥-ze˩.
+ʈʂʰæ˧˥
+se˥
+MH H
+M.H
+%Hyperarticulated token. The first syllable is realized phonetically rising, as when the noun is pronounced in isolation.
+Le cerf a marché.
+鹿走路了。
+The stag walked.
+
+ʈʂʰæ˧ tsʰɯ˧-ze˥.
+ʈʂʰæ˧˥
+tsʰɯ˩
+MH L
+M.MH
+Le cerf est arrivé.
+鹿到了。
+The stag arrived.
+
+ʈʂʰæ˧ ʈʰɯ˧-ze˥.
+ʈʂʰæ˧˥
+ʈʰɯ˩˧
+MH LM
+M.MH
+Le cerf a bu.
+鹿喝了。
+The stag drank.
+
+ʈʂʰæ˧ bæ˥-ze˩.
+ʈʂʰæ˧˥
+bæ˧˥
+MH MH
+M.H
+Le cerf a couru.
+鹿跑了。
+The stag ran.
+
+go˧mi˧ ʂɯ˧-ze˧.
+go˧mi˧
+ʂɯ˧
+M M
+M.M.M+M
+La petite soeur est morte.
+妹妹死了。
+The younger sister is dead.
+
+go˧mi˧ tsʰo˧-ze˧.
+go˧mi˧
+tsʰo#˥
+M #H
+M.M.M+M
+La petite soeur a sauté.
+妹妹跳了。
+The younger sister jumped.
+
+go˧mi˧ tsʰo˧-ze˧.
+go˧mi˧
+tsʰo#˥
+M #H
+M.M.M+M
+La petite soeur a sauté.
+妹妹跳了。
+The younger sister jumped.
+
+go˧mi˧ ǀ tsʰo˧-ze˩.
+go˧mi˧
+tsʰo#˥
+M #H
+x
+%This token is divided into two tone groups, hence the tone pattern M.M+L instead of the expected pattern M.M+M.
+La petite soeur a sauté.
+妹妹跳了。
+The younger sister jumped.
+
+go˧mi˧ se˧-ze˩.
+go˧mi˧
+se˥
+M H
+M.M.M+L
+La petite soeur a marché.
+妹妹走路了。
+The younger sister walked.
+
+go˧mi˧ tsʰɯ˩-ze˩.
+go˧mi˧
+tsʰɯ˩
+M L
+M.M.L
+La petite soeur est arrivée.
+妹妹到了。
+The younger sister arrived.
+
+go˧mi˧ ʈʰɯ˩-ze˩.
+go˧mi˧
+ʈʰɯ˩˧
+M LM
+M.M.L
+La petite soeur a bu.
+妹妹喝了。
+The younger sister drank.
+
+go˧mi˧ bæ˧-ze˥.
+go˧mi˧
+bæ˧˥
+M MH
+M.M.MH
+La petite soeur a couru.
+妹妹跑了。
+The younger sister ran.
+
+gi˧zɯ˧ ʂɯ˧-ze˩.
+gi˧zɯ#˥
+ʂɯ˧
+#H M
+M.M.M+L
+Le petit frère est mort.
+弟弟死了。
+The younger brother is dead.
+
+gi˧zɯ˧ tsʰo˧-ze˩.
+gi˧zɯ#˥
+tsʰo#˥
+#H #H
+M.M.M+L
+Le petit frère a sauté.
+弟弟跳了。
+The younger brother jumped.
+
+gi˧zɯ˧ se˧-ze˩.
+gi˧zɯ#˥
+se˥
+#H H
+M.M.M+L
+Le petit frère a marché.
+弟弟走路了。
+The younger brother walked.
+
+gi˧zɯ˧ tsʰɯ˧-ze˥.
+gi˧zɯ#˥
+tsʰɯ˩
+#H L
+M.M.MH
+Le petit frère est arrivé.
+弟弟到了。
+The younger brother arrived.
+
+gi˧zɯ˧ ʈʰɯ˧-ze˥.
+gi˧zɯ#˥
+ʈʰɯ˩˧
+#H LM
+M.M.MH
+Le petit frère a bu.
+弟弟喝了。
+The younger brother drank.
+
+gi˧zɯ˧ bæ˩-ze˩.
+gi˧zɯ#˥
+bæ˧˥
+#H MH
+M.M.L
+Le petit frère a couru.
+弟弟跑了。
+The younger brother ran.
+
+hwɤ˧li˧ ʂɯ˧-ze˥.
+hwɤ˧li˧˥
+ʂɯ˧
+MH# M
+M.M.MH
+Le chat est mort.
+猫死了。
+The cat is dead.
+
+hwɤ˧li˧ tsʰo˧-ze˥.
+hwɤ˧li˧˥
+tsʰo#˥
+MH# #H
+M.M.MH
+Le chat a sauté.
+猫跳了。
+The cat jumped.
+
+hwɤ˧li˧ se˧-ze˥.
+hwɤ˧li˧˥
+se˥
+MH# H
+M.M.MH
+Le chat a marché.
+猫走路了。
+The cat walked.
+
+hwɤ˧li˧ tsʰɯ˧-ze˥.
+hwɤ˧li˧˥
+tsʰɯ˩
+MH# L
+M.M.MH
+Le chat est arrivé.
+猫到了。
+The cat arrived.
+
+hwɤ˧li˧ ʈʰɯ˧-ze˥.
+hwɤ˧li˧˥
+ʈʰɯ˩˧
+MH# LM
+M.M.MH
+Le chat a bu.
+猫喝了。
+The cat drank.
+
+hwɤ˧li˧ bæ˥-ze˩.
+hwɤ˧li˧˥
+bæ˧˥
+MH# MH
+M.M.H
+Le chat a couru.
+猫跑了。
+The cat ran.
+
+hwɤ˧mi˧ ʂɯ˧-ze˩.
+hwɤ˧mi˥$
+ʂɯ˧
+H$ M
+M.M.M+L
+La chatte est morte.
+母猫死了。
+The she-cat is dead.
+
+hwɤ˧mi˧ tsʰo˧-ze˥.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+H
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ tsʰo˧-ze˥.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+H
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ tsʰo˧-ze˥.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+H
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ tsʰo˧.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ MH#
+M.M.M(+H)
+La chatte saute.
+母猫跳。
+The she-cat jumps.
+
+hwɤ˧mi˧ ǀ tsʰo˧-ze˩.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+L
+%This is a variant. The preferred pattern when the speaker was asked to express a preference was M.M.M+H.
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ ǀ tsʰo˧-ze˩.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+L
+%This is a variant. The preferred pattern when the speaker was asked to express a preference was M.M.M+H.
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ ǀ tsʰo˧-ze˩.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+L
+%This is a variant. The preferred pattern when the speaker was asked to express a preference was M.M.M+H.
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ ǀ tsʰo˧-ze˩.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+M.M.M+L
+%This is a variant. The preferred pattern when the speaker was asked to express a preference was M.M.M+H.
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+*hwɤ˧mi˧ tsʰo˥-ze˩.
+hwɤ˧mi˥$
+tsʰo#˥
+H$ #H
+x
+%This is a mistaken realization: a tonal 'slip of the tongue'. The preferred pattern is M.M.M+H; there also exists a variant, M.M.M+L.
+La chatte a sauté.
+母猫跳了。
+The she-cat jumped.
+
+hwɤ˧mi˧ se˧-ze˩.
+hwɤ˧mi˥$
+se˥
+H$ H
+M.M.M+L
+La chatte a marché.
+母猫走路了。
+The she-cat walked.
+
+hwɤ˧mi˧ tsʰɯ˧-ze˥.
+hwɤ˧mi˥$
+tsʰɯ˩
+H$ L
+M.M.MH
+La chatte est arrivée.
+母猫到了。
+The she-cat arrived.
+
+hwɤ˧mi˧ ʈʰɯ˧-ze˥.
+hwɤ˧mi˥$
+ʈʰɯ˩˧
+H$ LM
+M.M.MH
+La chatte a bu.
+母猫喝了。
+The she-cat drank.
+
+hwɤ˧mi˥ bæ˩-ze˩.
+hwɤ˧mi˥$
+bæ˧˥
+H$ MH
+M.H.L
+La chatte a couru.
+母猫跑了。
+The she-cat ran.
+
+kʰv˩mi˩ ʂɯ˩-ze˥.
+kʰv˩mi˩
+ʂɯ˧
+L M
+L.L.L
+Le chien est mort.
+狗死了。
+The dog is dead.
+
+kʰv˩mi˩ tsʰo˩-ze˥.
+kʰv˩mi˩
+tsʰo#˥
+L #H
+L.L.L
+Le chien a sauté.
+狗跳了。
+The dog jumped.
+
+kʰv˩mi˩ se˩-ze˥.
+kʰv˩mi˩
+se˥
+L H
+L.L.L
+Le chien a marché.
+狗走路了。
+The dog walked.
+
+kʰv˩mi˩ tsʰɯ˩-ze˥.
+kʰv˩mi˩
+tsʰɯ˩
+L L
+L.L.L
+Le chien est arrivé.
+狗到了。
+The dog arrived.
+
+kʰv˩mi˩ ʈʰɯ˩-ze˥.
+kʰv˩mi˩
+ʈʰɯ˩˧
+L LM
+L.L.L
+Le chien a bu.
+狗喝了。
+The dog drank.
+
+kʰv˩mi˩ bæ˥-ze˩.
+kʰv˩mi˩
+bæ˧˥
+L MH
+L.L.H
+Le chien a couru.
+狗跑了。
+The dog ran.
+
+ʁo˧dzi˩ ʂɯ˩-ze˩.
+ʁo˧dzi˩
+ʂɯ˧
+L# M
+M.L.L
+%In this token, the noun 'Tibetan' is used, not the animal name 'mule' as in the other examples; the tone pattern is the same.
+Le Tibétain est mort.
+藏族（人）死了。
+The Tibetan person is dead.
+
+dɑ˧ʝi˩ tsʰo˩-ze˩.
+dɑ˧ʝi˩
+tsʰo#˥
+L# #H
+M.L.L
+La mule a sauté.
+骡子跳了。
+The mule jumped.
+
+dɑ˧ʝi˩ se˩-ze˩.
+dɑ˧ʝi˩
+se˥
+L# H
+M.L.L
+La mule a marché.
+骡子走路了。
+The mule walked.
+
+dɑ˧ʝi˩ tsʰɯ˩-ze˩.
+dɑ˧ʝi˩
+tsʰɯ˩
+L# L
+M.L.L
+La mule est arrivée.
+骡子到了。
+The mule arrived.
+
+dɑ˧ʝi˩ ʈʰɯ˩-ze˩.
+dɑ˧ʝi˩
+ʈʰɯ˩˧
+L# LM
+M.L.L
+La mule a bu.
+骡子喝了。
+The mule drank.
+
+dɑ˧ʝi˩ bæ˩-ze˩.
+dɑ˧ʝi˩
+bæ˧˥
+L# MH
+M.L.L
+La mule a couru.
+骡子跑了。
+The mule ran.
+
+õ˩dv˧ ʂɯ˧-ze˩.
+õ˩dv˧˥
+ʂɯ˧
+LM+MH# M
+L.M.M+L
+Le loup est mort.
+狼死了。
+The wolf is dead.
+
+õ˩dv˧ tsʰo˧-ze˩.
+õ˩dv˧˥
+tsʰo#˥
+LM+MH# #H
+L.M.M+L
+Le loup a sauté.
+狼跳了。
+The wolf jumped.
+
+õ˩dv˧ se˧-ze˩.
+õ˩dv˧˥
+se˥
+LM+MH# H
+L.M.M+L
+Le loup a marché.
+狼走路了。
+The wolf walked.
+
+õ˩dv˧ tsʰɯ˧-ze˥.
+õ˩dv˧˥
+tsʰɯ˩
+LM+MH# L
+L.M.MH
+Le loup est arrivé.
+狼到了。
+The wolf arrived.
+
+õ˩dv˧ ʈʰɯ˧-ze˥.
+õ˩dv˧˥
+ʈʰɯ˩˧
+LM+MH# LM
+L.M.MH
+Le loup a bu.
+狼喝了。
+The wolf drank.
+
+õ˩dv˧ bæ˥-ze˩.
+õ˩dv˧˥
+bæ˧˥
+LM+MH# MH
+L.M.H
+Le loup a couru.
+狼跑了。
+The wolf ran.
+
+ɑ˩mi˧ ʂɯ˧-ze˧.
+ɑ˩mi#˥
+ʂɯ˧
+LM+#H M
+L.M.M+M
+La cane est morte.
+母鸭死了。
+The female duck is dead.
+
+æ˩mi˧ tsʰo˧-ze˧.
+æ˩mi#˥
+tsʰo#˥
+LM+#H #H
+L.M.M+M
+La poule a sauté.
+母鸡跳了。
+The female chicken jumped.
+
+ɑ˩mi˧ ǀ tsʰo˧-ze˩.
+ɑ˩mi#˥
+tsʰo#˥
+LM+#H #H
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct) pattern is: /ɑ˩mi˧ tsʰo˧-ze˧/ (L.M.M+M)
+La cane a sauté.
+母鸭跳了。
+The female duck jumped.
+
+ɑ˩mi˧ se˧-ze˩.
+ɑ˩mi#˥
+se˥
+LM+#H H
+L.M.M+L
+La cane a marché.
+母鸭走路了。
+The female duck walked.
+
+ɑ˩mi˧ tsʰɯ˩-ze˩.
+ɑ˩mi#˥
+tsʰɯ˩
+LM+#H L
+L.M.L
+La cane est arrivée.
+母鸭到了。
+The female duck arrived.
+
+ɑ˩mi˧ ʈʰɯ˧-ze˥.
+ɑ˩mi#˥
+ʈʰɯ˩˧
+LM+#H LM
+L.M.MH
+La cane a bu.
+母鸭喝了。
+The female duck drank.
+
+ɑ˩mi˧ ǀ ʈʰɯ˩-ze˩.
+ɑ˩mi#˥
+ʈʰɯ˩˧
+LM+#H LM
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct/conservative) pattern is: /ɑ˩mi˧ tsʰo˧˥/ (L.M.MH)
+La cane a bu.
+母鸭喝了。
+The female duck drank.
+
+ɑ˩mi˧ ǀ ʈʰɯ˩-ze˩.
+ɑ˩mi#˥
+ʈʰɯ˩˧
+LM+#H LM
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct/conservative) pattern is: /ɑ˩mi˧ tsʰo˧˥/ (L.M.MH)
+La cane a bu.
+母鸭喝了。
+The female duck drank.
+
+ɑ˩mi˧ bæ˧-ze˥.
+ɑ˩mi#˥
+bæ˧˥
+LM+#H MH
+L.M.MH
+La cane a couru.
+母鸭跑了。
+The female duck ran.
+
+bo˩mi˧ ʂɯ˧-ze˧.
+bo˩mi˧
+ʂɯ˧
+LM M
+L.M.M+M
+La truie est morte.
+母猪死了。
+The sow is dead.
+
+bo˩mi˧ tsʰo˧-ze˧.
+bo˩mi˧
+tsʰo#˥
+LM #H
+L.M.M+M
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ tsʰo˧-ze˧.
+bo˩mi˧
+tsʰo#˥
+LM #H
+L.M.M+M
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ tsʰo˧-ze˧.
+bo˩mi˧
+tsʰo#˥
+LM #H
+L.M.M+M
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ ǀ tsʰo˧-ze˩.
+bo˩mi˧
+tsʰo#˥
+LM #H
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct) pattern is: /bo˩mi˧ tsʰo˧-ze˧/ (L.M.M+M)
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ ǀ tsʰo˧-ze˩.
+bo˩mi˧
+tsʰo#˥
+LM #H
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct) pattern is: /bo˩mi˧ tsʰo˧-ze˧/ (L.M.M+M)
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ ǀ tsʰo˧-ze˩.
+bo˩mi˧
+tsʰo#˥
+LM #H
+x
+%In this realization, the subject and verb belong to distinct tone groups. The expected (correct) pattern is: /bo˩mi˧ tsʰo˧-ze˧/ (L.M.M+M)
+La truie a sauté.
+母猪跳了。
+The sow jumped.
+
+bo˩mi˧ se˧-ze˩.
+bo˩mi˧
+se˥
+LM H
+L.M.M+L
+La truie a marché.
+母猪走路了。
+The sow walked.
+
+bo˩mi˧ tsʰɯ˩-ze˩.
+bo˩mi˧
+tsʰɯ˩
+LM L
+L.M.L
+La truie est arrivée.
+母猪到了。
+The sow arrived.
+
+bo˩mi˧ ʈʰɯ˩-ze˩.
+bo˩mi˧
+ʈʰɯ˩˧
+LM LM
+L.M.L
+La truie a bu.
+母猪喝了。
+The sow drank.
+
+bo˩mi˧ bæ˧-ze˥.
+bo˩mi˧
+bæ˧˥
+LM MH
+L.M.MH
+La truie a couru.
+母猪跑了。
+The sow ran.
+
+bo˩ɬɑ˥ ʂɯ˩-ze˩.
+bo˩ɬɑ˥
+ʂɯ˧
+LH M
+L.H.L
+Le verrat est mort.
+公猪死了。
+The boar is dead.
+
+bo˩ɬɑ˥ tsʰo˩-ze˩.
+bo˩ɬɑ˥
+tsʰo#˥
+LH #H
+L.H.L
+Le verrat a sauté.
+公猪跳了。
+The boar jumped.
+
+bo˩ɬɑ˥ se˩-ze˩.
+bo˩ɬɑ˥
+se˥
+LH H
+L.H.L
+Le verrat a marché.
+公猪走路了。
+The boar walked.
+
+bo˩ɬɑ˥ tsʰɯ˩-ze˩.
+bo˩ɬɑ˥
+tsʰɯ˩
+LH L
+L.H.L
+Le verrat est arrivé.
+公猪到了。
+The boar arrived.
+
+bo˩ɬɑ˧ ʈʰɯ˧-ze˥.
+bo˩ɬɑ˥
+ʈʰɯ˩˧
+LH LM
+L.M.MH
+Le verrat a bu.
+公猪喝了。
+The boar drank.
+
+bo˩ɬɑ˥ bæ˩-ze˩
+bo˩ɬɑ˥
+bæ˧˥
+LH MH
+L.H.L
+Le verrat a couru.
+公猪跑了。
+The boar ran.
+
+hwæ˧tsɯ˥ ʂɯ˩-ze˩.
+hwæ˧tsɯ˥
+ʂɯ˧
+H# M
+M.H.L
+La souris est morte.
+老鼠死了。
+The mouse is dead.
+
+hwæ˧tsɯ˥ tsʰo˩-ze˩.
+hwæ˧tsɯ˥
+tsʰo#˥
+H# #H
+M.H.L
+La souris a sauté.
+老鼠跳了。
+The mouse jumped.
+
+hwæ˧tsɯ˥ se˩-ze˩.
+hwæ˧tsɯ˥
+se˥
+H# H
+M.H.L
+La souris a marché.
+老鼠走路了。
+The mouse walked.
+
+hwæ˧tsɯ˥ tsʰɯ˩-ze˩.
+hwæ˧tsɯ˥
+tsʰɯ˩
+H# L
+M.H.L
+La souris est arrivée.
+老鼠到了。
+The mouse arrived.
+
+hwæ˧tsɯ˥ ʈʰɯ˩-ze˩.
+hwæ˧tsɯ˥
+ʈʰɯ˩˧
+H# LM
+M.H.L
+La souris a bu.
+老鼠喝了。
+The mouse drank.
+
+hwæ˧tsɯ˥ bæ˩-ze˩
+hwæ˧tsɯ˥
+bæ˧˥
+H# MH
+M.H.L
+La souris a couru.
+老鼠跑了。
+The mouse ran.

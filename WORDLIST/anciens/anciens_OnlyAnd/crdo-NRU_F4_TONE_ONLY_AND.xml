@@ -1,0 +1,166 @@
+<WORDLIST id="crdo-NRU_Tone_Only_And" xml:lang="nru">
+<HEADER>
+<TITLE xml:lang="fr">Tone_Only_And</TITLE>
+<SOUNDFILE href="../audio/crdo-NRU_F4_ONLY_AND.wav"/>
+</HEADER>
+<W id="Tone_Only_And_001">
+	<FORM>bo˩-lɑ˧</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.M"/>
+	<TRANSL xml:lang="fr">porc</TRANSL>
+	<TRANSL xml:lang="en">pig</TRANSL>
+<AUDIO start="12.834" end="13.489"/>
+</W>
+<W id="Tone_Only_And_002">
+	<FORM>ʐæ˩-lɑ˥ </FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.H"/>
+	<TRANSL xml:lang="fr">léopard</TRANSL>
+	<TRANSL xml:lang="en">leopard</TRANSL>
+<AUDIO start="10.622" end="11.436"/>
+</W>
+<W id="Tone_Only_And_003">
+	<FORM>lɑ˧-lɑ˧</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.M"/>
+	<TRANSL xml:lang="fr">tigre</TRANSL>
+	<TRANSL xml:lang="en">tiger</TRANSL>
+<AUDIO start="8.904" end="9.639"/>
+</W>
+<W id="Tone_Only_And_004">
+	<FORM>jo˩-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.H"/>
+	<TRANSL xml:lang="fr">mouton</TRANSL>
+	<TRANSL xml:lang="en">sheep</TRANSL>
+<AUDIO start="7.291" end="8.022"/>
+</W>
+<W id="Tone_Only_And_005">
+	<FORM>ʐwæ˧-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.L"/>
+	<TRANSL xml:lang="fr">cheval</TRANSL>
+	<TRANSL xml:lang="en">horse</TRANSL>
+<AUDIO start="5.485" end="6.315"/>
+</W>
+<W id="Tone_Only_And_006">
+	<FORM>ʈʂʰæ˧-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: MH"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.H"/>
+	<TRANSL xml:lang="fr">cerf</TRANSL>
+	<TRANSL xml:lang="en">deer</TRANSL>
+<AUDIO start="2.751" end="4.458"/>
+</W>
+<W id="Tone_Only_And_007">
+	<FORM>ɖɤ˧mi˧-lɑ˧</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: M"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.M.M"/>
+	<TRANSL xml:lang="fr">renard</TRANSL>
+	<TRANSL xml:lang="en">fox</TRANSL>
+<AUDIO start="15.314" end="16.271"/>
+</W>
+<W id="Tone_Only_And_008">
+	<FORM>ʐwæ˧zo˧-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: #H"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.M.L"/>
+	<NOTE xml:lang="en" message = "This token reveals a clear pattern of tonal coarticulation, whereby the second M tone is raised in anticipation of the step-down to the final L tone."/>
+	<TRANSL xml:lang="fr">poulain</TRANSL>
+	<TRANSL xml:lang="en">colt</TRANSL>
+<AUDIO start="16.985" end="18.117"/>
+</W>
+<W id="Tone_Only_And_009">
+	<FORM>hwɤ˧li˧-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: MH#"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.M.H"/>
+	<TRANSL xml:lang="fr">chat</TRANSL>
+	<TRANSL xml:lang="en">cat</TRANSL>
+<AUDIO start="19.353" end="20.271"/>
+</W>
+<W id="Tone_Only_And_010">
+	<FORM>*hwɤ˧mi˧-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Mistaken realization. The lexical tone of the noun is H$. The correct resulting tone pattern is M.H.L."/>
+	<TRANSL xml:lang="fr">chatte</TRANSL>
+	<TRANSL xml:lang="en">she-cat</TRANSL>
+<AUDIO start="21.542" end="22.441"/>
+</W>
+<W id="Tone_Only_And_011">
+	<FORM>hwɤ˧mi˧-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.H.L"/>
+	<TRANSL xml:lang="fr">chatte</TRANSL>
+	<TRANSL xml:lang="en">she-cat</TRANSL>
+<AUDIO start="23.277" end="24.23"/>
+</W>
+<W id="Tone_Only_And_012">
+	<FORM>hwɤ˧mi˧-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H$"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.H.L"/>
+	<TRANSL xml:lang="fr">chatte</TRANSL>
+	<TRANSL xml:lang="en">she-cat</TRANSL>
+<AUDIO start="25.472" end="26.343"/>
+</W>
+<W id="Tone_Only_And_013">
+	<FORM>kʰv̩˩mi˩-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.L.H"/>
+	<TRANSL xml:lang="fr">chien</TRANSL>
+	<TRANSL xml:lang="en">dog</TRANSL>
+<AUDIO start="27.144" end="27.91"/>
+</W>
+<W id="Tone_Only_And_014">
+	<FORM>kʰv̩˩mi˩-lɑ˥ ǀ nɑ˩˧</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.L.H"/>
+	<TRANSL xml:lang="fr">le chien et les Na [association symbolique importante: voir le récit Dog]</TRANSL>
+	<TRANSL xml:lang="en">dog and the Na [this is an important symbolic pair in Na culture: see the narrative Dog]</TRANSL>
+<AUDIO start="0.182" end="1.232"/>
+</W>
+<W id="Tone_Only_And_015">
+	<FORM>dɑ˧ʝi˩-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: L#"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.L.L"/>
+	<TRANSL xml:lang="fr">mule</TRANSL>
+	<TRANSL xml:lang="en">mule</TRANSL>
+<AUDIO start="28.751" end="29.646"/>
+</W>
+<W id="Tone_Only_And_016">
+	<FORM>õ˩dv˧-lɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM+MH#"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.M.H"/>
+	<TRANSL xml:lang="fr">loup</TRANSL>
+	<TRANSL xml:lang="en">wolf</TRANSL>
+<AUDIO start="30.464" end="31.472"/>
+</W>
+<W id="Tone_Only_And_017">
+	<FORM>nɑ˩hĩ˧-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM+#H"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.M.L"/>
+	<TRANSL xml:lang="fr">Naxi</TRANSL>
+	<TRANSL xml:lang="en">Naxi</TRANSL>
+<AUDIO start="32.576" end="33.384"/>
+</W>
+<W id="Tone_Only_And_018">
+	<FORM>bo˩mi˧-lɑ˧ ǀ bo˩ɬɑ˥</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LM"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.M.M"/>
+	<TRANSL xml:lang="fr">truie et verrat</TRANSL>
+	<TRANSL xml:lang="en">sow and boar</TRANSL>
+<AUDIO start="35.018" end="36.332"/>
+</W>
+<W id="Tone_Only_And_019">
+	<FORM>bo˩ɬɑ˥-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: LH"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: L.H.L"/>
+	<TRANSL xml:lang="fr">verrat</TRANSL>
+	<TRANSL xml:lang="en">boar</TRANSL>
+<AUDIO start="38.004" end="38.723"/>
+</W>
+<W id="Tone_Only_And_020">
+	<FORM>hwæ˧tsɯ˥-lɑ˩</FORM>
+	<NOTE xml:lang="en" message = "Lexical tone of noun: H#"/>
+	<NOTE xml:lang="en" message = "Resulting tone pattern: M.H.L"/>
+	<TRANSL xml:lang="fr">rat</TRANSL>
+	<TRANSL xml:lang="en">rat</TRANSL>
+<AUDIO start="39.807" end="40.695"/>
+</W>
+</WORDLIST>
