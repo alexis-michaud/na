@@ -5,10 +5,11 @@ import copy
 
 import sys
 import re
-# appel du fichier simpleConverter (qui doit se trouver dans le meme repertoire) ou se trouve les fonctions read_correspondances et conversion
+# appel du fichier simpleConverter (qui doit se trouver dans le meme repertoire) ou se trouvent les fonctions 
+# read_correspondances et conversion
 from simpleConverter import simpleConverter as sc
 
-# ajoute les versions orthographiques dans un fichier TEXT ou WORDLIST
+# Ce script ajoute les versions orthographiques dans un fichier TEXT ou WORDLIST au format XML.
 
 # on charge les correspondances de "ipa2spelling.csv" (pour l'instant choix du fichier en dur (modifier si necessaire)
 correspondances = sc.read_correspondances("ipa2spelling.csv")
