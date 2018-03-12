@@ -6,6 +6,7 @@ The audio is available from the `Pangloss Collection <http://lacito.vjf.cnrs.fr/
 Contributors
 ============
 Contributions are indicated in the documents' metadata, and as notes inside the XML files.
+
 * The main language consultant is Mrs. Latami Dashilame 拉他咪·达石拉么 (lɑ˧thɑ˧mi˥ ʈæ˧ʂɯ˧-lɑ˩mv̩˩).
 * Roselle Dobbs designed an orthography for Na (Narua); all orthographic transcriptions in the XML documents and in the dictionary are hers. She also produced English translations of several texts. 
 * The impetus for moving into GitHub came from computer science colleagues: Céline Buret, Benjamin Galliot, Séverine Guillaume at CNRS. 
