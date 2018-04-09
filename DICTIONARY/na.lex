@@ -25416,7 +25416,7 @@
 \lc kʰɯ˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\de To put into (e.g. to put into a bag); to dibble in seeds.
+\de To put into (e.g. to put into a bag); to plant (seeds into soil); to release, to let go (e.g. a chicken held by its legs); to put (something) away.
 \ge put_into
 \dn 放，装(如：装进袋里)，点种，收下
 \gn 放
