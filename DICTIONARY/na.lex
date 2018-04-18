@@ -250,10 +250,12 @@
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这把犁头
 \xf |fg{n}+|fg{dem}+|fg{clf}
+\xc PHONO
 \xv æ˩mo˥
 \xe used ard, plough which cannot be used anymore
 \xn 陈旧的犁架子（不能再用了）
 \xf araire usagée, vieille araire (hors d'usage du fait de l'usure)
+\xc PHONO
 \xc <type="tone"> LH
 \xv æ˩mo˥ tʰv̩˩-nɑ˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
@@ -284,11 +286,11 @@
 \gn 犁把
 \df Mancheron de l'araire, manche de l'araire.
 \gf mancheron
-\xv æ̃˩gv̩˩-mæ˩ ʑi˩-hĩ˥
+\xv æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥
 \xe the person holding the handle of the ard
 \xn 抓着犁把的人
 \xf la personne qui tient le mancheron de la charrue
-\xv æ̃˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
+\xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这个犁把
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -500,7 +502,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> (avant 09: *mv̩˥ bɑ˥ ɖʐæ˩˥, corrigé en mv̩˧bɤ˧ʈʂæ˧˥, qui ne veut rien dire) nasalité: vérifié en août 2014
-\nt <type="hist" print="n"> (+ɲi˩) (sens vérifié en 09) (note ancienne: ɻ̃˧ʈv̩˥; ne veut rien dire)
+\nt <type="hist" print="n"> (+ɲi˩) (sens vérifié en 09) (note ancienne: ɻ̍̃˧ʈv̩˥; ne veut rien dire)
 \nt <type="sem"> pas trouvé de mot *mv̩˧ʈv̩˥ correspondant à la 2e partie de ce quadrisyllabe, ni de *æ˩mi˧ correspondant à la première.
 \ton LM+H#
 \lc æ˩mi˧mv̩˧ʈv̩˥
@@ -676,7 +678,7 @@
 \xe Let's go out! / I must answer the call of nature!
 \xn 出去了！ / 出去解手！
 \xf On sort! / [Je] vais faire mes besoins!
-\xv ɑ˩pʰo˩ bi˩-ʂv̩˥ɖv̩˩!
+\xv ɑ˩pʰo˩ bi˩ ʂv̩˥ɖv̩˩!
 \xe [She] wants to go out! (Context: on a sunny day, a family member senses that a toddler wants to go and play outside.)
 \xn （她）想出去！（情景：婴儿看外边，觉得她好像想出去。）
 \xf [Elle] a envie de sortir! (Contexte: par une journée ensoleillée, un membre de la famille sent qu'un enfant aurait envie d'aller jouer dehors.)
@@ -6060,11 +6062,11 @@
 \xe to complain, to tell one's misfortunes
 \xn 诉苦
 \xf se plaindre de son infortune, gémir sur son sort
-\xv ɻ̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥
+\xv ɻ̍̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̍˥
 \xe to bemoan one's misfortunes
 \xn 讲自己苦难的事情
 \xf raconter ses malheurs; se plaindre
-\xv ʈʂʰɯ˧ | mɤ˧-dɑ˩-qʰwɤ˩, | ɻ̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥!
+\xv ʈʂʰɯ˧ | mɤ˧-dɑ˩-qʰwɤ˩, | ɻ̍̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̍˥!
 \xe (S)he is unhappy; (s)he is constantly complaining!
 \xn 他“玛达夸”，一直在诉说苦难的事情！
 \xf Il est malheureux; il passe son temps à se plaindre!
@@ -8508,7 +8510,7 @@
 \lc dzɑ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (d'abord noté tsɑ˥, par erreur) (vérifié: dzɑ˧ “pauvre" est différent de tsɑ˧ “occupé, mang2") (Roselle Dobbs: aurait un mot homophone de “os": ɻ̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
+\nt <type="hist" print="n"> (d'abord noté tsɑ˥, par erreur) (vérifié: dzɑ˧ “pauvre" est différent de tsɑ˧ “occupé, mang2") (Roselle Dobbs: aurait un mot homophone de “os": ɻ̍̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -8541,7 +8543,7 @@
 \xf bâclé, mal fait (travail)
 \sn 2
 \va <speaker="M21"> dzɑ˥, ton 2
-\va <speaker="M23"> ɻ̃, homophone “os"
+\va <speaker="M23"> ɻ̍̃, homophone “os"
 \de Poor (person).
 \ge poor
 \dn 穷（人）
@@ -9029,12 +9031,12 @@
 \gf blé
 \dt 24/Apr/2017
 
-\lx dze˧ɭɯ˧-ɻ̃#˥
+\lx dze˧ɭɯ˧-ɻ̍̃#˥
 \sf <nb="B"> 1996
 \sf <nb="2011"> 3045
 \or zzeilee'eun
 \ps n
-\lc dze˧ɭɯ˧ɻ̃˧
+\lc dze˧ɭɯ˧ɻ̍̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> type d2a (+ɲi˥)
@@ -9205,11 +9207,11 @@
 \gf argent/richesse
 \dt 24/Apr/2017
 
-\lx dze˧-ɻ̃#˥
+\lx dze˧-ɻ̍̃#˥
 \sf <nb="2011"> 3046
 \or zzei'eun
 \ps n
-\lc dze˧ɻ̃˧
+\lc dze˧ɻ̍̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \np (littéralement “os de blé")
@@ -11538,7 +11540,7 @@
 \lc dʑɯ˩hṽ̩˧˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n"> (voyelle confirmée en 2008; le 8/11/2007, avais corrigé en: dʑi˩hɻ̃˩˥, mais n'est pas adéquat) (vérifié: n'est pas dʑɯ)
+\nt <type="hist" print="n"> (voyelle confirmée en 2008; le 8/11/2007, avais corrigé en: dʑi˩hɻ̍̃˩˥, mais n'est pas adéquat) (vérifié: n'est pas dʑɯ)
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -18552,7 +18554,7 @@
 \xe one person, an individual
 \xn 一个人
 \xf une personne
-\xv hĩ˧-ɻ̃˧ | ɖɯ˧-lo˩
+\xv hĩ˧-ɻ̍̃˧ | ɖɯ˧-lo˩
 \xe a lineage, a family
 \xn 一个家族
 \xf une lignée, une famille
@@ -18855,7 +18857,7 @@
 \gn 舌头
 \df Langue.
 \gf langue
-\xv hi˩mi˩˥, | ɻ̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
+\xv hi˩mi˩˥, | ɻ̍̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
 \xe The tongue has no bone! Only oneself knows what one is going to say! (Proverb meaning that one is responsible for one's speech: only oneself knows whether one is telling the truth or not.)
 \xn “舌头没有骨头。讲的是什么（=是否真的），只有自己才知道！”（谚语）
 \xf «La langue n'a pas d'os! Ce qu'on dit, soi seul sait (si c'est la vérité)!»
@@ -26888,7 +26890,7 @@
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <type="hist" print="n"> vérifié: est bien ɻ̃˧ɻ̍˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
+\nt <type="hist" print="n"> vérifié: est bien ɻ̍̃˧ɻ̍˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
 \np pas réussi à déterminer le ton lexical, les contextes d'apparition étant restreints
 \ton H$
 \lc kʰv̩˧tɕʰi˥
@@ -26899,7 +26901,7 @@
 \gn 办法
 \df Solution, méthode.
 \gf solution
-\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̃˧-ɻ̍˧ tʰo˩!
+\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̍̃˧-ɻ̍˧ tʰo˩!
 \xe There is nothing we can do anymore! It's a catastrophe!
 \xn 没有办法了！糟糕了！
 \xf Il n'y a plus rien à faire! C'est la catastrophe!
@@ -30194,7 +30196,7 @@
 \gn 量词.谷
 \df Classificateur des vallées.
 \gf |fg{clf.vallées}
-\xv hĩ˧-ɻ̃˧ | ɖɯ˧-lo˩
+\xv hĩ˧-ɻ̍̃˧ | ɖɯ˧-lo˩
 \xe literally ‘a valley of people', to mean: all the population of that valley
 \xn 住在一座山谷里的所有人（直译：‘一山谷的人’）
 \xf tous les membres d'une grande famille: ‘[toute la population d']une vallée'
@@ -32749,12 +32751,12 @@
 \gf huile_végétale
 \dt 19/Jun/2017
 
-\lx mæ˧ɻ̃#˥
+\lx mæ˧ɻ̍̃#˥
 \sf <nb="B"> 2257
 \sf <nb="2011"> 229
 \or mae'eun
 \ps n
-\lc mæ˧ɻ̃˧
+\lc mæ˧ɻ̍̃˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="sem"> (littéralement “os de la queue")
@@ -39690,7 +39692,7 @@
 \lc nv̩˩ɭɯ˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (ton d6: confirmé en 2007; ai pensé à d6b à cause du composé “farine de soja", qui donne ˩ ˧ ˩ ˩ et non ˩ ˧ ˧ ˧ comme ce serait le cas pour un d6a… mais “farine" est est fait irrégulier/non-conforme aux tableaux par son comportement tonal)
+\nt <type="hist" print="n"> (ton d6: confirmé en 2007; ai pensé à d6b à cause du composé “farine de soja", qui donne ˩ ˧ ˩ ˩ et non ˩ ˧ ˧ ˧ comme ce serait le cas pour un d6a… mais “farine" est en fait irrégulier/non-conforme aux tableaux par son comportement tonal)
 \ton LM
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -44643,7 +44645,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> qʰæ˧˥
 \va <speaker="M21"> li˧æ˧kʰæ˧ zi˥, ton 2; li˧æ˧kʰæ˧kʰæ˧ +zi˩, li˧æ˧kʰæ˧kʰæ˧ dzɯ˧, li˧æ˧kʰæ˧kʰæ˧ li˧dzɯ˧
-\vf tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̃˧ kʰæ˧˥
+\vf tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̍̃˧ kʰæ˧˥
 \de To gnaw, to nibble.
 \ge to_gnaw
 \dn 啃（啃骨头）
@@ -48250,7 +48252,7 @@
 \xf C'est guéri! / La fracture est rétablie!
 \dt 01/Oct/2015
 
-\lx ɻ̃˧
+\lx ɻ̍̃˧
 \sf <nb="2011"> 350
 \or eun
 \ps n
@@ -48258,29 +48260,29 @@
 \sd <langue="eng"> society
 \nt <type="sem"> se retrouvent par exemple qd on tue le cochon.
 \ton M
-\lc ɻ̃˧
+\lc ɻ̍̃˧
 \so <print="n"> F4
 \pdl classifier
-\pdv ɻ̃˧
+\pdv ɻ̍̃˧
 \de Clan.
 \ge clan
 \dn 家族
 \gn 家族
 \df Clan: ensemble de familles.
 \gf clan
-\xv ɻ̃˧ ɖɯ˧-ɻ̃˧
+\xv ɻ̍̃˧ ɖɯ˧-ɻ̍̃˧
 \xe one clan
 \xn 一个家族
 \xf un clan
 \dt 01/Oct/2015
 
-\lx ɻ̃˥
+\lx ɻ̍̃˥
 \or eun
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton H
-\lc ɻ̃˧
+\lc ɻ̍̃˧
 \so <print="n"> F4
 \de Destitute, impoverished, poor; troubled, helpless.
 \ge destitute
@@ -48288,40 +48290,40 @@
 \gn 困难
 \df Démuni, en mauvaise passe.
 \gf démuni
-\xv le˧-ɻ̃˥-ze˩!
+\xv le˧-ɻ̍̃˥-ze˩!
 \xe [(S)he] is really poor/helpless!
 \xn （他）真的很穷苦！
 \xf (il) est en mauvaise passe!/il est à la rue!
-\xv le˧-ɻ̃˧-bi˧
+\xv le˧-ɻ̍̃˧-bi˧
 \xe |fg{accomp} _ |fg{fut_imm}
 \xn |fg{accomp} _ |fg{fut_imm}
 \xf |fg{accomp} _ |fg{fut_imm}
 \xc PHONO
-\xv mɤ˧-ɻ̃˥
+\xv mɤ˧-ɻ̍̃˥
 \xe |fg{neg}
 \xn |fg{neg}
 \xf |fg{neg}
 \xc PHONO
-\xv le˧-ɻ̃˧-zo˥, | ɻ̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
+\xv le˧-ɻ̍̃˧-zo˥, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
 \xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
 \xn 很困难，也还没有到饿死的程度啊！ / 再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
 \xf «Pour démuni/mal nourri/affamé qu'on soit, on n'en est pas encore maigre au point d'avoir les os à découvert!» Jeu de mots sur ‘démuni' et ‘ossement', qui sont homophones. Le proverbe sert à relativiser le malheur ressenti par quelqu'un.
 \xc PROVERBE
-\xv ɻ̃˧-ʐwɤ˧˥
+\xv ɻ̍̃˧-ʐwɤ˧˥
 \xe to complain
 \xn 诉苦、抱怨
 \xf se plaindre
-\xv ɻ̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥
+\xv ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥
 \xe to tell one's miseries, to complain about one's fate
 \xn 诉苦、讲自己的不幸
 \xf raconter ses malheurs; se plaindre
-\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥!
+\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥!
 \xe He is unhappy; he spends his time complaining / he is always complaining!
 \xn 他不幸福，一直在讲自己怎么可怜！
 \xf Il est malheureux; il passe son temps à se plaindre!
 \dt 01/Oct/2015
 
-\lx ɻ̃˥
+\lx ɻ̍̃˥
 \sf <nb="B"> 214
 \sf <nb="2011"> 284
 \or eun
@@ -48330,7 +48332,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> (analyse phonémique 2007; auparavant: œ͂˞˥)
 \ton #H
-\lc ɻ̃˧
+\lc ɻ̍̃˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf a) ʂæ˩ œ͂˞˩˥
@@ -48343,7 +48345,7 @@
 \vf vérifié: c'est bien la même syllabe, sauf le ton, que 168 “genou", œ͂˞˥ ku˩
 \vf os tout seul, ossement
 \vf confirmé le 6 novembre: n'est pas ɻ
-\va <speaker="M21"> ɻ̃˥, ton m4
+\va <speaker="M21"> ɻ̍̃˥, ton m4
 \vf tv
 \pdl classifier
 \pdv kɤ˧˥
@@ -48515,14 +48517,10 @@
 \xn 给一块不好的肉
 \xf donner un morceau de mauvaise viande
 \xc <langue="fra"> exemple inspiré par le récit “Mariage de la soeur"
-\xv pʰi˩ko˧ | mɤ˧-ʁɑ˧-ze˧!
+\xv pʰi˩ko˥ | mɤ˧-ʁɑ˧-ze˧!
 \xe The apples are not good anymore! (Context: in March, apples from the previous harvest are not good anymore: they are either rotten or sour.)
 \xn 苹果不好了！ / 苹果不新鲜了！（三月份，上一季收获的苹果已经不好吃的了，或者烂了，或者变酸）
 \xf Les pommes ne sont plus bonnes! (Contexte: au mois de mars, les pommes de la récolte précédente ne sont plus bonnes, elles sont fripées ou pourries.)
-\xv hĩ˧ ɖɯ˧-v̩˧ | ʁɑ˧-mɤ˧-ʑi˧-hĩ˧ ʐwɤ˧˥!
-\xe Someone is talking nonsense!
-\xn 有人在乱说话！
-\xf quelqu'un dit n'importe quoi
 \dt 01/Oct/2015
 
 \lx ʁɑ˧
@@ -48586,6 +48584,7 @@
 \hm 1
 \or hra
 \ps v
+\cf ʁɑ˥ʂe˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton H
@@ -48905,7 +48904,7 @@
 \gf poitrine
 \dt 01/Oct/2015
 
-\lx ʁɑ˧pv̩˧-ɻ̃#˥
+\lx ʁɑ˧pv̩˧-ɻ̍̃#˥
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
 \or hrabu'eun
@@ -48915,7 +48914,7 @@
 \nt <type="hist" print="n"> (avant 09: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \nt <type="sem"> (signifie littéralement “os de la poitrine")
 \ton #H
-\lc ʁɑ˧pv̩˧ɻ̃˧
+\lc ʁɑ˧pv̩˧ɻ̍̃˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \pdl classifier
@@ -48974,6 +48973,7 @@
 \lx ʁɑ˥ʂe˩
 \or hrashei
 \ps v
+\cf ʁɑ˥1
 \ton H.L
 \lc ʁɑ˧ʂe˩
 \sd <langue="fra"> verbe
@@ -48989,10 +48989,14 @@
 \xe to ask a monk to come over
 \xn 请和尚到家来
 \xf faire venir un moine, faire appel à un moine
-\xv ʈʂʰæ˧ɣɯ˧ ki˩-hĩ˩ | le˧-ʁɑ˥-ʂe˩ | le˧-po˧-jo˥ / ʈʂʰæ˧ɣɯ˧ ki˩-hĩ˩ | ɖɯ˧-ʁɑ˥-ʂe˩-ɻ̍˩ hõ˩
+\xv ʈʂʰæ˧ɣɯ˧ ki˩-hĩ˩ | le˧-ʁɑ˥-ʂe˩ | le˧-po˧-jo˥
 \xe to call the doctor
 \xn 请医生来
 \xf faire venir le médecin
+\xv ʈʂʰæ˧ɣɯ˧ ki˩-hĩ˩ | ɖɯ˧-ʁɑ˥-ʂe˩-ɻ̍˩ hõ˩
+\xe to and fetch a doctor
+\xn 请医生来
+\xf aller chercher un médecin
 \xv njɤ˧-ɳɯ˧ | no˩ ʁɑ˩-ʂe˥
 \xe I invite you to come over
 \xn 我请你来
@@ -49260,8 +49264,8 @@
 \gf propice
 \xv ʁæ˧ mɤ˧-ʑi˧
 \xe not propicious / not favourable
-\xn 不吉利、不合适
-\xf ce n'est pas propice/favorable
+\xn 不吉利、不合适，乱
+\xf pas propice/favorable; pas net, mauvais, trouble
 \xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧ mɤ˧-tʰɑ˩! / ʝi˧-mɤ˧-ɖo˧!
 \xe It is not appropriate / the situation is not propitious; it must not / should not be done! (A phrase to caution others against doing something)
 \xn 不吉利 / 不合适（的事情），不能做！/ 不要做！（警告）
@@ -49278,6 +49282,10 @@
 \xe He does a bad job of it! / He makes a mess of his work!
 \xn 他工作做得乱七八糟！
 \xf Il ne fait pas attention dans son travail! il ne travaille pas avec soin! il fait n'importe quoi!
+\xv hĩ˧ ɖɯ˧-v̩˧ | ʁæ˧-mɤ˧-ʑi˧-hĩ˧ ʐwɤ˧˥!
+\xe Someone is talking nonsense!
+\xn 有人在乱说话！
+\xf quelqu'un dit n'importe quoi
 \dt 01/Oct/2015
 
 \lx ʁæ˩α
@@ -49301,13 +49309,13 @@
 \gf laid
 \dt 01/Oct/2015
 
-\lx ɻ̃˧β
+\lx ɻ̍̃˧β
 \or eun
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Mβ
-\lc ɖɯ˧ ɻ̃˧
+\lc ɖɯ˧ ɻ̍̃˧
 \so <print="n"> F4
 \de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
 \ge |fg{clf.clans}
@@ -49317,7 +49325,7 @@
 \gf |fg{clf.clans}
 \dt 30/Apr/2017
 
-\lx ɻ̃˧hæ˩
+\lx ɻ̍̃˧hæ˩
 \sf <nb="B"> 216
 \sf <nb="2011"> 287
 \or eunhae
@@ -49326,11 +49334,11 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> (vérifié en 09; ton d4) (note ancienne: “gifler", par erreur)
 \ton L#
-\lc ɻ̃˧hæ˩
+\lc ɻ̍̃˧hæ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\va <speaker="M21"> ɻ̃˧ hæ˧˥
+\va <speaker="M21"> ɻ̍̃˧ hæ˧˥
 \pdl classifier
 \pdv ɭɯ˧
 \pdv kɤ˧˥
@@ -49342,7 +49350,7 @@
 \gf cartilage
 \dt 01/Oct/2015
 
-\lx ɻ̃˧ko˩
+\lx ɻ̍̃˧ko˩
 \sf <nb="B"> 2218
 \sf <nb="2011"> 239
 \or eungo
@@ -49351,7 +49359,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> (avant 09: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
 \ton L#
-\lc ɻ̃˧ko˩
+\lc ɻ̍̃˧ko˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -49362,21 +49370,21 @@
 \dn 胫骨
 \df Tibia.
 \gf tibia
-\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
+\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̍̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
 \xe The poor must not borrow money; the shinbone must not receive wounds! (Proverb, to explain that one must avoid hitting weak/sensitive spots.)
 \xn “穷人莫借钱，胫骨莫受伤！”
 \xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
 \xc PROVERBE
 \dt 01/Oct/2015
 
-\lx ɻ̃˧kɤ˩
+\lx ɻ̍̃˧kɤ˩
 \or eunge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="sem"> même sens que: sɯ˧ɻ̃˧mi#˥.
+\nt <type="sem"> même sens que: sɯ˧ɻ̍̃˧mi#˥.
 \ton L#
-\lc ɻ̃˧kɤ˩
+\lc ɻ̍̃˧kɤ˩
 \so <print="n"> F4
 \pdl classifier
 \pdv kɤ˧˥
@@ -49388,7 +49396,7 @@
 \gf colonne_vertébrale
 \dt 01/Oct/2015
 
-\lx ɻ̃˧mi˧
+\lx ɻ̍̃˧mi˧
 \sf <nb="B"> 2123
 \sf <nb="2011"> 3260
 \or eunmi
@@ -49397,7 +49405,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> (2006: noté oe͂˞˧mi˧)
 \ton M
-\lc ɻ̃˧mi˧
+\lc ɻ̍̃˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -49409,7 +49417,7 @@
 \gn 树干
 \df Tronc.
 \gf tronc
-\xv si˧dzi˩-ɻ̃˩mi˩
+\xv si˧dzi˩-ɻ̍̃˩mi˩
 \xe tree trunk
 \xn 树干
 \xf tronc d'arbre
@@ -50617,7 +50625,7 @@
 \xf Que les esprits [te/nous] bénissent!
 \dt 27/Apr/2017
 
-\lx ɻ̃˧ʈʂæ˩
+\lx ɻ̍̃˧ʈʂæ˩
 \sf <nb="2011"> 241
 \or eunzhae
 \ps n
@@ -50625,7 +50633,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
 \ton L#
-\lc ɻ̃˧ʈʂæ˩
+\lc ɻ̍̃˧ʈʂæ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *ɖʐæ˩˥
@@ -50639,14 +50647,14 @@
 \gf articulations
 \dt 02/Oct/2015
 
-\lx ɻ̃˧ʈʂwæ˩
+\lx ɻ̍̃˧ʈʂwæ˩
 \or eunzhuae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> identification vérifiée en 2016 d'après le livre “Médecine Mosuo"
 \ton L#
-\lc ɻ̃˧ʈʂwæ˩
+\lc ɻ̍̃˧ʈʂwæ˩
 \so <print="n"> F4
 \de Sambucus, |fi{Toricellia angulata Oliv.}
 \ge sambucus
@@ -50654,7 +50662,7 @@
 \gn 接骨丹
 \df Sambucus, |fi{Toricellia angulata Oliv.}
 \gf sambucus
-\xv ɻ̃˧ʈʂwæ˩-si˩
+\xv ɻ̍̃˧ʈʂwæ˩-si˩
 \xe same meaning
 \xn 同上
 \xf même sens
@@ -50851,7 +50859,15 @@
 \xv hĩ˧ ɻwæ˧-dʑo˩
 \xe Someone is shouting
 \xn 有人在叫。
-\xf Il y a quelqu'un qui est est en train d'appeler/de crier
+\xf Il y a quelqu'un qui est en train d'appeler/de crier
+\xv ʐwæ˧ ɻwæ˧-dʑo˩!
+\xe the horse is whinnying
+\xn 马在嘶
+\xf le cheval est en train de hennir
+\xv æ̃˩ ɻwæ˥
+\xe the chicken is cackling
+\xn 鸡在叫
+\xf la poule caquette
 \xv ɖɯ˧-ɻwæ˧-ɻ̍˥
 \xe to call out
 \xn 叫一声
@@ -50860,20 +50876,12 @@
 \xe the cat is calling/crying
 \xn 猫在叫
 \xf le chat miaule
-\xv æ̃˩ ɻwæ˥
-\xf la poule caquette
-\xe the chicken is cackling
-\xn 鸡在叫
 \xv ʐwæ˧pʰæ˧di˧˥ | tʰi˧-ɻwæ˥-dʑo˩
 \xe the donkey is braying
 \xn 驴在叫
 \xf l'âne brait
 \rf F5
 \xv ʐwæ˧ | tʰi˧-ɻwæ˥-dʑo˩
-\xe the horse is whinnying
-\xn 马在嘶
-\xf le cheval est en train de hennir
-\xv ʐwæ˧ ɻwæ˧-dʑo˩!
 \xe the horse is whinnying
 \xn 马在嘶
 \xf le cheval est en train de hennir
@@ -51515,7 +51523,7 @@
 \ge horse_in_second_position
 \dn 马帮中的第二匹马
 \gn 马帮中的第二匹马
-\df Le cheval qui marche en second (derrière le cheval de tête), dans une caravan.
+\df Le cheval qui marche en second (derrière le cheval de tête), dans une caravane	².
 \gf cheval_qui_marche_en_second
 \dt 27/Apr/2017
 
@@ -51946,11 +51954,11 @@
 \xf fil de lin
 \dt 31/Jul/2017
 
-\lx ʂæ˩ɻ̃˩
+\lx ʂæ˩ɻ̍̃˩
 \sf <nb="2011"> 285
 \or shae'eun
 \ps n
-\lc ʂæ˩ɻ̃˩˥
+\lc ʂæ˩ɻ̍̃˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L
@@ -55645,7 +55653,7 @@
 \gf table
 \dt 13/Jul/2017
 
-\lx sɯ˧ɻ̃˧mi#˥
+\lx sɯ˧ɻ̍̃˧mi#˥
 \sf <nb="B"> 217
 \sf <nb="2011"> 288
 \or si'eunmi
@@ -55655,13 +55663,13 @@
 \nt <type="hist" print="n"> +ɲi˥ (notes avant 09: sɯ˥ œ͂˞˥ mi˥; tons: le 5/11/2007, corrige en ˧˧˧ “car ce sont les mêmes tons que l'item 29; peut-être ˥˥˥ pour les deux") (confirmé: n'est pas /si/)
 \nt <type="hist" print="n"> (correction 2007, auparavant noté oe͂˥kɤ˧)
 \ton #H
-\lc sɯ˧ɻ̃˧mi˧
+\lc sɯ˧ɻ̍̃˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> sɯ˥ œ͂˞˥ mi˥
 \vf la 2e syllabe, “os", se réduit
 \vf séquence tonale ˥˥˥: confirmée
-\va <speaker="M21"> sɯ˧ɻ̃˧mi˧, ton équivalent d2: +ɲi˥
+\va <speaker="M21"> sɯ˧ɻ̍̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
 \pdl classifier
 \pdv dzi˩
@@ -55694,13 +55702,13 @@
 \gf pierre_à_aiguiser
 \dt 04/Aug/2017
 
-\lx sɯ˧ɻ̃#˥
+\lx sɯ˧ɻ̍̃#˥
 \or see'eun
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc sɯ˧ɻ̃˧
+\lc sɯ˧ɻ̍̃˧
 \so <print="n"> F4
 \pdl classifier
 \pdv lo˩
@@ -55710,7 +55718,7 @@
 \gn 树干
 \df Tronc.
 \gf tronc
-\xv si˧dzi˩ tʰv̩˩-dzi˩, | sɯ˧ɻ̃˧ dʑɤ˥!
+\xv si˧dzi˩ tʰv̩˩-dzi˩, | sɯ˧ɻ̍̃˧ dʑɤ˥!
 \xe This tree has a good trunk! (i.e. it is suitable for use in carpentry, making furniture…)
 \xn 这是棵好树！（可以用做木料）
 \xf Cet arbre, il a un beau tronc! (c'est-à-dire qu'il est utilisable en menuiserie)
@@ -63154,7 +63162,7 @@
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="sem"> figure dans: lo˩ʈʂæ˧˥, ɻ̃˧ʈʂæ˩…
+\nt <type="sem"> figure dans: lo˩ʈʂæ˧˥, ɻ̍̃˧ʈʂæ˩…
 \ton MH
 \so <print="n"> F4
 \pdl classifier
@@ -63329,7 +63337,7 @@
 \xe Medicine powder, medicine in powder form. For instance: the disinfectant commonly used in Yongning at the time of fieldwork, of the brand fn:云南白药
 \xn 药粉，粉状药品。如：“云南白药”消毒粉。
 \xf Médicament en poudre. (Exemple: le désinfectant en poudre actuellement utilisé, de la marque fn:云南白药.)
-\xv ʂæ˩ɻ̃˩-tsɑ˩bɤ˥
+\xv ʂæ˩ɻ̍̃˩-tsɑ˩bɤ˥
 \xe bone powder
 \xn 骨头粉
 \xf poudre d'os
@@ -63338,7 +63346,7 @@
 \xe tobacco powder
 \xn 烟草粉
 \xf tabac en poudre
-\xv jɤ˧ɻ̃˧-tsɑ˧bɤ˥
+\xv jɤ˧ɻ̍̃˧-tsɑ˧bɤ˥
 \xe tobacco powder
 \xn 烟草粉
 \xf poudre de tabac, tabac en poudre
@@ -65757,18 +65765,18 @@
 \gf moëlle
 \dt 07/Oct/2015
 
-\lx tsʰi˧zi˧-ɻ̃#˥
+\lx tsʰi˧zi˧-ɻ̍̃#˥
 \sf <nb="B"> 1997
 \sf <nb="2011"> 3047
 \or ceessee'eun
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 09: noté: /tsʰɯ˥zɯ˥ ɻ̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
+\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 09: noté: /tsʰɯ˥zɯ˥ ɻ̍̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
 \ton #H
-\lc tsʰi˧zi˧ɻ̃˧
+\lc tsʰi˧zi˧ɻ̍̃˧
 \so <print="n"> F4
-\va <speaker="M21"> tsʰv̩˧zv̩˧ɻ̃˧ + ɲi˥
+\va <speaker="M21"> tsʰv̩˧zv̩˧ɻ̍̃˧ + ɲi˥
 \pdl classifier
 \pdv kɤ˧˥
 \de Highland barley straw.
@@ -68648,7 +68656,7 @@
 \gf chevreau
 \dt 05/Jul/2017
 
-\lx tsʰɯ˩tsʰɯ˩ɻ̃˩
+\lx tsʰɯ˩tsʰɯ˩ɻ̍̃˩
 \sf <nb="B"> 2042
 \sf <nb="2011"> 3152
 \or cici'eun
@@ -68657,7 +68665,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> (2006: tsʰɯ˩tsʰɯ˩ oe͂˩˥)
 \ton L
-\lc tsʰɯ˩tsʰɯ˩ɻ̃˩˥
+\lc tsʰɯ˩tsʰɯ˩ɻ̍̃˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; aussi: tsʰɯ˩tsʰv̩˩zɯ˩˧
@@ -68670,7 +68678,7 @@
 \gn 豌豆干草
 \df Paille de petits pois.
 \gf paille_de_pois
-\xv ʈʂʰɯ˧ | tsʰɯ˩tsʰɯ˩ɻ̃˩ ɲi˥.
+\xv ʈʂʰɯ˧ | tsʰɯ˩tsʰɯ˩ɻ̍̃˩ ɲi˥.
 \xe This is garden pea hay.
 \xn 这是豌豆干草。
 \xf C'est de la paille de haricots.
@@ -70129,7 +70137,7 @@
 \xe to set the tripod in place (in the hearth); to set the large pot in place (as part of the final steps in setting up the new home, after a new house has been built)
 \xn （建完新房后）安装三脚架、把锅摆好（在三脚架上）
 \xf mettre en place le trépied de fer dans le foyer, mettre en place la grande casserole (sur le trépied) (Contexte: description de la «pendaison de crémaillère», dans une nouvelle maison)
-\xv tsʰo˩-ɻ̃˩˥ | dʑɯ˩ mɤ˩-ʈɯ˩˥, | lɑ˧-ʂe˧ | kʰv̩˧ tʰɑ˩-ki˩!
+\xv tsʰo˩-ɻ̍̃˩˥ | dʑɯ˩ mɤ˩-ʈɯ˩˥, | lɑ˧-ʂe˧ | kʰv̩˧ tʰɑ˩-ki˩!
 \xe “Human bones must not be put in water; tiger's flesh must not be given to the dog!" (Explanation: corpses were not buried in water, unlike in certain Tibetan customs. Neither the body, nor the ashes of cremation, must be put in water.)
 \xn “人骨头，莫碰水！老虎肉，莫给狗！”（这个谚语，来强调摩梭与藏族的一些不同习惯：摩梭禁止让尸体或骨灰沾水。）
 \xf «Les ossements humains, on ne les met pas à l'eau! La chair du tigre, on ne la donne pas au chien!» Sens: on n'enterre pas les gens dans l'eau (à la différence de certaines coutumes tibétaines); on prenait soin de n'immerger dans l'eau, ni le corps, ni les cendres après la crémation.
@@ -72688,7 +72696,7 @@
 \gn 箭
 \df Flèche.
 \gf flèche
-\xv ʐe˧ɻ̃˧ | ɖɯ˧-kʰɯ˩
+\xv ʐe˧ɻ̍̃˧ | ɖɯ˧-kʰɯ˩
 \xe an arrow; also, metaphorically: a family, a lineage
 \xn 一枝箭。也来指一个家庭
 \xf une flèche; désigne aussi, de façon métaphorique, une lignée/une famille
