@@ -5,7 +5,7 @@ This folder contains the data and tools of a dictionary of the Na language (nÉ‘Ë
 The files made available here are:
 
 * the source file of the Na-Chinese-English-French dictionary database, in MDF format (software: SIL Toolbox): na.lex
-* three PDF versions, designed for English-language, Chinese-language and French-language readers, respectively. They are updated more frequently on this repository than in the  HAL-SHS archive, which provides long-term hosting for these files (links: `English <https://halshs.archives-ouvertes.fr/halshs-01204638/>`_, `Chinese <https://halshs.archives-ouvertes.fr/halshs-01744420/>` and `French <https://halshs.archives-ouvertes.fr/halshs-01204645/>`_)
+* three PDF versions, designed for English-language, Chinese-language and French-language readers, respectively. They are updated more frequently on this repository than in the  HAL-SHS archive, which provides long-term hosting for these files (links: `English <https://halshs.archives-ouvertes.fr/halshs-01204638/>`_, `Chinese <https://halshs.archives-ouvertes.fr/halshs-01744420/>`_ and `French <https://halshs.archives-ouvertes.fr/halshs-01204645/>`_)
 * the configuration files used to produce the XML and LATEX versions from the MDF source file (using the `Lexika <https://bitbucket.org/BenjaminGalliot/lexika>` library) 
 * the file containing the entire database in XML format
 
