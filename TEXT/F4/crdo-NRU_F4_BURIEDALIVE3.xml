@@ -833,9 +833,10 @@
 	</S>
 	<S id="BuriedAlive3S090">
 		<AUDIO start="549.7656" end="558.9268"/>
-		<FORM>tʰi˩˥, | ə˧mi˧ | ʈʂʰɯ˧-jɤ˩-ɳɯ˩: | "no˧ | njɤ˧-ki˧ | tʰɑ˧-jo˧-ɻ̍˧! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧-ki˧ ki˩-bi˩, | dʑɤ˩-ho˥ ɲi˩-ho˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | ə˧mi˧ | ʈʂʰɯ˧-jɤ˩-ɳɯ˩: | "no˧ | njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧-ki˧ ki˩-bi˩, | dʑɤ˩-ho˥ ɲi˩-ho˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /njɤ˧ mv̩˩/ 'ma fille'; la formulation /njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧/ pourrait se paraphraser en chinois par: “我啊，我家女孩死了”: la 1e personne du singulier sert de thème: 'Moi, [ma] fille, elle est morte!'"/>
-		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. xxxx à vérifier en 2018."/>
+		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. Vérification en 2018: la forme canonique est bien: /njɤ˧-ki˩/. (A reporter dans la grammaire! yyyy). La forme /njɤ˧-ki˧/ est une forme en contexte, obtenue par intégration dans un groupe tonal plus long: /njɤ˧-ki˩ |/ +/tʰɑ˧-jo˧-ɻ̍˩/ donne: /njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩/."/>
+		<NOTE xml:lang="fr" message="Avant 2018, noté /tʰɑ˧-jo˧-ɻ̍˧/; vérification en 2018: est: /tʰɑ˧-jo˧-ɻ̍˩/."/>
 		<TRANSL xml:lang="fr">Alors la mère a dit: "Ne viens plus chez moi! Moi, ma fille est morte!
 			Autrefois, si on te l'avait donnée, tout aurait été pour le mieux / ç'aurait été bien,
 			c'est sûr! [Mais maintenant,] moi, ma fille est morte!"</TRANSL>

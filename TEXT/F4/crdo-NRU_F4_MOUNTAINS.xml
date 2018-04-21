@@ -209,7 +209,8 @@
 </S>
 <S id="F4_MountainsS037">
 	<AUDIO start="208.7125" end="211.8063"></AUDIO>
-	<FORM>əəə… "njɤ˧-ki˧ | ʝi˧qv̩˥ | ɭɯ˧-ɭɯ˧ ɲi˧-ɻ̍˥!" | pi˧-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩. |</FORM>
+	<FORM>əəə… "njɤ˧-ki˧ ʝi˧qv̩˥ | ɖɯ˧-ɭɯ˧ ɲi˧-ɻ̍˥!" | pi˧-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩. |</FORM>
+	<NOTE xml:lang="fr" message="Avant 2018: noté /njɤ˧-ki˧ | ʝi˧qv̩˥/. En fait, si on divise en 2 groupes tonals, cela donne nécessairement: /njɤ˧-ki˩/, avec un ton bas sur /-ki˩/. Si on intègre en un groupe tonal, son ton est moyen: /njɤ˧-ki˧ ʝi˧qv̩˥/."></NOTE>
 	<TRANSL xml:lang="fr">"Prêtez-moi donc un harnais!" a-t-il demandé, autrefois.</TRANSL>
 </S>
 <S id="F4_MountainsS038">
@@ -516,7 +517,7 @@
 <S id="F4_MountainsS090">
 	<AUDIO start="456.1756" end="460.6625"></AUDIO>
 	<FORM>"no˧sɯ˩kv̩˩, | njɤ˧-ɳ… njɤ˧-ki˧-gɤ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | æ˧ʝi˩ kʰɯ˩-tsʰɯ˩-ze˩!" | pi˧-zo˩. | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
-	<NOTE xml:lang="fr" message="vérifié: /njɤ˧-ki˧-gɤ˩/ est articulé d'une façon qui m'évoque /‡njɤ˧-ki˧-bi/ mais c'est bien /-gɤ˩/"></NOTE>
+	<NOTE xml:lang="fr" message="vérifié: /njɤ˧-ki˧-gɤ˩/ est articulé d'une façon qui m'évoque /‡njɤ˧-ki˧-bi/ mais c'est bien /-gɤ˩/. Vérifié à nouveau en 2018: /njɤ˧-ki˧-gɤ˩/, /no˧-ki˧-gɤ˩/; on peut également dire /njɤ˧-ki˩ gɤ˩/."></NOTE>
 	<TRANSL xml:lang="fr">Il dit: "Vous êtes venus vous manifester bruyamment sur moi[, la montagne ŋwɤ˧hɑ̃˩]!" Voilà ce qu'on raconte!</TRANSL>
 </S>
 <S id="F4_MountainsS091">

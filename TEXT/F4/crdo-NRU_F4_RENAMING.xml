@@ -374,8 +374,9 @@
 	<S id="RenamingS042">
 		<AUDIO start="234.2364" end="237.6146"/>
 		<FORM>"ə˧si˧=ɻæ˩, | njɤ˧-ki˧ | mv̩˧ | ɖɯ˧-kʰwɤ˥ ki˩-ɻ̍˩!" | pi˧; | "tsɤ˧-ʝi˧! tsɤ˧-ʝi˧! |
-			njɤ˧-ɳɯ˧ ki˧-tsɤ˧-ɲi˩!" | pi˧. |</FORM>
+			njɤ˧-ɳɯ˧ ki˧-tsæ˧-ɲi˩!" | pi˧. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: mv̩˧ | ɖɯ˧-kʰwɤ˥ ki˩-ɻ̍˩!"/>
+		<NOTE xml:lang="fr" message="/njɤ˧-ɳɯ˧ ki˧-tsɤ˧-ɲi˩/: corrigé en 2018 en: /njɤ˧-ɳɯ˧ ki˧-tsæ˧-ɲi˩/."/>
 		<NOTE xml:lang="fr"
 			message="Forte réduction de: /njɤ˧-ki˧ | mv̩˧ | ɖɯ˧-kʰwɤ˥ ki˩-ɻ̍˩/: je ne parviens à distinguer ni le /-ki˧/, ni le /-ɻ̍˩/."/>
 		<TRANSL xml:lang="fr">On disait: "Aïeules, donnez-moi un [nouveau] nom!" [Une aïeule]

@@ -454,7 +454,7 @@
 </S>
 <S id="HOUSEBUILDING2_S079">
 	<AUDIO start="416.113" end="420.171"/>
-	<FORM kindOf="phonemic">pæ˩pʰæ˧˥, | ʈʂʰɯ˧ ɲi˥-kv̩˩ le˩-tʰi˩, | ʈʂʰɯ˧ ɲi˥-kv̩˩ le˩-tʰi˩, | bo˩lo˧ | ɖɯ˧-ɭɯ˧-qo˧ | tʰi˩˥ | pæ˩pʰæ˧˥ | ʈʂʰɯ˧ne˧ ʝi˥ | tʰi˧-kʰɯ˧˥ ◊ -tɕɯ˩! |</FORM>
+	<FORM kindOf="phonemic">pæ˩pʰæ˧˥, | ʈʂʰɯ˧ ɲi˥-kv̩˩ le˩-tʰi˩, | ʈʂʰɯ˧ ɲi˥-kv̩˩ le˩-tʰi˩, | bo˩lo˥ | ɖɯ˧-ɭɯ˧-qo˧ | tʰi˩˥ | pæ˩pʰæ˧˥ | ʈʂʰɯ˧ne˧ ʝi˥ | tʰi˧-kʰɯ˧˥ ◊ -tɕɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/tʰi˧-kʰɯ˧˥ ◊ -tɕɯ˩/: tons vérifiés"/>
 	<TRANSL xml:lang="fr">Les planches, (on les rabote par paires:) on rabote ces deux-ci ; on rabote ces deux-ci ; dans une mortaise, on met (une) planche, comme ceci !</TRANSL>
 </S>
@@ -634,8 +634,10 @@
 </S>
 <S id="HOUSEBUILDING2_S110">
 	<AUDIO start="580.29" end="586.072"/>
-	<FORM kindOf="phonemic">ʂe˧ | ɖɯ˧-tɕʰi˩ mɤ˩-dzɯ˩, | hĩ˧-ʈʂʰɯ˧, | pæ˧qʰwɤ˩ | no˩˥ | ɖɯ˧-pʰæ˧ di˩-dʑo˩! | ɖʐo˧ | ʐwæ˩-ɲi˥! |</FORM>
-	<NOTE xml:lang="fr" message = "avais d'abord noté /ɖɯ˧-pʰæ˧di˩/ puis corrigé à tort en /ɖɯ˧-bæ˩ di˩/ ; est bien : /ɖɯ˧-pʰæ˧ di˩/ xxxx continuer à analyser: valeur de no˩˥ "/>
+	<FORM kindOf="phonemic">ʂe˧ | ɖɯ˧-tɕʰi˩ mɤ˩-dzɯ˩, | hĩ˧-ʈʂʰɯ˧, | pæ˧qʰwɤ˩ | no˧˥ | ɖɯ˧-pʰæ˧ di˩-dʑo˩! | ɖʐo˧ | ʐwæ˩-ɲi˥! |</FORM>
+	<NOTE xml:lang="fr" message = "avais d'abord noté /ɖɯ˧-pʰæ˧di˩/ puis corrigé à tort en /ɖɯ˧-bæ˩ di˩/ ; est bien : /ɖɯ˧-pʰæ˧ di˩/."/>
+	<NOTE xml:lang="fr" message = "valeur de no˧˥ : est le topique contrastif."/>
+	<NOTE xml:lang="fr" message = "En 2018, la locutrice souligne qu'il aurait été plus heureux de dire /ɖɯ˧-pʰæ˧ di˩-kv̩˩/ plutôt que /ɖɯ˧-pʰæ˧ di˩-dʑo˩/."/>
 	<TRANSL xml:lang="fr">Un repas sans viande, les gens, leur visage, il devient comme le tien (=tout livide, sans couleur)! On a très froid !</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S111">
@@ -1898,11 +1900,11 @@
 </S>
 <S id="HOUSEBUILDING2_S329">
 	<AUDIO start="1620.892" end="1625.989"/>
-	<FORM kindOf="phonemic">tʰi˩˥, | 'ʐɯ˧dzi˧ tso˧-ɲi˥, | tsʰo˧qʰwɤ˩ | njɤ˧-ki˩ | dʑɤ˩ tsʰo˧ qɑ˧-ɻ˥!' pi˧. |</FORM>
+	<FORM kindOf="phonemic">tʰi˩˥, | 'ʐɯ˧dzi˧ tso˧-ɲi˥, | tsʰo˧qʰwɤ˩ | njɤ˧-ki˩ | dʑɤ˩ tsʰo˧ qɑ˧-ɻ˥!' | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "/no˧ | ʐɯ˧dzi˧ tso˧-ɲi˥, | le˧-jo˧!/ /tsʰi˧ɲi˧, ʐɯ˧dzi˧ tso˧-ɲi˥!/ demandé le sens à TS; réponse: 两种说法：1，入住新房。2，人死了。Ama corrige: dans ce second cas, c'est: /ʐɯ˧ hwɤ˩/."/>
 	<NOTE xml:lang="fr" message = "/tsʰi˧ɲi˧, | ʐɯ˧dzi˧ ɲi˥!/今天入住新房！"/>
 	<NOTE xml:lang="fr" message = "/ʐɯ˧dzi˧, | dʑɤ˩tsʰo˧!/ Quand on s'installe dans une nouvelle maison, on fait une fête / tout le monde vient danser!"/>
-	<NOTE xml:lang="fr" message="La forme /njɤ˧-ki˩ |/ est contraire à la règle morpho-phonologique dégagée, selon laquelle le schéma devrait être /njɤ˧-ki˧/. xxxx à vérifier en 2018."/>
+	<NOTE xml:lang="fr" message="La forme /njɤ˧-ki˩ |/ est contraire à la 'règle' (erronée) décrite dans le livre de 2017, selon laquelle le schéma devrait être /njɤ˧-ki˧/. Vérifié en 2018: est bien: /njɤ˧-ki˩ |/."/>
 	<TRANSL xml:lang="fr">Alors, on dit: 'Restez donc dormir ici! Ce soir, donnez-nous donc un coup de main pour la danse / participez donc à la danse!'</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S330">

@@ -213,9 +213,10 @@
 	</S>
 	<S id="BuriedAlive2S032">
 		<AUDIO start="155.3664" end="163.3487"/>
-		<FORM>"ə˧mi˧! | no˧ | njɤ˧-ki˧ | tʰi˧-tʰv̩˧, | ɖɯ˧-ʈʂæ˧˥ | mɤ˧-gv̩˧! | no˧ | ə˧tse˥ |
+		<FORM>"ə˧mi˧! | no˧ | njɤ˧-ki˧ tʰi˧-tʰv̩˧, | ɖɯ˧-ʈʂæ˧˥ | mɤ˧-gv̩˧! | no˧ | ə˧tse˥ |
 			ʈʂʰɯ˧ne˧ ʝi˥-ɲi˩? | ə˧zɯ˩, | ə˧tso˧ gv̩˧-ɲi˩-hɯ˩?" | pi˧-zo˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté ‡go˧-ɲi˧-hɯ˥"/>
+		<NOTE xml:lang="fr" message="avant 2018: noté /njɤ˧-ki˧ | tʰi˧-tʰv̩˧/; avril 2018: paraît clairement constituer un groupe: /njɤ˧-ki˧ tʰi˧-tʰv̩˧/. Vérifié : on pourrait dire /njɤ˧-ki˩ | tʰi˧-tʰv̩˧/, /njɤ˧-ki˩ tsʰɯ˩/. Autre exemple: /ʈʂʰɯ˧-v̩˧-se˥, | njɤ˧-ki˩ tsʰɯ˩-ɲi˩!/ 'Celui-là, il vient me rendre visite! / Celui-là, c'est mon invité!' Le schéma tonal M.M.M.M de /njɤ˧-ki˧ tʰi˧-tʰv̩˧/ semble résulter d'une intégration en un groupe tonal, par laquelle un ton L se trouverait 'annulé', de façon à aplanir la séquence en 'tout-Moyen'. Ce phénomène n'avait pas été décrit avant 2018."/>
 		<TRANSL xml:lang="fr">"Hélas! Tu venais tout juste d'arriver chez moi, pourquoi donc as-tu
 			agi ainsi? Qu'est-ce qu'on t'a donc fait [pour que tu te sentes contrainte à
 			dissimuler]?</TRANSL>
@@ -849,7 +850,7 @@
 	</S>
 	<S id="BuriedAlive2S112">
 		<AUDIO start="598.5645" end="609.1298"/>
-		<FORM>"no˧ | zo˩qo˧ no˩bv̩˩?" | pi˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧=zɯ˩, ʁɑ˩mi˧! | no˧sɯ˩kv̩˩ | ʈʂʰɯ˧ hĩ˧-ki˧ | mɤ˧-ki˧-sɯ˩-dʑo˩, | njæ˧=zɯ˩ | ɖwæ˧˥ | fv̩˧fv̩˩ ɲi˩-dʑo˩! | no˧sɯ˩kv̩˩ | njɤ˧-ki˧ mɤ˧-ki˧-hĩ˧ | no˧bv̩˥ ɲi˩!" | pi˧-dʑo˩. |</FORM>
+		<FORM>"no˧ | zo˩qo˧ no˩bv̩˩?" | pi˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧=zɯ˩, | ʁɑ˩mi˧! | no˧sɯ˩kv̩˩ | ʈʂʰɯ˧ hĩ˧-ki˧ | mɤ˧-ki˧-sɯ˩-dʑo˩, | njæ˧=zɯ˩ | ɖwæ˧˥ | fv̩˧fv̩˩ ɲi˩-dʑo˩! | no˧sɯ˩kv̩˩ | njɤ˧-ki˧ mɤ˧-ki˧-hĩ˧ | no˧bv̩˥ ɲi˩!" | pi˧-dʑo˩. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: zo˩qo˧-ɳɯ˧ | tsʰɯ˩-ɲi˥?"/>
 		<NOTE xml:lang="fr" message="ʈʂʰɯ˧ hĩ˧-ki˧: on pourrait également dire: ʈʂʰɯ˧-ʑi˥-ki˩"/>
 		<NOTE xml:lang="fr" message="ɖwæ˧˥ | fv̩˧fv̩˩ ɲi˩: on pourrait également dire: sɯ˧~sɯ˧ ɲi˥"/>
@@ -1082,7 +1083,7 @@
 	<S id="BuriedAlive2S140">
 		<AUDIO start="752.6006" end="757.7693"/>
 		<FORM>"tʰi˩˥, | ʁɑ˩mi˧! | tɕʰɤ˧ɲi˧-ni˧˥, | no˧-ki˩ ki˩-se˩-lɑ˩, | no˧bv̩˥-tsʰɯ˩ɻ̍˩-dʑo˩ | no˧-ki˩ hɯ˩-pʰæ˩-di˩!" |</FORM>
-		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la règle morpho-phonologique dégagée, selon laquelle le schéma devrait être /no˧-ki˧/. xxxx à vérifier en 2018."/>
+		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la 'règle' (erronée) décrite dans le livre de 2017, selon laquelle le schéma devrait être /no˧-ki˧/. A vérifier en 2018. Réponse : est bien : /no˧-ki˩ hɯ˩/, /no˧-ki˩/, /njɤ˧-ki˩/. De même : /njɤ˧-ɳɯ˧ | no˧-ki˩ ʐwɤ˩/. yyyy reporter dans les analyses."/>
 		<TRANSL xml:lang="fr">"Pardon, pardon! Après que [ma fille] se soit mariée, il semblerait que Norbu soit pourtant sans cesse allé chez vous/ait néanmoins continué à fréquenter votre fille!"</TRANSL>
 	</S>
 	<S id="BuriedAlive2S141">
@@ -1129,7 +1130,7 @@
 		<AUDIO start="795.9437" end="801.8102"/>
 		<FORM>ə˧sɯ˩kv̩˩, | ʈʂʰɯ˧ne˧-ʝi˥ | njɤ˧-ɳɯ˧ | ɑ˩ʁo˧ | no˧sɯ˩kv̩˩-ki˩, | ʁɑ˩mi˧! |
 			ʐwɤ˩-mɤ˩-tsʰɯ˩˥!" | pi˧-dʑo˩, | "njɤ˧-mv̩˩-dʑo˩, | no˧-ki˩ ki˩-ɲi˩-ze˩! |</FORM>
-		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la règle morpho-phonologique dégagée, selon laquelle le schéma devrait être /no˧-ki˧/. xxxx à vérifier en 2018."/>
+		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la 'règle' (erronée) décrite dans le livre de 2017, selon laquelle le schéma devrait être /no˧-ki˧/. Vérifié en 2018 : est bien /no˧-ki˩/."/>
 		<TRANSL xml:lang="fr">Nous [inclusif], c'est ainsi que moi… ma maison… à vous… pardon!
 			ils ne sont pas venus [tout de suite] vous faire part [de tout ce qui s'était passé]!
 			[Mais pour moi l'affaire est claire:] ma fille, c'est à vous que je l'ai donnée!
