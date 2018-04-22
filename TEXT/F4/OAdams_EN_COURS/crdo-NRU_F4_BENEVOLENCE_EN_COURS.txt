@@ -2,7 +2,7 @@
 
 ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩ ʈʂʰɯ˥-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩.
 %1
-%Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la version 1.0 de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. A partir de l'unité S numéro 36 : utilise le canevas créé par la version 1.1 de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams (mam), à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. 
+%Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la version 1.0 de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la version 1.1 de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique est désormais conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
 %/-bi/: adversatif.
 %vérification : /zo˩no˧ ɲi˩/ ou /zo˩no˧ ni˩/? réponse : /zo˩no˧ ɲi˩/.
 Autrefois, eh bien, les Na, eh bien, ce dont je vais parler, ça s'applique aussi aujourd'hui / ça vaut aussi bien pour aujourd'hui. (Littéralement: Parler des Na autrefois, même si on l'applique à aujourd'hui / même si c'est d'aujourd'hui qu'il s'agit, c'est pareil / il en va également ainsi.)
@@ -18,22 +18,27 @@ In comparison with the old times, it's just the same, isn't it.
 ɖɯ˩lo˥, | <ɖ>… nɑ˩ ʈʂʰɯ˥ | ɖɯ˩lo˧ dʑɤ˥ | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ə˧tso˧ dʑɤ˩? | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | zo˩no˥, |
 %3
 Les traditions… On dit que les Na avaient de belles traditions; qu'est-ce qu'elles avaient de beau, au juste? / en quoi étaient-elles belles, au fond? eh bien… 
+Traditions... When (people/I) say that the Na have beautiful traditions, what is it that is beautiful about them?
 说“摩梭人有美好的传统”，是在哪一点上算美好的？ / 具体有什么地方是美好的？那么，
 
 mmm… ɑ˩ʁo˧-ʑi˧dv̩˧ <po˧>[qo˧]-dʑo˩, | hĩ˧mo˥-hĩ˩ | ʁo˧mæ˧ ↑dʑɤ˩ mæ˩! |
 %4
-%ɑ˩ʁo˧-ʑi˧dv̩˧ po˧: sens de /po/? Réponse: est une erreur de prononciation: le mot qu'il fallait dire est /qo˧/ 'dans'.
+%fr /ɑ˩ʁo˧-ʑi˧dv̩˧ po˧/: sens de /po/? Réponse: est une erreur de prononciation: le mot qu'il fallait dire est /qo˧/ 'dans'.
 [Un élément tout à fait central, c'est que] dans la maisonnée, on s'occupait bien des personnes âgées!
+[Something really important is that] inside the family, older people were taken care of very well!
 （很重要的一点是：）在家里，关心老人关心得很周到！
 
 əəə… ɑ˩pʰo˩ le˩-tsʰɯ˩ hĩ˥, | hĩ˧bæ˧ ʁo˧mæ˧-hĩ˧ dʑɤ˥ mæ˩, | nɑ˩ ʈʂʰɯ˥-dʑo˩. |
 %5
 Euh… Les gens qui venaient du dehors (=les gens qui n'étaient pas de la famille), les hôtes, on les traitait bien (=on les traitait avec honneur), (nous) les Na.
+[And also] the people who came from the outside (=people from outside the family who came as visitors), the guests, were taken care of very well, [among] the Na.
 外边来的人（=外人），客人们，也得到关心，（在）摩梭人（家）。
 
 õ˧˥ | mɤ˧-dʑo˧, | tsʰi˧ɲi˧-bi˧, | hĩ˧bæ˧ jo˧-ho˥, | pi˧, | zo˩no˥, | le˧-ʂɯ˥~ʂɯ˩ | tʰi˧-tɕɯ˥! | 
 %6
-(Même si) on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on garde en réserve de quoi faire fête aux invités : on leur réserve ce qu'on a de meilleur!
+%fr /-bi/: adversatif; xxxx vérifier à nouveau que /tsʰi˧ɲi˧/ signifie ici 'ce jour'.
+Même si on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on garde en réserve de quoi faire fête aux invités : on leur réserve ce qu'on a de meilleur!
+Even if one does not have (enough for) oneself, 
 那天（虽然）自己没有（够自己吃饱），还是会考虑：可能会有客人来，（于是还是会）准备，存留（好吃的东西给客人）！
 
 əəə… so˩-kʰv̩˩˥, | ɲi˧-kʰv̩˧-bv̩˧ pɤ˧to˩ | tʰi˧-tɕɯ˥, | 'ə˧mi˧! | hĩ˧bæ˧ jo˧-kv̩˩!'
@@ -61,7 +66,7 @@ Les beaux morceaux de viande, on n'en mangeait guère: on les gardait (pour une 
 On disait: 'Il y a des invités qui vont venir! On va avoir des invités (un jour ou l'autre)'.
 会有外边来的客人！会来客人的！
 
-hĩ˧bæ˧-ʈʂʰɯ˧ | so˩kv̩˩, ʐv̩˩kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! | 
+hĩ˧bæ˧-ʈʂʰɯ˧ | so˩kv̩˩, ʐv̩˩kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! | 
 %11
 %On peut dire aussi bien /ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥/ que /ʐɯ˧ dʑo˧-zo˧-kv̩˩/. De même pour /ʂe˧ dʑo˧-zo˧-kv˩/ et /ʂe˧ | dʑo˧-zo˧-kv˧˥/. F4 exprime une préférence pour la variante avec intégration en un seul groupe tonal. Pas de variante stylistique évidente à ses yeux. Hypothèse toute personnelle: le ton montant convient à cette position dans la phrase: position non finale, où le contour montant a une connotation 'suspensive'. Cela met également en valeur le mot 'alcool'; l'alcool est une composante importante de l'hospitalité.
 %/ʐɯ˧ dʑo˧-zo˧-kv̩˧˥/: il fallait avoir de l'alcool en réserve à la maison, parce qu'il n'y avait pas de magasin à proximité où aller en acheter en cas de besoin.
@@ -77,7 +82,7 @@ Tandis que maintenant, si on n'a rien du tout (=si on n'a pas suffisamment de pr
 %13
 %/dzɯ˧-ɖɯ˧-kv̩˩/: on peut le manger; négation: /mɤ˧-ɖɯ˧-kv̩˧˥/.
 %d'abord noté /hĩ˧bæ˧ | le˧-ʝo˥-kv̩˩/, par erreur. En fait, le ton haut sur le verbe provient du nom; l'expression est donc nécessairement intégrée en un seul groupe tonal: /hĩ˧bæ˧ le˧-ʝo˥-kv̩˩/. En deux groupes, cela donnerait: /hĩ˧bæ˧ | le˧-ʝo˩-kv̩˩/.
-Même à notre époque (littéralement: 'même si on est maintenant dans l'époque actuelle [et plus dans l'âge d'or de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] 'Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!' On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]!
+Même à notre époque (littéralement: 'même si on est maintenant dans l'époque actuelle [et plus dans l'âge d'or de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] 'Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!' On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]! / On faisait une réserve !
 现在，虽然不是那个时代了，老人家……人家还是会（这样想）：“啊，会有客人来！这块（肉），不要吃！那块呢，可以吃的！”就存（最好的肉，留给客人）！
 
 mmm… ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | mmm… le˧-hwæ˧, | ɖɯ˧-mɤ˧-tʰɑ˧˥, | ə˩gi˩! | ɑ˩ʁo˧ ʈʰææ̃˧ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! |
@@ -103,94 +108,118 @@ et si un invité vient, on (lui en) fait un bon plat! (littéralement: 'on [lui 
 Chez moi (littéralement 'à moi, vers moi'), avant (=quand j'habitais à Yongning), eh bien, les amis de Dashi (son fils ethnologue), des gens, il en est venu de partout (=j'ai reçu des visiteurs des quatre coins du globe). 
 到我家，以前……那么……达石的朋友们，有来自各地的嘛。
 
-tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | əəə… ʂæ˧hæ˥-hĩ˩ tsʰɯ˩. | əəə… <m…u…>kʰu˧mi˩-hĩ˩ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ tsʰɯ˧˥! |
+tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | 
 %18
 %Cette phrase fournit l'occasion de noter la prononciation de noms de lieux empruntés au chinois mandarin. (Reporté dans le dictionnaire: Taïwan: /tʰæ˩ʁwæ˧/: ˩ ˧; tʰæ˩ʁwæ˧-hĩ˧ +ɲi˥; Japon: ʐɯ˩pe˧, ʐɯ˩pe˧-hĩ˧; Pékin: pe˩tɕi˧, pe˩tɕi˧-hĩ#˥; Shanghaï: ʂæ˧hæ˥, ʂæ˧hæ˥-hĩ˩; Kunming: kʰu˧mi˩, avec une syllabe qui n'existe pas en na, seulement dans les emprunts: /kʰu/.)
-Il en est venu de Taïwan; il en est venu du Japon; euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!
-有台湾人来，嗯……有日本人来，对的！嗯……有上海人来。
+Il en est venu de Taïwan; il en est venu du Japon; oui!
+有台湾人来，嗯……有日本人来，对的！
+
+əəə… ʂæ˧hæ˥-hĩ˩ tsʰɯ˩. | əəə… <mmm…> kʰu˧mi˩-hĩ˩ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ tsʰɯ˧˥! |
+%fr Il serait plus logique, grammaticalement, de grouper 18 et 19, qui forment un seul énoncé. La raison du découpage est pratique : l'outil 'Persephone' ne peut traiter que des intervalles de moins de 10 secondes. Pour les utilisateurs de la Collection Pangloss, il peut également être indiqué d'avoir des intervalles plutôt courts, pour bien s'y repérer.
+euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!
+嗯……有上海人来，有昆明人来，有北京人来！
 
 le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv˧ tʰi˩-tɕɯ˩!
-%19
+%20
 %/ʂe˧bv˧ tʰi˩-tɕɤ˩/: tons ˧ ˧ ˩ ˩ confirmés
 %crdo-NRU_F4_BENEVOLENCE_11:
 Comme il venait (tous ces visiteurs), eh bien, moi, je réservais des saucisses,
+因为有（这样的贵宾来），我会存香肠的！
 
-mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | <z…> ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! 
-%20
+mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | <z…> ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! |
+%21
 %On pourrait également dire: /le˧-tɕɤ˧ tʰi˥-ki˩ ɲi˩ mæ˩/.
 euh… je réservais des pieds de porc séchés; je réservais des membres de porc séchés; je réservais du lard. Et je faisais cuire ces ingrédients (littéralement: je faisais bouillir), comme ça!
+我会存猪脚、风干猪腿、琵琶肉。（客人）到我家来，我就煮，给（人吃）！
 
 'ə˧mi˧! | ə˧mɑ˧, | hɑ˧ | ɖwæ˧˥ | ʐv̩˩˥!' | pi˧-ɲi˥ mæ˩! |
-%19
+%22
 "Eeeeh bien! Ama, le repas est excellent!" disaient les invités!
+“啊呀！阿妈，饭真香！”（客人）会说。
 
-tʰi˩˥, | njɤ˧ | zo˩no˥ | nɑ˧dʑi˧ | ɑ˩pʰo˩ dʑo˩˥, | mmm… ɖɯ˩mɑ˥ | ɑ˩pʰo˩ dʑo˩˥, | zo˩no˥, | ki˧zo˧ ɑ˥ʁo˩ dʑo˩, | zo˩no˥, | <k…> əəə… ki˧zo˧ lɑ˩ | njæ˧zɯ˩ lɑ˩ ɲi˩ mæ˩, ◊ ə˩-gi˩! | njæ˧zɯ˩… | ɖɯ˩-hĩ˩˥, | njæ˧zɯ˩ lɑ˩ ɲi˩. |
-%20
-Alors, moi, en fait… Najji habitait ailleurs; Ddeema habitait ailleurs (=mes deux filles habitaient ailleurs); alors, Kizzo (une belle-fille) était à la maison; euh… Kizzo et (moi), on était seules, toutes les deux, n'est-ce pas! Nous deux, on était les deux seuls adultes. [Note: deux petites-filles et un petit-fils, encore enfants, habitaient eux aussi à la maison.]
+tʰi˩˥, | njɤ˧ | zo˩no˥ | nɑ˧dʑi˧ | ɑ˩pʰo˩ dʑo˩˥, | mmm… ɖɯ˩mɑ˥ | ɑ˩pʰo˩ dʑo˩˥, | zo˩no˥, | ki˧zo˧ ɑ˥ʁo˩ dʑo˩, | zo˩no˥, | <k…> əəə… ki˧zo˧ lɑ˩ | njæ˧zɯ˩ lɑ˩ ɲi˩ mæ˩, ◊ ə˩-gi˩! |
+%23
+Alors, moi, en fait… Najji habitait ailleurs; Ddeema habitait ailleurs (=mes deux filles habitaient ailleurs); alors, Kizzo (une belle-fille) était à la maison; euh… Kizzo et (moi), on était seules, toutes les deux, n'est-ce pas!
+那么，我呢……那金在外边（上班），嗯……独妈在外边（上班），那么，给若[阿妈的一个媳妇]在家，那么……给若和（我）……就是我们两个，对吧！
 
-ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥.  | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. | 
-%21
+njæ˧zɯ˩… | ɖɯ˩-hĩ˩˥, | njæ˧zɯ˩ lɑ˩ ɲi˩. |
+%24
+Nous deux, on était les deux seules adultes. [Note: deux petites-filles et un petit-fils, encore enfants, habitaient eux aussi à la maison.]
+我们……大人，只有我们两个。[家里还有阿妈的两个孙女，没成年。]
+
+<ǁ> ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥.  | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. | 
+%25
+%fr Le symbole ǁ note un clic ; je l'entends comme plutôt latéral (même si ce n'est pas très clair), d'où le choix de ce symbole. 
 %Vérifié: n'est pas /ɑ˩pʰo˩ dzi˩˥/.
 Dashi (lui aussi)… ils étaient tous au loin. Eux, il arrivait qu'ils viennent (à la maison avec des amis) / il arrivait qu'ils nous ramènent des invités à la maison!
+（还有）达石（也在外边），他们都在外边。会有人跟他们一起来家里（=他们会带客人来家里的）。
 
 'dʑɤ˩-hĩ˥ | ʈʂʰɯ˧-kʰwɤ˥ | dzɯ˧ mɤ˧-ɖo˧, | tʰi˧-tɕɯ˥, | ki˧zo˧!' | ə˧zɯ˩-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ mɤ˧-ɲi˩ | dzɯ˧-tʰɑ˩ ɲi˩! | 
-%22
-Je disais à ma belle-fille: Ce beau morceau, il ne faut pas le manger, Kizzo!' Nous deux, à la maison, on pouvait manger de tout!
+%26
+(Je disais à ma belle-fille:) 'Ce beau morceau, il ne faut pas le manger, Kizzo!' Nous deux, à la maison, on aurait pu manger de tout, tranquillou! (Il y avait de la nourriture en abondance à la maison; les deux habitantes du lieu auraient pu faire bombance tout à leur aise.)
+（我会说：）‘给若啊，好的这块（肉）不要吃，要存！’我们两个在家里什么都可以吃（=家里的食品丰富，我们想随便吃的话，能吃很多好的）！
 
-hĩ˧bæ˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩, | hĩ˧-ki˩ <ki…> | ki˧-di˩ mɤ˩-dʑo˩-dʑo˩, | hĩ˧-ɳɯ˩ | ʐæ˧-kv̩˧˥!
-%23
-A l'arrivée d'invités / quand des invités se présentaient, si on n'avait rien eu à leur donner (littéralement: "si on n'avait pas eu de choses à leur donner") ç'aurait été une plaisanterie / ç'aurait mérité des quolibets!
+hĩ˧bæ˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩, | <hĩ˧-ki˧ | ki˩-mɤ˩-di˩˥…> | ki˧-di˩ mɤ˩-dʑo˩-dʑo˩, | hĩ˧-ɳɯ˩ | ʐæ˧-kv̩˧˥!
+%27
+(Mais il n'était pas question de se laisser aller à la gourmandise:) à l'arrivée d'invités / quand des invités se présentaient, si on n'avait rien eu à leur donner (littéralement: "si on n'avait pas eu de choses à leur donner") ç'aurait été une plaisanterie / ça aurait attiré des quolibets!
+（可是不要那样做：）客人来了，如果没有（合适的）食品给他们，会见笑！
 
 'ʈʂʰɯ˧=ɻ̩˧-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ ɑ˩ʁo˩ <ʁo˩> ɲi˩? | ə˧mi˧, | ʑi˧dv̩˧ mɤ˧-ʝi ni˥ gv̩˩!' pi˧-kv̩˩. |
-%24
+%28
 "Par chez eux, qu'est-ce que c'est que cette famille? La mère de famille, on dirait qu'elle ne sait pas tenir sa maisonnée!", qu'on dirait; alors, bien qu'on tue trois cochons chaque année, nous deux, on ne mangeait (guère) de viande!
+人家会说：“他们是什么样的一个家？/他们那家是怎么回事？主妇好像都不管家！”
 
 pi˧-zo˩, | ɖɯ˧-kʰv̩˧˥ | bo˩˥ | so˩-kv̩˩ qʰo˥ bi˩-bi˩, | njæ˧zɯ˩-dʑo˩, | ʂe˧ mɤ˧-dzɯ˧˥! | 
-%25
+%29
 Voilà ce qu'on disait; et bien qu'on tue trois cochons par an, nous autres (=les habitants à l'année de la demeure), on ne mangeait pas [cette] viande / les meilleures pièces de boucherie, elles n'étaient pas pour nous!
+是这样讲的。一年，我们虽然杀三头猪，但（自己）不吃肉！（不吃珍贵的那些块，也不吃新鲜肉）
 
-lɑ˧ʐv˥ | -no˧˥ | tɕɤ˧ dzɯ˩! | 
-%26
+lɑ˧ʐv̩˥ | -no˧˥ | tɕɤ˧ dzɯ˩! | 
+%30
 On se faisait bouillir du lard, pour manger / comme nourriture ordinaire!
+（我们一般只给自己）煮腊肉吃！ / 平常，我们吃的只有腊肉！
 
 ʂe˧, | ʂæ˩ɻ̃˩˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩! | bo˩-kʰɯ˧ tʰi˧-tɕɯ˥! | ʂe˧bv̩˧ tʰi˩-tɕɯ˩! |
-%27
+%31
 %Tons de /bo˩-kʰɯ˧ tʰi˧-tɕɯ˥/ vérifiés, n'est pas … MH
-La viande… les os… La viande des membres du cochon, on la gardait de côté / on la mettait en réserve! Les saucisses (viande séchée conservée dans les intestins), on les gardait en réserve! 
+La viande… les os… La viande des membres du cochon, on la gardait de côté / on la mettait en réserve! Les saucisses (viande séchée conservée dans les intestins), on les gardait en réserve!
+肉、骨头、猪腿，（我们）存起来！猪脚，也存起来！香肠，也存起来！
 
 əəə… | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩! | ho˧tʰv̩˧ tʰi˧-tɕɯ˥! | ʂe˧ | dʑɤ˩-hĩ˥ | ɖɯ˧-tʰɑ˧˥ | tʰi˧-tɕɯ˥! |
-%28
+%32
 Euh… on gardait en réserve le porc conservé! On gardait en réserve les jambons! On gardait en réserve toutes les bonnes pièces de viande!
+嗯……琵琶肉，也存起来！火腿，也存起来！好的肉，全部存起来！
 
 hĩ˧ | ɖɯ˧-ʂɯ˩ le˩-tsʰɯ˩, | ɖɯ˧-ʈv̩˩ tɕɤ˩! | tʰi˩˥, | hĩ˧ | le˧-dzɯ˧ mɤ˧-se˥, | õ˧˥ | wɤ˩˥ | dzɯ˧-tʰɑ˩ ɲi˩ mæ˩! |
-%29
-A chaque fois qu'il y avait des invités, on faisait bouillir un gros morceau [de bonne viande] / une belle pièce de viande! Si les invités ne finissaient pas / ne mangeaient pas tout, c'est alors qu'on (=les gens de la maisonnée) pouvait en manger! 
+%33
+À chaque fois qu'il y avait des invités, on faisait bouillir un gros morceau [de bonne viande] / une belle pièce de viande! Si les invités ne finissaient pas / ne mangeaient pas tout, c'est alors qu'on (=les gens de la maisonnée) pouvait en manger! 
+每次来客人，煮一大块（好肉）！然后人家吃不完的话，自己（=家庭一般成员）就可以吃了。
 
 ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩ | tʰi˩˥ | æ˧ʂæ˧ | njɤ˧ ə˧ʑi˧-ɳɯ˥ | pi˧-kv̩˩: |
-%30
+%34
 De la sorte, eh bien... autrefois, ma grand-mère disait :
 
 õ˧˥ | le˧-dzɯ˥-dʑo˩, | tsʰi˧ɲi˧, | ɬi˧ŋv˥ lɑ˩ | ʈʰæ˩ŋv˩ lɑ˥ do˩-kv̩˩! |
-%31
+%35
 %ʈʰæ˩ŋv̩˩˥ pour les femmes, ɬi˧ŋv̩˥ pour les hommes; désigne les hanches, la taille (eng: waist) (la partie charnue).
 'Si on mange (ces bonnes choses) nous-mêmes, il n'y a que les hanches de nos pantalons et de nos jupes qui en voient la couleur! / Si on "fait Suisse" et qu'on se mange ces bonnes choses dans notre coin, il n'y a que nos hanches qui en profitent!'
 
 hĩ˧-ɳɯ˩… hĩ˧-ki˧ ki˩, | hĩ˧ | tʰi˧-dzɯ˥-kʰɯ˩, | pi˧-dʑo˩, | ɑ˩pʰo˩˥, | zo˩no˥, | gv̩˧-ti˩ qo˩ ʐwɤ˩<-k…>-bi˩-kv̩˩! | 
-%32
+%36
 %la société: ɖʐɯ˩kʰɤ˥
 %gv˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩! Même sens que: gv˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩! 'parler de toutes parts, faire de la bonne publicité de partout'
 [Tandis que] les gens [en parleront si]… Si on l'offre aux invités (littéralement: 'si on le donne à manger aux gens'), à l'extérieur, eh bien, vous y gagnerez des compliments en abondance! 
 
 ʈʰæ˩ŋv̩˩˥ ◊ -dʑo˩, | ɖɯ˧-ti˧ lɑ˥ ɲi˩! | ɬi˧ŋv̩˥ F | ɖɯ˧-ti˧ lɑ˥ ɲi˩! | 
-%33
+%37
 Tout ce qu'on y gagne, c'est une [p'tite] couche [de graisse en plus] dans les hanches!
 
 əəə… hĩ˧ ɳɯ˩ | le˧-dzɯ˥ | po˧-hɯ˥, | pi˧, | gv̩˧-ti˩ qo˩ ʐwɤ˩-kv̩˩! 
-%34
+%38
 Tandis que si c'est des invités qui le mangent et qui l'emportent avec eux, c'est dans neuf couches [de temps, d'épaisseur de 'temps social'] qu'il en sera question! (Le souvenir de la bonne chère sera conservé et amplifié.)
 
 õ˧˥ | le˧-dzɯ˥ | pi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ti˧ lɑ˥ do˩-kv̩˩! | mv̩˩si˧=ɻæ˥ | qʰæ˧pɤ˧ tʰi˧-tɕɯ˥-kv̩˩! | pi˧. |
-%35
+%39
 %/mv̩˩si˧=ɻæ˥/: F4 souligne qu'il aurait été préférable de dire /mv̩˩si˧˥/
 %/qʰæ˧pɤ#˥/ 'crotte'
 "Si on mange (nos bonnes choses) nous-mêmes, il n'y a que nos hanches qui en profitent! Et au matin, on fait une crotte (et voilà tout ce qui en reste)!"
@@ -198,23 +227,23 @@ õ˧˥ | le˧-dzɯ˥ | pi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-
 yyyyy ajout gv˧ dʑɯ˩ ɖɯ˧-tsʰo˧ ʝi˧, | ʂɯ˧ lo˩ | ɖɯ˧-ʁɑ˧ ʝi˧! Proverbe du temps ancien: traverser neuf fleuves en un bon, passer sept vallées en un pas?
 
 zo˩no˥, | gv̩˧-ti˩ | pi˧-dʑo˩, | æ˧ʂæ˧-dʑo˩ | gv̩˧-ti˩ | pi˧-ɲi˥ mæ˩, ◊ ə˩-gi˩! | nɑ˩-ʐwɤ˥-dʑo˩, | gv̩˧-ti˩ | pi˧! |
-%36; correspond au segment 22 du découpage automatique. 
+%40; correspond au segment 22 du découpage automatique. 
 %d'abord noté /‡pi˧-ɲi˩ mæ˩/
 sens : 9 étages, neuf couches
 
 tʰi˩˥, | hæ˧ʐwɤ˩ | pi˧-dʑo˩, | əəə… zo˩no˥, | tɕʰɤ˩ʂɯ˩kɤ˩˥ | hĩ˧ ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | pi˧, ◊ ə˩-gi˩! |
-%37
+%41
 %/tɕʰɤ˩ʂɯ˩kɤ˩˥/: serait une formule chinoise pour dire 'pour longtemps, pendant bien longtemps, durablement'; 前时刻？ La formule en question n'est pas très claire pour F4, qui juge qu'il aurait été préférable d'omettre cette explication qu'elle est bien en peine de développer lors de la transcription.
 Alors, pour dire ça en chinois, eh bien... on dirait : 'les gens d'autrefois disaient ça!', n'est-ce pas ! / Tout ça, c'est des paroles d'autrefois (前时刻), comme on dit en chinois ! 
 
 ʈʂʰɯ˧ | ɑ˩ʁo˧ tʰv˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧, | pi˧, | ʐwɤ˩-kv̩˩˥, | pi˧, | zo˩no˥! | 
-%38
+%42
 %crdo-NRU_F4_BENEVOLENCE_230.0
-%/ɖɯ˧-kʰwɤ˧ dzɯ˧/: objet au ton H$, verbe au ton H, cela donne M.M.M+L : /ɖɯ˧-kʰwɤ˧ dzɯ˧/, /ɖɯ˧-kʰwɤ˧ dzɯ˧-ze˩/. On s'attend donc à ce que le schéma tonal avec l'expérientiel soit : /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˩/. A confirmer par F4. Réponse le 20 avril 2018: est: ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧ (qui donne, si on y ajoute le perfectif: /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧-ze˩/).
+%/ɖɯ˧-kʰwɤ˧ dzɯ˧/: objet au ton H$, verbe au ton H, cela donne M.M.M+L : /ɖɯ˧-kʰwɤ˧ dzɯ˧/, /ɖɯ˧-kʰwɤ˧ dzɯ˧-ze˩/. On s'attend donc à ce que le schéma tonal avec l'expérientiel soit : /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˩/. À confirmer par F4. Réponse le 20 avril 2018: est: ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧ (qui donne, si on y ajoute le perfectif: /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧-ze˩/).
 "Il est venu à la maison (=chez nous), et a mangé ce [bon] morceau; il en parlera (aux autres, à sa maisonnée)!"
 
 zo˩no˥, | njɤ˧-ki˧=ɻ˩, | əəə... ʐɯ˩pe˧ hĩ˧-dʑo˩, | ʝi˧kʰv̩˧ tsʰɯ˧˥ ◊ -dʑo˩, | "ə˧mɑ˧, | no˧ | ʂe˧, | ə... ʈʂʰɯ˧ | qʰɑ˩ne˩ʝi˥ | tʰi˧-tɕɯ˧ ɲi˥?" | pi˧-ɲi˩. |
-%39
+%43
 %/qʰɑ˩ne˩ʝi˥/ 'comment' pour signifier 'pourquoi' (interrogatif qui se dit en na /ə˧tse˧-ʝi˥/): serait-ce un calque du chinois? En mandarin, 怎么 'comment' peut s'employer de façon concurrente à 为什么 'pourquoi' pour porter une question portant sur la cause ('pourquoi') plutôt que sur le comment.
 %/njɤ˧-ki˧=ɻ˩/: tons confirmés, est bien M.M.L (non M.L.L ni M.M.M). Sens: allatif, 'vers chez moi'
 %kʰv̩˧tsʰɯ˧˥ ou kʰv˩̩tsʰɯ˩˥: sens ?? en fait : c'est : /ʝi˧kʰv̩˧ tsʰɯ˧˥/ 'certains sont venus'
@@ -225,7 +254,7 @@ tʰi˩˥, | njɤ˧-ɳɯ˧: | "le˧-ʑi˩-ɻ̍˩, | mv̩˧ʁo˥ | tʰv̩˧qo˧ | 
 %/mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: avais d'abord noté : /tʰi˧-tɑ˧nɑ˩/, par erreur.
 %/mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: sens à voir : prenons-la, chauffons-la auprès du feu? Explication : c'est un synonyme de /ʂwæ˩a/ 'fumer'; la viande s'imprègne de la fumée, et prend un bon goût.
 %Question : qui dit 'c'est bon': l'invité japonais? Ama? Parole prêtée à de futurs invités? Réponse: est ce que disent les invités.
-%40
+%44
 Alors, moi, (je lui ai expliqué:) "On la prend, on la fume là, au-dessus du foyer; euh... on la garde de côté". "Comme c'est bon! Vrai de vrai, c'est délicieux!" s'exclame l'invité japonais, le jour où on en fait bouillir toute une casserole
 
 ho˧tʰv̩˧ ɖɯ˧-ʈv̩˩ tɕɤ˩, | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-ʈʂo˩, | hĩ˧ | ɲi˧tsʰi˧qʰɑ˧-kv̩˥ | ɖɯ˧-ʈʂo˩ dzɯ˩. | 

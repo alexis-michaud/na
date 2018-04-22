@@ -435,7 +435,7 @@
 		<AUDIO start="276.0914" end="280.3077"/>
 		<FORM>tsʰe˧-ɖɯ˧-ɭɯ˧-qo˧ | le˧-ʑi˧-ʁo˥to˩-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ɳɯ˩, |
 			hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩! | hɯ˧! |</FORM>
-		<TRANSL xml:lang="fr">A onze heures, après que [les gens qui veillaient] se furent endormis,
+		<TRANSL xml:lang="fr">À onze heures, après que [les gens qui veillaient] se furent endormis,
 			eh bien, no˩bv̩˧-tsʰɯ˩ɻ̍˩, il y est allé! il y est allé!</TRANSL>
 		<TRANSL xml:lang="zh">十一点的时候，大家都睡着了之后，诺布次尔悄悄溜进来了。</TRANSL>
 	</S>
@@ -835,7 +835,7 @@
 		<AUDIO start="549.7656" end="558.9268"/>
 		<FORM>tʰi˩˥, | ə˧mi˧ | ʈʂʰɯ˧-jɤ˩-ɳɯ˩: | "no˧ | njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧-ki˧ ki˩-bi˩, | dʑɤ˩-ho˥ ɲi˩-ho˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /njɤ˧ mv̩˩/ 'ma fille'; la formulation /njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧/ pourrait se paraphraser en chinois par: “我啊，我家女孩死了”: la 1e personne du singulier sert de thème: 'Moi, [ma] fille, elle est morte!'"/>
-		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. Vérification en 2018: la forme canonique est bien: /njɤ˧-ki˩/. (A reporter dans la grammaire! yyyy). La forme /njɤ˧-ki˧/ est une forme en contexte, obtenue par intégration dans un groupe tonal plus long: /njɤ˧-ki˩ |/ +/tʰɑ˧-jo˧-ɻ̍˩/ donne: /njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩/."/>
+		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. Vérification en 2018: la forme canonique est bien: /njɤ˧-ki˩/. La forme /njɤ˧-ki˧/ serait-elle une forme en contexte, obtenue par intégration dans un groupe tonal plus long? Les deux groupes /njɤ˧-ki˩ |/ et /tʰɑ˧-jo˧-ɻ̍˩/, joints l'un à l'autre, donneraient /njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩/? Ce serait le premier exemple d'un tel processus. Solution: il s'agit en fait de 2 morphèmes distincts, datif et allatif; ils n'avaient pas été distingués jusqu'ici dans la description. Leur comportement tonal n'est pas identique."/>
 		<NOTE xml:lang="fr" message="Avant 2018, noté /tʰɑ˧-jo˧-ɻ̍˧/; vérification en 2018: est: /tʰɑ˧-jo˧-ɻ̍˩/."/>
 		<TRANSL xml:lang="fr">Alors la mère a dit: "Ne viens plus chez moi! Moi, ma fille est morte!
 			Autrefois, si on te l'avait donnée, tout aurait été pour le mieux / ç'aurait été bien,

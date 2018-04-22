@@ -130,7 +130,7 @@
 		<AUDIO start="95.3895" end="100.9417"/>
 		<FORM>hĩ˧-ʈʂʰɯ˧ | le˧-tsɤ˧-hĩ˧-ʈʂʰɯ˧, | ʈʂʰɯ˧ne˧ ʝi˥-mɤ˩-kv̩˩! | no˧ | dzɯ˧-bi˧, | njæ˧sɯ˩kv̩˩, | ɑ˩ʁo˧-dʑo˩, | dzɯ˩-bi˩-ni˩-gv̩˩˥, | pi˧, | no˧ | dzɯ˧-tsæ˧-ɲi˩! |</FORM>
 		<NOTE xml:lang="fr"
-			message="A la réflexion, la narratrice aurait préféré la formulation suivante: ʈʂʰɯ˧ne˧-ʝi˥, mɤ˧-ɖo˥, au lieu de: ʈʂʰɯ˧ne˧ ʝi˥-mɤ˩-kv̩˩. Surprenant mais vérifié avec soin: on dit /V-mɤ˧-ɖo˧/ (ton M), mais: /ʈʂʰɯ˧ne˧-ʝi˥, | mɤ˧-ɖo˥!/ (ton H)"/>
+			message="À la réflexion, la narratrice aurait préféré la formulation suivante: ʈʂʰɯ˧ne˧-ʝi˥, mɤ˧-ɖo˥, au lieu de: ʈʂʰɯ˧ne˧ ʝi˥-mɤ˩-kv̩˩. Surprenant mais vérifié avec soin: on dit /V-mɤ˧-ɖo˧/ (ton M), mais: /ʈʂʰɯ˧ne˧-ʝi˥, | mɤ˧-ɖo˥!/ (ton H)"/>
 		<NOTE xml:lang="fr"
 			message="/dzɯ˧-tsæ˧-ɲi˩/: tu as le droit de manger, tu peux manger, on te laisse manger"/>
 		<TRANSL xml:lang="fr">Etre gourmand comme ça, ça ne se fait pas! Si tu veux manger, nous, à la maison, si tu veux manger, on te laisserait manger!</TRANSL>
@@ -696,7 +696,7 @@
 			ʂv̩˧ɖv̩˧-zo˩, | wɤ˩ ɖɯ˧-ʂɯ˥ pʰv̩˩! | wɤ˩˥ | "qv-ɻ"! | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="tons intéressant: ton de wɤ˩˥ se déplaçant "/>
 		<TRANSL xml:lang="fr">Me disant: "Elle a pas dû mourir[, en fait!]", j'ai ôté à nouveau [ses
-			bijoux] (=je me suis remis à lui enlever des bijoux)! A nouveau, elle a grogné!
+			bijoux] (=je me suis remis à lui enlever des bijoux)! À nouveau, elle a grogné!
 		</TRANSL>
 	</S>
 	<S id="BuriedAlive2S092">
@@ -845,7 +845,7 @@
 		<AUDIO start="592.0431" end="597.8953"/>
 		<FORM>"ə˧mɑ˧! njɤ˧ | no˧bv̩˥ ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. "njɤ˧ | no˧bv̩˥ ɲi˩!" | pi˧-dʑo˩,
 			|</FORM>
-		<TRANSL xml:lang="fr">[A ce moment-là, le jeune homme est intervenu:] "Mère! Je suis
+		<TRANSL xml:lang="fr">[À ce moment-là, le jeune homme est intervenu:] "Mère! Je suis
 			no˧bv̩˥!" Comme il disait "Je suis no˧bv̩˥", </TRANSL>
 	</S>
 	<S id="BuriedAlive2S112">
@@ -1003,7 +1003,7 @@
 			message="/qʰwæ˧kʰwɤ˧/: 'ragots, histoires, racontars'; avais d'abord noté /‡qʰwæ˧qʰwɤ˧/."/>
 		<NOTE xml:lang="fr" message="tons vérifiés, est: ə˧tse˧ ʝi˧"/>
 		<NOTE xml:lang="fr"
-			message="A la réécoute, la locutrice demande à ce que /ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩/ soit remplacé par /njɤ˧ | mv̩˩-ɳɯ˥/: comme précédemment, il s'agit d'éviter l'emploi d'un prénom qui est celui de membres de la famille de la narratrice."/>
+			message="À la réécoute, la locutrice demande à ce que /ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩/ soit remplacé par /njɤ˧ | mv̩˩-ɳɯ˥/: comme précédemment, il s'agit d'éviter l'emploi d'un prénom qui est celui de membres de la famille de la narratrice."/>
 		<TRANSL xml:lang="fr">Alors, que se passe-t-il? Nous deux… ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩, la voilà
 			devenue l'objet des racontars pour toute sa vie!"</TRANSL>
 	</S>
@@ -1041,7 +1041,7 @@
 		<NOTE xml:lang="fr" message="&lt;tsɤ˧ʁo˧-tsʰi˧kv̩˥…&gt;: est un lapsus, aussitôt corrigé."/>
 		<NOTE xml:lang="fr"
 			message="hɑ˧ tʰi˧-gv̩˩-ze˩-gɤ˩: au moment où (glose proposée par M18: 当下)"/>
-		<TRANSL xml:lang="fr">A la maison, il lui arrivait d'être prise par la gourmandise; pendant
+		<TRANSL xml:lang="fr">À la maison, il lui arrivait d'être prise par la gourmandise; pendant
 			qu'elle faisait la cuisine, elle mangeait un peu par-ci par-là (littéralement "elle en
 			touchait un peu et elle en mangeait")", leur a-t-elle dit. Voilà ce qu'on
 			raconte!</TRANSL>
@@ -1083,7 +1083,7 @@
 	<S id="BuriedAlive2S140">
 		<AUDIO start="752.6006" end="757.7693"/>
 		<FORM>"tʰi˩˥, | ʁɑ˩mi˧! | tɕʰɤ˧ɲi˧-ni˧˥, | no˧-ki˩ ki˩-se˩-lɑ˩, | no˧bv̩˥-tsʰɯ˩ɻ̍˩-dʑo˩ | no˧-ki˩ hɯ˩-pʰæ˩-di˩!" |</FORM>
-		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la 'règle' (erronée) décrite dans le livre de 2017, selon laquelle le schéma devrait être /no˧-ki˧/. A vérifier en 2018. Réponse : est bien : /no˧-ki˩ hɯ˩/, /no˧-ki˩/, /njɤ˧-ki˩/. De même : /njɤ˧-ɳɯ˧ | no˧-ki˩ ʐwɤ˩/. yyyy reporter dans les analyses."/>
+		<NOTE xml:lang="fr" message="La forme /no˧-ki˩ |/ est contraire à la 'règle' (erronée) décrite dans le livre de 2017, selon laquelle le schéma devrait être /no˧-ki˧/. À vérifier en 2018. Réponse : est bien : /no˧-ki˩ hɯ˩/, /no˧-ki˩/, /njɤ˧-ki˩/. De même : /njɤ˧-ɳɯ˧ | no˧-ki˩ ʐwɤ˩/. yyyy reporter dans les analyses."/>
 		<TRANSL xml:lang="fr">"Pardon, pardon! Après que [ma fille] se soit mariée, il semblerait que Norbu soit pourtant sans cesse allé chez vous/ait néanmoins continué à fréquenter votre fille!"</TRANSL>
 	</S>
 	<S id="BuriedAlive2S141">
@@ -1117,7 +1117,7 @@
 	<S id="BuriedAlive2S144">
 		<AUDIO start="787.5571" end="791.8430"/>
 		<FORM>tʰi˩˥, | tʰv̩˧-qo˧ tʰv̩˧-dʑo˧, | hæ̃˧qʰv̩˥ | tʰi˩˥, | no˩-ɳɯ˥-dʑo˩, | dʑi˧hṽ̩˥ | ɖɯ˧-dzi˩ po˩-kʰi˩; |</FORM>
-		<TRANSL xml:lang="fr">[La mère prend à témoin le jeune homme:] A ce moment-là, en pleine
+		<TRANSL xml:lang="fr">[La mère prend à témoin le jeune homme:] À ce moment-là, en pleine
 			nuit, toi, tu lui as amené une paire de vêtements; </TRANSL>
 	</S>
 	<S id="BuriedAlive2S145">
@@ -1683,7 +1683,7 @@
 		êtes-vous donc? Taisez-vous donc! Que venez-vous m'effrayer!" Ah, euh, l'homme, en fait, on
 		va l'appeler no˧bv̩˥! (Ici, la conteuse change les noms en cours de récit, s'avisant du fait
 		que ʈæ˧ʂɯ˧ est le nom d'un de ses fils, qu'il ne s'agit pas de mêler à une histoire de
-		mauvaises mœurs: larcins de nourriture et amours extra-conjugales.) A ce moment-là, le
+		mauvaises mœurs: larcins de nourriture et amours extra-conjugales.) À ce moment-là, le
 		jeune homme est intervenu: "Mère! Je suis no˧bv̩˥! - Le no˧bv̩˥ de quel endroit?" a demandé
 		la mère. (Explication: il y a peu de prénoms chez les Na; il faut donc désambiguïser; pour
 		cela, on pouvait employer un nom de village: /njɤ˧ | ɬi˧di˩-ɖɯ˩mɑ˩!/ 'Je suis la ɖɯ˩mɑ˩ de
@@ -1707,7 +1707,7 @@
 		marié a demandé: "De quoi s'agit-il donc, qui puisse ainsi devenir proverbial? - Pardon,
 		pardon! Ma fille ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩… vraiment toutes mes excuses! Un jour, vous étiez tous
 		sortis, et alors… pardon! elle souffre un peu du défaut de gourmandise!" leur a-t-elle
-		dit. "A la maison, il lui arrivait d'être prise par la gourmandise; pendant qu'elle faisait
+		dit. "À la maison, il lui arrivait d'être prise par la gourmandise; pendant qu'elle faisait
 		la cuisine, elle mangeait un peu par-ci par-là!", leur a-t-elle dit. Voilà ce qu'on raconte!
 		Alors, les gens de la belle-famille ont répondu: "Aaaah bon! Ce jour-là, qu'est-ce qu'elle a
 		donc mangé? Nous autres, on était tous partis travailler! Notre déjeuner à nous, il était
@@ -1724,7 +1724,7 @@
 		amoureux] Ensuite, trois jours ayant passé, le soir, alors que vous dormiez tous, lui, en
 		pleine nuit, il est venu là où on l'avait enterrée, et… hou là là!! il lui a arraché ses
 		bracelets, en tirant fort, et en pesant de tout son poids sur son corps, de sorte qu'elle a
-		recraché l'œuf!" [La mère prend à témoin le jeune homme:] "A ce moment-là, en pleine nuit,
+		recraché l'œuf!" [La mère prend à témoin le jeune homme:] "À ce moment-là, en pleine nuit,
 		toi, tu lui as amené une paire de vêtements; tu lui as enfilé des vêtements; et vous vous
 		êtes enfuis! Pardon! ils ne sont pas venus tout de suite vous faire part de tout ce qui
 		s'était passé! Mais pour moi l'affaire est claire: ma fille, c'est à vous que je l'ai
