@@ -327,8 +327,8 @@ De nos jours, quand il manque quelque chose, hop, on va au marché, on achète (
 %Utterance ID: BENEVOLENCE.29
 %54
 %Transcription automatique : ɑ˩ʁo˧dʑo˩ | pi˧ | zo˩no˥njɤ˧ki˧zo˧ki˧ɲi˥bi˩ | dʑɤ˩hĩ˥ | ɖɯ˧kʰwɤ˥ | tʰi˧tɕɯ˥pæ˧ | dzɑ˧hĩ˧ | tʰv̩˧kʰwɤ˥ | le˧dzɯ˥! | hĩ˧le˧ʝjoi˥kv̩˩ | hĩ˧ɳɯ˩ | õ˧ʐwɤ˧kv̩˩˥ | ə˧zɯ˩ | tɕɯ˧di˧mɤ˧dʑo˥dʑo˩ |  
-%/njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩/ : vérifier le sens xxxx
-A la maison, eh bien, quand je donne à Geiruo (vérifier le sens xxxx), je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !
+%/njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩/ : vérifier le sens. Réponse : cela veut dire : j'expliquais à Geiruo, je faisais part à Geiruo de ces bonnes habitudes.
+A la maison, eh bien, je donne le même conseil à (ma belle-fille) Geiruo: je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !
 在家，我给（我媳妇）给若（这样的建议）：好的那块，存起来！不太好的那块，（给自己）吃！
 
 hĩ˧ le˧-jo˥-kv̩˩, | hĩ˧-ɳɯ˩ | õ˧ ʐwɤ˧-kv̩˥, | ə˧zɯ˩ | tɕɯ˧-di˧ mɤ˧-dʑo˥-dʑo˩: |  
@@ -384,10 +384,10 @@ nɑ˩ʈʂʰɯ˥-dʑo˩, | hĩ˧... | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩, pi˩-kv̩˩
 Les Na, ils savent prendre soin des gens, dit-on.
 摩梭人会关心别人。 / 摩梭话传统文化里面，好客和关心别人是核心概念。
 
-nɑ˩-ʈʂʰɯ˥, | dʑɤ˩ʈʂɤ˧-dʑo˧, | ʂe˧sɑ˩ dʑɤ˩ʈʂɤ˩, | ʂe˧bv̩˧ dʑɤ˥ʈʂɤ˩, | bo˩kʰɯ˥ dʑɤ˩ʈʂɤ˩, | bo˩ʈʂʰæ˥ dʑɤ˩ʈʂɤ˩! | ɑ˩pʰo˩hĩ˩ le˩-tsʰɯ˩-hĩ˥! | 
+nɑ˩-ʈʂʰɯ˥, | dʑɤ˩ ʈʂɤ˧-dʑo˧, | ʂe˧sɑ˩ dʑɤ˩ ʈʂɤ˩, | ʂe˧bv̩˧ dʑɤ˥ ʈʂɤ˩, | bo˩kʰɯ˥ dʑɤ˩ ʈʂɤ˩, | bo˩ʈʂʰæ˥ dʑɤ˩ ʈʂɤ˩! | ɑ˩pʰo˩hĩ˩ le˩-tsʰɯ˩-hĩ˥! | 
 %tons de dʑɤ˩ʈʂɤ˧-dʑo˧: tv
 %64
-quand des gens arrivent (=quand il y a des invités)!
+Pour les Na, les bons morceaux (=ce qui est considéré comme des bons morceaux, c'est:) les membres séchés avec l'os, c'est considéré comme une belle pièce; la saucisse, c'est une belle pièce; les pieds de porc, c'est une belle pièce; quand des gens arrivent (=quand il y a des invités)!
 
 hĩ˧-ʈʂʰɯ˧, əəə... | nɑ˩ hɑ˧ ɲi˥, | pi˧-zo˩ | ɖwæ˧˥ | fv̩˧ʝi˧ kv̩˥ mæ˩! | 
 %Utterance ID: BENEVOLENCE.34 
@@ -419,7 +419,7 @@ Aujourd'hui, avec un cuiseur à riz automatique, les gens, ceux qui viennent du 
 
 lo˩qo˥ | tʰv̩˧-ʁo˥-qo˩-ɳɯ˩ | hɑ˧ | ɖɯ˧-lo˩qo˩ tʰi˩-tɕɤ˩! | ɬɬɬ! ɖwæ˧˥ | so˩˥! | ɖwæ˧˥ | so˩ pi˥! | ɖwæ˧˥ | dzɯ˧-kv̩˩ mæ˩! |
 %71
-%/lo˩qo˥, | hɑ˧ tɕɤ˩-di˩! loqo, c'est une casserole de cuivre où on cuit les céréales: /æ̃˩-lo˥qo˩/. Ton: est LM: poss: lo˩qo˧-bv̩˧.
+%/lo˩qo˥, | hɑ˧ tɕɤ˩-di˩! loqo, c'est une casserole de cuivre où on cuit les céréales: /æ̃˩-lo˥qo˩/. Ton: est LM: poss: lo˩qo˧-bv̩˧. yyyy reporter ds le dictionnaire.
 %Avec les nombres de 1 à 10 : ɖɯ˧-lo˩qo˩, | ɲi˧-lo˩qo˩, | so˩-lo˩qo˩˥, | ʐv̩˧-lo˥qo˩, | ŋwɤ˧-lo˥qo˩, | qʰv̩˧-lo˥qo˩, | ʂɯ˧-lo˩qo˩, | hõ˧-lo˥qo˩, | gv˧-lo˥qo˩, | tsʰe˩-lo˩qo˥.
 On dit que c'est très bon ! On en mange beaucoup !
 
@@ -428,69 +428,101 @@ On dit que c'est très bon ! On en mange beaucoup !
 %/hĩ˧bæ˧-ki˧ pʰv̩˥ɖɯ˩: tv.
 %Utterance ID: BENEVOLENCE.37 
 
-ĩ, | æ̃˩ qʰo˧-bi˧-bi˧, | zo˩no˥, | hĩ˧mo˥-hĩ˩ | ə˧ʝi˧ki˩ | æ˩ʈʂæ˧ | ɖv̩˧qæ˧˥ | ɑ˧ʈʂʰɯ˧dʑi˩di˥ | ʈʂʰɯ˧ | ɖɯ˧tv̩˩tɕi˥kv̩˩mæ˩ | zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | m 
+ĩ, | æ̃˩ qʰo˧-bi˧-bi˧, | zo˩no˥, | hĩ˧mo˥-hĩ˩-ki˩ | æ̃˩ʈʂæ˩˥ | ɖv̩˧qæ˧-lɑ˧ | tʰi˧-di˧~di˥-hĩ˩ ʈʂʰɯ˩-ɭɯ˩ | ɖɯ˧-tv̩˩ ki˩-kv̩˩ mv̩˩! |  
 %Transcription automatique : ʐæ˩dʑo˩ | tʰi˩˥ | hĩ˧no˥hĩ˩ki˩kʰv̩˩ɖɯ˩hĩ˧bæ˧ki˩pʰv̩˧ɖɯ˩ | zo˧mv̩˥zo˩ki˩kʰv̩˩dv̩˩kv̩˩mæ˩ĩæ̃˩qʰo˥pʰi˩pi˥zo˩no˥ | hĩ˧ɻo˩ |  
+%/æ̃˩ʈʂæ˩˥/ : le membre antérieur du poulet, qui porte les ailes
+Oui, quand on tue un poulet, eh bien, on donne aux personnes âgées les ailes ; les ailes et ce qui va avec!
 
-
+zo˧mv̩˥zo˩-ki˩, kʰɯ˩tsʰɤ˩ tʰv̩˩-ʈv̩˥! | kʰɯ˩tv̩˩ɭɯ˥ | ʈʂʰɯ˧-ʈv̩˩! | 
 %Utterance ID: BENEVOLENCE.38 
 %Transcription automatique : ə˧ʝi˧ki˩ | æ˩ʈʂæ˧ | ɖv̩˧qæ˧˥ | ɑ˧ʈʂʰɯ˧dʑi˩di˥ | ʈʂʰɯ˧ | ɖɯ˧tv̩˩tɕi˥kv̩˩mæ˩ | zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | m 
+%Soigneusement vérifié : est /kʰɯ˩tv̩˩ɭɯ˥/, non /kʰɯ˩ʈv̩˩ɭɯ˥/ ni /kʰɯ˩ʈɯ˩ɭɯ˥/ ni /...lv̩˥/.
+%/æ̃˩ʂe˧-kʰɯ˧tv̩˥ɭɯ˩/ 'cuisse de poulet'
+Aux enfants, (on donne) les cuisses! (littéralement: 'le morceau des pattes, le morceau qui va avec les pattes')
 
-
+mmm…tʰi˩˥, | hĩ˧ | njæ˧sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧mv̩˥-ə˩dɑ˩-lɑ˩, | njæ˧sɯ˩kv̩˩-dʑo˩ | ɬo˧kɤ˧-ɬi˥ɲi˩ | mɤ˧-ʁɑ˧-hĩ˧-tʰv̩˧ | ɖɯ˧kʰwɤ˥-lɑ˩ dzɯ˩-kv̩˩ mæ˩! | v̩˩dʑɯ˩ ʈʰɯ˩˥! |  
 %Utterance ID: BENEVOLENCE.39 
 %Transcription automatique : mmm…tʰi˩˥ | hĩ˧ | njæ˧sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥ |  
-mmm…tʰi˩˥ | hĩ˧ | njæ˧sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥ |  
 
+zo˩mv̩˥ pʰv̩˩ɖɯ˩! | hĩ˧mo˥-hĩ˩ pʰv̩˩ɖɯ˩! | hĩ˧bæ˧ pʰv̩˥ɖɯ˩! | õ˧-ʈʂʰɯ˧ne˧-ʝi˥, | ə˧ʝi˧-ʂɯ˥ʝi˩! | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | njɤ˧ | ɑ˩ʁo˥ | zo˩no˥ | njæ˧sɯ˩kv̩˩ | æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, | tɕi˩-ʁo˩to˥, | 
 %Utterance ID: BENEVOLENCE.40 
 %Transcription automatique : zo˩nv̩˥pʰv̩˧ɖɯ˩hĩ˧mo˧˩tʰv̩˧ʈʰɯ˧ | hĩ˧bæ˧pʰv̩˧ɖɯ˧ | õ˩ʈʂʰɯ˧ne˧ə˧ʝi˧ʂɯ˥ʝi˩ | æ̃˩˥ɖɯ˧mi˧qʰwɤ˥ | njɤ˧ | ɑ˩ʁo˧zo˩no˥ | njæ˧sɯ˩kv̩˩ | hæ˧mv̩˧go˧ɲi˧so˧kv̩˩ 
-zo˩nv̩˥pʰv̩˧ɖɯ˩hĩ˧mo˧˩tʰv̩˧ʈʰɯ˧ | hĩ˧bæ˧pʰv̩˧ɖɯ˧ | õ˩ʈʂʰɯ˧ne˧ə˧ʝi˧ʂɯ˥ʝi˩ | æ̃˩˥ɖɯ˧mi˧qʰwɤ˥ | njɤ˧ | ɑ˩ʁo˧zo˩no˥ | njæ˧sɯ˩kv̩˩ | hæ˧mv̩˧go˧ɲi˧so˧kv̩˩ 
+%Vérifié : n'est pas /ɖɯ˧-mi˩ qʰo˩-ɻ˩/.
+%/tɕi˩-ʁo˩to˥/: 小的时候, 'quand nous étions petits'
 
+əəə... hĩ˧mo˥-hĩ˩, ʐv̩˩kv̩˩. | ʈʂʰɯ˧-tæ˩... | njæ˧sɯ˩kv̩˩ | so˩-kv̩˩˥, | æ̃˩ʂe˥ | dzɯ˧-mɤ˧-kv̩˩! | kʰɯ˧tsʰɤ˧ tʰv̩˧-ɭɯ˧-lɑ˩ ɖɯ˩-kv̩˩! | 
 %Utterance ID: BENEVOLENCE.41 
 %Transcription automatique : tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ | hĩ˧mo˧ʐv̩˩kv̩˩ | ʈʂʰɯ˧dʑtʰi˩˥ | njæ˧sɯ˩kv̩˩ | so˩kv̩˥ | æ˩ʂe˥dzɯ˩mɤ˩kwɤ˩ | kʰɯ˧tsʰɤ˧˥ | ʈʂʰɯ˧lɑ˩ɖɯ˩kv̩˩ |  
-tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ | hĩ˧mo˧ʐv̩˩kv̩˩ | ʈʂʰɯ˧dʑtʰi˩˥ | njæ˧sɯ˩kv̩˩ | so˩kv̩˥ | æ˩ʂe˥dzɯ˩mɤ˩kwɤ˩ | kʰɯ˧tsʰɤ˧˥ | ʈʂʰɯ˧lɑ˩ɖɯ˩kv̩˩ |  
+%dʐcoupæge vʐrifiʐ : /hĩ˧mo˥-hĩ˩, ʐv̩˩kv̩˩/ un seul groupe.
+%ɖɯ˧-tæ˧˥ 'une génération': emprunt au chinois; ton : MH1.
+Les vieux, il y en avait quatre. Cette génération... nous autres, nous trois, on ne mangeait pas de viande de poulet ! On n'avait que les pattes! (=partie sans viande, qu'on grignote sans guère de profit)
 
+ɬo˩kɤ˩˥, | mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧-lɑ˩ ɖɯ˩-kv̩˩! | zo˧mv̩˥zo˩-lɑ˩ | hĩ˧mo˥-hĩ˩-ki˩ | zo˩no˧-ne˩ | | ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ dzɯ˧-mɤ˧-kv̩˩! | le˧-bv̩˧~bv̩˧! | hĩ˧mo˥-hĩ˩-ki˩, | æ̃˩ʈʂæ˩˥ | <ʈʂʰɯ˧...> | ɖɯ˧-ʈʂæ˧˥. |  
 %Utterance ID: BENEVOLENCE.42 
+sept minutes sur enrt
+%/mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧/: cette expression porte un ton H flottant: //mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ#˥//; donne : /mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧ ɲi˥/.
 %Transcription automatique : so˩kɤ˩˥ | lɑ˧ʁɑ˧tʰv̩˧kʰwɤ˥æ˩ɖɯ˧kʰv̩˩ | zo˧mv̩˥zo˩lɑ˩ | hĩ˧mo˧hĩ˩ki˩ | zo˩no˧ | njɤ˧i˩ | ɖɯ˧tɑ˧˥ | tɑ˩ho˧dzɯ˩mɤ˩kv̩˩ | le˧bv̩˧bæ˩ | hĩ˧mo˥hĩ˩ki˩ | æ˧ʈʂæ˧ʈʂʰɯ˧ | ʈʂʰɯ˧ʈʂæ˧ |  
-so˩kɤ˩˥ | lɑ˧ʁɑ˧tʰv̩˧kʰwɤ˥æ˩ɖɯ˧kʰv̩˩ | zo˧mv̩˥zo˩lɑ˩ | hĩ˧mo˧hĩ˩ki˩ | zo˩no˧ | njɤ˧i˩ | ɖɯ˧tɑ˧˥ | tɑ˩ho˧dzɯ˩mɤ˩kv̩˩ | le˧bv̩˧bæ˩ | hĩ˧mo˥hĩ˩ki˩ | æ˧ʈʂæ˧ʈʂʰɯ˧ | ʈʂʰɯ˧ʈʂæ˧ |  
 
+ʂe˧nɑ˩ | ɖɯ˧-kʰwɤ˥! | <pʰv̩˧...> | ʁɑ˧pʰv̩˧ tʰv̩˧-kʰwɤ˥ | mmm... ɖɯ˧-kʰwɤ˥ tʰi˩-kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.43 
 %Transcription automatique : ʂɯ˧nɑ˩ɖɯ˧kʰwɤ˩ | fɯ˧ | əɑ˧tʰv̩˧tʰv̩˧kʰwɤv̩˥ | ɖɯ˧kʰwɤ˥tʰikʰ˩tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̍˩tʰi˩ki˩ | ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |  
-ʂɯ˧nɑ˩ɖɯ˧kʰwɤ˩ | fɯ˧ | əɑ˧tʰv̩˧tʰv̩˧kʰwɤv̩˥ | ɖɯ˧kʰwɤ˥tʰikʰ˩tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̍˩tʰi˩ki˩ | ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |  
+cou de poulet
 
+zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tv̩˩ɭɯ˥ tʰv̩˩-ʝi˩-ɭɯ˩ tʰi˩-ki˩! | ĩ˧, | v̩˩dʑɯ˩˥ | le˧-qwæ˧˥, | õ˧-bv̩˥-õ˩ | ɖɯ˧-qʰwɤ˧˥ | tʰi˧-ki˧! |  
+%/tʰv̩˩-ʝi˩-ɭɯ˩/: réalisé proche de /tʰi˩-ʝi˩-ɭɯ˩/
+
+õ˧ʈʂʰɯ˧ne˧ʝi˥, | zo˩no˥, | əəə… hĩ˧mo˥-hĩ˩-lɑ˩ | zo˧mv̩˥zo˩ | hĩ˧bæ˧ pʰv̩˩ɖɯ˩-kv̩˩. | 
 %Utterance ID: BENEVOLENCE.44 
 %Transcription automatique : õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩z˩no˥ | əəə…hĩ˩mo˧ɲi˩lɑ˩ | zo˩mv̩˥zo˩ | hĩ˧bæ˩pʰv̩˩ | pi˧kv̩˩ | hĩ˧bæ˧tsʰɯ˧˥ | pi˧tʰi˩˥ | zo˧mv̩˧zo˧ | ɑ˩pʰv̩˩sɯ˥ | tʰi˧dʑɤ˩bv̩˩kʰɯ˩ | õ 
-õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩z˩no˥ | əəə…hĩ˩mo˧ɲi˩lɑ˩ | zo˩mv̩˥zo˩ | hĩ˧bæ˩pʰv̩˩ | pi˧kv̩˩ | hĩ˧bæ˧tsʰɯ˧˥ | pi˧tʰi˩˥ | zo˧mv̩˧zo˧ | ɑ˩pʰv̩˩sɯ˥ | tʰi˧dʑɤ˩bv̩˩kʰɯ˩ | õ 
 
+hĩ˧bæ˧ tsʰɯ˧˥ | pi˧ | tʰi˩˥, | zo˧mv̩˥-zo˩ | <le˧...> ɑ˩pʰo˩-sɯ˥ | tʰi˧-dʑɤ˩bv̩˩-kʰɯ˩. |  
+
+mmm... hĩ˧mo˥-hĩ˩, | hĩ˧bæ˧-qɑ˩ | tʰi˧-dzi˩-kʰɯ˩. | hĩ˧bæ˧-lɑ˩ | hĩ˧mo˥-hĩ˩-sɯ˩ | hɑ˧ | tʰi˧-dzɯ˥-kʰɯ˩. | 
 %Utterance ID: BENEVOLENCE.45 
 %Transcription automatique : gv̩˧hi˥ | hĩ˧bæ˧qwæ˩ | tʰi˧dzi˩kʰɯ˩ | hi˧bæ˧lɑ˩ | hĩ˧ho˧hĩ˧ | sɯ˩qʰɑ˩ | tʰi˧dzɯ˥kʰɯ˩ | ʈʂʰɯ˩˥ | tʰv̩˧sɯ˩kv̩˩ | le˧dzɯ˧se˥kwɤ˩tɕɯ˩lɑ˩ | zo˧mv̩˥zo˩ | ə˧ki˩ | le˧jo˩ | pi˧ | wɤ˩zo˧mv̩˥zɑ˩ 
-gv̩˧hi˥ | hĩ˧bæ˧qwæ˩ | tʰi˧dzi˩kʰɯ˩ | hi˧bæ˧lɑ˩ | hĩ˧ho˧hĩ˧ | sɯ˩qʰɑ˩ | tʰi˧dzɯ˥kʰɯ˩ | ʈʂʰɯ˩˥ | tʰv̩˧sɯ˩kv̩˩ | le˧dzɯ˧se˥kwɤ˩tɕɯ˩lɑ˩ | zo˧mv̩˥zo˩ | ə˧ki˩ | le˧jo˩ | pi˧ | wɤ˩zo˧mv̩˥zɑ˩ 
+tʰi˧-dzɯ˥-kʰɯ˩ : tv
 
+tʰi˩˥, | tʰv̩˧-sɯ˩kv̩˩ | le˧-dzɯ˧-se˥-kwɤ˩tɕɯ˩-lɑ˩, | zo˧mv̩˥zo˩=ɻæ˩-ki˩: | le˧-jo˩! | pi˧, | wɤ˩˥ | zo˧mv̩˥-zo˩=ɻæ˩ tʰi˧-dzɯ˥-kʰɯ˩! |
+
+tʰi˧-no˥, | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧-ə˧mi˧ | njæ˧sɯ˩kv̩˩ dzɯ˩, | hɑ˧dʑo˩ | so˩-pæ˩˥ | dzɯ˧-kv̩˩, | ə˧ʝi˧ʂɯ˥ʝi˩. | 
 %Utterance ID: BENEVOLENCE.46 
 %Transcription automatique : tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | zo˩no˧se˥ | qʰɑ˩jɤ˩le˩tsʰɯ˥ | tv̩˩ho˥dzɯ˩ | əəə…zo˩ 
-tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | zo˩no˧se˥ | qʰɑ˩jɤ˩le˩tsʰɯ˥ | tv̩˩ho˥dzɯ˩ | əəə…zo˩ 
+%/tʰi˧-no˥/: le schéma tonal paraît être M.H, non L.H; et une réalisation lente et soignée comme /tʰi˩˥ | -no˧˥/ ne convient pas à la locutrice.
+on faisait trois services ! (reporter ds le dictionnaire yyyy)
 
+zo˩no˧se˥, | qʰɑ˩jɤ˩ le˩-tsʰɯ-ɻ˥, | tɑ˧ho˧ dzɯ˩! | 
 %Utterance ID: BENEVOLENCE.47 
 %Transcription automatique : zo˩hĩ˧bæ˩ | ʐæ˩ʂæ˥hĩ˩dʑo˩˥ | ʐæ˩ʂæ˧ | mɤ˧ɲi˩ze˩dʑo˩ | əəə…zo˩no˥ | õ˧hĩ˧lɑ˩ɲi˩ze˩ | qʰɑ˩qʰwæ˩dʑo˥ | hĩ˧bæ˩le˩ʁɑ˥ | ʐæ˩ʂæ˥ | tsɯ˩to˧ | hĩ˧mæ˩sɯ˩dzɯ˧kʰɯ˩ | hĩ˧bæ˧so˩ | pʰv̩˩ɖɯ˧ʝi˥ | õ˧ʈʂʰɯ˧ne˧ 
-zo˩hĩ˧bæ˩ | ʐæ˩ʂæ˥hĩ˩dʑo˩˥ | ʐæ˩ʂæ˧ | mɤ˧ɲi˩ze˩dʑo˩ | əəə…zo˩no˥ | õ˧hĩ˧lɑ˩ɲi˩ze˩ | qʰɑ˩qʰwæ˩dʑo˥ | hĩ˧bæ˩le˩ʁɑ˥ | ʐæ˩ʂæ˥ | tsɯ˩to˧ | hĩ˧mæ˩sɯ˩dzɯ˧kʰɯ˩ | hĩ˧bæ˧so˩ | pʰv̩˩ɖɯ˧ʝi˥ | õ˧ʈʂʰɯ˧ne˧ 
+Aujourd'hui, quel que soit le nombre de personnes qui vient, on mange tous ensemble!
 
+əəə... zo˩no˥, | hĩ˧bæ˧ | ʐæ˩ʂæ˥-hĩ˩, | dʑɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ | mɤ˧-ɲi˩-ze˩-dʑo˩, | əəə… zo˩no˥, | õ˧-hĩ˥-lɑ˩ ɲi˩-ze˩, | qwæ˩~qwæ˧ tsæ˥-ɲi˩! | 
+%/qwæ˩~qwæ˧ tsæ˥-ɲi˩/ : on sert le riz en puisant soi-même dans la marmite ?
 %Utterance ID: BENEVOLENCE.48 
 %Transcription automatique : kv̩˩kv̩˩mæ˩ | zo˩no˥ə˧tso˧ɲi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | pi˧ | tɕi˧ĩ˧tsɯ˩ɖɯ˧v̩˧tsʰɯ˩zo˩ | ʐæ˧li˧tʰv̩˧zo˩ | tʰi˧ɖɯ˧v̩˧tsɯ˩ | zo˩ | no˧ |  
 kv̩˩kv̩˩mæ˩ | zo˩no˥ə˧tso˧ɲi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | pi˧ | tɕi˧ĩ˧tsɯ˩ɖɯ˧v̩˧tsʰɯ˩zo˩ | ʐæ˧li˧tʰv̩˧zo˩ | tʰi˧ɖɯ˧v̩˧tsɯ˩ | zo˩ | no˧ |  
 
+hĩ˧bæ˧ <le˧-> | wɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ tsʰɯ˩, | pi˧, | hĩ˧bæ˩-sɯ˩ | dzɯ˧-kʰɯ˩! | hĩ˧bæ˧-sɯ˩ | pʰv̩˧ɖɯ˧ ʝi˥! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩ mæ˩! |
+
+zo˩no˥, | əəə... ə˧tso˧ ɲi˩? | ə˧ʝi˧ʂɯ˥ʝi˩ | pe˩tɕi˧ ɲi˥ tsʰɯ˩ | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩, | mmm... ʐæ˧v̩˩ tʰv̩˩-zo˩! | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩. | no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | no˧˥ | ʈʂo˧kwɤ˩ | <ɖɯ˧-kw...> ɖɯ˧-gi˧ gwɤ˥-dʑɯ˩-hĩ˩ ɖɯ˩-v̩˩ ɲi˩, tsɯ˩-zo˩, | ɖɯ˧-hɑ̃˧-ɻ˥, | ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ mv̩˩. |
+huit minutes
+游了半个中国的
 %Utterance ID: BENEVOLENCE.49 
 %Transcription automatique : ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˩tsʰɯ˩qo˥ | ɲi˩gv̩˩gv̩˥ɲi˥tsɯ˩ | mv̩˩ | zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
-ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˩tsʰɯ˩qo˥ | ɲi˩gv̩˩gv̩˥ɲi˥tsɯ˩ | mv̩˩ | zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
 
+ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩, | əəə… | zo˩no˥ | u˥-ʈæ˧ʂɯ˧-ɳɯ˧ | tɕɯ˩hĩ˩˥ | ə˧hɑ˩bɑ˩lɑ˩<-qo˩> | gwɤ˩-hĩ˩ tʰv̩˩-kʰwɤ˩˥ | ɬi˩ʈɯ˩mæ˥ | tʰi˧-hĩ˧˥ | tʰv̩˧-kʰwɤ˧ gwɤ˥ mv̩˩! | ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ pi˧-zo˥! |  
 %Utterance ID: BENEVOLENCE.50 
 %Transcription automatique : ʁæ˧mɤ˧ki˧tsʰɯ˧dʑo˩ | əəə… | zo˩no˥ | ʁo˧æ˧ʂɯ˧le˧tɕɯ˩hĩ˩ | ˧hɑ˩bɑ˧lɑ˧qo˧ | gv̩˩hĩ˩tʰv̩˧kʰv̩˥ | ɬi˩ʈɯ˩mæ˩˥ | tʰi˧hĩ˧˥ | tʰv̩˧kʰwɤ˧bv̩˥˩ | ə˧mɑ˧ | ɑ˩mv̩˩tsɯ˩ɲi˩ |  
-ʁæ˧mɤ˧ki˧tsʰɯ˧dʑo˩ | əəə… | zo˩no˥ | ʁo˧æ˧ʂɯ˧le˧tɕɯ˩hĩ˩ | ˧hɑ˩bɑ˧lɑ˧qo˧ | gv̩˩hĩ˩tʰv̩˧kʰv̩˥ | ɬi˩ʈɯ˩mæ˩˥ | tʰi˧hĩ˧˥ | tʰv̩˧kʰwɤ˧bv̩˥˩ | ə˧mɑ˧ | ɑ˩mv̩˩tsɯ˩ɲi˩ |  
+%/u˥-ʈæ˧ʂɯ˧-ɳɯ˧/: 我家达石; tons inattendus : semble être comme un ton H en début de groupe. Accent d'insistance systématiquement associé à ce mot? yyyy Temporairement noté 
 
+mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. | tʰi˩˥ | so˧ɲi˥ | no˧-qɑ˧<ʁɑ˧> ʝi˥-qɑ˩-bi˩, | <tsɯ˧... əəə...> | lo˧ʝi˧ qɑ˩-bi˩ tsɯ˩ | -mv̩˩. |
+nɚest pæs: /*le˧-gwɤ˩-ze˩-dʑo˩/.
 %Utterance ID: BENEVOLENCE.51 
 %Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
-hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
 
+ tʰi˩˥ | əəə… njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˧ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧! | xxxx reprendre ici zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧ | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
 %Utterance ID: BENEVOLENCE.52 
 %Transcription automatique : dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧ | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
-dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧ | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
+
 
 %Utterance ID: BENEVOLENCE.53 
 %Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | æ˧tsʰɯ˩dʑo˩ | ɲi˧zɯ˧tʰv̩˧ | lo˧ʂv̩˩˧ | le˧tsʰɯ˩ 
