@@ -570,82 +570,97 @@ mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo�
 %Utterance ID: BENEVOLENCE.51 
 %Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
 
- tʰi˩˥ | əəə… njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˧ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧! | xxxxxx reprendre ici zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧ | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
+ tʰi˩˥ | əəə… njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˧ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧! | no˧ tʰv̩˧-qo˧ | tʰi˩˥ | əəə…njɤ˧-ki˩ dzi˩-ze˩, | tʰi˧-dzi˩, | pi˧-. | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
 %Utterance ID: BENEVOLENCE.52 
-%Transcription automatique : dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧ | ə˧mɑ˧ | no˧ki˩ | ɖɯ˧kv̩˧ɲi˩tʰi˧dzɯ˧bi˧tsɯ˩ | mv̩˩ | tsʰ 
+%Transcription automatique : dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧-dʑo˩, | ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-<kv̩˧>ɲi˧-ɲi˧ tʰi˧-dzɯ˧-bi˧˥! | tsɯ˧˥ | mv̩˩. |
 
-
+tsɤ˧ʝi˧! | pi˧-ɲi˩ mæ˩, ə˩-gi˩! | tsɤ˧ʝi˧, | pi˧ | dɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥ | -dʑo˩ | hɯ˧-ze˧, | v̩˧tɕʰɤ˩ bi˩-tso˩-ɲi˩! | tsɯ˧˥, | hɯ˧ | le˧-tsʰɯ˩ | mv̩˩. | 
 %Utterance ID: BENEVOLENCE.53 
 %Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | æ˧tsʰɯ˩dʑo˩ | ɲi˧zɯ˧tʰv̩˧ | lo˧ʂv̩˩˧ | le˧tsʰɯ˩ 
-ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | æ˧tsʰɯ˩dʑo˩ | ɲi˧zɯ˧tʰv̩˧ | lo˧ʂv̩˩˧ | le˧tsʰɯ˩ 
 
+le˧-tsʰɯ˩-dʑo˩ | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩... -ɲi˩ tsɯ˩, |
+
+ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | <ʐv̩˧-mi˥...> | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! | ʯə˧mɑ˧ | tʰi˧-tɕɤ˧-ɻ̍˥!ʯ tsɯ˩ | mv̩˩. | 
 %Utterance ID: BENEVOLENCE.54 
 %Transcription automatique :  | i˧tsɯ˧ | ʈʂʰɖɯ˧ti˩ʈʰo˩ɖɯ˩dʑɯ˩ | ʐv̩˧ | ŋwɤ˧ni˥wæ˩tʰv̩˧po˩m˩ | ə˧mɑ˧ | tʰi˧tɕɤ˧ɻ̍˧tsɯ˩ | mv̩˩ | tʰi˩˥ | tʰi˧tɕɤ˩ɲi˥mæ˩dʑo˩ | tʰææ̃˧ 
- | i˧tsɯ˧ | ʈʂʰɖɯ˧ti˩ʈʰo˩ɖɯ˩dʑɯ˩ | ʐv̩˧ | ŋwɤ˧ni˥wæ˩tʰv̩˧po˩m˩ | ə˧mɑ˧ | tʰi˧tɕɤ˧ɻ̍˧tsɯ˩ | mv̩˩ | tʰi˩˥ | tʰi˧tɕɤ˩ɲi˥mæ˩dʑo˩ | tʰææ̃˧ 
 
+tʰi˩˥, | əəə... tʰi˧-tɕɤ˧-ɲi˥ mæ˩, ə˩-gi˩! | tʰææ̃˧ | tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | tʰi˩˥ | ʈʂʰɯ˩ 
 %Utterance ID: BENEVOLENCE.55 
-%Transcription automatique : tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | tʰi˩˥ | ʈʂʰɯ˩ 
-tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | tʰi˩˥ | ʈʂʰɯ˩ 
+%Transcription automatique : tʰv̩˧ɲi˧, | ə˧mɑ˧-ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧-hĩ˧bæ˧ | ɖɯ˧so˩-kv̩˩ tʰi˩-dʑo˩. | ɲi˧zo˧ | tʰi˧-tɕɤ˧˥ | -dʑo˩, | no˧-tɑ˧kɤ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥ | dɯ˧-dzɯ˥-ɳɯ˩ | le˧-se˩-kʰɯ˩ | mv̩˩! |
 
+tʰi˩˥ | ʈʂʰɯ˧-sɯ˩kv̩˩-ɳɯ˩ | ʐæ˧~ʐæ˩-ɻ̍˩ mv̩˩! | njɤ˧-ki˧: | ʯno˧ | hĩ˧bæ˧ | tʰv̩˧-v̩˧-dʑo˩, | ə˧tso˧ hĩ˧bæ˧ ɲi˧?ʯ |
 %Utterance ID: BENEVOLENCE.56 
 %Transcription automatique : sɯ˧tʰv̩˧kʰv̩˧ɳɯ˩ | ʐæ˧ʐæ˩hɻ̍˩mv̩˩ | le˧ki˥ | no˧ | hĩ˧bæ˧ | tʰv̩˧v̩˧dʑo˩ | ə˩tso˩ | hĩ˧bæ˧ni˧ | kæ˧sɯ˩kv̩˩ki˩ | le˧dzɯ˥ | mɤ˧dzɯ˩lo˥ | əsɯ˩kv̩˩sɯ˩ | dzɯ˧ | mɤ˧jɤi˧dʑo˥ | no˧tɑ˩ʈv̩˥ | ə˧dzɯ˧ | le˧se˩hɯ˩ze˩ |  
-sɯ˧tʰv̩˧kʰv̩˧ɳɯ˩ | ʐæ˧ʐæ˩hɻ̍˩mv̩˩ | le˧ki˥ | no˧ | hĩ˧bæ˧ | tʰv̩˧v̩˧dʑo˩ | ə˩tso˩ | hĩ˧bæ˧ni˧ | kæ˧sɯ˩kv̩˩ki˩ | le˧dzɯ˥ | mɤ˧dzɯ˩lo˥ | əsɯ˩kv̩˩sɯ˩ | dzɯ˧ | mɤ˧jɤi˧dʑo˥ | no˧tɑ˩ʈv̩˥ | ə˧dzɯ˧ | le˧se˩hɯ˩ze˩ |  
 
+ ə˧sɯ˩kv̩˩-ki˩ | le˧-dzɯ˥ | mɤ˧-tsɯ˧-zo˥! | ə˧sɯ˩kv̩˩-se˩, | dzɯ˧ | mɤ˧-ʝi˧-dʑo˥! | no˧-tɑ˧kɤ˥ | le˧-dzɯ˥ | le˧-se˩-hɯ˩-ze˩! |  
+ 
+ə˧-sɯ˩kv̩˩ ɑ˩ʁo˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩, | mɤ˧-fv̩˧ ɖɯ˧v̩˧ ɲi˩ tsɯ˩ wɤ˩! | əəə…tʰi˩˥, | gɯ˩-ʝi˥, | no˧ tsʰɯ˧ kwɤ˧tɕɯ˥-lɑ˩, | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧ | no˧ tsʰɯ˧, | no˧-ɳɯ˧: | ʯe! ʈʂʰɯ˧-v̩˧ le˧-dzɯ˥! | e!ʯ
 %Utterance ID: BENEVOLENCE.57 
 %Transcription automatique : ə˧sɯ˩kv̩˩ | ɑ˩ʁo˧ɖʐi˩ʈʂʰɯ˩tsv̩˩ni˥dʑo˩ | mɤ˧sɯ˩ɖɯ˩v̩˩ɲi˩ʝi˩tsɯ˩mv̩˩ | əəə…tʰi˩˥ | dʑi˩ | nɑ˧tsʰɯ˧ | kwɤ˩tɕɯ˥lɑ˩ | njæ˧sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧˥zo˧tsʰɯ˧no˧ɳɯ˥ | tsʰo˧v̩˧le˧dzi˩ |  
-ə˧sɯ˩kv̩˩ | ɑ˩ʁo˧ɖʐi˩ʈʂʰɯ˩tsv̩˩ni˥dʑo˩ | mɤ˧sɯ˩ɖɯ˩v̩˩ɲi˩ʝi˩tsɯ˩mv̩˩ | əəə…tʰi˩˥ | dʑi˩ | nɑ˧tsʰɯ˧ | kwɤ˩tɕɯ˥lɑ˩ | njæ˧sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧˥zo˧tsʰɯ˧no˧ɳɯ˥ | tsʰo˧v̩˧le˧dzi˩ |  
 
+ə˧mɑ˧! | no˧ | tsʰɯ˧-v̩˧ -dʑo˩, | fɑ˧kwɤ˧-hĩ˧ tʰv̩˧-v̩˥-dʑo˩, | no˧ zo˧ tʰv̩˧-v̩˧ dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ ɖɯ˧-v̩˧! | õ˧˥ | mɤ˧-dzɯ˥, | hĩ˧-ki˧ sɯ˩ ki˩! | zo˩no˥ | ʁo˧dɑ˧ | no˧-ki˩ | ɖɯ˧-v̩˧ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ ɲi˥ pi˩ | tʰv̩˧-v̩˧-se˥, |  
 %Utterance ID: BENEVOLENCE.58 
+gv̩˧-hĩ˧ ɖɯ˧v̩˧! ævec ɲi˩: /gv̩˧-hĩ˧ ɖɯ˧v̩˧ ɲi˩./
 %Transcription automatique : ə˧lɑ˧ | no˧tsʰɯ˧v̩˧dʑo˩ | hwæ˧kv̩˧ | hĩ˧tʰv̩˧v̩˥dʑo˩ | nv̩˧zo˧tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥gv̩˩ | ɖɯ˧v̩˧ | ɑ˥ | ŋɑ˩dzɯ˩ | hĩ˧ki˧sɯ˩ki˩ | zɯ˩lo˥ | ʁv̩˧dɑ˥ | no˧ki˩ | ɖɯ˧v̩˧tsʰɯ˩ | pi˩tɕi˥ĩ˧ɲi˥pi˩tʰv̩˧v̩˧ |  
-ə˧lɑ˧ | no˧tsʰɯ˧v̩˧dʑo˩ | hwæ˧kv̩˧ | hĩ˧tʰv̩˧v̩˥dʑo˩ | nv̩˧zo˧tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥gv̩˩ | ɖɯ˧v̩˧ | ɑ˥ | ŋɑ˩dzɯ˩ | hĩ˧ki˧sɯ˩ki˩ | zɯ˩lo˥ | ʁv̩˧dɑ˥ | no˧ki˩ | ɖɯ˧v̩˧tsʰɯ˩ | pi˩tɕi˥ĩ˧ɲi˥pi˩tʰv̩˧v̩˧ |  
 
+ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩? | õ˧-bv̩˥-õ˩ | tʰi˧-ɻ˩-kʰɯ˩, | dzɯ˧-zo˥, | ə˩-gi˩! | tsɯ˧-zo˥! | æ˧ʂæ˧qʰwɤ˧-ʝi˥-zo˩ | wɤ˩˥, | no˧ ʐwɤ˧-dʑo˧-ɲi˥! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩! | no˩-dʑo˥, | ɖwæ˧˥ | gv̩˧! | tsɯ˩ | mv̩˩, | æ˧ʂæ˧! |
 %Utterance ID: BENEVOLENCE.59 
 %Transcription automatique : tʰi˩˥ə˧tso˧hĩ˧ | ɖɯ˧v̩˧ɲi˩ | õ˧do˥ | tʰæ˧kʰɯ˩ | dzɯ˧zɑ˥ | əgi˩tso˧zo˩ | æ˧ʂæ˧qʰwɤ˧zo˩ | nɑ˧ʐwɤ˧dʑo˧ɲi˥ | ə˧sɯ˧kv̩˩zɯ˩ | no˩dʑo˥ | ɖwæ˧˥ | gv̩˧tsɯ˩ | mv̩˩ | æ˧ʂæ˧ | ɬɑ˧ 
-tʰi˩˥ə˧tso˧hĩ˧ | ɖɯ˧v̩˧ɲi˩ | õ˧do˥ | tʰæ˧kʰɯ˩ | dzɯ˧zɑ˥ | əgi˩tso˧zo˩ | æ˧ʂæ˧qʰwɤ˧zo˩ | nɑ˧ʐwɤ˧dʑo˧ɲi˥ | ə˧sɯ˧kv̩˩zɯ˩ | no˩dʑo˥ | ɖwæ˧˥ | gv̩˧tsɯ˩ | mv̩˩ | æ˧ʂæ˧ | ɬɑ˧ 
+ʯno˩-dʑo˥: tons vʐrifiʐs
+æ˧ʂæ˧qʰwɤ˧ tsɤ˧-ɲi˥-ze˩ mæ˩! 'c'est devenu de l'histoire / c'est passé dans la tradition orale!'
+Il mangeait tout seul, dans son coin!
 
+ə˧mɑ˧-ki˩... tsʰi˩-hĩ˩, | ɖɯ˧-tɑ˧˥ | no˧ do˧-hĩ˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | ə˩-gi˩! | no˧-ɳɯ˧ | pʰi˧ko˥ | ɖɯ˧-kʰwɤ˥ hæ̃˩, | wɤ˩˥ | ʯə˧mɑ˧ dzɯ˧! | əəə… ki˧zo˧ dzɯ˧! | ɖɯ˩mɑ˧ dzɯ˧ tsɯ˩-mɤ˩-tsɯ˩, | ə˩-gi˩! | wɤ˩˥ | hĩ˧bæ˧-ki˧ | no˧-ɳɯ˧ | le˧-hæ̃˩[~hæ̃˩] | tʰi˧-ki˧ hɯ˧-mɤ˧-hɯ˩! |
 %Utterance ID: BENEVOLENCE.60 
 %Transcription automatique : mɤ˧ki˩ | tsʰi˩ | ɖɯ˧tɑ˥ | mo˧do˧ʈʂʰe˧ne˩gi˩ | no˧le˧tʰi˧kv̩˥ɖɯ˩kʰv̩˥æ̃˩ʁwɤ˩ | ə˧mɤ˧dzɯ˧ | əəə…ki˧zo˧dzɯ˩ | ɖɯ˩mɤ˧dzɯ˧tsɯ˩mi˩tsæ˩ | ə˩gi˩ | wɤ˩˥ | hi˧bæ˧tɕi˩ | no˧ʝi˥ | le˧hĩ˧ | tʰi˧ki˧ |  
-mɤ˧ki˩ | tsʰi˩ | ɖɯ˧tɑ˥ | mo˧do˧ʈʂʰe˧ne˩gi˩ | no˧le˧tʰi˧kv̩˥ɖɯ˩kʰv̩˥æ̃˩ʁwɤ˩ | ə˧mɤ˧dzɯ˧ | əəə…ki˧zo˧dzɯ˩ | ɖɯ˩mɤ˧dzɯ˧tsɯ˩mi˩tsæ˩ | ə˩gi˩ | wɤ˩˥ | hi˧bæ˧tɕi˩ | no˧ʝi˥ | le˧hĩ˧ | tʰi˧ki˧ |  
 
+hɤ! tʰv̩˧-v̩˧-dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ | ɖɯ˧-v̩˧ ɲi˩! | ə˧-sɯ˩kv̩˩ | nɑ˩-ne˥-ʝi˩ gv̩˩! | tʰv̩˧-v̩˧-se˥ | gɯ˩-ʝi˥ | hæ˧-ne˩-ʝi˩ gv̩˩! | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩ tsɯ˩?ʯ | ʐæ˧~ʐæ˩-ɻ˩, | zo˩no˥, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-di˩ dʑo˩-ɲi˥ mæ˩! |
 %Utterance ID: BENEVOLENCE.61 
 %Transcription automatique : mo˧mæ˩ | dʑi˩tʰv̩˧sɯ˩kv̩˩ɳɯ˩ĩ˧ | tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥ | gv̩˩hĩ˧ | ɖɯ˧v̩˧ɲi˧ | ə˧sɯ˩kv̩˩ | ˩mæ˩ne˥gv̩˩ | tʰɯ˧v̩˧se˥ | gi˩ʝi˥ | hæ˧le˧gv̩˩ | ə˧tso˧hĩ˧ | ɖɯ˧mi˧tsʰɯ˩ | læ˧ʐɯ˩ | zo˩no˥ | qo˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˧dʑɯ˩dʑo˧ɲi˥mæ˩ | hĩ˧ |  
-mo˧mæ˩ | dʑi˩tʰv̩˧sɯ˩kv̩˩ɳɯ˩ĩ˧ | tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥ | gv̩˩hĩ˧ | ɖɯ˧v̩˧ɲi˧ | ə˧sɯ˩kv̩˩ | ˩mæ˩ne˥gv̩˩ | tʰɯ˧v̩˧se˥ | gi˩ʝi˥ | hæ˧le˧gv̩˩ | ə˧tso˧hĩ˧ | ɖɯ˧mi˧tsʰɯ˩ | læ˧ʐɯ˩ | zo˩no˥ | qo˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˧dʑɯ˩dʑo˧ɲi˥mæ˩ | hĩ˧ |  
+%/nɑ˩-ne˥-ʝi˩ gv̩˩!/: fortement réduit, comme une syllabe /ni/, mais la forme 'ancienne', complète, est tj reconnue comme telle par Ama. 
 
+hĩ˧ | ʈʂʰɯ˧-dʑo˩, | hĩ˩ ʐwɤ˩˥! | pi˧-dʑo˩, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-ɲi˥ mæ˩: | hĩ˧-ʈʂʰɯ˧ | dʑɤ˩ ʝi˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | dzɑ˧-ʝi˧ | pi˧, | hĩ˧-ɳɯ˩ ʐwɤ˩-kv̩˩! | pi˧. | dzɑ˧ ʝi˧-bi˧ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! | dʑɤ˩ʝi˧bi˥ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! |
 %Utterance ID: BENEVOLENCE.62 
 %Transcription automatique : ʈʂʰɯ˧dʑo˩ | hĩ˧ʐwɤ˩˥ | pi˧dʑo˩õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩ | hĩ˧ʈʂʰɯ˧ | dʑɤ˩ʝi˧ | pi˧dʑo˩ | hĩ˧ɳɯ˧ | ʐwɤ˩kv̩˩˥ | dzɑ˧ʝi˧ | pi˧ | hĩ˧ni˩ʐwɤ˩kv̩˩ | pi˧ | dzɑ˧ʝi˧bi˧ | hĩ˩˧ɳɯ˩ | ʐwɤ˩ | dʑɤ˩ʝi˧bi˥ | hĩ˧ɳɯ˧ | ʐwɤ˧˥ 
-ʈʂʰɯ˧dʑo˩ | hĩ˧ʐwɤ˩˥ | pi˧dʑo˩õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩ | hĩ˧ʈʂʰɯ˧ | dʑɤ˩ʝi˧ | pi˧dʑo˩ | hĩ˧ɳɯ˧ | ʐwɤ˩kv̩˩˥ | dzɑ˧ʝi˧ | pi˧ | hĩ˧ni˩ʐwɤ˩kv̩˩ | pi˧ | dzɑ˧ʝi˧bi˧ | hĩ˩˧ɳɯ˩ | ʐwɤ˩ | dʑɤ˩ʝi˧bi˥ | hĩ˧ɳɯ˧ | ʐwɤ˧˥ 
+dicton: no˧ | ɕi˩mi˩ tʰi˩-di˥, | hĩ˧-ki˧ | ʐwɤ˩-zo˩-kv̩˥! 'Tu as une langue, c'est pour t'en servir!' Dicton na ancien, pour dire qu'il ne faut pas se tenir coi. Ce qu'on ne sait pas, il faut le demander: /mv̩˩do˩ zo˩-ɲi˥ mæ˩!/
 
+hĩ˧ | ɖɯ˧-v̩˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ʐwɤ˧-di˧ mɤ˧-dʑo˧-hĩ˧-dʑo˩, | mɤ˧-dʑo˩-ɲi˩! | pi˧-ɲi˥ mæ˩, | æ˧ʂæ˧! | 
 %Utterance ID: BENEVOLENCE.63 
 %Transcription automatique : hĩ˧ | ɖɯ˧v̩˧ɳɯ˧ʈʂʰɯ˧dʑo˩ | ʐwɤ˧di˩ | mɤ˧dʑo˧ɭɯ˧dʑo˩ | mɤ˧dʑo˧ɲi˥ | pi˧ɲi˩mæ˩ | æ˧ʂæ˧æ˧ʂæ˧qʰwɤ˧˥ʈʂʰɯ˧ɳɯ˩ | zɯ˩no˥ | ʈʂʰɯ˧ɲi˥ze˩ | æ˧ʂæ˧ɳɯ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩ɳ | zo˩no˥ | ʂɯ˧ɲe˩mæ˩ | ne˧ | ʈʂʰɯ˧ne˧ |  
-hĩ˧ | ɖɯ˧v̩˧ɳɯ˧ʈʂʰɯ˧dʑo˩ | ʐwɤ˧di˩ | mɤ˧dʑo˧ɭɯ˧dʑo˩ | mɤ˧dʑo˧ɲi˥ | pi˧ɲi˩mæ˩ | æ˧ʂæ˧æ˧ʂæ˧qʰwɤ˧˥ʈʂʰɯ˧ɳɯ˩ | zɯ˩no˥ | ʈʂʰɯ˧ɲi˥ze˩ | æ˧ʂæ˧ɳɯ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩ɳ | zo˩no˥ | ʂɯ˧ɲe˩mæ˩ | ne˧ | ʈʂʰɯ˧ne˧ |  
 
+æ˧ʂæ˧qʰwɤ˧˥ F | ʈʂʰɯ˧-ɳɯ˩, | zo˩no˥ F | ʈʂʰɯ˧ ɲi˥-ze˩! | æ˧ʂæ˧-ɳɯ˧, | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | -ɳɯ˩, | zo˩no˥ | ʈʂʰɯ˧ ɲi˥ mæ˩! |
 %Utterance ID: BENEVOLENCE.64 
 %Transcription automatique : sɯ˧tsʰɯ˥ | dʑo˩ | tʰi˩˥ | njæ˧sɯ˩kv̩˩ | nɑ˩ʈʂʰɯ˥dʑo˩əəə…zo˧dʑo˧ | ʐv̩˧dʑo˧bi˩bi˩ | bi˩ | zo˩ | ne˩ɻ̍˥ | lo˩dʑo˩ʐv̩˩dʑo˧ʁobi˩bi˩ | hĩ˧mo˥sɯ˩ | dʑsɯ˩pʰo˧ɖɯ˧ |  
-sɯ˧tsʰɯ˥ | dʑo˩ | tʰi˩˥ | njæ˧sɯ˩kv̩˩ | nɑ˩ʈʂʰɯ˥dʑo˩əəə…zo˧dʑo˧ | ʐv̩˧dʑo˧bi˩bi˩ | bi˩ | zo˩ | ne˩ɻ̍˥ | lo˩dʑo˩ʐv̩˩dʑo˧ʁobi˩bi˩ | hĩ˧mo˥sɯ˩ | dʑsɯ˩pʰo˧ɖɯ˧ |  
 
+tʰi˩˥, | ʈʂʰɯ˧ne˧ʝi˥ se˩-dʑo˩, | njæ˧-sɯ˩kv̩˩ | nɑ˩-ʈʂʰɯ˥-dʑo˩, əəə… lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩-bi˩, | zo˩no˥, | njɤ˧ɻ̍˥ | lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩, | hĩ˧mo˥-hĩ˩ sɯ˩... <hĩ˧-sɯ˧> | pʰv̩˧ɖɯ˧˥! |  
+
+hĩ˧mo˥-hĩ˩-ki˩, | ɖwæ˧˥ | pʰv̩˧ɖɯ˧ ʝi˥-kv̩˩! | əəə… zo˧mv̩˥zo˩-ki˩ | pʰv̩˧ɖɯ˧ʝi˥-kv̩˩! | zo˩no˧ | njæ˧sɯ˩kv̩˩ | kʰv̩˧pʰæ˧ tɕi˩-hĩ˩, | zo˧mv̩˥ ə˩dɑ˩, | njæ˧-sɯ˩kv̩˩-dʑo˩, |  
 %Utterance ID: BENEVOLENCE.65 
 %Transcription automatique : hĩ˧mo˥ho˩ki˩ | ɖwæ˧˥ | pʰv̩˧bi˧˥kv̩˩ | əəə…zo˧mv̩˥zo˩ki˩ | pʰv̩˩ɖɯ˩ʝi˩kv̩˩ | zo˩no˧ | njæ˧sɯ˩kv̩˩ | kʰv̩˧pʰæ˥tɕo˩hĩ˧ | zo˧ŋv̩˥ | ə˧dɑ˩njæ˧əsɯ˩kv̩˩dʑo˩ |  
-hĩ˧mo˥ho˩ki˩ | ɖwæ˧˥ | pʰv̩˧bi˧˥kv̩˩ | əəə…zo˧mv̩˥zo˩ki˩ | pʰv̩˩ɖɯ˩ʝi˩kv̩˩ | zo˩no˧ | njæ˧sɯ˩kv̩˩ | kʰv̩˧pʰæ˥tɕo˩hĩ˧ | zo˧ŋv̩˥ | ə˧dɑ˩njæ˧əsɯ˩kv̩˩dʑo˩ |  
 
+zo˩no˥, | hɤ˩ ɲi˥! | zo˧mv̩˥ | gɤ˩-qwɤ˥ kʰɯ˩-tso˩-ɲi˩, | əəə… hĩ˧mo˥-hĩ˩ | le˧-mo˩-ɲi˩-ze˩, | njæ˧-sɯ˩kv̩˩ | le˧-ʐɤ˧ le˥-mo˩-ɲi˩-ze˩, | pi˧-zo˩. | hĩ˧mo˥-hĩ˩ pʰv̩˩ɖɯ˩ ʝi˩. | ʈʂʰɯ˧ne˧ʝi˥ kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥,  
 %Utterance ID: BENEVOLENCE.66 
 %Transcription automatique : zo˩no˥ | hɤ˩ɲi˥ | zo˧mi˥gɤ˩qo˥kʰɯ˩tso˩ɲi˩ | əəə…hĩ˧mo˥hĩ˩ | le˧mo˩ɲi˩ze˩ | njæ˧sɯ˩kv̩˩ | le˧ʐɤ˧ | le˧mo˩ɲi˩ze˩ | pi˧zo˩ | hĩ˧ŋo˥hõĩ˩ | kʰv̩˩ɖɯ˧ɬi˥ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ 
-zo˩no˥ | hɤ˩ɲi˥ | zo˧mi˥gɤ˩qo˥kʰɯ˩tso˩ɲi˩ | əəə…hĩ˧mo˥hĩ˩ | le˧mo˩ɲi˩ze˩ | njæ˧sɯ˩kv̩˩ | le˧ʐɤ˧ | le˧mo˩ɲi˩ze˩ | pi˧zo˩ | hĩ˧ŋo˥hõĩ˩ | kʰv̩˩ɖɯ˧ɬi˥ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ 
+Et c'est très bien ainsi ! 
 
+no˧=ɻ̍˩ | so˩, | njɤ˧=ɻ̍˩ so˩, | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩ | hĩ˧mo˥-hĩ˩ ki˩ | ɖɯ˧-pi˧˥ | pʰv̩˧ɖɯ˧ mɤ˧-ʝi˥-dʑo˩, | ʯno˧ | so˧-mɤ˧-ʁɑ˧-hĩ˧ | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥! | ə˧dɑ˧-ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ ʐɤ˧, | lɑ˩ jɤ˧ fv̩˧ mɤ˧-kv̩˩! |
 %Utterance ID: BENEVOLENCE.67 
 %Transcription automatique :  | tʰi˩˥ | no˧ɻ̍˩ | so˩ | njɤ˩ | ə˩so˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩z˩ | hĩ˧mo˥hĩ˩ki˩ | ɖɯ˧ti˧˥pʰv̩˧ɖɯ˧mɤ˧ʝi˥dʑo˩ | no˧ | so˧mɤ˧ʁɑ˧jɤ˧ʈʂʰɯ˧ɻ̍˩dʑo˩ | ʈʂʰɯ˧ | ne˧ | qʰɑ˧ʝi˥ | ə˧dɑ˧ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ʐɤ˧lɑ˩ | le˧sv̩˩ 
- | tʰi˩˥ | no˧ɻ̍˩ | so˩ | njɤ˩ | ə˩so˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩z˩ | hĩ˧mo˥hĩ˩ki˩ | ɖɯ˧ti˧˥pʰv̩˧ɖɯ˧mɤ˧ʝi˥dʑo˩ | no˧ | so˧mɤ˧ʁɑ˧jɤ˧ʈʂʰɯ˧ɻ̍˩dʑo˩ | ʈʂʰɯ˧ | ne˧ | qʰɑ˧ʝi˥ | ə˧dɑ˧ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ʐɤ˧lɑ˩ | le˧sv̩˩ 
+%Soigneusement vérifié : est /ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩/, ni /ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩-ɳɯ˩/ ni /ɖɯ˧-ʑi˩=ɻ̍˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩/.
+%/lɑ˩jɤ˧ fv̩˧ mɤ˧-kv̩˩!/: comme en chinois 不简单！父母养你不简单！ On peut dire aussi : lɑ˩jɤ˧ mɤ˧-fv̩˧-ɲi˥!
 
+ʯno˧-sɯ˩kv̩˩ | tʰi˧-ʑɤ˧-dʑo˧, | so˧hwɤ˩ | ɖɯ˧-ɲi˥ | no˧sɯ˩kv̩˩-ɳɯ˩ | dʑɤ˩ mɤ˧-ʝi˧, | <ə˧ʑi˧... | > õ˧-ə˧mi˥-ki˩, | õ˧-ə˧dɑ˥-ki˩, | dʑɤ˩ mɤ˧-ʝi˧!ʯ | pi˧. |
 %Utterance ID: BENEVOLENCE.68 
 %Transcription automatique : no˧mɤ˧kv̩˩ | no˧sɯ˩kv̩˩ | tʰi˧ʑɤ˧dʑo˧ | so˧hwɤ˩ | ɖɯ˧ɲi˩ | no˧sɯ˩kv̩˩ɳɯ˩ | dʑɤ˩mɤ˧ʝi˥ | ə˧ʑi | hõ˧əmi˧ki˧ | õ˧dɑ˥ | hi˩ | dʑɤ˩mɤ˧ʝi˧ | pi˧ | no˧sɯ˩kv̩˩zo˩nɑ˩ | ʁɑ˩ʂʈʂʰɯ˧ | dʑo˩ʝi˥ |  
-no˧mɤ˧kv̩˩ | no˧sɯ˩kv̩˩ | tʰi˧ʑɤ˧dʑo˧ | so˧hwɤ˩ | ɖɯ˧ɲi˩ | no˧sɯ˩kv̩˩ɳɯ˩ | dʑɤ˩mɤ˧ʝi˥ | ə˧ʑi | hõ˧əmi˧ki˧ | õ˧dɑ˥ | hi˩ | dʑɤ˩mɤ˧ʝi˧ | pi˧ | no˧sɯ˩kv̩˩zo˩nɑ˩ | ʁɑ˩ʂʈʂʰɯ˧ | dʑo˩ʝi˥ |  
-
+ 
+no˧-sɯ˩kv̩˩ zo˩mv̩˩, | ʁɑ˩ʂɯ˥ | dʑɤ˩ ʝi˧-mɤ˧-kv̩˩! | hĩ˧-ʈʂʰɯ˧, | hĩ˧mo˥-hĩ˩-ki˩ | dʑɤ˩ ʝi˧-zo˧-kv̩˩, | pi˧-zo˩! | zo˩no˥, | hĩ˧-ɳɯ˩... | kʰv̩˩pʰæ˧˥ | ɖɯ˩-hĩ˥=ɻæ˩ɳɯ˩dʑo˩ | hĩ˧mo˥=ɻæ˩-ɳɯ˩-dʑo˩, | zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩-kv̩˩˥ mæ˩ | njæ˧-sɯ˩kv̩˩-ki˩ | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩ | 
+%/ʁɑ˩ʂɯ˥/: est du chinois, 还是
 %Utterance ID: BENEVOLENCE.69 
 %Transcription automatique : so˧kv̩˩ | hĩ˧ʈʂʰɯ˧ | hĩ˧mo˥hĩ˩ki˩ | dʑɤ˩ʝ˧zi˧kv̩˩ | pi˧zo˩ | zo˩no˥ | hĩ˧mɤ˧o˩ | kʰtʰɑ˧˥ | ɖɯ˩hĩ˥ɻæ̃˩ɳɯ˩dʑo˩ | hĩ˧mo˥ɻæ˩le˧zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩kv̩˩˥mæ˩ | njæ˧sɯ˩kv̩˩ki˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩ɻ̍˩ɳ˩ | ɳɯ 
-so˧kv̩˩ | hĩ˧ʈʂʰɯ˧ | hĩ˧mo˥hĩ˩ki˩ | dʑɤ˩ʝ˧zi˧kv̩˩ | pi˧zo˩ | zo˩no˥ | hĩ˧mɤ˧o˩ | kʰtʰɑ˧˥ | ɖɯ˩hĩ˥ɻæ̃˩ɳɯ˩dʑo˩ | hĩ˧mo˥ɻæ˩le˧zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩kv̩˩˥mæ˩ | njæ˧sɯ˩kv̩˩ki˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩ɻ̍˩ɳ˩ | ɳɯ 
 
+ə˧dɑ˧-ə˧mi˧ | mɤ˧kv̩˧ | mɤ˧-ʁo˧mæ˧ | õ˧ɖʐv̩˥ | ɲi˩pv̩˩kʰɯ˧˥ | ɑ˩ʁo˧ | tsʰi˧kʰwɤ˧ | mɤ˧dʑo˧ | li˩kʰv̩˧˥ | mɤ˧dʑo˧ | zoʈʂæ 
 %Utterance ID: BENEVOLENCE.70 
 %Transcription automatique :  | ə˧dɑ˧ə˧mi˧ | mɤ˧kv̩˧ | mɤ˧ʁo˧mæ˧ | õ˧ɖʐv̩˥ | ɲi˩pv̩˩kʰɯ˧˥ | ɑ˩ʁo˧ | tsʰi˧kʰwɤ˧ | mɤ˧dʑo˧ | li˩kʰv̩˧˥ | mɤ˧dʑo˧ | zoʈʂæ 
- | ə˧dɑ˧ə˧mi˧ | mɤ˧kv̩˧ | mɤ˧ʁo˧mæ˧ | õ˧ɖʐv̩˥ | ɲi˩pv̩˩kʰɯ˧˥ | ɑ˩ʁo˧ | tsʰi˧kʰwɤ˧ | mɤ˧dʑo˧ | li˩kʰv̩˧˥ | mɤ˧dʑo˧ | zoʈʂæ 
 
 %Utterance ID: BENEVOLENCE.71 
 %Transcription automatique : ni˩midʑo˧kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | mmm…ɕjɤ˩tʰv̩˧bi˧kv̩˩ | hĩ˧mo˧hĩ | ɖɯ˧v̩˧ɖɯ˧zv̩˧ɳɯ˧ | no˧ | gɯ˩ʝi˥ | nɤ˧zo˧nṽ̩˥no˩ | ʈʂʰɯ˧ɲi˧ | tʰæ˧ʝi˥z | no˧ʁo˩ɲi˩˧ | no˥ | mv̩˩zo˩hĩ˥ʈʂʰɯ˩ | pʰæ˩ʝi˥ |  
@@ -937,7 +952,7 @@ tʰi˩˥ʈʂʰɯ˧zo˧nɑ˥ | zo˩no˥ | hɤ˩ | njɤ˧ki˧ | ɖi˧njɤ˧ | ʐw�
 
 %Utterance ID: BENEVOLENCE.143 
 %Transcription automatique : mɤ˧ʝi˧bi˩ | zo˩no˥zəəə…ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˩pi˩ze˩kɯ˩˥ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧mo˥ | ɖwæ˩ʁo˧ | mæ˧kv̩˩tsæ˩ə˩ | gi˩ | pi˧ze˩ | wɤ˩˥ | ʐwɤ˩kv̩˩ | mæ˩ | njæ˧ | dʑɯ˩ | hi˧mo˥o | mɤ˧kv̩˧˥ | no˧sɯ˧kv̩˩ | hĩ˧mo˥ |  
-mɤ˧ʝi˧bi˩ | zo˩no˥zəəə…ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˩pi˩ze˩kɯ˩˥ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧mo˥ | ɖwæ˩ʁo˧ | mæ˧kv̩˩tsæ˩ə˩ | gi˩ | pi˧ze˩ | wɤ˩˥ | ʐwɤ˩kv̩˩ | mæ˩ | njæ˧ | dʑɯ˩ | hi˧mo˥o | mɤ˧kv̩˧˥ | no˧sɯ˧kv̩˩ | hĩ˧mo˥ |  
+mɤ˧ʝi˧bi˩ | zo˩no˥zəəə…ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˩pi˩ze˩kɯ˩˥ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧mo˥ | ɖwæ˩ʁo˧ | mæ˧kv̩˩tsæ˩ə˩ | gi˩ | pi˧ze˩ | wɤ˩˥ | ʐwɤ˩kv̩˩ | mæ˩ | njæ˧ | dʑɯ˩ | hi˧mo˥o | mɤ˧kv̩˧˥ | no˧sɯ˧kv̩˩ | hĩ˧mo˥ | 
 
 %Utterance ID: BENEVOLENCE.144 
 %Transcription automatique : ho˧tʰɑ˧˥ | li˧tsʰi˩ | qʰæ˧˥ | njɤ˧ɖɯ˧ʂɯ˧ʐɤ˧ | tʰi˩ʁo˧mæ˧ | ɖɯ˧mɑ˧ʐɑ˧hæ˧e˩ | tʰi˩˥ | njæ˧sɯ˩kv̩˩zo˩tʰi˧ | ə˧ʝi˧tsʰi˧ʝi˧ | qʰɑ˩ɯsi˥æ˩ | dʑɯ | ɖæ˩˥æ˥ | tʰi˩˥ | ɖʐv̩˧mi˧ | ɲimæ˩ | pi˧zo˩ | wɤ˩˥ | zo˧hɑ̃˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩v̩˩ | ɲi˩ |  
