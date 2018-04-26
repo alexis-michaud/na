@@ -78470,6 +78470,3 @@
 \gn 应该
 \df Obligatif.
 \gf |fg{oblig}
-\dt 06/Oct/2015
-
-gv̩˧ʂæ˧-ʐæ˩ʂæ˩, | go˧mi˧ tsʰɯ˩! style de chanson qd on rend visite aux jeunes femmes
