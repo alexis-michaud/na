@@ -31090,7 +31090,7 @@
 \lc lo˩qo˥
 \so <print="n"> F4
 \pdl classifier
-\pdv xxxx nɑ˧?
+\pdv ɭɯ˧
 \de Copper pot for cooking cereals (nowadays, almost exclusively rice).
 \ge rice_pot
 \dn 传统的饭锅（一般是铜做的）。
@@ -58321,7 +58321,7 @@
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\ton xxxx à confirmer, ss doute H#
+\ton H#
 \lc ɬi˧ŋv̩˥
 \so <print="n"> F4
 \pdl classifier
@@ -66701,13 +66701,29 @@
 \gf rendre
 \dt 07/Oct/2015
 
-\lx ʈʂo˩
+\lx ʈʂo˩β
 \or zho
 \ps clf
 \cf tɕʰi˩b
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L
+\ton Lb
+\lc ɖɯ˧ ʈʂo˩
+\so <print="n"> F4
+\de Classifier for services inside a meal (a first service for guests and elders, another for children, and finally one for other family members).
+\ge |fg{clf}.services
+\dn 量词：饭（一顿）
+\gn 量词.顿
+\df Classificateur des services au cours d'un repas.
+\gf |fg{clf}.services
+
+\lx pæ˥
+\or bae
+\ps clf
+\cf tɕʰi˩b, ʈʂo˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Hb
 \lc ɖɯ˧ ʈʂo˩
 \so <print="n"> F4
 \de Classifier for meals.
@@ -77102,7 +77118,11 @@
 \gn 向格
 \df Allatif. xxxx sens à affiner : semble avoir plutôt le sens de 'chez'
 \gf |fg{all}
-\dt 05/Jul/2017
+\xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ / nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
+\xe combinations with all tonal categories of nouns
+\xn 跟不同声调类型的名词结合。
+\xf combinaisons avec les diverses catégories tonales de noms
+\xc PHONO
 
 \lx ‑kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
@@ -77929,7 +77949,7 @@
 
 \lx ‑se˩
 \sf <nb="2011"> 3366
-\or sei
+\or seiq
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -78452,3 +78472,4 @@
 \gf |fg{oblig}
 \dt 06/Oct/2015
 
+gv̩˧ʂæ˧-ʐæ˩ʂæ˩, | go˧mi˧ tsʰɯ˩! style de chanson qd on rend visite aux jeunes femmes

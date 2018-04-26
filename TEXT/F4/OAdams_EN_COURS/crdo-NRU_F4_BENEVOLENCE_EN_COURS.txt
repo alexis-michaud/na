@@ -474,12 +474,11 @@ õ˧-ʈʂʰɯ˧ne˧-ʝi˥, | ə˧ʝi˧-ʂɯ˥ʝi˩! | æ̃˩˥ | ɖɯ˧-mi˩ q�
 %/tɕi˩-ʁo˩to˥/: 小的时候, 'quand nous étions petits'
 Voilà comment on faisait, autrefois! (Quand) on tuait un poulet, chez moi, eh bien, nous, les trois enfants (les trois frères et soeurs), quand nous étions petits, nous, trois frères et soeurs, 
 
-əəə... hĩ˧mo˥-hĩ˩, əəə... ʐv̩˩-kv̩˩. | ʈʂʰɯ˧-tæ˩... | njæ˧sɯ˩kv̩˩ | so˩-kv̩˩˥, | æ̃˩ʂe˥ | dzɯ˧-mɤ˧-kv̩˩! | kʰɯ˧tsʰɤ˧ tʰv̩˧-ɭɯ˧-lɑ˩ ɖɯ˩-kv̩˩! | 
+əəə... hĩ˧mo˥-hĩ˩, əəə... ʐv̩˩-kv̩˩. | ʈʂʰɯ˧-te˩... | njæ˧sɯ˩kv̩˩ | so˩-kv̩˩˥, | æ̃˩ʂe˥ | dzɯ˧-mɤ˧-kv̩˩! | kʰɯ˧tsʰɤ˧ tʰv̩˧-ɭɯ˧-lɑ˩ ɖɯ˩-kv̩˩! | 
 %Utterance ID: BENEVOLENCE.41 
 %Transcription automatique : tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ | hĩ˧mo˧ʐv̩˩kv̩˩ | ʈʂʰɯ˧dʑtʰi˩˥ | njæ˧sɯ˩kv̩˩ | so˩kv̩˥ | æ˩ʂe˥dzɯ˩mɤ˩kwɤ˩ | kʰɯ˧tsʰɤ˧˥ | ʈʂʰɯ˧lɑ˩ɖɯ˩kv̩˩ |  
 %dʐcoupæge vʐrifiʐ : /hĩ˧mo˥-hĩ˩, ʐv̩˩kv̩˩/ un seul groupe.
-%ɖɯ˧-tæ˧˥ 'une génération': emprunt au chinois; ton : MH1.
-%xxxx /ʈʂʰɯ˧-tæ˩/: serait-ce en fait /tʰv̩˧-ɖʐɯ˩ tʰv̩˩/?
+%ɖɯ˧-te˧˥ 'une génération': emprunt au chinois; ton : MH1. D'abord noté /tæ/, mais c'est une voyelle différente. /ʈʂʰɯ˧-tæ˩/: serait-ce en fait /tʰv̩˧-ɖʐɯ˩ tʰv̩˩/? rʐponse : non.
 Les vieux, il y en avait quatre. Cette génération... nous autres, nous trois, on ne mangeait pas de viande de poulet ! On n'avait que les pattes! (=partie sans viande, qu'on grignote sans guère de profit)
 老人，有四位。我们三个（轻装年轻人），不会吃鸡肉的！我们只得到脚那块！（=不带肉的鸡爪子）
 
@@ -494,11 +493,11 @@ On n'avait droit qu'aux côtes, aux bas morceaux!
 zo˧mv̩˥zo˩-lɑ˩ | hĩ˧mo˥-hĩ˩-ki˩ | zo˩no˧-ne˩ | | ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ dzɯ˧-mɤ˧-kv̩˩! | le˧-bv̩˧~bv̩˧! | 
 Les enfants et les personnes âgées, elles ne mangeaient pas toutes ensembles comme c'est le cas aujourd'hui! On mangeait séparément (littéralement: 'on séparait').
 
-hĩ˧mo˥-hĩ˩-ki˩, | æ̃˩ʈʂæ˩˥ | <ʈʂʰɯ˧-h...> | ɖɯ˧-ʈʂæ˧˥, | ʂe˧nɑ˩ | ɖɯ˧-kʰwɤ˥, | <pʰv̩˧...> | ʁɑ˧pʰv̩˧ tʰv̩˧-kʰwɤ˥ | mmm... ɖɯ˧-kʰwɤ˥ tʰi˩-kʰɯ˩! | 
+hĩ˧mo˥-hĩ˩-ki˩, | æ̃˩ʈʂæ˩˥ | <ʈʂʰɯ˧-h...> | ɖɯ˧-ʈʂæ˧˥, | ʂe˧nɑ˩ | ɖɯ˧-kʰwɤ˥, | <pʰv̩˧...> | ʁɑ˧pv̩˧ tʰv̩˧-kʰwɤ˥ | mmm... ɖɯ˧-kʰwɤ˥ tʰi˩-kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.43 
 %Transcription automatique : ʂɯ˧nɑ˩ɖɯ˧kʰwɤ˩ | fɯ˧ | əɑ˧tʰv̩˧tʰv̩˧kʰwɤv̩˥ | ɖɯ˧kʰwɤ˥tʰikʰ˩tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̍˩tʰi˩ki˩ | ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |  
-%Que signifie ici /ʁɑ˧pʰv̩˧/? (noté comme le mot pour 'salaire') (impression: il a été question de cou de poulet)
-Les personnes âgées, on mettait (dans l'assiette qui leur était destinée) une aile de poulet, un morceau de viande maigre; le cou (xxxx à confirmer), on leur en donnait aussi!
+%Que signifie ici /ʁɑ˧pv̩˧/? (noté comme le mot pour 'salaire') réponse : c'est : poitrine : la poitrine du poulet = le blanc de poulet. 
+Les personnes âgées, on mettait (dans l'assiette qui leur était destinée) une aile de poulet, un morceau de viande maigre : un morceau de poitrine (=de blanc de poulet)!
 给老人家的有：一个鸡翅、一块瘦肉。鸡脖子那个部位，也给他们一块！
 
 zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tv̩˩ɭɯ˥-tʰv̩˩ ʝi˩-ɭɯ˩ tʰi˩-ki˩! | 
@@ -539,7 +538,7 @@ tʰi˧-no˥, | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧-ə˧mi˧ | njæ˧sɯ˩kv̩˩ dzɯ�
 %Transcription automatique : tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | zo˩no˧se˥ | qʰɑ˩jɤ˩le˩tsʰɯ˥ | tv̩˩ho˥dzɯ˩ | əəə…zo˩ 
 %/tʰi˧-no˥/: le schéma tonal paraît être M.H, non L.H; et une réalisation lente et soignée comme /tʰi˩˥ | -no˧˥/ ne convient pas à la locutrice.
 %Fin du retravail le soir du 24 avril 2018. xxxxxx
-Alors, nous autres, les parents (=la génération des parents: entre le 'premier âge' et le 'troisième âge'), on faisait trois services ! (reporter le classificateur des repas ds le dictionnaire xxxx tester la catégorie tonale)
+Alors, nous autres, les parents (=la génération des parents: entre le 'premier âge' et le 'troisième âge'), on faisait trois services ! 
 
 zo˩no˧-se˥, | qʰɑ˩jɤ˩ le˩-tsʰɯ-ɻ˥, | tɑ˧ho˧ dzɯ˩! | 
 %Utterance ID: BENEVOLENCE.47 
@@ -578,7 +577,7 @@ Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arri
 mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
 %Utterance ID: BENEVOLENCE.51 
 %Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
-%que signifie /mi˧li˩ | di˧/? xxxx
+%que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的（泸沽湖）, chanson écrite par Dashi. C'est en l'entendant chanter cette chanson composée par son fils que Ama a 
 
 tʰi˩˥ | so˧ɲi˥ | no˧-qɑ˧<ʁɑ˧> ʝi˥-qɑ˩-bi˩, | <tsɯ˧... əəə...> | lo˧ʝi˧ qɑ˩-bi˩ tsɯ˩ | -mv̩˩. |
 %n'est pas: /le˧-gwɤ˩-ze˩-dʑo˩/.
@@ -604,11 +603,11 @@ le˧-tsʰɯ˩-dʑo˩ | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩.
 "ə˧mɑ˧ | tʰi˧-tɕɤ˧-ɻ̍˥!" tsɯ˩ | mv̩˩. | 
 %103
 
-tʰi˩˥, | əəə... tʰi˧-tɕɤ˧-ɲi˥ mæ˩, ə˩-gi˩! | tʰææ̃˧ | tʰv̩˧ɲi˧, | ə˧mɑ˧-ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧-hĩ˧bæ˧ | ɖɯ˧so˩-kv̩˩ tʰi˩-dʑo˩. | 
+tʰi˩˥, | əəə... tʰi˧-tɕɤ˧-ɲi˥ mæ˩, ə˩-gi˩! | tʰv̩˧-hɑ̃˩ | tʰv̩˧-ɲi˧, | ə˧mɑ˧-ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧-hĩ˧bæ˧ | ɖɯ˧so˩-kv̩˩ tʰi˩-dʑo˩. | 
 %Utterance ID: BENEVOLENCE.55 
 %Transcription automatique : tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | tʰi˩˥ | ʈʂʰɯ˩ 
 %104
-%/tʰææ̃˧/: est sans doute en fait : /tʰv̩˧-hɑ̃˩/ 'ce soir-là' xxxx
+%/tʰææ̃˧/: est sans doute en fait : /tʰv̩˧-hɑ̃˩/ 'ce soir-là' ; confirmation de Ama: OUI, c'est bien tʰv̩˧-hɑ̃˩.
 
 ɲi˧zo˧ | tʰi˧-tɕɤ˧˥ | -dʑo˩, | no˧-tɑ˧kɤ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥ | dɯ˧-dzɯ˥-ɳɯ˩ | le˧-se˩-kʰɯ˩ | mv̩˩! |
 %105
@@ -712,29 +711,41 @@ zo˧mv̩˥ | gɤ˩-qwɤ˥ kʰɯ˩-tso˩-ɲi˩, | əəə… hĩ˧mo˥-hĩ˩ | l
 "hĩ˧-ʈʂʰɯ˧, | hĩ˧mo˥-hĩ˩-ki˩ | dʑɤ˩ ʝi˧-zo˧-kv̩˩", | pi˧-zo˩! | zo˩no˥, | hĩ˧-ɳɯ˩... | kʰv̩˩pʰæ˧˥ | ɖɯ˩-hĩ˥=ɻæ˩-ɳɯ˩-dʑo˩, | hĩ˧mo˥=ɻæ˩-ɳɯ˩-dʑo˩, | zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩-kv̩˩˥ mæ˩, | njæ˧-sɯ˩kv̩˩-ki˩! |
 
 
-ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩, | ə˧dɑ˧-ə˧mi˧ | mɤ˧-kwæ˧! | mɤ˧-ʁo˧mæ˧! | õ˧-ɖʐv̩˥, | õ˧˥ | xxxxxx REPRENDRE ICI le˧-po˧-kʰɯ˧˥ | ɑ˩ʁo˧ | tsʰi˧kʰwɤ˧ | mɤ˧dʑo˧ | li˩kʰv̩˧˥ | mɤ˧dʑo˧ | zoʈʂæ 
+ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩, | ə˧dɑ˧-ə˧mi˧ F | mɤ˧-kwæ˧! | mɤ˧-ʁo˧mæ˧! | 
 %Utterance ID: BENEVOLENCE.70 
 %Transcription automatique :  | ə˧dɑ˧ə˧mi˧ | mɤ˧kv̩˧ | mɤ˧ʁo˧mæ˧ | õ˧ɖʐv̩˥ | ɲi˩pv̩˩kʰɯ˧˥ | ɑ˩ʁo˧ | tsʰi˧kʰwɤ˧ | mɤ˧dʑo˧ | li˩kʰv̩˧˥ | mɤ˧dʑo˧ | zoʈʂæ 
+%/ɖɯ˧-v̩˧~ɖɯ˧-v̩˧-ɳɯ˧/: tv
+%130
 
+õ˧-ɖʐv̩˥, õ˩ li˩, | pv̩˩-kʰɯ˥! | 
+
+ɑ˩ʁo˧ | tsʰe˧kʰwɤ˧ F | mɤ˧-dʑo˧, | li˩kʰwɤ˩˥ F | mɤ˧-dʑo˧, | ʈʂʰɯ˧ne˧ʝi˥-dʑo˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥ | mmm… ɕjɤ˩tʰv̩˧-bi˧-kv̩˩! | hĩ˧mo˥-hĩ˩ | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧-ɳɯ˧! | 
 %Utterance ID: BENEVOLENCE.71 
 %Transcription automatique : ni˩midʑo˧kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | mmm…ɕjɤ˩tʰv̩˧bi˧kv̩˩ | hĩ˧mo˧hĩ | ɖɯ˧v̩˧ɖɯ˧zv̩˧ɳɯ˧ | no˧ | gɯ˩ʝi˥ | nɤ˧zo˧nṽ̩˥no˩ | ʈʂʰɯ˧ɲi˧ | tʰæ˧ʝi˥z | no˧ʁo˩ɲi˩˧ | no˥ | mv̩˩zo˩hĩ˥ʈʂʰɯ˩ | pʰæ˩ʝi˥ |  
-ni˩midʑo˧kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | mmm…ɕjɤ˩tʰv̩˧bi˧kv̩˩ | hĩ˧mo˧hĩ | ɖɯ˧v̩˧ɖɯ˧zv̩˧ɳɯ˧ | no˧ | gɯ˩ʝi˥ | nɤ˧zo˧nṽ̩˥no˩ | ʈʂʰɯ˧ɲi˧ | tʰæ˧ʝi˥z | no˧ʁo˩ɲi˩˧ | no˥ | mv̩˩zo˩hĩ˥ʈʂʰɯ˩ | pʰæ˩ʝi˥ |  
 
+no˧ | gɯ˩ʝi˥ | no˧ | zo˧hṽ̩˥ | no˧ | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥! | no˧=ɻ˩, | <njo...> | no˧ | mv̩˩zo˩˥, | no˧ | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥! |
+
+no˧ | ə˧mi˧ | no˧ ʐɤ˧, | no˧zɯ˩ ʐɤ˩-hĩ˩, | lɑ˩jɤ˧ fv̩˧-hĩ˧ mɤ˧-ɲi˥! | 
 %Utterance ID: BENEVOLENCE.72 
 %Transcription automatique : no˧ | ə˧mi˧ | no˧ʐɯ˧ | no˧zɯ˩ | ʐɤ˩jɤĩ˩ | lɑ˩hĩ˧fv̩˧hĩ˧mɤ˩ɲi˥ | hĩ˧no˥hĩ˩ʁo˩mæ˩zo˩kv̩˩ | no˧go˧bi˧ | zo˩ho˧ʂɯ˧ | le˧bo˧le˧ʂɯ˩ | ʁo˩po˩o˩tʰi˧ki˧ | pi˧ | õ˧ʈʂʰɯ˧ne˧ʝ |  
-no˧ | ə˧mi˧ | no˧ʐɯ˧ | no˧zɯ˩ | ʐɤ˩jɤĩ˩ | lɑ˩hĩ˧fv̩˧hĩ˧mɤ˩ɲi˥ | hĩ˧no˥hĩ˩ʁo˩mæ˩zo˩kv̩˩ | no˧go˧bi˧ | zo˩ho˧ʂɯ˧ | le˧bo˧le˧ʂɯ˩ | ʁo˩po˩o˩tʰi˧ki˧ | pi˧ | õ˧ʈʂʰɯ˧ne˧ʝ |  
+%/lɑ˩jɤ˧ fv̩˧-hĩ˧ mɤ˧-ɲi˥/: idem plus haut: 'c'est pas facile!' Ne parviens pas à en isoler le 1er disyllabe.
 
+hĩ˧mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩! | mɤ˧-dʑo˧-bi˧, | zo˩qo˧ ʂe˧, | le˧-po˧... | le˧-ʂe˧ | le˧-po˧-jo˥ | tʰi˧-ki˧! | pi˧, | õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-kv̩˩˥ | mæ˧!
+
+tʰi˩˥, | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-dʑo˥, | ə˧mi˧ | ʈʂʰɯ˧ | ʁwɤ˧-qo˧ | hĩ˧mo˥-hĩ˩ | sɯ˧-hĩ˧ | ɖɯ˧-v̩˧-ɳɯ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩˥: | ə˧mi˧! | ʈʂʰɯ˧-ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ɕjɤ˩tʰv̩˧ho˥, | gɯ˩-hĩ˥, | ə˩sɯ˧kv̩˥ | hĩ˧mo˥hĩ˩-ki˩ | dʑɤ˩-ʝi˧-zo˧-kv̩˩! | pi˧, | zo˩no˥. | 
 %Utterance ID: BENEVOLENCE.73 
+%erreur commune : 'vieille personne': 3 syllabes mal distinguées. Ss doute effet d'une forte coarticulation.
 %Transcription automatique : ʐo˩kv̩˩˥mæ˩ | tʰi˩˥ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩dʑo˥ | ə˧mi˧ | ʈʂʰɯ˧ | wɤ˧qo˧ | hĩ˧ho˥he˩ | sɯ˧hĩ˥ | ɖɯ˧v̩˧ʈʂʰɯ˧ne˧ʝi˥ʐwɤ˧˥ | ə˧mi˧ | ʈʂʰɯ˧ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ɕjɤ˩tʰv̩˩ho˩ | gɯ˩hĩ˥ | ə˧sɯ˩kv̩˩ | hĩ˧mo˥hĩ˩ki˩dʑo˩ʝi˧zo˥kv̩˩ | pi˧˩mv̩˩ 
-ʐo˩kv̩˩˥mæ˩ | tʰi˩˥ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩dʑo˥ | ə˧mi˧ | ʈʂʰɯ˧ | wɤ˧qo˧ | hĩ˧ho˥he˩ | sɯ˧hĩ˥ | ɖɯ˧v̩˧ʈʂʰɯ˧ne˧ʝi˥ʐwɤ˧˥ | ə˧mi˧ | ʈʂʰɯ˧ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ɕjɤ˩tʰv̩˩ho˩ | gɯ˩hĩ˥ | ə˧sɯ˩kv̩˩ | hĩ˧mo˥hĩ˩ki˩dʑo˩ʝi˧zo˥kv̩˩ | pi˧˩mv̩˩ 
 
+əəə…no˧-ɳɯ˧ njɤ˩ so˩-ɻ˩,  | zo˩no˥, | mɤ˧-dʑɤ˩-hĩ˩ tʰv̩˩-v̩˩ | tʰɑ˧-so˩! pi˩, | dʑɤ˩-hĩ˧ tʰv̩˧-v̩˧ so˥! pi˩, |
 %Utterance ID: BENEVOLENCE.74 
 %Transcription automatique : əəə…no˧ɳɯ˩ni˩ | so˩ | zo˩no | mɑ˧dʑo˩hĩ˧tʰv̩˧v̩˧tʰɑ˧so˩pi˩ | dʑɤ˩hĩ˧ | tʰv̩˧v̩˧so˥pi˩ | zo˩no˥ | tsʰi˧ɲi˧ | ɑ˩pʰo˥ | ɖɯ˧ʝi˧hɯ˧do˩ | ə˧mi˧ | hĩ˧mi˧o˩dʑo˩ | pi˧dʑo˩ |  
 əəə…no˧ɳɯ˩ni˩ | so˩ | zo˩no | mɑ˧dʑo˩hĩ˧tʰv̩˧v̩˧tʰɑ˧so˩pi˩ | dʑɤ˩hĩ˧ | tʰv̩˧v̩˧so˥pi˩ | zo˩no˥ | tsʰi˧ɲi˧ | ɑ˩pʰo˥ | ɖɯ˧ʝi˧hɯ˧do˩ | ə˧mi˧ | hĩ˧mi˧o˩dʑo˩ | pi˧dʑo˩ |  
 
+zo˩no˥ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ɖɯ˧-ʝi˧ hɯ˧-bi˧, | ə˧mi˧! | hĩ˧mo˥-hĩ˩-dʑo˩, | pi˧dʑo˩, | əəə... le˧-hɯ˩, | ʐɤ˩mi˩-qo˥-gɤ˩ | <ʁo˧pv̩˩... |> ʁo˧pv̩˩-bi˩-bi˩-bi˩, | hĩ˧mo˥-hĩ˩-ki˩, | zo˩no˥, | tso˧tso˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-ki˩! | tʰi˧-ki˩... | ə˧mi˧! | tʰi˩˥ | hĩ˧mo˥-hĩ˩ | ʈʂʰɯ˧-v̩˧-ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-kv̩˩˥ | mæ˩: xxxxxx arrêt travail 26 avril | ə˧mi˧ | ʈʂʰɯ˥ |  
 %Utterance ID: BENEVOLENCE.75 
 %Transcription automatique : ɖɯ˧le˧hɯ˩ | ʐɤ˩mi˩qo˥go˩pʁo˧pv̩˩bi˩ | bi˩ | hĩ˧mo˥hĩ˩ki˩ | zo˩no˥ | tso˧tso˧ | ɖɯ˧kʰwɤ˥tʰi˩tɕi˩ | tʰi˧ki˩ | ə˧mi˧ | tʰi˩˥ | hĩ˧mo˥hĩ˩ʈʂʰɯ˧v̩˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩ | ə˧mi˧ | ʈʂʰɯ˥ |  
-ɖɯ˧le˧hɯ˩ | ʐɤ˩mi˩qo˥go˩pʁo˧pv̩˩bi˩ | bi˩ | hĩ˧mo˥hĩ˩ki˩ | zo˩no˥ | tso˧tso˧ | ɖɯ˧kʰwɤ˥tʰi˩tɕi˩ | tʰi˧ki˩ | ə˧mi˧ | tʰi˩˥ | hĩ˧mo˥hĩ˩ʈʂʰɯ˧v̩˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩ | ə˧mi˧ | ʈʂʰɯ˥ |  
+
 
 %Utterance ID: BENEVOLENCE.76 
 %Transcription automatique : nv̩˧zo˩ | ʈʂʰɯ˧ɭ˧dʑo˩ | so˧lo˧dʑɤ˩ | dʑo˩qo˧tʰv̩˧ɻ̍˧ | zo˩qʰwɤ˧ | mɤ˧kv̩˧ɲi˥ | hĩ˧ki˧ki˩kv̩˩ | pi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | zo˩no˥ | njæ˧sɯ˩kv̩˩ | ə˩gi˩ |  
