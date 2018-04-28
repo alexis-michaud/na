@@ -1651,7 +1651,7 @@
 		<FORM>tʰi˩˥ ◊ -dʑo˩, gi˩˥ ◊ -dʑo˩ | tʰi˩˥, | hĩ˧=ɻæ˥ | tʰi˩˥, | &lt;k…&gt; ə˧mv̩˧˥ | tʰi˩˥, | &lt;ʂɯ˧tse˥&gt; [ʈʰæ˧mi˧-ɳɯ˩] | mɤ˧-hɯ˧, | tʰi˧-dzi˩-kʰɯ˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="Le son ébauché /k…/ est le premier son de /kʰv̩˩mi˩˥/ 'chien'. "/>
 		<NOTE xml:lang="fr" message="d'abord noté /ɑ˧mv̩˥/"/>
-		<NOTE xml:lang="fr" message="/ʂɯ˧tse˥/: est un emprunt au chinois 实在."/>		
+		<NOTE xml:lang="fr" message="/ʂɯ˧tse˥/: est un emprunt au chinois 实在 yyyy corriger (2018) en : ʂɯ˩tse˧˥."/>		
 		<NOTE xml:lang="fr" message="/ʈʰæ˧mi˧-ɳɯ˩/: d'abord noté [ʈʰæː˧˥]. La forme réduite est nettement plus fréquente que la forme complète."/>		
 		<TRANSL xml:lang="fr">Après, eh bien, vraiment… les gens, eh bien… le grand frère, il ne
 			partait absolument pas (=pas moyen de le faire s'en aller), [alors] on l'a fait
@@ -4469,9 +4469,9 @@
 	</S>
 	<S id="Sister3_S066">
 		<AUDIO start="310.2628" end="314.8998"/>
-		<FORM>«njɤ˧ | ə˧mv̩˧˥ | ɖɯ˧-v̩˧-ki˥ | ʈʂʰɯ˧ne˧ ʝi˥ F | ʈʂʰɯ˧-dʑo˩, | tʰv̩˧-sɯ˩-kv̩˩ | ↑ɖɯ˩lo˧ | mɤ˧-sɯ˥-ze˩!» pi˩-ɲi˩-ze˩ wɤ˩; |</FORM>
+		<FORM>«njɤ˧ | ə˧mv̩˧˥ | ɖɯ˧-v̩˧-ki˧ | ʈʂʰɯ˧ne˧ ʝi˥ F | ʈʂʰɯ˧-dʑo˩, | tʰv̩˧-sɯ˩-kv̩˩ | ↑ɖɯ˩lo˧ | mɤ˧-sɯ˥-ze˩!» pi˩-ɲi˩-ze˩ wɤ˩; |</FORM>
 		<NOTE xml:lang="fr"
-			message="/ɖɯ˧-v̩˧-ki˥/: le classificateur /v̩˧/ a un ton moyen; le ton haut sur le datif ki˥ provient du numéral /ɖɯ˧˥/ en association avec le classificateur au ton moyen."/>
+			message="Commentaire ancien : '/ɖɯ˧-v̩˧-ki˥/: le classificateur /v̩˧/ a un ton moyen; le ton haut sur le datif ki˥ provient du numéral /ɖɯ˧˥/ en association avec le classificateur au ton moyen'. Avril 2018 : corrige, après vérification soigneuse, /ɖɯ˧-v̩˧-ki˥/ en /ɖɯ˧-v̩˧-ki˧/."/>
 		<NOTE xml:lang="fr"
 			message="Vérifié en 2013: n'est pas: /‡ɖɯ˧-v̩˧-ki˥ | ʈʂʰɯ˧ne˧ ʝi˥-hĩ˩ | ʈʂʰɯ˧-dʑo˩/; il n'y a pas de syllabe supplémentaire après ʈʂʰɯ˧ne˧ ʝi˥ "/>
 		<NOTE xml:lang="fr"

@@ -786,8 +786,10 @@
 	<S id="CaravansS106">
 		<AUDIO start="617.6009" end="627.3711"/>
 		<FORM>njɤ˧ | ə˧v̩˧-ɳɯ˥-dʑo˩, | njæ˧sɯ˩kv̩˩, | ə˧mv̩˧-go˧mi˥, | so˩-kv̩˩˥ | əəə… gi˧zɯ˧ |
-			ɖɯ˧-v̩˧-ki˥, | njæ˩sɯ˩kv̩˩-ki˩, | gi˧zɯ˧-ki˧-dʑo˩, | ʈʂʰo˧bɤ˧! | hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩
+			ɖɯ˧-v̩˧-ki˧, | njæ˩sɯ˩kv̩˩-ki˩, | gi˧zɯ˧-ki˧-dʑo˩, | ʈʂʰo˧bɤ˧! | hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩
 			ɖɯ˩-ɭɯ˩˥! |</FORM>
+		<NOTE xml:lang="fr"
+			message="Avril 2018 : corrige, après vérification soigneuse, /ɖɯ˧-v̩˧-ki˥/ en /ɖɯ˧-v̩˧-ki˧/."/>
 		<NOTE xml:lang="fr"
 			message="tons intéressants: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ | ɖɯ˩-ɭɯ˩˥; remontée finale inattendue; est une façon de souligner; on pourrait également dire, plus simplement: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ ɖɯ˩-ɭɯ˩ |"/>
 		<NOTE xml:lang="fr"

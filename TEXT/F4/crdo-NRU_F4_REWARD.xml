@@ -2736,8 +2736,9 @@
 		</W>
 </S>
 <S id="Reward_S048"><AUDIO start="241.5958" end="250.5293"></AUDIO>
-	<FORM>"no˧ | tsʰo˧qʰwɤ˩-dʑo˩ | mɤ˧-ɖɯ˧, | tʰɑ˧-ʂe˧~ʂe˧ le˧-jo˩! | zo˧mv̩˥ | ʈʂʰɯ˧-tɕi˩ | ʂɯ˧tsɤ˧˥ | mɤ˧-tʰɑ˧-ze˥, | ɳɯ˧go˧-ze˥! | əəə… hɑ˧-ʐwɤ˩ | -ʐwæ˩˥!", | pi˧-dʑo˩. |</FORM>
+	<FORM>"no˧ | tsʰo˧qʰwɤ˩-dʑo˩ | mɤ˧-ɖɯ˧, | tʰɑ˧-ʂe˧~ʂe˧ le˧-jo˩! | zo˧mv̩˥ | ʈʂʰɯ˧-tɕi˩ | ʂɯ˩tse˧˥ | mɤ˧-tʰɑ˧-ze˥, | ɳɯ˧go˧-ze˥! | əəə… hɑ˧-ʐwɤ˩ | -ʐwæ˩˥!", | pi˧-dʑo˩. |</FORM>
 	<TRANSL xml:lang="fr">"Si ce soir tu n'as pas quelque chose (littéralement "tu n'obtiens pas quelque chose"), ne t'avise pas de revenir! Ces enfants, ils n'en peuvent vraiment plus, ils font pitié! Ils ont terriblement faim!" a dit [la mère].</TRANSL>
+		<NOTE xml:lang="fr" message="Notation de l'emprunt 实在 modifiée en 2018: précédemment noté /ʂɯ˧tsɤ˧˥/; corrigé en : /ʂɯ˩tse˧˥/."/>
 	<TRANSL xml:lang="zh">（孩子妈）说：“你今天晚上如果不拿回来一点东西（直译：如果不得），就别想回来了！这些孩子实在不行了，很可怜！特别饿！”</TRANSL>
 		<W>
 			<FORM>no˩</FORM>
@@ -2788,7 +2789,7 @@
 			<TRANSL xml:lang="fr">ceux_ci</TRANSL>
 		</W>
 		<W>
-			<FORM>ʂɯ˧tsɤ˧˥</FORM>
+			<FORM>ʂɯ˩tse˧˥</FORM>
 			<TRANSL xml:lang="fr">实在::vraiment</TRANSL>
 		</W>
 		<W>
