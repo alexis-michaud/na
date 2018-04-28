@@ -1,10 +1,11 @@
 ﻿F4_BENEVOLENCE
 
-ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩ ʈʂʰɯ˥-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩.
+ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩.
 %1
-%Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la version 1.0 de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la version 1.1 de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique est désormais conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
-%/-bi/: adversatif.
-%vérification : /zo˩no˧ ɲi˩/ ou /zo˩no˧ ni˩/? réponse : /zo˩no˧ ɲi˩/.
+%fr Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la version 1.0 de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la version 1.1 de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique est désormais conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
+%fr /-bi/: adversatif.
+%fr vérification : /zo˩no˧ ɲi˩/ ou /zo˩no˧ ni˩/? réponse : /zo˩no˧ ɲi˩/.
+%fr Ici, la locutrice sépare nettement le monosyllabe /nɑ˩˥/ dans /nɑ˩˥ | ʈʂʰɯ˧-dʑo˩/ 'les Na'. Cela revient à bien mettre en valeur ce nom, qui est peu saillant au plan phonético-phonologique du fait que c'est un monosyllabe très érodé. Ordinairement, on dirait plutôt: /nɑ˩ ʈʂʰɯ˥-dʑo˩/, en un seul groupe tonal.
 Autrefois, eh bien, les Na, eh bien, ce dont je vais parler, ça s'applique aussi aujourd'hui / ça vaut aussi bien pour aujourd'hui. (Littéralement: Parler des Na autrefois, même si on l'applique à aujourd'hui / même si c'est d'aujourd'hui qu'il s'agit, c'est pareil / il en va également ainsi.)
 In the old times, well, the Na… well… what I'm going to say applies to the present (=to present-day Na customs) just as well.
 从前，那么，摩梭人……（我）讲的（这些），现在也一样（=我讲的虽然是从前摩梭习俗，可是今日摩梭人的行为和做人标准也照样就是那样）。
@@ -17,13 +18,13 @@ In comparison with the old times, it's just the same, isn't it.
 
 ɖɯ˩lo˥, | <ɖ>… nɑ˩ ʈʂʰɯ˥ | ɖɯ˩lo˧ dʑɤ˥ | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ə˧tso˧ dʑɤ˩? | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | zo˩no˥, |
 %3
-Les traditions… On dit que les Na avaient de belles traditions; qu'est-ce qu'elles avaient de beau, au juste? / en quoi étaient-elles belles, au fond? eh bien… 
+Les traditions… Quand on dit que les Na avaient de belles traditions, qu'est-ce qu'elles avaient de beau, au juste? / en quoi étaient-elles belles, au fond? eh bien… 
 Traditions... When (people/I) say that the Na have beautiful traditions, what is it that is beautiful about them?
 说“摩梭人有美好的传统”，是在哪一点上算美好的？ / 具体有什么地方是美好的？那么，
 
-mmm… ɑ˩ʁo˧-ʑi˧dv̩˧ <po˧>[qo˧]-dʑo˩, | hĩ˧mo˥-hĩ˩ | ʁo˧mæ˧ ↑dʑɤ˩ mæ˩! |
+mmm… ɑ˩ʁo˧-ʑi˧dv̩˧ qo˧-dʑo˩, | hĩ˧mo˥-hĩ˩ | ʁo˧mæ˧ ↑dʑɤ˩ mæ˩! |
 %4
-%fr /ɑ˩ʁo˧-ʑi˧dv̩˧ po˧/: sens de /po/? Réponse: est une erreur de prononciation: le mot qu'il fallait dire est /qo˧/ 'dans'.
+%fr /ɑ˩ʁo˧-ʑi˧dv̩˧ po˧/: en fait, n'est pas /po/ mais /qo/; acoustiquement, les deux peuvent être proches. Le mot est /qo˧/ 'dans'.
 [Un élément tout à fait central, c'est que] dans la maisonnée, on s'occupait bien des personnes âgées!
 [Something really important is that] inside the family, older people were taken care of very well!
 （很重要的一点是：）在家里，关心老人关心得很周到！
@@ -38,31 +39,31 @@ õ˧˥ | mɤ˧-dʑo˧, | tsʰi˧ɲi˧-bi˧, | hĩ˧bæ˧ jo˧-ho˥, | pi˧, | 
 %6
 %fr /-bi/: adversatif; vérifié : /tsʰi˧ɲi˧/ signifie bien ici 'ce jour'.
 Même si on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on garde en réserve de quoi faire fête aux invités : on leur réserve ce qu'on a de meilleur!
-Even if one does not have (enough for) oneself, 
+Even if one does not have (enough for) oneself, one keeps in store some delicacies for guests, keeping the best meat for them.
 那天（虽然）自己没有（够自己吃饱），还是会考虑：可能会有客人来，（于是还是会）准备，存留（好吃的东西给客人）！
 
-əəə… so˩-kʰv̩˩˥, | ɲi˧-kʰv̩˧-bv̩˧ pɤ˧to˩ | tʰi˧-tɕɯ˥, | 'ə˧mi˧! | hĩ˧bæ˧ jo˧-kv̩˩!'
+əəə… so˩-kʰv̩˩˥, | ɲi˧-kʰv̩˧-bv̩˧ pɤ˧to˩ | tʰi˧-tɕɯ˥, | 'ə˧mi˧! | hĩ˧bæ˧ jo˧-kv̩˩!' |
 %7
-% d'abord noté /hĩ˧bæ˧ jo˧-kv̩˧˥/. On peut dire: /hĩ˧bæ˧ jo˧-ho˥!/, /hĩ˧bæ˧ jo˧-kv˩/.
-On pouvait même conserver (la viande) trois ans, (ou du moins) deux ans! (Note: dans le climat frais, sec et ensoleillé, la viande séchée pouvait se conserver plusieurs années. La viande était un élément important des repas, et particulièrement des repas festifs.) 'Eeeh! On va recevoir la visite de quelqu'un / on va avoir un invité!'
+%fr d'abord noté /hĩ˧bæ˧ jo˧-kv̩˧˥/. On peut dire: /hĩ˧bæ˧ jo˧-ho˥!/, /hĩ˧bæ˧ jo˧-kv˩/.
+On pouvait même conserver (la viande) trois ans, (ou du moins) deux ans! (Note: dans le climat frais, sec et ensoleillé, la viande séchée pouvait se conserver plusieurs années. La viande était un élément important des repas, et particulièrement des repas festifs.) 'Eeeh! Il se peut qu'on reçoive des invités / on va peut-être avoir un invité / on va peut-être recevoir la visite de quelqu'un!'
 （肉）都会存三年……两年，想着：“会有客人来！”
 
-əəə… | hĩ˧ mo˥-hĩ˩-dʑo˩ ɲi˩ | pi˧ | zo˩no˥ | kʰv̩˧pʰæ˧ tɕi˩-hĩ˩ | dʑɤ˩˥ | hɤ˩-ʂe˩~ʂe˩-hĩ˥ ʈʂʰɯ˩ | dʑɤ˩-hĩ˥ | mɤ˧-tʰɑ˧˥, | dzɯ˧ mɤ˧-kv̩˩ mæ˩! |
+əəə… | hĩ˧ mo˥-hĩ˩-dʑo˩ ɲi˩ | pi˧, | zo˩no˥, | kʰv̩˧pʰæ˧ tɕi˩-hĩ˩ | dʑɤ˩˥ | hɤ˩-ʂe˩~ʂe˩-hĩ˥ ʈʂʰɯ˩ | dʑɤ˩-hĩ˥ | mɤ˧-tʰɑ˧˥, | dzɯ˧ mɤ˧-kv̩˩ mæ˩! |
 %8
-%d'abord noté /dzɯ˧ mɤ˧-kv̩˥ mæ˩/
-%/hɤ˩-ʂe˩~ʂe˩-hĩ˥/: les gens en bonne santé, les jeunes en pleine forme
-Les Anciens, eh bien… les jeunes, en pleine forme, les bonnes choses (=les meilleurs morceaux), ils s'en privaient, ils n'en mangeaient pas!
+%fr d'abord noté /dzɯ˧ mɤ˧-kv̩˥ mæ˩/
+%fr /hɤ˩-ʂe˩~ʂe˩-hĩ˥/: les gens en bonne santé, les jeunes en pleine forme (reporté dans le dictionnaire)
+Les Anciens, eh bien… les jeunes, en pleine forme, les bonnes choses (=les meilleurs morceaux), ils n'en mangeaient pas! (=ils n'y touchaient pas: ils s'en privaient, pour les laisser aux personnes âgées ou aux enfants)
 如果有老人（在），那么，青年人，既健康的（人），不能（吃最好的那些食品），不会吃的！（年轻人会让给老人）
 
 mmm! ʂe˧ | dʑɤ˩-hĩ˥ | tʰv̩˧-kʰwɤ˥ | dʑɤ˩˥ | dzɯ˧ mɤ˧-kv̩˩, | tʰi˧-tɕɯ˥! | 
 %9
-%d'abord noté /dʑɤ˩-hĩ˩˥/, par erreur
+%fr d'abord noté /dʑɤ˩-hĩ˩˥/, par erreur
 Les beaux morceaux de viande, on n'en mangeait guère: on les gardait (pour une grande occasion, ou pour les personnes âgées)!
 是的！好的那（些）肉块，（自己）不怎么吃，是要存起来！（留给客人或长辈）
 
 ə˩pʰo˩˥ | hĩ˧bæ˧ le˧-ʝi˥-ze˩! | hĩ˧bæ˧ jo˧-kv̩˩, | pi˧. | 
 %10
-%On pourrait également dire: /ə˩pʰo˩ hĩ˩bæ˩ le˩-ʝi˥-ze˩/.
+%fr On pourrait également dire: /ə˩pʰo˩ hĩ˩bæ˩ le˩-ʝi˥-ze˩/.
 On disait: 'Il y a des invités qui vont venir! On va avoir des invités (un jour ou l'autre)'.
 会有外边来的客人！会来客人的！
 
@@ -78,22 +79,22 @@ tʰi˩˥, | zo˩no˥ ɲi˩ ʝi˩-se˩, | ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧-bi˧, | mɤ
 Tandis que maintenant, si on n'a rien du tout (=si on n'a pas suffisamment de provisions à la maison), on ne s'en fait pas. 'Qu'est-ce qui [te] tracasse? On va aller acheter [tout ce qu'il faut] au marché!', qu'on dit.
 而现在不一样了，（家里）什么都没有也不用担心。“你担心什么？去市场里买呗！”（人家）会这样说的。
 
- ə˧ʝi˧-tsʰi˧ʝi˧ ɲi˥ bi˩bi˩, | hĩ˧ mo˥-hĩ˩-dʑo˩ | hĩ˧=ɻæ˥-dʑo˩ | 'ə˧mi˧! | hĩ˧bæ˧ le˧-ʝo˥-kv̩˩! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧ mɤ˧-ɖo˧! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧-ɖɯ˧-kv̩˩!' | tʰi˧-tɕɯ˧-ɲi˥ mæ˩! |
+ ə˧ʝi˧-tsʰi˧ʝi˧ ɲi˥ bi˩-bi˩, | hĩ˧ mo˥-hĩ˩-dʑo˩ | hĩ˧=ɻæ˥-dʑo˩ | 'ə˧mi˧! | hĩ˧bæ˧ le˧-ʝo˥-kv̩˩! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧ mɤ˧-ɖo˧! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧-ɖɯ˧-kv̩˩!' | tʰi˧-tɕɯ˧-ɲi˥ mæ˩! |
 %13
-%/dzɯ˧-ɖɯ˧-kv̩˩/: on peut le manger; négation: /mɤ˧-ɖɯ˧-kv̩˧˥/.
-%d'abord noté /hĩ˧bæ˧ | le˧-ʝo˥-kv̩˩/, par erreur. En fait, le ton haut sur le verbe provient du nom; l'expression est donc nécessairement intégrée en un seul groupe tonal: /hĩ˧bæ˧ le˧-ʝo˥-kv̩˩/. En deux groupes, cela donnerait: /hĩ˧bæ˧ | le˧-ʝo˩-kv̩˩/.
+%fr /dzɯ˧-ɖɯ˧-kv̩˩/: on peut le manger; négation: /mɤ˧-ɖɯ˧-kv̩˧˥/.
+%fr d'abord noté /hĩ˧bæ˧ | le˧-ʝo˥-kv̩˩/, par erreur. En fait, le ton haut sur le verbe provient du nom; l'expression est donc nécessairement intégrée en un seul groupe tonal: /hĩ˧bæ˧ le˧-ʝo˥-kv̩˩/. En deux groupes, cela donnerait: /hĩ˧bæ˧ | le˧-ʝo˩-kv̩˩/.
 Même à notre époque (littéralement: 'même si on est maintenant dans l'époque actuelle [et plus dans l'âge d'or de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] 'Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!' On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]! / On faisait une réserve !
 现在，虽然不是那个时代了，老人家……人家还是会（这样想）：“啊，会有客人来！这块（肉），不要吃！那块呢，可以吃的！”就存（最好的肉，留给客人）！
 
-mmm… ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | mmm… le˧-hwæ˧, | ɖɯ˧-mɤ˧-tʰɑ˧˥, | ə˩gi˩! | ɑ˩ʁo˧ ʈʰææ̃˧ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! |
+mmm… ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | mmm… le˧-hwæ˧, | ɖɯ˧-mɤ˧-tʰɑ˧˥, | ə˩-gi˩! | ɑ˩ʁo˧ ʈʰææ̃˧ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! |
 %14; correspond au segment automatique numéro 8
 Euh... autrefois, euh... on ne pouvait pas se procurer [ces choses-là] en les achetant [dans des magasins, comme aujourd'hui], n'est-ce pas! Vrai de vrai, c'est à la maison qu'on conservait [les denrées alimentaires pour toute la maisonnée]!
 过去，买不到，对吧！真的是在家村（食品）！
 
 ə˧ʝi˧-tsʰi˧ʝi˧, | əəə… mmm… zo˩no˥, | ɖʐɯ˧qo˩ | le˧-hwæ˧, | ɖɯ˧-tʰɑ˧˥ | pi˧-bi˧-bi˧, | õ˧=bv̩˥ | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩, | dʑɤ˩ ʈʂɤ˧ ɲi˥, | pi˧-zo˩, | zo˩no˥ | ɑ˩ʁo˧ tʰi˧-tɕɯ˥!
 %15
-%avais d'abord noté /ɖɯ˧-v̩˧ tʰi˧-tɕɤ˥/, par erreur.
-%avais d'abord noté /ɖɯ˧-tʰɑ˧-bi˧ bi˧-bi˧/, par erreur.
+%fr avais d'abord noté /ɖɯ˧-v̩˧ tʰi˧-tɕɤ˥/, par erreur.
+%fr avais d'abord noté /ɖɯ˧-tʰɑ˧-bi˧ bi˧-bi˧/, par erreur.
 De nos jours, euh, même si on peut acheter des choses au marché, y trouver ce qu'on veut, eh bien, les choses qui sont nos propres [productions], on les considère comme bonnes (=comme meilleures que ce qu'on achète au marché); alors, on les serre à la maison! 
 现在呢，虽然可以在市场上买到，可是自己家生产的食物（直译：‘自己的那块’）算是好的（=算是比市场上的更好），于是会存在家里！
 
@@ -102,15 +103,15 @@ hĩ˧bæ˧ ɖɯ˧-v̩˧ tsʰɯ˩-bi˩-bi˩, | ɖɯ˧-v̩˥ tʰi˩-tɕɤ˩! |
 et si un invité vient, on (lui en) fait un bon plat! (littéralement: 'on [lui en] fait bouillir une casserolée')
 来了客人，就给煮一锅（好肉）！
 
-ə˧mɑ˧-ki˩ | ʁo˧dɑ˧ | <z…> zo˩no˥, | <ʈ… ʈ> ʈæ˧ʂɯ˧ ɖʐv̩˧-ʈʂʰɯ˧, | hĩ˧ | zo˩qo˧ mɤ˧-ɲi˩ hĩ˩ | le˧-tsʰɯ˩ ɲi˩ mæ˩. | 
+ə˧mɑ˧-ki˩ | ʁo˧dɑ˧ | <z…> zo˩no˥, | <ʈ… ʈ> D ʈæ˧ʂɯ˧ ɖʐv̩˧-ʈʂʰɯ˧, | hĩ˧ | zo˩qo˧ mɤ˧-ɲi˩ hĩ˩ | le˧-tsʰɯ˩-ɲi˩ mæ˩. | 
 %17
-%Léger bégaiement dans le passage /<z…> zo˩no˥, | <ʈ… ʈ> ʈæ˧ʂɯ˧/.
+%Léger bégaiement dans le passage /<z…> zo˩no˥, | <ʈ… ʈ> ʈæ˧ʂɯ˧/. Noté par le symbole D, pour 'Disfluence'.
 Chez moi (littéralement 'à moi, vers moi'), avant (=quand j'habitais à Yongning), eh bien, les amis de Dashi (son fils ethnologue), des gens, il en est venu de partout (=j'ai reçu des visiteurs des quatre coins du globe). 
 到我家，以前……那么……达石的朋友们，有来自各地的嘛。
 
 tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | 
 %18
-%Cette phrase fournit l'occasion de noter la prononciation de noms de lieux empruntés au chinois mandarin. (Reporté dans le dictionnaire: Taïwan: /tʰæ˩ʁwæ˧/: ˩ ˧; tʰæ˩ʁwæ˧-hĩ˧ +ɲi˥; Japon: ʐɯ˩pe˧, ʐɯ˩pe˧-hĩ˧; Pékin: pe˩tɕi˧, pe˩tɕi˧-hĩ#˥; Shanghaï: ʂæ˧hæ˥, ʂæ˧hæ˥-hĩ˩; Kunming: kʰu˧mi˩, avec une syllabe qui n'existe pas en na, seulement dans les emprunts: /kʰu/.)
+%fr Cette phrase fournit l'occasion de noter la prononciation de noms de lieux empruntés au chinois mandarin. (Reporté dans le dictionnaire: Taïwan: /tʰæ˩ʁwæ˧/: ˩ ˧; tʰæ˩ʁwæ˧-hĩ˧ +ɲi˥; Japon: ʐɯ˩pe˧, ʐɯ˩pe˧-hĩ˧; Pékin: pe˩tɕi˧, pe˩tɕi˧-hĩ#˥; Shanghaï: ʂæ˧hæ˥, ʂæ˧hæ˥-hĩ˩; Kunming: kʰu˧mi˩, avec une syllabe qui n'existe pas en na, seulement dans les emprunts: /kʰu/.)
 Il en est venu de Taïwan; il en est venu du Japon; oui!
 有台湾人来，嗯……有日本人来，对的！
 
@@ -119,16 +120,16 @@ Il en est venu de Taïwan; il en est venu du Japon; oui!
 euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!
 嗯……有上海人来，有昆明人来，有北京人来！
 
-le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv˧ tʰi˩-tɕɯ˩!
+le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv̩˧ tʰi˩-tɕɯ˩! |
 %20
-%/ʂe˧bv˧ tʰi˩-tɕɤ˩/: tons ˧ ˧ ˩ ˩ confirmés
+%fr /ʂe˧bv̩˧ tʰi˩-tɕɯ˩/: avais d'abord pensé à /ʂe˧bv˧ tʰi˩-tɕɤ˩/. Le schéma tonal est confirmé : tons ˧ ˧ ˩ ˩.
 %crdo-NRU_F4_BENEVOLENCE_11:
 Comme il venait (tous ces visiteurs), eh bien, moi, je réservais des saucisses,
 因为有（这样的贵宾来），我会存香肠的！
 
 mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | <z…> ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! |
 %21
-%On pourrait également dire: /le˧-tɕɤ˧ tʰi˥-ki˩ ɲi˩ mæ˩/.
+%fr On pourrait également dire: /le˧-tɕɤ˧ tʰi˥-ki˩ ɲi˩ mæ˩/.
 euh… je réservais des pieds de porc séchés; je réservais des membres de porc séchés; je réservais du lard. Et je faisais cuire ces ingrédients (littéralement: je faisais bouillir), comme ça!
 我会存猪脚、风干猪腿、琵琶肉。（客人）到我家来，我就煮，给（人吃）！
 
@@ -150,7 +151,7 @@ Nous deux, on était les deux seules adultes. [Note: deux petites-filles et un p
 <ǁ> ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥.  | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. | 
 %25
 %fr Le symbole ǁ note un clic ; je l'entends comme plutôt latéral (même si ce n'est pas très clair), d'où le choix de ce symbole. 
-%Vérifié: n'est pas /ɑ˩pʰo˩ dzi˩˥/.
+%fr Vérifié: n'est pas /ɑ˩pʰo˩ dzi˩˥/.
 Dashi (lui aussi)… ils étaient tous au loin. Eux, il arrivait qu'ils viennent (à la maison avec des amis) / il arrivait qu'ils nous ramènent des invités à la maison!
 （还有）达石（也在外边），他们都在外边。会有人跟他们一起来家里（=他们会带客人来家里的）。
 
@@ -164,15 +165,15 @@ hĩ˧bæ˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩, | <hĩ˧-ki˧ | ki˩-mɤ˩-di˩˥…> 
 (Mais il n'était pas question de se laisser aller à la gourmandise:) à l'arrivée d'invités / quand des invités se présentaient, si on n'avait rien eu à leur donner (littéralement: "si on n'avait pas eu de choses à leur donner") ç'aurait été une plaisanterie / ça aurait attiré des quolibets!
 （可是不要那样做：）客人来了，如果没有（合适的）食品给他们，会见笑！
 
-'ʈʂʰɯ˧=ɻ̩˧-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ ɑ˩ʁo˩ <ʁo˩> ɲi˩? | ə˧mi˧, | ʑi˧dv̩˧ mɤ˧-ʝi ni˥ gv̩˩!' pi˧-kv̩˩. |
+'ʈʂʰɯ˧=ɻ̩˧-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ ɑ˩ʁo˩ <ʁo˩> ɲi˩? | ə˧mi˧, | ʑi˧dv̩˧ mɤ˧-ʝi ni˥ gv̩˩!' | pi˧-kv̩˩, | pi˧-zo˩. |
 %28
-"Par chez eux, qu'est-ce que c'est que cette famille? La mère de famille, on dirait qu'elle ne sait pas tenir sa maisonnée!", qu'on dirait; alors, bien qu'on tue trois cochons chaque année, nous deux, on ne mangeait (guère) de viande!
-人家会说：“他们是什么样的一个家？/他们那家是怎么回事？主妇好像都不管家！”
+"Par chez eux, qu'est-ce que c'est que cette famille? La mère de famille, on dirait qu'elle ne sait pas tenir sa maisonnée!", qu'on dirait! Voilà ce qu'on (se) disait.
+人家会说：“他们是什么样的一个家？/他们那家是怎么回事？主妇好像都不管家！”是这样讲的。
 
-pi˧-zo˩, | ɖɯ˧-kʰv̩˧˥ | bo˩˥ | so˩-kv̩˩ qʰo˥ bi˩-bi˩, | njæ˧zɯ˩-dʑo˩, | ʂe˧ mɤ˧-dzɯ˧˥! | 
+ɖɯ˧-kʰv̩˧˥ | bo˩˥ | so˩-kv̩˩ qʰo˥ bi˩-bi˩, | njæ˧zɯ˩-dʑo˩, | ʂe˧ mɤ˧-dzɯ˧˥! | 
 %29
-Voilà ce qu'on disait; et bien qu'on tue trois cochons par an, nous autres (=les habitants à l'année de la demeure), on ne mangeait pas [cette] viande / les meilleures pièces de boucherie, elles n'étaient pas pour nous!
-是这样讲的。一年，我们虽然杀三头猪，但（自己）不吃肉！（不吃珍贵的那些块，也不吃新鲜肉）
+(Du coup,) bien qu'on tue trois cochons chaque année, nous deux, on ne mangeait (guère) de viande! / Bien qu'on tue trois cochons par an, nous autres (=les habitants à l'année de la demeure), on ne mangeait pas [cette] viande / les meilleures pièces de boucherie, elles n'étaient pas pour nous!
+一年，我们虽然杀三头猪，但（自己）不吃肉！（不吃珍贵的那些块，也不吃新鲜肉）
 
 lɑ˧ʐv̩˥ | -no˧˥ | tɕɤ˧ dzɯ˩! | 
 %30
@@ -208,8 +209,8 @@ De la sorte, eh bien... autrefois, ma grand-mère disait :
 
 hĩ˧-ɳɯ˩… hĩ˧-ki˧ ki˩, | hĩ˧ | tʰi˧-dzɯ˥-kʰɯ˩, | pi˧-dʑo˩, | ɑ˩pʰo˩˥, | zo˩no˥, | gv̩˧-ti˩ qo˩ ʐwɤ˩<-k…>-bi˩-kv̩˩! | 
 %36
-%la société: /ɖʐɯ˩kʰɤ˥/
-%/gv̩˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!/ Même sens que: /gv̩˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!/ 'parler de toutes parts, faire de la bonne publicité de partout'. Sens de: /gv̩˧-dʑɯ˩/: c'est un usage de 'rivière' comme classificateur: 'neuf fleuves'. Mais il n'est pas possible de combiner ce classificateur avec d'autres numéraux, seulement 'neuf'. 
+%fr la société: /ɖʐɯ˩kʰɤ˥/
+%fr /gv̩˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!/ Même sens que: /gv̩˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!/ 'parler de toutes parts, faire de la bonne publicité de partout'. Sens de: /gv̩˧-dʑɯ˩/: c'est un usage de 'rivière' comme classificateur: 'neuf fleuves'. Mais il n'est pas possible de combiner ce classificateur avec d'autres numéraux, seulement 'neuf'. (Reporté dans le dictionnaire.)
 [Tandis que] les gens [en parleront si]… Si on l'offre aux invités (littéralement: ‘si on le donne à manger aux gens’), à l'extérieur, eh bien, vous y gagnerez des compliments en abondance! (Littéralement: ‘il en sera question jusqu'à la neuvième strate!’ Façon métaphorique de dire ‘tout le monde en gardera le souvenir’, ‘la mémoire en restera loin et longtemps’. De même, le plus profond de la forêt se dit ‘la neuvième strate de la forêt’.)
 而人呢……如果送给人家吃，那么，这件事会被传播到老远、被记住很久！（直译：‘会投入到社会的第九层’。意思是：很多人会知道的。同样，最深的森林叫做‘森林的第九层’。）
 
@@ -223,10 +224,9 @@ Tout ce qu'on y gagne, c'est une [p'tite] strate [de graisse en plus] dans les h
 Tandis que si c'est des invités qui le mangent et qui l'emportent avec eux, c'est dans neuf strates [de la société, d'épaisseur de 'lien social'] qu'il en sera question! (Le souvenir de la bonne chère sera conservé et amplifié.)
 如果人家吃，带走，那么，在‘社会的九层’都会说（主人的好话）！
 
-õ˧˥ | le˧-dzɯ˥ | pi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ti˧ lɑ˥ do˩-kv̩˩! | mv̩˩si˧=ɻæ˥ | qʰæ˧pɤ˧ tʰi˧-tɕɯ˥-kv̩˩! | pi˧. |
+õ˧˥ | le˧-dzɯ˥ | pi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ti˧ lɑ˥ do˩-kv̩˩! | <mv̩˩si˧=ɻæ˥>[mv̩˩si˧˥] | qʰæ˧pɤ˧ tʰi˧-tɕɯ˥-kv̩˩! | pi˧. |
 %39
 %/mv̩˩si˧=ɻæ˥/: F4 souligne qu'il aurait été préférable de dire /mv̩˩si˧˥/
-%yyyyy ajout gv˧ dʑɯ˩ | ɖɯ˧-tsʰo˧ ʝi˧, | ʂɯ˧ lo˩ | ɖɯ˧-ʁɑ˧ ʝi˧! Proverbe du temps ancien: traverser neuf fleuves en un bond, passer sept vallées en un pas; contexte: pour rassurer les parents d'une jeune personne qui s'est éloignée de la maison. 
 %/qʰæ˧pɤ#˥/ 'crotte'
 “Si on mange (nos bonnes choses) nous-mêmes, il n'y a que nos hanches qui en profitent! Et au matin, on fait une crotte (et voilà tout ce qui en reste)!”
 “如果自己吃（自己的好东西），腰部得一小层（肥肉）而已！早上拉一团屎（就完了）！”
@@ -238,44 +238,44 @@ zo˩no˥, | “gv̩˧-ti˩” | pi˧-dʑo˩, | æ˧ʂæ˧-dʑo˩ | “gv̩˧-ti�
 Alors, quand on dit “neuf strates, eh bien... autrefois, on disait “neuf strates”, n'est-ce pas! (Par chez nous) les Na, on disait “neuf strates”!
 那么，“九层”这个说法呢……以前有“九层”这个说法，对吗！摩梭人就说“九层”！
 
-tʰi˩˥, | hæ˧ʐwɤ˩ | pi˧-dʑo˩, | əəə… zo˩no˥, | tɕʰɤ˩ʂɯ˩kɤ˩˥ | hĩ˧ ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | pi˧, ◊ ə˩-gi˩! |
+tʰi˩˥, | hæ˧ʐwɤ˩ | pi˧-dʑo˩, | əəə… zo˩no˥, | tɕʰɤ˩ʂɯ˩kɤ˩˥ | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | pi˧, ◊ ə˩-gi˩! |
 %41
-%/tɕʰɤ˩ʂɯ˩kɤ˩˥/: serait une formule chinoise pour dire 'pour longtemps, pendant bien longtemps, durablement'; 前时刻？ La formule en question n'est pas très claire pour F4, qui juge qu'il aurait été préférable d'omettre cette explication qu'elle est bien en peine de développer lors de la transcription.
+%fr /tɕʰɤ˩ʂɯ˩kɤ˩˥/: serait une formule chinoise; serait-ce l'expression chinoise 前时刻? ou 全世界?? La formule en question n'est pas très claire pour F4, qui juge, après coup, qu'il aurait été préférable d'omettre cette explication qu'elle est bien en peine de développer lors de la transcription.
 Alors, pour dire ça en chinois, eh bien... on dirait : 'les gens d'autrefois disaient ça!', n'est-ce pas ! / Tout ça, c'est des paroles d'autrefois (前时刻), comme on dit en chinois ! 
 用汉语来说呢，嗯……那么，‘前时刻’（汉语借词）的人会这样说的，对嘛。
 
-ʈʂʰɯ˧ | ɑ˩ʁo˧ tʰv˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧, | pi˧, | ʐwɤ˩-kv̩˩˥, | pi˧, | zo˩no˥! | 
+ʈʂʰɯ˧ | ɑ˩ʁo˧ tʰv̩˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧, | pi˧, | ʐwɤ˩-kv̩˩˥, | pi˧, | zo˩no˥! | 
 %42
 %crdo-NRU_F4_BENEVOLENCE_230.0
-%/ɖɯ˧-kʰwɤ˧ dzɯ˧/: objet au ton H$, verbe au ton H, cela donne M.M.M+L : /ɖɯ˧-kʰwɤ˧ dzɯ˧/, /ɖɯ˧-kʰwɤ˧ dzɯ˧-ze˩/. On s'attend donc à ce que le schéma tonal avec l'expérientiel soit : /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˩/. À confirmer par F4. Réponse le 20 avril 2018: est: ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧ (qui donne, si on y ajoute le perfectif: /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧-ze˩/).
+%fr /ɖɯ˧-kʰwɤ˧ dzɯ˧/: objet au ton H$, verbe au ton H, cela donne M.M.M+L : /ɖɯ˧-kʰwɤ˧ dzɯ˧/, /ɖɯ˧-kʰwɤ˧ dzɯ˧-ze˩/. On s'attend donc à ce que le schéma tonal avec l'expérientiel soit : /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˩/. À confirmer par F4. Réponse le 20 avril 2018: est: ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧ (qui donne, si on y ajoute le perfectif: /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧-ze˩/).
 Il est venu à la maison (=chez nous), et a mangé ce [bon] morceau; il en parlera (aux autres, à sa maisonnée)!
 他（=客人）来我们家，吃了这样一块（美食），他会（跟别人）说的！
 
-zo˩no˥, | njɤ˧-ki˧=ɻ˩, | əəə... ʐɯ˩pe˧ hĩ˧-dʑo˩, | ʝi˧kʰv̩˧ tsʰɯ˧˥ ◊ -dʑo˩, | "ə˧mɑ˧, | no˧ | ʂe˧, | ə... ʈʂʰɯ˧ | qʰɑ˩ne˩ʝi˥ | tʰi˧-tɕɯ˧ ɲi˥?" | pi˧-ɲi˩. |
+zo˩no˥, | njɤ˧-ki˧=ɻ˩, | əəə... ʐɯ˩pe˧ hĩ˧-dʑo˩, | ʝi˧kʰv̩˧ tsʰɯ˧˥ ◊ -dʑo˩, | "ə˧mɑ˧, | no˧ | ʂe˧, | ə... ʈʂʰɯ˧ | qʰɑ˩ne˩ʝi˥ | tʰi˧-tɕɯ˧ ɲi˥?" | pi˧-ɲi˩ wɤ˩. |
 %43
-%/qʰɑ˩ne˩ʝi˥/ 'comment' pour signifier 'pourquoi' (interrogatif qui se dit en na /ə˧tse˧-ʝi˥/): serait-ce un calque du chinois? En mandarin, 怎么 'comment' peut s'employer de façon concurrente à 为什么 'pourquoi' pour porter une question portant sur la cause ('pourquoi') plutôt que sur le comment.
-%/njɤ˧-ki˧=ɻ˩/: tons confirmés, est bien M.M.L (non M.L.L ni M.M.M). Sens: allatif, 'vers chez moi'
-%kʰv̩˧tsʰɯ˧˥ ou kʰv˩̩tsʰɯ˩˥: sens ?? en fait : c'est : /ʝi˧kʰv̩˧ tsʰɯ˧˥/ 'certains sont venus'
+%fr /qʰɑ˩ne˩ʝi˥/ 'comment' pour signifier 'pourquoi' (interrogatif qui se dit en na /ə˧tse˧-ʝi˥/): serait-ce un calque du chinois? En mandarin, 怎么 'comment' peut s'employer de façon concurrente à 为什么 'pourquoi' pour porter une question portant sur la cause ('pourquoi') plutôt que sur le comment.
+%fr /njɤ˧-ki˧=ɻ˩/: tons confirmés, est bien M.M.L (non M.L.L ni M.M.M). Sens: allatif, 'vers chez moi'
+%fr kʰv̩˧tsʰɯ˧˥ ou kʰv˩̩tsʰɯ˩˥: sens ?? en fait : c'est : /ʝi˧kʰv̩˧ tsʰɯ˧˥/ 'certains sont venus'
 Alors, chez nous, euh... des Japonais, il y en qui sont venus (en visite: collègues et amis de Dashi); ils m'ont demandé: "Ama, vous, la viande, euh... ça... pourquoi vous gardez tout en réserve?"
 那么，到我这边来的，嗯……来过一些日本人（直译：‘日本人，有一些来了’），（他们问：）“阿妈，你为什么要存肉呢？”
 
 tʰi˩˥, | njɤ˧-ɳɯ˧: | "le˧-ʑi˩-ɻ̍˩, | mv̩˧-ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧ | əəə… tʰi˧-tɕɯ˧-ɲi˥" | pi˧. |
-%/mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: avais d'abord noté : /tʰi˧-tɑ˧nɑ˩/, par erreur.
-%/mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: explication : c'est un synonyme de /ʂwæ˩a/ 'fumer'; la viande s'imprègne de la fumée, et prend un bon goût.
+%fr /mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: avais d'abord noté : /tʰi˧-tɑ˧nɑ˩/, par erreur.
+%fr /mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: explication : c'est un synonyme de /ʂwæ˩a/ 'fumer'; la viande s'imprègne de la fumée, et prend un bon goût.
 %44
 Alors, moi, (je lui ai expliqué:) "On la prend, on la fume là, au-dessus du foyer; euh... on la garde de côté". 
 然后我解释了：“拿（肉），火塘上面（挂着）熏，嗯……就存起来！”
 
 "ɖwæ˧˥ | ʐv̩˩˥! | ʁɑ˩mi˥! | ɖwæ˧˥ | ʐv̩˩˥!" | pi˧-zo˩, | tʰv̩˧ɲi˧ | ɖɯ˧-v̩˥ tɕɤ˩-dʑo˩, | ʂe˧... | ʂe˧bv̩˧... | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | ʂe˧bv̩˧ ɖɯ˧-kwɤ˩ tɕɤ˩, |
-%/ʂe˧bv̩˧ ɖɯ˧-kwɤ˩ tɕɤ˩/ 一串“干肉”（香肠）; avais d'abord pensé à /ɖɯ˧-kʰwɤ˥/, par erreur, en me demandant : '/ɖɯ˧-kʰwɤ˥/ réalisé sans aspiration: affaiblissement? ou s'agirait-il ici d'un autre classificateur?' Exemple d'erreur de notation due à une interprétation globale de la phrase plutôt qu'à une écoute 'phonologique'. 
+%fr /ʂe˧bv̩˧ ɖɯ˧-kwɤ˩ tɕɤ˩/ 一串“干肉”（香肠）; avais d'abord pensé à /ɖɯ˧-kʰwɤ˥/, par erreur, en me demandant : '/ɖɯ˧-kʰwɤ˥/ réalisé sans aspiration: affaiblissement? ou s'agirait-il ici d'un autre classificateur?' Exemple d'erreur de notation due à une interprétation globale de la phrase plutôt qu'à une écoute 'phonologique'. 
 %45
-%Question : qui dit 'c'est bon': l'invité? Ama? Parole prêtée à de futurs invités? Réponse: est ce que disent les invités.
+%fr Question : qui dit 'c'est bon': l'invité? Ama? Parole prêtée à de futurs invités? Réponse: est ce que disent les invités.
 "Comme c'est bon! Vrai de vrai, c'est délicieux!" s'exclame l'invité. Ce jour-là, on fait bouillir toute une casserole: des saucisses... On tue un poulet, on fait bouillir des saucisses,
 “很好吃！啊呀！真好吃！”（客人）说。那天煮一锅：香肠……杀一只鸡，猪一些香肠，
 
 əəə… bo˩ʈʂʰæ˥ | ɖɯ˧-ʈv̩˩ tɕɤ˩, | əəə… ho˧tʰv̩˧ ɖɯ˧-ʈv̩˩ tɕɤ˩, | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-ʈʂo˩, | hĩ˧ | ɲi˧tsʰi˧qʰɑ˧-kv̩˥ | ɖɯ˧-ʈʂo˩ dzɯ˩. | 
 %incertitude lors de l'écoute : /ɖɯ˧ʈʂʰv̩˧ dzɯ˩/? /ɖɯ˧-ʈʂo˧tsɯ˥/ 'une tablée'? /ɖɯ˧-tɕʰo˩ dzɯ˩/ 'manger ensemble'? ʈʂo˧tsɯ˥: emprunt pour 'table'? ou encore: /ɖɯ˧-tɕʰo˩ dzi˩/ 'être assis ensemble'? Réponse : est : /ɖɯ˧-ʈʂo˩, ɖɯ˧-ʈʂo˩ dzɯ˩/. Il s'agit du classificateur des repas.
-%/ɖɯ˧-ʈʂo˩/: 'une table'? Non: signifie 'un repas'.
+%fr /ɖɯ˧-ʈʂo˩/: 'une table'? Non: signifie 'un repas'.
 %46
 on fait bouillir un quartier de viande conservée, on fait bouillir un quartier de jambon; de la sorte... on sert un repas à plus de vingt personnes! (littéralement: 'vingt personnes et quelques prennent un repas')
 煮一大块琵琶肉，煮一大块火腿，这样。二十几个人（一起）吃一（大）顿！
@@ -283,18 +283,19 @@ on fait bouillir un quartier de viande conservée, on fait bouillir un quartier 
 mmm… ɖɯ˧-ʈʂo˩ dzɯ˩-dʑo˩, | le˧-hɯ˩-dʑo˩, | zo˩no˥, | ʈæ˧ʂɯ˧-lɑ˧ | njæ˧zɯ˩-bv̩˩ | ɕjɤ˧pʰje˥ | le˧-pʰæ˩, | ə˩-gi˩! |
 %fr reporté dans le dictionnaire : réalisation de 'photo', 相片, emprunté au chinois : n'est pas /ɕjɤ˧pʰjɤ˥/ mais /ɕjɤ˧pʰje˥/, réalisé proche de [ɕjɤ˧pʰjɛ˥]. On peut dire 'prendre une photo' de deux façons : /le˧-lɑ˧˥/, /le˧-pʰæ˩/. 
 %Utterance ID: BENEVOLENCE.27 
-%Transcription automatique : tʰi˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧po˧˥ | njɤe˧kwɤ˧˥ | ə˧mɑ˧ki˧ | le˧ho˩tsʰɯ˩dʑo˩ | ɑ˩ʈʰæ˧æ˧nɑ˩ʈʂʰɯ˥dʑo˩ | hĩ˧ʈʂɤ˧fv̩˧zo˩ | zo˩no˥ | hĩ˧bo˧ | mæ˧zo˧ko˩ | hĩ˧ɻæɑ˥wo˩tsʰo˩ | hĩ˧pʰv̩˥ | ɖɯ˧ʝi˧zo˧kv̩˩pi˧zo˩ |  
 %47
 Mmmh... (les gens) prennent un repas; quand ils partent, eh bien, Dashi prend aussi une photo de nous, n'est-ce pas! (Pour faire fête aux invités, non seulement on leur sert un bon repas, mais après, on fait une photo ensemble, pour garder le souvenir de ce jour-là.)
 吃了一顿，（他们）回去（之前），达石[阿妈的大儿子]也拍我们的相片，对吧！
 
 ʈʂʰɯ˧ne˧ʝi˥ | le˧-po˧˥, | njɤ˧-ki˩ | wɤ˩˥ | ə˧mɑ˧-ki˧ | le˧-hwɤ˩-tsʰɯ˩-dʑo˩, | 
 %48
+%Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥ | le˧po˧˥ | njɤe˧kwɤ˧˥ | ə˧mɑ˧ki˧ | le˧ho˩tsʰɯ˩dʑo˩ | 
 (ils) emmenaient (les photos), et après, ils me les expédiaient (après les avoir fait développer)!
 他们这样拿走（相片，当一个纪念），然后寄给我！
 
-əəə... ʈʰææ̃˧, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | hĩ˧ ʈʂɤ˧fv̩˧-zo˧<-kv̩˩>... | zo˩no˥, | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩. | 
+əəə... ʈʰææ̃˧, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | hĩ˧ ʈʂɤ˧fv̩˧-zo˧, <əəə... hĩ˧...> | zo˩no˥, | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩. | 
 %49
+%Transcription automatique : ɑ˩ʈʰæ˧æ˧nɑ˩ʈʂʰɯ˥dʑo˩ | hĩ˧ʈʂɤ˧fv̩˧zo˩ | zo˩no˥ | hĩ˧bo˧ | mæ˧zo˧ko˩ | hĩ˧ɻæɑ˥wo˩tsʰo˩ | hĩ˧pʰv̩˥ | ɖɯ˧ʝi˧zo˧kv̩˩pi˧zo˩ |  
 %/ʈʂɤ˧fv̩˧-zo˧/: emprunt chinois 照顾. La locutrice s'interrompt, se rendant compte qu'elle utilise un mot chinois, et reprend: /hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩/. On pourrait également dire: /hĩ˧ pʰv̩˩ɖɯ˩-kv̩˩!/ 'on avait des égards pour les gens!' 
 Vrai de vrai, les Na, ils prenaient soin d'autrui! ('prendre soin': emprunt chinois) euh, ils prenaient soin des gens (mot na)!
 摩梭人，真的很会照顾别人！（‘照顾’：汉语借词）那么……很会照顾别人！（‘照顾’：摩梭话）
@@ -308,7 +309,7 @@ Quand quelqu'un venait à la maison (=quand il venait un invité), on s'occupait
 %Utterance ID: BENEVOLENCE.28
 %Transcription automatique : æ˧ʂæ˧ | hĩ˧mo˥hĩ˩ɳɯ˩kwɤ˧ | po˧dɑ˧kv̩˥mæ˩ | 
 %51
-%/kwɤ˧pɤ˧ lɑ˧˥/: enseigner
+%fr /kwɤ˧pɤ˧ lɑ˧˥/: enseigner
 Autrefois, ce sont les vieux qui prodiguaient ces enseignements (=qui enseignaient tout cela);
 以前，老人家会教这些（道理）的，
 
@@ -326,73 +327,79 @@ De nos jours, quand il manque quelque chose, hop, on va au marché, on achète (
 ɑ˩ʁo˧-dʑo˩ | pi˧, | zo˩no˥, | njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩, | dʑɤ˩-hĩ˧ tʰv̩˧-kʰwɤ˥ | tʰi˧-tɕɯ˥, | pi˧! | dzɑ˧-hĩ˧ | tʰv̩˧-kʰwɤ˥-dʑo˩ | le˧-dzɯ˥! |
 %Utterance ID: BENEVOLENCE.29
 %54
-%Transcription automatique : ɑ˩ʁo˧dʑo˩ | pi˧ | zo˩no˥njɤ˧ki˧zo˧ki˧ɲi˥bi˩ | dʑɤ˩hĩ˥ | ɖɯ˧kʰwɤ˥ | tʰi˧tɕɯ˥pæ˧ | dzɑ˧hĩ˧ | tʰv̩˧kʰwɤ˥ | le˧dzɯ˥! | hĩ˧le˧ʝjoi˥kv̩˩ | hĩ˧ɳɯ˩ | õ˧ʐwɤ˧kv̩˩˥ | ə˧zɯ˩ | tɕɯ˧di˧mɤ˧dʑo˥dʑo˩ |  
+%Transcription automatique : ɑ˩ʁo˧dʑo˩ | pi˧ | zo˩no˥njɤ˧ki˧zo˧ki˧ɲi˥bi˩ | dʑɤ˩hĩ˥ | ɖɯ˧kʰwɤ˥ | tʰi˧tɕɯ˥pæ˧ | dzɑ˧hĩ˧ | tʰv̩˧kʰwɤ˥ | le˧dzɯ˥! |
 %/njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩/ : vérifier le sens. Réponse : cela veut dire : j'expliquais à Geiruo, je faisais part à Geiruo de ces bonnes habitudes.
 A la maison, eh bien, je donne le même conseil à (ma belle-fille) Geiruo: je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !
 在家，我给（我媳妇）给若（这样的建议）：好的那块，存起来！不太好的那块，（给自己）吃！
 
 hĩ˧ le˧-jo˥-kv̩˩, | hĩ˧-ɳɯ˩ | õ˧ ʐwɤ˧-kv̩˥, | ə˧zɯ˩ | tɕɯ˧-di˧ mɤ˧-dʑo˥-dʑo˩: |  
 %55
+%Transcription automatique : hĩ˧le˧ʝjoi˥kv̩˩ | hĩ˧ɳɯ˩ | õ˧ʐwɤ˧kv̩˩˥ | ə˧zɯ˩ | tɕɯ˧di˧mɤ˧dʑo˥dʑo˩ |  
 il y a des gens qui vont venir; les gens parleront de nous ; si on n'a pas de provisions, (ils diront:)
 会有人来，他们会谈我们（评论我们），如果咱们俩没有存货（家里没有备好给客人的食物），（他们会说：）
 
-“ooo! ʈʂʰɯ˧-ɻ̍˩, | ɑ˩ʁo˧ hĩ˧ ɲi˧-kv̩˧ tʰi˧-dʑo˧˥, | ɖɯ˧-sɑ˥ | gɤ˩-tʰv̩˧-di˧ mɤ˧dʑo˧˥!” | pi˧. | 
+“ooo! ʈʂʰɯ˧-ɻ̍˩, | ɑ˩ʁo˧ hĩ˧ ɲi˧-kv̩˧ tʰi˧-dʑo˧˥, | ɖɯ˧-sɑ˥ | gɤ˩-tʰv̩˧-di˧ mɤ˧-dʑo˧˥!” | pi˧. | 
 %Utterance ID: BENEVOLENCE.30 
 %56
-%Transcription automatique : õʈʂʰɯ˧ɻ̍˩ɻ̍˩ | ɑ˩ʁo˧hĩ˧ɲi˧kv̩˧˥ | tʰi˧dʑi˧i | ɖɯ˧sɑ˥ | gɤ˩tʰv̩˧di˧mɤ˧dʑo˧ | pi˧ | zo˩no˥ | hĩ˧ɳɯ˩ | ʐwɤ˩kv̩˩˥ | hĩ˧mo˥ɻ̍˩dʑo˩hĩ˧dʑo˩ | əəə…le˧ʂɯ˧kv̩˥ | tsʰɯ˧ɖʐɯ˧ɤ˩ | hi˧li˩ |  
-%de: /gɤ˩-tʰv̩˧-di˧˥/
+%Transcription automatique : õʈʂʰɯ˧ɻ̍˩ɻ̍˩ | ɑ˩ʁo˧hĩ˧ɲi˧kv̩˧˥ | tʰi˧dʑi˧i | ɖɯ˧sɑ˥ | gɤ˩tʰv̩˧di˧mɤ˧dʑo˧ | pi˧ |
+%fr de: /gɤ˩-tʰv̩˧-di˧˥/
 “Eeeh ben! Elles, elles sont deux à la maison, mais elles n'ont rien à 'sortir' (du garde-manger pour nous l'offrir)!”
 喔！他们家里有两个人，（但还是）一点东西也没有！
 
 zo˩no˥ | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥. | 
 %57
+%Transcription automatique : zo˩no˥ | hĩ˧ɳɯ˩ | ʐwɤ˩kv̩˩˥ |
 Alors... les gens vous critiquent (littéralement "les gens parlent"). 
 那么，人家会说（=会批评）。
 
 hĩ˧mo˥-hĩ˩ dʑo˩-hĩ˩ dʑo˩, | əəə…le˧-ʂɯ˧-kv̩˧˥! | 
+%Transcription automatique : hĩ˧mo˥ɻ̍˩dʑo˩hĩ˧dʑo˩ | əəə…le˧ʂɯ˧kv̩˥ |
 S'il y a des personnes âgées à la maison, euh... ils viennent à mourir un jour ! / ils peuvent passer soudain de vie à trépas ! (littéralement: 'ils peuvent mourir')
 （家里）如果有老人，嗯……他们会去世的！ / 他们不知何时会死的！
 
 tʰv̩˧ ɖʐɯ˥kʰɤ˩, | hi˧lɤ˩ | ɖɯ˧-pi˧ gɤ˥ tʰv̩˩-di˩ mɤ˩-dʑo˩, | pi˧-dʑo˩ | hĩ˧-ɳɯ˩ | ʐæ˩-kv̩˩˥, | pi˧zo˩. | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! |
 %Utterance ID: BENEVOLENCE.31 
-%Transcription automatique : h | ɖɯ˧pʰi˧gɤ˧˥ | tʰv̩˩di˩mɤ˩dʑo˩ | pi˧dʑo˩ | hĩ˧ | ɳe˧ʐæ˩kv̩˧˥ | pi˧zo˩ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩ | le˧ʐwɤ˩ | ɖɯ˧kʰv̩˥ | do˩ | qʰɑ˩qʰv̩˩qʰo˥bi˩bi˩dʑɤ˩hĩ˧dɯ˧tɕɯ˥ | tsʰi˧ʝi˧bo˩˥ | le˧qʰo˧˥ |  
+%Transcription automatique : tsʰɯ˧ɖʐɯ˧ɤ˩ | hi˧li˩ | ɖɯ˧pʰi˧gɤ˧˥ | tʰv̩˩di˩mɤ˩dʑo˩ | pi˧dʑo˩ | hĩ˧ | ɳe˧ʐæ˩kv̩˧˥ | pi˧zo˩ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩ |
 %59
 A ce moment-là, si on n'a pas aussitôt quelque chose à sortir (de la réserve pour préparer un repas pour les gens qui viennent à la maison), on est l'objet de quolibets. Voilà ce qu'on disait !
 到那时刻，假如无法立即拿出来一些（准备请客的饭）
 
 le˧-ʐwɤ˩, | ɖɯ˧-kʰv̩˧˥ | bo˩˥ | qʰɑ˩kv̩˩ qʰo˥-bi˩-bi˩, | dʑɤ˩-hĩ˥ | tʰi˧-tɕɯ˥! | 
 %60
+%Transcription automatique : le˧ʐwɤ˩ | ɖɯ˧kʰv̩˥ | do˩ | qʰɑ˩qʰv̩˩qʰo˥bi˩bi˩dʑɤ˩hĩ˧dɯ˧tɕɯ˥ | 
 On disait aussi : quel que soit le nombre de porcs qu'on abat dans l'année, on garde (toujours) en réserve le bon (=les bons morceaux)!
 还说：一年无论杀多少头猪，都要村好的（肉）！
 
 tsʰi˧ʝi˧, | bo˩˥ | le˧-qʰo˧˥, | <le...> tʰi˧-tɕɯ˧-se˥ | wɤ˩˥ | <tsʰi˧ʝi˧...> | so˧ʝi˥ | bo˩ qʰo˧-dʑɯ˧, | tsʰe˧ɬi˧mi˧-qo˧-ɳɯ˧ | tʰi˩˥ | wɤ˩˥ | <l...> ɖɯ˧-pi˧˥ | le˧-dzɯ˥! | 
 %Utterance ID: BENEVOLENCE.32 
-%Transcription automatique : ze˩tʰi˧tɕɯ˩se˥ | wɤ˩˥ | tsʰi˧ʝi˧ | so˧ʝi˥ | bo˩qʰwɤ˧dzi˧ | tsʰe˧ɬi˧mi˧qo˧ɳɯ˧ | tʰi˩˥ | wɤ˩˥zɯ | ɖɯ˧pi˧ | le˧dzɯ˥ | wɤ˩˥ | tsʰe˧ʝi˧ | le˧qʰv̩˩ | wɤ˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧tɕɯ˥kv̩˩mæ˩ | nɑ˩ʈʂʰɯ˥ |  
+%Transcription automatique : tsʰi˧ʝi˧bo˩˥ | le˧qʰo˧˥ | ze˩tʰi˧tɕɯ˩se˥ | wɤ˩˥ | tsʰi˧ʝi˧ | so˧ʝi˥ | bo˩qʰwɤ˧dzi˧ | tsʰe˧ɬi˧mi˧qo˧ɳɯ˧ | tʰi˩˥ | wɤ˩˥zɯ | ɖɯ˧pi˧ | le˧dzɯ˥ |
 %61
-%bo˩ qʰo˧-dʑɯ˧: le moment de tuer le cochon / la date est venue de tuer le cochon
+%fr /bo˩ qʰo˧-dʑɯ˧/: le moment de tuer le cochon / la date est venue de tuer le cochon
 Cette année, on tue le cochon, on garde en réserve (la viande); ensuite, <cette année...> l'année prochaine, au moment de tuer le cochon, (c'est-à-dire) au dixième mois de l'année, eh bien, à nouveau... on mange un peu (de la viande du cochon: les bas morceaux, ceux qu'on ne conserve pas)!
 
 wɤ˩˥ | tsʰe˧ʝi˧ | le˧-qʰo˧-hĩ˥, | wɤ˩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! | 
 %62
+%Transcription automatique : tsʰe˧ɬi˧mi˧qo˧ɳɯ˧ | tʰi˩˥ | wɤ˩˥zɯ | ɖɯ˧pi˧ | le˧dzɯ˥ | wɤ˩˥ | tsʰe˧ʝi˧ | le˧qʰv̩˩ | wɤ˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧tɕɯ˥kv̩˩mæ˩ |
 et à nouveau, ceux qu'on tue cette année, on les conserve ainsi / on les conserve de même façon!
 今年杀的猪（的肉），也同样存起来！
 
 nɑ˩ʈʂʰɯ˥-dʑo˩, | hĩ˧... | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩, pi˩-kv̩˩. | 
 %63
 %Utterance ID: BENEVOLENCE.33 
-%Transcription automatique : tɕi˩ | hĩ˧ | hĩ˧ʁo˧mæ˧so˧kv̩˩pi˩kv̩˩ | nɑ˩ʈʂʰɯ˥dʑɤ˩ʈʂæ˧dʑo˥ | ʂe˧sɑ˩ | dʑɤ˩ʈʂɤ˩ | ʂe˧bv̩˧dʑo˥ʈʂɤ˩ | bo˩kʰv̩˥dʑo˩ʈʂʰɤ˩ | go˩ʈʂʰæ˥dʑɤ˩ʈʂæ˩ | ɑ˩qʰo˩hĩ˩ | le˧tsʰi˥ĩ˩ | hĩ˧ʈʂʰɯ˥ 
+%Transcription automatique : nɑ˩ʈʂʰɯ˥ | tɕi˩ | hĩ˧ | hĩ˧ʁo˧mæ˧so˧kv̩˩pi˩kv̩˩ |
 Les Na, ils savent prendre soin des gens, dit-on.
 摩梭人会关心别人。 / 摩梭话传统文化里面，好客和关心别人是核心概念。
 
 nɑ˩-ʈʂʰɯ˥, | dʑɤ˩ ʈʂɤ˧-dʑo˧, | ʂe˧sɑ˩ dʑɤ˩ ʈʂɤ˩, | ʂe˧bv̩˧ dʑɤ˥ ʈʂɤ˩, | bo˩kʰɯ˥ dʑɤ˩ ʈʂɤ˩, | bo˩ʈʂʰæ˥ dʑɤ˩ ʈʂɤ˩! | ɑ˩pʰo˩-hĩ˩ le˩-tsʰɯ˩-hĩ˥! | 
 %tons de dʑɤ˩ʈʂɤ˧-dʑo˧: tv
+%Transcription automatique : nɑ˩ʈʂʰɯ˥dʑɤ˩ʈʂæ˧dʑo˥ | ʂe˧sɑ˩ | dʑɤ˩ʈʂɤ˩ | ʂe˧bv̩˧dʑo˥ʈʂɤ˩ | bo˩kʰv̩˥dʑo˩ʈʂʰɤ˩ | go˩ʈʂʰæ˥dʑɤ˩ʈʂæ˩ | ɑ˩qʰo˩hĩ˩ | le˧tsʰi˥ĩ˩ |
 %64
 Pour les Na, les bons morceaux (=ce qui est considéré comme des bons morceaux, c'est:) les membres séchés avec l'os, c'est considéré comme une belle pièce; la saucisse, c'est une belle pièce; les pieds de porc, c'est une belle pièce; la viande conservée, c'est une belle pièce, pour quand des gens arrivent (=pour les invités)!
 摩梭人的话，算好（肉）的呢，（有）：风干猪腿算是好的，香肠算是好的，猪脚算是好的，琵琶肉算是好的，来客人的时候！
 
 hĩ˧-ʈʂʰɯ˧, əəə... | nɑ˩ hɑ˧ ɲi˥, | pi˧-zo˩ | ɖwæ˧˥ | fv̩˧ ʝi˧ kv̩˥ mæ˩! | 
 %Utterance ID: BENEVOLENCE.34 
-%Transcription automatique :  | nɑ˩hɑ˧ɲi˩ | pi˧zo˩ | ɖwæ˧˥fv̩˩ʝi˩kv̩˧˥ | mæ˩ | tʰi˩˥ | zo˩qo˧ | lwæ˧tsʰɯ˩bi˩ | hɑ˧le˧gv̩˩tʰi˧hwɤ˧˥ | ɑ˩mɑ˧ʈʂʰɯ˥tɕi˩ | le˧ʝi˧ʑi˩tæ˧ʈʂʰɯ˧ɳɯ˩tʰi˩ho˥zo˩ | ə˧lɑ˧ | tsʰi˧ʝi˧ | hĩ˧le˧wɑ˥ho˩ | hɑ˧ɖv̩˧kʰɯ˧ 
+%Transcription automatique : hĩ˧ʈʂʰɯ˥ | nɑ˩hɑ˧ɲi˩ | pi˧zo˩ | ɖwæ˧˥fv̩˩ʝi˩kv̩˧˥ | mæ˩ | 
 %tons vérifiés : n'est pas /fv̩˧ʝi˧ kv̩˧˥/
 %65
 Les gens, euh... la nourriture na, eh bien, ils adorent ça ! / La bonne nourriture na, les visiteurs, ils adorent ça !
@@ -400,23 +407,26 @@ Les gens, euh... la nourriture na, eh bien, ils adorent ça ! / La bonne nourrit
 
 tʰi˩˥ | zo˩qo˥ | le˧-tsʰɯ˩-bi˩, | hɑ˧ le˧-gv̩˩, | tʰi˧-hu˥! | 
 %66
+%Transcription automatique : tʰi˩˥ | zo˩qo˧ | lwæ˧tsʰɯ˩bi˩ | hɑ˧le˧gv̩˩tʰi˧hwɤ˧˥ | 
 Alors, d'où que vienne l'invité, on fait à manger, et puis on attend! 
 无论客人来自哪里，（都要一样好对待：我们）做饭，就等（人家的到来）！
 
 ə˧mɑ˧ | ʈʂʰɯ˧-tɕi˩ | le˧-ʝi˩-ze˩, | tæ˧ʂɯ˧-ɳɯ˧ tjɤ˧hwɑ˧ lɑ˥: | “ə˧mɑ˧! | tsʰi˧ɲi˧ | hĩ˧ le˧-jo˥-ho˩! | hɑ˧ ɖɯ˧-kʰwɤ˧ gv̩˥-ɻ˩!” | pi˧. | 
 %67
+%Transcription automatique : ɑ˩mɑ˧ʈʂʰɯ˥tɕi˩ | le˧ʝi˧ʑi˩tæ˧ʈʂʰɯ˧ɳɯ˩tʰi˩ho˥zo˩ | ə˧lɑ˧ | tsʰi˧ʝi˧ | hĩ˧le˧wɑ˥ho˩ | hɑ˧ɖv̩˧kʰɯ˧ gv̩˥ɻ̍ | pi˧ | 
 Quand ces gens viennent chez moi, Dashi (me) passe un coup de fil: “Ama! Aujourd'hui, il y a des invités qui vont venir! Prépare de quoi manger!” qu'il dit.
 他们来我家（的时候），达石打电话来，说：“阿妈！今天有人要来！你准备饭吧！”
 
 mmm… hɑ˧ | le˧gv̩˧~gv̩˥, | tʰi˧-hu˥! | <lo˩q...> lo˩qo˥ | hɑ˧ | tʰi˧-tɕɤ˧˥! | 
 %Utterance ID: BENEVOLENCE.35 
-%Transcription automatique : gv̩˥ɻ̍ | pi˧ | mmm…ɑ˩hɑ˧ | le˧gv̩˩kʰv̩˩ | tʰi˧kʰv̩˧˥ | mɤ˩lo˩qo˧ | hɑ˧ | tʰi˧tɕɤ˧˥ | no˩kv̩˧˥ | hɑ˧bv̩˥mɤ˩gv̩˩ | lo˧qo˧hɑ˥ | tʰi˧tɕɤ˧˥ | ə˧ 
+%Transcription automatique : mmm…ɑ˩hɑ˧ | le˧gv̩˩kʰv̩˩ | tʰi˧kʰv̩˧˥ | mɤ˩lo˩qo˧ | hɑ˧ | tʰi˧tɕɤ˧˥ |
 %68
 Alors je fais la cuisine, et puis j'attends! Je fais cuire du riz dans la casserole à céréales! (Si la locutrice fournit une telle précision quant à la façon de cuire le riz, plutôt que de dire simplement “je fais cuire du riz, je mets du riz à cuire”, c'est qu'à la ville on utilise un appareil électrique pour la cuisson du riz, comme elle l'explique ci-après.)
 （于是我就）做饭，就等（他们的到来）！
 
 lo˩qo˥, | mmm... | hɑ˧bv̩˥ mɤ˩-bv̩˩, | lo˧qo˥ fæ˩ | tʰi˧-tɕɤ˧˥! |
-%/fæ˩˥/: mot chinois, 饭
+%Transcription automatique : no˩kv̩˧˥ | hɑ˧bv̩˥mɤ˩gv̩˩ | lo˧qo˧hɑ˥ | tʰi˧tɕɤ˧˥ | ə˧ 
+%fr /fæ˩˥/: mot chinois, 饭
 %69
 La casserole à céréales, eh bien... le riz, on ne le cuit pas à la vapeur, on le fait bouillir dans la casserole à céréales!
 饭锅，嗯……饭不是蒸的，是饭锅里煮的！
@@ -424,32 +434,34 @@ La casserole à céréales, eh bien... le riz, on ne le cuit pas à la vapeur, o
 wɤ˩˥ | ə˧ʝi˧-tsʰi˧ʝi˧-dʑo˩, | tje˩fæ˧ po˥, | hɑ˧-dʑo˩ | hĩ˧ | mɤ˧-ʐv̩˩ tsɯ˩, | ɑ˩pʰo˩-hĩ˩ ʈʂʰɯ˩-tɕi˥! | 
 %Utterance ID: BENEVOLENCE.36 
 %70
-%Transcription automatique : ə˧tɕʰɯ˥i | dʑi˩ | ti˧fɑ˧po˥hɑ˥dʑo˩ | hĩ˧mo˧ʐv̩˩tsɯ˩ | ɑ˩pʰo˩hĩ˩i˥ | lo˩kv̩˧ | tʰɯ˧ʁo˥qo˩ | ɳɯ˩qɑ˧ | ɖɯ˧ɬo˩kv̩˩tʰi˩tɕɤ˩ | ɳæ˧so˩ | ɖwæ˧˥so˩pi˧ | ɖwæ˧˥dzɯ˧kv̩˩mæ˩ | ʈʂʰɯ˧ne˧ʝi˥dʑo˩ | tʰi˩˥ | æ˧ʂ 
+%Transcription automatique : ə˧tɕʰɯ˥i | dʑi˩ | ti˧fɑ˧po˥hɑ˥dʑo˩ | hĩ˧mo˧ʐv̩˩tsɯ˩ | ɑ˩pʰo˩hĩ˩i˥ |
 De nos jours, si on utilise un cuiseur à riz automatique, les gens, ceux qui viennent du dehors (=les visiteurs), il paraît qu'ils trouvent que ce n'est pas bon (=que ça n'a pas la même saveur que le riz cuit au feu de bois)!
 如果用现代的电饭锅，外来的那些人好像认为饭不香（没有木火上煮的饭那么好吃）。
 
 lo˩qo˥ | tʰv̩˧-ʁo˥-qo˩-ɳɯ˩ | hɑ˧ | ɖɯ˧-lo˩qo˩ tʰi˩-tɕɤ˩! | “ɬɬɬ! ɖwæ˧˥ | so˩˥! | ɖwæ˧˥ | so˩!” pi˥, | ɖwæ˧˥ | dzɯ˧-kv̩˩ mæ˩! |
 %71
+%Transcription automatique : lo˩kv̩˧ | tʰɯ˧ʁo˥qo˩ | ɳɯ˩qɑ˧ | ɖɯ˧ɬo˩kv̩˩tʰi˩tɕɤ˩ | ɳæ˧so˩ | ɖwæ˧˥so˩pi˧ | ɖwæ˧˥dzɯ˧kv̩˩mæ˩ |
 %Avec les nombres de 1 à 10 : ɖɯ˧-lo˩qo˩, | ɲi˧-lo˩qo˩, | so˩-lo˩qo˩˥, | ʐv̩˧-lo˥qo˩, | ŋwɤ˧-lo˥qo˩, | qʰv̩˧-lo˥qo˩, | ʂɯ˧-lo˩qo˩, | hõ˧-lo˥qo˩, | gv˧-lo˥qo˩, | tsʰe˩-lo˩qo˥.
 (Alors) c'est dans la casserole à céréales que (je) prépare un grand pot riz! “Miam miam! C'est bon, c'est bon!” disent les invités; et ils en mangent beaucoup!
 （所以）我用传统的饭锅来煮一锅饭！“很好吃！很好吃！”（人家）说。（他们）吃很多！
 
 ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩ | tʰi˩˥, | æ˧ʂæ˩-dʑo˩ | tʰi˩˥, | hĩ˧mo˥-hĩ˩-ki˩ pʰv̩˩ɖɯ˩. | mmm... hĩ˧bæ˧-ki˧ pʰv̩˥ɖɯ˩. | zo˧mv̩˥zo˩-ki˩ pʰv̩˩ɖɯ˩-kv̩˩ mæ˩. |
+%Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥dʑo˩ | tʰi˩˥ | æ˧ʂ ʐæ˩dʑo˩ | tʰi˩˥ | hĩ˧no˥hĩ˩ki˩kʰv̩˩ɖɯ˩hĩ˧bæ˧ki˩pʰv̩˧ɖɯ˩ | zo˧mv̩˥zo˩ki˩kʰv̩˩dv̩˩kv̩˩mæ˩
 %72
-%/hĩ˧bæ˧-ki˧ pʰv̩˥ɖɯ˩: tons vérifiés. A l'oreille, paraissait être /hĩ˧bæ˧-ki˥ pʰv̩˩ɖɯ˩/.
+%fr /hĩ˧bæ˧-ki˧ pʰv̩˥ɖɯ˩: tons vérifiés. A l'oreille, paraissait être /hĩ˧bæ˧-ki˥ pʰv̩˩ɖɯ˩/.
 %Utterance ID: BENEVOLENCE.37 
 De la sorte, autrefois, on prenait grand soin des personnes âges, des hôtes, et aussi des enfants.
 这样，从前，（摩梭人）很关心老人，很关心客人，也很关心小孩子。
 
 ĩ, | æ̃˩ qʰo˧-bi˧-bi˧, | zo˩no˥, | hĩ˧mo˥-hĩ˩-ki˩ | æ̃˩ʈʂæ˩˥ | ɖv̩˧qæ˧-lɑ˧ | tʰi˧-di˧~di˥-hĩ˩ ʈʂʰɯ˩-ɭɯ˩ | ɖɯ˧-tv̩˩ ki˩-kv̩˩ mv̩˩! |  
-%Transcription automatique : ʐæ˩dʑo˩ | tʰi˩˥ | hĩ˧no˥hĩ˩ki˩kʰv̩˩ɖɯ˩hĩ˧bæ˧ki˩pʰv̩˧ɖɯ˩ | zo˧mv̩˥zo˩ki˩kʰv̩˩dv̩˩kv̩˩mæ˩ĩæ̃˩qʰo˥pʰi˩pi˥zo˩no˥ | hĩ˧ɻo˩ |  
-%/æ̃˩ʈʂæ˩˥/ : le membre antérieur du poulet, qui porte les ailes
+%Transcription automatique : ĩ æ̃˩qʰo˥pʰi˩pi˥zo˩no˥ | hĩ˧ɻo˩ | ə˧ʝi˧ki˩ | æ˩ʈʂæ˧ | ɖv̩˧qæ˧˥ | ɑ˧ʈʂʰɯ˧dʑi˩di˥ | ʈʂʰɯ˧ | ɖɯ˧tv̩˩tɕi˥kv̩˩mæ˩ | 
+%fr /æ̃˩ʈʂæ˩˥/ : le membre antérieur du poulet, qui porte les ailes
 Oui, quand on tue un poulet, eh bien, on donne aux personnes âgées les ailes ; les ailes et ce qui va avec!
 杀鸡的时候，给老人家一块鸡翅：翅膀和周围那块。
 
 zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tsʰɤ˩ tʰv̩˩-ʈv̩˥! | kʰɯ˩tv̩˩ɭɯ˥ | ʈʂʰɯ˧-ʈv̩˩! | 
 %Utterance ID: BENEVOLENCE.38 
-%Transcription automatique : ə˧ʝi˧ki˩ | æ˩ʈʂæ˧ | ɖv̩˧qæ˧˥ | ɑ˧ʈʂʰɯ˧dʑi˩di˥ | ʈʂʰɯ˧ | ɖɯ˧tv̩˩tɕi˥kv̩˩mæ˩ | zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | m 
+%Transcription automatique : zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | m 
 %Soigneusement vérifié : est /kʰɯ˩tv̩˩ɭɯ˥/, non /kʰɯ˩ʈv̩˩ɭɯ˥/ ni /kʰɯ˩ʈɯ˩ɭɯ˥/ ni /...lv̩˥/. Reporté dans le dictionnaire.
 Aux enfants, (on donne) les cuisses! (littéralement: 'le morceau des cuisses, le morceau qui va avec les cuisses')
 给小孩的，是腿那块！鸡腿那块！
@@ -843,8 +855,7 @@ dʑɯ˧, | əəə…dʑɯ˧ | ɖɯ˧-qʰwɤ˧˥ | dʑɯ˩tsʰi˥ | ɖɯ˧-qʰwɤ
 ʂo˧qo˧tʰɑ˩ | mɤ˧-dʑo˧, | ə˩-gi˩! | əəə… pi˧tʰɑ˩ | mɤ˧dʑo˧ | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧-bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |
 %Utterance ID: BENEVOLENCE.89 
 %Transcription automatique : ʂo˧qo˧tʰɑ˩mɤ˧dʑo˧ | ə˩gi˩ | əəə…pi˧ʈʰæ˩ | mɤ˧dʑo˧ | ho˩tʰɑ˩lɑ˥dʑo˩ɲi˩mæ˩ | ho˧tʰɑ˩zɯ˥ | dʑo˩ | õ˧bv̩˥ | tsɑ˧bɤ˧ʁo˧ɬi˥ɲi˩mæ˩ | tsɑ˧bo˧ | le˧po˧˥ | ho˧tʰɑ˩tʰv̩˥ |  
-%/pi˧tʰɑ˩/: 白糖
-%/ho˩tʰɑ˩˥/: 红糖，emprunt au chinois; autrefois: était appelé /ʂɑ˩tʰɑ˧-dze#˥/; analyse pas possible d'après Ama (mot ancien). yyyy à reporter
+%reporté dans le dictionnaire : noms du sucre : /pi˧tʰɑ˩/ 白糖 'sucre blanc'; /ho˩tʰɑ˩˥/ 红糖 'sucre rouge' = sucre roux. Autrefois, pour le sucre roux, on disait : /ʂɑ˩tʰɑ˧-dze#˥/.
 on le réduisait soi-même en poudre ! 
 
 tsɑ˧bɤ˧ | le˧-po˧˥ | ho˩tʰɑ˩-tʰv̩˥ | ɖɯ˧-tv̩˩~ɖɯ˩ʈv̩˩ | tsɑ˧bɤ˧-qo˧ | tʰi˧-kʰɯ˧˥! |   

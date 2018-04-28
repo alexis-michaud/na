@@ -383,7 +383,7 @@
 <S id="FOOD_SHORTAGE2S023"><AUDIO start="130.7717" end="137.9696"></AUDIO>
 	<FORM kindOf="phonemic">"ə˧mi˧! | njɤ˧-mv̩˩! | ə˩zɯ˩˥, | ə˧mɑ˧ | no˧ | le˧-ʂv̩˧-po˧-tsʰɯ˧-hĩ˥, | ʈʂʰɯ˧-dʑo˩, | no˧ | tɕʰi˧-bi˧-pi˧-ɲi˥!" |</FORM>
 	<NOTE xml:lang="fr" message="/le˧-ʂv̩˧-po˧-tsʰɯ˧-hĩ˥/: formé à partir de: /le˧-ʂv̩˧-po˧-tsʰɯ˧˥/"></NOTE>
-	<NOTE xml:lang="fr" message="phonétiquement, le passage /le˧-ʂv̩˧-po˧-tsʰɯ˧-hĩ˥/ n'est pas très clair, la partie nasale semble se trouver après /po/; mais la transcription a été vérifiée; il s'agit d'une légère maladresse de prononciation/dysfluence."></NOTE>
+	<NOTE xml:lang="fr" message="phonétiquement, le passage /le˧-ʂv̩˧-po˧-tsʰɯ˧-hĩ˥/ n'est pas très clair, la partie nasale semble se trouver après /po/; mais la transcription a été vérifiée; il s'agit d'une légère maladresse de prononciation/disfluence."></NOTE>
 	<TRANSL xml:lang="fr">"Eeeh bien! Ma fille! Nous deux… si maman t'a emmenée, c'est parce que je me préparais à te vendre / c'est parce que j'avais décidé de te vendre!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S024"><AUDIO start="137.9696" end="143.5382"></AUDIO>
@@ -452,7 +452,7 @@
 </S>
 <S id="FOOD_SHORTAGE2S039"><AUDIO start="221.5534" end="227.8454"></AUDIO>
 	<FORM kindOf="phonemic">tʰi˩˥, | di˩li˩-ʁo˩bv̩˥-pɤ˩jɤ˩ dzɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | mv̩˩˥ | tɕʰi˧-mɤ˧-tʰv̩˧! | mv̩˩˥ | mɤ˧-tɕʰi˧! | di˩li˩-ʁo˩bv̩˥ F | le˧-tʰv̩˧! |</FORM>
-	<NOTE xml:lang="fr" message="légère dysfluence: /dzɯ˩/ prononcé comme aspiré, /‡tsʰɯ˩/; mais le sens a bien été vérifié, c'est le verbe 'manger'."></NOTE>
+	<NOTE xml:lang="fr" message="légère disfluence: /dzɯ˩/ prononcé comme aspiré, /‡tsʰɯ˩/; mais le sens a bien été vérifié, c'est le verbe 'manger'."></NOTE>
 	<TRANSL xml:lang="fr">Alors, du fait qu'ils avaient de la pâte aux pousses de fougère à manger, eh bien, ils n'ont pas vendu leur fille! ils n'ont pas vendu leur fille (ils n'ont pas eu à vendre leur fille)! C'est que les pousses de fougère, elles étaient sorties!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S040"><AUDIO start="227.8454" end="229.7117"></AUDIO>
@@ -511,7 +511,7 @@
 </S>
 <S id="FOOD_SHORTAGE2S053"><AUDIO start="286.7230" end="290.9542"></AUDIO>
 	<FORM kindOf="phonemic">&lt;tʰi˩˥, | tʰv̩˧-ɲi˧-ʑ… | &gt; ɲi˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | zo˧ ɖɯ˧-v̩˧ tɕʰi˧, | pi˧-zo˩. |</FORM>
-	<NOTE xml:lang="fr" message="La syllabe /dʑo˩/ est un peu confondue avec le /ʑi˩/ qui vient peu après, de sorte que sa prononciation est peu reconnaissable. La transcription a été soigneusement vérifiée: c'est une dysfluence, non une erreur de notation."></NOTE>
+	<NOTE xml:lang="fr" message="La syllabe /dʑo˩/ est un peu confondue avec le /ʑi˩/ qui vient peu après, de sorte que sa prononciation est peu reconnaissable. La transcription a été soigneusement vérifiée: c'est une disfluence, non une erreur de notation."></NOTE>
 	<NOTE xml:lang="fr" message="La syllabe /tɕʰi˧/ 'vendre' est renforcée du fait de l'information qu'elle porte, et aussi de sa position dans la phrase, et autres facteurs qui font ressembler la séquence M.M.M de /ɖɯ˧-v̩˧ tɕʰi˧/ à ‡M.M.H. La transcription a été soigneusement vérifiée."></NOTE>
 	<TRANSL xml:lang="fr">&lt;Alors, ce jour-là…&gt; Il y avait deux familles. Une famille (=l'autre famille), elle a vendu un fils (=elle s'était résolue à vendre un fils).</TRANSL>
 </S>
@@ -627,7 +627,7 @@
 </S>
 <S id="FOOD_SHORTAGE2S077"><AUDIO start="404.9037" end="412.4298"></AUDIO>
 	<FORM kindOf="phonemic">"ə˧mi˧! | ə˧ʑi˧-mo˥=ɻæ˩! | gɯ˩-ɲi˥-wɤ˩! | hɑ˧-ʐwɤ˩-zo˩, | zo˧ | le˧-dʑɯ˧-zo˥, | ɖɯ˧-v̩˧ tɕʰi˧-bi˧-pi˧, | &lt;pʰi…&gt; kʰi˧-dʑo˥!" |</FORM>
-	<NOTE xml:lang="fr" message="&lt;pʰi…&gt;: dysfluence, lapsus, dit au lieu de /kʰi˧/; la locutrice se corrige aussitôt."></NOTE>
+	<NOTE xml:lang="fr" message="&lt;pʰi…&gt;: disfluence, lapsus, dit au lieu de /kʰi˧/; la locutrice se corrige aussitôt."></NOTE>
 	<TRANSL xml:lang="fr">"Eeeeh! Grand-mères! C'est bel et bien la vérité/ vous avez deviné juste! Comme on avait faim, et qu'on avait de nombreux fils, on a décidé d'en vendre un, et… on s'est mis en route!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S078"><AUDIO start="412.4298" end="418.5638"></AUDIO>
@@ -653,7 +653,7 @@
 </S>
 <S id="FOOD_SHORTAGE2S082"><AUDIO start="433.7741" end="439.3123"></AUDIO>
 	<FORM kindOf="phonemic">əəə… "hṽ˩-ɖʐæ˩ɻæ˥ | gv̩˧-ze˧-gɤ˧, | dzɯ˧ tʰɑ˧-kv̩˩! | hĩ˧ mɤ˧-dv̩˥-ze˩, | dzɯ˧-tʰɑ˧-kv̩˩!" |</FORM>
-	<NOTE xml:lang="fr" message="/dzɯ˧/: réalisé presque comme aspiré, par une légère dysfluence. Mot vérifié."></NOTE>
+	<NOTE xml:lang="fr" message="/dzɯ˧/: réalisé presque comme aspiré, par une légère disfluence. Mot vérifié."></NOTE>
 	<TRANSL xml:lang="fr">Euh… "Les parties qui sont de couleur rouge, on peut les manger [sans crainte]/elles sont comestibles! Si ça ne vous empoisonne pas, on peut le manger! / Toutes les plantes non vénéneuses, on peut s'en nourrir!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S083"><AUDIO start="439.3123" end="442.3945"></AUDIO>

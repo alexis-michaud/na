@@ -1479,8 +1479,8 @@
 \hm 1
 \or bbae
 \ps n
-\sd <langue="fra"> agriculture
-\sd <langue="eng"> agriculture
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
 \nt <type="hist" print="n"> (ton vérifié en juillet 2008; avais auparavant noté pour la forme de citation: ˩˥ (montant); le ton montant en forme de citation est acceptable, et apparaît de temps à autres, en alternance avec un ton M; en 2006, avais noté: “bæ˧, ton confirmé")
 \np <langue="fra"> les 3 classificateurs désignent respectivement: un petit bout de corde; une section de corde, qui peut aller jusqu'à plusieurs mètres; une corde entière
 \ton L
@@ -1504,6 +1504,15 @@
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这条绳子
 \xf |fg{n}+|fg{dem}+|fg{clf}
+\xc PHONO
+\xv bæ˧ tsʰi˩
+\xe string, thin rope
+\xn 细绳
+\xf ficelle, cordelette
+\xv bæ˧ | tsʰi˩-hĩ˩˥
+\xe string, thin rope
+\xn 细的绳子
+\xf ficelle, cordelette
 \dt 12/May/2016
 
 \lx bæ˩
@@ -1563,6 +1572,11 @@
 \xf «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!» Littéralement: «si, une année, mille récoltes parvenaient à maturité, on n['en] mangerait pas [pour autant pendant] cent ans =on n'aurait pas à manger pour cent ans!» Le proverbe sert à se consoler d'une mauvaise récolte, qui va obliger à une année frugale: «Si belle soit la récolte, elle n'aurait de toute façon pas duré éternellement; tout est à recommencer l'année suivante, voyons donc de l'avant!»
 \xc PROVERBE
 \xc <langue="fra"> Dans la parole ordinaire, on dirait: fv:/ɕi˧-kʰv̩˧˥/, et cela donnerait: fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: fv:/ɕi˧-kʰv̩˧/, au lieu du fv:/ɕi˧-kʰv̩˧˥/ de la langue ordinaire.
+\xv ɖɯ˧-kʰv̩˧ ʈv̩˧-bæ˥ mv̩˩, | ɕi˧-kʰv̩˧ | dzɯ˧ mɤ˧-mv̩˥! 
+\xe As above: “This year, even if we had had a thousand harvests, it would not have lasted a hundred years!"
+\xn 同上：“今年收成千担，也不够吃一百年！”（这个谚语，来慰藉收成不好的年份。）
+\xf Idem ci-dessus: «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!»
+\xc PROVERBE
 \dt 06/Jun/2017
 
 \lx bæ˩˥
@@ -4259,6 +4273,14 @@
 \gn 肠子
 \df Intestin.
 \gf intestin
+\xv bv̩˧ ɖɯ˩
+\xe who has a big appetite;  literally: ‘big intestine’
+\xn （一个人）饭量大。直译：‘肠子大’。
+\xf qui a un gros appétit; gros mangeur (littéralement ‘gros intestin’)
+\xv bv̩˧ tsʰi˩
+\xe who has a small appetite;  literally: ‘thin intestine’
+\xn （一个人）饭量小。直译：‘肠子细’。
+\xf qui a un petit appétit (littéralement ‘intestin fin’)
 \dt 29/Jul/2017
 
 \lx bv̩˥
@@ -8519,6 +8541,11 @@
 \xe I am really afraid of this person!
 \xn 我很害怕那个人！
 \xf J'ai très peur de lui!
+\xv le˧-ʂɯ˧ ʝi˧ ʂv˧ɖv˧, | ɖwæ˩˥! 
+\xe She thought she was going to die; she was afraid! (About a woman seated in the car of a driver who wanted to impress her by driving at break-neck speed.)
+\xn 她以为她会死的，她很害怕！（情景：一个女人做很自信的男人的车，他为了显示自己作为开车高手的本事，开得过分快。）
+\xf Elle a cru qu'elle allait mourir; elle a eu grand peur! (Au sujet d'une femme à bord du véhicule d'un conducteur qui, soucieux de faire de l'effet, roulait à tombeau ouvert.)
+
 \dt 24/Apr/2017
 
 \lx ɖwæ˥α
@@ -11042,12 +11069,16 @@
 \nt <type="hist" print="n"> d'abord noté †dʑɤ˩tsʰe#˥
 \ton LM+#H
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
+\de Given name.
+\ge given_name
+\dn 名字
+\gn 名字
+\df Prénom.
+\gf prénom
+\xv dʑɤ˩tsʰi˧-mi#˥
+\xe the given name of F4's mother
+\xn 阿妈（合作人）的母亲的名字
+\xf nom propre de la mère de F4
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰo˧
@@ -11297,6 +11328,19 @@
 \gn 河流
 \df Rivière.
 \gf rivière
+\xv gv̩˧-dʑɯ˩
+\xe The whole universe, lands far and away; literally “The Nine Rivers”. (The figure ‘nine’ in this phrase is symbolic, meaning ‘all’; it is not possible to say “the Six Rivers” or “the Seven Rivers”.)
+\xn “九条河”，指的是宇宙的全部：东西南北。
+\xf Tous les pays, jusqu'aux confins les plus lointains. Littéralement “les Neuf Fleuves”. (Le chiffre ‘neuf’ dans cette expression est symbolique, pour désigner une totalité: on ne pourrait dire ‘les Six Fleuves’ ou ‘les Sept Fleuves’.)
+\xv gv̩˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩, | gv̩˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩! 
+\xe It is going to be the talk of the town! / Rumour will spread all over! Literally: “This will be talked about in the Nine Strata of the universe; this will be talked about all along the Nine Rivers!” 
+\xn 大家都会知道的！直译：‘在宇宙的九层都会说，在九条河边都会说！’
+\xf La rumeur va s'en répandre partout! Littéralement : “Il en sera question par les Neuf Strates de l'univers, il en sera question par les Neuf Fleuves!”
+\xv gv̩˧-dʑɯ˩ | ɖɯ˧-tsʰo˧ ʝi˧, | ʂɯ˧ lo˩ | ɖɯ˧-ʁɑ˧ ʝi˧
+\xe “Crossing the Nine Rivers in one leap, traversing the Seven Valleys in one step”: this set phrase expresses the idea of a magical journey whereby one travels effortlessly and rapidly over the greatest distances. This phrase is use to comfort someone who worries about a family member who is on a faraway journey: the young person will “crossing the Nine Rivers in one leap, traverse the Seven Valleys in one step” and be safe home very soon.
+\xn “一跳就过了九河，一步就过了七谷”：在一个人担心去了远方的亲戚，有人会安慰说：他“一跳就过了九河，一步就过了七谷”，很快就安全回家。
+\xf “Traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas”: expression qui exprime l'idée d'un déplacement magique, par lequel on traverse le monde rapidement et sans effort. Le contexte d'usage le plus courant est celui où quelqu'un s'inquiète au sujet d'un jeune membre de la famille, parti au loin. On se rassure en se disant que la jeune personne va “Traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas”, et ainsi, bientôt revenir saine et sauve à la maison.
+\xc PROVERBE
 \dt 27/Aug/2015
 
 \lx dʑɯ˧
@@ -14717,6 +14761,14 @@
 \xe contracted form of the previous example: fv:/tso˧/ and the following fv:/ʝi˧/ fuse into a single syllable, fv:[tse˧].
 \xn 上面例子的缩短格式：|fv{/tso˧/}与|fv{/ʝi˧/}合成一个音节，|fv{[tse˧]}。
 \xf forme contractée de 2: dans fv:[tse˧], fv:/tso˧/ et le fv:/ʝi˧/ suivant fusionnent en une seule syllabe.
+\xv ə˧tso˧ do˩, | ə˧tso˧ dzɯ˧!
+\xe He is greedy / he is a glutton! Literally: ‘He eats whatever he sees!’
+\xn 他很贪吃！直译：‘见什么就吃什么！’
+\xf C'est un glouton! Littéralement: ‘Tout ce qu'il voit, il le mange!’
+\xv ə˧tso˧ do˩, | ə˧tso˧ ɲi˧!
+\xe \xe He is covetous / he is greedy! (in a broad sense, not limited to eating) Literally: ‘He wants whatever he sees!’
+\xn 他贪心不足，他很贪心！直译：‘见什么就想要什么！’
+\xf C'est quelqu'un d'avide! Littéralement: ‘Tout ce qu'il voit, il le veut!’
 \dt 28/Aug/2015
 
 \lx ə˧tso˧-mɤ˧-ɲi˩
@@ -15076,6 +15128,22 @@
 \xf cette direction-là
 \dt 28/Aug/2015
 
+\lx tɕʰɤ˩ʂɯ˩kɤ˩
+\or RD
+\bw <langue="cmn"> 前时刻
+\ps n
+\sd <langue="fra"> temps
+\sd <langue="eng"> time
+\ton L
+\lc tɕʰɤ˩ʂɯ˩kɤ˩˥
+\so <print="n"> F4
+\de Yesteryear, in the old times, in earlier times.
+\ge 前时刻::in_earlier_times
+\dn 以前、在过去（汉语借词：‘前时刻’）
+\gn 以前
+\df Autrefois, dans le temps.
+\gf 前时刻::autrefois
+
 \lx fɑ˧tɑ˧˥
 \sf <nb="B"> 1010a
 \sf <nb="B"> 1011
@@ -15133,6 +15201,47 @@
 \xn 你发一点面吧！要做馒头！
 \xf Fais lever de la farine, on va faire des petits pains!
 \dt 01/Sep/2015
+
+\lx fæ˩ɕi˧
+\or faxiAM
+\bw <langue="cmn"> 放心
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> 
+\cf ɖʐwæ˧ʝi˥
+\ton LM
+\lc fæ˩ɕi˥
+\so <print="n"> F4
+\de To rest assured; to have confidence
+\ge 放心::to_have_confidence
+\dn 放心（汉语借词）
+\gn 放心（借词）
+\df Être en confiance, être rassuré.
+\gf 放心::être_en_confiance
+\dt 01/Sep/2018
+
+\lx ɖʐwæ˧ʝi˥
+\or RD
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> 
+\cf fæ˩ɕi˧
+\ton H#
+\lc ɖʐwæ˧ʝi˥
+\so <print="n"> F4
+\de To rest assured; to have confidence
+\ge to_have_confidence
+\dn 放心
+\gn 放心
+\df Être en confiance, être rassuré.
+\gf être_en_confiance
+\xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩! | 
+\xe Rest assured! / Set your mind at rest!
+\xn 你放心吧！ / 请你放心！
+\xf Sois sans crainte! / Sois confiant(e)! / Tu peux être en confiance!
+\dt 01/May/2018
 
 \lx fv̩˩˧
 \or fuq
@@ -23671,6 +23780,11 @@
 \xe to separate linen fibres (to make thread)
 \xn 拆开粗麻（为了纺出细麻线）
 \xf défaire des fibres de lin (pour fabriquer du fil)
+\xv gv̩˩pʰæ˩ kʰi˩˥
+\xe to split (lumber) into planks, to make planks out of lumber
+\xn 划开（木根）成木板
+\xf débiter (un gros tronc) en petites planches, tirer des planches d'une grume
+
 \dt 03/Sep/2015
 
 \lx kʰi˥
@@ -24601,6 +24715,62 @@
 \gn 高粱（借词）
 \df Sorgho, gaoliang; céréale dont on se sert pour faire du vin.
 \gf 高粱::sorgho
+\dt 03/Sep/2015
+
+\lx pi˧tʰɑ˩
+\or bitaqAM
+\bw <langue="cmn"> 白糖
+\ps n
+\cf dze˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L#
+\lc pi˧tʰɑ˩
+\so <print="n"> F4
+\de White sugar.
+\ge 白糖::white_sugar
+\dn 白糖（汉语借词）
+\gn 白糖（借词）
+\df Sucre blanc.
+\gf 白糖::sucre_blanc
+\dt 03/Sep/2015
+
+\lx ho˩tʰɑ˩˥
+\or hotaqAM
+\bw <langue="cmn"> 红糖
+\ps n
+\cf ʂɑ˩tʰɑ˧-dze#˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
+\ton L
+\lc ho˩tʰɑ˩
+\so <print="n"> F4
+\de Red sugar.
+\ge 红糖::red_sugar
+\dn 红糖（汉语借词）
+\gn 红糖（借词）
+\df Sucre roux, sucre intégral, suc de canne séché.
+\gf 红糖::sucre_roux
+\dt 03/Sep/2015
+
+\lx ʂɑ˩tʰɑ˧-dze#˥
+\or hotaqAM
+\bw <langue="cmn"> 砂糖
+\ps n
+\cf ho˩tʰɑ˩˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
+\ton L
+\lc ʂɑ˩tʰɑ˧-dze˧
+\so <print="n"> F4
+\de Red sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to red sugar, not to sugar powder (in fact, red sugar used to come as blocks, not as powder).
+\ge red_sugar
+\dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭话的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
+\gn 红糖
+\df Sucre roux, sucre intégral, suc de canne séché. Emprunt ancien au chinois: au mot chinois pour ‘sucre en poudre’ est ajouté le mot na pour ‘sucre’, et l'ensemble désigne spécifiquement le sucre intégral, qui se présentait sous forme de blocs (pains de sucre), et non sous forme de poudre.
+\gf 红糖::sucre_roux
 \dt 03/Sep/2015
 
 \lx kɤ˩lo˧˥
@@ -37849,12 +38019,12 @@
 \xf bavard (littéralement «bouche rapide»)
 \dt 09/Sep/2015
 
-\lx ɲi˧tʰo˧
+\lx ɲi˧tʰo#˥
 \or nito
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\ton H#? M? à voir yyyyama
+\ton #H
 \lc ɲi˧tʰo˧
 \de Rumours.
 \ge rumours
@@ -64986,6 +65156,10 @@
 \gn 打嗝
 \df Avoir le hoquet.
 \gf avoir_le_hoquet
+\xv tsʰe˧kʰv̩˧, | mɤ˧-qʰæ˩ | ʐwæ˩˥! 
+\xe A fit of hiccup is something very unpleasant!
+\xn 打嗝，很难受！
+\xf Avoir le hoquet, c'est très désagréable!
 \dt 27/Apr/2017
 
 \lx tsʰe˧ɬi˧mi˧
@@ -78376,7 +78550,7 @@
 \gf |fg{pfv}
 \dt 27/Apr/2017
 
-\lx †ʑi˩˧
+\lx ʑi˩˧
 \or xxi
 \ps n
 \sd <langue="fra"> maison
@@ -78406,10 +78580,18 @@
 \xc <langue="fra"> expression non proverbiale; proposée par l'enquêteur et acceptée par F4; illustre le fait que la combinaison tonale observée dans l'expression figée se retrouve telle quelle dans une expression synchroniquement acceptable/répondant aux règles synchroniques de combinaison entre verbe et nom, et confirmant ainsi l'analyse du ton lexical de la racine monosyllabique comme LM ou LH
 \xc <langue="eng"> example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was accepted by speaker F4
 \xc <langue="cmn"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
+\xv ʈʂʰɯ˧-ʑi˧˥
+\xe this family
+\xn 这家
+\xf cette famille
 \xv ‡ʑi˩ hwæ˧
 \xe ‡to buy a house (example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was refused by speaker F4)
 \xn ‡买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
 \xf ‡acheter une demeure; forme non correcte, proposée pour voir dans quelle mesure le monosyllabe peut se combiner avec divers verbes.
+\xv lɑ˧tʰɑ˧mi˧=ɻ˥, | ze˩ ʑi˧ ɲi˥?
+\xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
+\xn 拉他咪家在哪里？（情景：一个喜欢拉他咪达石写的歌的游客来阿拉瓦村，找拉他咪家。）
+\xf Où se trouve la maison de la famille Latami? (Contexte: un touriste qui apprécie les chansons de Latami Dashi se rend dans le village de Alawua, et cherche la maison où il habite.)
 \dt 27/Apr/2017
 
 \lx ‑zo
