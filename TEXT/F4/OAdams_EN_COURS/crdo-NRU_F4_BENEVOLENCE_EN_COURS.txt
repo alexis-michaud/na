@@ -127,7 +127,7 @@ le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv̩˧ tʰi˩-tɕɯ˩
 Comme il venait (tous ces visiteurs), eh bien, moi, je réservais des saucisses,
 因为有（这样的贵宾来），我会存香肠的！
 
-mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | <z…> ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! |
+mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | <z…> ə˧mɑ˧-ki˩ | tsʰɯ˩˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! |
 %21
 %fr On pourrait également dire: /le˧-tɕɤ˧ tʰi˥-ki˩ ɲi˩ mæ˩/.
 euh… je réservais des pieds de porc séchés; je réservais des membres de porc séchés; je réservais du lard. Et je faisais cuire ces ingrédients (littéralement: je faisais bouillir), comme ça!
@@ -461,8 +461,8 @@ Oui, quand on tue un poulet, eh bien, on donne aux personnes âgées les ailes ;
 
 zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tsʰɤ˩ tʰv̩˩-ʈv̩˥! | kʰɯ˩tv̩˩ɭɯ˥ | ʈʂʰɯ˧-ʈv̩˩! | 
 %Utterance ID: BENEVOLENCE.38 
-%Transcription automatique : zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | m 
-%Soigneusement vérifié : est /kʰɯ˩tv̩˩ɭɯ˥/, non /kʰɯ˩ʈv̩˩ɭɯ˥/ ni /kʰɯ˩ʈɯ˩ɭɯ˥/ ni /...lv̩˥/. Reporté dans le dictionnaire.
+%Transcription automatique : zo˧mv̩˧zo˩ki˩kʰɯ˩tsʰɤ˩ʈʰɯ˩ʈv̩˩ | kʰɯ˩tv̩˩ɭɯ˥ʈʂʰɯʈʂʰɯ˩ | 
+%fr Soigneusement vérifié : est /kʰɯ˩tv̩˩ɭɯ˥/, non /kʰɯ˩ʈv̩˩ɭɯ˥/ ni /kʰɯ˩ʈɯ˩ɭɯ˥/ ni /...lv̩˥/. Reporté dans le dictionnaire.
 Aux enfants, (on donne) les cuisses! (littéralement: 'le morceau des cuisses, le morceau qui va avec les cuisses')
 给小孩的，是腿那块！鸡腿那块！
 
@@ -470,7 +470,7 @@ mmm…tʰi˩˥, | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧
 %Utterance ID: BENEVOLENCE.39 
 %75
 %Transcription automatique : mmm…tʰi˩˥ | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥! |  
-%/ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? Première partie: 'côtes'.
+%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? xxxx Première partie: 'côtes'.
 Alors, les gens, nous autres, mères d'enfants (=femmes adultes) et pères d'enfants (=hommes adultes) (=ceux qui ne sont ni des enfants, ni des vieillards), nous autres, [du poulet qu'on partage en famille,] on ne mange qu'un petit bout de côtes, pas bien goûteux! On boit la soupe (du poulet) / on se contente essentiellement de la soupe!
 我们成年人呢，只吃（鸡的）一点肋骨，不怎么好的那块！我们（基本上只）喝鸡汤（而已）！
 
@@ -480,118 +480,143 @@ zo˩mv̩˥ pʰv̩˩ɖɯ˩! | hĩ˧mo˥-hĩ˩ pʰv̩˩ɖɯ˩! | hĩ˧bæ˧ pʰ
 On prend soin des enfants! On prend soin des personnes âgées! On prend soin des invités! Oui!
 关心小孩，关心老人，关心客人！对的！
 
-õ˧-ʈʂʰɯ˧ne˧-ʝi˥, | ə˧ʝi˧-ʂɯ˥ʝi˩! | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | njɤ˧ | ɑ˩ʁo˥ | zo˩no˥ | njæ˧-sɯ˩kv̩˩ | ɬɬɬ... æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, | tɕi˩-ʁo˩to˥, | æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, |
+õ˧-ʈʂʰɯ˧ne˧-ʝi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | njɤ˧ | ɑ˩ʁo˥ | zo˩no˥ | njæ˧-sɯ˩kv̩˩ | ɬɬɬ... æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, | tɕi˩-ʁo˩to˥, | æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, |
 %77
-%Vérifié : n'est pas /ɖɯ˧-mi˩ qʰo˩-ɻ˩/.
-%/tɕi˩-ʁo˩to˥/: 小的时候, 'quand nous étions petits'
+%Transcription automatique : tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ | 
+%fr Vérifié : n'est pas /ɖɯ˧-mi˩ qʰo˩-ɻ˩/.
+%fr /tɕi˩-ʁo˩to˥/: 小的时候, 'quand nous étions petits'
 Voilà comment on faisait, autrefois! (Quand) on tuait un poulet, chez moi, eh bien, nous, les trois enfants (les trois frères et soeurs), quand nous étions petits, nous, trois frères et soeurs, 
 
 əəə... hĩ˧mo˥-hĩ˩, əəə... ʐv̩˩-kv̩˩. | ʈʂʰɯ˧-te˩... | njæ˧-sɯ˩kv̩˩ | so˩-kv̩˩˥, | æ̃˩ʂe˥ | dzɯ˧-mɤ˧-kv̩˩! | kʰɯ˧tsʰɤ˧ tʰv̩˧-ɭɯ˧-lɑ˩ ɖɯ˩-kv̩˩! | 
 %Utterance ID: BENEVOLENCE.41 
-%Transcription automatique : tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ | hĩ˧mo˧ʐv̩˩kv̩˩ | ʈʂʰɯ˧dʑtʰi˩˥ | njæ˧-sɯ˩kv̩˩ | so˩kv̩˥ | æ˩ʂe˥dzɯ˩mɤ˩kwɤ˩ | kʰɯ˧tsʰɤ˧˥ | ʈʂʰɯ˧lɑ˩ɖɯ˩kv̩˩ |  
-%dʐcoupæge vʐrifiʐ : /hĩ˧mo˥-hĩ˩, ʐv̩˩kv̩˩/ un seul groupe.
-%ɖɯ˧-te˧˥ 'une génération': emprunt au chinois; ton : MH1. D'abord noté /tæ/, mais c'est une voyelle différente. /ʈʂʰɯ˧-tæ˩/: serait-ce en fait /tʰv̩˧-ɖʐɯ˩ tʰv̩˩/? rʐponse : non.
+%Transcription automatique : hĩ˧mo˧ʐv̩˩kv̩˩ | ʈʂʰɯ˧dʑtʰi˩˥ | njæ˧-sɯ˩kv̩˩ | so˩kv̩˥ | æ˩ʂe˥dzɯ˩mɤ˩kwɤ˩ | kʰɯ˧tsʰɤ˧˥ | ʈʂʰɯ˧lɑ˩ɖɯ˩kv̩˩ |  
+%fr Découpage vérifié: /hĩ˧mo˥-hĩ˩, ʐv̩˩kv̩˩/ constitue un seul groupe tonal.
+%fr /ʈʂʰɯ˧-te˩/: serait-ce en fait /tʰv̩˧-ɖʐɯ˩ tʰv̩˩/? réponse : non, c'est bien /ʈʂʰɯ˧-te˩/ 'cette génération'. D'abord noté /tæ/, appliquant le filtre du système phonologique du na (hors emprunts), mais c'est en fait une voyelle différente, qui paraît assimilable à /e/. /ɖɯ˧-te˧˥/ est un emprunt chinois: 代 'une génération'. Son ton est MH1. (Reporté dans le dictionnaire.) 
 Les vieux, il y en avait quatre. Cette génération... nous autres, nous trois, on ne mangeait pas de viande de poulet ! On n'avait que les pattes! (=partie sans viande, qu'on grignote sans guère de profit)
 老人，有四位。我们三个（轻装年轻人），不会吃鸡肉的！我们只得到脚那块！（=不带肉的鸡爪子）
 
 ɬo˩kɤ˩˥, | mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧-lɑ˩ ɖɯ˩-kv̩˩! |
 %Utterance ID: BENEVOLENCE.42 
-%sept minutes sur enrt; phrase 79
-%/mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧/: cette expression porte un ton H flottant: //mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ#˥//; donne : /mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧ ɲi˥/.
-%Transcription automatique : so˩kɤ˩˥ | lɑ˧ʁɑ˧tʰv̩˧kʰwɤ˥æ˩ɖɯ˧kʰv̩˩ | zo˧mv̩˥zo˩lɑ˩ | hĩ˧mo˧hĩ˩ki˩ | zo˩no˧ | njɤ˧i˩ | ɖɯ˧tɑ˧˥ | tɑ˩ho˧dzɯ˩mɤ˩kv̩˩ | le˧bv̩˧bæ˩ | hĩ˧mo˥hĩ˩ki˩ | æ˧ʈʂæ˧ʈʂʰɯ˧ | ʈʂʰɯ˧ʈʂæ˧ |  
+%79; sept minutes sur enrt
+%fr /mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧/: cette expression porte un ton H flottant: //mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ#˥//; donne : /mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧ ɲi˥/.
+%Transcription automatique : so˩kɤ˩˥ | lɑ˧ʁɑ˧tʰv̩˧kʰwɤ˥æ˩ɖɯ˧kʰv̩˩ | 
 On n'avait droit qu'aux côtes, aux bas morceaux!
 我们只能吃肋骨之类，不怎么好的那些部位。
 
-zo˧mv̩˥zo˩-lɑ˩ | hĩ˧mo˥-hĩ˩-ki˩ | zo˩no˧-ne˩ | | ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ dzɯ˧-mɤ˧-kv̩˩! | le˧-bv̩˧~bv̩˧! | 
+zo˧mv̩˥zo˩-lɑ˩ | hĩ˧mo˥-hĩ˩-ki˩, | zo˩no˧-ne˩ | | ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ dzɯ˧-mɤ˧-kv̩˩! | le˧-bv̩˧~bv̩˧! | 
+%Transcription automatique : zo˧mv̩˥zo˩lɑ˩ | hĩ˧mo˧hĩ˩ki˩ | zo˩no˧ | njɤ˧i˩ | ɖɯ˧tɑ˧˥ | tɑ˩ho˧dzɯ˩mɤ˩kv̩˩ | le˧bv̩˧bæ˩ | 
 Les enfants et les personnes âgées, elles ne mangeaient pas toutes ensembles comme c'est le cas aujourd'hui! On mangeait séparément (littéralement: 'on séparait').
+小孩和老人家，不会像现在一起吃的！是分开用餐的！
 
 hĩ˧mo˥-hĩ˩-ki˩, | æ̃˩ʈʂæ˩˥ | <ʈʂʰɯ˧-h...> | ɖɯ˧-ʈʂæ˧˥, | ʂe˧nɑ˩ | ɖɯ˧-kʰwɤ˥, | <pʰv̩˧...> | ʁɑ˧pv̩˧ tʰv̩˧-kʰwɤ˥ | mmm... ɖɯ˧-kʰwɤ˥ tʰi˩-kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.43 
-%Transcription automatique : ʂɯ˧nɑ˩ɖɯ˧kʰwɤ˩ | fɯ˧ | əɑ˧tʰv̩˧tʰv̩˧kʰwɤv̩˥ | ɖɯ˧kʰwɤ˥tʰikʰ˩tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̍˩tʰi˩ki˩ | ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |  
-%Que signifie ici /ʁɑ˧pv̩˧/? (noté comme le mot pour 'salaire') réponse : c'est : poitrine : la poitrine du poulet = le blanc de poulet. 
+%Transcription automatique : hĩ˧mo˥hĩ˩ki˩ | æ˧ʈʂæ˧ʈʂʰɯ˧ | ʈʂʰɯ˧ʈʂæ˧ | ʂɯ˧nɑ˩ɖɯ˧kʰwɤ˩ | fɯ˧ | əɑ˧tʰv̩˧tʰv̩˧kʰwɤv̩˥ | ɖɯ˧kʰwɤ˥tʰikʰ˩  
+%fr Que signifie ici /ʁɑ˧pv̩˧/? (noté comme le mot pour 'salaire') réponse : c'est : poitrine : la poitrine du poulet = le blanc de poulet. 
 Les personnes âgées, on mettait (dans l'assiette qui leur était destinée) une aile de poulet, un morceau de viande maigre : un morceau de poitrine (=de blanc de poulet)!
 给老人家的有：一个鸡翅、一块瘦肉。鸡脖子那个部位，也给他们一块！
 
 zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tv̩˩ɭɯ˥-tʰv̩˩ ʝi˩-ɭɯ˩ tʰi˩-ki˩! | 
-%/tʰv̩˩-ʝi˩-ɭɯ˩/: réalisé proche de /tʰi˩-ʝi˩-ɭɯ˩/
+%Transcription automatique : tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̍˩tʰi˩ki˩ |
+%fr /tʰv̩˩-ʝi˩-ɭɯ˩/: réalisé proche de /tʰi˩-ʝi˩-ɭɯ˩/
 %82
 Aux enfants, on donnait une cuisse de poulet!
 给小孩的是鸡腿！
 
 ĩ˧, | v̩˩dʑɯ˩˥ | le˧-qwæ˧˥, | õ˧-bv̩˥-õ˩ | ɖɯ˧-qʰwɤ˧˥ | tʰi˧-ki˧! |  
+%Transcription automatique : ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |
 %83
 On servait (littéralement: 'puisait') aussi de la soupe, à chacun son propre bol!
 还给鸡汤，一人一碗！
 
 õ˧ʈʂʰɯ˧ne˧ʝi˥-zo˩, | zo˩no˥, | əəə… hĩ˧mo˥-hĩ˩-lɑ˩ | zo˧mv̩˥zo˩ | hĩ˧bæ˧ pʰv̩˩ɖɯ˩-kv̩˩. | 
 %Utterance ID: BENEVOLENCE.44 
-%Transcription automatique : õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩z˩no˥ | əəə…hĩ˩mo˧ɲi˩lɑ˩ | zo˩mv̩˥zo˩ | hĩ˧bæ˩pʰv̩˩ | pi˧kv̩˩ | hĩ˧bæ˧tsʰɯ˧˥ | pi˧tʰi˩˥ | zo˧mv̩˧zo˧ | ɑ˩pʰv̩˩sɯ˥ | tʰi˧dʑɤ˩bv̩˩kʰɯ˩ | õ 
+%Transcription automatique : õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩z˩no˥ | əəə…hĩ˩mo˧ɲi˩lɑ˩ | zo˩mv̩˥zo˩ | hĩ˧bæ˩pʰv̩˩ | pi˧kv̩˩ | 
 %84
 De la sorte, eh bien, euh... on était attentionné envers les personnes âgées, les enfants et les hôtes.
 这样，对老人、孩子们、客人都很关心。
 
 hĩ˧bæ˧ tsʰɯ˧˥ | pi˧ | tʰi˩˥, | zo˧mv̩˥-zo˩ | <le˧...> ɑ˩pʰo˩-sɯ˥ | tʰi˧-dʑɤ˩bv̩˩-kʰɯ˩. |  
+%Transcription automatique : hĩ˧bæ˧tsʰɯ˧˥ | pi˧tʰi˩˥ | zo˧mv̩˧zo˧ | ɑ˩pʰv̩˩sɯ˥ | tʰi˧dʑɤ˩bv̩˩kʰɯ˩ | 
 Quand venaient des invités, les enfants, on les envoyait d'abord jouer dehors (pendant que les invités prenaient leur repas).
 来了客人，让小孩先在外边玩（等客人吃完了，孩子们再吃）。
 
 mmm... hĩ˧mo˥-hĩ˩, | hĩ˧bæ˧-qɑ˩ | tʰi˧-dzi˩-kʰɯ˩. | hĩ˧bæ˧-lɑ˩ | hĩ˧mo˥-hĩ˩-sɯ˩ | hɑ˧ | tʰi˧-dzɯ˥-kʰɯ˩. | 
 %Utterance ID: BENEVOLENCE.45 
-%Transcription automatique : gv̩˧hi˥ | hĩ˧bæ˧qwæ˩ | tʰi˧dzi˩kʰɯ˩ | hi˧bæ˧lɑ˩ | hĩ˧ho˧hĩ˧ | sɯ˩qʰɑ˩ | tʰi˧dzɯ˥kʰɯ˩ | ʈʂʰɯ˩˥ | tʰv̩˧sɯ˩kv̩˩ | le˧dzɯ˧se˥kwɤ˩tɕɯ˩lɑ˩ | zo˧mv̩˥zo˩ | ə˧ki˩ | le˧jo˩ | pi˧ | wɤ˩zo˧mv̩˥zɑ˩ 
+%Transcription automatique : õ gv̩˧hi˥ | hĩ˧bæ˧qwæ˩ | tʰi˧dzi˩kʰɯ˩ | hi˧bæ˧lɑ˩ | hĩ˧ho˧hĩ˧ | sɯ˩qʰɑ˩ | tʰi˧dzɯ˥kʰɯ˩ |
 %/tʰi˧-dzɯ˥-kʰɯ˩/ : tons vérifiés
 On faisait asseoir les personnes âgées et les invités. On servait d'abord le repas aux invités et aux personnes âgées.
 让老人和客人坐下，让客人和老人先吃饭。
 
 tʰi˩˥, | tʰv̩˧-sɯ˩kv̩˩ | le˧-dzɯ˧-se˥-kwɤ˩tɕɯ˩-lɑ˩, | zo˧mv̩˥zo˩=ɻæ˩-ki˩: | le˧-jo˩! | pi˧, | wɤ˩˥ | zo˧mv̩˥-zo˩=ɻæ˩ tʰi˧-dzɯ˥-kʰɯ˩! |
+%Transcription automatique : ʈʂʰɯ˩˥ | tʰv̩˧sɯ˩kv̩˩ | le˧dzɯ˧se˥kwɤ˩tɕɯ˩lɑ˩ | zo˧mv̩˥zo˩ | ə˧ki˩ | le˧jo˩ | pi˧ | wɤ˩zo˧mv̩˥zɑ˩ 
 Ensuite, après qu'eux aient fini de manger, on disait aux enfants: Venez!, et on donnait à manger aux enfants!
 然后他们吃完了以后，就叫小孩们：“来吧！”，就给小孩们吃饭！
 
-tʰi˧-no˥, | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧-ə˧mi˧ | njæ˧-sɯ˩kv̩˩ dzɯ˩, | hɑ˧dʑo˩ | so˩-pæ˩˥ | dzɯ˧-kv̩˩, | ə˧ʝi˧ʂɯ˥ʝi˩. | 
+tʰi˧-no˥, | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧-ə˧mi˧ | njæ˧-sɯ˩kv̩˩ dzɯ˩, | hɑ˧-dʑo˩ | so˩-pæ˩˥ | dzɯ˧-kv̩˩, | ə˧ʝi˧ʂɯ˥ʝi˩. | 
 %Utterance ID: BENEVOLENCE.46 
-%Transcription automatique : tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧-sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | zo˩no˧se˥ | qʰɑ˩jɤ˩le˩tsʰɯ˥ | tv̩˩ho˥dzɯ˩ | əəə…zo˩ 
-%/tʰi˧-no˥/: le schéma tonal paraît être M.H, non L.H; et une réalisation lente et soignée comme /tʰi˩˥ | -no˧˥/ ne convient pas à la locutrice.
-%Fin du retravail le soir du 24 avril 2018. xxxxxx
-Alors, nous autres, les parents (=la génération des parents: entre le 'premier âge' et le 'troisième âge'), on faisait trois services ! 
+%Transcription automatique : tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧-sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ |
+%fr /tʰi˧-no˥/: le schéma tonal paraît être M.H, non L.H; et une réalisation lente et soignée comme /tʰi˩˥ | -no˧˥/ ne convient pas à la locutrice.
+%Fin du retravail le soir du 24 avril 2018.
+Alors, nous autres, les parents (=la génération des parents: entre le 'premier âge' et le 'troisième âge')... on faisait trois services (en tout: un pour les invités et les personnes âgées, un pour les enfants, et un pour les adultes)! 
+那么，我们，父亲们与母亲们（=成年人这代：不是少年了，也没到老人的年龄）……我们一共供三次饭！
 
-zo˩no˧-se˥, | qʰɑ˩jɤ˩ le˩-tsʰɯ-ɻ˥, | tɑ˧ho˧ dzɯ˩! | 
+zo˩no˧-se˥, | qʰɑ˩jɤ˩ le˩-tsʰɯ˩-ɻ˥, | tɑ˧ho˧ dzɯ˩! | 
 %Utterance ID: BENEVOLENCE.47 
-%Transcription automatique : zo˩hĩ˧bæ˩ | ʐæ˩ʂæ˥hĩ˩dʑo˩˥ | ʐæ˩ʂæ˧ | mɤ˧ɲi˩ze˩dʑo˩ | əəə…zo˩no˥ | õ˧hĩ˧lɑ˩ɲi˩ze˩ | qʰɑ˩qʰwæ˩dʑo˥ | hĩ˧bæ˩le˩ʁɑ˥ | ʐæ˩ʂæ˥ | tsɯ˩to˧ | hĩ˧mæ˩sɯ˩dzɯ˧kʰɯ˩ | hĩ˧bæ˧so˩ | pʰv̩˩ɖɯ˧ʝi˥ | õ˧ʈʂʰɯ˧ne˧ 
+%Transcription automatique : zo˩no˧se˥ | qʰɑ˩jɤ˩le˩tsʰɯ˥ | tv̩˩ho˥dzɯ˩ | 
 %89
 Aujourd'hui, quel que soit le nombre de personnes qui vient, on mange tous ensemble!
+而现在呢，无论有多少人到，都一起吃！
 
 əəə... zo˩no˥, | hĩ˧bæ˧ | ʐæ˩ʂæ˥-hĩ˩, | dʑɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ | mɤ˧-ɲi˩-ze˩-dʑo˩, | əəə… zo˩no˥, | õ˧-hĩ˥-lɑ˩ ɲi˩-ze˩, | qwæ˩~qwæ˧ tsæ˥-ɲi˩! | 
-%/qwæ˩~qwæ˧ tsæ˥-ɲi˩/ : on sert le riz en puisant soi-même dans la marmite ?
 %Utterance ID: BENEVOLENCE.48 
-%Transcription automatique : kv̩˩kv̩˩mæ˩ | zo˩no˥ə˧tso˧ɲi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | pi˧ | tɕi˧ĩ˧tsɯ˩ɖɯ˧v̩˧tsʰɯ˩zo˩ | ʐæ˧li˧tʰv̩˧zo˩ | tʰi˧ɖɯ˧v̩˧tsɯ˩ | zo˩ | no˧ |  
-kv̩˩kv̩˩mæ˩ | zo˩no˥ə˧tso˧ɲi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | pi˧ | tɕi˧ĩ˧tsɯ˩ɖɯ˧v̩˧tsʰɯ˩zo˩ | ʐæ˧li˧tʰv̩˧zo˩ | tʰi˧ɖɯ˧v̩˧tsɯ˩ | zo˩ | no˧ |  
+%Transcription automatique : əəə…zo˩ zo˩hĩ˧bæ˩ | ʐæ˩ʂæ˥hĩ˩dʑo˩˥ | ʐæ˩ʂæ˧ | mɤ˧ɲi˩ze˩dʑo˩ | əəə…zo˩no˥ | õ˧hĩ˧lɑ˩ɲi˩ze˩ | qʰɑ˩qʰwæ˩dʑo˥ | 
+%fr /qwæ˩~qwæ˧ tsæ˥-ɲi˩/ : on sert le riz en puisant soi-même dans la marmite ? xxxx confirmer le sens
+Alors, eh bien, les invités, les gens (qui venaient) de loin... ceux qui ne venaient pas de bien loin, euh... ceux qu'on considérait comme les nôtres, on les laissait puiser leur nourriture (?)
+yyyy traduction chinoise
 
 hĩ˧bæ˧ <le˧-> | wɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ tsʰɯ˩, | pi˧, | hĩ˧bæ˩-sɯ˩ | dzɯ˧-kʰɯ˩! | hĩ˧bæ˧-sɯ˩ | pʰv̩˧ɖɯ˧ ʝi˥! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩ mæ˩! |
 %91
+%Transcription automatique : hĩ˧bæ˩le˩ʁɑ˥ | ʐæ˩ʂæ˥ | tsɯ˩to˧ | hĩ˧mæ˩sɯ˩dzɯ˧kʰɯ˩ | hĩ˧bæ˧so˩ | pʰv̩˩ɖɯ˧ʝi˥ | õ˧ʈʂʰɯ˧ne˧ kv̩˩kv̩˩mæ˩ | 
+Tandis que si les invités venaient de loin, on les faisait manger en premier / on préparait un premier service pour eux! Avant toute chose, on honorait ces invités! Voilà comment on faisait!
+而如果客人是远方来的，就先给客人吃！要尊重贵宾！是这样做的！
 
-zo˩no˥, | əəə... ə˧tso˧ ɲi˩? | ə˧ʝi˧ʂɯ˥ʝi˩ | pe˩tɕi˧ ɲi˥ tsʰɯ˩ | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩, | mmm... ʐæ˧v̩˩ tʰv̩˩-zo˩! | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩. | 
-%huit minutes sur l'enregistrement, n°92
+zo˩no˥, | əəə... ə˧tso˧ ɲi˩? | ə˧ʝi˧-ʂɯ˥ʝi˩ | pe˩tɕi˧ ɲi˥ tsʰɯ˩ | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩, | mmm... ʐæ˧v̩˩ tʰv̩˩-zo˩! | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩. | 
+%92; huit minutes sur l'enregistrement
 %Utterance ID: BENEVOLENCE.49 
-%Transcription automatique : ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˩tsʰɯ˩qo˥ | ɲi˩gv̩˩gv̩˥ɲi˥tsɯ˩ | mv̩˩ | zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
+%Transcription automatique : zo˩no˥ə˧tso˧ɲi˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | pi˧ | tɕi˧ĩ˧tsɯ˩ɖɯ˧v̩˧tsʰɯ˩zo˩ | ʐæ˧li˧tʰv̩˧zo˩ | tʰi˧ɖɯ˧v̩˧tsɯ˩ | zo˩ | 
+%fr pe˩tɕi˧ ɲi˥ tsʰɯ˩: ne serait-ce pas pe˩tɕi˧-ɳɯ˥ tsʰɯ˩?
+Alors, euh... qu'est-ce que c'est / de quoi je vais parler? Autrefois, il y en un qui venait de Pékin; quelle blague! C'était donc un visiteur (littéralement 'une personne qui venait').
+那么，什么……以前，有来自北京的一个，有一点像笑话。他就来了（我家）。
 
 no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | ɲi˩bv̩˩ gv̩˥-ɲi˩ tsɯ˩ | mv̩˩. | 
-%que signifie : /ɲi˩bv̩˩ gv̩˥/ ? réponse: sauterelle
+%Transcription automatique : ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˩tsʰɯ˩qo˥ | ɲi˩gv̩˩gv̩˥ɲi˥tsɯ˩ | mv̩˩ | 
+%que signifie : /ɲi˩bv̩˩ gv̩˥/ ? réponse: 'cuisiner des criquets'
 % que signifie /no˧˥/?
 %93
-%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'les mauvais chiens, ils vous suivent!'
-On dit qu'autrefois à Lijiang il cuisinait des sauterelles! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune.)
+%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'les mauvais chiens, ils vous suivent!' xxxx D
+Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune; elle pense se souvenir qu'il lui avait représenté, gestes à l'appui, qu'il avait un temps vendu des brochettes de criquets sur un marché de Lijiang.)
+这个人呢，他好像有一段时间在丽江市场上卖烧烤蟋蟀串！
 
 no˧˥ | ʈʂo˧kwɤ˩ | <ɖɯ˧-kw...> ɖɯ˧-gi˧ gwɤ˥-dʑɯ˩-hĩ˩ ɖɯ˩-v̩˩ ɲi˩, tsɯ˩-zo˩, | ɖɯ˧-hɑ̃˧-ɻ˥, | ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ mv̩˩. |
-%游了半个中国的
+%Transcription automatique : zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
+%fr Vérifier une nouvelle fois : /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ ou /ə˧mɑ˧-ki˩ | tsʰɯ˩˥/? Hypothèse actuelle (28 avril 2018): devrait être la 2e forme, non la 1e. xxxx Même question pour énoncé suivant : ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩.
 Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arrivée chez moi.
+那么，有一天，游了半个中国的这个人，到了我家。
 
-ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩, | əəə… | zo˩no˥ | u˥-ʈæ˧ʂɯ˧-ɳɯ˧ | tɕɯ˩hĩ˩˥ | ə˧hɑ˩bɑ˩lɑ˩<-qo˩> | gwɤ˩-hĩ˩ tʰv̩˩-kʰwɤ˩˥ | ɬi˩ʈɯ˩mæ˥ | tʰi˧-hĩ˧˥ | tʰv̩˧-kʰwɤ˧ gwɤ˥ mv̩˩! | ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩!
+ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩, | əəə… | zo˩no˥ | u˥-ʈæ˧ʂɯ˧-ɳɯ˧ | tɕɯ˩-hĩ˩˥ | ə˧hɑ˩bɑ˩lɑ˩<-qo˩> | gwɤ˩-hĩ˩ tʰv̩˩-kʰwɤ˩˥ | ɬi˩ʈɯ˩mæ˥ | tʰi˧-hĩ˧˥ | tʰv̩˧-kʰwɤ˧ gwɤ˥ mv̩˩! | ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩!
 %Utterance ID: BENEVOLENCE.50 
 %Transcription automatique : ʁæ˧mɤ˧ki˧tsʰɯ˧dʑo˩ | əəə… | zo˩no˥ | ʁo˧æ˧ʂɯ˧le˧tɕɯ˩hĩ˩ | ˧hɑ˩bɑ˧lɑ˧qo˧ | gv̩˩hĩ˩tʰv̩˧kʰv̩˥ | ɬi˩ʈɯ˩mæ˩˥ | tʰi˧hĩ˧˥ | tʰv̩˧kʰwɤ˧bv̩˥˩ | ə˧mɑ˧ | ɑ˩mv̩˩tsɯ˩ɲi˩ |  
-%/u˥-ʈæ˧ʂɯ˧-ɳɯ˧/: 我家达石; tons inattendus : semble être comme un ton H en début de groupe. Accent d'insistance systématiquement associé à ce mot? yyyy Temporairement noté 
+%fr /u˥-ʈæ˧ʂɯ˧-ɳɯ˧/: 我家达石; tons inattendus : semble être comme un ton H en début de groupe. Accent d'insistance systématiquement associé à ce mot? yyyy Temporairement noté au ton haut : H.M.M.M.
+%fr Sens de /ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩/?
+Quand il est arrivé chez moi, euh... eh bien, debout en contrebas du foyer, il a chanté la chanson que mon fils Dashi avait écrite! et il m'a appelée 'Ama'! (Ama s'est donc laissée attendrir et a offert à l'inconnu l'accueil des Na dans ce qu'il a de plus hospitalier, sans se douter qu'elle avait en fait affaire à un malotru.)
+他来我家，在主屋里面没有火铺的那个地方地方，站着长了（我儿子）达石写的一首歌！也把我叫做‘阿妈’了！（于是，好客的阿妈对他很好。）
 
 mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
 %Utterance ID: BENEVOLENCE.51 
 %Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
-%que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的（泸沽湖）, chanson écrite par Dashi. C'est en l'entendant chanter cette chanson composée par son fils que Ama a 
+%96
+%que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的（泸沽湖）, chanson écrite par Dashi. C'est en l'entendant chanter cette chanson composée par son fils que Ama a été touchée et décidé d'offrir à l'inconnu le meilleur de l'hospitalité na.
+%Deuxième relecture effectuée de la phrase 1 à la phrase 96 le soir du 28 avril 2018.
 
 tʰi˩˥ | so˧ɲi˥ | no˧-qɑ˧<ʁɑ˧> ʝi˥-qɑ˩-bi˩, | <tsɯ˧... əəə...> | lo˧ʝi˧ qɑ˩-bi˩ tsɯ˩ | -mv̩˩. |
 %n'est pas: /le˧-gwɤ˩-ze˩-dʑo˩/.
