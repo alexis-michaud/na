@@ -1148,7 +1148,7 @@
 \dt 25/Aug/2015
 
 \lx æ̃˩ʂe˧li˥-mo˩
-\or aensheilimo
+\or aensheili mo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -9767,7 +9767,7 @@
 \dt 27/Aug/2015
 
 \lx dzi˧dzi˧-mo˧˥
-\or zzeezzeemo
+\or zzeezzee mo
 \ps n
 \lc dzi˧dzi˧mo˧˥
 \sd <langue="fra"> plante
@@ -14110,7 +14110,7 @@
 \dt 09/Sep/2015
 
 \lx ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩
-\or eliahaenshimo
+\or eliahaenshi mo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -23481,7 +23481,7 @@
 \dt 03/Aug/2017
 
 \lx jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
-\or yekhabeyemo
+\or yekhabeye mo
 \ps n
 \cf njo˩kæ˧tɕi˩˥
 \sd <langue="fra"> plante
