@@ -328,8 +328,8 @@ De nos jours, quand il manque quelque chose, hop, on va au marché, on achète (
 %Utterance ID: BENEVOLENCE.29
 %54
 %Transcription automatique : ɑ˩ʁo˧dʑo˩ | pi˧ | zo˩no˥njɤ˧ki˧zo˧ki˧ɲi˥bi˩ | dʑɤ˩hĩ˥ | ɖɯ˧kʰwɤ˥ | tʰi˧tɕɯ˥pæ˧ | dzɑ˧hĩ˧ | tʰv̩˧kʰwɤ˥ | le˧dzɯ˥! |
-%/njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩/ : vérifier le sens. Réponse : cela veut dire : j'expliquais à Geiruo, je faisais part à Geiruo de ces bonnes habitudes.
-A la maison, eh bien, je donne le même conseil à (ma belle-fille) Geiruo: je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !
+%/njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩/ : vérifier le sens. Réponse : cela veut dire : j'expliquais à Gisso, je faisais part à Gisso de ces bonnes habitudes.
+A la maison, eh bien, je donne le même conseil à (ma belle-fille) Gisso: je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !
 在家，我给（我媳妇）给若（这样的建议）：好的那块，存起来！不太好的那块，（给自己）吃！
 
 hĩ˧ le˧-jo˥-kv̩˩, | hĩ˧-ɳɯ˩ | õ˧ ʐwɤ˧-kv̩˥, | ə˧zɯ˩ | tɕɯ˧-di˧ mɤ˧-dʑo˥-dʑo˩: |  
@@ -611,97 +611,155 @@ Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arri
 Quand il est arrivé chez moi, euh... eh bien, debout en contrebas du foyer, il a chanté la chanson que mon fils Dashi avait écrite! et il m'a appelée 'Ama'! (Ama s'est donc laissée attendrir et a offert à l'inconnu l'accueil des Na dans ce qu'il a de plus hospitalier, sans se douter qu'elle avait en fait affaire à un malotru.)
 他来我家，在主屋里面没有火铺的那个地方地方，站着长了（我儿子）达石写的一首歌！也把我叫做‘阿妈’了！（于是，好客的阿妈对他很好。）
 
-mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
+“mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧” | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
 %Utterance ID: BENEVOLENCE.51 
-%Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ | tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | tʰi˩˥ | əəə…ɲjɤ˩ 
+%Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ |
 %96
+%fr /ə˧mɑ˧ tsɤ˧/: 阿妈好 (à confirmer xxxx)
 %que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的（泸沽湖）, chanson écrite par Dashi. C'est en l'entendant chanter cette chanson composée par son fils que Ama a été touchée et décidé d'offrir à l'inconnu le meilleur de l'hospitalité na.
-%Deuxième relecture effectuée de la phrase 1 à la phrase 96 le soir du 28 avril 2018.
+%fr n'est pas: /le˧-gwɤ˩-ze˩-dʑo˩/.
+%fr Deuxième relecture de ce document effectuée de la phrase 1 à la phrase 96 le soir du 28 avril 2018.
+Il a chanté la chanson “Qu'il est beau [notre Lac], qu'elle est bonne, notre Mère” [chanson écrite par le fils de Ama].
+他唱了“美丽的（泸沽湖）、阿妈好”这首歌（阿妈的儿子拉他咪·达石写的）
 
-tʰi˩˥ | so˧ɲi˥ | no˧-qɑ˧<ʁɑ˧> ʝi˥-qɑ˩-bi˩, | <tsɯ˧... əəə...> | lo˧ʝi˧ qɑ˩-bi˩ tsɯ˩ | -mv̩˩. |
-%n'est pas: /le˧-gwɤ˩-ze˩-dʑo˩/.
+tʰi˩˥, | “so˧ɲi˥ | no˧-qɑ˧<ʁɑ˧> ʝi˥-qɑ˩-bi˩, | <tsɯ˧... əəə...> | lo˧ʝi˧ qɑ˩-bi˩” tsɯ˩ | -mv̩˩. |
+%Transcription automatique :  tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ | 
+Après, il a dit que le lendemain, il allait nous aider dans nos travaux (travaux de la ferme, travaux des champs).
+然后他说了他第二天会帮我们干活的。
 
-tʰi˩˥ | əəə… njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˧ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧! |
+tʰi˩˥ | əəə… “njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˥ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧!” |
 %Utterance ID: BENEVOLENCE.52 
-%Transcription automatique : dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧-dʑo˩, | ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-<kv̩˧>ɲi˧-ɲi˧ tʰi˧-dzɯ˧-bi˧˥! | tsɯ˧˥ | mv̩˩. |
+%Transcription automatique : tʰi˩˥ | əəə…ɲjɤ˩ dʑi˧lo˧ʝi˧ | qɑ˩mɤ˧zo˧ | ɑ˩ʁo˧ | njɤ˧zɯ˩ | ki˧zo˩ | njæ˧sɯ˩ | lɑ˥ʝi˧di˧˥ | mɤ˧dʑo˧ | 
+[Mais] je lui ai dit: “Moi, je n'ai pas besoin d'aide! A la maison, nous deux, Gisso et moi, nous n'avons pas de travail à faire / nous n'avons pas de tâche que nous pourrions vous confier!”
+我回答说：“我呢，不需要帮忙！家里，咱们，给若和我，没有需要干的活！”
 
-no˧ tʰv̩˧-qo˧ | tʰi˩˥ | əəə…njɤ˧-ki˩ dzi˩-ze˩, | tʰi˧-dzi˩, | pi˧-dʑo˩. | 
+“no˧ tʰv̩˧-qo˧ | tʰi˩˥ | əəə…njɤ˧-ki˩ dzi˩-ze˩, | tʰi˧-dzi˩”, | pi˧-dʑo˩. | 
+%Transcription automatique : zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧-dʑo˩, | 
 %99
+“Si vous voulez venir ici, venir chez moi, eh bien venez donc!” lui ai-je dit.
+“你（要）在这里，那么……要做在这里（=来我家做客），那就来吧！”
 
-ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-<k...>ɲi˥ tʰi˧-dzi˩ ɖɯ˧-ʝi˥?? | tsɯ˧˥ mv̩˩. | 
+“ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-<k...>ɲi˥ tʰi˧-dzi˩ | ɖɯ˧-ʝi˥” | tsɯ˧˥ mv̩˩. | 
+%Transcription automatique : ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-<kv̩˧>ɲi˧-ɲi˧ tʰi˧-dzɯ˧-bi˧˥! | tsɯ˧˥ | mv̩˩. |
+Alors il a dit: “Ama, je vais donc habiter chez vous!”
+他说：“那，阿妈，我来你家住吧！”
 
-tsɤ˧ʝi˧! | pi˧-ɲi˩ mæ˩, ə˩-gi˩! | tsɤ˧ʝi˧, | pi˧ | dɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥ | -dʑo˩, | hɯ˧-ze˧, | v̩˧tɕʰɤ˩ bi˩-tso˩-ɲi˩! | tsɯ˧˥, | hɯ˧ | le˧-tsʰɯ˩ | mv̩˩. | 
+“tsɤ˧ ʝi˧!” | pi˧-ɲi˩ mæ˩, ə˩-gi˩! | “tsɤ˧ ʝi˧”, | pi˧ | ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥ | -dʑo˩, | hɯ˧-ze˧, | v̩˧tɕʰɤ˩ bi˩-tso˩-ɲi˩! | tsɯ˧˥, | hɯ˧ | le˧-tsʰɯ˩ | mv̩˩. | 
 %Utterance ID: BENEVOLENCE.53 
-%Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | æ˧tsʰɯ˩dʑo˩ | ɲi˧zɯ˧tʰv̩˧ | lo˧ʂv̩˩˧ | le˧tsʰɯ˩ 
+%Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | 
 %101
+%fr /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥/: serait-ce /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/? S'il y a 2 groupes tonals, ça devrait être : /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˩/. Pourrait-on dire /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/? xxxx
+%fr /v̩˧tɕʰɤ˩/: de quel lieu s'agit-il? Les sources chaudes, 温泉? xxxx
+Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller à xxxx, semble-t-il! Il est donc parti... et puis il est revenu.
+我答应了，说：“好的！”，对吧。说了“好的”，他去了xxxx。然后他又回来了。
 
-le˧-tsʰɯ˩-dʑo˩ | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩... -ɲi˩ tsɯ˩, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | <ʐv̩˧-mi˥...> | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! |
+le˧-tsʰɯ˩-dʑo˩, | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩... -ɲi˩ tsɯ˩, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | <ʐv̩˧-mi˥...> | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! |
 %Utterance ID: BENEVOLENCE.54 
-%Transcription automatique :  | i˧tsɯ˧ | ʈʂʰɖɯ˧ti˩ʈʰo˩ɖɯ˩dʑɯ˩ | ʐv̩˧ | ŋwɤ˧ni˥wæ˩tʰv̩˧po˩m˩ | ə˧mɑ˧ | tʰi˧tɕɤ˧ɻ̍˧tsɯ˩ | mv̩˩ | tʰi˩˥ | tʰi˧tɕɤ˩ɲi˥mæ˩dʑo˩ | tʰææ̃˧ 
+%Transcription automatique : æ˧tsʰɯ˩dʑo˩ | ɲi˧zɯ˧tʰv̩˧ | lo˧ʂv̩˩˧ | le˧tsʰɯ˩ | i˧tsɯ˧ | ʈʂʰɖɯ˧ti˩ʈʰo˩ɖɯ˩dʑɯ˩ | ʐv̩˧ | ŋwɤ˧ni˥wæ˩tʰv̩˧po˩m˩ | 
+Quand il est revenu, il revenait du Lac, et il ramenait quatre... non, cinq poissons gros comme ça, qu'il y avait achetés!
+回来的时候，他是从泸沽湖回来，他买回来有四……（不：）五条这么大的鱼！
 
-"ə˧mɑ˧ | tʰi˧-tɕɤ˧-ɻ̍˥!" tsɯ˩ | mv̩˩. | 
+“ə˧mɑ˧ | tʰi˧-tɕɤ˧-ɻ̍˥!” tsɯ˩ | mv̩˩. | 
 %103
+%Transcription automatique : ə˧mɑ˧ | tʰi˧tɕɤ˧ɻ̍˧tsɯ˩ | mv̩˩ | 
+Il m'a dit: “Ama, faites-les cuire!”
+“阿妈，请（把这些鱼）煮一下！”
 
 tʰi˩˥, | əəə... tʰi˧-tɕɤ˧-ɲi˥ mæ˩, ə˩-gi˩! | tʰv̩˧-hɑ̃˩ | tʰv̩˧-ɲi˧, | ə˧mɑ˧-ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧-hĩ˧bæ˧ | ɖɯ˧so˩-kv̩˩ tʰi˩-dʑo˩. | 
 %Utterance ID: BENEVOLENCE.55 
-%Transcription automatique : tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | tʰi˩˥ | ʈʂʰɯ˩ 
+%Transcription automatique : tʰi˩˥ | tʰi˧tɕɤ˩ɲi˥mæ˩dʑo˩ | tʰææ̃˧ tʰv̩˧njɤ˧ | ə˧mɑ˧ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧ | hĩ˧bæ˧ | ɖo˩sɯ˩kv̩˩ | pi˧˩ | 
 %104
-%/tʰææ̃˧/: est sans doute en fait : /tʰv̩˧-hɑ̃˩/ 'ce soir-là' ; confirmation de Ama: OUI, c'est bien tʰv̩˧-hɑ̃˩.
+%fr /tʰææ̃˧/: est sans doute en fait : /tʰv̩˧-hɑ̃˩/ 'ce soir-là' ; confirmation de Ama: OUI, c'est bien tʰv̩˧-hɑ̃˩.
+Alors, eh bien... je les lui ai fait cuire, n'est-ce pas! Ce soir-là, ce jour-là, il y avait chez moi quelques invités, des gens du village.
+所以嘛，我给煮了，是不是。哪天，我家有客人，我们村子里的几个人。
 
-ɲi˧zo˧ | tʰi˧-tɕɤ˧˥ | -dʑo˩, | no˧-tɑ˧kɤ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥ | dɯ˧-dzɯ˥-ɳɯ˩ | le˧-se˩-kʰɯ˩ | mv̩˩! |
+ɲi˧zo˧ | tʰi˧-tɕɤ˧˥ | -dʑo˩, | no˧-tɑ˧kɤ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥-ɳɯ˩ | le˧-se˩-kʰɯ˩ | mv̩˩! |
 %105
+%Transcription automatique : ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ | 
+Quand le poisson a été cuit, voilà-t-y pas qu'il a mangé, mangé, mangé, jusqu'à ce qu'il ait tout fini à lui tout seul!
+鱼煮好了，他就一个人吃啊吃，吃啊吃，都吃没了！
 
-tʰi˩˥ | ʈʂʰɯ˧-sɯ˩kv̩˩-ɳɯ˩ | ʐæ˧~ʐæ˩-ɻ̍˩ mv̩˩! | njɤ˧-ki˧: | "no˧ | hĩ˧bæ˧ | tʰv̩˧-v̩˧-dʑo˩, | ə˧tso˧ hĩ˧bæ˧ ɲi˥?" |
+tʰi˩˥ | ʈʂʰɯ˧-sɯ˩kv̩˩-ɳɯ˩ | ʐæ˧~ʐæ˩-ɻ̍˩ mv̩˩! | njɤ˧-ki˧: | “no˧ | hĩ˧bæ˧ | tʰv̩˧-v̩˧-dʑo˩, | ə˧tso˧ hĩ˧bæ˧ ɲi˥?” |
 %Utterance ID: BENEVOLENCE.56 
-%Transcription automatique : sɯ˧tʰv̩˧kʰv̩˧ɳɯ˩ | ʐæ˧ʐæ˩hɻ̍˩mv̩˩ | le˧ki˥ | no˧ | hĩ˧bæ˧ | tʰv̩˧v̩˧dʑo˩ | ə˩tso˩ | hĩ˧bæ˧ni˧ | kæ˧sɯ˩kv̩˩ki˩ | le˧dzɯ˥ | mɤ˧dzɯ˩lo˥ | əsɯ˩kv̩˩sɯ˩ | dzɯ˧ | mɤ˧jɤi˧dʑo˥ | no˧tɑ˩ʈv̩˥ | ə˧dzɯ˧ | le˧se˩hɯ˩ze˩ |  
+%Transcription automatique : tʰi˩˥ | ʈʂʰɯ˩ sɯ˧tʰv̩˧kʰv̩˧ɳɯ˩ | ʐæ˧ʐæ˩hɻ̍˩mv̩˩ | le˧ki˥ | no˧ | hĩ˧bæ˧ | tʰv̩˧v̩˧dʑo˩ | ə˩tso˩ | hĩ˧bæ˧ni˧ | 
 %106
+%fr Il se peut qu'il y ait ici un calque de structure d'avec le mandarin, ou du moins une attraction exercée par une construction similaire en mandarin: 算什么人呢？ 这，算什么客人呢？ “Dis donc, c'est quoi, cet 'invité'?”, “et t'appelles ça un 'invité', toi?”
+Alors, eux (les gens du village qui se trouvaient à la maison ce jour-là) ils se sont bien moqués! Ils m'ont dit: “Ton invité, là, d'où il sort?” (littéralement: “qu'est-ce que c'est, comme invité?”)
+他们呢（村子里的人，那天在阿妈家做客），笑起来了：“你这位客人，算什么客人呢？”
 
- ə˧sɯ˩kv̩˩-ki˩ | le˧-dzɯ˥ | mɤ˧-tsɯ˧-zo˥! | ə˧sɯ˩kv̩˩-se˩, | dzɯ˧ | mɤ˧-ʝi˧-dʑo˥! | no˧-tɑ˧kɤ˥ | le˧-dzɯ˥ | le˧-se˩-hɯ˩-ze˩! | ə˧-sɯ˩kv̩˩ ɑ˩ʁo˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩, | mɤ˧-fv̩˧ ɖɯ˧v̩˧ ɲi˩ tsɯ˩ wɤ˩! | 
+“ə˧sɯ˩kv̩˩-ki˩ | le˧-dzɯ˥ | mɤ˧-tsɯ˧-zo˥! | ə˧sɯ˩kv̩˩-se˩, | dzɯ˧ | mɤ˧-ʝi˧-dʑo˥! | no˧-tɑ˧kɤ˥ | le˧-dzɯ˥ | le˧-se˩-hɯ˩-ze˩! | ə˧-sɯ˩kv̩˩ ɑ˩ʁo˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩, | mɤ˧-fv̩˧ ɖɯ˧-v̩˧ ɲi˩ tsɯ˩ wɤ˩!” | 
 %Utterance ID: BENEVOLENCE.57 
-%Transcription automatique : ə˧sɯ˩kv̩˩ | ɑ˩ʁo˧ɖʐi˩ʈʂʰɯ˩tsv̩˩ni˥dʑo˩ | mɤ˧sɯ˩ɖɯ˩v̩˩ɲi˩ʝi˩tsɯ˩mv̩˩ | əəə…tʰi˩˥ | dʑi˩ | nɑ˧tsʰɯ˧ | kwɤ˩tɕɯ˥lɑ˩ | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧˥zo˧tsʰɯ˧no˧ɳɯ˥ | tsʰo˧v̩˧le˧dzi˩ |  
+%Transcription automatique : kæ˧sɯ˩kv̩˩ki˩ | le˧dzɯ˥ | mɤ˧dzɯ˩lo˥ | əsɯ˩kv̩˩sɯ˩ | dzɯ˧ | mɤ˧jɤi˧dʑo˥ | no˧tɑ˩ʈv̩˥ | ə˧dzɯ˧ | le˧se˩hɯ˩ze˩ | ə˧sɯ˩kv̩˩ | ɑ˩ʁo˧ɖʐi˩ʈʂʰɯ˩tsv̩˩ni˥dʑo˩ | mɤ˧sɯ˩ɖɯ˩v̩˩ɲi˩ʝi˩tsɯ˩mv̩˩ | 
+“(Ben alors,) ils nous a pas appelés pour venir manger (=pour partager avec lui!) Nous, on a rien mangé! Il a mangé tout seul, et il a tout fini! Si ça s'était passé dans notre maison à nous, y'aurait eu du grabuge / ça se serait pas passé comme ça / on lui aurait témoigné notre colère!”
+“（他）没叫我们（一起）吃！没让咱们吃！一个人，都吃没了！在咱们家，这么干的话……真的是让人生气的一个（人）啊！”
 
-əəə… tʰi˩˥, | gɯ˩-ʝi˥, | no˧ tsʰɯ˧ kwɤ˧tɕɯ˥-lɑ˩, | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧ | no˧ tsʰɯ˧, | no˧-ɳɯ˧: | "e! ʈʂʰɯ˧-v̩˧ le˧-dzɯ˥! | e!"
+əəə… tʰi˩˥, | gɯ˩-ʝi˥, | no˧ tsʰɯ˧ kwɤ˧tɕɯ˥-lɑ˩, | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧-tɑ˧˥ | no˧ tsʰɯ˧, | no˧-ɳɯ˧: | "e! ʈʂʰɯ˧-v̩˧ le˧-dzɯ˥! | e!"
+%Transcription automatique : əəə…tʰi˩˥ | dʑi˩ | nɑ˧tsʰɯ˧ | kwɤ˩tɕɯ˥lɑ˩ | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧˥zo˧tsʰɯ˧no˧ɳɯ˥ | tsʰo˧v̩˧le˧dzi˩ |  
+Alors... vrai de vrai, quand toi tu es venu, nous autres, tous les gens... quand tu es venu, tu as fais: 'eh, ça c'est pour elle/lui! eh!' (Ama imite le geste du visiteur qui offre un morceau de nourriture à telle ou tel, et la formule peu assurée qui accompagne le geste, le visiteur étant très hésitant dans son rudiment de langue na.)
+后来……你呢，你来了以后，真的，人家都（欣赏你）。你说：“嗯，他吃吧！嗯！”（阿妈模仿客人的动作：将一小块水果或一点核桃递给旁边的人，边试着用摩梭话说出他的好意。）
 
-ə˧mɑ˧! | no˧ | tsʰɯ˧-v̩˧ -dʑo˩, | fɑ˧kwɤ˧-hĩ˧ tʰv̩˧-v̩˥-dʑo˩, | no˧ zo˧ tʰv̩˧-v̩˧ dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ ɖɯ˧-v̩˧! | õ˧˥ | mɤ˧-dzɯ˥, | hĩ˧-ki˧ sɯ˩ ki˩! | 
+“ə˧mɑ˧! | no˧ | tsʰɯ˧-v̩˧ -dʑo˩, | fɑ˧kwɤ˧-hĩ˧ tʰv̩˧-v̩˥-dʑo˩, | no˧ zo˧ tʰv̩˧-v̩˧ dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ ɖɯ˧-v̩˧! | õ˧˥ | mɤ˧-dzɯ˥, | hĩ˧-ki˧ sɯ˩ ki˩!” | 
 %Utterance ID: BENEVOLENCE.58 
 gv̩˧-hĩ˧ ɖɯ˧v̩˧! ævec ɲi˩: /gv̩˧-hĩ˧ ɖɯ˧v̩˧ ɲi˩./
-%Transcription automatique : ə˧lɑ˧ | no˧tsʰɯ˧v̩˧dʑo˩ | hwæ˧kv̩˧ | hĩ˧tʰv̩˧v̩˥dʑo˩ | nv̩˧zo˧tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥gv̩˩ | ɖɯ˧v̩˧ | ɑ˥ | ŋɑ˩dzɯ˩ | hĩ˧ki˧sɯ˩ki˩ | zɯ˩lo˥ | ʁv̩˧dɑ˥ | no˧ki˩ | ɖɯ˧v̩˧tsʰɯ˩ | pi˩tɕi˥ĩ˧ɲi˥pi˩tʰv̩˧v̩˧ |  
+%Transcription automatique : ə˧lɑ˧ | no˧tsʰɯ˧v̩˧dʑo˩ | hwæ˧kv̩˧ | hĩ˧tʰv̩˧v̩˥dʑo˩ | nv̩˧zo˧tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥gv̩˩ | ɖɯ˧v̩˧ | ɑ˥ | ŋɑ˩dzɯ˩ | hĩ˧ki˧sɯ˩ki˩ |
 %109
+“Ama, ton invité, là, le Français, [celui que tu traitais comme] ton 'fils adoptif', c'est quelqu'un de vraiment bien! Avant de manger, il offre un morceau aux autres / il partage avec les autres, avant même d'avoir commencé à manger!”
+“阿妈！你这个（客人），那个法国人，你这个‘儿子’，是很不错的人！自己还没吃，（他）先给别人！”
 
-zo˩no˥ | ʁo˧dɑ˧ | no˧-ki˩ | ɖɯ˧-v̩˧ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ ɲi˥ pi˩ | tʰv̩˧-v̩˧-se˥, | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩? |
+“zo˩no˥ | ʁo˧dɑ˧ | no˧-ki˩ | ɖɯ˧-v̩˧ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ ɲi˥ pi˩ | tʰv̩˧-v̩˧-se˥, | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩?” |
 %110
+%Transcription automatique :  zɯ˩lo˥ | ʁv̩˧dɑ˥ | no˧ki˩ | ɖɯ˧v̩˧tsʰɯ˩ | pi˩tɕi˥ĩ˧ɲi˥pi˩tʰv̩˧v̩˧ | tʰi˩˥ə˧tso˧hĩ˧ | ɖɯ˧v̩˧ɲi˩ | 
+“Tandis que celui qui était venu chez toi auparavant (=l'autre fois), celui qui était de Pékin, quel drôle de bonhomme!”
+“而以前到你那边的那位北京人呢，算什么人？”
 
  õ˧-bv̩˥-õ˩ | tʰi˧-ɻ˩-kʰɯ˩, | dzɯ˧-zo˥, | ə˩-gi˩! | tsɯ˧-zo˥! | 
 %Utterance ID: BENEVOLENCE.59 
-%Transcription automatique : tʰi˩˥ə˧tso˧hĩ˧ | ɖɯ˧v̩˧ɲi˩ | õ˧do˥ | tʰæ˧kʰɯ˩ | dzɯ˧zɑ˥ | əgi˩tso˧zo˩ | æ˧ʂæ˧qʰwɤ˧zo˩ | nɑ˧ʐwɤ˧dʑo˧ɲi˥ | ə˧sɯ˧kv̩˩zɯ˩ | no˩dʑo˥ | ɖwæ˧˥ | gv̩˧tsɯ˩ | mv̩˩ | æ˧ʂæ˧ | ɬɑ˧ 
-ʯno˩-dʑo˥: tons vʐrifiʐs
-æ˧ʂæ˧qʰwɤ˧ tsɤ˧-ɲi˥-ze˩ mæ˩! 'c'est devenu de l'histoire / c'est passé dans la tradition orale!'
-Il mangeait tout seul, dans son coin!
+%Transcription automatique : õ˧do˥ | tʰæ˧kʰɯ˩ | dzɯ˧zɑ˥ | əgi˩tso˧zo˩ | 
+%fr /no˩-dʑo˥/: tons vérifiés
+%fr Commentaire de Ama au sujet de ces histoires récentes: /æ˧ʂæ˧qʰwɤ˧ tsɤ˧-ɲi˥-ze˩ mæ˩!/ 'c'est devenu de l'histoire / c'est passé dans la tradition orale!'
+“Il était tourné de son côté à lui (tourné vers soi-même), quand il mangeait (=il mangeait tout seul dans son coin), n'est-ce pas!” Voilà ce qu'on raconte!
+“他是自己一个人吃的，对吧！”（直译：‘向自己转过去’，意思是：不向别人看，不面对别人）是这样讲的。
 
-æ˧ʂæ˧qʰwɤ˧-ʝi˥-zo˩ | wɤ˩˥, | no˧ ʐwɤ˧-dʑo˧-ɲi˥! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩! | no˩-dʑo˥, | ɖwæ˧˥ | gv̩˧! | tsɯ˩ | mv̩˩, | æ˧ʂæ˧! |
+æ˧ʂæ˧qʰwɤ˧-ʝi˥-zo˩ | wɤ˩˥, | no˧ ʐwɤ˧-dʑo˧-ɲi˥! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩! | no˩-dʑo˥, | ɖwæ˧˥ | gv̩˧! | tsɯ˩ mv̩˩, | æ˧ʂæ˧! |
+%Transcription automatique : æ˧ʂæ˧qʰwɤ˧zo˩ | nɑ˧ʐwɤ˧dʑo˧ɲi˥ | ə˧sɯ˧kv̩˩zɯ˩ | no˩dʑo˥ | ɖwæ˧˥ | gv̩˧tsɯ˩ | mv̩˩ | æ˧ʂæ˧ | 
+%fr L'emploi du terme /æ˧ʂæ˧/ 'autrefois' paraît surprenant s'agissant d'événements qui remontent à quelques années à peine. Mais cela contribue au propos de la locutrice, qui consiste précisément à souligner que les événements les plus récents se prêtent à la 'mise en histoire', à la projection dans un passé qui paraît déjà éloigné, coupé du présent, voire en voie de mythification.
+Au jeu des histoires, eh bien, on parlait aussi de toi, dans ce temps-là! Toi, on disait que tu étais quelqu'un de bien, à cette époque-là!
+那时候，这样把这些事情当故事看呢，人家也说你的事啊！你呢，以前，算是好的人物！ / 你呢，这些故事里，是有好角色的！
 
-ə˧mɑ˧-ki˩... tsʰi˩-hĩ˩, | ɖɯ˧-tɑ˧˥ | no˧ do˧-hĩ˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | ə˩-gi˩! | no˧-ɳɯ˧ | pʰi˧ko˥ | ɖɯ˧-kʰwɤ˥ hæ̃˩, | wɤ˩˥ | "ə˧mɑ˧ dzɯ˧! | əəə… ki˧zo˧ dzɯ˧! | ɖɯ˩mɑ˧ dzɯ˧!" tsɯ˩-mɤ˩-tsɯ˩, | ə˩-gi˩! | 
+ə˧mɑ˧-ki˩... tsʰɯ˩-hĩ˩, | ɖɯ˧-tɑ˧˥ | no˧ do˧-hĩ˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | ə˩-gi˩! | no˧-ɳɯ˧ | pʰi˧ko˥ | ɖɯ˧-kʰwɤ˥ hæ̃˩, | wɤ˩˥ | “ə˧mɑ˧ dzɯ˧! | əəə… ki˧zo˧ dzɯ˧! | ɖɯ˩mɑ˧ dzɯ˧!” tsɯ˩-mɤ˩-tsɯ˩, | ə˩-gi˩! | 
 %Utterance ID: BENEVOLENCE.60 
-%Transcription automatique : mɤ˧ki˩ | tsʰi˩ | ɖɯ˧tɑ˥ | mo˧do˧ʈʂʰe˧ne˩gi˩ | no˧le˧tʰi˧kv̩˥ɖɯ˩kʰv̩˥æ̃˩ʁwɤ˩ | ə˧mɤ˧dzɯ˧ | əəə…ki˧zo˧dzɯ˩ | ɖɯ˩mɤ˧dzɯ˧tsɯ˩mi˩tsæ˩ | ə˩gi˩ | wɤ˩˥ | hi˧bæ˧tɕi˩ | no˧ʝi˥ | le˧hĩ˧ | tʰi˧ki˧ |  
+%Transcription automatique : ɬɑ˧ mɤ˧ki˩ | tsʰi˩ | ɖɯ˧tɑ˥ | mo˧do˧ʈʂʰe˧ne˩gi˩ | no˧le˧tʰi˧kv̩˥ɖɯ˩kʰv̩˥æ̃˩ʁwɤ˩ | ə˧mɤ˧dzɯ˧ | əəə…ki˧zo˧dzɯ˩ | ɖɯ˩mɤ˧dzɯ˧tsɯ˩mi˩tsæ˩ | ə˩gi˩ | 
 %113
+[Ces gens qui disent du bien de toi, ce sont tous] ceux qui venaient chez moi, tous ceux qui t'ont vu [lors de tes séjours à Yongning], n'est-ce pas! Toi, quand tu coupais un quartier de pomme, c'était parti pour des 'Ama, tiens! Gisso, tiens! Ddeema, tiens!', n'est-ce pas que c'était comme ça! (Ama avait acheté pour le visiteur une belle provision de pommes; celui-ci en mangeait avec appétit, et proposait des quartiers à la ronde.)
+（说你这些好话的人，）都是到我家来的人，见过你的人，对吧！你切一块苹果，就要（递给旁边的人，说：）“阿妈吃！给若吃！独妈吃！”，对不对！
 
-wɤ˩˥ | hĩ˧bæ˧-ki˧ | no˧-ɳɯ˧ | le˧-hæ̃˩[~hæ̃˩] | tʰi˧-ki˧ hɯ˧-mɤ˧-hɯ˩! | -dʑo˩, | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩: | "hɤ! tʰv̩˧-v̩˧-dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ | ɖɯ˧-v̩˧ ɲi˩! | ə˧-sɯ˩kv̩˩ | nɑ˩-ne˥-ʝi˩ gv̩˩!" | 
+wɤ˩˥ | hĩ˧bæ˧-ki˧ | no˧-ɳɯ˧ | le˧-hæ̃˩[~hæ̃˩] | tʰi˧-ki˧ hɯ˧-mɤ˧-hɯ˩! | -dʑo˩, | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩: | “hɤ! tʰv̩˧-v̩˧-dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ | ɖɯ˧-v̩˧ ɲi˩! | ə˧-sɯ˩kv̩˩ | nɑ˩-ne˥-ʝi˩ gv̩˩!” | 
 %Utterance ID: BENEVOLENCE.61 
-%Transcription automatique : mo˧mæ˩ | dʑi˩tʰv̩˧sɯ˩kv̩˩ɳɯ˩ĩ˧ | tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥ | gv̩˩hĩ˧ | ɖɯ˧v̩˧ɲi˧ | ə˧sɯ˩kv̩˩ | ˩mæ˩ne˥gv̩˩ | tʰɯ˧v̩˧se˥ | gi˩ʝi˥ | hæ˧le˧gv̩˩ | ə˧tso˧hĩ˧ | ɖɯ˧mi˧tsʰɯ˩ | læ˧ʐɯ˩ | zo˩no˥ | qo˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˧dʑɯ˩dʑo˧ɲi˥mæ˩ | hĩ˧ |  
-%/nɑ˩-ne˥-ʝi˩ gv̩˩!/: fortement réduit, comme une syllabe /ni/, mais la forme 'ancienne', complète, est tj reconnue comme telle par Ama. 
+%Transcription automatique : wɤ˩˥ | hi˧bæ˧tɕi˩ | no˧ʝi˥ | le˧hĩ˧ | tʰi˧ki˧ |  mo˧mæ˩ | dʑi˩tʰv̩˧sɯ˩kv̩˩ɳɯ˩ĩ˧ | tʰv̩˧v̩˧dʑo˩ | ɖwæ˧˥ | gv̩˩hĩ˧ | ɖɯ˧v̩˧ɲi˧ | ə˧sɯ˩kv̩˩ | ˩mæ˩ne˥gv̩˩ | 
+%fr /nɑ˩-ne˥-ʝi˩ gv̩˩!/: fortement réduit, comme une syllabe /ni/, mais la forme 'ancienne', complète, est néanmoins bien reconnue comme telle par Ama. 
 %114
+Pour les invités aussi, (c'était reparti pour un tour:) tu coupais (des quartiers de pomme) et tu les offrais, n'est-ce pas! Alors, eux, ils disaient: “Eeeh bien, celui-là, c'est quelqu'un de bien! Il est comme nous, les Na!”
+给客人，也是：（你同样递给一些苹果块，）你切就给，是不是！于是他们说：“嘿！那个吧，是好人！他像咱们摩梭人一样！”
 
-"tʰv̩˧-v̩˧-se˥ | gɯ˩-ʝi˥ | hæ˧-ne˩-ʝi˩ gv̩˩! | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩ tsɯ˩?" | ʐæ˧~ʐæ˩-ɻ˩, | zo˩no˥, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-di˩ dʑo˩-ɲi˥ mæ˩! |
+“tʰv̩˧-v̩˧-se˥ | gɯ˩-ʝi˥ | hæ˧-ne˩-ʝi˩ gv̩˩! | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩ tsɯ˩?” | ʐæ˧~ʐæ˩-ɻ˩, | zo˩no˥, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-di˩ dʑo˩-ɲi˥ mæ˩! |
 %115
+%Transcription automatique : tʰɯ˧v̩˧se˥ | gi˩ʝi˥ | hæ˧le˧gv̩˩ | ə˧tso˧hĩ˧ | ɖɯ˧mi˧tsʰɯ˩ | læ˧ʐɯ˩ | zo˩no˥ | qo˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˧dʑɯ˩dʑo˧ɲi˥mæ˩ | hĩ˧ |  
+%zh 这里反映当地对民俗、民族文化、民族精神的一些概念，认为：汉族自私起来就很自私，摩梭大方起来就很大方。跟外人分自己的东西，在一些汉族地区的传统概念中，是不太合适的行为，对好客的概念，与摩梭有稍微不同的了解。
+%fr Dans la culture chinoise (Han), il n'y a pas d'injonction, en dehors de certaines circonstances spécifiques, à partager avec des inconnus: le partage et l'hospitalité sont régis par des principes quelque peu différents de ceux qui prévalent chez les Na. On attribue à l'étranger l'égoïsme: en France, l'usage dans certaines régions est de dire de celui qui ne partage pas qu'il 'fait Suisse'; chez les Na, le reproche d'égoïsme se formule en disant que la personne se comporte comme un Chinois, le reproche de manque d'hygiène se formule en disant que la personne est négligée comme un Lolo, etc.
+“Tandis que l'autre, sûr de sûr que c'était un vrai Chinois (Han), brut de décoffrage! Qu'est-ce que c'était donc que ce bonhomme?” On riait; voilà ce qui se racontait.
+“而那个呢，真的，是典型的老汉族 / 就是老汉族的劲儿！算什么人呢？”（人家这样）笑话。有这样的说法！
 
-hĩ˧ | ʈʂʰɯ˧-dʑo˩, | hĩ˩ ʐwɤ˩˥! | pi˧-dʑo˩, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-ɲi˥ mæ˩: | hĩ˧-ʈʂʰɯ˧ | dʑɤ˩ ʝi˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | dzɑ˧-ʝi˧ | pi˧, | hĩ˧-ɳɯ˩ ʐwɤ˩-kv̩˩! | pi˧. | 
+hĩ˧ | ʈʂʰɯ˧-dʑo˩, | hĩ˩ ʐwɤ˩˥! | pi˧-dʑo˩, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-ɲi˥ mæ˩: | “hĩ˧-ʈʂʰɯ˧ | dʑɤ˩ ʝi˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | dzɑ˧-ʝi˧ | pi˧, | hĩ˧-ɳɯ˩ ʐwɤ˩-kv̩˩!” | pi˧. | 
 %Utterance ID: BENEVOLENCE.62 
-%Transcription automatique : ʈʂʰɯ˧dʑo˩ | hĩ˧ʐwɤ˩˥ | pi˧dʑo˩õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩ | hĩ˧ʈʂʰɯ˧ | dʑɤ˩ʝi˧ | pi˧dʑo˩ | hĩ˧ɳɯ˧ | ʐwɤ˩kv̩˩˥ | dzɑ˧ʝi˧ | pi˧ | hĩ˧ni˩ʐwɤ˩kv̩˩ | pi˧ | dzɑ˧ʝi˧bi˧ | hĩ˩˧ɳɯ˩ | ʐwɤ˩ | dʑɤ˩ʝi˧bi˥ | hĩ˧ɳɯ˧ | ʐwɤ˧˥ 
+%Transcription automatique : ʈʂʰɯ˧dʑo˩ | hĩ˧ʐwɤ˩˥ | pi˧dʑo˩õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩ | hĩ˧ʈʂʰɯ˧ | dʑɤ˩ʝi˧ | pi˧dʑo˩ | hĩ˧ɳɯ˧ | ʐwɤ˩kv̩˩˥ | dzɑ˧ʝi˧ | pi˧ | hĩ˧ni˩ʐwɤ˩kv̩˩ | pi˧ | 
 %dicton: no˧ | ɕi˩mi˩ tʰi˩-di˥, | hĩ˧-ki˧ | ʐwɤ˩-zo˩-kv̩˥! 'Tu as une langue, c'est pour t'en servir!' Dicton na ancien, pour dire qu'il ne faut pas se tenir coi. Ce qu'on ne sait pas, il faut le demander: /mv̩˩do˩ zo˩-ɲi˥ mæ˩!/
 %116
+Les gens, ils parlent les uns des autres! Voilà ce qu'on disait: quand quelqu'un fait quelque chose de bien ('fait le bien'), les gens en parlent! Quand il fait quelque chose de mal ('fait le mal'), les gens en parlent!
+人嘛，就会说（别）人的！有这样一个说法：“人做好事，就会有人说（他好）！干坏事，会有人说（他不好！）”
 
 dzɑ˧ ʝi˧-bi˧ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! | dʑɤ˩ʝi˧bi˥ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! |
-%Avant /dʑɤ˩ʝi˧bi˥/: exemple de 'resumptive schwa': voyelle (voisement) au moment de la reprise, pour souligner la continuité avec ce qui précède.
+%Transcription automatique : dzɑ˧ʝi˧bi˧ | hĩ˩˧ɳɯ˩ | ʐwɤ˩ | dʑɤ˩ʝi˧bi˥ | hĩ˧ɳɯ˧ | ʐwɤ˧˥ 
+%fr Avant /dʑɤ˩ʝi˧bi˥/: exemple de 'resumptive schwa': voyelle (voisement) au moment de la reprise, pour souligner la continuité avec ce qui précède.
 
 hĩ˧ | ɖɯ˧-v̩˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ʐwɤ˧-di˧ mɤ˧-dʑo˧-hĩ˧-dʑo˩, | mɤ˧-dʑo˩-ɲi˩! | pi˧-ɲi˥ mæ˩, | æ˧ʂæ˧! | 
 %Utterance ID: BENEVOLENCE.63 

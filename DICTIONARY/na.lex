@@ -1061,6 +1061,10 @@
 \xe In the old times, (people) used to tell stories!
 \xn 在过去，大家经常讲故事！
 \xf Dans le temps, (on) racontait des histoires!
+\xv æ˧ʂæ˧-qʰwɤ˧ tsɤ˧-ɲi˥-ze˩ mæ˩!
+\xe It has become a story / it has now entered oral tradition! (About events that happened in Yongning in recent years, less than a decade before, and that are now narrated in much the same way as folk stories.)
+\xn 现在，已经变成故事了！（关于近期，十年以内发生过的小故事：现在已经入口传文化了，流传方式跟老故事差不多。）
+\xf C'est devenu de l'histoire / c'est passé dans la tradition orale, maintenant! (Commentaire au sujet d'événements qui ont eu lieu à Yongning récemment, il y a moins d'une décennie, et qui se racontent maintenant d'une façon assez analogue aux contes et légendes de la nuit des temps.)
 \dt 06/Jun/2017
 
 \lx æ˧ʂæ˧-tɑ˩mv̩˩
@@ -7799,6 +7803,7 @@
 \lx ɖɯ˩mi#˥
 \or ddeemi
 \ps n
+\cf ɖɯ˩zo#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="sem"> impossible d’extraire synchroniquement le monosyllabe
@@ -7925,6 +7930,7 @@
 \lx ɖɯ˩zo#˥
 \or ddeesso
 \ps n
+\cf ɖɯ˩mi#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="sem"> impossible d’extraire synchroniquement le monosyllabe
@@ -8563,13 +8569,15 @@
 \df Classificateur des marches d'escalier.
 \gf |fg{clf}.marches
 \xv ɖɯ˧-ɖwæ˧ ɲi˥
-\xe It's a step (of stairs). (Elicited to investigate the word's tonal behaviour)
-\xn 是一节/一节阶梯。（引出这句是为了了解这个词在不同语境的声调变化。）
+\xe It's a step (of stairs). 
+\xn 是一节/一节阶梯。
 \xf c'est une marche
+\xc PHONO
 \xv ʈʂʰɯ˧-ɖwæ#˥
 \xe this step
 \xn 这节阶梯
 \xf cette marche
+\xc PHONO
 \dt 24/Apr/2017
 
 \lx dzɑ˥
@@ -8776,7 +8784,7 @@
 \xe The grease has melted.
 \xn 油融化了。
 \xf la graisse a fondu (ex.: du saindoux qui fond dans un chaudron)
-\xv dʑi˩pʰæ˩˥ | le˧-ɖʐæ˩-ze˩
+\xv dʑɯ˩pʰæ˩˥ | le˧-ɖʐæ˩-ze˩
 \xe The ice has melted.
 \xn 冰融化了。
 \xf La glace a fondu.
@@ -8866,6 +8874,7 @@
 \sf <nb="2011"> 768
 \or zzhei
 \ps n
+\cf ɖʐe˧ʁwɤ˧
 \lc ɖʐe˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -9245,6 +9254,7 @@
 \lx ɖʐe˧ʁwɤ˧
 \or zzheiwua
 \ps n
+\cf ɖʐe˧
 \lc ɖʐe˧ʁwɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -10209,6 +10219,7 @@
 \lc ɖʐo˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\nt <type="sem"> M18 pense que ce terme désigne toute la structure du bâtiment.
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -10218,7 +10229,7 @@
 \ge major_roof_beam
 \dn 大梁
 \gn 大梁
-\df Pièce de charpente carrée (côté: environ 18 cm), dans les parties du bâtiment qui n'ont pas de piliers: fv:/gæ˩pʰæ˧/, fv:/mv̩˩pʰæ˧/. Elles supportent la charpente. (M18 pense que ce terme désigne toute la structure du bâtiment.).
+\df Pièce de charpente carrée (côté: environ 18 cm), dans les parties du bâtiment qui n'ont pas de piliers: fv:/gæ˩pʰæ˧/, fv:/mv̩˩pʰæ˧/. Elles supportent la charpente.
 \gf pièce_de_charpente_sp
 \dt 27/Aug/2015
 
@@ -10527,7 +10538,7 @@
 \xv ʈʂo˧ɭɯ˧ ɖʐo˧˥
 \xe to crush with a grindstone
 \xn 用手磨弄碎
-\xf écraser avec un moulin (/ʈʂu˧ɭɯ#˥/: moulin)
+\xf écraser avec un moulin (|fv{ʈʂu˧ɭɯ#˥}: moulin)
 \xv ɖɯ˧-kʰwɤ˧ ɖʐo˧˥
 \xe to crush a piece (of something)
 \xn 弄碎一块
@@ -10713,6 +10724,7 @@
 \sf <nb="2011"> 648
 \or zzhedduae
 \ps n
+\cf ɖwæ˩a
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -11418,7 +11430,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdl classifier
-\pdv ɖʐɯ˩
+\pdv ɖʐɯ˥a
 \de Market.
 \ge market
 \dn 集市(圩场，街子)
@@ -20229,9 +20241,9 @@
 \df Aller, forme passée.
 \gf aller.|fg{pst}
 \xv (ki˧zo˧) | lo˧ ʝi˧-hɯ˧(-ze˩)!
-\xe Kizo has gone to work!
+\xe Gisso has gone to work!
 \xn 给若（人名）干活去了！
-\xf Kizo est partie travailler!
+\xf Gisso est partie travailler!
 \xv le˧-hɯ˩-hĩ˩ hĩ˩
 \xe euphemism for ‘deceased person': literally ‘person who has gone'
 \xn 委婉语：‘走了的人’=去世了的人
@@ -52131,6 +52143,7 @@
 \sf <nb="2011"> 1348
 \or shae
 \ps adj
+\cf ʐæ˩ʂæ˧
 \lc ʂæ˧
 \sn 1
 \sd <langue="fra"> adjectif
@@ -52305,7 +52318,7 @@
 \so <print="n"> F4
 \de To discuss.
 \ge 商量::to_discuss
-\dn 商量（汉语借词
+\dn 商量（汉语借词）
 \gn 商量（借词）
 \df Discuter.
 \gf 商量::discuter
@@ -52323,7 +52336,7 @@
 \so <print="n"> F4
 \de Scabious.
 \ge 山萝卜::scabious
-\dn 山萝卜
+\dn 山萝卜（汉语借词）
 \gn 山萝卜（借词）
 \df Cerfeuil.
 \gf 山萝卜::cerfeuil 
@@ -52370,8 +52383,8 @@
 \so <print="n"> F4
 \de Commodity, goods, merchandise.
 \ge 商品::commodity
-\dn 商品
-\gn 商品
+\dn 商品（汉语借词）
+\gn 商品（汉语借词）
 \df Marchandise, objet qui peut se vendre au marché.
 \gf 商品::marchandise
 \dt 27/Apr/2017
@@ -52431,7 +52444,7 @@
 \ge village_of_Shuhe
 \dn 束河（旧称：龙泉）：丽江坝子里的一个村落。由于束河商人多，经常有束河人到永宁等地，使得相当多的永宁人熟悉那个村落名。
 \gn 束河村
-\df Shuhe: nom d'un village de la plaine de Lijiang (anciennement Longquan). Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, d'où le fait que le nom de ce village soit connu à Yongning.
+\df Nom d'un village de la plaine de Lijiang: Shuhe, anciennement Longquan. Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, ce qui a valu à cette localité d'être connue jusqu'à Yongning.
 \gf village_de_Shuhe
 \dt 27/Apr/2017
 
@@ -52464,15 +52477,14 @@
 
 \lx sɑ˩tsʰi˩
 \sf <nb="2011"> 128
-\hm 1
 \or sacee
 \ps n
+\ton L
 \lc sɑ˩tsʰi˩˥
-\cf sɑ˩tsʰi˩2
+\sn 1
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> vérifié: n'est pas /tsʰɯ/
-\ton L
 \so <print="n"> F4
 \pdl classifier
 \pdv nɑ˧
@@ -52482,20 +52494,13 @@
 \gn 桨
 \df Rame.
 \gf rame
-\dt 27/Apr/2017
-
-\lx sɑ˩tsʰi˩
-\sf <nb="2011"> 721
-\hm 2
-\or sacee
-\ps n
-\lc sɑ˩tsʰi˩˥
-\cf sɑ˩tsʰi˩1
+\sn 2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton L
 \so <print="n"> F4
 \va <speaker="M23"> sɑ˩tsʰɯ˩
+\pdl classifier
+\pdv nɑ˧
 \de Wooden instrument resembling an oar, used to stir pigswill.
 \ge instrument_to_stir_pigswill
 \dn 像桨的木头工具，来搅拌猪食
@@ -52790,13 +52795,14 @@
 \xe gold necklace
 \xn 金项链
 \xf collier en or
-\xv ʂe˧mo˧ʂe˧bæ˧, | kʰv̩˩mi˩ pʰæ˩˥!
+\xv ʂe˧mo˧-ʂe˧bæ˧, | kʰv̩˩mi˩ pʰæ˩˥!
 \xe The iron necklace is used to tie the dog!
 \xn 铁链，是来用拴狗的！
 \xf Le collier de fer, c'est pour attacher le chien!
 \xv kʰi˧-ʂe˧bæ˥, | ʂe˧mo˧ po˧-ɳɯ˧ | gv̩˩˥!
 \xe The door's chain (the chain used to lock the door) is made of iron!
-\xn 铁链，是来用拴狗的！
+\xn 门锁链，是铁做的！
+\xf La chaîne de la porte, elle est en fer!
 \dt 05/Oct/2015
 
 \lx ʂe˧bv̩#˥
@@ -52851,7 +52857,7 @@
 \xe a small saw
 \xn 一把小锯
 \xf une petite scie
-\xv se˩di˩˥ | ɬi˧-hĩ˧ | ɖɯ˧-nɑ˩
+\xv se˩di˩˥ | ɬi˧-hĩ˧ | ɖɯ˧-nɑ˧
 \xe a medium-sized saw
 \xn 中间大小的锯子
 \xf une scie de taille moyenne
@@ -52902,7 +52908,7 @@
 \xe (No,) you're not annoying (us)! (Context: someone apologizes for coming round to a friend's place at a bad time; the host reassures the visitor.)
 \xn 不麻烦，不麻烦！
 \xf Non, tu ne déranges pas! (Contexte: quelqu'un s'excuse de passer à un mauvais moment; l'hôte le rassure.)
-\xv no˧ | se˧dʑæ˩ɻæ˩-gv̩˩! |
+\xv no˧ | se˧-dʑæ˩ɻæ˩-gv̩˩! |
 \xe You're annoying people! You're annoying everyone!
 \xn 你在麻烦大家/你很烦人！
 \xf Tu embêtes le monde! Tu déranges tout le monde!
@@ -53598,7 +53604,7 @@
 \xv se˩˥ ◊ -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ ◊ -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
 \xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)".
 \xn （想做）完，但是没办法做完！不过最后还是可以做得很好！（情景：谈及收集语言的工作）
-\xf Parenthèse au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
+\xf Réflexion au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
 \dt 24/Jul/2017
 
 \lx ʂe˧α
@@ -53776,8 +53782,8 @@
 \pdv v̩˧
 \de Evil spirit.
 \ge evil_spirit
-\dn 鬼
-\gn 鬼
+\dn 魔鬼
+\gn 魔鬼
 \df Démon (forme obtenue par élicitation; nettement moins courante que la forme féminine).
 \gf démon
 \dt 23/Jun/2017
@@ -54212,7 +54218,7 @@
 \xv si˩qʰɑ˩-dʑɯ˩
 \xe a liquid prepared from plums, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas)
 \xn 用梅子做的一种汁，用法类似于醋。过去，永宁没有醋，醋是从内地买来的。
-\xf un liquide préparé à base de prunelles d'abricotier du Japon, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois)
+\xf Un liquide préparé à base de prunelles d'abricotier du Japon, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois).
 \dt 05/Oct/2015
 
 \lx si˧qʰwæ˩
@@ -54293,6 +54299,7 @@
 \xe |fg{cop}
 \xn 是水果。
 \xf |fg{cop}
+\xc PHONO
 \dt 05/Oct/2015
 
 \lx si˧ʁo#˥
@@ -54446,7 +54453,7 @@
 \xv dʑɤ˩-hĩ˥ | si˧
 \xe to choose good ones
 \xn 挑好的
-\xf choisir les plus beaux; en choisir de beaux (par exemple: sur la montagne, lorsqu'on choisit des arbres à abattre pour donner du bois du charpente)
+\xf choisir les plus beaux; en choisir de beaux (par exemple: sur la montagne, lorsqu'on choisit des arbres à abattre pour en tirer du bois de charpente)
 \dt 05/Oct/2015
 
 \lx so˩
@@ -54524,17 +54531,17 @@
 \ge morning_offering_to_the_gods
 \dn 早上献给神的食物（含茶、酥油、面、蜂蜜），扔进松针火里烧
 \gn 早上献给神的食物
-\df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: fv:/so˧dze˧-bæ˩bæ˩/); on le fait brûler sur un feu d'épines de pin.
+\df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: fv:/so˧ dze˧-bæ˩bæ˩/); on le fait brûler sur un feu d'épines de pin.
 \gf offrande_du_matin_aux_esprits
-\xv so˧ dze˧ tʰi˧-qæ˩
-\xe to burn honey as an offering
-\xn 烧蜂蜜献给神
-\xf faire brûler du miel en offrande
 \rf M23
 \xv so˧ qæ˩
 \xe to burn an offering
 \xn 烧献给神（食物，……）
 \xf brûler une offrande; traditionnellement, du pin gorgé de résine.
+\xv so˧ dze˧ tʰi˧-qæ˩xxxx disyllabe: est-ce un nom?
+\xe to burn honey as an offering
+\xn 烧蜂蜜献给神
+\xf faire brûler du miel en offrande
 \dt 06/Oct/2015
 
 \lx so˥
@@ -54622,7 +54629,7 @@
 \ge |fg{intj.Forward}!
 \dn 赶猪用的叹词：走！走！
 \gn 赶猪用的叹词
-\df Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez!».
+\df Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez, allez!».
 \gf |fg{intj.Zou}!
 \xv ʂo˧! / ʂo˧bɤ˩!
 \xe interjection to get pigs to move forward
@@ -54688,10 +54695,32 @@
 \xe |fg{red}
 \xn 重叠
 \xf |fg{red}
-\xv ɖæ˩ʂo˩˥ / ɖæ˩ʂo˩-ze˥
-\xe to slide down
-\xn 往下滑
-\xf glisser; dévaler une pente en glissant
+
+\lx ɖæ˩ʂo˩
+\or shoq
+\ps v
+\cf ʂo˧˥1
+\ton L
+\lc ɖæ˩ʂo˩˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M23"> ID.
+\de To slide down.
+\ge to_slide
+\dn 往下滑
+\gn 往下滑
+\df Glisser; dévaler une pente en glissant.
+\gf glisser
+\sn 2
+\de Cunning, dishonest.
+\ge cunning
+\dn 滑头
+\gn 滑头
+\df Malhonnête, faux-jeton, fuyant.
+\gf malhonnête
 \xv no˧ | ɖæ˩ʂo˩~ɖæ˥ʂo˩! |
 \xe You are really cunning! (A criticism of someone who is not direct, not honest, who does not have a proper attitude: giving a slimy impression.)
 \xn 你真滑头！
@@ -54720,14 +54749,6 @@
 \gn 滑
 \df Lisse, glissant.
 \gf glissant
-\xv mɤ˩ ʂo˩-ʂo˥ |
-\xe slippery with grease
-\xn 油腻腻、滑腻
-\xf huileux, tout poisseux de graisse
-\xv ɲi˧to˧ ɖɯ˧-ɭɯ˧ | dze˧-ʂo˧~ʂo˥
-\xe (her/his) whole mouth was slippery with sugar
-\xn 他嘴巴被糖粘得黏黏的
-\xf toute (sa) bouche est/était pleine de sucre / toute poisseuse à force de sucre
 \dt 06/Oct/2015
 
 \lx ʂo˥
@@ -55045,7 +55066,7 @@
 \xv ʂɤ˩ŋɤ˧ lɑ˩
 \xe to play the gong
 \xn 打锣
-\xf jouer du gong
+\xf battre le gong, jouer du gong
 \dt 06/Oct/2015
 
 \lx ʂo˩qæ˩
@@ -55071,7 +55092,7 @@
 \xe very clean
 \xn 很干净
 \xf tout propre
-\xv ɑ˩ʁo˧ | le˧-gv̩˧~gv̩˥ | ʂo˩qæ˩˥ ◊ -gv̩˩
+\xv ɑ˩ʁo˥ | le˧-gv̩˧~gv̩˥ | ʂo˩qæ˩˥ ◊ -gv̩˩
 \xe to put the house in order, that it be very clean
 \xn 家收拾得干干净净
 \xf ranger la maison, qu'elle soit bien propre
@@ -55093,9 +55114,9 @@
 \ge pleasant
 \dn 开心、欢乐的开心、舒畅
 \gn 开心
-\df Agréable, plaisant (circonstances).
+\df Agréable, plaisant, relax (circonstances).
 \gf agréable
-\xv si˧dzi˩-ʈʰæ˩qo˩dzi˩, | sɤ˧sɤ˧˥ | ʐwæ˩˥!
+\xv si˧dzi˩-ʈʰæ˩qo˩ dzi˩, | sɤ˧sɤ˧˥ | ʐwæ˩˥!
 \xe Being seated under this tree is especially pleasant!
 \xn 在树下坐着，感到很舒畅！
 \xf assis sous cet arbre, c'est le bonheur!
@@ -55124,8 +55145,9 @@
 \gf préparer
 \xv le˧-ʂo˧~ʂo˧
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 准备了
 \xf |fg{accomp}
+\xc PHONO
 \dt 27/Apr/2017
 
 \lx sɤ˧tʰo˧˥
@@ -55239,7 +55261,7 @@
 \lc so˧tsʰɯ˧ɲi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (corrigé en 09; vérifié: n'est pas /tsʰi/) (avant 09: so˥tsʰɯ˥ɲi˥)
+\nt <type="hist" print="n"> (corrigé en 09; vérifié: n'est pas /tsʰi/) (avant 09: so˥tsʰɯ˥ɲi˥) xxxx vérifier à nouveau: so˧tsʰi˧ pour trente ; so˧tsʰɯ˧-ɲi˧ pour : 30e jour??
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -55859,7 +55881,7 @@
 \ge 塑料桶::plastic_container
 \dn 塑料桶（汉语借词）
 \gn 塑料桶（借词）
-\df Container pour liquides, en matière plastique.
+\df Bidon: contenant pour liquides (de un à dix litres environ), en matière plastique.
 \gf 塑料桶::container_en_plastique
 \dt 23/Jun/2017
 
@@ -56220,7 +56242,7 @@
 \xv ʈʂe˧ sɯ˧~sɯ˥
 \xe ‘raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc
 \xn ‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物
-\xf ‘terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc
+\xf ‘Terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc.
 \dt 09/Oct/2015
 
 \lx ʂɯ˧ʂɯ˧-dzi˩
@@ -56500,7 +56522,7 @@
 \xv sɯ˧zɯ˧ ə˩-dʑo˩?
 \xe Is there a (complete) family community? / Is the family large? (Question asked as part of discussions preliminary to marriage: Will the bride have a large family around her, be surrounded by a large family? A small family is considered much less attractive than a large one.)
 \xn 家族齐全吗？/ 家族，人多吗？（谈婚姻前的题目之一：男方家族人多不多。以人多为好。）
-\xf est-ce qu'il a une grande famille/est-ce que sa famille est nombreuse? =est-ce que la mariée sera bien entourée, intégrée dans une grande famille? (Question que l'on pose lors des discussions préliminaires aux mariages: on s'inquiète des qualités de la maisonnée que la jeune femme va rejoindre)
+\xf Est-ce qu'il a une grande famille/est-ce que sa famille est nombreuse? =est-ce que la mariée sera bien entourée, intégrée dans une grande famille? (Question que l'on pose lors des discussions préliminaires aux mariages: on s'inquiète des qualités de la maisonnée que la jeune femme va rejoindre.)
 \dt 09/Oct/2015
 
 \lx sɯ˩α
@@ -56654,7 +56676,7 @@
 \xv ʂɯ˧-ze˧! | ʂɯ˧-ze˧!
 \xe We're dead! (Expression of terror on the part of someone who thinks that (s)he is going to die. Context: someone taking a plane for the first time is terrified by the plane's changes of direction, and thinks that the plane is falling to the ground and is going to crash.)
 \xn 死了！死了！（情景：一个人第一次坐飞机，感到飞机飞得不稳定，会坠毁，大家会马上死。）
-\xf Expression de terreur de quelqu'un qui croit sa dernière heure arrivée; ex.: Ama prenant l'avion pour Kunming, et ayant l'impression que l'avion se renverse.
+\xf Expression de terreur de quelqu'un qui croit sa dernière heure arrivée; ex.: Ama prenant l'avion pour Kunming, et ayant l'impression, lors d'un virage, que l'avion se renverse.
 \dt 09/Oct/2015
 
 \lx ʂv̩˧˥
@@ -59751,6 +59773,10 @@
 \xe short (not tall)
 \xn 矮
 \xf de petite taille
+\xv tɕi˩-ʁo˩to˥
+\xe when (we) were small
+\xn 小的时候
+\xf quand (nous) étions petits
 \dt 09/Oct/2015
 
 \lx tɕi˧α
@@ -63838,9 +63864,10 @@
 \hm 2
 \or chae
 \ps clf
+\cf te˧˥α
 \lc ɖɯ˧ ʈʂʰæ˧˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
 \nt <langue="pumi" type="comp" print="n"> ʈʂʰæ35
 \np cf “les générations passées"
 \ton MH
@@ -63851,7 +63878,26 @@
 \gn 量词.代
 \df Classificateur des générations.
 \gf |fg{clf}.générations
-\dt 30/Apr/2017
+
+\lx te˧˥α
+\or RD
+\ps clf
+\cf ʈʂʰæ˧˥
+\lc ɖɯ˧ te˧˥
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton MHα
+\so <print="n"> F4
+\de Classifier for generations.
+\ge 代::|fg{clf}.generation
+\dn 量词：代（汉语借词）
+\gn 量词.代（借词）
+\df Classificateur des générations.
+\gf 代::|fg{clf}.générations
+\xv ʈʂʰɯ˧-te˩
+\xe this generation
+\xn 这代
+\xf cette génération
 
 \lx ʈʂʰæ˥
 \sf <nb="B"> 1567
@@ -76918,7 +76964,7 @@
 
 \lx ‑di˩
 \sf <nb="2011"> 3351
-\or ddi
+\or -ddi
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77158,7 +77204,7 @@
 
 \lx ‑hĩ˥
 \sf <nb="2011"> 3352
-\or hin
+\or -hin
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77494,7 +77540,7 @@
 \dt 24/Jul/2017
 
 \lx ‑mi˩˧
-\or mi
+\or -mi
 \ps suff
 \ton LM
 \lc mi˩˥
@@ -78065,7 +78111,7 @@
 \dt 27/Apr/2017
 
 \lx ‑ɻ̍˩
-\or er
+\or -er
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -78082,7 +78128,7 @@
 \dt 06/Oct/2015
 
 \lx =ɻ̍˩
-\or er
+\or -er
 \ps clitic
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -78165,14 +78211,18 @@
 \df Morphème d'adjectivation: signifie ‘tout N-eux’. Par exemple, ajouté à ‘graisse’, cela donne ‘tout graisseux, plein de graisse’.
 \gf |fg{adjectivation}
 \xv mɤ˩-ʂo˩~ʂo˥
-\xe full of grease, greasy
-\xn 油乎乎
-\xf plein de graisse
+\xe full of grease, greasy, slippery with grease
+\xn 油乎乎、油腻腻、滑腻
+\xf huileux, tout poisseux de graisse
 \xv dze˧-ʂo˧~ʂo˥
 \xe full of sugar, sugary all over
 \xn 甜乎乎
 \xf plein de sucre
 \xc <langue="fra"> ton du nom: H
+\xv ɲi˧to˧ ɖɯ˧-ɭɯ˧ | dze˧-ʂo˧~ʂo˥
+\xe (her/his) whole mouth was slippery with sugar
+\xn 他嘴巴被糖粘得黏黏的
+\xf toute (sa) bouche est/était pleine de sucre / toute poisseuse à force de sucre
 \xv si˧-ʂo˧~ʂo˥
 \xe full of wood, replete with wood, entirely made of wood
 \xn 有很多木头，如：来形容一个新建的木头房子：面面都是新鲜木头，给人的感觉是“木头呼呼”
@@ -78181,9 +78231,9 @@
 \xv ʂe˧-ʂo˧~ʂo˥
 \xe full of meat, replete with meat, with lots of meat (e.g. a dish contains lots of meat, not just a few small chippings drowned in vegetables)
 \xn 肉乎乎：比如一个菜含有很多肉，而不是一点点肉淹在一大堆蔬菜里面。
-\xf plein de viande: par exemple, un plat contient de la viande en abondance, pas juste quelques petits bouts noyés dans une masse de légumes
+\xf plein de viande: par exemple, un plat qui contient de la viande en abondance, pas juste quelques petits bouts noyés dans une masse de légumes
 \xc <langue="fra"> ton du nom: H
-\xv tɕi˧-ʂo˧~ʂo˥; ʁwɤ˧-ʂo˧~ʂo˥; qʰv̩˧-ʂo˧~ʂo˥
+\xv tɕi˧-ʂo˧~ʂo˥
 \xe full of clouds
 \xn 云乎乎
 \xf plein de nuages
