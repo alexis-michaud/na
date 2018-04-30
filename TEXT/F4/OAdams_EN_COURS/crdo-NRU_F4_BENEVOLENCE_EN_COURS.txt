@@ -470,7 +470,7 @@ mmm…tʰi˩˥, | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧
 %Utterance ID: BENEVOLENCE.39 
 %75
 %Transcription automatique : mmm…tʰi˩˥ | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥! |  
-%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? xxxx Première partie: 'côtes'.
+%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? yyyy réponse :  Première partie: 'côtes'. ɬo˩kɤ˩˥ | ɖɯ˧-ɭɯ˧ ; | ɬo˩kɤ˩ ɲi˥; | la deuxième partie du composé n'existe pas indépendamment. xxxx peut-on dire : ɬo˩kɤ˩-ɬo˥ɲi˩ | ɖɯ˧-ɭɯ˧?
 Alors, les gens, nous autres, mères d'enfants (=femmes adultes) et pères d'enfants (=hommes adultes) (=ceux qui ne sont ni des enfants, ni des vieillards), nous autres, [du poulet qu'on partage en famille,] on ne mange qu'un petit bout de côtes, pas bien goûteux! On boit la soupe (du poulet) / on se contente essentiellement de la soupe!
 我们成年人呢，只吃（鸡的）一点肋骨，不怎么好的那块！我们（基本上只）喝鸡汤（而已）！
 
@@ -570,9 +570,10 @@ Aujourd'hui, quel que soit le nombre de personnes qui vient, on mange tous ensem
 əəə... zo˩no˥, | hĩ˧bæ˧ | ʐæ˩ʂæ˥-hĩ˩, | dʑɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ | mɤ˧-ɲi˩-ze˩-dʑo˩, | əəə… zo˩no˥, | õ˧-hĩ˥-lɑ˩ ɲi˩-ze˩, | qwæ˩~qwæ˧ tsæ˥-ɲi˩! | 
 %Utterance ID: BENEVOLENCE.48 
 %Transcription automatique : əəə…zo˩ zo˩hĩ˧bæ˩ | ʐæ˩ʂæ˥hĩ˩dʑo˩˥ | ʐæ˩ʂæ˧ | mɤ˧ɲi˩ze˩dʑo˩ | əəə…zo˩no˥ | õ˧hĩ˧lɑ˩ɲi˩ze˩ | qʰɑ˩qʰwæ˩dʑo˥ | 
-%fr /qwæ˩~qwæ˧ tsæ˥-ɲi˩/ : on sert le riz en puisant soi-même dans la marmite ? xxxx confirmer le sens
-Alors, eh bien, les invités, les gens (qui venaient) de loin... ceux qui ne venaient pas de bien loin, euh... ceux qu'on considérait comme les nôtres, on les laissait puiser leur nourriture (?)
+%fr /qwæ˩~qwæ˧ tsæ˥-ɲi˩/ : on sert le riz en puisant soi-même dans la marmite ? yyyy confirmé le sens : hɑ˧ qwæ˩, v̩˩dʑɯ˩ qwæ˥, | ʂe˧ qwæ˩: veut dire: 'puiser'
+Alors, eh bien, les invités, les gens (qui venaient) de loin... ceux qui ne venaient pas de bien loin, euh... ceux qu'on considérait comme les nôtres, on leur servait à manger (comme aux membres de la famille, dans un même service)! (littéralement : 'on leur puisait de la nourriture' (?)
 yyyy traduction chinoise
+% déplacer : njɤ˩ɭɯ˥ | ɖɯ˧-mæ˧-ɻ˥, | zo˧mv̩˥ | le˧-ɖɯ˩-ho˩-ze˩! 'En un clin d'oeil, les enfants sont grands! / En un éclair, voilà que les enfants sont devenus grands!'
 
 hĩ˧bæ˧ <le˧-> | wɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ tsʰɯ˩, | pi˧, | hĩ˧bæ˩-sɯ˩ | dzɯ˧-kʰɯ˩! | hĩ˧bæ˧-sɯ˩ | pʰv̩˧ɖɯ˧ ʝi˥! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩ mæ˩! |
 %91
@@ -593,7 +594,7 @@ no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | ɲi˩bv̩˩ gv̩˥-
 %que signifie : /ɲi˩bv̩˩ gv̩˥/ ? réponse: 'cuisiner des criquets'
 % que signifie /no˧˥/?
 %93
-%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'les mauvais chiens, ils vous suivent!' xxxx D
+%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'Les pauvres, ils n'ont pas de quoi manger; les chiens abandonnés, ils vous suivent!' Explication de Ama : /hĩ˧ dzɑ˧ ɖɯ˧-v˧ ɕjɤ˥ tʰv̩˩/xxxx. Explication plus fournie de TS: ce dicton évoque les gens pauvres qui jouent les grands seigneurs en entretenant une 'suite' de gens qu'ils ont à leurs crochets (alors qu'eux-mêmes ne sont pas riches): ils se font toujours accompagner. 自己都没有够吃的，还是带一个人（或一些人）！Selon les contextes, cela pourra être une critique, ou au contraire une louange de quelqu'un qui est généreux avec d'autres, bien que cette générosité le fasse vivre au-dessus de ses moyens.
 Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune; elle pense se souvenir qu'il lui avait représenté, gestes à l'appui, qu'il avait un temps vendu des brochettes de criquets sur un marché de Lijiang.)
 这个人呢，他好像有一段时间在丽江市场上卖烧烤蟋蟀串！
 
@@ -1030,21 +1031,31 @@ mɤ˧-dʑɤ˩, | tʰɑ˧-ʐwɤ˩! | tʰɑ˧-ni˥~ni˩-hĩ˩ kv̩˩, | gv̩˩pʰ
 %Utterance ID: BENEVOLENCE.105 
 %Transcription automatique : mo˧dʑo˩tʰɑ˧˥ʐwɤ˩ | tʰv̩˧ɲi˧ɲi˩ʝi˩kv̩˩ | pʰæ˩ʈʂʰɯ˥ | tʰi˧qʰwɤ˩dʑo˩ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧gɯ˥ | dʑɤ˧v̩˧ɳɯ˧ | qʰæ˧˥ | no˧ | gi˧ | ɖɯ˧gi˥qʰæ˩ | ʈʂʰɯ˧gi˧ɖɯ˧gi˥i˩qʰæ˩ | ʈʂʰɯ˧gi˩ |  
 
-ʈʂʰɯ˧-gi˧ | ɖɯ˧-gi˥ qʰæ˩! |   | njɤ˧=ɻ˩ ɖɯ˩-gi˩ qʰæ˩! | dze˧bo˧=ɻ˩ ɖɯ˩-gi˩ qʰæ˩! | lɑ˩mɑ˩=ɻ˩ ɖɯ˩-gi˥ qʰæ˩! | dze˧bv̩˧ʁoɖɯ˩ki˩ | tʰine˧ʝi˥ʂv̩˩gi˥qʰæ˩ | dʑo 
+ʈʂʰɯ˧-gi˧ | ɖɯ˧-gi˥ qʰæ˩! |   | njɤ˧=ɻ˩ ɖɯ˩-gi˩ qʰæ˩! | dze˧bo˧=ɻ˩ ɖɯ˩-gi˩ qʰæ˩! | lɑ˩mɑ˩=ɻ˩ ɖɯ˩-gi˥ qʰæ˩! | dze˧bo˧=ɻ˩ ɖɯ˩-gi˩ qʰæ˩! | 
+
 %Utterance ID: BENEVOLENCE.106 
-%Transcription automatique : di˧di˧qʰæ˩ | ʈʂʰɯ˧gi˥ | ɖɯ˧gi˧˥˩ | ʈʂʰæ˩ | njɤ˧ə˧dʑo˩ | gi˩qʰædze˧bv̩˧ʁo˩ɖɯ˩ki˩ʈʂʰwæ˩ | gɑ˩lɑ˩ɖɯ˧gi˩ | qʰæ˩ | dze˧bv̩˧ʁoɖɯ˩ki˩ | tʰine˧ʝi˥ʂv̩˩gi˥qʰæ˩ | dʑo 
+%Transcription automatique : di˧di˧qʰæ˩ | ʈʂʰɯ˧gi˥ | ɖɯ˧gi˧˥˩ | ʈʂʰæ˩ | njɤ˧ə˧dʑo˩ | gi˩qʰædze˧bv̩˧ʁo˩ɖɯ˩ki˩ʈʂʰwæ˩ | gɑ˩lɑ˩ɖɯ˧gi˩ | qʰæ˩ | dze˧bv̩˧ʁoɖɯ˩ki˩ | 
 
-
+tʰv̩˧ne˧ʝi˥ | ʐv̩˧-gi˥ qʰæ˩ | <le˧...> õ˧-bv̩˥-õ˩ | tʰi˩˥, | <gv̩... D> gv̩˩pʰæ˩-ʈʂʰɯ˥, | ɖɯ˧-qʰo˧-ɳɯ˧, | so˩-ɕi˩-pʰæ˥ tsɤ˩-kv̩˩ mæ˩! | ʈʂʰɯ˧ne˧ʝi˥, | zo˩no˥, | ʐv̩˧ɕi˧-pʰæ˩! | 
 %Utterance ID: BENEVOLENCE.107 
-%Transcription automatique : ˧bv̩˥õ˩ | tʰi˩˥ | gv̩˩pʰæ˩ʈʂʰɯ˥ | dv̩˧qʰv̩˧ɳɯ˥ | so˩ɕi˩kʰæ˥tsɯ˩kv̩˩mæ˩ | ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | ʐv̩˧ɕɯ˧pʰæ˩ | ʐv̩˧ʑi˩ | ʐv̩˧ʈʂʰɯ˥pʰæ˩ |  
-˧bv̩˥õ˩ | tʰi˩˥ | gv̩˩pʰæ˩ʈʂʰɯ˥ | dv̩˧qʰv̩˧ɳɯ˥ | so˩ɕi˩kʰæ˥tsɯ˩kv̩˩mæ˩ | ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | ʐv̩˧ɕɯ˧pʰæ˩ | ʐv̩˧ʑi˩ | ʐv̩˧ʈʂʰɯ˥pʰæ˩ |  
+%Transcription automatique : tʰine˧ʝi˥ʂv̩˩gi˥qʰæ˩ | ˧bv̩˥õ˩ | tʰi˩˥ | gv̩˩pʰæ˩ʈʂʰɯ˥ | dv̩˧qʰv̩˧ɳɯ˥ | so˩ɕi˩kʰæ˥tsɯ˩kv̩˩mæ˩ | ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | ʐv̩˧ɕɯ˧pʰæ˩ | 
 
-%Utterance ID: BENEVOLENCE.108 
+ʐv̩˧-ʑi˩ ʝi˩, | ʐv̩˧-ɕi˩ pʰæ˩! |  
+%Transcription automatique : ʐv̩˧ʑi˩ | ʐv̩˧ʈʂʰɯ˥pʰæ˩ |  
+%18mn sur l'enregistrement
+
+ʈʂʰɯ˧ne˧ʝi˥, | gv̩˧-qʰo˧: | ɖɯ˧-qʰo˧ ɖɯ˧-qʰo˧-zo˥, | gɤ˩-qʰo˧! | qʰɑ˧-ʂwæ˧-mi˧-hĩ˧! | dʑɯ˩nɑ˩mi˩-ʁo˩˥, | əəə… le˧-qʰo˧-se˩ | dʑo˩ | tʰi˩˥ | le˧-kʰi˧-se˩, | tʰi˧-qʰo˧-kv̩˧ mæ˥! | 
 %Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥dʑi˧qʰv̩˧ɖv̩˧qʰo˧ɖɯ˧qʰwɤ˧zo˥ | go˩qʰo˧qʰh | dʑɯ˩nɑ˩mv̩˩˥ | əəə…le˧qʰo˩se˥ | dʑo˩ | tʰi˩˥ | le˧kʰi˧se˩ | tʰi˧qʰwɤ˧kv̩˥mæ˩ | tʰi˩˥ | ɖɯ˧ʂɯ˧dʑ |  
-ʈʂʰɯ˧ne˧ʝi˥dʑi˧qʰv̩˧ɖv̩˧qʰo˧ɖɯ˧qʰwɤ˧zo˥ | go˩qʰo˧qʰh | dʑɯ˩nɑ˩mv̩˩˥ | əəə…le˧qʰo˩se˥ | dʑo˩ | tʰi˩˥ | le˧kʰi˧se˩ | tʰi˧qʰwɤ˧kv̩˥mæ˩ | tʰi˩˥ | ɖɯ˧ʂɯ˧dʑ |  
+%fr vérifié : n'est pas /le˧-qʰo˧-se˥/, même si phonétiquement c'est clairement ici [M.M.H].
+%fr tʰi˧-qʰo˧-kv̩˧ mæ˥!: de : tʰi˧-qʰo˧-kv̩˧˥.
 
+tʰi˩˥ | ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥! | tʰi˩˥ | õ˧-bv̩˥-õ˩ | <tɕ...> tɕɯ˧-bi˥-kv̩˩-ze˩ mæ˩! | ʐwæ˧ po˩-ɳɯ˩ | tɕɯ˧˥! | 
+%Transcription automatique : tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ | ʐwæ˧po˩ɳɯ˩ | tɕɯ˧ | 
+
+hĩ˧ʁɑ˧ʂe˥ | pɤ˩pɤ˩ | ˧e˧ | pv̩˧kv̩˧˥ɲe˩mæ˩ | tʰi˧pɤ˧pɤ˧dʑo˧ |  
+xxxxxxxx
 %Utterance ID: BENEVOLENCE.109 
-%Transcription automatique : tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ | ʐwæ˧po˩ɳɯ˩ | tɕɯ˧ | hĩ˧ʁɑ˧ʂe˥ | pɤ˩pɤ˩ | ˧e˧ | pv̩˧kv̩˧˥ɲe˩mæ˩ | tʰi˧pɤ˧pɤ˧dʑo˧ |  
+%Transcription automatique : hĩ˧ʁɑ˧ʂe˥ | pɤ˩pɤ˩ | ˧e˧ | pv̩˧kv̩˧˥ɲe˩mæ˩ | tʰi˧pɤ˧pɤ˧dʑo˧ |  
 tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ | ʐwæ˧po˩ɳɯ˩ | tɕɯ˧ | hĩ˧ʁɑ˧ʂe˥ | pɤ˩pɤ˩ | ˧e˧ | pv̩˧kv̩˧˥ɲe˩mæ˩ | tʰi˧pɤ˧pɤ˧dʑo˧ |  
 
 %Utterance ID: BENEVOLENCE.110 

@@ -1148,7 +1148,7 @@
 \dt 25/Aug/2015
 
 \lx æ̃˩ʂe˧li˥-mo˩
-\or aensheili mo
+\or aensheili moq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -1237,7 +1237,7 @@
 \dt 25/Aug/2015
 
 \lx æ̃˧tsɯ˥-kʰɯ˩ʈʂɤ˩-mo˩
-\or aenzi keezhe mo
+\or aenzi keezhe moq
 \ps n
 \cf æ̃˧tsɯ˥, kʰɯ˧ʈʂɤ#˥
 \sd <langue="fra"> plante
@@ -9767,7 +9767,7 @@
 \dt 27/Aug/2015
 
 \lx dzi˧dzi˧-mo˧˥
-\or zzeezzee mo
+\or zzeezzee moq
 \ps n
 \lc dzi˧dzi˧mo˧˥
 \sd <langue="fra"> plante
@@ -14110,7 +14110,7 @@
 \dt 09/Sep/2015
 
 \lx ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩
-\or eliahaenshi mo
+\or eliahaenshi moq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -23481,7 +23481,7 @@
 \dt 03/Aug/2017
 
 \lx jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
-\or yekhabeye mo
+\or yekhabeye moq
 \ps n
 \cf njo˩kæ˧tɕi˩˥
 \sd <langue="fra"> plante
@@ -24022,7 +24022,7 @@
 \dt 03/Sep/2015
 
 \lx kʰi˧tɕʰɯ˩-mo˩
-\or kiqimo
+\or kiqi moq
 \ps n
 \sy ʈʂæ˧mo#˥
 \sd <langue="fra"> plante
@@ -27740,7 +27740,7 @@
 \dt 31/Jul/2017
 
 \lx kʰwɤ˧pʰv̩˧-mo˧˥
-\or kuapumo
+\or kuapu moq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -30916,10 +30916,32 @@
 \sf <nb="2011"> 290
 \or lhoge
 \ps n
+\cf ɬo˩kɤ˩-ɬo˥ɲi˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> forme courante: disyllabique: ɬo˩kɤ˩˧, ton d3 (avant 09: noté: /ɬo˩ kɤ˩˥/)
 \ton L
+\lc ɬo˩kɤ˩˥
+\so <print="n"> F4
+\pdl classifier
+\pdv kɤ˧˥
+\de Rib.
+\ge rib
+\dn 肋骨
+\gn 肋骨
+\df Côte (partie du corps).
+\gf côte
+\dt 04/Sep/2015
+
+\lx ɬo˩kɤ˩-ɬo˥ɲi˩
+\sf <nb="B"> 218
+\sf <nb="2011"> 290
+\or lhoge lhonhiAM
+\ps n
+\cf ɬo˩kɤ˩
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\ton L+#H-
 \lc ɬo˩kɤ˩˥
 \so <print="n"> F4
 \pdl classifier
@@ -56425,7 +56447,7 @@
 \gn 手枪
 \df Pistolet.
 \gf pistolet
-\xv ʂɯ˩tsɯ˧ | ɖɯ˧-nɑ˧ | tʰi˧-pɤ˥~pɤ˩
+\xv ʂɯ˩tsɯ˥ | ɖɯ˧-nɑ˧ | tʰi˧-pɤ˥~pɤ˩
 \xe to carry a pistol
 \xn 带手枪
 \xf porter un pistolet
@@ -56449,7 +56471,7 @@
 \gn 柿子（借词）
 \df Kaki.
 \gf 柿子::kaki
-\xv ʂɯ˩tsɯ˧ | ɖɯ˧-so˩-ɭɯ˩ hwæ˩-bi˩!
+\xv ʂɯ˩tsɯ˥ | ɖɯ˧-so˩-ɭɯ˩ hwæ˩-bi˩!
 \xe Let's buy a few persimmons!
 \xn 买一些柿子吧！
 \xf (Je) vais acheter quelques kakis!
@@ -56796,12 +56818,12 @@
 \sf <nb="2011"> 2617
 \or shuddu
 \ps v
+\ton M
 \lc ʂv̩˧ɖv̩˧
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (corrigé en 2008: est ɖv̩˧ et non dv̩˧) (tons vérifiés en mai 08, avais d'abord noté njɤ˧ no˧ ʂv̩˩ ɖv̩˩˥) (avant 09, noté ʂv̩˧dv̩˧kʰwɤ˧ tʰv̩˧˥, par erreur)
-\ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -56816,7 +56838,7 @@
 \xe What are you thinking about? / Where's your mind?
 \xn 在想什么？
 \xf À quoi [tu] penses?
-\xv njɤ˧ | ɖɯ˧ bæ˧ ʂv̩˧dv̩˧
+\xv njɤ˧ | ɖɯ˧ bæ˧ ʂv̩˧ɖv̩˧
 \xe I'm thinking about something.
 \xn 我在想一件事情。
 \xf je pense à quelque chose
@@ -56860,7 +56882,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -56888,7 +56909,16 @@
 \xe There's no need to worry / feel unhappy
 \xn 不用发愁
 \xf on n'a pas à se faire de souci, il n'y a pas lieu de se morfondre
-\dt 09/Oct/2015
+\sn 4
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so <print="n"> F4
+\de Volitive: to want, to wish.
+\ge |fg{volitive}
+\dn 想、意志
+\gn 意志
+\df Volitif: vouloir, souhaiter.
+\gf |fg{volitif}
 
 \lx ʂv̩˩gv̩˩
 \sf <nb="B"> 606
@@ -57145,6 +57175,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem"> plante très courante à Yongning
+\cf ʂwæ˧si#˥
 \ton L#
 \lc ʂwæ˧bæ˩
 \so <print="n"> F4
@@ -57256,6 +57287,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
+\cf ʂwæ˧bæ˩
 \ton #H
 \lc ʂwæ˧si˧
 \so <print="n"> F4
@@ -78318,23 +78350,6 @@
 \xn 你先自己工作（一会）吧！（情景：调查者早上到合作人的家，但她忙着，而她知道调查者有不同类型的工作要做，其中有一些可以自己做，比如重新核对记录过的长篇语料。她说：“你先忙自己的一会吧！”）
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
 \dt 24/Jul/2017
-
-\lx ‑ʂv̩˧ɖv̩˧
-\sf <nb="2011"> 3355
-\or shuddu
-\ps suff
-\ton M
-\lc ʂv̩˧ɖv̩˧
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\so <print="n"> F4
-\de Volitive: to want, to wish.
-\ge |fg{volitive}
-\dn 想、意志
-\gn 意志
-\df Volitif: vouloir, souhaiter.
-\gf |fg{volitif}
-\dt 27/Apr/2017
 
 \lx †ʈʰæ˩
 \or tae
