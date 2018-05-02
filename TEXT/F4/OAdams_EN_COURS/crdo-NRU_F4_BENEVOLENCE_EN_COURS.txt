@@ -148,7 +148,7 @@ njæ˧zɯ˩… | ɖɯ˩-hĩ˩˥, | njæ˧zɯ˩ lɑ˩ ɲi˩. |
 Nous deux, on était les deux seules adultes. [Note: deux petites-filles et un petit-fils, encore enfants, habitaient eux aussi à la maison.]
 我们……大人，只有我们两个。[家里还有阿妈的两个孙女，没成年。]
 
-<ǁ> ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥.  | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. | 
+<ǁ> ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥.  | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. | 
 %25
 %fr Le symbole ǁ note un clic ; je l'entends comme plutôt latéral (même si ce n'est pas très clair), d'où le choix de ce symbole. 
 %fr Vérifié: n'est pas /ɑ˩pʰo˩ dzi˩˥/.
@@ -470,7 +470,7 @@ mmm…tʰi˩˥, | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧
 %Utterance ID: BENEVOLENCE.39 
 %75
 %Transcription automatique : mmm…tʰi˩˥ | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥! |  
-%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? yyyy réponse :  Première partie: 'côtes'. ɬo˩kɤ˩˥ | ɖɯ˧-ɭɯ˧ ; | ɬo˩kɤ˩ ɲi˥; | la deuxième partie du composé n'existe pas indépendamment. xxxx peut-on dire : ɬo˩kɤ˩-ɬo˥ɲi˩ | ɖɯ˧-ɭɯ˧?
+%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? yyyy réponse :  Première partie: 'côtes'. ɬo˩kɤ˩˥ | ɖɯ˧-ɭɯ˧ ; | ɬo˩kɤ˩ ɲi˥; | la deuxième partie du composé n'existe pas indépendamment. yyyy peut-on dire : ɬo˩kɤ˩-ɬo˥ɲi˩ | ɖɯ˧-ɭɯ˧? réponse : oui.
 Alors, les gens, nous autres, mères d'enfants (=femmes adultes) et pères d'enfants (=hommes adultes) (=ceux qui ne sont ni des enfants, ni des vieillards), nous autres, [du poulet qu'on partage en famille,] on ne mange qu'un petit bout de côtes, pas bien goûteux! On boit la soupe (du poulet) / on se contente essentiellement de la soupe!
 我们成年人呢，只吃（鸡的）一点肋骨，不怎么好的那块！我们（基本上只）喝鸡汤（而已）！
 
@@ -594,13 +594,13 @@ no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | ɲi˩bv̩˩ gv̩˥-
 %que signifie : /ɲi˩bv̩˩ gv̩˥/ ? réponse: 'cuisiner des criquets'
 % que signifie /no˧˥/?
 %93
-%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'Les pauvres, ils n'ont pas de quoi manger; les chiens abandonnés, ils vous suivent!' Explication de Ama : /hĩ˧ dzɑ˧ ɖɯ˧-v˧ ɕjɤ˥ tʰv̩˩/xxxx. Explication plus fournie de TS: ce dicton évoque les gens pauvres qui jouent les grands seigneurs en entretenant une 'suite' de gens qu'ils ont à leurs crochets (alors qu'eux-mêmes ne sont pas riches): ils se font toujours accompagner. 自己都没有够吃的，还是带一个人（或一些人）！Selon les contextes, cela pourra être une critique, ou au contraire une louange de quelqu'un qui est généreux avec d'autres, bien que cette générosité le fasse vivre au-dessus de ses moyens.
+%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'Les pauvres, ils n'ont pas de quoi manger; les chiens abandonnés, ils vous suivent!' Explication de Ama : /hĩ˧ dzɑ˧ ɖɯ˧-v̩˧ ɕjɤ˥ tʰv̩˩/ yyyy. Explication plus fournie de TS: ce dicton évoque les gens pauvres qui jouent les grands seigneurs en entretenant une 'suite' de gens qu'ils ont à leurs crochets (alors qu'eux-mêmes ne sont pas riches): ils se font toujours accompagner. 自己都没有够吃的，还是带一个人（或一些人）！Selon les contextes, cela pourra être une critique, ou au contraire une louange de quelqu'un qui est généreux avec d'autres, bien que cette générosité le fasse vivre au-dessus de ses moyens.
 Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune; elle pense se souvenir qu'il lui avait représenté, gestes à l'appui, qu'il avait un temps vendu des brochettes de criquets sur un marché de Lijiang.)
 这个人呢，他好像有一段时间在丽江市场上卖烧烤蟋蟀串！
 
 no˧˥ | ʈʂo˧kwɤ˩ | <ɖɯ˧-kw...> ɖɯ˧-gi˧ gwɤ˥-dʑɯ˩-hĩ˩ ɖɯ˩-v̩˩ ɲi˩, tsɯ˩-zo˩, | ɖɯ˧-hɑ̃˧-ɻ˥, | ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ mv̩˩. |
 %Transcription automatique : zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
-%fr Vérifier une nouvelle fois : /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ ou /ə˧mɑ˧-ki˩ | tsʰɯ˩˥/? Hypothèse actuelle (28 avril 2018): devrait être la 2e forme, non la 1e. xxxx Même question pour énoncé suivant : ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩.
+%fr Vérifier une nouvelle fois : /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ ou /ə˧mɑ˧-ki˩ | tsʰɯ˩˥/? Hypothèse actuelle (28 avril 2018): devrait être la 2e forme, non la 1e. Réponse: est : /ə˧mɑ˧-ki˩ tsʰɯ˩//xxxx Même question pour énoncé suivant : ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩.
 Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arrivée chez moi.
 那么，有一天，游了半个中国的这个人，到了我家。
 
@@ -608,16 +608,17 @@ Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arri
 %Utterance ID: BENEVOLENCE.50 
 %Transcription automatique : ʁæ˧mɤ˧ki˧tsʰɯ˧dʑo˩ | əəə… | zo˩no˥ | ʁo˧æ˧ʂɯ˧le˧tɕɯ˩hĩ˩ | ˧hɑ˩bɑ˧lɑ˧qo˧ | gv̩˩hĩ˩tʰv̩˧kʰv̩˥ | ɬi˩ʈɯ˩mæ˩˥ | tʰi˧hĩ˧˥ | tʰv̩˧kʰwɤ˧bv̩˥˩ | ə˧mɑ˧ | ɑ˩mv̩˩tsɯ˩ɲi˩ |  
 %fr /u˥-ʈæ˧ʂɯ˧-ɳɯ˧/: 我家达石; tons inattendus : semble être comme un ton H en début de groupe. Accent d'insistance systématiquement associé à ce mot? yyyy Temporairement noté au ton haut : H.M.M.M.
-%fr Sens de /ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩/?
+%fr /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ : erreur de notation yyyy : est : ə˧mɑ˧-ki˩ tsʰɯ˩. à reporter
+%fr Sens de /ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩/? réponse : 'il m'appelait Ama'.
 Quand il est arrivé chez moi, euh... eh bien, debout en contrebas du foyer, il a chanté la chanson que mon fils Dashi avait écrite! et il m'a appelée 'Ama'! (Ama s'est donc laissée attendrir et a offert à l'inconnu l'accueil des Na dans ce qu'il a de plus hospitalier, sans se douter qu'elle avait en fait affaire à un malotru.)
 他来我家，在主屋里面没有火铺的那个地方地方，站着长了（我儿子）达石写的一首歌！也把我叫做‘阿妈’了！（于是，好客的阿妈对他很好。）
 
-“mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧” | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
+“mi˧li˩ | di˧ ə˧mɑ˧” tsɯ˧˥ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |
 %Utterance ID: BENEVOLENCE.51 
 %Transcription automatique : hĩ˧ʝi˩di˩ | ə˧ | mɤ˧tsɯ˥ | tʰv̩˧kʰwɤ˥le˧gwɤ˩se˩dʑo˩ |
 %96
-%fr /ə˧mɑ˧ tsɤ˧/: 阿妈好 (à confirmer xxxx)
-%que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的（泸沽湖）, chanson écrite par Dashi. C'est en l'entendant chanter cette chanson composée par son fils que Ama a été touchée et décidé d'offrir à l'inconnu le meilleur de l'hospitalité na.
+%fr /ə˧mɑ˧ tsɤ˧/: 阿妈好 ? Non: est: 
+%que signifie /mi˧li˩ | di˧/? réponse : est le nom d'une chanson en chinois : 美丽的阿妈, chanson écrite par Dashi. N'est pas: /“mi˧li˩ | di˧, | ə˧mɑ˧ tsɤ˧” | tʰv̩˧-kʰwɤ˥ / mais: est une particule de discours rapporté. C'est en l'entendant chanter cette chanson composée par son fils que Ama a été touchée et décidé d'offrir à l'inconnu le meilleur de l'hospitalité na.
 %fr n'est pas: /le˧-gwɤ˩-ze˩-dʑo˩/.
 %fr Deuxième relecture de ce document effectuée de la phrase 1 à la phrase 96 le soir du 28 avril 2018.
 Il a chanté la chanson “Qu'il est beau [notre Lac], qu'elle est bonne, notre Mère” [chanson écrite par le fils de Ama].
@@ -649,8 +650,8 @@ Alors il a dit: “Ama, je vais donc habiter chez vous!”
 %Utterance ID: BENEVOLENCE.53 
 %Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | 
 %101
-%fr /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥/: serait-ce /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/? S'il y a 2 groupes tonals, ça devrait être : /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˩/. Pourrait-on dire /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/? xxxx
-%fr /v̩˧tɕʰɤ˩/: de quel lieu s'agit-il? Les sources chaudes, 温泉? xxxx
+%fr /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥/: serait-ce /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/? S'il y a 2 groupes tonals, ça devrait être : /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˩/. Pourrait-on dire /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/? réponse: on peut dire: /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/ aussi bien que /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/.
+%fr /v̩˧tɕʰɤ˩/: de quel lieu s'agit-il? Les sources chaudes, 温泉? réponse: oui; est le nom d'un village. 
 Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller à xxxx, semble-t-il! Il est donc parti... et puis il est revenu.
 我答应了，说：“好的！”，对吧。说了“好的”，他去了xxxx。然后他又回来了。
 
@@ -995,76 +996,161 @@ Comme ils chantaient [ainsi], moi, voilà ce que j'ai dit, [pendant que] l'homme
 这个男人在“啊呀、啊呀……”可怜地叫，而他们既然在唱歌！我这样说了：
 
 “ə˧mi˧! no˧-sɯ˩kv̩˩ | ə˧tse˧ ʝi˧-ɲi˥? | hĩ˧ | ɖʐɤ˩kɤ˥ | ə˧v̩˧˥ | tsʰo˧qʰwɤ˩ | le˧-go˩ | le˧-ʂɯ˧-ho˥-ze˩!” | 
-%Transcription automatique : ə˧mi˧no˧sɯ˩kv̩˩ətse˧i˧ɲi˥ | hĩ˧ | dʑɤ˩kɤ˥ | v̩˧ | tsʰi˧qʰwɤ˥ | le˧gv̩˩ | le˧ʂɯ˧ho˧ze˩ | no˧so˩v̩˩tsʰo˩ 
+%Transcription automatique : ə˧mi˧no˧sɯ˩kv̩˩ətse˧i˧ɲi˥ | hĩ˧ | dʑɤ˩kɤ˥ | v̩˧ | tsʰi˧qʰwɤ˥ | le˧gv̩˩ | le˧ʂɯ˧ho˧ze˩ | 
 %fr Les jeunes, dont la narratrice, appelaient le personnage /ɖʐɤ˩kɤ˥ | ə˧v̩˧˥/, 'oncle Zzhege'.
 “Et alors! Qu'est-ce que vous fabriquez? Cet homme... l'oncle Zzhege, ce soir, il souffre à en crever!” 
 “啊呀，你们在干嘛呢？人呢……Zzhege叔叔今天晚上疼得要命！”
 
-no˧-sɯ˩kv̩˩ | tsʰo˧qʰwɤ˩ | æ˧ji˧ | mɤ˧-kʰɯ˧˥ | mɤ˧-tʰɑ˧˥? | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥! | pi˧, | ɕjɤ˩tʰv̩˧˥ | -dʑo˩, | 
+“no˧-sɯ˩kv̩˩ | tsʰo˧qʰwɤ˩ | æ˧ji˧ | mɤ˧-kʰɯ˧˥ | mɤ˧-tʰɑ˧˥? | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥!” | pi˧, | ɕjɤ˩tʰv̩˧˥ | -dʑo˩, | 
+%Transcription automatique : no˧so˩v̩˩tsʰo˩ ɬo˧ə˩ʝi˩mɤ˧kʰɯ˥ | mɤ˩tʰɑ˥ | ʈʂʰɯ˧ne˧tʰɑ˧ʝi˥ | pi˧ | ɕjɤ˩tʰv̩˥dʑo˩ | 
+“Vous autres, ce soir, ce serait trop vous demander de pas faire de boucan?” (littéralement: “vous pouvez pas ne pas faire du boucan?”)
+“你们今天晚上不能不吵吗？别这样了！”我这样批评他们，就……
 
-tʰv̩˧so˩-dʑo˩, | gɤ˩-ʈi˥; | <le˧...> tsʰo˩mo˩˥ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-dʑo˥: | ɹə˧mi˧! | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥!" | njɤ˧-ki˧-dʑo˩, | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ | pi˧-mɤ˧-kv̩˩, | ə˩-gi˩! | ə˧pʰv̩˧ tʰv̩˧-v̩˧-dʑo˩! | 
-%Modification expressive de /mv̩˩zo˩˥/, qui ressemble phonétiquement à /mv̩˩zo˩æ˥/: possède un changement de voyelle vers la fin. Sorte de vocatif.
+tʰv̩˧so˩-dʑo˩, | gɤ˩-ʈi˥; | <le˧...> tsʰo˩mo˩˥ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-dʑo˥: | 
 %Utterance ID: BENEVOLENCE.82 
-%Transcription automatique : ɬo˧ə˩ʝi˩mɤ˧kʰɯ˥ | mɤ˩tʰɑ˥ | ʈʂʰɯ˧ne˧tʰɑ˧ʝi˥ | pi˧ | ɕjɤ˩tʰv̩˥dʑo˩ | tʰv̩˧so˩dʑo˩kɤ˩ʈi˧ | tsʰɯ˧tʰv̩˩mo˥ɖɯ˩pi˩ | le˩qʰwɤ˩dʑo˩ | ə˧mi˧ | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩ | njɤ˧ki˩ 
+%Transcription automatique : tʰv̩˧so˩dʑo˩kɤ˩ʈi˧ | tsʰɯ˧tʰv̩˩mo˥ɖɯ˩pi˩ | le˩qʰwɤ˩dʑo˩ | 
+Le lendemain matin, au lever, il allait un peu mieux; 
+第二天早上起来，（那个）男人好一点了（=不那么疼了），
 
-lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥! | no˩-dʑo˥ | so˧ʝɤ˩ dʑɤ˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩ ʝi˩-ze˩! |  
-%Utterance ID: BENEVOLENCE.83 
-%Transcription automatique : ɖɯ˧æ˧ʂɯ˧lɑ˩ | mv̩˩pi˧mɤ˧kv̩˧˥ | ə˩gi˩ | qʰv̩˧pʰv̩˧tʰv̩˧v̩˧ | ə˧tʰɑ˧mi˥ | mv̩˩zo˩ | no˧dʑo˧ | so˧ʝi˧dʑɤ˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩ʝi˩ze˩ |  
+“ə˧mi˧! | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥!” | njɤ˧-ki˧-dʑo˩, | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ | pi˧-mɤ˧-kv̩˩, | ə˩-gi˩! | ə˧pʰv̩˧ tʰv̩˧-v̩˧-dʑo˩! | 
+%Transcription automatique : ə˧mi˧ | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩ | njɤ˧ki˩ ɖɯ˧æ˧ʂɯ˧lɑ˩ | mv̩˩pi˧mɤ˧kv̩˧˥ | ə˩gi˩ | qʰv̩˧pʰv̩˧tʰv̩˧v̩˧ | 
+%fr Modification expressive de /mv̩˩zo˩˥/, qui ressemble phonétiquement à /mv̩˩zo˩æ˥/: possède un changement de voyelle vers la fin. Ce phénomène est désigné ici comme 'diphtongaison vocative'.
+“Mademoiselle Latami”, a-t-il dit... Il ne m'appelait pas par mon prénom, ‘Ddaeshilamu’, n'est-ce pas, cet aïeul! (Note: la narratrice adopte le point de vue du présent de l'énonciation, selon lequel le personnage est ce qu'il est devenu entretemps: un aïeul, tandis que dans le présent de la narration, il était un ‘oncle cadet’.)
+“拉他咪家姑娘啊！”他不会用名字，把我叫做“达石拉么”（而他用的是家族的性加上“姑娘”这个称呼），那位祖父！（注：此处，阿妈从现在的角度看，将那个人称作“祖父”，而不用当时的角度：当时称“叔叔”。）
 
-njɤ˧ | ə˧hwɤ˧ | hi˧ | le˧-go˩-zo˩, | ʁo˩di˥-ho˩-ze˩! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩ | æ˧ʝi˩ | le˧-kʰɯ˧-zo˥, | le˧-ʑi˧-mɤ˥-tʰɑ˩! | 
+“lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥! | no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩ ʝi˩-ze˩!” |  
+%Utterance ID: BENEVOLENCE.83
+%Transcription automatique : ə˧tʰɑ˧mi˥ | mv̩˩zo˩ | no˧dʑo˧ | so˧ʝi˧dʑɤ˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩ʝi˩ze˩ | 
+%154
+%fr /mv̩˩zo˩˥/ est réalisé avec une diphtongaison finale vers æ, sorte de vocatif. Mais ce n'est pas un morphème distinct, qui ait une forme phonémique: la locutrice tient à ce que la transcription soit simplement /mv̩˩zo˩˥/; le changement de timbre vocalique ressortit au vaste domaine de l'intonation, et n'est pas dû à un phonème de plus dans la 'chaîne'. Ce phénomène est désigné ici comme 'diphtongaison vocative'.
+%fr A vérifier : /so˧jɤ˩ dʑɤ˩/ a-t-il le même sens que /so˧lo˧ dʑɤ˩/ 'bonne influence ; bon exemple ; bonne éducation'? xxxx
+“Mademoiselle Latami”, a-t-il dit, “vous êtes un bel exemple pour les autres, vous savez! Vous avez fait une bonne action!”
+“拉他咪家姑娘啊，你是有好教养的，知道吗。你做了一件好事！”
+
+“njɤ˧ | ə˧hwɤ˧ | hi˧ | le˧-go˩-zo˩, | ʁo˩di˥-ho˩-ze˩! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩ | æ˧ʝi˩ | le˧-kʰɯ˧-zo˥, | le˧-ʑi˧-mɤ˥-tʰɑ˩!” | 
 %Utterance ID: BENEVOLENCE.84 
-%Transcription automatique : njæ˧ | ɑ˧hɑ˧ɕi˧ | le˧gv̩˥zo˩ | wo˩di˥ho˩ze˩ | tʰv̩˧sɯ˩kv̩˩ɳɯ˩æ˧ʝi˩ | le˧kʰɯ˧tso˥ | le˧ʑi˩mɤ˥tʰɑ˧˥ | no˧ɳɯ˧ | ʈʂʰɯ˧sɯ˩kv̩˥o˩to˩ | le˧ʂe˩tʰv̩˩ɳɯ˩ | le˧ʑi˩hɯ˧gwɤ˩tɕɯ˩lɑ˩ | njɤ˧ | ɕi˩ |  
+%Transcription automatique : njæ˧ | ɑ˧hɑ˧ɕi˧ | le˧gv̩˥zo˩ | wo˩di˥ho˩ze˩ | tʰv̩˧sɯ˩kv̩˩ɳɯ˩æ˧ʝi˩ | le˧kʰɯ˧tso˥ | le˧ʑi˩mɤ˥tʰɑ˧˥ | 
+%155
+“Hier soir, j'avais mal aux dents, je croyais devenir fou! et comme eux, ils faisaient du vacarme, je n'arrivais pas à dormir!”
+“昨天晚上，我牙疼得要发疯了！而他们在吵，使得我没法睡着！”
 
-no˧-ɳɯ˧ | ʈʂʰɯ˧-sɯ˩kv̩˩-ʁo˩to˩ | le˧-ɕʝɤ˩tʰv̩˩-ɳɯ˩, | le˧-ʑi˧-hɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ | hi˧ʈʰɯ˧ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-ze˧! | 
+“no˧-ɳɯ˧ | ʈʂʰɯ˧-sɯ˩kv̩˩-ʁo˩to˩ | le˧-ɕjɤ˩tʰv̩˩-ɳɯ˩, | le˧-ʑi˧-hɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ | hi˧ʈʰɯ˧ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-ze˧!” | 
+%Transcription automatique : no˧ɳɯ˧ | ʈʂʰɯ˧sɯ˩kv̩˥o˩to˩ | le˧ʂe˩tʰv̩˩ɳɯ˩ | le˧ʑi˩hɯ˧gwɤ˩tɕɯ˩lɑ˩ | njɤ˧ | ɕi˩ |  
+%156
+“Comme tu les as admonestés, j'ai pu dormir, et ma rage de dents s'est un peu calmée!”
+“你批评了他们，（他们不吵了，）我睡了以后，牙齿（现在）好一点了！”
 
-no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩! | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˧mo˥-lɑ˩ | lɑ˧tʰɑ˧mi˥ | ə˧mi˧-dʑɤ˩tsʰi˩-ʈʂʰɯ˩, | so˧ʝi˩ dʑɤ˩, | ə˧-sɯ˥! | 
+“no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩! | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˧mo˥-lɑ˩ | lɑ˧tʰɑ˧mi˥ | ə˧mi˧-dʑɤ˩tsʰi˩-ʈʂʰɯ˩, | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥!” | 
 %Utterance ID: BENEVOLENCE.85 
-%Transcription automatique : ʈʂʰɯ˧ɖɯ˧pv̩˧˥ | le˧qʰwɤ˧tse˩ | no˩dʑo˥so˩ʝi˩dʑo˩ | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˩no˥ | lɑ˩ɬɑ˧ | tʰv̩˧ | ni˧ | ə˧mi˧dʑo˩tsʰɯ˩ | ʈʂʰɯ˧so˧ʝi˩dʑɤ˩ | ətsʰɯ˥ | no˧ | le˩ʁɑ˩mi˧ze˩ | ʁɑ˩mi˧ze˩ | no˧ | le˧dʑɤ˩ʝi˩ | pi˧kv̩˩mv̩˩ | tsʰv̩ 
+%Transcription automatique : ʈʂʰɯ˧ɖɯ˧pv̩˧˥ | le˧qʰwɤ˧tse˩ | no˩dʑo˥so˩ʝi˩dʑo˩ | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˩no˥ | lɑ˩ɬɑ˧ | tʰv̩˧ | ni˧ | ə˧mi˧dʑo˩tsʰɯ˩ | ʈʂʰɯ˧so˧ʝi˩dʑɤ˩ | ətsʰɯ˥ | 
+%même question que ci-dessus au sujet de /so˧jɤ˩/ xxxx
+“Tu es quelqu'un de bien élevé! La grand-mère Latami, et Jjacee, la mère Latami, elles t'ont donné une bonne éducation / elles ont de bons principes, tu sais!”
+“你是有好教养的！拉他咪家奶奶和拉他咪家母亲Jjacee，给了你很好的教育，知道吗！”
 
-ɹno˧ | <le˧...> ʁɑ˩mi˥-ze˩! | ʁɑ˩mi˥-ze˩! | no˧ | le˧-dʑɤ˩ ʝi˩!ɹ | pi˧-kv̩˩ mv̩˩. | 
+“no˧ | <le˧...> ʁɑ˩mi˥-ze˩! | ʁɑ˩mi˥-ze˩! | no˧ | le˧-dʑɤ˩ ʝi˩!” | pi˧-kv̩˩ mv̩˩. | 
+%Transcription automatique : no˧ | le˩ʁɑ˩mi˧ze˩ | ʁɑ˩mi˧ze˩ | no˧ | le˧dʑɤ˩ʝi˩ | pi˧kv̩˩mv̩˩ | 
+%158
+“Toi, je te remercie! Merci beaucoup! Tu as fait une bonne action!” a-t-il dit.
+“感谢你啊，感谢！你做了一件好事！”他说。
 
-"tʰv̩˧-so˩, | tʰv̩˧-hɑ̃˩ | hæ̃˧qʰv̩˥ | njɤ˧-ki˧, | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥, | ʁɑ˩mi˥! | ə˧v̩˧-ki˥ | dʑɯ˧... | dʑɯ˧ | ɖɯ˧-qʰwɤ˧ ki˥-ɻ˩! | njɤ˧ | ʂɯ˩tse˧˥ | mɤ˧-tʰɑ˧-ze˥!" | 
+<tʰv̩˧-so˩, | > tʰv̩˧-hɑ̃˩ | hæ̃˧qʰv̩˥ | njɤ˧-ki˧, | “lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥, | ʁɑ˩mi˥! | ə˧v̩˧-ki˥ | dʑɯ˧... | dʑɯ˧ | ɖɯ˧-qʰwɤ˧ ki˥-ɻ˩! | njɤ˧ | ʂɯ˩tse˧˥ | mɤ˧-tʰɑ˧-ze˥!” | 
+%Transcription automatique : tsʰv̩ sɯ˧ʈʰv̩æ̃ | hæ̃˧qo˥ | ne˧ki˥ | ə˧tʰɑ˧mi˧mv̩˩zo˩ | ʁɑ˩mi˧ | ə˧v̩˧ki˥ | dʑi˧dʑɯ˧ | ɖɯ˧qʰwɤ˧tɕi˥njɤ˧ | ʂɯ˧tsɑ˧mɤ˧tʰɑ˧ze˥ | 
 %Utterance ID: BENEVOLENCE.86 
-%Nouvel exemple de la 'diphtongaison vocative'. 
-%/ʂɯ˩tse˧˥/ : emprunt au chinois 实在
-%Transcription automatique : sɯ˧ʈʰv̩æ̃ | hæ̃˧qo˥ | ne˧ki˥ | ə˧tʰɑ˧mi˧mv̩˩zo˩ | ʁɑ˩mi˧ | ə˧v̩˧ki˥ | dʑi˧dʑɯ˧ | ɖɯ˧qʰwɤ˧tɕi˥njɤ˧ | ʂɯ˧tsɑ˧mɤ˧tʰɑ˧ze˥ | njæ˧-sɯ˩kv̩˩dʑo˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | ɑ˩ʁo˧ni˧˥ |  
+%159
+%fr /mv̩˩zo˩˥/: nouvel exemple de la 'diphtongaison vocative'. 
+%fr /ʂɯ˩tse˧˥/ : emprunt au chinois 实在. Reporté dans le dictionnaire.
+&lt;Ce matin-là...&gt; Le soir suivant, au milieu de la nuit, il m'a dit: “Mademoiselle Latami! S'il vous plaît, donnez-moi un peu d'eau à boire! Je n'en peux vraiment plus / je me trouve vraiment très mal!”
+那天&lt;早上&gt;晚上，半夜的时候，他跟我说：“拉他咪家姑娘啊！求你给我喝一碗水！我实在不行了！”
 
-njæ˧-sɯ˩kv̩˩-dʑo˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɑ˩ʁo˥ ne˩ʝi˩-zo˩, | lo˧ʝi˧ kʰi˩-dʑo˩, | ʈʰææ̃˧ | hæ̃˧qʰv̩˥ | ə˩pʰo˩ hɑ̃˥ kʰɯ˩! | 
+njæ˧-sɯ˩kv̩˩-dʑo˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɑ˩ʁo˥-ne˩ʝi˩-zo˩, | lo˧ʝi˧ kʰi˩-dʑo˩, | ʈʰææ̃˧ | hæ̃˧qʰv̩˥ | ə˩pʰo˩ hɑ̃˥ kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.87 
-%Transcription automatique : sɯ˩wo˩lo˧ʝi˧kʰi˩dʑo˩ | tʰæ˧ | hæ̃˧kʰv̩˥˩ | kv̩˧hɑ̃˧kʰɯ˧˥ | 
+%Transcription automatique : njæ˧-sɯ˩kv̩˩dʑo˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | ɑ˩ʁo˧ni˧˥ |  sɯ˩wo˩lo˧ʝi˧kʰi˩dʑo˩ | tʰæ˧ | hæ̃˧kʰv̩˥˩ | kv̩˧hɑ̃˧kʰɯ˧˥ | 
+Nous autres, autrefois, en fait de maison... quand on partait travailler, vrai de vrai, la nuit, on la passait dehors! / la nuit, on bivouaquait en extérieur!
+以前嘛，我们，就像在家里……去干活的时候，真的会在外边过夜！
 
 njɤ˧le˧gv̩˧ F, ə˩pʰo˩ hɑ̃˥-kʰɯ˩! | ɑ˩ʁo˧-dʑo˩ | hɑ̃˧-di˥ | mɤ˧-dʑo˧-ɲi˥ mæ˩! | 
 %Transcription automatique : njɤ˧ | le˧gv̩˧ɑ˩pʰo˩hɑ̃˩kʰɯ˩ | ɑ˩ʁo˧dʑo˩ | hɑ̃˩dʑo˩ | mɤ˧dʑi˧zæ˩ | 
+%161
+Pendant la journée, euh... on partait et on dormait dehors! Pas de maison, pas d'endroit où dormir!
+白天，恩……出去了，就在外边过夜！没有家，没有能睡的地方！
 
-dʑi˧hṽ˧ | tʰi˧-ʝi˧ kwɤ˥ | le˧-pɤ˥~pɤ˩, | kʰi˧˥ | -dʑo˩ | tʰi˩˥, | əəə... õ˧tʰv̩˧-so... | tʰv̩˧-hɑ̃˩, | njɤ˧-ɳɯ˧...
-%Transcription automatique : dʑi˧hṽ˧di˧ʝi˧kwɤ˥ | le˧pɤ˥pɤ˩ | kʰi˧˥ | dʑo˩ | tʰi˩˥ | kõ˧tʰv̩˧ | s dz˧tʰɑ˥˩ | njɤ˧ɳɯ˧ | 
+dʑi˧hṽ˧ | tʰi˧-ʝi˧ kwɤ˥ | le˧-pɤ˥~pɤ˩! | 
+%Transcription automatique : dʑi˧hṽ˧di˧ʝi˧kwɤ˥ | le˧pɤ˥pɤ˩ | 
+%fr xxxx sens de /tʰi˧-ʝi˧ kwɤ˥/ à vérifier : ne serait-ce pas /tʰv̩˧/, et /ʝi˧-kʰwɤ˥/ 'une série, une brochette'?
+On roule quelques vêtements en boule (pour servir de matelas?) xxxx
 
-dʑɯ˧, | əəə…dʑɯ˧ | ɖɯ˧-qʰwɤ˧˥ | dʑɯ˩tsʰi˥ | ɖɯ˧-qʰwɤ˧ tsi˥, | tʰi˧-ki˧! | gɤ˩-ʈi˥, | hæ̃˧qʰv̩˧! | əəə…tʰi˧-ʈʰɯ˩-kʰɯ˩! | mv̩˩si˧njɤ˧˥ | -dʑo˩, | ʈʂʰɯ˧-ʈʂæ˩-qo˩-dʑo˩,  
+kʰi˧˥ | -dʑo˩ | tʰi˩˥, | əəə... õ˧tʰv̩˧-so... | tʰv̩˧-hɑ̃˩, | njɤ˧-ɳɯ˧... | dʑɯ˧, | əəə…dʑɯ˧ | ɖɯ˧-qʰwɤ˧˥ | dʑɯ˩tsʰi˥ | ɖɯ˧-qʰwɤ˧ tsi˥, | tʰi˧-ki˧! | 
+%Transcription automatique : kʰi˧˥ | dʑo˩ | tʰi˩˥ | kõ˧tʰv̩˧ | s dz˧tʰɑ˥˩ | njɤ˧ɳɯ˧ | dʑɯ˧əəə…dʑɯ˧ | ɖɯ˧qʰwɤ˧ | dʑɯ˩tsʰi˧ | ɖɯ˧qʰwɤ˧tsɯ˥tʰi˧ki˩ | 
+Quand on partait ainsi, <euh... ceux...> ce soir-là, moi, l'eau, euh... j'ai fait bouillir un bol d'eau, et je le lui ai donné!
+这样去的话，那么……那天晚上，我煮了一碗开水，给了他！
+
+gɤ˩-ʈi˥, | hæ̃˧qʰv̩˧! | əəə…tʰi˧-ʈʰɯ˩-kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.88 
-%Transcription automatique : dʑɯ˧əəə…dʑɯ˧ | ɖɯ˧qʰwɤ˧ | dʑɯ˩tsʰi˧ | ɖɯ˧qʰwɤ˧tsɯ˥tʰi˧ki˩ | gɯ˩ʈi˧ | hæ̃˩qʰv̩˧əəə…tʰi˧ʈʰv̩˩kʰɯ˩ | mv̩˩si˥njɤ˧˥ | dʑo˩ | wɤ ə | tʰv̩˧ʈʂæ˩qo˩dʑo˩ | 
+%Transcription automatique : gɯ˩ʈi˧ | hæ̃˩qʰv̩˧əəə…tʰi˧ʈʰv̩˩kʰɯ˩ | 
+%164
+Je me suis levée, en pleine nuit! Je l'ai fait boire!
+我半夜就起来了，给他喝水！
 
-ʂo˧qo˧tʰɑ˩ | mɤ˧-dʑo˧, | ə˩-gi˩! | əəə… pi˧tʰɑ˩ | mɤ˧dʑo˧ | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧-bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |
+mv̩˩si˧njɤ˧˥ | -dʑo˩, | ʈʂʰɯ˧-ʈʂæ˩-qo˩-dʑo˩, | ʂo˧qo˧-tʰɑ˩ | mɤ˧-dʑo˧, | ə˩-gi˩! | 
+%Transcription automatique : mv̩˩si˥njɤ˧˥ | dʑo˩ | wɤ ə | tʰv̩˧ʈʂæ˩qo˩dʑo˩ | ʂo˧qo˧tʰɑ˩mɤ˧dʑo˧ | ə˩gi˩ | 
+%165
+%fr /ʂo˧qo˧-tʰɑ˩/: d'abord pensé à 漱口糖, 'bonbon pour se rincer la bouche' (imaginant une sorte de chewing-gum faisant office de pâte dentifrice), mais c'est tout simplement 水果糖, 'bonbon aux fruits'.
+Le matin venu... A l'époque, il n'existait pas de bonbons, n'est-ce pas!
+到了早晨……那时候，没有水果糖，对吧！
+
+əəə… pi˧tʰɑ˩ | mɤ˧-dʑo˧! | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | 
 %Utterance ID: BENEVOLENCE.89 
-%Transcription automatique : ʂo˧qo˧tʰɑ˩mɤ˧dʑo˧ | ə˩gi˩ | əəə…pi˧ʈʰæ˩ | mɤ˧dʑo˧ | ho˩tʰɑ˩lɑ˥dʑo˩ɲi˩mæ˩ | ho˧tʰɑ˩zɯ˥ | dʑo˩ | õ˧bv̩˥ | tsɑ˧bɤ˧ʁo˧ɬi˥ɲi˩mæ˩ | tsɑ˧bo˧ | le˧po˧˥ | ho˧tʰɑ˩tʰv̩˥ |  
-%reporté dans le dictionnaire : noms du sucre : /pi˧tʰɑ˩/ 白糖 'sucre blanc'; /ho˩tʰɑ˩˥/ 红糖 'sucre rouge' = sucre roux. Autrefois, pour le sucre roux, on disait : /ʂɑ˩tʰɑ˧-dze#˥/.
-on le réduisait soi-même en poudre ! 
+%Transcription automatique : əəə…pi˧ʈʰæ˩ | mɤ˧dʑo˧ | ho˩tʰɑ˩lɑ˥dʑo˩ɲi˩mæ˩ | 
+%166
+%reporté dans le dictionnaire : noms du sucre : /pi˧tʰɑ˩/ 白糖 'sucre blanc'; /ho˩tʰɑ˩˥/ 红糖 'sucre rouge' = sucre roux. Autrefois, pour le sucre roux, on disait : /ʂɑ˩tʰɑ˧-dze#˥/. 
+Il n'existait pas de sucre blanc! Il n'existait que du sucre roux! (Le sucre se présentait sous forme de pains de sucre: suc de canne séché.)
+没有白糖！只有红糖！
 
-tsɑ˧bɤ˧ | le˧-po˧˥ | ho˩tʰɑ˩-tʰv̩˥ | ɖɯ˧-tv̩˩~ɖɯ˩ʈv̩˩ | tsɑ˧bɤ˧-qo˧ | tʰi˧-kʰɯ˧˥! |   
+ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧-bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |
+%Transcription automatique : ho˧tʰɑ˩zɯ˥ | dʑo˩ | õ˧bv̩˥ | tsɑ˧bɤ˧ʁo˧ɬi˥ɲi˩mæ˩ | 
+Le sucre roux, on le mettait soi-même dans le tsamba!
+红糖，是自己放在糌粑里去嘛！
+
+tsɑ˧bɤ˧ | le˧-po˧˥, | ho˩tʰɑ˩-tʰv̩˥ | ɖɯ˧-ʈv̩˩~ɖɯ˩-ʈv̩˩ | tsɑ˧bɤ˧-qo˧ | tʰi˧-kʰɯ˧˥! |   
 %Utterance ID: BENEVOLENCE.90 
-%Transcription automatique : tʰɯ˧tv̩˩tʰo˩ʈv̩˩ | tsɑ˧bɑ˧qo˧ | tʰi˧kʰɯ˧˥ | tɑ˧bo˧ | le˧ʑi˧dze˥dʑo˩ | tʰi˩˥ | ho˩tʰɑ˩qo˥kʰɯ˩ | bo˧ | tʰɑ˧bwɤ˩ | le˧ | le˧njɤ˩ | njɤ˧dzɯ˩ɲi˥mæ˩ | tʰi˩˥ | tʰv̩˧so˩dʑo˩ | mv̩˩si˧njɤ˧˥ | ə˩tso˧mo˧ | tʰi˩˥ |  
+%Transcription automatique : tsɑ˧bo˧ | le˧po˧˥ | ho˧tʰɑ˩tʰv̩˥ |  tʰɯ˧tv̩˩tʰo˩ʈv̩˩ | tsɑ˧bɑ˧qo˧ | tʰi˧kʰɯ˧˥ | 
+%168
+On prenait le tsamba; le sucre roux, on le mettait dans le tsamba par petits blocs!
+拿糌粑来，往里面红糖一块一块地放！
 
 <tsɑ˧bɤ˧> [ho˩tʰɑ˩˥] | le˧-dze˧~dze˥-dʑo˩ | tʰi˩˥, | <ho˩tʰɑ˩-qo˥ kʰɯ˩> [tsɑ˧bɤ˧-qo˧ kʰɯ˧˥], | õ˧-bv̩˩-õ˩ | tsɑ˧bɤ˧ | <le˧-...> | le˧-njɤ˧~njɤ˥, | dzɯ˧-ɲi˥ mæ˩! | 
+%Transcription automatique : tɑ˧bo˧ | le˧ʑi˧dze˥dʑo˩ | tʰi˩˥ | ho˩tʰɑ˩qo˥kʰɯ˩ | bo˧ | tʰɑ˧bwɤ˩ | le˧ | le˧njɤ˩ | njɤ˧dzɯ˩ɲi˥mæ˩ | 
+%169
+%fr Sens de /le˧-njɤ˧~njɤ˥/: 'touiller'? Est-ce le même mot que 'collant'? Comparer avec: /tso˩∼tso˧˥/ et /ʂwæ˧/. xxxx
+Le sucre roux, on le taillait en morceaux; on le mettait dans la farine de céréales grillées, on mélangeait xxxx, et on mangeait!
+红糖，要切成小块，放糌粑里，搅拌，就吃！
 
-tʰi˩˥, | tʰv̩˧-so˩-dʑo˩, | mv̩˩si˧njɤ˧˥ |  əəə... tsʰo˩mo˩ tʰv̩˩-jɤ˩˥ | ki˧, | njɤ˧ɳɯ˧ | <ho˩tʰɑ˩[-li˥]...> | li˩˥ | ɖɯ˧-kʰwɤ˥ | tʰi˧-tɕɤ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ʈv̩˩ tʰi˩-kʰɯ˩! | tʰi˧-ki˧-dʑo˥ | ə˧mi˧! | no˧ | ʁɑ˩mi˥-ze˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩-ʝi˩-ze˩! |  
+tʰi˩˥, | tʰv̩˧-so˩-dʑo˩, | mv̩˩si˧njɤ˧˥ |  əəə... tsʰo˩mo˩ tʰv̩˩-jɤ˩˥ | ki˧, | njɤ˧-ɳɯ˧ | <ho˩tʰɑ˩[-li˥]...> | li˩˥ | ɖɯ˧-kʰwɤ˥ | tʰi˧-tɕɤ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ʈv̩˩ tʰi˩-kʰɯ˩! | 
 %fin W transcription avec Ama le 27 avril 2018
 %Utterance ID: BENEVOLENCE.91 
-%Transcription automatique : tʰi˧ | njɤ˧ɳɯ˧ | ho˧tʰɑ˧˥ | li˩˥ | ɖɯ˧kʰwɤ˥tʰi˩tɕɤ˩ | ho˩tʰɑ˩˥ | ɖɯ˧ʈv̩˩ | tʰi˩kʰɯ˧˥ | tʰi˩˥tɕi˩dʑo˩ | ə˧mi˧no˧ | ʁɑ˩mi˧se˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩i˩ze˩ |  
+%Transcription automatique : tʰi˩˥ | tʰv̩˧so˩dʑo˩ | mv̩˩si˧njɤ˧˥ | ə˩tso˧mo˧ | tʰi˩˥ | tʰi˧ | njɤ˧ɳɯ˧ | ho˧tʰɑ˧˥ | li˩˥ | ɖɯ˧kʰwɤ˥tʰi˩tɕɤ˩ | ho˩tʰɑ˩˥ | ɖɯ˧ʈv̩˩ | tʰi˩kʰɯ˧˥ | 
+Alors, tôt ce matin-là, je lui ai fait bouillir un peu de thé, à cet homme-là! J'y ai mis un morceau de sucre roux!
+那么，那天早上，一大早，我给这位男人煮了一块茶饼，加了一块红糖！
 
-njɤ˧ | tsʰi˧ɲi˧, | no˧ | li˩ tʰv̩˩-qʰwɤ˥ ʈʰɯ˩-dʑo˩, | dze˧li˥ tʰv̩˩-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | dze˧li˥ | pi˧-kv̩˩ | mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | dze˧ɬi˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | njɤ˧-gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩-tɕʰi˧-ze˩, | le˧-hɤ˩-ze˩! | 
+tʰi˧-ki˧-dʑo˥, | “ə˧mi˧! | no˧ | ʁɑ˩mi˥-ze˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩-ʝi˩-ze˩!” |  
+%Transcription automatique : tʰi˩˥tɕi˩dʑo˩ | ə˧mi˧no˧ | ʁɑ˩mi˧se˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩i˩ze˩ |  
+Quand je lui ai donné, il a dit: “Eeeh bien, grand merci! Vous avez fait là une belle action!”
+给了，他就说：“感谢你！你做了一件好事，知道吗！”
+
+“njɤ˧ | tsʰi˧ɲi˧, | no˧ | li˩ tʰv̩˩-qʰwɤ˥ ʈʰɯ˩-dʑo˩, | dze˧li˥ tʰv̩˩-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩”... | ‘dze˧li˥’ | pi˧-kv̩˩ | mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩. | 
 %Utterance ID: BENEVOLENCE.92 
-%Transcription automatique : njɤ˧tsʰi˧ɲi˩ | no˧ | ʑi˩tʰv̩˩qʰwɤ˥ʈʰɯ˩ | dzi˧ɬi˥ɬi˩qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | dʑɯ˧li˥ | pi˧tsv̩˩ | mæ˩ | ə˧ʝiʂɯ˥ʝi˩ | dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧ 
--dʑo˩: presque imperceptible.
-%dze˧li˥: 甜茶, thé sucré; ton : H#, à reporter
+%Transcription automatique : njɤ˧tsʰi˧ɲi˩ | no˧ | ʑi˩tʰv̩˩qʰwɤ˥ʈʰɯ˩ | dzi˧ɬi˥ɬi˩qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | dʑɯ˧li˥ | pi˧tsv̩˩ | mæ˩ | ə˧ʝiʂɯ˥ʝi˩ | 
+%172
+%fr Dans /ʈʰɯ˩-dʑo˩/, il ne reste du /-dʑo˩/ qu'une trace presque imperceptible.
+%fr /dze˧-li˥/: 甜茶, thé sucré; ton: H#. Reporté dans le dictionnaire.
+“Moi, aujourd'hui, j'ai bu ce bol de thé que tu m'as donné, ce thé sucré...” On appelait ça ‘thé sucré’, autrefois!
+“我今天喝了你这碗茶，这碗甜茶……” 以前叫做‘甜茶’！
+
+“dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰi˧-ze˩, | le˧-hɤ˩-ze˩!” | 
+%Transcription automatique : dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧ 
+%fr sens de /gɤ˩-tɕʰi˧-ze˩/?
+“Après avoir bu ce bol de thé sucré, mon état s'est amélioré”
+“”
 
 no˧ | ʁɑ˩mi˥-ze˩! | u˧, | hɤ˩˥! | pi˧-kv̩˩ wɤ˩. | tʰi˩˥, | njɤ˧-le˧gv̩˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | hɑ˧ dzɯ˧ ʝi˧ tʰv̩˧ lɑ˧, | qʰɑ˧ kv̩˧-ze˥, | ɕjɤ˩tʰv̩˧-zo˥! | tʰi˩˥, | njɤ˩-dʑo˥, | wɤ˩˥ | hɑ˧ tɕɤ˩ kʰɯ˩-ɲi˩ mæ˩! | 
 %Utterance ID: BENEVOLENCE.93 

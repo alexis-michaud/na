@@ -448,7 +448,7 @@
 </S>
 <S id="MUSHROOMS_S066">
 	<AUDIO start="367.038" end="373.412"/>
-	<FORM kindOf="phonemic">mmm… to˩pv̩˥ | ɖɯ˧-ɭɯ˧-qo˧-sɯ˧ | ɕʝɤ˧-kv̩˥-mæ˩! | njæ˧-sɯ˩kv̩˩, | dʑɯ˩ʁo˩ bi˩˥ ◊ -dʑo˩, | dʑɯ˧ mɤ˧-dʑo˧-hĩ˧ mv̩˧di˧-qo˥ tʰv̩˩-dʑo˩! |</FORM>
+	<FORM kindOf="phonemic">mmm… to˩pv̩˥ | ɖɯ˧-ɭɯ˧-qo˧-sɯ˧ | ɕjɤ˧-kv̩˥-mæ˩! | njæ˧-sɯ˩kv̩˩, | dʑɯ˩ʁo˩ bi˩˥ ◊ -dʑo˩, | dʑɯ˧ mɤ˧-dʑo˧-hĩ˧ mv̩˧di˧-qo˥ tʰv̩˩-dʑo˩! |</FORM>
 	<NOTE xml:lang="fr" message = "reformulation proposée à la transcription: /dʑɯ˧ mɤ˧-dʑo˧-hĩ˧-qo˩ tʰv̩˩/"/>
 	<TRANSL xml:lang="fr">Pour commencer, on essaie avec un seul (champignon)! / Pour commencer, on fait le test avec un seul champignon! Nous autres, quand on est dans la montagne, quand on arrive quelque part où il n'y a pas d'eau!</TRANSL>
 	<TRANSL xml:lang="zh">到上山，在没有水的地方（的时候），咱们一开始先用一个（菌子）来尝试一下！</TRANSL>
@@ -815,7 +815,7 @@
 </S>
 <S id="MUSHROOMS_S121">
 	<AUDIO start="660.175" end="663.536"/>
-	<FORM kindOf="phonemic">kʰwɤ˧pʰv̩˧-mo˧ pi˥-hĩ˩ | ʈʂʰɯ˧-ʁo˥-pi˩, | ɖwæ˩˥ | &lt;ɕʝɤ…&gt; so˩-kv̩˩˥! |</FORM>
+	<FORM kindOf="phonemic">kʰwɤ˧pʰv̩˧-mo˧ pi˥-hĩ˩ | ʈʂʰɯ˧-ʁo˥-pi˩, | ɖwæ˩˥ | &lt;ɕjɤ…&gt; so˩-kv̩˩˥! |</FORM>
 	<TRANSL xml:lang="fr">Les champignons des prés, cette sorte-là, c'est vraiment bon (au goût)!</TRANSL>
 	<TRANSL xml:lang="zh">四孢蘑菇那种，真香！</TRANSL>
 </S>
