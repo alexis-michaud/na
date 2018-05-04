@@ -1146,44 +1146,70 @@ Quand je lui ai donné, il a dit: “Eeeh bien, grand merci! Vous avez fait là 
 “Moi, aujourd'hui, j'ai bu ce bol de thé que tu m'as donné, ce thé sucré...” On appelait ça ‘thé sucré’, autrefois!
 “我今天喝了你这碗茶，这碗甜茶……” 以前叫做‘甜茶’！
 
-“dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰi˧-ze˩, | le˧-hɤ˩-ze˩!” | 
+“dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰi˧-ze˩, | le˧-hɤ˩-ze˩!” | 
 %Transcription automatique : dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧ 
-%fr sens de /gɤ˩-tɕʰi˧-ze˩/?
-“Après avoir bu ce bol de thé sucré, mon état s'est amélioré”
-“”
+%fr sens de /gɤ˩-tɕʰi˧-ze˩/? xxxx
+“Après avoir bu ce bol de thé sucré, mon état s'est amélioré; ça va mieux!”
+“喝了这碗甜茶之后，我身体好了一些，感觉我好了！”
 
-no˧ | ʁɑ˩mi˥-ze˩! | u˧, | hɤ˩˥! | pi˧-kv̩˩ wɤ˩. | tʰi˩˥, | njɤ˧-le˧gv̩˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | hɑ˧ dzɯ˧ ʝi˧ tʰv̩˧ lɑ˧, | qʰɑ˧ kv̩˧-ze˥, | ɕjɤ˩tʰv̩˧-zo˥! | tʰi˩˥, | njɤ˩-dʑo˥, | wɤ˩˥ | hɑ˧ tɕɤ˩ kʰɯ˩-ɲi˩ mæ˩! | 
+“no˧ | ʁɑ˩mi˥-ze˩! | u˧, | hɤ˩˥!” | pi˧-kv̩˩ wɤ˩. | 
 %Utterance ID: BENEVOLENCE.93 
-%Transcription automatique : ĩ | hɑ˩mi˧ʑi˧qo˥ | hɤ˩ | pi˧kv̩˩hi˩˥ | njɤ˧ | le˧gv̩˧ʈʂʰɯ˧sɯ˩kv̩˩ | hɑ˧dzɯ˧hĩ˥ | tʰv̩˧lɑ˧ | ʈʂʰɯ˧ne˧ | qʰwɤ˧kv̩˧ze˥ | ɕjɤ˩tʰv̩˧zo˥ | ɲi˩dʑo˥ | wɤ˩˥ | hɑ˧tɕɤ˩kʰɯ˩ɲi˩mæ˩ | ə 
-u˧, | hɤ˩˥! | : même sens que : no˧ | ɖwæ˧˥ | hɤ˩˥!
+%Transcription automatique : ĩ | hɑ˩mi˧ʑi˧qo˥ | hɤ˩ | pi˧kv̩˩
+%fr /u˧, | hɤ˩˥! |/ : même sens que : /no˧ | ɖwæ˧˥ | hɤ˩˥!/ 'Tu es quelqu'un de bien! / Bravo à toi!'
+“Un grand merci! Tu es quelqu'un de bien!”
+“感谢你啊！你是好人！”他说了。
 
-ə˧mɑ˧ ʈʂʰɯ˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | õ˧˥ | mɤ˧-tʰɑ˥, | dzɯ˧ mɤ˥-kv̩˩! | hɑ˧ bv̩˧~bv̩˧, | kʰv̩˧pʰæ˥tɕi˩-dʑo˩,  | ə˩-gi˩! | ɖɯ˧-tɑ˧˥ | kɤ˧~kɤ˩ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧-dzi˩, | hɑ˧ bv̩˧~bv̩˧-dʑo˩, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, le˧-qwæ˧˥, | le˧-qwæ˧˥, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, | 
+tʰi˩˥, | njɤ˧-le˧gv̩˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | hɑ˧ dzɯ˧ ʝi˧ tʰv̩˧ lɑ˧, | ʈʂʰɯ˧-ɳɯ˧, | qʰɑ˧ kv̩˧-ze˥, | ɕjɤ˩tʰv̩˧-zo˥! | 
+%Transcription automatique : hi˩˥ | njɤ˧ | le˧gv̩˧ʈʂʰɯ˧sɯ˩kv̩˩ | hɑ˧dzɯ˧hĩ˥ | tʰv̩˧lɑ˧ | ʈʂʰɯ˧ne˧ | qʰwɤ˧kv̩˧ze˥ | ɕjɤ˩tʰv̩˧zo˥ | 
+
+tʰi˩˥, | njɤ˩-dʑo˥, | wɤ˩˥ | hɑ˧ tɕɤ˩ kʰɯ˩-ɲi˩ mæ˩! | 
+%Transcription automatique : ɲi˩dʑo˥ | wɤ˩˥ | hɑ˧tɕɤ˩kʰɯ˩ɲi˩mæ˩ | ə 
+%176
+Ensuite, moi, je me suis attelée à la cuisine / je suis passée à la tâche suivante : faire la cuisine !
+然后我又做了饭！
+
+ə˧mɑ˧ ʈʂʰɯ˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | õ˧˥ | mɤ˧-tʰɑ˥, | dzɯ˧ mɤ˧-kv̩˩! | 
 %Utterance ID: BENEVOLENCE.94 
-%Transcription automatique : ʁ˧mɤ˧ʈʂʰɯ˩dʑo˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | õ˧˥ | hɑ˧tʰɑ˧ | dzɯ˧mɤ˩kv̩˩ | hɑ˧bv̩˧bv̩˧ | kʰv̩˩pʰæ˥ | tɕi˩dʑo˩ | ə˩dʑo˩ | ɖɯ˧tɑ˧˥ | ə˧kɤ˧kɤ˩ | ʈʂʰɯ˧ne˧i˥ | tʰi˧dzi˩ | hɑ˧gv̩˧gv̩˧dʑɯ˩ | le˧pwæ˧˥ɯ˧ | le˧pwæ˧˥ | le˧kv̩˧˥ | le˧qʰwæ˧˥ | ne˥ |  
+%Transcription automatique : ʁ˧mɤ˧ʈʂʰɯ˩dʑo˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | õ˧˥ | hɑ˧tʰɑ˧ | dzɯ˧mɤ˩kv̩˩ | 
+%177
 %La tâche principale de Ama, dans sa jeunesse, était de préparer les repas (et aussi de s'occuper des autres, etc). Faire le service demandait plus de soin qu'à la mode chinoise car on distribuait les morceaux, chacun ne se servait pas.
 %A part la hiérarchie entre aînés (plus de 50 ans), enfants et adultes, la nourriture autrefois devait être répartie de façon équitable, 'hĩ˧ zo˧ kʰwɤ˧-ɳɯ˩ dzɯ˩, | õ˧-zo˥, | njɤ˩-ɳɯ˥ | dzɯ˧!' 'tʰɑ˧-ni˥~ni˩ | dzɯ˧-zo˧-kv̩˩!' ou : 'tʰɑ˧-ni˥~ni˩ dzɯ˩-zo˩-kv̩˩!'
 %Une personne qui travaillait beaucoup, qui faisait un travail remarquable, on lui faisait un cadeau : ku˧fv̩˧-ɬɑ˧pɤ˩; ku˧fv̩˧: était la récompense du travail. Pour la nourriture, en revanche, pas de distinction (à la différence de la situation décrite dans Le Cheval d'orgueil). 
+Moi, autrefois... moi-même, je n'arrivais pas à manger une seule bouchée! [parce qu'elle faisait le service et que les convives se laissaient servir sans vergogne, et en redemandaient, sans se faire la réflexion que la cuisinière, elle, n'avait pas encore mangé]
+然后呢……吃饭的时候，没有我自己的份！（阿妈给别人吃饭，他们吃了又吃，不注意阿妈自己都没时间吃一口）
 
-hɑ˧-ʈʂʰɯ˧ | tʰɑ˧-↑ni˥~ni˩ | qwæ˧-ʁo˥-kv̩˩ ɲi˩! | tɕɯ˧-qo˥ | ʐwæ˧ ne˧-ʝi˥-zo˩! | ɖɯ˧-v̩˧-ki˧-ɳɯ˩, | ɖɯ˧-pɤ˥! | ɖɯ˧-pɤ˥~ɖɯ˩~pɤ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-qwa˧˥! | tʰi˧-ki˧-dʑo˥! | 
+hɑ˧ bv̩˧~bv̩˧, | kʰv̩˧pʰæ˥tɕi˩-dʑo˩,  | ə˩-gi˩! | ɖɯ˧-tɑ˧˥ | kɤ˧kɤ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-dzi˩, | hɑ˧ bv̩˧~bv̩˧-dʑo˩, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, | le˧-qwæ˧˥, | le˧-qwæ˧˥, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, | hɑ˧-ʈʂʰɯ˧ | tʰɑ˧-↑ni˥~ni˩ | qwæ˧-ʁo˥-kv̩˩ ɲi˩! | 
+%Transcription automatique : hɑ˧bv̩˧bv̩˧ | kʰv̩˩pʰæ˥ | tɕi˩dʑo˩ | ə˩dʑo˩ | ɖɯ˧tɑ˧˥ | ə˧kɤ˧kɤ˩ | ʈʂʰɯ˧ne˧i˥ | tʰi˧dzi˩ | hɑ˧gv̩˧gv̩˧dʑɯ˩ | le˧pwæ˧˥ɯ˧ | le˧pwæ˧˥ | le˧kv̩˧˥ | le˧qʰwæ˧˥ | ne˥ | hɑ˧ʈʂʰɯ˧ | tʰɑ˧ɲi˥njɤ˧qɑ˩ʁɤ˥kv̩˩ɲi˩ | 
+%179
+Le partage de la nourriture... tous ces jeunes, hein, ils étaient assis les uns à côté des autres (assis en rang); quand on distribue la nourriture, on distribue, on distribue, on distribue... et on parvient à ce que la part de chacun soit tout à fait identique ! (que la répartition soit tout à fait équitable)
+把饭分给每个人的时候，那些年轻人嘛，都这样一排坐着。给饭的人，给着给着，给的是很公平的，给每个人一样多的！
+
+tɕɯ˧-qo˥ | ʐwæ˧ ne˧-ʝi˥-zo˩! | ɖɯ˧-v̩˧-ki˧-ɳɯ˩, | ɖɯ˧-pɤ˥! | ɖɯ˧-pɤ˥~ɖɯ˩~pɤ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-qwæ˧˥, | 
 %Utterance ID: BENEVOLENCE.95 
-%Transcription automatique : hɑ˧ʈʂʰɯ˧ | tʰɑ˧ɲi˥njɤ˧qɑ˩ʁɤ˥kv̩˩ɲi˩ | tɕɯ˩qo˧ | ʐwæ˩ | ni˧˥ | zo˩ | ɖɯ˧v̩˧ki˥ɳɯ˩ | ɖɯ˧pɤ˩ɖɯ˧pɤ˥˩pv̩˩ | ʈʰɯ˩˥neʝi˥ | le˧qv̩˩ | tʰi˩tɕi˥dʑo˩ | kʰi˧ho˧ | ʂv̩˧ho˧ʂɯ˥zo˩ 
+%Transcription automatique : tɕɯ˩qo˧ | ʐwæ˩ | ni˧˥ | zo˩ | ɖɯ˧v̩˧ki˥ɳɯ˩ | ɖɯ˧pɤ˩ ɖɯ˧pɤ˥˩pv̩˩ | ʈʰɯ˩˥neʝi˥ | le˧qv̩˩ | 
+%179
 %Vérifié soigneusement : /ɖɯ˧-v̩˧-ki˧/: n'est pas /ɖɯ˧-v̩˧-ki˥/.
 %avant le 2e /ɖɯ˧-pɤ˥/: exemple de 'resumptive schwa'.
+Comme si c'était pesé avec une balance! / On arrive à être aussi précis que si la part de chacun était pesée au trébuchet! Une cuillerée pour chacun / une louche pour chacun! Ainsi, on distribue, louche après louche;
+就像用称一样！（能非常准，分出来的饭，每个人的份都完全一样）给每个人一瓢（饭）！这样，一瓢一瓢分，
 
-La nourriture, je la répartissais de façon vraiment très égale! Comme si c'était pesé avec une balance!
-
-ɕjo.ho, ɕjo.ho, ɕjo.ho | pi˧, | v̩˩tsʰɤ˧˥ | ɖɯ˧-v̩˧ tɕɤ˩! | ʁo˧dɑ˧ tʰi˧-tɕɯ˥! | hɑ˧ | õ˧-bv̩˥-õ˩ | qʰwɤ˧-qo˥ | le˧-po˧˥, | le˧-dzɯ˥-dʑo˩ | ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | dzɯ˧-se˩, | njɤ˧ | mɤ˧-dzɯ˧-sɯ˥, | tʰi˧-gɤ˧-kʰu˩-jo˩-kv̩˩! | 
+tʰi˧-ki˧-dʑo˥, | ɕjo.ho, ɕjo.ho, ɕjo.ho | pi˧, | v̩˩tsʰɤ˧˥ | ɖɯ˧-v̩˧ tɕɤ˩! | ʁo˧dɑ˧ tʰi˧-tɕɯ˥! | hɑ˧ | õ˧-bv̩˥-õ˩ | qʰwɤ˧-qo˥ | le˧-po˧˥, | le˧-dzɯ˥-dʑo˩, |
 %Utterance ID: BENEVOLENCE.96 
-%Transcription automatique : tʰv̩˩to | v̩˩tsʰɤ˧˥ | ɖɯ˧v̩˩tɕɤ˩ | ɑ˩ʁo˧dɑ˧tʰi˧tɕɯ˥ | hɑ˧ | õ˧bv̩˥õ˩ | qʰwɤ˩qo˩ | le˧po˧˥ | le˧dzɯ˥dʑo˩ | tʰv̩˧tɕi˩ɳɯ˩ | dzɯ˧se˩ | njɤ˧ | hɤ˧dzɯ˧sɯ˥tʰv̩˧pɤ˧kʰwɤ˩ɲi˩kv̩˩ | tʰi˩˥ | əəə… | ə˧v̩˧tʰv̩˧v̩ɳɯ˩ɕi˩ 
-tʰv̩˩to | 
-tʰi˧-kʰu˩-jo˩-kv̩˩: ils venaient en redemander.
-njɤ˧-ɳɯ˧ qwæ˩, | no˧-ɳɯ˧ | tʰi˧-kʰu˩: je sers (la nourriture), tu présentes (ton bol)
-Je n'ai pas encore commencé à manger, moi, que déjà ils présentent leurs bols (pour en avoir à nouveau)!
+%Transcription automatique : tʰi˩tɕi˥dʑo˩ | kʰi˧ho˧ | ʂv̩˧ho˧ʂɯ˥zo˩ tʰv̩˩to | v̩˩tsʰɤ˧˥ | ɖɯ˧v̩˩tɕɤ˩ | ɑ˩ʁo˧dɑ˧tʰi˧tɕɯ˥ | hɑ˧ | õ˧bv̩˥õ˩ | qʰwɤ˩qo˩ | le˧po˧˥ | le˧dzɯ˥dʑo˩ | 
+(Je) distribuais le riz; et je faisais aussi bouillir une casserole de soupe, glou-glou-glou-glou! Je la mettais devant moi! Le riz, chacun prenait son bol et mangeait; alors, 
+（我）给饭，那么……我也煮了一锅汤，咕噜咕噜！先放在那儿！饭，（他们）自己拿碗吃，
 
-tʰi˩˥ | əəə… | ə˧v̩˧ tʰv̩˧-v̩-ɳɯ˩, | ɕjɤ˩tʰv̩˧ kv̩˥-ze˩, | ʈʂʰɯ˧-tɕi˩-ki˩: | no˧-sɯ˩kv̩˩ | le˧-ʑi˩, | v̩˧-qo˩ li˩, | hĩ˧ | hɑ˧ mɤ˧-dzɯ˧-hĩ˧ | mɤ˧-do˩! | no˧-sɯ˩kv̩˩ | v̩˧-qo˩ li˩! | pi˧-zo˩. | 
+ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | dzɯ˧-se˩, | njɤ˧ | mɤ˧-dzɯ˧-sɯ˥, | tʰi˧-gɤ˧-kʰu˩-jo˩-kv̩˩! | 
+%Transcription automatique : tʰv̩˧tɕi˩ɳɯ˩ | dzɯ˧se˩ | njɤ˧ | hɤ˧dzɯ˧sɯ˥tʰv̩˧pɤ˧kʰwɤ˩ɲi˩kv̩˩ | tʰi˩˥ | əəə… | ə˧v̩˧tʰv̩˧v̩ɳɯ˩ɕi˩ 
+%fr /tʰi˧-kʰu˩-jo˩-kv̩˩/: 'ils venaient en redemander'.
+%fr /njɤ˧-ɳɯ˧ qwæ˩, | no˧-ɳɯ˧ | tʰi˧-kʰu˩/: 'je sers (la nourriture), tu présentes (ton bol)'
+Eux, ils finissaient leur bol; je n'ai pas encore commencé à manger, moi, que déjà ils présentaient leurs bols (pour en avoir à nouveau)!
+
+tʰi˩˥ | əəə… | ə˧v̩˧ tʰv̩˧-v̩-ɳɯ˩, | ɕjɤ˩tʰv̩˧ kv̩˥-ze˩, | ʈʂʰɯ˧-tɕi˩-ki˩: | “no˧-sɯ˩kv̩˩ | le˧-ʑi˩, | v̩˧-qo˩ li˩, | hĩ˧ | hɑ˧ mɤ˧-dzɯ˧-hĩ˧ | mɤ˧-do˩! | no˧-sɯ˩kv̩˩ | v̩˧-qo˩ li˩!” | pi˧-zo˩. | 
 %Utterance ID: BENEVOLENCE.97 
 %Transcription automatique : ɖɯ˧ɤ˩se˧ki˩ | no˧sɯ˩kv̩˩ | le˧ʑi˩ | ʐv̩˧qwɤ˩li˩ | hĩ˧hɑ˩ | mɤ˧dzɯ˧hĩ˥ | mɤ˧do˩no˥sɯ˩kv̩˩ | v̩˧qv̩˩le˩pi˧zo˩ | le˧lv̩˧˥ | ɻæ˧ɖwæ˩ | mɤ˧zo˧ | njɤ˧ | hɑ˧ | tʰi˧dʑo˧pi˧ | njɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ |  
-Vous ne voyez pas la personne qui n'a pas encore mangé ! Regardez donc un peu le pot (et vous verrez qu'il n'y en a plus tant que ça)!
+Alors, cet oncle, il les a critiqués, ceux-là: “Vous autres, vous prenez (la nourriture qu'on vous donne), mais regardez un peu dans la casserole! Vous ne voyez pas la personne qui n'a pas encore mangé ! Regardez donc un peu le pot (et vous verrez qu'il n'y en a plus tant que ça)!”
+“”
 
 tʰi˩˥, | ɚə˧v̩˧˥, | ɖwæ˩-mɤ˧-zo˧! | njɤ˧ | hɑ˧ tʰi˧-dʑo˧!ɚ | pi˧, | njɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧-pi˥-dʑo˩, |  
 
