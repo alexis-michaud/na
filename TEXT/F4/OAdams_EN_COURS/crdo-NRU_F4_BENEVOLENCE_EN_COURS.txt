@@ -600,7 +600,7 @@ Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets!
 
 no˧˥ | ʈʂo˧kwɤ˩ | <ɖɯ˧-kw...> ɖɯ˧-gi˧ gwɤ˥-dʑɯ˩-hĩ˩ ɖɯ˩-v̩˩ ɲi˩, tsɯ˩-zo˩, | ɖɯ˧-hɑ̃˧-ɻ˥, | ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ mv̩˩. |
 %Transcription automatique : zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩ 
-%fr Vérifier une nouvelle fois : /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ ou /ə˧mɑ˧-ki˩ | tsʰɯ˩˥/? Hypothèse actuelle (28 avril 2018): devrait être la 2e forme, non la 1e. Réponse: est : /ə˧mɑ˧-ki˩ tsʰɯ˩//xxxx Même question pour énoncé suivant : ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩.
+%fr Vérifier une nouvelle fois : /ə˧mɑ˧-ki˧ tsʰɯ˧˥/ ou /ə˧mɑ˧-ki˩ | tsʰɯ˩˥/? Hypothèse actuelle (28 avril 2018): devrait être la 2e forme, non la 1e. Réponse: est : /ə˧mɑ˧-ki˩ tsʰɯ˩//yyyy Même question pour énoncé suivant : ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ dʑo˩.
 Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arrivée chez moi.
 那么，有一天，游了半个中国的这个人，到了我家。
 
@@ -652,8 +652,8 @@ Alors il a dit: “Ama, je vais donc habiter chez vous!”
 %101
 %fr /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥/: serait-ce /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/? S'il y a 2 groupes tonals, ça devrait être : /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˩/. Pourrait-on dire /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/? réponse: on peut dire: /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/ aussi bien que /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/.
 %fr /v̩˧tɕʰɤ˩/: de quel lieu s'agit-il? Les sources chaudes, 温泉? réponse: oui; est le nom d'un village. 
-Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller à xxxx, semble-t-il! Il est donc parti... et puis il est revenu.
-我答应了，说：“好的！”，对吧。说了“好的”，他去了xxxx。然后他又回来了。
+Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller à yyyy, semble-t-il! Il est donc parti... et puis il est revenu.
+我答应了，说：“好的！”，对吧。说了“好的”，他去了yyyy。然后他又回来了。
 
 le˧-tsʰɯ˩-dʑo˩, | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩... -ɲi˩ tsɯ˩, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | <ʐv̩˧-mi˥...> | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! |
 %Utterance ID: BENEVOLENCE.54 
@@ -1364,7 +1364,7 @@ tʰi˩˥ | mv̩˩kʰv̩˥, | əəə... hæ̃˧qʰv̩˥ | mɤ˧-ʑi˧˥!
 %204
 Et le soir, euh... jusque tard dans la nuit, on ne dormait pas! / On veillait tard, pour avancer le travail! 
 
-hɑ˧ | le˧tɕɤ˧˥ | ʐo˩˥ | le˧tɕɤ˧˥ | ʂe˧ | li˧tɕɤ˧˥ | he˧hæ̃˧hæ̃˩ | əi˧dzɯ˩dze˥ | tso˩kʰwɤ˩˥ | ɖɯ˧ɭɯ˧qo˩kʰɯ˧˥ | hɑ˧ | le˧ʐə˧ʐwæ˧ | ʈʰɯ˩ɖɯ˩mi˩˥ | ɖɯ˧v̩˧ɖv̩˩ʈwæ˩ | tso˧ 
+hɑ˧ | le˧-tɕɤ˧˥ | ʐo˩˥ | le˧-tɕɤ˧˥ | ʂe˧ | le˧-tɕɤ˧˥ | le˧-hæ̃˩~hæ̃˩ | le˧-dze˧~dze˥ | tso˩kʰwɤ˩˥ | ɖɯ˧ɭɯ˧qo˩kʰɯ˧˥ | hɑ˧ | le˧ʐə˧ʐwæ˧ | ʈʰɯ˩ɖɯ˩mi˩˥ | ɖɯ˧v̩˧ɖv̩˩ʈwæ˩ | tso˧ 
 %Utterance ID: BENEVOLENCE.111 
 %Transcription automatique : hɑ˧ | le˧tɕɤ˧˥ | ʐo˩˥ | le˧tɕɤ˧˥ | ʂe˧ | li˧tɕɤ˧˥ | he˧hæ̃˧hæ̃˩ | əi˧dzɯ˩dze˥ | tso˩kʰwɤ˩˥ | ɖɯ˧ɭɯ˧qo˩kʰɯ˧˥ | hɑ˧ | le˧ʐə˧ʐwæ˧ | ʈʰɯ˩ɖɯ˩mi˩˥ | ɖɯ˧v̩˧ɖv̩˩ʈwæ˩ | tso˧ 
 

@@ -1307,6 +1307,7 @@
 \lx æ̃˧ʈwɤ˩
 \or aendua
 \ps n
+
 \lx æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -5376,41 +5377,6 @@
 \xc PHONO
 \dt 03/Aug/2017
 
-\lx ɕɯ˩α
-\or xiq
-\ps v
-\lc ɕɯ˩˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> avant 2018, noté /ɕi˩˥/. Est en fait /ɕɯ˩˥/. Soigneusement vérifié avec F4.
-\nt <type="hist" print="n"> La vérification de la catégorie tonale, La ou Lb, n'est pas possible de la façon ordinaire: le verbe ne peut se rédupliquer, ni se combiner avec les objets habituellement utilisés. Cette catégorie n'est donc pas bien assurée. 
-\ton Lα
-\so <print="n"> F4
-\de To be afraid of.
-\ge to_be_afraid_of
-\dn 怕、害怕
-\gn 怕
-\df Craindre, avoir peur de. Verbe suranné; il ne se trouve que dans quelques expressions.
-\gf craindre
-\ue archaic
-\xv njɤ˧ | no˩ ɕɯ˩ tʰɑ˥-mɤ˩-ʝi˩! | njɤ˧ | no˩ ɖwæ˩ tʰɑ˥-mɤ˩-ʝi˩!
-\xe Don't you fancy I am afraid of you! / Don't you imagine you frighten me!
-\xn 我不会屈服于你！/ 我不会害怕你！（回敬的话）
-\xf Ne va pas croire que tu me fasses peur! / Si tu crois que j'ai peur de toi! Si tu crois que je te crains/que tu me fais peur!
-\xv njɤ˧ | no˩ ɕɯ˩-mɤ˩-ʝi˥!
-\xe You don't frighten me! / I'm not afraid of you!
-\xn 我不会害怕你！
-\xf Tu ne me fais pas peur!
-\xv njɤ˧ | tʰv̩˧ ɕɯ˩-mɤ˩-ʝi˩!
-\xe I'm not afraid of him!
-\xn 我不会害怕他！
-\xf Il ne me fait pas peur!
-\xv njɤ˧ | ʈʂʰɯ˧-v̩˧ do˧˥, | ʁo˧ɕɯ˧˥ | ʐwæ˩˥!
-\xe When I see him, I have a feeling of reverence! (Typically: seeing someone in the family who has authority, such as one's uncle.)
-\xn 我一看见他，有敬畏之感！
-\xf Quand je le vois, il m'inspire respect et révérence! (Un exemple typique: sentiment qu'inspire l'oncle, personne d'autorité.)
-\dt 24/Apr/2017
-
 \lx ɕi˩˥
 \sf <nb="B"> 628
 \sf <nb="2011"> 692
@@ -5952,6 +5918,32 @@
 \gf flûte
 \dt 12/Jun/2017
 
+\lx ɕjɤ˧pʰje˥
+\or xepia
+\bw <langue="cmn"> 相片
+\ps n
+\cf pɤ˧lɑ˩
+\lc ɕjɤ˧pʰje˥
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\np <langue="eng"> phonetic realization: close to [ɕjɤ˧pʰjɛ˥]
+\ton H#
+\so <print="n"> F4
+\de Photograph.
+\ge 相片::photograph
+\dn 相片（汉语借词）
+\gn 相片（借词）
+\df Photographie.
+\gf 相片::photographie
+\xv ɕjɤ˧pʰje˥ | le˧-lɑ˧˥
+\xe to take a picture
+\xn 拍相片
+\xf prendre une photo
+\xv ɕjɤ˧pʰje˥ | le˧-pʰæ˩
+\xe to take a picture (the verb is a Chinese loanword)
+\xn 拍相片（动词是汉语借词）
+\xf prendre une photo (le verbe est un emprunt au chinois)
+
 \lx ɕjɤ˩tʰv̩˧˥
 \sf <nb="B"> 1413
 \sf <nb="2011"> 2311
@@ -5992,7 +5984,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> /hĩ˧ ɕjɤ˥~ɕjɤ˩/: corrigé en 2008, confirmant une conjecture de 2007; d'abord noté ˧˥˧) (réanalyse déc. 08: hjɤ) (avant 2017: avais noté la forme sous-jacente comme ɕʝɤ˩~ɕjɤ˩; en fait, est bien L+MH#, comme attendu : disyllabe L+MH (forme régulière de la réduplication).
+\nt <type="hist" print="n"> /hĩ˧ ɕjɤ˥~ɕjɤ˩/: corrigé en 2008, confirmant une conjecture de 2007; d'abord noté ˧˥˧) (réanalyse déc. 08: hjɤ) (avant 2017: avais noté la forme sous-jacente comme ɕjɤ˩~ɕjɤ˩; en fait, est bien L+MH#, comme attendu : disyllabe L+MH (forme régulière de la réduplication).
 \ton L
 \lc ɕjɤ˩ɕjɤ˧˥
 \so <print="n"> F4
@@ -6023,6 +6015,41 @@
 \xn 你不要欺负我！
 \xf Il ne faut pas me maltraiter!
 \dt 15/May/2017
+
+\lx ɕɯ˩α
+\or xiq
+\ps v
+\lc ɕɯ˩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> avant 2018, noté /ɕi˩˥/. Est en fait /ɕɯ˩˥/. Soigneusement vérifié avec F4.
+\nt <type="hist" print="n"> La vérification de la catégorie tonale, La ou Lb, n'est pas possible de la façon ordinaire: le verbe ne peut se rédupliquer, ni se combiner avec les objets habituellement utilisés. Cette catégorie n'est donc pas bien assurée. 
+\ton Lα
+\so <print="n"> F4
+\de To be afraid of.
+\ge to_be_afraid_of
+\dn 怕、害怕
+\gn 怕
+\df Craindre, avoir peur de. Verbe suranné; il ne se trouve que dans quelques expressions.
+\gf craindre
+\ue archaic
+\xv njɤ˧ | no˩ ɕɯ˩ tʰɑ˥-mɤ˩-ʝi˩! | njɤ˧ | no˩ ɖwæ˩ tʰɑ˥-mɤ˩-ʝi˩!
+\xe Don't you fancy I am afraid of you! / Don't you imagine you frighten me!
+\xn 我不会屈服于你！/ 我不会害怕你！（回敬的话）
+\xf Ne va pas croire que tu me fasses peur! / Si tu crois que j'ai peur de toi! Si tu crois que je te crains/que tu me fais peur!
+\xv njɤ˧ | no˩ ɕɯ˩-mɤ˩-ʝi˥!
+\xe You don't frighten me! / I'm not afraid of you!
+\xn 我不会害怕你！
+\xf Tu ne me fais pas peur!
+\xv njɤ˧ | tʰv̩˧ ɕɯ˩-mɤ˩-ʝi˩!
+\xe I'm not afraid of him!
+\xn 我不会害怕他！
+\xf Il ne me fait pas peur!
+\xv njɤ˧ | ʈʂʰɯ˧-v̩˧ do˧˥, | ʁo˧ɕɯ˧˥ | ʐwæ˩˥!
+\xe When I see him, I have a feeling of reverence! (Typically: seeing someone in the family who has authority, such as one's uncle.)
+\xn 我一看见他，有敬畏之感！
+\xf Quand je le vois, il m'inspire respect et révérence! (Un exemple typique: sentiment qu'inspire l'oncle, personne d'autorité.)
+\dt 24/Apr/2017
 
 \lx ɕɯ˩α
 \or xiq
@@ -6573,6 +6600,37 @@
 \gf nom_de_village
 \dt 27/Aug/2015
 
+\lx ɖæ˩ʂo˩
+\or shoq
+\ps v
+\cf ʂo˧˥1
+\ton L
+\lc ɖæ˩ʂo˩˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M23"> ID.
+\de To slide down.
+\ge to_slide
+\dn 往下滑
+\gn 往下滑
+\df Glisser; dévaler une pente en glissant.
+\gf glisser
+\sn 2
+\de Cunning, dishonest.
+\ge cunning
+\dn 滑头
+\gn 滑头
+\df Malhonnête, faux-jeton, fuyant.
+\gf malhonnête
+\xv no˧ | ɖæ˩ʂo˩~ɖæ˥ʂo˩! |
+\xe You are really cunning! (A criticism of someone who is not direct, not honest, who does not have a proper attitude: giving a slimy impression.)
+\xn 你真滑头！
+\xf Tu es bien malhonnête! (Critique de quelqu'un qui n'est pas franc et direct, qui est faux jeton, qui n'a pas une bonne attitude, donnant une impression huileuse: qui s'esquive et se dérobe, comme un objet glissant qui se dérobe à la prise.)
+\dt 06/Oct/2015
+
 \lx ɖæ˩ʂɯ#˥
 \sf <nb="2011"> 3318
 \or Ddaeshi
@@ -6920,6 +6978,26 @@
 \xc <langue="fra"> verbe au ton MH
 \dt 01/May/2017
 
+\lx di˩mæ˩
+\or ddimaeAM
+\ps adv
+\sd <langue="fra"> espace
+\sd <langue="eng"> space
+\ton L
+\lc di˩mæ˩˥
+\so <print="n"> F4
+\de Downhill, down the slope, towards the bottom.
+\ge downhill
+\dn 下坡的，向下的，往下
+\gn 往下
+\df Vers le bas (d'une pente de montagne), vers l'aval.
+\gf aval
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
+\xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
+\xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
+
 \lx di˧mi˧
 \sf <nb="B"> 48
 \sf <nb="2011"> 81
@@ -6993,6 +7071,26 @@
 \df Plaine.
 \gf plaine
 \dt 12/Jun/2017
+
+\lx di˩ʁo˩
+\or ddiwoqAM
+\ps adv
+\sd <langue="fra"> espace
+\sd <langue="eng"> space
+\ton L
+\lc di˩ʁo˩˥
+\so <print="n"> F4
+\de Uphill, up the slope, towards the top.
+\ge uphill
+\dn 上坡的，向上的，往上
+\gn 往上
+\df Vers le haut (d'une pente de montagne), vers l'amont.
+\gf amont
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
+\xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
+\xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
 
 \lx di˩α
 \sf <nb="B"> 1776c
@@ -7249,32 +7347,6 @@
 \xf …a vu (une/la) truie
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> note ancienne: “schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb), mais ce schéma n'est pas acceptable". En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
-\dt 27/Aug/2015
-
-\lx kʰɯ˩tv̩˩ɭɯ˥
-\or keeduleeAM
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\ton L+H#
-\lc kʰɯ˩tv̩˩ɭɯ˥
-\so <print="n"> F4
-\pdl classifier
-\pdv ʈv̩˩
-\de Leg (of chicken).
-\ge chicken_leg
-\dn 鸡腿
-\gn 鸡腿
-\df Cuisse de poulet.
-\gf cuisse_de_poulet
-\xv æ̃˩ʂe˧-kʰɯ˧tv̩˥ɭɯ˩
-\xe chicken leg
-\xn 鸡腿
-\xf cuisse de poulet
-\xv do˧bæ˧ | tɕi˩-hĩ˩˥
-\xe calf
-\xn 小腿
-\xf mollet
 \dt 27/Aug/2015
 
 \lx do˧bæ˧
@@ -9088,6 +9160,26 @@
 \df Roturier, la 2e des 3 castes de la société ancienne, intermédiaire entre la noblesse et les serfs.
 \gf roturier
 \dt 24/Apr/2017
+
+\lx dze˧-li˥
+\or zzeiliAM
+\ps n
+\cf li˩˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton H#
+\lc dze˧-li˥
+\so <print="n"> F4
+\pdl classifier
+\pdv qʰwɤ˧˥
+\pdc <langue="fra"> bol
+\de Tea with sugar, sweetened tea.
+\ge sweetened_tea
+\dn 甜茶
+\gn 甜茶
+\df Thé sucré.
+\gf thé_sucré
+\dt 02/May/2018
 
 \lx dze˧ɭɯ˧
 \sf <nb="B"> 1999
@@ -11088,9 +11180,9 @@
 \df Prénom.
 \gf prénom
 \xv dʑɤ˩tsʰi˧-mi#˥
-\xe the given name of F4's mother
+\xe A given name. (This is the given name of the main consultant's mother.)
 \xn 阿妈（合作人）的母亲的名字
-\xf nom propre de la mère de F4
+\xf Nom propre. Il était porté par la mère de Ama.
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰo˧
@@ -13327,6 +13419,28 @@
 \gf crocs
 \dt 27/Aug/2015
 
+\lx ɖʐwæ˧ʝi˥
+\or zzhuaeq yi
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> 
+\cf fæ˩ɕi˧
+\ton H#
+\lc ɖʐwæ˧ʝi˥
+\so <print="n"> F4
+\de To rest assured; to have confidence
+\ge to_have_confidence
+\dn 放心
+\gn 放心
+\df Être en confiance, être rassuré.
+\gf être_en_confiance
+\xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩! | 
+\xe Rest assured! / Set your mind at rest!
+\xn 你放心吧！ / 请你放心！
+\xf Sois sans crainte! / Sois confiant(e)! / Tu peux être en confiance!
+\dt 01/May/2018
+
 \lx ɖʐwæ˧lɑ˧-ʁo˧ɖɯ˧˥
 \sf <nb="2011"> 2714
 \or zzhuaelawoddee
@@ -15140,21 +15254,24 @@
 \xf cette direction-là
 \dt 28/Aug/2015
 
-\lx tɕʰɤ˩ʂɯ˩kɤ˩
-\or RD
-\bw <langue="cmn"> 前时刻
-\ps n
-\sd <langue="fra"> temps
-\sd <langue="eng"> time
-\ton L
-\lc tɕʰɤ˩ʂɯ˩kɤ˩˥
+\lx fæ˩ɕi˧
+\or faxiAM
+\bw <langue="cmn"> 放心
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> 
+\cf ɖʐwæ˧ʝi˥
+\ton LM
+\lc fæ˩ɕi˥
 \so <print="n"> F4
-\de Yesteryear, in the old times, in earlier times.
-\ge 前时刻::in_earlier_times
-\dn 以前、在过去（汉语借词：‘前时刻’）
-\gn 以前
-\df Autrefois, dans le temps.
-\gf 前时刻::autrefois
+\de To rest assured; to have confidence
+\ge 放心::to_have_confidence
+\dn 放心（汉语借词）
+\gn 放心（借词）
+\df Être en confiance, être rassuré.
+\gf 放心::être_en_confiance
+\dt 01/Sep/2018
 
 \lx fɑ˧tɑ˧˥
 \sf <nb="B"> 1010a
@@ -15213,47 +15330,6 @@
 \xn 你发一点面吧！要做馒头！
 \xf Fais lever de la farine, on va faire des petits pains!
 \dt 01/Sep/2015
-
-\lx fæ˩ɕi˧
-\or faxiAM
-\bw <langue="cmn"> 放心
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> 
-\cf ɖʐwæ˧ʝi˥
-\ton LM
-\lc fæ˩ɕi˥
-\so <print="n"> F4
-\de To rest assured; to have confidence
-\ge 放心::to_have_confidence
-\dn 放心（汉语借词）
-\gn 放心（借词）
-\df Être en confiance, être rassuré.
-\gf 放心::être_en_confiance
-\dt 01/Sep/2018
-
-\lx ɖʐwæ˧ʝi˥
-\or RD
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> 
-\cf fæ˩ɕi˧
-\ton H#
-\lc ɖʐwæ˧ʝi˥
-\so <print="n"> F4
-\de To rest assured; to have confidence
-\ge to_have_confidence
-\dn 放心
-\gn 放心
-\df Être en confiance, être rassuré.
-\gf être_en_confiance
-\xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩! | 
-\xe Rest assured! / Set your mind at rest!
-\xn 你放心吧！ / 请你放心！
-\xf Sois sans crainte! / Sois confiant(e)! / Tu peux être en confiance!
-\dt 01/May/2018
 
 \lx fv̩˩˧
 \or fuq
@@ -19019,7 +19095,11 @@
 \xn “舌头没有骨头。讲的是什么（=是否真的），只有自己才知道！”（谚语）
 \xf «La langue n'a pas d'os! Ce qu'on dit, soi seul sait (si c'est la vérité)!»
 \xc PROVERBE
-\dt 02/Sep/2015
+\xv no˧ | ɕi˩mi˩ tʰi˩-di˥, | hĩ˧-ki˧ | ʐwɤ˩-zo˩-kv̩˥!
+\xe “You have a tongue, and you should use it!” This saying encourages one not to remain silent, but to engage in constant dialogue with others. Awkward situations and misunderstandings easily arise; they can only be dispelled by talking to others.
+\xn 你有舌头，是用来跟别人说话的啊！（鼓励对方跟别人聊天：如果不说话，不多交流，就容易发生误会、容易发生尴尬的情况。主动交流，谈天，才能互相理解，好好一起生活。）
+\xf “Tu as une langue, c'est pour t'en servir!” Dicton qui incite à ne pas se tenir coi. Si on ne se parle pas, les malentendus sont vite venus; pour vivre ensemble en bonne intelligence, il faut un dialogue constant avec les uns et les autres.
+\xc PROVERBE
 
 \lx hĩ˧mo˩
 \sf <nb="B"> 246
@@ -19818,6 +19898,45 @@
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \dt 03/Aug/2017
 
+\lx hɤ˩-ʂe˩ʂe˩
+\or heqsheiqsheiq
+\ps adj
+\ton L
+\lc hɤ˩-ʂe˩ʂe˩˥
+\cf hɤ˩a3
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\so <print="n"> F4
+\de In excellent health, blooming with health.
+\ge blooming_with_health
+\dn 既健康
+\gn 既健康
+\df En pleine forme, rayonnant de santé.
+\gf en_pleine_forme
+\xv hɤ˩-ʂe˩~ʂe˩-hĩ˥
+\xe people blooming with health: typically, young people
+\xn 既健康的人（如：既健康的年轻人）
+\xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
+
+\lx ho˩tʰɑ˩˥
+\or hotaqAM
+\bw <langue="cmn"> 红糖
+\ps n
+\cf ʂɑ˩tʰɑ˧-dze#˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
+\ton L
+\lc ho˩tʰɑ˩
+\so <print="n"> F4
+\de Red sugar.
+\ge 红糖::red_sugar
+\dn 红糖（汉语借词）
+\gn 红糖（借词）
+\df Sucre roux, sucre intégral, suc de canne séché.
+\gf 红糖::sucre_roux
+\dt 03/Sep/2015
+
 \lx ho˩to˩ʂæ˧
 \sf <nb="B"> 2060
 \sf <nb="2011"> 3188
@@ -20124,26 +20243,6 @@
 \df Habile.
 \gf habile
 \dt 02/Sep/2015
-
-\lx hɤ˩-ʂe˩ʂe˩
-\or heqsheiqsheiq
-\ps adj
-\ton L
-\lc hɤ˩-ʂe˩ʂe˩˥
-\cf hɤ˩a3
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
-\so <print="n"> F4
-\de In excellent health, blooming with health.
-\ge blooming_with_health
-\dn 既健康
-\gn 既健康
-\df En pleine forme, rayonnant de santé.
-\gf en_pleine_forme
-\xv hɤ˩-ʂe˩~ʂe˩-hĩ˥
-\xe people blooming with health: typically, young people
-\xn 既健康的人（如：既健康的年轻人）
-\xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
 
 \lx hu˧˥
 \hm 1
@@ -22202,26 +22301,6 @@
 \xn 土司到昆明去了！
 \xf Le seigneur est parti à Kunming!
 \dt 24/Apr/2017
-
-\lx kʰu˧mi˩
-\sf <nb="2011"> 3345
-\or KumiqAM
-\bw <langue="cmn"> 昆明
-\ps n
-\cf ʝi˩næ˩-se˧
-\lc kʰu˧mi˩
-\np <langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place name
-\ton L#
-\so <print="n"> F4
-\de Kunming.
-\ge Kunming
-\dn 昆明
-\gn 昆明
-\df Kunming.
-\gf Kunming
-\dt 24/Apr/2018
 
 \lx ʝi˩ŋɤ˧˥
 \sf <nb="B"> 1546
@@ -24508,6 +24587,27 @@
 \xf idem
 \dt 15/Jun/2017
 
+\lx kʰo˧ɕi˩
+\or to be added
+\bw <langue="cmn"> 可惜
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L#
+\lc kʰo˧ɕi˩
+\so <print="n"> F4
+\de Unfortunate; it's a pity; it's a shame.
+\ge 可惜::unfortunate
+\dn 可惜（汉语借词）
+\gn 可惜（借词）
+\df Dommage, triste, regrettable, manqué (d'une occasion).
+\gf 可惜::dommage
+\xv kʰo˧ɕi˩-ze˩!
+\xe It's a pity! It's a shame!
+\xn 可惜了！
+\xf C'est bien dommage! / C'est une occasion manquée!
+\dt 06/Oct/2015
+
 \lx kʰɤ˧ɕjɤ˧
 \or kexe
 \ps v
@@ -24727,62 +24827,6 @@
 \gn 高粱（借词）
 \df Sorgho, gaoliang; céréale dont on se sert pour faire du vin.
 \gf 高粱::sorgho
-\dt 03/Sep/2015
-
-\lx pi˧tʰɑ˩
-\or bitaqAM
-\bw <langue="cmn"> 白糖
-\ps n
-\cf dze˥
-\sd <langue="fra"> nourriture
-\sd <langue="eng"> food
-\ton L#
-\lc pi˧tʰɑ˩
-\so <print="n"> F4
-\de White sugar.
-\ge 白糖::white_sugar
-\dn 白糖（汉语借词）
-\gn 白糖（借词）
-\df Sucre blanc.
-\gf 白糖::sucre_blanc
-\dt 03/Sep/2015
-
-\lx ho˩tʰɑ˩˥
-\or hotaqAM
-\bw <langue="cmn"> 红糖
-\ps n
-\cf ʂɑ˩tʰɑ˧-dze#˥
-\sd <langue="fra"> nourriture
-\sd <langue="eng"> food
-\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
-\ton L
-\lc ho˩tʰɑ˩
-\so <print="n"> F4
-\de Red sugar.
-\ge 红糖::red_sugar
-\dn 红糖（汉语借词）
-\gn 红糖（借词）
-\df Sucre roux, sucre intégral, suc de canne séché.
-\gf 红糖::sucre_roux
-\dt 03/Sep/2015
-
-\lx ʂɑ˩tʰɑ˧-dze#˥
-\or hotaqAM
-\bw <langue="cmn"> 砂糖
-\ps n
-\cf ho˩tʰɑ˩˥
-\sd <langue="fra"> nourriture
-\sd <langue="eng"> food
-\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
-\ton L
-\lc ʂɑ˩tʰɑ˧-dze˧
-\so <print="n"> F4
-\de Red sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to red sugar, not to sugar powder (in fact, red sugar used to come as blocks, not as powder).
-\ge red_sugar
-\dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭话的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
-\gn 红糖
-\df Sucre roux, sucre intégral, suc de canne séché. Emprunt ancien au chinois: au mot chinois pour ‘sucre en poudre’ est ajouté le mot na pour ‘sucre’, et l'ensemble désigne spécifiquement le sucre intégral, qui se présentait sous forme de blocs (pains de sucre), et non sous forme de poudre.
-\gf 红糖::sucre_roux
 \dt 03/Sep/2015
 
 \lx kɤ˩lo˧˥
@@ -25983,6 +26027,26 @@
 \xf deux esprits bienfaisants
 \dt 24/Apr/2017
 
+\lx kʰu˧mi˩
+\sf <nb="2011"> 3345
+\or KumiqAM
+\bw <langue="cmn"> 昆明
+\ps n
+\cf ʝi˩næ˩-se˧
+\lc kʰu˧mi˩
+\np <langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L#
+\so <print="n"> F4
+\de Kunming.
+\ge Kunming
+\dn 昆明
+\gn 昆明
+\df Kunming.
+\gf Kunming
+\dt 24/Apr/2018
+
 \lx kʰɯ˧pi˧
 \sf <nb="2011"> 2544
 \or keebi
@@ -26257,6 +26321,32 @@
 \xn 树根
 \xf racines d'arbre
 \dt 03/Sep/2015
+
+\lx kʰɯ˩tv̩˩ɭɯ˥
+\or keeduleeAM
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\ton L+H#
+\lc kʰɯ˩tv̩˩ɭɯ˥
+\so <print="n"> F4
+\pdl classifier
+\pdv ʈv̩˩
+\de Leg (of chicken).
+\ge chicken_leg
+\dn 鸡腿
+\gn 鸡腿
+\df Cuisse de poulet.
+\gf cuisse_de_poulet
+\xv æ̃˩ʂe˧-kʰɯ˧tv̩˥ɭɯ˩
+\xe chicken leg
+\xn 鸡腿
+\xf cuisse de poulet
+\xv do˧bæ˧ | tɕi˩-hĩ˩˥
+\xe calf
+\xn 小腿
+\xf mollet
+\dt 27/Aug/2015
 
 \lx kʰɯ˧tʰv̩#˥
 \sf <nb="B"> 063d
@@ -27617,6 +27707,31 @@
 \xn 铺席子
 \xf étendre la natte
 \dt 15/Jun/2017
+
+\lx kwæ˧ʂɯ˧˥
+\or guaeshi
+\bw <langue="cmn"> 惯+？
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="sem"> ce mot ne serait pas un emprunt, selon F4; la deuxième syllabe n'a pas été identifiée.
+\ton MH#
+\lc kwæ˧ʂɯ˧˥
+\so <print="n"> F4
+\de To spoil (a child).
+\ge to_spoil
+\dn 惯坏、宠坏
+\gn 惯坏  
+\df Gâter (un enfant, une personne).
+\gf gâter
+\xv kwæ˧ʂɯ˧˥ | ʐwæ˩˥
+\xe to spoil (a child) terribly, to spoil (a child) very much
+\xn 宠坏很厉害、宠坏得很
+\xf gâter (un enfant) terriblement
+\xv ə˧mi˧ ɳɯ˧ kwæ˧ʂɯ˧ kʰɯ˥-ze˩!
+\xe The mother spoiled him/her! / His/her mother made him/her a spoilt child!
+\xn  妈妈给惯坏了！
+\xf Sa mère l'a gâté ! / Sa mère en a fait un enfant gâté !
 
 \lx kwɑ˧tsʰɑ˧
 \or guaca
@@ -29682,6 +29797,27 @@
 \xf avoir des menstrues douloureuses
 \dt 24/Apr/2017
 
+\lx ɬi˧ŋv̩˥
+\or lhinguAM
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\ton H#
+\lc ɬi˧ŋv̩˥
+\so <print="n"> F4
+\pdl classifier
+\pdv ŋv̩˩a
+\de Waist of the trousers.
+\ge waist_of_the_trousers
+\dn 裤子的上部分：腰部
+\gn 裤子腰部
+\df Le haut du pantalon: la partie qui couvre les hanches.
+\gf haut_du_pantalon
+\xv ɬi˧ŋv̩˥ | ɖɯ˧-ŋv̩˩
+\xe one trousers waist
+\xn 一个裤子腰部
+\xf une taille de pantalon
+
 \lx ɬi˧pæ˥
 \sf <nb="B"> 438
 \sf <nb="2011"> 565
@@ -30941,17 +31077,16 @@
 \cf ɬo˩kɤ˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
+\nt <type="sem"> Dans cette expression quadrisyllabique, on reconnaît le mot disyllabique usuel pour ‘côte’, suivi d'un second disyllabe qui commence lui aussi par la racine monosyllabique pour ‘côte’. Cette seconde partie du composé ne peut s'employer seule: elle ne constitue pas un nom disyllabique autonome.
 \ton L+#H-
-\lc ɬo˩kɤ˩˥
+\lc ɬo˩kɤ˩ɬo˥ɲi˩
 \so <print="n"> F4
-\pdl classifier
-\pdv kɤ˧˥
-\de Rib.
-\ge rib
+\de Ribs.
+\ge ribs
 \dn 肋骨
 \gn 肋骨
-\df Côte (partie du corps).
-\gf côte
+\df Côtes (partie du corps).
+\gf côtes
 \dt 04/Sep/2015
 
 \lx ɬo˧kʰv̩˧
@@ -31264,27 +31399,6 @@
 \xf se prosterner
 \dt 13/Jul/2017
 
-\lx lo˩qʰv̩˩
-\sf <nb="B"> 32
-\sf <nb="2011"> 43
-\or lokheu
-\ps n
-\sd <langue="fra"> environnement naturel
-\sd <langue="eng"> natural environment
-\ton L
-\lc lo˩qʰv̩˩˥
-\so <print="n"> F4
-\va <speaker="M21"> lu˩qʰv̩˩˧, ton m3
-\pdl classifier
-\pdv lo˩
-\de Gully; ravine; valley.
-\ge gully
-\dn 山沟
-\gn 山沟
-\df Vallée, gorge, ravin.
-\gf vallée/ravin
-\dt 04/Sep/2015
-
 \lx lo˩qo˧
 \or logho
 \ps n
@@ -31330,6 +31444,27 @@
 \gn 量词.饭锅
 \df Classificateur des casserolées de céréales (utilisant la casserole à céréales comme mesure de quantité de nourriture).
 \gf |fg{clf}.casserolées
+
+\lx lo˩qʰv̩˩
+\sf <nb="B"> 32
+\sf <nb="2011"> 43
+\or lokheu
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\ton L
+\lc lo˩qʰv̩˩˥
+\so <print="n"> F4
+\va <speaker="M21"> lu˩qʰv̩˩˧, ton m3
+\pdl classifier
+\pdv lo˩
+\de Gully; ravine; valley.
+\ge gully
+\dn 山沟
+\gn 山沟
+\df Vallée, gorge, ravin.
+\gf vallée/ravin
+\dt 04/Sep/2015
 
 \lx lo˩qʰwɤ˧
 \sf <nb="B"> 181
@@ -32053,22 +32188,6 @@
 \xn 吃完饭，就录音吧！ / 吃完饭就可以录音了！
 \xf Quand (on) aura fini de manger, (on) fera un enregistrement !
 \dt 24/Apr/2017
-
-\lx tje˩fæ˧
-\or RD
-\bw <langue="cmn"> 电饭（锅）
-\ps n
-\lc tje˩fæ˥
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
-\ton LM
-\so <print="n"> F4
-\de Electric rice cooker.
-\ge 电饭::rice_cooker
-\dn 电饭锅（汉语借词）
-\gn 电饭锅（借词）
-\df Cuiseur à riz électrique.
-\gf 电饭::cuiseur_à_riz
 
 \lx lv̩˧mi˧
 \sf <nb="B"> 54
@@ -33219,26 +33338,6 @@
 \xe |fg{dem} _ (tone: H# / H$)
 \xn 指示代词 _
 \xf |fg{dem} _ (tone: H# / H$)
-\dt 30/Apr/2017
-
-\lx ŋv̩˩α
-\or nguqAM
-\ps clf
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton Lα
-\lc ɖɯ˧ ŋv̩˩
-\so <print="n"> F4
-\de Classifier for waists.
-\ge |fg{clf}.waist
-\dn 量词：腰部
-\gn 量词.腰部
-\df Taille: taille d'un pantalon, d'une jupe.
-\gf |fg{clf}.taille
-\xv ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ŋv̩˩
-\xe one skirt waist
-\xn 一个裙子腰部
-\xf une taille de jupe
 \dt 30/Apr/2017
 
 \lx mæ˩α
@@ -34992,9 +35091,13 @@
 \xn 问了
 \xf |fg{pfv}
 \xv ə˧tso˧ mv̩˩do˩-bi˩? |
-\xe What would [you] like to ask? / What is your question?
-\xn 要问什么呢？
-\xf qu'est-ce que (tu) vas demander?
+\xe What would [you] like to ask? / What is your question? (Context: the investigator turns towards his teacher (Ama), obviously wanting to ask a question, but he is tardy in expressing his request, experiencing trouble finding his words in Na. The teacher encourages him by asking, in Na: “What is it you want to ask? / What is your question?”
+\xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭话表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
+\xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: “Qu'est-ce que tu vas demander? / Quelle est ta question?”)
+\xv mv̩˩do˩ zo˩-ɲi˥ mæ˩!
+\xe One should ask, of course! (Context: a discussion about awkward situations when someone is puzzled by someone else's behaviour, for instance when people with different language backgrounds and cultural backgrounds live alongside one another. Ama says: “One should ask, of course!” The idea is that conversations dispell misunderstandings and allow for good mutual understanding.
+\xn 应该问的啊！（情景：不同语言与文化背景的人在一起，如果不多交流，容易互相误会。阿妈觉得：不理解的，应该问一问，就知道了。愉快交流，才能好好一起生活。）
+\xf Il faut demander, bien sûr! (Contexte: lorsque des gens de langues et cultures différentes se trouvent ensemble, les malentendus sont vite venus; Ama préconise de poser des questions au sujet de ce qui paraît étonnant ou choquant, afin de comprendre. Pour vivre ensemble en bonne intelligence, il faut prendre soin de compléter son information à tout moment, pour ne pas laisser les malentendus s'installer.)
 \dt 25/Apr/2017
 
 \lx mv̩˩ɖɯ˩
@@ -35703,46 +35806,6 @@
 \xn 下去！（命令狗从主屋的地板下去：狗不准来上面）
 \xf Descends! (Ce qu'on dit au chien qui monte sur la partie haute de la cuisine, contrevenant à la règle)
 \dt 04/Sep/2015
-
-\lx di˩ʁo˩
-\or ddiwoqAM
-\ps adv
-\sd <langue="fra"> espace
-\sd <langue="eng"> space
-\ton L
-\lc di˩ʁo˩˥
-\so <print="n"> F4
-\de Uphill, up the slope, towards the top.
-\ge uphill
-\dn 上坡的，向上的，往上
-\gn 往上
-\df Vers le haut (d'une pente de montagne), vers l'amont.
-\gf amont
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
-\xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
-\xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
-\xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
-
-\lx di˩mæ˩
-\or ddimaeAM
-\ps adv
-\sd <langue="fra"> espace
-\sd <langue="eng"> space
-\ton L
-\lc di˩mæ˩˥
-\so <print="n"> F4
-\de Downhill, down the slope, towards the bottom.
-\ge downhill
-\dn 下坡的，向下的，往下
-\gn 往下
-\df Vers le bas (d'une pente de montagne), vers l'aval.
-\gf aval
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
-\xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
-\xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
-\xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
 
 \lx mv̩˩tʰi˩
 \or muti
@@ -40381,6 +40444,26 @@
 \dt 09/Sep/2015
 
 \lx ŋv̩˩α
+\or nguqAM
+\ps clf
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Lα
+\lc ɖɯ˧ ŋv̩˩
+\so <print="n"> F4
+\de Classifier for waists.
+\ge |fg{clf}.waist
+\dn 量词：腰部
+\gn 量词.腰部
+\df Taille: taille d'un pantalon, d'une jupe.
+\gf |fg{clf}.taille
+\xv ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ŋv̩˩
+\xe one skirt waist
+\xn 一个裙子腰部
+\xf une taille de jupe
+\dt 30/Apr/2017
+
+\lx ŋv̩˩α
 \sf <nb="B"> 2195
 \sf <nb="2011"> 2604
 \or ngu
@@ -41036,30 +41119,34 @@
 \gf déménager
 \dt 09/Sep/2015
 
-\lx kwæ˧ʂɯ˧˥
-\or guaeshi
-\bw <langue="cmn"> 惯+？
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="sem"> ce mot ne serait pas un emprunt, selon F4; la deuxième syllabe n'a pas été identifiée.
-\ton MH#
-\lc kwæ˧ʂɯ˧˥
+\lx pæ˥
+\or bae
+\ps clf
+\cf tɕʰi˩b, ʈʂo˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Hb
+\lc ɖɯ˧ ʈʂo˩
 \so <print="n"> F4
-\de To spoil (a child).
-\ge to_spoil
-\dn 惯坏、宠坏
-\gn 惯坏  
-\df Gâter (un enfant, une personne).
-\gf gâter
-\xv kwæ˧ʂɯ˧˥ | ʐwæ˩˥
-\xe to spoil (a child) terribly, to spoil (a child) very much
-\xn 宠坏很厉害、宠坏得很
-\xf gâter (un enfant) terriblement
-\xv ə˧mi˧ ɳɯ˧ kwæ˧ʂɯ˧ kʰɯ˥-ze˩!
-\xe The mother spoiled him/her! / His/her mother made him/her a spoilt child!
-\xn  妈妈给惯坏了！
-\xf Sa mère l'a gâté ! / Sa mère en a fait un enfant gâté !
+\de Classifier for meals.
+\ge |fg{clf}.meals
+\dn 量词：饭（一顿）
+\gn 量词.顿
+\df Classificateur des repas.
+\gf |fg{clf}.repas
+\xv ɖɯ˧-ʈʂo˩ tʰi˩-pæ˩ |
+\xe to serve a meal, to set a meal
+\xn 摆饭，摆饭桌
+\xf servir un repas
+\xv ʐo˩˥, | njɤ˧ ɖɯ˧-ʈʂo˩ pæ˩-bi˩!
+\xe For lunch, I will serve a (whole) meal! / I'm taking charge of lunch!
+\xn 我来管午饭这一顿！
+\xf au déjeuner, je vais (vous) servir (tout le) repas!
+\xv hɑ˧ ɖɯ˧-ʈʂo˩
+\xe a meal
+\xn 一顿饭
+\xf un repas
+\dt 27/Apr/2017
 
 \lx pʰæ˧˥
 \or paeq
@@ -41546,6 +41633,27 @@
 \gf 本身::en_soi
 \dt 09/Sep/2015
 
+\lx pe˩tɕi˧
+\or beijieAM
+\bw <langue="cmn"> 北京
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place
+\np <langue="fra"> syllabe /pe/: n'est attestée que dans les mots chinois.
+\ton LM
+\lc pe˩tɕi˥
+\so <print="n"> F4
+\de Beijing.
+\ge 北京::Beijing
+\dn 北京（汉语借词）
+\gn 北京（借词）
+\df Pékin.
+\gf 北京::Pékin
+\xv pe˩tɕi˧-hĩ#˥
+\xe Pekinese, person from Beijing
+\xn 北京人
+\xf Pékinois, personne de Pékin
+
 \lx pi˩˥
 \sf <nb="2011"> 947
 \or biq
@@ -41985,6 +42093,24 @@
 \df Double menton, bourrelet de chair sous le menton.
 \gf double_menton
 \dt 09/Sep/2015
+
+\lx pi˧tʰɑ˩
+\or bitaqAM
+\bw <langue="cmn"> 白糖
+\ps n
+\cf dze˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L#
+\lc pi˧tʰɑ˩
+\so <print="n"> F4
+\de White sugar.
+\ge 白糖::white_sugar
+\dn 白糖（汉语借词）
+\gn 白糖（借词）
+\df Sucre blanc.
+\gf 白糖::sucre_blanc
+\dt 03/Sep/2015
 
 \lx pʰi˩tʰɑ˩
 \sf <nb="B"> 2176
@@ -45711,7 +45837,11 @@
 \gn 小水渠
 \df Petite rigole, petit canal.
 \gf petit_canal
-\dt 01/Oct/2015
+\xv qʰæ˧lo˧ qwæ˥
+\xe to dig a small trench
+\xn 挖一个小水渠
+\xf creuser un petit canal
+\dt 30/Apr/2018
 
 \lx qʰæ˧mi˧
 \sf <nb="B"> 44
@@ -48708,111 +48838,6 @@
 \xf C'est guéri! / La fracture est rétablie!
 \dt 01/Oct/2015
 
-\lx ɻ̍̃˧
-\sf <nb="2011"> 350
-\or eun
-\ps n
-\sd <langue="fra"> société
-\sd <langue="eng"> society
-\nt <type="sem"> se retrouvent par exemple qd on tue le cochon.
-\ton M
-\lc ɻ̍̃˧
-\so <print="n"> F4
-\pdl classifier
-\pdv ɻ̍̃˧
-\de Clan.
-\ge clan
-\dn 家族
-\gn 家族
-\df Clan: ensemble de familles.
-\gf clan
-\xv ɻ̍̃˧ ɖɯ˧-ɻ̍̃˧
-\xe one clan
-\xn 一个家族
-\xf un clan
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˥
-\or eun
-\ps adj
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
-\ton H
-\lc ɻ̍̃˧
-\so <print="n"> F4
-\de Destitute, impoverished, poor; troubled, helpless.
-\ge destitute
-\dn 困难、贫穷
-\gn 困难
-\df Démuni, en mauvaise passe.
-\gf démuni
-\xv le˧-ɻ̍̃˥-ze˩!
-\xe [(S)he] is really poor/helpless!
-\xn （他）真的很穷苦！
-\xf (il) est en mauvaise passe!/il est à la rue!
-\xv le˧-ɻ̍̃˧-bi˧
-\xe |fg{accomp} _ |fg{fut_imm}
-\xn |fg{accomp} _ |fg{fut_imm}
-\xf |fg{accomp} _ |fg{fut_imm}
-\xc PHONO
-\xv mɤ˧-ɻ̍̃˥
-\xe |fg{neg}
-\xn |fg{neg}
-\xf |fg{neg}
-\xc PHONO
-\xv le˧-ɻ̍̃˧-zo˥, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
-\xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
-\xn 很困难，也还没有到饿死的程度啊！ / 再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
-\xf «Pour démuni/mal nourri/affamé qu'on soit, on n'en est pas encore maigre au point d'avoir les os à découvert!» Jeu de mots sur ‘démuni' et ‘ossement', qui sont homophones. Le proverbe sert à relativiser le malheur ressenti par quelqu'un.
-\xc PROVERBE
-\xv ɻ̍̃˧-ʐwɤ˧˥
-\xe to complain
-\xn 诉苦、抱怨
-\xf se plaindre
-\xv ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥
-\xe to tell one's miseries, to complain about one's fate
-\xn 诉苦、讲自己的不幸
-\xf raconter ses malheurs; se plaindre
-\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥!
-\xe He is unhappy; he spends his time complaining / he is always complaining!
-\xn 他不幸福，一直在讲自己怎么可怜！
-\xf Il est malheureux; il passe son temps à se plaindre!
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˥
-\sf <nb="B"> 214
-\sf <nb="2011"> 284
-\or eun
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\nt <type="hist" print="n"> (analyse phonémique 2007; auparavant: œ͂˞˥)
-\ton #H
-\lc ɻ̍̃˧
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\vf a) ʂæ˩ œ͂˞˩˥
-\vf d'abord noté ə˞͂˩˥
-\vf os ds la viande
-\vf b) œ͂˞˧
-\vf d'abord noté ə˞͂˧
-\vf idée de notation le 29 oct.: ɻ̍˧; est une erreur
-\vf TS me corrige lorsque je prononce ɑ͂˞˧; est plus fermé qu'une voyelle
-\vf vérifié: c'est bien la même syllabe, sauf le ton, que 168 “genou", œ͂˞˥ ku˩
-\vf os tout seul, ossement
-\vf confirmé le 6 novembre: n'est pas ɻ
-\va <speaker="M21"> ɻ̍̃˥, ton m4
-\vf tv
-\pdl classifier
-\pdv kɤ˧˥
-\de Bone.
-\ge bone
-\dn 骨头
-\gn 骨头
-\df Os, ossement.
-\gf os
-\dt 01/Oct/2015
-
 \lx ɻæ˩˥
 \sf <nb="B"> 2130
 \sf <nb="2011"> 3265
@@ -49768,120 +49793,6 @@
 \gn 丑
 \df Laid, vilain.
 \gf laid
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˧β
-\or eun
-\ps clf
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton Mβ
-\lc ɖɯ˧ ɻ̍̃˧
-\so <print="n"> F4
-\de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
-\ge |fg{clf}.clans
-\dn 量词：家族
-\gn 量词.家族
-\df Classificateur des clans / groupes de familles: littéralement ‘un os'. Echelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
-\gf |fg{clf}.clans
-\dt 30/Apr/2017
-
-\lx ɻ̍̃˧hæ˩
-\sf <nb="B"> 216
-\sf <nb="2011"> 287
-\or eunhae
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\nt <type="hist" print="n"> (vérifié en 09; ton d4) (note ancienne: “gifler", par erreur)
-\ton L#
-\lc ɻ̍̃˧hæ˩
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> *
-\va <speaker="M21"> ɻ̍̃˧ hæ˧˥
-\pdl classifier
-\pdv ɭɯ˧
-\pdv kɤ˧˥
-\de Cartilage.
-\ge cartilage
-\dn 软骨
-\gn 软骨
-\df Cartilage.
-\gf cartilage
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˧ko˩
-\sf <nb="B"> 2218
-\sf <nb="2011"> 239
-\or eungo
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
-\ton L#
-\lc ɻ̍̃˧ko˩
-\so <print="n"> F4
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
-\pdl classifier
-\pdv kɤ˧˥
-\de Shinbone, tibia.
-\ge shinbone
-\dn 胫骨
-\df Tibia.
-\gf tibia
-\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̍̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
-\xe The poor must not borrow money; the shinbone must not receive wounds! (Proverb, to explain that one must avoid hitting weak/sensitive spots.)
-\xn “穷人莫借钱，胫骨莫受伤！”
-\xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
-\xc PROVERBE
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˧kɤ˩
-\or eunge
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\nt <type="sem"> même sens que: sɯ˧ɻ̍̃˧mi#˥.
-\ton L#
-\lc ɻ̍̃˧kɤ˩
-\so <print="n"> F4
-\pdl classifier
-\pdv kɤ˧˥
-\de Backbone.
-\ge backbone
-\dn 脊椎骨
-\gn 脊椎骨
-\df Colonne vertébrale.
-\gf colonne_vertébrale
-\dt 01/Oct/2015
-
-\lx ɻ̍̃˧mi˧
-\sf <nb="B"> 2123
-\sf <nb="2011"> 3260
-\or eunmi
-\ps n
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\nt <type="hist" print="n"> (2006: noté oe͂˞˧mi˧)
-\ton M
-\lc ɻ̍̃˧mi˧
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\pdl classifier
-\pdv kɤ˧˥
-\de Tree trunk.
-\ge trunk
-\dn 树干
-\gn 树干
-\df Tronc.
-\gf tronc
-\xv si˧dzi˩-ɻ̍̃˩mi˩
-\xe tree trunk
-\xn 树干
-\xf tronc d'arbre
 \dt 01/Oct/2015
 
 \lx ʁo˩
@@ -51089,49 +51000,6 @@
 \xf Que les esprits [te/nous] bénissent!
 \dt 27/Apr/2017
 
-\lx ɻ̍̃˧ʈʂæ˩
-\sf <nb="2011"> 241
-\or eunzhae
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\nt <type="hist" print="n"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
-\ton L#
-\lc ɻ̍̃˧ʈʂæ˩
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> †ɖʐæ˩˥
-\pdl classifier
-\pdv ʈʂæ˧˥
-\de Ankle, joint (between the foot and the leg, the arm and the hand…).
-\ge joint
-\dn 关节部位，关节
-\gn 关节
-\df Articulations (de la jambe: la cheville, le genou…; du bras: le poignet, le coude…).
-\gf articulations
-\dt 02/Oct/2015
-
-\lx ɻ̍̃˧ʈʂwæ˩
-\or eunzhuae
-\ps n
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\nt <type="hist" print="n"> identification vérifiée en 2016 d'après le livre “Médecine Mosuo"
-\ton L#
-\lc ɻ̍̃˧ʈʂwæ˩
-\so <print="n"> F4
-\de Sambucus, |fi{Toricellia angulata Oliv.}
-\ge sambucus
-\dn 接骨丹
-\gn 接骨丹
-\df Sambucus, |fi{Toricellia angulata Oliv.}
-\gf sambucus
-\xv ɻ̍̃˧ʈʂwæ˩-si˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 06/Jun/2017
-
 \lx ʁv̩˧˥
 \sf <nb="B"> 2193
 \sf <nb="2011"> 2672
@@ -51488,22 +51356,6 @@
 \xn 完成了！
 \xf C'est achevé!
 \dt 06/Jun/2017
-
-\lx ʈʂɤ˧fv̩˧
-\or RD
-\bw <langue="cmn"> 照顾
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton M
-\lc ʈʂɤ˧fv̩˧
-\so <print="n"> F4
-\de To look after, to care for.
-\ge 照顾::to_look_after
-\dn 照顾（汉语借词）
-\gn 照顾（借词）
-\df S'occuper de, prendre soin de (quelqu'un).
-\gf 照顾::prendre_soin_de
 
 \lx ʁwæ˧tsɯ˥
 \sf <nb="B"> 435
@@ -51866,6 +51718,111 @@
 \xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
 \dt 27/Apr/2017
 
+\lx ɻ̍̃˧
+\sf <nb="2011"> 350
+\or eun
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\nt <type="sem"> se retrouvent par exemple qd on tue le cochon.
+\ton M
+\lc ɻ̍̃˧
+\so <print="n"> F4
+\pdl classifier
+\pdv ɻ̍̃˧
+\de Clan.
+\ge clan
+\dn 家族
+\gn 家族
+\df Clan: ensemble de familles.
+\gf clan
+\xv ɻ̍̃˧ ɖɯ˧-ɻ̍̃˧
+\xe one clan
+\xn 一个家族
+\xf un clan
+\dt 01/Oct/2015
+
+\lx ɻ̍̃˥
+\or eun
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton H
+\lc ɻ̍̃˧
+\so <print="n"> F4
+\de Destitute, impoverished, poor; troubled, helpless.
+\ge destitute
+\dn 困难、贫穷
+\gn 困难
+\df Démuni, en mauvaise passe.
+\gf démuni
+\xv le˧-ɻ̍̃˥-ze˩!
+\xe [(S)he] is really poor/helpless!
+\xn （他）真的很穷苦！
+\xf (il) est en mauvaise passe!/il est à la rue!
+\xv le˧-ɻ̍̃˧-bi˧
+\xe |fg{accomp} _ |fg{fut_imm}
+\xn |fg{accomp} _ |fg{fut_imm}
+\xf |fg{accomp} _ |fg{fut_imm}
+\xc PHONO
+\xv mɤ˧-ɻ̍̃˥
+\xe |fg{neg}
+\xn |fg{neg}
+\xf |fg{neg}
+\xc PHONO
+\xv le˧-ɻ̍̃˧-zo˥, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
+\xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
+\xn 很困难，也还没有到饿死的程度啊！ / 再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
+\xf «Pour démuni/mal nourri/affamé qu'on soit, on n'en est pas encore maigre au point d'avoir les os à découvert!» Jeu de mots sur ‘démuni' et ‘ossement', qui sont homophones. Le proverbe sert à relativiser le malheur ressenti par quelqu'un.
+\xc PROVERBE
+\xv ɻ̍̃˧-ʐwɤ˧˥
+\xe to complain
+\xn 诉苦、抱怨
+\xf se plaindre
+\xv ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥
+\xe to tell one's miseries, to complain about one's fate
+\xn 诉苦、讲自己的不幸
+\xf raconter ses malheurs; se plaindre
+\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̍̃˧-ʐwɤ˧ | dɑ˧-ʐwɤ˧-ɻ̍˥!
+\xe He is unhappy; he spends his time complaining / he is always complaining!
+\xn 他不幸福，一直在讲自己怎么可怜！
+\xf Il est malheureux; il passe son temps à se plaindre!
+\dt 01/Oct/2015
+
+\lx ɻ̍̃˥
+\sf <nb="B"> 214
+\sf <nb="2011"> 284
+\or eun
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\nt <type="hist" print="n"> (analyse phonémique 2007; auparavant: œ͂˞˥)
+\ton #H
+\lc ɻ̍̃˧
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\vf a) ʂæ˩ œ͂˞˩˥
+\vf d'abord noté ə˞͂˩˥
+\vf os ds la viande
+\vf b) œ͂˞˧
+\vf d'abord noté ə˞͂˧
+\vf idée de notation le 29 oct.: ɻ̍˧; est une erreur
+\vf TS me corrige lorsque je prononce ɑ͂˞˧; est plus fermé qu'une voyelle
+\vf vérifié: c'est bien la même syllabe, sauf le ton, que 168 “genou", œ͂˞˥ ku˩
+\vf os tout seul, ossement
+\vf confirmé le 6 novembre: n'est pas ɻ
+\va <speaker="M21"> ɻ̍̃˥, ton m4
+\vf tv
+\pdl classifier
+\pdv kɤ˧˥
+\de Bone.
+\ge bone
+\dn 骨头
+\gn 骨头
+\df Os, ossement.
+\gf os
+\dt 01/Oct/2015
+
 \lx ɻ̍˩
 \or er
 \ps n
@@ -51888,6 +51845,22 @@
 \xn 四面
 \xf les quatre directions, les quatre côtés (d'une maison)
 \dt 22/Jun/2017
+
+\lx ɻ̍̃˧β
+\or eun
+\ps clf
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Mβ
+\lc ɖɯ˧ ɻ̍̃˧
+\so <print="n"> F4
+\de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
+\ge |fg{clf}.clans
+\dn 量词：家族
+\gn 量词.家族
+\df Classificateur des clans / groupes de familles: littéralement ‘un os'. Echelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
+\gf |fg{clf}.clans
+\dt 30/Apr/2017
 
 \lx ɻ̍˩β
 \sf <nb="B"> 694
@@ -51960,6 +51933,104 @@
 \xf je vais dire toute la vérité/je vais faire la lumière!
 \dt 01/Oct/2015
 
+\lx ɻ̍̃˧hæ˩
+\sf <nb="B"> 216
+\sf <nb="2011"> 287
+\or eunhae
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\nt <type="hist" print="n"> (vérifié en 09; ton d4) (note ancienne: “gifler", par erreur)
+\ton L#
+\lc ɻ̍̃˧hæ˩
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> *
+\va <speaker="M21"> ɻ̍̃˧ hæ˧˥
+\pdl classifier
+\pdv ɭɯ˧
+\pdv kɤ˧˥
+\de Cartilage.
+\ge cartilage
+\dn 软骨
+\gn 软骨
+\df Cartilage.
+\gf cartilage
+\dt 01/Oct/2015
+
+\lx ɻ̍̃˧ko˩
+\sf <nb="B"> 2218
+\sf <nb="2011"> 239
+\or eungo
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\nt <type="hist" print="n"> (avant 09: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
+\ton L#
+\lc ɻ̍̃˧ko˩
+\so <print="n"> F4
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\pdl classifier
+\pdv kɤ˧˥
+\de Shinbone, tibia.
+\ge shinbone
+\dn 胫骨
+\df Tibia.
+\gf tibia
+\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̍̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
+\xe The poor must not borrow money; the shinbone must not receive wounds! (Proverb, to explain that one must avoid hitting weak/sensitive spots.)
+\xn “穷人莫借钱，胫骨莫受伤！”
+\xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
+\xc PROVERBE
+\dt 01/Oct/2015
+
+\lx ɻ̍̃˧kɤ˩
+\or eunge
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\nt <type="sem"> même sens que: sɯ˧ɻ̍̃˧mi#˥.
+\ton L#
+\lc ɻ̍̃˧kɤ˩
+\so <print="n"> F4
+\pdl classifier
+\pdv kɤ˧˥
+\de Backbone.
+\ge backbone
+\dn 脊椎骨
+\gn 脊椎骨
+\df Colonne vertébrale.
+\gf colonne_vertébrale
+\dt 01/Oct/2015
+
+\lx ɻ̍̃˧mi˧
+\sf <nb="B"> 2123
+\sf <nb="2011"> 3260
+\or eunmi
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\nt <type="hist" print="n"> (2006: noté oe͂˞˧mi˧)
+\ton M
+\lc ɻ̍̃˧mi˧
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\pdl classifier
+\pdv kɤ˧˥
+\de Tree trunk.
+\ge trunk
+\dn 树干
+\gn 树干
+\df Tronc.
+\gf tronc
+\xv si˧dzi˩-ɻ̍̃˩mi˩
+\xe tree trunk
+\xn 树干
+\xf tronc d'arbre
+\dt 01/Oct/2015
+
 \lx ɻ̍˧qʰv̩˧
 \sf <nb="B"> 2245
 \sf <nb="B"> 2194
@@ -52028,6 +52099,28 @@
 \gf ganglions
 \dt 02/Oct/2015
 
+\lx ɻ̍̃˧ʈʂæ˩
+\sf <nb="2011"> 241
+\or eunzhae
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\nt <type="hist" print="n"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
+\ton L#
+\lc ɻ̍̃˧ʈʂæ˩
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> †ɖʐæ˩˥
+\pdl classifier
+\pdv ʈʂæ˧˥
+\de Ankle, joint (between the foot and the leg, the arm and the hand…).
+\ge joint
+\dn 关节部位，关节
+\gn 关节
+\df Articulations (de la jambe: la cheville, le genou…; du bras: le poignet, le coude…).
+\gf articulations
+\dt 02/Oct/2015
+
 \lx ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩
 \or Erchei Ddeema
 \ps n
@@ -52075,6 +52168,27 @@
 \df Prénom masculin.
 \gf prénom_masculin
 \dt 02/Oct/2015
+
+\lx ɻ̍̃˧ʈʂwæ˩
+\or eunzhuae
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\nt <type="hist" print="n"> identification vérifiée en 2016 d'après le livre “Médecine Mosuo"
+\ton L#
+\lc ɻ̍̃˧ʈʂwæ˩
+\so <print="n"> F4
+\de Sambucus, |fi{Toricellia angulata Oliv.}
+\ge sambucus
+\dn 接骨丹
+\gn 接骨丹
+\df Sambucus, |fi{Toricellia angulata Oliv.}
+\gf sambucus
+\xv ɻ̍̃˧ʈʂwæ˩-si˩
+\xe same meaning
+\xn 同上
+\xf même sens
+\dt 06/Jun/2017
 
 \lx sɑ˧˥
 \or saq
@@ -52329,6 +52443,27 @@
 \xf il n'y a pas de différences de longueur (=c'est très bien)! (Même contexte que ci-dessus: choix d'arbres à abattre pour obtenir du bois de charpente)
 \dt 05/Oct/2015
 
+\lx ʂæ˧hæ˥
+\or shaehaeAM
+\bw <langue="cmn"> 上海
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place
+\np <langue="fra"> 
+\ton H#
+\lc ʂæ˧hæ˥
+\so <print="n"> F4
+\de Shanghai.
+\ge 上海::Shanghai
+\dn 上海（汉语借词）
+\gn 上海（借词）
+\df Shanghaï.
+\gf 上海::Shanghaï
+\xv ʂæ˧hæ˥-hĩ˩
+\xe person from Shanghai
+\xn 上海人
+\xf Shanghaïen, personne de Shanghaï
+
 \lx ʂæ˥-ljɤ˩
 \or shaelia
 \bw <langue="cmn"> 商量
@@ -52433,6 +52568,23 @@
 \xf fil de lin
 \dt 31/Jul/2017
 
+\lx ʂæ˧ʁwɤ˩
+\or Shaewua
+\bw Naxi fv:/sɑ˥wɤ˧/
+\ps n
+\lc ʂæ˧ʁwɤ˩
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L#
+\so <print="n"> F4
+\de Shuhe: the name of a village in the Lijiang plain.
+\ge village_of_Shuhe
+\dn 束河（旧称：龙泉）：丽江坝子里的一个村落。由于束河商人多，经常有束河人到永宁等地，使得相当多的永宁人熟悉那个村落名。
+\gn 束河村
+\df Nom d'un village de la plaine de Lijiang: Shuhe, anciennement Longquan. Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, ce qui a valu à cette localité d'être connue jusqu'à Yongning.
+\gf village_de_Shuhe
+\dt 27/Apr/2017
+
 \lx ʂæ˩ɻ̍̃˩
 \sf <nb="2011"> 285
 \or shae'eun
@@ -52453,22 +52605,24 @@
 \gf os
 \dt 27/Apr/2017
 
-\lx ʂæ˧ʁwɤ˩
-\or Shaewua
-\bw Naxi fv:/sɑ˥wɤ˧/
+\lx ʂɑ˩tʰɑ˧-dze#˥
+\or hotaqAM
+\bw <langue="cmn"> 砂糖
 \ps n
-\lc ʂæ˧ʁwɤ˩
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place name
-\ton L#
+\cf ho˩tʰɑ˩˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n"> Sens indiqué par TS en 2018.
+\ton L
+\lc ʂɑ˩tʰɑ˧-dze˧
 \so <print="n"> F4
-\de Shuhe: the name of a village in the Lijiang plain.
-\ge village_of_Shuhe
-\dn 束河（旧称：龙泉）：丽江坝子里的一个村落。由于束河商人多，经常有束河人到永宁等地，使得相当多的永宁人熟悉那个村落名。
-\gn 束河村
-\df Nom d'un village de la plaine de Lijiang: Shuhe, anciennement Longquan. Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, ce qui a valu à cette localité d'être connue jusqu'à Yongning.
-\gf village_de_Shuhe
-\dt 27/Apr/2017
+\de Red sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to red sugar, not to sugar powder (in fact, red sugar used to come as blocks, not as powder).
+\ge red_sugar
+\dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭话的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
+\gn 红糖
+\df Sucre roux, sucre intégral, suc de canne séché. Emprunt ancien au chinois: au mot chinois pour ‘sucre en poudre’ est ajouté le mot na pour ‘sucre’, et l'ensemble désigne spécifiquement le sucre intégral, qui se présentait sous forme de blocs (pains de sucre), et non sous forme de poudre.
+\gf 红糖::sucre_roux
+\dt 03/Sep/2015
 
 \lx sɑ˧tɕɯ˧
 \sf <nb="B"> 201
@@ -54718,37 +54872,6 @@
 \xn 重叠
 \xf |fg{red}
 
-\lx ɖæ˩ʂo˩
-\or shoq
-\ps v
-\cf ʂo˧˥1
-\ton L
-\lc ɖæ˩ʂo˩˥
-\sn 1
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M23"> ID.
-\de To slide down.
-\ge to_slide
-\dn 往下滑
-\gn 往下滑
-\df Glisser; dévaler une pente en glissant.
-\gf glisser
-\sn 2
-\de Cunning, dishonest.
-\ge cunning
-\dn 滑头
-\gn 滑头
-\df Malhonnête, faux-jeton, fuyant.
-\gf malhonnête
-\xv no˧ | ɖæ˩ʂo˩~ɖæ˥ʂo˩! |
-\xe You are really cunning! (A criticism of someone who is not direct, not honest, who does not have a proper attitude: giving a slimy impression.)
-\xn 你真滑头！
-\xf Tu es bien malhonnête! (Critique de quelqu'un qui n'est pas franc et direct, qui est faux jeton, qui n'a pas une bonne attitude, donnant une impression huileuse: qui s'esquive et se dérobe, comme un objet glissant qui se dérobe à la prise.)
-\dt 06/Oct/2015
-
 \lx ʂo˧˥
 \sf <nb="B"> 993
 \sf <nb="B"> 997a
@@ -54938,6 +55061,24 @@
 \gf l_an_prochain
 \dt 27/Apr/2017
 
+\lx ʂo˧li˧
+\or sholiAM
+\bw <langue="cmn"> 水利
+\ps n
+\lc ʂo˧li˧
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\ton M
+\so <print="n"> F4
+\vf emprunt
+\de Irrigation works.
+\ge 水利::irrigation_works
+\dn 水利（汉语借词）
+\gn 水利（借词）
+\df Réseau d'irrigation.
+\gf 水利::réseau_d_irrigation
+\dt 30/Apr/2018
+
 \lx so˧ɬi˧mi˧
 \sf <nb="B"> 779
 \sf <nb="2011"> 1175
@@ -55119,6 +55260,25 @@
 \xn 家收拾得干干净净
 \xf ranger la maison, qu'elle soit bien propre
 \dt 06/Oct/2015
+
+\lx ʂo˧qo˧-tʰɑ˩
+\or hotaqAM
+\bw <langue="cmn"> 水果糖
+\ps n
+\cf
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n"> 
+\ton -L
+\lc ʂo˧qo˧tʰɑ˩
+\so <print="n"> F4
+\de Fruit candy, fruit-flavoured candy.
+\ge 水果糖::fruit_candy
+\dn 水果糖（汉语借词）
+\gn 水果糖（借词）
+\df Bonbon aux fruits, bonbon parfumé aux fruits.
+\gf 水果糖::bonbon_aux_fruits
+\dt 01/May/2018
 
 \lx sɤ˧sɤ˧˥
 \sf <nb="B"> 1090b
@@ -56141,6 +56301,50 @@
 \gf table
 \dt 13/Jul/2017
 
+\lx sɯ˩ɻ̍˩
+\sf <nb="2011"> 713
+\or si'er
+\ps n
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\nt <type="hist" print="n"> (vérifié en 09: n'est pas /si/)
+\ton L
+\lc sɯ˩ɻ̍˩˥
+\so <print="n"> F4
+\pdl classifier
+\pdv ɭɯ˧
+\de Whetting-stone.
+\ge whetting_stone
+\dn 磨刀石
+\gn 磨刀石
+\df Pierre à aiguiser, «fusil».
+\gf pierre_à_aiguiser
+\dt 04/Aug/2017
+
+\lx sɯ˧ɻ̍˧
+\sf <nb="B"> 2226a
+\sf <nb="2011"> 570
+\or si'er
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\nt <type="hist" print="n"> (confirmé lors du terrain 09: est /sɯ/ et non /si/) (ton confirmé à nouveau en avril 09: est d1; chez M23, en revanche, est d2a) (forme une paire minimale avec sɯ˧ɻæ˧ “table")
+\ton M
+\lc sɯ˧ɻ̍˧
+\so <print="n"> F4
+\va <speaker="M21"> sɯ˧ɻ̍˧, ton d2a
+\vf pas le même ton que F4): petites perles rouges, ss doute faites à partir de corail ou autre coquillage
+\va <speaker="M23"> ID.
+\pdl classifier
+\pdv ɭɯ˧
+\de Bead, pearl.
+\ge bead
+\dn 珠，珠子，珍珠
+\gn 珠
+\df Perle.
+\gf perle
+\dt 04/Aug/2017
+
 \lx sɯ˧ɻ̍̃˧mi#˥
 \sf <nb="B"> 217
 \sf <nb="2011"> 288
@@ -56170,26 +56374,6 @@
 \gf colonne_vertébrale
 \dt 09/Oct/2015
 
-\lx sɯ˩ɻ̍˩
-\sf <nb="2011"> 713
-\or si'er
-\ps n
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
-\nt <type="hist" print="n"> (vérifié en 09: n'est pas /si/)
-\ton L
-\lc sɯ˩ɻ̍˩˥
-\so <print="n"> F4
-\pdl classifier
-\pdv ɭɯ˧
-\de Whetting-stone.
-\ge whetting_stone
-\dn 磨刀石
-\gn 磨刀石
-\df Pierre à aiguiser, «fusil».
-\gf pierre_à_aiguiser
-\dt 04/Aug/2017
-
 \lx sɯ˧ɻ̍̃#˥
 \or see'eun
 \ps n
@@ -56211,30 +56395,6 @@
 \xn 这是棵好树！（可以用做木料）
 \xf Cet arbre, il a un beau tronc! (c'est-à-dire qu'il est utilisable en menuiserie)
 \dt 23/Jun/2017
-
-\lx sɯ˧ɻ̍˧
-\sf <nb="B"> 2226a
-\sf <nb="2011"> 570
-\or si'er
-\ps n
-\sd <langue="fra"> vêtement
-\sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (confirmé lors du terrain 09: est /sɯ/ et non /si/) (ton confirmé à nouveau en avril 09: est d1; chez M23, en revanche, est d2a) (forme une paire minimale avec sɯ˧ɻæ˧ “table")
-\ton M
-\lc sɯ˧ɻ̍˧
-\so <print="n"> F4
-\va <speaker="M21"> sɯ˧ɻ̍˧, ton d2a
-\vf pas le même ton que F4): petites perles rouges, ss doute faites à partir de corail ou autre coquillage
-\va <speaker="M23"> ID.
-\pdl classifier
-\pdv ɭɯ˧
-\de Bead, pearl.
-\ge bead
-\dn 珠，珠子，珍珠
-\gn 珠
-\df Perle.
-\gf perle
-\dt 04/Aug/2017
 
 \lx sɯ˧sɯ˩
 \sf <nb="B"> 1006
@@ -56362,6 +56522,24 @@
 \xn 弄得平滑了
 \xf on l'a bien lissé, on l'a rendu bien lisse
 \dt 23/Jun/2017
+
+\lx ʂɯ˩tse˧˥
+\or shizeiAM
+\bw <langue="cmn"> 实在
+\ps adv
+\lc ʂɯ˩tse˧˥
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton LM+MH#
+\so <print="n"> F4
+\vf emprunt
+\de Indeed, really, honestly
+\ge 实在::really
+\dn 实在（汉语借词）
+\gn 实在（借词）
+\df Vraiment, réellement, honnêtement.
+\gf 实在::vraiment
+\dt 01/May/2018
 
 \lx ʂɯ˧tsʰi˩
 \sf <nb="B"> 835
@@ -57351,35 +57529,6 @@
 \xf fumer de la viande
 \dt 09/Oct/2015
 
-\lx tɑ˧nɑ˧
-\sf <nb="B"> 1591
-\sf <nb="2011"> 2252
-\or dana
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> 
-\cf ʂwæ˩a
-\ton M
-\lc tɑ˧nɑ˧
-\so <print="n"> F4
-\vf selon ts, “ce n'est pas dans les coutumes"
-\de To cure (meat etc) with smoke.
-\ge to_cure_with_smoke
-\dn 熏
-\gn 熏
-\df Fumer (aliment).
-\gf fumer
-\xv ʂe˧ tɑ˧nɑ˧
-\xe to cure meat with smoke
-\xn 熏肉
-\xf fumer de la viande
-\xv ʂe˧ tɑ˧nɑ˧-ze˩
-\xe to cure meat with smoke
-\xn 熏肉
-\xf fumer de la viande
-\dt 09/Oct/2015
-
 \lx ʂwæ˧α
 \sf <nb="B"> 2217
 \sf <nb="2011"> 2231
@@ -58177,6 +58326,35 @@
 \gf arbalète
 \dt 09/Oct/2015
 
+\lx tɑ˧nɑ˧
+\sf <nb="B"> 1591
+\sf <nb="2011"> 2252
+\or dana
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> 
+\cf ʂwæ˩a
+\ton M
+\lc tɑ˧nɑ˧
+\so <print="n"> F4
+\vf selon ts, “ce n'est pas dans les coutumes"
+\de To cure (meat etc) with smoke.
+\ge to_cure_with_smoke
+\dn 熏
+\gn 熏
+\df Fumer (aliment).
+\gf fumer
+\xv ʂe˧ tɑ˧nɑ˧
+\xe to cure meat with smoke
+\xn 熏肉
+\xf fumer de la viande
+\xv ʂe˧ tɑ˧nɑ˧-ze˩
+\xe to cure meat with smoke
+\xn 熏肉
+\xf fumer de la viande
+\dt 09/Oct/2015
+
 \lx tʰɑ˧-ni˥-ni˩-gv̩˩
 \or tani niggu
 \ps adv
@@ -58193,6 +58371,27 @@
 \df Comparable à, semblable à, similaire à.
 \gf comparable
 \dt 27/Apr/2017
+
+\lx ʈʰæ˩ŋv̩˩
+\or taenguAM
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\ton L
+\lc ʈʰæ˩ŋv̩˩˥
+\so <print="n"> F4
+\pdl classifier
+\pdv ŋv̩˩a
+\de Waist of the skirt.
+\ge waist_of_the_skirt
+\dn 裙子的上部分：腰部
+\gn 裙子腰部
+\df La taille, le haut de la jupe: la partie qui couvre les hanches.
+\gf taille_de_la_jupe
+\xv ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ŋv̩˩
+\xe one skirt waist
+\xn 一个裙子腰部
+\xf une taille de jupe
 
 \lx tɑ˧pi˧
 \hm 1
@@ -58260,90 +58459,6 @@
 \xf |fg{pfv}
 \xc PHONO
 \dt 23/Jun/2017
-
-\lx pe˩tɕi˧
-\or beijieAM
-\bw <langue="cmn"> 北京
-\ps n
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place
-\np <langue="fra"> syllabe /pe/: n'est attestée que dans les mots chinois.
-\ton LM
-\lc pe˩tɕi˥
-\so <print="n"> F4
-\de Beijing.
-\ge 北京::Beijing
-\dn 北京（汉语借词）
-\gn 北京（借词）
-\df Pékin.
-\gf 北京::Pékin
-\xv pe˩tɕi˧-hĩ#˥
-\xe Pekinese, person from Beijing
-\xn 北京人
-\xf Pékinois, personne de Pékin
-
-\lx tʰæ˩ʁwæ˧
-\or taewae
-\bw <langue="cmn"> 台湾
-\ps n
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place
-\np <langue="fra"> 
-\ton LM
-\lc tʰæ˩ʁwæ˥
-\so <print="n"> F4
-\de Taiwan.
-\ge 台湾::Taiwan
-\dn 台湾（汉语借词）
-\gn 台湾（借词）
-\df Taïwan.
-\gf 台湾::Taïwan
-\xv tʰæ˩ʁwæ˧-hĩ#˥
-\xe Taiwanese, person from Beijing
-\xn 台湾人
-\xf Taïwanais, personne de Taïwan
-
-\lx ʐɯ˩pe˧
-\or rebei
-\bw <langue="cmn"> 日本
-\ps n
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place
-\np <langue="fra"> 
-\ton LM
-\lc ʐɯ˩pe˥
-\so <print="n"> F4
-\de Japan.
-\ge 日本::Japan
-\dn 日本（汉语借词）
-\gn 日本（借词）
-\df Japon.
-\gf 日本::Japon
-\xv ʐɯ˩pe˧-hĩ#˥
-\xe Japanese, person from Japan
-\xn 日本人
-\xf Japonais, personne du Japon
-
-\lx ʂæ˧hæ˥
-\or shaehaeAM
-\bw <langue="cmn"> 上海
-\ps n
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place
-\np <langue="fra"> 
-\ton H#
-\lc ʂæ˧hæ˥
-\so <print="n"> F4
-\de Shanghai.
-\ge 上海::Shanghai
-\dn 上海（汉语借词）
-\gn 上海（借词）
-\df Shanghaï.
-\gf 上海::Shanghaï
-\xv ʂæ˧hæ˥-hĩ˩
-\xe person from Shanghai
-\xn 上海人
-\xf Shanghaïen, personne de Shanghaï
 
 \lx tɑ˧pi˧
 \or dabi
@@ -58519,48 +58634,6 @@
 \gf jupe
 \dt 09/Oct/2015
 
-\lx ʈʰæ˩ŋv̩˩
-\or taenguAM
-\ps n
-\sd <langue="fra"> vêtement
-\sd <langue="eng"> clothing
-\ton L
-\lc ʈʰæ˩ŋv̩˩˥
-\so <print="n"> F4
-\pdl classifier
-\pdv ŋv̩˩a
-\de Waist of the skirt.
-\ge waist_of_the_skirt
-\dn 裙子的上部分：腰部
-\gn 裙子腰部
-\df La taille, le haut de la jupe: la partie qui couvre les hanches.
-\gf taille_de_la_jupe
-\xv ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ŋv̩˩
-\xe one skirt waist
-\xn 一个裙子腰部
-\xf une taille de jupe
-
-\lx ɬi˧ŋv̩˥
-\or lhinguAM
-\ps n
-\sd <langue="fra"> vêtement
-\sd <langue="eng"> clothing
-\ton H#
-\lc ɬi˧ŋv̩˥
-\so <print="n"> F4
-\pdl classifier
-\pdv ŋv̩˩a
-\de Waist of the trousers.
-\ge waist_of_the_trousers
-\dn 裤子的上部分：腰部
-\gn 裤子腰部
-\df Le haut du pantalon: la partie qui couvre les hanches.
-\gf haut_du_pantalon
-\xv ɬi˧ŋv̩˥ | ɖɯ˧-ŋv̩˩
-\xe one trousers waist
-\xn 一个裤子腰部
-\xf une taille de pantalon
-
 \lx tæ˧ɻæ˩
 \sf <nb="B"> 129
 \sf <nb="B"> 131
@@ -58613,6 +58686,27 @@
 \df Livre.
 \gf livre
 \dt 09/Oct/2015
+
+\lx tʰæ˩ʁwæ˧
+\or taewae
+\bw <langue="cmn"> 台湾
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place
+\np <langue="fra"> 
+\ton LM
+\lc tʰæ˩ʁwæ˥
+\so <print="n"> F4
+\de Taiwan.
+\ge 台湾::Taiwan
+\dn 台湾（汉语借词）
+\gn 台湾（借词）
+\df Taïwan.
+\gf 台湾::Taïwan
+\xv tʰæ˩ʁwæ˧-hĩ#˥
+\xe Taiwanese, person from Beijing
+\xn 台湾人
+\xf Taïwanais, personne de Taïwan
 
 \lx tɑ˩so˩kʰo˥
 \or dasoko
@@ -60382,6 +60476,23 @@
 \gf autel
 \dt 08/Oct/2015
 
+\lx tɕʰɤ˩ʂɯ˩kɤ˩
+\or qiashike
+\bw <langue="cmn"> 前时刻
+\ps n
+\sd <langue="fra"> temps
+\sd <langue="eng"> time
+\nt <type="hist" print="n"> xxxx à confirmer: /k/ ou /kʰ/
+\ton L
+\lc tɕʰɤ˩ʂɯ˩kɤ˩˥
+\so <print="n"> F4
+\de Yesteryear, in the old times, in earlier times.
+\ge 前时刻::in_earlier_times
+\dn 以前、在过去（汉语借词：‘前时刻’）
+\gn 以前
+\df Autrefois, dans le temps.
+\gf 前时刻::autrefois
+
 \lx tɕɤ˧tɑ˧
 \sf <nb="B"> 581c
 \sf <nb="2011"> 823
@@ -61731,6 +61842,26 @@
 \xf sucer son pouce
 \dt 27/Apr/2017
 
+\lx te˧˥α
+\or dei
+\ps clf
+\cf ʈʂʰæ˧˥
+\lc ɖɯ˧ te˧˥
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton MHα
+\so <print="n"> F4
+\de Classifier for generations.
+\ge 代::|fg{clf}.generation
+\dn 量词：代（汉语借词）
+\gn 量词.代（借词）
+\df Classificateur des générations.
+\gf 代::|fg{clf}.générations
+\xv ʈʂʰɯ˧-te˩
+\xe this generation
+\xn 这代
+\xf cette génération
+
 \lx ti˧
 \or di
 \ps v
@@ -61944,32 +62075,6 @@
 \df Traiter (quelqu'un).
 \gf 对待::traiter
 \dt 04/Sep/2017
-
-\lx ɕjɤ˧pʰje˥
-\or xepia
-\bw <langue="cmn"> 相片
-\ps n
-\cf pɤ˧lɑ˩
-\lc ɕjɤ˧pʰje˥
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
-\np <langue="eng"> phonetic realization: close to [ɕjɤ˧pʰjɛ˥]
-\ton H#
-\so <print="n"> F4
-\de Photograph.
-\ge 相片::photograph
-\dn 相片（汉语借词）
-\gn 相片（借词）
-\df Photographie.
-\gf 相片::photographie
-\xv ɕjɤ˧pʰje˥ | le˧-lɑ˧˥
-\xe to take a picture
-\xn 拍相片
-\xf prendre une photo
-\xv ɕjɤ˧pʰje˥ | le˧-pʰæ˩
-\xe to take a picture (the verb is a Chinese loanword)
-\xn 拍相片（动词是汉语借词）
-\xf prendre une photo (le verbe est un emprunt au chinois)
 
 \lx ti˧tsɯ˥
 \sf <nb="B"> 488b
@@ -62295,6 +62400,22 @@
 \xn 我累了！
 \xf je suis fatigué!
 \dt 24/Jul/2017
+
+\lx tje˩fæ˧
+\or RD
+\bw <langue="cmn"> 电饭（锅）
+\ps n
+\lc tje˩fæ˥
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton LM
+\so <print="n"> F4
+\de Electric rice cooker.
+\ge 电饭::rice_cooker
+\dn 电饭锅（汉语借词）
+\gn 电饭锅（借词）
+\df Cuiseur à riz électrique.
+\gf 电饭::cuiseur_à_riz
 
 \lx tjɤ˧hwɑ˧˥
 \or diahua
@@ -63910,26 +64031,6 @@
 \gn 量词.代
 \df Classificateur des générations.
 \gf |fg{clf}.générations
-
-\lx te˧˥α
-\or RD
-\ps clf
-\cf ʈʂʰæ˧˥
-\lc ɖɯ˧ te˧˥
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton MHα
-\so <print="n"> F4
-\de Classifier for generations.
-\ge 代::|fg{clf}.generation
-\dn 量词：代（汉语借词）
-\gn 量词.代（借词）
-\df Classificateur des générations.
-\gf 代::|fg{clf}.générations
-\xv ʈʂʰɯ˧-te˩
-\xe this generation
-\xn 这代
-\xf cette génération
 
 \lx ʈʂʰæ˥
 \sf <nb="B"> 1567
@@ -66953,51 +67054,6 @@
 \gf rendre
 \dt 07/Oct/2015
 
-\lx ʈʂo˩β
-\or zho
-\ps clf
-\cf tɕʰi˩b
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton Lb
-\lc ɖɯ˧ ʈʂo˩
-\so <print="n"> F4
-\de Classifier for services inside a meal (a first service for guests and elders, another for children, and finally one for other family members).
-\ge |fg{clf}.services
-\dn 量词：饭（一顿）
-\gn 量词.顿
-\df Classificateur des services au cours d'un repas.
-\gf |fg{clf}.services
-
-\lx pæ˥
-\or bae
-\ps clf
-\cf tɕʰi˩b, ʈʂo˩
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton Hb
-\lc ɖɯ˧ ʈʂo˩
-\so <print="n"> F4
-\de Classifier for meals.
-\ge |fg{clf}.meals
-\dn 量词：饭（一顿）
-\gn 量词.顿
-\df Classificateur des repas.
-\gf |fg{clf}.repas
-\xv ɖɯ˧-ʈʂo˩ tʰi˩-pæ˩ |
-\xe to serve a meal, to set a meal
-\xn 摆饭，摆饭桌
-\xf servir un repas
-\xv ʐo˩˥, | njɤ˧ ɖɯ˧-ʈʂo˩ pæ˩-bi˩!
-\xe For lunch, I will serve a (whole) meal! / I'm taking charge of lunch!
-\xn 我来管午饭这一顿！
-\xf au déjeuner, je vais (vous) servir (tout le) repas!
-\xv hɑ˧ ɖɯ˧-ʈʂo˩
-\xe a meal
-\xn 一顿饭
-\xf un repas
-\dt 27/Apr/2017
-
 \lx ʈʂʰo˥
 \or cho
 \ps v
@@ -67052,6 +67108,22 @@
 \xn 重叠
 \xf forme rédupliquée: trépigner, sautiller ici et là
 \dt 27/Apr/2017
+
+\lx ʈʂo˩β
+\or zho
+\ps clf
+\cf tɕʰi˩b
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Lb
+\lc ɖɯ˧ ʈʂo˩
+\so <print="n"> F4
+\de Classifier for services inside a meal (a first service for guests and elders, another for children, and finally one for other family members).
+\ge |fg{clf}.services
+\dn 量词：饭（一顿）
+\gn 量词.顿
+\df Classificateur des services au cours d'un repas.
+\gf |fg{clf}.services
 
 \lx ʈʂʰo˧β
 \sf <nb="B"> 1522
@@ -67269,6 +67341,22 @@
 \df Marche en pierre.
 \gf marche_en_pierre
 \dt 07/Oct/2015
+
+\lx ʈʂɤ˧fv̩˧
+\or RD
+\bw <langue="cmn"> 照顾
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\lc ʈʂɤ˧fv̩˧
+\so <print="n"> F4
+\de To look after, to care for.
+\ge 照顾::to_look_after
+\dn 照顾（汉语借词）
+\gn 照顾（借词）
+\df S'occuper de, prendre soin de (quelqu'un).
+\gf 照顾::prendre_soin_de
 
 \lx ʈʂʰɤ˩ho˥
 \sf <nb="B"> 521
@@ -67492,6 +67580,28 @@
 \df Vieil homme, vieillard.
 \gf vieil_homme
 \dt 07/Oct/2015
+
+\lx tsʰo˩mo˩
+\or comoAM
+\ps n
+\cf zo˥
+\ton L
+\lc tsʰo˩mo˩˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\so <print="n"> F4
+\pdl classifier
+\pdv v̩˧
+\de Man, adult human male.
+\ge man
+\dn 男人
+\gn 男人
+\df Homme, être humain mâle adulte, |fi{Vir}.
+\gf homme
+\xv ʈʂʰɯ˧ | tsʰo˩mo˩ tse˩-ze˥! 
+\xe He has become a man! (The adolescent, |fv{pʰæ˧tɕi˥-zo˩}, becomes a man.)
+\xn 他是成年男人了！
+\xf C'est devenu un homme! (D'adolescent, |fv{pʰæ˧tɕi˥-zo˩}, on devient homme.)
 
 \lx ʈʂo˩mv̩˩
 \sf <nb="B"> 55
@@ -68368,22 +68478,6 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʈʂʰɻ̍
-\or cheu
-\ps ideophone
-\ton --
-\lc ʈʂʰɻ!
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\so <print="n"> F4
-\de Hissing noise of water that comes in contact with red-hot metal or incandescent wood: Pssshhh!
-\ge |fg{ideo_Pssshhh}!
-\dn 形声词：噗嗤！（水浇在很热的金属上的声音）
-\gn 噗嗤！
-\df Bruit de l'eau qui crépite au contact d'un métal rougi ou de bois incandescent: psshhhh!
-\gf |fg{ideo_Pssshhh}!
-\dt 12/Jul/2017
-
 \lx ʈʂɻ̍˥
 \sf <nb="B"> 1393
 \sf <nb="2011"> 1996
@@ -68409,6 +68503,22 @@
 \xn 他在咳嗽
 \xf il tousse
 \dt 07/Oct/2015
+
+\lx ʈʂʰɻ̍
+\or cheu
+\ps ideophone
+\ton --
+\lc ʈʂʰɻ!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so <print="n"> F4
+\de Hissing noise of water that comes in contact with red-hot metal or incandescent wood: Pssshhh!
+\ge |fg{ideo_Pssshhh}!
+\dn 形声词：噗嗤！（水浇在很热的金属上的声音）
+\gn 噗嗤！
+\df Bruit de l'eau qui crépite au contact d'un métal rougi ou de bois incandescent: psshhhh!
+\gf |fg{ideo_Pssshhh}!
+\dt 12/Jul/2017
 
 \lx ʈʂʰɻ̍˧
 \sf <nb="B"> 579
@@ -73726,6 +73836,50 @@
 \xf Cinq hameaux, douze familles! (Formule résumant la statistique du village de fv:/ə˧lɑ˧-ʁwɤ#˥/.)
 \dt 15/Jun/2017
 
+\lx ʑi˩˧
+\or xxi
+\ps n
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\nt <type="hist" print="n"> à ce jour (2013), seulement trouvé “bâtir" et “démolir" comme verbes pouvant s'associer à la racine monosyllabique.
+\ton LM? LH?
+\lc --
+\so <print="n"> F4
+\de Building; houses.
+\ge building(monosyll.)
+\dn 房屋
+\gn 房屋
+\df Maison, bâtiment d'habitation; monosyllabe extrait de l'expression /ʑi˩ tsʰi˩˥, | æ̃˩ tsʰi˧/ ‘bâtir une demeure': le schéma tonal, avec un verbe au ton MH, peut provenir d'un nom au ton LM ou LH.
+\gf maison(monosyll.)
+\xv ʑi˩ tsʰi˧˥, | æ̃˩ tsʰi˥
+\xe to build a house, to build a home (set phrase)
+\xn 建房立家（固定词语）
+\xf Bâtir une demeure, bâtir un foyer (expression proverbiale)
+\xv ʑi˩ tʰv̩˩˥
+\xe to found a new home, to build a new house
+\xn 分家，建立自己的新房屋比如：孩子多，一个孩子建自己的房子）
+\xf Fonder une nouvelle demeure: lorsque la famille est nombreuse, un de ses membres peut bâtir sa propre demeure
+\xv ʑi˩ qʰæ˧˥
+\xe to demolish a house
+\xn 拆房子
+\xf démolir une demeure
+\xc <langue="fra"> expression non proverbiale; proposée par l'enquêteur et acceptée par F4; illustre le fait que la combinaison tonale observée dans l'expression figée se retrouve telle quelle dans une expression synchroniquement acceptable/répondant aux règles synchroniques de combinaison entre verbe et nom, et confirmant ainsi l'analyse du ton lexical de la racine monosyllabique comme LM ou LH
+\xc <langue="eng"> example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was accepted by speaker F4
+\xc <langue="cmn"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
+\xv ʈʂʰɯ˧-ʑi˧˥
+\xe this family
+\xn 这家
+\xf cette famille
+\xv ‡ʑi˩ hwæ˧
+\xe ‡to buy a house (example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was refused by speaker F4)
+\xn ‡买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
+\xf ‡acheter une demeure; forme non correcte, proposée pour voir dans quelle mesure le monosyllabe peut se combiner avec divers verbes.
+\xv lɑ˧tʰɑ˧mi˧=ɻ˥, | ze˩ ʑi˧ ɲi˥?
+\xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
+\xn 拉他咪家在哪里？（情景：一个喜欢拉他咪达石写的歌的游客来阿拉瓦村，找拉他咪家。）
+\xf Où se trouve la maison de la famille Latami? (Contexte: un touriste qui apprécie les chansons de Latami Dashi se rend dans le village de Alawua, et cherche la maison où il habite.)
+\dt 27/Apr/2017
+
 \lx ʑi˩˥
 \sf <nb="B"> 1912
 \sf <nb="2011"> 2899
@@ -74294,6 +74448,20 @@
 \gf lit
 \dt 07/Oct/2015
 
+\lx ʑi˧-tʰo˩
+\or xxitoqAM
+\ps n
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\ton L#
+\lc ʑi˧tʰo˩
+\de behind the house (the place where there is a vegetable garden)
+\ge behind_the_house
+\dn 家后院（菜园的地方）
+\gn 家后院
+\df l'arrière de la maison (où il y a le potager)
+\gf arrière_de_la_maison
+
 \lx ʑi˩zo#˥
 \or xxisso
 \ps n
@@ -74363,6 +74531,7 @@
 \sf <nb="2011"> 363
 \or sso
 \ps n
+\cf tsʰo˩mo˩
 \ton #H
 \lc zo˧
 \sn 1
@@ -75462,6 +75631,27 @@
 \gf alcool_de_qualité
 \dt 05/Jul/2017
 
+\lx ʐɯ˩pe˧
+\or rebei
+\bw <langue="cmn"> 日本
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place
+\np <langue="fra"> 
+\ton LM
+\lc ʐɯ˩pe˥
+\so <print="n"> F4
+\de Japan.
+\ge 日本::Japan
+\dn 日本（汉语借词）
+\gn 日本（借词）
+\df Japon.
+\gf 日本::Japon
+\xv ʐɯ˩pe˧-hĩ#˥
+\xe Japanese, person from Japan
+\xn 日本人
+\xf Japonais, personne du Japon
+
 \lx zɯ˧pv̩˩
 \sf <nb="B"> 1998
 \sf <nb="2011"> 3048
@@ -75573,27 +75763,6 @@
 \df Faisan doré.
 \gf faisan doré
 \dt 05/Jul/2017
-
-\lx kʰo˧ɕi˩
-\or to be added
-\bw <langue="cmn"> 可惜
-\ps adj
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
-\ton L#
-\lc kʰo˧ɕi˩
-\so <print="n"> F4
-\de Unfortunate; it's a pity; it's a shame.
-\ge 可惜::unfortunate
-\dn 可惜（汉语借词）
-\gn 可惜（借词）
-\df Dommage, triste, regrettable, manqué (d'une occasion).
-\gf 可惜::dommage
-\xv kʰo˧ɕi˩-ze˩!
-\xe It's a pity! It's a shame!
-\xn 可惜了！
-\xf C'est bien dommage! / C'est une occasion manquée!
-\dt 06/Oct/2015
 
 \lx ʐɯ˩tsɯ˧
 \or rizi
@@ -77324,6 +77493,27 @@
 \xf va(-t-il) acheter?
 \dt 05/Jul/2017
 
+\lx ‑ki˩
+\or gi
+\ps suff
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n"> Jusqu'en 2018, datif et allatif ont été considérés comme un seul morphème. En 2017, l'examen du comportement tonal de ce morphème supposé unique a révélé des incohérences. Cela a conduit à une vérification en 2018; c'est alors seulement qu'a été constaté le fait que datif et allatif sont deux morphèmes distincts. 
+\ton L à confirmer
+\lc ki˧
+\so <print="n"> F4
+\de Allative (indicating a direction).
+\ge |fg{all}
+\dn 向格：向、往
+\gn 向格
+\df Allatif. xxxx sens à affiner : semble avoir plutôt le sens de 'chez'
+\gf |fg{all}
+\xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ / nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
+\xe combinations with all tonal categories of nouns
+\xn 跟不同声调类型的名词结合。
+\xf combinaisons avec les diverses catégories tonales de noms
+\xc PHONO
+
 \lx ‑ki˧
 \sf <nb="2011"> 3361
 \or gi
@@ -77354,27 +77544,6 @@
 \xn 阿妈教我摩梭话！
 \xf Ama m'enseigne la langue na!
 \dt 05/Jul/2017
-
-\lx ‑ki˩
-\or gi
-\ps suff
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> Jusqu'en 2018, datif et allatif ont été considérés comme un seul morphème. En 2017, l'examen du comportement tonal de ce morphème supposé unique a révélé des incohérences. Cela a conduit à une vérification en 2018; c'est alors seulement qu'a été constaté le fait que datif et allatif sont deux morphèmes distincts. 
-\ton L à confirmer
-\lc ki˧
-\so <print="n"> F4
-\de Allative (indicating a direction).
-\ge |fg{all}
-\dn 向格：向、往
-\gn 向格
-\df Allatif. xxxx sens à affiner : semble avoir plutôt le sens de 'chez'
-\gf |fg{all}
-\xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ / nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
-\xe combinations with all tonal categories of nouns
-\xn 跟不同声调类型的名词结合。
-\xf combinaisons avec les diverses catégories tonales de noms
-\xc PHONO
 
 \lx ‑kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
@@ -78106,20 +78275,6 @@
 \xf idem: derrière la maison, l'arrière de la maison (où il y a le potager)
 \dt 01/Oct/2015
 
-\lx ʑi˧-tʰo˩
-\or xxitoqAM
-\ps n
-\sd <langue="fra"> maison
-\sd <langue="eng"> house
-\ton L#
-\lc ʑi˧tʰo˩
-\de behind the house (the place where there is a vegetable garden)
-\ge behind_the_house
-\dn 家后院（菜园的地方）
-\gn 家后院
-\df l'arrière de la maison (où il y a le potager)
-\gf arrière_de_la_maison
-
 \lx †ʁwɤ˩α
 \sf <nb="B"> 1523
 \sf <nb="2011"> 2305
@@ -78613,50 +78768,6 @@
 \gn 整体体
 \df Perfectif, |fg{pfv}
 \gf |fg{pfv}
-\dt 27/Apr/2017
-
-\lx ʑi˩˧
-\or xxi
-\ps n
-\sd <langue="fra"> maison
-\sd <langue="eng"> house
-\nt <type="hist" print="n"> à ce jour (2013), seulement trouvé “bâtir" et “démolir" comme verbes pouvant s'associer à la racine monosyllabique.
-\ton LM? LH?
-\lc --
-\so <print="n"> F4
-\de Building; houses.
-\ge building(monosyll.)
-\dn 房屋
-\gn 房屋
-\df Maison, bâtiment d'habitation; monosyllabe extrait de l'expression /ʑi˩ tsʰi˩˥, | æ̃˩ tsʰi˧/ ‘bâtir une demeure': le schéma tonal, avec un verbe au ton MH, peut provenir d'un nom au ton LM ou LH.
-\gf maison(monosyll.)
-\xv ʑi˩ tsʰi˧˥, | æ̃˩ tsʰi˥
-\xe to build a house, to build a home (set phrase)
-\xn 建房立家（固定词语）
-\xf Bâtir une demeure, bâtir un foyer (expression proverbiale)
-\xv ʑi˩ tʰv̩˩˥
-\xe to found a new home, to build a new house
-\xn 分家，建立自己的新房屋比如：孩子多，一个孩子建自己的房子）
-\xf Fonder une nouvelle demeure: lorsque la famille est nombreuse, un de ses membres peut bâtir sa propre demeure
-\xv ʑi˩ qʰæ˧˥
-\xe to demolish a house
-\xn 拆房子
-\xf démolir une demeure
-\xc <langue="fra"> expression non proverbiale; proposée par l'enquêteur et acceptée par F4; illustre le fait que la combinaison tonale observée dans l'expression figée se retrouve telle quelle dans une expression synchroniquement acceptable/répondant aux règles synchroniques de combinaison entre verbe et nom, et confirmant ainsi l'analyse du ton lexical de la racine monosyllabique comme LM ou LH
-\xc <langue="eng"> example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was accepted by speaker F4
-\xc <langue="cmn"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
-\xv ʈʂʰɯ˧-ʑi˧˥
-\xe this family
-\xn 这家
-\xf cette famille
-\xv ‡ʑi˩ hwæ˧
-\xe ‡to buy a house (example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was refused by speaker F4)
-\xn ‡买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
-\xf ‡acheter une demeure; forme non correcte, proposée pour voir dans quelle mesure le monosyllabe peut se combiner avec divers verbes.
-\xv lɑ˧tʰɑ˧mi˧=ɻ˥, | ze˩ ʑi˧ ɲi˥?
-\xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
-\xn 拉他咪家在哪里？（情景：一个喜欢拉他咪达石写的歌的游客来阿拉瓦村，找拉他咪家。）
-\xf Où se trouve la maison de la famille Latami? (Contexte: un touriste qui apprécie les chansons de Latami Dashi se rend dans le village de Alawua, et cherche la maison où il habite.)
 \dt 27/Apr/2017
 
 \lx ‑zo
