@@ -62402,7 +62402,7 @@
 \dt 24/Jul/2017
 
 \lx tje˩fæ˧
-\or RD
+\or diafae
 \bw <langue="cmn"> 电饭（锅）
 \ps n
 \lc tje˩fæ˥
@@ -67343,7 +67343,7 @@
 \dt 07/Oct/2015
 
 \lx ʈʂɤ˧fv̩˧
-\or RD
+\or zhefu
 \bw <langue="cmn"> 照顾
 \ps v
 \sd <langue="fra"> verbe
