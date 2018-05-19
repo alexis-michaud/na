@@ -787,8 +787,8 @@ Voilà ce qu'on disait autrefois; et ça vaut tout aussi bien pour aujourd'hui! 
 tʰi˩˥, | ʈʂʰɯ˧ne˧ʝi˥ se˩-dʑo˩, | tʰi˩˥, | njæ˧-sɯ˩kv̩˩ | nɑ˩-ʈʂʰɯ˥-dʑo˩… lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩-bi˩, | zo˩no˥, | njɤ˧ɻ̍˥ | lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩, | hĩ˧mo˥-hĩ˩ sɯ˩... <hĩ˧-sɯ˧> | pʰv̩˧ɖɯ˧˥! |  
 %Transcription automatique : ne˧ | ʈʂʰɯ˧ne˧ | sɯ˧tsʰɯ˥ | dʑo˩ | tʰi˩˥ | njæ˧-sɯ˩kv̩˩ | nɑ˩ʈʂʰɯ˥dʑo˩əəə…zo˧dʑo˧ | ʐv̩˧dʑo˧bi˩bi˩ | bi˩ | zo˩ | ne˩ɻ̍˥ | lo˩dʑo˩ʐv̩˩dʑo˧ʁobi˩bi˩ | hĩ˧mo˥sɯ˩ | dʑsɯ˩pʰo˧ɖɯ˧ |  
 %121
-%fr Que signifie /ʐv̩˧/ dans /lo˧ dʑo˧ ʐv̩˧ dʑo˧/? xxxx
-%vérifier /njɤ˧ɻ̍˥/: transcription et sens. xxxx
+%fr Que signifie /ʐv̩˧/ dans /lo˧ dʑo˧ ʐv̩˧ dʑo˧/? yyyy reponse æmæ: nɚest pæs ænælysæble. Propose comme traduction. 有事无事
+%vérifier /njɤ˧ɻ̍˥/: transcription et sens. yyyy reponse: est l'interrogatif: ɲi˩=ɻ˥
 Ainsi donc, nous autres les Na, même si on est très occupé, eh bien, même si on a ses propres soucis, on donne la priorité aux aînés: c'est eux qui viennent toujours en priorité!
 这样，我们摩梭人，虽然有各种各样自己的事，还是会先管长辈的人，关心长辈的人！
 
@@ -814,7 +814,7 @@ Il faut que les enfants grandissent (=ils faut prodiguer des soins aux enfants, 
 %Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | no˧ɻ̍˩ | so˩ | njɤ˩ | ə˩so˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩z˩ | hĩ˧mo˥hĩ˩ki˩ | ɖɯ˧ti˧˥pʰv̩˧ɖɯ˧mɤ˧ʝi˥dʑo˩ | no˧ | so˧mɤ˧ʁɑ˧jɤ˧ʈʂʰɯ˧ɻ̍˩dʑo˩ | ʈʂʰɯ˧ | ne˧ | qʰɑ˧ʝi˥ | 
 %125
 %Soigneusement vérifié : est /ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩/, ni /ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩-ɳɯ˩/ ni /ɖɯ˧-ʑi˩=ɻ̍˩~ɖɯ˩-ʑi˩=ɻ̍˩-ɳɯ˩/.
-% fr xxxx vérifier à nouveau le sens: que c'est bien 不要学他们 et non 他们没学好. (Suis quasi-sûr de l'interprétation, mais il reste à vérifier.) 
+% fr yyyy vérifier à nouveau le sens: que c'est bien 不要学他们 et non 他们没学好. (Suis quasi-sûr de l'interprétation, mais il reste à vérifier.)  réponse : est : 没学好的那些人，不要跟他们一样！
 Comme ces bonnes habitudes sont pratique courante, [cela entretient une émulation entre familles:] on prend exemple sur vous, vous prenez exemple sur nous (littéralement: 'comme on procède ainsi, nous, on vous enseigne [de bonnes habitudes], vous, vous nous inculquez [de bonnes habitudes]'). Quand telle ou telle famille néglige un peu les aînés, [on les représente comme des contre-exemples:] “Tu ne dois pas les imiter, ceux-là: ils ne devraient pas faire ainsi!”
 这样，（我们）教你们、（你们）教我们。偶尔有个别一家对老人家不是特别关心，（发生这样情况，周围邻居会说：）“他们这些，不要学他们（因为他们不知道怎么做人、怎么关心别人），不应该这么做！”
 
@@ -979,7 +979,7 @@ tʰi˩˥ | njɤ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | tʰi˧-hɑ̃˧˥, | kv̩˧dʑɯ
 %Utterance ID: BENEVOLENCE.80 
 %Transcription automatique : tʰi˩˥ | njæ˧-sɯ˩kv̩˩ | ɖɯ˧tɑ˧˥ | tʰi˩˥ɑ̃˧˥ | ho˩dʑɯ˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧tɕɯ˧˥ | tʰi˧hɑ̃˥kv̩˥mæ˩ |  
 %147
-%fr Vérifier que c'est bien /kv̩˧dʑɯ˧˥/ 'tente'. xxxx
+%fr Vérifier que c'est bien /kv̩˧dʑɯ˧˥/ 'tente'. yyyy réponse : oui ! kv˧dʑɯ˧ lɑ˥ (tv)
 Alors, on a tous passé la nuit [là-bas]; on a monté des tentes, et on a passé la nuit!
  我们都（一起）过夜，就这样弄帐篷就过夜！
  
@@ -1023,7 +1023,7 @@ Le lendemain matin, au lever, il allait un peu mieux;
 %Transcription automatique : ə˧tʰɑ˧mi˥ | mv̩˩zo˩ | no˧dʑo˧ | so˧ʝi˧dʑɤ˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩ʝi˩ze˩ | 
 %154
 %fr /mv̩˩zo˩˥/ est réalisé avec une diphtongaison finale vers æ, sorte de vocatif. Mais ce n'est pas un morphème distinct, qui ait une forme phonémique: la locutrice tient à ce que la transcription soit simplement /mv̩˩zo˩˥/; le changement de timbre vocalique ressortit au vaste domaine de l'intonation, et n'est pas dû à un phonème de plus dans la 'chaîne'. Ce phénomène est désigné ici comme 'diphtongaison vocative'.
-%fr A vérifier : /so˧jɤ˩ dʑɤ˩/ a-t-il le même sens que /so˧lo˧ dʑɤ˩/ 'bonne influence ; bon exemple ; bonne éducation'? xxxx
+%fr A vérifier : /so˧jɤ˩ dʑɤ˩/ a-t-il le même sens que /so˧lo˧ dʑɤ˩/ 'bonne influence ; bon exemple ; bonne éducation'? yyyy réponse : OUI, c'est bien le même sens. Ne paraît pas être un nom.
 “Mademoiselle Latami”, a-t-il dit, “vous êtes un bel exemple pour les autres, vous savez! Vous avez fait une bonne action!”
 “拉他咪家姑娘啊，你是有好教养的，知道吗。你做了一件好事！”
 
@@ -1043,7 +1043,7 @@ Le lendemain matin, au lever, il allait un peu mieux;
 “no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩! | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˧mo˥-lɑ˩ | lɑ˧tʰɑ˧mi˥ | ə˧mi˧-dʑɤ˩tsʰi˩-ʈʂʰɯ˩, | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥!” | 
 %Utterance ID: BENEVOLENCE.85 
 %Transcription automatique : ʈʂʰɯ˧ɖɯ˧pv̩˧˥ | le˧qʰwɤ˧tse˩ | no˩dʑo˥so˩ʝi˩dʑo˩ | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˩no˥ | lɑ˩ɬɑ˧ | tʰv̩˧ | ni˧ | ə˧mi˧dʑo˩tsʰɯ˩ | ʈʂʰɯ˧so˧ʝi˩dʑɤ˩ | ətsʰɯ˥ | 
-%même question que ci-dessus au sujet de /so˧jɤ˩/ xxxx
+%même question que ci-dessus au sujet de /so˧jɤ˩/ yyyy
 “Tu es quelqu'un de bien élevé! La grand-mère Latami, et Jjacee, la mère Latami, elles t'ont donné une bonne éducation / elles ont de bons principes, tu sais!”
 “你是有好教养的！拉他咪家奶奶和拉他咪家母亲Jjacee，给了你很好的教育，知道吗！”
 
@@ -1076,8 +1076,8 @@ Pendant la journée, euh... on partait et on dormait dehors! Pas de maison, pas 
 
 dʑi˧hṽ˧ | tʰi˧-ʝi˧ kwɤ˥ | le˧-pɤ˥~pɤ˩! | 
 %Transcription automatique : dʑi˧hṽ˧di˧ʝi˧kwɤ˥ | le˧pɤ˥pɤ˩ | 
-%fr xxxx sens de /tʰi˧-ʝi˧ kwɤ˥/ à vérifier : ne serait-ce pas /tʰv̩˧/, et /ʝi˧-kʰwɤ˥/ 'une série, une brochette'?
-On roule quelques vêtements en boule (pour servir de matelas?) xxxx
+%fr yyyy sens de /tʰi˧-ʝi˧ kwɤ˥/ à vérifier : ne serait-ce pas /tʰv̩˧/, et /ʝi˧-kʰwɤ˥/ 'une série, une brochette'? réponse: est : tʰv˧ ʝi˧-kʰwɤ˧
+On roule quelques vêtements en boule (pour servir de matelas?) yyyy reponse : oui, on roule des vêtements en boule pour dormir dessus
 
 kʰi˧˥ | -dʑo˩ | tʰi˩˥, | əəə... õ˧tʰv̩˧-so... | tʰv̩˧-hɑ̃˩, | njɤ˧-ɳɯ˧... | dʑɯ˧, | əəə…dʑɯ˧ | ɖɯ˧-qʰwɤ˧˥ | dʑɯ˩tsʰi˥ | ɖɯ˧-qʰwɤ˧ tsi˥, | tʰi˧-ki˧! | 
 %Transcription automatique : kʰi˧˥ | dʑo˩ | tʰi˩˥ | kõ˧tʰv̩˧ | s dz˧tʰɑ˥˩ | njɤ˧ɳɯ˧ | dʑɯ˧əəə…dʑɯ˧ | ɖɯ˧qʰwɤ˧ | dʑɯ˩tsʰi˧ | ɖɯ˧qʰwɤ˧tsɯ˥tʰi˧ki˩ | 
@@ -1121,7 +1121,7 @@ On prenait le tsamba; le sucre roux, on le mettait dans le tsamba par petits blo
 <tsɑ˧bɤ˧> [ho˩tʰɑ˩˥] | le˧-dze˧~dze˥-dʑo˩ | tʰi˩˥, | <ho˩tʰɑ˩-qo˥ kʰɯ˩> [tsɑ˧bɤ˧-qo˧ kʰɯ˧˥], | õ˧-bv̩˩-õ˩ | tsɑ˧bɤ˧ | <le˧-...> | le˧-njɤ˧~njɤ˥, | dzɯ˧-ɲi˥ mæ˩! | 
 %Transcription automatique : tɑ˧bo˧ | le˧ʑi˧dze˥dʑo˩ | tʰi˩˥ | ho˩tʰɑ˩qo˥kʰɯ˩ | bo˧ | tʰɑ˧bwɤ˩ | le˧ | le˧njɤ˩ | njɤ˧dzɯ˩ɲi˥mæ˩ | 
 %169
-%fr Sens de /le˧-njɤ˧~njɤ˥/: 'touiller'? Est-ce le même mot que 'collant'? Comparer avec: /tso˩∼tso˧˥/ et /ʂwæ˧/. xxxx
+%fr Sens de /le˧-njɤ˧~njɤ˥/: 'touiller'? Est-ce le même mot que 'collant'? Comparer avec: /tso˩∼tso˧˥/ et /ʂwæ˧/. yyyy réponse : est proche de : /le˧-njɤ˧~njɤ˥/ et /le˧-ʈʂʰv̩˩~ʈʂʰv̩˩/. Se fait avec la main. N'est pas pareil que : /ʂwæ˥~ʂwæ˩/ 'remuer'.
 Le sucre roux, on le taillait en morceaux; on le mettait dans la farine de céréales grillées, on mélangeait xxxx, et on mangeait!
 红糖，要切成小块，放糌粑里，搅拌，就吃！
 
@@ -1148,7 +1148,7 @@ Quand je lui ai donné, il a dit: “Eeeh bien, grand merci! Vous avez fait là 
 
 “dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰi˧-ze˩, | le˧-hɤ˩-ze˩!” | 
 %Transcription automatique : dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧ 
-%fr sens de /gɤ˩-tɕʰi˧-ze˩/? xxxx
+%fr sens de /gɤ˩-tɕʰi˧-ze˩/? yyyy est : gɤ˩-tɕʰɯ˧; veut dire: ça va mieux, guérir
 “Après avoir bu ce bol de thé sucré, mon état s'est amélioré; ça va mieux!”
 “喝了这碗甜茶之后，我身体好了一些，感觉我好了！”
 
@@ -1330,7 +1330,7 @@ Voilà comment c'était, en fait; ça pouvait atteindre quatre cents planches! Q
 %Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥dʑi˧qʰv̩˧ɖv̩˧qʰo˧ɖɯ˧qʰwɤ˧zo˥ | go˩qʰo˧qʰh | dʑɯ˩nɑ˩mv̩˩˥ | əəə…le˧qʰo˩se˥ | dʑo˩ | tʰi˩˥ | le˧kʰi˧se˩ | tʰi˧qʰwɤ˧kv̩˥mæ˩ | 
 %199
 %fr vérifié : n'est pas /le˧-qʰo˧-se˥/, même si phonétiquement c'est clairement ici [M.M.H].
-%fr xxxx vérifier le sens de /gv̩˧-qʰo˧/. 
+%fr yyyy vérifier le sens de /gv̩˧-qʰo˧/. Réponse : est : les tas de planches. gv˧qʰo˧ | ɖɯ˧-qʰo˧ (tons vérifiés); ton : est M et non #H.
 %fr /tʰi˧-qʰo˧-kv̩˧ mæ˥/: de : /tʰi˧-qʰo˧-kv̩˧˥/.
 Voilà comment on empile: tas après tas, on empile! Ca monte très haut / les tas atteignent une belle hauteur! Sur la montagne, euh... quand on a fini d'empiler [les planches]... quand on a fini de débiter [les troncs en planches], on empile / on forme des tas de planches!
 就这样，一堆一堆地堆起来！木板堆，好高呢！山上，木头划开成木板以后，就将木板堆起来！
@@ -1338,7 +1338,7 @@ Voilà comment on empile: tas après tas, on empile! Ca monte très haut / les t
 tʰi˩˥, | ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥! | tʰi˩˥, | õ˧-bv̩˥-õ˩ | <tɕ...> tɕɯ˧-bi˥-kv̩˩-ze˩ mæ˩! | 
 %Transcription automatique : tʰi˩˥ | ɖɯ˧ʂɯ˧dʑ | tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ | 
 %20
-%fr xxxx ne serait-ce pas simplement /ɖɯ˧-ɬi˧ tʰi˧-tɕɯ˥/?
+%fr yyyy ne serait-ce pas simplement /ɖɯ˧-ɬi˧ tʰi˧-tɕɯ˥/? Réponse : on peut dire l'un comme l'autre ; ici, c'est bien /ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥/
 Ensuite, on laisse [les planches là] pendant un mois! (On laisse le bois vert sécher pendant un mois.) Après, chaque famille se dispose à les transporter (=à les ramener chez soi)!
 然后就放一个月（让木头变干）！然后，每家把自己的木板搬回村子！
 
@@ -1351,7 +1351,7 @@ Ce sont des chevaux qui transportent [ce chargement]! On engage des gens, qui po
 tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧, | tʰv̩˧-ɲi˥-dʑo˩, | njæ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | gv̩˩pʰæ˩ ʑi˥ kʰi˩. | 
 %Utterance ID: BENEVOLENCE.110 
 %Transcription automatique : tʰi˧pɤ˧pɤ˧dʑo˧ | tʰv̩˧ɲi˥dʑo˩ | njæ˧-sɯ˩kv̩˩ | ɖɯ˧tɑ˧˥ | gɤ˩kʰæ˩ʑi˥kʰi˩ | 
-%fr /tʰi˧-pɤ˧~pɤ˧-dʑo˧/: ton de /-dʑo˧/ non vérifié xxxx; aussi, à voir: est sans doute : /tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧/.
+%fr /tʰi˧-pɤ˧~pɤ˧-dʑo˧/: ton de /-dʑo˧/ non vérifié yyyy réponse OUI ; aussi, à voir: est sans doute : /tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧/. réponse : OUI !
 Pour porter, ce jour-là, on allait tous prendre les planches. 
 背（木板回家）的那天，我们全家会一块儿去拿木板。
 

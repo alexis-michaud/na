@@ -3015,6 +3015,24 @@
 \gf |fg{ideo}_Boum!
 \dt 24/Apr/2017
 
+\lx bo˩
+\or bboq
+\ps v
+\lc bo˩˥
+\ton L
+\so <print="n"> F4
+\de To cool.
+\ge to_cool
+\dn 凉
+\gn 凉
+\df Refroidir, mettre à refroidir.
+\gf refroidir
+\xv dʑɯ˩ qʰæ˩ qo˥ | tʰi˧-bo˩-kʰɯ˩
+\xe To put to cool down in cold water. (After boiling eggs, one puts them in cold water to cool them down.)
+\xn （把煮好了的鸡蛋）放在冷水里凉一下（它）在发光。（描写灯）
+\xf Plonger dans l'eau froide pour refroidir (après avoir cuit des œufs à la coque, on les plonge dans l'eau froide, pour les refroidir, et aussi pour que la coquille se détache plus facilement.)
+\dt 13/May/2018
+
 \lx bo˩˧
 \sf <nb="B"> 1853
 \sf <nb="B"> (et
@@ -3252,7 +3270,7 @@
 \cf bo˩dze˧-ko˩dze˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> xxxx sens à revoir; d'après TS: oiseau qui habite avec les porcs
+\nt <type="hist" print="n"> Sens vérifié en 2018 : F4 (Ama) confirme l'identification comme alouette.
 \ton LM
 \so <print="n"> F4
 \de Lark.
@@ -10131,7 +10149,7 @@
 \ge to_gather
 \dn 聚集
 \gn 聚集
-\df Se rassembler (groupe de personnes).
+\df Se rassembler (groupe de personnes); s'accumuler (fumée).
 \gf se_rassembler
 \xv ɖɯ˧-ʁwɤ˧ | le˧-dzi˧~dzi˥
 \xe the whole village gathered together
@@ -10141,7 +10159,14 @@
 \xe Someone has passed away! Come and join the gathering!
 \xn 一个人去世了！来参加丧礼吧！
 \xf Quelqu'un est mort! Venez participer à la réunion/au rassemblement!
-\dt 27/Aug/2015
+\xc
+\rf F5
+\xv ɑ˩ʁo˧, | mv̩˧kʰv̩˧ dzi˥-ze˩!
+\xo
+\xe Smoke has accumulated inside the house! / The house is full of smoke!
+\xn 家里烟很浓了！（直译：“家里积累了很多烟”）
+\xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
+\dt 13/May/2018
 
 \lx dzi˩α
 \sf <nb="B"> 1571
@@ -13014,7 +13039,7 @@
 \va <speaker="M23"> ɖʐv̩˧, ton m2
 \vf +ɲi˩
 \pdl classifier
-\pdv ɖʐv̩˧
+\pdv ɖʐv̩˧b
 \de An important and unfortunate event, such as a serious accident.
 \ge unfortunate_event
 \dn 事故，（不幸的）大事
@@ -13022,17 +13047,17 @@
 \df Accident (grave).
 \gf accident
 \xv ɖʐv̩˧ kʰɯ˧˥
-\xe to cause an accident; to commit a fault; something serious happens
+\xe to cause an accident; to commit a fault
 \xn 犯错误，出大事
-\xf causer un accident, commettre une faute; il se passe quelque chose de grave
+\xf causer un accident, commettre une faute
 \xv ɖʐv̩˧ kʰɯ˧-ze˥
-\xe As above, with the |fg{pfv} morpheme
-\xn 同上，加上|fg{pfv}语素
-\xf Comme ci-dessus, avec ajout du |fg{pfv}
+\xe something serious has happened; a bad mistake has been made
+\xn 犯错误了，出大事了
+\xf il se passe quelque chose de grave, on a fait quelque chose de grave
 \xv ɖʐv̩˧ ɖɯ˧-ɖʐv̩˧ | kʰɯ˧-ze˥!
 \xe An accident has happened! / There's been an accident!
 \xn 出大事了！
-\xf il est arrivé un accident!
+\xf Il est arrivé un accident!
 \dt 24/Jul/2017
 
 \lx ɖʐv̩˧
@@ -13289,8 +13314,8 @@
 \xv ʈʂʰɯ˧-v̩˧ | ɖwæ˧˥ | ɖʐv̩˩˥!
 \xe This one is really ugly!
 \xn 这个好丑！
-\xf celui-là/celle-là est vraiment méchant/mauvais
-\dt 12/Jun/2017
+\xf celui-là/celle-là est vraiment vilain
+\dt 13/May/2018
 
 \lx ɖʐv̩˩α
 \hm 2
@@ -54714,10 +54739,31 @@
 \xe to burn an offering
 \xn 烧献给神（食物，……）
 \xf brûler une offrande; traditionnellement, du pin gorgé de résine.
-\xv so˧ dze˧ tʰi˧-qæ˩xxxx disyllabe: est-ce un nom?
-\xe to burn honey as an offering
+\rf F4
+\xv so˧ | tʰi˧-qæ˩, | so˧dze˧ tʰi˧-kʰɯ˧˥
+\xe to burn an offering containing a special blend of ingredients
 \xn 烧蜂蜜献给神
 \xf faire brûler du miel en offrande
+\dt 06/Oct/2015
+
+\lx so˧dze#˥
+\or sozzei
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton #H
+\lc so˧dze˧
+\so <print="n"> F4
+\de Offering to the gods, given to them in the morning; it comprises various ingredients, including flowers, tea, butter, flour, and honey; it is burnt over a fire of pine needles.
+\ge morning_offering_to_the_gods
+\dn 早上献给神的食物（含茶、酥油、面、蜂蜜），扔进松针火里烧
+\gn 早上献给神的食物
+\df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: fv:/so˧ dze˧-bæ˩bæ˩/); on le fait brûler sur un feu d'épines de pin.
+\gf offrande_du_matin_aux_esprits
+\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mæ˧pʰv˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
+\xe list of ingredients of the offering to the gods: flowers, sandalwood, butter, milk, flour and honey
+\xn 配料：花、香木、酥油、奶、面粉、蜂蜜。
+\xf liste des ingrédients avec lesquels on compose cette offrande: fleurs, santal, beurre, lait, farine et miel.
 \dt 06/Oct/2015
 
 \lx so˥
@@ -55440,10 +55486,10 @@
 \or soceeni
 \ps n
 \ton M
-\lc so˧tsʰɯ˧ɲi˧
+\lc so˧tsʰi˧-ɲi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (corrigé en 09; vérifié: n'est pas /tsʰi/) (avant 09: so˥tsʰɯ˥ɲi˥) xxxx vérifier à nouveau: so˧tsʰi˧ pour trente ; so˧tsʰɯ˧-ɲi˧ pour : 30e jour??
+\nt <type="hist" print="n"> (corrigé en 09; vérifié: n'est pas /tsʰi/) (avant 09: so˥tsʰɯ˥ɲi˥) en 2018, nouvelle vérification: il ne paraît pas plausible qu'on trouve /so˧tsʰi˧/ pour 'trente' mais /so˧tsʰɯ˧-ɲi˧/ pour '30e jour'. Réponse: c'est bien /so˧tsʰi˧-ɲi˧/.
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -57698,9 +57744,9 @@
 \xc <langue="fra"> La construction fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/} signifie ‘pas tellement', fn:‘……不怎么……’.
 \rf Mushrooms
 \xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥!
-\xe The Golden Mushroom is not all that poisonous! / The Golden Mushroom is not really dangerous!
+\xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
 \xn 黄蜡伞不怎么会让人中毒！/ 毒性不太大！
-\xf Le Champignon Doré, il n'est pas si vénéneux que ça!
+\xf Le champignon doré, il n'est pas si vénéneux que ça!
 \xc <langue="fra"> /mɤ˧-tʰɑ˧˥ | V-mɤ˧-kv̩˧˥/: signifie ‘pas tellement', ‘pas tant que ça'
 \dt 09/Oct/2015
 
@@ -60478,20 +60524,21 @@
 
 \lx tɕʰɤ˩ʂɯ˩kɤ˩
 \or qiashike
-\bw <langue="cmn"> 前时刻
+\bw <langue="cmn"> 全世界
 \ps n
-\sd <langue="fra"> temps
-\sd <langue="eng"> time
-\nt <type="hist" print="n"> xxxx à confirmer: /k/ ou /kʰ/
-\ton L
 \lc tɕʰɤ˩ʂɯ˩kɤ˩˥
+\cf sɑ˧zo˩ bv̩˧ li˩
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\nt <type="hist" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question : pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
+\ton L
 \so <print="n"> F4
-\de Yesteryear, in the old times, in earlier times.
-\ge 前时刻::in_earlier_times
-\dn 以前、在过去（汉语借词：‘前时刻’）
-\gn 以前
-\df Autrefois, dans le temps.
-\gf 前时刻::autrefois
+\de The whole world, everyone
+\ge 全世界::the_whole_world
+\dn 全世界（汉语借词）
+\gn 全世界（借词）
+\df Le monde entier, tout le monde.
+\gf 全世界::le_monde_entier
 
 \lx tɕɤ˧tɑ˧
 \sf <nb="B"> 581c
@@ -77506,7 +77553,7 @@
 \ge |fg{all}
 \dn 向格：向、往
 \gn 向格
-\df Allatif. xxxx sens à affiner : semble avoir plutôt le sens de 'chez'
+\df Allatif.
 \gf |fg{all}
 \xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ / nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
 \xe combinations with all tonal categories of nouns
@@ -78112,7 +78159,13 @@
 \gn 里
 \df Dans.
 \gf dans
-\dt 01/Oct/2015
+\rf F5
+\xv ɑ˩ʁo˧-bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
+\xo
+\xe Let's eat in the bowls of the house! (Context: the host wonders whether guests want to use their own bowls to eat cereals that they brought along, or whether it's all right to use the house's dishes.)
+\xn 用家里的碗吃吧！（情景：客人拿过来了自己的燕麦片和铁碗，早上用自己的碗吃自己的麦片。有一天，他忘了拿自己的铁碗，主人说：用家里的碗吧！）
+\xf Mangeons dans les bols de la maison! (Contexte: des invités ont apporté leur propre muesli et leur propre bol, et prennent le petit déjeuner à part; un jour où ils ont oublié leur bol, la maîtresse de maison suggère: utilisons donc la vaisselle de la maison!)
+\dt 13/May/2018
 
 \lx ‑qo˧lo˩
 \sf <nb="B"> 706
