@@ -356,11 +356,11 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \so <print="n"> F4
-\de Interjection: Ah nooon! / Ca va pas!
+\de Interjection: Oh nooo! / Dear me!
 \ge |fg{intj}
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
-\df Interjection.
+\df Interjection: Ah nooon! / Ca va pas!
 \gf |fg{intj}
 \dt 25/Aug/2017
 
@@ -7091,7 +7091,7 @@
 \dt 12/Jun/2017
 
 \lx di˩ʁo˩
-\or ddiwoqAM
+\or ddiwo
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -13483,7 +13483,7 @@
 \ge sparrow
 \dn 雀
 \gn 雀
-\df Oiseau ressemblant à un moineau, au corps blanc et noir; M23 croît le reconnaître dans: Pericrocotus divaricatus, mais cette espèce n'existe que dans le nord de la Chine.
+\df Oiseau ressemblant à un moineau, au corps blanc et noir; M23 croît le reconnaître dans une photographie de |fi{Pericrocotus divaricatus}, mais cette espèce n'existe que dans le nord de la Chine.
 \gf moineau
 \dt 24/Apr/2017
 
@@ -13526,7 +13526,8 @@
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公麻雀
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\dt 03/Aug/2017
+\xc PHONO
+\dt 23/May/2018
 
 \lx ɖʐwæ˧zo#˥
 \or zzhuaesso
@@ -13897,9 +13898,9 @@
 \sf <nb="B"> 971b
 \sf <nb="2011"> 1409
 \or esseissei
-\et ə˧-dzɤ˥$, ə˧ze˧
+\et ə˧-dzɤ˥$
 \ps adv
-\cf ə˧-dzɤ˥$
+\cf ə˧ze˧
 \sd <langue="fra"> adverbe
 \sd <langue="eng"> adverb
 \nt <type="hist" print="n"> (avant 09: noté ɤ˧ dze˧ dze˥ i˧) “faire lentement" (notation avant 09: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd) 2011: modifié en: dzɤ
@@ -14078,6 +14079,7 @@
 \sf <nb="2011"> 340
 \or ehua ssohun
 \ps n
+\cf ə˧hwɤ˧, zo˧hṽ̩#˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n"> (tons vérifiés, voyelles vérifiées; d'abord noté: ɑ˧hwɑ˧, æ˧hwɑ˧…)
@@ -14093,13 +14095,14 @@
 \gn 婴儿
 \df Bébé, nouveau-né, nourrisson.
 \gf nourrisson
-\dt 24/Apr/2017
+\dt 27/May/2018
 
 \lx ə˧ʝi˧-ʂɯ˥ʝi˩
 \sf <nb="B"> 799
 \sf <nb="2011"> 1185
 \or eyishei
 \ps adv
+\cf ə˧ʝi˥$, ʂɯ˩ʝi#˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> (tons confirmés; d'abord noté ˧ ˧ ˥ ˧)
@@ -14198,7 +14201,7 @@
 \gn 芜菁
 \df Navet, |fi{Brassica rapa}.
 \gf navet
-\xv ə˩kʰɯ˩-bv̩˧ | kʰɯ˩ʈɯ˩˥
+\xv ə˩kʰɯ˩-bv̩˥ | kʰɯ˩ʈɯ˩˥
 \xe the root of wild cabbage
 \xn 芜菁的根
 \xf racine de navet
@@ -14236,11 +14239,11 @@
 \ton #H
 \lc ə˧lɑ˧ʁwɤ˧
 \so <print="n"> F4
-\de A hamlet of Yongning, close to the monastery. Chinese name: Alawa; romanized Na: Alawua.
+\de A hamlet of Yongning, close to the monastery. Romanized Na: Alawua; Chinese name: Alawa.
 \ge village_name
 \dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭）
 \gn 阿拉瓦村
-\df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Nom chinois: Alawa. Nom en na romanisé: Alawua.
+\df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Romanisation: Alawua. Nom chinois: Alawa. Nom en na romanisé: Alawua.
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
@@ -14659,9 +14662,9 @@
 \pdv v̩˧
 \de Grandmother's brother=mother's uncle (on her mother's side); extended meaning: male elder two generations above oneself.
 \ge grandmother_s_brother
-\dn 舅姥爷：姥姥的哥哥或弟弟（也就是母亲的舅舅）。泛指：“祖父”
+\dn 母亲的舅舅，舅姥爷：姥姥的哥哥或弟弟。泛指：“祖父”
 \gn 舅姥爷
-\df Frère de la grand-mère = oncle de l'oncle maternel = oncle de la mère; sens étendu: personnage masculin important 2 générations au-dessus de soi.
+\df Frère de la grand-mère = oncle de l'oncle maternel = oncle de la mère; sens étendu: personnage masculin important deux générations au-dessus de soi.
 \gf aîné_de_la_grand_mère
 \dt 28/Aug/2015
 
@@ -14764,11 +14767,11 @@
 \va <speaker="M21"> ə˧-sɯ˩kv̩˩
 \vf refuse la réalisation /ɑ/
 \va <speaker="M23"> vérifié: est /sɯ/ et non /si/
-\de 1pl inclusive.
+\de First person plural, inclusive.
 \ge |fg{1pl_incl}
 \dn 咱们
 \gn 咱们
-\df 1e pers. pl., inclusive.
+\df Première personne du pluriel, inclusive.
 \gf |fg{1pl_incl}
 \xv ə˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | nɑ˩ ɲi˧!
 \xe We are Na, all of us!
@@ -14797,7 +14800,7 @@
 \gn 前几天
 \df Ces derniers jours, les jours passés.
 \gf ces_derniers_jours
-\xv ə˧ʂɯ˧ɲi˥ | ɖɯ˧ɲi˥
+\xv ə˧ʂɯ˧ɲi˥ | ɖɯ˧-ɲi˥
 \xe One day, some time ago.
 \xn 前段时间的一天
 \xf Un jour, il y a quelque temps
@@ -14868,15 +14871,15 @@
 \xv no˧ | ə˧tse˧-ʝi˥ | mɤ˧-tsʰɯ˩ ɲi˩? / no˧ | ə˧tse˧-ʝi˧-zo˥ | mɤ˧-tsʰɯ˩ ɲi˩?
 \xe Why didn't you come?
 \xn 你为什么没有来？
-\xf pourquoi tu ne viens pas/n'es pas venu?
+\xf Pourquoi tu ne viens pas/n'es pas venu?
 \xv no˧ | ə˧tse˧-ʝi˥ | mɤ˧-dzɯ˥? = no˧ | ə˧tse˧-ʝi˥ | mɤ˧-dzɯ˧-ɲi˥?
 \xe Why don't you eat?
 \xn 你为什么不吃？
-\xf pourquoi tu ne manges pas?
+\xf Pourquoi tu ne manges pas?
 \xv ʈʂʰɯ˧ | ə˧tse˧-ɲi˥-hɯ˩?
 \xe What does that mean?
 \xn 这是怎么一回事？
-\xf qu'est-ce que ça veut dire?
+\xf Qu'est-ce que ça veut dire?
 \dt 28/Aug/2015
 
 \lx ə˧tso˧
@@ -14911,7 +14914,7 @@
 \xv no˧ | ə˧tse˧ bi˧?
 \xe contracted form of the previous example: fv:/tso˧/ and the following fv:/ʝi˧/ fuse into a single syllable, fv:[tse˧].
 \xn 上面例子的缩短格式：|fv{/tso˧/}与|fv{/ʝi˧/}合成一个音节，|fv{[tse˧]}。
-\xf forme contractée de 2: dans fv:[tse˧], fv:/tso˧/ et le fv:/ʝi˧/ suivant fusionnent en une seule syllabe.
+\xf Forme contractée de l'exemple précédent: dans [|fv{tse˧}], la syllabe /|fv{tso˧}/ et le /|fv{ʝi˧}/ suivant fusionnent en une seule syllabe.
 \xv ə˧tso˧ do˩, | ə˧tso˧ dzɯ˧!
 \xe He is greedy / he is a glutton! Literally: ‘He eats whatever he sees!’
 \xn 他很贪吃！直译：‘见什么就吃什么！’
@@ -15023,23 +15026,23 @@
 \xe mother's younger brother
 \xn 比母亲小的舅舅
 \xf oncle, cadet de la mère
-\xv mv̩˧ʁo˥ | tʰi˧-dze˩, | kɤ˩-nɑ˧mi˧ ɖɯ˧˥ ! | di˧qo˧ ʈʰɯ˧-dʑo˩, | ə˧v̩˧ ɖɯ˧˥!
+\xv mv̩˧ʁo˥ | tʰi˧-dze˩, | kɤ˩-nɑ˧mi˧ ɖɯ˧˥ ! | di˧qo˧ ʈʂʰɯ˧-dʑo˩, | ə˧v̩˧ ɖɯ˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
 \xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
 \xc PROVERBE
-\xv mv̩˧ʁo˥ dze˩hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
+\xv mv̩˧ʁo˥ dze˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
 \xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
 \xc PROVERBE
 \xc <langue="fra"> Plusieurs versions de ce proverbe ont été enregistrées.
-\xv mv̩˧ʁo˥ dze˩hĩ˩˥ | -dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
+\xv mv̩˧ʁo˥ | dze˩-hĩ˩˥ | -dʑo˧, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
 \xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
 \xc PROVERBE
-\xv mv̩˧ʁo˥ dze˩hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧-dʑo˧, | ə˧v̩˧˥!
+\xv mv̩˧ʁo˥ | dze˩hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧-dʑo˧, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
 \xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
@@ -15135,6 +15138,7 @@
 \sf <nb="2011"> 391
 \or axxi apeu
 \ps n
+\cf ə˧ʑi˧˥, ə˧pʰv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n"> formé de d2b+d1 (avant 09: noté: ˧ ˧ ˧ ˥)
@@ -15154,6 +15158,7 @@
 \sf <nb="2011"> 396
 \or axxi rumi
 \ps n
+\cf ə˧ʑi˧˥, ʐv̩˧mi#˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n"> (vérifié en 09; formé de: d2b+d2a; reporté sur tableau; mais corrigé en 2012, auparavant noté ə˧ʑi˥-ʐv̩˩mi˩)
@@ -15280,7 +15285,7 @@
 \dt 28/Aug/2015
 
 \lx fæ˩ɕi˧
-\or faxiAM
+\or faexi
 \bw <langue="cmn"> 放心
 \ps v
 \sd <langue="fra"> verbe
@@ -15314,7 +15319,7 @@
 \va <speaker="M21"> ID.
 \de Developed, flourishing.
 \ge 发达::flourishing
-\dn 发达
+\dn 发达（汉语借词）
 \gn 发达（借词）
 \df Développé, florissant.
 \gf 发达::florissant
@@ -15373,6 +15378,7 @@
 \dt 01/Sep/2015
 
 \lx fv̩˧
+\hm 1
 \sf <nb="B"> 1090
 \sf <nb="B"> 1668
 \sf <nb="B"> 1666
@@ -15388,11 +15394,11 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; ex.: hĩ˧ ʈʂʰɯ˧-v̩˧, kʰv̩˧ʂæ˧˥ fv̩˧! Il aime chasser!
-\de Glad, pleased, happy, delighted; to like.
+\de Glad, pleased, happy, delighted
 \ge glad
-\dn 高兴、起劲，喜欢、爱、愿意
+\dn 高兴、起劲
 \gn 高兴
-\df Content, joyeux; agréable; aimer, apprécier.
+\df Content, joyeux; agréable
 \gf content
 \xv ɖwæ˧˥ | fv̩˧
 \xe |fg{intensive.very}: really glad, very happy
@@ -15415,7 +15421,38 @@
 \xe It's a very agreeable person.
 \xn 他是很善良的人。
 \xf c'est quelqu'un de très agréable
-\dt 01/Sep/2015
+\xc
+\xv mɤ˧-fv̩˧ mɤ˧-ʝi˧!
+\xo
+\xe To have no discontent, not to be angry. (Context: someone has made a video recording, and asks for oral consent from people who appear in the recording: do they agree to appear in a film that will be made publicly available online? Do they have any topic of miscontent? They answer: ‘[No,] we do not have any complaints / any topic of dissatisfaction!’)
+\xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’）
+\xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement!’)
+\dt 23/May/2018
+
+\lx fv̩˧
+\hm 2
+\sf <nb="B"> 1090
+\sf <nb="B"> 1668
+\sf <nb="B"> 1666
+\sf <nb="B"> 1492
+\sf <nb="2011"> 1546
+\or fu
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> (corrigé en mai 2008 avec ts, confirmant une hypothèse faite à la réécoute: n'est pas fv̩˥) (lə˧fv̩˧ze˧)
+\ton M
+\lc fv̩˧
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.; ex.: hĩ˧ ʈʂʰɯ˧-v̩˧, kʰv̩˧ʂæ˧˥ fv̩˧! Il aime chasser!
+\de To like.
+\ge to_like
+\dn 喜欢、爱、愿意
+\gn 喜欢
+\df Aimer, apprécier.
+\gf apprécier
+\dt 23/May/2018
 
 \lx fv̩˩bi˩
 \sf <nb="B"> 480b
@@ -15935,19 +15972,19 @@
 \sd <langue="eng"> adjective
 \ton L
 \so <print="n"> F4
-\de Quarrelsome. This term is used to describe the personality associated with certain astrological signs: some, such as the Tiger and the Monkey, are considered as quarrelsome, making the people born during the corresponding years less suitable for participating in certain rites (e.g. the Coming of Age rite), and more suitable for certain other rites and occasions.
+\de Quarrelsome. This term is, for instance, used to describe the personality associated with certain astrological signs: some, such as the Tiger and the Monkey, are considered as quarrelsome, making the people born during the corresponding years less suitable for participating in certain rites (e.g. the Coming of Age rite), and more suitable for certain other rites and occasions.
 \ge quarrelsome
 \dn 爱吵架
 \gn 爱吵架
-\df Querelleur, belliqueux, batailleur. Ce terme s'emploie au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (ex.: lors du rite de passage à l'âge adulte), et au contraire très prisés pour d'autres.
+\df Querelleur, belliqueux, batailleur. Ce terme s'emploie notamment au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (ex.: lors du rite de passage à l'âge adulte), et au contraire très prisés pour d'autres.
 \gf querelleur
 \xv kʰv̩˧ gɤ˧˥
 \xe “quarrelsome year": a year whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome; people born during one of these years are said to be tough and quarrelsome.
-\xn 爱打架的年份/生肖：十二个生肖中，虎、猴……被认为是爱打架的。
+\xn 爱打架的年份/生肖：十二个生肖中，虎、猴等被认为是爱打架的。
 \xf signe belliqueux (concept astrologique: certains signes confèrent aux gens nés l'année correspondante un caractère dur/belliqueux)
 \xv kʰv̩˧ gɤ˧-hĩ˥
 \xe person whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome.
-\xn 属一个爱打架的年份/生肖的人。十二个生肖中，虎、猴……被认为是爱打架的。
+\xn 属一个爱打架的年份/生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
 \xf personne d'une année batailleuse
 \xc <langue="fra"> fv:/hĩ˥/ a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
 \xv ʑi˩hṽ̩˥, | lɑ˧ : | kʰv̩˧ gɤ˧˥!
@@ -15960,6 +15997,61 @@
 \xn 同上
 \xf Même sens que ci-dessus; formulation modernisée par l'enquêteur, utilisant le terme usuel pour ‘singe'.
 \dt 24/Apr/2017
+
+\lx gɤ˧
+\or gge
+\ps n
+\lc gɤ˧
+\ton M
+\sn 1
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n"> avant 2014: n'avais pas indiqué de ton.
+\nt Comment by Roselle Dobbs: 'You call this a noun, but you mark it as ‑gɤ...' Mai 2018: retiré l'indication '-' qui revenait à marquer ce mot comme un suffixe.
+\so <print="n"> F4
+\de Place.
+\ge place
+\dn 地方
+\gn 地方
+\df Lieu, endroit.
+\gf lieu/endroit
+\xv njɤ˧ | ɖɯ˧-ʝi˧ (-gɤ˧) bi˧-zo˧-ho˩!
+\xe I have to go somewhere! / I have to make a trip! / I'm off!
+\xn 我要去一个别的地方！ / 我要换一个地方了！ / 我要走了！
+\xf Je dois me rendre quelque part! / Je dois faire un voyage! / Je m'en vais! (Contexte: lorsqu'on se prépare réellement à un voyage; ou lors d'une dispute, lorsqu'on menace de quitter la maison.)
+\xv ze˩ gɤ˥
+\xe which place
+\xn 什么地方
+\xf quel endroit
+\xv ʈʂʰɯ˧-gɤ˧
+\xe this place
+\xn 这个地方
+\xf cet endroit-ci
+\xc <type="tone"> M
+\xv tʰv̩˧-gɤ˧
+\xe that place
+\xn 那个地方
+\xf cet endroit-là
+\xc <type="tone"> M
+\sn 2
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so <print="n"> F4
+\de Moment.
+\ge moment
+\dn 时候
+\gn 时候
+\df Moment.
+\gf moment
+\xv ʂɯ˧-ɬi˧mi˧-qo˧-gɤ˧ tʰv̩˧
+\xe when the seventh month has come, when one is in the seventh month
+\xn 七月到了的时候
+\xf quand est venu le septième mois, quand on en est au septième mois
+\xv ʂɯ˧-ɬi˧mi˧-qo˧-gɤ˧-dʑo˥
+\xe in the seventh month, during the seventh month
+\xn 七月的时候
+\xf pendant le septième mois, au cours du septième mois
+\dt 05/Jul/2017
 
 \lx gɤ˧˥
 \sf <nb="B"> 1387
@@ -16290,7 +16382,7 @@
 \sf <nb="2011"> 1327
 \or ggegho
 \ps adv
-\cf gɤ˩-, gɤ˩-ʈʂʰɯ˧qo˧, gɤ˩-tʰv̩˧qo˧,
+\cf gɤ˩-, gɤ˩-ʈʂʰɯ˧qo˧, gɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n"> avant 2011: noté comme voyelle /e/, puis /ə/; notation avant 2014: /gɤ!…/
@@ -16375,13 +16467,13 @@
 \ton LM+#H
 \lc gɤ˩ʁwɤ˥
 \so <print="n"> F4
-\de The village of Gewa.
+\de The village of Gewa. Literally: upper village.
 \ge village_name
 \dn 格瓦村：永宁坝子的一个村落。直译：上村。音译：格瓦。
 \gn 格瓦村
 \df Nom de village; en chinois: Gewa.
 \gf nom_de_village
-\dt 02/Sep/2015
+\dt 29/May/2018
 
 \lx gɤ˩ʈʂæ˧˥
 \sf <nb="B"> 2201
@@ -16610,7 +16702,7 @@
 \xv ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-gɤ˩-ze˩!
 \xe (S)he is very satisfied/happy!
 \xn 他很满意！
-\xf il est très content!
+\xf Il est très content!
 \xv no˩-se˥, | ɖwæ˧˥ | le˧-gɤ˩-ze˩: | zo˧mv̩˥ hɤ˩-zo˩!
 \xe You have grounds for satisfaction: your children are really bright!
 \xn 你呢，（应该）很满意：（你的）孩子很成功！
@@ -19944,7 +20036,7 @@
 \xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
 
 \lx ho˩tʰɑ˩˥
-\or hotaqAM
+\or hota
 \bw <langue="cmn"> 红糖
 \ps n
 \cf ʂɑ˩tʰɑ˧-dze#˥
@@ -19954,8 +20046,8 @@
 \ton L
 \lc ho˩tʰɑ˩
 \so <print="n"> F4
-\de Red sugar.
-\ge 红糖::red_sugar
+\de Brown sugar.
+\ge 红糖::brown_sugar
 \dn 红糖（汉语借词）
 \gn 红糖（借词）
 \df Sucre roux, sucre intégral, suc de canne séché.
@@ -26054,7 +26146,7 @@
 
 \lx kʰu˧mi˩
 \sf <nb="2011"> 3345
-\or KumiqAM
+\or Kumi
 \bw <langue="cmn"> 昆明
 \ps n
 \cf ʝi˩næ˩-se˧
@@ -40469,7 +40561,7 @@
 \dt 09/Sep/2015
 
 \lx ŋv̩˩α
-\or nguqAM
+\or ngu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -40491,7 +40583,7 @@
 \lx ŋv̩˩α
 \sf <nb="B"> 2195
 \sf <nb="2011"> 2604
-\or ngu
+\or nguq
 \ps v
 \lc ŋv̩˩˥
 \sd <langue="fra"> verbe
@@ -41659,7 +41751,7 @@
 \dt 09/Sep/2015
 
 \lx pe˩tɕi˧
-\or beijieAM
+\or Beijie
 \bw <langue="cmn"> 北京
 \ps n
 \sd <langue="fra"> lieu
@@ -42120,7 +42212,7 @@
 \dt 09/Sep/2015
 
 \lx pi˧tʰɑ˩
-\or bitaqAM
+\or beita
 \bw <langue="cmn"> 白糖
 \ps n
 \cf dze˥
@@ -52469,7 +52561,7 @@
 \dt 05/Oct/2015
 
 \lx ʂæ˧hæ˥
-\or shaehaeAM
+\or Shaehae
 \bw <langue="cmn"> 上海
 \ps n
 \sd <langue="fra"> lieu
@@ -52631,7 +52723,7 @@
 \dt 27/Apr/2017
 
 \lx ʂɑ˩tʰɑ˧-dze#˥
-\or hotaqAM
+\or shatazzei
 \bw <langue="cmn"> 砂糖
 \ps n
 \cf ho˩tʰɑ˩˥
@@ -52641,7 +52733,7 @@
 \ton L
 \lc ʂɑ˩tʰɑ˧-dze˧
 \so <print="n"> F4
-\de Red sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to red sugar, not to sugar powder (in fact, red sugar used to come as blocks, not as powder).
+\de Brown sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to brown sugar, not to sugar powder (in fact, brown sugar used to come as blocks, not as powder).
 \ge red_sugar
 \dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭话的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
 \gn 红糖
@@ -54746,26 +54838,6 @@
 \xf faire brûler du miel en offrande
 \dt 06/Oct/2015
 
-\lx so˧dze#˥
-\or sozzei
-\ps n
-\sd <langue="fra"> religion
-\sd <langue="eng"> religion
-\ton #H
-\lc so˧dze˧
-\so <print="n"> F4
-\de Offering to the gods, given to them in the morning; it comprises various ingredients, including flowers, tea, butter, flour, and honey; it is burnt over a fire of pine needles.
-\ge morning_offering_to_the_gods
-\dn 早上献给神的食物（含茶、酥油、面、蜂蜜），扔进松针火里烧
-\gn 早上献给神的食物
-\df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: fv:/so˧ dze˧-bæ˩bæ˩/); on le fait brûler sur un feu d'épines de pin.
-\gf offrande_du_matin_aux_esprits
-\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mæ˧pʰv˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
-\xe list of ingredients of the offering to the gods: flowers, sandalwood, butter, milk, flour and honey
-\xn 配料：花、香木、酥油、奶、面粉、蜂蜜。
-\xf liste des ingrédients avec lesquels on compose cette offrande: fleurs, santal, beurre, lait, farine et miel.
-\dt 06/Oct/2015
-
 \lx so˥
 \hm 2
 \or so
@@ -55007,6 +55079,26 @@
 \xn 他/她很娴静 / 很持重！
 \xf Cette personne a de la pudeur!
 \dt 23/Jun/2017
+
+\lx so˧dze#˥
+\or sozzei
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton #H
+\lc so˧dze˧
+\so <print="n"> F4
+\de Offering to the gods, given to them in the morning; it comprises various ingredients, including flowers, tea, butter, flour, and honey; it is burnt over a fire of pine needles.
+\ge morning_offering_to_the_gods
+\dn 早上献给神的食物（含茶、酥油、面、蜂蜜），扔进松针火里烧
+\gn 早上献给神的食物
+\df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: fv:/so˧ dze˧-bæ˩bæ˩/); on le fait brûler sur un feu d'épines de pin.
+\gf offrande_du_matin_aux_esprits
+\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mæ˧pʰv˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
+\xe list of ingredients of the offering to the gods: flowers, sandalwood, butter, milk, flour and honey
+\xn 配料：花、香木、酥油、奶、面粉、蜂蜜。
+\xf liste des ingrédients avec lesquels on compose cette offrande: fleurs, santal, beurre, lait, farine et miel.
+\dt 06/Oct/2015
 
 \lx so˧dʑɯ#˥
 \sf <nb="B"> 624
@@ -56617,16 +56709,22 @@
 \ton L#
 \lc sɯ˧tsɯ˩
 \so <print="n"> F4
-\de Camphor.
+\de Camphor
 \ge camphor
 \dn 樟
 \gn 樟
-\df Camphre (arbre).
+\df Camphre.
 \gf camphre
 \xv sɯ˧tsɯ˩-dzi˩
-\xe camphor tree
+\xe camphor tree: a large evergreen tree
 \xn 樟树
-\xf arbre à camphre
+\xf camphrier, arbre à camphre
+\xc
+\xv æ̃˩ ʂe˥-qo˩, | sɯ˧tsɯ˩ kʰɯ˩!
+\xo
+\xe When cooking chicken meat [boiling chicken soup], one puts in camphor (among other spices)! / Camphor is one of the spices used when boiling chicken meat!
+\xn （煮）肌肉的时候，往里面放（一点）樟！
+\xf Quand on fait de la soupe de poulet, on y met un peu de camphre! / Le camphre est l'une des épices dont on assaisonne la viande de poulet!
 \dt 09/Oct/2015
 
 \lx sɯ˧tsɯ˧
@@ -57691,11 +57789,11 @@
 \so <print="n"> F4
 \pdl classifier
 \pdv pʰo˧˥
-\de Water buffalo (monosyllabic form, extracted from disyllables such as fn:/tʰɑ˩mi#˥/ ‘female buffalo').
+\de Water buffalo (monosyllabic form, extracted from disyllables such as |fv{tʰɑ˩mi#˥} ‘female buffalo').
 \ge water_buffalo
 \dn 水牛
 \gn 水牛
-\df Buffle; forme monosyllabique, qui n'est pas utilisée telle quelle, seulement dans des formes telles que fn:/tʰɑ˩mi#˥/ ‘buffle femelle'.
+\df Buffle; forme monosyllabique, qui n'est pas utilisée telle quelle, seulement dans des formes telles que |fv{tʰɑ˩mi#˥} ‘buffle femelle'.
 \gf buffle(monosyll.)
 \dt 09/Oct/2015
 
@@ -58085,6 +58183,7 @@
 \sf <nb="2011"> 2593
 \or dage
 \ps v
+\ton LM
 \lc tɑ˩kɤ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -58465,7 +58564,7 @@
 \xf comme moi; à mon exemple
 \xv no˧=ɻ̍˩-bv̩˩, | njɤ˧=ɻ̍˩-bv̩˩, | tɑ˧pi˧!
 \xe Yours and ours are built on the same pattern / are identical! (Context: discussing the farms of the village: they are all built on the same model, in the same way, and thus identical.)
-\xn 你家的房子，我家的房子，都是一样的！（如：一个村子里的房子，都是按同一个模式建设的。）
+\xn 你家的（房子），我家的（房子），都是一样的！（如：一个村子里的房子，都是按同一个模式建设的。）
 \xf Le mien et le tien, ils sont faits sur le même exemple =ils sont pareils! (au sujet de bâtiments, par exemple: les maisons d'un même village sont bâties sur le même modèle)
 \xv no˧-ɳɯ˧ gv̩˩, | njɤ˧-ɳɯ˧-gv̩˩, | tɑ˧pi˧!
 \xe Whether it's you or me who's building [the house], it's the same / the result is the same!
@@ -58474,7 +58573,7 @@
 \xv ʈʂʰɯ˧-bi˩ | tɑ˧pi˧, | njɤ˧-ɳɯ˧ dɑ˧-bi˥-ze˩!
 \xe I am going to build [a house] like that one! / I am going to build [a house] that will be identical to his!
 \xn 我要盖跟这一样的房子！
-\xf je vais construire [une maison] comme celle-là/ je vais imiter cette maison-là! / Je vais construire une maison qui sera pareille à la sienne!
+\xf Je vais construire [une maison] comme celle-là/ je vais imiter cette maison-là! / Je vais construire une maison qui sera pareille à la sienne!
 \xv no˧=ɻ˩ njɤ˩=ɻ˩, | tɑ˧pi˧ mɤ˧-tʰɑ˩!
 \xe There's no point comparing oneself to others!
 \xn 你的，我的，不要相比！/不要跟他人相比！
@@ -58497,11 +58596,11 @@
 \dn 打比方（汉语借词：当地汉语方言‘打比’）
 \gn 打比方（借词）
 \gr 打比
-\df Prendre pour exemple.
-\gf 打比::prendre_pour_exemple
+\df Prendre un exemple.
+\gf 打比::prendre_un_exemple
 \xv tɑ˧pi˧-ze˩
 \xe |fg{pfv}
-\xn 打比方
+\xn 打比方了
 \xf |fg{pfv}
 \xc PHONO
 \dt 23/Jun/2017
@@ -58527,7 +58626,7 @@
 \xv tɑ˧pi˧ ɲi˩-ze˩ mæ˩! |
 \xe I only say this as an example!
 \xn 只是比方而已！
-\xf Je dis juste ça à titre d'exemple! (Contexte: F4 explique que tous les enfants ne profitent pas également des bons conseils qu'on leur donne: 'Toi, tes parents t'ont encouragé à étudier, et tu as réussi! Ton frère, il n'a pas réussi!' Me voyant prêt à corriger (pour dire que mon frère n'a pas moins bien réussi), elle souligne: 'Je dis juste ça à titre d'exemple!')
+\xf Je dis juste ça à titre d'exemple! (Contexte: F4 explique que tous les enfants ne profitent pas également des bons conseils qu'on leur donne: ‘Toi, tes parents t'ont encouragé à étudier, et tu as réussi! Ton frère, il n'a pas réussi!' Me voyant prêt à corriger (pour dire que mon frère n'a pas moins bien réussi), elle souligne: ‘Je dis juste ça à titre d'exemple!')
 \dt 23/Jun/2017
 
 \lx tɑ˧pʰi˩
@@ -58572,11 +58671,11 @@
 \xe dry meat, meat dried in the sun
 \xn 晒干的肉
 \xf viande séchée au soleil
-\xv v̩˩tsʰɤ˧˥ | le˧-ʈæ˥pv̩˩ kʰɯ˩
+\xv v̩˩tsʰɤ˧˥ | le˧-tæ˥pv̩˩ kʰɯ˩
 \xe to dry vegetables
 \xn 将蔬菜弄干（晒干）
 \xf faire sécher des légumes
-\xv v̩˩tsʰɤ˧˥ | ʈæ˧pv̩˩ gv̩˩
+\xv v̩˩tsʰɤ˧˥ | tæ˧pv̩˩ gv̩˩
 \xe to dry vegetables
 \xn 将蔬菜弄干（晒干）
 \xf faire sécher des légumes
@@ -59131,9 +59230,9 @@
 \df Prohibitif.
 \gf |fg{proh}
 \xv tʰɑ˧-lɑ˩~lɑ˩-ze˩!
-\xe Don't quarrel!
+\xe Stop quarrelling!
 \xn 别吵架了！
-\xf Arrêtez de vous disputer! / Ne vous disputez pas!
+\xf Arrêtez de vous disputer!
 \xv tʰɑ˧-dzo˧~dzo˥!
 \xe Don't touch!
 \xn 不要动来动去！ / 不要碰来碰去！
@@ -59217,10 +59316,6 @@
 \xe sloppy, not careful
 \xn 邋遢、草率、潦草
 \xf pas sérieux, négligé (au sujet d'un travail)
-\xv lo˧ ʝi˧ mɤ˧-tɑ˧~tɑ˧
-\xe to do sloppy work
-\xn 工作草率
-\xf travailler sans soin, de façon négligée
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧, | tɑ˧~tɑ˧!
 \xe (S)he works carefully!
 \xn 他很认真！
@@ -59251,6 +59346,10 @@
 \xe to see clearly
 \xn 看清楚
 \xf voir clairement
+\xv lo˧ ʝi˧ mɤ˧-tɑ˧~tɑ˧
+\xe to do sloppy work
+\xn 工作草率
+\xf travailler sans soin, de façon négligée
 \dt 09/Oct/2015
 
 \lx ʈʰæ˩~ʈʰæ˧˥
@@ -59424,7 +59523,6 @@
 \gn 酸
 \df Acide.
 \gf acide
-\xv tɕʰɯ˩-hĩ˩˥
 \rf M18
 \xv tɕi˧-hĩ˧ pʰi˩
 \xe to have acid reflux
@@ -59579,11 +59677,11 @@
 \xf prendre un repas
 \xv gv̩˧-tɕʰi˥
 \xe nine meals
-\xn 就顿（饭）
+\xn 九顿（饭）
 \xf neuf repas
 \xv tɕʰi˩ tʰv̩˩˥
 \xe to contribute food for the meals during a funeral ceremony: when one is invited to a funeral, one brings food as a contribution to the funeral
-\xn 带饭，“出（一）顿（饭）”：被请参加守孝时，要给那家主人带上饭）
+\xn 带饭，“出（一）顿（饭）”：被请参加守孝时，要给那家主人带上饭。
 \xf apporter de la nourriture, apporter un repas: lorsqu'on est invité à participer à des cérémonies funéraires, on apporte à manger, pour contribuer aux repas collectifs
 \xv tɕʰi˩tʰv̩˩-hĩ˥
 \xe the person who provides the meal at a wake (following a funeral); it is generally someone who is not from the household.
@@ -60048,7 +60146,7 @@
 \xv ʁæ˧ɻ̍˥ | tʰi˧-tɕɤ˩
 \xe to attach the yoke (to a buffalo)
 \xn 系上牛轭
-\xf fixer (un joug sur un buffle)
+\xf fixer (un joug au cou d'un buffle)
 \dt 27/Apr/2017
 
 \lx tɕɤ˧˥
@@ -60358,7 +60456,7 @@
 \xe Lily buds look like garlic!
 \xn 百合，像大蒜！
 \xf Le lis, ça ressemble à de l'ail!
-\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˥ dʑɯ˩-nɑ˩mi˩-ʁo˥ di˩-kv̩˩!
+\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˥ di˩-kv̩˩!
 \xe Lilies grow high up on the mountain!
 \xn 百合长在高山上！
 \xf Le lis, ça pousse dans la montagne/en haute montagne!
@@ -60915,21 +61013,21 @@
 \df Guêpe.
 \gf guêpe
 \xv tɕɯ˧mi˥$
-\xe female wasp (elicited combination)
-\xn 母蚂蜂（人工的词）
-\xf guêpe femelle (élicité pour le propos de l'étude tonale)
+\xe female wasp
+\xn 母蚂蜂
+\xf guêpe femelle
 \xc <type="tone"> H$
 \xc PHONO
 \xv tɕɯ˧pʰv̩#˥
-\xe male wasp (elicited combination)
+\xe male wasp
 \xn 公马蜂
-\xf guêpe mâle (élicité pour le propos de l'étude tonale)
+\xf guêpe mâle
 \xc PHONO
 \xc <type="tone"> #H
 \xv tɕɯ˧zo#˥
-\xe baby wasp (elicited combination)
+\xe baby wasp
 \xn 小马蜂
-\xf bébé guêpe (élicité pour le propos de l'étude tonale)
+\xf bébé guêpe
 \xc PHONO
 \xc <type="tone"> #H
 \dt 08/Oct/2015
@@ -61248,6 +61346,7 @@
 \sf <nb="B"> 1025
 \sf <nb="2011"> 1455
 \or qibbo
+\cf bo˩
 \ps adj
 \lc tɕʰɯ˧bo˧˥
 \sd <langue="fra"> adjectif
@@ -61422,12 +61521,12 @@
 \va <speaker="M21"> ID.
 \pdl classifier
 \pdv mi˩
-\de Chinese Hwamei or Melodious Laughingthrush (|fi{Leucodioptron canorum}).
+\de Chinese Hwamei or Melodious Laughingthrush: |fi{Leucodioptron canorum}.
 \ge hwamei
 \dn 画眉鸟
 \gn 画眉鸟
 \gr 画眉鸟
-\df Passereau de la famille des Leiothrichidae: (|fi{Leucodioptron canorum}). Le nom ‘hwamei’ signifie «sourcils peints» en référence à la marque distinctive autour des yeux de l'oiseau.
+\df Passereau de la famille des Leiothrichidae: |fi{Leucodioptron canorum}. Le nom ‘hwamei’ signifie «sourcils peints» en référence à la marque distinctive autour des yeux de l'oiseau.
 \gf passereau
 \xv tɕɯ˩mi˥ | ə˧mi˧ ɲi˩!
 \xe It's a mummy hwamei! (=a female)
@@ -61538,7 +61637,7 @@
 \gn 旁边的人打嚏喷时说的祝愿话
 \df À vos souhaits! (formule que l'on dit lorsque quelqu'un éternue).
 \gf A_vos_souhaits
-\dt 27/Apr/2017
+\dt 10/Jun/2018
 
 \lx tɕʰɯ˧si˩-dʑɤ˩pv̩˩
 \or qiseejjabu
@@ -61633,6 +61732,7 @@
 \lx tɕɯ˧zo˥$
 \or jisso
 \ps n
+\cf tɕɯ˧˥4
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton H$
@@ -61784,6 +61884,11 @@
 \gn 甜
 \df Sucré.
 \gf sucré
+\xv tɕʰɯ˩-hĩ˩˥
+\xo
+\xe sweet
+\xn 甜的
+\xf sucré
 \dt 27/Apr/2017
 
 \lx tɕʰɯ˧α
@@ -61812,7 +61917,7 @@
 \xf lever la jambe
 \xv gɤ˩-mɤ˧-tɕʰɯ˧
 \xe not to raise
-\xn 不抬起来
+\xn 抬不上
 \xf ne pas lever
 \xc PHONO
 \dt 27/Apr/2017
@@ -61931,7 +62036,7 @@
 \xe This person is not mature yet! / This person is not an adult yet!
 \xn 这个人，还不成熟！
 \xf Cette personne n'est pas encore adulte!
-\xv zo˩mv̩˧ | gɤ˩-ti˧, | lo˧ hɑ˧!
+\xv zo˩mv̩˥ | gɤ˩-ti˥, | lo˧ hɑ˧!
 \xe For a child to grow/to become an adult is no easy business! (Refers to difficulty both for the child and for the family)
 \xn 孩子长成熟（的过程），还是挺难的！
 \xf La croissance d'un enfant (jusqu'à l'âge adulte), c'est pas facile! (La difficulté est pour les parents, et aussi pour l'enfant)
@@ -62109,19 +62214,45 @@
 \or didia
 \bw <langue="cmn"> 对待
 \ps v
-\lc ti˩tje˧
+\lc ti˩tje˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np <langue="eng"> phonetic realization: close to [ti˩tjɛ˧]
 \ton LM
 \so <print="n"> F4
-\de To treat, to handle (someone).
+\de To treat, to handle (someone in a certain way).
 \ge 对待::to_treat
 \dn 对待（汉语借词）
 \gn 对待（借词）
-\df Traiter (quelqu'un).
+\df Traiter (quelqu'un d'une certaine façon).
 \gf 对待::traiter
 \dt 04/Sep/2017
+
+\lx ti˧tsʰo˧
+\or dico
+\ps n
+\lc ti˧tsʰo˧
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\nt <type="hist" print="n"> ajouté en 2018 ; sens à voir ; ton à confirmer xxxx
+\nt <type="hist" print="n"> 
+\ton M
+\so <print="n"> F5
+\va <speaker="F5"> ti˧˥tsɯ˥
+\pdl
+\pdv
+\de A sort of fabric, made of cotton, recently introduced in Yongning
+\ge fabric_sp
+\dn 一种布料，棉花做的
+\gn 一种布料
+\df Sorte de tissu (dentelle?) fabriqué en coton; d'introduction récente.
+\gf sorte_de_tissu
+\xv ti˧tsʰo˧ ʐv̩˩
+\xo
+\xe to sew this sort of fabric
+\xn 缝这种布料
+\xf coudre ce type de tissu
+\dt 10/Jun/2018
 
 \lx ti˧tsɯ˥
 \sf <nb="B"> 488b
@@ -62163,11 +62294,11 @@
 \pdv ɭɯ˧
 \de Hammer.
 \ge hammer
-\dn 铁锤
-\gn 铁锤
+\dn 铁锤（汉语借词）
+\gn 铁锤（借词）
 \df Marteau.
 \gf marteau
-\dt 27/Apr/2017
+\dt 10/Jun/2018
 
 \lx tʰi˩zo#˥
 \or tisso
@@ -62218,7 +62349,7 @@
 \xv tsʰo˧ko˧ ti˩
 \xe to pound cardamom
 \xn 捣草果
-\xf piler la cardamome, réduire de cardamome en poudre
+\xf piler la cardamome, réduire de la cardamome en poudre
 \xv dze˩ ti˥
 \xe to pound Szechuan pepper
 \xn 捣花椒
@@ -62249,7 +62380,13 @@
 \xe (She/he) has slapped someone.
 \xn （他）拍打了某人。
 \xf (Elle/il) a donné une tape à quelqu'un.
-\dt 08/Oct/2015
+\xc
+\xv ʁo˧qʰwɤ˩ ti˩~ti˩
+\xo
+\xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame) 
+\xn 崩头（在进主屋的时候，容易崩头在门框上）
+\xf se cogner la tête (par exemple, sur le haut de l'encadrement étroit de la porte d'entrée de la pièce principale)
+\dt 09/Jun/2018
 
 \lx ti˧˥α
 \or di
@@ -62268,7 +62405,7 @@
 \xv dʑɯ˩-nɑ˩mi˩˥ | gv̩˧-ti˩-qo˩ tʰv̩˩
 \xe To arrive at the heart of the heart of the alpine forest. Literally ‘in the ninth layer of alpine forest'; ‘ninth' here serves as the highest numeral, to refer to an extreme; there is no such thing as a ‘first layer', a ‘second layer' and so on.
 \xn 到深山老林的最深处。直译：‘到深山老林的第九层’。这里的‘九’作为最高的数字，表示‘极深’的意思：不能说‘深山老林的第一层’、‘第二层’等。
-\xf se retrouver au plus profond de la forêt: littéralement «dans la neuvième couche de forêt/d'alpage» (=au plus profond; on ne compte pas au-delà de la 9e «couche»; ce décompte est métaphorique, il ne correspond pas à un décompte en étapes à pied, par exemple.
+\xf se retrouver au plus profond de la forêt: littéralement «dans la neuvième couche de forêt/d'alpage» (=au plus profond; on ne compte pas au-delà de la 9e «couche»; ce décompte est métaphorique, il ne correspond pas à un décompte en étapes à pied, par exemple).
 \dt 30/Apr/2017
 
 \lx tʰi˩α
@@ -62525,11 +62662,11 @@
 \gn 电视（借词）
 \df Télévision.
 \gf 电视::télévision
-\xv tjɤ˩ʂɯ˧ li˥
+\xv tjɤ˩˥ʂɯ˧ li˥
 \xe to watch television
 \xn 看电视
 \xf regarder la télévision
-\xv tjɤ˩ʂɯ˧-qo˥
+\xv tjɤ˩˥ʂɯ˧-qo˥
 \xe on television
 \xn 电视上
 \xf à la télévision
@@ -62597,6 +62734,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> (pensé que c'était un emprunt au chinois; mais n'est pas probable car n'aurait pas une initiale voisée)
+\cf to˩bi#˥
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -62621,6 +62759,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="sem"> (pensé que c'était un emprunt au chinois; mais n'est pas probable car n'aurait pas une initiale voisée)
+\cf to˩bi˩
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -62826,7 +62965,7 @@
 \xe to be lucky; to have a good karma
 \xn 好运气，运气好
 \xf avoir de la chance; avoir un bon karma
-\xv njɤ˧ | tsʰi˧ʝi˧ | to˧kɤ˧ dʑjɤ˥ (+ | ʐwæ˩˥)
+\xv njɤ˧ | tsʰi˧ʝi˧ | to˧kɤ˧ dʑɤ˥ (+ | ʐwæ˩˥)
 \xe This year, I am lucky! / This is an auspicious year for me!
 \xn 我今年运气好！
 \xf Cette année, j'ai de la chance!
@@ -62864,11 +63003,11 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \so <print="n"> F4
-\de Wax gourd, white gourd, winter melon.
+\de Wax gourd, white gourd, winter melon, |fi{Benincasa hispida}.
 \ge wax_gourd
-\dn 冬瓜
-\gn 冬瓜
-\df Benincasa hispida.
+\dn 冬瓜（汉语借词）
+\gn 冬瓜（借词）
+\df |fi{Benincasa hispida}.
 \gf Benincasa_hispida
 \dt 01/Jul/2017
 
@@ -71604,8 +71743,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
-\pdv ɭɯ˧
 \de Time.
 \ge time
 \dn 时间
@@ -71626,6 +71763,8 @@
 \xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
 \dt 18/Jul/2016
 \sn 2
+\pdl classifier
+\pdv ɭɯ˧
 \de Spell of time; hour.
 \ge hour
 \dn 时间段、小时
@@ -71762,7 +71901,7 @@
 \xf repiquer le riz
 \xv le˧-tv̩˧-ze˧
 \xf |fg{accomp} _ |fg{pfv}
-\xv le˧-tv̩˥-tv̩˩-ze˩
+\xv le˧-tv̩˥~tv̩˩-ze˩
 \xf |fg{red}
 \xc PHONO
 \dt 27/Apr/2017
@@ -74496,7 +74635,7 @@
 \dt 07/Oct/2015
 
 \lx ʑi˧-tʰo˩
-\or xxitoqAM
+\or xxito
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -77369,61 +77508,6 @@
 \xf marcher derrière, suivre derrière
 \dt 05/Jul/2017
 
-\lx ‑gɤ˧
-\or gge
-\ps n
-\lc gɤ˧
-\ton M
-\sn 1
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> avant 2014: n'avais pas indiqué de ton.
-\nt RDCOMMENT: You can this a noun, but you mark it as ‑gɤ...
-\so <print="n"> F4
-\de Place.
-\ge place
-\dn 地方
-\gn 地方
-\df Lieu, endroit.
-\gf lieu/endroit
-\xv njɤ˧ | ɖɯ˧-ʝi˧ (-gɤ˧) bi˧-zo˧-ho˩!
-\xe I have to go somewhere! / I have to make a trip! / I'm off!
-\xn 我要去一个别的地方！ / 我要换一个地方了！ / 我要走了！
-\xf Je dois me rendre quelque part! / Je dois faire un voyage! / Je m'en vais! (Contexte: lorsqu'on se prépare réellement à un voyage; ou lors d'une dispute, lorsqu'on menace de quitter la maison.)
-\xv ze˩ gɤ˧
-\xe which place
-\xn 什么地方
-\xf quel endroit
-\xv ʈʂʰɯ˧-gɤ˧
-\xe this place
-\xn 这个地方
-\xf cet endroit-ci
-\xc <type="tone"> M
-\xv tʰv̩˧-gɤ˧
-\xe that place
-\xn 那个地方
-\xf cet endroit-là
-\xc <type="tone"> M
-\sn 2
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\so <print="n"> F4
-\de Moment.
-\ge moment
-\dn 时候
-\gn 时候
-\df Moment.
-\gf moment
-\xv ʂɯ˧-ɬi˧mi˧-qo˧-gɤ˧ tʰv̩˧
-\xe when the seventh month has come, when one is in the seventh month
-\xn 七月到了的时候
-\xf quand est venu le septième mois, quand on en est au septième mois
-\xv ʂɯ˧-ɬi˧mi˧-qo˧-gɤ˧-dʑo˥
-\xe in the seventh month, during the seventh month
-\xn 七月的时候
-\xf pendant le septième mois, au cours du septième mois
-\dt 05/Jul/2017
-
 \lx ‑gɤ˧bi#˥
 \sf <nb="B"> 710
 \sf <nb="2011"> 1059
@@ -78405,6 +78489,10 @@
 \gn 主题
 \df Marqueur de topique qui délimite l'objet ou l'ensemble concerné, le faisant ressortir contre l'arrière-plan formé par les éléments proches de lui dans l'espace conceptuel. Plutôt que d'un contraste, il s'agit d'une appréhension de l'objet concerné dans son unité.
 \gf |fg{top.délimitant}
+\xv no˩-se˥, | ɖwæ˧˥ | le˧-gɤ˩-ze˩: | zo˧mv̩˥ hɤ˩-zo˩!
+\xe You have grounds for satisfaction: your children are really bright!
+\xn 你呢，（应该）很满意：（你的）孩子很成功！
+\xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants/habiles!
 \dt 27/Apr/2017
 
 \lx ‑se˩
