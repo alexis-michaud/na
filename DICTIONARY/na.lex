@@ -3027,11 +3027,17 @@
 \gn 凉
 \df Refroidir, mettre à refroidir.
 \gf refroidir
+\rf F5
+\xv tʰi˧-bo˩-kʰɯ˩!
+\xo
+\xe Let's leave it to cool down! (About a sizzling hot dish.)
+\xn 让凉一下！（菜很热，等凉了一下再吃）
+\xf On laisse refroidir! (Un plat est brûlant; on le laisse refroidir un peu avant de le manger.)
 \xv dʑɯ˩ qʰæ˩ qo˥ | tʰi˧-bo˩-kʰɯ˩
 \xe To put to cool down in cold water. (After boiling eggs, one puts them in cold water to cool them down.)
 \xn （把煮好了的鸡蛋）放在冷水里凉一下（它）在发光。（描写灯）
 \xf Plonger dans l'eau froide pour refroidir (après avoir cuit des œufs à la coque, on les plonge dans l'eau froide, pour les refroidir, et aussi pour que la coquille se détache plus facilement.)
-\dt 13/May/2018
+\dt 08/Jul/2018
 
 \lx bo˩˧
 \sf <nb="B"> 1853
@@ -16960,10 +16966,10 @@
 \xn 揉了
 \xf |fg{accomp} _ |fg{pfv}
 \xc PHONO
-\xv le˧-gɯ˩ɭɯ˩~le˧-gɯ˩ɭɯ˩
-\xe |fg{accomp} |fg{red} |fg{pfv}
+\xv le˧-gɯ˩ɭɯ˩ | le˧-gɯ˩ɭɯ˩
+\xe |fg{accomp}, with repetition
 \xn 揉一揉
-\xf |fg{accomp} |fg{red} |fg{pfv}
+\xf |fg{accomp}, répété
 \xc PHONO
 \dt 02/Sep/2015
 
@@ -17046,6 +17052,7 @@
 \hm 2
 \or ggeeq
 \ps adj
+\cf gi˩α
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (gɯ˩i˧: sens vérifié en 09; avais d'abord noté /gɯ˧i˥/) (avant 09, noté: “gɯ˩wɤ˥ɻ̍˧; confirmé; d'abord noté ˩˥˩ et gɤ") (avant 09: noté gɯ˧ʂv̩˧ɖv̩˧˥, par erreur)
@@ -17306,11 +17313,11 @@
 \va <speaker="M21"> ID.
 \pdl classifier
 \pdv ɭɯ˧
-\de Body.
+\de Body. A more refined term than |fv{gv̩˧mi˧}.
 \ge body
 \dn 身体
 \gn 身体
-\df Corps.
+\df Corps. Formulation plus relevée que |fv{gv̩˧mi˧}.
 \gf corps
 \dt 24/Apr/2017
 
@@ -17642,6 +17649,27 @@
 \xf Le soleil ne s'est pas encore couché.
 \dt 02/Sep/2015
 
+\lx gwɤ˩
+\sf <nb="2011"> 2364
+\or gguaq
+\ps v
+\lc gwɤ˩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L
+\so <print="n"> F4
+\de To stroll.
+\ge to_stroll
+\dn 逛，玩，游
+\gn 游
+\df Se promener.
+\gf se_promener
+\xv æ˧ʂæ˧ gwɤ˩; | qv̩˧ɻ̍˧ gwɤ˥; | nɑ˩tsʰi˩ gwɤ˥
+\xe “to walk around Mount fv:/æ˧ʂæ˧/; to walk around Mount fv:/qv̩˧ɻ̍#˥/; to walk around Mount fv:/nɑ˩tsʰi˩/": i.e. to do rituals on these mountains, in particular to obtain fertility, or to obtain a cure for a child who did not learn to speak.
+\xn 绕|fv{æ˧ʂæ˧}山，绕|fv{qv̩˧ɻ̍#˥}山，绕|fv{nɑ˩tsʰi˩}山（做“绕山”仪式，为了求生子等）
+\xf «faire le tour de la montagne fv:/æ˧ʂæ˧/; faire le tour de la montagne fv:/qv̩˧ɻ̍#˥/; faire le tour de la montagne fv:/nɑ˩tsʰi˩/»: façon de désigner les rites qu'on pratiquait sur ces montagnes: pour des enfants qui tardaient à apprendre à parler, etc.
+\dt 01/Jul/2018
+
 \lx gwɤ˩ʝi˧
 \sf <nb="2011"> 1615
 \or gguaq yi
@@ -17740,11 +17768,7 @@
 \xe (S)he has gone out for a walk!
 \xn 他散步去了！
 \xf Il/elle est parti(e) se promener!
-\xv æ˧ʂæ˧ gwɤ˩; | qv̩˧ɻ̍˧ gwɤ˥; | nɑ˩tsʰi˩ gwɤ˥
-\xe “to walk around Mount fv:/æ˧ʂæ˧/; to walk around Mount fv:/qv̩˧ɻ̍#˥/; to walk around Mount fv:/nɑ˩tsʰi˩/": i.e. to do rituals on these mountains, in particular to obtain fertility, or to obtain a cure for a child who did not learn to speak.
-\xn 绕|fv{æ˧ʂæ˧}山，绕|fv{qv̩˧ɻ̍#˥}山，绕|fv{nɑ˩tsʰi˩}山（做“绕山”仪式，为了求生子等）
-\xf «faire le tour de la montagne fv:/æ˧ʂæ˧/; faire le tour de la montagne fv:/qv̩˧ɻ̍#˥/; faire le tour de la montagne fv:/nɑ˩tsʰi˩/»: façon de désigner les rites qu'on pratiquait sur ces montagnes: pour des enfants qui tardaient à apprendre à parler, etc.
-\dt 24/Apr/2017
+\dt 01/Jul/2018
 
 \lx hæ̃˩
 \sf <nb="B"> 66
@@ -18312,7 +18336,7 @@
 \ge rafter
 \dn 椽子
 \gn 椽子
-\df Pièce de charpente: poutrelles de toiture: poutrelles courtes, installées en inclinaison, dans le sens de la largeur du bâtiment, sur les poutres horizontales, ʐv̩˩ɭɯ˥. Les tuiles (autrefois: les planches) reposent sur ces poutrelles.
+\df Pièce de charpente: poutrelles de toiture: poutrelles courtes, installées en inclinaison, dans le sens de la largeur du bâtiment, sur les poutres horizontales, |fv{ʐv̩˩ɭɯ˥}. Les tuiles (autrefois: les planches) reposent sur ces poutrelles.
 \gf poutrelles_de_toiture
 \dt 13/Jun/2017
 
@@ -18590,7 +18614,7 @@
 
 \lx hæ̃˧ʂɯ˩‑
 \or haenshi
-\ps n
+\ps adj
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="sem" langue="eng">l'étymologie demeure transparente: “or jaune". Mais cette expression ne peut être utilisée pour désigner le véritable or: c'est une façon sophistiquée de parler, réservée au registre métaphorique. Les tons ne sont pas ceux qu'on attendrait au vu des règles actuellement productives.
@@ -18601,7 +18625,7 @@
 \pdv nɑ˧
 \de ‘precious': a prefix added to certain nouns to coin a prestige term. This prefix is not currently productive: it cannot be added to terms such as ‘mother', ‘house'…
 \ge precious
-\df ‘précieux': préfixe ajouté à certains noms pour construire une appellation prestigieuse. ; n'est pas productif: on ne peut l'ajouter à: /ə˧mɑ˧/ ‘mère', /ɑ˩ʁo˧/ ‘maison', etc.
+\df ‘précieux': préfixe ajouté à certains noms pour construire une appellation prestigieuse. ; n'est pas productif: on ne peut l'ajouter à: |fv{ə˧mɑ˧} ‘mère', |fv{ɑ˩ʁo˧} ‘maison', etc.
 \gf précieux
 \xv hæ̃˧ʂɯ˩-to˩mi˩
 \xe the Precious Pillars, the Golden Pillars: a solemn designation for the two pillars of the main building
@@ -18855,7 +18879,7 @@
 \gn 应该
 \df Devoir, falloir.
 \gf devoir/falloir
-\xv mɤ˧-hĩ˧
+\xv mɤ˧-hĩ˧˥
 \xe |fg{neg}
 \xn 否定
 \xf |fg{neg}
@@ -18864,6 +18888,12 @@
 \xe You have to do it!
 \xn 你应该做！
 \xf c'est à toi de le faire! / il faut que tu le fasses!
+\xc
+\xv ʝi˧ mɤ˧-hĩ˧˥
+\xo
+\xe ... need not be done, does not have to be done
+\xn 不应该做
+\xf ... n'a pas à être fait
 \xv njɤ˧ | ʝi˧-mɤ˧-hĩ˧-hĩ˥ | (ɖɯ˧-pi˧) ʝi˧-ze˩! |
 \xe I have done something I shouldn't have!
 \xn 我做了一件不应该做的事！
@@ -18906,7 +18936,7 @@
 \xf une lignée, une famille
 \xv hĩ˧-mv̩˥ hĩ˩-di˩
 \xe other people's home, other people's place (as opposed to one's home place)
-\xn 人家的地方，人家的故乡（不是自己的地方）
+\xn 人家的地方，人家的故乡、他乡
 \xf les terres étrangères, les terres d'autres gens (par opposition avec sa propre terre natale)
 \xc <langue="fra"> s'oppose à: fv:/õ˧mv̩˥-õ˩di˩/
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
@@ -19184,6 +19214,38 @@
 \df Personne dangereuse, ennemi, bandit; littéralement: «personne susceptible de frapper les gens».
 \gf personne_dangereuse
 \dt 24/Apr/2017
+
+\lx hi˧le˩
+\or xiele
+\ps adj
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de fv{/hi˧le˩ ʝi˩/} comme fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
+\np forme monosyllabique: extraite de l'expression disyllabique fv:/hi˧le˩/
+\ton H?
+\lc --
+\so <print="n"> F4
+\de Fast.
+\ge fast
+\dn 快
+\gn 快
+\df Rapide, rapidement.
+\gf rapide
+\ue archaic
+\xv hi˧le˩ ʝi˩
+\xe to do quickly
+\xn 快速做
+\xf faire rapidement
+\xc <langue="fra"> la forme est si réduite qu'elle en paraît disyllabique, proche d'un simple fv:[hi˧le˩]
+\xv hi˧le˩ | le˧-jo˩!
+\xe Come quickly!
+\xn 快来！
+\xf viens vite!
+\xv ʈʂʰɯ˧ | ɖwæ˧˥ | hi˧le˩ | ʝi˧-kv̩˩!
+\xe (S)he knows how to work really fast!
+\xn 他做事很麻利！
+\xf Lui, il sait travailler vite!
+\dt 01/Jul/2018
 
 \lx hi˩mi˩
 \sf <nb="B"> 125
@@ -19484,7 +19546,7 @@
 \xe same meaning: the family members belonging to the same generation
 \xn 同一辈的亲戚：兄弟姐妹、堂兄弟姐妹
 \xf même sens: les gens de la même génération, dans la famille: frères, sœurs, mais aussi cousins du côté maternel
-\xv ʈʂʰɯ˧ | njɤ˧ | hĩ˧ tɕʰɯ˧ ɲi˥!
+\xv ʈʂʰɯ˧ | njɤ˧ hĩ˧ tɕʰɯ˧ ɲi˥!
 \xe (S)he is someone of my generation! (=my cousin, my brother/sister…)
 \xn 他是跟我同一辈的亲戚！（=堂兄弟姐妹）
 \xf C'est mon cousin/ma cousine/quelqu'un de ma fratrie!
@@ -19584,7 +19646,7 @@
 \gn 小舌
 \df Luette.
 \gf luette
-\xv qv̩˧ʈʂæ˧-bv̩˥ | hi˩ʐæ˧
+\xv qv̩˧ʈʂæ˧-bv̩˥ | hi˩ʐæ˥
 \xe the uvula; specifying ‘the throat's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, fv:/hi˩ʐæ˥/.
 \xn 小舌
 \xf la luette; la précision ‘…de la gorge' permet de lever l'ambiguïté lorsqu'il pourrait s'agir du tendon de la langue, lui aussi désigné comme fv:/hi˩ʐæ˥/.
@@ -19595,7 +19657,7 @@
 \gn 舌头的筋
 \df Tendon de la langue.
 \gf tendon_de_la_langue
-\xv hi˩mi˩-bv̩˧ | hi˩ʐæ˧
+\xv hi˩mi˩-bv̩˥ | hi˩ʐæ˥
 \xe the tendon of the tongue; specifying ‘the tongue's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, fv:/hi˩ʐæ˥/.
 \xn 舌头的筋
 \xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme fv:/hi˩ʐæ˥/.
@@ -19748,13 +19810,13 @@
 \nt <type="sem"> le mot ancien (na) est oublié
 \ton LM
 \so <print="n"> F4
-\de Wrinkled giant hyssop, |fi{Elshotzia sp.}.
+\de Wrinkled giant hyssop, |fi{Elshotzia sp.}
 \ge hyssop
 \dn 藿香
 \gn 藿香
-\df Hysope, |fi{Elshotzia sp.}.
+\df Hysope, |fi{Elshotzia sp.}
 \gf hysope
-\dt 24/Apr/2017
+\dt 01/Jul/2018
 
 \lx ho˧ɕjæ˩
 \sf <nb="B"> 618
@@ -20018,6 +20080,7 @@
 \lx hɤ˩-ʂe˩ʂe˩
 \or heqsheiqsheiq
 \ps adj
+\nt <type="hist" print="n"> Ne s'emploie pas sans |fv{-hĩ}
 \ton L
 \lc hɤ˩-ʂe˩ʂe˩˥
 \cf hɤ˩a3
@@ -20030,10 +20093,18 @@
 \gn 既健康
 \df En pleine forme, rayonnant de santé.
 \gf en_pleine_forme
+\rf F4
+\xv hɤ˩-ʂe˩ʂe˩-hĩ˩˥
+\xo
+\xe In excellent health, blooming with health.
+\xn 既健康
+\xf En pleine forme, rayonnant de santé.
+\xc
 \xv hɤ˩-ʂe˩~ʂe˩-hĩ˥
 \xe people blooming with health: typically, young people
 \xn 既健康的人（如：既健康的年轻人）
 \xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
+\xc
 
 \lx ho˩tʰɑ˩˥
 \or hota
@@ -20245,7 +20316,7 @@
 \xe |fg{neg}
 \xn 不合适，不准，不对
 \xf |fg{neg}: faux, erroné, inapproprié
-\xv ho˩-ze˧!
+\xv ho˩-ze˥!
 \xe |fg{pfv}
 \xn 对了！ / 准确！
 \xf |fg{pfv}
@@ -20346,10 +20417,24 @@
 \xe |fg{neg}
 \xn 不好
 \xf |fg{neg}
+\xc PHONO
 \xv hɤ˩-hĩ˩˥
 \xe |fg{rel}/|fg{nmlz}
 \xn 好的
 \xf |fg{rel}/|fg{nmlz}
+\xc PHONO
+\xv hɤ˩ sɯ˥!
+\xo
+\xe (I'm) still fine! / I'm still in good health! (Answer to the question ‘How are you?’, when acquaintances meet after several years.)
+\xn 还好！ / 我身体还好！（情景：认识的人，几年没有见面，见面时问最近怎么样。）
+\xf Ca va encore bien! / La santé reste bonne! (Réponse à la question ‘Comment ça va?’, entre connaissances qui se retrouvent après plusieurs années.)
+\xc
+\xv ə˧mi˧ | hɤ˩ sɯ˥!
+\xo
+\xe My mother is still fine! / My mother is still in good health! (Answer to the question ‘How is your mother?’)
+\xn 母亲还好！ / 母亲身体还好！（情景：认识的人，几年没有见面，见面时问一下家人最近怎么样。）
+\xf Ma mère va encore bien! / La santé de ma mère reste bonne! (Réponse à la question ‘Comment va la famille?’, entre connaissances qui se retrouvent après plusieurs années.)
+\xc
 \sn 2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -21884,10 +21969,18 @@
 \xe A tiger is coming! / A tiger has come round!
 \xn 老虎来了！
 \xf Voilà le tigre! / Un tigre arrive!
-\xv lɑ˧ le˧-ʝi˩-ze˩!
+\xv lɑ˧ | le˧-ʝi˩-ze˩!
 \xe The tiger is coming back! / The tiger is coming again!
 \xn 老虎又来了！
 \xf Voilà le tigre qui revient! / Le tigre est revenu!/ Le tigre est de retour!
+\xc
+\rf F5
+\xv ʈʂʰɯ˧ | ə˩-ʝi˥?
+\xo
+\xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
+\xn 他来吗？/他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？/他能跟上吗？”）
+\xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: “Il suit? / Ca suit?”)
+\xc
 \xv mɤ˧-ʝi˧-ze˧!
 \xe It's going wrong! / Something is going wrong! / We're in for trouble!
 \xn 不好了！不行了！
@@ -21904,11 +21997,11 @@
 \nt <type="sem"> sans doute mot ancien; perçu par F4 comme le même mot que dans ʝi˧-kʰv̩˥ ‘certains'; n'est pas perçu comme un emprunt chinois
 \ton M
 \so <print="n"> F4
-\de One (restricted use: only in association with /ɭɯ˧/).
+\de One (restricted use: only in association with |fv{ɭɯ˧}).
 \ge one
 \dn 一
 \gn 一
-\df Un (numéral, à emploi restreint; ne se combine qu'avec le classificateur /ɭɯ˧/).
+\df Un (numéral, à emploi restreint; ne se combine qu'avec le classificateur |fv{ɭɯ˧}).
 \gf un
 \xv zo˧mv̩˥ | ʝi˧-ɭɯ˧ ʂv̩˧
 \xe to take care of a child
@@ -24705,7 +24798,7 @@
 \dt 15/Jun/2017
 
 \lx kʰo˧ɕi˩
-\or to be added
+\or kexi
 \bw <langue="cmn"> 可惜
 \ps adj
 \sd <langue="fra"> adjectif
@@ -28500,7 +28593,7 @@
 \ge small_wine_jar
 \dn 小坛子，用来存酒
 \gn 小酒坛子
-\df Petite cruche, petit pot pour l'alcool; sert pour le conserver longtemps, pas seulement pour le verser.
+\df Jarre, pot pour l'alcool; sert pour le conserver longtemps, pas seulement pour le verser.
 \gf petite_cruche_à_vin
 \dt 04/Sep/2015
 
@@ -31660,6 +31753,13 @@
 \gn 左撇子
 \df Gaucher.
 \gf gaucher
+\rf F5
+\xv ʈʂʰɯ˧ | lo˩ʁwæ˧ gɤ˥ tʰv̩˩!
+\xo
+\xe He's left-handed!
+\xn 他是左撇子！
+\xf Il est gaucher!
+\xc
 \dt 04/Sep/2015
 
 \lx lo˧ʂv̩˩
@@ -36361,6 +36461,13 @@
 \xe during the rainy season
 \xn 雨季的时候
 \xf pendant la saison des pluies
+\xc
+\rf F5
+\xv mv̩˧ʐe˧-qo˥ ɳɯ˩, | hi˩ gi˩˥!
+\xo
+\xe Rain only comes with the rainy season! (Context: in the first days of May, a visitor who sees the sky getting cloudy asks whether it is going to rain. Gisso answers that it rain only begins in earnest with the coming of the rainy season.)
+\xn 雨季的时候，（会）下雨！（情景：五月初，一个人问会不会下雨，给若回答说，雨季来了才会开始大量下雨。）
+\xf C'est à partir de l'été qu'il pleut! / Les pluies commencent avec la saison des pluies! (Contexte: dans les premiers jours de mai, un visiteur qui voit le ciel se couvrir demande s'il va pleuvoir; Gisso répond que c'est seulement avec l'été que les pluies commencent.)
 \dt 04/Sep/2015
 
 \lx mv̩˧ʐe˧-ʈʂʰæ˧ɣɯ#˥
@@ -39498,6 +39605,25 @@
 \gn 灰条菜/灰灰菜
 \gr 灰凋
 \df Sorte de fourrage pour les cochons, |fi{Chenopodium album}. (Il y a en tout trois sortes de fourrage pour les cochons.).
+\gf fourrage_pour_cochons
+\dt 09/Sep/2015
+
+\lx njɤ˧hṽ̩˩
+\or nyahun
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L#
+\lc njɤ˧hṽ̩˩
+\so <print="n"> F5
+\pdl classifier
+\pdv qɑ˩
+\de A plant used as fodder for the pigs.
+\ge pig_fodder
+\dn 灰条菜、灰灰菜：喂猪的牧草
+\gn 灰条菜/灰灰菜
+\gr 灰凋
+\df Sorte de fourrage pour les cochons.
 \gf fourrage_pour_cochons
 \dt 09/Sep/2015
 
@@ -45128,6 +45254,28 @@
 \xe I help you
 \xn 我帮你
 \xf je t'aide
+\dt 15/Sep/2015
+
+\lx qɑ˩~qɑ˧˥
+\or ghagha
+\ps adv
+\cf qɑ˧˥
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n"> 
+\ton L+MH
+\lc qɑ˩qɑ˧˥
+\so <print="n"> F5
+\de Together.
+\ge together
+\dn 一起
+\gn 一起
+\df Ensemble.
+\gf ensemble
+\xv qɑ˩~qɑ˧˥ | dzɯ˧-bi˧!
+\xe Let's have dinner together! (Context: only one person is at home; two guests come round; since there are only three people in total, it would be awkward to have separate meals for the guests and hosts, as is usually the case; it is therefore decided to have dinner together.)
+\xn 一起吃吧！（情景：家里只有一个人。来了两个客人。按常规，客人和家人要分开吃：客人先吃，再开饭给家里的人们。但由于人那么少，就决定一起吃。）
+\xf Mangeons donc ensemble! (Contexte: il n'y a qu'une personne à la maison; deux invités se présentent; selon la coutume, les invités devraient prendre leur repas avant les gens de la maisonnée, mais comme il n'y a que trois personnes en tout, il est décidé de manger ensemble.)
 \dt 15/Sep/2015
 
 \lx qʰæ˩
@@ -62381,6 +62529,7 @@
 \xn （他）拍打了某人。
 \xf (Elle/il) a donné une tape à quelqu'un.
 \xc
+\rf F4, F5
 \xv ʁo˧qʰwɤ˩ ti˩~ti˩
 \xo
 \xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame) 
@@ -64357,7 +64506,15 @@
 \xe to cook tsamba (grilled flour)
 \xn 炒糌粑，制作糌粑
 \xf préparer du tsamba/de la farine grillée
-\dt 27/Apr/2017
+\xc
+\rf F5
+\xv bo˩hɑ˧-tsɑ˧bɤ˥
+\xo
+\xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
+\xn 用来煮猪食的面粉（玉米面粉）
+\xf Farine à pâtée: farine employée pour la confection de la pâtée pour cochons. (A la date de l'enquête, cette farine était obtenue par mouture d'une variété de maïs non utilisée pour la consommation humaine.)
+\xc <type="tone"> LM+H#
+\dt 08/Jul/2018
 
 \lx tsʰɑ˧bo#˥
 \or cabbo
@@ -77369,6 +77526,13 @@
 \xe (piece of furniture/object) on which one can put things
 \xn 可以摆东西的（家具）
 \xf (meuble/objet) sur lequel on pose des choses
+\xc
+\rf F5
+\xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥! |
+\xo
+\xe Take your stuff for washing! (soap, shampoo, towel...) (Context: someone is going to spend the night in a guest house that has running water.)
+\xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
+\xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison d'hôte qui a l'eau courante.)
 \dt 05/Jul/2017
 
 \lx †dze˩˧
@@ -77569,20 +77733,7 @@
 \df Rapide, rapidement (racine extraite de la forme disyllabique).
 \gf rapide(monosyll.)
 \ue archaic
-\xv hi˧le˩ ʝi˩
-\xe to do quickly
-\xn 快速做
-\xf faire rapidement
-\xc <langue="fra"> la forme est si réduite qu'elle en paraît disyllabique, proche d'un simple fv:[hi˧le˩]
-\xv hi˧le˩ | le˧-jo˩!
-\xe Come quickly!
-\xn 快来！
-\xf viens vite!
-\xv ʈʂʰɯ˧ | ɖwæ˧˥ | hi˧le˩ | ʝi˧-kv̩˩!
-\xe (S)he knows how to work really fast!
-\xn 他做事很麻利！
-\xf Lui, il sait travailler vite!
-\dt 29/Jul/2017
+\dt 01/Jul/2018
 
 \lx ‑ho˩
 \sf <nb="2011"> 3356
@@ -77600,7 +77751,7 @@
 \ge |fg{fut.desiderative}
 \dn 未来_愿望
 \gn 未来_愿望
-\df Future / desiderative / conjecture.
+\df Futur / désidératif / conjecture.
 \gf |fg{fut}/désidératif/conjecture
 \xv hi˩gi˩ ə˥-ho˩? - hi˩ gi˩ ho˥!
 \xe Is it going to rain? - Yes, it is going to rain!
@@ -78113,6 +78264,13 @@
 \xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
+\xc
+\rf F5
+\xv v˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
+\xo
+\xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
+\xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
+\xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
 \dt 27/Apr/2017
 
 \lx ‑pɤ˧to˩
@@ -78582,6 +78740,13 @@
 \xf plein de cervelle
 \xc <langue="fra"> ton du nom: MH
 \xc PHONO
+\rf F5
+\xv v̩˩tsʰɤ˧-ʂo˧~ʂo˥!
+\xo
+\xe It's full of vegetables / it's packed with vegetables! (A comment about pigswill: it contains a lot of vegetables.)
+\xn
+\xf C'est plein de légumes! (Commentaire au sujet de la pâtée des cochons: elle contient des légumes en abondance.)
+\xc
 \dt 27/Apr/2017
 
 \lx ‑sɯ˧
@@ -78645,7 +78810,14 @@
 \xe Do your own work first! / Please work on your own for a start! (Context: when I arrive for a morning class, the consultant is busy; she knows that I have various tasks to do, some of which I can do on my own, such as verifying texts that have already been transcribed; she tells me: “Please work on your own for a start!")
 \xn 你先自己工作（一会）吧！（情景：调查者早上到合作人的家，但她忙着，而她知道调查者有不同类型的工作要做，其中有一些可以自己做，比如重新核对记录过的长篇语料。她说：“你先忙自己的一会吧！”）
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
-\dt 24/Jul/2017
+\xc
+\rf F5
+\xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥! |
+\xo
+\xe Don't feed the dog yet! / Don't give the dog food yet!
+\xn 先别喂狗！/先别给狗食！/不要现在给狗食！
+\xf Ne donne pas la pâtée au chien pour l'instant! / Ce n'est pas encore le moment de donner la pâtée au chien!
+\dt 08/Jul/2018
 
 \lx †ʈʰæ˩
 \or tae
