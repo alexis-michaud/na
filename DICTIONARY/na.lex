@@ -657,6 +657,7 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
+\nt <type="hist" print="n"> d'abord noté ə˩pʰo˩; vérification systématique menée en juillet 2018, et remplacement dans les textes.
 \ton L
 \lc ɑ˩pʰo˩˥
 \so <print="n"> F4
@@ -682,15 +683,22 @@
 \xe [She] wants to go out! (Context: on a sunny day, a family member senses that a toddler wants to go and play outside.)
 \xn （她）想出去！（情景：婴儿看外边，觉得她好像想出去。）
 \xf [Elle] a envie de sortir! (Contexte: par une journée ensoleillée, un membre de la famille sent qu'un enfant aurait envie d'aller jouer dehors.)
-\xv ə˧dɑ˥ | ə˩pʰo˩ hɯ˩-ze˥!
+\xv ə˧dɑ˥ | ɑ˩pʰo˩ hɯ˩-ze˥!
 \xe Daddy went out! (Context: explanation provided to a little child who has just woken up and looks for her dad.)
 \xn 爸爸出去了！
 \xf Papa est sorti! (Adressé à une petite fille qui vient de se réveiller de sa sieste et cherche son père.)
-\xv ə˩pʰo˩-bv̩˥ | lo˧ ʝi˧
+\xv ɑ˩pʰo˩-bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
 \xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi : aller chercher du travail à la ville
-\dt 11/May/2017
+\xc
+\xv ɑ˩pʰo˩ kwɤ˥
+\xo
+\xe to throw away
+\xn 扔掉
+\xf jeter (à la poubelle), se débarrasser de
+\xc
+\dt 14/Jul/2018
 
 \lx ɑ˩pʰo˩-hĩ˩
 \sf <nb="B"> 898b
@@ -7003,7 +7011,7 @@
 \dt 01/May/2017
 
 \lx di˩mæ˩
-\or ddimaeAM
+\or ddimae
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -9186,7 +9194,7 @@
 \dt 24/Apr/2017
 
 \lx dze˧-li˥
-\or zzeiliAM
+\or zzeili
 \ps n
 \cf li˩˥
 \sd <langue="fra"> nourriture
@@ -13689,8 +13697,8 @@
 \va <speaker="M21"> ID.
 \pdl classifier
 \pdv ɭɯ˧
-\de Oven to make bricks, ceramics…
-\ge oven_to_make_bricks
+\de Kiln; oven to make bricks, ceramics etc.
+\ge kiln
 \dn 烤砖、陶器等用的烤炉
 \gn 烤砖的烤炉
 \df Four où on cuit les briques, les objets en céramique…
@@ -26533,7 +26541,7 @@
 \dt 03/Sep/2015
 
 \lx kʰɯ˩tv̩˩ɭɯ˥
-\or keeduleeAM
+\or keedulee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -31282,7 +31290,7 @@
 \lx ɬo˩kɤ˩-ɬo˥ɲi˩
 \sf <nb="B"> 218
 \sf <nb="2011"> 290
-\or lhoge lhonhiAM
+\or lhoge lhoni
 \ps n
 \cf ɬo˩kɤ˩
 \sd <langue="fra"> corps
@@ -39422,6 +39430,25 @@
 \gf prunelle
 \dt 25/Apr/2017
 
+\lx njɤ˧hṽ̩˩
+\or nyahun
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L#
+\lc njɤ˧hṽ̩˩
+\so <print="n"> F5
+\pdl classifier
+\pdv qɑ˩
+\de A plant used as fodder for the pigs.
+\ge pig_fodder
+\dn 灰条菜、灰灰菜：喂猪的牧草
+\gn 灰条菜/灰灰菜
+\gr 灰凋
+\df Sorte de fourrage pour les cochons.
+\gf fourrage_pour_cochons
+\dt 09/Sep/2015
+
 \lx njo˩kæ˧-tɕi˩˥
 \or nyogaejie
 \bw <langue="cmn"> 牛肝菌
@@ -39605,25 +39632,6 @@
 \gn 灰条菜/灰灰菜
 \gr 灰凋
 \df Sorte de fourrage pour les cochons, |fi{Chenopodium album}. (Il y a en tout trois sortes de fourrage pour les cochons.).
-\gf fourrage_pour_cochons
-\dt 09/Sep/2015
-
-\lx njɤ˧hṽ̩˩
-\or nyahun
-\ps n
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\ton L#
-\lc njɤ˧hṽ̩˩
-\so <print="n"> F5
-\pdl classifier
-\pdv qɑ˩
-\de A plant used as fodder for the pigs.
-\ge pig_fodder
-\dn 灰条菜、灰灰菜：喂猪的牧草
-\gn 灰条菜/灰灰菜
-\gr 灰凋
-\df Sorte de fourrage pour les cochons.
 \gf fourrage_pour_cochons
 \dt 09/Sep/2015
 
@@ -40838,6 +40846,7 @@
 \sd <langue="eng"> time
 \ton L
 \lc ŋwɤ˩ɬi˩mi˩˥
+\sn 1
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -40848,7 +40857,15 @@
 \gn 五月
 \df 5e mois.
 \gf 5e_mois
-\dt 09/Sep/2015
+\sn 2
+\so <print="n"> RD
+\de Fifth-Month Festival: a festival celebrated by the Na on the fifth day of the fifth month of the lunar calendar, at the same time as the Han Chinese Dragon Boat Festival.
+\ge 5th_month_Festival
+\dn 端午节
+\gn 端午节
+\df Fête du Cinquième Mois, célébrée par les Na à la date de la fête chinoise des bateaux-dragons: le 5e jour du 5e mois lunaire.
+\gf Fête_du_Cinquième_Mois
+\dt 16/Jul/2018
 
 \lx ŋwɤ˩ɭɯ˧-tse˥pʰæ˩
 \sf <nb="B"> 169b
@@ -45256,28 +45273,6 @@
 \xf je t'aide
 \dt 15/Sep/2015
 
-\lx qɑ˩~qɑ˧˥
-\or ghagha
-\ps adv
-\cf qɑ˧˥
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> 
-\ton L+MH
-\lc qɑ˩qɑ˧˥
-\so <print="n"> F5
-\de Together.
-\ge together
-\dn 一起
-\gn 一起
-\df Ensemble.
-\gf ensemble
-\xv qɑ˩~qɑ˧˥ | dzɯ˧-bi˧!
-\xe Let's have dinner together! (Context: only one person is at home; two guests come round; since there are only three people in total, it would be awkward to have separate meals for the guests and hosts, as is usually the case; it is therefore decided to have dinner together.)
-\xn 一起吃吧！（情景：家里只有一个人。来了两个客人。按常规，客人和家人要分开吃：客人先吃，再开饭给家里的人们。但由于人那么少，就决定一起吃。）
-\xf Mangeons donc ensemble! (Contexte: il n'y a qu'une personne à la maison; deux invités se présentent; selon la coutume, les invités devraient prendre leur repas avant les gens de la maisonnée, mais comme il n'y a que trois personnes en tout, il est décidé de manger ensemble.)
-\dt 15/Sep/2015
-
 \lx qʰæ˩
 \or khaeq
 \ps v
@@ -46680,6 +46675,28 @@
 \xn 很大
 \xf très gros, de très grande envergure
 \dt 22/Jun/2017
+
+\lx qɑ˩~qɑ˧˥
+\or ghagha
+\ps adv
+\cf qɑ˧˥
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n"> 
+\ton L+MH
+\lc qɑ˩qɑ˧˥
+\so <print="n"> F5
+\de Together.
+\ge together
+\dn 一起
+\gn 一起
+\df Ensemble.
+\gf ensemble
+\xv qɑ˩~qɑ˧˥ | dzɯ˧-bi˧!
+\xe Let's have dinner together! (Context: only one person is at home; two guests come round; since there are only three people in total, it would be awkward to have separate meals for the guests and hosts, as is usually the case; it is therefore decided to have dinner together.)
+\xn 一起吃吧！（情景：家里只有一个人。来了两个客人。按常规，客人和家人要分开吃：客人先吃，再开饭给家里的人们。但由于人那么少，就决定一起吃。）
+\xf Mangeons donc ensemble! (Contexte: il n'y a qu'une personne à la maison; deux invités se présentent; selon la coutume, les invités devraient prendre leur repas avant les gens de la maisonnée, mais comme il n'y a que trois personnes en tout, il est décidé de manger ensemble.)
+\dt 15/Sep/2015
 
 \lx qi˧qi˧
 \or ghighi
@@ -55348,7 +55365,7 @@
 \dt 27/Apr/2017
 
 \lx ʂo˧li˧
-\or sholiAM
+\or sholi
 \bw <langue="cmn"> 水利
 \ps n
 \lc ʂo˧li˧
@@ -55548,7 +55565,7 @@
 \dt 06/Oct/2015
 
 \lx ʂo˧qo˧-tʰɑ˩
-\or hotaqAM
+\or shoghota
 \bw <langue="cmn"> 水果糖
 \ps n
 \cf
@@ -56810,7 +56827,7 @@
 \dt 23/Jun/2017
 
 \lx ʂɯ˩tse˧˥
-\or shizeiAM
+\or shizei
 \bw <langue="cmn"> 实在
 \ps adv
 \lc ʂɯ˩tse˧˥
@@ -58649,7 +58666,7 @@
 \dt 09/Oct/2015
 
 \lx tʰɑ˧-ni˥-ni˩-gv̩˩
-\or tani niggu
+\or tanini ggu
 \ps adv
 \ton -H.L-
 \lc tʰɑ˧ni˥ni˩gv̩˩
@@ -58666,7 +58683,7 @@
 \dt 27/Apr/2017
 
 \lx ʈʰæ˩ŋv̩˩
-\or taenguAM
+\or taengu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -65287,7 +65304,7 @@
 \xe to stretch down
 \xn 向下伸展
 \xf étendre vers le bas
-\xv lo˩qʰwɤ˧ | ə˩pʰo˩ ʈʂʰe˩˥
+\xv lo˩qʰwɤ˧ | ɑ˩pʰo˩ ʈʂʰe˩˥
 \xe to strech one's hand outside (e.g. out the window)
 \xn 手伸到外边
 \xf étendre la main à l'extérieur (par une fenêtre)
@@ -67911,25 +67928,10 @@
 \lx tsʰo˩mo˩
 \or como
 \ps n
-\sd <langue="fra"> société
-\sd <langue="eng"> society
+\nt <type="hist" print="n"> Le deuxième sens, 'vieil homme', est le seul qu'ait rencontré Roselle Dobbs: 'My understanding of this word is that it means "old(er) man".' (c.p. 2018) 
 \ton L
 \lc tsʰo˩mo˩˥
-\so <print="n"> F4
-\de Old man.
-\ge old_man
-\dn 老头
-\gn 老头
-\df Vieil homme, vieillard.
-\gf vieil_homme
-\dt 07/Oct/2015
-
-\lx tsʰo˩mo˩
-\or comoAM
-\ps n
-\cf zo˥
-\ton L
-\lc tsʰo˩mo˩˥
+\sn 1
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so <print="n"> F4
@@ -67945,6 +67947,19 @@
 \xe He has become a man! (The adolescent, |fv{pʰæ˧tɕi˥-zo˩}, becomes a man.)
 \xn 他是成年男人了！
 \xf C'est devenu un homme! (D'adolescent, |fv{pʰæ˧tɕi˥-zo˩}, on devient homme.)
+\sn 2
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\so <print="n"> F4
+\pdl classifier
+\pdv v̩˧
+\de Old man.
+\ge old_man
+\dn 老头
+\gn 老头
+\df Vieil homme, vieillard.
+\gf vieil_homme
+\dt 14/Jul/2018
 
 \lx ʈʂo˩mv̩˩
 \sf <nb="B"> 55

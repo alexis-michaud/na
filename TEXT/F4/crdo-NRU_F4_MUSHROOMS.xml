@@ -1039,7 +1039,7 @@
 </S>
 <S id="MUSHROOMS_S156">
 	<AUDIO start="828.545" end="832.151"/>
-	<FORM kindOf="phonemic">zo˧mv̩˥-ʈʂʰɯ˧, | &lt;tʰv…&gt; ə˩pʰo˩ pæ˥-mɤ˩-ʁo˩, | pi˧-dʑo˩, | tʰv̩˧-ʁo˥-bv̩˩ kʰɯ˩ʈɯ˩!</FORM>
+	<FORM kindOf="phonemic">zo˧mv̩˥-ʈʂʰɯ˧, | &lt;tʰv…&gt; ɑ˩pʰo˩ pæ˥-mɤ˩-ʁo˩, | pi˧-dʑo˩, | tʰv̩˧-ʁo˥-bv̩˩ kʰɯ˩ʈɯ˩!</FORM>
 	<NOTE xml:lang="fr" message = "d'abord noté /bæ˥-mɤ˩-ʁo˩/; vérifié en 2016: est bien: /pæ˧˥/, /le˧-pæ˧-ze˥/; /mɤ˧-pæ˧-sɯ˥/; ex.: /ʝi˩˥ | le˧-pæ˧-ze˥/ 'les boutons sont sortis, les boutons ont connu une éruption' yyyy ajouter au dictionnaire'pour ne pas laisser sortir les boutons/pour éviter l'éruption des boutons' ?"/>
 	<NOTE xml:lang="fr" message = "avais un moment pensé que le sens était : 'Les enfants, on ne les laissait pas sortir (=on les gardait en quarantaine)'; mais ce n'est pas le cas (vérifié à nouveau en 2016)."/>
 	<NOTE xml:lang="fr" message = "d'abord noté /tʰv̩˧-ʁo˥-bv̩˩ | kʰɯ˧ ʈɯ˧/"/>
@@ -1097,7 +1097,7 @@
 </S>
 <S id="MUSHROOMS_S165">
 	<AUDIO start="869.155" end="872.882"/>
-	<FORM kindOf="phonemic">tʰi˩˥, | ə˩pʰo˩ pæ˥-mɤ˩-ʁo˩-hĩ˩, | ʝi˧-kʰv̩˥ | qv̩˧ʈʂæ˧ ʈæ˥, | zo˧mv̩˥ | le˧-ʂɯ˧-kv̩˧-pi˥! |</FORM>
+	<FORM kindOf="phonemic">tʰi˩˥, | ɑ˩pʰo˩ pæ˥-mɤ˩-ʁo˩-hĩ˩, | ʝi˧-kʰv̩˥ | qv̩˧ʈʂæ˧ ʈæ˥, | zo˧mv̩˥ | le˧-ʂɯ˧-kv̩˧-pi˥! |</FORM>
 	<TRANSL xml:lang="fr">Alors, pour que ça ne ressorte pas (=pour que le patient ne vomisse pas le médicament?), certains bloquaient la gorge (de l'enfant); ça pouvait le faire mourir (d'étouffement)!</TRANSL>
 	<TRANSL xml:lang="zh">为了不让出来，有些人堵住了（小孩的）嗓子，孩子就会死的！</TRANSL>
 </S>

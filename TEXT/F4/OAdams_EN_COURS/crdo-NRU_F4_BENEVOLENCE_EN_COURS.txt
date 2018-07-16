@@ -61,9 +61,9 @@ mmm! ʂe˧ | dʑɤ˩-hĩ˥ | tʰv̩˧-kʰwɤ˥ | dʑɤ˩˥ | dzɯ˧ mɤ˧-kv̩�
 Les beaux morceaux de viande, on n'en mangeait guère: on les gardait (pour une grande occasion, ou pour les personnes âgées)!
 是的！好的那（些）肉块，（自己）不怎么吃，是要存起来！（留给客人或长辈）
 
-ə˩pʰo˩˥ | hĩ˧bæ˧ le˧-ʝi˥-ze˩! | hĩ˧bæ˧ jo˧-kv̩˩, | pi˧. | 
+ɑ˩pʰo˩˥ | hĩ˧bæ˧ le˧-ʝi˥-ze˩! | hĩ˧bæ˧ jo˧-kv̩˩, | pi˧. | 
 %10
-%fr On pourrait également dire: /ə˩pʰo˩ hĩ˩bæ˩ le˩-ʝi˥-ze˩/.
+%fr On pourrait également dire: /ɑ˩pʰo˩ hĩ˩bæ˩ le˩-ʝi˥-ze˩/.
 On disait: 'Il y a des invités qui vont venir! On va avoir des invités (un jour ou l'autre)'.
 会有外边来的客人！会来客人的！
 
@@ -470,7 +470,7 @@ mmm…tʰi˩˥, | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧
 %Utterance ID: BENEVOLENCE.39 
 %75
 %Transcription automatique : mmm…tʰi˩˥ | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧nv̩˥ | ə˧mi˧le˧ | zo˧mv̩˥ə˧dɑ˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | ɬo˧kɤ˩ɬɑ˥ɲi˩ | mɤ˧ʁɑ˧hĩ˧tʰi˧ | ɖɯ˧kʰwɤ˥ | lə˩tʰv̩˩kv̩˩mæ˩ | v̩˧dʑɯ˧ʈʰɯ˩˥! |  
-%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: que signifie la deuxième partie du composé? yyyy réponse :  Première partie: 'côtes'. ɬo˩kɤ˩˥ | ɖɯ˧-ɭɯ˧ ; | ɬo˩kɤ˩ ɲi˥; | la deuxième partie du composé n'existe pas indépendamment. yyyy peut-on dire : ɬo˩kɤ˩-ɬo˥ɲi˩ | ɖɯ˧-ɭɯ˧? réponse : oui.
+%fr /ɬo˩kɤ˩-ɬo˥ɲi˩/: la première partie du composé signifie 'côte'. /ɬo˩kɤ˩˥ | ɖɯ˧-ɭɯ˧/ 'une côte'; /ɬo˩kɤ˩ ɲi˥/ 'c'est une côte'. Que signifie la deuxième partie du composé? La deuxième partie du composé n'existe pas indépendamment. Peut-on dire : /ɬo˩kɤ˩-ɬo˥ɲi˩ | ɖɯ˧-ɭɯ˧/? réponse : oui.
 Alors, les gens, nous autres, mères d'enfants (=femmes adultes) et pères d'enfants (=hommes adultes) (=ceux qui ne sont ni des enfants, ni des vieillards), nous autres, [du poulet qu'on partage en famille,] on ne mange qu'un petit bout de côtes, pas bien goûteux! On boit la soupe (du poulet) / on se contente essentiellement de la soupe!
 我们成年人呢，只吃（鸡的）一点肋骨，不怎么好的那块！我们（基本上只）喝鸡汤（而已）！
 
@@ -593,7 +593,7 @@ no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | ɲi˩bv̩˩ gv̩˥-
 %que signifie : /ɲi˩bv̩˩ gv̩˥/ ? réponse: 'cuisiner des criquets'
 % que signifie /no˧˥/?
 %93
-%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'Les pauvres, ils n'ont pas de quoi manger; les chiens abandonnés, ils vous suivent!' Explication de Ama : /hĩ˧ dzɑ˧ ɖɯ˧-v̩˧ ɕjɤ˥ tʰv̩˩/ yyyy. Explication plus fournie de TS: ce dicton évoque les gens pauvres qui jouent les grands seigneurs en entretenant une 'suite' de gens qu'ils ont à leurs crochets (alors qu'eux-mêmes ne sont pas riches): ils se font toujours accompagner. 自己都没有够吃的，还是带一个人（或一些人）！Selon les contextes, cela pourra être une critique, ou au contraire une louange de quelqu'un qui est généreux avec d'autres, bien que cette générosité le fasse vivre au-dessus de ses moyens.
+%dicton: /hĩ˧ dzɑ˧, hɑ˧ mɤ˧-ɖɯ˧! | kʰv̩˧ dzɑ˧, | gi˩˥ | le˧-ʂv̩˩!/ 'Les pauvres, ils n'ont pas de quoi manger; les chiens abandonnés, ils vous suivent!' Explication de Ama : /hĩ˧ dzɑ˧ ɖɯ˧-v̩˧ ɕjɤ˥ tʰv̩˩/ 'c'est pour se moquer de quelqu'un de pauvre'. Explication plus fournie de TS: ce dicton évoque les gens pauvres qui jouent les grands seigneurs en entretenant une 'suite' de gens qu'ils ont à leurs crochets (alors qu'eux-mêmes ne sont pas riches): ils se font toujours accompagner. 自己都没有够吃的，还是带一个人（或一些人）！Selon les contextes, cela pourra être une critique, ou au contraire une louange de quelqu'un qui est généreux avec d'autres, bien que cette générosité le fasse vivre au-dessus de ses moyens. Reporté dans le dictionnaire.
 Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune; elle pense se souvenir qu'il lui avait représenté, gestes à l'appui, qu'il avait un temps vendu des brochettes de criquets sur un marché de Lijiang.)
 这个人呢，他好像有一段时间在丽江市场上卖烧烤蟋蟀串！
 
@@ -1061,13 +1061,13 @@ Le lendemain matin, au lever, il allait un peu mieux;
 &lt;Ce matin-là...&gt; Le soir suivant, au milieu de la nuit, il m'a dit: “Mademoiselle Latami! S'il vous plaît, donnez-moi un peu d'eau à boire! Je n'en peux vraiment plus / je me trouve vraiment très mal!”
 那天&lt;早上&gt;晚上，半夜的时候，他跟我说：“拉他咪家姑娘啊！求你给我喝一碗水！我实在不行了！”
 
-njæ˧-sɯ˩kv̩˩-dʑo˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɑ˩ʁo˥-ne˩ʝi˩-zo˩, | lo˧ʝi˧ kʰi˩-dʑo˩, | ʈʰææ̃˧ | hæ̃˧qʰv̩˥ | ə˩pʰo˩ hɑ̃˥ kʰɯ˩! | 
+njæ˧-sɯ˩kv̩˩-dʑo˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɑ˩ʁo˥-ne˩ʝi˩-zo˩, | lo˧ʝi˧ kʰi˩-dʑo˩, | ʈʰææ̃˧ | hæ̃˧qʰv̩˥ | ɑ˩pʰo˩ hɑ̃˥ kʰɯ˩! | 
 %Utterance ID: BENEVOLENCE.87 
 %Transcription automatique : njæ˧-sɯ˩kv̩˩dʑo˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | ɑ˩ʁo˧ni˧˥ |  sɯ˩wo˩lo˧ʝi˧kʰi˩dʑo˩ | tʰæ˧ | hæ̃˧kʰv̩˥˩ | kv̩˧hɑ̃˧kʰɯ˧˥ | 
 Nous autres, autrefois, en fait de maison... quand on partait travailler, vrai de vrai, la nuit, on la passait dehors! / la nuit, on bivouaquait en extérieur!
 以前嘛，我们，就像在家里……去干活的时候，真的会在外边过夜！
 
-njɤ˧le˧gv̩˧ F, ə˩pʰo˩ hɑ̃˥-kʰɯ˩! | ɑ˩ʁo˧-dʑo˩ | hɑ̃˧-di˥ | mɤ˧-dʑo˧-ɲi˥ mæ˩! | 
+njɤ˧le˧gv̩˧ F, | ɑ˩pʰo˩ hɑ̃˥-kʰɯ˩! | ɑ˩ʁo˧-dʑo˩ | hɑ̃˧-di˥ | mɤ˧-dʑo˧-ɲi˥ mæ˩! | 
 %Transcription automatique : njɤ˧ | le˧gv̩˧ɑ˩pʰo˩hɑ̃˩kʰɯ˩ | ɑ˩ʁo˧dʑo˩ | hɑ̃˩dʑo˩ | mɤ˧dʑi˧zæ˩ | 
 %161
 Pendant la journée, euh... on partait et on dormait dehors! Pas de maison, pas d'endroit où dormir!
