@@ -524,7 +524,8 @@
 	<TRANSL xml:lang="fr">"Ta mère, dans la succession des générations, eh bien… le tigre devait la manger; il fallait qu'il en soit ainsi!"</TRANSL>
 </S>
 <S id="Tiger2S115"><AUDIO start="561.8135" end="564.0720"></AUDIO>
-	<FORM>"tɕi˧wɤ˧-ɳɯ˩, | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-ʝi˩!" |</FORM>
+	<FORM>"tɕi˧wɤ˧-ɳɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-ʝi˩!" |</FORM>
+	<NOTE xml:lang="fr" message="Avant 2018: noté /ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥ tsɯ˩/. En août 2018: modifié en /ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/, pour la cohérence de l'analyse. (Voir note dans BuriedAlive2, au sujet d'un cas semblable et des efforts déployés pour tirer ce point au clair.)"/>
 	<TRANSL xml:lang="fr">"Le cycle des réincarnations (littéralement "la réincarnation"), voilà comment cela se déroule!"</TRANSL>
 </S>
 <S id="Tiger2S116"><AUDIO start="564.2978" end="566.9628"></AUDIO>
@@ -642,7 +643,8 @@
 	<TRANSL xml:lang="fr">Voilà comment c'était! Avec l'aide de sa mère, eh bien, cette jeune femme, toutes les choses, elle en a eu beaucoup! C'était bien [ainsi]/ tout allait pour le mieux!</TRANSL>
 </S>
 <S id="Tiger2S142"><AUDIO start="676.2099" end="682.6389"></AUDIO>
-	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥: | "ə˧mi˧! | ʈʂʰɯ˧, | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩-dʑo˩! | ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧ ʝi˥… | ə˧tse˧ ʝi˧-zo˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥-hɯ˩ F ? | pi˧. |</FORM>
+	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥: | "ə˧mi˧! | ʈʂʰɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩-dʑo˩! | ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧ ʝi˥… | ə˧tse˧ ʝi˧-zo˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥-hɯ˩ F ? | pi˧. |</FORM>
+	<NOTE xml:lang="fr" message="Avant 2018: noté /ə˧mi˧! | ʈʂʰɯ˧, | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩-dʑo˩/. En août 2018: modifié en /ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/, pour la cohérence de l'analyse. (Voir note dans BuriedAlive2, au sujet d'un cas semblable et des efforts déployés pour tirer ce point au clair.)"/>
 	<TRANSL xml:lang="fr">Les gens disaient: "EEeeeh bien! Elle, voici ce qui lui est arrivé! Qu'elle ait tous ces succès (littéralement "Qu'elle fasse ainsi")… comment se fait-il qu'elle ait si bonne fortune (littéralement "qu'elle ait autant [de choses/de richesses]")?</TRANSL>
 </S>
 <S id="Tiger2S143"><AUDIO start="682.9852" end="696.4303"></AUDIO>
@@ -683,4 +685,3 @@ La jeune fille a habité quelques jours chez sa grand-mère et son grand-oncle. 
 Voilà ce qu'on racontait autrefois!
 </TRANSL>
 </TEXT>
-

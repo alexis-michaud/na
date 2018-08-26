@@ -762,26 +762,28 @@
 		<NOTE xml:lang="fr"
 			message="ʂe˧ʈʂe˩ | le˧-po˧-tsʰɯ˧˥: fin fortement abaissée par facteurs intonatifs, mais est bien: le˧-po˧-tsʰɯ˧˥, non …˩ ˩"/>
 		<NOTE xml:lang="fr" message="tons vérifiés, est: /le˧-wo˧-tɕɯ˥/"/>
-		<TRANSL xml:lang="fr">Les choses du Sichuan, on les ramenait en caravane; à leur tour, on les vendait à Yongning, autrefois! Les voyageurs, voilà comment ils faisaient! À chaque fois qu'ils revenaient du Sichuan, ils ramenaient du tissu de coton; </TRANSL>
-		<TRANSL xml:lang="zh">四川的货物，</TRANSL>	
+		<TRANSL xml:lang="fr">Les choses du Sichuan, on les ramenait en caravane, puis on les vendait à Yongning, autrefois! Les voyageurs, voilà comment ils faisaient! À chaque fois qu'ils revenaient du Sichuan, ils ramenaient du tissu de coton; </TRANSL>
+		<TRANSL xml:lang="zh">以前，四川的货物，走马帮带回来，再在永宁卖！走马帮的人们，是这样（做的）：去四川一趟，带棉布回来，</TRANSL>	
 	</S>
 	<S id="CaravansS103">
 		<AUDIO start="607.4144" end="612.2540"/>
 		<FORM>jɤ˧ŋɤ˧ hɯ˧, | mmm… ʂe˧ʈʂe˩! | hæ̃˩-bɑ˥lɑ˩ dʑo˩-kv̩˩-pʰæ˩-di˩. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: hæ̃˩-bɑ˥lɑ˩ | dʑo˧-kv̩˧-pʰæ˥-di˩. "/>
 		<TRANSL xml:lang="fr">quand ils allaient à Chengdu, eh bien… [ils ramenaient aussi] du tissu de coton! Il [me] semble qu'il y avait aussi de la soie [parmi les choses qu'ils en ramenaient].</TRANSL>
+		<TRANSL xml:lang="zh">到成都去，那么……（他们买回来的有）棉布！好像也会有一些丝绸。</TRANSL>
 	</S>
 	<S id="CaravansS104">
 		<AUDIO start="613.5029" end="615.2202"/>
 		<FORM>jɤ˧ŋɤ˧-dʑo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩, | hæ̃˩-bɑ˥lɑ˩! |</FORM>
 		<TRANSL xml:lang="fr">Chengdu, autrefois, [on en rapportait] de la soie!</TRANSL>
+		<TRANSL xml:lang="zh">在成都买的东西，主要是丝绸！（直译：‘成都，以前，（就是）丝绸！’）</TRANSL>
 	</S>
 	<S id="CaravansS105">
 		<AUDIO start="616.0268" end="617.6009"/>
 		<FORM>hæ̃˩-bɑ˥lɑ˩-bɑ˩lɑ˩ le˩-po˩-jo˩-kv̩˩-mæ˩! |</FORM>
-		<NOTE xml:lang="fr"
-			message="tons vérifiés; on pourrait dire: hæ̃˩-bɑ˥lɑ˩-bɑ˩lɑ˩ | le˧-po˧-jo˥-kv̩˩-mæ˩ |"/>
-		<TRANSL xml:lang="fr">Il arrivait qu'on [en] ramène des vêtements en soie!</TRANSL>
+		<NOTE xml:lang="fr" message="tons vérifiés; on pourrait dire: hæ̃˩-bɑ˥lɑ˩-bɑ˩lɑ˩ | le˧-po˧-jo˥-kv̩˩-mæ˩ |"/>
+		<TRANSL xml:lang="fr">On en ramenait des vêtements en soie!</TRANSL>
+		<TRANSL xml:lang="zh">会（从成都）带丝绸衣服回来！</TRANSL>
 	</S>
 	<S id="CaravansS106">
 		<AUDIO start="617.6009" end="627.3711"/>
@@ -795,87 +797,94 @@
 		<NOTE xml:lang="fr"
 			message="gi˧zɯ˧-ki˧-dʑo˩: très hypo-articulé, fait penser à: ‡gi˧zɯ˧-ki˧-hĩ mais est bien -dʑo˩"/>
 		<TRANSL xml:lang="fr">Mon oncle, [pour] nous… les trois frères et sœurs… pour le petit frère, pour nous, pour le petit frère, il ramenait un habit masculin! (Note: c'était un vêtement que les hommes portaient à partir de 13 ans: sorte de veste serrée à la ceinture, qu'on portait par-dessus la chemise, dans les grandes occasions: mariage, invitations…) Il lui ramenait un habit masculin en soie!</TRANSL>
+		<TRANSL xml:lang="zh">我舅舅，（给）我们姐妹三个呢……给弟弟那个……给我们的……给弟弟的，是男性衣服：一件丝绸的男性衣服！</TRANSL>
 	</S>
 	<S id="CaravansS107">
 		<AUDIO start="627.3711" end="630.4804"/>
 		<FORM>njæ˧sɯ˩kv̩˩ | so˩kv̩˩-ki˥-dʑo˩, | hæ̃˩bɑ˥lɑ˩ | ʂæ˧tsɯ˧! |</FORM>
-		<NOTE xml:lang="fr"
-			message="vêtement que portaient les enfants avant leurs treize ans: sorte de robe ample, ressemblant aux vêtements chinois"/>
+		<NOTE xml:lang="fr" message="vêtement que portaient les enfants avant leurs treize ans: sorte de robe ample, ressemblant aux vêtements chinois"/>
 		<TRANSL xml:lang="fr">Pour nous autres, les trois [enfants qui n'avaient pas encore treize ans], il nous donnait une robe en soie! </TRANSL>
+		<TRANSL xml:lang="zh">给我们三个（姐妹）呢，是丝裋！</TRANSL>
 	</S>
 	<S id="CaravansS108">
 		<AUDIO start="631.6122" end="635.6192"/>
-		<FORM>zo˩no˥, | əəə… zo˩no˥, | ə˧ʝi˧-tsʰi˧ʝi˧, | tje˩ʂɯ˧-qo˥-gɤ˩, | mv̩˧-ni˧˥, | hæ̃˩bɑ˥lɑ˩
-			| ʂæ˧tsɯ˧ tʰv̩˧-ʁo˥! |</FORM>
+		<FORM>zo˩no˥, | əəə… zo˩no˥, | ə˧ʝi˧-tsʰi˧ʝi˧, | tje˩ʂɯ˧-qo˥-gɤ˩, | mv̩˧-ne˧-ʝi˥, | hæ̃˩bɑ˥lɑ˩ | ʂæ˧tsɯ˧ tʰv̩˧-ʁo˥! |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, est: ʂæ˧tsɯ˧ tʰv̩˧-ʁo˥"/>
 		<NOTE xml:lang="fr" message="/tje˩ʂɯ˧-qo˥/: à la télévision; du chinois 电视 'télévision'"/>
-		<TRANSL xml:lang="fr">Maintenant… maintenant, actuellement, à la télévision, comme [les vêtements] des femmes, une robe en soie! (=C'est comme la sorte de vêtements de soie des dames qu'on voit à la télévision, dans les films historiques!)</TRANSL>
+		<NOTE xml:lang="fr" message="Avant 2018: noté /mv̩˧-ni˧˥/"/>
+		<TRANSL xml:lang="fr">Maintenant… maintenant, actuellement, à la télévision, comme [les vêtements] des femmes, une robe en soie! (=C'est comme la sorte de vêtements de soie des dames qu'on voit à la télévision, dans les films historiques!) (Note: vue au prisme des coutumes vestimentaires du début du XXIe siècle, la robe unisexe traditionnelle des enfants na évoque un vêtement féminin plutôt que masculin.)</TRANSL>
+		<TRANSL xml:lang="zh">就是今日电视上演的（历史电影里的），那种像女人穿的丝绸衣服！</TRANSL>
 	</S>
 	<S id="CaravansS109">
 		<AUDIO start="635.8403" end="637.2454"/>
 		<FORM>ɖɯ˧-v̩˧ | ɖɯ˧-ɭɯ˧ hwæ˥ | le˧-po˧-jo˥-kv̩˩-mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">[Notre oncle] nous en achetait un chacun, et nous le rapportait!</TRANSL>
+		<TRANSL xml:lang="zh">[我们的舅舅]会买一人一件，带回来！</TRANSL>
 	</S>
 	<S id="CaravansS110">
 		<AUDIO start="637.8698" end="644.7259"/>
-		<FORM>tʰi˩˥, | dzɑ˩qʰwɤ˩-ʈʂʰɯ˥, | əəə… ə˧tso˧, | ɣɯ˩-ʈʂʰɯ˥, | le˧-ʐv̩˧-zo˥, | qʰɑ˩ne˩˥ |
-			ə˧v̩˧-hĩ˥ | ɖɯ˧-ʁo˩-dʑo˩-kv̩˩! | ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ni˧˥ | mɤ˧-ɲi˩-zo˩! |</FORM>
+		<FORM>tʰi˩˥, | dzɑ˩qʰwɤ˩-ʈʂʰɯ˥, | əəə… ə˧tso˧, | ɣɯ˩-ʈʂʰɯ˥, | le˧-ʐv̩˧-zo˥, | qʰɑ˩ne˩˥ |	ə˧v̩˧-hĩ˥ | ɖɯ˧-ʁo˩-dʑo˩-kv̩˩! | ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ne˧-ʝi˥ | mɤ˧-ɲi˩-zo˩! |</FORM>
+		<NOTE xml:lang="fr" message="Avant 2018: noté /ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ni˧˥/"/>
 		<TRANSL xml:lang="fr">Pour ce qui est des chaussures, on cousait le cuir, il y en avait de vraiment magnifiques! Elles n'étaient pas comme celles d'aujourd'hui! </TRANSL>
+		<TRANSL xml:lang="zh">鞋子呢，那么，有非常好看的一种，是缝皮而做出来的！不是像今日的！</TRANSL>
 	</S>
 	<S id="CaravansS111">
 		<AUDIO start="645.0641" end="646.4952"/>
 		<FORM>&lt;tʰi˩˥, | hĩ˧=ɻæ˥ | njæ˧sɯ˩kv̩˩ | le˧-pi˥: | &gt;</FORM>
-		<NOTE xml:lang="fr"
-			message="le˧-pi˥: passage pas clair sur l'enregistrement, non reconnu à la réécoute"/>
+		<NOTE xml:lang="fr" message="le˧-pi˥: passage pas clair sur l'enregistrement, non reconnu à la réécoute"/>
 		<TRANSL xml:lang="fr">&lt;Et alors, les gens nous disaient:&gt;</TRANSL>
+		<TRANSL xml:lang="zh">&lt;人家跟我们说：:&gt;</TRANSL>
 	</S>
 	<S id="CaravansS112">
 		<AUDIO start="646.4952" end="652.4926"/>
-		<FORM>"ə˧mi˧! | ɳæ˧=ɻ̍˩-se˩, | le˧-gɤ˩-ze˩-wɤ˩! | ə˧v̩˧ tsʰo˧pæ˧ le˧-tsʰɯ˧-zo˥, |
-			tsʰo˧pæ˧-ɳɯ˩ | dʑi˧ qæ˧-kʰɯ˩-ze˩! | pi˧-kv̩˩-mæ˩. |</FORM>
+		<FORM>"ə˧mi˧! | ɳæ˧=ɻ̍˩-se˩, | le˧-gɤ˩-ze˩-wɤ˩! | ə˧v̩˧ tsʰo˧pæ˧ le˧-tsʰɯ˧-zo˥, | tsʰo˧pæ˧-ɳɯ˩ | dʑi˧ qæ˧-kʰɯ˩-ze˩!" | pi˧-kv̩˩-mæ˩. |</FORM>
 		<NOTE xml:lang="fr" message="tsʰo˧pæ˧-ɳɯ˩: tons vérifiés"/>
 		<NOTE xml:lang="fr" message="d'abord noté /‡næ˧=ɻæ˩/; est en fait: /ɳæ˧=ɻ̍˩/; ne désigne pas le pluriel des jeunes filles, mais celui de la famille: la famille Latami."/>
 		<TRANSL xml:lang="fr">On nous disait: "Eh bien! Vous voici comblés! Votre oncle chef de caravane va revenir, et il va vous donner des vêtements neufs!" (littéralement: "va vous faire changer de vêtements")</TRANSL>
+		<TRANSL xml:lang="zh">“啊呀！你们真幸福！马帮头领舅舅要回来，让你们换新衣服！”</TRANSL>
 	</S>
 	<S id="CaravansS113">
 		<AUDIO start="652.4926" end="655.1205"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧v̩˧-ɳɯ˥ | njæ˧sɯ˩kv̩˩-ki˩ | qʰɑ˩ne˩˥ | ki˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">Autrefois, l'oncle, envers nous, qu'est-ce qu'il était généreux! </TRANSL>
+		<TRANSL xml:lang="zh">以前，舅舅对我们多么大方！</TRANSL>
 	</S>
 	<S id="CaravansS114">
 		<AUDIO start="655.7059" end="657.5793"/>
 		<FORM>ə˧tso˧ mɤ˧-ɲi˩, | ə˧v̩˧-ɳɯ˥ | le˧-hwæ˧-ki˧! |</FORM>
 		<TRANSL xml:lang="fr">L'oncle, il achetait toutes sortes de choses, qu'il nous offrait!</TRANSL>
+		<TRANSL xml:lang="fr">舅舅买各种东西送我们！</TRANSL>
 	</S>
 	<S id="CaravansS115">
 		<AUDIO start="657.5793" end="660.6756"/>
 		<FORM>ə˧v̩˧ dʑo˧-hĩ˥=ɻæ˩-dʑo˩, | hĩ˧=ɻæ˥ | dʑi˧hṽ̩˧ F | dʑi˧ qæ˧ tʰɑ˩-kv̩˩[-ze˩], |
 			ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
-		<TRANSL xml:lang="fr">Les neveux et nièces qui avaient un oncle [capable], ceux-là, ils recevaient de beaux vêtements /de nouveaux vêtements, autrefois! (Littéralement "les gens qui avaient un oncle, [ces] gens-là, ils pouvaient changer de vêtement")</TRANSL>
+		<TRANSL xml:lang="fr">Ceux qui avaient un oncle [capable] (=les neveux et nièces des hommes qui faisaient du commerce), ceux-là, ils recevaient de beaux vêtements /de nouveaux vêtements, autrefois! (Littéralement "les gens qui avaient un oncle, [ces] gens-là, ils pouvaient changer de vêtement")</TRANSL>
+		<TRANSL xml:lang="zh">那时代，有舅舅的（人）们，会有机会换新衣服！（做生意的舅舅，会送一身新衣服。）</TRANSL>
 	</S>
 	<S id="CaravansS116">
 		<AUDIO start="660.9878" end="662.3408"/>
 		<FORM>hɑ˧ F | dʑɤ˩-hĩ˥ | dzɯ˧-tʰɑ˩-kv̩˩-ze˩! |</FORM>
 		<TRANSL xml:lang="fr">Et pour la nourriture, ils avaient de bonnes choses à manger!</TRANSL>
+		<TRANSL xml:lang="zh">饭方面，（他们）能吃到好的（=美食）！</TRANSL>
 	</S>
 	<S id="CaravansS117">
 		<AUDIO start="662.3408" end="667.2974"/>
-		<FORM>hĩ˧ | mɤ˧-dʑo˧-hĩ˥, | ə˧v̩˧-ɳɯ˥ | le˧-ʂe˧ | le˧-po˧-jo˥[-kv̩˩-ze˩!] | ʐwæ˧
-			le˧-tɕɯ˧˥! | ʐwæ˧-ʈʂʰɯ˧, | tsʰe˩-kv̩˩˥! |</FORM>
+		<FORM>hĩ˧ | mɤ˧-dʑo˧-hĩ˥, | ə˧v̩˧-ɳɯ˥ | le˧-ʂe˧ | le˧-po˧-jo˥[-kv̩˩-ze˩!] | ʐwæ˧ le˧-tɕɯ˧˥! | ʐwæ˧-ʈʂʰɯ˧, | tsʰe˩-kv̩˩˥! |</FORM>
 		<TRANSL xml:lang="fr">Les gens qui n'avaient rien, l'oncle les faisait venir [à la maison]! (L'oncle était généreux avec les gens pauvres, il les accueillait à la maison) Il conduisait les chevaux [des caravanes]/ il participait au commerce par caravane. Les chevaux, [il en avait] dix.</TRANSL>
+		<TRANSL xml:lang="zh">贫穷的人，舅舅会请到家里来（照顾他们，给饭吃）！他走马帮！马呢，有十匹！</TRANSL>
 	</S>
 	<S id="CaravansS118">
 		<AUDIO start="668.0259" end="672.8134"/>
-		<FORM>mmm… hĩ˧ | ɲi˧-kv̩˧-bi˧, | pi˧-kv̩˩, | lɑ˧do˧ | ɖɯ˧-v̩˧, | tsʰo˧pæ˧ | ɖɯ˧-v̩˧! |
-			pi˧. | tsʰe˩-kv̩˩ tɕɯ˥-kv̩˩-mæ˩! |</FORM>
+		<FORM>mmm… hĩ˧ | ɲi˧-kv̩˧ bi˧, | pi˧-kv̩˩, | lɑ˧do˧ | ɖɯ˧-v̩˧, | tsʰo˧pæ˧ | ɖɯ˧-v̩˧! | pi˧. | tsʰe˩-kv̩˩ tɕɯ˥-kv̩˩-mæ˩! |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡tsʰe˧-kv̩˧ tɕɯ˥/"/>
 		<TRANSL xml:lang="fr">Deux personnes [de la famille] partaient [en caravane]: il y en avait un qui jouait le rôle de palefrenier, et un qui était chef de caravane! C'est qu'ils conduisaient [pas moins de] dix [chevaux]!</TRANSL>
+		<TRANSL xml:lang="zh">去的有两个人，一个当马夫、一个当马帮头领！带的有十匹！</TRANSL>
 	</S>
 	<S id="CaravansS119">
 		<AUDIO start="673.4378" end="675.9357"/>
 		<FORM>ɖɯ˧-v̩˧-lɑ˧ bi˥, | pi˧-dʑo˩, | ʐv̩˩-kv̩˩ tɕɯ˥-kv̩˩-mæ˩! |</FORM>
-		<NOTE xml:lang="fr"
-			message="sur /bi˥/: est sans doute le phénomène de focalisation, noté F."/>
+		<NOTE xml:lang="fr" message="sur /bi˥/: est sans doute le phénomène de focalisation, noté F."/>
 		<TRANSL xml:lang="fr">Si une seule personne y allait, elle conduisait quatre [chevaux]!</TRANSL>
 	</S>
 	<S id="CaravansS120">
@@ -1374,9 +1383,9 @@
 	<S id="CaravansS193">
 		<AUDIO start="1058.6398" end="1060.2533"/>
 		<FORM>ɬi˩qʰwɤ˩˥ | tɑ˧kʰv̩˩ | tʰv̩˧-kʰwɤ˥-lɑ˩ | tʰi˧-ki˩! |</FORM>
-		<NOTE xml:lang="fr"
-			message="terme qu'on utilisait autrefois pour les sous-vêtements: /qo˧lo˩-kʰɯ˩-hĩ˩/; ici, la locutrice utilise le terme chinois 短裤 'culotte, pantalon court', emprunté comme /tɑ˧kʰv̩˩/."/>
-		<TRANSL xml:lang="fr">Il leur avait même donné sa culotte/Il avait dû leur donner jusqu'à sa culotte!</TRANSL>
+		<NOTE xml:lang="fr" message="terme qu'on utilisait autrefois pour les sous-vêtements: /qo˧lo˩-kʰɯ˩-hĩ˩/; ici, la locutrice utilise le terme chinois 短裤 'culotte, pantalon court', emprunté comme /tɑ˧kʰv̩˩/."/>
+		<NOTE xml:lang="fr" message="Avant 2018, noté /tʰv̩˧-kʰwɤ˥-lɑ˩ | tʰi˧-ki˩/ et traduit par 'Il avait dû leur donner jusqu'à sa culotte'. A la réécoute, plusieurs hypothèses : soit il s'agit du verbe 'donner', mais alors cela se tient en un seul groupe tonal: /tʰv̩˧-kʰwɤ˥-lɑ˩ tʰi˩-ki˩/ 'Il leur avait même donné sa culotte/Il avait dû leur donner jusqu'à sa culotte'. Soit il s'agit du verbe 'porter, mettre', et le sens de /lɑ˧/ n'est pas 'même' mais 'seulement': 'Il ne portait plus que son pantalon, [ou plus précisément] sa culotte!' Le choix adopté est le second: il ne paraît pas tellement vraisemblable que les brigands soient allés jusqu'à s'emparer du sous-vêtement cache-sexe."/>
+		<TRANSL xml:lang="fr">Il ne portait plus que son pantalon, [ou plus précisément] sa culotte!</TRANSL>
 	</S>
 	<S id="CaravansS194">
 		<AUDIO start="1060.5057" end="1062.9645"/>

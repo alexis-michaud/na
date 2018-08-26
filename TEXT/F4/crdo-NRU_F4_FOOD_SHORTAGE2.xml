@@ -460,7 +460,8 @@
 	<TRANSL xml:lang="fr">Les gens se sont remis de la disette (littéralement: 'se sont rétablis de la faim').</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S041"><AUDIO start="229.7117" end="232.1008"></AUDIO>
-	<FORM kindOf="phonemic">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | æ˧ʂæ˧ | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phonemic">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | æ˧ʂæ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥ tsɯ˩ ◊ -mv̩˩!</FORM>
+	<NOTE xml:lang="fr" message="Avant 2018: noté /ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥ tsɯ˩/. En août 2018: modifié en /ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/, pour la cohérence de l'analyse. (Voir note dans BuriedAlive2, au sujet d'un cas semblable et des efforts déployés pour tirer ce point au clair.)"/>
 	<TRANSL xml:lang="fr">Et ainsi, cette famille-là, autrefois, voilà ce qui lui est arrivé!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S042"><AUDIO start="232.1008" end="238.5023"></AUDIO>

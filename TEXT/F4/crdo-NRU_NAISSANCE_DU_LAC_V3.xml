@@ -522,10 +522,11 @@
 		</W>
 </S>
 <S id="Lake3_S013"><AUDIO start="41.5736" end="44.2144"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥ kʰi˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥ kʰi˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">tiq, tee niq yi ki jjo, tiq, tee niq ggu niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧ne˧ ʝi˥ kʰɯ˩/ avec M23; corrigé en /kʰi˩/ avec F4"/>
-	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧ne˧-ʝi˥ gv̩˩ ɲi˩ tsɯ˩mv̩˩/; note ancienne, erronée: 'tons vérifiés, est une séquence de 4 tons ˩ à la fin'."/>
+	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧ne˧-ʝi˥ gv̩˩ ɲi˩ tsɯ˩ mv̩˩/; note ancienne, erronée: 'tons vérifiés, est une séquence de 4 tons ˩ à la fin'."/>
+	<NOTE xml:lang="fr" message="Avant 2018: noté /ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥ tsɯ˩/. En août 2018: modifié en /ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/, pour la cohérence de l'analyse. (Voir note dans BuriedAlive2, au sujet d'un cas semblable et des efforts déployés pour tirer ce point au clair.)"/>
 	<TRANSL xml:lang="fr">c’est comme ça qu’on faisait! ça se passait comme ça!</TRANSL>
 	<TRANSL xml:lang="en">and do it like this, it happened like this.</TRANSL>
 	<TRANSL xml:lang="zh">（咱们以前都）是这样做的！</TRANSL>

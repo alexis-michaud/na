@@ -18,9 +18,8 @@
 		message="Le récit a été transcrit en 2009 avec M23, F4 étant alors absente de Yongning. Il a été intégralement revu en juillet-août 2011 avec F4, et à nouveau en octobre 2013 avec F4."/>
 	<S id="Sister3_S001">
 		<AUDIO start="0.0000" end="3.2284"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩ -dʑo˩, | ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩:</FORM>
-		<NOTE xml:lang="fr"
-			message="Le ton H final de «ainsi», /ʈʂʰɯ˧ne˧-ʝi˥/, se déplace jusqu’à la fin du mot phonologique."/>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩ -dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩:</FORM>
+		<NOTE xml:lang="fr" message="Le ton H final de «ainsi», /ʈʂʰɯ˧ne˧-ʝi˥/, se déplace-t-il jusqu’à la fin du mot phonologique? Dans la première analyse (c. 2007), dans laquelle la forme avait un schéma M.MH (ʈʂʰɯ˧ne˧˥), cela pouvait aisément être imaginé; en revanche, si la forme est analysée comme /ʈʂʰɯ˧ne˧-ʝi˥/, il faut supposer que le ton qui se déplace n'est pas un élément d'un contour, mais un ton H final. On s'attendrait alors à : /ʈʂʰɯ˧ne˧-ʝi˧ gv̩˧-ɲi˥/, mais il semble qu'il n'y ait pas de syllabe /ʝi/. Analyse en date de 2018: rétablis la forme à trois syllabes; mais il reste à s'assurer que ce n'est pas ici /ʈʂʰɯ˧ne˧/ sans syllabe /ʝi˥/."/>
 		<NOTE xml:lang="fr"
 			message="D’abord noté /ne/, puis adopté uniformément la notation /i/ pour cette voyelle après les initiales dentales: /ti/, /ni/ etc.; sauf derrière /s/, contexte où il existe une opposition. Vérifié en 2013: est une forme contractée, de: /ʈʂʰɯ˧ne˧ ʝi˥/. Il existe des /ne/ distincts des /ni/ (et des /ɲi/). "/>
 		<TRANSL xml:lang="fr">jadis, eh bien, … c’était ainsi, à ce qu’on raconte:</TRANSL>

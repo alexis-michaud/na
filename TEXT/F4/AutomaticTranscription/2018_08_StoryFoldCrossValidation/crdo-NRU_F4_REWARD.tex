@@ -1,0 +1,939 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=0.5in,landscape]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{polyglossia}
+\usepackage{booktabs}
+\usepackage{longtable}
+\setmainfont[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Doulos SIL}
+\DeclareRobustCommand{\hl}[1]{{\textcolor{red}{#1}}}
+
+\begin{document}
+\begin{longtable}{ll}
+\toprule
+Utterance ID: & 1 \\
+Ref: & ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ dʑ o ˩ | ə ˩ g i ˩ | z o ˩ n o ˥ |\hl{ }\hl{m}\hl{m}\hl{m}\hl{…} ə ˧ d ɑ ˥ | ə ˧ m i ˧ | ɲ i ˧ k v̩ ˧˥\hl{ }\hl{|} ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ dʑ o ˩ | ə ˩ g i ˩ | z o ˩ n o ˥ |\hl{}\hl{}\hl{}\hl{}\hl{} ə ˧ d ɑ ˥ | ə ˧ m i ˧ | ɲ i ˧ k v̩ ˧˥\hl{}\hl{} ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 2 \\
+Ref: & tʰ i ˩˥ | z o ˧ m v̩ ˥\hl{ }\hl{|} dʑ \hl{ɤ} ˩\hl{}\hl{} p i ˧ dʑ o ˧\hl{} ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | z o ˧ m v̩ ˥\hl{}\hl{} dʑ \hl{o} ˩\hl{ }\hl{|} p i ˧ dʑ o ˧\hl{˥} ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 3 \\
+Ref: & tʰ i ˩˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ \hl{d}\hl{ʑ} \hl{o}\hl{ }\hl{˩} \hl{|} tʰ v̩ ˧ kʰ v̩ \hl{˩} dʑ o \hl{˩} | tʰ i ˩˥ | h ɑ ˧ ʐ wɤ ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ \hl{}\hl{|} \hl{ʈ}\hl{ʂ}\hl{ʰ} \hl{˩} tʰ v̩ ˧ kʰ v̩ \hl{˧} dʑ o \hl{˧} | tʰ i ˩˥ | h ɑ ˧ ʐ wɤ ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 4 \\
+Ref: & h ɑ ˧ ʐ wɤ ˩ dʑ o ˩ | tʰ i ˩˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ dʑ o ˩ | z o ˩ n o ˥ | əəə… kʰ v̩ ˧ qʰ wɤ ˧ tʰ v̩ ˧\hl{˥} | p i ˧ k v̩ ˩ m æ ˩ |
+ \\
+Hyp: & h ɑ ˧ ʐ wɤ ˩ dʑ o ˩ | tʰ i ˩˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ dʑ o ˩ | z o ˩ n o ˥ | əəə… kʰ v̩ ˧ qʰ wɤ ˧ tʰ v̩ ˧\hl{} | p i ˧ k v̩ ˩ m æ ˩ |
+ \\
+\midrule
+Utterance ID: & 5 \\
+Ref: & tʰ i ˩˥\hl{ }\hl{|} kʰ v̩ ˧ qʰ wɤ ˧ t\hl{ʰ} v̩ \hl{˧}˥\hl{ }\hl{|} ɖ ɯ ˧ kʰ v̩\hl{ }\hl{˧}\hl{˥} \hl{|} dʑ o ˩ | \hl{b} æ ˩ d\hl{ʑ} i \hl{˧} | m ɤ ˧ \hl{d}\hl{ʑ} ɤ \hl{˩} | əəə… z \hl{o} ˧ m v̩ \hl{˥} | dʑ ɤ ˩ p i ˧ dʑ o \hl{˧} |
+ \\
+Hyp: & tʰ i ˩˥\hl{}\hl{} kʰ v̩ ˧ qʰ wɤ ˧ t\hl{} v̩ \hl{}˥\hl{}\hl{} ɖ ɯ ˧ kʰ v̩\hl{}\hl{}\hl{} \hl{˩} dʑ o ˩ | \hl{ʐ} æ ˩ d\hl{z} i \hl{˥} | m ɤ ˧ \hl{t}\hl{ɕ} ɤ \hl{˧} | əəə… z \hl{ɯ} ˧ m v̩ \hl{˧} | dʑ ɤ ˩ p i ˧ dʑ o \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 6 \\
+Ref: & tʰ i ˩˥ | ə ˧ d ɑ\hl{ }\hl{˥} \hl{|} ə ˧ m i ˧\hl{ }\hl{|} ɲ i \hl{˧} k v̩ \hl{˧}\hl{˥} | ɖ ɯ ˧ s ɑ ˥ | l e ˧ ʂ\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ɖ ɯ ˧ m ɤ ˧ ʁ o ˧ ts ɯ ˩\hl{ }\hl{|} m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | ə ˧ d ɑ\hl{}\hl{} \hl{˧} ə ˧ m i ˧\hl{}\hl{} ɲ i \hl{˩} k v̩ \hl{}\hl{˩} | ɖ ɯ ˧ s ɑ ˥ | l e ˧ ʂ\hl{ }\hl{ɤ}\hl{ }\hl{d}\hl{ʑ}\hl{ }\hl{˩}\hl{ }\hl{|} ɖ ɯ ˧ m ɤ ˧ ʁ o ˧ ts ɯ ˩\hl{}\hl{} m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 7 \\
+Ref: & tʰ i ˩˥ | ɖ ɯ ˧ h ɑ̃ ˧\hl{ }\hl{ɻ}\hl{̍} \hl{˥} dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧ ɳ ɯ ˧ | ə ˧ d ɑ ˧ tʰ v̩ ˧ v̩ ˧ k i \hl{˥} | z o ˧ m v̩\hl{}\hl{} \hl{˥} ə \hl{˩} d ɑ \hl{˩} tʰ v̩\hl{ }\hl{˩} \hl{v}\hl{̩} ˩ k i ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | ɖ ɯ ˧ h ɑ̃ ˧\hl{}\hl{}\hl{˥} \hl{|} dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧ ɳ ɯ ˧ | ə ˧ d ɑ ˧ tʰ v̩ ˧ v̩ ˧ k i \hl{˧} | z o ˧ m v̩\hl{ }\hl{˧} \hl{|} ə \hl{˧} d ɑ \hl{˥} tʰ v̩\hl{}\hl{} \hl{}\hl{˧} ˩ k i ˩ |
+ \\
+\midrule
+Utterance ID: & 8 \\
+Ref: & m ɤ ˧ ʝ i ˧ z e ˧\hl{ }\hl{|} ə ˧ z ɯ ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | z o \hl{˧} m v̩ \hl{˥} | h ɑ ˧ ʐ wɤ ˩ kʰ \hl{}\hl{ɯ} ˩ tʰ ɑ ˩ m ɤ ˩ ʝ i ˩ | z \hl{o} ˧ m v̩ ˥\hl{ }\hl{|}\hl{ }\hl{ʈ}\hl{ʂ}\hl{ʰ}\hl{ }\hl{ɯ}\hl{ }\hl{˧} tɕ i ˩\hl{ }\hl{|} ɳ ɯ \hl{˧} g \hl{}\hl{o} \hl{˧} z e \hl{˥} | n o ˧ | h ĩ ˧ kʰ v̩ ˧ h õ\hl{}\hl{} \hl{˧} p i \hl{˩} ɲ i \hl{˩} ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & m ɤ ˧ ʝ i ˧ z e ˧\hl{}\hl{} ə ˧ z ɯ ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | z o \hl{˩} m v̩ \hl{˧} | h ɑ ˧ ʐ wɤ ˩ kʰ \hl{v}\hl{̩} ˩ tʰ ɑ ˩ m ɤ ˩ ʝ i ˩ | z \hl{ɯ} ˧ m v̩ ˥\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} tɕ i ˩\hl{}\hl{} ɳ ɯ \hl{˩} g \hl{v}\hl{̩} \hl{˩} z e \hl{˩} | n o ˧ | h ĩ ˧ kʰ v̩ ˧ h õ\hl{ }\hl{˩} \hl{|} p i \hl{˧} ɲ i \hl{˥} ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 9 \\
+Ref: & \hl{t}\hl{ʰ}\hl{ }\hl{i}\hl{ }˩˥ | ə ˧ d ɑ \hl{˧} tʰ v̩ ˧ v̩ ˧ ɳ ɯ ˩ | əəə… n jɤ ˧ | h ĩ ˧ kʰ v̩ ˧\hl{ }\hl{|}\hl{ }\hl{ʁ} \hl{o} ˧ m ɤ ˧ h o ˩ | p i\hl{}\hl{}\hl{}\hl{} ˧ dʑ o ˩ | ə ˧ m i ˧ ɳ ɯ ˧ | əəə… \hl{ɕ} \hl{j}\hl{ɤ} ˩ tʰ v̩ ˧ ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & \hl{}\hl{}\hl{}\hl{}\hl{}˩˥ | ə ˧ d ɑ \hl{˥} tʰ v̩ ˧ v̩ ˧ ɳ ɯ ˩ | əəə… n jɤ ˧ | h ĩ ˧ kʰ v̩ ˧\hl{}\hl{}\hl{}\hl{˥} \hl{|} ˧ m ɤ ˧ h o ˩ | p i\hl{ }\hl{˧}\hl{ }\hl{ə} ˧ dʑ o ˩ | ə ˧ m i ˧ ɳ ɯ ˧ | əəə… \hl{s} \hl{}\hl{e} ˩ tʰ v̩ ˧ ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 10 \\
+Ref: & n o ˧ | ə ˧ ts e ˧\hl{ }\hl{ʝ} i ˥ | \hl{h} i\hl{̃} ˧ kʰ v̩ ˧\hl{ }\hl{|} m ɤ ˧ \hl{ʁ}\hl{ }\hl{o} \hl{˧} | əəə… ɑ ˩ ʁ o ˧\hl{ }\hl{|} kʰ v̩ ˧ m ɤ ˧ ʁ o ˧ dʑ o ˩ | \hl{d} i ˧ q o ˧\hl{ }\hl{|} kʰ v̩ ˧ b i ˧ ts æ \hl{˧} ɲ i ˩ |
+ \\
+Hyp: & n o ˧ | ə ˧ ts e ˧\hl{}\hl{} i ˥ | \hl{ʝ} i\hl{} ˧ kʰ v̩ ˧\hl{}\hl{} m ɤ ˧ \hl{}\hl{w}\hl{ɤ} \hl{˩} | əəə… ɑ ˩ ʁ o ˧\hl{}\hl{} kʰ v̩ ˧ m ɤ ˧ ʁ o ˧ dʑ o ˩ | \hl{g} i ˧ q o ˧\hl{}\hl{} kʰ v̩ ˧ b i ˧ ts æ \hl{˥} ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 11 \\
+Ref: & əəə… d i ˧ q o ˧ dʑ o ˧ | h ĩ ˧\hl{ }\hl{|} d o \hl{˩} m ɤ \hl{˩} k v̩ ˥ | ɑ ˩ ʁ o ˧ dʑ o ˧\hl{ }\hl{|} h ĩ ˧\hl{}\hl{} ɑ \hl{˥} ʁ o \hl{˩} dʑ o ˩ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & əəə… d i ˧ q o ˧ dʑ o ˧ | h ĩ ˧\hl{}\hl{} d o \hl{˧} m ɤ \hl{˧} k v̩ ˥ | ɑ ˩ ʁ o ˧ dʑ o ˧\hl{}\hl{} h ĩ ˧\hl{ }\hl{|} ɑ \hl{˧} ʁ o \hl{˧} dʑ o ˩ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 12 \\
+Ref: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{ }\hl{|} ʈʂʰ ɯ \hl{˧} v̩ \hl{˧} dʑ o ˩ | ə ˧ d ɑ ˧ \hl{ʈ}\hl{ʂ}ʰ \hl{}\hl{ɯ} ˧ v̩ ˧ dʑ o ˩ | tʰ i ˩˥ | h ɯ ˧ z e ˧ ts ɯ \hl{˧}˥ | m v̩ ˩\hl{ }\hl{|} h ĩ \hl{˧} |
+ \\
+Hyp: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{}\hl{} ʈʂʰ ɯ \hl{˩} v̩ \hl{˩} dʑ o ˩ | ə ˧ d ɑ ˧ \hl{}\hl{t}ʰ \hl{v}\hl{̩} ˧ v̩ ˧ dʑ o ˩ | tʰ i ˩˥ | h ɯ ˧ z e ˧ ts ɯ \hl{}˥ | m v̩ ˩\hl{}\hl{} h ĩ \hl{˥} |
+ \\
+\midrule
+Utterance ID: & 13 \\
+Ref: & ə ˧ m i ˧ | p \hl{æ} ˧˥ h wɤ ˧\hl{ }\hl{|} m ɤ ˧ dʑ o ˧ | õ \hl{˧}˥ |\hl{}\hl{} h ĩ ˧ kʰ v̩ ˧ |\hl{ }\hl{ʁ}\hl{ }\hl{o}\hl{ }\hl{˧} m ɤ ˧ k v̩ \hl{˧} p i \hl{˥} | h ĩ ˧ kʰ v̩ ˧ \hl{h} \hl{o}\hl{̃} \hl{˧} ts ɯ ˩ |
+ \\
+Hyp: & ə ˧ m i ˧ | p \hl{ɑ} ˧˥ h wɤ ˧\hl{}\hl{} m ɤ ˧ dʑ o ˧ | õ \hl{˩}˥ |\hl{ }\hl{ʝ} h ĩ ˧ kʰ v̩ ˧ |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} m ɤ ˧ k v̩ \hl{˩} p i \hl{˧} | h ĩ ˧ kʰ v̩ ˧ \hl{m} \hl{}\hl{ɤ} \hl{˥} ts ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 14 \\
+Ref: & tsʰ o ˧ qʰ wɤ ˩\hl{}\hl{} dʑ \hl{o} ˩\hl{ }\hl{|} qʰ ɑ ˩ n e ˩˥ | kʰ v̩ ˧ ts o ˧ ɲ i ˥ | p i ˧ z o ˩ | tʰ i ˩˥ |
+ \\
+Hyp: & tsʰ o ˧ qʰ wɤ ˩\hl{ }\hl{|} dʑ \hl{ɤ} ˩\hl{}\hl{} qʰ ɑ ˩ n e ˩˥ | kʰ v̩ ˧ ts o ˧ ɲ i ˥ | p i ˧ z o ˩ | tʰ i ˩˥ |
+ \\
+\midrule
+Utterance ID: & 15 \\
+Ref: & \hl{k}ʰ ɤ ˧˥ | l e ˧ p ɤ ˥ p ɤ ˩ | h ɯ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & \hl{q}ʰ ɤ ˧˥ | l e ˧ p ɤ ˥ p ɤ ˩ | h ɯ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 16 \\
+Ref: & h ɯ ˧ | h ɯ ˧ dʑ o ˧\hl{ }\hl{|} ʐ ɤ ˩ m i ˩ q o ˥\hl{ }\hl{|} tʰ v̩ ˧ dʑ o ˩ | ɬ i ˧ m i ˧\hl{ }\hl{|} tsʰ i ˧ ts ɯ \hl{˧}˥ | m v̩ ˩
+ \\
+Hyp: & h ɯ ˧ | h ɯ ˧ dʑ o ˧\hl{}\hl{} ʐ ɤ ˩ m i ˩ q o ˥\hl{}\hl{} tʰ v̩ ˧ dʑ o ˩ | ɬ i ˧ m i ˧\hl{}\hl{} tsʰ i ˧ ts ɯ \hl{}˥ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 17 \\
+Ref: & ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ ɳ ɯ ˩ | \hl{ɕ} i \hl{˩} h w\hl{ɑ} ˩\hl{}\hl{} \hl{ɕ} i ˧ h w\hl{ɑ} ˧\hl{ }\hl{|} p i\hl{ }\hl{˧} \hl{|} ts\hl{ʰ} \hl{i} \hl{˧} ts ɯ \hl{˧}\hl{˥} | m v̩ ˩
+ \\
+Hyp: & ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ ɳ ɯ ˩ | \hl{s} i \hl{˧} h w\hl{ɤ} ˩\hl{ }\hl{|} \hl{s} i ˧ h w\hl{ɤ} ˧\hl{}\hl{} p i\hl{}\hl{} \hl{˥} ts\hl{} \hl{ɯ} \hl{˩} ts ɯ \hl{}\hl{˩} | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 18 \\
+Ref: & kʰ\hl{}\hl{} \hl{ɤ} kʰ ɤ ˧˥ | ɖ ɯ ˧ ɭ ɯ ˧ | tʰ i ˧ p ɤ ˥ p ɤ ˩\hl{ }\hl{|}\hl{ }\hl{ə}\hl{ə}\hl{ə}\hl{…} \hl{ʝ} i \hl{˩} \hl{m} \hl{j}\hl{æ} ˩\hl{˥} |\hl{ }\hl{s}\hl{ }\hl{ə}\hl{ə}\hl{ə}\hl{…} l e ˧ s e ˥ | \hl{ə}\hl{ə}\hl{ə}\hl{…} \hl{ɲ} \hl{i} ɬ i ˧ m i ˧ ɳ ɯ ˧ | l e ˧ d \hl{}\hl{o} ˩ |\hl{}\hl{} \hl{o}\hl{̃} ˧ g ɤ ˧ b ɤ \hl{˥} | õ \hl{˩} d o \hl{˩}\hl{˥} |
+ \\
+Hyp: & kʰ\hl{ }\hl{ɯ} \hl{˧} kʰ ɤ ˧˥ | ɖ ɯ ˧ ɭ ɯ ˧ | tʰ i ˧ p ɤ ˥ p ɤ ˩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{m} i \hl{˧} \hl{s} \hl{}\hl{ɯ} ˩\hl{} |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} l e ˧ s e ˥ | \hl{}\hl{n}\hl{ }\hl{i} \hl{˧} \hl{˩} ɬ i ˧ m i ˧ ɳ ɯ ˧ | l e ˧ d \hl{v}\hl{̩} ˩ |\hl{ }\hl{h} \hl{v}\hl{̩} ˧ g ɤ ˧ b ɤ \hl{˧} | õ \hl{˧} d o \hl{}\hl{˧} |
+ \\
+\midrule
+Utterance ID: & 19 \\
+Ref: & tʰ i ˩˥ | l v̩ ˧ k i ˧ | tʰ i ˧ tʰ v̩\hl{ }\hl{˧}\hl{ }\hl{z}\hl{ }\hl{e} ˧ ts ɯ \hl{˧}˥ | m v̩ ˩ | ɑ ˩ ʁ o ˧ dʑ o ˧\hl{ }\hl{|} kʰ v̩\hl{ }\hl{˧}\hl{ }\hl{ʁ}\hl{ }\hl{o} ˧ m ɤ ˧ h o ˥ | \hl{l} v̩ ˧ q o ˧ g ɤ ˧\hl{ }\hl{|} ɖ ɯ ˧ kʰ wɤ \hl{˧} kʰ v̩ \hl{˧} \hl{b} i ˥ | kʰ v̩ ˧ b i \hl{˥} z e ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | l v̩ ˧ k i ˧ | tʰ i ˧ tʰ v̩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ˧ ts ɯ \hl{}˥ | m v̩ ˩ | ɑ ˩ ʁ o ˧ dʑ o ˧\hl{}\hl{} kʰ v̩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ˧ m ɤ ˧ h o ˥ | \hl{m} v̩ ˧ q o ˧ g ɤ ˧\hl{}\hl{} ɖ ɯ ˧ kʰ wɤ \hl{˩} kʰ v̩ \hl{˩} \hl{m} i ˥ | kʰ v̩ ˧ b i \hl{˧} z e ˩ |
+ \\
+\midrule
+Utterance ID: & 20 \\
+Ref: & z o ˧ m v̩ ˥\hl{ }\hl{|} ʈʂʰ ɯ \hl{˧} tɕ i ˩ | g i ˩\hl{}\hl{}\hl{}\hl{}\hl{}˥ | h ɑ ˧ ʐ wɤ ˩\hl{ }\hl{|} ɳ ɯ \hl{˧}˥\hl{ }\hl{|} ɳ ɯ \hl{˧} g \hl{o}\hl{ }\hl{˧}\hl{˥} | p i ˧ | h ɯ ˧ ts ɯ \hl{˧}˥ | m v̩ ˩
+ \\
+Hyp: & z o ˧ m v̩ ˥\hl{}\hl{} ʈʂʰ ɯ \hl{˩} tɕ i ˩ | g i ˩\hl{ }\hl{ʝ}\hl{ }\hl{i}\hl{ }˥ | h ɑ ˧ ʐ wɤ ˩\hl{}\hl{} ɳ ɯ \hl{˩}˥\hl{}\hl{} ɳ ɯ \hl{˩} g \hl{v}\hl{̩}\hl{ }\hl{˩} | p i ˧ | h ɯ ˧ ts ɯ \hl{}˥ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 21 \\
+Ref: & h ɯ ˧ dʑ o ˧ | tʰ i ˩˥ | l v̩ ˧ k i ˧\hl{ }\hl{|} tʰ v̩ ˧ q o ˧ | tʰ i ˧ tʰ v̩ ˧ dʑ o \hl{˩} | qʰ ɑ ˧ dz e ˧ ʈʂʰ ɯ ˧ | l e ˧ m v̩ ˩ z e ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & h ɯ ˧ dʑ o ˧ | tʰ i ˩˥ | l v̩ ˧ k i ˧\hl{}\hl{} tʰ v̩ ˧ q o ˧ | tʰ i ˧ tʰ v̩ ˧ dʑ o \hl{˧} | qʰ ɑ ˧ dz e ˧ ʈʂʰ ɯ ˧ | l e ˧ m v̩ ˩ z e ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 22 \\
+Ref: & qʰ ɑ ˧ dz \hl{e} ˧ \hl{ʈ}\hl{ʂ}ʰ \hl{ɯ} \hl{˧} | ʂ ɯ ˧\hl{}\hl{} ɬ i ˧ m i ˧ | h õ ˧\hl{}\hl{} ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ dʑ o ˩ | tʰ i ˩˥ | kʰ v̩ ˧ qʰ wɤ ˧\hl{ }\hl{|} \hl{t}ʰ v̩ ˧ h \hl{i}\hl{͂} ˥ dʑ o ˩ | h ɑ ˧ |\hl{}\hl{}\hl{} ɑ ˩ ʁ o ˧ \hl{|}\hl{ }ə\hl{} ˧ ʐ v̩\hl{ }\hl{˩} \hl{|} m ɤ ˧ dʑ o ˧ | ə ˩ g i ˩ | ʂ ɯ ˧ h ĩ\hl{ }\hl{˥} \hl{|} ɖʐ ɤ \hl{˧} k v̩ \hl{}˥ \hl{}\hl{z} \hl{e} ˩ m æ ˩ |
+ \\
+Hyp: & qʰ ɑ ˧ dz \hl{i} ˧ \hl{t}\hl{s}ʰ \hl{e} \hl{˥} | ʂ ɯ ˧\hl{ }\hl{|} ɬ i ˧ m i ˧ | h õ ˧\hl{ }\hl{|} ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ dʑ o ˩ | tʰ i ˩˥ | kʰ v̩ ˧ qʰ wɤ ˧\hl{}\hl{} \hl{k}ʰ v̩ ˧ h \hl{}\hl{ɯ} ˥ dʑ o ˩ | h ɑ ˧ |\hl{ }\hl{q}\hl{ʰ} ɑ ˩ ʁ o ˧ \hl{ə}\hl{ə}ə\hl{…} ˧ ʐ v̩\hl{}\hl{} \hl{˧} m ɤ ˧ dʑ o ˧ | ə ˩ g i ˩ | ʂ ɯ ˧ h ĩ\hl{}\hl{} \hl{˧} ɖʐ ɤ \hl{˩} k v̩ \hl{˩}˥ \hl{t}\hl{s} \hl{ɯ} ˩ m æ ˩ |
+ \\
+\midrule
+Utterance ID: & 23 \\
+Ref: & tʰ i ˩˥ | ʂ ɯ ˧ h ĩ\hl{ }\hl{˥} \hl{|} ɖʐ ɤ ˧ h ɯ \hl{˥} dʑ o ˩ | tʰ i ˩˥ | h ĩ ˧ \hl{l} \hl{v}\hl{̩} \hl{˥} q o \hl{˩} | tʰ i ˧ tʰ v̩ \hl{˧} dʑ o\hl{ }\hl{˩} | ɖʐ ɤ ˧ b i \hl{˥} \hl{|}\hl{ }ʂ\hl{ }\hl{v}\hl{̩} ˧ ɖ \hl{v}\hl{̩} ˧ | l o ˩ qʰ wɤ ˧\hl{ }\hl{|} ɖ ɯ ˧ \hl{ʈ}\hl{ʂ}ʰ \hl{e} ˧\hl{ }\hl{ɻ}\hl{̍}\hl{ }\hl{˩} |
+ \\
+Hyp: & tʰ i ˩˥ | ʂ ɯ ˧ h ĩ\hl{}\hl{} \hl{˧} ɖʐ ɤ ˧ h ɯ \hl{˧} dʑ o ˩ | tʰ i ˩˥ | h ĩ ˧ \hl{ɭ} \hl{}\hl{ɯ} \hl{˧} q o \hl{˧} | tʰ i ˧ tʰ v̩ \hl{˥} dʑ o\hl{}\hl{} | ɖʐ ɤ ˧ b i \hl{˧} \hl{}\hl{ʈ}ʂ\hl{ʰ}\hl{ }\hl{ɯ} ˧ ɖ \hl{}\hl{ɯ} ˧ | l o ˩ qʰ wɤ ˧\hl{}\hl{} ɖ ɯ ˧ \hl{}\hl{k}ʰ \hl{i} ˧\hl{}\hl{}\hl{}\hl{}\hl{} |
+ \\
+\midrule
+Utterance ID: & 24 \\
+Ref: & ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ ɳ ɯ\hl{ }\hl{˩} | \hl{ɲ} i ˧ m i ˧ \hl{n} i ˩ \hl{}z \hl{o} ˩ | ɖ wæ ˧\hl{˥}\hl{ }\hl{|} b o ˧\hl{ }\hl{|} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ɬ i ˧ m i ˧ ʈʂʰ ɯ ˧ ɳ ɯ\hl{}\hl{} | \hl{n} i ˧ m i ˧ \hl{m} i ˩ \hl{d}z \hl{ɯ} ˩ | ɖ wæ ˧\hl{}\hl{}\hl{} b o ˧\hl{}\hl{} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 25 \\
+Ref: & wɤ ˩˥ | l o ˩ qʰ wɤ \hl{}\hl{˧} | l e ˧ w o ˧ ɲ i ˥ p i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & wɤ ˩˥ | l o ˩ qʰ wɤ \hl{˩}\hl{˥} | l e ˧ w o ˧ ɲ i ˥ p i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 26 \\
+Ref: & wɤ ˩˥ | ɖ ɯ ˧ ʈ\hl{ʂ}ʰ \hl{e} ˧ ɻ̍ \hl{˩} | qʰ ɑ \hl{˧} dz \hl{e} ˧ | ɖ ɯ ˧ p \hl{o} ˧ b i \hl{˩} | tʰ i ˧ ʈʂʰ ɻ̍ ˧˥ | wɤ ˩˥ | l e ˧\hl{ }\hl{w} o ˧ ɲ i ˥ p i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & wɤ ˩˥ | ɖ ɯ ˧ ʈ\hl{}ʰ \hl{ɯ} ˧ ɻ̍ \hl{˧} | qʰ ɑ \hl{˩} dz \hl{i} ˧ | ɖ ɯ ˧ p \hl{ɤ} ˧ b i \hl{˥} | tʰ i ˧ ʈʂʰ ɻ̍ ˧˥ | wɤ ˩˥ | l e ˧\hl{}\hl{} o ˧ ɲ i ˥ p i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 27 \\
+Ref: & qʰ ɑ ˧ dz \hl{e} ˧ | s o ˧ \hl{p} o ˧ b i \hl{˩} ʈʂʰ \hl{ɻ}\hl{̍} \hl{˩} dʑ o ˩ | m ɤ ˧ b i ˧ z e ˧ | m ɤ ˧ b i ˧ z e ˧ | n jɤ ˧ | ɖʐ ɤ ˧ ʁ o ˧ m ɤ ˧ h o \hl{˥} |
+ \\
+Hyp: & qʰ ɑ ˧ dz \hl{i} ˧ | s o ˧ \hl{b} o ˧ b i \hl{˧} ʈʂʰ \hl{v}\hl{̩} \hl{˧} dʑ o ˩ | m ɤ ˧ b i ˧ z e ˧ | m ɤ ˧ b i ˧ z e ˧ | n jɤ ˧ | ɖʐ ɤ ˧ ʁ o ˧ m ɤ ˧ h o \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 28 \\
+Ref: & h ĩ ˧\hl{ }\hl{|} m \hl{ɤ} \hl{˧} d o ˩ | m v̩ ˧ ɳ ɯ ˩\hl{ }\hl{|} tʰ i ˧ d o ˩ dʑ o ˩ |
+ \\
+Hyp: & h ĩ ˧\hl{}\hl{} m \hl{o} \hl{˩} d o ˩ | m v̩ ˧ ɳ ɯ ˩\hl{}\hl{} tʰ i ˧ d o ˩ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 29 \\
+Ref: & n jɤ ˧ | ɖʐ \hl{ɤ} ˧ m ɤ ˧ h o ˥ z e ˩ | n jɤ ˧\hl{}\hl{} z o ˧ m v̩ ˥ | h ɑ ˧ ʐ wɤ ˩\hl{ }\hl{|} ʂ ɯ ˧ b i ˧ | tʰ i ˧ ʂ ɯ \hl{˧} kʰ ɯ \hl{˧} z e ˥ |
+ \\
+Hyp: & n jɤ ˧ | ɖʐ \hl{o} ˧ m ɤ ˧ h o ˥ z e ˩ | n jɤ ˧\hl{ }\hl{|} z o ˧ m v̩ ˥ | h ɑ ˧ ʐ wɤ ˩\hl{}\hl{} ʂ ɯ ˧ b i ˧ | tʰ i ˧ ʂ ɯ \hl{˥} kʰ ɯ \hl{˩} z e ˥ |
+ \\
+\midrule
+Utterance ID: & 30 \\
+Ref: & n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | h ĩ ˧ kʰ v̩ ˧\hl{} dʑ o ˩ |\hl{ }\hl{ʁ}\hl{ }\hl{o}\hl{ }\hl{˧} m ɤ ˧ h o ˩ z e ˩ | p i ˧ z o ˩ | l\hl{ }\hl{e} \hl{˧} \hl{w} o ˧ p \hl{ɤ} ˧ p ɤ \hl{˥} | l e ˧ tsʰ ɯ\hl{ }\hl{˩} \hl{ɲ}\hl{ }\hl{i} ˩ ts ɯ ˩ | m v̩ ˩ | \hl{k}ʰ ɤ ˧˥ | kʰ ɤ ˧\hl{˥}\hl{ }\hl{|} tʰ i ˧ p ɤ ˧ p ɤ ˩ |
+ \\
+Hyp: & n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | h ĩ ˧ kʰ v̩ ˧\hl{˥} dʑ o ˩ |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} m ɤ ˧ h o ˩ z e ˩ | p i ˧ z o ˩ | l\hl{}\hl{} \hl{ɯ} \hl{ʁ} o ˧ p \hl{o} ˧ p ɤ \hl{˧} | l e ˧ tsʰ ɯ\hl{}\hl{} \hl{}\hl{i}\hl{̃} ˩ ts ɯ ˩ | m v̩ ˩ | \hl{t}ʰ ɤ ˧˥ | kʰ ɤ ˧\hl{}\hl{}\hl{} tʰ i ˧ p ɤ ˧ p ɤ ˩ |
+ \\
+\midrule
+Utterance ID: & 31 \\
+Ref: & ɑ ˩ ʁ o ˧ l e ˧ tsʰ ɯ ˩ dʑ o ˩ | tʰ i ˩˥\hl{}\hl{} əəə… ə ˧ m \hl{}\hl{i} ˧ \hl{}\hl{d}\hl{ʑ} \hl{o} \hl{˧} \hl{|} \hl{}\hl{ʈ}\hl{ʂ}ʰ v̩ ˧ m i ˧ dʑ o ˧\hl{ }\hl{|} kʰ i ˧ tʰ i ˧ ʈ \hl{æ} ˩ ts ɯ \hl{˩} | m v̩ ˩ \hl{}\hl{|} \hl{ə} ˧ \hl{m} \hl{i} ˧ dʑ o ˧\hl{} |
+ \\
+Hyp: & ɑ ˩ ʁ o ˧ l e ˧ tsʰ ɯ ˩ dʑ o ˩ | tʰ i ˩˥\hl{ }\hl{|} əəə… ə ˧ m \hl{v}\hl{̩} ˧ \hl{ɖ}\hl{ }\hl{ɯ} \hl{˧} \hl{ʝ} \hl{i} \hl{˧}\hl{ }\hl{k}ʰ v̩ ˧ m i ˧ dʑ o ˧\hl{}\hl{} kʰ i ˧ tʰ i ˧ ʈ \hl{ɯ} ˩ ts ɯ \hl{˥} | m v̩ ˩ \hl{t}\hl{ʰ} \hl{ɯ} ˧ \hl{ɳ} \hl{ɯ} ˧ dʑ o ˧\hl{˥} |
+ \\
+\midrule
+Utterance ID: & 32 \\
+Ref: & kʰ i ˧ pʰ o ˧ | p i ˧ dʑ o ˩ |\hl{}\hl{}\hl{}\hl{}\hl{} \hl{ə} \hl{˧} \hl{m} i ˧\hl{}\hl{} kʰ i ˧ pʰ o ˧ \hl{t}s\hl{ʰ} ɯ \hl{˧} ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & kʰ i ˧ pʰ o ˧ | p i ˧ dʑ o ˩ |\hl{ }\hl{i}\hl{ }\hl{d}\hl{ʑ} \hl{ɤ} \hl{˩} \hl{ɲ} i ˧\hl{ }\hl{|} kʰ i ˧ pʰ o ˧ \hl{}s\hl{} ɯ \hl{˥} ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 33 \\
+Ref: & kʰ i ˧ pʰ o ˧ tsʰ ɯ ˧˥\hl{ }\hl{|} dʑ o ˩ | tʰ i ˩˥ | t\hl{s}ʰ \hl{}\hl{o} ˧ qʰ wɤ ˩ | ə ˩ ɖ ɯ ˧ | p i ˧ dʑ o ˩ |
+ \\
+Hyp: & kʰ i ˧ pʰ o ˧ tsʰ ɯ ˧˥\hl{}\hl{} dʑ o ˩ | tʰ i ˩˥ | t\hl{}ʰ \hl{v}\hl{̩} ˧ qʰ wɤ ˩ | ə ˩ ɖ ɯ ˧ | p i ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 34 \\
+Ref: & ə ˧ m i ˧ | m ɤ ˧ ɖ ɯ ˧ m ɤ ˧ ɖ ɯ ˧ | n jɤ ˧\hl{ }\hl{|} ɖʐ\hl{ }\hl{ɤ}\hl{ }\hl{˧}\hl{ }\hl{ʁ} o ˧ m ɤ ˧ h o \hl{}˥ | ɑ ˩ ʁ o ˧\hl{ }\hl{|} kʰ v̩ ˧ m\hl{ }\hl{ɤ}\hl{ }\hl{˧} \hl{j}ɤ \hl{˧} | d i ˧ q o ˧\hl{ }\hl{|} n jɤ\hl{ }\hl{˧} \hl{|} ɖʐ\hl{ }\hl{ɤ}\hl{ }\hl{˧} \hl{ʁ} \hl{o} \hl{˧} m ɤ ˧ h o \hl{˥} |
+ \\
+Hyp: & ə ˧ m i ˧ | m ɤ ˧ ɖ ɯ ˧ m ɤ ˧ ɖ ɯ ˧ | n jɤ ˧\hl{}\hl{} ɖʐ\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} o ˧ m ɤ ˧ h o \hl{˧}˥ | ɑ ˩ ʁ o ˧\hl{}\hl{} kʰ v̩ ˧ m\hl{}\hl{}\hl{}\hl{} \hl{}ɤ \hl{˩} | d i ˧ q o ˧\hl{}\hl{} n jɤ\hl{}\hl{} \hl{˩} ɖʐ\hl{}\hl{}\hl{}\hl{} \hl{ɯ} \hl{˩} \hl{|} m ɤ ˧ h o \hl{˧} |
+ \\
+\midrule
+Utterance ID: & 35 \\
+Ref: & ə ˧ z ɯ ˩ | d i ˧ q o ˧ | qʰ \hl{}\hl{ɑ} ˩ n e ˩˥ | ɖʐ ɤ ˧ b i ˥ |
+ \\
+Hyp: & ə ˧ z ɯ ˩ | d i ˧ q o ˧ | qʰ \hl{v}\hl{̩} ˩ n e ˩˥ | ɖʐ ɤ ˧ b i ˥ |
+ \\
+\midrule
+Utterance ID: & 36 \\
+Ref: & əəə… \hl{m} v̩\hl{ }\hl{˧}\hl{ }\hl{|} h ĩ ˧ m ɤ ˧ d o ˩ dʑ o ˩ | m v̩ ˧ ɳ ɯ ˩ | l e ˧ d o ˩ | ɬ i ˧ m i ˧\hl{ }\hl{|} tsʰ i ˧ z o ˩ | n jɤ ˧\hl{ }\hl{|} tʰ i ˧ ʈʂʰ\hl{ }\hl{ɻ}\hl{̍}\hl{ }\hl{˧} \hl{ʁ} \hl{o} \hl{˧} m ɤ ˧ h o ˥ | p i ˧ | l e ˧ tsʰ ɯ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & əəə… \hl{n} v̩\hl{}\hl{}\hl{}\hl{} h ĩ ˧ m ɤ ˧ d o ˩ dʑ o ˩ | m v̩ ˧ ɳ ɯ ˩ | l e ˧ d o ˩ | ɬ i ˧ m i ˧\hl{}\hl{} tsʰ i ˧ z o ˩ | n jɤ ˧\hl{}\hl{} tʰ i ˧ ʈʂʰ\hl{}\hl{}\hl{}\hl{}\hl{} \hl{o} \hl{˩} \hl{|} m ɤ ˧ h o ˥ | p i ˧ | l e ˧ tsʰ ɯ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 37 \\
+Ref: & tʰ i ˩˥ | wɤ ˩˥ | ə ˧ m i ˧\hl{}\hl{} ʈʂʰ ɯ ˧ \hl{}\hl{j}\hl{ɤ} \hl{˩} \hl{ɳ} \hl{ɯ} \hl{˩} |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ɑ ˩ ʁ o \hl{˧} | ɖ ɯ ˧ n \hl{j}\hl{ɤ} \hl{˧} | \hl{ɕ}\hl{ }\hl{j}\hl{ɤ} ˩ tʰ v̩ ˧ ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & tʰ i ˩˥ | wɤ ˩˥ | ə ˧ m i ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧ \hl{n}\hl{ }\hl{e} \hl{˧} \hl{ʝ} \hl{i} \hl{˥} |\hl{ }\hl{n}\hl{ }\hl{ɯ}\hl{ }\hl{˧} ɑ ˩ ʁ o \hl{˥} | ɖ ɯ ˧ n \hl{}\hl{i} \hl{˥} | \hl{k}\hl{ʰ}\hl{ }\hl{i} ˩ tʰ v̩ ˧ ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 38 \\
+Ref: & \hl{n}\hl{ }\hl{o} ˧\hl{ }\hl{|} z o ˧ m v̩ ˥ dʑ o ˩ | h ɑ ˧ ʐ wɤ ˩\hl{ }\hl{|} tʰ i ˧ ʂ\hl{ }\hl{ɯ} \hl{˧} kʰ ɯ ˧\hl{˥} | ə ˧ z ɯ \hl{˩} | ɑ ˩ ʁ o ˧ | ɖ ɯ ˧ s ɑ \hl{˥} | m ɤ ˧ dʑ o \hl{˧} | h ĩ ˧ ɻ æ ˥ dʑ o ˩ | ɑ ˩ ʁ \hl{}\hl{o} ˧ kʰ v̩ ˧ h ɯ \hl{˧} | n \hl{}\hl{o} \hl{˩} dʑ \hl{o} \hl{˥} | ɑ ˩ ʁ o ˧ kʰ v̩ ˧ m ɤ ˧ ʁ o \hl{˧} |
+ \\
+Hyp: & \hl{}\hl{v}\hl{̩} ˧\hl{}\hl{} z o ˧ m v̩ ˥ dʑ o ˩ | h ɑ ˧ ʐ wɤ ˩\hl{}\hl{} tʰ i ˧ ʂ\hl{}\hl{} \hl{˩} kʰ ɯ ˧\hl{} | ə ˧ z ɯ \hl{˧} | ɑ ˩ ʁ o ˧ | ɖ ɯ ˧ s ɑ \hl{˧} | m ɤ ˧ dʑ o \hl{˥} | h ĩ ˧ ɻ æ ˥ dʑ o ˩ | ɑ ˩ ʁ \hl{w}\hl{ɤ} ˧ kʰ v̩ ˧ h ɯ \hl{˥} | n \hl{v}\hl{̩} \hl{˧} dʑ \hl{ɤ} \hl{˧} | ɑ ˩ ʁ o ˧ kʰ v̩ ˧ m ɤ ˧ ʁ o \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 39 \\
+Ref: & ɑ ˩ pʰ o ˩˥ | d i ˧ q o ˧\hl{ }\hl{|} h ĩ ˧\hl{ }\hl{|} m ɤ ˧ d o\hl{ }\hl{˩}\hl{ }\hl{h}\hl{ }\hl{i}\hl{̃} ˩\hl{ }\hl{|}\hl{ }\hl{n}\hl{ }\hl{o} \hl{˧} | l e ˧ kʰ v̩\hl{ }\hl{˧}\hl{ }\hl{h}\hl{ }\hl{o}\hl{̃} \hl{˧} p i ˧ | kʰ v̩ ˧ m\hl{ }\hl{ɤ}\hl{ }\hl{˧}\hl{ }\hl{h} \hl{ɯ} ˧\hl{ }\hl{|} p i ˧ ts ɯ ˩ | m v̩ ˩\hl{}\hl{}
+ \\
+Hyp: & ɑ ˩ pʰ o ˩˥ | d i ˧ q o ˧\hl{}\hl{} h ĩ ˧\hl{}\hl{} m ɤ ˧ d o\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ˩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{˥} | l e ˧ kʰ v̩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{˩} p i ˧ | kʰ v̩ ˧ m\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{o} ˧\hl{}\hl{} p i ˧ ts ɯ ˩ | m v̩ ˩\hl{ }\hl{|}
+ \\
+\midrule
+Utterance ID: & 40 \\
+Ref: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{ }\hl{|} ʈʂʰ ɯ ˧ v̩ \hl{˧} dʑ o \hl{˧} | ə ˧ d ɑ\hl{}\hl{}\hl{}\hl{} ˧ tʰ v̩ ˧ v̩ ˧ dʑ o \hl{˧} | qʰ ɑ ˩ n e \hl{˩}˥ | ʐ wɤ ˩\hl{}\hl{}\hl{} tʰ i \hl{˥} ʐ wɤ ˩ kʰ ɯ ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{}\hl{} ʈʂʰ ɯ ˧ v̩ \hl{˩} dʑ o \hl{˩} | ə ˧ d ɑ\hl{ }\hl{˧}\hl{ }\hl{ə} ˧ tʰ v̩ ˧ v̩ ˧ dʑ o \hl{˩} | qʰ ɑ ˩ n e \hl{˧}˥ | ʐ wɤ ˩\hl{˥}\hl{ }\hl{|} tʰ i \hl{˧} ʐ wɤ ˩ kʰ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 41 \\
+Ref: & k ɤ ˧ m \hl{}\hl{ɤ} ˧ ʈʂ\hl{} ɯ ˩ | tʰ i ˧ dz i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & k ɤ ˧ m \hl{v}\hl{̩} ˧ ʈʂ\hl{ʰ} ɯ ˩ | tʰ i ˧ dz i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 42 \\
+Ref: & tʰ i ˧ dz i ˩ | z o ˧ m v̩ ˥\hl{ }\hl{|}\hl{ }\hl{ʈ}\hl{ʂ}\hl{ʰ}\hl{ }\hl{ɯ}\hl{ }\hl{˧} tɕ \hl{i} ˩ ɳ ɯ ˩ | ə ˧ d ɑ \hl{˥} | n jɤ ˧ | h ɑ ˧ ʈʂʰ ɯ \hl{˥} | h ɑ ˧\hl{ }\hl{ʐ} wɤ ˩ z e ˩ |\hl{ }\hl{p}\hl{ }\hl{i}\hl{ }\hl{˧} ə ˧ m ɑ ˧ | n jɤ ˧\hl{ }\hl{|} h ɑ ˧ ʐ wɤ ˩ z e ˩ | p i ˧ dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧\hl{ }\hl{j}\hl{ɤ} ˩ ɳ ɯ ˩ |
+ \\
+Hyp: & tʰ i ˧ dz i ˩ | z o ˧ m v̩ ˥\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} tɕ \hl{ɯ} ˩ ɳ ɯ ˩ | ə ˧ d ɑ \hl{˧} | n jɤ ˧ | h ɑ ˧ ʈʂʰ ɯ \hl{˧} | h ɑ ˧\hl{}\hl{} wɤ ˩ z e ˩ |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ə ˧ m ɑ ˧ | n jɤ ˧\hl{}\hl{} h ɑ ˧ ʐ wɤ ˩ z e ˩ | p i ˧ dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧\hl{}\hl{} ʈʂʰ ɯ ˧\hl{}\hl{}\hl{} ˩ ɳ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 43 \\
+Ref: & h ɑ ˧ ʐ wɤ ˩ z e ˩ | d\hl{ʑ} \hl{i} \hl{˩} qʰ æ \hl{˩} ʈʰ ɯ \hl{˩}˥ |
+ \\
+Hyp: & h ɑ ˧ ʐ wɤ ˩ z e ˩ | d\hl{z} \hl{ɯ} \hl{˧} qʰ æ \hl{˧} ʈʰ ɯ \hl{}˥ |
+ \\
+\midrule
+Utterance ID: & 44 \\
+Ref: & n o ˧ | ə ˧ d ɑ \hl{˥} dʑ o ˩\hl{}\hl{} d\hl{ʑ} \hl{i} \hl{˩} qʰ \hl{}æ\hl{}\hl{}\hl{} \hl{˩} l ɑ ˩ n\hl{ }\hl{o} \hl{˧} |\hl{ }\hl{ɑ} ə ˧ d ɑ ˥ dʑ o ˩ | \hl{}\hl{d}\hl{ʑ} \hl{i} ˩\hl{}\hl{} qʰ æ ˩ l ɑ \hl{}˥\hl{}\hl{} ɖ ɯ \hl{˩} \hl{w}\hl{ }\hl{o} ˩ h o ˩ | d\hl{ʑ} \hl{i} \hl{˩} qʰ æ \hl{˩} ʈ\hl{}ʰ ɯ \hl{˩}˥ |
+ \\
+Hyp: & n o ˧ | ə ˧ d ɑ \hl{˧} dʑ o ˩\hl{ }\hl{|} d\hl{z} \hl{ɯ} \hl{˧} qʰ \hl{w}æ\hl{ }\hl{˧}\hl{˥} \hl{|} l ɑ ˩ n\hl{}\hl{} \hl{ɑ} |\hl{}\hl{} ə ˧ d ɑ ˥ dʑ o ˩ | \hl{t}\hl{s}\hl{ʰ} \hl{e} ˩\hl{ }\hl{|} qʰ æ ˩ l ɑ \hl{˩}˥\hl{ }\hl{|} ɖ ɯ \hl{˧} \hl{}\hl{v}\hl{̩} ˩ h o ˩ | d\hl{z} \hl{ɯ} \hl{˧} qʰ æ \hl{˧} ʈ\hl{ʂ}ʰ ɯ \hl{˧}˥ |
+ \\
+\midrule
+Utterance ID: & 45 \\
+Ref: & h ĩ ˧ kʰ \hl{v}\hl{̩} ˧\hl{ }\hl{ɖ}\hl{ }\hl{ɯ} \hl{˧} \hl{ʁ} \hl{o} ˧ m ɤ ˧ h o ˩\hl{}\hl{} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & h ĩ ˧ kʰ \hl{w}\hl{ɤ} ˧\hl{}\hl{}\hl{}\hl{} \hl{|} \hl{ɖ} \hl{ɯ} ˧ m ɤ ˧ h o ˩\hl{ }\hl{|} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 46 \\
+Ref: & tʰ i ˩˥ | ɖ \hl{ɯ} ˧ h ɑ̃ ˧\hl{}\hl{} l e ˧ h ɯ ˧ z e ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | ɖ \hl{æ} ˧ h ɑ̃ ˧\hl{ }\hl{|} l e ˧ h ɯ ˧ z e ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 47 \\
+Ref: & \hl{w}\hl{ɤ}\hl{ }\hl{˩}\hl{˥}\hl{ }| tʰ v̩ ˧ g i \hl{˥} ɖ ɯ ˩ h ɑ̃ ˩ | v̩ ˩ tsʰ ɤ ˧\hl{ }\hl{v}\hl{̩}\hl{ }\hl{˥} ɲ i ˩ | ɖ ɯ ˧ kʰ wɤ ˥ tɕ ɤ ˩\hl{ }\hl{|} l e ˧ dz ɯ ˥ |
+ \\
+Hyp: & \hl{}\hl{}\hl{}\hl{}\hl{}\hl{}| tʰ v̩ ˧ g i \hl{˧} ɖ ɯ ˩ h ɑ̃ ˩ | v̩ ˩ tsʰ ɤ ˧\hl{}\hl{}\hl{}\hl{}\hl{} ɲ i ˩ | ɖ ɯ ˧ kʰ wɤ ˥ tɕ ɤ ˩\hl{}\hl{} l e ˧ dz ɯ ˥ |
+ \\
+\midrule
+Utterance ID: & 48 \\
+Ref: & n o ˧\hl{ }\hl{|} \hl{t}s\hl{ʰ} o ˧ qʰ wɤ ˩ dʑ o ˩ | m ɤ ˧ \hl{ɖ} \hl{ɯ} \hl{˧} \hl{|} tʰ ɑ ˧ \hl{}ʂ\hl{} \hl{e} ˧ ʂ \hl{e} ˧\hl{}\hl{} l e ˧ jo ˩ | z o ˧ m v̩ ˥\hl{ }\hl{|} \hl{ʈ}\hl{ʂ}\hl{ʰ}\hl{ }\hl{ɯ} \hl{˧} \hl{t}\hl{ɕ} i ˩ | ʂ ɯ \hl{˧} ts \hl{ɤ} ˧˥ | m ɤ ˧ tʰ ɑ ˧ \hl{z} e\hl{ }\hl{˥} \hl{|} ɳ ɯ ˧ g \hl{}\hl{o} ˧ z e \hl{˥} | əəə… h ɑ ˧ ʐ wɤ ˩ | ʐ wæ ˩˥ | p i ˧ dʑ o ˩ |
+ \\
+Hyp: & n o ˧\hl{}\hl{} \hl{}s\hl{} o ˧ qʰ wɤ ˩ dʑ o ˩ | m ɤ ˧ \hl{|} \hl{ɖ} \hl{ɯ} \hl{˧} tʰ ɑ ˧ \hl{ʈ}ʂ\hl{ʰ} \hl{ɯ} ˧ ʂ \hl{ɤ} ˧\hl{ }\hl{|} l e ˧ jo ˩ | z o ˧ m v̩ ˥\hl{}\hl{} \hl{}\hl{}\hl{}\hl{t}\hl{ɕ} \hl{i} \hl{}\hl{˩} i ˩ | ʂ ɯ \hl{˩} ts \hl{ɑ} ˧˥ | m ɤ ˧ tʰ ɑ ˧ \hl{l} e\hl{}\hl{} \hl{˧} ɳ ɯ ˧ g \hl{v}\hl{̩} ˧ z e \hl{˧} | əəə… h ɑ ˧ ʐ wɤ ˩ | ʐ wæ ˩˥ | p i ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 49 \\
+Ref: & wɤ ˩˥ | ʂ v̩ ˧ ʂ v̩ ˧ ɖ \hl{v}\hl{̩} ˧ ɖ \hl{v}\hl{̩} \hl{˧}˥\hl{ }\hl{|} h\hl{ }\hl{ɯ}\hl{ }\hl{˧} \hl{ɲ}\hl{ }\hl{i} \hl{˥} ts ɯ ˩ | m v̩ ˩ | pʰ æ \hl{˧} \hl{t}\hl{ɕ} i ˥ | ə ˧ d ɑ\hl{ }\hl{˥} \hl{|} \hl{ʈ}\hl{ʂ}ʰ \hl{}\hl{ɯ} ˧ v̩ ˧ dʑ o ˩ |
+ \\
+Hyp: & wɤ ˩˥ | ʂ v̩ ˧ ʂ v̩ ˧ ɖ \hl{}\hl{ɯ} ˧ ɖ \hl{}\hl{ɤ} \hl{}˥\hl{}\hl{} h\hl{}\hl{}\hl{}\hl{} \hl{}\hl{i}\hl{̃} \hl{˧} ts ɯ ˩ | m v̩ ˩ | pʰ æ \hl{˩} \hl{}\hl{k} i ˥ | ə ˧ d ɑ\hl{}\hl{} \hl{˧} \hl{}\hl{t}ʰ \hl{v}\hl{̩} ˧ v̩ ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 50 \\
+Ref: & ə ˧ d ɑ \hl{˥} \hl{|} tʰ v̩ ˧ v̩ \hl{˥} dʑ o ˩ | ʂ v̩ ˧ ʂ v̩ ˧ ɖ v̩ ˧ ɖ \hl{v}\hl{̩} \hl{˧}˥\hl{ }\hl{|} h ɯ ˧ | ɬ i ˧ \hl{m} i ˧ tsʰ \hl{i} \hl{˧} |
+ \\
+Hyp: & ə ˧ d ɑ \hl{ə} \hl{˧} tʰ v̩ ˧ v̩ \hl{˧} dʑ o ˩ | ʂ v̩ ˧ ʂ v̩ ˧ ɖ v̩ ˧ ɖ \hl{}\hl{ɤ} \hl{}˥\hl{}\hl{} h ɯ ˧ | ɬ i ˧ \hl{ɲ} i ˧ tsʰ \hl{ɯ} \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 51 \\
+Ref: & m ɤ ˧ \hl{ɲ} \hl{i} \hl{˩} \hl{|} m ɤ ˧ ɲ i\hl{ }\hl{˩}\hl{ }\hl{|} tʰ i ˧ k wɤ ˩ kʰ ɯ ˩ | ʂ ɯ ˧ b i ˧ l ɑ ˧\hl{ }\hl{|} tʰ i ˧ ʂ ɯ \hl{˧} kʰ ɯ \hl{˧}\hl{˥} | ɖ ɯ ˧ ʑ i ˩ d v̩ ˩ | h ɑ ˧ ʐ wɤ ˩ | l e ˧ ʂ ɯ ˧ b i ˧ l ɑ \hl{˧} | n jɤ ˧ | õ ˧ b v̩ ˥ õ\hl{ }\hl{˩} \hl{|} \hl{n} v̩ ˩ m i ˩ q o ˥ | ts ɤ ˧ h o ˩ z e ˩ |
+ \\
+Hyp: & m ɤ ˧ \hl{|} \hl{ɲ} \hl{i} \hl{˧} m ɤ ˧ ɲ i\hl{}\hl{}\hl{}\hl{} tʰ i ˧ k wɤ ˩ kʰ ɯ ˩ | ʂ ɯ ˧ b i ˧ l ɑ ˧\hl{}\hl{} tʰ i ˧ ʂ ɯ \hl{˩} kʰ ɯ \hl{}\hl{˩} | ɖ ɯ ˧ ʑ i ˩ d v̩ ˩ | h ɑ ˧ ʐ wɤ ˩ | l e ˧ ʂ ɯ ˧ b i ˧ l ɑ \hl{˩} | n jɤ ˧ | õ ˧ b v̩ ˥ õ\hl{}\hl{} \hl{˥} \hl{ɳ} v̩ ˩ m i ˩ q o ˥ | ts ɤ ˧ h o ˩ z e ˩ |
+ \\
+\midrule
+Utterance ID: & 52 \\
+Ref: & h ĩ ˧ kʰ v̩ ˧ dʑ o ˩ | \hl{ʁ} o ˧ m ɤ ˧ h o ˩ z e ˩\hl{ }\hl{|}\hl{ }\hl{p}\hl{ }\hl{i}\hl{ }\hl{˧} | l e ˧ w o ˧ tsʰ \hl{}\hl{ɯ} ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & h ĩ ˧ kʰ v̩ ˧ dʑ o ˩ | \hl{w} o ˧ m ɤ ˧ h o ˩ z e ˩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | l e ˧ w o ˧ tsʰ \hl{v}\hl{̩} ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 53 \\
+Ref: & tʰ i ˩˥ |\hl{ }\hl{w}\hl{ɤ} ˩˥ | ə ˧ m i ˧ ɳ ɯ \hl{˧} | \hl{ɕ} \hl{j}\hl{ɤ} ˩ tʰ v̩ ˧ ts \hl{ɯ} ˥ | \hl{ɑ}\hl{ }\hl{˩} \hl{ʁ} \hl{o} ˧\hl{ }\hl{|} \hl{l} e \hl{˧} tʰ\hl{ }\hl{v}\hl{̩} ˧\hl{ }\hl{|}
+ \\
+Hyp: & tʰ i ˩˥ |\hl{}\hl{}\hl{} ˩˥ | ə ˧ m i ˧ ɳ ɯ \hl{˩} | \hl{ɬ} \hl{}\hl{i} ˩ tʰ v̩ ˧ ts \hl{ɑ} ˥ | \hl{}\hl{q}\hl{ʰ} \hl{ɑ} \hl{ʁ} ˧\hl{}\hl{} \hl{z} e \hl{˩} tʰ\hl{}\hl{}\hl{} ˧\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 54 \\
+Ref: & n o ˧ dʑ o\hl{}\hl{} \hl{˥} m ɤ ˧ ʈʂʰ \hl{ɤ} ˩ tɕʰ i ˩\hl{}\hl{} h ĩ\hl{}\hl{}\hl{}\hl{} \hl{}\hl{˩} \hl{ə} ˧ d ɑ\hl{}\hl{} \hl{˥}
+ \\
+Hyp: & n o ˧ dʑ o\hl{ }\hl{˧} \hl{|} m ɤ ˧ ʈʂʰ \hl{e} ˩ tɕʰ i ˩\hl{ }\hl{|} h ĩ\hl{ }\hl{˧}\hl{ }\hl{|} \hl{q}\hl{ʰ} \hl{ɑ} ˧ d ɑ\hl{ }\hl{˩} \hl{|}
+ \\
+\midrule
+Utterance ID: & 55 \\
+Ref: & \hl{p}ʰ æ ˧ tɕ i \hl{˥} ɲ i \hl{˩} z e ˩ | h ĩ ˧ ɻ æ ˥ dʑ o ˩ | pʰ æ ˧ tɕ i ˥ dʑ o ˩ | ə ˧ ts o ˧ m ɤ ˧ ɲ i ˩ | \hl{}\hl{ʝ} i ˧ ʁ o \hl{˧} | h ĩ ˧ | s \hl{i} ˧\hl{ }\hl{ʁ}\hl{ }\hl{o}\hl{ }\hl{˥} | h ĩ ˧\hl{}\hl{} ʈʂ\hl{} æ \hl{˧} ʁ o \hl{˥} | h ĩ ˧\hl{}\hl{} kʰ v̩ ˧ ʁ o ˥ |
+ \\
+Hyp: & \hl{q}ʰ æ ˧ tɕ i \hl{˧} ɲ i \hl{˧} z e ˩ | h ĩ ˧ ɻ æ ˥ dʑ o ˩ | pʰ æ ˧ tɕ i ˥ dʑ o ˩ | ə ˧ ts o ˧ m ɤ ˧ ɲ i ˩ | \hl{j}\hl{o} i ˧ ʁ o \hl{˥} | h ĩ ˧ | s \hl{ɯ} ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | h ĩ ˧\hl{ }\hl{|} ʈʂ\hl{ʰ} æ \hl{˩} ʁ o \hl{˧} | h ĩ ˧\hl{ }\hl{|} kʰ v̩ ˧ ʁ o ˥ |
+ \\
+\midrule
+Utterance ID: & 56 \\
+Ref: & n o \hl{˧} dʑ o ˥ | pʰ æ ˧ tɕ i ˥ \hl{|} \hl{m}\hl{ }\hl{ɤ} ˧ ɲ i ˩\hl{ }\hl{|} p i \hl{˧} z o ˩ |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{ɕ} \hl{}\hl{}\hl{j}\hl{ɤ} ˩ tʰ v̩ \hl{˧} ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+Hyp: & n o \hl{˩} dʑ o ˥ | pʰ æ ˧ tɕ i ˥ \hl{m} \hl{}\hl{v}\hl{̩} ˧ ɲ i ˩\hl{}\hl{} p i \hl{˩} z o ˩ |\hl{ }\hl{ʈ}\hl{ʂ}\hl{ʰ}\hl{ }\hl{ɯ}\hl{ }\hl{˧} \hl{|} \hl{t}\hl{ɕ}\hl{ }\hl{i} ˩ tʰ v̩ \hl{˥} ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+\midrule
+Utterance ID: & 57 \\
+Ref: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{ }\hl{|} m ɤ ˧ ɲ i ˩ p i ˩ | ɕ \hl{j}ɤ ˩ tʰ v̩ \hl{˧}˥\hl{ }\hl{|} dʑ o ˩\hl{}\hl{} tʰ i ˩˥ | ə ˧ m i ˧ \hl{}\hl{|} \hl{ə} ˧ d ɑ ˧\hl{ }\hl{|} tʰ\hl{ }\hl{v}\hl{̩}\hl{ }\hl{˧} v̩ ˧ | pʰ æ ˧ tɕ i \hl{˥} \hl{t}ʰ\hl{ }\hl{v}\hl{̩}\hl{ }\hl{˩} v̩ ˩ | ə ˧ d ɑ ˧ tʰ v̩ ˧ v̩ ˧ dʑ o ˩ | tʰ i ˧ ʐ wɤ ˩ kʰ ɯ ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | pʰ æ ˧ tɕ i ˥\hl{}\hl{} m ɤ ˧ ɲ i ˩ p i ˩ | ɕ \hl{}ɤ ˩ tʰ v̩ \hl{˩}˥\hl{}\hl{} dʑ o ˩\hl{ }\hl{|} tʰ i ˩˥ | ə ˧ m i ˧ \hl{t}\hl{ʰ} \hl{ɑ} ˧ d ɑ ˧\hl{}\hl{} tʰ\hl{}\hl{}\hl{}\hl{}\hl{} v̩ ˧ | pʰ æ ˧ tɕ i \hl{˧} \hl{k}ʰ\hl{}\hl{}\hl{}\hl{}\hl{} v̩ ˩ | ə ˧ d ɑ ˧ tʰ v̩ ˧ v̩ ˧ dʑ o ˩ | tʰ i ˧ ʐ wɤ ˩ kʰ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 58 \\
+Ref: & \hl{ɖ}\hl{ }\hl{ɯ}\hl{ }\hl{˧}\hl{ }s ɑ\hl{ }\hl{˥} \hl{|} \hl{k} \hl{ɤ} \hl{˧} m ɤ ˧ ʈʂ\hl{} \hl{ɯ} \hl{˩} | tʰ \hl{}\hl{i} ˧ dz \hl{i} ˩ |
+ \\
+Hyp: & \hl{}\hl{}\hl{}\hl{}\hl{}\hl{}s ɑ\hl{}\hl{} \hl{˩} \hl{t} \hl{ɑ} \hl{˥} m ɤ ˧ ʈʂ\hl{ʰ} \hl{o} \hl{˧} | tʰ \hl{v}\hl{̩} ˧ dz \hl{ɤ} ˩ |
+ \\
+\midrule
+Utterance ID: & 59 \\
+Ref: & tʰ i ˧ dz i ˩ dʑ o ˩ | tʰ i ˩˥ | m\hl{ }\hl{v}\hl{̩}\hl{ }\hl{˩} z o\hl{ }\hl{˩}\hl{˥} \hl{|} ɖ ɯ ˩ h ĩ ˩˥ | z o ˧ m v̩ \hl{˥} | ɖ ɯ ˩ h ĩ ˩˥ | ɖ ɯ ˧ ɭ ɯ ˧\hl{}\hl{} dʑ o ˩ ts ɯ \hl{˩} |\hl{ }\hl{t}\hl{ʰ} \hl{v}\hl{̩}\hl{ }\hl{˧} v̩ ˧ ɳ ɯ ˩ |
+ \\
+Hyp: & tʰ i ˧ dz i ˩ dʑ o ˩ | tʰ i ˩˥ | m\hl{}\hl{}\hl{m}\hl{m}\hl{…} z o\hl{}\hl{}\hl{} \hl{˧} ɖ ɯ ˩ h ĩ ˩˥ | z o ˧ m v̩ \hl{˧} | ɖ ɯ ˩ h ĩ ˩˥ | ɖ ɯ ˧ ɭ ɯ ˧\hl{ }\hl{|} dʑ o ˩ ts ɯ \hl{˧} |\hl{}\hl{}\hl{} \hl{}\hl{ʈ}\hl{ʂ}\hl{ʰ} v̩ ˧ ɳ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 60 \\
+Ref: & ə ˧ m ɑ ˧ | ə ˧ d ɑ ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥\hl{ }\hl{|} z o ˩ | h ĩ ˧ kʰ v̩ ˧ m ɤ ˧ b i ˧ | p i ˧ h ĩ ˧ ʈʂʰ ɯ ˧ dʑ o ˩ |
+ \\
+Hyp: & ə ˧ m ɑ ˧ | ə ˧ d ɑ ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥\hl{}\hl{} z o ˩ | h ĩ ˧ kʰ v̩ ˧ m ɤ ˧ b i ˧ | p i ˧ h ĩ ˧ ʈʂʰ ɯ ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 61 \\
+Ref: & h ĩ ˧ | ʈʰ æ æ̃ ˧ | \hl{o}\hl{̃} ˧ d \hl{ɤ} ˧\hl{}\hl{} \hl{ɻ}\hl{̍} ˧ ɳ ɯ ˧ | h ĩ ˧ kʰ v̩ ˧\hl{}\hl{}\hl{} m ɤ ˧ k v̩ \hl{˩} ɲ i \hl{˩} | m ɤ ˧ kʰ v̩ ˥\hl{ }\hl{|} tʰ i ˧ k wɤ \hl{˩} kʰ \hl{}\hl{ɯ} ˩ | n jæ ˧ s ɯ ˩ k v̩ ˩\hl{ }\hl{ə}\hl{ }\hl{˧} s ɯ ˩ k v̩ ˩ | h ɑ ˧ ʐ wɤ ˩ | ʂ ɯ ˧ b i ˧ | tʰ i ˧ ʂ ɯ ˧ k\hl{ʰ}\hl{ }\hl{ɯ} ˧ ts \hl{æ} ˥ ɲ i ˩ |
+ \\
+Hyp: & h ĩ ˧ | ʈʰ æ æ̃ ˧ | \hl{}\hl{ə} ˧ d \hl{ɑ} ˧\hl{ }\hl{h} \hl{i}\hl{̃} ˧ ɳ ɯ ˧ | h ĩ ˧ kʰ v̩ ˧\hl{˥}\hl{ }\hl{|} m ɤ ˧ k v̩ \hl{˧} ɲ i \hl{˥} | m ɤ ˧ kʰ v̩ ˥\hl{}\hl{} tʰ i ˧ k wɤ \hl{˥} kʰ \hl{v}\hl{̩} ˩ | n jæ ˧ s ɯ ˩ k v̩ ˩\hl{}\hl{}\hl{}\hl{} s ɯ ˩ k v̩ ˩ | h ɑ ˧ ʐ wɤ ˩ | ʂ ɯ ˧ b i ˧ | tʰ i ˧ ʂ ɯ ˧ k\hl{ }\hl{v}\hl{̩} ˧ ts \hl{ɤ} ˥ ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 62 \\
+Ref: & ə ˧ d ɑ ˥ | p i ˧ n i ˧˥ | \hl{m} v̩ ˧\hl{}\hl{} \hl{ɳ} \hl{ɯ} \hl{˩} d o ˩ dʑ o ˩ | h ĩ ˧\hl{ }\hl{|} m ɤ ˧ d o ˩ dʑ o ˩ | m v̩ ˧ ɳ ɯ\hl{ }\hl{˩} \hl{|} d o ˩ k v̩ ˩\hl{˥} |\hl{ }\hl{m} v̩ ˧ g ɤ ˧ l ɑ \hl{˥} ɳ ɯ ˩ | q\hl{} ɑ \hl{˧} k v̩ \hl{}˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ə ˧ d ɑ ˥ | p i ˧ n i ˧˥ | \hl{n} v̩ ˧\hl{ }\hl{|} \hl{m} \hl{ɤ} \hl{˧} d o ˩ dʑ o ˩ | h ĩ ˧\hl{}\hl{} m ɤ ˧ d o ˩ dʑ o ˩ | m v̩ ˧ ɳ ɯ\hl{}\hl{} \hl{˧} d o ˩ k v̩ ˩\hl{} |\hl{}\hl{} v̩ ˧ g ɤ ˧ l ɑ \hl{˧} ɳ ɯ ˩ | q\hl{ʰ} ɑ \hl{˩} k v̩ \hl{˧}˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 63 \\
+Ref: & tʰ i ˩˥ | ə ˧ d ɑ ˧ \hl{}\hl{k} \hl{i} \hl{˧} | wɤ ˩˥ | ə ˧ m i ˧ ɳ ɯ ˧ | n o ˧ | \hl{w}\hl{ɤ} ˩˥\hl{ }\hl{|} ts\hl{ʰ} o \hl{˧} q\hl{ʰ} \hl{w}\hl{ɤ} ˩ h \hl{o}\hl{̃} \hl{˩} | t\hl{s}ʰ o ˧ q\hl{ʰ} \hl{w}\hl{ɤ} ˩ | m ɤ ˧ \hl{}\hl{ɖ} \hl{ɯ} ˧\hl{}\hl{} l e ˧ tsʰ ɯ ˩ | p i \hl{˧} | \hl{n} \hl{j}\hl{ɤ} ˧ \hl{ɳ} \hl{ɯ}\hl{ }\hl{˧} \hl{|} tsʰ o ˧ qʰ wɤ ˩ \hl{d}\hl{ʑ} o ˩ | n \hl{o}\hl{ }\hl{˧} \hl{|} kʰ i ˧\hl{ }\hl{|} pʰ o \hl{˧} m ɤ \hl{˧} \hl{b} i \hl{˧} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | ə ˧ d ɑ ˧ \hl{d}\hl{ʑ} \hl{o} \hl{˩} | wɤ ˩˥ | ə ˧ m i ˧ ɳ ɯ ˧ | n o ˧ | \hl{}\hl{o} ˩˥\hl{}\hl{} ts\hl{} o \hl{˥} q\hl{} \hl{}\hl{o} ˩ h \hl{}\hl{ɯ} \hl{˧} | t\hl{}ʰ o ˧ q\hl{} \hl{}\hl{o} ˩ | m ɤ ˧ \hl{ʈ}\hl{ʰ} \hl{i} ˧\hl{ }\hl{|} l e ˧ tsʰ ɯ ˩ | p i \hl{˩} | \hl{ɲ} \hl{}\hl{i} ˧ \hl{m} \hl{}\hl{v}\hl{̩} \hl{˧} tsʰ o ˧ qʰ wɤ ˩ \hl{t}\hl{ʰ} o ˩ | n \hl{}\hl{v}\hl{̩} \hl{˧} kʰ i ˧\hl{}\hl{} pʰ o \hl{˩} m ɤ \hl{˥} \hl{d} i \hl{˩} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 64 \\
+Ref: & tʰ i ˩˥ | s o ˩ h ɑ̃ ˩ g v̩ ˩˥ | ɖ ɯ ˧ h ɑ̃ \hl{}\hl{˩} dʑ o ˩ | h ɯ ˧ ɲ i ˥ \hl{}\hl{z} \hl{e} ˩ \hl{t}\hl{s} \hl{ɯ} \hl{}\hl{˩} \hl{|} \hl{ə} ˧ d ɑ\hl{ }\hl{˥} \hl{|} \hl{ʈ}\hl{ʂ}ʰ \hl{}\hl{ɯ} \hl{˧} v̩ \hl{˧} | pʰ æ \hl{˧} tɕ i ˥\hl{ }\hl{|} tʰ v̩ ˧ v̩ ˧\hl{ }\hl{|} \hl{h} ɯ ˧ |
+ \\
+Hyp: & tʰ i ˩˥ | s o ˩ h ɑ̃ ˩ g v̩ ˩˥ | ɖ ɯ ˧ h ɑ̃ \hl{˧}\hl{˥} dʑ o ˩ | h ɯ ˧ ɲ i ˥ \hl{t}\hl{s} \hl{ɯ} ˩ \hl{}\hl{|} \hl{h} \hl{i}\hl{̃} \hl{˧} \hl{æ} ˧ d ɑ\hl{}\hl{} \hl{˩} \hl{}\hl{t}ʰ \hl{v}\hl{̩} \hl{˩} v̩ \hl{˩} | pʰ æ \hl{˩} tɕ i ˥\hl{}\hl{} tʰ v̩ ˧ v̩ ˧\hl{}\hl{} \hl{f} ɯ ˧ |
+ \\
+\midrule
+Utterance ID: & 65 \\
+Ref: & \hl{ə}\hl{ə}\hl{ə}… tʰ i \hl{˩}\hl{˥} | m v̩ ˩ z o ˩˥ | ɖ ɯ \hl{˩} h ĩ \hl{˩} k i ˥ | ə ˧ d ɑ ˥ dʑ o ˩\hl{ }\hl{|} tsʰ \hl{o} ˧ q\hl{ʰ} wɤ ˩ | ə ˧ ts o ˧ ɖ ɯ ˧ b i ˧ | ɖ ɯ ˧ b æ ˧ d\hl{ʑ} \hl{o} ˧ | l e ˧ ɖ ɯ ˧ l e ˧\hl{}\hl{} jo ˩ kʰ ɯ ˩ b i ˩ | ə \hl{˧} z ɯ\hl{}\hl{}\hl{}\hl{} \hl{˩} | ə ˧ m i ˧ ɳ ɯ ˧\hl{ }\hl{|}\hl{ }\hl{ɖ} \hl{ɯ} ˧ \hl{n} \hl{j}\hl{ɤ} ˧\hl{ }\hl{|} ɕ jɤ ˩ tʰ v̩ ˧\hl{˥} |
+ \\
+Hyp: & \hl{m}\hl{m}\hl{m}… tʰ i \hl{}\hl{˧} | m v̩ ˩ z o ˩˥ | ɖ ɯ \hl{˧} h ĩ \hl{˧} k i ˥ | ə ˧ d ɑ ˥ dʑ o ˩\hl{}\hl{} tsʰ \hl{ɯ} ˧ q\hl{} wɤ ˩ | ə ˧ ts o ˧ ɖ ɯ ˧ b i ˧ | ɖ ɯ ˧ b æ ˧ d\hl{} \hl{i} ˧ | l e ˧ ɖ ɯ ˧ l e ˧\hl{ }\hl{ʝ} jo ˩ kʰ ɯ ˩ b i ˩ | ə \hl{˩} z ɯ\hl{ }\hl{l}\hl{ }\hl{ɑ} \hl{˥} | ə ˧ m i ˧ ɳ ɯ ˧\hl{}\hl{}\hl{}\hl{} \hl{ə} ˧ \hl{ɲ} \hl{}\hl{i} ˧\hl{}\hl{} ɕ jɤ ˩ tʰ v̩ ˧\hl{} |
+ \\
+\midrule
+Utterance ID: & 66 \\
+Ref: & n o ˧ s ɯ ˩ k v̩ ˩ | ɳ ɯ ˧ g \hl{}\hl{ɯ} ˧ z e ˥ | p i ˧ z o ˩ | h ɯ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & n o ˧ s ɯ ˩ k v̩ ˩ | ɳ ɯ ˧ g \hl{v}\hl{̩} ˧ z e ˥ | p i ˧ z o ˩ | h ɯ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 67 \\
+Ref: & \hl{h}\hl{ }\hl{ɯ} \hl{˧} \hl{|} h ɯ ˧ | qʰ ɑ ˧ dz \hl{e} ˧ \hl{l} \hl{v}\hl{̩} ˧ k i \hl{˧} | wɤ ˩˥ | tʰ i ˧ tʰ v̩ \hl{˧} |
+ \\
+Hyp: & \hl{}\hl{ʈ}\hl{ʂ} \hl{o} \hl{˧} h ɯ ˧ | qʰ ɑ ˧ dz \hl{i} ˧ \hl{ɭ} \hl{}\hl{ɯ} ˧ k i \hl{˩} | wɤ ˩˥ | tʰ i ˧ tʰ v̩ \hl{˥} |
+ \\
+\midrule
+Utterance ID: & 68 \\
+Ref: & \hl{}\hl{}\hl{}\hl{}\hl{ə} ˧ m i ˧ | \hl{ɬ} i ˧ \hl{m} i ˧\hl{ }\hl{|} tsʰ i \hl{˧} z o ˩\hl{}\hl{} \hl{}\hl{|} \hl{b} \hl{}\hl{}\hl{ʐ} ɯ\hl{}\hl{} \hl{˩} \hl{ʁ} æ\hl{}\hl{}\hl{} \hl{˩} \hl{ʐ} \hl{ɯ} \hl{˧} \hl{ʁ} \hl{æ} \hl{˧} \hl{|} \hl{p} |
+ \\
+Hyp: & \hl{t}\hl{ʰ}\hl{ }\hl{v}\hl{̩} ˧ m i ˧ | \hl{h} i ˧ \hl{ɲ} i ˧\hl{}\hl{} tsʰ i \hl{˩} z o ˩\hl{ }\hl{b} \hl{v}\hl{̩} \hl{˩} \hl{ʈ}\hl{ʂ}\hl{ʰ} ɯ\hl{ }\hl{˧} \hl{|} \hl{f} æ\hl{ }\hl{ɻ}\hl{̍} \hl{˥} \hl{|} \hl{ʂ} \hl{ɯ} \hl{˧} \hl{f} \hl{æ} \hl{˥} \hl{i} |
+ \\
+\midrule
+Utterance ID: & 69 \\
+Ref: & \hl{m} ɤ ˧\hl{ }\hl{ʝ} i ˧\hl{ }\hl{|} m ɤ ˧ ʝ i ˧ | tsʰ o ˧ qʰ wɤ \hl{˩} dʑ o\hl{ }\hl{˩} \hl{|} \hl{ɖ}\hl{ʐ} ɤ ˧\hl{ }\hl{|} ʁ o ˧ m ɤ ˧ h o \hl{˥} z e ˩ |
+ \\
+Hyp: & \hl{n} ɤ ˧\hl{}\hl{} i ˧\hl{}\hl{} m ɤ ˧ ʝ i ˧ | tsʰ o ˧ qʰ wɤ \hl{˧} dʑ o\hl{}\hl{} \hl{˧} \hl{ʈ}\hl{ʂ} ɤ ˧\hl{}\hl{} ʁ o ˧ m ɤ ˧ h o \hl{˧} z e ˩ |
+ \\
+\midrule
+Utterance ID: & 70 \\
+Ref: & ts\hl{ʰ} o \hl{˧} qʰ wɤ \hl{˩} dʑ o ˩ | tʰ ɑ ˧ ɖʐ ɤ ˧ z o ˥ | ə ˧ m i\hl{}\hl{}\hl{}\hl{} ˧ | ə ˧ m i ˧ k i ˧\hl{}\hl{} q æ \hl{˩} b i ˩ z e \hl{˩} | p i ˧ z o \hl{˩} |
+ \\
+Hyp: & ts\hl{} o \hl{˩} qʰ wɤ \hl{˥} dʑ o ˩ | tʰ ɑ ˧ ɖʐ ɤ ˧ z o ˥ | ə ˧ m i\hl{ }\hl{˧}\hl{ }\hl{ʁ} ˧ | ə ˧ m i ˧ k i ˧\hl{ }\hl{|} q æ \hl{˧} b i ˩ z e \hl{˧} | p i ˧ z o \hl{˥} |
+ \\
+\midrule
+Utterance ID: & 71 \\
+Ref: & dʑ \hl{i} ˩ kʰ \hl{i} ˩˥ | ɬ i ˧ d\hl{ʑ} i ˩ p i ˩ z o ˩ | ə ˩ g i ˩ |
+ \\
+Hyp: & dʑ \hl{ɯ} ˩ kʰ \hl{ɯ} ˩˥ | ɬ i ˧ d\hl{z} i ˩ p i ˩ z o ˩ | ə ˩ g i ˩ |
+ \\
+\midrule
+Utterance ID: & 72 \\
+Ref: & dʑ ɯ ˧ | ɖ ɯ ˩ h i\hl{̃} \hl{˩}˥ | ɖ ɯ ˧ kʰ ɯ \hl{˩} d i ˩ k v̩ ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & dʑ ɯ ˧ | ɖ ɯ ˩ h i\hl{} \hl{}˥ | ɖ ɯ ˧ kʰ ɯ \hl{˧} d i ˩ k v̩ ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 73 \\
+Ref: & tʰ i ˩˥ | \hl{l} v̩ ˧ m i ˧ ʈʂʰ ɯ ˧ | \hl{ʈ}\hl{ʂ}\hl{ʰ} ɯ ˧ ɖ ɯ ˧ ɖ ɯ ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧ ɖ ɯ ˧ ɖ ɯ ˧ \hl{h} \hl{i}\hl{̃} ˧ \hl{ʈ}\hl{ʂ}\hl{ʰ} \hl{ɯ} ˧ \hl{}\hl{}\hl{|} \hl{ɬ} \hl{i} \hl{˧} dʑ ɯ ˩\hl{ }\hl{|} dʑ ɯ ˧ ɳ ɯ ˧ | l \hl{e} ˧ q \hl{v}\hl{̩} ˩ | l e ˧ \hl{p} o \hl{˧} tsʰ ɯ ˧ h ĩ \hl{˥} ʈʂʰ ɯ \hl{˩} dʑ o ˩ | qʰ \hl{}\hl{ɑ} ˩ \hl{}\hl{j}\hl{ɤ} ˩ tʰ i ˥ dʑ o \hl{˩} k v̩ ˩ m æ ˩ | \hl{p}ʰ v̩ \hl{˩} tɕ\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} æ \hl{˩} ɻ æ ˥ z o ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | \hl{m} v̩ ˧ m i ˧ ʈʂʰ ɯ ˧ | \hl{}\hl{}\hl{ɖ} ɯ ˧ ɖ ɯ ˧ ɖ ɯ ˧\hl{}\hl{} ʈʂʰ ɯ ˧ ɖ ɯ ˧ ɖ ɯ ˧ \hl{ɭ} \hl{}\hl{ɯ} ˧ \hl{}\hl{d}\hl{ʑ} \hl{ɤ} ˧ \hl{ʈ}\hl{ʂ}\hl{ʰ} \hl{ɯ} \hl{˥} \hl{|} dʑ ɯ ˩\hl{}\hl{} dʑ ɯ ˧ ɳ ɯ ˧ | l \hl{æ} ˧ q \hl{}\hl{o} ˩ | l e ˧ \hl{b} o \hl{˩} tsʰ ɯ ˧ h ĩ \hl{˩} ʈʂʰ ɯ \hl{˧} dʑ o ˩ | qʰ \hl{v}\hl{̩} ˩ \hl{z}\hl{ }\hl{ɯ} ˩ tʰ i ˥ dʑ o \hl{˥} k v̩ ˩ m æ ˩ | \hl{t}ʰ v̩ \hl{˧} tɕ\hl{ }\hl{æ}\hl{ }\hl{˧}\hl{ }\hl{ɻ} æ \hl{˥} ɻ æ ˥ z o ˩ |
+ \\
+\midrule
+Utterance ID: & 74 \\
+Ref: & tʰ i\hl{ }\hl{˩}\hl{˥} \hl{|} pʰ v̩ \hl{˩} tɕ æ\hl{ }\hl{˩} ɻ\hl{ }\hl{æ} ˥\hl{ }\hl{h}\hl{ }\hl{i}\hl{̃}\hl{ }\hl{˩} tʰ \hl{v}\hl{̩} ˩ | ɖ ɯ ˧ p i ˧ k v̩ \hl{˧} k v̩ ˥ | kʰ ɤ \hl{˧} q o ˥ | tʰ i ˧ kʰ ɯ ˧\hl{˥} | l e ˧ tsʰ ɯ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i\hl{}\hl{}\hl{} \hl{˧} pʰ v̩ \hl{˧} tɕ æ\hl{}\hl{} ɻ\hl{}\hl{} ˥\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} tʰ \hl{}\hl{ɯ} ˩ | ɖ ɯ ˧ p i ˧ k v̩ \hl{˩} k v̩ ˥ | kʰ ɤ \hl{˩} q o ˥ | tʰ i ˧ kʰ ɯ ˧\hl{} | l e ˧ tsʰ ɯ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 75 \\
+Ref: & ə \hl{˧} \hl{}\hl{m} \hl{i} \hl{}\hl{˧} \hl{o} | n jɤ ˧\hl{}\hl{} | ə ˧ z ɯ ˩ | h ĩ ˧ m ɤ ˧ d o ˩ | m v̩ ˧ ɳ ɯ ˩ | \hl{t} v\hl{}\hl{}\hl{} d o \hl{˩} dʑ o ˩ |
+ \\
+Hyp: & ə \hl{m} \hl{v}\hl{̩} \hl{˧} \hl{w}\hl{ɤ} \hl{˧} | n jɤ ˧\hl{ }\hl{˩} | ə ˧ z ɯ ˩ | h ĩ ˧ m ɤ ˧ d o ˩ | m v̩ ˧ ɳ ɯ ˩ | \hl{d} v\hl{̩}\hl{ }\hl{˧} d o \hl{˧} dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 76 \\
+Ref: & h ɑ ˧ dʑ o ˩ | ɖ\hl{ʐ}\hl{ }\hl{ɤ} \hl{˧} ʁ o \hl{˧} m ɤ ˧ h o \hl{˥} z e ˩ |
+ \\
+Hyp: & h ɑ ˧ dʑ o ˩ | ɖ\hl{}\hl{}\hl{} \hl{o} ʁ o \hl{˩} m ɤ ˧ h o \hl{˧} z e ˩ |
+ \\
+\midrule
+Utterance ID: & 77 \\
+Ref: & ts\hl{ʰ} o ˧ qʰ wɤ \hl{˩} d\hl{ʑ} \hl{o} ˩ | l v̩ ˧ \hl{m} i ˧ s o ˩ ʈ v̩ ˩ p ɤ ˩ p \hl{ɤ} ˩ | l e ˧ b i ˩ z e ˩\hl{}\hl{} p i ˩ ɲ i \hl{˩} ts ɯ ˩\hl{ }\hl{|} m v̩ ˩\hl{}\hl{}
+ \\
+Hyp: & ts\hl{} o ˧ qʰ wɤ \hl{˧} d\hl{} \hl{i} ˩ | l v̩ ˧ \hl{ɲ} i ˧ s o ˩ ʈ v̩ ˩ p ɤ ˩ p \hl{o} ˩ | l e ˧ b i ˩ z e ˩\hl{ }\hl{|} p i ˩ ɲ i \hl{˥} ts ɯ ˩\hl{}\hl{} m v̩ ˩\hl{ }\hl{|}
+ \\
+\midrule
+Utterance ID: & 78 \\
+Ref: & tʰ i ˩˥ | \hl{l} v̩ ˧ m i ˧\hl{ }\hl{|} ɖ ɯ ˧ p i ˧ p ɤ\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} kʰ ɯ \hl{˥} kʰ ɯ \hl{}\hl{˩} | \hl{k} \hl{v}\hl{̩} ˧ k v̩ \hl{˥} | kʰ \hl{ɤ} ˧ q\hl{} \hl{}\hl{o} ˥ | tʰ i ˧ kʰ ɯ \hl{˧}˥\hl{ }\hl{|} \hl{t}\hl{ɕ} i ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | \hl{m} v̩ ˧ m i ˧\hl{}\hl{} ɖ ɯ ˧ p i ˧ p ɤ\hl{ }\hl{˧}\hl{˥}\hl{ }\hl{|}\hl{ }\hl{k}\hl{ʰ}\hl{ }\hl{˧} kʰ ɯ \hl{˧} kʰ ɯ \hl{˧}\hl{˥} | \hl{q} \hl{}\hl{o} ˧ k v̩ \hl{˩} | kʰ \hl{ɑ} ˧ q\hl{ʰ} \hl{v}\hl{̩} ˥ | tʰ i ˧ kʰ ɯ \hl{}˥\hl{}\hl{} \hl{d}\hl{ʑ} i ˩ |
+ \\
+\midrule
+Utterance ID: & 79 \\
+Ref: & tʰ i \hl{}\hl{˧} kʰ \hl{}\hl{ɯ} ˧\hl{˥} | l e ˧ tsʰ ɯ ˩\hl{ }\hl{d}\hl{ʑ} \hl{o} ˩ | \hl{}\hl{ʐ} ɤ ˩ m i ˩ q o ˥ | ə ˧ ts o ˧ | k \hl{v}\hl{̩} ˧ k v̩ ˥ dʑ o ˩\hl{}\hl{} | ɳ ɯ ˧ \hl{p} i \hl{˩} \hl{l} \hl{ɑ} ˩ k v̩ ˩ k v̩ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i \hl{˩}\hl{˥} kʰ \hl{v}\hl{̩} ˧\hl{} | l e ˧ tsʰ ɯ ˩\hl{}\hl{}\hl{} \hl{i} ˩ | \hl{ʈ}\hl{ʂ} ɤ ˩ m i ˩ q o ˥ | ə ˧ ts o ˧ | k \hl{}\hl{o} ˧ k v̩ ˥ dʑ o ˩\hl{ }\hl{ɲ} | ɳ ɯ ˧ \hl{t} i \hl{˧} \hl{ɻ} \hl{æ} ˩ k v̩ ˩ k v̩ ˩ ɲ i ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 80 \\
+Ref: & ʐ ɤ ˩ \hl{m} i ˩ q o ˥ | tʰ i ˧ tʰ v̩ ˧\hl{}\hl{} tʰ i ˧ s e \hl{˥} | tʰ i ˧ t\hl{}\hl{} \hl{}\hl{t}\hl{ʰ} i ˧ s e \hl{˥} | tʰ i ˧ s e \hl{˥} | tʰ i ˧ s e \hl{˥} |
+ \\
+Hyp: & ʐ ɤ ˩ \hl{ɲ} i ˩ q o ˥ | tʰ i ˧ tʰ v̩ ˧\hl{ }\hl{|} tʰ i ˧ s e \hl{˧} | tʰ i ˧ t\hl{ }\hl{ɤ} \hl{˩}\hl{ }\hl{t} i ˧ s e \hl{˩} | tʰ i ˧ s e \hl{˩} | tʰ i ˧ s e \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 81 \\
+Ref: & ɑ ˩ ʁ o ˧ tʰ \hl{v}\hl{̩} ˧ h o ˩ dʑ o ˩ | \hl{}\hl{ʐ} ɯ\hl{}\hl{}\hl{} \hl{˧} \hl{|} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ɑ ˩ ʁ o ˧ tʰ \hl{}\hl{o} ˧ h o ˩ dʑ o ˩ | \hl{d}\hl{ʑ} ɯ\hl{ }\hl{ɖ}\hl{ʐ} \hl{ɯ} \hl{˥} p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 82 \\
+Ref: & ɖ ɯ ˧ kʰ \hl{ɤ} \hl{˧}˥ | ʐ \hl{}\hl{ɯ} ˧ ts ɯ ˩ | m v̩ ˩\hl{ }\hl{|} kʰ ɤ ˧˥ | tʰ i ˧ ʂ \hl{ɻ}\hl{̍} ˧ ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & ɖ ɯ ˧ kʰ \hl{ɯ} \hl{}˥ | ʐ \hl{v}\hl{̩} ˧ ts ɯ ˩ | m v̩ ˩\hl{}\hl{} kʰ ɤ ˧˥ | tʰ i ˧ ʂ \hl{v}\hl{̩} ˧ ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 83 \\
+Ref: & kʰ i ˧ m i ˧ q o ˧\hl{ }\hl{d}\hl{ʑ}\hl{ }\hl{o} \hl{˧}\hl{ }\hl{|} \hl{ə} ˧ ts\hl{} o \hl{˧} | ʐ ɯ ˧ z \hl{o} ˥ | g ɤ ˩ ʈ i\hl{ }\hl{˧} | g ɤ \hl{˩} ʈ i \hl{˧} \hl{|} \hl{m}\hl{ }\hl{ɤ} \hl{˧} tʰ \hl{ɑ} \hl{˧}\hl{˥} |
+ \\
+Hyp: & kʰ i ˧ m i ˧ q o ˧\hl{}\hl{}\hl{}\hl{}\hl{} \hl{}\hl{t}\hl{ʰ} \hl{i} ˧ ts\hl{ʰ} o \hl{˩} | ʐ ɯ ˧ z \hl{ɯ} ˥ | g ɤ ˩ ʈ i\hl{}\hl{} | g ɤ \hl{˧} ʈ i \hl{˥} \hl{m} \hl{}\hl{ɑ}\hl{̃} \hl{˩} tʰ \hl{æ} \hl{}\hl{˩} |
+ \\
+\midrule
+Utterance ID: & 84 \\
+Ref: & kʰ i ˧ pʰ o ˧ ɻ̍\hl{ }\hl{˥} \hl{|} p i ˧ dʑ o ˩ | ə ˧ m i ˧ | wɤ ˩˥ | ɖ ɯ ˧ p i ˧\hl{}˥ | \hl{m}\hl{m}\hl{m}\hl{…}\hl{ }\hl{k}ʰ \hl{i} ˧ pʰ \hl{}\hl{o} ˧ m ɤ ˧ \hl{t}s\hl{ʰ} ɯ\hl{ }\hl{˩} \hl{|} p i \hl{˧} ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & kʰ i ˧ pʰ o ˧ ɻ̍\hl{}\hl{} \hl{˧} p i ˧ dʑ o ˩ | ə ˧ m i ˧ | wɤ ˩˥ | ɖ ɯ ˧ p i ˧\hl{ }˥ | \hl{}\hl{}\hl{}\hl{}\hl{t}\hl{ɕ}ʰ \hl{e} ˧ pʰ \hl{v}\hl{̩} ˧ m ɤ ˧ \hl{}s\hl{} ɯ\hl{}\hl{} \hl{˧} p i \hl{˥} ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 85 \\
+Ref: & kʰ i ˧ pʰ o ˧\hl{ }\hl{ɻ}\hl{̍} \hl{˥} \hl{|} p i ˧ | kʰ i ˧ pʰ o ˧\hl{ }\hl{ɻ}\hl{̍}\hl{ }\hl{˥}\hl{ }\hl{|} tʰ\hl{ }\hl{i} \hl{˩}\hl{˥} \hl{|} n o ˧\hl{˥}\hl{ }\hl{|} \hl{k}ʰ\hl{ }\hl{i} \hl{˧} \hl{p}\hl{ʰ} \hl{o}\hl{ }\hl{˧} t\hl{s}ʰ \hl{ɯ} ˧˥ | t\hl{s}\hl{ʰ}\hl{ }\hl{o}\hl{ }\hl{˧}\hl{ }\hl{q}ʰ \hl{w}\hl{ɤ}\hl{ }\hl{˩} \hl{|} n \hl{o} ˧ \hl{|} \hl{ə} \hl{˩} \hl{ɖ}\hl{ }\hl{ɯ} ˧ \hl{|}\hl{ }\hl{p} \hl{i} \hl{˧} dʑ o ˩ |
+ \\
+Hyp: & kʰ i ˧ pʰ o ˧\hl{}\hl{}\hl{} \hl{ɯ} \hl{˧} p i ˧ | kʰ i ˧ pʰ o ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} tʰ\hl{}\hl{} \hl{v}\hl{̩} \hl{˧} n o ˧\hl{}\hl{}\hl{} \hl{t}ʰ\hl{}\hl{} \hl{o} \hl{}\hl{˩} \hl{}\hl{v}\hl{̩} t\hl{}ʰ \hl{o} ˧˥ | t\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}ʰ \hl{}\hl{}\hl{v}\hl{̩} \hl{˧} n \hl{ɑ} ˧ \hl{ɖ} \hl{ɯ} \hl{˧} \hl{}\hl{ɻ}\hl{̍} ˧ \hl{}\hl{t}\hl{ʰ} \hl{ɑ} \hl{˩} dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 86 \\
+Ref: & tsʰ \hl{o} ˧ \hl{q}\hl{ʰ} \hl{w}\hl{ɤ} ˩ dʑ o ˩ | ɖ ɯ ˧ z e ˩ | n o ˧ | \hl{}\hl{k}ʰ i ˧ pʰ \hl{}\hl{o} ˧ \hl{ɻ}\hl{̍} \hl{˥} \hl{|} \hl{p}\hl{ }\hl{i} \hl{˧} dʑ o ˩ |
+ \\
+Hyp: & tsʰ \hl{ɯ} ˧ \hl{}\hl{h} \hl{}\hl{o} ˩ dʑ o ˩ | ɖ ɯ ˧ z e ˩ | n o ˧ | \hl{t}\hl{ɕ}ʰ i ˧ pʰ \hl{v}\hl{̩} ˧ \hl{}\hl{|} \hl{p} \hl{i} \hl{}\hl{˧}\hl{˥} \hl{|} dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 87 \\
+Ref: & ə\hl{}\hl{}\hl{} ˧ ts o ˧ ɖ ɯ\hl{}\hl{} \hl{}\hl{˧} \hl{|} p i \hl{˧} dʑ o ˩ | ə ˧ ts o ˧ ɖ ɯ ˧ \hl{|} \hl{n}\hl{ }\hl{o} ˧ | kʰ i ˧ pʰ o\hl{ }\hl{˧} \hl{|} p i \hl{˧} | tʰ i ˩˥ | kʰ i ˧\hl{ }\hl{|} l e ˧ p\hl{ʰ} o ˧ k\hl{ }\hl{w}\hl{ɤ}\hl{ }\hl{˧}\hl{ }\hl{t}\hl{ɕ}\hl{ }\hl{ɯ}\hl{ }\hl{˥}\hl{ }\hl{l}\hl{ }\hl{ɑ}\hl{ }\hl{˩}\hl{ }\hl{|} \hl{t}\hl{ʰ}\hl{ }\hl{i} \hl{˩}˥ |
+ \\
+Hyp: & ə\hl{ }\hl{v}\hl{̩} ˧ ts o ˧ ɖ ɯ\hl{ }\hl{h} \hl{i}\hl{̃} \hl{˩} p i \hl{˩} dʑ o ˩ | ə ˧ ts o ˧ ɖ ɯ ˧ \hl{m} \hl{}\hl{v}\hl{̩} ˧ | kʰ i ˧ pʰ o\hl{}\hl{} \hl{˥} p i \hl{˩} | tʰ i ˩˥ | kʰ i ˧\hl{}\hl{} l e ˧ p\hl{} o ˧ k\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{}\hl{}\hl{v}\hl{̩} \hl{}˥ |
+ \\
+\midrule
+Utterance ID: & 88 \\
+Ref: & \hl{t}s\hl{ʰ} \hl{o} ˧ qʰ \hl{w}\hl{ɤ} ˩ dʑ o ˩ | p i \hl{˩} t i ˧\hl{ }\hl{|} ɖ ɯ ˧ z e ˩ | p i ˧ z \hl{o} ˩ | ɬ i ˩ ʈ \hl{}\hl{ɯ} ˩ m æ ˥ | tʰ v̩ ˧ q o ˧ dʑ o \hl{˧} |\hl{}\hl{} \hl{b} \hl{u} l o\hl{}\hl{}\hl{}\hl{} o \hl{p} \hl{}\hl{i} \hl{˧} \hl{|} tʰ \hl{v}\hl{̩} ˧ kʰ \hl{ɤ} \hl{˩}\hl{ }\hl{|} | g i ˩˥ | p i \hl{˩} t i ˧ ts ɤ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & \hl{}s\hl{} \hl{ɯ} ˧ qʰ \hl{}\hl{o} ˩ dʑ o ˩ | p i \hl{˧} t i ˧\hl{}\hl{} ɖ ɯ ˧ z e ˩ | p i ˧ z \hl{ɯ} ˩ | ɬ i ˩ ʈ \hl{v}\hl{̩} ˩ m æ ˥ | tʰ v̩ ˧ q o ˧ dʑ o \hl{˩} |\hl{ }\hl{p} \hl{ɤ} \hl{˧} l o\hl{ }\hl{˩}\hl{ }\hl{ʁ} o \hl{˧} \hl{t}\hl{ʰ} \hl{o} \hl{˩} tʰ \hl{}\hl{i} ˧ kʰ \hl{ɯ} \hl{}\hl{˧}\hl{˥} | g i ˩˥ | p i \hl{˧} t i ˧ ts ɤ ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 89 \\
+Ref: & tʰ i ˩˥ | ʈʂʰ ɯ ˧ dʑ o ˧\hl{} | h ĩ ˧ kʰ v̩ ˧\hl{} s o ˥\hl{}\hl{} m ɤ ˩ ɖ o ˩ | h ĩ ˧ ɳ \hl{æ} ˩ s\hl{}\hl{} \hl{o} \hl{˩} m ɤ \hl{˩} ɖ \hl{}\hl{o} ˩ | m v̩\hl{ }\hl{˧} ɳ ɯ ˩ \hl{}\hl{|} q ɑ ˧ k v̩ ˥ |
+ \\
+Hyp: & tʰ i ˩˥ | ʈʂʰ ɯ ˧ dʑ o ˧\hl{˥} | h ĩ ˧ kʰ v̩ ˧\hl{˥} s o ˥\hl{ }\hl{|} m ɤ ˩ ɖ o ˩ | h ĩ ˧ ɳ \hl{ɯ} ˩ s\hl{ }\hl{ɯ} \hl{˥} \hl{|} m ɤ \hl{˧} ɖ \hl{w}\hl{æ} ˩ | m v̩\hl{}\hl{} ɳ ɯ ˩ \hl{q}\hl{ʰ} q ɑ ˧ k v̩ ˥ |
+ \\
+\midrule
+Utterance ID: & 90 \\
+Ref: & əəə… m v̩ ˧ ɳ ɯ ˩ | k i ˧ k v̩ ˧ p i ˥ \hl{|} \hl{t}\hl{ɕ} \hl{o} \hl{˧}\hl{˥} ʂ \hl{ɯ} \hl{˩} | æ ˧ ʂ æ ˧ \hl{d}\hl{ʑ} \hl{o} ˩ | ə ˩ g i ˩ |
+ \\
+Hyp: & əəə… m v̩ ˧ ɳ ɯ ˩ | k i ˧ k v̩ ˧ p i ˥ \hl{k} \hl{}\hl{i} \hl{˩} \hl{}\hl{|} ʂ \hl{æ} \hl{˧} | æ ˧ ʂ æ ˧ \hl{}\hl{g} \hl{i} ˩ | ə ˩ g i ˩ |
+ \\
+\midrule
+Utterance ID: & 91 \\
+Ref: & m v̩ ˧ g ɤ ˧ l ɑ \hl{˥} ɳ ɯ ˩ | k i ˧ k v̩ \hl{˧} p i\hl{ }\hl{˥} \hl{|} ʈʂʰ ɯ ˧ k i \hl{˧} dʑ o ˩ | m v̩ ˧ g ɤ ˧ l ɑ ˥ ɳ ɯ ˩ | k i ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & m v̩ ˧ g ɤ ˧ l ɑ \hl{˧} ɳ ɯ ˩ | k i ˧ k v̩ \hl{˩} p i\hl{}\hl{} \hl{˧} ʈʂʰ ɯ ˧ k i \hl{˥} dʑ o ˩ | m v̩ ˧ g ɤ ˧ l ɑ ˥ ɳ ɯ ˩ | k i ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 92 \\
+Ref: & m v̩ ˧ g ɤ ˧ l ɑ \hl{˥} ɳ ɯ\hl{ }\hl{˩} \hl{|} k i ˧ dʑ o ˧ | tʰ i ˩˥ | g i ˩˥ | dʑ o ˩ | ʈʂʰ ɯ ˧ ɳ ɯ ˧ | ɖ ɯ ˧ t ɑ ˧˥ | k i \hl{˧} | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & m v̩ ˧ g ɤ ˧ l ɑ \hl{˧} ɳ ɯ\hl{}\hl{} \hl{˧} k i ˧ dʑ o ˧ | tʰ i ˩˥ | g i ˩˥ | dʑ o ˩ | ʈʂʰ ɯ ˧ ɳ ɯ ˧ | ɖ ɯ ˧ t ɑ ˧˥ | k i \hl{˩} | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 93 \\
+Ref: & ə ˧ m i ˧ | ə ˩ s ɯ ˧ k v̩ ˥ | qʰ ɑ ˩ \hl{n} e ˩˥ | l e ˧ \hl{ɻ}\hl{̃} ˧ b i ˧ | h ĩ ˧ dʑ o ˩ | tʰ ɑ ˧ kʰ \hl{v}\hl{̩}\hl{ }\hl{˥} \hl{|} ə ˧ \hl{}s\hl{} ɯ ˥ |
+ \\
+Hyp: & ə ˧ m i ˧ | ə ˩ s ɯ ˧ k v̩ ˥ | qʰ ɑ ˩ \hl{l} e ˩˥ | l e ˧ \hl{}\hl{ə} ˧ b i ˧ | h ĩ ˧ dʑ o ˩ | tʰ ɑ ˧ kʰ \hl{}\hl{}\hl{w}\hl{ɤ} \hl{˧} ə ˧ \hl{t}s\hl{ʰ} ɯ ˥ |
+ \\
+\midrule
+Utterance ID: & 94 \\
+Ref: & n jɤ ˧ \hl{l} \hl{e} ˧ \hl{ɻ}\hl{̃} ˧ z \hl{o} ˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ | \hl{ɻ}̃ ˧ \hl{l} ɑ \hl{˩} b i \hl{˩} m ɤ \hl{˩} d\hl{ʑ} ɯ ˩ dʑ\hl{ }\hl{o} \hl{˩} \hl{|} z o ˩ n o ˥ | n jɤ ˧\hl{}\hl{} z \hl{o} ˧ m v̩ ˥\hl{}\hl{} ə \hl{˩} m i \hl{˩} ɳ ɯ\hl{}\hl{} \hl{˩}
+ \\
+Hyp: & n jɤ ˧ \hl{ɳ} \hl{æ} ˧ \hl{}\hl{ə} ˧ z \hl{ɯ} ˥ | ə ˧ ʝ i ˧ ʂ ɯ ˥ ʝ i ˩ | \hl{o}̃ ˧ \hl{n} ɑ \hl{˧} b i \hl{˧} m ɤ \hl{˧} d\hl{z} ɯ ˩ dʑ\hl{}\hl{} \hl{ɯ} \hl{˧} z o ˩ n o ˥ | n jɤ ˧\hl{ }\hl{|} z \hl{ɯ} ˧ m v̩ ˥\hl{ }\hl{|} ə \hl{˧} m i \hl{˧} ɳ ɯ\hl{ }\hl{˧} \hl{|}
+ \\
+\midrule
+Utterance ID: & 95 \\
+Ref: & n o ˧ | h ĩ ˧ kʰ v̩ ˧ m ɤ ˧ h ɯ \hl{˥} z e ˩ | h ĩ ˧ ɳ æ\hl{}\hl{} \hl{˩} m ɤ \hl{˩} h ɯ \hl{˩} \hl{}z \hl{e} \hl{˩} | p i ˧ | n jɤ \hl{˩} \hl{p} o \hl{˩} ɳ ɯ \hl{˥} | l e ˧ \hl{ɕ} \hl{j}ɤ ˩ tʰ v̩ \hl{˩} z o ˩ | \hl{ɲ} \hl{i} ˧ \hl{m} i ˧\hl{}\hl{}\hl{}\hl{} \hl{|} qʰ ɑ ˧ ʂ æ ˧ ʂ æ ˧\hl{ }\hl{|} ɕ \hl{j}\hl{ɤ} ˩ tʰ v̩ \hl{˧}˥ | dʑ o ˩ | n jɤ ˧\hl{ }\hl{|} h ĩ ˧ dʑ o ˩ | kʰ v̩ ˧ m ɤ ˧ tʰ ɑ ˩\hl{ }\hl{|}
+ \\
+Hyp: & n o ˧ | h ĩ ˧ kʰ v̩ ˧ m ɤ ˧ h ɯ \hl{˧} z e ˩ | h ĩ ˧ ɳ æ\hl{ }\hl{˧} \hl{|} m ɤ \hl{˧} h ɯ \hl{˧} \hl{d}z \hl{ɯ} \hl{˧} | p i ˧ | n jɤ \hl{˧} \hl{b} o \hl{˧} ɳ ɯ \hl{˧} | l e ˧ \hl{s} \hl{}ɤ ˩ tʰ v̩ \hl{˧} z o ˩ | \hl{l} \hl{e} ˧ \hl{ɲ} i ˧\hl{ }\hl{m}\hl{ }\hl{i} \hl{˧} qʰ ɑ ˧ ʂ æ ˧ ʂ æ ˧\hl{}\hl{} ɕ \hl{}\hl{i} ˩ tʰ v̩ \hl{˩}˥ | dʑ o ˩ | n jɤ ˧\hl{}\hl{} h ĩ ˧ dʑ o ˩ | kʰ v̩ ˧ m ɤ ˧ tʰ ɑ ˩\hl{}\hl{˥}
+ \\
+\midrule
+Utterance ID: & 96 \\
+Ref: & h ĩ ˧ kʰ v̩ \hl{˧} b i \hl{˧} p i \hl{˧} dʑ o ˩ | \hl{ɬ} i ˧ \hl{m} i ˧ tsʰ \hl{i} \hl{˧} | m v̩ ˧ g ɤ ˧ l ɑ ˥ ɳ ɯ ˩ | tʰ i ˧ d o ˩ dʑ o ˩ |\hl{ }\hl{n} \hl{j}\hl{ɤ} \hl{˧} | l e ˧ w o ˧ tsʰ ɯ ˧ z e ˥ |
+ \\
+Hyp: & h ĩ ˧ kʰ v̩ \hl{˥} b i \hl{˩} p i \hl{˩} dʑ o ˩ | \hl{h} i ˧ \hl{ɲ} i ˧ tsʰ \hl{ɯ} \hl{˩} | m v̩ ˧ g ɤ ˧ l ɑ ˥ ɳ ɯ ˩ | tʰ i ˧ d o ˩ dʑ o ˩ |\hl{}\hl{} \hl{d}\hl{ʑ} \hl{ɤ} | l e ˧ w o ˧ tsʰ ɯ ˧ z e ˥ |
+ \\
+\midrule
+Utterance ID: & 97 \\
+Ref: & tʰ i ˩˥ | l e ˧ w o ˧ tsʰ ɯ \hl{˧}˥\hl{ }\hl{|} ɖ ɯ \hl{˧} ɲ i \hl{˥} s \hl{o} ˩ h ɑ̃ ˩ g v̩ ˩˥ | ɖ ɯ ˧ ɲ i \hl{˥} dʑ o ˩ | tʰ i ˩˥ | n jɤ ˧\hl{ }\hl{|} p æ ˧˥ h wɤ \hl{˧} | m ɤ ˧ dʑ o \hl{˧} |
+ \\
+Hyp: & tʰ i ˩˥ | l e ˧ w o ˧ tsʰ ɯ \hl{}˥\hl{}\hl{} ɖ ɯ \hl{˩} ɲ i \hl{˩} s \hl{ɯ} ˩ h ɑ̃ ˩ g v̩ ˩˥ | ɖ ɯ ˧ ɲ i \hl{˩} dʑ o ˩ | tʰ i ˩˥ | n jɤ ˧\hl{}\hl{} p æ ˧˥ h wɤ \hl{˩} | m ɤ ˧ dʑ o \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 98 \\
+Ref: & dʑ i ˩ kʰ \hl{i} \hl{˩}˥ | ʈʂʰ ɯ ˧ q o ˧\hl{ }\hl{|} l v̩ ˧ m i ˧\hl{ }\hl{|} ɖ ɯ ˧ kʰ ɤ \hl{˧} k v̩ ˧ k v̩ ˥ z e ˩ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & dʑ i ˩ kʰ \hl{ɯ} \hl{}˥ | ʈʂʰ ɯ ˧ q o ˧\hl{}\hl{} l v̩ ˧ m i ˧\hl{}\hl{} ɖ ɯ ˧ kʰ ɤ \hl{˩} k v̩ ˧ k v̩ ˥ z e ˩ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 99 \\
+Ref: & tʰ i ˩˥ | l v̩ ˧ m i ˧\hl{ }\hl{|} ɖ ɯ ˧ kʰ ɤ \hl{˧} \hl{p} o ˧\hl{}\hl{} p\hl{}\hl{}\hl{}\hl{}\hl{} k v̩ ˧ k v̩ ˥ | l e ˧ p o ˧ kʰ i ˥ | ɑ ˩ ʁ o ˧\hl{ }\hl{|} tʰ v̩ ˧ dʑ o ˧ | tʰ i ˩˥ | n jɤ ˧\hl{}\hl{} z o ˧ m v̩ ˥\hl{}\hl{} ə \hl{˩} m i \hl{˩} ɳ ɯ \hl{˩} |
+ \\
+Hyp: & tʰ i ˩˥ | l v̩ ˧ m i ˧\hl{}\hl{} ɖ ɯ ˧ kʰ ɤ \hl{˩} \hl{q} o ˧\hl{ }\hl{|} p\hl{ }\hl{v}\hl{̩}\hl{ }\hl{˧} k v̩ ˧ k v̩ ˥ | l e ˧ p o ˧ kʰ i ˥ | ɑ ˩ ʁ o ˧\hl{}\hl{} tʰ v̩ ˧ dʑ o ˧ | tʰ i ˩˥ | n jɤ ˧\hl{ }\hl{|} z o ˧ m v̩ ˥\hl{ }\hl{|} ə \hl{˧} m i \hl{˧} ɳ ɯ \hl{˧} |
+ \\
+\midrule
+Utterance ID: & 100 \\
+Ref: & əəə… n o ˧\hl{ }\hl{|} t\hl{s}ʰ o ˧ qʰ \hl{w}\hl{ɤ} ˩ | ə ˩ ɖ\hl{} ɯ ˧ | p i ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | n j\hl{ɤ} ˧\hl{ }\hl{|} ts\hl{ʰ} o \hl{˧} qʰ wɤ ˩ dʑ o ˩ | ɖ ɯ ˧ z e ˩\hl{}\hl{} p i \hl{˩} ɲ i ˩ |
+ \\
+Hyp: & əəə… n o ˧\hl{}\hl{} t\hl{}ʰ o ˧ qʰ \hl{}\hl{o} ˩ | ə ˩ ɖ\hl{ʐ} ɯ ˧ | p i ˧\hl{ }\hl{z}\hl{ }\hl{o}\hl{ }\hl{˩} | n j\hl{æ} ˧\hl{}\hl{} ts\hl{} o \hl{˩} qʰ wɤ ˩ dʑ o ˩ | ɖ ɯ ˧ z e ˩\hl{ }\hl{|} p i \hl{˧} ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 101 \\
+Ref: & ə ˧ ts o ˧ ɖ ɯ ˧ | p i ˧ dʑ o ˩ | \hl{t}s\hl{ʰ} o ˧ qʰ wɤ ˩ dʑ \hl{o} ˩ | p i \hl{˩} t i ˧ ɖ ɯ ˧ z e ˩\hl{}\hl{} p i \hl{˩} ɲ i\hl{ }\hl{˩} ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ə ˧ ts o ˧ ɖ ɯ ˧ | p i ˧ dʑ o ˩ | \hl{}s\hl{} o ˧ qʰ wɤ ˩ dʑ \hl{i} ˩ | p i \hl{˧} t i ˧ ɖ ɯ ˧ z e ˩\hl{ }\hl{|} p i \hl{˧} ɲ i\hl{}\hl{} ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 102 \\
+Ref: & tʰ i ˩˥ | p i \hl{˩} t i ˧ | ɖ ɯ ˧ z e ˩ | p i ˧ dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧ | kʰ i ˧ pʰ o ˧ tsʰ ɯ ˧˥\hl{ }\hl{|} dʑ o ˩ | ɑ ˩ ʁ o ˧\hl{ }\hl{|} tʰ i ˧ \hl{p}ʰ v̩ ˧˥ | dʑ o ˩ | p i \hl{˩} t i \hl{˧} ts ɤ \hl{˧} |
+ \\
+Hyp: & tʰ i ˩˥ | p i \hl{˧} t i ˧ | ɖ ɯ ˧ z e ˩ | p i ˧ dʑ o ˩ | tʰ i ˩˥ | ə ˧ m i ˧ | kʰ i ˧ pʰ o ˧ tsʰ ɯ ˧˥\hl{}\hl{} dʑ o ˩ | ɑ ˩ ʁ o ˧\hl{}\hl{} tʰ i ˧ \hl{k}ʰ v̩ ˧˥ | dʑ o ˩ | p i \hl{˧} t i \hl{˥} ts ɤ \hl{˥} |
+ \\
+\midrule
+Utterance ID: & 103 \\
+Ref: & tʰ i ˩˥ | ə ˧ s ɯ ˩ k v̩ ˩ | s o ˧ h wɤ ˩ dʑ \hl{o} ˩ | n o ˧ s ɯ ˩ k v̩ ˩ | h ĩ ˧\hl{}\hl{} \hl{ʈ} \hl{|} h ĩ \hl{˧} dʑ o ˩ | tʰ ɑ ˧ kʰ v̩ ˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | ə ˧ s ɯ ˩ k v̩ ˩ | s o ˧ h wɤ ˩ dʑ \hl{i} ˩ | n o ˧ s ɯ ˩ k v̩ ˩ | h ĩ ˧\hl{ }\hl{t} \hl{i} \hl{˧} h ĩ \hl{˥} dʑ o ˩ | tʰ ɑ ˧ kʰ v̩ ˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 104 \\
+Ref: & tʰ i ˩˥ | ʝ i ˧ k\hl{ʰ} v̩ ˥ ɳ ɯ ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | m v̩ ˩ d \hl{}\hl{o} \hl{˩} ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|}
+ \\
+Hyp: & tʰ i ˩˥ | ʝ i ˧ k\hl{} v̩ ˥ ɳ ɯ ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | m v̩ ˩ d \hl{v}\hl{̩} \hl{˧} ts ɯ ˥ | m v̩ ˩\hl{}\hl{}
+ \\
+\midrule
+Utterance ID: & 105 \\
+Ref: & ə ˧ m i ˧ \hl{n} \hl{o} \hl{˧} \hl{ɻ}\hl{̍} \hl{˩} ʁ o ˧ d ɑ ˧ dʑ o \hl{˥} l e\hl{}\hl{} ʁ ɑ ˩ m i ˧\hl{}\hl{} l e ˧ dz ɑ ˥\hl{}\hl{} l e ˧ ʂ ɯ ˧ h o ˩\hl{}\hl{} ɲ i \hl{˩} m ɤ ˩ ɲ i ˩\hl{}\hl{}
+ \\
+Hyp: & ə ˧ m i ˧ \hl{|} \hl{n} \hl{o} \hl{}\hl{˧} \hl{|} ʁ o ˧ d ɑ ˧ dʑ o \hl{˧} l e\hl{ }\hl{˧} ʁ ɑ ˩ m i ˧\hl{ }\hl{|} l e ˧ dz ɑ ˥\hl{ }\hl{|} l e ˧ ʂ ɯ ˧ h o ˩\hl{ }\hl{|} ɲ i \hl{˧} m ɤ ˩ ɲ i ˩\hl{ }\hl{|}
+ \\
+\midrule
+Utterance ID: & 106 \\
+Ref: & n o ˧ | ɖ ɯ ˧ qʰ v̩ ˧\hl{}\hl{}\hl{} \hl{|} ɖ ɯ ˧ \hl{|} \hl{ə} ˩ ɖ ɯ \hl{˧} |
+ \\
+Hyp: & n o ˧ | ɖ ɯ ˧ qʰ v̩ ˧\hl{ }\hl{ɻ}\hl{̍} \hl{˧} ɖ ɯ ˧ \hl{ɭ} \hl{ɯ} ˩ ɖ ɯ \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 107 \\
+Ref: & n o ˧ | ə ˧ t\hl{s} e ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | n o ˧\hl{}\hl{} \hl{}\hl{ɻ}\hl{̍} \hl{˩} \hl{|} \hl{ʁ} æ ˧ ɲ i \hl{˥} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & n o ˧ | ə ˧ t\hl{ɕ} e ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | n o ˧\hl{ }\hl{˩} \hl{|}\hl{ }\hl{ʁ} \hl{æ} \hl{˧} \hl{ɻ} æ ˧ ɲ i \hl{˩} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 108 \\
+Ref: & tʰ i ˩˥ | n jɤ ˧ | ɖ ɯ ˧ qʰ v̩ ˧ dʑ o ˧\hl{˥} | m ɤ ˧ ɖ ɯ ˧ | m v̩ ˧ g ɤ ˧ l ɑ \hl{˥} ɳ ɯ ˩\hl{ }\hl{|} k i ˧ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | n jɤ ˧ | ɖ ɯ ˧ qʰ v̩ ˧ dʑ o ˧\hl{} | m ɤ ˧ ɖ ɯ ˧ | m v̩ ˧ g ɤ ˧ l ɑ \hl{˧} ɳ ɯ ˩\hl{}\hl{} k i ˧ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 109 \\
+Ref: & tʰ i ˩˥ | n o ˧\hl{ }\hl{|} m v̩ \hl{˧} g ɤ ˧ l ɑ \hl{˥} | qʰ ɑ ˩ n e ˩˥\hl{ }\hl{|} k i \hl{˧} | p i ˧\hl{}\hl{} z o ˩ | h ĩ ˧ ɳ ɯ ˩ | m v̩ \hl{˩} d \hl{o} \hl{˩} ts ɯ ˥ | m v̩ ˩\hl{ }\hl{|} ʈʂʰ ɯ \hl{˧} k i \hl{˧} |
+ \\
+Hyp: & tʰ i ˩˥ | n o ˧\hl{}\hl{} m v̩ \hl{˩} g ɤ ˧ l ɑ \hl{˩} | qʰ ɑ ˩ n e ˩˥\hl{}\hl{} k i \hl{˩} | p i ˧\hl{ }\hl{|} z o ˩ | h ĩ ˧ ɳ ɯ ˩ | m v̩ \hl{˧} d \hl{ɑ} \hl{˧} ts ɯ ˥ | m v̩ ˩\hl{}\hl{} ʈʂʰ ɯ \hl{˩} k i \hl{˩} |
+ \\
+\midrule
+Utterance ID: & 110 \\
+Ref: & tʰ i ˩˥ | m v̩ ˧ g ɤ ˧ l ɑ \hl{˥} | \hl{q}\hl{ʰ} ɑ ˩ n e ˩˥\hl{ }\hl{|} k i \hl{˧} | p i ˧ dʑ o ˩ | tʰ i ˩˥ | n jɤ ˧ ɳ\hl{ }\hl{ɯ}\hl{ }\hl{˧}\hl{ }\hl{|} n o ˧ s ɯ ˩ k \hl{v}\hl{̩} ˩ k i ˩ | l e ˧ ʐ wɤ ˩ | ɲ i ˧ kʰ ɯ ˩ b i ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | m v̩ ˧ g ɤ ˧ l ɑ \hl{˧} | \hl{}\hl{h} ɑ ˩ n e ˩˥\hl{}\hl{} k i \hl{˩} | p i ˧ dʑ o ˩ | tʰ i ˩˥ | n jɤ ˧ ɳ\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} n o ˧ s ɯ ˩ k \hl{}\hl{ɤ} ˩ k i ˩ | l e ˧ ʐ wɤ ˩ | ɲ i ˧ kʰ ɯ ˩ b i ˩ |
+ \\
+\midrule
+Utterance ID: & 111 \\
+Ref: & l o ˩ qʰ wɤ \hl{˧} | ɖ ɯ ˧ ʂ ɯ \hl{˩} ʈʂʰ \hl{e} \hl{˩} ɳ ɯ ˩ | n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ z e ˩\hl{˥} |
+ \\
+Hyp: & l o ˩ qʰ wɤ \hl{˥} | ɖ ɯ ˧ ʂ ɯ \hl{˧} ʈʂʰ \hl{ɯ} \hl{˧} ɳ ɯ ˩ | n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ z e ˩\hl{} |
+ \\
+\midrule
+Utterance ID: & 112 \\
+Ref: & n jɤ ˧ | p æ ˧\hl{˥} h wɤ ˧\hl{ }\hl{|} m ɤ ˧ dʑ o ˧ z e \hl{˧} | h ĩ ˧\hl{ }\hl{|} m ɤ \hl{˧} d o ˩ b i ˩ | m v̩ ˧ ɳ ɯ \hl{˩} d o \hl{}\hl{˩} |
+ \\
+Hyp: & n jɤ ˧ | p æ ˧\hl{} h wɤ ˧\hl{}\hl{} m ɤ ˧ dʑ o ˧ z e \hl{˩} | h ĩ ˧\hl{}\hl{} m ɤ \hl{˩} d o ˩ b i ˩ | m v̩ ˧ ɳ ɯ \hl{˧} d o \hl{˧}\hl{˥} |
+ \\
+\midrule
+Utterance ID: & 113 \\
+Ref: & n jɤ ˧\hl{ }\hl{|} kʰ v̩ ˧\hl{ }\hl{|}\hl{ }\hl{ʁ} \hl{o} \hl{˧} m ɤ ˧ h o \hl{˩} | m\hl{ }\hl{v}\hl{̩} ˧ g ɤ \hl{˧} l ɑ\hl{ }\hl{˥} \hl{|} ʁ ɑ ˩ m\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} i ˧ | n o ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ |
+ \\
+Hyp: & n jɤ ˧\hl{}\hl{} kʰ v̩ ˧\hl{}\hl{}\hl{}\hl{} \hl{˥} \hl{|} m ɤ ˧ h o \hl{˥} | m\hl{}\hl{}\hl{} ˧ g ɤ \hl{˩} l ɑ\hl{}\hl{} \hl{˩} ʁ ɑ ˩ m\hl{ }\hl{i}\hl{ }\hl{˧}\hl{ }\hl{|}\hl{ }\hl{p} i ˧ | n o ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ |
+ \\
+\midrule
+Utterance ID: & 114 \\
+Ref: & s o ˧ ʂ ɯ ˧ ʂ \hl{e} ˧ |\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} s o ˧ \hl{ʂ} ɯ \hl{˧} | \hl{d} \hl{v}\hl{̩} \hl{˩} tɕ o\hl{ }\hl{˧} ʈʂʰ \hl{e} ˧\hl{ }\hl{|} s o ˧ ʂ ɯ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ z e \hl{˧} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & s o ˧ ʂ ɯ ˧ ʂ \hl{ɯ} ˧ |\hl{ }\hl{s}\hl{ }\hl{ɯ}\hl{ }\hl{˧} s o ˧ \hl{s} ɯ \hl{˩} | \hl{ɖ} \hl{}\hl{ɯ} \hl{˧} tɕ o\hl{}\hl{} ʈʂʰ \hl{ɯ} ˧\hl{}\hl{} s o ˧ ʂ ɯ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ z e \hl{˩} | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 115 \\
+Ref: & tʰ i ˩˥ | h ĩ ˧ ɻ æ ˧ ɳ ɯ ˥ dʑ o ˩ | tʰ i ˩˥ | n o ˧ ɻ̍ \hl{˩} | m ɤ ˧ ʝ i ˧ b ɑ \hl{˧}˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | g \hl{ɯ} ˩ m ɤ ˩ ʝ i \hl{˩}\hl{˥} | p i ˧ |
+ \\
+Hyp: & tʰ i ˩˥ | h ĩ ˧ ɻ æ ˧ ɳ ɯ ˥ dʑ o ˩ | tʰ i ˩˥ | n o ˧ ɻ̍ \hl{˧} | m ɤ ˧ ʝ i ˧ b ɑ \hl{˩}˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | g \hl{o} ˩ m ɤ ˩ ʝ i \hl{}\hl{˧} | p i ˧ |
+ \\
+\midrule
+Utterance ID: & 116 \\
+Ref: & n jɤ ˧ | g \hl{}\hl{ɯ} ˩ m ɤ \hl{˩} g\hl{ }\hl{ɯ} \hl{˩}\hl{˥} \hl{|} dʑ o ˩ | ə ˩ s ɯ \hl{˧} k v̩ ˥ | ʁ wɤ ˧ q o ˧ dz \hl{i} ˩ ɲ i ˩ | n jɤ ˧ ɻ̍ ˩ dʑ o ˩ | ʁ o ˧ d ɑ ˧ | v̩ ˧\hl{}\hl{} \hl{ʈ} ɯ \hl{˩} d i \hl{˩} | m ɤ ˧ dʑ o\hl{}\hl{} \hl{˩} h ĩ \hl{˩} ɲ i \hl{˩} m ɤ \hl{˩} ɲ i ˩ |
+ \\
+Hyp: & n jɤ ˧ | g \hl{v}\hl{̩} ˩ m ɤ \hl{˧} g\hl{}\hl{} \hl{v}\hl{̩} \hl{˧} dʑ o ˩ | ə ˩ s ɯ \hl{˩} k v̩ ˥ | ʁ wɤ ˧ q o ˧ dz \hl{ɯ} ˩ ɲ i ˩ | n jɤ ˧ ɻ̍ ˩ dʑ o ˩ | ʁ o ˧ d ɑ ˧ | v̩ ˧\hl{ }\hl{|} \hl{ɖ} ɯ \hl{˧} d i \hl{˥} | m ɤ ˧ dʑ o\hl{ }\hl{˧} \hl{|} h ĩ \hl{˧} ɲ i \hl{˧} m ɤ \hl{˧} ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 117 \\
+Ref: & h ĩ ˧ ʈʂʰ ɯ ˧ | \hl{n} v̩ ˩ \hl{m} i ˩˥ | ɖ ɯ ˧ p i ˧˥ | dʑ ɤ ˩ z o \hl{˧} k v̩ \hl{˧}˥ |
+ \\
+Hyp: & h ĩ ˧ ʈʂʰ ɯ ˧ | \hl{ŋ} v̩ ˩ \hl{ɲ} i ˩˥ | ɖ ɯ ˧ p i ˧˥ | dʑ ɤ ˩ z o \hl{˩} k v̩ \hl{}˥ |
+ \\
+\midrule
+Utterance ID: & 118 \\
+Ref: & n jɤ \hl{˩} dʑ o ˥ | qʰ ɑ \hl{˧} n i \hl{˧}˥ | m ɤ ˧ dʑ o ˧ b i ˧\hl{˥} | n v̩ ˩ m i ˩ ʈʂʰ ɯ ˩ ɭ ɯ \hl{}˥ dʑ o ˩ | ɖ ɯ ˧ p i ˧˥ | dʑ ɤ ˩ ɲ i ˥ |
+ \\
+Hyp: & n jɤ \hl{˧} dʑ o ˥ | qʰ ɑ \hl{˩} n i \hl{˩}˥ | m ɤ ˧ dʑ o ˧ b i ˧\hl{} | n v̩ ˩ m i ˩ ʈʂʰ ɯ ˩ ɭ ɯ \hl{˩}˥ dʑ o ˩ | ɖ ɯ ˧ p i ˧˥ | dʑ ɤ ˩ ɲ i ˥ |
+ \\
+\midrule
+Utterance ID: & 119 \\
+Ref: & tʰ i ˩˥ | m v̩ ˧ ɳ ɯ ˩\hl{ }\hl{|} k i \hl{˧} | d i ˧ \hl{ɳ} \hl{ɯ} ˧\hl{ }\hl{|} k i ˧\hl{ }\hl{|} p i ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | m v̩ ˧ ɳ ɯ ˩\hl{}\hl{} k i \hl{˩} | d i ˧ \hl{ɲ} \hl{i} ˧\hl{}\hl{} k i ˧\hl{}\hl{} p i ˧ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 120 \\
+Ref: & tʰ i ˩˥ | h ĩ ˧ | g i ˩˥ | dʑ o ˩ | ʈʂʰ ɯ ˧ \hl{n} \hl{e} ˧\hl{ }\hl{ʝ}\hl{ }\hl{i}\hl{ }\hl{˥} | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ɖ ɯ ˧ t ɑ ˧˥ | \hl{}\hl{k} \hl{}\hl{i} ˩\hl{ }\hl{|} ʐ \hl{w}\hl{ɤ} ˩˥ | h ĩ ˧ ɳ\hl{ }\hl{ɯ}\hl{ }\hl{˩} | ɖ ɯ ˧ t ɑ ˧˥ | m v̩ ˩ \hl{}\hl{d} \hl{}\hl{o} \hl{˩} tsʰ ɯ ˩ \hl{p} i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | h ĩ ˧ | g i ˩˥ | dʑ o ˩ | ʈʂʰ ɯ ˧ \hl{ɳ} \hl{ɯ} ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ɖ ɯ ˧ t ɑ ˧˥ | \hl{t}\hl{ʰ} \hl{j}\hl{ɤ} ˩\hl{}\hl{˥} ʐ \hl{}\hl{ɯ} ˩˥ | h ĩ ˧ ɳ\hl{}\hl{}\hl{}\hl{} | ɖ ɯ ˧ t ɑ ˧˥ | m v̩ ˩ \hl{t}\hl{ʰ} \hl{v}\hl{̩} \hl{˧} tsʰ ɯ ˩ \hl{k} i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 121 \\
+Ref: & ə ˧ m i \hl{˧} | n o ˧ ɻ̍ \hl{˩} dʑ o ˩ | ə ˧ t\hl{s} e ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | dʑ o\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ˧ \hl{ɲ} i ˥ | \hl{}\hl{p} i \hl{}\hl{˧} | g i ˩˥\hl{ }\hl{|} dʑ o ˩ | p i \hl{˩} t i \hl{˧} p o ˩ ɳ ɯ \hl{˩} |
+ \\
+Hyp: & ə ˧ m i \hl{˩} | n o ˧ ɻ̍ \hl{˧} dʑ o ˩ | ə ˧ t\hl{ɕ} e ˥ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | dʑ o\hl{ }\hl{˩}\hl{ }\hl{n}\hl{ }\hl{i} ˧ \hl{p} i ˥ | \hl{t}\hl{ʰ} i \hl{˩}\hl{˥} | g i ˩˥\hl{}\hl{} dʑ o ˩ | p i \hl{˧} t i \hl{˥} p o ˩ ɳ ɯ \hl{˥} |
+ \\
+\midrule
+Utterance ID: & 122 \\
+Ref: & p i ˩ t i ˧ p o ˩ ɳ ɯ ˩ | \hl{ə}\hl{ə}\hl{ə}\hl{…} ʑ i ˧ qʰ wɤ \hl{}\hl{˧} | l e ˧ tsʰ i ˧˥ |\hl{ }\hl{m}\hl{m}\hl{m}\hl{…} z o ˧ m v̩ \hl{˥} | l e ˧ dʑ \hl{i} ˧ \hl{}\hl{q} \hl{æ} ˧\hl{} kʰ ɯ ˩ |
+ \\
+Hyp: & p i ˩ t i ˧ p o ˩ ɳ ɯ ˩ | \hl{˩}\hl{˥}\hl{ }\hl{|} ʑ i ˧ qʰ wɤ \hl{˩}\hl{˥} | l e ˧ tsʰ i ˧˥ |\hl{}\hl{}\hl{}\hl{}\hl{} z o ˧ m v̩ \hl{˩} | l e ˧ dʑ \hl{ɤ} ˧ \hl{t}\hl{ʰ} \hl{ɑ} ˧\hl{˥} kʰ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 123 \\
+Ref: & l o \hl{˩} p v̩ \hl{˩}˥ | l o ˩ dʑ o ˧ | l e ˧ l ɑ ˧˥ | l e ˧ dʑ \hl{i} ˧ \hl{q} æ \hl{˧} kʰ ɯ ˩ |
+ \\
+Hyp: & l o \hl{˧} p v̩ \hl{}˥ | l o ˩ dʑ o ˧ | l e ˧ l ɑ ˧˥ | l e ˧ dʑ \hl{ɤ} ˧ \hl{ʈ} æ \hl{˩} kʰ ɯ ˩ |
+ \\
+\midrule
+Utterance ID: & 124 \\
+Ref: & z o ˧ m v̩ ˥\hl{}\hl{} h ĩ \hl{˩} k i \hl{˩} k i ˩ | l e ˧ t ɑ ˩ h wɤ ˩ |
+ \\
+Hyp: & z o ˧ m v̩ ˥\hl{ }\hl{|} h ĩ \hl{˧} k i \hl{˧} k i ˩ | l e ˧ t ɑ ˩ h wɤ ˩ |
+ \\
+\midrule
+Utterance ID: & 125 \\
+Ref: & ɖ wæ ˧˥ | dʑ ɤ ˩ \hl{ʝ}\hl{ }\hl{i} \hl{˥} d\hl{ʑ} \hl{o} \hl{˩} | ʝ i ˧ kʰ v̩ ˥ ɳ ɯ ˩ | m ɤ ˧ ɲ i ˩ z e ˩ | ʈʂʰ ɯ ˧\hl{ }\hl{|} \hl{h} i\hl{̃} ˧ ʈʂʰ ɯ ˧ v̩ ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | ə ˧ ts o ˧\hl{ }\hl{|} ɖ ɯ ˧ qʰ \hl{v}\hl{̩} ˧\hl{} ɖ ɯ ˧\hl{ }\hl{|} m ɤ ˧ d o ˩ | \hl{}z e \hl{˩} g ɤ ˧ ɳ ɯ ˧ | ɖ ɯ ˧\hl{ }\hl{|} m ɤ ˧ d o ˩\hl{ }\hl{|} p i ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & ɖ wæ ˧˥ | dʑ ɤ ˩ \hl{}\hl{j}\hl{ɤ} \hl{˩} d\hl{} \hl{i} \hl{˥} | ʝ i ˧ kʰ v̩ ˥ ɳ ɯ ˩ | m ɤ ˧ ɲ i ˩ z e ˩ | ʈʂʰ ɯ ˧\hl{}\hl{} \hl{ʝ} i\hl{} ˧ ʈʂʰ ɯ ˧ v̩ ˧\hl{ }\hl{d}\hl{ʑ}\hl{ }\hl{o}\hl{ }\hl{˩} | ə ˧ ts o ˧\hl{}\hl{} ɖ ɯ ˧ qʰ \hl{w}\hl{ɤ} ˧\hl{˥} ɖ ɯ ˧\hl{}\hl{} m ɤ ˧ d o ˩ | \hl{d}z e \hl{˧} g ɤ ˧ ɳ ɯ ˧ | ɖ ɯ ˧\hl{}\hl{} m ɤ ˧ d o ˩\hl{}\hl{} p i ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ ɲ i ˥ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 126 \\
+Ref: & tʰ i ˩˥ | n jɤ ˧\hl{ }\hl{|} z e ˩ g ɤ ˧ ɳ \hl{}\hl{ɯ} ˧ | m ɤ ˧ ɖ ɯ \hl{˧} | ʁ ɑ ˩ m i ˧ |
+ \\
+Hyp: & tʰ i ˩˥ | n jɤ ˧\hl{}\hl{} z e ˩ g ɤ ˧ ɳ \hl{v}\hl{̩} ˧ | m ɤ ˧ ɖ ɯ \hl{˩} | ʁ ɑ ˩ m i ˧ |
+ \\
+\midrule
+Utterance ID: & 127 \\
+Ref: & ə ˩ s ɯ ˧ k v̩ ˥ | m v̩ ˧ g ɤ ˧ l ɑ ˥ l ɑ ˩ | d i ˩ g ɤ ˩ l ɑ ˥ ʈʂʰ ɯ \hl{˩} dʑ o ˩ | ə ˧ ts o ˧ m ɤ ˧ ɲ i ˩ | d o ˩ ɲ i ˥ z e ˩ |
+ \\
+Hyp: & ə ˩ s ɯ ˧ k v̩ ˥ | m v̩ ˧ g ɤ ˧ l ɑ ˥ l ɑ ˩ | d i ˩ g ɤ ˩ l ɑ ˥ ʈʂʰ ɯ \hl{˧} dʑ o ˩ | ə ˧ ts o ˧ m ɤ ˧ ɲ i ˩ | d o ˩ ɲ i ˥ z e ˩ |
+ \\
+\midrule
+Utterance ID: & 128 \\
+Ref: & n jɤ ˧ | d i ˧ q o ˧\hl{ }\hl{|} h ĩ ˧ kʰ v̩ ˧ kʰ i ˩ | m \hl{v}\hl{̩} ˧ \hl{ʁ}\hl{ }\hl{o} \hl{˥} | g ɤ ˧ l ɑ ˧\hl{ }\hl{|} tʰ i ˧ dʑ o ˩ | d i ˧ q o ˧\hl{ }\hl{|} g ɤ \hl{˧} l ɑ ˧\hl{ }\hl{|} tʰ i ˧ dʑ o ˩ |
+ \\
+Hyp: & n jɤ ˧ | d i ˧ q o ˧\hl{}\hl{} h ĩ ˧ kʰ v̩ ˧ kʰ i ˩ | m \hl{}\hl{o} ˧ \hl{}\hl{v}\hl{̩} \hl{˧} | g ɤ ˧ l ɑ ˧\hl{}\hl{} tʰ i ˧ dʑ o ˩ | d i ˧ q o ˧\hl{}\hl{} g ɤ \hl{˩} l ɑ ˧\hl{}\hl{} tʰ i ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 129 \\
+Ref: & n jɤ ˧ | dz ɑ ˧\hl{}\hl{} m ɤ ˧ ʝ i ˧ z o \hl{˥} |
+ \\
+Hyp: & n jɤ ˧ | dz ɑ ˧\hl{ }\hl{|} m ɤ ˧ ʝ i ˧ z o \hl{˧} |
+ \\
+\midrule
+Utterance ID: & 130 \\
+Ref: & \hl{|}\hl{ }ʈʂʰ ɯ ˧ n e\hl{ }\hl{˧} ʝ\hl{ }\hl{i} ˥ | k i \hl{˧} ɲ i ˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & \hl{}\hl{}ʈʂʰ ɯ ˧ n e\hl{}\hl{} ʝ\hl{}\hl{} ˥ | k i \hl{˩} ɲ i ˥ | p i ˧ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 131 \\
+Ref: & tʰ i ˩˥ | h ĩ ˧ \hl{ɻ} æ \hl{˥} ɳ ɯ \hl{˩} | ə ˧ m i ˧ | g i ˩˥ | dʑ o ˩ | tʰ i ˩˥ | h ĩ ˧ kʰ v̩ ˧ h ĩ ˧ | \hl{}\hl{m} \hl{ɤ} ˧ dʑ o ˩ ɲ i\hl{ }\hl{˩}\hl{ }\hl{z}\hl{ }\hl{e} ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+Hyp: & tʰ i ˩˥ | h ĩ ˧ \hl{ʁ} æ \hl{˧} ɳ ɯ \hl{˥} | ə ˧ m i ˧ | g i ˩˥ | dʑ o ˩ | tʰ i ˩˥ | h ĩ ˧ kʰ v̩ ˧ h ĩ ˧ | \hl{o}\hl{̃} \hl{o} ˧ dʑ o ˩ ɲ i\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} ˩ ts ɯ ˩ | m v̩ ˩
+ \\
+\midrule
+Utterance ID: & 132 \\
+Ref: & ʈʂʰ ɯ ˧ b i ˧ s o ˩ z o ˩ |
+ \\
+Hyp: & ʈʂʰ ɯ ˧ b i ˧ s o ˩ z o ˩ |
+ \\
+\midrule
+Utterance ID: & 133 \\
+Ref: & æ ˧ ʂ æ ˧ dʑ o ˩ | h ĩ ˧ | æ\hl{̃} ˩ m i \hl{˧}\hl{ }\hl{|} tʰ i ˧ dʑ o ˩ | h ĩ ˧\hl{ }\hl{ɳ} \hl{ɯ} ˩\hl{ }\hl{|}\hl{ }\hl{l}\hl{ }\hl{e}\hl{ }\hl{˧} kʰ v̩\hl{ }\hl{˥} \hl{|} \hl{p} o ˧ h \hl{}\hl{ɯ} ˥ |
+ \\
+Hyp: & æ ˧ ʂ æ ˧ dʑ o ˩ | h ĩ ˧ | æ\hl{} ˩ m i \hl{}\hl{˩}\hl{˥} tʰ i ˧ dʑ o ˩ | h ĩ ˧\hl{}\hl{} \hl{i} ˩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} kʰ v̩\hl{}\hl{} \hl{˧} \hl{b} o ˧ h \hl{w}\hl{ɤ} ˥ |
+ \\
+\midrule
+Utterance ID: & 134 \\
+Ref: & b æ \hl{˧} b v̩ ˥ ɭ ɯ ˩ | tʰ i \hl{˧} d\hl{ʑ} \hl{o} ˩ | h ĩ ˧ \hl{ɳ} \hl{ɯ} ˩\hl{ }\hl{|}\hl{ }\hl{l}\hl{ }\hl{e}\hl{ }\hl{˧} kʰ v̩\hl{ }\hl{˥} \hl{|} \hl{p} o ˧ h ɯ ˥ |
+ \\
+Hyp: & b æ \hl{˩} b v̩ ˥ ɭ ɯ ˩ | tʰ i \hl{˩} d\hl{} \hl{i} ˩ | h ĩ ˧ \hl{n} \hl{i} ˩\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} kʰ v̩\hl{}\hl{} \hl{˩} \hl{q} o ˧ h ɯ ˥ |
+ \\
+\midrule
+Utterance ID: & 135 \\
+Ref: & d ɑ ˧ \hl{ʝ} i ˩ v̩ ˩ d\hl{ʑ}\hl{ }\hl{o} ˩ | h ĩ ˧\hl{ }\hl{ɳ}\hl{ }\hl{ɯ}\hl{ }\hl{˩} | l e ˧ kʰ v̩\hl{ }\hl{˥} \hl{|} \hl{p} o ˧ h ɯ ˥ |
+ \\
+Hyp: & d ɑ ˧ \hl{n} i ˩ v̩ ˩ d\hl{ }\hl{v}\hl{̩} ˩ | h ĩ ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} | l e ˧ kʰ v̩\hl{}\hl{} \hl{˧} \hl{t} o ˧ h ɯ ˥ |
+ \\
+\midrule
+Utterance ID: & 136 \\
+Ref: & \hl{h}\hl{ }æ̃ \hl{˧} qʰ v̩ \hl{˥} | ʈʰ æ æ̃ ˧ | h ĩ ˧ ɳ ɯ ˩\hl{}\hl{} h ĩ ˧ kʰ v̩ ˧ h ĩ ˧ \hl{ʈ}\hl{ʂ}ʰ \hl{}\hl{ɯ} ˧ | l e ˧ d\hl{ʑ} i ˧ z o ˥ |
+ \\
+Hyp: & \hl{}\hl{}æ̃ \hl{˩} qʰ v̩ \hl{˧} | ʈʰ æ æ̃ ˧ | h ĩ ˧ ɳ ɯ ˩\hl{ }\hl{|} h ĩ ˧ kʰ v̩ ˧ h ĩ ˧ \hl{}\hl{t}ʰ \hl{v}\hl{̩} ˧ | l e ˧ d\hl{z} i ˧ z o ˥ |
+ \\
+\midrule
+Utterance ID: & 137 \\
+Ref: & tʰ i ˩˥ | g i ˩˥ | g i ˩˥ | ʈʂʰ ɯ ˧ ɳ ɯ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | l e ˧ ʐ wɤ ˩ | l e ˧ ʐ wɤ ˩ | l e ˧ ʐ wɤ ˩ k \hl{w}\hl{ɤ} ˩ tɕ ɯ ˩ l ɑ ˩ | h ĩ ˧ kʰ v̩ ˧\hl{ }\hl{h}\hl{ }\hl{i}\hl{̃} \hl{˧} | m ɤ ˧ dʑ o ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | g i ˩˥ | g i ˩˥ | ʈʂʰ ɯ ˧ ɳ ɯ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | l e ˧ ʐ wɤ ˩ | l e ˧ ʐ wɤ ˩ | l e ˧ ʐ wɤ ˩ k \hl{v}\hl{̩} ˩ tɕ ɯ ˩ l ɑ ˩ | h ĩ ˧ kʰ v̩ ˧\hl{}\hl{}\hl{}\hl{}\hl{} \hl{˥} | m ɤ ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 138 \\
+Ref: & \hl{}\hl{}\hl{}\hl{}\hl{}h ĩ ˧ l ɑ ˩\hl{ }\hl{h} ĩ ˩ | m ɤ ˧ dʑ o ˩ |
+ \\
+Hyp: & \hl{m}\hl{m}\hl{m}\hl{…}\hl{ }h ĩ ˧ l ɑ ˩\hl{}\hl{} ĩ ˩ | m ɤ ˧ dʑ o ˩ |
+ \\
+\midrule
+Utterance ID: & 139 \\
+Ref: & ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | z o ˩ | tʰ i ˩˥ | dʑ ɤ ˩ ʝ i ˥ | m v̩ ˧ d i ˧ q o ˥ dʑ o ˩ | h ĩ ˧ | dʑ ɤ ˩ \hl{h} i\hl{}\hl{̃} \hl{˧} s o \hl{˥} z o ˩ k v̩ ˩ |
+ \\
+Hyp: & ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | z o ˩ | tʰ i ˩˥ | dʑ ɤ ˩ ʝ i ˥ | m v̩ ˧ d i ˧ q o ˥ dʑ o ˩ | h ĩ ˧ | dʑ ɤ ˩ \hl{ʝ} i\hl{ }\hl{˩} \hl{|} s o \hl{˧} z o ˩ k v̩ ˩ |
+ \\
+\midrule
+Utterance ID: & 140 \\
+Ref: & h ĩ ˧ | \hl{d}\hl{ʑ} ɤ ˩ \hl{ʝ} i\hl{} \hl{˧} | p i ˧ | ə ˧ \hl{}s\hl{} ɯ ˩ k v̩ ˩ | m v̩ ˧ ʈʰ æ ˧ q o ˥ dz i ˩ ɲ i ˩ | d i ˧ q o ˧ dz i ˩ ɲ i ˩ |
+ \\
+Hyp: & h ĩ ˧ | \hl{}\hl{g} ɤ ˩ \hl{h} i\hl{̃} \hl{˥} | p i ˧ | ə ˧ \hl{t}s\hl{ʰ} ɯ ˩ k v̩ ˩ | m v̩ ˧ ʈʰ æ ˧ q o ˥ dz i ˩ ɲ i ˩ | d i ˧ q o ˧ dz i ˩ ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 141 \\
+Ref: & d i ˩ ʁ o ˩ qʰ wɤ ˥ dz i ˩ dʑ o ˩ | m\hl{ }\hl{v}\hl{̩} ˧ tʰ i ˧ d i ˥\hl{ }\hl{|} ɲ i ˩ |
+ \\
+Hyp: & d i ˩ ʁ o ˩ qʰ wɤ ˥ dz i ˩ dʑ o ˩ | m\hl{}\hl{}\hl{} ˧ tʰ i ˧ d i ˥\hl{}\hl{} ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 142 \\
+Ref: & tʰ i ˩˥ | m v̩ ˧ ɳ ɯ ˩ | ə ˧ s ɯ ˩ k v̩ ˩\hl{}\hl{} l \hl{i} \hl{˩} dʑ o ˩ ɲ i ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | m v̩ ˧ ɳ ɯ ˩ | ə ˧ s ɯ ˩ k v̩ ˩\hl{ }\hl{|} l \hl{e} \hl{˧} dʑ o ˩ ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 143 \\
+Ref: & d i ˩ ɳ ɯ ˥ | ə ˧ s ɯ ˩ k v̩ ˩\hl{}\hl{} l i \hl{˩} dʑ o\hl{}\hl{}\hl{}\hl{}\hl{} ˩ ɲ i ˩ |
+ \\
+Hyp: & d i ˩ ɳ ɯ ˥ | ə ˧ s ɯ ˩ k v̩ ˩\hl{ }\hl{|} l i \hl{˧} dʑ o\hl{ }\hl{˩}\hl{ }\hl{ɻ}\hl{̍} ˩ ɲ i ˩ |
+ \\
+\midrule
+Utterance ID: & 144 \\
+Ref: & h ĩ ˧\hl{}\hl{} ʈʂʰ ɯ ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | m\hl{ }\hl{ɤ} ˧ ɖ o ˧\hl{} | p i ˧ z o ˩ |
+ \\
+Hyp: & h ĩ ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧\hl{}\hl{} ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | m\hl{}\hl{} ˧ ɖ o ˧\hl{˥} | p i ˧ z o ˩ |
+ \\
+\midrule
+Utterance ID: & 145 \\
+Ref: & æ ˧ ʂ æ ˧\hl{}\hl{} ʈʂʰ ɯ ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ɖ ɯ ˧ kʰ wɤ ˧\hl{}\hl{} dʑ o ˧ \hl{ɲ} i ˥\hl{}\hl{}\hl{}\hl{}\hl{} \hl{b} ɑ ˩ | \hl{}\hl{ɖ} ɯ ˧ kʰ wɤ ˥\hl{ }\hl{|} dʑ o \hl{˧} ɲ i ˥ |
+ \\
+Hyp: & æ ˧ ʂ æ ˧\hl{ }\hl{|} ʈʂʰ ɯ ˧\hl{}\hl{} ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ɖ ɯ ˧ kʰ wɤ ˧\hl{ }\hl{|} dʑ o ˧ \hl{m} i ˥\hl{ }\hl{k}\hl{ }\hl{v}\hl{̩} \hl{˩} ɑ ˩ | \hl{t}\hl{ʰ} ɯ ˧ kʰ wɤ ˥\hl{}\hl{} dʑ o \hl{˩} ɲ i ˥ |
+ \\
+\midrule
+Utterance ID: & 146 \\
+Ref: & z o ˩ n o ˥ | ə ˧ s i\hl{}\hl{}\hl{}\hl{} ˧\hl{}\hl{}\hl{}\hl{}\hl{}\hl{} \hl{}\hl{d}\hl{ʑ} ə ˧ ʑ i ˧ ʈʂʰ ɯ ˥ ɳ ɯ ˩ | ʈʰ æ æ̃ ˧\hl{ }\hl{|} ɖ ɯ ˧ n \hl{j}\hl{ɤ} ˧ | ʈʂʰ ɯ ˧ n e\hl{ }\hl{˧}\hl{ }\hl{ʝ} i ˥ | ʐ wɤ ˩ k v̩ ˩˥ |
+ \\
+Hyp: & z o ˩ n o ˥ | ə ˧ s i\hl{ }\hl{˧}\hl{ }\hl{z} ˧\hl{ }\hl{t}\hl{ʰ}\hl{ }\hl{v}\hl{̩} \hl{˥}\hl{ }\hl{|} ə ˧ ʑ i ˧ ʈʂʰ ɯ ˥ ɳ ɯ ˩ | ʈʰ æ æ̃ ˧\hl{}\hl{} ɖ ɯ ˧ n \hl{}\hl{i} ˧ | ʈʂʰ ɯ ˧ n e\hl{}\hl{}\hl{}\hl{} i ˥ | ʐ wɤ ˩ k v̩ ˩˥ |
+ \\
+\midrule
+Utterance ID: & 147 \\
+Ref: & \hl{ʁ}\hl{ }\hl{æ} ˧ m ɤ ˧ \hl{}\hl{ʑ} \hl{i} ˧ | h ĩ ˧ kʰ v̩ ˧\hl{}\hl{}\hl{} m ɤ ˧ \hl{ɖ} \hl{o} \hl{˧} | h ĩ ˧ ʈʂ æ \hl{˩} m ɤ \hl{˩} ɖ o ˩ |
+ \\
+Hyp: & \hl{}\hl{}\hl{ə} ˧ m ɤ ˧ \hl{d}\hl{z} \hl{e} ˧ | h ĩ ˧ kʰ v̩ ˧\hl{˥}\hl{ }\hl{|} m ɤ ˧ \hl{d} \hl{ɑ} \hl{˩} | h ĩ ˧ ʈʂ æ \hl{˧} m ɤ \hl{˧} ɖ o ˩ |
+ \\
+\midrule
+Utterance ID: & 148 \\
+Ref: & æ ˧ ʂ æ ˧ dʑ o ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | dʑ o ˩ k v̩ ˩\hl{˥} |
+ \\
+Hyp: & æ ˧ ʂ æ ˧ dʑ o ˩ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | dʑ o ˩ k v̩ ˩\hl{} |
+ \\
+\midrule
+Utterance ID: & 149 \\
+Ref: & m ɤ ˧ dʑ o ˧ m ɤ ˧ t\hl{ɕ}ʰ i ˧\hl{˥}\hl{ }\hl{|} dʑ o ˩ | ɖ wæ ˩ m ɤ ˧ z o ˧ |
+ \\
+Hyp: & m ɤ ˧ dʑ o ˧ m ɤ ˧ t\hl{s}ʰ i ˧\hl{}\hl{}\hl{} dʑ o ˩ | ɖ wæ ˩ m ɤ ˧ z o ˧ |
+ \\
+\midrule
+Utterance ID: & 150 \\
+Ref: & ə ˧ s ɯ ˩ k v̩ ˩ | ɖ ɯ ˧ ɲ i ˥ dʑ o ˩ | l e ˧ dʑ o ˧ k v̩ ˧˥ |
+ \\
+Hyp: & ə ˧ s ɯ ˩ k v̩ ˩ | ɖ ɯ ˧ ɲ i ˥ dʑ o ˩ | l e ˧ dʑ o ˧ k v̩ ˧˥ |
+ \\
+\midrule
+Utterance ID: & 151 \\
+Ref: & h ĩ ˧ \hl{ʁ} o \hl{˧} t o ˩ | dʑ ɤ ˩ ʝ i ˥ | p i ˧ dʑ o ˩ | n o ˧ ʈʂʰ ɯ ˧ ʈʂʰ \hl{æ} ˩ | ə ˧ d ɑ\hl{ }\hl{˧}\hl{ }\hl{ə} ˧ m i ˧ ɲ i ˥ k v̩ ˩\hl{ }\hl{|} dʑ o \hl{˧} m ɤ \hl{˧} ʁ o ˧ b i ˧ | n o ˧ z o ˧ m v̩ ˥ | ʈʂʰ ɯ ˧ ʈʂʰ æ \hl{}\hl{˩} | l e ˧ dʑ o ˧ k v̩ ˧˥ |
+ \\
+Hyp: & h ĩ ˧ \hl{m} o \hl{˩} t o ˩ | dʑ ɤ ˩ ʝ i ˥ | p i ˧ dʑ o ˩ | n o ˧ ʈʂʰ ɯ ˧ ʈʂʰ \hl{ɯ} ˩ | ə ˧ d ɑ\hl{}\hl{}\hl{}\hl{} ˧ m i ˧ ɲ i ˥ k v̩ ˩\hl{}\hl{} dʑ o \hl{˩} m ɤ \hl{˩} ʁ o ˧ b i ˧ | n o ˧ z o ˧ m v̩ ˥ | ʈʂʰ ɯ ˧ ʈʂʰ æ \hl{˧}\hl{˥} | l e ˧ dʑ o ˧ k v̩ ˧˥ |
+ \\
+\midrule
+Utterance ID: & 152 \\
+Ref: & dz ɑ ˧ ʈʂʰ ɯ ˧ \hl{|}\hl{ }\hl{ʈ}ʰ \hl{æ} \hl{æ}\hl{̃} \hl{˧} | ʝ i ˧ m ɤ ˧ ɖ o ˧ | p i ˧ z o ˩ | ɖ ɯ ˧ n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ tɕ \hl{i} ˩ k v̩\hl{}\hl{}\hl{}\hl{}\hl{} ˥ |
+ \\
+Hyp: & dz ɑ ˧ ʈʂʰ ɯ ˧ \hl{}\hl{ʈ}\hl{ʂ}ʰ \hl{ɯ} \hl{}\hl{˧} \hl{˩} | ʝ i ˧ m ɤ ˧ ɖ o ˧ | p i ˧ z o ˩ | ɖ ɯ ˧ n jɤ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ tɕ \hl{ɯ} ˩ k v̩\hl{ }\hl{˥}\hl{ }\hl{w}\hl{ɤ} ˥ |
+ \\
+\midrule
+Utterance ID: & 153 \\
+Ref: & tʰ i ˩˥ | ɖ ɯ ˧ ɲ i ˥\hl{ }\hl{ɖ} \hl{ɯ} \hl{˩} \hl{ɲ} \hl{i} ˩ | \hl{n} jɤ ˧\hl{ }\hl{|} tʰ i ˧ ʂ v̩ ˧ ɖ \hl{v}\hl{̩} ˧ \hl{t}\hl{ɕ} \hl{i} ˩ dʑ o ˩ | g \hl{i} ˩˥\hl{}\hl{}\hl{}\hl{} \hl{}\hl{|} g \hl{}\hl{ɯ} ˩ \hl{n} i ˥ \hl{g} v̩ ˩ |
+ \\
+Hyp: & tʰ i ˩˥ | ɖ ɯ ˧ ɲ i ˥\hl{}\hl{} \hl{|} \hl{ɖ} \hl{ɯ} \hl{˧} ˩ | \hl{ɲ} jɤ ˧\hl{}\hl{} tʰ i ˧ ʂ v̩ ˧ ɖ \hl{}\hl{e} ˧ \hl{d}\hl{z} \hl{ɤ} ˩ dʑ o ˩ | g \hl{ɯ} ˩˥\hl{ }\hl{ʝ}\hl{ }\hl{i} \hl{˩}\hl{˥} g \hl{v}\hl{̩} ˩ \hl{ɲ} i ˥ \hl{k} v̩ ˩ |
+ \\
+\midrule
+Utterance ID: & 154 \\
+Ref: & h ĩ ˧\hl{ }\hl{|} z o ˩ n o \hl{˥} | n jɤ ˧ | qʰ ɑ ˩ n e ˩˥ | \hl{d} \hl{}\hl{o} \hl{˩} \hl{h} \hl{i}\hl{̃} \hl{˩} dʑ o ˩\hl{˥} | m æ \hl{˩} | õ ˧ ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | æ ˧ ʂ æ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ k v̩ ˩˥ | m \hl{æ}\hl{ }\hl{˩} \hl{|}
+ \\
+Hyp: & h ĩ ˧\hl{}\hl{} z o ˩ n o \hl{˧} | n jɤ ˧ | qʰ ɑ ˩ n e ˩˥ | \hl{b} \hl{v}\hl{̩} \hl{˧} \hl{ɲ} \hl{v}\hl{̩} \hl{˧} dʑ o ˩\hl{} | m æ \hl{˧} | õ ˧ ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | æ ˧ ʂ æ ˧ | ʈʂʰ ɯ ˧ n e ˧ ʝ i ˥ | ʐ wɤ ˩ k v̩ ˩˥ | m \hl{}\hl{v}\hl{̩} \hl{˩}
+ \\
+\midrule
+\end{longtable}
+\end{document}
