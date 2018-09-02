@@ -5,6 +5,8 @@ The second acoustic model created for Yongning Na was trained on an updated vers
 Version 1 (May 2017) was based on the texts as transcribed before 2014; version 2 was based on the texts as updated to 2017. 
 Version 2 did not yet incorporate tone-group boundaries, which were added in 2018 (in version 3 of the model). 
 
+This model got 11.9% Phoneme Error Rate (PER) and 14.8% Tone Error Rate (TER) on the same validation/test set as the other experiments. 
+
 The transcriptions are those of the following documents: 
 
 * ADOPTING_PETS
