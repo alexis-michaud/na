@@ -5,6 +5,7 @@ This folder contains the first set of transcriptions produced by `Oliver Adams <
 (hand-made) transcriptions of Na texts as a training corpus. Then this acoustic model was used for transcribing fresh audio materials: the narratives BENEVOLENCE and FUNERAL CUSTOMS. (The audio files can be consulted from the Pangloss Collection: they are in the list of Na materials, `here <http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc_en.php?lg=Na>`_.)
 
 The two texts transcribed are: 
+
 * BENEVOLENCE
 * FUNERAL_CUSTOMS
 
