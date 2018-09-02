@@ -2,7 +2,7 @@ Materials relating to Persephone, a tool for automatic phonemic transcription
 ================================
 
 This folder makes public a set of transcriptions produced by `Oliver Adams <https://github.com/oadams/>`_. He created an acoustic model for Na by using the
-(hand-made) transcriptions of Na texts in the present repository (xxxx add link) as a training corpus. Then this acoustic model was used for transcribing fresh materials. 
+(hand-made) transcriptions of Na texts in the present repository (`here <https://github.com/alexis-michaud/na/tree/master/TEXT/F4>`_) as a training corpus. Then this acoustic model was used for transcribing fresh materials. 
 
 Each folder contains the yyyy-mm date of the documents and an indication on the nature of the documents: 
 
