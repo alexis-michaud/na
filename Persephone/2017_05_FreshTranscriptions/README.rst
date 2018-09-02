@@ -9,8 +9,5 @@ This first version of the tool did not transcribe tone-group boundaries.
 This first set of transcriptions provided the basis for the initial report available `here <https://himalco.hypotheses.org/285>`_. The acoustic model used for this first batch of documents was superseded within months by new models, also created by `Oliver Adams <https://github.com/oadams/>`_, as reported at `LREC 2018 
 <https://halshs.archives-ouvertes.fr/halshs-01709648/document>`_.
 
-The Persephone software for automatic phonemic transcription is available in open source `here <https://github.com/oadams/persephone/>`_. A paper providing a technical description is available: 
- A paper written for linguists is also available: 
-`Integrating automatic transcription into the language documentation workflow: experiments with Na data and the PERSEPHONE toolkit
-<https://halshs.archives-ouvertes.fr/halshs-01841979/document>`_.
+The Persephone software for automatic phonemic transcription is available in open source `here <https://github.com/oadams/persephone/>`_. 
 
