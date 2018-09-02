@@ -3,6 +3,8 @@
 Transcriptions of linguistic data on the Yongning Na language (nɑ˩-ʐwɤ˥, also known as Narua or Mosuo), some scripts, and a Na-Chinese-English-French dictionary. 
 The audio is available from the `Pangloss Collection <http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc.php?lg=Na>`_.
 
+New to 2018-2019: materials related to the automatic transcription tool Persephone are placed in `a specific folder <https://github.com/alexis-michaud/na/>`_.
+
 Contributors
 ============
 Contributions are indicated in the documents' metadata, and as notes inside the XML files.
