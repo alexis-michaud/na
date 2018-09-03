@@ -11,12 +11,9 @@ The two texts transcribed are:
 
 The audio files can be consulted from the Pangloss Collection: they are in the list of Na materials, `here <http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc_en.php?lg=Na>`_. Direct links: `BENEVOLENCE <http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BENEVOLENCE_SOUND>`_ and `FUNERAL_CUSTOM <http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FUNERAL_CUSTOM_SOUND>`_.
 
-For computational reasons, the source recordings were split into 10 second chunks. This meant that sounds were truncated at the ends of recordings. 
-
-This first version of the tool did not transcribe tone-group boundaries. 
-
 This first set of transcriptions provided the basis for the initial report available `here <https://himalco.hypotheses.org/285>`_. The acoustic model used for this first batch of documents was superseded within months by new models, also created by `Oliver Adams <https://github.com/oadams/>`_, as reported at `LREC 2018 
 <https://halshs.archives-ouvertes.fr/halshs-01709648/document>`_.
 
-The Persephone software for automatic phonemic transcription is available in open source `here <https://github.com/oadams/persephone/>`_. 
+For computational reasons, the source recordings were split into 10 second chunks. This meant that sounds were truncated at the ends of 10-second chunks.  `This issue <https://github.com/persephone-tools/persephone/issues/195>`_ will be addressed in further development of the Persephone software for automatic phonemic transcription, available in open source `here <https://github.com/oadams/persephone/>`_.  
 
+This first version of the tool did not transcribe tone-group boundaries. This issue was addressed in later development: acoustic models for Na include tone-group boundaries since version 3.
