@@ -5951,7 +5951,7 @@
 \dt 12/Jun/2017
 
 \lx ɕjɤ˧pʰje˥
-\or xepia
+\or xepian
 \bw <langue="cmn"> 相片
 \ps n
 \cf pɤ˧lɑ˩
@@ -27336,28 +27336,6 @@
 \xf une mauvaise année a lieu, une année de mauvaise récolte/de disette
 \dt 24/Apr/2017
 
-\lx kv̩˧ʁo˧bv̩˥
-\sf <nb="2011"> 2988
-\or guwobbu
-\ps n
-\lc kv̩˧ʁo˧bv̩˥
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\nt <type="hist" print="n"> (+ɲi˩) (vérifié en mai 2008; avais d'abord noté ˧ ˧ ˧)
-\ton H#
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\pdl classifier
-\pdv kɤ˧˥
-\de Garlic sprouts (consumed as a vegetable).
-\ge garlic_sprouts
-\dn 蒜苗
-\gn 蒜苗
-\df Pousses d'ail (aliment).
-\gf pousses d'ail
-\dt 24/Apr/2017
-
 \lx kʰv̩˧ʂæ˧˥
 \sf <nb="B"> 1193
 \sf <nb="B"> 1755
@@ -33149,7 +33127,7 @@
 \gn 能够
 \df Parvenir à.
 \gf parvenir_à
-\xv ɖɯ˩-hĩ˩ qʰɑ˥ mæ˩~mæ˩! | tɕi˩-hĩ˩ lə˥-mɤ˩-mæ˩! / ɖɯ˩-hĩ˩˥, | qʰɑ˧ mæ˥~mæ˩! | tɕi˩-hĩ˩˥, | le˧-mɤ˧-mæ˧!
+\xv ɖɯ˩-hĩ˩ qʰɑ˥ mæ˩~mæ˩! | tɕi˩-hĩ˩ le˥-mɤ˩-mæ˩! / ɖɯ˩-hĩ˩˥, | qʰɑ˧ mæ˥~mæ˩! | tɕi˩-hĩ˩˥, | le˧-mɤ˧-mæ˧!
 \xe “Adults can manage all sorts of things, (whereas) children can't manage (that much) yet!" This saying is used when someone puts high demands on children or adolescents: Let the children play! To each age its occupations: children should play, not work. Adults' tasks are not their business!
 \xn “大人管干活，小孩管玩耍！”这个谚语的意思是：不要让孩子干活，每个年龄有自己的事，孩子的事就是玩。成年人的活儿，不是他们的事！
 \xf «Les adultes peuvent tout faire; les enfants, eux, n'y arrivent pas/n'en sont pas capables!» Sens: s'adresse à quelqu'un qui assigne des tâches aux enfants et adolescents: Laissez les enfants jouer! A chacun ses occupations: les adultes travaillent; les enfants, leur tâche, c'est de s'amuser entre eux, pas de travailler. Le travail des grands, c'est pas leur affaire!
@@ -49120,6 +49098,24 @@
 \xf C'est guéri! / La fracture est rétablie!
 \dt 01/Oct/2015
 
+\lx tɕʰɯ˥xxxxxxx
+\sf <nb="B"> 1779b
+\sf <nb="2011"> 2532
+\or qi
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> xxxx à vérifier ; tiré du texte Benevolence.
+\ton H
+\lc tɕʰɯ˧
+\so <print="n"> F4
+\de To get better (disease, ailment, pain…).
+\ge to_get_better
+\dn 变好（病、痛）
+\gn 变好
+\df Aller mieux (maladie, douleur), s'améliorer (l'état d'un malade s'améliore).
+\gf aller_mieux
+
 \lx ɻæ˩˥
 \sf <nb="B"> 2130
 \sf <nb="2011"> 3265
@@ -50295,7 +50291,7 @@
 \ge sprout
 \dn 树的萌芽、新发出来的叶子
 \gn 萌芽
-\df Pousse d'arbre.
+\df Pousse, germe.
 \gf pousse
 \xv tʰo˧-ʁo˧bv̩˥
 \xe bud of pine tree
@@ -50307,7 +50303,26 @@
 \xn 小松树尖
 \xf pousse de sapin; littéralement «pousses d'aiguilles de sapin»
 \xc ton: L+#H-
-\dt 27/Apr/2017
+\rf F4
+\xv kv̩˧-ʁo˧bv̩˥
+\xo guwobbu
+\xc <type="tone"> H#
+\xc <type="hist" print="n"> Ton vérifié en mai 2008; avais d'abord noté ˧ ˧ ˧
+\xc <type="classifier"> kɤ˧˥
+\xe Garlic sprouts (consumed as a vegetable).
+\xn 蒜苗
+\xf Pousses d'ail (aliment).
+\rf F4
+\xv si˧-ʁo˧bv̩˥
+\xc <type="tone"> H#
+\xe Tree sprout.
+\xn 树萌芽
+\xf Pousse d'arbre.
+\rf F4
+\xv si˧dzi˩-ʁo˩bv̩˩
+\xe Tree sprout.
+\xn 树萌芽
+\xf Pousse d'arbre.
 
 \lx ʁo˧dɑ˧
 \sf <nb="B"> 703
@@ -54344,6 +54359,10 @@
 \gn 树
 \df Arbre.
 \gf arbre
+\xv si˧dzi˩-gv̩˩mi˩
+\xe tree trunk; literally ‘body of the tree’
+\xn 树干（直译：树身）
+\xf périphrase pour désigner le tronc d'un arbre; littéralement ‘corps de l'arbre’
 \dt 05/Oct/2015
 
 \lx si˧dzi˩-mv̩˩tsɯ˩
@@ -62141,7 +62160,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (noté en 2006: lo˧mi˥ tɕʰi˧tɕʰi˧) (avant mars 2012: noté comme ton: M.M)
-\np en cadre: lə˧tɕʰi˩tɕʰi˩ze˩
+\np en cadre: le˧-tɕʰi˩~tɕʰi˩-ze˩
 \ton MH
 \lc tɕʰɯ˩tɕʰɯ˧˥
 \so <print="n"> F4
@@ -69391,14 +69410,16 @@
 \gn 知府（借词）
 \df Gouvernement local, pouvoir local.
 \gf gouvernement_local
-\xv no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ni˩-zo˩!
+\xv no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ne˩-ʝi˩-zo˩!
 \xe You think you're the government, hey?! (A criticism to people who keep telling others how they should behave, as if they lorded it over everyone else.)
 \xn 你像永宁土知府！ / 你是永宁土知府吧！（批评独断的人、一手包办的人）
 \xf Tu te prends pour le seigneur! (critique qu'on s'adressait aux gens qui se mêlaient de dicter leur conduite aux autres, comme s'ils étaient les maîtres des lieux)
-\xv no˧ | ʈʂɯ˧fv̩˧-mi˧-ni˧˥ | -zo˩!
+\xc avant 2018: noté /no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ni˩-zo˩/
+\xv no˧ | ʈʂɯ˧fv̩˧-mi˧-ne˧-ʝi˥ | -zo˩!
 \xe You are the Princess of Yongning, hey?! (Criticism addressed to an overbearing woman)
 \xn 你好像是永宁大公主！ / 你好像是永宁知府女主人！（批评一个独断的女人）
 \xf Tu joues les princesses! (littéralement ‘les femmes du pouvoir’) Critique adressée à une femme qui prend de grands airs.
+\xc avant 2018: noté /no˧ | ʈʂɯ˧fv̩˧-mi˧-ni˧˥ | -zo˩/
 \dt 05/Jul/2017
 
 \lx ʈʂʰɯ˧gi#˥
@@ -73051,7 +73072,7 @@
 \xe to look back
 \xn 往后看
 \xf regarder derrière soi
-\xv lə-˧wo˧ tʰo˥-tɕo˩
+\xv le˧-wo˧ tʰo˥-tɕo˩
 \xe to turn around (e.g. in order to look back)
 \xn 转身
 \xf se retourner
@@ -74304,7 +74325,7 @@
 \xf |fg{accomp}  |fg{pfv}
 \xc PHONO
 \xv æ˩ ʑi˧-ze˥
-\xe the chicken has gone asleep
+\xe the chicken has gone to sleep
 \xn 鸡睡觉了
 \xf la poule s'est endormie
 \xv le˧-ʑi˧-bi˧-ze˩!
@@ -78119,7 +78140,7 @@
 \xe like that time
 \xn 像那次一样、就像那次
 \xf comme cette fois-là, de la même façon que cette fois-là
-\xv tʰv̩˧ɲi˧-ne˧-ʝi˥-zo˩
+\xv tʰv̩˧ɲi˧-ne˧-ʝi˥ne˧-ʝi˥-zo˩
 \xe like that day
 \xn 像那天一样、就像那天
 \xf comme ce jour-là, de la même façon que ce jour-là
@@ -78945,7 +78966,7 @@
 \dt 27/Apr/2017
 
 \lx ‑tsæ˧α
-\or zhae
+\or zae
 \ps suff
 \lc tsæ˧
 \sd <langue="fra"> morphosyntaxe
