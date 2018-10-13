@@ -57,8 +57,8 @@
 	</S>
 	<S id="HealingS007">
 		<AUDIO start="27.8824" end="29.5102"/>
-		<FORM>kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | le˧-ɻ̃˧-zo˥! |</FORM>
-		<NOTE xml:lang="fr" message="de: le˧-ɻ̃˥"/>
+		<FORM>kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | le˧-ɻ̍̃˧-zo˥! |</FORM>
+		<NOTE xml:lang="fr" message="de: le˧-ɻ̍̃˥"/>
 		<TRANSL xml:lang="fr">On n'avait aucune solution, on était démuni!</TRANSL>
 	</S>
 	<S id="HealingS008">
@@ -85,7 +85,7 @@
 	</S>
 	<S id="HealingS012">
 		<AUDIO start="38.2864" end="45.0180"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥-ʝi˩-dʑo˩, | le˧-ɻ̃˧-zo˥! | le˧-ɻ̃˧-zo˥! | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | ɲi˧mi˧
+		<FORM>ə˧ʝi˧-ʂɯ˥-ʝi˩-dʑo˩, | le˧-ɻ̍̃˧-zo˥! | le˧-ɻ̍̃˧-zo˥! | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | ɲi˧mi˧
 			ʈʂʰɯ˧-qʰɑ˧-ʂæ˧~ʂæ˧-hĩ˧, | hĩ˧-ʈʂʰɯ˧ | go˩-tsɯ˥ | mv̩˩! |</FORM>
 		<TRANSL xml:lang="fr">Autrefois, on était démuni! Démuni! Dans une famille, (tout au long
 			de) la longue journée, le malade (littéralement: la personne) souffrait!</TRANSL>

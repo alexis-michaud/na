@@ -618,7 +618,7 @@
 </S>
 <S id="HOUSEBUILDING2_S107">
 	<AUDIO start="556.809" end="569.051"/>
-	<FORM kindOf="phonemic">bo˩-ʈʂʰæ˧ | ɲi˧-ɭɯ˧ | əəə… əəə… bo˩-ʂe˧! | ʂæ˩ɻ̩̃˩˥ | ʈʰææ̃˧… | tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | hĩ˧ | le˧-ʈʰi˩ | tɕʰɤ˧-hɑ̃˧ne˧ ʝi˥ | bo˩-ʈʂʰæ˧ tɕɤ˩! | ʂæ˩ɻ̩̃˩-v̩˥dʑɯ˩ tɕɤ˩! |</FORM>
+	<FORM kindOf="phonemic">bo˩-ʈʂʰæ˧ | ɲi˧-ɭɯ˧ | əəə… əəə… bo˩-ʂe˧! | ʂæ˩ɻ̍̃˩˥ | ʈʰææ̃˧… | tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | hĩ˧ | le˧-ʈʰi˩ | tɕʰɤ˧-hɑ̃˧ne˧ ʝi˥ | bo˩-ʈʂʰæ˧ tɕɤ˩! | ʂæ˩ɻ̍̃˩-v̩˥dʑɯ˩ tɕɤ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "ressemble à : /dʑɯ˩nɑ˩-ʁo˩˥/; mais il est bien établi que le mot comporte bien 4 syllabes, et que la réduction ici est simplement phonétique : /dʑɯ˩nɑ˩mi˩-ʁo˩˥/ "/>
 	<TRANSL xml:lang="fr">(On conservait à la maison) deux cochons-conservés-entiers, euh… de la viande de porc ! Les os, vrai de vrai… eh bien, sur la montagne, les gens, ils étaient fatigués (par le dur labeur); chaque soir, on faisait cuire (précisément: 'on faisait bouillir') du porc conservé ! On faisait cuire une soupe aux os !</TRANSL>
 </S>
@@ -653,7 +653,7 @@
 </S>
 <S id="HOUSEBUILDING2_S113">
 	<AUDIO start="593.711" end="600.143"/>
-	<FORM kindOf="phonemic">&lt;ɲi˧=ɻ̩˥ | ʂe˧ | dzɯ˧-mɤ˧-kv̩˩&gt; [ɲi˧=ɻ̩˥ | ʂe˧ | mɤ˧-dzɯ˥], | tʰv̩˧-ʑi˧=ɻ̩˥-dʑo˩, | ɑ˩pʰo˩˥ | njæ˧-sɯ˩kv̩˩ | lo˧ʝi˧ kʰi˩ | ɖɯ˧-tɕʰo˩ kʰi˩, | njæ˧-sɯ˩kv̩˩ | mɤ˧-ɖʐo˥, | ʈʂʰɯ˧-v̩˧ | ɖwæ˧˥ | ɖʐo˧-kv̩˩-ɲi˩! |</FORM>
+	<FORM kindOf="phonemic">&lt;ɲi˧=ɻ̍˥ | ʂe˧ | dzɯ˧-mɤ˧-kv̩˩&gt; [ɲi˧=ɻ̍˥ | ʂe˧ | mɤ˧-dzɯ˥], | tʰv̩˧-ʑi˧=ɻ̍˥-dʑo˩, | ɑ˩pʰo˩˥ | njæ˧-sɯ˩kv̩˩ | lo˧ʝi˧ kʰi˩ | ɖɯ˧-tɕʰo˩ kʰi˩, | njæ˧-sɯ˩kv̩˩ | mɤ˧-ɖʐo˥, | ʈʂʰɯ˧-v̩˧ | ɖwæ˧˥ | ɖʐo˧-kv̩˩-ɲi˩! |</FORM>
 	<TRANSL xml:lang="fr">Ceux qui ne mangent pas de viande… cette famille-là, (quand on travaille ensemble) à l'extérieur (=dans les champs), nous, quand on part travailler, qu'on y va ensemble, nous, on n'a pas froid; lui (=la personne qui n'a pas mangé de viande), il a très froid !</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S114">
@@ -1131,7 +1131,7 @@
 	<AUDIO start="998.87" end="1004.269"/>
 	<FORM kindOf="phonemic">ɑ˩ʁo˧ | wɤ˩˥ | tv̩˧qʰv̩˧-zo˧~zo˩ | ɖɯ˧-ɭɯ˧ qwæ˧˥. | mv̩˩zɯ˩-mo˩nɑ˥ tʰi˩-kʰɯ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/tv̩˧qʰv̩˧-zo˧~zo˩/: petit trou dans le potager; paraphrases: /tv̩˧qʰv̩˧ | tɕi˩-hĩ˩˥/ ou /tv̩˧qʰv̩˧-tɕi˩/, 'petit trou'. L'expression est homophone de celle qui désigne le lieu où on met le mort après son décès, mais les deux expressions sont perçues comme différentes. Pour un gros trou, on dit: /tv̩˧qʰv̩˧-ɖɯ˩/ ; on ne peut dire ‡‡/tv̩˧qʰv̩˧-ɖɯ˩~ɖɯ˩/. Le suffixe /-mi/ ne peut pas se combiner avec 'trou': les formes sont refusées, forme simplex aussi bien que forme rédupliquée."/>
-	<NOTE xml:lang="fr" message = "mo˧nɑ˥: ton ˥#. Ajouté au dictionnaire en 2016. On bat la paille d'avoine (/mv̩˩zɯ˩-ɻ̩̃˩˥/) pour en faire de la paille écrasée, qui est utilisée dans la préparation des légumes en saumure."/>
+	<NOTE xml:lang="fr" message = "mo˧nɑ˥: ton ˥#. Ajouté au dictionnaire en 2016. On bat la paille d'avoine (/mv̩˩zɯ˩-ɻ̍̃˩˥/) pour en faire de la paille écrasée, qui est utilisée dans la préparation des légumes en saumure."/>
 	<TRANSL xml:lang="fr">Ensuite, à la maison, on creuse un petit trou (une petite fosse dans le sol). On y met de la paille d'avoine écrasée.</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S197">
@@ -1160,7 +1160,7 @@
 </S>
 <S id="HOUSEBUILDING2_S201">
 	<AUDIO start="1023.852" end="1026.029"/>
-	<FORM kindOf="phonemic">tʰi˩˥, | ɬi˩bi˩-lɑ˥ | ʂæ˩ɻ̃˩ tɕɤ˥-kv̩˩-ze˩! |</FORM>
+	<FORM kindOf="phonemic">tʰi˩˥, | ɬi˩bi˩-lɑ˥ | ʂæ˩ɻ̍̃˩ tɕɤ˥-kv̩˩-ze˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors, on pouvait faire bouillir les radis avec des os! / On pouvait cuisiner une soupe avec ces légumes et des os de porc! </TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S202">
@@ -1706,18 +1706,18 @@
 </S>
 <S id="HOUSEBUILDING2_S297">
 	<AUDIO start="1493.626" end="1494.996"/>
-	<FORM kindOf="phonemic">qwɤ˧ɭɯ˧-ʁo˧ | tʰi˧-ʂɻ̩˧-kʰɯ˥! |</FORM>
-	<NOTE xml:lang="fr" message = "/tʰi˧-ʂɻ̩˧-kʰɯ˥/: tons vérifiés, n'est pas M.M.MH. N'est pas le mot signifiant 'garder, s'occuper de', mais l'adjectif 'plein, rempli': n'est pas /tʰi˧-ʂv̩˧-kʰɯ˥/."/>
+	<FORM kindOf="phonemic">qwɤ˧ɭɯ˧-ʁo˧ | tʰi˧-ʂɻ̍˧-kʰɯ˥! |</FORM>
+	<NOTE xml:lang="fr" message = "/tʰi˧-ʂɻ̍˧-kʰɯ˥/: tons vérifiés, n'est pas M.M.MH. N'est pas le mot signifiant 'garder, s'occuper de', mais l'adjectif 'plein, rempli': n'est pas /tʰi˧-ʂv̩˧-kʰɯ˥/."/>
 	<TRANSL xml:lang="fr">On remplit le foyer! </TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S298">
 	<AUDIO start="1495.272" end="1497.443"/>
-	<FORM kindOf="phonemic">tʰi˩˥, | qwɤ˧lɯ˧-ʁo˧ | ə˧tse˥ | ʂɻ̩˧ ɲi˥? | pi˧. |</FORM>
+	<FORM kindOf="phonemic">tʰi˩˥, | qwɤ˧lɯ˧-ʁo˧ | ə˧tse˥ | ʂɻ̍˧ ɲi˥? | pi˧. |</FORM>
 	<TRANSL xml:lang="fr">Mais avec quoi 'remplit'-on le foyer (, me demanderez-vous)? </TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S299">
 	<AUDIO start="1497.443" end="1502.859"/>
-	<FORM kindOf="phonemic">ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʂɻ̩˧-kʰɯ˥-dʑo˩, | so˧hwɤ˩ | tʰi˩˥ | ɖɯ˧-↑njɤ˧ | tʰi˧-ʂɻ̩˧-kʰɯ˥ | pi˧. | dzɤ˩-kv̩˧ pi˥! |</FORM>
+	<FORM kindOf="phonemic">ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʂɻ̍˧-kʰɯ˥-dʑo˩, | so˧hwɤ˩ | tʰi˩˥ | ɖɯ˧-↑njɤ˧ | tʰi˧-ʂɻ̍˧-kʰɯ˥ | pi˧. | dzɤ˩-kv̩˧ pi˥! |</FORM>
 	<TRANSL xml:lang="fr">Eh bien, voici comment on le remplit: à partir de ce moment-là, on y met des choses sans interruption! On formule des souhaits (de chance et de prospérité)! (On y dépose des cigarettes, de l'alcool, du sel, du thé, et des sucreries.)</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S300">
@@ -1754,7 +1754,7 @@
 </S>
 <S id="HOUSEBUILDING2_S305">
 	<AUDIO start="1528.944" end="1531.565"/>
-	<FORM kindOf="phonemic">ə˧tso˧ po˧-tsʰɯ˧-ɻ̩˥, | gɤ˩qwɤ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-tɕɯ˥, | tʰi˧-tɕɯ˥, | tʰi˧-tɕɯ˥! |</FORM>
+	<FORM kindOf="phonemic">ə˧tso˧ po˧-tsʰɯ˧-ɻ̍˥, | gɤ˩qwɤ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-tɕɯ˥, | tʰi˧-tɕɯ˥, | tʰi˧-tɕɯ˥! |</FORM>
 	<TRANSL xml:lang="fr">Tout ce qu'ils amenaient, on le posait sur l'autel!</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S306">
@@ -1771,14 +1771,14 @@
 </S>
 <S id="HOUSEBUILDING2_S308">
 	<AUDIO start="1536.99" end="1541.873"/>
-	<FORM kindOf="phonemic">"ə˧mi˧! | ɳæ˧=ɻ̩˩-se˩, | le˧-gɤ˩-ze˩ wɤ˩! | ʑi˧qʰwɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɤ˩-hĩ˥ | ɖɯ˧-ɭɯ˧ tsʰɯ˧-õ˥!" |</FORM>
+	<FORM kindOf="phonemic">"ə˧mi˧! | ɳæ˧=ɻ̍˩-se˩, | le˧-gɤ˩-ze˩ wɤ˩! | ʑi˧qʰwɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɤ˩-hĩ˥ | ɖɯ˧-ɭɯ˧ tsʰɯ˧-õ˥!" |</FORM>
 	<NOTE xml:lang="fr" message = "/tsʰɯ˧-õ˥/: est une variante expressive sur /tsʰɯ˧˥/. Une réalisation simplement avec allongement est également possible. Une troisième possibilité serait: /tsʰɯ˧-wɤ˥/."/>
 	<NOTE xml:lang="fr" message = "25m40s"/>
 	<TRANSL xml:lang="fr">"Eeeeh bien! Vous autres, vous voilà comblés! Vous avez construit une bien belle maison!"</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S309">
 	<AUDIO start="1541.873" end="1544.568"/>
-	<FORM kindOf="phonemic">"le˧-ʂɯ˧-bi˧, | le˧-gɤ˩-ze˩, | ɖɯ˧-dzi˩=ɻ̩˩ bi˩, | qʰɑ˩jɤ˩ pʰv̩˩˥!" |</FORM>
+	<FORM kindOf="phonemic">"le˧-ʂɯ˧-bi˧, | le˧-gɤ˩-ze˩, | ɖɯ˧-dzi˩=ɻ̍˩ bi˩, | qʰɑ˩jɤ˩ pʰv̩˩˥!" |</FORM>
 	<TRANSL xml:lang="fr">"Si vous deviez mourir, vous mourriez heureux! Habiter ici, quel bonheur!"</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S310">

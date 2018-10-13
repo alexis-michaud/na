@@ -5425,8 +5425,8 @@
 		</W>
 </S>
 <S id="Reward_S093"><AUDIO start="447.4031" end="451.8352"></AUDIO>
-	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | ə˧-sɯ˥? |</FORM>
-	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̃˥-ze˩ / le˧-ɻ̃˧-bi˧ / mɤ˧-ɻ̃˥"></NOTE>
+	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̍̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | ə˧-sɯ˥? |</FORM>
+	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̍̃˥-ze˩ / le˧-ɻ̍̃˧-bi˧ / mɤ˧-ɻ̍̃˥"></NOTE>
 	<TRANSL xml:lang="fr">[Le père prend la parole pour résumer aux membres de sa famille ce qui lui est arrivé:] "Aaah! Nous autres, si démunis qu'on soit, il ne faut pas voler [le bien d']autrui, vous avez bien compris, hein? (littéralement "est-ce que vous savez?")</TRANSL>
 	<TRANSL xml:lang="zh">（孩子爸对家人总结说：）“啊呀！咱们无论多么贫穷，不要偷别人的，知道（了）吗？</TRANSL>
 		<W>
@@ -5446,7 +5446,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̃˥</FORM>
+			<FORM>ɻ̍̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5479,7 +5479,7 @@
 		</W>
 </S>
 <S id="Reward_S094"><AUDIO start="451.8352" end="460.5214"></AUDIO>
-	<FORM>njɤ˧ le˧-ɻ̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
+	<FORM>njɤ˧ le˧-ɻ̍̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
 	<NOTE xml:lang="fr" message="/njɤ˧ zo˧mv̩˥-ə˩mi˩/: sens vérifié: 'la mère de mes enfants'."></NOTE>
 	<TRANSL xml:lang="fr">[Comme dit le proverbe:] "Pour affamé que je sois, je n'en suis pas encore à avoir les os à découvert!" [Or] maintenant, la mère de mes enfants, [voilà qu'elle me disait:]</TRANSL>
 	<TRANSL xml:lang="zh">我以前很贫穷，虽然很贫穷但我没去过（别人的地方偷东西）！现在，你们妈（一直跟我说：）</TRANSL>
@@ -5492,7 +5492,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̃˥</FORM>
+			<FORM>ɻ̍̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5504,7 +5504,7 @@
 			<TRANSL xml:lang="fr">autrefois</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̃˥</FORM>
+			<FORM>ɻ̍̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
