@@ -5,5 +5,4 @@ This folder contains the transcriptions of audio recordings of texts in Yongning
 
 The audio is available from the `Pangloss Collection <http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc.php?lg=Na>`_.
 
-The F4_OlderDocuments folder contains (outdated) materials used when producing the XML files. Under the initial workflow (from 2006 to 2017), documents were typed manually as plain text files, and markup was added by means of Perl scripts (available from the SCRIPTS folder in this repository).
-
+The F4_OlderDocuments folder contains (outdated) materials used when producing the XML files. Under the initial workflow (from 2006 to 2017), documents were typed manually as plain text files, and markup was added by means of Perl scripts (available from the `SCRIPTS folder in this repository <https://github.com/alexis-michaud/na/tree/master/SCRIPTS>`_.).
