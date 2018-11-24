@@ -13,8 +13,8 @@ Finally, the folder entitled ‘WorkInProgress’ contains a transcription gener
 and supplemented by the linguist, manually adding comments and translations.
 
 The Persephone software is available in open source `here <https://github.com/oadams/persephone/>`_. A paper providing a technical description is available: 
-`Evaluating phonemic transcription of low-resource tonal languages for language documentation 
+`“Evaluating phonemic transcription of low-resource tonal languages for language documentation” 
 <https://halshs.archives-ouvertes.fr/halshs-01709648/document>`_. A paper written for linguists is also available: 
-`Integrating automatic transcription into the language documentation workflow: experiments with Na data and the PERSEPHONE toolkit
+`“Integrating automatic transcription into the language documentation workflow: experiments with Na data and the PERSEPHONE toolkit”
 <https://halshs.archives-ouvertes.fr/halshs-01841979/document>`_.
 
