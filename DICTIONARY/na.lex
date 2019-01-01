@@ -48972,7 +48972,7 @@
 \sf <nb="B"> 1067
 \sf <nb="2011"> 1503
 \hm 1
-\or khua
+\or khuaq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -49098,7 +49098,7 @@
 \xf C'est guéri! / La fracture est rétablie!
 \dt 01/Oct/2015
 
-\lx tɕʰɯ˥xxxxxxx
+\lx tɕʰɯ˥
 \sf <nb="B"> 1779b
 \sf <nb="2011"> 2532
 \or qi
@@ -51910,6 +51910,7 @@
 \xn 同上
 \xf même sens
 \xv ʁwɤ˧ʐv̩˧, | jɤ˧qʰɑ˧ dʑɤ˥; | hwɤ˧li˧-hɑ˧ mɤ˧-dʑo˧˥!
+\xc PROVERBE
 \xe Adage: “In Qiansuo, bitter buckwheat grows beautifully; there's nothing for cats to eat!" Explanation: cats do not eat bitter buckwheat.
 \xn 俗语：“前所，苦荞（庄稼）很好。猫，没得吃！”（说明：猫不吃苦荞。）
 \xf «À Qiansuo, le sarrasin amer pousse à merveille; les chats n'y ont rien à manger!» (Explication: les chats ne mangent pas de sarrasin. Voyant la maisonnée se régaler, le chat passe en miaulant, mais il n'y a rien pour lui: rien à son goût.)
@@ -77773,7 +77774,7 @@
 
 \lx ‑ho˩
 \sf <nb="2011"> 3356
-\or ho
+\or hoq
 \ps suff
 \lc ho˩˥
 \sd <langue="fra"> morphosyntaxe
