@@ -40805,7 +40805,7 @@
 \so <print="n"> F4
 \de A mountain to the South-West of Yongning.
 \ge name_of_mountain
-\dn 位于永宁西南的一座山
+\dn 瓦哈山（大药山）：位于永宁西南的一座山
 \gn 一座山的名字
 \df Nom d'une montagne au sud-ouest de Yongning.
 \gf nom_de_montagne
