@@ -14331,9 +14331,9 @@
 \df Mère; le terme s'emploie aussi pour désigner les tantes.
 \gf mère/tante
 \xv ə˧mi˧=ɻæ˩
-\xe _ |fg{associative}
+\xe _ |fg{pl}
 \xn 母亲们 =长辈女性
-\xf _ |fg{associatif}: les mères =les femmes de la génération supérieure
+\xf _ |fg{pl}: les mères =les femmes de la génération supérieure
 \dt 28/Aug/2015
 
 \lx ə˧mi˧-ɖɯ˩
@@ -14466,9 +14466,9 @@
 \df Aîné: grand frère, grande sœur (employé aussi entre cousins).
 \gf grand_frère/grande_sœur
 \xv æ˧mv̩˩=ɻæ˩
-\xe |fg{associative}: elder siblings
-\xn 联想复数：哥哥们、姐姐们
-\xf |fg{associatif}: les aînés dans la fratrie: sœurs et frères aînés
+\xe |fg{pl}: elder siblings
+\xn 复数：哥哥们、姐姐们
+\xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aînés
 \dt 28/Aug/2015
 
 \lx ə˧mv̩˧-gi˥zɯ˩
@@ -14841,9 +14841,9 @@
 \df Tante (sœur cadette de la mère).
 \gf sœur_cadette_de_la_mère
 \xv ə˧tɕi˩=ɻæ˩
-\xe |fg{associative}: aunts
+\xe |fg{pl}: aunts
 \xn 姨母们
-\xf |fg{associatif}: les tantes
+\xf |fg{pl}: les tantes
 \dt 28/Aug/2015
 
 \lx ə˧ti˥-dzi˩
@@ -15872,9 +15872,9 @@
 \df Petit frère (employé aussi entre cousins).
 \gf petit_frère
 \xv gi˧zɯ˧=ɻæ˥
-\xe |fg{associative}: younger brothers, cousins…
-\xn 联想复数：弟弟们，表弟们
-\xf |fg{associatif}: les petits frères
+\xe |fg{pl}: younger brothers, cousins…
+\xn 复数：弟弟们，表弟们
+\xf |fg{pl}: les petits frères
 \dt 02/Sep/2015
 
 \lx gi˩α
@@ -16387,9 +16387,9 @@
 \df Petite sœur (employé aussi pour les cousines plus jeunes).
 \gf petite_sœur
 \xv go˧mi˧=ɻæ˩
-\xe |fg{associative}: younger sisters, younger cousins
-\xn 联想复数：妹妹们，表妹们
-\xf |fg{associatif}: les petites sœurs, les jeunes cousines
+\xe |fg{pl}: younger sisters, younger cousins
+\xn 复数：妹妹们，表妹们
+\xf |fg{pl}: les petites sœurs, les jeunes cousines
 \dt 02/Sep/2015
 
 \lx gɤ˩-qo˧
@@ -37476,12 +37476,12 @@
 \ton LM
 \lc ɳæ˧ɻæ˩
 \so <print="n"> F4
-\de Second person associative plural.
-\ge |fg{2pl.associative}
+\de Second person plural.
+\ge |fg{2pl}
 \dn 你们家、你们家族
 \gn 你们家族
-\df Deuxième personne, pluriel associatif: vous autres.
-\gf |fg{2pl.associatif}
+\df Deuxième personne, pluriel: vous autres.
+\gf |fg{2pl}
 \dt 13/Jul/2017
 
 \lx ɳæ˧=ɻ̍˩
@@ -37495,11 +37495,11 @@
 \lc ɳæ˧ɻ̍˩
 \so <print="n"> F4
 \de Second person plural. This is a variant of |fv{/no˧=ɻ̍˩/}; the form |fv{/no˧=ɻ̍˩/} is considered more correct.
-\ge |fg{2pl}
-\dn 你们。这是|fv{/no˧=ɻ̍˩/}的一个变体。|fv{/no˧=ɻ̍˩/}被认为是更标准的。
+\ge |fg{2pl.associative}
+\dn 联想复数：你们。这是|fv{/no˧=ɻ̍˩/}的一个变体。|fv{/no˧=ɻ̍˩/}被认为是更标准的。
 \gn 你们
-\df Deuxième personne du pluriel: vous autres. Variante de |fv{/no˧=ɻ̍˩/}; la forme |fv{/no˧=ɻ̍˩/} est jugée plus correcte.
-\gf |fg{2pl}
+\df Deuxième personne du pluriel associatif: vous autres. Variante de |fv{/no˧=ɻ̍˩/}; la forme |fv{/no˧=ɻ̍˩/} est jugée plus correcte.
+\gf |fg{2pl.associatif}
 \dt 13/Jul/2017
 
 \lx ni˥
@@ -72479,7 +72479,7 @@
 \gf |fg{1associatif}
 \xv u˧=ɻ˩, ʈʂʰɯ˧=ɻ˩
 \xe My clan, his clan: two terms that stand in a relation of opposition
-\xn 我的人，他的人（有对立的两个代词）
+\xn 我的人，他的人（有对立的两个联想复数代词）
 \xf mon clan, son clan : deux termes qui forment une opposition
 \xc Phonetically: [ʔu˧=ɻ̍˩]
 \xv u˧ɻ̍˩ | ə˧si˧
@@ -72489,7 +72489,7 @@
 \xc Phonetically: [ʔu˧=ɻ̍˩]
 \xv u˧=ɻæ˩, ʈʂʰɯ˧=ɻæ˩
 \xe Us, them: two terms that stand in a relation of opposition
-\xc 我们，他们（有对立的两个代词）
+\xc 我们，他们（有对立的两个复数代词）
 \xf Nous autres, eux : deux termes qui forment une opposition.
 \xc Phonetically: [ʔu˧=ɻæ˩]
 \dt 09/Oct/2017
@@ -75192,9 +75192,9 @@
 \df Les descendants.
 \gf descendants
 \xv zo˧hṽ̩˧mv̩˥zo˩=ɻæ˩
-\xe _ |fg{associative}
-\xn _ 联想复数
-\xf _ |fg{associatif}
+\xe _ |fg{pl}
+\xn _ 数
+\xf _ |fg{pl}
 \dt 05/Jul/2017
 
 \lx ʐɤ˩mi˩
