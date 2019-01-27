@@ -68141,7 +68141,7 @@
 \so <print="n"> F4
 \pdl classifier
 \pdv ɭɯ˧
-\de Sleeping corner: a part of the main room where there is bedding; some people can sit there during meals or family reunions. Newborn babies sleep there. After a decease, corpses are placed on that bed.
+\de Sleeping corner: a part of the main room where there is bedding; some people can sit there during meals or family reunions. Newborn babies sleep there. After a bereavement, the corpse is placed on this bed.
 \ge sleeping_corner
 \dn 小床角：主屋里面的一个角落，有床垫子。用餐、招待客人的时候，会有人在上面坐。刚出生的婴儿也在此处睡觉。人去世后，尸体先放在那个地方。
 \gn 小床角
