@@ -1,0 +1,5 @@
+﻿**NaTone**: generating surface-phonological tone patterns for Yongning Na on the basis of underlying tones.
+
+================================
+
+This is a Perl script for generating surface-phonological tone patterns for Yongning Na. It was drafted in September 2011. The function for generating tone patterns for numeral-plus-classifier phrases was completed; the implementation of other parts of the morphotonology was delayed until the completion of `a monograph on this topic, published in 2017 <http://langsci-press.org/catalog/book/109>`_. Since then, the advice of computer science colleagues is to use languages that are more appropriate to morphology (finite-state transducers) than Perl was. The script is made available here as a window onto the kind of operations required for a computer implementation of the tonal morphology of Yongning Na. 
