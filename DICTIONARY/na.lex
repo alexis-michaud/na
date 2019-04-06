@@ -6463,12 +6463,12 @@
 \df Nom de cérémonie que les moines (un ou deux) pratiquent une fois par an (pendant la première quinzaine de l'année) au domicile de la personne qui les y invite: offrande de céréales (ou de fruits) aux divinités. L'objet de la cérémonie est d'assurer la prospérité financière de la maisonnée.
 \gf nom_de_cérémonie
 \xv ɖæ˩-lɑ˧so˧ qæ˩
-\xe to carry out the Ddaelaso rituel
+\xe to carry out the Ddaelaso ritual
 \xn 进行这种仪式
 \xf réaliser le rituel Ddaelaso
 \xc
 \xv ɖæ˩-lɑ˧so˧ li˩
-\xe to watch the Ddaelaso rituel
+\xe to watch the Ddaelaso ritual
 \xn 看这种仪式
 \xf regarder le rituel Ddaelaso
 \dt 03/May/2017
