@@ -26883,11 +26883,12 @@
 
 \lx kv̩˧dʑɯ˧˥
 \sf <nb="2011"> 580
-\or gujji
+\or guxxi
 \ps n
 \lc kv̩˧dʑɯ˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\nt <type="hist" print="n">Orthographe: avant avril 2019, était noté gujji.
 \ton MH
 \so <print="n"> F4
 \pdl classifier
@@ -41254,11 +41255,11 @@
 \lx õ˧ʈʂwɤ˧-kv̩˧dʑɯ˧˥
 \sf <nb="B"> 448
 \sf <nb="2011"> 581
-\or onzhua gujji
+\or onzhua guxxi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (d'abord noté œ͂˞˧ ʈʂwɤ˧ kv̩˧ dʑi˩˥) (absence d'aspiration de /kv/ confirmée) (voyelle: le 23 nov., entends un simple õ; idem le 5 déc) (schéma tonal confirmé par F4; d'abord noté ˥ ˥ ˧ ˧˥)
+\nt <type="hist" print="n"> (d'abord noté œ͂˞˧ ʈʂwɤ˧ kv̩˧ dʑi˩˥) (absence d'aspiration de /kv/ confirmée) (voyelle: le 23 nov., entends un simple õ; idem le 5 déc) (schéma tonal confirmé par F4; d'abord noté ˥ ˥ ˧ ˧˥)  Orthographe: avant avril 2019, était noté gujji.
 \nt <type="sem"> tente à moustiques
 \ton -MH#
 \lc õ˧ʈʂwɤ˧kv̩˧dʑɯ˧˥
