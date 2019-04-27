@@ -1,10 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
-<!--LIEN ENTRE LE FICHIER XML ET LA FEUILLE DE STYLE-->
-<?xml-stylesheet type="text/xsl" href="view_text.xsl"?>
-
-
-<TEXT id="crdo-NRU_F4_HOUSEBUILDING" xml:lang="nru">
+﻿<TEXT id="crdo-NRU_F4_HOUSEBUILDING" xml:lang="nru">
 <HEADER>
 <TITLE xml:lang="eng">Building a Na house</TITLE>
 <TITLE xml:lang="cmn">《建房子的过程》</TITLE>
