@@ -1,8 +1,9 @@
-﻿<TEXT id="crdo-NRU_F4_HOUSEBUILDING" xml:lang="nru">
+<TEXT id="crdo-NRU_F4_HOUSEBUILDING" xml:lang="nru">
 <HEADER>
 <TITLE xml:lang="eng">Building a Na house</TITLE>
 <TITLE xml:lang="cmn">《建房子的过程》</TITLE>
 <TITLE xml:lang="fra">La construction d'une maison</TITLE>
+<TITLE xml:lang="nru">Naq bbu xxikhua jjo tee niq ceeq niq</TITLE>	
 <SOUNDFILE href="crdo-NRU_F4_HouseBuilding_AUDIO.wav"/>
 </HEADER>
 <NOTE xml:lang="fr" message="Revu en 2013. Relu en juin 2015, en préparation à la transcription de la version 2. Traduction anglaise et orthographe ajoutés en 2018-2019 par Roselle Dobbs."/>
