@@ -298,11 +298,11 @@
 \dt 01/Sep/2015
 
 \lx æ˧-hi˩hi˩
-\or aexiexie
+\or ehihi
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
-\nt <type="hist" print="n"> nasalité: vérifié en août 2014
+\nt <type="hist" print="n"> nasalité: vérifié en août 2014. Réflexion de Roselle Dobbs, juin 2019 : Previously spelled: aexiexie. Having listened to the audio of this text recently, I believe the spelling should be changed to: ehihi. The first morpheme appears to be the same as that of "eyi", as in "eyi keeq". The spelling of the syllable "hi" is a bit of an outlier, but as the word is an interjection, I don't think this is a problem.
 \ton -L
 \lc æ˧hi˩hi˩
 \so <print="n"> F4
