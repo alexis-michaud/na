@@ -7534,7 +7534,7 @@
 \lx dɤ˩-ʈʂʰɯ˧qo˧
 \or ddeq teegho
 \ps adv
-\cf dɤ˧-tʰv̩˧qo˧
+\cf dɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 09: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
@@ -7572,9 +7572,9 @@
 \lx dɤ˩-tʰv̩˧qo˧
 \sf <nb="B"> 903
 \sf <nb="2011"> 1326
-\or ddeq teegho
+\or ddeq tugho
 \ps adv
-\cf dɤ˧-ʈʂʰɯ˧qo˧
+\cf dɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 09: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
@@ -16568,7 +16568,7 @@
 
 \lx gɤ˩-tʰv̩˧-gi#˥
 \sf <nb="2011"> 1325
-\or ggeq teeggi
+\or ggeq tuggi
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-tʰv̩˧qo˧, gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -16589,7 +16589,7 @@
 \lx gɤ˩-tʰv̩˧qo˧
 \sf <nb="B"> 903
 \sf <nb="2011"> 1326
-\or ggeq teegho
+\or ggeq tugho
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -71805,7 +71805,7 @@
 
 \lx tʰv̩˧qo˧
 \sf <nb="2011"> 1323
-\or teegho
+\or tugho
 \ps pro
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
