@@ -756,7 +756,7 @@
 	</S>
 	<S id="CaravansS110">
 		<AUDIO start="637.8698" end="644.7259"/>
-		<FORM>tʰi˩˥, | dzɑ˩qʰwɤ˩-ʈʂʰɯ˥, | əəə… ə˧tso˧, | ɣɯ˩-ʈʂʰɯ˥, | le˧-ʐv̩˧-zo˥, | qʰɑ˩ne˩˥ |	ə˧v̩˧-hĩ˥ | ɖɯ˧-ʁo˩-dʑo˩-kv̩˩! | ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ne˧-ʝi˥ | mɤ˧-ɲi˩-zo˩! |</FORM>
+		<FORM>tʰi˩˥, | dzɑ˩qʰwɤ˩-ʈʂʰɯ˥, | əəə… ə˧tso˧, | ɣɯ˩-ʈʂʰɯ˥, | le˧-ʐv̩˧-zo˥, | qʰɑ˩ne˩˥ | ə˧v̩˧-hĩ˥ | ɖɯ˧-ʁo˩-dʑo˩-kv̩˩! | ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ne˧-ʝi˥ | mɤ˧-ɲi˩-zo˩! |</FORM>
 		<NOTE xml:lang="fr" message="Avant 2018: noté /ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ni˧˥/"/>
 		<TRANSL xml:lang="fr">Pour ce qui est des chaussures, on cousait le cuir, il y en avait de vraiment magnifiques! Elles n'étaient pas comme celles d'aujourd'hui! </TRANSL>
 		<TRANSL xml:lang="zh">鞋子呢，那么，有非常好看的一种，是缝皮而做出来的！不是像今日的！</TRANSL>
@@ -1879,8 +1879,7 @@
 	<S id="CaravansS279">
 		<AUDIO start="1493.8663" end="1502.0659"/>
 		<FORM>"&lt;ʐwæ˧-se…&gt;ʐɤ˩ se˩-zo˩-ni˥, | ɖɯ˧-v̩˧ si˧ ʑi˧ hõ˧˥! | əəə… ɖɯ˧-v̩˧ dʑɯ˩
-			qwæ˩-hõ˩˥! | ɖɯ˧-v̩˧, | mv̩˧ kʰɯ˩-hõ˩!" | pi˧-zo˩, | ə˧mi˧=ɻæ˩-ɳɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ |
-			ʈʂæ˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
+			qwæ˩-hõ˩˥! | ɖɯ˧-v̩˧, | mv̩˧ kʰɯ˩-hõ˩!" | pi˧-zo˩, | ə˧mi˧=ɻæ˩-ɳɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂæ˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">"Maintenant vous allez faire comme les caravaniers! Y'en a un qui va chercher du bois! Y'en a un qui va puiser de l'eau! Y'en a un qui va faire le feu!"Voilà comment elles les envoyaient [chacun effectuer une certaine tâche]!</TRANSL>
 	</S>
 	<S id="CaravansS280">
