@@ -891,7 +891,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>-kv̩˧˥</FORM>
@@ -917,7 +916,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>ɲi˩</FORM>
@@ -1232,7 +1230,7 @@
 		<W>
 			<FORM>ɲi˥</FORM>
 			<TRANSL xml:lang="fr">écouter</TRANSL>
-			<TRANSL xml:lang="fr">listen</TRANSL>
+			<TRANSL xml:lang="en">listen</TRANSL>
 		</W>
 		<W>
 			<FORM>-zo</FORM>
@@ -3579,7 +3577,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>kv̩˩</FORM>
@@ -3605,7 +3602,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>ʐwɤ˩</FORM>
@@ -4090,7 +4086,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>ɲi˩</FORM>
@@ -4116,7 +4111,6 @@
 			<FORM>dʑo˧b</FORM>
       <TRANSL xml:lang="fr">°exist.avoir/y_avoir</TRANSL>
       <TRANSL xml:lang="en">°exist.to_have/to_be_there</TRANSL>
-			<TRANSL xml:lang="en">°exist</TRANSL>
 		</W>
 		<W>
 			<FORM>ɲi˩</FORM>
@@ -4352,7 +4346,7 @@
 	<FORM kindOf="phono">kʰv̩˩mi˩-zɯ˩~zɯ˥-dʑo˩, | ə˧-sɯ˩kv̩˩-ki˩ ki˩! |</FORM>
 	<FORM kindOf="ortho"> Kumi ssissi jjo osigu gi gi!</FORM>
 	<TRANSL xml:lang="fr">la longévité du chien, elle nous a été donnée à nous!</TRANSL>
-	<TRANSL xml:lang="fr">The dog's lifespan was given to us!</TRANSL>
+	<TRANSL xml:lang="en">The dog's lifespan was given to us!</TRANSL>
 	<TRANSL xml:lang="zh">狗的生命，给咱们了！</TRANSL>
 		<W>
 			<FORM>kʰv̩˩mi˩</FORM>
@@ -4881,7 +4875,7 @@
 		<W>
 			<FORM>ɖɯ˧-so˩-kʰwɤ˩</FORM>
 			<TRANSL xml:lang="fr">quelques-morceaux</TRANSL>
-			<TRANSL xml:lang="fr">some-bits</TRANSL>
+			<TRANSL xml:lang="en">some-bits</TRANSL>
 		</W>
 		<W>
 			<FORM>lɑ</FORM>
