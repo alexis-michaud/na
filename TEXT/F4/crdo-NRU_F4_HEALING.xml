@@ -50,7 +50,7 @@
 	</S>
 	<S id="HealingS006">
 		<AUDIO start="25.5060" end="27.2574"/>
-		<FORM>tʰi˩˥ |, ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ʝi˧-bi˧-di˧ mɤ˧-di˥! |</FORM>
+		<FORM>tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ʝi˧-bi˧-di˧ mɤ˧-di˥! |</FORM>
 		<NOTE xml:lang="fr" message="mɤ˧-di˩: il n'y a pas"/>
 		<TRANSL xml:lang="fr">Autrefois, on ne savait vraiment pas quoi faire! (littéralement: "il
 			n'y avait aucune chose qu'on puisse faire")</TRANSL>
@@ -267,7 +267,7 @@
 	</S>
 	<S id="HealingS038">
 		<AUDIO start="165.7111" end="171.2282"/>
-		<FORM>əəə… ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-dɑ˧˥, | mv̩˩-dɑ˧˥, | gɤ˩-dɑ˧˥, | mv̩˩-dɑ˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-dʑo˧ | tʰi˩˥, |, wɤ˩˥, | ɖɯ˧-so˩ ʂɯ˩ ʝi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>əəə… ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-dɑ˧˥, | mv̩˩-dɑ˧˥, | gɤ˩-dɑ˧˥, | mv̩˩-dɑ˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-dʑo˧ | tʰi˩˥, | wɤ˩˥, | ɖɯ˧-so˩ ʂɯ˩ ʝi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr"
 			message="vérifié, n'est pas /ɖɯ˧-so˩ ʂɯ˩ | ʝi˧-tsɯ˩ ◊ -mv̩˩/, mais un seul groupe tonal: /ɖɯ˧-so˩ ʂɯ˩ ʝi˩-tsɯ˩…/"/>
 		<NOTE xml:lang="fr"

@@ -2273,7 +2273,7 @@
   </S>
   <S id="Sister_S036">
     <AUDIO start="122.2879" end="126.5626"/>
-    <FORM kindOf="phono">tʰi˧-dzi˩ dʑo˩ | hĩ˧=ɻæ˥ | le˧-dzɯ˥ dʑo˩ | tʰi˩˥, | le˧-dzɯ˥ | le˧-dzɯ˥ | pi˧ dʑo˩ |ʈʂʰɯ˧-ɳɯ˧ | tʰi˩˥, |</FORM>
+    <FORM kindOf="phono">tʰi˧-dzi˩ dʑo˩ | hĩ˧=ɻæ˥ | le˧-dzɯ˥ dʑo˩ | tʰi˩˥, | le˧-dzɯ˥ | le˧-dzɯ˥ | pi˧ dʑo˩ | ʈʂʰɯ˧-ɳɯ˧ | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">Teezzee jjo, hinlae lezzi jjo, tiq, lezzi lezzi bi jjo, tee nee, tiq,</FORM>
     <NOTE xml:lang="fr" message="pi˧ dʑo˩: soupçonné en 2006 qqch en ellipse; retravail 2007: semble ne rien y avoir; même constat en 2009"/>
     <TRANSL xml:lang="fr">il reste assis; les gens mangent, mangent, mangent; et alors, lui [dans son coin]:</TRANSL>
@@ -2915,7 +2915,7 @@
   </S>
   <S id="Sister_S049">
     <AUDIO start="153.8218" end="158.3136"/>
-    <FORM kindOf="phono">&lt;tʰi˩˥, | ə˧mv̩˩ ki˧ tʰi˧-mɤ˧-tɕ… go˧mi˧…&gt; ə˧mv̩˧˥ | le˧-tsʰɯ˩ | tʰi˩˥, | go˧mi˧-ɳɯ˧ |ə˧mv̩˧˥ | mɤ˧-sɯ˥-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">&lt;tʰi˩˥, | ə˧mv̩˩ ki˧ tʰi˧-mɤ˧-tɕ… go˧mi˧…&gt; ə˧mv̩˧˥ | le˧-tsʰɯ˩ | tʰi˩˥, | go˧mi˧-ɳɯ˧ | ə˧mv̩˧˥ | mɤ˧-sɯ˥-tsɯ˩ ◊ -mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, amu lecee, tiq, ggomi nee amu mesi zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté: ə˧mv̩˥ ki˥ tʰi˧ mɤ˧-ki˥, go˧mi˧…"/>
     <NOTE xml:lang="fr" message="observation phonétique: syllabe mv̩˩ très réduite"/>
@@ -3298,8 +3298,7 @@
   </S>
   <S id="Sister_S057">
     <AUDIO start="173.8778" end="178.6544"/>
-    <FORM kindOf="phono">le˧-hɯ˩ dʑo˩ | tʰi˩˥, | go˧mi˧ ʈʂʰɯ˧-v̩˧ dʑo˩ | «õ˧ ə˧mv̩˥ | ɲi˩-ze˩» | ʂv̩˧ɖv̩˧-zo˩ |tʰi˩˥,
-      |</FORM>
+    <FORM kindOf="phono">le˧-hɯ˩ dʑo˩ | tʰi˩˥, | go˧mi˧ ʈʂʰɯ˧-v̩˧ dʑo˩ | «õ˧ ə˧mv̩˥ | ɲi˩-ze˩» | ʂv̩˧ɖv̩˧-zo˩ | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">Lehee jjo, tiq: "Ggomi teevu jjo onq amu niq ssei" shuddu sso, tiq,
      </FORM>
     <NOTE xml:lang="fr" message="tons vérifiés"/>
