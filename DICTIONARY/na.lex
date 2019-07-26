@@ -64346,8 +64346,8 @@
 \so <print="n"> F4
 \pdl classifier
 \pdv ʈʂæ˧˥
-\de Articulation.
-\ge articulation
+\de Joint (of body).
+\ge joint
 \dn 关节
 \gn 关节
 \df Articulation.
