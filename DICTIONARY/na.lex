@@ -20086,7 +20086,7 @@
 \dt 03/Aug/2017
 
 \lx hɤ˩-ʂe˩ʂe˩
-\or heqsheiqsheiq
+\or hesheishei
 \ps adj
 \nt <type="hist" print="n"> Ne s'emploie pas sans |fv{-hĩ}
 \ton L
