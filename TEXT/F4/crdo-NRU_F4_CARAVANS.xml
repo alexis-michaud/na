@@ -264,7 +264,8 @@
 	</S>
 	<S id="CaravansS037">
 		<AUDIO start="231.3488" end="240.9839"/>
-		<FORM>ɕi˧ʈʂʰwæ˧ | le˧-tɕɯ˧˥, | wɤ˩˥, | sɯ˧pʰi˧-ki˧ ki˩. | ə̃! tʰi˩˥, | ho˧di˧ | le˧-tsʰɯ˩-se˩, | ɕi˧ʈʂʰwæ˧ tɕɯ˧˥ | le˧-po˧-jo˥! | mmm… ɑ˩ʁo˧, |</FORM>
+		<FORM>ɕi˧ʈʂʰwæ˧ | le˧-tɕɯ˧˥, | wɤ˩˥, | sɯ˧pʰi˧-ki˧ ki˩. | ĩ˧! tʰi˩˥, | ho˧di˧ | le˧-tsʰɯ˩-se˩, | ɕi˧ʈʂʰwæ˧ tɕɯ˧˥ | le˧-po˧-jo˥! | mmm… ɑ˩ʁo˧, |</FORM>
+		<NOTE xml:lang="fr" message="avant 2020, noté /ə̃/ et non /ĩ˧/."/>
 		<TRANSL xml:lang="fr">On transportait du riz, et on le donnait au seigneur. Eh! Quand on revenait du Sichuan, on rapportait du riz, par caravane!</TRANSL>
 		<TRANSL xml:lang="zh">把大米带回来，交给土司。从四川回来，就用马把大米驮回来！</TRANSL>
 	</S>
@@ -471,7 +472,8 @@
 	</S>
 	<S id="CaravansS068">
 		<AUDIO start="403.7628" end="415.6276"/>
-		<FORM>əəə… tsʰe˧! ə̃, | jɤ˧ŋɤ˧! | o! jɤ˧ŋɤ˧ hɯ˧-ɲi˥-wɤ˩! | jɤ˧ŋɤ˧-dʑo˧, | ʂe˧ʈʂe˩-lɑ˩ | əəə… ʁo˧ni˥ dʑo˩-kv̩˩! |</FORM>
+		<FORM>əəə… tsʰe˧! ĩ˧, | jɤ˧ŋɤ˧! | o! jɤ˧ŋɤ˧ hɯ˧-ɲi˥-wɤ˩! | jɤ˧ŋɤ˧-dʑo˧, | ʂe˧ʈʂe˩-lɑ˩ | əəə… ʁo˧ni˥ dʑo˩-kv̩˩! |</FORM>
+		<NOTE xml:lang="fr" message="avant 2020, noté /ə̃/ au lieu de /ĩ˧/."/>
 		<TRANSL xml:lang="fr">Du sel, oui! On allait à Chengdu! Chengdu, il y avait là-bas (=on y trouvait) du tissu de coton et… des coiffes en fil!</TRANSL>
 		<TRANSL xml:lang="zh">盐巴，当然有啊！去成都，那儿有棉布、有发带！</TRANSL>	
 	</S>

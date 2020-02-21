@@ -539,10 +539,8 @@
 	</S>
 	<S id="Elders3S065">
 		<AUDIO start="391.6076" end="396.2412"/>
-		<FORM>njæ˧sɯ˩kv̩˩ zo˩mv̩˩ ʈʂʰɯ˩-tɕi˩-dʑo˩, | ʁɑ˩mi˧! | kə˧ʈʂɯ˩ | mɤ˧-ɲi˧-zo˥!" | pi˧-zo˩, |
-			njɤ˧ | ə˧si˧-ki˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr"
-			message="on pourrait également dire: ʐwɤ˩ kv̩˩-mv̩˥ |, en un seul groupe tonal. "/>
+		<FORM>njæ˧sɯ˩kv̩˩ zo˩mv̩˩ ʈʂʰɯ˩-tɕi˩-dʑo˩, | ʁɑ˩mi˧! | kɤ˧ʈʂɯ˩ | mɤ˧-ɲi˧-zo˥!" | pi˧-zo˩, | njɤ˧ | ə˧si˧-ki˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr" message="on pourrait également dire: ʐwɤ˩ kv̩˩-mv̩˥ |, en un seul groupe tonal. "/>
 		<TRANSL xml:lang="fr">Nos enfants à nous, quelle pitié! ils ne sont pas obéissants!" Voilà
 			ce qu'ils disaient à mon aïeule!</TRANSL>
 	</S>
