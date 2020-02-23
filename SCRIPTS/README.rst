@@ -9,4 +9,4 @@ Some simple scripts for linguistic data on the Yongning Na language (nɑ˩-ʐwɤ
 
 Further explanations are provided as comments inside each script.
 
-Also note the script for preprocessing Na data for use with the Persephone automatic transcription toolkit, here: https://github.com/persephone-tools/persephone/blob/master/persephone/datasets/na.py
+Also note the script by Oliver Adams for preprocessing Na data for use with the Persephone automatic transcription toolkit, here: https://github.com/persephone-tools/persephone/blob/master/persephone/datasets/na.py
