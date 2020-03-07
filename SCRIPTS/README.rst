@@ -8,3 +8,5 @@ Some simple scripts for linguistic data on the Yongning Na language (nɑ˩-ʐwɤ
 * **NaTone** is a Perl script that generates the tone patterns of numeral-plus-classifier phrases on the basis of underlying tones. It was written with an ambitious goal in view: generating surface-phonological tone patterns for the entire morpho-phonological system of Yongning Na. Hence its 'generic' name, **NaTone**, and its internal organization that separates various functions. 
 
 Further explanations are provided as comments inside each script.
+
+Also note the script by Oliver Adams for preprocessing Na data for use with the Persephone automatic transcription toolkit, here: https://github.com/persephone-tools/persephone/blob/master/persephone/datasets/na.py
