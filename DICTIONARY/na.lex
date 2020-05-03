@@ -14535,7 +14535,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (avant 09: noté /æ˧mv̩˥tɕi˧ gv̩˧/) (n'est pas tɕɯ)
-\np idée d'analyse en novembre 2008: serait ə.mv.tɕi, le æ étant déterminé par le /v/ de la 2e voyelle? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
+\np idée d'analyse en novembre 2008: serait ə.mv̩.tɕi, le æ étant déterminé par le /v̩/ de la 2e syllabe? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv̩/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
 \ton H#-
 \lc ə˧mv̩˥tɕi˩
 \so <print="n"> F4
@@ -34083,7 +34083,7 @@
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np (cognat probable du naxi /mv/)
+\np (cognat probable du naxi /mv̩/)
 \ton L
 \lc --
 \so <print="n"> F4
@@ -35994,7 +35994,7 @@
 \lc mv̩˩tɕo˥
 \so <print="n"> F4
 \va <speaker="M23"> mv̩˩tɕu˧
-\vf phonétiquement, [m], syllabe entièrement nasale; dans ce contexte, évoque [mi], mais est bien /mv/
+\vf phonétiquement, [m], syllabe entièrement nasale; dans ce contexte, évoque [mi], mais est bien /mv̩/
 \de Downward.
 \ge downward
 \dn 往下
@@ -58507,10 +58507,12 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
-\np se simplifie souvent en quelque chose comme ʈʰææ̃˧ ou ʈʰæː˧. En décembre 2011, commence à uniformiser la notation de la forme réduite en: ʈʰææ̃˧.
+\np se simplifie souvent en quelque chose comme ʈʰææ̃˧ ou ʈʰæː˧. En décembre 2011, commence à uniformiser la notation de la forme réduite en: [ʈʰææ̃˧].
 \ton L#
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so <print="n"> F4
+\va ʈʰææ̃˧
+\vf La réalisation la plus courante est fortement réduite, proche de [ʈʰææ̃˧].
 \de Really, actually.
 \ge really
 \dn 真的
@@ -59098,7 +59100,7 @@
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" print="n"> avant 2012: noté †ʈæ˧ʂɯ˧-lɑ˩mv̩˩
-\np il n'existe pas actuellement de forme /lɑ.mv/ disyllabique, seulement en composition
+\np il n'existe pas actuellement de forme /lɑ.mv̩/ disyllabique, seulement en composition
 \ton -L
 \lc ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
 \so <print="n"> F4

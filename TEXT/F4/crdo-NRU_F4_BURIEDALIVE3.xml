@@ -58,7 +58,7 @@
 		<FORM>ʐɯ˧ le˧-ʈʰɯ˩ | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩ | tʰi˩˥, |
 			ɖɯ˩-hĩ˩ ʈʂʰɯ˩-tɕi˥-dʑo˩ | lo˧ ʝi˧-hɯ˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
-			message="répétition de /ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩/: pas très claire, fait penser à une séquence tonale M.H.L.L…; mais est identifié par la locutrice comme une simple répétition de ce qui précède."/>
+			message="répétition de /ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩/: pas très claire, fait penser à une séquence tonale M.H.L.L…; en outre, Ludger Paschen (communication personnelle 2020) relève : 'the second hɯdʑo sounds more like kVʑi'. Mais cette séquence est identifiée par la locutrice comme une simple répétition de ce qui précède."/>
 		<TRANSL xml:lang="fr">Quand on a eu fêté le mariage, qu'elle est partie auprès d'eux
 			(=auprès de sa nouvelle famille), eh bien, eux, les adultes, ils sont partis
 			travailler.</TRANSL>
@@ -101,8 +101,8 @@
 	</S>
 	<S id="BuriedAlive3S009">
 		<AUDIO start="65.2095" end="70.6951"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-lɑ˩, | zo˩no˥… | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ | ʈʂʰɯ˧=zɯ˩,
-			| fv̩˧~fv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-lɑ˩, | zo˩no˥… | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ | ʈʂʰɯ˧=zɯ˩-dʑo˩,	| fv̩˧~fv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr" message="Le /-dʑo˩/ dans /ʈʂʰɯ˧=zɯ˩-dʑo˩/ a été ajouté en mai 2020, suite à une observation de Ludger Paschen."/>
 		<TRANSL xml:lang="fr">Auparavant, no˩bv̩˧-tsʰɯ˩ɻ̍˩ et, euh… ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, ces deux-là,
 			ils s'aimaient bien!</TRANSL>
 		<TRANSL xml:lang="zh">以前，诺布次尔和这个女孩子（名字叫独知拉搓），他俩曾互相喜欢！</TRANSL>
@@ -215,7 +215,7 @@
 		<NOTE xml:lang="fr"
 			message="L'hésitation sur le nom de la protagoniste tient au fait que la conteuse a modifié son nom, pour ne pas utiliser un nom porté par des femmes de sa famille, qu'il ne s'agit pas de mêler même indirectement à des histoires peu reluisantes. Le nom dans la version que la conteuse tient de sa famille était: /ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩/."/>
 		<NOTE xml:lang="fr"
-			message="/tʰv̩˧/: est le démonstratif distal; /mv/: indique la direction."/>
+			message="/tʰv̩˧/: est le démonstratif distal; /mv̩/: indique la direction."/>
 		<TRANSL xml:lang="fr">Et comme elle mangeait, pendant que no˩bv̩˧-tsʰɯ˩ɻ̍˩ l'observait, une
 			de ses tantes [revenue à l'improviste a soudain] appelé: "ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩!"; alors [la
 			jeune fille] a avalé l'œuf [tout rond]!</TRANSL>
@@ -1123,7 +1123,7 @@
 		<NOTE xml:lang="fr"
 			message="vérifié le sens de: /hĩ˧ qæ˥-ze˩-mv̩˩/: c'est ici la mère de la jeune femme qui parle, disant: 'Moi aussi, au début, j'ai pensé qu'il se moquait de moi'."/>
 		<NOTE xml:lang="fr"
-			message="d'abord noté /‡hĩ˧ qæ˥-ze˩-mv̩˩ | ʂv̩˧ɖv̩˧-ze˩/; /mv/ est ici la particule finale affirmative"/>
+			message="d'abord noté /‡hĩ˧ qæ˥-ze˩-mv̩˩ | ʂv̩˧ɖv̩˧-ze˩/; /mv̩/ est ici la particule finale affirmative"/>
 		<TRANSL xml:lang="fr">"Non! C'est bien vrai! ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, elle… moi, c'est [aussi] ce
 			que j'ai pensé: je me suis dit qu'on se moquait de moi/que c'était une
 			plaisanterie!"</TRANSL>

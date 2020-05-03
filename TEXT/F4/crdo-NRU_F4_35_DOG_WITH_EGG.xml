@@ -3233,9 +3233,10 @@
 		</W>
 </S>
 <S id="Dog_S041"><AUDIO start="250.4524" end="265.7347"/>
-	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧ɲi˧ | tʰi˩˥, | tʰv̩˧-hɑ̃˩, | kʰv̩˩mi˩-ɳɯ˥, | njæ˧-sɯ˩kv̩˩ | zɯ˧~zɯ˧ ki˧-hĩ˧ | kʰv̩˩mi˩-ki˥-ki˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩-ɳɯ˥, | tʰv̩˧-kʰv̩˩, | ʂe˧-sɯ˩ | dzɯ˧, | hɑ˧-lɑ˩ | ʂe˧-sɯ˩ | dzɯ˧, | dʑɯ˧ | mɤ˧-ʈʰɯ˩ | pi˧-dʑo˩, | tʰv̩˧-kʰv̩˩, | hi˩ gi˩ mɤ˥-kv̩˩-tsɯ˩ ◊ -mv̩˩! | mv̩˧ | pv̩˩ ʐwæ˩-kv̩˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧ɲi˧ | tʰi˩˥, | tʰv̩˧-hɑ̃˩, | kʰv̩˩mi˩-ɳɯ˥, | njæ˧-sɯ˩kv̩˩ | zɯ˧~zɯ˧ ki˧-hĩ˧ &lt;pi˧&gt; | kʰv̩˩mi˩-ki˥-ki˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩-ɳɯ˥, | tʰv̩˧-kʰv̩˩, | ʂe˧-sɯ˩ | dzɯ˧, | hɑ˧-lɑ˩ | ʂe˧-sɯ˩ | dzɯ˧, | dʑɯ˧ | mɤ˧-ʈʰɯ˩ | pi˧-dʑo˩, | tʰv̩˧-kʰv̩˩-dʑo˩, | hi˩ gi˩ mɤ˥-kv̩˩-tsɯ˩ ◊ -mv̩˩! | mv̩˧ | pv̩˩ ʐwæ˩-kv̩˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 	<FORM kindOf="ortho">on teeni, tiq, teehan, kumi nee nyasigu ssissi gihin kumi gi gi jjo, tiq, kumi nee teeku shei see zzi, ha la shei see zzi, jji metee bi jjo, teeku xieggi megu zimu! Mubeu ruaeq guq zimu!</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: est bien: hɑ˧-lɑ˩ ʂe˧-sɯ˩ dzɯ˧"/>
+	<NOTE xml:lang="fr" message="Correction apportée en avril 2020, au vu d'une remarque de Ludger Paschen : deux syllabes manquaient à la transcription. D'une part /pi˧/ dans /zɯ˧~zɯ˧ ki˧-hĩ˧ &lt;pi˧&gt; |/, que la locutrice avait vraisemblablement choisi de ne pas répéter lors de la transcription, afin que le texte soit expurgé de cette syllabe. D'autre part /-dʑo˩/ dans /tʰv̩˧-kʰv̩˩-dʑo˩/."/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡hi˧ gi˧ mɤ˧-kv̩˧-tsɯ˥ | mv̩˩; est en fait: hi˩ gi˩ mɤ˥-kv̩˩-tsɯ˩ ◊ -mv̩˩, et non ‡hi˩ gi˩ mɤ˩-kv̩˩-tsɯ˥ | mv̩˩"/>
 	<TRANSL xml:lang="fr">Ce jour-là, eh bien, ce soir-là, nous autres, le chien, ce chien qui nous a donné son existence, [on observe ce qu'il mange:] [s'il] mange d'abord la viande/s'il commence par la viande, par les céréales et la viande, s'il ne boit pas, cette année-là, il ne pleuvra pas (trop), il fera bien sec (littéralement "le ciel sera tout sec")! (Explication: selon la tradition, si le chien commence par manger la nourriture sèche–viande et céréales–, on évitera un excès de pluie; si le chien commence par la soupe, il pleuvra à verse, au risque de faire pourrir les récoltes.)</TRANSL>
 	<TRANSL xml:lang="en">That day, well, that night, the dog, the dog who gave us his lifespan, well, (if you see it) eat the meat first that year, eat the rice and meat first, not drink water, it's said that that year it won't rain!  It will be very dry. [Note: According to tradition, if the dog ate the food before drinking the soup on New Year's Eve, that meant there would not be too much rain, so the crops would be able to ripen.  If the dog drank the soup before eating, there would be too much rain, causing the crops to rot.]</TRANSL>
@@ -3284,6 +3285,11 @@
 			<FORM>hĩ˥</FORM>
 			<TRANSL xml:lang="fr">°rel/°nmlz</TRANSL>
 			<TRANSL xml:lang="en">°rel/°nmlz</TRANSL>
+		</W>
+		<W>
+			<FORM>pi˥</FORM>
+			<TRANSL xml:lang="fr">dire</TRANSL>
+			<TRANSL xml:lang="en">say</TRANSL>
 		</W>
 		<W>
 			<FORM>kʰv̩˩mi˩</FORM>
@@ -3394,6 +3400,11 @@
 			<FORM>tʰv̩˧-kʰv̩˩</FORM>
 			<TRANSL xml:lang="fr">°dem.dist-année</TRANSL>
 			<TRANSL xml:lang="en">°dem.dist-year</TRANSL>
+		</W>
+		<W>
+			<FORM>dʑo˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
+			<TRANSL xml:lang="en">°top</TRANSL>
 		</W>
 		<W>
 			<FORM>hi˩˧</FORM>
@@ -3853,8 +3864,9 @@
 		</W>
 </S>
 <S id="Dog_S047"><AUDIO start="289.1882" end="293.0895"/>
-	<FORM kindOf="phono">no˧-sɯ˩kv̩˩ | tsʰe˩so˩-kʰv̩˩˥ | ʈʰæ˩ki˩-kv̩˥-hĩ˩-ʈʂʰɯ˩-dʑo˩, | ə˧-sɯ˩kv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, |</FORM>
+	<FORM kindOf="phono">&lt;ə˧-...&gt;no˧-sɯ˩kv̩˩ | tsʰe˩so˩-kʰv̩˩˥ | ʈʰæ˩ki˩-kv̩˥-hĩ˩-ʈʂʰɯ˩-dʑo˩, | ə˧-sɯ˩kv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, |</FORM>
 	<FORM kindOf="ortho">Nosigu ceisoku taegi guhin tee jjo, osigu, eyishei,</FORM>
+	<NOTE xml:lang="fr" message="mention /&lt;ə˧-...&gt;/ ajoutée en avril 2020, suite à une observation de Ludger Paschen. 'Faux départ' / lapsus vite corrigé: il semble que la locutrice ait anticipé le pronom inclusif /ə˧-sɯ˩kv̩˩/ 'nous' qui apparaît peu après, d'où le /ə˧-.../, et se soit aussitôt reprise, enchaînant sans solution de continuité sur le pronom exclusif /no˧-sɯ˩kv̩˩/."/>
 	<TRANSL xml:lang="fr">Le fait que vous puissiez entrer dans l'âge adulte à treize ans, </TRANSL>
 	<TRANSL xml:lang="en">(When) you are thirteen years old, (you) have the coming of age ceremony, we (Na), long, long ago,</TRANSL>
 	<TRANSL xml:lang="zh">你们（到了）十三岁能有“给裙”礼，这件事情（来自）咱们在古时候……</TRANSL>

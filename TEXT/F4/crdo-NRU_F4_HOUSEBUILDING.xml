@@ -2493,6 +2493,11 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
+			<FORM>-kv̩˧˥</FORM>
+			<TRANSL xml:lang="fr">°abilitive</TRANSL>
+			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
 			<FORM>ho</FORM>
 			<TRANSL xml:lang="fr">°fut(/désidératif)</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
@@ -9310,8 +9315,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S143"><AUDIO start="638.0208" end="644.7460"/>
-	<FORM kindOf="phono">gɤ˧qo˥-ɳɯ˩, | wɤ˩˥, | &lt;si…&gt; mmm… &lt;gɤ˧…&gt; ʂwæ˩gv̩˩˥! ʂwæ˩gv̩˩-tʰv̩˥ | wɤ˩˥ | ɖɯ˧-ʈʂʰe˧~ʈʂʰe˧ | tʰi˧…-gv̩˩! |</FORM>
-	<FORM kindOf="ortho">Ggegho nee, uaq, shuaeggu! Shuaeggu tu, uaq, ddeecheichei teeggu!</FORM>
+	<FORM kindOf="phono">gɤ˧qo˥-ɳɯ˩, | wɤ˩˥, | &lt;si…&gt; mmm… &lt;gɤ˧…&gt; ʂwæ˩gv̩˩˥! ʂwæ˩gv̩˩-tʰv̩˥ | wɤ˩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʈʂʰe˧~ʈʂʰe˧ | tʰi˧…-gv̩˩! |</FORM>
+	<FORM kindOf="ortho">Ggegho nee, uaq, shuaeggu! Shuaeggu tu, uaq, tee niq yi ddeecheichei teeggu!</FORM>
+	<NOTE xml:lang="fr" message="/ʈʂʰɯ˧ne˧-ʝi˥ |/ dans /wɤ˩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʈʂʰe˧~ʈʂʰe˧/: ajouté en mai 2020, suite à une observation de Ludger Paschen."/>
 	<TRANSL xml:lang="fr">Sur cette partie haute, euh… on bâtit un buffet, tout au long de la pièce! (Note: le buffet/étagère est adossé au mur, et s'étend tout au long de la cloison.)</TRANSL>
 	<TRANSL xml:lang="en">On this upper part, um, there's also the kitchen cabinet. A long cabinet is constructed. [Note: The kitchen cabinet runs along the entire width of the wall.]</TRANSL>
 	<TRANSL xml:lang="zh">在这个地台上，要修一个大柜子（注：这个大柜子靠墙，有一整面墙那么宽。）</TRANSL>
@@ -9353,6 +9359,11 @@
 		<W>
 			<FORM>wɤ˩˥</FORM>
 			<TRANSL xml:lang="fr">à_nouveau</TRANSL>
+			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>ʈʂʰɯ˧ne˧-ʝi˥</FORM>
+			<TRANSL xml:lang="fr">ainsi</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
@@ -12149,7 +12160,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S185"><AUDIO start="838.5622" end="841.7129"/>
-	<FORM kindOf="phono">kwɑ˧tsʰɑ˧ | tɕɯ˧-bi˧-di˧-di˥ | m[ə˧]-ho˩! | pi˧-zo˩. | qwæ˧ | ɖɯ˧-pɤ˩ gv̩˩! |</FORM>
+	<FORM kindOf="phono">kwɑ˧tsʰɑ˧ | tɕɯ˧-bi˧-di˧-di˥ | m[ɤ˧]-ho˩! | pi˧-zo˩. | qwæ˧ | ɖɯ˧-pɤ˩ gv̩˩! |</FORM>
 	<FORM kindOf="ortho">Guaca ji bbiddi ddiq meho bi sso. Ghuae ddeebe gguq!</FORM>
 	<TRANSL xml:lang="fr">On dit qu'il ne faut pas se précipiter de mettre [le défunt] en bière / qu'il ne faut pas tout de suite mettre le défunt au cercueil! On construit le sommier [afin d'y placer provisoirement les défunts];</TRANSL>
 	<TRANSL xml:lang="en">Don't be in a rush to put (the body) into the coffin, they'd say. (First) build a bed [i.e.in the main room, where the body could initially be put].</TRANSL>
@@ -13201,7 +13212,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S198"><AUDIO start="907.2219" end="913.6832"/>
-	<FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥ | pʰɤ˧bɤ˧ po˧-jo˥-kv̩˩-mæ˩! | "ə˧mi˧! | no˧ | ʑi˧qʰwɤ˧-ʂɯ˧-qo˥ dzi˩-ze˩-mæ˩! | ɳæ˧-ɻ̍˩-se˩ | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | hɤ˩-ɲi˥! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥ | pʰɤ˧bɤ˧ po˧-jo˥-kv̩˩-mæ˩, | tʰv̩˧-so˩! | "ə˧mi˧! | no˧ | ʑi˧qʰwɤ˧-ʂɯ˧-qo˥ dzi˩-ze˩-mæ˩! | ɳæ˧-ɻ̍˩-se˩ | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | hɤ˩-ɲi˥! |</FORM>
 	<FORM kindOf="ortho">Tiq, hinlae nee pebbe boq yo guq mae! "Ami! No xxikhua shiq gho zzeeq ssei mae! Nae'er sei aezei tee niq yi heq niq!</FORM>
 	<NOTE xml:lang="fr" message="on pourrait dire également: no˧-ɻ̍˩-se˩; la différence est considérée comme une simple nuance de prononciation par F4, qui indique no˧-ɻ̍˩ comme étant la forme correcte."/>
 	<TRANSL xml:lang="fr">Les gens viennent avec des cadeaux. "Aahhh! Tu habites dans une maison toute neuve! Comme vous êtes habiles/comme vous êtes adroits [=Que vous avez construit une belle maison]!" (littéralement: "Comment se fait-il donc que vous soyez aussi habiles!") [disent les invités aux hôtes]</TRANSL>
@@ -13250,6 +13261,11 @@
 		<W>
 			<FORM>mæ˩</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
+			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>tʰv̩˧-so˩</FORM>
+			<TRANSL xml:lang="fr">ce_jour_là</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
@@ -13757,12 +13773,13 @@
 		</W>
 </S>
 <S id="HouseBuilding_S206"><AUDIO start="936.7376" end="939.0566"/>
-	<FORM kindOf="phono">dʑɤ˩tsʰo˧-ʈʂʰɯ˧, | ʐɯ˧dzi˧ ɲi˥ pi˩! |</FORM>
+	<FORM kindOf="phono">dʑɤ˩tsʰo˧-ʈʂʰɯ˧ ...-dʑo˩, | ʐɯ˧dzi˧ ɲi˥ pi˩! |</FORM>
 	<FORM kindOf="ortho">Jjaco tee, rizzee niq bi.</FORM>
 	<TRANSL xml:lang="fr">La danse, elle fête l'entrée dans les lieux! </TRANSL>
 	<TRANSL xml:lang="en">The dance, it's (part of) the housewarming.</TRANSL>
 	<TRANSL xml:lang="zh">跳舞，是乔迁庆宴（的一个组成部分）！</TRANSL>
  <NOTE xml:lang="fr" message="La précédente traduction était: 'Pour la pendaison de crémaillère, on passe du temps à boire [ensemble]! / La pendaison de crémaillère, ça se fête avec du bon vin!'; en chinois: 大家围坐着一起喝酒. En 2017, lors de la traduction de la deuxième version de ce récit (HOUSEBUILDING2), m'aperçois que /ʐɯ˧dzi˧/ ne veut pas dire 'être assis à boire du vin', mais désigne l'installation de la famille dans la maison qui vient d'être construite: l'entrée dans les lieux."/>
+  <NOTE xml:lang="fr" message="Le marqueur /-dʑo˩/ a été ajouté en mai 2020, suite à une observation de Ludger Paschen."/>
 		<W>
 			<FORM>dʑɤ˩tsʰo#˥</FORM>
 			<TRANSL xml:lang="fr">pendaison_de_crémaillère</TRANSL>
@@ -13771,6 +13788,11 @@
 		<W>
 			<FORM>ʈʂʰɯ˥</FORM>
 			<TRANSL xml:lang="fr">°top(°dem_prox)</TRANSL>
+			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>dʑo˩</FORM>
+			<TRANSL xml:lang="fr">°top</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
@@ -16839,6 +16861,7 @@
 <S id="HouseBuilding_S242"><AUDIO start="1151.1675" end="1155.6004"/>
 	<FORM kindOf="phono">pv̩-pv̩-pv̩! pi˧, | ʈʂʰɯ˧tɕo˧ bæ˧˥, | pv̩ pv̩ pv̩! pi˧, | ʈʂʰɯ˧tɕo˧ bæ˧˥ ◊ -se˩! | le˧-ɖwæ˩, | le˧-ɖwæ˩, | le˧-ɖwæ˩, | ɖwæ˧˥ | pʰo˩-kv̩˩-tsɯ˥-mæ˩! |</FORM>
 	<FORM kindOf="ortho">"Bububu" bi, teejo bbaeq, "bububu" bi, teejo bbaeq sei! Ledduae ledduae ledduae, dduaeq poq guq ziq mae!</FORM>
+	<NOTE xml:lang="fr" message="/ɖwæ˧˥ | pʰo˩-kv̩˩-tsɯ˥-mæ˩/: ne correspond pas bien à ce qu'on entend sur le signal audio, qui ressemblerait plutôt à /ɖwæ˩˥ | tsʰɯ˩-kv̩˩/ 'ils étaient pris de peur', éventuellement avec une trace infime d'une particule finale : /ɖwæ˩˥ | tsʰɯ˩-kv̩˩-mæ˩/. A revoir avec la locutrice xxxx"/>
 	<TRANSL xml:lang="fr">iii! iii! iii! ils courent par-ci, iii! iii! iii! ils courent par là; ils ont peur, peur, peur, ils s'enfuient à toute allure!</TRANSL>
 	<TRANSL xml:lang="en">"Bububu," they'd go, running here, "bububu", running there. They were terrified (of people) and would run away in fear, eh.</TRANSL>
 	<TRANSL xml:lang="zh">他们“布布布”地叫，这里跑、那里跑！它们（一见人）害怕得很，就跑掉！</TRANSL>
@@ -17882,9 +17905,10 @@
 		</W>
 </S>
 <S id="HouseBuilding_S253"><AUDIO start="1224.9022" end="1238.4741"/>
-	<FORM kindOf="phono">le˧-ʑi˩, | dʑɯ˩kʰi˩ tʰv̩˩˥, | tʰi˩˥, | njɤ˧ ə˧si˧ tʰv̩˧-ɳɯ˩, | ə˧mi˧ ə˧mi˧ o!! | &lt;njɤ˧ ljɤ˩ mɤ˧-…&gt; njɤ˧ ljɤ˩ | mɤ˧-dʑo˧-ze˧! | njɤ˧ ʑi˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɤ˩-hĩ˥ | ɖɯ˧-ɭɯ˧-dʑo˧, | mv̩˧-ɳɯ˩ | le˧-qæ˧-ze˥!" | pi˧-zo˩, | ŋv̩˩-kv̩˩˥ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">le˧-ʑi˩, | dʑɯ˩kʰi˩ tʰv̩˩˥, | tʰi˩˥, | njɤ˧ ə˧si˧ tʰv̩˧-ɳɯ˩, | ə˧mi˧ ə˧mi˧ wɤ˧!! | &lt;njɤ˧ ljɤ˩ mɤ˧-…&gt; njɤ˧ ljɤ˩ | mɤ˧-dʑo˧-ze˧ wɤ˧! | njɤ˧ ʑi˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɤ˩-hĩ˥ | ɖɯ˧-ɭɯ˧-dʑo˧, | mv̩˧-ɳɯ˩ | le˧-qæ˧-ze˥!" | pi˧-zo˩, | ŋv̩˩-kv̩˩˥ ◊ -mv̩˩!</FORM>
 	<FORM kindOf="ortho">Lexxi, jji ki tu, tiq, nya asee tee nee: "Ami, ami, o! Nya liaq mejjo ssei! Nya xximi tee niq yi jjahin ddeelee jjo mu nee leghae ssei!" bi sso, ngu guq mae!</FORM>
 	<NOTE xml:lang="fr" message="/ljɤ˩˧/: poutre maîtresse; distinct de /hæ̃˧kʰɤ˧˥/ 'poutrelle'"/>
+	<NOTE xml:lang="fr" message="Particule /wɤ˧/ : ajoutée en mai 2020, en 2 emplacements (suite à une observation de Ludger Paschen). Précédemment, la phrase était notée : /ə˧mi˧ ə˧mi˧ o!! | &lt;njɤ˧ ljɤ˩ mɤ˧-…&gt; njɤ˧ ljɤ˩ | mɤ˧-dʑo˧-ze˧! | /"/>
 	<TRANSL xml:lang="fr">On avait apporté [le bois de construction]; on était parvenu jusqu'au bord de l'eau [=on avait fait flotter les troncs sur la rivière, jusqu'à proximité du lieu de construction, et de là on les avait portés sur le bord]! Mon aïeule, [elle se lamentait de cet incendie criminel:] "Hélas! Hélas! Mes [belles] poutres, il n'y en a plus/les voilà parties en fumée! Mon bâtiment si beau, le feu l'a consumé!" disait-elle; elle en pleurait! (Note: ce n'était pas un bâtiment privé; le possessif reflète l'attachement que la grand-mère de la locutrice avait par avance pour ce bâtiment, dont la construction avait été préparée par les gens de Yongning.)</TRANSL>
 	<TRANSL xml:lang="en">(The timber) was taken as far as the river bank. Well, my great-grandmother said, "Alas, alas! My (wooden) beams are gone! My beautiful building has been burned down" and she wept.</TRANSL>
 	<TRANSL xml:lang="zh">（木料）已经拿过来了，已经（从山上扛下来了，然后都漂在水上了）到了水边（，把木料拉出来了到河岸）。我妈妈的妈妈（很伤心地说：）“啊呀！我这些梁，没有了！我的房子，这样漂亮的一个，火都烧没了！”她都哭了！</TRANSL>
@@ -17939,8 +17963,8 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>o</FORM>
-			<TRANSL xml:lang="fr">°interjection</TRANSL>
+			<FORM>wɤ˧</FORM>
+			<TRANSL xml:lang="fr">°disc_ptcl</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
@@ -17967,6 +17991,11 @@
 		<W>
 			<FORM>-ze˩</FORM>
 			<TRANSL xml:lang="fr">°pfv</TRANSL>
+			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>wɤ˧</FORM>
+			<TRANSL xml:lang="fr">°disc_ptcl</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>

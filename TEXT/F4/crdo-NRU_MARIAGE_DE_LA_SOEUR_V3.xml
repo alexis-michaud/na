@@ -363,7 +363,7 @@
 		<NOTE xml:lang="fr"
 			message="déploiement du ton de /ʂæ˧˥/; tous les verbes en série y compris la copule constituent son domaine de déplacement."/>
 		<NOTE xml:lang="fr"
-			message="F4 indique qu’on peut dire 'aîné' de deux façons: /ə˧mv̩˩/ (-dʑo˩); ou: /ə˧mv̩˧˥/ (-dʑo˩). Cela est propre à ce mot: ce n'est pas vrai de tous les tons d4 (L#): par exemple, «Tibétain», /ʁo˧dzi˩/, ne possède pas de variante /‡ʁo˧dzi˥/. (Un temps, avais noté /‡ə˧mv̩˥ dʑo˩/.) La voyelle initiale oscille entre [æ] et [ɑ]; un obstacle à son analyse comme /ə/ est le fait que «oncle», /ə˧v̩˧˥/, avec un /ə/ devant /v/, soit réalisé [ɤ˧v̩˧˥ - ə˧v̩˧˥], non [æ˧v̩˧˥ - ɑ˧v̩˧˥]. Néanmoins il est possible de maintenir l'analyse comme /ə/ --convaincante au plan morphologique-- en faisant l'hypothèse d'une harmonie avec la voyelle différente selon qu'il y a ou non une consonne en début de syllabe suivante. L'analyse retenue (2012) est donc /ə˧mv̩˩/ plutôt que /æ.mv/. "/>
+			message="F4 indique qu’on peut dire 'aîné' de deux façons: /ə˧mv̩˩/ (-dʑo˩); ou: /ə˧mv̩˧˥/ (-dʑo˩). Cela est propre à ce mot: ce n'est pas vrai de tous les tons d4 (L#): par exemple, «Tibétain», /ʁo˧dzi˩/, ne possède pas de variante /‡ʁo˧dzi˥/. (Un temps, avais noté /‡ə˧mv̩˥ dʑo˩/.) La voyelle initiale oscille entre [æ] et [ɑ]; un obstacle à son analyse comme /ə/ est le fait que «oncle», /ə˧v̩˧˥/, avec un /ə/ devant /v/, soit réalisé [ɤ˧v̩˧˥ - ə˧v̩˧˥], non [æ˧v̩˧˥ - ɑ˧v̩˧˥]. Néanmoins il est possible de maintenir l'analyse comme /ə/ --convaincante au plan morphologique-- en faisant l'hypothèse d'une harmonie avec la voyelle différente selon qu'il y a ou non une consonne en début de syllabe suivante. L'analyse retenue (2012) est donc /ə˧mv̩˩/ plutôt que /æ.mv̩/. "/>
 		<TRANSL xml:lang="fr">le grand frère, jadis, il est parti chasser sur la montagne, à ce
 			qu’on raconte!</TRANSL>
 		<TRANSL xml:lang="zh">年长者的（=哥哥），从前，到深山狩猎去了！</TRANSL>
@@ -4700,9 +4700,9 @@
 		<AUDIO start="325.4686" end="331.7154"/>
 		<FORM>tɕʰi˧sɯ˥-tsɯ˩ ◊ -mv̩˩! | tɕʰi˧sɯ˥-pi˩ | tʰi˩˥, | le˧-ŋv̩˩ | le˧-ŋv̩˩ | tʰi˧-ʂɯ˧-ɲi˥-ze˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
 		<NOTE xml:lang="fr"
-			message="phonétiquement, le /mv/ dans tɕʰi˧sɯ˥-tsɯ˩ ◊ -mv̩˩ est proche de: tsɯ˩ mæ˩"/>
+			message="phonétiquement, le /mv̩/ dans tɕʰi˧sɯ˥-tsɯ˩ ◊ -mv̩˩ est proche de: tsɯ˩ mæ˩"/>
 		<NOTE xml:lang="fr" message="tons vérifiés, n’est pas pi˧"/>
-		<NOTE xml:lang="fr" message="tʰi˧-ʂɯ˧-ɲi˥-ze˩ mæ˩: vérifié: est /mæ/ et non /mv/"/>
+		<NOTE xml:lang="fr" message="tʰi˧-ʂɯ˧-ɲi˥-ze˩ mæ˩: vérifié: est /mæ/ et non /mv̩/"/>
 		<NOTE xml:lang="fr"
 			message="tons: comme dans les phrases 17 et 42 de la version 1, apparition d'un ton ˥ inattendu."/>
 		<TRANSL xml:lang="fr">[Elle s'est trouvée] affligée, à ce que dit l'histoire! Elle pleura,
@@ -4813,7 +4813,7 @@
 		<NOTE xml:lang="fr" message="d'abord noté /‡pi˩/"/>
 		<NOTE xml:lang="fr" message="d'abord noté zo˩ au lieu de ze˩"/>
 		<NOTE xml:lang="fr"
-			message="d'abord noté le˧-tse˩ mɤ˧-ɖɯ˧; hésité en août 2011 à noter le˧-tse˩-mɤ˩-ɖɯ˩; mais est en fait bien le˧-tse˩ mɤ˧-ɖɯ˧; cela correspond à la réalisation soignée par la locutrice, et aussi au fonctionnement phonologique car si l'ensemble formait un seul groupe phonologique, | le˧-tse˩ +mɤ+ɖɯ+ɲi+tsɯ+mv |, tous les tons à partir de …tse˩ devraient être bas (régularité: pas plus d'un sommet par groupe). Or la copule porte ici un ton haut."/>
+			message="d'abord noté le˧-tse˩ mɤ˧-ɖɯ˧; hésité en août 2011 à noter le˧-tse˩-mɤ˩-ɖɯ˩; mais est en fait bien le˧-tse˩ mɤ˧-ɖɯ˧; cela correspond à la réalisation soignée par la locutrice, et aussi au fonctionnement phonologique car si l'ensemble formait un seul groupe phonologique, | le˧-tse˩ +mɤ+ɖɯ+ɲi+tsɯ+mv̩ |, tous les tons à partir de …tse˩ devraient être bas (régularité: pas plus d'un sommet par groupe). Or la copule porte ici un ton haut."/>
 		<TRANSL xml:lang="fr">Comme elle était morte, eh bien, les gens [se sont dit]: "Eeeeh!"
 			Tous [les gens présents] ont dit: "Ca doit être son frère!"; ils se sont mis à sa
 			poursuite, [mais] n’ont pu le rattraper.</TRANSL>

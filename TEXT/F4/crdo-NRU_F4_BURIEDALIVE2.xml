@@ -486,7 +486,7 @@
 	</S>
 	<S id="BuriedAlive2S066">
 		<AUDIO start="331.0521" end="339.1778"/>
-		<FORM>ʁo˧dɑ˧, | &lt;mv…&gt; pʰæ˧tɕi˥-ɳɯ˩ | ʁɑ˧pv̩˧ tv̩˧-zo˥, | le˧-pʰv̩˧-hĩ˧ |
+		<FORM>ʁo˧dɑ˧, | &lt;mv̩…&gt; pʰæ˧tɕi˥-ɳɯ˩ | ʁɑ˧pv̩˧ tv̩˧-zo˥, | le˧-pʰv̩˧-hĩ˧ |
 			tʰv̩˧-v̩˧-lɑ˩, | mi˩zɯ˩ tʰv̩˩-v̩˩˥ | ʈʂʰɯ˧-ʑi˧˥ | ɑ˩ʁo˧-ə˧mi˧-ɳɯ˧ | tʰi˩˥ | pʰæ˧tɕi˥
 			tʰv̩˩-v̩˩&lt;dʑo˩&gt;[-ki˩] | "ʁɑ˩mi˧!" pi˧, | ɬo˧pv̩˥ ti˩-zo˩! |</FORM>
 		<NOTE xml:lang="fr"
@@ -676,8 +676,7 @@
 	</S>
 	<S id="BuriedAlive2S089">
 		<AUDIO start="470.6566" end="478.1241"/>
-		<FORM>tʰi˩˥, | to˩pv̩˧ | ɖɯ˧-ʂɯ˩ tʰi˩-tv̩˩, | mv… no˧-mv̩˩-ɳɯ˩ "qv-ɻ!" | pi˧-tsɯ˩, | njɤ˧
-			| wɤ˩˥ | le˧-ɖwæ˩-ze˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | to˩pv̩˧ | ɖɯ˧-ʂɯ˩ tʰi˩-tv̩˩, | mv̩… no˧-mv̩˩-ɳɯ˩ "qv-ɻ!" | pi˧-tsɯ˩, | njɤ˧ | wɤ˩˥ | le˧-ɖwæ˩-ze˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="/to˩pv̩˧/: au début"/>
 		<NOTE xml:lang="fr"
 			message="onomatopée: bruit d'un râclement de gorge profond: dans un soubresaut, la présumée défunte commence à recracher l'œuf"/>
@@ -953,7 +952,7 @@
 	<S id="BuriedAlive2S123">
 		<AUDIO start="658.9942" end="664.8749"/>
 		<FORM>zo˧-ɳɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥… | ɖʐv̩˧… | pʰæ˧tɕi˥ | ʈʂʰɯ˧-v̩˧-ɳɯ˩ | fv̩˧
-			le˧-ʐwɤ˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ə˧mi˧ &lt;ɕjæ˧ɕi˩-tsɯ˥ | mv̩˩&gt; gɯ˩-ʝi˥ gɯ˩ ʂv̩˩ɖv̩˩˥!
+			le˧-ʐwɤ˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ə˧mi˧ &lt;ɕjæ˧ɕi˩-tsɯ˥ | mv̩˩&gt; [gɯ˩-ʝi˥ gɯ˩ ʂv̩˩ɖv̩˩˥]!
 			|</FORM>
 		<NOTE xml:lang="fr" message="à la première transcription, noté: /‡ʈʂʰɯ˧-v̩˧-ɳɯ˧/."/>
 		<TRANSL xml:lang="fr">Alors, comme ce jeune homme lui expliquait la bonne nouvelle [selon
@@ -1155,10 +1154,9 @@
 	</S>
 	<S id="BuriedAlive2S149">
 		<AUDIO start="811.0085" end="816.2627"/>
-		<FORM>"ə˧mi˧! | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ ʈʂʰɯ˩-dʑo˩ | ʈʂʰɯ˧-ki˩ ki˩&lt;-dʑo˩&gt;[-zo˩], | ɻ̍˩ɬo˧ʈi˥
-			| hɯ˧-ze˧", | pi˧-ʝi˧! |</FORM>
-		<NOTE xml:lang="fr"
-			message="d'abord noté /‡ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˧/"/>
+		<FORM>"ə˧mi˧! | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ ʈʂʰɯ˩-dʑo˩ | ʈʂʰɯ˧-ki˩ ki˩&lt;-dʑo˩&gt;[-zo˩], | ɻ̍˩ɬo˧ʈi˥-zo˩ | hɯ˧-ze˧", | pi˧-ʝi˧! |</FORM>
+		<NOTE xml:lang="fr" message="d'abord noté /‡ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˧/"/>
+		<NOTE xml:lang="fr" message="syllabe /-zo˩/ dans /ɻ̍˩ɬo˧ʈi˥-zo˩/: ajoutée en avril 2020, suite à une observation de Ludger Paschen."/>
 		<TRANSL xml:lang="fr">"Houlà! Erchei Ddeema, après s'être mariée avec lui, elle est devenue
 			un démon!" Voilà ce que les gens vont dire!</TRANSL>
 	</S>

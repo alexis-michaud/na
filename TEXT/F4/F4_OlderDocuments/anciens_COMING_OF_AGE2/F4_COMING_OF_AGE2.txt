@@ -91,7 +91,7 @@ Alors... si c'est un jeune homme/un garçon, eh bien... Dans la pièce principal
 Il y a, euh... droite... [celui de] droite, et [celui de] gauche, n'est-ce pas!
 
 əəə... zo˩no˧, | mi˩zɯ˩˥ | -dʑo˩, | jo˩-qo˩-ɳɯ˥ | ki˩-kv˩-ze˥ mæ˩! |
-%Réalisation de /ki˩-kv˩-ze˥ mæ˩/ peu reconnaissable: ressemble à [*ki.kv.mv.ze]; mais la transcription a été vérifiée à plusieurs reprises: ce que la locutrice entendait dire, c'est bien /ki˩-kv˩-ze˥ mæ˩/.
+%Réalisation de /ki˩-kv˩-ze˥ mæ˩/ peu reconnaissable: ressemble à [*ki.kv.mv̩.ze]; mais la transcription a été vérifiée à plusieurs reprises: ce que la locutrice entendait dire, c'est bien /ki˩-kv˩-ze˥ mæ˩/.
 %Au lieu de /jo˩-qo˩-ɳɯ˥ | ki˩-kv˩-ze˥ mæ˩/, on pourrait également dire: /jo˩lo˩-qo˥-ɳɯ˩ | ki˩-kv̩˩-mæ˥/.
 Les jeunes femmes, c'est à droite (=dans la partie droite de la pièce, du côté du pilier droit) qu'elles enfilent [la jupe]! / La jeune fille, c'est dans la partie à droite de la pièce, du côté du pilier de droite, qu'elle va enfiler la jupe!
 
@@ -266,7 +266,7 @@ On se prosterne à nouveau devant la grand-mère! devant le grand-oncle! devant 
 wɤ˩˥ | ʈʂʰɯ˧-ʑi˧=ɻ˧-ɳɯ˥ | ŋv̩˧ | tʰi˧-ki˧-kv̩˥-mæ˩! |
 Et à nouveau... les gens de cette famille-là (=de la famille du père) donnent de l'argent!
 
-"ə˧mi˧! | njɤ˧ | <mv...> ʐv̩˧mi˧ ʈʂʰɯ˧-ɭɯ˧-dʑo˩, | tsʰe˧ʝi˧-dʑo˩, | ɖɯ˧-kʰv̩˧ ɖɯ˧-ze˥! | mmm... dʑɤ˩-kʰɯ˥!" |
+"ə˧mi˧! | njɤ˧ | <mv̩...> ʐv̩˧mi˧ ʈʂʰɯ˧-ɭɯ˧-dʑo˩, | tsʰe˧ʝi˧-dʑo˩, | ɖɯ˧-kʰv̩˧ ɖɯ˧-ze˥! | mmm... dʑɤ˩-kʰɯ˥!" |
 "Eeeeh! Ma petite-fille, cette année, la voilà qui a grandi (littéralement: "qui a grandi d'un an")! Meilleurs voeux/Tous mes voeux!" 
 
 "əəə... ə˧tso˧-mə˧-ɲi˩, | ɖʐe˧ ʂe˧-dʑo˧, | ɖʐe˧ ɖɯ˧-kʰɯ˧˥! | ʁwɤ˧ ʂe˧-dʑo˧, | ʁwɤ˧ ɖɯ˧-kʰɯ˧˥! | əəə... dʑɤ˩-kʰɯ˥!" | pi˧-zo˩-dʑo˩ | tʰi˩˥, | ŋv̩˧ | tʰi˧-ki˧. |
@@ -386,9 +386,9 @@ De nos jours, tous les gens viennent, par hameaux/villages entiers! Ils s'asseye
 tʰi˩˥, | ʈʰææ̃˧, | hæ̃˧qʰv˥, | dʑɤ˩tsʰo˧-kv˧-ze˥-mæ˩! |
 Vrai de vrai, dans la nuit/jusqu'en pleine nuit, on danse! 
 
-hæ̃˧qʰv˥, | dʑɤ˩tsʰo˧-dʑo˧ | tʰi˩˥, | əəə... dʑɤ˩tsʰo˧-hĩ˧ tʰv˧-v˧-ki˧, | ɕjo˩li˧ mv˥-hĩ˩-ki˩, | əəə... pʰæ˧ ʂv˧-di˧˥ | ɖɯ˧-bɤ˧ tʰi˥-ʈʂæ˩. | əəə... ɖʐe˧ tʰi˧-ki˧! |
+hæ̃˧qʰv˥, | dʑɤ˩tsʰo˧-dʑo˧ | tʰi˩˥, | əəə... dʑɤ˩tsʰo˧-hĩ˧ tʰv˧-v˧-ki˧, | ɕjo˩li˧ mv̩˥-hĩ˩-ki˩, | əəə... pʰæ˧ ʂv˧-di˧˥ | ɖɯ˧-bɤ˧ tʰi˥-ʈʂæ˩. | əəə... ɖʐe˧ tʰi˧-ki˧! |
 %tons de /dʑɤ˩tsʰo˧-dʑo˧/ vérifiés
-%On pourrait également dire: /ɕjo˩li˧ mv˥-hĩ˩ tʰv˩-v˩-ki˩/.
+%On pourrait également dire: /ɕjo˩li˧ mv̩˥-hĩ˩ tʰv˩-v˩-ki˩/.
 %de: /ʈʂæ˧˥/ 'fixer', 'accrocher'.
 En pleine nuit, pendant qu'on danse, eh bien... à ceux qui dansent, à ceux qui jouent de la flûte (=aux artistes qui participent à la fête)... on leur noue [autour du cou] un foulard [en cadeau]! [On leur] donne de l'argent! (Cela revient, pour la famille du jeune adulte, à récompenser les bateleurs/artistes amateurs pour leur contribution à  la soirée par laquelle s'achève la cérémonie 'enfiler-la-jupe/enfiler-le-pantalon'.)
 
@@ -401,7 +401,7 @@ Euh... dans le village, on annonce: "Venez donner un coup de main pour la danse!
 hĩ˧ | ɖɯ˧-tɑ˧˥ F | dʑɤ˩tsʰo˧-jo˧-kv˧˥! |
 Tout le monde vient danser!
 
-tʰi˩˥, | tsʰe˩-so˩-kʰv˩ F gv˩-ze˥ | pi˧, | tʰi˩˥, | ə˧mi˧ F | fv˧-kv˧-ze˥-mæ˩! | "njɤ˧-mv˩ | lə˧-ɖɯ˩-ze˩! | tsʰo˧qʰwɤ˩-dʑo˩, | ʈʰæ˩-ki˩-ɲi˥-ze˩!" | pi˧, | ə˧mi˧=ɻæ˩ | lə˧tɑ˧˥ | dʑɤ˩tsʰo˧-kv˧˥! |
+tʰi˩˥, | tsʰe˩-so˩-kʰv˩ F gv˩-ze˥ | pi˧, | tʰi˩˥, | ə˧mi˧ F | fv˧-kv˧-ze˥-mæ˩! | "njɤ˧-mv̩˩ | lə˧-ɖɯ˩-ze˩! | tsʰo˧qʰwɤ˩-dʑo˩, | ʈʰæ˩-ki˩-ɲi˥-ze˩!" | pi˧, | ə˧mi˧=ɻæ˩ | lə˧tɑ˧˥ | dʑɤ˩tsʰo˧-kv˧˥! |
 %/ə˧mi˧ F | fv˧-kv˧-ze˥-mæ˩/: vérifié, n'est pas /ə˧mi˧=ɻæ˩ | fv˧-kv˧-ze˥-mæ˩/ 'les tantes se réjouissent', mais 'la mère se réjouit', avec focalisation intonative de 'mère'.
 Alors, comme treize ans ont passé, la mère, elle, elle est ravie/elle a lieu d'être heureuse! "Ma fille a grandi! / Ca y est, ma fille est devenue une adulte! Dorénavant, elle portera la jupe/elle a maintenant franchi l'étape d' "enfiler-la-jupe"! Toutes les tantes dansent! 
 
