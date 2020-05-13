@@ -14,7 +14,7 @@ Contributions are indicated in the documents' metadata, and as notes inside the 
 
 The impetus for moving into GitHub came from computer science colleagues: Céline Buret, Benjamin Galliot, Séverine Guillaume at CNRS. 
 
-A motivation for having the Na data in a public repository was to allow full replicability of work done by `Oliver Adams <https://github.com/oadams/>`_ creating an automatic phonemic transcription tool for Yongning Na. The tool is available `here <https://github.com/persephone-tools/persephone>`_ and a description is available as: `Evaluating Phonemic Transcription of Low-Resource Tonal Languages for Language Documentation <https://halshs.archives-ouvertes.fr/halshs-01709648/document>`_.
+A motivation for having the Na data in a public repository was to allow full reproducibility of work done by `Oliver Adams <https://github.com/oadams/>`_ creating an automatic phonemic transcription tool for Yongning Na. The tool is available `here <https://github.com/persephone-tools/persephone>`_ and a description is available as: `Evaluating Phonemic Transcription of Low-Resource Tonal Languages for Language Documentation <https://halshs.archives-ouvertes.fr/halshs-01709648/document>`_.
 
 ::
 
