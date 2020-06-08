@@ -23,6 +23,9 @@
       <FORM>ə˧ʝi˧-ʂɯ˥ʝi˩</FORM>
       <TRANSL xml:lang="fr">jadis</TRANSL>
 	   <TRANSL xml:lang="en">long ago</TRANSL>
+	   <NOTE xml:lang="fr" message="Le mot 'jadis' est un composé formé de 'l'an passé', /ə˧ʝi˥/ (forme lexicale : //ə˧ʝi˥$//), et 'il y a deux ans', /ʂɯ˩ʝi˥/ (forme lexicale : //ʂɯ˩ʝi#˥//)."/>
+	   <NOTE xml:lang="en" message="The word for 'long ago' is a compound, made up of 'last year', /ə˧ʝi˥/ (lexical form: //ə˧ʝi˥$//), and 'two years ago', /ʂɯ˩ʝi˥/ (lexical form: //ʂɯ˩ʝi#˥//)."/>
+	   <NOTE xml:lang="zh" message="ə˧ʝi˧-ʂɯ˥ʝi˩，‘很久以前，古时候，传说古代’，是由两个部分组成的：‘去年’ /ə˧ʝi˥/ （深层形式为//ə˧ʝi˥$//）与‘前年’/ʂɯ˩ʝi˥/（深层形式为//ʂɯ˩ʝi#˥//）。"/>
     </W>
     <W>
       <FORM>dʑo˩</FORM>
