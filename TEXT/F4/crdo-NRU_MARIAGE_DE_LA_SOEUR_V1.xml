@@ -316,6 +316,8 @@
 		  <FORM>di˧˥</FORM>
 		  <TRANSL xml:lang="fr">poursuivre/chasser</TRANSL>
 		  <TRANSL xml:lang="en">chase/track</TRANSL>
+		  <NOTE xml:lang="fr" message="La décomposition de /tɕʰɯ˩di˩/ en un verbe 'chasser' et un objet 'le muntjac' est en partie une analyse étymologique : en synchronie, l'expression disyllabique paraît se comporter comme un unique morphème : un verbe signifiant 'chasser', qui peut s'employer pour la chasse à d'autres animaux que le muntjac."/>
+		  <NOTE xml:lang="en" message="The decomposition of /tɕʰɯ˩di˩/ into two morphemes, 'muntjac (a type of deer)' and 'to hunt', is more etymological than truly synchronic: the disyllabic expression as a whole currently means 'to hunt', and can be applied to other animals than muntjacs."/>
 		</M>
     </W>
     <W>
