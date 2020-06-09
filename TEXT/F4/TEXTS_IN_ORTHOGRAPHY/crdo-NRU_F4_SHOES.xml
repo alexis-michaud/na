@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="cocoon-886f8edf-daad-49b9-9a62-8907de49fb63" xml:lang="nru">
+ <HEADER></HEADER>
+    <FORM kindOf="ortho">Eyishei, Lhiddi tee jjo zzakhua ruq teejo, zzakhua mejjo niq mae!  Tiq, nyasigu Naq tee jjo zzakhua ruq megu mae, eyishei. Huae la huae guq jjo, tiq, Hae la Nahin tee nee nyasigu gi zzakhua ruq yi guq mae!  
+        Hreeq! Hreeq tee ledobi zzakhua leru. Yeto zzakhua bi sso, eyishei uaq, kiki teegho hunzzhae nikee teekee, evu guq mae! Hin hehin jjahin onq tee niq nee zzakhua ddeezzee ddeezzee la giq wu guq, on tee niq jjo guq mae.  
+        Tiq, eyishei Bbecoggu nee zzakhua ruq guq mae! Tiq, Bbecogguhin nee: "Bbecoggu yi ssei" bi sso, "Bbecoggu zzakhua huae bbi" bi sso, Bbecoggu yo guq. Eyishei, tee niq nya asee nee ruaq guq mae. Eyishei, "Nya'er Bbecoggu zzakhua huae bbi ssei" bi, zzhu'er lemumu.
+        Ddeeda, tiq, zzakhua ruq jjo, nya'er ama nee ruq bi jjo, ama gi huae sso niq mae. ‎‎Ssono niq zzhi gho qie megu. Teexxi jjo awo nee leru, jjabbo ddeelee gho keeq jjo guq. Jjabbo gho teekee, jjo tiq, nyasigu bbi huae bbi la qie guq mae. Ssono, zzakhua ruddi zozo teejo, osigu nosigu nee zzakhua huaq keeq niggu, ddeebbae ze. Tee niq aezo meni zozo tee, muzi tee jjo sso, tee niq ruhin jjo guq mae. Tiq, eyishei, nya asee nee tee niq ddeekua ruaq guq.</FORM>
+    <TRANSL xml:lang="cn">以前永宁没有缝鞋子的那些，是没有鞋子的。从前我们摩梭人是不会做鞋子的。我们只会买，以前，所以汉族和纳西人会来我们这里做鞋子。
+        皮！把皮子反过来做鞋子。以前有一种叫洋托鞋子的，旁边有两条红条，会漂亮！ 以前有能力的人厉害的人才能穿一双这种鞋子，就是这样的。
+        从前会在巴搓古做鞋子。然后巴搓古人会说：“来巴搓古了”，就会说：“去巴搓古买鞋子”，就会来巴搓古。以前我外祖母会这样说。以前说：“我们去永宁街上买鞋子”，会约好朋友们，以前。
+        ‎‎做鞋子的话，如果我们阿玛家做的话，都要来我家买。不像现在在街上卖。‎‎这家就把鞋子做好了装在柜子里。装在柜子里，我们去买的时候就会卖。那么，做鞋子的那些东西就像现在我们让他们补鞋子的一样。像这样任何模型都有, 会有这样做鞋子的。以前我祖母会说这样的一句。</TRANSL>
+    <TRANSL xml:lang="en">In the past, in Yongning, there weren't machines that made shoes, there weren't shoes. We Na didn't make shoes in the past. Actually, we would only buy shoes, so in the past Han and Naxi people would make shoes for us. 
+        Leather! Leather was turned leather inside out to make shoes. In the past there were shoes called "yeto", with two red threads on each side, they were so beautiful. It was only capable and clever people who could wear this kind of shoe.
+        Now, in the past shoes would be made in Bacuogu. People from Bacuogu would say, "Come to Bacuogu" and "Go to Bacuogu to buy shoes," and so people would go to Bacuogu. My great-grandmother use to tell it like this. In the past, they'd say, "Let's go to Bacuogu to buy shoes." Friends would make plans to go there. 
+        About making shoes, if the mother in a family could make shoes, people would buy shoes from that home. Not like now, when they are sold on the streets. This family would put the shoes they had made at home into a cupboard.  They would put them in a cupboard, then when we would go to buy them they would sell them to us. ‎‎Well, those machines they used for making shoes, that's the same thing that everybody gets people to mend shoes with these days. Whatever styles of shoes there are, there are shoes made like this. In the past my grandmother used to tell it like this.
+    </TRANSL>
+<S id='S1'>
+<FORM kindOf="ortho">Eyishei, Lhiddi tee jjo, aeggi?</FORM>
+<TRANSL xml:lang='cn'>以前，永宁啊。</TRANSL>
+<TRANSL xml:lang='en'>In the past, Yongning, right?</TRANSL>
+</S>
+
+    <S id='S2'>
+<FORM kindOf="ortho">Tiq, zzakhua ruq teejo, zzakhua mejjo niq mae! </FORM>
+<TRANSL xml:lang='cn'>缝鞋子的那些是没有鞋子的。</TRANSL>
+<TRANSL xml:lang='en'>Well, there weren't (machines that) made [lit: sewed] shoes, (there weren't) shoes, eh.</TRANSL>
+</S>
+
+    <S id='S3'>
+<FORM kindOf="ortho">Tiq, nyasigu Naq tee jjo zzakhua ruq megu mae, eyishei.</FORM>
+<TRANSL xml:lang='cn'>我们摩梭人是不会缝（做）鞋子的, 从前。</TRANSL>
+<TRANSL xml:lang='en'>We Na didn't make [lit: sew] shoes in the past.</TRANSL>
+</S>
+
+ 
+    <S id='S4'>
+        <FORM kindOf="ortho">Tae huae. Huae la huae guq jjo, tiq, Nahin tee nee, eyishei, ssono, Hae la Nahin tee nee nyasigu gi zzakhua ruq yi guq mae! </FORM>
+        <TRANSL xml:lang='cn'>买，（我们）只会买，所以纳西人，以前，那么汉族和纳西人会来我们这里缝（做）鞋子。</TRANSL>
+<TRANSL xml:lang='en'>‎‎Actually, (we) would only buy (shoes),  so Naxi people, in the past, well, Han and Naxi people would (come) to make [lit: sew] shoes for us, eh. </TRANSL>
+</S>
+
+    <S id='S5'>
+<FORM kindOf="ortho">Hreeq! Hreeq tee ledobi zzakhua leru.</FORM>
+<TRANSL xml:lang='cn'>皮！把皮子反过来缝（做）鞋子。</TRANSL>
+<TRANSL xml:lang='en'>Leather! Leather (was) turned leather inside out to make [lit: sew] shoes. </TRANSL>
+</S>
+
+    <S id='S6'>
+<FORM kindOf="ortho">Yeto zzakhua bi sso, eyishei, kiki teegho hunzzhae nikee teekee, evu guq mae!</FORM>
+<TRANSL xml:lang='cn'>以前有一种叫洋托鞋子的，旁边有两条红条，会漂亮！ </TRANSL>
+<TRANSL xml:lang='en'>In the past there were shoes called "yeto", (with) two red threads on each side, (they) were beautiful eh!</TRANSL>
+</S>
+
+    <S id='S7'>
+<FORM kindOf="ortho">Hin hehin, eyishei, jjahin onq tee niq nee zzakhua ddeezzee ddeezzee la giq wu guq, on tee niq jjo guq mae.  </FORM>
+<TRANSL xml:lang='cn'>以前，有能力的人厉害的人才能穿一双这种鞋子，就是这样的。</TRANSL>
+<TRANSL xml:lang='en'>In the past, it was only capable and clever people who could wear this kind of shoe, it was like this, eh.</TRANSL>
+</S>
+
+    <S id='S8'>
+<FORM kindOf="ortho">Tiq, ssono, eyishei Bbecoggu nee ruq guq mae!</FORM>
+<TRANSL xml:lang='cn'>从前，会在巴搓古缝。 </TRANSL>
+<TRANSL xml:lang='en'>Now, in the past (shoes) would be made [lit: sewn] in Bacuogu, eh.</TRANSL>
+</S>
+
+    <S id='S9'>
+<FORM kindOf="ortho">Zzakhua tee jjo.</FORM>
+<TRANSL xml:lang='cn'>鞋子的话。</TRANSL>
+<TRANSL xml:lang='en'>Shoes. </TRANSL>
+</S>
+
+    <S id='S10'>
+<FORM kindOf="ortho">Tiq, Bbecogguhin nee: "Bbecoggu yi ssei" bi sso, "Bbecoggu zzakhua huae bbi" bi sso, Bbecoggu yo guq.</FORM>
+<TRANSL xml:lang='cn'>然后巴搓古人会说“来巴搓古了”，就会说“去巴搓古买鞋子”，就会来巴搓古。</TRANSL>
+<TRANSL xml:lang='en'>Well, people from Bacuogu would say, "Come to Bacuogu" and "go to Bacuogu to buy shoes ", and so (they'd) come to Bacuogu.</TRANSL>
+</S>
+
+    <S id='S11'>
+<FORM kindOf="ortho">Eyishei, tee niq nya asee nee ruaq guq mae. </FORM>
+<TRANSL xml:lang='cn'>以前我外祖母会这样说。</TRANSL>
+<TRANSL xml:lang='en'>My great-grandmother use to tell it like this.</TRANSL>
+</S>
+
+    <S id='S12'>
+<FORM kindOf="ortho">Eyishei, "Nya'er Bbecoggu zzakhua huae bbi ssei" bi, zzhu'er lemumu, eyishei.</FORM>
+<TRANSL xml:lang='cn'>以前说“我们去永宁街上买鞋子”，会约好朋友们，以前。</TRANSL>
+<TRANSL xml:lang='en'>In the past, (they would) say, "Let's go to Bacuogu to buy shoes", friends would make plans (to go there), in the past. </TRANSL>
+</S>
+
+    <S id='S13'>
+<FORM kindOf="ortho">Ddeeda, tiq, zzakhua ruq jjo, nya'er ama nee ruq bi jjo, ama gi huae sso niq mae. </FORM>
+<TRANSL xml:lang='cn'>‎‎所有（的人），缝（做）鞋子的话，如果我们阿玛家缝（做）的话，都要来我家买。</TRANSL>
+<TRANSL xml:lang='en'>Everyone, about making shoes, if the mother (in a family) [lit: our mother] could make [lit: sew] shoes, (people would) buy shoes from (that) home [lit: mother] eh.</TRANSL>
+</S>
+
+    <S id='S14'>
+<FORM kindOf="ortho">Ssono niq zzhi gho qie megu. </FORM>
+<TRANSL xml:lang='cn'>不像现在在街上卖。</TRANSL>
+<TRANSL xml:lang='en'>Not like now, (when they) are sold on the streets.</TRANSL>
+</S>
+
+    <S id='S15'>
+<FORM kindOf="ortho">Teexxi jjo awo nee leru, jjabbo ddeelee gho keeq jjo guq. </FORM>
+<TRANSL xml:lang='cn'>‎‎这家就把（鞋子）缝（做）好了装在柜子里。</TRANSL>
+<TRANSL xml:lang='en'>This family would put (the shoes) they had made  [lit: sewed] at home into a cupboard.</TRANSL>
+</S>
+
+    <S id='S16'>
+<FORM kindOf="ortho">Jjabbo gho teekee, jjo tiq, nyasigu bbi huae bbi la qie guq mae. </FORM>
+<TRANSL xml:lang='cn'>装在柜子里，我们去买的时候就会卖。</TRANSL>
+<TRANSL xml:lang='en'>(They would) put (them) in a cupboard, then when we would go to buy (them they) would sell (them to us).</TRANSL>
+</S>
+
+    <S id='S17'>
+<FORM kindOf="ortho">Ssono, zzakhua ruddi zozo teejo, ssono, osigu nosigu nee zzakhua huaq keeq niggu ddeebbae ze. </FORM>
+<TRANSL xml:lang='cn'>那么，缝（做）鞋子的那些东西就像现在我们让（他们）补鞋子的一样。</TRANSL>
+<TRANSL xml:lang='en'>‎‎Well, (those) things (they used) for making [lit: sewing] shoes, that's the same (thing) that everybody gets (people) to mend shoes with these days.</TRANSL>
+</S>
+
+    <S id='S18'>
+<FORM kindOf="ortho">Tee niq aezo meni zozo tee muzi tee jjo sso, tee niq ruq jjo guq mae. </FORM>
+<TRANSL xml:lang='cn'>像这样任何模型都有, 会有这样缝（做）鞋子的。</TRANSL>
+<TRANSL xml:lang='en'>Whatever styles of shoes [lit: things] there are, there are (shoes) made [lit: sewn] like this, eh.</TRANSL>
+</S>
+
+    <S id='S19'>
+<FORM kindOf="ortho">Tiq, eyishei, nya asee nee tee niq ddeekua ruaq guq.</FORM>
+<TRANSL xml:lang='cn'>所以，以前我祖母会说这样的一句。</TRANSL>
+<TRANSL xml:lang='en'>Well, in the past, m‎y grandmother used to tell it like this.</TRANSL>
+</S>
+
+</TEXT>
