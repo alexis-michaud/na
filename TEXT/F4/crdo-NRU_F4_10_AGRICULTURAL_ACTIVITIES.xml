@@ -1417,7 +1417,7 @@
   <S id="Agriculture_S025">
     <AUDIO start="159.0357" end="164.3825" />
     <FORM>tsʰe˧ɬi˧mi˧-qo˩, | gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩, | wɤ˩˥ | ɕi˧ | le˧-kʰv̩˥, | wɤ˩˥ | hɑ˧ | le˧-lɑ˧˥. |</FORM>
-    <NOTE xml:lang="fr" message="avant 2013: noté: /gv̩˩ɬi˩mi˩-qo˥ | tʰv̩˧/; erreur récurrente dans les notations ancienne: la locutrice dictait les mots un par un ou par petits groupes, plutôt que de reproduire les groupes tonals relativement longs qui se trouvent dans les textes. Avais noté à l'époque: '/tʰv̩˧/: 到了; tons vérifiés: ne change pas de ton ici, se manifeste avec son ton lexical'. En réalité: est /gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩/" />
+    <NOTE xml:lang="fr" message="avant 2013: noté: /gv̩˩ɬi˩mi˩-qo˥ | tʰv̩˧/; erreur récurrente dans les notations ancienne: la locutrice dictait les mots un par un ou par petits groupes, plutôt que de reproduire les groupes tonals relativement longs qui se trouvent dans les textes. Avais noté à l'époque: '/tʰv̩˧/: 到了; tons vérifiés: ne change pas de ton ici, se manifeste avec son ton lexical'. En réalité: est /gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩/." />
     <NOTE xml:lang="fr" message="d'abord noté /‡le˧-kʰv̩˧/" />
     <NOTE xml:lang="fr" message="on pourrait aussi bien dire: /ɕi˧ɭɯ˧ le˧-kʰv̩˥/; tons vérifiés à nouveau en 2013" />
     <NOTE xml:lang="fr" message="fin transcription avec F4 le 13 mars 2009; suite: faite avec ɖv̩˩ɖʐɯ˧ le soir du 13 mars 2009" />
@@ -1610,7 +1610,8 @@
   </S>
   <S id="Agriculture_S029">
     <AUDIO start="171.4082" end="175.7513" />
-    <FORM>tʰi˩˥, | wɤ˩˥ | gv̩˩ɬi˩mi˩-qo˥ | tʰv̩˧, | wɤ˩˥ | ʝi˧-lv̩˧˥! | wɤ˩˥ | ʝi˧ | le˧-lv̩˩, | tʰi˧-tɕɯ˥! |</FORM>
+    <FORM>tʰi˩˥, | wɤ˩˥ | gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩, | wɤ˩˥ | ʝi˧-lv̩˧˥! | wɤ˩˥ | ʝi˧ | le˧-lv̩˩, | tʰi˧-tɕɯ˥! |</FORM>
+    <NOTE xml:lang="fr" message="Corrigé en 2020 de /gv̩˩ɬi˩mi˩-qo˥ | tʰv̩˧/ en /gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩/, à l'exemple de la phrase 25. La situation est la même. Voir la note au sujet de la phrase 25 : avant 2013, avais noté: /gv̩˩ɬi˩mi˩-qo˥ | tʰv̩˧/; erreur récurrente dans les notations ancienne: la locutrice dictait les mots un par un ou par petits groupes, plutôt que de reproduire les groupes tonals relativement longs qui se trouvent dans les textes. Avais noté à l'époque: '/tʰv̩˧/: 到了; tons vérifiés: ne change pas de ton ici, se manifeste avec son ton lexical'. En réalité: est /gv̩˩ɬi˩mi˩-qo˥ tʰv̩˩/." />
     <NOTE xml:lang="fr" message="tons vérifiés, n’est pas /‡tʰi˩-tɕi˥/, mais /tʰi˧-tɕɯ˥/" />
     <NOTE xml:lang="fr" message="d'abord noté /‡ʝi˧lv̩˧/" />
     <TRANSL xml:lang="fr">et nous revoilà au 9e mois! on laboure à nouveau, et on laisse reposer!</TRANSL>
