@@ -1,10 +1,13 @@
 # txt2xml.pl 
 # Inserts XML markup in plain-text glossed documents. The format is that of the Pangloss Collection: see
+# http://purl.org/poi/crdo.vjf.cnrs.fr/cocoon-49aefa90-8c1f-3ba8-a099-0ebefc6a2aa7
+# https://pangloss.cnrs.fr/dtd/
+# For more information about the Pangloss Collection:
 # Michailovsky, Boyd, Martine Mazaudon, Alexis Michaud, Séverine Guillaume, 
 # Alexandre François & Evangelia Adamou. 2014. "Documenting and researching endangered languages: 
 # the Pangloss Collection." Language Documentation and Conservation 8. 119-135.
 #
-# Created by Alexis Michaud. This is version 7 of the script, Sept. 2017. (Version 1 was produced in 2011.)
+# Created by Alexis Michaud. This is version 8 of the script, June 2020. (Version 1 was produced in 2011.)
 # 
 # This script was initially based on Boyd Michailovsky's chk_spc6_new.pl (time of creation: 2008 or earlier).
 #
@@ -52,16 +55,16 @@ use warnings;
 
 ## indicating language code
 # For Yongning Na: my $EthnologueCode = 'NRU';
-my $EthnologueCode = 'NXQ';
+my $EthnologueCode = 'NRU';
 # Selecting whether there are glosses at the word level, in languages 1 and 2 and 3 (e.g. English, French and Chinese)  (if yes: value: 1; if no: value: 0)
-my $gloss_lg1 = 1;
-my $gloss_lg2 = 1;
-my $gloss_lg3 = 1;
+my $gloss_lg1 = 0;
+my $gloss_lg2 = 0;
+my $gloss_lg3 = 0;
 # Selecting whether there are translations of the entire sentence (if yes: value: 1; if no: value: 0), for languages 2 and 3. (There has to be at least 1 translation for the sentence level.) 
 my $transl_lg2 = 1;
-my $transl_lg3 = 1;
+my $transl_lg3 = 0;
 # Selecting whether there is an extra line of transcription: orthography, narrow phonetic notation... (if yes: value: 1; if no: value: 0)
-my $extratranscrlevel = 1;
+my $extratranscrlevel = 0;
 # The type of transcriptions is currently set inside this script, by writing <phono>, <ortho>, <phonemic> or <phonetic> in the relevant lines: for instance substituting <phonemic> for <phonetic> in the line below: 
 ##print  XOUT "\t<FORM kindOf=\"phonetic\">$extraformline</FORM>\n";
 
@@ -69,14 +72,14 @@ my $extratranscrlevel = 1;
 my $note_lg_code_yn = 1;
 
 # Input file: 
-my $input = 'C:\Dropbox\donneesNAISH\F1_W2016\crdo-NXQ_F1_ORIGIN.txt';
+my $input = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_Sentences.txt';
 
 # If there is a file containing times codes for the sentences: indicate below (if yes: value: 1; if no: value: 0)
 my $regionslistyn = 1;
-my $regionsinfile = 'C:\Dropbox\donneesNAISH\F1_W2016\crdo-NXQ_F1_ORIGIN_REGIONS.txt';
+my $regionsinfile = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_REGIONS.txt';
 
 # Output file: 
-my $outputfile = 'C:\Dropbox\donneesNAISH\F1_W2016\crdo-NXQ_F1_ORIGIN.xml';
+my $outputfile = 'C:\Dropbox\90_techniques\Pangloss\Views\annotations\NRU_F21_MOTHERSBIRTHDAY.xml';
 
 # Declaration of a function: converting from hh::mm::ss,ms (e.g. 00:00:01,160) to seconds. 
 sub RegionsToSec {
@@ -222,9 +225,9 @@ while ($line=<INPUT>) {
 			$timeend = &RegionsToSec ($timeend);
 			print XOUT "<AUDIO start=\"$timebegin\" end=\"$timeend\"\/>\n";
 		}
-			
+		
 		# Printing out the form of the sentence
-		print  XOUT "\t<FORM kindOf=\"phono\">$ortholine</FORM>\n";
+		print  XOUT "\t<FORM kindOf=\"ortho\">$ortholine</FORM>\n";
 		
 		# if there is an extra level of transcription: integrating it, with special mention
 		if ($extratranscrlevel == 1) {
@@ -361,8 +364,8 @@ while ($line=<INPUT>) {
 		# $transline =~ s{>}{&gt;}g;
 		$transline =~ s{<}{&lt;}g;
 		$transline =~ s{>}{&gt;}g;
-		# Writing out the translation line. It is assumed that the language is French. Substitute 'en', etc for 'fr' in the line below, as necessary.
-		print  XOUT "\t<TRANSL xml:lang=\"fr\">$transline</TRANSL>\n";
+		# Writing out the translation line. It is assumed that the language is French. Substitute 'en', etc for 'fr' in the line below, as necessary. xxxx
+		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
 		
 #		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
 		# For Pianding Naxi data: the line before the Chinese translation is orthography (Naxi Pinyin).
@@ -381,7 +384,7 @@ while ($line=<INPUT>) {
 			$transline_lg2 =~ s{<}{&lt;}g;
 			$transline_lg2 =~ s{>}{&gt;}g;
 
-			print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline_lg2</TRANSL>\n";
+			print  XOUT "\t<TRANSL xml:lang=\"en\">$transline_lg2</TRANSL>\n";      # "zh" for Chinese xxxx
 			# adding the translation of the sentence to a translation of the whole text, to be manually edited later and to serve as a free translation at the text level
 			$text_lg2 = "$text_lg2$transline_lg2\n";
 		}

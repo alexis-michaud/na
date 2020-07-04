@@ -19839,8 +19839,8 @@
 \so <print="n"> F4
 \va <speaker="M21"> mv̩˧ʐe˧i˧ɕjẽ˧
 \vf emprunt
-\de Cord to which fire is put in order to shoot.
-\ge 火线::cord_to_which_fire_is_put
+\de Fuse cord for lighting gunpowder, fireworks etc.
+\ge 火线::fuse_cord
 \dn 火绳，导火索
 \gn 导火索
 \gr 火线
