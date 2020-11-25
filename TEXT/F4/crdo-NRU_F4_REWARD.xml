@@ -8669,7 +8669,6 @@
 <S id="Reward_S154"><AUDIO start="724.0641" end="727.8037"></AUDIO>
 	<FORM>dzɑ˧&lt;-ʈʂʰɯ˧&gt;[-hĩ˧] | ʈʰææ̃˧ | ʝi˧-mɤ˧-ɖo˧!" | pi˧-zo˩, | ɖɯ˧-njɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-tɕi˩-kv̩˥! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: n'est pas ‡ʐwɤ˩-tɕi˩-kv̩˩˥"></NOTE>
-	<NOTE xml:lang="fr" message="ʈʰææ̃˧ / ʈʰæ˧mi˧-ɳɯ˩: initiale réalisée proche de [ʈʂʰ]"></NOTE>
 	<TRANSL xml:lang="fr">"Il ne faut vraiment pas faire de mauvaises actions!", on avait l'habitude de rappeler ça sans cesse! (littéralement: "on parlait sans cesse ainsi")</TRANSL>
 	<TRANSL xml:lang="zh">坏事，真的不要干！”（老人家）会一直这么讲。</TRANSL>
 		<W>
@@ -8682,6 +8681,7 @@
 		</W>
 		<W>
 			<FORM>ʈʰæ˧mi˧-ɳɯ˩</FORM>
+			<NOTE xml:lang="fr" message="ʈʰææ̃˧ / ʈʰæ˧mi˧-ɳɯ˩: initiale réalisée proche de [ʈʂʰ]"></NOTE>
 			<TRANSL xml:lang="fr">vraiment</TRANSL>
 		</W>
 		<W>
