@@ -917,8 +917,9 @@
 </S>
 <S id="HOUSEBUILDING2_S158">
 	<AUDIO start="824.773" end="828.116"/>
-	<FORM kindOf="phono">le˧-gɤ˧-zo˥ | pʰæ˧tɕi˥ | tʰææ̃˧ | &lt;ʈʂʰɯ˧-qo˧ BEGAIEMENT | &gt; [qʰwɤ˧to˩ | ] le˧-ʔw̃æ˧-dʑɯ˧-ɲi˥, | le˧-ʔw̃æ˧ ! |</FORM>
+	<FORM kindOf="phono">le˧-gɤ˧-zo˥ | pʰæ˧tɕi˥ | tʰææ̃˧ | &lt;ʈʂʰɯ˧-qo˧… | &gt; [qʰwɤ˧to˩ | ] le˧-ʔw̃æ˧-dʑɯ˧-ɲi˥, | le˧-ʔw̃æ˧ ! |</FORM>
 	<NOTE xml:lang="fr" message = "/ʈʂʰɯ˧-qo˧/ est accompagné d'un geste pour désigner l'épaule ; la locutrice cherchait le mot et ne s'est pas aussitôt rappelé le mot: il aurait fallu dire /qʰwɤ˧to˩/ 'épaule', au lieu du simple démonstratif /ʈʂʰɯ˧-qo˧/ 'ici'."/>
+	<NOTE xml:lang="fr" message = "Bégaiement entre /ʈʂʰɯ˧-qo˧/ et /le˧-ʔw̃æ˧-dʑɯ˧-ɲi˥/."/>
 	<NOTE xml:lang="fr" message = "on pourrait également dire : /le˧-ʔw̃æ˧-ɲi˥/"/>
 	<TRANSL xml:lang="fr">En portant, les jeunes gens, vrai de vrai, ici (=à l'épaule), ils avaient des enflures, ça enflait !</TRANSL>
 </S>
