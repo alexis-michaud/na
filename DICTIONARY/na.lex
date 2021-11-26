@@ -11815,7 +11815,7 @@
 \sf <nb="2011"> 546
 \or jjigi
 \ps n
-\lc dʑɯ˩ki˥
+\lc dʑɯ˧ki˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n"> (confirmé: n'est pas dze˧ki˥, ni dzɯ˧ki˥)
