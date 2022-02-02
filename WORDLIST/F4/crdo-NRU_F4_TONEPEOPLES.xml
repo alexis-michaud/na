@@ -808,7 +808,7 @@
 	<NOTE xml:lang="en" message="Input tones (separated by a space): L# MH#"/>
 	<NOTE xml:lang="en" message="Output tone: L#°"/>
 	<NOTE xml:lang="en" message="Hyperarticulated realization, separating successive syllables"/>
-	<TRANSL xml:lang="fr">bande molletière tibétain</TRANSL>
+	<TRANSL xml:lang="fr">bande molletière tibétaine</TRANSL>
 	<TRANSL xml:lang="zh">藏族的裹腿</TRANSL>
 	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="442.475" end="443.804"/>
@@ -819,146 +819,138 @@
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
 	<NOTE xml:lang="en" message="Input tones (separated by a space): L# MH#"/>
 	<NOTE xml:lang="en" message="Output tone: L#°"/>
-	<TRANSL xml:lang="fr">藏族的裹腿</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan leggings (puttee)</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<TRANSL xml:lang="fr">bande molletière tibétaine</TRANSL>
+	<TRANSL xml:lang="zh">藏族的裹腿</TRANSL>
+	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="429.01" end="431.123"/>
 </W>
 <W id="TonePeoples_S076">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: ŋwɤ˧pʰæ˧˥"/>
-	<NOTE xml:lang="en" message="Head: L# MH#"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: tuile tibétaine"/>
-	<TRANSL xml:lang="fr">藏族的瓦</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan tile</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-ŋwɤ˩pʰæ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# MH#"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">tuile tibétaine</TRANSL>
+	<TRANSL xml:lang="zh">藏族的瓦</TRANSL>
+	<TRANSL xml:lang="en">Tibetan tile</TRANSL>
 <AUDIO start="960.544" end="961.321"/>
 </W>
 <W id="TonePeoples_S077">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: ŋwɤ˧pʰæ˧˥"/>
-	<NOTE xml:lang="en" message="Head: L# MH#"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: tuile tibétaine"/>
-	<TRANSL xml:lang="fr">藏族的瓦</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan tile</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-ŋwɤ˩pʰæ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# MH#"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">tuile tibétaine</TRANSL>
+	<TRANSL xml:lang="zh">藏族的瓦</TRANSL>
+	<TRANSL xml:lang="en">Tibetan tile</TRANSL>
 <AUDIO start="963.948" end="964.958"/>
 </W>
 <W id="TonePeoples_S078">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: nv̩˩mi˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: cœur tibétain"/>
-	<TRANSL xml:lang="fr">藏族的心</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan heart</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-nv̩˩mi˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">cœur tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的心</TRANSL>
+	<TRANSL xml:lang="en">Tibetan heart</TRANSL>
 <AUDIO start="1099.762" end="1100.888"/>
 </W>
 <W id="TonePeoples_S079">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: sɯ˩tʰi˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: couteau tibétain"/>
-	<TRANSL xml:lang="fr">藏族的刀子</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan knife</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-sɯ˩tʰi˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">couteau tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的刀子</TRANSL>
+	<TRANSL xml:lang="en">Tibetan knife</TRANSL>
 <AUDIO start="576.677" end="578.14"/>
 </W>
 <W id="TonePeoples_S080">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: bɑ˩lɑ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Output tone: vêtement tibétain"/>
-	<TRANSL xml:lang="fr">藏族的衣服</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan clothes</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-bv̩˩ | bɑ˩lɑ˩˥</FORM>
+	<TRANSL xml:lang="fr">vêtement des Tibétains</TRANSL>
+	<TRANSL xml:lang="zh">藏族的衣服</TRANSL>
+	<TRANSL xml:lang="en">clothes of the Tibetan</TRANSL>
 <AUDIO start="226.243" end="227.091"/>
 </W>
 <W id="TonePeoples_S081">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: bɑ˩lɑ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: vêtement tibétain"/>
-	<TRANSL xml:lang="fr">藏族的衣服</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan clothes</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">vêtement tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的衣服</TRANSL>
+	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="217.454" end="218.639"/>
 </W>
 <W id="TonePeoples_S082">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: bɑ˩lɑ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: vêtement tibétain"/>
-	<TRANSL xml:lang="fr">藏族的衣服</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan clothes</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">vêtement tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的衣服</TRANSL>
+	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="221.75" end="222.749"/>
 </W>
 <W id="TonePeoples_S083">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: bɑ˩lɑ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: vêtement tibétain"/>
-	<TRANSL xml:lang="fr">藏族的衣服</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan clothes</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">vêtement tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的衣服</TRANSL>
+	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="229.401" end="229.993"/>
 </W>
 <W id="TonePeoples_S084">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: pv̩˧ʂɯ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L#"/>
-	<NOTE xml:lang="en" message="Output tone: ambre tibétain"/>
-	<TRANSL xml:lang="fr">藏族的琥珀</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan amber</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-bv̩˩ | pv̩˧ʂɯ˩</FORM>
+	<TRANSL xml:lang="fr">ambre tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的琥珀</TRANSL>
+	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="136.719" end="138.263"/>
 </W>
 <W id="TonePeoples_S085">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: pv̩˧ʂɯ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L#"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: ambre tibétain"/>
-	<TRANSL xml:lang="fr">藏族的琥珀</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan amber</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L#"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">ambre tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的琥珀</TRANSL>
+	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="119.745" end="120.743"/>
 </W>
 <W id="TonePeoples_S086">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: pv̩˧ʂɯ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L#"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: ambre tibétain"/>
-	<TRANSL xml:lang="fr">藏族的琥珀</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan amber</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L#"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">ambre tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的琥珀</TRANSL>
+	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="126.001" end="126.685"/>
 </W>
 <W id="TonePeoples_S087">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: pv̩˧ʂɯ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L#"/>
-	<NOTE xml:lang="en" message="Input tones (separated by a space): L#°"/>
-	<NOTE xml:lang="en" message="Output tone: ambre tibétain"/>
-	<TRANSL xml:lang="fr">藏族的琥珀</TRANSL>
-	<TRANSL xml:lang="zh">Tibetan amber</TRANSL>
-	<TRANSL xml:lang="en"/>
+	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
+	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
+	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
+	<NOTE xml:lang="en" message="Input tones (separated by a space): L# L#"/>
+	<NOTE xml:lang="en" message="Output tone: L#°"/>
+	<TRANSL xml:lang="fr">ambre tibétain</TRANSL>
+	<TRANSL xml:lang="zh">藏族的琥珀</TRANSL>
+	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="129.602" end="130.287"/>
 </W>
 <W id="TonePeoples_S088">
-	<FORM>ʁo˧dzi˩</FORM>
-	<NOTE xml:lang="en" message="Determiner: pv̩˧ʂɯ˩"/>
-	<NOTE xml:lang="en" message="Head: L# L#"/>
-	<NOTE xml:lang="en" message="Output tone: %This token is the simple juxtaposition of the two nouns, not a compound."/>
+	<FORM>ʁo˧dzi˩; | pv̩˧ʂɯ˩</FORM>
+	<NOTE xml:lang="en" message="This token is the simple juxtaposition of the two nouns, not a compound."/>
 	<TRANSL xml:lang="fr">ambre; tibétain</TRANSL>
 	<TRANSL xml:lang="zh">藏族，琥珀</TRANSL>
 	<TRANSL xml:lang="en">Tibetan; amber</TRANSL>
