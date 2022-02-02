@@ -3,7 +3,7 @@
 		<TITLE xml:lang="eng">Tones of compound nouns: Cultural objects and peoples. Speaker F4, year 2006.</TITLE>
 	<SOUNDFILE href="Tone_Peoples_1_F4_2006.wav"/>
 </HEADER>
-	<W id="TonePeoples_S001">
+	<W id="TonePeoples_W001">
 	<FORM>ʈʂʰɯ˧ | nɑ˩-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -15,7 +15,7 @@
 	<TRANSL xml:lang="en">Na (Mo-so) knife</TRANSL>
 <AUDIO start="1774.599" end="1778.302"/>
 </W>
-<W id="TonePeoples_S002">
+<W id="TonePeoples_W002">
 	<FORM>nɑ˩-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -27,7 +27,7 @@
 	<TRANSL xml:lang="en">Na (Mo-so) knife</TRANSL>
 <AUDIO start="1783.492" end="1784.908"/>
 </W>
-<W id="TonePeoples_S003">
+<W id="TonePeoples_W003">
 	<FORM>ʈʂʰɯ˧ | nɑ˩-ʐwæ˥sɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩˧"/>
 	<NOTE xml:lang="en" message="Head: ʐwæ˧sɯ˩"/>
@@ -39,7 +39,7 @@
 	<TRANSL xml:lang="en">Na (Mo-so) stallion</TRANSL>
 <AUDIO start="1768.341" end="1772.521"/>
 </W>
-<W id="TonePeoples_S004">
+<W id="TonePeoples_W004">
 	<FORM>nɑ˩-ʐwæ˥sɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩˧"/>
 	<NOTE xml:lang="en" message="Head: ʐwæ˧sɯ˩"/>
@@ -51,7 +51,7 @@
 	<TRANSL xml:lang="en">Na (Mo-so) stallion</TRANSL>
 <AUDIO start="1784.908" end="1786.557"/>
 </W>
-<W id="TonePeoples_S005">
+<W id="TonePeoples_W005">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -61,7 +61,7 @@
 	<TRANSL xml:lang="en">his blanket</TRANSL>
 <AUDIO start="58.258" end="59.21"/>
 </W>
-<W id="TonePeoples_S006">
+<W id="TonePeoples_W006">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -71,7 +71,7 @@
 	<TRANSL xml:lang="en">his blanket</TRANSL>
 <AUDIO start="484.134" end="485.063"/>
 </W>
-<W id="TonePeoples_S007">
+<W id="TonePeoples_W007">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -81,7 +81,7 @@
 	<TRANSL xml:lang="en">his leggings (puttee)</TRANSL>
 <AUDIO start="448.131" end="451.005"/>
 </W>
-<W id="TonePeoples_S008">
+<W id="TonePeoples_W008">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -91,7 +91,7 @@
 	<TRANSL xml:lang="en">his leggings (puttee)</TRANSL>
 <AUDIO start="453.925" end="455.028"/>
 </W>
-<W id="TonePeoples_S009">
+<W id="TonePeoples_W009">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -101,7 +101,7 @@
 	<TRANSL xml:lang="en">his leggings (puttee)</TRANSL>
 <AUDIO start="485.33" end="486.317"/>
 </W>
-<W id="TonePeoples_S010">
+<W id="TonePeoples_W010">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -112,7 +112,7 @@
 	<TRANSL xml:lang="en">his leggings (puttee)</TRANSL>
 <AUDIO start="465.442" end="466.522"/>
 </W>
-<W id="TonePeoples_S011">
+<W id="TonePeoples_W011">
 	<FORM>tʰv̩˧-bv̩˧ sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -123,7 +123,7 @@
 	<TRANSL xml:lang="en">his knife</TRANSL>
 <AUDIO start="581.095" end="584.293"/>
 </W>
-<W id="TonePeoples_S012">
+<W id="TonePeoples_W012">
 	<FORM>tʰv̩˧-bv̩˧ sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -134,7 +134,7 @@
 	<TRANSL xml:lang="en">his knife</TRANSL>
 <AUDIO start="586.832" end="587.649"/>
 </W>
-<W id="TonePeoples_S013">
+<W id="TonePeoples_W013">
 	<FORM>tʰv̩˧-bv̩˧ sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -145,7 +145,7 @@
 	<TRANSL xml:lang="en">his knife</TRANSL>
 <AUDIO start="590.667" end="591.526"/>
 </W>
-<W id="TonePeoples_S014">
+<W id="TonePeoples_W014">
 	<FORM>ʈʂʰɯ˧-bv̩˧ bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -156,7 +156,7 @@
 	<TRANSL xml:lang="en">his clothes</TRANSL>
 <AUDIO start="232.803" end="235.623"/>
 </W>
-<W id="TonePeoples_S015">
+<W id="TonePeoples_W015">
 	<FORM>tʰv̩˧-bv̩˧ bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -167,7 +167,7 @@
 	<TRANSL xml:lang="en">his clothes</TRANSL>
 <AUDIO start="236.794" end="237.458"/>
 </W>
-<W id="TonePeoples_S016">
+<W id="TonePeoples_W016">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -177,7 +177,7 @@
 	<TRANSL xml:lang="en">his amber</TRANSL>
 <AUDIO start="145.96" end="149.269"/>
 </W>
-<W id="TonePeoples_S017">
+<W id="TonePeoples_W017">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -187,7 +187,7 @@
 	<TRANSL xml:lang="en">his ring</TRANSL>
 <AUDIO start="320.76" end="323.43"/>
 </W>
-<W id="TonePeoples_S018">
+<W id="TonePeoples_W018">
 	<FORM>ʈʂʰɯ˧-bv̩˧ | lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʈʂʰɯ˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -197,7 +197,7 @@
 	<TRANSL xml:lang="en">his ring</TRANSL>
 <AUDIO start="471.282" end="472.234"/>
 </W>
-<W id="TonePeoples_S019">
+<W id="TonePeoples_W019">
 	<FORM>hĩ˧-bv̩˧ | sɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: hĩ˥"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -207,7 +207,7 @@
 	<TRANSL xml:lang="en">human blood</TRANSL>
 <AUDIO start="1021.766" end="1022.973"/>
 </W>
-<W id="TonePeoples_S020">
+<W id="TonePeoples_W020">
 	<FORM>‡ɬi˧bv̩˧-qʰwɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: qʰwɤ˧˥"/>
@@ -218,7 +218,7 @@
 	<TRANSL xml:lang="en">Bai bowl</TRANSL>
 <AUDIO start="1008.368" end="1012.35"/>
 </W>
-<W id="TonePeoples_S021">
+<W id="TonePeoples_W021">
 	<FORM>ɬi˧bv̩˧-lv̩˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: lv̩˧"/>
@@ -229,7 +229,7 @@
 	<TRANSL xml:lang="en">Bai fields</TRANSL>
 <AUDIO start="983.105" end="984.15"/>
 </W>
-<W id="TonePeoples_S022">
+<W id="TonePeoples_W022">
 	<FORM>ɬi˧bv̩˧-sɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -240,7 +240,7 @@
 	<TRANSL xml:lang="en">Bai blood</TRANSL>
 <AUDIO start="1043.198" end="1044.336"/>
 </W>
-<W id="TonePeoples_S023">
+<W id="TonePeoples_W023">
 	<FORM>ɬi˧bv̩˧-pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -251,7 +251,7 @@
 	<TRANSL xml:lang="en">Bai blanket</TRANSL>
 <AUDIO start="37.871" end="39.775"/>
 </W>
-<W id="TonePeoples_S024">
+<W id="TonePeoples_W024">
 	<FORM>ɬi˧bv̩˧-kʰwæ˧ɻæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -262,7 +262,7 @@
 	<TRANSL xml:lang="en">Bai felt</TRANSL>
 <AUDIO start="747.797" end="749.132"/>
 </W>
-<W id="TonePeoples_S025">
+<W id="TonePeoples_W025">
 	<FORM>ɬi˧bv̩˧-kʰwæ˧ɻæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -273,7 +273,7 @@
 	<TRANSL xml:lang="en">Bai felt</TRANSL>
 <AUDIO start="751.698" end="758.42"/>
 </W>
-<W id="TonePeoples_S026">
+<W id="TonePeoples_W026">
 	<FORM>ɬi˧bv̩˧-kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -284,7 +284,7 @@
 	<TRANSL xml:lang="en">Bai leggings (puttee)</TRANSL>
 <AUDIO start="388.886" end="393.832"/>
 </W>
-<W id="TonePeoples_S027">
+<W id="TonePeoples_W027">
 	<FORM>ɬi˧bv̩˧-kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -295,7 +295,7 @@
 	<TRANSL xml:lang="en">Bai leggings (puttee)</TRANSL>
 <AUDIO start="419.536" end="420.616"/>
 </W>
-<W id="TonePeoples_S028">
+<W id="TonePeoples_W028">
 	<FORM>ɬi˧bv̩˧-kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -306,7 +306,7 @@
 	<TRANSL xml:lang="en">Bai leggings (puttee)</TRANSL>
 <AUDIO start="402.13" end="403.445"/>
 </W>
-<W id="TonePeoples_S029">
+<W id="TonePeoples_W029">
 	<FORM>ɬi˧bv̩˧-kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -317,7 +317,7 @@
 	<TRANSL xml:lang="en">Bai leggings (puttee)</TRANSL>
 <AUDIO start="407.015" end="407.944"/>
 </W>
-<W id="TonePeoples_S030">
+<W id="TonePeoples_W030">
 	<FORM>ɬi˧bv̩˧-ŋwɤ˧pʰæ˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -328,7 +328,7 @@
 	<TRANSL xml:lang="en">Bai tile</TRANSL>
 <AUDIO start="942.539" end="943.529"/>
 </W>
-<W id="TonePeoples_S031">
+<W id="TonePeoples_W031">
 	<FORM>ɬi˧bv̩˧-ŋwɤ˧pʰæ˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -339,7 +339,7 @@
 	<TRANSL xml:lang="en">Bai tile</TRANSL>
 <AUDIO start="945.454" end="949.9"/>
 </W>
-<W id="TonePeoples_S032">
+<W id="TonePeoples_W032">
 	<FORM>ɬi˧bv̩˧-ŋwɤ˧pʰæ˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -350,7 +350,7 @@
 	<TRANSL xml:lang="en">Bai tile</TRANSL>
 <AUDIO start="954.591" end="955.891"/>
 </W>
-<W id="TonePeoples_S033">
+<W id="TonePeoples_W033">
 	<FORM>ɬi˧bv̩˧-bv̩˧ | bɑ˩lɑ˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -360,7 +360,7 @@
 	<TRANSL xml:lang="en">Bai clothes</TRANSL>
 <AUDIO start="213.995" end="215.225"/>
 </W>
-<W id="TonePeoples_S034">
+<W id="TonePeoples_W034">
 	<FORM>ɬi˧bv̩˧-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -371,7 +371,7 @@
 	<TRANSL xml:lang="en">Bai clothes</TRANSL>
 <AUDIO start="205.125" end="206.471"/>
 </W>
-<W id="TonePeoples_S035">
+<W id="TonePeoples_W035">
 	<FORM>ɬi˧bv̩˧-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -382,7 +382,7 @@
 	<TRANSL xml:lang="en">Bai clothes</TRANSL>
 <AUDIO start="208.285" end="211.313"/>
 </W>
-<W id="TonePeoples_S036">
+<W id="TonePeoples_W036">
 	<FORM>ɬi˧bv̩˧-nv̩˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -393,7 +393,7 @@
 	<TRANSL xml:lang="en">Bai heart</TRANSL>
 <AUDIO start="1090.009" end="1091.286"/>
 </W>
-<W id="TonePeoples_S037">
+<W id="TonePeoples_W037">
 	<FORM>[ɬi˧bv̩˧-]nv̩˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -404,7 +404,7 @@
 	<TRANSL xml:lang="en">Bai heart</TRANSL>
 <AUDIO start="1093.55" end="1094.363"/>
 </W>
-<W id="TonePeoples_S038">
+<W id="TonePeoples_W038">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -415,7 +415,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="566.066" end="567.354"/>
 </W>
-<W id="TonePeoples_S039">
+<W id="TonePeoples_W039">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -426,7 +426,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="573.59" end="574.608"/>
 </W>
-<W id="TonePeoples_S040">
+<W id="TonePeoples_W040">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -437,7 +437,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1595.335" end="1598.098"/>
 </W>
-<W id="TonePeoples_S041">
+<W id="TonePeoples_W041">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -448,7 +448,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1704.173" end="1705.868"/>
 </W>
-<W id="TonePeoples_S042">
+<W id="TonePeoples_W042">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -459,7 +459,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1599.948" end="1600.62"/>
 </W>
-<W id="TonePeoples_S043">
+<W id="TonePeoples_W043">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -471,7 +471,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1608.953" end="1618.508"/>
 </W>
-<W id="TonePeoples_S044">
+<W id="TonePeoples_W044">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -483,7 +483,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1642.335" end="1643.934"/>
 </W>
-<W id="TonePeoples_S045">
+<W id="TonePeoples_W045">
 	<FORM>[ɬi˧]bv̩˧-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -495,7 +495,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1605.424" end="1607.235"/>
 </W>
-<W id="TonePeoples_S046">
+<W id="TonePeoples_W046">
 	<FORM>[ɬi˧bv̩˧-]sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -506,7 +506,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="570.071" end="571.011"/>
 </W>
-<W id="TonePeoples_S047">
+<W id="TonePeoples_W047">
 	<FORM>[ɬi˧bv̩˧-]sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -517,7 +517,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1601.952" end="1604.042"/>
 </W>
-<W id="TonePeoples_S048">
+<W id="TonePeoples_W048">
 	<FORM>[ɬi˧bv̩˧-]sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -528,7 +528,7 @@
 	<TRANSL xml:lang="en">Bai knife</TRANSL>
 <AUDIO start="1623.663" end="1624.511"/>
 </W>
-<W id="TonePeoples_S049">
+<W id="TonePeoples_W049">
 	<FORM>ɬi˧bv̩˧-bv̩˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -538,7 +538,7 @@
 	<TRANSL xml:lang="en">Bai amber</TRANSL>
 <AUDIO start="115.034" end="116.076"/>
 </W>
-<W id="TonePeoples_S050">
+<W id="TonePeoples_W050">
 	<FORM>ɬi˧bv̩˧-pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -549,7 +549,7 @@
 	<TRANSL xml:lang="en">Bai amber</TRANSL>
 <AUDIO start="110.689" end="111.687"/>
 </W>
-<W id="TonePeoples_S051">
+<W id="TonePeoples_W051">
 	<FORM>ɬi˧bv̩˧-tse˧kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -560,7 +560,7 @@
 	<TRANSL xml:lang="en">Bai sanctuary</TRANSL>
 <AUDIO start="1745.481" end="1747.222"/>
 </W>
-<W id="TonePeoples_S052">
+<W id="TonePeoples_W052">
 	<FORM>ɬi˧bv̩˧-bv̩˧ | lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -570,7 +570,7 @@
 	<TRANSL xml:lang="en">Bai ring</TRANSL>
 <AUDIO start="283.852" end="291.456"/>
 </W>
-<W id="TonePeoples_S053">
+<W id="TonePeoples_W053">
 	<FORM>ɬi˧bv̩˧-lo˩pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -581,7 +581,7 @@
 	<TRANSL xml:lang="en">Bai ring</TRANSL>
 <AUDIO start="294.857" end="299.351"/>
 </W>
-<W id="TonePeoples_S054">
+<W id="TonePeoples_W054">
 	<FORM>ɬi˧bv̩˧-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -592,7 +592,7 @@
 	<TRANSL xml:lang="en">Bai saddle mat</TRANSL>
 <AUDIO start="828.204" end="829.458"/>
 </W>
-<W id="TonePeoples_S055">
+<W id="TonePeoples_W055">
 	<FORM>‡ɬi˧bv̩˧-pɤ˧ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -603,7 +603,7 @@
 	<TRANSL xml:lang="en">Bai stool</TRANSL>
 <AUDIO start="783.204" end="784.47"/>
 </W>
-<W id="TonePeoples_S056">
+<W id="TonePeoples_W056">
 	<FORM>‡ɬi˧bv̩˧-pɤ˧ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -614,7 +614,7 @@
 	<TRANSL xml:lang="en">Bai stool</TRANSL>
 <AUDIO start="787.128" end="790.507"/>
 </W>
-<W id="TonePeoples_S057">
+<W id="TonePeoples_W057">
 	<FORM>ɬi˧bv̩˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -625,7 +625,7 @@
 	<TRANSL xml:lang="en">Bai earring</TRANSL>
 <AUDIO start="656.229" end="657.552"/>
 </W>
-<W id="TonePeoples_S058">
+<W id="TonePeoples_W058">
 	<FORM>ɬi˧bv̩˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -636,7 +636,7 @@
 	<TRANSL xml:lang="en">Bai earring</TRANSL>
 <AUDIO start="662.597" end="665.633"/>
 </W>
-<W id="TonePeoples_S059">
+<W id="TonePeoples_W059">
 	<FORM>ɬi˧bv̩˧-tse˧mi˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: tse˧mi˥"/>
@@ -647,7 +647,7 @@
 	<TRANSL xml:lang="en">Bai lighter</TRANSL>
 <AUDIO start="722.777" end="723.915"/>
 </W>
-<W id="TonePeoples_S060">
+<W id="TonePeoples_W060">
 	<FORM>ɬi˧bv̩˧-ʁæ˧ŋv̩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -658,7 +658,7 @@
 	<TRANSL xml:lang="en">Bai silver collar</TRANSL>
 <AUDIO start="703.597" end="704.898"/>
 </W>
-<W id="TonePeoples_S061">
+<W id="TonePeoples_W061">
 	<FORM>ɬi˧bv̩˧-qʰwæ˧ʈɯ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧"/>
 	<NOTE xml:lang="en" message="Head: qʰwæ˧ʈɯ˥"/>
@@ -669,7 +669,7 @@
 	<TRANSL xml:lang="en">Bai turban</TRANSL>
 <AUDIO start="685.718" end="688.667"/>
 </W>
-<W id="TonePeoples_S062">
+<W id="TonePeoples_W062">
 	<FORM>nv̩˩mi˩-sɤ˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nv̩˩mi˩"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -680,7 +680,7 @@
 	<TRANSL xml:lang="en">heart's blood</TRANSL>
 <AUDIO start="1048.121" end="1049.305"/>
 </W>
-<W id="TonePeoples_S063">
+<W id="TonePeoples_W063">
 	<FORM>ʁo˧dzi˩-qʰwɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: qʰwɤ˧˥"/>
@@ -691,7 +691,7 @@
 	<TRANSL xml:lang="en">Tibetan bowl</TRANSL>
 <AUDIO start="1013.848" end="1016.646"/>
 </W>
-<W id="TonePeoples_S064">
+<W id="TonePeoples_W064">
 	<FORM>ʁo˧dzi˩-lv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: lv̩˧"/>
@@ -702,7 +702,7 @@
 	<TRANSL xml:lang="en">Tibetan field</TRANSL>
 <AUDIO start="986.472" end="987.424"/>
 </W>
-<W id="TonePeoples_S065">
+<W id="TonePeoples_W065">
 	<FORM>ʁo˧dzi˩-sɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -713,7 +713,7 @@
 	<TRANSL xml:lang="en">Tibetan blood</TRANSL>
 <AUDIO start="1045.729" end="1046.751"/>
 </W>
-<W id="TonePeoples_S066">
+<W id="TonePeoples_W066">
 	<FORM>ʁo˧dzi˩-bv̩˩ | pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -723,7 +723,7 @@
 	<TRANSL xml:lang="en">Tibetan blanket</TRANSL>
 <AUDIO start="56.376" end="57.359"/>
 </W>
-<W id="TonePeoples_S067">
+<W id="TonePeoples_W067">
 	<FORM>ʁo˧dzi˩-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -734,7 +734,7 @@
 	<TRANSL xml:lang="en">Tibetan blanket</TRANSL>
 <AUDIO start="41.679" end="45.696"/>
 </W>
-<W id="TonePeoples_S068">
+<W id="TonePeoples_W068">
 	<FORM>ʁo˧dzi˩-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -745,7 +745,7 @@
 	<TRANSL xml:lang="en">Tibetan blanket</TRANSL>
 <AUDIO start="131.842" end="132.614"/>
 </W>
-<W id="TonePeoples_S069">
+<W id="TonePeoples_W069">
 	<FORM>ʁo˧dzi˩-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -756,7 +756,7 @@
 	<TRANSL xml:lang="en">Tibetan blanket</TRANSL>
 <AUDIO start="53.754" end="54.462"/>
 </W>
-<W id="TonePeoples_S070">
+<W id="TonePeoples_W070">
 	<FORM>ʁo˧dzi˩-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -768,7 +768,7 @@
 	<TRANSL xml:lang="en">Tibetan blanket</TRANSL>
 <AUDIO start="47.972" end="49.922"/>
 </W>
-<W id="TonePeoples_S071">
+<W id="TonePeoples_W071">
 	<FORM>ʁo˧dzi˩-kʰwæ˩ɻæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -779,7 +779,7 @@
 	<TRANSL xml:lang="en">Tibetan felt</TRANSL>
 <AUDIO start="759.65" end="760.858"/>
 </W>
-<W id="TonePeoples_S072">
+<W id="TonePeoples_W072">
 	<FORM>ʁo˧dzi˩-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -790,7 +790,7 @@
 	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="435.128" end="436.104"/>
 </W>
-<W id="TonePeoples_S073">
+<W id="TonePeoples_W073">
 	<FORM>ʁo˧dzi˩-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -801,7 +801,7 @@
 	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="432.87" end="433.62"/>
 </W>
-<W id="TonePeoples_S074">
+<W id="TonePeoples_W074">
 	<FORM>ʁo˧dzi˩-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -813,7 +813,7 @@
 	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="442.475" end="443.804"/>
 </W>
-<W id="TonePeoples_S075">
+<W id="TonePeoples_W075">
 	<FORM>[ʁo˧dzi˩-]kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -824,7 +824,7 @@
 	<TRANSL xml:lang="en">Tibetan leggings (puttee)</TRANSL>
 <AUDIO start="429.01" end="431.123"/>
 </W>
-<W id="TonePeoples_S076">
+<W id="TonePeoples_W076">
 	<FORM>ʁo˧dzi˩-ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -835,7 +835,7 @@
 	<TRANSL xml:lang="en">Tibetan tile</TRANSL>
 <AUDIO start="960.544" end="961.321"/>
 </W>
-<W id="TonePeoples_S077">
+<W id="TonePeoples_W077">
 	<FORM>ʁo˧dzi˩-ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -846,7 +846,7 @@
 	<TRANSL xml:lang="en">Tibetan tile</TRANSL>
 <AUDIO start="963.948" end="964.958"/>
 </W>
-<W id="TonePeoples_S078">
+<W id="TonePeoples_W078">
 	<FORM>ʁo˧dzi˩-nv̩˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -857,7 +857,7 @@
 	<TRANSL xml:lang="en">Tibetan heart</TRANSL>
 <AUDIO start="1099.762" end="1100.888"/>
 </W>
-<W id="TonePeoples_S079">
+<W id="TonePeoples_W079">
 	<FORM>ʁo˧dzi˩-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -868,14 +868,14 @@
 	<TRANSL xml:lang="en">Tibetan knife</TRANSL>
 <AUDIO start="576.677" end="578.14"/>
 </W>
-<W id="TonePeoples_S080">
+<W id="TonePeoples_W080">
 	<FORM>ʁo˧dzi˩-bv̩˩ | bɑ˩lɑ˩˥</FORM>
 	<TRANSL xml:lang="fr">vêtement des Tibétains</TRANSL>
 	<TRANSL xml:lang="zh">藏族的衣服</TRANSL>
 	<TRANSL xml:lang="en">clothes of the Tibetan</TRANSL>
 <AUDIO start="226.243" end="227.091"/>
 </W>
-<W id="TonePeoples_S081">
+<W id="TonePeoples_W081">
 	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -886,7 +886,7 @@
 	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="217.454" end="218.639"/>
 </W>
-<W id="TonePeoples_S082">
+<W id="TonePeoples_W082">
 	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -897,7 +897,7 @@
 	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="221.75" end="222.749"/>
 </W>
-<W id="TonePeoples_S083">
+<W id="TonePeoples_W083">
 	<FORM>ʁo˧dzi˩-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -908,14 +908,14 @@
 	<TRANSL xml:lang="en">Tibetan clothes</TRANSL>
 <AUDIO start="229.401" end="229.993"/>
 </W>
-<W id="TonePeoples_S084">
+<W id="TonePeoples_W084">
 	<FORM>ʁo˧dzi˩-bv̩˩ | pv̩˧ʂɯ˩</FORM>
 	<TRANSL xml:lang="fr">ambre tibétain</TRANSL>
 	<TRANSL xml:lang="zh">藏族的琥珀</TRANSL>
 	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="136.719" end="138.263"/>
 </W>
-<W id="TonePeoples_S085">
+<W id="TonePeoples_W085">
 	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -926,7 +926,7 @@
 	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="119.745" end="120.743"/>
 </W>
-<W id="TonePeoples_S086">
+<W id="TonePeoples_W086">
 	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -937,7 +937,7 @@
 	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="126.001" end="126.685"/>
 </W>
-<W id="TonePeoples_S087">
+<W id="TonePeoples_W087">
 	<FORM>ʁo˧dzi˩-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -948,7 +948,7 @@
 	<TRANSL xml:lang="en">Tibetan amber</TRANSL>
 <AUDIO start="129.602" end="130.287"/>
 </W>
-<W id="TonePeoples_S088">
+<W id="TonePeoples_W088">
 	<FORM>ʁo˧dzi˩; | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="This token is the simple juxtaposition of the two nouns, not a compound."/>
 	<TRANSL xml:lang="fr">ambre; tibétain</TRANSL>
@@ -956,7 +956,7 @@
 	<TRANSL xml:lang="en">Tibetan; amber</TRANSL>
 <AUDIO start="121.927" end="124.517"/>
 </W>
-<W id="TonePeoples_S089">
+<W id="TonePeoples_W089">
 	<FORM>ʁo˧dzi˩-tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -967,7 +967,7 @@
 	<TRANSL xml:lang="en">Tibetan sanctuary</TRANSL>
 <AUDIO start="1751.367" end="1753.202"/>
 </W>
-<W id="TonePeoples_S090">
+<W id="TonePeoples_W090">
 	<FORM>ʁo˧dzi˩-tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -978,7 +978,7 @@
 	<TRANSL xml:lang="en">Tibetan sanctuary</TRANSL>
 <AUDIO start="1755.454" end="1757.416"/>
 </W>
-<W id="TonePeoples_S091">
+<W id="TonePeoples_W091">
 	<FORM>ʁo˧dzi˩-bv̩˩ | lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -988,7 +988,7 @@
 	<TRANSL xml:lang="en">Tibetan ring</TRANSL>
 <AUDIO start="304.352" end="305.412"/>
 </W>
-<W id="TonePeoples_S092">
+<W id="TonePeoples_W092">
 	<FORM>‡ʁo˧dzi˩- | bv̩˧ lo˩pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -999,7 +999,7 @@
 	<TRANSL xml:lang="en">Tibetan ring</TRANSL>
 <AUDIO start="308.68" end="309.661"/>
 </W>
-<W id="TonePeoples_S093">
+<W id="TonePeoples_W093">
 	<FORM>ʁo˧dzi˩-lo˩pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -1010,7 +1010,7 @@
 	<TRANSL xml:lang="en">Tibetan ring</TRANSL>
 <AUDIO start="311.124" end="312.726"/>
 </W>
-<W id="TonePeoples_S094">
+<W id="TonePeoples_W094">
 	<FORM>ʁo˧dzi˩-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -1021,7 +1021,7 @@
 	<TRANSL xml:lang="en">Tibetan saddle mat</TRANSL>
 <AUDIO start="850.937" end="852.446"/>
 </W>
-<W id="TonePeoples_S095">
+<W id="TonePeoples_W095">
 	<FORM>ʁo˧dzi˩-pɤ˩ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -1032,7 +1032,7 @@
 	<TRANSL xml:lang="en">Tibetan stool</TRANSL>
 <AUDIO start="792.898" end="793.978"/>
 </W>
-<W id="TonePeoples_S096">
+<W id="TonePeoples_W096">
 	<FORM>ʁo˧dzi˩-pɤ˩ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -1043,7 +1043,7 @@
 	<TRANSL xml:lang="en">Tibetan stool</TRANSL>
 <AUDIO start="797.74" end="799.063"/>
 </W>
-<W id="TonePeoples_S097">
+<W id="TonePeoples_W097">
 	<FORM>ʁo˧dzi˩-ɬi˩pæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1054,7 +1054,7 @@
 	<TRANSL xml:lang="en">Tibetan earring</TRANSL>
 <AUDIO start="667.27" end="668.396"/>
 </W>
-<W id="TonePeoples_S098">
+<W id="TonePeoples_W098">
 	<FORM>ʁo˧dzi˩-tse˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: tse˧mi˥"/>
@@ -1065,7 +1065,7 @@
 	<TRANSL xml:lang="en">Tibetan lighter</TRANSL>
 <AUDIO start="726.399" end="727.595"/>
 </W>
-<W id="TonePeoples_S099">
+<W id="TonePeoples_W099">
 	<FORM>ʁo˧dzi˩-ʁæ˩ŋv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -1076,7 +1076,7 @@
 	<TRANSL xml:lang="en">Tibetan silver collar</TRANSL>
 <AUDIO start="707.777" end="709.124"/>
 </W>
-<W id="TonePeoples_S100">
+<W id="TonePeoples_W100">
 	<FORM>ʁo˧dzi˩-qʰwæ˩ʈɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: ʁo˧dzi˩"/>
 	<NOTE xml:lang="en" message="Head: qʰwæ˧ʈɯ˥"/>
@@ -1087,7 +1087,7 @@
 	<TRANSL xml:lang="en">Tibetan turban</TRANSL>
 <AUDIO start="690.919" end="693.799"/>
 </W>
-<W id="TonePeoples_S101">
+<W id="TonePeoples_W101">
 	<FORM>nɑ˩hĩ˧-qʰwɤ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: qʰwɤ˧˥"/>
@@ -1098,7 +1098,7 @@
 	<TRANSL xml:lang="en">Naxi bowl</TRANSL>
 <AUDIO start="995.597" end="996.723"/>
 </W>
-<W id="TonePeoples_S102">
+<W id="TonePeoples_W102">
 	<FORM>nɑ˩hĩ˧-lv̩˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: lv̩˧"/>
@@ -1109,7 +1109,7 @@
 	<TRANSL xml:lang="en">Naxi fields</TRANSL>
 <AUDIO start="973.886" end="974.618"/>
 </W>
-<W id="TonePeoples_S103">
+<W id="TonePeoples_W103">
 	<FORM>nɑ˩hĩ˧-sɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -1120,7 +1120,7 @@
 	<TRANSL xml:lang="en">Naxi blood</TRANSL>
 <AUDIO start="1024.97" end="1025.876"/>
 </W>
-<W id="TonePeoples_S104">
+<W id="TonePeoples_W104">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1130,7 +1130,7 @@
 	<TRANSL xml:lang="en">Naxi blanket</TRANSL>
 <AUDIO start="0.185" end="4.69"/>
 </W>
-<W id="TonePeoples_S105">
+<W id="TonePeoples_W105">
 	<FORM>‡nɑ˩hĩ˧-pʰv̩˥kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1141,7 +1141,7 @@
 	<TRANSL xml:lang="en">Naxi blanket</TRANSL>
 <AUDIO start="1139.449" end="1140.587"/>
 </W>
-<W id="TonePeoples_S106">
+<W id="TonePeoples_W106">
 	<FORM>‡nɑ˩hĩ˧-pʰv̩˥kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1152,7 +1152,7 @@
 	<TRANSL xml:lang="en">Naxi blanket</TRANSL>
 <AUDIO start="1142.734" end="1143.89"/>
 </W>
-<W id="TonePeoples_S107">
+<W id="TonePeoples_W107">
 	<FORM>‡nɑ˩hĩ˧-pʰv̩˥kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1163,7 +1163,7 @@
 	<TRANSL xml:lang="en">Naxi blanket</TRANSL>
 <AUDIO start="1152.162" end="1153.578"/>
 </W>
-<W id="TonePeoples_S108">
+<W id="TonePeoples_W108">
 	<FORM>‡nɑ˩hĩ˧ | pʰv̩˧kɤ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1174,7 +1174,7 @@
 	<TRANSL xml:lang="en">Naxi blanket</TRANSL>
 <AUDIO start="6.887" end="7.778"/>
 </W>
-<W id="TonePeoples_S109">
+<W id="TonePeoples_W109">
 	<FORM>nɑ˩hĩ˧-kʰwæ˧ɻæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -1185,7 +1185,7 @@
 	<TRANSL xml:lang="en">Naxi felt</TRANSL>
 <AUDIO start="733.133" end="734.457"/>
 </W>
-<W id="TonePeoples_S110">
+<W id="TonePeoples_W110">
 	<FORM>nɑ˩hĩ˧-kʰwæ˧ɻæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -1197,7 +1197,7 @@
 	<TRANSL xml:lang="en">Naxi felt</TRANSL>
 <AUDIO start="735.873" end="737.777"/>
 </W>
-<W id="TonePeoples_S111">
+<W id="TonePeoples_W111">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -1207,7 +1207,7 @@
 	<TRANSL xml:lang="en">Naxi leggings (puttee)</TRANSL>
 <AUDIO start="330.859" end="332.136"/>
 </W>
-<W id="TonePeoples_S112">
+<W id="TonePeoples_W112">
 	<FORM>nɑ˩hĩ˧-kʰɯ˥dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -1218,7 +1218,7 @@
 	<TRANSL xml:lang="en">Naxi leggings (puttee)</TRANSL>
 <AUDIO start="336.92" end="337.964"/>
 </W>
-<W id="TonePeoples_S113">
+<W id="TonePeoples_W113">
 	<FORM>nɑ˩hĩ˧-kʰɯ˥dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -1229,7 +1229,7 @@
 	<TRANSL xml:lang="en">Naxi leggings (puttee)</TRANSL>
 <AUDIO start="343.735" end="344.391"/>
 </W>
-<W id="TonePeoples_S114">
+<W id="TonePeoples_W114">
 	<FORM>nɑ˩hĩ˧-kʰɯ˥dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -1240,7 +1240,7 @@
 	<TRANSL xml:lang="en">Naxi leggings (puttee)</TRANSL>
 <AUDIO start="349.841" end="351.119"/>
 </W>
-<W id="TonePeoples_S115">
+<W id="TonePeoples_W115">
 	<FORM>[nɑ˩hĩ˧-]kʰɯ˥dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -1251,7 +1251,7 @@
 	<TRANSL xml:lang="en">Naxi leggings (puttee)</TRANSL>
 <AUDIO start="345.592" end="346.649"/>
 </W>
-<W id="TonePeoples_S116">
+<W id="TonePeoples_W116">
 	<FORM>nɑ˩hĩ˧-ŋwɤ˧pʰæ˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -1262,7 +1262,7 @@
 	<TRANSL xml:lang="en">Naxi tile</TRANSL>
 <AUDIO start="865.867" end="867.307"/>
 </W>
-<W id="TonePeoples_S117">
+<W id="TonePeoples_W117">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | nv̩˩mi˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1272,7 +1272,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1050.141" end="1052.184"/>
 </W>
-<W id="TonePeoples_S118">
+<W id="TonePeoples_W118">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1283,7 +1283,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1055.388" end="1061.96"/>
 </W>
-<W id="TonePeoples_S119">
+<W id="TonePeoples_W119">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1294,7 +1294,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1104.329" end="1105.49"/>
 </W>
-<W id="TonePeoples_S120">
+<W id="TonePeoples_W120">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1305,7 +1305,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1110.435" end="1112.177"/>
 </W>
-<W id="TonePeoples_S121">
+<W id="TonePeoples_W121">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1317,7 +1317,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1070.493" end="1072.281"/>
 </W>
-<W id="TonePeoples_S122">
+<W id="TonePeoples_W122">
 	<FORM>[nɑ˩hĩ˧-]nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1328,7 +1328,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1106.047" end="1109.809"/>
 </W>
-<W id="TonePeoples_S123">
+<W id="TonePeoples_W123">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1340,7 +1340,7 @@
 	<TRANSL xml:lang="en">Naxi heart</TRANSL>
 <AUDIO start="1112.641" end="1123.729"/>
 </W>
-<W id="TonePeoples_S124">
+<W id="TonePeoples_W124">
 	<FORM>nɑ˩hĩ˧-nv̩˥mi˩, nɑ˩hĩ˧-tɕi˥nv̩˩, nɑ˩hĩ˧-nv̩˥mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -1352,7 +1352,7 @@
 	<TRANSL xml:lang="en">Naxi heart, Naxi saddle pad, Naxi heart</TRANSL>
 <AUDIO start="1130.59" end="1134.329"/>
 </W>
-<W id="TonePeoples_S125">
+<W id="TonePeoples_W125">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | sɯ˩tʰi˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1362,7 +1362,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="496.742" end="498.043"/>
 </W>
-<W id="TonePeoples_S126">
+<W id="TonePeoples_W126">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1373,7 +1373,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="500.318" end="501.317"/>
 </W>
-<W id="TonePeoples_S127">
+<W id="TonePeoples_W127">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1384,7 +1384,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="503.418" end="504.719"/>
 </W>
-<W id="TonePeoples_S128">
+<W id="TonePeoples_W128">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1395,7 +1395,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="522.818" end="523.994"/>
 </W>
-<W id="TonePeoples_S129">
+<W id="TonePeoples_W129">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1406,7 +1406,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="528.844" end="530.173"/>
 </W>
-<W id="TonePeoples_S130">
+<W id="TonePeoples_W130">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1418,7 +1418,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="516.665" end="518.5"/>
 </W>
-<W id="TonePeoples_S131">
+<W id="TonePeoples_W131">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1430,7 +1430,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="532.048" end="533.778"/>
 </W>
-<W id="TonePeoples_S132">
+<W id="TonePeoples_W132">
 	<FORM>nɑ˩hĩ˧-sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1442,7 +1442,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="534.788" end="536.298"/>
 </W>
-<W id="TonePeoples_S133">
+<W id="TonePeoples_W133">
 	<FORM>[nɑ˩hĩ˧-]sɯ˥tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -1453,7 +1453,7 @@
 	<TRANSL xml:lang="en">Naxi knife</TRANSL>
 <AUDIO start="507.377" end="508.352"/>
 </W>
-<W id="TonePeoples_S134">
+<W id="TonePeoples_W134">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | bɑ˩lɑ˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1463,7 +1463,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="153.762" end="155.155"/>
 </W>
-<W id="TonePeoples_S135">
+<W id="TonePeoples_W135">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | bɑ˩lɑ˩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1473,7 +1473,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="157.57" end="158.963"/>
 </W>
-<W id="TonePeoples_S136">
+<W id="TonePeoples_W136">
 	<FORM>nɑ˩hĩ˧-bɑ˧lɑ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1483,7 +1483,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="162.812" end="163.429"/>
 </W>
-<W id="TonePeoples_S137">
+<W id="TonePeoples_W137">
 	<FORM>nɑ˩hĩ˧-bɑ˧lɑ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1493,7 +1493,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="164.803" end="165.411"/>
 </W>
-<W id="TonePeoples_S138">
+<W id="TonePeoples_W138">
 	<FORM>nɑ˩hĩ˧-bɑ˧lɑ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1504,7 +1504,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="175.891" end="176.901"/>
 </W>
-<W id="TonePeoples_S139">
+<W id="TonePeoples_W139">
 	<FORM>nɑ˩hĩ˧-bɑ˧lɑ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -1515,7 +1515,7 @@
 	<TRANSL xml:lang="en">Naxi clothes</TRANSL>
 <AUDIO start="168.646" end="169.784"/>
 </W>
-<W id="TonePeoples_S140">
+<W id="TonePeoples_W140">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -1525,7 +1525,7 @@
 	<TRANSL xml:lang="en">Naxi amber</TRANSL>
 <AUDIO start="63.135" end="64.458"/>
 </W>
-<W id="TonePeoples_S141">
+<W id="TonePeoples_W141">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -1535,7 +1535,7 @@
 	<TRANSL xml:lang="en">Naxi amber</TRANSL>
 <AUDIO start="76.474" end="77.682"/>
 </W>
-<W id="TonePeoples_S142">
+<W id="TonePeoples_W142">
 	<FORM>[nɑ˩hĩ˧-]bv̩˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -1545,7 +1545,7 @@
 	<TRANSL xml:lang="en">Naxi amber</TRANSL>
 <AUDIO start="79.667" end="82.721"/>
 </W>
-<W id="TonePeoples_S143">
+<W id="TonePeoples_W143">
 	<FORM>‡nɑ˩hĩ˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -1556,7 +1556,7 @@
 	<TRANSL xml:lang="en">Naxi amber</TRANSL>
 <AUDIO start="71.656" end="75.72"/>
 </W>
-<W id="TonePeoples_S144">
+<W id="TonePeoples_W144">
 	<FORM>‡nɑ˩hĩ˧ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -1567,7 +1567,7 @@
 	<TRANSL xml:lang="en">Naxi amber</TRANSL>
 <AUDIO start="85.234" end="85.953"/>
 </W>
-<W id="TonePeoples_S145">
+<W id="TonePeoples_W145">
 	<FORM>‡nɑ˩hĩ˧ | tse˧kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -1578,7 +1578,7 @@
 	<TRANSL xml:lang="en">Naxi sanctuary</TRANSL>
 <AUDIO start="1720.345" end="1721.379"/>
 </W>
-<W id="TonePeoples_S146">
+<W id="TonePeoples_W146">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -1588,7 +1588,7 @@
 	<TRANSL xml:lang="en">Naxi ring</TRANSL>
 <AUDIO start="246.154" end="247.571"/>
 </W>
-<W id="TonePeoples_S147">
+<W id="TonePeoples_W147">
 	<FORM>nɑ˩hĩ˧-lo˥pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -1599,7 +1599,7 @@
 	<TRANSL xml:lang="en">Naxi ring</TRANSL>
 <AUDIO start="250.682" end="253.979"/>
 </W>
-<W id="TonePeoples_S148">
+<W id="TonePeoples_W148">
 	<FORM>nɑ˩hĩ˧-lo˥pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -1610,7 +1610,7 @@
 	<TRANSL xml:lang="en">Naxi ring</TRANSL>
 <AUDIO start="258.905" end="259.657"/>
 </W>
-<W id="TonePeoples_S149">
+<W id="TonePeoples_W149">
 	<FORM>nɑ˩hĩ˧-lo˥pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -1622,7 +1622,7 @@
 	<TRANSL xml:lang="en">Naxi ring</TRANSL>
 <AUDIO start="264.893" end="269.723"/>
 </W>
-<W id="TonePeoples_S150">
+<W id="TonePeoples_W150">
 	<FORM>nɑ˩hĩ˧-tɕi˥nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -1633,7 +1633,7 @@
 	<TRANSL xml:lang="en">Naxi saddle mat</TRANSL>
 <AUDIO start="815.178" end="822.864"/>
 </W>
-<W id="TonePeoples_S151">
+<W id="TonePeoples_W151">
 	<FORM>[nɑ˩hĩ˧-]pɤ˥ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -1644,7 +1644,7 @@
 	<TRANSL xml:lang="en">Naxi stool</TRANSL>
 <AUDIO start="764.326" end="769.551"/>
 </W>
-<W id="TonePeoples_S152">
+<W id="TonePeoples_W152">
 	<FORM>[nɑ˩hĩ˧-]pɤ˥ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -1655,7 +1655,7 @@
 	<TRANSL xml:lang="en">Naxi stool</TRANSL>
 <AUDIO start="770.108" end="771.246"/>
 </W>
-<W id="TonePeoples_S153">
+<W id="TonePeoples_W153">
 	<FORM>nɑ˩hĩ˧-bv̩˧ | ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1665,7 +1665,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="617.087" end="618.062"/>
 </W>
-<W id="TonePeoples_S154">
+<W id="TonePeoples_W154">
 	<FORM>nɑ˩hĩ˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1676,7 +1676,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="619.553" end="620.702"/>
 </W>
-<W id="TonePeoples_S155">
+<W id="TonePeoples_W155">
 	<FORM>nɑ˩hĩ˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1687,7 +1687,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="622.165" end="623.825"/>
 </W>
-<W id="TonePeoples_S156">
+<W id="TonePeoples_W156">
 	<FORM>nɑ˩hĩ˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1698,7 +1698,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="626.855" end="627.877"/>
 </W>
-<W id="TonePeoples_S157">
+<W id="TonePeoples_W157">
 	<FORM>nɑ˩hĩ˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1709,7 +1709,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="625.477" end="626.282"/>
 </W>
-<W id="TonePeoples_S158">
+<W id="TonePeoples_W158">
 	<FORM>nɑ˩hĩ˧-ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -1721,7 +1721,7 @@
 	<TRANSL xml:lang="en">Naxi earring</TRANSL>
 <AUDIO start="631.88" end="633.125"/>
 </W>
-<W id="TonePeoples_S159">
+<W id="TonePeoples_W159">
 	<FORM>nɑ˩hĩ˧-tse˧mi˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧mi˥"/>
@@ -1732,7 +1732,7 @@
 	<TRANSL xml:lang="en">Naxi lighter</TRANSL>
 <AUDIO start="715.382" end="716.45"/>
 </W>
-<W id="TonePeoples_S160">
+<W id="TonePeoples_W160">
 	<FORM>nɑ˩hĩ˧-ʁæ˧ŋv̩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -1743,7 +1743,7 @@
 	<TRANSL xml:lang="en">Naxi silver collar</TRANSL>
 <AUDIO start="696.051" end="697.328"/>
 </W>
-<W id="TonePeoples_S161">
+<W id="TonePeoples_W161">
 	<FORM>nɑ˩hĩ˧-qʰwæ˧ʈɯ˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: nɑ˩hĩ#˥"/>
 	<NOTE xml:lang="en" message="Head: qʰwæ˧ʈɯ˥"/>
@@ -1754,7 +1754,7 @@
 	<TRANSL xml:lang="en">Naxi turban</TRANSL>
 <AUDIO start="677.754" end="679.1"/>
 </W>
-<W id="TonePeoples_S162">
+<W id="TonePeoples_W162">
 	<FORM>lv̩˧sɯ˥-qʰwɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: qʰwɤ˧˥"/>
@@ -1765,7 +1765,7 @@
 	<TRANSL xml:lang="en">Lisu bowl</TRANSL>
 <AUDIO start="998.999" end="1002.145"/>
 </W>
-<W id="TonePeoples_S163">
+<W id="TonePeoples_W163">
 	<FORM>lv̩˧sɯ˥-qʰwɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: qʰwɤ˧˥"/>
@@ -1777,7 +1777,7 @@
 	<TRANSL xml:lang="en">Lisu bowl</TRANSL>
 <AUDIO start="1004.885" end="1005.953"/>
 </W>
-<W id="TonePeoples_S164">
+<W id="TonePeoples_W164">
 	<FORM>lv̩˧sɯ˥-lv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: lv̩˧"/>
@@ -1788,7 +1788,7 @@
 	<TRANSL xml:lang="en">Lisu fields</TRANSL>
 <AUDIO start="977.694" end="978.739"/>
 </W>
-<W id="TonePeoples_S165">
+<W id="TonePeoples_W165">
 	<FORM>lv̩˧sɯ˥-sɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -1799,7 +1799,7 @@
 	<TRANSL xml:lang="en">Lisu blood</TRANSL>
 <AUDIO start="1027.78" end="1028.871"/>
 </W>
-<W id="TonePeoples_S166">
+<W id="TonePeoples_W166">
 	<FORM>lv̩˧sɯ˥-sɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɤ˥"/>
@@ -1810,7 +1810,7 @@
 	<TRANSL xml:lang="en">Lisu blood</TRANSL>
 <AUDIO start="1039.877" end="1041.48"/>
 </W>
-<W id="TonePeoples_S167">
+<W id="TonePeoples_W167">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1821,7 +1821,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="9.822" end="13.116"/>
 </W>
-<W id="TonePeoples_S168">
+<W id="TonePeoples_W168">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1832,7 +1832,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="31.079" end="32.345"/>
 </W>
-<W id="TonePeoples_S169">
+<W id="TonePeoples_W169">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1843,7 +1843,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="32.67" end="33.703"/>
 </W>
-<W id="TonePeoples_S170">
+<W id="TonePeoples_W170">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1854,7 +1854,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1366.038" end="1370.171"/>
 </W>
-<W id="TonePeoples_S171">
+<W id="TonePeoples_W171">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1865,7 +1865,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1451.951" end="1453.379"/>
 </W>
-<W id="TonePeoples_S172">
+<W id="TonePeoples_W172">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1876,7 +1876,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="16.518" end="17.191"/>
 </W>
-<W id="TonePeoples_S173">
+<W id="TonePeoples_W173">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1887,7 +1887,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="28.055" end="28.949"/>
 </W>
-<W id="TonePeoples_S174">
+<W id="TonePeoples_W174">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1898,7 +1898,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1363.584" end="1364.369"/>
 </W>
-<W id="TonePeoples_S175">
+<W id="TonePeoples_W175">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1910,7 +1910,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="34.783" end="35.526"/>
 </W>
-<W id="TonePeoples_S176">
+<W id="TonePeoples_W176">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1922,7 +1922,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1373.398" end="1375.558"/>
 </W>
-<W id="TonePeoples_S177">
+<W id="TonePeoples_W177">
 	<FORM>lv̩˧sɯ˥-pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1934,7 +1934,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1394.192" end="1396.642"/>
 </W>
-<W id="TonePeoples_S178">
+<W id="TonePeoples_W178">
 	<FORM>[lv̩˧sɯ˥-]pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1945,7 +1945,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="14.024" end="14.413"/>
 </W>
-<W id="TonePeoples_S179">
+<W id="TonePeoples_W179">
 	<FORM>[lv̩˧sɯ˥-]pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1956,7 +1956,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="21.733" end="22.453"/>
 </W>
-<W id="TonePeoples_S180">
+<W id="TonePeoples_W180">
 	<FORM>[lv̩˧sɯ˥-]pʰv̩˩kɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pʰv̩˧kɤ˧"/>
@@ -1968,7 +1968,7 @@
 	<TRANSL xml:lang="en">Lisu blanket</TRANSL>
 <AUDIO start="1370.333" end="1373.073"/>
 </W>
-<W id="TonePeoples_S181">
+<W id="TonePeoples_W181">
 	<FORM>hwæ˧tsɯ˥-hi˩kʰɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: hi˧kʰɯ#˥"/>
@@ -1979,7 +1979,7 @@
 	<TRANSL xml:lang="en">rat's gums</TRANSL>
 <AUDIO start="1503.5" end="1505.032"/>
 </W>
-<W id="TonePeoples_S182">
+<W id="TonePeoples_W182">
 	<FORM>hwæ˧tsɯ˥-hi˩kʰɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: hi˧kʰɯ#˥"/>
@@ -1990,7 +1990,7 @@
 	<TRANSL xml:lang="en">rat's gums</TRANSL>
 <AUDIO start="1496.773" end="1498.113"/>
 </W>
-<W id="TonePeoples_S183">
+<W id="TonePeoples_W183">
 	<FORM>lv̩˧sɯ˥-kʰwæ˩ɻæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰwæ˧ɻæ#˥"/>
@@ -2001,7 +2001,7 @@
 	<TRANSL xml:lang="en">Lisu felt</TRANSL>
 <AUDIO start="739.635" end="746.067"/>
 </W>
-<W id="TonePeoples_S184">
+<W id="TonePeoples_W184">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2012,7 +2012,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="1474.312" end="1475.938"/>
 </W>
-<W id="TonePeoples_S185">
+<W id="TonePeoples_W185">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2023,7 +2023,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="354.52" end="355.774"/>
 </W>
-<W id="TonePeoples_S186">
+<W id="TonePeoples_W186">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2034,7 +2034,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="383.325" end="384.66"/>
 </W>
-<W id="TonePeoples_S187">
+<W id="TonePeoples_W187">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2045,7 +2045,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="1463.248" end="1464.688"/>
 </W>
-<W id="TonePeoples_S188">
+<W id="TonePeoples_W188">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2056,7 +2056,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="1501.096" end="1502.606"/>
 </W>
-<W id="TonePeoples_S189">
+<W id="TonePeoples_W189">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2068,7 +2068,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="1481.673" end="1483.507"/>
 </W>
-<W id="TonePeoples_S190">
+<W id="TonePeoples_W190">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2080,7 +2080,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="361.904" end="368.719"/>
 </W>
-<W id="TonePeoples_S191">
+<W id="TonePeoples_W191">
 	<FORM>lv̩˧sɯ˥-kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2092,7 +2092,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="374.884" end="376.37"/>
 </W>
-<W id="TonePeoples_S192">
+<W id="TonePeoples_W192">
 	<FORM>[lv̩˧sɯ˥-]kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2103,7 +2103,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="358.421" end="359.211"/>
 </W>
-<W id="TonePeoples_S193">
+<W id="TonePeoples_W193">
 	<FORM>[lv̩˧sɯ˥-]kʰɯ˩dʑi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: kʰɯ˧dʑi˧˥"/>
@@ -2115,7 +2115,7 @@
 	<TRANSL xml:lang="en">Lisu leggings (puttee)</TRANSL>
 <AUDIO start="1484.645" end="1485.435"/>
 </W>
-<W id="TonePeoples_S194">
+<W id="TonePeoples_W194">
 	<FORM>lv̩˧sɯ˥-ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -2126,7 +2126,7 @@
 	<TRANSL xml:lang="en">Lisu tile</TRANSL>
 <AUDIO start="869.513" end="870.859"/>
 </W>
-<W id="TonePeoples_S195">
+<W id="TonePeoples_W195">
 	<FORM>lv̩˧sɯ˥-ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -2137,7 +2137,7 @@
 	<TRANSL xml:lang="en">Lisu tile</TRANSL>
 <AUDIO start="920.063" end="921.432"/>
 </W>
-<W id="TonePeoples_S196">
+<W id="TonePeoples_W196">
 	<FORM>lv̩˧sɯ˥-ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -2148,7 +2148,7 @@
 	<TRANSL xml:lang="en">Lisu tile</TRANSL>
 <AUDIO start="916.881" end="917.967"/>
 </W>
-<W id="TonePeoples_S197">
+<W id="TonePeoples_W197">
 	<FORM>[lv̩˧sɯ˥-]ŋwɤ˩pʰæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ŋwɤ˧pʰæ˧˥"/>
@@ -2159,7 +2159,7 @@
 	<TRANSL xml:lang="en">Lisu tile</TRANSL>
 <AUDIO start="873.054" end="874.041"/>
 </W>
-<W id="TonePeoples_S198">
+<W id="TonePeoples_W198">
 	<FORM>lv̩˧sɯ˥-nv̩˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: nv̩˩mi˩"/>
@@ -2170,7 +2170,7 @@
 	<TRANSL xml:lang="en">Lisu heart</TRANSL>
 <AUDIO start="1084.831" end="1086.968"/>
 </W>
-<W id="TonePeoples_S199">
+<W id="TonePeoples_W199">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2181,7 +2181,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="544.384" end="545.586"/>
 </W>
-<W id="TonePeoples_S200">
+<W id="TonePeoples_W200">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2192,7 +2192,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="595.787" end="596.809"/>
 </W>
-<W id="TonePeoples_S201">
+<W id="TonePeoples_W201">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2203,7 +2203,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1653.167" end="1653.965"/>
 </W>
-<W id="TonePeoples_S202">
+<W id="TonePeoples_W202">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2214,7 +2214,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1688.104" end="1690.032"/>
 </W>
-<W id="TonePeoples_S203">
+<W id="TonePeoples_W203">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2225,7 +2225,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1707.714" end="1709.374"/>
 </W>
-<W id="TonePeoples_S204">
+<W id="TonePeoples_W204">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2236,7 +2236,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1655.777" end="1656.63"/>
 </W>
-<W id="TonePeoples_S205">
+<W id="TonePeoples_W205">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2247,7 +2247,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1672.199" end="1678.422"/>
 </W>
-<W id="TonePeoples_S206">
+<W id="TonePeoples_W206">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2259,7 +2259,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="558.391" end="562.757"/>
 </W>
-<W id="TonePeoples_S207">
+<W id="TonePeoples_W207">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2271,7 +2271,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="553.074" end="554.717"/>
 </W>
-<W id="TonePeoples_S208">
+<W id="TonePeoples_W208">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2283,7 +2283,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="600.797" end="602.196"/>
 </W>
-<W id="TonePeoples_S209">
+<W id="TonePeoples_W209">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2295,7 +2295,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="608.233" end="609.742"/>
 </W>
-<W id="TonePeoples_S210">
+<W id="TonePeoples_W210">
 	<FORM>lv̩˧sɯ˥-sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2307,7 +2307,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1667.276" end="1668.971"/>
 </W>
-<W id="TonePeoples_S211">
+<W id="TonePeoples_W211">
 	<FORM>[lv̩˧sɯ˥-]sɯ˩tʰi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: sɯ˩tʰi˩"/>
@@ -2318,7 +2318,7 @@
 	<TRANSL xml:lang="en">Lisu knife</TRANSL>
 <AUDIO start="1657.756" end="1660.264"/>
 </W>
-<W id="TonePeoples_S212">
+<W id="TonePeoples_W212">
 	<FORM>lv̩˧sɯ˥-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -2329,7 +2329,7 @@
 	<TRANSL xml:lang="en">Lisu clothes</TRANSL>
 <AUDIO start="181.115" end="184.424"/>
 </W>
-<W id="TonePeoples_S213">
+<W id="TonePeoples_W213">
 	<FORM>lv̩˧sɯ˥-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -2340,7 +2340,7 @@
 	<TRANSL xml:lang="en">Lisu clothes</TRANSL>
 <AUDIO start="202.152" end="202.866"/>
 </W>
-<W id="TonePeoples_S214">
+<W id="TonePeoples_W214">
 	<FORM>lv̩˧sɯ˥-bɑ˩lɑ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: bɑ˩lɑ˩"/>
@@ -2352,7 +2352,7 @@
 	<TRANSL xml:lang="en">Lisu clothes</TRANSL>
 <AUDIO start="192.133" end="193.352"/>
 </W>
-<W id="TonePeoples_S215">
+<W id="TonePeoples_W215">
 	<FORM>lv̩˧sɯ˥-bv̩˩ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2362,7 +2362,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="89.431" end="90.94"/>
 </W>
-<W id="TonePeoples_S216">
+<W id="TonePeoples_W216">
 	<FORM>lv̩˧sɯ˥-bv̩˩ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2372,7 +2372,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="102.536" end="103.504"/>
 </W>
-<W id="TonePeoples_S217">
+<W id="TonePeoples_W217">
 	<FORM>[lv̩˧sɯ˥]-bv̩˩ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2382,7 +2382,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="95.561" end="99.033"/>
 </W>
-<W id="TonePeoples_S218">
+<W id="TonePeoples_W218">
 	<FORM>lv̩˧sɯ˥-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2393,7 +2393,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="1559.599" end="1561.178"/>
 </W>
-<W id="TonePeoples_S219">
+<W id="TonePeoples_W219">
 	<FORM>lv̩˧sɯ˥-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2404,7 +2404,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="106.787" end="107.467"/>
 </W>
-<W id="TonePeoples_S220">
+<W id="TonePeoples_W220">
 	<FORM>lv̩˧sɯ˥-pv̩˩ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2416,7 +2416,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="1562.223" end="1563.639"/>
 </W>
-<W id="TonePeoples_S221">
+<W id="TonePeoples_W221">
 	<FORM>‡lv̩˧sɯ˥ | pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pv̩˧ʂɯ˩"/>
@@ -2428,7 +2428,7 @@
 	<TRANSL xml:lang="en">Lisu amber</TRANSL>
 <AUDIO start="92.264" end="94.331"/>
 </W>
-<W id="TonePeoples_S222">
+<W id="TonePeoples_W222">
 	<FORM>lv̩˧sɯ˥-tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -2439,7 +2439,7 @@
 	<TRANSL xml:lang="en">Lisu sanctuary</TRANSL>
 <AUDIO start="1724.525" end="1725.837"/>
 </W>
-<W id="TonePeoples_S223">
+<W id="TonePeoples_W223">
 	<FORM>lv̩˧sɯ˥-tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -2451,7 +2451,7 @@
 	<TRANSL xml:lang="en">Lisu sanctuary</TRANSL>
 <AUDIO start="1740.477" end="1742.3"/>
 </W>
-<W id="TonePeoples_S224">
+<W id="TonePeoples_W224">
 	<FORM>lv̩˧sɯ˥-tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -2463,7 +2463,7 @@
 	<TRANSL xml:lang="en">Lisu sanctuary</TRANSL>
 <AUDIO start="1736.228" end="1737.969"/>
 </W>
-<W id="TonePeoples_S225">
+<W id="TonePeoples_W225">
 	<FORM>[lv̩˧sɯ˥-]tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -2475,7 +2475,7 @@
 	<TRANSL xml:lang="en">Lisu sanctuary</TRANSL>
 <AUDIO start="1727.927" end="1728.606"/>
 </W>
-<W id="TonePeoples_S226">
+<W id="TonePeoples_W226">
 	<FORM>[lv̩˧sɯ˥-]tse˩kʰo˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧kʰo˩"/>
@@ -2487,7 +2487,7 @@
 	<TRANSL xml:lang="en">Lisu sanctuary</TRANSL>
 <AUDIO start="1732.803" end="1735.032"/>
 </W>
-<W id="TonePeoples_S227">
+<W id="TonePeoples_W227">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2497,7 +2497,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1177.37" end="1178.972"/>
 </W>
-<W id="TonePeoples_S228">
+<W id="TonePeoples_W228">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2507,7 +2507,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1205.71" end="1211.071"/>
 </W>
-<W id="TonePeoples_S229">
+<W id="TonePeoples_W229">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2517,7 +2517,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1230.439" end="1232.085"/>
 </W>
-<W id="TonePeoples_S230">
+<W id="TonePeoples_W230">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2528,7 +2528,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1212.773" end="1214.252"/>
 </W>
-<W id="TonePeoples_S231">
+<W id="TonePeoples_W231">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2539,7 +2539,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1224.19" end="1225.052"/>
 </W>
-<W id="TonePeoples_S232">
+<W id="TonePeoples_W232">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2550,7 +2550,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1170.787" end="1171.569"/>
 </W>
-<W id="TonePeoples_S233">
+<W id="TonePeoples_W233">
 	<FORM>[hwæ˧tsɯ˥-bv̩˩ | ɬi˧]pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2560,7 +2560,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1237.008" end="1237.203"/>
 </W>
-<W id="TonePeoples_S234">
+<W id="TonePeoples_W234">
 	<FORM>[hwæ˧tsɯ˥-]bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2571,7 +2571,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1217.665" end="1221.613"/>
 </W>
-<W id="TonePeoples_S235">
+<W id="TonePeoples_W235">
 	<FORM>[hwæ˧tsɯ˥-bv̩˩ | ] ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2581,7 +2581,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1234.616" end="1235.637"/>
 </W>
-<W id="TonePeoples_S236">
+<W id="TonePeoples_W236">
 	<FORM>[hwæ˧tsɯ˥-bv̩˩ | ] ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2591,7 +2591,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1238.134" end="1239.004"/>
 </W>
-<W id="TonePeoples_S237">
+<W id="TonePeoples_W237">
 	<FORM>[hwæ˧tsɯ˥-] bv̩˩ | ɬi˧pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2602,7 +2602,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1256.86" end="1259.043"/>
 </W>
-<W id="TonePeoples_S238">
+<W id="TonePeoples_W238">
 	<FORM>hwæ˧tsɯ˥-ɬi˩pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2613,7 +2613,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1156.968" end="1158.083"/>
 </W>
-<W id="TonePeoples_S239">
+<W id="TonePeoples_W239">
 	<FORM>hwæ˧tsɯ˥-ɬi˩pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2624,7 +2624,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1159.917" end="1161.752"/>
 </W>
-<W id="TonePeoples_S240">
+<W id="TonePeoples_W240">
 	<FORM>hwæ˧tsɯ˥-ɬi˩pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2635,7 +2635,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1161.844" end="1167.44"/>
 </W>
-<W id="TonePeoples_S241">
+<W id="TonePeoples_W241">
 	<FORM>hwæ˧tsɯ˥-ɬi˩pi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pi˩"/>
@@ -2647,7 +2647,7 @@
 	<TRANSL xml:lang="en">rat's ears</TRANSL>
 <AUDIO start="1182.975" end="1201.551"/>
 </W>
-<W id="TonePeoples_S242">
+<W id="TonePeoples_W242">
 	<FORM>hwæ˧tsɯ˥-ʁo˩qʰwɤ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ʁo˧qʰwɤ˩"/>
@@ -2658,7 +2658,7 @@
 	<TRANSL xml:lang="en">rat's head</TRANSL>
 <AUDIO start="1552.227" end="1553.46"/>
 </W>
-<W id="TonePeoples_S243">
+<W id="TonePeoples_W243">
 	<FORM>hwæ˧tsɯ˥-bv̩˩ | ʁo˧qʰwɤ˩, | [hwæ˧tsɯ˥-bv̩˩ | ɬi˧pi˩]</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ʁo˧qʰwɤ˩"/>
@@ -2670,7 +2670,7 @@
 	<TRANSL xml:lang="en">rat's head; rat's ears</TRANSL>
 <AUDIO start="1263.223" end="1280.522"/>
 </W>
-<W id="TonePeoples_S244">
+<W id="TonePeoples_W244">
 	<FORM>lv̩˧sɯ˥-lo˩pv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: lo˩pv̩˧˥"/>
@@ -2682,7 +2682,7 @@
 	<TRANSL xml:lang="en">Lisu ring</TRANSL>
 <AUDIO start="275.197" end="276.956"/>
 </W>
-<W id="TonePeoples_S245">
+<W id="TonePeoples_W245">
 	<FORM>lv̩˧sɯ˥-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -2693,7 +2693,7 @@
 	<TRANSL xml:lang="en">Lisu saddle mat</TRANSL>
 <AUDIO start="824.768" end="826.254"/>
 </W>
-<W id="TonePeoples_S246">
+<W id="TonePeoples_W246">
 	<FORM>lv̩˧sɯ˥-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -2704,7 +2704,7 @@
 	<TRANSL xml:lang="en">Lisu saddle mat</TRANSL>
 <AUDIO start="1439.273" end="1440.783"/>
 </W>
-<W id="TonePeoples_S247">
+<W id="TonePeoples_W247">
 	<FORM>lv̩˧sɯ˥-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -2715,7 +2715,7 @@
 	<TRANSL xml:lang="en">Lisu saddle mat</TRANSL>
 <AUDIO start="1454.459" end="1455.922"/>
 </W>
-<W id="TonePeoples_S248">
+<W id="TonePeoples_W248">
 	<FORM>lv̩˧sɯ˥-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -2727,7 +2727,7 @@
 	<TRANSL xml:lang="en">Lisu saddle mat</TRANSL>
 <AUDIO start="1441.851" end="1444.15"/>
 </W>
-<W id="TonePeoples_S249">
+<W id="TonePeoples_W249">
 	<FORM>lv̩˧sɯ˥-tɕi˩nv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tɕi˩nv̩˧˥"/>
@@ -2739,7 +2739,7 @@
 	<TRANSL xml:lang="en">Lisu saddle mat</TRANSL>
 <AUDIO start="1447.29" end="1449.026"/>
 </W>
-<W id="TonePeoples_S250">
+<W id="TonePeoples_W250">
 	<FORM>lv̩˧sɯ˥-pɤ˩ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -2750,7 +2750,7 @@
 	<TRANSL xml:lang="en">Lisu stool</TRANSL>
 <AUDIO start="773.591" end="774.81"/>
 </W>
-<W id="TonePeoples_S251">
+<W id="TonePeoples_W251">
 	<FORM>lv̩˧sɯ˥-pɤ˩ti˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: pɤ˩ti˧˥"/>
@@ -2761,7 +2761,7 @@
 	<TRANSL xml:lang="en">Lisu stool</TRANSL>
 <AUDIO start="780.278" end="781.579"/>
 </W>
-<W id="TonePeoples_S252">
+<W id="TonePeoples_W252">
 	<FORM>‡hwæ˧tsɯ˥-bv̩˩ njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2772,7 +2772,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1318.533" end="1319.903"/>
 </W>
-<W id="TonePeoples_S253">
+<W id="TonePeoples_W253">
 	<FORM>‡hwæ˧tsɯ˥-bv̩˩ njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2783,7 +2783,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1328.61" end="1329.934"/>
 </W>
-<W id="TonePeoples_S254">
+<W id="TonePeoples_W254">
 	<FORM>hwæ˧tsɯ˥-njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2794,7 +2794,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1284.771" end="1286.164"/>
 </W>
-<W id="TonePeoples_S255">
+<W id="TonePeoples_W255">
 	<FORM>hwæ˧tsɯ˥-njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2805,7 +2805,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1471.096" end="1472.571"/>
 </W>
-<W id="TonePeoples_S256">
+<W id="TonePeoples_W256">
 	<FORM>hwæ˧tsɯ˥-njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2817,7 +2817,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1293.966" end="1296.334"/>
 </W>
-<W id="TonePeoples_S257">
+<W id="TonePeoples_W257">
 	<FORM>hwæ˧tsɯ˥-njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2829,7 +2829,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1312.403" end="1314.446"/>
 </W>
-<W id="TonePeoples_S258">
+<W id="TonePeoples_W258">
 	<FORM>[hwæ˧tsɯ˥-]njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2840,7 +2840,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1287.592" end="1291.354"/>
 </W>
-<W id="TonePeoples_S259">
+<W id="TonePeoples_W259">
 	<FORM>[hwæ˧tsɯ˥-]njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2851,7 +2851,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1297.828" end="1298.575"/>
 </W>
-<W id="TonePeoples_S260">
+<W id="TonePeoples_W260">
 	<FORM>[hwæ˧tsɯ˥-]njɤ˩ɭɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧tsɯ˥"/>
 	<NOTE xml:lang="en" message="Head: njɤ˩ɭɯ˧"/>
@@ -2862,7 +2862,7 @@
 	<TRANSL xml:lang="en">rat's eyes</TRANSL>
 <AUDIO start="1304.415" end="1307.503"/>
 </W>
-<W id="TonePeoples_S261">
+<W id="TonePeoples_W261">
 	<FORM>lv̩˧sɯ˥-ɬi˩pæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -2873,7 +2873,7 @@
 	<TRANSL xml:lang="en">Lisu earring</TRANSL>
 <AUDIO start="651.724" end="653.094"/>
 </W>
-<W id="TonePeoples_S262">
+<W id="TonePeoples_W262">
 	<FORM>lv̩˧sɯ˥-ɬi˩pæ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ɬi˧pæ˥"/>
@@ -2884,7 +2884,7 @@
 	<TRANSL xml:lang="en">Lisu earring</TRANSL>
 <AUDIO start="641.67" end="643.667"/>
 </W>
-<W id="TonePeoples_S263">
+<W id="TonePeoples_W263">
 	<FORM>lv̩˧sɯ˥-tse˩mi˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: tse˧mi˥"/>
@@ -2895,7 +2895,7 @@
 	<TRANSL xml:lang="en">Lisu lighter</TRANSL>
 <AUDIO start="718.574" end="719.677"/>
 </W>
-<W id="TonePeoples_S264">
+<W id="TonePeoples_W264">
 	<FORM>lv̩˧sɯ˥-ʁæ˩ŋv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -2906,7 +2906,7 @@
 	<TRANSL xml:lang="en">Lisu silver collar</TRANSL>
 <AUDIO start="699.557" end="701.043"/>
 </W>
-<W id="TonePeoples_S265">
+<W id="TonePeoples_W265">
 	<FORM>lv̩˧sɯ˥-ʁæ˩ŋv̩˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -2917,7 +2917,7 @@
 	<TRANSL xml:lang="en">Lisu silver collar</TRANSL>
 <AUDIO start="888.019" end="907.802"/>
 </W>
-<W id="TonePeoples_S266">
+<W id="TonePeoples_W266">
 	<FORM>‡lv̩˧sɯ˥ | ʁæ˧ŋv̩˥</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: ʁæ˧ŋv̩˥"/>
@@ -2928,7 +2928,7 @@
 	<TRANSL xml:lang="en">Lisu silver collar</TRANSL>
 <AUDIO start="876.409" end="885.163"/>
 </W>
-<W id="TonePeoples_S267">
+<W id="TonePeoples_W267">
 	<FORM>lv̩˧sɯ˥-qʰwæ˩ʈɯ˩</FORM>
 	<NOTE xml:lang="en" message="Determiner: lv̩˧sɯ˥"/>
 	<NOTE xml:lang="en" message="Head: qʰwæ˧ʈɯ˥"/>
@@ -2939,7 +2939,7 @@
 	<TRANSL xml:lang="en">Lisu turban</TRANSL>
 <AUDIO start="681.562" end="682.816"/>
 </W>
-<W id="TonePeoples_S268">
+<W id="TonePeoples_W268">
 	<FORM>hwæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: hwæ˧"/>
 	<TRANSL xml:lang="fr">acheter</TRANSL>
@@ -2947,7 +2947,7 @@
 	<TRANSL xml:lang="en">to buy</TRANSL>
 <AUDIO start="1625.939" end="1626.682"/>
 </W>
-<W id="TonePeoples_S269">
+<W id="TonePeoples_W269">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧"/>
 	<TRANSL xml:lang="fr">acheter un couteau des Bai</TRANSL>
@@ -2955,7 +2955,7 @@
 	<TRANSL xml:lang="en">to buy a Bai knife</TRANSL>
 <AUDIO start="1627.75" end="1629.665"/>
 </W>
-<W id="TonePeoples_S270">
+<W id="TonePeoples_W270">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧"/>
 	<TRANSL xml:lang="fr">acheter un couteau des Bai</TRANSL>
@@ -2963,7 +2963,7 @@
 	<TRANSL xml:lang="en">to buy a Bai knife</TRANSL>
 <AUDIO start="1649.96" end="1650.99"/>
 </W>
-<W id="TonePeoples_S271">
+<W id="TonePeoples_W271">
 	<FORM>ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧</FORM>
 	<NOTE xml:lang="en" message="Determiner: ɬi˧bv̩˧-sɯ˩tʰi˩ | hwæ˧"/>
 	<NOTE xml:lang="en" message="The speaker emphasizes the contrast in tone between the last syllable of 'knife' and the following verb."/>
@@ -2972,7 +2972,7 @@
 	<TRANSL xml:lang="en">to buy a Bai knife</TRANSL>
 <AUDIO start="1632.487" end="1635.203"/>
 </W>
-<W id="TonePeoples_S272">
+<W id="TonePeoples_W272">
 	<FORM>qʰwɤ˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: qʰwɤ˧˥"/>
 	<TRANSL xml:lang="fr">bol</TRANSL>
@@ -2980,7 +2980,7 @@
 	<TRANSL xml:lang="en">bowl</TRANSL>
 <AUDIO start="990.814" end="991.58"/>
 </W>
-<W id="TonePeoples_S273">
+<W id="TonePeoples_W273">
 	<FORM>lv̩˧</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: lv̩˧"/>
 	<TRANSL xml:lang="fr">champ</TRANSL>
@@ -2988,7 +2988,7 @@
 	<TRANSL xml:lang="en">field</TRANSL>
 <AUDIO start="968.499" end="969.208"/>
 </W>
-<W id="TonePeoples_S274">
+<W id="TonePeoples_W274">
 	<FORM>kʰwæ˧ɻæ˧</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: kʰwæ˧ɻæ#˥"/>
 	<TRANSL xml:lang="fr">feutre</TRANSL>
@@ -2996,7 +2996,7 @@
 	<TRANSL xml:lang="en">felt</TRANSL>
 <AUDIO start="730.347" end="731.229"/>
 </W>
-<W id="TonePeoples_S275">
+<W id="TonePeoples_W275">
 	<FORM>hi˧kʰɯ˧</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: hi˧kʰɯ#˥"/>
 	<TRANSL xml:lang="fr">gencive</TRANSL>
@@ -3004,7 +3004,7 @@
 	<TRANSL xml:lang="en">gums</TRANSL>
 <AUDIO start="1493.028" end="1493.747"/>
 </W>
-<W id="TonePeoples_S276">
+<W id="TonePeoples_W276">
 	<FORM>kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: kʰɯ˧dʑi˧˥"/>
 	<TRANSL xml:lang="fr">bande molletière</TRANSL>
@@ -3012,7 +3012,7 @@
 	<TRANSL xml:lang="en">leggings (puttee)</TRANSL>
 <AUDIO start="324.195" end="327.748"/>
 </W>
-<W id="TonePeoples_S277">
+<W id="TonePeoples_W277">
 	<FORM>kʰɯ˧dʑi˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: kʰɯ˧dʑi˧˥"/>
 	<TRANSL xml:lang="fr">bande molletière</TRANSL>
@@ -3020,7 +3020,7 @@
 	<TRANSL xml:lang="en">leggings (puttee)</TRANSL>
 <AUDIO start="369.532" end="370.136"/>
 </W>
-<W id="TonePeoples_S278">
+<W id="TonePeoples_W278">
 	<FORM>ŋwɤ˧pʰæ˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: ŋwɤ˧pʰæ˧˥"/>
 	<TRANSL xml:lang="fr">tuile</TRANSL>
@@ -3028,7 +3028,7 @@
 	<TRANSL xml:lang="en">tile</TRANSL>
 <AUDIO start="856.173" end="864.462"/>
 </W>
-<W id="TonePeoples_S279">
+<W id="TonePeoples_W279">
 	<FORM>sɯ˩tʰi˩˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: sɯ˩tʰi˩"/>
 	<TRANSL xml:lang="fr">couteau</TRANSL>
@@ -3036,7 +3036,7 @@
 	<TRANSL xml:lang="en">knife</TRANSL>
 <AUDIO start="493.585" end="494.397"/>
 </W>
-<W id="TonePeoples_S280">
+<W id="TonePeoples_W280">
 	<FORM>pv̩˧ʂɯ˩</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: pv̩˧ʂɯ˩"/>
 	<TRANSL xml:lang="fr">ambre</TRANSL>
@@ -3044,7 +3044,7 @@
 	<TRANSL xml:lang="en">amber</TRANSL>
 <AUDIO start="61.486" end="62.484"/>
 </W>
-<W id="TonePeoples_S281">
+<W id="TonePeoples_W281">
 	<FORM>ʁo˧dzi˩</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: ʁo˧dzi˩"/>
 	<TRANSL xml:lang="fr">Tibétain</TRANSL>
@@ -3052,7 +3052,7 @@
 	<TRANSL xml:lang="en">Tibetan</TRANSL>
 <AUDIO start="51.745" end="52.128"/>
 </W>
-<W id="TonePeoples_S282">
+<W id="TonePeoples_W282">
 	<FORM>tɕi˩nv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: tɕi˩nv̩˧˥"/>
 	<TRANSL xml:lang="fr">tapis de selle</TRANSL>
@@ -3060,7 +3060,7 @@
 	<TRANSL xml:lang="en">saddle mat</TRANSL>
 <AUDIO start="809.582" end="810.244"/>
 </W>
-<W id="TonePeoples_S283">
+<W id="TonePeoples_W283">
 	<FORM>tɕi˩nv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: tɕi˩nv̩˧˥"/>
 	<TRANSL xml:lang="fr">tapis de selle</TRANSL>
@@ -3068,7 +3068,7 @@
 	<TRANSL xml:lang="en">saddle mat</TRANSL>
 <AUDIO start="812.203" end="812.781"/>
 </W>
-<W id="TonePeoples_S284">
+<W id="TonePeoples_W284">
 	<FORM>tɕi˩nv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: tɕi˩nv̩˧˥"/>
 	<TRANSL xml:lang="fr">tapis de selle</TRANSL>
@@ -3076,7 +3076,7 @@
 	<TRANSL xml:lang="en">saddle mat</TRANSL>
 <AUDIO start="1435.581" end="1436.371"/>
 </W>
-<W id="TonePeoples_S285">
+<W id="TonePeoples_W285">
 	<FORM>lo˩pv̩˧˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: lo˩pv̩˧˥"/>
 	<TRANSL xml:lang="fr">anneau</TRANSL>
@@ -3084,7 +3084,7 @@
 	<TRANSL xml:lang="en">ring</TRANSL>
 <AUDIO start="240.123" end="242.816"/>
 </W>
-<W id="TonePeoples_S286">
+<W id="TonePeoples_W286">
 	<FORM>pɤ˩ti˧</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: pɤ˩ti#˥"/>
 	<TRANSL xml:lang="fr">tabouret</TRANSL>
@@ -3092,7 +3092,7 @@
 	<TRANSL xml:lang="en">stool</TRANSL>
 <AUDIO start="1716.723" end="1718.569"/>
 </W>
-<W id="TonePeoples_S287">
+<W id="TonePeoples_W287">
 	<FORM>pɤ˩ti˧</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: pɤ˩ti#˥"/>
 	<TRANSL xml:lang="fr">tabouret</TRANSL>
@@ -3100,7 +3100,7 @@
 	<TRANSL xml:lang="en">stool</TRANSL>
 <AUDIO start="762.48" end="763.27"/>
 </W>
-<W id="TonePeoples_S288">
+<W id="TonePeoples_W288">
 	<FORM>ɬi˧pæ˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: ɬi˧pæ˥"/>
 	<TRANSL xml:lang="fr">boucle d'oreille</TRANSL>
@@ -3108,7 +3108,7 @@
 	<TRANSL xml:lang="en">earring</TRANSL>
 <AUDIO start="614.201" end="614.99"/>
 </W>
-<W id="TonePeoples_S289">
+<W id="TonePeoples_W289">
 	<FORM>tse˧mi˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: tse˧mi˥"/>
 	<TRANSL xml:lang="fr">briquet</TRANSL>
@@ -3116,7 +3116,7 @@
 	<TRANSL xml:lang="en">lighter</TRANSL>
 <AUDIO start="713.489" end="714.371"/>
 </W>
-<W id="TonePeoples_S290">
+<W id="TonePeoples_W290">
 	<FORM>qʰwæ˧ʈɯ˥</FORM>
 	<NOTE xml:lang="en" message="Underlying phonological form: qʰwæ˧ʈɯ˥"/>
 	<TRANSL xml:lang="fr">turban</TRANSL>
