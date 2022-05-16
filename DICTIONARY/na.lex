@@ -2128,7 +2128,7 @@
 \ge village_name
 \dn 巴瓦：温泉乡的一个村落
 \gn 巴瓦村
-\df Un village proche des Source Chaudes.
+\df Un village proche des Sources Chaudes.
 \gf nom_de_village
 \xv bæ˧ʁwɤ˧-ʁwɤ˧
 \xe same meaning: the village of fv:/bæ˧ʁwɤ˧/
