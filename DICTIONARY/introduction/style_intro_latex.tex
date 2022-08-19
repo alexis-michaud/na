@@ -1,0 +1,104 @@
+% !TEX program = xelatex
+
+\documentclass[twoside,11pt]{article}
+\title{嘉绒-汉-法词典}
+\author{Guillaume Jacques}
+\usepackage[paperwidth=170mm,paperheight=240mm,top=16mm,bottom=16mm,left=15mm,right=20mm]{geometry}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+\usepackage{titlesec}
+\usepackage{changepage}
+\usepackage[dvipsnames,table]{xcolor}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\fancyhead[L]{\firstmark}
+\fancyhead[R]{\botmark}
+\usepackage{hyperref}
+\hypersetup{pdftex,bookmarks=true,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage{bookmark}
+\usepackage[all]{hypcap}
+\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+\usepackage{media9}
+\addmediapath{}
+\usepackage{graphicx}
+\usepackage{totcount}
+\newcounter{compteur}
+\setcounter{compteur}{0}
+\regtotcounter{compteur}
+\usepackage{tocloft}
+\renewcommand{\cftsecfont}{\jya}
+\usepackage[fit]{truncate}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt
+\setmainfont{Cormorant}
+\newfontfamily{\déf}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Symbola}
+\newfontfamily{\jya}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Charis SIL}
+\newfontfamily{\fra}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Cormorant}
+\newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UKai CN}
+\newfontfamily{\lat}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Cormorant Garamond}
+\newcommand{\pdéf}[1]{{\déf\textcolor{black}{#1}}}
+\newcommand{\pjya}[1]{{\jya\textcolor{Blue}{#1}}}
+\newcommand{\pfra}[1]{{\fra\textcolor{black}{#1}}}
+\newcommand{\pcmn}[1]{{\cmn\textcolor{black}{#1}}}
+\newcommand{\plat}[1]{\lat #1}
+\newcommand{\cerclé}[1]{\raisebox{0pt}{\textcircled{\raisebox{-0.5pt}{\footnotesize{\pdéf{#1}}}}}}
+\newenvironment{entrée}[3]{\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{paragraph}{\vedetteentête{#1} \numérodhomonyme{#2}}\hspace*{-0.6cm}\vedette{#1} \numérodhomonyme{#2} \markright{\vedetteentêtecourte{#1} \numérodhomonyme{#2}}}{}
+\newenvironment{groupe}[2]{\hypertarget{#2}{}\nomdegroupe{#1}}{}
+\newenvironment{sous-entrée}[2]{\hypertarget{#2}{}\phantomsection\addcontentsline{toc}{subparagraph}{\vedetteentête{#1}}\pdéf{■} \sousvedette{#1} }{}
+\newenvironment{éléments}{}{}
+\newenvironment{définitions}{}{}
+\newenvironment{gloses}{}{}
+\newenvironment{exemples}{}{}
+\newenvironment{exemple}{\pdéf{¶} }{}
+\newenvironment{variantes}{}{}
+\newenvironment{nomsscientifiques}{\pdéf{⬖} }{}
+\newenvironment{paradigmes}{}{}
+\newenvironment{usages}{\pcmn{【用法】}}{}
+\newenvironment{informationsencyclopédiques}{}{}
+\newenvironment{étymologie}{\pcmn{【词源】} }{}
+\newcommand{\lettrine}[1]{\phantomsection\addcontentsline{toc}{section}{#1}{\begin{center}\textbf{\Large\pjya{#1}}\end{center}}}
+\newcommand{\vedetteentête}[1]{\pjya{#1}}
+\newcommand{\vedetteentêtecourte}[1]{\truncate{5cm}{\pjya{#1}}}
+\newcommand{\vedette}[1]{\pjya{\textbf{\Large#1}}}
+\newcommand{\sousvedette}[1]{\pjya{\textbf{\large#1}}}
+\newcommand{\élément}[1]{\pdéf{⬥} \pjya{#1}}
+\newcommand{\définition}[1]{#1}
+\newcommand{\glose}[1]{#1}
+\newcommand{\nomscientifique}[1]{\plat{\emph{#1}}}
+\newcommand{\original}[1]{\textbf{#1}}
+\newcommand{\traduction}[1]{#1}
+\newcommand{\numérodhomonyme}[1]{\pdéf{\textcolor{Red}{#1}}}
+\newcommand{\variante}[1]{\pdéf{/ }\pjya{#1}}
+\newcommand{\nomdegroupe}[1]{\pdéf{\textbf{\large\textcolor{Orange}{\cerclé{#1} }}}}
+\newcommand{\partiedudiscours}[1]{\pfra{\textcolor{Blue}{\emph{#1}}}}
+\newcommand{\numérodesens}[1]{\pdéf{\textcolor{Purple}{\cerclé{#1} }}}
+\newcommand{\relationsémantique}[2]{\pcmn{【#1】} \pjya{#2}}
+\newcommand{\paradigme}[2]{#1 : #2}
+\newcommand{\catégorieparadigmatique}[1]{\pfra{#1}}
+\newcommand{\formeparadigmatique}[1]{\pjya{#1}}
+\newcommand{\formegrammaticale}[3]{\pfra{#1#2} : \pjya{#3}}
+\newcommand{\étymon}[1]{\pjya{#1}}
+\newcommand{\informationencyclopédique}[1]{#1}
+\newcommand{\usage}[1]{#1}
+\newcommand{\grammaire}[1]{\textsc{#1}}
+\newcommand{\lien}[2]{\hyperlink{#1}{\pjya{#2}}}
+\newcommand{\stylefv}[1]{\pjya{#1}}
+\newcommand{\stylefn}[1]{\pcmn{#1}}
+\newcommand{\stylepinyin}[1]{\textcolor{Gray}{#1}}
+\newcommand{\écouterélevée}[1]{\includemedia[activate=onclick,addresource=#1.,flashvars={source=#1.&autoPlay=true&autoRewind=true&loop=false&hideBar=true&volume=1.0&balance=0.0}]{\pdéf{🔊}}{APlayer.swf}}
+\newcommand{\écouterfaible}[1]{\includemedia[activate=onclick,addresource=8_#1.,flashvars={source=#1.&autoPlay=true&autoRewind=true&loop=false&hideBar=true&volume=1.0&balance=0.0}]{\pdéf{🔉}}{APlayer.swf}}
+
+\begin{document}
+\newpage
+
+\pagestyle{fancy}
+
+\tableofcontents
+
+\end{document}

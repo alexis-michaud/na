@@ -15247,9 +15247,9 @@
 \gf |fg{interrog}
 \xv dʑɯ˧ | ə˩-dʑo˧?
 \xe Is there any water?
-\xn 有谁吗？
+\xn 有水吗？
 \xf est-ce qu’il y a de l’eau ?
-\xv ə˩-ŋi˩˥ ?
+\xv ə˩-ɲi˩˥ ?
 \xe Is that right? / Is that correct? / … isn't it?
 \xn 对吗？ / 对吧？
 \xf Est-ce que c’est ça ?/ C'est bien ça? … n’est-ce pas ?
