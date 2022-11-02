@@ -1167,7 +1167,6 @@
 	<FORM kindOf="phono">ʂæ˧ɖæ˧ | di˩-tʰɑ˩-kʰɯ˥! |</FORM>
 	<FORM kindOf="ortho">Shaeddae ddiq ta keeq!</FORM>
 	<TRANSL xml:lang="fr">Il ne faut pas qu'(ils) soient de longueur dissemblable (littéralement "il ne faut pas qu'existe de différence de longueur")!</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
 	<TRANSL xml:lang="en">It must not be different lengths! [Lit: one must not let differences in length exist.]</TRANSL>
 	<TRANSL xml:lang="zh">不要有长度的差异！</TRANSL>
 		<W>
@@ -1195,7 +1194,6 @@
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥ | &lt;tʰv̩˧… m… | &gt; tʰɑ˧-ʂæ˥-ʂæ˩-hĩ˩ tʰv̩˩ | tʰi˩˥, | le˧-dɑ˧˥! |</FORM>
 	<FORM kindOf="ortho">Tee niq yi… mm… tashaeshaehin tu, tiq, ledda.</FORM>
 	<TRANSL xml:lang="fr">Ceux qui sont comme ça, eh bien… ceux qui sont de même taille, on les abat!</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
 	<NOTE xml:lang="fr" message="vérifié: est bien ici /tʰɑ˧-ʂæ˥-ʂæ˩-hĩ˩ tʰv̩˩/; et /ʈʂʰɯ˧ne˧ ʝi˥ | tʰv̩˧/, non /ʈʂʰɯ˧ne˧ ʝi˥ tʰv̩˩/"/>
 	<TRANSL xml:lang="en">In this way, those (trees) that are the same height, well, (we) cut (them down). </TRANSL>
 	<TRANSL xml:lang="zh">这样的……长度相近的（树），（就要选它，）砍！</TRANSL>
@@ -18537,7 +18535,6 @@
 	<FORM kindOf="phono">kʰv̩˧mæ˧-ʈʂʰɯ˧-ɳɯ˩, | hĩ˧-bv̩˧, | ə˧tso˧ do˩, | ə˧tso˧ &lt;qæ˧&gt;[ʈʂæ˧]-ɲi˥-ze˩! | qæ˧do˧ do˩-dʑo˩, | qæ˧do˧ qæ˧˥! |</FORM>
 	<FORM kindOf="ortho">Kumae tee nee hin bbu aezo ddoq, aezo zhaeq niq ssei. Ghaeddo ddoq jjo, ghaeddo ghaeq!</FORM>
 	<TRANSL xml:lang="fr">les brigands, les choses des gens (=la propriété des gens), ils extorquent tout ce qu'ils voient! [et] quand ils voient du bois de construction, eh bien, ils brûlent le bois de construction! (Lapsus: la locutrice dit "ils brûlent tout ce qu'ils voient"; à la transcription, elle corrige en: "ils volent tout ce qu'ils voient [et qui leur plaît]")</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
 	<TRANSL xml:lang="en">Robbers stole people's (belongings), whatever they saw, they would steal. If (they) saw timber, (they) would burn it!</TRANSL>
 	<TRANSL xml:lang="zh">强盗们是看见人家的什么（东西），就烧什么！见到木料，就烧木料！</TRANSL>
 		<W>
