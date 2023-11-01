@@ -110,7 +110,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np identification tonale confirmée: appartient à la catégorie tonale LM, celle du type «porc»
+\nt <type="hist" print="n"> identification tonale confirmée: appartient à la catégorie tonale LM, celle du type «porc»
 \ton LM
 \lc ɑ˩˥
 \so <print="n"> F4
@@ -145,7 +145,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\np phonétiquement: [æ˧bæ˧], non nasal; vérifié en août 2014
+\nt <type="hist" print="n"> phonétiquement: [æ˧bæ˧], non nasal; vérifié en août 2014
 \ton M
 \lc æ˧bæ˧
 \so <print="n"> F4
@@ -771,7 +771,7 @@
 \cf æ̃˧qæ˩2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np phonétiquement: æ̃˧qæ˩
+\nt <type="hist" print="n"> phonétiquement: æ̃˧qæ˩
 \ton L#
 \lc æ̃˧qæ˩
 \so <print="n"> F4
@@ -21458,18 +21458,36 @@
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> (+ɲi˩) (2006: noté la première syllabe ho˧, par erreur; phonétiquement, avais remarqué la semi-voyelle, mais pensais que c'était [hwo], et phonologiquement /ho/)
 \nt <type="sem"> (contexte pour l'élicitation du cycle des 12 animaux: le demander comme SIGNES: “De quel signe es-tu?" 属… et pas …年)
+\nt <type="hist" print="n"> Jusqu'en 2022, l'expression était comprise comme `Année du Chat', d'après le mot /hwɤ˧li˧˥/ `chat'. L'erreur était favorisée par le fait qu'au Vietnam, le Chat est l'un des douze signes du cycle duodénaire. J'aurais dû relever que dans le cycle vietnamien, le Chat remplace le Lièvre et non le Rat. Li Zihe signale (dans un exposé de colloque en 2022) qu'il pourrait s'agir d'une racine homophone `rat', perdue par la suite et conservée seulement dans le nom du signe duodénaire.
+\np <langue="fra"> Le schéma tonal de l'expression `année du Rat' est différent de celui des autres expressions disyllabiques désignant des années du cycle duodénaire. On peut en déduire que le ton du nom monosyllabique `rat' (non conservé dans la langue contemporaine, remplacé par un emprunt au chinois) n'était ni #H (ton de `cheval', `boeuf', `chien'), ni M (ton de `tigre'), ni LM (ton de `poulet', `porc'), ni LH (ton de `singe'), ni L (ton de `mouton'. Il s'agissait donc vraisemblablement d'un ton MH.
 \ton -H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Year of the Cat (corresponding to the Chinese year of the Rat).
-\ge year_of_the_Cat
-\dn 鼠年（摩梭话称作“猫年”）
+\de Year of the Rat.
+\ge year_of_the_Rat
+\dn 鼠年
 \gn 鼠年
-\df Année du Chat (correspondant à l'année chinoise du Rat).
-\gf année_du_Chat
+\df Année du Rat
+\gf année_du_Rat
 \dt 24/Apr/2017
+
+\lx †hwɤ˧˥
+\or hua
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton MH
+\lc --
+\so <print="n"> F4
+\de Rat (monosyllabic form reconstructed on the basis of the disyllabic expression `Year of the Rat').
+\ge rat(monosyll.)
+\dn 鼠
+\gn 鼠（单音节词根）
+\df Rat (racine monosyllabique déduite de l'expression disyllabique `Année du Rat').
+\gf rat(monosyll.)
+\dt 27/Oct/2023
 
 \lx hwɤ˧-kʰv̩˥
 \or huaq kuq
