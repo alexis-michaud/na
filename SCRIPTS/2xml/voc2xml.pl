@@ -41,23 +41,21 @@ use warnings;
 ##################################################
 
 # indicating language code
-my $EthnologueCode = 'VIE';
+my $EthnologueCode = 'SXG';
 
 # Name of input files: text, and regions
-#my $vocinfile = 'C:\Dropbox\29E_vietnamien\2018_EnzoFrancois\crdo-VIE_CFIN_M3_C.txt';
-#my $regionsinfile = 'C:\Dropbox\29E_vietnamien\2018_EnzoFrancois\crdo-VIE_CFIN_M3_C_REGIONS.txt';
-my $vocinfile = 'C:\Dropbox\VIE2004Data\Enzo_Internship\ToXML\crdo-VIE_CFIN_F1.txt';
-my $regionsinfile = 'C:\Dropbox\VIE2004Data\Enzo_Internship\ToXML\crdo-VIE_CFIN_F1_REGIONS.txt';
+my $vocinfile = '/home/pakazo/Dropbox/38_shixing/2023/AnnotationEnregistrements2008_PrArchivage2023/ToXML/crdo-SXG_Morphotonology_1_Nouns.txt';
+my $regionsinfile = '/home/pakazo/Dropbox/38_shixing/2023/AnnotationEnregistrements2008_PrArchivage2023/ToXML/crdo-SXG_Morphotonology_1_Nouns_REGIONS.txt';
 
 # Selecting whether there are Chinese translations (value: 1) or not (value: 0). 
 my $transl_cn = 1;
 # Selecting whether there are English translations (value: 1) or not (value: 0).
 my $transl_en = 1;
 # Selecting whether there are Japanese translations (value: 1) or not (value: 0).
-my $transl_jp = 1;
+my $transl_jp = 0;
 
 # Name of output file: 
-my $outputfile = 'C:\Dropbox\VIE2004Data\Enzo_Internship\Views\annotations\crdo-VIE_CFIN_F1.xml';
+my $outputfile = '/home/pakazo/Dropbox/38_shixing/2023/AnnotationEnregistrements2008_PrArchivage2023/ToXML/crdo-SXG_Morphotonology_1_Nouns.xml';
 
 # Type of information on sound alignment: 1 for SoundForge regions list; 2 for <beginning><tab><end><tab><label> format
 my $regionstype = 1;
@@ -183,13 +181,13 @@ while ($line=<VOC>) {
 		$ortholine =~ s{>}{&gt;}g;
 
 		# writing the word into the XML file
-		print  XOUT "<W id=\"$textname", "_", "$Wno\">\n\t<FORM kindOf=\"ortho\">$ortholine</FORM>\n";
+		print  XOUT "<W id=\"$Wno\">\n\t<FORM kindOf=\"phonological, with underlying lexical tone\">$ortholine</FORM>\n";
 
 		# if there is an extra level of transcription: integrating it, with special mention
 		if ($extratranscrlevel == 1) {
 			$extraformline=<VOC>; # extra level of transcription
 			chomp $extraformline;
-			print  XOUT "\t<FORM kindOf=\"phono\">$extraformline</FORM>\n";
+			print  XOUT "\t<FORM kindOf=\"surface-phonological\">$extraformline</FORM>\n";
 		} # end of condition on presence of extra level of transcription
 
 		# Dealing with comments, if any	

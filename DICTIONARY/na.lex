@@ -21452,14 +21452,15 @@
 \sf <nb="2011"> 1155
 \or huaku
 \ps n
+\cf hwɤ˧˥
 \hm 1
 \lc hwɤ˧kʰv̩˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> (+ɲi˩) (2006: noté la première syllabe ho˧, par erreur; phonétiquement, avais remarqué la semi-voyelle, mais pensais que c'était [hwo], et phonologiquement /ho/)
-\nt <type="sem"> (contexte pour l'élicitation du cycle des 12 animaux: le demander comme SIGNES: “De quel signe es-tu?" 属… et pas …年)
+\nt <type="sem"> Pour l'élicitation du cycle des 12 animaux à partir du chinois: la question est claire et intelligible lorsqu'elle est posée en termes du signe astrologique sous lequel une personne est née (你属什么？我属兔、……) plutôt qu'en calquant l'expression `année du...' (`année du Rat', etc.: 鼠年、兔年、……).
 \nt <type="hist" print="n"> Jusqu'en 2022, l'expression était comprise comme `Année du Chat', d'après le mot /hwɤ˧li˧˥/ `chat'. L'erreur était favorisée par le fait qu'au Vietnam, le Chat est l'un des douze signes du cycle duodénaire. J'aurais dû relever que dans le cycle vietnamien, le Chat remplace le Lièvre et non le Rat. Li Zihe signale (dans un exposé de colloque en 2022) qu'il pourrait s'agir d'une racine homophone `rat', perdue par la suite et conservée seulement dans le nom du signe duodénaire.
-\np <langue="fra"> Le schéma tonal de l'expression `année du Rat' est différent de celui des autres expressions disyllabiques désignant des années du cycle duodénaire. On peut en déduire que le ton du nom monosyllabique `rat' (non conservé dans la langue contemporaine, remplacé par un emprunt au chinois) n'était ni #H (ton de `cheval', `boeuf', `chien'), ni M (ton de `tigre'), ni LM (ton de `poulet', `porc'), ni LH (ton de `singe'), ni L (ton de `mouton'. Il s'agissait donc vraisemblablement d'un ton MH.
+\np <langue="fra"> Le schéma tonal de l'expression `année du Rat' est différent de celui des autres expressions disyllabiques désignant des années du cycle duodénaire. On peut en déduire que le ton du nom monosyllabique `rat' (non conservé dans la langue contemporaine, remplacé par un emprunt au chinois) n'était ni #H (ton de `cheval', `boeuf', `chien'), ni M (ton de `tigre'), ni LM (ton de `poulet', `porc'), ni LH (ton de `singe'), ni L (ton de `mouton'. Il s'agissait donc vraisemblablement d'un ton MH. Cette analyse est confirmée par la prononciation du monosyllabe dans la liste des animaux du cycle.
 \ton -H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -21473,20 +21474,27 @@
 \gf année_du_Rat
 \dt 24/Apr/2017
 
-\lx †hwɤ˧˥
+\lx hwɤ˧˥
 \or hua
 \ps n
+\hm 3
+\cf hwɤ˧-kʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton MH
-\lc --
+\lc hwɤ˧˥
 \so <print="n"> F4
-\de Rat (monosyllabic form reconstructed on the basis of the disyllabic expression `Year of the Rat').
+\de Rat (monosyllabic form, only preserved as part of the list of twelve animals of the duodenary cycle, and in the disyllabic expression `Year of the Rat').
 \ge rat(monosyll.)
 \dn 鼠
 \gn 鼠（单音节词根）
-\df Rat (racine monosyllabique déduite de l'expression disyllabique `Année du Rat').
+\df Rat (forme monosyllabique conservée uniquement dans la liste des douze animaux du cycle duodénaire, et dans l'expression disyllabique `Année du Rat').
 \gf rat(monosyll.)
+\xc PHONO
+\xv æ̃˩˥, | kʰv̩˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv̩˧gv̩˧, | bv̩˧ʐv̩˧, | ʐwæ˧, | jo˧, | ʑi˩˥
+\xe the twelve animals of the duodenary cycle
+\xn 十二个生肖：鸡肉、狗、猪、鼠、牛、虎、兔、龙、蛇、马、羊、猴
+\xf les douze signes astrologiques du cycle duodénaire
 \dt 27/Oct/2023
 
 \lx hwɤ˧-kʰv̩˥
@@ -26308,7 +26316,6 @@
 \lx kʰɯ˩pv̩˩
 \or keebu
 \ps n
-\cf pv̩˧qʰwɤ˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n"> (confirmé: n'est pas /tsi/)
