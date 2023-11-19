@@ -7,8 +7,8 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> Nasalité phonémique; seulement reconnue clairement et bien distinguée dans le lexique en août 2014.
-\nt <type="hist" print="n"> LM confirmé type «porc"
+\nt <type="hist" print="n"> La nasalité phonémique de ce mot a seulement été reconnue clairement, et bien distinguée dans le lexique, en août 2014.
+\nt <type="hist" print="n"> Ton LM confirmé : même catégorie que "porc".
 \ton LM
 \lc æ̃˩˥
 \so <print="n"> F4
@@ -6551,20 +6551,19 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" print="n"> avant septembre 2012: noté au ton LH
-\ton LH
+\ton H#
 \lc dɑ˧pʰo˥
 \so <print="n"> F4
-\de Dapo.
-\ge Dapo_village
+\de Ddapo.
+\ge Ddapo_village
 \dn 达坡（永宁坝子的一个村落）
 \gn 达坡村
-\df Dapo (nom de village).
-\gf village_de_Dapo
+\df Ddapo (nom de village).
+\gf village_de_Ddapo
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 14/May/2017
 
 \lx ɖæ˩pʰv̩˥
 \sf <nb="2011"> 102
@@ -27116,7 +27115,7 @@
 \xe person who robs, robber
 \xn 当强盗的人=强盗
 \xf personne qui est un bandit, bandit
-\xv kʰv̩˧mæ˧-ni˩-zo˩! | hĩ˧ lɑ˩-ho˩!
+\xv kʰv̩˧mæ˧-ne˩-ʝi˩-zo˩! | hĩ˧ lɑ˩-ho˩!
 \xe He's like a bandit! He may hit people!
 \xn 他像强盗似的！会打人的！
 \xf Ça doit être un voleur! Il se pourrait qu'il frappe les gens!
@@ -27737,7 +27736,7 @@
 \xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ (+ tʰv̩˧-v̩˧ / zo˧mv̩˥)
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
-\xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
+\xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant» xxxx est-ce : le˧-kv̩˧~kv̩˥ ? (auquel cas il faut corriger) ou : le˧-ko˧~ko˥ ? (auquel cas il faut déplacer cet exemple)
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41650,7 +41649,8 @@
 \gn 红桥
 \df Hongqiao, village sur la route entre Ninglang et Yongning (principalement peuplé de Chinois Han).
 \gf Hongqiao
-\xv no˧ | pæ˧ɻæ˩ʈʂʰo˩-hĩ˩-ni˩-zo˩!
+\xv no˧ | pæ˧ɻæ˩ʈʂʰo˩-hĩ˩-ne˩-ʝi˩-zo˩!
+\xc avant 2023 : noté /no˧ | pæ˧ɻæ˩ʈʂʰo˩-hĩ˩-ni˩-zo˩/
 \xe “You look like someone from Hongqiao!" This is an insult, meaning “You are ugly". Popular Na geography had it that the people of Hongqiao (a village which the caravans crossed) had coarse, unlovely physical features, such as big snub noses.
 \xn 解放前用的侮辱语句：“你像红桥人！”=“你很丑！”摩梭民间文化中，红桥（马帮路过的一个乡）的人被认为难看，面貌不“眉清目秀”，比如有扁鼻子。
 \xf «Tu ressembles à quelqu'un de Hongqiao!» Insulte, pour dire de quelqu'un qu'il a un physique disgracieux. La géographie populaire na attribuait des traits grossiers aux gens de Hongqiao (localité que traversaient les caravanes): gros nez camus, en particulier.
@@ -46942,7 +46942,7 @@
 \ge gift_box
 \dn 礼盒
 \gn 礼盒
-\df Boîte en vannerie ronde, dans laquelle on place les cadeaux qu’on vient offrir; est formée de deux parties qui s’emboîtent; on la porte lorsqu'on se rend chez quelqu'un dans le cadre d'un événement social important. Cf récit F4. Une photo de cet objet est présente dans le rapport d'enquête de terrain publié en 1986 en 3 volumes (永宁纳西族……调查).
+\df Boîte en vannerie ronde, dans laquelle on place les cadeaux qu’on vient offrir; est formée de deux parties qui s’emboîtent; on la porte lorsqu'on se rend chez quelqu'un dans le cadre d'un événement social important. Cf récit F4. Une photo de cet objet est présente dans le rapport d'enquête de terrain publié en 1986 en 3 volumes (fn:永宁纳西族……调查).
 \gf boîte_à_cadeaux
 \dt 01/Oct/2015
 
