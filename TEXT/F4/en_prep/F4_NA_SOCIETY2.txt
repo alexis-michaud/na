@@ -41,6 +41,7 @@ Alors, le seigneur avait coutume de faire quérir tout le monde lors du Nouvel A
 
 tʰi˩˥, | tsʰe˧do˧-ɖɯ˧ɲi˥-dʑo˩, | kʰv̩˧ʂɯ˥ ʁɑ˩pv̩˩ kʰɯ˩-bi˩ dʑo˩ | tʰi˩˥, | ɖɯ˧-ʑi˩ | ɖɯ˧-v̩˧ bi˧, | sɯ˧pʰi˧-ɖʐo˧fv̩˥-ki˩! |
 % La construction distributive un-N1 un-N2 'un N2 pour chaque N1' comporte une frontière de groupe tonal : un-N1 | un-N2. C'est ce qu'on observe également dans le récit 'Le mariage de la soeur' (https://doi.org/10.24397/pangloss-0004342#S27). #syntaxe
+% Phrase 10.
 % séquence /kʰv̩˧ʂɯ˥ ʁɑ˩pv̩˩ kʰɯ˩/ à confirmer xxxx Hypothèse : est le même /pv̩/ 'autoriser, faire faire' que dans l'exemple de dictionnaire /pv̩˩α/: /sɯ˧pʰi˧-ɳɯ˧ | pv̩˩-kʰɯ˥-ɲi˩ ! （马帮）是土司来投资的！ 'c’est le seigneur qui était le commanditaire !'
 % vérifier à nouveau : /sɯ˧pʰi˧-ʈʂo˧fv̩˥/ ou /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/? (dans ce dernier cas, il y aurait une harmonie vocalique régressive relativement forte du /v̩/ vers la voyelle apicale, la rapprochant de [o].
 % ton de /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/: par combinaison de M et #H, on s'attendrait à un composé au ton #H, non H# (ou H$). xxxx vérifier à nouveau le ton de ce composé.
@@ -52,17 +53,20 @@ Alors, on amenait de la viande de cochon préservée; de la viande des membres d
 sɯ˧pʰi˧-ki˧ | tʰi˩˥, | ɬo˧pv̩˥ ti˩-bi˩-kv̩˩-ze˩ mæ˩, | tʰi˧-ki˧. |
 Auprès du seigneur, eh bien, on allait se prosterner, et on offrait [les présents qu'on avait préparés].
 
-qo˩ho˧˥ | ɖɯ˧-ɭɯ˧-qo˧ | dze˧ tʰi˩-kʰɯ˩! | kɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ | ʐɯ˧ tʰi˧-kʰɯ˧˥! |
-% qo˩ho˧˥   ɖɯ˧-ɭɯ˧     -qo˧    dze#˥   tʰi˧-       kʰɯ˧˥       kɤ˩     ɖɯ˧-ɭɯ˧     -qo˧    ʐɯ˧     tʰi˧-       kʰɯ˧˥
+qo˩ho˧˥ | ɖɯ˧-ɭɯ˧-qo˧ | dze˧ tʰi˩-kʰɯ˩, | kɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ | ʐɯ˧ tʰi˧-kʰɯ˧˥! | ʂe˧ʐe˧ | ɖɯ˧-ʐe˥ hæ̃˩, | əəə… ʂe˧sɑ˩ | ɖɯ˧… sɑ˧... gv̩˧˥! |
+% qo˩ho˧˥   ɖɯ˧-ɭɯ˧     -qo˧    dze#˥   tʰi˧-       kʰɯ˧˥       kɤ˩     ɖɯ˧-ɭɯ˧     -qo˧    ʐɯ˧     tʰi˧-       kʰɯ˧˥       ʂe˧ʐe#˥     ɖɯ˧-ʐe˥     hæ̃˧˥   ʂe˧sɑ˩      ɖɯ˧-sɑ˧˥    gv̩˩
 % /kɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ | ʐɯ˧ tʰi˧-kʰɯ˧˥/: un léger voisement est présent avant la première syllabe : [ə, kɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ | ʐɯ˧ tʰi˧-kʰɯ˧˥]. Ce voisement est une façon de signaler une reprise par rapport à ce qui précède : comme une façon d'annuler le silence qui a précédé, et de relier la reprise de la voix à ce qui venait d'être dit.
-On met les sucreries dans la boîte à cadeaux; on met l'alcool dans une bouteille !
-
-ʂe˧ʐe˧ | ɖɯ˧-ʐe˥ hæ̃˩! əəə… ʂe˧sɑ˩ | ɖɯ˧… sɑ˧... gv̩˧˥!
-ʂe˧ʐe#˥     ɖɯ˧-ʐe˥     hæ̃˧˥   ʂe˧sɑ˩      ɖɯ˧-sɑ˧˥    gv̩˩
 % gv̩˩ : préparer
-On coupe une tranche de viande de cochon préservée; on prépare une pièce de viande des membres du cochon!
+On met les sucreries dans la boîte à cadeaux; on met l'alcool dans une bouteille! On coupe une tranche de viande de cochon préservée; on prépare une pièce de viande des membres du cochon!
 
-ʈʂʰe˧ʐe˧ʁo˧qʰwæ˩ɳɯ˩, | ʂe˧sɑ˩ | ʈæ˧qo̩˧ɳɯ˧ | le˧tsɯ˥! ɲi˧ɲi˧, | ɲi˧kv̩˧˥ | tʰi˧kʰɯ˩! ho˧ | ɖɯ˧ɭɯ˧ | tʰi˧kʰɯ˧˥! əə … ʐɯ˧ | ɖɯ˧kɤ˩ tʰi˩kɤ˩! bi˧kv̩˧ze˥mæ˩! tʰi˩˥, | bi˧dʑo˥, | ɬi˧di˩ ʈʂo˩ fv̩˩ɳɯ˩t, ɖæ˩mi˧sɯ˩pʰi˩ | hĩ˧ le˧ʝi˥ze˩! hɑ˧ gv̩˥! qwæ̃˧ gv̩˧kv̩˥tsɯ˩ | mv̩˩! hɑ˧ gv̩˥dʑo˩ | tʰi˩˥, əə … kɤ˧kɤ˩ | tʰi˧dzi˩kʰɯ˩! zo˩no˥! … kɤ˧kɤ˩ | tʰi˧dzi˩! ə … ɖæ˩mi˧sɯ˩pi˩ hĩ˩ | ɖæ˩mi˧sɯ˩pi˩ | hĩ˩ | tʰi˧dzi˩! tʰo˧ʈɯ˧sɯ pʰi˧ | hĩ˧ tʰo˧ɖɯ˧sɯ˧! | pʰi˥ | tʰi˧dzi˩kʰɯ˩ dze˧bo˧ sɯ˧pʰi˥ | hĩ˧ | dze˧ bpo˧ sɯ˧pʰi˥, |
+ʂe˧ʐe˧ | ʁo˧qʰwɤ˩ ɳæ˩, | ʂe˧sɑ˩ | ʈæ˧qo̩˧ ɳæ˩, | le˧-dzɯ˥! |
+% Vérifier le sens: était-ce une sorte de sandwich avec deux viandes différentes? xxxx /ʈæ˧qo̩˧ ɳæ˩/: ton inattendu : un préfixe directionnel disyllabique au ton M et un verbe au ton MH devrait donner M.M.MH, comme /ʁo˧dɑ˧ mi˧˥/ 'pousser vers l'avant' (p. 267 du livre).
+On compresse la viande de cochon préservée sur le dessus, on presse la viande des membres du cochon au fond (=sur le dessous?), et on mange [le résultat]!
+
+ɲi˧-ɲi˧, | ɲi˧-kv̩˧˥ | tʰi˧-kʰɯ˩! | ho˧ | ɖɯ˧-ɭɯ˧ | tʰi˧-kʰɯ˧˥! əəə … | ʐɯ˧ | ɖɯ˧-kɤ˩ tʰi˩-kʰɯ˩! | bi˧-kv̩˧-ze˥ mæ˩! |
+xxxx sens à confirmer : quand on y va deux jours, on met deux (morceaux / sandwichs ?) (dans son sac) On (y) met une bouteille d'alcool ! Et on y va !
+
+tʰi˩˥, | bi˧dʑo˥, | ɬi˧di˩ ʈʂo˩ fv̩˩ɳɯ˩t, ɖæ˩mi˧-sɯ˩pʰi˩ | hĩ˧ le˧-ʝi˥-ze˩! hɑ˧ gv̩˥! qwæ̃˧ gv̩˧kv̩˥tsɯ˩ | mv̩˩! hɑ˧ gv̩˥dʑo˩ | tʰi˩˥, əə … kɤ˧kɤ˩ | tʰi˧dzi˩kʰɯ˩! zo˩no˥! … kɤ˧kɤ˩ | tʰi˧dzi˩! ə … ɖæ˩mi˧sɯ˩pi˩ hĩ˩ | ɖæ˩mi˧sɯ˩pi˩ | hĩ˩ | tʰi˧dzi˩! tʰo˧ʈɯ˧sɯ pʰi˧ | hĩ˧ tʰo˧ɖɯ˧sɯ˧! | pʰi˥ | tʰi˧dzi˩kʰɯ˩ dze˧bo˧ sɯ˧pʰi˥ | hĩ˧ | dze˧ bpo˧ sɯ˧pʰi˥, |
 tʰi˧di˩, | dɑ˧pʰo˥-sɯ˩pʰi˩-hĩ˩, | dɑ˧pʰo˥-sɯ˩pʰi˩ | hĩ˩ | tʰi˧-dzi˩! əəə …
 ʈʂʰɯ˧ne˧ʝi˥ | zo˩ | tʰi˩˥, | õ˧bv̩˥õ˩ | sɯ˩pʰi˩ʈʂʰɯ˩, | õ˧bv̩˥õ˩! ɬi˧di˩ ʈʂɯ˩ f˩! tʰi˩˥, | sɯ˧pʰi˧v̍˧to˩ | ɖɯ˩hĩ˩˥ | ɖɯ˧ʑi˩ dʑo˩ɲi˩mæ˩! ʈʂʰɯ˧ʑi˩˥ | ki˧ … | ɬo˧pv̩˥ ti˩bi˩kʰɯ˩! ɖɯ˧kʰv̩˧hĩ˥  tʰi˧, | kʰv̩˧ʂɯ˥ ʁɑ˩! ə˧mi˧ɻæ˩ | le˧pɤ˥pɤ˩, | le˧dʑi˧! ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩, | kʰv̩˧ʂɯ˥ | qʰɑ˩ne˩˥ | dʑi˧ qæ˧kv̩˩ mv̩˩! kʰv̩˧ʂɯ˥ho˩ze˩! dʑi˩hṽ̩˥ | kʰv̩˧ʂɯ˥ dʑi˩hṽ̩˩kɯ˩! le˧dʑze˧ qæ˧˥! tʰv̩˧so˩dʑo˩ | tʰi˩˥, | ɬi˧di˩ ʈʂe˩ fv̩˧ki˩, | m! zo˩no˥, | kʰv̩˧ʂɯ˥ ʁɑ˩bi˩kv̩˩tsɯ˩! tʰi˩˥, | ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩, | hĩ˧ʈʂʰɯ˧ɳɯ˧ | ʐwɤ˩ … ʐv̩˧hĩ˧! ʐwɤ˩˥ | kv̩˧hĩ˥! ɬi˧di˩ ʈʂe˩fv̩˩, | hĩ˧ ʈʂæ˧kv̩˩tsɯ˩m̩˩! tʰi˩˥, | ʈʂʰɯ˧v̩˧ɳɯ˩ | dɑ˧po˥ … s … ə … | ɖæ˩mi˧sɯ˩pʰi˩ | hĩ˧ le˧tsʰɯ˥ | dʑo˩, | qʰɑ˩ne˩˥ | ʐwɤ˩tso˩ ɲi˥! tʰv̩˧v̩˧ɳɯ˧ | tʰi˧hĩ˧˥! qʰɑ˧˥ | le˧dzɯ˩! ʐwɤ˩kv̩˩tsɯ˥ | mv̩˩!
 

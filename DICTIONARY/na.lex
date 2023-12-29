@@ -69723,10 +69723,10 @@
 \lx tsʰɯ˧ɻ̍˧-ɖɯ˩mɑ˩
 \or Ci'er Ddeema
 \ps n
-\ton tsʰɯ˧ɻ̍˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton -L
+\lc tsʰɯ˧ɻ̍˧ɖɯ˩mɑ˩
 \so <print="n"> F4
 \de Feminine given name.
 \ge feminine_given_name
