@@ -15569,7 +15569,7 @@
 \dt 02/Sep/2015
 
 \lx gæ˧ɻæ˩
-\or Gae'er
+\or Ggae'er
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
