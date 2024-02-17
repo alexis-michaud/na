@@ -67637,13 +67637,13 @@
 \dt 27/Apr/2017
 
 \lx tsɤ˧di˧
-\or ceddi
+\or zeddi
 \ps n
 \lc tsɤ˧di˧
 \cf ʁo˩kʰv̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="sem"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
+\nt <type="sem"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo' xxxx vérifier : deux entrées avec voyelle différente, /ɤ/ et /e/
 \ton M
 \so <print="n"> F4
 \de Sandalwood, sandlewood; a tall tree, not a shrub.
