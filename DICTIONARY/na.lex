@@ -56510,7 +56510,7 @@
 \lx sɯ˧pʰi˧-zo˧
 \sf <nb="B"> 268
 \sf <nb="2011"> 348
-\or seepisso 
+\or sipisso
 \ps n
 \lc sɯ˧pʰi˧zo˧
 \sd <langue="fra"> société
