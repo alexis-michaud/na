@@ -5725,6 +5725,23 @@
 \gf son_de_riz
 \dt 27/Aug/2015
 
+\lx ɕi˧tɕʰi˧-tʰjæ˧
+\or xingqi tian
+\ps n
+\sd <langue="fra"> temps
+\sd <langue="eng"> time
+\nt <type="hist" print="n"> noté en 2018, à la demande de Roselle Dobbs
+\ton M
+\lc ɕi˧tɕʰi˧-tʰjæ˧
+\so <print="n"> F4
+\bw <langue="cmn"> 星期天
+\de Sunday.
+\ge 星期天::Sunday
+\dn 星期天（汉语借词）
+\gn 星期天（汉语借词）
+\df Dimanche.
+\gf 星期天::dimanche
+
 \lx ɕi˧ʈʂʰwæ˧
 \sf <nb="B"> 1984a
 \sf <nb="2011"> 3021
@@ -20527,6 +20544,11 @@
 \xe to wait for someone
 \xn 等人
 \xf attendre quelqu'un
+\rf F5
+\xv njɤ˧ | no˧zɯ˩ hu˩-ɲi˩!
+\xe I shall wait for you! / I will be waiting for you!
+\xn 我会等你们的！
+\xf Je vous attendrai!
 \dt 09/Oct/2017
 
 \lx hɯ˧
