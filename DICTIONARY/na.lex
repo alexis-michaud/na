@@ -3000,7 +3000,7 @@
 \so <print="n"> F4
 \de Final particle expressing vigorous affirmation.
 \ge 啵::|fg{affirm}
-\dn 句尾助词：啵（汉语借词）
+\dn 句尾助词：啵
 \gn 啵（借词）
 \df Particule finale empruntée au chinois, exprimant une affirmation vigoureuse: Ah que si!
 \gf 啵::|fg{affirm}
@@ -5546,7 +5546,7 @@
 \so <print="n"> F4
 \de Tomato.
 \ge 西红柿::tomato
-\dn 西红柿（汉语借词）
+\dn 西红柿
 \gn 西红柿（借词）
 \df Tomate.
 \gf 西红柿::tomate
@@ -5737,8 +5737,8 @@
 \bw <langue="cmn"> 星期天
 \de Sunday.
 \ge 星期天::Sunday
-\dn 星期天（汉语借词）
-\gn 星期天（汉语借词）
+\dn 星期天
+\gn 星期天（借词）
 \df Dimanche.
 \gf 星期天::dimanche
 
@@ -5876,8 +5876,8 @@
 \so <print="n"> F4
 \de To invent, to think out/up, to come up with (an idea, a solution).
 \ge 想::to_invent/to_think_out
-\dn 想、发明、想出、找到（办法）（汉语借词）
-\gn 想（汉语借词）
+\dn 想、发明、想出、找到（办法）
+\gn 想（借词）
 \df Inventer, trouver.
 \gf 想::inventer/trouver
 \xv le˧-ɕjɤ˥
@@ -5980,7 +5980,7 @@
 \so <print="n"> F4
 \de Photograph.
 \ge 相片::photograph
-\dn 相片（汉语借词）
+\dn 相片
 \gn 相片（借词）
 \df Photographie.
 \gf 相片::photographie
@@ -15304,7 +15304,7 @@
 \so <print="n"> F4
 \de Direction.
 \ge 方::direction
-\dn 方（方向的方）（汉语借词）
+\dn 方
 \gn 方（借词）
 \df Direction.
 \gf 方::direction
@@ -15327,7 +15327,7 @@
 \so <print="n"> F4
 \de To rest assured; to have confidence
 \ge 放心::to_have_confidence
-\dn 放心（汉语借词）
+\dn 放心
 \gn 放心（借词）
 \df Être en confiance, être rassuré.
 \gf 放心::être_en_confiance
@@ -15349,7 +15349,7 @@
 \va <speaker="M21"> ID.
 \de Developed, flourishing.
 \ge 发达::flourishing
-\dn 发达（汉语借词）
+\dn 发达
 \gn 发达（借词）
 \df Développé, florissant.
 \gf 发达::florissant
@@ -15531,7 +15531,7 @@
 \so <print="n"> F4
 \de Rheumatism.
 \ge 风湿::rheumatism
-\dn 风湿（汉语借词）
+\dn 风湿
 \gn 风湿（借词）
 \df Rhumatismes.
 \gf 风湿::rhumatismes
@@ -18611,7 +18611,7 @@
 \so <print="n"> F4
 \de Gap-filler, borrowed from the Chinese: “still/also…".
 \ge 还是::gap_filler
-\dn 还是（汉语借词）
+\dn 还是
 \gn 还是（借词）
 \df Explétif, emprunté au chinois: ‘quand même/aussi…’.
 \gf 还是::explétif
@@ -19972,7 +19972,7 @@
 \va <speaker="M21"> ID.
 \de To regret.
 \ge 后悔::to_regret
-\dn 后悔（汉语借词）
+\dn 后悔
 \gn 后悔（借词）
 \df Regretter.
 \gf 后悔::regretter
@@ -19994,7 +19994,7 @@
 \so <print="n"> F4
 \de Cooking pot for making hotpot; traditionally made of copper, with a hole in the centre.
 \ge 火锅::pot_for_hotpot
-\dn 火锅（汉语借词）
+\dn 火锅
 \gn 火锅（借词）
 \df Grand récipient pour faire la fondue mongole.
 \gf 火锅::récipient_pour_fondue_mongole
@@ -20143,7 +20143,7 @@
 \so <print="n"> F4
 \de Brown sugar.
 \ge 红糖::brown_sugar
-\dn 红糖（汉语借词）
+\dn 红糖
 \gn 红糖（借词）
 \df Sucre roux, sucre intégral, suc de canne séché.
 \gf 红糖::sucre_roux
@@ -20232,7 +20232,7 @@
 \pdv ɭɯ˧
 \de Ham.
 \ge 火腿::ham
-\dn 火腿（汉语借词）
+\dn 火腿
 \gn 火腿（借词）
 \df Jambon.
 \gf 火腿::jambon
@@ -20949,7 +20949,7 @@
 \pdv ɭɯ˧
 \de Cucumber.
 \ge 黄瓜::cucumber
-\dn 黄瓜（汉语借词）
+\dn 黄瓜
 \gn 黄瓜（借词）
 \df Concombre.
 \gf 黄瓜::concombre
@@ -21050,7 +21050,7 @@
 \pdv mi˩
 \de Rat.
 \ge rat
-\dn 老鼠（汉语借词）
+\dn 老鼠
 \gn 老鼠（借词）
 \gr 耗子
 \df Rat.
@@ -21928,7 +21928,7 @@
 \va <speaker="M23"> ʈʂʰæ˧v̩˧-nɑ˥
 \de Opium.
 \ge opium
-\dn 鸦片（汉语借词）
+\dn 鸦片
 \gn 鸦片（借词）
 \df Opium.
 \gf opium
@@ -21967,7 +21967,7 @@
 \pdv v̩˧
 \de Westerner.
 \ge 洋人::Westerner
-\dn 西方人（“洋人”）（汉语借词）
+\dn 西方人（“洋人”）
 \gn 洋人（借词）
 \gr 洋人
 \df Occidental.
@@ -22789,7 +22789,7 @@
 \so <print="n"> F4
 \de Doctor.
 \ge 医生::doctor
-\dn 医生（汉语借词）
+\dn 医生
 \gn 医生（借词）
 \df Médecin.
 \gf 医生::médecin
@@ -22807,7 +22807,7 @@
 \so <print="n"> F4
 \de Wild (as opposed to: cultivated; e.g. wild plants, wild animals).
 \ge 野生::wild
-\dn 野生（汉语借词）
+\dn 野生
 \gn 野生（借词）野生
 \df Sauvage, spontané: plantes qui poussent spontanément (par opposition aux plantes cultivées), animaux sauvages.
 \gf 野生::sauvage
@@ -22828,7 +22828,7 @@
 \so <print="n"> F4
 \de Meaning, sense.
 \ge 意思::meaning
-\dn 意思（汉语借词）
+\dn 意思
 \gn 意思（借词）
 \df Signification, sens.
 \gf 意思::signification
@@ -23558,7 +23558,7 @@
 \pdv kɤ˧˥
 \de Potato.
 \ge 洋芋::potato
-\dn 洋芋、土豆 、马铃薯（汉语借词）
+\dn 洋芋、土豆 、马铃薯
 \gn 洋芋（借词）
 \df Pomme de terre.
 \gf 洋芋::pomme_de_terre
@@ -24591,7 +24591,7 @@
 \so <print="n"> F4
 \de Too much, excessively.
 \ge 过::too_much
-\dn 过于，太（汉语借词）
+\dn 过于，太
 \gn 过[于]（借词）
 \df Trop, excessivement.
 \gf 过::trop
@@ -24609,7 +24609,7 @@
 \so <print="n"> F4
 \de To happen, to take place, to pass, to go by (days, existence).
 \ge 过::to_happen
-\dn 过（汉语借词）
+\dn 过
 \gn 过（借词）
 \df Se passer, avoir lieu: les jours passent, la vie se passe; couler (des jours/des années).
 \gf 过::se_passer
@@ -24863,7 +24863,7 @@
 \so <print="n"> F4
 \de Unfortunate; it's a pity; it's a shame.
 \ge 可惜::unfortunate
-\dn 可惜（汉语借词）
+\dn 可惜
 \gn 可惜（借词）
 \df Dommage, triste, regrettable, manqué (d'une occasion).
 \gf 可惜::dommage
@@ -25088,7 +25088,7 @@
 \so <print="n"> F4
 \de Chinese sorghum.
 \ge 高粱::sorghum
-\dn 高粱（汉语借词）
+\dn 高粱
 \gn 高粱（借词）
 \df Sorgho, gaoliang; céréale dont on se sert pour faire du vin.
 \gf 高粱::sorgho
@@ -25367,7 +25367,7 @@
 \so <print="n"> F4
 \de To begin.
 \ge 开始::to_begin
-\dn 开始（汉语借词）
+\dn 开始
 \gn 开始（借词）
 \df Commencer.
 \gf 开始::commencer
@@ -27837,7 +27837,7 @@
 \so <print="n"> F4
 \de To take care of, to take charge of.
 \ge 管::to_take_care_of
-\dn 管（汉语借词）
+\dn 管
 \gn 管（借词）
 \df S'occuper de, se charger de.
 \gf s_occuper_de
@@ -27872,7 +27872,7 @@
 \so <print="n"> F4
 \de Name of a hotel.
 \ge 官方::hotel_name
-\dn 官房（汉语借词），酒店名称
+\dn 官房，酒店名称
 \gn 官房（借词）
 \df Nom d'un hôtel.
 \gf 官方::nom_d_hôtel
@@ -27990,7 +27990,7 @@
 \pdv ɭɯ˧
 \de Coffin.
 \ge 棺材::coffin
-\dn 棺材（汉语借词）
+\dn 棺材
 \gn 棺材（借词）
 \df Cercueil.
 \gf 棺材::cercueil
@@ -28012,7 +28012,7 @@
 \so <print="n"> F4
 \de Sunflower seed.
 \ge 瓜子::sunflower_seed
-\dn 葵花瓜籽（汉语借词）
+\dn 葵花瓜籽
 \gn 葵花瓜籽（借词）
 \df Graine de tournesol.
 \gf 瓜子::graine_de_tournesol
@@ -28205,6 +28205,7 @@
 \lx kwɤ˩α
 \hm 2
 \or guaq
+\bw <langue="cmn"> 管
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28214,7 +28215,7 @@
 \so <print="n"> F4
 \de To manage, to be in charge of, to take care of.
 \ge to_manage
-\dn 管（汉语借词）
+\dn 管
 \gn 管（借词）
 \df S'occuper de, gérer, superviser.
 \gf superviser
@@ -30594,7 +30595,7 @@
 \so <print="n"> F4
 \de Cereals.
 \ge 粮食::cereals
-\dn 粮食（汉语借词）
+\dn 粮食
 \gn 粮食（借词）
 \df Céréales.
 \gf 粮食::céréales
@@ -32429,7 +32430,7 @@
 \so <print="n"> F4
 \de To record sound.
 \ge 录音::to_record
-\dn 录音（汉语借词）
+\dn 录音
 \gn 录音（借词）
 \df Enregistrer.
 \gf 录音::enregistrer
@@ -32692,7 +32693,7 @@
 \so <print="n"> F4
 \de The village of Fengke (close to the Yangtze river): this is the former name of the area in Chinese.
 \ge 六区::Fengke
-\dn 六区，今奉科乡（汉语借词）
+\dn 六区，今奉科乡
 \gn 六区（今奉科乡）（借词）
 \df Fengke: nom chinois ancien du village de Fengke, au bord du Yangtze.
 \gf 六区::Fengke
@@ -32736,7 +32737,7 @@
 \pdv nɑ˧
 \de Oven.
 \ge 炉子::oven
-\dn 炉子（汉语借词）
+\dn 炉子
 \gn 炉子（借词）
 \df Four.
 \gf 炉子::four
@@ -33786,7 +33787,7 @@
 
 \lx mi˩hwɑ˧
 \or mihua
-\bw |fn{棉花}
+\bw <langue="cmn"> 棉花
 \ps n
 \lc mi˩hwɑ˥
 \sd <langue="fra"> plante
@@ -33795,7 +33796,7 @@
 \so <print="n"> F4
 \de Cotton.
 \ge cotton
-\dn 棉花（汉语借词）
+\dn 棉花
 \gn 棉花（借词）
 \df Coton.
 \gf 棉花::coton
@@ -34434,7 +34435,7 @@
 \pdv ɭɯ˧
 \de Mushrooms that grows on fallen trunks, e.g. oaks.
 \ge 蘑菇::mushroom_of_fallen_trees
-\dn 蘑菇：长在倒在地上的树（如青冈等树木）上的菌子（汉语借词）
+\dn 蘑菇：长在倒在地上的树（如青冈等树木）上的菌子
 \gn 蘑菇长在倒在地上的树上的一种菌子（借词）
 \df Sorte de champignon qui pousse sur les chênes (sur les troncs tombés, sur les arbres morts).
 \gf 蘑菇::champignon_des_troncs_tombés
@@ -34680,7 +34681,7 @@
 \pdv ɭɯ˧
 \de Black mushroom, ‘wood ear' (an edible fungus).
 \ge black_mushroom
-\dn 木耳（汉语借词）
+\dn 木耳
 \gn 木耳（借词）
 \df Champignon noir.
 \gf 木耳::champignon_noir
@@ -34697,7 +34698,7 @@
 \so <print="n"> F4
 \de Sesame candy.
 \ge 麻糖::sesame_candy
-\dn 麻糖（汉语借词）
+\dn 麻糖
 \gn 麻糖（借词）
 \df Confiserie au sésame.
 \gf 麻糖::confiserie_au_sésame
@@ -34714,7 +34715,7 @@
 \so <print="n"> F4
 \de Cart.
 \ge 马车::cart
-\dn 马车（汉语借词）
+\dn 马车
 \gn 马车（借词）
 \df Charrette.
 \gf 马车::charrette
@@ -34877,7 +34878,7 @@
 \va <speaker="M23"> ne sait pas
 \de One Chinese acre, amounting to one-sixth of an acre.
 \ge 亩::|fg{clf}.acres
-\dn 量词：地（一亩地）（汉语借词）
+\dn 量词：地（一亩地）
 \gn 量词.亩（地）（借词）
 \df Acre chinois: un sixième d'acre; 0,0667 hectare.
 \gf 亩::|fg{clf}.acres
@@ -37247,7 +37248,7 @@
 \so <print="n"> F4
 \de Easy and comfortable, at ease. Borrowing from Southwestern Mandarin.
 \ge 安逸::comfortable
-\dn 安逸（汉语借词）
+\dn 安逸
 \gn 安逸（借词）
 \df À l'aise, dans le confort, dans l'abondance. Emprunt au dialecte mandarin du sud-ouest.
 \gf 安逸::à_l_aise
@@ -39486,7 +39487,7 @@
 \so <print="n"> F4
 \de Cep, |fi{Boletus edulis}.
 \ge 牛肝菌::cep
-\dn 牛肝菌（汉语借词）
+\dn 牛肝菌
 \gn 牛肝菌（借词）
 \df Bolet, cèpe, |fi{Boletus edulis}.
 \gf 牛肝菌::bolet
@@ -40962,7 +40963,7 @@
 \pdv pʰæ˧˥
 \de Tile (roof tile).
 \ge 瓦::tile
-\dn 瓦（汉语借词）
+\dn 瓦
 \gn 瓦（借词）
 \df Tuile (pour la toiture).
 \gf 瓦::tuile
@@ -41026,7 +41027,7 @@
 \pdv ɭɯ˧, pʰæ˧˥
 \de Tile and brick: characterization of the main materials used for Chinese-style house construction.
 \ge 瓦砖::tile_and_brick
-\dn 瓦与砖（汉语借词）
+\dn 瓦与砖
 \gn 瓦砖（借词）
 \df Tuile et brique: caractérisation des principaux matériaux de construction des maisons à la façon chinoise.
 \gf 瓦砖::tuile_et_brique
@@ -41689,7 +41690,7 @@
 \so <print="n"> F4
 \de The lowest rank in the hierarchy of feudal officials.
 \ge lowest_rank_in_feudal_hierarchy
-\dn 把事（封建官员系统中的最低等级）（汉语借词）
+\dn 把事（封建官员系统中的最低等级）
 \gn 把事（借词）
 \df Rang (le plus bas) dans la hiérarchie des fonctionnaires féodaux.
 \gf 把事::rang_le_plus_bas_des_fonctionnaires_féodaux
@@ -41773,7 +41774,7 @@
 \so <print="n"> F4
 \de Plantain.
 \ge 芭蕉::plantain
-\dn 芭蕉（汉语借词）
+\dn 芭蕉
 \gn 芭蕉（借词）
 \df Bananier plantain.
 \gf 芭蕉::plantain
@@ -41913,7 +41914,7 @@
 \so <print="n"> F4
 \de Itself, per se.
 \ge 本身::itself
-\dn 本身（汉语借词）
+\dn 本身
 \gn 本身（借词）
 \df En soi.
 \gf 本身::en_soi
@@ -41931,7 +41932,7 @@
 \so <print="n"> F4
 \de Beijing.
 \ge 北京::Beijing
-\dn 北京（汉语借词）
+\dn 北京
 \gn 北京（借词）
 \df Pékin.
 \gf 北京::Pékin
@@ -42005,7 +42006,7 @@
 \so <print="n"> F4
 \de Flat.
 \ge 平::flat
-\dn 平（汉语借词）
+\dn 平
 \gn 平（借词）
 \df Plat.
 \gf 平::plat
@@ -42322,6 +42323,7 @@
 \sf <nb="B"> 1964
 \sf <nb="2011"> 2984
 \or bimu
+\bw <langue="cmn"> 贝母
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -42333,7 +42335,7 @@
 \pdv ɭɯ˧
 \de |fi{Fritillaria cirrhosa}.
 \ge 贝母::Fritillaria_cirrhosa
-\dn 贝母（汉语借词）
+\dn 贝母
 \gn 贝母（借词）
 \df |fi{Fritillaria cirrhosa}.
 \gf 贝母::Fritillaria_cirrhosa
@@ -42392,7 +42394,7 @@
 \so <print="n"> F4
 \de White sugar.
 \ge 白糖::white_sugar
-\dn 白糖（汉语借词）
+\dn 白糖
 \gn 白糖（借词）
 \df Sucre blanc.
 \gf 白糖::sucre_blanc
@@ -42450,7 +42452,7 @@
 \so <print="n"> F4
 \de To drape oneself in a felt cape, to drape a piece of felt over one's shoulders.
 \ge 披毡::to_drape_oneself_in_a_cape
-\dn 披毡（汉语借词）
+\dn 披毡
 \gn 披毡（借词）
 \df Se draper d'un feutre.
 \gf 披毡::se_draper_d_un_feutre
@@ -42649,7 +42651,7 @@
 \va <speaker="M21"> ID.
 \de To pack.
 \ge 包::to_pack
-\dn 包（量词）（汉语借词）
+\dn 包（量词）
 \gn 包（借词）
 \df Emballer.
 \gf 包::emballer
@@ -42838,7 +42840,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for packs (e.g. a pack of cigarettes).
 \ge |fg{clf}.包::packs
-\dn 量词：包（汉语借词）
+\dn 量词：包
 \gn 量词.包（借词）
 \df Classificateur des paquets.
 \gf |fg{clf}.包::paquets
@@ -51692,7 +51694,7 @@
 \vf emprunt
 \de To accomplish, to complete.
 \ge 完成::to_accomplish
-\dn 完成（汉语借词）
+\dn 完成
 \gn 完成（借词）
 \df Achever, mener à terme.
 \gf 完成::achever
@@ -51715,7 +51717,7 @@
 \so <print="n"> F4
 \de Socks.
 \ge socks
-\dn 袜子（汉语借词）
+\dn 袜子
 \gn 袜子
 \df Chaussettes.
 \gf chaussettes
@@ -52801,7 +52803,7 @@
 \so <print="n"> F4
 \de Shanghai.
 \ge 上海::Shanghai
-\dn 上海（汉语借词）
+\dn 上海
 \gn 上海（借词）
 \df Shanghaï.
 \gf 上海::Shanghaï
@@ -52821,7 +52823,7 @@
 \so <print="n"> F4
 \de To discuss.
 \ge 商量::to_discuss
-\dn 商量（汉语借词）
+\dn 商量
 \gn 商量（借词）
 \df Discuter.
 \gf 商量::discuter
@@ -52839,7 +52841,7 @@
 \so <print="n"> F4
 \de Scabious.
 \ge 山萝卜::scabious
-\dn 山萝卜（汉语借词）
+\dn 山萝卜
 \gn 山萝卜（借词）
 \df Cerfeuil.
 \gf 山萝卜::cerfeuil
@@ -52886,8 +52888,8 @@
 \so <print="n"> F4
 \de Commodity, goods, merchandise.
 \ge 商品::commodity
-\dn 商品（汉语借词）
-\gn 商品（汉语借词）
+\dn 商品
+\gn 商品（借词）
 \df Marchandise, objet qui peut se vendre au marché.
 \gf 商品::marchandise
 \dt 27/Apr/2017
@@ -53042,7 +53044,7 @@
 \so <print="n"> F4
 \de Pickled vegetables.
 \ge 酸菜::pickled_vegetables
-\dn 酸菜（汉语借词）、泡菜
+\dn 酸菜、泡菜
 \gn 酸菜（借词）
 \df Légumes en saumure.
 \gf 酸菜::légumes_en_saumure
@@ -53078,7 +53080,7 @@
 \so <print="n"> F4
 \de Vinegar; sour vinegar.
 \ge 酸醋::vinegar
-\dn 酸醋（汉语借词）
+\dn 酸醋
 \gn 酸醋（借词）
 \df Vinaigre.
 \gf 酸醋::vinaigre
@@ -54000,7 +54002,7 @@
 \pdv ɭɯ˧
 \de Tenon.
 \ge 榫头::tenon
-\dn 榫头（汉语借词）
+\dn 榫头
 \gn 榫头（借词）
 \df Tenon.
 \gf 榫头::tenon
@@ -54081,7 +54083,7 @@
 \so <print="n"> F4
 \de Birthday.
 \ge 生日::birthday
-\dn 生日（汉语借词）
+\dn 生日
 \gn 生日（借词）
 \df Anniversaire.
 \gf 生日::anniversaire
@@ -54636,7 +54638,7 @@
 \so <print="n"> F4
 \de Straw (for drinking liquids).
 \ge straw_for_drinking
-\dn 吸管（汉语借词）
+\dn 吸管
 \gn 吸管（借词）
 \df Paille (pour boire un liquide à la paille).
 \gf paille_pour_boire
@@ -55444,7 +55446,7 @@
 \vf emprunt
 \de Irrigation works.
 \ge 水利::irrigation_works
-\dn 水利（汉语借词）
+\dn 水利
 \gn 水利（借词）
 \df Réseau d'irrigation.
 \gf 水利::réseau_d_irrigation
@@ -55645,7 +55647,7 @@
 \so <print="n"> F4
 \de Fruit candy, fruit-flavoured candy.
 \ge 水果糖::fruit_candy
-\dn 水果糖（汉语借词）
+\dn 水果糖
 \gn 水果糖（借词）
 \df Bonbon aux fruits, bonbon parfumé aux fruits.
 \gf 水果糖::bonbon_aux_fruits
@@ -56413,7 +56415,7 @@
 \vf <type="tone"> L
 \de Plastic.
 \ge 塑料桶::plastic
-\dn 塑料（汉语借词）
+\dn 塑料
 \gn 塑料（借词）
 \df Plastique.
 \gf 塑料::plastique
@@ -56421,6 +56423,7 @@
 
 \lx sɯ˧ljɤ˧tʰo˧˥
 \or siliato
+\bw <langue="cmn"> 塑料桶
 \ps n
 \lc sɯ˧ljɤ˧tʰo˧˥
 \sd <langue="fra"> objet
@@ -56432,7 +56435,7 @@
 \pdv ɭɯ˧
 \de Plastic jerrican; used to store and transport drinking water.
 \ge 塑料桶::plastic_container
-\dn 塑料桶（汉语借词）
+\dn 塑料桶
 \gn 塑料桶（借词）
 \df Bidon: contenant pour liquides (de un à dix litres environ), en matière plastique.
 \gf 塑料桶::container_en_plastique
@@ -56906,7 +56909,7 @@
 \vf emprunt
 \de Indeed, really, honestly
 \ge 实在::really
-\dn 实在（汉语借词）
+\dn 实在
 \gn 实在（借词）
 \df Vraiment, réellement, honnêtement.
 \gf 实在::vraiment
@@ -56975,7 +56978,7 @@
 \pdv mi˩
 \de Lion.
 \ge 狮子::lion
-\dn 狮子（汉语借词）
+\dn 狮子
 \gn 狮子（借词）
 \df Lion.
 \gf 狮子::lion
@@ -57022,7 +57025,7 @@
 \vf emprunt
 \de Persimmon.
 \ge 柿子::persimmon
-\dn 柿子（汉语借词）
+\dn 柿子
 \gn 柿子（借词）
 \df Kaki.
 \gf 柿子::kaki
@@ -57810,7 +57813,7 @@
 \so <print="n"> F4
 \de Twins.
 \ge 双胞胎::twins
-\dn 双胞胎 （汉语借词）
+\dn 双胞胎
 \gn 双胞胎（借词）
 \df Jumeaux.
 \gf 双胞胎::jumeaux
@@ -58278,7 +58281,7 @@
 \so <print="n"> F4
 \de Excrement.
 \ge 大粪::excrement
-\dn 大粪（汉语借词）
+\dn 大粪
 \gn 大粪（借词）
 \df Excrément.
 \gf 大粪::excrément
@@ -58471,7 +58474,7 @@
 \so <print="n"> F4
 \de To do manual work, to get a job, to do odd jobs to make some money.
 \ge 打工::to_do_manual_work
-\dn 打工（汉语借词）
+\dn 打工
 \gn 打工（借词）
 \df Trouver du travail non qualifié (sur un chantier…), gagner de l'argent en faisant des petits boulots.
 \gf 打工::faire_des_petits_boulots
@@ -58517,7 +58520,7 @@
 \so <print="n"> F4
 \de Dali (city name).
 \ge 大理::Dali
-\dn 大理（汉语借词）
+\dn 大理
 \gn 大理（借词）
 \df Dali (nom de ville).
 \gf 大理::Dali
@@ -59079,7 +59082,7 @@
 \so <print="n"> F4
 \de Taiwan.
 \ge 台湾::Taiwan
-\dn 台湾（汉语借词）
+\dn 台湾
 \gn 台湾（借词）
 \df Taïwan.
 \gf 台湾::Taïwan
@@ -59290,7 +59293,7 @@
 \so <print="n"> F4
 \de Jar.
 \ge 坛子::jar
-\dn 坛子（汉语借词）
+\dn 坛子
 \gn 坛子（借词）
 \df Jarre.
 \gf 坛子::jarre
@@ -59326,7 +59329,7 @@
 \pdv ɭɯ˧
 \de Room for guests (local Chinese word; meaning in standard Chinese: central room, main hall). There is no direct equivalent in Na because the traditional house did not have a room for guests.
 \ge 堂屋::guest_room
-\dn 堂屋（汉语借词），来指客房
+\dn 堂屋，来指客房
 \gn 堂屋（借词）
 \df Chambre des invités (emprunt au chinois local; sens en chinois standard: pièce centrale, salle de séjour). Il n'y a pas d'équivalent direct dans la maison na traditionnelle: c'est dans la resserre qu'on pouvait improviser une chambre supplémentaire.
 \gf 堂屋::chambre_des_invités
@@ -59694,6 +59697,7 @@
 
 \lx tɕæ˧tsʰe˩
 \or Jaecei
+\bw <langue="cmn"> 加泽
 \ps n
 \cf tsʰe˧di˧
 \sd <langue="fra"> lieu
@@ -59703,7 +59707,7 @@
 \so <print="n"> F4
 \de Jiaze, a hamlet to the north of Labai
 \ge 加泽::Jiaze
-\dn 拉伯乡加泽村（汉语借词）
+\dn 拉伯乡加泽村
 \gn 加泽村（借词）
 \df Jiaze, un hameau au nord de Labai
 \gf 加泽::Jiaze
@@ -60175,6 +60179,7 @@
 
 \lx tɕʰi˩tɕʰɤ˩
 \or qiqe
+\bw <langue="cmn"> 齐全
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -60184,7 +60189,7 @@
 \so <print="n"> F4
 \de Complete, all in readiness.
 \ge 齐全::complete
-\dn 齐全（汉语借词）
+\dn 齐全
 \gn 齐全（借词）
 \df Complet, au grand complet.
 \gf 齐全::complet
@@ -60221,7 +60226,7 @@
 \pdv nɑ˧
 \de Car.
 \ge 汽车::car
-\dn 汽车（汉语借词）
+\dn 汽车
 \gn 汽车（借词）
 \df Voiture, automobile.
 \gf 汽车::voiture
@@ -60611,7 +60616,7 @@
 \so <print="n"> F4
 \de Plywood, veneer board.
 \ge 胶合板::veneer_board
-\dn 胶合板（汉语借词）
+\dn 胶合板
 \gn 胶合板（借词）
 \df Contreplaqué, panneau en contreplaqué.
 \gf 胶合板::contreplaqué
@@ -60654,7 +60659,7 @@
 \so <print="n"> F4
 \de Prison.
 \ge 监狱::prison
-\dn 监狱（汉语借词）
+\dn 监狱
 \gn 监狱（借词）
 \df Prison.
 \gf 监狱::prison
@@ -60868,7 +60873,7 @@
 \so <print="n"> F4
 \de The whole world, everyone
 \ge 全世界::the_whole_world
-\dn 全世界（汉语借词）
+\dn 全世界
 \gn 全世界（借词）
 \df Le monde entier, tout le monde.
 \gf 全世界::le_monde_entier
@@ -60892,7 +60897,7 @@
 \pdv ɭɯ˧
 \de Yoke.
 \ge 夹担::yoke
-\dn 牛轭（单行）（汉语借词）
+\dn 牛轭（单行）
 \gn 牛轭（借词）
 \gr 牛夹担、牛枷档、牛拴
 \df Joug.
@@ -60944,7 +60949,7 @@
 \so <print="n"> F4
 \de Two-man saw: a saw designed for use by two sawyers.
 \ge ??::two_man_saw
-\dn 双人锯：以前用于把圆木截成板材的大的双人锯（汉语借词）
+\dn 双人锯：以前用于把圆木截成板材的大的双人锯
 \gn 双人锯（借词）
 \df Scie passe-partout: grande scie avec une poignée à chaque extrémité, maniée par deux bûcherons.
 \gf ??::scie_passe_partout
@@ -61089,7 +61094,7 @@
 \so <print="n"> F4
 \de Just; exactly.
 \ge 将将::just/exactly
-\dn 将将（汉语借词）、刚刚
+\dn 将将、刚刚
 \gn 将将（借词）
 \gr 将将
 \df Précisément, exactement (ex.: au moment précis où, juste au moment où).
@@ -62091,7 +62096,7 @@
 \va <speaker="M21"> ID.
 \de Classifier: a pound of.
 \ge 斤::|fg{clf}.pound/pint_of
-\dn 量词：斤（用于固体，也用于液体）（汉语借词）
+\dn 量词：斤（用于固体，也用于液体）
 \gn 量词.斤（借词）
 \df Livre (aussi pour les liquides: pinte).
 \gf 斤::|fg{clf}.livre/pinte(poids)
@@ -62231,6 +62236,7 @@
 
 \lx te˧˥α
 \or dei
+\bw <langue="cmn"> 代
 \ps clf
 \cf ʈʂʰæ˧˥
 \lc ɖɯ˧ te˧˥
@@ -62240,7 +62246,7 @@
 \so <print="n"> F4
 \de Classifier for generations.
 \ge 代::|fg{clf}.generation
-\dn 量词：代（汉语借词）
+\dn 量词：代
 \gn 量词.代（借词）
 \df Classificateur des générations.
 \gf 代::|fg{clf}.générations
@@ -62457,7 +62463,7 @@
 \so <print="n"> F4
 \de To treat, to handle (someone in a certain way).
 \ge 对待::to_treat
-\dn 对待（汉语借词）
+\dn 对待
 \gn 对待（借词）
 \df Traiter (quelqu'un d'une certaine façon).
 \gf 对待::traiter
@@ -62518,6 +62524,7 @@
 \sf <nb="B"> 570a
 \sf <nb="2011"> 807
 \or dichi
+\bw <langue="cmn"> 铁锤
 \ps n
 \lc ti˧ʈʂʰɯ˩
 \sd <langue="fra"> objet
@@ -62529,7 +62536,7 @@
 \pdv ɭɯ˧
 \de Hammer.
 \ge hammer
-\dn 铁锤（汉语借词）
+\dn 铁锤
 \gn 铁锤（借词）
 \df Marteau.
 \gf marteau
@@ -62823,7 +62830,7 @@
 
 \lx tje˩fæ˧
 \or diafae
-\bw <langue="cmn"> 电饭（锅）
+\bw <langue="cmn"> 电饭
 \ps n
 \lc tje˩fæ˥
 \sd <langue="fra"> objet
@@ -62832,7 +62839,7 @@
 \so <print="n"> F4
 \de Electric rice cooker.
 \ge 电饭::rice_cooker
-\dn 电饭锅（汉语借词）
+\dn 电饭锅
 \gn 电饭锅（借词）
 \df Cuiseur à riz électrique.
 \gf 电饭::cuiseur_à_riz
@@ -62850,7 +62857,7 @@
 \pdv ɭɯ˧
 \de Telephone.
 \ge 电话::telephone
-\dn 电话（汉语借词）
+\dn 电话
 \gn 电话（借词）
 \df Téléphone.
 \gf 电话::téléphone
@@ -62875,7 +62882,7 @@
 \pdv ɭɯ˧
 \de Fort; pillbox; blockhouse for military use.
 \ge 碉堡::blockhouse
-\dn 碉堡（汉语借词）
+\dn 碉堡
 \gn 碉堡（借词）
 \df Fortin, fort, forteresse.
 \gf 碉堡::fortin
@@ -62894,7 +62901,7 @@
 \va <speaker="F4"> tjɤ˧ʂɯ˧, tjɤ˩ʂɯ˧˥, tje˩˥ʂɯ˧, tje˧ʂɯ˧, tje˩ʂɯ˧˥
 \de Television.
 \ge 电视::television
-\dn 电视（汉语借词）
+\dn 电视
 \gn 电视（借词）
 \df Télévision.
 \gf 电视::télévision
@@ -63057,7 +63064,7 @@
 \pdv v̩˧
 \de Messenger.
 \ge 通信::messenger
-\dn 通信员（汉语借词）
+\dn 通信员
 \gn 通信（借词）
 \df Messager.
 \gf 通信::messager
@@ -63134,7 +63141,7 @@
 \so <print="n"> F4
 \de Bandit, brigand.
 \ge 土匪::bandit
-\dn 土匪（汉语借词）
+\dn 土匪
 \gn 土匪（借词）
 \df Bandit, maraudeur.
 \gf 土匪::bandit
@@ -63241,7 +63248,7 @@
 \so <print="n"> F4
 \de Wax gourd, white gourd, winter melon, |fi{Benincasa hispida}.
 \ge wax_gourd
-\dn 冬瓜（汉语借词）
+\dn 冬瓜
 \gn 冬瓜（借词）
 \df |fi{Benincasa hispida}.
 \gf Benincasa_hispida
@@ -63261,7 +63268,7 @@
 \pdv nɑ˧
 \de Tractor.
 \ge 拖拉机::tractor
-\dn 拖拉机（汉语借词）
+\dn 拖拉机
 \gn 拖拉机（借词）
 \df Tracteur.
 \gf 拖拉机::tracteur
@@ -64039,7 +64046,7 @@
 \so <print="n"> F4
 \de Classifier for sets.
 \ge |fg{clf.}套::sets
-\dn 量词：套（汉语借词）
+\dn 量词：套
 \gn 量词.套（借词）
 \df Classificateur des ensembles, des lots.
 \gf |fg{clf.}套::ensemble
@@ -64716,7 +64723,7 @@
 \so <print="n"> F4
 \de Warehouse, storehouse.
 \ge 仓库::warehouse
-\dn 仓库（汉语借词）
+\dn 仓库
 \gn 仓库（借词）
 \df Réserve, magasin.
 \gf 仓库::réserve
@@ -65056,7 +65063,7 @@
 \pdv mo˧˥
 \de Various mushrooms, mixed mushrooms.
 \ge 杂菌::various_mushrooms
-\dn 杂菌（汉语借词）
+\dn 杂菌
 \gn 杂菌（借词）
 \df Champignons divers, champignons variés.
 \gf 杂菌::champignons divers
@@ -65288,6 +65295,7 @@
 \sf <nb="2011"> 801
 \hm 2
 \or zhei
+\bw <langue="cmn"> 针
 \ps n
 \cf ʁo˧˥
 \sd <langue="fra"> objet
@@ -65299,7 +65307,7 @@
 \pdv ɭɯ˧
 \de Needle.
 \ge 针::needle
-\dn 针（汉语借词）
+\dn 针
 \gn 针（借词）
 \df Aiguille.
 \gf 针::aiguille
@@ -65338,7 +65346,7 @@
 \vf emprunt
 \de Classifier: an inch (1/3 decimeter).
 \ge |fg{clf.}寸::inch
-\dn 量词：寸（汉语借词）
+\dn 量词：寸
 \gn 量词.寸（借词）
 \df Pouce (cette unité de mesure n'était pas en usage chez les Na avant son introduction par emprunt au chinois).
 \gf |fg{clf.}寸::pouce
@@ -65722,7 +65730,7 @@
 \vf emprunt
 \de To succeed.
 \ge 成功::to_succeed
-\dn 成功（汉语借词）
+\dn 成功
 \gn 成功（借词）
 \df Réussir.
 \gf 成功::réussir
@@ -67783,7 +67791,7 @@
 \so <print="n"> F4
 \de To look after, to care for.
 \ge 照顾::to_look_after
-\dn 照顾（汉语借词）
+\dn 照顾
 \gn 照顾（借词）
 \df S'occuper de, prendre soin de (quelqu'un).
 \gf 照顾::prendre_soin_de
@@ -68363,7 +68371,7 @@
 \so <print="n"> F4
 \de religion
 \ge 宗教::religion
-\dn 宗教（汉语借词）
+\dn 宗教
 \gn 宗教（借词）
 \df religion
 \gf 宗教::religion
@@ -68446,7 +68454,7 @@
 \pdv pɤ˩
 \de Table.
 \ge 桌子::table
-\dn 桌子（汉语借词）
+\dn 桌子
 \gn 桌子（借词）
 \df Table.
 \gf 桌子::table
@@ -68463,7 +68471,7 @@
 \so <print="n"> F4
 \de Car, bus.
 \ge 车子::car
-\dn 车子（汉语借词）
+\dn 车子
 \gn 车子（借词）
 \df Voiture, automobile, car.
 \gf 车子::voiture
@@ -69457,7 +69465,7 @@
 \so <print="n"> F4
 \de Local government.
 \ge local_government
-\dn （土）知府，如：永宁知府（汉语借词）
+\dn （土）知府，如：永宁知府
 \gn 知府（借词）
 \df Gouvernement local, pouvoir local.
 \gf gouvernement_local
@@ -69595,7 +69603,7 @@
 \so <print="n"> F4
 \de Sesame.
 \ge 芝麻::sesame
-\dn 芝麻（汉语借词）
+\dn 芝麻
 \gn 芝麻（借词）
 \df Sésame.
 \gf 芝麻::sésame
@@ -70092,7 +70100,7 @@
 \va <speaker="M23"> ID.
 \de Vinegar.
 \ge 醋::vinegar
-\dn 醋（汉语借词）
+\dn 醋
 \gn 醋（借词）
 \df Vinaigre.
 \gf 醋::vinaigre
@@ -70701,7 +70709,7 @@
 \pdv nɑ˧
 \de Boat.
 \ge 船::boat
-\dn 船（汉语借词）
+\dn 船
 \gn 船（借词）
 \df Bateau (emprunt chinois ancien); désormais, c'est le terme employé pour les grands bateaux, par ex. les barges pour passer le Yangtze; ce sont des Chinois et des Hmong qui auraient installé le bateau permettant de passer le Yangtze, d'où l'utilisation d'un mot chinois.
 \gf 船::bateau
@@ -70849,7 +70857,7 @@
 \so <print="n"> F4
 \de Brick.
 \ge 砖头::brick
-\dn 砖头（汉语借词）
+\dn 砖头
 \gn 砖头（借词）
 \df Brique.
 \gf 砖头::brique
@@ -70866,7 +70874,7 @@
 \so <print="n"> F4
 \de To create.
 \ge 创造::to_create
-\dn 创造（汉语借词）
+\dn 创造
 \gn 创造（借词）
 \df Créer.
 \gf 创造::créer
@@ -71846,7 +71854,7 @@
 \va <speaker="M21"> ʂv̩˧kʰɯ˩, jɤ˩pu˧
 \de To gamble, to bet, to wager.
 \ge 赌博::to_gamble
-\dn 赌博（汉语借词）
+\dn 赌博
 \gn 赌博（借词）
 \df Parier, jouer à des jeux d'argent.
 \gf 赌博::parier
@@ -72804,7 +72812,7 @@
 \vf n'existe pas ici
 \de Tortoise.
 \ge 乌龟::tortoise
-\dn 乌龟（汉语借词）
+\dn 乌龟
 \gn 乌龟（借词）
 \df Tortue.
 \gf 乌龟::tortue
@@ -76073,7 +76081,7 @@
 \so <print="n"> F4
 \de Japan.
 \ge 日本::Japan
-\dn 日本（汉语借词）
+\dn 日本
 \gn 日本（借词）
 \df Japon.
 \gf 日本::Japon
@@ -76205,7 +76213,7 @@
 \so <print="n"> F4
 \de Days; life; time.
 \ge 日子::days
-\dn 日子（汉语借词）
+\dn 日子
 \gn 日子（借词）
 \df Jours, temps.
 \gf 日子::jours
