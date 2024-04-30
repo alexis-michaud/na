@@ -1678,9 +1678,9 @@
 \df Courir.
 \gf courir
 \xv le˧-bæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 跑了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 25/Aug/2015
 
 \lx bɑ˩˥
@@ -2329,9 +2329,9 @@
 \df Auto-classificateur des fleurs.
 \gf |fg{clf}.fleurs
 \xv tʰv̩˧-bæ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _ ：这朵（花）
-\xf |fg{dem} _ (ton: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜 ：这朵（花）
+\xf |fg{dem} 〜 (ton: H# / H$)
 \dt 30/Apr/2017
 
 \lx bæ˧α
@@ -4058,9 +4058,9 @@
 \df «Petit Porc»: nom employé pour les petits garçons pendant leurs premiers mois, avant qu'on leur donne un vrai nom. Le vilain nom dont on affuble l'enfant vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.)
 \gf Petit_Porc
 \xv bo˩zo˧ ɲi˥
-\xe _ |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是“猪崽子”
-\xf _ |fg{cop}
+\xf 〜 |fg{cop}
 \xc PHONO
 \dt 10/Jun/2017
 
@@ -4102,13 +4102,13 @@
 \df Embrasser.
 \gf embrasser
 \xv ɖɯ˧-bo˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn （主动的）亲吻一下（如：大人对小孩的一种表示）
-\xf |fg{délimitatif} _ |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xv ɖɯ˧-bo˧~bo˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 相互亲吻一下
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 24/Apr/2017
 
 \lx bɤ˩α
@@ -4131,9 +4131,9 @@
 \xn 一根玉米棒子
 \xf un épi de maïs
 \xv tʰv̩˧-bɤ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _：那根（玉米棒子）
-\xf |fg{dem} _ (ton: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜：那根（玉米棒子）
+\xf |fg{dem} 〜 (ton: H# / H$)
 \xc
 \dt 12/May/2017
 
@@ -5236,9 +5236,9 @@
 \df Cuire à la vapeur, étuver.
 \gf cuire_à_la_vapeur
 \xv le˧-bv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 蒸了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv pɤ˩jɤ˧ bv̩˥
 \xe to steam buns
@@ -5311,9 +5311,9 @@
 \df Asperger; arroser.
 \gf asperger
 \xv le˧-bv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 泼了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv dʑɯ˩ bv̩˩˥
 \xe to sprinkle water
@@ -5846,9 +5846,9 @@
 \df Essayer, goûter, expérimenter.
 \gf essayer
 \xv le˧-ɕjɤ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 试了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ ɕjɤ˩
 \xe to try something
@@ -6237,9 +6237,9 @@
 \df Couper un arbre, abattre un arbre; ouvrir une brèche (dans une digue); découper (de la viande).
 \gf couper/découper
 \xv le˧-dɑ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 砍了(树)，割了（肉）
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɖɯ˧-dɑ˧ tʰi˥-dɑ˩
 \xe to hit a blow
@@ -6353,9 +6353,9 @@
 \xn 织布
 \xf tisser du tissu
 \xv ɖɯ˧-dɑ˧~dɑ˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 织一下
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \dt 27/Aug/2015
 
@@ -6808,9 +6808,9 @@
 \xn 一天两段路！（说明：早上出发，如果午饭前能到目的地，距离算是一段，如果下午晚上才到，算两段。）
 \xf Formule figée traditionnelle: un jour, ça fait deux étapes! (si on peut parvenir quelque part avant le déjeuner, la distance est considérée comme une seule étape; si on y parvient dans l'après-midi, on compte deux étapes)
 \xv ʈʂʰɯ˧-ɖæ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (ton: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (ton: H# / H$)
 \dt 30/Apr/2017
 
 \lx ɖæ˧~ɖæ˩
@@ -7368,9 +7368,9 @@
 \df Voir, apercevoir.
 \gf apercevoir
 \xv ɖɯ˧-do˥~do˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 见一见
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> vérifié en août 2014
 \xv ɖɯ˧-kʰwɤ˧ do˧˥
@@ -7385,9 +7385,9 @@
 \xc PHONO
 \xc <type="hist" print="n"> schéma tonal de /tso˧~tso˧ do˧˥/ : confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
 \xv do˩-mɤ˩-ho˥
-\xe _ |fg{neg} |fg{desiderative}
+\xe 〜 |fg{neg} |fg{desiderative}
 \xn 不许（看）见
-\xf _ |fg{neg} |fg{désidératif}
+\xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
 \xv bo˩mi˧ do˩ (+ze˩)
 \xe …has seen (a/the) sow
@@ -8478,7 +8478,7 @@
 \df Détester.
 \gf détester
 \xv le˧-dv̩˩-ze˩
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv njɤ˧ | ʈʂʰɯ˧ dv̩˥ | ʐwæ˩˥!
 \xe I hate him/her!
@@ -8783,9 +8783,9 @@
 \df Monter à cheval.
 \gf monter_à_cheval
 \xv le˧-ɖʐæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc <langue="fra"> phonétiquement: [læ˧-ɖʐæ˧-ze˧]
 \xv ʐwæ˧ ɖʐæ˧
 \xe to ride a horse
@@ -9532,9 +9532,9 @@
 \xn 双胞胎（直译：“一对孩子”）
 \xf Il paraît qu'elle a des jumeaux (littéralement «une paire d'enfants»)
 \xv ʈʂʰɯ˧-dze˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (ton: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (ton: H# / H$)
 \xc PHONO
 \dt 24/Apr/2017
 
@@ -9598,9 +9598,9 @@
 \xn |fg{red}
 \xf |fg{red}
 \xv le˧-dze˧~dze˥
-\xe |fg{accomp} _ |fg{red}
-\xn |fg{accomp} _ |fg{red}
-\xf |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xv v̩˩tsʰɤ˧ dze˧~dze˥
 \xe to cut vegetables
 \xn 切菜
@@ -10221,7 +10221,7 @@
 \xv mv̩˩tɕo˧ dzi˩
 \xe to sink down
 \xn 往下掉入、沉下去
-\xf |fg{directionnel} _ ; même sens: sombrer, couler
+\xf |fg{directionnel} 〜 ; même sens: sombrer, couler
 \dt 27/Aug/2015
 
 \lx dzo˩
@@ -10742,19 +10742,19 @@
 \df Jouer.
 \gf jouer
 \xv dʑɤ˩bv̩˥-bi˩
-\xe _ |fg{fut.imm}
+\xe 〜 |fg{fut.imm}
 \xn 要玩耍
-\xf _ |fg{fut.imm}
+\xf 〜 |fg{fut.imm}
 \xc PHONO
 \xv dʑɤ˩bv̩˥-ze˩
-\xe _ |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 玩耍了
-\xf _ |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-dʑɤ˩bv̩˩ +ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 玩耍了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tʰi˧-dʑɤ˩bv̩˩, | tʰi˧-dʑɤ˩bv̩˩, | le˧-fv̩˧!
 \xe They play, they play… they're happy! / (By) playing on and on, they get really happy! (About children playing together)
@@ -11332,9 +11332,9 @@
 \xn 同上：塌毁
 \xf même sens: s'écrouler
 \xv le˧-dzɤ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 塌毁了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 24/Apr/2017
 
 \lx ɖʐo˥α
@@ -12492,9 +12492,9 @@
 \df Herbes de la montagne, herbes sauvages, foin poussant sur l'alpage.
 \gf herbes_sauvages
 \xv ʈʂʰɯ˧ | dʑɯ˩ʁo˩-zɯ˩ ɲi˥.
-\xe |fg{dem} _ |fg{cop}
-\xn 指示代词 _ 系词
-\xf |fg{dem} _ |fg{cop}
+\xe |fg{dem} 〜 |fg{cop}
+\xn 指示代词 〜 系词
+\xf |fg{dem} 〜 |fg{cop}
 \dt 24/Apr/2017
 
 \lx dʑɯ˩si˩
@@ -12889,9 +12889,9 @@
 \df Rouler, tordre (par exemple: rouler des brins, pour en faire une corde; ne s'emploie pas pour les fibres très fines, pour lesquelles on dit: |fv{/ʈʂwæ˧˥/}).
 \gf rouler_des_brins
 \xv le˧-dʑɯ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 搓了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv bæ˩ dʑɯ˩˥
 \xe to twist (strings into) a rope
@@ -13152,9 +13152,9 @@
 \df Humide, mouillé.
 \gf humide
 \xv le˧-ɖʐv̩˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɖʐv̩˧~ɖʐv̩˧
 \xe |fg{red}
@@ -14347,9 +14347,9 @@
 \df Mère; le terme s'emploie aussi pour désigner les tantes.
 \gf mère/tante
 \xv ə˧mi˧=ɻæ˩
-\xe _ |fg{pl}
+\xe 〜 |fg{pl}
 \xn 母亲们 =长辈女性
-\xf _ |fg{pl}: les mères =les femmes de la génération supérieure
+\xf 〜 |fg{pl}: les mères =les femmes de la génération supérieure
 \dt 28/Aug/2015
 
 \lx ə˧mi˧-ɖɯ˩
@@ -16109,14 +16109,14 @@
 \xf |fg{dur}
 \xc PHONO
 \xv tʰi˧-gɤ˧-ze˥
-\xe |fg{dur} _ |fg{pfv}
-\xn |fg{dur} _ |fg{pfv}
-\xf |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
+\xn |fg{dur} 〜 |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-gɤ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 扛了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ gɤ˩
 \xe to carry something on the shoulder
@@ -16765,9 +16765,9 @@
 \df Surpris, étonné, abasourdi; terrifié.
 \gf surpris
 \xv le˧-gɤ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 震惊了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv no˧ | hĩ˧ gɤ˧-kʰɯ˥!
 \xe You frighten people! / People are afraid of you!
@@ -16986,9 +16986,9 @@
 \xf |fg{pfv}
 \xc PHONO
 \xv le˧-gɯ˩ɭɯ˩+ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 揉了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-gɯ˩ɭɯ˩ | le˧-gɯ˩ɭɯ˩
 \xe |fg{accomp}, with repetition
@@ -17146,9 +17146,9 @@
 \df S'écouler, passer (le temps passe); se passer (un événement).
 \gf s_écouler
 \xv le˧-gv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 已经过去了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɖɯ˧-ɭɯ˧ gv̩˧
 \xe an hour goes by
@@ -17564,9 +17564,9 @@
 \xn 做饭
 \xf faire la cuisine, cuisiner
 \xv le˧-gv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 做（饭）了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv njɤ˧ | hɑ˧ gv̩˥-bi˩!
 \xe Let me do the cooking! / I'm doing the cooking!
 \xn 我来做饭吧！
@@ -17880,9 +17880,9 @@
 \df Trancher, couper au moyen d'un instrument tranchant: couteau, épée…; ex.: tailler un vêtement.
 \gf trancher
 \xv le˧-hæ̃˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 切了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tʰɑ˧-hæ̃˧˥!
 \xe |fg{prohib}
@@ -18432,9 +18432,9 @@
 \df Mendier.
 \gf mendier
 \xv hɑ˧mi˥-hĩ˩
-\xe _ |fg{rel}: beggar, [person] who begs
+\xe 〜 |fg{rel}: beggar, [person] who begs
 \xn 要饭的、乞丐
-\xf _ |fg{rel}: mendiant, [personne] qui mendie
+\xf 〜 |fg{rel}: mendiant, [personne] qui mendie
 \dt 02/Sep/2015
 
 \lx hɑ̃˧mo˥
@@ -19367,9 +19367,9 @@
 \df Personne âgée, vieillard, vieillarde.
 \gf vieillard
 \xv hĩ˧mo˥-hĩ˩
-\xe _ |fg{rel}; same meaning
+\xe 〜 |fg{rel}; same meaning
 \xn 老人、老的人
-\xf _ |fg{rel}; même sens
+\xf 〜 |fg{rel}; même sens
 \xc <langue="fra"> La construction adjectivale et la forme lexicalisée existent toutes deux.
 \dt 02/Sep/2015
 
@@ -20381,9 +20381,9 @@
 \xf |fg{accomp}
 \xc PHONO
 \xv ɖɯ˧-hɤ˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 烘干一下
-\xf |fg{délimitatif} _ |fg{inchoatif}: chauffer un coup, chauffer un peu
+\xf |fg{délimitatif} 〜 |fg{inchoatif}: chauffer un coup, chauffer un peu
 \xv le˧-hɤ˩-ze˩, | le˧-pv̩˧-ze˧!
 \xe It was dried beside the fire, and it got dry / and it is now dry!
 \xn 烘干了，（现在）干了！
@@ -20533,9 +20533,9 @@
 \df Attendre.
 \gf attendre
 \xv le˧-hu˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 等了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ɖɯ˧-hu˥ / ɖɯ˧-hu˧-ɻ̍˥
 \xe to wait a while / Wait a while!
 \xn 等一下 / 请等一下！
@@ -22178,7 +22178,7 @@
 \lc ʝi˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (ne s'emploie pas comme monosyllabe du fait des nombreuses homophonies; qd je demande le cadre “ceci est___", /ʈʂʰɯ˧ ___ ɲi/, le locuteur pense d'abord à “vache", “ceci est une vache")
+\nt <type="hist" print="n"> (ne s'emploie pas comme monosyllabe du fait des nombreuses homophonies; qd je demande le cadre “ceci est 〜", /ʈʂʰɯ˧ 〜 ɲi/, le locuteur pense d'abord à “vache", “ceci est une vache")
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -22212,9 +22212,9 @@
 \df Informer.
 \gf informer
 \xv le˧-ʝi˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 通知了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv qʰwæ˧ mi˧ ʝi˧
 \xe to provide a piece of news, to provide some information
 \xn 告诉（一个）消息
@@ -22812,9 +22812,9 @@
 \df Sauvage, spontané: plantes qui poussent spontanément (par opposition aux plantes cultivées), animaux sauvages.
 \gf 野生::sauvage
 \xv ʝi˧se˧-hĩ˧
-\xe _ |fg{rel}/|fg{nmlz}
+\xe 〜 |fg{rel}/|fg{nmlz}
 \xn 野生的
-\xf _ |fg{rel}/|fg{nmlz}
+\xf 〜 |fg{rel}/|fg{nmlz}
 \dt 30/Jul/2016
 
 \lx ʝi˧sɯ˥
@@ -23071,9 +23071,9 @@
 \df Venir, entrer.
 \gf venir/entrer
 \xv le˧-jo˧-ze˧!
-\xe |fg{accomp} _ |fg{pfv}: (s)he has come
+\xe |fg{accomp} 〜 |fg{pfv}: (s)he has come
 \xn 来了！
-\xf |fg{accomp} _ |fg{pfv}: (il/est) est arrivé(e) / est entré(e)!
+\xf |fg{accomp} 〜 |fg{pfv}: (il/est) est arrivé(e) / est entré(e)!
 \xv hĩ˧ le˧-jo˥-kv̩˩-ze˩
 \xe Someone may come at any time! (Context: explaining why, at the time when there was no market, one had to have good food in store at home in case a visitor came round.)
 \xn （随时）会有人来的！
@@ -23296,7 +23296,7 @@
 \xn 涂抹油
 \xf appliquer de la graisse (ex.: sur une peau sèche)
 \xv tʰi˧-jɤ˧˥
-\xf |fg{dur} _
+\xf |fg{dur} 〜
 \xc PHONO
 \dt 14/Jun/2017
 
@@ -23358,9 +23358,9 @@
 \xn 天气很热，没精神！
 \xf Quand il fait très chaud, on est sans entrain!
 \xv jɤ˩-mɤ˥-jɤ˩
-\xe _ |fg{neg} _
-\xn _ |fg{neg} _
-\xf _ |fg{neg} _
+\xe 〜 |fg{neg} 〜
+\xn 〜 |fg{neg} 〜
+\xf 〜 |fg{neg} 〜
 \xc PHONO
 \xc <langue="eng"> test to establish the tone category: La or Lb. Answer: it is Lb.
 \dt 02/Sep/2015
@@ -23737,9 +23737,9 @@
 \df Petit Chef Yang: nom de famille constitué de l'expression chinoise |fn{杨把事}, formé du patronyme |fn{杨}, suivi du terme chinois renvoyant au plus bas degré de la hiérarchie féodale: le chef de hameau, |fn{把事}. Ce nom est propre à une seule famille de Yongning.
 \gf Petit_Chef_Yang
 \xv jɤ˩pæ˧sɯ˧=ɻ̍˥$
-\xe _ |fg{associative}: the people of the Yang Chieftain family
+\xe 〜 |fg{associative}: the people of the Yang Chieftain family
 \xn 杨把事家族
-\xf _ |fg{associatif}: les gens de la famille Petit Chef Yang
+\xf 〜 |fg{associatif}: les gens de la famille Petit Chef Yang
 \xv jɤ˩pɑ˧sɯ˥ | ʈæ˧ʂɯ˧
 \xe the proper name of a person of the Yang Chieftain family (given name: Dashi): ‘Dashi of the Yang Chieftain family'.
 \xn 杨把事家的一个人的名字：杨把事•达石
@@ -23819,9 +23819,9 @@
 \df Bélier.
 \gf bélier
 \xv jo˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe _ |fg{dem} |fg{clf}: that ram
+\xe 〜 |fg{dem} |fg{clf}: that ram
 \xn 这头公羊
-\xf _ |fg{dem} |fg{clf}: ce bélier
+\xf 〜 |fg{dem} |fg{clf}: ce bélier
 \dt 03/Aug/2017
 
 \lx jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
@@ -25692,9 +25692,9 @@
 \xn 烤火取暖
 \xf se chauffer au feu
 \xv le˧-ko˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 烤火了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɲi˧mi˧ ko˩
 \xe to bask in the sun
@@ -25753,9 +25753,9 @@
 \xn 一小瓶
 \xf petite bouteille
 \xv ʈʂʰɯ˧-kɤ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (tone: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (tone: H# / H$)
 \dt 24/Apr/2017
 
 \lx kɤ˧˥α
@@ -25925,9 +25925,9 @@
 \xn 绑紧
 \xf attacher très serré
 \xv le˧-kɯ˥-se˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 紧了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \dt 03/Sep/2015
 
@@ -26092,9 +26092,9 @@
 \df Lancer, jeter.
 \gf lancer
 \xv le˧-kʰɯ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 甩了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv lv̩˧mi˧ kʰɯ˧˥
 \xe to throw a stone
 \xn 扔石头
@@ -26121,9 +26121,9 @@
 \df Porter (un bracelet).
 \gf porter
 \xv le˧-kʰɯ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 戴了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv lo˩dʑo˧ kʰɯ˩
 \xe to wear a bracelet
 \xn 戴手镯
@@ -26833,9 +26833,9 @@
 \df Couper (ex.: de l'herbe) pour récolter.
 \gf couper
 \xv le˧-kʰv̩˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 割了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv zɯ˧-kʰv̩˧
 \xe to cut grass
 \xn 割草
@@ -28165,9 +28165,9 @@
 \xn 一辫辣椒
 \xf une ligature de piments
 \xv ʈʂʰɯ˧-kwɤ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (ton: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (ton: H# / H$)
 \dt 24/Apr/2017
 
 \lx kwɤ˩α
@@ -29491,9 +29491,9 @@
 \df Toiser: mesurer (une pièce de tissu…) à l'aune de la toise: distance entre les deux bras écartés.
 \gf toiser
 \xv ɬi˩-se˥ (-ze˩)
-\xe _ |fg{achev} (|fg{pfv})
+\xe 〜 |fg{achev} (|fg{pfv})
 \xn 量完（了）
-\xf _ |fg{achev} (|fg{pfv})
+\xf 〜 |fg{achev} (|fg{pfv})
 \xc PHONO
 \xc <langue="fra"> Ce test permet de déterminer que le ton de ce verbe est La et non Lb.
 \dt 04/Sep/2015
@@ -29571,9 +29571,9 @@
 \df Se reposer, se détendre.
 \gf se_reposer
 \xv le˧-ɬi˥
-\xe |fg{accomp} _
-\xn |fg{accomp} _
-\xf |fg{accomp} _
+\xe |fg{accomp} 〜
+\xn |fg{accomp} 〜
+\xf |fg{accomp} 〜
 \dt 04/Sep/2015
 
 \lx ɬi˩β
@@ -30418,9 +30418,9 @@
 \df Regarder.
 \gf regarder
 \xv tʰi˧-li˧-dʑo˧
-\xe |fg{dur} _ |fg{prog}
+\xe |fg{dur} 〜 |fg{prog}
 \xn 正在看
-\xf |fg{dur} _ |fg{prog}
+\xf |fg{dur} 〜 |fg{prog}
 \xv tso˧~tso˧ li˩
 \xe to look at things
 \xn 看东西
@@ -30616,9 +30616,9 @@
 \df Auto-classificateur des vies/destins.
 \gf |fg{clf}.vies
 \xv ʈʂʰɯ˧-ljɤ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (tone: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (tone: H# / H$)
 \dt 30/Apr/2017
 
 \lx lo˩
@@ -30784,9 +30784,9 @@
 \xf rendre hommage à, joindre les mains en signe de soumission/respect
 \xc <langue="fra"> sens de |fv{/tsʰɤ˧tsʰɤ˧/}: non analysable; ne veut rien dire hors de son association à ce verbe
 \xv tsʰɤ˧tsʰɤ˧ | le˧-lo˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 04/Sep/2015
 
 \lx ɬo˧˥
@@ -32773,9 +32773,9 @@
 \xn 狗在叫
 \xf le chien est en train d'aboyer
 \xv ɖɯ˧-lv̩˧~lv̩˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 叫一叫
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 24/Apr/2017
 
 \lx lv̩˩α
@@ -32847,9 +32847,9 @@
 \df Labourer.
 \gf labourer
 \xv le˧-lv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 耕种了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ʝi˧-lv̩˧˥
 \xe to plough
 \xn 耕种
@@ -33586,9 +33586,9 @@
 \df Unité monétaire: un yuan.
 \gf |fg{clf}.unité_monétaire
 \xv ʈʂʰɯ˧-mæ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (tone: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (tone: H# / H$)
 \dt 30/Apr/2017
 
 \lx mæ˩α
@@ -33647,9 +33647,9 @@
 \df Attraper (un objet en hauteur).
 \gf attraper
 \xv tʰi˧-mæ˧-ze˧
-\xe |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
 \xn 钩住了
-\xf |fg{dur} _ |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -33730,9 +33730,9 @@
 \df Pousser.
 \gf pousser
 \xv le˧-mi˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 推开了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-mi˧˥
 \xe |fg{accomp}
@@ -34782,9 +34782,9 @@
 \xn 老树、老木头
 \xf vieux bois, vieil arbre
 \xv le˧-mo˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}: (he/she) has become old / has aged.
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}: (il/elle) a vieilli
+\xe |fg{accomp} 〜 |fg{pfv}: (he/she) has become old / has aged.
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}: (il/elle) a vieilli
 \xv le˧-mo˩-hĩ˩
 \xe Old person, person who has become old
 \xn 老了的人
@@ -34912,9 +34912,9 @@
 \xn 一小捧面粉、两小捧面粉……
 \xf un peu de farine; deux poignées/petites quantités de farine; etc.
 \xv ʈʂʰɯ˧-mɤ˥
-\xe |fg{dem} _ (tone: H# / H$)
-\xn 指示代词 _
-\xf |fg{dem} _ (tone: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (tone: H# / H$)
 \xc PHONO
 \dt 24/Apr/2017
 
@@ -35800,9 +35800,9 @@
 \xn 忘记了
 \xf (j'ai) oublié!
 \xv le˧-mv̩˩pʰæ˩(-ze˩)
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 忘记了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ə˧tso˧-lɑ˧ ʂv̩˧ɖv̩˧, | mɤ˧-do˩! | tso˧~tso˧ mv̩˥pʰæ˩!
 \xe I have no idea what (s)he has in mind; (s)he keeps forgetting things!
 \xn 不知道（他）在想什么呢！他（一直在）落东西！/ 他一直在丢三落四
@@ -37094,8 +37094,8 @@
 \df Se cacher.
 \gf se_cacher
 \xv tʰi˧-ɳæ˥
-\xe |fg{dur} _
-\xn |fg{dur} _
+\xe |fg{dur} 〜
+\xn |fg{dur} 〜
 \xf |fg{dur}
 \dt 25/Apr/2017
 
@@ -37656,9 +37656,9 @@
 \df Rassasié, repu.
 \gf rassasié
 \xv le˧-ɲi˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 饱了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv hɑ˧-ɲi˧(-ze˩)
 \xe I am full. / I am satiated.
 \xn 吃饱了。 / 吃饱饭了。
@@ -37720,9 +37720,9 @@
 \xf écouter des choses
 \xc PHONO
 \xv le˧-ɲi˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 听了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 09/Sep/2015
 
 \lx ɲi˥
@@ -38771,9 +38771,9 @@
 \df S'abîmer, se casser; tomber en panne (ex.: appareil photo).
 \gf se_casser
 \xv le˧-ɲi˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}: it's broken!
+\xe |fg{accomp} 〜 |fg{pfv}: it's broken!
 \xn 坏了！/破了！
-\xf |fg{accomp} _ |fg{pfv}: c'est cassé!
+\xf |fg{accomp} 〜 |fg{pfv}: c'est cassé!
 \xv tso˧~tso˧ ɲi˥
 \xe to break things
 \xn 东西坏了
@@ -39232,7 +39232,7 @@
 \df Coller (2 objets ensemble).
 \gf coller
 \xv le˧-njɤ˧-ze˥!
-\xe |fg{accomp} _ |fg{pfv}: It's glued!
+\xe |fg{accomp} 〜 |fg{pfv}: It's glued!
 \xn 粘在一起了！
 \xf C'est recollé! / Ca y est, c'est collé!
 \xv tso˧~tso˧ le˧-ɖʐɤ˧, | le˧-njɤ˧˥!
@@ -39305,9 +39305,9 @@
 \df Décortiquer le riz.
 \gf décortiquer
 \xv le˧-njɤ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 舂了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv hɑ˧ njɤ˧˥
 \xe to husk rice
 \xn 舂米
@@ -39319,7 +39319,7 @@
 \xv hɑ˧ | ɖɯ˧-njɤ˧~njɤ˩-ɻ̍˩
 \xe rice - |fg{delimitative} |fg{red} |fg{inceptive}
 \xn 把米舂一舂
-\xf riz - |fg{délimitatif} _ |fg{red} |fg{inchoatif} : décortiquer un peu le riz
+\xf riz - |fg{délimitatif} 〜 |fg{red} |fg{inchoatif} : décortiquer un peu le riz
 \dt 09/Sep/2015
 
 \lx njo˩bi˥
@@ -40025,9 +40025,9 @@
 \xn 在糌粑里搀奶、糌粑里搀奶
 \xf mettre du lait dans la farine grillée, mélanger la farine grillée avec du lait
 \xv le˧-no˩
-\xe |fg{accomp} _
-\xn |fg{accomp} _
-\xf |fg{accomp} _
+\xe |fg{accomp} 〜
+\xn |fg{accomp} 〜
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv hɑ˧-qo˩ | tɕæ˧ɻæ˩ tʰi˩-no˩: hɑ˧-qo˩ | tɕæ˧ɻæ˩ tʰi˩-kʰɯ˩
 \xe a paraphrase to explain the verb's meaning: ‘to blend pickled vegetables into the food/rice, that means: to add picked vegetables to the food.'
@@ -40097,9 +40097,9 @@
 \df Serrer.
 \gf serrer
 \xv le˧-ɳɯ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 拧了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ʁo˧qɑ˥ | ʈʰɯ˧-ɭɯ˧ | le˧-ɳɯ˧-qɑ˥-jo˩!
 \xe Tighten the lid! (of a glass jar, used as drinking glass)
 \xn （你）拧一下盖子吧！
@@ -41479,9 +41479,9 @@
 \df Attacher (un animal).
 \gf attacher
 \xv tʰi˧-pʰæ˧+ze˧
-\xe |fg{dur} _ |fg{pfv}
-\xn |fg{dur} _ |fg{pfv}
-\xf |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
+\xn |fg{dur} 〜 |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \xv pʰæ˧~pʰæ˧
 \xe |fg{red}
 \xn 重叠
@@ -42061,9 +42061,9 @@
 \df Vomir.
 \gf vomir
 \xv le˧-pʰi˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 呕吐了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 26/Apr/2017
 
 \lx pʰi˧β
@@ -42090,9 +42090,9 @@
 \xn 重叠：簸一簸
 \xf |fg{red}
 \xv le˧-pʰi˧(-ze˧)
-\xe |fg{accomp} _ (|fg{pfv})
+\xe |fg{accomp} 〜 (|fg{pfv})
 \xn 簸了
-\xf |fg{accomp} _ (|fg{pfv})
+\xf |fg{accomp} 〜 (|fg{pfv})
 \dt 26/Apr/2017
 
 \lx pʰi˩hæ˩
@@ -43616,9 +43616,9 @@
 \xn 扁鼻子
 \xf nez aplati/camus; littéralement «nez écrasé»
 \xv le˧-pɤ˥ʈʂʰwæ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 被压扁
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-ze˩!
 \xe That one (=that man/woman) was exhausted, (s)he collapsed over there!
 \xn 那个（人）筋疲力尽，躺倒在那边了！
@@ -43741,9 +43741,9 @@
 \xn 水泉里面，涌出水来。
 \xf De l'eau apparaît à la source / de l'eau coule à la source
 \xv tʰi˧-pɤ˩-dʑo˩
-\xe |fg{dur} _ |fg{prog}: it is emerging
+\xe |fg{dur} 〜 |fg{prog}: it is emerging
 \xn 正在涌出水来
-\xf |fg{dur} _ |fg{prog}: ça sort, ça coule, ça émerge (ex.: de l'eau de source)
+\xf |fg{dur} 〜 |fg{prog}: ça sort, ça coule, ça émerge (ex.: de l'eau de source)
 \xv gɤ˩-pɤ˥
 \xe to emerge, to come up, to appear (e.g. the sun comes out)
 \xn 出现、上来：太阳出来
@@ -43862,9 +43862,9 @@
 \df S'échapper, s'enfuir; détaler.
 \gf fuir
 \xv le˧-pʰo˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 逃跑了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-pʰo˩-hɯ˩-ze˩!
 \xe (She/he) has escaped!
 \xn （他）逃跑了！
@@ -43981,9 +43981,9 @@
 \df Sec.
 \gf sec
 \xv le˧-pv̩˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 干了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-pv̩˧ le˧-ʐwæ˩-ze˩
 \xe It has dried up / it has completely dried / it is now completely dry
 \xn 干透了
@@ -44744,9 +44744,9 @@
 \xn 分开、区分、区别开来
 \xf distinguer, voir la différence (par exemple entre diverses espèces de champignons)
 \xv ɖɯ˧-pʰv̩˥ʈʂʰe˩=ɻ̍˩
-\xe |fg{delimitative} _ |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 试着区分
-\xf |fg{délimitatif} _ |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \xv mɤ˧-pʰv̩˥ʈʂʰe˩
 \xe not to distinguish, not to make any difference (e.g. between different species of mushrooms)
@@ -45201,9 +45201,9 @@
 \df Changer.
 \gf changer
 \xv le˧-qæ˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 换了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv dʑi˧hṽ̩˧ qæ˧
 \xe to change clothes
 \xn 换衣服
@@ -45255,9 +45255,9 @@
 \df Sculpter.
 \gf sculpter
 \xv le˧-qæ˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 雕了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv bæ˩bæ˩ qæ˥
 \xe to sculpt a flower
 \xn 雕花
@@ -45351,9 +45351,9 @@
 \df Paraître, se lever (lune, soleil).
 \gf paraître
 \xv tʰi˧-qʰæ˧-ze˥
-\xe |fg{dur} _ |fg{pfv}
-\xn |fg{dur} _ |fg{pfv}
-\xf |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
+\xn |fg{dur} 〜 |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \dt 13/Jun/2017
 
 \lx qʰæ˧˥
@@ -45421,9 +45421,9 @@
 \df Tirer (avec une arme à feu, une arbalète; aussi avec un arc: tirer une flèche).
 \gf tirer
 \xv le˧-qʰæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 开枪了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv mv̩˧ʐe˧ qʰæ˩(-ze˩)
 \xe to shoot with a gun
 \xn 开枪
@@ -45452,9 +45452,9 @@
 \df Heureux.
 \gf heureux
 \xv le˧-qʰæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv lo˧ qʰæ˩
 \xe to work in a quiet, relaxed manner
@@ -45479,9 +45479,9 @@
 \df Brûler, griller, noircir: la graisse chauffée à feu vif noircit, fume et donne de l'acroléine; le riz devient sec, très/trop cuit. La nourriture reste comestible.
 \gf noircir
 \xv le˧-qʰæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv mɤ˧ | le˧-qʰæ˧-ze˥
 \xe The oil has burned / has reached boiling point / has gone black!
@@ -45855,9 +45855,9 @@
 \df (se) briser, (se) casser (ex.: un bâton).
 \gf briser/se_briser
 \xv le˧-qʰæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 断了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv si˧ qʰæ˩
 \xe to break wood
 \xn 砸木头
@@ -46526,13 +46526,13 @@
 \df Couvrir: par exemple mettre un couvercle, ou couvrir un plat d'une coupelle pour éviter que les mouches ne s'y posent.
 \gf couvrir
 \xv le˧-qɑ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 盖了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv tʰi˧-qɑ˩-ze˩
-\xe |fg{dur} _ |fg{pfv}
-\xn |fg{dur} _ |fg{pfv}
-\xf |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
+\xn |fg{dur} 〜 |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \xv ɖɯ˧-kʰwɤ˥ | tʰi˧-qɑ˥
 \xe to cover (a television set) with a piece of fabric (to protect it from dust)
 \xn 用一块（布料）来盖（电视机，为了防灰）
@@ -48167,9 +48167,9 @@
 \df Gifler.
 \gf gifler
 \xv le˧-qʰwæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 掴了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv zɯ˧ɻ̍˧ qʰwæ˩
 \xe to slap/smack someone's cheek
 \xn 打嘴巴
@@ -48557,9 +48557,9 @@
 \df Se gratter; gratter, gratouiller.
 \gf se_gratter
 \xv le˧-qwæ˧~qwæ˩-ze˩
-\xe |fg{accomp} _ |fg{red} |fg{pfv}
-\xn |fg{accomp} _ |fg{red} |fg{pfv}
-\xf |fg{accomp} _ |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \dt 27/Apr/2017
 
 \lx qwɤ˧
@@ -49050,9 +49050,9 @@
 \xn 很聪明！ / 太聪明了！
 \xf (il est/tu es) intelligent! (Commentaire lorsque quelqu'un dit ou fait quelque chose d'astucieux)
 \xv ɖwæ˧˥ | qʰwɤ˩˥!
-\xe |fg{intensive.very} _
+\xe |fg{intensive.very} 〜
 \xn 很聪明！
-\xf |fg{intensif.très} _: très intelligent
+\xf |fg{intensif.très} 〜: très intelligent
 \dt 01/Oct/2015
 
 \lx qʰwɤ˩α
@@ -49430,9 +49430,9 @@
 \df Gagner.
 \gf gagner
 \xv le˧-ʁɑ˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 赢了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 01/Oct/2015
 
 \lx ʁɑ˧β
@@ -49457,9 +49457,9 @@
 \df Enjamber, franchir (un ruisseau, le seuil d'une maison…).
 \gf enjamber
 \xv le˧-ʁɑ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 跨过了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc
 \xv kʰi˧mi˧ | le˧-ʁɑ˧
 \xe to cross the main door (into the farm) (striding over the threshold)
@@ -50015,9 +50015,9 @@
 \df Se défaire, fondre, se dissoudre: une motte de terre plongée dans l'eau se défait.
 \gf fondre/se_dissoudre
 \xv le˧-ʁæ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-ʁæ˧~ʁæ˥ (-ze˩ / -bi˩)
 \xe |fg{red}
@@ -50290,9 +50290,9 @@
 \xn 磨出了茧子！
 \xf Un durillon s'est formé!
 \xv ʁo˩-mɤ˩-ho˥
-\xe _ |fg{neg} |fg{desiderative}
+\xe 〜 |fg{neg} |fg{desiderative}
 \xn 不会出（茧子）
-\xf _ |fg{neg} |fg{désidératif}
+\xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -51572,9 +51572,9 @@
 \df Inviter, faire venir.
 \gf inviter
 \xv ɖɯ˧-ɻwæ˧-ɻ̍˥
-\xe |fg{delimitative} _ |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 请来一下
-\xf |fg{délimitatif} _ |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \xv tʰɑ˧-ɻwæ˥!
 \xe |fg{prohib}
@@ -52061,9 +52061,9 @@
 \df Discuter, négocier.
 \gf discuter
 \xv ɖɯ˧-ʁwɤ˧~ʁwɤ˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 商量商量
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 27/Apr/2017
 
 \lx ɻ̍̃˧
@@ -52109,9 +52109,9 @@
 \xn （他）真的很穷苦！
 \xf (il) est en mauvaise passe!/il est à la rue!
 \xv le˧-ɻ̍̃˧-bi˧
-\xe |fg{accomp} _ |fg{fut_imm}
-\xn |fg{accomp} _ |fg{fut_imm}
-\xf |fg{accomp} _ |fg{fut_imm}
+\xe |fg{accomp} 〜 |fg{fut_imm}
+\xn |fg{accomp} 〜 |fg{fut_imm}
+\xf |fg{accomp} 〜 |fg{fut_imm}
 \xc PHONO
 \xv mɤ˧-ɻ̍̃˥
 \xe |fg{neg}
@@ -52240,9 +52240,9 @@
 \xf |fg{neg}
 \xc PHONO
 \xv ɖɯ˧-ɻ̍˧~ɻ̍˩
-\xe |fg{delimitative} _ |fg{red}
-\xn |fg{delimitative} _ |fg{red}
-\xf |fg{délimitatif} _ |fg{red}
+\xe |fg{delimitative} 〜 |fg{red}
+\xn |fg{delimitative} 〜 |fg{red}
+\xf |fg{délimitatif} 〜 |fg{red}
 \xc PHONO
 \xv ze˩gi˧ ɻ̍˥?
 \xe In which direction should (I) look? / Which direction should I turn to?
@@ -53172,9 +53172,9 @@
 \df Marcher.
 \gf marcher
 \xv le˧-se˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 走了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv se˧-ho˥-ze˩!
 \xe [The baby] will soon walk / will soon be able to walk!
@@ -53277,9 +53277,9 @@
 \xn 拉屎
 \xf déféquer
 \xv le˧-ʂe˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 尿了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ɖɯ˧-ʈʰɤ˧ ʂe˧˥
 \xe to urinate a drop
 \xn 尿一滴尿
@@ -54954,9 +54954,9 @@
 \df Choisir.
 \gf choisir
 \xv le˧-si˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 选了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv no˧ si˧-bi˧!
 \xe You choose! / Go ahead and choose!
 \xn 你要选！
@@ -54966,9 +54966,9 @@
 \xn 是我来选！
 \xf C'est moi qui choisis!
 \xv le˧-si˥~si˩
-\xe |fg{accomp} _ |fg{red}
-\xn |fg{accomp} _ |fg{red}
-\xf |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xv tso˧~tso˧ si˩
 \xe to choose things
 \xn 选东西
@@ -55181,9 +55181,9 @@
 \df Rassembler, assembler, accumuler.
 \gf rassembler
 \xv le˧-ʂo˧~ʂo˧
-\xe |fg{accomp} _ |fg{red}
-\xn |fg{accomp} _ |fg{red}
-\xf |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xv ʂo˧~ʂo˧-zo˧-ho˩-ze˩
 \xe We are going to have to gather (things)
 \xn 该收集一些了。
@@ -55267,9 +55267,9 @@
 \df Récolter.
 \gf récolter
 \xv le˧-ʂo˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 收割了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɖɯ˧-kʰv̩˥ ɖɯ˧-ʂɯ˩ | gɤ˩-ʂo˥-ze˩!
 \xe We have one harvest (of rice) every year!
@@ -56026,9 +56026,9 @@
 \xn 撕东西
 \xf déchirer des choses
 \xv le˧-ʂɤ˧~ʂɤ˥+ze˩
-\xe |fg{accomp} _ |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn 撕了
-\xf |fg{accomp} _ |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \dt 06/Oct/2015
 
 \lx so˩~so˧˥
@@ -56050,9 +56050,9 @@
 \df Frotter dans ses mains.
 \gf frotter_dans_mains
 \xv le˧-so˩~so˩
-\xe |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn 揉来揉去
-\xf |fg{accomp} _ |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \dt 27/Apr/2017
 
 \lx ʂɻ̍˧˥
@@ -56075,9 +56075,9 @@
 \df Rempli, plein.
 \gf rempli
 \xv le˧-ʂɻ̍˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 满了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 06/Oct/2015
 
 \lx sɯ˥
@@ -57277,9 +57277,9 @@
 \df Tordre, essorer (vêtement).
 \gf essorer/tordre
 \xv le˧-ʂv̩˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 拧了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv dʑi˧hṽ̩˧ ʂv̩˩
 \xe to wring out clothes
@@ -57623,12 +57623,12 @@
 \xf …a acheté un coin
 \xc PHONO
 \xv ʂwæ˩ tʰv̩˩-ɭɯ˩˥ / ʂwæ˩ tʰv̩˩-ɭɯ˥
-\xe _ |fg{dem}+|fg{clf}
+\xe 〜 |fg{dem}+|fg{clf}
 \xn 这个楔子
-\xf _ |fg{dem}+|fg{clf.générique}
+\xf 〜 |fg{dem}+|fg{clf.générique}
 \xc PHONO
 \xv ʂwæ˩ tʰv̩˩-kʰwɤ˩˥
-\xe _ |fg{dem}+|fg{clf}
+\xe 〜 |fg{dem}+|fg{clf}
 \xn 这个楔子
 \xf |fg{n}+|fg{dem}+|fg{clf}.morceaux
 \xc PHONO
@@ -59846,13 +59846,13 @@
 \df Secouer (ex.: pour défroisser des vêtements après lavage; aussi: secouer la tête).
 \gf secouer
 \xv le˧-tɕi˧~tɕi˧-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv tʰi˧-tɕi˧~tɕi˧+ze˩
-\xe |fg{dur} _ |fg{pfv}
-\xn |fg{dur} _ |fg{pfv}
-\xf |fg{dur} _ |fg{pfv}
+\xe |fg{dur} 〜 |fg{pfv}
+\xn |fg{dur} 〜 |fg{pfv}
+\xf |fg{dur} 〜 |fg{pfv}
 \xv ʁo˧qʰwɤ˩ tɕi˩~tɕi˩
 \xe to shake one's head
 \xn 摇头
@@ -59860,7 +59860,7 @@
 \xv ɖɯ˧-tɕi˧~tɕi˧-ɻ̍˥
 \xe |fg{demilitative} |fg{red} |fg{inceptive}
 \xn 摇一摇
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 09/Oct/2015
 
 \lx tɕʰi˥
@@ -60446,9 +60446,9 @@
 \df S'effacer (couleur).
 \gf s_effacer
 \xv le˧-tɕɤ˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 褪色了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 08/Oct/2015
 
 \lx tɕʰo˩
@@ -60542,9 +60542,9 @@
 \df Tromper.
 \gf tromper
 \xv le˧-tɕʰɤ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 欺骗了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv hĩ˧ tɕʰɤ˧(-ze˩)
 \xe to cheat on people, to deceive people
 \xn 骗人
@@ -61472,9 +61472,9 @@
 \df Perdre.
 \gf perdre
 \xv le˧-tɕʰɯ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 丢了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-tɕʰɯ˧-hɯ˥-ze˩!
 \xe It's lost!
 \xn 丢掉了！
@@ -62038,9 +62038,9 @@
 \xn 一年有十二个月，我就想（一年之内）记十二个故事！（情景：我两个月内完成了两个故事的记录工作。发音合作人举这个例句，鼓励我坚持这种速度，一年内再记十二个故事。）
 \xf Dans une année il y a douze mois; je voudrais transcrire douze histoires (au cours de l'année qui vient)! (contexte: en septembre 2011, Ama remarque que j'ai transcrit deux contes en deux mois; en m'offrant cet exemple, elle me souffle le projet de garder le rythme et de transcrire une histoire par mois soit douze pendant l'année qui vient)
 \xv ɖɯ˧-tɕɯ˧~tɕɯ˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xn |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv tɕɯ˩-di˩˥
 \xe brush, pen; literally ‘thing to write'
 \xn 笔。直译：‘（用来）书写的（东西）’
@@ -62676,9 +62676,9 @@
 \xf raboter quelque chose
 \xc PHONO
 \xv le˧-tʰi˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 刨了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ | le˧-tʰi˩(-ze˩)
 \xe to plane things
@@ -62815,9 +62815,9 @@
 \df Fatigué.
 \gf fatigué
 \xv le˧-ʈʰi˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 累了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv njɤ˧ | ʈʰi˩˥!
 \xe I am tired!
 \xn 我累了！
@@ -63045,9 +63045,9 @@
 \xn 空了
 \xf il n'y a plus rien (ex.: un bol est complètement vidé)
 \xv to˧bɤ˧ ɲi˥
-\xe _ |fg{cop}: it's empty
+\xe 〜 |fg{cop}: it's empty
 \xn 是空的
-\xf _ |fg{cop}: c'est vide
+\xf 〜 |fg{cop}: c'est vide
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -63923,9 +63923,9 @@
 \df Lutter, faire de la lutte.
 \gf faire_de_la_lutte
 \xv le˧-to˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ɖʐæ˧~ɖʐæ˧ to˩
 \xe to wrestle
 \xn 摔交
@@ -63969,9 +63969,9 @@
 \df Être en relation, entretenir un lien de parenté.
 \gf avoir_un_lien_de_parenté
 \xv le˧-to˧~to˥
-\xe |fg{accomp} _ |fg{red}
-\xn |fg{accomp} _ |fg{red}
-\xf |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xv qʰwɤ˩ɖɯ˩˥ | le˧-to˩-ze˩
 \xe We have acquired a family tie! (through adoption, marriage…)
 \xn 我们成了亲戚！（通过领养、婚姻……）
@@ -64023,14 +64023,14 @@
 \xf |fg{dur}
 \xc PHONO
 \xv tʰi˧-tʰo˩-ɻ̍˩
-\xe |fg{dur} _ |fg{inceptive}
-\xn |fg{dur} _ |fg{inceptive}
-\xf |fg{dur} _ |fg{inchoatif}
+\xe |fg{dur} 〜 |fg{inceptive}
+\xn |fg{dur} 〜 |fg{inceptive}
+\xf |fg{dur} 〜 |fg{inchoatif}
 \xc PHONO
 \xv ɖɯ˧-tʰo˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{inceptive}
-\xn |fg{delimitative} _ |fg{inceptive}
-\xf |fg{délimitatif} _ |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{delimitative} 〜 |fg{inceptive}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \dt 01/Jul/2017
 
@@ -64312,9 +64312,9 @@
 \df Voler, s'emparer de, extorquer, arracher.
 \gf dérober
 \xv le˧-ʈʂæ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 抢了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv tso˧~tso˧ ʈʂæ˩
 \xe to steal things
 \xn 抢东西
@@ -65374,9 +65374,9 @@
 \df Tendre, étendre (la main).
 \gf étendre/tendre
 \xv le˧-ʈʂʰe˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv mv̩˩tɕo˧ ʈʂʰe˧
 \xe to stretch down
@@ -66338,9 +66338,9 @@
 \xn 同上：漂浮 (浮在水上)
 \xf même sens: flotter
 \xv ɖɯ˧-tse˧~tse˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xn |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xv dʑɯ˩ʁo˩˥ | tʰi˧-tse˩ (-dʑo˩)
 \xe to float (in a torrent) on the mountain (e.g. timber is floated downstream)
@@ -66426,9 +66426,9 @@
 \df Percer, transpercer (une écharde, un piquant de plante…).
 \gf transpercer
 \xv le˧-ʈʂe˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tɕʰi˧-ɳɯ˧ ʈʂe˩-ze˩
 \xe to be pierced by a thorn, to catch a thorn
@@ -67404,9 +67404,9 @@
 \xn 还不算齐全！ / 还没有装饰齐全！（情景：朋友们表扬新装修的丽江房子，主人谦虚回答：‘还不算齐全！’）
 \xf On n'y est pas encore tout à fait / ce n'est pas encore tout à fait prêt! Il reste deux ou trois trucs à acheter! (Contexte: on achève la décoration d'un appartement à la ville; aux compliments des visiteurs, l'heureux propriétaire répond: ‘Ce n'est pas encore terminé!')
 \xv tʰi˧-tsʰo˥-kʰɯ˩
-\xe |fg{dur} _ |fg{caus}: to complete, to bring to complete readiness
-\xn |fg{dur} _ |fg{caus}：完成、弄齐全
-\xf |fg{dur} _ |fg{caus}: porter à son point d'achèvement, porter au grand complet
+\xe |fg{dur} 〜 |fg{caus}: to complete, to bring to complete readiness
+\xn |fg{dur} 〜 |fg{caus}：完成、弄齐全
+\xf |fg{dur} 〜 |fg{caus}: porter à son point d'achèvement, porter au grand complet
 \dt 07/Oct/2015
 
 \lx tsʰɤ˧˥
@@ -67582,9 +67582,9 @@
 \df Lire à haute voix.
 \gf lire
 \xv le˧-ʈʂʰo˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 朗读了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-ʈʂʰo˧-le˧-se˩
 \xe (I) have finished reading aloud
 \xn 朗读完了。
@@ -68612,9 +68612,9 @@
 \xn 梳一条辫子
 \xf faire une tresse
 \xv ɖɯ˧-tsʰɤ˧~tsʰɤ˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xn |fg{delimitative} _ |fg{red} |fg{inceptive}
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 06/Jun/2017
 
 \lx tsʰɤ˧˥α
@@ -68683,9 +68683,9 @@
 \xf compter les porcs
 \xc PHONO
 \xv le˧-ʈʂɤ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 数了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \dt 07/Oct/2015
 \sn 2
 \sd <langue="fra"> verbe
@@ -69327,14 +69327,14 @@
 \df Tamiser.
 \gf tamiser
 \xv le˧-ʈʂɯ˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ɖɯ˧-ʈʂɯ˧-ɻ̍˥
-\xe |fg{delimitative} _ |fg{inceptive}
-\xn |fg{delimitative} _ |fg{inceptive}
-\xf |fg{délimitatif} _ |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{delimitative} 〜 |fg{inceptive}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -70174,9 +70174,9 @@
 \df Achever, terminer.
 \gf achever
 \xv le˧-ʈʂʰv̩˩-se˩
-\xe |fg{accomp} _ |fg{cmpl}
+\xe |fg{accomp} 〜 |fg{cmpl}
 \xn 完成了
-\xf |fg{accomp} _ |fg{cmpl}
+\xf |fg{accomp} 〜 |fg{cmpl}
 \xv tsʰi˧-ɲi˧-bv̩˧ | lo˧ | le˧-ʈʂʰv̩˩! | le˧-se˩-ze˩!
 \xe Today's work is completed! It's finished!
 \xn 今天的工作完成了！就算完工了吧！
@@ -70260,9 +70260,9 @@
 \df Ajouter de l’eau, verser de l'eau.
 \gf ajouter_de_l_eau
 \xv le˧-ʈʂʰv̩˧-ze˥
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv dʑɯ˩ ʈʂʰv̩˩˥
 \xe to add water (e.g. in a pot)
 \xn 加水（如：往锅里添加水）
@@ -70537,9 +70537,9 @@
 \xf |fg{neg}
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
-\xe _ |fg{neg} |fg{fut_imm}
-\xn _ |fg{neg} |fg{fut_imm}
-\xf _ |fg{neg} |fg{fut_imm}
+\xe 〜 |fg{neg} |fg{fut_imm}
+\xn 〜 |fg{neg} |fg{fut_imm}
+\xf 〜 |fg{neg} |fg{fut_imm}
 \xv tso˧~tso˧ ʈʂʰv̩˥
 \xe to dye things
 \xn 染东西
@@ -70572,9 +70572,9 @@
 \xf |fg{red} |fg{pfv}
 \xc PHONO
 \xv le˧-ʈʂʰv̩˩~ʈʂʰv̩˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ ʈʂʰv̩˥~ʈʂʰv̩˩
 \xe to wipe things
@@ -71006,9 +71006,9 @@
 \xn 烂了
 \xf |fg{pfv}
 \xv le˧-ʈʂʰwæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv hĩ˧-ɳɯ˩ | mɤ˧-dzɯ˥, | le˧-ʈʂʰwæ˧-ze˧! |
 \xe No one ate it, and now it's rotten! (About a water melon that was forgotten in the cupboard.)
 \xn 没人吃，就烂了！（一个西瓜被忘记在橱柜里，就腐烂了）
@@ -71035,9 +71035,9 @@
 \df Se réveiller.
 \gf se_réveiller
 \xv le˧-ʈʂʰwæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv gɤ˩ʈʂʰwæ˧
 \xe to wake up
 \xn 醒来
@@ -71312,9 +71312,9 @@
 \xf |fg{pfv}
 \xc PHONO
 \xv le˧-ʈʰɯ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
-\xn |fg{accomp} _ |fg{pfv}
-\xf |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv ʐɯ˧ ʈʰɯ˩
 \xe to drink wine
@@ -72152,7 +72152,7 @@
 \xn 插秧
 \xf repiquer le riz
 \xv le˧-tv̩˧-ze˧
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-tv̩˥~tv̩˩-ze˩
 \xf |fg{red}
 \xc PHONO
@@ -72744,9 +72744,9 @@
 \df Nid.
 \gf nid
 \xv v̩˩dze˩kʰv̩˩ ɲi˥.
-\xe _ |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是鸟窝
-\xf _ |fg{cop}
+\xf 〜 |fg{cop}
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -73168,9 +73168,9 @@
 \df Dur, solide, résistant.
 \gf dur
 \xv le˧-wo˥-ze˩
-\xe |fg{accomp} _ |fg{pfv}: it hardened
+\xe |fg{accomp} 〜 |fg{pfv}: it hardened
 \xn 硬了
-\xf |fg{accomp} _ |fg{pfv}: ça a durci, c'est devenu dur
+\xf |fg{accomp} 〜 |fg{pfv}: ça a durci, c'est devenu dur
 \dt 27/Apr/2017
 
 \lx wɤ˩˥
@@ -73374,15 +73374,15 @@
 \df Contourner.
 \gf contourner
 \xv le˧-wɤ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 绕了
-\xf |fg{accomp} _ pfv
+\xf |fg{accomp} 〜 pfv
 \xc <langue="fra"> Forme simplex; confirmé en 2014: il s'agit bien du même verbe.
 \xc PHONO
 \xv ɖɯ˧-wɤ˩~wɤ˩-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 绕一绕
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \rf PHONO
 \xv wɤ˩~wɤ˩ bi˩˥
 \xe |fg{imm_fut}
@@ -73524,9 +73524,9 @@
 \df Mélanger, tourner (un mélange, une préparation).
 \gf mélanger
 \xv le˧-ʐæ˧~ʐæ˥
-\xe |fg{accomp} _ |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn 搅拌
-\xf |fg{accomp} _ |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \dt 27/Apr/2017
 
 \lx zɑ˩-bɑ˧lɑ˩
@@ -73831,9 +73831,9 @@
 \xf ne pas descendre encore
 \xc PHONO
 \xv ɖɯ˧-zɑ˧~zɑ˥-ɻ̍˩
-\xe |fg{delimitative} _ |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 下来一下
-\xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -73878,9 +73878,9 @@
 \df Être impertinent, déranger, se moquer du monde.
 \gf se_moquer_de
 \xv le˧-ʐæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 出言不逊了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-ʐæ˥~ʐæ˩
 \xe |fg{red}
 \xn 笑一笑（别人）
@@ -75250,9 +75250,9 @@
 \df Les descendants.
 \gf descendants
 \xv zo˧hṽ̩˧mv̩˥zo˩=ɻæ˩
-\xe _ |fg{pl}
-\xn _ 数
-\xf _ |fg{pl}
+\xe 〜 |fg{pl}
+\xn 〜 数
+\xf 〜 |fg{pl}
 \dt 05/Jul/2017
 
 \lx ʐɤ˩mi˩
@@ -76871,9 +76871,9 @@
 \xn 重叠
 \xf |fg{red}
 \xv le˧-ʐv̩˧~ʐv̩˥-ze˩
-\xe |fg{accomp} _ |fg{red} |fg{pfv}
-\xn |fg{accomp} _ |fg{red} |fg{pfv}
-\xf |fg{accomp} _ |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \dt 06/Oct/2015
 
 \lx ʐv̩˩α
@@ -77347,9 +77347,9 @@
 \xf |fg{neg}
 \xc PHONO
 \xv le˧-ʐwæ˧-ze˧
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 称了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ ʐwæ˩
 \xe to weigh things
@@ -77464,9 +77464,9 @@
 \xn 不会讲话，这个人！ / 这个人，不会讲话！
 \xf Elle/il ne sait pas parler, elle/lui!
 \xv le˧-ʐwɤ˩-ze˩
-\xe |fg{accomp} _ |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 讲了
-\xf |fg{accomp} _ |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv no˧ | ə˧tso˧ ʐwɤ˩-ɲi˩?
 \xe What are you saying? / What do you mean?
