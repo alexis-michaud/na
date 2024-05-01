@@ -14792,7 +14792,7 @@
 \ton -L / LMH
 \lc ə˧sɯ˩kv̩˩, ə˩sɯ˧kv̩˥
 \so <print="n"> F4
-\va ə˩-sɯ˧kv̩˥
+\va <speaker="F4"> ə˩-sɯ˧kv̩˥
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ə˧-sɯ˩kv̩˩
 \vf refuse la réalisation /ɑ/
@@ -15283,7 +15283,7 @@
 \ton L# / L
 \lc ə˧zɯ˩
 \so <print="n"> F4
-\va ə˩zɯ˩
+\va <speaker="F4"> ə˩zɯ˩
 \de Dual inclusive first person pronoun: us two, the two of us (the speaker and the addressee).
 \ge |fg{1du.incl}
 \dn 咱们两个
@@ -16037,7 +16037,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n"> avant 2014: n'avais pas indiqué de ton.
-\nt Comment by Roselle Dobbs: 'You call this a noun, but you mark it as ‑gɤ...' Mai 2018: retiré l'indication '-' qui revenait à marquer ce mot comme un suffixe.
+\nt <type="hist" print="n"> Suite à un commentaire de Roselle Dobbs ('You call this a noun, but you mark it as ‑gɤ...'), retiré en mai 2018 l'indication '-' qui revenait à marquer ce mot comme un suffixe.
 \so <print="n"> F4
 \de Place.
 \ge place
@@ -18997,11 +18997,11 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <langue="fra"> seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4
+\nt <langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.
 \ton L
 \lc hi˩˥
 \so <print="n"> F4
-\de Existential verb, for unmovable objects: e.g.the Lake exists/is at a certain place.
+\de Existential verb, for unmovable objects: e.g. the Lake exists/is at a certain place.
 \ge |fg{exist.unmovable}
 \dn 存在动词：固定不动的物体，如：泸沽湖
 \gn 存在动词.固定物体
@@ -25418,12 +25418,12 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n">
-\np La variante /kwɤ˩-tjɤ˧ljɤ#˥/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
+\np La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
 \ton L-#H
 \lc kɤ˩tjɤ˧ljɤ˧
 \so <print="n"> F4
 \pdl classifier
-\va kwɤ˩-tjɤ˧ljɤ#˥
+\va <speaker="F4"> kwɤ˩-tjɤ˧ljɤ#˥
 \pdv ɭɯ˧
 \de Small bell hung to an animal's neck (e.g. horse's bell).
 \ge small_bell_hung_to_neck
@@ -30219,7 +30219,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> avant 2009: /†ɬi˧kʰæ˧/
-\nt <print="n" langue="fra"> schéma tonal régulier
+\np <langue="fra"> schéma tonal régulier
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -39787,7 +39787,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem"> de: njɤ˧˥ ‘coller'; les graines de cette plante collent de façon très efficace sur les tissus/fourrures
-\nt photo 1.jpg
+\nt Voir photographie de la plante : photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
 \so <print="n"> F4
@@ -40364,7 +40364,7 @@
 \nt <langue="pumi" type="comp" print="n"> nʲu22dʑɨ35
 \ton LH
 \so <print="n"> F4
-\va ɳɯ˩dʑɯ˥
+\va <speaker="F4"> ɳɯ˩dʑɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdl classifier
@@ -46042,7 +46042,7 @@
 \xn |fv{/qæ˧dzɯ˩/}家族
 \xf le clan |fv{/qæ˧dzɯ˩/}, la famille |fv{/qæ˧dzɯ˩/}
 \xv qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧
-\xe the name of a person, containing both a family name: |fv{/lqæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
+\xe the name of a person, containing both a family name: |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
 \xn 一个人的名字：姓为|fv{/qæ˧dzɯ˩/}，名为|fv{/tsʰɯ˧ɻ̍#˥/}
 \xf nom d'une personne, comportant un nom de famille (|fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
 \xc <langue="eng"> the name is not treated as one tone group, but as two tone groups: /qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /†qæ˧dzɯ˩-tsʰɯ˩ɻ̍˩/.
@@ -58561,7 +58561,7 @@
 \ton L#
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so <print="n"> F4
-\va ʈʰææ̃˧
+\va <speaker="F4"> ʈʰææ̃˧
 \vf La réalisation la plus courante est fortement réduite, proche de [ʈʰææ̃˧].
 \de Really, actually.
 \ge really
@@ -74858,7 +74858,7 @@
 \df L'espace situé derrière la maison: entre le bâtiment et les murs de la ferme.
 \gf espace_derrière_la_maison
 \xv ɲi˧ʈʂæ˧ʑi˧-ʁo˧tʰo˥, | ʑi˧ʁæ˧ ɲi˥ mæ˩!
-\xe The place behind the two-storey building is called ‘ʑi˧ʁæ˥$'!
+\xe The place behind the two-storey building is called ‘|fv{ʑi˧ʁæ˥$}'!
 \xn 两层楼房后面（这块地方）叫做“房屋的上后方”！ / 房屋背后（这块地方）叫做“房屋的上后方”！
 \xf Derrière le bâtiment à deux étages, c'est ‘|fv{ʑi˧ʁæ˥$}'! / Derrière le bâtiment à deux étages, il y a ce qu'on appelle ‘l'espace derrière la maison'!
 \dt 27/Apr/2017
