@@ -14950,7 +14950,7 @@
 \xn 他很贪吃！直译：‘见什么就吃什么！’
 \xf C'est un glouton! Littéralement: ‘Tout ce qu'il voit, il le mange!’
 \xv ə˧tso˧ do˩, | ə˧tso˧ ɲi˧!
-\xe \xe He is covetous / he is greedy! (in a broad sense, not limited to eating) Literally: ‘He wants whatever he sees!’
+\xe He is covetous / he is greedy! (in a broad sense, not limited to eating) Literally: ‘He wants whatever he sees!’
 \xn 他贪心不足，他很贪心！直译：‘见什么就想要什么！’
 \xf C'est quelqu'un d'avide! Littéralement: ‘Tout ce qu'il voit, il le veut!’
 \dt 28/Aug/2015
@@ -36910,7 +36910,7 @@
 \et mv̩˥
 \ec <langue="fra"> réduplication de ‘comprendre'
 \ec <langue="eng"> reduplicated from ‘to understand'
-\ec <langue="cn"> ‘懂’的重叠形式
+\ec <langue="cmn"> ‘懂’的重叠形式
 \ps adj
 \ton #H
 \lc mv̩˧mv̩˧
@@ -37490,7 +37490,7 @@
 \et nɑ˩
 \ec <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
 \ec <langue="eng"> Probably a reduplicated form of ‘black, dark'
-\ec <langue="cn"> 这个词估计是‘黑、暗’的重叠
+\ec <langue="cmn"> 这个词估计是‘黑、暗’的重叠
 \ps adv
 \ton H#
 \lc nɑ˧nɑ˥
