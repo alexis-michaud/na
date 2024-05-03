@@ -23473,7 +23473,7 @@
 \dt 08/May/2017
 
 \lx jo˧gv̩˧-ŋv̩˧lv̩˧
-\or Joggu Ngulu
+\or Yoggu Ngulu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -53477,7 +53477,7 @@
 
 \lx se˩gwɤ˩mi˥
 \sf <nb="2011"> 2699
-\or seiguami
+\or seigguami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -57481,7 +57481,7 @@
 \lx ʂv̩˩gv̩˩
 \sf <nb="B"> 606
 \sf <nb="2011"> 888
-\or shuggu
+\or sheuggu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
