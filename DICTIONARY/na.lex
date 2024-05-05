@@ -3418,6 +3418,7 @@
 \or bbegee
 \ps n
 \lc bɤ˧kɯ˧
+\cf bv̩˧ʈʂɯ˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="sem"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso")
@@ -3428,7 +3429,7 @@
 \va <speaker="M21"> ID.
 \pdl classifier
 \pdv nɑ˧
-\de Sifter, sieve.   RD Comment:  Cf. bv̩˧ʈʂɯ˥
+\de Sifter, sieve.
 \ge sieve
 \dn 筛子
 \gn 筛子
@@ -5025,6 +5026,7 @@
 \or bbuzhi
 \ps n
 \lc bv̩˧ʈʂɯ˥
+\cf bɤ˧kɯ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> (schème tonal noté en 09: est simplement d7)
@@ -5034,7 +5036,7 @@
 \va <speaker="M21"> ID.
 \pdl classifier
 \pdv nɑ˧
-\de Sifter, sieve.  RD Comment:  Cf. bɤ˧kɯ˧
+\de Sifter, sieve.
 \ge sifter
 \dn 筛子
 \gn 筛子
@@ -5590,6 +5592,7 @@
 \or xilee lupu
 \ps n
 \lc ɕi˧ɭɯ˧lv̩˧pʰv̩˩
+\cf ɕi˧lv̩˧-mv̩˧di˧˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \np schéma tonal: est traité comme: [champ de riz] sec, pas comme champ de [riz sec] qui donnerait ˧ ˧ ˧ ˥
@@ -5597,7 +5600,7 @@
 \so <print="n"> F4
 \pdl classifier
 \pdv pʰæ˧˥
-\de Paddy field.  RD Comment:  Cf. ɕi˧lv̩˧-mv̩˧di˧˥
+\de Paddy field.
 \ge paddy_field
 \dn 水稻田
 \gn 水稻田
@@ -5636,10 +5639,12 @@
 \nt <type="sem"> là où on cultive le riz
 \ton -MH#
 \lc ɕi˧lv̩˧mv̩˧di˧˥
+\cf lv̩˧pʰv̩˩
+\cf ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so <print="n"> F4
 \pdl classifier
 \pdv pʰæ˧˥, kɤ˧˥
-\de Paddy field.  RD Comment:  Cf. lv̩˧pʰv̩˩, ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
+\de Paddy field.
 \ge paddy_field
 \dn 水田
 \gn 水田
@@ -32608,10 +32613,11 @@
 \nt <type="sem"> S'emploie uniquement pour les champs de riz: à Yongning, on ne cultive que du riz dans des champs inondés
 \ton L#
 \lc lv̩˧pʰv̩˩
+\cf ɕi˧lv̩˧-mv̩˧di˧˥
 \so <print="n"> F4
 \pdl classifier
 \pdv pʰv̩˩
-\de Paddy field.  RD Comment:  Cf. ɕi˧lv̩˧-mv̩˧di˧˥
+\de Paddy field.
 \ge paddy_field
 \dn 水田
 \gn 水田
