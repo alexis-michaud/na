@@ -2346,7 +2346,7 @@
 \ge |fg{clf}.sorts
 \dn 量词：东西（一样）
 \gn 量词.东西
-\df Classificateur des espèces/sortes de choses. Proche de |fv{/ʁo˩⁙b/} ‘sorte, variété’. S'emploie dans la construction «c'est la même chose».
+\df Classificateur des espèces/sortes de choses. Proche de |fv{/ʁo˩β/} ‘sorte, variété’. S'emploie dans la construction «c'est la même chose».
 \gf |fg{clf}.espèces
 \xv ɖɯ˧-bæ˧-lɑ˧ ɲi˥!
 \xe It's the same!
@@ -8226,7 +8226,7 @@
 \hm 2
 \or dduq
 \ps n
-\cf dv̩˩⁙a
+\cf dv̩˩α
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> (vérifié, n'est pas m4)
@@ -10876,7 +10876,7 @@
 \sf <nb="2011"> 648
 \or zzhedduae
 \ps n
-\cf ɖwæ˩⁙a
+\cf ɖwæ˩α
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -11020,7 +11020,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (d'abord noté dʑe˩; corrigé en: dʑɤ˩ par ts)
 \nt <type="sem"> aussi: dʑɤ˩pi˧i˧di˧
-\np La catégorie tonale est établie à partir du comportement avec le verbe existentiel dʑo˩⁙b.
+\np La catégorie tonale est établie à partir du comportement avec le verbe existentiel dʑo˩β.
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -11582,7 +11582,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdl classifier
-\pdv ɖʐɯ˥⁙a
+\pdv ɖʐɯ˥α
 \de Market.
 \ge market
 \dn 集市(圩场，街子)
@@ -11858,7 +11858,7 @@
 \lx ɖʐɯ˩kʰɤ˥
 \sf <nb="2011"> 5
 \or zzhike
-\et ɖʐɯ˩⁙a
+\et ɖʐɯ˩α
 \ps n
 \lc ɖʐɯ˩kʰɤ˥
 \sd <langue="fra"> environnement naturel
@@ -13074,7 +13074,7 @@
 \va <speaker="M23"> ɖʐv̩˧, ton m2
 \vf +ɲi˩
 \pdl classifier
-\pdv ɖʐv̩˧⁙b
+\pdv ɖʐv̩˧β
 \de An important and unfortunate event, such as a serious accident.
 \ge unfortunate_event
 \dn 事故，（不幸的）大事
@@ -15903,7 +15903,7 @@
 \sf <nb="B"> 947c
 \sf <nb="2011"> 1376
 \or ggiq
-\et /gɯ˩⁙a 2/; /ʝi˥/
+\et /gɯ˩α2/; /ʝi˥/
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -18416,7 +18416,7 @@
 \sf <nb="2011"> 420
 \or hami
 \ps v
-\cf mi˩⁙a
+\cf mi˩α
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n"> (corrigé en 2007; en 2006, avais noté: hɑ˧mi˥hĩ˧)
@@ -20112,7 +20112,7 @@
 \nt <type="hist" print="n"> Ne s'emploie pas sans |fv{-hĩ}
 \ton L
 \lc hɤ˩-ʂe˩ʂe˩˥
-\cf hɤ˩⁙a3
+\cf hɤ˩α3
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so <print="n"> F4
@@ -20740,7 +20740,7 @@
 \lx hṽ̩˩-ɖʐæ˩ɻæ˥
 \sf <nb="2011"> 1395
 \or hunzzhae'er
-\et hṽ̩˩⁙a 1
+\et hṽ̩˩α1
 \ps adj
 \lc hṽ̩˩ɖʐæ˩ɻæ˥
 \sd <langue="fra"> adjectif
@@ -20863,7 +20863,7 @@
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
 \sf <nb="2011"> 1396
 \or hunhunzzhaezzhae
-\et hṽ̩˩⁙a 1
+\et hṽ̩˩α1
 \ps adj
 \lc hṽ̩˧hṽ̩˩ɖʐæ˩ɖʐæ˩
 \sd <langue="fra"> adjectif
@@ -21117,7 +21117,7 @@
 \or huaeq
 \ps v
 \lc hwæ˩˥
-\cf ʈæ˩⁙a
+\cf ʈæ˩α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lα
@@ -30055,7 +30055,7 @@
 \lc ɬi˧ŋv̩˥
 \so <print="n"> F4
 \pdl classifier
-\pdv ŋv̩˩⁙a
+\pdv ŋv̩˩α
 \de Waist of the trousers.
 \ge waist_of_the_trousers
 \dn 裤子的上部分：腰部
@@ -32961,7 +32961,7 @@
 \sf <nb="2011"> 2132
 \hm 3
 \or lhuq
-\et ɬv̩˩⁙a 2
+\et ɬv̩˩α2
 \ps v
 \lc ɬv̩˩˥
 \sd <langue="fra"> verbe
@@ -34198,7 +34198,7 @@
 \sf <nb="2011"> 2992
 \or moq
 \ps n
-\cf mo˧˥⁙a
+\cf mo˧˥α
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> (confirmé: n'est pas m1)
@@ -36883,7 +36883,7 @@
 \or mu
 \ps v
 \lc mv̩˧
-\cf ki˩⁙a
+\cf ki˩α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mα
@@ -39545,7 +39545,8 @@
 \or nyagu nyace
 \ec <langue="fra"> Les trois composantes sont identifiées comme: “oeil", “pommette", et le |fg{cl} des feuilles et des fleurs
 \ps adj
-\cf njɤ˧kv̩˩, tsʰɤ˧˥⁙a
+\cf njɤ˧kv̩˩
+\cf tsʰɤ˧˥α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant 2015, noté /†…tsʰe˩/
@@ -40543,7 +40544,7 @@
 \sf <nb="B"> 671
 \sf <nb="2011"> 1001
 \or numi ddeeq
-\et nv̩˩mi˩; ɖɯ˩⁙a
+\et nv̩˩mi˩; ɖɯ˩α
 \ps adj
 \lc nv̩˩mi˩ɖɯ˩˥
 \sd <langue="fra"> adjectif
@@ -40573,7 +40574,7 @@
 \lx nv̩˩mi˩-ki˧ki˩
 \sf <nb="2011"> 1516
 \or numi gigi
-\et nv̩˩mi˩; ki˧⁙a
+\et nv̩˩mi˩; ki˧α
 \ps adj
 \ton L-L#
 \lc nv̩˩mi˩ki˧ki˩
@@ -40591,7 +40592,7 @@
 \lx nv̩˩mi˩-ʈʰi˩
 \sf <nb="2011"> 1004
 \or numi teiq
-\et nv̩˩mi˩; ʈʰi˩⁙a
+\et nv̩˩mi˩; ʈʰi˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -41414,7 +41415,8 @@
 \lx pæ˥
 \or bae
 \ps clf
-\cf tɕʰi˩⁙b, ʈʂo˩
+\cf tɕʰi˩β
+\cf ʈʂo˩
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Hb
@@ -44311,7 +44313,7 @@
 \sf <nb="B"> 1012
 \sf <nb="2011"> 1444
 \or puddee
-\et pʰv̩˧ 2; ɖɯ˩⁙a
+\et pʰv̩˧ 2; ɖɯ˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -44698,7 +44700,7 @@
 \sf <nb="B"> 955
 \sf <nb="2011"> 1393
 \or peujae'er
-\et pʰv̩˩⁙a
+\et pʰv̩˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -44889,9 +44891,10 @@
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
 \or puro
-\et pʰv̩˧ 2; ʐo˩⁙a
+\et pʰv̩˧ 2; ʐo˩α
 \ps adj
-\cf pʰv̩˧2; ʐo˩⁙a2
+\cf pʰv̩˧2
+\cf ʐo˩α2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (corrigé en mai 2008; avais d'abord noté ˧ ˥; vérifié: n'est pas pʰv̩˧ʐu˥)
@@ -46277,7 +46280,7 @@
 \sf <nb="B"> 1074b
 \sf <nb="2011"> 1517
 \or khaedae
-\et qʰæ˩⁙a 1
+\et qʰæ˩α1
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -49659,7 +49662,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (+ze˩)! Merci!
-\np <langue="fra"> Si la 2e syllabe est le verbe /mi˩⁙a/ ‘demander, quémander', et la 1e syllabe son objet, d'après les règles synchroniques cet objet doit être un nom au ton LM ou LH.
+\np <langue="fra"> Si la 2e syllabe est le verbe /mi˩α/ ‘demander, quémander', et la 1e syllabe son objet, d'après les règles synchroniques cet objet doit être un nom au ton LM ou LH.
 \ton LH
 \lc ʁɑ˩mi˥
 \so <print="n"> F4
@@ -50114,7 +50117,7 @@
 \hm 4
 \or hraeq
 \ps adj
-\cf ɖʐv̩˩⁙a1
+\cf ɖʐv̩˩α1
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \np (cf 1017c)
@@ -58723,7 +58726,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n">
-\cf ʂwæ˩⁙a
+\cf ʂwæ˩α
 \ton M
 \lc tɑ˧nɑ˧
 \so <print="n"> F4
@@ -58770,7 +58773,7 @@
 \lc ʈʰæ˩ŋv̩˩˥
 \so <print="n"> F4
 \pdl classifier
-\pdv ŋv̩˩⁙a
+\pdv ŋv̩˩α
 \de Waist of the skirt.
 \ge waist_of_the_skirt
 \dn 裙子的上部分：腰部
@@ -66449,7 +66452,7 @@
 
 \lx ʈʂʰe˧~ʈʂʰe˧
 \or zheizhei
-\et ʈʂʰe˧⁙b
+\et ʈʂʰe˧β
 \ec <langue="eng">Probably from the verb ‘to stretch'
 \ps clf
 \sd <langue="fra"> classificateur
@@ -67556,7 +67559,7 @@
 \lx ʈʂo˩β
 \or zho
 \ps clf
-\cf tɕʰi˩⁙b
+\cf tɕʰi˩β
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lb
@@ -68532,7 +68535,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (verbe d'abord noté dzo˩˥, par erreur)(confirmé en 2012: est un ton L)
-\nt <type="hist" print="n"> Roselle: “tso˩⁙a ‘ to build a wall, a bridge…' This is a homophone of ‘to create'. I am not certain if they are the same item or not. I suspect so, but can't be certain." 2017: paraît bien être un mot particulier pour 'construire un escalier, un pont, un chemin'... c'est-à-dire une voie de communication: un ouvrage d'art qui permet de franchir un obstacle, traverser un espace...
+\nt <type="hist" print="n"> Roselle: “tso˩α ‘ to build a wall, a bridge…' This is a homophone of ‘to create'. I am not certain if they are the same item or not. I suspect so, but can't be certain." 2017: paraît bien être un mot particulier pour 'construire un escalier, un pont, un chemin'... c'est-à-dire une voie de communication: un ouvrage d'art qui permet de franchir un obstacle, traverser un espace...
 \ton Lα
 \lc tso˩˥
 \so <print="n"> F4
@@ -72600,10 +72603,11 @@
 \gn 量词.人（一个人）
 \df Classificateur pour un individu humain; ne peut s'employer que pour le chiffre ‘un', autrement dit soit au singulier, soit avec des nombres dont le dernier chiffre est ‘un'.
 \gf |fg{clf}.individu
+\xc PHONO
 \xv ɖɯ˧-v̩#˥; ɖɯ˧-v̩˧ ɲi˥
-\xe one person; it is one person (elicited to verify tone)
+\xe one person; it is one person
 \xn 一个人，是一个人（为了确认声调而问的短语）
-\xf 1 personne; c'est 1 personne (élicité pour vérifier le ton)
+\xf 1 personne; c'est 1 personne
 \xv tsʰe˧ɖɯ˧-v̩˧
 \xe 11 persons
 \xn 十一个人
@@ -75797,7 +75801,7 @@
 \sf <nb="2011"> 314
 \or ssi
 \ps n
-\cf zɯ˧⁙b
+\cf zɯ˧β
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \np monosyllabe: pas courant comme tel
@@ -77513,7 +77517,7 @@
 
 \lx ʐwɤ˧mv̩˧
 \or ruamu
-\et ʐwɤ˩⁙b
+\et ʐwɤ˩β
 \ps n
 \lc ʐwɤ˧mv̩˧
 \sd <langue="fra"> langage
