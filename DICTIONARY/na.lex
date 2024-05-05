@@ -41416,7 +41416,7 @@
 \or bae
 \ps clf
 \cf tɕʰi˩β
-\cf ʈʂo˩
+\cf ʈʂo˩β
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Hb
@@ -43253,7 +43253,7 @@
 \lx pɤ˩lv̩˩
 \or belu
 \ps n
-\cf æ˧tsɯ˥pɤ˩lv̩˩
+\cf æ˧tsɯ˥-pɤ˩lv̩˩
 \lc pɤ˩lv̩˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -43490,7 +43490,9 @@
 \lx pɤ˩tɕɯ˧˥
 \or beji
 \ps n
-\cf pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥, pɤ˩tɕɯ˧-pɤ˥mi˩
+\cf pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
+\cf pɤ˩tɕɯ˧-pɤ˥mi˩
+\cf ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM+MH#
@@ -43513,7 +43515,9 @@
 \sf <nb="2011"> 2879
 \or beji bemi
 \ps n
-\cf pɤ˩tɕɯ˧˥, pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
+\cf pɤ˩tɕɯ˧˥
+\cf pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
+\cf ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n"> 2006: /pɤ˩/, puis /†puə˩/; /†ɖʐɯ˥/, puis /†ɖɯ˥/
@@ -43537,7 +43541,9 @@
 \lx pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
 \or beji woddee
 \ps n
-\cf pɤ˩tɕɯ˧˥, pɤ˩tɕɯ˧-pɤ˥mi˩
+\cf pɤ˩tɕɯ˧-pɤ˥mi˩
+\cf pɤ˩tɕɯ˧˥
+\cf ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM-MH#
@@ -44891,7 +44897,7 @@
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
 \or puro
-\et pʰv̩˧ 2; ʐo˩α
+\et pʰv̩˧2; ʐo˩α2
 \ps adj
 \cf pʰv̩˧2
 \cf ʐo˩α2
@@ -46984,7 +46990,6 @@
 \sf <nb="2011"> 1054
 \or gholo
 \ps adv
-\cf -qo˧lo˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n"> vérifié: initiale uvulaire et non vélaire
@@ -47119,7 +47124,8 @@
 \ps adj
 \ton M
 \lc qo˧pv̩˧
-\cf qwɤ˩pi˩; pv̩˧2
+\cf qwɤ˩pi˩
+\cf pv̩˧2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> vérifié: initiale uvulaire et non vélaire
@@ -47790,9 +47796,10 @@
 \dt 01/Oct/2015
 
 \lx qʰv̩˧tʰv̩#˥
+\hm 2
 \or kheutu
 \ps clf
-\cf qʰv̩˧tʰv̩˥$
+\cf qʰv̩˧tʰv̩˥1
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton #H
@@ -47812,8 +47819,9 @@
 
 \lx qʰv̩˧tʰv̩#˥
 \or kheutu
+\hm 1
 \ps n
-\cf qʰv̩˧tʰv̩#˥
+\cf qʰv̩˧tʰv̩#˥2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> vérifié en 2017: le ton est bien: #H et non H$. Auparavant: avais noté: ton H$. Ce qui a mis la puce à l'oreille : le classificateur est au ton #H.
@@ -50217,7 +50225,7 @@
 \sf <nb="2011"> 801
 \or woq
 \ps n
-\cf ʈʂe˥
+\cf ʈʂe˥2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> avant juillet 2012: noté au ton LM
@@ -50495,6 +50503,9 @@
 \lx ʁo˧ɖɯ˧˥
 \or woddee
 \ps n
+\cf pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
+\cf pɤ˩tɕɯ˧-pɤ˥mi˩
+\cf pɤ˩tɕɯ˧˥
 \lc ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -55086,7 +55097,7 @@
 \hm 2
 \or so
 \ps clf
-\cf sɑ˥
+\cf sɑ˥2
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \np ne peut s'employer qu'en tournure négative, ce qui exclut l'association avec les numéraux autres que ‘un': on ne peut dire †ɲi˧-so˥, etc.
@@ -58752,7 +58763,6 @@
 \ps adv
 \ton -H.L-
 \lc tʰɑ˧ni˥ni˩gv̩˩
-\cf -ni˧gv̩˧˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
@@ -59901,7 +59911,7 @@
 \sf <nb="2011"> 1653
 \or qie
 \ps clf
-\cf ʈʂo˩
+\cf ʈʂo˩β
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (comportement tonal: comme “fois", ʂɯ˩, sauf avec “neuf": “neuf repas" se dit: /gv̩˧-tɕʰi˥/) (n'est pas tɕʰɯ)
@@ -60874,7 +60884,7 @@
 \bw <langue="cmn"> 全世界
 \ps n
 \lc tɕʰɤ˩ʂɯ˩kɤ˩˥
-\cf sɑ˧zo˩ bv̩˧ li˩
+\cf zo˩bv̩˥li˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question : pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
@@ -61616,7 +61626,8 @@
 \or qiddi
 \ps v
 \lc tɕʰɯ˩di˩˥
-\cf tɕʰɯ˩˥, di˧˥1
+\cf tɕʰɯ˩˥
+\cf di˧˥1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np littéralement “courir le muntjac"
@@ -61719,7 +61730,8 @@
 \or jileekhaebbae
 \ps n
 \lc tɕɯ˩ɭɯ˩qʰæ˥bæ˩
-\cf tɕɯ˩ɭɯ˩; qʰæ˩bæ˩
+\cf tɕɯ˩ɭɯ˩
+\cf qʰæ˩bæ˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> Noté par erreur 终石藤 avant 2017, d'où une difficulté à retrouver le mot dans les bases de données de plantes
@@ -62247,7 +62259,7 @@
 \or dei
 \bw <langue="cmn"> 代
 \ps clf
-\cf ʈʂʰæ˧˥
+\cf ʈʂʰæ˧˥2
 \lc ɖɯ˧ te˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
