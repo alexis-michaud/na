@@ -69363,7 +69363,7 @@
 \ps pro
 \lc ʈʂʰɯ˧
 \cf ʈʂʰɯ˥2
-\cf -ʈʂʰɯ˥
+\cf ʈʂʰɯ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n"> (notes avant 09: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tv en 09); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
@@ -69408,7 +69408,7 @@
 \ps pro
 \lc ʈʂʰɯ˧
 \cf ʈʂʰɯ˥1
-\cf -ʈʂʰɯ˥
+\cf ʈʂʰɯ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n"> (notes avant 09: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tv en 09); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
