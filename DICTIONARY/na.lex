@@ -169,7 +169,7 @@
 \ton #H
 \lc æ˧bæ˧ʈʂʰæ˧ɣɯ˧
 \so <print="n"> F4
-\de Kelp (literally “medicine against goiter", because kelp was introduced in Yongning as a means to provide iodine as a diet supplement, to prevent goiters).
+\de Kelp (literally “medicine against goitre", because kelp was introduced in Yongning as a means to provide iodine as a diet supplement, to prevent goitres).
 \ge kelp
 \dn 海带（直译：“治甲状腺肿瘤的药”）。迂说法：一般用海带来防治甲状腺肿瘤。
 \gn 海带
@@ -697,7 +697,6 @@
 \xe to throw away
 \xn 扔掉
 \xf jeter (à la poubelle), se débarrasser de
-\xc
 \dt 14/Jul/2018
 
 \lx ɑ˩pʰo˩-hĩ˩
@@ -4135,7 +4134,6 @@
 \xe |fg{dem} 〜 (tone: H# / H$)
 \xn 指示代词 〜：那根（玉米棒子）
 \xf |fg{dem} 〜 (ton: H# / H$)
-\xc
 \dt 12/May/2017
 
 \lx bɤ˩α
@@ -19985,7 +19983,6 @@
 \xe I should not have spoken like that! I feel regret! It's something that I should have refrained from saying!
 \xn 不应该这么说！（我）后悔了！是不应该说的话！
 \xf Je n'aurais pas dû parler ainsi! J'en éprouve du regret/ je le regrette! C'est quelque chose que je n'aurais pas dû dire!
-\xc
 \dt 04/Aug/2017
 
 \lx ho˧ko˧
@@ -31798,7 +31795,6 @@
 \xe He's left-handed!
 \xn 他是左撇子！
 \xf Il est gaucher!
-\xc
 \dt 04/Sep/2015
 
 \lx lo˧ʂv̩˩
@@ -38403,7 +38399,6 @@
 \xe to be an object of rumour
 \xn 被人家说三到四
 \xf faire l'objet de rumeurs
-\xc
 \dt 19/Jun/2017
 
 \lx ɲi˧-ʈʂæ˧-ʑi˧˥
@@ -43851,7 +43846,6 @@
 \xe a bowl of soup
 \xn 一碗汤
 \xf un bol de soupe
-\xc
 \dt 03/May/2017
 
 \lx pʰo˩α
@@ -46255,7 +46249,6 @@
 \xe to defecate
 \xn 拉一泡屎
 \xf faire une crotte
-\xc
 \dt 13/Jun/2017
 
 \lx qæ˧ɻ̍˧
@@ -47219,7 +47212,6 @@
 \xe (S)he has got seated.
 \xn 学习了（一会），后来停止了。
 \xf (On) a étudié/fait nos devoirs un moment, puis on a arrêté / on s'en est tenu là.
-\xc
 \dt 13/Jun/2017
 
 \lx qo˧tv̩˩
@@ -78863,7 +78855,6 @@
 \xe It's full of vegetables / it's packed with vegetables! (A comment about pigswill: it contains a lot of vegetables.)
 \xn
 \xf C'est plein de légumes! (Commentaire au sujet de la pâtée des cochons: elle contient des légumes en abondance.)
-\xc
 \dt 27/Apr/2017
 
 \lx ‑sɯ˧
