@@ -888,7 +888,7 @@
 \xe members of the family, family members (who live under the same roof), lineage
 \xn 家人（住在一起的家人）
 \xf la maisonnée, les gens de la famille (proche: ceux qui habitent sous le même toit), la lignée
-\xc <langue="fra"> schéma tonal régulier, d6a+m4a
+\xc <type="phono" langue="fra"> schéma tonal régulier en composition, avec en entrée les tons LM et #H
 \xv ɑ˩ʁo˧=ɻæ˩
 \xe the members of the family, the family group (living under the same roof)
 \xn 家人、家族（住在一起的家人）
