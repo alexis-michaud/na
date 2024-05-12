@@ -341,7 +341,7 @@
 \xn 叫
 \xf crier
 \xv no˧ | æ˧ʝi˩ tʰɑ˩-kʰɯ˩! | no˧ se˧-dʑæ˩ɻæ˩-gv̩˩! |
-\xe Don't make noise! You are annoying everyone!
+\xe Don't make noise! You are annoying everyone! (Context: a reprimand given to people who spoke too loudly)
 \xn 请你不要大声/别那么大声！你就是叽叽喳喳！（你在麻烦大家、你很烦人）
 \xf Ne fais pas tant de bruit, tu embêtes le monde! (Contexte: réprimande qu'on adressait aux gens qui parlaient trop fort, qui élevaient la voix.)
 \dt 11/May/2017
@@ -356,11 +356,11 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \so <print="n"> F4
-\de Interjection: Oh nooo! / Dear me!
+\de Interjection: "Oh nooo! / Dear me!" This exclamation is intended to warn or discourage someone from doing something. Example of context: A tells B that he is going to buy a coat, and B thinks the coat doesn't suit him at all. B then says: ‘|fv{æ˧ʝi˧}, that coat doesn't suit you’. Another example: when a baby picks up something dirty (mud, for example) and puts it in his mouth, the adult will say ‘|fv{æ˧ʝi˧}, that's dirty’.
 \ge |fg{intj}
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
-\df Interjection: Ah nooon! / Ca va pas!
+\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'il va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple : lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
 \gf |fg{intj}
 \dt 25/Aug/2017
 
@@ -1314,12 +1314,10 @@
 \lx æ̃˧ʈwɤ˩
 \or aendua
 \ps n
-
-\lx æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> “corrigé en avril 2014: auparavant noté /†æ̃˧ʈwɤ˩/. Phonétiquement, cette notation est correcte: la 1e syllabe est souvent nasalisée. Mais comme la nasalité n'est pas contrastive, le choix est de ne pas la noter, pour aucune des syllabes /æ/." Vérifié en août 2014: n'est pas nasalisé. Rétabli en 2018 au vu de l'entrée /æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩/.
-\nt <type="sem"> N'est pas perçu comme voulant dire “[le moment où] le coq chante". Etymologie pas encore établie.
+\ec Étymologie pas encore établie. Ce mot n'est pas perçu de façon transparente comme voulant dire “[le moment où] le coq chante".
 \ton L#
 \lc æ̃˧ʈwɤ˩
 \so <print="n"> F4
@@ -1337,7 +1335,8 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014; nouvelle vérification en 2016: la nasalité est bien présente : la première syllabe est homophone de ‘poulet'; elle provient de ce morphème, et garde la même voyelle nasale.
-\ton L#-L
+\nt <type="hist" print="n"> avant 2024: traduit comme: "du matin au soir"; en fait: désignerait plutôt le matin et le soir, pas toute la journée. Source: TS. xxxx ama
+\ton L#-
 \lc æ̃˧ʈwɤ˩mv̩˩kʰv̩˩
 \so <print="n"> F4
 \de Constantly, all the time; literally: ‘[from] the early morning [till] nightfall'.
@@ -63132,7 +63131,7 @@
 \lc tʰo˧dzi˩hwæ˩tsɯ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\ton L#-L
+\ton L#-
 \so <print="n"> F4
 \de Hedgehog. Literally: pine tree mouse.
 \ge hedgehog
