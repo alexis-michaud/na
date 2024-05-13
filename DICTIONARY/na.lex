@@ -805,7 +805,8 @@
 \gn 青色
 \df De couleur bleue/verte; couleur un peu plus légère que le vert de la plaine; équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
 \gf bleu/vert
-\rf F4, M21
+\rf F4
+\rf M21
 \xv æ̃˧qæ˩-ni˩gv̩˩
 \xe vivid-coloured, blue-green; literally ‘like a parrot', i.e. ‘parrot-coloured'
 \xn 像鹦鹉的颜色：青、蓝色、绿色
@@ -823,7 +824,8 @@
 \xc <langue="eng"> Not accepted by F4 and M21.
 \xc <langue="fra"> Expression qui n'est pas acceptée par F4 et M21.
 \xc <langue="cmn"> F4与M21合作人不用这个说法。
-\rf F4, M21
+\rf F4
+\rf M21
 \xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
 \xn 重叠。同上：青色
@@ -62643,7 +62645,8 @@
 \xn （他）拍打了某人。
 \xf (Elle/il) a donné une tape à quelqu'un.
 \xc
-\rf F4, F5
+\rf F4
+\rf F5
 \xv ʁo˧qʰwɤ˩ ti˩~ti˩
 \xo
 \xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame)
