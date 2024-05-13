@@ -775,7 +775,7 @@
 \lc æ̃˧qæ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> æ̃˧kæ˩; æ̃˧kæ˩-ni˩gv̩˩; comme F4, M21 refuse la réd. proposée par F5; il faut dire: æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
+\va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧qæ˩
 \vf +ɲi˩
 \pdl classifier
@@ -805,6 +805,7 @@
 \gn 青色
 \df De couleur bleue/verte; couleur un peu plus légère que le vert de la plaine; équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
 \gf bleu/vert
+\rf F4, M21
 \xv æ̃˧qæ˩-ni˩gv̩˩
 \xe vivid-coloured, blue-green; literally ‘like a parrot', i.e. ‘parrot-coloured'
 \xn 像鹦鹉的颜色：青、蓝色、绿色
@@ -819,9 +820,14 @@
 \xe |fg{red}; same meaning: blue-green
 \xn 重叠。同上：青色
 \xf |fg{red}; même sens: bleu-vert
-\xc <langue="eng"> not accepted by F4
-\xc <langue="fra"> Expression qui n'est pas acceptée par F4
-\xc <langue="cmn"> F4合作人不用这个说法。
+\xc <langue="eng"> Not accepted by F4 and M21.
+\xc <langue="fra"> Expression qui n'est pas acceptée par F4 et M21.
+\xc <langue="cmn"> F4与M21合作人不用这个说法。
+\rf F4, M21
+\xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
+\xe |fg{red}; same meaning: blue-green
+\xn 重叠。同上：青色
+\xf |fg{red}; même sens: bleu-vert
 \dt 09/Oct/2015
 
 \lx æ˩qʰv̩˥
@@ -21133,7 +21139,9 @@
 \xv ʂe˧bæ˧ | le˧-wo˧-hwæ˥
 \xf mettre la chaîne à la porte (quand on sort de la maison, on ferme la porte avec une chaîne de fer, et un verrou)
 \xv kʰi˧-bi˥ di˩-hĩ˩ ʂe˩bæ˩
-\rf la chaîne qu'on met sur la porte, la chaîne qui sert à fermer la porte d'entrée de la ferme
+\xe the chain on the main door of the house, used to lock the door
+\xn 门锁链。直译：‘在门上的锁链’。
+\xf la chaîne qui se trouve sur la porte d'entrée, la chaîne qui sert à fermer la porte d'entrée de la ferme
 \dt 24/Apr/2017
 
 \lx hwæ˩α
