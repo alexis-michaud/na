@@ -1837,11 +1837,13 @@
 \xe The harvest is not good!
 \xn 庄稼不好！/收成不好！
 \xf La récolte n'est pas bonne!
+\rf F5
 \xv bæ˩dʑɯ˥ | tv̩˧-bæ˩ le˩-mv̩˩-kʰɯ˩!
 \xe May a thousand crops come to maturity! (A blessing to elders, used for instance during the rite of coming of age)
 \xn 祝：一千棵庄稼都成熟起来！（成年礼、过年等节庆时的祝福用语，晚辈对长辈的祝福）
 \xf Puissent mille récoltes venir à maturité! (Bénédiction qu'on dit aux aînés lors de cérémonies: par exemple lors du rite de passage à l'âge adulte)
 \xc PROVERBE
+\xc Proverbe jugé erroné par F4.
 \dt 05/Jul/2017
 
 \lx bɑ˩lɑ˩
@@ -1957,7 +1959,10 @@
 \gn 软塌塌
 \df Flasque, sans consistance.
 \gf flasque
-\dt 24/Apr/2017
+\xv bæ˩-lɑ˩~lɑ˥-gv̩˩
+\xe ditto
+\xn 同上：软塌塌
+\xf idem
 
 \lx bæ˩-ljɤ˧~ljɤ˧
 \sf <nb="B"> 2145
@@ -2054,6 +2059,23 @@
 \df Longue corde.
 \gf longue_corde
 \dt 26/Aug/2015
+
+\lx bæ˧mi˧-mi˩
+\or bbaemimi
+\ps n
+\lc bæ˧mi˧-mi˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton -L
+\so <print="n"> F4
+\pdl classifier
+\pdv mi˩
+\de Female duck. This form with a feminine suffix is cumbersome and clumsy, and is only used in cases where the aim is to remove any ambiguity about the sex of the animal.
+\ge female_duck
+\dn 母鸭子。这种带有女性后缀的词比较笨拙，只有在需要消除对动物性别的疑问才会使用。
+\gn 母鸭子
+\df Cane. Cette forme avec suffixe féminin est lourde et pataude, et n'est employée que dans les cas où il s'agit de lever toute ambiguïté concernant le sexe de l'animal.
+\gf cane
 
 \lx bæ˧mi˧-pʰv̩#˥
 \or bbaemipu
@@ -19295,7 +19317,7 @@
 \ps adj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de fv{/hi˧le˩ ʝi˩/} comme fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
+\nt <type="hist" print="n"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de |fv{/hi˧le˩ ʝi˩/} comme |fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
 \np forme monosyllabique: extraite de l'expression disyllabique |fv{/hi˧le˩/}
 \ton H?
 \lc --
@@ -29972,7 +29994,7 @@
 \ge ritual_for_boys_coming_of_age
 \dn 男性成年礼：直译“穿裤”
 \gn 穿裤礼
-\df Cérémonie pour les garçons atteignant 13 ans: littéralement ‘porter/enfiler/mettre le pantalon’. Après cette cérémonie, l'adolescent porte un pantalon, au lieu du vêtement unisexe des enfants. (Rituel parallèle avec fv{/ʈʰæ˩ ki˩˥/}, ‘porter/enfiler/mettre la jupe’, pour les jeunes filles.).
+\df Cérémonie pour les garçons atteignant 13 ans: littéralement ‘porter/enfiler/mettre le pantalon’. Après cette cérémonie, l'adolescent porte un pantalon, au lieu du vêtement unisexe des enfants. (Rituel parallèle avec |fv{/ʈʰæ˩ ki˩˥/}, ‘porter/enfiler/mettre la jupe’, pour les jeunes filles.).
 \gf cérémonie_de_passage_à_l_âge_adulte_pour_garçons
 \dt 24/Apr/2017
 
@@ -42832,16 +42854,20 @@
 \va <speaker="F5"> ID.
 \vf “graine", /ɻæ/, prononcé proche de læ
 \va <speaker="M21"> ID.
-\de To sow.
-\ge to_sow
-\dn 撒 (撒种子)、播（种子）
+\de To broadcast seeds.
+\ge to_broadcast
+\dn 撒 (撒种子)、播撒（种子）
 \gn 播
 \df Semer à la volée.
 \gf semer
 \xv ɻæ˩ pʰo˧˥
-\xe to sow seeds
+\xe to broadcast seeds
 \xn 撒种子
 \xf semer des graines à la volée
+\xv bæ˩ pʰo˧-zo˧-ho˥-ze˩!
+\xe It's going to be time to broadcast seeds!
+\xn 该播撒种子了！
+\xf Il va être temps de faire les semailles!
 \dt 09/Sep/2015
 
 \lx pʰo˥
@@ -58198,7 +58224,7 @@
 \xe It's not that good! I don't like to eat that!
 \xn 不怎么好吃！我不喜欢吃！
 \xf Ce n'est pas vraiment bon! Je n'aime pas en manger!
-\xc <langue="fra"> La construction fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/} signifie ‘pas tellement', |fn{‘……不怎么……’}.
+\xc <langue="fra"> La construction |fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/} signifie ‘pas tellement', |fn{‘……不怎么……’}.
 \rf Mushrooms
 \xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥!
 \xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
@@ -72281,7 +72307,10 @@
 \xv le˧-tv̩˥~tv̩˩-ze˩
 \xf |fg{red}
 \xc PHONO
-\dt 27/Apr/2017
+\xv bæ˩dʑɯ˥ | tv̩˧-bi˩-zo˩-ho˩!
+\xe It's going to be time to plant crops!
+\xn 要种庄稼了！
+\xf Il va être temps de faire les plantations / les semailles!
 
 \lx tv̩˧α
 \sf <nb="B"> 839
@@ -77942,7 +77971,7 @@
 \ps adj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de fv{/hi˧le˩ ʝi˩/} comme fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
+\nt <type="hist" print="n"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de |fv{/hi˧le˩ ʝi˩/} comme |fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
 \np forme monosyllabique: extraite de l'expression disyllabique |fv{/hi˧le˩/}
 \ton H?
 \lc --
@@ -78141,7 +78170,7 @@
 \xe Because (s)he is ill, (s)he does not eat.
 \xn 他病了，吃不下饭。
 \xf Comme il est malade, il ne mange pas.
-\xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: fv{/†ʈʂʰɯ˧ gu˩ kwɤ˩-tɕi˧, hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: |fv{/†ʈʂʰɯ˧ gu˩ kwɤ˩-tɕi˧, hɑ˧ mɤ˧-dzɯ˥/}.
 \rf M18
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | wɤ˩˥ | lɑ˧hɑ˥ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥.
 \xe After he said that, he went on to say something different / he changed his mind and said something quite different.
