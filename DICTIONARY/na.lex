@@ -1002,7 +1002,8 @@
 
 \lx æ˧ʂæ˧-pi˧mv̩˧˥
 \or eshae bimu
-\et æ˧ʂæ#˥; pi˧mv̩˥$
+\et æ˧ʂæ#˥
+\et pi˧mv̩˥$
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1023,7 +1024,8 @@
 
 \lx æ˧ʂæ˧-qʰwæ#˥
 \or eshae khuae
-\et æ˧ʂæ#˥; qʰwæ˧
+\et æ˧ʂæ#˥
+\et qʰwæ˧
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1084,7 +1086,8 @@
 
 \lx æ˧ʂæ˧-tɑ˩mv̩˩
 \or eshae damu
-\et æ˧ʂæ#˥; tɑ˩mv̩˩
+\et æ˧ʂæ#˥
+\et tɑ˩mv̩˩
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -4449,7 +4452,8 @@
 \lx bv̩˧ɖæ˧
 \sf <nb="2011"> 1010
 \or bbeuddae
-\et bv̩˧; ɖæ˥
+\et bv̩˧
+\et ɖæ˥
 \ps adj
 \lc bv̩˧ɖæ˧
 \sd <langue="fra"> abstrait
@@ -4942,7 +4946,8 @@
 \lx bv̩˧ʂæ˧
 \sf <nb="2011"> 1009
 \or bbeushae
-\et bv̩˧; ʂæ˧
+\et bv̩˧
+\et ʂæ˧
 \ec <langue="eng"> Literally ‘long-intestined': in folk representation, long intestines allow their owner to digest vexations calmly, whereas short intestines are associated with hasty emotional reactions.
 \ps adj
 \lc bv̩˧ʂæ˧
@@ -9328,7 +9333,8 @@
 \sf <nb="B"> 1825
 \sf <nb="2011"> 2777
 \or zzeimizzei
-\et dze˩mi˧; dze˥
+\et dze˩mi˧
+\et dze˥
 \ps n
 \lc dze˩mi˧dze˧
 \sd <langue="fra"> animal
@@ -15908,7 +15914,8 @@
 \sf <nb="B"> 947c
 \sf <nb="2011"> 1376
 \or ggiq
-\et /gɯ˩α2/; /ʝi˥/
+\et gɯ˩α2
+\et ʝi˥
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -17335,7 +17342,8 @@
 \lx gv̩˧dv̩˧-gv̩˧mi˧
 \sf <nb="2011"> 140
 \or ggudduggumi
-\et gv̩˧dv̩˧; gv̩˧mi˧
+\et gv̩˧dv̩˧
+\et gv̩˧mi˧
 \ps n
 \lc gv̩˧dv̩˧gv̩˧mi˧
 \sd <langue="fra"> corps
@@ -21923,7 +21931,8 @@
 \sf <nb="2011"> 509
 \or yepiye
 \bw <langue="cmn"> 鸦片
-\et |fn{鸦片}; jɤ˧
+\et |fn{鸦片}
+\et jɤ˧
 \ec <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /jɤ˧/, is likely to be a Chinese borrowing too, but by the time the word ‘opium' was borrowed, it was most probably not perceived as a loanword anymore, and could assist the interpretation of the new loanword, ‘opium'.
 \ps n
 \lc je˧pʰi˧jɤ˧
@@ -22710,7 +22719,8 @@
 \sf <nb="B"> 1066
 \sf <nb="2011"> 1501
 \or yiwo
-\et ʝi˥ 1; ʁo˧ 2
+\et ʝi˥1
+\et ʁo˧2
 \ps adj
 \lc ʝi˧ʁo˧
 \sd <langue="fra"> adjectif
@@ -23530,7 +23540,8 @@
 \sf <nb="B"> 1830
 \sf <nb="2011"> 2783
 \or yeyobbu
-\et jɤ˩jo#˥; bv̩˥
+\et jɤ˩jo#˥
+\et bv̩˥
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
