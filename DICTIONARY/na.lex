@@ -232,7 +232,7 @@
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
-\nt <type="hist" print="n"> Vérifié en août 2014: non nasalisé.
+\nt <type="hist" print="n"> Vérifié en août 2014: non nasalisé. En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
 \ton L
 \lc æ˩gv̩˩˥
 \so <print="n"> F4
@@ -251,21 +251,55 @@
 \xn 这把犁头
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
-\xv æ˩mo˥
-\xe used ard, plough which cannot be used anymore
-\xn 陈旧的犁架子（不能再用了）
-\xf araire usagée, vieille araire (hors d'usage du fait de l'usure)
-\xc PHONO
-\xc <type="tone"> LH
+
+\lx æ˩mo˥
+\or aemo
+\ps n
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\nt <type="hist" print="n"> xxxx à vérifier en combinaison avec le verbe "acheter": si ça donne æ˩mo˧ hwæ˧, c'est ˩ ˧ ; si çɑ donne æ˩mo˥ hwæ˩, c'est ˩ ˥.
+\ton LH
+\lc æ˩mo˥
+\so <print="n"> F4
+\pdl classifier
+\pdv nɑ˧
+\de Used ard, plough which cannot be used anymore.
+\ge used_ard
+\dn 陈旧的犁架子（不能再用了）
+\gn 陈旧的犁架子
+\df Araire usagée, vieille araire (hors d'usage du fait de l'usure).
+\gf araire_usagée
 \xv æ˩mo˥ tʰv̩˩-nɑ˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那个旧犁架子（犁杆）
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\xv æ˩-ʂɯ˩˥
-\xe new ard, brand new ard
-\xn 新的犁架子
-\xf araire neuve
-\dt 01/Sep/2015
+\xc PHONO
+
+\lx æ˩mo˧
+\sf <nb="B"> 585
+\sf <nb="2011"> 826
+\or aemo
+\ps n
+\cf æ˩gv̩˩
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\ton LM
+\lc æ˩mo˥
+\so <print="n"> F4
+\pdl classifier
+\pdv nɑ˧
+\de Beam of the ard, pole of the ard: a long piece of wood linking the yoke to the sole.
+\ge beam_of_the_ard
+\dn 犁杆
+\gn 犁杆
+\df Timon (âge, haie) de l'araire.
+\gf timon
+\xv æ˩gv̩˩-mo˥
+\xe same meaning
+\xn 同上
+\xf même sens
+\xc <type="tone"> L+H#
+\dt 24/Aug/2015
 
 \lx æ˩gv̩˩-mæ˩qo˥
 \sf <nb="B"> 587
@@ -274,7 +308,7 @@
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
-\nt <type="hist" print="n"> Vérifié en août 2014: non nasalisé.
+\nt <type="hist" print="n"> Vérifié en août 2014: non nasalisé. Vérifié en 2024: on ne peut dire |fv{æ˩ɡv̩˩mæ˩˥}, seulement dans l'exemple |fv{æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥}.
 \ton L+H#
 \lc æ˩gv̩˩mæ˩qo˥
 \so <print="n"> F4
@@ -289,7 +323,7 @@
 \xv æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥
 \xe the person holding the handle of the ard
 \xn 抓着犁把的人
-\xf la personne qui tient le mancheron de la charrue
+\xf la personne qui tient le mancheron de l'araire
 \xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这个犁把
@@ -568,32 +602,6 @@
 \xc <type="tone"> LM+#H-
 \dt 13/Jul/2017
 
-\lx æ˩mo˧
-\sf <nb="B"> 585
-\sf <nb="2011"> 826
-\or aemo
-\ps n
-\cf æ˩gv̩˩
-\sd <langue="fra"> agriculture
-\sd <langue="eng"> agriculture
-\ton LM
-\lc æ˩mo˥
-\so <print="n"> F4
-\pdl classifier
-\pdv nɑ˧
-\de Beam of the ard, pole of the ard: a long piece of wood linking the yoke to the sole.
-\ge beam_of_the_ard
-\dn 犁杆
-\gn 犁杆
-\df Timon (âge, haie) de l'araire.
-\gf timon
-\xv æ˩gv̩˩-mo˥
-\xe same meaning
-\xn 同上
-\xf même sens
-\xc <type="tone"> L+H#
-\dt 24/Aug/2015
-
 \lx æ˧ɲi#˥
 \sf <nb="B"> 657
 \sf <nb="2011"> 982
@@ -793,6 +801,7 @@
 \or aeghae
 \ec <langue="fra"> Il s'agit du mot ‘perroquet', utilisé par extension pour fairer référence à une couleur: bleu-vert.
 \ec <langue="eng"> This is the word for ‘parrot', used by extension to refer to a colour: blue-green.
+\ec <langue="cmn"> “鹦鹉”这个词，来形容一种颜色：青色。
 \ps adj
 \cf æ̃˧qæ˩1
 \sd <langue="fra"> adjectif
@@ -1593,13 +1602,14 @@
 \xn “一年收千棵，不够吃百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!» Littéralement: «si, une année, mille récoltes parvenaient à maturité, on n['en] mangerait pas [pour autant pendant] cent ans =on n'aurait pas à manger pour cent ans!» Le proverbe sert à se consoler d'une mauvaise récolte, qui va obliger à une année frugale: «Si belle soit la récolte, elle n'aurait de toute façon pas duré éternellement; tout est à recommencer l'année suivante, voyons donc de l'avant!»
 \xc PROVERBE
-\xc <langue="fra"> Dans la parole ordinaire, on dirait: |fv{/ɕi˧-kʰv̩˧˥/}, et cela donnerait: fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: |fv{/ɕi˧-kʰv̩˧/}, au lieu du |fv{/ɕi˧-kʰv̩˧˥/} de la langue ordinaire.
+\xc <langue="fra"> Dans la parole ordinaire, on dirait: |fv{/ɕi˧-kʰv̩˧˥/}, et cela donnerait: |fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou |fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: |fv{/ɕi˧-kʰv̩˧/}, au lieu du |fv{/ɕi˧-kʰv̩˧˥/} de la langue ordinaire.
+\rf F5
 \xv ɖɯ˧-kʰv̩˧ ʈv̩˧-bæ˥ mv̩˩, | ɕi˧-kʰv̩˧ | dzɯ˧ mɤ˧-mv̩˥!
 \xe As above: “This year, even if we had had a thousand harvests, it would not have lasted a hundred years!"
 \xn 同上：“今年收成千担，也不够吃一百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf Idem ci-dessus: «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!»
 \xc PROVERBE
-\dt 06/Jun/2017
+\xc <langue="fra"> Ce proverbe est jugé erroné par F4.
 
 \lx bæ˩˥
 \sf <nb="B"> 237
@@ -1868,9 +1878,6 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> tv
 \so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M23"> ID.
 \pdl classifier
 \pdv ɭɯ˧
 \de Placenta.
@@ -1881,17 +1888,18 @@
 \gf placenta
 \dt 26/Aug/2015
 
-\lx bɑ˧lɑ˧kʰɯ˧tsʰɤ˧
+\lx bɑ˧lɑ˧kʰɯ˧tsʰɤ˧˥
 \sf <nb="B"> 1834
 \sf <nb="2011"> 2790
 \or bbalakeece
 \ps n
-\lc bɑ˧lɑ˧kʰɯ˧tsʰɤ˧
+\lc bɑ˧lɑ˧kʰɯ˧tsʰɤ˧˥
+\sn 1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> bɑ22lɑ55qɤ55tɕʰõ22
-\nt <type="hist" print="n"> +ɲi˩
-\ton M
+\nt <type="hist" print="n"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩. xxxx vérifier à nouveau: même mot pour "araignée" et "toile d'araignée"?
+\ton MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ +ɲi˥
@@ -1906,6 +1914,31 @@
 \gn 蜘蛛
 \df Araignée.
 \gf araignée
+\sn 2
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\nt <langue="pumi" type="comp" print="n"> bɑ22lɑ55qɤ55tɕʰõ22
+\nt <type="hist" print="n"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩. xxxx vérifier à nouveau: même mot pour "araignée" et "toile d'araignée"?
+\ton M
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ +ɲi˥
+\vf ton différent de F4
+\vf sens/composition: n'est pas le même mot que “vêtement" /bɑ.lɑ/
+\va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
+\pdl classifier
+\pdv kʰɯ˩
+\de Spider web, cobweb.
+\ge cobweb
+\dn 蜘蛛网
+\gn 蜘蛛网
+\df Toile d'araignée.
+\gf toile_d_araignée
+\xv bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ tʰi˥-ʂɯ˩-dʑo˩
+\xe There's a cobweb hanging there.
+\xn 有蜘蛛网
+\xf Un fil d'araignée est tendu là. / Il y a un fil d'araignée tendu là.
+
 \dt 24/Apr/2017
 
 \lx bæ˩-lɑ˩~lɑ˥
@@ -20713,6 +20746,29 @@
 \xf frire un plat/faire la cuisine/frire du riz/de la nourriture
 \dt 02/Sep/2015
 
+\lx hṽ̩˧ɻ̍˧
+\or hun'er
+\ps v
+\lc hṽ̩˧ɻ̍˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\so <print="n"> F4
+\de To get busy, to get down to work.
+\ge to_get_busy
+\dn 做事情、忙着做事
+\gn 做事情
+\df Se mettre au boulot, s'atteler à la tâche, s'affairer, se plonger dans une activité.
+\gf s_affairer
+\xv no˧ | le˧-hṽ̩˧ɻ˧ mɤ˩!
+\xe You get down to work!
+\xn 你做事情吧！
+\xf Mets-toi au travail! / Active-toi!
+\xv æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩ | hṽ̩˧ɻ˧ zo˧-kv̩˩
+\xe to have to be busy from morning until evening, to be constantly busy
+\xn 从早得忙到晚
+\xf devoir s'affairer du matin au soir, être constamment pris dans des tâches
+
 \lx hṽ̩˧dɤ˧ɻ̍#˥
 \sf <nb="B"> 1084
 \sf <nb="2011"> 1539
@@ -22155,7 +22211,10 @@
 \xe to take care of the household, to look after the affairs of the family; in particular: distributing work to the various members, and ensuring that the supplies are not running low
 \xn 管理家里的大小事情（如：分配工作、家务等）
 \xf gérer la maisonnée, s'occuper de la famille (tâche de la personne qui répartit les travaux à accomplir, veille aux approvisionnements…)
-\dt 02/Sep/2015
+\xv ɡɤ˩-ʝi˧ mv̩˥-ʝi˩
+\xe to be busy on all fronts, to juggle with a variety of tasks
+\xn 东忙西忙，一直非常忙
+\xf s'affairer dans tous les sens, courir sans répit d'une tâche à l'autre
 
 \lx ʝi˥
 \sf <nb="2011"> 1860
@@ -56170,8 +56229,40 @@
 \dt 09/Oct/2015
 
 \lx ʂɯ˧
+\hm 2
+\or shi
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> À déterminer: ton Ma, Mb ou Mc? Ensuite, supprimer le numéro d'homonyme? puisqu'il y a une différence de ton avec 'sept'?
+\ton M
+\lc ʂɯ˧
+\so <print="n"> F4
+\va <speaker="M18"> ID.
+\de To hang, to be stretched: a thread is stretched.
+\ge to_hang
+\dn 伸展：如，蛛丝在两根树枝之间伸展。
+\gn 伸展
+\df Être tendu: par exemple, une corde à linge est tendue.
+\gf être_tendu
+\xv tʰi˧-ʂɯ˧-dʑo˧
+\xe to be stretched
+\xn 伸展着
+\xf être tendu
+\xc PHONO
+\xv bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ tʰi˥-ʂɯ˩-dʑo˩.
+\xe There's a cobweb hanging there.
+\xn 有蜘蛛网伸展着。
+\xf Un fil d'araignée est tendu là. / Il y a un fil d'araignée tendu là.
+\xv bæ˩˥ | ɖɯ˧-kʰɯ˩ | tʰi˧-ʂɯ˧-dʑo˧
+\xe a rope/string is stretched
+\xn 一条绳子伸展着
+\xf une corde/ficelle est tendue
+
+\lx ʂɯ˧
 \sf <nb="B"> 817
 \sf <nb="2011"> 1205
+\hm 1
 \or shi
 \ps num
 \sd <langue="fra"> nombre

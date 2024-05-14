@@ -1,3 +1,4 @@
+Pour installer le logiciel : 
 git clone https://gitlab.com/BenjaminGalliot/JLexika
 julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 
@@ -6,6 +7,7 @@ https://tex.stackexchange.com/questions/540429/tlmgr-in-ubuntu-20-04-local-tex-l
 virer la version en cours, installer entièrement en exécutant ligne par ligne ce qui est indiqué.
 
 Pour refaire tourner : (tout faire)
+ouvrir le dossier JLexika dans un terminal, puis exécuter la commande suivante :
 julia --project exécuter.jl exemples/na/configuration.yml --latex
 
 Juste pour compiler :
