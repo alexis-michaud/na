@@ -1968,6 +1968,7 @@
 \sf <nb="B"> 2145
 \sf <nb="2011"> 3290
 \or bbaelialia
+\ec <langue="fra"> Il pourrait s'agir d'une déformation du classificateur des objets ronds, |fv{ɭɯ˧}. Celui-ci est riche en variantes phonétiques, et quasi-seul représentant de la combinaison phonémique |fv{ɭ}+|fv{ɯ}. La forme rédupliquée |fv{ɭɯ˧~ɭɯ˧} a pu évoluer vers sa prononciation actuelle, qui a été difficile à fixer: lors des deux premiers terrains (2006 et 2006), la notation hésitait entre |fv{bæ˩ lje˧ljɤ˧}, |fv{bæ˩ le˧le˧}, avant d'en venir à |fv{bæ˩ ljɤ˧ljɤ˧}. Une constante parmi ces variantes est la perception des deux dernières syllabes comme liées l'une à l'autre, comme le serait une forme rédupliquée.
 \ps n
 \lc bæ˩ljɤ˧ljɤ˧
 \sd <langue="fra"> plante
@@ -2059,6 +2060,28 @@
 \df Longue corde.
 \gf longue_corde
 \dt 26/Aug/2015
+
+\lx bæ˧mi˧
+\hm 3
+\sf <nb="B"> 44
+\sf <nb="2011"> 71
+\or bbaemi
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\nt <type="hist" print="n"> ajouté en 2024, reprenant une information de RD en 2017 xxxx
+\ton M
+\lc bæ˧mi˧
+\so <print="n"> F4
+\pdl classifier
+\pdv kʰɯ˩
+\pdc <langue="fra"> objets longs
+\de Canal.
+\ge canal
+\dn 水渠
+\gn 水渠
+\df Canal, rigole.
+\gf rigole
 
 \lx bæ˧mi˧-mi˩
 \or bbaemimi
@@ -2497,7 +2520,8 @@
 \lc bi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> sens vérifié en 2015: ‘oser'; est cognat du naxi /by˧/.
+\nt <type="hist" print="n"> sens vérifié en 2015: ‘oser'. Cognat du naxi /by˧/.
+\nt <langue="naxi" type="comp"> by˧
 \nt <type="hist" print="n"> (njɤ˥) ɑ˩pʰo˩˥ bi˧ ʁu˧ mɤ˧ hu˩: ʁu˧ mɤ˧ hu˩ confirmé par M21: 干不起
 \ton M
 \so <print="n"> F4
@@ -2511,7 +2535,6 @@
 \xe Not to dare to.
 \xn 不敢做
 \xf Ne pas oser (faire quelque chose).
-\dt 12/May/2017
 
 \lx bi˥
 \sf <nb="B"> 933
@@ -3021,7 +3044,6 @@
 \lx bi˧γ
 \sf <nb="B"> 1756
 \sf <nb="2011"> 2582
-\hm 1
 \or bbi
 \ps v
 \lc bi˧
@@ -13206,6 +13228,7 @@
 \dt 27/Aug/2015
 
 \lx ɖʐv̩˥
+\hm 1
 \sf <nb="B"> 983
 \sf <nb="2011"> 1417
 \or zzheu
@@ -13214,6 +13237,7 @@
 \sd <langue="eng"> adjective
 \ton H
 \lc ɖʐv̩˧
+\cf si˧ɖʐv̩#˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Moist, wet, damp, humid.
@@ -13236,14 +13260,9 @@
 \xe The earth is damp!
 \xn 土湿了。
 \xf La terre est mouillée!
-\xc
-\xv si˧ɖʐv̩#˥
-\xe green wood, freshly cut wood (antonym of: dry wood)
-\xn 新伐材、生材、湿材（反义词：干木）
-\xf bois vert, bois fraîchement coupé (antonyme de: bois sec)
-\dt 01/Sep/2015
 
 \lx ɖʐv̩˥
+\hm 2
 \or zzhu
 \ps v
 \sd <langue="fra"> adjectif
@@ -21672,9 +21691,9 @@
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine.
 \ge lower_balcony
-\dn 夹层：主屋的夹层。因为烟多，所以人不能将这个空间当卧室。只有一层薄的木地板。
+\dn 夹层：主屋的夹层。因为烟多，所以人不能用这个空间当卧室。只有一层薄的木地板。
 \gn 夹层
-\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y laisse parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
+\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
 \dt 13/Jul/2017
 
@@ -21708,9 +21727,9 @@
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine.
 \ge lower_balcony
-\dn 夹层：主屋的夹层。因为烟多，所以人不能将这个空间当卧室。只有一层薄的木地板。
+\dn 夹层：主屋的夹层。因为烟多，所以人不能用这个空间当卧室。只有一层薄的木地板。
 \gn 夹层
-\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y laisse parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
+\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
 \dt 01/Aug/2017
 
@@ -34913,6 +34932,7 @@
 \sd <langue="eng"> verb
 \ton Lα
 \lc mo˩˥
+\cf si˧mo˩
 \so <print="n"> F4
 \de To die.
 \ge to_die
@@ -34924,10 +34944,6 @@
 \xe (She/he/it) is not dead yet!
 \xn 还没死！
 \xf (Il n'est) pas encore mort!
-\xv si˧ mo˩
-\xe dead wood
-\xn 老干柴（直译：死了的木头）
-\xf bois mort
 \dt 04/Sep/2015
 
 \lx mo˧˥α
@@ -46217,7 +46233,7 @@
 \xv qʰæ˧kʰwɤ˧ ɖɯ˧-ɭɯ˧
 \xe a small dam
 \xn 一个小水坝
-\xf un petit canal
+\xf un petit barrage
 \dt 01/Oct/2015
 
 \lx qʰæ˧lo˧˥
@@ -50494,6 +50510,7 @@
 \or wodda
 \ps adv
 \lc ʁo˧dɑ˧
+\an ʁo˧tʰo˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n"> (avant 09: noté “ʁu˥dɑ˥ɖɯ˥so˧ɲi˧; tons confirmés et reconfirmés")
@@ -50502,11 +50519,11 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de In front of.
+\de In front of (spatial meaning). Before (temporal meaning).
 \ge in_front_of
 \dn 前面，之前
 \gn 前面
-\df Devant, avant, auparavant.
+\df Au sens spatial: devant. Au sens temporel: avant, auparavant.
 \gf devant/auparavant
 \xv ʂɯ˧-kʰv̩˧-ʁo˧dɑ˧
 \xe seven years ago
@@ -51133,6 +51150,30 @@
 \df Intercepter, attaquer en route (des brigands attaquent une caravane).
 \gf intercepter/attaquer
 \dt 27/Apr/2017
+
+\lx ʁo˧tʰo˩
+\or woto
+\ps adv
+\lc ʁo˧tʰo˩
+\an ʁo˧dɑ˧
+\sd <langue="fra"> espace
+\sd <langue="eng"> space
+\ton L#
+\so <print="n"> F4
+\de At the back of (spatial meaning). After (temporal meaning).
+\ge at_the_back
+\dn 后面，之后
+\gn 后
+\df Au sens spatial: derrière. Au sens temporel: après.
+\gf derrière/après
+\xv ʂɯ˧-kʰv̩˧-ʁo˧dɑ˧ xxxx essayer en remplaçant par: ʁo˧tʰo˩
+\xe seven years ago
+\xn 七年前
+\xf il y a sept ans
+\xv ʁo˧dɑ˧ ɖɯ˧-so˩ ɲi˩ xxxx essayer en remplaçant par: ʁo˧tʰo˩
+\xe the past few days
+\xn 前几天
+\xf ces derniers jours, les quelques jours passés, il y a quelques jours
 
 \lx ʁo˧qɑ˥
 \sf <nb="B"> 508
@@ -54405,11 +54446,48 @@
 \gn 木头
 \df Bois.
 \gf bois
-\xv si˧-mo˩
-\xe dead wood
-\xn 枯木
-\xf bois mort
 \dt 05/Oct/2015
+
+\lx si˧mo˩
+\lx
+\or seemo
+\et si˥
+\et mo˩α2
+\ps n
+\an si˧ɖʐv̩#˥
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\ton L#
+\lc si˧mo˩
+\so <print="n"> F4
+\pdl classifier
+\pdv kɤ˧˥
+\de Dead wood.
+\ge dead_wood
+\dn 枯木、老干柴（直译：死了的木头）
+\gn 枯木
+\df Bois mort.
+\gf bois_mort
+
+\lx si˧ɖʐv̩#˥
+\or seezzheu
+\et si˥
+\et ɖʐv̩˥1
+\ps n
+\an si˧mo˩
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\ton #H
+\lc si˧ɖʐv̩˧
+\so <print="n"> F4
+\pdl classifier
+\pdv kɤ˧˥
+\de Green wood, freshly cut wood.
+\ge green_wood
+\dn 新伐材、生材、湿材
+\gn 湿材
+\df Bois vert, bois fraîchement coupé.
+\gf bois_vert
 
 \lx si˧bv̩˧
 \or seebbu
