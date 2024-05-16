@@ -814,13 +814,12 @@
 \gn 青色
 \df De couleur bleue/verte; couleur un peu plus légère que le vert de la plaine; équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
 \gf bleu/vert
-\rf F4
-\rf M21
 \xv æ̃˧qæ˩-ni˩gv̩˩
 \xe vivid-coloured, blue-green; literally ‘like a parrot', i.e. ‘parrot-coloured'
 \xn 像鹦鹉的颜色：青、蓝色、绿色
 \xf couleur perroquet; littéralement ‘comme un perroquet'
-\rf F5
+\rf F4
+\rf M21
 \xv æ̃˧qæ˩-bɑ˩lɑ˩
 \xe vivid-coloured, blue-green jacket: literally ‘parrot(-coloured) jacket'
 \xn 青、蓝色、绿色衣服
@@ -833,12 +832,13 @@
 \xc <langue="eng"> Not accepted by F4 and M21.
 \xc <langue="fra"> Expression qui n'est pas acceptée par F4 et M21.
 \xc <langue="cmn"> F4与M21合作人不用这个说法。
-\rf F4
-\rf M21
+\rf F5
 \xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
 \xn 重叠。同上：青色
 \xf |fg{red}; même sens: bleu-vert
+\rf F4
+\rf M21
 \dt 09/Oct/2015
 
 \lx æ˩qʰv̩˥
@@ -1167,11 +1167,11 @@
 \xn 发烧
 \xf avoir la fièvre
 \xc <type="hist" print="n" langue="fra"> (d'abord noté æ˩ʂe˩tsʰɯ˥, par erreur; confirmé en 2008) (09: confirmé: n'est pas /tsʰɯ/ mais /tsʰi/, “chaud")
-\rf M18
 \xv æ̃˩ʂe˩˥ | dʑɤ˩˥ | ʐwæ˩˥
 \xe (He/she) is in great shape!
 \xn 身体状况很好！（包括气色好）
 \xf (Il) est en super forme!
+\rf M18
 \dt 25/Aug/2015
 
 \lx æ̃˩ʂe˧li˥-mo˩
@@ -1603,13 +1603,13 @@
 \xf «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!» Littéralement: «si, une année, mille récoltes parvenaient à maturité, on n['en] mangerait pas [pour autant pendant] cent ans =on n'aurait pas à manger pour cent ans!» Le proverbe sert à se consoler d'une mauvaise récolte, qui va obliger à une année frugale: «Si belle soit la récolte, elle n'aurait de toute façon pas duré éternellement; tout est à recommencer l'année suivante, voyons donc de l'avant!»
 \xc PROVERBE
 \xc <langue="fra"> Dans la parole ordinaire, on dirait: |fv{/ɕi˧-kʰv̩˧˥/}, et cela donnerait: |fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou |fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: |fv{/ɕi˧-kʰv̩˧/}, au lieu du |fv{/ɕi˧-kʰv̩˧˥/} de la langue ordinaire.
-\rf F5
 \xv ɖɯ˧-kʰv̩˧ ʈv̩˧-bæ˥ mv̩˩, | ɕi˧-kʰv̩˧ | dzɯ˧ mɤ˧-mv̩˥!
 \xe As above: “This year, even if we had had a thousand harvests, it would not have lasted a hundred years!"
 \xn 同上：“今年收成千担，也不够吃一百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf Idem ci-dessus: «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!»
 \xc PROVERBE
 \xc <langue="fra"> Ce proverbe est jugé erroné par F4.
+\rf F5
 
 \lx bæ˩˥
 \sf <nb="B"> 237
@@ -1837,13 +1837,13 @@
 \xe The harvest is not good!
 \xn 庄稼不好！/收成不好！
 \xf La récolte n'est pas bonne!
-\rf F5
 \xv bæ˩dʑɯ˥ | tv̩˧-bæ˩ le˩-mv̩˩-kʰɯ˩!
 \xe May a thousand crops come to maturity! (A blessing to elders, used for instance during the rite of coming of age)
 \xn 祝：一千棵庄稼都成熟起来！（成年礼、过年等节庆时的祝福用语，晚辈对长辈的祝福）
 \xf Puissent mille récoltes venir à maturité! (Bénédiction qu'on dit aux aînés lors de cérémonies: par exemple lors du rite de passage à l'âge adulte)
 \xc PROVERBE
 \xc Proverbe jugé erroné par F4.
+\rf F5
 \dt 05/Jul/2017
 
 \lx bɑ˩lɑ˩
@@ -2443,8 +2443,6 @@
 \gn 向、至、往
 \df Sur; vers.
 \gf vers/envers/sur
-\rf <langue="eng"> from the narrative “Sister's wedding"
-\rf <langue="fra"> récit “Mariage de la sœur"
 \xv ʐæ˩sɯ˩-bi˥ | tʰi˧-ʈʂʰv̩˧˥
 \xe to hold grip of the felt cape
 \xn 抓住毡子
@@ -2468,6 +2466,8 @@
 \xn 脚上
 \xf sur les pieds
 \xc PHONO
+\rf <langue="eng"> from the narrative “Sister's wedding"
+\rf <langue="fra"> récit “Mariage de la sœur"
 \dt 13/May/2017
 
 \lx bi˧
@@ -3010,11 +3010,11 @@
 \gn 量词.脚或脚印
 \df Auto-classificateur des sabots d'animaux, et des traces qu'ils laissent sur le sol.
 \gf |fg{clf}.sabots
-\rf M18
 \xv ʁwɤ˧ | ɖɯ˧-bi˩
 \xe a mountain face EXPLAIN (By extension...)
 \xn 一片山
 \xf un pan de montagne
+\rf M18
 \dt 19/Jun/2017
 
 \lx bi˧γ
@@ -3097,7 +3097,6 @@
 \gn 凉
 \df Refroidir, mettre à refroidir.
 \gf refroidir
-\rf F5
 \xv tʰi˧-bo˩-kʰɯ˩!
 \xo
 \xe Let's leave it to cool down! (About a sizzling hot dish.)
@@ -3107,6 +3106,7 @@
 \xe To put to cool down in cold water. (After boiling eggs, one puts them in cold water to cool them down.)
 \xn （把煮好了的鸡蛋）放在冷水里凉一下（它）在发光。（描写灯）
 \xf Plonger dans l'eau froide pour refroidir (après avoir cuit des œufs à la coque, on les plonge dans l'eau froide, pour les refroidir, et aussi pour que la coquille se détache plus facilement.)
+\rf F5
 \dt 08/Jul/2018
 
 \lx bo˩˧
@@ -3182,12 +3182,12 @@
 \xe the edge of the small dike
 \xn 小坡的边沿
 \xf le bord de la diguette
-\rf F5
 \xv bo˧ | ɖɯ˧-pʰæ˧˥
 \xe a small dike
 \xn 一片坡
 \xf une diguette
 \xc <langue="fra"> classificateur refusé par M23, qui indique: /ɖɯ˧-ɭɯ˧/
+\rf F5
 \dt 24/Apr/2017
 
 \lx bo˧
@@ -6097,11 +6097,11 @@
 \xn 骂人、批评人
 \xf insulter quelqu'un/ critiquer quelqu'un
 \xc
-\rf M18
 \xv ʈʂʰɯ˧ njɤ˩ ɕjɤ˩tʰv̩˩.
 \xe He insults me.
 \xn 他骂我。
 \xf Il m'insulte.
+\rf M18
 \dt 12/Jun/2017
 
 \lx ɕjɤ˩~ɕjɤ˧˥
@@ -7867,7 +7867,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> d’abord noté ɖɯ˧ hĩ˥ ; schéma ˩ ˩˧ confirmé en 2007
+\nt <type="hist" print="n"> d’abord noté ɖɯ˧ hĩ˥ ; schéma ˩ ˩˧ confirmé en 2007
 \nt <type="sem"> Ordre: adjectif+nom, à la différence du naxi: /hi˧ ɖɯ˩/
 \ton L
 \lc ɖɯ˩hĩ˩˥
@@ -8675,11 +8675,11 @@
 \gn 池塘
 \df Mare.
 \gf mare
-\rf F5
 \xv ɖwæ˩ɬo˩mi˧
 \xe large pond
 \xn 大池塘
 \xf grand étang
+\rf F5
 \sn 2
 \de Pool (artificial).
 \ge pool
@@ -8925,12 +8925,12 @@
 \xe There is mud; mud has formed.
 \xn 有泥巴了。
 \xf De la boue s'est formée; il y a de la boue, c'est tout boueux. (Littéralement: «de la boue s'est mélangée».)
-\rf F5
 \xv ɖʐæ˧qʰæ˧ ʐæ˧~ʐæ˥
 \xe There is mud; mud has formed.
 \xn 有泥巴了
 \xf De la boue s'est formée; il y a de la boue, c'est tout boueux. (Littéralement: «de la boue s'est mélangée».)
 \xc <langue="fra"> Cette formulation n'est pas acceptée par la consultante principale.
+\rf F5
 \dt 24/Apr/2017
 
 \lx dzɑ˩qʰwɤ˩
@@ -10190,7 +10190,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> avant 09: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩ ! asseyez-vous ! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
+\nt <type="hist" print="n"> avant 09: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩ ! asseyez-vous ! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -10268,12 +10268,12 @@
 \xn 一个人去世了！来参加丧礼吧！
 \xf Quelqu'un est mort! Venez participer à la réunion/au rassemblement!
 \xc
-\rf F5
 \xv ɑ˩ʁo˧, | mv̩˧kʰv̩˧ dzi˥-ze˩!
 \xo
 \xe Smoke has accumulated inside the house! / The house is full of smoke!
 \xn 家里烟很浓了！（直译：“家里积累了很多烟”）
 \xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
+\rf F5
 \dt 13/May/2018
 
 \lx dzi˩α
@@ -11553,11 +11553,11 @@
 \xe a description of the traveller's changes in environment: ‘to change water, to change food'. This requires using strategies to avoid ailments: in particular, it was customary to boil in water a little earth of the place where one had arrived, and to drink this preparation.
 \xn ‘换水换土’：这个短语描述旅人到他人乡的情况，带来水土不服的危险。为了预防这类不良反应，摩梭旅人习惯水煮一点当地的土，喝下去，为了适应当地的水土。
 \xf description du dépaysement que connaît le voyageur qui arrive en pays étranger et doit ‘changer d'eau, changer de nourriture'. Ce dépaysement commande des stratégies de prévention de soucis de santé: en particulier, il était usuel de faire bouillir un peu de terre locale dans de l'eau, et de boire cette préparation de façon à s'accoutumer.
-\rf F5
 \xv dʑɯ˧ | mv̩˩tɕo˧ dɑ˧˥
 \xe the water flows downwards
 \xn 水往下流
 \xf l'eau coule vers le bas
+\rf F5
 \sn 2
 \de River, waterway.
 \ge waterway
@@ -11816,9 +11816,9 @@
 \gn 水槽
 \df Cuve où l'on conserve l'eau potable, tonneau d'eau. À la date de l'enquête, il s'agissait d'un baril en fer.
 \gf tonneau_à_eau
-\rf F5
 \xv pv̩˩-dʑɯ˩gv̩˩˥
 \xf même sens
+\rf F5
 \dt 27/Aug/2015
 
 \lx dʑɯ˩gv̩˥
@@ -14025,18 +14025,18 @@
 \xe (S)he works very carefully. (The literal meaning is ‘very slowly'; this is not a criticism, however: it means that they know to take their time in order to do a good job.)
 \xn 他工作很细致。（直译：‘他工作很慢’，但不是批评：意味着那个人懂得慢慢来做，做得更仔细。）
 \xf Il/elle travaille avec grand soin. (Le sens littéral est «Il/elle travaille très lentement», mais cela n'est pas une critique: cela signifie qu'il/elle sait prendre le temps pour réaliser du bon travail.)
-\rf F5
 \xv ə˧-dzɤ˧~dzɤ˥ ʝi˩
 \xe to do (something) slowly
 \xn 慢慢地做
 \xf travailler lentement, faire lentement
-\rf M21
+\rf F5
 \xv ə˧-zɤ˧~zɤ˥ ʝi˩
 \xe to do (something) slowly
 \xn 慢慢地做
 \xf Travaille doucement! / Prends ton temps! / travailler lentement, faire lentement
 \xc <type="hist" print="n" langue="eng"> Tones verified: the tone pattern is not †˧ ˧ ˥ ˧
 \xc <type="hist" print="n" langue="fra"> Tons vérifiés: le schéma n'est pas †˧ ˧ ˥ ˧
+\rf M21
 \dt 13/Jun/2017
 
 \lx ə˧go˧
@@ -14672,11 +14672,11 @@
 \gn 尼姑
 \df Nonne bouddhiste.
 \gf nonne_bouddhiste
-\rf F5
 \xv mi˩zɯ˩-ʈæ˩bɤ˥
 \xe woman priest
 \xn 尼姑
 \xf femme-prêtre
+\rf F5
 \dt 13/Jun/2017
 
 \lx ə˧ɲi˥-tsæ˩qæ˩
@@ -15521,7 +15521,6 @@
 \xe He/she is angry.
 \xn 他在生气。
 \xf Il/elle est mécontent(e) / en colère.
-\rf F5
 \xv ɖwæ˧˥ | fv̩˧hĩ˧ ɖɯ˧-v̩˧ ɲi˩
 \xe It's a very agreeable person.
 \xn 他是很善良的人。
@@ -15532,6 +15531,7 @@
 \xe To have no discontent, not to be angry. (Context: someone has made a video recording, and asks for oral consent from people who appear in the recording: do they agree to appear in a film that will be made publicly available online? Do they have any topic of miscontent? They answer: ‘[No,] we do not have any complaints / any topic of dissatisfaction!’)
 \xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’）
 \xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement!’)
+\rf F5
 \dt 23/May/2018
 
 \lx fv̩˧
@@ -18904,11 +18904,11 @@
 \xe There is only one day left!
 \xn 只有一个晚上了！
 \xf Il ne reste qu'une soirée!
-\rf F5
 \xv ɖɯ˧-hɑ̃˧-ɳɯ˥ | le˧-li˧-le˧-se˩-ze˩!
 \xe He has entirely read it in one night! / He has read the whole (book) in just one night! (Imagined context: someone is given a book; he finishes reading it within a day)
 \xn 一个晚上就读完了！/一天之内都读完了！（情景：送一个人一本书，他马上全部读完）
 \xf (Il) a tout lu en deux jours! (contexte imaginé: on offre un livre à quelqu'un; en deux jours il a tout lu)
+\rf F5
 \dt 24/Apr/2017
 
 \lx hɑ˩α
@@ -20203,7 +20203,6 @@
 \gn 既健康
 \df En pleine forme, rayonnant de santé.
 \gf en_pleine_forme
-\rf F4
 \xv hɤ˩-ʂe˩ʂe˩-hĩ˩˥
 \xo
 \xe In excellent health, blooming with health.
@@ -20215,6 +20214,7 @@
 \xn 既健康的人（如：既健康的年轻人）
 \xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
 \xc
+\rf F4
 
 \lx ho˩tʰɑ˩˥
 \or hota
@@ -20630,11 +20630,11 @@
 \xe to wait for someone
 \xn 等人
 \xf attendre quelqu'un
-\rf F5
 \xv njɤ˧ | no˧zɯ˩ hu˩-ɲi˩!
 \xe I shall wait for you! / I will be waiting for you!
 \xn 我会等你们的！
 \xf Je vous attendrai!
+\rf F5
 \dt 09/Oct/2017
 
 \lx hɯ˧
@@ -20834,11 +20834,11 @@
 \xe clumsy person / clumsy boy
 \xn 笨手笨脚的（男）人
 \xf un maladroit
-\rf F5
 \xv hṽ̩˩ɖɻ̍˩~hṽ̩˧ɖɻ̍˧-gv̩˧
 \xe |fg{red}
 \xn 重叠：笨笨的
 \xf |fg{red}
+\rf F5
 \dt 24/Apr/2017
 
 \lx hṽ̩˩-ɖʐæ˩ɻæ˥
@@ -20866,13 +20866,13 @@
 \xe intensely red, red all over
 \xn 红红的
 \xf tout rouge
-\rf F5
 \xv hṽ̩˩ɖʐæ˩˥ | hṽ̩˩ɖʐæ˩˥ gv̩˩
 \xe |fg{red}; the first two syllables are higher-pitched than the following two
 \xn 重叠
 \xf |fg{red}; les deux premières syllabes ont une fréquence fondamentale nettement plus haute que les deux suivantes
 \xc <langue="eng"> Reduced form of |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
 \xc <langue="fra"> Forme réduite de |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
+\rf F5
 \dt 14/Jun/2017
 
 \lx hṽ̩˧nɑ˩
@@ -22141,7 +22141,6 @@
 \xn 老虎又来了！
 \xf Voilà le tigre qui revient! / Le tigre est revenu!/ Le tigre est de retour!
 \xc
-\rf F5
 \xv ʈʂʰɯ˧ | ə˩-ʝi˥?
 \xo
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
@@ -22152,6 +22151,7 @@
 \xe It's going wrong! / Something is going wrong! / We're in for trouble!
 \xn 不好了！不行了！
 \xf Ça ne va plus! / C'est la catastrophe!
+\rf F5
 \dt 24/Apr/2017
 
 \lx ʝi˧
@@ -23368,7 +23368,6 @@
 \xe to lick food
 \xn 舔食品
 \xf lécher de la nourriture
-\rf F5
 \xv tso˧~tso˧ ɖɯ˧-kʰwɤ˥ jɤ˩-ze˩
 \xe (S)he has licked something.
 \xn 他舔了一个东西。
@@ -23378,6 +23377,7 @@
 \xe to lick a bowl (what one does when there is no food left; a beggar licks a bowl for the last bits of food left)
 \xn 舔一个碗（如：乞丐舔碗）
 \xf lécher le plat, lécher un bol (ce qu'on fait lorsqu'un plat est terminé: comme le petit doigt dans la comptine enfantine, ou comme le mendiant à qui on donne des restes)
+\rf F5
 \dt 10/May/2017
 
 \lx jɤ˧˥
@@ -24246,11 +24246,11 @@
 \xe Where has (s)he gone to? / Where has (s)he left for?
 \xn 他到哪里去了？
 \xf Elle/il est parti où?
-\rf M23
 \xv no˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˩˥?
 \xe Did you go outside today? / Did you take a stroll today?
 \xn 你今天出去了吗？
 \xf tu es allé faire un tour dehors, aujourd'hui?/tu es sorti, aujourd'hui? (Contexte: question posée par un consultant alors que je le raccompagne après une séance de travail vespérale)
+\rf M23
 \dt 03/Sep/2015
 
 \lx kʰi˥
@@ -25178,7 +25178,6 @@
 \xe to arrange, to put in good order
 \xn 摆整齐、使均匀，如：一排排挨着
 \xf ranger des choses en bon ordre
-\rf Tiger2
 \xv kɤ˧kɤ˩ | tʰi˧-se˥
 \xe to walk in a line, one behind the other
 \xn 并排走
@@ -25187,6 +25186,7 @@
 \xe to sit close to one another
 \xn 挨着坐
 \xf être assis les uns à côté des autres, proches les uns des autres
+\rf Tiger2
 \dt 03/Sep/2015
 
 \lx ko˧li#˥
@@ -27889,11 +27889,11 @@
 \xe to pick up (something that was on the ground)
 \xn 捡起来（地上的东西）
 \xf ramasser (quelque chose qui se trouvait à terre)
-\rf F5
 \xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ (+ tʰv̩˧-v̩˧ / zo˧mv̩˥)
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant» xxxx est-ce : le˧-kv̩˧~kv̩˥ ? (auquel cas il faut corriger) ou : le˧-ko˧~ko˥ ? (auquel cas il faut déplacer cet exemple)
+\rf F5
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28209,11 +28209,11 @@
 \xe As above: to provide an explanation, to teach something
 \xn 同上：解释一个道理、教一件事
 \xf comme ci-dessus: enseigner quelque chose à quelqu'un, expliquer quelque chose à quelqu'un
-\rf M23
 \xv kwɤ˧pɤ˧ lɑ˧˥
 \xe to teach
 \xn 教、解释
 \xf enseigner
+\rf M23
 \dt 04/Sep/2015
 
 \lx kʰwɤ˧pʰv̩˧
@@ -29248,9 +29248,9 @@
 \ton H$
 \lc lɑ˧tʰɑ˧mi˥
 \so <print="n"> F4
-\va <speaker="M18"> lɑ˧tʰɑ˧mi˥=ɻ̍˩ : les gens de la famille Latami. Schéma par simple concaténation de lɑ˧tʰɑ˧mi˥ + suffixe de pluriel ; traite comme la catégorie tonale à ton H fixe sur la dernière syllabe
+\va <speaker="M18"> lɑ˧tʰɑ˧mi˥=ɻ̍˩ : les gens de la famille Latami. Schéma par simple concaténation de lɑ˧tʰɑ˧mi˥ + suffixe de pluriel ; traite comme la catégorie tonale à ton H fixe sur la dernière syllabe
 \vf d7), non comme la catégorie à ton sur la dernière syllabe du mot phonologique
-\vf d2c). Différent du schéma de F4 : lɑ˧tʰɑ˧mi˥, lɑ˧tʰɑ˧mi˧=ɻ̍˥, lɑ˧tʰɑ˧mi˧=ɻ̍˧-ɳɯ˥, càd association du ton H avec la dernière syllabe du mot phonologique. Perte de certains mécanismes chez M18.
+\vf d2c). Différent du schéma de F4 : lɑ˧tʰɑ˧mi˥, lɑ˧tʰɑ˧mi˧=ɻ̍˥, lɑ˧tʰɑ˧mi˧=ɻ̍˧-ɳɯ˥, càd association du ton H avec la dernière syllabe du mot phonologique. Perte de certains mécanismes chez M18.
 \de A family name from Yongning. There are five families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/ə˧lɑ˧/}.
 \ge family_name
 \dn 一个姓。这个姓，永宁有五个家。音译：拉他咪
@@ -30457,7 +30457,7 @@
 \lc ɬi˩ʈɯ˩mæ˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (tv, voyelle vérifiée; confirmé à nouveau en avril 09: rime différente de celle de F5, est ʈɯ, non ʈv) (exemple “chez nous, le chien se tient souvent assis vers le seuil": version corrigée par F4 d'une phrase proposée par M18 : o˧ɻ̍˩ kʰv̩˩mi˩ ʈʰɯ˧jɤ˥ ɖɯ˧njɤ˧zo˥ ɬi˩ʈɯ˩mæ˧ hĩ˧dʑo˧)
+\nt <type="hist" print="n"> (tv, voyelle vérifiée; confirmé à nouveau en avril 09: rime différente de celle de F5, est ʈɯ, non ʈv) (exemple “chez nous, le chien se tient souvent assis vers le seuil": version corrigée par F4 d'une phrase proposée par M18 : o˧ɻ̍˩ kʰv̩˩mi˩ ʈʰɯ˧jɤ˥ ɖɯ˧njɤ˧zo˥ ɬi˩ʈɯ˩mæ˧ hĩ˧dʑo˧)
 \nt <type="hist" print="n"> (vérifié en 09: n'est pas ʈɯ˩)
 \ton L+H#
 \so <print="n"> F4
@@ -31922,12 +31922,12 @@
 \gn 左撇子
 \df Gaucher.
 \gf gaucher
-\rf F5
 \xv ʈʂʰɯ˧ | lo˩ʁwæ˧ gɤ˥ tʰv̩˩!
 \xo
 \xe He's left-handed!
 \xn 他是左撇子！
 \xf Il est gaucher!
+\rf F5
 \dt 04/Sep/2015
 
 \lx lo˧ʂv̩˩
@@ -32568,10 +32568,10 @@
 \gn 录音（借词）
 \df Enregistrer.
 \gf 录音::enregistrer
-\xv hɑ˧ le˧-dzɯ˧-se˥, | lv̩˩ ʝi˧-bi˧ !
+\xv hɑ˧ le˧-dzɯ˧-se˥, | lv̩˩ ʝi˧-bi˧ !
 \xe After the meal, we'll do a recording!
 \xn 吃完饭，就录音吧！ / 吃完饭就可以录音了！
-\xf Quand (on) aura fini de manger, (on) fera un enregistrement !
+\xf Quand (on) aura fini de manger, (on) fera un enregistrement !
 \dt 24/Apr/2017
 
 \lx lv̩˧mi˧
@@ -33023,7 +33023,7 @@
 \xv ə˩-lv̩˩˥? / ə˩-lv̩˩-ze˥?
 \xe Is it enough? Is it sufficient?
 \xn 够了吗？
-\xf est-ce que ça (te) suffit ?
+\xf est-ce que ça (te) suffit ?
 \dt 04/Sep/2015
 
 \lx ɬv̩˩α
@@ -33179,11 +33179,11 @@
 \gn 灰
 \df Cendres.
 \gf cendres
-\rf F5
 \xv lwæ˩pʰv̩˩-ni˥gv̩˩
 \xe grey; literally: “like ashes"
 \xn 灰色的（直译：“像白灰”）
 \xf de couleur grise; littéralement «comme de la cendre»
+\rf F5
 \dt 19/Jun/2017
 
 \lx lwɤ˩˥
@@ -33260,11 +33260,11 @@
 \gn 句尾助词.显然
 \df Particule finale exprimant l'évidence.
 \gf particule_exprimant_l_évidence
-\rf Healing.66
 \xv hu˧mi˧-ʈʂʰæ˧ɣɯ˧ | le˧-ʈʰɯ˩, | le˧-qʰwɤ˧-ze˧ mæ˧! |
 \xe [Nowadays] one simply takes medicines for the stomach, and one is healed! [unlike in the old times, when there were no hospitals]
 \xn 吃了胃药，就好了呗！
 \xf On prend des médicaments pour l'estomac, et ça guérit!
+\rf Healing.66
 \dt 04/Sep/2015
 
 \lx mæ˧
@@ -36457,11 +36457,11 @@
 \xe (His/her) forehead is wrinkled.
 \xn 他的前额有皱纹。
 \xf (Son) front est ridé.
-\rf F5
 \xv æ˩ʂe˩˥ | le˧-mv̩˧ʈʂv̩˥
 \xe The skin is wrinkled (literally “the flesh is wrinkled")
 \xn 皮肤有皱纹（直译：“肉有皱纹”）
 \xf La peau est ridée (littéralement: «la chair est ridée»)
+\rf F5
 \sn 3
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -36628,12 +36628,12 @@
 \xn 雨季的时候
 \xf pendant la saison des pluies
 \xc
-\rf F5
 \xv mv̩˧ʐe˧-qo˥ ɳɯ˩, | hi˩ gi˩˥!
 \xo
 \xe Rain only comes with the rainy season! (Context: in the first days of May, a visitor who sees the sky getting cloudy asks whether it is going to rain. Gisso answers that it rain only begins in earnest with the coming of the rainy season.)
 \xn 雨季的时候，（会）下雨！（情景：五月初，一个人问会不会下雨，给若回答说，雨季来了才会开始大量下雨。）
 \xf C'est à partir de l'été qu'il pleut! / Les pluies commencent avec la saison des pluies! (Contexte: dans les premiers jours de mai, un visiteur qui voit le ciel se couvrir demande s'il va pleuvoir; Gisso répond que c'est seulement avec l'été que les pluies commencent.)
+\rf F5
 \dt 04/Sep/2015
 
 \lx mv̩˧ʐe˧-ʈʂʰæ˧ɣɯ#˥
@@ -36967,7 +36967,6 @@
 \xe Same as previous example, with the |fg{durative}
 \xn 同上
 \xf Comme l'exemple précédent, avec le |fg{duratif}
-\rf M18
 \xv ʈʂʰɯ˧ mv̩˧-ʂɯ˧ bi˩-ni˩gv̩˩! njɤ˧ | gv̩˩dʑɯ˩˥ | ʐwæ˩˥! |
 \xe (S)he is going to die! I am devastated!
 \xn 他要死了！我很伤心！
@@ -37001,6 +37000,7 @@
 \xn 因为要打……
 \xf puisqu'elle/il est sur le point de frapper…
 \xc PHONO
+\rf M18
 \dt 04/Sep/2015
 
 \lx mv̩˧α
@@ -39481,11 +39481,11 @@
 \xe cow's breast
 \xn 牛的奶头
 \xf mamelle de la vache
-\rf F5
 \xv njo˩bi˧-ʁo˧qʰwɤ˩
 \xe nipple, teat
 \xn 乳头
 \xf téton
+\rf F5
 \dt 09/Sep/2015
 
 \lx njɤ˩bi˥
@@ -41067,11 +41067,11 @@
 \gn 膝盖
 \df Genou, cartilages du genou, articulation du genou: littéralement «moëlle du genou». L'expression insiste sur le caractère fragile de cette articulation.
 \gf articulation_du_genou
-\rf M23
 \xv ŋwɤ˩ɬv̩˧-ko˧lo˥ go˩.
 \xe to feel pain inside the knee
 \xn 膝盖疼。
 \xf avoir mal dans le genou
+\rf M23
 \dt 09/Sep/2015
 
 \lx ŋwɤ˧pʰæ˧˥
@@ -41586,11 +41586,11 @@
 \xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
 \xn 东推西挤
 \xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (ex.: à la gare, quand il y a presse pour acheter un billet de train)
-\rf Housebuilding2
 \xv ʈʂe˧ | le˧-pʰæ˩~pʰæ˩
 \xe to throw earth here and there: a chicken is scratching the soil to find food, and sends spurts of earth here and there
 \xn 将土扔这里扔那里：一只鸡在抓地找吃的，让土飞这里飞那里
 \xf rejeter la terre de droite et de gauche : une poule gratte la terre à la recherche de nourriture, et fait voler de la terre de droite et de gauche
+\rf Housebuilding2
 \dt 18/Jul/2016
 
 \lx pʰæ˧β
@@ -42614,8 +42614,7 @@
 \xn |fv{/pi˧tsʰe˩/}是一个普米族村落！
 \xf |fv{/pi˧tsʰe˩/}, c'est un village pumi!
 \dt 26/Apr/2017
-
-xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: "Allons donc!" Paraphrase: "Pas du tout! Il ne faut pas s'en faire!"
+ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: "Allons donc!" Paraphrase: "Pas du tout! Il ne faut pas s'en faire!"
 \lx pʰe!
 \or yyyy
 \ps intj
@@ -43519,11 +43518,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 球
 \df Ballon.
 \gf ballon
-\rf F5
 \xv po˧po˧ lɑ˧˥
 \xe to play (foot)ball
 \xn 打球
 \xf jouer au ballon
+\rf F5
 \dt 27/Apr/2017
 
 \lx po˧po˧tsʰɤ˧˥
@@ -44364,11 +44363,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to pour out, to spill on the floor
 \xn 往外倒
 \xf renverser, verser à terre, jeter à terre
-\rf F5
 \xv ɖæ˩˥ | mv̩˩tɕo˧ pʰv̩˥
 \xe to throw out garbage, to pour garbage (out of a bucket onto a dirt heap)
 \xn 倒垃圾
 \xf jeter des ordures
+\rf F5
 \dt 10/Sep/2015
 
 \lx pʰv̩˧˥
@@ -47650,12 +47649,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to be seated, leaning forward, torso bent towards the thighs
 \xn 坐着身体缩成一团
 \xf être assis penché en avant, le torse penché vers les cuisses
-\rf M23
 \xv ɲi˧-qʰv̩˧-ʝi˥ | tʰi˧-dzi˩
 \xe to be seated, leaning forward, torso bent towards the thighs
 \xn 坐着身体缩成一团
 \xf être assis penché en avant, le torse penché vers les cuisses
 \xc <langue="fra"> expression refusée par la consultante principale
+\rf M23
 \dt 01/Oct/2015
 
 \lx qʰv̩˧˥
@@ -48967,11 +48966,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe inside the mouth
 \xn 嘴巴里
 \xf à l'intérieur de la bouche
-\rf F5
 \xv ko˩pi˩-ko˩lo˧
 \xe inside the mouth
 \xn 嘴巴里
 \xf dans la bouche, à l'intérieur de la bouche
+\rf F5
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧pɤ˥$
@@ -50512,7 +50511,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 小松树尖
 \xf pousse de sapin; littéralement «pousses d'aiguilles de sapin»
 \xc ton: L+#H-
-\rf F4
 \xv kv̩˧-ʁo˧bv̩˥
 \xo guwobbu
 \xc <type="tone"> H#
@@ -50532,6 +50530,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe Tree sprout.
 \xn 树萌芽
 \xf Pousse d'arbre.
+\rf F4
 
 \lx ʁo˧dɑ˧
 \sf <nb="B"> 703
@@ -51051,7 +51050,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to take care of people
 \xn 照顾人
 \xf s'occuper des gens
-\rf F5
 \xv no˧ | njɤ˧ ʁo˧mæ˧˥!
 \xe You take good care of me! (A satisfied comment by an elderly person to someone who takes care of them)
 \xn 你很关心我啊！（老人满意地说）
@@ -51060,6 +51058,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe She is great at taking care of people! (A comment about the lady of the house)
 \xn 她很会管家！（对女主人的表扬）
 \xf Elle sait à merveille s'occuper des gens/prendre soin des gens! (Commentaire au sujet d'une maîtresse de maison)
+\rf F5
 \dt 27/Apr/2017
 
 \lx ʁo˧mi˧
@@ -51361,11 +51360,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 尖
 \df Pointu.
 \gf pointu
-\rf F5
 \xv ʁo˧tɕʰɤ˧~tɕʰɤ˧-gv̩˧
 \xe sharp
 \xn 尖
 \xf pointu
+\rf F5
 \dt 01/Oct/2015
 
 \lx ʁo˧ʈʂe˩
@@ -51391,11 +51390,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 头皮
 \df Pellicules (des cheveux).
 \gf pellicules
-\rf M23
 \xv ʁo˧ʈʂe˩ | ɖwæ˧˥ | tʰi˧ di˩!
 \xe (She/he) has a lot of dandruff!
 \xn 他长了很多癣！
 \xf (il/elle) a vraiment plein de pellicules!
+\rf M23
 \dt 01/Oct/2015
 
 \lx ʁo˧tsʰe˧ʁo#˥
@@ -51746,11 +51745,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe the donkey is braying
 \xn 驴在叫
 \xf l'âne brait
-\rf F5
 \xv ʐwæ˧ | tʰi˧-ɻwæ˥-dʑo˩
 \xe the horse is whinnying
 \xn 马在嘶
 \xf le cheval est en train de hennir
+\rf F5
 \sn 2
 \de To invite, to call over.
 \ge to_invite
@@ -51972,11 +51971,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe in the village
 \xn 村子里
 \xf dans le village
-\rf M23
 \xv ɖɯ˧-ʁwɤ˧ mɤ˧-ɲi˩: | ʈʂʰɯ˧-ʁwɤ˧… | ʈʂʰɯ˧-ʁwɤ˧…
 \xe These do not belong to the same village: here, it is the village named…; over there, it is the village named…
 \xn 它们不属于一个村落：这边，是……村，而那边，是……村。
 \xf Ce n'est pas le même endroit (littéralement: ce n'est pas le même village): ici, c'est (le village de)…; là, c'est (le village de)…
+\rf M23
 \dt 02/Oct/2015
 
 \lx ʁwɤ˧
@@ -52374,11 +52373,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 面
 \df Direction, côté.
 \gf côté
-\rf “Housebuilding"
 \xv ʐv̩˧-ɻ̍˥
 \xe the four directions, the four sides (e.g. of a house)
 \xn 四面
 \xf les quatre directions, les quatre côtés (d'une maison)
+\rf “Housebuilding"
 \dt 22/Jun/2017
 
 \lx ɻ̍̃˧β
@@ -54605,11 +54604,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 森林
 \df Forêt (clairsemée).
 \gf forêt_clairsemée
-\rf F5
 \xv tʰo˧ɕi˧˥
 \xe pine forest
 \xn 松树森林
 \xf forêt de pins
+\rf F5
 \dt 05/Oct/2015
 
 \lx si˧dzi˩
@@ -54866,11 +54865,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 吸管（借词）
 \df Paille (pour boire un liquide à la paille).
 \gf paille_pour_boire
-\rf F5
 \xv si˩kwæ˧-qo˧-ɳɯ˧ | ʈʰɯ˩˥
 \xe to drink with a straw
 \xn 用吸管喝
 \xf boire à la paille
+\rf F5
 \dt 23/Jun/2017
 
 \lx si˧kwɤ˩
@@ -55285,16 +55284,16 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 早上献给神的食物
 \df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: |fv{/so˧ dze˧-bæ˩bæ˩/}); on le fait brûler sur un feu d'épines de pin.
 \gf offrande_du_matin_aux_esprits
-\rf M23
 \xv so˧ qæ˩
 \xe to burn an offering
 \xn 烧献给神（食物，……）
 \xf brûler une offrande; traditionnellement, du pin gorgé de résine.
-\rf F4
+\rf M23
 \xv so˧ | tʰi˧-qæ˩, | so˧dze˧ tʰi˧-kʰɯ˧˥
 \xe to burn an offering containing a special blend of ingredients
 \xn 烧蜂蜜献给神
 \xf faire brûler du miel en offrande
+\rf F4
 \dt 06/Oct/2015
 
 \lx so˥
@@ -56450,12 +56449,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to peel potatoes
 \xn 削洋芋皮
 \xf peler des patates
-\rf F5
 \xv tso˧~tso˧ ɣɯ˥ʂɯ˩
 \xe to peel things
 \xn 削东西
 \xf éplucher des choses
 \xc <type="hist" print="n" langue="fra"> formule refusée par M21, soucieux de plausibilité pragmatique
+\rf F5
 \dt 09/Oct/2015
 
 \lx ʂɯ˧˥
@@ -56628,11 +56627,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe [the book] has turned yellow!
 \xn [书]变黄了！
 \xf [le livre] a jauni!
-\rf F5
 \xv ʂɯ˩kwæ˩˥ | ʂɯ˩kwæ˩˥ | gv̩˩
 \xe very yellow
 \xn 深黄
 \xf tout jaune
+\rf F5
 \dt 16/Jun/2017
 
 \lx ʂɯ˧-ɬi˧mi˧
@@ -57718,11 +57717,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to have a fit of nostalgia
 \xn 想念
 \xf être nostalgique, avoir une crise de nostalgie
-\rf F5
 \xv ʂv̩˧ɖv̩˧ mɤ˧-zo˧
 \xe There's no need to worry / feel unhappy
 \xn 不用发愁
 \xf on n'a pas à se faire de souci, il n'y a pas lieu de se morfondre
+\rf F5
 \sn 4
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -57838,11 +57837,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe a sheet of paper
 \xn 一张纸
 \xf une feuille de papier
-\rf F5
 \xv ʂv̩˧ʂv̩˧ ɖɯ˧ pʰæ˧˥
 \xe a sheet of paper
 \xn 一张纸
 \xf une feuille de papier
+\rf F5
 \dt 09/Oct/2015
 
 \lx ʂwæ˩˥
@@ -57888,11 +57887,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 这个楔子
 \xf |fg{n}+|fg{dem}+|fg{clf}.morceaux
 \xc PHONO
-\rf F5
 \xv ʂwæ˩ kʰɯ˥
 \xe to place a wedge, to put a wedge
 \xn 放一个楔子
 \xf mettre un coin
+\rf F5
 \dt 09/Oct/2015
 
 \lx ʂwæ˧
@@ -58332,12 +58331,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 不怎么好吃！我不喜欢吃！
 \xf Ce n'est pas vraiment bon! Je n'aime pas en manger!
 \xc <langue="fra"> La construction |fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/} signifie ‘pas tellement', |fn{‘……不怎么……’}.
-\rf Mushrooms
 \xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥!
 \xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
 \xn 黄蜡伞不怎么会让人中毒！/ 毒性不太大！
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
 \xc <langue="fra"> /mɤ˧-tʰɑ˧˥ | V-mɤ˧-kv̩˧˥/: signifie ‘pas tellement', ‘pas tant que ça'
+\rf Mushrooms
 \dt 09/Oct/2015
 
 \lx ʈʰæ˧˥
@@ -58934,11 +58933,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe same meaning: proverb (literally ‘proverb of yore')
 \xn 同上：谚语（直译：‘从前的老话’）
 \xf même sens: proverbe (littéralement: ‘proverbe ancien')
-\rf F5
 \xv æ˧ʂæ˧-tɑ˥mv̩˩
 \xe proverb; traditional story
 \xn 谚语、传统故事
 \xf proverbe; histoire ancienne
+\rf F5
 \dt 09/Oct/2015
 
 \lx tɑ˧nɑ˩
@@ -60017,11 +60016,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 酸
 \df Acide.
 \gf acide
-\rf M18
 \xv tɕi˧-hĩ˧ pʰi˩
 \xe to have acid reflux
 \xn 吐酸水
 \xf avoir des remontées acides
+\rf M18
 \sn 2
 \de Sour, fermented.
 \ge sour
@@ -61580,11 +61579,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe |fg{dur}
 \xn |fg{dur}
 \xf |fg{dur}
-\rf F5
 \xv ɖɯ˩hĩ˧ | ɖɯ˩˧ | tʰi˧-tɕɯ˥, | tɕi˩hĩ˧ | tɕi˩˧ | tʰi˧-tɕɯ˥
 \xe to put big ones with big ones, small ones with small ones
 \xn 大小归类
 \xf mettre les grands avec les grands, les petits avec les petits
+\rf F5
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -62880,13 +62879,13 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn （他）拍打了某人。
 \xf (Elle/il) a donné une tape à quelqu'un.
 \xc
-\rf F4
-\rf F5
 \xv ʁo˧qʰwɤ˩ ti˩~ti˩
 \xo
 \xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame)
 \xn 崩头（在进主屋的时候，容易崩头在门框上）
 \xf se cogner la tête (par exemple, sur le haut de l'encadrement étroit de la porte d'entrée de la pièce principale)
+\rf F4
+\rf F5
 \dt 09/Jun/2018
 
 \lx ti˧˥α
@@ -64859,13 +64858,13 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 炒糌粑，制作糌粑
 \xf préparer du tsamba/de la farine grillée
 \xc
-\rf F5
 \xv bo˩hɑ˧-tsɑ˧bɤ˥
 \xo
 \xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
 \xn 用来煮猪食的面粉（玉米面粉）
 \xf Farine à pâtée: farine employée pour la confection de la pâtée pour cochons. (A la date de l'enquête, cette farine était obtenue par mouture d'une variété de maïs non utilisée pour la consommation humaine.)
 \xc <type="tone"> LM+H#
+\rf F5
 \dt 08/Jul/2018
 
 \lx tsʰɑ˧bo#˥
@@ -66278,11 +66277,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 十六号
 \df Le 16e jour du mois.
 \gf 16e_jour
-\rf F5
 \xv tsʰe˧do˧˥ | tsʰe˩qʰv̩˩ɲi˩˥
 \xe same meaning
 \xn 同上
 \xf même sens
+\rf F5
 \dt 27/Apr/2017
 
 \lx tse˩qwæ˧˥
@@ -66473,7 +66472,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 骂狗的话
 \df Sac à puces: terme d'insulte pour un chien.
 \gf sac_à_puces
-\xv tse˩ʈʂʰv̩˩-kʰv̩˧ ! | mv̩˩tɕo˧ se˥ !
+\xv tse˩ʈʂʰv̩˩-kʰv̩˧ ! | mv̩˩tɕo˧ se˥ !
 \xe Come down, you damn dog!
 \xn 你这坏狗，下去！
 \xf Descends, sac à puces! (Injonction adressée à un chien qui s'aventurait dans la partie haute de la salle à manger)
@@ -70063,7 +70062,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n"> avant 2012: avais noté: ʈʂʰæ˧ɻ̍˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975 ; rencontrée pendant les travaux des champs en nov. 2007.
+\nt <type="hist" print="n"> avant 2012: avais noté: ʈʂʰæ˧ɻ̍˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975 ; rencontrée pendant les travaux des champs en nov. 2007.
 \np phonétiquement: ressemble beaucoup à tsʰɤ.ɻ, du fait d'une plus grande aperture de la rime de /tsʰɯ/, par anticipation du /ɻ/ qui suit
 \ton #H
 \lc tsʰɯ˧ɻ̍˧
@@ -72211,10 +72210,10 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \df Nombreux.
 \gf nombreux
 \xv mv̩˧ʁo˧=ɻ̍˥-dʑo˩, | ɻæ˩˥ | tʰv̩˧-si˥ | tʰv̩˩-jɤ˩ dʑo˩˥!
-\rf Seeds
 \xe The People of the Sky had seeds in profusion!
 \xn 天上的人，有许多许多种子！
 \xf Les gens du Ciel, ils avaient des semences en abondance!
+\rf Seeds
 \dt 05/Aug/2017
 
 \lx tʰv̩˧-sɯ˩kv̩˩
@@ -72259,7 +72258,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 时间
 \df Temps.
 \gf temps
-\rf F5
 \xv njɤ˧ | tv̩˧tsʰɯ˧ mɤ˧-dʑo˧.
 \xe I don't have the time.
 \xn 我没时间。
@@ -72271,6 +72269,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 我有时间。
 \xf J'ai du temps libre. / J'ai le temps.
 \xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
+\rf F5
 \dt 18/Jul/2016
 \sn 2
 \pdl classifier
@@ -72293,11 +72292,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe One hour has gone by.
 \xn 一个小时过去了。
 \xf Une heure s'est écoulée.
-\rf F5
 \xv tv̩˧tsʰɯ˧ qʰɑ˧-ɭɯ˧?
 \xe What time is it? (Literally: ‘How many hours?’)
 \xn 几点了？
 \xf Quelle heure est-il?
+\rf F5
 \dt 22/Aug/2014
 
 \lx tv̩˧tsʰɯ˧li˧di˩
@@ -73175,11 +73174,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 蔬菜
 \df Légumes.
 \gf légumes
-\rf Housebuilding2
 \xv v̩˩tsʰɤ˧-tsʰɑ˧nɑ˥
 \xe fresh vegetables. Literally ‘dark vegetables'. This does not refer to one species in particular, but to all sorts of fresh vegetables, as opposed to pickled vegetables. In the process of preserving vegetables, their original darker colours tend to fade away.
 \xn 新鲜蔬菜。直译：‘绿油油的青菜’。指的不是某种具体的青菜，而是任何新鲜蔬菜，分别于酸菜。制造酸菜的过程中，蔬菜（萝卜等等）褪色：失去原来的深色。
 \xf légumes frais. Littéralement ‘légume de couleur sombre. L'expression ne renvoie pas à une espèce en particulier, mais désigne globalement les légumes verts, par opposition aux légumes conservés, qui perdaient de leur couleur au cours du processus de fermentation.
+\rf Housebuilding2
 \dt 13/Jul/2017
 
 \lx v̩˩tsʰɤ˧-bv̩#˥
@@ -73344,7 +73343,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe same meaning: turnip leaves
 \xn 同上：圆根叶子
 \xf même sens: feuilles du navet
-\rf Housebuilding2
 \xv wo˩-v̩˥tsʰɤ˩
 \xe same meaning: turnip leaves; literally ‘turnip leaves vegetable', emphasizing the fact that they are used as a vegetable: as an ingredient in a recipe
 \xn 同上：圆根叶子
@@ -73354,6 +73352,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe pickled turnip leaves
 \xn 圆根叶子酸菜
 \xf feuilles du navet conservées dans la saumure
+\rf Housebuilding2
 \dt 27/Apr/2017
 
 \lx wo˧˥
@@ -73645,7 +73644,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 绕一绕
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\rf PHONO
 \xv wɤ˩~wɤ˩ bi˩˥
 \xe |fg{imm_fut}
 \xn |fg{imm_fut}
@@ -73660,6 +73658,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to bypass on foot; to walk past, bypassing (a certain place)
 \xn 走路绕过
 \xf contourner à pied
+\rf PHONO
 \dt 27/Apr/2017
 
 \lx ʐ
@@ -73693,11 +73692,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 仅仅
 \df Limité à, restreint à (en tournure négative).
 \gf limité_à
-\rf Funeral
 \xv ʁwɤ˧-qo˧-ɳɯ˧-lɑ˧ mɤ˧-zɑ˥ (…)
 \xe not only the people from the village
 \xn 不仅有村子里的人
 \xf Il n'y avait pas que les gens du village (…)
+\rf Funeral
 \dt 27/Apr/2017
 
 \lx ʐæ˩˥
@@ -75852,11 +75851,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe with lines/patterns / there are lines/patterns
 \xn 有花纹
 \xf qui a des motifs, des dessins (ex.: un tissu)
-\rf F5
 \xv bɑ˩lɑ˩˥ | ʈʰɯ˧-ɭɯ˥-bi˩ | ʐɤ˩ʐɤ˧ tʰi˧-di˥
 \xe There are lines/patterns on this piece of clothing.
 \xn 这衣服上面有花纹。
 \xf sur ce vêtement il y a un motif
+\rf F5
 \dt 07/Oct/2015
 
 \lx zo˧ʐɤ#˥
@@ -75933,12 +75932,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe |fg{red} |fg{pfv}
 \xn |fg{red} |fg{pfv}
 \xf |fg{red} |fg{pfv}
-\rf PHONO
 \xv le˧-ʐo˩~ʐo˩
 \xe |fg{accomp} |fg{red}
 \xn |fg{accomp} |fg{red}
 \xf |fg{accomp} |fg{red}
 \xc PHONO
+\rf PHONO
 \dt 07/Oct/2015
 
 \lx ʐo˩α
@@ -76257,11 +76256,11 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe green
 \xn 绿
 \xf de couleur verte
-\rf F5
 \xv zɯ˧hṽ̩˩ | ~zɯ˧hṽ̩˩-ni˩gv̩˩
 \xe all green, green all over
 \xn 全绿
 \xf tout vert
+\rf F5
 \dt 07/Oct/2015
 
 \lx ʐɯ˧ɭɯ˧
@@ -77884,12 +77883,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 可以摆东西的（家具）
 \xf (meuble/objet) sur lequel on pose des choses
 \xc
-\rf F5
 \xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥! |
 \xo
 \xe Take your stuff for washing! (soap, shampoo, towel...) (Context: someone is going to spend the night in a guest house that has running water.)
 \xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
 \xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison d'hôte qui a l'eau courante.)
+\rf F5
 \dt 05/Jul/2017
 
 \lx †dze˩˧
@@ -78016,7 +78015,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to buy one after the other (context: someone buys one horse after the other, to put together a complete caravan of his own)
 \xn 一个接着一个地买（情景：一个人接二连三地买马，最后组成自己的马帮队）
 \xf en acheter un après l'autre (contexte: un caravanier achète des chevaux l'un après l'autre, afin de se constituer sa propre caravane)
-\rf F5
 \xv gi˧˥ | ɖɯ˧-qɑ˩ gv̩˩-bi˩!
 \xo Ggi ddeegha gguq bbi!
 \xe Let's do one last bundle! (Context: women are extracting flax fiber, processing bundle after bundle; towards the end of a long work session, someone says: “Let's do one last bundle! / One last bundle and we shall call it a day!")
@@ -78027,6 +78025,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to walk after, to follow after
 \xn 在后面走，在后面跟着
 \xf marcher derrière, suivre derrière
+\rf F5
 \dt 05/Jul/2017
 
 \lx ‑gɤ˧bi#˥
@@ -78206,17 +78205,17 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe near the house, in the vicinity of the house
 \xn 房子周围
 \xf aux alentours de la maison
-\rf F5
 \xv njɤ˧-bv̩˧ | kʰi˧~kʰi˧
 \xe near me, around me
 \xn 我的周围
 \xf à côté de moi, autour de moi
 \xc <langue="fra"> emploi nominalisé
-\rf M21
+\rf F5
 \xv ʐɤ˩mi˩-kʰi˩~kʰi˩ se˩˥
 \xe to walk on the roadside, to walk by the side of the road
 \xn 走在马路边
 \xf marcher au bord de la route
+\rf M21
 \dt 03/Sep/2015
 
 \lx ‑kv̩˧˥
@@ -78278,7 +78277,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 他病了，吃不下饭。
 \xf Comme il est malade, il ne mange pas.
 \xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: |fv{/†ʈʂʰɯ˧ gu˩ kwɤ˩-tɕi˧, hɑ˧ mɤ˧-dzɯ˥/}.
-\rf M18
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | wɤ˩˥ | lɑ˧hɑ˥ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥.
 \xe After he said that, he went on to say something different / he changed his mind and said something quite different.
 \xn 他这样说完以后，又讲了些其它的。
@@ -78288,6 +78286,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe After he got seated, he said the following: “How comfortable!"
 \xn 他坐下后，说了这么一句：“真舒服！”
 \xf après s’être assis/lorsqu’il fut assis, il dit une phrase: «quel confort!»
+\rf M18
 \dt 05/Aug/2017
 
 \lx ‑læ˧
@@ -78425,7 +78424,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 像
 \df Comme.
 \gf comme
-\rf M18
 \xv no˧-ɳɯ˧ hwæ˧-ne˧-ʝi˥ | zo˧!
 \xe as if you were buying
 \xn 就像你来买一样！
@@ -78466,6 +78464,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 像那天一样、就像那天
 \xf comme ce jour-là, de la même façon que ce jour-là
 \xc <langue="fra"> avant octobre 2013: noté: /tʰv̩˧ɲi˧-ni˧˥-zo˩/. Il y a contraction phonétique, mais pas encore phonologique: la réduction syllabique n'est pas totale.
+\rf M18
 \dt 05/Jul/2017
 
 \lx ‑ɲi˩
@@ -78527,7 +78526,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe to be accustomed to, to get accustomed to
 \xn 习惯（一个环境）
 \xf s’habituer, s'accoutumer, prendre ses habitudes (dans un environnement)
-\rf élicitation lors de la transcription de Agriculture.70
 \xv li˩ ʈʰɯ˩-bi˩-ni˩-gv̩˩˥
 \xe to have a habit of drinking tea, to be a tea-drinker
 \xn 习惯喝茶、有喝茶的习惯
@@ -78538,6 +78536,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 他好像要死了！
 \xf On dirait qu'il/elle va mourir!
 \xc <langue="fra"> Peut se dire d'une plante, mais aussi d'un être humain.
+\rf élicitation lors de la transcription de Agriculture.70
 \dt 06/Oct/2015
 
 \lx ‑no˧˥
@@ -78622,12 +78621,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
 \xc
-\rf F5
 \xv v˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
 \xo
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
+\rf F5
 \dt 27/Apr/2017
 
 \lx ‑pɤ˧to˩
@@ -78716,7 +78715,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 关于……
 \df marqueur de topicalisation: en ce qui concerne... Ce marqueur est systématiquement accompagné d'une focalisation intonative du mot qui précède.
 \gf |fg{top}
-\rf BuriedAlive2.39
 \xv le˧-nv̩˥ F -qɑ˩
 \xe In fact, he knew (all about it)!
 \xn 因为他好像知道（那件事）的！
@@ -78736,6 +78734,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 关于坐……
 \xf pour ce qui est de s'asseoir...
 \xc PHONO
+\rf BuriedAlive2.39
 \dt 05/Jul/2017
 
 \lx ‑qo˧
@@ -78758,12 +78757,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn 里
 \df Dans.
 \gf dans
-\rf F5
 \xv ɑ˩ʁo˧-bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
 \xo
 \xe Let's eat in the bowls of the house! (Context: the host wonders whether guests want to use their own bowls to eat cereals that they brought along, or whether it's all right to use the house's dishes.)
 \xn 用家里的碗吃吧！（情景：客人拿过来了自己的燕麦片和铁碗，早上用自己的碗吃自己的麦片。有一天，他忘了拿自己的铁碗，主人说：用家里的碗吧！）
 \xf Mangeons dans les bols de la maison! (Contexte: des invités ont apporté leur propre muesli et leur propre bol, et prennent le petit déjeuner à part; un jour où ils ont oublié leur bol, la maîtresse de maison suggère: utilisons donc la vaisselle de la maison!)
+\rf F5
 \dt 13/May/2018
 
 \lx ‑qo˧lo˩
@@ -79097,12 +79096,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xf plein de cervelle
 \xc <langue="fra"> ton du nom: MH
 \xc PHONO
-\rf F5
 \xv v̩˩tsʰɤ˧-ʂo˧~ʂo˥!
 \xo
 \xe It's full of vegetables / it's packed with vegetables! (A comment about pigswill: it contains a lot of vegetables.)
 \xn
 \xf C'est plein de légumes! (Commentaire au sujet de la pâtée des cochons: elle contient des légumes en abondance.)
+\rf F5
 \dt 27/Apr/2017
 
 \lx ‑sɯ˧
@@ -79167,12 +79166,12 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xn 你先自己工作（一会）吧！（情景：调查者早上到合作人的家，但她忙着，而她知道调查者有不同类型的工作要做，其中有一些可以自己做，比如重新核对记录过的长篇语料。她说：“你先忙自己的一会吧！”）
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
 \xc
-\rf F5
 \xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥! |
 \xo
 \xe Don't feed the dog yet! / Don't give the dog food yet!
 \xn 先别喂狗！/先别给狗食！/不要现在给狗食！
 \xf Ne donne pas la pâtée au chien pour l'instant! / Ce n'est pas encore le moment de donner la pâtée au chien!
+\rf F5
 \dt 08/Jul/2018
 
 \lx †ʈʰæ˩
@@ -79270,7 +79269,6 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \gn ……好了
 \df Forme grammaticalisée de |fv{/tɕɯ˥/} ‘mettre, placer'; elle exprime que l'action est finie, que son terme est maintenant dépassé, et qu'on peut passer à autre chose: de même que, une fois un objet posé à sa place, on peut tourner son attention vers un autre.
 \gf morphème_aspectuel
-\rf Dog
 \xv gɤ˩-ʈʂʰwæ˧-tɕɯ˧˥ / gɤ˩-ʈʂʰwæ˧-tɕɯ˧-zo˥
 \xe to wake up, to awaken
 \xn 醒过来、醒来
@@ -79283,6 +79281,7 @@ xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: 
 \xe (Go ahead and) drink this bowl of wine!
 \xn 把这碗酒喝了下去！
 \xf Bois donc ce bol de vin!
+\rf Dog
 \dt 27/Apr/2017
 
 \lx ‑tsæ˧α
