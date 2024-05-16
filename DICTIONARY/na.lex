@@ -3243,15 +3243,25 @@
 \gn 普米族
 \df Pumi (Prinmi) (groupe ethnique).
 \gf Pumi
-\xv bɤ˧-ʐwɤ˧˥
-\xe the Pumi language
-\xn 普米语
-\xf la langue pumi (prinmi)
+
+\lx bɤ˧-ʐwɤ˧˥
+\or Bberua
+\ps n
+\sd <langue="fra"> langage
+\sd <langue="eng"> language
+\ton MH#
+\lc bɤ˧ʐwɤ˧˥
+\so <print="n"> F4
+\de The Pumi language.
+\ge Pumi_language
+\dn 普米语
+\gn 普米语
+\df Langue pumi.
+\gf langue_pumi
 \xv bɤ˧-ʐwɤ˧ so˥
 \xe to learn the Pumi language
 \xn 学普米语
 \xf apprendre la langue pumi (prinmi)
-\dt 26/Aug/2015
 
 \lx bo˩β
 \or bbo
@@ -22251,6 +22261,10 @@
 \gn 讲
 \df Parler (une certaine langue).
 \gf parler
+\xv nɑ˩-ʐwɤ˥ ʝi˩
+\xe to speak the Na language, to speak in Na
+\xn 讲摩梭话
+\xf parler la langue na, parler en na
 \xv ʈʰɯ˧ | bɤ˧-ʐwɤ˧ ʝi˥-dʑo˩!
 \xe She is speaking Pumi!
 \xn 她在讲普米语！
