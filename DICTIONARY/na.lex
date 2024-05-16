@@ -257,7 +257,7 @@
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
-\nt <type="hist" print="n"> xxxx à vérifier en combinaison avec le verbe "acheter": si ça donne æ˩mo˧ hwæ˧, c'est ˩ ˧ ; si çɑ donne æ˩mo˥ hwæ˩, c'est ˩ ˥.
+\nt <type="hist" print="n"> vérifié en 2024: en combinaison avec le verbe "acheter", donne æ˩mo˧ hwæ˧, confirmation que le ton lexical est LM ˩ ˧. Si on avait obtenu æ˩mo˥ hwæ˩, cela aurait signalé un ton LH ˩ ˥.
 \ton LH
 \lc æ˩mo˥
 \so <print="n"> F4
@@ -1355,7 +1355,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014; nouvelle vérification en 2016: la nasalité est bien présente : la première syllabe est homophone de ‘poulet'; elle provient de ce morphème, et garde la même voyelle nasale.
-\nt <type="hist" print="n"> avant 2024: traduit comme: "du matin au soir"; en fait: désignerait plutôt le matin et le soir, pas toute la journée. Source: TS. xxxx ama
+\nt <type="hist" print="n"> avant 2024: traduit comme: "du matin au soir"; en fait: désignerait plutôt le matin et le soir, pas toute la journée, d'après TS. Après discussion avec F4, il est confirmé que dans son parler à elle, cela désigne bien "du matin au soir".
 \ton L#-
 \lc æ̃˧ʈwɤ˩mv̩˩kʰv̩˩
 \so <print="n"> F4
@@ -1900,7 +1900,8 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> bɑ22lɑ55qɤ55tɕʰõ22
-\nt <type="hist" print="n"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩. xxxx vérifier à nouveau: même mot pour "araignée" et "toile d'araignée"?
+\nt <type="hist" print="n"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩.
+\nt <type="hist" print="n"> Confirmé à nouveau en 2024: est bien le même mot pour "araignée" et "toile d'araignée".
 \ton MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -1919,8 +1920,6 @@
 \sn 2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <langue="pumi" type="comp" print="n"> bɑ22lɑ55qɤ55tɕʰõ22
-\nt <type="hist" print="n"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩. xxxx vérifier à nouveau: même mot pour "araignée" et "toile d'araignée"?
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -2060,28 +2059,6 @@
 \df Longue corde.
 \gf longue_corde
 \dt 26/Aug/2015
-
-\lx bæ˧mi˧
-\hm 3
-\sf <nb="B"> 44
-\sf <nb="2011"> 71
-\or bbaemi
-\ps n
-\sd <langue="fra"> environnement naturel
-\sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> ajouté en 2024, reprenant une information de RD en 2017 xxxx
-\ton M
-\lc bæ˧mi˧
-\so <print="n"> F4
-\pdl classifier
-\pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
-\de Canal.
-\ge canal
-\dn 水渠
-\gn 水渠
-\df Canal, rigole.
-\gf rigole
 
 \lx bæ˧mi˧-mi˩
 \or bbaemimi
@@ -2965,14 +2942,13 @@
 \sd <langue="eng"> plant
 \ton L-
 \so <print="n"> F4
-\va <speaker="M18"> ʈʂʰɯ˧ | bi˩-tsɯ˧tsɯ˧ ɲi˩.
+\va <speaker="M18"> ID.
 \de Wild strawberry, |fi{Fragaria vesca}.
 \ge wild_strawberry
 \dn 野草莓
 \gn 野草莓
 \df Fraise sauvage, |fi{Fragaria vesca}.
 \gf fraise_sauvage
-\dt 24/Apr/2017
 
 \lx bi˩wɤ˧
 \sf <nb="B"> 540b
@@ -3683,13 +3659,13 @@
 \xn 抓母猪
 \xf attraper une truie
 \xc PHONO
-\xc <langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lb. Vérifié en 2014.
+\xc <type="phono" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lb. Vérifié en 2014.
 \xv bo˩mi˧ do˩ (+ze˩)
 \xe …has seen (a/the) sow
 \xn 见了母猪
 \xf …a vu (une/la) truie
 \xc PHONO
-\xc <langue="fra"> Avais d'abord noté: bo˩mi˧ do˧ +ze˩. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb). Vérifié en 2017: est en fait bien: /bo˩mi˧ do˩/.
+\xc <type="hist" print="n" langue="fra"> Avais d'abord noté: |fv{bo˩mi˧ do˧ +ze˩}. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb). Vérifié en 2017: est en fait bien: |fv{bo˩mi˧ do˩}.
 \xv bo˩mi˧-bæ˧bv̩˥
 \xe sow and piglets
 \xn 母猪与猪仔
@@ -3709,14 +3685,13 @@
 \sd <langue="eng"> animal
 \ton LM-L
 \so <print="n"> F4
-\va <speaker="M21"> périphrase: dʑi˧ku˧bv̩˧ “insectes
-\vf qu'il y a) dans l'eau"
+\va <speaker="M21"> périphrase: |fv{dʑi˧ku˧bv̩˧} “insectes qu'il y a) dans l'eau"
 \vf utile pour étudier les composés avec “eau"
 \de |fi{(Dytiscus}, a predaceous diving beetle.
 \ge dytiscus
 \dn 龙虱
 \gn 龙虱
-\df Dytique, |fi{Dytiscus}.
+\df Dytique, |fi{Dytiscus}. xxxx sens à vérifier : dytique ou charançon ?
 \gf dytique
 \dt 04/Aug/2017
 
@@ -4407,6 +4382,7 @@
 \dt 29/Jul/2017
 
 \lx bv̩˥
+\hm 4
 \sf <nb="B"> 1805
 \sf <nb="2011"> 2742
 \or bbu
@@ -7487,7 +7463,6 @@
 \xf …a vu (une/la) truie
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> note ancienne: “schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb), mais ce schéma n'est pas acceptable". En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
-\dt 27/Aug/2015
 
 \lx do˧bæ˧
 \sf <nb="B"> 167
@@ -19465,16 +19440,18 @@
 \xc <langue="fra"> La construction adjectivale et la forme lexicalisée existent toutes deux.
 \dt 02/Sep/2015
 
-\lx hĩ˧mɤ˧gɤ˥
+\lx mɤ˧-gɤ˩
 \sf <nb="B"> 1329
 \sf <nb="2011"> 1906
-\or (hin) megge
+\or megge
 \ps v
-\ton H#
-\lc hĩ˧mɤ˧gɤ˥
+\ton L
+\lc mɤ˧-gɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (confirmé)
+\nt <type="hist" print="n"> (confirmé) (2024: on ne peut employer le verbe autrement qu'à la forme négative)
+\nt <type="hist" print="n"> (2024: comme relève Roselle Dobbs, on peut dire: mɤ˧-ɡɤ˩, sans l'objet 'homme'.)
+\nt <type="hist" print="n" langue="eng"> Comment by Roselle Dobbs (2017), confirmed as fully valid by F4 in 2024: Is hĩ not just "person" here? Siggeema is adamant that the word for "jealous" is "megge."  The example in \xv would be "hin megge yi."
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -19484,10 +19461,18 @@
 \gn 妒忌
 \df Envier, être jaloux de.
 \gf envier
-\xv hĩ˧mɤ˧gɤ˥ ʝi˩
+\xv hĩ˧ mɤ˧-gɤ˥ ʝi˩
 \xe to be jealous (of someone), to have a fit of jealousy
 \xn 妒忌
 \xf envier (quelqu'un), faire une crise de jalousie
+\xv ʈʂʰɯ˧ | njɤ˧-ki˧ | mɤ˧-ɡɤ˩ ʝi˩-zo˩!
+\xe (S)he is jealous of me!
+\xn 他妒忌我！
+\xf il/elle m'envie, me jalouse
+\xv ʈʂʰɯ˧ | no˧-ki˧ | mɤ˧-ɡɤ˩ ʝi˩-zo˩!
+\xe (S)he is jealous of you!
+\xn 他妒忌你！
+\xf il/elle t'envie, te jalouse
 \dt 25/Sep/2017
 
 \lx hi˩nɑ˧mi#˥
@@ -22219,13 +22204,14 @@
 \or yi
 \ps v
 \lc ʝi˧
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tv; d'abord noté i˥ puis corrigé à tort en i˧ en 2007; fort allongement de /sɑ/) (lə˧i˥ze˩)
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n"> (tv; d'abord noté i˥ puis corrigé à tort en i˧ en 2007; fort allongement de /sɑ/) (lə˧i˥ze˩)
 \de To do, to work.
 \ge to_do
 \dn 做，工作
@@ -22256,6 +22242,19 @@
 \xe to be busy on all fronts, to juggle with a variety of tasks
 \xn 东忙西忙，一直非常忙
 \xf s'affairer dans tous les sens, courir sans répit d'une tâche à l'autre
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\de To speak (a certain language).
+\ge to_speak
+\dn 讲（某种语言）
+\gn 讲
+\df Parler (une certaine langue).
+\gf parler
+\xv ʈʰɯ˧ | bɤ˧-ʐwɤ˧ ʝi˥-dʑo˩!
+\xe She is speaking Pumi!
+\xn 她在讲普米语！
+\xf Elle est en train de parler pumi!
 
 \lx ʝi˥
 \sf <nb="2011"> 1860
@@ -42601,6 +42600,22 @@
 \xn |fv{/pi˧tsʰe˩/}是一个普米族村落！
 \xf |fv{/pi˧tsʰe˩/}, c'est un village pumi!
 \dt 26/Apr/2017
+
+xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: "Allons donc!" Paraphrase: "Pas du tout! Il ne faut pas s'en faire!"
+\lx pʰe!
+\or yyyy
+\ps intj
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton M
+\lc pʰe!
+\so <print="n"> F4
+\de Interjection signalling that one should not worry, that the matter at issue is not a big deal. Close to: "Come on!"
+\ge |fg{intj.Come_on}!
+\dn 表示事情不严重（没什么大不了的）的叹词：‘嘿！’
+\gn 叹词：‘嘿！’
+\df Bah! Interjection qui signale qu'il ne faut pas s'en faire: «Allons donc!».
+\gf |fg{intj.Bah}!
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi

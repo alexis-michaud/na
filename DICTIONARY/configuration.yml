@@ -1,0 +1,44 @@
+chemins:
+    source: na.lex
+    surconfiguration: informations linguistiques.yml
+    xml: na.xml
+    xsd: na.xsd
+    xsl:
+      # - latex alphabétique français.xsl
+      # - latex alphabétique anglais.xsl
+      - latex alphabétique chinois.xsl
+    latex:
+      # - na français.tex
+      # - na anglais.tex
+      - na chinois.tex
+    pdf:
+      # - résultats/na français.pdf
+      # - résultats/na français.pdf
+      - résultats/na chinois.pdf
+général:
+    titre: 永宁阿拉瓦村摩梭-汉-英-法词典
+    auteur: Alexis Michaud
+    langue: na
+    code de langue: nru
+    commentaire: XML réalisé avec jLexika
+    version: "2.0"
+    licence: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 fr licence (CC BY NC SA 3.0 fr):  https://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
+    ordre lexicographique:
+      graphèmes: [ɑ, ɑ̃, æ, æ̃, b, ɕ, d, dz, dʑ, ɖ, ɖʐ, e, ɤ, ɤ̃, ə, f, g, ɣ, h, i, ĩ, j, jæ, jɤ, je, jo, ʝ, k, kʰ, l, ɭ, ɬ, m, n, ɳ, ɲ, ŋ, o, õ, p, pʰ, q, qʰ, ɻ, ɻ̍, ɻ ̍̃, ʁ, s, ʂ, t, tʰ, tɕ, tɕʰ, ts, tsʰ, ʈ, ʈʰ, ʈʂ, ʈʂʰ, u, ɯ, v, [ṽ̩, ṽ̩], w, wɑ, wæ, wɤ, wo, wɤ̃, w̃, w̃æ, z, ʐ, ʑ, x]
+      tons: [˥, ˧, ˩, α, β, γ, $, "#"]
+
+langues:
+    source 1:
+        code: nru
+        glossonyme: na
+    cible 1:
+        code: eng
+        glossonyme: anglais
+        autoglossonyme: English
+    cible 2:
+        code: fra
+        glossonyme: français
+    cible 3:
+        code: cmn
+        glossonyme: chinois
+        autoglossonyme: 普通话
