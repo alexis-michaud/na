@@ -27892,7 +27892,8 @@
 \xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ (+ tʰv̩˧-v̩˧ / zo˧mv̩˥)
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
-\xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant» xxxx est-ce : le˧-kv̩˧~kv̩˥ ? (auquel cas il faut corriger) ou : le˧-ko˧~ko˥ ? (auquel cas il faut déplacer cet exemple)
+\xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
+\xc <langue="fra"> F4 prononce /le˧-kv̩˧~kv̩˥/.
 \rf F5
 \sn 2
 \sd <langue="fra"> verbe
@@ -65649,6 +65650,27 @@
 \xf étendre quelque chose: par exemple, faire sortir un bâton par une fenêtre
 \dt 08/Oct/2015
 
+\lx ʈʂʰe˧~ʈʂʰe˩
+\or zheizhei
+\ps adv
+\sd <langue="fra"> syntaxe
+\sd <langue="eng"> syntax
+\nt <type="ton" print="n"> S'il s'agit bien d'une forme rédupliquée, d'après les règles tonales dans la réduplication des verbes, il peut s'agir d'un ton de base Ma, Mc ou Lb.
+\nt <type="hist" print="n">
+\ton L#
+\lc ʈʂʰe˧~ʈʂʰe˩
+\so <print="n"> F4
+\de As a joke, just for a laugh, in jest.
+\ge as_a_joke
+\dn 开玩笑的，二级笑料
+\gn 开玩笑的
+\df Pour rire, sur le registre de la blague, au second degré.
+\gf pour_rire
+\xv ʈʂʰe˧~ʈʂʰe˩ ʐwɤ˩-hĩ˩ ɲi˩!
+\xe He said it as a joke! / He's joking! / Just joking!
+\xn 开玩笑说的！
+\xf C'est une blague! / C'est juste pour rire!
+
 \lx tse˧bæ˥
 \sf <nb="B"> 496
 \sf <nb="2011"> 684
@@ -67534,6 +67556,11 @@
 \xe That's fine!
 \xn 好的！
 \xf c'est bon!
+\xv ə˧ɲi˧-bv̩˧ | ə˩-tsɤ˧?
+\xe Are yesterday's recordings OK? / Did yesterday's recordings go well?
+\xn 昨天的（录音），没问题吗？／质量可以吗？
+\xf Est-ce que les enregistrements d'hier sont bons?
+\xc <langue="fra">Question posée au début d'une séance d'enregistrement. L'enquêteur avait négligé de donner des nouvelles du "dé-rushage" de la séance d'enregistrement de la veille. La locutrice demande confirmation du fait que tout s'était bien passé la veille.
 \xv no˧ | mɤ˧-bi˧ mɤ˧-tsɤ˧!
 \xe It wouldn't be right for you not to go!
 \xn 你如果不去，就不对！ =你不能不去！
