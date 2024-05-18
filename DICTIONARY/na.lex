@@ -1920,13 +1920,6 @@
 \sn 2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\ton M
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ +ɲi˥
-\vf ton différent de F4
-\vf sens/composition: n'est pas le même mot que “vêtement" /bɑ.lɑ/
-\va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
 \pdl classifier
 \pdv kʰɯ˩
 \de Spider web, cobweb.
@@ -30857,6 +30850,10 @@
 \xe I am not busy. / I have some free time.
 \xn 我不忙。
 \xf Je ne suis pas occupé. / J'ai du temps libre. / Je suis disponible.
+\xv õ˧ lo˥, õ˩ ʂe˩.
+\xe Each person finds an occupation for herself. (A comment about a weekend in the city: one child goes to a dancing class, another to another extra-curricular activity, all go their own way.)
+\xn 自己给自己找活动。（关于城市里的周末：一个小孩去跳舞班，另一个也有她的课外活动。）
+\xf Chacun·e se trouve une occupation. (Au sujet de la fin de semaine à la ville: chacun·e trouve à s'occuper à sa façon.)
 \sn 2
 \de Usefulness.
 \ge usefulness
@@ -42029,13 +42026,12 @@
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton M
 \so <print="n"> F4
-\de Interjection: No way! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views.
+\de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says "pei!", then explains that the matter at issue is not a big deal.
 \ge |fg{intj.pooh}
-\dn 呸！（表示唾弃的感叹词）
+\dn 呸！（表示唾弃的感叹词）。如：表示对方认为很严重的事情，其实没什么大不了的，会用‘呸！’这个叹词。
 \gn 感叹词.呸
 \df Mais pas du tout! Mais non, enfin! Interjection par laquelle le locuteur signale qu'il reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'il va rectifier.
 \gf |fg{intj.pas_du_tout}
-\dt 09/Sep/2015
 
 \lx pe˧ʂe˧
 \or beishei
@@ -42615,21 +42611,6 @@
 \xn |fv{/pi˧tsʰe˩/}是一个普米族村落！
 \xf |fv{/pi˧tsʰe˩/}, c'est un village pumi!
 \dt 26/Apr/2017
- xxxxxxxxAjouter l'interjection /pʰe/: structure syllabique inhabituelle. Sens: "Allons donc!" Paraphrase: "Pas du tout! Il ne faut pas s'en faire!"
-\lx pʰe!
-\or yyyy
-\ps intj
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\ton M
-\lc pʰe!
-\so <print="n"> F4
-\de Interjection signalling that one should not worry, that the matter at issue is not a big deal. Close to: "Come on!"
-\ge |fg{intj.Come_on}!
-\dn 表示事情不严重（没什么大不了的）的叹词：‘嘿！’
-\gn 叹词：‘嘿！’
-\df Bah! Interjection qui signale qu'il ne faut pas s'en faire: «Allons donc!».
-\gf |fg{intj.Bah}!
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
@@ -54478,7 +54459,6 @@
 \dt 05/Oct/2015
 
 \lx si˧mo˩
-\lx
 \or seemo
 \et si˥
 \et mo˩α2
@@ -68290,37 +68270,24 @@
 \lx tsʰo˩mo˩
 \or como
 \ps n
-\nt <type="hist" print="n"> Le deuxième sens, 'vieil homme', est le seul qu'ait rencontré Roselle Dobbs: 'My understanding of this word is that it means "old(er) man".' (c.p. 2018)
+\nt <type="hist" print="n"> Avant 2024, avais indiqué deux sens: 'homme adulte' et 'vieil homme'. Le deuxième sens, 'vieil homme', est le seul qu'ait rencontré Roselle Dobbs: 'My understanding of this word is that it means "old(er) man".' (c.p. 2018) Est confirmé par F4 à l'occasion de la transcription du texte BENEVOLENCE.
 \ton L
 \lc tsʰo˩mo˩˥
-\sn 1
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so <print="n"> F4
 \pdl classifier
 \pdv v̩˧
-\de Man, adult human male.
-\ge man
-\dn 男人
-\gn 男人
-\df Homme, être humain mâle adulte, |fi{Vir}.
-\gf homme
-\xv ʈʂʰɯ˧ | tsʰo˩mo˩ tse˩-ze˥!
-\xe He has become a man! (The adolescent, |fv{pʰæ˧tɕi˥-zo˩}, becomes a man.)
-\xn 他是成年男人了！
-\xf C'est devenu un homme! (D'adolescent, |fv{pʰæ˧tɕi˥-zo˩}, on devient homme.)
-\sn 2
-\sd <langue="fra"> société
-\sd <langue="eng"> society
-\so <print="n"> F4
-\pdl classifier
-\pdv v̩˧
-\de Old man.
+\de Old man: man of grandfather age, around sixty.
 \ge old_man
-\dn 老头
+\dn 老头（能有孙子孙女那种年龄）
 \gn 老头
-\df Vieil homme, vieillard.
+\df Vieil homme, homme en âge d'avoir des petits-enfants; vieillard.
 \gf vieil_homme
+\xv ʈʂʰɯ˧ | tsʰo˩mo˩ tse˩-ze˥!
+\xe He has become an old man!
+\xn 他是成老头了！
+\xf C'est devenu un vieil homme!
 \dt 14/Jul/2018
 
 \lx ʈʂo˩mv̩˩
@@ -78903,7 +78870,6 @@
 \sn 3
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\ton L#
 \so <print="n"> F4
 \de To, at, towards.
 \ge to(wards)
@@ -78914,7 +78880,6 @@
 \sn 4
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\ton L#
 \so <print="n"> F4
 \de Compared to.
 \ge compared_to

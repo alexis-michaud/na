@@ -2,7 +2,7 @@
 
 ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩. |
 %1
-%fr Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la première version de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la deuxième version de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique est désormais conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
+%fr Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la première version de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la deuxième version de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique de ces passages est conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
 %fr /-bi/: adversatif.
 %fr vérification : /zo˩no˧ ɲi˩/ ou /zo˩no˧ ni˩/? réponse : /zo˩no˧ ɲi˩/.
 %fr Ici, la locutrice sépare nettement le monosyllabe /nɑ˩˥/ dans /nɑ˩˥ | ʈʂʰɯ˧-dʑo˩/ 'les Na'. Cela revient à bien mettre en valeur ce nom, qui est peu saillant au plan phonético-phonologique du fait que c'est un monosyllabe très érodé. Ordinairement, on dirait plutôt: /nɑ˩ ʈʂʰɯ˥-dʑo˩/, en un seul groupe tonal.
@@ -32,19 +32,20 @@ mmm… ɑ˩ʁo˧-ʑi˧dv̩˧ qo˧-dʑo˩, | hĩ˧mo˥-hĩ˩ | ʁo˧mæ˧ ↑d�
 əəə… ɑ˩pʰo˩ le˩-tsʰɯ˩ hĩ˥, | hĩ˧bæ˧ ʁo˧mæ˧-hĩ˧ dʑɤ˥ mæ˩, | nɑ˩ ʈʂʰɯ˥-dʑo˩. |
 %5
 %eng Translation: [And also] the people who came from the outside (=people from outside the family who came as visitors), the guests, were taken care of very well, [among] the Na.
-Euh… Les gens qui venaient du dehors (=les gens qui n'étaient pas de la famille), les hôtes, on les traitait bien (=on les traitait avec honneur), (nous) les Na.
+Euh… Les gens qui venaient du dehors (=les gens qui n'étaient pas de la famille), les hôtes, on les traitait bien (=on les traitait avec honneur), (nous) les Na. / Un second point central, c'est la place accordée à l'hospitalité.
 外边来的人（=外人），客人们，也得到关心，（在）摩梭人（家）。
 
 õ˧˥ | mɤ˧-dʑo˧, | tsʰi˧ɲi˧-bi˧, | hĩ˧bæ˧ jo˧-ho˥, | pi˧, | zo˩no˥, | le˧-ʂɯ˥~ʂɯ˩ | tʰi˧-tɕɯ˥! | 
 %6
 %fr /-bi/: adversatif; vérifié : /tsʰi˧ɲi˧/ signifie bien ici 'ce jour'.
 %eng Translation: Even if one does not have (enough for) oneself, one keeps in store some delicacies for guests, keeping the best meat for them.
-Même si on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on garde en réserve de quoi faire fête aux invités : on leur réserve ce qu'on a de meilleur!
+Même si on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on se dit qu'un invité peut se présenter, et on garde en réserve (les quelques bonnes choses qu'on a à la maison)! / Même quand on est dans le besoin, on garde en réserve de quoi faire fête aux invités qui pourraient se présenter.
 那天（虽然）自己没有（够自己吃饱），还是会考虑：可能会有客人来，（于是还是会）准备，存留（好吃的东西给客人）！
 
 əəə… so˩-kʰv̩˩˥, | ɲi˧-kʰv̩˧-bv̩˧ pɤ˧to˩ | tʰi˧-tɕɯ˥, | 'ə˧mi˧! | hĩ˧bæ˧ jo˧-kv̩˩!' |
 %7
 %fr d'abord noté /hĩ˧bæ˧ jo˧-kv̩˧˥/. On peut dire: /hĩ˧bæ˧ jo˧-ho˥!/, /hĩ˧bæ˧ jo˧-kv˩/.
+% /pɤ˧to˩/: même
 On pouvait même conserver (la viande) trois ans, (ou du moins) deux ans! (Note: dans le climat frais, sec et ensoleillé, la viande séchée pouvait se conserver plusieurs années. La viande était un élément important des repas, et particulièrement des repas festifs.) 'Eeeh! Il se peut qu'on reçoive des invités / on va peut-être avoir un invité / on va peut-être recevoir la visite de quelqu'un!'
 （肉）都会存三年……两年，想着：“会有客人来！”
 
@@ -67,23 +68,23 @@ Les beaux morceaux de viande, on n'en mangeait guère: on les gardait (pour une 
 On disait: 'Il y a des invités qui vont venir! On va avoir des invités (un jour ou l'autre)'.
 会有外边来的客人！会来客人的！
 
-hĩ˧bæ˧-ʈʂʰɯ˧ | so˩kv̩˩, ʐv̩˩kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! | 
+hĩ˧bæ˧-ʈʂʰɯ˧ | so˩kv̩˩, | ʐv̩˩kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! |
 %11
-%On peut dire aussi bien /ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥/ que /ʐɯ˧ dʑo˧-zo˧-kv̩˩/. De même pour /ʂe˧ dʑo˧-zo˧-kv˩/ et /ʂe˧ | dʑo˧-zo˧-kv˧˥/. F4 exprime une préférence pour la variante avec intégration en un seul groupe tonal. Pas de variante stylistique évidente à ses yeux. Hypothèse toute personnelle: le ton montant convient à cette position dans la phrase: position non finale, où le contour montant a une connotation 'suspensive'. Cela met également en valeur le mot 'alcool'; l'alcool est une composante importante de l'hospitalité.
+%On peut dire aussi bien /ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥/ que /ʐɯ˧ dʑo˧-zo˧-kv̩˩/. De même pour /ʂe˧ dʑo˧-zo˧-kv˩/ et /ʂe˧ | dʑo˧-zo˧-kv̩˧˥/. F4 exprime une préférence pour la variante avec intégration en un seul groupe tonal. Pas de variante stylistique évidente à ses yeux. Hypothèse toute personnelle: le ton montant convient à cette position dans la phrase: position non finale, où le contour montant a une connotation 'suspensive'. Cela met également en valeur le mot 'alcool'; l'alcool est une composante importante de l'hospitalité. Le récit passe ensuite un peu plus vite sur la viande (de porc, s'entend) et le poulet.
 %/ʐɯ˧ dʑo˧-zo˧-kv̩˧˥/: il fallait avoir de l'alcool en réserve à la maison, parce qu'il n'y avait pas de magasin à proximité où aller en acheter en cas de besoin.
-Les invités, s'il y en a trois ou quatre qui viennent, ce jour-là, pour leur venue (littéralement 'ils viennent une fois'), à la maison, il faut avoir de l'alcool, de la viande (de porc), et du poulet (en réserve, pour pouvoir l'accommoder pour le leur servir)!
+Les invités, s'il y en a trois ou quatre qui viennent, ce jour-là, pour leur venue (littéralement 'ils viennent une fois'), à la maison, il faut avoir de l'alcool, de la viande (de porc), et du poulet (pour pouvoir accommoder toutes ces bonnes choses et les leur servir)!
 客人呢，来了两三位的话……今天来的话呢，家里得有酒、得有肉、得有鸡嘛！（这些不是店里买的：那时候永宁没有店铺，所以要在家里村，预备。）
 
 tʰi˩˥, | zo˩no˥ ɲi˩ ʝi˩-se˩, | ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧-bi˧, | mɤ˧-ɖwæ˩. | 'ə˧tso˧ ɖwæ˩? | ɖʐɯ˧qo˩ hwæ˩-bi˩ tsæ˩ ɲi˩!' | pi˧-kv̩˩ mæ˩. |
 %12
-Tandis que maintenant, si on n'a rien du tout (=si on n'a pas suffisamment de provisions à la maison), on ne s'en fait pas. 'Qu'est-ce qui [te] tracasse? On va aller acheter [tout ce qu'il faut] au marché!', qu'on dit.
+Tandis que maintenant, si on n'a rien du tout (=si on n'a pas suffisamment de provisions à la maison), on ne s'en fait pas. On se dit: 'Qu'est-ce qu'on a à se tracasser? Il n'y a qu'à aller acheter [tout ce qu'il faut] au marché!'
 而现在不一样了，（家里）什么都没有也不用担心。“你担心什么？去市场里买呗！”（人家）会这样说的。
 
-ə˧ʝi˧-tsʰi˧ʝi˧ ɲi˥ bi˩-bi˩, | hĩ˧ mo˥-hĩ˩-dʑo˩ | hĩ˧=ɻæ˥-dʑo˩ | 'ə˧mi˧! | hĩ˧bæ˧ le˧-ʝo˥-kv̩˩! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧ mɤ˧-ɖo˧! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧-ɖɯ˧-kv̩˩!' | tʰi˧-tɕɯ˧-ɲi˥ mæ˩! |
+ə˧ʝi˧-tsʰi˧ʝi˧ ɲi˥ bi˩-bi˩, | hĩ˧ mo˥-hĩ˩-dʑo˩ | hĩ˧=ɻæ˥-dʑo˩ | 'ə˧mi˧! | hĩ˧bæ˧ le˧-jo˥-kv̩˩! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧ mɤ˧-ɖo˧! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧-ɖɯ˧-kv̩˩!' | tʰi˧-tɕɯ˧-ɲi˥ mæ˩! |
 %13
 %fr /dzɯ˧-ɖɯ˧-kv̩˩/: on peut le manger; négation: /mɤ˧-ɖɯ˧-kv̩˧˥/.
-%fr d'abord noté /hĩ˧bæ˧ | le˧-ʝo˥-kv̩˩/, par erreur. En fait, le ton haut sur le verbe provient du nom; l'expression est donc nécessairement intégrée en un seul groupe tonal: /hĩ˧bæ˧ le˧-ʝo˥-kv̩˩/. En deux groupes, cela donnerait: /hĩ˧bæ˧ | le˧-ʝo˩-kv̩˩/.
-Même à notre époque (littéralement: 'même si on est maintenant dans l'époque actuelle [et plus dans l'âge d'or de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] 'Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!' On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]! / On faisait une réserve !
+%fr d'abord noté /hĩ˧bæ˧ | le˧-jo˥-kv̩˩/, par erreur. En fait, le ton haut sur le verbe provient du nom; l'expression est donc nécessairement intégrée en un seul groupe tonal: /hĩ˧bæ˧ le˧-jo˥-kv̩˩/. En deux groupes, cela donnerait: /hĩ˧bæ˧ | le˧-jo˩-kv̩˩/.
+Même à notre époque (littéralement: 'même si on est maintenant dans l'époque actuelle [et plus dans le temps d'antan, celui de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] 'Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!' On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]! / On faisait une réserve !
 现在，虽然不是那个时代了，老人家……人家还是会（这样想）：“啊，会有客人来！这块（肉），不要吃！那块呢，可以吃的！”就存（最好的肉，留给客人）！
 
 mmm… ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | mmm… le˧-hwæ˧, | ɖɯ˧-mɤ˧-tʰɑ˧˥, | ə˩-gi˩! | ɑ˩ʁo˧ ʈʰææ̃˧ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! |
@@ -100,7 +101,7 @@ De nos jours, euh, même si on peut acheter des choses au marché, y trouver ce 
 
 hĩ˧bæ˧ ɖɯ˧-v̩˧ tsʰɯ˩-bi˩-bi˩, | ɖɯ˧-v̩˥ tʰi˩-tɕɤ˩! |
 %16
-et si un invité vient, on (lui en) fait un bon plat! (littéralement: 'on [lui en] fait bouillir une casserolée')
+et même si un invité vient, on (lui en) fait un bon plat! (littéralement: 'on [lui en] fait bouillir une casserolée') [de préférence à des ingrédients achetés au marché]
 来了客人，就给煮一锅（好肉）！
 
 ə˧mɑ˧-ki˩ | ʁo˧dɑ˧ | <z…> zo˩no˥, | <ʈ… ʈ> D ʈæ˧ʂɯ˧ ɖʐv̩˧-ʈʂʰɯ˧, | hĩ˧ | zo˩qo˧ mɤ˧-ɲi˩ hĩ˩ | le˧-tsʰɯ˩-ɲi˩ mæ˩. | 
@@ -109,16 +110,11 @@ et si un invité vient, on (lui en) fait un bon plat! (littéralement: 'on [lui 
 Chez moi (littéralement 'à moi, vers moi'), avant (=quand j'habitais à Yongning), eh bien, les amis de Dashi (son fils ethnologue), des gens, il en est venu de partout (=j'ai reçu des visiteurs des quatre coins du globe). 
 到我家，以前……那么……达石的朋友们，有来自各地的嘛。
 
-tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | 
-%18
+tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | əəə… ʂæ˧hæ˥-hĩ˩ tsʰɯ˩. | əəə… <mmm…> kʰu˧mi˩-hĩ˩ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ tsʰɯ˧˥! |
+%fr Regroupé en une seule unité S les anciennes unités 18 et 19, qui forment un seul énoncé. Cela paraît préférable au plan grammatical.
 %fr Cette phrase fournit l'occasion de noter la prononciation de noms de lieux empruntés au chinois mandarin. (Reporté dans le dictionnaire: Taïwan: /tʰæ˩ʁwæ˧/: ˩ ˧; tʰæ˩ʁwæ˧-hĩ˧ +ɲi˥; Japon: ʐɯ˩pe˧, ʐɯ˩pe˧-hĩ˧; Pékin: pe˩tɕi˧, pe˩tɕi˧-hĩ#˥; Shanghaï: ʂæ˧hæ˥, ʂæ˧hæ˥-hĩ˩; Kunming: kʰu˧mi˩, avec une syllabe qui n'existe pas en na, seulement dans les emprunts: /kʰu/.)
-Il en est venu de Taïwan; il en est venu du Japon; oui!
-有台湾人来，嗯……有日本人来，对的！
-
-əəə… ʂæ˧hæ˥-hĩ˩ tsʰɯ˩. | əəə… <mmm…> kʰu˧mi˩-hĩ˩ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ tsʰɯ˧˥! |
-%fr Il serait plus logique, grammaticalement, de grouper 18 et 19, qui forment un seul énoncé. La raison du découpage est pratique : l'outil 'Persephone' ne peut traiter que des intervalles de moins de 10 secondes. Pour les utilisateurs de la Collection Pangloss, il peut également être indiqué d'avoir des intervalles plutôt courts, pour bien s'y repérer.
-euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!
-嗯……有上海人来，有昆明人来，有北京人来！
+Il en est venu de Taïwan; il en est venu du Japon; oui! Euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!
+嗯……有上海人来，有昆明人来，有北京人来！有台湾人来，嗯……有日本人来，对的！
 
 le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv̩˧ tʰi˩-tɕɯ˩! |
 %20
@@ -650,9 +646,9 @@ Alors il a dit: “Ama, je vais donc habiter chez vous!”
 %Transcription automatique : ə˧ʝi˧ | pi˩hĩ˩mæ˩itʰɤ˩˥ | pi˧ | dʑi˧hɑ̃˧˥ | tʰi˧dzi˥ | dʑo˩ | hɯ˩ze˩bv̩˧ | tɕʰɤ˧bi˩tsɯ˩ɲi˩ | tsɯ˩hɯ˧ | le˧tsɯ˩ | mv̩˩ | 
 %101
 %fr /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥/: serait-ce /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/? S'il y a 2 groupes tonals, ça devrait être : /ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˩/. Pourrait-on dire /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/? réponse: on peut dire: /ɖɯ˧-hɑ̃˧ tʰi˧-dzi˧˥/ aussi bien que /ɖɯ˧-hɑ̃˧ tʰi˥-dzi˩/.
-%fr xxxx /v̩˧tɕʰɤ˩/: il est confirmé qu'il s'agit d'un lieu (du nom d'un village), mais de quel village s'agit-il? 
-Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller au village de xxxx, semble-t-il! Il est donc parti... et puis il est revenu.
-我答应了，说：“好的！”，对吧。说了“好的”，他去了xxxx。然后他又回来了。
+%fr /v̩˧tɕʰɤ˩/ 温泉: il s'agit du nouveau nom donné, par l'administration chinoise, à une aire de relativement haute altitude, qui comprend six villages (qʰv˧-ʁwɤ˥). Dans le temps, cette aire ne constituait pas une entité géographique séparée. On y faisait référence par le nom exact du village : tʰo˧tsʰe˧, ʁwɤ˧lɑ˩bi˩, pi˧tsʰe˩di˩, ʁwɤ˧tv˧, pɤ˧dʑɤ˩-di˩, bæ˧ʁwɤ˧. (vérifié en 2024)
+Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller au village de Wenquan, semble-t-il! Il est donc parti... et puis il est revenu.
+我答应了，说：“好的！”，对吧。说了“好的”，他去了温泉。然后他又回来了。
 
 le˧-tsʰɯ˩-dʑo˩, | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩... -ɲi˩ tsɯ˩, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | <ʐv̩˧-mi˥...> | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! |
 %Utterance ID: BENEVOLENCE.54 
@@ -1376,7 +1372,7 @@ On fait cuire la céréale; on fait cuire le déjeuner, on fait bouillir de la v
 hɑ˧ | le˧-ʐv̩˧~ʐv̩˥, | ʈʰɯ˧-ɖɯ˧-mi˧-hĩ˧ | ɖɯ˧-v̩˧ ɖɯ˧-ʈv̩˩, | tso˧kʰwɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ kʰɯ˧˥! |
 %Transcription automatique : hɑ˧ | le˧ʐə˧ʐwæ˧ | ʈʰɯ˩ɖɯ˩mi˩˥ | ɖɯ˧v̩˧ɖv̩˩ʈwæ˩ | tso˧kɤ˧ɖɯ˩ɭɯ˧qo˧kʰɯ˧˥ |
 %206
-%fr xxxx à vérifier : /ʈʰɯ˧-ɖɯ˧-mi˧-hĩ˧/ ou /ʈʰɯ˧-ɖɯ˧-mi˧/? La syllabe /-hĩ˧/ n'est pas identifiable telle quelle, mais pourrait être présente, avec comme trace un peu de nasalisation et peut-être aussi un rehaussement de la fréquence fondamentale de la syllabe [mi].
+%fr /ʈʰɯ˧-ɖɯ˧-mi˧-hĩ˧/ ou /ʈʰɯ˧-ɖɯ˧-mi˧/? La syllabe /-hĩ˧/ n'est pas aisément identifiable telle quelle, mais pourrait être présente, avec comme trace un peu de nasalisation et peut-être aussi un rehaussement de la fréquence fondamentale de la syllabe [mi]. Après vérification auprès de F4 en 2024: en effet, la syllabe /hĩ˧/ est ici présente, et indispensable.
 On pétrit la céréale, [on en fait] un bloc gros comme ça pour chaque personne; on la met dans un sac / on la serre dans sa besace!
 饭，就揉一揉，（给）每个人一块，放袋子里！
 
@@ -1393,9 +1389,9 @@ mmm… ʂe˧ | ɖɯ˧-v̩˧ ɖɯ˧-pʰæ˧˥ | tʰi˧-ki˥! | li˩˥ | ɖɯ˧-v�
 Euh... la viande, on en donne une pièce par personne ! On fait bouillir une casserole de thé !
 肉，分给一人一大块！煮一壶茶！
 
-tʰi˩˥ | tʰv̩˧-ɲi˧-dʑo˩ | dʑɯ˩ ʐɯ˧ po˧-zo˥-kv̩˩ mæ˩! | ʂe˧ po˩, | ʐɯ˧ po˥-zo˩-kv̩˩! |
+tʰi˩˥ | tʰv̩˧-ɲi˧-dʑo˩ | <dʑɯ˩> ʐɯ˧ po˧-zo˥-kv̩˩ mæ˩! | ʂe˧ po˩, | ʐɯ˧ po˥-zo˩-kv̩˩! |
 %Utterance ID: BENEVOLENCE.113 
-%fr xxxx à voir : <dʑɯ˩> ʐɯ˧? (mot 'eau' dit par erreur?) Ou composé disyllabique /dʑɯ˩ ʐɯ˧/ 'boissons'?
+%fr Vérifié en 2024: la syllabe <dʑɯ˩> est une erreur (mot 'eau' dit par erreur?). Il n'existe pas de composé disyllabique /‡dʑɯ˩ ʐɯ˧/ 'boissons'.
 %Transcription automatique : tʰi ɬi˩˥ | tʰv̩˧ɲi˧ | dʑo˩ | dʑɯ˩ʐɯ˧po˧zo˩kv̩˩mæ˩ | ʂe˧po˩ʐɯ˧po˥zo˩kv̩˩ |
 %209
 Alors, ce jour-là, on amenait des boissons ! On amenait de la viande, on amenait du vin !
@@ -1413,9 +1409,9 @@ Quand on arrivait à la maison, on tuait un poulet (pour marquer le coup)! Les g
 On était épuisé ; et houlà ! Sur le chemin du retour, la neige tombait, tombait, tombait ! / il arrivait qu'on subisse une neige qui tombait dru !
 累得很，啊呀！（而且，有的时候，）回来时，雪会一直下的！
 
-bi˧ | le˧-gi˧-ze˥ wɤ˩, | dʑɯ˩nɑ˩mi˩˥ | gɤ˩-do˧-hɯ˧ gɤ˥-do˩-ɻ˩, | bi˧ gi˧-hɯ˩ | dʑɤ˩˥ | le˧-do˥, | kʰɯ˧tsʰɯ˧˥ | ʈʂʰɯ˧qo˧-ze˧ tʰv̩˧. |
+bi˧ | le˧-gi˧-ze˥ wɤ˩, | dʑɯ˩nɑ˩mi˩˥ | gɤ˩-do˧-hɯ˧ gɤ˥-do˩-ɻ˩, | bi˧ | gi˧-hɯ˧ ɡi˧-ɻ˥ | dʑɤ˩˥ | le˧-do˥, | kʰɯ˧tsʰɯ˧˥ | ʈʂʰɯ˧qo˧-ze˧ tʰv̩˧. |
 %Utterance ID: BENEVOLENCE.114 
-%fr gɤ˩-do˧ hɯ˧ gɤ˥-do˩-ɻ˩ '爬来爬去'？ xxxx élicitation de cette construction
+%fr gɤ˩-do˧ hɯ˧ gɤ˥-do˩-ɻ˩ '爬来爬去'. Vérifié: est bon; on peut également dire: /do˧-hɯ˧ do˧-ɻ˥/; du verbe 'grimper', /do˥/
 %fr Fin de la transcription 2018. Ce qui suit a été fait en 2020 sans la locutrice : à revoir avec elle. xxxx
 %fr /bi˧gi˧-hɯ˩/ ou /bi˧gi˧-hɯ˧/? xxxx
 %Transcription automatique : bɯ˧ | le˧gi˥zɑ˥o | dʑɯ˩nɑ˩ɳi˩˥ | gɤ˩dv̩˥ | hɯ˧gɤ˧do˩ | bi˧gi˩hɯ˩go˩˥ | le˧do˥kʰɯ˩tsʰɯ˩ | tʰv̩˧qo˧ze˩ | tʰv̩˧
@@ -1442,32 +1438,75 @@ mmm... tʰi˧-tɕɯ˥! |
 On le conservait/on le serrait en réserve!
 
 1175.68 secondes
-ʐɯ˧ | hĩ˧bæ˧ tsʰɯ˧-bi˥, | tæ˩ mɤ˧-kʰɯ˩! |
-xxxx tæ˩: être à sec ? manquer ? (pas présent dans le dictionnaire, seulement tæ˧pv˩ 'sec'.
+ʐɯ˧ | hĩ˧bæ˧ tsʰɯ˧-bi˥, | <tæ˧ mɤ˥-kʰɯ˩> [mɤ˧-dʑo˧ mɤ˧-tʰɑ˧˥] ! |
+% tæ˧ mɤ˥-kʰɯ˩: tæ˩: être à sec ? manquer ? (pas présent dans le dictionnaire, seulement tæ˧pv˩ 'sec'. est du chinois; xxxxts ɻéponse: 断货的断 tæ˧˥
 Le vin, on ne doit jamais en être dépourvu (littéralement: "oon ne peut pas le laisser venir à manquer, des fois qu'un invité paraisse !
 
 1177.88
-ɑ˩ʁo˧ dʑo˩-bi˩-bi˩, | zo˩no˥, | hĩ˧ jo˧-kv̩˩ pi˩, | ʐɯ˧ | ʈʰææ̃˧ | tʰi˧-tɕɯ˥! | tʰi˧-tɕɯ˥-dʑo˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩ kʰi˥ | ɖɯ˧-ɲi˥-dʑo˩, | gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥, | pi˧zo˩, | ʐɯ˧-ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧-kv̩˥ mæ˩! |
-% /gv̩˩pʰæ˩/: planche; sens ici: xxxx
+ɑ˩ʁo˧ dʑo˩-bi˩-bi˩, | zo˩no˥, | hĩ˧ jo˧-kv̩˩ pi˩, | ʐɯ˧ | ʈʰææ̃˧ | tʰi˧-tɕɯ˥! | tʰi˧-tɕɯ˥-dʑo˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩ kʰi˥ | ɖɯ˧-ɲi˥-dʑo˩, | gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥, | pi˧-zo˩, | ʐɯ˧-ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧-kv̩˥ mæ˩! |
+% /gv̩˩pʰæ˩/: planche; sens ici: les planches dont on se servait pour confectionner les toitures.
+Quand on allait chercher les planches, gv̩˩pʰæ˩ ʑi˩ = gv̩˧ ʑi˧
 
-
-"le˧-wo˧-tʂʰɯ˧-ʑ(?)i˥-qo˩ | gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥-ze˩! | ə˧-sɯ˩kv̩˩, | ʐɯ˧ v̩˧ tɕɤ˩-bi˩!" | pi˧, | ʐɯ˧ | tʰi˧-tɕɤ˧˥! |
-xxxx le˧-wo˧-tʂʰɯ˧-i˥qo˩ ou le˧-wo˧-tʂʰɯ˧-ʑi˥-qo˩ ?
+le˧-wo˧-tʂʰɯ˧-ɬi˧-qo˩: | "gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥-ze˩! | ə˧-sɯ˩kv̩˩, | ʐɯ˧ v̩˧ tɕɤ˩-bi˩!" | pi˧, | ʐɯ˧ | tʰi˧-tɕɤ˧˥! |
+le mois pɻécédent:
 % /ʐɯ˧ v̩˧/: interprétation de N + CLF (sans numéral) comme 'un' à confirmer.
-
+élicité ɑu pɑssɑɡe: hɑ˧ kʰwɤ˧ dzɯ˧! véɻifié
 1193.84
-tʰv̩˧ ɲi˩-dʑo˩(/ɳɯ˩?), | njɤ˧=ɻ̩˩ | ʐɯ˧ | ɲi˧tɕɯ˧ pɤ˧pɤ˥ po˩ kʰi˧˥-ɲi˩! |
+
+tʰv̩˧ ɲi˧-dʑo˩, | njɤ˧=ɻ̩˩ | ʐɯ˧ | <ɲi˧-tɕɯ˧ pɤ˧~pɤ˥> [ɲi˧-kɤ˩ pɤ˩~pɤ˩] | po˧-kʰi˥-ɲi˩! |
 sens à voiɻ
+tɕɯ˧˥: livɻe, mot chinois
+n'est pɑs: tʰv̩˧ ɲi˩-dʑo˩(/ɳɯ˩?
 
 1196.32
-njɤ˧ | pʰæ˧tɕi˥ s[o]˩... | njɤ˧=ɻ̍˩ | so˩-kv̩˩ ʁɑ˩ʂe˥ | po˧ kʰi˥! |
+njɤ˧=ɻ̍˩ | pʰæ˧tɕi˥ s[o]˩... | njɤ˧=ɻ̍˩ | so˩-kv̩˩ ʁɑ˩ʂe˥ | po˧ kʰi˥! |
+Notre maisonnée, elle recrutait trois jeunes garçons !
 
 1199.12
-njɤ˩=ɻ̍˥ | ɑ˩ʁo˧ | ɲi˧kv̩˧˥! | tʰi˩˥, | pʰæ˧tɕi˥ | ŋwɤ˧-kv̩˧ kʰi˥! |
+njɤ˩=ɻ̍˥ | ɑ˩ʁo˧ | ɲi˧-kv̩˧˥! | tʰi˩˥, | pʰæ˧tɕi˥ | ŋwɤ˧-kv̩˧ kʰi˥! |
+% njɤ˩=ɻ̍˥ : variante possible du ton ML.
 
 1202.42
-ʈʂʰɯ˧ F | tʰi˩˥, | pʰæ˧tɕi˥ | ɲi˧-kv̩˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩ne˩˥, | no˧˥! ə … mi˩zɯ˩ so˩ kv̩˥! ʈʂʰɯ˧ne˧ʝ˥ | le˧ʁwɑ˥ʈʂʰɯ˩qo˩, | njæ˧sɯ˩kv̩˩, | mi˩zɯ˩ … | pʰæ˧tɕi˥, | ɖɯ˧tɑ˧˥ | le˧wo˥pɤ˧ɲi˩kv̩˩! tsʰv̩˧ɲi˧, | gv̩˩pʰæ˩ pɤ˩pɤ˥hĩ˩, | nɑ˧˥qɑ˩, | hĩ˧ | ɲi˧tɕɯ˧ze˧ | gv̩˧kv̩˧˥! tʰi˩˥, | hɑ˧ | ɖɯ˧ʁo˧ | tʰi˧tɕɯ˥, | le˧dzɯ˥ | dʑo˩ … ə˧pʰv̩˧ | tʰv̩˧v̩˧dʑo˩, | le˧go˩ … | le˧ɖʂo˧bi˧zo˥! ʈʂʰɯ˧ne˧ʝi˥, | nɑ˩nɑ˧zo˥! le˧nɑ˩nɑ˩, | le˧nɑ˧nɑ˥, | le˧nɑ˩nɑ˩zo˩! | ə˧mi˧ə˧mi˧! | bi˧ | le˧gi˧zo˥! tʰi˩˥, | | … njɤ˧ | ʐɯ˧ tʰv̩˧ɲi˥tɕɯ˩, | gɤ˩tʰv̩˧˥! | tʰv̩˧sɯ˩kv̩˩, | ɖɯ˧ʑi˩ | ʐɯ˧ mɤ˧pɤ˧! njɤ˧ɻ̍˩ | ʈʂʰɯ˩lɑ˩ p! ɖɯ˧v̩˧ki˥ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥ne˩ĩ˩, | ʈʂʰɯ˧ne˧ʝi˥qo˩ɳɯ˩, | li˩ ʈʰɯ˩˧qʰwɤ˥qo˩ɳɯ˩! ə˧mv̩˥tɕi˩, | ɖɯ˧v̩˧ ɖɯ˧ʈʰɤ˥ | ɖɯ˩ʈʰɤ˩! ʈʰɤ˧ tʰi˩ki˩! | ə˧v̩˧ | … ə˧pʰv̩˧ tʰv̩˧v̩˩ki˩! tsʰ! ə˧mi˧! | ʁɑ˩mi˧ze˩! | ə˧sæ˧˥, | no˧ | mv̩˩zo˩˥! no˧ | njɤ˧bv̩˧ zɯ˧zɯ˧ | ɲi˧ʂɯ˩ tɕo˩ze˩! | no˧ | le˧dʑɤ˩hĩ˩! tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧ho˩ mɤ˩ɲi˩, | pi˧, | njɤ˧ | le˧ɖʐo˥ | tʰi˧ʂɯ˥ho˩ze˩! | pi˧zo˩. æ̃˩pʰv̩˩ tʰv̩v̩˧ | ʂʰɯ˧ne˧ʝi˥, | zo˩no˥, | le˧ʂɯ˧ho˩, | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩zo˩, | le˧ʂɯ˧ɲi˥mæ˩! | hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩pʰæ˩ | tʰi˩˥! | tʰv̩˧v̩˧ | tʰɯ˧ʈʂæ˩qo˩, | ɖwæ˧˥ | dzɯ˧! | zo˧mv̩˥ | tɕi˩˥, | ə˩gi˩! ʈʂv̩˧mi˧ | dʑɤ˩˥ | mɤ˧hɤ˧! ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧hɯ! tsʰo˩mo˧hɤ˩dʑo˩, | ɖwæ˧˥ | hɯ˩ɲi˥! ʈʂʰɯ˧ne˧ʝi˥ | le˧ʝi˥, | le˧ʝi˥kwɤ˩tɕɯ˩lɑ˩, | le˧ʝi˧, | le˧hɤ˩zo˩! le˧hɤ˩, | le˧ʐwæ˩zo˩, | li˧mo˩kwɤ˩tɕɯ˩lɑ˩, | le˧ʈʰi˩zo˩!
-ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩lɑ˩, | tʰi˩˥, | lo˧ʝi˧ ʐv̩˩ ʝi˩kʰi˩ | dʑo˩! tʰæɻæ˧ɬɑ˧tʰɑ˧mi˥, | mv̩˩zo˩ | so˩ɻ̍˥! | ʁɑ˩mi˧! | tʰv̩˧ɭɯ˧ | so˧ʝi˧ | dʑɤ˩! | pi˧zo˩. njɤ˧ | gɯ˩ʝ˥ | hĩ˧ mo˥hĩ˩ki˩, | ə˧ʝi˧ʂɯʝi˩, | ʁo˧ | mɤ˧tɕɯ˧˥ | mvæ̩˩! hĩ˧ mo˥hĩ˩ ʁo˩bæ˩! zo˧mv̩˥zo˩ ʁo˩ mvæ˩! õ˧ɻ˥ … | hĩ˧ qɑ˩tʰ … | ɖwæ˩ɖʐwæ˥ | mɤ˧dʑɯ˩! õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩, | njæ˧sɯ˩kv̩˩ | tʰi˩˥, gv̩˩pʰæ˩ ʑi˩kʰi˥ | tʰv̩˧ʂɯ˩lɑ˩! zo˩no˥, | qʰæ˧lo˧ qwæ˥hi˩ | tʰi˧ʂɯ˩se˩! hĩ˧ | ə˧pʰv̩˧tsʰo˩ mo˩ tʰi˩˥, | ɖwæ˧˥ | ɳɯ˩ go˧lɑ˥! ʈʂʰɯ˧v̩˧, | njɤ˧ | p ʈʂʰɯ˧v̩˧ki˧ | pʰv̩˧ɖɯ˧hi˥ ɲi˩lɑ˩, | zo˩no˥, | ʈʂʰɯ˧vo˧ | njɤ˧ki˧ | ʈʰææ̃˧ | ʁɑ˩mi˧! | pi˧zo˥hĩ˩! qʰɯ˧pʰæ˧˥ | le˧mo˩ɲi˩ze˩! ʈʂʰɯ˧ | le˧ʂɯ˧ho˩, | go˩zo˥ | njɤ˧ li˩ … ə … | njæ˧sɯ˩kv̩˩dʑo˩, | wɤ˩˥, | hĩ˧mo˥hɑ̃˩ | ʁwɤ˩qo˩, | ə˩gi˩! go˩zo˥, | ə … le˧ʂɯ˧ho˩ze˩ pi˩! | pi˧. go˧li˧bi˧, | pi˧zo˩, | hĩ˧ʈʂʰɯ˧ | ɖɯ˧tɑ˧˥ | li˧bi˧kv̩˧˥ | mæ˩! wɤ˧qo˧ | ɖɯ˧ʑi˩ ɖɯ˩ʑi˩! ʝi˧kʰv̩˥, | æ˩ po˧˥! ə˧˥! tse˧, | tʰæ˧ɻæ˧ po˧˥! əə … li˧bi˧kv̩˧˥ | mvæ˩! ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ tʰv̩˩v̩˧, | le˧qʰwɤ˧ʁõ˧mɤ˧ho˩tsɯ˩! ə˧sɯ˩kv̩˩, | ɖɯ˧li˩ɻ̍˩bi˩pi˩, | ɖɯ˧tɑ˧˥ … | tʰv̩˧ʑi˧ni˧˥ | le˧jo˧kv̩˧˥ | mæ˩!
+ʈʂʰɯ˧ F | tʰi˩˥, | pʰæ˧tɕi˥ | ɲi˧-kv̩˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥ | no˧˥! | ə … mi˩zɯ˩ so˩-kv̩˥! |
+
+(The adolescent, |fv{pʰæ˧tɕi˥-zo˩}, becomes a man.)
+\dn 男人
+\gn 男人
+\df Homme, être humain mâle adulte, |fi{Vir}.
+\gf homme
+
+ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | njæ˧sɯ˩kv̩˩, | mi˩zɯ˩ … | pʰæ˧tɕi˥, | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | tʰv̩˧ɲi˧, | gv̩˩pʰæ˩ pɤ˩~pɤ˥ hĩ˩, | no˧˥-qɑ˩,
+(ʐ0 mn ʂʅ secomdes)
+| hĩ˧ | ɲi˧-tɕɯ˧-ze˧ | gv̩˧ kv̩˧˥! |
+on ɑɻɻivɑit à vinɡt peɻsonnes!
+tʰi˩˥, | hɑ˧ | ɖɯ˧-ʁwɤ˧ | tʰi˧-tɕɯ˥, | le˧-dzɯ˥ | dʑo˩ …
+20mn18 secondes
+ə˧pʰv̩˧ | tʰv̩˧-v̩˧-dʑo˩, | le˧-go˩ … | le˧-ɖʐo˧-zo˥! | ʈʂʰɯ˧ne˧ʝi˥, | nɑ˩~nɑ˧ zo˥! | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩-zo˩! |
+il tremblait
+
+ə˧mi˧, ə˧mi˧! | bi˧ | le˧-gi˧-zo˥! | tʰi˩˥, | … njɤ˧ | ʐɯ˧ ʈʂʰɯ˧ ɲi˥-tɕɯ˩, | gɤ˩-tʰv̩˥! | tʰv̩˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩ | ʐɯ˧ mɤ˧-po˧˥! | njɤ˧=ɻ̍˩ | ʈʂʰɯ˧ lɑ˩ po˩! |
+vinɡt minutes tɻente
+ɖɯ˧-v̩˧-ki˥-ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥-ne˩ʲi˩, | ʈʂʰɯ˧ne˧ ʝi˥-qo˩-ɳɯ˩, | li˩ ʈʰɯ˩ qʰwɤ˥-qo˩-ɳɯ˩! | ə˧mv̩˥tɕi˩, | ɖɯ˧-v̩˧ ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! | ə˧v̩˧˥ | … ə˧pʰv̩˧ tʰv̩˧v̩˧-ki˧! |
+tsʰ! (suɻ inspiɻɑtion) ə˧mi˧! | ʁɑ˩mi˧-ze˩, | æ˩sæ˥! |
+æ˩sæ˥: enjolivement. bæ˩bæ˩ tʰi˩-di˥: il y ɑ des fleuɻs, c'est fleuɻi
+
+no˧ | mv̩˩zo˩˥! |
+zo: diphtonɡué veɻs ɑ/æ
+
+"no˧ | njɤ˧-bv̩˧ zɯ˧~zɯ˧ | ɲi˧-ʂɯ˩ tɕo˩-ze˩! |
+tɕo˩: mot chinois
+
+no˧ | le˧-dʑɤ˩-hĩ˩! tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!" | pi˧-zo˩. | ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! | hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |
+le˧-mv˩pʰæ˩ mɤ˩-tʰɑ˩ = ɳɯ˧ ʑi˩.
+
+tʰv̩˧v̩˧ | tʰv˧ʈʂæ˩qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, | ə˩-gi˩! | ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | <tʰv˧-ʲɤ˩> [tʰv˧-v˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! | ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! | le˧-hɤ˩, | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
+
+ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩! | ʈʰææ̃˧, | ɬɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɭɯ˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ˩ | so˧ jɤ˩ dʑɤ˩! | pi˧-zo˩. |
+vinɡt et une minutes dix-sept
+njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ̩˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩ mæ˩! | õ˧˥,  | hĩ˧ qɑ˩, | ɖwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩!
+vinɡt et une minutes vinɡt-cinq
+yyyy fin W transcription au 18 mai 2024, à 21 mn 27
+õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩, | njæ˧sɯ˩kv̩˩ | tʰi˩˥, gv̩˩pʰæ˩ ʑi˩kʰi˥ | tʰv̩˧ʂɯ˩lɑ˩! zo˩no˥, | qʰæ˧lo˧ qwæ˥hi˩ | tʰi˧ʂɯ˩se˩! hĩ˧ | ə˧pʰv̩˧tsʰo˩ mo˩ tʰi˩˥, | ɖwæ˧˥ | ɳɯ˩ go˧lɑ˥! ʈʂʰɯ˧v̩˧, | njɤ˧ | p ʈʂʰɯ˧v̩˧ki˧ | pʰv̩˧ɖɯ˧hi˥ ɲi˩lɑ˩, | zo˩no˥, | ʈʂʰɯ˧vo˧ | njɤ˧ki˧ | ʈʰææ̃˧ | ʁɑ˩mi˧! | pi˧zo˥hĩ˩! qʰɯ˧pʰæ˧˥ | le˧mo˩ɲi˩ze˩! ʈʂʰɯ˧ | le˧ʂɯ˧ho˩, | go˩zo˥ | njɤ˧ li˩ … ə … | njæ˧sɯ˩kv̩˩dʑo˩, | wɤ˩˥, | hĩ˧mo˥hɑ̃˩ | ʁwɤ˩qo˩, | ə˩gi˩! go˩zo˥, | ə … le˧ʂɯ˧ho˩ze˩ pi˩! | pi˧. go˧li˧bi˧, | pi˧zo˩, | hĩ˧ʈʂʰɯ˧ | ɖɯ˧tɑ˧˥ | li˧bi˧kv̩˧˥ | mæ˩! wɤ˧qo˧ | ɖɯ˧ʑi˩ ɖɯ˩ʑi˩! ʝi˧kʰv̩˥, | æ˩ po˧˥! ə˧˥! tse˧, | tʰæ˧ɻæ˧ po˧˥! əə … li˧bi˧kv̩˧˥ | mvæ˩! ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ tʰv̩˩v̩˧, | le˧qʰwɤ˧ʁõ˧mɤ˧ho˩tsɯ˩! ə˧sɯ˩kv̩˩, | ɖɯ˧li˩ɻ̍˩bi˩pi˩, | ɖɯ˧tɑ˧˥ … | tʰv̩˧ʑi˧ni˧˥ | le˧jo˧kv̩˧˥ | mæ˩!
 tʰi˩˥, | ! ɖɯ˧ … ɖɯ˧ … ə … ʈʂʰɯ˧ɬi˧kʰi˩ | dʑo˩, ə˧mi˧! | tʰv̩˧ʈʂæ˩qo˩, | njɤ˧ki˧ | ʈæ˧ʂɯ˧ɬɑ˧ | mv̩˩ɑɻ̍˥! ʈæ˧ʂɯ˧ɬɑ˩ mv̩˩! njɤ˧ | ɖɯ˧zɯ˧ | le˧mv̩˩pʰæ˩ tʰɑ˩mɤ˩ho˩, | ə˧sɯ˥! njɤ˧ | le˧ʂɯ˧bi˧pi˧bi˧, | no˧ɳɯ˧ | dʑɤ˩ʝi˧hĩ˧ tʰv̩˧ɲi˧ʂɯ˥dʑo˩, | njɤ˧ | nv̩˩mi˩qo˥ | tʰi˧ʑi˥ze˩! njɤ˧zo˧ | njɤ˧ mv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧ɲi˧ | … ʝi˧ mɤ˧dʑɯ˧! no˧ | le˧dʑɤ˩jɤ˩, | ə˧sɯ˥! | no˧ | njɤ˧ki˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɲi˧ʂɯ˩ ʁo˩ mæ˩ze˩! | pi˧zo˩, | hĩ˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩! tʰi˩˥, | njɤ˧ɳɯ˧ : | ə˧v̩˧˥ | le˧ | ʈʂʰɯ˧ne˧ʝi˥ | pi˧mɤ˧ɖo˧! kʰv̩˧pʰæ˧ tɕi˩hĩ˩dʑo˩, | hĩ˧ mo˥̍˩ʁo˩mɤ˩kv̩˩! əə … hĩ˧ mo˥ɻ̍˩ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩hĩ˩ | le˧ʁo˧mæ˧, | le˧ɖɯ˩ɲi˥mæ˩! no˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥! | pi˧! mɤ˧ɲi˩! | ʁwɤ˧qo˧ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩! pʰæ˧tɕi˩hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | dʑo˩˥, | hĩ˧ mo˥hĩ˩ mɤ˩sɯ˩hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! no˩dʑo˥, | no˧ɻ̍˩ | ə˧ʑi˧mo˧ɳɯ˥˧, | ə˧ʑi˧ɳɯ˥ | so˧ʝi˧ | dʑɤ˩˥ | ə˧sɯ˥! no˧ɻ̍˩ | ɑ˩ʁo˧ so˧ʝi˧ | dʑɤ˩ | pi˧kv̩˩! | njɤ˧ɻ̍˩dʑo˩, | gɯ˩˥! | ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ | dʑo˩ | dʑɤ˩ɲi˥! hĩ˧ mo˥hĩ˩ | ɕjɤ˩! | ʈʰææ̃˧ | hĩ˧ mo˥hĩ˩ ʁo˩ mæ˩! əə … zo˧mv̩˥ʁo˩ mæ˩zo˩kv̩˩! ɑ˩pʰo˩ tɕʰi˥dʑo˩, | hĩ˧ mo˥hĩ˩ ʁo˩ mɤ˩zo˩kv̩˩, | pi˧zo˩. | njɤ˧ | ə˧si˧tʰv̩˧v̩˧ɳɯ˧ | qʰɑ˩ne˩˥ | ʐwɤ˩kv̩˩˥ | mæ˩! ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩lɑ˩, | no˧ɻ̍˩ | dʑɤ˩ɲi˥! | no˧ | so˧hwɤ˩ | le˧dʑɤ˩ʝi˩! | no˧ | õ˧ hɤ˧ze˧, | wɤ˩˥, | ʈʂʰɯ˧ ʂɯ˧ | njɤ˧ go˧li˧tsʰɯ˩? | pi˧zo˩. tʰv̩˩mo˩ʈʂʰɯ˧ʝĩ˥, | nj˧ki˧ | ɖɯ˧hɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! tʰi˩˥, | njɤ˧ ə˧mi˧! | le˧sɑ˥, | ˧pʰo˧di˧ | mɤ˧dʑo˧˥! ə˧pʰv̩˧! | no˧ | le˧tsʰɯ˩ɲi˩! | njɤ˧ | ɑ˩ʁo˧ɳɯ˧ | no˧ | le˧pv̩˩kʰvɯ˩hĩ˩! | pi˧, | ʁ̃˩mi˧po˩kʰi˩, | tʰv̩˧ɲi˥! dʑɯ˧ … | ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩lɑ˥ dʑo˩ɲi˩ mæ˩! ho˩tʰɑ˩˥ | ɖɯ˧ɭɯ˧ po˧˥! æ̃˩˥ | ɖɯ˧mi˧ to˧to˩ po˩kʰi˥! ʈʂʰɯ˧ne˧ ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | hĩ˧˥, | gi˩˥ | ɖɯ˧ʈæ˧gv̩˧ | le˧ʂɯ˧ɲi˥ze˩! tʰ̩˥, | ʈʂʰɯ˧zo˧mv̩˥, | zo˩no˥, | hɤ˩˥ | njɤ˧ki˧! ɖɯ˧njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩! | njɤ˧! | ə˧dɑ˥ɳɯ˩, | ə˧ʝi˧ʂɯ˥ʝi˩, | no˧ ʐwɤ˧kv̩˩wɤ˥! | ə˧mi˧! | ʈæ˧ʂɯ˧ɬɑ˩ mv̩˩! no˧ | ə˧ʝi˧ʂɯ˥ʝi˩, | ɖwæ˧˥ | hĩ˧mo˧mɤ˧…kv̩˧ pʰæ˩di˩! | pi˧zo˩. | njæ˧sɯ˩kv̩˩, | ɖɯ˧ɲi˥ɖɯ˧ɲi˩, | ʐæ˧ʐæ˧kv̩˩mæ˩ | lo˧ ʝi˧bi˧! zo˩no˧zɯ˩, ! ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˧ pv̩˩ze˩kvɯ˩! no˧ ! ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ mo˥h˩, | ɖwæ˧ʁo˧ mɤ˧kv̩˩tsɯ˩, | ə˩gi˩! | pi˧zo˩, | wɤ˩˥, | ʐwɤ˩kv̩˩˥ | mæ˩!
 njæ˧ɻæ˩dʑo˩, | hĩ˧mo˥õ˩ mɤ˩kv̩˩! | no˧sɯ˩kv̩˩dʑo˩, | hĩ˧ mo˥hĩ˩ | tʰɑ˧li˩ | titsʰi˧hʰæ˧˥! | | pi˧˥, | njɤ˧ | ɖɯ˧ʂɯ˩ ɻ̍˩! tʰi˩˥, | ʁo˧mæ˧ɳɯ˩ | mɤ˧mɤ˧ʂæ˥ɲi˩ɲi˩! | tʰi˩˥, | njæ˧sɯ˩kv̩˩ v̩˩tʰv̩, | ə˧ʝi˧tsʰɯ˧ʝi˥! qʰɑ˩ne˩ʝi˥tsɤ˩ʝi˩ɳ˩! | ɖʐ ˧! ʈʰææ˧, | tʰi˩˥, | ɖʐv̩˧ɳɯ˧ | ʝi˧ɲi˥mæ˩! | pi˧zo˩, | wɤ˩˥, | zo˧hɑ̃˧ɻ˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! əĩ˩ … | zo˩no˥ʈʂʰɯ˩! õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩!
 
