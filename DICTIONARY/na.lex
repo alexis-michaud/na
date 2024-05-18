@@ -14889,7 +14889,7 @@
 \ton H#
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\ton H# | H$
+\va <speaker="F5"> ə˧ʂɯ˧ɲi˥$
 \lc ə˧ʂɯ˧ɲi˥
 \so <print="n"> F4
 \de The past few days.
@@ -17615,14 +17615,14 @@
 \ps v
 \ton Lα
 \lc gv̩˩˥
+\so <print="n"> F4
+\nt <type="hist" print="n"> (avant 09, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tv)
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tv)
 \np Homophone avec “bon (d'une personne)": gv̩˧ | ʐwæ˩˥!
-\so <print="n"> F4
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To prepare (a meal), to cook.
 \ge to_cook/to_prepare
 \dn 做（饭）
@@ -17644,9 +17644,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so <print="n"> F4
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To construct, to build (a house).
 \ge to_build
 \dn 盖、建 (房子)
@@ -17660,10 +17657,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton Lα
-\so <print="n"> F4
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To repair; to make (a tool, a machine…).
 \ge to_repair/to_make
 \dn 修理、做出来（工具）
@@ -30533,13 +30526,13 @@
 \ps v
 \ton Mα
 \lc li˧
-\sn 1
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɭi˧)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
 \de To look at.
 \ge to_look_at
 \dn 看
@@ -30558,10 +30551,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (d'abord noté ɭi˧)
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To manage, to be in charge of.
 \ge to_manage
 \dn 管理
@@ -30575,11 +30564,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (d'abord noté ɭi˧)
-\ton Mα
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To visit, to go and see (someone).
 \ge to_visit
 \dn 访问
@@ -30590,7 +30574,6 @@
 \xe The young man sees the young woman. (Euphemistic phrasing, meaning “the young man has sexual intercourse with the young woman".)
 \xn 小伙子去拜访年轻女人（委婉语，指性交）
 \xf Le jeune homme voit (=va voir) la jeune femme. (Euphémisme pour désigner les relations sexuelles.)
-\dt 04/Sep/2015
 
 \lx lje˩fe˧
 \sf <nb="2011"> 3143
@@ -36416,15 +36399,15 @@
 \ps adj
 \ton H#
 \lc mv̩˧ʈʂv̩˥
-\sn 1
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (confirmé en 09: n'est pas /to˧kɤ˧mv̩˥ʈʂv̩˩/) (confirmé en mai 2008; avais d'abord noté to˥kɤ˥ le˧mv̩˧ʈʂv̩˥, trompé par la déclinaison/les frontières)
 \nt <type="sem"> intéressant: prédicat disyllabique
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\sn 1
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
 \de Creased.
 \ge creased
 \dn 皱（衣服）
@@ -36435,12 +36418,6 @@
 \cf mv̩˧ʈʂv̩˥2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (confirmé en 09: n'est pas /to˧kɤ˧mv̩˥ʈʂv̩˩/) (confirmé en mai 2008; avais d'abord noté to˥kɤ˥ le˧mv̩˧ʈʂv̩˥, trompé par la déclinaison/les frontières)
-\nt <type="sem"> intéressant: prédicat disyllabique
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de Wrinkled.
 \ge wrinkled
 \dn （脸）有皱纹
@@ -36463,13 +36440,6 @@
 \sn 3
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (confirmé en 09: n'est pas /to˧kɤ˧mv̩˥ʈʂv̩˩/) (confirmé en mai 2008; avais d'abord noté to˥kɤ˥ le˧mv̩˧ʈʂv̩˥, trompé par la déclinaison/les frontières)
-\nt <type="sem"> intéressant: prédicat disyllabique
-\ton H#
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de Withered.
 \ge withered
 \dn 谢（花谢了）
@@ -36480,7 +36450,6 @@
 \xe The flower has withered.
 \xn 花谢了。
 \xf La fleur s'est fanée.
-\dt 04/Sep/2015
 
 \lx mv̩˧ʈʂv̩˥
 \sf <nb="B"> 203
@@ -51244,7 +51213,6 @@
 \xe to hit one's own head (context: a child hits its own head rhythmically with a stick)
 \xn 打自己的头（情景：一个小孩用小棍子敲打自己的头）
 \xf se taper sur la tête (contexte: un enfant tape en rythme sur sa propre tête avec une baguette)
-\dt 01/Oct/2015
 \sn 2
 \de Top part, upper part.
 \ge upper_part
@@ -51252,7 +51220,6 @@
 \gn 上面部分
 \df Partie supérieure de.
 \gf partie_supérieure_de
-\dt 28/Sep/2014
 
 \lx ʁo˧so˩
 \sf <nb="B"> 735
@@ -56060,9 +56027,6 @@
 \ps v
 \ton Lα
 \lc so˩˥
-\sn 1
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> swə̃51 (même polysémie: apprendre, et enseigner)
 \nt <type="hist" print="n"> (confirmé; avant 09, avais noté: ʈʰæ˥ɻæ˩ so˩)(confirmé en 2012: est un ton L)
 \so <print="n"> F4
@@ -56070,6 +56034,9 @@
 \va <speaker="M21"> ID.
 \vf mais dit: /tʰæ˧ɻ̍˩/, pas /tʰæ˧ɻæ˩/
 \vf vérifié: n'est pas ʈ: pas rétroflexe
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
 \de To study.
 \ge to_study
 \dn 学习
@@ -56088,7 +56055,6 @@
 \xe to study a little
 \xn 学一学
 \xf étudier un peu
-\xc
 \xv le˧-so˩-ɳɯ˩, | kv̩˧ ɲi˥-mæ˩!
 \xe By learning, one becomes able (to do things)! (About the necessity of schooling and learning: those who do not learn computers, foreign languages... are unable to find a good job.)
 \xn 通过学习，就会了！
@@ -56096,11 +56062,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\vf mais dit: /tʰæ˧ɻ̍˩/, pas /tʰæ˧ɻæ˩/
-\vf vérifié: n'est pas ʈ: pas rétroflexe
 \de To follow the example of someone, to imitate someone.
 \ge to_imitate
 \dn 学一个人、模仿一个人
@@ -56114,12 +56075,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton Lα
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\vf mais dit: /tʰæ˧ɻ̍˩/, pas /tʰæ˧ɻæ˩/
-\vf vérifié: n'est pas ʈ: pas rétroflexe
 \de To teach.
 \ge to_teach
 \dn 教
@@ -56133,7 +56088,6 @@
 \xv njɤ˧-ɳɯ˧ | no˧ so˧-bi˧!
 \xe I'm going to teach you! / Let me teach you!
 \xf Je vais t'enseigner/t'apprendre!
-\dt 09/May/2017
 
 \lx so˧α
 \or so
@@ -58513,7 +58467,6 @@
 \lc tɑ˩˥fv̩˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\ton LH.LH
 \so <print="n"> F4
 \de Excrement.
 \ge 大粪::excrement
@@ -58521,7 +58474,6 @@
 \gn 大粪（借词）
 \df Excrément.
 \gf 大粪::excrément
-\dt 23/Jun/2017
 
 \lx tɑ˧gɤ˩
 \sf <nb="2011"> 2467
@@ -68937,7 +68889,6 @@
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 数了
 \xf |fg{accomp} 〜 |fg{pfv}
-\dt 07/Oct/2015
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68966,7 +68917,6 @@
 \xe to look for an auspicious day for an important event; literally: “to count stars, to count days"
 \xn 掐算一下。直译：“算星星，算日子”。
 \xf chercher un jour propice pour un événement, tel que le début de la construction d'une maison; littéralement: «compter les étoiles, compter les jours»
-\dt 19/Aug/2014
 \sn 3
 \de To count as.
 \ge to_count_as
@@ -69034,7 +68984,6 @@
 \xe It's really an outstanding person!
 \xn 他非常了不起！
 \xf C'est quelqu'un de vraiment remarquable/extraordinaire!
-\dt 19/Aug/2014
 
 \lx ʈʂʰɤ˩α
 \or cheq
@@ -70843,13 +70792,13 @@
 \ps v
 \ton MH
 \lc ʈʂwæ˧˥
+\so <print="n"> F4
+\va <speaker="F5"> ID.
+\nt <type="hist" print="n"> (tons confirmés) (vérifié: n'est pas ɖʐwæ)
+\nt <type="sem"> (le verbe n'est pas un emprunt)
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tons confirmés) (vérifié: n'est pas ɖʐwæ)
-\nt <type="sem"> (le verbe n'est pas un emprunt)
-\so <print="n"> F4
-\va <speaker="F5"> ID.
 \de To set up, to install.
 \ge to_set_up
 \dn 安装
@@ -70867,10 +70816,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tons confirmés) (vérifié: n'est pas ɖʐwæ)
-\nt <type="sem"> (le verbe n'est pas un emprunt)
-\so <print="n"> F4
-\va <speaker="F5"> ID.
 \de To repair, to cure (a tooth).
 \ge to_repair
 \dn 补（牙）、修好（坏牙）
@@ -70889,11 +70834,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tons confirmés) (vérifié: n'est pas ɖʐwæ)
-\nt <type="sem"> (le verbe n'est pas un emprunt)
-\ton MH
-\so <print="n"> F4
-\va <speaker="F5"> ID.
 \de To tie (a string), to make a knot to tie two pieces of thread together.
 \ge to_tie
 \dn 结线
@@ -70904,7 +70844,6 @@
 \xe to tie pieces of thread together
 \xn 结线
 \xf attacher des brins de fil ensemble, nouer des fils (par ex. lorsqu'on prépare le métier à tisser)
-\dt 07/Oct/2015
 
 \lx ʈʂwæ˧˥
 \hm 2
@@ -72264,7 +72203,6 @@
 \xf J'ai du temps libre. / J'ai le temps.
 \xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
 \rf F5
-\dt 18/Jul/2016
 \sn 2
 \pdl classifier
 \pdv ɭɯ˧
@@ -72291,7 +72229,6 @@
 \xn 几点了？
 \xf Quelle heure est-il?
 \rf F5
-\dt 22/Aug/2014
 
 \lx tv̩˧tsʰɯ˧li˧di˩
 \sf <nb="B"> 759
@@ -72534,10 +72471,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To rise (wind).
 \ge to_come_out
 \dn 刮（风）
@@ -72547,12 +72480,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton Mα
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To bud, to sprout (a tree sprouts).
 \ge to_sprout
 \dn 发芽、抽芽
@@ -72566,12 +72493,6 @@
 \sn 4
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton Mα
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To appear, to happen, to get (a wound).
 \ge to_get(wound)
 \dn 出现
@@ -72586,7 +72507,6 @@
 \xe someone has got wounded!
 \xn 有人受伤了！
 \xf quelqu'un s'est blessé!
-\dt 05/Jul/2017
 
 \lx tʰv̩˧α
 \sf <nb="B"> 2203
@@ -72599,7 +72519,6 @@
 \lc tʰv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
 \ton Mα
 \so <print="n"> F4
 \de To create; to found.
