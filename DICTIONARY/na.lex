@@ -331,6 +331,22 @@
 \xc PHONO
 \dt 01/Sep/2015
 
+\lx ɬɬɬ
+\or lhhh
+\ps intj
+\sd <langue="fra"> interjection
+\sd <langue="eng"> interjection
+\nt <type="hist" print="n"> Utilisé dans les textes de longue date. Ajouté au dictionnaire en 2024.
+\ton --
+\lc æ˧hi˩hi˩
+\so <print="n"> F4
+\de Interjection expressing pleasurable titillation of appetite ('Yummy!'), or other strong impressions, including negative ones.
+\ge |fg{intj_strong_impression}
+\dn 表示食物很诱人或其它强烈印象（包括消极的印象）：哇！
+\gn 哇！
+\df Interjection qui indique une forte impression. Il peut s'agir de l'odeur ou de l'aspect d'une nourriture appétissante (Miam miam!), ou d'une autre forte impression, y compris négative.
+\gf |fg{intj_forte_impression}
+
 \lx æ˧-hi˩hi˩
 \or ehihi
 \ps intj
@@ -3677,26 +3693,6 @@
 \xc <type="sem" langue="fra"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
 \xc <type="tone"> LM+H#
 \dt 24/Apr/2017
-
-\lx bo˩mi˧-dʑɯ˩pv̩˩
-\sf <nb="B"> 1813
-\sf <nb="2011"> 2762
-\or bbomijjibu
-\ps n
-\lc bo˩mi˧dʑɯ˩pv̩˩
-\sd <langue="fra"> animal
-\sd <langue="eng"> animal
-\ton LM-L
-\so <print="n"> F4
-\va <speaker="M21"> périphrase: |fv{dʑi˧ku˧bv̩˧} “insectes qu'il y a) dans l'eau"
-\vf utile pour étudier les composés avec “eau"
-\de |fi{(Dytiscus}, a predaceous diving beetle.
-\ge dytiscus
-\dn 龙虱
-\gn 龙虱
-\df Dytique, |fi{Dytiscus}. xxxx sens à vérifier : dytique ou charançon ?
-\gf dytique
-\dt 04/Aug/2017
 
 \lx bo˩mi˧-dʑɯ˩pʰv̩˩
 \sf <nb="B"> 2219
@@ -37758,6 +37754,10 @@
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 饱了
 \xf |fg{accomp} 〜 |fg{pfv}
+\xv ə˩-ɲi˧-sɯ˧?
+\xe Are you full (or would you like another bowl of rice)?
+\xn （你）饱了没有？
+\xf Es-tu déjà rassasié (ou souhaites-tu encore un bol de riz)?
 \xv hɑ˧-ɲi˧(-ze˩)
 \xe I am full. / I am satiated.
 \xn 吃饱了。 / 吃饱饭了。
@@ -37766,7 +37766,6 @@
 \xe I am full. / I am satiated.
 \xn 我饱了。
 \xf je suis rassasié
-\dt 09/Sep/2015
 
 \lx ɲi˧˥
 \sf <nb="B"> 812
@@ -39273,7 +39272,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> njɤ˧, ton m3: njɤ˩ɲi˩˥
+\va <speaker="M21"> ID.
 \de 1st singular pronoun, |fg{1sg.}
 \ge |fg{1sg}
 \dn 我
@@ -40156,6 +40155,40 @@
 \df Deuxième personne du pluriel.
 \gf |fg{2pl}
 \dt 13/Jul/2017
+
+\lx njɤ˧=ɻ̍˩
+\or nyalae
+\ps pro
+\cf njæ˧-sɯ˩kv̩˩
+\cf njɤ˩=ɻ̍˥
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton L#
+\lc njɤ˧ɻ̍˩
+\so <print="n"> F4
+\de First person plural, exclusive.
+\ge |fg{1pl.excl}
+\dn 我们
+\gn 我们
+\df Première personne du pluriel, exclusive.
+\gf |fg{1pl.excl}
+
+\lx njɤ˩=ɻ̍˥
+\or nyalae
+\ps pro
+\cf njæ˧-sɯ˩kv̩˩
+\cf njɤ˧=ɻ̍˩
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton LH
+\lc njɤ˩=ɻ̍˥
+\so <print="n"> F4
+\de First person plural, exclusive.
+\ge |fg{1pl.excl}
+\dn 我们
+\gn 我们
+\df Première personne du pluriel, exclusive.
+\gf |fg{1pl.excl}
 
 \lx no˧=zɯ˩
 \sf <nb="B"> 2160g
@@ -49261,19 +49294,6 @@
 \sf <nb="B"> 1779b
 \sf <nb="2011"> 2532
 \or qi
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n"> xxxx à vérifier ; tiré du texte Benevolence.
-\ton H
-\lc tɕʰɯ˧
-\so <print="n"> F4
-\de To get better (disease, ailment, pain…).
-\ge to_get_better
-\dn 变好（病、痛）
-\gn 变好
-\df Aller mieux (maladie, douleur), s'améliorer (l'état d'un malade s'améliore).
-\gf aller_mieux
 
 \lx ɻæ˩˥
 \sf <nb="B"> 2130
@@ -49777,6 +49797,11 @@
 \xe Thank you!
 \xn 谢谢！
 \xf Merci!
+\xv ʁɑ˩mi˥-ze˩ | æ˩sæ˥!
+\xe Thank you! (Polite formulation)
+\xn 谢谢！（礼貌说法）
+\xf Merci! (Formulation
+
 \dt 01/Oct/2015
 
 \lx ʁæ˧ŋv̩˥
@@ -50508,7 +50533,7 @@
 \xe seven years ago
 \xn 七年前
 \xf il y a sept ans
-\xv ʁo˧dɑ˧ ɖɯ˧-so˩ ɲi˩
+\xv ʁo˧dɑ˧ | ɖɯ˧-so˩ ɲi˩
 \xe the past few days
 \xn 前几天
 \xf ces derniers jours, les quelques jours passés, il y a quelques jours
@@ -51145,14 +51170,14 @@
 \gn 后
 \df Au sens spatial: derrière. Au sens temporel: après.
 \gf derrière/après
-\xv ʂɯ˧-kʰv̩˧-ʁo˧dɑ˧ xxxx essayer en remplaçant par: ʁo˧tʰo˩
-\xe seven years ago
-\xn 七年前
-\xf il y a sept ans
-\xv ʁo˧dɑ˧ ɖɯ˧-so˩ ɲi˩ xxxx essayer en remplaçant par: ʁo˧tʰo˩
-\xe the past few days
-\xn 前几天
-\xf ces derniers jours, les quelques jours passés, il y a quelques jours
+\xv ʂɯ˧-kʰv̩˧-ʁo˧tʰo˩
+\xe seven years later
+\xn 七年后
+\xf sept ans après
+\xv ʁo˧tʰo˩ | ɖɯ˧-so˩ ɲi˩
+\xe the next few days
+\xn 后几天
+\xf les quelques jours suivants
 
 \lx ʁo˧qɑ˥
 \sf <nb="B"> 508
@@ -59559,6 +59584,22 @@
 \gf âne
 \dt 27/Apr/2017
 
+\lx tæ˧˥
+\or dae
+\bw <langue="cmn"> 断
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton MH
+\lc tæ˧˥
+\so <print="n"> F4
+\de To run out of: e.g. the food supplies run out.
+\ge 断::to_run_out
+\dn 断（断货的断）
+\gn 断（借词）
+\df Venir à manquer, s'épuiser: les provisions viennent à manquer, les réserves s'épuisent.
+\gf 断::venir_à_manquer
+
 \lx tɑ˩α
 \or da
 \ps clf
@@ -62658,31 +62699,33 @@
 \gf 对待::traiter
 \dt 04/Sep/2017
 
-\lx ti˧tsʰo˧
+\lx ti˧tsʰo˩
 \or dico
 \ps n
-\lc ti˧tsʰo˧
+\lc ti˧tsʰo˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> ajouté en 2018 ; sens à voir ; ton à confirmer xxxx
-\nt <type="hist" print="n">
+\nt <type="hist" print="n"> ajouté en 2018 ; sens établi en 2024: velours côtelé
+\nt <type="hist" print="n"> avais d'abord noté /ti˧tsʰo˧/
 \ton M
-\so <print="n"> F5
+\so <print="n"> F4
 \va <speaker="F5"> ti˧˥tsɯ˥
 \pdl
 \pdv
-\de A sort of fabric, made of cotton, recently introduced in Yongning
-\ge fabric_sp
-\dn 一种布料，棉花做的
-\gn 一种布料
-\df Sorte de tissu (dentelle?) fabriqué en coton; d'introduction récente.
-\gf sorte_de_tissu
-\xv ti˧tsʰo˧ ʐv̩˩
-\xo
-\xe to sew this sort of fabric
-\xn 缝这种布料
-\xf coudre ce type de tissu
-\dt 10/Jun/2018
+\de Corduroy. A sort of fabric, made of cotton, recently introduced in Yongning.
+\ge corduroy
+\dn 灯芯绒：一种布料，棉花做的
+\gn 灯芯绒
+\df velours côtelé (sorte de tissu fabriqué en coton; d'introduction récente; on en fait des vêtements).
+\gf velours_côtelé
+\xv ti˧tsʰo˩ ʐv̩˩
+\xe to sew corduroy
+\xn 缝灯芯绒
+\xf coudre du velours à côtes
+\xv ti˧tsʰo˩-ʐv˩ bɑ˩lɑ˩
+\xe corduroy garment
+\xn 灯芯绒衣服
+\xf un vêtement en velours côtelé
 
 \lx ti˧tsɯ˥
 \sf <nb="B"> 488b
@@ -67880,30 +67923,6 @@
 \gn 菖蒲
 \df Acore odorant, jonc odorant, |fi{Acorus calamus}: plante herbacée aquatique, pérenne, rhizomateuse.
 \gf acore_odorant
-\dt 27/Apr/2017
-
-\lx tsɤ˧di˧
-\or zeddi
-\ps n
-\lc tsɤ˧di˧
-\cf ʁo˩kʰv̩˩
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\nt <type="sem"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo' xxxx vérifier : deux entrées avec voyelle différente, /ɤ/ et /e/
-\ton M
-\so <print="n"> F4
-\de Sandalwood, sandlewood; a tall tree, not a shrub.
-\ge sandalwood
-\dn 香木
-\gn 香木
-\gr 柏香
-\df Arbre à épice, arbre à encens de grande taille.
-\gf arbre_à_épice
-\xv tsɤ˧di˧-dzi˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 06/Jun/2017
 
 \lx ʈʂʰo˧do˩
 \sf <nb="2011"> 591
@@ -78533,12 +78552,14 @@
 \xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
-\xc
 \xv v˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
-\xo
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
+\xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˩di˩? xxxx ɑmɑ
+\xe What kind of an impression does that give? (A way to point out to someone, coolly, calmly and without violence, that their behaviour is unseemly and undignified: for instance if someone is indulging in unreasonable quantities of alcohol.)
+\xn 这像什么呢？／这，给人是什么样的印象？（委婉说法，给一个人指出，他的行为不像话：如，一个人正在喝太多酒。）
+\xf Quelle impression ça produit, tout ça? (Façon calme et posée de signifier à quelqu'un que son comportement manque à la dignité: par exemple si quelqu'un se laisse aller à boire des quantités déraisonnables d'alcool.)
 \rf F5
 \dt 27/Apr/2017
 

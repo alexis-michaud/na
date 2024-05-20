@@ -1144,7 +1144,7 @@ Quand je lui ai donné, il a dit: “Eeeh bien, grand merci! Vous avez fait là 
 
 “dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰɯ˧-ze˩, | le˧-hɤ˩-ze˩!” | 
 %Transcription automatique : dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧ 
-%fr D'abord noté /gɤ˩-tɕʰi˧-ze˩/; sens vérifié auprès de F4: /gɤ˩-tɕʰɯ˧/ veut dire 'aller mieux, guérir'. Reporté dans le dictionnaire.
+%fr D'abord noté /gɤ˩-tɕʰi˧-ze˩/; sens vérifié auprès de F4: /gɤ˩-tɕʰɯ˧/ veut dire 'élever, relever' (même verbe que dans "lever le bras"). D'où le sens figurer de: 'aller mieux, guérir'.
 “Après avoir bu ce bol de thé sucré, mon état s'est amélioré; ça va mieux!”
 “喝了这碗甜茶之后，我身体好了一些，感觉我好了！”
 
@@ -1344,7 +1344,7 @@ Ensuite, on laisse [les planches là] pendant un mois! (On laisse le bois vert s
 %fr Fin de la reprise avec Ama le 30 avril 2018 (très courte séance: quelques minutes)
 Ce sont des chevaux qui transportent [ce chargement]! On engage des gens, qui portent [les planches] à dos d'homme [jusqu'à l'endroit où les chevaux attendent]! Voilà comment on obtient [les planches pour la construction]! 
 
-tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧, | tʰv̩˧-ɲi˥-dʑo˩, | njæ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | gv̩˩pʰæ˩ ʑi˥ kʰi˩. | 
+tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧, | tʰv̩˧-ɲi˧-dʑo˩, | njæ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | gv̩˩pʰæ˩ ʑi˥ kʰi˩. |
 %Utterance ID: BENEVOLENCE.110 
 %Transcription automatique : tʰi˧pɤ˧pɤ˧dʑo˧ | tʰv̩˧ɲi˥dʑo˩ | njæ˧-sɯ˩kv̩˩ | ɖɯ˧tɑ˧˥ | gɤ˩kʰæ˩ʑi˥kʰi˩ | 
 %fr D'abord noté /tʰi˧-pɤ˧~pɤ˧-dʑo˧/; après vérification auprès de F4, corrige en: /tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧/.
@@ -1412,220 +1412,221 @@ On était épuisé ; et houlà ! Sur le chemin du retour, la neige tombait, tomb
 bi˧ | le˧-gi˧-ze˥ wɤ˩, | dʑɯ˩nɑ˩mi˩˥ | gɤ˩-do˧-hɯ˧ gɤ˥-do˩-ɻ˩, | bi˧ | gi˧-hɯ˧ ɡi˧-ɻ˥ | dʑɤ˩˥ | le˧-do˥, | kʰɯ˧tsʰɯ˧˥ | ʈʂʰɯ˧qo˧-ze˧ tʰv̩˧. |
 %Utterance ID: BENEVOLENCE.114 
 %fr gɤ˩-do˧ hɯ˧ gɤ˥-do˩-ɻ˩ '爬来爬去'. Vérifié: est bon; on peut également dire: /do˧-hɯ˧ do˧-ɻ˥/; du verbe 'grimper', /do˥/
-%fr Fin de la transcription 2018. Ce qui suit a été fait en 2020 sans la locutrice : à revoir avec elle. xxxx
-%fr /bi˧gi˧-hɯ˩/ ou /bi˧gi˧-hɯ˧/? xxxx
+%fr Fin de la transcription 2018. Ce qui suit a été fait en 2020 sans la locutrice, et revu avec elle en 2024.
 %Transcription automatique : bɯ˧ | le˧gi˥zɑ˥o | dʑɯ˩nɑ˩ɳi˩˥ | gɤ˩dv̩˥ | hɯ˧gɤ˧do˩ | bi˧gi˩hɯ˩go˩˥ | le˧do˥kʰɯ˩tsʰɯ˩ | tʰv̩˧qo˧ze˩ | tʰv̩˧
 %212
-Quand il neigeait, à cheminer en montagne encore et encore, on rencontrait souvent la neige, elle vous montait jusque-là à la jambe !
+Il se mettait à neiger; on cheminait en montagne, encore et encore, la neige tombait encore et encore; on montait; [la neige], elle vous montait jusque-là à la jambe !
 
-tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ kʰv̩˧-ki˧ tʰi˩-tv̩˩-dʑo˩, | zo˩no˥, | ə˧v̩˧-ɻæ˧-ɳɯ˥, | pʰæ˧tɕi˥ | qʰɑ˩jɤ˩ hĩ˥-hĩ˩, | pʰæ˧tɕi˥ ʈʂʰɯ˩-tɕi˩-nɯ˩, | ɕi˧ʈʂʰɯ˧ | zo˩no˥ | le˧ʑi˩ | le˧po˧tsʰɯ˧˥ |
+tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ qʰo˧-ki˧ | tʰi˧-tʰv̩˧-dʑo˥, | zo˩no˥, | ə˧v̩˧=ɻæ˧-ɳɯ˥, | pʰæ˧tɕi˥ | qʰɑ˩jɤ˩ kʰi˥-ɲi˩, | pʰæ˧tɕi˥ ʈʂʰɯ˩-tɕi˩-nɯ˩, | si˧-ʈʂʰɯ˧ | zo˩no˥ | le˧-ʑi˩ | le˧-po˧-tsʰɯ˧˥! |
 %Utterance ID: BENEVOLENCE.115 
 %Transcription automatique : tʰi˩˥ | tɑ˧tɑ˧˥ | gv̩˧kʰv̩˩ki˩tʰi˩tv̩˩dʑo˩ | zo˩no˥ | ə˧lɑ˧ | ɻə˧ni˧˥ | pʰæ˧tɕɤ˥ | qʰɑ˩hjɤĩ˩hi˥gi˩ | pʰæ˧tɕi˥tɕi˩nɯ˩ | ɕi˧ʈʂʰɯ˧ | zo˩no˥ | le˧ʑi˩ | le˧po˧tsʰɯ˧˥ |
+% xxxx Revoir avec F4, à 19 mn 12 secondes: qu'est ce /gv̩˧ kʰv̩˧-ki˧/? ɻéponse: c'est gv̩˧ qʰo˧-ki˧ le lieu où sont eMPILEEES les planches
 % À partir d'ici : reprends la transcription automatique de 2022, GitHub/na/AutomaticTranscription/2022_09_Transformers/prediction_M02_345116.txt, que voici : 
 %tʰi˩˥,  tɑ˧tɑ˧,  gv̩˧qʰv̩˧ki˧  tʰi˧tv̩˧˥  dʑo˩ … zo˩no˥,  ə˧v̩˧ɻæ˧ɳɯ˥,  pʰæ˧tɕi˥  qʰɑ˩jɤ˩ ki˥ɲi˩,  pʰæ˧tɕi˥  tɕi˩tɕɤ˩ɳɯ˩,  si˧ʈʂʰɯ˧! zo˩no˥,  le˧ʑi˩ le˧po˧tsʰɯ˧˥!
+Alors, parvenu précisément à l'endroit où étaient empilées les planches, eh bien, les oncles, et tous les jeunes qui étaient du voyage, eh bien, ils portaient le bois à dos d'homme (pour le ramener au village).
 
 %1160.300 s
-mmm … mv̩˧ | tʰi˧-kʰɯ˧˥! | tʰi˧-kʰɯ˧˥ | -dʑo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | ʈʂʰɯ˧ … ʁo˧dɑ˧ tʰv̩˧-ʑi˩, | | ɖʐɤ˩kɤ˧-ʈæ˧ʈʂʰɯ˩ tsʰɯ˩pi˩-hĩ˩ tʰv̩˩-v̩˩-dzo˩, | ɖɯ˧-pi˧˥ | hĩ˧ dzɑ˧ ʈʂʰɯ˧-ʈʂæ˩-qo˩! | ʐɯ˧ | dʑo˧-mɤ˧-ʁo˧!
-xxxx tons à vérifier
-Ils n'avaient pas les moyens de se procurer de l'alcool!
+mmm … mv̩˧ | tʰi˧-kʰɯ˧˥! | tʰi˧-kʰɯ˧˥ | -dʑo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | ʈʂʰɯ˧ … ʁo˧dɑ˧ tʰv̩˧-ʑi˩, | ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ˩ pi˩-hĩ˩ tʰv̩˩-v̩˩-dzo˩, | ɖɯ˧-pi˧˥ | hĩ˧ dzɑ˧ ʈʂʰɯ˧-ʈʂæ˩-qo˩! | ʐɯ˧ | dʑo˧-mɤ˧-ʁo˧! |
+véɻifié les tons: ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ˩
+Mmmh... on faisait un feu! Ce faisant, eux... autrefois, cette famille, celle de Zzhege Dashi, elle était assez pauvre, à cette génération-là! Ils n'avaient pas les moyens de se procurer de l'alcool!
 
 %1167.92s
-tʰi˩˥, | njɤ˧=ɻ̍˩-dʑo˩, | ʈʰææ̃˧, | ə˧ʑi˧-ʈʂʰɯ˥-ɳɯ˩, | ʐɯ˧ | ɖɯ˧-ɬi˧-qo˧ | ɲi˧-ʝi˥ tɕɤ˩! |
-Tandis que dans ma famille à moi, vrai de vrai, ma grand-mère, elle brassait deux jarres d'alcool par mois!
-
-1173.34
-mmm... tʰi˧-tɕɯ˥! |
-On le conservait/on le serrait en réserve!
+tʰi˩˥, | njɤ˧=ɻ̍˩-dʑo˩, | ʈʰææ̃˧, | ə˧ʑi˧-ʈʂʰɯ˥-ɳɯ˩, | ʐɯ˧ | ɖɯ˧-ɬi˧-qo˧ | ɲi˧-ʝi˥ tɕɤ˩! | mmm... tʰi˧-tɕɯ˥! |
+Tandis que dans ma famille à moi, vrai de vrai, ma grand-mère, elle brassait deux jarres d'alcool par mois! On le conservait/on le serrait en réserve!
 
 1175.68 secondes
 ʐɯ˧ | hĩ˧bæ˧ tsʰɯ˧-bi˥, | <tæ˧ mɤ˥-kʰɯ˩> [mɤ˧-dʑo˧ mɤ˧-tʰɑ˧˥] ! |
-% tæ˧ mɤ˥-kʰɯ˩: tæ˩: être à sec ? manquer ? (pas présent dans le dictionnaire, seulement tæ˧pv˩ 'sec'. est du chinois; xxxxts ɻéponse: 断货的断 tæ˧˥
-Le vin, on ne doit jamais en être dépourvu (littéralement: "oon ne peut pas le laisser venir à manquer, des fois qu'un invité paraisse !
+% tæ˧ mɤ˥-kʰɯ˩: avais pensé à un lien avec /tæ˧pv˩/ 'sec', mais c'est le mot chinois 断（断货的断） 'venir à manquer', emprunté comme /tæ˧˥/. Ajouté au dictionnaire.
+Le vin, on ne doit jamais en être dépourvu (littéralement: "on ne peut pas le laisser venir à manquer"), des fois qu'un invité paraisse !
 
 1177.88
-ɑ˩ʁo˧ dʑo˩-bi˩-bi˩, | zo˩no˥, | hĩ˧ jo˧-kv̩˩ pi˩, | ʐɯ˧ | ʈʰææ̃˧ | tʰi˧-tɕɯ˥! | tʰi˧-tɕɯ˥-dʑo˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩ kʰi˥ | ɖɯ˧-ɲi˥-dʑo˩, | gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥, | pi˧-zo˩, | ʐɯ˧-ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧-kv̩˥ mæ˩! |
-% /gv̩˩pʰæ˩/: planche; sens ici: les planches dont on se servait pour confectionner les toitures.
-Quand on allait chercher les planches, gv̩˩pʰæ˩ ʑi˩ = gv̩˧ ʑi˧
+ɑ˩ʁo˧ dʑo˩-bi˩-bi˩, | zo˩no˥, | hĩ˧ jo˧-kv̩˩ pi˩, | ʐɯ˧ | ʈʰææ̃˧ | tʰi˧-tɕɯ˥! |
+Même si on en a à la maison, eh bien, [on ne se précipite pas pour le boire:] on se dit qu'il peut venir quelqu'un (un invité), (et) le vin, vrai de vrai, on le garde !
+
+tʰi˧-tɕɯ˥-dʑo˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩ kʰi˥ | ɖɯ˧-ɲi˥-dʑo˩, | "gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥!", | pi˧-zo˩, | ʐɯ˧-ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧-kv̩˥ mæ˩! |
+% /gv̩˩pʰæ˩/: planche; sens ici: les planches dont on se servait pour confectionner les toitures.Quand on allait chercher les planches, gv̩˩pʰæ˩ ʑi˩ = gv̩˧ ʑi˧
+%19mn 35
+On gardait (l'alcool) en réserve; alors, le jour où on allait prendre des planches (sur la montagne), on disait: "C'est parti pour aller chercher les planches!", et le vin, on en faisait fermenter!
 
 le˧-wo˧-tʂʰɯ˧-ɬi˧-qo˩: | "gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥-ze˩! | ə˧-sɯ˩kv̩˩, | ʐɯ˧ v̩˧ tɕɤ˩-bi˩!" | pi˧, | ʐɯ˧ | tʰi˧-tɕɤ˧˥! |
-le mois pɻécédent:
-% /ʐɯ˧ v̩˧/: interprétation de N + CLF (sans numéral) comme 'un' à confirmer.
-élicité ɑu pɑssɑɡe: hɑ˧ kʰwɤ˧ dzɯ˧! véɻifié
-1193.84
+% /ʐɯ˧ v̩˧/: l'interprétation de la structure N + CLF (sans numéral) est confirmée: le sens est celui de 'un' (ici, 'un pot, une casserole'). Élicité au passage: /hɑ˧ kʰwɤ˧ dzɯ˧/ 'manger une bouchée', avec la même structure N + CLF (nourriture+bouchée).
+% 1193.84s, 19 mn 41
+Le mois précédent, on disait: "Il va falloir aller chercher des planches (sur la montagne)! Nous autres, on va préparer une casserole d'alcool!" Et on préparait de l'alcool!
 
-tʰv̩˧ ɲi˧-dʑo˩, | njɤ˧=ɻ̩˩ | ʐɯ˧ | <ɲi˧-tɕɯ˧ pɤ˧~pɤ˥> [ɲi˧-kɤ˩ pɤ˩~pɤ˩] | po˧-kʰi˥-ɲi˩! |
-sens à voiɻ
-tɕɯ˧˥: livɻe, mot chinois
-n'est pɑs: tʰv̩˧ ɲi˩-dʑo˩(/ɳɯ˩?
+tʰv̩˧-ɲi˧-dʑo˩, | njɤ˧=ɻ̩˩ | ʐɯ˧ | <ɲi˧-tɕɯ˧ pɤ˧~pɤ˥> [ɲi˧-kɤ˩ pɤ˩~pɤ˩] | po˧-kʰi˥-ɲi˩! |
+% /tɕɯ˧˥/: livre, mot chinois; F4 suggère une formulation de remplacement: compter par bouteilles plutôt que par livres.
+% n'est pas: /tʰv̩˧ ɲi˩-dʑo˩/. La réalisation phonétique est proche d'une forme disyllabique à schéma tonal M.L. La baisse tonale sur le mot /ɲi˧/ me paraît à interpréter comme un indice de la syllabe /dʑo˩/ (au ton L), par ailleurs très fortement réduite (presque entièrement élidée).
+Ce jour-là, notre famille apportait, à dos d'homme, <deux livres> [deux bouteilles] d'alcool!
 
 1196.32
 njɤ˧=ɻ̍˩ | pʰæ˧tɕi˥ s[o]˩... | njɤ˧=ɻ̍˩ | so˩-kv̩˩ ʁɑ˩ʂe˥ | po˧ kʰi˥! |
-Notre maisonnée, elle recrutait trois jeunes garçons !
+Notre maisonnée, elle recrutait trois jeunes garçons, et les emmenait !
 
 1199.12
 njɤ˩=ɻ̍˥ | ɑ˩ʁo˧ | ɲi˧-kv̩˧˥! | tʰi˩˥, | pʰæ˧tɕi˥ | ŋwɤ˧-kv̩˧ kʰi˥! |
-% njɤ˩=ɻ̍˥ : variante possible du ton ML.
+% njɤ˩=ɻ̍˥ : variante tonale possible de ce pronom, ordinairement au ton ML. confirmer le ton: LH$? LH#? Hypothèse: simple ton LH. Difficulté à l'obtenir, la forme "correcte" étant considérée celle au ton LH.
+De notre maisonnée, il y en avait deux! De la sorte, c'étaient cinq jeunes gens qui y allaient (qui participaient à l'expédition)!
 
 1202.42
-ʈʂʰɯ˧ F | tʰi˩˥, | pʰæ˧tɕi˥ | ɲi˧-kv̩˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥ | no˧˥! | ə … mi˩zɯ˩ so˩-kv̩˥! |
+ʈʂʰɯ˧ F | tʰi˩˥, | pʰæ˧tɕi˥ | ɲi˧-kv̩˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥ | -no˧˥! | ə … mi˩zɯ˩ so˩-kv̩˥! |
+De cette famille-là (celle de Zzhege Dashi), il y avait deux jeunes gens, et aussi ce vieil homme; (et) trois femmes!
 
-(The adolescent, |fv{pʰæ˧tɕi˥-zo˩}, becomes a man.)
-\dn 男人
-\gn 男人
-\df Homme, être humain mâle adulte, |fi{Vir}.
-\gf homme
+ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | njæ˧-sɯ˩kv̩˩, | mi˩zɯ˩ … | pʰæ˧tɕi˥, | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | tʰv̩˧-ɲi˧, | gv̩˩pʰæ˩ pɤ˩~pɤ˥ hĩ˩, | -no˧˥ | -qɑ˩,
+| hĩ˧ | ɲi˧-tsi˧-ze˧-gv̩˧-kv̩˧˥! |
+%20 mn 1* secondes
+% La syllabe /-kʰi˩/ dans le premier /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ est dite très rapidement: je ne l'aurais pas reconnue sans l'indication sûre de F4. La deuxième occurrence de l'expression /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ m'aurait été totalement inintelligible sans l'indication de F4.
+% /ɲi˧-tsɯ˧-ze˧/: 二十几? xxxx ama à confirmer; /tsɤ˧/ 'devenir, donner': 'ça donnait 20 personnes en tout'? réponse: ɲi˧tsi˧-ɖɯ˧-v˧-ze˧ ɡv˧
+% et comment on dit: "plus de 20", "plus de 10", "plus de 100" ?
+En sollicitant ainsi les familles (=en battant ainsi le rappel), nous, les femmes, les jeunes gens, en rassemblant tout le monde, eh bien, les gens qui s'en allaient porter les planches, ça donnait un groupe de vingt personnes! / on atteignait le nombre de vingt personnes!
 
-ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | njæ˧sɯ˩kv̩˩, | mi˩zɯ˩ … | pʰæ˧tɕi˥, | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | tʰv̩˧ɲi˧, | gv̩˩pʰæ˩ pɤ˩~pɤ˥ hĩ˩, | no˧˥-qɑ˩,
-(ʐ0 mn ʂʅ secomdes)
-| hĩ˧ | ɲi˧-tɕɯ˧-ze˧ | gv̩˧ kv̩˧˥! |
-on ɑɻɻivɑit à vinɡt peɻsonnes!
-tʰi˩˥, | hɑ˧ | ɖɯ˧-ʁwɤ˧ | tʰi˧-tɕɯ˥, | le˧-dzɯ˥ | dʑo˩ …
-20mn18 secondes
-ə˧pʰv̩˧ | tʰv̩˧-v̩˧-dʑo˩, | le˧-go˩ … | le˧-ɖʐo˧-zo˥! | ʈʂʰɯ˧ne˧ʝi˥, | nɑ˩~nɑ˧ zo˥! | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩-zo˩! |
-il tremblait
+tʰi˩˥, | hɑ˧ | ɖɯ˧-ʁwɤ˧ | tʰi˧-tɕɯ˥, | le˧-dzɯ˥ | dʑo˩ | tʰi˩˥, | ə˧pʰv̩˧ | tʰv̩˧-v̩˧-dʑo˩, | <le˧-go˩-z…> le˧-ɖʐo˧-zo˥! | ʈʂʰɯ˧ne˧-ʝi˥, | nɑ˩~nɑ˧ zo˥! | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩-zo˩! | ə˧mi˧, ə˧mi˧! | bi˧ | le˧-gi˧-zo˥! |
+% 20mn18 secondes
+Alors, comme on avait préparé tout un tas de nourriture, alors qu'on mangeait, le grand-père, il a eu mal: il avait froid! Il était pris de tremblements. Il tremblait, il tremblait, il tremblait! Aïe, aïe, aïe! Par temps de neige / alors qu'il neigeait!
 
-ə˧mi˧, ə˧mi˧! | bi˧ | le˧-gi˧-zo˥! | tʰi˩˥, | … njɤ˧ | ʐɯ˧ ʈʂʰɯ˧ ɲi˥-tɕɯ˩, | gɤ˩-tʰv̩˥! | tʰv̩˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩ | ʐɯ˧ mɤ˧-po˧˥! | njɤ˧=ɻ̍˩ | ʈʂʰɯ˧ lɑ˩ po˩! |
-vinɡt minutes tɻente
-ɖɯ˧-v̩˧-ki˥-ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥-ne˩ʲi˩, | ʈʂʰɯ˧ne˧ ʝi˥-qo˩-ɳɯ˩, | li˩ ʈʰɯ˩ qʰwɤ˥-qo˩-ɳɯ˩! | ə˧mv̩˥tɕi˩, | ɖɯ˧-v̩˧ ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! | ə˧v̩˧˥ | … ə˧pʰv̩˧ tʰv̩˧v̩˧-ki˧! |
-tsʰ! (suɻ inspiɻɑtion) ə˧mi˧! | ʁɑ˩mi˧-ze˩, | æ˩sæ˥! |
-æ˩sæ˥: enjolivement. bæ˩bæ˩ tʰi˩-di˥: il y ɑ des fleuɻs, c'est fleuɻi
+tʰi˩˥, | … njɤ˧ | ʐɯ˧ ʈʂʰɯ˧ ɲi˥-tɕɯ˩, | gɤ˩-tʰv̩˥! | tʰv̩˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩ | ʐɯ˧ mɤ˧-po˧˥! | njɤ˧=ɻ̍˩ | ʈʂʰɯ˧ lɑ˩ po˩! |
+%vinɡt minutes tɻente
+Alors moi, j'ai sorti ces deux bouteilles d'alcool! Eux, personne de leur famille n'avait amené d'alcool! On était la seule famille à en avoir amené!
 
-no˧ | mv̩˩zo˩˥! |
-zo: diphtonɡué veɻs ɑ/æ
+ɖɯ˧-v̩˧ ki˥-ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥-ne˩ʲi˩, | ʈʂʰɯ˧ne˧ ʝi˥-qo˩-ɳɯ˩, | li˩ ʈʰɯ˩ qʰwɤ˥-qo˩-ɳɯ˩! | ə˧mv̩˥-tɕi˩, | ɖɯ˧-v̩˧ ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! | ə˧v̩˧˥ | … ə˧pʰv̩˧ tʰv̩˧-v̩˧-ki˧ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |
+Pour en servir / pour servir le vin, en fait de gobelet, voilà comment j'ai fait: dans les bols pour boire le thé, j'en ai versé un petit peu, donnant une goutte pour chacun! J'en ai servi au vieil homme!
 
-"no˧ | njɤ˧-bv̩˧ zɯ˧~zɯ˧ | ɲi˧-ʂɯ˩ tɕo˩-ze˩! |
-tɕo˩: mot chinois
+ɬɬɬ! ə˧mi˧! | ʁɑ˩mi˧-ze˩, | æ˩sæ˥, | no˧ | mv̩˩zo˩˥! |
+% /æ˩sæ˥/: est un enjolivement des remerciements. /ʁɑ˩mi˧-ze˩/, c'est un Merci un peu sec. /ʁɑ˩mi˧-ze˩, | æ˩sæ˥/, c'est une formule qui prend le temps de s'exprimer. C'est une façon de parler qu'on peut, en na comme en français, dire "fleurie": /bæ˩bæ˩ tʰi˩-di˥/ ('il y a des fleurs, c'est fleuri').
+% /zo/ dans /mv̩˩zo˩˥/: diphtongué vers ɑ/æ, de façon expressive: vocatif laudatif.
 
-no˧ | le˧-dʑɤ˩-hĩ˩! tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!" | pi˧-zo˩. | ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! | hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |
+"no˧ | njɤ˧-bv̩˧ zɯ˧~zɯ˧ | ɲi˧-ʂɯ˩ tɕo˩-ze˩! | no˧ | le˧-dʑɤ˩-ʲi˩! |
+% tɕo˩: mot chinois 救
+% à confirmer: nuances de sens entre le˧-ʲi˥ | dʑɤ˩˥/ et /le˧-dʑɤ˩-ʲi˩/. hĩ˧-ʁo˧to˩, | dʑɤ˩-ʲi˥! dzɑ˧ ʲi˧-mɤ˧-ɖo˧!　dzɑ˧ tʰɑ˧-ʲi˧! ne fais pas de mauvaises choses!
+ɖwæ˩˥ dv˩˥! ʈʰɯ˧ hĩ˧-ʁo˧to˩, | dzɑ˧ ʲi˧ kv˩ Cette personne est très mauvaise! elle fait du mal aux autres!
+"Tu m'as sauvé la vie deux fois! Tu fais de belles actions!" 你做好事！　le˧-ʲi˥ | dʑɤ˩˥　事情做的好！
+
+tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!" | pi˧-zo˩. | ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! | hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |
 le˧-mv˩pʰæ˩ mɤ˩-tʰɑ˩ = ɳɯ˧ ʑi˩.
 
-tʰv̩˧v̩˧ | tʰv˧ʈʂæ˩qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, | ə˩-gi˩! | ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | <tʰv˧-ʲɤ˩> [tʰv˧-v˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! | ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! | le˧-hɤ˩, | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
+tʰv̩˧-v̩˧ | tʰv˧-ʈʂæ˩-qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, | ə˩-gi˩! | ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | <tʰv˧-ʲɤ˩> [tʰv˧-v˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! | ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! | le˧-hɤ˩, | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
 
-ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩! | ʈʰææ̃˧, | ɬɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɭɯ˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ˩ | so˧ jɤ˩ dʑɤ˩! | pi˧-zo˩. |
+ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩! | "ʈʰææ̃˧, | ɬɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɻ˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ˩ | so˧-jɤ˩ dʑɤ˩!" | pi˧-zo˩. |
 vinɡt et une minutes dix-sept
-njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ̩˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩ mæ˩! | õ˧˥,  | hĩ˧ qɑ˩, | ɖwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩!
+% /lo˧ ʝi˧ ʐv̩˩ ʝi˩/: travailler; équivalent de la formule monosyllabique, en plus fleuri.
+la demoiselle Latami donne le bon exemple! Ils ont des bonnes habitudes, dans la famille!
+
+njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩mæ˩! | õ˧˥, | hĩ˧ qɑ˩-tʰv˩, | ɖʐwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩! |
 vinɡt et une minutes vinɡt-cinq
-yyyy fin W transcription au 18 mai 2024, à 21 mn 27
-õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩, | njæ˧sɯ˩kv̩˩ | tʰi˩˥, gv̩˩pʰæ˩ ʑi˩kʰi˥ | tʰv̩˧ʂɯ˩lɑ˩! zo˩no˥, | qʰæ˧lo˧ qwæ˥hi˩ | tʰi˧ʂɯ˩se˩! hĩ˧ | ə˧pʰv̩˧tsʰo˩ mo˩ tʰi˩˥, | ɖwæ˧˥ | ɳɯ˩ go˧lɑ˥! ʈʂʰɯ˧v̩˧, | njɤ˧ | p ʈʂʰɯ˧v̩˧ki˧ | pʰv̩˧ɖɯ˧hi˥ ɲi˩lɑ˩, | zo˩no˥, | ʈʂʰɯ˧vo˧ | njɤ˧ki˧ | ʈʰææ̃˧ | ʁɑ˩mi˧! | pi˧zo˥hĩ˩! qʰɯ˧pʰæ˧˥ | le˧mo˩ɲi˩ze˩! ʈʂʰɯ˧ | le˧ʂɯ˧ho˩, | go˩zo˥ | njɤ˧ li˩ … ə … | njæ˧sɯ˩kv̩˩dʑo˩, | wɤ˩˥, | hĩ˧mo˥hɑ̃˩ | ʁwɤ˩qo˩, | ə˩gi˩! go˩zo˥, | ə … le˧ʂɯ˧ho˩ze˩ pi˩! | pi˧. go˧li˧bi˧, | pi˧zo˩, | hĩ˧ʈʂʰɯ˧ | ɖɯ˧tɑ˧˥ | li˧bi˧kv̩˧˥ | mæ˩! wɤ˧qo˧ | ɖɯ˧ʑi˩ ɖɯ˩ʑi˩! ʝi˧kʰv̩˥, | æ˩ po˧˥! ə˧˥! tse˧, | tʰæ˧ɻæ˧ po˧˥! əə … li˧bi˧kv̩˧˥ | mvæ˩! ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ tʰv̩˩v̩˧, | le˧qʰwɤ˧ʁõ˧mɤ˧ho˩tsɯ˩! ə˧sɯ˩kv̩˩, | ɖɯ˧li˩ɻ̍˩bi˩pi˩, | ɖɯ˧tɑ˧˥ … | tʰv̩˧ʑi˧ni˧˥ | le˧jo˧kv̩˧˥ | mæ˩!
-tʰi˩˥, | ! ɖɯ˧ … ɖɯ˧ … ə … ʈʂʰɯ˧ɬi˧kʰi˩ | dʑo˩, ə˧mi˧! | tʰv̩˧ʈʂæ˩qo˩, | njɤ˧ki˧ | ʈæ˧ʂɯ˧ɬɑ˧ | mv̩˩ɑɻ̍˥! ʈæ˧ʂɯ˧ɬɑ˩ mv̩˩! njɤ˧ | ɖɯ˧zɯ˧ | le˧mv̩˩pʰæ˩ tʰɑ˩mɤ˩ho˩, | ə˧sɯ˥! njɤ˧ | le˧ʂɯ˧bi˧pi˧bi˧, | no˧ɳɯ˧ | dʑɤ˩ʝi˧hĩ˧ tʰv̩˧ɲi˧ʂɯ˥dʑo˩, | njɤ˧ | nv̩˩mi˩qo˥ | tʰi˧ʑi˥ze˩! njɤ˧zo˧ | njɤ˧ mv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧ɲi˧ | … ʝi˧ mɤ˧dʑɯ˧! no˧ | le˧dʑɤ˩jɤ˩, | ə˧sɯ˥! | no˧ | njɤ˧ki˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɲi˧ʂɯ˩ ʁo˩ mæ˩ze˩! | pi˧zo˩, | hĩ˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥mæ˩! tʰi˩˥, | njɤ˧ɳɯ˧ : | ə˧v̩˧˥ | le˧ | ʈʂʰɯ˧ne˧ʝi˥ | pi˧mɤ˧ɖo˧! kʰv̩˧pʰæ˧ tɕi˩hĩ˩dʑo˩, | hĩ˧ mo˥̍˩ʁo˩mɤ˩kv̩˩! əə … hĩ˧ mo˥ɻ̍˩ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩hĩ˩ | le˧ʁo˧mæ˧, | le˧ɖɯ˩ɲi˥mæ˩! no˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥! | pi˧! mɤ˧ɲi˩! | ʁwɤ˧qo˧ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩! pʰæ˧tɕi˩hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | dʑo˩˥, | hĩ˧ mo˥hĩ˩ mɤ˩sɯ˩hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! no˩dʑo˥, | no˧ɻ̍˩ | ə˧ʑi˧mo˧ɳɯ˥˧, | ə˧ʑi˧ɳɯ˥ | so˧ʝi˧ | dʑɤ˩˥ | ə˧sɯ˥! no˧ɻ̍˩ | ɑ˩ʁo˧ so˧ʝi˧ | dʑɤ˩ | pi˧kv̩˩! | njɤ˧ɻ̍˩dʑo˩, | gɯ˩˥! | ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ | dʑo˩ | dʑɤ˩ɲi˥! hĩ˧ mo˥hĩ˩ | ɕjɤ˩! | ʈʰææ̃˧ | hĩ˧ mo˥hĩ˩ ʁo˩ mæ˩! əə … zo˧mv̩˥ʁo˩ mæ˩zo˩kv̩˩! ɑ˩pʰo˩ tɕʰi˥dʑo˩, | hĩ˧ mo˥hĩ˩ ʁo˩ mɤ˩zo˩kv̩˩, | pi˧zo˩. | njɤ˧ | ə˧si˧tʰv̩˧v̩˧ɳɯ˧ | qʰɑ˩ne˩˥ | ʐwɤ˩kv̩˩˥ | mæ˩! ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩lɑ˩, | no˧ɻ̍˩ | dʑɤ˩ɲi˥! | no˧ | so˧hwɤ˩ | le˧dʑɤ˩ʝi˩! | no˧ | õ˧ hɤ˧ze˧, | wɤ˩˥, | ʈʂʰɯ˧ ʂɯ˧ | njɤ˧ go˧li˧tsʰɯ˩? | pi˧zo˩. tʰv̩˩mo˩ʈʂʰɯ˧ʝĩ˥, | nj˧ki˧ | ɖɯ˧hɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! tʰi˩˥, | njɤ˧ ə˧mi˧! | le˧sɑ˥, | ˧pʰo˧di˧ | mɤ˧dʑo˧˥! ə˧pʰv̩˧! | no˧ | le˧tsʰɯ˩ɲi˩! | njɤ˧ | ɑ˩ʁo˧ɳɯ˧ | no˧ | le˧pv̩˩kʰvɯ˩hĩ˩! | pi˧, | ʁ̃˩mi˧po˩kʰi˩, | tʰv̩˧ɲi˥! dʑɯ˧ … | ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩lɑ˥ dʑo˩ɲi˩ mæ˩! ho˩tʰɑ˩˥ | ɖɯ˧ɭɯ˧ po˧˥! æ̃˩˥ | ɖɯ˧mi˧ to˧to˩ po˩kʰi˥! ʈʂʰɯ˧ne˧ ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | hĩ˧˥, | gi˩˥ | ɖɯ˧ʈæ˧gv̩˧ | le˧ʂɯ˧ɲi˥ze˩! tʰ̩˥, | ʈʂʰɯ˧zo˧mv̩˥, | zo˩no˥, | hɤ˩˥ | njɤ˧ki˧! ɖɯ˧njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩! | njɤ˧! | ə˧dɑ˥ɳɯ˩, | ə˧ʝi˧ʂɯ˥ʝi˩, | no˧ ʐwɤ˧kv̩˩wɤ˥! | ə˧mi˧! | ʈæ˧ʂɯ˧ɬɑ˩ mv̩˩! no˧ | ə˧ʝi˧ʂɯ˥ʝi˩, | ɖwæ˧˥ | hĩ˧mo˧mɤ˧…kv̩˧ pʰæ˩di˩! | pi˧zo˩. | njæ˧sɯ˩kv̩˩, | ɖɯ˧ɲi˥ɖɯ˧ɲi˩, | ʐæ˧ʐæ˧kv̩˩mæ˩ | lo˧ ʝi˧bi˧! zo˩no˧zɯ˩, ! ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˧ pv̩˩ze˩kvɯ˩! no˧ ! ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ mo˥h˩, | ɖwæ˧ʁo˧ mɤ˧kv̩˩tsɯ˩, | ə˩gi˩! | pi˧zo˩, | wɤ˩˥, | ʐwɤ˩kv̩˩˥ | mæ˩!
-njæ˧ɻæ˩dʑo˩, | hĩ˧mo˥õ˩ mɤ˩kv̩˩! | no˧sɯ˩kv̩˩dʑo˩, | hĩ˧ mo˥hĩ˩ | tʰɑ˧li˩ | titsʰi˧hʰæ˧˥! | | pi˧˥, | njɤ˧ | ɖɯ˧ʂɯ˩ ɻ̍˩! tʰi˩˥, | ʁo˧mæ˧ɳɯ˩ | mɤ˧mɤ˧ʂæ˥ɲi˩ɲi˩! | tʰi˩˥, | njæ˧sɯ˩kv̩˩ v̩˩tʰv̩, | ə˧ʝi˧tsʰɯ˧ʝi˥! qʰɑ˩ne˩ʝi˥tsɤ˩ʝi˩ɳ˩! | ɖʐ ˧! ʈʰææ˧, | tʰi˩˥, | ɖʐv̩˧ɳɯ˧ | ʝi˧ɲi˥mæ˩! | pi˧zo˩, | wɤ˩˥, | zo˧hɑ̃˧ɻ˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! əĩ˩ … | zo˩no˥ʈʂʰɯ˩! õ˧ʈʂʰɯ˧ne˧ʝi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩!
+% fin W transcription au 18 mai 2024, à 21 mn 27
+% /dʑɯ˧/: expérientiel du passé, mæ˩: affirmatif
+% on pourrait dire simplement: /hĩ˧ qɑ˩/, sans le démonstratif / marqueur de topique de /hĩ˧ qɑ˩-tʰv˩/.
+Moi, vrai de vrai, je prenais bel et bien soin des anciens, autrefois! Je m'occupais des vieux; je m'occupais des jeunes! Moi, je prenais soin des autres, je ne me suis jamais disputée avec autrui ! (没有欺负过人)
 
-%Utterance ID: BENEVOLENCE.116 
-%Transcription automatique : mv̩˧ | tʰi˧kʰɯ˧˥ | tʰi˧kʰɯ˧˥ | dʑo˩ | ʈʂʰɯ˧ɻ̍dʑo˩ | ʈʂʰɯ˧qo˧dɑ˧tʰv̩˧ʑi˩ | ɖʐɤ˩kæ˧ʈæ˧sɯ˩pi˧tʰv̩˧kv̩˥ʈʂʰɯ˩ | tʰv̩˧ | pi˧hĩ˧˥ | dzɑ˧ʈʂæ˧qo˩ | ʐɯ˧ | dʑo˧mɤ˧ʁo˧ | tʰi˩˥ | njɤ˧dʑo˩ | tʰææ̃˧ə˧ 
-mv̩˧ | tʰi˧kʰɯ˧˥ | tʰi˧kʰɯ˧˥ | dʑo˩ | ʈʂʰɯ˧ɻ̍dʑo˩ | ʈʂʰɯ˧qo˧dɑ˧tʰv̩˧ʑi˩ | ɖʐɤ˩kæ˧ʈæ˧sɯ˩pi˧tʰv̩˧kv̩˥ʈʂʰɯ˩ | tʰv̩˧ | pi˧hĩ˧˥ | dzɑ˧ʈʂæ˧qo˩ | ʐɯ˧ | dʑo˧mɤ˧ʁo˧ | tʰi˩˥ | njɤ˧dʑo˩ | tʰææ̃˧ə˧ 
+õ˧-ʈʂʰɯ˧ne˧-ʝi˥-zo˩, | njæ˧-sɯ˩kv̩˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩-kʰi˥ | tʰv̩˧-ʂɯ˩-lɑ˩! | zo˩no˥, | qʰæ˧lo˧ qwæ˥-kʰi˩ tʰv˩-ʂɯ˩-se˩, | hĩ˧ | ə˧pʰv̩˧-tsʰo˩mo˩ | tʰi˩˥, | ɖwæ˧˥ | ɳɯ˧go˧-<lɑ˥>[zo˥]! |
+Voilà ce qu'on a fait, nous, la fois où on était allé chercher des planches! Eh bien, la fois où on est allé creuser un canal, le vieil homme, il faisait vraiment pitié / il était vraiment mal en point!
 
-%Utterance ID: BENEVOLENCE.117 
-%Transcription automatique : əɯ˧ʑi˧ʈʂʰɯ˧ɳɯ˧ | ʐɯ˧ɖɯ˧ɬi˧qo˩ | ɲi˧ʝi˥tɕɤ˩ | tʰi˧tɕɯ˥ | ʐɯ˧ | hĩ˩bæ˩tsʰɯ˧bi˧˥ | tɑ˩mɤ˩kʰɯ˩ | ɑ˩ʁo˧dʑo˧ɲi˩bi˩ 
-əɯ˧ʑi˧ʈʂʰɯ˧ɳɯ˧ | ʐɯ˧ɖɯ˧ɬi˧qo˩ | ɲi˧ʝi˥tɕɤ˩ | tʰi˧tɕɯ˥ | ʐɯ˧ | hĩ˩bæ˩tsʰɯ˧bi˧˥ | tɑ˩mɤ˩kʰɯ˩ | ɑ˩ʁo˧dʑo˧ɲi˩bi˩ 
+ʈʂʰɯ˧-v̩˧, | njɤ˧ | <p...> ʈʂʰɯ˧-v̩˧-ki˧ | pʰv̩˧ɖɯ˧-ʲi˥ ɲi˩-lɑ˩, | zo˩no˥, | ʈʂʰɯ˧-v˧, | njɤ˧-ki˧ | ʈʰææ̃˧ | "ʁɑ˩mi˧!" | pi˧-zo˥, | hĩ˧ | kʰv˧pʰæ˧ | le˧-mo˩-ɲi˩-ze˩! |
+% /kʰv˧pʰæ˧/: âge
+Cet homme, je lui marquais bien des égards; lui, il me disait des remerciements; il avait atteint un âge avancé!
 
-%Utterance ID: BENEVOLENCE.118 
-%Transcription automatique : əəə…zo˩no˥ | hĩ˧jo˧kv̩˩pi˩ | ʂɯ˧ | ʈʰææ̃˧tʰi˩tɕɯ˥ | tʰi˧tɕɯ˥dʑo˩ | tʰi˩˥ | gv̩˩pʰæ˩mæ˩ʑi˩kʰi˥ | ɖɯ˧ɲi˧dʑo˩ | gv̩˩ʑi˧bi˧tso˧ɲi˥ | pi˧zo˩ | ʐɯ˧ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧kv̩˥ | mæ˩ | le˧wo˧ | ʈʂʰɯ˧ʝi˩ | qo 
-əəə…zo˩no˥ | hĩ˧jo˧kv̩˩pi˩ | ʂɯ˧ | ʈʰææ̃˧tʰi˩tɕɯ˥ | tʰi˧tɕɯ˥dʑo˩ | tʰi˩˥ | gv̩˩pʰæ˩mæ˩ʑi˩kʰi˥ | ɖɯ˧ɲi˧dʑo˩ | gv̩˩ʑi˧bi˧tso˧ɲi˥ | pi˧zo˩ | ʐɯ˧ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧kv̩˥ | mæ˩ | le˧wo˧ | ʈʂʰɯ˧ʝi˩ | qo 
+ʈʂʰɯ˧ | le˧-ʂɯ˧-ho˩, | go˩-zo˥ | njɤ˧ | li˧ … ə … | njæ˧-sɯ˩kv̩˩-dʑo˩, | wɤ˩˥, | hĩ˧mo˥-hĩ˩ | ʁwɤ˧-qo˧, | ə˩-gi˩! |
+% 21.4035
+Il allait mourir, il était souffrant; je suis allée le voir, euh... Nous autres, les vieilles personnes, au village, n'est-ce pas!
 
-%Utterance ID: BENEVOLENCE.119 
-%Transcription automatique : ɖɯ˧gv̩˩ʑi˧bi˧tso˧ɲi˥ze˩ | ə˧sɯ˩kv̩˩ | ʐɯ˧v̩˥tɕɤ˩bi˩ | ʐɯ˩tʰi˧tɕɤ˩ | tʰv̩˧ɲi˧ʝi˧ | njɤ˧ | ʐɯ˧mi˧tɕɯ˧pɤ˧pɤ˥po˩hi˥hĩ˥ | njɤ˧pʰæ˧tɕo˥sɯ˥ | njɤ˧ɻ̍˩ | so˧kv̩˩ | ʁɑ˧ʂe˥ | po˩ki˥ | njɤ˩ɻ̍˥ | ɑ˩ʁo˧ɯ |
-ɖɯ˧gv̩˩ʑi˧bi˧tso˧ɲi˥ze˩ | ə˧sɯ˩kv̩˩ | ʐɯ˧v̩˥tɕɤ˩bi˩ | ʐɯ˩tʰi˧tɕɤ˩ | tʰv̩˧ɲi˧ʝi˧ | njɤ˧ | ʐɯ˧mi˧tɕɯ˧pɤ˧pɤ˥po˩hi˥hĩ˥ | njɤ˧pʰæ˧tɕo˥sɯ˥ | njɤ˧ɻ̍˩ | so˧kv̩˩ | ʁɑ˧ʂe˥ | po˩ki˥ | njɤ˩ɻ̍˥ | ɑ˩ʁo˧ɯ |
+go˩-zo˥, | ə … "le˧-ʂɯ˧-ho˩-ze˩ pi˩", | pi˧-dʑo˩, | <g... g...> go˧ li˧-bi˧!", | pi˧-zo˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ | li˧-bi˧-kv̩˧˥ | mæ˩! |
+% 21.4519
+quand (une d'entre elles) souffre, euh... on se dit: "Elle va sans doute décéder; allons lui rendre visite!"; tout le monde va faire une visite!
 
-%Utterance ID: BENEVOLENCE.120 
-%Transcription automatique : tʰi˧kv̩˩˥ | tʰi˩˥ | pʰæ˧tɕi˥ŋɤ˩kv̩˧kʰi˥ | ʈʂʰɯ˧ɻ̍ | tʰi˩˥ | pʰæ˧tɕi˥ | ɲi˧kv̩˩˥ | tsʰɯ˩ho˩ʈʂʰɯ˧ne˧ʝi˥ | no˩˥ | əəə…mi˩zɯ˩so˩kv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʁo˥ | ʈʂʰɯ˧qo˧ | njæ˧sɯ˩ |
-tʰi˧kv̩˩˥ | tʰi˩˥ | pʰæ˧tɕi˥ŋɤ˩kv̩˧kʰi˥ | ʈʂʰɯ˧ɻ̍ | tʰi˩˥ | pʰæ˧tɕi˥ | ɲi˧kv̩˩˥ | tsʰɯ˩ho˩ʈʂʰɯ˧ne˧ʝi˥ | no˩˥ | əəə…mi˩zɯ˩so˩kv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʁo˥ | ʈʂʰɯ˧qo˧ | njæ˧sɯ˩ |
+ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩! | ʝi˧kʰv̩˥, | æ̃˩ po˧˥! | æ̃˩˥, | dze˧, | tʰv˧=ɻæ˧ po˥! | əəə … li˧-bi˧-kv̩˧˥ | -mæ˩! |
+% /tʰv˧ɻæ˧/: ces choses-là; phonétiquement, ressemble à: tʰæ
+Chaque famille du village (fait ainsi)! Certains amènent un poulet! Un poulet, des sucreries, voilà ce qu'on amène! On va rendre visite!
 
-%Utterance ID: BENEVOLENCE.121 
-%Transcription automatique : gv̩˩mi˩zɯ˩˥ | qʰæ˩tɕɯ˥ɖɯ˧tɑ˧˥ | le˧bɤ˧kv̩˩ | tʰɯ˧ɲi˧ | gv̩˩pʰæ˩pɤ˩pɤ˥ĩ˩ | lɑ˩hĩ˥ | hɑ˩ | hĩ˧ɲi˧tsv̩˧zo˧gv̩˧kv̩˧˥ | tʰi˩˥ | hɑ˧ | ɖɯ˧ʁo˧otʰi˧tɕɯ˥ | le˧dzɯ˥dʑo˩ | tʰi˩˥ | ə˧pʰv̩˧ | tʰv̩˧v̩˧dʑo˩ |
-gv̩˩mi˩zɯ˩˥ | qʰæ˩tɕɯ˥ɖɯ˧tɑ˧˥ | le˧bɤ˧kv̩˩ | tʰɯ˧ɲi˧ | gv̩˩pʰæ˩pɤ˩pɤ˥ĩ˩ | lɑ˩hĩ˥ | hɑ˩ | hĩ˧ɲi˧tsv̩˧zo˧gv̩˧kv̩˧˥ | tʰi˩˥ | hɑ˧ | ɖɯ˧ʁo˧otʰi˧tɕɯ˥ | le˧dzɯ˥dʑo˩ | tʰi˩˥ | ə˧pʰv̩˧ | tʰv̩˧v̩˧dʑo˩ |
+"ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥-hĩ˩ tʰv̩˩-v̩˧, | le˧-qʰwɤ˧ ʁo˧-mɤ˧-ho˩ tsɯ˩! | ə˧-sɯ˩kv̩˩, | ɖɯ˧-li˩-ɻ̍˩-bi˩!" pi˩, | ɖɯ˧-tɑ˧˥ … | tʰv̩˧-ʑi˧-ne˧-ʲi˥ | li˧-ʲi˧-kv˧˥ mv˩!
+%le˧-jo˧ktʰv˧ɻæ˧ po˥! v̩˧˥ | mæ˩!
+% xxxx ama: voir à nouveau: construction /li˧-ʲi˧-kv˧˥/
+On dit: "Aïe, aïe, aïe! Cette vieille personne, il y a peu de chances qu'elle s'en sorte! Nous autres, allons lui rendre une petite visite!", et tous ensemble... on va rendre visite à la famille en question!
 
-%Utterance ID: BENEVOLENCE.122 
-%Transcription automatique : le˧go˩le˧ɖʐo˧zo˩ | ʈʂʰɯ˧ne˧ʝi˥ | nɑ˩nɑ˧zo˥ | ə˧nɑ˩ | no˧le˧no˩ | no˩ɳe˧no˩ | no˩zo˩ | ə˧mi˧mi˧ | bi˧ | le˩ki˧˥ | tʰi˩˥ | njɤ˧ | ʐɯ˧tʰi˧ɲi˥tɕɯ˩gɯ˩e˩ |
-le˧go˩le˧ɖʐo˧zo˩ | ʈʂʰɯ˧ne˧ʝi˥ | nɑ˩nɑ˧zo˥ | ə˧nɑ˩ | no˧le˧no˩ | no˩ɳe˧no˩ | no˩zo˩ | ə˧mi˧mi˧ | bi˧ | le˩ki˧˥ | tʰi˩˥ | njɤ˧ | ʐɯ˧tʰi˧ɲi˥tɕɯ˩gɯ˩e˩ |
+tʰi˩˥, | ə … ɖɯ˧... ɖɯ˧... ʈʂʰɯ˧ li˩-kʰi˩-dʑo˩, | ə˧mi˧! | tʰv̩˧-ʈʂæ˩-qo˩, | njɤ˧-ki˧ | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ ɻwæ˩-kv˩! |
+Alors, quand on est allé rendre visite (au vieil homme en question), eeeh bien! À cette époque, on m'appelait "Ddaeshilamu"!
 
-%Utterance ID: BENEVOLENCE.123 
-%Transcription automatique : pʰv̩˩ | tʰv̩˧sɯ˩kv̩˩ | ɖɯ˥ɕi˩ | ʑi˩mɤ˩po˩ | njɤ˧æ˧ʂɯ˩ɬɑ˩pɤ˩ | ɖɯ˧v̩˧ki˧ɳɯ˩ | tɕʰi˩ʈʂv̩˥ɳi˩ | ʈʂʰɯ˧ne˧ʝi˥qo˥ɳɯ˩ | li˩ʈʰɯ˧qʰwɤ˥qo˩ɳɯ˩ | ə˧mi˥tɕi˩ | ɖɯ˧v̩˧ɖɯ˧tʰɤ˥ | ɖɯ˩ʈɤ˩ʈʰɯ˩ʈi˩ | ʈʰi˧tʰi˩ki˩ | ə˧v̩˧tʰi˩ |
-pʰv̩˩ | tʰv̩˧sɯ˩kv̩˩ | ɖɯ˥ɕi˩ | ʑi˩mɤ˩po˩ | njɤ˧æ˧ʂɯ˩ɬɑ˩pɤ˩ | ɖɯ˧v̩˧ki˧ɳɯ˩ | tɕʰi˩ʈʂv̩˥ɳi˩ | ʈʂʰɯ˧ne˧ʝi˥qo˥ɳɯ˩ | li˩ʈʰɯ˧qʰwɤ˥qo˩ɳɯ˩ | ə˧mi˥tɕi˩ | ɖɯ˧v̩˧ɖɯ˧tʰɤ˥ | ɖɯ˩ʈɤ˩ʈʰɯ˩ʈi˩ | ʈʰi˧tʰi˩ki˩ | ə˧v̩˧tʰi˩ |
+"ʈæ˧ʂɯ˧-lɑ˩mv̩˩! | njɤ˧ | ɖɯ˧zɯ˧ | le˧-mv̩˩pʰæ˩ tʰɑ˩-mɤ˩-ho˩, | ə˧-sɯ˥! |
+ə˧-sɯ˥!: tons à véɻifieɻ d'ɑpɻès ɻɡèles
+"Ddaeshilamu! De toute ma vie je n'ai jamais oublié (ta gentillesse), tu sais!
 
-%Utterance ID: BENEVOLENCE.124 
-%Transcription automatique : ə˧pʰv̩˧tʰv̩˧v̩˩ki˥ | pʰi˩tʰi˩tɕi˩ | hə˩mi˧ | ʁɑ˩mv̩˧se˩sɑ˧ | no˥mv̩˩zo˩ | no˧ | njɤ˧ | gv̩˧zɯ˧zo˧ni˥ʂɯ˩dʑo˩ze˩ | no˧ | le˧dʑɤ˩ʝi˩ | tsʰi˧ɲi˧ | no |
-ə˧pʰv̩˧tʰv̩˧v̩˩ki˥ | pʰi˩tʰi˩tɕi˩ | hə˩mi˧ | ʁɑ˩mv̩˧se˩sɑ˧ | no˥mv̩˩zo˩ | no˧ | njɤ˧ | gv̩˧zɯ˧zo˧ni˥ʂɯ˩dʑo˩ze˩ | no˧ | le˧dʑɤ˩ʝi˩ | tsʰi˧ɲi˧ | no |
+njɤ˧ | le˧-ʂɯ˧-bi˧ -bi˧bi˧, | no˧-ɳɯ˧ | dʑɤ˩ ʝi˧-hĩ˧ tʰv̩˧-ɲi˧-ʂɯ˥-dʑo˩, | njɤ˧ | nv̩˩mi˩-qo˥ | tʰi˧-ʑi˥-ze˩! | njɤ˧ zo˧ | njɤ˧ mv̩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ɲi˥ | … ʝi˧ mɤ˧dʑɯ˧! |
+"Quand j'étais à l'article de la mort, toi, les deux fois où tu as fait une belle action, je les ai gardées au fond de mon cœur! Pas une fois mes propres fils et filles n'ont eu pareil procédé!
 
-%Utterance ID: BENEVOLENCE.125 
-%Transcription automatique : ʐɯ˧tʰv̩˧qo˩mɤ˩ɲi˩ | pi˧njɤ˧ | le˧ɖʐo˥ | tʰi˧ʂɯ˧qo˥ze˩ | pi˧zo˩ | ə˩pʰv̩˩tsʰɯ˩v̩˩ | ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | le˧ʂɯ˧ho˩ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩le˧ʂɯ˧ɲi˧mæ˩ | hĩ˧dʑɤ˩˥ | ni˩ʑi˩pʰæ˧˥tʰi˩ | tʰv̩˧v̩˧ | ʈʂʰɯ˧ʈʂæ˧qɑ˩ɖwæ˧˥ |
-ʐɯ˧tʰv̩˧qo˩mɤ˩ɲi˩ | pi˧njɤ˧ | le˧ɖʐo˥ | tʰi˧ʂɯ˧qo˥ze˩ | pi˧zo˩ | ə˩pʰv̩˩tsʰɯ˩v̩˩ | ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | le˧ʂɯ˧ho˩ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩le˧ʂɯ˧ɲi˧mæ˩ | hĩ˧dʑɤ˩˥ | ni˩ʑi˩pʰæ˧˥tʰi˩ | tʰv̩˧v̩˧ | ʈʂʰɯ˧ʈʂæ˧qɑ˩ɖwæ˧˥ |
+"no˧ | le˧-dʑɤ˩-ʲi˩, | ə˧sɯ˥! | no˧ | njɤ˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɲi˧-ʂɯ˩ ʁo˩mæ˩-ze˩!" | pi˧zo˩, | hĩ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥-mæ˩! |
+"Tu fais de bien belles actions, tu sais! Tu t'es occupée ainsi de moi à deux reprises!" Voilà ce qu'il a dit!
 
-%Utterance ID: BENEVOLENCE.126 
-%Transcription automatique : dzɯ˧zo˧mv̩˥ | tɕi˩ | ə˩gi˩ | ʈʂʰɯ˧mi˧ | dʑɤ˩mɤ˧hɤ˧ | ə˧mi˧ | tʰi˥dʑo˩ | mɤ˧hɯ˥ | tsʰo˩mo˥ | hɯ˩dʑo˥ | ɖwæ˧hɤ˩ɲi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʝi˥ | le˧ʝi˥kwɤ˩tɕɯ˩ | le˧ʝi˥le˧hɤ˩zo˩ | le˧hɤ˩ | le˧lo˩zo˩ 
-dzɯ˧zo˧mv̩˥ | tɕi˩ | ə˩gi˩ | ʈʂʰɯ˧mi˧ | dʑɤ˩mɤ˧hɤ˧ | ə˧mi˧ | tʰi˥dʑo˩ | mɤ˧hɯ˥ | tsʰo˩mo˥ | hɯ˩dʑo˥ | ɖwæ˧hɤ˩ɲi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʝi˥ | le˧ʝi˥kwɤ˩tɕɯ˩ | le˧ʝi˥le˧hɤ˩zo˩ | le˧hɤ˩ | le˧lo˩zo˩ 
+tʰi˩˥, | njɤ˧-ɳɯ˧ : | "ə˧v̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-mɤ˧-ɖo˧! | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩! | əəə … hĩ˧ mo˥=ɻ̍˩-ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩ | le˧-ʁo˧mæ˧, | le˧-ɖɯ˩ ɲi˩ mæ˩!
+Alors moi j'ai répondu: "Oncle, ne dites pas ça! Les jeunes, c'est tout naturel qu'ils prennent soin des personnes âgées! Les personnes âgées, ce sont elles qui ont pris soin des jeunes, qui leur ont permis de grandir!
 
-%Utterance ID: BENEVOLENCE.127 
-%Transcription automatique : le˧mo˩kwɤ˩tɕɯ˩ | le˧ʈʰi˩zo˩ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | lo˧ʝi˧ʐv̩˩hĩ˩kʰi˩dʑo˩ | ʈʂʰæ˧mɑ˧tʰɑ˧mi˥ | mv̩˩zo˩so˩ɻ̍˥ | ʁɑ˩mi˧ | ʈʂʰɯ˧ | so˧joi˩dʑɤ˩ | pi˧zo˩ | njɤ˧ | di˧ | hĩ˧mo˥hĩ˩ki˩ | ə˧ʂɯ˥ | lɑ˩ | ʁo˩mæ˧ 
-le˧mo˩kwɤ˩tɕɯ˩ | le˧ʈʰi˩zo˩ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | lo˧ʝi˧ʐv̩˩hĩ˩kʰi˩dʑo˩ | ʈʂʰæ˧mɑ˧tʰɑ˧mi˥ | mv̩˩zo˩so˩ɻ̍˥ | ʁɑ˩mi˧ | ʈʂʰɯ˧ | so˧joi˩dʑɤ˩ | pi˧zo˩ | njɤ˧ | di˧ | hĩ˧mo˥hĩ˩ki˩ | ə˧ʂɯ˥ | lɑ˩ | ʁo˩mæ˧ 
+"no˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥!" | pi˧! |
+"Voilà ce qu'il faut dire / voilà comment il faut voir les choses!"
 
-%Utterance ID: BENEVOLENCE.128 
-%Transcription automatique : v̩˩tsɯ˩mv̩˩ | hĩ˧mo˥hĩ˩ʁo˩mæ˩ | zo˧mv̩˥zo˩ʁo˧ | mæ˩ | õ˧˥hĩ˧qɑ˧tʰɯ˥ | ɖʐwæ˧ɖʐɑ˥mɤ˧dʑi˧ | õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩ | njæ˧-sɯ˩kv̩˩ | tʰi˩˥ | gv̩˩pʰæ˩ʑi˩kʰi˥ | tʰv̩˧ʈʂʰɯ˩lɑ˩ | zo˩mæ˧qʰæ˩ 
-v̩˩tsɯ˩mv̩˩ | hĩ˧mo˥hĩ˩ʁo˩mæ˩ | zo˧mv̩˥zo˩ʁo˧ | mæ˩ | õ˧˥hĩ˧qɑ˧tʰɯ˥ | ɖʐwæ˧ɖʐɑ˥mɤ˧dʑi˧ | õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩ | njæ˧-sɯ˩kv̩˩ | tʰi˩˥ | gv̩˩pʰæ˩ʑi˩kʰi˥ | tʰv̩˧ʈʂʰɯ˩lɑ˩ | zo˩mæ˧qʰæ˩ 
+"mɤ˧-ɲi˩! | ʁwɤ˧-qo˧-ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩, | kʰv˧pʰæ˥tɕi˩-hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | -dʑo˩, | hĩ˧ mo˥hĩ˩ mɤ˩-sɯ˩-hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! |
+[Le vieil homme répond alors:] "Non! Au village, il y a beaucoup de personnes âgées, et beaucoup de jeunes personnes; et il y en a beaucoup qui ne prennent aucun soin des vieux! (littéralement: qui ne connaissent pas les vieux)
 
-%Utterance ID: BENEVOLENCE.129 
-%Transcription automatique : h˩bɑ˩qʰæ˧˥tɕi˩tʰɯ˩ʂɯ˩se˩ | hĩ˧ | ə˧pv̩˧tso˧mo˩ | tʰi˧ | ɖwæ˩ɳɯ˩ | go˩lɑ˥ | ʈʂʰɯ˧ʁo˧ | njɤ˧ | v̩˧v̩˧ki˥tʰv̩˧ɖɯ˩hĩ˥ | ɲi˩lɑ˩ | zo˩no˥ | ʈʂʰɯ˧qwɤ˩ | njɤ˩ki˥ | tʰæ˧ | ʁɑ˩mi˧ | pi˧zo˥hĩ˧ | kʰv̩˧pʰæ˧ | le˧mo˩ɲi˩ze˩ |
-h˩bɑ˩qʰæ˧˥tɕi˩tʰɯ˩ʂɯ˩se˩ | hĩ˧ | ə˧pv̩˧tso˧mo˩ | tʰi˧ | ɖwæ˩ɳɯ˩ | go˩lɑ˥ | ʈʂʰɯ˧ʁo˧ | njɤ˧ | v̩˧v̩˧ki˥tʰv̩˧ɖɯ˩hĩ˥ | ɲi˩lɑ˩ | zo˩no˥ | ʈʂʰɯ˧qwɤ˩ | njɤ˩ki˥ | tʰæ˧ | ʁɑ˩mi˧ | pi˧zo˥hĩ˧ | kʰv̩˧pʰæ˧ | le˧mo˩ɲi˩ze˩ |
+"no˩-dʑo˥, | no˧=ɻ̍˩ | <ə˧ʑi˧-mo˥-ɳɯ˩> | ə˧ʑi˧-ɳɯ˥ | so˧ʲɤ˩ dʑɤ˩ (on pouɻɻɑit diɻe: so˧lo˧ | dʑɤ˩˥), | ə˧-sɯ˥! |
+"Toi, tu as bien retenu les leçons de ta grand-mère, tu sais!
 
-%Utterance ID: BENEVOLENCE.130 
-%Transcription automatique : ʈʂʰɯ˧ | le˧ʂɯ˧qo˩ | gv̩˩zo˥ | njɤ˩dʑi˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | wɤ˩˥ | hĩ˧mo˧ | ʁwɤ˧qo˩ | ə˩gi˩ | go˩zo˥ | əəə…le˧ʂɯ˧ho˩ze˩pi˩ | pi˧dʑo˩ |
-ʈʂʰɯ˧ | le˧ʂɯ˧qo˩ | gv̩˩zo˥ | njɤ˩dʑi˩ | njæ˧-sɯ˩kv̩˩dʑo˩ | wɤ˩˥ | hĩ˧mo˧ | ʁwɤ˧qo˩ | ə˩gi˩ | go˩zo˥ | əəə…le˧ʂɯ˧ho˩ze˩pi˩ | pi˧dʑo˩ |
+"no˧=ɻ̍˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!" | pi˧-kv̩˩! |
+yyyy reporter dans le dictionnaire: so˧jɤ˩ xxxx ama.
+"Dans votre famille, vous avez de bons principes!"
 
-%Utterance ID: BENEVOLENCE.131 
-%Transcription automatique : go˧ | ɬi˧bi˧ | pi˧zo˩ | hĩ˧ʈʂʰɯ˧ | ɖɯ˧tɑ˧˥ | li˧pi˧kv̩˧˥mæ˩ | hɑ˧qo˧ɖɯ˧ʑi˩ɖi˩ʑi˩ | ʝi˧kʰv̩˥ | æ̃˩po˥æ̃dzi˧ | æ˩˧po˥ | əəə… 
-go˧ | ɬi˧bi˧ | pi˧zo˩ | hĩ˧ʈʂʰɯ˧ | ɖɯ˧tɑ˧˥ | li˧pi˧kv̩˧˥mæ˩ | hɑ˧qo˧ɖɯ˧ʑi˩ɖi˩ʑi˩ | ʝi˧kʰv̩˥ | æ̃˩po˥æ̃dzi˧ | æ˩˧po˥ | əəə… 
+njɤ˧=ɻ̍˩-dʑo˩, | gɯ˩-ʲi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ | dʑo˩ | dʑɤ˩-ɲi˥! |  hĩ˧ mo˥-hĩ˩ | ʈʂʰɯ˩-tɕɯ˩, | ʈʰææ̃˧ | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! |
+Nous autres, vrai de vrai, autrefois, on considérait que c'était une bonne chose de prendre exemple sur les autres! Et les vieilles personnes... effectivement, on prenait soin des vieilles personnes!
 
-%Utterance ID: BENEVOLENCE.132 
-%Transcription automatique : li˧bi˧kv̩˥mæ˩ | ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ho˥˧tʰv̩˧ʁo˥ | le˧qʰo˧mɤ˧ho˩tsɯ˩no | ə˩sɯ˩kv̩˩ | tʰi˧ | le˧ʝi˩bi˩ | pi˩ɖɯ˧tɑ˧˥ | tʰv̩˧ʑi˩ne˥ | li˩jo˩kv̩˩mæ˩ | tʰi˩˥ | ɖɯ˧gi˥ɖɯ˩ 
-li˧bi˧kv̩˥mæ˩ | ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ho˥˧tʰv̩˧ʁo˥ | le˧qʰo˧mɤ˧ho˩tsɯ˩no | ə˩sɯ˩kv̩˩ | tʰi˧ | le˧ʝi˩bi˩ | pi˩ɖɯ˧tɑ˧˥ | tʰv̩˧ʑi˩ne˥ | li˩jo˩kv̩˩mæ˩ | tʰi˩˥ | ɖɯ˧gi˥ɖɯ˩ 
+əəə … "zo˧mv̩˥ ʁo˩mæ˩-zo˩-kv̩˩! | ɑ˩pʰo˩ kʰi˥-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩", | pi˧-zo˩. |
+"Il faut prendre soin des enfants! (Et) quand on est de sortie, il faut prendre soin des personnes âgées", qu'on disait.
 
-%Utterance ID: BENEVOLENCE.133 
-%Transcription automatique : əəə…ʈʂʰɯ˧dʑi˧kʰi˩dʑo˩ | ə˧mi˧ | ʈʂʰɯ˧ʈʂæ˧qo˩ | njɤ˧ki˧ | ʈʰæ˧ʂɯ˧lɑ˩mv̩˩ɻɻ̍˩kv̩˩ | æ˧ʂɯ˧lɑ˩mæ˩ | njɤ˧ | ɖɯ˧zɯ˧ | le˧mv̩˩pʰæ˩tʰɑ˩mɤ˧ho˩ | ə˧sɯ˩ | njɤ˧le˩ |
-əəə…ʈʂʰɯ˧dʑi˧kʰi˩dʑo˩ | ə˧mi˧ | ʈʂʰɯ˧ʈʂæ˧qo˩ | njɤ˧ki˧ | ʈʰæ˧ʂɯ˧lɑ˩mv̩˩ɻɻ̍˩kv̩˩ | æ˧ʂɯ˧lɑ˩mæ˩ | njɤ˧ | ɖɯ˧zɯ˧ | le˧mv̩˩pʰæ˩tʰɑ˩mɤ˧ho˩ | ə˧sɯ˩ | njɤ˧le˩ |
+njɤ˧ | ə˧si˧ tʰv̩˧-v̩˧-ɳɯ˩ | qʰɑ˩ne˩˥ | ʐwɤ˩-kv̩˩˥ | mæ˩! | ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | "no˧=ɻ̍˩ | dʑɤ˩ ɲi˥! | no˧ | so˧hwɤ˩ | le˧-dʑɤ˩-ʝi˩! | no˧ | o˧ | hɤ˩-ze˥!", | wɤ˩˥, | ʈʂʰɯ˧-ʂɯ˧ | njɤ˧ | go˧-li˧-tsʰɯ˩, | pi˧-zo˩. |
+"no˧ li˧-tsʰɯ˩-ze˩!"
+ɡo˧ li˧ tsʰɯ˩: 去看病人
+Ma grand-mère, qu'est-ce qu'elle savait bien parler! De la sorte... "Vous, vous êtes des gens bien! Toi, dorénavant, fais de bonnes choses/pratique le bien! Toi, oh, tu vas avoir une belle vie/tu seras quelqu'un de bien!" De sorte que cette fois-là, j'étais allée rendre visite au malade.
 
-%Utterance ID: BENEVOLENCE.134 
-%Transcription automatique : ʈʂʰɯ˧bv̩˧i˧bi˧ | no˧ɳɯ˧ | dʑɤ˩hĩ˥ | tʰv̩˧ɲi˧ | ʂɯ˧dʑo˩ | njɤ˧ | no˩mi˩qo˥ | tʰi˧ʑi˧˥ze˩ | njɤ˧zo˧njɤ˧nv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧ɲi˧ɻ̍˩ʝi˧mɤ˧dʑɯ˧ | no˧ | le˧dʑɤ˩ʝi˩ |
-ʈʂʰɯ˧bv̩˧i˧bi˧ | no˧ɳɯ˧ | dʑɤ˩hĩ˥ | tʰv̩˧ɲi˧ | ʂɯ˧dʑo˩ | njɤ˧ | no˩mi˩qo˥ | tʰi˧ʑi˧˥ze˩ | njɤ˧zo˧njɤ˧nv̩˥ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧ɲi˧ɻ̍˩ʝi˧mɤ˧dʑɯ˧ | no˧ | le˧dʑɤ˩ʝi˩ |
+tsʰo˩mo˩ tʰv̩˩-ʲɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-nʲɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
+Ce vieil homme, voilà comment il me parlait sans cesse!
 
-%Utterance ID: BENEVOLENCE.135 
-%Transcription automatique : tsɯ˧ | no˧ | njɤ˧ki˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɲi˧ | ʂɯ˧ʁo˧ | mæ˧ze˩ | pi˧zo˩ | hĩ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥ | mæ˩ | tʰi˩˥ | hjɤ˧le˧ | ˧ʁɑ˧ | ʈʂʰɯ˧ne˧ʝi˥ | pi˧mɤ˧ɖo˧ | kʰv̩˧pʰæ˧tɕi˩hĩ˩dʑo˩ | hĩ˧mo˥hĩ˩ʁo˧mæ˧kv̩˩ 
-tsɯ˧ | no˧ | njɤ˧ki˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɲi˧ | ʂɯ˧ʁo˧ | mæ˧ze˩ | pi˧zo˩ | hĩ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥ | mæ˩ | tʰi˩˥ | hjɤ˧le˧ | ˧ʁɑ˧ | ʈʂʰɯ˧ne˧ʝi˥ | pi˧mɤ˧ɖo˧ | kʰv̩˧pʰæ˧tɕi˩hĩ˩dʑo˩ | hĩ˧mo˥hĩ˩ʁo˧mæ˧kv̩˩ 
+tʰi˩˥, | njɤ˧ | "ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧dʑo˧˥! | ə˧pʰv̩˧! | no˧ | le˧-tsʰɯ˩-ɲi˩! | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pv̩˩-kʰɯ˩-ɲi˩!" | pi˧, |
+% /go˧li˧/: 看病
+% xxxx que signifie ici /pv/? est-ce: 'accompagner', comme dans hĩ˧bæ˧ pv˥?
+Alors, moi, je répondais: "Houlà! (Mais je ne mérite pas tant de compliments:) je n'ai rien amené du tout / je suis venue les mains vides! Grand-père! Je suis venue vous accompagner pendant votre maladie!
 
-%Utterance ID: BENEVOLENCE.136 
-%Transcription automatique : əəə…hĩ˧mo˥ɻ̍kʰv̩˧pʰæ˧˥ | tɕi˩˥ | le˧ʁo˧mæ˥ | le˧ʈʰɯ˩ɲi˩mæ˩ | no˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | pi˧ | mo˧ɲi˧ | ʁɤ˧qo˧ʈʂʰɯ˧ | hĩ˧mo˥hĩ˩qʰɑ˩l˩ | kʰv̩˧æ˧˥ |
-əəə…hĩ˧mo˥ɻ̍kʰv̩˧pʰæ˧˥ | tɕi˩˥ | le˧ʁo˧mæ˥ | le˧ʈʰɯ˩ɲi˩mæ˩ | no˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | pi˧ | mo˧ɲi˧ | ʁɤ˧qo˧ʈʂʰɯ˧ | hĩ˧mo˥hĩ˩qʰɑ˩l˩ | kʰv̩˧æ˧˥ |
+æ̃˩mi˥ po˩-kʰi˩, | tʰv̩˧-ɲi˥! | dze˧ … | ə˧ʝi˧-ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ɭɯ˧ po˧˥! |
+J'avais amené une poule, ce jour-là! Du sucre... Autrefois, on n'avait que des blocs de sucre roux, n'est-ce pas! J'amenais un pain de sucre roux!
 
-%Utterance ID: BENEVOLENCE.137 
-%Transcription automatique : ljɤ˧ | qʰɑ˩jɤ˩dʑo˧˥ | dʑo˩ | hĩ˧no˥ | mɤ˩sɯ˩hĩ˩ | dʑo˩ | pi˧dʑo˩ | no˩dʑo˥ | no˧ɻ̍˩ | ə˧ʑi˧mv̩˥ɳɯ˩ | ə˧ʑi˧ɳɯ˥so˥ʝi˩ | dʑo˩ | əsɯ˥ | no˧ɻ̍˩ | ɑ˩ʁo˧ | so˧ʝi˧dʑɤ˩pi˧kv̩˩ | njɤ˧dʑo˩ | gɯ˩ 
-ljɤ˧ | qʰɑ˩jɤ˩dʑo˧˥ | dʑo˩ | hĩ˧no˥ | mɤ˩sɯ˩hĩ˩ | dʑo˩ | pi˧dʑo˩ | no˩dʑo˥ | no˧ɻ̍˩ | ə˧ʑi˧mv̩˥ɳɯ˩ | ə˧ʑi˧ɳɯ˥so˥ʝi˩ | dʑo˩ | əsɯ˥ | no˧ɻ̍˩ | ɑ˩ʁo˧ | so˧ʝi˧dʑɤ˩pi˧kv̩˩ | njɤ˧dʑo˩ | gɯ˩ 
+æ̃˩˥ | ɖɯ˧-mi˩ to˩~to˩ po˩-kʰi˩! | ʈʂʰɯ˧ne˧ ʝi˥-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥ | hĩ˧, | gɯ˩-ʲi˥ | ɖɯ˧-ʈʂæ˩ gv̩˩ | le˧-ʂɯ˧-ɲi˥-ze˩, | tʰv˧-v˧. |
+J'amenais une poule, que je serrais dans mes bras! Alors, ce faisant, l'homme, vrai de vrai, une génération a passé: il est décédé, ce monsieur.
 
-%Utterance ID: BENEVOLENCE.138 
-%Transcription automatique : ə˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧ | so˩dʑo˩ | dʑɤ˩ɲi˥ | hĩ˧mo˧ɻɻ̍˩ | ɕi˩ʈʰææ̃˧ | hĩ˧mo˥hĩ˩ʁo˩mæ˩ | əəə…zɯ˧mv̩˥zo˩ | mɤ˧zo˩kv̩˩ | ɑ˩pʰo˩tɕʰi˥ | dʑo˩ | hĩ˧no˥ĩʁ˩mɤ˧zo˥kv̩˩pi˩zo˩ 
-ə˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧ | so˩dʑo˩ | dʑɤ˩ɲi˥ | hĩ˧mo˧ɻɻ̍˩ | ɕi˩ʈʰææ̃˧ | hĩ˧mo˥hĩ˩ʁo˩mæ˩ | əəə…zɯ˧mv̩˥zo˩ | mɤ˧zo˩kv̩˩ | ɑ˩pʰo˩tɕʰi˥ | dʑo˩ | hĩ˧no˥ĩʁ˩mɤ˧zo˥kv̩˩pi˩zo˩ 
+tʰi˩˥, | ʈʂʰɯ˧ zo˧mv̩˥=ɻæ˩, | zo˩no˥, | hɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩! |
+Alors, ses enfants, eh bien, ils vont bien! et ils me parlent souvent !
 
-%Utterance ID: BENEVOLENCE.139 
-%Transcription automatique : njɤ˧ | ə˧si˧tʰv̩˥hv̩ɳo˩qʰɑ˩ | ne˥ʐwɤ˩kv̩˩ | mæ˩ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | no˧ɻ̍ | dʑo˩ɲi˥ | no˧ | so˧ho˩ | le˧dʑɤ˩ʝi˩ | no˧ʁo˧hɤ˩ʑi˥ | wɤ˩˥ | ʈʂʰɯ˧ʂe˧ | njɤ˧gv̩˧ | li˧tsʰɤ˩ | pi˧zo˩ | tsʰɯ˩ | mv̩˩ 
-njɤ˧ | ə˧si˧tʰv̩˥hv̩ɳo˩qʰɑ˩ | ne˥ʐwɤ˩kv̩˩ | mæ˩ | ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | no˧ɻ̍ | dʑo˩ɲi˥ | no˧ | so˧ho˩ | le˧dʑɤ˩ʝi˩ | no˧ʁo˧hɤ˩ʑi˥ | wɤ˩˥ | ʈʂʰɯ˧ʂe˧ | njɤ˧gv̩˧ | li˧tsʰɤ˩ | pi˧zo˩ | tsʰɯ˩ | mv̩˩ 
+"njɤ˧ | ə˧dɑ˥-ɳɯ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧ ʐwɤ˧-kv̩˧˥ | wɤ˩! | ə˧mi˧! | ʈæ˧ʂɯ˧-lɑ˩mv̩˩! | no˧ | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖwæ˧˥ | hĩ˧ ʁo˧mæ˧ kv̩˩ pʰæ˩-di˩!" | pi˧-zo˩. |
+"Mon père, autrefois, il parlait de toi! Eeeeh! Ddaeshilamu! Toi, autrefois, il paraît que tu t'entendais à prendre soin d'autrui!" qu'ils disent.
 
-%Utterance ID: BENEVOLENCE.140 
-%Transcription automatique : ʐɯ˧hi˧ki˩ | ɖɯ˧jɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩ɲi˩ | tʰi˩˥ | njɤ˧ | ə˧mi˧ | le˩sɑ˥po˧di˩ | mɤ˧dʑo˧ | æ˧pʰɑ˧˥ɻ̍ | no˧ | le˧tsʰɯ˩ɲi˩ | njɤ˧ | ɑ˩ʁo˩ | ɳɯ˧no˥ | le˧po˥kʰɯ˧˥pi˧ | æ̃˩ni˥ | po˧kʰi˥ | tʰv̩˧ɲi˩ |
-ʐɯ˧hi˧ki˩ | ɖɯ˧jɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩ɲi˩ | tʰi˩˥ | njɤ˧ | ə˧mi˧ | le˩sɑ˥po˧di˩ | mɤ˧dʑo˧ | æ˧pʰɑ˧˥ɻ̍ | no˧ | le˧tsʰɯ˩ɲi˩ | njɤ˧ | ɑ˩ʁo˩ | ɳɯ˧no˥ | le˧po˥kʰɯ˧˥pi˧ | æ̃˩ni˥ | po˧kʰi˥ | tʰv̩˧ɲi˩ |
+njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ɲi˥~ɖɯ˩-ɲi˩, | ʐæ˧~ʐæ˩-kv̩˩ mæ˩, | lo˧ ʝi˧-bi˧! |
+Nous autres, jour après jour, on bavardait, quand on allait travailler!
 
-%Utterance ID: BENEVOLENCE.141 
-%Transcription automatique : dzɯ˧dʑɯ˧ | ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ | ho˩tʰɑ˩lɑ˥dʑo˩ɲi˩mæ˩ | ho˩tʰɑ˩˥ | ɖɯ˧ɭɯ˧po˧˥ | æ̃æ˩˥ɬi˩mi˧ | tso˧to˩po˩kʰi˥ | ʈʂʰɯ˧ne˧ʝi˥ | kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | ɖɯ˧ɖɯ˧ʂæ˧gv̩˧ | le˧ʂɯ˧ɲi˥ze˩ | tʰv̩˧v̩˧ |
-dzɯ˧dʑɯ˧ | ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ | ho˩tʰɑ˩lɑ˥dʑo˩ɲi˩mæ˩ | ho˩tʰɑ˩˥ | ɖɯ˧ɭɯ˧po˧˥ | æ̃æ˩˥ɬi˩mi˧ | tso˧to˩po˩kʰi˥ | ʈʂʰɯ˧ne˧ʝi˥ | kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | ɖɯ˧ɖɯ˧ʂæ˧gv̩˧ | le˧ʂɯ˧ɲi˥ze˩ | tʰv̩˧v̩˧ |
+zo˩no˧-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ ʁo˧pv̩˩-zo˩-kv˩! | "no˧, | ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ mo˥-hĩ˩, | ɖwæ˧˥ | ʁo˧mæ˧ kv̩˩-tsɯ˩, | ə˩-gi˩!" | pi˧-zo˩, | wɤ˩˥, | ʐwɤ˩-kv̩˩˥ | mæ˩! |
+23 minutes 55
+ʁo˧pv˩: se ɻencontɻeɻ suɻ le chemin
 
-%Utterance ID: BENEVOLENCE.142 
-%Transcription automatique : tʰi˩˥ʈʂʰɯ˧zo˧nɑ˥ | zo˩no˥ | hɤ˩ | njɤ˧ki˧ | ɖi˧njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩ | njɤ˧ | ə˧dɑ˥ɳɯ˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | no˧ʐwɤ˧ko˧˥ | ĩ˧mv̩˧ʈʰæ˧ʂɯ˥ɑ˩mæ˩ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | ɖwæ˧˥ | hĩ˧o˧mæ˧ | ə˩gv̩˩pʰæ˩di˩ | pi˧zo˩ | njæ˧-sɯ˩kv̩˩ | ɖɯ˧ɲi˥ɖɯ˩di˩ | ʐæ˧ʐæ˩kv̩˩mæ˩ 
-tʰi˩˥ʈʂʰɯ˧zo˧nɑ˥ | zo˩no˥ | hɤ˩ | njɤ˧ki˧ | ɖi˧njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩ | njɤ˧ | ə˧dɑ˥ɳɯ˧ | ə˧ʝi˧ʂɯ˥ʝi˩ | no˧ʐwɤ˧ko˧˥ | ĩ˧mv̩˧ʈʰæ˧ʂɯ˥ɑ˩mæ˩ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | ɖwæ˧˥ | hĩ˧o˧mæ˧ | ə˩gv̩˩pʰæ˩di˩ | pi˧zo˩ | njæ˧-sɯ˩kv̩˩ | ɖɯ˧ɲi˥ɖɯ˩di˩ | ʐæ˧ʐæ˩kv̩˩mæ˩ 
+njæ˧=ɻæ˩-dʑo˩, | hĩ˧mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩! | no˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ | <tʰɑ˧-li˧> li˧-mɤ˧-ho˩ | tʰi˩˥, | tsʰi˧qʰæ˧˥!" | pi˧˥, |
+% /tsʰi˧qʰæ˧˥/ : quelque chose comme: à ce moment-là ??
+ʈʰææ˧, | tʰi˩˥, | ɖʐv̩˧ɳɯ˧ | ʝi˧ɲi˥mæ˩! | pi˧zo˩, | wɤ˩˥, | zo˧hɑ̃˧ɻ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
+% 24.0659 à 24.0982
 
-%Utterance ID: BENEVOLENCE.143 
-%Transcription automatique : mɤ˧ʝi˧bi˩ | zo˩no˥zəəə…ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˩pi˩ze˩kɯ˩˥ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧mo˥ | ɖwæ˩ʁo˧ | mæ˧kv̩˩tsæ˩ə˩ | gi˩ | pi˧ze˩ | wɤ˩˥ | ʐwɤ˩kv̩˩ | mæ˩ | njæ˧ | dʑɯ˩ | hi˧mo˥o | mɤ˧kv̩˧˥ | no˧sɯ˧kv̩˩ | hĩ˧mo˥ |
-mɤ˧ʝi˧bi˩ | zo˩no˥zəəə…ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ʁo˩pi˩ze˩kɯ˩˥ | no˧ə˧ʝi˧ʂɯ˥ʝi˩ | hĩ˧mo˥ | ɖwæ˩ʁo˧ | mæ˧kv̩˩tsæ˩ə˩ | gi˩ | pi˧ze˩ | wɤ˩˥ | ʐwɤ˩kv̩˩ | mæ˩ | njæ˧ | dʑɯ˩ | hi˧mo˥o | mɤ˧kv̩˧˥ | no˧sɯ˧kv̩˩ | hĩ˧mo˥ | 
+njɤ˧-ɳɯ˧ | ɖɯ˧-ʂɯ˩~ɖɯ˧-ʂɯ˩! | tʰi˩˥, | ʁo˧mæ˧-ɳɯ˩ | mɤ˧-mæ-ɳɯ˧ | ʈʂʰɯ˧ lɑ˩-ɲi˩-ze˩! |
+C'est juste une question de savoir si on prend soin (des gens) ou non!
 
-%Utterance ID: BENEVOLENCE.144 
-%Transcription automatique : ho˧tʰɑ˧˥ | li˧tsʰi˩ | qʰæ˧˥ | njɤ˧ɖɯ˧ʂɯ˧ʐɤ˧ | tʰi˩ʁo˧mæ˧ | ɖɯ˧mɑ˧ʐɑ˧hæ˧e˩ | tʰi˩˥ | njæ˧-sɯ˩kv̩˩zo˩tʰi˧ | ə˧ʝi˧tsʰi˧ʝi˧ | qʰɑ˩ɯsi˥æ˩ | dʑɯ | ɖæ˩˥æ˥ | tʰi˩˥ | ɖʐv̩˧mi˧ | ɲimæ˩ | pi˧zo˩ | wɤ˩˥ | zo˧hɑ̃˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩v̩˩ | ɲi˩ |
-ho˧tʰɑ˧˥ | li˧tsʰi˩ | qʰæ˧˥ | njɤ˧ɖɯ˧ʂɯ˧ʐɤ˧ | tʰi˩ʁo˧mæ˧ | ɖɯ˧mɑ˧ʐɑ˧hæ˧e˩ | tʰi˩˥ | njæ˧-sɯ˩kv̩˩zo˩tʰi˧ | ə˧ʝi˧tsʰi˧ʝi˧ | qʰɑ˩ni˩-ʝi˥-tso˩ ɲi˩? | <ɖʐ...> tʰææ̃˧ | tʰi˩˥, | ɖʐv̩˧-ɳɯ˧ ʝi˧-ɲi˥ mæ˩, | pi˧-zo˩, | wɤ˩˥ | zo˧hṽ̩˧=ɻɑ˥ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
+tʰi˩˥, | njæ˧-sɯ˩kv̩˩-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-tsʰɯ˧ʝi˧! | qʰɑ˩ne˩ ʝi˥-tso˩-ɲi˩! | ɖʐ ˧!
 
-%Utterance ID: BENEVOLENCE.145 
-%Transcription automatique : zo˩zo˩no˥ʈʂʰɯ˩ | õʈʂʰɯ˧ | ne˧ʝi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩ | ə˧si˧m 
-zo˩ | zo˩no˥-ʈʂʰɯ˩ | õ˧ʈʂʰɯ˧ne˧ʝi˥, | ʈʂʰɯ˧ne˧ʝi˥, | le˧-ʐwɤ˩! | le˧-se˩-ze˩! | mmm! 
+
+ʈʰææ̃˧ | tʰi˩˥, | ɖʐv˧-ɳɯ˧ ʲi˧-ɲi˥ mæ˩! pi˧-zo˩, | wɤ˩˥, | zo˧hṽ˧=ɻæ˥, ʈʂʰɯ˧ne˧-ʲi˥ | ʐwɤ˩-kv˩˥ | ɲi˩! |
+
+zo˩no˥-ʈʂʰɯ˩ | õ˧-ʈʂʰɯ˧ne˧-ʝi˥, | ʈʂʰɯ˧ne˧-ʝi˥, | le˧-ʐwɤ˩! |
+%zo˩zo˩no˥ʈʂʰɯ˩ | õʈʂʰɯ˧ | ne˧ʝi˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧ʐwɤ˩ |
+24.0982 à 24.12390
+Et alors, eh bien... voilà ce qui se raconte!
+
+le˧-se˩-ze˩! | mmm!
+% 00:24:12,390  00:24:14,335
+% Formule chuchotée, adressée à l'enquêteur, afin qu'il éteigne l'appareil d'enregistrement : "C'est fini!"
+C'est fini! Mmmh!
