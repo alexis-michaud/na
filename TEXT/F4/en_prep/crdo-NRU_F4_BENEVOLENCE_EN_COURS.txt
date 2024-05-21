@@ -1420,7 +1420,7 @@ Il se mettait à neiger; on cheminait en montagne, encore et encore, la neige to
 tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ qʰo˧-ki˧ | tʰi˧-tʰv̩˧-dʑo˥, | zo˩no˥, | ə˧v̩˧=ɻæ˧-ɳɯ˥, | pʰæ˧tɕi˥ | qʰɑ˩jɤ˩ kʰi˥-ɲi˩, | pʰæ˧tɕi˥ ʈʂʰɯ˩-tɕi˩-nɯ˩, | si˧-ʈʂʰɯ˧ | zo˩no˥ | le˧-ʑi˩ | le˧-po˧-tsʰɯ˧˥! |
 %Utterance ID: BENEVOLENCE.115 
 %Transcription automatique : tʰi˩˥ | tɑ˧tɑ˧˥ | gv̩˧kʰv̩˩ki˩tʰi˩tv̩˩dʑo˩ | zo˩no˥ | ə˧lɑ˧ | ɻə˧ni˧˥ | pʰæ˧tɕɤ˥ | qʰɑ˩hjɤĩ˩hi˥gi˩ | pʰæ˧tɕi˥tɕi˩nɯ˩ | ɕi˧ʈʂʰɯ˧ | zo˩no˥ | le˧ʑi˩ | le˧po˧tsʰɯ˧˥ |
-% xxxx Revoir avec F4, à 19 mn 12 secondes: qu'est ce /gv̩˧ kʰv̩˧-ki˧/? ɻéponse: c'est gv̩˧ qʰo˧-ki˧ le lieu où sont eMPILEEES les planches
+%  Revoir avec F4, à 19 mn 12 secondes: qu'est ce /gv̩˧ kʰv̩˧-ki˧/? ɻéponse: c'est gv̩˧ qʰo˧-ki˧ le lieu où sont eMPILEEES les planches
 % À partir d'ici : reprends la transcription automatique de 2022, GitHub/na/AutomaticTranscription/2022_09_Transformers/prediction_M02_345116.txt, que voici : 
 %tʰi˩˥,  tɑ˧tɑ˧,  gv̩˧qʰv̩˧ki˧  tʰi˧tv̩˧˥  dʑo˩ … zo˩no˥,  ə˧v̩˧ɻæ˧ɳɯ˥,  pʰæ˧tɕi˥  qʰɑ˩jɤ˩ ki˥ɲi˩,  pʰæ˧tɕi˥  tɕi˩tɕɤ˩ɳɯ˩,  si˧ʈʂʰɯ˧! zo˩no˥,  le˧ʑi˩ le˧po˧tsʰɯ˧˥!
 Alors, parvenu précisément à l'endroit où étaient empilées les planches, eh bien, les oncles, et tous les jeunes qui étaient du voyage, eh bien, ils portaient le bois à dos d'homme (pour le ramener au village).
@@ -1476,6 +1476,7 @@ De cette famille-là (celle de Zzhege Dashi), il y avait deux jeunes gens, et au
 %20 mn 1* secondes
 % La syllabe /-kʰi˩/ dans le premier /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ est dite très rapidement: je ne l'aurais pas reconnue sans l'indication sûre de F4. La deuxième occurrence de l'expression /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ m'aurait été totalement inintelligible sans l'indication de F4.
 % /ɲi˧-tsɯ˧-ze˧/: 二十几? xxxx ama à confirmer; /tsɤ˧/ 'devenir, donner': 'ça donnait 20 personnes en tout'? réponse: ɲi˧tsi˧-ɖɯ˧-v˧-ze˧ ɡv˧
+% on peut diɻe: tsʰi˧-ɲi˧, hĩ˧, so˧-tsʰi˧-ze˧! paraphrase: on atteint le nombre de trente.
 % et comment on dit: "plus de 20", "plus de 10", "plus de 100" ?
 En sollicitant ainsi les familles (=en battant ainsi le rappel), nous, les femmes, les jeunes gens, en rassemblant tout le monde, eh bien, les gens qui s'en allaient porter les planches, ça donnait un groupe de vingt personnes! / on atteignait le nombre de vingt personnes!
 
@@ -1538,8 +1539,9 @@ Chaque famille du village (fait ainsi)! Certains amènent un poulet! Un poulet, 
 
 "ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥-hĩ˩ tʰv̩˩-v̩˧, | le˧-qʰwɤ˧ ʁo˧-mɤ˧-ho˩ tsɯ˩! | ə˧-sɯ˩kv̩˩, | ɖɯ˧-li˩-ɻ̍˩-bi˩!" pi˩, | ɖɯ˧-tɑ˧˥ … | tʰv̩˧-ʑi˧-ne˧-ʲi˥ | li˧-ʲi˧-kv˧˥ mv˩!
 %le˧-jo˧ktʰv˧ɻæ˧ po˥! v̩˧˥ | mæ˩!
-% xxxx ama: voir à nouveau: construction /li˧-ʲi˧-kv˧˥/
+% xxxx ama: voir à nouveau: construction /li˧-ʲi˧-kv˧˥/ ; qd qqn n'est pɑs mɑlɑde: /ɖɯ˧-li˩-ɻ˩ æ˩-bi˩/!
 On dit: "Aïe, aïe, aïe! Cette vieille personne, il y a peu de chances qu'elle s'en sorte! Nous autres, allons lui rendre une petite visite!", et tous ensemble... on va rendre visite à la famille en question!
+
 
 tʰi˩˥, | ə … ɖɯ˧... ɖɯ˧... ʈʂʰɯ˧ li˩-kʰi˩-dʑo˩, | ə˧mi˧! | tʰv̩˧-ʈʂæ˩-qo˩, | njɤ˧-ki˧ | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ ɻwæ˩-kv˩! |
 Alors, quand on est allé rendre visite (au vieil homme en question), eeeh bien! À cette époque, on m'appelait "Ddaeshilamu"!
@@ -1563,11 +1565,14 @@ Alors moi j'ai répondu: "Oncle, ne dites pas ça! Les jeunes, c'est tout nature
 "mɤ˧-ɲi˩! | ʁwɤ˧-qo˧-ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩, | kʰv˧pʰæ˥tɕi˩-hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | -dʑo˩, | hĩ˧ mo˥hĩ˩ mɤ˩-sɯ˩-hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! |
 [Le vieil homme répond alors:] "Non! Au village, il y a beaucoup de personnes âgées, et beaucoup de jeunes personnes; et il y en a beaucoup qui ne prennent aucun soin des vieux! (littéralement: qui ne connaissent pas les vieux)
 
-"no˩-dʑo˥, | no˧=ɻ̍˩ | <ə˧ʑi˧-mo˥-ɳɯ˩> | ə˧ʑi˧-ɳɯ˥ | so˧ʲɤ˩ dʑɤ˩ (on pouɻɻɑit diɻe: so˧lo˧ | dʑɤ˩˥), | ə˧-sɯ˥! |
+"no˩-dʑo˥, | no˧=ɻ̍˩ | <ə˧ʑi˧-mo˥-ɳɯ˩> | ə˧ʑi˧-ɳɯ˥ | so˧ʲɤ˩ dʑɤ˩ (on pouɻɻɑit diɻe: so˧lo˧ | dʑɤ˩˥, même sens), | ə˧-sɯ˥! |
 "Toi, tu as bien retenu les leçons de ta grand-mère, tu sais!
 
 "no˧=ɻ̍˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!" | pi˧-kv̩˩! |
-yyyy reporter dans le dictionnaire: so˧jɤ˩ xxxx ama.
+yyyy reporter dans le dictionnaire: so˧jɤ˩ ama.
+so˧jɤ˩ dʑɤ˩: avoir de bons principes, avoir une bonne éducation
+contraire: ʈʂʰɯ˧=ɻ˩, | so˧jɤ˩ mɤ˧-dʑɤ˩! cette famille-là, elle n'a pas de bons principes!
+
 "Dans votre famille, vous avez de bons principes!"
 
 njɤ˧=ɻ̍˩-dʑo˩, | gɯ˩-ʲi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ | dʑo˩ | dʑɤ˩-ɲi˥! |  hĩ˧ mo˥-hĩ˩ | ʈʂʰɯ˩-tɕɯ˩, | ʈʰææ̃˧ | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! |
@@ -1584,10 +1589,24 @@ Ma grand-mère, qu'est-ce qu'elle savait bien parler! De la sorte... "Vous, vous
 tsʰo˩mo˩ tʰv̩˩-ʲɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-nʲɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
 Ce vieil homme, voilà comment il me parlait sans cesse!
 
-tʰi˩˥, | njɤ˧ | "ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧dʑo˧˥! | ə˧pʰv̩˧! | no˧ | le˧-tsʰɯ˩-ɲi˩! | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pv̩˩-kʰɯ˩-ɲi˩!" | pi˧, |
+tʰi˩˥, | njɤ˧ | "ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧-dʑo˧˥! | ə˧pʰv̩˧! | <no˧ | le˧-tsʰɯ˩-ɲi˩!> | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pv̩˩-kʰɯ˩-ɲi˩!" | pi˧, |
 % /go˧li˧/: 看病
-% xxxx que signifie ici /pv/? est-ce: 'accompagner', comme dans hĩ˧bæ˧ pv˥?
-Alors, moi, je répondais: "Houlà! (Mais je ne mérite pas tant de compliments:) je n'ai rien amené du tout / je suis venue les mains vides! Grand-père! Je suis venue vous accompagner pendant votre maladie!
+% que signifie ici /pv/? est-ce: 'accompagner', comme dans hĩ˧bæ˧ pv˥? ɭɑ foɻmule /go˧li˧ pv̩˩-kʰɯ˩-ɲi˩/ est équivɑlente à /go˧li˧ kʰi˧˥-ɲi˩/ ɻéponse: est: 让
+oɻdinɑteuɻ: dʑɯ˧ | pv˩-tʰɑ˩-kʰɯ˥! il ne doit pɑs entɻeɻ d'eɑu! ensuite: ooo! tjɤ˧no˥-qo˩ | dʑɯ˧ | hɯ˧-ze˧! de l'eɑu s'est intɻoduite dɑns l'oɻdinɑteuɻ! (dɑns l'oɻdinɑteuɻ); positif: dʑɯ˧ | pv˩-kʰɯ˧ Est le sens pvLa2, “让”
+ɡo˧li˧ | pv˩-tʰɑ˩-kʰɯ˥! si on n'ɑime pɑs qqn: ne vɑ pɑs lui ɻendɻe visite!
+% ɑ˩ʁo˧-ɳɯ˧ | pv˩-kʰɯ˥ ɲi˩! je vɑis t'ɑccompɑɡneɻ!
+différent de : hĩ˧bæ˧ pv˥ kʰi˩ (ou: hɯ˩) ɲi˩! je suis allé raccompagner l'hôte! / hĩ˧ pv˥! hĩ˧bæ˧ le-pv˩-hɯ˩-ze˩!
+Alors, moi, je répondais: "Houlà! (Mais je ne mérite pas tant de compliments:) je n'ai rien amené du tout / je suis venue les mains vides! Grand-père! Ma famille m'a envoyée pour vous accompagner pendant votre maladie! 我家让我陪您
+
+élicitation:
+hɑ˧ | dzɯ˧ pv˥-kʰɯ˩
+̩ʈʂʰɯ˧-ɳɯ˧ | hwæ˧ pv˩-kʰɯ˩.
+̩ʈʂʰɯ˧-ɳɯ˧ | tɕʰi˧ pv˩-kʰɯ˩.
+̩ʈʂʰɯ˧-ɳɯ˧ | bi˧ pv˩-kʰɯ˩.
+̩ʈʂʰɯ˧-ɳɯ˧ | dze˩ pv˩-kʰɯ˥.
+̩ʈʂʰɯ˧-ɳɯ˧ | lɑ˧ pv˥-kʰɯ˩.
+̩ʈʂʰɯ˧-ɳɯ˧ | ʐwɤ˩ pv˩-kʰɯ˥
+ʐɯ˧ | ʈʰɯ˩ pv˩-kʰɯ˥
 
 æ̃˩mi˥ po˩-kʰi˩, | tʰv̩˧-ɲi˥! | dze˧ … | ə˧ʝi˧-ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ɭɯ˧ po˧˥! |
 J'avais amené une poule, ce jour-là! Du sucre... Autrefois, on n'avait que des blocs de sucre roux, n'est-ce pas! J'amenais un pain de sucre roux!
@@ -1610,13 +1629,14 @@ zo˩no˧-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧ʝi˥ | njɤ˧ ʁo˧pv̩˩-zo˩-kv˩! | "no
 
 njæ˧=ɻæ˩-dʑo˩, | hĩ˧mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩! | no˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ | <tʰɑ˧-li˧> li˧-mɤ˧-ho˩ | tʰi˩˥, | tsʰi˧qʰæ˧˥!" | pi˧˥, |
 % /tsʰi˧qʰæ˧˥/ : quelque chose comme: à ce moment-là ??
+
 ʈʰææ˧, | tʰi˩˥, | ɖʐv̩˧ɳɯ˧ | ʝi˧ɲi˥mæ˩! | pi˧zo˩, | wɤ˩˥, | zo˧hɑ̃˧ɻ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
 % 24.0659 à 24.0982
 
 njɤ˧-ɳɯ˧ | ɖɯ˧-ʂɯ˩~ɖɯ˧-ʂɯ˩! | tʰi˩˥, | ʁo˧mæ˧-ɳɯ˩ | mɤ˧-mæ-ɳɯ˧ | ʈʂʰɯ˧ lɑ˩-ɲi˩-ze˩! |
 C'est juste une question de savoir si on prend soin (des gens) ou non!
 
-tʰi˩˥, | njæ˧-sɯ˩kv̩˩-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-tsʰɯ˧ʝi˧! | qʰɑ˩ne˩ ʝi˥-tso˩-ɲi˩! | ɖʐ ˧!
+tʰi˩˥, | njæ˧-sɯ˩kv̩˩-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-tsʰɯ˧ʝi˧! | qʰɑ˩ne˩ ʝi˥-tso˩-ɲi˩! | <ɖʐ...> |
 
 
 ʈʰææ̃˧ | tʰi˩˥, | ɖʐv˧-ɳɯ˧ ʲi˧-ɲi˥ mæ˩! pi˧-zo˩, | wɤ˩˥, | zo˧hṽ˧=ɻæ˥, ʈʂʰɯ˧ne˧-ʲi˥ | ʐwɤ˩-kv˩˥ | ɲi˩! |

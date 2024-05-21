@@ -1,0 +1,19 @@
+Symboles utiles pour na.lex: •‡†  “”  ‘’  «» Lettres grecques pour les sous-catégories tonales: α β γ
+Diamant : ◊
+Notation des tons : notation étroite; phonologie de surface (notation large); ou phonologie 'profonde' (notation abstraite):
+<FORM kindOf="phonetic">
+<FORM kindOf="phonemic">
+<FORM kindOf="phono">
+Exemples : numéroter les sens en 1 2 3 4; ceux-ci ➊➋➌ sont beaux mais ne sont pas dans les polices concernées. Passe à: ➀➁➂➃➄➅➆.
+Symboles utilisés dans les identifiants:
+E entouré : entrée
+H : numéro d'homonyme
+Sont des caractères spéciaux = non confusionnables ; petit e pour exemple, D pour définition…
+Ont une valeur sémantique, et sont non confusionnables. Ex.: dièse employé par C. Buret.
+
+Symbole de la barre verticale : | 007C ǀ
+Un temps, avais utilisé : ǀ lettre latine clic dental, 01C0 (visuellement: moins clair).
+
+Au 20 février 2017: le "bon" fichier Dictionary.txt est dans: pylmflib 1.1/examples/na.
+Au 16 avril 2017 : c'est na.lex, dans na_W\fieldworks… lexika3.
+2024: na.lex, dans GitHub.

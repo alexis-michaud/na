@@ -78556,11 +78556,11 @@
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
-\xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˩di˩? xxxx ɑmɑ
+\rf F5
+\xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˧di˩ ɲi˩?
 \xe What kind of an impression does that give? (A way to point out to someone, coolly, calmly and without violence, that their behaviour is unseemly and undignified: for instance if someone is indulging in unreasonable quantities of alcohol.)
 \xn 这像什么呢？／这，给人是什么样的印象？（委婉说法，给一个人指出，他的行为不像话：如，一个人正在喝太多酒。）
 \xf Quelle impression ça produit, tout ça? (Façon calme et posée de signifier à quelqu'un que son comportement manque à la dignité: par exemple si quelqu'un se laisse aller à boire des quantités déraisonnables d'alcool.)
-\rf F5
 \dt 27/Apr/2017
 
 \lx ‑pɤ˧to˩
