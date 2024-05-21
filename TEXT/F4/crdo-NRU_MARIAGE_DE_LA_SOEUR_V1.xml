@@ -2784,7 +2784,7 @@
   </S>
   <S id="Sister_S045">
     <AUDIO start="148.0703" end="149.7666"/>
-    <FORM kindOf="phono">ə˧mv̩˧˥ dʑo˩ | dʑɯ˩ʁo˩˥ | kʰv̩˧ʂæ˧˥ |</FORM>
+    <FORM kindOf="phono">ə˧mv̩˧˥ ◊ -dʑo˩ | dʑɯ˩ʁo˩˥ | kʰv̩˧ʂæ˧˥ |</FORM>
     <FORM kindOf="ortho">amu jjo jjiwo kushae;</FORM>
     <NOTE xml:lang="fr" message="ə˧mv̩˧˥ ◊ -dʑo˩: d’abord noté ˧ ˥ ˧; est la variante au ton MH de ce mot, unique mot observé à ce jour – en 2009 – qui possède deux variantes tonales."/>
     <NOTE xml:lang="fr" message="d'abord noté /‡dʑɯ˩ʁo˧ kʰv̩˧ʂæ˧˥/."/>
@@ -2815,8 +2815,9 @@
   </S>
   <S id="Sister_S046">
     <AUDIO start="149.7666" end="151.2144"/>
-    <FORM kindOf="phono">go˧mi˧ dʑo˩ | ɑ˩ʁo˧ dʑo˩ dʑo˩ |</FORM>
+    <FORM kindOf="phono">go˧mi˧-dʑo˧ | ɑ˩ʁo˧ dʑo˩ -dʑo˩ |</FORM>
     <FORM kindOf="ortho">ggomi jjo awo jjo jjo.</FORM>
+    <NOTE xml:lang="fr" message="go˧mi˧-dʑo˧: d’abord noté ˧ ˧ ˩, par erreur; corrigé en 2024, au vu de la note de Sister.9 et des informations collectées au fil de la transcription de Sister5."/>
     <TRANSL xml:lang="fr">quand à la sœur, elle était à la maison;</TRANSL>
 	<TRANSL xml:lang="en">(as for the) little sister, (she) was at home.</TRANSL>
     <TRANSL xml:lang="zh">（而）妹妹呢，（留）在家。</TRANSL>
