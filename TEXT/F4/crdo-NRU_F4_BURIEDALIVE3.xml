@@ -855,9 +855,11 @@
 	</S>
 	<S id="BuriedAlive3S093">
 		<AUDIO start="567.1497" end="574.0371"/>
-		<FORM>tʰi˩˥, | "gɯ˩-ʝi˥-dʑo˩, | gɯ˩-ʝi˥ | mɤ˧-ʂɯ˧!" | pi˧-dʑo˩, | "ə˧tse˥ | mɤ˧-ʂɯ˧-zo˧? | njɤ˧ mv̩˩ | le˧-ʂɯ˧! | ʈʂʰɯ˧-ɲi˧-dʑo˩, | so˩-hɑ̃˩ gv̩˩-ze˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | "gɯ˩-ʝi˥-dʑo˩, | gɯ˩-ʝi˥ | mɤ˧-ʂɯ˧!" | pi˧-dʑo˩, | "ə˧tse˥ | mɤ˧-ʂɯ˧-zo˧? | njɤ˧ mv̩˩ | le˧-ʂɯ˧! | tsʰi˧ɲi˧-dʑo˩, | so˩-hɑ̃˩ gv̩˩-ze˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
 			message="/ə˧tse˥/: forme réduite, lexicalisée/en bonne voie de lexicalisation, de 'pourquoi/comment donc', /ə˧tse˧ ʝi˥/."/>
+		<NOTE xml:lang="fr"
+			message="Avant 2024: noté /ʈʂʰɯ˧-ɲi˧/ pour 'aujourd'hui', au lieu de //tsʰi˧-ɲi#˥//. Corrigé dans le cadre d'une vérification systématique dans les textes."/>
 		<TRANSL xml:lang="fr">Alors le jeune homme a poursuivi: "[Mais si,] vrai de vrai, pour de
 			vrai, elle n'est pas morte!" La mère a répondu: "Comment ça, elle n'est pas morte? Ma
 			fille est morte! Aujourd'hui, trois nuits ont passé (=ça fait déjà trois jours

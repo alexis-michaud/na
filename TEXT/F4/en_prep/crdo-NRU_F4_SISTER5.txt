@@ -15,7 +15,7 @@ Tandis que la petite sœur, elle restait à la maison, à ce qu'on dit!
 tʰi˩˥, | go˧mi˧-dʑo˧, | ə˧mv˥-tɕi˩ lɑ˩ gv̩˩, | ɑ˩ʁo˧ dʑo˩ -dʑo˩ | tʰi˩˥, | əəə… ə˧mv̩˧˥ | dʑo˩, | ʈʰææ̃˧ | dʑɯ˩-ʁo˩ dzi˩-zo˥ | le˧-mɤ˧-tsʰɯ˩ -tsɯ˩ ◊ -mv̩˩. |
 15.61 24.70
 % Tons de /go˧mi˧-dʑo˧/: voir note ci-dessus.
-% /dʑɯ˩-ʁo˩ dzi˩-zo˥/: xxxx ama à vérifier à nouveau. Déjà: est-ce bien le verbe /dzi˩/ 'habiter'? Ensuite: y a-t-il un schwa, /dʑɯ˩-ʁo˩ ə˩ dzi˩-zo˥/, qui serait le signe d'une syllabe en ellipse, telle que /dʑɯ˩-ʁo˩ tʰi˩ dzi˩-zo˥/?
+% /dʑɯ˩-ʁo˩ dzi˩-zo˥/: vérifié soigneusement avec F4. La prononciation ressemble à /dʑɯ˩-ʁo˩ dʑɯ˩-zo˥/, mais il s'agit bien du verbe /dzi˩/ 'habiter'? Ensuite: y a-t-il un schwa, /dʑɯ˩-ʁo˩ ə˩ dzi˩-zo˥/, qui serait le signe d'une syllabe en ellipse, telle que /dʑɯ˩-ʁo˩ tʰi˩ dzi˩-zo˥/? Réponse: on peut en effet dire /dʑɯ˩-ʁo˩˥ | tʰi˧-dzi˩-zo˩/. Qui peut ensuite se simplifier en un seul groupe tonal, /dʑɯ˩-ʁo˩ tʰi˩ dzi˩-zo˥/. Puis en /dʑɯ˩-ʁo˩ ə˩-dzi˩-zo˥/. Et enfin, sans le schwa: /dʑɯ˩-ʁo˩ dzi˩-zo˥/.
 Alors, la petite sœur, comme elle était encore petite, et qu'elle restait à la maison, eh bien... l'aîné, on dit qu'il était allé vivre en montagne (qu'il s'était établi dans la montagne), et qu'il ne revenait pas.
 
 dʑɯ˩ʁo˩ dʑɯ˩˥ | le˧-mɤ˧-tsʰɯ˩-dʑo˩, | ə˧mi˧ F | le˧-mo˩! | ə˧dɑ˥ F | le˧-mo˩-ho˩, | go˧mi˧ | le˧-ɖɯ˩ -tsɯ˩ ◊ -mv̩˩. |
@@ -25,7 +25,9 @@ Comme [le frère] habitait dans la montagne et ne revenait pas, la mère et le p
 
 tʰi˩˥, | "tsʰi˧ɲi˧ | le˧-ʝi˩ ə˩-ʝi˩? | so˧ɲi˥ | le˧-ʝi˩ ə˩-ʝi˩?" | ʂv̩˧ɖv̩˧, ə˩-ɡi˩! | le˧-mɤ˧-tsʰɯ˩ -tsɯ˩ ◊ -mv̩˩. |
 31.86 38.48
-% Formule /le˧-ʝi˩ ə˩-ʝi˩/: est-ce une forme réduite de /le˧-ʝi˩ mɤ˩-ʝi˩/? xxxx occasion d'éliciter diverses formes du verbe /ʝi˧/ 'venir' (ton Mc). /le˧-ʝi˩/: se conjugue comme /bi˧/.
+% Formule /le˧-ʝi˩ ə˩-ʝi˩/: est-ce une forme réduite de /le˧-ʝi˩ mɤ˩-ʝi˩/? réponse: non, ce n'est pas une forme réduite de /le˧-ʝi˩ mɤ˩-ʝi˩/.
+On ne peut dire: /le˧-ʈʰɯ˩ ə˩-ʈʰɯ˩/, /le˧-do˩ ə˩-do˩/, /le˧-ki˩ ə˩-ki˩.../ Pour une jeune femme qui hésiterait à se marier, on dirait: /le˧-ki˧ hɤ˧ | mɤ˧-do˩!/ de même qu'on pourrait dire: /le˧-ʝi˩ hɤ˩ | mɤ˧-do˩!/ 'on ne sait pas s'il va venir!'
+%xxxx occasion d'éliciter diverses formes du verbe /ʝi˧/ 'venir' (ton Mc). /le˧-ʝi˩/: se conjugue comme /bi˧/.
 On se demandait: "Est-ce qu'il va venir aujourd'hui? est-ce qu'il va venir demain?", et il ne revenait pas.
 
 tʰi˩˥, | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩ ɳɯ˩ | ʂe˧ tsʰɯ˩ -tsɯ˩ ◊ -mv̩˩! |
@@ -51,7 +53,7 @@ Alors, quand ils sont venus la chercher, comme elle se donnait à cette maisonn�
 
 ʁwɤ˧qo˧ hĩ˧ qʰo˧˥ ◊ -dʑo˩ | tʰi˩˥, | əəə… hĩ˧ qʰo˧˥ ◊ -dʑo˩ | <dʑɤ˩˥… | go˧mi˧-ɳɯ˧ … |> go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: "njɤ˧ ə˧mv̩˩ | dʑɤ˩˥ | mɤ˧-do˩, | tsɤ˧ ə˧-ʝi˥?" | pi˧, | tʰi˩˥, |
 81.09 91.12
-% xxxx vérifier à nouveau les tons : /tsɤ˧ ə˧-ʝi˧?/ ou /tsɤ˧ ə˧-ʝi˥?/ (ou encore: /tsɤ˧ ə˩-ʝi˥?/) pour: 能行吗？ Réponse: /tsɤ˧-ʝi˧!/ (=行, c'est bon), ou /mɤ˧-tsɤ˧!/ (=不行, ça ne va pas)
+% vérifié les tons : est /tsɤ˧ ə˧-ʝi˥?/ et non /tsɤ˧ ə˧-ʝi˧?/ (ni non plus: /tsɤ˧ ə˩-ʝi˥?/) pour: 能行吗？ Réponse: /tsɤ˧-ʝi˧!/ (=行, c'est bon), ou /mɤ˧-tsɤ˧!/ (=不行, ça ne va pas)
 Comme on invitait les gens du village, la petite sœur a demandé: "Je ne vois pas mon frère (parmi les gens qu'on invite), est-ce que c'est bien convenable / est-ce bien possible de procéder ainsi?"
 
 ə˧mi˧-ɳɯ˧ : “tsɤ˧-ʝi˧, | tsɤ˧-ʝi˧! | tʰi˧-kwɤ˩-kʰɯ˩-tsæ˩-ɲi˩-ze˩ mæ˩! | <ə˧mi˧,> ə˧mv̩˩ | le˧-ʂɯ˧, | mɤ˧-do˩!" | pi˧-dʑo˩, | tʰi˩˥, |
@@ -71,18 +73,19 @@ go˧mi˧ hĩ˧-ki˧ ki˩ ho˩-hĩ˩ ɳv̩˩ F di˩-zo˩! |
 % /ɳv̩˩ F di˩-zo˩/: réalisé avec 'resumptive schwa' après /ɳv̩˩/, interprété comme faisant partie de la réalisation de la focalisation (notée F).
 C'est comme s'il avait senti que la petite sœur allait se marier!
 
-le˧-bæ˧-zo˥ | le˧-hɯ˩-zo˩, | ʈʂʰɯ˧-ʑi˧˥ <ɑ˩ʁo˧ tv> … ʁwɤ˧-qo˧ tʰv̩˧-ʑi˥ | ɑ˩ʁo˧ tʰv̩˧-hɯ˧ -tsɯ˩ ◊ -mv˩! |
+le˧-bæ˧-zo˥ | le˧-hɯ˩-zo˩, | ʈʂʰɯ˧-ʑi˧˥ | <ɑ˩ʁo˧ tv…> ʁwɤ˧-qo˧ tʰv̩˧-ʑi˥ | ɑ˩ʁo˧ tʰv̩˧-hɯ˧ -tsɯ˩ ◊ -mv˩! |
 111.66 116.37
+En courant, en filant [ainsi], il est parvenu à cette famille, à cette famille du village, à ce qu'on raconte!
 
-tʰi˩˥, | ə˧mv̩˧ ʈʂʰɯ˧-v̩˥-dʑo˩, | kʰv̩˩mi˩˥ | le˧-qʰo˩, | le˧-qʰo˩, | kʰv˩mi˩˥ | mɤ˧-ɖɯ˧! | pi˧-tsɯ˩ ◊ -mv̩˩. |
+tʰi˩˥, | ə˧mv̩˧ ʈʂʰɯ˧-v̩˥-dʑo˩, | kʰv̩˩mi˩˥ | le˧-qʰo˩, | le˧-qʰo˩, | kʰv˩mi˩˥ | mɤ˧-ɖɯ˧ pi˧-tsɯ˩ ◊ -mv̩˩. |
 116.37 121.66
 Alors, le grand frère, il a suivi le chien, mais il ne l'a pas retrouvé!
 
-tʰi˩˥, | mɤ˧-ɖɯ˧-dʑo˧, | gi˩˥ | le˧-se˥, | le˧-se˥-hɯ˩-dʑo˩, | tɕʰɤ˧tɕʰɤ˧, | ə˧mv̩˩ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ | kʰi˧-qʰv˧ tʰv̩˧-tsɯ˩ ◊ -mv˩! |
-% tɕʰɤ˧tɕʰɤ˧: 刚好　(ne serait pas un emprunt chinois de 悄悄 ou autre) xxxx noté dans le dictionnaire: /tɕʰɤ˧tɕʰɤ˧˥/ 'complètement, intégralement'
-% vérifier: ne serait-ce pas xxxx kʰi˧-qʰv˧ tʰv̩˧-tsɯ˥? On a en effet /kʰi˧-qʰv˧ tʰv̩˧-ɲi˥/.
+tʰi˩˥, | mɤ˧-ɖɯ˧-dʑo˧, | gi˩˥ | le˧-se˥, | le˧-se˥-hɯ˩-dʑo˩, | tɕʰɤ˧tɕʰɤ˧˥, | ə˧mv̩˩ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ | kʰi˧-qʰv˧ tʰv̩˧-tsɯ˩ ◊ -mv˩! |
 121.66 127.80
-Alors, comme il ne le trouvait pas, vrai de vrai, il l'a pisté, et à force de le pister, le grand frère, il est arrivé à la porte (de la maison où on faisait la fête)!
+% tɕʰɤ˧tɕʰɤ˧˥: 一直到 (ne serait pas un emprunt chinois de 悄悄 ou autre); est bien le mot noté dans le dictionnaire: /tɕʰɤ˧tɕʰɤ˧˥/ 'complètement, intégralement'
+% vérifier: ne serait-ce pas /kʰi˧-qʰv˧ tʰv̩˧-tsɯ˥/? On a en effet /kʰi˧-qʰv˧ tʰv̩˧-ɲi˥/. Réponse: non, c'est bien /kʰi˧-qʰv˧ tʰv̩˧-tsɯ˩/. Également élicités: /kʰi˧-qʰv˧ tʰv̩˧-ze˩/, /kʰi˧-qʰv˧ tʰv̩˧-ze˩-tsɯ˩/.
+Alors, comme il ne le trouvait pas, vrai de vrai, il l'a pisté, et à force de le pister, le grand frère, il est arrivé jusqu'à la porte (de la maison où on faisait la fête)!
 
 kʰv̩˩mi˩˥ | -dʑo˩, | ʈʂʰɯ˧ | ɑ˩ʁo˧ dzi˩ dʑo˩ -tsɯ˩ ◊ -mv̩˩! |
 127.80 130.95
@@ -90,22 +93,138 @@ Le chien, il était allé s'asseoir dans la pièce principale, à ce que dit l'h
 
 tʰi˩˥, | le˧-se˥-hɯ˩, | ʈʂʰɯ˧ kʰi˧-qo˧ tʰi˧-tʰv̩˧-dʑo˧, | tʰi˩˥, | ɑ˩pʰo˩˥ | tʰi˧-hĩ˧-ze˥! | pi˧-tsɯ˩ ◊ -mv̩˩, | ə˧mv̩˧˥ | dʑo˩, ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧! |
 130.95 138.37
-% /tʰi˧-tʰv̩˧-dʑo˧/: xxxx à vérifier: Housebuilding.74: /tʰi˧-tʰv̩˧-dʑo˥/; Tiger2.119: /ɑ˩ʁo˧ tʰi˧-tʰv̩˧-dʑo˧/
+% /tʰi˧-tʰv̩˧-dʑo˧/: à vérifier: dans Housebuilding.74, avais noté /tʰi˧-tʰv̩˧-dʑo˥/; dans Tiger2.119: /ɑ˩ʁo˧ tʰi˧-tʰv̩˧-dʑo˧/. Réponse: c'est bien /tʰi˧-tʰv̩˧-dʑo˧/. Le passage correspondant dans Housebuilding.74 a été corrigé, après réécoute avec F4.
 % Le passage /ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧/ donne l'impression d'une syllabe présente après le duratif: quelque chose comme /tʰi˧-hĩ˧-mv̩˧/ ou /tʰi˧-ɲi˧-mv̩˧/. Vérification faite, il n'y a pas de troisième syllabe présente. Il s'agit simplement d'un allongement de la syllabe /tʰi˧-/.
 Alors, comme il était parti sur la piste (de son chien), et qu'il était parvenu à la porte, alors, il s'est tenu debout à l'extérieur, à ce que dit l'histoire, le grand frère, drapé dans sa cape de feutre!
 
-ɑ˩pʰo˩˥ | tʰi˧-hĩ˧˥ ◊ -dʑo˩, | tʰi˩˥, | kʰv̩˩mi˩ tʰv˩-ʲɤ˥-dʑo˩, | ʈʂʰɯ˧ | ɬi˩ʈɯ˩ mæ˥ dzi˩-dʑo˩ -tsɯ˩ ◊ -mv̩˩, | pi˧-tsɯ˩ ◊ -mv˩. |
-138.37
-tʰi˩˥, | ə˧mv̩˧-ɳɯ˥ -dʑo˩ | tʰi˩˥, | ɑ˩pʰo˩˥ | tʰi˧-hĩ˧-hĩ˥-qo˩ | tʰi˩˥, | "õ˧ go˧mi˥-ɳɯ˩ | tsʰi˧ɲi˧ | ɲi˩˥! | li˧-ɳɯ˧, | õ˧ go˧mi˥ pʰæ˩di˩"! |
+ɑ˩pʰo˩˥ | tʰi˧-hĩ˧˥ ◊ -dʑo˩, | tʰi˩˥, | kʰv̩˩mi˩ tʰv˩-ʲɤ˥-dʑo˩, | ʈʂʰɯ˧ | ɬi˩ʈɯ˩mæ˥ dzi˩ dʑo˩ -tsɯ˩ ◊ -mv̩˩, | pi˧-tsɯ˩ ◊ -mv˩. |
+138.37 144.82
+Tandis qu'il se tenait debout dehors, eh bien, le chien se tenait assis en contrebas du foyer, à ce que dit l'histoire.
 
-tsʰo˧-zo˩ | le˧-hɯ˩-zo˩! | ʈʂʰɯ˧ | ɬi˩ʈɯ˩mæ˥! | kʰv̩˩mi˩ lɑ˥ | kɤ˧kɤ˩ | tʰi˧-dzi˩! | pi˧-tsɯ˩ ◊ -mv̩˩. <pi˧-tsɯ˩> tʰi˩˥, | "tse˩ʈʂʰɯ˩-kʰv̩˥, | no˧ | mv̩˩tɕo˧ se˧! | ə˧tso˧ hĩ˧ ɲi˥, | mɤ˧-do˩! | ɖɯ˧-v̩˧ ʂv̩˧ le˧-po˧-tsʰɯ˧˥! | hɑ˧mi˥-hĩ˩ | ɖɯ˧-v̩˧ ʑi˩-zo˩, | ʁɑ˩mi˧! | mæ˧qo˩ dzi˩-tsʰɯ˩!" |
+tʰi˩˥, | ə˧mv̩˧-ɳɯ˥ -dʑo˩ | tʰi˩˥, | <ɬ...> ɑ˩pʰo˩˥ | tʰi˧-hĩ˧-hĩ˥-qo˩ | tʰi˩˥, | "õ˧ go˧mi˥-ɳɯ˩ | tsʰi˧ɲi˧ | ɲi˩˥! | li˧-ɳɯ˧, | õ˧ go˧mi˥ pʰæ˩di˩"! | pi˧-zo˩, |
+144.82 151.21
+Alors, le grand frère, de l'endroit où il se tenait debout, au-dehors, se disant: "Ma propre petite sœur, aujourd'hui... c'est bien elle! À la voir, elle ressemble bien à ma petite sœur!",
 
-"tsʰi˧ɲi˧, | mv̩˩tɕo˧ se˧!" | pi˧-dʑo˩, | <ɡ...> ə˧mv˧ tʰv̩˧-v̩˧-ɳɯ˥ … | mɤ˧-lv̩˩~lv̩˩! | tʰi˧-dzi˧! | pi˧-tsɯ˩-mv̩˩. |
+tsʰo˧-zo˩ | le˧-hɯ˩-zo˩, | ʈʂʰɯ˧ | ɬi˩ʈɯ˩mæ˥ | kʰv̩˩mi˩ lɑ˥ | kɤ˧kɤ˩ | tʰi˧-dzi˩! | pi˧-tsɯ˩ ◊ -mv̩˩, | pi˧-tsɯ˩ ◊ -mv̩˩. |
+151.21 156.46
+D'un bond, il est allé, lui, en contrebas du foyer! Il s'est assis à côté de son chien, à ce qu'on dit, à ce qu'on raconte.
 
-tʰi˧-dzi˩-dʑo˩, | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩˥ | tʰi˧-dzi˩! ə˧mv̩˧˥ | tʰi˧-dzi˩! | zo˩no˥! | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | "ɑ˩pʰo˩ se˩" pi˧ F | mɤ˧-hɯ˧!
+tʰi˩˥, | "tse˩ʈʂʰv̩˩-kʰv̩˥, | no˧ | mv̩˩tɕo˧ se˧! | ə˧tso˧ hĩ˧ ɲi˥, | mɤ˧-do˩! | ɖɯ˧-v̩˧ ʂv̩˧ le˧-po˧-tsʰɯ˧˥! | hɑ˧mi˥-hĩ˩ | ɖɯ˧-v̩˧ ʑi˩-zo˩, | ʁɑ˩mi˧! | mæ˧qo˩ dzi˩-tsʰɯ˩!" |
+156.46 162.45
+[Les gens ont dit:] "Sac à puces, descends de là! Mais qui ça peut bien être, ce bonhomme? [Le clébard] nous ramène quelqu'un! Il nous a attrapé un mendiant, aïe aïe aïe! Qu'il aille s'asseoir au fond [de la salle]!
 
-ɖɯ˧-v̩˧ le˧-tsʰɯ˩! | "ə˩mi! | ʈʂʰɯ˧-v̩˧-se˥, | hɑ˩mi˥-hĩ˩ v̩˩ ɲi˩,
-fin transcription 21 mai 2024
-2 mn 58
-% xxxx ʈʂʰɯ˧-v˧ -dʑo˩, ʈʂʰɯ˧-v˧ se˥: aurait un fonctionnement très proche: topicalisation.
-ɑ˩pʰo˩ pv̩˥kʰɯ˩ɻ̍˩ tsɯ˩ɻmv̩˩? | pi˧dʑo˩, tʰi˩˥, | mɤ˧hɯ˧! | pi˧tsɯ˩ ◊ -mv̩˩. | mɤ˧hɯ˧ | tʰi˩˥ | ə˧sɯ˩kv̩˩, | kɤ˧dzi˧ bi˧ze˩! hɑ˧mi˥kɤ˩ | hɑ˧ ki˩kv̩˩. | tʰi˩˥, | tʰi˧kwɤ˩kʰɯ˩, | ʈʂʰɯ˧ | tʰi˧dzi˩kʰɯ˩! hɑ˧ ki˩bi˩ze˩! zo˩no˥, | ə˧sɯ˩kv̩˩, | hɑ˧ dzɯ˧bi˧dze˩? | pi˧zo˩ | tʰi˩˥, əəə… kɤ˧dzi˧, | ʐɯ˧ pʰv̩˧˥! ʐɯ˧ | ɖɯ˧pʰv̩˧˥ | ɖɯ˧pʰv̩˧˥ | ɖɯ˧pʰv̩˧ɳɯ˧, | mæ˧qo˩ tʰv̩˩! | ə˧mv̩˧ | tʰv̩˧v̩ ki˩ ɤ˩ | ɖɯ˧qʰwɤ˧ tʰi˥p˩! le˧wo˥h! tʰi˩˥, | le˧wo˧hɯ˧dʑo˩ | tʰi˩˥, | wɤ˩˥, | hɑ˧ dzɯ˧dʑo˩, | hɑ˧ | ɖɯ˧v̩˧ | ɖɯ˧qʰwɤ˧˥! ʂe˧ʈʂʰɯ˧dʑo˩, | ə˧ʝi˧ʂɯ˥ʝi˩! | ʂe˧ … ɕi˧ɕi˩lo˩ | pi˧zo˩, | ə˩sɯ˧kv̩˥, | ə˩gi˩! | bo˩ɬo˥ʈʂʰɯ˩! ɖɯ˧v̩˧ | ɖɯ˧v̩˧ ɖɯ˧lo˩ɖɯ˩! | ɖɯ˧v̩˧ | ɖɯ˧kɤ˧, | ɖɯ˧v̩˧ | ɖɯ˧kɤ˧ | ɖɯ˧gv̩˧, | mæ˧qo˩ʈʂʰɯ˩kʰwɤ˩dʑo˩ | tʰi˩˥, | tɕi˧kv̩˧˥ | mæ˩! tʰi˩˥, | ə˧mv̩˧ tʰv̩˧v̩˧ki˧ki˩ | pi˩tsɯ˩  -mv̩˩. |  tʰi˩˥ | ʁɑ˩mi˥h̩˩ | tʰv̩˧v̩˧, | gi˧kʰi˥! | pi˧zo˩. | le˧qæ˧˥ | le˧po˧tsʰɯ˧˥, dʑo˩ | tʰ̩˧, | wɤ˩˥ | ʂʰv˧v̩˧ki˧dʑo, | tɕi˩kʰwɤ˩ dʰi˩tʰv̩˧ ʝi˥ho˩ze˩ wɤ˩, | əgi˩! kʰwɤ˧  tʰi˧ki˩ dʑo˩ | tʰi˩˥, hɑ˧  dzɯ˧hĩ˧, | ʐɯ˧ ʐwɤ˩! | ʐv̩˧hĩ˧ ʐwɤ˩dʑo˩! tʰi˧dzɯ˧ɻ̍˧ze˥tsɯ˩ | mv̩˩! dzɯ˥dʑo˩ | tʰi˩˥, | ə˧mv̩˧  tʰv̩˧v̩˧ɳɯ˥ | mɤ˧dzɯ˥, | tʰi˧dzi˩!pi˩tsɯ˩m̩˩. tʰv̩˧v̩˧ | ə˧tse˧ ʝi˧ɲi˥, | ʁɑ˩mi˧o! | le˧li˥, | hɑ˧mi˥ ĩ pʰæ˩di˩ | hɑ˥, | mɤ˧dzɯ˥! ʂe˧ | mɤ˧dzɯ˥! | ʐɯ˧ | mɤ˧ʈʰɯ˩! | pi˧dʑo˩, tʰi˩˥, | ʈʂʰɯ˧tɕi˧ɳɯ˩! ʈʂʰɯ˧ʁo˧dɑ˧ tʰi˧tɕɯ˥, | tʰi˩˥, | mɤ˧dzɯ˥ | tʰi˧kwɤ˩kʰɯ˩!  ʈʂʰɯ˧ | hɑ˧mi˥ ɲi˩ze˩! hɑ˧mɑ˧ | mɤ˧ʐwɤ˧hɯ˥mæ˩, | pi˧dʑo˩ | tʰi˩˥, ə˧mv̩˧  ʈʂʰɯ˧v̩˧ɳɯ˧ | gɤ˩ʈi˥ tɕɯ˩z! dzɯ˧gɤ˥ | dzɯ˧mɤ˩ɻ˩ʈ … gɤ˩ dʑo˩! ʈʰɯ˩gɤ˩ ʈʰɯ˩mɤ˩lv̩˥dʑo˩, | ! | ʈʰɯ˩gɤ˧ ʈʰɯ˩mɤ˩lv̩˧dʑo˩, | ʈʂe˧nɑ˥ | no˧ ʈʰɯ˩hõ̃˩˥! dzɯ˧gɤ˥ dzɯ˩mɤ˩lv̩˩dʑo˩, | kʰv̩˩mi˩˥ | no˧dzɯ˧mo˧pi˥zo˩, | kʰv̩˩mi˩ki˥ ki˩gi˩kv̩˩tsɯ˩ | mv̩˩! | ə˧ʝi˧ʂɯ˥ʝi˩! ŋjɤ˧ɕi˥ ɕi˩lo˧ ʈʰɯ˧! tʰi˩˥, | ə˧mv̩˧ tʰv̩˧v̩˧ɳɯ˩ | ʐæ˩sɯ˩˥, | tʰv̩˧m̩˧ qʰwæ˧ hwæ˩tsɯ˩zi˩, | zo˩no˥, le˧fɯ˧ɲi˩ tsɯ˩ɲi˩! tʰi˩˥, | go˧mi˧ tʰv̩˧v̩˧ɳɯ˩ : | mɤ˧ɲi˩ze˩! | mɤ˧ɲi˩ze˩! | ə˧mv̩˩ ɲi˩ɳɯ˩, | ə˧mv̩˩ ɲi˩ | pi˧zo˩, | gi˩˥ | tʰi˧ʈʂʰɻ̍˧hɯ˧˥, ə˧mv̩˩ɳɯ˩ | si˧tʰi˧ | ɖɯ˧nɑ˧ tʰi˧po˧˥, | ʐæ˩sɯ˥, | ʈʂʰɯ˧qo˧ ʈʂwæ˧  hæ̃˧˥, tʰi˧kwɤ˩ | tʰi˧ɖʐwæ˧˥! ho˧ tʰv̩˧ | hæ̃˧˥, | tʰi˧kwɤ˩ | tʰi˧ɖʐwæ˧zo˥! tʰi˩˥ … go˧mi˧ | tʰv̩˧v̩˧dʑo˩ | tʰi˩˥, | ə˧mi˧! | õ˧ə˧mv̩˧˥ | ɲi˩dʑo˩, | ə˧tse˧˥ | ʈʂʰɯ˧ɲi˧dʑo˩, | hɑ˧mi˧ɲi˩ pi˩ɲi˩! ə˧tse˥ | ʈʂʰɯ˧ne˧ ʝi˥ɲi˩? | pi˧zo˩, | le˧ŋv̩˩, | le˧ŋv̩˩, | le˧ŋv̩˩, | le˧ŋv̩˩zo˩, | tʰi˩˥, | tʰv̩˧ɻ̍˩dʑo˩, | tsʰi˧sɯ˥ | le˧ʂɯ˧ɲi˥kv̩˩tsɯ˩ | mv̩˩! le˧ʂɯ˧dʑo˧ | tʰi˩˥, | tʰv̩˧ɲi˧ … |  tʰv̩˧so˩dʑo˩, | le˧qæ˧hɯ˥! le˧ʂɯ˧ | le˧qæ˧˥ | dʑo˩, | ʈʰææ̃˧ |  nle˧qæ˧˥, | mv̩˩mɤ˩tʰɑ˥zo˩! mv̩˩mɤ˩tʰɑ˥,  mɑ˩tʰɑ˧  dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩ki˩, | ʁɑ˩mi˧bi˧hɯ˧ɲi˥tsɯ˩ | mv̩˩, | tʰɯ˧ʑi˧ɻ̍˧ɳɯ˥! ʁɑ˩mi˧! | njæ˧sɯ˩kv̩˩  …  … le˧ õ …  mɤ˧sɯ˥ze˩! | no˧ | ʈʂʰɯ˧ne˧ʝi˧  tʰɑ˩ʝi˧ɻɳɯ˥, | ʁɑ˩mi˧! | pi˧zo˥! tʰi˩˥, | ə˧mv̩˧ki˧, | ʁɑ˩mi˧ | pi˧dʑo˩ | tʰi˩˥, | ə˧mv̩˧ɳɯ˥ | ʐæ˩sɯ˩˥ | ɖɯ˧pʰæ˧ hæ̃˥zo˩ | tʰi˧qæ˧˥ | tɯ˩dʑo˩, | go˧mi˧ | le˧ʂɯ˧! əəə… le˧qæ˧˥ | le˧se˩ɲi˩! | pi˧tsɯ˩̩. æ˧ʂæ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥! m! sɯ˧kʰɯ˩, |  ɲi˩mæ˩! | tʰi˩˥, | sɯ˧kʰɯ˩ ʈʂʰɯ˩dʑo˩, | ə˧ʝi˧ʂɯ˥ʝi˩ … zo˩no˥, | tɑ˩mv̩˩ʈʂʰɯ˥dʑo˩! ə … … ni˧ … mv̩˩zɯ˩ʝi˥hĩ˩, | ni˧mi˧ ʝi˧ki˧ki˩, | pi˧, | mv̩˩zɯ˩ʝi˥hĩ˩ ɳɯ˩, | æ˧hi˩hi˩ | le˧kʰɯ˧˥! zo˩no˥, | sɯ˧kʰɯ˩hĩ˩ | ʈʂʰɯ˧ʑi˥ki˧! sɯ˧kʰɯ˩ bi˩zo˩kv̩˩tsɯ˩ | mv̩˩! | mwɤ˧qo˧! ɯ˧tɑ˧ɑ˧ | le˧ʂv̩˧le˧po˧bi˥! | hĩ˧ʈɕʰɯ˧hĩ˧ʈʂɯ˧, | ə˩gi˩! | ʁɤ˧ | ɖɯ˧ʁo˧ | le˧ʂv̩˧! ɖɯ˧pi˧ tʰi˥pɤ˩! tʰi˩˥, | ʁ … ʈʂʰɯ˧ʑi˧ɻ̍˥dʑo˩, | ni˧ … ni˧mi˧ tʰi˧ki˩hĩ˧ | ʈʂʰɯ˧ʑi˧ɻ̍˥dʑo˩, | ɖwæ˩kv̩˧tsɯ˩ | mv̩˩! ə˧mi˧! | sɯ˧kʰɯ˩ ə˧v̩˧˥ | le˧ʝi˩ze˩, | ʈʂʰɯ˧ɲi˧dʑo˩, | ɖwæ˩ | pi˧zo˥! hõ˧pv̩˥ ti˩kv̩˩tsɯ˩ | mv̩˩! ɖɯ˧tɑ˧ | ʈʂʰɯ˧di˧˥ | tʰv̩˧qo˧ | le˧jo˩, | ʁɑ˩mi˧ pi˧, | ɬo˧pv̩˥ ti˩dʑo˩, | tʰv̩˧ɳɯ˧, | ə˧v̩˧˥ … | sɯ˧kʰɯ˩ | ə˧v̩˧˥, | ni˧m … mv̩˩zɯ˩ʝi˥ | tʰv̩˧v̩˧ɳɯ˩! ʈʂʰɯ˧vɤ˧  pʰæ˩ tʰi˩kwɤ˩! | ʈʂʰɯ˧vɤ˧  pʰæ˩ tʰi˧kwɤ˥! bi˩mi˩˥ | di˩nɑ˧ tʰi˧po˧˥! ʈʰi˧bɤ˧ tso˩pi˩ze˩! do˩mi˩tso˧bi˩ze˩! pi˩, | ə˩gi˩! | æ˧hi˩hi˩kʰɯ˩hĩ˩tsʰɯ˩dʑo˩, | æ˧ʂæ˧tɑ˩mv̩˩! ʈʂʰɯ˧qo˧ le˧kʰɯ˩tsɯ˩ ◊ -mv̩˩. |  | ʐæ˩sɯ˩hæ̃˥hĩ˩ʈʂʰɯ˩  ˧qɑ˧ | tʰi˩˥, ni˧mi˧ ʈʂʰɯ˧v̩˧bv̩˧! …  ʝi˧ sɯ˥ʝi˧zo˩ | tʰi˩˥ … ɖɯ˩lo˧ ɲi˥ze˩mæ˩! | ɖɯ˩lo˧ zo˩ | ʐæ˩sɯ˩ʈʂʰɯ˥! mv̩˧mɤ˧kv̩˥  mæ˩! | le˧bi˩dʑo˩, | ə˩gi˩! | le˧wo˧tʰo˧tɕo˥, | qʰwæ˧hʰwæ˧kv̩˩mæ˩! tʰi˩˥ … sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧tsʰɯ˩dʑo˩, | zo˩no˥, | kʰv̩˧ɻæ˧ʈʂʰɯ˧ | wɤ˩˥ | qʰɑ˩ne˩˥ | kʰɯ˩zo˩ɻ̍˩ dʑo˩kv̩˩mæ˩, | ə˩gi˩! kʰwæ˧ɻæ˧ʈʂʰɯ˧ | le˧qʰv̩˩qʰwɤ˩ | dʑo˩, ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧kʰo˧hĩ˧ dʑo˧kv̩˥! tʰv̩˧ne˧ʝi˥ | tʰi˧kʰo˧ĩ˧  dʑo˧kv̩˥  mæ˩! ə˧mi˧! | sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧i˩i˩! | kʰwæ˧ɻæ˧kʰo˧ | mɤ˧dʑɤ˥ pɤ˩tso˩, | ɕjɤ˩tʰv̩˧ kv̩˥ pi˩zo˩, | ə˩gi˩! tʰi˩˥, | æ˧ʂæ˧dʑo˩, | õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩! zo˩no˥! … ɖɯ˩lo˧ʈʂʰɯ˧dʑo˩, | zo˩no˥, | hĩ˧ ʂɯ˧! tɕʰi˩ tʰv̩˩˥! ə! go˧mi˧ hĩ˧ki˧, | mv̩˩zɯ˩ʝi˥hĩ˩ki˩ki˩ dʑo˩ | tʰi˩˥, ʈʂʰɯ˧ʑi˧ɻ̍˧ɳɯ˥, | ɬi˩ʁɑ˩ ʝi˥zo˩hĩ˩bv̩˩ | ɖɯ˩lo˧˥! əəə… õ˧ʈʂʰɯ˧ne˧ ʝi˥  ʈʂʰɯ˩dʑo˩, | zo˩no˥, | ə˧ʝi˧ʂɯ˥ʝi˩, | kʰv̩˧ʂæ˧hĩ˥ | ʈʂʰɯ˧qo˧ | le˧tsʰɯ˩ɲi˩tsɯ˩! qwæ˧  ʈʂʰɯ˧ne˩ ʝi˥!
+"tsʰi˧ɲi˧, | mv̩˩tɕo˧ se˧!" | pi˧-dʑo˩, | <ɡ... ə...> ə˧mv˧ tʰv̩˧-v̩˧-ɳɯ˥ … | mɤ˧-lv̩˩~lv̩˩! | tʰi˧-dzi˩ pi˩ -tsɯ˩ ◊ -mv̩˩. |
+162.45 167.32
+% On pourrait également dire: /tʰi˧-dzi˩ | pi˧-tsɯ˩-mv̩˩/.
+"Bon, aujourd'hui, tu descends!" Mais le grand frère ne bougeait pas! Il se tenait assis [là], à ce que dit l'histoire.
+
+tʰi˧-dzi˩-dʑo˩, | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩˥ F | tʰi˧-dzi˩! | ə˧mv̩˧˥ F | tʰi˧-dzi˩! | zo˩no˥! | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | "ɑ˩pʰo˩ se˩" pi˧ F | mɤ˧-hɯ˧! |
+167.32 176.61
+Comme il se tenait assis, eh bien... le chien se tenait assis! Le grand frère se tenait assis! Et on avait beau [leur] dire "Dégage!", ils ne partaient pas!
+
+ɖɯ˧-v̩˧ le˧-tsʰɯ˩: | "ə˧mi˧! | ʈʂʰɯ˧-v̩˧-se˥, | hɑ˩mi˥-hĩ˩ v̩˩ ɲi˩, | ɑ˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩!" | pi˧-dʑo˩, tʰi˩˥, | mɤ˧-hɯ˧! | pi˧-tsɯ˩ ◊ -mv̩˩. |
+176.61 182.68
+% /ʈʂʰɯ˧-v˧ -dʑo˩/, /ʈʂʰɯ˧-v˧ -se˥/: aurait un fonctionnement très proche: topicalisation. (de: ) Exemples: /no˧-se˥, | ɬi˧di˩ fv˩! | njɤ˧-se˥, jo˧ɡv˧ fv˧!/ 'Toi, tu aimes Yongning; moi, j'aime Lijiang!' (reporté dans le dictionnaire)
+% xxxx explorer la combinatoire: /ʈʂʰɯ˧-kʰwɤ˥$/ + /-se˥/, /tʰv̩˧-ɲi#˥/ + /-se˥/ (attention: variation libre #H/H$ pour ces formes), tʰv̩˧-ɭɯ#˥, /tʰv̩˧-nɑ˩/; et avec des noms: /tsʰo˧qʰwɤ˩-se˩, | lɑ˧-ɳɯ˧ dzɯ˧-ho˥ F -di˩-mæ˩!/ (Tiger2.61)
+% /ɑ˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩/: le verbe /pv̩˥/ n'est pas le verbe pour "accompagner", 送客, mais un verbe qui veut dire simplement "sortir". Le sens n'est pas "raccompagnons-le, menons-le dehors" (comme dans /hĩ˧bæ˧ pv˥/ 'raccompagner un hôte'), mais "faisons-le sortir": causatif d'un verbe 'sortir'. Un exemple simple de ce verbe (reporté dans le dictionnaire): /ɑ˩pʰo˩ pv̩˥/: /njɤ˧ | ɑ˩pʰo˩ pv̩˥/ 'je sors, je pars' (personne n'accompagne).
+% Fin transcription 21 mai 2024 (premier jour de transcription de ce texte)
+Quelqu'un s'en est venu, et a dit: "Houlà! Celui-là, c'est un mendiant, il faut le faire sortir dehors!" Mais [le grand frère] n'est pas parti, à ce qu'on dit.
+
+mɤ˧-hɯ˧ | tʰi˩˥, | "ə˧-sɯ˩kv̩˩, | kɤ˧dzi˧ bi˧-ze˩! | hɑ˧mi˥-hĩ˩ -ki˩ | hɑ˧ ki˩-kv̩˩, | tʰi˩˥, | tʰi˧-kwɤ˩-kʰɯ˩, | ʈʂʰɯ˧ | tʰi˧-dzi˩-kʰɯ˩!" |
+182.68 187.80
+Comme il ne partait pas, [les convives se sont dit:] "Nous autres, prenons place (pour le repas)! On peut bien donner à manger au mendiant, alors laissons tomber, qu'il reste là où il est!"
+
+"hɑ˧ ki˩-bi˩-ze˩! | <ʈʂʰ...> zo˩no˥, | ə˧-sɯ˩kv̩˩, | hɑ˧ dzɯ˧-bi˧-ze˩!" | pi˧-zo˩ | tʰi˩˥, | əəə… kɤ˧dzi˧, | ʐɯ˧ pʰv̩˧˥! |
+187.80 193.91
+"On va servir à manger! Maintenant, nous autres, on passe à table!" Ce que disant, euh... les invités ont pris place, et on a versé à boire!
+
+ʐɯ˧ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧-ɳɯ˥, | mæ˧qo˩ tʰv̩˩! | ə˧mv̩˧ tʰv̩˧-v̩˧ ki˥ | wɤ˩˥ | ɖɯ˧-qʰwɤ˧ tʰi˥-pʰv˩! | le˧-wo˧-hɯ˧! |
+193.91 199.45
+% tons vérifiés, n'est pas /le˧-wo˧-hɯ˥/.
+% vérifier à nouveau xxxx: /ə˧mv̩˧ tʰv̩˧-v̩˧ ki˥/? ou /ə˧mv̩˧ tʰv̩˧-v̩˧ ki˧/?
+En faisant la tournée, bol après bol après bol, on est arrivé au fond de la salle! Le grand frère, on lui a servi, à lui aussi, un bol (d'alcool)! et puis on est reparti (sans lui parler)!
+
+tʰi˩˥, | le˧-wo˧-hɯ˧-dʑo˩ | tʰi˩˥, | wɤ˩˥, | hɑ˧ dzɯ˧-dʑo˩, | hɑ˧ | ɖɯ˧-v̩˧ | ɖɯ˧-qʰwɤ˧˥! |
+199.45 203.38
+Alors, [la personne qui faisait le service] étant repartie, même chose pour la nourriture: un bol de nourriture pour chaque [convive]!
+
+ʂe˧-ʈʂʰɯ˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | ʂe˧ … | ɕi˧-ɕi˩lo˩ | pi˧-zo˩, | ə˩-sɯ˧kv̩˥, | ə˩-gi˩! | bo˩ɬo˥-ʈʂʰɯ˩! |
+203.38 208.10
+La nourriture, autrefois, la viande... on parlait des "plus petites côtes", nous autres, n'est-ce pas! [quand on découpait] les côtes de porc!
+
+<ɖɯ˧-v̩˧ | ɖɯ˧-v̩˧ ɖɯ˧-lo˩... ɖɯ˩...> | ɖɯ˧-v̩˧ | ɖɯ˧-kɤ˧˥, | ɖɯ˧-v̩˧ | ɖɯ˧-kɤ˧˥ | <ɖɯ˧-gv̩˧... | > mæ˧qo˩ ʈʂʰɯ˩-kʰwɤ˩-dʑo˩ | tʰi˩˥, | tɕi˩-hĩ˩ -kv̩˩˥ | ◊ -mæ˩! |
+208.10 213.01
+On donnait à chaque [convive] un morceau; le morceau (qui restait) à la fin, il était bien petit! (Il était formé des dernières petites côtes)
+
+tʰi˩˥, | ə˧mv̩˧ tʰv̩˧-v̩˧ -ki˥ ki˩ pi˩-tsɯ˩ ◊ -mv̩˩. |
+213.01 215.10
+%tons vérifiés
+
+"hɑ˩mi˥-hĩ˩ | tʰv̩˧-v̩˧ -ki˧ ki˩", | pi˧-zo˩. |
+215.10 216.98
+"On va donner ça au mendiant", qu'ils se disaient.
+
+le˧-qʰæ˧˥ | le˧-po˧-tsʰɯ˧˥, ◊ dʑo˩ | tʰi˩˥, | wɤ˩˥ | ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩, | tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩, | ə˩-gi˩! |
+216.98 221
+% /le˧-qʰæ˧˥/: partager, répartir
+% on peut dire: /ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩/ ou /ʈʂʰɯ˧-v̩˧-ki˧ F/ (avec ellipse de /-dʑo˩/).
+% /tɕi˩-kʰwɤ˩/: un petit morceau; /tɕi˩-kʰwɤ˩ tʰi˥-ki˩/: donner un petit morceau; /tɕi˩-kʰwɤ˩ tʰi˥-ki˩ ɲi˩-ho˩-ze˩/: on va donner un petit morceau
+% Le passage /tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩/ est difficile à reconnaître, il est dit très rapidement.
+Lors du partage, cette personne-là (=le grand frère), on s'est dit qu'on lui donnerait un petit morceau (=un morceau de rien du tout, un bas morceau), n'est-ce pas!
+
+tʰv̩˧-kʰwɤ˧  tʰi˧-ki˩ -dʑo˩ | tʰi˩˥, | hɑ˧ dzɯ˧, | ʐwɤ˧~ʐwɤ˩, | ʐwɤ˧~ʐwɤ˩-dʑo˩ | tʰi˩˥, | tʰi˧-dzɯ˧-ɻ̍˧-ze˥ -tsɯ˩ ◊ -mv̩˩! |
+221 226.12
+Quand on a eu servi ce morceau, eh bien, on mangeait, on bavardait (les conversations allaient bon train), on était en plein repas, à ce qu'on raconte!
+
+dzɯ˧-dʑo˩ | tʰi˩˥, | ə˧mv̩˧ tʰv̩˧-v̩˧ -ɳɯ˥ | mɤ˧-dzɯ˥, | tʰi˧-dzi˩ pi˩ -tsɯ˩ ◊ -mv˩. |
+226.12 229.51
+Pendant que (tout le monde) mangeait, le grand frère, lui, il ne mangeait pas, il restait assis, à ce que dit l'histoire.
+
+"tʰv̩˧-v̩˧ | ə˧tse˧ ʝi˧-ɲi˥, | ʁɑ˩mi˧ o! | le˧-li˧, | hɑ˧mi˥-hĩ˩ pʰæ˩di˩, | hɑ˧ F | mɤ˧-dzɯ˥! | ʂe˧ F | mɤ˧-dzɯ˥! | ʐɯ˧ F | mɤ˧-ʈʰɯ˩!" | pi˧-dʑo˩, |
+229.51 237.0
+% xxxx vérifier à nouveau: l'interjection /o/ dans /ʁɑ˩mi˧ o!/ serait-elle un /wɤ/ un peu modifié phonétiquement? ou une interjection (particule) à part?
+"Qu'est-ce que c'est que ce personnage, nom de nom! On dirait un mendiant, et pourtant il ne mange pas! Il ne mange pas sa viande! Il ne boit pas son vin!"
+
+tʰi˩˥, | ʈʂʰɯ˧-tɕi˧-ɳɯ˩: | "ʈʂʰɯ˧ ʁo˧dɑ˧ tʰi˧-tɕɯ˥, | tʰi˩˥, | mɤ˧-dzɯ˥ | tʰi˧-kwɤ˩-kʰɯ˩! | ʈʂʰɯ˧ | hɑ˧mi˥ ɲi˩-ze˩! | hɑ˧ <mɑ˧> | mɤ˧-ʐwɤ˧-hɯ˧-mæ˧", | pi˧-dʑo˩ | tʰi˩˥, | ə˧mv̩˧ ʈʂʰɯ˧-v̩˧-ɳɯ˥ | gɤ˩-ʈi˥ tɕɯ˩-zo˩! |
+237.0 245.78
+%séquence tonale de /mɤ˧-ʐwɤ˧-hɯ˧-mæ˧/ soigneusement vérifiée, paraît bien être tout au ton M. En effet, 'avoir faim' est au ton M.
+Alors, ces gens-là se sont dit: "Ce qu'on a placé devant lui, eh bien, s'il ne le mange pas, tant pis! C'est un mendiant! Sans doute qu'il n'a pas faim".
+
+"dzɯ˧ gɤ˥ dzɯ˩ mɤ˩- <ɖ…> gɤ˩-dʑo˩, | ʈʰɯ˩ gɤ˩ ʈʰɯ˩ mɤ˩-lv̩˥-dʑo˩, | õ! ʈʰɯ˩ gɤ˩ ʈʰɯ˩ mɤ˩-lv̩˥-dʑo˩, | ʈʂe˧nɑ˥ | no˩ ʈʰɯ˩ hõ˩˥!" |
+245.78 254.78
+«Quand il n’y a pas assez à manger, on n’a pas le cœur à manger! (/ quand y’a pas assez, à quoi bon se mettre à table!) Quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi [ce bol de vin]!»
+
+"dzɯ˧ gɤ˥ dzɯ˩ mɤ˩-lv̩˩-dʑo˩, | kʰv̩˩mi˩˥ | no˩ dzɯ˩ hõ˩" pi˥-zo˩, | kʰv̩˩mi˩ -ki˥ ki˩-ɲi˩ -kv̩˩ -tsɯ˩ ◊ -mv̩˩! | ə˧ʝi˧-ʂɯ˥ʝi˩! | zo˩no˥, | ɕi˧-ɕi˩lo˩ tʰv̩˩-ɭɯ˩! |
+% Tons de /ə˧mv̩˧ ʈʂʰɯ˧-v̩˧-ɳɯ˥/ vérifiés.
+254.78 260.88
+«Quand il n’y a pas assez à manger, on n’a pas le cœur à manger! Chien, mange donc! (=Allez le chien, c'est pour toi!)» Ce que disant, il a bel et bien donné sa nourriture au chien, autrefois! Les petites côtelettes!
+
+tʰi˩˥, | ə˧mv̩˧ tʰv̩˧-v̩˧-ɳɯ˥ | ʐæ˩sɯ˩˥, | tʰv̩˧ mv̩˧ kʰwæ˧hwæ˩ -tsɯ˩ -zo˩, | zo˩no˥, | le˧-hɯ˩-ɲi˩ -tsɯ˩ -mv̩˩! |
+259.55 264.92
+% /kʰwæ˧hwæ˩/: se draper de, endosser xxxx comment analyser ici /tʰv̩˧ mv̩˧/? démonstratif+classificateur?? ou directionnel /mv̩˧/ + V??
+Ensuite, les petites côtelettes, alors... le grand frère, se drapant dans sa cape de feutre, il est parti!
+
+tʰi˩˥, | go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: | "mɤ˧-ɲi˩-ze˩! | mɤ˧-ɲi˩-ze˩! | ə˧mv̩˩ ɲi˩, | njɤ˧ ə˧mv̩˩ ɲi˩!" | pi˧-zo˩, | gi˩˥ | tʰi˧-ʈʂʰɻ̍˧-hɯ˥, |
+264.92 270.22
+% /go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩/: tons vérifiés
+Alors, la petite sœur s'est dit: "Impossible, impossible! C'est mon frère, mon grand frère!" et elle s'est agrippée [à la cape de son frère].
+
+ə˧mv̩˩-ɳɯ˩ | sɯ˧tʰi˧˥ | ɖɯ˧-nɑ˧ tʰi˧-po˧˥, | ʐæ˩sɯ˩˥, | ʈʂʰɯ˧qo˧ tʰi˧-ʈʂʰɻ̍˧˥, | hæ̃˧˥, | tʰi˧-kwɤ˩ | tʰi˧-ɖʐwæ˧˥! | ʈʂʰɯ˧qo˧ tʰv̩˧, | hæ̃˧˥, | tʰi˧-kwɤ˩, | tʰi˧-ɖʐwæ˧-zo˥! |
+270.22 274.64
+Le grand frère a pris un couteau, et le feutre, là où [sa sœur] le tenait agrippé, il l'a coupé, et l'a jeté, et il est tombé à terre! Arrivé là (=progressant vers la sortie, sa sœur essayant encore de l'agripper par sa cape de feutre), il a (à nouveau) coupé (un morceau de sa cape), l'a jeté, et l'a laissé tomber à terre!
+
+tʰi˩˥, | go˧mi˧ | tʰv̩˧-v̩˧-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | õ˧-ə˧mv̩˥ ɲi˩-dʑo˩, | ə˧tse˧-ʲi˥ | tsʰi˧-ɲi˧-dʑo˩, | hɑ˧mi˥-hĩ˩ ɲi˩ pi˩-ɲi˩?" |
+274.64 283.19
+"ə˧tse˥ | ʈʂʰɯ˧ne˧ ʝi˥-ɲi˩?" | pi˧-zo˩, | le˧-ŋv̩˩, | le˧-ŋv̩˩, | le˧-ŋv̩˩, | le˧-ŋv̩˩-zo˩, | tʰi˩˥, |
+% yyyy vérifier systématiquement que 'aujourd'hui' a bien été noté dans les textes comme tsʰi˧-ɲi˧ et non ʈʂʰɯ˧-ɲi˧.
+
+
+tʰv̩˧-hɑ̃˩-dʑo˩, | tɕʰi˧sɯ˥ | le˧-ʂɯ˧-ɲi˥ -kv̩˩ -tsɯ˩ | -mv̩˩!
+% On pourrait également dire: /tɕʰi˧sɯ˥-zo˩ | le˧-ʂɯ˧-ɲi˥ -kv̩˩ -tsɯ˩ | -mv̩˩/.
+
+le˧-ʂɯ˧-dʑo˧ | tʰi˩˥, | tʰv̩˧-ɲi˧ … |  tʰv̩˧-so˩-dʑo˩, | le˧-qæ˧-hɯ˥! le˧-ʂɯ˧ | le˧-qæ˧˥ | dʑo˩, | ʈʰææ̃˧ |  le˧-qæ˧˥, | mv̩˩ mɤ˩-tʰɑ˥-zo˩! |
+
+mv̩˩-mɤ˩-tʰɑ˥, | mv̩˩-mɤ˩-tʰɑ˥ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩-ki˩, | ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ -tsɯ˩ | -mv̩˩, | tʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥! |
+% Prononciation: [bi˧] dans /ʁɑ˩mi˧ bi˧ hɯ˧-ɲi˥-tsɯ˩/. Mais la locutrice corrige en /pi/: /ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ -tsɯ˩/.
+
+"ʁɑ˩mi˧! | njæ˧-sɯ˩kv̩˩  … <le˧… əəə… le˧… õ …>  mɤ˧-sɯ˥-ze˩! | no˧ | ʈʂʰɯ˧ne˧ʝi˧  tʰɑ˩ʝi˧ɻ˥, | ʁɑ˩mi˧ pi˧-zo˥!" | tʰi˩˥, | ə˧mv̩˧ki˧, | ʁɑ˩mi˧ | pi˧dʑo˩ | tʰi˩˥, | ə˧mv̩˧ɳɯ˥ | ʐæ˩sɯ˩˥ | ɖɯ˧pʰæ˧ hæ̃˥zo˩ | tʰi˧qæ˧˥ | tɯ˩dʑo˩, | go˧mi˧ | le˧ʂɯ˧! əəə… le˧qæ˧˥ | le˧se˩ɲi˩! | pi˧tsɯ˩̩. æ˧ʂæ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩ɲi˥! m! sɯ˧kʰɯ˩, |  ɲi˩mæ˩! | tʰi˩˥, | sɯ˧kʰɯ˩ ʈʂʰɯ˩dʑo˩, | ə˧ʝi˧ʂɯ˥ʝi˩ … zo˩no˥, | tɑ˩mv̩˩ʈʂʰɯ˥dʑo˩! ə … … ni˧ … mv̩˩zɯ˩ʝi˥hĩ˩, | ni˧mi˧ ʝi˧ki˧ki˩, | pi˧, | mv̩˩zɯ˩ʝi˥hĩ˩ ɳɯ˩, | æ˧hi˩hi˩ | le˧kʰɯ˧˥! zo˩no˥, | sɯ˧kʰɯ˩hĩ˩ | ʈʂʰɯ˧ʑi˥ki˧! sɯ˧kʰɯ˩ bi˩zo˩kv̩˩tsɯ˩ | mv̩˩! | mwɤ˧qo˧! ɯ˧tɑ˧ɑ˧ | le˧ʂv̩˧le˧po˧bi˥! | hĩ˧ʈɕʰɯ˧hĩ˧ʈʂɯ˧, | ə˩gi˩! | ʁɤ˧ | ɖɯ˧ʁo˧ | le˧ʂv̩˧! ɖɯ˧pi˧ tʰi˥pɤ˩! tʰi˩˥, | ʁ … ʈʂʰɯ˧ʑi˧ɻ̍˥dʑo˩, | ni˧ … ni˧mi˧ tʰi˧ki˩hĩ˧ | ʈʂʰɯ˧ʑi˧ɻ̍˥dʑo˩, | ɖwæ˩kv̩˧tsɯ˩ | mv̩˩! ə˧mi˧! | sɯ˧kʰɯ˩ ə˧v̩˧˥ | le˧ʝi˩ze˩, | ʈʂʰɯ˧ɲi˧dʑo˩, | ɖwæ˩ | pi˧zo˥! hõ˧pv̩˥ ti˩kv̩˩tsɯ˩ | mv̩˩! ɖɯ˧tɑ˧ | ʈʂʰɯ˧di˧˥ | tʰv̩˧qo˧ | le˧jo˩, | ʁɑ˩mi˧ pi˧, | ɬo˧pv̩˥ ti˩dʑo˩, | tʰv̩˧ɳɯ˧, | ə˧v̩˧˥ … | sɯ˧kʰɯ˩ | ə˧v̩˧˥, | ni˧m … mv̩˩zɯ˩ʝi˥ | tʰv̩˧v̩˧ɳɯ˩! ʈʂʰɯ˧vɤ˧  pʰæ˩ tʰi˩kwɤ˩! | ʈʂʰɯ˧vɤ˧  pʰæ˩ tʰi˧kwɤ˥! bi˩mi˩˥ | di˩nɑ˧ tʰi˧po˧˥! ʈʰi˧bɤ˧ tso˩pi˩ze˩! do˩mi˩tso˧bi˩ze˩! pi˩, | ə˩gi˩! | æ˧hi˩hi˩kʰɯ˩hĩ˩tsʰɯ˩dʑo˩, | æ˧ʂæ˧tɑ˩mv̩˩! ʈʂʰɯ˧qo˧ le˧kʰɯ˩tsɯ˩ ◊ -mv̩˩. |  | ʐæ˩sɯ˩hæ̃˥hĩ˩ʈʂʰɯ˩  ˧qɑ˧ | tʰi˩˥, ni˧mi˧ ʈʂʰɯ˧v̩˧bv̩˧! …  ʝi˧ sɯ˥ʝi˧zo˩ | tʰi˩˥ … ɖɯ˩lo˧ ɲi˥ze˩mæ˩! | ɖɯ˩lo˧ zo˩ | ʐæ˩sɯ˩ʈʂʰɯ˥! mv̩˧mɤ˧kv̩˥  mæ˩! | le˧bi˩dʑo˩, | ə˩gi˩! | le˧wo˧tʰo˧tɕo˥, | qʰwæ˧hʰwæ˧kv̩˩mæ˩! tʰi˩˥ … sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧tsʰɯ˩dʑo˩, | zo˩no˥, | kʰv̩˧ɻæ˧ʈʂʰɯ˧ | wɤ˩˥ | qʰɑ˩ne˩˥ | kʰɯ˩zo˩ɻ̍˩ dʑo˩kv̩˩mæ˩, | ə˩gi˩! kʰwæ˧ɻæ˧ʈʂʰɯ˧ | le˧qʰv̩˩qʰwɤ˩ | dʑo˩, ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧kʰo˧hĩ˧ dʑo˧kv̩˥! tʰv̩˧ne˧ʝi˥ | tʰi˧kʰo˧ĩ˧  dʑo˧kv̩˥  mæ˩! ə˧mi˧! | sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧i˩i˩! | kʰwæ˧ɻæ˧kʰo˧ | mɤ˧dʑɤ˥ pɤ˩tso˩, | ɕjɤ˩tʰv̩˧ kv̩˥ pi˩zo˩, | ə˩gi˩! tʰi˩˥, | æ˧ʂæ˧dʑo˩, | õ˧ʈʂʰɯ˧ne˧ʝi˥ | zo˩! zo˩no˥! … ɖɯ˩lo˧ʈʂʰɯ˧dʑo˩, | zo˩no˥, | hĩ˧ ʂɯ˧! tɕʰi˩ tʰv̩˩˥! ə! go˧mi˧ hĩ˧ki˧, | mv̩˩zɯ˩ʝi˥hĩ˩ki˩ki˩ dʑo˩ | tʰi˩˥, ʈʂʰɯ˧ʑi˧ɻ̍˧ɳɯ˥, | ɬi˩ʁɑ˩ ʝi˥zo˩hĩ˩bv̩˩ | ɖɯ˩lo˧˥! əəə… õ˧ʈʂʰɯ˧ne˧ ʝi˥  ʈʂʰɯ˩dʑo˩, | zo˩no˥, | ə˧ʝi˧ʂɯ˥ʝi˩, | kʰv̩˧ʂæ˧hĩ˥ | ʈʂʰɯ˧qo˧ | le˧tsʰɯ˩ɲi˩tsɯ˩! qwæ˧  ʈʂʰɯ˧ne˩ ʝi˥!

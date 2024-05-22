@@ -337,8 +337,9 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \nt <type="hist" print="n"> Utilisé dans les textes de longue date. Ajouté au dictionnaire en 2024.
-\ton --
-\lc æ˧hi˩hi˩
+\ton 0
+\lc ɬɬɬ!
+\np <langue="fra"> Cette interjection est prononcée sur un flux d'air ingressif.
 \so <print="n"> F4
 \de Interjection expressing pleasurable titillation of appetite ('Yummy!'), or other strong impressions, including negative ones.
 \ge |fg{intj_strong_impression}
@@ -354,7 +355,7 @@
 \sd <langue="eng"> interjection
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014. Réflexion de Roselle Dobbs, juin 2019 : Previously spelled: aexiexie. Having listened to the audio of this text recently, I believe the spelling should be changed to: ehihi. The first morpheme appears to be the same as that of "eyi", as in "eyi keeq". The spelling of the syllable "hi" is a bit of an outlier, but as the word is an interjection, I don't think this is a problem.
 \ton -L
-\lc æ˧hi˩hi˩
+\lc æ˧hi˩hi˩!
 \so <print="n"> F4
 \de Cry of defiance or provocation. It can also express triumph and exultation.
 \ge |fg{intj_défiance}
@@ -402,7 +403,7 @@
 \cf æ˧ʝi˩
 \nt <type="hist" print="n"> A Hui, 2016: æ˧ʝi˩，声调改变成“æ˧ʝi˧”后，在我们那边的摩梭话里,除了叫声,还有”天哪“的意思，（但这个”天哪“不等同于汉语的”天哪“）它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“æ˧ʝi˧”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说”æ˧ʝi˧”，脏.
 \ton M
-\lc æ˧ʝi˧
+\lc æ˧ʝi˧!
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \so <print="n"> F4
@@ -3093,6 +3094,38 @@
 \df Bruit d'un choc entre deux objets durs, par exemple un coup de hache qui fend une pièce de bois: Boum!
 \gf |fg{ideo}_Boum!
 \dt 24/Apr/2017
+
+\lx ʂwɑ~ʂwɑ~ʂwɑ
+\or shuashuashua
+\ps ideophone
+\lc ʂwɑ.ʂwɑ.ʂwɑ
+\cf ʈʂʰwɑ.ʈʂʰwɑ.ʈʂʰwɑ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Onomatopoeia for the sound of rain.
+\ge |fg{ideo}_sound_of_rain
+\dn 形声词：下雨的声音
+\gn 下雨声
+\df Onomatopée: bruit de la pluie.
+\gf |fg{ideo}_bruit_de_la_pluie
+
+\lx ʈʂʰwɑ~ʈʂʰwɑ~ʈʂʰwɑ
+\or chuachuachua
+\ps ideophone
+\lc ʈʂʰwɑ.ʈʂʰwɑ.ʈʂʰwɑ
+\cf ʂwɑ~ʂwɑ~ʂwɑ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Onomatopoeia for the sound of pouring rain.
+\ge |fg{ideo}_sound_of_pouring_rain
+\dn 形声词：下大雨的声音
+\gn 下大雨声
+\df Onomatopée: bruit de la pluie qui tombe à verse, d'une pluie battante.
+\gf |fg{ideo}_bruit_de_la_pluie_battante
 
 \lx bo˩
 \or bboq
@@ -13674,8 +13707,8 @@
 \lx ə
 \or a
 \ps intj
-\ton --
-\lc ə
+\ton 0
+\lc ə!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
@@ -21982,7 +22015,7 @@
 \lx ĩ˧
 \or in
 \ps intj
-\lc ĩ˧
+\lc ĩ˧!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \np un ton est indiqué; mais ce n'est pas un “vrai ton"; n'entre pas en relation avec les tons environnants; ne se conjuge pas comme un verbe
@@ -34384,7 +34417,7 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \ton -L
-\lc mɤ˧dɑ˩
+\lc mɤ˧dɑ˩!
 \so <print="n"> F4
 \de Alas!
 \ge |fg{intj.alas}
@@ -34400,7 +34433,7 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \ton -L
-\lc mɤ˧dɑ˩mi˩
+\lc mɤ˧dɑ˩mi˩!
 \so <print="n"> F4
 \de Alas!
 \ge |fg{intj.alas}
@@ -34416,7 +34449,7 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \ton -L
-\lc mɤ˧dɑ˩qʰwɤ˩
+\lc mɤ˧dɑ˩qʰwɤ˩!
 \so <print="n"> F4
 \de Alas!
 \ge |fg{intj.alas}
@@ -42019,14 +42052,14 @@
 \gf |fg{clf}.objets_plats
 \dt 26/Apr/2017
 
-\lx pʰe˧
+\lx pʰe
 \or pei
 \ps intj
-\lc pʰe˧
+\lc pʰe!
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
-\ton M
+\ton 0
 \so <print="n"> F4
 \de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says "pei!", then explains that the matter at issue is not a big deal.
 \ge |fg{intj.pooh}
@@ -44141,6 +44174,26 @@
 \xf bois sec
 \dt 21/Jun/2017
 
+\lx pv̩˧
+\hm 3
+\or bu
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton Mγ
+\lc pv̩˧
+\so <print="n"> F4
+\de To go out, to get out.
+\ge to_go_out
+\dn 出去
+\gn 出去
+\df Sortir.
+\gf sortir
+\xv njɤ˧ | ɑ˩pʰo˩ pv̩˥.
+\xe I get out, I go outside.
+\xn 我出去到外边。
+\xf Je sors, je pars (seul). (Personne ne m'accompagne.) xxxx autres exemples
+
 \lx pv̩˧˥
 \sf <nb="B"> 1176
 \sf <nb="B"> (et
@@ -45099,7 +45152,10 @@
 \xe People do not allow access! / Access is not allowed! (Context: a discussion about difficulties for the investigator to be allowed to stay in an area of Sichuan where Naish languages are spoken. The consultant summarizes as: “Access is not allowed!")
 \xn 人家不让去！
 \xf On n'est pas autorisé à y aller! (Contexte: discussion au sujet des difficultés pour l'enquêteur d'accès à une localité où sont parlées des langues naish, dans le Sichuan. La consultante résume: «On n'est pas autorisé à y aller! / L'accès n'est pas autorisé!»)
-\dt 03/Aug/2017
+\xv dʑɯ˧ | pv˩-tʰɑ˩-kʰɯ˥!
+\xe Water must not get in! (Context: about precautions taken so that a laptop computer carried around in a plain cloth bag does not get damaged by rain water leaking into the computer.)
+\xn 不让水进去！（情景：一台笔记本电脑，在布袋子里拿来拿去，要注意不让雨水进去，以免发生意外。）
+\xf Il ne faut pas y laisser entrer d'eau! / Il ne faut pas laisser l'eau s'y mettre! (Contexte: au sujet de précautions prises afin qu'un ordinateur portable, porté dans un simple sac en toile, ne soit pas abîmé par la pluie.)
 
 \lx pv̩˩α
 \sf <nb="B"> 1503
@@ -53346,6 +53402,25 @@
 \xf passer trois nuits en route / faire un voyage qui va durer trois jours (au sujet d'un trajet de trois nuits de Lijiang à Hanoi: un train de nuit; un car de nuit le lendemain; et un second train de nuit le troisième jour)
 \dt 03/May/2017
 
+\lx -se˥
+\or sei
+\ps suff
+\lc se˧
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton H
+\so <print="n"> F4
+\de Topic marker.
+\ge |fg{top}
+\dn 主题
+\gn 主题
+\df Focalisateur.
+\gf |fg{top}
+\xv no˧-se˥, | ɬi˧di˩ fv˩! | njɤ˧-se˥, jo˧ɡv˧ fv˧!
+\xe You like Yongning; I like Lijiang!
+\xn 你啊，喜欢永宁。我呢，喜欢丽江。
+\xf Toi, tu aimes Yongning; moi, j'aime Lijiang!
+
 \lx ʂe˩
 \sf <nb="B"> 71b
 \sf <nb="2011"> 121
@@ -55348,7 +55423,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton M
-\lc ʂo˧
+\lc ʂo˧!
 \so <print="n"> F4
 \de Interjection to get pigs to move forward.
 \ge |fg{intj.Forward}!
@@ -69162,7 +69237,7 @@
 \lx ʈʂʰɻ̍
 \or cheu
 \ps ideophone
-\ton --
+\ton 0
 \lc ʈʂʰɻ!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -73600,7 +73675,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \np La transcription adoptée est [ʐ] plutôt que [ʐɯ], du fait que ce n'est pas une syllabe complète: une syllabe complète comporte une partie ‘plus consonantique' au début et une partie ‘plus vocalique' à la fin
-\ton --
+\ton 0
 \so <print="n"> F4
 \de Rumbling sound of heavy loads carried over a wooden floor, of lorries… Brrroom!
 \ge |fg{ideo_Brrroom}!
