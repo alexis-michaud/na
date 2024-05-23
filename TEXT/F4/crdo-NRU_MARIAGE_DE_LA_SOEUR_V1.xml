@@ -3391,7 +3391,7 @@
   </S>
   <S id="Sister_S058">
     <AUDIO start="178.6544" end="181.9703"/>
-    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰv̩˧˥ ◊ -tsɯ˩ ◊ -mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
+    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̍˧˥ ◊ -tsɯ˩ ◊ -mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
     <FORM kindOf="ortho">raesi bbi teechu zimu, lepo hee!</FORM>
     <NOTE xml:lang="fr" message="ʈʂʰv̩˧˥: ici réalisé phonétiquement proche de [ʈʂʰwe]: la diphtongaison du /v/ est particulièrement forte; l’insistance sur ce mot crée une tension entre la bonne réalisation de la rime /v/, fricative et fermée, d’une part, et l’ouverture plus grande qui résulte de l’insistance; cette tension a pour résultat un mouvement ouvrant qui modifie considérablement la rime"/>
     <NOTE xml:lang="fr" message="/ʐæ˩sɯ˩bi˧/: d’abord noté ‡˧ ˧ ˥; corrigé en 2007"/>
@@ -3415,7 +3415,7 @@
 	  <TRANSL xml:lang="en">°dur</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰv̩˧˥</FORM>
+      <FORM>ʈʂʰɻ̍˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -3593,7 +3593,7 @@
   </S>
   <S id="Sister_S062">
     <AUDIO start="190.5377" end="193.8317"/>
-    <FORM kindOf="phono">sɯ˩tʰi˩˥, | le˧-pv̩˧˥ | tʰi˩˥, | ʁo˧dɑ˧ tʰv̩˧ ɻ̍˥ dʑo˩ | le˧&lt;-hæ̃˧˥&gt; [ʈʂʰv̩˧˥] mɤ˧-ɖɯ˧-ɲi˥-ho˩ mæ˩ | &lt;hĩ˧&gt;…</FORM>
+    <FORM kindOf="phono">sɯ˩tʰi˩˥, | le˧-pv̩˧˥ | tʰi˩˥, | ʁo˧dɑ˧ tʰv̩˧ ɻ̍˥ dʑo˩ | le˧&lt;-hæ̃˧˥&gt; [ʈʂʰɻ̍˧˥] mɤ˧-ɖɯ˧-ɲi˥-ho˩ mæ˩ | &lt;hĩ˧&gt;…</FORM>
     <FORM kindOf="ortho">Seeti lebeu, tiq, wodda tee erq jjo lehaen [lecheu] meddee niq ho mae;</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés"/>
     <NOTE xml:lang="fr" message="ɖɯ˧+ɲi˥: d’où vient le ton haut ? même surprise que précédemment, pour les verbes gv̩˧ et ɖɯ˧"/>
@@ -3653,7 +3653,7 @@
 	<TRANSL xml:lang="en">to_cut</TRANSL>
     </W>
 	    <W>
-      <FORM>ʈʂʰv̩˧˥</FORM>
+      <FORM>ʈʂʰɻ̍˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	<TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -3690,7 +3690,7 @@
   </S>
   <S id="Sister_S063">
     <AUDIO start="193.8317" end="195.7160"/>
-    <FORM kindOf="phono">ɬo˧tɑ˧ lɑ˧ &lt;-hæ̃˧˥&gt; [ʈʂʰv̩˧˥] | ɖɯ˧-ɲi˥-ho˩ mæ˩. |</FORM>
+    <FORM kindOf="phono">ɬo˧tɑ˧ lɑ˧ &lt;-hæ̃˧˥&gt; [ʈʂʰɻ̍˧˥] | ɖɯ˧-ɲi˥-ho˩ mæ˩. |</FORM>
     <FORM kindOf="ortho">lhoda la cheuq ddee niq ho mae.</FORM>
     <TRANSL xml:lang="fr">elle n'a pu se saisir que des bords, (que le frère a alors coupés).</TRANSL>
 	<TRANSL xml:lang="en">(She) was only able to only grab the edge, (which the brother then cut to push her off).</TRANSL>
@@ -3711,7 +3711,7 @@
 	<TRANSL xml:lang="en">to_cut</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰv̩˧˥</FORM>
+      <FORM>ʈʂʰɻ̍˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>

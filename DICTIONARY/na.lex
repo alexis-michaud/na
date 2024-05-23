@@ -15843,7 +15843,10 @@
 \xe inhabitants of the banks of the Yangtze: people of Labai, Fengke…
 \xn 金沙江边的人：奉科人，拉伯人……
 \xf les riverains du Yangtze: gens de Labai, Fengke…
-\dt 24/Apr/2017
+\xv gi˧dʑɯ˧ ɖæ˩
+\xe to cross the Yangtze river
+\xn 过金沙江
+\xf traverser le fleuve Yangtze
 
 \lx gi˩kɯ˩
 \sf <nb="B"> 1887
@@ -71723,8 +71726,8 @@
 \df Éternuer.
 \gf éternuer
 \xv ɖɯ˧-ʈʰɯ˧~ʈʰɯ˥
-\xe |fg{inceptive} |fg{red}
-\xf |fg{inchoatif} |fg{red}
+\xe |fg{delimitative} |fg{red}
+\xf |fg{délimitatif} |fg{red}
 \xc PHONO
 \dt 27/Apr/2017
 
