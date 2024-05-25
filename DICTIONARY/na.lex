@@ -1014,17 +1014,16 @@
 \ton M
 \lc æ˧ʂæ˧
 \so <print="n"> F4
-\de Name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain ("the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} ("the young woman": |fv{/mi˩zɯ˩˥/}).
+\de Name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain (``the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} (``the young woman": |fv{/mi˩zɯ˩˥/}).
 \ge name_of_a_mountain
 \dn 一座山的名字：安山。位于永宁坝的西面，格姆女神山的对面。
 \gn 一座山的名字
 \df Nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}).
 \gf nom_d_une_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 25/Aug/2015
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx æ˧ʂæ˧-pi˧mv̩˧˥
 \or eshae bimu
@@ -1037,6 +1036,10 @@
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton -MH#
 \lc æ˧ʂæ˧pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwæ#˥
+\cf æ˧ʂæ˧-qʰwɤ˧˥
+\cf æ˧ʂæ˧-tɑ˩mv̩˩
+\cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
 \pdl classifier
 \pdv kʰwɤ˥
@@ -1058,6 +1061,10 @@
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton #H
 \lc æ˧ʂæ˧qʰwæ˧
+\cf æ˧ʂæ˧-pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwɤ˧˥
+\cf æ˧ʂæ˧-tɑ˩mv̩˩
+\cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
 \de Oral tradition; literally: “messages from old times".
 \ge oral_tradition
@@ -1082,6 +1089,10 @@
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton MH#
 \lc æ˧ʂæ˧qʰwɤ˧˥
+\cf æ˧ʂæ˧-pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwæ#˥
+\cf æ˧ʂæ˧-tɑ˩mv̩˩
+\cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> æ˧ʂæ˧qʰwɤ˧
@@ -1108,7 +1119,6 @@
 \xe It has become a story / it has now entered oral tradition! (About events that happened in Yongning in recent years, less than a decade before, and that are now narrated in much the same way as folk stories.)
 \xn 现在，已经变成故事了！（关于近期，十年以内发生过的小故事：现在已经入口传文化了，流传方式跟老故事差不多。）
 \xf C'est devenu de l'histoire / c'est passé dans la tradition orale, maintenant! (Commentaire au sujet d'événements qui ont eu lieu à Yongning récemment, il y a moins d'une décennie, et qui se racontent maintenant d'une façon assez analogue aux contes et légendes de la nuit des temps.)
-\dt 06/Jun/2017
 
 \lx æ˧ʂæ˧-tɑ˩mv̩˩
 \or eshae damu
@@ -1120,6 +1130,10 @@
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton -L
 \lc æ˧ʂæ˧tɑ˩mv̩˩
+\cf æ˧ʂæ˧-pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwæ#˥
+\cf æ˧ʂæ˧-qʰwɤ˧˥
+\cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
 \pdl classifier
 \pdv kʰwɤ˥
@@ -1145,6 +1159,11 @@
 \np test phonologique: «les choses du passé": æ˧ʂæ˧-bv̩˧. Note d'avant 2014: «Vérifié: la réalisation phonétique oscille entre æ et æ̃; d'où l'analyse comme /æ/ plutôt que /ə/." nasalité: vérifié en août 2014
 \ton #H
 \lc æ˧ʂæ˧
+\cf æ˧ʂæ˧-pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwæ#˥
+\cf æ˧ʂæ˧-qʰwɤ˧˥
+\cf æ˧ʂæ˧-tɑ˩mv̩˩
+\cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
 \de Yore, long ago.
 \ge yore
@@ -1152,11 +1171,29 @@
 \gn 古时候
 \df Jadis, dans le passé.
 \gf jadis
-\xv æ˧ʂæ˧-kɤ˥ʈʂɯ˩
-\xe Sayings of the old times, oral traditions of the old times
-\xn 古时候的说法、从前的说法
-\xf Dires du temps jadis, traditions orales
-\dt 11/May/2017
+
+\lx æ˧ʂæ˧-kɤ˥ʈʂɯ˩
+\or eshae gezhi
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton #H-
+\lc æ˧ʂæ˧kɤ˥ʈʂɯ˩
+\et æ˧ʂæ#˥
+\et kɤ˧ʈʂɯ˩2
+\cf æ˧ʂæ˧-pi˧mv̩˧˥
+\cf æ˧ʂæ˧-qʰwæ#˥
+\cf æ˧ʂæ˧-qʰwɤ˧˥
+\cf æ˧ʂæ˧-tɑ˩mv̩˩
+\so <print="n"> F4
+\pdl classifier
+\pdv kʰwɤ˥
+\de Sayings of the old times, oral traditions of the old times.
+\ge oral_traditions
+\dn 古时候的说法、从前的说法、口传话语
+\gn 口传话语
+\df Dires du temps jadis, traditions orales.
+\gf traditions_orales
 
 \lx æ̃˩ʂe˩
 \sf <nb="B"> 211
@@ -25447,10 +25484,9 @@
 \xn 格姆公主：格姆山别名（格姆山被看作女神）
 \xf «la princesse Gemu»; autre nom de la montagne Gemu, considérée comme une divinité féminine
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 03/Sep/2015
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx kɤ˩-nɑ˧mi˧
 \sf <nb="B"> 1796
@@ -37589,10 +37625,9 @@
 \df Nom d'une montagne de Yongning.
 \gf nom_de_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 09/Sep/2015
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx nɑ˧ʈʂʰõ˧-õ˩di˩-pɤ˩
 \or nachon onddibe
@@ -41087,10 +41122,9 @@
 \df Nom d'une montagne au sud-ouest de Yongning.
 \gf nom_de_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 09/Sep/2015
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx ŋwɤ˩ɬi˩mi˩
 \sf <nb="B"> 781
@@ -58178,10 +58212,9 @@
 \df Une montagne au nord-ouest de Yongning.
 \gf Mont_de_Jiaze
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 09/Oct/2015
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx ʂwæ˧pɤ˧tʰe˧
 \sf <nb="B"> 280
@@ -65273,10 +65306,9 @@
 \xn 山的全名，包括水泉名
 \xf nom complet de la montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
-\xe The six mountains of Yongning that carry a name and have a definite symbolic value. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
-\xf Les six montagnes de Yongning qui portent un nom. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
-\dt 25/Aug/2017
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
 \lx tsʰɑ˩pʰɑ˩lɑ˥
 \sf <nb="B"> 2325
