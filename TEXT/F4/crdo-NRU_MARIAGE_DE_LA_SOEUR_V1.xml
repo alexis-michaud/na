@@ -45,9 +45,9 @@
   </S>
   <S id="Sister_S002">
     <AUDIO start="2.1473" end="3.6244"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">tee niq yi guq zimu.</FORM>
-    <NOTE xml:lang="fr" message="d’abord noté /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˩-tsɯ˩ ◊ -mv̩˩/, puis (en mars 2009) /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-tsɯ˩ ◊ -mv̩˩/, puis songé (en 2012) à /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-tsɯ˧˥ ◊ -mv̩˩/; en fait: n'avais pas su reconnaître la syllabe /ʝi/; correction supplémentaire en septembre 2012: est /kv̩/ et non /gv̩/."/>
+    <NOTE xml:lang="fr" message="d’abord noté /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˩ tsɯ˩ ◊ mv̩˩/, puis (en mars 2009) /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧ tsɯ˩ ◊ mv̩˩/, puis songé (en 2012) à /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-tsɯ˧˥ ◊ mv̩˩/; en fait: n'avais pas su reconnaître la syllabe /ʝi/; correction supplémentaire en septembre 2012: est /kv̩/ et non /gv̩/."/>
 	<TRANSL xml:lang="fr">c’est comme ça (que ça s’est passé), à ce qu’on raconte: / on dit que c’est ainsi:</TRANSL>
 	<TRANSL xml:lang="en">it's said that it happened like this:</TRANSL>
     <TRANSL xml:lang="zh">传说有了这样一件事情（直译：“传说过得这样的”）</TRANSL>
@@ -87,7 +87,7 @@
   </S>
   <S id="Sister_S004">
     <AUDIO start="5.8293" end="8.5242"/>
-    <FORM kindOf="phono">mv̩˩zɯ˩-ni˥mi˩ | ɲi˧-kv̩˧ dʑo˧˥ ◊ -tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">mv̩˩zɯ˩-ni˥mi˩ | ɲi˧-kv̩˧ dʑo˧˥ ◊  tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">mussinimi nigu jjo zimu.</FORM>
     <NOTE xml:lang="fr" message="d'abord noté /‡dʑo˩˥/ (2006), puis corrigé en /‡dʑo˧/ (2008); est en fait /dʑo˧˥/. Le ton montant est suivi de deux particules finales dont il abaisse les tons en L: particules traitées comme extramétriques."/>
     <TRANSL xml:lang="fr">on raconte qu’il y avait deux enfants (deux personnes de la même fratrie)!</TRANSL>
@@ -132,7 +132,7 @@
   </S>
   <S id="Sister_S005">
     <AUDIO start="8.5242" end="12.0549"/>
-    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˧-ʝi˥-hĩ˩ ◊ -dʑo˩, | ↑zo˧ ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˧-ʝi˥-hĩ˩ ◊ -dʑo˩, | ↑zo˧ ɲi˥ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Tiq, amu yihin jjo sso niq zimu.</FORM>
     <NOTE xml:lang="fr" message="/tʰi˩˥/: d’abord noté ‡tʰe˩˥; modifié en tʰi˩˥ sur l’avis de M18, à qui je demandais de choisir. Ton: en 2008, choix entre ˩˧ et ˧˥: F4 choisit ˩˥, càd partant de bas; réinterprété en 2009 comme ˩˧, pensant que le ton ajouté post-lexicalement aux séquences ne comprenant que des tons L était M; réanalyse août 2011, au vu du comportement phonologique de ce ton: H. Je réécris donc tous les anciens tʰi˩˧ en tʰi˩˥."/>
     <NOTE xml:lang="fr" message="dʑo˩: corrigé en 09; auparavant: dʑo˧"/>
@@ -193,7 +193,7 @@
     <FORM kindOf="phono">tʰi˩˥, | ↑zo˧ ◊ -dʑo˩ | tʰi˩˥, | kʰv̩˧ʂæ˧-hɯ˧-tsɯ˥ | mv̩˩. |</FORM>
     <FORM kindOf="ortho">Tiq, sso jjo, tiq, kushae hee zimu.</FORM>
     <NOTE xml:lang="fr" message="vérifié en mars 09: est: /zo˧-dʑo˩ | tʰi˩˥/, et non: ‡zo˧ dʑo˧tʰi˩˥"/>
-    <NOTE xml:lang="fr" message="En 2006: noté /kʰv̩˧ʂæ˧-hɯ˧-tsɯ˥ | mv̩˩/, après avoir songé à /‡kʰv̩˩ʂæ˩-hɯ˧/. Vérifié en 2007: la forme à l'isolée est: /kʰv̩˧ʂæ˧-hɯ˧˥/. Il est possible d'intégrer ces trois syllabes dans le même groupe tonal que les particules qui suivent, comme c'est le cas ici (/kʰv̩˧ʂæ˧-hɯ˧-tsɯ˥ | mv̩˩/): la partie H du contour de /hɯ˧˥/ se projette sur la syllabe qui suit. Il serait également possible d'interrompre le groupe tonal après /kʰv̩˧ʂæ˧-hɯ˧˥/, ce qui donnerait /kʰv̩˧ʂæ˧-hɯ˧˥ | -tsɯ˧˥ ◊ -mv̩˩/. (Avais un temps noté /‡kʰv̩˧ʂæ˧-hɯ˧˥ ◊ -tsɯ˩ ◊ -mv̩˩/; en réalité, la réduction de /-tsɯ˧˥ ◊ -mv̩˩/, dans cette variante, est simplement phonétique.)"/>
+    <NOTE xml:lang="fr" message="En 2006: noté /kʰv̩˧ʂæ˧-hɯ˧-tsɯ˥ | mv̩˩/, après avoir songé à /‡kʰv̩˩ʂæ˩-hɯ˧/. Vérifié en 2007: la forme à l'isolée est: /kʰv̩˧ʂæ˧-hɯ˧˥/. Il est possible d'intégrer ces trois syllabes dans le même groupe tonal que les particules qui suivent, comme c'est le cas ici (/kʰv̩˧ʂæ˧-hɯ˧-tsɯ˥ | mv̩˩/): la partie H du contour de /hɯ˧˥/ se projette sur la syllabe qui suit. Il serait également possible d'interrompre le groupe tonal après /kʰv̩˧ʂæ˧-hɯ˧˥/, ce qui donnerait /kʰv̩˧ʂæ˧-hɯ˧˥ | -tsɯ˧˥ ◊ mv̩˩/. (Avais un temps noté /‡kʰv̩˧ʂæ˧-hɯ˧˥ ◊  tsɯ˩ ◊ mv̩˩/; en réalité, la réduction de /-tsɯ˧˥ ◊ mv̩˩/, dans cette variante, est simplement phonétique.)"/>
      <TRANSL xml:lang="fr">et le garçon est parti chasser.</TRANSL>
 	 <TRANSL xml:lang="en">and the boy went out hunting.</TRANSL>
     <TRANSL xml:lang="zh">那么，男人呢，狩猎去了。</TRANSL>
@@ -240,9 +240,9 @@
   </S>
   <S id="Sister_S007">
     <AUDIO start="16.9691" end="19.5631"/>
-    <FORM kindOf="phono">tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, jjinami wo ddeesoku teezzee zimu.</FORM>
-    <NOTE xml:lang="fr" message="Avant 2013: noté: /ɖɯ˧-so˩ kʰv̩˩ | tʰi˧-dzi˩-tsɯ˩ ◊ -mv̩˩/, du fait d'une transcription 'mot à mot', faisant répéter à la locutrice mot après mot, et ne tenant pas compte du phrasé plus large du récit. En réalité: ce passage est intégré ici en un seul groupe tonal: /ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩-tsɯ˩/. (Avais d’abord noté /‡tʰe˩/ (comme en naxi); corrigé en /tʰi˧/ en 2009, date à laquelle le ton avait également été modifié, en fait à tort.) "/>
+    <NOTE xml:lang="fr" message="Avant 2013: noté: /ɖɯ˧-so˩ kʰv̩˩ | tʰi˧-dzi˩ tsɯ˩ ◊ mv̩˩/, du fait d'une transcription 'mot à mot', faisant répéter à la locutrice mot après mot, et ne tenant pas compte du phrasé plus large du récit. En réalité: ce passage est intégré ici en un seul groupe tonal: /ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩ tsɯ˩/. (Avais d’abord noté /‡tʰe˩/ (comme en naxi); corrigé en /tʰi˧/ en 2009, date à laquelle le ton avait également été modifié, en fait à tort.) "/>
     <NOTE xml:lang="fr" message="/ɖɯ˧/: M18 corrige à tort en ‡H, du fait de l’intonation."/>
 		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
     <TRANSL xml:lang="fr">on dit qu’il s’en alla vivre plusieurs années dans les forêts de haute altitude.</TRANSL>
@@ -296,10 +296,10 @@
   </S>
   <S id="Sister_S008">
     <AUDIO start="20.7664" end="22.5318"/>
-    <FORM kindOf="phono">&lt;əəə…&gt; tɕʰɯ˩di˩ hɯ˩˥ ◊ -tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">&lt;əəə…&gt; tɕʰɯ˩di˩ hɯ˩˥ ◊  tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Qiddi hee zimu.</FORM>
     <NOTE xml:lang="fr" message="d'abord noté /‡tɕʰi˩-di˩/; littéralement: 'courir le muntjac, chasser le muntjac'; lexicalisé avec le sens de 'chasser'. Tons: /tɕʰɯ˩/+/di˧˥/&gt;/tɕʰɯ˩di˩˥/; /tɕʰɯ˩di˩˥/+/hɯ˧/&gt;/tɕʰɯ˩di˩ hɯ˩˥/. La locutrice fait une pause/réalise une frontière après /hɯ/, de sorte que la partie haute du contour MH ˩˥ ne se déplace pas phonétiquement sur la syllabe /tsɯ/. Lors de la séance de retravail, elle répète plus rapidement, et cela se rapproche de: [tɕʰɯ˩di˩-hɯ˩-tsɯ˥ | mv̩˩], par l’effet de la coarticulation tonale. Les deux possibilités sont ouvertes aux locuteurs: soit intégration en un seul groupe phonologique, auquel cas le contour tonal montant se déploie (phonologiquement) sur ce qui suit (donc sur la 1e particule, qui reçoit alors un ton haut: /tsɯ˥/); soit pause sur /hɯ˩/, réalisé comme il le serait en fin de groupe tonal: avec un ton H final créant un contour; néanmoins les particules suivantes sont traitées comme si elles appartenaient au même groupe tonal: abaissées au ton /L/."/>
-    <NOTE xml:lang="fr" message="tons de /-tsɯ˩ ◊ -mv̩˩/ vérifiés à nouveau en juillet 2012."/>
+    <NOTE xml:lang="fr" message="tons de / tsɯ˩ ◊ mv̩˩/ vérifiés à nouveau en juillet 2012."/>
     <TRANSL xml:lang="fr">il est parti traquer le muntjac, dit-on.</TRANSL>
 	<TRANSL xml:lang="en">(He) went deer stalking.</TRANSL>
     <TRANSL xml:lang="zh">（他是）去赶麂子（的）。</TRANSL>
@@ -338,7 +338,7 @@
   </S>
   <S id="Sister_S009">
     <AUDIO start="22.5318" end="25.5725"/>
-    <FORM kindOf="phono">tʰi˩˥, | go˧mi˧-dʑo˥ | tʰi˩˥, | ɑ˩ʁo˧ dʑo˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | go˧mi˧-dʑo˥ | tʰi˩˥, | ɑ˩ʁo˧ dʑo˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, ggomi jjo, tiq, awo jjo zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté /go˧mi˧-dʑo˧/, formulation qui est acceptable; puis modifié à tort en /go˧mi˧-dʑo˩/; en 2013, modifié en: /go˧mi˧-dʑo˥/. Il existe 2 variantes pour cette combinaison: /go˧mi˧-dʑo˧/, et /go˧mi˧-dʑo˥/."/>
     <TRANSL xml:lang="fr">Quant à la sœur, elle demeurait à la maison, dit-on.</TRANSL>
@@ -387,7 +387,7 @@
   </S>
   <S id="Sister_S010">
     <AUDIO start="25.5725" end="29.5932"/>
-    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˩ | &lt;le˧-mɤ˧-t…&gt; le˧-mɤ˧-tsʰɯ˩, -dʑo˩ | tʰi˩˥, | hĩ˧-ki˧ ki˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˩ | &lt;le˧-mɤ˧-t…&gt; le˧-mɤ˧-tsʰɯ˩, -dʑo˩ | tʰi˩˥, | hĩ˧-ki˧ ki˩ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Tiq, amu lemecee jjo, tiq, hin gi gi zimu.</FORM>
     <TRANSL xml:lang="fr">Après… comme le grand frère ne revenait pas, [la sœur] [se] donna [en mariage] à quelqu’un.</TRANSL>
 	<TRANSL xml:lang="en">Then, the older brother didn't come back, (and the sister) was given (in marriage) to someone. </TRANSL>
@@ -455,7 +455,7 @@
   </S>
   <S id="Sister_S011">
     <AUDIO start="30.4362" end="35.5738"/>
-    <FORM kindOf="phono">tʰi˩˥, | hĩ˧-ki˧ ki˩-se˩ ◊ -dʑo˩ | tʰi˩˥, | &lt;mmm…&gt; tʰi˩˥, | ʐɯ˧ ʈʰɯ˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | hĩ˧-ki˧ ki˩-se˩ ◊ -dʑo˩ | tʰi˩˥, | &lt;mmm…&gt; tʰi˩˥, | ʐɯ˧ ʈʰɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Tiq, hin gi gi seiq jjo, tiq, ri teeq zimu.</FORM>
     <NOTE xml:lang="fr" message="à ce point du récit, M18, jouant son rôle de répondant, glisse: ʐɯ˧ ʈʰɯ˩, hɑ˧ dzɯ˧. «On a bu du vin, et on a mangé.»)"/>
     <TRANSL xml:lang="fr">Comme le mariage était décidé, on l’a fêté («boire du vin» signifie, par synecdoque, «faire la fête», et spécifiquement célébrer un mariage), à ce qu’on raconte.</TRANSL>
@@ -525,7 +525,7 @@
   </S>
   <S id="Sister_S012">
     <AUDIO start="35.5738" end="40.1061"/>
-    <FORM kindOf="phono">&lt;ʐɯ˧…&gt; ʐɯ˧ ʈʰɯ˩, | hɑ˧ dzɯ˧-ʁo˧-to˩, dʑo˩ | tʰi˩˥, | kɤ˧dzi˧-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">&lt;ʐɯ˧…&gt; ʐɯ˧ ʈʰɯ˩, | hɑ˧ dzɯ˧-ʁo˧-to˩, dʑo˩ | tʰi˩˥, | kɤ˧dzi˧ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Ri teeq ha zzi wodo jjo, tiq, gezzee zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté /‡ɖɯ˧ ɲi˧ tʰi˩˥"/>
     <TRANSL xml:lang="fr">Pendant la fête/À l’heure du festin, eh bien, (tout le monde) a pris place.</TRANSL>
@@ -730,7 +730,7 @@
   </S>
   <S id="Sister_S015">
     <AUDIO start="49.3220" end="53.3283"/>
-    <FORM kindOf="phono">mæ˧qo˩ | &lt;ʈʂʰɯ˧-qo˧&gt; tʰv̩˧-dʑo˥ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩ | ʈʂʰɯ˧, | tɕʰɯ˩di˩˥ | le˧-tsʰɯ˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">mæ˧qo˩ | &lt;ʈʂʰɯ˧-qo˧&gt; tʰv̩˧-dʑo˥ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩ | ʈʂʰɯ˧, | tɕʰɯ˩di˩˥ | le˧-tsʰɯ˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">maegho teegho teejjo, tiq, tee amu tee qiddi lecee zimu.</FORM>
     <NOTE xml:lang="fr" message="/ʈʂʰɯ˧-qo˧ tʰv̩˧-dʑo˥/: avant 2013, noté: /ʈʂʰɯ˧-qo˧ tʰv̩˧ ◊ -dʑo˩ | tʰi˩˥/, qui est également possible, détachant /-dʑo˩/ du groupe tonal qui précède."/>
     <NOTE xml:lang="fr" message="selon la conteuse: il aurait été préférable de dire: /mæ˧qo˩ tʰv̩˩/. D’abord noté [kʰʶo˩ tʰv̩˩]."/>
@@ -818,7 +818,7 @@
   </S>
   <S id="Sister_S016">
     <AUDIO start="53.6814" end="57.2914"/>
-    <FORM kindOf="phono">dʑɯ˩ʁo˩-ɳɯ˥ | tɕʰɯ˩di˩˥ | le˧-tsʰɯ˩ dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩-ɳɯ˥ | le˧-tɕʰi˧-hɯ˥-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">dʑɯ˩ʁo˩-ɳɯ˥ | tɕʰɯ˩di˩˥ | le˧-tsʰɯ˩ dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩-ɳɯ˥ | le˧-tɕʰi˧-hɯ˥ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Jjiwo nee qiddi lecee jjo, tiq, kumi nee leqie hee zimu.</FORM>
     <TRANSL xml:lang="fr">il est venu [jusqu’au lieu du mariage] chassant, depuis la haute montagne; [son] chien était parti sur une piste, à qu’on raconte.</TRANSL>
    <TRANSL xml:lang="en">He came back from hunting in the mountains; his dog was following the trail (of an animal).</TRANSL>
@@ -1024,7 +1024,7 @@
     <AUDIO start="62.7316" end="67.0477"/>
     <FORM kindOf="phono">kʰv̩˩mi˩-qʰwɤ˩˥ | le˧-nv̩˥ | le˧-nv̩˥ | le˧-nv̩˥ | le˧-tsʰɯ˩, -dʑo˩ | tʰi˩˥, | go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ tʰv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">kumi khua lenu lenu lenu lecee jjo, tiq, ggomi teegihin teexxi gi tu zimu.</FORM>
-    <NOTE xml:lang="fr" message="note ancienne: 'vérifié: n'est pas /‡tʰv̩˩/, dans ce contexte; d'où la décision d'indiquer une frontière | devant le verbe.' Avais noté, en conséquence: /go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ | tʰv̩˧-tsɯ˩ ◊ -mv̩˩/. Vérification 2013: est en fait: /go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ tʰv̩˩-tsɯ˩ ◊ -mv̩˩/. Note ancienne au sujet des tons de /ki/ et /tʰv̩/: 'd’abord noté /‡ki˧ tʰv̩˧/, puis corrigé en 2011 en /ki˩ tʰv̩˧/ avec F4, conformément aux attentes: on s’attend en effet à: /-ki˩ tʰv̩˧/: après un ton H, la particule ne peut être qu’au ton L'."/>
+    <NOTE xml:lang="fr" message="note ancienne: 'vérifié: n'est pas /‡tʰv̩˩/, dans ce contexte; d'où la décision d'indiquer une frontière | devant le verbe.' Avais noté, en conséquence: /go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ | tʰv̩˧ tsɯ˩ ◊ mv̩˩/. Vérification 2013: est en fait: /go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˥-ki˩ tʰv̩˩ tsɯ˩ ◊ mv̩˩/. Note ancienne au sujet des tons de /ki/ et /tʰv̩/: 'd’abord noté /‡ki˧ tʰv̩˧/, puis corrigé en 2011 en /ki˩ tʰv̩˧/ avec F4, conformément aux attentes: on s’attend en effet à: /-ki˩ tʰv̩˧/: après un ton H, la particule ne peut être qu’au ton L'."/>
     <NOTE xml:lang="fr" message="avant 2013: noté: /‡kʰv̩˩mi˩-qʰwɤ˧/; est en fait: /kʰv̩˩mi˩-qʰwɤ˩˥/; note ancienne: '/qʰwɤ˧/: ton de base du monosyllabe déduit d’après le résultat en composition'."/>
     <NOTE xml:lang="fr" message="/le˧-nv̩˥/: suivre à la trace; formulation complète /ʈʂɤ˩ nv̩˩˥/, «suivre à la trace, en regardant les empreintes»; vérifié: est bien /n/, et non /ɳ/ rétroflexe; exemple: /le˧-ʈʂɤ˩nv̩˩ | le˧-hɯ˩/"/>
     <NOTE xml:lang="fr" message="«chien»: d’abord noté /kʰv̩˩mi˩˥/, forme isolée, que la locutrice fournissait lorsqu'elle répétait mot à mot."/>
@@ -1231,7 +1231,7 @@
   </S>
   <S id="Sister_S020">
     <AUDIO start="72.8482" end="75.6151"/>
-    <FORM kindOf="phono">tʰi˩˥, | «tse˩ʈʂʰv̩˩-kʰv̩˧, | no˧ | ɑ˩pʰo˩ se˩˥!» | pi˧-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | «tse˩ʈʂʰv̩˩-kʰv̩˧, | no˧ | ɑ˩pʰo˩ se˩˥!» | pi˧ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq: "Zeichuku, no apo sei!" bi zimu.</FORM>
     <NOTE xml:lang="fr" message="tons de se˩˥: d’abord noté se˧˥; juin 08: confirmé avec F4: est se˩˥"/>
     <NOTE xml:lang="fr" message="on pourrait également dire: no˧ ɑ˩pʰo˩ hõ˩˥!"/>
@@ -1361,7 +1361,7 @@
   </S>
   <S id="Sister_S022">
     <AUDIO start="78.6990" end="83.0583"/>
-    <FORM kindOf="phono">tʰi˩˥, | «tse˩ʈʂʰv̩˩˥ | no˧ | ɑ˩pʰo˩ se˩˥!» pi˧ | tʰi˩˥, | ə˧mv̩˩-ɳɯ˩ | tsʰo˧ le˧-hɯ˩-zo˩, | ɬi˩ʈɯ˩mæ˧ | ʈʂʰɯ˧-qo˧ | tʰi˧-dzi˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | «tse˩ʈʂʰv̩˩˥ | no˧ | ɑ˩pʰo˩ se˩˥!» pi˧ | tʰi˩˥, | ə˧mv̩˩-ɳɯ˩ | tsʰo˧ le˧-hɯ˩-zo˩, | ɬi˩ʈɯ˩mæ˧ | ʈʂʰɯ˧-qo˧ | tʰi˧-dzi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">tiq: "Zeichu no apo sei!" bi, tiq, amu nee co lehee sso, lhideemae teegho teezzee zimu.</FORM>
     <NOTE xml:lang="fr" message="/kʰv̩˧/ «chien»: sous-entendu par la formule tse˩ʈʂʰv̩˩˥; phonétiquement, ʈʂʰv paraît avoir ici simplement un ton ˥, mais la forme sous-jacente est bel et bien ˩˥; tons vérifiés pour toute la séquence /tse˩ʈʂʰv̩˩˥ no˧ ɑ˩pʰo˩se˩˥/"/>
     <NOTE xml:lang="fr" message="2006: avais noté ‡æ˥mv̩˧-ɳɯ˧"/>
@@ -1859,7 +1859,7 @@
   </S>
   <S id="Sister_S029">
     <AUDIO start="103.9977" end="106.4539"/>
-    <FORM kindOf="phono">ə˧mv̩˩-ki˩-dʑo˩, | ʈʂʰɯ˧-ɖæ˧-hĩ˧ | ɖɯ˧-kʰwɤ˥ | tʰi˧-ki˧-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">ə˧mv̩˩-ki˩-dʑo˩, | ʈʂʰɯ˧-ɖæ˧-hĩ˧ | ɖɯ˧-kʰwɤ˥ | tʰi˧-ki˧ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">amu gi jjo teeddaehin ddeekua teegi zimu.</FORM>
     <NOTE xml:lang="fr" message="ə˧mv̩˩-ki˩ dʑo˩: d’abord noté ‡˥ ˧ ˩ ˧ puis ‡˥ ˩ ˩ ˩"/>
     <NOTE xml:lang="fr" message="tʰi˧-ki˧: d’abord noté ‡tʰi˧-ki˥"/>
@@ -2026,7 +2026,7 @@
   </S>
   <S id="Sister_S032">
     <AUDIO start="110.4349" end="114.2001"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧-ɳɯ˧ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧-ɳɯ˥ | mæ˧qo˩ tʰv̩˩ | tʰi˩˥, | ə˧mv̩˩-ki˩ ki˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧-ɳɯ˧ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧-ɳɯ˥ | mæ˧qo˩ tʰv̩˩ | tʰi˩˥, | ə˧mv̩˩-ki˩ ki˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tee nee ddeepu ddeepu ddeepu ddeepu ddeepu nee maegho tu, tiq, amu gi gi zimu.</FORM>
     <NOTE xml:lang="fr" message="mæ˧qo˩tʰv̩˩: d’abord noté ‡mæ˥ko˩tʰv̩˧; corrigé en juin 08"/>
     <NOTE xml:lang="fr" message="d’abord noté /‡pʰv̩˧/, n’entendant pas le contour montant du fait du débit rapide"/>
@@ -2111,7 +2111,7 @@
   </S>
   <S id="Sister_S033">
     <AUDIO start="114.2001" end="116.2383"/>
-    <FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˥ dʑo˩ | gɤ˩-ʑi˧ ↑dzɯ˧-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˥ dʑo˩ | gɤ˩-ʑi˧ ↑dzɯ˧ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, hinlae jjo ggexxi zzi zimu.</FORM>
     <NOTE xml:lang="fr" message="hĩ˧ɻæ˥: d’abord noté ‡˥ ˥; tons vérifiés en juin 08"/>
     <TRANSL xml:lang="fr">les gens prennent (la nourriture), et mangent (littéralement: «lèvent [leurs assiettes] et mangent»)</TRANSL>
@@ -2165,7 +2165,7 @@
   </S>
   <S id="Sister_S034">
     <AUDIO start="116.2383" end="119.7915"/>
-    <FORM kindOf="phono">ɖɯ˩-hĩ˩˥… | ɖɯ˩-hĩ˩˥ | dʑo˩ | le˧-fv̩˧-ɲi˥, | kɤ˧ɕi˩-kwɤ˩tɕɯ˩, | le˧-dzɯ˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">ɖɯ˩-hĩ˩˥… | ɖɯ˩-hĩ˩˥ | dʑo˩ | le˧-fv̩˧-ɲi˥, | kɤ˧ɕi˩-kwɤ˩tɕɯ˩, | le˧-dzɯ˥ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Ddeehin jjo lefu niq, gexi gua ji, lezzi zimu.</FORM>
     <NOTE xml:lang="fr" message="le˧-fv̩˧-ɲi˥: on pourrait aussi dire le˧-fv̩˧-ze˧. Remarque de 2007"/>
     <TRANSL xml:lang="fr">Les gens importants, comme ils sont bien contents [mot na], qu’ils sont contents [emprunt chinois] [de la portion qu’ils ont reçue], ils mangent.</TRANSL>
@@ -2405,7 +2405,7 @@
   </S>
   <S id="Sister_S038">
     <AUDIO start="128.9633" end="131.7128"/>
-    <FORM kindOf="phono">«ɕi˧ɕi˩lo˩ dʑo˩ | kʰv̩˩mi˩˥ | no˧ dzɯ˧-hõ˧!» | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">«ɕi˧ɕi˩lo˩ dʑo˩ | kʰv̩˩mi˩˥ | no˧ dzɯ˧-hõ˧!» | pi˧ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">"Xixilo jjo kumi no zzi hon!" bi zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté ɕi˥ɕi˧lo˩: désigne les plus petites des côtelettes"/>
     <NOTE xml:lang="fr" message="confirmé: est bien nasalisé: /hõ˧/; n’est pas /hṽ̩/; ton: d’abord noté ˩˥, du fait de facteurs intonatifs; vérifié en juin 08: est bien ˧)"/>
@@ -2643,7 +2643,7 @@
   </S>
   <S id="Sister_S042">
     <AUDIO start="139.2363" end="141.3907"/>
-    <FORM kindOf="phono">hɑ˧ʂɯ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩!</FORM>
+    <FORM kindOf="phono">hɑ˧ʂɯ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥ tsɯ˩ ◊ mv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩!</FORM>
     <FORM kindOf="ortho">Haeshi, tee niq yi ggu niq zimu, eyishei!</FORM>
     <NOTE xml:lang="fr" message="pourquoi le ton ˥ sur la copule, alors que le verbe qui précède a un ton lexical ˧ ? comme plus haut …ɖɯ˧ dʑo˥…, venant de: /ɖɯ˧/+/dʑo˩/; aussi: tʰi˧-ʂɯ-ɲi˥, dans la 3e version de l'histoire, provenant d'un ton ˧"/>
     <TRANSL xml:lang="fr">Eh oui, ça c’est bel et bien passé comme ça, jadis, à ce qu’on raconte!</TRANSL>
@@ -2687,7 +2687,7 @@
   </S>
   <S id="Sister_S043">
     <AUDIO start="141.0391" end="145.0062"/>
-    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˧-go˧mi˥ | tʰi˩˥, | ɖɯ˧-dze˩ lɑ˩ ɲi˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | ə˧mv̩˧-go˧mi˥ | tʰi˩˥, | ɖɯ˧-dze˩ lɑ˩ ɲi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, amuggomi, tiq, ddeezzei la niq zimu.</FORM>
     <NOTE xml:lang="fr" message="/ɖɯ˧-dze˩/ «une paire»: d’abord noté /‡ɖɯ˧tse˩/"/>
     <TRANSL xml:lang="fr">Alors… aîné et cadette, ça, ça forme une paire (=c’est indissociable).</TRANSL>
@@ -2921,7 +2921,7 @@
   </S>
   <S id="Sister_S049">
     <AUDIO start="153.8218" end="158.3136"/>
-    <FORM kindOf="phono">&lt;tʰi˩˥, | ə˧mv̩˩ ki˧ tʰi˧-mɤ˧-tɕ… go˧mi˧…&gt; ə˧mv̩˧˥ | le˧-tsʰɯ˩ | tʰi˩˥, | go˧mi˧-ɳɯ˧ | ə˧mv̩˧˥ | mɤ˧-sɯ˥-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">&lt;tʰi˩˥, | ə˧mv̩˩ ki˧ tʰi˧-mɤ˧-tɕ… go˧mi˧…&gt; ə˧mv̩˧˥ | le˧-tsʰɯ˩ | tʰi˩˥, | go˧mi˧-ɳɯ˧ | ə˧mv̩˧˥ | mɤ˧-sɯ˥ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, amu lecee, tiq, ggomi nee amu mesi zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté: ə˧mv̩˥ ki˥ tʰi˧ mɤ˧-ki˥, go˧mi˧…"/>
     <NOTE xml:lang="fr" message="observation phonétique: syllabe mv̩˩ très réduite"/>
@@ -3264,7 +3264,7 @@
   </S>
   <S id="Sister_S056">
     <AUDIO start="172.7311" end="173.8778"/>
-    <FORM kindOf="phono">gv̩˩dʑɯ˩˥ | le˧-hɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">gv̩˩dʑɯ˩˥ | le˧-hɯ˩-ɲi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">ggujji lehee niq zimu.</FORM>
     <NOTE xml:lang="fr" message="le˧-hɯ˩-ɲi˩: en 2006, noté ˧ ˩ ˩, puis ˥ ˧ ˩; conservais des doutes; tons vérifiés en juin 08: la syllabe /le˧/ est en fait plus haute que /dʑi/: montée de /dʑi/ se termine pendant la syllabe suivante)"/>
     <NOTE xml:lang="fr" message="d'abord noté /‡dʑi/ "/>
@@ -3391,7 +3391,7 @@
   </S>
   <S id="Sister_S058">
     <AUDIO start="178.6544" end="181.9703"/>
-    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̍˧˥ ◊ -tsɯ˩ ◊ -mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
+    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̍˧˥ ◊  tsɯ˩ ◊ mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
     <FORM kindOf="ortho">raesi bbi teechu zimu, lepo hee!</FORM>
     <NOTE xml:lang="fr" message="ʈʂʰv̩˧˥: ici réalisé phonétiquement proche de [ʈʂʰwe]: la diphtongaison du /v/ est particulièrement forte; l’insistance sur ce mot crée une tension entre la bonne réalisation de la rime /v/, fricative et fermée, d’une part, et l’ouverture plus grande qui résulte de l’insistance; cette tension a pour résultat un mouvement ouvrant qui modifie considérablement la rime"/>
     <NOTE xml:lang="fr" message="/ʐæ˩sɯ˩bi˧/: d’abord noté ‡˧ ˧ ˥; corrigé en 2007"/>
@@ -3559,7 +3559,7 @@
   </S>
   <S id="Sister_S061">
     <AUDIO start="188.4561" end="190.5377"/>
-    <FORM kindOf="phono">sɯ˩tʰi˩ pv̩˧-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+    <FORM kindOf="phono">sɯ˩tʰi˩ pv̩˧-ɲi˩ tsɯ˩ ◊ mv̩˩!</FORM>
     <FORM kindOf="ortho">Seeti beuq niq zimu!</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés; schéma tonal régulier"/>
     <TRANSL xml:lang="fr">(Le frère) a sorti son couteau! (Ce détail est soufflé par le fils de la conteuse, qui lui indique qu'elle n'a pas explicité cet élément de l’histoire: le grand frère sort son couteau)</TRANSL>
@@ -3738,7 +3738,7 @@
   </S>
   <S id="Sister_S064">
     <AUDIO start="195.7160" end="197.8487"/>
-    <FORM kindOf="phono">tʰi˩˥, | go˧mi˧ le˧-ʂɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | go˧mi˧ le˧-ʂɯ˧-ɲi˥ tsɯ˩ ◊ mv̩˩!</FORM>
     <FORM kindOf="ortho">Tiq, ggomi leshi niq zimu!</FORM>
     <TRANSL xml:lang="fr">Alors, la petite sœur est morte.</TRANSL>
 	<TRANSL xml:lang="en">Then, the little sister died!</TRANSL>
@@ -3857,7 +3857,7 @@
   </S>
   <S id="Sister_S066">
     <AUDIO start="201.6978" end="206.2626"/>
-    <FORM kindOf="phono">ɑ˩ʁo˧ tʰi˩˥, | so˩-ɲi˩-so˩-hɑ̃˧ hĩ˧ le˧-qæ˧˥ | mɤ˧-&lt;ʂɯ˧-mɤ˧-hĩ˥-tsɯ˩ ◊ -mv̩˩&gt; | mɤ˧-mv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+    <FORM kindOf="phono">ɑ˩ʁo˧ tʰi˩˥, | so˩-ɲi˩-so˩-hɑ̃˧ hĩ˧ le˧-qæ˧˥ | mɤ˧-&lt;ʂɯ˧-mɤ˧-hĩ˥ tsɯ˩ ◊ mv̩˩&gt; | mɤ˧-mv̩˩ tsɯ˩ ◊ mv̩˩!</FORM>
     <FORM kindOf="ortho">awo, tiq, soni sohan hin leghae meshi mehin zimu, memu zimu!</FORM>
     <NOTE xml:lang="fr" message="mɤ˧-hĩ˥: d’après F4 2007, n’est pas utile; serait «préférable de l’omettre»"/>
     <NOTE xml:lang="fr" message="tʰi˩˥: ici, réalisé sans aspiration"/>
@@ -3991,7 +3991,7 @@
   </S>
   <S id="Sister_S068">
     <AUDIO start="208.0009" end="210.7106"/>
-    <FORM kindOf="phono">ɖɯ˧-tɕo˧ ʈʂe˩-ɻ̍˩, | le˧-qæ˧˥ | mɤ˧-mv̩˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">ɖɯ˧-tɕo˧ ʈʂe˩-ɻ̍˩, | le˧-qæ˧˥ | mɤ˧-mv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Ddeejo zhei'er, leghae memu zimu.</FORM>
     <NOTE xml:lang="fr" message="le /ɻ/ est très discret, et à la réécoute la locutrice préférerait en faire l’économie; mais sa présence est bien vérifiée)"/>
     <NOTE xml:lang="fr" message="d’abord noté /læ˧-kæ˧ mɤ˧-mv̩˩/; vérification en mars 09: est /le˧qæ˧˥, | mɤ˧-mv̩˩/; n’est pas /le˧-qæ˧ mɤ˥-mv̩˩/; càd que le résultatif n’est pas incorporé dans le mot phonologique."/>
@@ -4479,7 +4479,7 @@
   </S>
   <S id="Sister_S076">
     <AUDIO start="231.8111" end="234.0460"/>
-    <FORM kindOf="phono">tʰi˧-qæ˧˥ | tɕi˩ dʑo˩ | tʰi˩˥, | le˧-se˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˧-qæ˧˥ | tɕi˩ dʑo˩ | tʰi˩˥, | le˧-se˩-ɲi˩-kv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">teeghae ji jjo, tiq, lesei niq guq zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté /‡le˧˥ ◊ -se˩/"/>
     <NOTE xml:lang="fr" message="tʰi˧ kæ˧˥ tɕi˩: avais d’abord noté ‡˧˥ ˧˥ ˧, sur l’assurance de M18"/>
@@ -4698,9 +4698,9 @@
   </S>
   <S id="Sister_S081">
     <AUDIO start="242.5037" end="244.6620"/>
-    <FORM kindOf="phono">«æ˧hi˩hi˩!» | pi˧, | le˧-bi˩-zo˩-kv̩˩ | tsɯ˧˥ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">«æ˧hi˩hi˩!» | pi˧, | le˧-bi˩-zo˩-kv̩˩ | tsɯ˧˥ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">"Ahihi!" bi, lebbi ssogu zimu.</FORM>
-    <NOTE xml:lang="fr" message="d'abord noté /‡le˧-bi˩-zo˩-kv̩˩-tsɯ˧-mv̩˩/; on pourrait également dire: /le˧-bi˩-zo˩-kv̩˩-tsɯ˩ ◊ -mv̩˩/"/>
+    <NOTE xml:lang="fr" message="d'abord noté /‡le˧-bi˩-zo˩-kv̩˩-tsɯ˧-mv̩˩/; on pourrait également dire: /le˧-bi˩-zo˩-kv̩˩ tsɯ˩ ◊ mv̩˩/"/>
     <NOTE xml:lang="fr" message="le˧-bi˩-zo˩-kv̩˩: se mettre en chemin; rappel: /bi˧/ est irrégulier"/>
     <NOTE xml:lang="fr" message="avais d’abord noté /‡le˩˥ | -bi˧-zo˧-kv̩˧/; phonétiquement: ressemble à: le˧˥bi˧; mais est bien vérifié: est le˧-bi˩"/>
     <NOTE xml:lang="fr" message="/æ˧hi˩hi˩/ (d’abord noté æ˥hi˥hi˥, puis pensé que c'était atone: /‡æ.hi.hi/): cri de défiance/de défi/de provocation, lancé par quelqu'un qui est prêt au combat; ce sont les hommes qui crient «æ˧hi˩hi˩»; les femmes reprennent de même façon. "/>
@@ -4949,7 +4949,7 @@
   </S>
   <S id="Sister_S086">
     <AUDIO start="254.7411" end="256.5378"/>
-    <FORM kindOf="phono">to˩mi˩-bi˧ | so˩-dɑ˩-ɻ̍˩-zo˩-kv̩˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+    <FORM kindOf="phono">to˩mi˩-bi˧ | so˩-dɑ˩-ɻ̍˩-zo˩-kv̩˥ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Domi bbi sodda'er ssogu zimu.</FORM>
     <NOTE xml:lang="fr" message="so˩dɑ˩ɻ̍˧: tons vérifiés, n’est pas ˧ ˧ ˥"/>
     <NOTE xml:lang="fr" message="réécoute: F4 dicte clairement: so˩-dɑ˩-ɻ̍˩-zo˩-kv̩˧, tsɯ˩"/>
@@ -5195,7 +5195,7 @@
   </S>
   <S id="Sister_S092">
     <AUDIO start="267.6192" end="271.8919"/>
-    <FORM kindOf="phono">&lt;sɯ˧k…&gt; | &lt;õ˧ go˧mi˧ ʈʂʰɯ˧-hĩ˧…&gt; | ʈʂʰɯ˧ go˧mi˧ | zo˩no˥ | hĩ˧ki˧ki˩ pi˩, | sɯ˧kʰɯ˩-tsɯ˩ ◊ -mv̩˩! |</FORM>
+    <FORM kindOf="phono">&lt;sɯ˧k…&gt; | &lt;õ˧ go˧mi˧ ʈʂʰɯ˧-hĩ˧…&gt; | ʈʂʰɯ˧ go˧mi˧ | zo˩no˥ | hĩ˧ki˧ki˩ pi˩, | sɯ˧kʰɯ˩ tsɯ˩ ◊ mv̩˩! |</FORM>
     <FORM kindOf="ortho">onq ggomi tee hin, tee ggomi ssono hin gi gi bi, sikee zimu!</FORM>
     <TRANSL xml:lang="fr">&lt;le ri…&gt; &lt;notre sœur…&gt; de nos jours, (si) notre sœur s'est mariée, eh bien, [lors de son décès] on réalise le rite «sɯ˧kʰɯ˩»!</TRANSL>
 	<TRANSL xml:lang="en">nowadays, (if) your sister is given in marriage (to another family), (the ritual) 'sikee' (is carried out).</TRANSL>
@@ -5487,7 +5487,7 @@
   </S>
   <S id="Sister_S098">
     <AUDIO start="284.3210" end="285.3344"/>
-    <FORM kindOf="phono">le˧-jo˩-kv̩˩-tsɯ˩ ◊ -mv̩˩ |</FORM>
+    <FORM kindOf="phono">le˧-jo˩-kv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">leyo guq zimu.</FORM>
     <TRANSL xml:lang="fr">Ils viennent.</TRANSL>
 	<TRANSL xml:lang="en">(They) can come, it's said. (Traditionally, they must come.)</TRANSL>
@@ -7293,7 +7293,7 @@
   </S>
   <S id="Sister_S129">
     <AUDIO start="364.1695" end="365.4936"/>
-    <FORM kindOf="phono">gɯ˩ʝi˧ | ʈʂʰɯ˧-kʰwɤ˥ dʑo˩! | hĩ˧=ɻæ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-tsɯ˩ mæ˩! |</FORM>
+    <FORM kindOf="phono">gɯ˩ʝi˧ | ʈʂʰɯ˧-kʰwɤ˥ dʑo˩! | hĩ˧=ɻæ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧ tsɯ˩ mæ˩! |</FORM>
     <FORM kindOf="ortho">Ggeeq yi teekua jjo! Hinlae tee niq yi ggu ziq mae!</FORM>
     <NOTE xml:lang="fr" message=" d'abord noté /‡kʰwɤ˧/"/>
     <NOTE xml:lang="fr" message="vérifié: n’est pas /tsɯ˩ mv̩˩/"/>
@@ -7597,7 +7597,7 @@
   </S>
   <S id="Sister_S134">
     <AUDIO start="377.5190" end="378.9430"/>
-    <FORM kindOf="phono">tʰv̩˧-v̩˧-qo˩ | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩! |</FORM>
+    <FORM kindOf="phono">tʰv̩˧-v̩˧-qo˩ | le˧-tsʰɯ˩-ɲi˩ tsɯ˩ ◊ mv̩˩! |</FORM>
     <FORM kindOf="ortho">teevu gho lecee niq zimu!</FORM>
     <NOTE xml:lang="fr" message="à la transcription, F4 propose de corriger tʰv̩˧-v̩˧ en ʈʂʰɯ˧-v̩˧"/>
     <TRANSL xml:lang="fr">il est arrivé chez cette personne-là (=il représente le chien qui est arrivé dans cette maisonnée-là: pendant qu'on fêtait le mariage).</TRANSL>
@@ -7752,7 +7752,7 @@
   </S>
   <S id="Sister_S137">
     <AUDIO start="385.9717" end="387.6206"/>
-    <FORM kindOf="phono">æ˧ʂæ˧-tɑ˩mv̩˩ | ʈʂʰɯ˧ne˧-ʝi˥ pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+    <FORM kindOf="phono">æ˧ʂæ˧-tɑ˩mv̩˩ | ʈʂʰɯ˧ne˧-ʝi˥ pi˧-kv̩˩ tsɯ˩ ◊ mv̩˩!</FORM>
     <FORM kindOf="ortho">Eshae damu tee niq yi bi guq zimu!</FORM>
     <NOTE xml:lang="fr" message="/mv̩˩/: vérifié, est bien /mv̩˩/, mais réalisé phonétiquement proche de [mæ]"/>
     <NOTE xml:lang="fr" message="æ˧ʂæ˧-tɑ˩mv̩˩: d'abord noté ‡˧ ˧ ˧ ˩"/>
@@ -7792,7 +7792,7 @@
   </S>
   <S id="Sister_S138">
     <AUDIO start="387.6206" end="388.7115"/>
-    <FORM kindOf="phono">ʈʂʰwɤ˧ | mɤ˧-ɖɯ˧ pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩! | kʰv̩˧nɑ˥…</FORM>
+    <FORM kindOf="phono">ʈʂʰwɤ˧ | mɤ˧-ɖɯ˧ pi˧-kv̩˩ tsɯ˩ ◊ mv̩˩! | kʰv̩˧nɑ˥…</FORM>
     <FORM kindOf="ortho">Chua meddee bi guq zimu!</FORM>
     <NOTE xml:lang="fr" message="d'abord noté /‡…ʈʂʰwɤ˩-mɤ˩-ɖɯ˩/"/>
     <TRANSL xml:lang="fr">on dit qu’(elle) ne reçoit pas de dîner!</TRANSL>
@@ -8239,7 +8239,7 @@
   </S>
   <S id="Sister_S146">
     <AUDIO start="416.8581" end="419.8626"/>
-    <FORM kindOf="phono">mi˩zɯ˩ hĩ˩-ki˧-ki˩-dʑo˩, | kʰv̩˧ʂæ˧-hĩ˥-qo˩-ɳɯ˩ | le˧-tsʰɯ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+    <FORM kindOf="phono">mi˩zɯ˩ hĩ˩-ki˧-ki˩-dʑo˩, | kʰv̩˧ʂæ˧-hĩ˥-qo˩-ɳɯ˩ | le˧-tsʰɯ˩-ɲi˩-kv̩˩ tsɯ˩ ◊ mv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
     <FORM kindOf="ortho">Missi hin gi gi jjo, kushaehin gho nee lecee niq guq zimu, eyishei!</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés, est: mi˩zɯ˩hĩ˩ki˧ki˩"/>
     <TRANSL xml:lang="fr">La femme qui se mariait, elle venait de la famille de l'homme qui chassait/de la famille du chasseur, au temps jadis.</TRANSL>
@@ -8979,10 +8979,10 @@
   </S>
   <S id="Sister_S159">
     <AUDIO start="451.0572" end="453.9295"/>
-    <FORM kindOf="phono">«dzɯ˧-gɤ˥ dzɯ˩-mɤ˩-dze˩»-dʑo˩, | «kʰv̩˧nɑ˥ | no˧ dzɯ˧-hõ˧!» pi˩-ɲi˩-tsɯ˩ ◊ -mv̩˩</FORM>
+    <FORM kindOf="phono">«dzɯ˧-gɤ˥ dzɯ˩-mɤ˩-dze˩»-dʑo˩, | «kʰv̩˧nɑ˥ | no˧ dzɯ˧-hõ˧!» pi˩-ɲi˩ tsɯ˩ ◊ mv̩˩</FORM>
     <FORM kindOf="ortho">"Zzi gge zzi mezzei" jjo, "Kuna no zzi hon!" bi niq zimu.</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés, n’est pas no˩ dzɯ˩ hõ˩"/>
-	<NOTE xml:lang="fr" message="d'abord noté /‡| pi˧-ɲi˩-tsɯ˩ ◊ -mv̩˩/. Est en fait /…pi˩-ɲi˩-tsɯ˩ ◊ -mv̩˩/, intégré au groupe tonal qui précède. Il serait également possible de dire: /| pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩/."/>
+	<NOTE xml:lang="fr" message="d'abord noté /‡| pi˧-ɲi˩ tsɯ˩ ◊ mv̩˩/. Est en fait /…pi˩-ɲi˩ tsɯ˩ ◊ mv̩˩/, intégré au groupe tonal qui précède. Il serait également possible de dire: /| pi˧-ɲi˥ tsɯ˩ ◊ mv̩˩/."/>
     <TRANSL xml:lang="fr">«Y'a pas assez à manger, on va quand même pas laisser des restes!» qu'il a dit, à ce qu'on raconte.</TRANSL>
 	<TRANSL xml:lang="en">"(There's) not (even) enough food for leftovers," (the brother) said. "Black dog, you eat it!" it's told.</TRANSL>
     <TRANSL xml:lang="zh">（哥哥）说了：“这么小的这一点饭，总不会剩下的！黑狗，你吃了吧！</TRANSL>
@@ -9281,7 +9281,7 @@
   </S>
   <S id="Sister_S163">
     <AUDIO start="465.2264" end="466.1518"/>
-    <FORM kindOf="phono">õ˧ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+    <FORM kindOf="phono">õ˧ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥ tsɯ˩ ◊ mv̩˩!</FORM>
     <FORM kindOf="ortho">On tee niq yi ruaq niq zimu!</FORM>
     <NOTE xml:lang="fr" message="confirmé par F4: /õ˧ʈʂʰɯ˧ne˧-ʝi˥/ forme un unique mot, équivalent pour un adverbe de manière («ainsi») d'un démonstratif distal"/>
     <NOTE xml:lang="fr" message="confirmé par F4: ici, /ɲi/ est la copule, non le verbe «vouloir/avoir besoin de»."/>
@@ -9316,7 +9316,7 @@
   </S>
   <S id="Sister_S164">
     <AUDIO start="466.1518" end="468.1888"/>
-    <FORM kindOf="phono">tʰi˩˥, | æ˧ʂæ˧-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩! |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | æ˧ʂæ˧-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩ tsɯ˩ ◊ mv̩˩! |</FORM>
     <FORM kindOf="ortho">Tiq, eshae jjo, tee niq yi bi guq zimu!</FORM>
     <TRANSL xml:lang="fr">alors, jadis, c'est comme ça qu'on peut raconter (l'histoire), à ce qu'on dit! (=voilà tout ce que dit l’histoire!)</TRANSL>
 	<TRANSL xml:lang="en">Well, in the past, it was told like this!</TRANSL>
