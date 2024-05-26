@@ -14,7 +14,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Chicken.
 \ge chicken
@@ -53,12 +52,11 @@
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" print="n"> (homophone de «poulet"); cf «miroir" (491)
-\nt <type="hist" print="n"> nasalité: vérifié en août 2014
+\nt <type="hist" print="n"> à l'isolée, homophone de «poulet». C'est également la même voyelle que dans la première syllabe de «miroir».
+\nt <type="hist" print="n"> Présence de nasalité vérifiée en août 2014.
 \ton LH
 \lc æ̃˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Soul (monosyllable).
 \ge soul(monosyll.)
@@ -81,11 +79,13 @@
 \ton H
 \lc æ̃˧
 \so <print="n"> F4
-\va <speaker="F5"> ID.; aussi: æ˧ ʂɯ˩kwæ˩-i˧-hĩ˧, calqué sur le chinois; ton m2
-\vf différent de celui de F4
+\va <speaker="F5"> æ̃˧
+\vf ton différent de celui de la locutrice F4
 \vf <type="tone"> M
 \va <speaker="M18"> æ˧
-\va <speaker="M21"> æ˧, ton m4
+\va <speaker="M21"> æ˧
+\vf même ton que celui de la locutrice F4
+\va <speaker="M23"> æ˧
 \de Brass, copper, bronze.
 \ge brass
 \dn 铜，包括黄铜、红铜、青铜
@@ -101,7 +101,11 @@
 \xn “打铜的人，不打铁！”这两种工作需要不同的能力：打铁的师傅需要体力，打铜的师傅需要技巧。这句谚语意指：每个人都有他的专攻（不能随便跨越到其它领域）。
 \xf «Celui qui travaille le cuivre, il ne doit pas travailler le fer/on ne doit pas lui confier de tâches de forgeron (=travail du fer)!» Ces deux spécialités demandent des qualités différentes: de la force physique pour le travail du fer, et du soin pour le travail du cuivre. Le dicton s'emploie pour souligner que chacun a son domaine de compétence.
 \xc PROVERBE
-\dt 12/May/2017
+\xv æ˧ | ʂɯ˩kwæ˩-hĩ˧
+\xe ‘yellow copper’: calque of the Chinese noun |fn{黄铜}.
+\xn 汉语“黄铜”的直译。
+\xf «cuivre jaune»: expression calquée sur le chinois |fn{黄铜}.
+\rf F5
 
 \lx ɑ˩˧
 \sf <nb="B"> 1793
@@ -118,7 +122,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vf emprunt
-\pdl classifier
 \pdv mi˩
 \de Goose.
 \ge goose
@@ -150,7 +153,6 @@
 \lc æ˧bæ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Goitre.
 \ge goitre
@@ -215,7 +217,6 @@
 \lc æ̃˩bv̩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Poultry yard.
 \ge poultry_yard
@@ -238,7 +239,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Ard. There are no distinct words for ‘ard' and ‘plough'; only ards were in use at the time of fieldwork.
 \ge ard
@@ -261,7 +261,6 @@
 \ton LH
 \lc æ˩mo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Used ard, plough which cannot be used anymore.
 \ge used_ard
@@ -286,7 +285,6 @@
 \ton LM
 \lc æ˩mo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Beam of the ard, pole of the ard: a long piece of wood linking the yoke to the sole.
 \ge beam_of_the_ard
@@ -312,7 +310,6 @@
 \ton L+H#
 \lc æ˩gv̩˩mæ˩qo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Handle (stilt) of the ard, used to control the ard's direction and the furrow's depth.
 \ge ard_handle
@@ -476,7 +473,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> æ˩ɬi˧pʰæ˧˥; en cadre: ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥
-\pdl classifier
 \pdv pʰæ˧˥
 \de Mirror.
 \ge mirror
@@ -500,7 +496,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \pdc <langue="fra"> individu
 \de Soul.
@@ -525,7 +520,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Hen.
 \ge hen
@@ -563,7 +557,6 @@
 \vf sens vérifié
 \va <speaker="M21"> idem M23
 \va <speaker="M23"> æ˩mi˧mv̩˧ʈv̩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Anklebone, bone of the top of the foot.
 \ge anklebone
@@ -584,7 +577,7 @@
 \ton LM+#H
 \lc æ˩mi˧ʁwɤ˧
 \so <print="n"> F4
-\de Amiwa. This is the first village along the road from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}. In traditional Na geography, which takes Lake Lugu as a point of origin, Amiwa is the third village of the plain.
+\de Amiwa. This is the first village along the road from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}. In traditional Na geography, which takes Lugu Lake as a point of origin, Amiwa is the third village of the plain.
 \ge Amiwa.place_name
 \dn 阿咪瓦、阿米瓦（永宁坝子的一个村落）
 \gn 阿咪瓦村
@@ -604,7 +597,6 @@
 \ton LM+#H
 \lc ɑ˩mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female goose.
 \ge female_goose
@@ -634,7 +626,6 @@
 \va <speaker="M18"> æ˧ni˧
 \vf non palatalisé
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Suona, trumpet.
 \ge trumpet
@@ -660,7 +651,6 @@
 \vf <type="tone"> L+MH#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Cliff, overhanging cliff. This term designates the top of the cliff: the relatively flat ground close to the precipice. To refer to the steep (vertical) side of the cliff, one adds |fv{/lɑ˧bi˧/} ‘steep slope'.
 \ge cliff
@@ -716,9 +706,7 @@
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
 \xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi : aller chercher du travail à la ville
-\xc
 \xv ɑ˩pʰo˩ kwɤ˥
-\xo
 \xe to throw away
 \xn 扔掉
 \xf jeter (à la poubelle), se débarrasser de
@@ -775,7 +763,6 @@
 \ton LM+#H
 \lc ɑ˩pʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Gander; male goose.
 \ge gander
@@ -803,7 +790,6 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧qæ˩
 \vf +ɲi˩
-\pdl classifier
 \pdv mi˩
 \de Parrot.
 \ge parrot
@@ -873,7 +859,6 @@
 \va <speaker="F5"> æ˩qʰv̩˥
 \vf <type="tone"> L+#H
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Cave, cavern, crevice (difficult to enter, or too small for a person to enter).
 \ge cavern
@@ -909,7 +894,6 @@
 \vf confirmé
 \vf parmi les 4 formulations, la dernière a la préférence de TS
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Home, central room in the house.
 \ge home
@@ -960,7 +944,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Egg.
 \ge egg
@@ -991,7 +974,6 @@
 \lc æ˧ʁwæ˧
 \so <print="n"> F4
 \va <speaker="M23"> æ˧ʁwæ˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Apricot.
 \ge apricot
@@ -1041,7 +1023,6 @@
 \cf æ˧ʂæ˧-tɑ˩mv̩˩
 \cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Folk tale, tradition; this term is more colloquial than |fv{/æ˧ʂæ˧-tɑ˩mv̩˩/}.
 \ge folk_tale
@@ -1099,7 +1080,6 @@
 \vf d'abord noté …kʶwɑ˧
 \vf tons confirmés; d'abord noté ˧ ˧ ˥
 \va <speaker="M21"> æ˧ʂæ˧, ton d2a; æ˧ʂæ˧kʶwɑ˧˥, æ˧ʂæ˧kʶwɑ˧ ʐwɤ˧˥ «raconter une histoire"
-\pdl classifier
 \pdv kʰwɤ˥
 \de Story, folk tale.
 \ge story
@@ -1135,7 +1115,6 @@
 \cf æ˧ʂæ˧-qʰwɤ˧˥
 \cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Proverb, saying, adage.
 \ge proverb
@@ -1186,7 +1165,6 @@
 \cf æ˧ʂæ˧-qʰwɤ˧˥
 \cf æ˧ʂæ˧-tɑ˩mv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Sayings of the old times, oral traditions of the old times.
 \ge oral_traditions
@@ -1208,7 +1186,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Muscle.
 \ge muscle
@@ -1258,7 +1235,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Rooster.
 \ge rooster
@@ -1287,7 +1263,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Kneebone.
 \ge kneebone
@@ -1307,7 +1282,6 @@
 \ton H#
 \lc æ̃˧tsɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Chick.
 \ge chick
@@ -1349,7 +1323,6 @@
 \cf pɤ˩lv̩˩
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Nape of neck.
 \ge nape
@@ -1375,7 +1348,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Large rock.
 \ge large_rock
@@ -1433,7 +1405,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Copper pot.
 \ge copper_pot
@@ -1451,7 +1422,6 @@
 \ton LM+#H
 \lc ɑ˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧, mi˩
 \de Gosling, baby goose.
 \ge gosling
@@ -1475,7 +1445,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> æ˩zɯ˩˧, ton d3; d'après ts: sens: est du jade de couleur verte
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Agate. Agate of various colours is used in ornamentation. Beads range from the size of a quail egg to that of a chicken's egg.
 \ge agate
@@ -1531,8 +1500,6 @@
 \gn 反射
 \df Réfléchir, renvoyer (un miroir renvoie la lumière; une cloison/toiture étanche renvoie la pluie =est étanche à la pluie).
 \gf renvoyer
-\xv
-\dt 14/Jul/2017
 
 \lx æ̃˩α
 \hm 2
@@ -1575,7 +1542,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> bæ˩˧, ton m3
 \vf réalisé montant en forme de citation
-\pdl classifier
 \pdv ʈʰɤ˥
 \pdv ɖæ˩
 \pdv kʰɯ˩
@@ -1638,7 +1604,6 @@
 \ton LM
 \lc bæ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv bæ˩
 \de Crops.
 \ge crops
@@ -1679,7 +1644,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈʰɤ˥
 \de Pus.
 \ge pus
@@ -1785,7 +1749,6 @@
 \lc bæ˩bæ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv bæ˩
 \de Flower.
 \ge flower
@@ -1835,7 +1798,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Piglet.
 \ge piglet
@@ -1857,7 +1819,6 @@
 \ton M
 \lc bæ˧ɖæ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Short rope.
 \ge short_rope
@@ -1879,7 +1840,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv bæ˩
 \de Crops, harvest.
 \ge crops/harvest
@@ -1917,7 +1877,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> bɑ˩ɬɑ˩˧, ton d3
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Jacket, upper outer garment; clothes.
 \ge jacket
@@ -1934,7 +1893,6 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n"> tv
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Placenta.
 \ge placenta
@@ -1963,7 +1921,6 @@
 \vf ton différent de F4
 \vf sens/composition: n'est pas le même mot que “vêtement" /bɑ.lɑ/
 \va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
-\pdl classifier
 \pdv kʰɯ˩
 \de Spider.
 \ge spider
@@ -1974,7 +1931,6 @@
 \sn 2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\pdl classifier
 \pdv kʰɯ˩
 \de Spider web, cobweb.
 \ge cobweb
@@ -2026,7 +1982,6 @@
 \va <speaker="M21"> ID.
 \vf réalise proche de: bæ˩li˥li˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de China fir cone.
 \ge China_fir_cone
@@ -2051,7 +2006,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Duck (without a specification of gender).
 \ge duck
@@ -2088,7 +2042,6 @@
 \ton M
 \so <print="n"> F4
 \sn 1
-\pdl classifier
 \pdv kʰɯ˩
 \de Thick rope.
 \ge thick_rope
@@ -2097,7 +2050,6 @@
 \df Grosse corde.
 \gf grosse_corde
 \sn 2
-\pdl classifier
 \pdv kʰɯ˩
 \de Long rope.
 \ge long_rope
@@ -2115,7 +2067,6 @@
 \sd <langue="eng"> animal
 \ton -L
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female duck. This form with a feminine suffix is cumbersome and clumsy, and is only used in cases where the aim is to remove any ambiguity about the sex of the animal.
 \ge female_duck
@@ -2133,7 +2084,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male duck.
 \ge male_duck
@@ -2155,7 +2105,6 @@
 \sd <langue="eng"> plant
 \ton L+H#
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Crowndaisy chrysanthemum, |fi{Glebionis coronaria}.
 \ge crowndaisy_chrysanthemum
@@ -2182,7 +2131,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male duck.
 \ge male_duck
@@ -2253,7 +2201,6 @@
 \xe |fv{/bæ˧ʁwɤ˧/} is a Na village!
 \xn |fv{/bæ˧ʁwɤ˧/}是一个摩梭人村落！
 \xf |fv{/bæ˧ʁwɤ˧/}, c'est un village na!
-\xc
 \xv bæ˧ʁwɤ˧-nɑ˩
 \xe Na (Mosuo) people from |fv{/bæ˧ʁwɤ˧/}.
 \xn 巴瓦摩梭
@@ -2275,7 +2222,6 @@
 \vf <type="tone"> H#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Broom.
 \ge broom
@@ -2298,7 +2244,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ʐwæ˧-bæ˧ʈʂwæ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Reins.
 \ge reins
@@ -2320,7 +2265,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Duckling.
 \ge duckling
@@ -2608,7 +2552,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʁwɤ˧
 \de Snow.
 \ge snow
@@ -2631,7 +2574,6 @@
 \sd <langue="eng"> plant
 \ton LM
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Pod (of bean).
 \ge pod
@@ -2692,7 +2634,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> bi˧ɕju˧ku˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Cheek.
 \ge cheek
@@ -2719,7 +2660,6 @@
 \vf ton différent de celui de F4, qui est d2; confirmé); ʐwæ˧bi˧hæ˥
 \vf conforme au ton lexical d1
 \va <speaker="M23"> bi˧hæ˥
-\pdl classifier
 \pdv kʰɯ˩
 \de Girth (for horse).
 \ge girth
@@ -2746,7 +2686,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Snow flakes.
 \ge snow_flakes
@@ -2769,7 +2708,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Axe.
 \ge axe
@@ -2793,7 +2731,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Belly, abdomen.
 \ge belly
@@ -2854,7 +2791,6 @@
 \nt <type="sem"> définition en mosuo: ɖʐe˧kʰɯ˧di˧˥, objet ds lequel on met l'argent
 \ton LH
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Purse (used to be attached to the belt, on the inside).
 \ge purse
@@ -2906,7 +2842,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="M21"> bi˧tɑ˧, ton d1: selon M23, serait le vêtement des naxi, en peau de mouton
-\pdl classifier
 \pdv tsʰi˥
 \de Cape made of sheepskin and padded with felt, worn on the upper back. It kept the back warm and protected it against friction with loads carried on the shoulder.
 \ge cape
@@ -2948,7 +2883,6 @@
 \va <speaker="M18"> bi˥ tɕɤ˩
 \vf tons confirmés
 \va <speaker="M21"> bi˥tɕɤ˩, ton d4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Navel.
 \ge navel
@@ -2971,7 +2905,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bi˩ʈʂʰɤ˩˧
 \vf selon ts: désigne une barbe très fournie; en fait: favoris, rouflaquettes
-\pdl classifier
 \pdv kʰwɤ˥
 \de Whiskers.
 \ge whiskers
@@ -3012,7 +2945,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Services (or money) offered as remuneration to a religious practitioner for ritual services rendered.
 \ge remuneration
@@ -3035,7 +2967,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Lower abdomen.
 \ge lower_abdomen
@@ -3178,7 +3109,6 @@
 \df Refroidir, mettre à refroidir.
 \gf refroidir
 \xv tʰi˧-bo˩-kʰɯ˩!
-\xo
 \xe Let's leave it to cool down! (About a sizzling hot dish.)
 \xn 让凉一下！（菜很热，等凉了一下再吃）
 \xf On laisse refroidir! (Un plat est brûlant; on le laisse refroidir un peu avant de le manger.)
@@ -3205,7 +3135,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \pdv v̩˧
 \de Pig.
@@ -3245,7 +3174,6 @@
 \vf c) dʑi˩ tsɯ˩ bu˩˥
 \vf sens: “pente/côte qui retient l'eau"; bu˥: est le même mot que 29d
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Small slope at the edge of a field; one can walk on it, sit on it, put objects down here... In the old times, when land was abundant, peasants would leave these small areas uncultivated. Today, peasants tend to plane them down to enlarge cultivated fields.
@@ -3315,7 +3243,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bɤ˩; terme péjoratif: bɤ˧ zo˧ bæ˩ “idiot de Pumi"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Pumi (Prinmi) (ethnic group).
 \ge Pumi
@@ -3396,7 +3323,6 @@
 \ton L-
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pig's belly.
 \ge pig_belly
@@ -3417,7 +3343,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pigsty, pigpen.
 \ge pigsty
@@ -3502,7 +3427,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv tsʰi˥
 \de Pigskin, hogskin.
 \ge pigskin
@@ -3531,7 +3455,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Pig feed, swill.
 \ge pig_swill
@@ -3554,7 +3477,6 @@
 \va <speaker="F5"> bu˩kʰɯ˧tsʰɤ#˥
 \vf <type="tone"> #H
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pig's feet: dried meat preserved in the skin of the pig's foot.
 \ge pig_s_feet
@@ -3579,7 +3501,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Sifter, sieve.
 \ge sieve
@@ -3645,7 +3566,6 @@
 \vf <type="tone"> L+MH#
 \va <speaker="M21"> bo˩ɬɑ˧
 \vf hésitations quant au ton: d'abord noté au ton LM+#H, puis entendu comme un ton LM (28 mai 2008; cf enregistrement audio et électroglottographique. L'hypothèse d'un ton LH est envisagée le 30 mai. Mais le bilan des enregistrements est que le comportement tonal de ‘verrat' est identique à celui de ‘truie' chez ce locuteur.
-\pdl classifier
 \pdv v̩˧
 \de Boar.
 \ge boar
@@ -3665,7 +3585,6 @@
 \ton LM
 \so <print="n"> F4
 \vf périphrase
-\pdl classifier
 \pdv ɭɯ˧
 \de Mortise.
 \ge mortise
@@ -3689,7 +3608,6 @@
 \np phonétiquement proche de: bu˩lo˧
 \ton LH
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Pork ribs.
 \ge pork_ribs
@@ -3713,7 +3631,6 @@
 \nt <type="hist" print="n"> (avant 09: noté: bu˩mæ˥ko˩, par erreur) “queue du cochon"
 \ton L-L#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Pig's tail.
 \ge pig_tail
@@ -3735,7 +3652,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \pdv v̩˧
 \de Sow.
@@ -3801,7 +3717,6 @@
 \vf emprunt
 \va <speaker="M21"> æ˩mi˧ɳwæ˧tɕʰi˩
 \vf “lait froid de la poule"); peut se manger; est le pissenlit; confirmé par ts, qui pense que la 2e formule, bu˩mi˧… est tout à fait équivalente et désigne la même plante. En revanche d'après M21, c'est une autre plante que: bu˩mi˧ɳwæ˧tɕʰi˩
-\pdl classifier
 \pdv po˧
 \de Dandelion.
 \ge dandelion
@@ -3821,7 +3736,6 @@
 \nt <type="hist" print="n"> Autre terme na: non connu de F4.
 \ton LM-L
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de |fi{Datura stramonium Linn.}, a medicinal plant: juice extracted from the plant used to be applied to suppurating wounds.
 \ge Datura_stramonium
@@ -3862,7 +3776,6 @@
 \sd <langue="eng"> ethnic groups
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Pumi woman.
 \ge Pumi_woman
@@ -3906,7 +3819,6 @@
 \va <speaker="M21"> bo˩ʈʂɤ˧
 \vf Il s'agirait d'un mot ancien (ton: LM). Le locuteur le traduit par |fn{种猪}. Il n'emploie pas |fv{/bo˩pʰv̩˧/}.
 \ve This would be an archaic word (tone: LM). The speaker translates it into Chinese as |fn{种猪}. He does not use the term |fv{/bo˩pʰv̩˧/}.
-\pdl classifier
 \pdv v̩˧
 \de Boar.
 \ge boar
@@ -3932,7 +3844,6 @@
 \va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bv̩˥
 \vf +ɲi˩
 \vf nom pas connu de F5
-\pdl classifier
 \pdv mi˩
 \de Dung beetle.
 \ge dung_beetle
@@ -4015,7 +3926,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \pdv qɑ˩
 \pdc <langue="fra"> morceaux
@@ -4076,7 +3986,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv tʰv̩˧˥
 \de Footprints.
 \ge footprints
@@ -4105,7 +4014,6 @@
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wild boar.
 \ge wild_boar
@@ -4206,7 +4114,6 @@
 \sd <langue="eng"> ethnic groups
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Pumi man.
 \ge Pumi_man
@@ -4334,7 +4241,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M18"> bv̩˩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Pen, corral for cattle.
 \ge pen
@@ -4370,7 +4276,6 @@
 \va <speaker="M21"> bv̩˩˧, ton 3
 \vf ss doute erreur du locuteur lors de l'élicitation
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Yak, |fi{Bos grunniens}. The same term is used for wild yaks and domesticated yaks.
 \ge yak
@@ -4411,7 +4316,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Food steamer.
 \ge food_steamer
@@ -4433,7 +4337,6 @@
 \vf <type="tone"> d'abord noté bv̩˥
 \va <speaker="F5"> ID.
 \vf <type="tone"> n'est pas m2
-\pdl classifier
 \pdv kʰɯ˩
 \de Intestine.
 \ge intestine
@@ -4465,7 +4368,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Worm; insect.
 \ge insect
@@ -4609,7 +4511,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Food steamer.
 \ge food_steamer
@@ -4634,7 +4535,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bv̩˧dze˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Large spoon, used for rice and soup.
 \ge large_spoon
@@ -4682,7 +4582,6 @@
 \va <speaker="M18"> bv̩˧
 \va <speaker="M21"> bv̩˧, ton m4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kwɤ˩
 \de Bowels: intestine+stomach.
 \ge bowels
@@ -4700,7 +4599,6 @@
 \sd <langue="eng"> house
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Wooden hut where shepherds stay while herding their flock on the mountain.
 \ge wooden_hut
@@ -4720,7 +4618,6 @@
 \nt <type="sem"> (confirmé à nouveau en 2011) (sémantique: avais traduit avant 2017 comme: 蚕; est corrigé par TS. Il n'existe pas de vers à soie à Yongning.)
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Worm.
 \ge worm
@@ -4746,7 +4643,6 @@
 \va <speaker="M21"> bv̩˩lv̩˩˥, ton d3
 \vf n'est pas lɯ
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Kidneys.
 \ge kidneys
@@ -4767,7 +4663,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="M23"> bv̩˩mi˩˧, ton d3
-\pdl classifier
 \pdv mi˩
 \de Female yak, dri, drimo, nak.
 \ge female_yak
@@ -4796,7 +4691,6 @@
 \sd <langue="eng"> object
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Large food steamer.
 \ge large_food_steamer
@@ -4886,7 +4780,6 @@
 \sd <langue="eng"> animal
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male yak (elicited form; the commonly used form is |fv{/bv̩˩ʂwæ˩/}).
 \ge male_yak
@@ -4906,7 +4799,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ʁwɤ˧
 \pdc <langue="fra"> tas
 \de Manure, dung.
@@ -4931,7 +4823,6 @@
 \nt <type="hist" print="n"> (avant 09: noté /bv̩˩ko˩ bv̩˥kʶæ˧/; tons vérifiés en 2006 et à nouveau en 2007, n'est pas ˧ ˧ ˥ ˩) (le schéma tonal attendu étant le même dans un composé déterminatif et dans un composé coordonné, il n'est pas aisé de savoir si c'est l'un ou l'autre type d'association qui est à l'origine du quadrisyllabe)
 \ton L-L#
 \so <print="n"> F4
-\pdl classifier
 \pdv ʁwɤ˧
 \de Manure, dung. Literally ‘manure in pen'.
 \ge manure
@@ -4955,7 +4846,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʁwɤ˧
 \de Manure, excrement.
 \ge manure
@@ -4988,7 +4878,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dze˩
 \pdc <langue="fra"> paire; explication: les conques vont par paires, chaque maisonnée en possède une paire
 \de Conch shell, |fi{Turbinella pyrum L.}. It is used in ceremonies. Each family has a pair of conchs.
@@ -5028,7 +4917,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-i˧-hĩ˧
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Snail.
 \ge snail
@@ -5051,7 +4939,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Fly.
 \ge fly
@@ -5105,7 +4992,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M23"> bv̩˩tsʰe˩tʰɑ˩˧
-\pdl classifier
 \pdv pʰo˧˥
 \de Castrated yak.
 \ge castrated_yak
@@ -5140,7 +5026,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv tɕi˧˥
 \pdc <langue="fra"> livre
 \pdv ɭɯ˧
@@ -5167,7 +5052,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Sifter, sieve.
 \ge sifter
@@ -5191,7 +5075,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Cymbals.
 \ge cymbals
@@ -5209,7 +5092,6 @@
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small food steamer.
 \ge small_food_steamer
@@ -5227,7 +5109,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de  yak calf (baby yak).
 \ge baby_yak
@@ -5254,7 +5135,6 @@
 \nt <type="hist" print="n"> +ɲi˩
 \np
 \ton M
-\pdl classifier
 \pdv mi˩
 \de Dragon.
 \ge dragon
@@ -5273,7 +5153,6 @@
 \sd <langue="eng"> plant
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Ivy.
 \ge ivy
@@ -5659,7 +5538,6 @@
 \va <speaker="F5"> *
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕy˩dzɯ˧ +ɲi˩
-\pdl classifier
 \pdv dzi˩
 \de Cypress.
 \ge cypress
@@ -5701,12 +5579,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɕi˧lv̩˧
-\pdl classifier
 \pdv kɤ˧˥
 \pdc <langue="fra"> pour le grain
 \pdc <langue="eng"> for paddy rice
 \pdc <langue="cmn"> 用来指稻子
-\pdl classifier
 \pdv pʰæ˧˥
 \pdc <langue="fra"> pour les champs
 \pdc <langue="eng"> for paddy fields
@@ -5731,7 +5607,6 @@
 \np schéma tonal: est traité comme: [champ de riz] sec, pas comme champ de [riz sec] qui donnerait ˧ ˧ ˧ ˥
 \ton -L#
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -5752,7 +5627,6 @@
 \lc ɕi˧lv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv pʰæ˧˥, kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -5775,7 +5649,6 @@
 \cf lv̩˧pʰv̩˩2
 \cf ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥, kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -5853,7 +5726,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mɤ˩
 \de Chaff; bran; husk (of rice).
 \ge chaff
@@ -5915,7 +5787,6 @@
 \ton -L-
 \lc ɕi˧tv̩˧di˩lv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥, kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -6071,7 +5942,6 @@
 \ton L
 \lc ɕjɤ˩jo˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de |fi{Fritillaria cirrhosa}.
 \ge Fritillaria cirrhosa
@@ -6095,7 +5965,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕju˩li˧˥, ton d5a; ɕju˩li˧mv̩˥: jouer de la flûte
-\pdl classifier
 \pdv ɭɯ˧
 \de Flute.
 \ge flute
@@ -6156,7 +6025,6 @@
 \xe to insult people; to criticize people
 \xn 骂人、批评人
 \xf insulter quelqu'un/ critiquer quelqu'un
-\xc
 \xv ʈʂʰɯ˧ njɤ˩ ɕjɤ˩tʰv̩˩.
 \xe He insults me.
 \xn 他骂我。
@@ -6419,7 +6287,6 @@
 \va <speaker="M18"> ID.; aussi: ɖæ˩ hu˧ sɯ˧sɯ˥ “la poussière vole partout"
 \va <speaker="M23"> ɖæ˩pʰv̩˧
 \sn 1
-\pdl classifier
 \pdv ti˧˥
 \pdc <langue="fra"> couche
 \de Dust.
@@ -6537,7 +6404,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ʁwɤ˧
 \de Dirt, filth.
 \ge dirt
@@ -6560,7 +6426,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dɑ˧i˩, ton d4
-\pdl classifier
 \pdv v̩˧
 \de Mule.
 \ge mule
@@ -6588,7 +6453,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Drum.
 \ge drum
@@ -6623,7 +6487,6 @@
 \xe to carry out the Ddaelaso ritual
 \xn 进行这种仪式
 \xf réaliser le rituel Ddaelaso
-\xc
 \xv ɖæ˩-lɑ˧so˧ li˩
 \xe to watch the Ddaelaso ritual
 \xn 看这种仪式
@@ -6687,7 +6550,6 @@
 \va <speaker="M18"> dɤ˧bɤ˧
 \vf d'abord noté dɑ˥ bɑ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Priest of the local religion.
 \ge priest_of_local_religion
@@ -6731,7 +6593,6 @@
 \ton LH
 \lc ɖæ˩pʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ti˧˥
 \de Dust, dirt.
 \ge dust
@@ -6754,7 +6615,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Host.
 \ge host
@@ -6998,7 +6858,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> di˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv di˩
 \de Earth (as in: the sky and the earth).
 \ge earth
@@ -7101,7 +6960,6 @@
 \ton L+H#
 \lc di˩gɤ˩lɑ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Earth spirit.
 \ge earth_spirit
@@ -7123,7 +6981,6 @@
 \ton L
 \lc di˩li˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qɑ˩
 \de Bracken.
 \ge bracken
@@ -7206,7 +7063,6 @@
 \vf ɬi˧ di˩: Yongning
 \va <speaker="M21"> ID.
 \va <speaker="M23"> di˧læ˧
-\pdl classifier
 \pdv di˩
 \de Large plain.
 \ge large_plain
@@ -7231,7 +7087,6 @@
 \ton M
 \lc di˧qo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv di˩
 \de Fields, cultivated lands.
 \ge fields
@@ -7252,7 +7107,6 @@
 \lc di˧ɻæ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv di˩
 \de Plain.
 \ge plain
@@ -7293,11 +7147,11 @@
 \ton Lα
 \lc di˩˥
 \so <print="n"> F4
-\de Existential verb: to have (a home); to have dirt on one's clothes; to have a different in length (two objects have a difference in length).
+\de Existential verb: to be present; to have (a home); to have dirt on one's clothes; to have a different in length (two objects have a difference in length).
 \ge |fg{exist}
-\dn 存在动词：有，拥有。例如：有家，有污垢在衣服上，有长短区别（两个物品有长短区别）
+\dn 存在动词：在，有，拥有。例如：有家，有污垢在衣服上，有长短区别（两个物品有长短区别）
 \gn 存在动词：有
-\df Existentiel; posséder. Possession non amovible aussi bien que transitoire: avoir une maison, aussi bien que: avoir une tache de graisse sur la joue; avoir une différence de longueur (deux objets ont une différence de longueur).
+\df Existentiel: pour décrire la présence d'un objet, aussi bien qu'une relation de possession. Type de présence: non amovible aussi bien que transitoire: avoir une maison, aussi bien que: avoir une tache de graisse sur la joue. Aussi: avoir une différence de longueur (deux objets ont une différence de longueur).
 \gf |fg{exist}
 \xv ʈʰɯ˧ | ɑ˩ʁo˧ mɤ˧-di˩-hĩ˩.
 \xe (S)he does not have a home. / (S)he is homeless.
@@ -7307,6 +7161,10 @@
 \xe there is grease (eg there is grease around the mouth of someone who has been biting away at large slabs of meat)
 \xn 有油（例如：一个人的嘴巴周围油乎乎，有油）
 \xf il y a de la graisse (ex.: autour de la bouche de quelqu'un qui vient de croquer de la viande à belles dents)
+\xv hi˩nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
+\xe there is a lake (there)
+\xn 有一片湖
+\xf il y a un lac, un lac se trouve là
 \xv ɖɯ˧-kʰwɤ˧ di˥
 \xe there is something
 \xn 有一块东西
@@ -7550,7 +7408,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Thigh.
 \ge thigh
@@ -7583,7 +7440,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Buttocks.
 \ge buttocks
@@ -7603,7 +7459,6 @@
 \ton LM+#H
 \lc do˩bv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
@@ -7623,7 +7478,6 @@
 \ton LM+#H
 \lc do˩kv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small beams upholding the ceiling of the ground floor.
 \ge small_beams
@@ -7648,7 +7502,6 @@
 \va <speaker="F5"> dv̩˩˧
 \vf <type="tone"> LM
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Fox.
 \ge fox
@@ -7937,7 +7790,6 @@
 \ton L
 \lc ɖɯ˩hĩ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Important people (including elders).
 \ge important_people
@@ -7981,7 +7833,6 @@
 \lc ɖɯ˩lo˥
 \so <print="n"> F4
 \sn 1
-\pdl classifier
 \pdv kʰwɤ˥
 \de Tradition.
 \ge tradition
@@ -8072,7 +7923,6 @@
 \ton LM+#H
 \lc ɖɯ˩mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female mule. This is a sterile animal. It is docile, and suitable for tasks such as leading a caravan. It is therefore a highly valued animal.
 \ge female_mule
@@ -8199,7 +8049,6 @@
 \ton LM+#H
 \lc ɖɯ˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Male mule.
 \ge male_mule
@@ -8335,7 +8184,6 @@
 \ton LM
 \lc dv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Weasel.
 \ge weasel
@@ -8372,7 +8220,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈʰɤ˥
 \de Poison.
 \ge poison
@@ -8421,7 +8268,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɖɻ̍˧ kʶv̩˧, ton d1
 \va <speaker="M23"> du˧kæ˧
-\pdl classifier
 \pdv dze˩
 \pdc <langue="fra"> paire
 \de Wing (monosyllabic form; the disyllabic form is preferred).
@@ -8483,7 +8329,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female weasel.
 \ge female_weasel
@@ -8506,7 +8351,6 @@
 \sd <langue="eng"> house
 \ton LM
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de The room in the main building of the farm where cereals were kept: the granary.
 \ge granary
@@ -8525,7 +8369,6 @@
 \nt <type="hist" print="n"> avant le 18 juillet 2012: avais noté seulement la variante tonale LM
 \ton LM+#H / LM
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male weasel.
 \ge male_weasel
@@ -8544,7 +8387,6 @@
 \sd <langue="eng"> animal
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \pdc <langue="fra"> paire
 \de Wing.
@@ -8731,7 +8573,6 @@
 \vf bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥
 \vf ɬo: “profond"
 \vf vérifié à nouveau le 9 mai qu'il utilise ˧˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ “estomac", qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme “poulain", ˧ ˧
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Pond.
@@ -8766,7 +8607,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M23"> ɖwæ˧pɤ˧lv̩˥
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Puddle, pool (natural).
@@ -8947,7 +8787,6 @@
 \sd <langue="eng"> society
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Sorcerer.
 \ge sorcerer
@@ -9013,7 +8852,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> dze˩kʶwɑ˩˥, ton d3
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv dzi˧
 \de Shoe.
 \ge shoe
@@ -9098,7 +8936,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mɤ˩
 \pdc <langue="fra"> un peu
 \de Wild pepper, Szechuan pepper.
@@ -9199,7 +9036,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Bat; used for all species, including the flying squirrel.
 \ge bat
@@ -9341,7 +9177,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Commoner (second of the three ranks in feudal society).
 \ge commoner
@@ -9360,7 +9195,6 @@
 \ton H#
 \lc dze˧-li˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> bol
 \de Tea with sugar, sweetened tea.
@@ -9426,7 +9260,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Bee.
 \ge bee
@@ -9446,7 +9279,6 @@
 \nt <type="sem"> plante aux vertus médicinales: pour les problèmes digestifs. Le nom veut dire tout simplement “fleur aux abeilles".
 \ton LM-L
 \so <print="n"> F4
-\pdl classifier
 \pdv bæ˩
 \de |fi{Artemisia suboligata}.
 \ge Artemisia_suboligata
@@ -9471,7 +9303,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Honey.
 \ge honey
@@ -9498,7 +9329,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Beehive, honeycomb.
 \ge beehive
@@ -9518,7 +9348,6 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> identification confirmée en 2016 d'après volume “Médecine mosuo"
 \ton LM+#H-
-\pdl classifier
 \pdv qɑ˩
 \so <print="n"> F4
 \de Literally ‘bees' resting place’; this name is applied to various flowers of which bees are particularly fond, such as the Straight ladybell, |fi{Adenophora sp.}, and the gentian.
@@ -9599,7 +9428,6 @@
 \sd <langue="eng"> animal
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Stinging organ of a bee.
 \ge sting
@@ -9638,7 +9466,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Sifter, sieve.
 \ge sieve
@@ -9861,7 +9688,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dzv̩˧, ton m4a
 \vf segments vérifiés; différent de la prononciation de F4, vérifiée le 12/5/08
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> On ne peut utiliser le classificateur des outils, nɑ˧
 \de Chisel.
@@ -9923,7 +9749,6 @@
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Clothes, clothing (monosyllabic form).
 \ge clothes
@@ -10017,7 +9842,6 @@
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Location.
 \ge location
@@ -10082,7 +9906,6 @@
 \va <speaker="M18"> bɑ˩lɑ˩˥
 \va <speaker="M21"> dʑi˧hṽ̩˧, ton d2a
 \va <speaker="M23"> dʑi˧ŋv̩˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Clothes, clothing.
 \ge clothes
@@ -10106,7 +9929,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Female water buffalo.
 \ge female_water_buffalo
@@ -10136,7 +9958,6 @@
 \nt <type="hist" print="n"> (avant 09: noté: dzɯ˩ʁu˩˥)
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Seat, place.
 \ge seat
@@ -10152,7 +9973,6 @@
 \lc dʑi˧tɕʰi˧
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ʂɯ˩
 \de Trip.
 \ge trip
@@ -10164,7 +9984,6 @@
 \xe to travel
 \xn 旅游、出差
 \xf voyager
-\xc
 \xv dʑi˧tɕʰi˧ gwɤ˥
 \xe to travel, to make a (long) trip
 \xn 旅游、出差
@@ -10189,7 +10008,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> cf précédent, ne pas confondre. dzɯ˩ tsʰɤ˩˥
 \vf tons confirmés
-\pdl classifier
 \pdv dzi˩
 \de A shrub with sharp thorns.
 \ge shrub_sp
@@ -10212,7 +10030,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dze˩
 \de Stirrup.
 \ge stirrup
@@ -10231,7 +10048,6 @@
 \nt <type="hist" print="n"> avant juillet 2012: noté †dʑi˩zo˩
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Male baby buffalo.
 \ge male_baby_buffalo
@@ -10332,9 +10148,7 @@
 \xe Someone has passed away! Come and join the gathering!
 \xn 一个人去世了！来参加丧礼吧！
 \xf Quelqu'un est mort! Venez participer à la réunion/au rassemblement!
-\xc
 \xv ɑ˩ʁo˧, | mv̩˧kʰv̩˧ dzi˥-ze˩!
-\xo
 \xe Smoke has accumulated inside the house! / The house is full of smoke!
 \xn 家里烟很浓了！（直译：“家里积累了很多烟”）
 \xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
@@ -10381,7 +10195,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˩
 \pdv nɑ˧
 \de Bridge.
@@ -10427,7 +10240,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> *
 \vf n'existe pas ici
-\pdl classifier
 \pdv mi˩
 \de Lizard.
 \ge lizard
@@ -10515,7 +10327,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɖʐo˥
 \de Major roof beam.
 \ge major_roof_beam
@@ -10542,7 +10353,6 @@
 \vf <type="tone"> L
 \va <speaker="M18"> ɖʐɤ˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˩
 \de Ladder.
 \ge ladder
@@ -10856,7 +10666,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Granary (a special building).
 \ge granary
@@ -11024,7 +10833,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> dzɤ˩ɖwæ˩
 \vf <type="tone"> L
-\pdl classifier
 \pdv ɖwæ˥
 \de Step of stairs.
 \ge step
@@ -11095,7 +10903,6 @@
 \va <speaker="M21"> dzu˧lv̩˧lv̩˥ ɲi˩
 \vf grêlons; vient de: lv̩˧lv̩˧
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Hailstone.
 \ge hailstone
@@ -11115,7 +10922,6 @@
 \sd <langue="eng"> object
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Large vat.
 \ge large_vat
@@ -11134,7 +10940,6 @@
 \nt <type="hist" print="n"> avant juillet 2012: noté †dzo˧mi˧, par confusion avec ‘grande cuve'
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female lizard.
 \ge female_lizard
@@ -11194,7 +10999,6 @@
 \so <print="n"> F4
 \va <speaker="F4"> dzo˩pʰv̩#˥
 \vf <type="tone"> LM+#H
-\pdl classifier
 \pdv mi˩
 \pdv ɭɯ˧
 \de Male lizard.
@@ -11253,7 +11057,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Cold, flu.
@@ -11289,7 +11092,6 @@
 \va <speaker="M21"> dze˧kʰwɤ˧ʈʂe˧ +ɲi˥
 \vf segments un peu différents de ceux notés pour F4, qui étaient: ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧, d'abord noté kʶwɤ˧
 \va <speaker="M23"> dzɑ˧qʰwɤ˧ʈʂe˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Awl.
 \ge awl
@@ -11353,7 +11155,6 @@
 \nt <type="hist" print="n"> avant 2012: noté …tɕi˧mv̩˩
 \ton LM-L
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Prayer flag.
 \ge prayer_flag
@@ -11420,7 +11221,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \pdv ɭɯ˧
 \de Baby lizard.
@@ -11441,7 +11241,6 @@
 \np on ne peut extraire le monosyllabe
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small vat.
 \ge small_vat
@@ -11586,7 +11385,6 @@
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Water.
 \ge water
@@ -11720,7 +11518,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɖʐɯ˥α
 \de Market.
 \ge market
@@ -11742,7 +11539,6 @@
 \ton L-LM
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Water fowl: used as a cover term for a variety of birds including sandpiper (|fi{Calidris}), avocet, Baillon's crake, and blue-breasted banded rail.
 \ge water_fowl
@@ -11767,7 +11563,6 @@
 \va <speaker="F5"> dʑi˧dv̩˧
 \vf <type="tone"> M
 \va <speaker="M21"> dʑi˧dv̩˧, ton d1
-\pdl classifier
 \pdv kʰɯ˩
 \de Earthworm.
 \ge earthworm
@@ -11799,7 +11594,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> dʑi˩ze˩˧, ton d3
 \va <speaker="M23"> dzɯ˩dze˩
-\pdl classifier
 \pdv nɑ˧
 \de Ladle used for people's food.
 \ge ladle_for_food
@@ -11819,7 +11613,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> dʑi˩dze˩mi˧+ɲi˩
-\pdl classifier
 \pdv mi˩
 \de Cicada.
 \ge cicada
@@ -11848,7 +11641,6 @@
 \va <speaker="M18"> dʑi˧ gɤ˧ di˩˥
 \vf gɤ˩˥: porter
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Carrying/shoulder pole.
 \ge shoulder_pole
@@ -11874,7 +11666,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.; emprunt: tʰũ˧, ton m4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Large barrel where drinking water is kept; water trough.
 \ge water_trough
@@ -11984,7 +11775,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Girdle, waistband (a large piece of fabric worn at the waist; can be used to carry a child); belt.
 \ge waistband/belt
@@ -12004,7 +11794,6 @@
 \sd <langue="eng"> natural environment
 \ton LH
 \so <print="n"> F4
-\pdl classifier
 \pdv ɖʐɯ˩
 \de Period of time, era.
 \ge era
@@ -12116,7 +11905,6 @@
 \ton M
 \lc dʑɯ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Large river.
 \ge large_river
@@ -12142,7 +11930,6 @@
 \va <speaker="M21"> dʑi˩nɑ˩hæ˥tʰɑ˩
 \vf avait d'abord copié le schéma tonal de F4, que je lui fournissais: dʑi˩ nɑ˩ hæ˩tʰɑ˩˥
 \vf voyelles confirmées); la périphrase fournie par F5, dʑi˩ ʈʂv̩˩ lɯ˩˥, lui paraît “trop simple": langue enfantine.
-\pdl classifier
 \pdv pɤ˩
 \de Water-mill.
 \ge water_mill
@@ -12237,7 +12024,6 @@
 \vf corrigé le 10/5/08; la veille, avait indiqué: dzɯ˩ ʈwæ˧˥), ton d8;
 \vf ʈʰ)ʂɯ˥, dʑi˩ ʈwæ˧˥ ɲi˩
 \vf proximité phonétique entre dʑi et dzɯ: commune à M21 et aux locutrices F4 et F5
-\pdl classifier
 \pdv pʰæ˧˥
 \de Ice.
 \ge ice
@@ -12344,7 +12130,6 @@
 \ton M
 \lc dʑɯ˧qʰɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv qɑ˩
 \de Selfheal, |fi{Prunella vulgaris}: a plant used in Chinese medicine. It yields a decoction that was used in Yongning to cure a sore throat. The decoction is bitter, hence the name.
 \ge selfheal
@@ -12396,7 +12181,6 @@
 \lc dʑɯ˧qʰv̩˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de A wild plant of Yongning.
 \ge wild_plant_sp
@@ -12425,7 +12209,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Well.
 \ge well
@@ -12450,7 +12233,6 @@
 \lc dʑɯ˩qʰwɤ˩-lv̩˩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Marsh, bog, swamp (unsuitable for agriculture).
 \ge marsh
@@ -12519,7 +12301,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Quail, rail, |fi{Coturnix}; used when identifying pictures of various species of |fi{Turnix}, |fi{Coturnix}, and |fi{Crex}.
 \ge quail
@@ -12544,7 +12325,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wild boar.
 \ge wild_boar
@@ -12588,7 +12368,6 @@
 \lc dʑɯ˩ʁo˩hwɤ˩li˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Yunnan wild cat, |fi{Felis temincki}.
 \ge wild_cat
@@ -12607,7 +12386,6 @@
 \ton L-LM
 \lc dʑɯ˩ʁo˩ɬi˩bi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Chinese yam (shan-yao).
 \ge Chinese_yam
@@ -12632,7 +12410,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˩ʁv̩˩zɯ˩˧
 \vf confirmé: différent de F4: dit /ʁv/ et non /ʁu/
-\pdl classifier
 \pdv qɑ˩
 \pdc <langue="fra"> botte
 \pdv po˧
@@ -12682,7 +12459,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Wave.
 \ge wave
@@ -12730,7 +12506,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖʐɯ˧ʂɯ˥
 \va <speaker="M21"> ɖʐɯ˧ʂɯ˥, ton d7
-\pdl classifier
 \pdv dzi˧
 \de Chopsticks.
 \ge chopsticks
@@ -12854,7 +12629,6 @@
 \ton L
 \lc dʑɯ˩tsʰi˩ʈʰɯ˩di˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small container for hot water (for 1 person).
 \ge container_for_hot_water
@@ -12874,7 +12648,6 @@
 \ton LM+#H
 \lc ɖʐɯ˩tso˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Rules of society.
 \ge rules_of_society
@@ -12901,7 +12674,6 @@
 \lc dzɯ˧tsɯ˧˥
 \so <print="n"> F4
 \va <speaker="M21"> dit: dʑi˩tsʰɤ˩˥, ton d3; mais n'a peut-être pas reconnu
-\pdl classifier
 \pdv pʰæ˧˥
 \de A shrub that grows in Yongning.
 \ge shrub_sp
@@ -12924,7 +12696,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Sifter, sieve.
 \ge sieve
@@ -12988,7 +12759,6 @@
 \ton L
 \lc dʑɯ˩zo˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Brook, rivulet.
 \ge brook
@@ -13188,7 +12958,6 @@
 \va <speaker="M18"> ɖʐv̩˧, ə˧ɖʐv̩˧
 \va <speaker="M21"> ə˧ɖʐu˧, ton d1
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Friend, companion, partner.
 \ge friend
@@ -13225,7 +12994,6 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɖʐv̩˧, ton m2
 \vf +ɲi˩
-\pdl classifier
 \pdv ɖʐv̩˧β
 \de An important and unfortunate event, such as a serious accident.
 \ge unfortunate_event
@@ -13281,7 +13049,6 @@
 \lc ɖʐv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Large vein, artery.
 \ge artery
@@ -13375,7 +13142,6 @@
 \ton #H-
 \lc ɖʐv̩˧nɑ˥mi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Heron.
 \ge heron
@@ -13436,7 +13202,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Artery.
 \ge artery
@@ -13531,7 +13296,6 @@
 \ton LM
 \lc ɖʐwæ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Sparrow (monosyllabic form; not in common use).
 \ge sparrow
@@ -13564,7 +13328,6 @@
 \xe to fall down
 \xn 掉下去（+了）
 \xf tomber par terre; littéralement «tomber vers le bas»
-\xc
 \xv hæ̃˧ ɳɯ˧ | mv̩˧ʈʰæ˧ ɖʐwæ˩.
 \xe The wind made it fall to the ground. (About a piece of clothing that was hung on a tree, on a hanger, to dry.)
 \xn 风让它掉下来了！（一件衣服，挂在树上晾干，风刮起来了，衣服掉下来了）
@@ -13585,7 +13348,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Small hoe (smaller than |fv{/hwæ˧pʰæ˩/}).
 \ge hoe
@@ -13611,7 +13373,6 @@
 \va <speaker="M18"> ID.
 \vf erreur: hi˧ɖwæ˧, ton d2
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Canine tooth, fang.
 \ge canine_tooth
@@ -13661,7 +13422,6 @@
 \lc ɖʐwæ˧lɑ˧ʁo˧ɖɯ˧˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de A type of sparrow.
 \ge sparrow
@@ -13680,7 +13440,6 @@
 \ton M
 \lc ɖʐwæ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Sparrow.
 \ge sparrow
@@ -13698,7 +13457,6 @@
 \ton #H
 \lc ɖʐwæ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male sparrow.
 \ge male_sparrow
@@ -13721,7 +13479,6 @@
 \ton #H
 \lc ɖʐwæ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧, mi˩
 \de Baby sparrow, little sparrow.
 \ge baby_sparrow
@@ -13814,7 +13571,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ə˩bo˧tɕo˧li˧
 \va <speaker="M21"> ə˧bo˧tɕo˧li˧ (+ɲi˩)
-\pdl classifier
 \pdv mi˩
 \de Cricket.
 \ge cricket
@@ -13836,7 +13592,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ɤ˧bu˧˥, ton d2b
 \vf tv
-\pdl classifier
 \pdv v̩˧
 \de Paternal uncle.
 \ge paternal_uncle
@@ -13865,7 +13620,6 @@
 \lc ə˧bv̩˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Kiln; oven to make bricks, ceramics etc.
 \ge kiln
@@ -13923,7 +13677,6 @@
 \lc ə˧ɕjɤ˩
 \so <print="n"> F4
 \va <speaker="M18"> ə˧ɕjɤ˧
-\pdl classifier
 \pdv v̩˧
 \de Lover, boy/girl-friend.
 \ge lover
@@ -13985,7 +13738,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɑ˧dɑ˧, ton d2a
-\pdl classifier
 \pdv v̩˧
 \de Father.
 \ge father
@@ -14008,7 +13760,6 @@
 \lc ə˧ɖo˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Lover, boy/girl-friend.
 \ge lover
@@ -14173,7 +13924,6 @@
 \ton L#
 \lc ə˧gɯ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Peppermint.
 \ge peppermint
@@ -14198,7 +13948,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɖʐo˩
 \de Traditional song.
 \ge song
@@ -14359,7 +14108,6 @@
 \lc ə˧jɤ˩
 \so <print="n"> F4
 \vf ə˧jɤ˩: refusé par ce locuteur
-\pdl classifier
 \pdv v̩˧
 \de Maternal aunt (mother's elder sister).
 \ge mother_s_elder_sister
@@ -14380,7 +14128,6 @@
 \ton L
 \lc ə˩kʰɯ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Turnip, wild cabbage, |fi{Brassica rapa}.
 \ge turnip
@@ -14469,7 +14216,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Mother (term of address used by children).
 \ge mother
@@ -14494,7 +14240,6 @@
 \lc ə˧mi˧
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv v̩˧
 \pdv jɤ˧˥
 \de Mother; aunt.
@@ -14524,7 +14269,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Maternal aunt (mother's elder sister).
 \ge mother_s_elder_sister
@@ -14562,7 +14306,6 @@
 \ton L#
 \lc ə˧mi˧tɕi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
 \ge mother_s_younger_sister
@@ -14630,7 +14373,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Elder sibling (brother or sister).
 \ge elder_sibling
@@ -14778,7 +14520,6 @@
 \vf d'abord noté kʶæ˧, par erreur
 \va <speaker="M21"> æ̃˧kæ˥tsɯ˩
 \vf connu par F4 mais pas recommandé
-\pdl classifier
 \pdv ɭɯ˧
 \de Little finger.
 \ge little_finger
@@ -14845,7 +14586,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Grandmother's brother=mother's uncle (on her mother's side); extended meaning: male elder two generations above oneself.
 \ge grandmother_s_brother
@@ -14883,7 +14623,6 @@
 \lc ə˧si˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Great-grandmother (on the mother's side); extended meaning: great-grandmother and her brothers and sisters: third-generation elders.
 \ge great_grandmother/3rd_generation_elders
@@ -15005,7 +14744,6 @@
 \ton L#
 \lc ə˧tɕi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
 \ge mother_s_younger_sister
@@ -15197,7 +14935,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.; pour les “nouveaux venus" de la famille na, les maris des tantes, on emploie les expressions suivantes: /ɤ˧v̩˧tɕi˥/ pour le mari d'une sœur cadette de la mère; ə˧v̩˧ɖɯ˧˥ pour le mari d'une sœur aînée de la mère.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Maternal uncle (mother's brother: same term for older brother and younger brother).
 \ge maternal_uncle
@@ -15306,7 +15043,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> exemple: e˧ʑi˧lə˧mu˩ze˩, grand-mère a vieilli
-\pdl classifier
 \pdv v̩˧
 \de Grandmother (on mother's side); elderly woman.
 \ge grandmother_on_mother_s_side
@@ -15609,9 +15345,7 @@
 \xe It's a very agreeable person.
 \xn 他是很善良的人。
 \xf c'est quelqu'un de très agréable
-\xc
 \xv mɤ˧-fv̩˧ mɤ˧-ʝi˧!
-\xo
 \xe To have no discontent, not to be angry. (Context: someone has made a video recording, and asks for oral consent from people who appear in the recording: do they agree to appear in a film that will be made publicly available online? Do they have any topic of miscontent? They answer: ‘[No,] we do not have any complaints / any topic of dissatisfaction!’)
 \xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’）
 \xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement!’)
@@ -15734,7 +15468,6 @@
 \ton LM
 \lc gæ˩pʰæ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv tso˩
 \de Storeroom, larder: a room where food is kept.
 \ge storeroom/larder
@@ -15779,7 +15512,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Granary (room within the house where grain is stored).
 \ge granary
@@ -15941,7 +15673,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de He-bear, male bear.
 \ge male_bear
@@ -15967,7 +15698,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> kʰv̩˧ gi˧nɑ˧mi˧ +ɲi˥
 \vf calque du chinois |fn{狗熊}
-\pdl classifier
 \pdv ɭɯ˧
 \de Little bear, bear cub.
 \ge little_bear
@@ -15994,7 +15724,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Bear; she-bear. There is no way to refer unambiguously to a female bear, as the same term is used for bears irrespective of sex.
 \ge bear
@@ -16043,7 +15772,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Little brother, younger brother; the term is also used to refer to younger cousins.
 \ge younger_brother
@@ -16349,7 +16077,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Livestock.
 \ge livestock
@@ -16378,7 +16105,6 @@
 \vf d'abord noté wɤ˥
 \vf ʈæ˥ bɤ˥: moine lama; tsɯ˩ʁu˩˥ wei4zhi, position
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Temple, monastery.
 \ge monaster
@@ -16402,7 +16128,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Shadow.
 \ge shadow
@@ -16488,7 +16213,6 @@
 \va <speaker="M21"> gɤ˧ɬɑ˧, ton d1
 \vf voyelle vérifiée
 \va <speaker="M23"> gɑ˧lɑ˧, ton d1
-\pdl classifier
 \pdv v̩˧
 \de God, Pusa, Buddha, Bodhisattva.
 \ge bodhisattva
@@ -16511,7 +16235,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˥
 \de Image of Buddha.
 \ge image_of_Buddha
@@ -16532,7 +16255,6 @@
 \nt <type="sem"> littéralement: demeure des esprits
 \ton -L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Room where the ancestors are worshipped.
 \ge room_for_worship
@@ -16559,7 +16281,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Younger sister.
 \ge younger_sister
@@ -16606,7 +16327,6 @@
 \ton MH
 \lc gɤ˧qo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Higher part of the main room.
 \ge higher_part_of_main_room
@@ -16627,7 +16347,6 @@
 \ton LM
 \lc gɤ˩qwɤ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Altar above the hearth (where gifts made to the family are displayed).
 \ge altar_above_the_hearth
@@ -16968,7 +16687,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv tsʰi˥
 \pdc <langue="fra"> classificateur des peaux d'animaux
 \de Skin.
@@ -16996,7 +16714,6 @@
 \ton #H
 \lc ɣɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv bo˩
 \de Cloth.
 \ge cloth
@@ -17045,7 +16762,6 @@
 \ton L#
 \lc ɣɯ˧bo˩
 \so <print="n"> F4
-\pdl classifier
 \pdv bo˩
 \de Weft, weft thread, pick.
 \ge weft
@@ -17068,7 +16784,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Loom.
 \ge loom
@@ -17092,7 +16807,6 @@
 \va <speaker="M21"> v̩˩kv̩˧˥, ton d5a
 \vf v̩˩kv̩˧ ɲi˥
 \vf accepte l'identification avec “peau" /ɯ/ mais maintient la prononciation /v/ pour les deux dernières syllabes
-\pdl classifier
 \pdv kʰwɤ˥
 \de Peel, rind.
 \ge peel
@@ -17189,7 +16903,6 @@
 \va <speaker="M18"> ʁɯ˧
 \vf ou ʁ̩˧?) nɑ˥ mi˩
 \vf peaux-noires
-\pdl classifier
 \pdv v̩˧
 \de Yi (derogatory term).
 \ge Yi.derogatory
@@ -17218,7 +16931,6 @@
 \ton MH#
 \lc ɣɯ˧ni˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \de A part of the loom: a small bamboo structure hanging from the top of the loom, keeping the threads together.
 \ge part_of_the_loom
@@ -17461,7 +17173,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Manger.
 \ge manger
@@ -17493,7 +17204,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Back.
 \ge back
@@ -17517,7 +17227,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Body. A more refined term than |fv{gv̩˧mi˧}.
 \ge body
@@ -17623,7 +17332,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Body.
 \ge body
@@ -17641,7 +17349,6 @@
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Thin plank.
 \ge thin_plank
@@ -17665,7 +17372,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Shoulderblade, scapula.
 \ge shoulderblade
@@ -17983,7 +17689,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hæ˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Gold.
 \ge gold
@@ -18014,7 +17719,6 @@
 \vf d'abord noté /hæ˧/) “vent"
 \vf premières notes de terrain: “sans nasalité, et néanmoins distinct de la syllabe de “chaux": l'initiale est réalisée plus proche de [h] que de [x], càd peu de friction à la glotte ou au palais; comporte une articulation orale"
 \vf même syllabe attestée en lh, cf “cagnard"
-\pdl classifier
 \pdv kʰwɤ˥
 \de Wind.
 \ge wind
@@ -18097,7 +17801,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Chinese (Han).
 \ge Chinese
@@ -18347,7 +18050,6 @@
 \vf tons confirmés plusieurs fois; d'abord noté ˧˧˩, puis ˧˥˩); littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, ts ne reconnaît plus
 \va <speaker="M21"> ID.
 \vf vérifié: n'est pas ˥ ˥ ˩ ni ˧ ˥ ˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Silk.
 \ge silk
@@ -18365,7 +18067,6 @@
 \sd <langue="eng"> food
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv bɤ˩
 \de Corncob.
 \ge corncob
@@ -18391,7 +18092,6 @@
 \ton #H-
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Rice steamer.
 \ge rice_steamer
@@ -18414,7 +18114,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Ruler.
 \ge ruler
@@ -18461,7 +18160,6 @@
 \va <speaker="M21"> / ɻ̊æ˧du˧/
 \vf première notation: “lʰæ˧du˧; est à nouveau l'initiale dévoisée mais avec articulation buccale, càd pas simple [h]; homophone de “vent", et différente de “chaux"
 \va <speaker="M23"> hæ̃˧do˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Threshing ground.
 \ge threshing_ground
@@ -18507,7 +18205,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Princess, young lady of the nobility.
 \ge young_lady
@@ -18529,7 +18226,6 @@
 \ton MH#
 \lc hæ̃˧kʰɤ˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Rafter; beam.
 \ge rafter
@@ -18648,7 +18344,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Plait; braid.
 \ge plait
@@ -18721,7 +18416,6 @@
 \lc hæ̃˩qʰwɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> hæ˩kʰwɤ˩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Lavender.
 \ge lavender
@@ -18764,7 +18458,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lhæ˩ʂɤ˩˥, ton d3
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Magpie.
 \ge magpie
@@ -18801,7 +18494,6 @@
 \ton L#-
 \lc hæ̃˧ʂɯ˩pæ˧pʰæ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Rack for drying grain.
 \ge rack_for_drying_grain
@@ -18820,7 +18512,6 @@
 \ton L#
 \lc hæ̃˧ʂɯ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de ‘precious': a prefix added to certain nouns to coin a prestige term. This prefix is not currently productive: it cannot be added to terms such as ‘mother', ‘house'…
 \ge precious
@@ -18857,7 +18548,6 @@
 \ton H#
 \lc hæ̃˧ʐɤ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Cut marks (such as those left by a saw or axe on wood).
 \ge cut_marks
@@ -19087,9 +18777,7 @@
 \xe You have to do it!
 \xn 你应该做！
 \xf c'est à toi de le faire! / il faut que tu le fasses!
-\xc
 \xv ʝi˧ mɤ˧-hĩ˧˥
-\xo
 \xe ... need not be done, does not have to be done
 \xn 不应该做
 \xf ... n'a pas à être fait
@@ -19117,7 +18805,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Person, human being, man (without any indication of gender).
 \ge person
@@ -19145,7 +18832,7 @@
 \xc PROVERBE
 \dt 17/Jul/2016
 
-\lx hi˩
+\lx hi˩˥
 \sf <nb="B"> 42
 \sf <nb="2011"> 65
 \hm 1
@@ -19153,10 +18840,10 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\ton L
-\lc hi˧
+\nt <type="hist" print="n"> Avant 2024: noté un ton L. L'erreur est relevée par Roselle Dobbs. Une vérification est menée en mai 2024.
+\ton LH
+\lc hi˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Lake (monosyllabic word).
 \ge lake
@@ -19164,7 +18851,20 @@
 \gn 湖/海
 \df Lac (monosyllabe).
 \gf lac(monosyll.)
-\dt 29/Jul/2017
+\xv hi˩˥ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
+\xe there is a lake (there)
+\xn 有一片湖
+\xf il y a un lac, un lac se trouve là
+\xv njɤ˧-ɳɯ˧ | hi˩ li˥-bi˩.
+\xe I will go and look at the lake.
+\xn 我去看湖。
+\xf Je vais regarder le lac.
+\xc PHONO
+\xv njɤ˧-ɳɯ˧ hi˩ li˥-ze˩.
+\xe I have looked at the lake.
+\xn 我看了湖。
+\xf J'ai regardé le lac.
+\xc PHONO
 
 \lx hi˩
 \hm 2
@@ -19172,20 +18872,26 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.
+\nt <langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.126
+\nt <langue="fra" type = "hist" print = "n"> Avant 2024: pensais qu'il s'agissait d'un prédicat d'existence, |fg{exist.inamovible} (en anglais: |fg{exist.unmovable}; en chinois: 存在动词.固定物体). La description fournie était: "Exister, se trouver: verbe d'existence pour objets non mobiles, par exemple le Lac existe/se trouve à un endroit." Suite à une question posée par Roselle Dobbs, une vérification conclut qu'il s'agit d'un verbe signifiant "s'accumuler".
 \ton L
 \lc hi˩˥
 \so <print="n"> F4
-\de Existential verb, for unmovable objects: e.g. the Lake exists/is at a certain place.
-\ge |fg{exist.unmovable}
-\dn 存在动词：固定不动的物体，如：泸沽湖
-\gn 存在动词.固定物体
-\df Exister, se trouver: verbe d'existence pour objets non mobiles, par exemple le Lac existe/se trouve à un endroit.
-\gf |fg{exist.inamovible}
-\xv hi˩nɑ˧mi˧ | tʰi˧-hi˩
-\xe the Lake exists/is there
-\xn 有（泸沽）湖（在那儿）
-\xf le Lac se trouve là/existe là/se trouve là, immuable
+\de To accumulate: the water accumulates, and forms ponds.
+\ge to_accumulate
+\dn 积聚：如，洪水的水积聚了，形成了泸沽湖。
+\gn 积聚
+\df S'accumuler: par exemple, l'eau d'une inondation s'est accumulée et a formé le lac Lugu.
+\gf s_accumuler
+\xv le˧-hi˩ -dʑo˩, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ tsɯ˩!
+\xe the Lake accumulated / was formed by the accumulation of water
+\xn 传说（洪水的水）积聚了，形成了泸沽湖。
+\xf (l'eau de l'inondation) s'est accumulée, et c'est devenu le Lac!
+
+hi˩nɑ˧mi˧ ɖɯ˧-ɭɯ˧ dʑo˧. 'il y ɑ un lɑc' /
+
+hi˩nɑ˧mi˧, ɖɯ˧-zɯ˧ mɤ˧-pv˧! Le Lac ne s'assèche jamais!
+hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 13/Jun/2017
 
 \lx hi˩˥
@@ -19202,7 +18908,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> hi˩˧, ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥
 \vf vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Rain.
@@ -19231,7 +18936,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tooth.
 \ge tooth
@@ -19259,7 +18963,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Guest, visitor.
 \ge guest
@@ -19292,7 +18995,6 @@
 \va <speaker="F5"> ju˩pv̩˧˥
 \vf <type="tone"> L+MH#
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Rain cape, rainware made from straw, rush…
 \ge rain_cape
@@ -19320,7 +19022,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Charcoal.
 \ge charcoal
@@ -19340,7 +19041,6 @@
 \ton #H
 \lc hĩ˧hĩ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Strangers, people outside the family.
 \ge strangers
@@ -19460,7 +19160,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tongue.
 \ge tongue
@@ -19498,7 +19197,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mo˧
 \de Corpse.
 \ge corpse
@@ -19533,7 +19231,6 @@
 \va <speaker="F5"> hĩ˧mu˥hĩ˩hĩ˩
 \va <speaker="M18"> hĩ˧mu˥hĩ˩
 \va <speaker="M21"> hĩ˧mu˥, ton d7
-\pdl classifier
 \pdv v̩˧
 \de Elderly person.
 \ge elderly_person
@@ -19597,7 +19294,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Lake.
 \ge lake
@@ -19615,7 +19311,6 @@
 \ton L
 \lc hi˩ɲi˩zo˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Salamander.
 \ge salamander
@@ -19654,7 +19349,6 @@
 \ton L
 \lc hi˩qʰɑ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Torrential rain, cloudburst.
@@ -19683,7 +19377,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Decayed teeth; dental caries.
 \ge decayed_teeth
@@ -19779,7 +19472,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tooth.
 \ge tooth
@@ -19822,7 +19514,6 @@
 \lc hi˧tsɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Incisors, front teeth.
 \ge incisors
@@ -19847,7 +19538,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˩ ʁæ˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Uvula.
 \ge uvula
@@ -19937,7 +19627,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> hu˧, ton m4; sens: poule sauvage
-\pdl classifier
 \pdv mi˩
 \de Partridge.  RD QN: Partridge or pheasant?
 \ge partridge
@@ -20223,7 +19912,6 @@
 \ton LM+H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Carrot.
 \ge carrot
@@ -20243,7 +19931,6 @@
 \nt <type="hist" print="n"> avant 2011: noté hu˩mi˩˧
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Hen pheasant, female pheasant.
 \ge female_pheasant
@@ -20271,7 +19958,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Cock pheasant, male pheasant.
 \ge male_pheasant
@@ -20302,16 +19988,13 @@
 \df En pleine forme, rayonnant de santé.
 \gf en_pleine_forme
 \xv hɤ˩-ʂe˩ʂe˩-hĩ˩˥
-\xo
 \xe In excellent health, blooming with health.
 \xn 既健康
 \xf En pleine forme, rayonnant de santé.
-\xc
 \xv hɤ˩-ʂe˩~ʂe˩-hĩ˥
 \xe people blooming with health: typically, young people
 \xn 既健康的人（如：既健康的年轻人）
 \xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
-\xc
 \rf F4
 
 \lx ho˩tʰɑ˩˥
@@ -20411,7 +20094,6 @@
 \lc ho˧tʰv̩˧
 \cf ʂe˧sɑ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv sɑ˧˥
 \pdv ɭɯ˧
 \de Ham.
@@ -20433,7 +20115,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby pheasant, pheasant chick.
 \ge baby_pheasant
@@ -20632,17 +20313,13 @@
 \xf |fg{rel}/|fg{nmlz}
 \xc PHONO
 \xv hɤ˩ sɯ˥!
-\xo
 \xe (I'm) still fine! / I'm still in good health! (Answer to the question ‘How are you?’, when acquaintances meet after several years.)
 \xn 还好！ / 我身体还好！（情景：认识的人，几年没有见面，见面时问最近怎么样。）
 \xf Ca va encore bien! / La santé reste bonne! (Réponse à la question ‘Comment ça va?’, entre connaissances qui se retrouvent après plusieurs années.)
-\xc
 \xv ə˧mi˧ | hɤ˩ sɯ˥!
-\xo
 \xe My mother is still fine! / My mother is still in good health! (Answer to the question ‘How is your mother?’)
 \xn 母亲还好！ / 母亲身体还好！（情景：认识的人，几年没有见面，见面时问一下家人最近怎么样。）
 \xf Ma mère va encore bien! / La santé de ma mère reste bonne! (Réponse à la question ‘Comment va la famille?’, entre connaissances qui se retrouvent après plusieurs années.)
-\xc
 \sn 2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -20687,7 +20364,6 @@
 \np (forme monosyllabique peu usuelle)
 \ton MH
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Entrails.
 \ge entrails
@@ -20800,7 +20476,6 @@
 \vf emprunt) et hɑ˧-ho˩mi˩
 \va <speaker="M18"> hu˧ mi˥
 \va <speaker="M21"> hu˧mi˧, ton d2a
-\pdl classifier
 \pdv ɭɯ˧
 \de Stomach.
 \ge stomach
@@ -20825,7 +20500,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Body hair; animal's hair; porcupine's quills.
 \ge body_hair
@@ -20989,7 +20663,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wild animal.
 \ge wild_animal
@@ -21095,7 +20768,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Squirrel.
 \ge squirrel
@@ -21122,7 +20794,6 @@
 \sd <langue="eng"> body
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Wart.
 \ge wart
@@ -21154,7 +20825,6 @@
 \ton LM
 \so <print="n"> F4
 \vf emprunt
-\pdl classifier
 \pdv ɭɯ˧
 \de Cucumber.
 \ge 黄瓜::cucumber
@@ -21177,7 +20847,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> hwɑ˧pʰæ˩
 \vf rime 1e syll. différente de celle de F4
-\pdl classifier
 \pdv nɑ˧
 \de Large hoe.
 \ge large_hoe
@@ -21204,7 +20873,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; hwæ˧pʰæ˥ hṽ̩˩hĩ˩˥, “gde pièce de tissu"
-\pdl classifier
 \pdv pʰæ˧˥
 \de A piece of cloth.
 \ge piece_of_cloth
@@ -21227,7 +20895,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> hwæ˧pʰæ˥-gv̩˧-di˧ tɕit˧ɕʰi˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Loom.
 \ge loom
@@ -21255,7 +20922,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Rat.
 \ge rat
@@ -21284,7 +20950,6 @@
 \sd <langue="eng"> plant
 \ton H#-
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Setose thistle.
 \ge setose_thistle
@@ -21566,7 +21231,6 @@
 \sd <langue="eng"> animal
 \ton MH
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Cat (monosyllable).
 \ge cat
@@ -21625,7 +21289,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Gift (usually money) made on important occasions (weddings, etc).
 \ge gift_of_money
@@ -21647,7 +21310,6 @@
 \sd <langue="eng"> house
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cabin, hut.
 \ge cabin
@@ -21765,7 +21427,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Cat.
 \ge cat
@@ -21786,7 +21447,6 @@
 \nt <type="sem"> même sens que hwɤ˧li˧-se˧-di˧˥
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine.
 \ge lower_balcony
@@ -21822,7 +21482,6 @@
 \sd <langue="eng"> house
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine.
 \ge lower_balcony
@@ -21840,7 +21499,6 @@
 \sd <langue="eng"> animal
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Old cat (male or female).
 \ge old_cat
@@ -21860,7 +21518,6 @@
 \nt <type="sem" langue="fra"> Pour spécifier le sexe, on peut, dès la naissance, utiliser les mêmes termes que pour les adultes: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰv̩˥$/}.
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kitten, cub.
 \ge kitten
@@ -21885,7 +21542,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> *
 \va <speaker="M21"> hwɤ˧mi˧, ton d2a
-\pdl classifier
 \pdv mi˩
 \de She-cat, queen.
 \ge she_cat
@@ -21916,7 +21572,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Tom-cat, tom.
 \ge tom
@@ -21970,7 +21625,6 @@
 \nt <type="hist" print="n"> avant 2012: noté hu˧tɕi˥ (n'est pas tɕɯ)
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Curly dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder; it is also used as food for humans.
 \ge curly_dock
@@ -22025,7 +21679,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kitten.
 \ge kitten
@@ -22179,7 +21832,6 @@
 \ton LM
 \so <print="n"> F4
 \va <speaker="F5"> ʐe˩ʐe˧
-\pdl classifier
 \pdv v̩˧
 \de Westerner.
 \ge 洋人::Westerner
@@ -22204,7 +21856,6 @@
 \va <speaker="M18"> i˩˥
 \va <speaker="M21"> lv̩˧bæ˥, ton d7: acné; i˩˥: pour maladies
 \vf ton m1
-\pdl classifier
 \pdv ɭɯ˧
 \de Spot, pimple.
 \ge spot
@@ -22244,9 +21895,7 @@
 \xe The tiger is coming back! / The tiger is coming again!
 \xn 老虎又来了！
 \xf Voilà le tigre qui revient! / Le tigre est revenu!/ Le tigre est de retour!
-\xc
 \xv ʈʂʰɯ˧ | ə˩-ʝi˥?
-\xo
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
 \xn 他来吗？/他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？/他能跟上吗？”）
 \xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: “Il suit? / Ca suit?”)
@@ -22293,7 +21942,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Ox.
 \ge ox
@@ -22420,7 +22068,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Earthen jar.
 \ge earthen_jar
@@ -22548,7 +22195,6 @@
 \vf d'abord noté i˧ bv̩˧ i˥ tv̩˧ tv̩˧
 \va <speaker="M21"> pʰæ˧qʰwɤ˩mæ˩tsɯ˧
 \vf formé de: “visage"+emprunt au chinois
-\pdl classifier
 \pdv v̩˧
 \de Pockmarked person.
 \ge pockmarked_person
@@ -22571,7 +22217,6 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Bull (male).
 \ge bull
@@ -22592,7 +22237,6 @@
 \ton MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Cow pen.
 \ge cow_pen
@@ -22611,7 +22255,6 @@
 \sd <langue="eng"> animal
 \ton L+H#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \pdv pʰo˧˥
 \de Heifer; also used for a female pianniu: hybrid of yak and cattle.
@@ -22743,7 +22386,6 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Cow (female).
 \ge cow
@@ -22771,7 +22413,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> i˧mi˧, ton d2a
 \vf ton différent de F4, qui confirme le schéma d1 en mai 2008
-\pdl classifier
 \pdv ɭɯ˧
 \de Jar.
 \ge jar
@@ -22842,7 +22483,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧, mi˩
 \de Male ox, bull.
 \ge bull
@@ -22876,7 +22516,6 @@
 \va <speaker="M21"> jɤ˩kʶv̩˩˧
 \vf analyse phonémique: jɤ˩qʰv̩˩˧
 \vf pendant terrain: négligé de noter l'aspiration; pensais que l'affrication suffisait pr distinguer
-\pdl classifier
 \pdv ɭɯ˧
 \de Sleeve.
 \ge sleeve
@@ -22900,7 +22539,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Neck strap: a part of the buffalo's harness for ploughing: a strap that fastens the yoke.
 \ge neck_strap
@@ -22922,7 +22560,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Cow, beef.
 \ge cow/beef
@@ -22986,7 +22623,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> jɤ˧sɑ˥
 \vf emprunt
-\pdl classifier
 \pdv nɑ˧
 \de Umbrella.
 \ge 雨伞::umbrella
@@ -23130,6 +22766,7 @@
 \nt <type="hist" print="n"> (n'est pas tɕɯ) (avant mai 2012: noté †ʝi˧ʈʂe˧-ɬɑ˩mv̩˩)
 \ton -L
 \lc ʝi˧tɕi˧ɬɑ˩mv̩˩
+\nt <langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so <print="n"> F4
 \de Feminine given name.
 \ge feminine_given_name
@@ -23155,7 +22792,6 @@
 \va <speaker="F5"> i˩ʈʂæ˧
 \va <speaker="M18"> i˩ ɖʐæ˩˥
 \va <speaker="M21"> i˩ʈʂæ˧˥, ton d5
-\pdl classifier
 \pdv ɭɯ˧
 \de Waist.
 \ge waist
@@ -23202,7 +22838,6 @@
 \ton M
 \lc ʝi˧tsɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Chair (borrowing).
 \ge 椅子::chair
@@ -23220,7 +22855,6 @@
 \ton #H
 \lc ʝi˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥, ɭɯ˧
 \de Calf.
 \ge calf
@@ -23252,7 +22886,6 @@
 \vf confirmé: est ton 1 et pas ton 3 chez ce locuteur
 \va <speaker="M23"> ju˧, ton m1
 \vf confirmé: est ton 1 et pas ton 3 chez ce locuteur
-\pdl classifier
 \pdv pʰo˧˥
 \de Sheep.
 \ge sheep
@@ -23351,7 +22984,6 @@
 \lc jo˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Jade.
 \ge jade
@@ -23429,7 +23061,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧kʰv̩˩˥ “fumée"; selon ts, peut s'employer pour dire “cigarette"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ko˧
 \de Tobacco, cigarettes.
 \ge tobacco
@@ -23632,7 +23263,6 @@
 \ton LM-L#
 \lc jɤ˩ɕjo˧dzɑ˧qʰwɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˧
 \pdc <langue="fra"> paire
 \de Sandal.
@@ -23680,7 +23310,6 @@
 \ton L#
 \lc jɤ˧gɯ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Buckwheat, |fi{Fagopyrum esculentum}.
 \ge buckwheat
@@ -23743,7 +23372,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv po˩
 \de Matches.
 \ge 洋火::matches
@@ -23770,7 +23398,6 @@
 \va <speaker="F5"> jɤ˩ju˧bv̩#˥
 \vf <type="tone"> #H
 \va <speaker="M21"> idem F5
-\pdl classifier
 \pdv mi˩
 \de Potato grub, |fi{Agriotes lineatus}.
 \ge potato_grub
@@ -23793,7 +23420,6 @@
 \lc jɤ˩jo˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Potato.
 \ge 洋芋::potato
@@ -23889,7 +23515,6 @@
 \lc jo˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Ewe.
 \ge ewe
@@ -24022,7 +23647,6 @@
 \ton LM / LM+MH#
 \lc jo˩pv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv tsʰi˥
 \de Oilcloth; tarpaulin.
 \ge oilcloth
@@ -24048,7 +23672,6 @@
 \so <print="n"> F4
 \va <speaker="F4"> jo˧pʰv̩#˥
 \vf <type="tone"> #H
-\pdl classifier
 \pdv pʰo˧˥
 \pdv mi˩
 \de Male sheep.
@@ -24092,7 +23715,6 @@
 \ton #H
 \lc jɤ˧qʰɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Bitter buckwheat, |fi{Fagopyrum tataricum Gaertn}.
 \ge bitter_buckwheat
@@ -24113,7 +23735,6 @@
 \lc jo˩ʂwæ˩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Wether (castrated ram, neutered ram).
 \ge wether
@@ -24133,7 +23754,6 @@
 \ton LM-L
 \lc jɤ˩tʰi˧ʁæ˩bæ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Porcelain plate.
 \ge porcelain_plate
@@ -24180,7 +23800,6 @@
 \vf <type="tone"> L
 \va <speaker="M21"> ID.
 \va <speaker="M23"> jo˧zo˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Lamb.
 \ge lamb
@@ -24397,7 +24016,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ̩pɤ˩
 \de Door.
 \ge door
@@ -24445,7 +24063,6 @@
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Threshold.
 \ge threshold
@@ -24464,7 +24081,6 @@
 \ton -L#
 \lc kʰi˧bv̩˧lv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Hinge.
 \ge hinge
@@ -24503,7 +24119,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> kv̩˧ʂe˧, ton d2a
 \va <speaker="M23"> ku˧ʂe˧
-\pdl classifier
 \pdv mi˩
 \de A large fly with a green head; its larvae are particularly harmful.
 \ge large_fly
@@ -24526,7 +24141,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˩
 \de Main entrance, main door.
 \ge main_door
@@ -24574,7 +24188,6 @@
 \ton L#
 \lc kʰi˧qʰwɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Hinge.
 \ge hinge
@@ -24634,7 +24247,6 @@
 \ton LM+#H
 \lc ki˩ti˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Leather belt.
 \ge leather_belt
@@ -24866,7 +24478,6 @@
 \ton #H
 \lc ko˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Hill, small mountain.
 \ge hill
@@ -24889,7 +24500,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bottle.
 \ge bottle
@@ -24922,7 +24532,6 @@
 \va <speaker="M21"> kɤ˩˧, ton m1
 \vf l'oppose à kɤ˧˥, ton m4: instrument servant à verser le vin
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Falcon.
 \ge falcon
@@ -25029,7 +24638,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Basket carried on the back.
 \ge basket_carried_on_back
@@ -25069,7 +24677,6 @@
 \ton M
 \lc kʰo˧bɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Home (solemn, formal word).
 \ge home
@@ -25155,7 +24762,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Sculpture of Buddha (Tibetan borrowing).
 \ge sculpture_of_Buddha
@@ -25181,7 +24787,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> kv̩˧ʂe˧, ton d2a
 \va <speaker="M23"> ku˧ʂe˧
-\pdl classifier
 \pdv mi˩
 \de A sort of dove.
 \ge dove
@@ -25246,7 +24851,6 @@
 \lc ko˩ɖʐo˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Flail.
 \ge flail
@@ -25305,7 +24909,6 @@
 \lc ko˧li˧
 \so <print="n"> F4
 \va <speaker="M23"> *
-\pdl classifier
 \pdv ɭɯ˧
 \de Blow tube: tube to blow on a fire.
 \ge blow_tube
@@ -25348,7 +24951,6 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> si˧kɤ˥lu˩
 \vf est du type “bois"; vérifié, n'est pas /sɯ/
-\pdl classifier
 \pdv kɤ˧˥
 \de Branch.
 \ge branch
@@ -25376,7 +24978,6 @@
 \ton M
 \lc kʰo˧lo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Prayer wheel.
 \ge prayer_wheel
@@ -25397,7 +24998,6 @@
 \ton M
 \lc kɤ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female falcon.
 \ge female_falcon
@@ -25426,7 +25026,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de A large jar; a large bottle.
 \ge large_bottle
@@ -25448,7 +25047,6 @@
 \lc kʰɤ˧mi˥
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Large basket carried on the back.
 \ge large_basket_carried_on_the_back
@@ -25501,7 +25099,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Eagle.
 \ge eagle
@@ -25539,7 +25136,6 @@
 \ton #H
 \lc ko˧no˧-ʁo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Mountain ridge; bridge in the mountains.
 \ge mountain_ridge
@@ -25557,7 +25153,6 @@
 \ton L
 \lc kɤ˩pʰv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male falcon.
 \ge male_falcon
@@ -25660,7 +25255,6 @@
 \ton L-#H
 \lc kɤ˩tjɤ˧ljɤ˧
 \so <print="n"> F4
-\pdl classifier
 \va <speaker="F4"> kwɤ˩-tjɤ˧ljɤ#˥
 \pdv ɭɯ˧
 \de Small bell hung to an animal's neck (e.g. horse's bell).
@@ -25738,7 +25332,6 @@
 \cf kɤ˧ʈʂɯ˩1
 \ton L#
 \lc kɤ˧ʈʂɯ˩
-\pdl classifier
 \pdv kʰwɤ˥
 \de Speech.
 \ge speech
@@ -25787,7 +25380,6 @@
 \va <speaker="F5"> kɤ˧v̩˧
 \vf <type="tone"> M
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Amulet.
 \ge amulet
@@ -25895,7 +25487,6 @@
 \lc kʰɤ˧zo˥
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Small basket carried on the back.
 \ge small_basket_carried_on_the_back
@@ -26121,7 +25712,6 @@
 \va <speaker="M18"> kɯ˥
 \vf d'abord noté kɯ˧
 \va <speaker="M21"> kɯ˧, m4
-\pdl classifier
 \pdv ɭɯ˧, kɯ˧
 \pdc <langue="fra"> objets ronds
 \de Star.
@@ -26189,7 +25779,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Gallbladder.
 \ge gallbladder
@@ -26219,7 +25808,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Thread.
@@ -26434,7 +26022,6 @@
 \nt <type="sem"> “mettre"+suffixe “chose pour…", “qui sert à…"
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Container (general term).
 \ge container
@@ -26461,7 +26048,6 @@
 \vf qui boîte); kʰɯ˧ dv̩˧ i:˧ hĩ˥ “personne qui boîte"
 \vf formulation refusée par F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Cripple, lame person.
 \ge cripple
@@ -26497,7 +26083,6 @@
 \va <speaker="M18"> kʰɯ˧dʑi˥
 \vf pied + faire le tour de; “qui fait le tour du pied"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˧
 \pdc <langue="fra"> paire
 \de Leggings, puttee.
@@ -26516,7 +26101,6 @@
 \sd <langue="eng"> society
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \de Spirit.
 \ge spirit
@@ -26584,7 +26168,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Shuttle on a weaving loom.
 \ge shuttle
@@ -26603,7 +26186,6 @@
 \ton L#
 \lc kʰɯ˧pʰv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Chinese, Han.
 \ge Chinese, Han
@@ -26625,7 +26207,6 @@
 \ton MH#
 \lc kɯ˧qʰæ˧ʂe˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Comet.
@@ -26652,7 +26233,6 @@
 \va <speaker="M18"> kɯ˩ɻ̍˧
 \vf d'abord noté kɯ˧ɻ̍˥) ; jouer du violon à 2 cordes: kɯ˩ɻ̍˧hɯ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Two-string violin, erhu.
 \ge erhu
@@ -26675,7 +26255,6 @@
 \ton H#
 \lc kʰɯ˧tʰo˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \de Chains (to tie a criminal's feet), made of iron.
 \ge chains
@@ -26702,7 +26281,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ʈʂæ˧˥
 \de Ankle.
 \ge ankle
@@ -26727,7 +26305,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Leg.
 \ge leg
@@ -26745,7 +26322,6 @@
 \ton #H
 \lc kʰɯ˧ʈʂɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈv̩˩, ɭɯ˧
 \de Chicken feet.
 \ge chicken_feet
@@ -26810,7 +26386,6 @@
 \lc kʰɯ˩ʈɯ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Root.
 \ge root
@@ -26832,7 +26407,6 @@
 \ton L+H#
 \lc kʰɯ˩tv̩˩ɭɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈv̩˩
 \de Leg (of chicken).
 \ge chicken_leg
@@ -26860,7 +26434,6 @@
 \ton #H
 \lc kʰɯ˧tʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \de Pedal of the loom (to invert the vertical position of the threads).
 \ge pedal_of_loom
@@ -26880,7 +26453,6 @@
 \ton H$
 \lc kʰɯ˧ʐɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> bol
 \de Rice wine (low alcohol).
@@ -26962,7 +26534,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> gousse
 \pdv tsʰɤ˧˥
@@ -27037,7 +26608,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Nest (monosyllable).
 \ge nest
@@ -27090,7 +26660,6 @@
 \np Le monosyllabe n'est pas couramment utilisé mais est attesté, par exemple dans le récit “chien". Analysé comme #H. Parallèles: comme /ʐwæ˥/ “cheval", donne un ton L avec le suffixe -mi, comme /ʐwæ˩mi˩˧/. Autre indice: les noms des années: “année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or “Cheval" et “Bœuf" sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres années, correspondant à des monosyllabes aux tons L, ML, M et MH.
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \pdv v̩˧
 \pdv jɤ˧˥
@@ -27155,7 +26724,6 @@
 \ton MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Kennel, doghouse.
 \ge doghouse
@@ -27175,7 +26743,6 @@
 \nt <type="hist" print="n">Orthographe: avant avril 2019, était noté gujji.
 \ton MH
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Tent.
 \ge tent
@@ -27231,7 +26798,6 @@
 \nt <type="sem"> d'après A Hui, viendrait de: ‘nid'+'panier'
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Chicken nest.
 \ge chicken_nest
@@ -27255,7 +26821,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> kv̩˩kv̩˩˥, ton d3
-\pdl classifier
 \pdv ɭɯ˧
 \de Cheekbone.
 \ge cheekbone
@@ -27315,7 +26880,6 @@
 \nt <type="hist" print="n"> (prononciation vélaire de l'initiale) (confirmé: est …kwæ˧ et non …kwɤ˧)
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Bitter melon.
 \ge 苦瓜::bitter_melon
@@ -27336,7 +26900,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Garlic braid: garlic bulbs with long leaves, braided into a large clump.
 \ge garlic_braid
@@ -27363,7 +26926,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Robber, bandit.
 \ge robber
@@ -27408,10 +26970,8 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \pdc <langue="fra"> terme respectueux : le même que pour les humains
-\pdl classifier
 \pdv jɤ˧˥
 \de Dog (either he-dog or she-dog).
 \ge dog
@@ -27442,7 +27002,6 @@
 \nt <type="sem"> Même terme pour les chiots femelles
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Female puppy. The term is also used as a temporary name for little girls, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.).
 \ge female_puppy
@@ -27463,7 +27022,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv tsʰi˥
 \de Silk.
 \ge silk
@@ -27486,7 +27044,6 @@
 \sd <langue="eng"> animal
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Dog (formal word, used in elevated speech).
 \ge dog
@@ -27575,7 +27132,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧, mi˩, ɭɯ˧
 \de He-dog.
 \ge he-dog
@@ -27662,7 +27218,6 @@
 \vf <type="tone"> #H
 \va <speaker="M21"> kv̩˧ʂe˧, ton d2a
 \va <speaker="M23"> ku˧ʂe˧
-\pdl classifier
 \pdv mi˩
 \de Flea.
 \ge flea
@@ -27706,7 +27261,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de A flowering plant in the legume family: |fi{Flemingia strobilifera}, also known as |fi{Moghania fruticulosa}.
 \ge Flemingia_strobilifera
@@ -27799,7 +27353,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> dʑi˩hwæ˩tsɯ˧
 \vf cf le mot pour “souris", hwæ˧tsɯ˥
-\pdl classifier
 \pdv pʰo˧˥
 \pdv v̩˧
 \de Mole shrew.
@@ -27820,7 +27373,6 @@
 \ton L#
 \lc kv̩˧tsʰɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv tsʰɤ˧˥
 \de Head of garlic.
 \ge garlic_head
@@ -27843,7 +27395,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de She-dog.
 \ge she-dog
@@ -27869,7 +27420,6 @@
 \vf confirmé: n'est pas ɖʐɤ˥. Tons confirmés. D'abord noté kv̩˥ ɖʐɯ˥
 \va <speaker="M21"> kv̩˧ʈʂɯ˧˥, ton d2b
 \vf la rime de la deuxième syllabe ressemble à ɤ mais n'est pas ɤ
-\pdl classifier
 \pdv ɭɯ˧
 \de (finger)nail, (toe)nail.
 \ge (finger/toe)nail
@@ -27887,7 +27437,6 @@
 \ton -LM+#H
 \lc kʰv̩˧zo˧bo˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Dog-pig, doggy-piggy. The term is used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.).
 \ge doggy_piggy
@@ -27930,7 +27479,6 @@
 \ton #H
 \lc kʰv̩˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧, mi˩, ɭɯ˧
 \de Male dog. The term is also used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.).
 \dn 公狗（给刚出生的男孩子的名字，让鬼对他不感兴趣，不过来害小孩）
@@ -28090,7 +27638,6 @@
 \ton H#
 \lc kwæ˧fæ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Medium-sized beam.
 \ge medium_sized_beam
@@ -28145,7 +27692,6 @@
 \ton H#
 \lc kwæ˧pæ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Harrow (made of wood).
 \ge harrow
@@ -28176,7 +27722,6 @@
 \vf vérifié: n'est pas /kʰwæ/
 \vf confirmé: est le mot qui était utilisé pour les tissus qu'on mettait à même le sol ou sur les meubles
 \va <speaker="M23"> kʰwɤ˧ɻæ#˥
-\pdl classifier
 \pdv tsʰi˥
 \de Felt; extended use: mat (even if not made of felt), cushion…
 \ge felt
@@ -28225,7 +27770,6 @@
 \ton M
 \lc kwɑ˧tsʰɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Coffin.
 \ge 棺材::coffin
@@ -28273,7 +27817,6 @@
 \va <speaker="M21"> kwɤ˧lv̩˩
 \vf vérifié: n'est pas lɯ˩), ton d4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Jug; jar; pitcher; also: treasure, valuable possession.
 \ge jug/treasure
@@ -28297,7 +27840,6 @@
 \lc kwɤ˧pɤ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Teaching, explanation.
 \ge explanation
@@ -28365,7 +27907,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Jawbone, mandible, lower jaw.
 \ge jawbone
@@ -28517,7 +28058,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Tiger.
 \ge tiger
@@ -28741,7 +28281,6 @@
 \vf vérifié
 \vf tv
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Armpit.
 \ge armpit
@@ -28863,7 +28402,6 @@
 \ton L#
 \lc lɑ˧kɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small jar used to preserve wine.
 \ge small_wine_jar
@@ -29054,7 +28592,6 @@
 \ton M
 \lc lɑ˧mɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Lama.
 \ge lama
@@ -29076,7 +28613,6 @@
 \ton #H
 \lc lɑ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥, mi˩
 \de Female tiger.
 \ge female_tiger
@@ -29172,7 +28708,6 @@
 \ton #H
 \lc lɑ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥, ɭɯ˧
 \de Male tiger.
 \ge male_tiger
@@ -29194,7 +28729,6 @@
 \ton H$
 \lc læ˧ʁæ˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female raven.
 \ge female_raven
@@ -29212,7 +28746,6 @@
 \ton #H
 \lc læ˧ʁæ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male raven.
 \ge male_raven
@@ -29240,7 +28773,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lɑ˧ʁæ˧, ton d2a
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Raven.
 \ge raven
@@ -29297,7 +28829,6 @@
 \ton H#
 \lc ɬɑ˧tɑ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Jerkin, leather vest.
 \ge jerkin
@@ -29317,14 +28848,14 @@
 \ton MH#
 \lc lɑ˧tʰɑ˧di˧˥
 \so <print="n"> F4
-\de The entire Na area around Lake Lugu, including Zuosuo (currently Luguhu Zhen) and the village of Luoshui.
+\de The entire Na area around Lugu Lake, including Zuosuo (currently Luguhu Zhen) and the village of Luoshui.
 \ge Na_area_around_Lake_Lugu
 \dn 泸沽湖周边的摩梭地区，包括左所（今为泸沽湖镇）、洛水村等
 \gn 泸沽湖周边的摩梭地区
 \df La région na qui entoure le lac Lugu: Zuosuo (actuel Luguhu Zhen), le village de Luoshui, et les autres localités du bord du Lac.
 \gf région_na_autour_du_lac_Lugu
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lake Lugu. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 从永宁往泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 24/Apr/2017
@@ -29401,7 +28932,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Chilli peppers.
 \ge 辣子::chilli_peppers
@@ -29432,7 +28962,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Candle.
 \ge 蜡烛::candle
@@ -29470,7 +28999,6 @@
 \ton #H
 \lc lɑ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby tiger, child of tiger.
 \ge baby_tiger
@@ -29692,7 +29220,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> bol
 \de Tea.
@@ -29754,7 +29281,6 @@
 \lc ɬi˧
 \so <print="n"> F4
 \va <speaker="M21"> ss doute erreur: dʑi˩ʁv̩˩i˩˧, dʑi˩ ʁv̩˩ i˩ ɲi˧
-\pdl classifier
 \pdv pʰo˧˥
 \pdv mi˩
 \de Roebuck, hornless river deer.
@@ -29880,7 +29406,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɬi˧bi˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Turnip; radish.
 \ge turnip
@@ -29905,7 +29430,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɬi˧bu˧, ton d2a; ɬi˧bu˧i:˧hĩ˥ “personne sourde": refusé par F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Deaf person.
 \ge deaf_person
@@ -29934,7 +29458,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Bai (ethnic group).
 \ge Bai
@@ -29970,7 +29493,6 @@
 \sd <langue="eng"> ethnic groups
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Bai woman.
 \ge Bai_woman
@@ -29989,7 +29511,6 @@
 \sd <langue="eng"> ethnic groups
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Bai man.
 \ge Bai_man
@@ -30030,7 +29551,6 @@
 \ton L#-
 \so <print="n"> F4
 \va <speaker="M21"> ɬi˧di˩hĩ˩
-\pdl classifier
 \pdv v̩˧
 \de People of Yongning. Unless otherwise specified, this is mainly understood as referring to the Na (Mosuo).
 \ge people_of_Yongning
@@ -30051,7 +29571,6 @@
 \ton L#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de The river that flows through the plain of Yongning.
 \ge river_of_Yongning
@@ -30152,7 +29671,7 @@
 \df Village na, hors de la plaine, proche du Lac.
 \gf nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lake Lugu. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 24/Apr/2017
@@ -30176,7 +29695,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Moon (disyllable).
 \ge moon
@@ -30212,7 +29730,6 @@
 \nt <type="sem"> pas réussi à obtenir un composé coordinatif convaincant
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Female roebuck.
 \ge female_roebuck
@@ -30233,7 +29750,6 @@
 \nt <type="hist" print="n"> (vérifié: n'est pas /dzi/)
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Lunar eclipse.
@@ -30264,7 +29780,6 @@
 \nt <type="sem"> le /ɬi/ est celui de “mois", “lune"
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɬi˧
 \pdc <langue="fra"> mois
 \de Menses; period.
@@ -30291,7 +29806,6 @@
 \ton H#
 \lc ɬi˧ŋv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ŋv̩˩α
 \de Waist of the trousers.
 \ge waist_of_the_trousers
@@ -30318,7 +29832,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɬi˧pæ˥, ton d7
 \vf vérifié: n'est pas d9
-\pdl classifier
 \pdv dze˩
 \pdc <langue="fra"> paire
 \de Earring.
@@ -30348,7 +29861,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M23"> li˩pi˧
-\pdl classifier
 \pdv kʰwɤ˥
 \de Tea that has infused for too long, tea dregs.
 \ge tea_dregs
@@ -30373,7 +29885,6 @@
 \va <speaker="M18"> ɬi˥pi˧
 \vf tons confirmés
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Ear.
 \ge ear
@@ -30418,7 +29929,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ɬi˧pv̩˧lv̩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Ear tumour, pathological excrescence of the ear.
 \ge ear_tumour
@@ -30436,7 +29946,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \pdv ɭɯ˧
 \pdv mi˩
@@ -30467,7 +29976,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Earwax.
 \ge earwax
@@ -30491,7 +29999,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Auditory canal.
 \ge auditory_canal
@@ -30524,7 +30031,6 @@
 \va <speaker="M21"> ɬi˧qʰwɤ˩, ton d4
 \vf d'abord noté ɬi˥kʶwɤ˩
 \vf ton différent de F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Trousers.
 \ge trousers
@@ -30569,7 +30075,6 @@
 \ton L+H#
 \so <print="n"> F4
 \va <speaker="F5"> ɬi˩ʈv̩˩mæ˧
-\pdl classifier
 \pdv kʰwɤ˥
 \de Lower part of the main room.
 \ge lower_part_of_main_room
@@ -30594,7 +30099,6 @@
 \sd <langue="eng"> plant
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Asiatic plantain.
 \ge Asiatic_plantain
@@ -30722,7 +30226,6 @@
 \sd <langue="eng"> house
 \ton LH
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Beam.
 \ge beam
@@ -30741,7 +30244,6 @@
 \sd <langue="eng"> abstract
 \ton LM?LH?
 \so <print="n"> F4
-\pdl classifier
 \pdv ljɤ˩
 \de Life, existence, destiny, fate.
 \ge destiny
@@ -30778,7 +30280,6 @@
 \vf d'abord noté lje˩mi˥
 \vf n'est pas un emprunt au chinois
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Major (supporting) beam.
 \ge major_beam
@@ -30805,7 +30306,6 @@
 \vf d'abord noté lje˩mi˥
 \vf n'est pas un emprunt au chinois
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Decoration of major (supporting) beam: symbolically, this is the beam's ‘ear'.
 \ge decoration_of_major_beam
@@ -30889,7 +30389,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv lo˩
 \de Mountain valley.
 \ge valley
@@ -30937,7 +30436,6 @@
 \vf pas d'élicitation possible dans le cadre “ceci est", mais le ton de base peut se déduire des nombreuses expressions où le mot apparaît: lo˧ dʑo˧-ze˧
 \vf /dʑo˧/: ton 1), lo˧ ʝi˧-ze˩
 \vf /ʝi˧/: ton 2
-\pdl classifier
 \pdv lo˧
 \de Work, occupation, task.
 \ge work
@@ -31060,7 +30558,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Rib.
 \ge rib
@@ -31149,7 +30646,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Palm of the hand.
 \ge palm
@@ -31171,7 +30667,6 @@
 \ton LM-L
 \so <print="n"> F4
 \va <speaker="M23"> lo˩bv̩˧lv̩˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Elbow.
 \ge elbow
@@ -31200,7 +30695,6 @@
 \vf tons vérifiés) +ɲi˩ emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
 \va <speaker="M23"> lu˧bv̩˩ʈʂʰɯ˩
 \vf tons vérifiés) emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
-\pdl classifier
 \pdv pʰo˧˥
 \pdv v̩˧
 \de Elephant.
@@ -31243,7 +30737,6 @@
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="M21"> lu˩dv̩˧, ton d5b
-\pdl classifier
 \pdv v̩˧
 \de Person with a single arm or hand, one-armed (or one-handed) person.
 \ge one_armed_person
@@ -31289,7 +30782,6 @@
 \vf sans doute: /y/
 \vf tons: ˩˥? sans doute pas; paraît bien être lo˩dʑju˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Bracelet.
 \ge bracelet
@@ -31324,7 +30816,6 @@
 \sd <langue="eng"> agriculture
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Weeding hoe: hand instrument with three spikes perpendicular to the handle, to loosen the soil. At the time of fieldwork, this tool had a metal head.
 \ge weeding_hoe
@@ -31398,7 +30889,6 @@
 \vf selon F4: c'est du naxi, pas d'ici
 \va <speaker="M21"> lo˩ gv̩˧dv̩˧
 \vf ɲi˩
-\pdl classifier
 \pdv kʰwɤ˥
 \de Back of the hand.
 \ge back_of_the_hand
@@ -31475,7 +30965,6 @@
 \vf travail + faire + homme
 \va <speaker="M21"> lo˧i˧, lo˧i˧zo˧mv̩˥; lo˧i˧hĩ˧
 \vf +ɲi˥
-\pdl classifier
 \pdv v̩˧
 \de Worker (in the fields or elsewhere).
 \ge worker
@@ -31514,7 +31003,6 @@
 \ton LM
 \lc lo˩ko˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Pot for cooking rice, soup…; used to be made of copper.
 \ge 锣锅::cooking_pot
@@ -31540,7 +31028,6 @@
 \ton L
 \lc ɬo˩kɤ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Rib.
 \ge rib
@@ -31582,7 +31069,6 @@
 \lc ɬo˧kʰv̩˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Hip.
 \ge hip
@@ -31606,7 +31092,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɭu˧ɭu˧, ton d1
-\pdl classifier
 \pdv v̩˧
 \de Yi (ethnic group).
 \ge Yi
@@ -31650,7 +31135,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> lo˧ mi˥
 \va <speaker="M21"> lo˩mi˥, ton d6; lo˩mi˥ʁæ˥: sixième doigt/sorte de pouce en plus présent dès la naissance chez certains individus
-\pdl classifier
 \pdv ɭɯ˧
 \de Thumb.
 \ge thumb
@@ -31675,7 +31159,6 @@
 \vf ton m1: LM
 \vf <type="tone"> LM
 \va <speaker="M18"> ʁæ˩˥, kɑ˩˥: tous deux possibles.
-\pdl classifier
 \pdv ɭɯ˧
 \de Space between thumb and index finger.
 \ge space_between_thumb_and_index_finger
@@ -31720,7 +31203,6 @@
 \vf a) lo˧ ɲi˥
 \vf b) lo˧ ɲi˥ lo˧ sɑ˩
 \va <speaker="M21"> lo˧ɲi˥, ton d7
-\pdl classifier
 \pdv ɭɯ˧
 \de Finger.
 \ge finger
@@ -31795,7 +31277,6 @@
 \lc ɬo˧pɤ˥
 \so <print="n"> F4
 \vf <type="tone"> MH
-\pdl classifier
 \pdv ɭɯ˧
 \de Blister (on the hands or feet).
 \ge blister
@@ -31832,7 +31313,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Ring.
 \ge ring
@@ -31889,7 +31369,6 @@
 \ton LM
 \lc lo˩qo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Copper pot for cooking cereals (nowadays, almost exclusively rice).
 \ge rice_pot
@@ -31939,7 +31418,6 @@
 \lc lo˩qʰv̩˩˥
 \so <print="n"> F4
 \va <speaker="M21"> lu˩qʰv̩˩˧, ton m3
-\pdl classifier
 \pdv lo˩
 \de Gully; ravine; valley.
 \ge gully
@@ -31968,7 +31446,6 @@
 \vf mère
 \vf prononciation de TS: plutôt lo˧ kʰwɑ˥, sans la friction; noté aussi: lo˩ kʰwɑ˩˥
 \va <speaker="M21"> lo˩kʰwɤ˥, ton d6
-\pdl classifier
 \pdv pʰo˧˥
 \de Arm.
 \ge arm
@@ -32027,7 +31504,6 @@
 \df Gaucher.
 \gf gaucher
 \xv ʈʂʰɯ˧ | lo˩ʁwæ˧ gɤ˥ tʰv̩˩!
-\xo
 \xe He's left-handed!
 \xn 他是左撇子！
 \xf Il est gaucher!
@@ -32063,7 +31539,7 @@
 \ton L# | L-
 \lc lo˧ʂv̩˩hi˩nɑ˧mi˧
 \so <print="n"> F4
-\de Lake Lugu.
+\de Lugu Lake.
 \ge Lake_Lugu
 \dn 泸沽湖
 \gn 泸沽湖
@@ -32134,7 +31610,6 @@
 \ton #H
 \lc lo˧tɑ˧lo˧tɕi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pɤ˥
 \pdv pʰæ˧˥
 \de Streamer of scriptures.
@@ -32158,7 +31633,6 @@
 \ton LM
 \lc lo˩tʰo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv dze˩
 \de Handcuffs, chains to tie a criminal's hands.
 \ge chains
@@ -32188,7 +31662,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ʈʂæ˧˥
 \de Joints of the arm: wrist, elbow.
 \ge joint_of_arm
@@ -32213,7 +31686,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ɬo˥ tsʰe˥ mæ˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Hip.
 \ge hip
@@ -32259,7 +31731,6 @@
 \lc lo˩ʈʰɯ˥
 \so <print="n"> F4
 \va <speaker="M21"> lo˩ʈʰɯ˥, ton d6
-\pdl classifier
 \pdv ʈv̩˩
 \de Elbow.
 \ge elbow
@@ -32281,7 +31752,6 @@
 \ton LM
 \lc lo˩ʈv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈv̩˩
 \de Fist.
 \ge fist
@@ -32377,7 +31847,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Field.
 \ge field
@@ -32575,7 +32044,6 @@
 \va <speaker="M21"> ID.: ɬv̩˧˥, ton m4b
 \vf confirmé: n'est pas m1
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Brains.
 \ge brains
@@ -32600,7 +32068,6 @@
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Vegetable bed.
 \ge vegetable_bed
@@ -32629,7 +32096,6 @@
 \nt <type="hist" print="n"> (noté “lv̩˧dʑi˥, ton d4"; mais ˧ ˥ correspond à d7; vérifié en 2011: est bien d7) (n'est pas dʑɯ; confirmé en avril 2012)
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈʂwɤ˧
 \de Stone chips, little slabs of stone.
 \ge stone_chips
@@ -32694,7 +32160,6 @@
 \vf <type="tone"> L
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Stone.
 \ge stone
@@ -32724,7 +32189,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> lv̩˧mi˧ʈʂu˩bɤ˩
 \vf tons vérifiés); lv̩˧mi˧ bu˧ +ɲi˥: muret en pierre
-\pdl classifier
 \pdv ɭɯ˧
 \de Stone wall.
 \ge stone_wall
@@ -32747,7 +32211,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Little slabs of stone, stone chips.
 \ge little_slabs_of_stone
@@ -32769,7 +32232,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ɲi˧mi˧mæ˧dv̩˧ +ɲi˥
-\pdl classifier
 \pdv mi˩
 \de Praying mantis.
 \ge praying_mantis
@@ -32848,7 +32310,6 @@
 \lc lv̩˧pʰv̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰv̩˩
 \de Paddy field.
 \ge paddy_field
@@ -32911,7 +32372,6 @@
 \va <speaker="M18"> lv̩˧sv̩˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Lisu (ethnic group).
 \ge Lisu
@@ -32972,7 +32432,6 @@
 \lc lv̩˧tsɯ˥
 \so <print="n"> F4
 \va <speaker="M18"> *
-\pdl classifier
 \pdv nɑ˧
 \de Oven.
 \ge 炉子::oven
@@ -33311,7 +32770,6 @@
 \vf fortement diphtongué; n'est “absolument pas" /o/; TS accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence
 \vf sens: terme générique pour cendres de bois et de charbon
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈʂwɤ˧
 \de Ashes (of plants, charcoal…), cinders.
 \ge ashes
@@ -33495,7 +32953,6 @@
 \vf emprunt
 \va <speaker="M18"> périphrase: “l'eau qu'on utilise avec le stylo"
 \va <speaker="M21"> mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
-\pdl classifier
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> bol
 \de Ink (solid).
@@ -33522,7 +32979,6 @@
 \vf <type="tone"> LML
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Whip.
 \ge whip
@@ -33550,7 +33006,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Harness.
 \ge harness
@@ -33574,7 +33029,6 @@
 \sd <langue="eng"> religion
 \ton LM+#H-
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
@@ -33594,7 +33048,6 @@
 \sd <langue="eng"> religion
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
@@ -33620,7 +33073,6 @@
 \va <speaker="M21"> mi˧pæ˧, ton d1; employé à la place du mot fourni par F4
 \vf le plus grand; sans interstices); sens vérifié d'après photo. Sans doute forme plus conservatrice, celle de F4 étant le fruit d'une harmonie vocalique?
 \va <speaker="M23"> mi˧pæ˧
-\pdl classifier
 \pdv nɑ˧
 \de Large sifter.
 \ge large_sifter
@@ -33687,7 +33139,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mæ˧ko˩
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tail.
 \ge tail
@@ -33734,7 +33185,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Coccyx.
 \ge coccyx
@@ -33753,7 +33203,6 @@
 \sd <langue="eng"> abstract
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Origin, distant cause, remote cause.
 \ge origin/cause
@@ -33912,7 +33361,6 @@
 \ton LM
 \lc mi˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Female (animal).
 \ge female
@@ -33939,7 +33387,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Wound.
 \ge wound
@@ -34059,7 +33506,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> erreur: i˩ tʰv̩˩˥ “avoir des boutons"
 \vf confirmé par F4); à déplacer
-\pdl classifier
 \pdv kʰwɤ˥
 \de Wound.
 \ge wound
@@ -34090,7 +33536,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> mi˩lv̩˩˧, ton d3 ; donne: mi˩lv̩˥ ɖɯ˩ hĩ˩˥; mi˩lv̩˥ ɖɯ˩ ɲi˥ “le bambou est gros"
 \va <speaker="M23"> mi˩li˩˧, ton d3; restent des traces de friction du /ɬ/ en citation; mais paraît en train de se confondre avec /l/: ds les expressions composées, se simplifie en /li/; ex.: lɑ˧hwɤ˩mi˩li˩
-\pdl classifier
 \pdv dzi˩
 \de Large bamboo.
 \ge large_bamboo
@@ -34123,7 +33568,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> mi˩lv̩˩ʁv̩˩bv̩˧ +ɲi˩; ʁv̩˧bv̩˧
 \vf vérifié, n'est pas ʁu
-\pdl classifier
 \pdv kɤ˧˥
 \de Bamboo shoot.
 \ge bamboo_shoot
@@ -34151,7 +33595,6 @@
 \va <speaker="M21"> mi˧lu˧
 \vf ton d2a), mi˧lu˧lɑ˩
 \vf initiale est voisée; n'est pas/plus ɬ
-\pdl classifier
 \pdv kʰwɤ˥
 \de Prayer.
 \ge prayer
@@ -34194,7 +33637,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Small sifter.
 \ge sifter
@@ -34219,7 +33661,6 @@
 \vf <type="tone"> M
 \va <speaker="M18"> mi˥ tʰv̩˥
 \va <speaker="M21"> idem 203
-\pdl classifier
 \pdv kʰwɤ˥
 \de Scar.
 \ge scar
@@ -34243,7 +33684,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɲi˩pʰv̩˩˧, ton d3; confirmé: n'est pas mi˩
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv dzi˩
 \de Nettle.
 \ge nettle
@@ -34268,7 +33708,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Walking-stick.
 \ge walking_stick
@@ -34290,7 +33729,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Woman; also the name of the second pillar in the main room (the feminine pillar).
 \ge woman
@@ -34440,7 +33878,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdv mo˧˥
 \de Mushroom.
@@ -34592,7 +34029,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> mu˧ju˩mi˩
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Owl.
 \ge owl
@@ -34610,7 +34046,6 @@
 \ton L#-
 \lc mo˧jo˩mi˩pʰv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male owl.
 \ge male_owl
@@ -34628,7 +34063,6 @@
 \ton L#-
 \lc mo˧jo˩mi˩zo˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby owl, owlet.
 \ge baby_owl
@@ -34670,7 +34104,6 @@
 \lc mo˩kv̩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Mushrooms that grows on fallen trunks, e.g. oaks.
 \ge 蘑菇::mushroom_of_fallen_trees
@@ -34719,7 +34152,6 @@
 \ton L
 \lc mɤ˩ɬi˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qʰwɤ˧˥
 \de Butter tea.
 \ge butter_tea
@@ -34740,7 +34172,6 @@
 \ton H#
 \lc mo˧mo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Steamed bun.
 \ge steamed_bun
@@ -34758,7 +34189,6 @@
 \ton L
 \lc mɤ˩mv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qʰwɤ˧˥
 \de Candle holder.
 \ge candle_holder
@@ -34897,7 +34327,6 @@
 \ton H#
 \lc mo˧qʰwɤ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Wooden shuttle of zip line (flying fox): it glides along the rope; the passenger, horse, or load of goods is tied to the shuttle.
 \ge shuttle_of_zip_line
@@ -34916,7 +34345,6 @@
 \ton LM+#H
 \lc mo˩ɻ̍˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Black mushroom, ‘wood ear' (an edible fungus).
 \ge black_mushroom
@@ -34976,7 +34404,6 @@
 \vf interprétation de TS: serait “mongole" + “garçon,
 \vf jeune) homme"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Soldier.
 \ge soldier
@@ -35189,7 +34616,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Daughter.
 \ge daughter
@@ -35314,7 +34740,6 @@
 \va <speaker="F5"> mv̩˧
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Sky.
 \ge sky
@@ -35356,7 +34781,6 @@
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv æ̃˩
 \de Fire.
 \ge fire
@@ -35380,7 +34804,6 @@
 \sd <langue="eng"> society
 \ton L-L#
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Fool, idiot (female).
 \ge idiot
@@ -35408,7 +34831,6 @@
 \vf milieu de la plante
 \va <speaker="M21"> ID.; ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Sole of the foot.
 \ge sole_of_the_foot
@@ -35433,7 +34855,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Dragon.
 \ge dragon
@@ -35458,7 +34879,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv æ̃˩
 \de Spark.
 \ge spark
@@ -35486,7 +34906,6 @@
 \vf sens de la périphrase: “le mandarin du ciel est en train de boire; il va pleuvoir"). Variantes, dont: tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥…
 \vf dʑjɤ˩˥: aspect imperfectif; “est en train de"; confirmé; avais d'abord noté dʑo˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> on peut également dire simplement:
 \de Rainbow.
@@ -35535,7 +34954,6 @@
 \sd <langue="eng"> natural environment
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Field.
 \ge field
@@ -35640,7 +35058,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Barley, |fi{Hordeum vulgare L}.
 \ge barley
@@ -35727,7 +35144,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Sky spirit.
 \ge sky_spirit
@@ -35750,7 +35166,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> idem M23
 \va <speaker="M23"> mv̩˧gv̩˧dv̩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Instep, top part of the foot.
 \ge instep
@@ -35814,7 +35229,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Clap of thunder.
 \ge clap_of_thunder
@@ -35870,7 +35284,6 @@
 \vf ex.: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde"
 \vf vérification faite: n'est pas: mv̩˩kʰv̩˩˥
 \va <speaker="M21"> mv̩˧kʰv̩˧, ton d2a; mv̩˧kʰv̩˧ dʑi˥ ze˩, mv̩˧kʰv̩˧ dʑi˥ ɲi˩
-\pdl classifier
 \pdv æ̃˩
 \de Smoke.
 \ge smoke
@@ -35933,7 +35346,6 @@
 \ton M
 \lc mv̩˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Woman.
 \ge woman
@@ -35961,7 +35373,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> bi˩pɑ˧, ton d6
 \vf sens confirmé); la périphrase mv̩˧mv̩˥di˩ “objet) qui sert à souffler" serait plutôt employée pour les instruments du fumeur
-\pdl classifier
 \pdv ɭɯ˧
 \de Bellows.
 \ge bellows
@@ -35983,7 +35394,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Toe.
 \ge toe
@@ -36004,7 +35414,6 @@
 \ton LM
 \lc mv̩˩pʰæ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kitchen: the room where pig swill is cooked, wine is distilled, and some of the food for people is prepared.
 \ge kitchen
@@ -36058,7 +35467,6 @@
 \ton L#
 \lc mv̩˧qo˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Papaya.
 \ge papaya
@@ -36087,7 +35495,7 @@
 \df Village na hors de la plaine de Yongning, vers le Lac.
 \gf nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lake Lugu. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 04/Sep/2015
@@ -36108,7 +35516,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mv̩˧ʁu˧, ton d2a
 \vf mv̩˧ʁu˧ ɲi˥); réalisation en forme de citation différente de celle de F4: MM, non MH.
-\pdl classifier
 \pdv ɭɯ˧
 \de Heavens, sky.
 \ge heavens/sky
@@ -36409,7 +35816,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧tsʰo˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Firewood full of resin, used to start a fire.
 \ge firewood_full_of_resin
@@ -36432,7 +35838,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Chin.
 \ge chin
@@ -36478,7 +35883,6 @@
 \va <speaker="F5"> mv̩˧tsɯ˥
 \va <speaker="M18"> mv̩˧tsɯ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Beard.
 \ge beard
@@ -36506,7 +35910,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ɖʐu˩
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Mortar.
 \ge mortar
@@ -36591,7 +35994,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ ʈʂv̩˥
 \va <speaker="M21"> mv̩˧ʈʂv̩˥, ton d7
-\pdl classifier
 \pdv kʰɯ˩
 \de Wrinkle.
 \ge wrinkle
@@ -36618,7 +36020,6 @@
 \va <speaker="M18"> mv̩˧ɖʐu˩nv̩˩mi˩˧ “le cœur du mortier"
 \vf tons confirmés
 \va <speaker="M21"> gv̩˩nv̩˩˧, ton d3; en composition: mv̩˧ʈʂv̩˩gv̩˩nv̩˩; la périphrase avec “cœur" fournie par F4 s'emploierait pour un moulin, mais pas pour le pilon
-\pdl classifier
 \pdv nɑ˧
 \de Small pestle.
 \ge small_pestle
@@ -36642,7 +36043,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mɯ˥ ʈʰɯ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Heel.
 \ge heel
@@ -36686,7 +36086,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv qɑ˩
 \de Torch.
 \ge torch
@@ -36721,7 +36120,6 @@
 \xf pendant la saison des pluies
 \xc
 \xv mv̩˧ʐe˧-qo˥ ɳɯ˩, | hi˩ gi˩˥!
-\xo
 \xe Rain only comes with the rainy season! (Context: in the first days of May, a visitor who sees the sky getting cloudy asks whether it is going to rain. Gisso answers that it rain only begins in earnest with the coming of the rainy season.)
 \xn 雨季的时候，（会）下雨！（情景：五月初，一个人问会不会下雨，给若回答说，雨季来了才会开始大量下雨。）
 \xf C'est à partir de l'été qu'il pleut! / Les pluies commencent avec la saison des pluies! (Contexte: dans les premiers jours de mai, un visiteur qui voit le ciel se couvrir demande s'il va pleuvoir; Gisso répond que c'est seulement avec l'été que les pluies commencent.)
@@ -36743,7 +36141,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv po˩
 \de Gunpowder.
 \ge gunpowder
@@ -36769,7 +36166,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁu˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
-\pdl classifier
 \pdv kʰɯ˩
 \de Gun; firelock.
 \ge gun
@@ -36787,7 +36183,6 @@
 \sd <langue="eng"> abstract
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de News, gossip.
 \ge news/gossip
@@ -36815,7 +36210,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdv v̩˧
 \de Young lady.
@@ -36875,7 +36269,6 @@
 \nt <type="sem"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧-bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Brothers.
 \ge brothers
@@ -36903,7 +36296,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Oats.
 \ge oats
@@ -37175,7 +36567,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Endonym: Na.
 \ge |fg{endonym.Na}
@@ -37434,7 +36825,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Naxi (ethnic group).
 \ge Naxi
@@ -37490,7 +36880,6 @@
 \ton LM
 \so <print="n"> F4
 \vf emprunt
-\pdl classifier
 \pdv ɭɯ˧
 \de Pumpkin; cushaw.
 \ge 南瓜::pumpkin
@@ -37525,7 +36914,6 @@
 \nt <type="sem"> sens vérifié avec M18
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Difficulties, complications, hardship, overwork, great fatigue.
 \ge hardship
@@ -37638,7 +37026,6 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Streamer of scriptures, attached to pillars within the house.
 \ge streamer_of_scriptures
@@ -37785,7 +37172,6 @@
 \ton #H
 \lc ni˧
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Amaranth.
 \ge amaranth
@@ -38043,7 +37429,6 @@
 \vf <type="tone"> L
 \va <speaker="M18"> ts: nju˩bv̩˩ʂe˩sɑ˧
 \va <speaker="M21"> id
-\pdl classifier
 \pdv mi˩
 \de Grasshopper, cricket.
 \ge grasshopper
@@ -38065,7 +37450,6 @@
 \lc ɲi˩bv̩˩ʂe˩sɑ˥
 \so <print="n"> F4
 \va <speaker="F5"> *
-\pdl classifier
 \pdv mi˩
 \de Dragonfly.
 \ge dragonfly
@@ -38088,7 +37472,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Penis.
 \ge penis
@@ -38106,7 +37489,6 @@
 \ton H#
 \lc ni˧fv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de A very large bag, either made of leather (to carry products over long distances by caravan) or of linen (to wrap up a corpse for temporary inhumation).
 \ge large_bag
@@ -38134,7 +37516,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Rope attached to a cow's nasal ring.
 \ge nose_rope/nasal_ring
@@ -38181,7 +37562,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Nose.
 \ge nose
@@ -38244,7 +37624,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Sun.
 \ge sun
@@ -38282,7 +37661,6 @@
 \nt <type="hist" print="n"> (vérifié: n'est pas /dzi/)
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ʂɯ˩
 \de Solar eclipse.
 \ge solar_eclipse
@@ -38340,7 +37718,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Rays (of sunshine).
 \ge rays_of_sunshine
@@ -38359,7 +37736,6 @@
 \ton M
 \lc ɲi˧mi˧ʈæ˧ʂɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Sunflower.
 \ge sunflower
@@ -38415,7 +37791,6 @@
 \ton #H
 \lc ni˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Sisters.
 \ge sisters
@@ -38537,7 +37912,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Nostril.
 \ge nostril
@@ -38573,7 +37947,7 @@
 \xn 小落水，是纯摩梭的一个村落！
 \xf Nhissei, c'est un village entièrement Na!
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lake Lugu. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 09/Sep/2015
@@ -38588,7 +37962,6 @@
 \lc ɲi˧to˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de The mouth, seen as including the part of the face surrounding the mouth, in particular the jaw.
 \ge mouth
@@ -38635,7 +38008,6 @@
 \ton MH#
 \lc ɲi˧ʈʂæ˧ʑi˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de The building inside the farm where the bedrooms are located, and a living-room (downstairs in the centre). Literally ‘the two-floor building', as this is the only building that has rooms on two floors.
 \ge two_floor_building
@@ -38881,7 +38253,6 @@
 \vf <type="tone"> L+#H
 \va <speaker="M21"> nju˩tsɯ˧, ton d6 et non d5; n'est pas sûr du sens
 \va <speaker="M23"> mjɤ˩tsɯ˧
-\pdl classifier
 \pdv v̩˧
 \de Hmong (ethnic group).
 \ge Hmong
@@ -38904,7 +38275,6 @@
 \lc ɲi˧ze˧hæ̃˩ze˩
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Swift.
 \ge swift
@@ -38926,7 +38296,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Fish.
 \ge fish
@@ -39087,7 +38456,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> njɤ˧ bæ˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈʰɤ˥
 \de Tear.
 \ge tear
@@ -39105,7 +38473,6 @@
 \ton LM
 \lc njæ˩pʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de White of the eye.
 \ge white_of_the_eye
@@ -39130,7 +38497,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Eye sand, gum in the eyes, rheum.
 \ge eye_sand
@@ -39184,7 +38550,6 @@
 \va <speaker="M18"> njæ˩ kwæ˩˥ i:˥ hĩ˥
 \vf pas reconnu par F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Blind.
 \ge blind
@@ -39259,7 +38624,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Eyebrow.
 \ge eyebrow
@@ -39430,7 +38794,6 @@
 \ton LH
 \lc njɤ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Eye (monosyllable).
 \ge eye
@@ -39565,7 +38928,6 @@
 \vf phonèmes: sans doute /ny/ ou /ŋy/
 \va <speaker="M21"> nv̩˩bi˥, ton d6; dit aussi: ɲy˩bi˥; se corrige ensuite en: njɤ˩bi˥, puis, le 14 mai, en: nju˩bi˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Breast.
 \ge breast
@@ -39597,7 +38959,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> njɤ˩ bi˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Eyelid (top eyelid).
 \ge top_eyelid
@@ -39626,7 +38987,6 @@
 \vf b) ɲi˧tsʰe˧
 \vf voyelle /i/ confirmée, tons confirmés
 \va <speaker="M21"> nv̩˧bi˧li˥ +ɲi˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Lips.
 \ge lips
@@ -39651,7 +39011,6 @@
 \va <speaker="F5"> njɤ˩njɤ˧di˥
 \va <speaker="M18"> njɤ˩njɤ˧di˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Glue.
 \ge glue
@@ -39673,7 +39032,6 @@
 \lc njɤ˩gɤ˧lɑ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Eyeball.
 \ge eyeball
@@ -39691,7 +39049,6 @@
 \ton L#
 \lc njɤ˧hṽ̩˩
 \so <print="n"> F5
-\pdl classifier
 \pdv qɑ˩
 \de A plant used as fodder for the pigs.
 \ge pig_fodder
@@ -39731,7 +39088,6 @@
 \lc njɤ˩kʰi˥
 \so <print="n"> F4
 \va <speaker="F5"> njɤ˩ɭɯ˧ʁæ˧
-\pdl classifier
 \pdv kʰwɤ˥
 \de Bottom eyelid.
 \ge bottom_eyelid
@@ -39752,7 +39108,6 @@
 \ton L#
 \lc njɤ˧kv̩˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cheekbone.
 \ge cheekbone
@@ -39860,7 +39215,6 @@
 \va <speaker="M18"> njɤ˩lv̩˧, ton d6
 \va <speaker="M21"> njɤ˩lv̩˧, ton d6
 \vf n'est pas lɯ
-\pdl classifier
 \pdv ɭɯ˧
 \de Eye.
 \ge eye
@@ -39878,7 +39232,6 @@
 \ton H#
 \lc njɤ˧mv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qɑ˩
 \de A plant used as fodder for the pigs, |fi{Chenopodium album}.
 \ge pig_fodder
@@ -39903,7 +39256,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Camel.
 \ge camel
@@ -39931,7 +39283,6 @@
 \ton L#
 \lc njɤ˧nɑ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Eyeball.
 \ge eyeball
@@ -39954,7 +39305,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ɲi˩pɤ˩lv̩˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Udder.
 \ge udder
@@ -39980,7 +39330,6 @@
 \vf “os de l'oeil"
 \vf b) njɤ˩ kʶwɑ˥, ou ˩˩˥, ts hésite
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Orbit; eye socket.
 \ge orbit
@@ -39998,7 +39347,6 @@
 \ton L-L#
 \lc njɤ˩tse˧tse˩
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Branched horsetail, |fi{Equisetum ramosissimum Desf.} This is a wild herb used in traditional medicine; its stem consists of small segments; when pulled/plucked, the stem breaks at one of these articulations.
 \ge branched_horsetail
@@ -40036,7 +39384,6 @@
 \ton LM+MH#
 \lc njɤ˩ʈʂv̩˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Loach (a kind of fish).
 \ge loach
@@ -40118,7 +39465,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ŋɤ˩ŋɤ˩˥, ton d3
-\pdl classifier
 \pdv kʰwɤ˥
 \de Palate.
 \ge palate
@@ -40524,7 +39870,6 @@
 \va <speaker="M21"> ɳv̩˩˧, ton m1
 \vf d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon
 \vf vient de: bois+papillon: pʰi˥li˩)? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant
-\pdl classifier
 \pdv mi˩
 \de Moth; insect that eats into wood, books, clothes etc.
 \ge moth
@@ -40629,7 +39974,6 @@
 \va <speaker="F4"> ɳɯ˩dʑɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˥
 \pdc <langue="fra"> casseroles
 \de Tofu, bean curd.
@@ -40655,7 +39999,6 @@
 \vf <type="tone"> L+#H
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˥
 \de Long-boiled soft beancurd.
 \ge soft_beancurd
@@ -40679,7 +40022,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˥
 \de Bean; string bean, kidney bean.
 \ge bean
@@ -40702,7 +40044,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \pdc <langue="fra"> panier
 \de Green bean, snap bean, string bean; one consumes the pod with the seed inside.
@@ -40727,7 +40068,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv wɤ˩
 \pdc <langue="fra"> une charge
 \de Soy beans, soya beans.
@@ -40754,7 +40094,6 @@
 \va <speaker="M18"> nv̩˩mi˩˥
 \vf d'abord noté nv̩˧mi˩˥
 \va <speaker="M21"> ID.; propose /nv̩˩mi˩-tsɯ˧/ pour “pouls" 手脉
-\pdl classifier
 \pdv ɭɯ˧
 \de Heart.
 \ge heart
@@ -40910,7 +40249,6 @@
 \lc nv̩˩tɕʰi˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \pdc <langue="fra"> panier
 \de Fine chaff of beans (used to feed cows).
@@ -40932,7 +40270,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mɤ˩
 \de Coarse chaff of beans.
 \ge bean_chaff(coarse)
@@ -40951,7 +40288,6 @@
 \ton H#
 \lc nv̩˧tv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Nosebag.
 \ge nosebag
@@ -41038,7 +40374,6 @@
 \ton M
 \lc ŋwæ˧qʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Oven to make tiles.
 \ge tile_oven
@@ -41167,7 +40502,6 @@
 \ton LM+#H-
 \lc ŋwɤ˩ɭɯ˧tse˥pʰæ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kneebone.
 \ge kneebone
@@ -41190,7 +40524,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ŋwɤ˩ɬv̩˧˥, ton d5a
 \va <speaker="M23"> ŋwɤ˩ɬv̩˧˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Cartilages of the knee; literally “marrow of the knee". This expression emphasizes the fragility of this articulation.
 \ge knee
@@ -41222,7 +40555,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ŋwæ˧pʰæ˧
 \va <speaker="M21"> ŋwæ˧pʰæ˧˥, ton d2b
-\pdl classifier
 \pdv pʰæ˧˥
 \de Tile (roof tile).
 \ge 瓦::tile
@@ -41247,7 +40579,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Knee.
 \ge knee
@@ -41286,7 +40617,6 @@
 \ton M
 \lc ŋwɤ˧ʈʂwæ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧, pʰæ˧˥
 \de Tile and brick: characterization of the main materials used for Chinese-style house construction.
 \ge 瓦砖::tile_and_brick
@@ -41427,7 +40757,6 @@
 \vf <type="tone"> MH#
 \va <speaker="M18"> ũ˧dv̩˧˥ ; donne: ũ˧dv̩˧ kʰv̩˥mi˩ “chien-loup"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wolf.
 \ge wolf
@@ -41451,7 +40780,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wolfhound.
 \ge wolfhound
@@ -41469,7 +40797,6 @@
 \ton LM+H#
 \lc õ˩dv̩˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female wolf.
 \ge female_wolf
@@ -41487,7 +40814,6 @@
 \ton LM+#H
 \lc õ˩dv̩˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male wolf.
 \ge male_wolf
@@ -41544,7 +40870,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Mosquito.
 \ge mosquito
@@ -41577,7 +40902,6 @@
 \va <speaker="F5"> ID.; mais emploie maintenant le mot chinois
 \va <speaker="M18"> ũ˧ʈʂwɤ˧kv̩˧dʑi˧˥
 \vf d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; ts se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Mosquito net.
 \ge mosquito_net
@@ -41778,7 +41102,6 @@
 \ton MH.M
 \lc pæ˧˥hwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Solution, method (early borrowing from Chinese).
 \ge 办法::solution
@@ -41800,7 +41123,6 @@
 \ton #H
 \lc pæ˧kʰwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Silver coin of the imperial times.
 \ge silver_coin
@@ -41864,7 +41186,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Thick wood plank. A well-prepared plank, used in construction, could last a hundred years.
 \ge thick_plank
@@ -41914,7 +41235,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Face.
 \ge face
@@ -41994,7 +41314,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Young man, young chap, young lad.
 \ge young_man
@@ -42018,7 +41337,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Name of the first pillar in the main room, the one closest to the door (masculine pillar, the other one being feminine).
 \ge masculine_pillar
@@ -42059,7 +41377,6 @@
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bench, stool.
 \ge bench
@@ -42082,7 +41399,6 @@
 \so <print="n"> F4
 \vf périphrase) *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Washbasin, basin to wash one's face.
 \ge washbasin
@@ -42291,7 +41607,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Linen cloth.
 \ge linen_cloth
@@ -42369,7 +41684,6 @@
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˧
 \pdc <langue="fra"> paire
 \de Sandal.
@@ -42399,7 +41713,6 @@
 \vf emprunt
 \va <speaker="M21"> emprunt: pʰi˩ku˥
 \vf prononce “bien", avec la nasale: pʰiŋ˩ku˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Apple.
 \ge 苹果::apple
@@ -42420,7 +41733,6 @@
 \nt <type="hist" print="n"> observation de Roselle Dobbs: ce serait /pʰi˧kʰv̩˧/: initiale de 1e syll. aspirée. Réponse 2016 : OUI. Modifié en fonction.
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Dustpan, wicker scoop, dirt-scooping implement.
 \ge dustpan
@@ -42461,7 +41773,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Butterfly.
 \ge butterfly
@@ -42553,7 +41864,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> pʰi˧mu˩: grand objet pour vanner; cf aussi 1 et 6 de l'entrée 596
-\pdl classifier
 \pdv nɑ˧
 \de Winnowing fan.
 \ge winnowing_fan
@@ -42598,7 +41908,6 @@
 \ton L
 \lc pi˩mv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de |fi{Fritillaria cirrhosa}.
 \ge 贝母::Fritillaria_cirrhosa
@@ -42639,7 +41948,6 @@
 \va <speaker="M18"> pi˩ɻ̍˧˥
 \vf d'abord noté pi˩ ɻ̍˧
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Double chin; flesh under the chin.
 \ge double_chin
@@ -42679,7 +41987,6 @@
 \lc pʰi˩tʰɑ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv po˧
 \de Tinder, touchwood.
 \ge tinder
@@ -42698,7 +42005,6 @@
 \ton LM+#H
 \lc pi˩ti˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Silver nugget, piece of raw silver.
 \ge silver_nugget
@@ -42994,7 +42300,6 @@
 \lc pɤ˧
 \so <print="n"> F4
 \va <speaker="M18"> *
-\pdl classifier
 \pdv pɤ˥
 \pdv pʰæ˧˥
 \de Drawing, painting.
@@ -43074,7 +42379,6 @@
 \ton LM
 \lc pʰɤ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Jackal, hyena.
 \ge jackal
@@ -43210,7 +42514,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Gift, present (typical gifts are tobacco, tea leaf, candies, and wine; one does not usually offer clothes, apart from specific ritual occasions).
 \ge gift
@@ -43288,7 +42591,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Craftsman.
 \ge craftsman
@@ -43362,7 +42664,6 @@
 \nt <type="hist" print="n"> jusqu'en août 2012: noté pɤ˩jɤ˧, ton LM
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv jɤ˧˥
 \de Dough for making bread (steamed bread, as well as bread that is fried or cooked on a griddle.
 \ge dough
@@ -43375,7 +42676,6 @@
 \sd <langue="eng"> food
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv jɤ˧˥
 \de Bread, cake (typically round and flat).
 \ge bread/cake
@@ -43426,7 +42726,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Steamer used for bread (buns).
 \ge steamer_for_buns
@@ -43449,7 +42748,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Photo, photography (newly coined word).
 \ge photo
@@ -43500,7 +42798,6 @@
 \vf <type="tone"> #H
 \va <speaker="M21"> pu˧lu˧, ton d1 = idem ju˧tu˧kɑ˧
 \va <speaker="M23"> ju˧tu˧kɑ˧ +ɲi˥ “mouton - mâle"
-\pdl classifier
 \pdv pʰo˧˥
 \de Ram.
 \ge ram
@@ -43524,7 +42821,6 @@
 \sd <langue="eng"> body
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Nape of neck.
 \ge nape
@@ -43563,7 +42859,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Frog.
 \ge frog
@@ -43606,7 +42901,6 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female jackal.
 \ge female_jackal
@@ -43631,7 +42925,6 @@
 \va <speaker="F5"> ID.+emprunt
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Ball.
 \ge ball
@@ -43655,7 +42948,6 @@
 \sd <langue="eng"> plant
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cabbage.
 \ge 包包菜::cabbage
@@ -43674,7 +42966,6 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male frog.
 \ge male_frog
@@ -43694,7 +42985,6 @@
 \np 2 tons possibles: L, #H
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male jackal.
 \ge male_jackal
@@ -43765,7 +43055,6 @@
 \so <print="n"> F4
 \va <speaker="M23"> pɤ˩tɕɯ˧˥
 \vf <speaker="M23">noté comme ton L une fois, comme L+MH# une autre
-\pdl classifier
 \pdv mi˩
 \de Tadpole.
 \ge tadpole
@@ -43793,7 +43082,6 @@
 \va <speaker="M18"> ts: pɤ˩tɕi˩˧, ton d3
 \va <speaker="M21"> pɤ˩tɕi˧-pɤ˥mi˩: voudrait dire “têtard et grenouille"
 \vf tv
-\pdl classifier
 \pdv mi˩
 \de Tadpole.
 \ge tadpole
@@ -43814,7 +43102,6 @@
 \ton LM-MH#
 \lc pɤ˩tɕɯ˧ʁo˧ɖɯ˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Tadpole.
 \ge tadpole
@@ -43859,7 +43146,6 @@
 \vf <type="tone"> L
 \va <speaker="M18"> pɤ˧ti˥
 \va <speaker="M21"> pɤ˩ti˧˥, ton d5a
-\pdl classifier
 \pdv ɭɯ˧
 \de Stool, small bench.
 \ge stool/bench
@@ -43938,7 +43224,6 @@
 \ton L
 \lc pʰɤ˩zo˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby jackal.
 \ge baby_jackal
@@ -43968,7 +43253,6 @@
 \vf tj incertitude; d'abord noté pɑ˩˥ ʐv̩˩; corrigé en ˩˥˧; 30 nov.: ts corrige à nouveau en ˩˥˩
 \vf sens: étoffe matelassée
 \vf peut-être emprunt au tibétain
-\pdl classifier
 \pdv tsʰi˥
 \de Mattress.
 \ge 被褥::mattress
@@ -44296,7 +43580,7 @@
 \xv njɤ˧ | ɑ˩pʰo˩ pv̩˥.
 \xe I get out, I go outside.
 \xn 我出去到外边。
-\xf Je sors, je pars (seul). (Personne ne m'accompagne.) xxxx autres exemples
+\xf Je sors, je pars (seul). (Personne ne m'accompagne.)
 
 \lx pv̩˧˥
 \sf <nb="B"> 1176
@@ -44392,7 +43676,6 @@
 \ton M
 \lc pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Male.
 \ge male
@@ -44681,7 +43964,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Blanket.
 \ge blanket
@@ -44707,7 +43989,6 @@
 \vf d'abord noté ˩ ˥
 \va <speaker="M21"> pv̩˩lɯ˧, ton d6
 \vf d'abord noté ˩ ˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Button.
 \ge button
@@ -44762,7 +44043,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> sv̩˧ʈʰæ˧kʰwɤ˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Woolen skirt. (Not in common use in Yongning.).
 \ge woolen_skirt
@@ -44783,7 +44063,6 @@
 \lc pʰv̩˧ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tibetan wool fabric.
 \ge wool_fabric
@@ -44808,7 +44087,6 @@
 \vf a) pv̩˧ kæ:˧ lv̩˧
 \vf +ɲi˩ “c'est un…"
 \vf allongement: non élucidé, cf ci-dessus
-\pdl classifier
 \pdv pʰv̩˩
 \de Nonirrigated farmland; dry land.
 \ge dry_land
@@ -44831,7 +44109,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Comb (coarse).
 \ge coarse_comb
@@ -44875,7 +44152,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Shuttle on a weaving loom (traditional shuttle made of wood).
 \ge shuttle
@@ -44906,7 +44182,6 @@
 \vf tons vérifiés; d'abord noté ˩˥) tons à vérifier
 \vf d'abord noté pʰv̩˩lv̩˩˥
 \va <speaker="M21"> ID.; pʰv̩˩bɑ˩lɑ˧ +ɲi˩
-\pdl classifier
 \pdv tsʰi˥
 \de Tibetan wool fabric.
 \ge Tibetan_wool_fabric
@@ -44929,7 +44204,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> pv̩˧ʂɯ˩, ton d4: désignerait les jades , selon M21
-\pdl classifier
 \pdv ɭɯ˧
 \de Amber.
 \ge amber
@@ -44975,7 +44249,6 @@
 \lc pv̩˩tɑ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bucket, pail.
 \ge bucket/pail
@@ -45067,7 +44340,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Fine comb (used to comb out lice).
 \ge fine_comb
@@ -45159,7 +44431,6 @@
 \ton H#
 \lc pʰv̩˧tv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Male water buffalo.
 \ge male_water_buffalo
@@ -45377,7 +44648,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Glue.
 \ge glue
@@ -45870,7 +45140,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Trench (monosyllable).
@@ -45905,7 +45174,6 @@
 \vf c) ʐwæ˧bv̩˥ʐwæ˧kʶæ˧, fumier de cheval
 \vf d) i˥bv̩˥i˥kʶæ˧, fumier de vache
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˥
 \de Excrement, dung, droppings.
 \ge excrement
@@ -45936,7 +45204,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˥
 \de Flatulence, fart.
 \ge fart
@@ -46181,7 +45448,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʶæ˧bæ˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Spoon, used for salt, tsamba… It corresponds to European teaspoons and tablespoons.
 \ge spoon
@@ -46224,7 +45490,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> qæ˩do˧
-\pdl classifier
 \pdv kɤ˧˥
 \de Timber, lumber.
 \ge lumber
@@ -46257,7 +45522,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Sweet corn; maize; Indian corn.
 \ge sweet_corn
@@ -46296,7 +45560,6 @@
 \sd <langue="eng"> house
 \ton -L
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Horizontal beams of the rack for drying grain: ‘the place to hang sweetcorn'.
 \ge beams_of_drying_rack
@@ -46317,7 +45580,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰɑ˧dze˧mv̩˧di˧˥
-\pdl classifier
 \pdv pʰv̩˩
 \de Maize field.
 \ge maize field, sweetcorn field
@@ -46396,7 +45658,6 @@
 \ton #H
 \lc qʰæ˧kʰwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small dam (in canal; made of stones and earth).
 \ge small_dam
@@ -46421,7 +45682,6 @@
 \lc qʰæ˧lo˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Small gulley, small trench.
 \ge small_trench
@@ -46449,7 +45709,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Large trench, canal.
@@ -46527,7 +45786,6 @@
 \ton #H
 \lc qʰæ˧pɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pɤ˥
 \de Excrements, dung, dropping.
 \ge excrements
@@ -46560,7 +45818,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Timber, lumber.
 \ge lumber
@@ -46710,7 +45967,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Anus.
 \ge anus
@@ -46767,7 +46023,6 @@
 \ton #H
 \lc qʰæ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Small trench/canal.
@@ -47238,7 +46493,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩dv̩˧˥, ton d5
-\pdl classifier
 \pdv ɭɯ˧
 \de Hammer; typically a large wood hammer.
 \ge hammer
@@ -47263,7 +46517,6 @@
 \ton LM+MH#
 \lc qo˩ho˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Round wicker/bamboo box used to carry gifts.
 \ge gift_box
@@ -47305,7 +46558,6 @@
 \lc qʰo˧lo˧
 \so <print="n"> F4
 \vf emprunt
-\pdl classifier
 \pdv ɭɯ˧
 \de Wheel.
 \ge wheel
@@ -47344,7 +46596,6 @@
 \ton H#
 \lc qʰo˧mo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Old cow (which does not give milk anymore).
 \ge old_cow
@@ -47368,7 +46619,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Straw hat.
 \ge straw_hat
@@ -47391,7 +46641,6 @@
 \lc qo˧pv̩˩
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Cuckoo.
 \ge cuckoo
@@ -47471,7 +46720,6 @@
 \vf d'abord noté: ko˧ʁɑ˩˥, puis [ko˩qɑ˩˥], ce qui est la réalisation phonétique
 \va <speaker="M21"> dʑi˩ʶwɤ˩˥ ko˩kɑ˩
 \vf ɲi˥), ton d3, dʑi˩ nɑ˩mi˩ ʁu˥ ko˩kɑ˩ ɲi˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Mountain pass.
 \ge mountain_pass
@@ -47523,7 +46771,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Kernel, fruit stone, pit.
 \ge fruit_stone
@@ -47551,7 +46798,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩tv̩˧˥, ton d5a
 \vf vérifié, n'est pas /kʰu/
-\pdl classifier
 \pdv ɭɯ˧
 \de Tree stump.
 \ge tree_stump
@@ -47569,7 +46815,6 @@
 \ton L+H#
 \lc qo˩tv̩˩lv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Ball, lump.
 \ge ball/lump
@@ -47637,7 +46882,6 @@
 \va <speaker="F5"> ID.
 \vf ʁæ˧ʈʂʰv̩˩
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Handle.
 \ge handle
@@ -47708,7 +46952,6 @@
 \va <speaker="M21"> tv̩˧qʰv̩˧, ton d1; tv̩˧qʰv̩˧ tsʰɤ˥: creuser un trou
 \vf n'utilise pas la forme monosyllabique /qʰv/
 \vf phonétiquement: kʶv
-\pdl classifier
 \pdv ɭɯ˧
 \de Hole.
 \ge hole
@@ -47750,7 +46993,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdv dze˩
 \pdc <langue="fra"> paire
@@ -47834,7 +47076,6 @@
 \ton #H
 \lc qʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Noise, sound.
 \ge sound
@@ -47878,7 +47119,6 @@
 \lc qʰv̩˩ɖʐæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de String; small rope.
 \ge string
@@ -47906,7 +47146,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˩, ʝi˧
 \de |fi{Pinus massoniana D.Don in Lamb.}, Masson's pine, Chinese red pine, horsetail pine. Its seeds are not edible (the fish eat them, but they are poisonous for humans).
 \ge Masson_pine
@@ -47936,7 +47175,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> qʰv̩˧dʑi˧ ; donne qʰv̩˧dʑi˧ ɲi˥, ton d2a, càd ton différent de F4
 \vf notation ancienne: kʰʶv̩˧dʑi˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Hole, cavity (e.g. mouse hole, or trap to catch large animals).
 \ge hole
@@ -48035,7 +47273,6 @@
 \vf confirmé; tons non montants
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID; bruit: ʐwæ˧ʐwæ˧qʰv̩˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Throat.
 \ge throat
@@ -48115,7 +47352,6 @@
 \ton #H
 \lc qʰv̩˧tʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Horn.
 \ge horn
@@ -48226,7 +47462,6 @@
 \ton LH
 \lc qwæ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Jaw (monosyllable).
 \ge jaw
@@ -48247,7 +47482,6 @@
 \lc qwæ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Mat, bed mat.
 \ge mat
@@ -48360,7 +47594,6 @@
 \sd <langue="eng"> house
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
@@ -48383,7 +47616,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> qʰwæ˧, ton m4a
-\pdl classifier
 \pdv kɤ˧˥
 \de Fence, made of bamboo or of thorny shrub branches.
 \ge fence
@@ -48404,7 +47636,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Message (monosyllable).
 \ge message
@@ -48500,7 +47731,6 @@
 \va <speaker="F5"> kwæ˩ʈʂæ˩
 \vf <type="tone"> L
 \va <speaker="M23"> kwɤ˩ɖʐæ˩˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Jaw; mouth.
 \ge jaw
@@ -48522,7 +47752,6 @@
 \sd <langue="eng"> plant
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩, ʝi˧
 \de A sort of shrub, reaching 1.5 to 2 meters in height.
 \ge shrub_sp
@@ -48544,7 +47773,6 @@
 \sd <langue="eng"> abstract
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Gossip, idle chatter.
 \ge gossip
@@ -48569,7 +47797,6 @@
 \nt <type="hist" print="n"> (historique: indiqué ton d2b lors de l'élicitation (=même schéma que F5); mais schéma de d5 lors de l'enregistrement du 9/11/2007, par erreur) (sens vérifié lors du terrain 09) (tons vérifiés) (vérifié: réalisation uvulaire de l'initiale) (vérifié en juin 2012: /†qwæ˩lo˧˥, †qwæ˩lo˧ ɲi˥/ n'est pas une variante acceptable.
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɯ˩
 \de Passageway, small lane, small path.
 \ge passageway
@@ -48598,7 +47825,6 @@
 \va <speaker="M21"> jɥen˩dzɯ˥
 \vf voisement confirmé
 \vf emprunt), ton d6
-\pdl classifier
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge vegetable_garden
@@ -48619,7 +47845,6 @@
 \nt <type="hist" print="n"> question de 2016 : vérifier à nouveau : initiale /q/ ou /k/? Hypothèse au vu de l'état du système : /k/. Réponse 2017: c'est bien un /q/ initial. Cette syllabe vient de: qwɤ 'foyer'; l'harmonie vocalique est totale, mais la racine 'foyer' reste bien identifiable pour la locutrice.
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Middle part of the main room.
 \ge middle_part_of_main_room
@@ -48654,7 +47879,6 @@
 \vf b) kʶwæ˧pu˩˥ “transmettre un message"
 \vf tons confirmés
 \va <speaker="M21"> kʰwæ˧mi˧, ton d2; ex.: kʰwæ˧pu˧˥ “apporter une lettre"
-\pdl classifier
 \pdv kʰwɤ˥
 \de Message, information (extended meaning: letter).
 \ge message/information
@@ -48677,7 +47901,6 @@
 \sd <langue="eng"> house
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
@@ -48697,7 +47920,6 @@
 \nt <type="hist" print="n"> +ɲi˩
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de A species of worm.
 \ge worm_sp.
@@ -48719,7 +47941,6 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Bedbug.
 \ge bedbug
@@ -48744,7 +47965,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Bit (of a bridle).
 \ge bit_of_bridle
@@ -48777,7 +47997,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> kʰwɑ˧ʈʰv̩˥, ton d7
 \va <speaker="M23"> kʰwɑ˧ʈv̩˥
-\pdl classifier
 \pdv bɤ˧˥
 \de Scarf, kerchief.
 \ge kerchief
@@ -48795,7 +48014,6 @@
 \sd <langue="eng"> object
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv pɤ˩
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
@@ -48878,7 +48096,6 @@
 \ton M
 \lc qwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Fire pit.
 \ge fire_pit
@@ -48902,7 +48119,6 @@
 \ton M
 \lc qʰwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Tracks (left by an animal); spoor.
 \ge tracks
@@ -48929,7 +48145,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bowl.
 \ge bowl
@@ -48948,7 +48163,6 @@
 \ton MH
 \lc qʰwɤ˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Tale, story, yarn.
 \ge tale
@@ -48977,7 +48191,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv bi˩
 \pdv tʰv̩˧˥
 \de Hoof (of horse); foot (of dog).
@@ -49022,7 +48235,6 @@
 \va <speaker="M18"> kʰwɑ˧ ɖɯ˩˥ v̩˩ dze˩˥
 \va <speaker="M21"> ID.
 \vf avant 09, noté: kʰwɑ˩ ɖɯ˩˥
-\pdl classifier
 \pdv v̩˧
 \de Relatives, members of the family.
 \ge relatives
@@ -49100,7 +48312,6 @@
 \vf 1e syllabe: confirmé; n'est pas ko˩; d'abord noté koə˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Mouth.
 \ge mouth
@@ -49149,7 +48360,6 @@
 \lc qʰwɤ˧ʂe˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \pdv pʰo˧˥
 \de Horseshoe.
@@ -49175,7 +48385,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tip of the shoulder.
 \ge tip_of_the_shoulder
@@ -49205,7 +48414,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> qʰwɤ˧tsʰɯ˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Shoulder.
 \ge shoulder
@@ -49228,7 +48436,6 @@
 \ton #H
 \lc qʰwɤ˧tʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Bamboo basket to carry water (on back).
 \ge bamboo_basket_for_water
@@ -49466,7 +48673,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Seed.
@@ -49487,7 +48693,6 @@
 \lc ɻæ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ɻwæ˩˧, ton m1
-\pdl classifier
 \pdv ɭɯ˧
 \de Yoke (for one or two animals).
 \ge yoke
@@ -49577,7 +48782,6 @@
 \lc ʁæ˧
 \so <print="n"> F4
 \va <speaker="M21"> ʁæ˧v̩˧v̩˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Neck (monosyllable).
 \ge neck
@@ -49797,7 +49001,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Dish, plate.
 \ge plate
@@ -49821,7 +49024,6 @@
 \va <speaker="F5"> je˩lju˧dzɯ˩
 \vf emprunt
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˩
 \de Poplar.
 \ge poplar
@@ -49862,7 +49064,6 @@
 \ton H#
 \lc ʁæ˧ɭɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Fetters (wooden fetters, around the neck); yoke.
 \ge fetters
@@ -49890,7 +49091,6 @@
 \ton #H
 \lc ʁɑ˧ɭɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cairn: a human-made pile of stones, used as trail marker. The stones of the cairn are not engraved.
 \ge cairn
@@ -49921,7 +49121,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁæ˧mi˧, ton d2
 \vf refuse le ton d1, qu'en revanche F4 confirme
-\pdl classifier
 \pdv nɑ˧
 \de Sword.
 \ge sword
@@ -49975,7 +49174,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁæ˧ŋv̩˥, ton d7
-\pdl classifier
 \pdv ɭɯ˧
 \de Silver-embellished collar (a precious part of the dress, with silver thread).
 \ge silver_embellished_collar
@@ -49999,7 +49197,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Chest.
 \ge chest
@@ -50022,7 +49219,6 @@
 \lc ʁɑ˧pv̩˧ɻ̍̃˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Clavicle; collarbone.
 \ge clavicle
@@ -50046,7 +49242,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Salary, price paid for the work done by a worker.
 \ge salary
@@ -50065,7 +49260,6 @@
 \ton H#
 \lc ʁæ˧ɻ̍˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Neck.
 \ge neck
@@ -50143,7 +49337,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Withers: part of the ox's body on which the yoke rests.
 \ge withers
@@ -50177,7 +49370,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Neck.
 \ge neck
@@ -50509,7 +49701,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Needle.
 \ge needle
@@ -50529,7 +49720,6 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Head (monosyllable).
 \ge head
@@ -50628,7 +49818,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁu˧bv̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
-\pdl classifier
 \pdv kʰwɤ˥
 \de Sprout, bud.
 \ge sprout
@@ -50711,7 +49900,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Mad person.
 \ge mad_person
@@ -50734,7 +49922,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Walnut.
 \ge walnut
@@ -50767,7 +49954,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Interests.
 \ge interests
@@ -50837,7 +50023,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Tibetan.
 \ge Tibetan
@@ -50926,7 +50111,6 @@
 \vf n'est pas un drapeau, mais les petits drapeaux/fanions qui flottent sur les maisons et les temples, feng1ma3qi2ma3
 \va <speaker="M21"> tɕʰi˩tsɯ˥, ton d6
 \vf emprunt
-\pdl classifier
 \pdv pʰæ˧˥
 \de Flag, banner, pennant (literally: Tibetan writings).
 \ge flag
@@ -50949,7 +50133,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \pdv pɤ˩
 \de Bridle; halter.
@@ -50977,7 +50160,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pillow.
 \ge pillow
@@ -51002,7 +50184,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Molars and premolars.
 \ge molars/premolars
@@ -51029,7 +50210,6 @@
 \vf d'abord noté o˧hṽ̩˧, puis ʶõ˩˥hṽ̩˩˥
 \va <speaker="M21"> ʁu˧hṽ̩˧, ton d2a; ʁu˧hṽ̩˧ ɲi˥;
 \va <speaker="M23"> ũ˧hṽ̩˧˥
-\pdl classifier
 \pdv kʰɯ˩
 \de Hair (of the head).
 \ge hair_of_head
@@ -51075,7 +50255,6 @@
 \ton L#
 \lc ʁo˧kɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Woven headdress for women who already have children; for young women who do not yet have children, this same item is called |fv{/ʁo˧ni˥/}.
 \ge woven_headdress
@@ -51119,7 +50298,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁu˧ɬi˥, ton d2c
-\pdl classifier
 \pdv ɭɯ˧
 \de Large needle with which animal hide can be sewn.
 \ge large_needle
@@ -51209,7 +50387,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de King; high official; chief.
 \ge king/chief
@@ -51236,7 +50413,6 @@
 \ton H$
 \lc ʁo˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Large needle.
 \ge large_needle
@@ -51255,7 +50431,6 @@
 \ton H#
 \lc ʁo˧ni˥
 \so <print="n"> F4
-\pdl classifier
 \pdv bo˩
 \de Woven headdress for young women who do not yet have children; for women who already have children, this same item is called |fv{/ʁo˧kɤ˩/}.
 \ge woven_headdress
@@ -51352,7 +50527,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁu˧kɑ˥, ton d7; aussi: v̩˧ʁu˧kɑ˥ “couvercle de casserole"; tend à simplifier en: v̩˧kɑ˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Lid.
 \ge lid
@@ -51377,7 +50551,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Head.
 \ge head
@@ -51515,7 +50688,6 @@
 \vf sens vérifié
 \vf ss doute erreur sur rime, cf M23
 \va <speaker="M23"> ʁu˧ʈʂɯ˩
-\pdl classifier
 \pdv pʰæ˧˥
 \de Dandruff.
 \ge dandruff
@@ -51577,7 +50749,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M18"> o˧tv̩˧tv̩˧
-\pdl classifier
 \pdv v̩˧
 \de Yi (derogatory term: “ungroomed heads", “messy heads").
 \ge Yi
@@ -51631,7 +50802,6 @@
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small needle.
 \ge small_needle
@@ -51681,7 +50851,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Crane, |fi{Grus nigricollis Przew} and similar species. It is a migratory bird.
 \ge crane
@@ -51745,7 +50914,6 @@
 \nt <type="sem"> (clairement identifié)
 \np confirmé: il est impossible d'intégrer les deux parties en un seul groupe tonal
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Field penny-cress, |fi{Thlaspi arvense}: a foetid plant with round flat pods.
 \ge field_penny_cress
@@ -51763,7 +50931,6 @@
 \ton H$
 \lc ʁv̩˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female crane.
 \ge female_crane
@@ -51782,7 +50949,6 @@
 \ton #H
 \lc ʁv̩˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male crane.
 \ge male_crane
@@ -51805,7 +50971,6 @@
 \ton #H
 \lc ʁv̩˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby crane.
 \ge baby_crane
@@ -52059,7 +51224,6 @@
 \vf <type="tone"> M
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Mountain.
@@ -52092,7 +51256,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> hĩ˧wɤ˧, ton d2a; aussi: wɤ˧ku˧, ton d1
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ʁwɤ˧
 \de Village, hamlet.
 \ge village/hamlet
@@ -52171,7 +51334,6 @@
 \lc ʁwɤ˧qʰv̩˧
 \so <print="n"> F4
 \va <speaker="M18"> ʁwɤ˧qʰv̩˧; réécoute 1/2008: paraît être ʁwæ˧ kʶv̩˧, formé par contraction de ʁwɤ + æ “falaise?" + kʶv?
-\pdl classifier
 \pdv ɭɯ˧
 \de Cave, cavern.
 \ge cave
@@ -52193,7 +51355,6 @@
 \ton #H
 \lc ʁwɤ˧qʰv̩˧dʑɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cave, cavern.
 \ge cavern
@@ -52216,7 +51377,6 @@
 \va <speaker="M21"> ʁwɤ˩ʁu˩˥, ton d3
 \vf tons: corrigé le 14 mai 08; avais d'abord noté ʁwɤ˧ʁu˧, ton d2a
 \vf rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe ; en conséquence, je maintiens la notation /ʁu/
-\pdl classifier
 \pdv ʁwɤ˧
 \de Hillside.
 \ge hillside
@@ -52397,7 +51557,6 @@
 \ton M
 \lc ɻ̍̃˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɻ̍̃˧
 \de Clan.
 \ge clan
@@ -52436,7 +51595,6 @@
 \vf confirmé le 6 novembre: n'est pas ɻ
 \va <speaker="M21"> ɻ̍̃˥, ton m4
 \vf tv
-\pdl classifier
 \pdv kɤ˧˥
 \de Bone.
 \ge bone
@@ -52596,7 +51754,6 @@
 \ton M
 \lc ɻ̍˧bɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de The truth; the facts.
 \ge truth
@@ -52624,7 +51781,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ɻ̍̃˧ hæ˧˥
-\pdl classifier
 \pdv ɭɯ˧
 \pdv kɤ˧˥
 \de Cartilage.
@@ -52648,7 +51804,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Shinbone, tibia.
 \ge shinbone
@@ -52671,7 +51826,6 @@
 \ton L#
 \lc ɻ̍̃˧kɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Backbone.
 \ge backbone
@@ -52694,7 +51848,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Tree trunk.
 \ge trunk
@@ -52722,7 +51875,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ɻ̍˧; pour “eau de source", dit: ʁwɤ˧qʰv̩˧dʑi˩
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Warm springs.
 \ge warm_springs
@@ -52766,7 +51918,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧tæ˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Lymph nodes, glands.
 \ge glands
@@ -52788,7 +51939,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> †ɖʐæ˩˥
-\pdl classifier
 \pdv ʈʂæ˧˥
 \de Ankle, joint (between the foot and the leg, the arm and the hand…).
 \ge joint
@@ -52900,7 +52050,6 @@
 \sd <langue="eng"> plant
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv qʰwæ˧˥
 \pdc <langue="fra"> filaments avant le filage
 \de Flax, |fi{Linum usitatissimum}.
@@ -52914,7 +52063,6 @@
 \sd <langue="eng"> plant
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv qʰwæ˧˥
 \pdc <langue="fra"> filaments avant le filage
 \de Hemp, |fi{Cannabis sativa}.
@@ -53080,7 +52228,6 @@
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Distaff: a stick or spindle onto which wool or flax is wound for spinning.
 \ge distaff
@@ -53102,7 +52249,6 @@
 \sd <langue="eng"> abstract
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Difference in length.
 \ge difference_in_length
@@ -53191,7 +52337,6 @@
 \vf <type="tone"> L+MH#
 \va <speaker="M18"> sɑ˩ mi˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Marijuana, cannabis, |fi{Cannabis indica}.
 \ge marijuana
@@ -53231,7 +52376,6 @@
 \sd <langue="eng"> object
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Thread of linen, |fi{Cannabis sativa}.
 \ge linen_thread
@@ -53272,7 +52416,6 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Bone.
 \ge bone
@@ -53318,7 +52461,6 @@
 \vf tons confirmés
 \va <speaker="M21"> sɑ˧tɕi˧, ton d1
 \vf mot honteux/tabou
-\pdl classifier
 \pdv ɭɯ˧
 \de Vagina.
 \ge vagina
@@ -53339,7 +52481,6 @@
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> vérifié: n'est pas /tsʰɯ/
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Oar.
 \ge oar
@@ -53352,7 +52493,6 @@
 \sd <langue="eng"> object
 \so <print="n"> F4
 \va <speaker="M23"> sɑ˩tsʰɯ˩
-\pdl classifier
 \pdv nɑ˧
 \de Wooden instrument resembling an oar, used to stir pigswill.
 \ge instrument_to_stir_pigswill
@@ -53387,7 +52527,6 @@
 \sd <langue="eng"> object
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧˥
 \de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
 \ge kaftan
@@ -53473,7 +52612,6 @@
 \lc se˧
 \so <print="n"> F4
 \va <speaker="M21"> se˧, ton m2
-\pdl classifier
 \pdv pʰo˧˥
 \de Himalayan goral (|fi{Naemorhedus goral}), blue sheep.
 \ge goral
@@ -53651,7 +52789,6 @@
 \va <speaker="M18"> xx
 \va <speaker="M21"> hæ̃˩ʂe˩bæ˥
 \vf +ɲi˩
-\pdl classifier
 \pdv kʰɯ˩
 \de Necklace; chain.
 \ge necklace/chain
@@ -53713,7 +52850,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> sɤ˩di˩
-\pdl classifier
 \pdv nɑ˧
 \de Saw.
 \ge saw
@@ -53794,7 +52930,6 @@
 \ton #H
 \lc ʂe˧dzo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pɤ˩
 \de Cooking table: a wooden piece of furniture on which one places the chopping board.
 \dn 放案板的家具
@@ -53835,7 +52970,6 @@
 \np <langue="eng"> It is not possible to derive words in /-zo/ ('baby', ‘little') or /-pʰv/ ('male') on the basis of a disyllabic root. The noun is now trisyllabic.
 \so <print="n"> F4
 \va <speaker="M23"> se˩gv̩˩˧, ton d3
-\pdl classifier
 \pdv mi˩
 \de Vulture. This term is not restricted to female vultures, and hence does not provide an indication on sex.
 \ge vulture
@@ -53872,7 +53006,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Satin.
 \ge satin
@@ -53900,7 +53033,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Tripod.
 \ge tripod
@@ -53950,7 +53082,6 @@
 \va <speaker="M21"> ʂe˧lɑ˧ pu˧ɖʐɯ˥
 \vf n'est pas ˧ ˧ ˧ ˧˥); ʂe˧lɑ˧pu˧ɖʐɯ˧ɲi˥; ʂe˧lɑ˧hĩ˥
 \vf tv
-\pdl classifier
 \pdv v̩˧
 \de Blacksmith.
 \ge blacksmith
@@ -53976,7 +53107,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Louse.
 \ge louse
@@ -53994,7 +53124,6 @@
 \ton #H
 \lc se˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female goral (|fi{Naemorhedus goral}), female blue sheep.
 \ge female_goral
@@ -54127,7 +53256,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Fire tongs.
 \ge fire_tongs
@@ -54145,7 +53273,6 @@
 \ton M
 \lc se˧pʰɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Fuss.
 \ge fuss
@@ -54185,7 +53312,6 @@
 \ton #H
 \lc se˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male goral (|fi{Naemorhedus goral}), male blue sheep.
 \ge male_goral
@@ -54211,7 +53337,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Iron nail; nail.
 \ge nail
@@ -54236,7 +53361,6 @@
 \lc ʂe˧sɑ˩
 \cf ho˧tʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv sɑ˧˥
 \de Meat of the limbs of pig. This includes the four limbs; it usually refers to preserved meat, but can also be used to refer to the limbs of the living animal.
 \ge meat_of_limbs
@@ -54326,7 +53450,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Nit, egg of louse.
 \ge nit
@@ -54346,7 +53469,6 @@
 \lc se˧tʰo˩
 \so <print="n"> F4
 \vf périphrase
-\pdl classifier
 \pdv ɭɯ˧
 \de Tenon.
 \ge 榫头::tenon
@@ -54373,7 +53495,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \pdv kʰɤ˥
 \de Cotton fabric, cloth.
@@ -54392,7 +53513,6 @@
 \ton #H
 \lc ʂe˧ʐe˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ʐe˥
 \de Preserved pork meat.
 \ge preserved_pork_meat
@@ -54410,7 +53530,6 @@
 \ton #H
 \lc se˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby goral, baby blue sheep.
 \ge baby_goral
@@ -54544,7 +53663,6 @@
 \va <speaker="M18"> sɯ˩˥
 \va <speaker="M21"> sɯ˩˥, ton m1
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Liver.
 \ge liver
@@ -54628,7 +53746,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> sɯ˧tʰɑ˧
-\pdl classifier
 \pdv kɤ˧˥
 \de Wood.
 \ge wood
@@ -54649,7 +53766,6 @@
 \ton L#
 \lc si˧mo˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Dead wood.
 \ge dead_wood
@@ -54669,7 +53785,6 @@
 \ton #H
 \lc si˧ɖʐv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Green wood, freshly cut wood.
 \ge green_wood
@@ -54686,7 +53801,6 @@
 \ton M
 \lc si˧bv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Evil spirit.
 \ge evil_spirit
@@ -54713,7 +53827,6 @@
 \va <speaker="M21"> sɯ˧bv̩˧mi˧ +ɲi˥
 \vf prolongement de d2a
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Evil spirit (female).
 \ge female_evil_spirit
@@ -54732,7 +53845,6 @@
 \ton #H
 \lc si˧bv̩˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Evil spirit (masculine).
 \ge masculine_evil_spirit
@@ -54757,7 +53869,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> sɯ˧dzɯ˩; on ne peut dire sɯ˧nɑ; sɯ˧ɕi˧˥, ton d2: là où il y a de gros arbres
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰæ˧˥
 \de Forest.
 \ge forest
@@ -54786,7 +53897,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˩, ʝi˧
 \de Tree.
 \ge tree
@@ -54833,7 +53943,6 @@
 \lc si˧dʑɯ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Kindling.
 \ge kindling
@@ -54857,7 +53966,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> sɯ˧gɯ˧, ton d1
 \vf <langue="fra"> vérifié: n'est pas /†sɯ˧gɤ˧/
-\pdl classifier
 \pdv mi˩
 \de Lion.
 \ge སེང་གེ::lion
@@ -54875,7 +53983,6 @@
 \ton -L
 \lc si˧gɯ˧mi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Lioness.
 \ge lioness
@@ -54894,7 +54001,6 @@
 \ton #H
 \lc si˧gɯ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male lion.
 \ge male_lion
@@ -54929,7 +54035,6 @@
 \ton #H
 \lc si˧gɯ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \pdv mi˩
 \de Lion cub.
@@ -54955,7 +54060,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Branch; rod, stick.
 \ge branch
@@ -54975,7 +54079,6 @@
 \ton H#
 \lc si˧kʰɯ˧ɭɯ˧bv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de White Chinese herbaceous peony, |fi{Paeonia lactiflora}.
 \ge Chinese_peony
@@ -55041,7 +54144,6 @@
 \ton L#
 \lc si˧kwɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kwɤ˩
 \de Wooden structure (of a house), carpentry.
 \ge wooden_structure
@@ -55067,7 +54169,6 @@
 \sd <langue="eng"> house
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv kɤ˧˥
 \de Timber, lumber.
 \ge lumber
@@ -55102,7 +54203,6 @@
 \ton H#
 \lc si˧nɑ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Deep forest.
 \ge deep_forest
@@ -55155,7 +54255,7 @@
 \ge to_chop(wood)
 \dn 劈、剖
 \gn 劈/剖
-\df Couper du bois, fendre du bois.
+\df Couper du bois, fendre du bois (dans le sens des fibres de bois).
 \gf couper/fendre
 \dt 01/Aug/2017
 
@@ -55171,7 +54271,6 @@
 \so <print="n"> F4
 \vf périphrase
 \va <speaker="M21"> cf 516
-\pdl classifier
 \pdv ɭɯ˧
 \de Wooden plate.
 \ge wooden_plate
@@ -55199,7 +54298,6 @@
 \va <speaker="M23"> si˧ʁu˧sɯ˧lɯ˧
 \vf vérifié: d'après le locuteur, la 1e syll. est comme “bois", la 3e comme “savoir"
 \vf enregistré un: sɯ˧lv̩˧ʁu˧lv̩˧; mais préfère mot précédent
-\pdl classifier
 \pdv ɭɯ˧
 \de Fruit.
 \ge fruit
@@ -55223,7 +54321,6 @@
 \ton #H
 \lc si˧ʁo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Fruit tree.
 \ge fruit_tree
@@ -55271,7 +54368,6 @@
 \vf 2006: noté sɯ˧ tsʰɯ˩˥, par erreur), ton d3
 \va <speaker="M23"> tsʰɤ˩tsʰɤ˩˥, ex.: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥
 \vf vérifié, n'est pas /sɯ/
-\pdl classifier
 \pdv tsʰɤ˧˥
 \de Leaf.
 \ge leaf
@@ -55408,7 +54504,6 @@
 \va <speaker="M21"> hĩ˧ so˩
 \vf +ɲi˩
 \vf d'abord noté ˥ ˩); so˩˥, ton m4; so˩˥ kʰɯ˥ ɲi˩; so˩˥ ɲi˥!
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Breath.
@@ -55495,7 +54590,6 @@
 \vf <type="tone"> MH
 \va <speaker="M18"> sɤ˩˥
 \va <speaker="M21"> bv̩˧ɻ̍˧-qʰæ˧, littéralement “crottes de mouches"
-\pdl classifier
 \pdv ɭɯ˧
 \de Mole; pigmented naevus.
 \ge mole
@@ -55519,7 +54613,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> sɤ˥
 \va <speaker="M21"> sɤ˥, ton m4
-\pdl classifier
 \pdv ʈʰɤ˥
 \de Blood.
 \ge blood
@@ -55733,7 +54826,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> idem 623; sens vérifié
 \vf s'emploie pour les éléphants, le très gros gibier
-\pdl classifier
 \pdv nɑ˧
 \de Pitfall, pit, trap.
 \ge pitfall
@@ -55868,7 +54960,6 @@
 \sd <langue="eng"> abstract
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Influence, example (in education).
 \ge influence
@@ -55901,7 +54992,6 @@
 \nt <type="hist" print="n"> tv
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰɤ˧˥
 \pdv ɭɯ˧
 \de Pear.
@@ -55941,7 +55031,6 @@
 \ton #H
 \lc ʂɤ˧ɲi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Advice, suggestion, recommendation.
 \ge advice
@@ -55977,7 +55066,6 @@
 \va <speaker="M21"> ʂɤ˩ŋɤ˧˥, ton d5a
 \vf +"jouer de…": ʂɤ˩ŋɤ˧˥ lɑ˩
 \va <speaker="M23"> ʂi˩ŋɤ˧˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Gong.
 \ge gong
@@ -56099,7 +55187,6 @@
 \ton MH#
 \lc sɤ˧tʰo˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de A type of pine.
 \ge pine_sp
@@ -56181,7 +55268,6 @@
 \vf désigne les tendons); veines: sɤ˧tsɯ˥
 \va <speaker="M21"> sɤ˧tsɯ˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Vein.
 \ge vein
@@ -56696,7 +55782,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> emprunt; accepte le mot de F4
 \va <speaker="M23"> si˧gv̩˧
-\pdl classifier
 \pdv ɭɯ˧
 \de Box, case.
 \ge box
@@ -56834,7 +55919,6 @@
 \ton MH#
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdl classifier
 \pdv ɭɯ˧
 \de Plastic jerrican; used to store and transport drinking water.
 \ge 塑料桶::plastic_container
@@ -56917,7 +56001,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Chieftain, nobleman, lord: the highest of the three castes (ranks) in feudal society.
 \ge chieftain
@@ -56948,7 +56031,6 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Young man of the nobility.
 \ge young_nobleman
@@ -56966,7 +56048,6 @@
 \sd <langue="eng"> body
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdl classifier
 \pdv ɭɯ˧
 \de Raised spot, blister.
 \ge raised_spot
@@ -56998,7 +56079,6 @@
 \vf erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pv̩˥ +ɲi˩; on peut dire simplement: sɯ˥pv̩˧, ton d4
 \vf d'abord noté ˥ ˥, par erreur
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Urinary bladder.
 \ge bladder
@@ -57042,7 +56122,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Caterpillar.
 \ge caterpillar
@@ -57068,7 +56147,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> si˧ɻæ˧, càd erreur du locuteur, qui réanalyse peut-être la 1e syllabe comme signifiant “bois", par une étymologie populaire erronée
-\pdl classifier
 \pdv pɤ˩
 \de Table.
 \ge table
@@ -57088,7 +56166,6 @@
 \ton L
 \lc sɯ˩ɻ̍˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Whetting-stone.
 \ge whetting_stone
@@ -57112,7 +56189,6 @@
 \va <speaker="M21"> sɯ˧ɻ̍˧, ton d2a
 \vf pas le même ton que F4): petites perles rouges, ss doute faites à partir de corail ou autre coquillage
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bead, pearl.
 \ge bead
@@ -57140,7 +56216,6 @@
 \vf séquence tonale ˥˥˥: confirmée
 \va <speaker="M21"> sɯ˧ɻ̍̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv dzi˩
 \pdc <langue="fra"> classificateur des arbres
 \de Backbone.
@@ -57159,7 +56234,6 @@
 \ton #H
 \lc sɯ˧ɻ̍̃˧
 \so <print="n"> F4
-\pdl classifier
 \pdv lo˩
 \de Tree trunk.
 \ge tree_trunk
@@ -57213,7 +56287,6 @@
 \ton -L
 \lc ʂɯ˧ʂɯ˧dzi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Root of Anhwei Barberry (|fi{Berberis anhweiensis Ahrendt}), a plant used in Chinese medicine.
 \ge root_of_Anhwei_Barberry
@@ -57239,7 +56312,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Knife.
 \ge knife
@@ -57265,7 +56337,6 @@
 \va <speaker="M18"> sɯ˧tʰi˧kʰɯ˥dʑi˧
 \vf TS dit d'abord: …di˧, puis se corrige
 \va <speaker="M21"> ID.; on peut simplifier en: sɯ˩tʰi˩ʑi˧; en revanche la périphrase proposée par F5 n'est pas acceptée par M21
-\pdl classifier
 \pdv ɭɯ˧
 \de Knife sheath.
 \ge knife_sheath
@@ -57360,7 +56431,6 @@
 \xf camphrier, arbre à camphre
 \xc
 \xv æ̃˩ ʂe˥-qo˩, | sɯ˧tsɯ˩ kʰɯ˩!
-\xo
 \xe When cooking chicken meat [boiling chicken soup], one puts in camphor (among other spices)! / Camphor is one of the spices used when boiling chicken meat!
 \xn （煮）肌肉的时候，往里面放（一点）樟！
 \xf Quand on fait de la soupe de poulet, on y met un peu de camphre! / Le camphre est l'une des épices dont on assaisonne la viande de poulet!
@@ -57377,7 +56447,6 @@
 \ton M
 \lc sɯ˧tsɯ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Lion.
 \ge 狮子::lion
@@ -57402,7 +56471,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \vf
-\pdl classifier
 \pdv nɑ˧
 \de Pistol. Borrowed from the Chinese word for 'cross' |fn{十字}, as pistols are 'cross-shaped guns': |fn{十字架手枪}
 \ge 十字::pistol
@@ -57453,7 +56521,6 @@
 \ton H#
 \lc sɯ˧ʈv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Callus.
 \ge callus
@@ -57488,7 +56555,6 @@
 \lc sɯ˧zɯ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv lo˩, ʁwɤ˧
 \de Family community.
 \ge family_community
@@ -57701,7 +56767,6 @@
 \ton H
 \lc ʂv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Dice.
 \ge dice
@@ -57901,7 +56966,6 @@
 \va <speaker="M21"> ʂɻ̍˩gv̩˩˧, ton d3
 \vf n'est pas sɯ˩gv̩˩˥ ni ʂv̩˩gv̩˩˥
 \va <speaker="M23"> ʂɯ˩gv̩˩
-\pdl classifier
 \pdv nɑ˧
 \de Sickle.
 \ge sickle
@@ -57945,7 +57009,6 @@
 \lc ʂv̩˩njɤ˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Tree knot (tree bur; burl).
 \ge tree_knot
@@ -57975,7 +57038,6 @@
 \va <speaker="M18"> ʂv̩˧ʂv̩˧
 \va <speaker="M21"> ID.
 \vf note ancienne: “dans ‘une feuille de papier', le ton montant de la deuxième syllabe de ‘papier' se maintient en débit très lent, sorte de juxtaposition de formes de citation"
-\pdl classifier
 \pdv pʰæ˧˥
 \pdc <langue="fra"> objets plats
 \de Paper.
@@ -58011,7 +57073,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥, ɭɯ˧
 \de Wedge.
 \ge wedge
@@ -58105,7 +57166,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ʂwæ˧, ton m2
 \va <speaker="M23"> ʂwæ˥
-\pdl classifier
 \pdv v̩˧, mi˩
 \de Otter.
 \ge otter
@@ -58186,7 +57246,6 @@
 \ton L
 \lc ʂwæ˩gv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kitchen cabinet, kitchen dresser.
 \ge kitchen_cabinet
@@ -58288,7 +57347,6 @@
 \va <speaker="F5"> *
 \va <speaker="M18"> *
 \vf emprunt
-\pdl classifier
 \pdv nɑ˧
 \de Brush.
 \ge 刷子::brush
@@ -58369,7 +57427,6 @@
 \ton -L
 \lc ʂwɤ˧ljɤ˧kwɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv kwɤ˩
 \de Small bell that was attached to horses' breastplate.
 \ge small_chest_bell_for_horses
@@ -58440,7 +57497,6 @@
 \ton LH
 \lc tʰɑ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Water buffalo (monosyllabic form, extracted from disyllables such as |fv{tʰɑ˩mi#˥} ‘female buffalo').
 \ge water_buffalo
@@ -58557,7 +57613,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Buddhist monk, lama, Buddhist nun.
 \ge monk
@@ -58618,7 +57673,6 @@
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pocket.
 \ge pocket
@@ -58647,7 +57701,7 @@
 \df Village na en contrebas de Nisei, en contrehaut de Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
 \gf nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lake Lugu. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 23/Jun/2017
@@ -58660,7 +57714,6 @@
 \sd <langue="eng"> religion
 \ton LM+MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Small prayer flag.
 \ge small_prayer_flag
@@ -58998,7 +58051,6 @@
 \ton LM+#H
 \lc tʰɑ˩mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Female water buffalo.
 \ge female_water_buffalo
@@ -59113,7 +58165,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˩
 \pdv nɑ˧
 \de Crossbow.
@@ -59177,7 +58228,6 @@
 \ton L
 \lc ʈʰæ˩ŋv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ŋv̩˩α
 \de Waist of the skirt.
 \ge waist_of_the_skirt
@@ -59290,7 +58340,6 @@
 \ton L#
 \lc tɑ˧pʰi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Chinese mugwort, |fi{Artemisia argyi}.
 \ge Chinese_mugwort
@@ -59365,7 +58414,6 @@
 \ton LM+#H
 \lc tʰɑ˩pʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Male water buffalo.
 \ge male_water_buffalo
@@ -59421,7 +58469,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧˥
 \de Skirt.
 \ge skirt
@@ -59446,7 +58493,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈæ˧ʁæ˩
 \va <speaker="M21"> tæ˧ɻ̍˩
-\pdl classifier
 \pdv ɭɯ˧
 \de Oesophagus; Adam's apple.
 \ge oesophagus
@@ -59474,7 +58520,6 @@
 \va <speaker="M18"> idem F5
 \va <speaker="M21"> idem F5: tʰæ˧ɻ̍˩; 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/)
 \vf d'abord noté /ʈʰæ/; corrigé en tʰæ le 15 juin 08; dans entrées “lire un livre, étudier un livre": avais bien noté une initiale non rétroflexe
-\pdl classifier
 \pdv pɤ˩
 \de Book.
 \ge book
@@ -59543,6 +58588,8 @@
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
 \or Daeshi Ddeema
+\et ʈæ˧ʂɯ˧
+\et ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -59560,6 +58607,8 @@
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \or Daeshi Lhamu
+\et ʈæ˧ʂɯ˧
+\et ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -59578,6 +58627,8 @@
 
 \lx ʈæ˧ʂɯ˧-pæ˩pʰæ˩
 \or Daeshi Baepae
+\et ʈæ˧ʂɯ˧
+\et pæ˩pʰæ˧˥2
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -59594,6 +58645,8 @@
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
 \or Daeshi Daedeu
+\et ʈæ˧ʂɯ˧
+\et ʈæ˩ʈv̩#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -59610,6 +58663,8 @@
 
 \lx ʈæ˧ʂɯ˧-tsʰi˩ti˩
 \or Daeshi Ceedi
+\et ʈæ˧ʂɯ˧
+\et tsʰi˧ti#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -59634,7 +58689,6 @@
 \ton L
 \lc tʰɑ˩tʰɑ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de A good spot, a good place to find a certain species of plant: for instance, mushrooms that will grow there every year.
 \ge good_spot
@@ -59658,7 +58712,6 @@
 \ton LM+#H
 \lc ʈæ˩tsʰo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Class, group, set (of monks).
 \ge group/class
@@ -59739,7 +58792,6 @@
 \ton H#
 \lc tʰɑ˧v̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Room for guests (local Chinese word; meaning in standard Chinese: central room, main hall). There is no direct equivalent in Na because the traditional house did not have a room for guests.
 \ge 堂屋::guest_room
@@ -59757,7 +58809,6 @@
 \ton LM+#H
 \lc tʰɑ˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Baby water buffalo.
 \ge baby_water_buffalo
@@ -59776,7 +58827,6 @@
 \ton L-M
 \lc tʰɑ˩ʐwæ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Donkey, ass (either jack or jenny or foal).
 \ge donkey
@@ -60056,7 +59106,6 @@
 \ton L#
 \lc tɕæ˧hæ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˧
 \de Rubber.
 \ge rubber
@@ -60157,7 +59206,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pɤ˩
 \de Saddle.
 \ge saddle
@@ -60220,7 +59268,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> tɕi˧kʰɯ˧˥, tɕi˧kʰɯ˧di˧˥; la forme monosyllabique /tɕi˧/ n'est pas acceptable, d'après M21
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Snare, trap, trick.
 \ge trap
@@ -60307,7 +59354,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kɤ˧˥
 \de Thorn.
 \ge thorn
@@ -60393,7 +59439,6 @@
 \ton L#
 \lc tɕi˧do˩
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Tangerine.
 \ge tangerine
@@ -60461,7 +59506,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Melon, gourd.
 \ge melon/gourd
@@ -60518,7 +59562,6 @@
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pɤ˩
 \de Saddle mat.
 \ge saddle_mat
@@ -60544,7 +59587,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Carpet.
 \ge carpet
@@ -60652,7 +59694,6 @@
 \nt <type="hist" print="n"> (n'est pas tɕʰɯ)
 \ton H#
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Car.
 \ge 汽车::car
@@ -60922,7 +59963,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Ladle, scoop used for water.
 \ge ladle
@@ -61024,7 +60064,6 @@
 \lc tɕɤ˧fv̩˩
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdl classifier
 \pdv ɭɯ˧
 \de Container for liquids, such as plastic jerricans; used to store and transport drinking water.
 \ge container_for_liquids
@@ -61063,7 +60102,6 @@
 \ton L+H#
 \lc tɕɤ˩ho˩tsɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Swindler, cheat.
 \ge swindler
@@ -61147,7 +60185,6 @@
 \ton LM+#H
 \lc tɕʰo˩mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Large ladle.
 \ge large_ladle
@@ -61166,7 +60203,6 @@
 \ton LM
 \lc tɕo˩mv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Wife of maternal uncle. The word consists of a Chinese borrowing, |fn{舅} ‘maternal uncle', to which is added the Na word for ‘woman'.
 \ge wife_of_maternal_uncle
@@ -61256,7 +60292,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Ladle used for pigswill.
 \ge ladle_for_pigswill
@@ -61280,7 +60315,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> tɕʰɤ˧ʂv̩˧, ton d2a
 \va <speaker="M21"> ʈʂʰɤ˧ʂu˧, ton d2a
-\pdl classifier
 \pdv nɑ˧
 \de Altar.
 \ge altar
@@ -61323,7 +60357,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tɕɤ˧tɑ˧, ton d1; emprunt au chinois; la première syllabe correspondrait à jian4 “épaule".
-\pdl classifier
 \pdv ɭɯ˧
 \de Yoke.
 \ge 夹担::yoke
@@ -61352,7 +60385,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Tracking rope, towrope, towline.
 \ge tracking_rope
@@ -61418,7 +60450,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Stupa, tower.
 \ge stupa
@@ -61454,7 +60485,6 @@
 \va <speaker="M21"> ʈʂʰɤ˩ʈʂv̩˧, ton d6
 \vf vérifié: n'est pas tɕʰɤ˩
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Drinking glass, goblet; used for wine.
 \ge goblet
@@ -61477,7 +60507,6 @@
 \ton LM+#H
 \lc tɕʰo˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Small ladle.
 \ge small_ladle
@@ -61569,7 +60598,6 @@
 \vf mv̩˧ʁu˧) tɕi˧pʰv̩˩! Il y a bcp de nuages blancs!
 \vf d'abord noté ˥ ˥ ˥ ˩); mv̩˥ʁu˥ tɕi˩ dʑo˩ ze˩!
 \vf baisse entre sujet et prédicat; ne sais pas si c'est catégoriel ou non; selon ts, cette phrase est mal formée
-\pdl classifier
 \pdv kʰwɤ˥
 \pdc <langue="fra"> morceaux
 \de Cloud.
@@ -61650,7 +60678,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Leech.
 \ge leech
@@ -61674,7 +60701,6 @@
 \lc tɕɯ˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Wasp.
 \ge wasp
@@ -61718,7 +60744,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tɕi˧, ton m1
 \vf ss doute erreur sur la forme de citation: tous les m1 ont une forme de citation ˩˥
-\pdl classifier
 \pdv nɑ˧
 \de Scales (for weighing something).
 \ge scales
@@ -61797,7 +60822,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M18"> tɕʰi˩˥
-\pdl classifier
 \pdv pʰo˧˥
 \de Muntjac, barking deer.
 \ge muntjac
@@ -62066,7 +61090,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Hunting dog, hound.
 \ge hound
@@ -62089,7 +61112,6 @@
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Large plate.
 \ge large_plate
@@ -62108,7 +61130,6 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Shrike, |fi{Lanius tephronotus} (a species of bird).
 \ge shrike
@@ -62150,7 +61171,6 @@
 \nt <type="sem"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
 \ton L+#H-
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Chinese star jessamine, an evergreen woody liana (|fi{Trachelospermum jasminoides}). Its name in Na literally means ‘spoon of the shrike’.
 \ge star_jessamine
@@ -62170,7 +61190,6 @@
 \nt <type="hist" print="n"> pensé d'abord que ce n'était pas tɕɯ; mais vérifié le 29 mars 2012
 \ton L+H#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Sling (for throwing an object).
 \ge sling
@@ -62192,7 +61211,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Chinese Hwamei or Melodious Laughingthrush: |fi{Leucodioptron canorum}.
 \ge hwamei
@@ -62241,7 +61259,6 @@
 \nt <type="hist" print="n"> avant 16 juillet 2012: n'avais reconnu que la variante tonale /tɕʰɯ˩mi˩/
 \ton LM+#H / L
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female muntjac, muntjac doe, female barking deer, barking deer doe.
 \ge female_muntjac
@@ -62285,7 +61302,6 @@
 \ton LM+#H / L
 \lc tɕʰɯ˩pʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male muntjac, muntjac stag, male barking deer, barking deer stag.
 \ge male_muntjac
@@ -62347,7 +61363,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ti˧˥
 \pdc <langue="fra"> une couche de
 \de Mist, fog.
@@ -62428,7 +61443,6 @@
 \ton LM+#H / L
 \lc tɕʰɯ˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby muntjac, barking deer fawn
 \ge muntjac_fawn
@@ -62558,7 +61572,6 @@
 \df Sucré.
 \gf sucré
 \xv tɕʰɯ˩-hĩ˩˥
-\xo
 \xe sweet
 \xn 甜的
 \xf sucré
@@ -62749,7 +61762,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Plane.
 \ge plane
@@ -62833,7 +61845,6 @@
 \nt <type="hist" print="n"> d'abord noté au ton †LM
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Large plane.
 \ge large_plane
@@ -62857,7 +61868,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Ceiling.
 \ge ceiling
@@ -62875,7 +61885,6 @@
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv fv̩˩
 \de Copper cup for offerings in religious rituals.
 \ge copper_cup
@@ -62914,8 +61923,6 @@
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ti˧˥tsɯ˥
-\pdl
-\pdv
 \de Corduroy. A sort of fabric, made of cotton, recently introduced in Yongning.
 \ge corduroy
 \dn 灯芯绒：一种布料，棉花做的
@@ -62946,7 +61953,6 @@
 \va <speaker="F5"> ti˧˥tsɯ˥
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Box (woven out of bamboo or wicker).
 \ge wicker_box
@@ -62968,7 +61974,6 @@
 \nt <type="sem"> (emprunt)
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Hammer.
 \ge hammer
@@ -62987,7 +61992,6 @@
 \nt <type="hist" print="n"> d'abord noté au ton †LM
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Small plane.
 \ge small_plane
@@ -63060,7 +62064,6 @@
 \xf (Elle/il) a donné une tape à quelqu'un.
 \xc
 \xv ʁo˧qʰwɤ˩ ti˩~ti˩
-\xo
 \xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame)
 \xn 崩头（在进主屋的时候，容易崩头在门框上）
 \xf se cogner la tête (par exemple, sur le haut de l'encadrement étroit de la porte d'entrée de la pièce principale)
@@ -63290,7 +62293,6 @@
 \sd <langue="eng"> object
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Telephone.
 \ge 电话::telephone
@@ -63315,7 +62317,6 @@
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Fort; pillbox; blockhouse for military use.
 \ge 碉堡::blockhouse
@@ -63364,7 +62365,6 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M18"> ID.; ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
-\pdl classifier
 \pdv ɭɯ˧
 \pdc <langue="fra"> objets ronds
 \de Mountain slope, hillside.
@@ -63444,7 +62444,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Bottle.
 \ge bottle
@@ -63497,7 +62496,6 @@
 \sd <langue="eng"> society
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Messenger.
 \ge 通信::messenger
@@ -63515,7 +62513,6 @@
 \sd <langue="eng"> natural environment
 \ton MH#
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Forest of conifers.
 \ge forest_of_conifers
@@ -63538,7 +62535,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˩
 \de Pine tree.
 \ge pine_tree
@@ -63598,7 +62594,6 @@
 \so <print="n"> F4
 \vf <type="tone"> -L | L
 \va <speaker="M21"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude' “
-\pdl classifier
 \pdv bæ˩
 \de Plant with long filaments.
 \ge plant_sp
@@ -63626,7 +62621,6 @@
 \va <speaker="M21"> to˧kɤ˧ dʑɤ˧˥ “avoir de la chance, un bon karma"; to˧kɤ˧: désigne le front
 \vf partie du corps
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ʈv̩˩
 \de Forehead.
 \ge forehead
@@ -63662,7 +62656,6 @@
 \lc to˩kʰv̩˩mi˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \pdv pʰo˧˥
 \de Male dog.
@@ -63701,7 +62694,6 @@
 \ton M
 \lc tʰo˧lɑ˧tɕi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Tractor.
 \ge 拖拉机::tractor
@@ -63727,7 +62719,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Rabbit.
 \ge rabbit
@@ -63784,7 +62775,6 @@
 \ton -L
 \lc tʰo˧li˧mi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Doe hare, jill.
 \ge jill
@@ -63802,7 +62792,6 @@
 \ton #H
 \lc tʰo˧li˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male rabbit.
 \ge male_rabbit
@@ -63820,7 +62809,6 @@
 \ton #H
 \lc tʰo˧li˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby rabbit.
 \ge baby_rabbit
@@ -63862,7 +62850,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pillar.
 \ge pillar
@@ -63974,7 +62961,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁu˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
-\pdl classifier
 \pdv kʰɯ˩
 \de Gun; firelock; rifle.
 \ge firelock
@@ -63992,7 +62978,6 @@
 \ton M
 \lc to˧qɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Kid (baby goat, young goat).
 \ge kid
@@ -64074,7 +63059,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʈʰɤ˥
 \de Pine resin; colophony.
 \ge pine_resin
@@ -64093,7 +63077,6 @@
 \ton H#
 \lc tʰo˧ɻæ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈʂwɤ˧
 \pdc <langue="fra"> poignée
 \de Pine-nut kernel.
@@ -64115,7 +63098,6 @@
 \ton L
 \lc tʰo˩ʂv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv qɑ˩
 \pdc <langue="fra"> botte
 \de Pine needles.
@@ -64140,7 +63122,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Brick.
 \ge brick
@@ -64313,7 +63294,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv mi˩
 \de Pigeon.
 \ge pigeon
@@ -64838,7 +63818,6 @@
 \nt <type="sem"> figure dans: lo˩ʈʂæ˧˥, ɻ̍̃˧ʈʂæ˩…
 \ton MH
 \so <print="n"> F4
-\pdl classifier
 \pdv ʈʂæ˧˥
 \de Joint (of body).
 \ge joint
@@ -64868,7 +63847,6 @@
 \ton MH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Deer, red deer, |fi{Cervus elaphus kansuensis}.
 \ge deer
@@ -65040,7 +64018,6 @@
 \xf préparer du tsamba/de la farine grillée
 \xc
 \xv bo˩hɑ˧-tsɑ˧bɤ˥
-\xo
 \xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
 \xn 用来煮猪食的面粉（玉米面粉）
 \xf Farine à pâtée: farine employée pour la confection de la pâtée pour cochons. (A la date de l'enquête, cette farine était obtenue par mouture d'une variété de maïs non utilisée pour la consommation humaine.)
@@ -65081,7 +64058,6 @@
 \sd <langue="eng"> object
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Container in which butter-tea is mixed; also: butter churn.
 \ge butter_tea_churn/butter_churn
@@ -65109,7 +64085,6 @@
 \va <speaker="M21"> i˧se˧, ton d1
 \vf emprunt); mot ancien: ʈʂʰæ˧ɣɯ˧i˧ +ɲi˥; refuse la tournure avec le verbe “donner"
 \va <speaker="M23"> ʈʂʰæ˧v̩˧ki˩hĩ˩
-\pdl classifier
 \pdv v̩˧
 \de Doctor; literally: “person who gives medicines".
 \ge doctor
@@ -65235,7 +64210,6 @@
 \ton H$
 \lc ʈʂʰæ˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Doe, hind.
 \ge doe
@@ -65276,7 +64250,6 @@
 \so <print="n"> F4
 \va <speaker="F4"> ʈʂʰæ˧nɑ˥-mi˩
 \vf <type="tone"> H#-
-\pdl classifier
 \pdv pʰo˧˥
 \de Black stag: a legendary species, which only spirits are able to hunt down.
 \ge black_stag
@@ -65345,7 +64318,6 @@
 \ton MH#
 \lc tsʰæ˧pʰv̩˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Chinese cabbage. This is a calque from the Chinese ‘white vegetable', using the Chinese word for ‘vegetable' in association with the Na word for ‘white'.
 \ge Chinese_cabbage
@@ -65363,7 +64335,6 @@
 \ton #H
 \lc ʈʂʰæ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Male deer.
 \ge male_deer
@@ -65387,7 +64358,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \pdv ɭɯ˧
 \de Hook.
@@ -65420,7 +64390,6 @@
 \ton H$
 \lc ʈʂʰæ˧qʰv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Antlers; pilose antler (of young stags).
 \ge antlers
@@ -65467,7 +64436,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Sign.
 \ge sign
@@ -65495,7 +64463,6 @@
 \ton L
 \lc tsɑ˩tɕi˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \pdv mo˧˥
 \de Various mushrooms, mixed mushrooms.
@@ -65549,7 +64516,6 @@
 \ton L#
 \lc ʈʂæ˧wɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Servant.
 \ge servant
@@ -65587,7 +64553,6 @@
 \ton #H
 \lc ʈʂʰæ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby deer.
 \ge baby_deer
@@ -65656,7 +64621,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Lock.
 \ge lock
@@ -65740,7 +64704,6 @@
 \ton #H
 \lc ʈʂe˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Needle.
 \ge 针::needle
@@ -65866,7 +64829,6 @@
 \vf ne connaît pas; songe à: zɯ˧pv̩˩ “herbe sèche"
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Tinder.
 \ge tinder
@@ -65889,7 +64851,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Small bell.
 \ge small_bell
@@ -65912,7 +64873,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂe˧dɑ˧
 \va <speaker="M21"> tɕi˧dɑ˥, ton d7
-\pdl classifier
 \pdv do˥
 \de Partition.
 \ge partition
@@ -66116,7 +65076,6 @@
 \va <speaker="F5"> tsʰɤ˧hṽ̩˧˥
 \vf <type="tone"> MH#
 \va <speaker="M21"> tsʰɤ˧hṽ̩˧˥, ton d2b
-\pdl classifier
 \pdv dzi˩
 \de Chinese evergreen.
 \ge Chinese_evergreen
@@ -66142,7 +65101,6 @@
 \ton H#
 \lc tsʰe˧jɤ˧mi˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰæ˧˥
 \de Marsh, bog, swamp.
 \ge marsh
@@ -66167,7 +65125,6 @@
 \lc tse˧kʰo˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Sanctuary (small sanctuary on the mountain).
 \ge sanctuary
@@ -66204,7 +65161,6 @@
 \ton L
 \lc ʈʂe˩kʰɯ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Seam.
 \ge seam
@@ -66270,7 +65226,6 @@
 \ton H#
 \lc tse˧lv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Flint.
 \ge flint
@@ -66296,7 +65251,6 @@
 \vf tons confirmés, d'abord noté ˥˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> tsɤ˧mi˥
-\pdl classifier
 \pdv nɑ˧
 \de Lighter.
 \ge lighter
@@ -66401,7 +65355,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tse˩pʰæ˧˥, ton d5a: monnaie; ex.: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
-\pdl classifier
 \pdv pʰæ˧˥
 \de Coins of the imperial times.
 \ge coins_of_imperial_times
@@ -66501,7 +65454,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Key.
 \ge key
@@ -66612,7 +65564,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Scissors.
 \ge scissors
@@ -66696,7 +65647,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Smallpox.
@@ -66944,7 +65894,6 @@
 \vf +ɲi˩
 \vf attention: est un prédicat et non un nom tsɯ˧, ton m1; tsɯ˧hɯ˧ ze˧
 \vf confirmé par ts: la forme de citation est tsɯ˧; paradoxal car tous les tons m1 ont une forme de citation ˩˥
-\pdl classifier
 \pdv pʰæ˧˥
 \de Crack.
 \ge crack/fissure
@@ -67251,7 +66200,6 @@
 \vf <type="tone"> M
 \va <speaker="M21"> tsɯ˧gi˧, ton d2a
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧, kʰwɤ˥
 \de Crack, fissure.
 \ge crack
@@ -67305,7 +66253,6 @@
 \ton L
 \lc tsi˩ɭɯ˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de A species of small bird.
 \ge small_bird_sp
@@ -67438,7 +66385,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˩tsʰv̩˩˧, ton d3
 \vf rimes confirmées, différent de F4 et F5
-\pdl classifier
 \pdv kɤ˧˥
 \de Peas, garden peas.
 \ge peas
@@ -67463,7 +66409,6 @@
 \va <speaker="M18"> oə˞͂˥ bv̩˥ ɬv̩˩˥
 \vf moëlle de l'os, comme “cervelle" est “moëlle de la tête"; ne connaissant pas le mot exact il crée une périphrase
 \va <speaker="M21"> tsʰɯ˩tv̩˩˥, ton d3
-\pdl classifier
 \pdv kʰwɤ˥
 \de Bone marrow.
 \ge marrow
@@ -67485,7 +66430,6 @@
 \lc tsʰi˧zi˧ɻ̍̃˧
 \so <print="n"> F4
 \va <speaker="M21"> tsʰv̩˧zv̩˧ɻ̍̃˧ + ɲi˥
-\pdl classifier
 \pdv kɤ˧˥
 \de Highland barley straw.
 \ge highland_barley_straw
@@ -67507,7 +66451,6 @@
 \lc tsʰi˧zi˧
 \so <print="n"> F4
 \va <speaker="M21"> tsʰv̩˧zv̩˧, ton d2a
-\pdl classifier
 \pdv kɤ˧˥
 \de Highland barley, |fi{Hordeum vulgare var. nudum Hook. f.}.
 \ge barley
@@ -67729,8 +66672,8 @@
 \xe It's okay! / It's arranged! / Things have been made good!
 \xn 好了！ / 弄好了！ / 成！
 \xf c'est bon, c'est arrangé!
-\xv tsɤ˧-ʝi˧!
-\xe Okay, fine! (Indication of acquiescence to an instruction)
+\xv ə˩-tsɤ˧? - tsɤ˧-ʝi˧!
+\xe Is it all right? (e.g. about microphone position for recording) - Okay, fine! / Yes! (Indication of acquiescence to an instruction)
 \xn 行！ / 好的！（表示同意或接受命令）
 \xf OK! C'est bon! (formule très courante, pour indiquer son acquiescement à une instruction reçue)
 \xv tsɤ˧ ɲi˥!
@@ -68079,7 +67022,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʈʂu˩bɤ˩˧, ton d3; n'est pas /bu/
 \va <speaker="M23"> ʈʂe˩bu˩˧
-\pdl classifier
 \pdv do˥
 \de Earthen wall.
 \ge earthen_wall
@@ -68101,7 +67043,6 @@
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧˥
 \de Masculine clothing worn on special occasions.
 \ge masculine_clothing
@@ -68121,7 +67062,6 @@
 \nt <type="sem"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Calamus, sweet flag, bitterroot, |fi{Acorus calamus} (a tall wetland plant).
 \ge calamus
@@ -68139,7 +67079,6 @@
 \sd <langue="eng"> house
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Small eminence next to the hearth, symbolising the ancestors, on top of which some food is offered at the beginning of each meal.
 \ge eminence_symbolizing_the_ancestors
@@ -68211,7 +67150,6 @@
 \va <speaker="F5"> lv̩˧mi˧dzɤ˩ɖwæ˩
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɖwæ˥
 \de Stone step.
 \ge stone_step
@@ -68253,7 +67191,6 @@
 \va <speaker="M18"> ʈʂʰɤ˧hu˥
 \vf tons confirmés
 \va <speaker="M21"> emprunt: ʈʂʰɑ˩fv̩˧˥, ton d5
-\pdl classifier
 \pdv ɭɯ˧
 \de Kettle.
 \ge 茶壶::kettle
@@ -68274,7 +67211,6 @@
 \ton M
 \lc tsʰo˧ko˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cardamom, |fi{Elletaria cardamomum}.
 \ge cardamom
@@ -68300,7 +67236,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Goblet.
 \ge goblet
@@ -68337,7 +67272,6 @@
 \lc tso˧kʰwɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ɲi˧fv̩˥, ton d7
-\pdl classifier
 \pdv ɭɯ˧
 \de Bag (of fabric or leather).
 \ge bag
@@ -68362,7 +67296,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> périphrase proposée: lu˧i˧di˧˥, lu˧i˧di˧tsu˧tsu˧
-\pdl classifier
 \pdv nɑ˧, ɭɯ˧
 \de Tool; thing, object.
 \ge tool/thing
@@ -68383,7 +67316,6 @@
 \ton #H
 \lc ʈʂʰo˧lo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Frying pan (large, with flat bottom).
 \ge large_frying_pan
@@ -68405,7 +67337,6 @@
 \ton MH#
 \lc ʈʂo˧ɭɯ˧ʈʂo˧˥
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de A water insect.
 \ge a_water_insect
@@ -68430,7 +67361,6 @@
 \vf d'abord noté ʈʂv̩˥lv̩˥, prononciation qui est occasionnellement celle de TS
 \vf même que “un grain de"
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Hand-operated grindstone.
 \ge hand_grindstone
@@ -68453,7 +67383,6 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Old man: man of grandfather age, around sixty.
 \ge old_man
@@ -68526,7 +67455,6 @@
 \vf selon F4, est: xiang1zao4, distinct de: /tsʰo˥pi˥/, fei2zao4
 \va <speaker="M21"> tsʰu˧pjɑ˧, ton d1
 \vf voyelle vérifiée
-\pdl classifier
 \pdv ɭɯ˧
 \de Soap. Presumably borrowed from a language of Burma: cp. Nung /tshɑ³¹ pi⁵⁵ iɔ⁵⁵/ [Dai 1992], Luxi Achang and Lianghe Achang /tshɑu⁵⁵ pjɑu⁵⁵/ [Dai 1985], Longchuan Achang /tshau³¹ piau³¹/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma.
 \ge soap
@@ -68577,7 +67505,6 @@
 \ton LM
 \lc ʈʂʰɤ˩qo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Attention, interest, care.
 \ge attention
@@ -68607,7 +67534,6 @@
 \ton H#
 \lc tso˩qʰv̩˩ɻ̍˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Porch, enclosed porch, vestibule: a narrow area between the door and the courtyard, covered by the roof (and hence sheltered from rain), and, in some houses, shut off from the coutyard by a wall with one door approximately in the middle. This porch is the area that one reaches when crossing the threshold, coming out from the main room. In the main consultant's house, where the porch is not enclosed, it is exposed to sunshine until the afternoon, and tasks such as chopping vegetables are carried out sitting in this area.
 \ge porch/vestibule
@@ -68625,7 +67551,6 @@
 \ton M
 \lc tso˧qwɤ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Sleeping corner: a part of the main room where there is bedding; some people can sit there during meals or family reunions. Newborn babies sleep there. After a bereavement, the corpse is placed on this bed.
 \ge sleeping_corner
@@ -68699,7 +67624,6 @@
 \vf <type="tone"> #H
 \va <speaker="M21"> tsʰɯ˧kʰwɤ˧mi˧
 \vf +ɲi˥
-\pdl classifier
 \pdv v̩˧
 \de Demon, ghost.
 \ge demon
@@ -68755,7 +67679,6 @@
 \ton #H
 \lc tsʰo˧ʁo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Barn: the building at the entrance of the farm, through which one comes when entering the farm. It is made of wood. On the ground floor, there are stables and pigsties; hay and straw are stored on the first floor.
 \ge barn
@@ -68833,7 +67756,6 @@
 \ton LM
 \lc tsʰo˩tsɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de File (tool).
 \ge 锉子::file
@@ -68858,7 +67780,6 @@
 \lc tsʰo˧tsɯ˧
 \so <print="n"> F4
 \vf emprunt, cf F4
-\pdl classifier
 \pdv po˧
 \de Onion; leek.
 \ge 葱子::leek/onion
@@ -68878,7 +67799,6 @@
 \ton H#
 \lc ʈʂo˧tsɯ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pɤ˩
 \de Table.
 \ge 桌子::table
@@ -69295,7 +68215,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧, ɭɯ˧
 \de Thing, thingummy, stuff.
 \ge thing
@@ -69395,7 +68314,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.: ʈʂʰɻ̍˧, ton m2; confirmé: n'est pas la même rime que dans “repas du matin"; phonétiquement, ressemble à [ʈʂʰvɻ]
-\pdl classifier
 \pdv ɭɯ˧
 \de Ploughshare.
 \ge ploughshare
@@ -69467,7 +68385,6 @@
 \va <speaker="M18"> ʈʂʰv̩˩˥
 \va <speaker="M21"> ʈʂʰɻ̍˩˥, ton m4
 \vf confirmé, n'est pas ʈʂʰv̩˩˥; s'oppose à la syllabe qui s'observe dans “repas du matin, petit déjeuner"
-\pdl classifier
 \pdv ɭɯ˧
 \de Lung.
 \ge lung
@@ -69699,7 +68616,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Goat (male or female).
 \ge goat
@@ -69724,7 +68640,6 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ʈʂɯ˧, ton m2
 \vf sens vérifié
-\pdl classifier
 \pdv ɭɯ˧
 \de Claws.
 \ge claws
@@ -69871,7 +68786,6 @@
 \sd <langue="eng"> plant
 \ton L#
 \so <print="n"> F4
-\pdl classifier
 \pdv dzi˩
 \de Lacquer tree, varnish tree.
 \ge lacquer_tree
@@ -69960,7 +68874,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˧hṽ̩˧, ton d2a
 \vf tsʰɯ˧hṽ̩˧ɲi˥
-\pdl classifier
 \pdv kʰwɤ˥
 \de Cashmere, goat wool.
 \ge cashmere
@@ -69983,7 +68896,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˧ tu˧kɑ˥ “chèvre - mâle"
-\pdl classifier
 \pdv pʰo˧˥
 \de Male goat; also used to refer to a young male goat, or even to goats in general, male and female.
 \ge male_goat
@@ -70004,7 +68916,6 @@
 \nt <type="hist" print="n"> (vérifié en 2009)
 \ton H$
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Nanny goat.
 \ge nanny_goat
@@ -70131,7 +69042,6 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Billy goat.
 \ge billy_goat
@@ -70193,6 +69103,23 @@
 \gf prénom_féminin
 \dt 27/Apr/2017
 
+\lx tsʰe˧li˧-ɬɑ˩mv̩˩
+\or Ceili Lhamu
+\et ɬɑ˧mv̩˥$
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton -L
+\lc tsʰe˧li˧ɬɑ˩mv̩˩
+\nt <langue="fra"> réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l]. xxxx ama : vérifier à nouveau.
+\so <print="n"> F4
+\de Feminine given name.
+\ge feminine_given_name
+\dn 女性名字：慈琳拉姆
+\gn 女性名字：慈琳拉姆
+\df Prénom féminin.
+\gf prénom_féminin
+
 \lx tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
 \ps n
@@ -70202,6 +69129,7 @@
 \nt <type="sem"> nom porté par une des femmes de la génération de la grand-mère de F4
 \ton -L
 \lc tsʰɯ˧ɻ̍˧ɬɑ˩mv̩˩
+\nt <langue="fra"> réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so <print="n"> F4
 \de Feminine given name.
 \ge feminine_given_name
@@ -70307,7 +69235,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Wether (castrated goat, neutered goat).
 \ge wether
@@ -70347,7 +69274,6 @@
 \ton H#
 \lc tsʰɯ˧to˧qɑ˥
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Kid (baby goat).
 \ge kid
@@ -70371,7 +69297,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; aussi: tsʰɯ˩tsʰv̩˩zɯ˩˧
 \vf donne: tsʰɯ˩tsʰv̩˩zɯ˩ɲi˧
-\pdl classifier
 \pdv kɤ˧˥
 \de Dry plant of garden peas, garden peas hay.
 \ge garden_pea_hay
@@ -70398,7 +69323,6 @@
 \nt <type="hist" print="n"> ton corrigé en 2018 en H$; auparavant noté #H. Une invraisemblance avait été relevée par Roselle Dobbs en 2017 : avais noté tsʰɯ˧zo#˥ pour chevrette, et tsʰɯ˧zo˥$ pour chevreau. Il ne paraissait pas plausible que deux termes soient efficacement distingués par une différence de catégorie tonale souvent neutralisée en contexte. La première hypothèse avait été qu'il s'agissait d'un même terme admettant deux variantes tonales. Mais la réalisation avec ton #H est rejetée par F4 en 2018.
 \so <print="n"> F4
 \va <speaker="M21"> tsʰɯ˧zu˧, ton d2a
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby goat, male or female: kid or young nanny goat.
 \ge young_goat
@@ -70746,7 +69670,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂʰv̩˩di˩˧ “chose pour teindre"; dʑi˧hṽ̩˧ʈʂʰv̩˥di˩ “chose pour teindre les vêtements
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰwɤ˥
 \de Dye, dyestuff.
 \ge dye
@@ -70772,7 +69695,6 @@
 \ton M
 \lc ʈʂʰv̩˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Wife.
 \ge wife
@@ -70793,7 +69715,6 @@
 \ton L#
 \lc ʈʂv̩˧pɤ˩
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Cutting-board; vessel or cutting board for meat.
 \ge cutting_board
@@ -70819,7 +69740,6 @@
 \va <speaker="F5"> ʈʂʰɻ̍˧ɻ̍˧qʰv̩˧dzɯ#˥
 \vf <type="tone"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̍˧ʑi˧kʰwɤ˥; ʈʂʰv̩˧ɻ̍˧ kʰʶv̩˧ +ɲi˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Ant nest.
 \ge ant_nest
@@ -70849,7 +69769,6 @@
 \vf <type="tone"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̍˧, ton d2a
 \vf vérifié en mai 2008: n'est pas ʈʂʰɻ
-\pdl classifier
 \pdv mi˩
 \de Ant.
 \ge ant
@@ -71121,7 +70040,6 @@
 \sd <langue="eng"> object
 \ton LM
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Boat.
 \ge 船::boat
@@ -71228,7 +70146,6 @@
 \sd <langue="eng"> agriculture
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Net.
 \ge net
@@ -71309,7 +70226,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf emprunt
-\pdl classifier
 \pdv nɑ˧
 \de Window.
 \ge window
@@ -71333,7 +70249,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Cymbals (Chinese borrowing).
 \ge cymbals
@@ -71791,7 +70706,6 @@
 \vf confirmé
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈɻ̍˧ʈʰæ#˥
-\pdl classifier
 \pdv kʰwɤ˥
 \de Patrimony, family wealth, property.
 \ge patrimony
@@ -72068,7 +70982,6 @@
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Knot.
 \ge knot
@@ -72169,7 +71082,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Centipede.
 \ge centipede
@@ -72210,7 +71122,6 @@
 \va <speaker="M18"> tɤ˧ɻ̍˩˥
 \vf confirmé, transcription et tons
 \va <speaker="M23"> tɤ˧ɭɯ˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Fine, high-quality basket carried on the back; it had a trough shape. Not in use anymore at the time of fieldwork.
 \ge fine_basket
@@ -72321,7 +71232,6 @@
 \ton L
 \lc ʈv̩˩qʰv̩˩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Slipknot.
 \ge slipknot
@@ -72431,7 +71341,6 @@
 \xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
 \rf F5
 \sn 2
-\pdl classifier
 \pdv ɭɯ˧
 \de Spell of time; hour.
 \ge hour
@@ -72533,7 +71442,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Hat.
 \ge hat
@@ -73050,7 +71958,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Pot.
 \ge pot
@@ -73089,7 +71996,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Bird.
 \ge bird
@@ -73136,7 +72042,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɲi˧zu˧ hæ˩zu˩ kʰv̩˩; /kʰv/ serait le mot pour “demeure"
-\pdl classifier
 \pdv ɭɯ˧
 \de Nest.
 \ge nest
@@ -73258,7 +72163,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> v̩˧lɑ˩i˩
 \vf +ɲi˩
-\pdl classifier
 \pdv v̩˧
 \de Merchant.
 \ge merchant
@@ -73306,7 +72210,6 @@
 \vf tons confirmés
 \va <speaker="M21"> u˩tsʰɤ˧˥, ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧dze˧dze˥ “couper des légumes"
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv po˧
 \de Vegetables (in a broad sense including fresh vegetables and picked vegetables).
 \ge vegetables
@@ -73331,7 +72234,6 @@
 \nt <type="sem"> (l'un des deux noms donnés à la coccinelle)
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Ladybug, ladybird.
 \ge ladybird
@@ -73354,7 +72256,6 @@
 \ton LM+H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv po˧
 \de Chinese cabbage.
 \ge Chinese_cabbage
@@ -73374,7 +72275,6 @@
 \ton LM+#H-
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv qɑ˩
 \pdc <langue="fra"> botte
 \de Vegetables.
@@ -73614,7 +72514,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Serf, slave (lowest of the 3 ranks in feudal society).
 \ge serf
@@ -73712,7 +72611,6 @@
 \nt <type="hist" print="n"> avant 2012: noté †wu˩kɤ˧˥
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Swing.
 \ge swing
@@ -73852,7 +72750,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv pʰo˧˥
 \de Leopard, panther (note: these two terms are homonymous in English).
 \ge leopard
@@ -73965,7 +72862,6 @@
 \sd <langue="eng"> animal
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \pdv v̩˧
 \de Barrow, castrated male pig, neutered pig.
@@ -73984,7 +72880,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Female leopard.
 \ge female_leopard
@@ -74022,7 +72917,6 @@
 \sd <langue="eng"> animal
 \ton LM
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Male leopard.
 \ge male_leopard
@@ -74073,7 +72967,6 @@
 \va <speaker="M18"> ID.; ʐæ˩sɯ˩ʈʰæ˩qʰwɤ˧ ‘jupe en feutre'
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʐæ˩sɯ˩˧
-\pdl classifier
 \pdv ɭɯ˧˥
 \de Rough felt made only of sheep wool. One drapes it over one's shoulders as an outdoor protection from the cold.
 \ge piece_of_felt
@@ -74095,7 +72988,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐæ˩sɯ˩kʰu˩ɻæ˧
-\pdl classifier
 \pdv tsʰi˥
 \de Felt mat.
 \ge felt_mat
@@ -74116,7 +73008,6 @@
 \lc ʐæ˩tsɯ˧˥
 \so <print="n"> F4
 \va <speaker="M18"> ʐɤ˩tɕi˧
-\pdl classifier
 \pdv kʰɯ˩
 \de Path, trail.
 \ge trail
@@ -74192,7 +73083,6 @@
 \ton LM+#H
 \lc ʐæ˩zo˥
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Leopard cub, baby leopard.
 \ge leopard_cub
@@ -74365,7 +73255,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Arrow.
 \ge arrow
@@ -74417,7 +73306,6 @@
 \vf d'abord noté: mv̩˥o˥
 \vf prononciation idiosyncratique: TS crée la formule /ʐɤ˩bæ˩˥/, “le chemin marche", formule qu'il trouve poétique; la forme usuelle est: ze˩bæ˩˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
 \ge thunderbolt
@@ -74486,7 +73374,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Niece.
 \ge niece
@@ -74531,7 +73418,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Nephew (son of one's sister).
 \ge nephew
@@ -74575,7 +73461,6 @@
 \ton #H
 \lc ʐe˧v̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv pʰo˧˥
 \de Castrated ox, neutered ox, steer.
 \ge castrated_ox
@@ -74735,7 +73620,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʑy˩˧, ton m1
-\pdl classifier
 \pdv mi˩
 \de Monkey, ape.
 \ge monkey
@@ -74897,7 +73781,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de The household.
 \ge household
@@ -74921,7 +73804,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de The entire farmhouse, comprising the main house and the other buildings.
 \ge farmhouse
@@ -74962,7 +73844,6 @@
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="M21"> ʑy˩hṽ̩#˥ ~ ʑi˩hṽ̩#˥
-\pdl classifier
 \pdv kʰɯ˩
 \de Body hair (of humans).
 \ge body_hair
@@ -75026,7 +73907,6 @@
 \va <speaker="M21"> ʑi˧qʰwɤ˧ʁu˧
 \vf type d2: +ɲi˥
 \vf avant 09: noté /ʑi˧ kʰwɑ˧ ʁu˧/); lui paraît mieux que l'expression fournie par F5, /ʑi˧qʰwɤ˧ʁu˧qʰwɤ˩/
-\pdl classifier
 \pdv tsʰi˩
 \de Roof.
 \ge roof
@@ -75046,7 +73926,6 @@
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de The main building of the house/farm: the building where the hearth is located.
 \ge main_building
@@ -75071,7 +73950,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female monkey.
 \ge female_monkey
@@ -75098,7 +73976,6 @@
 \vf faire un rêve: ʑi˧mv̩˧kʶwɑ˩˥
 \va <speaker="M21"> ʑi˧mv̩˧kʰwɑ˧˥
 \vf voyelle confirmée); ex.: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥;
-\pdl classifier
 \pdv kʰwɤ˥
 \de Dream.
 \ge dream
@@ -75185,7 +74062,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male monkey.
 \ge male_monkey
@@ -75209,7 +74085,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Building; houses.
 \ge building
@@ -75252,7 +74127,6 @@
 \nt <type="hist" print="n"> avant 2016: traduit comme: 家的这块地：院墙以内的地方, en: the premises: the area of the farm, within the boundaries of the walls and hedges (the farm's precinct). Correction indiquée par TS.
 \ton H$
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de The back of the house, the space behind the house.
 \ge the_back_of_the_house
@@ -75279,7 +74153,6 @@
 \va <speaker="M18"> ID.
 \vf voyelle et tons confirmés; 2e syllabe proche de /wɤ/
 \va <speaker="M21"> ʑi˧ʁu˧, ton d2a
-\pdl classifier
 \pdv ɭɯ˧˥
 \de Bed.
 \ge bed
@@ -75311,7 +74184,6 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Infant monkey/ape.
 \ge baby_monkey
@@ -75382,7 +74254,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Son.
 \ge son
@@ -75441,7 +74312,6 @@
 \lc ʐɤ˩˥
 \so <print="n"> F4
 \va <speaker="M18"> ʐɤ˩˥
-\pdl classifier
 \pdv kʰɯ˩
 \pdc <langue="fra"> pour le grain
 \pdc <langue="eng"> for paddy rice
@@ -75508,7 +74378,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Fool, idiot.
 \ge idiot
@@ -75616,7 +74485,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> zo˧v̩˧˥
-\pdl classifier
 \pdv v̩˧
 \de Son.
 \ge son
@@ -75672,7 +74540,6 @@
 \vf <type="tone"> L
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɯ˩
 \de Road.
 \ge road
@@ -75702,7 +74569,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Child.
 \ge child
@@ -75824,7 +74690,6 @@
 \sd <langue="eng"> animal
 \nt <type="hist" print="n"> vérifié: initiale uvulaire
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Calf.
 \ge calf
@@ -75984,7 +74849,6 @@
 \va <speaker="M18"> ʐɤ˩˥
 \vf =chemin
 \vf n'existe pas tel quel) ʐɤ˩ʐɤ˧˥, ton d5: motifs, lignes sur un tissu
-\pdl classifier
 \pdv ʐɤ˩
 \de Lines, pattern.
 \ge lines/pattern
@@ -76183,7 +75047,6 @@
 \ton H#
 \lc zo˧zo˧mv̩˧mv̩˥
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Thing, thingummy.
 \dn 东西
@@ -76238,7 +75101,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Grass.
 \ge grass
@@ -76338,7 +75200,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv dzi˩
 \de Cedar.
 \ge cedar
@@ -76363,7 +75224,6 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.; ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \pdv nɑ˧
 \de Boat.
@@ -76509,7 +75369,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv kʰɤ˧˥
 \de Hay, dry grass.
 \ge hay
@@ -76529,7 +75388,6 @@
 \ton #H
 \lc zɯ˧-qʰɑ˧mi˧
 \so <print="n"> F4
-\pdl classifier
 \pdv po˧
 \de Sabai grass, |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}.
 \ge sabai_grass
@@ -76550,7 +75408,6 @@
 \ton #H
 \lc zɯ˧ɻ̍˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Cheek.
 \ge cheek
@@ -76577,7 +75434,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Mountain spirit.
 \ge mountain_spirit
@@ -76643,7 +75499,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕi˧zɯ˧, ton d2a; ɕi˧zɯ˧kʰu˧ɻæ˧
 \vf +ɲi˥
-\pdl classifier
 \pdv tsʰi˥
 \de Mattress.
 \ge mattress
@@ -76699,7 +75554,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ljɤ˩
 \de Life, existence.
 \ge life
@@ -76774,7 +75628,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ʐv̩˧bæ˧-v̩˩kɯ˩
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv mi˩
 \de Snake, serpent.
 \ge snake
@@ -76798,7 +75651,6 @@
 \ton #H
 \lc ʐv̩˧bæ˧bv̩˧hɑ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv qɑ˩
 \pdc <langue="fra"> une botte de fourrage
 \de One of the three types of pig fodder.
@@ -76818,7 +75670,6 @@
 \ton -L
 \lc ʐv̩˧bæ˧mi˩
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Female snake.
 \ge female_snake
@@ -76836,7 +75687,6 @@
 \ton #H
 \lc ʐv̩˧bæ˧pʰv̩˧
 \so <print="n"> F4
-\pdl classifier
 \pdv mi˩
 \de Male snake.
 \ge male_snake
@@ -76854,7 +75704,6 @@
 \ton #H
 \lc ʐv̩˧bæ˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ɭɯ˧
 \de Baby snake.
 \ge baby_snake
@@ -76892,7 +75741,6 @@
 \lc ʐv̩˧bɤ˧
 \so <print="n"> F4
 \va <speaker="M18"> ʐwɑ˧kʰɯ˧: non reconnu par F4
-\pdl classifier
 \pdv v̩˧
 \de The Pumi (Prinmi) people of the mountains.
 \ge Pumi_of_mountains
@@ -76932,7 +75780,6 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐv̩˧dzɯ˩, ton d4
 \va <speaker="M23"> ʐv̩˧dzɯ˩ kʰæ˩ pʰv̩˩ ɻ̍˩
-\pdl classifier
 \pdv dzi˩
 \de Willow tree.
 \ge willow
@@ -76953,7 +75800,6 @@
 \lc ʐv̩˧hĩ˧
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv v̩˧
 \de One of the designations of the Pumi (ethnic group).
 \ge Pumi
@@ -76996,7 +75842,6 @@
 \lc ʐv̩˩ɭɯ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Beam.
 \ge beam
@@ -77018,7 +75863,6 @@
 \lc ʐv̩˩mi˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv nɑ˧
 \de Bow (archery bow).
 \ge bow
@@ -77041,7 +75885,6 @@
 \so <print="n"> F4
 \va <speaker="M18"> ʐu˥ mi˥
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Granddaughter.
 \ge granddaughter
@@ -77067,7 +75910,6 @@
 \lc ʐv̩˧mv̩˧lɑ˧di˧˥
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdl classifier
 \pdv v̩˧
 \de The territory of the Pumi people on the banks of the Yangtze river. This area is perceived as less central and pleasant than Yongning.
 \ge Pumi_territory
@@ -77195,7 +76037,6 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʐv̩˧v̩˧, ton d2a
 \va <speaker="M23"> ʐv̩˧v̩#˥
-\pdl classifier
 \pdv ɭɯ˧
 \de Grandson.
 \ge grandson
@@ -77217,7 +76058,6 @@
 \ton #H
 \lc ʐv̩˧zo˧
 \so <print="n"> F4
-\pdl classifier
 \pdv nɑ˧
 \de Small bow (archery bow).
 \ge small_bow
@@ -77381,7 +76221,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \de Horse.
 \ge horse
@@ -77410,7 +76249,6 @@
 \lc ʐwæ˧bv̩˧˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Horse's stable.
 \ge stable
@@ -77512,7 +76350,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv v̩˧
 \pdv jɤ˧˥
 \de Mare.
@@ -77543,7 +76380,6 @@
 \lc ʐwæ˧pʰæ˧di˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Lunge, tether (for a horse).
 \ge lunge
@@ -77563,7 +76399,6 @@
 \ton #H
 \lc ʐwæ˧qʰæ˧
 \so <print="n"> F4
-\pdl classifier
 \pdv ʁwɤ˧
 \de Horse manure.
 \ge horse_manure
@@ -77586,7 +76421,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐwæ˧ʁv̩˩
-\pdl classifier
 \pdv v̩˧
 \de Castrated horse, gelding, neutered horse.
 \ge castrated_horse
@@ -77612,7 +76446,6 @@
 \vf prononce proche de /sv/; comme une voyelle apicale arrondie); ʐwæ˧tv̩˧: un cheval tout seul; tv̩˧: adjectif “solitaire", dont l'humeur ne se prête pas à la vie en société?
 \va <speaker="M23"> ʐwæ˧si˩
 \vf flottement dans la distribution des /si/ et des /sɯ/; présenté à la conférence de Kunming 2009
-\pdl classifier
 \pdv mi˩
 \de Stallion.
 \ge stallion
@@ -77644,7 +76477,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdl classifier
 \pdv ɭɯ˧
 \de Colt, pony, filly, foal.
 \ge colt
@@ -77920,7 +76752,6 @@
 \sd <langue="eng"> language
 \ton M
 \so <print="n"> F4
-\pdl classifier
 \pdv kʰwɤ˥
 \de Idiom, set phrase, fixed expression.
 \ge idiom
@@ -78029,7 +76860,6 @@
 \xf (meuble/objet) sur lequel on pose des choses
 \xc
 \xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥! |
-\xo
 \xe Take your stuff for washing! (soap, shampoo, towel...) (Context: someone is going to spend the night in a guest house that has running water.)
 \xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
 \xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison d'hôte qui a l'eau courante.)
@@ -78532,7 +77362,6 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Feminine suffix.
 \ge feminine
@@ -78544,7 +77373,6 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
-\pdl classifier
 \pdv v̩˧
 \de Augmentative suffix.
 \ge augmentative
@@ -78905,7 +77733,6 @@
 \df Dans.
 \gf dans
 \xv ɑ˩ʁo˧-bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
-\xo
 \xe Let's eat in the bowls of the house! (Context: the host wonders whether guests want to use their own bowls to eat cereals that they brought along, or whether it's all right to use the house's dishes.)
 \xn 用家里的碗吃吧！（情景：客人拿过来了自己的燕麦片和铁碗，早上用自己的碗吃自己的麦片。有一天，他忘了拿自己的铁碗，主人说：用家里的碗吧！）
 \xf Mangeons dans les bols de la maison! (Contexte: des invités ont apporté leur propre muesli et leur propre bol, et prennent le petit déjeuner à part; un jour où ils ont oublié leur bol, la maîtresse de maison suggère: utilisons donc la vaisselle de la maison!)
@@ -79220,11 +78047,19 @@
 \xn 肉乎乎：比如一个菜含有很多肉，而不是一点点肉淹在一大堆蔬菜里面。
 \xf plein de viande: par exemple, un plat qui contient de la viande en abondance, pas juste quelques petits bouts noyés dans une masse de légumes
 \xc <langue="fra"> ton du nom: H
-\xv tɕi˧-ʂo˧~ʂo˥
-\xe full of clouds
-\xn 云乎乎
-\xf plein de nuages
-\xc <langue="fra"> ton du nom: M
+\xv hĩ˧-ʂo˧~ʂo˥
+\xe full of people, densely populated (for instance, the city of Lijiang in the 2020s is full of people, compared with the sparsely populated Yongning plain of the past century)
+\xn 人多多，人很多（如：2020年代的丽江市中心，人很多，与上世纪的永宁坝大不同）
+\xf plein de gens, densément peuplé (exemple: la ville de Lijiang dans les années 2020, aux antipodes de la plaine de Yongning au siècle dernier, dont les hameaux étaient très éloignés)
+\xc <langue="fra"> ton du nom: H
+\xv ʈʂʰɤ˧dzɯ˧-ʂo˧~ʂo˩
+\xe full of cars
+\xn “车子乎乎”：车子很多，车水马龙（2020年代的丽江，小区里面到处有停车）
+\xf il y a plein de voitures (dans le centre ville de Lijiang, les lotissements sont pleins de voitures garées le long des voies)
+\xv (mv̩˧ʁo˥, | ) tɕɯ˧-ʂo˧~ʂo˩
+\xe (The sky is) full of clouds
+\xn （天上）云乎乎、多云
+\xf (le ciel est) plein de nuages
 \xv ʁwɤ˧-ʂo˧~ʂo˥
 \xe full of mountains, covered with mountains, with mountains on all sides
 \xn “山乎乎”：到处都是山
@@ -79242,12 +78077,10 @@
 \xc <langue="fra"> ton du nom: MH
 \xc PHONO
 \xv v̩˩tsʰɤ˧-ʂo˧~ʂo˥!
-\xo
 \xe It's full of vegetables / it's packed with vegetables! (A comment about pigswill: it contains a lot of vegetables.)
-\xn
+\xn 蔬菜多多！（关于猪食：里面有很多蔬菜，如南瓜、西葫芦、草等等）
 \xf C'est plein de légumes! (Commentaire au sujet de la pâtée des cochons: elle contient des légumes en abondance.)
 \rf F5
-\dt 27/Apr/2017
 
 \lx ‑sɯ˧
 \or see
@@ -79312,7 +78145,6 @@
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
 \xc
 \xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥! |
-\xo
 \xe Don't feed the dog yet! / Don't give the dog food yet!
 \xn 先别喂狗！/先别给狗食！/不要现在给狗食！
 \xf Ne donne pas la pâtée au chien pour l'instant! / Ce n'est pas encore le moment de donner la pâtée au chien!
