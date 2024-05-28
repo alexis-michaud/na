@@ -9187,7 +9187,7 @@
   </S>
   <S id="Sister_S162">
     <AUDIO start="461.6150" end="465.2264"/>
-    <FORM kindOf="phono">gɤ˩ʈi˧-tɕi˩ | le˧-hɤ˩ dʑo˩ | tʰi˩˥, | tʰi˧-ʈʂʰɻ̍˩~ʈʂʰɻ̍˩-kwɤ˩ | ʈʂʰɻ̍˧-mɤ˧-ɖɯ˧ | kv̩˩ tsɯ˧ mv̩˩| ə˧ʝi˧-ʂɯ˥ʝi˩ |</FORM>
+    <FORM kindOf="phono">gɤ˩ʈi˧-tɕi˩ | le˧-hɯ˩ dʑo˩ | tʰi˩˥, | tʰi˧-ʈʂʰɻ̍˩~ʈʂʰɻ̍˩-kwɤ˩ | ʈʂʰɻ̍˧-mɤ˧-ɖɯ˧ | kv̩˩ tsɯ˧ mv̩˩| ə˧ʝi˧-ʂɯ˥ʝi˩ |</FORM>
     <FORM kindOf="ortho">ggedei ji lehee jjo, tiq, teecheucheu gua cheuq meddee guq zimu, eyishei.</FORM>
     <NOTE xml:lang="fr" message="kwɤ: est le même que dans: kwɤ-tɕɯ-lɑ, ensuite"/>
     <TRANSL xml:lang="fr">se levant, il s’en est allé; alors, (la petite sœur) l'a empoigné, mais elle n'y est pas arrivée, à ce qu’on raconte; (ça se passait) au temps jadis.</TRANSL>
@@ -9209,9 +9209,9 @@
 	  <TRANSL xml:lang="en">°accomp</TRANSL>
     </W>
     <W>
-      <FORM>hɤ˩</FORM>
-      <TRANSL xml:lang="fr">partir.°pst.°pfv</TRANSL>
-	  <TRANSL xml:lang="en">go.°pst.°pfv</TRANSL>
+      <FORM>hɯ˧γ</FORM>
+      <TRANSL xml:lang="fr">aller.°pst</TRANSL>
+	  <TRANSL xml:lang="en">to_go.°pst</TRANSL>
     </W>
     <W>
       <FORM>dʑo˩</FORM>

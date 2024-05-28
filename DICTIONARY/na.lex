@@ -75,7 +75,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> selon M23: pas de nasalité sur cette syllabe; est bien la même syllabe que dans «poulet" (composé «cuivre rouge": avant 09: noté æ˧hṽ̩˥; hésitations: æ˥hṽ̩˩˥; visiblement: pb avec la question en 2006; en 2007: corrige en: æ˩hṽ̩˥ puis æ˩hṽ̩˧)
+\nt <type="hist" print="n"> selon M23: pas de nasalité sur cette syllabe; est bien la même syllabe que dans «poulet" (composé «cuivre rouge": avant 2009: noté æ˧hṽ̩˥; hésitations: æ˥hṽ̩˩˥; visiblement: pb avec la question en 2006; en 2007: corrige en: æ˩hṽ̩˥ puis æ˩hṽ̩˧)
 \ton H
 \lc æ̃˧
 \so <print="n"> F4
@@ -420,7 +420,7 @@
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (æ˩kʰv̩˧ɲi˥) (avant 09, noté: æ˩kʰv̩˩˥)
+\nt <type="hist" print="n"> (æ˩kʰv̩˧ɲi˥) (avant 2009, noté: æ˩kʰv̩˩˥)
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton LM+MH#
 \lc æ̃˩kʰv̩˧˥
@@ -442,7 +442,7 @@
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (æ˩kʰv̩˧ɲi˥) (avant 09, noté: æ˩kʰv̩˩˥)
+\nt <type="hist" print="n"> (æ˩kʰv̩˧ɲi˥) (avant 2009, noté: æ˩kʰv̩˩˥)
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \ton LM+MH#
 \lc æ̃˩kʰv̩˧˥
@@ -546,7 +546,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: †mv̩˥ bɑ˥ ɖʐæ˩˥, corrigé en mv̩˧bɤ˧ʈʂæ˧˥, qui ne veut rien dire) nasalité: vérifié en août 2014
+\nt <type="hist" print="n"> (avant 2009: †mv̩˥ bɑ˥ ɖʐæ˩˥, corrigé en mv̩˧bɤ˧ʈʂæ˧˥, qui ne veut rien dire) nasalité: vérifié en août 2014
 \nt <type="hist" print="n"> (+ɲi˩) (sens vérifié en 2009) (note ancienne: ɻ̍̃˧ʈv̩˥; ne veut rien dire)
 \nt <type="sem"> pas trouvé de mot †mv̩˧ʈv̩˥ correspondant à la 2e partie de ce quadrisyllabe, ni de †æ˩mi˧ correspondant à la première.
 \ton LM+H#
@@ -851,8 +851,9 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: /æ.kʰʶv/) (ton: historique complexe: noté d6, ˥ ˩ ˥ ˩, en 2007; à l'enregistrement: ton d5, ˥ ˩ ˧ ˥, puis à ma suggestion répète au ton d6; j'essaie à nouveau d5, F4 accepte et répète d5; en fin de séance, élicite à nouveau, obtiens: d6; en 2009: indique: d6)
-\nt <type="hist" print="n"> ton d5b (corrigé le 4/11/2007; en 2006, avais noté æ˩kʶv̩˧) nasalité: vérifié en août 2014
+\nt <type="hist" print="n"> Avant 2009: noté /æ.kʰʶv/.
+\nt <type="hist" print="n"> Absence de nasalité vérifiée en août 2014.
+\nt <type="hist" print="n"> Ton: historique complexe. En 2007, noté un ton d6, ˥ ˩ ˥ ˩. À l'enregistrement: obtenu un ton d5, ˥ ˩ ˧ ˥, puis à ma suggestion, la locutrice (F4) répète au ton d6. J'essaie à nouveau d5, que F4 accepte et répète. En fin de séance, élicite à nouveau, obtiens d6. Le 4/11/2007, corrige en d5b. En 2009: indique: ton d6.
 \ton LH
 \lc æ˩qʰv̩˥
 \so <print="n"> F4
@@ -3004,7 +3005,7 @@
 \lc bi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (noté le˥bi˩ze˩ avant 09; confirmé à nouveau en mai 2008 et en 2009)
+\nt <type="hist" print="n"> (noté le˥bi˩ze˩ avant 2009; confirmé à nouveau en mai 2008 et en 2009)
 \np irrégulier: comme un ton 3 dans le cadre “accompli" (premier cadre): le˧-bi˩-ze˩, comme un ton 1 dans tous les autres cadres
 \ton Mγ
 \so <print="n"> F4
@@ -3029,6 +3030,26 @@
 \xn 回去，返回
 \xf retourner; s'en retourner
 \dt 24/Apr/2017
+
+\lx po˩ʂɯ˩
+\or boshi
+\bw <langue="cmn"> 博士
+\ps n
+\lc po˩ʂɯ˩˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\so <print="n"> F4
+\de University doctor, Ph.D.
+\ge 博士::Ph.D.
+\dn 句尾助词：啵
+\gn 博士（借词）
+\df Docteur de l'Université
+\gf 博士::docteur
+\xv po˩ʂɯ˩ so˥
+\xe to do a Ph.D., to study for a Doctor's degree
+\xc 读博士
+\xf préparer un doctorat, être en doctorat
 
 \lx bo
 \or bbo
@@ -3615,11 +3636,10 @@
 \gn 猪肋骨
 \df Côtes de porc.
 \gf côtes_de_porc
-\xv bo˩ɬo˥ | ɖɯ˧-do˥
+\xv bo˩ɬo˥ | ɖɯ˧-do˥$ (/ɖɯ˧-do˥#)
 \xe A large piece of pork ribs. This is the piece of meat that households within the extended family offered one another as a token of closeness and kinship, to emphasize the strong bonds between households inside the clan.
 \xn 一大块猪肋骨。用来祭祀。（情景：摩梭大家庭相互敬献，强调家屋与家屋之间的亲密关系。）
 \xf Un quartier de côtes de porc. C'est la pièce de boucherie qu'on offre aux autres maisonnées, à l'intérieur de la famille étendue, comme témoignage de solidarité au sein du clan, dont chaque maisonnée est solidaire des autres.
-\dt 24/Apr/2017
 
 \lx bo˩-mæ˧qv̩˩
 \sf <nb="2011"> 475
@@ -3628,7 +3648,7 @@
 \lc bo˩mæ˧qv̩˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n"> (avant 09: noté: bu˩mæ˥ko˩, par erreur) “queue du cochon"
+\nt <type="hist" print="n"> (avant 2009: noté: bu˩mæ˥ko˩, par erreur) “queue du cochon"
 \ton L-L#
 \so <print="n"> F4
 \pdv ɭɯ˧
@@ -3677,7 +3697,7 @@
 \xn 母猪与猪仔
 \xf truie et porcelets
 \xc <type="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
-\xc <type="sem" langue="fra"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
+\xc <type="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
 \xc <type="tone"> LM+H#
 \dt 24/Apr/2017
 
@@ -3920,7 +3940,7 @@
 \lc bo˧tsi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> (avant 09: noté: “bu˥tsɯ˧, tons confirmés") (vérifié en 2009: n'est pas /tsɯ/)
+\nt <type="hist" print="n"> (avant 2009: noté: “bu˥tsɯ˧, tons confirmés") (vérifié en 2009: n'est pas /tsɯ/)
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -4820,7 +4840,7 @@
 \lc bv̩˩qo˩bv̩˧qʰæ˩
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
-\nt <type="hist" print="n"> (avant 09: noté /bv̩˩ko˩ bv̩˥kʶæ˧/; tons vérifiés en 2006 et à nouveau en 2007, n'est pas ˧ ˧ ˥ ˩) (le schéma tonal attendu étant le même dans un composé déterminatif et dans un composé coordonné, il n'est pas aisé de savoir si c'est l'un ou l'autre type d'association qui est à l'origine du quadrisyllabe)
+\nt <type="hist" print="n"> (avant 2009: noté /bv̩˩ko˩ bv̩˥kʶæ˧/; tons vérifiés en 2006 et à nouveau en 2007, n'est pas ˧ ˧ ˥ ˩) (le schéma tonal attendu étant le même dans un composé déterminatif et dans un composé coordonné, il n'est pas aisé de savoir si c'est l'un ou l'autre type d'association qui est à l'origine du quadrisyllabe)
 \ton L-L#
 \so <print="n"> F4
 \pdv ʁwɤ˧
@@ -4910,7 +4930,7 @@
 \lc bv̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> (avant 09: noté: …kʶv̩˧…)
+\nt <type="hist" print="n"> (avant 2009: noté: …kʶv̩˧…)
 \nt <type="hist" print="n"> +ɲi˥ (notation 2006: bv̩˧dv̩˩zɯ˩hĩ˩˥)
 \np “(insecte) qui a une coquille"
 \ton L#
@@ -5238,7 +5258,7 @@
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ˧˥˧, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ˧˥˧, par erreur)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -5506,7 +5526,7 @@
 \lc ɕi˩dv̩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (tons vérifiés) (initiale confirmée, n'est pas /hi/) (avant 09, noté ˩ ˥)
+\nt <type="hist" print="n"> (tons vérifiés) (initiale confirmée, n'est pas /hi/) (avant 2009, noté ˩ ˥)
 \ton LH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -5958,7 +5978,7 @@
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
-\nt <type="hist" print="n"> (avant 09: noté ˩ ˥)
+\nt <type="hist" print="n"> (avant 2009: noté ˩ ˥)
 \ton LM+#H
 \lc ɕjo˩li˥
 \so <print="n"> F4
@@ -6340,7 +6360,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: “ɯ˥dɑ˧; tons confirmés, n'est pas ˧˩")
+\nt <type="hist" print="n"> (avant 2009: noté: “ɯ˥dɑ˧; tons confirmés, n'est pas ˧˩")
 \ton Lβ
 \lc dɑ˩˥
 \so <print="n"> F4
@@ -6822,7 +6842,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09, noté: /ɖæ˥ɖæ˩/) (pas de simplex) donne: ɖæ˧ɖæ˩ tʰi˩ tɕi˧ “poser à plat" (2006: avais noté ˥˧˩˥) (notes 1er terrain: “dernière syllabe très difficile à reconnaître, pensé à ʈʂi˥"; puis notée /tsɯ/, par erreur) (2014: essayé à nouveau d'obtenir un monosyllabe; n'existe pas)
+\nt <type="hist" print="n"> (avant 2009, noté: /ɖæ˥ɖæ˩/) (pas de simplex) donne: ɖæ˧ɖæ˩ tʰi˩ tɕi˧ “poser à plat" (2006: avais noté ˥˧˩˥) (notes 1er terrain: “dernière syllabe très difficile à reconnaître, pensé à ʈʂi˥"; puis notée /tsɯ/, par erreur) (2014: essayé à nouveau d'obtenir un monosyllabe; n'existe pas)
 \np <langue="fra">pas de monosyllabe correspondant
 \ton L#
 \lc ɖæ˧ɖæ˩
@@ -7083,7 +7103,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: di˧ko˧) “dans la plaine"
+\nt <type="hist" print="n"> (avant 2009: di˧ko˧) “dans la plaine"
 \ton M
 \lc di˧qo˧
 \so <print="n"> F4
@@ -7432,7 +7452,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté: do˥ bv̩˥)
+\nt <type="hist" print="n"> (avant 2009: noté: do˥ bv̩˥)
 \ton M
 \lc do˧bv̩˧
 \so <print="n"> F4
@@ -7548,7 +7568,7 @@
 \cf dɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 09: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
+\nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
 \np dɤ˧: ton phonologique moyen; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur: dɤ˧˥tʰv̩˧qo˧, dɤ˥˧tʰv̩˧-qo˧. La réalisation la plus courante paraît être avec un accent d'insistance initial: /↑dɤ˧…/
 \ton L-M
 \lc dɤ˩ʈʂʰɯ˧qo˧
@@ -7588,7 +7608,7 @@
 \cf dɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 09: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
+\nt <type="hist" print="n"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
 \np dɤ˧: ton phonologique moyen; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur: dɤ˧˥tʰv̩˧qo˧, dɤ˥˧tʰv̩˧-qo˧. La réalisation la plus courante paraît être avec un accent d'insistance initial: /↑dɤ˧…/
 \ton L-M
 \lc dɤ˩tʰv̩˧qo˧
@@ -7608,19 +7628,28 @@
 \sd <langue="eng"> classifier
 \ton Hα
 \lc ɖɯ˧ do˥
+\np <langue="fra"> Ce classificateur admet une variante au ton H$.
 \so <print="n"> F4
-\de Classifier for partitions/walls.
+\de Classifier for partitions/walls, and for large pieces of pork ribs.
 \ge |fg{clf}.partitions/walls
-\dn 量词.墙壁（一堵）
-\gn 量词：墙壁
-\df Classificateur des cloisons et murs.
+\dn 量词.墙壁（一堵）、猪肋骨（一大块）
+\gn 量词：墙壁、猪肋骨
+\df Classificateur des cloisons et murs, et des quartiers de côtes de porc.
 \gf |fg{clf}.cloisons
 \xv ʈʂʰɯ˧-do#˥
 \xe this partition/wall
 \xn 这堵（墙壁）
 \xf cette cloison
-\xc <langue="fra"> ton: #H
-\dt 24/Apr/2017
+\xc PHONO
+\xc <langue="fra" type="phono"> ton: #H
+\xv ʈʂo˩bo˩˥ | ɖɯ˧-do˥
+\xe an earthen wall
+\xn 一堵土墙
+\xf un mur de terre
+\xv bo˩ɬo˥ | ɖɯ˧-do˥
+\xe A large piece of pork ribs. This is the piece of meat that households within the extended family offered one another as a token of closeness and kinship, to emphasize the strong bonds between households inside the clan.
+\xn 一大块猪肋骨。用来祭祀。（情景：摩梭大家庭相互敬献，强调家屋与家屋之间的亲密关系。）
+\xf Un quartier de côtes de porc. C'est la pièce de boucherie qu'on offre aux autres maisonnées, à l'intérieur de la famille étendue, comme témoignage de solidarité au sein du clan, dont chaque maisonnée est solidaire des autres.
 
 \lx ɖo˧α
 \sf <nb="B"> 1436
@@ -8602,7 +8631,7 @@
 \lc ɖwæ˧pɤ˧ɭɯ˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: ɖwæ˧pu˧lɯ˥, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: ɖwæ˧pu˧lɯ˥, par erreur)
 \nt <type="hist" print="n"> (M23: vérifié, rime n'est pas /lɯ/)
 \ton H#
 \so <print="n"> F4
@@ -9010,6 +9039,10 @@
 \xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family
 \xn 者波家族
 \xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
+\xv dze˧bo˧=ɻ̍˩, 6 so˧-ʑi˧, ɨ ɖɯ˧-ɻ̃˥!
+\xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family contains three families, making up one 'bone'!
+\xn 者波家族
+\xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
 \sn 2
 \de A village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
 \ge village_name
@@ -9324,7 +9357,7 @@
 \lc dze˩mi˧kʰv̩˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> (avant 09: noté: “/dze˩mi˥ kʰv̩˧/; tons confirmés, n'est pas kʰv̩˩") (confirmé, n'est pas qʰv̩˩; vérifié en 2009)
+\nt <type="hist" print="n"> (avant 2009: noté: “/dze˩mi˥ kʰv̩˧/; tons confirmés, n'est pas kʰv̩˩") (confirmé, n'est pas qʰv̩˩; vérifié en 2009)
 \ton LM-L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -9589,7 +9622,7 @@
 \lc dzi˩˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (notes avant 09: /nɑ˩˥ le˧ dzɯ˩ le˧ se˩ ze˩/ “le ciel s'est entièrement obscurci")
+\nt <type="hist" print="n"> (notes avant 2009: /nɑ˩˥ le˧ dzɯ˩ le˧ se˩ ze˩/ “le ciel s'est entièrement obscurci")
 \np (ton 3, vérifié)
 \ton L
 \so <print="n"> F4
@@ -9682,7 +9715,7 @@
 \lc dzi˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté: “dzɯ˧˥; réalisé proche d'un [dʑi] très fermé") (notation 2006: ton montant à l'isolée; en 2007: entends un ton haut à l'isolée) (confirmé par F4: n'est pas /dzv/ ni /dzɯ/)
+\nt <type="hist" print="n"> (avant 2009: noté: “dzɯ˧˥; réalisé proche d'un [dʑi] très fermé") (notation 2006: ton montant à l'isolée; en 2007: entends un ton haut à l'isolée) (confirmé par F4: n'est pas /dzv/ ni /dzɯ/)
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -9955,7 +9988,7 @@
 \lc dzi˩ʁo˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09: noté: dzɯ˩ʁu˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté: dzɯ˩ʁu˩˥)
 \ton L
 \so <print="n"> F4
 \pdv kʰwɤ˥
@@ -10071,7 +10104,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> avant 09: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩ ! asseyez-vous ! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
+\nt <type="hist" print="n"> avant 2009: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩ ! asseyez-vous ! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -10416,7 +10449,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: “le˧ɖʐɤ˩˥, ton 4") (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté “le˥ɖʐɤ˩ɖʐɤ˩, tv") (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
+\nt <type="hist" print="n"> (notes avant 2009: “le˧ɖʐɤ˩˥, ton 4") (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté “le˥ɖʐɤ˩ɖʐɤ˩, tv") (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; dʑi˧˥, le˧ dʑi˩kʰɯ˩
 \de To snap, to cut (thread); to smash; to destroy (a building).
@@ -10450,7 +10483,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant novembre 2011: noté lə˧ɖʐɤ˧ɖʐɤ˩
-\nt <type="hist" print="n"> qʰæ˧˥, ton 4 (avant 09: notation 2006: kʶæ˥; notation 2007: kʰʶæ˩˥)
+\nt <type="hist" print="n"> qʰæ˧˥, ton 4 (avant 2009: notation 2006: kʶæ˥; notation 2007: kʰʶæ˩˥)
 \nt <type="sem"> généralement employé sous sa forme rédupliquée
 \ton MH
 \so <print="n"> F4
@@ -10865,6 +10898,10 @@
 \xe the |fv{/ɖʐɤ˩kɤ˥$/} clan
 \xn |fv{/ɖʐɤ˩kɤ˥$/}家族
 \xf le clan |fv{/ɖʐɤ˩kɤ˥$/}
+\xv ɖʐɤ˩kɤ˧=ɻ̍˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Zzhege; they make up one clan!
+\xn 姓|fv{/ɖʐɤ˩kɤ˥$/}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Zzhege; elles constituent un clan!
 \dt 24/Apr/2017
 
 \lx dʑɤ˩kʰwɤ˧
@@ -11050,7 +11087,7 @@
 \lc ɖʐɤ˧qʰwɤ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (+ɲi˩) (notation avant 09: ɖʐɤ˥ kʶwɑ˥ gu˩)
+\nt <type="hist" print="n"> (+ɲi˩) (notation avant 2009: ɖʐɤ˥ kʶwɑ˥ gu˩)
 \nt <type="sem"> (deux premières syllabes: non analysables)
 \ton M
 \so <print="n"> F4
@@ -11084,7 +11121,7 @@
 \lc ɖʐɤ˧qʰwɤ˧ʈʂe˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (vérifié: est le nom d'un outil, pas un groupe verbal signifiant “faire un trou") (avant 09: noté /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/ en 2007; en 2006, avais noté: ɖʐɤ˧ kʶwɤ˧ ʈʂe˧); tons: #H, comme d2a: /ʈʂʰɯ˧ ɖʐɤ˧qʰwɤ˧ʈʂe˧ ɲi˥/ (vérifié en 2013: est homophone avec ɖʐɤ˧qʰwɤ˧ ‘rhume', mais sans lien de sens) (avant 09: noté: tsɑ˧kʶwɑ˧ʈʂe˥)
+\nt <type="hist" print="n"> (vérifié: est le nom d'un outil, pas un groupe verbal signifiant “faire un trou") (avant 2009: noté /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/ en 2007; en 2006, avais noté: ɖʐɤ˧ kʶwɤ˧ ʈʂe˧); tons: #H, comme d2a: /ʈʂʰɯ˧ ɖʐɤ˧qʰwɤ˧ʈʂe˧ ɲi˥/ (vérifié en 2013: est homophone avec ɖʐɤ˧qʰwɤ˧ ‘rhume', mais sans lien de sens) (avant 2009: noté: tsɑ˧kʶwɑ˧ʈʂe˥)
 \nt <type="hist" print="n"> M23: +ɲi˩ (est bien le nom de l'outil, pas un prédicat; vérifié)
 \ton #H
 \so <print="n"> F4
@@ -11378,7 +11415,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n"> (ton différent de celui de F5) (2006, 2007: noté dʑi˥)(homophone avec “eau") (Question soulevée en 2007, avant le terrain: “le ton est-il différent de celui de ‘eau'? Conjecture: sans doute dʑi˥ ɖɯ˧ kʰɯ˩"; réponse: est homophone avec “eau") (note ancienne: “vérifié: n'est pas dʑɯ"; mais nouvelle vérification en avril 2012: est dʑɯ; paire minimale “buffle femelle-rivière")
-\nt <type="hist" print="n"> ton m2 (historique: noté ˥ puis recatégorisé en 2007 en ton moyen: dʑi˧; dʑi˧ dʑo˧! “il y a de l'eau!" dʑi˧ dʑo˧ tsɯ˥! (avec particule de discours tsɯ˥) (avant 09: noté: /dʑi˥ mv̩˩tɕju˧ dɑ˩˥/)
+\nt <type="hist" print="n"> ton m2 (historique: noté ˥ puis recatégorisé en 2007 en ton moyen: dʑi˧; dʑi˧ dʑo˧! “il y a de l'eau!" dʑi˧ dʑo˧ tsɯ˥! (avec particule de discours tsɯ˥) (avant 2009: noté: /dʑi˥ mv̩˩tɕju˧ dɑ˩˥/)
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -11451,7 +11488,7 @@
 \lc dʑɯ˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> avant 09: /ʐu˩dzɯ˩bi˩dzɯ˩˥/. Hésitation sur l'analyse comme /dʑɯ/ ou /dʑi/; choix de /dʑɯ/: 15 avril 2012.
+\nt <type="hist" print="n"> avant 2009: /ʐu˩dzɯ˩bi˩dzɯ˩˥/. Hésitation sur l'analyse comme /dʑɯ/ ou /dʑi/; choix de /dʑɯ/: 15 avril 2012.
 \nt <type="hist" print="n"> ton: indiqué comme M en 2015; mais il est difficile d'arriver à une certitude, du fait des possibilités combinatoires restreintes du mot
 \ton M
 \so <print="n"> F4
@@ -11921,7 +11958,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté: /dʑi˩ næ˩ hæ˩tʰæ˩˥/; à la réécoute 2008, pense qu'il faut corriger les voyelles comme chez M21: /nɑ/, /tʰɑ/; confirmé en 2009) (2012: d'abord noté voyelle ɯ puis rétabli i en avril 2012; est le morphème ‘eau', ses phonèmes sont inchangés)
+\nt <type="hist" print="n"> (avant 2009: noté: /dʑi˩ næ˩ hæ˩tʰæ˩˥/; à la réécoute 2008, pense qu'il faut corriger les voyelles comme chez M21: /nɑ/, /tʰɑ/; confirmé en 2009) (2012: d'abord noté voyelle ɯ puis rétabli i en avril 2012; est le morphème ‘eau', ses phonèmes sont inchangés)
 \ton L
 \lc dʑɯ˩nɑ˩hæ̃˩tʰɑ˩˥
 \so <print="n"> F4
@@ -12066,7 +12103,7 @@
 \cf dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> avant 09: noté dʑi˩pɤ˩kʶv̩˩˥; confirmé, n'est pas /pɑ/ (n'est pas dʑɯ)
+\nt <type="hist" print="n"> avant 2009: noté dʑi˩pɤ˩kʶv̩˩˥; confirmé, n'est pas /pɑ/ (n'est pas dʑɯ)
 \nt <type="sem"> littéralement “trou d'où coule de l'eau"
 \ton L
 \lc dʑɯ˩pɤ˩qʰv̩˩˥
@@ -12150,7 +12187,7 @@
 \ps adv
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> en ville (avant 09: noté: “/ɖʐɯ˥ko˩/; ton confirmé, d'abord noté ˥˧")
+\nt <type="hist" print="n"> en ville (avant 2009: noté: “/ɖʐɯ˥ko˩/; ton confirmé, d'abord noté ˥˧")
 \ton L#
 \lc ɖʐɯ˧qo˩
 \so <print="n"> F4
@@ -12175,7 +12212,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté: /dʑi˥kʶv̩˩/) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant 2009, noté: /dʑi˥kʶv̩˩/) (n'est pas dʑɯ)
 \nt <type="sem"> à gauche sur la photo
 \ton L#
 \lc dʑɯ˧qʰv̩˩
@@ -12201,7 +12238,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (notes avant 09: “tso˧kʶv̩˧; F4 corrige par la suite en: dʑi˩pɑ˩˥tv̩˧kʶv̩˧") (question avant terrain 2007: schéma tonal inattendu, on attendrait ˩˥; réponse: confirmation: est bien ˧˧; explication: le ton de “eau" n'est pas celui que je croyais en 2006) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (notes avant 2009: “tso˧kʶv̩˧; F4 corrige par la suite en: dʑi˩pɑ˩˥tv̩˧kʶv̩˧") (question avant terrain 2007: schéma tonal inattendu, on attendrait ˩˥; réponse: confirmation: est bien ˧˧; explication: le ton de “eau" n'est pas celui que je croyais en 2006) (n'est pas dʑɯ)
 \nt <type="sem"> littéralement “trou d'eau"
 \ton M
 \lc dʑɯ˧qʰv̩˧
@@ -12228,7 +12265,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: /dʑi˩ kʶwɑ˩ lv̩˩˥/) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant 2009: noté: /dʑi˩ kʶwɑ˩ lv̩˩˥/) (n'est pas dʑɯ)
 \ton L
 \lc dʑɯ˩qʰwɤ˩-lv̩˩˥
 \so <print="n"> F4
@@ -12271,7 +12308,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté /dʑi˥ʁu˧/) (n'est pas dzɯ ni dzi; confirmé)
+\nt <type="hist" print="n"> (avant 2009, noté /dʑi˥ʁu˧/) (n'est pas dzɯ ni dzi; confirmé)
 \nt <type="hist" print="n"> (avant 2009: noté: dzɯ˥ʁu˩; première notation: dzɯ˥ʁu˧)
 \ton L#
 \lc dʑɯ˧ʁo˩
@@ -12452,7 +12489,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: ˩˥) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant 2009: noté: ˩˥) (n'est pas dʑɯ)
 \ton L
 \lc dʑɯ˩so˩˥
 \so <print="n"> F4
@@ -12603,7 +12640,7 @@
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n"> (avant 09: noté /tsʰɯ˩˥/, par erreur) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant 2009: noté /tsʰɯ˩˥/, par erreur) (n'est pas dʑɯ)
 \ton L
 \lc dʑɯ˩tsʰi˩˥
 \so <print="n"> F4
@@ -13663,7 +13700,10 @@
 \xe the |fv{/ə˧ɕjo˩/} clan
 \xn |fv{/ə˧ɕjo˩/}家族
 \xf le clan |fv{/ə˧ɕjo˩/}
-\dt 09/Sep/2015
+\xv ə˧ɕjo˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Exo; they make up one clan!
+\xn 姓|fv{ə˧ɕjo˩}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Exo; elles constituent un clan!
 
 \lx ə˧ɕjɤ˩
 \sf <nb="2011"> 425
@@ -13672,7 +13712,7 @@
 \cf ə˧ɖo˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (avant 09: noté: ɤ˥ɕjɤ˧)
+\nt <type="hist" print="n"> (avant 2009: noté: ɤ˥ɕjɤ˧)
 \ton L#
 \lc ə˧ɕjɤ˩
 \so <print="n"> F4
@@ -13839,7 +13879,7 @@
 \cf ə˧ze˧
 \sd <langue="fra"> adverbe
 \sd <langue="eng"> adverb
-\nt <type="hist" print="n"> (avant 09: noté ɤ˧ dze˧ dze˥ i˧) “faire lentement" (notation avant 09: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd) 2011: modifié en: dzɤ
+\nt <type="hist" print="n"> (avant 2009: noté ɤ˧ dze˧ dze˥ i˧) “faire lentement" (notation avant 2009: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd) 2011: modifié en: dzɤ
 \ton H#
 \lc ə˧dzɤ˧dzɤ˥
 \so <print="n"> F4
@@ -13893,7 +13933,10 @@
 \xn |fv{/ə˧go˧/} 家族名叫|fv{/dʑɤ˩tsʰi#˥/}那个人
 \xf la personne prénommée |fv{/dʑɤ˩tsʰi#˥/}, du clan |fv{/ə˧go˧/}
 \xc |fv{/ə˧go˧/} + |fv{/dʑɤ˩tsʰi#˥/}
-\dt 09/Sep/2015
+\xv ə˧go˧=ɻ˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xe There are three families carrying the name Eggo; they make up one clan!
+\xn 姓|fv{ə˧go˧}的，有三家，形成一个家族！
+\xf Il y a trois familles qui portent le nom Eggo; elles constituent un clan!
 
 \lx ə˧go˧-ʁwɤ˧
 \or Aggowua
@@ -14161,7 +14204,10 @@
 \xe the |fv{/ə˧lɑ˧/} clan
 \xn |fv{/ə˧lɑ˧/}家族
 \xf le clan |fv{/ə˧lɑ˧/}
-\dt 09/Sep/2015
+\xv ə˧lɑ˧=ɻ̍˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xe There are three families carrying the name Ela; they make up one clan!
+\xn 姓|fv{ə˧lɑ˧}的，有三家，形成一个家族！
+\xf Il y a trois familles qui portent le nom Ela; elles constituent un clan!
 
 \lx ə˧lɑ˧-ʁwɤ#˥
 \sf <nb="2011"> 3317
@@ -14449,7 +14495,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté /æ˧mv̩˥tɕi˧ gv̩˧/) (n'est pas tɕɯ)
+\nt <type="hist" print="n"> (avant 2009: noté /æ˧mv̩˥tɕi˧ gv̩˧/) (n'est pas tɕɯ)
 \np idée d'analyse en novembre 2008: serait ə.mv̩.tɕi, le æ étant déterminé par le /v̩/ de la 2e syllabe? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv̩/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
 \ton H#-
 \lc ə˧mv̩˥tɕi˩
@@ -14896,7 +14942,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: /ɤ˧ mɤ˧ v̩˧˥/; tons corrigés en mai 2008; avais d'abord noté ˧ ˧ ˥)
+\nt <type="hist" print="n"> (avant 2009: noté: /ɤ˧ mɤ˧ v̩˧˥/; tons corrigés en mai 2008; avais d'abord noté ˧ ˧ ˥)
 \np homophone avec “oncle"
 \ton MH#
 \lc ə˧v̩˧˥
@@ -15065,7 +15111,7 @@
 \cf ə˧pʰv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> formé de d2b+d1 (avant 09: noté: ˧ ˧ ˧ ˥)
+\nt <type="hist" print="n"> formé de d2b+d1 (avant 2009: noté: ˧ ˧ ˧ ˥)
 \np [e˧ʑi˧æ˧pʰv̩˧˥]
 \ton MH#
 \lc ə˧ʑi˧ə˧pʰv̩˧˥
@@ -15145,7 +15191,7 @@
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (avant 09, noté: dʑi˥ ə˩ dʑo˧)
+\nt <type="hist" print="n"> (avant 2009, noté: dʑi˥ ə˩ dʑo˧)
 \nt <type="sem"> interrogation totale
 \ton L
 \lc --
@@ -16589,7 +16635,7 @@
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /mv̩˥ le˥ gɤ˩ +ze˩)
+\nt <type="hist" print="n"> (avant 2009: noté: /mv̩˥ le˥ gɤ˩ +ze˩)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -16970,7 +17016,7 @@
 \cf gi˩α
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (gɯ˩i˧: sens vérifié en 2009; avais d'abord noté /gɯ˧i˥/) (avant 09, noté: “gɯ˩wɤ˥ɻ̍˧; confirmé; d'abord noté ˩˥˩ et gɤ") (avant 09: noté gɯ˧ʂv̩˧ɖv̩˧˥, par erreur)
+\nt <type="hist" print="n"> (gɯ˩i˧: sens vérifié en 2009; avais d'abord noté /gɯ˧i˥/) (avant 2009, noté: “gɯ˩wɤ˥ɻ̍˧; confirmé; d'abord noté ˩˥˩ et gɤ") (avant 2009: noté gɯ˧ʂv̩˧ɖv̩˧˥, par erreur)
 \ton Lα
 \lc gɯ˩˥
 \so <print="n"> F4
@@ -17095,7 +17141,7 @@
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ˥)
+\nt <type="hist" print="n"> (avant 2009: ˥)
 \ton M? H#? (pas L)
 \lc gv̩˧
 \so <print="n"> F4
@@ -17409,7 +17455,7 @@
 \lc gv̩˧tsʰi˩
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: gv̩˥tsʰɯ˧)
+\nt <type="hist" print="n"> (avant 2009: noté: gv̩˥tsʰɯ˧)
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -17434,7 +17480,7 @@
 \ton Lα
 \lc gv̩˩˥
 \so <print="n"> F4
-\nt <type="hist" print="n"> (avant 09, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tons vérifiés)
+\nt <type="hist" print="n"> (avant 2009, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tons vérifiés)
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \sn 1
@@ -17613,7 +17659,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; /gwɤ˩˧ dʑɤ˧li˥!/
-\vf avant 09: noté /gwɤ˩˥ dʑɤ˩ li˥/ “
+\vf avant 2009: noté /gwɤ˩˥ dʑɤ˩ li˥/ “
 \vf tu) chantes bien!"
 \de To sing.
 \ge to_sing
@@ -17923,7 +17969,7 @@
 \lc hɑ̃˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: mv̩˥ le˧ hɑ͂˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté: mv̩˥ le˧ hɑ͂˧˥)
 \ton MH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -18008,11 +18054,23 @@
 \xe (S)he is eating!
 \xn 他在吃饭！
 \xf Il/elle est en train de manger!
-\xv hɑ˧ʂɯ˩
-\xe fresh cereals (freshly reaped; they yield especially good-tasting cakes)
-\xn 新鲜的粮食（可以用来烤很香的饼）
-\xf céréales fraîches (juste après la cueillette; on en prépare des galettes particulièrement savoureuses)
-\dt 24/Apr/2017
+
+\lx hɑ˧ʂɯ˩
+\or hashi
+\et hɑ˥
+\et ʂɯ˧˥2
+\ps n
+\lc hɑ˧ʂɯ˩
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L#
+\so <print="n"> F4
+\de Fresh cereals (freshly reaped; they yield especially good-tasting cakes).
+\ge fresh_cereals
+\dn 新鲜的粮食（可以用来烤很香的饼）
+\gn 新鲜的粮食
+\df Céréales fraîches (juste après la cueillette; on en prépare des galettes particulièrement savoureuses).
+\gf céréales_fraîches
 
 \lx hæ̃˩bæ˩
 \sf <nb="B"> 645
@@ -18041,7 +18099,7 @@
 \lc hæ̃˩bɑ˧lɑ˩
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (avant 09: noté hæ˩ bɑ˥ lɑ˩, par erreur) (tons confirmés; n'est pas le schéma attendu en composition nominale)
+\nt <type="hist" print="n"> (avant 2009: noté hæ˩ bɑ˥ lɑ˩, par erreur) (tons confirmés; n'est pas le schéma attendu en composition nominale)
 \nt <type="hist" print="n"> (tons confirmés, d'abord noté ˧ ˧ ˥; n'est pas ˩ ˧ ˩)
 \ton L-L#
 \so <print="n"> F4
@@ -18068,17 +18126,39 @@
 \ton H#
 \so <print="n"> F4
 \pdv bɤ˩
-\de Corncob.
-\ge corncob
-\dn 玉米棒子
-\gn 玉米棒子
-\df Épi de maïs.
-\gf épi_de_maïs
+\de Fresh corncob.
+\ge fresh_corncob
+\dn 新鲜的玉米棒子
+\gn 新鲜玉米棒子
+\df Épi de maïs frais.
+\gf épi_de_maïs_frais
 \xv qʰɑ˧dze˧-hɑ˧bɤ˥
 \xe sweetcorn ear
 \xn 玉米棒子
 \xf maïs en épi; épi de maïs
-\dt 24/Apr/2017
+
+\lx hɑ˧ʈʂæ˩
+\or hazhae
+\et hɑ˥
+\et ʈʂæ˧˥α
+\ps n
+\lc hɑ˧ʈʂæ˩
+\cf hɑ˧bɤ˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L#
+\so <print="n"> F4
+\pdv ʈʂæ˧˥α
+\de Dry corncob.
+\ge dry_corncob
+\dn 干了的玉米棒子
+\gn 干玉米棒子
+\df Épi de maïs séché.
+\gf épi_de_maïs_séché
+\xv qʰɑ˧dze˧-hɑ˧ʈʂæ˩
+\xe dry sweetcorn ear
+\xn 干了的玉米棒子
+\xf épi de maïs séché
 
 \lx hɑ˧-bv̩˥~bv̩˩-di˩
 \sf <nb="B"> 509c
@@ -18152,7 +18232,7 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09: noté /hæ˥do˥/; catégorie tonale établie en 2009)
+\nt <type="hist" print="n"> (avant 2009: noté /hæ˥do˥/; catégorie tonale établie en 2009)
 \ton M
 \lc hæ̃˧do˧
 \so <print="n"> F4
@@ -18176,12 +18256,16 @@
 
 \lx hɑ˧-gv̩˥-di˩
 \or ha gguddi
+\et hɑ˥
+\et gv̩˩α1
+\et -di˩
 \ec <langue="fra"> la chose pour faire à manger
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton H#-
 \lc hɑ˧gv̩˥di˩
+\np <langue="fra"> Comportement tonal parfaitement régulier au vu du ton des trois morphèmes dont est composé le mot.
 \so <print="n"> F4
 \de Stove.
 \ge stove
@@ -18314,7 +18398,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: hĩ˥ ʈʰɯ˥ v̩˥ hɑ˧mu˥ ʐwæ˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté: hĩ˥ ʈʰɯ˥ v̩˥ hɑ˧mu˥ ʐwæ˩˥)
 \ton H#
 \lc hɑ̃˧mo˥
 \so <print="n"> F4
@@ -18337,7 +18421,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté: hæ˧pɤ˧)
+\nt <type="hist" print="n"> (avant 2009: noté: hæ˧pɤ˧)
 \ton M
 \lc hæ̃˧pɤ˧
 \so <print="n"> F4
@@ -18410,7 +18494,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: hæ˧kʰwɤ˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté: hæ˧kʰwɤ˩˥)
 \nt <type="sem"> deuxième plante sur la photo
 \ton L
 \lc hæ̃˩qʰwɤ˩˥
@@ -18451,7 +18535,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> ɕjæ22ɕɥɛ55
-\nt <type="hist" print="n"> (avant 09, avais noté par erreur un ton d2b)
+\nt <type="hist" print="n"> (avant 2009, avais noté par erreur un ton d2b)
 \ton L
 \lc hæ̃˩sɤ˩˥
 \so <print="n"> F4
@@ -18718,7 +18802,7 @@
 \xe |fg{dur}
 \xn |fg{dur}
 \xf |fg{dur}
-\xv njɤ˩ɭɯ˥ | gɤ˩-hɑ˥ |
+\xv njɤ˩ɭɯ˧ | gɤ˩-hɑ˥ |
 \xe to open one's eyes
 \xn 睁开眼睛
 \xf ouvrir les yeux
@@ -18726,7 +18810,6 @@
 \xe to open one's eyes
 \xn 睁开眼睛
 \xf ouvrir les yeux
-\dt 24/Apr/2017
 
 \lx hĩ˧˥
 \sf <nb="B"> 1390
@@ -18758,7 +18841,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 09: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩˩˥ et non ˧˧˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé ts 2008: est ˧ ˧ ˥)
+\nt <type="hist" print="n"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 2009: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩˩˥ et non ˧˧˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé ts 2008: est ˧ ˧ ˥)
 \ton MH
 \lc hĩ˧˥
 \so <print="n"> F4
@@ -18798,7 +18881,7 @@
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\nt <type="hist" print="n"> (d'abord noté hĩ˧)(avant 09: noté: hĩ˥ɖɯ˧v̩˧)
+\nt <type="hist" print="n"> (d'abord noté hĩ˧)(avant 2009: noté: hĩ˥ɖɯ˧v̩˧)
 \ton #H
 \lc hĩ˧
 \so <print="n"> F4
@@ -19370,7 +19453,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09, noté /kʰwɑ/)
+\nt <type="hist" print="n"> (avant 2009, noté /kʰwɑ/)
 \nt <type="sem"> (ce sont surtout les grosses dents, molaires et autres, qui subissent ces tourments)
 \ton L#
 \lc hi˧qʰwɤ˩
@@ -19433,30 +19516,30 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \or hinqi
 \ps n
 \sy hĩ˧-ʈʂɤ#˥
+\nt <type="hist" print="n"> avant 2024: pensais que le terme désignait uniquement les membres de la famille de même génération.
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
 \lc hĩ˧tɕʰɯ˧
 \so <print="n"> F4
-\de Family member belonging to the same generation: brother, sister, or cousin (on the mother's side).
-\ge family_members_of_same_generation
-\dn 同一辈的亲戚：兄弟姐妹、堂兄弟姐妹
-\gn 兄弟姐妹/堂兄弟姐妹
-\df Membre de la famille de même génération: frère, sœur, cousin(e) (du côté maternel).
-\gf membre_de_la_famille_de_même_génération
+\de Family member belonging to the same lineage (on the mother's side).
+\ge family_members_of_same_lineage
+\dn 亲戚：有共同祖先（祖母）的家人
+\gn 亲戚
+\df Membre de la famille de même lignage (du côté maternel).
+\gf membre_de_la_famille_de_même_lignage
 \xv hĩ˧-tɕʰɯ˧ - hĩ˧-ʈʂɤ#˥
-\xe same meaning: the family members belonging to the same generation
-\xn 同一辈的亲戚：兄弟姐妹、堂兄弟姐妹
-\xf même sens: les gens de la même génération, dans la famille: frères, sœurs, mais aussi cousins du côté maternel
+\xe same meaning: the family members belonging to the same lineage
+\xn 同上：亲戚，有共同祖先（祖母）的家人
+\xf même sens: les gens de même lignage
 \xv ʈʂʰɯ˧ | njɤ˧ hĩ˧ tɕʰɯ˧ ɲi˥!
-\xe (S)he is someone of my generation! (=my cousin, my brother/sister…)
-\xn 他是跟我同一辈的亲戚！（=堂兄弟姐妹）
-\xf C'est mon cousin/ma cousine/quelqu'un de ma fratrie!
+\xe (S)he is someone of my lineage!
+\xn 他是我的亲戚！
+\xf C'est quelqu'un de mon lignage!
 \xv hĩ˧-tɕʰɯ˧ mɤ˧-ɲi˥ F | hĩ˧-tɕʰɯ˧ ʝi˧ tʰɑ˩-kv̩˩!
 \xe “Even if one is not (born) a family member, it is possible to become one!" A saying that refers to quasi-family links between friends, which amount to a form of adoption into the family circle.
 \xn “不是亲戚，也可以变成亲戚！”这个俗语来形容朋友之间的深情，变成像家人之间的感情。
 \xf «Même si on n'est pas de la même famille (au départ), on peut le devenir!» Formule traditionnelle pour désigner les liens quasi-familiaux tissés entre amis, qui reviennent à des formes d'adoption au sein du cercle familial.
-\dt 24/Apr/2017
 
 \lx hi˧tʰo˧˥
 \sf <nb="B"> 120b
@@ -19490,17 +19573,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc hĩ˧ʈʂɤ˧
 \so <print="n"> F4
-\de Family member belonging to the same generation: brother, sister, or cousin (on the mother's side).
-\ge family_members_of_same_generation
-\dn 同一辈的亲戚：兄弟姐妹、堂兄弟姐妹
-\gn 兄弟姐妹/堂兄弟姐妹
-\df Membre de la famille de même génération: frère, sœur, cousin(e) (du côté maternel).
-\gf membre_de_la_famille_de_même_génération
+\de Family member belonging to the same lineage (on the mother's side).
+\ge family_members_of_same_lineage
+\dn 亲戚：有共同祖先（祖母）的家人
+\gn 亲戚
+\df Membre de la famille de même lignage (du côté maternel).
+\gf membre_de_la_famille_de_même_lignage
 \xv hĩ˧-tɕʰɯ˧ - hĩ˧-ʈʂɤ#˥
-\xe same meaning: the family members belonging to the same generation
-\xn 同一辈的亲戚：兄弟姐妹、堂兄弟姐妹
-\xf même sens: les gens de la même génération, dans la famille: frères, sœurs, mais aussi cousins du côté maternel
-\dt 24/Apr/2017
+\xe same meaning: the family members belonging to the same lineage
+\xn 同上：亲戚，有共同祖先（祖母）的家人
+\xf même sens: les gens de même lignage
 
 \lx hi˧tsɯ˩
 \sf <nb="B"> 2227
@@ -19620,19 +19702,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \hm 1
 \or ho
 \ps n
+\sy ʝi˧tɕi˧
 \lc ho˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \np forte friction de l'initiale
 \ton #H
 \so <print="n"> F4
-\va <speaker="M21"> hu˧, ton m4; sens: poule sauvage
+\va <speaker="M21"> ID.
 \pdv mi˩
-\de Partridge.  RD QN: Partridge or pheasant?
-\ge partridge
-\dn 雉
-\gn 雉
-\df Faisan (utilisé aussi pour: cailles, et certaines poules sauvages).
+\de Pheasant, |fi{Phasianus colchicus}.
+\ge pheasant
+\dn 雉鸡，|fi{Phasianus colchicus}。别名：环颈雉、野鸡、山鸡、七彩山鸡。
+\gn 雉鸡
+\df Faisan, |fi{Phasianus colchicus}. Également appelé «poule sauvage». Le même terme est utilisé pour la caille.
 \gf faisan
 \xv ho˧ tʰv̩˧-mi˧˥ / ho˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
@@ -19640,6 +19723,60 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
 \dt 29/Jul/2017
+
+\lx mv̩˧mi˧-mæ˧ɖv̩#˥
+\or mumimaeddeu rrrr
+\ps n
+\lc mv̩˧mi˧mæ˧ɖv̩˧
+\cf mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\so <print="n"> F4
+\pdv mi˩
+\de Partridge, |fi{Francolinus pintadeanus (Scopoli)}.
+\ge partridge
+\dn 鹧鸪，|fi{Francolinus pintadeanus (Scopoli)}.
+\gn 鹧鸪
+\df Perdrix, |fi{Francolinus pintadeanus (Scopoli)}.
+\gf perdrix
+
+\lx mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
+\or mumimaeddeumi rrrr
+\et mv̩˧mi˧-mæ˧ɖv̩#˥
+\et mi˩˧
+\ps n
+\lc mv̩˧mi˧mæ˧ɖv̩˧mi˧
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\so <print="n"> F4
+\pdv mi˩
+\de Partridge, |fi{Francolinus pintadeanus (Scopoli)}.
+\ge partridge
+\dn 鹧鸪，|fi{Francolinus pintadeanus (Scopoli)}.
+\gn 鹧鸪
+\df Perdrix, |fi{Francolinus pintadeanus (Scopoli)}.
+\gf perdrix
+
+\lx ʝi˧tɕi˧
+\hm 2
+\or yijie rrrr
+\bw <langue="cmn"> 野鸡
+\ps n
+\lc ʝi˧tɕi˧
+\cf ho˥1
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton M
+\so <print="n"> F4
+\pdv mi˩
+\de Pheasant, |fi{Phasianus colchicus}.
+\ge 野鸡::pheasant
+\dn 野鸡：雉鸡，|fi{Phasianus colchicus}。别名：环颈雉、山鸡、七彩山鸡。
+\gn 野鸡（借词）
+\df «Poule sauvage»: faisan, |fi{Phasianus colchicus}. Le même terme est utilisé pour la caille.
+\gf 野鸡::faisan
 
 \lx ho˥
 \sf <nb="B"> 382
@@ -19650,7 +19787,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ho˧
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n"> (d'abord noté ˥) (avant 09, avais noté: “hu˧ʈʰɯ˧, tons confirmés"; en fait: est bien ˧ ˧˥, schéma régulier pour m4a+3b) vérifié en juillet 2012: est: ho˧ ʈʰɯ˧˥, non /†ho˧ ʈʰɯ˧/.
+\nt <type="hist" print="n"> (d'abord noté ˥) (avant 2009, avais noté: “hu˧ʈʰɯ˧, tons confirmés"; en fait: est bien ˧ ˧˥, schéma régulier pour m4a+3b) vérifié en juillet 2012: est: ho˧ ʈʰɯ˧˥, non /†ho˧ ʈʰɯ˧/.
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -19758,6 +19895,21 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Régions chinoises (Han) du Sichuan: Yanyuan, Yanbian, Xichang…
 \gf Sichuan
 \dt 24/Apr/2017
+
+\lx tʰi˩ʈʂʰo˧
+\or Ticho
+\ps n
+\lc tʰi˩ʈʂʰo˧
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton LM
+\so <print="n"> F4
+\de Tengchong, a city in Sichuan
+\ge Tengchong
+\dn 腾冲
+\gn 腾冲
+\df Tengchong: une ville du Sichuan
+\gf Tengchong
 
 \lx ho˩dʑɯ˩
 \sf <nb="B"> 1049b
@@ -19885,7 +20037,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc hõ˧ɬi˧mi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> +ɲi˥ (avant 09: noté: “hũ˥ ɬi˥mi˥; vérifié avec M18: n'est pas hṽ̩˥; n'est pas homophone avec le /hṽ/ de “frire" et autres mots"; un temps noté hõ; pas d'oppositions ũ-õ, choix final: comme pour la voyelle orale, noter comme une voyelle fermée: /ũ/)
+\nt <type="hist" print="n"> +ɲi˥ (avant 2009: noté: “hũ˥ ɬi˥mi˥; vérifié avec M18: n'est pas hṽ̩˥; n'est pas homophone avec le /hṽ/ de “frire" et autres mots"; un temps noté hõ; pas d'oppositions ũ-õ, choix final: comme pour la voyelle orale, noter comme une voyelle fermée: /ũ/)
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -19977,7 +20129,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" print="n"> Ne s'emploie pas sans |fv{-hĩ}
 \ton L
 \lc hɤ˩-ʂe˩ʂe˩˥
-\cf hɤ˩α3
+\cf hɤ˩α2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so <print="n"> F4
@@ -20020,6 +20172,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sf <nb="B"> 2060
 \sf <nb="2011"> 3188
 \or hodoshae
+\bw <langue="cmn"> 红豆杉
 \ps n
 \ton L.L.M
 \lc ho˩to˩ʂæ˥
@@ -20027,13 +20180,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> plant
 \so <print="n"> F4
 \va <speaker="F5"> *
-\va <speaker="M21"> ʐɯ˩hṽ̩˩˧, ton d3 donne ʐɯ˩hṽ̩˩dzɯ˩˧
+\va <speaker="M21"> ʐɯ˩hṽ̩˩˧, ton d3 donne ʐɯ˩hṽ̩˩ dzɯ˩˧
 \de Yew.
-\ge yew
+\ge 红豆杉::yew
 \dn 红豆杉
-\gn 红豆杉
+\gn 红豆杉（借词）
 \df If.
-\gf if
+\gf 红豆杉::if
 \xv ho˩to˩ʂæ˧-bv̩˧ | bæ˩bæ˩ ɲi˥!
 \xe It's a yew flower!
 \xn 是红豆杉花！
@@ -20049,7 +20202,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc hõ˩tsʰi˧˥
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (vérifié en 2009: est un ton d5, n'est pas …tsʰi˩) (avant 09: noté: /hũ˩ tsʰɯ˧/)
+\nt <type="hist" print="n"> (vérifié en 2009: est un ton d5, n'est pas …tsʰi˩) (avant 2009: noté: /hũ˩ tsʰɯ˧/)
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -20258,29 +20411,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 烘干一个东西
 \xf chauffer quelque chose
 \xc PHONO
-\dt 14/Jul/2017
-
-\lx hɤ˩α
-\hm 2
-\or hee
-\ps v
-\lc hɤ˩˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton Lα
-\so <print="n"> F4
-\de To go, past perfective form: has gone.
-\ge to_go.|fg{pst.}|fg{pfv}
-\dn 去，过去式，整体体
-\gn 去.过去式.整体体
-\df Partir, forme passée perfective.
-\gf partir.|fg{pst.}|fg{pfv}
-\dt 02/Sep/2015
 
 \lx hɤ˩α
 \sf <nb="B"> 1065
 \sf <nb="2011"> 1500
-\hm 3
+\hm 2
 \or heq
 \ps adj
 \ton Lα
@@ -20323,13 +20458,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\de (Of a person:) able, good at a certain technique.
+\de (Of a person:) able, good at a certain technique; successful.
 \ge able
-\dn 好（技巧好）
+\dn 好（技巧好），能干，出席
 \gn 好（技巧好）
-\df Habile.
+\df Habile, qui réussit.
 \gf habile
-\dt 02/Sep/2015
+\xv ki˧zo˧ | lo˧ ʝi˧ hɤ˧˥!
+\xe Gisso works well / she is good at her work!
+\xn 给若干活干的好！
+\xf Gisso travaille bien / elle est habile dans son travail!
+\xv ə˧mi˧! | ʈʂʰɯ˧ | ɑ˩pʰo˩ hɯ˩-zo˥, | le˧-hɤ˩ | le˧-tsʰɯ˩-ze˩!
+\xe (S)he went away (=left home), was successful, and came back!
+\xn 她去外边了，出席了，就回来了！
+\xf Eeeeh bien! Il/elle est parti·e au loin, a réussi, et est revenu·e!
+\xv ə˧mi˧! | ʈʂʰɯ˧ | le˧-hɤ˩-zo˩, | ɑ˩pʰo˩ dʑo˩ tsɯ˥ mv̩˩!
+\xe (S)he succeeded / (s)he made it, and now (s)he lives elsewhere / she has struck root somewhere away from home!
+\xn 据说她出席了，就在外边生活了。
+\xf Eeeeh bien! Il/elle a réussi, et il paraît qu'il/elle s'est établi·e au loin/ailleurs!
 
 \lx hu˧˥
 \hm 1
@@ -20411,7 +20557,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf F5
 \dt 09/Oct/2017
 
-\lx hɯ˧
+\lx hɯ˧γ
 \sf <nb="B"> 1756c
 \sf <nb="B"> 275
 \sf <nb="2011"> 2583
@@ -20430,7 +20576,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 走.过去式
 \df Aller, forme passée.
 \gf aller.|fg{pst}
-\xv (ki˧zo˧) | lo˧ ʝi˧-hɯ˧(-ze˩)!
+\xv (ki˧zo˧) | lo˧ ʝi˧ hɯ˧(-ze˩)!
 \xe Gisso has gone to work!
 \xn 给若（人名）干活去了！
 \xf Gisso est partie travailler!
@@ -20587,8 +20733,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc hṽ̩˧dɤ˧ɻ̍˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: hṽ̩˧ ɖɻ̍˧˥ gv̩˧, puis corrigé en ɖv̩˩ɻ̍˧, de façon erronée; terrain 2007: conclus que c'est bien la syllabe /hṽ/, non /hõ/ ou /hw̃ɤ/; 2011: reviens à la notation /dr/, et à une notation MM des tons) (vérifié: n'est pas …tɤ.ɻ)
-\nt <type="hist" print="n"> (avant 09, noté: hṽ̩˧ɖɻ̍˧gv̩˧) (tons confirmés en 2009)
+\nt <type="hist" print="n"> (avant 2009: noté: hṽ̩˧ ɖɻ̍˧˥ gv̩˧, puis corrigé en ɖv̩˩ɻ̍˧, de façon erronée; terrain 2007: conclus que c'est bien la syllabe /hṽ/, non /hõ/ ou /hw̃ɤ/; 2011: reviens à la notation /dr/, et à une notation MM des tons) (vérifié: n'est pas …tɤ.ɻ)
+\nt <type="hist" print="n"> (avant 2009, noté: hṽ̩˧ɖɻ̍˧gv̩˧) (tons confirmés en 2009)
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> hṽ̩˧ɖɻ̍˧˥ | -gv̩˩
@@ -20624,7 +20770,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> hṽ̩˩ɖʐæ˩ɻæ˧gv̩˩: d'abord noté hṽ̩˩ ɖʐæ˧˥ gv̩˧; corrigé avec M18 en mai 2008, tons vérifiés en 2009) (voisement de l'initiale: confirmé) (vérifié: n'est pas /hũ/)
-\nt <type="hist" print="n"> (avant 09: noté /gv̩˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /gv̩˧/)
 \ton L+H#
 \so <print="n"> F4
 \va <speaker="F5"> hṽ̩˩ɖʐæ˩˧gv̩˩
@@ -22453,7 +22599,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʝi˩ŋɤ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté, par erreur: i˩ŋɤ˥ tʰi˥ dzɯ˩)
+\nt <type="hist" print="n"> (avant 2009, noté, par erreur: i˩ŋɤ˥ tʰi˥ dzɯ˩)
 \nt <type="hist" print="n"> notation 2007: læ˧kʰʶv̩˧ ze˥, le˧u˧ kʰʶv̩˥ ze˩; noté en 2006: “i˧ʈʂæ˥le˧u˧qʰʁv̩˥"; i˧ʈʂæ˥mv̩˩tɕju˧qʰʁv̩˥ (tons vérifiés)
 \ton LM+MH#
 \so <print="n"> F4
@@ -22533,7 +22679,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʝi˧qv̩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté /i˧kʶv̩˧/; corrigé en 2008; en 2006, avais noté à tort: ˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté /i˧kʶv̩˧/; corrigé en 2008; en 2006, avais noté à tort: ˧˥)
 \ton H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -22556,7 +22702,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʝi˧ʁæ˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> (avant 09: noté: i˧ʁæ˧)
+\nt <type="hist" print="n"> (avant 2009: noté: i˧ʁæ˧)
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -22725,6 +22871,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 02/Sep/2015
 
 \lx ʝi˧tɕi˧
+\hm 1
 \or Yijie
 \ps n
 \lc ʝi˧tɕi˧
@@ -22783,7 +22930,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> confirmé; avant 09: noté: i˩ʈʂæ˧, ton d5b; citation: ˩ ˧ et non ˩ ˧˥; en cadre: est bien d5.
+\nt <type="hist" print="n"> confirmé; avant 2009: noté: i˩ʈʂæ˧, ton d5b; citation: ˩ ˧ et non ˩ ˧˥; en cadre: est bien d5.
 \nt <type="hist" print="n"> (ton différent de celui de F4)
 \np Réalisation phonétique parfois proche de HLRH (cf doc. Tons LD); qd je fournis la forme de citation erronée ˩ ˩˧, F4 ne corrige pas aussitôt; n'est pas une “grosse faute" par rapport à d'autres substitutions.
 \ton LM+MH#
@@ -22877,7 +23024,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> ʐõ55
 \nt <type="hist" print="n"> (ʈʂʰɯ˧ ju˩ɲi˩˧)
-\nt <type="hist" print="n"> (avant 09, noté: ju˩˥, ton m1:ju˩ɲi˧)
+\nt <type="hist" print="n"> (avant 2009, noté: ju˩˥, ton m1:ju˩ɲi˧)
 \ton L
 \lc jo˧
 \so <print="n"> F4
@@ -23281,7 +23428,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf jo˩˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09, noté: …†zɤ˧)
+\nt <type="hist" print="n"> (avant 2009, noté: …†zɤ˧)
 \ton L
 \lc jo˩gi˩˥
 \so <print="n"> F4
@@ -23642,7 +23789,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (emprunt) (avant 09: noté: “ju˩pv̩˥, ton d6 ou d5; F4 6/11/2007: n'est pas ju˧pv̩˧˥; mais enrt 12/11/2007: ˩ ˩˥; qd la question lui est posée directement: accepte ˩ ˥ aussi bien que ˩ ˩˥") (2012: confirmé l'existence de 2 variantes tonales)
+\nt <type="hist" print="n"> (emprunt) (avant 2009: noté: “ju˩pv̩˥, ton d6 ou d5; F4 6/11/2007: n'est pas ju˧pv̩˧˥; mais enrt 12/11/2007: ˩ ˩˥; qd la question lui est posée directement: accepte ˩ ˥ aussi bien que ˩ ˩˥") (2012: confirmé l'existence de 2 variantes tonales)
 \np Ce mot possède deux variantes tonales: LM, et LM+MH#.
 \ton LM / LM+MH#
 \lc jo˩pv̩˥
@@ -23710,7 +23857,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf jɤ˧gɯ˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: /jɤ˧kʶɑ˧/; noté jɑ˧kʶɑ˧ en 2007, sans doute par calque de F5)
+\nt <type="hist" print="n"> (avant 2009: noté: /jɤ˧kʶɑ˧/; noté jɑ˧kʶɑ˧ en 2007, sans doute par calque de F5)
 \nt <type="sem"> /qʰɑ˧/ a le sens de: ‘amer'.
 \ton #H
 \lc jɤ˧qʰɑ˧
@@ -23969,12 +24116,25 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe Where has (s)he gone to? / Where has (s)he left for?
 \xn 他到哪里去了？
 \xf Elle/il est parti où?
+\xv ɑ˩pʰo˩ kʰi˧!
+\xe (S)he has gone out!
+\xn 他去外边了！／他出去了！
+\xf Elle est sortie!
+\xv no˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˥?
+\xe Did you go outside today? / Did you take a stroll today?
+\xn 你今天出去了吗？
+\xf tu es allé faire un tour dehors, aujourd'hui?/tu es sorti, aujourd'hui?
 \xv no˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˩˥?
 \xe Did you go outside today? / Did you take a stroll today?
 \xn 你今天出去了吗？
 \xf tu es allé faire un tour dehors, aujourd'hui?/tu es sorti, aujourd'hui? (Contexte: question posée par un consultant alors que je le raccompagne après une séance de travail vespérale)
 \rf M23
-\dt 03/Sep/2015
+\nt <type="phono" langue="fra"> Ton différent de celui utilisé par F4.
+\xv ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-hɯ˥?
+\xv ‡ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˥?
+\xe ‡Did he go outside today? / Did he take a stroll today? (Ungrammatical sentence: this verb cannot be used in the third person.)
+\xn ‡他今天出去了吗？（这是病句：这个动词不能用于第三人称。）
+\xf ‡Il est allé faire un tour dehors, aujourd'hui? / Il est sorti, aujourd'hui? (Énoncé agrammatical: ce verbe ne peut s'employer à la troisième personne.)
 
 \lx kʰi˥
 \or ki
@@ -24036,7 +24196,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09, noté: “kʰi˩˥; confirmé par F4; prononce proche de kʰe˩˥; phonétiquement diphtongué vers [e]; pas d'opposition i/e dans cette position")
+\nt <type="hist" print="n"> (avant 2009, noté: “kʰi˩˥; confirmé par F4; prononce proche de kʰe˩˥; phonétiquement diphtongué vers [e]; pas d'opposition i/e dans cette position")
 \ton #H
 \lc kʰi˧
 \so <print="n"> F4
@@ -24803,7 +24963,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /kɤ˧dzɯ˧/, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: /kɤ˧dzɯ˧/, par erreur)
 \ton M
 \lc kɤ˧dzi˧
 \so <print="n"> F4
@@ -24867,7 +25027,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (avant 09: noté: kɤ˥kɤ˧ tʰi˧ tɕi˥, puis corrigé à tort en: ˧ ˩ ˩ ˧; confirmé le schéma ˧ ˩ ˧ ˥ en nov. 2011) (d'abord noté ɖʐɯ˥) (sens: avant 2012, pensais que cela désignait l'ordre de placement lors des repas/ le plan de table (seating plan): l'ordre des places dans la pièce principale; avant 2014: traduit comme |fn{座位顺序}, “les uns derrière les autres, en ordre, en file; ou: en rang")
+\nt <type="hist" print="n"> (avant 2009: noté: kɤ˥kɤ˧ tʰi˧ tɕi˥, puis corrigé à tort en: ˧ ˩ ˩ ˧; confirmé le schéma ˧ ˩ ˧ ˥ en nov. 2011) (d'abord noté ɖʐɯ˥) (sens: avant 2012, pensais que cela désignait l'ordre de placement lors des repas/ le plan de table (seating plan): l'ordre des places dans la pièce principale; avant 2014: traduit comme |fn{座位顺序}, “les uns derrière les autres, en ordre, en file; ou: en rang")
 \ton L#
 \lc kɤ˧kɤ˩
 \so <print="n"> F4
@@ -25243,7 +25403,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the |fv{/kɤ˧˥tʰɑ˩/} clan
 \xn |fv{/kɤ˧˥tʰɑ˩/}家族
 \xf le clan |fv{/kɤ˧˥tʰɑ˩/}
-\dt 24/Apr/2017
+\xv kɤ˧˥tʰɑ˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Geta; they make up one clan!
+\xn 姓|fv{kɤ˧˥tʰɑ˩}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Geta; elles constituent un clan!
+\xv kɤ˧˥tʰɑ˩=ɻ̍˩, | ɲi˧-ʑi˩ dʑo˩, | ɖɯ˧-ɻ̃˧ ɲi˥! |　lɑ˧tʰɑ˧mi˧=ɻ˥, | tsʰe˧-ʑi˧ dʑo˩, ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Geta; they make up one clan! There are ten families carrying the name Latami; they make up one clan!
+\xn 姓|fv{kɤ˧˥tʰɑ˩}的，有两家，形成一个家族！姓拉他咪的，有十家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Geta; elles constituent un clan! Il y a dix familles qui portent le nom Latami; elles constituent un clan!
 
 \lx kɤ˩-tjɤ˧ljɤ#˥
 \or gedialia
@@ -25275,7 +25442,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf kɤ˧ʈʂɯ˩2
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" print="n"> (confirmé en mai 2008; avant 09: noté ˥ ˩) (avant 09: noté: /njɤ˥ ɳɯ˥ kɤ˥ʈʂɯ˩ bi˩/)(cf enrt 16 mai 08)
+\nt <type="hist" print="n"> (confirmé en mai 2008; avant 2009: noté ˥ ˩) (avant 2009: noté: /njɤ˥ ɳɯ˥ kɤ˥ʈʂɯ˩ bi˩/)(cf enrt 16 mai 08)
 \nt <type="sem"> est entre nom et prédicat
 \ton L#
 \lc kɤ˧ʈʂɯ˩
@@ -25665,7 +25832,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf kɤ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> njɤ˧ɳɯ˧ no˧ kɤ˩kɤ˧ bi˥!: avant 09: noté …kɤ˩kɤ˧bi˧, par erreur); ʈʂo˧tsɯ˥kɤ˩kɤ˩ +ze˩/bi˩, ʈʂo˧tsɯ˥kɤ˩kɤ˩bi˩: tons vérifiés en 2006 et à nouveau en 2007)
+\nt <type="hist" print="n"> njɤ˧ɳɯ˧ no˧ kɤ˩kɤ˧ bi˥!: avant 2009: noté …kɤ˩kɤ˧bi˧, par erreur); ʈʂo˧tsɯ˥kɤ˩kɤ˩ +ze˩/bi˩, ʈʂo˧tsɯ˥kɤ˩kɤ˩bi˩: tons vérifiés en 2006 et à nouveau en 2007)
 \np frapper doucement, toquer; aussi pour: petits coups qu'on donne sur un sofa pour chasser les miettes et poussières
 \ton L+MH#
 \lc kɤ˩kɤ˧˥
@@ -25906,7 +26073,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc kʰɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /kʰɯ˥, lv̩˧mi˧kʰɯ˧/
+\nt <type="hist" print="n"> (avant 2009: noté: /kʰɯ˥, lv̩˧mi˧kʰɯ˧/
 \ton MH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -26298,7 +26465,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (sens et forme vérifiés en 2009) classificateur: noté ɖɯ˧pʰu˩ avant 09, par erreur
+\nt <type="hist" print="n"> (sens et forme vérifiés en 2009) classificateur: noté ɖɯ˧pʰu˩ avant 2009, par erreur
 \nt <type="sem"> (même désignation pour “pied")
 \ton MH#
 \lc kʰɯ˧tsʰɤ˧˥
@@ -26918,7 +27085,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc kʰv̩˧mæ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (avant 09, noté: /kʰv̩˧ mæ˧ ni˩ zo˩! hĩ˥ lɑ˩ hu˩!/; premières notes: “kʰv̩˧ mæ˧ ni˩ hĩ˥ lɑ˩ ho˩; tons confirmés, d'abord noté lɑ˧ho˩, par erreur; pas reconnu par ts")
+\nt <type="hist" print="n"> (avant 2009, noté: /kʰv̩˧ mæ˧ ni˩ zo˩! hĩ˥ lɑ˩ hu˩!/; premières notes: “kʰv̩˧ mæ˧ ni˩ hĩ˥ lɑ˩ ho˩; tons confirmés, d'abord noté lɑ˧ho˩, par erreur; pas reconnu par ts")
 \nt <type="hist" print="n"> (a) hĩ˥ ʈʂæ˧ i˧ hĩ˧ (ʈʂæ˩˥: voler) (b) kʰv̩˧mæ˧, ton d1; kʰv̩˧mæ˧ i˧hĩ˧ hĩ˥
 \nt <type="sem"> (peut-être /mæ˧/ indique-t-il le terme atteint, mais pas réussi analyse avec F4)
 \ton M
@@ -27255,7 +27422,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté: kʰv̩˥ sɯ˥ sɯ˩) (vérifié: n'est pas /si/)
+\nt <type="hist" print="n"> (avant 2009, noté: kʰv̩˥ sɯ˥ sɯ˩) (vérifié: n'est pas /si/)
 \ton L#
 \lc kʰv̩˧sɯ˧sɯ˩
 \so <print="n"> F4
@@ -27338,7 +27505,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe In Yongning, the Prefect [is the authority]; in Muli, the |fv{/kv̩˧tsʰɑ˥$/} family [is the authority]! (A saying that describes the situation towards the middle of the 20th century.)
 \xn 在永宁，是知府（说的算）。在木里，是|fv{/kv̩˧tsʰɑ˥$/}家族（说的算）！
 \xf À Yongning, c’est le Préfet qui décide; à Muli, c’est la famille |fv{/kv̩˧tsʰɑ˥$/}! (Dicton qui résume la situation vers le milieu du XXe siècle.)
-\dt 03/May/2017
+\xv mv̩˧ɭɯ˩ kv̩˩tsʰɑ˩=ɻ̍˩, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe The Guca of Muli (the family of the feudal lord), they are just one family; they make up one clan!
+\xn 木里（土司那家）姓|fv{kv̩˧tsʰɑ˥}的，就有一家，形成一个家族！
+\xf Les Guca de Muli (la famille du seigneur féodal), ils forment une seule famille, qui constitue un clan!
 
 \lx kʰv̩˧tsʰi˧-bo˥tsʰi˩
 \sf <nb="B"> 1936
@@ -27468,7 +27638,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the name of a person, containing both a family name: |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
 \xn 一个人的名字：姓为|fv{/kʰv̩˧zo˥$/}，名为|fv{/tsʰɯ˧ɻ̍#˥/}
 \xf nom d'une personne, comportant un nom de famille (|fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
-\dt 01/Sep/2015
+\xv kʰv̩˧zo˧=ɻ̍˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 
 \lx kʰv̩˧zo#˥
 \or kusso
@@ -27517,7 +27687,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté kv̩˧kv̩˧, par erreur)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (avant 2009, noté kv̩˧kv̩˧, par erreur)(confirmé en 2012: est un ton L)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -28091,6 +28261,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe (If) (s)he does not go, I'm not going either!
 \xn 他不去（的话），我也不去！
 \xf s'il n'y va pas, moi non plus!
+\xv ʈʂʰɯ˧ lɑ˧ | mɤ˧-bi˧, | njɤ˧ | mɤ˧-bi˧-ze˧!
+\xe If he doesn't go, I'm not going either!
+\xn 他如果不去，我也不去！
+\xf s'il n'y va pas, moi non plus!
+\xv ʈʰɯ˧ mɤ˧-bi˧-ze˧-dʑo˧, | njɤ˧ lɑ˧ | mɤ˧-bi˧-ze˧!
+\xe If he doesn't go, I'm not going either!
+\xn 他如果不去，我也不去！
+\xf s'il n'y va pas, moi non plus!
 \xv hĩ˧ lɑ˩ | dʑɤ˧˥, | mv̩˧di˧ lɑ˥ | dʑɤ˧˥! / hĩ˧ lɑ˩ | dʑɤ˧˥, | lv̩˧ lɑ˧ | dʑɤ˧˥!
 \xe The people are good; and the land is good! / The people are good; and the fields are good! (A set phrase to recommend a family which a young woman is considering joining through marriage: the people are good, and their land is good.)
 \xn 人也好，田也好！（习语：将女孩嫁出去前，一家人打听对方家如何，推荐的人保证：“他们家，人也好，田也好！”）
@@ -28109,11 +28287,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 油也好！
 \xf l’huile aussi (y) est bonne! (variation à partir de l'exemple qui précède)
 \xc PHONO
-\xv ʈʂʰɯ˧ lɑ˧ | mɤ˧-bi˧, | njɤ˧ | mɤ˧-bi˧-ze˧! / ʈʰɯ˧ mɤ˧-bi˧-ze˧-dʑo˧, | njɤ˧ lɑ˧ | mɤ˧-bi˧-ze˧!
-\xe If he doesn't go, I'm not going either!
-\xn 他如果不去，我也不去！
-\xf s'il n'y va pas, moi non plus!
-\dt 04/May/2017
 
 \lx lɑ˧
 \sf <nb="2011"> 1313
@@ -28341,7 +28514,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> avant 09, noté |fv{/†lɑ˧gv̩˥-lɑ˧ɲi˩/}
+\nt <type="hist" print="n"> avant 2009, noté |fv{/†lɑ˧gv̩˥-lɑ˧ɲi˩/}
 \nt <type="sem"> la première partie, |fv{/lɑ˩gv̩˧/}, peut s'employer seule (voir l'entrée correspondante), mais pas la seconde.
 \ton LM-L
 \lc lɑ˩gv̩˧lɑ˩ɲi˩
@@ -28363,11 +28536,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L#
 \lc lɑ˧hwɤ˩
 \so <print="n"> F4
-\de A Na village outside the Yongning plain, close to the Lake, not far from |fv{/lɑ˧tʰɑ˧-di˧˥/}.
+\de Lahua: a Na village outside the Yongning plain, close to the Lake, not far from |fv{/lɑ˧tʰɑ˧-di˧˥/}.
 \ge village_name
 \dn 草海（村落名）
 \gn 草海
-\df Village na hors de la plaine de Yongning, vers le Lac, non loin de |fv{/lɑ˧tʰɑ˧-di˧˥/}.
+\df Lahua: village na hors de la plaine de Yongning, vers le Lac, non loin de |fv{/lɑ˧tʰɑ˧-di˧˥/}.
 \gf nom_de_village
 \dt 04/Sep/2015
 
@@ -28578,7 +28751,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the name of a person, containing both a family name: |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
 \xn 一个人的名字：姓为|fv{/lɑ˩mɑ˩/}，名为|fv{/gv̩˧mɑ˧/}
 \xf nom d'une personne, comportant un nom de famille (|fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
-\dt 01/Sep/2015
+\xv lɑ˩mɑ˩=ɻ̍˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̃˥!
 
 \lx lɑ˧mɑ˧
 \sf <nb="B"> 355b
@@ -28899,7 +29072,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the |fv{/lɑ˧tʰɑ˧mi˥$/} family
 \xn |fv{/lɑ˧tʰɑ˧mi˥$/}家族
 \xf le clan |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille |fv{/lɑ˧tʰɑ˧mi˥$/}
-\dt 01/Sep/2015
+\xv lɑ˧tʰɑ˧mi˧=ɻ̍˥, | tsʰe˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xe There are ten families carrying the name Latami; they make up one clan!
+\xn 姓拉他咪的，有十家，形成一个家族！
+\xf Il y a dix familles qui portent le nom Latami; elles constituent un clan!
 
 \lx ɬɑ˧tsʰo#˥
 \or Lhaco
@@ -29020,7 +29196,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf lɑ˧˥1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: lɑ˧lɑ˧hĩ˥ʈʂʰʐ˥tɕi˧) (cf: 3e pers. pluriel: “eux": ʈʂʰɯ˧tɕi˩)
+\nt <type="hist" print="n"> (avant 2009: noté: lɑ˧lɑ˧hĩ˥ʈʂʰʐ˥tɕi˧) (cf: 3e pers. pluriel: “eux": ʈʂʰɯ˧tɕi˩)
 \ton MH
 \lc lɑ˩lɑ˧˥
 \so <print="n"> F4
@@ -29125,7 +29301,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /le˧u˧le˥tɕju˧ ʐwɤ˩˥/) (tons confirmés en avril 09, est bien ˧ ˧ ˥ ˩ ˩) (avant fév 2014: /le˧-wo˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /le˧u˧le˥tɕju˧ ʐwɤ˩˥/) (tons confirmés en avril 09, est bien ˧ ˧ ˥ ˩ ˩) (avant fév 2014: /le˧-wo˧/)
 \nt <type="hist" print="n"> (erreur: tɕi˩˥, tje˧hwɑ˧tɕi˥: est en fait un calque du chinois 接电话 “décrocher le téléphone"); emprunt: c'est bien installé: (emprunt) le˧tɕi˩le˧ tse˧ze˥, ou: le˧tɕi˩ze˩
 \ton M
 \lc le˧wo˧
@@ -30638,7 +30814,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc lo˩bɤ˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté /lo˩bɤ˩˥/)
+\nt <type="hist" print="n"> (avant 2009: noté /lo˩bɤ˩˥/)
 \nt <type="sem"> même morphème que dans “plante du pied"
 \ton L
 \so <print="n"> F4
@@ -30774,7 +30950,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc lo˩dʑo˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (avant 09, noté: lo˩dʑo˥) (sur enrt 12/11, F4 le réalise une fois au ton d5, puis se reprend)
+\nt <type="hist" print="n"> (avant 2009, noté: lo˩dʑo˥) (sur enrt 12/11, F4 le réalise une fois au ton d5, puis se reprend)
 \ton LH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -31024,7 +31200,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ɬo˩kɤ˩-ɬo˥ɲi˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> forme courante: disyllabique: ɬo˩kɤ˩˧, ton d3 (avant 09: noté: /ɬo˩ kɤ˩˥/)
+\nt <type="hist" print="n"> forme courante: disyllabique: ɬo˩kɤ˩˧, ton d3 (avant 2009: noté: /ɬo˩ kɤ˩˥/)
 \ton L
 \lc ɬo˩kɤ˩˥
 \so <print="n"> F4
@@ -31306,7 +31482,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (avant 09: noté /lo˩pv̩˩˥/) (confirmé par F4 en 2007: pas de rétroflexion de l'initiale) (avant mai 2012: noté /†hæ̃˩-lo˩pv̩˥/ et /ŋv̩˩-lo˩pv̩˥/ (+ɲi˩)
+\nt <type="hist" print="n"> (avant 2009: noté /lo˩pv̩˩˥/) (confirmé par F4 en 2007: pas de rétroflexion de l'initiale) (avant mai 2012: noté /†hæ̃˩-lo˩pv̩˥/ et /ŋv̩˩-lo˩pv̩˥/ (+ɲi˩)
 \ton LM+MH#
 \lc lo˩pv̩˧˥
 \so <print="n"> F4
@@ -31338,7 +31514,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ɬo˧˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" print="n"> (avant 09: noté: ɬo˧ pv̩˥ ti˧) (/t/ non rétroflexe; confirmé)
+\nt <type="hist" print="n"> (avant 2009: noté: ɬo˧ pv̩˥ ti˧) (/t/ non rétroflexe; confirmé)
 \ton H#
 \lc ɬo˧pv̩˥
 \so <print="n"> F4
@@ -31438,7 +31614,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (notation 2007: lo˩kʰwɤ˧; en 2006, avais noté: lo˩ kʶwɑ˥) (note d'avant 09: “tons confirmés, est bien ˩˥; à reporter sur autres entrées du lexique") (observation phonétique: friction chez F4, comme [kʰʶ]; ne paraît pas présent chez ts)
+\nt <type="hist" print="n"> (notation 2007: lo˩kʰwɤ˧; en 2006, avais noté: lo˩ kʶwɑ˥) (note d'avant 2009: “tons confirmés, est bien ˩˥; à reporter sur autres entrées du lexique") (observation phonétique: friction chez F4, comme [kʰʶ]; ne paraît pas présent chez ts)
 \nt <type="hist" print="n"> (a) lo˩kʰwɤ˥, ton d6 (+oe͂˞˥ “os") (b) lo˩kʰwɤ˥ ʈʂæ˩˥ (c) lo˩kʰwɤ˥ oe͂˞˥ ʈʂæ˩˥ (d'abord noté lo˩kʶwɑ˥, mais n'est pas /ɑ/) (la notation /kʰwɤ/ date de 2007-2008; auparavant: notais kʶwɑ)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -31508,7 +31684,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 他是左撇子！
 \xf Il est gaucher!
 \rf F5
-\dt 04/Sep/2015
 
 \lx lo˧ʂv̩˩
 \or Loshu
@@ -31555,7 +31730,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps prep
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09: noté: ɬo˥tɑ˥) (avant 09: noté: /ʁu˥ kʶwɑ˩ ɬo˧tɑ˧ gu˩˥/)
+\nt <type="hist" print="n"> (avant 2009: noté: ɬo˥tɑ˥) (avant 2009: noté: /ʁu˥ kʶwɑ˩ ɬo˧tɑ˧ gu˩˥/)
 \ton M
 \lc ɬo˧tɑ˧
 \so <print="n"> F4
@@ -31585,7 +31760,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09, noté: /ɬo˥tɑ˥ɬo˧ɲi˩/)
+\nt <type="hist" print="n"> (avant 2009, noté: /ɬo˥tɑ˥ɬo˧ɲi˩/)
 \nt <type="sem"> La première partie peut s'employer seule, avec le sens de “à côté de", mais pas la seconde.
 \ton -L
 \lc ɬo˧tɑ˧ɬo˩ɲi˩
@@ -31724,7 +31899,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> ton d6 (avant 09: noté: lo˩ ʈʰɯ˥)
+\nt <type="hist" print="n"> ton d6 (avant 2009: noté: lo˩ ʈʰɯ˥)
 \nt <type="hist" print="n"> (a) lo˩oe͂˞˥ (tons confirmés, sens: “os du bras") (b) oe͂˞˥ ʈʂæ˩="articulation", cf 170 (c) lo˩oe͂˞˥ʈʂæ˩="articulation du bras"
 \np confirmé: est ton d6a et non d6b (ex.: lo˩ʈʰɯ˧-bv̩˧ ɣɯ˩˧, etc)
 \ton LM
@@ -32205,7 +32380,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc lv̩˧mi˧dʑɯ˧dʑɯ˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09, noté: /lv̩˧mi˧dzɯ˧dzɯ˩/ (notation 2006); le 8/11/2007, F5 corrige en: lv̩˧mi˧ dʑi˧dʑi˩) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant 2009, noté: /lv̩˧mi˧dzɯ˧dzɯ˩/ (notation 2006); le 8/11/2007, F5 corrige en: lv̩˧mi˧ dʑi˧dʑi˩) (n'est pas dʑɯ)
 \ton -L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -33000,7 +33175,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mæ˩ko˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté: mæ˩kv̩˧) (vérifié: initiale vélaire et non uvulaire)
+\nt <type="hist" print="n"> (avant 2009: noté: mæ˩kv̩˧) (vérifié: initiale vélaire et non uvulaire)
 \ton LH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -33091,7 +33266,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <langue="pumi" type="comp" print="n"> mu51 (??)
-\nt <type="hist" print="n"> (avant 09: noté: /mɑ˥pʰv̩˥/) (voyelle de la première syllabe confirmée: est ɑ et non æ)
+\nt <type="hist" print="n"> (avant 2009: noté: /mɑ˥pʰv̩˥/) (voyelle de la première syllabe confirmée: est ɑ et non æ)
 \nt <type="hist" print="n"> (voyelle confirmée, n'est pas /æ/; mais paraît avoir tendance à prononcer mwɑ˥)
 \ton M
 \so <print="n"> F4
@@ -33133,7 +33308,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mæ˧qv̩˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> (avant 09: noté /mæ˧kʶv̩˩/) (lors du premier terrain: noté: /ma˥ko˩/, /i˧mæ˧ko˥/, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté /mæ˧kʶv̩˩/) (lors du premier terrain: noté: /ma˥ko˩/, /i˧mæ˧ko˥/, par erreur)
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -34395,7 +34570,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np (avant 09: noté /mu˩zo˥/)
+\np (avant 2009: noté /mu˩zo˥/)
 \ton LM+#H
 \lc mo˩zo˥
 \so <print="n"> F4
@@ -34651,7 +34826,19 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe I have to go and get a name (from the monks at the monastery) (for a newborn child)
 \xn 我得去（向大寺里的和尚）求一个名字（给刚出生的孩子起名）
 \xf Il va falloir que j'aille chercher un nom (auprès des moines du monastère) (pour un enfant qui vient de naître)!
-\dt 01/Sep/2015
+\xv no=ɻ˩ | ʑi˧dv̩˧ | ə˧tso˧ mv˧ʈʂæ˧˥? - njɤ˧=ɻ˩ | lɑ˧tʰɑ˧mi˧=ɻ˧ mv̩˥ʈʂæ˩!
+\xe What are your family called? (=what is your family name?) - We are the Latami! / Our family name is Latami!
+\xn 你们家什么姓？　我们姓拉他咪！
+\xf Quel est votre nom de famille? / Comment s'appelle votre famille? - On est les Latami! / Notre nom de famille, c'est Latami!
+\xv ʑi˧dv̩˧-mv˧
+\xe family name
+\xn 姓
+\xf nom de famille
+\xc <type="tone" langue="fra"> ton: M
+\xv lɑ˧tʰɑ˧mi˧=ɻ˥-dʑo˩, | ʑi˧dv̩˧-mv˧ ɲi˩!
+\xe ‘Latami’ is our family name!
+\xn 拉他咪，是我们家的姓！
+\xf «Latami», c'est notre nom de famille!
 
 \lx mv̩˧
 \sf <nb="2011"> 3358
@@ -34773,7 +34960,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> natural environment
 \nt <langue="pumi" type="comp" print="n"> mʌ35
 \nt <type="hist" print="n"> notation 2006: /†mv̩˥/; ton corrigé, et confirmé en 2009; mais l'exemple ‘allumer un feu' était resté noté /†mv̩˥kʰɯ˧/ jusqu'en 2009.
-\nt <type="hist" print="n"> ton m2 (homophone de “ciel")avant 09: avais noté:
+\nt <type="hist" print="n"> ton m2 (homophone de “ciel")avant 2009: avais noté:
 \np ton différent de F5; mais se comporte comme m2 ds certaines combinaisons: ex. “allumer le feu", mv̩˧tsʰi˧˥
 \ton #H
 \so <print="n"> F4
@@ -34896,7 +35083,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> …ze˩ (avant 09: noté /mv̩˧hĩ˥ dʑi˩ʈʰɯ˩/, par erreur) (tons vérifiés) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> …ze˩ (avant 2009: noté /mv̩˧hĩ˥ dʑi˩ʈʰɯ˩/, par erreur) (tons vérifiés) (n'est pas dʑɯ)
 \nt <type="hist" print="n"> sens: “le soleil boit de l'eau". Connaît aussi la périphrase indiquée par F4, mais ne l'emploie pas. Une variante avec montée finale est possible: ɲi˧mi˧dʑi˩ʈʰɯ˩˧.
 \nt <type="sem"> (analyse de l'expression: /mv̩˧ɕi˥/ n'a pas de sens identifiable) (est à la fois nominal, car on peut y ajouter ɖɯ˧-kʰɯ˩, et verbal car on peut y ajouter l'accompli ze˩) (Roselle, 2015: “La Mingqing analyses the morphemes as sky+rain+water+drink".)
 \ton H#-L
@@ -35320,7 +35507,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" print="n"> (avant 09: noté mv̩˥ɭɯ˩)
+\nt <type="hist" print="n"> (avant 2009: noté mv̩˥ɭɯ˩)
 \nt <type="hist" print="n"> (confirmé: différent de la façon dont le prononce F4)
 \ton L#
 \lc mv̩˧ɭɯ˩
@@ -35574,7 +35761,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mv̩˩si˧˥
 \so <print="n"> F4
 \va <speaker="M18"> njɤ˩du˧ɖʐɯ˩kʰɤ˩
-\vf avant 09: noté ŋjɤ˩ do˥ ɖʐɯ˧ kʰɤ˩
+\vf avant 2009: noté ŋjɤ˩ do˥ ɖʐɯ˧ kʰɤ˩
 \vf aurore: ɲi˥mi˥kʰɯ˥ʂɯ˥ʈʰɯ˧kʶæ˧, “la lumière solaire arrive"
 \va <speaker="M23"> mv̩˩sɯ˧˥, ton d5
 \vf serait la même syllabe que “bois"
@@ -35783,7 +35970,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09, noté: mv̩˧tsʰɯ˧ko˩) (vérifié: n'est pas /tsʰɯ/)
+\nt <type="hist" print="n"> (avant 2009, noté: mv̩˧tsʰɯ˧ko˩) (vérifié: n'est pas /tsʰɯ/)
 \ton #H
 \lc mv̩˧tsʰi˧
 \so <print="n"> F4
@@ -36037,7 +36224,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mv̩˧ʈʰɯ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté ˥ ˥) (voyelle vérifiée: n'est pas /mɯ/)
+\nt <type="hist" print="n"> (avant 2009: noté ˥ ˥) (voyelle vérifiée: n'est pas /mɯ/)
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -36204,7 +36391,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc mv̩˩zo˩˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (avant 09: noté /mv̩˩zo˩˥/)
+\nt <type="hist" print="n"> (avant 2009: noté /mv̩˩zo˩˥/)
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -36770,7 +36957,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc nɑ˩dzi˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (donne: nɑ˩dzi˧ ze˩) (avant 09: noté: /nɑ˩dzɯ˥/); nɑ˩dzi˧ hu˩ze˩! il va se faire sombre! (proposé par ts, confirmé par F4; avec M18, d'abord noté: “nɑ˩dzɯ˥ hu˧ze˩")
+\nt <type="hist" print="n"> (donne: nɑ˩dzi˧ ze˩) (avant 2009: noté: /nɑ˩dzɯ˥/); nɑ˩dzi˧ hu˩ze˩! il va se faire sombre! (proposé par ts, confirmé par F4; avec M18, d'abord noté: “nɑ˩dzɯ˥ hu˧ze˩")
 \ton LM
 \so <print="n"> F4
 \va <speaker="M18"> njæ˩ʁwæ˥, njæ˩ʁwæ˥ hu˧ ze˩
@@ -36940,7 +37127,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc nɑ˩mv̩˥nɑ˩dzi˩dzi˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09, noté: “/nɑ˩mv̩˥nɑ˩dʑi˩dʑi˩; confirmé: c'est la même syllabe que “eau", modulo le ton; tons et syllabes à nouveau confirmés en 2007")
+\nt <type="hist" print="n"> (avant 2009, noté: “/nɑ˩mv̩˥nɑ˩dʑi˩dʑi˩; confirmé: c'est la même syllabe que “eau", modulo le ton; tons et syllabes à nouveau confirmés en 2007")
 \nt <type="hist" print="n"> note ancienne: “(longues hésitations concernant l'identité phonémique des deux dernières syllabes; conclusion: est bien la même composition phonémique que 60 “eau": /dʑi/)"
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -37005,12 +37192,34 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton L
 \lc nɑ˩tsʰi˩˥
+\cf nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
 \so <print="n"> F4
 \de Name of a mountain.
 \ge name_of_mountain
-\dn 一座山的名字
+\dn 一座山的名字：纳慈
 \gn 一座山的名字
 \df Nom d'une montagne de Yongning.
+\gf nom_de_montagne
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
+
+\lx nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
+\or Nacee-Qebemi
+\ps n
+\et nɑ˩tsʰi˩
+\et tɕʰɤ˧pɤ˧-mi#˥
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L-#H
+\lc nɑ˩tsʰi˩˥ | tɕʰɤ˧pɤ˧mi˧
+\so <print="n"> F4
+\de Name of a mountain: Nacee-Qebemi.
+\ge name_of_mountain
+\dn 一座山的名字：纳慈巧吧咪
+\gn 一座山的名字：纳慈巧吧咪
+\df Nom d'une montagne de Yongning: Nacee-Qebemi.
 \gf nom_de_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
@@ -37077,7 +37286,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɖɯ˧ nɑ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n"> (avant 09: noté sɯ˧tʰi˧˥, par erreur) (note 2006, erronée: “ɖɯ˧ nɑ˩, ton à vérifier")
+\nt <type="hist" print="n"> (avant 2009: noté sɯ˧tʰi˧˥, par erreur) (note 2006, erronée: “ɖɯ˧ nɑ˩, ton à vérifier")
 \nt <type="sem"> CL des objets coupants (couteaux, haches), des chaises…; aussi, en naxi: des bouches (cf: nv̩˥ ɖɯ˧ʈʂu˩ 一张嘴)
 \ton Mα
 \so <print="n"> F4
@@ -37212,7 +37421,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> exemple: /ni˩ɲi˧?/ “c'est qui?" (tons confirmés; notation avant 09: ɲi˩ ɲi˥; première notation: ɲi˧ ɲi˥); no˧ni˩ɲi˧? “qui êtes-vous?"; ʈʂʰɯ˧ ni˩ɲi˧? qui est-ce? (re-noté /ɲi/ en 2011, et non plus /ni/)
+\nt <type="hist" print="n"> exemple: /ni˩ɲi˧?/ “c'est qui?" (tons confirmés; notation avant 2009: ɲi˩ ɲi˥; première notation: ɲi˧ ɲi˥); no˧ni˩ɲi˧? “qui êtes-vous?"; ʈʂʰɯ˧ ni˩ɲi˧? qui est-ce? (re-noté /ɲi/ en 2011, et non plus /ni/)
 \ton L
 \lc ɲi˩˥
 \so <print="n"> F4
@@ -37376,7 +37585,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (note avant 09: hĩ˥ ʈʰæ˧ tʰi˧ɲi˥ze˩)
+\nt <type="hist" print="n"> (note avant 2009: hĩ˥ ʈʰæ˧ tʰi˧ɲi˥ze˩)
 \ton H
 \lc ɲi˧
 \so <print="n"> F4
@@ -37907,7 +38116,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté kʶv̩˧)
+\nt <type="hist" print="n"> (avant 2009: noté kʶv̩˧)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -38069,7 +38278,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: /ɲi˥tsɯ˥ɖɯ˧˥/; corrigé avec M18 en mai 2008; d'abord noté ɲi˧tsɯ˧ ɖɯ˩˥; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté: /ɲi˥tsɯ˥ɖɯ˧˥/; corrigé avec M18 en mai 2008; d'abord noté ɲi˧tsɯ˧ ɖɯ˩˥; 2006: noté ˧˧˥)
 \ton -MH#
 \lc ɲi˧tsi˧ɖɯ˧˥
 \so <print="n"> F4
@@ -38090,7 +38299,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɲi˧tsi˧gv̩˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: /ɲi˥tsɯ˥ gv̩˥/; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté: /ɲi˥tsɯ˥ gv̩˥/; 2006: noté ˧˧˥)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de 29.
@@ -38107,7 +38316,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: /ɲi˧tsɯ˧ hũ˩˥/; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: /ɲi˧tsɯ˧ hũ˩˥/; 2006: noté ˧˧˥)
 \ton -MH#
 \lc ɲi˧tsi˧hõ˧˥
 \so <print="n"> F4
@@ -38126,7 +38335,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: /ɲi˥tsɯ˥ ɲi˥/; 2006: noté ˧˧˥) corrigé en août 2011: auparavant noté: ɲi˧tsi˧ɲi˧
+\nt <type="hist" print="n"> (avant 2009: /ɲi˥tsɯ˥ ɲi˥/; 2006: noté ˧˧˥) corrigé en août 2011: auparavant noté: ɲi˧tsi˧ɲi˧
 \ton -MH#
 \lc ɲi˧tsi˧ɲi˧˥
 \so <print="n"> F4
@@ -38148,7 +38357,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɲi˧tsi˧ŋwɤ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ɲi˥tsɯ˥ŋwɤ˥; corrigé avec M18 en mai 2008; d'abord noté ɲi˥tsɯ˥ŋv̩˥, avec erreur sur ŋv̩˥; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: ɲi˥tsɯ˥ŋwɤ˥; corrigé avec M18 en mai 2008; d'abord noté ɲi˥tsɯ˥ŋv̩˥, avec erreur sur ŋv̩˥; 2006: noté ˧˧˥)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de 25.
@@ -38165,12 +38374,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: ɲi˥tsɯ˥kʰʶv̩˧˥; corrigé avec M18 en mai 2008; d'abord noté ɲi˧tsɯ˧ kʰʶv̩˩˥; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté: ɲi˥tsɯ˥kʰʶv̩˧˥; corrigé avec M18 en mai 2008; d'abord noté ɲi˧tsɯ˧ kʰʶv̩˩˥; 2006: noté ˧˧˥)
 \ton -MH#
 \lc ɲi˧tsi˧qʰv̩˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\vf avant 09: noté ɲi˥tsɯ˥kʰʶv̩˧˥, sur l'indication de ts
+\vf avant 2009: noté ɲi˥tsɯ˥kʰʶv̩˧˥, sur l'indication de ts
 \de 26.
 \ge 26
 \dn 二十六
@@ -38185,12 +38394,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ɲi˥tsɯ˥so˩; corrigé avec M18 en mai 2008; auparavant noté ɲi˧tsɯ˧ so˩; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: ɲi˥tsɯ˥so˩; corrigé avec M18 en mai 2008; auparavant noté ɲi˧tsɯ˧ so˩; 2006: noté ˧˧˥)
 \ton -L
 \lc ɲi˧tsi˧so˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\vf avant 09: noté ɲi˧tsɯ˧ so˩; 2006: noté ˧˧˥
+\vf avant 2009: noté ɲi˧tsɯ˧ so˩; 2006: noté ˧˧˥
 \de 23.
 \ge 23
 \dn 二十三
@@ -38207,7 +38416,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɲi˧tsi˧ʂɯ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: /ɲi˥tsɯ˥ ʂɯ˥/; 2006: noté ɲi˧tsɯ˧ʂɤ˥)
+\nt <type="hist" print="n"> (avant 2009: /ɲi˥tsɯ˥ ʂɯ˥/; 2006: noté ɲi˧tsɯ˧ʂɤ˥)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de 27.
@@ -38226,7 +38435,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɲi˧tsi˧ʐv̩˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: /ɲi˥tsɯ˥ ʐv̩˥/; 2006: noté ˧˧˥)
+\nt <type="hist" print="n"> (avant 2009: /ɲi˥tsɯ˥ ʐv̩˥/; 2006: noté ˧˧˥)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de 24.
@@ -38407,7 +38616,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: “ɲi˩˥, ton 3: le˥ɲi˩ze˩; est donc homophone avec le verbe “être"; au ton 1, ce serait: le˧ɲi˧ze˧: on a suffisamment mangé, 饱了.")
+\nt <type="hist" print="n"> (notes avant 2009: “ɲi˩˥, ton 3: le˥ɲi˩ze˩; est donc homophone avec le verbe “être"; au ton 1, ce serait: le˧ɲi˧ze˧: on a suffisamment mangé, 饱了.")
 \ton Mα
 \lc ɲi˧
 \so <print="n"> F4
@@ -38619,7 +38828,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (d'abord noté ˧ ˩ puis passé à ˥ ˩ puis revenu à ˧ ˩ en 2009) (vérifié en 2009: n'est pas /tsi/) (avant 09: noté: nja˥tsɯ˩mv̩˩tɕju˧kʰɯ˩˥)
+\nt <type="hist" print="n"> (d'abord noté ˧ ˩ puis passé à ˥ ˩ puis revenu à ˧ ˩ en 2009) (vérifié en 2009: n'est pas /tsi/) (avant 2009: noté: nja˥tsɯ˩mv̩˩tɕju˧kʰɯ˩˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -38760,7 +38969,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (précédemment noté, par erreur: “njɤ˧, ton m2 (M)") (avant 09, notes: “/njɤ˥/; qd on ajoute la copule: “c'est moi!" njɤ˥ ɲi˩! mais restent des hésitations: H ou M?") (vérif: “c'est moi!": n'est pas: njɤ˧ ɲi˩ mais njɤ˩ ɲi˩˧)
+\nt <type="hist" print="n"> (précédemment noté, par erreur: “njɤ˧, ton m2 (M)") (avant 2009, notes: “/njɤ˥/; qd on ajoute la copule: “c'est moi!" njɤ˥ ɲi˩! mais restent des hésitations: H ou M?") (vérif: “c'est moi!": n'est pas: njɤ˧ ɲi˩ mais njɤ˩ ɲi˩˧)
 \ton L
 \lc njɤ˧
 \so <print="n"> F4
@@ -39321,7 +39530,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09, noté /njɤ˩ kʶwɑ˩˥/)
+\nt <type="hist" print="n"> (avant 2009, noté /njɤ˩ kʶwɑ˩˥/)
 \ton LM+MH#
 \lc njɤ˩qʰwɤ˧˥
 \so <print="n"> F4
@@ -39992,7 +40201,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc nv̩˩ho˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté nv̩˩hũ˥, par erreur; vérifié: n'est pas nasalisé)
+\nt <type="hist" print="n"> (avant 2009: noté nv̩˩hũ˥, par erreur; vérifié: n'est pas nasalisé)
 \ton LM+#H
 \so <print="n"> F4
 \va <speaker="F5"> ɳɯ˩hu#˥
@@ -40161,7 +40370,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xv pɤ˩mi˩˥ | nv̩˩mi˩ ɖɯ˩˥, | ʝi˧-ɳɯ˧ tʰv̩˧˥; | mi˩zɯ˩ nv̩˥mi˩ ɖɯ˩ (-dʑo˩), | hĩ˧-ɳɯ˧ lɑ˧˥!
 \xe “If the frog is brave, it gets stamped on by the ox; if the woman is brave, she gets beaten!" (Explanation: weaker creatures must not be too brave: if a frog fears nothing and ventures onto the roads, it can easily get crushed to death; if a woman behaves with masculine self-assurance and courage, she gets into situations where people come to hands, and she eventually has the lower hand.)
 \xn “勇敢的青蛙，被牛压死。勇敢的女人，被人家打！”（说明：青蛙太勇敢，上马路，就容易被压死，而女人太勇敢，容易跟别人发生矛盾，最后就打不过男人。）
-\xf «La grenouille courageuse, elle se fait écraser par le bœuf; la femme courageuse, elle se fait frapper!» (Explication: les créatures qui ne sont pas les plus fortes doivent se garder d'être trop courageuses: la grenouille qui n'a peur de rien et s'aventure sur le grand chemin, elle se fait écraser; la femme qui se comporte avec une mâle assurance, elle finit par entrer dans des conflits où on en vient aux mains et où elle a finalement le dessous.)
+\xf «La grenouille courageuse, elle se fait écraser par le bœuf; la femme courageuse, elle se fait frapper!» (Explication: les créatures qui ne sont pas les plus fortes doivent se garder d'être trop courageuses: la grenouille qui n'a peur de rien et s'aventure sur le grand chemin, elle se fait écraser; la femme qui se comporte avec une mâle assurance, elle finit par entrer dans des conflits où on en vient aux mains, et elle risque d'avoir finalement le dessous.)
 \xc PROVERBE
 \dt 25/Apr/2017
 
@@ -40190,7 +40399,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: /nv̩˩mi˩kʶɑ˩˥/, indiquant: “non aspiré")
+\nt <type="hist" print="n"> (avant 2009: noté: /nv̩˩mi˩kʶɑ˩˥/, indiquant: “non aspiré")
 \nt <type="sem"> fatigué ds son cœur; on utilise aussi un calque du naxi: /nv̩˩mi˩qɑ˩˧/
 \ton L
 \lc nv̩˩mi˩ʈʰi˩˥
@@ -40211,11 +40420,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM
 \lc nv̩˩pi˥
 \so <print="n"> F4
-\de Soybean dregs.
+\de Soybean dregs. Used as pig fodder.
 \ge soybean_dregs
 \dn 豆粕
 \gn 豆粕
-\df Tourteau de soja: le reste du soja, après qu'on en a tiré le lait de soja; sert de nourriture pour les porcs.
+\df Tourteau de soja: le reste du soja, après qu'on en a tiré le lait de soja. Il sert de nourriture pour les porcs.
 \gf tourteau_soja
 \dt 09/Sep/2015
 
@@ -40307,8 +40516,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc nv̩˩ze˥
 \so <print="n"> F4
 \vf connaît le mot, mais pas la traduction; n'en a jamais planté; en a déjà vu
-\va <speaker="M18"> ton vérifié avec F4, est d6a
-\va <speaker="M21"> nv̩˩ze˧
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
 \de Chickpea, |fi{Cicer arietinum}, black-coloured; the dish |fn{黑色凉粉} is made out of this pea.
 \ge chickpea
 \dn 鹰嘴豆、桃尔豆、鸡豆、鸡心豆
@@ -40398,7 +40607,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ŋwɤ˥)
+\nt <type="hist" print="n"> (avant 2009: ŋwɤ˥)
 \ton M? H#? (pas L)
 \lc ŋwɤ˧
 \so <print="n"> F4
@@ -40420,7 +40629,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /tɕʰi˥ ŋwɤ˩ ze˩/)
+\nt <type="hist" print="n"> (avant 2009: noté: /tɕʰi˥ ŋwɤ˩ ze˩/)
 \ton MH
 \lc ŋwɤ˧˥
 \so <print="n"> F4
@@ -40547,7 +40756,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09: noté ˧ ˥, par erreur; d'abord noté ŋwæ˧pʰæ˩˥) (forte tendance à l'harmonie vocalique, donnant: ŋwæ˧pʰæ˧˥)
+\nt <type="hist" print="n"> (avant 2009: noté ˧ ˥, par erreur; d'abord noté ŋwæ˧pʰæ˩˥) (forte tendance à l'harmonie vocalique, donnant: ŋwæ˧pʰæ˧˥)
 \nt <type="hist" print="n"> (tons confirmés: F5 dit ˧ ˧˥, non ˧ ˥) (assimilation/harmonie vocalique en discours, mais F5 tient à /ŋwɤ˧/ lorsqu'elle dit la première syllabe de façon isolée)
 \ton MH#
 \lc ŋwɤ˧pʰæ˧˥
@@ -40595,7 +40804,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: /ŋwɤ˥tsʰɯ˧/, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: /ŋwɤ˥tsʰɯ˧/, par erreur)
 \ton L#
 \lc ŋwɤ˧tsʰi˩
 \so <print="n"> F4
@@ -41226,8 +41435,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté: /pʰæ˥kʰwɤ˩/ (corrigé en 2007; avais noté en 2006: pʰæ˧kʶwɤ˩)
-\nt <type="hist" print="n"> (notes avant 09: “pʰæ˧kʰwɤ˩, ton d4; avais noté en 2006: pʰæ˧kʶɤ˩, tons et rimes vérifiées, n'est pas kʶwɤ˩; paraît être: /kʶv̩˩/, réalisé proche de [kʶɤ˩], combinaison qui n'existe pas phonémiquement ce qui permet un déplacement phonétique") Vérifié: la composition phonémique de la 2e syllabe est bien la même que “morceau", /kʰwɤ/.")
+\nt <type="hist" print="n"> (avant 2009: noté: /pʰæ˥kʰwɤ˩/ (corrigé en 2007; avais noté en 2006: pʰæ˧kʶwɤ˩)
+\nt <type="hist" print="n"> (notes avant 2009: “pʰæ˧kʰwɤ˩, ton d4; avais noté en 2006: pʰæ˧kʶɤ˩, tons et rimes vérifiées, n'est pas kʶwɤ˩; paraît être: /kʶv̩˩/, réalisé proche de [kʶɤ˩], combinaison qui n'existe pas phonémiquement ce qui permet un déplacement phonétique") Vérifié: la composition phonémique de la 2e syllabe est bien la même que “morceau", /kʰwɤ/.")
 \np La physionomie vue par les Na (d'après F4): les Chinois se caractérisent par une grosse tête ronde, les Tibétains par un visage allongé, les Occidentaux par un long nez.
 \ton L#
 \lc pʰæ˧qʰwɤ˩
@@ -41363,6 +41572,22 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Bananier plantain.
 \gf 芭蕉::plantain
 \dt 26/Apr/2017
+
+\lx ʝi˧tʰo˧
+\or yito
+\bw <langue="cmn"> 樱桃
+\ps n
+\lc ʝi˧tʰo˧
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton M
+\so <print="n"> F4
+\de Cherry.
+\ge 樱桃::cherry
+\dn 樱桃
+\gn 樱桃（借词）
+\df Cerise.
+\gf 樱桃::cerise
 
 \lx pæ˧te˩
 \sf <nb="B"> 485b
@@ -41552,7 +41777,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc pi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /ə˧tso˧pi˥/, par erreur (phonétiquement: [ɑ˧tso˧pi˥]) (tons vérifiés)
+\nt <type="hist" print="n"> (avant 2009: noté /ə˧tso˧pi˥/, par erreur (phonétiquement: [ɑ˧tso˧pi˥]) (tons vérifiés)
 \ton H
 \so <print="n"> F4
 \va <speaker="M18"> ID.
@@ -41940,7 +42165,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (+ɲi˩, +bv̩˩) (notes avant 09: “pi˩ɻ̍˧˥, ton d8?? (ʈʂʰɯ˧ pi˩ɻ̍˧˥ ɲi˩) (avant 09: noté: pi˩ ɻ̍˥ (confirmé), ton d6)")
+\nt <type="hist" print="n"> (+ɲi˩, +bv̩˩) (notes avant 2009: “pi˩ɻ̍˧˥, ton d8?? (ʈʂʰɯ˧ pi˩ɻ̍˧˥ ɲi˩) (avant 2009: noté: pi˩ ɻ̍˥ (confirmé), ton d6)")
 \ton LH
 \lc pi˩ɻ̍˥
 \so <print="n"> F4
@@ -42095,7 +42320,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɖɯ˧ pi˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n"> (avant 09, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
+\nt <type="hist" print="n"> (avant 2009, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
 \np peut s'utiliser avec des numéraux autres que un
 \ton MHα
 \so <print="n"> F4
@@ -42584,7 +42809,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <langue="pumi" type="comp" print="n"> pu55dʑɨ51
-\np (tons confirmés; avant 09, noté simplement: /…i˧hĩ˧/, par erreur; en 2006, avais noté: /pu˧ɖʐɯ˧ i:˧ hĩ˧ hĩ˥/: la perception d'un ton haut final dans certains cas est simplement due à l'effet d'un renforcement final)
+\np (tons confirmés; avant 2009, noté simplement: /…i˧hĩ˧/, par erreur; en 2006, avais noté: /pu˧ɖʐɯ˧ i:˧ hĩ˧ hĩ˥/: la perception d'un ton haut final dans certains cas est simplement due à l'effet d'un renforcement final)
 \ton #H
 \lc po˧ɖʐɯ˧
 \so <print="n"> F4
@@ -42629,7 +42854,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: /ʁu˧qʰwɤ˩ pu˩ hu˩hu˥gv̩˩/) (note d'avant 09: /ʁu˥ kʶwɑ˩ pu˩ hu˩ hu˥ gv̩˧/) Sens vérifié
+\nt <type="hist" print="n"> (avant 2009: noté: /ʁu˧qʰwɤ˩ pu˩ hu˩hu˥gv̩˩/) (note d'avant 2009: /ʁu˥ kʶwɑ˩ pu˩ hu˩ hu˥ gv̩˧/) Sens vérifié
 \nt <type="hist" print="n"> Roselle, 2015: ‘I think the first phoneme might be aspirated.' Réponse 2016 : NON.
 \nt <type="sem"> sens littéral: “partie molle de la tête"
 \ton L+H#
@@ -43129,7 +43354,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the |fv{/pɤ˧tʰi˩/} clan, the |fv{/pɤ˧tʰi˩/} family
 \xn |fv{/pɤ˧tʰi˩/}家族
 \xf le clan |fv{/pɤ˧tʰi˩/}, la famille |fv{/pɤ˧tʰi˩/}
-\dt 01/Sep/2015
+\xv pɤ˧tʰi˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Beti; they make up one clan!
+\xn 姓|fv{pɤ˧tʰi˩}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Beti; elles constituent un clan!
 
 \lx pɤ˩ti#˥
 \sf <nb="B"> 485
@@ -43409,7 +43637,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (avant 2009: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
 \nt <type="sem"> (sens: s'enfuir; mais selon M23 cela désigne aussi bien le jogging que certains font le matin)
 \np n'est pas pʰv̩˩˥; est différent de 1600 “s'agiter"
 \ton Lα
@@ -44197,7 +44425,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (avant 09, noté: “sens vérifié: corail"; corrigé en juillet 09 au vu du sens donné par Rock; confirmé en 2011 par ama)
+\nt <type="hist" print="n"> (avant 2009, noté: “sens vérifié: corail"; corrigé en juillet 09 au vu du sens donné par Rock; confirmé en 2011 par ama)
 \ton L#
 \lc pv̩˧ʂɯ˩
 \so <print="n"> F4
@@ -44481,7 +44709,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /kʶwæ˧le˧pu˧tsʰɯ˩˥/ puis /qʰwæ˧ | le˧-po˧-tsʰɯ˧˥/ qui veut dire: envoyer une lettre, transmettre un message)
+\nt <type="hist" print="n"> (avant 2009: noté /kʶwæ˧le˧pu˧tsʰɯ˩˥/ puis /qʰwæ˧ | le˧-po˧-tsʰɯ˧˥/ qui veut dire: envoyer une lettre, transmettre un message)
 \np raccompagner un hôte
 \ton Lα
 \lc pv̩˩˥
@@ -44642,7 +44870,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté kʶæ˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté kʶæ˩˥)
 \ton LH
 \lc qæ˩˥
 \so <print="n"> F4
@@ -44665,7 +44893,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (mv̩˧qæ˩ze˩: d'abord noté ˥ ˧ ˩, corrigé en 2007, confirmé les 4/11/07 et 5/11/07) (avant 09: noté mv̩˥ lə˧qæ˧˥, induit en erreur par l'effet qu'exerce la frontière de mot phonologique sur la réalisation phonétique des tons)(corrigé en 2007, avais d'abord noté ˥ ˧ ˩) (schéma tonal régulier)
+\nt <type="hist" print="n"> (mv̩˧qæ˩ze˩: d'abord noté ˥ ˧ ˩, corrigé en 2007, confirmé les 4/11/07 et 5/11/07) (avant 2009: noté mv̩˥ lə˧qæ˧˥, induit en erreur par l'effet qu'exerce la frontière de mot phonologique sur la réalisation phonétique des tons)(corrigé en 2007, avais d'abord noté ˥ ˧ ˩) (schéma tonal régulier)
 \ton MH
 \lc qæ˧˥
 \so <print="n"> F4
@@ -44737,7 +44965,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /kʶæ˥/; vérifié: non aspiré)
+\nt <type="hist" print="n"> (avant 2009: noté /kʶæ˥/; vérifié: non aspiré)
 \ton H
 \lc qæ˧
 \so <print="n"> F4
@@ -44913,7 +45141,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: “/ɬi˧mi˧ tʰi˧ qʰæ˧ ze˥/; 2006: noté ɬi˥mi˥ tʰi˧ kʶæ˧ ze˥, pensé que les tons étaient confirmés; sens: sortir, paraître: tʰi˧ qʰæ˧˥ (MH), tʰi˧ qʰæ˧ ze˥, ton 4. Question 2007: ne serait-ce pas ɬi˥mi˥ tʰi˥ qʰæ˩ ze˥? ce qui serait le schéma attendu si /qʰæ/ avait un ton LH qui se déploie; réponse F4 le 26/10/07: non, c'est bien qʰæ˧ ze˥)") (d'abord noté kʶæ)
+\nt <type="hist" print="n"> (notes avant 2009: “/ɬi˧mi˧ tʰi˧ qʰæ˧ ze˥/; 2006: noté ɬi˥mi˥ tʰi˧ kʶæ˧ ze˥, pensé que les tons étaient confirmés; sens: sortir, paraître: tʰi˧ qʰæ˧˥ (MH), tʰi˧ qʰæ˧ ze˥, ton 4. Question 2007: ne serait-ce pas ɬi˥mi˥ tʰi˥ qʰæ˩ ze˥? ce qui serait le schéma attendu si /qʰæ/ avait un ton LH qui se déploie; réponse F4 le 26/10/07: non, c'est bien qʰæ˧ ze˥)") (d'abord noté kʶæ)
 \np peut se dire de la lune comme du soleil; équivalent de “sortir", /tʰv̩˧/
 \ton MH
 \lc qʰæ˧˥
@@ -44938,7 +45166,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: /kʶæ˩˥/)
+\nt <type="hist" print="n"> (notes avant 2009: /kʶæ˩˥/)
 \ton MH
 \lc qʰæ˧˥
 \so <print="n"> F4
@@ -45107,7 +45335,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc qʰæ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté /kʶæ˥/)
+\nt <type="hist" print="n"> (avant 2009: noté /kʶæ˥/)
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -45162,7 +45390,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté /†kʰæ˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /†kʰæ˧/)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -45348,7 +45576,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: /kʶɑ˧/)
+\nt <type="hist" print="n"> (avant 2009: noté: /kʶɑ˧/)
 \ton H
 \lc qʰɑ˧
 \so <print="n"> F4
@@ -45414,7 +45642,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc qʰæ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: “kʶæ˧, læ˧ kʰʶæ˧ ze˧, ton 1") (phonétiquement læ˧-qʰæ˧-ze˧)
+\nt <type="hist" print="n"> (notes avant 2009: “kʶæ˧, læ˧ kʰʶæ˧ ze˧, ton 1") (phonétiquement læ˧-qʰæ˧-ze˧)
 \ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -45516,7 +45744,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <langue="pumi" type="comp" print="n"> qʰæ22dzi55
-\nt <type="hist" print="n"> (avant 09: noté: kʶɑ˧dze˧; reconnaissance de l'uvulaire initiale retardée par le fait que j'avais le naxi occidental dans l'oreille)
+\nt <type="hist" print="n"> (avant 2009: noté: kʶɑ˧dze˧; reconnaissance de l'uvulaire initiale retardée par le fait que j'avais le naxi occidental dans l'oreille)
 \nt <type="sem"> étymologie: ce n'est pas “céréale amère" (ce qui serait surprenant), ni “céréale de l'empereur" (idem). La syllabe /qʰɑ/ n'est pas perçue comme un morphème doté d'une signification propre. Cette situation est différente de celle de /jɤ˧qʰɑ˧/, mot dans lequel /qʰɑ˧/ a son sens de “amer".
 \ton M
 \so <print="n"> F4
@@ -45603,7 +45831,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 一个姓
 \df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
 \gf nom_de_clan
-\xv qæ˧dzɯ˩-ɻ̍˩
+\xv qæ˧dzɯ˩=ɻ̍˩
 \xe the |fv{/qæ˧dzɯ˩/} clan, the |fv{/qæ˧dzɯ˩/} family
 \xn |fv{/qæ˧dzɯ˩/}家族
 \xf le clan |fv{/qæ˧dzɯ˩/}, la famille |fv{/qæ˧dzɯ˩/}
@@ -45612,7 +45840,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 一个人的名字：姓为|fv{/qæ˧dzɯ˩/}，名为|fv{/tsʰɯ˧ɻ̍#˥/}
 \xf nom d'une personne, comportant un nom de famille (|fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
 \xc <langue="eng"> the name is not treated as one tone group, but as two tone groups: /qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /†qæ˧dzɯ˩-tsʰɯ˩ɻ̍˩/.
-\dt 01/Sep/2015
+\xv qæ˧dzɯ˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Ghaezzi; they make up one clan!
+\xn 姓|fv{qæ˧dzɯ˩}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Ghaezzi; elles constituent un clan!
 
 \lx qʰɑ˩jɤ˩
 \sf <nb="B"> 909
@@ -45622,7 +45853,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> donne: qʰɑ˩jɤ˩ɲi˧ (vérifié à nouveau en 2009: n'est pas qʰɑ˩jɤ˩ɲi˩˧), qʰɑ˩jɤ˩ tʰi˧ki˩? “combien donner? / c'est combien?", qʰɑ˩jɤ˩ɲi˧? “combien (t'en) faut-il?" (d'abord noté kʶɑ˩ jɤ˩˥) (avant 09: noté: kʶɑ˩jɤ˩ɲi˩˥? ɖʐe˥ kʶɑ˩jɤ˩ ɲi˩˥?)
+\nt <type="hist" print="n"> donne: qʰɑ˩jɤ˩ɲi˧ (vérifié à nouveau en 2009: n'est pas qʰɑ˩jɤ˩ɲi˩˧), qʰɑ˩jɤ˩ tʰi˧ki˩? “combien donner? / c'est combien?", qʰɑ˩jɤ˩ɲi˧? “combien (t'en) faut-il?" (d'abord noté kʶɑ˩ jɤ˩˥) (avant 2009: noté: kʶɑ˩jɤ˩ɲi˩˥? ɖʐe˥ kʶɑ˩jɤ˩ ɲi˩˥?)
 \ton L
 \lc qʰɑ˩jɤ˩˥
 \so <print="n"> F4
@@ -45702,7 +45933,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: kʶæ˧ mi˧)
+\nt <type="hist" print="n"> (avant 2009: noté: kʶæ˧ mi˧)
 \ton M
 \lc qʰæ˧mi˧
 \so <print="n"> F4
@@ -45741,7 +45972,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> qʰɑ˩ni˩ i˧? / qʰɑ˩ni˩ i˧ tso˩ɲi˩? (avant 09, noté: kʶɑ˧le˥i˧tso˧ɲi˧); qʰɑ˩ni˩gv̩˩˧? (avant 09: noté kʶɑ˩ni˩ gv̩˩˥) “comment faire?" (n: non palatalisé) (correction de M23: qʰɑ˧tɑ˧gv̩˧hu˧ze˧) (avant 09: noté kʶɑ˥ tɑ˥ gv̩˥ hɯ˥ ze˥) (noté /ne/ avant 2011; confirmé: n'existe pas de /ne/ distinct de /ni/) (avant 2013: noté: qʰɑ.ni)
+\nt <type="hist" print="n"> qʰɑ˩ni˩ i˧? / qʰɑ˩ni˩ i˧ tso˩ɲi˩? (avant 2009, noté: kʶɑ˧le˥i˧tso˧ɲi˧); qʰɑ˩ni˩gv̩˩˧? (avant 2009: noté kʶɑ˩ni˩ gv̩˩˥) “comment faire?" (n: non palatalisé) (correction de M23: qʰɑ˧tɑ˧gv̩˧hu˧ze˧) (avant 2009: noté kʶɑ˥ tɑ˥ gv̩˥ hɯ˥ ze˥) (noté /ne/ avant 2011; confirmé: n'existe pas de /ne/ distinct de /ni/) (avant 2013: noté: qʰɑ.ni)
 \ton L
 \lc qʰɑ˩ne˩˥
 \so <print="n"> F4
@@ -45782,7 +46013,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté /†kʰæ˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /†kʰæ˧/)
 \ton #H
 \lc qʰæ˧pɤ˧
 \so <print="n"> F4
@@ -45835,7 +46066,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté: /kʶæ˧ʈæ˩˥ tʰi˧ dzɯ˩/, notant: “confirmé: n'est pas: tʰi˧ dʑi˩")
+\nt <type="hist" print="n"> (avant 2009: noté: /kʶæ˧ʈæ˩˥ tʰi˧ dzɯ˩/, notant: “confirmé: n'est pas: tʰi˧ dʑi˩")
 \nt <type="sem"> d'après F4: est le même morphème que dans qʰæ˩ ‘tranquille'
 \ton MH#
 \lc qʰæ˧ʈæ˧˥
@@ -45865,7 +46096,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (avant 09, noté: /kʶɑ˥tɑ˥)
+\nt <type="hist" print="n"> (avant 2009, noté: /kʶɑ˥tɑ˥)
 \ton M
 \lc qʰɑ˧tɑ˧
 \so <print="n"> F4
@@ -45936,7 +46167,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc qʰɑ˧ʈʂʰɤ˧ʈʂʰɤ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: kʶɑ˧ ʈʂʰɤ˧ ʈʂʰɤ˥)
+\nt <type="hist" print="n"> (avant 2009: noté: kʶɑ˧ ʈʂʰɤ˧ ʈʂʰɤ˥)
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de Completely dry.
@@ -45983,7 +46214,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> notes avant 09: kʰæ˩ ʈæ˩ ɻæ˥; corrigé en mai 2008; avais d'abord noté: kʶæ˩ʈæ˩˥, puis kʶæ˩ʈwæ˩˥
+\nt <type="hist" print="n"> notes avant 2009: kʰæ˩ ʈæ˩ ɻæ˥; corrigé en mai 2008; avais d'abord noté: kʶæ˩ʈæ˩˥, puis kʶæ˩ʈwæ˩˥
 \nt <type="hist" print="n"> (coalescence de 2 syllabes) (d'abord noté …gv̩˧)
 \nt <type="sem"> de: qʰæ˩ ‘heureux, content, tranquille'
 \np forte tendance à l'harmonie vocalique
@@ -46189,7 +46420,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (notation 2006: mæ˥kʶæ˧) (avant 09: noté: kʶæ˩˥)
+\nt <type="hist" print="n"> (notation 2006: mæ˥kʶæ˧) (avant 2009: noté: kʶæ˩˥)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -46365,14 +46596,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté kʰʶo) (hɑ˧qʰu˥qʰu˩ (+dʑo˩): tons confirmés, ton final bas: dʑo˩; tons: d'abord noté ˧ ˥ ˧ ˧ puis pensé à ˧ ˩ ˩ ˧)
+\nt <type="hist" print="n"> (avant 2009: noté kʰʶo) (hɑ˧qʰu˥qʰu˩ (+dʑo˩): tons confirmés, ton final bas: dʑo˩; tons: d'abord noté ˧ ˥ ˧ ˧ puis pensé à ˧ ˩ ˩ ˧)
 \nt <type="hist" print="n"> (en 2006, avais noté: hɑ˧kʰo˥kʰo˧, kʰo˧kʰo˩˥)
 \ton MH
 \lc qʰo˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˧˥, qʰv̩˩qʰv̩˧˥
-\vf avant 09, noté: kʰʶv̩˩˥, kʰʶv̩˩kʰʶv̩˩˥); différence vérifiée avec F4: chez M21 la rime est bien /v/ et pas /u/, tv
+\vf avant 2009, noté: kʰʶv̩˩˥, kʰʶv̩˩kʰʶv̩˩˥); différence vérifiée avec F4: chez M21 la rime est bien /v/ et pas /u/, tv
 \de To peck.
 \ge to_peck
 \dn 啄
@@ -46402,7 +46633,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté kʰo puis kʰʶo) bu˩˧ | le˧-qʰo˧-ze˥: le contour est préservé, pas de simplification de la séquence tonale en débit rapide
+\nt <type="hist" print="n"> (avant 2009: noté kʰo puis kʰʶo) bu˩˧ | le˧-qʰo˧-ze˥: le contour est préservé, pas de simplification de la séquence tonale en débit rapide
 \ton MH
 \lc qʰo˧˥
 \so <print="n"> F4
@@ -46612,7 +46843,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n"> (avant 09: noté “/kʰo˩mv̩˩˥/, phonétiquement proche de: kʰʶo")
+\nt <type="hist" print="n"> (avant 2009: noté “/kʰo˩mv̩˩˥/, phonétiquement proche de: kʰʶo")
 \ton L
 \lc qʰo˩mv̩˩˥
 \so <print="n"> F4
@@ -46711,7 +46942,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: “ko˩kɑ˩˥; analyse phonémique, en l'absence de contrastes entre /u/ et /o/: /ku˩kɑ˩˥/") (phonétiquement: arrondissement de /ko/; proche de [kwo]? En 2007, vérification: n'est pas /kwɤ˩/.)
+\nt <type="hist" print="n"> (avant 2009: noté: “ko˩kɑ˩˥; analyse phonémique, en l'absence de contrastes entre /u/ et /o/: /ku˩kɑ˩˥/") (phonétiquement: arrondissement de /ko/; proche de [kwo]? En 2007, vérification: n'est pas /kwɤ˩/.)
 \ton L
 \lc qo˩qɑ˩˥
 \so <print="n"> F4
@@ -46875,7 +47106,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09, noté /kʶv̩˩˥/)
+\nt <type="hist" print="n"> (avant 2009, noté /kʶv̩˩˥/)
 \ton LH
 \lc qv̩˩˥
 \so <print="n"> F4
@@ -46898,7 +47129,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: “/kʶv̩˩/; vérifié: est non aspiré, n'est pas /kʰʶv/") (note avant 09: “hĩ˧ kʶv̩˩; vérifié: est non aspiré, n'est pas /kʰʶv/")
+\nt <type="hist" print="n"> (avant 2009: noté: “/kʶv̩˩/; vérifié: est non aspiré, n'est pas /kʰʶv/") (note avant 2009: “hĩ˧ kʶv̩˩; vérifié: est non aspiré, n'est pas /kʰʶv/")
 \ton MH
 \lc qv̩˧˥
 \so <print="n"> F4
@@ -46986,7 +47217,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n"> Avant 09: /†i˥ kʶv̩˥/kʰʶv/. Tons confirmés en 2009.
+\nt <type="hist" print="n"> avant 2009: /†i˥ kʶv̩˥/kʰʶv/. Tons confirmés en 2009.
 \ton M
 \lc qʰv̩˧
 \so <print="n"> F4
@@ -47020,7 +47251,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: /kʶv̩˧˥, ɲi˧ kʰʶv̩˧˥ tʰi˧ dzɯ˩/) (vérifié: initiale aspirée; confirmé en 2008)
+\nt <type="hist" print="n"> (avant 2009: /kʶv̩˧˥, ɲi˧ kʰʶv̩˧˥ tʰi˧ dzɯ˩/) (vérifié: initiale aspirée; confirmé en 2008)
 \ton MH
 \lc qʰv̩˧˥
 \so <print="n"> F4
@@ -47053,7 +47284,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: kʰʶv̩˩˥)
+\nt <type="hist" print="n"> (avant 2009: kʰʶv̩˩˥)
 \ton MH
 \lc qʰv̩˧˥
 \so <print="n"> F4
@@ -47139,8 +47370,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: sɯ˥dzɯ˩, ton d4; notation 2006: sɯ˧dzɯ˩)
-\nt <type="hist" print="n"> (avant 09: noté: sɯ˥dzɯ˩)
+\nt <type="hist" print="n"> (avant 2009: noté: sɯ˥dzɯ˩, ton d4; notation 2006: sɯ˧dzɯ˩)
+\nt <type="hist" print="n"> (avant 2009: noté: sɯ˥dzɯ˩)
 \ton L#
 \lc qv̩˧dzi˩
 \so <print="n"> F4
@@ -47167,7 +47398,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant fin 08: noté /kʰʶv̩˧dʑi˥/) (notation avant 09: …/kʰʶv̩˩ dʑi˩/) (confirmé par F5) (confirmé en mai 2008: tons: MHLL) (n'est pas dʑɯ)
+\nt <type="hist" print="n"> (avant fin 08: noté /kʰʶv̩˧dʑi˥/) (notation avant 2009: …/kʰʶv̩˩ dʑi˩/) (confirmé par F5) (confirmé en mai 2008: tons: MHLL) (n'est pas dʑɯ)
 \ton H$
 \lc qʰv̩˧dʑɯ˥
 \so <print="n"> F4
@@ -47199,7 +47430,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09, noté: kʰʶv̩˥ ɬi˥mi˥)
+\nt <type="hist" print="n"> (avant 2009, noté: kʰʶv̩˥ ɬi˥mi˥)
 \ton #H
 \lc qʰv̩˧ɬi˧mi˧
 \so <print="n"> F4
@@ -47242,7 +47473,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté /†kʶv̩˧tɕi˥/), même sens que le précédent (n'est pas †tɕɯ)
+\nt <type="hist" print="n"> (avant 2009: noté /†kʶv̩˧tɕi˥/), même sens que le précédent (n'est pas †tɕɯ)
 \ton H#
 \lc qv̩˧tɕi˥
 \so <print="n"> F4
@@ -47266,7 +47497,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (notation avant 09: /kʶv̩˧ʈʂæ˩˥/) (absence d'aspiration: vérifiée; tons vérifiés)
+\nt <type="hist" print="n"> (notation avant 2009: /kʶv̩˧ʈʂæ˩˥/) (absence d'aspiration: vérifiée; tons vérifiés)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʶv̩˧ʈʂæ˧
@@ -47304,7 +47535,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (vérifié en 2009: est ton d5a; avant 09: noté: /kʰʶv̩˩tsʰɯ˩˥; 2006: noté ˩˧)
+\nt <type="hist" print="n"> (vérifié en 2009: est ton d5a; avant 2009: noté: /kʰʶv̩˩tsʰɯ˩˥; 2006: noté ˩˧)
 \ton LM+MH#
 \lc qʰv̩˩tsʰi˧˥
 \so <print="n"> F4
@@ -47428,7 +47659,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tv; avant 09, noté: kʰʶv̩˩kʰʶv̩˩˥ puis ˩ ˩˧), tso˧~tso˧qʰv̩˥qʰv̩˩ (+ze˩), lə˧qʰv̩˩qʰv̩˩ (premières notes: “læ˧kʰʶv̩˧kʰʶv̩˩", par erreur) le˥kʰʶv̩˩kʰʶv̩˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
+\nt <type="hist" print="n"> (tv; avant 2009, noté: kʰʶv̩˩kʰʶv̩˩˥ puis ˩ ˩˧), tso˧~tso˧qʰv̩˥qʰv̩˩ (+ze˩), lə˧qʰv̩˩qʰv̩˩ (premières notes: “læ˧kʰʶv̩˧kʰʶv̩˩", par erreur) le˥kʰʶv̩˩kʰʶv̩˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
 \nt <type="hist" print="n"> kʰʶv̩˩kʰʶv̩˩˥, læ˥kʰʶv̩˩kʰʶv̩˩ +ze˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
 \ton MH
 \lc qʰv̩˩qʰv̩˧˥
@@ -47723,7 +47954,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc qwæ˩ɖʐæ˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09, noté: kwæ˩ʈʂæ˩˥) vérifié: réalisation uvulaire de l'initiale
+\nt <type="hist" print="n"> (avant 2009, noté: kwæ˩ʈʂæ˩˥) vérifié: réalisation uvulaire de l'initiale
 \nt <type="hist" print="n"> (corrigé en 2007; avais noté en 2006: kwæ˩ ɖʐæ˩˥)
 \nt <type="sem"> sens confirmé: est “mâchoire"
 \ton L
@@ -47990,7 +48221,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <langue="pumi" type="comp" print="n"> qʰwɑ55ʈɨ55
-\nt <type="hist" print="n"> (avant 09: noté kʶwæ˧ ʈɯ˥)
+\nt <type="hist" print="n"> (avant 2009: noté kʶwæ˧ ʈɯ˥)
 \ton H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -48034,7 +48265,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.; réduplication: tʰi˧qʰwæ˧qʰwæ˥
-\vf avant 09: noté kʰwæ˧kʰwæ˧) obstruer, boucher
+\vf avant 2009: noté kʰwæ˧kʰwæ˧) obstruer, boucher
 \de To block.
 \ge to_block
 \dn 挡住
@@ -48067,7 +48298,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc qwæ˩qwæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: kwæ˩kwæ˩˧, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: kwæ˩kwæ˩˧, par erreur)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -48226,15 +48457,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (cf enrt du 18 mars 08: n'est pas /qʰu˩ɖɯ˩˧, comme je l'avais pensé ces jours-ci) (notes avant 09:: kʶo˩ɖɯ˩˥, ton d3) (sens et tons vérifiés en 2009)(notes avant 09: kʰwɑ˧ ɖɯ˩˥ v̩˩ dze˩˥)
-\nt <type="hist" print="n"> (avant 09, noté: kʶo˧ɖɯ˩˥; premier terrain: kʰwɑ˧ ɖɯ˩˥)
+\nt <type="hist" print="n"> (cf enrt du 18 mars 08: n'est pas /qʰu˩ɖɯ˩˧, comme je l'avais pensé ces jours-ci) (notes avant 2009:: kʶo˩ɖɯ˩˥, ton d3) (sens et tons vérifiés en 2009)(notes avant 2009: kʰwɑ˧ ɖɯ˩˥ v̩˩ dze˩˥)
+\nt <type="hist" print="n"> (avant 2009, noté: kʶo˧ɖɯ˩˥; premier terrain: kʰwɑ˧ ɖɯ˩˥)
 \ton L
 \lc qʰwɤ˩ɖɯ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰwɑ˧ ɖɯ˩˥ v̩˩ dze˩˥
 \va <speaker="M21"> ID.
-\vf avant 09, noté: kʰwɑ˩ ɖɯ˩˥
+\vf avant 2009, noté: kʰwɑ˩ ɖɯ˩˥
 \pdv v̩˧
 \de Relatives, members of the family.
 \ge relatives
@@ -48249,7 +48480,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xv qʰwɤ˩ɖɯ˩˥, | v̩˩dze˩˥
 \xe family and friends, extended family circle
 \xn 亲人：泛指亲戚与亲密朋友们
-\xf famille et amis, cercle familial élargi
+\xf famille et amis, cercle familial élargi (métaphore: comme des oiseaux qui forment ensemble un groupe: "birds of a feather flock together")
+\xv ə˧zɯ˩ | qʰwɤ˩ɖɯ˩˥ | v̩˩dze˩ ɲi˥
+\xe We two belong to the same extended family circle.
+\xn 咱们两个是亲戚朋友们，算一家人。
+\xf Tous deux, on est de la même famille
 \xv qʰwɤ˩ɖɯ˩ to˥
 \xe to establish family ties between two families (through marriage)
 \xn 建立起两个家庭之间的联系（通过婚姻）
@@ -48355,7 +48590,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté kʰwɤ˥ ʂe˧ puis kʶwɤ˧ ʂe˩) (ʐwæ˧qʰwɤ˧ʂe˥ (+ɲi˩) “fer à cheval": schéma tonal régulier)
+\nt <type="hist" print="n"> (avant 2009: noté kʰwɤ˥ ʂe˧ puis kʶwɤ˧ ʂe˩) (ʐwæ˧qʰwɤ˧ʂe˥ (+ɲi˩) “fer à cheval": schéma tonal régulier)
 \ton L#
 \lc qʰwɤ˧ʂe˩
 \so <print="n"> F4
@@ -48405,7 +48640,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: noté kʰwɑ, et tsʰɯ; mais avais remarqué: “"prononce parfois [tɕʰi˩]") (d'abord noté ˧˩) (note 1er terrain: “n'est pas: kʰwo˧")
+\nt <type="hist" print="n"> (avant 2009: noté kʰwɑ, et tsʰɯ; mais avais remarqué: “"prononce parfois [tɕʰi˩]") (d'abord noté ˧˩) (note 1er terrain: “n'est pas: kʰwo˧")
 \nt <type="hist" print="n"> Forme de M23: (note ancienne: “n'est pas kʰwɑ˧") (vérifié en 2009: pour ce locuteur, est /qʰwɤ˧tsʰɯ˩/ et non /…tsʰi˩/)
 \ton L#
 \lc qʰwɤ˧tsʰi˩
@@ -48641,7 +48876,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> lə˧qʰwɤ˧ze˧ (avant 09: noté /le˧ kʶwɑ˧ ze˧/)
+\nt <type="hist" print="n"> lə˧qʰwɤ˧ze˧ (avant 2009: noté /le˧ kʶwɑ˧ ze˧/)
 \ton Mα
 \lc qʰwɤ˧
 \so <print="n"> F4
@@ -48869,7 +49104,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to have strength
 \xn 有力量
 \xf avoir de la force
-\xv no˧ɻ̍˩ | hĩ˧tɕʰi˧ ʁɑ˧ ʑi˧!
+\xv no˧ɻ̍˩ | hĩ˧tɕʰɯ˧ ʁɑ˧ ʑi˧!
 \xe Your family/clan is powerful!
 \xn 你们家族很强大！
 \xf votre famille/lignée/tribu est puissante!
@@ -48905,7 +49140,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (notes avant 09: dʑjɤ˩ bv̩˧! le˧ ʁɤ˥ ze˩!)
+\nt <type="hist" print="n"> (notes avant 2009: dʑjɤ˩ bv̩˧! le˧ ʁɤ˥ ze˩!)
 \nt <type="hist" print="n"> notation 2007: ʁɑ˩˥, le˧ʁɑ˥ze˩ (notation 2006: ʁɤ˥; le˧ʁɤ˥ze˩! il a gagné!)
 \ton H
 \lc ʁɑ˧
@@ -49017,7 +49252,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: ʁɑ˧dzɯ˧, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: ʁɑ˧dzɯ˧, par erreur)
 \ton M
 \lc ʁɑ˧dzi˧
 \so <print="n"> F4
@@ -49213,7 +49448,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
+\nt <type="hist" print="n"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \nt <type="sem"> (signifie littéralement “os de la poitrine")
 \ton #H
 \lc ʁɑ˧pv̩˧ɻ̍̃˧
@@ -49865,7 +50100,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \an ʁo˧tʰo˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09: noté “ʁu˥dɑ˥ɖɯ˥so˧ɲi˧; tons confirmés et reconfirmés")
+\nt <type="hist" print="n"> (avant 2009: noté “ʁu˥dɑ˥ɖɯ˥so˧ɲi˧; tons confirmés et reconfirmés")
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -50016,7 +50251,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\nt <type="hist" print="n"> (avant 09: noté: ʁu˥ dzɯ˩; 06: ˧ ˩)
+\nt <type="hist" print="n"> (avant 2009: noté: ʁu˥ dzɯ˩; 06: ˧ ˩)
 \ton L#
 \lc ʁo˧dzi˩
 \so <print="n"> F4
@@ -50099,7 +50334,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté: ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩) (changement tonal régulier: ˧˩+˧˩ donne ˧˩˩˩)
+\nt <type="hist" print="n"> (avant 2009: noté: ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩) (changement tonal régulier: ˧˩+˧˩ donne ˧˩˩˩)
 \nt <type="sem"> petits fanions flottant sur les maisons, les sanctuaires; reproduisent des passages de textes en caractères tibétains, d'où ce nom: “écritures tibétaines"
 \ton L#-
 \lc ʁo˧dzi˩tʰæ˩ɻæ˩
@@ -50317,7 +50552,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté: /le˧ ʁu˧ lv̩˧, le˧ ʁu˧ lv̩˧ tsʰɯ˩ ze˥/)
+\nt <type="hist" print="n"> (avant 2009, noté: /le˧ ʁu˧ lv̩˧, le˧ ʁu˧ lv̩˧ tsʰɯ˩ ze˥/)
 \ton M
 \lc ʁo˧lv̩˧
 \so <print="n"> F4
@@ -50381,7 +50616,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np (avant 09: noté: ʁu˥mi˥i˥hĩ˥) “personne qui joue le rôle de chef"
+\np (avant 2009: noté: ʁu˥mi˥i˥hĩ˥) “personne qui joue le rôle de chef"
 \ton M
 \lc ʁo˧mi˧
 \so <print="n"> F4
@@ -50712,7 +50947,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʁo˧tsʰe˧ʁo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09: noté: 2007: ʁwɤ˥ bv̩˥ ʁu˥ tsʰe˥ ʁu˥; en 2006, avais noté: ʁwɤ˥ bv̩˥ ʁu˧tsʰe˧ ʁu˧) (a d'abord enregistré gɤ˧bi˧)
+\nt <type="hist" print="n"> (avant 2009: noté: 2007: ʁwɤ˥ bv̩˥ ʁu˥ tsʰe˥ ʁu˥; en 2006, avais noté: ʁwɤ˥ bv̩˥ ʁu˧tsʰe˧ ʁu˧) (a d'abord enregistré gɤ˧bi˧)
 \nt <type="hist" print="n"> ʁu˧tsʰe˧ (tons vérifiés) (notes anciennes: “ʁu˧to˥kɤ˩: drôle d'expression, “le front de la tête", sans doute “monstre"; son schéma tonal: en 2006, avais noté: ʁu˧tu˥kɤ˧")
 \ton #H
 \so <print="n"> F4
@@ -51115,7 +51350,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n"> (avant 09, noté: …zɤ˧, par erreur)
+\nt <type="hist" print="n"> (avant 2009, noté: …zɤ˧, par erreur)
 \ton #H
 \lc ʁwæ˧gi˧dzɤ˧
 \so <print="n"> F4
@@ -51327,7 +51562,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʁwɤ˧qʰv̩˧dʑɯ#˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté /ʁwɤ˧kʶv̩˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /ʁwɤ˧kʶv̩˧/)
 \nt <type="sem"> formé de: ʁwɤ˧=montagne, qʰv̩˧=trou; formule incomplète d'après M23, pour qui l'expression correcte est ʁwɤ˧qʰv̩˧dʑi˧
 \np proche de [ʶwæ]
 \ton M
@@ -51351,7 +51586,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʁwɤ˧qʰv̩˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> +ɲi˩ (avant 09: noté: ʁwɤ˧ kʶv̩˧ dʑi˧; d'abord noté dʑi˩, par erreur) (prononce ʁwɤ˧ proche de ʁwæ˧) (tons confirmés, n'est pas ˧˧˩)
+\nt <type="hist" print="n"> +ɲi˩ (avant 2009: noté: ʁwɤ˧ kʶv̩˧ dʑi˧; d'abord noté dʑi˩, par erreur) (prononce ʁwɤ˧ proche de ʁwæ˧) (tons confirmés, n'est pas ˧˧˩)
 \ton #H
 \lc ʁwɤ˧qʰv̩˧dʑɯ˧
 \so <print="n"> F4
@@ -51545,30 +51780,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 商量商量
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\dt 27/Apr/2017
-
-\lx ɻ̍̃˧
-\sf <nb="2011"> 350
-\or eun
-\ps n
-\sd <langue="fra"> société
-\sd <langue="eng"> society
-\nt <type="sem"> se retrouvent par exemple qd on tue le cochon.
-\ton M
-\lc ɻ̍̃˧
-\so <print="n"> F4
-\pdv ɻ̍̃˧
-\de Clan.
-\ge clan
-\dn 家族
-\gn 家族
-\df Clan: ensemble de familles.
-\gf clan
-\xv ɻ̍̃˧ ɖɯ˧-ɻ̍̃˧
-\xe one clan
-\xn 一个家族
-\xf un clan
-\dt 01/Oct/2015
 
 \lx ɻ̍̃˥
 \hm 1
@@ -51578,23 +51789,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (analyse phonémique 2007; auparavant: œ͂˞˥)
+\nt <type="hist" print="n"> Analyse phonémique /ɻ̍̃/ réalisée en 2007. Auparavant: noté comme /ɑ͂˞/, prononciation que M18 avait jugée fautive (trop ouverte), puis /ə˞͂/ ("à la mode naxi": /ə˞/ est une des voyelles du naxi), puis comme /œ͂˞/. La présence d'une nasalité avait rapidement été établie. L'homophonie avec la première syllabe de /ɻ̍̃˧ko˩/ 'tibia' a été vérifiée.
 \ton #H
 \lc ɻ̍̃˧
+\sn 1
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\vf a) ʂæ˩ œ͂˞˩˥
-\vf d'abord noté ə˞͂˩˥
-\vf os ds la viande
-\vf b) œ͂˞˧
-\vf d'abord noté ə˞͂˧
-\vf idée de notation le 29 oct.: ɻ̍˧; est une erreur
-\vf TS me corrige lorsque je prononce ɑ͂˞˧; est plus fermé qu'une voyelle
-\vf vérifié: c'est bien la même syllabe, sauf le ton, que 168 “genou", œ͂˞˥ ku˩
-\vf os tout seul, ossement
-\vf confirmé le 6 novembre: n'est pas ɻ
-\va <speaker="M21"> ɻ̍̃˥, ton m4
-\vf tv
+\va <speaker="M21"> ID.
 \pdv kɤ˧˥
 \de Bone.
 \ge bone
@@ -51610,6 +51811,19 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to harden the bones (a medicine containing calcium and D vitamin is billed for reinforcing the bones)
 \xn 让骨头坚硬（一种含钙和维生素Ｄ的药品，有助于让骨头更健康，更结实）
 \xf durcir les os (un médicament contenant du calcium et de la vitamine D est prescrit pour renforcer les os)
+\sn 2
+\so <print="n"> F4
+\pdv ɻ̍̃˧β
+\de Clan, family members belonging to the same blood line (maternal lineage).
+\ge clan
+\dn ‘骨头’：家族，同母亲血统的亲戚
+\gn 家族
+\df Clan, lignage, lignée: personnes appartenant à une même lignée (maternelle).
+\gf clan
+\xv ʈʂʰɯ˧ | ɻ̍̃˧ | ʈʂɤ˧ mɤ˧-kv̩˧˥!
+\xe (S)he does not count as part of the clan! (About an in-law who has lived in the house a long time: despite the role played inside the house, (s)he does not count as part of the same blood line, and hence is not part of the clan.)
+\xn 他不算同母亲血统的亲戚！（女婿或儿媳妇，虽然是一家的成员，但不属于家族。）
+\xf Il/elle ne compte pas comme membre du clan! (Au sujet d'un·e conjoint·e qui habite sous le même toit depuis longtemps: en dépit du rôle joué dans la famille, cette personne ne s'inscrit pas dans la lignée, et ne fait donc pas partie du clan.)
 
 \lx ɻ̍̃˥
 \hm 2
@@ -51686,16 +51900,55 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton Mβ
-\lc ɖɯ˧ ɻ̍̃˧
+\ton Mβ / H$ / #H
+\lc ɖɯ˧ ɻ̍̃˧ / ɖɯ˧ ɻ̍̃˥
 \so <print="n"> F4
 \de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
 \ge |fg{clf}.clans
 \dn 量词：家族
 \gn 量词.家族
-\df Classificateur des clans / groupes de familles: littéralement ‘un os'. Echelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
+\df Classificateur des clans / groupes de familles: littéralement ‘un os'. Échelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
 \gf |fg{clf}.clans
-\dt 30/Apr/2017
+\xv lɑ˧tʰɑ˧mi˧=ɻ˥ | ɖɯ˧-ɻ̍̃˧ ɲi˥! |
+\xe The Latami make up one clan / one lineage!
+\xn 姓拉他咪，都算同母亲血统的亲戚！
+\xf Les Latami forment un clan / un lignage!
+\xv ɖɯ˧-ʑi˩-ɳɯ˩, | ɖɯ˧-ɻ̍̃˧ ɲi˥! |
+\xe All the members of a household belong to the same lineage!
+\xn 一家里面的人，都属于同一根‘骨头’（家族）。
+\xf Tous les membres d'une maisonnée appartiennent à un même clan!
+\xc <type="sem" langue="fra"> Cette phrase est syntaxiquement ambiguë. Elle pourrait signifier, soit qu'une maisonnée constitue un clan, soit qu'une maisonnée appartient toute entière à un même clan (que tous les membres d'une maisonnée appartiennent à un même clan). C'est la seconde interprétation qui est ici la bonne.
+\xv ɻ̍̃˧ | ɖɯ˧-ɻ̍̃˧
+\xe one clan
+\xn 一个家族
+\xf un clan
+\xc <type="phono" langue="fra"> Pas moins de trois variantes tonales existent pour ce classificateur: ton Mβ, ton H$, ton #H. Cet exemple illustre les variantes tonales Mβ et #H.
+\xv ɻ̍̃˧ | ɖɯ˧-ɻ̃˥
+\xe as above: one clan
+\xn 同上：一个家族
+\xf idem: un clan
+\xc PHONO
+\xc <type="phono" langue="fra"> Cet exemple illustre la variante tonale H$.
+\xv ɖɯ˧-ɻ̍̃˧ ɲi˩
+\xe It is one clan. / It is the same clan.
+\xn 是一个家族。
+\xf C'est un clan. / C'est le même clan.
+\xc PHONO
+\xc <type="tone" langue="fra"> Cette réalisation illustre l'une des trois variantes tonales du classificateur: Mβ.
+\xv ɖɯ˧-ɻ̍̃˧ ɲi˥
+\xe It is one clan. / It is the same clan.
+\xn 是一个家族。
+\xf C'est un clan. / C'est le même clan.
+\xc PHONO
+\xc <type="tone" langue="fra"> Cette réalisation illustre deux des trois variantes tonales du classificateur: H$ et #H.
+\xv ɖɯ˧-ɻ̍̃˧ ɖɯ˧-nɑ˥
+\xe one clan
+\xn 一个家族
+\xf un clan
+\xv njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ɻ̍̃˧ ɖɯ˧-nɑ˥ ɲi˩!
+\xe We belong to the same clan! / We are part of the same clan!
+\xn 我们属于同一个家族！
+\xf Nous autres, nous appartenons au même clan!
 
 \lx ɻ̍˩β
 \sf <nb="B"> 694
@@ -51798,7 +52051,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
+\nt <type="hist" print="n"> (avant 2009: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
 \ton L#
 \lc ɻ̍̃˧ko˩
 \so <print="n"> F4
@@ -51869,7 +52122,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> aussi: ɻ̍˧qʰv̩˧ɻ̍˧ (avant 09: /ɻ̍˧ kʰʶv̩˧ ɻ̍˧/; d'abord noté ɻ̍˧ kʶwɑ˧ ɻ̍˧, par erreur)
+\nt <type="hist" print="n"> aussi: ɻ̍˧qʰv̩˧ɻ̍˧ (avant 2009: /ɻ̍˧ kʰʶv̩˧ ɻ̍˧/; d'abord noté ɻ̍˧ kʶwɑ˧ ɻ̍˧, par erreur)
 \ton M
 \lc ɻ̍˧qʰv̩˧
 \so <print="n"> F4
@@ -52409,6 +52662,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lx ʂæ˩ɻ̍̃˩
 \sf <nb="2011"> 285
 \or shae'eun
+\et ɻ̍̃˥1
 \ps n
 \lc ʂæ˩ɻ̍̃˩˥
 \sd <langue="fra"> corps
@@ -52653,24 +52907,29 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf passer trois nuits en route / faire un voyage qui va durer trois jours (au sujet d'un trajet de trois nuits de Lijiang à Hanoi: un train de nuit; un car de nuit le lendemain; et un second train de nuit le troisième jour)
 \dt 03/May/2017
 
-\lx -se˥
+\lx se˥
 \or sei
-\ps suff
+\ps disc.PTCL
 \lc se˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton H
 \so <print="n"> F4
-\de Topic marker.
-\ge |fg{top}
+\de Topic marker, which singles out a precise element or set of elements and delineates it as a unit, against the background of elements that neighbour on it in the conceptual space.
+\ge |fg{top.delineating}
 \dn 主题
 \gn 主题
-\df Focalisateur.
-\gf |fg{top}
-\xv no˧-se˥, | ɬi˧di˩ fv˩! | njɤ˧-se˥, jo˧ɡv˧ fv˧!
+\df Marqueur de topique qui délimite l'objet ou l'ensemble concerné, le faisant ressortir contre l'arrière-plan formé par les éléments proches de lui dans l'espace conceptuel. Plutôt que d'un contraste, il s'agit d'une appréhension de l'objet concerné dans son unité.
+\gf |fg{top.délimitant}
+\xv no˩ se˥, | ɬi˧di˩ fv˩! | njɤ˩ se˥, | jo˧ɡv˧ fv˧!
 \xe You like Yongning; I like Lijiang!
 \xn 你啊，喜欢永宁。我呢，喜欢丽江。
 \xf Toi, tu aimes Yongning; moi, j'aime Lijiang!
+\xc <type="hist" print="n" langue="fra"> Le ton des pronoms avait d'abord été noté comme un ton M. Ils ont été corrigés en L lors de la séance de travail du 28 mai 2024 (enregistrée).
+\xv no˩ se˥, | ɖwæ˧˥ | le˧-gɤ˩-ze˩: | zo˧mv̩˥ hɤ˩-zo˩!
+\xe You have grounds for satisfaction: your children are really bright!
+\xn 你呢，（应该）很满意：（你的）孩子很成功！
+\xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants/habiles!
 
 \lx ʂe˩
 \sf <nb="B"> 71b
@@ -53071,7 +53330,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np (avant 09: noté: ʂe˧lɑ˧hĩ˥)
+\np (avant 2009: noté: ʂe˧lɑ˧hĩ˥)
 \ton L+H#
 \lc ʂe˩lɑ˩hĩ˥
 \so <print="n"> F4
@@ -53094,6 +53353,23 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 铁匠
 \xf forgeron
 \dt 01/Aug/2017
+
+\lx lo˧sɯ˧
+\bw <langue="cmn"> 老师
+\or losi
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton M
+\lc lo˧sɯ˧
+\so <print="n"> F4
+\pdv v̩˧
+\de Teacher.
+\ge 老师::teacher
+\dn 老师
+\gn 老师（借词）
+\df Enseignant·e.
+\gf 老师::enseignant·e
 
 \lx ʂe˧mi˧
 \sf <nb="B"> 1846
@@ -53329,7 +53605,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté /ʂe˧kʶv̩˧/ donne ʂe˧qʰv̩˧ɖʐɤ˩di˩˧ (tons confirmés)
+\nt <type="hist" print="n"> (avant 2009: noté /ʂe˧kʶv̩˧/ donne ʂe˧qʰv̩˧ɖʐɤ˩di˩˧ (tons confirmés)
 \nt <type="sem"> (sens: tout simplement “fer" + “trou" d'après ts: un objet en fer qui fait un trou)
 \ton M
 \lc ʂe˧qʰv̩˧
@@ -53377,7 +53653,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté ˥ ˥)
+\nt <type="hist" print="n"> (avant 2009, noté ˥ ˥)
 \ton M
 \lc ʂe˧ʂe˧
 \so <print="n"> F4
@@ -53596,7 +53872,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)".
 \xn （想做）完，但是没办法做完！不过最后还是可以做得很好！（情景：谈及收集语言的工作）
 \xf Réflexion au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
-\dt 24/Jul/2017
+\xv ə˧-dzɤ˧~dzɤ˥ | tʰi˧-se˩-kʰɯ˩!
+\xe Take your time to round up! / Take your time to finish! (A comment by the consultant at the end of a work session, noticing that the visitor was packing up his recording equipment rather hastily -- as preparations for lunch began -- at the risk of making mistakes in the delicate set of operations to be performed for packing.)
+\xn 慢慢完成吧！（情景：录音结束后，发音合作人看见调查者着急在午饭前收拾录音设备，就建议不要紧，来得及，还是要慢慢、按顺序收拾。）
+\xf Finis tranquillement! / Prends le temps de finir! (Commentaire de la locutrice au terme d'une séance de travail, voyant l'enquêteur pressé de ranger son matériel, au risque de faire une maladresse et abîmer son matériel.)
 
 \lx ʂe˧α
 \sf <nb="B"> 1592
@@ -53817,7 +54096,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" print="n"> avec un H flottant comme la catégorie d2a des disyllabes: si˧bv̩˧mi˧ ɲi˥ (avant 09, noté: “sv̩˧bv̩˧mi˧, d'abord dit sv̩˧bv̩˧me˥, corrigé en 2007 en: sɯ˧bv̩˧mi˧, ʈʂʰɯ˥ sɯ˧bv̩˧mi˧ ɲi˥") (vérifié: la 1e syllabe est /si/ et pas /sɯ/)
+\nt <type="hist" print="n"> avec un H flottant comme la catégorie d2a des disyllabes: si˧bv̩˧mi˧ ɲi˥ (avant 2009, noté: “sv̩˧bv̩˧mi˧, d'abord dit sv̩˧bv̩˧me˥, corrigé en 2007 en: sɯ˧bv̩˧mi˧, ʈʂʰɯ˥ sɯ˧bv̩˧mi˧ ɲi˥") (vérifié: la 1e syllabe est /si/ et pas /sɯ/)
 \nt <type="hist" print="n"> tons et voyelles confirmés
 \nt <type="sem"> (pas d'analyse possible des syllabes: sens des morphèmes composant ce lexème)
 \ton #H
@@ -53890,8 +54169,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: sɯ˥dzɯ˩, ton d4; notation 2006: sɯ˧dzɯ˩)
-\nt <type="hist" print="n"> (avant 09: noté: sɯ˥dzɯ˩)
+\nt <type="hist" print="n"> (avant 2009: noté: sɯ˥dzɯ˩, ton d4; notation 2006: sɯ˧dzɯ˩)
+\nt <type="hist" print="n"> (avant 2009: noté: sɯ˥dzɯ˩)
 \ton L#
 \lc si˧dzi˩
 \so <print="n"> F4
@@ -54287,7 +54566,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté /sɯ˧ʁu˧sɯ˧ɭɯ˧/) (vérifié, c'est bien ʁu˧ et non u˧); enregistré un temps par erreur, sous cette entrée, /sɤ˧ɭɯ˩/ “poire"
+\nt <type="hist" print="n"> (avant 2009: noté /sɯ˧ʁu˧sɯ˧ɭɯ˧/) (vérifié, c'est bien ʁu˧ et non u˧); enregistré un temps par erreur, sous cette entrée, /sɤ˧ɭɯ˩/ “poire"
 \ton #H
 \lc si˧ʁo˧si˧ɭɯ˧
 \so <print="n"> F4
@@ -54361,7 +54640,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté sɯ˩tsʰɤ˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté sɯ˩tsʰɤ˩˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> sɯ˩tsʰɤ˩˥
@@ -54471,7 +54750,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: so˥)
+\nt <type="hist" print="n"> (avant 2009: so˥)
 \np analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/: donne /so˩-qʰv̩˩tʰv̩˩˥/.
 \ton L
 \lc so˩˥
@@ -54497,7 +54776,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09, noté /so/ puis corrigé en /su/) (avant 09: so˩ tʰv̩˥ ze˩, correction 2007; en 2006, avais noté: so˩˥ tʰv̩˥ ze˩; à la réécoute en 2007, avant le terrain: avais noté: “paraît clairement être so˩ tʰv̩˥ ze˩"); exemple: dʑi˧ ɖwæ˧˥ tsʰi˧, su˧tʰv̩˥ze˩ “l'eau est très chaude, ça fait de la vapeur" (avant 09, noté: dʑi˧ ɖwæ˧˥ tsʰɯ˥, so˩tʰv̩˥ ze˩; en 2007: tons notés “so˧tʰv̩˧ ze˩" le 4/11/07, corrigés en ˩˥˩ le 5/11/2007)
+\nt <type="hist" print="n"> (avant 2009, noté /so/ puis corrigé en /su/) (avant 2009: so˩ tʰv̩˥ ze˩, correction 2007; en 2006, avais noté: so˩˥ tʰv̩˥ ze˩; à la réécoute en 2007, avant le terrain: avais noté: “paraît clairement être so˩ tʰv̩˥ ze˩"); exemple: dʑi˧ ɖwæ˧˥ tsʰi˧, su˧tʰv̩˥ze˩ “l'eau est très chaude, ça fait de la vapeur" (avant 2009, noté: dʑi˧ ɖwæ˧˥ tsʰɯ˥, so˩tʰv̩˥ ze˩; en 2007: tons notés “so˧tʰv̩˧ ze˩" le 4/11/07, corrigés en ˩˥˩ le 5/11/2007)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -54679,7 +54958,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʂo˧˥2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
+\nt <type="hist" print="n"> (avant 2009: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
 \ton MH
 \lc ʂo˧˥
 \so <print="n"> F4
@@ -54714,7 +54993,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʂo˧˥1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
+\nt <type="hist" print="n"> (avant 2009: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
 \ton MH
 \lc ʂo˧˥
 \so <print="n"> F4
@@ -55086,7 +55365,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté /ʂu˩kæ˩˥ gv̩˧/; indication de M21: ne serait pas ʂu˩kæ˩ɻæ˥gv̩˩) (avant 09: noté: /ɑ˧ʁu˥ le˧ gv̩˧ gv̩˥ ʂu˩kæ˩˥ gv̩˧/)
+\nt <type="hist" print="n"> (avant 2009: noté /ʂu˩kæ˩˥ gv̩˧/; indication de M21: ne serait pas ʂu˩kæ˩ɻæ˥gv̩˩) (avant 2009: noté: /ɑ˧ʁu˥ le˧ gv̩˧ gv̩˥ ʂu˩kæ˩˥ gv̩˧/)
 \ton L
 \lc ʂo˩qæ˩˥
 \so <print="n"> F4
@@ -55183,7 +55462,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté …dzɯ˩˥)
+\nt <type="hist" print="n"> (avant 2009, noté …dzɯ˩˥)
 \ton MH#
 \lc sɤ˧tʰo˧˥
 \so <print="n"> F4
@@ -55210,7 +55489,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc so˧tsʰi˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: so˥tsʰɯ˥, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: so˥tsʰɯ˥, par erreur)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> so˥tsʰɯ˥lɯ˥
@@ -55286,7 +55565,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc so˧tsʰi˧-ɲi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (corrigé en 2009; vérifié: n'est pas /tsʰi/) (avant 09: so˥tsʰɯ˥ɲi˥) en 2018, nouvelle vérification: il ne paraît pas plausible qu'on trouve /so˧tsʰi˧/ pour 'trente' mais /so˧tsʰɯ˧-ɲi˧/ pour '30e jour'. Réponse: c'est bien /so˧tsʰi˧-ɲi˧/.
+\nt <type="hist" print="n"> (corrigé en 2009; vérifié: n'est pas /tsʰi/) (avant 2009: so˥tsʰɯ˥ɲi˥) en 2018, nouvelle vérification: il ne paraît pas plausible qu'on trouve /so˧tsʰi˧/ pour 'trente' mais /so˧tsʰɯ˧-ɲi˧/ pour '30e jour'. Réponse: c'est bien /so˧tsʰi˧-ɲi˧/.
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -55327,7 +55606,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton Lα
 \lc so˩˥
 \nt <langue="pumi" type="comp" print="n"> swə̃51 (même polysémie: apprendre, et enseigner)
-\nt <type="hist" print="n"> (confirmé; avant 09, avais noté: ʈʰæ˥ɻæ˩ so˩)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (confirmé; avant 2009, avais noté: ʈʰæ˥ɻæ˩ so˩)(confirmé en 2012: est un ton L)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -55386,7 +55665,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf enseigner
 \xv njɤ˧-ɳɯ˧ | no˧ so˧-bi˧!
 \xe I'm going to teach you! / Let me teach you!
+\xn 我来教你！
 \xf Je vais t'enseigner/t'apprendre!
+\xv ʈʂʰɯ˧-bv̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
+\xe Her spouse sells tea! As for her, she is a teacher!
+\xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
+\xf Son compagnon vend du thé! Elle, elle est enseignante!
 
 \lx so˧α
 \or so
@@ -55495,7 +55779,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté le˥so˧so˩)
+\nt <type="hist" print="n"> (avant 2009: noté le˥so˧so˩)
 \ton MH
 \lc so˩so˧˥
 \so <print="n"> F4
@@ -55842,7 +56126,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> suivi de gv̩˩ (d'abord noté ʂɯ˩kwæ˩ɻæ˧; corrigé en ʂɯ˩-hwæ˩-ɻæ˧; rétabli …kwæ en nov. 2011); tend à se simplifier phonétiquement et à ressembler à: [ʂɯ˩kwæ˩˧ gv̩˩ +ze˩]
-\nt <type="hist" print="n"> (avant 09: noté: /gv̩˧/) (en surélevant les deux premières syllabes; confirmé: n'y a pas de changement de ton)
+\nt <type="hist" print="n"> (avant 2009: noté: /gv̩˧/) (en surélevant les deux premières syllabes; confirmé: n'y a pas de changement de ton)
 \ton L+H#
 \so <print="n"> F4
 \va <speaker="F5"> ʂɯ˩kwæ˩˧ gv̩˩
@@ -55875,7 +56159,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʂɯ˧ɬi˧mi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09, noté ʂɯ˥ ɬi˥mi˥) +ɲi˩
+\nt <type="hist" print="n"> (avant 2009, noté ʂɯ˥ ɬi˥mi˥) +ɲi˩
 \nt <type="hist" print="n"> (refuse …ɬi˥…)
 \ton M
 \so <print="n"> F4
@@ -56068,7 +56352,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (confirmé: n'est pas /si/) (avant 09: noté: “sɯ˥ pv̩˧, tons confirmés")
+\nt <type="hist" print="n"> (confirmé: n'est pas /si/) (avant 2009: noté: “sɯ˥ pv̩˧, tons confirmés")
 \nt <type="hist" print="n"> (observation 2006: “changement tonal régulier: ˧+ ˥˧ donne ˧˧˥") (aussi: dʑi˧kʶv̩˧ (puits), certainement erreur)
 \ton L#
 \lc sɯ˧pv̩˩
@@ -56205,7 +56489,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> +ɲi˥ (notes avant 09: sɯ˥ œ͂˞˥ mi˥; tons: le 5/11/2007, corrige en ˧˧˧ “car ce sont les mêmes tons que l'item 29; peut-être ˥˥˥ pour les deux") (confirmé: n'est pas /si/)
+\nt <type="hist" print="n"> +ɲi˥ (notes avant 2009: sɯ˥ œ͂˞˥ mi˥; tons: le 5/11/2007, corrige en ˧˧˧ “car ce sont les mêmes tons que l'item 29; peut-être ˥˥˥ pour les deux") (confirmé: n'est pas /si/)
 \nt <type="hist" print="n"> (correction 2007, auparavant noté oe͂˥kɤ˧)
 \ton #H
 \lc sɯ˧ɻ̍̃˧mi˧
@@ -56396,7 +56680,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: ʂɯ˥ tsʰɯ˧)
+\nt <type="hist" print="n"> (avant 2009: noté: ʂɯ˥ tsʰɯ˧)
 \ton L#
 \lc ʂɯ˧tsʰi˩
 \so <print="n"> F4
@@ -56555,7 +56839,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc sɯ˧zɯ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv lo˩, ʁwɤ˧
+\pdv lo˩
+\pdv ʁwɤ˧
 \de Family community.
 \ge family_community
 \dn 家族、支系
@@ -56575,7 +56860,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe Is there a (complete) family community? / Is the family large? (Question asked as part of discussions preliminary to marriage: Will the bride have a large family around her, be surrounded by a large family? A small family is considered much less attractive than a large one.)
 \xn 家族齐全吗？/ 家族，人多吗？（谈婚姻前的题目之一：男方家族人多不多。以人多为好。）
 \xf Est-ce qu'il a une grande famille/est-ce que sa famille est nombreuse? =est-ce que la mariée sera bien entourée, intégrée dans une grande famille? (Question que l'on pose lors des discussions préliminaires aux mariages: on s'inquiète des qualités de la maisonnée que la jeune femme va rejoindre.)
-\dt 09/Oct/2015
 
 \lx sɯ˩α
 \sf <nb="B"> 1661
@@ -56584,7 +56868,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté /tʰi˥ sɯ˧ dʑju˧/, par erreur) (vérifié: n'est pas /si/)
+\nt <type="hist" print="n"> (avant 2009: noté /tʰi˥ sɯ˧ dʑju˧/, par erreur) (vérifié: n'est pas /si/)
 \ton Lα
 \lc sɯ˩˥
 \so <print="n"> F4
@@ -56852,7 +57136,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (corrigé en 2008: est ɖv̩˧ et non dv̩˧) (tons vérifiés en mai 08, avais d'abord noté njɤ˧ no˧ ʂv̩˩ ɖv̩˩˥) (avant 09, noté ʂv̩˧dv̩˧kʰwɤ˧ tʰv̩˧˥, par erreur)
+\nt <type="hist" print="n"> (corrigé en 2008: est ɖv̩˧ et non dv̩˧) (tons vérifiés en mai 08, avais d'abord noté njɤ˧ no˧ ʂv̩˩ ɖv̩˩˥) (avant 2009, noté ʂv̩˧dv̩˧kʰwɤ˧ tʰv̩˧˥, par erreur)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -57266,7 +57550,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \de A mountain to the North-West of Yongning, called “Jiaze Mountain" in Chinese.
 \ge Jiaze_Mountain
-\dn 加泽大山（位于永宁西北的一座山）
+\dn 双古：加泽大山（位于永宁西北的一座山）
 \gn 加泽大山
 \df Une montagne au nord-ouest de Yongning.
 \gf Mont_de_Jiaze
@@ -57959,7 +58243,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était : “qui saccage tout")
+\nt <type="hist" print="n"> (avant 2009, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était : “qui saccage tout")
 \np vérifié: initiale est bien /k/, pas uvulaire
 \ton MH#
 \lc ʈæ˧kwæ˧˥
@@ -58075,7 +58359,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" print="n"> avant 09, noté: lə˧njɤ˥mv̩˩+ze˩; corrigé à tort par ts en: le˧njɤ˧ mv̩˥ ze˩; en fait: formule mal faite, F4 indique qu'elle ne convient pas.
+\nt <type="hist" print="n"> avant 2009, noté: lə˧njɤ˥mv̩˩+ze˩; corrigé à tort par ts en: le˧njɤ˧ mv̩˥ ze˩; en fait: formule mal faite, F4 indique qu'elle ne convient pas.
 \ton H.L
 \lc tɑ˧mo˩
 \so <print="n"> F4
@@ -58546,7 +58830,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Taïwan.
 \gf 台湾::Taïwan
 \xv tʰæ˩ʁwæ˧-hĩ#˥
-\xe Taiwanese, person from Beijing
+\xe Taiwanese, person from Taiwan
 \xn 台湾人
 \xf Taïwanais, personne de Taïwan
 
@@ -58967,7 +59251,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> tæ̃35
-\nt <type="hist" print="n"> (avant 09: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (avant 2009: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
 \np ton 3a
 \ton Lα
 \so <print="n"> F4
@@ -59310,7 +59594,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (confirmé; d'abord noté ˧˩)(tons confirmés; avant 09, noté: ʁu˥kʰwɤ˩tɕi˩tɕi˩; d'abord noté ˥˧˧˧) (schéma régulier) (noté tɕɯtɕɯ puis corrigé)
+\nt <type="hist" print="n"> (confirmé; d'abord noté ˧˩)(tons confirmés; avant 2009, noté: ʁu˥kʰwɤ˩tɕi˩tɕi˩; d'abord noté ˥˧˧˧) (schéma régulier) (noté tɕɯtɕɯ puis corrigé)
 \np généralement employé sous forme rédupliquée
 \ton H
 \lc tɕi˧
@@ -59372,7 +59656,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (comportement tonal: comme “fois", ʂɯ˩, sauf avec “neuf": “neuf repas" se dit: /gv̩˧-tɕʰi˥/) (n'est pas tɕʰɯ)
-\nt <type="hist" print="n"> (avant 09: noté: ɖɯ˥ tɕʰi˩ dzɯ˧; en 2006: avais noté: ɖɯ˥tɕʰi˧dzɯ˧ +ze˩)
+\nt <type="hist" print="n"> (avant 2009: noté: ɖɯ˥ tɕʰi˩ dzɯ˧; en 2006: avais noté: ɖɯ˥tɕʰi˧dzɯ˧ +ze˩)
 \ton Lβ
 \lc ɖɯ˧ tɕʰi˩
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
@@ -59955,7 +60239,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté /tɕʰju˩˥) (historique: “m4; petite hésitation entre m4b (˧˥) et m1 (˩˥); pas sûr qu'il y ait une différence (au 11/11/2007); F4 préfère une descente mesurée entre le H du début et le H de la fin, je note donc HMH plutôt que HLH"; confirmé en mai 2008 avec F4: est bien un ton m1)
+\nt <type="hist" print="n"> (avant 2009: noté /tɕʰju˩˥) (historique: “m4; petite hésitation entre m4b (˧˥) et m1 (˩˥); pas sûr qu'il y ait une différence (au 11/11/2007); F4 préfère une descente mesurée entre le H du début et le H de la fin, je note donc HMH plutôt que HLH"; confirmé en mai 2008 avec F4: est bien un ton m1)
 \np LM confirmé type “porc"
 \ton LM
 \lc tɕʰo˩˥
@@ -60243,16 +60527,17 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton #H
 \lc tɕʰɤ˧pɤ˧mi˧
+\cf nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
 \so <print="n"> F4
 \de The name of a sacred spring located in a cave on mount |fv{/nɑ˩tsʰi˩/}.
 \ge a_sacred_spring
-\dn 一处神泉
+\dn 一处神泉：巧吧咪
 \gn 一处神泉
 \df Nom d'une source sacrée, située dans une grotte, sur la montagne |fv{/nɑ˩tsʰi˩/}.
 \gf une_source_sacrée
 \xv nɑ˩tsʰi˩˥ | tɕʰɤ˧pɤ˧-mi#˥
 \xe full name of the mountain where the spring is located
-\xn 神泉所在山的全称
+\xn 神泉所在山的全称：纳慈巧吧咪
 \xf nom complet de la montagne où se trouve la source sacrée
 \dt 27/Apr/2017
 
@@ -60286,7 +60571,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09, noté: tɕʰu˩kʶwɑ˥) (ton confirmé en 2011)
+\nt <type="hist" print="n"> (avant 2009, noté: tɕʰu˩kʶwɑ˥) (ton confirmé en 2011)
 \ton LM
 \lc tɕʰo˩qʰwɤ˥
 \so <print="n"> F4
@@ -60588,7 +60873,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09, noté mv̩˧ʁu˥tɕi˥; au sujet de l'ambiguïté phonétique de certaines séquences tonales, amenant à des erreurs de ce type, voir la section “réalisation phonétique des séquences tonales" du document “phonétique du na de Yongning") (tons vérifiés; d'abord noté mv̩˧ʁu˥tɕi˧pʰv̩˧ puis, au terme de l'enquête 2006, ˧˥˧˩; était le schéma tonal régulier d'après la notation d'alors) (d'abord noté tɕi˥ pʰv̩˩; confirmé, n'est pas tɕi˥ pʰv̩˧) (+ze˩; ton m2: tɕi˧ɲi˩)
+\nt <type="hist" print="n"> (avant 2009, noté mv̩˧ʁu˥tɕi˥; au sujet de l'ambiguïté phonétique de certaines séquences tonales, amenant à des erreurs de ce type, voir la section “réalisation phonétique des séquences tonales" du document “phonétique du na de Yongning") (tons vérifiés; d'abord noté mv̩˧ʁu˥tɕi˧pʰv̩˧ puis, au terme de l'enquête 2006, ˧˥˧˩; était le schéma tonal régulier d'après la notation d'alors) (d'abord noté tɕi˥ pʰv̩˩; confirmé, n'est pas tɕi˥ pʰv̩˧) (+ze˩; ton m2: tɕi˧ɲi˩)
 \ton M
 \lc tɕɯ˧
 \so <print="n"> F4
@@ -61618,7 +61903,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> verb
 \ton Mα
 \so <print="n"> F4
-\nt <type="hist" print="n"> avant 09, noté: ɑ˧ʁu˥ tɕʰi˥; pensais qu'il était confirmé que ce n'est pas tɕʰɯ. Commentaire Roselle, 2015: ce serait: voyelle |fv{ɯ:} même mot que “garder", indiqué au ton a. F4, 2017: en effet, la voyelle est bien |fv{ɯ}.
+\nt <type="hist" print="n"> avant 2009, noté: ɑ˧ʁu˥ tɕʰi˥; pensais qu'il était confirmé que ce n'est pas tɕʰɯ. Commentaire Roselle, 2015: ce serait: voyelle |fv{ɯ:} même mot que “garder", indiqué au ton a. F4, 2017: en effet, la voyelle est bien |fv{ɯ}.
 \de To guard, to keep guard, to keep watch.
 \ge to_guard
 \dn 守卫
@@ -62461,7 +62746,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc to˧bɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (vérifié en 2009; notes avant 09: to˥pɤ˥ ze˧, que ts interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
+\nt <type="hist" print="n"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que ts interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
 \ton #H
 \so <print="n"> F4
 \vf a) ɖɯ˧
@@ -62530,7 +62815,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tʰo˧dzi˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté: /tʰo˥dzɯ˩/), ton d4 (noté ˧ ˩ en 2006)
+\nt <type="hist" print="n"> (avant 2009, noté: /tʰo˥dzɯ˩/), ton d4 (noté ˧ ˩ en 2006)
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -62589,7 +62874,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc to˧kɤ˧qʰæ˩di˩bæ˩bæ˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté: /to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥/) avant 2011: noté qæ, par erreur
+\nt <type="hist" print="n"> (avant 2009: noté: /to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥/) avant 2011: noté qæ, par erreur
 \nt <type="sem"> littéralement “fleur qui vous donne une chiquenaude au front"
 \so <print="n"> F4
 \vf <type="tone"> -L | L
@@ -62736,7 +63021,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09: noté: tʰo˧ ɭi˧ kʰv̩˩˥) (n'est pas: ʁu˧i˧ ɖɯ˧ kʰv̩˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté: tʰo˧ ɭi˧ kʰv̩˩˥) (n'est pas: ʁu˧i˧ ɖɯ˧ kʰv̩˩˥)
 \ton MH#
 \lc tʰo˧li˧kʰv̩˧˥
 \so <print="n"> F4
@@ -62843,7 +63128,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09, noté to˩mi˩˥)
+\nt <type="hist" print="n"> (avant 2009, noté to˩mi˩˥)
 \ton L
 \lc to˩mi˩˥
 \so <print="n"> F4
@@ -63094,7 +63379,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: noté tʰo˧ ʂv̩˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté tʰo˧ ʂv̩˩˥)
 \ton L
 \lc tʰo˩ʂv̩˩˥
 \so <print="n"> F4
@@ -63115,7 +63400,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09: noté: tʰo˩tɕi˩˥) (un temps noté tʰo˩tɕɯ˧˥; mais est bien vérifié: est /tɕi/)
+\nt <type="hist" print="n"> (avant 2009: noté: tʰo˩tɕi˩˥) (un temps noté tʰo˩tɕɯ˧˥; mais est bien vérifié: est /tɕi/)
 \ton LM+MH#
 \lc tʰo˩tɕi˧˥
 \so <print="n"> F4
@@ -63423,7 +63708,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tʰo˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: /tʰo˩˥, le˥ tʰo˩ ze˩/)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (avant 2009: /tʰo˩˥, le˥ tʰo˩ ze˩/)(confirmé en 2012: est un ton L)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -63530,7 +63815,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ɖɯ˧ ʈʰɤ˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n"> (avant 09: noté: “/dʑi˥ ɖɯ˧ ʈʰɤ˧/, après avoir noté /dʑi˧ɖɯ˧ʈʰɤ˧/; ts, mai 2008: choisit le schéma tonal ˥ ˧ ˧; vérifié en mai 2008: n'est pas ˥ ˥ ˥ ni ˧ ˧ ˧ mais ˥ ˧ ˧")
+\nt <type="hist" print="n"> (avant 2009: noté: “/dʑi˥ ɖɯ˧ ʈʰɤ˧/, après avoir noté /dʑi˧ɖɯ˧ʈʰɤ˧/; ts, mai 2008: choisit le schéma tonal ˥ ˧ ˧; vérifié en mai 2008: n'est pas ˥ ˥ ˥ ni ˧ ˧ ˧ mais ˥ ˧ ˧")
 \ton Hα
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧ʈʰɤ˧˥
@@ -63554,7 +63839,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc to˧to˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté: zo˧mv̩˥ to˧ to˩) (tons confirmés; schéma tonal régulier)
+\nt <type="hist" print="n"> (avant 2009, noté: zo˧mv̩˥ to˧ to˩) (tons confirmés; schéma tonal régulier)
 \ton Mβ
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -64075,7 +64360,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʈʂʰæ˧ɣɯ˧ki˩hĩ˩hĩ˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (ʈʂʰæ˧ɣɯ˧ki˩ “donner des médicaments; schéma tonal régulier, d2a+1a) (avant 09: noté: /ʈʂʰæ˥ɣɯ˥ki˧/, /ʈʂʰæ˥ɣɯ˥ki˧i˧hĩ˧/; premières notations: ˥˥˥˧˧)
+\nt <type="hist" print="n"> (ʈʂʰæ˧ɣɯ˧ki˩ “donner des médicaments; schéma tonal régulier, d2a+1a) (avant 2009: noté: /ʈʂʰæ˥ɣɯ˥ki˧/, /ʈʂʰæ˥ɣɯ˥ki˧i˧hĩ˧/; premières notations: ˥˥˥˧˧)
 \nt <type="hist" print="n"> (a) ʈʂʰæ˥v̩˥ ki˧ hĩ˧ hĩ˧ (un temps corrigé en ʈʂʰæ˥ɣɯ˥, mais ks paraît bien prononcer ʈʂʰæ˥v̩˥) (b) gu˧ li:˧hĩ˧ (sens: gu “être malade", li “regarder, voir"); calque du chinois 看病的人
 \ton -L
 \so <print="n"> F4
@@ -64149,7 +64434,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
+\nt <type="hist" print="n"> (avant 2009: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
 \ton M
 \lc ʈʂʰɑ˧lɑ˧
 \so <print="n"> F4
@@ -64183,7 +64468,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
+\nt <type="hist" print="n"> (avant 2009: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
 \ton -L#
 \lc ʈʂʰɑ˧lɑ˧mv̩˧lɑ˩
 \so <print="n"> F4
@@ -64270,7 +64555,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \de The name of a sacred spring, at the foot of a cliff, on the mountain |fv{/qv̩˧ɻ̍#˥/}.
 \ge name_of_a_spring
-\dn 一眼山泉的名字
+\dn 一眼山泉的名字：川纳
 \gn 一眼山泉的名字
 \df Nom d'une source sacrée, située au pied d'une falaise, sur la montagne |fv{/qv̩˧ɻ̍#˥/}; on disait que son eau sortait du ventre de la montagne. Le récit DumbChildren raconte comment son eau était utilisée comme remède de fertilité.
 \gf nom_d_une_source
@@ -64278,6 +64563,28 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe the full name of the mountain
 \xn 山的全名，包括水泉名
 \xf nom complet de la montagne
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
+\xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
+\xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
+\xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
+
+\lx qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥
+\or Gheu'er-Chana
+\et qv̩˧ɻ̍#˥
+\et ʈʂʰɑ˧nɑ˥
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\nt <type="hist" print="n"> ton de qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ vérifié: est un ton ˥#.
+\ton H#
+\lc qv̩˧ɻ̍˧ʈʂʰɑ˧nɑ˥
+\so <print="n"> F4
+\de The name of a mountain: Gheu'er-Chana.
+\ge name_of_a_mountain
+\dn 一座山的名字：古尔川纳
+\gn 一座山的名字
+\df La montagne Gheu'er-Chana.
+\gf nom_d_une_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
@@ -64641,7 +64948,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit : /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
+\nt <type="hist" print="n"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit : /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
 \np analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/
 \ton M
 \lc tsʰe˧
@@ -64761,7 +65068,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: lo˩kʶwɑ˥ ɑ˩ pʰo˩ ʈʂʰe˩˥) (tons vérifiés, à nouveau en 2007)
+\nt <type="hist" print="n"> (avant 2009: noté: lo˩kʶwɑ˥ ɑ˩ pʰo˩ ʈʂʰe˩˥) (tons vérifiés, à nouveau en 2007)
 \nt <type="hist" print="n"> étendre la jambe: kʰɯ˧tsʰɤ˩˥mv̩˩tɕju˥ ʈʂʰe˥ (tons corrigés en 2007; en 2006, avais noté: ˩˧˧)
 \ton Mβ
 \lc ʈʂʰe˧
@@ -64985,7 +65292,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰe˧ɖɯ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: tsʰe˥ ɖɯ˥)
+\nt <type="hist" print="n"> (avant 2009: tsʰe˥ ɖɯ˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf avec classificateur) tsʰe˧ɖɯ˧lɯ˧
@@ -65025,7 +65332,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (vérifié; notes anciennes: tsʰe˧gv̩˧; avant 09: noté: “tsʰe˥ gv̩˥; enregistrement: dit tsʰe˩ gv̩˩˧")
+\nt <type="hist" print="n"> (vérifié; notes anciennes: tsʰe˧gv̩˧; avant 2009: noté: “tsʰe˥ gv̩˥; enregistrement: dit tsʰe˩ gv̩˩˧")
 \ton L
 \lc tsʰe˩gv̩˩˥
 \so <print="n"> F4
@@ -65047,7 +65354,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: “tsʰe˥ hũ˥; enregistrement: dit tsʰe˩ hõ˩˥")
+\nt <type="hist" print="n"> (avant 2009: noté: “tsʰe˥ hũ˥; enregistrement: dit tsʰe˩ hõ˩˥")
 \ton L
 \lc tsʰe˩hõ˩˥
 \so <print="n"> F4
@@ -65069,7 +65376,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (d'abord noté tsʰɤ˧hṽ̩˥, par erreur) (avant 09: noté …dzɯ˩˥, par erreur) (sens confirmé en 2011)
+\nt <type="hist" print="n"> (d'abord noté tsʰɤ˧hṽ̩˥, par erreur) (avant 2009: noté …dzɯ˩˥, par erreur) (sens confirmé en 2011)
 \ton MH#
 \lc tsʰe˧hṽ̩˧˥
 \so <print="n"> F4
@@ -65202,7 +65509,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> +ɲi˩ (avant 09: tsʰe˥ɬi˥mi˥)
+\nt <type="hist" print="n"> +ɲi˩ (avant 2009: tsʰe˥ɬi˥mi˥)
 \ton M
 \lc tsʰe˧ɬi˧mi˧
 \so <print="n"> F4
@@ -65285,7 +65592,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰe˧ɲi˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: tsʰe˥ ɲi˥)
+\nt <type="hist" print="n"> (avant 2009: tsʰe˥ ɲi˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf avec classificateur) tsʰe˧ɲi˧lɯ˧
@@ -65397,7 +65704,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: “tsʰe˥ kʰʶv̩˥; enregistrement: dit tsʰe˩ kʰʶv̩˩˥")
+\nt <type="hist" print="n"> (avant 2009: noté: “tsʰe˥ kʰʶv̩˥; enregistrement: dit tsʰe˩ kʰʶv̩˩˥")
 \ton L
 \lc tsʰe˩qʰv̩˩˥
 \so <print="n"> F4
@@ -65421,7 +65728,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰe˩qʰv̩˩ɲi˩˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (avant 09: noté tsʰe˩kʰʶv̩˩ɲi˩˧, tsʰe˧do˧˥tsʰe˩kʰʶv̩˩ɲi˩˧)
+\nt <type="hist" print="n"> (avant 2009: noté tsʰe˩kʰʶv̩˩ɲi˩˧, tsʰe˧do˧˥tsʰe˩kʰʶv̩˩ɲi˩˧)
 \nt <type="hist" print="n"> (tons confirmés)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -65472,7 +65779,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰe˧so˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: tsʰe˥ so˥)
+\nt <type="hist" print="n"> (avant 2009: tsʰe˥ so˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf avec classificateur) tsʰe˧so˧lɯ˥
@@ -65493,7 +65800,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf tsʰe˧qʰɑ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (tv; avant 09: noté: tsʰe˥so˩˥)
+\nt <type="hist" print="n"> (tv; avant 2009: noté: tsʰe˥so˩˥)
 \ton MH#
 \lc tsʰe˧so˧˥
 \so <print="n"> F4
@@ -65515,7 +65822,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰe˧ʂɯ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: tsʰe˥ʂɤ˥, puis tsʰe˥ʂɯ˥)
+\nt <type="hist" print="n"> (avant 2009: noté: tsʰe˥ʂɤ˥, puis tsʰe˥ʂɯ˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf avec classificateur) tsʰe˧ʂɯ˧lɯ˧
@@ -65643,7 +65950,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (notes avant 09: “tsʰe˥ tʰv̩˥ bæ˩ bæ˩ bæ˥ ze˩; tons confirmés; d'abord noté bæ˧bæ˩ bæ˥, par erreur")
+\nt <type="hist" print="n"> (notes avant 2009: “tsʰe˥ tʰv̩˥ bæ˩ bæ˩ bæ˥ ze˩; tons confirmés; d'abord noté bæ˧bæ˩ bæ˥, par erreur")
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -65680,7 +65987,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté tsʰe˥ ʐv̩˥ puis tsʰe˩ ʐv̩˩˥)
+\nt <type="hist" print="n"> (avant 2009: noté tsʰe˥ ʐv̩˥ puis tsʰe˩ ʐv̩˩˥)
 \ton L
 \lc tsʰe˩ʐv̩˩˥
 \so <print="n"> F4
@@ -65883,7 +66190,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf tsi˧gi˥$
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09, noté: /tsɯ˧ kʰʶwæ˧˥/) “c'est fissuré, c'est fendu"; même mot que dans “se briser" (tsi˧ hɯ˧: notation 09; auparavant: noté: “tsɯ˥hɯ˥, prononcé proche de: tɕi˥hɯ˥"), ton d2 (correction du 9/11/2007; avais auparavant noté d1); note de juillet 08: en fait, n'est pas un nom, mais un syntagme nom+verbe, d'où le caractère artificiel d'une mise en cadre; néanmoins celle-ci donne un résultat. Plus naturel: tsi˧hɯ˧ze˧.
+\nt <type="hist" print="n"> (avant 2009, noté: /tsɯ˧ kʰʶwæ˧˥/) “c'est fissuré, c'est fendu"; même mot que dans “se briser" (tsi˧ hɯ˧: notation 09; auparavant: noté: “tsɯ˥hɯ˥, prononcé proche de: tɕi˥hɯ˥"), ton d2 (correction du 9/11/2007; avais auparavant noté d1); note de juillet 08: en fait, n'est pas un nom, mais un syntagme nom+verbe, d'où le caractère artificiel d'une mise en cadre; néanmoins celle-ci donne un résultat. Plus naturel: tsi˧hɯ˧ze˧.
 \so <print="n"> F4
 \va <speaker="F5"> tsɯ˧qʰwæ˧˥ “il y a une fissure"
 \vf a) kʰi˥ dʑi˥
@@ -65934,7 +66241,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf noté tsʰɯ˧ avant 09
+\vf noté tsʰɯ˧ avant 2009
 \de Hot; scalding.
 \ge hot/scalding
 \dn 热，烫
@@ -66006,8 +66313,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /ɖʐɤ˧qʰwɤ˧ ʈʂe˧/, ou /ɖʐɤ˧kʶwɑ˧ ʈʂe˧/, qui n'est plus reconnu) (notation 1er terrain: “kʶwɑ˧ dʑi˥ tsʰɯ˥; phonétiquement proche de tɕʰi˥"; en 2009: vu: est en fait /tsʰi˥/) (avais d'abord noté: qʰv̩˧dʑi˥, ton d2c: “trou")
-\nt <type="hist" print="n"> tu˧qʰv̩˧tsʰi˧˥ (avant 09: noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois")
+\nt <type="hist" print="n"> (avant 2009: noté: /ɖʐɤ˧qʰwɤ˧ ʈʂe˧/, ou /ɖʐɤ˧kʶwɑ˧ ʈʂe˧/, qui n'est plus reconnu) (notation 1er terrain: “kʶwɑ˧ dʑi˥ tsʰɯ˥; phonétiquement proche de tɕʰi˥"; en 2009: vu: est en fait /tsʰi˥/) (avais d'abord noté: qʰv̩˧dʑi˥, ton d2c: “trou")
+\nt <type="hist" print="n"> tu˧qʰv̩˧tsʰi˧˥ (avant 2009: noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois")
 \np qʰv̩˧dʑi˧tsʰi˧+ze˩ “faire un trou"; ɖɯ˧ qʰv̩˧ ɖɯ˧ (tons vérifiés en 2009) “faire un trou"
 \ton MH
 \lc tsʰi˧˥
@@ -66065,7 +66372,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: /lə˧ tsʰɯ˩tsʰɯ˩ tʰi˧ dzɯ˩/)
+\nt <type="hist" print="n"> (avant 2009: noté: /lə˧ tsʰɯ˩tsʰɯ˩ tʰi˧ dzɯ˩/)
 \nt <type="sem"> généralement employé sous sa forme rédupliquée: tsʰi˩~tsʰi˧˥
 \ton MH
 \lc tsʰi˧˥
@@ -66138,7 +66445,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to set up (vertically)
 \xn 立起来
 \xf (re)lever, (re)mettre d'aplomb
-\xc <type="hist" print="n"> avant 09, noté: /†gɤ˩-tsɯ˥ tʰi˩-tsɯ˥/
+\xc <type="hist" print="n"> avant 2009, noté: /†gɤ˩-tsɯ˥ tʰi˩-tsɯ˥/
 \dt 08/Oct/2015
 
 \lx tsʰi˧β
@@ -66224,7 +66531,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (notations avant 09: “tsʰe˥i˥; confirmé en 2007: est différent du tsʰɯ˥ i˥ de F5")
+\nt <type="hist" print="n"> (notations avant 2009: “tsʰe˥i˥; confirmé en 2007: est différent du tsʰɯ˥ i˥ de F5")
 \ton #H
 \lc tsʰi˧ʝi˧
 \so <print="n"> F4
@@ -66401,7 +66708,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n"> (avant 09, ne reconnaissant pas la syll. /tsʰi/, avais hésité, notant /tɕʰi˩tv̩˩˥/; note ancienne: “juin 2008, après terrain: songe à corriger en /tsʰɯ/, au vu de M21 et de la réécoute") (sens confirmé) (confirmé: /tv/ non rétroflexe)
+\nt <type="hist" print="n"> (avant 2009, ne reconnaissant pas la syll. /tsʰi/, avais hésité, notant /tɕʰi˩tv̩˩˥/; note ancienne: “juin 2008, après terrain: songe à corriger en /tsʰɯ/, au vu de M21 et de la réécoute") (sens confirmé) (confirmé: /tv/ non rétroflexe)
 \nt <type="hist" print="n"> idem 95 “cervelle"
 \ton L
 \lc tsʰi˩tv̩˩˥
@@ -66425,7 +66732,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 09: noté: /tsʰɯ˥zɯ˥ ɻ̍̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
+\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 2009: noté: /tsʰɯ˥zɯ˥ ɻ̍̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
 \ton #H
 \lc tsʰi˧zi˧ɻ̍̃˧
 \so <print="n"> F4
@@ -66446,7 +66753,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09, noté: /tsʰɯ˧zɯ˧/; en 2009: d'abord pensé que ce n'était pas /tsʰi/)
+\nt <type="hist" print="n"> (avant 2009, noté: /tsʰɯ˧zɯ˧/; en 2009: d'abord pensé que ce n'était pas /tsʰi/)
 \ton #H
 \lc tsʰi˧zi˧
 \so <print="n"> F4
@@ -66516,7 +66823,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté /tsɯ˥/, par erreur)
+\nt <type="hist" print="n"> (avant 2009, noté /tsɯ˥/, par erreur)
 \ton Mα
 \lc tsi˧
 \so <print="n"> F4
@@ -66541,7 +66848,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 09: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tons vérifiés) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; ts corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
+\nt <type="hist" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 2009: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tons vérifiés) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; ts corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
 \ton Lα
 \lc tsʰi˩˥
 \so <print="n"> F4
@@ -67443,7 +67750,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n"> (avant 09: noté /tsʰo˥pjɤ˥/; noté /pi˥/ en 2006)
+\nt <type="hist" print="n"> (avant 2009: noté /tsʰo˥pjɤ˥/; noté /pi˥/ en 2006)
 \nt <type="sem"> a été apporté à Yongning par les soldats, après la Libération; mais le mot existait auparavant, le produit était connu mais pas répandu. Auparavant: on utilisait deux sortes de plantes, lɑ˩pʰɑ˩-læ˥dzi˩ (il en reste un peu près de la maison); et ʁu˧pʰɤ˩-ʁu˩dv̩˩ɭɯ˩, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements. zzzz à voir lors du Nouvel An. lɑ˩pʰɑ˩-læ˥dzi˩: a ensuite été exploité intensivement et on n'en voit moins. ʁu˧pʰɤ˩-ʁu˩dv̩˩ɭɯ˩: a été tant exploité qu'on n'en trouve plus dans la plaine.
 \np variante: tsʰo˧pi˧
 \ton M
@@ -67568,7 +67875,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> (notation 09; homophonie de la 2e syll. avec celle de “tête" vérifiée) (auparavant: noté: tsʰo˥ kʰʶwɑ˩; corrigé en 2007; notation 2006: tsʰo˥ kʶwɑ˧) (confirmé: n'est pas tsʰɯ˥); tsʰo˧qʰwɤ˩ mv̩˩kʰv̩˩˧: n'accepte pas tsʰɯ˥…, version F5
-\nt <type="hist" print="n"> (notes avant 09: “sur ma suggestion, accepte: tsʰo˥ kʶwɑ˧, puis corrige en tsʰɯ˥ kʶwɑ˧, confirmant qu'elle ne dit pas tsʰo˥, et revient finalement à: (+mv̩˩kʰv̩˩˧ “à la nuit tombée")") (vérifié en 2009: formule différente de celle de F4 et autres locuteurs, n'accepte pas tsʰu˧qʰwɤ˩)
+\nt <type="hist" print="n"> (notes avant 2009: “sur ma suggestion, accepte: tsʰo˥ kʶwɑ˧, puis corrige en tsʰɯ˥ kʶwɑ˧, confirmant qu'elle ne dit pas tsʰo˥, et revient finalement à: (+mv̩˩kʰv̩˩˧ “à la nuit tombée")") (vérifié en 2009: formule différente de celle de F4 et autres locuteurs, n'accepte pas tsʰu˧qʰwɤ˩)
 \ton L#
 \lc tsʰo˧qʰwɤ˩
 \so <print="n"> F4
@@ -67615,7 +67922,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf tsʰo˧qʰwɤ˧zo#˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 09: noté: tsʰo˥kʰwɤ˥mi˥)
+\nt <type="hist" print="n"> type d2a (+ɲi˥) (avant 2009: noté: tsʰo˥kʰwɤ˥mi˥)
 \np F4 accepte une réalisation comme /tsʰɯ˧qʰwɤ˧mi˧/. La forme monosyllabique n'est pas correcte.
 \ton #H
 \lc tsʰo˧qʰwɤ˧mi˧
@@ -67937,7 +68244,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté: /ʁu˥ kʶwɑ˩ tsʰɤ˩/)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (avant 2009, noté: /ʁu˥ kʶwɑ˩ tsʰɤ˩/)(confirmé en 2012: est un ton L)
 \ton Lα
 \lc tsʰɤ˩˥
 \so <print="n"> F4
@@ -67996,7 +68303,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (d'abord noté ɖʐɤ˥ɖʐɤ˧, par erreur) (avant 09: noté: ɲi˧ ŋwɤ˧ hɑ̃˧ tʰɑ˥ ɖɯ˧ ʈʂɤ˩ bi˩)
+\nt <type="hist" print="n"> (d'abord noté ɖʐɤ˥ɖʐɤ˧, par erreur) (avant 2009: noté: ɲi˧ ŋwɤ˧ hɑ̃˧ tʰɑ˥ ɖɯ˧ ʈʂɤ˩ bi˩)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To count; to calculate.
@@ -68335,7 +68642,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (note d'avant 09, erronée: “n'est pas ʈʂʰɻ") (avant 09: noté sɯ˧tʰi˧˥ ɖɯ˧ nɑ˩… et autres erreurs tonales) lo˩ʈʂʰv̩˧ “main serrée", même verbe que dans “nouer des cheveux" etc.; cf notes ds article 2008 PCC. Historique: “ATTENTION, REECOUTE JANVIER 2008: n'est clairement pas aspiré; n'est pas le même mot que chez F5. lo˩ ʈʂʰɻ̍˥
+\nt <type="hist" print="n"> (note d'avant 2009, erronée: “n'est pas ʈʂʰɻ") (avant 2009: noté sɯ˧tʰi˧˥ ɖɯ˧ nɑ˩… et autres erreurs tonales) lo˩ʈʂʰv̩˧ “main serrée", même verbe que dans “nouer des cheveux" etc.; cf notes ds article 2008 PCC. Historique: “ATTENTION, REECOUTE JANVIER 2008: n'est clairement pas aspiré; n'est pas le même mot que chez F5. lo˩ ʈʂʰɻ̍˥
 \nt <type="hist" print="n"> (d'abord transcrit ʈʂʰv̩˧ ʈʂʰv̩˩, par erreur) (tons confirmés) (vient de: (b) ʈʂʰɻ̍˩ʈʂʰɻ̍˩˥) (en 2006, avais noté /lo kʰwɑ/)
 \np s'applique aussi à: agripper/saisir un vêtement: cf récit 1
 \ton MH
@@ -68610,7 +68917,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> tsʰɨ51
-\nt <type="hist" print="n"> (avant 09: noté par erreur: tsʰɯ˩˧, ton m1)
+\nt <type="hist" print="n"> (avant 2009: noté par erreur: tsʰɯ˩˧, ton m1)
 \ton MH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -68708,7 +69015,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʈʂʰɯ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (notes avant 09: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tons vérifiés en 2009); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
+\nt <type="hist" print="n"> (notes avant 2009: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tons vérifiés en 2009); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
 \nt <type="hist" print="n"> ʈʰɯ˥
 \nt <type="sem"> ceci, déictique proximal, démonstratif
 \ton #H
@@ -68753,7 +69060,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \cf ʈʂʰɯ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n"> (notes avant 09: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tons vérifiés en 2009); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
+\nt <type="hist" print="n"> (notes avant 2009: /ʈʂʰɯ˥/) (vérifié: n'est pas /ʈʰɯ˥/) (vérifié: même mot pour le déictique)(ʈʂʰɯ˧ ɲi˥!) (tons vérifiés en 2009); associé au cl /kʰɯ/: ʈʂʰɯ˧kʰɯ˥ (d’abord noté ʈʰɯ˧, par erreur, calquant le naxi occidental) (attention: comportement tonal irrégulier, pas tj comme les m4a: cf: ajout de la particule marquant l'origine: donne: hĩ˧ɳɯ˩, mais: ʈʂʰɯ˧ɳɯ˧ (avant mars 2013: noté: |fg{top})
 \nt <type="hist" print="n"> ʈʰɯ˥
 \ton #H
 \so <print="n"> F4
@@ -69101,43 +69408,25 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 女性名字
 \df Prénom féminin.
 \gf prénom_féminin
-\dt 27/Apr/2017
-
-\lx tsʰe˧li˧-ɬɑ˩mv̩˩
-\or Ceili Lhamu
-\et ɬɑ˧mv̩˥$
-\ps n
-\sd <langue="fra"> nom propre
-\sd <langue="eng"> given name
-\ton -L
-\lc tsʰe˧li˧ɬɑ˩mv̩˩
-\nt <langue="fra"> réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l]. xxxx ama : vérifier à nouveau.
-\so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字：慈琳拉姆
-\gn 女性名字：慈琳拉姆
-\df Prénom féminin.
-\gf prénom_féminin
 
 \lx tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n"> avant 2012: noté tsʰɤ˧ɻ̍˧-lɑ˩mv̩˩
-\nt <type="sem"> nom porté par une des femmes de la génération de la grand-mère de F4
+\nt <type="hist" print="n"> avant 2012: noté /tsʰɤ˧ɻ̍˧-lɑ˩mv̩˩/
+\nt <type="sem"> Nom porté par une des femmes de la génération de la grand-mère de F4, et par une de ses petites-filles.
 \ton -L
 \lc tsʰɯ˧ɻ̍˧ɬɑ˩mv̩˩
-\nt <langue="fra"> réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li].
 \so <print="n"> F4
-\de Feminine given name.
+\de Feminine given name: Ci'er Lhamu.
 \ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
+\dn 女性名字：慈琳拉姆
+\gn 女性名字：慈琳拉姆
+\df Prénom féminin: Ci'er Lhamu
 \gf prénom_féminin
-\dt 27/Apr/2017
 
 \lx tsʰɯ˧ɻ̍˧-pʰi˩tsʰo˩
 \or Ci'er Pico
@@ -69389,7 +69678,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tsʰɯ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: le˧ æ˧ tsʰɯ˩ ze˩); exemple: revenir de promenade: lə˧gwɤ˩gwɤ˩ lə˧tsʰɯ˩ze˩ (avant 09: noté: /li˥gwɤ˩gwɤ˩ li˧æ˧ tsʰɯ˩ ze˩/, “tons vérifiés le 17/5/08; n'est pas ˥ ˩ ˩ ˥ ˥ ˩ ˩; avais d'abord noté: le˧gwɤ˧gwɤ˩ le˧æ˧tsʰɯ˩ ze˩")
+\nt <type="hist" print="n"> (avant 2009: noté: le˧ æ˧ tsʰɯ˩ ze˩); exemple: revenir de promenade: lə˧gwɤ˩gwɤ˩ lə˧tsʰɯ˩ze˩ (avant 2009: noté: /li˥gwɤ˩gwɤ˩ li˧æ˧ tsʰɯ˩ ze˩/, “tons vérifiés le 17/5/08; n'est pas ˥ ˩ ˩ ˥ ˥ ˩ ˩; avais d'abord noté: le˧gwɤ˧gwɤ˩ le˧æ˧tsʰɯ˩ ze˩")
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -70828,7 +71117,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tʰv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> tʰv̩˩tʰv̩˧˥: schéma tonal régulier; ɖɯ˧tʰv̩˧tʰi˥tʰv̩˩: d'abord noté ˧ ˧ ˥ ˧, par erreur; transcription confirmée; avant 09: noté aussi une forme rédupliquée: kʰɯ˧tsʰɤ˧tʰv̩˥tʰv̩˩; refusée en 2009. (confirmé en 2009: n'est pas /tsʰi/)
+\nt <type="hist" print="n"> tʰv̩˩tʰv̩˧˥: schéma tonal régulier; ɖɯ˧tʰv̩˧tʰi˥tʰv̩˩: d'abord noté ˧ ˧ ˥ ˧, par erreur; transcription confirmée; avant 2009: noté aussi une forme rédupliquée: kʰɯ˧tsʰɤ˧tʰv̩˥tʰv̩˩; refusée en 2009. (confirmé en 2009: n'est pas /tsʰi/)
 \ton MH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -71776,7 +72065,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʈwæ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (dʑi˩pʰæ˩ʈwæ˧ ze˩: tons confirmés, d'abord noté ˩ ˩ ˧ ˩ puis corrigé en ˩ ˩ ˥ ˩ (notes d'avant 09: “dʑi˩ pʰæ˩ tʰi˩ ʈwæ˥ dʑo˩, d'abord noté ˩ ˩˥ ˥ ˧ ˧; en mai 2008, F4 confirme les données de M21: dʑi˩ ʈwæ˧˥, ton m8: dʑi˩ʈwæ˧˥ ɲi˩")(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n"> (dʑi˩pʰæ˩ʈwæ˧ ze˩: tons confirmés, d'abord noté ˩ ˩ ˧ ˩ puis corrigé en ˩ ˩ ˥ ˩ (notes d'avant 2009: “dʑi˩ pʰæ˩ tʰi˩ ʈwæ˥ dʑo˩, d'abord noté ˩ ˩˥ ˥ ˧ ˧; en mai 2008, F4 confirme les données de M21: dʑi˩ ʈwæ˧˥, ton m8: dʑi˩ʈwæ˧˥ ɲi˩")(confirmé en 2012: est un ton L)
 \np sens: se figer; peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
 \ton Lα
 \so <print="n"> F4
@@ -73059,7 +73348,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (notation avant 09: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd)
+\nt <type="hist" print="n"> (notation avant 2009: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd)
 \ton M
 \lc zɑ˧zɑ˧
 \so <print="n"> F4
@@ -73138,7 +73427,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (tons vérifiés en 2009: n'est pas: ʐæ˧ʐæ˩) (avant 09: noté: ʐæ˥ʐæ˩ (kʰɯ˩), læ˧ ʐæ˥ʐæ˩ ze˩; corrigé en 2007; en 2006, avais noté ˧˩) (tons corrigés en 2007, confirmés en 2009; en 2006, avais noté: zo˧hṽ̩˧ ʐæ˧ʐæ˥ kʰɯ˧) (sens vérifié en 2009) le˧-ʐæ˧-ze˧: phonétiquement: [læ˧ʐæ˧ze˧]
+\nt <type="hist" print="n"> (tons vérifiés en 2009: n'est pas: ʐæ˧ʐæ˩) (avant 2009: noté: ʐæ˥ʐæ˩ (kʰɯ˩), læ˧ ʐæ˥ʐæ˩ ze˩; corrigé en 2007; en 2006, avais noté ˧˩) (tons corrigés en 2007, confirmés en 2009; en 2006, avais noté: zo˧hṽ̩˧ ʐæ˧ʐæ˥ kʰɯ˧) (sens vérifié en 2009) le˧-ʐæ˧-ze˧: phonétiquement: [læ˧ʐæ˧ze˧]
 \ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -73256,6 +73545,27 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
+\pdv ɭɯ˧
+\de Arrow.
+\ge arrow
+\dn 箭
+\gn 箭
+\df Flèche.
+\gf flèche
+
+\lx ʐe˧ɻ̍̃#˥
+\sf <nb="B"> 622
+\sf <nb="2011"> 919
+\or reieun
+\ps n
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton #H
+\lc ʐe˧ɻ̍̃˧
+\sn 1
+\so <print="n"> F4
+\pdv kʰɯ˩
+\pdv ɭɯ˧
 \de Arrow.
 \ge arrow
 \dn 箭
@@ -73263,10 +73573,28 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Flèche.
 \gf flèche
 \xv ʐe˧ɻ̍̃˧ | ɖɯ˧-kʰɯ˩
-\xe an arrow; also, metaphorically: a family, a lineage
-\xn 一枝箭。也来指一个家庭
-\xf une flèche; désigne aussi, de façon métaphorique, une lignée/une famille
-\dt 07/Oct/2015
+\xe an arrow
+\xn 一枝箭
+\xf une flèche
+\xc PHONO
+\xv ʐe˧ɻ̍̃˧ | ɖɯ˧-ɭɯ˧
+\xe an arrow
+\xn 一枝箭
+\xf une flèche
+\xc PHONO
+\sn 2
+\so <print="n"> F4
+\pdv ɻ̍̃˧β
+\de A family, a lineage (metaphorical sense for ‘an arrow’).
+\ge lineage
+\dn 一个家族
+\gn 家族
+\df Un lignage, une famille (sens métaphorique de ‘une flèche’: la famille est unie et file d'un trait, comme une flèche).
+\gf lignage
+\xv ʐe˧ɻ̍̃˧ | ɖɯ˧-ɻ̍̃˧
+\xe a family, a lineage
+\xn 一个家族
+\xf une lignée, une famille
 
 \lx ʐe˥
 \sf <nb="B"> 804
@@ -73900,13 +74228,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʑi˧kv̩˧wo˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> +ɲi˩ (avant 09: noté ʑi˧ko˧u˧, par erreur)
+\nt <type="hist" print="n"> +ɲi˩ (avant 2009: noté ʑi˧ko˧u˧, par erreur)
 \ton M
 \so <print="n"> F4
 \va <speaker="M18"> ʑi˧ kʶwɑ˧ ʁu˧ to˩
 \va <speaker="M21"> ʑi˧qʰwɤ˧ʁu˧
 \vf type d2: +ɲi˥
-\vf avant 09: noté /ʑi˧ kʰwɑ˧ ʁu˧/); lui paraît mieux que l'expression fournie par F5, /ʑi˧qʰwɤ˧ʁu˧qʰwɤ˩/
+\vf avant 2009: noté /ʑi˧ kʰwɑ˧ ʁu˧/); lui paraît mieux que l'expression fournie par F5, /ʑi˧qʰwɤ˧ʁu˧qʰwɤ˩/
 \pdv tsʰi˩
 \de Roof.
 \ge roof
@@ -74079,7 +74407,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʑi˧qʰwɤ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n"> (avant 09: noté /ʑi˧qʰwɑ˧/; ancienne notation: ʑi˧ kʶwɑ˧; vérifié: est la même syllabe que dans “main", càd /qʰwɤ/, non /qʰwɑ/);
+\nt <type="hist" print="n"> (avant 2009: noté /ʑi˧qʰwɑ˧/; ancienne notation: ʑi˧ kʶwɑ˧; vérifié: est la même syllabe que dans “main", càd /qʰwɤ/, non /qʰwɑ/);
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -74306,7 +74634,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n"> (avant 09: noté: /ʐe˩mi˩˥/, ton d3; avant 2011: noté -ku, par erreur)
+\nt <type="hist" print="n"> (avant 2009: noté: /ʐe˩mi˩˥/, ton d3; avant 2011: noté -ku, par erreur)
 \np LM confirmé type “porc"
 \ton LM
 \lc ʐɤ˩˥
@@ -74589,7 +74917,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n"> (avant 09: noté ˩ ˧) (non palatalisé) (avant 2011: noté ʐe˩ni˩˧)
+\nt <type="hist" print="n"> (avant 2009: noté ˩ ˧) (non palatalisé) (avant 2011: noté ʐe˩ni˩˧)
 \nt <type="hist" print="n"> (ou ʐe˩ni˧? hésitation)
 \ton L+MH#
 \lc ʐɤ˩ni˧˥
@@ -74619,7 +74947,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n"> (cf récit “travaux", qui établit que c'est bien ˩ ˧ et non ˧ ˥: zo˩no˧ se˥, …) (avant 09: noté: /zo˧no˥/; d'abord noté zo˧nũ˥; nasalité simplement contextuelle; vérifié plusieurs fois)
+\nt <type="hist" print="n"> (cf récit “travaux", qui établit que c'est bien ˩ ˧ et non ˧ ˥: zo˩no˧ se˥, …) (avant 2009: noté: /zo˧no˥/; d'abord noté zo˧nũ˥; nasalité simplement contextuelle; vérifié plusieurs fois)
 \nt <type="hist" print="n"> zo˧no˥ (confirmé: n'est pas nu˥) (tons confirmés)
 \ton LM
 \lc zo˩no˥
@@ -74890,13 +75218,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09, noté: i˩ zo˩ hu˥ ɲi˩) (vérifié en mai 2008; notation ancienne: ʈʂʰɯ˥ ʈʰæ˧ i˧ zo˧ hu˥ ɲi˩! il doit faire ça!)
+\nt <type="hist" print="n"> (avant 2009, noté: i˩ zo˩ hu˥ ɲi˩) (vérifié en mai 2008; notation ancienne: ʈʂʰɯ˥ ʈʰæ˧ i˧ zo˧ hu˥ ɲi˩! il doit faire ça!)
 \np il faut
 \ton Mα
 \lc zo˧
 \so <print="n"> F4
 \va <speaker="M21"> /zu/ “il faut", exemple: mɤ˧zu˧ze˧! “ce n'est pas la peine!"; ex.: ʈʰæ˧ i˧zu˧hu˥ɲi˩!
-\vf avant 09, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
+\vf avant 2009, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
 \de To have to, to be necessary.
 \ge have_to
 \dn 要，应该
@@ -74946,7 +75274,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn |fg{accomp} |fg{red}
 \xf |fg{accomp} |fg{red}
 \xc PHONO
-\rf PHONO
 \dt 07/Oct/2015
 
 \lx ʐo˩α
@@ -75026,7 +75353,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: noté: le˧ ʐu˧ʐu˩)
+\nt <type="hist" print="n"> (avant 2009: noté: le˧ ʐu˧ʐu˩)
 \np souvent répété: lə˧ʐu˩ʐu˩ lə˧ʐu˩ʐu˩
 \ton MH
 \lc ʐo˩ʐo˧˥
@@ -75578,7 +75905,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: ʐv̩˥)
+\nt <type="hist" print="n"> (avant 2009: ʐv̩˥)
 \ton M? H#?
 \lc ʐv̩˧
 \so <print="n"> F4
@@ -75773,7 +76100,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n"> (avant 09: ʐv̩˥dzɯ˩; notation 2006: ʐv̩˧dzɯ˩) (d'abord noté ʐu; confirmé, n'est pas ʐu mais ʐv)
+\nt <type="hist" print="n"> (avant 2009: ʐv̩˥dzɯ˩; notation 2006: ʐv̩˧dzɯ˩) (d'abord noté ʐu; confirmé, n'est pas ʐu mais ʐv)
 \ton L#
 \lc ʐv̩˧dzi˩
 \so <print="n"> F4
@@ -75879,7 +76206,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (d'abord noté ʐv̩˥mi˥) (avant 09: noté: njɤ˥ ʐv̩˧mi˧ ɖɯ˧ ɭɯ˧ dʑju˧)
+\nt <type="hist" print="n"> (d'abord noté ʐv̩˥mi˥) (avant 2009: noté: njɤ˥ ʐv̩˧mi˧ ɖɯ˧ ɭɯ˧ dʑju˧)
 \ton #H
 \lc ʐv̩˧mi˧
 \so <print="n"> F4
@@ -75904,7 +76231,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\nt <type="hist" print="n"> (avant 09: noté: /…mɤ˧…/)
+\nt <type="hist" print="n"> (avant 2009: noté: /…mɤ˧…/)
 \nt <type="sem"> sens: serait: “les gens du coin chaud"
 \ton MH#
 \lc ʐv̩˧mv̩˧lɑ˧di˧˥
@@ -75983,7 +76310,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" print="n"> (avant 09: noté: /ʐv̩˥ tsʰɯ˧/; 2006: noté ˧˩)
+\nt <type="hist" print="n"> (avant 2009: noté: /ʐv̩˥ tsʰɯ˧/; 2006: noté ˧˩)
 \ton L#
 \lc ʐv̩˧tsʰi˩
 \so <print="n"> F4
@@ -76030,7 +76357,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n"> (avant 09: noté ʐv̩˥u˥; premières notes: ʐu˥ v̩˥; avant 2012: noté à tort wu; rétabli /v/ en 2012)
+\nt <type="hist" print="n"> (avant 2009: noté ʐv̩˥u˥; premières notes: ʐu˥ v̩˥; avant 2012: noté à tort wu; rétabli /v/ en 2012)
 \ton #H
 \lc ʐv̩˧v̩˧
 \so <print="n"> F4
@@ -76564,7 +76891,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (avant 09: indiqué comme ton 4, par erreur) (tso˧~tso˧ʐwæ˩: 2006: noté ˧˧˧, par erreur) (ʁu˧do˧ʐwæ˧ “peser des noix": vérifié en 2009: est bien ˧ ˧ ˧)
+\nt <type="hist" print="n"> (avant 2009: indiqué comme ton 4, par erreur) (tso˧~tso˧ʐwæ˩: 2006: noté ˧˧˧, par erreur) (ʁu˧do˧ʐwæ˧ “peser des noix": vérifié en 2009: est bien ˧ ˧ ˧)
 \nt <type="hist" print="n"> (corrigé en 2007; en 2006, avais noté ˧ ˧ ˧ ˩) (en 2006, avais noté ʐwæ˩˥ comme forme de citation)
 \ton Mα
 \lc ʐwæ˧
@@ -76680,7 +77007,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʐwɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (en 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés") (vérifié; avant 09: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
+\nt <type="hist" print="n"> (en 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés") (vérifié; avant 2009: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
 \nt <type="sem"> pour désigner une personne muette, on utilisait traditionnellement le terme pour “idiot"
 \ton Lβ
 \so <print="n"> F4
@@ -76838,7 +77165,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{poss}
 \dt 27/Apr/2017
 
-\lx ‑di˩
+\lx -di˩
 \sf <nb="2011"> 3351
 \or -ddi
 \ps suff
@@ -77512,7 +77839,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf élicitation lors de la transcription de Agriculture.70
 \dt 06/Oct/2015
 
-\lx ‑no˧˥
+\lx -no˧˥
 \or noq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
@@ -77960,27 +78287,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xc <langue="fra"> chez « les jeunes » (dont M18), tend à se simplifier en: |fv{/ʈʂʰɯ˧-ʑi˥/}
 \dt 06/Oct/2015
 
-\lx ‑se
-\or sei
-\ps disc.PTCL
-\ton 0?
-\lc --
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\np ex.: récit ‘construction d'une maison'
-\so <print="n"> F4
-\de Topic marker, which singles out a precise element or set of elements and delineates it as a unit, against the background of elements that neighbour on it in the conceptual space.
-\ge |fg{top.delineating}
-\dn 主题
-\gn 主题
-\df Marqueur de topique qui délimite l'objet ou l'ensemble concerné, le faisant ressortir contre l'arrière-plan formé par les éléments proches de lui dans l'espace conceptuel. Plutôt que d'un contraste, il s'agit d'une appréhension de l'objet concerné dans son unité.
-\gf |fg{top.délimitant}
-\xv no˩-se˥, | ɖwæ˧˥ | le˧-gɤ˩-ze˩: | zo˧mv̩˥ hɤ˩-zo˩!
-\xe You have grounds for satisfaction: your children are really bright!
-\xn 你呢，（应该）很满意：（你的）孩子很成功！
-\xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants/habiles!
-\dt 27/Apr/2017
-
 \lx ‑se˩
 \sf <nb="2011"> 3366
 \or seiq
@@ -78052,10 +78358,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 人多多，人很多（如：2020年代的丽江市中心，人很多，与上世纪的永宁坝大不同）
 \xf plein de gens, densément peuplé (exemple: la ville de Lijiang dans les années 2020, aux antipodes de la plaine de Yongning au siècle dernier, dont les hameaux étaient très éloignés)
 \xc <langue="fra"> ton du nom: H
-\xv ʈʂʰɤ˧dzɯ˧-ʂo˧~ʂo˩
+\xv ʈʂʰɤ˧tsɯ˧-ʂo˧~ʂo˩
 \xe full of cars
 \xn “车子乎乎”：车子很多，车水马龙（2020年代的丽江，小区里面到处有停车）
-\xf il y a plein de voitures (dans le centre ville de Lijiang, les lotissements sont pleins de voitures garées le long des voies)
+\xf plein de véhicules, encombré de véhicules (dans le centre ville de Lijiang, les lotissements sont pleins de voitures garées le long des voies)
 \xv (mv̩˧ʁo˥, | ) tɕɯ˧-ʂo˧~ʂo˩
 \xe (The sky is) full of clouds
 \xn （天上）云乎乎、多云
