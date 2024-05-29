@@ -3003,10 +3003,12 @@
 \or bbi
 \ps v
 \lc bi˧
+\cf hɯ˧γ
+\cf kʰi˧˥
+\cf hõ˧α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> (noté le˥bi˩ze˩ avant 2009; confirmé à nouveau en mai 2008 et en 2009)
-\np irrégulier: comme un ton 3 dans le cadre “accompli" (premier cadre): le˧-bi˩-ze˩, comme un ton 1 dans tous les autres cadres
+\nt <type="tone" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-bi˩-ze˩}, a été relevée dès les premiers terrains (2007, 2008, 2009). Elle constituait un casse-tête, du fait que ce verbe se comporte dans ce cadre comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans tous les autres cadres utilisés (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). Cette propriété, qui distingue ce verbe (aux côtés de “se passer", |fv{gv̩˧}, et de la forme passée de 3e personne du verbe “aller", |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique au sein des verbes au ton M: la classe Mγ.
 \ton Mγ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -3029,7 +3031,9 @@
 \xe to go back
 \xn 回去，返回
 \xf retourner; s'en retourner
-\dt 24/Apr/2017
+njɤ˧ | ɑ˩pʰo˩ bi˩˥. / njɤ˧ | ɑ˩pʰo˩ bi˩-zo˩-ho˥ ɲi˩.
+ʈʂʰɯ˧ | ɑ˩pʰo˩ bi˩-zo˩-ho˥ ɲi˩. ʈʂʰɯ˧ | ə˧tse˧ʲi˥ | ɑ˩pʰo˩ bi˩-ho˥ ɲi˩? Qu'est-ce donc qu'il va faire dehors? 她出去干什么？
+
 
 \lx po˩ʂɯ˩
 \or boshi
@@ -17071,7 +17075,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np irrégulier, comme “aller": le˧-gv̩˩-ze˩, le˧-gv̩˩-dʑɯ˩, et non †le˧-gv̩˧-ze˧
+\nt <type="tone" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-gv̩˩-ze˩}, ainsi que dans |fv{le˧-gv̩˩-dʑɯ˩} (|fg{accomp} 〜 |fg{expérientiel}), constituait un casse-tête, du fait que ce verbe se comporte dans ces cadres comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans d'autres cadres (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). On ne peut dire |fv{‡le˧-gv̩˧-ze˧}. Cette propriété, qui distingue ce verbe (aux côtés de formes du verbe “aller": non passé |fv{bi˧}, et passé de 3e personne |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique: la classe Mγ.
 \ton Mγ
 \lc gv̩˧
 \so <print="n"> F4
@@ -17093,17 +17097,16 @@
 \xf une heure se passe
 \xv tsʰe˩-ɲi˩ gv̩˩-ze˥!
 \xe Ten days have gone by/ten days have elapsed
-\xn 十天过去了
+\xn 十天过去了！
 \xf Dix jours ont passé!
 \xv mɤ˧-gv̩˧-ze˧!
 \xe It won't do! / It won't work! / It's no good!
 \xn 不好了！ / 不行了！
-\xf (ah là là,) ça ne va plus!
-\xv ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧, -tsɯ˩-mv̩˩!
+\xf (Ah là là,) ça ne va plus!
+\xv ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧, tsɯ˩ mv̩˩!
 \xe They say that's how it happened!
 \xn 据说是这样发生的！
 \xf Ça c'est passé comme ça, à ce qu'on raconte!
-\dt 02/Sep/2015
 
 \lx gv̩˧
 \sf <nb="B"> 1010c
@@ -19702,7 +19705,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \hm 1
 \or ho
 \ps n
-\sy ʝi˧tɕi˧
+\sy ʝi˧tɕi˧2
 \lc ho˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -20288,6 +20291,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps v
 \ton M intrans
 \lc hõ˧
+\cf bi˧γ
+\cf hɯ˧γ
+\cf kʰi˧˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -20564,18 +20570,25 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \or hee
 \ps v
 \lc hɯ˧
+\cf bi˧γ
+\cf kʰi˧˥
+\cf hõ˧α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> le˧-hɯ˩-ze˩
-\nt <type="sem"> irrégulier au plan tonal, comme “aller" bi˧ et “se passer" gv̩˧: mɤ˧-+verbe au ton moyen; lə˧+verbe au ton bas+ze˩
+\nt <type="tone" langue="fra"> Parmi les verbes au ton M (qui portent un ton M lorsqu'ils sont précédés de la négation, |fv{mɤ˧-}, celui-ci se singularise, aux côtés de “aller", |fv{bi˧}, et “se passer", |fv{gv̩˧}, par son comportement dans le cadre |fg{accomp} 〜 |fg{pfv}: le verbe porte alors un ton bas (schéma: M.L.L). Ces verbes sont classés dans la catégorie Mγ.
 \ton Mγ
 \so <print="n"> F4
-\de To go, past form.
-\ge to_go.|fg{pst}
-\dn 走（过去式）
-\gn 走.过去式
-\df Aller, forme passée.
-\gf aller.|fg{pst}
+\de To go, past form for the third person.
+\ge to_go.|fg{pst.3}
+\dn 去、走（过去式）
+\gn 去.过去式
+\df Aller, forme passée de troisième personne.
+\gf aller.|fg{pst.3}
+\xv le˧-hɯ˩-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 去了
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
 \xv (ki˧zo˧) | lo˧ ʝi˧ hɯ˧(-ze˩)!
 \xe Gisso has gone to work!
 \xn 给若（人名）干活去了！
@@ -20584,7 +20597,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe euphemism for ‘deceased person': literally ‘person who has gone'
 \xn 委婉语：‘走了的人’=去世了的人
 \xf personne décédée; littéralement «personne qui est partie»
-\dt 02/Sep/2015
+\xv ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-hɯ˥?
+\xe Did he go outside today? / Did he take a stroll today?
+\xn 他今天出去了吗？
+\xf Il est allé faire un tour dehors, aujourd'hui? / Il est sorti, aujourd'hui?
 
 \lx hɯ˧β
 \or hee
@@ -23094,13 +23110,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf |fg{accomp} 〜 |fg{pfv}: (il/est) est arrivé(e) / est entré(e)!
 \xv hĩ˧ le˧-jo˥-kv̩˩-ze˩
 \xe Someone may come at any time! (Context: explaining why, at the time when there was no market, one had to have good food in store at home in case a visitor came round.)
-\xn （随时）会有人来的！
+\xn （随时）会有人来的！（情景：合作人解释说，在没有市场的年代，家里必须随时准备好足够的精致食物，为来访的客人准备一顿丰盛的饭菜。）
 \xf Il peut venir quelqu'un / il se peut que quelqu'un vienne nous rendre visite! (Contexte: la locutrice explique qu'à l'époque où il n'y avait pas de marché, il fallait avoir à tout moment à la maison de quoi préparer un bon repas à un hôte qui se présenterait.)
 \xv hĩ˧bæ˧ le˧-jo˥-kv̩˩-ze˩
-\xe A guest may come at any time! (Context: explaining why, at the time when there was no market, one had to have good food in store at home in case a visitor came round.)
-\xn （随时）会有客人来的！
-\xf Il peut venir un visiteur / il se peut qu'un visiteur se présente! (Contexte: la locutrice explique qu'à l'époque où il n'y avait pas de marché, il fallait avoir à tout moment à la maison de quoi préparer un bon repas à un hôte qui se présenterait.)
-\dt 02/Sep/2015
+\xe A guest may come at any time! (Context: as above.)
+\xn （随时）会有客人来的！（情景：同上。）
+\xf Il se peut qu'un hôte se présente / il se peut que quelqu'un vienne nous rendre visite! (Contexte: idem ci-dessus.)
+\xv jo˧-mɤ˧-bi˧-ze˧!
+\xe (Tomorrow, I) will not come! (Context: someone who pays daily visits to someone else explains that (s)he will not come on the next day.)
+\xn （明天，我）不来了！（情景：一个人平时每天来访，那天他说：第二天不来了，第三天才来。）
+\xf (Demain, je) ne viendrai pas! (Contexte: quelqu'un qui rend visite presque chaque jour explique qu'il ne viendra pas le lendemain.)
 
 \lx jo˧˥
 \or yoq
@@ -24105,21 +24124,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \np ton déduit de la forme interrogative
 \ton MH
 \lc kʰi˧˥
+\cf bi˧γ
+\cf hɯ˧γ
+\cf hõ˧α
 \so <print="n"> F4
-\de Past form of verb ‘to leave'.
+\de Past form of verb ‘to leave', used in the first and second persons.
 \ge to_leave.|fg{pst}
-\dn 走（过去式）
+\dn 走（过去式），用于第一和第二人称。
 \gn 走.过去式
-\df Forme passée du verbe ‘partir'.
+\df Forme passée du verbe ‘partir', utilisée à la première et la deuxième personne.
 \gf partir.|fg{pst}
-\xv ʈʂʰɯ˧ | zo˩qo˧ kʰi˧?
-\xe Where has (s)he gone to? / Where has (s)he left for?
-\xn 他到哪里去了？
-\xf Elle/il est parti où?
-\xv ɑ˩pʰo˩ kʰi˧!
-\xe (S)he has gone out!
-\xn 他去外边了！／他出去了！
-\xf Elle est sortie!
 \xv no˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˥?
 \xe Did you go outside today? / Did you take a stroll today?
 \xn 你今天出去了吗？
@@ -24130,7 +24144,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf tu es allé faire un tour dehors, aujourd'hui?/tu es sorti, aujourd'hui? (Contexte: question posée par un consultant alors que je le raccompagne après une séance de travail vespérale)
 \rf M23
 \nt <type="phono" langue="fra"> Ton différent de celui utilisé par F4.
-\xv ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-hɯ˥?
 \xv ‡ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˥?
 \xe ‡Did he go outside today? / Did he take a stroll today? (Ungrammatical sentence: this verb cannot be used in the third person.)
 \xn ‡他今天出去了吗？（这是病句：这个动词不能用于第三人称。）
@@ -33029,7 +33042,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe I won't have the time.
 \xn 我不会有时间。
 \xf Je ne vais pas avoir le temps.
-\dt 19/Jun/2017
+\xv bi˧ mɤ˧-mæ˧-ze˧!
+\xe I don't have the time. / I'm afraid I'm busy. (Answer to an invitation to go out for a walk.)
+\xn 我没有时间去。（情景：一个人建议出去散步，对方回答：没时间去。）
+\xf Je n'ai pas le temps d'y aller! (Réponse à une invitation à aller faire une promenade.)
 
 \lx mæ˧
 \hm 2
@@ -33047,12 +33063,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 能够
 \df Parvenir à.
 \gf parvenir_à
-\xv ɖɯ˩-hĩ˩ qʰɑ˥ mæ˩~mæ˩! | tɕi˩-hĩ˩ le˥-mɤ˩-mæ˩! / ɖɯ˩-hĩ˩˥, | qʰɑ˧ mæ˥~mæ˩! | tɕi˩-hĩ˩˥, | le˧-mɤ˧-mæ˧!
+\xv ɖɯ˩-hĩ˩ qʰɑ˥ mæ˩~mæ˩! | tɕi˩-hĩ˩ le˥-mɤ˩-mæ˩!
 \xe “Adults can manage all sorts of things, (whereas) children can't manage (that much) yet!" This saying is used when someone puts high demands on children or adolescents: Let the children play! To each age its occupations: children should play, not work. Adults' tasks are not their business!
 \xn “大人管干活，小孩管玩耍！”这个谚语的意思是：不要让孩子干活，每个年龄有自己的事，孩子的事就是玩。成年人的活儿，不是他们的事！
 \xf «Les adultes peuvent tout faire; les enfants, eux, n'y arrivent pas/n'en sont pas capables!» Sens: s'adresse à quelqu'un qui assigne des tâches aux enfants et adolescents: Laissez les enfants jouer! A chacun ses occupations: les adultes travaillent; les enfants, leur tâche, c'est de s'amuser entre eux, pas de travailler. Le travail des grands, c'est pas leur affaire!
 \xc PROVERBE
-\dt 04/Sep/2015
+\xv ɖɯ˩-hĩ˩˥, | qʰɑ˧ mæ˥~mæ˩! | tɕi˩-hĩ˩˥, | le˧-mɤ˧-mæ˧!
+\xe As above.
+\xn 同上。
+\xf Idem ci-dessus.
+\xc PROVERBE
 
 \lx mæ˧˥
 \sf <nb="B"> 1715
@@ -65106,8 +65126,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps adv
 \sd <langue="fra"> syntaxe
 \sd <langue="eng"> syntax
-\nt <type="ton" print="n"> S'il s'agit bien d'une forme rédupliquée, d'après les règles tonales dans la réduplication des verbes, il peut s'agir d'un ton de base Ma, Mc ou Lb.
-\nt <type="hist" print="n">
+\nt <type="tone" print="n"> S'il s'agit bien d'une forme rédupliquée, d'après les règles tonales dans la réduplication des verbes, il peut s'agir d'un ton de base Mα, Mγ ou Lβ.
 \ton L#
 \lc ʈʂʰe˧~ʈʂʰe˩
 \so <print="n"> F4
@@ -77106,7 +77125,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf C'est ce qu'on dit! / C'est ce que dit le proverbe!
 \dt 27/Apr/2017
 
-\lx ‑bi
+\lx -bi
 \or bbi
 \ps cnj
 \lc --
@@ -77130,7 +77149,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na…'
 \dt 27/Apr/2017
 
-\lx ‑bi˧α
+\lx -bi˧α
 \sf <nb="2011"> 3368
 \or bbi
 \ps suff
@@ -77209,7 +77228,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf abeille(monosyll.)
 \dt 27/Apr/2017
 
-\lx ‑dʑo˧
+\lx -dʑo˧
 \sf <nb="2011"> 3376
 \or jjo
 \ps suff
@@ -77227,7 +77246,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{prog}
 \dt 05/Jul/2017
 
-\lx ‑dʑo˥
+\lx -dʑo˥
 \sf <nb="2011"> 3363
 \or jjo
 \ps suff
@@ -77245,7 +77264,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{top}
 \dt 05/Jul/2017
 
-\lx ‑dʑɯ˧α
+\lx -dʑɯ˧α
 \or jji
 \ps suff
 \lc dʑɯ˧
@@ -77254,15 +77273,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" print="n"> (vérifié: n'est pas dʑɯ)
 \ton M
 \so <print="n"> F4
-\de |fg{experiential.}
+\de |fg{experiential}.
 \ge |fg{experiential}
 \dn ……过
 \gn 过
-\df |fg{expérientiel.}
+\df |fg{expérientiel}.
 \gf |fg{expérientiel}
-\dt 05/Jul/2017
 
-\lx ‑gi˧˥
+\lx -gi˧˥
 \or ggi
 \ps postp
 \sd <langue="fra"> morphosyntaxe
@@ -77330,7 +77348,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf F5
 \dt 05/Jul/2017
 
-\lx ‑gɤ˧bi#˥
+\lx -gɤ˧bi#˥
 \sf <nb="B"> 710
 \sf <nb="2011"> 1059
 \or ggebbi
@@ -77356,7 +77374,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf sur la maison, sur le toit
 \dt 27/Apr/2017
 
-\lx ‑hĩ˥
+\lx -hĩ˥
 \sf <nb="2011"> 3352
 \or -hin
 \ps suff
@@ -77393,7 +77411,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ue archaic
 \dt 01/Jul/2018
 
-\lx ‑ho˩
+\lx -ho˩
 \sf <nb="2011"> 3356
 \or hoq
 \ps suff
@@ -77433,7 +77451,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf va(-t-il) acheter?
 \dt 05/Jul/2017
 
-\lx ‑ki˩
+\lx -ki˩
 \or gi
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -77454,7 +77472,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf combinaisons avec les diverses catégories tonales de noms
 \xc PHONO
 
-\lx ‑ki˧
+\lx -ki˧
 \sf <nb="2011"> 3361
 \or gi
 \ps suff
@@ -77485,7 +77503,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Ama m'enseigne la langue na!
 \dt 05/Jul/2017
 
-\lx ‑kʰi˧~kʰi˧
+\lx -kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
 \or kiki
 \ps postp
@@ -77520,7 +77538,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf M21
 \dt 03/Sep/2015
 
-\lx ‑kv̩˧˥
+\lx -kv̩˧˥
 \or guq
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -77537,7 +77555,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{abilitive}
 \dt 05/Jul/2017
 
-\lx ‑kwɤ
+\lx -kwɤ
 \or gua
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
@@ -77554,7 +77572,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf lorsque
 \dt 27/Apr/2017
 
-\lx ‑kwɤ˧tɕɯ˥
+\lx -kwɤ˧tɕɯ˥
 \sf <nb="2011"> 3384
 \or gua ji
 \ps cnj
@@ -77591,7 +77609,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf M18
 \dt 05/Aug/2017
 
-\lx ‑læ˧
+\lx -læ˧
 \or lae
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -77620,7 +77638,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf pour ce qui est de |fv{ti˧ɖo˥} [nom propre], …
 \dt 06/Oct/2015
 
-\lx ‑lɑ˩tɑ˩
+\lx -lɑ˩tɑ˩
 \sf <nb="2011"> 1057
 \or lada
 \ps postp
@@ -77639,7 +77657,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf le périmètre de la maison, là où s'étend le domaine de la maison
 \dt 04/Sep/2015
 
-\lx ‑mæ˧mæ˥
+\lx -mæ˧mæ˥
 \or maemae
 \ps postp
 \ton H#
@@ -77663,7 +77681,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf vers la fin du neuvième mois
 \dt 27/Apr/2017
 
-\lx ‑mæ˧qo˩
+\lx -mæ˧qo˩
 \or maegho
 \ps postp
 \lc mæ˧qo˩
@@ -77680,7 +77698,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf derrière/sous
 \dt 24/Jul/2017
 
-\lx ‑mi˩˧
+\lx -mi˩˧
 \or -mi
 \ps suff
 \ton LM
@@ -77709,7 +77727,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf augmentatif
 \dt 04/Sep/2015
 
-\lx ‑ne
+\lx -ne
 \or niq
 \ps suff
 \ton 0?
@@ -77767,7 +77785,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf M18
 \dt 05/Jul/2017
 
-\lx ‑ɲi˩
+\lx -ɲi˩
 \or niq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
@@ -77784,7 +77802,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{certitude}(|fg{cop})
 \dt 06/Oct/2015
 
-\lx ‑ni˧gv̩˧˥
+\lx -ni˧gv̩˧˥
 \sf <nb="B"> 1073
 \sf <nb="2011"> 3378
 \or niggu
@@ -77865,7 +77883,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf en ce qui concerne la pièce principale, …
 \dt 06/Oct/2015
 
-\lx ‑ɳɯ
+\lx -ɳɯ
 \hm 2
 \or nee
 \ps cnj
@@ -77882,7 +77900,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf ou
 \dt 27/Apr/2017
 
-\lx ‑ɳɯ˧
+\lx -ɳɯ˧
 \sf <nb="2011"> 3360
 \hm 1
 \or nee
@@ -77901,7 +77919,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{abl}/a/top
 \dt 06/Oct/2015
 
-\lx ‑pʰæ˥di˩
+\lx -pʰæ˥di˩
 \or paeddi
 \ps adv
 \ton H.L
@@ -77931,7 +77949,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Quelle impression ça produit, tout ça? (Façon calme et posée de signifier à quelqu'un que son comportement manque à la dignité: par exemple si quelqu'un se laisse aller à boire des quantités déraisonnables d'alcool.)
 \dt 27/Apr/2017
 
-\lx ‑pɤ˧to˩
+\lx -pɤ˧to˩
 \or bedo
 \ps adv
 \sd <langue="fra"> morphosyntaxe
@@ -77968,7 +77986,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xc PHONO
 \dt 05/Jul/2017
 
-\lx ‑qɑ˧˥
+\lx -qɑ˧˥
 \hm 1
 \or gha
 \ps postp
@@ -78001,7 +78019,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xc PHONO
 \dt 09/May/2017
 
-\lx ‑qɑ˧˥
+\lx -qɑ˧˥
 \hm 2
 \or gha
 \ps postp
@@ -78039,7 +78057,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf BuriedAlive2.39
 \dt 05/Jul/2017
 
-\lx ‑qo˧
+\lx -qo˧
 \sf <nb="B"> 706
 \sf <nb="2011"> 1054
 \or gho
@@ -78066,7 +78084,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf F5
 \dt 13/May/2018
 
-\lx ‑qo˧lo˩
+\lx -qo˧lo˩
 \sf <nb="B"> 706
 \sf <nb="2011"> 1054
 \or gholo
@@ -78115,7 +78133,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf ces choses-ci, cette sorte de choses
 \dt 16/Jun/2017
 
-\lx ‑ʁo
+\lx -ʁo
 \or wo
 \ps postp
 \ton 0?
@@ -78131,7 +78149,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf sur
 \dt 27/Apr/2017
 
-\lx ‑ʁo˧to˩
+\lx -ʁo˧to˩
 \sf <nb="2011"> 1070
 \or wodo
 \ps postp
@@ -78196,7 +78214,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf en_comparaison_de
 \dt 01/Oct/2015
 
-\lx ‑ʁo˧tʰo˩
+\lx -ʁo˧tʰo˩
 \sf <nb="B"> 704
 \sf <nb="2011"> 1048
 \or woto
@@ -78247,7 +78265,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf discuter(monosyll.)
 \dt 27/Apr/2017
 
-\lx ‑ɻ̍˩
+\lx -ɻ̍˩
 \or -er
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -78287,7 +78305,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xc <langue="fra"> chez « les jeunes » (dont M18), tend à se simplifier en: |fv{/ʈʂʰɯ˧-ʑi˥/}
 \dt 06/Oct/2015
 
-\lx ‑se˩
+\lx -se˩
 \sf <nb="2011"> 3366
 \or seiq
 \ps suff
@@ -78315,7 +78333,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Après que tu te sois assis, je te verse un verre d’eau chaude.
 \dt 05/Jul/2017
 
-\lx ‑ʂo˧~ʂo˩
+\lx -ʂo˧~ʂo˩
 \or shosho
 \ps suff
 \ton L#
@@ -78388,7 +78406,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf C'est plein de légumes! (Commentaire au sujet de la pâtée des cochons: elle contient des légumes en abondance.)
 \rf F5
 
-\lx ‑sɯ˧
+\lx -sɯ˧
 \or see
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -78481,7 +78499,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf rituel de passage à l'âge adulte, pour les jeunes femmes: «enfiler la jupe»
 \dt 27/Apr/2017
 
-\lx ‑ʈʰæ˧qo˩
+\lx -ʈʰæ˧qo˩
 \or taegheu
 \ps postp
 \sd <langue="fra"> espace
@@ -78497,7 +78515,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf sous
 \dt 24/Jul/2017
 
-\lx ‑tɑ.kɤ
+\lx -tɑ.kɤ
 \or dage
 \ps suff
 \ton ?
@@ -78537,7 +78555,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Il n'y a qu'une seule personne à la maison!
 \dt 05/Jul/2017
 
-\lx ‑tɕɯ
+\lx -tɕɯ
 \or ji
 \ps suff
 \ton ?
@@ -78567,7 +78585,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \rf Dog
 \dt 27/Apr/2017
 
-\lx ‑tsæ˧α
+\lx -tsæ˧α
 \or zae
 \ps suff
 \lc tsæ˧
@@ -78593,7 +78611,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf il faut le faire parler/il faut l'obliger à parler! (Variante créée par analogie avec l'exemple précédent)
 \dt 06/Oct/2015
 
-\lx ‑tso
+\lx -tso
 \or zo
 \ps suff
 \ton ?
@@ -78635,7 +78653,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xc <type="tone"> #H
 \dt 27/Apr/2017
 
-\lx ‑tso˧α
+\lx -tso˧α
 \or zo
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -78664,7 +78682,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Qu'est-ce que vous comptez faire maintenant?
 \dt 06/Oct/2015
 
-\lx ‑tʰv̩˧
+\lx -tʰv̩˧
 \hm 1
 \or tu
 \ps postp
@@ -78681,7 +78699,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf jusqu'à|fg{postposition.temporelle}
 \dt 27/Apr/2017
 
-\lx ‑tʰv̩˧
+\lx -tʰv̩˧
 \sf <nb="B"> 1706b
 \hm 2
 \or tu
@@ -78703,7 +78721,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf ne pas parvenir à venir à bien d'une tâche; ex.: une personne est constamment dérangée et ne parvient pas à travailler de façon concentrée
 \dt 06/Oct/2015
 
-\lx ‑ze˧β
+\lx -ze˧β
 \sf <nb="2011"> 3354
 \or ssei
 \ps suff
@@ -78721,7 +78739,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf |fg{pfv}
 \dt 27/Apr/2017
 
-\lx ‑zo
+\lx -zo
 \sf <nb="2011"> 3370
 \or sso
 \ps suff
@@ -78762,7 +78780,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf C'est joli! C'est mignon tout plein! (Commentaire adressé à une fillette qui montre à la ronde des souliers tout neufs.)
 \dt 02/Jun/2017
 
-\lx ‑zo˧α
+\lx -zo˧α
 \sf <nb="2011"> 3369
 \or sso
 \ps suff
