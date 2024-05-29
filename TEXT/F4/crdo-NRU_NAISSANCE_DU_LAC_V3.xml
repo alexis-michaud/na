@@ -9,7 +9,7 @@
 <NOTE xml:lang="zh" message="录音：立体声、用AKG C-900话筒与戴在头上的Sennheiser HSP 2 head-worn microphone (omnidirectional)."/>
 <NOTE xml:lang="fr" message="Transcrit en 2009, en partie avec F4, en partie avec M23. Entièrement repris avec F4 à partir du 25 août 2011. Relu en juin 2015. Orthographe et traductions anglaise au niveau de la phrase et du texte ajoutés en 2018 par Roselle Dobbs."/>
 <S id="Lake3_S001"><AUDIO start="0.0000" end="4.6948"/>
-	<FORM kindOf="phono">hi˩nɑ˧mi˧, -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | mæ˩!</FORM>
+	<FORM kindOf="phono">hi˩nɑ˧mi˧, -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ mæ˩!</FORM>
 	<FORM kindOf="ortho">Xienami jjo, tiq, eyishei, tee niq yi ruaq guq mae!</FORM>
 	<TRANSL xml:lang="fr">Le Lac, eh bien, autrefois, voilà ce qu'on en disait!</TRANSL>
 	<TRANSL xml:lang="en">(Lugu) Lake, well, long ago, this is what is said. </TRANSL>
@@ -81,7 +81,7 @@
 		</W>
 </S>
 <S id="Lake3_S003"><AUDIO start="6.9041" end="11.7451"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ʑi˩-ɻ̍˩ dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, -tsɯ˩ ◊ -mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ʑi˩-ɻ̍˩ dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, tsɯ˩ ◊ -mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, ddeexxi'er jjo ssobbae ddeevu jjo zimu.</FORM>
 	<TRANSL xml:lang="fr">eh bien, il y avait une famille [dans laquelle] il y avait un homme muet! (=Il était une fois une famille dans laquelle il y avait un homme sourd et muet.)</TRANSL>
 	<TRANSL xml:lang="en">Well, there was a family with a mute person (in it).</TRANSL>
@@ -122,12 +122,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S004"><AUDIO start="11.7451" end="17.1546"/>
-	<FORM kindOf="phono">zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, | tʰi˩˥, | tɕʰɤ˧ɲi˧-ne˧-ʝi˥ | go˩bo˥ lv̩˩-hɯ˩-ɲi˩, -tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM kindOf="phono">zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, | tʰi˩˥, | tɕʰɤ˧ɲi˧-ne˧-ʝi˥ | go˩bo˥ lv̩˩-hɯ˩-ɲi˩, tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<FORM kindOf="ortho">Ssobbae ddeevu jjo, tiq, qenini ggubbo luq hee niq zimu.</FORM>
 	<TRANSL xml:lang="fr">Il y avait un homme muet; et alors, [il] menait chaque jour paître le bétail. (=Cet homme muet, il allait tous les jours conduire le bétail.)</TRANSL>
 	<TRANSL xml:lang="en">There was a mute person, and every day (he'd) go and graze the cattle.</TRANSL>
@@ -171,7 +171,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -357,7 +357,7 @@
 		</W>
 </S>
 <S id="Lake3_S008"><AUDIO start="30.0693" end="34.2767"/>
-	<FORM kindOf="phono">tʰi˩˥, | dʑɯ˩ʁo˩ tʰv̩˩˥, ◊ -dʑo˩, | hɑ˧ | tʰv̩˧-ʈv̩˥, | mv̩˧ | tʰi˧-kʰɯ˧˥, | tʰi˧-bv̩˥-kv̩˩-mæ˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | dʑɯ˩ʁo˩ tʰv̩˩˥, ◊ -dʑo˩, | hɑ˧ | tʰv̩˧-ʈv̩˥, | mv̩˧ | tʰi˧-kʰɯ˧˥, | tʰi˧-bv̩˥-kv̩˩ mæ˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, jjiwo tu jjo, ha teedeu, mu teekee, teebbu guq mae!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté: /hɑ˧ ʈʂʰɯ˧-ʈv̩˥/; en fait c'est le démonstratif distal qui est ici employé. Phonétiquement: cible haute réalisée sur la syllabe qui suit."/>
 	<NOTE xml:lang="fr" message="vérifié: n'est pas /tʰi˧-bv̩˧˥/: c'est un ton H, comme noté dans le lexique."/>
@@ -522,7 +522,7 @@
 		</W>
 </S>
 <S id="Lake3_S013"><AUDIO start="41.5736" end="44.2144"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥ kʰi˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥ kʰi˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥ tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">tiq, tee niq yi ki jjo, tiq, tee niq ggu niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧ne˧ ʝi˥ kʰɯ˩/ avec M23; corrigé en /kʰi˩/ avec F4"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧ne˧-ʝi˥ gv̩˩ ɲi˩ tsɯ˩ mv̩˩/; note ancienne, erronée: 'tons vérifiés, est une séquence de 4 tons ˩ à la fin'."/>
@@ -571,16 +571,16 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S014"><AUDIO start="44.2144" end="49.2401"/>
-	<FORM kindOf="phono">tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | ʐo˩˥ | le˧-po˧˥, | hõ˧, | -pi˧-dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ ɳɯ˧ | «mɤ˧-ɲi˧!» | pi˧-tsɯ˩-mv̩˩, | ɑ˩ʁo˧. |</FORM>
+	<FORM kindOf="phono">tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | ʐo˩˥ | le˧-po˧˥, | "hõ˧!" | pi˧-dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ ɳɯ˧ | «mɤ˧-ɲi˧!» | pi˧ tsɯ˩ mv̩˩, | ɑ˩ʁo˧. |</FORM>
 	<FORM kindOf="ortho">Qenini, roq lebo hun bi jjo, ssobbae ddeevu nee: "Meni!" bi zimu, awo.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʐo˧˥/"/>
 	<NOTE xml:lang="fr" message="tons vérifiés en 2011: paraît bien être /hõ˧/"/>
-	<TRANSL xml:lang="fr">Chaque jour, [chacun] emportait son déjeuner [aux champs], et on partait; le muet était le seul qui répondait «Je n'en veux pas!», à ce qu’on raconte; [le seul de toute] la maison.</TRANSL>
+	<TRANSL xml:lang="fr">Chaque jour, [chacun] emportait son déjeuner [aux champs]; on disait: "Allez!" (=on donnait le signal du départ, et on y allait / on partait); le muet était le seul qui répondait «Je n'en veux pas!», à ce qu’on raconte; [le seul de toute] la maison.</TRANSL>
 	<TRANSL xml:lang="en">Every day, (they) would take (their) lunch, (only) the mute person of this family would say, "(I) don't want (any)!"</TRANSL>
 	<TRANSL xml:lang="zh">每天，（那家人都会）带上（自己的）午饭。（只有）哑巴一个人（拒绝，表示：）“不要！”。</TRANSL>
 		<W>
@@ -601,7 +601,7 @@
 		</W>
 		<W>
 			<FORM>hõ˧</FORM>
-			<TRANSL xml:lang="fr">aller.°pst</TRANSL>
+			<TRANSL xml:lang="fr">aller.°imp</TRANSL>
 		</W>
 		<W>
 			<FORM>pi˥</FORM>
@@ -640,7 +640,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 		<W>
@@ -649,7 +649,7 @@
 		</W>
 </S>
 <S id="Lake3_S015"><AUDIO start="49.2401" end="54.9603"/>
-	<FORM kindOf="phono">mv̩˩kʰv̩˧˥ | le˧-tsʰɯ˩, -dʑo˩, | ɲi˧to˧ | ʈʂʰɯ˧-qo˧ | le˧-tɑ˧˥, | ʈʂʰɯ˧-qo˧ | le˧-tɑ˧˥, | mɤ˩-ʂo˩~ʂo˥ tsɤ˩, -tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">mv̩˩kʰv̩˧˥ | le˧-tsʰɯ˩, -dʑo˩, | ɲi˧to˧ | ʈʂʰɯ˧-qo˧ | le˧-tɑ˧˥, | ʈʂʰɯ˧-qo˧ | le˧-tɑ˧˥, | mɤ˩-ʂo˩~ʂo˥ tsɤ˩, tsɯ˩ ◊ -mv̩˩!</FORM>
 	<FORM kindOf="ortho">Muku lecee jjo, nido teegho leda, teegho leda, meshosho ze zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡mv̩˩kʰv̩˧/, avec M23"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡lɑ˩tɑ˩˥/, avec M23"/>
@@ -712,14 +712,14 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S016"><AUDIO start="54.9603" end="58.9352"/>
-	<FORM kindOf="phono">&lt;mɤ˩ dʑo˥ | tʰi˩˥, | jɤw˧ ɲi˥-ze˩ mæ˩! ◊ ə˩-gi˩! | mɤ˧! | &gt;</FORM>
+	<FORM kindOf="phono">&lt;mɤ˩ dʑo˥ | tʰi˩˥, | jo˧ ɲi˥-ze˩ mæ˩! ◊ ə˩-gi˩! | mɤ˧! | &gt;</FORM>
 	<FORM kindOf="ortho">Me jjo, tiq, yoq niq ssei mae!  Aeggi! Me!</FORM>
-	<NOTE xml:lang="fr" message="jɤw˧˥: emprunt chinois, 'huile, graisse'; réalisé avec un ton montant"/>
+	<NOTE xml:lang="fr" message="[jɤw˧˥]: emprunt chinois, 'huile, graisse'; réalisé avec un ton montant. En 2024: réinterprété comme /jo˧˥/."/>
 	<TRANSL xml:lang="fr">« mɤ », ça veut dire « huile », hein! « huile »!</TRANSL>
 	<TRANSL xml:lang="en">"Me" means "oil", right? Oil!</TRANSL>
 	<TRANSL xml:lang="zh">“mɤ”这个词，是“油”的意思，对吧？油！</TRANSL>
@@ -736,7 +736,7 @@
 			<TRANSL xml:lang="fr">alors</TRANSL>
 		</W>
 		<W>
-			<FORM>jɤw˧˥</FORM>
+			<FORM>jo˧˥</FORM>
 			<TRANSL xml:lang="fr">油::graisse</TRANSL>
 		</W>
 		<W>
@@ -765,7 +765,7 @@
 		</W>
 </S>
 <S id="Lake3_S017"><AUDIO start="58.9352" end="62.3161"/>
-	<FORM kindOf="phono">le˧-dzɯ˥-zo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʈʰæ˧˥ ◊ -dʑo˩, | mɤ˩-ʈʂʰɯ˥ | tʰi˧-di˩ | le˧-tsʰɯ˩, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">le˧-dzɯ˥-zo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʈʰæ˧˥ ◊ -dʑo˩, | mɤ˩-ʈʂʰɯ˥ | tʰi˧-di˩ | le˧-tsʰɯ˩, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Lezzi sso, tiq, tee niq yi letae jjo, me tee teeddi lecee zimu.</FORM>
 	<TRANSL xml:lang="fr">il devait manger: mordre (à belles dents), comme ça; il revenait tout barbouillé de graisse!</TRANSL>
 	<TRANSL xml:lang="en">(He) had eaten, biting like this [with big mouthfuls], and came back covered in oil!</TRANSL>
@@ -831,16 +831,16 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S018"><AUDIO start="63.3049" end="67.5780"/>
-	<FORM kindOf="phono">tʰi˩˥, | "ə˧tse˧-ʝi˧-ɲi˥! | ʈʂʰɯ˧ | tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | ʐo˩˥ | le˧-po˧-pi˥, | mɤ˧-po˧˥, |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | "ə˧tse˧-ʝi˧-ɲi˥? | ʈʂʰɯ˧ | tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | ʐo˩˥ | le˧-po˧ pi˥, | mɤ˧-po˧˥, |</FORM>
 	<FORM kindOf="ortho">Tiq, "Aezi yi niq? Tee qenini roq lebo bi, mebo,</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ə˧tse˧ ɲi˥/ avec M23, manquant la syllabe /ʝi/"/>
 	<NOTE xml:lang="fr" message="/ə˧tse˧-ʝi˧-ɲi˥/: forte modification intonative de /ɲi/, devient proche de [njɛ]; très allongé; et descente"/>
-	<TRANSL xml:lang="fr">«qu’est-ce que c’est que cette affaire! chaque jour, on lui dit d'emmener son déjeuner, il n’emmène rien; </TRANSL>
+	<TRANSL xml:lang="fr">«Qu’est-ce que c’est que cette affaire? Chaque jour, on lui dit d'emmener son déjeuner, il n’emmène rien; </TRANSL>
 	<TRANSL xml:lang="en">Then (they said), "What's going on? Every day (we) tell (him) to take lunch, (but he) doesn't take (anything),</TRANSL>
 	<TRANSL xml:lang="zh">那么，“这是怎么一回事？他啊，每天跟他说要带饭，（他）不带，</TRANSL>
 		<W>
@@ -925,12 +925,12 @@
 		</W>
 </S>
 <S id="Lake3_S020"><AUDIO start="69.9374" end="73.5235"/>
-	<FORM kindOf="phono">"ɲi˧to˧-bi˩ | ɖɯ˧-tɑ˧˥ | mɤ˩ ʂo˩~ʂo˥ tsɤ˩! | ʈʂʰɯ˧, | ə˧tse˧-ʝi˧-ɲi˥!" pi˩-ɲi˩-tsɯ˩ mv̩˩. |</FORM>
+	<FORM kindOf="phono">"ɲi˧to˧ bi˩ | ɖɯ˧-tɑ˧˥ | mɤ˩ ʂo˩~ʂo˥ tsɤ˩! | ʈʂʰɯ˧, | ə˧tse˧-ʝi˧ ɲi˥?" pi˩-ɲi˩ tsɯ˩ mv̩˩. |</FORM>
 	<FORM kindOf="ortho">Nido bbi ddeeda meshosho ze! Tee aezi yi niq?" bi niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="/ɲi˧to˧-bi˩ | ɖɯ˧-tɑ˧˥/: tons vérifiés"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡mɤ˧ʂo˧~ʂo˧/ avec M23"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ə˧tse˥ ɲi˩/ avec M23; syllabes /tse/ et /ʝi/ fortement coalescentes."/>
-	<NOTE xml:lang="fr" message="d'abord noté /‡| pi˧-ɲi˩-tsɯ˩ ◊ -mv̩˩/. Est en fait /…pi˩-ɲi˩-tsɯ˩ ◊ -mv̩˩/, intégré au groupe tonal qui précède. Il serait également possible de dire: /| pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩/."/>
+	<NOTE xml:lang="fr" message="d'abord noté /‡| pi˧-ɲi˩-tsɯ˩ ◊ -mv̩˩/. Est en fait /…pi˩-ɲi˩-tsɯ˩ ◊ -mv̩˩/, intégré au groupe tonal qui précède. Il serait également possible de dire: /| pi˧-ɲi˥ tsɯ˩ ◊ -mv̩˩/."/>
 	<TRANSL xml:lang="fr">«sur la bouche, il a plein de graisse! pourquoi donc!»</TRANSL>
 	<TRANSL xml:lang="en">His mouth is all covered in oil. What is going  on?" (they) said.</TRANSL>
 	<TRANSL xml:lang="zh">“（而他）嘴上都是油！这是怎么一回事？”（家人）说。</TRANSL>
@@ -939,7 +939,7 @@
 			<TRANSL xml:lang="fr">bouche</TRANSL>
 		</W>
 		<W>
-			<FORM>bi</FORM>
+			<FORM>bi˩</FORM>
 			<TRANSL xml:lang="fr">sur</TRANSL>
 		</W>
 		<W>
@@ -987,12 +987,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S021"><AUDIO start="73.5235" end="77.5237"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɲi˥-dʑo˩, | hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. | ɑ˩ʁo˧-hĩ˧-ɳɯ˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɲi˥-dʑo˩, | hɯ˧-ɲi˥ tsɯ˩ ◊ -mv̩˩. | ɑ˩ʁo˧-hĩ˧-ɳɯ˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, ddeeni jjo hee niq zimu. Awohin nee.</FORM>
 	<TRANSL xml:lang="fr">alors, un jour, [quelqu'un] y est allé! quelqu'un de la famille!</TRANSL>
 	<TRANSL xml:lang="en">Well, one day (someone) went (with him). (Someone) from the family.</TRANSL>
@@ -1022,7 +1022,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 		<W>
@@ -1039,7 +1039,7 @@
 		</W>
 </S>
 <S id="Lake3_S022"><AUDIO start="77.5237" end="80.3910"/>
-	<FORM kindOf="phono">ɑ˩ʁo˧-hĩ˧-ɳɯ˩ | hɯ˧-dʑo˥ | tʰi˩˥, | li˧-hɯ˧-ɲi˥, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">ɑ˩ʁo˧-hĩ˧-ɳɯ˩ | hɯ˧-dʑo˥ | tʰi˩˥, | li˧-hɯ˧-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Awohin nee hee jjo, tiq, li hee niq zimu.</FORM>
 	<TRANSL xml:lang="fr">Une personne de la famille y est allé; et alors… il est allé voir, n'est-ce pas!</TRANSL>
 	<TRANSL xml:lang="en">A family member went, (they) went to have a look (at what was going on).</TRANSL>
@@ -1085,7 +1085,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -1286,7 +1286,7 @@
 		</W>
 </S>
 <S id="Lake3_S026"><AUDIO start="93.1728" end="97.6964"/>
-	<FORM kindOf="phono">qo˧lo˩ hɯ˩-tsɯ˩ mv̩˩, | æ˩qʰv̩˧-qo˧! | æ˩qʰv̩˧ pi˧ | ɖɯ˧-ɭɯ˧ ɲi˩ mæ˩. |</FORM>
+	<FORM kindOf="phono">qo˧lo˩ hɯ˩ tsɯ˩ mv̩˩, | æ˩qʰv̩˧-qo˧! | æ˩qʰv̩˧ pi˧ | ɖɯ˧-ɭɯ˧ ɲi˩ mæ˩. |</FORM>
 	<FORM kindOf="ortho">gholo hee zimu, aenkheu gho! Aenkheu bi ddeelee niq mae.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡æ˩qʰv̩˧ qo˥/ avec M23, ici et dans la phrase suivante; et noté ici: /‡qo˧lo˧ hɯ˩/."/>
 	<TRANSL xml:lang="fr">il est rentré dedans, dans la grotte! C'était une grotte.</TRANSL>
@@ -1305,7 +1305,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 		<W>
@@ -1338,7 +1338,7 @@
 		</W>
 </S>
 <S id="Lake3_S027"><AUDIO start="97.6964" end="102.1888"/>
-	<FORM kindOf="phono">tʰi˩˥, | æ˩qʰv̩˧-qo˧-lo˩ hɯ˩ dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-v̩˧ | &lt;hɯ˧…&gt; li˧-hɯ˧-ɲi˥, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | æ˩qʰv̩˧-qo˧-lo˩ hɯ˩ dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-v̩˧ | &lt;hɯ˧…&gt; li˧-hɯ˧-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, aenkheu gholo hee jjo, tiq, teevu li hee niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: est bien: /æ˩qʰv̩˧-qo˧-lo˩/."/>
 	<TRANSL xml:lang="fr">Alors, comme [le muet] était entré dans la grotte, celui-là (=l'homme qui suivait le muet); il est allé regarder, à ce qu'on raconte!</TRANSL>
@@ -1389,12 +1389,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S028"><AUDIO start="102.1888" end="106.1655"/>
-	<FORM kindOf="phono">li˧-hɯ˧ dʑo˥, | ɲi˧zo˧ ʈʂʰɯ˧… | qʰɑ˧-ɖɯ˧-mi˧-hĩ˧ | ɖɯ˧-mi˩ | tʰi˧-dʑo˩, | pi˧-tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">li˧-hɯ˧ dʑo˥, | ɲi˧zo˧ ʈʂʰɯ˧… | qʰɑ˧-ɖɯ˧-mi˧-hĩ˧ | ɖɯ˧-mi˩ | tʰi˧-dʑo˩, | pi˧ tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Li hee jjo, nisso tee, khaddeemihin ddeemi teejjo bi zimu.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /qʰɑ˧-ɖɯ˧-mi˩/, omettant le /-hĩ/."/>
 	<TRANSL xml:lang="fr">il est rentré, et… un poisson énorme COMME CA se trouvait là, à ce qu’on raconte!</TRANSL>
@@ -1446,12 +1446,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S029"><AUDIO start="106.1655" end="115.3690"/>
-	<FORM kindOf="phono">tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | zo˧bæ˩-ɳɯ˩ | le˧-hæ̃˧˥ | le˧-dzɯ˥! | tsʰi˧ɲi˧ | le˧-hæ̃˧˥, | ɖɯ˧-ʈv̩˩ dzɯ˩, | le˧-tsʰɯ˩. | wɤ˩˥ | so˧ɲi˥ | le˧-qwɤ˩. | wɤ˩˥ | so˧ɲi˥ | tʰi˧-di˩, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tɕʰɤ˧ɲi˧-ne˧-ʝi˥, | zo˧bæ˩-ɳɯ˩ | le˧-hæ̃˧˥ | le˧-dzɯ˥! | tsʰi˧ɲi˧ | le˧-hæ̃˧˥, | ɖɯ˧-ʈv̩˩ dzɯ˩, | le˧-tsʰɯ˩. | wɤ˩˥ | so˧ɲi˥ | le˧-qwɤ˩. | wɤ˩˥ | so˧ɲi˥ | tʰi˧-di˩, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Qenini, ssobbae nee lehaen lezzi. Ceeni lehaen, ddeedeu zzi lecee. Uaq soni leghua, uaq soni teeddi zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /le˧-hæ˧˥/, omettant la nasalité"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡wɤ˧˥/"/>
@@ -1552,7 +1552,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -1792,7 +1792,7 @@
 		</W>
 </S>
 <S id="Lake3_S035"><AUDIO start="134.5181" end="138.3386"/>
-	<FORM kindOf="phono">ɑ˩ʁo˧ | le˧-hɯ˩-hĩ˩ | tʰv̩˧-v̩˧-ɳɯ˩, -dʑo˩ | tʰi˩˥, | li˧-hɯ˧-ɲi˥-tsɯ˩, | ʐwɤ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM kindOf="phono">ɑ˩ʁo˧ | le˧-hɯ˩-hĩ˩ | tʰv̩˧-v̩˧-ɳɯ˩, -dʑo˩ | tʰi˩˥, | li˧-hɯ˧-ɲi˥ tsɯ˩, | ʐwɤ˩-ɲi˥ tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<FORM kindOf="ortho">awo leheehin teevu nee jjo, tiq, li hee niq ziq, ruaq niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /ʈʂʰɯ˧v̩˧/"/>
 	<NOTE xml:lang="fr" message="tons vérifiés: est bien /tʰv̩˧-v̩˧-ɳɯ˩/"/>
@@ -1860,7 +1860,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -1904,7 +1904,7 @@
 		</W>
 </S>
 <S id="Lake3_S037"><AUDIO start="139.5183" end="143.0341"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɑ˩ʁo˧ | ʈʂʰɯ˧-ʑi˧-ɻ̍˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | tɑ˧ho˧ | le˧-ʁwɤ˧~ʁwɤ˥-ɲi˩, -tsɯ˩ mv̩˩: |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɑ˩ʁo˧ | ʈʂʰɯ˧-ʑi˧-ɻ̍˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | tɑ˧ho˧ | le˧-ʁwɤ˧~ʁwɤ˥-ɲi˩, tsɯ˩ mv̩˩: |</FORM>
 	<FORM kindOf="ortho">Tiq, awo teexxi'er nee jjo, tiq, daho lewuawua niq zimu:</FORM>
 	<TRANSL xml:lang="fr">Alors, toute la maisonnée, eh bien… tout le monde a débattu [au sujet de ce qu'ils allaient faire].</TRANSL>
 	<TRANSL xml:lang="en">Then the family members all had a discussion: </TRANSL>
@@ -1958,7 +1958,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -2218,7 +2218,7 @@
 		</W>
 </S>
 <S id="Lake3_S043"><AUDIO start="165.6522" end="168.0742"/>
-	<FORM kindOf="phono">dʑi˧mi˧ | gv̩˧-wo˥ po˩-ɳɯ˩ | ʈɤ˧-ɲi˥-tsɯ˩ mæ˩! |</FORM>
+	<FORM kindOf="phono">dʑi˧mi˧ | gv̩˧-wo˥ po˩-ɳɯ˩ | ʈɤ˧-ɲi˥ tsɯ˩ mæ˩! |</FORM>
 	<FORM kindOf="ortho">Jjiemi gguwo boq nee de niq ziq mae!</FORM>
 	<TRANSL xml:lang="fr">[On a] apporté neuf paires de buffles pour tirer [l'énorme poisson]! </TRANSL>
 	<TRANSL xml:lang="en">(They) used nine pairs of water buffaloes to pull (the huge fish)!</TRANSL>
@@ -2303,7 +2303,7 @@
 		</W>
 </S>
 <S id="Lake3_S045"><AUDIO start="172.1916" end="174.3479"/>
-	<FORM kindOf="phono">bi˧bv̩˥ | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">bi˧bv̩˥ | le˧-tsʰɯ˩-ɲi˩ tsɯ˩ ◊ -mv̩˩!</FORM>
 	<FORM kindOf="ortho">bbibbu lecee niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="au lieu de /mv̩˩/, avais d'abord noté /‡mæ˩/"/>
 	<NOTE xml:lang="fr" message="/bi˧bv̩˥+ze˩/: couler à flots, couler en trombe. Avais d'abord pensé que c'était une onomatopée."/>
@@ -2331,7 +2331,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -2433,7 +2433,7 @@
 		</W>
 </S>
 <S id="Lake3_S048"><AUDIO start="180.2414" end="183.0496"/>
-	<FORM kindOf="phono">ɖɯ˧-ʑi˩-ɻ̍˩-dʑo˩, | ə˧mi˧ | bo˩-hɑ˧ ki˩-dʑo˩, | pi˧-tsɯ˩ mv̩˩. | mv̩˩kʰv̩˧˥! |</FORM>
+	<FORM kindOf="phono">ɖɯ˧-ʑi˩-ɻ̍˩-dʑo˩, | ə˧mi˧ | bo˩-hɑ˧ ki˩-dʑo˩, | pi˧ tsɯ˩ mv̩˩. | mv̩˩kʰv̩˧˥! |</FORM>
 	<FORM kindOf="ortho">ddeexxi'er jjo ami bboha gi jjo bi zimu. Muku.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡mv̩˩kʰv̩˩˥/"/>
 	<NOTE xml:lang="fr" message="vérifié en 2011: n'est pas /‡…ki˧dʑo˧/."/>
@@ -2473,7 +2473,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 		<W>
@@ -2642,7 +2642,7 @@
 		</W>
 </S>
 <S id="Lake3_S052"><AUDIO start="196.5318" end="201.3818"/>
-	<FORM kindOf="phono">ʈʂʰwæ˩-ʈʂʰɯ˥ | tʰi˩˥, | ʝi˧sɯ˥-dʑo˩, | ə˧mi˧ ʈʂʰɯ˧-v̩˧-lɑ˩ | mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˥ | ʈʂʰwæ˩tsʰɯ˩-ɲi˥-tsɯ˩ mv̩˩. |</FORM>
+	<FORM kindOf="phono">ʈʂʰwæ˩-ʈʂʰɯ˥ | tʰi˩˥, | ʝi˧sɯ˥-dʑo˩, | ə˧mi˧ ʈʂʰɯ˧-v̩˧-lɑ˩ | mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˥ | ʈʂʰwæ˩tsʰɯ˩-ɲi˥ tsɯ˩ mv̩˩. |</FORM>
 	<FORM kindOf="ortho">Chuae tee, tiq, yisi jjo ami teevu la muq teevu nee chuae cee niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="/njɤ˧-lɑ˧ no˧/: toi et moi; /no˧-lɑ˧ njɤ˧/, etc."/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡mv̩˩ ʈʂʰɯ˩-v̩˧ ɳɯ˧/, avec M23; corrigé avec F4 en: /mv̩˩ ʈʂʰɯ˩-v̩˩˥, mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˥/."/>
@@ -2704,7 +2704,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -2809,7 +2809,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -2924,7 +2924,7 @@
 		</W>
 </S>
 <S id="Lake3_S057"><AUDIO start="215.4473" end="219.2888"/>
-	<FORM kindOf="phono">gv̩˩pʰæ˩˥ | ɖɯ˧-pʰæ˧ po˥-ɳɯ˩, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | &lt;hi˩…&gt; hi˩nɑ˧mi˧ | tsɤ˧-ɲi˥-kv̩˩-tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">gv̩˩pʰæ˩˥ | ɖɯ˧-pʰæ˧ po˥-ɳɯ˩, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | &lt;hi˩…&gt; hi˩nɑ˧mi˧ | tsɤ˧-ɲi˥-kv̩˩ tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">ggupae ddeepae boq nee zaq, zaq, zaq, zaq gua ji la, xienami ze niq guq zimu!</FORM>
 	<NOTE xml:lang="fr" message="tsɤ˧˥, ton 4: traduit ici par: 形成"/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-pʰæ˧˥ | po˧-ɳɯ˩"/>
@@ -2982,7 +2982,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -3064,12 +3064,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S059"><AUDIO start="225.1376" end="229.2856"/>
-	<FORM kindOf="phono">ʝi˧kʰv̩˥-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsɑ˧˥, | le˧-tsɑ˧˥, | le˧-tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩, | le˧-lv̩˧˥, | ə˧mi˧ lɑ˧ | mv̩˩˥, | ɲi˧-kv̩˧ lv̩˥-ɲi˩-kv̩˩, -tsɯ˩ mv̩˩ |</FORM>
+	<FORM kindOf="phono">ʝi˧kʰv̩˥-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsɑ˧˥, | le˧-tsɑ˧˥, | le˧-tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩, | le˧-lv̩˧˥, | ə˧mi˧ lɑ˧ | mv̩˩˥, | ɲi˧-kv̩˧ lv̩˥-ɲi˩-kv̩˩, tsɯ˩ mv̩˩ |</FORM>
 	<FORM kindOf="ortho">Yiko jjo tee niq yi leza, leza, leza gua ji, lelu, ami la muq nigu luq niq guq zimu.</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés pour toute la phrase; on dit: /ɲi˧-kv̩˧ lv̩˥/, aussi bien que: /ɲi˧-kv̩˥ | le˧-lv̩˧˥/ 'elles ont été deux à s'enfuir'"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧ni˧˥/, avec M23"/>
@@ -3143,7 +3143,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -3185,7 +3185,7 @@
 		</W>
 </S>
 <S id="Lake3_S061"><AUDIO start="232.0048" end="236.7708"/>
-	<FORM kindOf="phono">ʈæ˧qo˧ dʑo˧, | zo˩no˥, | pe˧ʂe˧ dʑo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩ dʑo˩ | tʰi˩˥, | hĩ˧ tʰi˧-dzi˧-ɲi˥, -tsɯ˩ mv̩˩!</FORM>
+	<FORM kindOf="phono">ʈæ˧qo˧ dʑo˧, | zo˩no˥, | pe˧ʂe˧ dʑo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩ dʑo˩ | tʰi˩˥, | hĩ˧ tʰi˧-dzi˧-ɲi˥, tsɯ˩ mv̩˩!</FORM>
 	<FORM kindOf="ortho">daegho jjo, ssono beishei jjo, eyishei jjo, tiq, hin teezzee niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡hĩ˧ ʈʂʰɯ˧ dzɯ˧-ɲi˥, tsɯ˩ mv̩˩/, avec M23; corrigé en: /‡tʰi˧-dzi˧˥ ◊ -ɲi˩/, et me demandais: ne serait-ce pas /dzi˩/ 'sombrer'? réponse: non: est bien le verbe pour 'être assis'; 'habiter', qui avec comme sujet /hĩ˥/ donne: /hĩ˧ tʰi˧-dzi˧˥/, /hĩ˧ tʰi˧-dzi˧-ɲi˥/"/>
 	<NOTE xml:lang="fr" message="/ʈæ˧qo˧ dʑo˧/: tons vérifiés, à nouveau en 2011: n’est pas /‡dʑo˩/."/>
@@ -3246,12 +3246,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S062"><AUDIO start="237.3591" end="241.5912"/>
-	<FORM kindOf="phono">tʰi˩˥, ◊ -dʑo˩, | ɲi˧zo˧ | ʈʂʰɯ˧-mi˧-ɳɯ˥ | le˧-ʝi˥-zo˩, | tʰi˩˥, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, ◊ -dʑo˩, | ɲi˧zo˧ | ʈʂʰɯ˧-mi˧-ɳɯ˥ | le˧-ʝi˥-zo˩, | tʰi˩˥, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, jjo, nisso teemi nee leyi sso, tiq, xienami ze niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-mi˧/"/>
 	<NOTE xml:lang="fr" message="/ɲi˧zo˧ ʈʂʰɯ˧-mi˥/, /ɲi˧zo˧ ʈʂʰɯ˧-mi˧-ɳɯ˥/: le ton Hse fixe sur la dernière syllabe."/>
@@ -3311,7 +3311,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -3351,7 +3351,7 @@
 		</W>
 </S>
 <S id="Lake3_S064"><AUDIO start="246.8862" end="250.3223"/>
-	<FORM kindOf="phono">ɲi˧zo˧ ʈʂʰɯ˧ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɖwæ˧˥ | tʰi˧-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-qo˧ | le˧-tsʰɯ˩-ɲi˩, -tsɯ˩ mv̩˩. |</FORM>
+	<FORM kindOf="phono">ɲi˧zo˧ ʈʂʰɯ˧ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɖwæ˧˥ | tʰi˧-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-qo˧ | le˧-tsʰɯ˩-ɲi˩, tsɯ˩ mv̩˩. |</FORM>
 	<FORM kindOf="ortho">nisso tee eyishei dduaeq teejjo, tiq, teegho lecee niq zimu.</FORM>
 	<NOTE xml:lang="fr" message="M23 indique comme particule, non tʰi˩˥, mais /ɲi˩tsɯ˩/"/>
 	<NOTE xml:lang="fr" message="ʈʂʰɯ˧-qo˧: avais d'abord noté ʈʂʰɯ˧qo˥. Source de l'erreur: le démonstratif est faible au plan prosodique."/>
@@ -3410,7 +3410,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
@@ -3516,7 +3516,7 @@
 		</W>
 </S>
 <S id="Lake3_S067"><AUDIO start="255.1130" end="258.4749"/>
-	<FORM kindOf="phono">tʰi˩˥, | hi˩nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩, | hĩ˧ ʈʂʰɯ˧-ɲi˥-kv̩˩ tɑ˩kɤ˩-lɑ˩ lv̩˩ ɲi˩-tsɯ˩. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hi˩nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩, | hĩ˧ ʈʂʰɯ˧-ɲi˥-kv̩˩ tɑ˩kɤ˩-lɑ˩ lv̩˩ ɲi˩ tsɯ˩. |</FORM>
 	<FORM kindOf="ortho">tiq, xienami tee tee niq yi lecee gua ji, hin tee nigu dage la luq niq ziq.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡kwɤ˩tsɤ˩/"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧ni˧˥/"/>
@@ -3687,7 +3687,7 @@
 		</W>
 </S>
 <S id="Lake3_S070"><AUDIO start="263.6463" end="269.3912"/>
-	<FORM kindOf="phono">ʈʂʰɯ˧-ɲi˧-ʑi˧˥ | le˧-lv̩˧˥, | tʰi˩˥, | zo˩no˥, | ʈʂʰwæ˩-bv̩˥ | ʝi˧sɯ˥… | zo˩no˥, | tɑ˧pi˧-ɲi˥-tsɯ˩-mæ˩! ◊ ə˩-gi˩! |</FORM>
+	<FORM kindOf="phono">ʈʂʰɯ˧-ɲi˧-ʑi˧˥ | le˧-lv̩˧˥, | tʰi˩˥, | zo˩no˥, | ʈʂʰwæ˩-bv̩˥ | ʝi˧sɯ˥… | zo˩no˥, | tɑ˧pi˧ ɲi˥ tsɯ˩ mæ˩! ◊ ə˩-gi˩! |</FORM>
 	<FORM kindOf="ortho">tee niq yi lelu. Tiq, ssono, chuae bbu yisi, ssono, dabi niq ziq mae!  Aeggi!</FORM>
 	<NOTE xml:lang="fr" message="résumé par F4, lors de la reprise: /bo˩gv̩˥-ɳɯ˩ | ʐɯ˩gv̩˩ tsɤ˩˥!/ c'est à partir de l'auge des cochons qu'on a fabriqué les bateaux!"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-ɲi˧-ʑi˥/, avec M23"/>
@@ -3795,7 +3795,7 @@
 		</W>
 </S>
 <S id="Lake3_S072"><AUDIO start="270.9572" end="273.6467"/>
-	<FORM kindOf="phono">ʈʂʰɯ˧-ɲi˥-kv̩˩-ɳɯ˩ dʑo˩, | le˧-gv̩˩ | le˧-tʰv̩˧-ɲi˥-kv̩˩-tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">ʈʂʰɯ˧-ɲi˥-kv̩˩-ɳɯ˩ dʑo˩, | le˧-gv̩˩ | le˧-tʰv̩˧-ɲi˥-kv̩˩ tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">tee nigu nee jjo leggu letu niq guq zimu!</FORM>
 	<TRANSL xml:lang="fr">c’est par ces deux personnes qu’il a été créé!</TRANSL>
 	<TRANSL xml:lang="en">it's said that they were invented by these two (women).</TRANSL>
@@ -3841,12 +3841,12 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S073"><AUDIO start="273.6467" end="275.3277"/>
-	<FORM kindOf="phono">æ˧ʂæ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥, -tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">æ˧ʂæ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Eshae tee niq yi ruaq niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté tʰi˧ni˧˥, avec M23"/>
 	<TRANSL xml:lang="fr">C’est comme ça qu'on racontait, autrefois!</TRANSL>
@@ -3873,7 +3873,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>mv̩˩</FORM>
+			<FORM>mv̩˧2</FORM>
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
