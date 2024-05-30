@@ -232,15 +232,16 @@
 	</S>
 	<S id="RenamingS026">
 		<AUDIO start="143.6744" end="149.9027"/>
-		<FORM>mmm… no˧ | zo˧hṽ̩˧˥ ◊ -dʑo˩, | ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩ mv̩˩ʈʂæ˩, | ə˧-sɯ˥?" | pi˧-zo˩, |
+		<FORM>mmm… no˧ | zo˧hṽ̩˧˥ ◊ -dʑo˩, | ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩ mv̩˩ʈʂæ˩, | æ˩sæ˥!" | pi˧-zo˩, |
 			tʰv̩˧-v̩˧-ɳɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr"
-			message="décalage phonétique très net entre no˧ et zo˧hṽ̩˧˥, faisant penser à ‡no˧ zo˩hṽ̩˩˥; mais est bien ˧ | ˧ ˧˥."/>
+			message="Décalage phonétique très net entre /no˧/ et /zo˧hṽ̩˧˥/, à la jointure des deux groupes tonals, faisant penser à /‡no˧ zo˩hṽ̩˩˥/. Mais c'est bien ˧ | ˧ ˧˥."/>
 		<NOTE xml:lang="fr"
-			message="le passant doit être un homme pour donner un nom à un petit garçon, une femme pour une petite fille"/>
-		<TRANSL xml:lang="fr">"Ton enfant, il s'appellera ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩, entendu?" Voilà ce qu'a
+			message="Le passant doit être un homme pour donner un nom à un petit garçon, une femme pour une petite fille"/>
+		<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
+		<TRANSL xml:lang="fr">"Ton enfant, il s'appellera ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩!" Voilà ce qu'a
 			dit cette personne-là, à ce qu'on raconte!</TRANSL>
-			<TRANSL xml:lang="zh">“你的孩子，他叫ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩，听好了？”这个过路人，就是这样说的！</TRANSL>	
+			<TRANSL xml:lang="zh">“你的孩子，他叫ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩啊！”这个过路人，就是这样说的！</TRANSL>
 	</S>
 	<S id="RenamingS027">
 		<AUDIO start="149.9027" end="151.9542"/>
@@ -258,16 +259,14 @@
 	</S>
 	<S id="RenamingS029">
 		<AUDIO start="157.0031" end="170.8600"/>
-		<FORM>zo˧hṽ̩˧-bi˥, | tsʰi˧ɲi˧, | əəə… tso˧qʰwɤ˩ | &lt;tʰi&gt; [ɖɯ˧-ɭɯ˧] tʰi˧-ʈʂæ˧˥, |
-			mmm… əəə… mmm… -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | so˧ɲi˧-ki˧, | ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩ | …ɻwæ˧, |
-			ə˧-sɯ˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. ɖɯ˩ɖʐɯ˧! …-tsʰɯ˩ɻ̍˩ ɻwæ˩, | ə˧-sɯ˥! | pi˧-tsɯ˩ ◊ -mv̩˩.
-			|</FORM>
+		<FORM>zo˧hṽ̩˧-bi˥, | tsʰi˧ɲi˧, | əəə… tso˧qʰwɤ˩ | &lt;tʰi&gt; [ɖɯ˧-ɭɯ˧] tʰi˧-ʈʂæ˧˥, | mmm… əəə… mmm… -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | so˧ɲi˧-ki˧, | ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩ | …ɻwæ˧, | æ˩sæ˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. ɖɯ˩ɖʐɯ˧! …-tsʰɯ˩ɻ̍˩ ɻwæ˩, | ə˧-sɯ˥! | pi˧-tsɯ˩ ◊ -mv̩˩.	|</FORM>
 		<NOTE xml:lang="fr"
 			message="Note: pareils changements de noms se pratiquent encore actuellement. Dans un cas, la mère a été jusqu'à demander quatre fois un changement de nom pour son petit enfant, avant qu'il ne trouve finalement une figure paternelle qui le réconcilie avec la vie."/>
 		<NOTE xml:lang="fr"
 			message="petit lapsus: dit: ɖɯ˩ɖʐɯ˧-ʈʂʰɯ˩ɻ̍˩, harmonisant en rétroflexes toutes les syllabes du nom "/>
 		<NOTE xml:lang="fr"
 			message="L'enfant ne doit plus appeler 'papa' [son ancien père]! | ə˧dɑ˥ ɻwæ˩-tʰɑ˩-kʰɯ˩! |"/>
+		<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 		<TRANSL xml:lang="fr">à l'enfant, aujourd'hui… ce soir, on lui coud un bouton; à partir du
 			lendemain, on dit: "[il faut désormais l']appeler ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩, vous
 			savez!"</TRANSL>

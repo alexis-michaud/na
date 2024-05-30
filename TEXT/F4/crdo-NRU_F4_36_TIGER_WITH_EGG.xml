@@ -3961,10 +3961,10 @@
 		</W>
 </S>
 <S id="TigerS051"><AUDIO start="347.2895" end="362.3707"></AUDIO>
-	<FORM>zo˩no˥ | mɤ˧-dʑɤ˩-ɲi˩, | ə˧-sɯ˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧mi˧-mv̩˩ ɲi˩-kv̩˩, | zo˩no˥, | ɬi˧di˩-di˩mi˩-qo˩ dzi˩, | le˧-wo˥-| le˧-hɯ˩-zo˩, | ə˧ʑi˧-ə˧pʰv̩˧-ki˥ | le˧-hɯ˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥, | ʐæ˩-ɳɯ˥ | le˧-ʈʰæ˧˥, | lɑ˧-ɳɯ˧ | le˧-ʈʰæ˧˥ ◊ -ɲi˩, | pi˧-zo˩!", | ə˧ʝi˧-ʂɯ˥ʝi˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥! |</FORM>
+	<FORM>zo˩no˥ | mɤ˧-dʑɤ˩-ɲi˩, | æ˩sæ˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧mi˧-mv̩˩ ɲi˩-kv̩˩, | zo˩no˥, | ɬi˧di˩-di˩mi˩-qo˩ dzi˩, | le˧-wo˥-| le˧-hɯ˩-zo˩, | ə˧ʑi˧-ə˧pʰv̩˧-ki˥ | le˧-hɯ˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥, | ʐæ˩-ɳɯ˥ | le˧-ʈʰæ˧˥, | lɑ˧-ɳɯ˧ | le˧-ʈʰæ˧˥ ◊ -ɲi˩, | pi˧-zo˩!", | ə˧ʝi˧-ʂɯ˥ʝi˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥! |</FORM>
 	<NOTE xml:lang="fr" message="sens de wo˥: retourner, repartir; n'est pas lié à /wo˧˥/ 'se retourner', semble-t-il"></NOTE>
 	<NOTE xml:lang="fr" message="avais d'abord noté ‡ʐwɤ˩-kv̩˥; vérifié en nov. 2011"></NOTE>
-   <NOTE xml:lang="fr" message="avant 2013: noté /‡ə˩-sɯ˧/" />
+   <NOTE xml:lang="fr" message="Avant 2013: noté /‡ə˩-sɯ˧/, puis corrigé en /ə˧-sɯ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?». C'est seulement en 2024 que l'expression polie /æ˩sæ˥/ a été identifiée, reportée dans le dictionnaire, et vérifiée dans les textes." />
 	<TRANSL xml:lang="fr">"Ca, c'est quelque chose de mal, tu sais! Autrefois, la mère et sa fille, eh bien… elles habitaient la plaine de Yongning; (la fille) a dû s'en retourner; c'est ainsi, le léopard dévore, le tigre dévore!" Voilà ce que nous disaient les vieux, dans le temps, à ce sujet! / Autrefois, voilà ce qu'on (nous) racontait / ce que les anciens nous disaient!</TRANSL>
 	<TRANSL xml:lang="zh">在过去，（老人家）是这样讲的：“那是很不幸的事情，知道吗？从前，住在永宁的母女两个人，(女孩就一个人)回来了，回到外公外婆家（而母亲被老虎吃了）：是这样，豹子会吃人的，老虎会吃人的！”</TRANSL>
 		<W>
@@ -3984,12 +3984,8 @@
 			<TRANSL xml:lang="fr">°cop</TRANSL>
 		</W>
 		<W>
-			<FORM>ə˩</FORM>
-			<TRANSL xml:lang="fr">°interrog</TRANSL>
-		</W>
-		<W>
-			<FORM>sɯ˥</FORM>
-			<TRANSL xml:lang="fr">savoir</TRANSL>
+			<FORM>æ˩sæ˥</FORM>
+			<TRANSL xml:lang="fr">°respect</TRANSL>
 		</W>
 		<W>
 			<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩</FORM>

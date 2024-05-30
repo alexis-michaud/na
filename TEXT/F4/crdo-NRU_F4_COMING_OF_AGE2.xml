@@ -438,8 +438,9 @@
 	<TRANSL xml:lang="fr">[Le jeune homme] se tient sur l'aire à battre le grain; quelqu'un [du village] vient à passer; il demande: "Où il se trouve, le garçon qui 'a enfilé le pantalon' (=qui est parvenu à l'âge adulte)?" On lui dit: Il est là-bas! Et alors, [le jeune homme] se prosterne à nouveau (=le jeune homme se prosterne également devant ce visiteur)!</TRANSL>
 </S>
 <S id="F4_ComingOfAge2S092"><AUDIO start="507.3287" end="514.7478"></AUDIO>
-	<FORM kindOf="phono">"te! | no˧ | ʐwæ˩-ze˥! | zɯ˧ ʂæ˧ hɑ̃˧-ʝi˧-kʰɯ˩, | ə˧-sɯ˥! | dʑɤ˩-kʰɯ˥! | ti˧mv̩˧bv̩˧ɻ̍˧ | dʑɤ˩-kʰɯ˥!" | pi˧, | wɤ˩˥ | ɖʐe˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-ki˩! |</FORM>
+	<FORM kindOf="phono">"te! | no˧ | ʐwæ˩-ze˥! | zɯ˧ ʂæ˧ hɑ̃˧-ʝi˧-kʰɯ˩, | æ˩sæ˥! | dʑɤ˩-kʰɯ˥! | ti˧mv̩˧bv̩˧ɻ̍˧ | dʑɤ˩-kʰɯ˥!" | pi˧, | wɤ˩˥ | ɖʐe˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-ki˩! |</FORM>
 	<NOTE xml:lang="fr" message="La séquence /ɖʐe˧ | ɖɯ˧-kʰwɤ˥/ est phonétiquement réduite, au point de ressembler à /‡ɖʐe˧-kʰwɤ˥/; mais à ce stade, les 3 éléments sont présents, y compris le numéral, même s'il est extrêmement réduit."></NOTE>
+	<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 	<TRANSL xml:lang="fr">[Le visiteur dit au jeune adulte:] "Aaaaah! Félicitations!/Tu es épatant! Longue vie à toi, hein! Prospérité en toutes choses!" Et à son tour (littéralement "à nouveau"), [il/elle] donne de l'argent!</TRANSL>
 </S>
 <S id="F4_ComingOfAge2S093"><AUDIO start="514.7478" end="516.4622"></AUDIO>

@@ -658,8 +658,9 @@
 	<TRANSL xml:lang="fr">Euh… "Les parties qui sont de couleur rouge, on peut les manger [sans crainte]/elles sont comestibles! Si ça ne vous empoisonne pas, on peut le manger! / Toutes les plantes non vénéneuses, on peut s'en nourrir!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S083"><AUDIO start="439.3123" end="442.3945"></AUDIO>
-	<FORM kindOf="phono">"ə˩-sɯ˧kv̩˥, | ɖɯ˧-kʰv̩˧-lɑ˥ ɲi˩-kv̩˩, | ə˧-dzɤ˧-le˧-tsɤ˧-kv̩˧˥, | ə˧-sɯ˥!" |</FORM>
-	<TRANSL xml:lang="fr">"Nous, on ne manquera [de nourriture] que pendant une année (=la disette ne durera qu'une année); petit à petit, ça va aller mieux/ça va s'arranger, vous savez!"</TRANSL>
+	<FORM kindOf="phono">"ə˩-sɯ˧kv̩˥, | ɖɯ˧-kʰv̩˧-lɑ˥ ɲi˩-kv̩˩, | ə˧-dzɤ˧-le˧-tsɤ˧-kv̩˧˥, | æ˩sæ˥!" |</FORM>
+	<TRANSL xml:lang="fr">"Nous, on ne manquera [de nourriture] que pendant une année (=la disette ne durera qu'une année); petit à petit, ça va aller mieux/ça va s'arranger!"</TRANSL>
+	<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 </S>
 <S id="FOOD_SHORTAGE2S084"><AUDIO start="442.3945" end="444.6620"></AUDIO>
 	<FORM kindOf="phono">"zo˧mv̩˥-dʑo˩, | tɕʰi˧-mɤ˧-ɖo˧!" | pi˧-zo˩. |</FORM>

@@ -5425,8 +5425,9 @@
 		</W>
 </S>
 <S id="Reward_S093"><AUDIO start="447.4031" end="451.8352"></AUDIO>
-	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̍̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | ə˧-sɯ˥? |</FORM>
+	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̍̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | æ˩sæ˥! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̍̃˥-ze˩ / le˧-ɻ̍̃˧-bi˧ / mɤ˧-ɻ̍̃˥"></NOTE>
+	<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 	<TRANSL xml:lang="fr">[Le père prend la parole pour résumer aux membres de sa famille ce qui lui est arrivé:] "Aaah! Nous autres, si démunis qu'on soit, il ne faut pas voler [le bien d']autrui, vous avez bien compris, hein? (littéralement "est-ce que vous savez?")</TRANSL>
 	<TRANSL xml:lang="zh">（孩子爸对家人总结说：）“啊呀！咱们无论多么贫穷，不要偷别人的，知道（了）吗？</TRANSL>
 		<W>
@@ -5470,12 +5471,8 @@
 			<TRANSL xml:lang="fr">voler</TRANSL>
 		</W>
 		<W>
-			<FORM>ə˩</FORM>
-			<TRANSL xml:lang="fr">°interrog</TRANSL>
-		</W>
-		<W>
-			<FORM>sɯ˥</FORM>
-			<TRANSL xml:lang="fr">savoir</TRANSL>
+			<FORM>æ˩sæ˥</FORM>
+			<TRANSL xml:lang="fr">°respect</TRANSL>
 		</W>
 </S>
 <S id="Reward_S094"><AUDIO start="451.8352" end="460.5214"></AUDIO>

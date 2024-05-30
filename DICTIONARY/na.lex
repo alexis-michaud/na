@@ -1127,7 +1127,25 @@
 \xn 那个习语
 \xf ce dicton
 \xc PHONO
-\dt 24/Apr/2017
+
+\lx æ˩sæ˥
+\or aesae rrrr
+\ps disc.PTCL
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton LH
+\lc æ˩sæ˥
+\so <print="n"> F4
+\de Respectful final particle.
+\ge |fg{respect}
+\dn 句尾助词，表示尊重。
+\gn 句尾助词.尊重
+\df Particule finale respectueuse.
+\gf |fg{respect}
+\xv ʁɑ˩mi˥-ze˩ | æ˩sæ˥!
+\xe Thank you! (Polite formulation)
+\xn 谢谢！（礼貌说法）
+\xf Merci! (Formulation polie)
 
 \lx æ˧ʂæ#˥
 \or eshae
@@ -11040,7 +11058,15 @@
 \xe There is plenty / there is a lot. (Note: existence, and not possession)
 \xn 有很多。
 \xf Il en existe beaucoup, il y en a beaucoup. (Note: existentiel, et non possession)
-\dt 27/Aug/2015
+\xv no˧-ɳɯ˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
+\xe You teach me a great deal! (Context: expression of gratitude on the part of the linguist. The sentence could also be used ironically, in the course of a conversation: “What great things you're teaching me!”)
+\xn 你教我很多！（情景：调查者对合作人表示欣赏与感激。这句话，在摩梭人的对话中，也可以有幽默或讽刺的用法：“你教我的，有一点多！”）
+\xf Tu m'apprends de nombreuses choses (au sujet de la langue et la culture na)! (Contexte: expression de gratitude de la part du linguiste envers la consultante. Dans la conversation courante, la phrase est plutôt utilisée ironiquement: «Tu contribues grandement à mon édification!», «Te voilà qui m'apprends là des choses fort importantes!»
+\xc <type="tone" langue="fra"> L'expression |fg{1sg-dat} porte ici un schéma tonal M.M (...|fv{njɤ˧-ki˧}), qui est régulier.
+\xv no˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
+\xe As above.
+\xn 同上。
+\xf Idem ci-dessus.
 
 \lx dzo˩pʰv̩˩
 \or zzopu
@@ -13579,13 +13605,33 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> yyyy à vérifier: il s'agit peut-être simplement d'exemples de "oui",  /ĩ/, qui n'avaient pas été reconnus comme tels.
 \de Interjection.
 \ge |fg{intj}
 \dn 感叹词
 \gn 感叹词
 \df Interjection.
 \gf |fg{intj}
-\dt 24/Apr/2017
+
+\lx te
+\or dei rrrr
+\ps intj
+\ton 0
+\lc te!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so <print="n"> F4
+\de Interjection: Well done!
+\ge |fg{intj}.bravo
+\dn 感叹词：恭喜！佩服！
+\gn 感叹词：恭喜
+\df Interjection: bravo!
+\gf |fg{intj}.bravo
+\xv te! | no˧ | ʐwæ˩-ze˥!
+\xe Excellent! You are great!
+\xn 恭喜！你很利害！
+\xf Bravo! Tu es épatant! / Félicitations!
+\rf <type="texte" doi="pangloss-0004589#S92"> ComingOfAge2.92
 
 \lx ə˧bɑ˩-lɑ˩bɑ˩
 \sf <nb="B"> 2315
@@ -13616,7 +13662,6 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> +ɲi˩
 \nt <type="hist" langue="fra" print="n"> +ɲi˩
 \np phonétiquement proche de …tɕi˧li˧; noté ainsi jusqu'en 2011
 \ton M
@@ -22431,12 +22476,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L+H#
 \so <print="n"> F4
 \pdv ɭɯ˧
+\cf ʐɤ˩ko˩
+\cf ʐɤ˩ko˩-zo˩
 \pdv pʰo˧˥
-\de Heifer; also used for a female pianniu: hybrid of yak and cattle.
+\de Heifer.
 \ge heifer
 \dn 小牝牛（包括黄牛和小母犏牛）
 \gn 小牝牛
-\df Génisse; s'emploie pour une petite vache, aussi bien que pour le pianniu (tibétain: dzomo).
+\df Génisse.
 \gf génisse
 \dt 24/Apr/2017
 
@@ -49440,9 +49487,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xv ʁɑ˩mi˥-ze˩ | æ˩sæ˥!
 \xe Thank you! (Polite formulation)
 \xn 谢谢！（礼貌说法）
-\xf Merci! (Formulation
-
-\dt 01/Oct/2015
+\xf Merci! (Formulation polie)
 
 \lx ʁæ˧ŋv̩˥
 \sf <nb="B"> 419
@@ -54791,7 +54836,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to choose good ones
 \xn 挑好的
 \xf choisir les plus beaux; en choisir de beaux (par exemple: sur la montagne, lorsqu'on choisit des arbres à abattre pour en tirer du bois de charpente)
-\dt 05/Oct/2015
+\xv le˧-si˥~si˩ | le˧-dzɯ˥! manger en choisissant (avec les baguettes) ce qu'on veut manger.
+\xe Pick and choose what you like! / Pick and choose what you want to eat! (Context: telling a guest who is finishing up a stir-fried dish to pick and choose as he likes, with chopsticks, without feeling pressure to eat every bit: for instance leaving out hot peppers, onion stems and such.)
+\xn 挑着吃吧！(语境：客人拿起一盘菜，准备吃完。主妇（阿妈）告诉他可以选择他想吃的东西（用筷子一口一口地夹菜），而不必吃掉整盘的全部内容。如：可以不吃炒菜里的辣椒和葱。）
+\xf Prends ce qui te plaît! / Choisis comme tu l'entends ce que tu veux manger! (Contexte: un convive prend un plat et se met en devoir de l'achever; la mère de famille lui dit de choisir ce qu'il veut (en prélevant bouchée par bouchée avec ses baguettes), sans se sentir obligé de manger tout le contenu du plat. Ce qui encourage à laisser de côté les piments et les tiges d'oignon, par exemple.)
 
 \lx so˩
 \sf <nb="B"> 813
@@ -75061,7 +75109,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \ton L
 \lc ʐɤ˩qo˩˥
-\sn 1
+\cf ʝi˩di˩-mi˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire
@@ -75073,14 +75121,38 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 小牛
 \df Veau.
 \gf veau
-\sn 2
-\de Male pianniu (hybrid of yak and cattle).
-\ge male_pianniu
-\dn 公犏牛
-\gn 公犏牛
-\df Pianniu, pienniu, dzo, zopiok (mâle).
-\gf pianniu_mâle
-\dt 07/Oct/2015
+
+\lx ʐɤ˩qo˩-zo˩
+\or reghosso rrrr
+\ps n
+\ton L
+\lc ʐɤ˩qo˩zo˩˥
+\cf ʐɤ˩qo˩
+\cf ʝi˩di˩-mi˥
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\so <print="n"> F4
+\pdv ɭɯ˧
+\de Calf.
+\ge calf
+\dn 小牛
+\gn 小牛
+\df Veau.
+\gf veau
+
+\lx tsɤ˧ɖɯ˧mɤ˧-kv̩˩hĩ˩
+\or rrrr
+\ps n
+\ton -L
+\lc tsɤ˧ɖɯ˧mɤ˧kv̩˩hĩ˩
+\pdv mi˩
+\pdv pʰo˧˥
+\de Pianniu (hybrid of yak and cattle).
+\ge pianniu
+\dn 犏牛
+\gn 犏牛
+\df Pianniu, pienniu, dzo, zopiok (mâle ou femelle).
+\gf pianniu
 
 \lx zo˧ʂv̩˧kʰv̩˥-ɲi˩tʰv̩˩
 \sf <nb="B"> 380
@@ -77500,6 +77572,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 跟不同声调类型的名词结合。
 \xf combinaisons avec les diverses catégories tonales de noms
 \xc PHONO
+\xv no˧ | njɤ˧-ki˩ tsʰɯ˩.
+\xe You arrive at my place.
+\xn 你到我这里。
+\xf Tu arrives chez moi.
+\xc PHONO
+\xv no˧ | njɤ˧-ki˧ tsʰɯ˧˥.
+\xe As above.
+\xn 同上。
+\xf Idem ci-dessus.
+\xc PHONO
 
 \lx -ki˧
 \sf <nb="2011"> 3361
@@ -77530,7 +77612,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe Ama teaches me the Na language!
 \xn 阿妈教我摩梭话！
 \xf Ama m'enseigne la langue na!
-\dt 05/Jul/2017
+\xv no˧ | njɤ˧-ki˧ so˥.
+\xe You teach me.
+\xn 你教我。
+\xf Tu m'apprends des choses. / Tu m'enseignes des choses.
+\xc <type="tone" langue="fra"> L'expression |fg{1sg-dat} porte ici un schéma tonal M.M (...|fv{njɤ˧-ki˧}), qui est son schéma tonal régulier.
 
 \lx -kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
