@@ -14,6 +14,8 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
+\va <speaker="M23"> æ˩˧
+\va Pas de nasalité.
 \pdv mi˩
 \de Chicken.
 \ge chicken
@@ -52,7 +54,7 @@
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" langue="fra" print="n"> à l'isolée, homophone de «poulet». C'est également la même voyelle que dans la première syllabe de «miroir».
+\nt <type="hist" langue="fra" print="n"> À l'isolée, homophone de «poulet». C'est également la même voyelle que dans la première syllabe de «miroir».
 \nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
 \ton LH
 \lc æ̃˩˥
@@ -64,7 +66,6 @@
 \gn 灵魂
 \df Âme (monosyllabe).
 \gf âme
-\dt 25/Aug/2015
 
 \lx æ̃˥
 \sf <nb="B"> 68
@@ -75,17 +76,18 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" langue="fra" print="n"> selon M23: pas de nasalité sur cette syllabe; est bien la même syllabe que dans «poulet" (composé «cuivre rouge": avant 2009: noté æ˧hṽ̩˥; hésitations: æ˥hṽ̩˩˥; visiblement: pb avec la question en 2006; en 2007: corrige en: æ˩hṽ̩˥ puis æ˩hṽ̩˧)
+\nt <type="hist" langue="fra" print="n"> L'élicitation du composé |fn{红铜}, littéralement «cuivre rouge», aboutit à un calque créé pour la circonstance, avec les hésitations qu'on peut imaginer, et une fluctuation phonologique: tantôt |fv{‡æ˥hṽ̩˩˥} (en 2006), tantôt |fv{‡æ˩hṽ̩˥} puis |fv{‡æ˩hṽ̩˧} (en 2007), tantôt |fv{‡æ˧hṽ̩˥} (en 2008). En 2009: il ressort que cette expression n'est pas usitée.
 \ton H
 \lc æ̃˧
 \so <print="n"> F4
 \va <speaker="F5"> æ̃˧
-\vf ton différent de celui de la locutrice F4
+\vf Ton différent de celui de la locutrice de référence.
 \vf <type="tone"> M
 \va <speaker="M18"> æ˧
 \va <speaker="M21"> æ˧
-\vf même ton que celui de la locutrice F4
 \va <speaker="M23"> æ˧
+\vf Ton différent de celui de la locutrice de référence.
+\vf Pas de nasalité sur cette syllabe, non plus que dans le mot «poulet».
 \de Brass, copper, bronze.
 \ge brass
 \dn 铜，包括黄铜、红铜、青铜
@@ -114,7 +116,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> identification tonale confirmée: appartient à la catégorie tonale LM, celle du type «porc»
+\nt <type="hist" langue="fra" print="n"> Identification tonale confirmée: appartient à la catégorie tonale LM, celle du type «porc».
 \ton LM
 \lc ɑ˩˥
 \so <print="n"> F4
@@ -148,7 +150,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> phonétiquement: [æ˧bæ˧], non nasal; vérifié en août 2014
+\nt <type="hist" langue="fra" print="n"> Non nasal (vérifié en août 2014). Phonétiquement: [æ˧bæ˧]; hésité à analyser comme /æ˧bæ˧/ ou /ə˧bæ˧/.
 \ton M
 \lc æ˧bæ˧
 \so <print="n"> F4
@@ -160,14 +162,13 @@
 \gn 甲状腺肿瘤
 \df Goître.
 \gf goître
-\dt 25/Aug/2015
 
 \lx æ˧bæ˧-ʈʂʰæ˧ɣɯ#˥
 \or aebbae chaehree
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014
+\nt <type="hist" langue="fra" print="n"> Absence de nasalité vérifiée en août 2014.
 \ton #H
 \lc æ˧bæ˧ʈʂʰæ˧ɣɯ˧
 \so <print="n"> F4
@@ -177,7 +178,6 @@
 \gn 海带
 \df Algue; littéralement «médicament contre le goître» car tel était le motif de la diffusion à Yongning de l'algue, qui contient de l'iode.
 \gf algue
-\dt 11/May/2017
 
 \lx æ̃˩bi˩
 \or Aenbbi
@@ -185,15 +185,15 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
-\np <langue="fra"> indication de Roselle: «/w̃æ.bi/. The speaker who told me this word comes from the Yunnan side (阿古瓦 in Chinese), north of where your Ama comes from."
+\nt <type="dialect" langue="eng"> Indication from Roselle Dobbs: this name is /|fv{w̃æ.bi}/ in the village of Aggowua |fn{阿古瓦}, north of Alawua.
 \ton L
 \lc æ̃˩bi˩˥
 \so <print="n"> F4
-\de A village just over the river on the Sichuan side of road to Qiansuo.
-\ge Aenbbi.place_name
-\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落
+\de Aenbbi, a village just over the river on the Sichuan side of the road to Qiansuo.
+\ge Aenbbi.village_name
+\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047,27.80191
 \gn 阿比村
-\df Aenbbi: village sur le chemin de Qiansuo.
+\df Aenbbi: village sur le chemin de Qiansuo depuis Alawua.
 \gf Aenbbi.nom_de_lieu
 \xv æ̃˩bi˩-ʁwɤ˥
 \xe same meaning: the village of Aenbbi, |fv{/æ̃˩bi˩/}
@@ -210,8 +210,8 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> (schéma tonal régulier)
-\nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014
+\nt <type="hist" langue="fra" print="n"> Le composé présente un schéma tonal régulier.
+\nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
 \ton LH
 \lc æ̃˩bv̩˥
 \so <print="n"> F4
@@ -232,18 +232,19 @@
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
-\nt <type="hist" langue="fra" print="n"> Vérifié en août 2014: non nasalisé. En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
+\nt <type="hist" langue="fra" print="n"> Vérifié en août 2014: non nasalisé.
+\nt <type="hist" langue="fra" print="n"> En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
 \ton L
 \lc æ˩gv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv nɑ˧
-\de Ard. There are no distinct words for ‘ard' and ‘plough'; only ards were in use at the time of fieldwork.
+\de Ard. There are no distinct words for ‘ard' (symmetrical) and ‘plough' (asymmetrical). Only ards were in use at the time of fieldwork (2006).
 \ge ard
-\dn 犁头
+\dn 犁头（摩梭话不区分对称和不对称的犁，2006年调查时用的是对称的犁）
 \gn 犁头
-\df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire et l'autre pour la charrue; à la date de l'enquête, seule l'araire était en usage.
+\df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire (symétrique) et l'autre pour la charrue (dissymétrique). À la date de l'enquête (2006), seule l'araire était en usage.
 \gf araire
 \xv æ˩gv̩˩ tʰv̩˩-nɑ˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
@@ -576,17 +577,16 @@
 \ton LM+#H
 \lc æ˩mi˧ʁwɤ˧
 \so <print="n"> F4
-\de Amiwa. This is the first village along the road from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}. In traditional Na geography, which takes Lugu Lake as a point of origin, Amiwa is the third village of the plain.
-\ge Amiwa.place_name
-\dn 阿咪瓦、阿米瓦（永宁坝子的一个村落）
+\de Aemiwua. This is the first village along the road from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}. In traditional Na geography, which takes Lugu Lake as a point of origin, Aemiwua is the third village of the plain.
+\ge Aemiwua.place_name
+\dn 阿咪瓦、阿米瓦（永宁坝子的一个村落）。经纬度：100.66367,27.77579
 \gn 阿咪瓦村
-\df Amiwa, premier village que l'on rencontre sur la route entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}. Dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu, Amiwa est le troisième village de la plaine de Yongning.
-\gf Amiwa.nom_de_lieu
+\df Aemiwua, premier village que l'on rencontre sur la route entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}. Dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu, Aemiwua est le troisième village de la plaine de Yongning.
+\gf Aemiwua.nom_de_lieu
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten villages traditionally considered as part of Yongning.
 \xn 摩梭传统地理概念中，属于永宁的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎拉、开基、拖支
 \xf Les dix villages comptant traditionnellement comme faisant partie de Yongning.
-\dt 11/May/2017
 
 \lx ɑ˩mi#˥
 \or omi
@@ -998,7 +998,7 @@
 \so <print="n"> F4
 \de Name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain (``the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} (``the young woman": |fv{/mi˩zɯ˩˥/}).
 \ge name_of_a_mountain
-\dn 一座山的名字：安山。位于永宁坝的西面，格姆女神山的对面。
+\dn 一座山的名字：安山，也称作‘阿沙五’。位于永宁坝的西面，格姆女神山的对面。经纬度：100.63379,27.74883
 \gn 一座山的名字
 \df Nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}).
 \gf nom_d_une_montagne
@@ -2213,17 +2213,16 @@
 \xf même sens: le village de |fv{/bæ˧ʁwɤ˧/}
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv bæ˧ʁwɤ˧: | nɑ˩˥!
-\xe |fv{/bæ˧ʁwɤ˧/} is a Na village!
+\xe Bbaewua |fv{/bæ˧ʁwɤ˧/} is a Na village!
 \xn |fv{/bæ˧ʁwɤ˧/}是一个摩梭人村落！
-\xf |fv{/bæ˧ʁwɤ˧/}, c'est un village na!
+\xf Bbaewua |fv{/bæ˧ʁwɤ˧/}, c'est un village na!
 \xv bæ˧ʁwɤ˧-nɑ˩
-\xe Na (Mosuo) people from |fv{/bæ˧ʁwɤ˧/}.
+\xe Na (Mosuo) people from Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 \xn 巴瓦摩梭
-\xf Les Na (Mosuo) de |fv{/bæ˧ʁwɤ˧/}.
-\dt 12/May/2017
+\xf Les Na (Mosuo) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 
 \lx bæ˩ʈʂo˥
 \sf <nb="B"> 492
@@ -3467,7 +3466,7 @@
 \so <print="n"> F4
 \de A village in Yongning.
 \ge village_name
-\dn 八珠（永宁坝子的一个村落）
+\dn 八珠（永宁坝子的一个村落）。经纬度：100.70505,27.74451
 \gn 八珠村
 \df Un des villages de la plaine de Yongning.
 \gf nom_de_village
@@ -3939,15 +3938,15 @@
 \lc bɤ˩tɕʰɯ˩˥
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 3e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 3e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton L
 \so <print="n"> F4
-\de A village in the plain of Lijiang.
-\ge village_name
-\dn 八旗（永宁坝子的一个村落，也称作‘八七’）
+\de Bbeqi: a village in the plain of Yongning, just across the river from the Yongning administrative centre.
+\ge Bbeqi_village_name
+\dn 八旗（永宁坝子的一个村落，也称作‘八七’）。经纬度：100.66084,27.74959
 \gn 八旗村
-\df Un des villages de la plaine de Yongning.
-\gf nom de village
+\df Un des villages de la plaine de Yongning, tout proche du centre administratif de Yongning: juste de l'autre côté de la rivière.
+\gf Bbeqi_nom_de_village
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
@@ -4015,12 +4014,12 @@
 \lc bɤ˧tsʰo˧gv̩˥
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 15e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 15e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton H#
 \so <print="n"> F4
 \de A village of the Lijiang plain: the central village of the plain, where the marketplace was still located in the early 21st century.
 \ge village_name
-\dn 巴搓古（永宁坝子的一个村落）
+\dn 巴搓古（永宁坝子的一个村落），在今永宁乡中心。经纬度：100.66164,27.75625
 \gn 巴搓古村
 \df Un des villages de la plaine de Yongning; lieu de l'actuel marché; terme également employé pour désigner le lieu d'habitation des artisans naxi.
 \gf nom_de_village
@@ -5523,7 +5522,7 @@
 \gn 米
 \df Riz (monosyllabe).
 \gf riz
-\xv ɕɯ˧ tv̩˧ xxxx ɕɯ ou ɕi?
+\xv ɕi˧ tv̩˧
 \xe to plant rice
 \xn 种稻谷
 \xf planter le riz
@@ -6569,7 +6568,7 @@
 \so <print="n"> F4
 \de The Yongning monastery.
 \ge Yongning_monastery
-\dn 永宁大寺
+\dn 永宁大寺（扎美寺）。经纬度：100.66145,27.76501
 \gn 永宁大寺
 \df Nom du temple de Yongning.
 \gf temple_de_Yongning
@@ -6638,9 +6637,9 @@
 \ton H#
 \lc dɑ˧pʰo˥
 \so <print="n"> F4
-\de Ddapo.
+\de Ddapo (a village name).
 \ge Ddapo_village
-\dn 达坡（永宁坝子的一个村落）
+\dn 达坡（永宁坝子的一个村落）。经纬度：100.68455,27.74073
 \gn 达坡村
 \df Ddapo (nom de village).
 \gf village_de_Ddapo
@@ -6705,13 +6704,12 @@
 \ton #H
 \lc dɑ˧ʁwɤ˧
 \so <print="n"> F4
-\de A village downstream from Qiansuo; the language spoken there is reported to be close to that of the Yongning plain.
-\ge village_name
-\dn 达瓦村：四川凉山州木里县、盐源县、丽江市宁蒗县交界的一个村落，在前所的下游。
+\de Ddawua, a village downstream from Qiansuo. The language spoken there is reported to be close to that of the Yongning plain.
+\ge Ddawua_village_name
+\dn 达瓦村（也称作‘大洼’：凉山彝族自治州盐源县泸沽湖镇大洼）：四川凉山州木里县、盐源县、丽江市宁蒗县交界的一个村落，在前所的下游。经纬度：100.89630,27.85735
 \gn 达瓦村
-\df Un village en aval de Qiansuo; la langue parlée là-bas serait relativement proche de celle de la plaine de Yongning.
-\gf nom_de_village
-\dt 27/Aug/2015
+\df Ddawua, un village en aval de Qiansuo. La langue parlée là-bas serait relativement proche de celle de la plaine de Yongning.
+\gf Ddawua_nom_de_village
 
 \lx ɖæ˩ʂo˩
 \or shoq
@@ -6750,16 +6748,16 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 1er village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu. Ce village est situé au bord du lac.
+\nt <type="sem"> 1er village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu. Ce village est situé au bord du lac.
 \ton LM+#H
 \lc ɖæ˩ʂɯ˥
 \so <print="n"> F4
-\de A village name.
-\ge village_name
-\dn 扎实（永宁坝子的一个村落）
+\de Ddaeshi, a village name.
+\ge Ddaeshi_village_name
+\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828,27.72497
 \gn 扎实村
-\df Nom de village.
-\gf nom_de_village
+\df Nom de village: Ddaeshi.
+\gf nom_de_village_Ddaeshi
 \xv ɖæ˩ʂɯ˧-ʁwɤ#˥
 \xe same meaning
 \xn 同上：扎实村
@@ -9089,9 +9087,10 @@
 \xn 者波家族
 \xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
 \sn 2
+\nt <type="hist" langue="fra" print="n"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575,27.81762
 \de A village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
 \ge village_name
-\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’.
+\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’。经纬度：100.71124,27.76531
 \gn 者波村
 \df Zhebo, un village de la plaine de Yongning. Il est divisé en deux parties, «du haut» et «du bas»: |fv{/gɤ˩ʁwɤ˧/} et |fv{/mv̩˩ʁwɤ˧/}.
 \gf nom_de_village
@@ -10588,15 +10587,19 @@
 \gn 存在动词：有/在
 \df Existentiel pour les êtres animés (dont les personnes).
 \gf |fg{exist.êtres_animés}
-\xv mɤ˧-dʑo˩
-\xe |fg{neg}
-\xn 没有、不在
-\xf |fg{neg}
 \xv ʈʂʰɯ˧ | ɑ˩ʁo˧ mɤ˧-dʑo˩!
 \xe (S)he is not at home!
 \xn 他不在家！
 \xf Il/elle n'est pas à la maison!
-\dt 24/Apr/2017
+\xv hĩ˧-ʈʂʰɯ˧, | ə˧tso˧ mɤ˧-ɲi˩ | hĩ˧ F | dʑo˩˥, ◊ ə˩-ɡi˩!
+\xe There's all kinds of people, right!
+\xn 人吧，什么人都有，对吧！
+\xf Les gens... il y en a de toutes sortes, n'est-ce pas!
+\xv mɤ˧-dʑo˩
+\xe |fg{neg}
+\xn 没有、不在
+\xf |fg{neg}
+\xc PHONO
 
 \lx dʑo˧β
 \sf <nb="B"> 1776
@@ -10822,13 +10825,13 @@
 \lc dʑɤ˩bv̩˧kɤ˧sɑ˥ʁwɤ˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 10e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu. (Aussi désigné par le mot chinois: kɤ˧mi˩)
+\nt <type="sem"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu. (Aussi désigné par le mot chinois: kɤ˧mi˩)
 \np <langue="fra"> formé de: dʑɤ˩bv̩˧kɤ˧˥+sɑ˧ʁwɤ˩
 \ton LM+MH#-
 \so <print="n"> F4
-\de Gaoming, a village north-east of Yongning).
+\de Gaoming, a village north-east of Yongning.
 \ge village_name
-\dn 高明 （摩梭话名称的汉译：佳部嘎萨瓦、也称作嘎撒瓦）（永宁坝子的一个村落）
+\dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
 \gn 高明村
 \df Gaoming, un village au nord-est de Yongning.
 \gf nom_de_village
@@ -10838,6 +10841,24 @@
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
 \dt 24/Apr/2017
 
+\lx kɤ˧mi˩
+\or Gemiq rrrr
+\bw <langue="cmn"> 高明
+\ps n
+\lc kɤ˧mi˩
+\cf dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\nt <type="sem"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
+\ton L#
+\so <print="n"> F4
+\de Gaoming, the Chinese name of a village north-east of Yongning. Name in Na: Jjabbuge Sawua.
+\ge Gaoming_village_name.
+\dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
+\gn 高明村
+\df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbuge Sawua.
+\gf Gaoming_nom_de_village
+
 \lx dʑɤ˩bv̩˥-ʁwɤ˩
 \sf <nb="2011"> 3330
 \or Jjabbuwua
@@ -10846,17 +10867,16 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra" print="n"> avant 2014: noté /dʑɤ˩bv̩˧-ʁwɤ˩/
-\nt <type="sem"> 11e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
-\np <langue="fra"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bv̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bv̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
+\nt <type="sem"> 11e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
+\nt <langue="fra" type="tone"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bv̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bv̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
 \ton LH-
 \so <print="n"> F4
-\de Jiabowa (name of a village).
-\ge Jiabowa
-\dn 甲波瓦（永宁坝子的一个村落）
+\de Jjabbuwua (name of a village).
+\ge Jjabbuwua
+\dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344,27.78509
 \gn 甲波瓦村
-\df Jiabowa (nom de village).
-\gf Jiabowa
-\dt 24/Apr/2017
+\df Jjabbuwua (nom de village).
+\gf Jjabbuwua
 
 \lx dʑɤ˩ɕjɤ˩
 \sf <nb="B"> 433
@@ -14021,13 +14041,13 @@
 \so <print="n"> F4
 \de Name of a village of the Hot Springs area.
 \ge village_name
-\dn 阿公瓦村：温泉乡的一个村落
-\gn 阿公瓦村
+\dn 阿古瓦村：温泉乡的一个村落。经纬度：100.70133,27.79405
+\gn 阿古瓦村
 \df Un village proche de Wenquan.
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \dt 24/Apr/2017
 
@@ -15605,7 +15625,7 @@
 \so <print="n"> F4
 \de The name of a village located about 1,500 meters West of |fv{/ə˧lɑ˧-ʁwɤ#˥/}: to the left when leaving the plain of Yongning towards Eya; Chinese: Gaer.
 \ge village_name
-\dn 嘎尔村，80年代起行政称作嘎拉村民小组。
+\dn 嘎尔村，80年代起行政称作嘎拉村民小组。经纬度：100.64822,27.763942
 \gn 嘎尔村
 \df Village situé à environ 1,5 km à l'ouest de |fv{/ə˧lɑ˧-ʁwɤ#˥/}: à main gauche en sortant de la vallée de Yongning, en direction de Eya. En chinois: Gaer.
 \gf nom_de_village
@@ -19018,6 +19038,26 @@
 \xn 我看了湖。
 \xf J'ai regardé le lac.
 \xc PHONO
+\xv hi˩ gwɤ˥
+\xe to take a (boat) trip on the lake
+\xn （乘船）游湖
+\xf faire un tour (en bateau) sur le lac
+\xv hi˩ gwɤ˥-bi˩
+\xe to go and take a (boat) trip on the lake
+\xn 去（乘船）游湖
+\xf aller faire un tour (en bateau) sur le lac
+\xc PHONO
+\xv hi˩ gwɤ˥-ze˩
+\xe ...went on a (boat) trip on the lake
+\xn （乘船）游湖了
+\xf ...est allé faire un tour (en bateau) sur le lac
+\xc PHONO
+\xc <type="phono" langue="fra"> Cet exemple établit que le ton de |fv{hi˩ gwɤ˥} est LH et non LM.
+\xv hi˩ gwɤ˥-kʰi˩
+\xe ...went on a (boat) trip on the lake
+\xn （乘船）游湖了
+\xf ...est allé faire un tour (en bateau) sur le lac
+\xc PHONO
 
 \lx hi˩
 \hm 2
@@ -19299,7 +19339,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Lui, il sait travailler vite!
 \dt 01/Jul/2018
 
-\lx hi˩mi˩
+\lx ɕi˩mi˩
 \sf <nb="B"> 125
 \sf <nb="2011"> 187
 \or xiemi
@@ -19307,8 +19347,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> proverbe: d'abord noté õ˧˥ lɑ˥ ɖʐv̩˩, par erreur; vérifié en avril 2012.
+\nt <type="hist" langue="fra" print="n"> Corrigé en juin 2024 de /hi˩mi˩/ en /ɕi˩mi˩/. (Il y avait déjà des exemples avec notation /ɕi/.)
 \ton L
-\lc hi˩mi˩˥
+\lc ɕi˩mi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -19320,7 +19361,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 舌头
 \df Langue.
 \gf langue
-\xv hi˩mi˩˥, | ɻ̍̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
+\xv ɕi˩mi˩˥, | ɻ̍̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
 \xe The tongue has no bone! Only oneself knows what one is going to say! (Proverb meaning that one is responsible for one's speech: only oneself knows whether one is telling the truth or not.)
 \xn “舌头没有骨头。讲的是什么（=是否真的），只有自己才知道！”（谚语）
 \xf «La langue n'a pas d'os! Ce qu'on dit, soi seul sait (si c'est la vérité)!»
@@ -19545,7 +19586,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 12e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 12e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \np <langue="fra"> … ɲi˩
 \ton L-M
 \lc hi˩ʁwɤ˩lo˥
@@ -22215,6 +22256,60 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \dt 02/Sep/2015
 
+\lx ʝi˧nɑ˥
+\or yina
+\ps n
+\lc ʝi˧nɑ˥
+\cf ʝi˥1
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton H#
+\so <print="n"> F4
+\pdv pʰo˧˥
+\pdv mi˩
+\de Black ox.
+\ge black_ox
+\dn 黑牛
+\gn 黑牛
+\df Vache noire.
+\gf vache_noire
+
+\lx ʝi˧pʰv̩˧˥
+\or yipu
+\ps n
+\lc ʝi˧pʰv̩˧˥
+\cf ʝi˥1
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton MH
+\so <print="n"> F4
+\pdv pʰo˧˥
+\pdv mi˩
+\de White ox.
+\ge black_ox
+\dn 白牛
+\gn 白牛
+\df Vache blanche.
+\gf vache_blanche
+
+\lx ʝi˧hṽ̩˧˥
+\or yihun
+\ps n
+\lc ʝi˧hṽ̩˧˥
+\cf ʝi˥1
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton MH
+\so <print="n"> F4
+\pdv pʰo˧˥
+\pdv mi˩
+\de Chestnut-coloured ox.
+\ge ox_of_chestnut_colour
+\dn 栗色牛
+\gn 栗色牛
+\df Vache de couleur alezane, de couleur châtain.
+\gf vache_alezan
+
 \lx dʑɯ˧ʝi#˥
 \or jjiqyi rrrr
 \ps n
@@ -22534,8 +22629,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L+H#
 \so <print="n"> F4
 \pdv ɭɯ˧
-\cf ʐɤ˩ko˩
-\cf ʐɤ˩ko˩-zo˩
+\cf ʐɤ˩qo˩
+\cf ʐɤ˩qo˩-zo˩
 \pdv pʰo˧˥
 \de Heifer.
 \ge heifer
@@ -22544,6 +22639,35 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Génisse.
 \gf génisse
 \dt 24/Apr/2017
+
+\lx ʝi˧
+\hm 2
+\or yi
+\ps n
+\lc ʝi˧
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="sem"> sans doute mot ancien; perçu par F4 comme le même mot que dans ʝi˧-kʰv̩˥ ‘certains'; n'est pas perçu comme un emprunt chinois. Mot marginal.
+\ton M
+\so <print="n"> F4
+\de One (restricted use: only in association with |fv{ɭɯ˧}).
+\ge one
+\dn 一
+\gn 一
+\df Un (numéral, à emploi restreint; ne se combine qu'avec le classificateur |fv{ɭɯ˧}).
+\gf un
+\xv zo˧mv̩˥ | ʝi˧-ɭɯ˧ ʂv̩˧
+\xe to take care of a child
+\xn 管一个孩子
+\xf s'occuper d'un enfant
+\xv ʐɯ˧ | ʝi˧-ɭɯ˧
+\xe a pot of wine
+\xn 一壶酒
+\xf un pot de vin, une petite jarre de vin
+\xv qʰwɤ˩˥ | ʝi˧-ɭɯ˧
+\xe a bowl
+\xn 一个碗
+\xf un bol
 
 \lx ʝi˧-kʰv̩˩
 \hm 1
@@ -22745,15 +22869,23 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 往后仰
 \df Se courber vers l’arrière.
 \gf se_courber_vers_l_arrière
-\xv ʝi˩ŋɤ˧-ze˥
-\xe |fg{pfv}
-\xn 往后仰了
-\xf |fg{pfv}
 \xv ʝi˩ŋɤ˧˥ | tʰi˧-dzi˩
 \xe to be seated leaning backwards, to lean against the back of one's seat
 \xn 坐着往后仰
 \xf être assis en s'inclinant vers l'arrière
-\dt 24/Jul/2017
+\xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˥!
+\xe Walk upright! / Keep your back straight as you walk!
+\xn 走路，直一点！
+\xf Tiens-toi un peu droit(e) en marchant!
+\xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˧-ɻ˥!
+\xe As above.
+\xn 同上。
+\xf Idem ci-dessus.
+\xv ʝi˩ŋɤ˧-ze˥
+\xe |fg{pfv}
+\xn 往后仰了
+\xf |fg{pfv}
+\xc PHONO
 
 \lx ʝi˧pʰv̩#˥
 \or yipu
@@ -22841,13 +22973,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥
-\de Cow, beef.
-\ge cow/beef
+\pdv mi˩
+\de Yellow cow / beef.
+\ge yellow_cow
 \dn 黄牛
 \gn 黄牛
-\df Vache, bœuf.
-\gf vache/bœuf
-\dt 02/Sep/2015
+\df Vache/bœuf jaune.
+\gf vache_jaune
 
 \lx ʝi˧ʁo#˥
 \sf <nb="B"> 1066
@@ -22876,7 +23008,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe It's an able/competent person.
 \xn 他是一个能干/称职的人。
 \xf c'est quelqu'un d'habile/de capable
-\xv ʝi˧ʁo˧-zo˥
+\xv ʝi˧ʁo˧-zo#˥
 \xe a competent lad, a capable fellow
 \xn 一个能干的男人
 \xf un homme capable/habile, un gaillard compétent
@@ -23240,6 +23372,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf (Demain, je) ne viendrai pas! (Contexte: quelqu'un qui rend visite presque chaque jour explique qu'il ne viendra pas le lendemain.)
 
 \lx jo˥
+\hm 1
 \or yo rrrr
 \bw <langue="cmn"> 用
 \ps v
@@ -23279,6 +23412,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sf <nb="B"> 2286n
 \sf <nb="2011"> 572
 \or yo
+\hm 2
 \bw <langue="cmn"> 玉
 \ps n
 \sd <langue="fra"> vêtement
@@ -24854,45 +24988,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe wine bottle
 \xn 酒瓶
 \xf bouteille d'alcool
-\xv ʐɯ˧ ɖɯ˧-kɤ˩
-\xe one bottle of wine
-\xn 一瓶酒
-\xf une bouteille d'alcool
-\dt 15/Jun/2017
-
-\lx kɤ˩˧
-\sf <nb="B"> 1797
-\sf <nb="2011"> 2689
-\or geq
-\ps n
-\sd <langue="fra"> animal
-\sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> LM confirmé type “porc"
-\ton LM
-\lc kɤ˩˥
-\so <print="n"> F4
-\va <speaker="F5"> *
-\va <speaker="M21"> kɤ˩˧, ton m1
-\vf l'oppose à kɤ˧˥, ton m4: instrument servant à verser le vin
-\va <speaker="M23"> ID.
-\pdv mi˩
-\de Falcon.
-\ge falcon
-\dn 隼、“小鹰”
-\gn 隼
-\df Buse, faucon.
-\gf faucon
-\xv kɤ˩ hwæ˧-ze˧
-\xe …bought (a) falcon
-\xn 买了隼
-\xf …a acheté (un) faucon
+\xv kɤ˩zo˩˥
+\xe small bottle
+\xn 一小瓶
+\xf petite bouteille
+\xv kɤ˧ | ɖɯ˧-ɭɯ˧ hwæ˧-ze˧
+\xe …bought a bottle
+\xn 买了瓶子
+\xf …a acheté une bouteille (d'alcool)
 \xc PHONO
-\xv kɤ˩ dzɯ˧-ze˩
-\xe …ate (a) falcon
-\xn 吃了隼
-\xf …a mangé (un) faucon
+\xv ʈʂʰɯ˧-kɤ˥
+\xe |fg{dem} 〜 (tone: H# / H$)
+\xn 指示代词 〜
+\xf |fg{dem} 〜 (tone: H# / H$)
 \xc PHONO
-\dt 03/Sep/2015
 
 \lx kɤ˧˥
 \sf <nb="B"> 1433
@@ -24907,17 +25016,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc kɤ˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\de To knock on the door.
+\de To knock on the door. (The monosyllabic form is not in common use: the reduplicated form is used.)
 \ge to_knock
-\dn 敲门
+\dn 敲门（单音节）。一般用重叠形式。
 \gn 敲门
-\df Frapper à la porte, heurter à la porte.
+\df Frapper à la porte, heurter à la porte. (La forme monosyllabique n'est pas couramment utilisée: c'est la forme rédupliquée qui est en usage.)
 \gf frapper_à_la_porte
 \xv tʰi˧-kɤ˧˥
 \xe |fg{dur}
 \xn |fg{dur}
 \xf |fg{dur}
-\dt 03/Sep/2015
 
 \lx kʰo˥
 \sf <nb="B"> 1746
@@ -25332,33 +25440,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 03/Sep/2015
 
 \lx kɤ˧mi˧
-\hm 1
-\or gemi
-\ps n
-\sd <langue="fra"> animal
-\sd <langue="eng"> animal
-\np <langue="fra"> homophone de “grande cuve", et de ce fait peu compréhensible
-\ton M
-\lc kɤ˧mi˧
-\so <print="n"> F4
-\pdv mi˩
-\de Female falcon.
-\ge female_falcon
-\dn 母隼
-\gn 母隼
-\df Faucon femelle.
-\gf faucon_femelle
-\xv kɤ˩mi˩-kɤ˩pʰv̩˥
-\xe female falcon and male falcon
-\xn 母隼与公隼
-\xf faucon femelle et faucon mâle
-\xc <type="tone"> L+H#
-\dt 03/Sep/2015
-
-\lx kɤ˧mi˧
 \sf <nb="B"> 525
 \sf <nb="2011"> 737
-\hm 2
 \or gemi
 \ps n
 \sd <langue="fra"> objet
@@ -25429,27 +25512,28 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
 
-\lx kɤ˩-nɑ˧mi˧
+\lx kɤ˩-nɑ˧mi#˥
 \sf <nb="B"> 1796
 \sf <nb="2011"> 2683
 \or genami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> +ɲi˥
-\ton L-
+\nt <type="hist" langue="fra" print="n"> Ton corrigé en juin 2024. Avais auparavant fait une note signalant que ce nom, suivi de la copule, donnait un ton H (... ɲi˥), mais n'avais pas reporté cette observation vers la forme phonologique du mot.
+\nt <type="sem" langue="fra"> La locutrice ne distingue pas plusieurs sortes de rapaces: aigle (cette entrée), faucon (|fn{隼}), buse... Le seul terme qu'elle utilise est celui-ci. Les termes élicités pour d'autres rapaces étaient des erreurs d'élicitation.
+\nt <type="phono" langue="fra"> Les deux dernières syllabes, /-nɑ.mi/, constituent manifestement un suffixe. Mais il n'existe pas de terme monosyllabique en usage pour désigner l'aigle ou autre rapace.
+\ton L-#H
 \lc kɤ˩nɑ˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv mi˩
-\de Eagle.
+\de Eagle. The same term is used by the main consultant for other birds of prey.
 \ge eagle
-\dn 老鹰
+\dn 老鹰。主合作人还将该词用于其他猛禽。
 \gn 老鹰
-\df Aigle.
+\df Aigle. Le terme est également utilisé par la locutrice principale pour les autres rapaces.
 \gf aigle
-\dt 24/Apr/2017
 
 \lx kʰɤ˩njɤ˩~kʰɤ˧njɤ˧
 \sf <nb="2011"> 1426
@@ -25488,27 +25572,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf crête
 \dt 24/Apr/2017
 
-\lx kɤ˩pʰv̩˩
-\or gepu
-\ps n
-\sd <langue="fra"> animal
-\sd <langue="eng"> animal
-\ton L
-\lc kɤ˩pʰv̩˩˥
-\so <print="n"> F4
-\pdv mi˩
-\de Male falcon.
-\ge male_falcon
-\dn 公隼
-\gn 公隼
-\df Faucon mâle.
-\gf faucon_mâle
-\xv kɤ˩pʰv̩˩-kɤ˩mi˥
-\xe male falcon and female falcon
-\xn 公隼与母隼
-\xf faucon mâle et faucon femelle
-\xc <type="tone"> L+H#
-\dt 03/Aug/2017
 
 \lx ko˩qʰɑ˧-dʑɯ#˥
 \or gokhajji
@@ -25760,32 +25823,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 03/Sep/2015
 
 \lx kɤ˩zo˩
-\hm 1
-\or gesso
-\ps n
-\sd <langue="fra"> animal
-\sd <langue="eng"> animal
-\ton L
-\lc kɤ˩zo˩˥
-\so <print="n"> F4
-\de Baby falcon.
-\ge baby_falcon
-\dn 小隼
-\gn 小隼
-\df Bébé faucon.
-\gf bébé_faucon
-\dt 03/Sep/2015
-
-\lx kɤ˩zo˩
-\hm 2
 \or gesso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\np <langue="fra"> homophone de “enfant du faucon/de la buse"
 \ton L
 \lc kɤ˩zo˩˥
 \so <print="n"> F4
+\pdv ɭɯ˧
 \de Small bottle.
 \ge small_bottle
 \dn 小瓶子
@@ -25927,15 +25972,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 量词.瓶
 \df Classificateur des bouteilles.
 \gf |fg{clf}.bouteilles
-\xv kɤ˩zo˩˥
-\xe small bottle
-\xn 一小瓶
-\xf petite bouteille
-\xv ʈʂʰɯ˧-kɤ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn 指示代词 〜
-\xf |fg{dem} 〜 (tone: H# / H$)
-\dt 24/Apr/2017
+\xv ʐɯ˧ ɖɯ˧-kɤ˩
+\xe one bottle of wine
+\xn 一瓶酒
+\xf une bouteille d'alcool
 
 \lx kɤ˧˥α
 \sf <nb="B"> 2188
@@ -28470,6 +28510,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 油也好！
 \xf l’huile aussi (y) est bonne! (variation à partir de l'exemple qui précède)
 \xc PHONO
+\xv njæ˧-sɯ˩kv̩˩ ɣɯ˩ dɑ˩ lɑ˩ | ɖɯ˧-bæ˧ mɤ˧-tsɤ˧, ◊ ə˩-ɡi˩!
+\xe It's not the same as the way we weave, is it! / [Their way of weaving] is not the same as the way we weave, is it! (Context: the consultant watches a video of Chen Zhen weaving a belt. She points out that the Na of Yongning have not maintained the tradition of belt weaving, and that the weaving technique is not the same (mobile loom in the video vs. fixed-structure loom in Yongning).
+\xn 这和我们编织的方式不一样，对吧！（语境：合作人看着陈珍老师织腰带的视频，就提出：永宁失去了制作腰带的传统，编织技术不一样。）
+\xf Ce n'est pas pareil que notre façon à nous de tisser, n'est-ce pas! (Contexte: la locutrice regarde une vidéo de Chen Zhen tissant une ceinture. Elle relève que les Na de Yongning n'ont pas conservé la tradition de tissage de ceintures, et que la technique de tissage n'est pas la même (métier à tisser mobile dans la vidéo commentée en japhug, métier à tisser fixe à Yongning).
 
 \lx lɑ˧
 \sf <nb="2011"> 1313
@@ -28896,15 +28940,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 14e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 14e village de la plaine de Yongning dans la géographie traditionnelle na, dans l'énumération qui prend comme point d'origine le lac Lugu.
 \ton H#
 \lc lɑ˧lo˧ʁwɤ˥
 \so <print="n"> F4
-\de A village of Yongning; Chinese name: Laluowa.
+\de Lalowua, a village of Yongning.
 \ge village_name
-\dn 拉洛瓦村（永宁坝子的一个村落）
+\dn 拉洛瓦村（永宁坝子的一个村落）。也称作拉鲁瓦。经纬度：100.66097,27.76789
 \gn 拉洛瓦村
-\df Un village de Yongning; prononciation chinoise: Laluowa.
+\df Lalowua, un village de Yongning; prononciation chinoise: Laluowa.
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
@@ -29018,7 +29062,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \de The name of a hamlet on the slope of the Langua mountain.
 \ge Langua_hamlet
-\dn 拉瓦村：拉瓦山上的一个村落。
+\dn 拉瓦村：拉瓦山上的一个村落。经纬度：100.65147,27.77222
 \gn 拉瓦村
 \df Nom d'un hameau qui se trouvent sur la montagne Langua.
 \gf hameau_de_Langua
@@ -33942,14 +33986,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf pousse_de_bambou
 \dt 05/Aug/2017
 
-\lx ɕɯ˧zo#˥
+\lx ɕi˧zo#˥
 \or xisso rrrr
 \ps n
-\lc ɕɯ˧zo˧
+\lc ɕi˧zo˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton #H
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> d'abord noté /ɕɯ/; vérifié soigneusement le 1er juin 2024, cf. enregistrement.
 \pdv kʰɯ˩
 \pdv qɑ˩
 \de Rice seedling.
@@ -33958,11 +34003,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 水稻秧苗
 \df Pousse de riz.
 \gf pousse_de_riz
-\xv ɕɯ˧zo˧ tv̩˩ xxxxxx
-\xv ɕɯ˧ tv̩˧ bi˧-tso˧ ɲi˥!
-\xe to pray
-\xn 重新栽种了水稻秧苗
-\xf prier
+\xv ɕi˧zo˧ tv̩˩
+\xe to plant rice seedlings
+\xn 种水稻秧苗
+\xf planter le riz, repiquer le riz
+\xv ɕi˧ tv̩˧ bi˧-tso˧ ɲi˥!
+\xe We're going to have to plant rice!
+\xn 该去种稻谷了！
+\xf Il va être temps d'aller planter le riz! / Il va falloir aller repiquer le riz!
 
 \lx mi˧ɬo#˥
 \sf <nb="B"> 88a
@@ -34610,10 +34658,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe (S)he gossips all day!
 \xn 他一天到晚都在八卦！
 \xf Il/elle ragote toute la journée!
-\xv mo˧nɑ˥-ɕi˩mi˩
-\xe same meaning: gossip
-\xn 同上：八卦、坏话
-\xf même sens: ragot, médisance
+
+\lx mo˧nɑ˥-ɕi˩mi˩
+\or mona-himi rrrr
+\et mo˧nɑ˥
+\et ɕi˩mi˩
+\ps n
+\sd <langue="fra"> langage
+\sd <langue="eng"> language
+\ton H#-
+\lc mo˧nɑ˥ɕi˩mi˩
+\so <print="n"> F4
+\de Gossip, slander.
+\ge gossip
+\dn 闲话、碎言碎语、八卦、坏话
+\gn 闲话
+\df Médisance, ragot.
+\dv mɤ˧-dʑɤ˩-hĩ˩ ʐwɤ˩
+\gf ragot
 \xv mo˧nɑ˥-ɕi˩mi˩ ʐwɤ˩
 \xe to indulge in gossip, to speak badly of others
 \xn 八卦、讲别人的坏话
@@ -34622,7 +34684,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe He's a gossiper, he talks badly of other people
 \xn 他爱八卦、爱说别人坏话
 \xf C'est un ragoteur, il est médisant
-\dt 28/Jul/2016
 
 \lx mo˧nɑ˥
 \hm 2
@@ -37406,12 +37467,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc nɑ˩tsʰi˩˥
 \cf nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
 \so <print="n"> F4
-\de Name of a mountain.
-\ge name_of_mountain
-\dn 一座山的名字：纳慈
+\de Nacee, the name of a mountain.
+\ge Nacee_name_of_mountain
+\dn 一座山的名字：纳慈，也称作‘纳刺’。经纬度：100.61742,27.77143
 \gn 一座山的名字
-\df Nom d'une montagne de Yongning.
-\gf nom_de_montagne
+\df Nacee, nom d'une montagne de Yongning.
+\gf Nacee_nom_de_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
@@ -38359,7 +38420,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \de The name of a village.
 \ge village_name
-\dn 小落水（村落名）
+\dn 小落水（村落名）。经纬度：100.76822,27.74253
 \gn 小落水（村落名）
 \df Un village du bord du Lac.
 \gf nom_de_village
@@ -42483,7 +42544,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv pi˧tsʰe˩: bɤ˩! |
 \xe |fv{/pi˧tsʰe˧/} is a Pumi village!
@@ -42760,21 +42821,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \va <speaker="F5"> ID.
 \vf “graine", /ɻæ/, prononcé proche de læ
 \va <speaker="M21"> ID.
-\de To broadcast seeds.
-\ge to_broadcast
+\de To sow seeds, to scatter seeds.
+\ge to_scatter
 \dn 撒 (撒种子)、播撒（种子）
 \gn 播
 \df Semer à la volée.
 \gf semer
 \xv ɻæ˩ pʰo˧˥
-\xe to broadcast seeds
+\xe to scatter seeds
 \xn 撒种子
 \xf semer des graines à la volée
 \xv bæ˩ pʰo˧-zo˧-ho˥-ze˩!
-\xe It's going to be time to broadcast seeds!
+\xe It's going to be time to sow seeds!
 \xn 该播撒种子了！
 \xf Il va être temps de faire les semailles!
-\dt 09/Sep/2015
 
 \lx pʰo˥
 \sf <nb="B"> 1442
@@ -42976,6 +43036,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
+\nt <type="hist" langue="fra" print="n"> Identification à confirmer avec 云南省丽江市宁蒗彝族自治县永宁镇巴家, au nord de 瓦都, 经纬度：100.66728,27.82149 xxxxtststs
 \ton L#-
 \lc pɤ˧dʑɤ˩di˩
 \so <print="n"> F4
@@ -42987,7 +43048,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \dt 27/Apr/2017
 
@@ -45472,7 +45533,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to work in a quiet, relaxed manner
 \xn 轻松工作
 \xf travailler de façon tranquille, détendue, paisible
-\dt 13/Jun/2017
+\xv dze˧kʰɤ˧˥, | qʰæ˧~qʰæ˩ mɤ˩-kv̩˩!
+\xe Commoners could never really be relaxed! (About feudal society, in which the lord's authority could at any time manifest itself in an order given to the commoners, his subjects.)
+\xn 百姓，一直不能轻松！（在封建社会中，土司的权威随时有可能体现在对平民（即他的臣民）下达的命令中。）
+\xf Les gens du commun, ils n'étaient jamais vraiment sereins / ils ne connaissaient pas la quiétude! (Au sujet de la société féodale, dans laquelle l'autorité du seigneur pouvait à tout moment se manifester par un ordre intimé aux gens du commun, ses sujets.)
 
 \lx qʰæ˧˥
 \hm 6
@@ -46331,7 +46395,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 5e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 5e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton M
 \lc qʰæ˧tɕʰi˧
 \so <print="n"> F4
@@ -47665,17 +47729,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc qv̩˧ɻ̍˧
 \so <print="n"> F4
-\de Name of a mountain in Yongning.
-\ge mountain_name
-\dn 永宁的一座山
+\de Gheu'er, the name of a mountain in Yongning.
+\ge Gheu'er_mountain_name
+\dn 永宁的一座山：古尔山。经纬度：100.63379,27.76681
 \gn 永宁的一座山
-\df Une montagne de Yongning.
-\gf nom_de_montagne
+\df Gheu'er, une montagne de Yongning.
+\gf Gheu'er_nom_de_montagne
 \xv qv̩˧ɻ̍˧-ʁo˧-qʰwɤ˥
 \xe the top of the |fv{/qv̩˧ɻ̍˧/} mountain
 \xn |fv{/qv̩˧ɻ̍˧/}山的山顶
 \xf le sommet de la montagne |fv{/qv̩˧ɻ̍˧/}
-\dt 24/Jul/2017
 
 \lx qv̩˧tɕi˥
 \sf <nb="2011"> 306
@@ -50883,7 +50946,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf coiffe_en_fils_tressés
 \dt 01/Oct/2015
 
-\lx ʁo˧pʰɤ˩-ʁo˩dv̩˩lv̩˩
+\lx ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
 \sf <nb="B"> 2098
 \sf <nb="2011"> 3232
 \or wope woddulu
@@ -50893,7 +50956,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L#-
 \lc ʁo˧pʰɤ˩ʁo˩dv̩˩lv̩˩
 \cf lɑ˩pʰɑ˩-læ˥dzi˩
-\nt <type="hist" langue="fra" print="n"> D'abord noté ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩ xxxx
+\nt <type="hist" langue="fra" print="n"> Avant juin 2024: hésité entre /ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩/ et /...lv̩˩.
 \so <print="n"> F4
 \de |fi{Eugeron breviscapus} (a type of daisy). The plant was used when washing clothes, at a time when soap was not yet widely available. It was crushed, then boiled, and the resulting liquid was used to wash clothes.
 \ge Eugeron_breviscapus
@@ -51747,19 +51810,19 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 9e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 9e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton L#-
 \lc ʁwɤ˧lɑ˩bi˩
 \so <print="n"> F4
-\de Walabie, a village of the Yongning plain. It is inhabited by both Na and Pumi.
-\ge Walabie
-\dn 瓦拉比，也称作瓦拉别（永宁的一个村落）
+\de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
+\ge Wualabbi_village
+\dn 温泉村（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。
 \gn 瓦拉比村
-\df Walabie, un village de la plaine de Yongning. Il est peuplé de Na et de Pumi.
-\gf village_de_Walabie
+\df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi.
+\gf village_de_Wualabbi
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \dt 27/Apr/2017
 
@@ -51842,19 +51905,19 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc ʁwɤ˧tv̩˧
 \so <print="n"> F4
-\de A village near the Hot Springs.
-\ge village_name
-\dn 瓦都村：温泉乡的一个村落
+\de Wuadu, a village near the Hot Springs.
+\ge village_name_Wuadu
+\dn 瓦都村：温泉乡的一个村落。经纬度：100.65672,27.80756
 \gn 瓦都村
-\df Un village proche de Wenquan.
-\gf nom_de_village
+\df Wuadu, un village proche de Wenquan. C'était autrefois un village pumi. Dans les années 2010, il a une importante population chinoise (han).
+\gf nom_de_village_Wuadu
 \xv ʁwɤ˧tv̩˧-ʁwɤ˧
 \xe same meaning
 \xn 同上
 \xf même sens
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv ʁwɤ˧tv̩˧: | bɤ˧!
 \xe |fv{/ʁwɤ˧tv̩˧/} is a Pumi village!
@@ -51872,12 +51935,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʁwɤ˧ʐv̩˧
 \cf lo˩mæ˩
 \so <print="n"> F4
-\de The village of Qiansuo.
-\ge Qiansuo
-\dn 四川省凉山州盐源县前所乡
+\de Wuaru: the village of Qiansuo.
+\ge Wuaru(Qiansuo)
+\dn 四川省凉山州盐源县前所乡。经纬度：100.77927,27.82267
 \gn 前所
-\df Qiansuo (localité perçue par F4 comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques/emprunts/mélanges).
-\gf Qiansuo
+\df Wuaru: le village de Qiansuo (localité perçue par F4 comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques/emprunts/mélanges).
+\gf Wuaru(Qiansuo)
 \xv ʁwɤ˧ʐv̩˧-lo˩mæ˩
 \xe same meaning
 \xn 同上
@@ -63711,7 +63774,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf même sens
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
-\xn 永宁背向泸沽湖方向经过的七个村落：阿公瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
+\xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv tʰo˧tsʰe˧: | bɤ˧!
 \xe |fv{/tʰo˧tsʰe˧/} is a Pumi village!
@@ -63749,14 +63812,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tʰo˧ʈɯ˧
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 4e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 4e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton #H
 \so <print="n"> F4
-\de A village in Yongning; Chinese: Tuozhikaiji.
+\de Todee, a village in Yongning.
 \ge village_name
-\dn 拖支开基村（永宁的一个村落）
-\gn 拖支开基村
-\df Un village de Yongning: Tuozhikaiji.
+\dn 拖支村，拖支开基村（永宁的一个村落）。经纬度：100.65165,27.73050
+\gn 拖支村
+\df Todee, un village de Yongning.
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
@@ -67968,7 +68031,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc tsʰo˧pjɤ˧
 \cf lɑ˩pʰɑ˩-læ˥dzi˩
-\cf ʁo˧pʰɤ˩-ʁo˩dv̩˩lv̩˩
+\cf ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> jo˩ tsɯ˥
@@ -67981,7 +68044,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ge soap
 \dn 肥皂
 \gn 肥皂
-\df Savon. Sans doute mot emprunté à une langue de birmanie: cp. nung: tshɑ³¹ pi⁵⁵ iɔ⁵⁵ [Dai 1992]; achang de Luxi et Lianghe: tshɑu⁵⁵ pjɑu⁵⁵ [Dai 1985]; achang de Longchuan: tshau³¹ piau³¹ [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{lɑ˩pʰɑ˩-læ˥dzi˩} et |fv{ʁo˧pʰɤ˩-ʁo˩dv̩˩lv̩˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
+\df Savon. Sans doute mot emprunté à une langue de birmanie: cp. nung: tshɑ³¹ pi⁵⁵ iɔ⁵⁵ [Dai 1992]; achang de Luxi et Lianghe: tshɑu⁵⁵ pjɑu⁵⁵ [Dai 1985]; achang de Longchuan: tshau³¹ piau³¹ [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{lɑ˩pʰɑ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
 \gf savon
 \dt 07/Oct/2015
 
@@ -68109,14 +68172,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf même sens: ce soir
 \dt 13/Jul/2017
 
-\lx lɑ˩pʰɑ˩-læ˥dzi˩ xxxx vérifier à nouveau
+\lx lɑ˩pʰɑ˩-læ˥dzi˩
 \or lapalaezzeeq rrrr
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L+#H-
 \lc lɑ˩pʰɑ˩læ˥dzi˩
-\cf ʁo˧pʰɤ˩-ʁo˩dv̩˩lv̩˩
+\cf ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
+\nt <type="hist" langue="fra" print="n"> vérifié soigneusement en juin 2024: est bien /lɑ˩pʰɑ˩-læ˥dzi˩/, non /...-lɑ˥dzi˩/
 \so <print="n"> F4
 \de A plant used when washing clothes, at a time when soap was not yet widely available.
 \ge plant_sp
@@ -68231,21 +68295,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="sem"> 2e village de la plaine de Yongning dans la géographie traditionnel na, qui prend comme point d'origine le lac Lugu.
+\nt <type="sem"> 2e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton #H
 \lc ʈʂo˧ʂɯ˧
 \so <print="n"> F4
-\de Name of a village: Zhongshi.
-\ge village_name
-\dn 忠实（永宁的一个村落）
+\de Name of a village: Zhoshi.
+\ge Zhoshi_village_name
+\dn 忠实（永宁的一个村落）。经纬度：100.66946,27.74125
 \gn 忠实村
-\df Village de Zhongshi.
-\gf nom_de_village
+\df Village de Zhoshi.
+\gf nom_de_village_Zhoshi
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 07/Oct/2015
 
 \lx tso˧tɕɤ˩
 \or zoja
@@ -72727,7 +72790,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \vf <type="tone"> L+#H
 \va <speaker="M18"> v̩˩tsʰɤ˧, ton d5b
 \vf tons confirmés
-\va <speaker="M21"> u˩tsʰɤ˧˥, ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧dze˧dze˥ “couper des légumes"
+\va <speaker="M21"> u˩tsʰɤ˧˥, ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
 \va <speaker="M23"> ID.
 \pdv po˧
 \de Vegetables (in a broad sense including fresh vegetables and picked vegetables).
@@ -74031,10 +74094,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lx ʐe˩ʐe˧-bæ˩bæ˩
 \or reirei bbaebbae
 \ps n
-\cf je˩ʐe˧
+\cf jɤ˩ʐe˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> de |fv{/je˩ʐe˧-bæ˩bæ˩/}, la forme est devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/}, régularisant l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
+\np <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
 \ton LM-L
 \lc ʐe˩ʐe˧bæ˩bæ˩
 \so <print="n"> F4
@@ -76818,6 +76881,57 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 啊呀嚒！马把饲料都吃光了！
 \xf Houlàlà! Le cheval nous l'a mangé! (Contexte: on laisse dans la cour des céréales, ou du fourrage, et pendant qu'on a le dos tourné, le cheval chaparde cette nourriture.)
 \dt 06/Oct/2015
+
+\lx ʐwæ˧nɑ˥
+\or ruaena rrrr
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\cf ʐwæ˥
+\ton H#
+\lc ʐwæ˧nɑ˥
+\so <print="n"> F4
+\pdv v̩˧
+\de Black horse.
+\ge black_horse
+\dn 黑色的马，黑马，骊
+\gn 黑马
+\df Cheval noir.
+\gf cheval_noir
+
+\lx ʐwæ˧pʰv̩˧˥
+\or ruaepu rrrr
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\cf ʐwæ˥
+\ton H#
+\lc ʐwæ˧pʰv̩˧˥
+\so <print="n"> F4
+\pdv v̩˧
+\de White horse.
+\ge white_horse
+\dn 白色的马，白马（也称作“龙”）
+\gn 白马
+\df Cheval blanc.
+\gf cheval_blanc
+
+\lx ʐwæ˧hṽ̩˧˥
+\or ruaehun rrrr
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\cf ʐwæ˥
+\ton H#
+\lc ʐwæ˧hṽ̩˧˥
+\so <print="n"> F4
+\pdv v̩˧
+\de Horse with chestnut hair, chestnut.
+\ge chestnut_horse
+\dn 栗色马（也称作“骅骝”）
+\gn 栗色马
+\df Cheval alezan.
+\gf cheval_alezan
 
 \lx ʐwæ˧bv̩˧˥
 \sf <nb="2011"> 606

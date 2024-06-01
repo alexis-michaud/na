@@ -789,8 +789,9 @@
 <AUDIO start="302.544" end="303.786"/>
 </W>
 <W id="Coordinative_compounds_088">
-	<FORM kindOf="phono">kɤ˩pʰv̩˩-kɤ˩mi˩˥</FORM>
-	<FORM kindOf="deepphono">kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<FORM kindOf="phono">‡kɤ˩pʰv̩˩-kɤ˩mi˩˥</FORM>
+	<FORM kindOf="deepphono">‡kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "This token is mistaken. On reexamination of the lexicon in 2024, it proved to be based on a misunderstanding."/>
 	<NOTE xml:lang="en" message = "Input tones: L and M"/>
 	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
 	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
@@ -798,8 +799,9 @@
 <AUDIO start="306.155" end="307.792"/>
 </W>
 <W id="Coordinative_compounds_089">
-	<FORM kindOf="phono">kɤ˩pʰv̩˩-kɤ˩mi˩˥</FORM>
-	<FORM kindOf="deepphono">kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<FORM kindOf="phono">‡kɤ˩pʰv̩˩-kɤ˩mi˩˥</FORM>
+	<FORM kindOf="deepphono">‡kɤ˩pʰv̩˩-kɤ˩mi˩</FORM>
+	<NOTE xml:lang="en" message = "This token is mistaken. On reexamination of the lexicon in 2024, it proved to be based on a misunderstanding."/>
 	<NOTE xml:lang="en" message = "Input tones: L and M"/>
 	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
 	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
@@ -807,8 +809,9 @@
 <AUDIO start="312.456" end="313.712"/>
 </W>
 <W id="Coordinative_compounds_090">
-	<FORM kindOf="phono">kɤ˩pʰv̩˩-kɤ˥mi˩</FORM>
-	<FORM kindOf="deepphono">kɤ˩pʰv̩˩-kɤ˥mi˩</FORM>
+	<FORM kindOf="phono">‡kɤ˩pʰv̩˩-kɤ˥mi˩</FORM>
+	<FORM kindOf="deepphono">‡kɤ˩pʰv̩˩-kɤ˥mi˩</FORM>
+	<NOTE xml:lang="en" message = "This token is mistaken. On reexamination of the lexicon in 2024, it proved to be based on a misunderstanding."/>
 	<NOTE xml:lang="en" message = "Input tones: L and M"/>
 	<NOTE xml:lang="en" message = "Resulting tone: L / L+#H°"/>
 	<TRANSL xml:lang="fr">faucon mâle et femelle</TRANSL>
