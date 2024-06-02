@@ -1,13 +1,13 @@
-﻿F4_BENEVOLENCE
+﻿Benevolence
 
 ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩. |
 %1
-%fr Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la première version de l'outil de transcription phonémique et tonal du na créé par Oliver Adams. Revu 36 unités S, correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la deuxième version de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les groupes tonals. La transcription automatique de ces passages est conservée, pour comparaison avec la version produite par le linguiste sur la base de ce canevas.
+%fr Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la première version de l'outil de transcription phonémique et tonale du na créé par Oliver Adams. Revu 36 unités S (phrases, dans un sens large), correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36 : utilise le canevas créé par la deuxième version de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams, à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, en utilisant une troisième version du modèle acoustique, qui inclut les marques indiquant les frontières de groupes tonals. La transcription automatique de ces passages est conservée, pour permettre une comparaison avec la version produite par le linguiste sur la base de ce canevas.
 %fr /-bi/: adversatif.
 %fr vérification : /zo˩no˧ ɲi˩/ ou /zo˩no˧ ni˩/? réponse : /zo˩no˧ ɲi˩/.
 %fr Ici, la locutrice sépare nettement le monosyllabe /nɑ˩˥/ dans /nɑ˩˥ | ʈʂʰɯ˧-dʑo˩/ 'les Na'. Cela revient à bien mettre en valeur ce nom, qui est peu saillant au plan phonético-phonologique du fait que c'est un monosyllabe très érodé. Ordinairement, on dirait plutôt: /nɑ˩ ʈʂʰɯ˥-dʑo˩/, en un seul groupe tonal.
 %eng Translation: In the old times, well, the Na… well… what I'm going to say applies to the present (=to present-day Na customs) just as well.
-Autrefois, eh bien, les Na, eh bien, ce dont je vais parler, ça s'applique aussi aujourd'hui / ça vaut aussi bien pour aujourd'hui. (Littéralement: Parler des Na autrefois, même si on l'applique à aujourd'hui / même si c'est d'aujourd'hui qu'il s'agit, c'est pareil / il en va également ainsi.)
+Autrefois, eh bien, les Na, eh bien, ce dont je vais parler, même maintenant, c'est pareil / ça s'applique aussi aujourd'hui / ça vaut aussi bien pour aujourd'hui. (Littéralement: Parler des Na autrefois, même si on l'applique à aujourd'hui / même si c'est d'aujourd'hui qu'il s'agit, c'est pareil / il en va également ainsi.)
 从前，那么，摩梭人……（我）讲的（这些），现在也一样（=我讲的虽然是从前摩梭习俗，可是今日摩梭人的行为和做人标准也照样就是那样）。
 
 ə˧ʝi˧ʂɯ˥ʝi˩ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩, ə˩-gi˩! |
@@ -1416,6 +1416,7 @@ bi˧ | le˧-gi˧-ze˥ wɤ˩, | dʑɯ˩nɑ˩mi˩˥ | gɤ˩-do˧-hɯ˧ gɤ˥-do˩-
 %Transcription automatique : bɯ˧ | le˧gi˥zɑ˥o | dʑɯ˩nɑ˩ɳi˩˥ | gɤ˩dv̩˥ | hɯ˧gɤ˧do˩ | bi˧gi˩hɯ˩go˩˥ | le˧do˥kʰɯ˩tsʰɯ˩ | tʰv̩˧qo˧ze˩ | tʰv̩˧
 %212
 Il se mettait à neiger; on cheminait en montagne, encore et encore, la neige tombait encore et encore; on montait; [la neige], elle vous montait jusque-là à la jambe !
+开始下雪了；我们在山上一直爬上爬下，雪一直在下；我们往上爬；[雪]，直到你的腿上那么高的！（手势：指雪几乎到膝盖）
 
 tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ qʰo˧-ki˧ | tʰi˧-tʰv̩˧-dʑo˥, | zo˩no˥, | ə˧v̩˧=ɻæ˧-ɳɯ˥, | pʰæ˧tɕi˥ | qʰɑ˩jɤ˩ kʰi˥-ɲi˩, | pʰæ˧tɕi˥ ʈʂʰɯ˩-tɕi˩-nɯ˩, | si˧-ʈʂʰɯ˧ | zo˩no˥ | le˧-ʑi˩ | le˧-po˧-tsʰɯ˧˥! |
 %Utterance ID: BENEVOLENCE.115 
@@ -1424,11 +1425,13 @@ tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ qʰo˧-ki˧ | tʰi˧-tʰv̩˧-dʑo˥, | zo˩no�
 % À partir d'ici : reprends la transcription automatique de 2022, GitHub/na/AutomaticTranscription/2022_09_Transformers/prediction_M02_345116.txt, que voici : 
 %tʰi˩˥,  tɑ˧tɑ˧,  gv̩˧qʰv̩˧ki˧  tʰi˧tv̩˧˥  dʑo˩ … zo˩no˥,  ə˧v̩˧ɻæ˧ɳɯ˥,  pʰæ˧tɕi˥  qʰɑ˩jɤ˩ ki˥ɲi˩,  pʰæ˧tɕi˥  tɕi˩tɕɤ˩ɳɯ˩,  si˧ʈʂʰɯ˧! zo˩no˥,  le˧ʑi˩ le˧po˧tsʰɯ˧˥!
 Alors, parvenu précisément à l'endroit où étaient empilées les planches, eh bien, les oncles, et tous les jeunes qui étaient du voyage, eh bien, ils portaient le bois à dos d'homme (pour le ramener au village).
+那么，当到达堆放木板的地方时，舅舅们和同行的所有年轻人都背着木板（回到村子里）。
 
 %1160.300 s
 mmm … mv̩˧ | tʰi˧-kʰɯ˧˥! | tʰi˧-kʰɯ˧˥ | -dʑo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | ʈʂʰɯ˧ … ʁo˧dɑ˧ tʰv̩˧-ʑi˩, | ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ˩ pi˩-hĩ˩ tʰv̩˩-v̩˩-dzo˩, | ɖɯ˧-pi˧˥ | hĩ˧ dzɑ˧ ʈʂʰɯ˧-ʈʂæ˩-qo˩! | ʐɯ˧ | dʑo˧-mɤ˧-ʁo˧! |
 véɻifié les tons: ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ˩
-Mmmh... on faisait un feu! Ce faisant, eux... autrefois, cette famille, celle de Zzhege Dashi, elle était assez pauvre, à cette génération-là! Ils n'avaient pas les moyens de se procurer de l'alcool!
+Mmmh... on faisait un feu! Ce faisant, eux... autrefois, cette famille, celle de Zzhege Daeshi Ci'er, elle était assez pauvre, à cette génération-là! Ils n'avaient pas les moyens de se procurer de l'alcool!
+嗯......我们生火！在过去，这户人家，哲格·达石次尔家 他们那一代很穷！他们买不起酒
 
 %1167.92s
 tʰi˩˥, | njɤ˧=ɻ̍˩-dʑo˩, | ʈʰææ̃˧, | ə˧ʑi˧-ʈʂʰɯ˥-ɳɯ˩, | ʐɯ˧ | ɖɯ˧-ɬi˧-qo˧ | ɲi˧-ʝi˥ tɕɤ˩! | mmm... tʰi˧-tɕɯ˥! |

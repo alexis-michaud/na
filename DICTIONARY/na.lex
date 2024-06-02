@@ -996,11 +996,11 @@
 \ton M
 \lc æ˧ʂæ˧
 \so <print="n"> F4
-\de Name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain (``the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} (``the young woman": |fv{/mi˩zɯ˩˥/}).
+\de Aeshae, name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain (``the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} (``the young woman": |fv{/mi˩zɯ˩˥/}).
 \ge name_of_a_mountain
 \dn 一座山的名字：安山，也称作‘阿沙五’。位于永宁坝的西面，格姆女神山的对面。经纬度：100.63379,27.74883
 \gn 一座山的名字
-\df Nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}).
+\df Aeshae, nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}).
 \gf nom_d_une_montagne
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
@@ -2201,16 +2201,16 @@
 \sd <langue="eng"> place name
 \ton M
 \so <print="n"> F4
-\de A village close to the Hot Springs.
-\ge village_name
+\de Bbaewua, a village close to the Hot Springs.
+\ge Bbaewua
 \dn 巴瓦：温泉乡的一个村落
 \gn 巴瓦村
-\df Un village proche des Sources Chaudes.
-\gf nom_de_village
+\df Bbaewua, un village proche des Sources Chaudes.
+\gf Bbaewua
 \xv bæ˧ʁwɤ˧-ʁwɤ˧
-\xe same meaning: the village of |fv{/bæ˧ʁwɤ˧/}
+\xe same meaning: the village of Bbaewua |fv{/bæ˧ʁwɤ˧/}
 \xn 同上：巴瓦村
-\xf même sens: le village de |fv{/bæ˧ʁwɤ˧/}
+\xf même sens: le village de Bbaewua |fv{/bæ˧ʁwɤ˧/}
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
@@ -3464,17 +3464,16 @@
 \nt <type="sem"> 7e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton L#
 \so <print="n"> F4
-\de A village in Yongning.
-\ge village_name
+\de Bbezzee, a village in Yongning.
+\ge Bbezzee
 \dn 八珠（永宁坝子的一个村落）。经纬度：100.70505,27.74451
 \gn 八珠村
-\df Un des villages de la plaine de Yongning.
-\gf nom_de_village
+\df Bbezzee, un des villages de la plaine de Yongning.
+\gf Bbezzee
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 12/May/2017
 
 \lx bo˩-ɣɯ˥
 \sf <nb="B"> 1947
@@ -3923,13 +3922,12 @@
 \sd <langue="eng"> place name
 \ton L#
 \so <print="n"> F4
-\de Baisha: name of a village of the Lijiang plain. The village had a tradition of trading and peddling to faraway places, hence its familiarity to people in Yongning. Its Naxi name is |fv{/bɤ˧ʂɯ˩/}.
+\de Baisha: name of a village of the Lijiang plain. The village had a tradition of trading and peddling to faraway places, hence its familiarity to people in Yongning. The Na rendering is identical to the Naxi name, |fv{/bɤ˧ʂɯ˩/}.
 \ge Baisha(village_name)
 \dn 白沙（丽江坝子里的一个村落）
 \gn 白沙村
-\df Nom d'un village de la plaine de Lijiang, d'où venaient de nombreux marchands, d'où le fait que son nom soit connu à Yongning. En naxi: |fv{/bɤ˧ʂɯ˩/}.
+\df Nom d'un village de la plaine de Lijiang, d'où venaient de nombreux marchands, d'où le fait que son nom soit connu à Yongning. La prononciation du nom en na est identique à celle en naxi: |fv{/bɤ˧ʂɯ˩/}.
 \gf village_de_Baisha
-\dt 24/Apr/2017
 
 \lx bɤ˩tɕʰɯ˩
 \sf <nb="2011"> 3320
@@ -3945,13 +3943,12 @@
 \ge Bbeqi_village_name
 \dn 八旗（永宁坝子的一个村落，也称作‘八七’）。经纬度：100.66084,27.74959
 \gn 八旗村
-\df Un des villages de la plaine de Yongning, tout proche du centre administratif de Yongning: juste de l'autre côté de la rivière.
+\df Bbeqi, un des villages de la plaine de Yongning, tout proche du centre administratif de Yongning: juste de l'autre côté de la rivière.
 \gf Bbeqi_nom_de_village
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 12/May/2017
 
 \lx bo˩ʈʂʰæ˥
 \sf <nb="B"> 1946b
@@ -4017,12 +4014,12 @@
 \nt <type="sem"> 15e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton H#
 \so <print="n"> F4
-\de A village of the Lijiang plain: the central village of the plain, where the marketplace was still located in the early 21st century.
-\ge village_name
+\de Bbecoggu, a village of the Lijiang plain: the central village of the plain, where the marketplace was still located in the early 21st century.
+\ge Bbecoggu
 \dn 巴搓古（永宁坝子的一个村落），在今永宁乡中心。经纬度：100.66164,27.75625
 \gn 巴搓古村
-\df Un des villages de la plaine de Yongning; lieu de l'actuel marché; terme également employé pour désigner le lieu d'habitation des artisans naxi.
-\gf nom_de_village
+\df Bbecoggu, un des villages de la plaine de Yongning; lieu de l'actuel marché; terme également employé pour désigner le lieu d'habitation des artisans naxi.
+\gf Bbecoggu
 \xv bɤ˧tsʰo˧gv̩˥-hĩ˩
 \xe someone from Bacuogu
 \xn 巴搓古的人
@@ -4031,7 +4028,6 @@
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
-\dt 24/Apr/2017
 
 \lx bɤ˧tʰv̩˩
 \sf <nb="B"> 689
@@ -6570,13 +6566,12 @@
 \ge Yongning_monastery
 \dn 永宁大寺（扎美寺）。经纬度：100.66145,27.76501
 \gn 永宁大寺
-\df Nom du temple de Yongning.
+\df Ddaemi, le nom du temple de Yongning.
 \gf temple_de_Yongning
 \xv ɖæ˩mi˧-ʈæ˩bɤ˩
 \xe a priest from the monastery
 \xn 永宁大寺的和尚
 \xf un prêtre du monastère
-\dt 27/Aug/2015
 
 \lx ɖæ˩mi˧-go˧bɤ˩
 \sf <nb="2011"> 3315
@@ -6589,14 +6584,14 @@
 \nt <type="sem"> nom simplifié: ɖæ˩mi˧, ton d6a
 \ton LM-L#
 \lc ɖæ˩mi˧go˧bɤ˩
+\cf ɖæ˩mi˧
 \so <print="n"> F4
-\de Yongning temple.
+\de Ddaemi ggobbe: the name of the Yongning temple.
 \ge Yonging_temple
 \dn 永宁大寺
 \gn 永宁大寺
-\df Le temple de Yongning.
+\df Ddaemi ggobbe: le nom du temple de Yongning.
 \gf temple_de_Yongning
-\dt 27/Aug/2015
 
 \lx dɑ˧pɤ˧
 \sf <nb="B"> 359b
@@ -6606,7 +6601,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> (tons soigneusement vérifiés)
-\nt <type="sem"> ama récuse la traduction par le terme chinois 法师
+\nt <type="sem"> F4 récuse la traduction par le terme chinois 法师
 \ton M
 \lc dɑ˧pɤ˧
 \so <print="n"> F4
@@ -6766,7 +6761,6 @@
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 27/Aug/2015
 
 \lx dɑ˩to˩
 \or ddado
@@ -7827,13 +7821,12 @@
 \ton LM
 \lc ɖɯ˩ɖʐɯ˥
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字：独知
-\gn 男性名字：独知
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 27/Aug/2015
+\de Ddeezzhi, a masculine given name.
+\ge Ddeezzhi
+\dn 独知：一个男性名字
+\gn 独知
+\df Ddeezzhi, un prénom masculin.
+\gf Ddeezzhi
 
 \lx ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩
 \or Ddeezzhi Ci'er
@@ -7843,13 +7836,12 @@
 \ton LM-L
 \lc ɖɯ˩ɖʐɯ˧tsʰɯ˩ɻ̍˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 27/Aug/2015
+\de Ddeezzhi Ci'er, a masculine given name.
+\ge Ddeezzhi_Ci'er
+\dn 独知次尔：一个男性名字
+\gn 独知次尔
+\df Ddeezzhi Ci'er, un prénom masculin.
+\gf Ddeezzhi_Ci'er
 
 \lx ɖɯ˩hĩ˩
 \sf <nb="2011"> 403
@@ -7944,13 +7936,12 @@
 \ton LM-L
 \lc ɖɯ˩mɑ˧ɬɑ˩tsʰo˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
+\de Ddeema Lhaco, a feminine given name.
+\ge Ddeema_Lhaco
+\dn 女性名字　独玛
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 27/Aug/2015
+\df Ddeema Lhaco, un prénom féminin.
+\gf Ddeema_Lhaco
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
@@ -7960,13 +7951,12 @@
 \ton LM-L
 \lc ɖɯ˩mɑ˧pv̩˩ʈʰɯ˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Ddeema Butee, a feminine given name.
+\ge Ddeema_Butee
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 27/Aug/2015
+\df Ddeema Butee, un prénom féminin.
+\gf Ddeema_Butee
 
 \lx ɖɯ˩mɑ#˥
 \sf <nb="2011"> 3309
@@ -7977,12 +7967,12 @@
 \ton LM+#H
 \lc ɖɯ˩mɑ˥
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
+\de Ddeema, a feminine given name.
+\ge Ddeema
+\dn 独玛：一个女性名字　（还音译为‘笃玛’、‘直玛’）
+\gn 独玛
+\df Ddeema, un prénom féminin.
+\gf Ddeema
 \dt 27/Aug/2015
 
 \lx ɖɯ˩mi#˥
@@ -9072,12 +9062,12 @@
 \sd <langue="eng"> given name
 \ton M
 \so <print="n"> F4
-\de A family name from Yongning.
-\ge family_name
+\de Zzeibbo, a family name from Yongning.
+\ge Zzeibbo_clan
 \dn 者波（姓）。这个家族有三个家庭。
 \gn 一个姓
-\df Nom de clan/famille étendue qui compte 3 familles. C'est également le nom d'un village de la plaine de Yongning.
-\gf nom_de_clan
+\df Zzeibbo, nom de clan/famille étendue qui compte 3 familles. C'est également le nom d'un village de la plaine de Yongning.
+\gf clan_Zzeibbo
 \xv dze˧bo˧=ɻ̍˩
 \xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family
 \xn 者波家族
@@ -9088,17 +9078,16 @@
 \xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
 \sn 2
 \nt <type="hist" langue="fra" print="n"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575,27.81762
-\de A village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
-\ge village_name
+\de Zzeibbo, a village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
+\ge Zzeibbo_village
 \dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’。经纬度：100.71124,27.76531
 \gn 者波村
-\df Zhebo, un village de la plaine de Yongning. Il est divisé en deux parties, «du haut» et «du bas»: |fv{/gɤ˩ʁwɤ˧/} et |fv{/mv̩˩ʁwɤ˧/}.
-\gf nom_de_village
+\df Zzeibbo, un village de la plaine de Yongning. Il est divisé en deux parties, «du haut» et «du bas»: |fv{/gɤ˩ʁwɤ˧/} et |fv{/mv̩˩ʁwɤ˧/}.
+\gf village_de_Zzeibbo
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
-\dt 24/Apr/2017
 
 \lx dze˧bɤ˩
 \sf <nb="B"> 1804
@@ -9209,7 +9198,6 @@
 \xe In Yongsheng, there are lots of Chinese (Han) people!
 \xn 永胜，汉族群多！
 \xf À Yongsheng, il y a plein de Chinois (Han)!
-\dt 12/Jun/2017
 
 \lx dze˧hi˧
 \or zzeixie
@@ -10823,23 +10811,23 @@
 \or Jjabbuge Sawua
 \ps n
 \lc dʑɤ˩bv̩˧kɤ˧sɑ˥ʁwɤ˩
+\cf kɤ˧mi˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="sem"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu. (Aussi désigné par le mot chinois: kɤ˧mi˩)
 \np <langue="fra"> formé de: dʑɤ˩bv̩˧kɤ˧˥+sɑ˧ʁwɤ˩
 \ton LM+MH#-
 \so <print="n"> F4
-\de Gaoming, a village north-east of Yongning.
-\ge village_name
+\de Jjabbuge Sawua, a village north-east of Yongning. Referred to in Chinese as Gaoming.
+\ge Jjabbuge_Sawua
 \dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
 \gn 高明村
-\df Gaoming, un village au nord-est de Yongning.
-\gf nom_de_village
+\df Jjabbuge Sawua, un village au nord-est de Yongning. Appelé Gaoming en chinois.
+\gf Jjabbuge_Sawua
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
-\dt 24/Apr/2017
 
 \lx kɤ˧mi˩
 \or Gemiq rrrr
@@ -10853,11 +10841,11 @@
 \ton L#
 \so <print="n"> F4
 \de Gaoming, the Chinese name of a village north-east of Yongning. Name in Na: Jjabbuge Sawua.
-\ge Gaoming_village_name.
+\ge Gaoming.
 \dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
 \gn 高明村
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbuge Sawua.
-\gf Gaoming_nom_de_village
+\gf Gaoming
 
 \lx dʑɤ˩bv̩˥-ʁwɤ˩
 \sf <nb="2011"> 3330
@@ -10954,12 +10942,12 @@
 \nt <type="hist" langue="fra" print="n"> ton confirmé en avril 2012
 \ton LM+H$
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name.
-\ge family_name
+\de Zzhege, a family name from Yongning. There are two families in Yongning that carry this name.
+\ge Zzhege
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Zzhege, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\gf clan_Zzhege
 \xv ɖʐɤ˩kɤ˧=ɻ̍˥$
 \xe the |fv{/ɖʐɤ˩kɤ˥$/} clan
 \xn |fv{/ɖʐɤ˩kɤ˥$/}家族
@@ -10968,7 +10956,6 @@
 \xe There are two families carrying the name Zzhege; they make up one clan!
 \xn 姓|fv{/ɖʐɤ˩kɤ˥$/}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Zzhege; elles constituent un clan!
-\dt 24/Apr/2017
 
 \lx dʑɤ˩kʰwɤ˧
 \or jjakua
@@ -10989,7 +10976,6 @@
 \xn 你们很熟吗？/ 你们很亲吗？ - 不很熟！/ 不很亲！
 \xf tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne somme pas éloignés!
 \xc <type="hist" print="n" langue="fra"> avant 2015: noté: /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/; dans ce contexte, il est plus approprié d'unir en un seul groupe tonal.
-\dt 27/Aug/2015
 
 \lx dzo˧-lv̩˧~lv̩˥
 \sf <nb="B"> 15b
@@ -11249,12 +11235,12 @@
 \sd <langue="eng"> given name
 \ton LM-L
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Jjacee Ddeema, a feminine given name.
+\ge Jjacee_Ddeema
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
+\df Jjacee Ddeema, un prénom féminin.
+\gf Jjacee_Ddeema
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
@@ -11284,17 +11270,16 @@
 \nt <type="hist" langue="fra" print="n"> d'abord noté †dʑɤ˩tsʰe#˥
 \ton LM+#H
 \so <print="n"> F4
-\de Given name.
-\ge given_name
+\de Jjacee, a given name.
+\ge Jjacee
 \dn 名字
 \gn 名字
-\df Prénom.
-\gf prénom
+\df Jjacee, un prénom.
+\gf Jjacee
 \xv dʑɤ˩tsʰi˧-mi#˥
 \xe A given name. (This is the given name of the main consultant's mother.)
 \xn 阿妈（合作人）的母亲的名字
 \xf Nom propre. Il était porté par la mère de Ama.
-\dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰo˧
 \or jjaco
@@ -13767,13 +13752,12 @@
 \ton M
 \lc ə˧bv̩˧ʁwɤ˧
 \so <print="n"> F4
-\de Name of a village.
-\ge village_name
-\dn 阿布瓦村
+\de Abbuwua, a village name.
+\ge Abbuwua
+\dn 阿布瓦村。已并入海玉角自然村，隶属于永宁村委会。该地名现已不用，属历史地名。经纬度：100.66355,27.74896
 \gn 阿布瓦村
-\df Abuwa (nom de village).
-\gf nom_de_village
-\dt 24/Apr/2017
+\df Abbuwua (nom de village), tout proche du centre administratif de Yongning.
+\gf Abbuwua
 
 \lx ə˧ɕjo˩
 \or Exo
@@ -13783,12 +13767,12 @@
 \ton L#
 \lc ə˧ɕjo˩
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name.
-\ge family_name
+\de Exo, a family name from Yongning. There are two families in Yongning that carry this name.
+\ge Exo
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Exo, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\gf Exo
 \xv ə˧ɕjo˩=ɻ̍˩
 \xe the |fv{/ə˧ɕjo˩/} clan
 \xn |fv{/ə˧ɕjo˩/}家族
@@ -14011,12 +13995,12 @@
 \ton M
 \lc ə˧go˧
 \so <print="n"> F4
-\de A family name from Yongning. There are three families in Yongning that carry this name.
-\ge family_name
+\de Eggo, a family name from Yongning. There are three families in Yongning that carry this name.
+\ge Eggo
 \dn 一个姓。这个姓，永宁有三家
 \gn 一个姓
-\df Nom de clan/famille étendue. Trois familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Eggo, nom de clan/famille étendue. Trois familles portent ce nom à Yongning.
+\gf Eggo
 \xv ə˧go˧=ɻ̍˩
 \xe the |fv{/ə˧go˧/} clan
 \xn |fv{/ə˧go˧/}家族
@@ -14039,17 +14023,16 @@
 \ton M
 \lc ə˧go˧ʁwɤ˧
 \so <print="n"> F4
-\de Name of a village of the Hot Springs area.
-\ge village_name
+\de Aggowua, a village of the Hot Springs area.
+\ge Aggowua
 \dn 阿古瓦村：温泉乡的一个村落。经纬度：100.70133,27.79405
 \gn 阿古瓦村
-\df Un village proche de Wenquan.
-\gf nom_de_village
+\df Aggowua, an village proche de Wenquan.
+\gf Aggowua
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
-\dt 24/Apr/2017
 
 \lx ə˧gɯ˩
 \sf <nb="2011"> 3306
@@ -14287,19 +14270,19 @@
 \ton M
 \lc ə˧lɑ˧
 \so <print="n"> F4
-\de A family name from Yongning. There are three families in Yongning that carry this name. This is one of the three first Na clans who settled in the vicinity of the monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
-\ge family_name
-\dn 一个姓。这个姓，永宁有三家
-\gn 一个姓
-\df Nom de clan/famille étendue. Trois familles portent ce nom à Yongning. C'est l'un des trois clans qui se sont établis les premiers dans le voisinage du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
-\gf nom_de_clan
+\de Ela, a family name from Yongning. There are three families in Yongning that carry this name. This is one of the three first Na clans who settled in the vicinity of the monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\ge Ela
+\dn 阿拉：一个姓。这个姓，永宁有三家
+\gn 阿拉
+\df Ela, nom de clan/famille étendue. Trois familles portent ce nom à Yongning. C'est l'un des trois clans qui se sont établis les premiers dans le voisinage du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\gf Ela
 \xv ə˧lɑ˧=ɻ̍˩
 \xe the |fv{/ə˧lɑ˧/} clan
-\xn |fv{/ə˧lɑ˧/}家族
+\xn 阿拉家族
 \xf le clan |fv{/ə˧lɑ˧/}
 \xv ə˧lɑ˧=ɻ̍˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
 \xe There are three families carrying the name Ela; they make up one clan!
-\xn 姓|fv{ə˧lɑ˧}的，有三家，形成一个家族！
+\xn 姓阿拉的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Ela; elles constituent un clan!
 
 \lx ə˧lɑ˧-ʁwɤ#˥
@@ -17442,17 +17425,16 @@
 \sd <langue="eng"> given name
 \ton M
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Gguma, a masculine given name.
+\ge Gguma
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
+\df Gguma, un prénom masculin.
+\gf Gguma
 \xv hĩ˧ | ʈʂʰɯ˧-v̩˧, | gv̩˧mɑ˧ mv̩˧ʈʂæ˧˥!
-\xe This person is called |fv{/gv̩˧mɑ˧/}!
+\xe This person is called Gguma |fv{/gv̩˧mɑ˧/}!
 \xn 这个人，名叫|fv{/gv̩˧mɑ˧/}！
-\xf Cette personne s'appelle |fv{/gv̩˧mɑ˧/} !
-\dt 24/Apr/2017
+\xf Cette personne s'appelle Gguma |fv{/gv̩˧mɑ˧/} !
 
 \lx gv̩˧mi˧
 \sf <nb="B"> 89
@@ -23128,13 +23110,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> given name
 \ton H#
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Yishi, a masculine given name.
+\ge Yishi
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 02/Sep/2015
+\df Yishi, un prénom masculin.
+\gf Yishi
 
 \lx ʝi˧tɕi˧
 \hm 1
@@ -23143,16 +23124,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʝi˧tɕi˧
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" langue="fra" print="n"> (n'est pas tɕɯ)
+\nt <type="hist" langue="fra" print="n"> (n'est pas /tɕɯ/)
 \ton M
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Yijie, a feminine given name.
+\ge Yijie
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 24/Apr/2017
+\df Yijie, un prénom féminin.
+\gf Yijie
 
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
 \or Yijie Ddeema
@@ -23163,13 +23143,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" langue="fra" print="n"> (n'est pas tɕɯ)
 \ton -L
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Yijie Ddeema, a feminine given name.
+\ge Yijie_Ddeema
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 24/Apr/2017
+\df Yijie Ddeema, un prénom féminin.
+\gf Yijie_Ddeema
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
@@ -23179,15 +23158,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" langue="fra" print="n"> (n'est pas tɕɯ) (avant mai 2012: noté †ʝi˧ʈʂe˧-ɬɑ˩mv̩˩)
 \ton -L
 \lc ʝi˧tɕi˧ɬɑ˩mv̩˩
-\nt <langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\np <langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Yijie Lhamu, a feminine given name.
+\ge Yijie_Lhamu
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 24/Apr/2017
+\df Yijie Lhamu, un prénom féminin.
+\gf Yijie_Lhamu
 
 \lx ʝi˩ʈʂæ˧˥
 \sf <nb="B"> 158
@@ -23977,13 +23955,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc jo˧mi˧ʁwɤ˧
 \so <print="n"> F4
-\de The second village that one crosses when going from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}.
-\ge village_name
-\dn 有米瓦村
+\de Yomiwua, the second village that one crosses when going from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}.
+\ge Yomiwua
+\dn 有米瓦村。经纬度：100.66463,27.74694
 \gn 有米瓦村
-\df Le second village que l'on rencontre sur le trajet entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}.
-\gf nom_de_village
-\dt 24/Apr/2017
+\df Yomiwua, le second village que l'on rencontre sur le trajet entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}.
+\gf Yomiwua
 
 \lx jo˧mv̩#˥
 \or Yomu
@@ -24038,21 +24015,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM+H$
 \lc jɤ˩pæ˧sɯ˥
 \so <print="n"> F4
-\de Yang Chieftain: a family name from Yongning, containing a name borrowed from Chinese (Yang |fn{杨}) plus a term referring to the lowest degree in the hierarchy of feudal leaders: the hamlet chieftain, |fn{把事}. Only one family in Yongning carries this name.
-\ge Yang_Chieftain
+\de Yebaesi, ‘Yang Chieftain’: a family name from Yongning, containing a name borrowed from Chinese (Yang |fn{杨}) plus a term referring to the lowest degree in the hierarchy of feudal leaders: the hamlet chieftain, |fn{把事}. Only one family in Yongning carries this name.
+\ge Yebaesi
 \dn 杨把事。这个姓，由两部分组成的：‘杨’姓（汉语借词）与封建社会最小领导层次：‘把事’。
 \gn 杨把事（借词）
-\df Petit Chef Yang: nom de famille constitué de l'expression chinoise |fn{杨把事}, formé du patronyme |fn{杨}, suivi du terme chinois renvoyant au plus bas degré de la hiérarchie féodale: le chef de hameau, |fn{把事}. Ce nom est propre à une seule famille de Yongning.
-\gf Petit_Chef_Yang
+\df Yebaesi, ‘Petit Chef Yang’: nom de famille constitué de l'expression chinoise |fn{杨把事}, formé du patronyme |fn{杨}, suivi du terme chinois renvoyant au plus bas degré de la hiérarchie féodale: le chef de hameau, |fn{把事}. Ce nom est propre à une seule famille de Yongning.
+\gf Yebaesi
 \xv jɤ˩pæ˧sɯ˧=ɻ̍˥$
-\xe 〜 |fg{associative}: the people of the Yang Chieftain family
+\xe 〜 |fg{associative}: the people of the Yebaesi family
 \xn 杨把事家族
-\xf 〜 |fg{associatif}: les gens de la famille Petit Chef Yang
+\xf 〜 |fg{associatif}: les gens de la famille Yebaesi
 \xv jɤ˩pɑ˧sɯ˥ | ʈæ˧ʂɯ˧
-\xe the proper name of a person of the Yang Chieftain family (given name: Dashi): ‘Dashi of the Yang Chieftain family'.
-\xn 杨把事家的一个人的名字：杨把事•达石
-\xf nom propre d'une personne de la famille Petit Chef Yang: ‘Dashi de la famille Petit Chef Yang'.
-\dt 01/Sep/2015
+\xe the proper name of a person of the Yebaesi family (given name: Dashi): ‘Dashi of the Yebaesi family'.
+\xn 杨把事家的一个人的名字：杨把事·达石
+\xf nom propre d'une personne de la famille Yebaesi: ‘Dashi de la famille Yebaesi'.
 
 \lx jɤ˩po˧
 \sf <nb="2011"> 1725
@@ -24735,13 +24711,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ki˧zo˧ɖɯ˩mɑ˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 24/Apr/2017
+\de Gisso Ddeema, a feminine given name.
+\ge Gisso_Ddeema
+\dn 给若独玛：一个女性名字
+\gn 给若独玛
+\df Gisso Ddeema, un prénom féminin.
+\gf Gisso_Ddeema
 
 \lx ki˧zo˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3287
@@ -24752,13 +24727,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ki˧zo˧ɬɑ˩mv̩˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 24/Apr/2017
+\de Gisso Lhamu, a feminine given name.
+\ge Gisso_Lhamu
+\dn 给若拉姆：一个女性名字
+\gn 给若拉姆
+\df Gisso Lhamu, un prénom féminin.
+\gf Gisso_Lhamu
 
 \lx ki˧zo#˥
 \or Gisso
@@ -24768,13 +24742,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc ki˧zo˧
 \so <print="n"> F4
-\de A unisex given name: a given name used for both men and women.
-\ge unisex_given_name
-\dn 男女通用名
-\gn 男女通用名
-\df Prénom unisexe: prénom utilisé pour les deux sexes.
-\gf prénom_unisexe
-\dt 03/Sep/2015
+\de Gisso, a unisex given name: a given name used for both men and women.
+\ge Gisso
+\dn 给若：男女通用名（还音译为‘给汝’）
+\gn 给若
+\df Gisso, un prénom unisexe: prénom utilisé pour les deux sexes.
+\gf Gisso
 
 \lx ki˩α
 \or giq
@@ -25639,16 +25612,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton MH+L
 \lc kɤ˧˥tʰɑ˩
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/ə˧lɑ˧/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
-\ge family_name
+\de Geta, a family name from Yongning. There are two families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/ə˧lɑ˧/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\ge Geta_clan
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/ə˧lɑ˧/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
-\gf nom_de_clan
+\df Geta, nom de clan/famille étendue. Deux familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/ə˧lɑ˧/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\gf clan_Geta
 \xv kɤ˧˥tʰɑ˩=ɻ̍˩
-\xe the |fv{/kɤ˧˥tʰɑ˩/} clan
+\xe the Geta |fv{/kɤ˧˥tʰɑ˩/} clan
 \xn |fv{/kɤ˧˥tʰɑ˩/}家族
-\xf le clan |fv{/kɤ˧˥tʰɑ˩/}
+\xf le clan Geta |fv{/kɤ˧˥tʰɑ˩/}
 \xv kɤ˧˥tʰɑ˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Geta; they make up one clan!
 \xn 姓|fv{kɤ˧˥tʰɑ˩}的，有两家，形成一个家族！
@@ -25847,13 +25820,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc kɤ˧zo˧tsʰɯ˩ɻ̍˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Gesso Ci'er, a masculine given name.
+\ge Gesso_Ci'er
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 24/Apr/2017
+\df Gesso Ci'er, un prénom masculin.
+\gf Gesso_Ci'er
 
 \lx kɤ˧zo#˥
 \or Gesso
@@ -25863,13 +25835,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc kɤ˧zo˧
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Gesso, a masculine given name.
+\ge Gesso
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 03/Sep/2015
+\df Gesso, un prénom masculin.
+\gf Gesso
 
 \lx kʰɤ˧zo˥$
 \sf <nb="2011"> 841
@@ -27709,25 +27680,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H$
 \lc kv̩˧tsʰɑ˥
 \so <print="n"> F4
-\de Family name (that of the Muli feudal lord, belonging to the Pumi/Prinmi ethnic group).
-\ge family_name
+\de Guca, a family name (that of the Muli feudal lord, belonging to the Pumi/Prinmi ethnic group).
+\ge Guca
 \dn 一个姓（木里土司，普米族，的姓）
 \gn 一个姓
-\df Nom de clan/famille étendue. Ce nom était celui de la famille des seigneurs (pumi/prinmi) de Muli.
-\gf nom_de_clan
+\df Guca, nom de clan/famille étendue. Ce nom était celui de la famille des seigneurs (pumi/prinmi) de Muli.
+\gf Guca
 \xv kv̩˧tsʰɑ˧=ɻ̍˥$
-\xe the |fv{/kv̩˧tsʰɑ˥$/} clan, the |fv{/kv̩˧tsʰɑ˥$/} family
+\xe the Guca |fv{/kv̩˧tsʰɑ˥$/} clan, the Guca |fv{/kv̩˧tsʰɑ˥$/} family
 \xn |fv{/kv̩˧tsʰɑ˥$/}家族
-\xf le clan |fv{/kv̩˧tsʰɑ˥$/}, la famille |fv{/kv̩˧tsʰɑ˥$/}
+\xf le clan Guca |fv{/kv̩˧tsʰɑ˥$/}, la famille Guca |fv{/kv̩˧tsʰɑ˥$/}
 \xv kv̩˧tsʰɑ˧=ɻ̍˧ pi˥-zo˩!
-\xe They were called “the |fv{/kv̩˧tsʰɑ˥$/} family"!
+\xe They were called “the Guca |fv{/kv̩˧tsʰɑ˥$/} family"!
 \xn 人家把他们称作“|fv{/kv̩˧tsʰɑ˥$/}家族”！
-\xf On les appelait «les |fv{/kv̩˧tsʰɑ˥$/}»!
-\xc
+\xf On les appelait «les Guca |fv{/kv̩˧tsʰɑ˥$/}»!
 \xv ɬi˧di˩ ʈʂv̩˩fv̩˩, | mv̩˧ɭɯ˩ | kv̩˧tsʰɑ˥!
-\xe In Yongning, the Prefect [is the authority]; in Muli, the |fv{/kv̩˧tsʰɑ˥$/} family [is the authority]! (A saying that describes the situation towards the middle of the 20th century.)
+\xe In Yongning, the Prefect [is the authority]; in Muli, the Guca |fv{/kv̩˧tsʰɑ˥$/} family [is the authority]! (A saying that describes the situation towards the middle of the 20th century.)
 \xn 在永宁，是知府（说的算）。在木里，是|fv{/kv̩˧tsʰɑ˥$/}家族（说的算）！
-\xf À Yongning, c’est le Préfet qui décide; à Muli, c’est la famille |fv{/kv̩˧tsʰɑ˥$/}! (Dicton qui résume la situation vers le milieu du XXe siècle.)
+\xf À Yongning, c’est le Préfet qui décide; à Muli, c’est la famille Guca |fv{/kv̩˧tsʰɑ˥$/}! (Dicton qui résume la situation vers le milieu du XXe siècle.)
 \xv mv̩˧ɭɯ˩ kv̩˩tsʰɑ˩=ɻ̍˩, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe The Guca of Muli (the family of the feudal lord), they are just one family; they make up one clan!
 \xn 木里（土司那家）姓|fv{kv̩˧tsʰɑ˥}的，就有一家，形成一个家族！
@@ -27847,21 +27817,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H$
 \lc kʰv̩˧zo˥
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name.
-\ge family_name
+\de Kusso, a family name from Yongning. There are two families in Yongning that carry this name.
+\ge Kusso
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Kusso, un nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\gf Kusso
 \xv kʰv̩˧zo˧=ɻ̍˥$
-\xe the |fv{/kʰv̩˧zo˥$/} clan, the |fv{/kʰv̩˧zo˥$/} family
+\xe the Kusso |fv{/kʰv̩˧zo˥$/} clan, the Kusso |fv{/kʰv̩˧zo˥$/} family
 \xn |fv{/kʰv̩˧zo˥$/}家族
-\xf La famille |fv{/kʰv̩˧zo˥$/}, les |fv{/kʰv̩˧zo˥$/}
+\xf La famille Kusso |fv{/kʰv̩˧zo˥$/}, les Kusso |fv{/kʰv̩˧zo˥$/}
 \xv kʰv̩˧zo˥-tsʰɯ˩ɻ̍˩
-\xe the name of a person, containing both a family name: |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
+\xe the name of a person, containing both a family name: Kusso |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
 \xn 一个人的名字：姓为|fv{/kʰv̩˧zo˥$/}，名为|fv{/tsʰɯ˧ɻ̍#˥/}
-\xf nom d'une personne, comportant un nom de famille (|fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
+\xf nom d'une personne, comportant un nom de famille (Kusso |fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
 \xv kʰv̩˧zo˧=ɻ̍˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There are two families carrying the name Kusso; they make up one clan!
+\xn 姓|fv{/kʰv̩˧zo˥$/}的，有两家，形成一个家族！
+\xf Il y a deux familles qui portent le nom Kusso; elles constituent un clan!
 
 \lx kʰv̩˧zo#˥
 \or kusso
@@ -28964,21 +28937,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L
 \lc lɑ˩mɑ˩˥
 \so <print="n"> F4
-\de A family name from Yongning. There are four families in Yongning that carry this name.
-\ge family_name
+\de Lama, a family name from Yongning. There are four families in Yongning that carry this name.
+\ge Lama
 \dn 一个姓。这个姓，永宁有四个家
 \gn 一个姓
-\df Nom de clan/famille étendue. Quatre familles portent ce nom à Yongning.
+\df Lama, un nom de clan/famille étendue. Quatre familles portent ce nom à Yongning.
 \gf nom_de_clan
 \xv lɑ˩mɑ˩=ɻ̍˥$
-\xe the |fv{/lɑ˩mɑ˩/} clan, the |fv{/lɑ˩mɑ˩/} family
+\xe the Lama |fv{/lɑ˩mɑ˩/} clan, the Lama |fv{/lɑ˩mɑ˩/} family
 \xn |fv{/lɑ˩mɑ˩/}家族
-\xf le clan |fv{/lɑ˩mɑ˩/}, la famille |fv{/lɑ˩mɑ˩/}
+\xf le clan Lama |fv{/lɑ˩mɑ˩/}, la famille Lama |fv{/lɑ˩mɑ˩/}
 \xv lɑ˩mɑ˩-gv̩˥mɑ˩
-\xe the name of a person, containing both a family name: |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
+\xe the name of a person, containing both a family name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
 \xn 一个人的名字：姓为|fv{/lɑ˩mɑ˩/}，名为|fv{/gv̩˧mɑ˧/}
-\xf nom d'une personne, comportant un nom de famille (|fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
+\xf nom d'une personne, comportant un nom de famille (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
 \xv lɑ˩mɑ˩=ɻ̍˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̃˥!
+\xe There are four families carrying the name Lama; they make up one clan!
+\xn 姓|fv{/lɑ˩mɑ˩/}的，有四家，形成一个家族！
+\xf Il y a quatre familles qui portent le nom Lama; elles constituent un clan!
 
 \lx lɑ˧mɑ˧
 \sf <nb="B"> 355b
@@ -29034,13 +29010,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H$
 \lc ɬɑ˧mv̩˥
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 04/Sep/2015
+\de Lhamu, a feminine given name.
+\ge Lhamu
+\dn 拉姆：一个女性名字
+\gn 拉姆
+\df Lhamu, un prénom féminin.
+\gf Lhamu
 
 \lx lɑ˧ŋwɤ˧
 \or Langua
@@ -29260,21 +29235,22 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 \dt 24/Apr/2017
 
-\lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩
+\lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
-\or Latami Daeshi Lamu
+\or Latami Daeshi Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton H#-M-L
-\lc lɑ˧tʰɑ˧mi˥ʈæ˧ʂɯ˧lɑ˩mv̩˩
+\lc lɑ˧tʰɑ˧mi˥ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
+\np <langue="fra"> Généralement prononcé avec une latérale simple, voisée, et une nasale sommet de syllabe: [...lɑ˩m̩˩].
 \so <print="n"> F4
-\de Proper name of the main consultant (reference speaker) for this volume (speaker code: F4).
-\ge Latami_Dashilame
-\dn 拉他咪•达石拉么：本著作的标准发音合作人
-\gn 拉他咪•达石拉么
-\df Nom propre (nom de famille et prénom) de la consultante de référence du présent travail (code locutrice: F4).
-\gf Latami_Dashilame
+\de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) for this volume (speaker code: F4).
+\ge Latami_Daeshi_Lhamu
+\dn 拉他咪·达石拉么：本著作的标准发音合作人
+\gn 拉他咪·达石拉么
+\df Latami Daeshi Lhamu: le nom propre (nom de famille et prénom) de la consultante de référence du présent travail (code locutrice: F4).
+\gf Latami_Daeshi_Lhamu
 \dt 24/Apr/2017
 
 \lx lɑ˧tʰɑ˧mi˥$
@@ -29286,9 +29262,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H$
 \lc lɑ˧tʰɑ˧mi˥
 \so <print="n"> F4
-\va <speaker="M18"> lɑ˧tʰɑ˧mi˥=ɻ̍˩ : les gens de la famille Latami. Schéma par simple concaténation de lɑ˧tʰɑ˧mi˥ + suffixe de pluriel ; traite comme la catégorie tonale à ton H fixe sur la dernière syllabe
-\vf d7), non comme la catégorie à ton sur la dernière syllabe du mot phonologique
-\vf d2c). Différent du schéma de F4 : lɑ˧tʰɑ˧mi˥, lɑ˧tʰɑ˧mi˧=ɻ̍˥, lɑ˧tʰɑ˧mi˧=ɻ̍˧-ɳɯ˥, càd association du ton H avec la dernière syllabe du mot phonologique. Perte de certains mécanismes chez M18.
 \de A family name from Yongning. There are five families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/ə˧lɑ˧/}.
 \ge family_name
 \dn 一个姓。这个姓，永宁有五个家。音译：拉他咪
@@ -29296,13 +29269,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Nom de clan/famille étendue. Cinq familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/ə˧lɑ˧/}.
 \gf nom_de_clan
 \xv lɑ˧tʰɑ˧mi˧=ɻ̍˥$
-\xe the |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the |fv{/lɑ˧tʰɑ˧mi˥$/} family
+\xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
 \xn |fv{/lɑ˧tʰɑ˧mi˥$/}家族
-\xf le clan |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille |fv{/lɑ˧tʰɑ˧mi˥$/}
+\xf le clan Latami |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille Latami |fv{/lɑ˧tʰɑ˧mi˥$/}
 \xv lɑ˧tʰɑ˧mi˧=ɻ̍˥, | tsʰe˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
 \xe There are ten families carrying the name Latami; they make up one clan!
 \xn 姓拉他咪的，有十家，形成一个家族！
 \xf Il y a dix familles qui portent le nom Latami; elles constituent un clan!
+\xv lɑ˧tʰɑ˧mi˧=ɻ̍˧-ɳɯ˥
+\xe 〜 |fg{associative + agent}
+\xn 〜 +联想复数 +施动者
+\xf 〜 |fg{associatif + agent}
+\xc PHONO
+\xv ‡lɑ˧tʰɑ˧mi˥=ɻ̍˩
+\xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
+\xn |fv{/lɑ˧tʰɑ˧mi˥$/}家族
+\xf le clan Latami |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille Latami |fv{/lɑ˧tʰɑ˧mi˥$/}
+\xc <type="tone" langue="fra"> Le schéma tonal de ce locuteur consiste en une simple concaténation du nom |fv{/lɑ˧tʰɑ˧mi˥/} et du suffixe associatif pluriel. La catégorie tonale du nom est traitée comme s'il s'agissait d'un ton H fixe sur la dernière syllabe, sans tenir compte du caractère spécifique de son ton: H$, un ton H qui s'associe à la dernière syllabe du mot phonologique.
+\rf M18
 
 \lx ɬɑ˧tsʰo#˥
 \or Lhaco
@@ -29312,13 +29296,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc ɬɑ˧tsʰo˧
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Lhaco, a feminine given name.
+\ge Lhaco
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 04/Sep/2015
+\df Lhaco, un prénom féminin.
+\gf Lhaco
 
 \lx læ˧tsɯ˥
 \sf <nb="B"> 2052
@@ -37263,13 +37246,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" langue="fra" print="n"> (n'est pas dʑɯ)
 \ton #H
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 25/Apr/2017
+\de Najjie, a feminine given name.
+\ge Najjie
+\dn 娜金：一个女性名字
+\gn 娜金
+\df Najjie, un prénom féminin.
+\gf Najjie
 
 \lx nɑ˩hĩ#˥
 \sf <nb="B"> 253
@@ -38083,13 +38065,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM+#H
 \lc ɲi˩mɑ˥
 \so <print="n"> F4
-\de Masculine given name used for the elder of two twins (the child who is born first).
-\ge masculine_given_name
+\de Nima: masculine given name used for the elder of two twins (the child who is born first).
+\ge Nima
 \dn 男性名字，起给双胞胎中的老大
 \gn 男性名字
-\df Prénom masculin pour l'aîné des jumeaux (l'enfant né en premier).
-\gf prénom_masculin
-\dt 09/Sep/2015
+\df Nima: prénom masculin pour l'aîné des jumeaux (l'enfant né en premier).
+\gf Nima
 
 \lx ɲi˧mi˧
 \sf <nb="B"> 2a
@@ -39909,13 +39890,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM
 \lc no˩bv̩˥
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Nobbu, a masculine given name.
+\ge Nobbu
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 09/Sep/2015
+\df Nobbu, un prénom masculin.
+\gf Nobbu
 
 \lx no˧no˧
 \or Nono
@@ -39925,13 +39905,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc no˧no˧
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Nono, a feminine given name.
+\ge Nono
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 09/Sep/2015
+\df Nono, un prénom féminin.
+\gf Nono
 
 \lx ŋɤ˩ŋɤ˩
 \sf <nb="B"> 133
@@ -39964,13 +39943,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="hist" langue="fra" print="n"> avant 2012: noté no˧no˧-ɖv̩˩mɑ˩
 \ton -L
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Nono Ddeema, a feminine given name.
+\ge Nono_Ddeema
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 25/Apr/2017
+\df Nono Ddeema, un prénom féminin.
+\gf Nono_Ddeema
 
 \lx no˩qo˥
 \or nogho
@@ -41692,13 +41670,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM+MH#
 \lc pæ˩pʰæ˧˥
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Baepae, a masculine given name.
+\ge Baepae
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 09/Sep/2015
+\df Baepae, un prénom masculin.
+\gf Baepae
 
 \lx pʰæ˧qʰwɤ˩
 \sf <nb="B"> 116
@@ -42306,13 +42283,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> given name
 \ton M
 \so <print="n"> F4
-\de A unisex given name: a given name used for both men and women.
-\ge unisex_given_name
-\dn 男女通用名
-\gn 男女通用名
-\df Prénom unisexe: prénom utilisé pour les deux sexes.
-\gf prénom_unisexe
-\dt 09/Sep/2015
+\de Bima, a unisex given name: a given name used for both men and women.
+\ge Bima
+\dn 瑸妈：男女通用名
+\gn 瑸妈
+\df Bima, un prénom unisexe: prénom utilisé pour les deux sexes.
+\gf Bima
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
 \or Bima Lhamu
@@ -42322,13 +42298,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> given name
 \ton -L
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 26/Apr/2017
+\de Bima Lhamu, a feminine given name.
+\ge Bima_Lhamu
+\dn 瑸妈拉姆：一个女性名字
+\gn 瑸妈拉姆
+\df Bima Lhamu, un prénom féminin.
+\gf Bima_Lhamu
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
 \or Bima Lhaco
@@ -42338,13 +42313,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc pi˧mɑ˧ɬɑ˩tsʰo˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Bima Lhaco, a feminine given name.
+\ge Bima_Lhaco
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 26/Apr/2017
+\df Bima Lhaco, un prénom féminin.
+\gf Bima_Lhaco
 
 \lx pʰi˧mo˩
 \sf <nb="B"> 599
@@ -42560,13 +42534,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc pʰi˧tsʰo˧ɖɯ˩ɖʐɯ˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 26/Apr/2017
+\de Pico Ddeezzhi, a masculine given name.
+\ge Pico_Ddeezzhi
+\dn 品初独知：一个男性名字
+\gn 品初独知
+\df Pico Ddeezzhi, un prénom masculin.
+\gf Pico_Ddeezzhi
 
 \lx pʰi˧tsʰo#˥
 \or Pico
@@ -42576,13 +42549,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc pʰi˧tsʰo˧
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 09/Sep/2015
+\de Pico, a masculine given name.
+\ge Pico
+\dn 品初：一个男性名字
+\gn 品初
+\df Pico, un prénom masculin.
+\gf Pico
 
 \lx pi˧˥α
 \sf <nb="B"> 938b
@@ -43616,16 +43588,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L#
 \lc pɤ˧tʰi˩
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name.
-\ge family_name
+\de Beti, a family name from Yongning. There are two families in Yongning that carry this name.
+\ge Beti
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Beti, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\gf Beti
 \xv pɤ˧tʰi˩=ɻ̍˩
-\xe the |fv{/pɤ˧tʰi˩/} clan, the |fv{/pɤ˧tʰi˩/} family
+\xe the Beti |fv{/pɤ˧tʰi˩/} clan, the Beti |fv{/pɤ˧tʰi˩/} family
 \xn |fv{/pɤ˧tʰi˩/}家族
-\xf le clan |fv{/pɤ˧tʰi˩/}, la famille |fv{/pɤ˧tʰi˩/}
+\xf le clan Beti |fv{/pɤ˧tʰi˩/}, la famille Beti |fv{/pɤ˧tʰi˩/}
 \xv pɤ˧tʰi˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Beti; they make up one clan!
 \xn 姓|fv{pɤ˧tʰi˩}的，有两家，形成一个家族！
@@ -44913,13 +44885,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM
 \lc pv̩˩ʈʰɯ˥
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Butee, a feminine given name.
+\ge Butee
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 10/Sep/2015
+\df Butee, un prénom féminin.
+\gf Butee
 
 \lx pʰv̩˧tv̩˥
 \or pudu
@@ -46099,21 +46070,21 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L#
 \lc qæ˧dzɯ˩
 \so <print="n"> F4
-\de A family name from Yongning. There are two families in Yongning that carry this name.
-\ge family_name
+\de Ghaezzi, a family name from Yongning. There are two families in Yongning that carry this name.
+\ge Ghaezzi
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
-\gf nom_de_clan
+\df Ghaezzi, un nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\gf Ghaezzi
 \xv qæ˧dzɯ˩=ɻ̍˩
-\xe the |fv{/qæ˧dzɯ˩/} clan, the |fv{/qæ˧dzɯ˩/} family
+\xe the Ghaezzi |fv{/qæ˧dzɯ˩/} clan, the Ghaezzi |fv{/qæ˧dzɯ˩/} family
 \xn |fv{/qæ˧dzɯ˩/}家族
-\xf le clan |fv{/qæ˧dzɯ˩/}, la famille |fv{/qæ˧dzɯ˩/}
+\xf le clan Ghaezzi |fv{/qæ˧dzɯ˩/}, la famille Ghaezzi |fv{/qæ˧dzɯ˩/}
 \xv qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧
-\xe the name of a person, containing both a family name: |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
+\xe the name of a person, containing both a family name: Ghaezzi |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̍#˥/}
 \xn 一个人的名字：姓为|fv{/qæ˧dzɯ˩/}，名为|fv{/tsʰɯ˧ɻ̍#˥/}
-\xf nom d'une personne, comportant un nom de famille (|fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
-\xc <langue="eng"> the name is not treated as one tone group, but as two tone groups: /qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /†qæ˧dzɯ˩-tsʰɯ˩ɻ̍˩/.
+\xf nom d'une personne, comportant un nom de famille (Ghaezzi |fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̍#˥/})
+\xc <langue="eng" type="tone"> The name is not treated as one tone group, but as two tone groups: /qæ˧dzɯ˩ | -tsʰɯ˧ɻ̍˧/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /†qæ˧dzɯ˩-tsʰɯ˩ɻ̍˩/.
 \xv qæ˧dzɯ˩=ɻ̍˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Ghaezzi; they make up one clan!
 \xn 姓|fv{qæ˧dzɯ˩}的，有两家，形成一个家族！
@@ -46399,21 +46370,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc qʰæ˧tɕʰi˧
 \so <print="n"> F4
-\de A village of Yongning; Chinese name: Kaiji.
-\ge village_name
-\dn 开基（永宁的一个村落）
+\de Khaeqie, a village of Yongning, very close to the administrative centre.
+\ge Khaeqie
+\dn 开基（永宁的一个村落）。经纬度：100.65959,27.75398
 \gn 开基村
-\df Un village de Yongning; nom chinois: Kaiji.
-\gf nom_de_village
+\df Khaeqie, un village de Yongning, tout proche du centre administratif.
+\gf Khaeqiee
 \xv ʈʂʰɯ˧ | qʰæ˧tɕʰi˧-hĩ˧ ɲi˥!
-\xe (S)he is from the village of Kaiji!
+\xe (S)he is from the village of Khaeqie!
 \xn 他是开基村人！
-\xf c'est quelqu'un de Kaiji!
+\xf c'est quelqu'un de Khaeqie!
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
-\dt 12/May/2017
 
 \lx qʰæ˧tɕʰi˧-ɬi˧dʑɯ˩
 \sf <nb="2011"> 3316
@@ -46425,13 +46395,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L#
 \lc qʰæ˧tɕʰi˧ɬi˧dʑɯ˩
 \so <print="n"> F4
-\de The river which runs through the plain of Yongning.
+\de Khaeqie Lhijji, the river which runs through the plain of Yongning.
 \ge river_of_Yongning
-\dn 永宁坝的河流
-\gn 永宁坝的河流
-\df Nom de la rivière qui traverse la plaine de Yongning.
+\dn 开基大河：永宁坝的河流
+\gn 开基大河
+\df Khaeqie Lhijji, la rivière qui traverse la plaine de Yongning.
 \gf rivière_de_Yongning
-\dt 27/Apr/2017
 
 \lx qʰɑ˧-ʈʂʰɤ˧~ʈʂʰɤ˥
 \sf <nb="2011"> 2476
@@ -47736,9 +47705,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Gheu'er, une montagne de Yongning.
 \gf Gheu'er_nom_de_montagne
 \xv qv̩˧ɻ̍˧-ʁo˧-qʰwɤ˥
-\xe the top of the |fv{/qv̩˧ɻ̍˧/} mountain
-\xn |fv{/qv̩˧ɻ̍˧/}山的山顶
-\xf le sommet de la montagne |fv{/qv̩˧ɻ̍˧/}
+\xe the top of the Gheu'er |fv{/qv̩˧ɻ̍˧/} mountain
+\xn 古尔山山的山顶
+\xf le sommet de la montagne Gheu'er |fv{/qv̩˧ɻ̍˧/}
 
 \lx qv̩˧tɕi˥
 \sf <nb="2011"> 306
@@ -50596,7 +50565,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 北方
 \df Nord (littéralement: «les contrées tibétaines»).
 \gf nord
-\dt 27/Apr/2017
 
 \lx ʁo˧dzi˩-tʰæ˩ɻæ˩
 \sf <nb="B"> 647
@@ -51815,16 +51783,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʁwɤ˧lɑ˩bi˩
 \so <print="n"> F4
 \de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
-\ge Wualabbi_village
-\dn 温泉村（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。
+\ge Wualabbi
+\dn 温泉村（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
 \gn 瓦拉比村
 \df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi.
-\gf village_de_Wualabbi
+\gf Wualabbi
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
-\dt 27/Apr/2017
 
 \lx ʁwɤ˧qʰv̩˧
 \sf <nb="B"> 35
@@ -51906,11 +51873,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʁwɤ˧tv̩˧
 \so <print="n"> F4
 \de Wuadu, a village near the Hot Springs.
-\ge village_name_Wuadu
+\ge Wuadu
 \dn 瓦都村：温泉乡的一个村落。经纬度：100.65672,27.80756
 \gn 瓦都村
 \df Wuadu, un village proche de Wenquan. C'était autrefois un village pumi. Dans les années 2010, il a une importante population chinoise (han).
-\gf nom_de_village_Wuadu
+\gf Wuadu
 \xv ʁwɤ˧tv̩˧-ʁwɤ˧
 \xe same meaning
 \xn 同上
@@ -51920,10 +51887,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv ʁwɤ˧tv̩˧: | bɤ˧!
-\xe |fv{/ʁwɤ˧tv̩˧/} is a Pumi village!
-\xn |fv{/ʁwɤ˧tv̩˧/}是一个普米族村落！
-\xf |fv{/ʁwɤ˧tv̩˧/}, c'est un village pumi!
-\dt 02/Oct/2015
+\xe Wuadu |fv{/ʁwɤ˧tv̩˧/} is a Pumi village!
+\xn 瓦都村是一个普米族村落！
+\xf Wuadu |fv{/ʁwɤ˧tv̩˧/}, c'est un village pumi!
 
 \lx ʁwɤ˧ʐv̩#˥
 \sf <nb="2011"> 3336
@@ -52481,13 +52447,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM-L
 \lc ɻ̍˩ʈʂʰe˧ɖɯ˩mɑ˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 02/Oct/2015
+\de Erchei Ddeema, a feminine given name.
+\ge Erchei_Ddeema
+\dn 二车独玛：一个女性名字
+\gn 二车独玛
+\df Erchei Ddeema, un prénom féminin.
+\gf Erchei_Ddeema
 
 \lx ɻ̍˩ʈʂʰe˧-tsʰɯ˩ɻ̍˩
 \or Erchei Ci'er
@@ -52497,13 +52462,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM-L
 \lc ɻ̍˩ʈʂʰe˧tsʰɯ˩ɻ̍˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 02/Oct/2015
+\de Erchei Ci'er, a masculine given name.
+\ge Erchei_Ci'er
+\dn 二车次尔：一个男性名字
+\gn 二车次尔
+\df Erchei Ci'er, un prénom masculin.
+\gf Erchei_Ci'er
 
 \lx ɻ̍˩ʈʂʰe#˥
 \or Erchei
@@ -52513,13 +52477,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM+#H
 \lc ɻ̍˩ʈʂʰe˥
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 02/Oct/2015
+\de Erchei, a masculine given name.
+\ge Erchei
+\dn 二车：一个男性名字（还音译为‘尔青’）
+\gn 二车
+\df Erchei, un prénom masculin.
+\gf Erchei
 
 \lx ɻ̍̃˧ʈʂwæ˩
 \or eunzhuae
@@ -52923,13 +52886,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton L#
 \so <print="n"> F4
-\de Shuhe: the name of a village in the Lijiang plain.
+\de Shaewua: the name of a village in the Lijiang plain, Shuhe in Chinese. The land in this village was poor, and many of its inhabitants turned to trade and travelled all over the region, earning the village a reputation as far afield as Yongning.
 \ge village_of_Shuhe
 \dn 束河（旧称：龙泉）：丽江坝子里的一个村落。由于束河商人多，经常有束河人到永宁等地，使得相当多的永宁人熟悉那个村落名。
 \gn 束河村
 \df Nom d'un village de la plaine de Lijiang: Shuhe, anciennement Longquan. Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, ce qui a valu à cette localité d'être connue jusqu'à Yongning.
 \gf village_de_Shuhe
-\dt 27/Apr/2017
 
 \lx ʂæ˩ɻ̍̃˩
 \sf <nb="2011"> 285
@@ -58257,12 +58219,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton L#
 \so <print="n"> F4
-\de A Na village down below Nisei, upward from Lataddi.
-\ge village_name
+\de Dazzee, a Na village down below Nisei, upward from Lataddi.
+\ge Dazzee
 \dn 村落名
 \gn 村落名
-\df Village na en contrebas de Nisei, en contrehaut de Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
-\gf nom_de_village
+\df Dazzee, village na en contrebas de Nisei, en contrehaut de Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
+\gf Dazzee
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
@@ -58294,13 +58256,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> given name
 \ton LM+#H
 \so <print="n"> F4
-\de Masculine given name given to the second among twins.
-\ge masculine_given_name
+\de Dajja, a masculine given name given to the second among twins.
+\ge Dajja
 \dn 男性名字，双胞胎中老二的名字
 \gn 男性名字
-\df Prénom masculin employé pour le second des jumeaux.
-\gf prénom_masculin
-\dt 27/Apr/2017
+\df Dajja, prénom masculin employé pour le second des jumeaux.
+\gf Dajja
 
 \lx tɑ˩˥fv̩˩˥
 \bw <langue="cmn"> 大粪
@@ -58554,7 +58515,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 大理（借词）
 \df Dali (nom de ville).
 \gf 大理::Dali
-\dt 09/Oct/2015
 
 \lx tʰɑ˩lo˧
 \or Talo
@@ -59140,13 +59100,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc ʈæ˧ʂɯ˧
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 09/Oct/2015
+\de Daeshi, a masculine given name.
+\ge Daeshi
+\dn 达石：一个男性名字（还音译为‘达诗’）
+\gn 达石
+\df Daeshi, un prénom masculin.
+\gf Daeshi
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
 \or Daeshi Ddeema
@@ -59159,13 +59118,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ʈæ˧ʂɯ˧ɖɯ˩mɑ˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 27/Apr/2017
+\de Daeshi Ddeema, a feminine given name.
+\ge Daeshi_Ddeema
+\dn 达石独玛：一个女性名字（还音译为‘达诗笃玛’）
+\gn 达石独玛
+\df Daeshi Ddeema, un prénom féminin.
+\gf Daeshi_Ddeema
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \or Daeshi Lhamu
@@ -59179,13 +59137,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 27/Apr/2017
+\de Daeshi Lhamu, a feminine given name.
+\ge Daeshi_Lhamu
+\dn 达石拉姆：一个女性名字
+\gn 达石拉姆
+\df Daeshi Lhamu, un prénom féminin.
+\gf Daeshi_Lhamu
 
 \lx ʈæ˧ʂɯ˧-pæ˩pʰæ˩
 \or Daeshi Baepae
@@ -59197,13 +59154,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ʈæ˧ʂɯ˧pæ˩pʰæ˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Daeshi Baepae, a masculine given name.
+\ge Daeshi_Baepae
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 27/Apr/2017
+\df Daeshi Baepae, un prénom masculin.
+\gf Daeshi_Baepae
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
 \or Daeshi Daedeu
@@ -59215,13 +59171,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ʈæ˧ʂɯ˧ʈæ˩ʈv̩˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Daeshi Daedeu, a masculine given name.
+\ge Daeshi_Daedeu
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 27/Apr/2017
+\df Daeshi Daedeu, un prénom masculin.
+\gf Daeshi_Daedeu
 
 \lx ʈæ˧ʂɯ˧-tsʰi˩ti˩
 \or Daeshi Ceedi
@@ -59233,13 +59188,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc ʈæ˧ʂɯ˧tsʰi˩ti˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Daeshi Ceedi, a masculine given name.
+\ge Daeshi_Ceedi
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 06/Jun/2017
+\df Daeshi Ceedi, un prénom masculin.
+\gf Daeshi_Ceedi
 
 \lx tʰɑ˩tʰɑ˩
 \sf <nb="2011"> 2675
@@ -59336,13 +59290,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton LM+#H
 \lc ʈæ˩ʈv̩˥
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Daedeu, a masculine given name.
+\ge Daedeu
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 09/Oct/2015
+\df Daedeu, un prénom masculin.
+\gf Daedeu
 
 \lx tʰɑ˧v̩˥
 \or tawu
@@ -59748,11 +59701,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \so <print="n"> F4
 \de Jiaze, a hamlet to the north of Labai
 \ge 加泽::Jiaze
-\dn 拉伯乡加泽村
+\dn 拉伯乡加泽村。经纬度：100.46273,27.83233
 \gn 加泽村（借词）
 \df Jiaze, un hameau au nord de Labai
 \gf 加泽::Jiaze
-\dt 23/Jun/2017
 
 \lx tɕi˩˥
 \sf <nb="B"> 546a
@@ -60019,13 +59971,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc tɕʰi˧ɖv̩˧
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
+\de Qiddeu, a feminine given name.
+\ge Qiddeu
 \dn 女性名字
 \gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
-\dt 23/Jun/2017
+\df Qiddeu, un prénom féminin.
+\gf Qiddeu
 
 \lx tɕi˧-dʑɯ˩
 \or jiejji
@@ -60806,11 +60757,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc tɕʰɤ˧pɤ˧mi˧
 \cf nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
 \so <print="n"> F4
-\de The name of a sacred spring located in a cave on mount |fv{/nɑ˩tsʰi˩/}.
+\de Qebemi: the name of a sacred spring located in a cave on mount |fv{/nɑ˩tsʰi˩/}.
 \ge a_sacred_spring
 \dn 一处神泉：巧吧咪
 \gn 一处神泉
-\df Nom d'une source sacrée, située dans une grotte, sur la montagne |fv{/nɑ˩tsʰi˩/}.
+\df Qebemi: nom d'une source sacrée, située dans une grotte, sur la montagne |fv{/nɑ˩tsʰi˩/}.
 \gf une_source_sacrée
 \xv nɑ˩tsʰi˩˥ | tɕʰɤ˧pɤ˧-mi#˥
 \xe full name of the mountain where the spring is located
@@ -62390,13 +62341,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> given name
 \ton H#
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 16/Jun/2017
+\de Diddeo, a masculine given name.
+\ge Diddeo
+\dn 棣嘟：一个男性名字
+\gn 棣嘟
+\df Diddeo, un prénom masculin.
+\gf Diddeo
 
 \lx tʰi˩mi#˥
 \or timi
@@ -63762,12 +63712,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton #H
 \so <print="n"> F4
-\de A village close to the Hot Springs.
-\ge village_name
+\de Toceiwua, a village close to the Hot Springs.
+\ge Toceiwua
 \dn 拖其村：温泉乡的一个村落
 \gn 拖其村
-\df Un village proche des Sources Chaudes.
-\gf nom_de_village
+\df Toceiwua, un village proche des Sources Chaudes.
+\gf Toceiwua
 \xv tʰo˧tsʰe#˥
 \xe same meaning
 \xn 同上
@@ -63777,10 +63727,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv tʰo˧tsʰe˧: | bɤ˧!
-\xe |fv{/tʰo˧tsʰe˧/} is a Pumi village!
+\xe Toceiwua |fv{/tʰo˧tsʰe˧/} is a Pumi village!
 \xn 拖其村是一个普米族村落！
-\xf |fv{/tʰo˧tsʰe˧/}, c'est un village pumi!
-\dt 27/Apr/2017
+\xf Toceiwua |fv{/tʰo˧tsʰe˧/}, c'est un village pumi!
 
 \lx to˩ʈɯ˩
 \sf <nb="2011"> 1345
@@ -63816,11 +63765,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \so <print="n"> F4
 \de Todee, a village in Yongning.
-\ge village_name
+\ge Todee
 \dn 拖支村，拖支开基村（永宁的一个村落）。经纬度：100.65165,27.73050
 \gn 拖支村
 \df Todee, un village de Yongning.
-\gf nom_de_village
+\gf Todee
 \xv dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
@@ -64830,12 +64779,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H#
 \lc ʈʂʰɑ˧nɑ˥
 \so <print="n"> F4
-\de The name of a sacred spring, at the foot of a cliff, on the mountain |fv{/qv̩˧ɻ̍#˥/}.
-\ge name_of_a_spring
+\de Chana, the name of a sacred spring, at the foot of a cliff, on the mountain |fv{/qv̩˧ɻ̍#˥/}.
+\ge Chana
 \dn 一眼山泉的名字：川纳
 \gn 一眼山泉的名字
-\df Nom d'une source sacrée, située au pied d'une falaise, sur la montagne |fv{/qv̩˧ɻ̍#˥/}; on disait que son eau sortait du ventre de la montagne. Le récit DumbChildren raconte comment son eau était utilisée comme remède de fertilité.
-\gf nom_d_une_source
+\df Chana, nom d'une source sacrée, située au pied d'une falaise, sur la montagne |fv{/qv̩˧ɻ̍#˥/}; on disait que son eau sortait du ventre de la montagne. Le récit DumbChildren raconte comment son eau était utilisée comme remède de fertilité.
+\gf Chana
 \xv qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥#
 \xe the full name of the mountain
 \xn 山的全名，包括水泉名
@@ -64856,12 +64805,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H#
 \lc qv̩˧ɻ̍˧ʈʂʰɑ˧nɑ˥
 \so <print="n"> F4
-\de The name of a mountain: Gheu'er-Chana.
-\ge name_of_a_mountain
+\de Gheu'er-Chana, the name of a mountain.
+\ge Gheu'er_Chana
 \dn 一座山的名字：古尔川纳
 \gn 一座山的名字
 \df La montagne Gheu'er-Chana.
-\gf nom_d_une_montagne
+\gf Gheu'er_Chana
 \xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̍˧-ʈʂʰɑ˧nɑ˥ |
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
@@ -65494,12 +65443,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton M
 \lc tsʰe˧di˧
 \so <print="n"> F4
-\de Jiaze, a hamlet to the north of Labai
-\ge Jiaze
-\dn 拉伯乡加泽村
+\de Ceiddi, a hamlet to the north of Labai
+\ge Ceiddi
+\dn 拉伯乡加泽村。经纬度：100.46273,27.83233
 \gn 加泽村
-\df Jiaze, un hameau au nord de Labai
-\gf Jiaze
+\df Ceiddi, un hameau au nord de Labai
+\gf Ceiddi
 \xv tsʰe˧di˧-qo˩qɑ˩
 \xe Jiaze Pass.
 \xn 加泽垭口
@@ -65851,12 +65800,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton H#-L
 \lc tse˧mi˥dʑɯ˩ʁo˩
 \so <print="n"> F4
-\de The village of Wenquan, in the plain of Yongning, where hot springs are located, hence the Chinese name Wenquan, ‘hot springs'.
-\ge Wenquan
+\de Zeimi Jjiwo: the village of Wenquan, in the plain of Yongning, where hot springs are located, hence the Chinese name Wenquan, ‘hot springs'.
+\ge Zeimi_Jjiwo
 \dn 温泉乡的主要村落
 \gn 温泉乡的主要村落
-\df Le village de Wenquan (possède des sources chaudes).
-\gf Wenquan
+\df Le village de Zeimi Jjiwo (possède des sources chaudes). xxxx est-ce un synonyme du nom des Sources Chaudes, Wenquan, ʁwɤ˧lɑ˩-bi˩? auquel cas l'information géolocalisée peut être recopiée ici: 经纬度：100.69718,27.82334
+\gf Zeimi_Jjiwo
 \dt 05/Aug/2017
 
 \lx tsʰe˧ɲi˧
@@ -66946,13 +66895,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc tsʰi˧ti˧
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
+\de Ceedi, a masculine given name.
+\ge Ceedi
 \dn 男性名字
 \gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 07/Oct/2015
+\df Ceedi, un prénom masculin.
+\gf Ceedi
 
 \lx tsʰi˩tsʰi˩
 \sf <nb="B"> 2041
@@ -66975,7 +66923,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 豌豆
 \df Pois, petits pois.
 \gf pois
-\dt 07/Oct/2015
 
 \lx tsʰi˩tv̩˩
 \sf <nb="B"> 215
@@ -68300,11 +68247,11 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lc ʈʂo˧ʂɯ˧
 \so <print="n"> F4
 \de Name of a village: Zhoshi.
-\ge Zhoshi_village_name
+\ge Zhoshi
 \dn 忠实（永宁的一个村落）。经纬度：100.66946,27.74125
 \gn 忠实村
 \df Village de Zhoshi.
-\gf nom_de_village_Zhoshi
+\gf Zhoshi
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
@@ -69695,12 +69642,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc tsʰɯ˧ɻ̍˧ɖɯ˩mɑ˩
 \so <print="n"> F4
-\de Feminine given name.
-\ge feminine_given_name
-\dn 女性名字
-\gn 女性名字
-\df Prénom féminin.
-\gf prénom_féminin
+\de Ci'er Ddeema, a feminine given name.
+\ge Ci'er_Ddeema
+\dn 次尔独玛：一个女性名字
+\gn 次尔独玛
+\df Ci'er Ddeema, un prénom féminin.
+\gf Ci'er_Ddeema
 
 \lx tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
@@ -69711,15 +69658,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \nt <type="sem"> Nom porté par une des femmes de la génération de la grand-mère de F4, et par une de ses petites-filles.
 \ton -L
 \lc tsʰɯ˧ɻ̍˧ɬɑ˩mv̩˩
-\nt <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
-\nt <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li].
+\np <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\np <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. La restitution en caractères chinois, Cilin Lamu |fn{慈琳拉姆}, reflète cette prononciation amuie.
 \so <print="n"> F4
 \de Feminine given name: Ci'er Lhamu.
-\ge feminine_given_name
-\dn 女性名字：慈琳拉姆
-\gn 女性名字：慈琳拉姆
+\ge Ci'er_Lhamu
+\dn 次尔拉姆：一个女性名字（还音译为慈琳拉姆）
+\gn 次尔拉姆
 \df Prénom féminin: Ci'er Lhamu
-\gf prénom_féminin
+\gf Ci'er_Lhamu
 
 \lx tsʰɯ˧ɻ̍˧-pʰi˩tsʰo˩
 \or Ci'er Pico
@@ -69729,13 +69676,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton -L
 \lc tsʰɯ˧ɻ̍˧pʰi˩tsʰo˩
 \so <print="n"> F4
-\de Masculine given name.
-\ge masculine_given_name
-\dn 男性名字
-\gn 男性名字
-\df Prénom masculin.
-\gf prénom_masculin
-\dt 27/Apr/2017
+\de Ci'er Pico, a masculine given name.
+\ge Ci'er_Pico
+\dn 次尔品初：一个男性名字
+\gn  次尔品初
+\df Ci'er Pico, un prénom masculin.
+\gf Ci'er_Pico
 
 \lx tsʰɯ˧ɻ̍#˥
 \or Ci'er
@@ -69747,13 +69693,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \lc tsʰɯ˧ɻ̍˧
 \so <print="n"> F4
-\de A unisex given name: a given name used for both men and women.
-\ge unisex_given_name
-\dn 男女通用名
-\gn 男女通用名
-\df Prénom unisexe: prénom utilisé pour les deux sexes.
-\gf prénom_unisexe
-\dt 07/Oct/2015
+\de Ci'er, a unisex given name: a given name used for both men and women.
+\ge Ci'er
+\dn 次尔：男女通用名（还音译为‘慈琳、‘此尔’）
+\gn 次尔
+\df Ci'er, un prénom unisexe: prénom utilisé pour les deux sexes.
+\gf Ci'er
 
 \lx ʈʂʰɯ˧ʂo˧
 \sf <nb="B"> 744
@@ -70209,13 +70154,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton MH#
 \lc ʈʂv̩˧di˧˥
 \so <print="n"> F4
-\de Name of a village outside the plain of Lijiang, in the vicinity of the Lake, close to |fv{/lɑ˧tʰɑ˧-di˧˥/}.
-\ge village_name
+\de Zhuddi, a village outside the plain of Yongning, in the vicinity of the Lake, close to |fv{/lɑ˧tʰɑ˧-di˧˥/}.
+\ge Zhuddi
 \dn 村落名
 \gn 村落名
-\df Village na hors de la plaine de Yongning, vers le Lac, non loin de |fv{/lɑ˧tʰɑ˧-di˧˥/}.
-\gf nom_de_village
-\dt 07/Oct/2015
+\df Zhuddi, village na hors de la plaine de Yongning, vers le Lac, non loin de |fv{/lɑ˧tʰɑ˧-di˧˥/}.
+\gf Zhuddi
 
 \lx ʈʂv̩˩dʑɯ˥
 \sf <nb="2011"> 304
@@ -71774,10 +71718,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sf <nb="2011"> 1323
 \or tugho
 \ps pro
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place name
+\sd <langue="fra"> espace
+\sd <langue="eng"> space
 \nt <type="hist" langue="fra" print="n"> type d1 (tʰv̩˧ko˧ɲi˩)
-\nt <type="sem"> vérifié: initiale uvulaire et non vélaire
+\nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire et non vélaire
 \ton M
 \lc tʰv̩˧qo˧
 \so <print="n"> F4
@@ -72647,12 +72591,12 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> place name
 \ton #H
 \so <print="n"> F4
-\de Wujiao township.
-\ge Wujiao
-\dn 屋脚（村落名）
+\de Vujjo: Wujiao township, in Muli.
+\ge Vujjo
+\dn 屋脚（四川省凉山彝族自治州木里藏族自治县屋脚蒙古族乡）：一个村落的名字。经纬度：100.74790,27.95846
 \gn 屋脚村
-\df Wujiao (nom de village).
-\gf Wujiao
+\df Vujjo, un village de Muli (Wujiao en chinois).
+\gf Vujjo
 \dt 24/Jul/2017
 
 \lx v̩˩dʑɯ˩
@@ -76406,9 +76350,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ge banks_of_the_Yangtze
 \dn 金沙江边的地方（气候热）
 \gn 金沙江边
-\df Les rives du Yangtze; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants F4, F5, M21.).
+\df Les rives du Yangtze; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants F4, F5, M21.)
 \gf rives_du_Yangtze
-\dt 06/Oct/2015
 
 \lx ʐv̩˧dzi˩
 \sf <nb="B"> 2025
