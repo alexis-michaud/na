@@ -3084,6 +3084,32 @@
 \xc 读博士
 \xf préparer un doctorat, être en doctorat
 
+\lx ɕje˧se˧
+\or boshi
+\bw <langue="cmn"> 先生
+\ps n
+\lc ɕje˧se˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\so <print="n"> F4
+\de Sir: respectful term of address
+\ge 先生::sir
+\dn 先生（尊敬的称呼）
+\gn 先生（借词）
+\df Monsieur: terme respectueux
+\gf 先生::monsieur
+\xv hæ˧-ɕje˧se˧
+\xe “Han sir”: respectful term for Han (Chinese) people coming to Yongning (teachers, doctors, engineers...).
+\xn 汉族先生：来指到永宁来的内地汉族（尊敬说法）：老师、医生、工程师等等
+\xf “Monsieur chinois”: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs...
+\xc <langue="fra" type="tone"> ton M
+\xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
+\xe This person is a “Sir” / a distinguished person!
+\xn ＋系词
+\xf Cette personne, c'est un monsieur / une personne distinguée!
+\xc PHONO
+
 \lx bo
 \or bbo
 \bw <langue="cmn"> 啵
@@ -3118,6 +3144,22 @@
 \gf |fg{ideo}_Boum!
 \dt 24/Apr/2017
 
+\lx hwɑ.lɑ~hwɑ.lɑ~hwɑ.lɑ
+\or huala-huala-huala rrrr
+\bw <langue="cmn"> 哗啦
+\ps ideophone
+\lc hwɑ.lɑ.hwɑ.lɑ.hwɑ.lɑ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Rattling noise: small, hard objects such as dice or Mah-Jong pieces rattling against one another.
+\ge |fg{ideo}_rattling
+\dn 形声词：骰子或麻将牌等小而硬的物体相互碰撞发出的响声。
+\gn 哗啦！
+\df Bruit d'objets qui s'entrechoquent, par exemple des dés ou des pièces de mah-jong qui s'entrechoquent.
+\gf |fg{ideo}_Brroum!
+
 \lx ʂwɑ~ʂwɑ~ʂwɑ
 \or shuashuashua
 \ps ideophone
@@ -3133,6 +3175,22 @@
 \gn 下雨声
 \df Onomatopée: bruit de la pluie.
 \gf |fg{ideo}_bruit_de_la_pluie
+
+\lx ɕjo.ho~ɕjo.ho~ɕjo.ho
+\or xohoxohoxoho rrrr
+\ps ideophone
+\lc ɕjo.ho.ɕjo.ho.ɕjo.ho
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Onomatopoeia for the sound of soup bubbling in a large saucepan.
+\ge |fg{ideo}_sound_of_rain
+\dn 形声词：汤在锅里冒泡的声音
+\gn 冒泡的声音
+\df Onomatopée: bouillonnement de la soupe dans une casserole.
+\gf |fg{ideo}_bouillonnement
+\xpan Benevolence.180
 
 \lx ʈʂʰwɑ~ʈʂʰwɑ~ʈʂʰwɑ
 \or chuachuachua
@@ -3363,7 +3421,7 @@
 \so <print="n"> F4
 \de To winnow.
 \ge to_winnow
-\dn簸扬
+\dn 簸扬
 \gn 簸扬
 \df Vanner.
 \gf vanner
@@ -5796,7 +5854,7 @@
 \dt 27/Aug/2015
 
 \lx ɕi˧tɕʰi˧-tʰjæ˧
-\or xingqi tian
+\or xiqitian
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -7830,6 +7888,8 @@
 
 \lx ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩
 \or Ddeezzhi Ci'er
+\et ɖɯ˩ɖʐɯ˧
+\et tsʰɯ˧ɻ̍#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7930,6 +7990,8 @@
 
 \lx ɖɯ˩mɑ˧-ɬɑ˩tsʰo˩
 \or Ddeema Lhaco
+\et ɖɯ˩mɑ#˥
+\et ɬɑ˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7945,6 +8007,8 @@
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
+\et ɖɯ˩mɑ#˥
+\et pv̩˩ʈʰɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -9053,6 +9117,30 @@
 \gf argent
 \dt 27/Aug/2015
 
+
+\lx kɤ˧sɑ˥$
+\or Gesa rrrr
+\ps n
+\lc kɤ˧sɑ˥
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton H$
+\so <print="n"> F4
+\de Gesa, a family name from Yongning.
+\ge Gesa_clan
+\dn 格萨（姓）。这个家族有一个家庭。
+\gn 格萨：一个姓
+\df Gesa, nom de clan/famille étendue qui compte une famille (qui a donné son nom à un village de la plaine de Yongning).
+\gf clan_Gesa
+\xv kɤ˧sɑ˧=ɻ˥
+\xe the Gesa |fv{/kɤ˧sɑ˥$/} clan, the Gesa |fv{/kɤ˧sɑ˥$/} family
+\xn 格萨家族
+\xf le clan Gesa |fv{/kɤ˧sɑ˥$/}, la famille Gesa |fv{/kɤ˧sɑ˥$/}
+\xv kɤ˧sɑ˧=ɻ˥, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xe There is one family carrying the name Gesa |fv{/kɤ˧sɑ˥$/}, making up one clan!
+\xn 姓格萨的，有一家，形成一个家族！
+\xf Il y a une famille qui porte le nom Gesa |fv{/kɤ˧sɑ˥$/}; elle constitue un clan!
+
 \lx dze˧bo˧
 \or Zzeibbo
 \ps n
@@ -9072,10 +9160,10 @@
 \xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family
 \xn 者波家族
 \xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
-\xv dze˧bo˧=ɻ̍˩, 6 so˧-ʑi˧, ɨ ɖɯ˧-ɻ̃˥!
-\xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family contains three families, making up one 'bone'!
-\xn 者波家族
-\xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
+\xv dze˧bo˧=ɻ̍˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xe There are three families carrying the name Zzeibbo |fv{/dze˧bo˧/}, making up one clan!
+\xn 姓者波的，有三家，形成一个家族！
+\xf Il y a trois familles qui portent le nom Zzeibbo |fv{/dze˧bo˧/}; elles constituent un clan!
 \sn 2
 \nt <type="hist" langue="fra" print="n"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575,27.81762
 \de Zzeibbo, a village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
@@ -11229,6 +11317,8 @@
 
 \lx dʑɤ˩tsʰi˧-ɖɯ˩mɑ˩
 \or Jjacee Ddeema
+\et dʑɤ˩tsʰi#˥
+\et ɖɯ˩mɑ#˥
 \ps n
 \lc dʑɤ˩tsʰi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -11245,6 +11335,7 @@
 
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
 \or jjaceezeemu
+\et dʑɤ˩tsʰi#˥
 \ps n
 \lc dʑɤ˩tsʰi˧tsi˩mv̩˩
 \sd <langue="fra"> religion
@@ -14266,7 +14357,7 @@
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="sem"> sans doute famille qui a donné son nom au village de ɑ˧lɑ˧-ʁwɤ˧
+\nt <type="sem" langue="fra"> C'est cette famille qui a donné son nom au village de |fv{ə˧lɑ˧-ʁwɤ˧}.
 \ton M
 \lc ə˧lɑ˧
 \so <print="n"> F4
@@ -16342,6 +16433,23 @@
 \df Dieu, bouddha, bodhisattva.
 \gf bodhisattva
 \dt 24/Apr/2017
+
+\lx pʰv̩˩sɑ˧
+\or pusa rrrr
+\bw <langue="cmn"> 菩萨
+\ps n
+\lc pʰv̩˩sɑ˧
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton LM
+\so <print="n"> F4
+\pdv v̩˧
+\de Pusa.
+\ge pusa
+\dn 菩萨
+\gn 菩萨
+\df Pusa.
+\gf pusa
 
 \lx gɤ˧lɑ˧-pɤ#˥
 \sf <nb="2011"> 993
@@ -19290,7 +19398,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 24/Apr/2017
 
 \lx hi˧le˩
-\or xiele
+\or xielei
 \ps adj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -22301,6 +22409,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
+\va <speaker="M21"> dʑɯ˩ʁo˩ ʝi˩
 \pdv pʰo˧˥
 \de Wild ox.
 \ge wild_ox
@@ -22308,7 +22417,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 野牛
 \df Bison, vache sauvage, bœuf sauvage.
 \gf vache/bœuf_sauvage
-
 \lx ʝi˥
 \sf <nb="B"> 1278
 \sf <nb="2011"> 1838
@@ -22350,10 +22458,18 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to take care of the household, to look after the affairs of the family; in particular: distributing work to the various members, and ensuring that the supplies are not running low
 \xn 管理家里的大小事情（如：分配工作、家务等）
 \xf gérer la maisonnée, s'occuper de la famille (tâche de la personne qui répartit les travaux à accomplir, veille aux approvisionnements…)
+\xv ɑ˩ʁo˧ le˧-ʝi˥, | se˩ mɤ˩-tʰɑ˥!
+\xe Taking care of the household is a neverending task!
+\xn 管理家里，是官不完的（一直有活）
+\xf gérer la maisonnée, s'occuper de la famille, c'est sans fin!
 \xv ɡɤ˩-ʝi˧ mv̩˥-ʝi˩
 \xe to be busy on all fronts, to juggle with a variety of tasks
 \xn 东忙西忙，一直非常忙
 \xf s'affairer dans tous les sens, courir sans répit d'une tâche à l'autre
+\xv ə˧tso˧-mɤ˧-ɲi˩, | le˧-ʂe˧, | le˧-ʝi˥!
+\xe We get all sorts of things (all the necessary paraphernalia for a ritual, a feast…) and we do (all that needs to be done)! / We get all sorts of things ready (for the ritual / the feast), we do what needs to be done!
+\xn 所有（的东西都）找、作！= 所有的东西都备好了，该作的工作都做
+\xf (En vue d'un rituel, d'une fête…) on rassemble toutes sortes de choses; on fait tout ce qu'il y a à faire! / On prépare tout par avance (pour le rituel/la fête)!
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22457,27 +22573,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe I have told people the news.
 \xn 我告诉了人家（那个消息）。
 \xf j'ai annoncé la nouvelle aux gens / j'ai annoncé une nouvelle à quelqu'un
-\dt 02/Sep/2015
-
-\lx ʝi˥
-\hm 6
-\or yi
-\ps v
-\lc ʝi˧
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton H
-\so <print="n"> F4
-\de Verb of existence, for movable things.
-\ge |fg{exist}
-\dn 存在动词：有（可移动物品）
-\gn 存在动词：有
-\df Verbe d'existence: choses amovibles.
-\gf |fg{exist}
-\xv ə˧tso˧-mɤ˧-ɲi˩, | le˧-ʂe˧, | le˧-ʝi˥!
-\xe We get all sorts of things (all the necessary paraphernalia for a ritual, a feast…) and we have it (at hand for when we need it) / We get all sorts of things ready (for the ritual / the feast)!
-\xn 所有（的东西都）找，（就）有了 = 所有的东西都备好了
-\xf (En vue d'un rituel, d'une fête…) on rassemble toutes sortes de choses; on en a (sous la main)/on a fait une provision! / On prépare tout par avance (pour le rituel/la fête)!
 \dt 02/Sep/2015
 
 \lx ʝi˧β
@@ -23117,6 +23212,23 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Yishi, un prénom masculin.
 \gf Yishi
 
+\lx ʝi˧ʂɯ˥-ti˩ɖo˩
+\or Yishi Diddeo
+\et ʝi˧ʂɯ˥
+\et ti˧ɖo˥
+\ps n
+\lc ʝi˧ʂɯ˥ti˩ɖo˩
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton H#-
+\so <print="n"> F4
+\de Yishi Diddeo, a masculine given name.
+\ge Yishi_Diddeo
+\dn 男性名字
+\gn 男性名字
+\df Yishi Diddeo, un prénom masculin.
+\gf Yishi_Diddeo
+
 \lx ʝi˧tɕi˧
 \hm 1
 \or Yijie
@@ -23136,6 +23248,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
 \or Yijie Ddeema
+\et ʝi˧tɕi˧
+\et ɖɯ˩mɑ#˥
 \ps n
 \lc ʝi˧tɕi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -23152,6 +23266,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
+\et ʝi˧tɕi˧
+\et ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -24026,9 +24142,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 杨把事家族
 \xf 〜 |fg{associatif}: les gens de la famille Yebaesi
 \xv jɤ˩pɑ˧sɯ˥ | ʈæ˧ʂɯ˧
-\xe the proper name of a person of the Yebaesi family (given name: Dashi): ‘Dashi of the Yebaesi family'.
+\xe the proper name of a person of the Yebaesi family (given name: Daeshi): ‘Daeshi of the Yebaesi family'.
 \xn 杨把事家的一个人的名字：杨把事·达石
-\xf nom propre d'une personne de la famille Yebaesi: ‘Dashi de la famille Yebaesi'.
+\xf nom propre d'une personne de la famille Yebaesi: ‘Daeshi de la famille Yebaesi'.
 
 \lx jɤ˩po˧
 \sf <nb="2011"> 1725
@@ -24705,6 +24821,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx ki˧zo˧-ɖɯ˩mɑ˩
 \or Gisso Ddeema
+\et ki˧zo#˥
+\et ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -24721,6 +24839,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lx ki˧zo˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3287
 \or Gisso Lhamu
+\et ki˧zo#˥
+\et ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -25651,19 +25771,19 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf clochette
 \dt 05/Sep/2017
 
-\lx kɤ˧ʈʂɯ˩
+\lx kɤ˥ʈʂɯ˩
 \sf <nb="B"> 638
 \sf <nb="B"> 1124
 \sf <nb="2011"> 953
-\hm 1
 \or gezhi
 \ps v
-\cf kɤ˧ʈʂɯ˩2
+\cf kɤ˧ʈʂɯ˩
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" langue="fra" print="n"> (confirmé en mai 2008; avant 2009: noté ˥ ˩) (avant 2009: noté: /njɤ˥ ɳɯ˥ kɤ˥ʈʂɯ˩ bi˩/)(cf enrt 16 mai 08)
-\nt <type="sem"> est entre nom et prédicat
-\ton L#
+\nt <type="hist" langue="fra" print="n"> Ton noté H.L jusqu'en 2009, puis corrigé en M.L. Avant 2009: noté /njɤ˥ ɳɯ˥ kɤ˥ʈʂɯ˩ bi˩/.
+\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /tʰɑ˧-kɤ˧ʈʂɯ˩/ ɑu lieu de /tʰɑ˧-kɤ˥ʈʂɯ˩/.
+\nt <type="sem"> Ce terme est intéressant par l'existence d'une forme verbale et d'une forme nominale, et par la syntaxe de sa forme verbale, la négation pouvant se placer devant le disyllabe, ou devant sa deuxième syllabe (comme un infixe).
+\ton HL
 \lc kɤ˧ʈʂɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -25676,40 +25796,56 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 讲
 \df Parler, raconter.
 \gf parler
-\xv hĩ˧-ki˧ | tʰɑ˧-kɤ˧ʈʂɯ˩!
+\xv tʰɑ˧-kɤ˥ʈʂɯ˩!
+\xe Stop talking! / Shut up! / Don't say it!
+\xn 别说话了！　／　别说！
+\xf Tais-toi! / Ferme-la! / Ne dis rien!
+\xv hĩ˧-ki˧ | tʰɑ˧-kɤ˥ʈʂɯ˩!
 \xe Don't tell it! / Don't tell anyone!
 \xn 不要告诉人家！
 \xf il ne faut pas le dire aux gens! / c'est secret!
-\xv kɤ˧-tʰɑ˥-ʈʂɯ˩!
-\xe Don't tell it! / Don't tell anyone!
-\xn 不要告诉人家！
-\xf il ne faut pas le dire! / c'est secret!
-\xc <langue="fra"> Le prohibitif peut s'insérer entre les deux syllabes, aussi bien qu'avant la 1e syllabe. La variante infixée est stylistiquement plus marquée, plus forte.
-\xv njɤ˧-ɳɯ˧ | kɤ˧ʈʂɯ˩-bi˩!
-\xe I'm going to (jump in and) say something!
-\xn 我要说一点事情！
-\xf je vais intervenir/je vais dire quelque chose!
-\xv no˧ | kɤ˧ʈʂɯ˩ dʑo˩-ɲi˩!
-\xe You have to say something!
-\xn 你得说话啊！
-\xf il faut que tu dises quelque chose!
-\xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ | dʑɤ˩˥ | mɤ˧-mv̩˧-sɯ˥! / ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ dʑɤ˩˥ | mɤ˧-mv̩˧~mv̩˧-sɯ˥!
-\xe She does not really understand yet! (About a toddler aged 2 who does not yet speak distinctly or follow conversations)
-\xn 她还不怎么听得懂话！（关于一个不会说话的两岁小孩）
-\xf elle ne comprend pas encore grand'chose à ce qu'on dit! / elle ne sait pas encore comprendre ce qu'on dit! (au sujet d'une fillette de moins de 2 ans qui ne parle pas encore)
-\xv tʰɑ˧-kɤ˧ʈʂɯ˩! | hĩ˧ ɳv̩˧ tʰɑ˧-kʰɯ˩!
+\xv tʰɑ˧-kɤ˥ʈʂɯ˩! | hĩ˧ | ɳv̩˧ tʰɑ˧-kʰɯ˩!
 \xe Don't talk about it! Don't let people know!
 \xn 不要告诉（人家）！别让人家知道！
 \xf N'en parle pas! il ne faut pas que les gens le sachent!
+\xv kɤ˧-tʰɑ˧-ʈʂɯ˩!
+\xe Don't tell it! / Don't tell anyone!
+\xn 不要告诉人家！
+\xf il ne faut pas le dire! / c'est secret!
+\xc <langue="fra" type="sem"> Le prohibitif peut s'insérer entre les deux syllabes, aussi bien qu'avant la première. La variante infixée est stylistiquement plus marquée, plus forte.
 \xv hĩ˧-ki˧ | kɤ˧-mɤ˧-ʈʂɯ˩
-\xe not to tell people; (to do something secretly) without telling anyone
+\xe to keep something secret; not to tell people
 \xn 不跟人家说（自己做什么事）
-\xf (faire quelque chose) en cachette, sans le dire à personne
-\xv kɤ˧ʈʂɯ˩ ɲi˩
-\xe well-behaved, obedient (child) (literally: who listens to what (s)he is told)
-\xn 听话，乖（来形容一个孩子）
-\xf sage (au sujet d'un enfant) (littéralement: qui écoute ce qu'on lui dit)
-\dt 03/Sep/2015
+\xf garder le secret (au sujet de quelque chose), ne rien dire à personne (d'une action qu'on souhaite entreprendre en cachette)
+\xv njɤ˧-ɳɯ˧ | kɤ˧ʈʂɯ˩-bi˩!
+\xe I'm going to (jump in and) say something!
+\xn 我要说一点事情！ / 我要告诉（人家）！
+\xf je vais intervenir/je vais dire quelque chose!
+\xv ʈʂʰɯ˧-se˥, | kɤ˧-mɤ˧-ʈʂɯ˩!
+\xe She's a woman of few words!/He's a man of few words! / (S)he's not a talkative person!
+\xn 他是话少的人！　／　他是个寡言少语的人！
+\xf C'est un taiseux/une taiseuse! / C'est quelqu'un de pas bavard! / C'est pas quelqu'un de bavard!
+\xv ʈʂʰɯ˧-se˥, | mɤ˧-kɤ˥-ʈʂɯ˩!
+\xe As above.
+\xn 同上。
+\xf Idem.
+\xv ʈʂʰɯ˧ | mɤ˧-kɤ˥ʈʂɯ˩ zo˩ | ɖɯ˧-v̩˧!
+\xe He's a man of few words! / He's not a talkative person!
+\xn 他是话少的人！　／　他是个寡言少语的人！
+\xf C'est un taiseux! / C'est quelqu'un de pas bavard! / C'est pas quelqu'un de bavard!
+\xv no˧ | kɤ˧ʈʂɯ˩ dʑo˩-ɲi˩!
+\xe You promised!
+\xn 你答应了！
+\xf Tu avais promis!
+\xv ʁo˧dɑ˧ ɖɯ˧-ɲi˥-ɳɯ˩, ʈʂʰɯ˧ kɤ˧ʈʂɯ˩ dʑo˩-ɲi˩!
+\xe He said yes before; he promised! (A sentence indicating disappointment)
+\xn 他以前说好了，答应好了！　／　他曾经答应过；他曾经承诺过！（表示失望）
+\xf Il avait dit oui, avant; il avait promis! (Phrase marquant une déception)
+\xv le˧-kɤ˥ʈʂɯ˩
+\xe |fg{accomp} 〜
+\xn 实施+ 〜
+\xf |fg{accomp} 〜
+\xc PHONO
 
 \lx kɤ˧ʈʂɯ˩
 \hm 2
@@ -25729,14 +25865,18 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to promise; to make an oath; also: to swear before the gods: when people had a disagreement that they were unable to settle, they would go to the monastery and present their point of view before the gods, swearing that they were telling the truth; the gods would then punish the guilty one (through plagues and misfortunes).
 \xn 答应，誓、发誓。两个人发生矛盾的时候，如果无法协调，他们会去大寺，在神像前讲述他们各自的观点，发誓他们自己讲的是真的。神会惩罚说谎的人（他家会有祸害）。
 \xf promettre; aussi: jurer ses grands dieux, prêter serment devant les Dieux: lorsque deux personnes avaient un différend qu'elles ne parvenaient pas à trancher, elles allaient raconter chacune sa version des faits devant les Dieux (au monastère); ceux-ci punissaient ensuite le coupable (par des calamités qui frappaient la famille du coupable).
-\xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩-ʝi˩
+\xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ ʝi˩
 \xe (s)he promises
 \xn 他答应
 \xf il/elle promet
 \xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ | mɤ˧-ʝi˥!
-\xe (s)he has not promised!
+\xe (S)he has not promised!
 \xn 他没有答应！
-\xf il n'a pas promis!
+/* \xf Elle/il n'a pas promis! */
+\xv kɤ˧ʈʂɯ˩ ɲi˩
+\xe well-behaved, obedient (child) (literally: who listens to what (s)he is told)
+\xn 听话，乖（来形容一个孩子）
+\xf sage (au sujet d'un enfant) (littéralement: qui écoute ce qu'on lui dit)
 \xv hĩ˧-kɤ˧ʈʂɯ˥ ɲi˩
 \xe to listen to people's advice, to pay attention to what other people say (a good attitude in the consultant's view)
 \xn 听别人的建议、把别人的话当回事
@@ -25749,7 +25889,14 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xe to fail to listen to people's advice
 \xn 听不进去别人的意见与建议
 \xf ne pas écouter les bons conseils, ne pas prêter attention à ce qu'on vous dit
-\dt 30/Jul/2016
+\xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ | dʑɤ˩˥ | mɤ˧-mv̩˧-sɯ˥!
+\xe She does not really understand yet! (About a toddler aged two who does not yet speak distinctly or follow conversations)
+\xn 她还不怎么听得懂话！（关于一个不会说话的两岁小孩）
+\xf elle ne comprend pas encore grand'chose à ce qu'on dit! / elle ne sait pas encore comprendre ce qu'on dit! (au sujet d'une fillette de moins de deux ans qui ne parle pas encore)
+\xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ | dʑɤ˩˥ | mɤ˧-mv̩˧~mv̩˧-sɯ˥!
+\xe as above
+\xn 同上
+\xf même sens
 
 \lx kɤ˧v̩#˥
 \sf <nb="2011"> 558
@@ -25773,7 +25920,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 护符
 \df Amulette.
 \gf amulette
-\dt 03/Sep/2015
+\xv no˧ | kɤ˧v̩˧ ne˩-ʲi˩-zo˩!
+\xe You are like an amulet to met!
+\xn 你像护符一样！
+\xf Tu es pour moi comme une amulette! (Tu prends soin de moi, tu m'apportes une vie heureuse, tu fais mon bonheur)
 
 \lx kɤ˧wɤ#˥
 \or ge'ua
@@ -25814,6 +25964,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx kɤ˧zo˧-tsʰɯ˩ɻ̍˩
 \or Gesso Ci'er
+\et kɤ˧zo#˥
+\et tsʰɯ˧ɻ̍#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -29170,9 +29322,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ge Lhasa
 \dn 拉萨
 \gn 拉萨
-\df Lhasa (capitale du Tibet).
+\df Lhasa (au Tibet).
 \gf Lhasa
-\dt 04/Sep/2015
 
 \lx lɑ˩tɑ˧
 \sf <nb="B"> 948
@@ -29238,6 +29389,9 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
 \or Latami Daeshi Lhamu
+\et lɑ˧tʰɑ˧mi˥$
+\et ʈæ˧ʂɯ˧
+\et ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -29465,7 +29619,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \dt 04/Sep/2015
 
 \lx le˩
-\or li
+\or lei
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -29650,8 +29804,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 量完（了）
 \xf 〜 |fg{achev} (|fg{pfv})
 \xc PHONO
-\xc <langue="fra"> Ce test permet de déterminer que le ton de ce verbe est La et non Lb.
-\dt 04/Sep/2015
+\xc <langue="fra" type="tone"> Ce test permet de déterminer que le ton de ce verbe est Lα et non Lβ.
 
 \lx ɬi˩
 \sf <nb="B"> 1909
@@ -29666,7 +29819,6 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton L
 \lc ɬi˧
 \so <print="n"> F4
-\va <speaker="M21"> ss doute erreur: dʑi˩ʁv̩˩i˩˧, dʑi˩ ʁv̩˩ i˩ ɲi˧
 \pdv pʰo˧˥
 \pdv mi˩
 \de Roebuck, hornless river deer.
@@ -29687,8 +29839,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton MH
 \lc ɬi˧˥
 \so <print="n"> F4
-\va <speaker="M21"> lə˧pv̩˧ tʰi˧ li˧˥
-\vf pas de ɬ stable mais le dit une fois /ɬ/, peut-être imitant ma prononciation); tʰi˧ li˧˥, tʰi˧ li˧ ze˥, ton 4
+\va <speaker="M21"> li˧˥
+\vf <langue="fra" type="phono"> Le locuteur prononce |fv{l} et non |fv{ɬ}. Toutefois, l'une des occurrences est réalisée avec |fv{ɬ}, peut-être par imitation de ma prononciation.
 \de To dry in the sun.
 \ge to_dry_in_the_sun
 \dn 晒干
@@ -29698,8 +29850,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xv le˧-pv̩˧ tʰi˧-ɬi˧˥
 \xe to put in the sun to dry
 \xn 晒干
-\xf exposer au soleil afin de faire sécher
-\dt 04/Sep/2015
+\xf mettre à sécher au soleil, exposer au soleil afin de faire sécher
 
 \lx ɬi˥
 \sf <nb="B"> 1044
@@ -29814,7 +29965,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ɬi˧bu˧, ton d2a; ɬi˧bu˧i:˧hĩ˥ “personne sourde": refusé par F4
+\va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Deaf person.
@@ -29823,7 +29974,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gn 聋子
 \df Sourd, personne sourde.
 \gf personne_sourde
-\xv ɬi˧bo˧-hĩ˧
+\xv ɬi˧bo˧ hĩ˧
 \xe deaf person
 \xn 耳朵聋的人
 \xf personne sourde
@@ -39937,6 +40088,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx no˧no˧-ɖɯ˩mɑ˩
 \or Nono Ddeema
+\et no˧no˧
+\et ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -42151,9 +42304,10 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx pʰi˩hæ˩
 \or pihae
-\bw <langue="cmn"> 皮 (second syllable: not identified)
+\bw <langue="xina1239"> 皮鞋
 \ps n
 \lc pʰi˩hæ˩˥
+\sy jɤ˩ɕjo˧-dzɑ˧qʰwɤ˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
@@ -42161,18 +42315,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \pdv dzi˧
 \pdc <langue="fra"> paire
 \de Sandal.
-\ge sandal
-\dn 凉鞋。汉语借词：第一个音节：皮，第二个音节：不明确，同|fv{/tɕæ˧hæ˩/}。
+\ge 皮鞋::sandal
+\dn 凉鞋。西南官话借词：第一个音节：皮，第二个音节：不明确，同|fv{/tɕæ˧hæ˩/}。
 \gn 凉鞋
 \df Sandale.
-\gf sandale
-\dt 26/Apr/2017
+\gf 皮鞋::sandale
 
 \lx pʰi˩ko˧
 \sf <nb="B"> 1973
-\sf <nb="B"> (et
-\sf <nb="B"> ancien
-\sf <nb="B"> 2063)
+\sf <nb="B"> 2063
 \sf <nb="2011"> 3000
 \or pigo
 \bw <langue="cmn"> 苹果
@@ -42292,6 +42443,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
 \or Bima Lhamu
+\et pi˧mɑ˧
+\et ɬɑ˧mv̩˥$
 \ps n
 \lc pi˧mɑ˧ɬɑ˩mv̩˩
 \sd <langue="fra"> nom propre
@@ -42307,6 +42460,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
 \or Bima Lhaco
+\et pi˧mɑ˧
+\et ɬɑ˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -42528,6 +42683,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
+\et pʰi˧tsʰo#˥
+\et ɖɯ˩ɖʐɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -42793,7 +42950,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \va <speaker="F5"> ID.
 \vf “graine", /ɻæ/, prononcé proche de læ
 \va <speaker="M21"> ID.
-\de To sow seeds, to scatter seeds.
+\de To sow (seeds), to scatter (seeds).
 \ge to_scatter
 \dn 撒 (撒种子)、播撒（种子）
 \gn 播
@@ -42804,7 +42961,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 撒种子
 \xf semer des graines à la volée
 \xv bæ˩ pʰo˧-zo˧-ho˥-ze˩!
-\xe It's going to be time to sow seeds!
+\xe It's going to be time to sow crops!
 \xn 该播撒种子了！
 \xf Il va être temps de faire les semailles!
 
@@ -42994,13 +43151,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 带礼物
 \xf amener des cadeaux
 \xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧ ki˧-hĩ˧ pʰɤ˧bɤ˧ ŋi˩.
-\xe This is a gift from Dashi!
+\xe This is a gift from Daeshi!
 \xn 这是达石给的礼物！
-\xf C'est un cadeau que m'a donné Dashi!
+\xf C'est un cadeau que m'a donné Daeshi!
 \xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧ tʰi˧-ki˧-hĩ˧ pʰɤ˧bɤ˧ ŋi˩.
 \xe This is a gift from Dashi! / Here is a gift for you from Dashi!
 \xn 这是达石送你的礼物！
-\xf C'est un cadeau que Dashi te fait! Voici un cadeau de la part de Dashi!
+\xf C'est un cadeau que Daeshi te fait! Voici un cadeau de la part de Daeshi!
 \dt 09/Sep/2015
 
 \lx pɤ˧dʑɤ˩-di˩
@@ -43008,15 +43165,15 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" langue="fra" print="n"> Identification à confirmer avec 云南省丽江市宁蒗彝族自治县永宁镇巴家, au nord de 瓦都, 经纬度：100.66728,27.82149 xxxxtststs
+\nt <type="hist" langue="fra" print="n"> Identification avec 云南省丽江市宁蒗彝族自治县永宁镇, au nord de , confirmée par M18 en juin 2024.
 \ton L#-
 \lc pɤ˧dʑɤ˩di˩
 \so <print="n"> F4
-\de A village close to the Hot Springs.
-\ge village_name
-\dn 巴甲地村：温泉乡的一个村落
+\de Bejjaddi, a village close to the Hot Springs, to the north of Wuadu.
+\ge Bejjaddi
+\dn 巴甲地村：温泉乡的一个村落，在瓦都以北（音译别名：巴家）。经纬度：100.66728,27.82149
 \gn 巴甲地村
-\df Un village proche des Sources Chaudes.
+\df Bejjaddi, un village proche des Sources Chaudes, au nord de Wuadu.
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
@@ -47523,7 +47680,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sf <nb="B"> 816
 \sf <nb="2011"> 1204
 \hm 2
-\or kheu
+\or kheuq
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -49374,6 +49531,33 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \gf convier
 \dt 01/Oct/2015
 
+\lx kʰu˩
+\or ku rrrr
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L
+\lc kʰu˩˥
+\so <print="n"> F4
+\de To present, to put forward (one's bowl to ask for some rice, for instance).
+\ge to_put_forward
+\dn 伸
+\gn 伸
+\df Présenter, avancer (par exemple: présenter son bol pour redemander du riz).
+\gf présenter
+\xv tʰi˧-kʰu˩-jo˩-kv̩˩
+\xe They would put forward their bowls (to ask for more food).
+\xn 他们会把碗伸出来（要更多饭）
+\xf ils venaient présenter [leur bol pour redemander de la nourriture].
+\xc <langue="fra" type="sem"> Exemple fourni lors d'un échange au sujet de Benevolence.181.
+\xv njɤ˧-ɳɯ˧ qwæ˩, | no˧-ɳɯ˧ | tʰi˧-kʰu˩.
+\xe I serve (the food), you present (your bowl).
+\xn 我给（饭），你把碗伸出来。
+\xf je sers (la nourriture), tu présentes (ton bol).
+\xc <langue="fra" type="sem"> Exemple fourni lors d'un échange au sujet de Benevolence.181.
+no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
+\xpan Benevolence.181
+
 \lx ʁɑ˥
 \sf <nb="B"> 1504
 \sf <nb="2011"> 2196
@@ -50556,15 +50740,43 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \sd <langue="eng"> space
 \np <langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
 \so <print="n"> F4
-\va <speaker="M18"> hũ˩gv̩˩lo˧
-\va <speaker="M21"> hṽ̩˩gv̩˩lu˧ +se˩ “aller vers"
-\va <speaker="M23"> hṽ̩˩gv̩˩lu˧ ; donne: hṽ̩˩gv̩˩lu˧gi˩dzɤ˩se˩ “marcher vers le nord"
 \de North (literally: ‘the Tibetan land').
 \ge north
 \dn 北方（直译：‘藏族地区’）
 \gn 北方
 \df Nord (littéralement: «les contrées tibétaines»).
 \gf nord
+
+\lx hṽ̩˩gv̩˩-lo˧
+\or hunkulo rrrr
+\ps n
+\ton L-M
+\lc hṽ̩˩gv̩˩lo˧
+\cf ʁo˧dzi˩-di˩
+\sd <langue="fra"> espace
+\sd <langue="eng"> space
+\so <print="n"> F4
+\va <speaker="M18"> hõ˩gv̩˩-lo˧
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de North.
+\ge north
+\dn 北方
+\gn 北方
+\df Nord.
+\gf nord
+\xv hṽ̩˩gv̩˩lo˧-gi˩
+\xe towards the north
+\xn 北方向
+\xf en direction du nord
+\xv hṽ̩˩gv̩˩lo˧-gi˩ se˩
+\xe to walk towards the north
+\xn 往北方向走
+\xf marcher en direction du nord
+\xv hṽ̩˩gv̩˩lo˧-gi˩dzɤ˩ se˩
+\xe as above
+\xn 同上
+\xf idem ci-dessus
 
 \lx ʁo˧dzi˩-tʰæ˩ɻæ˩
 \sf <nb="B"> 647
@@ -50573,26 +50785,20 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩) (changement tonal régulier: ˧˩+˧˩ donne ˧˩˩˩)
-\nt <type="sem"> petits fanions flottant sur les maisons, les sanctuaires; reproduisent des passages de textes en caractères tibétains, d'où ce nom: “écritures tibétaines"
+\nt <type="hist" langue="fra" print="n"> Avant 2009: noté: /ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩/.
+\nt <type="hist" langue="fra" print="n"> Noté d'autres expressions du même champ sémantique: tɕʰi˩tsɯ˥, ton d6 (locuteur M21), emprunt pour 'drapeau'; dʑɤ˩tsɯ˧tsɯ˧ m˩, dʑɤ˩tsɯ˥tsɯ˧ m˩pɤ˩ (M18).
+\nt <type="tone" langue="fra"> Schéma tonal régulier: ML+ML donne M.L.L.L.
 \ton L#-
 \lc ʁo˧dzi˩tʰæ˩ɻæ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> dʑɤ˩tsɯ˧tsɯ˧ m
-\vf ɑ)˩, dʑɤ˩tsɯ˥tsɯ˧ m
-\vf ɑ)˩pɤ˩
-\vf n'est pas un drapeau, mais les petits drapeaux/fanions qui flottent sur les maisons et les temples, feng1ma3qi2ma3
-\va <speaker="M21"> tɕʰi˩tsɯ˥, ton d6
-\vf emprunt
 \pdv pʰæ˧˥
-\de Flag, banner, pennant (literally: Tibetan writings).
-\ge flag
-\dn 旗子
+\de Flag, banner, pennant hung over temples and houses (literally: Tibetan writings).
+\ge pennant
+\dn 风马旗（也称作祭马、禄马、经幡）
 \gn 旗子
-\df Drapeau, fanion (littéralement «écritures tibétaines»).
-\gf drapeau
-\dt 22/Jun/2017
+\df Petits fanions flottant sur les temples, les sanctuaires et les maisons. Ils reproduisent des passages de textes en caractères tibétains, d'où le nom qui les désigne, littéralement «écritures tibétaines».
+\gf fanion
 
 \lx ʁo˧dʑɯ˧
 \sf <nb="B"> 547
@@ -52441,6 +52647,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩
 \or Erchei Ddeema
+\et ɻ̍˩ʈʂʰe#˥
+\et ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -52456,6 +52664,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx ɻ̍˩ʈʂʰe˧-tsʰɯ˩ɻ̍˩
 \or Erchei Ci'er
+\et ɻ̍˩ʈʂʰe#˥
+\et tsʰɯ˧ɻ̍#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -57297,10 +57507,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Dé.
 \gf dé
 \xv ʂv̩˧ | ʐv̩˩-ɭɯ˩˥
-\xe four dice (dice came in pairs)
+\xe four dice (dice came in sets of four)
 \xn 四个骰子
 \xf quatre dés (les dés allaient par quatre)
-\dt 09/Oct/2015
+\xv ʂv̩˧ kʰɯ˩
+\xe to cast dice
+\xn 掷骰子
+\xf jeter les dés
 
 \lx ʂv̩˧β
 \sf <nb="B"> 1700
@@ -57320,7 +57533,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ge to_look_after
 \dn 带（孩子……）
 \gn 带
-\df S'occuper de, surveiller.
+\df S'occuper de, prendre soin de.
 \gf s_occuper_de
 \xv zo˧mv̩˥ | ɖɯ˧-ɭɯ˧ ʂv̩˧
 \xe to take care of a child, to look after a child
@@ -57348,13 +57561,13 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \df Mener, guider.
 \gf guider
 \xv ʈæ˧ʂɯ˧ | ɖʐv̩˧ ʂv̩˧-po˧-bi˧-ho˥!
-\xe Dashi is going to take care of his friends [taking them on a tourist trip to Yongning]
+\xe Daeshi is going to take care of his friends [taking them on a tourist trip to Yongning]
 \xn 达石要管朋友（带他们去永宁旅游）
-\xf Dashi va accompagner ses amis [=les emmener en excursion à Yongning]!
+\xf Daeshi va accompagner ses amis [=les emmener en excursion à Yongning]!
 \xv ʈæ˧ʂɯ˧ | ɖʐv̩˧ ʂv̩˧-bi˧-ho˩!
-\xe Dashi is going to take care of his friends [taking them on a tourist trip to Yongning]
+\xe Daeshi is going to take care of his friends [taking them on a tourist trip to Yongning]
 \xn 达石要管朋友（带他们去永宁旅游）
-\xf Dashi va accompagner ses amis [=les emmener en excursion à Yongning]!
+\xf Daeshi va accompagner ses amis [=les emmener en excursion à Yongning]!
 \dt 09/Oct/2015
 
 \lx ʂv̩˧ɖv̩˧
@@ -57423,7 +57636,7 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \xn 想起
 \xf se souvenir
 \xv njɤ˧ | ʂv̩˧ɖv̩˧ tʰv̩˧
-\xe I remember
+\xe I remember xxxx le sens n'est-il pas uniquement "être triste"?
 \xn 我想起
 \xf je me souviens
 \xv ʈʂʰɯ˧ | le˧-ʂv̩˧ɖv̩˧-le˧-tʰv̩˧-ze˧
@@ -59613,26 +59826,24 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx tɕæ˧hæ˩
 \or jaehae
-\bw <langue="cmn"> 胶+？
+\bw <langue="xina1239"> 胶鞋
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="sem"> n'apparaît que dans le nom composé /tɕæ˧hæ˩-dzɑ˩qʰwɤ˩/
 \ton L#
 \lc tɕæ˧hæ˩
 \so <print="n"> F4
 \pdv dzi˧
-\de Rubber.
-\ge rubber
-\dn 橡胶（汉语借词。第二个音节：未确定。）
-\gn 橡胶
-\df Caoutchouc.
-\gf caoutchouc
+\de Rubber shoes, rubber boots.
+\ge rubber_shoes
+\dn 橡胶鞋（西南官话借词：胶鞋）。
+\gn 橡胶鞋
+\df Chaussures en caoutchouc.
+\gf chaussures_en_caoutchouc
 \xv tɕæ˧hæ˩-dzɑ˩qʰwɤ˩
-\xe rubber shoe, shoe with a rubber sole, sports shoe
-\xn 橡胶鞋、橡胶底鞋
-\xf chaussures à semelle en gomme/en caoutchouc; baskets
-\dt 09/Oct/2015
+\xe same meaning: rubber shoe, shoe with a rubber sole, sports shoe
+\xn 同上：橡胶鞋、橡胶底鞋
+\xf idem: chaussures à semelle en gomme/en caoutchouc; baskets
 
 \lx tɕæ˧pʰv̩˩
 \sf <nb="B"> 954b
@@ -65797,16 +66008,16 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
+\nt <type="sem" langue="fra"> Synonyme du nom des Sources Chaudes, Wenquan, ʁwɤ˧lɑ˩-bi˩
 \ton H#-L
 \lc tse˧mi˥dʑɯ˩ʁo˩
 \so <print="n"> F4
 \de Zeimi Jjiwo: the village of Wenquan, in the plain of Yongning, where hot springs are located, hence the Chinese name Wenquan, ‘hot springs'.
 \ge Zeimi_Jjiwo
-\dn 温泉乡的主要村落
+\dn 温泉乡的主要村落。经纬度：100.69718,27.82334
 \gn 温泉乡的主要村落
-\df Le village de Zeimi Jjiwo (possède des sources chaudes). xxxx est-ce un synonyme du nom des Sources Chaudes, Wenquan, ʁwɤ˧lɑ˩-bi˩? auquel cas l'information géolocalisée peut être recopiée ici: 经纬度：100.69718,27.82334
+\df Le village de Zeimi Jjiwo (possède des sources chaudes).
 \gf Zeimi_Jjiwo
-\dt 05/Aug/2017
 
 \lx tsʰe˧ɲi˧
 \sf <nb="B"> 822
@@ -69636,6 +69847,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx tsʰɯ˧ɻ̍˧-ɖɯ˩mɑ˩
 \or Ci'er Ddeema
+\et tsʰɯ˧ɻ̍#˥
+\et ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -69651,6 +69864,8 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 
 \lx tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
+\et tsʰɯ˧ɻ̍#˥
+\et ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -69661,15 +69876,17 @@ hi˩nɑ˧mi˧ ne˧˥, tʰi˧-hi˩-zo˩!
 \np <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̍˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \np <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. La restitution en caractères chinois, Cilin Lamu |fn{慈琳拉姆}, reflète cette prononciation amuie.
 \so <print="n"> F4
-\de Feminine given name: Ci'er Lhamu.
+\de Ci'er Lhamu, a feminine given name.
 \ge Ci'er_Lhamu
 \dn 次尔拉姆：一个女性名字（还音译为慈琳拉姆）
 \gn 次尔拉姆
-\df Prénom féminin: Ci'er Lhamu
+\df Ci'er Lhamu, un prénom féminin.
 \gf Ci'er_Lhamu
 
 \lx tsʰɯ˧ɻ̍˧-pʰi˩tsʰo˩
 \or Ci'er Pico
+\et tsʰɯ˧ɻ̍#˥
+\et pʰi˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
