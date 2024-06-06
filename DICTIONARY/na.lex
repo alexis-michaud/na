@@ -699,7 +699,7 @@
 \xe Daddy went out! (Context: explanation provided to a little child who has just woken up and looks for her dad.)
 \xn 爸爸出去了！
 \xf Papa est sorti! (Adressé à une petite fille qui vient de se réveiller de sa sieste et cherche son père.)
-\xv ɑ˩pʰo˩-bv̩˥ | lo˧ ʝi˧
+\xv ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
 \xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi : aller chercher du travail à la ville
@@ -1159,7 +1159,7 @@
 \gn 古时候
 \df Jadis, dans le passé.
 \gf jadis
-\xv æ˧ʂæ˧-bv̩˧
+\xv æ˧ʂæ˧=bv̩˧
 \xe |fg{poss}: ...of the past
 \xn 属格：从前的……
 \xf |fg{poss}: ...du passé
@@ -1557,9 +1557,11 @@
 \va <speaker="M21"> bæ˩˧, ton m3
 \vf réalisé montant en forme de citation
 \pdv ʈʰɤ˥
+\pdc <langue="fra"> un petit bout de corde
 \pdv ɖæ˩
+\pdc <langue="fra"> une section de corde, qui peut aller jusqu'à plusieurs mètres
 \pdv kʰɯ˩
-\npdv <langue="fra"> Les trois classificateurs indiqués désignent respectivement: un petit bout de corde; une section de corde, qui peut aller jusqu'à plusieurs mètres; une corde entière.
+\pdc <langue="fra"> une corde entière
 \de Rope.
 \ge rope
 \dn 绳子
@@ -2126,7 +2128,7 @@
 \gn 茼蒿
 \df Chrysanthème couronné, chrysanthème des jardins, chrysanthème comestible ou chrysanthème à couronnes, |fi{Glebionis coronaria}.
 \gf chrysanthème_couronné
-\xv bæ˩pʰv̩˥-bv̩˩ | bæ˩bæ˩˥
+\xv bæ˩pʰv̩˥=bv̩˩ | bæ˩bæ˩˥
 \xe the flower of crowndaisy chrysanthemum
 \xn 茼蒿的顶花
 \xf fleur de chrysanthème couronné
@@ -3703,7 +3705,7 @@
 \lc bo˩lo˥
 \sd <langue="fra"> outil
 \sd <langue="eng"> tool
-\nt <type="hist" langue="fra" print="n"> sens confirmé par Ama en 2018 ; avais un moment pensé que cela voulait dire 'mangeoire'.
+\nt <type="hist" langue="fra" print="n"> sens confirmé par F4 en 2018 ; avais un moment pensé que cela voulait dire 'mangeoire'.
 \ton LM
 \so <print="n"> F4
 \vf périphrase
@@ -3831,13 +3833,12 @@
 \lc bo˩mi˧ɳæ˧tɕʰɯ˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> (revu en 2008; d'abord noté /bu˩mi˥næ˧tɕʰi˩/) (identification confirmée par TS en 2017)
-\np <langue="fra"> ama ne connaît pas la formule de M21 æ˩mi˧… mais connaît: æ˩tɕʰi˧, sorte de plante
+\nt <type="hist" langue="fra" print="n"> Revu en 2008. Avais d'abord noté /bu˩mi˥næ˧tɕʰi˩/.
+\nt <type="hist" langue="fra" print="n"> Identification confirmée par M18 en 2017.
+\np <langue="fra"> F4 ne connaît pas la formule de M21 æ˩mi˧… mais connaît: æ˩tɕʰi˧, sorte de plante xxxx
 \ton LM-L#
 \so <print="n"> F4
-\vf emprunt
 \va <speaker="M21"> æ˩mi˧ɳwæ˧tɕʰi˩
-\vf “lait froid de la poule"); peut se manger; est le pissenlit; confirmé par ts, qui pense que la 2e formule, bu˩mi˧… est tout à fait équivalente et désigne la même plante. En revanche d'après M21, c'est une autre plante que: bu˩mi˧ɳwæ˧tɕʰi˩
 \pdv po˧
 \de Dandelion.
 \ge dandelion
@@ -4385,8 +4386,7 @@
 \lc bv̩˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (vérifié)
-\np <langue="fra"> LM confirmé type “porc"
+\nt <type="hist" langue="fra" print="n"> ton LM confirmé (type “porc")
 \ton LM
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -4427,8 +4427,8 @@
 \cf bv̩˩di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (confirmé ts en 2008)
-\np <langue="fra"> LM confirmé type “porc"
+\nt <type="hist" langue="fra" print="n"> (confirmé M18 en 2008)
+\nt <type="hist" langue="fra" print="n"> ton LM confirmé (type “porc")
 \ton LM
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -4510,7 +4510,7 @@
 \lc bv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (notes 2006: “kʶɤ˥ pv̩˥gv̩˥; ts corrige en kʶɑ˥bv̩˧gv̩˧, ‘très gros'")
+\nt <type="hist" langue="fra" print="n"> (notes 2006: “kʶɤ˥ pv̩˥gv̩˥; M18 corrige en kʶɑ˥bv̩˧gv̩˧, ‘très gros'")
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -4545,8 +4545,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés en 2009; auparavant, hésitations entre: …tʰi˩kwɤ˩dʑo˩, …tʰi˧kwɤ˧…) vérifié en 2011: initiale vélaire et non uvulaire
-\nt <type="sem" langue="fra"> généralement employé sous sa forme rédupliquée: le˧-bv̩˧~bv̩˧
-\np <langue="fra"> pas de monosyllabe correspondant dans l'état actuel de la langue; d'après la forme rédupliquée, devait être un ton 2.
+\nt <type="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: |fv{le˧-bv̩˧~bv̩˧}.
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -5020,7 +5019,7 @@
 \xf les lignes de la main
 \dt 10/Jun/2017
 
-\lx bv̩˧qʰv̩˧ʑi˩-hĩ˩
+\lx bv̩˧qʰv̩˧-ʑi˩-hĩ˩
 \sf <nb="B"> 1840
 \sf <nb="2011"> 2796
 \or bbukheuxxihin
@@ -5028,17 +5027,17 @@
 \lc bv̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: …kʶv̩˧…)
-\nt <type="hist" langue="fra" print="n"> +ɲi˥ (notation 2006: bv̩˧dv̩˩zɯ˩hĩ˩˥)
-\np <langue="fra"> “(insecte) qui a une coquille"
+\nt <type="hist" langue="fra" print="n"> Avant 2009: noté /kʶv̩˧/ pour /qʰv̩/.
+\nt <type="hist" langue="fra" print="n"> En 2006: noté un /bv̩˧dv̩˩zɯ˩hĩ˩˥/.
+\nt <type="hist" langue="fra" print="n"> Étymologie: “(insecte) qui a des cornes", ‘长角的’? Pas sûr.
 \ton L#
 \so <print="n"> F4
-\va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-i˧-hĩ˧
+\va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-hĩ˧
 \va <speaker="M21"> ID.
 \pdv mi˩
 \de Snail.
 \ge snail
-\dn 蜗牛，螺蛳（直译：‘长角的’）
+\dn 蜗牛，螺蛳
 \gn 蜗牛
 \df Escargot.
 \gf escargot
@@ -5430,9 +5429,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (vérifié: n'est pas /pv/)
-\nt <type="hist" langue="fra" print="n"> attention: vérifié: est bv et non pv.(a) dʑi˩bv̩˩˥ (et non dʑi˧pv̩˩˥) (répandre de l'eau) (d'abord noté bv̩˩˥) (b) les vêtements ont été mouillés/aspergés: dzɯ˩˥ tʰi˩˥ bv̩˩˥ (ex. bɑ˧lɑ˥ dzɯ˩˥ tʰi˩˥ bv̩˩˥)
-\np <langue="fra"> (phonétiquement: læ˧-bv̩˩-ze˩)
+\nt <type="hist" langue="fra" print="n"> D'abord noté /bv̩˩˥/, puis corrigé à tort en /‡pv/. Vérifié: n'est pas /pv/.
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -5447,6 +5444,7 @@
 \xn 实施 〜 整体体：泼了
 \xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
+\xc <langue="fra" type="phono"> Phonétiquement: proche de [|fv{læ˧-bv̩˩-ze˩}].
 \xv dʑɯ˩ bv̩˩˥
 \xe to sprinkle water
 \xn 泼水、撒水
@@ -5464,8 +5462,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (vérifié: n'est pas /pv/)
-\nt <type="hist" langue="fra" print="n"> attention: vérifié: est bv et non pv.(a) dʑi˩bv̩˩˥ (et non dʑi˧pv̩˩˥) (répandre de l'eau) (d'abord noté bv̩˩˥) (b) les vêtements ont été mouillés/aspergés: dzɯ˩˥ tʰi˩˥ bv̩˩˥ (ex. bɑ˧lɑ˥ dzɯ˩˥ tʰi˩˥ bv̩˩˥)
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -5725,7 +5721,7 @@
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\np <langue="fra"> schéma tonal: est traité comme: [champ de riz] sec, pas comme champ de [riz sec] qui donnerait ˧ ˧ ˧ ˥
+\np <langue="fra"> schéma tonal: est traité comme: [champ de riz] sec, pas comme champ sec [de riz] qui donnerait ˧ ˧ ˧ ˥
 \ton -L#
 \so <print="n"> F4
 \pdv pʰæ˧˥
@@ -13177,7 +13173,7 @@
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <type="hist" langue="fra" print="n"> (+ɲi˩) (d'abord noté kʰv̩˧) notes anciennes: “ɖʐv̩˩kʰɯ˩-ze˧ (tons vérifiés en mai 2008, d'abord noté ˧˧˥) sens confirmé par ts en juin 2008"; tons corrigés à nouveau en ɖʐv̩˧ kʰɯ˧-ze˥ en nov. 2011
+\nt <type="hist" langue="fra" print="n"> (+ɲi˩) (d'abord noté kʰv̩˧) notes anciennes: “ɖʐv̩˩kʰɯ˩-ze˧ (tons vérifiés en mai 2008, d'abord noté ˧˧˥) sens confirmé par M18 en juin 2008"; tons corrigés à nouveau en ɖʐv̩˧ kʰɯ˧-ze˥ en nov. 2011
 \np <langue="fra"> Peut s'employer dans un sens élargi; par exemple: si on veut s'excuser: l'équivalent du chinois 不好意思 sera: ɖʐv̩˩kʰɯ˩-ze˧!
 \ton M
 \lc ɖʐv̩˧
@@ -14625,7 +14621,7 @@
 \vf b) toute la fratrie, frères et sœurs: mv̩˩zɯ˩ ni˥mi˩
 \vf tons corrigés, d'abord noté ˩˩˥˧
 \vf on ne dit pas mv̩˩zɯ˩
-\vf désigne ts ceux qui sont de la même génération, pas de la même mère
+\vf désigne tous ceux qui sont de la même génération, pas de la même mère
 \vf confirmé: n'est pas ɲi˥
 \va <speaker="M21"> æ˧mv̩˧gi˥zɯ˩ “frères"
 \va <speaker="M23"> ˧ ˧ ˥ ˩
@@ -18337,7 +18333,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> hæ˧bɑ˧lɑ˩
 \va <speaker="M18"> ID.
-\vf tons confirmés plusieurs fois; d'abord noté ˧˧˩, puis ˧˥˩); littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, ts ne reconnaît plus
+\vf tons confirmés plusieurs fois; d'abord noté ˧˧˩, puis ˧˥˩); littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, M18 ne reconnaît plus
 \va <speaker="M21"> ID.
 \vf vérifié: n'est pas ˥ ˥ ˩ ni ˧ ˥ ˩
 \pdv ɭɯ˧
@@ -19073,7 +19069,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 2009: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩˩˥ et non ˧˧˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé ts 2008: est ˧ ˧ ˥)
+\nt <type="hist" langue="fra" print="n"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 2009: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩˩˥ et non ˧˧˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé M18 2008: est ˧ ˧ ˥)
 \ton MH
 \lc hĩ˧˥
 \so <print="n"> F4
@@ -19885,7 +19881,7 @@
 \gn 小舌
 \df Luette.
 \gf luette
-\xv qv̩˧ʈʂæ˧-bv̩˥ | hi˩ʐæ˥
+\xv qv̩˧ʈʂæ˧=bv̩˥ | hi˩ʐæ˥
 \xe the uvula; specifying ‘the throat's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 小舌
 \xf la luette; la précision ‘…de la gorge' permet de lever l'ambiguïté lorsqu'il pourrait s'agir du tendon de la langue, lui aussi désigné comme |fv{/hi˩ʐæ˥/}.
@@ -19896,7 +19892,7 @@
 \gn 舌头的筋
 \df Tendon de la langue.
 \gf tendon_de_la_langue
-\xv hi˩mi˩-bv̩˥ | hi˩ʐæ˥
+\xv hi˩mi˩=bv̩˥ | hi˩ʐæ˥
 \xe the tendon of the tongue; specifying ‘the tongue's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 舌头的筋
 \xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme |fv{/hi˩ʐæ˥/}.
@@ -20414,7 +20410,7 @@
 \cf ʂɑ˩tʰɑ˧-dze#˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" langue="fra" print="n"> Sens indiqué par TS en 2018.
+\nt <type="hist" langue="fra" print="n"> Sens indiqué par M18 en 2018.
 \ton L
 \lc ho˩tʰɑ˩
 \so <print="n"> F4
@@ -20445,7 +20441,7 @@
 \gn 红豆杉（借词）
 \df If.
 \gf 红豆杉::if
-\xv ho˩to˩ʂæ˧-bv̩˧ | bæ˩bæ˩ ɲi˥!
+\xv ho˩to˩ʂæ˧=bv̩˧ | bæ˩bæ˩ ɲi˥!
 \xe It's a yew flower!
 \xn 是红豆杉花！
 \xf C'est une fleur d'if!
@@ -26931,7 +26927,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> (avant 2009, noté /sɯ˧dzɯ˩ kʰɯ˩ʈv̩˩/) (son difficile, ressemble à /ʈɻ/; en 2009, à nouveau tenté de noter différemment de /ʈɯ/ et /ʈv/; puis me remets à nouveau à l'assurance d'ama (et de ts en 08) selon laquelle c'est le même mot que dans “poing": verbe signifiant “ramasser, regrouper, crisper…") †kʰɯ˩ʈv̩˩
+\nt <type="hist" langue="fra" print="n"> (avant 2009, noté /sɯ˧dzɯ˩ kʰɯ˩ʈv̩˩/) (son difficile, ressemble à /ʈɻ/; en 2009, à nouveau tenté de noter différemment de /ʈɯ/ et /ʈv/; puis me remets à nouveau à l'assurance d'ama (et de M18 en 08) selon laquelle c'est le même mot que dans “poing": verbe signifiant “ramasser, regrouper, crisper…") †kʰɯ˩ʈv̩˩
 \ton L
 \lc kʰɯ˩ʈɯ˩˥
 \so <print="n"> F4
@@ -27327,7 +27323,7 @@
 \gn 偷
 \df Voler.
 \gf voler
-\xv hĩ˧-bv̩˧ tso˧~tso˧ kʰv̩˧
+\xv hĩ˧=bv̩˧ tso˧~tso˧ kʰv̩˧
 \xe to steal someone's stuff, to steal someone else's property
 \xn 偷别人的东西
 \xf voler les affaires de quelqu'un
@@ -32029,7 +32025,7 @@
 \xe Copper cereal pot
 \xn 铜饭锅
 \xf Casserole à céréales en bronze
-\xv lo˩qo˧-bv̩˧
+\xv lo˩qo˧=bv̩˧
 \xe |fg{poss}
 \xn 属格
 \xf |fg{poss}
@@ -32370,7 +32366,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> ton d6 (avant 2009: noté: lo˩ ʈʰɯ˥)
 \nt <type="hist" langue="fra" print="n"> (a) lo˩oe͂˞˥ (tons confirmés, sens: “os du bras") (b) oe͂˞˥ ʈʂæ˩="articulation", cf 170 (c) lo˩oe͂˞˥ʈʂæ˩="articulation du bras"
-\np <langue="fra"> confirmé: est ton d6a et non d6b (ex.: lo˩ʈʰɯ˧-bv̩˧ ɣɯ˩˧, etc)
+\np <langue="fra"> confirmé: est ton d6a et non d6b (ex.: lo˩ʈʰɯ˧=bv̩˧ ɣɯ˩˧, etc)
 \ton LM
 \lc lo˩ʈʰɯ˥
 \so <print="n"> F4
@@ -32392,7 +32388,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (pensé à noter: lo˩ʈʂʷɻ̍˥, lo˩ʈwɻ̍˥, ʈʂv, ʈv, ʈwɤ, tɻ, ʈʐ… Le 21 nov.: pense que c'est ʈɻ ou ʈʂɻ, pas ʈʂv. Pour la première syllabe: est confirmé: est lo˩ et pas lɑ˩. Nouvelle séance le 23 novembre: entends arrondissement, veux noter ʈʂwɻ̍˥ ou ʈʷɻ̍˥." notation janvier 2008: lo ʈv
-\np <langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧-bv̩˧ ɣɯ˩˧)
+\np <langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bv̩˧ ɣɯ˩˧)
 \ton LM
 \lc lo˩ʈv̩˥
 \so <print="n"> F4
@@ -32679,7 +32675,7 @@
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (n'est pas m1. Première notation: m1; sans doute erreur: ts mai 2008: est m4) (pb: utilisé comme un m1 dans les analyses tonales début mai 2008). ts, mai 08, propose: /ʁu˧lv̩˩ku˩ dʑo˩, ɬv̩˧tʰi˥ ʑi˩ɲi˩/ (réécrit en 2009; d'abord noté /ʁu˥ lv̩˩ ko˩ dʑo˩, ɬv̩˧ tʰi˥ ʑi˧ ɲi˧/) “dans la tête, il y a la cervelle"
+\nt <type="hist" langue="fra" print="n"> (n'est pas m1. Première notation: m1; sans doute erreur: M18 mai 2008: est m4) (pb: utilisé comme un m1 dans les analyses tonales début mai 2008). ts, mai 08, propose: /ʁu˧lv̩˩ku˩ dʑo˩, ɬv̩˧tʰi˥ ʑi˩ɲi˩/ (réécrit en 2009; d'abord noté /ʁu˥ lv̩˩ ko˩ dʑo˩, ɬv̩˧ tʰi˥ ʑi˧ ɲi˧/) “dans la tête, il y a la cervelle"
 \nt <type="hist" langue="fra" print="n"> (corrigé en 2007; en 2006, avais noté: “ɬɯ˩˥ (n'est pas ɬv̩˩˥; confirmé") (M23: phonétiquement proche de ɬu˧˥)
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -33411,7 +33407,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.; d'abord noté /luə˩˥/
-\vf fortement diphtongué; n'est “absolument pas" /o/; TS accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence
+\vf fortement diphtongué; n'est “absolument pas" /o/; M18 accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence
 \vf sens: terme générique pour cendres de bois et de charbon
 \va <speaker="M21"> ID.
 \pdv ʈʂwɤ˧
@@ -35327,7 +35323,7 @@
 \gn 姓名
 \df Nom (nom de famille ou prénom: nom donné à un individu).
 \gf nom
-\xv ɑ˩ʁo˧-bv̩˧ | mv̩˧ (+ɲi˩)
+\xv ɑ˩ʁo˧=bv̩˧ | mv̩˧ (+ɲi˩)
 \xe This is the family name! / This is my family name!
 \xn 这是家里的姓！ / 这是我家的姓！
 \xf c'est le nom de la famille / c'est mon nom de famille!
@@ -35698,9 +35694,9 @@
 \xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭话表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
 \xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: “Qu'est-ce que tu vas demander? / Quelle est ta question?”)
 \xv mv̩˩do˩ zo˩-ɲi˥ mæ˩!
-\xe One should ask, of course! (Context: a discussion about awkward situations when someone is puzzled by someone else's behaviour, for instance when people with different language backgrounds and cultural backgrounds live alongside one another. Ama says: “One should ask, of course!” The idea is that conversations dispell misunderstandings and allow for good mutual understanding.
+\xe One should ask, of course! (Context: a discussion about awkward situations when someone is puzzled by someone else's behaviour, for instance when people with different language backgrounds and cultural backgrounds live alongside one another. The consultant says: “One should ask, of course!” The idea is that conversations dispell misunderstandings and allow for good mutual understanding.)
 \xn 应该问的啊！（情景：不同语言与文化背景的人在一起，如果不多交流，容易互相误会。阿妈觉得：不理解的，应该问一问，就知道了。愉快交流，才能好好一起生活。）
-\xf Il faut demander, bien sûr! (Contexte: lorsque des gens de langues et cultures différentes se trouvent ensemble, les malentendus sont vite venus; Ama préconise de poser des questions au sujet de ce qui paraît étonnant ou choquant, afin de comprendre. Pour vivre ensemble en bonne intelligence, il faut prendre soin de compléter son information à tout moment, pour ne pas laisser les malentendus s'installer.)
+\xf Il faut demander, bien sûr! (Contexte: lorsque des gens de langues et cultures différentes se trouvent ensemble, les malentendus sont vite venus; la locutrice préconise de poser des questions au sujet de ce qui paraît étonnant ou choquant, afin de comprendre. Pour vivre ensemble en bonne intelligence, il faut prendre soin de compléter son information à tout moment, pour ne pas laisser les malentendus s'installer.)
 \dt 25/Apr/2017
 
 \lx mv̩˩ɖɯ˩
@@ -36965,7 +36961,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> (homophone avec “avoine")
-\nt <type="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧-bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
+\nt <type="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
 \ton L
 \so <print="n"> F4
 \pdv v̩˧
@@ -36975,7 +36971,7 @@
 \gn 兄弟
 \df Frères (aînés ou cadets).
 \gf frères
-\xv ʈʂʰɯ˧ | nɑ˧dʑi˧-bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
+\xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
 \xe He is |fv{nɑ˧dʑi˧}'s brother!
 \xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
 \xf il est frère de |fv{nɑ˧dʑi˧}!
@@ -38517,7 +38513,7 @@
 \gn 姐妹
 \df Sœurs (aînées ou cadettes).
 \gf sœurs
-\xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧-bv̩˧ | ni˧mi˧ ɲi˥.
+\xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧=bv̩˧ | ni˧mi˧ ɲi˥.
 \xe She is |fv{/ʈæ˧ʂɯ˧/}’s sister.
 \xn 她是达石的姐姐（或妹妹）
 \xf Elle est sœur de |fv{/ʈæ˧ʂɯ˧/}.
@@ -38963,7 +38959,7 @@
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /tsi/) (d'abord noté nju˩tsɯ˥; corrigé le 30 mai 08; vérifié: ˩ ˧˥ est absolument exclu) (sens confirmé par ts en mai 2008)
+\nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /tsi/) (d'abord noté nju˩tsɯ˥; corrigé le 30 mai 08; vérifié: ˩ ˧˥ est absolument exclu) (sens confirmé par M18 en mai 2008)
 \np <langue="fra"> variantes: njo˩tsɯ#˥, mjo˩tsɯ#˥
 \ton LM+#H
 \lc ɲi˩tsɯ˥
@@ -39319,7 +39315,7 @@
 \xe We (exclusive) don't know!
 \xn 我们不知道！
 \xf Nous ne savons pas! / Nous ne sommes pas au courant!
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩, | njæ˧-sɯ˩-kv̩˩-bv̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩-kv̩˩, | njæ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe They do not understand us! (Context: about people coming from other areas, who do not understand local custom and habits)
 \xn 他们不了解我们！
 \xf Ils ne nous comprennent pas! (Contexte: au sujet de gens venant d'autres régions, qui ne comprennent pas les us et coutumes locales)
@@ -40054,7 +40050,7 @@
 \va <speaker="F5"> ID.
 \vf a) njɤ˩ ko˥ lo˥
 \vf “os de l'oeil"
-\vf b) njɤ˩ kʶwɑ˥, ou ˩˩˥, ts hésite
+\vf b) njɤ˩ kʶwɑ˥, ou ˩˩˥, M18 hésite
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧
 \de Orbit; eye socket.
@@ -41364,7 +41360,7 @@
 \ton MH
 \lc õ˧˥
 \so <print="n"> F4
-\va <speaker="F5"> ũ˧-bv̩˥
+\va <speaker="F5"> ũ˧=bv̩˥
 \va <speaker="M18"> njɤ˧ ũ˧bu˥ ɻ̍˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> njɤ˧ ũ˧bv̩˥ɳɯ˩
@@ -41386,36 +41382,36 @@
 \xe Each person eats their own slab of meat! (Describing table manners: each person used to receive one slice of meat and eat it up, unlike Chinese custom, in which each guest picks food mouthful by mouthful, with chopsticks, from the dishes placed on the table.)
 \xn 自己吃自己的（那块）肉！（关于饮食习惯：吃饭的时候，每人分得一块肉，自己吃完。当地人认为，汉族没有这种分吃的习惯。）
 \xf chacun mange son propre morceau de viande! (Description des manières de table: dans le temps, on donnait un bout de viande à chacun et chacun mangeait son morceau, pas comme la coutume chinoise qui veut qu'on prélève bouchée par bouchée, avec ses baguettes, dans les bols/assiettes posés sur la table.)
-\xv õ˧-bv̩˥-õ˩ ʝi˩-ɳɯ˩ | sɯ˧-kv̩˩!
+\xv õ˧=bv̩˥-õ˩ ʝi˩-ɳɯ˩ | sɯ˧-kv̩˩!
 \xe One learns by practising oneself! / It's by practising oneself that one really masters a skill!
 \xn 自己做，就能学会！/ 要学会，就得自己熟练！
 \xf c'est en faisant soi-même qu'on apprend!
-\xv õ˧-bv̩˥-õ˩ +N |
+\xv õ˧=bv̩˥-õ˩ +N |
 \xe one's own N
 \xn 自己的（+名词）
 \xf son propre N (soi-même+|fg{poss}+soi-même)
 \xc PHONO
-\xv õ˧-bv̩˥-õ˩ ʐwæ˩
+\xv õ˧=bv̩˥-õ˩ ʐwæ˩
 \xe one's own horse
 \xn 自己的马
 \xf son propre cheval
 \xc PHONO
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧-bv̩˥-õ˩/}
-\xv õ˧-bv̩˥-õ˩ ʝi˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ ʝi˩
 \xe one's own cow
 \xn 自己的牛
 \xf sa propre vache
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧-bv̩˥-õ˩/}
-\xv õ˧-bv̩˥-õ˩ lv̩˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ lv̩˩
 \xe one's own field
 \xn 自己的田地
 \xf son propre champ
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧-bv̩˥-õ˩/}
-\xv õ˧-bv̩˥-õ˩ ɖʐe˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ ɖʐe˩
 \xe one's own money
 \xn 自己的钱
 \xf son propre argent
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧-bv̩˥-õ˩/}
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
 \xv õ˧mv̩˥-õ˩di˩
 \xe birth place
 \xn 出生的地方、老家、故乡
@@ -41626,7 +41622,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.; mais emploie maintenant le mot chinois
 \va <speaker="M18"> ũ˧ʈʂwɤ˧kv̩˧dʑi˧˥
-\vf d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; ts se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥
+\vf d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; M18 se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥
 \pdv ɭɯ˧
 \de Mosquito net.
 \ge mosquito_net
@@ -43991,7 +43987,7 @@
 \vf n'est pas ˩˥˧
 \vf emprunt
 \va <speaker="M18"> pɑ˩˥ʐv̩˧
-\vf tj incertitude; d'abord noté pɑ˩˥ ʐv̩˩; corrigé en ˩˥˧; 30 nov.: ts corrige à nouveau en ˩˥˩
+\vf tj incertitude; d'abord noté pɑ˩˥ ʐv̩˩; corrigé en ˩˥˧; 30 nov.: M18 corrige à nouveau en ˩˥˩
 \vf sens: étoffe matelassée
 \vf peut-être emprunt au tibétain
 \pdv tsʰi˥
@@ -44899,7 +44895,7 @@
 \gn 梭子
 \df Navette du métier à tisser: navette traditionnelle, en bois (n'est plus en usage actuellement, remplacée par une navette plus simple).
 \gf navette
-\xv ɣɯ˧dzo˩-bv̩˩ | pv̩˧qʰwɤ˥
+\xv ɣɯ˧dzo˩=bv̩˩ | pv̩˧qʰwɤ˥
 \xe the shuttle of the loom
 \xn 织布机的梭子
 \xf la navette du métier à tisser
@@ -49368,7 +49364,7 @@
 \xn 干坏事：损坏东西，干扰人家……
 \xf faire des bêtises, faire du mal: abîmer des choses, faire des misères aux gens…
 \xc <langue="fra"> schéma tonal régulier: l'adjectif au ton L se comporte comme un nom au ton L en position d'objet; avec un verbe au ton H, cela donne /L.L/.
-\xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧-bv̩˧ tso˧~tso˧ | le˧-qʰwɤ˩-ʝi˩-ze˩!
+\xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧=bv̩˧ tso˧~tso˧ | le˧-qʰwɤ˩-ʝi˩-ze˩!
 \xe (S)he has damaged my stuff!
 \xn 他弄坏了我的东西！
 \xf Il a abîmé mes affaires!
@@ -51539,7 +51535,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 顶上
 \df Sommet de, en haut de.
 \gf sommet
-\xv ʁwɤ˧-bv̩˧ | ʁo˧tsʰe˧ʁo˧
+\xv ʁwɤ˧=bv̩˧ | ʁo˧tsʰe˧ʁo˧
 \xe the top of the mountain, the mountain top
 \xn 山的顶，山顶
 \xf le sommet de la montagne
@@ -53259,7 +53255,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \cf ho˩tʰɑ˩˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" langue="fra" print="n"> Sens indiqué par TS en 2018.
+\nt <type="hist" langue="fra" print="n"> Sens indiqué par M18 en 2018.
 \ton L
 \lc ʂɑ˩tʰɑ˧-dze˧
 \so <print="n"> F4
@@ -55754,7 +55750,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés)
-\np <langue="fra"> avec le possessif: donne: so˧ʝi˧-bv̩˧
 \ton H$
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -55766,7 +55761,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 明年
 \df L'année prochaine, l'an prochain.
 \gf l_an_prochain
-\dt 27/Apr/2017
+\xv so˧ʝi˧=bv̩˧
+\xe |fv{poss}
+\xn 属格
+\xf |fv{poss}
+\xc PHONO
 
 \lx ʂo˧li˧
 \or sholi
@@ -56120,7 +56119,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc sɤ˧tsi˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ɖʐv̩˥, corrigé par ts en: ɖʐv̩˧tsɯ˥
+\va <speaker="M18"> ɖʐv̩˥, corrigé par M18 en: ɖʐv̩˧tsɯ˥
 \vf désigne les tendons); veines: sɤ˧tsɯ˥
 \va <speaker="M21"> sɤ˧tsɯ˥
 \va <speaker="M23"> ID.
@@ -56244,7 +56243,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe I'm going to teach you! / Let me teach you!
 \xn 我来教你！
 \xf Je vais t'enseigner/t'apprendre!
-\xv ʈʂʰɯ˧-bv̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
+\xv ʈʂʰɯ˧=bv̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
 \xe Her spouse sells tea! As for her, she is a teacher!
 \xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
@@ -56831,7 +56830,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf a) ʂɯ˩ɖɯ˩hĩ˥ɖɯ˧ ɲi˥
-\vf ts pense que c'est compliqué, prononce ensuite ʂɯ˩ɖɯ˩ɲi˥ɖɯ˧ ɲi˥
+\vf M18 pense que c'est compliqué, prononce ensuite ʂɯ˩ɖɯ˩ɲi˥ɖɯ˧ ɲi˥
 \vf sens: il y a trois jours
 \vf b) ʂɯ˩ɲi˥
 \va <speaker="M21"> ʂɯ˩ɲi˩˧
@@ -57196,7 +57195,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> sɯ˩tʰi˩ʁu˩qɑ˧
 \va <speaker="M18"> sɯ˧tʰi˧kʰɯ˥dʑi˧
-\vf TS dit d'abord: …di˧, puis se corrige
+\vf M18 dit d'abord: …di˧, puis se corrige
 \va <speaker="M21"> ID.; on peut simplifier en: sɯ˩tʰi˩ʑi˧; en revanche la périphrase proposée par F5 n'est pas acceptée par M21
 \pdv ɭɯ˧
 \de Knife sheath.
@@ -57389,7 +57388,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 茧子
 \df Cor, durillon.
 \gf cor/durillon
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧-bv̩˧ | mv̩˧ɲi˧, | sɯ˧ʈv̩˥ ʁo˩!
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧=bv̩˧ | mv̩˧ɲi˧, | sɯ˧ʈv̩˥ ʁo˩!
 \xe This person's thumb has a callus / developed a callus!
 \xn 这个人的拇指有茧子！
 \xf le pouce de cette personne a un cor/un durillon!
@@ -57589,7 +57588,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xv ʂɯ˧-ze˧! | ʂɯ˧-ze˧!
 \xe We're dead! (Expression of terror on the part of someone who thinks that (s)he is going to die. Context: someone taking a plane for the first time is terrified by the plane's changes of direction, and thinks that the plane is falling to the ground and is going to crash.)
 \xn 死了！死了！（情景：一个人第一次坐飞机，感到飞机飞得不稳定，会坠毁，大家会马上死。）
-\xf Expression de terreur de quelqu'un qui croit sa dernière heure arrivée; ex.: Ama prenant l'avion pour Kunming, et ayant l'impression, lors d'un virage, que l'avion se renverse.
+\xf Expression de terreur de quelqu'un qui croit sa dernière heure arrivée. Par exemple, la locutrice principale, lorsque, dans l'avion qui l'emmenait à Kunming, elle avait eu l'impression, lors d'un virage, que l'avion se renversait.
 \dt 09/Oct/2015
 
 \lx ʂv̩˧˥
@@ -58943,7 +58942,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps v
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" langue="fra" print="n"> avant 2009, noté: lə˧njɤ˥mv̩˩+ze˩; corrigé à tort par ts en: le˧njɤ˧ mv̩˥ ze˩; en fait: formule mal faite, F4 indique qu'elle ne convient pas.
+\nt <type="hist" langue="fra" print="n"> avant 2009, noté: lə˧njɤ˥mv̩˩+ze˩; corrigé à tort par M18 en: le˧njɤ˧ mv̩˥ ze˩; en fait: formule mal faite, F4 indique qu'elle ne convient pas.
 \ton H.L
 \lc tɑ˧mo˩
 \so <print="n"> F4
@@ -59132,7 +59131,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe like me; following my example
 \xn 像我
 \xf comme moi; à mon exemple
-\xv no˧=ɻ̍˩-bv̩˩, | njɤ˧=ɻ̍˩-bv̩˩, | tɑ˧pi˧!
+\xv no˧=ɻ̍˩=bv̩˩, | njɤ˧=ɻ̍˩=bv̩˩, | tɑ˧pi˧!
 \xe Yours and ours are built on the same pattern / are identical! (Context: discussing the farms of the village: they are all built on the same model, in the same way, and thus identical.)
 \xn 你家的（房子），我家的（房子），都是一样的！（如：一个村子里的房子，都是按同一个模式建设的。）
 \xf Le mien et le tien, ils sont faits sur le même exemple =ils sont pareils! (au sujet de bâtiments, par exemple: les maisons d'un même village sont bâties sur le même modèle)
@@ -62340,7 +62339,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xv ɖɯ˧-kʰv̩˥ | tsʰe˧-ɲi˧ ɬi˧, | njɤ˧ | tsʰe˧-ɲi˧ bæ˧ tɕɯ˩-bi˩-ʂv̩˩ɖv̩˩!
 \xe There are twelve months in one year; I would like to transcribe twelve stories (in the coming year)! (Context: the consultant notices that I completed the transcription of two texts in two months; by providing this example sentence, she suggests to me the project of keeping up the same rhythm, transcribing twelve stories in the coming year.)
 \xn 一年有十二个月，我就想（一年之内）记十二个故事！（情景：我两个月内完成了两个故事的记录工作。发音合作人举这个例句，鼓励我坚持这种速度，一年内再记十二个故事。）
-\xf Dans une année il y a douze mois; je voudrais transcrire douze histoires (au cours de l'année qui vient)! (contexte: en septembre 2011, Ama remarque que j'ai transcrit deux contes en deux mois; en m'offrant cet exemple, elle me souffle le projet de garder le rythme et de transcrire une histoire par mois soit douze pendant l'année qui vient)
+\xf Dans une année il y a douze mois; je voudrais transcrire douze histoires (au cours de l'année qui vient)! (Contexte: en septembre 2011, la locutrice remarque que j'ai transcrit deux contes en deux mois; en m'offrant cet exemple, elle me souffle le projet de garder le rythme et de transcrire une histoire par mois, soit douze pendant l'année qui vient)
 \xv ɖɯ˧-tɕɯ˧~tɕɯ˥-ɻ̍˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
@@ -63317,7 +63316,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc to˧bɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que ts interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
+\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que M18 interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
 \ton #H
 \so <print="n"> F4
 \vf a) ɖɯ˧
@@ -64936,7 +64935,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ʈʂʰæ˧v̩˧ki˩hĩ˩hĩ˩
 \va <speaker="M18"> ʈʂʰa˥ v̩˥ ki˧ hĩ˧ hĩ˧ “personne qui donne des médicaments"
-\vf ts connaît les deux variantes, ʈʂʰæ˥ɣɯ˥ et ʈʂʰæ˥v̩˥, et les juge ttes deux acceptables
+\vf M18 connaît les deux variantes, ʈʂʰæ˥ɣɯ˥ et ʈʂʰæ˥v̩˥, et les juge ttes deux acceptables
 \va <speaker="M21"> i˧se˧, ton d1
 \vf emprunt); mot ancien: ʈʂʰæ˧ɣɯ˧i˧ +ɲi˥; refuse la tournure avec le verbe “donner"
 \va <speaker="M23"> ʈʂʰæ˧v̩˧ki˩hĩ˩
@@ -67415,7 +67414,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 2009: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tons vérifiés) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; ts corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
+\nt <type="hist" langue="fra" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 2009: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tons vérifiés) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; M18 corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
 \ton Lα
 \lc tsʰi˩˥
 \so <print="n"> F4
@@ -67554,7 +67553,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe That's fine!
 \xn 好的！
 \xf c'est bon!
-\xv ə˧ɲi˧-bv̩˧ | ə˩-tsɤ˧?
+\xv ə˧ɲi˧=bv̩˧ | ə˩-tsɤ˧?
 \xe Are yesterday's recordings OK? / Did yesterday's recordings go well?
 \xn 昨天的（录音），没问题吗？／质量可以吗？
 \xf Est-ce que les enregistrements d'hier sont bons?
@@ -67713,7 +67712,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 挤出东西
 \xf traire des choses
 \xc PHONO
-\xv ʝi˧-bv̩˧ | ɳæ˧ tsʰɤ˩
+\xv ʝi˧=bv̩˧ | ɳæ˧ tsʰɤ˩
 \xe to milk a cow
 \xn 挤牛奶
 \xf traire (le lait de) la vache
@@ -68968,7 +68967,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to be good, to count as good, to be considered as good
 \xn 算是很好的
 \xf être très bien
-\xv ʈʂʰɯ˧ | õ˧-bv̩˥-õ˩ | dʑɤ˩ʈʂɤ˧ (+ | ʐwæ˩˥)
+\xv ʈʂʰɯ˧ | õ˧=bv̩˥-õ˩ | dʑɤ˩ʈʂɤ˧ (+ | ʐwæ˩˥)
 \xe He thinks highly of himself! / He is proud of himself / conceited!
 \xn 他觉得自己很了不起！
 \xf Il a une haute idée de lui-même! / Il est orgueilleux!
@@ -70088,7 +70087,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 他们
 \df 3e personne du pluriel.
 \gf |fg{3pl}
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩-bv̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe (We) don't know about their business! / (We) are not privy to their family affairs!
 \xn 我们不知道他们的事！
 \xf On ne connaît pas leurs histoires!
@@ -70399,7 +70398,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe |fg{accomp} 〜 |fg{cmpl}
 \xn 完成了
 \xf |fg{accomp} 〜 |fg{cmpl}
-\xv tsʰi˧-ɲi˧-bv̩˧ | lo˧ | le˧-ʈʂʰv̩˩! | le˧-se˩-ze˩!
+\xv tsʰi˧-ɲi˧=bv̩˧ | lo˧ | le˧-ʈʂʰv̩˩! | le˧-se˩-ze˩!
 \xe Today's work is completed! It's finished!
 \xn 今天的工作完成了！就算完工了吧！
 \xf Le travail d'aujourd'hui… on tourne la page! Il est fini!
@@ -70425,7 +70424,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to set aside, to distinguish, not to mix
 \xn 不算在里面、不算在一起
 \xf laisser à part, distinguer, ne pas mettre ensemble, ne pas fourrer dans le même sac
-\xv no˧-bv̩˧ | gɤ˩-ʈʂʰv̩˧! | njɤ˧-bv̩˧, | mv̩˩-ʈʂʰv̩˧!
+\xv no˧=bv̩˧ | gɤ˩-ʈʂʰv̩˧! | njɤ˧=bv̩˧, | mv̩˩-ʈʂʰv̩˧!
 \xe Your stuff belongs to you; and mine belongs to me!
 \xn 你的算你的，我的算我的！
 \xf Ce qui est à toi est à toi; ce qui est à moi est à moi!
@@ -74211,10 +74210,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ze˩bæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> mv̩˧ʁu˥ʐɤ˩ bæ˩˥
-\vf ʐɤ˩: “chemin", bæ˩˥: “aller"?
-\vf d'abord noté: mv̩˥o˥
-\vf prononciation idiosyncratique: TS crée la formule /ʐɤ˩bæ˩˥/, “le chemin marche", formule qu'il trouve poétique; la forme usuelle est: ze˩bæ˩˥
+\va <speaker="M18"> mv̩˧ʁu˥ ʐɤ˩ bæ˩˥
+\vf Prononciation idiosyncratique: M18 crée la formule /ʐɤ˩ bæ˩˥/, “le chemin court", formule qu'il juge poétique.
 \va <speaker="M21"> ID.
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
@@ -78176,7 +78173,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe near the house, in the vicinity of the house
 \xn 房子周围
 \xf aux alentours de la maison
-\xv njɤ˧-bv̩˧ | kʰi˧~kʰi˧
+\xv njɤ˧=bv̩˧ | kʰi˧~kʰi˧
 \xe near me, around me
 \xn 我的周围
 \xf à côté de moi, autour de moi
@@ -78729,7 +78726,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 里
 \df Dans.
 \gf dans
-\xv ɑ˩ʁo˧-bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
+\xv ɑ˩ʁo˧=bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
 \xe Let's eat in the bowls of the house! (Context: the host wonders whether guests want to use their own bowls to eat cereals that they brought along, or whether it's all right to use the house's dishes.)
 \xn 用家里的碗吃吧！（情景：客人拿过来了自己的燕麦片和铁碗，早上用自己的碗吃自己的麦片。有一天，他忘了拿自己的铁碗，主人说：用家里的碗吧！）
 \xf Mangeons dans les bols de la maison! (Contexte: des invités ont apporté leur propre muesli et leur propre bol, et prennent le petit déjeuner à part; un jour où ils ont oublié leur bol, la maîtresse de maison suggère: utilisons donc la vaisselle de la maison!)

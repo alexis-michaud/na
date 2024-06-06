@@ -5,7 +5,7 @@ généralités:
         nom d’abstraction: "^(?<nom>[\\w\\s’-]+)(?=$|(\\s(?<arguments>.+?))$)"
         texte enrichi:
           - "(?<ensemble>(?<style>fn|fv):(?<texte>\\w+))"
-          - "(?<ensemble>\\|(?<style>fv|fg|fi){(?<texte>.+?)})"
+          - "(?<ensemble>\\|(?<style>fv|fg|fn|fi){(?<texte>.+?)})"
           # - "(?<syllabe>[\\p{L}\\p{M}]+)(?<ton>\\p{Sk}+)(?<indice>(?![\\p{L}\\p{M}]+\\p{Sk}+)[abc])*"
     substitutions:
         texte enrichi:
@@ -16,7 +16,7 @@ généralités:
 balises:
     # Balises ignorées (notes).
     sf: ~
-    vf: ~
+    vf: ~ # ?? La réponse d'Alexis, c'est que c'est pour un commentaire, en français, au sujet d'une variante.
     xo: ~  # ?? La réponse d'Alexis, c'est que c'est l'orthographe des exemples
     pdl: ~  # Inutile car ce sont tous des classificateurs.
 
