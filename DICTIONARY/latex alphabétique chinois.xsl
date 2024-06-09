@@ -166,7 +166,7 @@
 
 <xsl:template match="EntréesLexicales">
     <xsl:param name="expression_rationnelle_graphèmes"/>
-    <xsl:apply-templates select="EntréeLexicale[matches(replace(Lemme/Forme, '[_=-]', ''), $expression_rationnelle_graphèmes, 'i;j')]"/>
+    <xsl:apply-templates select="EntréeLexicale[matches(replace(Lemme/Forme, '[_†=-]', ''), $expression_rationnelle_graphèmes, 'i;j')]"/>
 </xsl:template>
 
 <xsl:template match="EntréeLexicale">
