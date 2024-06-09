@@ -34,7 +34,7 @@
 	<FORM kindOf="phono">tʰi˩˥, | nɑ˩-bv̩˥ | ʈʂʰɯ˧ | ʑi˧qʰwɤ˧ | pi˧-hĩ˧-ʈʂʰɯ˧-dʑo˩ | tʰi˩˥, | ʑi˧mi˧ | pi˧-hĩ˧-ʈʂʰɯ˧-dʑo˩, | ɑ˩ʁo˧ | tʰi˧-dzi˩-hĩ˩ | ʈʂʰɯ˧-ɭɯ˧, |</FORM>
 	<FORM kindOf="ortho">Tiq, Naq bbu tee xxikhua bihin tee jjo, tiq, xximi bihin tee jjo, awo teezzeehin teelee,</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡pi˧-hĩ˧ | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
-	<TRANSL xml:lang="fr">Les bâtiments des Na, leur pièce principale, le foyer où on habite…</TRANSL>
+	<TRANSL xml:lang="fr">Les bâtiments des Na, leur pièce principale, le foyer où on habite… / Ce que les Na dénomment «bâtiment»; ce qu'ils appellent «la bâtisse principale»; ce foyer, dans lequel nous voici assis…</TRANSL>
 	<TRANSL xml:lang="en">Well, our Na homes, the main house, where the family lives,</TRANSL>
 	<TRANSL xml:lang="zh">我们摩梭人的房子，我们的住屋，我们住的家，</TRANSL>
 		<W>
@@ -2266,7 +2266,7 @@
 	<NOTE xml:lang="fr" message="On pourrait également dire: /dʑɯ˩ æ˩-kv̩˥./"/>
 	<NOTE xml:lang="fr" message="d'abord noté /le˧-tsʰi˧-bi˧-bi˧/; puis corrigé en: /le˧-tsʰi˧-bi˧-pi˥/; en 2013, rétabli: /le˧-tsʰi˧-bi˧-bi˧ F/"/>
 	<TRANSL xml:lang="fr">on équarrit le bois de construction destiné au bâtiment principal; s'il est bon (littéralement "celui qui est bon"), on l'équarrit et on le ramène, pour la construction de la maison; quand on y mettra de l'eau, ça sera bien imperméable (littéralement "ça renverra l'eau")!</TRANSL>
-	<TRANSL xml:lang="en">The house, wood, for building houses... timber that's good (for building) houses, well, (you) square it off (and when) the home is built, (if it) gets water (on it), it'll be waterproof.</TRANSL>
+	<TRANSL xml:lang="en">The house, wood, for building houses… timber that's good (for building) houses, well, (you) square it off (and when) the home is built, (if it) gets water (on it), it'll be waterproof.</TRANSL>
 	<TRANSL xml:lang="zh">房屋的话，木头……建房的木料，好的那些，砍成方型就带回去。建房以后，这样的木头可以防水！</TRANSL>
 		<W>
 			<FORM>ʑi˧mi˧</FORM>
@@ -3567,7 +3567,7 @@
 	<FORM kindOf="ortho">Uaq, mmm… ghaeddo deddi, go tee taemi nee tee shuaemi ggu jjo, lo tee tee niq yi ddeelee ddiq guq mae!</FORM>
 	<NOTE xml:lang="fr" message="avant 2013: noté /‡lo˧-ʈʂʰɯ˧/, et: /‡ɖɯ˧-ɭɯ˧ di˧-kv̩˧-mæ˩/."/>
 	<TRANSL xml:lang="fr">Après, ce dont on se sert pour tirer les troncs équarris… les collines, elles sont vraiment grandes comme ça! (=On rapporte le bois de construction par une longue suite de collines!) Quant à la vallée, on en trouve une comme ça (geste) (=on parvient à une vallée qui permet d'acheminer le bois de construction) [note: la conteuse commence à parler de l'étape suivante, où on utilise des cordes pour tirer les troncs, puis revient aussitôt à l'étape où les troncs équarris sont portés à dos d'homme]</TRANSL>
-	<TRANSL xml:lang="en">Also, what was used to pull the timber.... the hills, they were really this high, and there were valleys like this! </TRANSL>
+	<TRANSL xml:lang="en">Also, what was used to pull the timber…. the hills, they were really this high, and there were valleys like this! </TRANSL>
 	<TRANSL xml:lang="zh">用来拉木料的……山真的是高高的，而山谷，会有这样的！（手势）（注：此处，讲述人开始讲下一段：用绳子拉木料，但后来又继续讲前一段：扛木料）</TRANSL>
 		<W>
 			<FORM>wɤ˩˥</FORM>
@@ -5996,7 +5996,7 @@
 	<FORM kindOf="phono">ɖɯ˧-ʁ[wɤ˧]… &lt;ɖɯ˧-qo˥-lv̩˩&gt; | tʰi˧-tɕɯ˧-ɲi˥-ze˩-mæ˩! | ɖɯ˧-ʁwɤ˧… | ʑi˧mi˧… | ʑi˧qʰwɤ˧ | ɖɯ˧-ɭɯ˧ | tʰi˧-tɕɯ˧-ɲi˥-ze˩-mæ˩! |</FORM>
 	<FORM kindOf="ortho">Ddeewua teeji niq ssei mae! Ddeewua… xximi… xxikhua ddeelee teeji niq ssei mae!</FORM>
 	<TRANSL xml:lang="fr">Tout ce tas [de bois de construction], le voilà bel et bien installé (=toute la structure est en place)! La demeure est en place!</TRANSL>
-	<TRANSL xml:lang="en">A (whole) pile (of wood) has been put in place! A pile... the house has been set up! </TRANSL>
+	<TRANSL xml:lang="en">A (whole) pile (of wood) has been put in place! A pile… the house has been set up! </TRANSL>
 	<TRANSL xml:lang="zh">那一堆（木料），都安装好了（=变成了一个完整的木头结构）！房子已经摆好了（直译：“已放好了”）！</TRANSL>
 		<W>
 			<FORM>ɖɯ˧-ʁwɤ˧</FORM>
@@ -7744,7 +7744,7 @@
 	<FORM kindOf="ortho">Rulee bihin tee, uaq, eee… ssono… ghaeddo honceelee nee,</FORM>
 	<NOTE xml:lang="fr" message="sens vérifié: est bien /ɲi˧/ 'avoir besoin' et non la copule /ɲi˩/."/>
 	<TRANSL xml:lang="fr">[Pour] les poutres de toiture… [pour toute la maison] il faut quatre-vingt pièces de bois de construction, </TRANSL>
-	<TRANSL xml:lang="en">The things called "rulee", um... now, (you) need eighty lengths of timber (for the whole house),</TRANSL>
+	<TRANSL xml:lang="en">The things called "rulee", um… now, (you) need eighty lengths of timber (for the whole house),</TRANSL>
 	<TRANSL xml:lang="zh">（整个房子）需要八十件木料，而梁……</TRANSL>
 		<W>
 			<FORM>ʐv̩˩ɭɯ˥</FORM>
@@ -7797,7 +7797,7 @@
 	<FORM kindOf="ortho">ghaeddo honceekheulee nee bi jjo, rulee tee, uaq, haeshi…</FORM>
  <NOTE xml:lang="fr" message="Avant 2013, noté: /hõ˩tsʰi˧qʰv̩˧-ɭɯ˧ ɲi˥/, formule qui est également correcte: /hõ˩tsʰi˧qʰv̩˧-ɭɯ˥$/ et /hõ˩tsʰi˧qʰv̩˧-ɭɯ˥#/ sont deux variantes."/>
 	<TRANSL xml:lang="fr">Il faut quatre-vingt-six pièces de bois de construction; et les poutres de toiture, eh bien…</TRANSL>
-	<TRANSL xml:lang="en">(you) need eighty-six lengths of timber, and the roof beams, well...</TRANSL>
+	<TRANSL xml:lang="en">(you) need eighty-six lengths of timber, and the roof beams, well…</TRANSL>
 	<TRANSL xml:lang="zh">（一共）需要八十六件木料，而支撑顶板的小梁，呃……</TRANSL>
 		<W>
 			<FORM>qæ˧do˧</FORM>
@@ -8244,7 +8244,7 @@
 	<FORM kindOf="ortho">Ghua teegho niq jjo… xxihrae teegho… ama ggaepae ddeelee teeddi meddi, aeggi!</FORM>
 	<NOTE xml:lang="fr" message="…mɤ˩-di˩: /m/ affaibli, prononcé proche de [w]"/>
 	<TRANSL xml:lang="fr">C'est ici que se trouve le foyer; &lt;dans le bâtiment principal également,&gt; chez moi, il y a une resserre, n'est-ce pas! </TRANSL>
-	<TRANSL xml:lang="en">The hearth is here... the back of the house here .... my house has a storeroom, right?</TRANSL>
+	<TRANSL xml:lang="en">The hearth is here… the back of the house here …. my house has a storeroom, right?</TRANSL>
 	<TRANSL xml:lang="zh">火塘在这里。我家，（主屋里还）有‘噶帕’（放杂物的库房），对嘛？</TRANSL>
 		<W>
 			<FORM>qwɤ˧</FORM>
@@ -9763,7 +9763,7 @@
 	<FORM kindOf="phono">əəə… zo˩no˥, | əəə… zɑ˩-bɑ˥-lɑ˩-ʈʂʰɯ˩-dʑo˩, | zo˩no˥… | le˧-tɕi˩-zo˩, | ʝi˧kʰv̩˥-dʑo˩ | le˧-tɕi˩. |</FORM>
 	<FORM kindOf="ortho">Eee… ssono, eee… ssabbala tee jjo, ssono… leji sso, yiko jjo leji.</FORM>
 	<TRANSL xml:lang="fr">La peinture religieuse, s'agissant de sa réalisation (=Pour ce qui est de peindre la peinture religieuse), ce sont certaines personnes qui la peignent[, pas n'importe qui].</TRANSL>
-	<TRANSL xml:lang="en">Um... now, um..... the thangka, painting it, some (specialist) paints it.</TRANSL>
+	<TRANSL xml:lang="en">Um… now, um….. the thangka, painting it, some (specialist) paints it.</TRANSL>
 	<TRANSL xml:lang="zh">佛教的画‘匝巴拉’，只有一些（专门的）人才会画。</TRANSL>
 		<W>
 			<FORM>zo˩no˧</FORM>
@@ -12375,7 +12375,7 @@
 	<FORM kindOf="phono">mɤ˧-dʑo˧ | mɤ˧-tʰɑ˧˥! | pi˧-tsɯ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖwæ˧˥ | ʑi˧mi˧… | zo˩qo˧ ɲi˩-bi˩, | ʑi˧mi˧ | ʈʂʰɯ˧-ɭɯ˧-sɯ˩ | dɑ˧-kv̩˥-mæ˩! |</FORM>
 	<FORM kindOf="ortho">Mejjo meta bi ziq, eyishei, dduaeq xximi… ssogho niq bbi, xximi teelee see ddaq guq mae!</FORM>
 	<TRANSL xml:lang="fr">on ne peut pas ne pas en avoir! voilà ce qu'on en disait; autrefois, la maison, c'était très… où qu'on aille, on construisait d'abord une maison!</TRANSL>
-	<TRANSL xml:lang="en">(We) can't not have (a home), it's said; in the past, the home was very... no matter where (you) went, (you'd) first build a house!</TRANSL>
+	<TRANSL xml:lang="en">(We) can't not have (a home), it's said; in the past, the home was very… no matter where (you) went, (you'd) first build a house!</TRANSL>
 	<TRANSL xml:lang="zh">不能没有家！以前，人家是这样想的：无论到哪里，都要先建房！</TRANSL>
 		<W>
 			<FORM>mɤ˧-</FORM>
@@ -13772,7 +13772,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S206"><AUDIO start="936.7376" end="939.0566"/>
-	<FORM kindOf="phono">dʑɤ˩tsʰo˧-ʈʂʰɯ˧ ...-dʑo˩, | ʐɯ˧dzi˧ ɲi˥ pi˩! |</FORM>
+	<FORM kindOf="phono">dʑɤ˩tsʰo˧-ʈʂʰɯ˧ …-dʑo˩, | ʐɯ˧dzi˧ ɲi˥ pi˩! |</FORM>
 	<FORM kindOf="ortho">Jjaco tee, rizzee niq bi.</FORM>
 	<TRANSL xml:lang="fr">La danse, elle fête l'entrée dans les lieux! </TRANSL>
 	<TRANSL xml:lang="en">The dance, it's (part of) the housewarming.</TRANSL>
@@ -14201,7 +14201,7 @@
 	<NOTE xml:lang="fr" message="tons vérifiés: est ɑ˩ʁo˧ dʑo˧-hĩ˧-ʈʂʰɯ˧"/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡ə˩tso˧, par transfert du naxi /ə˩tsɯ˧/"/>
 	<TRANSL xml:lang="fr">une fois qu'on a construit la maison, eh bien, les objets de la maison, ce qu'il y a dans le bâtiment… certaines personnes, eh bien… les objets en cuivre, ceux qu'il y a à la maison, ils sont beaux, par chez nous! </TRANSL>
-	<TRANSL xml:lang="en">finish building the house, then there's all the household things in the house. Some people, aaa... (we) consider it very good to have copper objects in the home, (we) Na.</TRANSL>
+	<TRANSL xml:lang="en">finish building the house, then there's all the household things in the house. Some people, aaa… (we) consider it very good to have copper objects in the home, (we) Na.</TRANSL>
 	<TRANSL xml:lang="zh">房子建完了，（要管）家里的东西，家里有什么样的东西。有些摩梭人，家里有铜器，是很好的！（=有一些摩梭人，对家里的铜器很有讲究！）</TRANSL>
 		<W>
 			<FORM>ʑi˧qʰwɤ˧</FORM>
@@ -14983,11 +14983,11 @@
 </S>
 <S id="HouseBuilding_S220"><AUDIO start="1015.7432" end="1025.2702"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥ | tɑ˩mv̩˩ dʑo˩-kv̩˥-tsɯ˩ ◊ -mv̩˩! | lɑ˧kʰv̩˧-hĩ˥, | ʐwæ˧kʰv̩˩-hĩ˩, | jo˩kʰv̩˩-hĩ˥, | tʰv̩˧-so˧-kv̩˥-po˩-ɳɯ˩, | ʈʰæ˧æ̃˩, | jo˧mi˧-dʑo˥, | hɑ˧ dzɯ˧ | le˧-ʑi˧˥ ◊ -dʑo˩, dʑo˧-kv̩˧˥! | hɑ˧ ɲi˧-kv̩˩! |</FORM>
-	<FORM kindOf="ortho">Tee niq yi damu jjo guq zimu! La kuhin, ruae kuhin, yo kuhin, tee sogu boq nee taemi nee... Yomi jjo ha zzi lexxi jjo jjo guq! Hani guq!</FORM>
+	<FORM kindOf="ortho">Tee niq yi damu jjo guq zimu! La kuhin, ruae kuhin, yo kuhin, tee sogu boq nee taemi nee… Yomi jjo ha zzi lexxi jjo jjo guq! Hani guq!</FORM>
 	<NOTE xml:lang="fr" message="intéressant: tons différents selon que c'est hĩ °nmlz ou hĩ˥ 'homme, personne'"/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡hɤ˧˥"/>
 	<TRANSL xml:lang="fr">Il y a un proverbe comme ça, à ce qu'on dit! Une personne de l'année du Tigre, Une personne de l'année du Cheval, une personne de l'année de la Chèvre, ces trois-là, c'est bien vrai… La brebis, elle mange et puis elle dort, elle ne manque de rien! Elle a le ventre plein/ elle sait trouver son content!</TRANSL>
-	<TRANSL xml:lang="en">There is a proverb about this. The person born in the year of the tiger, the person born in the year of the horse, the person born in the year of the goat, these three are really.... The nanny goat eats food and then sleeps [i.e. lacks nothing]. (She) eats and is satisfied.</TRANSL>
+	<TRANSL xml:lang="en">There is a proverb about this. The person born in the year of the tiger, the person born in the year of the horse, the person born in the year of the goat, these three are really…. The nanny goat eats food and then sleeps [i.e. lacks nothing]. (She) eats and is satisfied.</TRANSL>
 	<TRANSL xml:lang="zh">有这方面的谚语！属虎的人、属马的人、属羊的人，这三种，真的（很好）！母羊，吃饭就睡，能有（钱）的！能吃饱！</TRANSL>
 		<W>
 			<FORM>ʈʂʰɯ˧ne˧-ʝi˥</FORM>
@@ -15552,7 +15552,7 @@
 	<FORM kindOf="phono">&lt;qæ˧do˧ le˧-w̃æ˧… le˧-gɤ˧˥!&gt;[qæ˧do˧ le˧-gɤ˧˥… le˧-w̃æ˧!]</FORM>
 	<FORM kindOf="ortho">Ghaeddo legge… le'uaen!</FORM>
 	<TRANSL xml:lang="fr">Le bois de construction, on le gonfle… on le porte! (La phrase est dite dans le sens inverse de ce que voulait dire la locutrice: "on porte du bois de construction… et [l'épaule] enfle")</TRANSL>
-	<TRANSL xml:lang="en">Carrying timber... swollen!</TRANSL>
+	<TRANSL xml:lang="en">Carrying timber… swollen!</TRANSL>
 	<TRANSL xml:lang="zh">扛木料，会让（肩膀）受伤发炎！</TRANSL>
 		<W>
 			<FORM>qæ˧do˧</FORM>
@@ -16457,7 +16457,7 @@
 	<FORM kindOf="ortho">Mmm… raeq teejjo! La teejjo! Onddu teejjo! Mmm… raeq la la, onddu, toli, on! Eee… eee… ddemi! Ami! Aezo meni ddoq bi, dduaeq sso, dduaeq sso, khani dduaeq guq mae!</FORM>
 	<NOTE xml:lang="fr" message="vérifié, n'est pas: ‡ɖwæ˩-kv̩˥-mæ˩"/>
 	<TRANSL xml:lang="fr">il y avait des léopards! il y avait des tigres! il y avait des loups! Des léopards et des tigres, des loups, des lapins, hein! Des renards! Ouh là là, on y voyait de tout, c'était effrayant! effrayant! Qu'est-ce que c'était effrayant!</TRANSL>
-	<TRANSL xml:lang="en">Um, there were leopards! There were tigers! There were wolves! Um, leopards and tigers, wolves, rabbits, oh! Ah... ah... foxes! Wow! Wherever you looked, it was scary, scary, so scary!</TRANSL>
+	<TRANSL xml:lang="en">Um, there were leopards! There were tigers! There were wolves! Um, leopards and tigers, wolves, rabbits, oh! Ah… ah… foxes! Wow! Wherever you looked, it was scary, scary, so scary!</TRANSL>
 	<TRANSL xml:lang="zh">有豹子！有老虎！有狼！豹子和老虎、狼、兔子、狐狸……什么都会遇见的！吓人的！多么吓人！</TRANSL>
 		<W>
 			<FORM>ʐæ˩˧</FORM>
@@ -17428,7 +17428,7 @@
 	<FORM kindOf="phono">&lt;dʑɯ˧ | le˧-k… dʑɯ˧ | le˧…&gt; | dʑɯ˧ | ɖɯ˧-tɑ˧˥… | le˧-ʈɤ˧-zo˩… | dʑɯ˩kʰi˩ tʰv̩˩˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | tʰi˩˥, |</FORM>
 	<FORM kindOf="ortho">Jji ddeeda… lede sso… jji ki tu jjo, eyishei, tiq.</FORM>
 	<TRANSL xml:lang="fr">Toute l'eau… il fallait tirer! Quand on arrivait au bord de l'eau, autrefois, eh bien…</TRANSL>
-	<TRANSL xml:lang="en">All the water... pulling... as far as the river bank, in the past, well.</TRANSL>
+	<TRANSL xml:lang="en">All the water… pulling… as far as the river bank, in the past, well.</TRANSL>
 	<TRANSL xml:lang="zh">拉着推着漂着，到了河边（=目的地），在过去……</TRANSL>
 		<W>
 			<FORM>dʑɯ˩</FORM>
@@ -18199,7 +18199,7 @@
 	<NOTE xml:lang="fr" message="d'abord noté /‡dʑɤ˩-hĩ˥-qo˩/ ; corrigé en L.L.H à une date indéterminée (dʑɤ˩-hĩ˩-qo˥) ; rétabli en avril 2018 : est : dʑɤ˩-hĩ˥-qo˩"></NOTE>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ɖɯ˧-pi˥/"></NOTE>
 	<TRANSL xml:lang="fr">En ce qui concerne ta maison, on te logera dans une belle [maison]! Maintenant, nous autres… les mauvais jours, il ne va plus y en avoir! (=les mauvais jours vont finir!) [En ce moment] les temps sont un peu troublés;</TRANSL>
-	<TRANSL xml:lang="en">You will be housed in a beautiful house. Don't worry! Theses day, we... this bad time will be no more. At the moment it's a bit of a tough time, but</TRANSL>
+	<TRANSL xml:lang="en">You will be housed in a beautiful house. Don't worry! Theses day, we… this bad time will be no more. At the moment it's a bit of a tough time, but</TRANSL>
 	<TRANSL xml:lang="zh">你的家吧，你会住在很好的一个家里！别担心！这个年头不好，以后不会再这样了！年头有一点不好，那么，</TRANSL>
 		<W>
 			<FORM>no˧</FORM>
@@ -20032,7 +20032,7 @@ Tiq, tee niq yi seiq jjo, tiq, legguggu letu seiq jjo, awo teegho ggegho, xximi 
 Ssono, ssabbala tee jjo leji sso, yiko jjo leji. Eyiceeyi jjo, hinlae nee leji sso, khani evu keeq sso! Bbukheu teeddi, huali teeddi, tee niq yi ddeedeu ddeedeu khaye teeddi niq mae. Ghua tee jjo, uaq, ghua wokhua choddo. Ama bbu choddo no ddoq mae. Ama nee ha zzi choddo bi teecho jjo mae, aeggi! On! Choddo! Tee jjo choddo bi guq mae. Tee, ghua. Tee, ssabbala. Tee, shuaeggu. Tu, seetu. No teezzeehin teegho jjo ghuae. Sheizzo! Tiq, teezze, ama teexxihin teegho jjo jjabbo. Xximi ddeelee gho tee, awo khaye teejjo guq. Ssono, Naq tee jjo eshae shuaeggu teelee jjo, seetu teelee la, domi la, ggeghua, ssabbala tee jjo, awo bbu xxiddu bbu numi! Osigu hin niq sso numi nee guq zimu. Tee sobbaehin tee jjo mejjo meta. Choddo, tee rubbae. Tee ddeeto niq ssei mae. Tee ddeeda ddeeqo. Tiq, hin tee awo bbi, tee'er sei shuaeggu lee teemeddi, seetu lee teemeddi, aezo niq bi. Eyishei, nyasigu hinmolae nee ruaq jjo: "Seetu tee jjo, ssono, axxi apeu leshi jjo leyo sso, seetu gho zzeeq guq zimu!" Ggeghua tee jjo, tiq, axxi apeu aezo meni ha zzi, jji teehin tee, ggeghua wo ji ssogu zimu. Choddo tee, ddeeni soqiehin tee jjo, tiq, ddeeqie zzi nee ddeeshi teecho. Musee nya, xxidei jjo so teeghae. Liq teeja, tiq, choddo cho. Tiq, tee niq yi tee jjo, ddeeni soqiehin tee jjo, axxi apeu choddo teelee jjo ha zzi jjo niq zimu. Nyasigu eyishei hin mohin biq guq mae: "Nya'er sei leshi, nosigu choddo cho ho ssei!" Tiq, eyiceeyi jjo, aezei yi niq meddo. "Choddo see teecho, choddo see teecho!" bi, choddo cho ssogu mae. Tiq, Naq tee jjo on tee niq yi ddeebbae jjo guq. Tiq, eyishei jjo, nya asee nee bi guq mae: "Ami! Hin mohin jjo, ssono, seetu teelee jjo mejjo meta!" bi. Nyasigu eyishei seetu teelee mejjo meta. Tee aezo bi. 
 Nyasigu hin tee leshi jjo ghuae, aeggi! Sheizzo teena, sheizzo ghuae tee wodo jjo, tiq, leshihin hinbbu guaca teegho ji niq mae. "Soni leghae bbi ho!" bi jjo, ceekhua jjo guaca teelee lexxi, teegho ji, hin mohin tee. Lexxi, guaca gho keeq, xximi gho tee, eshae damu jjo. Xximi meddi jjo meze! Guaca ji bbiddi ddiq meho bi sso. Ghuae ddeebe gguq. Eyishei, ghuae teebe jjo hin mohin leshi jjo jiddi niq guq ziq mae. 
 Tiq, Naq tee jjo xximi teelee jjo dduaeq nee! Mejjo meta bi ziq; eyishei, ssogho niq bbi, xximi teelee see ddaq guq mae. Tiq, ledda ledda, tiq, xximi ddeeda ledda, letu! Tee niq yi seiq jjo, tiq, mupae diq, ggaepae diq, tiq, xximi mu keeq ddeeso, xximi gho zzeeq ddeeso jjo, aeggi! Daebbe lehrashei lebo yo. Xxikhua shiq gho teezzee wodo jjo, xximi ledda letu niq ssei mae. Naq tee jjo xximi ledda letu jjo, tiq, "ddaelaso" bi. Daebbe nigu hrashei lebo yo. Daebbe lecho. Mu keehin jjo, tiq uaq, kuq zhe niq bi. La kuhin nee keeq ssogu, yo kuhin nee keeq ssogu. Jjaq guq bi. Vu teeddeemi ddeelee teedee. Teedee teeso jjo jji teekee, aenq lekho, bboq lekho, on teeni jjo. "Ami! Xxikhua shiq gho zzeeq niq ssei! Ddeessi dduaeq jjaq ho!" bi sso, uaq, hin leluae. Tiq, hinlae nee pebbe boq yo guq mae. "Ami! No xxikhua shiq gho zzeeq ssei mae. Nae'er sei aezei tee niq yi heq niq! Xxikhua tee niq yi jjahin ceeq sso! Ssomu heq ssei bi, ggeq seiq ze ssei. Ami! No xxikhua teelee sei dduaeq jjaq!" bi sso, Naq tee jjo, eyishei, tee niq yi guq mae. Tiq, ddeeda tee niq yi seiq jjo, tiq, teehan jjo xxikhua teegho teezzee bi, jjaco. "Nya'er jjo xxikhua ceeq niq ssei!" bi, "xxikhua teegho zzeeq niq" bi, jjaco guq, eyishei. Tiq, leco leco, hinlae gi muku, huaekheu. Jjaco tee, rizzee niq bi. Jjacohin tee jjo xxi zzeeq niq bi. Xxikhua shiq gho zzeeq jjo.
-Ddeelo jjo niq mae. Tee niq yi aezo meni xximi ruaq bbi bi jjo, hin tee ddeeto ddeeto jjo niq. Xximi ddeelee ddaq jjo, khani yi guq; xximi gho la aezo jjo guq. Tiq, xximi ddeeleehin tee, xximi ruaq la meze niq mae, ghaeddo ruaq la meze niq mae. Ghaeddo ledda lebo cee, xxikhua lecee; xxikhua lecee seiq jjo, tiq, awo zozo aezo xximi gho jjo. Hinlae jjo aen bbu zozo, awo jjohin tee jjaq zhe guq mae, Naq tee jjo. "Ami! Tee'er sei, aenzo aenmo nee dduaeq jjo!" bi sso, hinlae. On teeso jjo, tiq, mu keeq ddeeso jjo, tiq, ghua leggu teeji jjo, tiq, sheikee. Sheikee! Tee ddeemi jjo mejjo. Ama gi teedee jjo mejjo, aeggi! Sheikee teena jjo, tiq, la kuhin la yo kuhin ddeevu nee sheikee teena teedee. Yo kuhin teevu nee, tiq, jji teekee. Yo kuhin tee jjo dduaeq jjaq, aezo meni lezzi teexxi sso, jjo guq bi zimu! Jjo guq bi yi niq mae. La kuhin tee jjo ssogho shei bbi ddeeq guq. Heq ruaeq bi sso, eshae jjo. Tee niq yi damu jjo guq zimu. La kuhin, ruae kuhin, yo kuhin, tee sogu boq nee taemi nee... Yomi jjo ha zzi lexxi jjo jjo guq. Hani guq! La kuhin tee jjo, tiq, leshei lebo cee, ssogho shei bbi ddeewo. La kuq jjaq! Ruae kuhin tee jjo leji lebo yo guq bi sso. Eshae damu tee niq yi jjo niq zimu.
+Ddeelo jjo niq mae. Tee niq yi aezo meni xximi ruaq bbi bi jjo, hin tee ddeeto ddeeto jjo niq. Xximi ddeelee ddaq jjo, khani yi guq; xximi gho la aezo jjo guq. Tiq, xximi ddeeleehin tee, xximi ruaq la meze niq mae, ghaeddo ruaq la meze niq mae. Ghaeddo ledda lebo cee, xxikhua lecee; xxikhua lecee seiq jjo, tiq, awo zozo aezo xximi gho jjo. Hinlae jjo aen bbu zozo, awo jjohin tee jjaq zhe guq mae, Naq tee jjo. "Ami! Tee'er sei, aenzo aenmo nee dduaeq jjo!" bi sso, hinlae. On teeso jjo, tiq, mu keeq ddeeso jjo, tiq, ghua leggu teeji jjo, tiq, sheikee. Sheikee! Tee ddeemi jjo mejjo. Ama gi teedee jjo mejjo, aeggi! Sheikee teena jjo, tiq, la kuhin la yo kuhin ddeevu nee sheikee teena teedee. Yo kuhin teevu nee, tiq, jji teekee. Yo kuhin tee jjo dduaeq jjaq, aezo meni lezzi teexxi sso, jjo guq bi zimu! Jjo guq bi yi niq mae. La kuhin tee jjo ssogho shei bbi ddeeq guq. Heq ruaeq bi sso, eshae jjo. Tee niq yi damu jjo guq zimu. La kuhin, ruae kuhin, yo kuhin, tee sogu boq nee taemi nee… Yomi jjo ha zzi lexxi jjo jjo guq. Hani guq! La kuhin tee jjo, tiq, leshei lebo cee, ssogho shei bbi ddeewo. La kuq jjaq! Ruae kuhin tee jjo leji lebo yo guq bi sso. Eshae damu tee niq yi jjo niq zimu.
 Tiq, xximi ddeelee ceehin tee jjo on tee niq yi sso, dduaeq teiq jjo, teiq guq niq. Eyishei, nya xximi ddaq ki jjo. Legge, ghaeddo legge legge, eyishei khuado le'uaen guq! Tiq, ri boq nee ddeechuchu'er. Ri tee, awo nee leja boq bbi, ri ddeege ddeege, eyishei. Lage! Ssono niq jafu jjo megu. Lage gho nee lebebe, lage bi sso ddeewo jjo guq. Tiq, jjiwo ghaeddo ddaq ki jjo, jji taemi nee jjo megu. Jji jjo megu! Eyiceeyi niq siliato mejjo, aeggi! Milhi tee eyishei "khuatu" bi sso, ledeu sso. Jji keeddi tee, hinmo jjo guq mae. Teegho nee bebe bbi ssogu mae. Milhike ddeelee boq nee jjo lebebe, jji. Teeji, ha gguq. Ami! Jji bebehin taemi nee mutae khashaehin gho daegho, ghaeddo ddahin jjo ggebbi jjo, jji bebehin jjo mutae jjo jjo. Niddae bebe nee ggebbi tu. Ha gguhin ddeevu, jji bebehin ddeevu.
 Tiq, eyishei jjo, jjiwo aezo meni jjo guq niq ssei. Raeq teejjo, la teejjo, onddu teejjo, toli, ddemi. Ami! Aezo meni ddoq bi, dduaeq sso, dduaeq sso, khani dduaeq guq mae. Seezzee tee nee no li meddo, nya li meddo. Ami, ledduae sso! Xie leyi remi gho tu aeyi shuddu sso, remi tee go go tee niq yi ddeekee teeddi, remi tee taemi nee tee fe la ggu guq. Teegho see! Teegho see! Tiq uaq, jjiwo huaezzhae ddeewo jjo guq. Maegho bi khashaeshae sso khaye jjo guq. "Bububu" bi, teejo bbaeq, "bububu" bi, teejo bbaeq sei. Ledduae ledduae ledduae, dduaeq poq guq ziq mae. Tiq, ddeeyi ddeeyi gge seezzee tee "zighuae, zighuae" bi jjo, ami! La teejjo aeddi bi sso, on do on khani jjaq dduaeq guq. Nya eyishei jjiwo teehan, apeu gha teeqo, avu teejie gha teeqo. Ha gguq bbi, wuce chae, on tee niq yi bbi jji mae.
 Xximi ddaq jjo, eyishei, nya'er xximi dduaeq ddeelee ddaq. Ami! Dduaeq ddeelee ddaq jjo, tiq, lede! Nimi ddeelhi de. Ddeelhi lede! Jji ki tu niq ssei mae, aeggi! Jji ki tee, uaq, jjimi ddeelee gho keeq sso niq. Jji boq nee zeiq keeq. Jji ddeeda lede sso, jji ki tu jjo, eyishei.

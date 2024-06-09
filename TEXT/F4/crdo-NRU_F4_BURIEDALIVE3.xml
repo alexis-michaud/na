@@ -65,16 +65,12 @@
 	</S>
 	<S id="BuriedAlive3S006">
 		<AUDIO start="35.0109" end="46.2360"/>
-		<FORM>ɖɯ˩-hĩ˩ ʈʂʰɯ˩-tɕi˥ F | lo˧ ʝi˧-hɯ˧-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-dʑo˧, | əəə… ɑ˩ʁo˧
-			dzi˩-kʰɯ˩! | mmm… ɖɯ˩ɖʐɯ˧-ɬɑ˩-tsʰo˩-ʈʂʰɯ˩-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ dzi˩-kʰɯ˩! | mmm…
-			hɑ˧ gv̩˥-kʰɯ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>ɖɯ˩-hĩ˩ ʈʂʰɯ˩-tɕi˥ F | lo˧ ʝi˧-hɯ˧-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-dʑo˧, | əəə… ɑ˩ʁo˧ 	dzi˩-kʰɯ˩! | mmm… ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ dzi˩-kʰɯ˩! | mmm… hɑ˧ gv̩˥-kʰɯ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="initiale réalisée voisée: [ɖɯ˩ɖʐɯ˧-lɑ˩-tsʰo˩]"/>
 		<NOTE xml:lang="fr" message="tons vérifiés: est bien /ʈʂʰɯ˧-dʑo˧/ [note de juillet 2012]"/>
-		<TRANSL xml:lang="fr">Quand les aînés furent partis travailler, elle, euh… on lui avait
-			dit de rester à la maison! ɖɯ˩ɖʐɯ˧-ɬɑ˩-tsʰo˩, on lui avait dit de rester à la maison!
-			Elle était chargée de faire la cuisine/ on lui avait confié la tâche de faire la
-			cuisine!</TRANSL>
-		<TRANSL xml:lang="zh">大家都出去干活去了，而她呢，留在家里，管家、做饭。</TRANSL>
+		<TRANSL xml:lang="fr">Quand les (autres) adultes furent partis travailler, elle, euh… on lui avait
+			dit de rester à la maison! Ddeezzhi Lhaco ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, on lui avait dit de rester à la maison / on l'avait affectée aux tâches domestiques! Elle était chargée de faire la cuisine/ on lui avait confié la tâche de faire la cuisine!</TRANSL>
+		<TRANSL xml:lang="zh">大家都出去干活去了，而独知拉搓，她呢，留在家里，管家、做饭。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S007">
 		<AUDIO start="46.9093" end="52.9578"/>
@@ -102,7 +98,7 @@
 		<AUDIO start="65.2095" end="70.6951"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-lɑ˩, | zo˩no˥… | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ | ʈʂʰɯ˧=zɯ˩-dʑo˩,	| fv̩˧~fv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="Le /-dʑo˩/ dans /ʈʂʰɯ˧=zɯ˩-dʑo˩/ a été ajouté en mai 2020, suite à une observation de Ludger Paschen."/>
-		<TRANSL xml:lang="fr">Auparavant, Nobbu Ci'er et, euh… Deezzhi Lhaco, ces deux-là,
+		<TRANSL xml:lang="fr">Auparavant, Nobbu Ci'er et, euh… Ddeezzhi Lhaco, ces deux-là,
 			ils s'aimaient bien!</TRANSL>
 		<TRANSL xml:lang="zh">以前，诺布次尔和这个女孩子（名字叫独知拉搓），他俩曾互相喜欢！</TRANSL>
 	</S>
@@ -119,7 +115,7 @@
 		<FORM>tʰi˩˥, | tʰi˧-mɤ˧-ki˧-dʑo˧, | tʰi˩˥, | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ ʈʂʰɯ˩-dʑo˩, | "õ˧˥ | fv̩˧-hĩ˧ ki˧, | ɑ˩ʁo˧-ɳɯ˧ | mɤ˧-ki˧!" |</FORM>
 		<NOTE xml:lang="fr"
 			message="on pourrait également dire: /õ˧˥ | fv̩˧-hĩ˧ ki˧, | ɑ˩ʁo˧-ɳɯ˧ | pv̩˩ mɤ˩-kʰɯ˥/"/>
-		<TRANSL xml:lang="fr">Comme on ne la lui donnait pas, Deezzhi Lhaco, elle, [elle se
+		<TRANSL xml:lang="fr">Comme on ne la lui donnait pas, Ddeezzhi Lhaco, elle, [elle se
 			disait:] "Me donner à [celui] qui me plaît, ma famille ne veut pas (littéralement "ne
 			donne pas")!</TRANSL>
 		<TRANSL xml:lang="zh">独知拉搓就想：“是家人不允许我嫁给自己喜欢的人！”</TRANSL>
@@ -213,7 +209,7 @@
 		<NOTE xml:lang="fr"
 			message="/tʰv̩˧/: est le démonstratif distal; /mv̩/: indique la direction."/>
 		<TRANSL xml:lang="fr">Et comme elle mangeait, pendant que Nobbu Ci'er l'observait, une
-			de ses tantes [revenue à l'improviste a soudain] appelé: "Deezzhi Lhaco!"; alors [la
+			de ses tantes [revenue à l'improviste a soudain] appelé: "Ddeezzhi Lhaco!"; alors [la
 			jeune fille] a avalé l'œuf [tout rond]!</TRANSL>
 		<TRANSL xml:lang="zh">她正吃着，突然听见一个阿妈（注：上辈女性）的叫声：“独知拉搓！”她赶紧把蛋一口吞了下去！</TRANSL>
 	</S>
@@ -314,7 +310,7 @@
 		<FORM>"ə˧mi˧! | njɤ˧=ɻ̍˩ | ʐv̩˧mi˧ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʂɯ˧-ze˧! |
 			ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ ʈʂʰɯ˩-dʑo˩, | ə˧tse˧ ʝi˧-ɲi˥?" |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, n'est pas /‡ʈʂʰɯ˧-v̩˧-dʑo˧/"/>
-		<TRANSL xml:lang="fr">"Hélas! Nous autres, cette nièce, la voilà morte! Deezzhi Lhaco,
+		<TRANSL xml:lang="fr">"Hélas! Nous autres, cette nièce, la voilà morte! Ddeezzhi Lhaco,
 			qu'est-ce qui lui est donc arrivé?"</TRANSL>
 		<TRANSL xml:lang="zh">真可惜！我们这个闺女，怎么突然就死了呢？</TRANSL>
 	</S>
@@ -486,7 +482,7 @@
 		<FORM>"njɤ˧ | mv̩˩zo˩˥ ◊ -dʑo˩ | ʈʂʰɯ˧ne˧-ʝi˥… | əəə… zo˩no˥ | dʑɤ˩-hĩ˥ | ɖɯ˧-v̩˧ ɲi˩! |
 			ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | dʑɤ˩-hĩ˥ | ɖɯ˧-v̩˧ ɲi˩!"</FORM>
 		<TRANSL xml:lang="fr">[Après sa mort, sa mère se désolait:] "Ma fille, ah, qu'elle était
-			merveilleuse! (littéralement: Comme c'était quelqu'un de bien!) Deezzhi Lhaco,
+			merveilleuse! (littéralement: Comme c'était quelqu'un de bien!) Ddeezzhi Lhaco,
 			c'était quelqu'un de bien!"</TRANSL>
 		<TRANSL xml:lang="zh">她死了以后，她妈妈哭着说：“我姑娘，是个多好的姑娘啊！”</TRANSL>
 	</S>
@@ -768,7 +764,7 @@
 			&lt;ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩… əəə…&gt; ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | do˩-mɤ˩-tʰɑ˥-ze˩! |
 			le˧-ʂɯ˧-ze˧!" |</FORM>
 		<TRANSL xml:lang="fr">La mère de la jeune femme [se désolait, elle] disait: "Hélas! Je ne
-			reverrai plus ma fille! Ma Erchei Ddeema... euh non: Deezzhi Lhaco, je ne la reverrai plus! Elle est
+			reverrai plus ma fille! Ma Erchei Ddeema… euh non: Ddeezzhi Lhaco, je ne la reverrai plus! Elle est
 			morte!"</TRANSL>
 		<TRANSL xml:lang="zh">姑娘的妈妈在家里哭着：“啊呀，我的好姑娘，你再回不来了，你死了！”</TRANSL>
 	</S>
@@ -810,7 +806,7 @@
 		<FORM>"ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, | njæ˧=zɯ˩ | ho˧~ho˥-hĩ˩ | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ɲi˩!" |
 			pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Il a répondu: "Je suis le Nobbu Ci'er qui était ami avec
-			Deezzhi Lhaco, autrefois!"</TRANSL>
+			Ddeezzhi Lhaco, autrefois!"</TRANSL>
 		<TRANSL xml:lang="zh">男人回答：“我是独知拉搓以前的朋友！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S088">
@@ -938,9 +934,9 @@
 		<NOTE xml:lang="fr" message="tons de /njɤ˧-ɳɯ˧-dʑo˥/ vérifiés"/>
 		<NOTE xml:lang="fr" message="vérifié: /tʰv̩˧/ dans /tʰv̩˧ | gɤ˩-dzɯ˧/ désigne l'œuf."/>
 		<NOTE xml:lang="fr"
-			message="Ce qui est dit plus tôt dans l'histoire, c'est que c'est une des femmes de la maison dont l'appel surprend Deezzhi Lhaco; à ce point du récit, en revanche, le jeune homme dit que c'est lui. Interrogée à ce sujet, la locutrice attribue cette différence à une inattention du jeune homme, qui se serait trompé à ce point de son récit, par étourderie, pas par choix délibéré."/>
+			message="Ce qui est dit plus tôt dans l'histoire, c'est que c'est une des femmes de la maison dont l'appel surprend Ddeezzhi Lhaco; à ce point du récit, en revanche, le jeune homme dit que c'est lui. Interrogée à ce sujet, la locutrice attribue cette différence à une inattention du jeune homme, qui se serait trompé à ce point de son récit, par étourderie, pas par choix délibéré."/>
 		<TRANSL xml:lang="fr">"Alors, comme [l'œuf] était cuit (=quand l'œuf a été cuit), moi, je
-			l'ai appelée: “Deezzhi Lhaco!”; et alors, elle, [dans sa surprise,] elle a mangé
+			l'ai appelée: “Ddeezzhi Lhaco!”; et alors, elle, [dans sa surprise,] elle a mangé
 			l'œuf précipitamment, et ça lui a coincé la gorge / et il s'est coincé dans sa
 			gorge!"</TRANSL>
 		<TRANSL xml:lang="zh">“煮熟了以后，我叫了她一声：'独知拉搓！' 鸡蛋就噎在嗓子眼，把她噎昏过去了！”</TRANSL>
@@ -969,7 +965,7 @@
 			ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | le˧-sɯ˩-ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">"Elle avait avalé un œuf, et comme l'œuf lui avait obstrué la gorge,
 			moi, je lui ai ôté ses bracelets; et en lui ôtant ses bracelets, [je lui ai fait
-			recracher l'œuf], et Deezzhi Lhaco est revenue à la vie!" a raconté le jeune
+			recracher l'œuf], et Ddeezzhi Lhaco est revenue à la vie!" a raconté le jeune
 			homme.</TRANSL>
 		<TRANSL xml:lang="zh">“她被鸡蛋噎住嗓子眼。我使劲拽她的手镯，就把鸡蛋给震出来了。这样，独知拉搓就活过来了！”</TRANSL>
 	</S>
@@ -1051,8 +1047,8 @@
 			| pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="ici: /-ki/ a le sens de: au sujet de, 关于"/>
 		<TRANSL xml:lang="fr">Je vais vous dire ce qui s'est passé; je vais vous raconter toute
-			cette affaire qui concerne Deezzhi Lhaco! (littéralement: "Moi, à vous, comment ça
-			s'est passé… moi, [cette histoire] qui concerne Deezzhi Lhaco, [je] vais [vous la]
+			cette affaire qui concerne Ddeezzhi Lhaco! (littéralement: "Moi, à vous, comment ça
+			s'est passé… moi, [cette histoire] qui concerne Ddeezzhi Lhaco, [je] vais [vous la]
 			raconter")</TRANSL>
 		<TRANSL xml:lang="zh">“关于独知拉搓的事情，我要跟你们讲一下！”</TRANSL>
 	</S>
@@ -1089,7 +1085,7 @@
 		<FORM>tʰi˩˥, | "ʁɑ˩mi˧! | ɖɯ˧-zɯ˧ | qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧! | “ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | le˧-ʂɯ˧, | ɻ̍˩ɬo˧ʈi˥-ze˩” | pi˧-kv̩˩!" |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est bien /pi˧-kv̩˩/"/>
 		<TRANSL xml:lang="fr">"Pardon! Elle va devenir l'objet des racontars pendant toute sa vie!"
-			a dit [la mère de la jeune fille]. "Les gens vont dire: “Deezzhi Lhaco, après sa
+			a dit [la mère de la jeune fille]. "Les gens vont dire: “Ddeezzhi Lhaco, après sa
 			mort, elle est devenue une revenante!”"</TRANSL>
 		<TRANSL xml:lang="zh">“对不住！啊呀，她一辈子都会成为人家的话柄的！人家会说：‘独知拉搓，她变成鬼回来了！’ ”</TRANSL>
 	</S>
@@ -1121,7 +1117,7 @@
 			message="vérifié le sens de: /hĩ˧ qæ˥-ze˩-mv̩˩/: c'est ici la mère de la jeune femme qui parle, disant: 'Moi aussi, au début, j'ai pensé qu'il se moquait de moi'."/>
 		<NOTE xml:lang="fr"
 			message="d'abord noté /‡hĩ˧ qæ˥-ze˩-mv̩˩ | ʂv̩˧ɖv̩˧-ze˩/; /mv̩/ est ici la particule finale affirmative"/>
-		<TRANSL xml:lang="fr">"Non! C'est bien vrai! Deezzhi Lhaco, elle… moi, c'est [aussi] ce
+		<TRANSL xml:lang="fr">"Non! C'est bien vrai! Ddeezzhi Lhaco, elle… moi, c'est [aussi] ce
 			que j'ai pensé: je me suis dit qu'on se moquait de moi/que c'était une
 			plaisanterie!"</TRANSL>
 		<TRANSL xml:lang="zh">“没开玩笑！我也以为人家在戏弄我！”</TRANSL>
@@ -1334,7 +1330,7 @@
 		<FORM>"ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ɳɯ˩, | ɖɯ˧-ʑi˩-ki˩ F ki˩-zo˩!" |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, n'est pas /‡ɖɯ˧-ʑi˩-ki˩ | ki˧-zo˩/."/>
 		<TRANSL xml:lang="fr">"[Voilà quelle en sera la trame, de cette histoire:] “Autrefois,
-			Deezzhi Lhaco a été donnée à une [autre] famille (=s'est mariée)!”</TRANSL>
+			Ddeezzhi Lhaco a été donnée à une [autre] famille (=s'est mariée)!”</TRANSL>
 		<TRANSL xml:lang="zh">丈夫继续说：“你的故事，人们就会这么说： ‘从前，独知拉搓嫁了出去！’ ”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S144">
@@ -1517,12 +1513,12 @@
 		mariage. Le mariage a été célébré. Après le mariage, la jeune femme a rejoint sa nouvelle
 		famille. Les gens de cette famille sont retournés aux travaux des champs ; tandis qu’elle,
 		on lui a épargné ces rudes tâches: la jeune mariée, on la traitait avec égards, elle
-		pouvait rester à la maison. Cette jeune femme, qui s’appelait ɖɯ˩ɖʐɯ˧-ɬɑ˩-tsʰo˩, on lui
+		pouvait rester à la maison. Cette jeune femme, qui s’appelait ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, on lui
 		avait confié la tâche de faire la cuisine. Comme on lui confiait la tâche de faire la
 		cuisine, eux, il fallait qu'ils aient leur déjeuner! Alors, elle s'affairait à préparer le
 		déjeuner. Comme elle s'affairait à préparer le déjeuner, Nobbu Ci'er, le jeune homme qui
 		l'aimait bien autrefois, et qu'elle préférait au mari qu'on lui avait donné, il est venu
-		l'observer en cachette! Auparavant, Nobbu Ci'er et Deezzhi Lhaco, ces deux-là, ils
+		l'observer en cachette! Auparavant, Nobbu Ci'er et Ddeezzhi Lhaco, ces deux-là, ils
 		s'aimaient bien ; mais sa famille n'avait pas voulu qu'elle se marie avec lui! Elle, elle
 		s’était dit: «Ce sont mon père et ma mère qui me donnent en mariage, selon leur volonté à
 		eux… je n'ai pas le choix»! et elle s’était retrouvée mariée. Seule à la maison, elle
@@ -1531,7 +1527,7 @@
 		elle se l’est fait cuire en douce, à ce que dit l'histoire! Or Nobbu Ci'er, lui, il
 		l'observait en cachette, tandis qu'elle se cuisait un l'œuf. Pendant qu’elle mangeait, sous
 		le regard attentif de Nobbu Ci'er, une femme de la famille est revenue à l’improviste,
-		et l’a soudain appelée: "Deezzhi Lhaco!" Alors la jeune fille a avalé l'œuf tout rond,
+		et l’a soudain appelée: "Ddeezzhi Lhaco!" Alors la jeune fille a avalé l'œuf tout rond,
 		et il s'est bloqué dans sa gorge! Le jeune homme, Nobbu Ci'er, il était témoin de tout
 		ça. Tandis que la femme revenue à l'improviste, elle n'a pas vu cet épisode. Alors, comme la
 		femme n'avait pas vu la scène, qui lui aurait permis de comprendre que la jeune fille
@@ -1545,7 +1541,7 @@
 		matin, elle, elle n'a rien préparé à manger, elle a filé! Qu'est-ce qu'elle est donc allée
 		fabriquer?" Eux, ils ont tous eu peur en la voyant inerte, allongée sur le sol! On l’a jugée
 		morte, et on a fait venir les gens du village! "Hélas! Nous autres, cette nièce, la voilà
-		morte! Deezzhi Lhaco, qu'est-ce qui lui est donc arrivé? Tout à l'heure, elle était assise là
+		morte! Ddeezzhi Lhaco, qu'est-ce qui lui est donc arrivé? Tout à l'heure, elle était assise là
 		bien tranquille; quand on est parti travailler, elle n'était pas du tout souffrante! et
 		voilà qu'elle est morte!" On a été quérir des moines, on a effectué les préparatifs! On a
 		effectué les préparatifs pour les cérémonies funéraires. Nous autres, les Na, ce qu'on
@@ -1568,7 +1564,7 @@
 		parents: ils voulaient pour leur fille un mari aussi riche qu'elle.) Lors du mariage, on
 		l'avait parée d'une abondance de bijoux: bracelets en or et en argent, anneaux en or,
 		boucles d'oreille en or… Et après sa mort, sa mère se désolait à un tel point, disant "Ma
-		fille, ah, qu'elle était merveilleuse! Deezzhi Lhaco, c'était quelqu'un de bien! Comment
+		fille, ah, qu'elle était merveilleuse! Ddeezzhi Lhaco, c'était quelqu'un de bien! Comment
 		se fait-il qu'elle soit morte à l'heure qu'il est? C’est vraiment pas possible!", que la
 		belle-famille la belle-famille a redoublé de générosité, pour ne pas paraître avare dans ces
 		circonstances dramatiques. Ils ont paré le corps de la jeune femme de toutes sortes de
@@ -1579,7 +1575,7 @@
 		Na, ils n'habillent pas le cadavre, comme font par exemple les Chinois! Quand quelqu'un est
 		décédé, on ne lui met pas de vêtements! On l'enroule dans un tissu de coton, qui le tient
 		bien serré. Voilà comment on asseyait le défunt dans sa tombe provisoire, dans l'attente de
-		la crémation! Après qu'on ait assis ɖɯ˩ɖʐɯ˧-ɬɑ˩-tsʰo˩ dans sa tombe, comme je disais, le
+		la crémation! Après qu'on ait assis ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ dans sa tombe, comme je disais, le
 		jeune homme a retiré le panier dorsal et la grande poële dont on avait recouvert le corps,
 		et il lui a pris les genoux. Il a pesé là, sur sa poitrine, et il a tiré sur ses bracelets
 		un bon coup. On dit que le corps a alors eu un hoquet: "GGgggllloups!" Alors l'homme a pris
@@ -1605,14 +1601,14 @@
 		une famille, mais ta famille n'a pas voulu! N'aie crainte!" Il s'est occupé d'elle. Ils ont
 		construit une hutte, eux deux! et ils y ont passé trois nuits! Après trois nuits, il a amené
 		la fille auprès de sa mère. La mère de la jeune femme se désolait, elle disait: "Hélas! Je
-		ne reverrai plus ma fille! Ma Deezzhi Lhaco, je ne la reverrai plus! Elle est morte! Quel
+		ne reverrai plus ma fille! Ma Ddeezzhi Lhaco, je ne la reverrai plus! Elle est morte! Quel
 		médicament pourrait me guérir de ma grande tristesse?" Et elle pleurait! Comme elle pleurait
 		ainsi, Nobbu Ci'er est allé à sa maison; il a frappé à la porte. Toc, toc, toc! "Qui
 		est-ce?" a demandé la mère. "Mère! C’est Nobbu Ci'er!" a-t-il répondu. "Vous êtes le
 		Nobbu Ci'er de quel endroit? Je ne vous connais pas!" a répondu la mère. (Explication:
 		il existait peu de prénoms, dans le temps; on levait l'ambiguïté en disant "le
 		Nobbu Ci'er de tel village", ou "le Nobbu Ci'er de telle famille".) "Je suis le
-		Nobbu Ci'er qui était ami avec Deezzhi Lhaco, autrefois!" La mère a répondu: "Et
+		Nobbu Ci'er qui était ami avec Ddeezzhi Lhaco, autrefois!" La mère a répondu: "Et
 		alors, qu'est-ce que tu nous veux?" "Venez donc dehors un moment!" a-t-il dit. Alors la mère
 		a dit: "Ne viens plus chez moi! Ma fille est morte! Autrefois, si on te l'avait donnée, tout
 		aurait été pour le mieux! Mais maintenant, moi, ma fille est morte!" Alors,
@@ -1628,13 +1624,13 @@
 		d'aller voir votre fille une fois par jour! J'allais la regarder!" a-t-il expliqué. "Et ce
 		jour-là, j'étais allé l'observer, comme à l'accoutumée; elle, elle se disposait à faire la
 		cuisine; elle a pris un œuf dans le pondoir, et elle se l’est fait cuire en douce! Moi, je
-		l'ai appelée: “Deezzhi Lhaco!”; et alors, elle, dans sa surprise, elle a mangé l'œuf
+		l'ai appelée: “Ddeezzhi Lhaco!”; et alors, elle, dans sa surprise, elle a mangé l'œuf
 		précipitamment, et il s'est coincé dans sa gorge! Voilà comment il se fait que je sois au
 		courant de cet épisode! Ensuite, le soir, j'ai appris qu'on la disait morte. Quand on a fait
 		des préparatifs, qu'on l'a enterrée, moi, en pleine nuit, voici ce que j'ai fait: j'ai
 		retiré le panier et la grande poële dont on avait couvert la tombe provisoire; et je lui ai
 		enlevé ses bracelets, dans la tombe! En lui ôtant ses bracelets, je lui ai fait recracher
-		l'œuf, et Deezzhi Lhaco est revenue à la vie!" a raconté le jeune homme. Mais la mère ne
+		l'œuf, et Ddeezzhi Lhaco est revenue à la vie!" a raconté le jeune homme. Mais la mère ne
 		l’a pas cru. Elle lui a dit: "Ce n'est pas vrai, tu es venu me jouer un tour!" "Mais si,
 		c'est la vérité! Votre fille se trouve là-bas!" lui a dit le jeune homme. Alors, la mère est
 		allée voir. La mère et la fille se sont d'abord parlé à distance, la mère hésitant à
@@ -1646,16 +1642,16 @@
 		dans mes bras!" Le septième jour, la mère est allée s'expliquer auprès de la belle-famille.
 		"Hélas, mesdames! Nous autres, nous formons une seule et même famille; autrefois, nous
 		n'avions pas de relations familiales; par le mariage de ma fille, nous en avons établi! Je
-		vais vous raconter toute cette affaire qui concerne Deezzhi Lhaco!" La belle-mère a
+		vais vous raconter toute cette affaire qui concerne Ddeezzhi Lhaco!" La belle-mère a
 		répondu: "Comment donc… quelle est cette histoire dont vous voulez m'entretenir? Elle est
 		morte, elle ne peut pas revivre!" Alors, la mère a dit: "Ma fille… Pardon! Moi, je ne suis
 		pas venue vous en parler jusqu'à ce jour… Mais les gens pensent que ma fille est morte, et
 		ils vont dire qu'elles est devenue une revenante! Pardon! Elle va devenir l'objet des
-		racontars pendant toute sa vie! Les gens vont dire: “Deezzhi Lhaco, après sa mort, elle
+		racontars pendant toute sa vie! Les gens vont dire: “Ddeezzhi Lhaco, après sa mort, elle
 		est devenue une revenante!” Il faut qu'on en discute ensemble! Je vous en prie! Quand vous
 		serez bien au courant, tout pourra s’arranger!" Alors, la belle-mère a dit: "Comment donc…
 		Vous plaisantez, non?" " C'est aussi ce que j'ai pensé: je me suis dit que c'était une
-		plaisanterie! Mais non! C'est bien vrai! Deezzhi Lhaco… pardon! Elle doit avoir grande
+		plaisanterie! Mais non! C'est bien vrai! Ddeezzhi Lhaco… pardon! Elle doit avoir grande
 		honte, au point qu'elle n'est pas loin d'en mourir pour de bon! C'est donc moi qui suis venu
 		vous parler, entre mères de famille! Puisqu'elle est revenue à la vie, elle ne doit pas
 		mourir!" La belle-mère a dit: "En vérité, ce n'est peut-être pas si grave! Les histoires
@@ -1678,7 +1674,7 @@
 		famille. Le mari a poursuivi: "Nous deux… on est comme des enfants adoptifs, pour nos
 		belles-familles; n'aie crainte! Si les gens parlent, laissons-les parler! Ca pourrait bien
 		devenir un conte, tiens! Voilà quelle en sera la trame, de cette histoire: “Autrefois,
-		Deezzhi Lhaco s’est mariée. Une fois dans sa belle-famille, elle s'est bloqué la gorge en
+		Ddeezzhi Lhaco s’est mariée. Une fois dans sa belle-famille, elle s'est bloqué la gorge en
 		mangeant un œuf, à ce qu'on dit! Et après, elle, elle est revenue à la vie! Tout ça est
 		bien loin: elle est maintenant mère de famille!” Faisons-en donc un conte! N'aie crainte! Je
 		t'aime bien!" a-t-il dit. Alors elle est revenue. Après, une fois revenue, houlà! La jeune
@@ -1687,7 +1683,7 @@
 		faire! Je me charge d'expliquer ça à tout le monde!" Voilà ce qu'on disait: "Les petites
 		gourmandises, le seuil, c'est trois! Il ne faut pas se laisser aller à trois reprises, sinon
 		ça devient du chapardage!" Voilà la morale de l'histoire! Les deux familles ont choisi de
-		passer l’éponge ; Deezzhi Lhaco, elle a eu un fils et une fille, une jolie famille!
+		passer l’éponge ; Ddeezzhi Lhaco, elle a eu un fils et une fille, une jolie famille!
 		Autrefois, quand on voyait son fils qui passait, on disait: "Eeeh, regarde! c'est son fils,
 		pour sûr! Le fils de cette fameuse femme qui s'était coincé la gorge avec un œuf,
 		autrefois! Autrefois, Nobbu Ci'er et elle, ils étaient amoureux, mais on ne l'a pas
