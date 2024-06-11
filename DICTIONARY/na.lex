@@ -153,7 +153,7 @@
 \lc æ˧bæ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Goitre.
 \ge goitre
 \dn 甲状腺肿瘤
@@ -214,7 +214,7 @@
 \lc æ̃˩bɻ̩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Poultry yard.
 \ge poultry_yard
 \dn 鸡圈
@@ -237,7 +237,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ard. There are no distinct words for ‘ard' (symmetrical) and ‘plough' (asymmetrical). Only ards were in use at the time of fieldwork (2006).
 \ge ard
 \dn 犁头（摩梭话不区分对称和不对称的犁，2006年调查时用的是对称的犁）
@@ -259,7 +259,7 @@
 \ton LH
 \lc æ˩mo˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Used ard, plough which cannot be used anymore.
 \ge used_ard
 \dn 陈旧的犁架子（不能再用了）
@@ -283,7 +283,7 @@
 \ton LM
 \lc æ˩mo˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Beam of the ard, pole of the ard: a long piece of wood linking the yoke to the sole.
 \ge beam_of_the_ard
 \dn 犁杆
@@ -308,7 +308,7 @@
 \ton L+H#
 \lc æ˩gv̩˩mæ˩qo˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Handle (stilt) of the ard, used to control the ard's direction and the furrow's depth.
 \ge ard_handle
 \dn 犁把，用于控制犁的方向和犁沟的深度
@@ -335,12 +335,12 @@
 \lc ɬɬɬ!
 \np <langue="fra"> Cette interjection est prononcée sur un flux d'air ingressif.
 \so <print="n"> F4
-\de Interjection expressing pleasurable titillation of appetite (‘Yummy!’), or other strong impressions, including negative ones.
-\ge |fg{intj_strong_impression}
+\de Interjection expressing pleasurable titillation of appetite (‘Yummy!’), or other strong impressions (‘Wow!’), including negative ones.
+\ge |fg{intj}.strong_impression
 \dn 表示食物很诱人或其它强烈印象（包括消极的印象）：哇！
 \gn 哇！
 \df Interjection qui indique une forte impression. Il peut s'agir de l'odeur ou de l'aspect d'une nourriture appétissante (‘Miam miam!’), ou d'une autre forte impression, y compris négative.
-\gf |fg{intj_forte_impression}
+\gf |fg{intj}.forte_impression
 
 \lx æ˧-hi˩hi˩
 \or ehihi
@@ -352,16 +352,15 @@
 \lc æ˧hi˩hi˩!
 \so <print="n"> F4
 \de Cry of defiance or provocation. It can also express triumph and exultation.
-\ge |fg{intj_défiance}
+\ge |fg{intj}.défiance
 \dn 啊嘿嘿！（蔑视、挑衅或欢呼愉悦的叫声）
 \gn 表示蔑视的叫声
 \df Cri qui exprime défiance ou provocation, mais également triomphe ou exultation.
-\gf |fg{intj_défiance}
+\gf |fg{intj}.défiance
 \xv æ˧-hi˩hi˩ kʰɯ˩
 \xe to shout a cry of defiance or provocation
 \xn 喊出蔑视、挑衅或欢呼的叫声
 \xf lancer des cris de défiance
-\dt 01/Aug/2017
 
 \lx æ˧ʝi˩
 \or eyi
@@ -402,12 +401,11 @@
 \sd <langue="eng"> interjection
 \so <print="n"> F4
 \de Interjection: "Oh nooo! / Dear me!" This exclamation is intended to warn or discourage someone from doing something. Example of context: A tells B that he is going to buy a coat, and B thinks the coat doesn't suit him at all. B then says: ‘|fv{æ˧ʝi˧}, that coat doesn't suit you’. Another example: when a baby picks up something dirty (mud, for example) and puts it in his mouth, the adult will say ‘|fv{æ˧ʝi˧}, that's dirty’.
-\ge |fg{intj}
+\ge |fg{intj}.oh_no!
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
 \df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'il va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple : lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
-\gf |fg{intj}
-\dt 25/Aug/2017
+\gf |fg{intj}.ah_non!
 
 \lx æ̃˩-kʰv̩˧˥
 \hm 1
@@ -555,7 +553,7 @@
 \vf sens vérifié
 \va <speaker="M21"> idem M23
 \va <speaker="M23"> æ˩mi˧mv̩˧ʈv̩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Anklebone, bone of the top of the foot.
 \ge anklebone
 \dn 踝骨
@@ -623,7 +621,7 @@
 \va <speaker="M18"> æ˧ni˧
 \vf non palatalisé
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Suona, trumpet.
 \ge trumpet
 \dn 唢呐
@@ -857,7 +855,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> æ˩qʰv̩#˥
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cave, cavern, crevice (difficult to enter, or too small for a person to enter).
 \ge cavern
 \dn 小山洞（很难钻进去，或者钻不进去的山洞）
@@ -883,7 +881,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Home.
 \ge home
 \dn 家、家里
@@ -968,7 +966,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Egg.
 \ge egg
 \dn 蛋
@@ -997,7 +995,7 @@
 \lc æ˧ʁwæ˧
 \so <print="n"> F4
 \va <speaker="M23"> æ˧ʁwæ˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Apricot.
 \ge apricot
 \dn 杏
@@ -1311,7 +1309,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kneebone.
 \ge kneebone
 \dn 膝盖骨
@@ -1330,7 +1328,7 @@
 \ton H#
 \lc æ̃˧tsɯ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Chick.
 \ge chick
 \dn 雏鸡、稚鸡
@@ -1371,7 +1369,7 @@
 \cf pɤ˩lv̩˩
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nape of neck.
 \ge nape
 \dn 项、脖颈儿
@@ -1453,7 +1451,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Copper pot.
 \ge copper_pot
 \dn 铜锅
@@ -1470,7 +1468,7 @@
 \ton LM+#H
 \lc ɑ˩zo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mi˩
 \de Gosling, baby goose.
 \ge gosling
@@ -1494,7 +1492,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> æ˩zɯ˩˧, ton d3; d'après ts: sens: est du jade de couleur verte
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Agate. Agate of various colours is used in ornamentation. Beads range from the size of a quail egg to that of a chicken's egg.
 \ge agate
 \dn 玛瑙
@@ -1847,7 +1845,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Piglet.
 \ge piglet
 \dn 猪崽
@@ -1925,7 +1923,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> bɑ˩ɬɑ˩˧, ton d3
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jacket, upper outer garment; clothes.
 \ge jacket
 \dn 上衣，衣服
@@ -1941,7 +1939,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> tv
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Placenta.
 \ge placenta
 \dn 胎盘、衣胞
@@ -2030,7 +2028,7 @@
 \va <speaker="M21"> ID.
 \vf réalise proche de: bæ˩li˥li˥
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de China fir cone.
 \ge China_fir_cone
 \dn 松树果、杉树果
@@ -2152,11 +2150,11 @@
 \ton L+H#
 \so <print="n"> F4
 \pdv po˧
-\de Crowndaisy chrysanthemum, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}.
+\de Crowndaisy chrysanthemum, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}. It is used as a medicinal plant, both for humans and in veterinary medicine (for pigs).
 \ge crowndaisy_chrysanthemum
-\dn 茼蒿
+\dn 茼蒿。它是一种药用植物，既可用于人类，也可用于兽医（猪）。
 \gn 茼蒿
-\df Chrysanthème couronné, chrysanthème des jardins, chrysanthème comestible ou chrysanthème à couronnes, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}. Plante médicinale, pour les humains et pour les cochons. yyyy
+\df Chrysanthème couronné, chrysanthème des jardins, chrysanthème comestible ou chrysanthème à couronnes, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}. Elle est utilisée comme plante médicinale, pour les humains aussi bien qu'en médecine vétérinaire (pour les porcs).
 \gf chrysanthème_couronné
 \xv bæ˩pʰʋ̩˥=bʋ̩˩ | bæ˩bæ˩˥
 \xe the flower of crowndaisy chrysanthemum
@@ -2265,7 +2263,7 @@
 \vf <type="tone"> H#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Broom.
 \ge broom
 \dn 扫帚
@@ -2308,7 +2306,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Duckling.
 \ge duckling
 \dn 小鸭子
@@ -2683,7 +2681,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> bi˧ɕju˧ku˥
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cheek.
 \ge cheek
 \dn 腮，腮帮子
@@ -2735,7 +2733,7 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Snow flakes.
 \ge snow_flakes
 \dn 雪花
@@ -2757,7 +2755,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Axe.
 \ge axe
 \dn 斧头
@@ -2780,7 +2778,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Belly, abdomen.
 \ge belly
 \dn 肚子
@@ -2837,7 +2835,7 @@
 \nt <type="sem" langue="fra"> définition en mosuo: ɖʐe˧kʰɯ˧di˧˥, objet ds lequel on met l'argent
 \ton LH
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Purse (used to be attached to the belt, on the inside).
 \ge purse
 \dn 钱包（过去：是系在腰上的）
@@ -2991,14 +2989,13 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Services (or money) offered as remuneration to a religious practitioner for ritual services rendered.
 \ge remuneration
 \dn 酬劳、报酬
 \gn 酬劳
 \df Services (ou argent) donnés en récompense à un moine pour avoir réalisé des rituels.
 \gf récompense
-\dt 21/Jun/2017
 
 \lx bi˧zɯ˧
 \sf <nb="B"> 153
@@ -3013,7 +3010,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lower abdomen.
 \ge lower_abdomen
 \dn 小肚子
@@ -3315,7 +3312,7 @@
 \vf c) dʑi˩ tsɯ˩ bu˩˥
 \vf sens: “pente/côte qui retient l'eau"; bu˥: est le même mot que 29d
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Small slope at the edge of a field; one can walk on it, sit on it, put objects down here… In the old times, when land was abundant, peasants would leave these small areas uncultivated. Today, peasants tend to plane them down to enlarge cultivated fields.
 \ge small_slope
@@ -3472,7 +3469,7 @@
 \ton L-
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pig's belly.
 \ge pig_belly
 \dn 猪肚子
@@ -3492,7 +3489,7 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pigsty, pigpen.
 \ge pigsty
 \dn 猪圈
@@ -3624,7 +3621,7 @@
 \va <speaker="F5"> bu˩kʰɯ˧tsʰɤ#˥
 \vf <type="tone"> #H
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pig's feet: dried meat preserved in the skin of the pig's foot.
 \ge pig_s_feet
 \dn 风干猪脚：把小猪腿的骨头取出来，在筒形的猪皮内塞满瘦肉和香料，缝起来，风干。
@@ -3648,14 +3645,13 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sifter, sieve.
 \ge sieve
 \dn 筛子
 \gn 筛子
 \df Vannerie: tamis, crible, en forme de gourde; on y met des légumes, des choses à porter. Cette vannerie est commode à porter.
 \gf tamis/crible
-\dt 31/Jul/2017
 
 \lx bo˩-kʰv̩˧˥
 \hm 1
@@ -3732,7 +3728,7 @@
 \ton LM
 \so <print="n"> F4
 \vf périphrase
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mortise.
 \ge mortise
 \dn 卯眼
@@ -3755,7 +3751,7 @@
 \np <langue="fra"> Phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
 \ton LH
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pork ribs.
 \ge pork_ribs
 \dn 猪肋骨
@@ -3777,7 +3773,7 @@
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: bu˩mæ˥ko˩, par erreur) “queue du cochon"
 \ton L-L#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pig's tail.
 \ge pig_tail
 \dn 猪尾巴
@@ -3896,7 +3892,7 @@
 \nt <type="hist" langue="fra" print="n"> avant 2015: noté /†bɤ˩mi˧-ʂe˩/
 \ton H#-
 \so <print="n"> F4
-\va <speaker="M21"> æ˧pʰʋ̩#V̩˥
+\va <speaker="M21"> æ˧pʰʋ̩#˥
 \de Copper-nickel alloy.
 \ge copper_nickel_alloy
 \dn 白铜
@@ -4376,7 +4372,7 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M18"> bʋ̩˩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pen, corral for cattle.
 \ge pen
 \dn 牲畜圈（单音节）
@@ -4671,7 +4667,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Food steamer.
 \ge food_steamer
 \dn 蒸笼
@@ -4695,7 +4691,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bʋ̩˧dze˩˥
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Large spoon, used for rice and soup.
 \ge large_spoon
 \dn 舀饭的勺，舀汤的勺
@@ -4755,7 +4751,7 @@
 \sd <langue="eng"> house
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Wooden hut where shepherds stay while herding their flock on the mountain.
 \ge wooden_hut
 \dn 山上放牧的人暂时住的木头小房
@@ -4797,7 +4793,7 @@
 \va <speaker="M21"> bʋ̩˩lv̩˩˥, ton d3
 \vf n'est pas lɯ
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kidneys.
 \ge kidneys
 \dn 肾
@@ -5079,7 +5075,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté /kʶv̩˧/ pour /qʰv̩/.
-\nt <type="hist" langue="fra" print="n"> En 2006: noté un /bV̩˧dv̩˩zɯ˩hĩ˩˥/.
+\nt <type="hist" langue="fra" print="n"> En 2006: noté un /bv̩˧dv̩˩zɯ˩hĩ˩˥/.
 \nt <type="hist" langue="fra" print="n"> Étymologie: “(insecte) qui a des cornes", ‘长角的’? Pas sûr. Mais telle est l'intuition de F4.
 \ton L#
 \so <print="n"> F4
@@ -5193,7 +5189,7 @@
 \va <speaker="M21"> ID.
 \pdv tɕi˧˥
 \pdc <langue="fra"> livre
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> unité
 \de Wild peach.
 \ge wild_peach
@@ -5216,7 +5212,7 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sifter, sieve.
 \ge sifter
 \dn 筛子
@@ -5238,7 +5234,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Cymbals.
 \ge cymbals
 \dn 钹
@@ -5254,7 +5250,7 @@
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small food steamer.
 \ge small_food_steamer
 \dn 小蒸笼
@@ -5797,8 +5793,8 @@
 \nt <type="sem" langue="fra"> là où on cultive le riz
 \ton -MH#
 \lc ɕi˧lv̩˧mv̩˧di˧˥
-\cf lv̩˧pʰV̩˩2
-\cf ɕi˧ɭɯ˧-lv̩˧pʰV̩˩
+\cf lv̩˧pʰʋ̩˩2
+\cf ɕi˧ɭɯ˧-lv̩˧pʰʋ̩˩
 \so <print="n"> F4
 \pdv pʰæ˧˥
 \pdv kɤ˧˥
@@ -6093,7 +6089,7 @@
 \ton L
 \lc ɕjɤ˩jo˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de |fi{Fritillaria cirrhosa}.
 \ge Fritillaria cirrhosa
 \dn 贝母
@@ -6116,7 +6112,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕju˩li˧˥, ton d5a; ɕju˩li˧mv̩˥: jouer de la flûte
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Flute.
 \ge flute
 \dn 笛子
@@ -6623,7 +6619,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Drum.
 \ge drum
 \dn 鼓
@@ -7160,34 +7156,34 @@
 \gr 龙爪菜
 \df Fougère. Elle était consommée comme nourriture en temps de disette.
 \gf fougère
-\xv di˩li˩-ʁo˩bV̩˥ (ton: L+H#)
+\xv di˩li˩-ʁo˩bʋ̩˥ (ton: L+H#)
 \xe bracken shoots
 \xn 蕨菜的萌芽
 \xf pousses de fougère
 \xc <type="tone"> L+H#
-\xv di˩li˩-ʁo˩bV̩˥ hwæ˩
+\xv di˩li˩-ʁo˩bʋ̩˥ hwæ˩
 \xe to buy bracken shoots
 \xn 买蕨菜萌芽
 \xf acheter des pousses de fougère
 \xc PHONO
-\xv di˩li˩-ʁo˩bV̩˥ tɕʰi˩
+\xv di˩li˩-ʁo˩bʋ̩˥ tɕʰi˩
 \xe to sell bracken shoots
 \xn 卖蕨菜萌芽
 \xf vendre des pousses de fougère
 \xc PHONO
-\xv di˩li˩-ʁo˩bV̩˥ dzɯ˩
+\xv di˩li˩-ʁo˩bʋ̩˥ dzɯ˩
 \xe to eat bracken shoots
 \xn 吃蕨菜萌芽
 \xf manger des pousses de fougère
 \xc PHONO
 \xc <type="tone" langue="fra"> verbe au ton H
-\xv di˩li˩-ʁo˩bV̩˥ dze˩
+\xv di˩li˩-ʁo˩bʋ̩˥ dze˩
 \xe to cut bracken shoots
 \xn 割蕨菜萌芽
 \xf couper des pousses de fougère
 \xc PHONO
 \xc <type="tone" langue="fra"> verbe au ton LM
-\xv di˩li˩-ʁo˩bV̩˥ tɕɤ˩
+\xv di˩li˩-ʁo˩bʋ̩˥ tɕɤ˩
 \xe to boil bracken shoots
 \xn 煮蕨菜嫩芽
 \xf faire bouillir des pousses de fougère
@@ -7606,7 +7602,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Buttocks.
 \ge buttocks
 \dn 屁股
@@ -7624,7 +7620,7 @@
 \ton LM+#H
 \lc do˩bʋ̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
 \dn 嘛呢堆
@@ -7642,7 +7638,7 @@
 \ton LM+#H
 \lc do˩kv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small beams upholding the ceiling of the ground floor.
 \ge small_beams
 \dn 小梁子，作为楼上（第二层）木地板的底
@@ -8070,15 +8066,15 @@
 \df Ddeema Lhaco, un prénom féminin.
 \gf Ddeema_Lhaco
 
-\lx ɖɯ˩mɑ˧-pV̩˩ʈʰɯ˩ xxxx
+\lx ɖɯ˩mɑ˧-pʋ̩˩ʈʰɯ˩
 \or Ddeema Butee
 \et ɖɯ˩mɑ#˥
-\et pV̩˩ʈʰɯ˧
+\et pʋ̩˩ʈʰɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton LM-L
-\lc ɖɯ˩mɑ˧pV̩˩ʈʰɯ˩
+\lc ɖɯ˩mɑ˧pʋ̩˩ʈʰɯ˩
 \so <print="n"> F4
 \de Ddeema Butee, a feminine given name.
 \ge Ddeema_Butee
@@ -8242,7 +8238,7 @@
 \ton LM+#H
 \lc ɖɯ˩zo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Male mule.
 \ge male_mule
 \dn 公骡子
@@ -8546,7 +8542,7 @@
 \sd <langue="eng"> house
 \ton LM
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The room in the main building of the farm where cereals were kept: the granary.
 \ge granary
 \dn 仓廪。摩梭话音译：‘独帕’
@@ -8769,7 +8765,7 @@
 \vf bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥
 \vf ɬo: “profond"
 \vf vérifié à nouveau le 9 mai qu'il utilise ˧˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ “estomac", qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme “poulain", ˧ ˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Pond.
 \ge pond
@@ -8803,7 +8799,7 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M23"> ɖwæ˧pɤ˧lv̩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Puddle, pool (natural).
 \ge puddle
@@ -8975,10 +8971,10 @@
 \xf On peut le monter!
 \dt 24/Apr/2017
 
-\lx ɖʐæ˩bV̩˩ xxxx
+\lx ɖʐæ˩bɻ̩˩
 \or zzhaebbu
 \ps n
-\lc ɖʐæ˩bV̩˩˥
+\lc ɖʐæ˩bɻ̩˩˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton L
@@ -8990,15 +8986,14 @@
 \gn 法师
 \df Sorcier.
 \gf sorcier
-\xv ə˧pʰV̩˧-ɖʐæ˩bV̩˩
+\xv ə˧pʰʋ̩˧-ɖʐæ˩bɻ̩˩
 \xe ‘Grandfather sorcerer': a respectful term of address for a sorcerer who is advanced in years or considered to have great powers
 \xn ‘法师爷爷’：对年龄高（或被认为本事很大）的法师的尊重称呼
 \xf ‘Grand-père sorcier': terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables
-\xv ə˧v̩˧-ɖʐæ˥bV̩˩
+\xv ə˧v̩˧-ɖʐæ˥bʋ̩˩
 \xe ‘Uncle sorcerer': a respectful term of address for a sorcerer
 \xn ‘法师舅舅’：对法师的尊重称呼
 \xf ‘Oncle sorcier': terme d'adresse respectueux pour un sorcier
-\dt 12/Jun/2017
 
 \lx ɖʐæ˧qʰæ˥$
 \sf <nb="B"> 59
@@ -9551,7 +9546,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Beehive, honeycomb.
 \ge beehive
 \dn 蜂窝
@@ -9560,12 +9555,12 @@
 \gf ruche
 \dt 24/Apr/2017
 
-\lx dze˩mi˧-pV̩˥ɻ̩˩ xxxx
+\lx dze˩mi˧-pʋ̩˥ɻ̩˩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
 \or zzeimipu'er
 \ps n
-\lc dze˩mi˧pV̩˥ɻ̩˩
+\lc dze˩mi˧pʋ̩˥ɻ̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> identification confirmée en 2016 d'après volume “Médecine mosuo"
@@ -9576,14 +9571,12 @@
 \ge bee_flower
 \dn 来指密封喜欢的一些话，包括沙参、秦艽等。
 \gn 密封之花
-\gr
 \df Le mot signifie littéralement ‘repos des abeilles’, et est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
 \gf fleur_des_abeilles
-\xv dze˩mi˧-pV̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
+\xv dze˩mi˧-pʋ̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
 \xe root of straight ladybell
 \xn 沙参根
 \xf racine d'|fi{Adenophora sp.}
-\dt 13/Jul/2017
 
 \lx ɖʐe˧ʁwɤ˧
 \or zzheiwua
@@ -9650,7 +9643,7 @@
 \sd <langue="eng"> animal
 \ton H#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stinging organ of a bee.
 \ge sting
 \dn 蜜蜂的螫針
@@ -9688,7 +9681,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sifter, sieve.
 \ge sieve
 \dn 筛子
@@ -9910,7 +9903,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dzv̩˧, ton m4a
 \vf segments vérifiés; différent de la prononciation de F4, vérifiée le 12/5/08
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> On ne peut utiliser le classificateur des outils, nɑ˧
 \de Chisel.
 \ge chisel
@@ -9973,7 +9966,7 @@
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Clothes, clothing (monosyllabic form).
 \ge clothes
 \dn 衣服
@@ -10128,7 +10121,7 @@
 \va <speaker="M18"> bɑ˩lɑ˩˥
 \va <speaker="M21"> dʑi˧hṽ̩˧, ton d2a
 \va <speaker="M23"> dʑi˧ŋv̩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Clothes, clothing.
 \ge clothes
 \dn 衣服
@@ -10269,7 +10262,7 @@
 \nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté †dʑi˩zo˩
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Male baby buffalo.
 \ge male_baby_buffalo
 \dn 小水牛（水牛崽子），一般指公的小水牛
@@ -10417,7 +10410,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv pɤ˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Bridge.
 \ge bridge
 \dn 桥
@@ -10892,7 +10885,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Granary (a special building).
 \ge granary
 \dn 粮仓
@@ -11003,23 +10996,24 @@
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbu Gesawua.
 \gf Gaoming
 
-\lx dʑɤ˩bʋ̩˥-ʁwɤ˩ yyyy refusé par Ama: on dit: dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩.
+\lx ‡dʑɤ˩bʋ̩˥-ʁwɤ˩
 \sf <nb="2011"> 3330
 \or Jjabbuwua
 \ps n
-\lc dʑɤ˩bV̩˥ʁwɤ˩
+\lc dʑɤ˩bʋ̩˥ʁwɤ˩
+\cf dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" langue="fra" print="n"> avant 2014: noté /dʑɤ˩bV̩˧-ʁwɤ˩/
+\nt <type="hist" langue="fra" print="n"> avant 2014: noté /dʑɤ˩bv̩˧-ʁwɤ˩/
 \nt <type="sem" langue="fra"> 11e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\nt <langue="fra" type="tone"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bV̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bV̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
+\nt <langue="fra" type="tone"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bv̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bʋ̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
 \ton LH-
 \so <print="n"> F4
-\de Jjabbuwua (name of a village).
+\de Jjabbuwua (name of a village). The usual name in Na is Jjabbu Gesawua, not Jjabbuwua. This entry is nevertheless retained in the dictionary (with the symbol ‡ to indicate an erroneous form), because it has been phonetically transposed into Chinese, in the village name |fn{甲波瓦村}.
 \ge Jjabbuwua
 \dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344,27.78509
-\gn 甲波瓦村
-\df Jjabbuwua (nom de village).
+\gn 甲波瓦村。汉名：高明。一般称之为。摩梭话的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号 ‡ 表示有误），因为它已被音译为“甲波瓦村”这一名中。
+\df Jjabbuwua (nom de village). Le nom usuel en na est Jjabbu Gesawua, non Jjabbuwua. Cette entrée est néanmoins maintenue dans le dictionnaire (assortie du symbole ‡ qui signale une forme erronée), du fait qu'elle s'est trouvée transposée phonétiquement en chinois, dans le nom de village |fn{甲波瓦村}.
 \gf Jjabbuwua
 
 \lx dʑɤ˩ɕjɤ˩
@@ -11148,7 +11142,7 @@
 \va <speaker="M21"> dzu˧lv̩˧lv̩˥ ɲi˩
 \vf grêlons; vient de: lv̩˧lv̩˧
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hailstone.
 \ge hailstone
 \dn 冰雹
@@ -11167,7 +11161,7 @@
 \sd <langue="eng"> object
 \ton M
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Large vat.
 \ge large_vat
 \dn 大桶
@@ -11252,7 +11246,7 @@
 \va <speaker="F4"> dzo˩pʰʋ̩#˥
 \vf <type="tone"> LM+#H
 \pdv mi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Male lizard.
 \ge male_lizard
 \dn 公壁虎
@@ -11343,7 +11337,7 @@
 \va <speaker="M21"> dze˧kʰwɤ˧ʈʂe˧ +ɲi˥
 \vf segments un peu différents de ceux notés pour F4, qui étaient: ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧, d'abord noté kʶwɤ˧
 \va <speaker="M23"> dzɑ˧qʰwɤ˧ʈʂe˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Awl.
 \ge awl
 \dn 锥、锥子
@@ -11475,7 +11469,7 @@
 \ton LM+#H
 \so <print="n"> F4
 \pdv mi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby lizard.
 \ge baby_lizard
 \dn 小壁虎
@@ -11494,7 +11488,7 @@
 \np <langue="fra"> on ne peut extraire le monosyllabe
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small vat.
 \ge small_vat
 \dn 小桶
@@ -11792,7 +11786,7 @@
 \ton L-LM
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Water fowl: used as a cover term for a variety of birds including sandpiper (|fi{Calidris}), avocet, Baillon's crake, and blue-breasted banded rail.
 \ge water_fowl
 \dn 水禽，包括几种不同的小鸟，如：鹬
@@ -11846,7 +11840,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> dʑi˩ze˩˧, ton d3
 \va <speaker="M23"> dzɯ˩dze˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ladle used for people's food.
 \ge ladle_for_food
 \dn 舀汤的勺子
@@ -11893,7 +11887,7 @@
 \va <speaker="M18"> dʑi˧ gɤ˧ di˩˥
 \vf gɤ˩˥: porter
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Carrying/shoulder pole.
 \ge shoulder_pole
 \dn 扁担
@@ -11918,7 +11912,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.; emprunt: tʰũ˧, ton m4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Large barrel where drinking water is kept; water trough.
 \ge water_trough
 \dn 大水桶，水槽
@@ -12430,7 +12424,7 @@
 \lc dʑɯ˧qʰv̩˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de A wild plant of Yongning.
 \ge wild_plant_sp
 \dn 永宁的一种植物
@@ -12458,7 +12452,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Well.
 \ge well
 \dn 井、水井
@@ -12635,7 +12629,7 @@
 \ton L-LM
 \lc dʑɯ˩ʁo˩ɬi˩bi˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Chinese yam (shan-yao).
 \ge Chinese_yam
 \dn 山药
@@ -12715,7 +12709,7 @@
 \gn 波浪
 \df Vague.
 \gf vague
-\xv dʑɯ˩so˩ pʰV̩˩˥ xxxx
+\xv dʑɯ˩so˩ pʰʋ̩˩˥
 \xe there is a wave, a wave breaks
 \xn 有波浪
 \xf il y a une vague, une vague déferle
@@ -12877,7 +12871,7 @@
 \ton L
 \lc dʑɯ˩tsʰi˩ʈʰɯ˩di˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small container for hot water (for 1 person).
 \ge container_for_hot_water
 \dn 口杯
@@ -12944,7 +12938,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sifter, sieve.
 \ge sieve
 \dn 筛子
@@ -13600,7 +13594,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small hoe (smaller than |fv{/hwæ˧pʰæ˩/}).
 \ge hoe
 \dn 锄头
@@ -13625,7 +13619,7 @@
 \va <speaker="M18"> ID.
 \vf erreur: hi˧ɖwæ˧, ton d2
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Canine tooth, fang.
 \ge canine_tooth
 \dn 獠牙
@@ -13767,23 +13761,6 @@
 \xe |fg{red}
 \xn 重叠
 \xf |fg{red}
-\dt 27/Aug/2015
-
-\lx ə
-\or a
-\ps intj
-\ton 0
-\lc ə!
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\so <print="n"> F4
-\nt <type="hist" langue="fra" print="n"> yyyy à vérifier: il s'agit peut-être simplement d'exemples de "oui",  /ĩ/, qui n'avaient pas été reconnus comme tels.
-\de Interjection.
-\ge |fg{intj}
-\dn 感叹词
-\gn 感叹词
-\df Interjection.
-\gf |fg{intj}
 
 \lx te
 \or dei rrrr
@@ -13794,11 +13771,11 @@
 \sd <langue="eng"> morphosyntax
 \so <print="n"> F4
 \de Interjection: Well done!
-\ge |fg{intj}.bravo
+\ge |fg{intj}.bravo!
 \dn 感叹词：恭喜！佩服！
 \gn 感叹词：恭喜
 \df Interjection: bravo!
-\gf |fg{intj}.bravo
+\gf |fg{intj}.bravo!
 \xv te! | no˧ | ʐwæ˩-ze˥!
 \xe Excellent! You are great!
 \xn 恭喜！你很利害！
@@ -13880,7 +13857,7 @@
 \xf oncle paternel cadet du père
 \dt 27/Aug/2015
 
-\lx ə˧bV̩˩ xxxx
+\lx ə˧bʋ̩˩
 \sf <nb="B"> 2310
 \sf <nb="2011"> 49
 \or ebbu
@@ -13888,25 +13865,63 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton L#
-\lc ə˧bV̩˩
+\lc ə˧bʋ̩˩
+\cf bʋ̩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kiln; oven to make bricks, ceramics etc.
 \ge kiln
 \dn 烤砖、陶器等用的烤炉
 \gn 烤砖的烤炉
 \df Four où on cuit les briques, les objets en céramique…
 \gf four
-\dt 27/Aug/2015
+\gv ŋwɤ˧pʰæ˧ bv̩˥-di˩, | ə˧bʋ̩˩!
 
-\lx ə˧bV̩˧-ʁwɤ˧ xxxx
+\lx ŋwɤ˧jɤ˩
+\sf <nb="B"> 2310
+\sf <nb="2011"> 49
+\or nguaye rrrr
+\bw <langue="cmn"> 瓦＋？
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\ton L#
+\lc ŋwɤ˧jɤ˩
+\cf ə˧bʋ̩˩
+\so <print="n"> F4
+\de Kiln; oven to make bricks, ceramics etc.
+\ge kiln
+\dn 烤砖、陶器等用的烤炉
+\gn 烤砖的烤炉
+\df Four où on cuit les briques, les objets en céramique…
+\gf four
+\dv ŋwɤ˧pʰæ˧ bv̩˥-di˩, | ŋwɤ˧jɤ˩!
+
+\lx õ
+\or a
+\ps intj
+\ton 0
+\lc õ!
+\cf ĩ˧
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so <print="n"> F4
+\np <langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème “oui”, /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
+\de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
+\ge |fg{intj}.approbation
+\dn 感叹词：赞同的插入语。可能是 “是的 ”，/|fv{ĩ˧}/，的变形。一般语调上扬，接近MH调。
+\gn 感叹词
+\df Interjection approbative. Il pourrait s'agir d'une déformation expressive de “oui”,  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
+\gf |fg{intj}.approbation
+
+\lx ə˧bʋ̩˧-ʁwɤ˧
 \or Abbuwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton M
-\lc ə˧bV̩˧ʁwɤ˧
+\lc ə˧bʋ̩˧ʁwɤ˧
 \so <print="n"> F4
 \de Abbuwua, a village name.
 \ge Abbuwua
@@ -14403,7 +14418,7 @@
 \ton L
 \lc ə˩kʰɯ˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Turnip, wild cabbage, |fi{Brassica rapa}.
 \ge turnip
 \dn 芜菁 、扁萝卜、大头菜、蔓菁
@@ -14797,7 +14812,7 @@
 \vf d'abord noté kʶæ˧, par erreur
 \va <speaker="M21"> æ̃˧kæ˥tsɯ˩
 \vf connu par F4 mais pas recommandé
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Little finger.
 \ge little_finger
 \dn 小指
@@ -14849,16 +14864,16 @@
 \gf hier
 \dt 28/Aug/2015
 
-\lx ə˧pʰV̩˧ xxxx
+\lx ə˧pʰʋ̩˧
 \sf <nb="B"> 333a
 \sf <nb="2011"> 390
 \or apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> [æ˧pʰV̩˧]
+\np <langue="fra"> [æ˧pʰʋ̩˧]
 \ton M
-\lc ə˧pʰV̩˧
+\lc ə˧pʰʋ̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14908,7 +14923,7 @@
 \gf bisaïeule
 \dt 28/Aug/2015
 
-\lx ə˧si˧-ə˧pʰV̩#˥ xxxx
+\lx ə˧si˧-ə˧pʰʋ̩#˥
 \sf <nb="B"> 270b
 \sf <nb="2011"> 393
 \or asee apeu
@@ -14919,7 +14934,7 @@
 \nt <type="hist" langue="fra" print="n"> M23: confirmé, est /si/ et non /sɯ/
 \np <langue="fra"> proche de [ɤ˧si˧æ˧pʰv̩˧]
 \ton #H
-\lc ə˧si˧ə˧pʰV̩˧
+\lc ə˧si˧ə˧pʰʋ̩˧
 \so <print="n"> F4
 \vf ancêtres féminins et masculins) ɤ˥ sɯ˥ ɤ˥ pʰv̩˥ tɑ˧ lɑ˧
 \vf sans doute tɑ˩lɑ˧); aussi: même formule que F4
@@ -14931,7 +14946,6 @@
 \gn 祖宗
 \df Ancêtres aux 3e et 4e générations.
 \gf ancêtres
-\dt 24/Apr/2017
 
 \lx ə˧so˧
 \or eso
@@ -15338,19 +15352,19 @@
 \xf Il va falloir que j'apprenne à me comporter (sagement) comme une grand-mère! (Contexte: remarque teintée d'humour de la consultante principale face à l'âge qui vient et ses soucis: un médecin lui déconseille les sofas/assises molles et lui recommande une chaise haute en bois; elle se fait la réflexion qu'elle a vieilli et doit maintenant apprendre à prendre des précautions.)
 \dt 28/Aug/2015
 
-\lx ə˧ʑi˧-ə˧pʰV̩˧˥ xxxx
+\lx ə˧ʑi˧-ə˧pʰʋ̩˧˥
 \sf <nb="B"> 2309
 \sf <nb="2011"> 391
 \or axxi apeu
 \ps n
 \cf ə˧ʑi˧˥
-\cf ə˧pʰV̩˧
+\cf ə˧pʰʋ̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> formé de d2b+d1 (avant 2009: noté: ˧ ˧ ˧ ˥)
-\np <langue="fra"> [e˧ʑi˧æ˧pʰV̩˧˥]
+\np <langue="fra"> [e˧ʑi˧æ˧pʰʋ̩˧˥]
 \ton MH#
-\lc ə˧ʑi˧ə˧pʰV̩˧˥
+\lc ə˧ʑi˧ə˧pʰʋ̩˧˥
 \so <print="n"> F4
 \de Elders by two generations: the grandmother and her brothers.
 \ge elders_by_two_generations
@@ -15358,7 +15372,6 @@
 \gn 奶奶与她的兄弟
 \df La grand-mère et ses frères: les aînés 2 génération au-dessus de soi.
 \gf grand_mère_et_ses_frères
-\dt 24/Apr/2017
 
 \lx ə˧ʑi˧-ʐv̩˥mi˩
 \sf <nb="2011"> 396
@@ -15832,7 +15845,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Granary (room within the house where grain is stored).
 \ge granary
 \dn 粮仓
@@ -16025,7 +16038,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> kʰv̩˧ gi˧nɑ˧mi˧ +ɲi˥
 \vf calque du chinois |fn{狗熊}
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Little bear, bear cub.
 \ge little_bear
 \dn 小熊
@@ -16430,7 +16443,7 @@
 \vf d'abord noté wɤ˥
 \vf ʈæ˥ bɤ˥: moine lama; tsɯ˩ʁu˩˥ wei4zhi, position
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Temple, monastery.
 \ge monaster
 \dn 庙，寺
@@ -16464,30 +16477,33 @@
 \xe to watch television (coinage to avoid the loanword ‘television')
 \xn 看电视
 \xf regarder la télé (néologisme)
-\dt 24/Apr/2017
 
-\lx gɤ˩bV̩˧ xxxx
+\lx gɤ˩bʋ̩˧
 \sf <nb="B"> 1605
 \sf <nb="2011"> 2392
 \or ggebbu
 \ps v
-\lc gɤ˩bV̩˥
+\lc gɤ˩bʋ̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> gɤ˩tsɯ˥tʰv̩˧ze˩ (tons et voyelles confirmées, n'est pas gɑ˩tsɯ˥) “ça a débordé"
 \np <langue="fra"> pas reconnu par M21
 \ton LM
 \so <print="n"> F4
-\de To overflow.
+\de To overflow. For example, when one puts a lid on a saucepan and the fire is strong, the liquid can overflow.
 \ge to_overflow
-\dn 溢出来
-\gn 溢出来
-\df Déborder.
+\dn 溢出。例如，在汤锅上盖上盖子，液体浓稠地沸腾的话，就溢出。
+\gn 溢出
+\df Déborder. Par exemple, quand on a mis un couvercle sur une casserole, et que le feu va fort, le liquide bout à gros bouillons, et ça déborde.
 \gf déborder
-\xv gɤ˩bV̩˧-ze˩
+\xv gɤ˩bʋ̩˧-ze˩
 \xe |fg{pfv}
 \xn 整体体：溢出来了
 \xf |fg{pfv}
+\xv gɤ˩bʋ̩˧-ho˩-ze˩!
+\xe |fg{fut} |fg{pfv}: It's going to boil over!
+\xn 未来+整体体：要溢出来了！要沸腾了！
+\xf |fg{fut} |fg{pfv}: Ca va déborder !
 
 \lx gɤ˩dzɤ˧
 \sf <nb="2011"> 1068
@@ -16553,11 +16569,11 @@
 \xn 你是汉神灵，对吗？(这是对一个人的讽刺，他只是坐在那里无所事事，不参与家庭活动：像汉族万神殿的神灵一样，一动不动）
 \xf Alors comme ça, t'es une divinité chinoise, c'est bien ça? (Commentaire ironique adressé à quelqu'un qui se tient assis sans rien faire, sans participer aux activités de la maison: immobile comme les divinités du panthéon chinois.)
 
-\lx pʰV̩˩sɑ˧ xxxx
+\lx pʰʋ̩˩sɑ˧
 \or pusa rrrr
 \bw <langue="cmn"> 菩萨
 \ps n
-\lc pʰV̩˩sɑ˧
+\lc pʰʋ̩˩sɑ˧
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM
@@ -16603,7 +16619,7 @@
 \nt <type="sem" langue="fra"> littéralement: demeure des esprits
 \ton -L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Room where the ancestors are worshipped.
 \ge room_for_worship
 \dn 经堂（拜佛、拜祖先的房间）
@@ -16675,7 +16691,7 @@
 \ton MH
 \lc gɤ˧qo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Higher part of the main room.
 \ge higher_part_of_main_room
 \dn 主屋的高处：人吃饭的地方
@@ -16695,7 +16711,7 @@
 \ton LM
 \lc gɤ˩qwɤ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Altar above the hearth (where gifts made to the family are displayed).
 \ge altar_above_the_hearth
 \dn 火炉旁边的祭坛（上面摆礼物等）
@@ -16907,7 +16923,15 @@
 \xe to have stomach-ache
 \xn 肚子疼
 \xf avoir mal au ventre
-\dt 24/Apr/2017
+\xv go˧ li˧ xxxx confirmer
+\xe to consult a doctor, to go to the doctor
+\xn 看病、就医
+\xf consulter un médecin, aller voir le médecin, consulter
+\xv go˧ li˧-di˩ xxxx confirmer
+\xc <type="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
+\xe dispensary: literally, a place where a doctor can be consulted
+\xn 诊所：字面意思是“看病的地方”
+\xf dispensaire: littéralement, lieu où on peut consulter un médecin
 
 \lx gɤ˩-
 \or gge-
@@ -17132,7 +17156,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Loom.
 \ge loom
 \dn 织布机
@@ -17519,7 +17543,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Manger.
 \ge manger
 \dn 马槽
@@ -17573,7 +17597,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Body. A more refined term than |fv{gv̩˧mi˧}.
 \ge body
 \dn 身体
@@ -17677,7 +17701,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Body.
 \ge body
 \dn 身体
@@ -17703,12 +17727,12 @@
 \gf planche_fine
 \dt 24/Apr/2017
 
-\lx gv̩˧sɯ˥-pV̩˩ xxxx
+\lx gv̩˧sɯ˥-pʋ̩˩
 \sf <nb="B"> 144
 \sf <nb="2011"> 211
 \or ggusibu
 \ps n
-\lc gv̩˧sɯ˥pV̩˩
+\lc gv̩˧sɯ˥pʋ̩˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (corrigé le 5/11/2007; notation 2006: “gv̩˧ sɯ˥ pv̩˧; tons à vérifier: serait-ce ˧˥˩?") (vérifié: n'est pas /si/)
@@ -17724,7 +17748,6 @@
 \gn 肩胛骨
 \df Omoplate.
 \gf omoplate
-\dt 24/Apr/2017
 
 \lx gv̩˧tɕʰɯ˧˥
 \sf <nb="B"> 1619b
@@ -18411,7 +18434,7 @@
 \vf tons confirmés plusieurs fois; d'abord noté ˧˧˩, puis ˧˥˩); littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, M18 ne reconnaît plus
 \va <speaker="M21"> ID.
 \vf vérifié: n'est pas ˥ ˥ ˩ ni ˧ ˥ ˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Silk.
 \ge silk
 \dn 丝绸
@@ -18475,7 +18498,7 @@
 \ton #H-
 \so <print="n"> F4
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Rice steamer.
 \ge rice_steamer
 \dn 甑
@@ -18497,7 +18520,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ruler.
 \ge ruler
 \dn 尺
@@ -18543,7 +18566,7 @@
 \va <speaker="M21"> / ɻ̊æ˧du˧/
 \vf première notation: “lʰæ˧du˧; est à nouveau l'initiale dévoisée mais avec articulation buccale, càd pas simple [h]; homophone de “vent", et différente de “chaux"
 \va <speaker="M23"> hæ̃˧do˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Threshing ground.
 \ge threshing_ground
 \dn 打场
@@ -18613,7 +18636,7 @@
 \ton MH#
 \lc hæ̃˧kʰɤ˧˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Rafter; beam.
 \ge rafter
 \dn 椽子
@@ -18802,7 +18825,7 @@
 \lc hæ̃˩qʰwɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> hæ˩kʰwɤ˩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lavender.
 \ge lavender
 \dn 薰衣草（永宁的一种植物）
@@ -18898,7 +18921,7 @@
 \ton L#
 \lc hæ̃˧ʂɯ˩
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de ‘Precious': a prefix added to certain nouns to coin a prestige term. This prefix is not currently productive: it cannot be added to terms such as ‘mother', ‘house'…
 \ge precious
 \df ‘Précieux': préfixe ajouté à certains noms pour construire une appellation prestigieuse. Il n'est pas productif: on ne peut l'ajouter à: |fv{ə˧mɑ˧} ‘mère', |fv{ɑ˩ʁo˧} ‘maison', etc.
@@ -19229,7 +19252,7 @@
 \ton LH
 \lc hi˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lake (monosyllabic word).
 \ge lake
 \dn 湖、海（单音节）
@@ -19342,7 +19365,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tooth.
 \ge tooth
 \dn 牙齿
@@ -19401,7 +19424,7 @@
 \va <speaker="F5"> ju˩pv̩˧˥
 \vf <type="tone"> L+MH#
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Rain cape, rainware made from straw, rush…
 \ge rain_cape
 \dn 蓑衣
@@ -19565,7 +19588,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tongue.
 \ge tongue
 \dn 舌头
@@ -19699,7 +19722,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lake.
 \ge lake
 \dn 湖
@@ -19789,7 +19812,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Decayed teeth; dental caries.
 \ge decayed_teeth
 \dn 蛀牙
@@ -19884,7 +19907,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tooth.
 \ge tooth
 \dn 牙齿
@@ -19925,7 +19948,7 @@
 \lc hi˧tsɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Incisors, front teeth.
 \ge incisors
 \dn 门牙
@@ -19949,7 +19972,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˩ ʁæ˩˥
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Uvula.
 \ge uvula
 \dn 小舌
@@ -20379,27 +20402,26 @@
 \gf 8e_mois
 \dt 24/Apr/2017
 
-\lx ho˩lo˧pV̩˥ xxxx
+\lx ho˩lo˧pʋ̩˥
 \sf <nb="B"> 2007b
 \sf <nb="2011"> 3070
 \or holobu
 \bw <langue="cmn"> 胡萝卜
 \ps n
-\lc ho˩lo˧pV̩˥
+\lc ho˩lo˧pʋ̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \np <langue="fra"> (emprunt)
 \ton LM+H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Carrot.
-\ge carrot
+\ge 胡萝卜::carrot
 \dn 胡萝卜
-\gn 胡萝卜
+\gn 胡萝卜（借词）
 \df Carotte.
-\gf carrote
-\dt 24/Apr/2017
+\gf 胡萝卜::carrote
 
 \lx ho˧mi#˥
 \sf <nb="2011"> 2662
@@ -20573,7 +20595,7 @@
 \cf ʂe˧sɑ˩
 \so <print="n"> F4
 \pdv sɑ˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ham.
 \ge 火腿::ham
 \dn 火腿
@@ -20593,7 +20615,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby pheasant, pheasant chick.
 \ge baby_pheasant
 \dn 小雉
@@ -20841,7 +20863,7 @@
 \np <langue="fra"> (forme monosyllabique peu usuelle)
 \ton MH
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Entrails.
 \ge entrails
 \dn 内脏：胃、肠子等
@@ -20967,7 +20989,7 @@
 \vf emprunt) et hɑ˧-ho˩mi˩
 \va <speaker="M18"> hu˧ mi˥
 \va <speaker="M21"> hu˧mi˧, ton d2a
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stomach.
 \ge stomach
 \dn 胃
@@ -21314,7 +21336,7 @@
 \ton LM
 \so <print="n"> F4
 \vf emprunt
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cucumber.
 \ge 黄瓜::cucumber
 \dn 黄瓜
@@ -21336,7 +21358,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> hwɑ˧pʰæ˩
 \vf rime 1e syll. différente de celle de F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Large hoe.
 \ge large_hoe
 \dn 大锄
@@ -21384,7 +21406,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> hwæ˧pʰæ˥-gv̩˧-di˧ tɕit˧ɕʰi˥
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Loom.
 \ge loom
 \dn 织布机
@@ -21798,7 +21820,7 @@
 \sd <langue="eng"> house
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cabin, hut.
 \ge cabin
 \dn 山上过夜的小木房
@@ -21924,30 +21946,31 @@
 \gf chat
 \dt 24/Apr/2017
 
-\lx hwɤ˧li˧-bV̩˥ xxxx
+\lx hwɤ˧li˧-bʋ̩˥
 \or hualibbu
-\ec <langue="fra"> (la place) du chat
+\et hwɤ˧li˧˥
+\et =bʋ̩˧
+\ec <langue="fra"> «(la place) du chat»
 \ps n
-\lc hwɤ˧li˧bV̩˥
+\lc hwɤ˧li˧bʋ̩˥
 \sy hwɤ˧li˧-se˧-di˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="sem" langue="fra"> même sens que hwɤ˧li˧-se˧-di˧˥
 \ton H#
 \so <print="n"> F4
 \pdv kɤ˧˥
-\de Lower balcony, mezzanine.
+\de Lower balcony, mezzanine: an area of the main room where a floor is laid under the roof structure, forming a mezzanine, but which the human inhabitants do not use. As the area is very smoky, only a flimsy floor and no railings are used. Hence the name: ‘the cat's (place)’, as only the cat roams around easily up there. Sometimes objects are stored here (wickerwork, for example): the smoke give them some protection from insects.
 \ge lower_balcony
-\dn 夹层：主屋的夹层。因为烟多，所以人不能用这个空间当卧室。只有一层薄的木地板。
+\dn 夹层：主屋的夹层。只有一层薄的木地板。
+这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为 “猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
 \gn 夹层
-\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
+\df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas. L'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde. D'où le nom: «(la pièce) du chat», le chat étant seul à s'y promener à son aise. On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
-\dt 13/Jul/2017
 
 \lx hwɤ˧li˧-hwæ˧qʰæ#˥
 \or huali huaekhae
 \ps n
-\cf ʂæ˧-lo˩pV̩˩
+\cf ʂæ˧-lo˩pʋ̩˩
 \lc hwɤ˧li˧-hwæ˧qʰæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -21964,7 +21987,7 @@
 \or huali seiddi
 \ps n
 \lc hwɤ˧li˧se˧di˧˥
-\sy hwɤ˧li˧-bV̩˥
+\sy bʋ̩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton MH#
@@ -22005,7 +22028,7 @@
 \nt <type="sem" langue="fra"> Pour spécifier le sexe, on peut, dès la naissance, utiliser les mêmes termes que pour les adultes: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰʋ̩˥$/}.
 \ton MH#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kitten, cub.
 \ge kitten
 \dn 小猫
@@ -22121,7 +22144,7 @@
 \xe same meaning
 \xn 同上
 \xf même sens
-\xv hwɤ˧tɕʰi˥-ʁo˩bV̩˩
+\xv hwɤ˧tɕʰi˥-ʁo˩bʋ̩˩
 \xe sprouts of curly dock
 \xn 土大黄的嫩芽
 \xf pousses de parelle sauvage
@@ -22163,7 +22186,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kitten.
 \ge kitten
 \dn 小猫
@@ -22258,6 +22281,23 @@
 \xn 他说：“是的，是的！”
 \xf il a dit: «Oui, oui!»
 \dt 14/Jun/2017
+
+\lx o
+\or o
+\ps intj
+\lc o!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Interjection indicating surprise.
+\ge |fg{intj}.surprise
+\dn 表示惊讶的插话。
+\gn 插话：惊讶
+\df Interjection marquant de la surprise.
+\gf |fg{intj}.surprise
+\txtsup Housebuilding.81
+\doisup 10.24397/pangloss-0004449#S81
 
 \lx jɤ˧pʰi˧-jɤ#˥
 \sf <nb="B"> 402
@@ -22378,10 +22418,10 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> i˩˥
-\va <speaker="M21"> lv̩˧bæ˥, ton d7: acné; i˩˥: pour maladies
-\vf ton m1
-\pdv ɭɯ˧
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\vf Au plan sémantique, le locuteur emploie ce terme pour les boutons qui sont le symptôme de maladies, et emploie le terme |fv{lv̩˧bæ˥} pour les boutons d'acné, qui ne sont pas pathologiques.
+\pdv ɭɯ˧β
 \de Spot, pimple.
 \ge spot
 \dn 痘痘
@@ -22392,11 +22432,21 @@
 \xe to have spots, to get pimples
 \xn 出痘痘
 \xf avoir des boutons
-\xv ʝi˩ bV̩˩-ʝi˧ ʈv̩˩~ʈv̩˩ xxxx quel est ce verbe /bʋ̩ ou bɻ̩/?
+\xv ʝi˩ bʋ̩˩
 \xe to have lots of pimples
 \xn 出好多痘痘
-\xf avoir plein de boutons
-\xv ʈʂʰɯ˧ pʰæ˧qʰwɤ˩ bi˩ | ʝi˩ bV̩˩-ʝi˧ ʈv̩˩~ʈv̩˩!
+\xf
+\xv ʝi˩ bʋ̩˩ ʝi˥ ʈv̩˩~ʈv̩˩
+\xe to have lots of pimples
+\xn （一个人）是麻子，出好多痘痘
+\xf être grêlé; avoir plein de boutons
+\xc <langue="fra" type="sem"> On ne peut décomposer l'expression pour en séparer la première partie /|fv{†ʝi˩ bʋ̩˩}/, qui aurait le sens de: ‘avoir des boutons’. Elle a pourtant bon aspect au plan phonologique, comme un mot disyllabique au ton M. Mais la forme /|fv{ʝi˩ bʋ̩˩}/ fait aussitôt penser à tout autre chose: le nom `taureau', qui, appliqué à un homme, marque une critique d'un comportement brutal, aux antipodes de la prévenance appréciée dans la société na.
+\nt <type="hist" langue="fra" print="n" type="tone"> Tons établis en 2009. Avais d'abord noté /i˩bv̩˩ i˥ tv̩˧tv̩˩/, puis /i˧ bv̩˧ i˥ tv̩˧ tv̩˧/.
+\nt <type="hist" langue="fra" print="n" type="phono"> D'abord noté /|fv{... tv̩˧tv̩˩}/, puis songé à corriger en /|fv{ʈɻ̩˧ʈɻ̩˩}/, avant de reconnaître (en 2009) la présence d'une syllabe /|fv{ʈv̩}/ à initiale rétroflexe et à rime /|fv{v̩}/.
+\rf F4
+\rf F5
+\rf M18
+\xv ʈʂʰɯ˧ pʰæ˧qʰwɤ˩ bi˩ | ʝi˩ bʋ̩˩ ʝi˥ ʈv̩˩~ʈv̩˩!
 \xe (S)he has lots of pimples on the face.
 \xn 他脸上出好多痘痘。
 \xf Il/elle a plein de boutons sur le visage.
@@ -22655,7 +22705,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Earthen jar.
 \ge earthen_jar
 \dn 坛子，罐子 (陶器)
@@ -22723,33 +22773,6 @@
 \xe each goes her/his own way (context: explaining that, in many families, people go to live in different cities for professional reasons)
 \xn 个去个的地方！/ 每个人去不同的地方！（情景：由于工作原因，一家的成员经常需要去不同的城市工作。）
 \xf chacun s'en va de son côté (contexte: les membres d'une famille vont habiter en des lieux différents pour raisons professionnelles)
-\dt 02/Sep/2015
-
-\lx ʝi˩bV̩˩ xxxx
-\sf <nb="B"> 372
-\sf <nb="2011"> 434
-\hm 1
-\or yibbu
-\ps n
-\lc ʝi˩bV̩˩˥
-\sd <langue="fra"> société
-\sd <langue="eng"> society
-\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; d'abord noté /i˩bv̩˩ i˥ tv̩˧tv̩˩/ puis songé à corriger en /ʈɻ̩˧ʈɻ̩˩/)
-\ton L
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\vf d'abord noté i˧ bv̩˧ i˥ tv̩˧ tv̩˧
-\va <speaker="M21"> ʈʂʰɯ˧ | pʰæ˧qʰwɤ˩ | mæ˩tsɯ˧ tsɤ˧!
-\va <speaker="M21"> ʈʂʰɯ˧ | pʰæ˧qʰwɤ˩ | mæ˩tsɯ˧!
-\vf formé de: “visage"+emprunt au chinois
-\pdv v̩˧
-\de Pockmarked person.
-\ge pockmarked_person
-\dn 麻子
-\gn 麻子
-\df Grêlé.
-\gf grêlé
 
 \lx mæ˩tsɯ˧
 \or maezi rrrr
@@ -22761,16 +22784,19 @@
 \ton LM
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\de Pockmarked.
-\ge 麻子::pockmarked
+\pdv v̩˧
+\de Pockmarked person.
+\ge 麻子::pockmarked_person
 \dn 麻子
 \gn 麻子（借词）
-\df Grêlé.
+\df Grêlé, personne grêlée.
 \gf 麻子::grêlé
 \xv ʈʂʰɯ˧ | pʰæ˧qʰwɤ˩ | mæ˩tsɯ˧!
 \xe His face is pockmarked.
 \xn 他的脸上长满了麻子。
 \xf Il a le visage grêlé.
+\rf F4
+\rf M21
 \xv mæ˩tsɯ˧ tsɤ˧
 \xe to get pockmarked
 \xn 长麻子
@@ -22779,12 +22805,14 @@
 \xe His face has become pockmarked.
 \xn 他的脸上长了麻子。
 \xf Son visage est devenu grêlé.
+\rf F4
+\rf M21
 
-\lx ʝi˩bV̩˩ xxxx
-\hm 2
+\lx ʝi˩bʋ̩˩
 \or yibbu
 \ps n
-\lc ʝi˩bV̩˩˥
+\lc ʝi˩bʋ̩˩˥
+\cf ʐɤ˩qo˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L
@@ -22796,6 +22824,10 @@
 \gn 公牛
 \df Taureau.
 \gf taureau
+\xv no˧ | ʝi˩bʋ̩˩-ne˩ ʝi˥-zo˩!
+\xe You're like a bull! / You're a real bull! / Hey, don't be such a bull! (Criticism of a man whose behaviour is brutal, the antithesis of the thoughtfulness valued in Na society.)
+\xn 你就像一头公牛！/ 你真是头公牛！ /嘿，别这么牛！(批评一个男人的行为粗暴，与摩梭社会所珍视的深思熟虑截然相反。）
+\xv Tu es comme un taureau! / Tu es un vrai taureau! / Dis donc, va pas nous faire ton taureau, là! (Critique adressée à un homme dont le comportement est brutal, aux antipodes de la prévenance appréciée dans la société na.)
 
 \lx ʝi˧-bʋ̩˧˥
 \sf <nb="2011"> 605
@@ -22808,7 +22840,7 @@
 \ton MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cow pen.
 \ge cow_pen
 \dn 牛圈
@@ -22825,7 +22857,7 @@
 \sd <langue="eng"> animal
 \ton L+H#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \cf ʐɤ˩qo˩
 \cf ʐɤ˩qo˩-zo˩
 \pdv pʰo˧˥
@@ -23014,7 +23046,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> i˧mi˧, ton d2a
 \vf ton différent de F4, qui confirme le schéma d1 en mai 2008
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jar.
 \ge jar
 \dn 坛子，罐子 (陶器)
@@ -23092,7 +23124,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mi˩
 \de Male ox, bull.
 \ge bull
@@ -23125,7 +23157,7 @@
 \va <speaker="M21"> jɤ˩kʶv̩˩˧
 \vf analyse phonémique: jɤ˩qʰv̩˩˧
 \vf pendant terrain: négligé de noter l'aspiration; pensais que l'affrication suffisait pr distinguer
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sleeve.
 \ge sleeve
 \dn 袖子
@@ -23148,7 +23180,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Neck strap: a part of the buffalo's harness for ploughing: a strap that fastens the yoke.
 \ge neck_strap
 \dn 轭的一个部分，将牛轭安在牛的脖子上
@@ -23232,7 +23264,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> jɤ˧sɑ˥
 \vf emprunt
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Umbrella.
 \ge 雨伞::umbrella
 \dn 雨伞
@@ -23419,7 +23451,7 @@
 \va <speaker="F5"> i˩ʈʂæ˧
 \va <speaker="M18"> i˩ ɖʐæ˩˥
 \va <speaker="M21"> i˩ʈʂæ˧˥, ton d5
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Waist.
 \ge waist
 \dn 腰
@@ -23465,7 +23497,7 @@
 \ton M
 \lc ʝi˧tsɯ˧
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Chair (borrowing).
 \ge 椅子::chair
 \dn 椅子
@@ -23483,7 +23515,7 @@
 \lc ʝi˧zo˧
 \so <print="n"> F4
 \pdv pʰo˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Calf.
 \ge calf
 \dn 小牛
@@ -24290,7 +24322,7 @@
 \gf parier
 \dt 02/Sep/2015
 
-\lx jo˩pV̩˧ xxxx
+\lx jo˩pʋ̩˧
 \sf <nb="B"> 417b
 \sf <nb="2011"> 528
 \or yobu
@@ -24301,7 +24333,7 @@
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté: “ju˩pv̩˥, ton d6 ou d5; F4, 6/11/2007: n'est pas ju˧pv̩˧˥; mais enrt 12/11/2007: ˩ ˩˥; qd la question lui est posée directement: accepte ˩ ˥ aussi bien que ˩ ˩˥". En 2012: confirmé l'existence de 2 variantes tonales.
 \nt <type="tone" langue="fra"> Ce mot possède deux variantes tonales: LM et LM+MH#.
 \ton LM ≈ LM+MH#
-\lc jo˩pV̩˥
+\lc jo˩pʋ̩˥
 \so <print="n"> F4
 \pdv tsʰi˥
 \de Oilcloth; tarpaulin.
@@ -24310,11 +24342,10 @@
 \gn 油布
 \df Toile cirée.
 \gf toile_cirée
-\xv jo˩pV̩˧˥
+\xv jo˩pʋ̩˧˥
 \xe oilcloth (tonal variant)
 \xn 油布（声调变体）
 \xf toile cirée (variante tonale)
-\dt 02/Sep/2015
 
 \lx jo˧˥
 \hm 2
@@ -24425,7 +24456,7 @@
 \ton LM-L
 \lc jɤ˩tʰi˧ʁæ˩bæ˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Porcelain plate.
 \ge porcelain_plate
 \dn 瓷盘
@@ -24470,7 +24501,7 @@
 \vf <type="tone"> L
 \va <speaker="M21"> ID.
 \va <speaker="M23"> jo˧zo˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lamb.
 \ge lamb
 \dn 绵羊羔
@@ -24749,7 +24780,7 @@
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Threshold.
 \ge threshold
 \dn 门槛
@@ -24758,16 +24789,16 @@
 \gf seuil
 \dt 03/Sep/2015
 
-\lx kʰi˧-bV̩˥lv̩˩ xxxx
+\lx kʰi˧-bʋ̩˥lv̩˩
 \or kibbulu
 \ps n
 \cf <type="synonyme"> kʰi˧-qʰwɤ˩
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H-
-\lc kʰi˧bV̩˥lv̩˩
+\lc kʰi˧bʋ̩˥lv̩˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hinge.
 \ge hinge
 \dn （门的）合页
@@ -24868,13 +24899,13 @@
 \lx kʰi˧-qʰwɤ˩
 \or kikhua
 \ps n
-\sy kʰi˧-bV̩˥lv̩˩
+\sy
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton L#
 \lc kʰi˧qʰwɤ˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hinge.
 \ge hinge
 \dn 门的合页
@@ -25171,7 +25202,7 @@
 \ton #H
 \lc ko˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hill, small mountain.
 \ge hill
 \dn 小山
@@ -25193,7 +25224,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bottle.
 \ge bottle
 \dn 瓶子
@@ -25347,7 +25378,7 @@
 \ton M
 \lc kʰo˧bɤ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Home (solemn, formal word).
 \ge home
 \dn 家（文言）：母亲生活的空间：有家人，有火塘，有母亲在那里生活的那个空间
@@ -25432,7 +25463,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sculpture of Buddha (Tibetan borrowing).
 \ge sculpture_of_Buddha
 \dn 佛像
@@ -25516,7 +25547,7 @@
 \lc ko˩ɖʐo˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Flail.
 \ge flail
 \dn 连枷
@@ -25574,7 +25605,7 @@
 \lc ko˧li˧
 \so <print="n"> F4
 \va <speaker="M23"> *
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Blow tube: tube to blow on a fire.
 \ge blow_tube
 \dn 吹火筒，用来吹火的小管子
@@ -25645,7 +25676,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de A large jar; a large bottle.
 \ge large_bottle
 \dn 大坛子，大瓶
@@ -25843,7 +25874,7 @@
 \lc kɤ˩tjɤ˧ljɤ˧
 \so <print="n"> F4
 \va <speaker="F4"> kwɤ˩-tjɤ˧ljɤ#˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small bell hung to an animal's neck (e.g. horse's bell).
 \ge small_bell_hung_to_neck
 \dn 铃铛：如，挂在妈的脖子上的铃铛
@@ -25993,7 +26024,7 @@
 \va <speaker="F5"> kɤ˧v̩˧
 \vf <type="tone"> M
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Amulet.
 \ge amulet
 \dn 护符，护身符
@@ -26033,7 +26064,7 @@
 \ton L
 \lc kɤ˩zo˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small bottle.
 \ge small_bottle
 \dn 小瓶子
@@ -26305,7 +26336,7 @@
 \va <speaker="M18"> kɯ˥
 \vf d'abord noté kɯ˧
 \va <speaker="M21"> kɯ˧, m4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \pdv kɯ˧
 \de Star.
@@ -26373,7 +26404,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Gallbladder.
 \ge gallbladder
 \dn 胆
@@ -26616,7 +26647,7 @@
 \nt <type="sem" langue="fra"> “mettre"+suffixe “chose pour…", “qui sert à…"
 \ton MH#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Container (general term).
 \ge container
 \dn 容器
@@ -26775,7 +26806,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Shuttle on a weaving loom.
 \ge shuttle
 \dn 梭，梭子
@@ -26839,7 +26870,7 @@
 \va <speaker="M18"> kɯ˩ɻ̩˧
 \vf d'abord noté kɯ˧ɻ̩˥) ; jouer du violon à 2 cordes: kɯ˩ɻ̩˧hɯ˥
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Two-string violin, erhu.
 \ge erhu
 \dn 胡琴，二胡
@@ -26929,7 +26960,7 @@
 \lc kʰɯ˧ʈʂɤ˧
 \so <print="n"> F4
 \pdv ʈv̩˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Chicken feet.
 \ge chicken_feet
 \dn 鸡爪
@@ -27144,7 +27175,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> gousse
 \pdv tsʰɤ˧˥
 \pdc <langue="fra"> tête
@@ -27255,7 +27286,7 @@
 \nt <type="hist" langue="fra" print="n"> Longue hésitation en juin 2024, du fait que la locutrice refusait la forme à l'isolée /kʰv̩˧/, disant que celle-ci signifie ‘chien’ et nullement ‘nid’. Elle remplaçait cette prononciation par une réalisation bas-montante, /kʰv̩˩˥/ (enregistrement du 5 juin 2024). De fait, la forme monosyllabique de ‘chien’ est relativement courante, et tel est donc le premier sens qui vient à l'esprit lorsqu'on entend le monosyllabe /kʰv̩˧/ (à un ton non bas et non montant). En réalité, ‘nid’ existe bien comme monosyllabe, porte un ton L, et est donc réalisé à l'isolée avec un ton M (non bas, non montant). La raison pour laquelle il y avait la plus grande difficulté à l'éliciter à l'isolée tient au caractère plus courant du monosyllabe ‘chien’.
 \nt <type="hist" langue="eng" print="n"> There was much hesitation in June 2024, because the consultant rejected the form /kʰv̩˧/, saying that it meant ‘dog’, not ‘nest’. Instead, the consultant produced a low-rising realization, /kʰv̩˩˥/ (see recording of 5 June 2024). In fact, the monosyllabic form of ‘dog’ is relatively common, and so this is the first sense that comes to mind when hearing the monosyllable /kʰv̩˧/ (at a non-low, non-rising pitch). ‘Nest’ does exist as a monosyllable, it carries an L tone, and is therefore produced in isolation with an M tone (non-low, non-rising). The reason why it was so difficult to elicit in isolation is that the monosyllable ‘dog’ is more common.
 \nt <type="hist" langue="cmn" print="n"> 2024 年 6 月，顾问拒绝了/kʰv̩˧/作为“窝”的发音，说它的意思是 “狗”而不是 “窝”。然而，发音合作人却用低升调：/kʰv̩˩˥/（参见 2024 年 6 月 5 日的录音）。事实上，“狗 ”的单音节形式比较常见，因此当听到单音节/kʰv̩˧/时，人们首先想到的就是这个意义。“窝”事实上存在有单音节形式，本调为L调，对应的单独发音也就是符合常规的M调（非低调、非升调）。单音节 “窝”之所以难以认识，是因为单音节 “狗”更为常见。
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nest (monosyllable).
 \ge nest
 \dn （鸟）巢（单音节）
@@ -27401,7 +27432,7 @@
 \ton MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kennel, doghouse.
 \ge doghouse
 \dn 狗窝
@@ -27419,7 +27450,7 @@
 \nt <type="hist" langue="fra" print="n"> Orthographe: avant avril 2019, était noté gujji.
 \ton MH
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Tent.
 \ge tent
 \dn 帐篷
@@ -27441,7 +27472,7 @@
 \ec <langue="fra"> Littéralement ‘panier-nid': on le confectionnait à l'aide d'un panier dorsal, qu'on suspendait à une cloison.
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Chicken nest.
 \ge chicken_nest
 \dn 鸡窝
@@ -27467,7 +27498,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> kv̩˩kv̩˩˥, ton d3
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cheekbone.
 \ge cheekbone
 \dn 颧骨
@@ -27526,7 +27557,7 @@
 \nt <type="hist" langue="fra" print="n"> (prononciation vélaire de l'initiale) (confirmé: est …kwæ˧ et non …kwɤ˧)
 \ton M
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bitter melon.
 \ge 苦瓜::bitter_melon
 \dn 苦瓜
@@ -27546,7 +27577,7 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Garlic braid: garlic bulbs with long leaves, braided into a large clump.
 \ge garlic_braid
 \dn 蒜瓣
@@ -27603,7 +27634,7 @@
 \xe prison: literally “house for thieves"
 \xn 监狱。直译：“贼家”
 \xf prison: littéralement «maison des voleurs»
-\xv kʰv̩˧mæ˧-ʝi˧-hĩ˧, | lo˧ʑi˥bV̩˩-qo˩ ʈæ˩! xxxx
+\xv kʰv̩˧mæ˧-ʝi˧-hĩ˧, | lo˧ʑi˥bʋ̩˩-qo˩ ʈæ˩!
 \xe Thieves are tied up in prisons / are sent to prison!
 \xn 贼，被关在监狱！
 \xf les voleurs, on les met en prison!
@@ -27794,7 +27825,7 @@
 \so <print="n"> F4
 \pdv v̩˧
 \pdv mi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de He-dog (elicited form).
 \ge he-dog
 \dn 公狗
@@ -28086,7 +28117,7 @@
 \vf confirmé: n'est pas ɖʐɤ˥. Tons confirmés. D'abord noté kv̩˥ ɖʐɯ˥
 \va <speaker="M21"> kv̩˧ʈʂɯ˧˥, ton d2b
 \vf la rime de la deuxième syllabe ressemble à ɤ mais n'est pas ɤ
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de (finger)nail, (toe)nail.
 \ge (finger/toe)nail
 \dn 指甲
@@ -28150,7 +28181,7 @@
 \so <print="n"> F4
 \pdv v̩˧
 \pdv mi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Male dog. The term is also used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.).
 \dn 公狗（给刚出生的男孩子的名字，让鬼对他不感兴趣，不过来害小孩）
 \gn 公狗
@@ -28372,7 +28403,7 @@
 \ton H#
 \lc kwæ˧pæ˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Harrow (made of wood).
 \ge harrow
 \dn 耙（可能是汉语借词。原来借来的词：刮板?? 刮耙??）
@@ -28451,7 +28482,7 @@
 \ton M
 \lc kwɑ˧tsʰɑ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Coffin.
 \ge 棺材::coffin
 \dn 棺材
@@ -28498,7 +28529,7 @@
 \va <speaker="M21"> kwɤ˧lv̩˩
 \vf vérifié: n'est pas lɯ˩), ton d4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jug; jar; pitcher; also: treasure, valuable possession.
 \ge jug/treasure
 \dn 坛子、罐子 (陶器)，宝贝
@@ -28546,14 +28577,14 @@
 \xn 教师、老师
 \xf enseignant
 
-\lx kʰo˧pʰV̩˧ xxxx
+\lx kʰo˧pʰʋ̩˧
 \or kopu rrrr
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
-\lc kʰo˧pʰV̩˧
-\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰV̩˧/.
+\lc kʰo˧pʰʋ̩˧
+\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧/.
 \so <print="n"> F4
 \de Meadow.
 \ge meadow
@@ -28562,14 +28593,14 @@
 \df Pré: soit prairie de plaine, soit prairie d'altitude (alpage).
 \gf pré
 
-\lx kʰo˧pʰV̩˧-mo˧˥
+\lx kʰo˧pʰʋ̩˧-mo˧˥
 \or kopu moq rrrr
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton MH#
-\lc kʰo˧pʰV̩˧mo˧˥
-\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰV̩˧-mo˧˥/.
+\lc kʰo˧pʰʋ̩˧mo˧˥
+\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧-mo˧˥/.
 \so <print="n"> F4
 \de Meadow mushroom: a sort of edible mushroom that grows on meadows (not yet identified; perhaps |fi{Agaricus campestris}).
 \ge meadow_mushroom
@@ -28591,7 +28622,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jawbone, mandible, lower jaw.
 \ge jawbone
 \dn 颌骨
@@ -28966,7 +28997,7 @@
 \va <speaker="M21"> lɑ˧dɑ˧kæ˥bv̩˩
 
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Armpit.
 \ge armpit
 \dn 腋下
@@ -29086,7 +29117,7 @@
 \ton L#
 \lc lɑ˧kɤ˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small jar used to preserve wine.
 \ge small_wine_jar
 \dn 小坛子，用来存酒
@@ -29399,7 +29430,7 @@
 \lc lɑ˧pʰʋ̩˧
 \so <print="n"> F4
 \pdv pʰo˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Male tiger.
 \ge male_tiger
 \dn 公老虎
@@ -29523,7 +29554,7 @@
 \ton H#
 \lc ɬɑ˧tɑ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jerkin, leather vest.
 \ge jerkin
 \dn 皮革背心
@@ -29640,7 +29671,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Chilli peppers.
 \ge 辣子::chilli_peppers
 \dn 辣椒（汉语借词：辣子）
@@ -29730,7 +29761,7 @@
 \ton #H
 \lc lɑ˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby tiger, child of tiger.
 \ge baby_tiger
 \dn 小老虎
@@ -30123,7 +30154,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɬi˧bi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Turnip; radish.
 \ge turnip
 \dn 萝卜
@@ -30160,12 +30191,12 @@
 \xf personne sourde
 \dt 24/Apr/2017
 
-\lx ɬi˧bV̩˧ xxxx
+\lx ɬi˧bʋ̩˧
 \sf <nb="B"> 255
 \sf <nb="2011"> 330
 \or Lhibbu
 \ps n
-\lc ɬi˧bV̩˧
+\lc ɬi˧bʋ̩˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" langue="fra" print="n"> (d'abord noté ˥ ˥; en 2007, corrige en ˧ ˧ car les tons sont les mêmes que pour 251 lo˧lo˧)
@@ -30182,13 +30213,12 @@
 \gn 白族
 \df Bai (groupe ethnique).
 \gf Bai
-\dt 04/Sep/2015
 
-\lx ɬi˧bV̩˩ | dʑɤ˩tsʰi˧si#˥ xxxx
+\lx ɬi˧bʋ̩˩ | dʑɤ˩tsʰi˧si#˥
 \sf <nb="2011"> 3110
 \or lhibbu  jjaceesee
 \ps n
-\lc ɬi˧bV̩˩dʑɤ˩tsʰi˧si˧
+\lc ɬi˧bʋ̩˩dʑɤ˩tsʰi˧si˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L# | LM+#H
@@ -30199,13 +30229,12 @@
 \gn 香椿
 \df Ailante, |fi{Ailanthus chinensis}; arbre très odorant.
 \gf Ailante
-\dt 24/Apr/2017
 
-\lx ɬi˧bV̩˧-mi#˥
+\lx ɬi˧bʋ̩˧-mi#˥
 \sf <nb="2011"> 331
 \or Lhibbumi
 \ps n
-\lc ɬi˧bV̩˧mi˧
+\lc ɬi˧bʋ̩˧mi˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \ton #H
@@ -30219,11 +30248,11 @@
 \gf femme_bai
 \dt 24/Apr/2017
 
-\lx ɬi˧bV̩˧-zo#˥
+\lx ɬi˧bʋ̩˧-zo#˥
 \sf <nb="2011"> 332
 \or Lhibbusso
 \ps n
-\lc ɬi˧bV̩˧zo˧
+\lc ɬi˧bʋ̩˧zo˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \ton #H
@@ -30235,7 +30264,6 @@
 \gr 白族男人
 \df Homme bai.
 \gf homme_bai
-\dt 24/Apr/2017
 
 \lx ɬi˧di˩
 \sf <nb="B"> 2198
@@ -30412,7 +30440,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Moon (disyllable).
 \ge moon
 \dn 月亮（双音节）
@@ -30618,11 +30646,11 @@
 \lx li˩pʰɻ̩˩
 \or lipeu
 \ps n
+\ton L
 \lc li˩pʰɻ̩˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> Identifié dans Li Dazhu et al. (2015: 97)
-\ton L
 \so <print="n"> F4
 \de Whiteworm Lichen, |fi{Thamnolia vermicularis}; it used to be gathered on the seventh lunar month. It was used as a herbal tea.
 \ge Whiteworm_Lichen
@@ -30631,21 +30659,22 @@
 \df Un lichen de montagne, |fi{Thamnolia vermicularis}, employé en décoction. Au souvenir de F4, ce lichen se cueillait au septième mois, seule période où il était abondant; on allait le cueillir en haute montagne.
 \gf lichen_de_montagne
 \xv ŋwɤ˧hɑ̃˩-li˩pʰɻ̩˩
-\xe lichen tea from the mountain |fv{ŋwɤ˧hɑ̃˩} (this type of lichen grows abundantly on that mountain, and was generally harvested there)
-\xn |fv{ŋwɤ˧hɑ̃˩} 山的雪茶（说明：这种苔藓在那座山上多，七月份人家去采）
-\xf thé de lichen de la montagne |fv{ŋwɤ˧hɑ̃˩} (ce lichen y est abondant; c'est généralement là-bas qu'on le cueillait)
+\xe lichen tea from the Nguahan |fv{ŋwɤ˧hɑ̃˩} mountain (this type of lichen grows abundantly on that mountain, and was generally harvested there)
+\xn 瓦哈山的雪茶（说明：这种苔藓在瓦哈山上多，七月份人家去采）
+\xf thé de lichen de la montagne Nguahan |fv{ŋwɤ˧hɑ̃˩} (ce lichen y est abondant; c'est généralement là-bas qu'on le cueillait)
 
-\lx ɬi˧pV̩˧lv̩˥ xxxx
+\lx ɬi˧pʋ̩˧ɭɯ˥
 \sf <nb="2011"> 171
 \or lhibulu
 \ps n
-\lc ɬi˧pV̩˧lv̩˥
+\lc ɬi˧pʋ̩˧ɭɯ˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton H#
+\nt <type="hist" langue="fra"> Avant 2024: noté /ɬi˧pv̩˧lv̩˥/. La troisième syllabe est corrigée en juin 2024.
 \so <print="n"> F4
-\va <speaker="M21"> ɬi˧pV̩˧lv̩˥
-\pdv ɭɯ˧
+\va <speaker="M21"> ɬi˧pʋ̩˧lv̩˥
+\pdv ɭɯ˧β
 \de Ear tumour, pathological excrescence of the ear.
 \ge ear_tumour
 \dn 耳朵瘤
@@ -30662,7 +30691,7 @@
 \ton #H
 \so <print="n"> F4
 \pdv v̩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mi˩
 \de Male roebuck, male hornless river deer.
 \ge male_roebuck
@@ -30713,7 +30742,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Auditory canal.
 \ge auditory_canal
 \dn 耳孔
@@ -30745,7 +30774,7 @@
 \va <speaker="M21"> ɬi˧qʰwɤ˩, ton d4
 \vf d'abord noté ɬi˥kʶwɤ˩
 \vf ton différent de F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Trousers.
 \ge trousers
 \dn 裤子
@@ -31270,7 +31299,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Rib.
 \ge rib
 \dn 肋骨
@@ -31358,53 +31387,53 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Palm of the hand.
 \ge palm
 \dn 手掌
 \gn 手掌
 \df Paume.
 \gf paume
-\dt 24/Apr/2017
 
-\lx lo˩bV̩˧-ɭɯ˩ xxxx
+\lx lo˩bʋ̩˧-ɭɯ˩
 \sf <nb="2011"> 252
 \or lobbulee
 \ps n
-\lc lo˩bV̩˧ɭɯ˩
+\lc lo˩bʋ̩˧ɭɯ˩
+\cf lo˩ʈʰɯ˧
 \ton LM-L
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> M23: (+ɲi˩) (sur le modèle du lazé: pense que ce serait: tt l'arrière-bras, 182; mais d'après M23, désigne le coude) (rime vérifiée, n'est pas /ɯ/)
 \so <print="n"> F4
-\va <speaker="M23"> lo˩bV̩˧lv̩˩
-\pdv ɭɯ˧
+\va <speaker="M23"> lo˩bʋ̩˧lv̩˩
+\pdv ɭɯ˧β
 \de Elbow.
 \ge elbow
 \dn 肘
 \gn 肘
-\df Partie saillante du coude, qd le bras est replié.
+\df Le coude (non pas en tant qu'articulation, mais en tant que partie saillante, quand le bras est replié).
 \gf partie_saillante_du_coude
 
-\lx lo˧bV̩˩-ʈʂʰɯ˩ xxxx
+\lx lo˧bʋ̩˩-ʈʂʰɯ˩
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
 \or lobbuchi
 \bw <langue="bod"> yyyy
 \ps n
-\lc lo˧bV̩˩ʈʂʰɯ˩
+\lc lo˧bʋ̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <langue="pumi" type="comp" print="n"> lõ55bɯ22tɕʰi22 (emprunt tibétain)/ lõ55tɕʰĩ51 (notation AM: lõ˥bV̩˩tɕʰi˩)
+\nt <langue="pumi" type="comp" print="n"> lõ55bɯ22tɕʰi22 (emprunt tibétain)/ lõ55tɕʰĩ51 (notation AM: lõ˥bv̩˩tɕʰi˩)
 \np <langue="fra"> emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
 \ton L#-
 \so <print="n"> F4
-\va <speaker="F5"> lo˧bV̩˩ʈʂʰv̩˩
+\va <speaker="F5"> lo˧bv̩˩ʈʂʰv̩˩
 \vf +ɲi˩
-\vf notation 2006: lo˥bV̩˧ʈʂʰv̩˩) emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
-\va <speaker="M21"> lu˧bV̩˧ʈʂʰɯ˩
+\vf notation 2006: lo˥bv̩˧ʈʂʰv̩˩) emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
+\va <speaker="M21"> lu˧bv̩˧ʈʂʰɯ˩
 \vf tons vérifiés) +ɲi˩ emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
-\va <speaker="M23"> lu˧bV̩˩ʈʂʰɯ˩
+\va <speaker="M23"> lu˧bv̩˩ʈʂʰɯ˩
 \vf tons vérifiés) emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
 \pdv pʰo˧˥
 \pdv v̩˧
@@ -31526,7 +31555,7 @@
 \sd <langue="eng"> agriculture
 \ton L#
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Weeding hoe: hand instrument with three spikes perpendicular to the handle, to loosen the soil. At the time of fieldwork, this tool had a metal head.
 \ge weeding_hoe
 \dn 三齿耙
@@ -31756,7 +31785,7 @@
 \lc ɬo˧kʰv̩˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hip.
 \ge hip
 \dn 胯
@@ -31821,7 +31850,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> lo˧ mi˥
 \va <speaker="M21"> lo˩mi˥, ton d6; lo˩mi˥ʁæ˥: sixième doigt/sorte de pouce en plus présent dès la naissance chez certains individus
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Thumb.
 \ge thumb
 \dn 大拇指
@@ -31845,20 +31874,22 @@
 \vf ton m1: LM
 \vf <type="tone"> LM
 \va <speaker="M18"> ʁæ˩˥, kɑ˩˥: tous deux possibles.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Space between thumb and index finger.
 \ge space_between_thumb_and_index_finger
 \dn 虎口
 \gn 虎口
 \df Espace entre le pouce et l'index.
 \gf espace_entre_le_pouce_et_l_index
-\dt 24/Apr/2017
 
-\lx lo˧nɑ˥-bV̩˩ xxxx
-\or lonabbu
+
+
+\lx lo˧ʑi˥-bʋ̩˩
+\or loxxibbu rrrr
 \ps n
 \ton H#-
-\lc lo˧nɑ˥bV̩˩
+\lc lo˧ʑi˥bʋ̩˩
+\cf lo˧nɑ˥-bʋ̩˩
 \cf tɕɤ˧jo˩
 \sd <langue="fra"> nom
 \sd <langue="eng"> noun
@@ -31869,11 +31900,31 @@
 \gn 监狱
 \df Prison.
 \gf prison
-\xv lo˧nɑ˥-bV̩˩-qo˩ ʈæ˩
+\xv lo˧ʑi˥-bʋ̩˩-qo˩ ʈæ˩
 \xe to jail, to put into prison
 \xn 放在监狱、关在监狱里
 \xf enfermer en prison, mettre en prison
-\dt 24/Apr/2017
+
+\lx lo˧nɑ˥-bʋ̩˩
+\or lonabbu
+\ps n
+\ton H#-
+\lc lo˧nɑ˥bʋ̩˩
+\sy lo˧ʑi˥-bʋ̩˩
+\sy tɕɤ˧jo˩
+\sd <langue="fra"> nom
+\sd <langue="eng"> noun
+\so <print="n"> F4
+\de Prison.
+\ge prison
+\dn 监狱
+\gn 监狱
+\df Prison.
+\gf prison
+\xv lo˧nɑ˥-bʋ̩˩-qo˩ ʈæ˩
+\xe to jail, to put into prison
+\xn 放在监狱、关在监狱里
+\xf enfermer en prison, mettre en prison
 
 \lx lo˧ɲi˥
 \sf <nb="B"> 192
@@ -31889,7 +31940,7 @@
 \vf a) lo˧ ɲi˥
 \vf b) lo˧ ɲi˥ lo˧ sɑ˩
 \va <speaker="M21"> lo˧ɲi˥, ton d7
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Finger.
 \ge finger
 \dn 手指
@@ -31963,7 +32014,7 @@
 \lc ɬo˧pɤ˥
 \so <print="n"> F4
 \vf <type="tone"> MH
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Blister (on the hands or feet).
 \ge blister
 \dn 水泡
@@ -31999,7 +32050,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ring.
 \ge ring
 \dn 戒指
@@ -32020,7 +32071,7 @@
 \xf anneau en jade
 \xc <langue=fra" type="sem"> Les Naxi étaient réputés porter des anneaux de jade. Les anneaux les plus prisés chez les Na étaient d'argent et d'or.
 
-\lx ɬo˧pV̩˥ xxxx
+\lx ɬo˧pʋ̩˥
 \sf <nb="B"> 1392
 \sf <nb="2011"> 1978
 \or lhobu
@@ -32028,9 +32079,9 @@
 \cf ɬo˧˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: ɬo˧ pV̩˥ ti˧) (/t/ non rétroflexe; confirmé)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: ɬo˧ pv̩˥ ti˧) (/t/ non rétroflexe; confirmé)
 \ton H#
-\lc ɬo˧pV̩˥
+\lc ɬo˧pʋ̩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -32040,15 +32091,14 @@
 \gn 磕头
 \df Prosternation, kow-tow (très probablement emprunt tibétain).
 \gf prosternation
-\xv ɬo˧pV̩˥ ti˩
+\xv ɬo˧pʋ̩˥ ti˩
 \xe to kowtow
 \xn 跪下磕头
 \xf se prosterner
-\xv ɬo˧pV̩˥ | le˧-ti˩
+\xv ɬo˧pʋ̩˥ | le˧-ti˩
 \xe to kowtow
 \xn 跪下磕头
 \xf se prosterner
-\dt 13/Jul/2017
 
 \lx lo˩qo˧
 \hm 1
@@ -32060,7 +32110,7 @@
 \ton LM
 \lc lo˩qo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Copper pot for cooking cereals (nowadays, almost exclusively rice) and soup.
 \ge 锣锅::cooking_pot
 \dn 煮饭或煮汤的锣锅。在过去，锣锅一般是铜做的。
@@ -32326,7 +32376,7 @@
 \xe a streamer of scriptures
 \xn 一个经幡
 \xf un drapeau de prières
-\xc tons véɻifiés, n'est pæs lo˧tɑ˧-lo˧tɕi˧ pɤ˥$. yyyy
+\xc <type="hist" langue="fra" print="n"> Ton vérifié. Ce n'est pas un ton H$ (‡lo˧tɑ˧-lo˧tɕi˧ pɤ˥$).
 
 \lx lo˩tʰo˧
 \sf <nb="2011"> 928
@@ -32387,7 +32437,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> ɬo˥ tsʰe˥ mæ˥
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hip.
 \ge hip
 \dn 胯
@@ -32425,13 +32475,13 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> ton d6 (avant 2009: noté: lo˩ ʈʰɯ˥)
+\nt <type="hist" type="tone" langue="fra" print="n"> Ton d6 (avant 2009: noté: /lo˩ ʈʰɯ˥/). Confirmé: est ton d6a et non d6b (ex.: /lo˩ʈʰɯ˧=bʋ̩˧ | ɣɯ˩˧/, etc).
 \nt <type="hist" langue="fra" print="n"> (a) lo˩oe͂˞˥ (tons confirmés, sens: “os du bras") (b) oe͂˞˥ ʈʂæ˩="articulation", cf 170 (c) lo˩oe͂˞˥ʈʂæ˩="articulation du bras"
-\np <langue="fra"> confirmé: est ton d6a et non d6b (ex.: lo˩ʈʰɯ˧=bʋ̩˧ ɣɯ˩˧, etc)
 \ton LM
 \lc lo˩ʈʰɯ˥
+\cf lo˩bʋ̩˧-ɭɯ˩
 \so <print="n"> F4
-\va <speaker="M21"> lo˩ʈʰɯ˥, ton d6
+\va <speaker="M21"> ID.
 \pdv ʈv̩˩
 \de Elbow.
 \ge elbow
@@ -32439,7 +32489,6 @@
 \gn 肘
 \df Coude.
 \gf coude
-\dt 04/Sep/2015
 
 \lx lo˩ʈv̩˧
 \sf <nb="B"> 190
@@ -32479,7 +32528,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> /bɑ˩ɬɑ˩˥ | ɖɯ˧-ɬv̩˧˥/ “un vêtement"
 \de Originally a classifier for round objects: grains, bowls… Now a generic classifier, used e.g. for pieces of clothing.
 \ge |fg{clf}.generic
 \dn 最常用的量词，相当于汉语中‘个’的用法。本意是圆形颗粒。一粒（米……），一个（碗……），件（衣服……）
@@ -32514,6 +32562,7 @@
 \ton MHα
 \lc ɖɯ˧ ɭɯ˧˥
 \so <print="n"> F4
+\va <speaker="M21"> ɬv̩˧˥
 \ge |fg{clf}.clothes
 \dn 量词：衣服（一件）
 \gn 量词.件
@@ -32527,6 +32576,11 @@
 \xe a piece of clothing; a shirt
 \xn 一件衣服
 \xf un vêtement
+\xv bɑ˩ɬɑ˩˥ | ɖɯ˧-ɬv̩˧˥
+\xe a piece of clothing; a shirt
+\xn 一件衣服
+\xf un vêtement
+\rf M21
 \xv †dʑi˧hṽ̩˥$+ɖɯ˧-ɭɯ˧˥
 \xe This classifier cannot combine with /|fv{dʑi˧hṽ̩˥$}/, which takes /|fv{ɖɯ˧-dzi˩}/ as its classifier.
 \xn （这个量词不能与|fv{dʑi˧hṽ̩˥$}结合。）
@@ -32555,33 +32609,9 @@
 \gn 田地
 \df Champs.
 \gf champs
-\dt 04/Sep/2015
 
 \lx lv̩˧
 \hm 2
-\or lu
-\ps n
-\cf ʐwæ˧-ɭɯ#˥
-\sd <langue="fra"> nourriture
-\sd <langue="eng"> food
-\nt <type="sem" langue="fra"> (n'est pas /ɭɯ/ ‘céréale') voir à nouveau, avant de supprimer l'entrée: yyyy est bien une erreur: remplacer par ʐwæ˧ɭɯ˧.
-\ton M
-\lc lv̩˧
-\so <print="n"> F4
-\de Cereals for horses or cattle.
-\ge cereals_for_horses or cattle
-\dn 喂给马或牛的粮食
-\gn 喂给马或牛的粮食
-\df Grain (pour chevaux ou vaches), picotin.
-\gf grain_pour_chevaux/vaches
-\xv ʐwæ˧-lv̩˧
-\xe cereals fed to horses; same meaning as |fv{/ʐwæ˧-ɭɯ#˥/} yyyy eɻɻeuɻ
-\xn 喂给马的粮食
-\xf grain pour pour cheval, picotin; même sens que: |fv{/ʐwæ˧-ɭɯ#˥/}
-\dt 02/May/2017
-
-\lx lv̩˧
-\hm 3
 \or lu
 \ps n
 \cf lv̩˧mi˧
@@ -32898,7 +32928,7 @@
 \vf <type="tone"> L
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stone.
 \ge stone
 \dn 石头
@@ -32926,7 +32956,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> lv̩˧mi˧ʈʂu˩bɤ˩
 \vf tons vérifiés); lv̩˧mi˧ bu˧ +ɲi˥: muret en pierre
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stone wall.
 \ge stone_wall
 \dn 石墙
@@ -33001,7 +33031,7 @@
 \gf bien_tiède
 \dt 24/Apr/2017
 
-\lx lv̩˧pʰV̩˩ xxxx
+\lx lv̩˧pʰʋ̩˩
 \sf <nb="B"> 1375
 \sf <nb="2011"> 1958
 \hm 1
@@ -33009,7 +33039,7 @@
 \ec <langue="fra"> L'étymologie de ce terme n'a pu être établie: ce n'est semble-t-il pas «retourner un champ».
 \ps v
 \ton L#
-\lc lv̩˧pʰV̩˩
+\lc lv̩˧pʰʋ̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem" langue="fra"> (F5 lui préfère ɕi˧pʰv̩˧)
@@ -33024,17 +33054,16 @@
 \gn 开荒
 \df Défricher.
 \gf défricher
-\xv lv̩˧pʰV̩˩-hɯ˩
+\xv lv̩˧pʰʋ̩˩-hɯ˩
 \xe [(S)he] has gone to open up new land.
 \xn 他开荒去了。
 \xf (il/elle) est parti(e) défricher
-\xv lv̩˧pʰV̩˩-bi˩-tso˩-ɲi˩
+\xv lv̩˧pʰʋ̩˩-bi˩-tso˩-ɲi˩
 \xe It's necessary to go and open up new land for cultivation. / We're going to have to open up new land for cultivation.
 \xn 应该去开荒了。
 \xf Il va falloir aller défricher. / Il va falloir qu'on défriche de nouvelles terres.
-\dt 19/Jun/2017
 
-\lx lv̩˧pʰV̩˩ xxxx
+\lx lv̩˧pʰʋ̩˩
 \sf <nb="B"> 52a
 \sf <nb="2011"> 86
 \hm 2
@@ -33045,7 +33074,7 @@
 \nt <type="hist" langue="fra" print="n"> (tons: d'abord noté ˥ ˧ puis ˥ ˩; question avant terrain 2007: “est très certainement lv̩˧pʰv̩˩"; une des conclusions du terrain 2007 est l'absence d'opposition entre un schéma lexical ML et un HL)
 \nt <type="sem" langue="fra"> S'emploie uniquement pour les champs de riz: à Yongning, on ne cultive que du riz dans des champs inondés
 \ton L#
-\lc lv̩˧pʰV̩˩
+\lc lv̩˧pʰʋ̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \so <print="n"> F4
 \pdv pʰʋ̩˩
@@ -33055,7 +33084,6 @@
 \gn 水田
 \df Champs inondés.
 \gf champs_inondés
-\dt 31/Jul/2017
 
 \lx lv̩˧qæ#˥
 \sf <nb="B"> 709
@@ -33169,7 +33197,7 @@
 \lc lv̩˧tsɯ˥
 \so <print="n"> F4
 \va <speaker="M18"> *
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Oven.
 \ge 炉子::oven
 \dn 炉子
@@ -33750,7 +33778,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Harness.
 \ge harness
 \dn 挽具
@@ -33773,7 +33801,7 @@
 \sd <langue="eng"> religion
 \ton LM+#H-
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
 \dn 嘛呢堆
@@ -33791,7 +33819,7 @@
 \sd <langue="eng"> religion
 \ton LM+#H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
 \ge Mani_pile
 \dn 嘛呢堆
@@ -33815,7 +33843,7 @@
 \va <speaker="M21"> mi˧pæ˧, ton d1; employé à la place du mot fourni par F4
 \vf le plus grand; sans interstices); sens vérifié d'après photo. Sans doute forme plus conservatrice, celle de F4 étant le fruit d'une harmonie vocalique?
 \va <speaker="M23"> mi˧pæ˧
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Large sifter.
 \ge large_sifter
 \dn 大筛子
@@ -33824,12 +33852,12 @@
 \gf vannerie
 \dt 24/Apr/2017
 
-\lx mɑ˧pʰV̩˧ xxxx
+\lx mɑ˧pʰɻ̩˧
 \sf <nb="B"> 392a
 \sf <nb="2011"> 491
 \or mepeu
 \ps n
-\lc mɑ˧pʰV̩˧
+\lc mɑ˧pʰɻ̩˧
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <langue="pumi" type="comp" print="n"> mu51 (??)
@@ -33841,6 +33869,7 @@
 \va <speaker="M18"> ID.
 \vf d'abord noté mæ˥ pʰv̩˥
 \vf vérifié: n'est ni mæ˥, ni mɤ˥
+\pdv ɭɯ˧β
 \va <speaker="M21"> mæ˧pʰv̩˧, ton d1; vérifié: n'est pas mɑ˧; bv̩˧mɤ˧, ton d1
 \de Butter.
 \ge butter
@@ -33880,7 +33909,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mæ˧ko˩
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tail.
 \ge tail
 \dn 尾巴
@@ -33926,7 +33955,7 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Coccyx.
 \ge coccyx
 \dn 尾椎骨
@@ -34294,16 +34323,18 @@
 \xf seau en bambou pour porter de l'eau (sur le dos)
 \dt 24/Apr/2017
 
-\lx mi˩ɬi˩-ʁo˩bV̩˥
+\lx mi˩ɬi˩-ʁo˩bʋ̩˥
 \sf <nb="B"> 2032
 \sf <nb="2011"> 3130
 \or milhiwobbu
+\et mi˩ɬi˩
+\et ʁo˧bʋ̩˧
 \ps n
-\lc mi˩ɬi˩ʁo˩bV̩˥
+\lc mi˩ɬi˩ʁo˩bʋ̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (tons confirmés en 2006 et 2007, n'est pas ˩˩˩˩˥)
-\np <langue="fra"> de: /ʁu˧bV̩˧/ “pousse", et “bambou"
+\np <langue="fra"> de: /ʁo˧bʋ̩˧/ “pousse", et “bambou"
 \ton L+H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -34316,7 +34347,6 @@
 \gn 竹笋
 \df Pousse de bambou.
 \gf pousse_de_bambou
-\dt 05/Aug/2017
 
 \lx ɕi˧zo#˥
 \or xisso rrrr
@@ -34404,7 +34434,7 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small sifter.
 \ge sifter
 \dn 小筛子
@@ -34437,19 +34467,19 @@
 \gf cicatrice
 \dt 24/Apr/2017
 
-\lx mi˩pʰV̩˩ xxxx
+\lx mi˩pʰɻ̩˩
 \sf <nb="B"> 2064
 \sf <nb="2011"> 3193
 \or mipu
 \ps n
-\lc mi˩pʰV̩˩˥
+\lc mi˩pʰɻ̩˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /ɲi/)
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> ɲi˩pʰV̩˩˧, ton d3; confirmé: n'est pas mi˩
+\va <speaker="M21"> ɲi˩pʰv̩˩˧, ton d3; confirmé: n'est pas mi˩
 \va <speaker="M23"> ID.
 \pdv dzi˩
 \de Nettle.
@@ -34644,7 +34674,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mo˧˥
 \de Mushroom.
 \ge mushroom
@@ -34717,11 +34747,11 @@
 \lc mɤ˧dɑ˩!
 \so <print="n"> F4
 \de Alas!
-\ge |fg{intj.alas}
+\ge |fg{intj}.alas!
 \dn 感叹词：唉呀！（自怨自艾的语气）
 \gn 感叹词.唉呀
 \df Hélas!
-\gf |fg{intj.hélas}
+\gf |fg{intj}.hélas!
 \dt 19/Jun/2017
 
 \lx mɤ˧-dɑ˩mi˩
@@ -34733,11 +34763,11 @@
 \lc mɤ˧dɑ˩mi˩!
 \so <print="n"> F4
 \de Alas!
-\ge |fg{intj.alas}
+\ge |fg{intj}.alas!
 \dn 感叹词：唉呀啊！（自怨自艾的语气）
 \gn 感叹词.唉呀啊
 \df Hélas!
-\gf |fg{intj.hélas}
+\gf |fg{intj}.hélas!
 \dt 24/Jul/2017
 
 \lx mɤ˧-dɑ˩qʰwɤ˩
@@ -34749,11 +34779,11 @@
 \lc mɤ˧dɑ˩qʰwɤ˩!
 \so <print="n"> F4
 \de Alas!
-\ge |fg{intj.alas}
+\ge |fg{intj}.alas!
 \dn 感叹词：唉呀啊！（自怨自艾的语气）
 \gn 感叹词.唉呀啊
 \df Hélas!
-\gf |fg{intj.hélas}
+\gf |fg{intj}.hélas!
 \dt 24/Jul/2017
 
 \lx mo˧ɖʐv̩˥
@@ -34828,7 +34858,7 @@
 \ton L#-
 \lc mo˧jo˩mi˩zo˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby owl, owlet.
 \ge baby_owl
 \dn 小的猫头鹰
@@ -34869,7 +34899,7 @@
 \lc mo˩kv̩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mushrooms that grows on fallen trunks, e.g. oaks.
 \ge 蘑菇::mushroom_of_fallen_trees
 \dn 蘑菇：长在倒在地上的树（如青冈等树木）上的菌子
@@ -34937,7 +34967,7 @@
 \ton H#
 \lc mo˧mo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Steamed bun.
 \ge steamed_bun
 \dn 馒头、包子
@@ -35102,7 +35132,7 @@
 \ton H#
 \lc mo˧qʰwɤ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Wooden shuttle of zip line (flying fox): it glides along the rope; the passenger, horse, or load of goods is tied to the shuttle.
 \ge shuttle_of_zip_line
 \dn 溜索上往返移动的木头梭
@@ -35119,7 +35149,7 @@
 \ton LM+#H
 \lc mo˩ɻ̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Black mushroom, ‘wood ear' (an edible fungus).
 \ge black_mushroom
 \dn 木耳
@@ -35525,7 +35555,7 @@
 \va <speaker="F5"> mv̩˧
 \vf <type="tone"> M
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sky.
 \ge sky
 \dn 天
@@ -35952,7 +35982,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> idem M23
 \va <speaker="M23"> mv̩˧gv̩˧dv̩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Instep, top part of the foot.
 \ge instep
 \dn 脚背
@@ -36015,7 +36045,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Clap of thunder.
 \ge clap_of_thunder
 \dn 雷、雷声
@@ -36159,7 +36189,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> bi˩pɑ˧, ton d6
 \vf sens confirmé); la périphrase mv̩˧mv̩˥di˩ “objet) qui sert à souffler" serait plutôt employée pour les instruments du fumeur
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bellows.
 \ge bellows
 \dn 风箱
@@ -36180,7 +36210,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Toe.
 \ge toe
 \dn 脚趾
@@ -36200,7 +36230,7 @@
 \ton LM
 \lc mv̩˩pʰæ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kitchen: the room where pig swill is cooked, wine is distilled, and some of the food for people is prepared.
 \ge kitchen
 \dn 备料房：煮猪食、煮酒的地方，有时候也在那边准备人的饭
@@ -36253,7 +36283,7 @@
 \ton L#
 \lc mv̩˧qo˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Papaya.
 \ge papaya
 \dn 木瓜
@@ -36302,7 +36332,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mv̩˧ʁu˧, ton d2a
 \vf mv̩˧ʁu˧ ɲi˥); réalisation en forme de citation différente de celle de F4: MM, non MH.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Heavens, sky.
 \ge heavens/sky
 \dn 天空
@@ -36730,7 +36760,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ɖʐu˩
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Mortar.
 \ge mortar
 \dn 臼
@@ -36840,7 +36870,7 @@
 \va <speaker="M18"> mv̩˧ɖʐu˩nv̩˩mi˩˧ “le cœur du mortier"
 \vf tons confirmés
 \va <speaker="M21"> gv̩˩nv̩˩˧, ton d3; en composition: mv̩˧ʈʂv̩˩gv̩˩nv̩˩; la périphrase avec “cœur" fournie par F4 s'emploierait pour un moulin, mais pas pour le pilon
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small pestle.
 \ge small_pestle
 \dn 杵
@@ -36993,7 +37023,16 @@
 \gn 枪
 \df Arme à feu, fusil; arquebuse.
 \gf fusil
-\dt 04/Sep/2015
+\xv hæ˧-mv̩˧ʐe#˥
+\xe (Han) Chinese gun
+\xn 汉枪，汉族的枪
+\xf fusil des Chinois (Han)
+\rf M21
+\xv ʁo˧dzɯ˩-mv̩˩ʐe˩
+\xe Tibetan gun
+\xn 藏枪，藏族的枪
+\xf fusil des Tibétains
+\rf M21
 
 \lx mv̩˧ʑi˩
 \or muxxi
@@ -37030,7 +37069,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv v̩˧
 \de Young lady.
 \ge young_lady
@@ -37700,7 +37739,7 @@
 \ton LM
 \so <print="n"> F4
 \vf emprunt
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pumpkin; cushaw.
 \ge 南瓜::pumpkin
 \dn 南瓜
@@ -37772,7 +37811,7 @@
 \gf très_sombre
 \dt 25/Apr/2017
 
-\lx nɑ˩pV̩˧-qʰwɤ˧ xxxx
+\lx nɑ˩pʋ̩˧-qʰwɤ˧
 \sf <nb="B"> 365a
 \sf <nb="2011"> 405
 \or nabukhua
@@ -37781,10 +37820,10 @@
 \sd <langue="eng"> society
 \nt <langue="pumi" type="comp" print="n"> næ̃22pu55qʰʌ35
 \ton LM-
-\lc nɑ˩pV̩˧qʰwɤ˧
+\lc nɑ˩pʋ̩˧qʰwɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> *
-\va <speaker="M21"> nɑ˩pV̩˧kʰwɤ˧
+\va <speaker="M21"> nɑ˩pv̩˧kʰwɤ˧
 \vf +ɲi˩
 \de Emperor (borrowed from the Mongolian?).
 \ge emperor
@@ -37792,11 +37831,10 @@
 \gn 皇帝
 \df Empereur (emprunt au mongole?).
 \gf empereur
-\xv ʈʂʰɯ˧ | nɑ˩pʰV̩˧-qʰwɤ˧-ni˩gv̩˩!
+\xv ʈʂʰɯ˧ | nɑ˩pʋ̩˧-qʰwɤ˧-ni˩gv̩˩!
 \xe He's got an empereror's looks! / He thinks he's the emperor! (Mocking someone who thinks he or she can impose his/her decisions to everyone, who thinks (s)he is a great leader.)
 \xn 他摆出做皇帝的样子！ / 他以为他是皇帝吧！（嘲笑一个自以为是的人）
 \xf Il vous prend des airs d'empereur! / Il se prend pour l'empereur! (Façon de se moquer d'un personnage qui veut en imposer à tous, qui se prend pour un grand chef.)
-\dt 09/Sep/2015
 
 \lx næ˩-qʰæ˥ʈʂʰe˩
 \sf <nb="2011"> 1390
@@ -38256,20 +38294,20 @@
 \xf un jour
 \dt 25/Apr/2017
 
-\lx ɲi˩bV̩˩ xxxx
+\lx ɲi˩bɻ̩˩
 \sf <nb="2011"> 2801
 \or nibbu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> (voyelle /i/ confirmée, tons confirmés)
-\nt <type="hist" langue="fra" print="n"> ton d3 (njɤ˩bV̩˩ɲi˧)
+\nt <type="hist" langue="fra" print="n"> ton d3 (njɤ˩bv̩˩ɲi˧)
 \ton L
-\lc ɲi˩bV̩˩˥
+\lc ɲi˩bɻ̩˩˥
 \so <print="n"> F4
-\va <speaker="F5"> njɤ˩bV̩˩
+\va <speaker="F5"> njɤ˩bv̩˩
 \vf <type="tone"> L
-\va <speaker="M18"> ts: nju˩bV̩˩ʂe˩sɑ˧
+\va <speaker="M18"> ts: nju˩bv̩˩ʂe˩sɑ˧
 \va <speaker="M21"> id
 \pdv mi˩
 \de Grasshopper, cricket.
@@ -38278,9 +38316,8 @@
 \gn 蟋蟀
 \df Criquet.
 \gf criquet
-\dt 09/Sep/2015
 
-\lx ɲi˩bV̩˩-ʂe˩sɑ˧
+\lx ɲi˩bɻ̩˩-ʂe˩sɑ˧
 \sf <nb="B"> 1843
 \sf <nb="2011"> 2799
 \or nibbusheisa
@@ -38289,7 +38326,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> (ne connaît pas le mot de M23)
 \ton -LM
-\lc ɲi˩bV̩˩ʂe˩sɑ˥
+\lc ɲi˩bɻ̩˩ʂe˩sɑ˥
 \so <print="n"> F4
 \va <speaker="F5"> *
 \pdv mi˩
@@ -38299,7 +38336,6 @@
 \gn 蜻蜓
 \df Libellule.
 \gf libellule
-\dt 01/Aug/2017
 
 \lx ɲi˧dʑɯ#˥
 \sf <nb="B"> 200
@@ -38314,7 +38350,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Penis.
 \ge penis
 \dn 男生殖器
@@ -38331,7 +38367,7 @@
 \ton H#
 \lc ni˧fv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de A very large bag, either made of leather (to carry products over long distances by caravan) or of linen (to wrap up a corpse for temporary inhumation).
 \ge large_bag
 \dn 大包：用来包装物品的皮包（马帮用的），或者来装尸体的麻布包（为了在火葬前暂时存放尸体）
@@ -38380,7 +38416,7 @@
 \lc ɲi˧gɤ˧dʑɯ˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ɲi˧gɤ˧ dʑi˧ ʈʰɤ˥ʈʰɤ˩
-\va <speaker="M18"> ɲi˧gɤ˧pV̩˧: morve sèche, crottes de nez; ɲi˧gɤ˧ʈʂʰv̩˩: morve liquide
+\va <speaker="M18"> ɲi˧gɤ˧pv̩˧: morve sèche, crottes de nez; ɲi˧gɤ˧ʈʂʰv̩˩: morve liquide
 \va <speaker="M21"> ɲi˧gɤ˧dʑi˥
 \vf schéma tonal inattendu: on attendrait un type d2a: †ɲi˧gɤ˧dʑi˧, †ɲi˧gɤ˧dʑi˧ɲi˥
 \de Nasal mucus, snivel.
@@ -38404,7 +38440,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nose.
 \ge nose
 \dn 鼻子
@@ -38465,7 +38501,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sun.
 \ge sun
 \dn 太阳
@@ -38689,27 +38725,27 @@
 \xf un jour propice
 \dt 21/Jun/2017
 
-\lx ɲi˩pʰV̩˩ xxxx
+\lx ɲi˩pʰɻ̩˩
 \or nipu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="sem" langue="fra"> Identifié comme |fn{野牡丹} dans Li Dazhu et al. (2015: 98), mais cette identification n'est pas la bonne
+\nt <type="sem" langue="fra">
 \ton L
-\lc ɲi˩pʰV̩˩˥
+\lc ɲi˩pʰɻ̩˩˥
 \so <print="n"> F4
-\de A mountain plant; the consultant proposes this term for water mint, |fi{Mentha aquatica}, |fi{Mentha hirsuta Huds.} but this is unlikely to be the correct identification.
+\de A mountain plant; the consultant proposes this term when presented with images of water mint, |fi{Mentha aquatica}, |fi{Mentha hirsuta Huds.} but this is unlikely to be the correct identification. Li Dazhu et al. (2015: 98) identify the plant as  |fn{野牡丹}, i.e. |fi{Melastomacandidum D. Don}, but this identification does not appear to be correct either.
 \ge plant_sp
-\dn 一种植物。合作人看水薄荷的图片就觉得像这种植物，但很可能不是。李达珠等（2015：98）翻译为“野牡丹”但这好像也不准确。
+\dn 一种山地植物；发音合作人在看到水薄荷（|fi{Mentha aquatica}，|fi{Mentha hirsuta Huds.}）的图像时提出了这一名称，但这不太可能是正确的鉴定。李达珠等（2015: 98）将该植物识别为野牡丹，即|fi{Melastomacandidum D. Don}，但这一鉴定似乎也不正确。
 \gn 一种植物
-\df Une plante de montagne; la locutrice pense la reconnaître sur une photo de menthe aquatique, |fi{Mentha aquatica}, |fi{Mentha hirsuta Huds.} mais ce n'est vraisemblablement pas la bonne identification.
+\df Une plante de montagne; la locutrice pense la reconnaître sur une photo de menthe aquatique, |fi{Mentha aquatica}, |fi{Mentha aquatica var. hirsuta (Huds.)}, mais ce n'est vraisemblablement pas la bonne identification.
 \gf menthe_aquatique
-\xv ɲi˩pʰV̩˩-bæ˥bæ˩
-\xe the flower of this plant
-\xn 这种植物的花
-\xf la fleur de cette plante
+\xv ɲi˩pʰɻ̩˩-bæ˥bæ˩, | mɤ˧-dʑo˧!
+\xe There is no such thing as nipu flowers!
+\xn 这种植物，没有花！／这种植物的花，是不存在的！
+\xf la fleur de nipu, ça n'existe pas !
 
-\lx ɲi˧pʰV̩˩ xxxx
+\lx ɲi˧pʰɻ̩˩
 \sf <nb="B"> 16
 \sf <nb="2011"> 27
 \or nipeu
@@ -38718,7 +38754,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra" print="n"> (tons confirmés, d'abord noté ˥ ˩ ˧ ˩ puis ˥ ˩ ˩ ˩)
 \ton L#
-\lc ɲi˧pʰV̩˩
+\lc ɲi˧pʰɻ̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -38729,7 +38765,7 @@
 \gn 霜
 \df Givre.
 \gf givre
-\xv ɲi˧pʰV̩˩ lɑ˩-ze˩
+\xv ɲi˧pʰɻ̩˩ lɑ˩-ze˩
 \xe there is some frost
 \xn 有霜
 \xf il y a du givre
@@ -38751,7 +38787,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nostril.
 \ge nostril
 \dn 鼻孔
@@ -38847,7 +38883,7 @@
 \ton MH#
 \lc ɲi˧ʈʂæ˧ʑi˧˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The building inside the farm where the bedrooms are located, and a living-room (downstairs in the centre). Literally ‘the two-floor building', as this is the only building that has rooms on two floors.
 \ge two_floor_building
 \dn 二层房：农场里面的一栋楼，正对着农场大门
@@ -39145,11 +39181,10 @@
 \xn 那条鱼
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
-\xv ɲi˧zo˧-tɑ˧pV̩˥
+\xv ɲi˧zo˧-tɑ˧pɻ̩˥
 \xe dried fish
 \xn 干鱼
 \xf poisson séché
-\dt 09/Sep/2015
 
 \lx ɲi˩α
 \sf <nb="B"> 1428
@@ -39310,7 +39345,7 @@
 \ton LM
 \lc njæ˩pʰɻ̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de White of the eye.
 \ge white_of_the_eye
 \dn 白眼球
@@ -39639,7 +39674,7 @@
 \ton LH
 \lc njɤ˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Eye (monosyllable).
 \ge eye
 \dn 眼睛（单音节）
@@ -39773,7 +39808,7 @@
 \vf phonèmes: sans doute /ny/ ou /ŋy/
 \va <speaker="M21"> nv̩˩bi˥, ton d6; dit aussi: ɲy˩bi˥; se corrige ensuite en: njɤ˩bi˥, puis, le 14 mai, en: nju˩bi˥
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Breast.
 \ge breast
 \dn 乳房
@@ -39804,7 +39839,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> njɤ˩ bi˩˥
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Eyelid (top eyelid).
 \ge top_eyelid
 \dn 上眼皮
@@ -39832,7 +39867,7 @@
 \vf b) ɲi˧tsʰe˧
 \vf voyelle /i/ confirmée, tons confirmés
 \va <speaker="M21"> nv̩˧bi˧li˥ +ɲi˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lips.
 \ge lips
 \dn 嘴唇
@@ -39877,7 +39912,7 @@
 \lc njɤ˩gɤ˧lɑ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Eyeball.
 \ge eyeball
 \dn 眼珠
@@ -39953,7 +39988,7 @@
 \ton L#
 \lc njɤ˧kv̩˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cheekbone.
 \ge cheekbone
 \dn 颧骨
@@ -40060,7 +40095,7 @@
 \va <speaker="M18"> njɤ˩lv̩˧, ton d6
 \va <speaker="M21"> njɤ˩lv̩˧, ton d6
 \vf n'est pas lɯ
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Eye.
 \ge eye
 \dn 眼睛
@@ -40127,7 +40162,7 @@
 \ton L#
 \lc njɤ˧nɑ˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Eyeball.
 \ge eyeball
 \dn 眼珠
@@ -40149,7 +40184,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> ɲi˩pɤ˩lv̩˥
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Udder.
 \ge udder
 \dn 牛的奶头
@@ -40174,7 +40209,7 @@
 \vf “os de l'oeil"
 \vf b) njɤ˩ kʶwɑ˥, ou ˩˩˥, M18 hésite
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Orbit; eye socket.
 \ge orbit
 \dn 眼眶
@@ -40262,14 +40297,14 @@
 \xf c'est toi!
 \dt 25/Apr/2017
 
-\lx no˩bV̩˧ xxxx
+\lx no˩bʋ̩˧
 \or Nobbu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" langue="fra" print="n"> avant juin 2012: noté †no˧bV̩˥
+\nt <type="hist" langue="fra" print="n"> avant juin 2012: noté †no˧bv̩˥
 \ton LM
-\lc no˩bV̩˥
+\lc no˩bʋ̩˥
 \so <print="n"> F4
 \de Nobbu, a masculine given name.
 \ge Nobbu
@@ -40937,7 +40972,7 @@
 \va <speaker="M18"> nv̩˩mi˩˥
 \vf d'abord noté nv̩˧mi˩˥
 \va <speaker="M21"> ID.; propose /nv̩˩mi˩-tsɯ˧/ pour “pouls" 手脉
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Heart.
 \ge heart
 \dn 心脏
@@ -41131,7 +41166,7 @@
 \ton H#
 \lc nv̩˧tv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nosebag.
 \ge nosebag
 \dn （挂在马脖子下面的）饲料袋子、马粮袋子
@@ -41217,7 +41252,7 @@
 \ton M
 \lc ŋwæ˧qʰv̩˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Oven to make tiles.
 \ge tile_oven
 \dn 烧瓦的烤炉
@@ -41345,7 +41380,7 @@
 \ton LM+#H-
 \lc ŋwɤ˩ɭɯ˧tse˥pʰæ˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kneebone.
 \ge kneebone
 \dn 膝盖骨
@@ -41367,7 +41402,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> ŋwɤ˩ɬv̩˧˥, ton d5a
 \va <speaker="M23"> ŋwɤ˩ɬv̩˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cartilages of the knee; literally “marrow of the knee". This expression emphasizes the fragility of this articulation.
 \ge knee
 \dn 膝盖（直译：“膝盖髓”）。这个说法强调膝盖的脆弱。
@@ -41422,7 +41457,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Knee.
 \ge knee
 \dn 膝盖
@@ -41460,7 +41495,7 @@
 \ton M
 \lc ŋwɤ˧ʈʂwæ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv pʰæ˧˥
 \de Tile and brick: characterization of the main materials used for Chinese-style house construction.
 \ge 瓦砖::tile_and_brick
@@ -41477,7 +41512,7 @@
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> (njɤ˥) ũ˧bV̩˥ũ˩ (en 2006: noté ˧˥˧) (confirmé; vérifié en 2007: est bien la même syllabe avant et après /bv/)
+\nt <type="hist" langue="fra" print="n"> (njɤ˥) ũ˧bv̩˥ũ˩ (en 2006: noté ˧˥˧) (confirmé; vérifié en 2007: est bien la même syllabe avant et après /bv/)
 \nt <type="hist" langue="fra" print="n"> (+ũ˩, cette dernière syllabe paraît moins nasalisée que la première)
 \np <langue="fra"> d'abord interprété comme //õ˥//, au vu du comportement qd suivi d'un nom.
 \ton MH
@@ -41486,7 +41521,7 @@
 \va <speaker="F5"> ũ˧=bʋ̩˥
 \va <speaker="M18"> njɤ˧ ũ˧bu˥ ɻ̩˩
 \va <speaker="M21"> ID.
-\va <speaker="M23"> njɤ˧ ũ˧bV̩˥ɳɯ˩
+\va <speaker="M23"> njɤ˧ ũ˧bv̩˥ɳɯ˩
 \de (one)self.
 \ge (one)self
 \dn 自己
@@ -41744,7 +41779,7 @@
 \va <speaker="F5"> ID.; mais emploie maintenant le mot chinois
 \va <speaker="M18"> ũ˧ʈʂwɤ˧kv̩˧dʑi˧˥
 \vf d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; M18 se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mosquito net.
 \ge mosquito_net
 \dn 蚊帐
@@ -41964,7 +41999,7 @@
 \ton #H
 \lc pæ˧kʰwɤ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Silver coin of the imperial times.
 \ge silver_coin
 \dn 民国之前的银币
@@ -42075,7 +42110,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Face.
 \ge face
 \dn 脸
@@ -42233,7 +42268,7 @@
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bench, stool.
 \ge bench
 \dn 板凳
@@ -42255,7 +42290,7 @@
 \so <print="n"> F4
 \vf périphrase) *
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Washbasin, basin to wash one's face.
 \ge washbasin
 \dn 脸盆，木盆
@@ -42334,11 +42369,11 @@
 \ton 0
 \so <print="n"> F4
 \de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says "pei!", then explains that the matter at issue is not a big deal.
-\ge |fg{intj.pooh}
+\ge |fg{intj}.pooh!
 \dn 呸！（表示唾弃的感叹词）。如：表示对方认为很严重的事情，其实没什么大不了的，会用‘呸！’这个叹词。
 \gn 感叹词.呸
 \df Mais pas du tout! Mais non, enfin! Interjection par laquelle le locuteur signale qu'il reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'il va rectifier.
-\gf |fg{intj.pas_du_tout}
+\gf |fg{intj}.pas_du_tout!
 
 \lx pe˧ʂe˧
 \or beishei
@@ -42567,7 +42602,7 @@
 \vf emprunt
 \va <speaker="M21"> emprunt: pʰi˩ku˥
 \vf prononce “bien", avec la nasale: pʰiŋ˩ku˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Apple.
 \ge 苹果::apple
 \dn 苹果
@@ -42587,7 +42622,7 @@
 \nt <type="hist" langue="fra" print="n"> observation de Roselle Dobbs: ce serait /pʰi˧kʰv̩˧/: initiale de 1e syll. aspirée. Réponse 2016 : OUI. Modifié en fonction.
 \ton M
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Dustpan, wicker scoop, dirt-scooping implement.
 \ge dustpan
 \dn 畚箕
@@ -42719,7 +42754,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> pʰi˧mu˩: grand objet pour vanner; cf aussi 1 et 6 de l'entrée 596
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Winnowing fan.
 \ge winnowing_fan
 \dn 簸箕(用来簸粮食等)
@@ -42763,7 +42798,7 @@
 \ton L
 \lc pi˩mv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de |fi{Fritillaria cirrhosa}.
 \ge 贝母::Fritillaria_cirrhosa
 \dn 贝母
@@ -42795,7 +42830,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (+ɲi˩, +bV̩˩) (notes avant 2009: “pi˩ɻ̩˧˥, ton d8?? (ʈʂʰɯ˧ pi˩ɻ̩˧˥ ɲi˩) (avant 2009: noté: pi˩ ɻ̩˥ (confirmé), ton d6)")
+\nt <type="hist" langue="fra" print="n"> (+ɲi˩, +bv̩˩) (notes avant 2009: “pi˩ɻ̩˧˥, ton d8?? (ʈʂʰɯ˧ pi˩ɻ̩˧˥ ɲi˩) (avant 2009: noté: pi˩ ɻ̩˥ (confirmé), ton d6)")
 \ton LH
 \lc pi˩ɻ̩˥
 \so <print="n"> F4
@@ -42803,7 +42838,7 @@
 \va <speaker="M18"> pi˩ɻ̩˧˥
 \vf d'abord noté pi˩ ɻ̩˧
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Double chin; flesh under the chin.
 \ge double_chin
 \dn 双下巴
@@ -42859,7 +42894,7 @@
 \ton LM+#H
 \lc pi˩ti˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Silver nugget, piece of raw silver.
 \ge silver_nugget
 \dn 银块
@@ -43576,12 +43611,12 @@
 \lc pɤ˩jɤ˧bʋ̩˥di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (tons corrigés en 2007; avaient été notés par erreur, en 2006, “ ˩˧˥˧: pɤ˩jɤ˧+ bV̩˩˥ ; donne ˩˧˥ (régulier) + ajout suffixe di˧")
+\nt <type="hist" langue="fra" print="n"> (tons corrigés en 2007; avaient été notés par erreur, en 2006, “ ˩˧˥˧: pɤ˩jɤ˧+ bv̩˩˥ ; donne ˩˧˥ (régulier) + ajout suffixe di˧")
 \ton LM+H#-
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Steamer used for bread (buns).
 \ge steamer_for_buns
 \dn 用来蒸面团（馒头等等）的蒸笼
@@ -43674,7 +43709,7 @@
 \sd <langue="eng"> body
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nape of neck.
 \ge nape
 \dn 项背 、项、脖颈儿
@@ -43723,11 +43758,11 @@
 \xe female frog and male frog
 \xn 母青蛙与公青蛙
 \xf grenouille femelle et grenouille mâle
-\xv pɤ˩mi˩-ʝi˥pʰV̩˩
+\xv pɤ˩mi˩-ʝi˥pʰV̩˩ xxxx
 \xe A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}.
 \xn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。
 \xf grosse grenouille (ou crapaud); animal très courant dans la plaine. C'est l'une des trois sortes de grenouilles que connaît la locutrice. Cet animal n'est pas consommé par les Naxi (ni par les Na, qui ne mangent aucune grenouille). La locutrice emploie ce terme pour |fi{Kaloula verrucosa} et |fi{Rana chaochiaoensis}.
-\xv pɤ˩mi˩-ʝi˥pʰV̩˩-mi˩
+\xv pɤ˩mi˩-ʝi˥pʰV̩˩-mi˩ xxxx
 \xe same meaning
 \xn 同上
 \xf même sens
@@ -43778,7 +43813,7 @@
 \va <speaker="F5"> ID.+emprunt
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ball.
 \ge ball
 \dn 球
@@ -43801,7 +43836,7 @@
 \sd <langue="eng"> plant
 \ton MH#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cabbage.
 \ge 包包菜::cabbage
 \dn 圆白菜
@@ -44000,7 +44035,7 @@
 \vf <type="tone"> L
 \va <speaker="M18"> pɤ˧ti˥
 \va <speaker="M21"> pɤ˩ti˧˥, ton d5a
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stool, small bench.
 \ge stool/bench
 \dn 凳子
@@ -44078,7 +44113,7 @@
 \ton L
 \lc pʰɤ˩zo˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby jackal.
 \ge baby_jackal
 \dn 豺崽子
@@ -44265,7 +44300,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
 \nt <type="sem" langue="fra"> (sens: s'enfuir; mais selon M23 cela désigne aussi bien le jogging que certains font le matin)
-\np <langue="fra"> n'est pas pʰV̩˩˥; est différent de 1600 “s'agiter"
+\np <langue="fra"> n'est pas pʰv̩˩˥; est différent de 1600 “s'agiter"
 \ton Lα
 \lc pʰo˩˥
 \so <print="n"> F4
@@ -44347,6 +44382,7 @@
 
 \lx pʋ̩˧
 \sf <nb="2011"> 1985
+\hm 1
 \or bu
 \ps v
 \sd <langue="fra"> verbe
@@ -44379,7 +44415,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (d'abord noté au ton 4, par erreur)
 \nt <type="sem" langue="fra"> aussi pour: aliment épais, collant
-\np <langue="fra"> le˧-pV̩˧-ze˧: phonétiquement proche de: ljæ˧-pV̩˧-ze˧; pV̩˧-kæ˧-ɻæ˩-gv̩˩: phonétiquement: allongement de la rime de /kæ/, pas de [ɻ] perceptible sauf en débit très soigné
+\np <langue="fra"> le˧-pv̩˧-ze˧: phonétiquement proche de: ljæ˧-pv̩˧-ze˧; pv̩˧-kæ˧-ɻæ˩-gv̩˩: phonétiquement: allongement de la rime de /kæ/, pas de [ɻ] perceptible sauf en débit très soigné
 \ton M
 \lc pɻ̩˧
 \so <print="n"> F4
@@ -44412,7 +44448,7 @@
 \xf bois sec
 
 \lx pʋ̩˧
-\hm 3 yyyy sera soit avec les v1 soit avec les v2
+\hm 2
 \or bu
 \ps v
 \sd <langue="fra"> verbe
@@ -44611,7 +44647,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> vérifié: mv̩˩tɕu˧pʰV̩˧˥: n'est pas pʰV̩˥
+\nt <type="hist" langue="fra" print="n"> vérifié: mv̩˩tɕu˧pʰv̩˧˥: n'est pas pʰv̩˥
 \ton MH
 \lc pʰʋ̩˧˥
 \so <print="n"> F4
@@ -44638,6 +44674,10 @@
 \xn 倒垃圾
 \xf jeter des ordures
 \rf F5
+\xv dʑɯ˩so˩ pʰʋ̩˩˥
+\xe there is a wave, a wave breaks
+\xn 有波浪
+\xf il y a une vague, une vague déferle
 
 \lx pʰʋ̩˧˥
 \sf <nb="B"> 1227
@@ -44647,7 +44687,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (d'abord noté tse˥pʰV̩˧, par erreur) (d'abord noté /tse/ et non /tsɤ/)
+\nt <type="hist" langue="fra" print="n"> (d'abord noté tse˥pʰv̩˧, par erreur) (d'abord noté /tse/ et non /tsɤ/)
 \np <langue="fra"> sens: “retourner"
 \ton MH
 \lc pʰʋ̩˧˥
@@ -44709,18 +44749,18 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lβ
-\lc pʰV̩ɻ˩˥
+\lc pʰɻ̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To multiply, to get numerous, to expand (the family grows through successive births).
+\de To multiply, to get numerous, to expand (the family grows through successive births). The term does not describe dispersion, but growth (which naturally tends to be accompanied by spatial expansion).
 \ge to_multiply
-\dn 繁殖：通过连续生育，家庭增加新成员。
+\dn 繁殖：通过连续生育，家庭增加新成员。这个词描述的不是分散，而是增长（自然会伴随着空间扩展）。
 \gn 繁殖
-\df Croître, se multiplier, connaître une expansion (la famille s'étend: elle gagne de nouveaux membres, par des naissances successives).
+\df Croître, se multiplier, connaître une expansion (la famille s'étend: elle gagne de nouveaux membres, par des naissances successives). Le terme ne décrit pas une dispersion, mais une croissance (qui tend naturellement à s'accompagner d'une expansion dans l'espace).
 \gf se_multiplier
 \xv zo˧mv̩˥ | tʰi˧-pʰɻ̩˩
-\xe children multiply, many children are born
+\xe children multiply, many children are born; other meaning
 \xn 孩子多了（多子多福）
 \xf les enfants se multiplient, il naît de nombreux enfants
 
@@ -44820,7 +44860,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Blanket.
 \ge blanket
 \dn 被子
@@ -44840,11 +44880,11 @@
 \lc pʋ̩˩ɭɯ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> pV̩˩lɯ˧, ton d6
+\va <speaker="M18"> pv̩˩lɯ˧, ton d6
 \vf d'abord noté ˩ ˥
-\va <speaker="M21"> pV̩˩lɯ˧, ton d6
+\va <speaker="M21"> pv̩˩lɯ˧, ton d6
 \vf d'abord noté ˩ ˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Button.
 \ge button
 \dn 扣子
@@ -44861,7 +44901,7 @@
 \lc pʋ̩˧ɭɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (tons confirmés; d'abord noté tʰe˧pV̩˧lv̩˧; confirmé: n'est pas lv̩˧)
+\nt <type="hist" langue="fra" print="n"> (tons confirmés; d'abord noté tʰe˧pv̩˧lv̩˧; confirmé: n'est pas lv̩˧)
 \np <langue="fra"> cognat du naxi
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -44892,7 +44932,7 @@
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" langue="fra" print="n"> avant 2007: noté †/pʰV̩˥ɭɯ˥ tʰæ˧ kʶwɤ˥/, †/HHML/
+\nt <type="hist" langue="fra" print="n"> avant 2007: noté †/pʰv̩˥ɭɯ˥ tʰæ˧ kʶwɤ˥/, †/HHML/
 \nt <type="sem" langue="fra"> Selon f4, ce n'est pas un vêtement usuel.
 \np <langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
 \ton H#
@@ -44900,7 +44940,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> sv̩˧ʈʰæ˧kʰwɤ˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Woolen skirt. (Not in common use in Yongning.).
 \ge woolen_skirt
 \dn 羊毛裙子
@@ -44919,7 +44959,7 @@
 \lc pʰʋ̩˧ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tibetan wool fabric.
 \ge wool_fabric
 \dn 氆氇
@@ -44938,7 +44978,7 @@
 \ton M
 \lc pɻ̩˧lv̩˧
 \so <print="n"> F4
-\va <speaker="M18"> pV̩˧ kæ:˧ lv̩˧
+\va <speaker="M18"> pv̩˧ kæ:˧ lv̩˧
 \vf allongement: non élucidé
 \pdv pʰɻ̩˩
 \de Nonirrigated farmland; dry land.
@@ -44961,7 +45001,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Comb (coarse).
 \ge coarse_comb
 \dn 粗齿梳子
@@ -44972,7 +45012,7 @@
 \lx pʋ̩˧qʰwɤ˥
 \or bukhua
 \ps n
-\cf kʰɯ˩pV̩˩
+\cf kʰɯ˩pɻ̩˩
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \ton H#
@@ -44981,7 +45021,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Shuttle on a weaving loom (traditional shuttle made of wood).
 \ge shuttle
 \dn 梭，梭子（传统的，木头做的）
@@ -44993,7 +45033,7 @@
 \xn 织布机的梭子
 \xf la navette du métier à tisser
 
-\lx pɻ̩˧ɻ̩#˥
+\lx pʋ̩˧ɻ̩#˥
 \sf <nb="B"> 426
 \sf <nb="2011"> 541
 \or bu'er
@@ -45002,14 +45042,15 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra" print="n"> (/pv/: vérifié: non aspiré)
+\nt <type="hist" langue="fra" print="n"> En 2024, classé parmi les "V2" (pɻ̩˧ɻ̩#˥), puis corrigé en: pʋ̩˧ɻ̩#˥.
 \ton #H
-\lc pɻ̩˧ɻ̩˧
+\lc pʋ̩˧ɻ̩˧
 \so <print="n"> F4
-\va <speaker="F5"> pʰV̩˧ɭɯ˧bɑ˩lɑ˩
-\va <speaker="M18"> pʰV̩˩ ɻ̩˩˥
+\va <speaker="F5"> pʰv̩˧ɭɯ˧bɑ˩lɑ˩
+\va <speaker="M18"> pʰv̩˩ ɻ̩˩˥
 \vf tons vérifiés; d'abord noté ˩˥) tons à vérifier
-\vf d'abord noté pʰV̩˩lv̩˩˥
-\va <speaker="M21"> ID.; pʰV̩˩bɑ˩lɑ˧ +ɲi˩
+\vf d'abord noté pʰv̩˩lv̩˩˥
+\va <speaker="M21"> ID.; pʰv̩˩bɑ˩lɑ˧ +ɲi˩
 \pdv tsʰi˥
 \de Tibetan wool fabric.
 \ge Tibetan_wool_fabric
@@ -45032,7 +45073,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vf D'après M21, le terme désignerait des variétés de jade.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Amber.
 \ge amber
 \dn 琥珀
@@ -45075,7 +45116,7 @@
 \lc pɻ̩˩tɑ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bucket, pail.
 \ge bucket/pail
 \dn 桶
@@ -45092,7 +45133,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> donne: pʰV̩˩tɕæ˩ɻæ˧gv̩˩ (notation 2007; avais d'abord noté ɻ̩˩˥); ex.: le visage est blanc: pʰæ˧qʰwɤ˩ pʰɻ̩˩tɕæ˩ɻæ˧gv̩˩ (tons vérifiés en 2009, n'est pas /pʰɻ̩˩tɕæ˩˧/, ni /gv̩˧/)
+\nt <type="hist" langue="fra" print="n"> donne: pʰv̩˩tɕæ˩ɻæ˧gv̩˩ (notation 2007; avais d'abord noté ɻ̩˩˥); ex.: le visage est blanc: pʰæ˧qʰwɤ˩ pʰɻ̩˩tɕæ˩ɻæ˧gv̩˩ (tons vérifiés en 2009, n'est pas /pʰɻ̩˩tɕæ˩˧/, ni /gv̩˧/)
 \nt <type="sem" langue="fra"> de: pʰɻ̩˩ ‘blanc'
 \ton L+H#
 \lc pʰɻ̩˩tɕæ˩ɻæ˥
@@ -45163,7 +45204,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Fine comb (used to comb out lice).
 \ge fine_comb
 \dn 篦子（用来梳虱子）
@@ -45188,7 +45229,7 @@
 \ton HL
 \lc pɻ̩˧ʈʂɯ˩
 \so <print="n"> F4
-\va <speaker="M21"> pV̩˥ʈʂɯ˩, læ˧ pV̩˥ʈʂɯ˩ ze˩
+\va <speaker="M21"> pv̩˥ʈʂɯ˩, læ˧ pv̩˥ʈʂɯ˩ ze˩
 \va <speaker="M23"> ʐv̩˧ʐv̩˥
 \de To press, to squeeze.
 \ge to_press
@@ -45234,7 +45275,7 @@
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton LM
-\lc pV̩˩ʈʰɯ˥
+\lc pʋ̩˩ʈʰɯ˥
 \so <print="n"> F4
 \de Butee, a feminine given name.
 \ge Butee
@@ -45248,7 +45289,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> avant août 2012: noté: /dʑi˧pʰV̩#˥/, mais ce terme n'est pas correct
+\nt <type="hist" langue="fra" print="n"> avant août 2012: noté: /dʑi˧pʰv̩#˥/, mais ce terme n'est pas correct
 \ton H#
 \lc pʰʋ̩˧tv̩˥
 \so <print="n"> F4
@@ -45272,17 +45313,17 @@
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
 \or puro
-\et pʰV̩˧2
+\et pʰʋ̩˧2
 \et ʐo˩α2
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (corrigé en mai 2008; avais d'abord noté ˧ ˥; vérifié: n'est pas pʰV̩˧ʐu˥)
+\nt <type="hist" langue="fra" print="n"> (corrigé en mai 2008; avais d'abord noté ˧ ˥; vérifié: n'est pas pʰv̩˧ʐu˥)
 \nt <type="hist" langue="fra" print="n"> (comme dans 967 “léger"; confirmé en 2007)
 \ton MH#
 \lc pʰʋ̩˧ʐo˧˥
 \so <print="n"> F4
-\va <speaker="F5"> pʰV̩˧ʐu˥
+\va <speaker="F5"> pʰv̩˧ʐu˥
 \va <speaker="M21"> ID.
 \de Cheap.
 \ge cheap
@@ -45981,13 +46022,13 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf a) bV̩˩ko˩ bV̩˥kʶæ˧
+\vf a) bv̩˩ko˩ bv̩˥kʶæ˧
 \vf excréments de l'étable
 \vf tons: ˩˩˧˧?
-\vf b) ʐwæ˧bV̩˥ko˩bV̩˥kʶæ˥
+\vf b) ʐwæ˧bv̩˥ko˩bv̩˥kʶæ˥
 \vf tons de bv à vérifier ds cette expression
-\vf c) ʐwæ˧bV̩˥ʐwæ˧kʶæ˧, fumier de cheval
-\vf d) i˥bV̩˥i˥kʶæ˧, fumier de vache
+\vf c) ʐwæ˧bv̩˥ʐwæ˧kʶæ˧, fumier de cheval
+\vf d) i˥bv̩˥i˥kʶæ˧, fumier de vache
 \va <speaker="M21"> ID.
 \pdv pɤ˥
 \de Excrement, dung, droppings.
@@ -46263,7 +46304,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʶæ˧bæ˩˥
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Spoon, used for salt, tsamba… It corresponds to European teaspoons and tablespoons.
 \ge spoon
 \dn 调羹
@@ -46395,7 +46436,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰɑ˧dze˧mv̩˧di˧˥
-\pdv pʰV̩˩
+\pdv pʰʋ̩˩α
 \de Maize field.
 \ge maize field, sweetcorn field
 \dn 包谷田、玉米田
@@ -46476,7 +46517,7 @@
 \ton #H
 \lc qʰæ˧kʰwɤ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small dam (in canal; made of stones and earth).
 \ge small_dam
 \dn 小水坝，来堵塞田地里的小水渠
@@ -46765,11 +46806,10 @@
 \xe completely dry
 \xn 充分干燥
 \xf complètement sec
-\xv le˧-pV̩˧-zo˩, | qʰɑ˧ʈʂʰɤ˧ʈʂʰɤ˥-gv̩˩-ze˩!
+\xv le˧-pɻ̩˧-zo˩, | qʰɑ˧ʈʂʰɤ˧ʈʂʰɤ˥-gv̩˩-ze˩!
 \xe Now it is dry: completely dry!
 \xn 现在，干了：全干了！
 \xf c'est maintenant sec, et complètement sec!
-\dt 27/Apr/2017
 
 \lx qʰæ˧tv̩˧
 \sf <nb="B"> 199
@@ -46783,7 +46823,7 @@
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Anus.
 \ge anus
 \dn 肛门
@@ -47309,7 +47349,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩dv̩˧˥, ton d5
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hammer; typically a large wood hammer.
 \ge hammer
 \dn 大锤子
@@ -47333,7 +47373,7 @@
 \ton LM+MH#
 \lc qo˩ho˧˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Round wicker/bamboo box used to carry gifts.
 \ge gift_box
 \dn 礼盒
@@ -47374,7 +47414,7 @@
 \lc qʰo˧lo˧
 \nt <type="hist" langue="fra" print="n"> D'abord noté /kʰo˥lo˥/, puis /qʰu˧lo˧/.
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Wheel.
 \ge wheel
 \dn 轮子
@@ -47393,7 +47433,7 @@
 \ton LM+#H-
 \lc mɑ˩ɳɯ˧qʰo˥lo˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Prayer wheel.
 \ge prayer_wheel
 \dn 转经筒
@@ -47454,7 +47494,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Straw hat.
 \ge straw_hat
 \dn 斗笠
@@ -47462,7 +47502,7 @@
 \df Chapeau de paille.
 \gf chapeau_de_paille
 
-\lx qo˧pV̩˩ xxxx
+\lx qo˧pʋ̩˩
 \sf <nb="2011"> 2678
 \or ghobu
 \ps n
@@ -47472,7 +47512,7 @@
 \nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire et non vélaire
 \np <langue="fra"> (mot onomatopéique)
 \ton L#
-\lc qo˧pV̩˩
+\lc qo˧pʋ̩˩
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \pdv mi˩
@@ -47482,19 +47522,18 @@
 \gn 布谷鸟
 \df Coucou.
 \gf coucou
-\xv qo˧pV̩˩-ɻwæ˩ | ɖɯ˧-ɲi˥
-\xe Ancestors' Day, Tomb-Sweeping Day, on the first day of the fifth month; literally: ‘the day when the cuckoo sings'
+\xv qo˧pʋ̩˩-ɻwæ˩ | ɖɯ˧-ɲi˥
+\xe Qingming Festival; literally: ‘the day when the cuckoo sings'
 \xn 清明节。直译：“布谷鸟叫的那天”
-\xf Le Jour des Ancêtres, au 1er jour du 5e mois. Littéralement: «le jour où chante le coucou».
-\dt 31/Jul/2017
+\xf La fête de Qingming, au troisième mois. Littéralement: «le jour où chante le coucou».
 
-\lx qo˧pV̩˧
+\lx qo˧pɻ̩˧
 \sf <nb="B"> 1394
 \sf <nb="2011"> 1997
 \or ghopeu
 \ps adj
 \ton M
-\lc qo˧pV̩˧
+\lc qo˧pɻ̩˧
 \cf qwɤ˩pi˩
 \cf pɻ̩˧
 \sd <langue="fra"> verbe
@@ -47510,25 +47549,24 @@
 \gn 渴
 \df Assoiffé, ayant soif.
 \gf assoiffé
-\xv qo˧pV̩˧-ze˧
+\xv qo˧pɻ̩˧-ze˧
 \xe |fg{pfv}
 \xn 渴了
 \xf |fg{pfv}
 \xc PHONO
-\xv qo˧pV̩˧ mɤ˧-tʰɑ˧-ze˥
+\xv qo˧pɻ̩˧ mɤ˧-tʰɑ˧-ze˥
 \xe terribly thirsty
 \xn 渴得不行
 \xf avoir soif comme c'est pas possible, avoir terriblement soif
-\dt 13/Jun/2017
 
-\lx qo˧pV̩˩-ʐwæ˩ɖʐæ˩
+\lx qo˧pʋ̩˩-ʐwæ˩ɖʐæ˩
 \sf <nb="2011"> 2679
 \or ghoburuaezzhae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L#-
-\lc qo˧pV̩˩ʐwæ˩ɖʐæ˩
+\lc qo˧pʋ̩˩ʐwæ˩ɖʐæ˩
 \so <print="n"> F4
 \de Jay, |fi{Garrulus glandarius sinensis}.
 \ge jay
@@ -47553,7 +47591,7 @@
 \vf d'abord noté: ko˧ʁɑ˩˥, puis [ko˩qɑ˩˥], ce qui est la réalisation phonétique
 \va <speaker="M21"> dʑi˩ʶwɤ˩˥ ko˩kɑ˩
 \vf ɲi˥), ton d3, dʑi˩ nɑ˩mi˩ ʁu˥ ko˩kɑ˩ ɲi˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mountain pass.
 \ge mountain_pass
 \dn 垭口
@@ -47605,7 +47643,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="F4"> qo˩tv̩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kernel, fruit stone, pit.
 \ge fruit_stone
 \dn 果核
@@ -47632,7 +47670,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩tv̩˧˥, ton d5a
 \vf vérifié, n'est pas /kʰu/
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tree stump.
 \ge tree_stump
 \dn 树墩、树桩
@@ -47649,7 +47687,7 @@
 \ton L+H#
 \lc qo˩tv̩˩lv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ball, lump.
 \ge ball/lump
 \dn 团
@@ -47786,7 +47824,7 @@
 \va <speaker="M21"> tv̩˧qʰv̩˧, ton d1; tv̩˧qʰv̩˧ tsʰɤ˥: creuser un trou
 \vf n'utilise pas la forme monosyllabique /qʰv/
 \vf phonétiquement: kʶv
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hole.
 \ge hole
 \dn 洞
@@ -47827,7 +47865,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv dze˩
 \pdc <langue="fra"> paire
 \de Horn.
@@ -47936,11 +47974,10 @@
 \gn 关心
 \df Attachement envers quelqu'un; observé seulement dans l'expression ‘être attaché à, faire cas de, attacher du prix à’.
 \gf attachement
-\xv qʰv̩˩ɖɯ˩ pʰV̩˥
+\xv qʰv̩˩ɖɯ˩ pʰV̩˥ xxxx
 \xe to care for someone, to respect, to feel attachment to someone
 \xn 关心（一个人），重视（如：孩子重视父母）
 \xf attacher de l'importance à, respecter, être attaché à (ex.: relation des enfants à leurs parents)
-\dt 01/Oct/2015
 
 \lx qʰv̩˩ɖʐæ˩
 \sf <nb="2011"> 834
@@ -48009,7 +48046,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> qʰv̩˧dʑi˧ ; donne qʰv̩˧dʑi˧ ɲi˥, ton d2a, càd ton différent de F4
 \vf notation ancienne: kʰʶv̩˧dʑi˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hole, cavity (e.g. mouse hole, or trap to catch large animals).
 \ge hole
 \dn 窟窿
@@ -48106,7 +48143,7 @@
 \vf confirmé; tons non montants
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID; bruit: ʐwæ˧ʐwæ˧qʰv̩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Throat.
 \ge throat
 \dn 喉咙
@@ -48185,7 +48222,7 @@
 \ton #H
 \lc qʰv̩˧tʰv̩˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Horn.
 \ge horn
 \dn （牛）角
@@ -48295,7 +48332,7 @@
 \ton LH
 \lc qwæ˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jaw (monosyllable).
 \ge jaw
 \dn 嘴巴（单音节）
@@ -48315,7 +48352,7 @@
 \lc qwæ˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Mat, bed mat.
 \ge mat
 \dn 床垫子
@@ -48427,7 +48464,7 @@
 \sd <langue="eng"> house
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
 \dn 主屋里面的长凳：客人和老人坐的地方
@@ -48564,7 +48601,7 @@
 \va <speaker="F5"> kwæ˩ʈʂæ˩
 \vf <type="tone"> L
 \va <speaker="M23"> kwɤ˩ɖʐæ˩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Jaw; mouth.
 \ge jaw
 \dn 颚、嘴、嘴巴、口
@@ -48734,7 +48771,7 @@
 \sd <langue="eng"> house
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
 \dn 主屋里面的长凳：客人和老人坐的地方
@@ -48743,11 +48780,11 @@
 \gf banc_des_hôtes
 \dt 01/Oct/2015
 
-\lx qwæ˧ʂe˧lɑ˧bV̩˥
+\lx qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sf <nb="2011"> 2744
 \or ghuaesheilabbu
 \ps n
-\lc qwæ˧ʂe˧lɑ˧bV̩˥
+\lc qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> +ɲi˩
@@ -48760,7 +48797,6 @@
 \gn 一种蠕虫
 \df Sorte de ver.
 \gf ver_sp
-\dt 01/Aug/2017
 
 \lx qwæ˧ʂe#˥
 \sf <nb="B"> 1809
@@ -48798,7 +48834,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Bit (of a bridle).
 \ge bit_of_bridle
 \dn 马嚼子
@@ -48929,7 +48965,7 @@
 \ton M
 \lc qwɤ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Fire pit.
 \ge fire_pit
 \dn 火塘
@@ -48978,7 +49014,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bowl.
 \ge bowl
 \dn 碗
@@ -49149,7 +49185,7 @@
 \vf 1e syllabe: confirmé; n'est pas ko˩; d'abord noté koə˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Mouth.
 \ge mouth
 \dn 嘴巴
@@ -49197,7 +49233,7 @@
 \lc qʰwɤ˧ʂe˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \pdv pʰo˧˥
 \de Horseshoe.
 \ge horseshoe
@@ -49222,7 +49258,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tip of the shoulder.
 \ge tip_of_the_shoulder
 \dn 肩膀的末端
@@ -49251,7 +49287,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> qʰwɤ˧tsʰɯ˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Shoulder.
 \ge shoulder
 \dn 肩膀
@@ -49273,7 +49309,7 @@
 \ton #H
 \lc qʰwɤ˧tʰv̩˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bamboo basket to carry water (on back).
 \ge bamboo_basket_for_water
 \dn 竹篓
@@ -49510,7 +49546,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Seed.
 \ge seed
@@ -49530,7 +49566,7 @@
 \lc ɻæ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ɻwæ˩˧, ton m1
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Yoke (for one or two animals).
 \ge yoke
 \dn 牛轭（单行或双行）
@@ -49619,7 +49655,7 @@
 \lc ʁæ˧
 \so <print="n"> F4
 \va <speaker="M21"> ʁæ˧v̩˧v̩˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Neck (monosyllable).
 \ge neck
 \dn 脖子（单音节）
@@ -49769,7 +49805,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (notes avant 2009: dʑjɤ˩ bV̩˧! le˧ ʁɤ˥ ze˩!)
+\nt <type="hist" langue="fra" print="n"> (notes avant 2009: dʑjɤ˩ bv̩˧! le˧ ʁɤ˥ ze˩!)
 \nt <type="hist" langue="fra" print="n"> notation 2007: ʁɑ˩˥, le˧ʁɑ˥ze˩ (notation 2006: ʁɤ˥; le˧ʁɤ˥ze˩! il a gagné!)
 \ton H
 \lc ʁɑ˧
@@ -49865,7 +49901,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Dish, plate.
 \ge plate
 \dn 盘子
@@ -49928,7 +49964,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc ʁæ˧ɭɯ˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Fetters (wooden fetters, around the neck); yoke.
 \ge fetters
 \dn 枷锁（木头做的）
@@ -49955,7 +49991,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʁɑ˧ɭɯ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cairn: a human-made pile of stones, used as trail marker. The stones of the cairn are not engraved.
 \ge cairn
 \dn 石堆
@@ -49985,7 +50021,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁæ˧mi˧, ton d2
 \vf refuse le ton d1, qu'en revanche F4 confirme
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sword.
 \ge sword
 \dn 剑
@@ -50036,16 +50072,15 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁæ˧ŋv̩˥, ton d7
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Silver-embellished collar (a precious part of the dress, with silver thread).
 \ge silver_embellished_collar
 \dn 银衣领
 \gn 银衣领
 \df Col (précieux, avec des fils d'argent).
 \gf col_argenté
-\dt 01/Oct/2015
 
-\lx ʁɑ˧pV̩˧ xxxx
+\lx ʁɑ˧pʋ̩˧
 \sf <nb="B"> 147
 \sf <nb="B"> 148
 \sf <nb="2011"> 215
@@ -50054,7 +50089,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton M
-\lc ʁɑ˧pV̩˧
+\lc ʁɑ˧pʋ̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -50067,17 +50102,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Poitrine.
 \gf poitrine
 
-\lx ʁɑ˧pV̩˧-ɻ̩̃#˥
+\lx ʁɑ˧pʋ̩˧-ɻ̩̃#˥
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
 \or hrabu'eun
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (avant 2009: premières notations 2006: Rɔ˥ pV̩˥ u͂˥; notations 2006 revues: ʁɑ˧pV̩˧oe͂˧, ʁɑ˧pV̩˧bV̩˧oe͂˧/oe͂˞˧)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \nt <type="sem" langue="fra"> (signifie littéralement “os de la poitrine")
 \ton #H
-\lc ʁɑ˧pV̩˧ɻ̩̃˧
+\lc ʁɑ˧pʋ̩˧ɻ̩̃˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥
@@ -50087,7 +50122,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 锁骨
 \df Clavicule.
 \gf clavicule
-\dt 27/Apr/2017
 
 \lx ʁɑ˧pʰʋ̩#˥
 \sf <nb="B"> 540
@@ -50120,7 +50154,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc ʁæ˧ɻ̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Neck.
 \ge neck
 \dn 脖子
@@ -50197,7 +50231,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Withers: part of the ox's body on which the yoke rests.
 \ge withers
 \dn 肩隆
@@ -50230,7 +50264,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Neck.
 \ge neck
 \dn 脖子
@@ -50566,7 +50600,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Needle.
 \ge needle
 \dn 针
@@ -50585,7 +50619,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Head (monosyllable).
 \ge head
 \dn 头（单音节）
@@ -50670,19 +50704,19 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf cette sorte (de vêtement, de nourriture…)
 \dt 27/Apr/2017
 
-\lx ʁo˧bV̩˧ xxxx
+\lx ʁo˧bʋ̩˧
 \sf <nb="B"> 2154
 \sf <nb="2011"> 3296
 \or wobbu
 \ps n
-\lc ʁo˧bV̩˧
+\lc ʁo˧bʋ̩˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> (schémas tonals réguliers; d'abord noté sɯ˥ dzɯ˧ ʁu˧bV̩˧)
+\nt <type="hist" langue="fra" print="n"> (schémas tonals réguliers; d'abord noté sɯ˥ dzɯ˧ ʁu˧bv̩˧)
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> ʁu˧bV̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
+\va <speaker="M21"> ʁu˧bv̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
 \pdv kʰwɤ˥
 \de Sprout, bud.
 \ge sprout
@@ -50690,17 +50724,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 萌芽
 \df Pousse, germe, bourgeon.
 \gf pousse
-\xv tʰo˧-ʁo˧bV̩˥ xxxx
+\xv tʰo˧-ʁo˧bʋ̩˥
 \xe bud of pine tree
 \xn 小松树尖
 \xf bourgeon de sapin
 \xc ton: H#
-\xv tʰo˩ʂv̩˩-ʁo˥bV̩˩
+\xv tʰo˩ʂv̩˩-ʁo˥bʋ̩˩
 \xe bud of pine tree
 \xn 小松树尖
 \xf pousse de sapin; littéralement «pousses d'aiguilles de sapin»
 \xc ton: L+#H-
-\xv kv̩˧-ʁo˧bV̩˥
+\xv kv̩˧-ʁo˧bʋ̩˥
 \xo guwobbu
 \xc <type="tone"> H#
 \xc <type="hist" print="n"> Ton vérifié en mai 2008; avais d'abord noté ˧ ˧ ˧
@@ -50709,13 +50743,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 蒜苗头
 \xf Jeune pousse d'ail (aliment).
 \rf F4
-\xv si˧-ʁo˧bV̩˥
+\xv si˧-ʁo˧bʋ̩˥
 \xc <type="tone"> H#
 \xe Tree sprout.
 \xn 树萌芽
 \xf Pousse d'arbre.
 \rf F4
-\xv si˧dzi˩-ʁo˩bV̩˩
+\xv si˧dzi˩-ʁo˩bʋ̩˩
 \xe Tree sprout.
 \xn 树萌芽
 \xf Pousse d'arbre.
@@ -50787,7 +50821,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Walnut.
 \ge walnut
 \dn 核桃
@@ -51019,7 +51053,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \pdv pɤ˩
 \de Bridle; halter.
 \ge halter
@@ -51046,7 +51080,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pillow.
 \ge pillow
 \dn 枕头
@@ -51070,7 +51104,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Molars and premolars.
 \ge molars/premolars
 \dn 臼齿+后臼齿
@@ -51184,7 +51218,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁu˧ɬi˥, ton d2c
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Large needle with which animal hide can be sewn.
 \ge large_needle
 \dn 大粗针，用来缝琵琶肉
@@ -51226,19 +51260,18 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps v
 \ton M
 \lc ʁo˧mæ˧
+\cf kwæ˧ɕi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> ex.: ũ˧bV̩˥ũ˩ʁu˩mæ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ʁu˧mæ˧
-\vf +ze˩) “adopter"
-\va <speaker="M23"> ʁu˧mæ˧
-\de To care for, to take care of (the aged, children, people in need…).
+\va <speaker="M18"> ID.
+\va <speaker="M23"> ID.
+\de To look after, to take care of, to care for (animals, as well as people: the elderly, children, people in need of help).
 \ge to_take_care_of
 \dn 照顾好、管好、关心（老人、孩子、需要帮助的人）
 \gn 照顾好
-\df S'occuper de (personnes âgées, enfants, personnes ayant besoin d'aide).
+\df S'occuper de, prendre soin de (animaux, aussi bien qu'humains: personnes âgées, enfants, personnes ayant besoin d'aide).
 \gf s_occuper_de
 \xv ʁo˧mæ˧-ze˩
 \xe |fg{pfv}
@@ -51258,7 +51291,28 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 她很会管家！（对女主人的表扬）
 \xf Elle sait à merveille s'occuper des gens/prendre soin des gens! (Commentaire au sujet d'une maîtresse de maison)
 \rf F5
-\dt 27/Apr/2017
+\xv õ˧-bʋ̩˥-õ˩ ʁo˩mæ˩
+\xe to take care of oneself, to look after oneself (without depending on others all the time): for instance, a child that grows up learns to look after herself/himself.
+\xn 照顾好自己（而不是一直依赖他人）。例如，随着儿童的成长，他们会逐渐学会照顾自己。
+\xf prendre soin de soi, s'occuper de soi (sans dépendre des autres à tout moment): par exemple, l'enfant qui grandit apprend peu à peu l'autonomie.
+
+\lx kwæ˧ɕi˧
+\sf <nb="2011"> 1600
+\or guaehi
+\bw <langue="cmn"> 关心
+\ps v
+\ton M
+\lc kwæ˧ɕi˧
+\cf ʁo˧mæ˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\de To care for, to take care of (the aged, children, people in need…).
+\ge 关心::to_take_care_of
+\dn 关心
+\gn 关心（借词）
+\df S'occuper de (personnes âgées, enfants, personnes ayant besoin d'aide).
+\gf 关心::s_occuper_de
 
 \lx ʁo˧mi˧
 \sf <nb="B"> 2229
@@ -51299,7 +51353,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H$
 \lc ʁo˧mi˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Large needle.
 \ge large_needle
 \dn 大针
@@ -51345,11 +51399,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df |fi{Eugeron breviscapus} (une sorte de pâquerette). C'est une des deux sortes de plantes (l'autre étant |fv{lɑ˩pʰɑ˩-læ˥dzi˩}) qu'on écrasait et faisait bouillir afin d'obtenir un liquide pour laver les vêtements, à une époque où le savon n'était pas encore répandu. Cette plante a été cueillie de façon si systématique qu'on n'en trouvait plus dans la plaine de Yongning vers 2006-2009.
 \gf Eugeron_breviscapus
 
-\lx ʁo˥pV̩˩ xxxx
+\lx ʁo˥pʋ̩˩
 \or wobu
 \ps v
 \ton H.L
-\lc ʁo˧pV̩˩
+\lc ʁo˧pʋ̩˩
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51360,10 +51414,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 遇见
 \df Croiser, faire la rencontre de quelqu'un (typiquement: sur un sentier, rencontrer quelqu'un qui marche en sens inverse).
 \gf croiser
-\xv tʰi˧-ʁo˥pV̩˩
+\xv tʰi˧-ʁo˥pʋ̩˩
 \xe |fg{dur}
 \xn 持续体 〜
 \xf |fg{dur}
+\xv hĩ˧ ʁo˧pʋ̩˥
+\xe to come across people
+\xn 遇见人
+\xf croiser quelqu'un
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51413,7 +51471,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʁu˧kɑ˥, ton d7; aussi: v̩˧ʁu˧kɑ˥ “couvercle de casserole"; tend à simplifier en: v̩˧kɑ˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lid.
 \ge lid
 \dn 锅盖、盖子
@@ -51437,7 +51495,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Head.
 \ge head
 \dn 头，上面部分
@@ -51598,7 +51656,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʁo˧tsʰe˧ʁo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: 2007: ʁwɤ˥ bV̩˥ ʁu˥ tsʰe˥ ʁu˥; en 2006, avais noté: ʁwɤ˥ bV̩˥ ʁu˧tsʰe˧ ʁu˧) (a d'abord enregistré gɤ˧bi˧)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: 2007: ʁwɤ˥ bv̩˥ ʁu˥ tsʰe˥ ʁu˥; en 2006, avais noté: ʁwɤ˥ bv̩˥ ʁu˧tsʰe˧ ʁu˧) (a d'abord enregistré gɤ˧bi˧)
 \nt <type="hist" langue="fra" print="n"> ʁu˧tsʰe˧ (tons vérifiés) (notes anciennes: “ʁu˧to˥kɤ˩: drôle d'expression, “le front de la tête", sans doute “monstre"; son schéma tonal: en 2006, avais noté: ʁu˧tu˥kɤ˧")
 \ton #H
 \so <print="n"> F4
@@ -51688,7 +51746,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small needle.
 \ge small_needle
 \dn 小针
@@ -51787,17 +51845,16 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn |fg{accomp}
 \xf |fg{accomp}
 
-\lx ʁv̩˧-bV̩˥ xxxx
+\lx ʁv̩˥
 \sf <nb="B"> 2104
 \sf <nb="2011"> 3238
-\or weubbu
+\or weu
 \ps n
-\ton H#
-\lc ʁv̩˧bV̩˥
+\ton #H
+\lc ʁv̩˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> (clairement identifié)
-\np <langue="fra"> confirmé: il est impossible d'intégrer les deux parties en un seul groupe tonal
 \so <print="n"> F4
 \pdv po˧
 \de Field penny-cress, |fi{Thlaspi arvense}: a foetid plant with round flat pods.
@@ -51806,6 +51863,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 菥蓂
 \df Monnoyère, tablier des champs, |fi{Thlaspi arvense}; littéralement «le légume de la grue».
 \gf tablier_des_champs
+\xv ʁv̩˧=bʋ̩˥ | bæ˩bæ˩˥
+\xe field penny-cress flowers
+\xn 菥蓂花
+\xf fleurs de monnoyère
+\xv ʁv̩˧-bæ˥bæ˩
+\xe as above: field penny-cress flowers
+\xn 同上：菥蓂花
+\xf idem ci-dessus: fleurs de monnoyère
 
 \lx ʁv̩˧mi˥$
 \or weumi
@@ -51829,7 +51894,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté †ʁv̩˧pʰV̩˧˥
+\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté †ʁv̩˧pʰv̩˧˥
 \ton #H
 \lc ʁv̩˧pʰʋ̩˧
 \so <print="n"> F4
@@ -51854,7 +51919,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʁv̩˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby crane.
 \ge baby_crane
 \dn 小鹤
@@ -52107,7 +52172,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf <type="tone"> M
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Mountain.
 \ge mountain
@@ -52216,7 +52281,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʁwɤ˧qʰv̩˧
 \so <print="n"> F4
 \va <speaker="M18"> ʁwɤ˧qʰv̩˧; réécoute 1/2008: paraît être ʁwæ˧ kʶv̩˧, formé par contraction de ʁwɤ + æ “falaise?" + kʶv?
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cave, cavern.
 \ge cave
 \dn 山洞
@@ -52237,7 +52302,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʁwɤ˧qʰv̩˧dʑɯ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cave, cavern.
 \ge cavern
 \dn 山洞
@@ -52266,7 +52331,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 山坡
 \df Collines, versant des montagnes (pas forcément très escarpé, plutôt collines que très fortes pentes).
 \gf collines
-\xv ʁwɤ˩ʁo˩ dʑɤ˥bV̩˩ ə˩-bi˩?
+\xv ʁwɤ˩ʁo˩ dʑɤ˥bʋ̩˩ ə˩-bi˩?
 \xe You want to come and have fun on the mountain? Would you like to go and take a stroll on the mountain?
 \xn 去山上玩，好吗？
 \xf tu viens te détendre sur la montagne?
@@ -52680,7 +52745,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ɻ̩̃˧ hæ˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv kɤ˧˥
 \de Cartilage.
 \ge cartilage
@@ -52774,7 +52839,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M18"> ɻ̩˧; pour “eau de source", dit: ʁwɤ˧qʰv̩˧dʑi˩
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Warm springs.
 \ge warm_springs
 \dn 温泉
@@ -52817,7 +52882,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧tæ˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lymph nodes, glands.
 \ge glands
 \dn 淋巴结
@@ -53128,7 +53193,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Distaff: a stick or spindle onto which wool or flax is wound for spinning.
 \ge distaff
 \dn 卷线杆、拉线棒
@@ -53204,11 +53269,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf 商量::discuter
 \dt 23/Jun/2017
 
-\lx ʂæ˧-lo˩pV̩˩ xxxx
+\lx ʂæ˧-lo˩pʋ̩˩
 \or shaelobu
 \bw <langue="cmn"> 山萝卜
 \ps n
-\lc ʂæ˧lo˩pV̩˩
+\lc ʂæ˧lo˩pʋ̩˩
 \cf hwɤ˧li˧-hwæ˧qʰæ#˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53266,22 +53331,22 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Marchandise, objet qui peut se vendre au marché.
 \gf 商品::marchandise
 
-\lx sɑ˧pʰV̩˧˥ xxxx
+\lx sɑ˧pʰʋ̩˧˥
 \or sapeu
 \ps n
-\lc sɑ˧pʰV̩˧˥
+\lc sɑ˧pʰʋ̩˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton MH#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Thread of linen, |fi{Cannabis sativa}.
 \ge linen_thread
 \dn 麻线
 \gn 麻线
 \df Fil de lin, |fi{Cannabis sativa}.
 \gf fil_de_lin
-\xv sɑ˧pʰV̩˧-sɑ˧jɤ˥
+\xv sɑ˧pʰʋ̩˧-sɑ˧jɤ˥
 \xe linen thread
 \xn 麻线
 \xf fil de lin
@@ -53358,7 +53423,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf tons confirmés
 \va <speaker="M21"> sɑ˧tɕi˧, ton d1
 \vf mot honteux/tabou
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Vagina.
 \ge vagina
 \dn 女生殖器
@@ -53378,7 +53443,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> vérifié: n'est pas /tsʰɯ/
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Oar.
 \ge oar
 \dn 桨
@@ -53390,7 +53455,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \so <print="n"> F4
 \va <speaker="M23"> sɑ˩tsʰɯ˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Wooden instrument resembling an oar, used to stir pigswill.
 \ge instrument_to_stir_pigswill
 \dn 像桨的木头工具，来搅拌猪食
@@ -53717,7 +53782,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf La chaîne de la porte, elle est en fer!
 \dt 05/Oct/2015
 
-\lx ʂe˧bV̩#˥ xxxx
+\lx ʂe˧bɻ̩#˥
 \sf <nb="B"> 1945
 \sf <nb="2011"> 484
 \or sheibbeu
@@ -53725,7 +53790,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \ton #H
-\lc ʂe˧bV̩˧
+\lc ʂe˧bɻ̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -53752,7 +53817,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> sɤ˩di˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Saw.
 \ge saw
 \dn 锯
@@ -53934,7 +53999,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Tripod.
 \ge tripod
 \dn 三脚架
@@ -54174,7 +54239,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Fire tongs.
 \ge fire_tongs
 \dn 火钳
@@ -54210,7 +54275,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> (notation 2006: ʂe˥pV̩˧)
+\np <langue="fra"> (notation 2006: ʂe˥pv̩˧)
 \ton L#
 \lc ʂe˧pɻ̩˩
 \so <print="n"> F4
@@ -54253,7 +54318,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Iron nail; nail.
 \ge nail
 \dn 铁钉，钉子
@@ -54366,7 +54431,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Nit, egg of louse.
 \ge nit
 \dn 虮子
@@ -54385,7 +54450,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc se˧tʰo˩
 \so <print="n"> F4
 \vf périphrase
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tenon.
 \ge 榫头::tenon
 \dn 榫头
@@ -54446,7 +54511,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc se˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby goral, baby blue sheep.
 \ge baby_goral
 \dn 小岩羊
@@ -54582,7 +54647,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> sɯ˩˥
 \va <speaker="M21"> sɯ˩˥, ton m1
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Liver.
 \ge liver
 \dn 肝
@@ -54712,13 +54777,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Bois vert, bois fraîchement coupé.
 \gf bois_vert
 
-\lx si˧bV̩˧ xxxx
+\lx si˧bʋ̩˧
 \or seebbu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton M
-\lc si˧bV̩˧
+\lc si˧bʋ̩˧
 \so <print="n"> F4
 \pdv v̩˧
 \de Evil spirit.
@@ -54728,21 +54793,21 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Démon (forme obtenue par élicitation; nettement moins courante que la forme féminine).
 \gf démon
 
-\lx si˧bV̩˧-mi#˥
+\lx si˧bʋ̩˧-mi#˥
 \sf <nb="B"> 665
 \sf <nb="2011"> 991
 \or seebbumi
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" langue="fra" print="n"> avec un H flottant comme la catégorie d2a des disyllabes: si˧bV̩˧mi˧ ɲi˥ (avant 2009, noté: “sv̩˧bV̩˧mi˧, d'abord dit sv̩˧bV̩˧me˥, corrigé en 2007 en: sɯ˧bV̩˧mi˧, ʈʂʰɯ˥ sɯ˧bV̩˧mi˧ ɲi˥") (vérifié: la 1e syllabe est /si/ et pas /sɯ/)
+\nt <type="hist" langue="fra" print="n"> avec un H flottant comme la catégorie d2a des disyllabes: si˧bv̩˧mi˧ ɲi˥ (avant 2009, noté: “sv̩˧bv̩˧mi˧, d'abord dit sv̩˧bv̩˧me˥, corrigé en 2007 en: sɯ˧bv̩˧mi˧, ʈʂʰɯ˥ sɯ˧bv̩˧mi˧ ɲi˥") (vérifié: la 1e syllabe est /si/ et pas /sɯ/)
 \nt <type="hist" langue="fra" print="n"> tons et voyelles confirmés
 \nt <type="sem" langue="fra"> (pas d'analyse possible des syllabes: sens des morphèmes composant ce lexème)
 \ton #H
-\lc si˧bV̩˧mi˧
+\lc si˧bʋ̩˧mi˧
 \so <print="n"> F4
-\va <speaker="F5"> sv̩˧bV̩˧mi˧
-\va <speaker="M21"> sɯ˧bV̩˧mi˧ +ɲi˥
+\va <speaker="F5"> sv̩˧bv̩˧mi˧
+\va <speaker="M21"> sɯ˧bv̩˧mi˧ +ɲi˥
 \vf prolongement de d2a
 \va <speaker="M23"> ID.
 \pdv v̩˧
@@ -54752,16 +54817,15 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 妖精
 \df Démone.
 \gf démone
-\dt 23/Jun/2017
 
-\lx si˧bV̩˧-zo#˥
+\lx si˧bʋ̩˧-zo#˥
 \or seebbusso
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <type="sem" langue="fra"> On ne peut employer le suffixe /|fv{pʰʋ̩}/ ‘mâle'.
 \ton #H
-\lc si˧bV̩˧zo˧
+\lc si˧bʋ̩˧zo˧
 \so <print="n"> F4
 \pdv v̩˧
 \de Evil spirit (masculine).
@@ -54914,7 +54978,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté /†si˧gɯ˧-pʰV̩˧/, élicitant non pas un nom, ‘lion mâle', mais une phrase: ‘(ce) lion est un mâle'.
+\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté /†si˧gɯ˧-pʰv̩˧/, élicitant non pas un nom, ‘lion mâle', mais une phrase: ‘(ce) lion est un mâle'.
 \ton #H
 \lc si˧gɯ˧pʰʋ̩˧
 \so <print="n"> F4
@@ -54951,7 +55015,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc si˧gɯ˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mi˩
 \de Lion cub.
 \ge lion_cub
@@ -55006,7 +55070,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lx si˧kʰɯ#˥
 \or seekee
 \ps n
-\cf si˧kʰɯ˧-ɭɯ˧bV̩˥
+\cf si˧kʰɯ˧-ɭɯ˧bʋ̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> identification vérifiée en 2016, d'après livre ‘Médecine Mosuo'; auparavant traduit (par erreur) comme: white Chinese herbaceous peony, |fi{Paeonia lactiflora}, |fn{白芍药}
@@ -55186,7 +55250,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \vf périphrase
 \va <speaker="M21"> cf 516
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Wooden plate.
 \ge wooden_plate
 \dn 木盘子
@@ -55213,7 +55277,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M23"> si˧ʁu˧sɯ˧lɯ˧
 \vf vérifié: d'après le locuteur, la 1e syll. est comme “bois", la 3e comme “savoir"
 \vf enregistré un: sɯ˧lv̩˧ʁu˧lv̩˧; mais préfère mot précédent
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Fruit.
 \ge fruit
 \dn 水果
@@ -55507,8 +55571,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> sɤ˧˥
 \vf <type="tone"> MH
 \va <speaker="M18"> sɤ˩˥
-\va <speaker="M21"> bV̩˧ɻ̩˧-qʰæ˧, littéralement “crottes de mouches"
-\pdv ɭɯ˧
+\va <speaker="M21"> bv̩˧ɻ̩˧-qʰæ˧, littéralement “crottes de mouches"
+\pdv ɭɯ˧β
 \de Mole; pigmented naevus.
 \ge mole
 \dn 黑痣
@@ -55551,11 +55615,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʂo˧!
 \so <print="n"> F4
 \de Interjection to get pigs to move forward.
-\ge |fg{intj.Forward}!
+\ge |fg{intj}.Forward!
 \dn 赶猪用的叹词：走！走！
 \gn 赶猪用的叹词
 \df Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez, allez!».
-\gf |fg{intj.Zou}!
+\gf |fg{intj}.Zou!
 \xv ʂo˧! / ʂo˧bɤ˩!
 \xe interjection to get pigs to move forward
 \xn 赶猪用的叹词
@@ -55726,11 +55790,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 早上献给神的食物
 \df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: |fv{/so˧ dze˧-bæ˩bæ˩/}); on le fait brûler sur un feu d'épines de pin.
 \gf offrande_du_matin_aux_esprits
-\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mæ˧pʰV̩˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
+\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mɑ˧pʰɻ̩˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
 \xe list of ingredients of the offering to the gods: flowers, sandalwood, butter, milk, flour and honey
 \xn 配料：花、香木、酥油、奶、面粉、蜂蜜。
 \xf liste des ingrédients avec lesquels on compose cette offrande: fleurs, santal, beurre, lait, farine et miel.
-\dt 06/Oct/2015
 
 \lx so˧dʑɯ#˥
 \sf <nb="B"> 624
@@ -55744,7 +55807,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> idem 623; sens vérifié
 \vf s'emploie pour les éléphants, le très gros gibier
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Pitfall, pit, trap.
 \ge pitfall
 \dn 陷阱
@@ -55798,7 +55861,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L#
 \so <print="n"> F4
 \va <speaker="M21"> idem M21
-\va <speaker="M23"> gi˧tʰu˧˥, ton d2b; ex.: gi˧tʰu˧bV̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
+\va <speaker="M23"> gi˧tʰu˧˥, ton d2b; ex.: gi˧tʰu˧bv̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
 \de Afterwards; later; from now on.
 \ge afterwards/from_now_on
 \dn 后来、以后，从此以后
@@ -55914,7 +55977,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L#
 \so <print="n"> F4
 \pdv kʰɤ˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pear.
 \ge pear
 \dn 梨子
@@ -55987,7 +56050,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M21"> ʂɤ˩ŋɤ˧˥, ton d5a
 \vf +"jouer de…": ʂɤ˩ŋɤ˧˥ lɑ˩
 \va <speaker="M23"> ʂi˩ŋɤ˧˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Gong.
 \ge gong
 \dn 锣
@@ -56707,7 +56770,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> emprunt; accepte le mot de F4
 \va <speaker="M23"> si˧gv̩˧
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Box, case.
 \ge box
 \dn 箱子，柜子
@@ -56844,7 +56907,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton MH#
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Plastic jerrican; used to store and transport drinking water.
 \ge 塑料桶::plastic_container
 \dn 塑料桶
@@ -56964,42 +57027,42 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Jeune homme de la noblesse, fils de mandarin.
 \gf jeune_noble
 
-\lx sɯ˩pV̩˩ xxxx
+\lx sɯ˩pɻ̩˩
 \or sibu
 \ps n
-\lc sɯ˩pV̩˩˥
+\lc sɯ˩pɻ̩˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Raised spot, blister.
 \ge raised_spot
 \dn 水泡（例如：开水烫了手，会形成水泡）
 \gn 水泡
 \df Cloque (par exemple, après qu'on se soit ébouillanté).
 \gf cloque
-\xv sɯ˩pV̩˩ qʰwæ˥-ze˩!
+\xv sɯ˩pɻ̩˩ qʰwæ˥-ze˩!
 \xe a raised spot has formed!
 \xn 起了水泡！
 \xf une cloque s'est formée!
 
-\lx sɯ˧pV̩˩ xxxx
+\lx sɯ˧pɻ̩˩
 \sf <nb="B"> 226
 \sf <nb="2011"> 298
 \or sibu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /si/) (avant 2009: noté: “sɯ˥ pV̩˧, tons confirmés")
+\nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /si/) (avant 2009: noté: “sɯ˥ pv̩˧, tons confirmés")
 \nt <type="hist" langue="fra" print="n"> (observation 2006: “changement tonal régulier: ˧+ ˥˧ donne ˧˧˥") (aussi: dʑi˧kʶv̩˧ (puits), certainement erreur)
 \ton L#
-\lc sɯ˧pV̩˩
+\lc sɯ˧pɻ̩˩
 \so <print="n"> F4
-\va <speaker="F5"> dʑi˧sɯ˧pV̩˥
-\va <speaker="M18"> sɯ˥pV̩˧
+\va <speaker="F5"> dʑi˧sɯ˧pv̩˥
+\va <speaker="M18"> sɯ˥pv̩˧
 \vf est aussi le nom d'un fruit, hua1hong2
-\vf erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pV̩˥ +ɲi˩; on peut dire simplement: sɯ˥pV̩˧, ton d4
+\vf erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pv̩˥ +ɲi˩; on peut dire simplement: sɯ˥pv̩˧, ton d4
 \vf d'abord noté ˥ ˥, par erreur
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥
@@ -57009,18 +57072,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 膀胱
 \df Vessie.
 \gf vessie
-\dt 09/Oct/2015
 
-\lx sɯ˧pV̩˩-ni˩gv̩˩
+\lx sɯ˧pɻ̩˩-ni˩gv̩˩
 \sf <nb="2011"> 1494
 \or sibu niggu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (d'abord noté sɯ˥ pV̩˧ ni˩gv̩˩) (vérifié: n'est pas /si/)
+\nt <type="hist" langue="fra" print="n"> (d'abord noté sɯ˥ pv̩˧ ni˩gv̩˩) (vérifié: n'est pas /si/)
 \nt <type="sem" langue="fra"> (gonflé) comme un ballon
 \ton L#-
-\lc sɯ˧pV̩˩ni˩gv̩˩
+\lc sɯ˧pɻ̩˩ni˩gv̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -57030,18 +57092,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 膀肿
 \df Gonflé, galbé, rond: littéralement «comme une vessie». Une vessie de porc que l'on gonfle prend une forme toute ronde.
 \gf gonflé
-\dt 27/Apr/2017
 
-\lx sɯ˧pV̩˧-sɯ˥nɑ˩ xxxx
+\lx sɯ˧pɻ̩˧-sɯ˥nɑ˩
 \sf <nb="B"> 1811
 \sf <nb="2011"> 2759
 \or sibusina
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (voisement de /bv/ confirmé, tons confirmés; d'abord noté ˧˧˥˧) (vérifié auprès de f4 et de M23: est /sɯ/ et non /si/) (avant 2011: noté sɯ˧bV̩˧sɯ˥nɑ˩, par erreur)
+\nt <type="hist" langue="fra" print="n"> (voisement de /bv/ confirmé, tons confirmés; d'abord noté ˧˧˥˧) (vérifié auprès de f4 et de M23: est /sɯ/ et non /si/) (avant 2011: noté sɯ˧bv̩˧sɯ˥nɑ˩, par erreur)
 \ton #H-
-\lc sɯ˧pV̩˧sɯ˥nɑ˩
+\lc sɯ˧pɻ̩˧sɯ˥nɑ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -57088,7 +57149,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc sɯ˩ɻ̩˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Whetting-stone.
 \ge whetting_stone
 \dn 磨刀石
@@ -57111,7 +57172,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M21"> sɯ˧ɻ̩˧, ton d2a
 \vf pas le même ton que F4): petites perles rouges, ss doute faites à partir de corail ou autre coquillage
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bead, pearl.
 \ge bead
 \dn 珠，珠子，珍珠
@@ -57234,7 +57295,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Knife.
 \ge knife
 \dn 刀
@@ -57259,7 +57320,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> sɯ˧tʰi˧kʰɯ˥dʑi˧
 \vf M18 dit d'abord: …di˧, puis se corrige
 \va <speaker="M21"> ID.; on peut simplifier en: sɯ˩tʰi˩ʑi˧; en revanche la périphrase proposée par F5 n'est pas acceptée par M21
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Knife sheath.
 \ge knife_sheath
 \dn 刀鞘
@@ -57393,7 +57454,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \vf
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Pistol. Borrowed from the Chinese word for 'cross' |fn{十字}, as pistols are 'cross-shaped guns': |fn{十字架手枪}
 \ge 十字::pistol
 \dn 手枪。借词：“十字架手枪”的“十字”
@@ -57439,11 +57500,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> avant 2015: noté /†si˧ʈv̩˥/
-\nt <type="hist" langue="fra" print="n"> ton d3 (bV̩˩kʰʶv̩˩ ɲi˥)
+\nt <type="hist" langue="fra" print="n"> ton d3 (bv̩˩kʰʶv̩˩ ɲi˥)
 \ton H#
 \lc sɯ˧ʈv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Callus.
 \ge callus
 \dn 茧子
@@ -57689,7 +57750,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H
 \lc ʂv̩˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Dice.
 \ge dice
 \dn 骰子
@@ -57895,7 +57956,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M21"> ʂɻ̩˩gv̩˩˧, ton d3
 \vf n'est pas sɯ˩gv̩˩˥ ni ʂv̩˩gv̩˩˥
 \va <speaker="M23"> ʂɯ˩gv̩˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Sickle.
 \ge sickle
 \dn 镰刀
@@ -57938,7 +57999,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʂv̩˩njɤ˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tree knot (tree bur; burl).
 \ge tree_knot
 \ge tree_knot
@@ -58003,7 +58064,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰwɤ˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Wedge.
 \ge wedge
 \dn 楔子
@@ -58177,7 +58238,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc ʂwæ˩gv̩˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kitchen cabinet, kitchen dresser.
 \ge kitchen_cabinet
 \dn 柜子
@@ -58278,7 +58339,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> *
 \va <speaker="M18"> *
 \vf emprunt
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Brush.
 \ge 刷子::brush
 \dn 刷子
@@ -58607,7 +58668,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pocket.
 \ge pocket
 \dn 口袋、衣袋、兜子
@@ -59097,7 +59158,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv pɤ˩
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Crossbow.
 \ge crossbow
 \dn 弩弓
@@ -59311,7 +59372,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 将蔬菜弄干（晒干）
 \xf faire sécher des légumes
 
-\lx ʈæ˧pV̩˩ xxxx
+\lx ʈæ˧pɻ̩˩
 \sf <nb="B"> 1656
 \sf <nb="2011"> 2466
 \or dabeu
@@ -59320,9 +59381,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés)
-\nt <type="hist" langue="fra" print="n"> avant 2016 : noté /tæ˧pV̩˩/; rétroflexion relevée au fil de l'écoute de textes
+\nt <type="hist" langue="fra" print="n"> avant 2016 : noté /tæ˧pv̩˩/; rétroflexion relevée au fil de l'écoute de textes
 \ton L#
-\lc ʈæ˧pV̩˩
+\lc ʈæ˧pɻ̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kɑ˧
@@ -59420,7 +59481,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈæ˧ʁæ˩
 \va <speaker="M21"> tæ˧ɻ̩˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Oesophagus; Adam's apple.
 \ge oesophagus
 \dn 喉管、喉结
@@ -59633,7 +59694,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc ʈæ˩tsʰo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Class, group, set (of monks).
 \ge group/class
 \dn 班、小组
@@ -59712,7 +59773,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc tʰɑ˧v̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Room for guests (local Chinese word; meaning in standard Chinese: central room, main hall). There is no direct equivalent in Na because the traditional house did not have a room for guests.
 \ge 堂屋::guest_room
 \dn 堂屋，来指客房
@@ -59885,7 +59946,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> tæ̃35
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté bV̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
 \np <langue="fra"> ton 3a
 \ton Lα
 \so <print="n"> F4
@@ -60182,7 +60243,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> tɕi˧kʰɯ˧˥, tɕi˧kʰɯ˧di˧˥; la forme monosyllabique /tɕi˧/ n'est pas acceptable, d'après M21
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Snare, trap, trick.
 \ge trap
 \dn 圈套
@@ -60352,7 +60413,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L#
 \lc tɕi˧do˩
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Tangerine.
 \ge tangerine
 \dn 橘子
@@ -60418,14 +60479,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Melon, gourd.
 \ge melon/gourd
 \dn 瓜
 \gn 瓜
 \df Courge (inclut les courgettes).
 \gf courge
-\xv tɕi˧kwɤ˧ bV̩˧-ɻ̩˧ (+ɲi˩)
+\xv tɕi˧kwɤ˧ bV̩˧-ɻ̩˧ (+ɲi˩) xxxx
 \xe small melon
 \xn 小瓜
 \xf petite courge
@@ -60499,7 +60560,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Carpet.
 \ge carpet
 \dn 毯子
@@ -60606,7 +60667,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> (n'est pas tɕʰɯ)
 \ton H#
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Car.
 \ge 汽车::car
 \dn 汽车
@@ -60734,12 +60795,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton 0
 \so <print="n"> F4
 \de Interjection: hey!
-\ge |fg{intj.hey}
+\ge |fg{intj}.hey!
 \dn 感叹词：嘿！
 \gn 感叹词.嘿！
-\df Interjection: tiens! eh!
-\gf |fg{intj.toc}
-\dt 27/Apr/2017
+\df Interjection: tiens! eh! toc!
+\gf |fg{intj}.toc!
 
 \lx tɕɤ˩
 \or jaq
@@ -60866,7 +60926,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ladle, scoop used for water.
 \ge ladle
 \dn 勺子、瓢
@@ -60967,7 +61027,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc tɕɤ˧fv̩˩
 \so <print="n"> F4
 \vf <type="tone"> L
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Container for liquids, such as plastic jerricans; used to store and transport drinking water.
 \ge container_for_liquids
 \dn 塑料桶等存水用的容器
@@ -61024,7 +61084,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \ton L#
 \lc tɕɤ˧jo˩
-\cf lo˧nɑ˥-bV̩˩
+\cf lo˧nɑ˥-bʋ̩˩
 \sd <langue="fra"> nom
 \sd <langue="eng"> noun
 \so <print="n"> F4
@@ -61088,7 +61148,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc tɕʰo˩mi˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Large ladle.
 \ge large_ladle
 \dn 大瓢
@@ -61195,7 +61255,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ladle used for pigswill.
 \ge ladle_for_pigswill
 \dn 用来煮猪食的勺子
@@ -61218,7 +61278,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> tɕʰɤ˧ʂv̩˧, ton d2a
 \va <speaker="M21"> ʈʂʰɤ˧ʂu˧, ton d2a
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Altar.
 \ge altar
 \dn 祭坛
@@ -61232,7 +61292,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \bw <langue="cmn"> 全世界
 \ps n
 \lc tɕʰɤ˩ʂɯ˩kɤ˩˥
-\cf zo˩bV̩˥li˩
+\cf zo˩bʋ̩˥li˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question : pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
@@ -61260,7 +61320,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tɕɤ˧tɑ˧, ton d1; emprunt au chinois; la première syllabe correspondrait à jian4 “épaule".
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Yoke.
 \ge 夹担::yoke
 \dn 牛轭（单行）
@@ -61353,7 +61413,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Stupa, tower.
 \ge stupa
 \dn 塔
@@ -61388,7 +61448,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M21"> ʈʂʰɤ˩ʈʂv̩˧, ton d6
 \vf vérifié: n'est pas tɕʰɤ˩
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Drinking glass, goblet; used for wine.
 \ge goblet
 \dn 酒杯、杯子
@@ -61410,7 +61470,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc tɕʰo˩zo˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small ladle.
 \ge small_ladle
 \dn 小瓢
@@ -61576,7 +61636,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (notation 2006, par erreur: tʰjɤ˩ko˧bV̩˧)
+\nt <type="hist" langue="fra" print="n"> (notation 2006, par erreur: tʰjɤ˩ko˧bv̩˧)
 \nt <type="sem" langue="fra"> perçu comme sémantiquement lié à “guêpe", dont le mot est homophone: il s'agit de 2 insectes, l'un nageant et l'autre volant, qui piquent/sont venimeux.
 \ton MH
 \lc tɕɯ˧˥
@@ -61649,7 +61709,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tɕi˧, ton m1
 \vf ss doute erreur sur la forme de citation: tous les m1 ont une forme de citation ˩˥
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Scales (for weighing something).
 \ge scales
 \dn 称
@@ -62017,7 +62077,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton #H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Large plate.
 \ge large_plate
 \dn 大盘子
@@ -62095,7 +62155,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> pensé d'abord que ce n'était pas tɕɯ; mais vérifié le 29 mars 2012
 \ton L+H#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sling (for throwing an object).
 \ge sling
 \dn 弹弓
@@ -62173,12 +62233,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf muntjac_femelle
 \dt 30/Jun/2017
 
-\lx tɕɯ˧pV̩˧ xxxx
+\lx tɕɯ˧pʋ̩˧
 \sf <nb="2011"> 1547
 \or jibu
 \ps adj
 \ton M
-\lc tɕɯ˧pV̩˧
+\lc tɕɯ˧pʋ̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so <print="n"> F4
@@ -62188,11 +62248,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 舒畅
 \df À l'aise, peinard.
 \gf peinard
-\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pV̩˧-ʂe˧~ʂe˧ | ɖɯ˧-dzi˩-zo˩-ho˩!
+\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pʋ̩˧-ʂe˧~ʂe˧ | ɖɯ˧-dzi˩-zo˩-ho˩!
 \xe Have a seat here, happy and relaxed!
 \xn 在这边舒畅地坐一会吧！
 \xf assieds-toi ici, bien peinard!
-\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pV̩˧-ʂe˧~ʂe˧-zo˥ | ɖɯ˧-dzi˩-bi˩-ɻ̩˩!
+\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pʋ̩˧-ʂe˧~ʂe˧-zo˥ | ɖɯ˧-dzi˩-bi˩-ɻ̩˩!
 \xe Let's have a seat here, happy and relaxed!
 \xn 在这边舒畅地坐一会吧！
 \xf asseyons-nous donc ici, bien peinards!
@@ -62202,7 +62262,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> avant 16 juillet 2012: n'avais reconnu que la variante tonale /tɕʰɯ˩pʰV̩˩/
+\nt <type="hist" langue="fra" print="n"> avant 16 juillet 2012: n'avais reconnu que la variante tonale /tɕʰɯ˩pʰv̩˩/
 \ton LM+#H ≈ L
 \lc tɕʰɯ˩pʰʋ̩˥
 \so <print="n"> F4
@@ -62232,13 +62292,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf A_vos_souhaits
 \dt 10/Jun/2018
 
-\lx tɕʰɯ˧si˩-dʑɤ˩pV̩˩ xxxx
+\lx tɕʰɯ˧si˩-dʑɤ˩pʋ̩˩
 \or qiseejjabu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton L#-
-\lc tɕʰɯ˧si˩dʑɤ˩pV̩˩
+\lc tɕʰɯ˧si˩dʑɤ˩pʋ̩˩
 \so <print="n"> F4
 \de Monster, demon.
 \ge monster
@@ -62246,11 +62306,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 妖怪
 \df Monstre, revenant.
 \gf monstre/revenant
-\xv no˧ | tɕʰɯ˧si˩-dʑɤ˩pV̩˩-ki˩ | le˧-hɯ˩-ɲi˩-ze˩!
+\xv no˧ | tɕʰɯ˧si˩-dʑɤ˩pʋ̩˩-ki˩ | le˧-hɯ˩-ɲi˩-ze˩!
 \xe You have gone away to the world of monstres (and should not come back to trouble the living)! (Speech addressed to a ghost that one beseeches should not come back)
 \xn 你已经到妖怪的世界那边（就恳求你不要回来了）！（对鬼说的话）
 \xf Tu es parti rejoindre les monstres! (propos tenus à un revenant qu'on enjoint de ne plus revenir hanter les vivants)
-\dt 01/Aug/2017
 
 \lx tɕɯ˧sɯ˧˥
 \sf <nb="B"> 9
@@ -62348,7 +62407,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc tɕʰɯ˩zo˥
 \so <print="n"> F4
 \va <speaker="F4"> tɕʰɯ˩zo˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby muntjac, barking deer fawn
 \ge muntjac_fawn
 \dn 麂子崽子
@@ -62666,7 +62725,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Plane.
 \ge plane
 \dn 刨
@@ -62755,7 +62814,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> d'abord noté au ton †LM
 \ton LM+#H
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Large plane.
 \ge large_plane
 \dn 大刨
@@ -62778,7 +62837,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Ceiling.
 \ge ceiling
 \dn 天花板
@@ -62786,10 +62845,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Plafond.
 \gf plafond
 
-\lx ti˧pʰV̩#˥ xxxx
+\lx ti˧pʰʋ̩#˥
 \or dipu
 \ps n
-\lc ti˧pʰV̩˧
+\lc ti˧pʰʋ̩˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton #H
@@ -62862,7 +62921,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ti˧˥tsɯ˥
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Box (woven out of bamboo or wicker).
 \ge wicker_box
 \dn 竹箱
@@ -62883,7 +62942,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="sem" langue="fra"> (emprunt)
 \ton L#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hammer.
 \ge hammer
 \dn 铁锤
@@ -62901,7 +62960,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> d'abord noté au ton †LM
 \ton LM+#H
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small plane.
 \ge small_plane
 \dn 小刨
@@ -63201,7 +63260,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton MH#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Telephone.
 \ge 电话::telephone
 \dn 电话
@@ -63225,7 +63284,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Fort; pillbox; blockhouse for military use.
 \ge 碉堡::blockhouse
 \dn 碉堡
@@ -63273,7 +63332,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LH
 \so <print="n"> F4
 \va <speaker="M18"> ID.; ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Mountain slope, hillside.
 \ge hillside
@@ -63352,7 +63411,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bottle.
 \ge bottle
 \dn 瓶子
@@ -63369,7 +63428,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc to˧bɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que M18 interprète comme “do˥pV̩˥ze˥: un prodigue a tout dépensé")
+\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que M18 interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
 \ton #H
 \so <print="n"> F4
 \vf a) ɖɯ˧
@@ -63501,7 +63560,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="sem" langue="fra"> littéralement “fleur qui vous donne une chiquenaude au front"
 \so <print="n"> F4
 \vf <type="tone"> -L | L
-\va <speaker="M21"> ɬu˧pV̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude' “
+\va <speaker="M21"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude' “
 \pdv bæ˩
 \de Plant with long filaments.
 \ge plant_sp
@@ -63601,7 +63660,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton M
 \lc tʰo˧lɑ˧tɕi˧
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Tractor.
 \ge 拖拉机::tractor
 \dn 拖拉机
@@ -63715,7 +63774,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc tʰo˧li˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby rabbit.
 \ge baby_rabbit
 \dn 小兔
@@ -63756,7 +63815,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pillar.
 \ge pillar
 \dn 柱子
@@ -63828,7 +63887,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf association avec des numéraux, de 1 à 10. Comportement tonal identique pour 1 et 2, 4 et 5, 6 et 8.
 \dt 30/Apr/2017
 
-\lx to˩pV̩˧ xxxx
+\lx to˩pʋ̩˧
 \or dobu
 \bw <langue="bod">?
 \ps adv
@@ -63836,7 +63895,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> time
 \nt <langue="pumi" type="comp" print="n"> tõ22pu51
 \ton LM
-\lc to˩pV̩˥
+\lc to˩pʋ̩˥
 \so <print="n"> F4
 \de To begin with, at first, in the first place.
 \ge to_begin_with
@@ -63844,12 +63903,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 最初
 \df Au début, pour commencer.
 \gf pour_commencer
-\xv ʁo˧dɑ˧ | to˩pV̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
+\xv ʁo˧dɑ˧ | to˩pʋ̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
 \xe Before, at first, (your) learning (Mosuo) was a little slow. (Now,) it is really getting a bit faster! You know some (Mosuo, and so) it gets faster!
 \xn 以前，最初的时候，（你）学习（摩梭话）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭话），所以快起来了！
 \xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue), (le travail de transcription) va plus vite!' (Commentaire de F4 en 2017, au sujet des progrès dans le travail de transcription de textes.)
 
-\lx tʰo˩pʰV̩˧tɕʰɤ˧ xxxx
+\lx tʰo˩pʰʋ̩˧tɕʰɤ˧
 \sf <nb="B"> 609
 \sf <nb="2011"> 896
 \or topuqe
@@ -63861,11 +63920,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="sem" langue="fra"> flèche de feu
 \np <langue="fra"> Songé à une étymologie  |fn{同步枪} mais l'initiale de la 2e syllabe ne devrait pas être aspirée
 \ton LM
-\lc tʰo˩pʰV̩˧tɕʰɤ˧
+\lc tʰo˩pʰʋ̩˧tɕʰɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁu˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
+\pdv nɑ˧α
 \pdv kʰɯ˩
 \de Gun; firelock; rifle.
 \ge firelock
@@ -63882,7 +63941,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton M
 \lc to˧qɑ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kid (baby goat, young goat).
 \ge kid
 \dn 羔羊
@@ -64026,7 +64085,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Brick.
 \ge brick
 \dn 砖
@@ -64693,7 +64752,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 安上
 \df Fixer, accrocher (ex.: coudre un bouton sur un vêtement; attacher la selle sur un cheval).
 \gf fixer
-\xv pV̩˩ɭɯ˥ ʈʂæ˩
+\xv pʋ̩˩ɭɯ˥ ʈʂæ˩
 \xe to sew a button
 \xn 缝扣子
 \xf coudre un bouton (sur un vêtement)
@@ -64960,7 +65019,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton LM+#H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Container in which butter-tea is mixed; also: butter churn.
 \ge butter_tea_churn/butter_churn
 \dn 打酥油茶的罐、酥油茶搅拌器，黄油搅乳器
@@ -65280,8 +65339,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
-\pdv ɭɯ˧
+\pdv nɑ˧α
+\pdv ɭɯ˧β
 \de Hook.
 \ge hook
 \dn 钩子
@@ -65312,7 +65371,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H$
 \lc ʈʂʰæ˧qʰv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Antlers; pilose antler (of young stags).
 \ge antlers
 \dn 鹿角，鹿茸
@@ -65385,7 +65444,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc tsɑ˩tɕi˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv mo˧˥
 \de Various mushrooms, mixed mushrooms.
 \ge 杂菌::various_mushrooms
@@ -65475,7 +65534,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʈʂʰæ˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby deer.
 \ge baby_deer
 \dn 小鹿
@@ -65543,7 +65602,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Lock.
 \ge lock
 \dn 锁
@@ -65588,7 +65647,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" langue="fra" print="n"> (auparavant noté: ʈʂi˥) (vérifié: n'est pas /ʈʂi/) (corrigé en 2007; en 2006, avais noté: ʈʂe˥pV̩˧)
+\nt <type="hist" langue="fra" print="n"> (auparavant noté: ʈʂi˥) (vérifié: n'est pas /ʈʂi/) (corrigé en 2007; en 2006, avais noté: ʈʂe˥pv̩˧)
 \nt <type="sem" langue="fra"> (croyance locale: s'asseoir sur de la terre “crue" serait mauvais pour la santé)
 \ton #H
 \lc ʈʂe˧
@@ -65603,7 +65662,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 土壤
 \df Terre.
 \gf terre
-\xv ʈʂe˧pV̩˩
+\xv ʈʂe˧pɻ̩˩
 \xe dry earth
 \xn 干土
 \xf terre sèche
@@ -65626,7 +65685,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʈʂe˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Needle.
 \ge 针::needle
 \dn 针
@@ -65747,7 +65806,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc tse˧bæ˥
 \so <print="n"> F4
-\vf ne connaît pas; songe à: zɯ˧pV̩˩ “herbe sèche"
+\vf ne connaît pas; songe à: zɯ˧pv̩˩ “herbe sèche"
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
@@ -65772,7 +65831,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small bell.
 \ge small_bell
 \dn 铃铛
@@ -66046,7 +66105,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc tse˧kʰo˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sanctuary (small sanctuary on the mountain).
 \ge sanctuary
 \dn 佛龛
@@ -66082,7 +66141,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc ʈʂe˩kʰɯ˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Seam.
 \ge seam
 \dn 缝
@@ -66147,7 +66206,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc tse˧lv̩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Flint.
 \ge flint
 \dn 燧石
@@ -66172,7 +66231,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf tons confirmés, d'abord noté ˥˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> tsɤ˧mi˥
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Lighter.
 \ge lighter
 \dn 火镰
@@ -66375,7 +66434,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Key.
 \ge key
 \dn 钥匙
@@ -66485,7 +66544,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Scissors.
 \ge scissors
 \dn 剪刀
@@ -67085,7 +67144,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf mettre un chapeau
 \dt 14/Dec/2016
 
-\lx tsʰi˧bV̩˩ xxxx
+\lx tsʰi˧bʋ̩˩
 \sf <nb="B"> 1063
 \sf <nb="2011"> 1499
 \or ceebbu
@@ -67094,7 +67153,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> aussi noté: so˧ tsʰɯ˥; M21 a: ˩˥ ˥
 \ton L#
-\lc tsʰi˧bV̩˩
+\lc tsʰi˧bʋ̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; aussi noté: su˩˥ tsʰɯ˥
@@ -67120,7 +67179,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf <type="tone"> M
 \va <speaker="M21"> tsɯ˧gi˧, ton d2a
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \pdv kʰwɤ˥
 \de Crack, fissure.
 \ge crack
@@ -67183,12 +67242,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf petit_oiseau_sp
 \dt 27/Oct/2016
 
-\lx tsi˩ɭɯ˩-bV̩˥ | -qʰæ˩bæ˩˥ xxxx
+\lx tsi˩ɭɯ˩=bʋ̩˥ | -qʰæ˩bæ˩˥
 \sf <nb="2011"> 3275
 \or zeelee bbu khaebbae
 \ps n
 \ton L+H#|L
-\lc tsi˩ɭɯ˩bV̩˥qʰæ˩bæ˩˥
+\lc tsi˩ɭɯ˩bʋ̩˥qʰæ˩bæ˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> pas de différence de sens avec dʑi˩ʁu˩-zo˩-bæ˧, selon F4
@@ -67260,13 +67319,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf actuellement
 \dt 07/Oct/2015
 
-\lx tsʰi˧si˩-dʑɤ˩pV̩˩ xxxx
+\lx tsʰi˧si˩-dʑɤ˩pʋ̩˩
 \or ceeseejjabu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton L#-
-\lc tsʰi˧si˩dʑɤ˩pV̩˩
+\lc tsʰi˧si˩dʑɤ˩pʋ̩˩
 \so <print="n"> F4
 \de The world of spirits, the world of the dead.
 \ge world_of_spirits
@@ -67324,7 +67383,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc tsʰi˩tv̩˩˥
 \so <print="n"> F4
-\va <speaker="M18"> oə˞͂˥ bV̩˥ ɬv̩˩˥
+\va <speaker="M18"> oə˞͂˥ bv̩˥ ɬv̩˩˥
 \vf moëlle de l'os, comme “cervelle" est “moëlle de la tête"; ne connaissant pas le mot exact il crée une périphrase
 \va <speaker="M21"> tsʰɯ˩tv̩˩˥, ton d3
 \pdv kʰwɤ˥
@@ -67552,7 +67611,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 变成
 \df Se transformer, créer, devenir; être.
 \gf devenir/être
-\xv sɯ˧pV̩˧-sɯ˥nɑ˩-ʈʂʰɯ˩ | ə˧dzɤ˧~dzɤ˥-zo˩ | pʰi˧li˩ tsɤ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩!
+\xv sɯ˧pɻ̩˧-sɯ˥nɑ˩-ʈʂʰɯ˩ | ə˧dzɤ˧~dzɤ˥-zo˩ | pʰi˧li˩ tsɤ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩!
 \xe The caterpillar gradually becomes a butterfly, doesn't it!
 \xn 毛虫能慢慢变成蝴蝶，不是吗？
 \xf la chenille devient peu à peu papillon!
@@ -67968,11 +68027,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf vêtement_masculin
 \dt 27/Apr/2017
 
-\lx ʈʂʰo˧bV̩˩ xxxx
+\lx ʈʂʰo˧bʋ̩˩
 \sf <nb="2011"> 3279
 \or chobbu
 \ps n
-\lc ʈʂʰo˧bV̩˩
+\lc ʈʂʰo˧bʋ̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
@@ -67995,7 +68054,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> house
 \ton L#
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Small eminence next to the hearth, symbolising the ancestors, on top of which some food is offered at the beginning of each meal.
 \ge eminence_symbolizing_the_ancestors
 \dn 火塘上面祖先灵位
@@ -68107,7 +68166,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ʈʂʰɤ˧hu˥
 \vf tons confirmés
 \va <speaker="M21"> emprunt: ʈʂʰɑ˩fv̩˧˥, ton d5
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Kettle.
 \ge 茶壶::kettle
 \dn 水壶（汉语借词：茶壶）
@@ -68127,7 +68186,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton M
 \lc tsʰo˧ko˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cardamom, |fi{Elletaria cardamomum}.
 \ge cardamom
 \dn 小豆蔻
@@ -68152,7 +68211,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Goblet.
 \ge goblet
 \dn 缸子，杯子
@@ -68188,7 +68247,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc tso˧kʰwɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ɲi˧fv̩˥, ton d7
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bag (of fabric or leather).
 \ge bag
 \dn 袋子
@@ -68212,8 +68271,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> périphrase proposée: lu˧i˧di˧˥, lu˧i˧di˧tsu˧tsu˧
-\pdv nɑ˧
-\pdv ɭɯ˧
+\pdv nɑ˧α
+\pdv ɭɯ˧β
 \de Tool; thing, object.
 \ge tool/thing
 \dn 东西，工具
@@ -68233,7 +68292,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʈʂʰo˧lo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Frying pan (large, with flat bottom).
 \ge large_frying_pan
 \dn 平底大锅（直径大概半米），用来煎洋芋饼等等
@@ -68278,7 +68337,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf d'abord noté ʈʂv̩˥lv̩˥, prononciation qui est occasionnellement celle de TS
 \vf même que “un grain de"
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Hand-operated grindstone.
 \ge hand_grindstone
 \dn 手推磨
@@ -68373,7 +68432,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \vf selon F4, est: xiang1zao4, distinct de: /tsʰo˥pi˥/, fei2zao4
 \va <speaker="M21"> tsʰu˧pjɑ˧, ton d1
 \vf voyelle vérifiée
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Soap. Presumably borrowed from a language of Burma: cp. Nung /tshɑ³¹ pi⁵⁵ iɔ⁵⁵/ [Dai 1992], Luxi Achang and Lianghe Achang /tshɑu⁵⁵ pjɑu⁵⁵/ [Dai 1985], Longchuan Achang /tshau³¹ piau³¹/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma.
 \ge soap
 \dn 肥皂
@@ -68468,7 +68527,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton M
 \lc tso˧qwɤ˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Sleeping corner: a part of the main room where there is bedding; some people can sit there during meals or family reunions. Newborn babies sleep there. After a bereavement, the corpse is placed on this bed.
 \ge sleeping_corner
 \dn 小床角：主屋里面的一个角落，有床垫子。用餐、招待客人的时候，会有人在上面坐。刚出生的婴儿也在此处睡觉。人去世后，尸体先放在那个地方。
@@ -68613,7 +68672,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc tsʰo˧ʁo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Barn: the building at the entrance of the farm, through which one comes when entering the farm. It is made of wood. On the ground floor, there are stables and pigsties; hay and straw are stored on the first floor.
 \ge barn
 \dn 牲畜圈：家门口的那栋楼，下为畜厩，上存饲料或另辟为房间
@@ -68689,7 +68748,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM
 \lc tsʰo˩tsɯ˥
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de File (tool).
 \ge 锉子::file
 \dn 锉刀
@@ -68708,7 +68767,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés en mai 2008) (d'abord noté dzɯ) (emprunt)
-\np <langue="fra"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bV̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
+\np <langue="fra"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bv̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
 \ton M
 \lc tsʰo˧tsɯ˧
 \so <print="n"> F4
@@ -69148,8 +69207,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
-\pdv ɭɯ˧
+\pdv nɑ˧α
+\pdv ɭɯ˧β
 \de Thing, thingummy, stuff.
 \ge thing
 \dn 东西
@@ -69248,7 +69307,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.: ʈʂʰɻ̩˧, ton m2; confirmé: n'est pas la même rime que dans “repas du matin"; phonétiquement, ressemble à [ʈʂʰvɻ]
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ploughshare.
 \ge ploughshare
 \dn 铧头，犁铧
@@ -69314,7 +69373,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ʈʂʰv̩˩˥
 \va <speaker="M21"> ʈʂʰɻ̩˩˥, ton m4
 \vf confirmé, n'est pas ʈʂʰv̩˩˥; s'oppose à la syllabe qui s'observe dans “repas du matin, petit déjeuner"
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lung.
 \ge lung
 \dn 肺
@@ -69569,7 +69628,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> *
 \va <speaker="M21"> ʈʂɯ˧, ton m2
 \vf sens vérifié
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Claws.
 \ge claws
 \dn 爪子
@@ -70236,7 +70295,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> ton corrigé en 2018 en H$; auparavant noté #H. Une invraisemblance avait été relevée par Roselle Dobbs en 2017 : avais noté tsʰɯ˧zo#˥ pour chevrette, et tsʰɯ˧zo˥$ pour chevreau. Il ne paraissait pas plausible que deux termes soient efficacement distingués par une différence de catégorie tonale souvent neutralisée en contexte. La première hypothèse avait été qu'il s'agissait d'un même terme admettant deux variantes tonales. Mais la réalisation avec ton #H est rejetée par F4 en 2018.
 \so <print="n"> F4
 \va <speaker="M21"> tsʰɯ˧zu˧, ton d2a
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby goat, male or female: kid or young nanny goat.
 \ge young_goat
 \dn 山羊羔（公的或母的）
@@ -70410,11 +70469,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 汗
 \df Sueur (monosyllabe).
 \gf sueur
-\xv ʈʂv̩˧ bV̩˧nv̩˩
+\xv ʈʂv̩˧ bʋ̩˧nv̩˩ xxxx
 \xe smelling of sweat, reeking of sweat
 \xn 有汗（臭）的味道
 \xf qui sent la sueur, malodorant
-\dt 07/Oct/2015
 
 \lx ʈʂʰv̩˩
 \sf <nb="B"> 1143
@@ -70627,7 +70685,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L#
 \lc ʈʂv̩˧pɤ˩
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Cutting-board; vessel or cutting board for meat.
 \ge cutting_board
 \dn 菜板、俎
@@ -70644,7 +70702,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \cf ʈʂʰv̩˧ɻ̩˥$
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (note ancienne: /ʈʂʰɻ̩˥ɻ̩˥ bV̩˥ kʶv̩˥/)
+\nt <type="hist" langue="fra" print="n"> (note ancienne: /ʈʂʰɻ̩˥ɻ̩˥ bv̩˥ kʶv̩˥/)
 \nt <type="hist" langue="fra" print="n"> ʈʂʰɻ̩˧ɻ̩˧kʰʶv̩˧dzɯ˧ + ɲi˥ (notation 2006: ʈʂʰv̩˥ɻ̩˥ kʶv̩˥dzɯ˥)
 \ton #H
 \lc ʈʂʰv̩˧ɻ̩˧qʰv̩˧
@@ -70652,7 +70710,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ʈʂʰɻ̩˧ɻ̩˧qʰv̩˧dzɯ#˥
 \vf <type="tone"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̩˧ʑi˧kʰwɤ˥; ʈʂʰv̩˧ɻ̩˧ kʰʶv̩˧ +ɲi˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Ant nest.
 \ge ant_nest
 \dn 蚂蚁巢
@@ -70952,7 +71010,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton LM
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Boat.
 \ge 船::boat
 \dn 船
@@ -71057,7 +71115,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> agriculture
 \ton M
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Net.
 \ge net
 \dn 网
@@ -71137,7 +71195,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf emprunt
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Window.
 \ge window
 \dn 窗户
@@ -71160,7 +71218,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Cymbals (Chinese borrowing).
 \ge cymbals
 \dn 钹
@@ -71893,7 +71951,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Knot.
 \ge knot
 \dn 死扣、死结
@@ -72033,7 +72091,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> tɤ˧ɻ̩˩˥
 \vf confirmé, transcription et tons
 \va <speaker="M23"> tɤ˧ɭɯ˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Fine, high-quality basket carried on the back; it had a trough shape. Not in use anymore at the time of fieldwork.
 \ge fine_basket
 \dn 高级的背篓，过去用它放礼物
@@ -72143,7 +72201,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \lc ʈv̩˩qʰv̩˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Slipknot.
 \ge slipknot
 \dn 活扣
@@ -72250,7 +72308,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
 \rf F5
 \sn 2
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Spell of time; hour.
 \ge hour
 \dn 时间段、小时
@@ -72351,7 +72409,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Hat.
 \ge hat
 \dn 帽子
@@ -72532,7 +72590,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 发芽
 \df Germer, bourgeonner, donner des bourgeons.
 \gf germer
-\xv si˧dzi˩ | ʁo˧bV̩˧ tʰv̩˧
+\xv si˧dzi˩ | ʁo˧bʋ̩˧ tʰv̩˧
 \xe the tree buds
 \xn 树抽芽
 \xf l'arbre fait des bourgeons
@@ -72868,7 +72926,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Pot.
 \ge pot
 \dn 锅
@@ -72951,7 +73009,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Bird nest.
 \ge bird_nest
 \dn 鸟窝，鸟巢
@@ -73516,7 +73574,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> avant 2012: noté †wu˩kɤ˧˥
 \ton LM+#H
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Swing.
 \ge swing
 \dn 秋千（鞦韆）
@@ -73986,7 +74044,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc ʐæ˩zo˥
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Leopard cub, baby leopard.
 \ge leopard_cub
 \dn 小豹子
@@ -74159,7 +74217,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Arrow.
 \ge arrow
 \dn 箭
@@ -74179,7 +74237,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sn 1
 \so <print="n"> F4
 \pdv kʰɯ˩
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Arrow.
 \ge arrow
 \dn 箭
@@ -74666,7 +74724,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> ID. æ˩ ʑi˧-ze˩; æ˩˧ le˧-ʑi˩-ze˩! ; le˧-ʑi˩-pu˩ ju˧ æmæ: yyyy le˧-ʑi˩ | po˩-jo˧. |
+\va <speaker="M21"> ID.
 \de To clutch, to grasp, to grab.
 \ge to_grab
 \dn 拿，捉 (捉鸡)
@@ -74701,8 +74759,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xv tso˧~tso˧ ʑi˧˥
 \xe to bring something
 \xn 带东西过来
-\xf attraper quelque chose
-\dt 27/Apr/2017
+\xf amener quelque chose
+\xv le˧-ʑi˩ | po˩-jo˧
+\xe to bring something along, to pick something and bring it along
+\xn 拿（东西），带过来
+\xf prendre quelque chose et l'amener
 
 \lx ʑi˧dv̩˧
 \sf <nb="B"> 452
@@ -74719,7 +74780,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The household.
 \ge household
 \dn 家
@@ -74742,7 +74803,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The entire farmhouse, comprising the main house and the other buildings.
 \ge farmhouse
 \dn 农舍，包括院子、人住的楼、动物住的楼等
@@ -74863,7 +74924,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> house
 \ton M
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de The main building of the house/farm: the building where the hearth is located.
 \ge main_building
 \dn 家里有火塘的那个房子（“祖母房”）
@@ -74959,7 +75020,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe |fg{pfv}
 \xn |fg{pfv}
 \xf |fg{pfv}
-\dt 24/Jul/2017
 
 \lx ʑi˧ŋv̩˥
 \sf <nb="B"> 1517b
@@ -75021,7 +75081,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Building; houses.
 \ge building
 \dn 房屋
@@ -75120,7 +75180,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Infant monkey/ape.
 \ge baby_monkey
 \dn 小猴子
@@ -75331,28 +75391,28 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf idiots, imbéciles (sans distinction de sexe)
 \dt 07/Oct/2015
 
-\lx zo˩bV̩˥li˩ xxxx
+\lx zo˩-bʋ̩˥-li˩
 \or ssobbuli
 \bw <langue="bod">? (Lidz 2010: 108)
 \ps n
 \ton L.H.L
-\lc zo˩bV̩˥li˩
+\lc zo˩bʋ̩˥li˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \so <print="n"> F4
-\va <speaker="M18"> zo˩bV̩˧ɭɯ˩
-\va <speaker="M23"> zu˩bV̩˧ɻ̩˩
+\va <speaker="M18"> zo˩bv̩˧ɭɯ˩
+\va <speaker="M23"> zu˩bv̩˧ɻ̩˩
 \de Universe.
 \ge universe
-\dn 宇宙
+\dn 地球、宇宙
 \gn 宇宙
 \df Univers.
 \gf univers
-\xv sɑ˧ | -zo˩bV̩˥-li˩
+\xv sɑ˧ | -zo˩-bʋ̩˥-li˩
 \xe the universe
 \xn 宇宙
 \xf l'univers
-\xc <type="hist" print="n"> sens: l'univers entier; mot fourni par M18; avant juillet 2012: analysé comme /†sɑ˧zo˩ | bV̩˧ɭɯ˩/; avant 2013: noté /sɑ˧ | zo˩bV̩˥ɭɯ˩/, avec une syllabe erronée, au lieu de /li/. M18 traduit par: 天地的空间. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bV̩˧ɭɯ˩; on peut dire simplement: zo˩bV̩˧ɭɯ˩.
+\xc <type="hist" print="n"> sens: l'univers entier; mot fourni par M18; avant juillet 2012: analysé comme /†sɑ˧zo˩ | bv̩˧ɭɯ˩/; avant 2013: noté /sɑ˧ | zo˩bv̩˥ɭɯ˩/, avec une syllabe erronée, au lieu de /li/. M18 traduit par: 天地的空间. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩; on peut dire simplement: zo˩bv̩˧ɭɯ˩.
 
 \lx zo˧ɖɯ#˥
 \or ssoddee
@@ -75505,7 +75565,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Child.
 \ge child
 \dn 孩子
@@ -75626,7 +75686,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Calf.
 \ge calf
 \dn 小牛
@@ -75644,7 +75704,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Calf.
 \ge calf
 \dn 小牛
@@ -76063,11 +76123,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 酒
 \df Alcool fermenté, chang, vin.
 \gf vin
-\xv ʐɯ˧ pʰV̩˧˥
+\xv ʐɯ˧ pʰʋ̩˧˥
 \xe to pour wine
 \xn 斟酒
 \xf verser à boire
-\dt 02/May/2017
 
 \lx ʐɯ˥
 \sf <nb="B"> 966
@@ -76158,8 +76217,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> ID.; ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
-\pdv nɑ˧
+\pdv ɭɯ˧β
+\pdv nɑ˧α
 \de Boat.
 \ge boat
 \dn 船
@@ -76338,7 +76397,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc zɯ˧ɻ̩˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Cheek.
 \ge cheek
 \dn 腮、腮帮子
@@ -76567,13 +76626,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 蛇
 \df Serpent.
 \gf serpent
-\xv ʐv̩˧bæ˧ ɣɯ˩ pʰV̩˩
+\xv ʐv̩˧bæ˧ ɣɯ˩ pʰʋ̩˩
 \xe The snake sheds skin / exuviates
 \xn 蛇蜕皮
 \xf Le serpent mue
-\dt 06/Oct/2015
 
-\lx ʐv̩˧bæ˧-bV̩˧-hɑ#˥ xxxx
+\lx ʐv̩˧bæ˧-bʋ̩˧-hɑ#˥
 \sf <nb="2011"> 3349
 \or rubbae bbuha
 \ps n
@@ -76581,7 +76639,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> aussi: ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥ (+ɲi˥)
 \ton #H
-\lc ʐv̩˧bæ˧bV̩˧hɑ˧
+\lc ʐv̩˧bæ˧bʋ̩˧hɑ˧
 \so <print="n"> F4
 \pdv qɑ˩
 \pdc <langue="fra"> une botte de fourrage
@@ -76591,7 +76649,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 喂猪的草
 \df L'une des trois sortes de fourrage que l'on donne aux cochons; M18 propose comme étymologie populaire «serpent en colère», du fait que cette plante a des feuilles grasses qui ressemblent à un serpent, et qui sont entortillées.
 \gf fourrage_pour_cochon
-\dt 16/Aug/2017
 
 \lx ʐv̩˧bæ˧-mi˩
 \or rubbaemi
@@ -76635,7 +76692,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʐv̩˧bæ˧zo˧
 \so <print="n"> F4
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Baby snake.
 \ge baby_snake
 \dn 小蛇
@@ -76709,7 +76766,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐv̩˧dzɯ˩, ton d4
-\va <speaker="M23"> ʐv̩˧dzɯ˩ kʰæ˩ pʰV̩˩ ɻ̩˩
+\va <speaker="M23"> ʐv̩˧dzɯ˩ kʰæ˩ pʰv̩˩ ɻ̩˩
 \pdv dzi˩
 \de Willow tree.
 \ge willow
@@ -76772,7 +76829,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʐv̩˩ɭɯ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Beam.
 \ge beam
 \dn 支撑顶板的梁
@@ -76793,7 +76850,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʐv̩˩mi˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Bow (archery bow).
 \ge bow
 \dn 弓
@@ -76815,7 +76872,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M18"> ʐu˥ mi˥
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Granddaughter.
 \ge granddaughter
 \dn 孙女
@@ -76967,7 +77024,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʐv̩˧v̩˧, ton d2a
 \va <speaker="M23"> ʐv̩˧v̩#˥
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Grandson.
 \ge grandson
 \dn 孙子
@@ -76988,7 +77045,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʐv̩˧zo˧
 \so <print="n"> F4
-\pdv nɑ˧
+\pdv nɑ˧α
 \de Small bow (archery bow).
 \ge small_bow
 \dn 小弓
@@ -77229,7 +77286,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʐwæ˧bɻ̩˧˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Horse's stable.
 \ge stable
 \dn 马圈
@@ -77301,20 +77358,19 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="sem" langue="fra"> “céréales pour le cheval"
+\nt <type="hist" langue="fra" print="n"> Avant 2024, noté une deuxième expression, /‡ʐwæ˧lv̩˧/. Il s'agissait en fait d'une erreur. Les hésitations entre /lv̩/ et /ɭɯ/ font partie des caractéristiques des notations des premiers terrains.
 \ton #H
 \lc ʐwæ˧ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Cereals for the horse, horse fodder.
-\ge cereals_for_horse_fodder
-\dn 马料（粮食）
-\gn 马料（粮食）
-\df Nourriture pour cheval (céréales).
-\gf céréales_pour_cheval
-\dt 27/Apr/2017
+\de Cereals for horses.
+\ge cereals_for_horses
+\dn 马用谷物
+\gn 马用谷物
+\df Céréales pour le cheval, picotin.
+\gf picotin
 
 \lx ʐwæ˩mi˩
 \sf <nb="B"> 1860
@@ -77359,7 +77415,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ʐwæ˧pʰæ˧di˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Lunge, tether (for a horse).
 \ge lunge
 \dn 拉马链子
@@ -77456,7 +77512,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧
+\pdv ɭɯ˧β
 \de Colt, pony, filly, foal.
 \ge colt
 \dn 马驹子
@@ -78478,7 +78534,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 灰色
 \xf comme de la cendre = de couleur grise
 \xc <langue="fra"> forme modifiée de |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}; c'est actuellement |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} qui est le plus courant, bien que le mot ‘cendre', hors de cette expression, conserve sa forme |fv{/lwɤ˩/}.
-\xv sɯ˧pV̩˩-ni˩gv̩˩
+\xv sɯ˧pɻ̩˩-ni˩gv̩˩
 \xe like a urinary bladder, in the shape of a bladder
 \xn 像膀胱
 \xf comme une vessie, en forme de vessie
@@ -78953,7 +79009,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> tons vérifiés: avais d'abord noté †…qʰwɤ˧˥ pʰV̩˥ tʰi˧-ki˧
+\nt <type="hist" langue="fra" print="n"> tons vérifiés: avais d'abord noté †…qʰwɤ˧˥ pʰv̩˥ tʰi˧-ki˧
 \ton L
 \lc se˩˥
 \so <print="n"> F4
@@ -78968,11 +79024,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe It's finished! / It's completed!
 \xn 完了！
 \xf C'est fini!
-\xv no˧ | tʰi˧-dzi˩-kʰɯ˩-se˩-dʑo˩, | dʑɯ˩-tsʰi˧ ɖɯ˧-qʰwɤ˧ pʰV̩˥ | tʰi˧-ki˧!
+\xv no˧ | tʰi˧-dzi˩-kʰɯ˩-se˩-dʑo˩, | dʑɯ˩-tsʰi˧ ɖɯ˧-qʰwɤ˧ pʰʋ̩˥ | tʰi˧-ki˧!
 \xe After you have been seated, (I) pour out a bowl of hot water (for you).
 \xn 让（你）坐下以后，（我）给你倒一杯开水。
 \xf Après que tu te sois assis, je te verse un verre d’eau chaude.
-\dt 05/Jul/2017
 
 \lx -ʂo˧~ʂo˩
 \or shosho
@@ -79279,7 +79334,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe distraction, game, amusement, piece of entertainment; the meaning is distinct from |fv{/dʑɤ˩bʋ̩˧-di˩/} ‘toy', which refers specifically to objects
 \xn 娱乐、游戏
 \xf distraction, jeu, divertissement; le sens est distinct d'une autre forme nominalisée, |fv{/dʑɤ˩bʋ̩˧-di˩/} ‘jouet' (objet)
-\xv ʝi˧-tso˧ mɤ˧-ʂv̩˧ɖv̩˧, | dʑɤ˩bV̩˧-tso˩-lɑ˩ ʂv̩˩ɖv̩˩!
+\xv ʝi˧-tso˧ mɤ˧-ʂv̩˧ɖv̩˧, | dʑɤ˩bʋ̩˧-tso˩-lɑ˩ ʂv̩˩ɖv̩˩!
 \xe (He) does not think about his duties, only about his amusements/his pleasures!
 \xn 不考虑任务，只想到娱乐！ / 干正经事不想，只想玩！
 \xf (il) ne pense pas à ses tâches/à ses devoirs/à ce qu'il doit faire, il ne pense qu'à ses distractions!
@@ -79305,7 +79360,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 意志
 \df |fg{volitif.}
 \gf |fg{volitif}
-\xv dʑɤ˩bV̩˥-tso˩-ɲi˩ mæ˩!
+\xv dʑɤ˩bʋ̩˥-tso˩-ɲi˩ mæ˩!
 \xe Let's go and play!
 \xn 玩一玩吧！
 \xf On joue, d'accord? / Allez, on va jouer!

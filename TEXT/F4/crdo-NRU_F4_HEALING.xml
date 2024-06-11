@@ -320,9 +320,8 @@
 	</S>
 	<S id="HealingS044">
 		<AUDIO start="199.8378" end="202.2841"/>
-		<FORM>ə! dʑɯ˧-ʈʂʰwæ˧ ho˧ pi˥-zo˩, | dʑɯ˧ɭɯ˧-bv̩˧ | hɑ˧! |</FORM>
-		<TRANSL xml:lang="fr">Oui! Le gruau de sorgho, c'est la nourriture [qu'on prépare avec] du
-			sorgho!</TRANSL>
+		<FORM>ĩ˧! | dʑɯ˧-ʈʂʰwæ˧ ho˧ pi˥-zo˩, | dʑɯ˧ɭɯ˧-bv̩˧ | hɑ˧! |</FORM>
+		<TRANSL xml:lang="fr">Oui! Le gruau de sorgho, c'est la nourriture [qu'on prépare avec] du sorgho!</TRANSL>
 	</S>
 	<S id="HealingS045">
 		<AUDIO start="203.1862" end="209.2586"/>
@@ -536,12 +535,10 @@
 	<S id="HealingS071">
 		<AUDIO start="324.4823" end="332.1529"/>
 		<FORM>ə! dɑ˧pɤ˧-ɳɯ˧, | ʈʂʰæ˧ɣɯ˧ ki˧! | tʰi˩˥, | əəə… zo˩no˥… | hĩ˧=ɻæ˥, | zo˩no˥, | zo˩no˧-dʑo˥, | [go˧li˧-di˩] le˧-dʑo˧-ɲi˥-ze˩-mæ˩, ◊ ə˩-gi˩! | &lt;le˧-ʈʰ…&gt; le˧-hwæ˧ le˧-ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-qʰwɤ˧-ze˧-mæ˧! |</FORM>
+		<NOTE xml:lang="fr" message="L'interjection par laquelle commence cet énoncé n'est pas un simple 'oui', /ĩ˧/. C'est plutôt un 'ah' qu'un 'oui': la proposition qui est faite par l'interlocuteur (le linguiste) étant erronée (en fait, il n'était pas courant que le prêtre dɑ˧pɤ˧ donne des médicaments), la locutrice redresse tout en douceur. Elle commence par répéter simplement la proposition qui est faite, puis apporte un éclaircissement, sans donner la contradiction de façon directe, amusée ou sarcastique."/>
 		<NOTE xml:lang="fr" message="Avant 2014: noté /‡zo˩no˧-dʑo˧/."/>
-		<NOTE xml:lang="fr"
-			message="go˧li˧-di˩: dispensaire, lieu où on peut aller voir un médecin; 'voir un médecin': calque du chinois, 'voir la maladie', 看病"/>
-		<TRANSL xml:lang="fr">Le prêtre dɑ˧pɤ˧ donne des médicaments! (La locutrice répète simplement
-			ce que je dis; en fait, il n'était pas courant que le prêtre dɑ˧pɤ˧ donne des
-			médicaments.) Alors, en fait… maintenant, les gens… à notre époque, il y a des
+		<NOTE xml:lang="fr" message="go˧li˧-di˩: dispensaire, lieu où on peut aller voir un médecin; 'voir un médecin': calque du chinois, 'voir la maladie', 看病"/>
+		<TRANSL xml:lang="fr">Ah, alors: «Le prêtre dɑ˧pɤ˧ donne des médicaments», [dis-tu!] ) Alors, en fait… maintenant, les gens… à notre époque, il y a des
 			médecins, des dispensaires, n'est-ce pas! Comme on achète (des médicaments) et qu'on les
 			prend (littéralement "on les boit"), on est guéri!</TRANSL>
 	</S>
@@ -657,10 +654,8 @@
 	</S>
 	<S id="HealingS088">
 		<AUDIO start="386.7624" end="392.3763"/>
-		<FORM>ə! dɑ˧pɤ˧-ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | ʝi˧kʰv̩˥, | sɯ˧-hĩ˧-ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | ʈʂʰæ˧ɣɯ˧
-			dʑo˧! | ʝi˧kʰv̩˥-dʑo˩, | mɤ˧-dʑo˧! õ! ʈʂʰɯ˧ne˧-ʝi˥… |</FORM>
-		<NOTE xml:lang="fr"
-			message="pour étude de la structure de l'information: noter: la focalisation/topicalisation peut jouer le rôle qui serait celui d'un adversatif."/>
+		<FORM>ĩ˧! | dɑ˧pɤ˧-ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | ʝi˧kʰv̩˥, | sɯ˧-hĩ˧-ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | ʈʂʰæ˧ɣɯ˧ dʑo˧! | ʝi˧kʰv̩˥-dʑo˩, | mɤ˧-dʑo˧! õ! ʈʂʰɯ˧ne˧-ʝi˥… |</FORM>
+		<NOTE xml:lang="fr" 	message="pour étude de la structure de l'information: noter: la focalisation/topicalisation peut jouer le rôle qui serait celui d'un adversatif."/>
 		<TRANSL xml:lang="fr">Eh oui! [Tandis que] les prêtres dɑ˧pɤ˧, eux, certains d'entre eux,
 			ceux qui s'y connaissaient, ils avaient des médicaments! Certains [en revanche] n'en
 			avaient pas! Et comme ça…</TRANSL>
@@ -717,7 +712,7 @@
 	</S>
 	<S id="HealingS096">
 		<AUDIO start="415.1611" end="419.9626"/>
-		<FORM>ə! ɖæ˩mi˧! | ɖæ˩mi˧-ʈæ˩bɤ˩! | ə! ɖæ˩mi˧-qo˧ dzi˩-hĩ˩! |</FORM>
+		<FORM>ĩ˧! | ɖæ˩mi˧! | ɖæ˩mi˧-ʈæ˩bɤ˩! | ĩ˧! | ɖæ˩mi˧-qo˧ dzi˩ hĩ˩! |</FORM>
 		<TRANSL xml:lang="fr">Oui! Le monastère: les moines du monastère! ceux qui habitent au
 			monastère!</TRANSL>
 	</S>

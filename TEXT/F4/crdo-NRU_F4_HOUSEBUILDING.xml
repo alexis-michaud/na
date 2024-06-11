@@ -3833,16 +3833,16 @@
 		</W>
 </S>
 <S id="HouseBuilding_S059"><AUDIO start="258.6049" end="262.9322"/>
-	<FORM kindOf="phono">ə! ɖɯ˧-ɲi˥-ɳɯ˩, | tʰi˩˥, | &lt;no˧&gt; ko˧ | ɖɯ˧-ɭɯ˧-qo˧-ɳɯ˧, | &lt;ɖɯ˧…&gt; ɖɯ˧-ʂɯ˩-ʈɤ˩! |</FORM>
+	<FORM kindOf="phono">õ! ɖɯ˧-ɲi˥-ɳɯ˩, | tʰi˩˥, | &lt;no˧&gt; ko˧ | ɖɯ˧-ɭɯ˧-qo˧-ɳɯ˧, | &lt;ɖɯ˧…&gt; ɖɯ˧-ʂɯ˩-ʈɤ˩! |</FORM>
 	<FORM kindOf="ortho">E! Ddeeni nee, tiq, go ddeelee gho nee ddeeshi de.</FORM>
 	<NOTE xml:lang="fr" message="sens vérifié: le trajet dont il est question ici est entre le lieu d'abattage et la vallée, non entre le lieu où on peut attacher avec des cordes et la vallée."/>
 	<TRANSL xml:lang="fr">En une journée, on peut tirer [le bois de construction] une fois depuis la montagne [jusqu'à la vallée]! (=il faut toute une journée pour faire un trajet entre le lieu d'abattage et la vallée/ pour porter une grosse pièce de bois de construction du lieu d'abattage jusqu'à la vallée)</TRANSL>
 	<TRANSL xml:lang="en">Oh! In one day, well, they could pull one load [lit: time] (of timber) from a mountain (down to a valley).</TRANSL>
 	<TRANSL xml:lang="zh">一天时间，能拉一次（=能拉一大块木料）从山上（到山谷）！</TRANSL>
 		<W>
-			<FORM>ə</FORM>
-			<TRANSL xml:lang="fr">°interjection</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
+			<FORM>õ</FORM>
+			<TRANSL xml:lang="fr">°intj.approbation</TRANSL>
+			<TRANSL xml:lang="en">°intj.approbation</TRANSL>
 		</W>
 		<W>
 			<FORM>ɖɯ˧-ɲi˥</FORM>
@@ -4709,8 +4709,8 @@
 		</W>
 </S>
 <S id="HouseBuilding_S074"><AUDIO start="316.9640" end="324.3225"/>
-	<FORM kindOf="phono">tʰi˧-tʰv̩˧-dʑo˧, | "ə˧mi˧! | tsʰi˧-ʝi˧-dʑo˩, | mmm… kʰv̩˧-dʑɤ˥-ɲi˩-mæ˩! | ʑi˧mi˧ | le˧-dɑ˧-zo˧-ʝi˧-ze˩ | -bɑ˩˥!" | pi˧. | ə!</FORM>
-	<FORM kindOf="ortho">Teetu jjo: "Ami! Ceeyi jjo, mmm… kuq jjaq niq mae! Xximi ledda sso yi ssei bba!" bi. E!</FORM>
+	<FORM kindOf="phono">tʰi˧-tʰv̩˧-dʑo˧, | "ə˧mi˧! | tsʰi˧-ʝi˧-dʑo˩, | mmm… kʰv̩˧-dʑɤ˥-ɲi˩-mæ˩! | ʑi˧mi˧ | le˧-dɑ˧-zo˧-ʝi˧-ze˩ | -bɑ˩˥!" | pi˧. | </FORM>
+	<FORM kindOf="ortho">Teetu jjo: "Ami! Ceeyi jjo, mmm… kuq jjaq niq mae! Xximi ledda sso yi ssei bba!" bi.</FORM>
 <NOTE xml:lang="fr" message="Avant 2024: noté /‡tʰi˧-tʰv̩˧-dʑo˥/. Corrigé à l'occasion de la transcription du texte Sister5."/>
 	<TRANSL xml:lang="fr">Quand on arrive, on dit: "Houlà! Cette année, mmh… C'est une bonne année! Le temps est venu de construire la maison, hein! </TRANSL>
 	<TRANSL xml:lang="en">When (they) arrived, (people would) say, "Wow! This year, mmm, it's a good year! The time has come to build a house, eh!</TRANSL>
@@ -4807,8 +4807,8 @@
 		</W>
 </S>
 <S id="HouseBuilding_S075"><AUDIO start="324.3225" end="328.9490"/>
-	<FORM kindOf="phono">tʰi˩˥, | "tsʰi˧-ʝi˧-dʑo˩, | ʑi˧mi˧ | le˧-dɑ˧-zo˧-ʝi˧-ze˩, | kʰv̩˧-dʑɤ˥-ɲi˩!" | pi˧-dʑo˩. |</FORM>
-	<FORM kindOf="ortho">Tiq: "Ceeyi jjo xximi ledda sso yi ssei, kuq jjaq niq!" bi jjo.</FORM>
+	<FORM kindOf="phono">ĩ˧! | tʰi˩˥, | "tsʰi˧-ʝi˧-dʑo˩, | ʑi˧mi˧ | le˧-dɑ˧-zo˧-ʝi˧-ze˩, | kʰv̩˧-dʑɤ˥-ɲi˩!" | pi˧-dʑo˩. |</FORM>
+	<FORM kindOf="ortho">E! Tiq: "Ceeyi jjo xximi ledda sso yi ssei, kuq jjaq niq!" bi jjo.</FORM>
  <NOTE xml:lang="fr" message="Avant 2013, noté: /‡le˧-dɑ˧-zo˧-ʝi˥-ze˩/. Vérifié: est bien /le˧-dɑ˧-zo˧-ʝi˧-ze˩/, de même que dans la phrase précédente."/>
 	<TRANSL xml:lang="fr">Cette année, le temps est venu de construire la maison! C'est une bonne année!" qu'on dit.</TRANSL>
 	<TRANSL xml:lang="en">This year the time has come to build a house. It's a good year!" (they'd) say.</TRANSL>
@@ -4817,6 +4817,11 @@
 			<FORM>tʰi˩˥</FORM>
 			<TRANSL xml:lang="fr">alors</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>ĩ˧</FORM>
+			<TRANSL xml:lang="fr">oui</TRANSL>
+			<TRANSL xml:lang="en">yes</TRANSL>
 		</W>
 		<W>
 			<FORM>tsʰi˧-ʝi˧</FORM>
@@ -5247,11 +5252,11 @@
 		</W>
 </S>
 <S id="HouseBuilding_S080"><AUDIO start="355.0098" end="361.2515"/>
-	<FORM kindOf="phono">wɤ˩˥, | ʈæ˧bɤ˧ ki˧-ɳɯ˩, | le˧-po˧~po˥-bi˩, | tʰi˩˥, | wɤ˩˥, | ʈæ˧bɤ˧-ɳɯ˧ | le˧-ʈʂɤ˧, | ə!</FORM>
+	<FORM kindOf="phono">wɤ˩˥, | ʈæ˧bɤ˧ ki˧-ɳɯ˩, | le˧-po˧~po˥-bi˩, | tʰi˩˥, | wɤ˩˥, | ʈæ˧bɤ˧-ɳɯ˧ | le˧-ʈʂɤ˧, | õ!</FORM>
 	<FORM kindOf="ortho">Uaq daebbe gi nee lebobo bbi, tiq uaq, daebbe nee lezhe, e!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté ʈʂʰɯ˧-ɲi˧ et interprété comme 'aujourd'hui'; mais 'aujourd'hui' se dit tsʰi˧-ɲi˧; ici, est en fait: tʰv̩˧-ɲi#˥ 'ce jour-là'"/>
-	<TRANSL xml:lang="fr">on le donne au moine, on lui apporte; le moine fait ses calculs, il dit: euh… </TRANSL>
-	<TRANSL xml:lang="en">Also, they'd go and show the lama, and then the lama would do the calculations:</TRANSL>
+	<TRANSL xml:lang="fr">on le donne au moine, on lui apporte; le moine fait ses calculs, oui-da!</TRANSL>
+	<TRANSL xml:lang="en">Also, they'd go and show the lama, and then the lama would do the calculations, yes!</TRANSL>
 	<TRANSL xml:lang="zh">（这块土）给和尚看，和尚就算一算：</TRANSL>
 		<W>
 			<FORM>wɤ˩˥</FORM>
@@ -5323,12 +5328,17 @@
 			<TRANSL xml:lang="fr">compter</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
+		<W>
+			<FORM>õ</FORM>
+			<TRANSL xml:lang="fr">°intj.approbation</TRANSL>
+			<TRANSL xml:lang="en">°intj.approbation</TRANSL>
+		</W>
 </S>
 <S id="HouseBuilding_S081"><AUDIO start="361.2515" end="364.4372"/>
 	<FORM kindOf="phono">"o… &lt;ʈʂʰɯ˧-ɲi˧&gt; [tʰv̩˧-ɲi˧], | ʈʂʰɯ˧-qo˧-dʑo˧ | no˧=ɻ̍˩ | ɖwæ˧˥ | dʑɤ˩-ho˥! |</FORM>
 	<FORM kindOf="ortho">"O, teeni teegho jjo no'er dduaeq jjaq ho!</FORM>
  <NOTE xml:lang="fr" message="Avant 2013: noté /ʈʂʰɯ˧-qo˧-dʑo˧ | ɖwæ˧˥ | dʑɤ˩-ho˥/, négligeant /no˧=ɻ̍˩/. "/>
-	<TRANSL xml:lang="fr">"oh! [cet échantillon que tu m'amènes]… ce jour-là… cet endroit (=l'emplacement d'où il provient) sera très bon! [=l'emplacement et le jour sont maintenant décidés, l'un et l'autre sont fastes]</TRANSL>
+	<TRANSL xml:lang="fr">Il dit: euh… "oh! [cet échantillon que tu m'amènes]… ce jour-là… cet endroit (=l'emplacement d'où il provient) sera très bon! [=l'emplacement et le jour sont maintenant décidés, l'un et l'autre sont fastes]</TRANSL>
 	<TRANSL xml:lang="en">"Oh, this day, that place will be really good for you (to build a house)!</TRANSL>
 	<TRANSL xml:lang="zh">“啊！今天……那个地方是很好的！</TRANSL>
 		<W>
@@ -8682,7 +8692,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S132"><AUDIO start="589.6007" end="597.6454"/>
-	<FORM kindOf="phono">[gi…] gi˧, | hɑ˧-kʰɯ˩-di˩! | ə! ə˧ʝi˧-ʂɯ˥ʝi˩, | bo˩ʈʂʰæ˥ tɕi˩-di˩! | hɑ˧-kʰɯ˩-di˩! |</FORM>
+	<FORM kindOf="phono">[gi…] gi˧, | hɑ˧-kʰɯ˩-di˩! | õ! ə˧ʝi˧-ʂɯ˥ʝi˩, | bo˩ʈʂʰæ˥ tɕi˩-di˩! | hɑ˧-kʰɯ˩-di˩! |</FORM>
 	<FORM kindOf="ortho">Ggi, ha keeddi. E! Eyishei, bbochae jiddi. Ha keeddi.</FORM>
 	<NOTE xml:lang="fr" message="ʂe˧ tɕi˧-di˧˥: endroit où l'on met la viande"/>
 	<TRANSL xml:lang="fr">Le grenier, c'est l'endroit où on met (=où on garde) la nourriture; autrefois, c'est l'endroit où on mettait le cochon conservé entier! (Note: il s'agissait d'un porc entier, conservé avec du sel, après avoir retiré les entrailles, la viande maigre et les os, ne conservant que le gras et la couenne. En chinois: 琵琶肉, "viande pipa", ainsi nommée du fait de la ressemblance de forme avec l'instrument de musique pipa.) C'est là où on met la nourriture!</TRANSL>
@@ -8707,6 +8717,11 @@
 			<FORM>di</FORM>
 			<TRANSL xml:lang="fr">°rel/°nmlz</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
+		</W>
+		<W>
+			<FORM>õ</FORM>
+			<TRANSL xml:lang="fr">°intj.approbation</TRANSL>
+			<TRANSL xml:lang="en">°intj.approbation</TRANSL>
 		</W>
 		<W>
 			<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩</FORM>
@@ -12105,7 +12120,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S184"><AUDIO start="834.1880" end="838.5622"/>
-	<FORM kindOf="phono">æ˧ʂæ˧-tɑ˩mv̩˩-dʑo˩! | ʑi˧mi˧ | mɤ˧-di˩-dʑo˩, | mɤ˧-tsɤ˧! | ə!</FORM>
+	<FORM kindOf="phono">æ˧ʂæ˧-tɑ˩mv̩˩-dʑo˩! | ʑi˧mi˧ | mɤ˧-di˩-dʑo˩, | mɤ˧-tsɤ˧! | õ!</FORM>
 	<FORM kindOf="ortho">eshae damu jjo! Xximi meddi jjo meze! E!</FORM>
 	<NOTE xml:lang="fr" message="vérifié: est bien dʑo˧ et non dʑo˩"/>
 	<TRANSL xml:lang="fr">il y a des coutumes [qui régissent tous ces gestes]! Si on n'a pas de maison, ce n'est pas bien! (Note: pour que tout se passe conformément à la coutume, les rites funéraires doivent être réalisés dans la maison où a habité le défunt)</TRANSL>
@@ -12153,9 +12168,9 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ə</FORM>
-			<TRANSL xml:lang="fr">°interjection.hein</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
+			<FORM>õ</FORM>
+			<TRANSL xml:lang="fr">°intj.approbation</TRANSL>
+			<TRANSL xml:lang="en">°intj.approbation</TRANSL>
 		</W>
 </S>
 <S id="HouseBuilding_S185"><AUDIO start="838.5622" end="841.7129"/>
@@ -14618,7 +14633,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S216"><AUDIO start="993.2751" end="1000.5216"/>
-	<FORM kindOf="phono">ʂe˧kʰɯ˧ | tʰv̩˧-nɑ˩ dʑo˩ | tʰi˩˥, | lɑ˧kʰv̩˧-hĩ˧-lɑ˩ | jo˩kʰv̩˩-hĩ˥ | ɖɯ˧-v̩˧-ɳɯ˧, | ʂe˧kʰɯ˧ | tʰv̩˧-nɑ˩ | tʰi˧-ʈɯ˧! | ə!</FORM>
+	<FORM kindOf="phono">ʂe˧kʰɯ˧ | tʰv̩˧-nɑ˩ dʑo˩ | tʰi˩˥, | lɑ˧kʰv̩˧-hĩ˧-lɑ˩ | jo˩kʰv̩˩-hĩ˥ | ɖɯ˧-v̩˧-ɳɯ˧, | ʂe˧kʰɯ˧ | tʰv̩˧-nɑ˩ | tʰi˧-ʈɯ˧! | õ!</FORM>
 	<FORM kindOf="ortho">Sheikee teena jjo, tiq, la kuhin la yo kuhin ddeevu nee sheikee teena teedee! E!</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés pour tout ce passage, et notamment pour: lɑ˧kʰv̩˧-hĩ˧: n'est pas ‡˧ ˧ ˥."/>
 	<TRANSL xml:lang="fr">Le trépied, c'est quelqu'un de l'année du Tigre ou de l'année de la Chèvre qui l'installe! Ah oui!</TRANSL>
@@ -14700,9 +14715,9 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ə</FORM>
-			<TRANSL xml:lang="fr">°interjection</TRANSL>
-			<TRANSL xml:lang="en"></TRANSL>
+			<FORM>õ</FORM>
+			<TRANSL xml:lang="fr">°intj.approbation</TRANSL>
+			<TRANSL xml:lang="en">°intj.approbation</TRANSL>
 		</W>
 </S>
 <S id="HouseBuilding_S217"><AUDIO start="1000.5216" end="1002.9641"/>
