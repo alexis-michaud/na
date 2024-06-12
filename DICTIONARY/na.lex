@@ -33,7 +33,7 @@
 \xn 买了鸡
 \xf …a acheté (un/du) poulet
 \xc PHONO
-\xv æ̃˩˥, | kʰv̩˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv̩˧gv̩˧, | bʋ̩˧ʐv̩˧, | ʐwæ˧, | jo˧, | ʑi˩˥
+\xv æ̃˩˥, | kʰv̩˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv̩˧gv̩˧, | bv̩˧ʐv̩˧, | ʐwæ˧, | jo˧, | ʑi˩˥
 \xe the twelve years of the duodenary cycle
 \xn 十二个生肖：鸡肉、狗、猪、鼠、牛、虎、兔、龙、蛇、马、羊、猴
 \xf les douze signes astrologiques
@@ -579,7 +579,7 @@
 \gn 阿咪瓦村
 \df Aemiwua, premier village que l'on rencontre sur la route entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}. Dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu, Aemiwua est le troisième village de la plaine de Yongning.
 \gf Aemiwua.nom_de_lieu
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten villages traditionally considered as part of Yongning.
 \xn 摩梭传统地理概念中，属于永宁的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎拉、开基、拖支
 \xf Les dix villages comptant traditionnellement comme faisant partie de Yongning.
@@ -599,7 +599,7 @@
 \gn 母鹅
 \df Oie (femelle).
 \gf oie
-\xv ɑ˩mi˧-ɑ˥pʰʋ̩˩
+\xv ɑ˩mi˧-ɑ˥pʰv̩˩
 \xe goose and gander
 \xn 公鹅与母鹅
 \xf oie et jars
@@ -697,7 +697,7 @@
 \xe Daddy went out! (Context: explanation provided to a little child who has just woken up and looks for her dad.)
 \xn 爸爸出去了！
 \xf Papa est sorti! (Adressé à une petite fille qui vient de se réveiller de sa sieste et cherche son père.)
-\xv ɑ˩pʰo˩=bʋ̩˥ | lo˧ ʝi˧
+\xv ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
 \xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi : aller chercher du travail à la ville
@@ -727,7 +727,7 @@
 \df Quelqu'un d'autre; une personne extérieure à la famille.
 \gf gens_de_l_extérieur
 
-\lx ɑ˩pʰʋ̩˧˥
+\lx ɑ˩pʰv̩˧˥
 \sf <nb="B"> 139
 \sf <nb="B"> 1203
 \sf <nb="2011"> 1668
@@ -736,7 +736,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton LM+MH#
-\lc ɑ˩pʰʋ̩˧˥
+\lc ɑ˩pʰv̩˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -747,19 +747,19 @@
 \gn 打饱嗝儿
 \df Roter.
 \gf roter
-\xv ɑ˩pʰʋ̩˧-ze˥
+\xv ɑ˩pʰv̩˧-ze˥
 \xe 〜 |fg{pfv}: belched
 \xn 整体体：打饱嗝儿了
 \xf 〜 |fg{pfv}: a roté
 \xc PHONO
 
-\lx ɑ˩pʰʋ̩#˥
+\lx ɑ˩pʰv̩#˥
 \or opu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM+#H
-\lc ɑ˩pʰʋ̩˥
+\lc ɑ˩pʰv̩˥
 \so <print="n"> F4
 \pdv mi˩
 \de Gander; male goose.
@@ -1190,7 +1190,7 @@
 \gn 古时候
 \df Jadis, dans le passé.
 \gf jadis
-\xv æ˧ʂæ˧=bʋ̩˧
+\xv æ˧ʂæ˧=bv̩˧
 \xe |fg{poss}: …of the past
 \xn 属格：从前的……
 \xf |fg{poss}: …du passé
@@ -1832,16 +1832,16 @@
 \xn 花的，有花纹
 \xf même sens: bariolé, tacheté (par ex.: œuf, oiseau, pierre)
 
-\lx bæ˧bʋ̩˥
+\lx bæ˧bv̩˥
 \sf <nb="B"> 1856
 \sf <nb="2011"> 2820
 \or bbaebbu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> (corrigé en 2007; notation 2006: bæ˩bʋ̩˧)
+\nt <type="hist" langue="fra" print="n"> (corrigé en 2007; notation 2006: bæ˩bv̩˧)
 \ton H#
-\lc bæ˧bʋ̩˥
+\lc bæ˧bv̩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -1852,7 +1852,7 @@
 \gn 猪崽
 \df Goret, porcelet, cochonnet, petit cochon.
 \gf goret
-\xv bæ˧bʋ̩˥-zo˩
+\xv bæ˧bv̩˥-zo˩
 \xe same meaning: piglet
 \xn 猪崽
 \xf même sens: goret
@@ -2066,7 +2066,7 @@
 \gn 母鸭子
 \df Cane.
 \gf cane
-\xv bæ˧mi˧-bæ˧pʰʋ̩#˥
+\xv bæ˧mi˧-bæ˧pʰv̩#˥
 \xe female duck and male duck
 \xn 母鸭子与公鸭子
 \xf cane et canard
@@ -2120,11 +2120,11 @@
 \df Cane. Cette forme avec suffixe féminin est lourde et pataude, et n'est employée que dans les cas où il s'agit de lever toute ambiguïté concernant le sexe de l'animal.
 \gf cane
 
-\lx bæ˧mi˧-pʰʋ̩#˥
+\lx bæ˧mi˧-pʰv̩#˥
 \or bbaemipu
 \ps n
-\lc bæ˧mi˧pʰʋ̩˧
-\cf bæ˧pʰʋ̩#˥
+\lc bæ˧mi˧pʰv̩˧
+\cf bæ˧pʰv̩#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -2136,15 +2136,15 @@
 \gn 公鸭子
 \df Canard (mâle).
 \gf canard
-\xv bæ˧mi˧-pʰʋ̩˧ tʰv̩˧-mi˧˥
+\xv bæ˧mi˧-pʰv̩˧ tʰv̩˧-mi˧˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公鸭子
 \xf |fg{n}+|fg{dem}+|fg{clf}
 
-\lx bæ˩pʰʋ̩˥
+\lx bæ˩pʰv̩˥
 \or bbaepeu
 \ps n
-\lc bæ˩pʰʋ̩˥
+\lc bæ˩pʰv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L+H#
@@ -2156,20 +2156,20 @@
 \gn 茼蒿
 \df Chrysanthème couronné, chrysanthème des jardins, chrysanthème comestible ou chrysanthème à couronnes, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}. Elle est utilisée comme plante médicinale, pour les humains aussi bien qu'en médecine vétérinaire (pour les porcs).
 \gf chrysanthème_couronné
-\xv bæ˩pʰʋ̩˥=bʋ̩˩ | bæ˩bæ˩˥
+\xv bæ˩pʰv̩˥=bv̩˩ | bæ˩bæ˩˥
 \xe the flower of crowndaisy chrysanthemum
 \xn 茼蒿的顶花
 \xf fleur de chrysanthème couronné
-\xv bæ˩pʰʋ̩˥-bæ˩bæ˩
+\xv bæ˩pʰv̩˥-bæ˩bæ˩
 \xe crowndaisy chrysanthemum flower
 \xn 茼蒿顶花
 \xf fleur de chrysanthème couronné
 
-\lx bæ˧pʰʋ̩#˥
+\lx bæ˧pʰv̩#˥
 \or bbaepu
 \ps n
-\lc bæ˧pʰʋ̩˧
-\cf bæ˧mi˧-pʰʋ̩#˥
+\lc bæ˧pʰv̩˧
+\cf bæ˧mi˧-pʰv̩#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -2181,11 +2181,11 @@
 \gn 公鸭子
 \df Canard (mâle).
 \gf canard
-\xv bæ˧pʰʋ̩˧ tʰv̩˧-mi˧˥ ≈ bæ˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv bæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ bæ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公鸭子
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\xv bæ˧pʰʋ̩˧-bæ˧mi#˥
+\xv bæ˧pʰv̩˧-bæ˧mi#˥
 \xe male duck and female duck
 \xn 公鸭子与母鸭子
 \xf canard et cane
@@ -2794,11 +2794,11 @@
 \xn 肚量小，心胸狭隘
 \xf Qui prend facilement la mouche, qui a la tête un peu près du bonnet; étroit d'esprit.
 
-\lx bi˩pʰʋ̩˧˥
+\lx bi˩pʰv̩˧˥
 \sf <nb="2011"> 3179
 \or bbipu
 \ps n
-\lc bi˩pʰʋ̩˧˥
+\lc bi˩pʰv̩˧˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton LM+MH#
@@ -2810,10 +2810,10 @@
 \df Gourde (cucurbitacée); son fruit est la calebasse, qui devient dure en séchant.
 \gf gourde
 
-\lx bi˩pʰʋ̩˧-dʑɯ˧˥
+\lx bi˩pʰv̩˧-dʑɯ˧˥
 \or bbipeujji
 \ps n
-\lc bi˩pʰʋ̩˧dʑɯ˧˥
+\lc bi˩pʰv̩˧dʑɯ˧˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton LM+MH#
@@ -3636,7 +3636,7 @@
 \or bbegee
 \ps n
 \lc bɤ˧kɯ˧
-\cf bʋ̩˧ʈʂɯ˥
+\cf bv̩˧ʈʂɯ˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="sem" langue="fra"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso")
@@ -3814,12 +3814,12 @@
 \xf …a vu (une/la) truie
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> Avais d'abord noté: |fv{bo˩mi˧ do˧ +ze˩}. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb). Vérifié en 2017: est en fait bien: |fv{bo˩mi˧ do˩}.
-\xv bo˩mi˧-bæ˧bʋ̩˥
+\xv bo˩mi˧-bæ˧bv̩˥
 \xe sow and piglets
 \xn 母猪与猪仔
 \xf truie et porcelets
-\xc <type="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/†bæ˧bʋ̩˥-bo˩mi˩/}.
-\xc <type="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bʋ̩˥-bo˩mi˩/}.
+\xc <type="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
+\xc <type="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
 \xc <type="tone"> LM+H#
 \dt 24/Apr/2017
 
@@ -3834,7 +3834,7 @@
 \ton LM-L
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /|fv{bo˩mi˧dʑɯ˩pʰv̩˩}/, avec aspiration de la dernière syllabe. Rétrospectivement, il s'agissait peut-être bien là d'une conséquence du défaut de reconnaissance de la syllabe /|fv{pɻ̩}/ distincte de /|fv{pv̩}/: constatant que la syllabe n'était pas un simple /|fv{pv̩}/, je m'étais peut-être rabattu sur /|fv{pʰv̩}/ faute d'autres termes à l'alternative.
 \so <print="n"> F4
-\va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bʋ̩˥
+\va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bv̩˥
 \vf +ɲi˩
 \vf nom pas connu de F5
 \de Weevil, snout beetle, |fi{Elaeidobius kamerunicus}.
@@ -3892,7 +3892,7 @@
 \nt <type="hist" langue="fra" print="n"> avant 2015: noté /†bɤ˩mi˧-ʂe˩/
 \ton H#-
 \so <print="n"> F4
-\va <speaker="M21"> æ˧pʰʋ̩#˥
+\va <speaker="M21"> æ˧pʰv̩#˥
 \de Copper-nickel alloy.
 \ge copper_nickel_alloy
 \dn 白铜
@@ -3940,19 +3940,19 @@
 \gf saindoux
 \dt 10/Jun/2017
 
-\lx bo˩pʰʋ̩˧
+\lx bo˩pʰv̩˧
 \sf <nb="B"> 1855
 \sf <nb="2011"> 2816
 \or bbopu
 \ps n
-\lc bo˩pʰʋ̩˥
+\lc bo˩pʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM
 \so <print="n"> F4
 \va <speaker="M21"> bo˩ʈʂɤ˧
-\vf Il s'agirait d'un mot ancien (ton: LM). Le locuteur le traduit par |fn{种猪}. Il n'emploie pas |fv{/bo˩pʰʋ̩˧/}.
-\ve This would be an archaic word (tone: LM). The speaker translates it into Chinese as |fn{种猪}. He does not use the term |fv{/bo˩pʰʋ̩˧/}.
+\vf Il s'agirait d'un mot ancien (ton: LM). Le locuteur le traduit par |fn{种猪}. Il n'emploie pas |fv{/bo˩pʰv̩˧/}.
+\ve This would be an archaic word (tone: LM). The speaker translates it into Chinese as |fn{种猪}. He does not use the term |fv{/bo˩pʰv̩˧/}.
 \pdv v̩˧
 \de Boar.
 \ge boar
@@ -3974,7 +3974,7 @@
 \nt <type="hist" langue="fra" print="n"> Roselle Dobbs (p.c. 2015) reports that this word can be used as a metaphor for a very short person. F4 (2017) says that this is not true in Yongning.
 \ton LM - H# -
 \so <print="n"> F4
-\va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bʋ̩˥
+\va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bv̩˥
 \vf +ɲi˩
 \vf nom pas connu de F5
 \pdv mi˩
@@ -4098,7 +4098,7 @@
 \xe someone from Bacuogu
 \xn 巴搓古的人
 \xf quelqu'un de Bacuogu
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -4371,7 +4371,7 @@
 \nt <type="hist" langue="fra" print="n"> (vérifié en 2009)
 \ton L
 \so <print="n"> F4
-\va <speaker="M18"> bʋ̩˩˥
+\va <speaker="M18"> bv̩˩˥
 \pdv ɭɯ˧β
 \de Pen, corral for cattle.
 \ge pen
@@ -4425,13 +4425,13 @@
 \xf …a acheté (du) yak
 \xc PHONO
 
-\lx bʋ̩˩˧
+\lx bv̩˩˧
 \sf <nb="B"> 509
 \sf <nb="2011"> 703
 \or bbuq
 \ps n
-\lc bʋ̩˩˥
-\cf bʋ̩˩di˩
+\lc bv̩˩˥
+\cf bv̩˩di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (confirmé M18 en 2008)
@@ -4538,14 +4538,14 @@
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
 
-\lx bʋ̩˥
+\lx bv̩˥
 \sf <nb="B"> 911
 \sf <nb="B"> 913
 \sf <nb="2011"> 1339
 \hm 1
 \or bbu
 \ps adj
-\lc bʋ̩˧
+\lc bv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton H
@@ -4560,29 +4560,29 @@
 \gn 粗
 \df Épais (tronc); grossier (farine, poudre).
 \gf épais
-\xv qʰɑ˧-bʋ̩˧-gv̩˧
+\xv qʰɑ˧-bv̩˧-gv̩˧
 \xe very thick
 \xn 很粗、多粗的、好粗
 \xf très épais
 \xc PHONO
 \xc <type="hist" langue="fra" print="n"> Notes de 2006: “/kʶɤ˥ pv̩˥gv̩˥/; M18 corrige en /kʶɑ˥bv̩˧gv̩˧/, ‘très gros'.")
-\xv qʰɑ˧bʋ̩˧~bʋ̩˧-gv̩˧
+\xv qʰɑ˧bv̩˧~bv̩˧-gv̩˧
 \xe very thick (as above)
 \xn 很粗、多粗的、好粗（同上）
 \xf très épais (idem ci-dessus)
 
-\lx bʋ̩˥
+\lx bv̩˥
 \sf <nb="B"> 1263
 \sf <nb="B"> 1411
 \sf <nb="2011"> 1824
 \hm 2
 \or bbu
 \ps v
-\lc bʋ̩˧
+\lc bv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés en 2009; auparavant, hésitations entre: …tʰi˩kwɤ˩dʑo˩, …tʰi˧kwɤ˧…) vérifié en 2011: initiale vélaire et non uvulaire
-\nt <type="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: |fv{le˧-bʋ̩˧~bʋ̩˧}.
+\nt <type="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: |fv{le˧-bv̩˧~bv̩˧}.
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -4594,22 +4594,22 @@
 \gn 分
 \df Partager, distribuer, répartir, diviser (ancien mot pour ‘donner’).
 \gf partager
-\xv ɖɯ˧-v̩˧ ɖɯ˧-kʰwɤ˥ | le˧-bʋ̩˧~bʋ̩˧
+\xv ɖɯ˧-v̩˧ ɖɯ˧-kʰwɤ˥ | le˧-bv̩˧~bv̩˧
 \xe to share, giving each person a piece
 \xn 分给一人一块
 \xf partager, un morceau par personne
-\xv le˧-bʋ̩˧~bʋ̩˧ tʰi˧-kwɤ˩
+\xv le˧-bv̩˧~bv̩˧ tʰi˧-kwɤ˩
 \xe to scatter all over the place, to lay out in no good order
 \xn 弄乱丢着，散开丢着
 \xf littéralement ‘séparer et poser’; sens: mettre en désordre, disposer en désordre
 \dt 27/Aug/2015
 
-\lx bʋ̩˥
+\lx bv̩˥
 \sf <nb="2011"> 2212
 \hm 3
 \or bbu
 \ps v
-\lc bʋ̩˧
+\lc bv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton H
@@ -4621,7 +4621,7 @@
 \gn 烤
 \df Griller, faire griller.
 \gf griller
-\xv hɑ˧ tʰi˧-bʋ̩˥
+\xv hɑ˧ tʰi˧-bv̩˥
 \xe to roast food, to roast cereals
 \xn 烤饭
 \xf faire griller du riz
@@ -4653,13 +4653,13 @@
 \xn 他脾气很坏。
 \xf Il a un sale caractère.
 
-\lx bʋ̩˩di˩
+\lx bv̩˩di˩
 \sf <nb="B"> 509b
 \sf <nb="2011"> 704
 \or bbuddi
 \ps n
-\lc bʋ̩˩di˩˥
-\et bʋ̩˩˧
+\lc bv̩˩di˩˥
+\et bv̩˩˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
@@ -4676,20 +4676,20 @@
 \gf étuve
 \dt 24/Apr/2017
 
-\lx bʋ̩˩dze˩
+\lx bv̩˩dze˩
 \sf <nb="2011"> 723
 \sf <nb="2011"> 1264
 \hm 1
 \or bbuzzei
 \ps n
-\lc bʋ̩˩dze˩˥
-\cf bʋ̩˩dze˩2
+\lc bv̩˩dze˩˥
+\cf bv̩˩dze˩2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> bʋ̩˧dze˩˥
+\va <speaker="M18"> bv̩˧dze˩˥
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Large spoon, used for rice and soup.
@@ -4699,12 +4699,12 @@
 \df Grosse cuillère (pour servir le riz, la soupe, etc.).
 \gf grosse_cuillère
 
-\lx bʋ̩˩dze˩
+\lx bv̩˩dze˩
 \hm 2
 \or bbuzzei
 \ps clf
-\lc ɖɯ˧ bʋ̩˩dze˩
-\cf bʋ̩˩dze˩1
+\lc ɖɯ˧ bv̩˩dze˩
+\cf bv̩˩dze˩1
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton L
@@ -4715,7 +4715,7 @@
 \gn 量词.勺
 \df Classificateur des cuillerées.
 \gf |fg{clf}.cuillerées
-\xv ɖɯ˧-bʋ̩˩dze˩
+\xv ɖɯ˧-bv̩˩dze˩
 \xe one ladleful
 \xn 一勺
 \xf une louchée, une louche de
@@ -4733,7 +4733,7 @@
 \ton MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> bʋ̩˧
+\va <speaker="M18"> bv̩˧
 \va <speaker="M23"> ID.
 \pdv kwɤ˩
 \de Bowels: intestine+stomach.
@@ -4743,10 +4743,10 @@
 \df Tube digestif: estomac+intestin.
 \gf tube_digestif
 
-\lx bʋ̩˩hwɤ˩
+\lx bv̩˩hwɤ˩
 \or bbuhua
 \ps n
-\lc bʋ̩˩hwɤ˩˥
+\lc bv̩˩hwɤ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton L
@@ -4777,20 +4777,20 @@
 \df Ver.
 \gf ver
 
-\lx bʋ̩˩ɭɯ˩
+\lx bv̩˩ɭɯ˩
 \sf <nb="B"> 222
 \sf <nb="2011"> 294
 \or bbulee
 \ps n
-\lc bʋ̩˩ɭɯ˩˥
+\lc bv̩˩ɭɯ˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> bʋ̩˩ lɯ˩˥
+\va <speaker="M18"> bv̩˩ lɯ˩˥
 \vf confirmé, n'est pas ly˩˥
-\va <speaker="M21"> bʋ̩˩lv̩˩˥, ton d3
+\va <speaker="M21"> bv̩˩lv̩˩˥, ton d3
 \vf n'est pas lɯ
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
@@ -4811,7 +4811,7 @@
 \sd <langue="eng"> animal
 \ton M
 \so <print="n"> F4
-\va <speaker="M23"> bʋ̩˩mi˩˥
+\va <speaker="M23"> bv̩˩mi˩˥
 \pdv mi˩
 \de Female yak, dri, drimo, nak.
 \ge female_yak
@@ -4830,10 +4830,10 @@
 \xf maman yack et petit yack
 \xc <type="tone"> #H
 
-\lx bʋ̩˧mi˧
+\lx bv̩˧mi˧
 \or bbumi
 \ps n
-\lc bʋ̩˧mi˧
+\lc bv̩˧mi˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton M
@@ -4882,12 +4882,12 @@
 \df Insectes blancs. Ce terme peut recouvrir une grande variété d'insectes.
 \gf insectes_blancs
 
-\lx bʋ̩˧nv̩˧
+\lx bv̩˧nv̩˧
 \hm 1
 \or bbunu
 \ps v
-\lc bʋ̩˧nv̩˧
-\cf bʋ̩˧nv̩˧2
+\lc bv̩˧nv̩˧
+\cf bv̩˧nv̩˧2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (réanalyse déc. 08: hjɤ; pas d'oppositions hjɤ/ɕjɤ)
@@ -4901,20 +4901,20 @@
 \gn 嗅觉
 \df Sentir (par l'odorat).
 \gf sentir
-\xv no˧ | ɖɯ˧-bʋ̩˧nv̩˧-ɻ̩˩! | ɖwæ˩˥ | ɕjɤ˧!
+\xv no˧ | ɖɯ˧-bv̩˧nv̩˧-ɻ̩˩! | ɖwæ˩˥ | ɕjɤ˧!
 \xe Have a smell! It smells great!
 \xn 你闻一闻吧！好香！
 \xf Sens donc! ça sent très bon/c'est très odorant/parfumé!
 
-\lx bʋ̩˧nv̩˧
+\lx bv̩˧nv̩˧
 \sf <nb="B"> 1386
 \sf <nb="B"> 1032
 \sf <nb="2011"> 1971
 \hm 2
 \or bbunu
 \ps adj
-\lc bʋ̩˧nv̩˧
-\cf bʋ̩˧nv̩˧1
+\lc bv̩˧nv̩˧
+\cf bv̩˧nv̩˧1
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (réanalyse déc. 08: hjɤ; pas d'oppositions hjɤ/ɕjɤ)
@@ -4928,16 +4928,16 @@
 \gn 臭
 \df Malodorant, puant, qui a une mauvaise odeur.
 \gf malodorant
-\xv bʋ̩˧nv̩˧-ze˧
+\xv bv̩˧nv̩˧-ze˧
 \xe 〜 |fg{pfv}
 \xn 〜 整体体：臭了
 \xf 〜 |fg{pfv}
 
-\lx bɻ̩˧pʰʋ̩˧
+\lx bɻ̩˧pʰv̩˧
 \or bbeupu
 \et bɻ̩˩˧
 \ps n
-\lc bɻ̩˧pʰʋ̩˧
+\lc bɻ̩˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton M
@@ -5061,7 +5061,7 @@
 \gn 手指螺纹
 \df Lignes de la main: spécifiquement, lignes de la première phalange des doigts, dont la forme en spirale évoque les conques, objet symbolique important dans la culture na.
 \gf lignes_de_la_main
-\xv lo˩qʰwɤ˧=bʋ̩˧ | bɻ̩˩qʰv̩˩˥
+\xv lo˩qʰwɤ˧=bv̩˧ | bɻ̩˩qʰv̩˩˥
 \xe the lines of the hand
 \xn 手指螺纹。直译：‘手指上的海螺’。
 \xf les lignes de la main
@@ -5167,7 +5167,7 @@
 \xf yak châtré et yak femelle
 \xc <type="tone"> #H-
 
-\lx bʋ̩˧tɕi˧
+\lx bv̩˧tɕi˧
 \sf <nb="B"> 1974b
 \sf <nb="B"> (auparavant
 \sf <nb="B"> noté
@@ -5178,7 +5178,7 @@
 \sf <nb="2011"> 3003
 \or bbujie
 \ps n
-\lc bʋ̩˧tɕi˧
+\lc bv̩˧tɕi˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (n'est pas tɕɯ)
@@ -5198,12 +5198,12 @@
 \df Pêche sauvage (de petite taille).
 \gf pêche_sauvage
 
-\lx bʋ̩˧ʈʂɯ˥
+\lx bv̩˧ʈʂɯ˥
 \sf <nb="B"> 596d
 \sf <nb="2011"> 863
 \or bbuzhi
 \ps n
-\lc bʋ̩˧ʈʂɯ˥
+\lc bv̩˧ʈʂɯ˥
 \cf bɤ˧kɯ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -5220,12 +5220,12 @@
 \df Vanneries: tamis où l'on fait sécher les graines de courge et autres produits de la ferme.
 \gf tamis/crible
 
-\lx bʋ̩˧ʈʂʰv̩˧
+\lx bv̩˧ʈʂʰv̩˧
 \sf <nb="B"> 652
 \sf <nb="2011"> 976
 \or bbuchu
 \ps n
-\lc bʋ̩˧ʈʂʰv̩˧
+\lc bv̩˧ʈʂʰv̩˧
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
 \nt <type="sem" langue="fra"> emprunt au tibétain: /zbuk.tɕʰal/; cf japhug /zɯɣ.tɕʰɤl/
@@ -5242,10 +5242,10 @@
 \df Cymbales.
 \gf cymbales
 
-\lx bʋ̩˩zo˩
+\lx bv̩˩zo˩
 \or bbusso
 \ps n
-\lc bʋ̩˩zo˩˥
+\lc bv̩˩zo˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
@@ -5280,13 +5280,13 @@
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
 
-\lx bʋ̩˧ʐv̩˧
+\lx bv̩˧ʐv̩˧
 \sf <nb="B"> 1803
 \sf <nb="2011"> 2738
 \or bburu
 \ps n
-\lc bʋ̩˧ʐv̩˧
-\cf mv̩˧bʋ̩˧ʐv̩˥
+\lc bv̩˧ʐv̩˧
+\cf mv̩˧bv̩˧ʐv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> +ɲi˩
@@ -5300,11 +5300,11 @@
 \df Dragon.
 \gf dragon
 
-\lx bʋ̩˩ʐv̩˩-dzi˩
+\lx bv̩˩ʐv̩˩-dzi˩
 \sf <nb="2011"> 3284
 \or bburuzzee
 \ps n
-\lc bʋ̩˩ʐv̩˩dzi˩˥
+\lc bv̩˩ʐv̩˩dzi˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L
@@ -5317,17 +5317,17 @@
 \df Lierre.
 \gf lierre
 
-\lx bʋ̩˧ʐv̩˧-kʰv̩˧˥
+\lx bv̩˧ʐv̩˧-kʰv̩˧˥
 \hm 1
 \sf <nb="B"> 765
 \sf <nb="2011"> 1160
 \or bburuku
 \ps n
-\lc bʋ̩˧ʐv̩˧kʰv̩˧˥
+\lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="sem" langue="fra" print="n"> /|fv{bʋ̩˧ʐv̩˧}/ ne signifie pas ‘serpent' (qui se dit /|fv{ʐv̩˧bæ˧}/), mais ‘dragon'.
+\nt <type="sem" langue="fra" print="n"> /|fv{bv̩˧ʐv̩˧}/ ne signifie pas ‘serpent' (qui se dit /|fv{ʐv̩˧bæ˧}/), mais ‘dragon'.
 \ton MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -5340,11 +5340,11 @@
 \df Année du Serpent.
 \gf année_du_Serpent
 
-\lx bʋ̩˧ʐv̩˧-kʰv̩˧˥
+\lx bv̩˧ʐv̩˧-kʰv̩˧˥
 \hm 2
 \or bburu kuq
 \ps adj
-\lc bʋ̩˧ʐv̩˧kʰv̩˧˥
+\lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -5356,13 +5356,13 @@
 \df Né l'année du Serpent.
 \gf né_l_année_du_Serpent
 
-\lx bʋ̩˩α
+\lx bv̩˩α
 \sf <nb="B"> 1270
 \sf <nb="2011"> 1830
 \hm 1
 \or bbuq
 \ps v
-\lc bʋ̩˩˥
+\lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés)
@@ -5376,18 +5376,18 @@
 \gn 孵
 \df Couver.
 \gf couver
-\xv æ̃˩mi˧ bʋ̩˩
+\xv æ̃˩mi˧ bv̩˩
 \xe The hen is hatching eggs.
 \xn 母鸡孵蛋
 \xf La poule couve.
 
-\lx bʋ̩˩α
+\lx bv̩˩α
 \sf <nb="B"> 1506
 \sf <nb="2011"> 2217
 \hm 2
 \or bbuq
 \ps v
-\lc bʋ̩˩˥
+\lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ˧˥˧, par erreur)
@@ -5401,25 +5401,25 @@
 \gn 蒸
 \df Cuire à la vapeur, étuver.
 \gf cuire_à_la_vapeur
-\xv le˧-bʋ̩˩-ze˩
+\xv le˧-bv̩˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：蒸了
 \xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
-\xv pɤ˩jɤ˧ bʋ̩˥
+\xv pɤ˩jɤ˧ bv̩˥
 \xe to steam buns
 \xn 蒸馒头
 \xf cuire de la pâte à pain à la vapeur, faire des petits pains à la vapeur
-\xv hɑ˧ bʋ̩˥~bʋ̩˩
+\xv hɑ˧ bv̩˥~bv̩˩
 \xe to steam rice
 \xn 蒸米饭
 \xf cuire du riz à la vapeur
 
-\lx bʋ̩˩α
+\lx bv̩˩α
 \hm 3
 \or bbuq
 \ps v
-\lc bʋ̩˩˥
+\lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lα
@@ -5430,23 +5430,23 @@
 \gn 过（日子）
 \df Vivre, couler des jours, vivre (sa vie).
 \gf vivre/couler
-\xv zɯ˧ bʋ̩˩
+\xv zɯ˧ bv̩˩
 \xe to live one's life
 \xn 过日子
 \xf vivre sa vie
-\xv hĩ˧-zɯ˧ bʋ̩˥, | lo˧hɑ˧!
+\xv hĩ˧-zɯ˧ bv̩˥, | lo˧hɑ˧!
 \xe Living one's life is hard! / Life is tough!
 \xn 人一生，不容易！/ 生活，是艰难的！
 \xf Vivre sa vie, c'est difficile! / La vie humaine, c'est pas facile! / La vie est dure!
-\xv hĩ˧-zɯ˧ | le˧-bʋ̩˩-ze˩.
+\xv hĩ˧-zɯ˧ | le˧-bv̩˩-ze˩.
 \xe (Her/his) life has gone by! / (Her/his) life is over! (A reflection after someone's decease.)
 \xn 他的人生，就结束了！（情景：一个人去世了，葬礼的时候，有人这样说。）
 \xf (Sa) vie a passé! / (Sa) vie est terminée! (Réflexion après le décès de quelqu'un.)
-\xv qʰwɤ˧-ɭɯ˥, | ʈʂʰæ˧-mɤ˧-dʑɯ˧! | ʈʂʰɯ˧ ɖɯ˧-zɯ˧ bʋ̩˩-ze˩!
+\xv qʰwɤ˧-ɭɯ˥, | ʈʂʰæ˧-mɤ˧-dʑɯ˧! | ʈʂʰɯ˧ ɖɯ˧-zɯ˧ bv̩˩-ze˩!
 \xe He never had to do the washing-up (in his entire life)! That's how he spent his lifetime (=without any practical concerns)! (About an Oxford professor whose every need in daily life was attended to by the college scouts.)
 \xn 他从来没有洗过碗！他这辈子，是这样过去的！（情景：关于一个英国知识分子，完全不用管家务、日常生活中的活儿：有人来管一切。）
 \xf Il n'a jamais eu à faire la vaisselle (de sa vie)! Voilà comment s'est passée toute sa vie! (Commentaire au sujet de la vie d'un universitaire d'Oxford qui s'était entièrement soustrait aux tâches manuelles.)
-\xv ɖɯ˧-ɲi˥~ɖɯ˩-ɲi˩ | bʋ̩˩ lo˩ fv̩˩˥!
+\xv ɖɯ˧-ɲi˥~ɖɯ˩-ɲi˩ | bv̩˩ lo˩ fv̩˩˥!
 \xe How easily days go by! / How time flies!
 \xn 日子过得真快！（直译：‘一天又一天，日子过得真容易’）
 \xf Les journées passent bien vite! / Comme le temps passe!
@@ -5742,12 +5742,12 @@
 \gf paddy
 \dt 24/Apr/2017
 
-\lx ɕi˧ɭɯ˧-lv̩˧pʰʋ̩˩
+\lx ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \sf <nb="B"> 52b
 \sf <nb="2011"> 87
 \or xilee lupu
 \ps n
-\lc ɕi˧ɭɯ˧lv̩˧pʰʋ̩˩
+\lc ɕi˧ɭɯ˧lv̩˧pʰv̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -5793,8 +5793,8 @@
 \nt <type="sem" langue="fra"> là où on cultive le riz
 \ton -MH#
 \lc ɕi˧lv̩˧mv̩˧di˧˥
-\cf lv̩˧pʰʋ̩˩2
-\cf ɕi˧ɭɯ˧-lv̩˧pʰʋ̩˩
+\cf lv̩˧pʰv̩˩2
+\cf ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so <print="n"> F4
 \pdv pʰæ˧˥
 \pdv kɤ˧˥
@@ -6050,11 +6050,11 @@
 \xc <type="hist" print="n"> d'abord noté /†ɕjɤ˩ ɣɯ˧/
 \dt 27/Aug/2015
 
-\lx ɕjɤ˧-bʋ̩˧nv̩˧
+\lx ɕjɤ˧-bv̩˧nv̩˧
 \sf <nb="B"> 1031
 \sf <nb="2011"> 1459
 \or xebbunu
-\et bʋ̩˧nv̩˧
+\et bv̩˧nv̩˧
 \bw <langue="cmn"> 香
 \ps adj
 \sd <langue="fra"> adjectif
@@ -6063,17 +6063,17 @@
 \nt <type="hist" langue="fra" print="n"> (ɕjæ˧: emprunt au chinois)
 \nt <type="sem" langue="fra"> (sans /ɕjɤ˧/: désigne une odeur désagréable)
 \ton M
-\lc ɕjɤ˧bʋ̩˧nv̩˧
+\lc ɕjɤ˧bv̩˧nv̩˧
 \so <print="n"> F4
-\va <speaker="F5"> ɕjæ˧-bʋ̩˧nv̩˧
-\va <speaker="M21"> ɕjẽ˧bʋ̩˧nv̩˧
+\va <speaker="F5"> ɕjæ˧-bv̩˧nv̩˧
+\va <speaker="M21"> ɕjẽ˧bv̩˧nv̩˧
 \de Good (smell), fragrant.
 \ge fragrant
 \dn 香（气味香）
 \gn 香（气味）（借词）
 \df Bonne (odeur).
 \gf bon(odeur)
-\xv ʈʂʰɯ˧ | ɕjɤ˧-bʋ̩˧nv̩˧ ɲi˩.
+\xv ʈʂʰɯ˧ | ɕjɤ˧-bv̩˧nv̩˧ ɲi˩.
 \xe It smells good.
 \xn 这是香的（气味香）。
 \xf Ça sent bon.
@@ -6749,14 +6749,14 @@
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
 
-\lx ɖæ˩pʰʋ̩˥
+\lx ɖæ˩pʰv̩˥
 \sf <nb="2011"> 102
 \or ddaepu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton LH
-\lc ɖæ˩pʰʋ̩˥
+\lc ɖæ˩pʰv̩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \pdv ti˧˥
@@ -6767,7 +6767,7 @@
 \df Poussière.
 \gf poussière
 
-\lx dɑ˧pʋ̩#˥
+\lx dɑ˧pv̩#˥
 \sf <nb="B"> 376
 \sf <nb="2011"> 440
 \or ddabu
@@ -6775,7 +6775,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc dɑ˧pʋ̩˧
+\lc dɑ˧pv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -6787,11 +6787,11 @@
 \gn 主人
 \df Maître de maison, hôte (personne qui accueille).
 \gf hôte
-\xv ʑi˧dv̩˧ dɑ˧pʋ̩˧
+\xv ʑi˧dv̩˧ dɑ˧pv̩˧
 \xe the family host, the member of the family who has the role of host
 \xn 家的主人（依杜的主人。“依杜”指摩梭的人户。）
 \xf l'hôte de la maison
-\xv ʑi˧dv̩˧-ʝi˧-hĩ˧ dɑ˧pʋ̩˧
+\xv ʑi˧dv̩˧-ʝi˧-hĩ˧ dɑ˧pv̩˧
 \xe ditto
 \xn 同上
 \xf idem
@@ -7156,34 +7156,34 @@
 \gr 龙爪菜
 \df Fougère. Elle était consommée comme nourriture en temps de disette.
 \gf fougère
-\xv di˩li˩-ʁo˩bʋ̩˥ (ton: L+H#)
+\xv di˩li˩-ʁo˩bv̩˥ (ton: L+H#)
 \xe bracken shoots
 \xn 蕨菜的萌芽
 \xf pousses de fougère
 \xc <type="tone"> L+H#
-\xv di˩li˩-ʁo˩bʋ̩˥ hwæ˩
+\xv di˩li˩-ʁo˩bv̩˥ hwæ˩
 \xe to buy bracken shoots
 \xn 买蕨菜萌芽
 \xf acheter des pousses de fougère
 \xc PHONO
-\xv di˩li˩-ʁo˩bʋ̩˥ tɕʰi˩
+\xv di˩li˩-ʁo˩bv̩˥ tɕʰi˩
 \xe to sell bracken shoots
 \xn 卖蕨菜萌芽
 \xf vendre des pousses de fougère
 \xc PHONO
-\xv di˩li˩-ʁo˩bʋ̩˥ dzɯ˩
+\xv di˩li˩-ʁo˩bv̩˥ dzɯ˩
 \xe to eat bracken shoots
 \xn 吃蕨菜萌芽
 \xf manger des pousses de fougère
 \xc PHONO
 \xc <type="tone" langue="fra"> verbe au ton H
-\xv di˩li˩-ʁo˩bʋ̩˥ dze˩
+\xv di˩li˩-ʁo˩bv̩˥ dze˩
 \xe to cut bracken shoots
 \xn 割蕨菜萌芽
 \xf couper des pousses de fougère
 \xc PHONO
 \xc <type="tone" langue="fra"> verbe au ton LM
-\xv di˩li˩-ʁo˩bʋ̩˥ tɕɤ˩
+\xv di˩li˩-ʁo˩bv̩˥ tɕɤ˩
 \xe to boil bracken shoots
 \xn 煮蕨菜嫩芽
 \xf faire bouillir des pousses de fougère
@@ -7587,7 +7587,7 @@
 \xn 小腿
 \xf mollet
 
-\lx do˧bʋ̩˧
+\lx do˧bv̩˧
 \sf <nb="B"> 159
 \sf <nb="2011"> 226
 \or ddobbu
@@ -7596,7 +7596,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: do˥ bv̩˥)
 \ton M
-\lc do˧bʋ̩˧
+\lc do˧bv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -7610,15 +7610,15 @@
 \df Fesse.
 \gf fesse
 
-\lx do˩bʋ̩#˥
+\lx do˩bv̩#˥
 \or ddobbu
 \ps n
-\cf mɑ˩ɳɯ˧-do˥bʋ̩˩
+\cf mɑ˩ɳɯ˧-do˥bv̩˩
 \cf mɑ˩ɳɯ#˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM+#H
-\lc do˩bʋ̩˥
+\lc do˩bv̩˥
 \so <print="n"> F4
 \pdv ɭɯ˧β
 \de Mani wall, Mani pile: pile built of rubble and sand, with carved stone tablets, most with the inscription Om Mani Padme Hum. A Mani wall should be passed or circumvented from the left side, the clockwise direction in which the universe revolves, according to Buddhist doctrine.
@@ -7673,7 +7673,7 @@
 \xe little fox, baby fox
 \xn 小狐狸
 \xf petit renard, renardeau
-\xv ɖɤ˧mi˧-pʰʋ̩#˥
+\xv ɖɤ˧mi˧-pʰv̩#˥
 \xe male fox
 \xn 公狐狸
 \xf renard mâle
@@ -8066,15 +8066,15 @@
 \df Ddeema Lhaco, un prénom féminin.
 \gf Ddeema_Lhaco
 
-\lx ɖɯ˩mɑ˧-pʋ̩˩ʈʰɯ˩
+\lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
 \et ɖɯ˩mɑ#˥
-\et pʋ̩˩ʈʰɯ˧
+\et pv̩˩ʈʰɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton LM-L
-\lc ɖɯ˩mɑ˧pʋ̩˩ʈʰɯ˩
+\lc ɖɯ˩mɑ˧pv̩˩ʈʰɯ˩
 \so <print="n"> F4
 \de Ddeema Butee, a feminine given name.
 \ge Ddeema_Butee
@@ -8527,7 +8527,7 @@
 \gn 母黄鼠狼
 \df Belette femelle.
 \gf belette_femelle
-\xv dv̩˩mi˧-dv̩˥pʰʋ̩˩
+\xv dv̩˩mi˧-dv̩˥pʰv̩˩
 \xe female weasel and male weasel
 \xn 母黄鼠狼与公黄鼠狼
 \xf belette femelle et belette mâle
@@ -8550,16 +8550,16 @@
 \df Partie du bâtiment principal dans laquelle étaient conservées les céréales: le grenier à céréales.
 \gf grenier
 
-\lx dv̩˩pʰʋ̩#˥
+\lx dv̩˩pʰv̩#˥
 \or ddupu
 \ps n
-\lc dv̩˩pʰʋ̩˥
+\lc dv̩˩pʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> avant le 18 juillet 2012: avais noté seulement la variante tonale LM
 \ton LM+#H ≈ LM
 \so <print="n"> F4
-\va <speaker="F4"> dv̩˩pʰʋ̩˧
+\va <speaker="F4"> dv̩˩pʰv̩˧
 \pdv mi˩
 \de Male weasel.
 \ge male_weasel
@@ -8986,11 +8986,11 @@
 \gn 法师
 \df Sorcier.
 \gf sorcier
-\xv ə˧pʰʋ̩˧-ɖʐæ˩bɻ̩˩
+\xv ə˧pʰv̩˧-ɖʐæ˩bɻ̩˩
 \xe ‘Grandfather sorcerer': a respectful term of address for a sorcerer who is advanced in years or considered to have great powers
 \xn ‘法师爷爷’：对年龄高（或被认为本事很大）的法师的尊重称呼
 \xf ‘Grand-père sorcier': terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables
-\xv ə˧v̩˧-ɖʐæ˥bʋ̩˩
+\xv ə˧v̩˧-ɖʐæ˥bv̩˩
 \xe ‘Uncle sorcerer': a respectful term of address for a sorcerer
 \xn ‘法师舅舅’：对法师的尊重称呼
 \xf ‘Oncle sorcier': terme d'adresse respectueux pour un sorcier
@@ -9267,7 +9267,7 @@
 \xe a baby bat
 \xn 一只小蝙蝠
 \xf une petite chauve-souris, un bébé chauve-souris
-\xv dze˧bɤ˩-pʰʋ̩˩ | ɖɯ˧-mi˩
+\xv dze˧bɤ˩-pʰv̩˩ | ɖɯ˧-mi˩
 \xe a male bat
 \xn 一只公蝙蝠
 \xf une chauve-souris mâle
@@ -9555,12 +9555,12 @@
 \gf ruche
 \dt 24/Apr/2017
 
-\lx dze˩mi˧-pʋ̩˥ɻ̩˩
+\lx dze˩mi˧-pv̩˥ɻ̩˩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
 \or zzeimipu'er
 \ps n
-\lc dze˩mi˧pʋ̩˥ɻ̩˩
+\lc dze˩mi˧pv̩˥ɻ̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> identification confirmée en 2016 d'après volume “Médecine mosuo"
@@ -9573,7 +9573,7 @@
 \gn 密封之花
 \df Le mot signifie littéralement ‘repos des abeilles’, et est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
 \gf fleur_des_abeilles
-\xv dze˩mi˧-pʋ̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
+\xv dze˩mi˧-pv̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
 \xe root of straight ladybell
 \xn 沙参根
 \xf racine d'|fi{Adenophora sp.}
@@ -10894,12 +10894,12 @@
 \gf grenier_à_céréales
 \dt 24/Apr/2017
 
-\lx dʑɤ˩bʋ̩˥
+\lx dʑɤ˩bv̩˥
 \sf <nb="B"> 1557
 \sf <nb="2011"> 2596
 \or jjabbu
 \ps v
-\lc dʑɤ˩bʋ̩˥
+\lc dʑɤ˩bv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (voisement des consonnes: confirmé)
@@ -10913,32 +10913,32 @@
 \gn 玩
 \df Jouer.
 \gf jouer
-\xv dʑɤ˩bʋ̩˥-bi˩
+\xv dʑɤ˩bv̩˥-bi˩
 \xe 〜 |fg{fut.imm}
 \xn 要玩耍
 \xf 〜 |fg{fut.imm}
 \xc PHONO
-\xv dʑɤ˩bʋ̩˥-ze˩
+\xv dʑɤ˩bv̩˥-ze˩
 \xe 〜 |fg{pfv}
 \xn 玩耍了
 \xf 〜 |fg{pfv}
 \xc PHONO
-\xv le˧-dʑɤ˩bʋ̩˩ +ze˩
+\xv le˧-dʑɤ˩bv̩˩ +ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：玩耍了
 \xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
-\xv tʰi˧-dʑɤ˩bʋ̩˩, | tʰi˧-dʑɤ˩bʋ̩˩, | le˧-fv̩˧!
+\xv tʰi˧-dʑɤ˩bv̩˩, | tʰi˧-dʑɤ˩bv̩˩, | le˧-fv̩˧!
 \xe They play, they play… they're happy! / (By) playing on and on, they get really happy! (About children playing together)
 \xn 他们玩着玩着，很高兴！（情景：几个小孩子一起玩）
 \xf ils jouent, ils jouent… ils sont contents! (Au sujet d'enfants qui jouent ensemble)
 
-\lx dʑɤ˩bʋ̩˥-di˩
+\lx dʑɤ˩bv̩˥-di˩
 \sf <nb="B"> 1556
 \sf <nb="2011"> 2597
 \or jjabbuddi
 \ps n
-\lc dʑɤ˩bʋ̩˥di˩
+\lc dʑɤ˩bv̩˥di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (correction 2007; en 2006, avais noté: ˩ ˥ ˧)
@@ -10953,18 +10953,18 @@
 \df Jouet.
 \gf jouet
 
-\lx dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩
+\lx dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sf <nb="2011"> 3329
 \or Jjabbu Gesawua rrrr
 \et kɤ˧sɑ˥$
 \et ʁwɤ˧2
 \ps n
-\lc dʑɤ˩bʋ̩˧kɤ˧sɑ˥ʁwɤ˩
+\lc dʑɤ˩bv̩˧kɤ˧sɑ˥ʁwɤ˩
 \cf kɤ˧mi˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="sem" langue="fra"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\np <langue="fra"> formé de: dʑɤ˩bʋ̩˧+kɤ˧sɑ˥$+ʁwɤ˧
+\np <langue="fra"> formé de: dʑɤ˩bv̩˧+kɤ˧sɑ˥$+ʁwɤ˧
 \ton LM+MH#-
 \so <print="n"> F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
@@ -10973,7 +10973,7 @@
 \gn 高明村
 \df Jjabbu Gesawua, un village au nord-est de Yongning. Appelé Gaoming en chinois (nom emprunté en na comme |fv{kɤ˧mi˩}).
 \gf Jjabbu_Gesawua
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -10983,7 +10983,7 @@
 \bw <langue="cmn"> 高明
 \ps n
 \lc kɤ˧mi˩
-\cf dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩
+\cf dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="sem" langue="fra"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
@@ -10996,17 +10996,17 @@
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbu Gesawua.
 \gf Gaoming
 
-\lx ‡dʑɤ˩bʋ̩˥-ʁwɤ˩
+\lx ‡dʑɤ˩bv̩˥-ʁwɤ˩
 \sf <nb="2011"> 3330
 \or Jjabbuwua
 \ps n
-\lc dʑɤ˩bʋ̩˥ʁwɤ˩
-\cf dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩
+\lc dʑɤ˩bv̩˥ʁwɤ˩
+\cf dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra" print="n"> avant 2014: noté /dʑɤ˩bv̩˧-ʁwɤ˩/
 \nt <type="sem" langue="fra"> 11e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\nt <langue="fra" type="tone"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bv̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bʋ̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
+\nt <langue="fra" type="tone"> Le mot ‘village', |fv{/ʁwɤ˧/}, possède un ton moyen. Si les deux premières syllabes du nom du village étaient |fv{/dʑɤ˩bv̩˧/}, la troisième syllabe conserverait son ton M. Le fait qu'elle apparaisse au ton L indique que les deux premières syllabes doivent être |fv{/dʑɤ˩bv̩˥/}: schéma tonal LH. D'où l'analyse proposée pour le ton du composé: LH-, plutôt que LM-L.
 \ton LH-
 \so <print="n"> F4
 \de Jjabbuwua (name of a village). The usual name in Na is Jjabbu Gesawua, not Jjabbuwua. This entry is nevertheless retained in the dictionary (with the symbol ‡ to indicate an erroneous form), because it has been phonetically transposed into Chinese, in the village name |fn{甲波瓦村}.
@@ -11186,7 +11186,7 @@
 \gn 母壁虎
 \df Lézard femelle.
 \gf lézard_femelle
-\xv dzo˧mi˧-dzo˩pʰʋ̩˩
+\xv dzo˧mi˧-dzo˩pʰv̩˩
 \xe female lizard and male lizard
 \xn 母壁虎与公壁虎
 \xf lézard femelle et lézard mâle
@@ -11235,15 +11235,15 @@
 \xn 同上。
 \xf Idem ci-dessus.
 
-\lx dzo˩pʰʋ̩˩
+\lx dzo˩pʰv̩˩
 \or zzopu
 \ps n
-\lc dzo˩pʰʋ̩˩˥
+\lc dzo˩pʰv̩˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\va <speaker="F4"> dzo˩pʰʋ̩#˥
+\va <speaker="F4"> dzo˩pʰv̩#˥
 \vf <type="tone"> LM+#H
 \pdv mi˩
 \pdv ɭɯ˧β
@@ -11253,7 +11253,7 @@
 \gn 公壁虎
 \df Lézard mâle.
 \gf lézard_mâle
-\xv dzo˩pʰʋ̩˩-dzo˩mi˥
+\xv dzo˩pʰv̩˩-dzo˩mi˥
 \xe male lizard and female lizard
 \xn 公壁虎与母壁虎
 \xf lézard mâle et lézard femelle
@@ -11821,7 +11821,7 @@
 \xe Do female earthworms exist? (An artificially designed question, so as to elicit a form of ‘earthworm' with the ‘female' suffix, with a view to understanding the synchronically productive tone assignment rules for the gender suffixes.)
 \xn 有母蚯蚓吗？
 \xf Les vers de terre femelle, ça existe? (Cette phrase permet d'éliciter une forme associant ‘ver de terre' au suffixe ‘femelle', dans l'idée d'étudier les règles tonales productives en synchronie pour les suffixes de genre.)
-\xv dʑɯ˧dv̩˧-pʰʋ̩˩, | ə˩-dʑo˩˥?
+\xv dʑɯ˧dv̩˧-pʰv̩˩, | ə˩-dʑo˩˥?
 \xe Do male earthworms exist? (An artificially designed question, so as to elicit a form of ‘earthworm' with the ‘male' suffix, with a view to understanding the synchronically productive tone assignment rules for the gender suffixes.)
 \xn 有公蚯蚓吗？
 \xf Les vers de terre mâle, ça existe? (Cette phrase permet d'éliciter une forme associant ‘ver de terre' au suffixe ‘mâle', dans l'idée d'étudier les règles tonales productives en synchronie pour les suffixes de genre.)
@@ -12709,7 +12709,7 @@
 \gn 波浪
 \df Vague.
 \gf vague
-\xv dʑɯ˩so˩ pʰʋ̩˩˥
+\xv dʑɯ˩so˩ pʰv̩˩˥
 \xe there is a wave, a wave breaks
 \xn 有波浪
 \xf il y a une vague, une vague déferle
@@ -13694,13 +13694,13 @@
 \gf moineau
 \dt 27/Aug/2015
 
-\lx ɖʐwæ˧pʰʋ̩#˥
+\lx ɖʐwæ˧pʰv̩#˥
 \or zzhuaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc ɖʐwæ˧pʰʋ̩˧
+\lc ɖʐwæ˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male sparrow.
@@ -13709,7 +13709,7 @@
 \gn 公麻雀
 \df Moineau mâle.
 \gf moineau_mâle
-\xv ɖʐwæ˧pʰʋ̩˧ tʰv̩˧-mi˧˥ ≈ ɖʐwæ˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公麻雀
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -13857,7 +13857,7 @@
 \xf oncle paternel cadet du père
 \dt 27/Aug/2015
 
-\lx ə˧bʋ̩˩
+\lx ə˧bv̩˩
 \sf <nb="B"> 2310
 \sf <nb="2011"> 49
 \or ebbu
@@ -13865,8 +13865,8 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton L#
-\lc ə˧bʋ̩˩
-\cf bʋ̩˥
+\lc ə˧bv̩˩
+\cf bv̩˥3
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -13876,7 +13876,7 @@
 \gn 烤砖的烤炉
 \df Four où on cuit les briques, les objets en céramique…
 \gf four
-\gv ŋwɤ˧pʰæ˧ bv̩˥-di˩, | ə˧bʋ̩˩!
+\gv ŋwɤ˧pʰæ˧ bv̩˥-di˩, | ə˧bv̩˩!
 
 \lx ŋwɤ˧jɤ˩
 \sf <nb="B"> 2310
@@ -13888,7 +13888,7 @@
 \sd <langue="eng"> natural environment
 \ton L#
 \lc ŋwɤ˧jɤ˩
-\cf ə˧bʋ̩˩
+\cf ə˧bv̩˩
 \so <print="n"> F4
 \de Kiln; oven to make bricks, ceramics etc.
 \ge kiln
@@ -13915,13 +13915,13 @@
 \df Interjection approbative. Il pourrait s'agir d'une déformation expressive de “oui”,  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
 \gf |fg{intj}.approbation
 
-\lx ə˧bʋ̩˧-ʁwɤ˧
+\lx ə˧bv̩˧-ʁwɤ˧
 \or Abbuwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton M
-\lc ə˧bʋ̩˧ʁwɤ˧
+\lc ə˧bv̩˧ʁwɤ˧
 \so <print="n"> F4
 \de Abbuwua, a village name.
 \ge Abbuwua
@@ -14471,7 +14471,7 @@
 \gn 阿拉瓦村
 \df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Romanisation: Alawua. Nom chinois: Alawa. Nom en na romanisé: Alawua.
 \gf nom_de_village
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -14864,16 +14864,16 @@
 \gf hier
 \dt 28/Aug/2015
 
-\lx ə˧pʰʋ̩˧
+\lx ə˧pʰv̩˧
 \sf <nb="B"> 333a
 \sf <nb="2011"> 390
 \or apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> [æ˧pʰʋ̩˧]
+\np <langue="fra"> [æ˧pʰv̩˧]
 \ton M
-\lc ə˧pʰʋ̩˧
+\lc ə˧pʰv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14923,7 +14923,7 @@
 \gf bisaïeule
 \dt 28/Aug/2015
 
-\lx ə˧si˧-ə˧pʰʋ̩#˥
+\lx ə˧si˧-ə˧pʰv̩#˥
 \sf <nb="B"> 270b
 \sf <nb="2011"> 393
 \or asee apeu
@@ -14934,7 +14934,7 @@
 \nt <type="hist" langue="fra" print="n"> M23: confirmé, est /si/ et non /sɯ/
 \np <langue="fra"> proche de [ɤ˧si˧æ˧pʰv̩˧]
 \ton #H
-\lc ə˧si˧ə˧pʰʋ̩˧
+\lc ə˧si˧ə˧pʰv̩˧
 \so <print="n"> F4
 \vf ancêtres féminins et masculins) ɤ˥ sɯ˥ ɤ˥ pʰv̩˥ tɑ˧ lɑ˧
 \vf sans doute tɑ˩lɑ˧); aussi: même formule que F4
@@ -15352,19 +15352,19 @@
 \xf Il va falloir que j'apprenne à me comporter (sagement) comme une grand-mère! (Contexte: remarque teintée d'humour de la consultante principale face à l'âge qui vient et ses soucis: un médecin lui déconseille les sofas/assises molles et lui recommande une chaise haute en bois; elle se fait la réflexion qu'elle a vieilli et doit maintenant apprendre à prendre des précautions.)
 \dt 28/Aug/2015
 
-\lx ə˧ʑi˧-ə˧pʰʋ̩˧˥
+\lx ə˧ʑi˧-ə˧pʰv̩˧˥
 \sf <nb="B"> 2309
 \sf <nb="2011"> 391
 \or axxi apeu
 \ps n
 \cf ə˧ʑi˧˥
-\cf ə˧pʰʋ̩˧
+\cf ə˧pʰv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> formé de d2b+d1 (avant 2009: noté: ˧ ˧ ˧ ˥)
-\np <langue="fra"> [e˧ʑi˧æ˧pʰʋ̩˧˥]
+\np <langue="fra"> [e˧ʑi˧æ˧pʰv̩˧˥]
 \ton MH#
-\lc ə˧ʑi˧ə˧pʰʋ̩˧˥
+\lc ə˧ʑi˧ə˧pʰv̩˧˥
 \so <print="n"> F4
 \de Elders by two generations: the grandmother and her brothers.
 \ge elders_by_two_generations
@@ -15824,7 +15824,7 @@
 \gn 嘎尔村
 \df Village situé à environ 1,5 km à l'ouest de |fv{/ə˧lɑ˧-ʁwɤ#˥/}: à main gauche en sortant de la vallée de Yongning, en direction de Eya. En chinois: Gaer.
 \gf nom_de_village
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -16006,10 +16006,10 @@
 \gf musc
 \dt 24/Apr/2017
 
-\lx gi˧-nɑ˧mi˧-pʰʋ̩#˥
+\lx gi˧-nɑ˧mi˧-pʰv̩#˥
 \or gginamipu
 \ps n
-\lc gi˧nɑ˧mi˧pʰʋ̩˧
+\lc gi˧nɑ˧mi˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -16021,7 +16021,7 @@
 \gn 公熊
 \df Ours (mâle).
 \gf ours_mâle
-\xv gi˧-nɑ˧mi˧-pʰʋ̩˧ tʰv̩˧-pʰo˩
+\xv gi˧-nɑ˧mi˧-pʰv̩˧ tʰv̩˧-pʰo˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公熊
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -16478,12 +16478,12 @@
 \xn 看电视
 \xf regarder la télé (néologisme)
 
-\lx gɤ˩bʋ̩˧
+\lx gɤ˩bv̩˧
 \sf <nb="B"> 1605
 \sf <nb="2011"> 2392
 \or ggebbu
 \ps v
-\lc gɤ˩bʋ̩˥
+\lc gɤ˩bv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> gɤ˩tsɯ˥tʰv̩˧ze˩ (tons et voyelles confirmées, n'est pas gɑ˩tsɯ˥) “ça a débordé"
@@ -16496,11 +16496,11 @@
 \gn 溢出
 \df Déborder. Par exemple, quand on a mis un couvercle sur une casserole, et que le feu va fort, le liquide bout à gros bouillons, et ça déborde.
 \gf déborder
-\xv gɤ˩bʋ̩˧-ze˩
+\xv gɤ˩bv̩˧-ze˩
 \xe |fg{pfv}
 \xn 整体体：溢出来了
 \xf |fg{pfv}
-\xv gɤ˩bʋ̩˧-ho˩-ze˩!
+\xv gɤ˩bv̩˧-ho˩-ze˩!
 \xe |fg{fut} |fg{pfv}: It's going to boil over!
 \xn 未来+整体体：要溢出来了！要沸腾了！
 \xf |fg{fut} |fg{pfv}: Ca va déborder !
@@ -16569,11 +16569,11 @@
 \xn 你是汉神灵，对吗？(这是对一个人的讽刺，他只是坐在那里无所事事，不参与家庭活动：像汉族万神殿的神灵一样，一动不动）
 \xf Alors comme ça, t'es une divinité chinoise, c'est bien ça? (Commentaire ironique adressé à quelqu'un qui se tient assis sans rien faire, sans participer aux activités de la maison: immobile comme les divinités du panthéon chinois.)
 
-\lx pʰʋ̩˩sɑ˧
+\lx pʰv̩˩sɑ˧
 \or pusa rrrr
 \bw <langue="cmn"> 菩萨
 \ps n
-\lc pʰʋ̩˩sɑ˧
+\lc pʰv̩˩sɑ˧
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM
@@ -16923,15 +16923,19 @@
 \xe to have stomach-ache
 \xn 肚子疼
 \xf avoir mal au ventre
-\xv go˧ li˧ xxxx confirmer
+\xv go˧ li˧
 \xe to consult a doctor, to go to the doctor
 \xn 看病、就医
 \xf consulter un médecin, aller voir le médecin, consulter
-\xv go˧ li˧-di˩ xxxx confirmer
-\xc <type="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
+\xv go˧ li˧-di˩
 \xe dispensary: literally, a place where a doctor can be consulted
 \xn 诊所：字面意思是“看病的地方”
 \xf dispensaire: littéralement, lieu où on peut consulter un médecin
+\xc <type="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
+\xv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
+\xe dispensary: literally, a place where a doctor can be consulted
+\xn 诊所：字面意思是“看病的地方”
+\xf Le dispensaire, c'est le lieu où on va consulter un médecin!
 
 \lx gɤ˩-
 \or gge-
@@ -17072,7 +17076,7 @@
 \xn 吃皮
 \xf manger de la peau
 \xc PHONO
-\xv ɣɯ˩˥ | ɖɯ˧-ʂɯ˩ pʰʋ̩˩
+\xv ɣɯ˩˥ | ɖɯ˧-ʂɯ˩ pʰv̩˩
 \xe literally ‘to shed one's skin once'; meaning: to be worn out and physically hurt (by an exhausting task, such as felling trees high up on the mountains and carrying lumber back to the plain)
 \xn 直译：‘脱皮一次’。意思：疲劳而受伤（因为做了很辛苦的工作，如：在深山老林砍树、扛树干回到坝子）
 \xf littéralement ‘perdre sa peau'; sens: être épuisé et blessé par un travail ardu (par exemple: abattre des arbres sur la montagne et ramener les grumes jusque dans la plaine)
@@ -17501,7 +17505,7 @@
 \xe Her nose is less straight than yours! (About a little girl whose nose does not resemble her father's straight nose)
 \xn 她的鼻子没有你的直！（关于一个鼻子比较扁的小女孩）
 \xf elle a le nez moins droit que toi! (Au sujet d'une petite fille dont le nez ne ressemble pas au nez droit de son père)
-\xv ʐæ˧ni˩ | mɤ˧-gv̩˧
+\xv ʐæ˧-ni˩ | mɤ˧-gv̩˧
 \xe not tall, not impressive, not great-looking
 \xn 个子不高
 \xf pas bien grand (en taille), pas bien impressionnant
@@ -17727,12 +17731,12 @@
 \gf planche_fine
 \dt 24/Apr/2017
 
-\lx gv̩˧sɯ˥-pʋ̩˩
+\lx gv̩˧sɯ˥-pv̩˩
 \sf <nb="B"> 144
 \sf <nb="2011"> 211
 \or ggusibu
 \ps n
-\lc gv̩˧sɯ˥pʋ̩˩
+\lc gv̩˧sɯ˥pv̩˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (corrigé le 5/11/2007; notation 2006: “gv̩˧ sɯ˥ pv̩˧; tons à vérifier: serait-ce ˧˥˩?") (vérifié: n'est pas /si/)
@@ -18486,12 +18490,12 @@
 \xn 干了的玉米棒子
 \xf épi de maïs séché
 
-\lx hɑ˧-bʋ̩˥~bʋ̩˩-di˩
+\lx hɑ˧-bv̩˥~bv̩˩-di˩
 \sf <nb="B"> 509c
 \sf <nb="2011"> 705
 \or ha bbubbuddi
 \ps n
-\lc hɑ˧bʋ̩˥bʋ̩˩di˩
+\lc hɑ˧bv̩˥bv̩˩di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés en 2006 et 2007, d'abord noté ˧˥˧˩)
@@ -18837,7 +18841,7 @@
 \lx hæ˧se˧
 \sf <nb="2011"> 3195
 \or haesei
-\bw <langue="cmn"> dialect |fn{海参}
+\bw <langue="xina1239">海参
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -18845,12 +18849,28 @@
 \lc hæ˧se˧
 \so <print="n"> F4
 \de Agar.
-\ge agar
+\ge 海参::agar
 \dn 石花菜、海参
-\gn 石花菜
+\gn 海参（借词）
 \df Agar (ressemble à une algue).
-\gf agar
-\dt 02/Sep/2015
+\gf 海参::agar
+
+\lx ʈʂe˧so˧
+\or zheso
+\bw <langue="cmn"> 诊所
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton M
+\lc ʈʂe˧so˧
+\so <print="n"> F4
+\de Dispensary: literally, a place where a doctor can be consulted.
+\ge 诊所::dispensary
+\dn 诊所：字面意思是“看病的地方”
+\gn 诊所（借词）
+\df Dispensaire : littéralement, lieu où l'on peut consulter un médecin.
+\gf dispensaire
+\dv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
 
 \lx hæ̃˩sɤ˩
 \sf <nb="B"> 0000
@@ -19838,7 +19858,7 @@
 \gn 习瓦洛村
 \df Un village de la plaine de Yongning.
 \gf nom_de_village
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -19979,7 +19999,7 @@
 \gn 小舌
 \df Luette.
 \gf luette
-\xv qv̩˧ʈʂæ˧=bʋ̩˥ | hi˩ʐæ˥
+\xv qv̩˧ʈʂæ˧=bv̩˥ | hi˩ʐæ˥
 \xe the uvula; specifying ‘the throat's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 小舌
 \xf la luette; la précision ‘…de la gorge' permet de lever l'ambiguïté lorsqu'il pourrait s'agir du tendon de la langue, lui aussi désigné comme |fv{/hi˩ʐæ˥/}.
@@ -19990,7 +20010,7 @@
 \gn 舌头的筋
 \df Tendon de la langue.
 \gf tendon_de_la_langue
-\xv hi˩mi˩=bʋ̩˥ | hi˩ʐæ˥
+\xv hi˩mi˩=bv̩˥ | hi˩ʐæ˥
 \xe the tendon of the tongue; specifying ‘the tongue's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 舌头的筋
 \xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme |fv{/hi˩ʐæ˥/}.
@@ -20402,13 +20422,13 @@
 \gf 8e_mois
 \dt 24/Apr/2017
 
-\lx ho˩lo˧pʋ̩˥
+\lx ho˩lo˧pv̩˥
 \sf <nb="B"> 2007b
 \sf <nb="2011"> 3070
 \or holobu
 \bw <langue="cmn"> 胡萝卜
 \ps n
-\lc ho˩lo˧pʋ̩˥
+\lc ho˩lo˧pv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \np <langue="fra"> (emprunt)
@@ -20444,17 +20464,17 @@
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这个母雉
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\xv ho˧mi˧-ho˧pʰʋ̩˥ ≈ ho˧mi˧-ho˥pʰʋ̩˩
+\xv ho˧mi˧-ho˧pʰv̩˥ ≈ ho˧mi˧-ho˥pʰv̩˩
 \xe female and male pheasant
 \xn 母雉与公雉
 \xf faisan femelle et faisan mâle
 \xc <type="tone"> H# / #H-
 
-\lx ho˧pʰʋ̩#˥
+\lx ho˧pʰv̩#˥
 \sf <nb="2011"> 2661
 \or hopu
 \ps n
-\lc ho˧pʰʋ̩˧
+\lc ho˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -20466,7 +20486,7 @@
 \gn 公雉
 \df Faisan mâle.
 \gf faisan_mâle
-\xv ho˧pʰʋ̩˧ tʰv̩˧-mi˧˥ ≈ ho˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv ho˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ho˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公雉
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -20535,7 +20555,7 @@
 \gn 红豆杉（借词）
 \df If.
 \gf 红豆杉::if
-\xv ho˩to˩ʂæ˧=bʋ̩˧ | bæ˩bæ˩ ɲi˥!
+\xv ho˩to˩ʂæ˧=bv̩˧ | bæ˩bæ˩ ɲi˥!
 \xe It's a yew flower!
 \xn 是红豆杉花！
 \xf C'est une fleur d'if!
@@ -21287,7 +21307,7 @@
 \gn 松鼠
 \df Écureuil.
 \gf écureuil
-\xv hwæ˧ɖʐæ˥-pʰʋ̩˩
+\xv hwæ˧ɖʐæ˥-pʰv̩˩
 \xe male squirrel
 \xn 公松鼠
 \xf écureuil mâle
@@ -21441,7 +21461,7 @@
 \gr 耗子
 \df Rat.
 \gf rat
-\xv hwæ˧tsɯ˥-pʰʋ̩˩
+\xv hwæ˧tsɯ˥-pʰv̩˩
 \xe male rat
 \xn 公老鼠
 \xf rat mâle
@@ -21748,7 +21768,6 @@
 \gn 猫
 \df Chat (monosyllabique).
 \gf chat(monosyll.)
-\dt 02/Sep/2015
 
 \lx hwɤ˧˥
 \sf <nb="2011"> 123
@@ -21898,7 +21917,7 @@
 \df Rat (forme monosyllabique conservée uniquement dans la liste des douze animaux du cycle duodénaire, et dans l'expression disyllabique `Année du Rat').
 \gf rat(monosyll.)
 \xc PHONO
-\xv æ̃˩˥, | kʰv̩˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv̩˧gv̩˧, | bʋ̩˧ʐv̩˧, | ʐwæ˧, | jo˧, | ʑi˩˥
+\xv æ̃˩˥, | kʰv̩˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv̩˧gv̩˧, | bv̩˧ʐv̩˧, | ʐwæ˧, | jo˧, | ʑi˩˥
 \xe the twelve animals of the duodenary cycle
 \xn 十二个生肖：鸡肉、狗、猪、鼠、牛、虎、兔、龙、蛇、马、羊、猴
 \xf les douze signes astrologiques du cycle duodénaire
@@ -21946,13 +21965,13 @@
 \gf chat
 \dt 24/Apr/2017
 
-\lx hwɤ˧li˧-bʋ̩˥
+\lx hwɤ˧li˧-bv̩˥
 \or hualibbu
 \et hwɤ˧li˧˥
-\et =bʋ̩˧
+\et =bv̩˧
 \ec <langue="fra"> «(la place) du chat»
 \ps n
-\lc hwɤ˧li˧bʋ̩˥
+\lc hwɤ˧li˧bv̩˥
 \sy hwɤ˧li˧-se˧-di˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -21970,7 +21989,7 @@
 \lx hwɤ˧li˧-hwæ˧qʰæ#˥
 \or huali huaekhae
 \ps n
-\cf ʂæ˧-lo˩pʋ̩˩
+\cf ʂæ˧-lo˩pv̩˩
 \lc hwɤ˧li˧-hwæ˧qʰæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -21987,7 +22006,6 @@
 \or huali seiddi
 \ps n
 \lc hwɤ˧li˧se˧di˧˥
-\sy bʋ̩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton MH#
@@ -21999,7 +22017,6 @@
 \gn 夹层
 \df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas: l'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde; d'où le nom: «(la pièce) du chat». On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
-\dt 01/Aug/2017
 
 \lx hwɤ˧li˧-ʂɯ˧mo˥
 \or huali shimo
@@ -22024,8 +22041,8 @@
 \lc hwɤ˧li˧zo˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="sem" langue="eng"> To specify a kitten's sex, one may, as early as birth, use the same terms as for adults: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰʋ̩˥$/}.
-\nt <type="sem" langue="fra"> Pour spécifier le sexe, on peut, dès la naissance, utiliser les mêmes termes que pour les adultes: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰʋ̩˥$/}.
+\nt <type="sem" langue="eng"> To specify a kitten's sex, one may, as early as birth, use the same terms as for adults: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰv̩˥$/}.
+\nt <type="sem" langue="fra"> Pour spécifier le sexe, on peut, dès la naissance, utiliser les mêmes termes que pour les adultes: |fv{/hwɤ˧mi˥$/}, |fv{/hwɤ˧pʰv̩˥$/}.
 \ton MH#
 \so <print="n"> F4
 \pdv ɭɯ˧β
@@ -22059,7 +22076,7 @@
 \gn 母猫
 \df Chatte.
 \gf chatte
-\xv hwɤ˧mi˧-hwɤ˥pʰʋ̩˩ / hwɤ˧mi˧-hwɤ˧pʰʋ̩˥#
+\xv hwɤ˧mi˧-hwɤ˥pʰv̩˩ / hwɤ˧mi˧-hwɤ˧pʰv̩˥#
 \xe she-cat and tom-cat
 \xn 母猫与公猫
 \xf chatte et matou
@@ -22067,12 +22084,12 @@
 \xc <langue="fra"> La locutrice exprime une préférence pour la variante tonale #H-.
 \xc <langue="eng"> The consultant expresses a preference for the #H- tonal variant.
 
-\lx hwɤ˧pʰʋ̩#˥
+\lx hwɤ˧pʰv̩#˥
 \sf <nb="B"> 1882
 \sf <nb="2011"> 2860
 \or huapu
 \ps n
-\lc hwɤ˧pʰʋ̩˧
+\lc hwɤ˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> (ton vérifié en 2009; 2006: noté †ho˧; en 2012, tons corrigés: auparavant noté †hwɤ˧pʰv̩˥$)
@@ -22088,11 +22105,11 @@
 \gn 公猫
 \df Matou, chat mâle.
 \gf matou
-\xv hwɤ˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv hwɤ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那个公猫
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\xv hwɤ˧pʰʋ̩˧-hwɤ˧mi˥
+\xv hwɤ˧pʰv̩˧-hwɤ˧mi˥
 \xe tom-cat and she-cat
 \xn 公猫与母猫
 \xf matou et chatte
@@ -22144,7 +22161,7 @@
 \xe same meaning
 \xn 同上
 \xf même sens
-\xv hwɤ˧tɕʰi˥-ʁo˩bʋ̩˩
+\xv hwɤ˧tɕʰi˥-ʁo˩bv̩˩
 \xe sprouts of curly dock
 \xn 土大黄的嫩芽
 \xf pousses de parelle sauvage
@@ -22432,21 +22449,21 @@
 \xe to have spots, to get pimples
 \xn 出痘痘
 \xf avoir des boutons
-\xv ʝi˩ bʋ̩˩
+\xv ʝi˩ bv̩˩
 \xe to have lots of pimples
 \xn 出好多痘痘
 \xf
-\xv ʝi˩ bʋ̩˩ ʝi˥ ʈv̩˩~ʈv̩˩
+\xv ʝi˩ bv̩˩ ʝi˥ ʈv̩˩~ʈv̩˩
 \xe to have lots of pimples
 \xn （一个人）是麻子，出好多痘痘
 \xf être grêlé; avoir plein de boutons
-\xc <langue="fra" type="sem"> On ne peut décomposer l'expression pour en séparer la première partie /|fv{†ʝi˩ bʋ̩˩}/, qui aurait le sens de: ‘avoir des boutons’. Elle a pourtant bon aspect au plan phonologique, comme un mot disyllabique au ton M. Mais la forme /|fv{ʝi˩ bʋ̩˩}/ fait aussitôt penser à tout autre chose: le nom `taureau', qui, appliqué à un homme, marque une critique d'un comportement brutal, aux antipodes de la prévenance appréciée dans la société na.
+\xc <langue="fra" type="sem"> On ne peut décomposer l'expression pour en séparer la première partie /|fv{†ʝi˩ bv̩˩}/, qui aurait le sens de: ‘avoir des boutons’. Elle a pourtant bon aspect au plan phonologique, comme un mot disyllabique au ton M. Mais la forme /|fv{ʝi˩ bv̩˩}/ fait aussitôt penser à tout autre chose: le nom `taureau', qui, appliqué à un homme, marque une critique d'un comportement brutal, aux antipodes de la prévenance appréciée dans la société na.
 \nt <type="hist" langue="fra" print="n" type="tone"> Tons établis en 2009. Avais d'abord noté /i˩bv̩˩ i˥ tv̩˧tv̩˩/, puis /i˧ bv̩˧ i˥ tv̩˧ tv̩˧/.
 \nt <type="hist" langue="fra" print="n" type="phono"> D'abord noté /|fv{... tv̩˧tv̩˩}/, puis songé à corriger en /|fv{ʈɻ̩˧ʈɻ̩˩}/, avant de reconnaître (en 2009) la présence d'une syllabe /|fv{ʈv̩}/ à initiale rétroflexe et à rime /|fv{v̩}/.
 \rf F4
 \rf F5
 \rf M18
-\xv ʈʂʰɯ˧ pʰæ˧qʰwɤ˩ bi˩ | ʝi˩ bʋ̩˩ ʝi˥ ʈv̩˩~ʈv̩˩!
+\xv ʈʂʰɯ˧ pʰæ˧qʰwɤ˩ bi˩ | ʝi˩ bv̩˩ ʝi˥ ʈv̩˩~ʈv̩˩!
 \xe (S)he has lots of pimples on the face.
 \xn 他脸上出好多痘痘。
 \xf Il/elle a plein de boutons sur le visage.
@@ -22808,10 +22825,10 @@
 \rf F4
 \rf M21
 
-\lx ʝi˩bʋ̩˩
+\lx ʝi˩bv̩˩
 \or yibbu
 \ps n
-\lc ʝi˩bʋ̩˩˥
+\lc ʝi˩bv̩˩˥
 \cf ʐɤ˩qo˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -22824,16 +22841,16 @@
 \gn 公牛
 \df Taureau.
 \gf taureau
-\xv no˧ | ʝi˩bʋ̩˩-ne˩ ʝi˥-zo˩!
+\xv no˧ | ʝi˩bv̩˩-ne˩ ʝi˥-zo˩!
 \xe You're like a bull! / You're a real bull! / Hey, don't be such a bull! (Criticism of a man whose behaviour is brutal, the antithesis of the thoughtfulness valued in Na society.)
 \xn 你就像一头公牛！/ 你真是头公牛！ /嘿，别这么牛！(批评一个男人的行为粗暴，与摩梭社会所珍视的深思熟虑截然相反。）
 \xv Tu es comme un taureau! / Tu es un vrai taureau! / Dis donc, va pas nous faire ton taureau, là! (Critique adressée à un homme dont le comportement est brutal, aux antipodes de la prévenance appréciée dans la société na.)
 
-\lx ʝi˧-bʋ̩˧˥
+\lx ʝi˧-bv̩˧˥
 \sf <nb="2011"> 605
 \or yibbu
 \ps n
-\lc ʝi˧bʋ̩˧˥
+\lc ʝi˧bv̩˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" langue="fra" print="n"> (schéma tonal irrégulier; attendu: ton d2a)
@@ -23116,10 +23133,10 @@
 \xf |fg{pfv}
 \xc PHONO
 
-\lx ʝi˧pʰʋ̩#˥
+\lx ʝi˧pʰv̩#˥
 \or yipu
 \ps n
-\lc ʝi˧pʰʋ̩˧
+\lc ʝi˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -23132,11 +23149,11 @@
 \gn 公牛
 \df Taureau.
 \gf taureau
-\xv ʝi˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv ʝi˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那头公牛
 \xf |fg{n}+|fg{dem}+|fg{clf}
-\xv ʝi˧pʰʋ̩˧ tʰv̩˧-ɭɯ#˥
+\xv ʝi˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
 \xe |fg{n}+|fg{dem}+|fg{clf}.animaux
 \xn 那头公牛
 \xf |fg{n}+|fg{dem}+|fg{clf}.animaux
@@ -24322,7 +24339,7 @@
 \gf parier
 \dt 02/Sep/2015
 
-\lx jo˩pʋ̩˧
+\lx jo˩pv̩˧
 \sf <nb="B"> 417b
 \sf <nb="2011"> 528
 \or yobu
@@ -24333,7 +24350,7 @@
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté: “ju˩pv̩˥, ton d6 ou d5; F4, 6/11/2007: n'est pas ju˧pv̩˧˥; mais enrt 12/11/2007: ˩ ˩˥; qd la question lui est posée directement: accepte ˩ ˥ aussi bien que ˩ ˩˥". En 2012: confirmé l'existence de 2 variantes tonales.
 \nt <type="tone" langue="fra"> Ce mot possède deux variantes tonales: LM et LM+MH#.
 \ton LM ≈ LM+MH#
-\lc jo˩pʋ̩˥
+\lc jo˩pv̩˥
 \so <print="n"> F4
 \pdv tsʰi˥
 \de Oilcloth; tarpaulin.
@@ -24342,7 +24359,7 @@
 \gn 油布
 \df Toile cirée.
 \gf toile_cirée
-\xv jo˩pʋ̩˧˥
+\xv jo˩pv̩˧˥
 \xe oilcloth (tonal variant)
 \xn 油布（声调变体）
 \xf toile cirée (variante tonale)
@@ -24364,16 +24381,16 @@
 \df Huile, graisse.
 \gf 油::huile
 
-\lx jo˩pʰʋ̩˩
+\lx jo˩pʰv̩˩
 \or yopu
 \ps n
 \cf po˧lo˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L ≈ #H
-\lc jo˩pʰʋ̩˩˥ ≈ jo˧pʰʋ̩˧
+\lc jo˩pʰv̩˩˥ ≈ jo˧pʰv̩˧
 \so <print="n"> F4
-\va <speaker="F4"> jo˧pʰʋ̩#˥
+\va <speaker="F4"> jo˧pʰv̩#˥
 \vf <type="tone"> #H
 \pdv pʰo˧˥
 \pdv mi˩
@@ -24383,7 +24400,7 @@
 \gn 公绵羊
 \df Bélier.
 \gf bélier
-\xv jo˧pʰʋ̩˧ tʰv̩˧-mi˥#
+\xv jo˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}: that ram
 \xn 这头公羊
 \xf 〜 |fg{dem} |fg{clf}: ce bélier
@@ -24680,7 +24697,7 @@
 \nt <type="phono" langue="fra"> Ton différent de celui utilisé par F4.
 \xv ‡ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˩-kʰi˥?
 \xe ‡Did he go outside today? / Did he take a stroll today? (Ungrammatical sentence: this verb cannot be used in the third person.)
-\xn ‡他今天出去了吗？（这是病句：这个动词不能用于第三人称。）
+\xn 他今天出去了吗？（这是病句：这个动词不能用于第三人称。）
 \xf ‡Il est allé faire un tour dehors, aujourd'hui? / Il est sorti, aujourd'hui? (Énoncé agrammatical: ce verbe ne peut s'employer à la troisième personne.)
 
 \lx kʰi˥
@@ -24789,14 +24806,14 @@
 \gf seuil
 \dt 03/Sep/2015
 
-\lx kʰi˧-bʋ̩˥lv̩˩
+\lx kʰi˧-bv̩˥lv̩˩
 \or kibbulu
 \ps n
-\cf <type="synonyme"> kʰi˧-qʰwɤ˩
+\sy kʰi˧-qʰwɤ˩
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H-
-\lc kʰi˧bʋ̩˥lv̩˩
+\lc kʰi˧bv̩˥lv̩˩
 \so <print="n"> F4
 \pdv ɭɯ˧β
 \de Hinge.
@@ -24899,7 +24916,7 @@
 \lx kʰi˧-qʰwɤ˩
 \or kikhua
 \ps n
-\sy
+\sy kʰi˧-bv̩˥lv̩˩
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton L#
@@ -24912,7 +24929,6 @@
 \gn 门的合页
 \df Gonds (d'une porte).
 \gf gonds
-\dt 24/Apr/2017
 
 \lx ki˩tɑ#˥
 \or gida
@@ -26881,7 +26897,6 @@
 \xe to play erhu
 \xn 拉二胡
 \xf jouer du erhu
-\dt 03/Sep/2015
 
 \lx kʰɯ˧tʰo˧˥
 \sf <nb="2011"> 928
@@ -27415,7 +27430,7 @@
 \gn 偷
 \df Voler.
 \gf voler
-\xv hĩ˧=bʋ̩˧ tso˧~tso˧ kʰv̩˧
+\xv hĩ˧=bv̩˧ tso˧~tso˧ kʰv̩˧
 \xe to steal someone's stuff, to steal someone else's property
 \xn 偷别人的东西
 \xf voler les affaires de quelqu'un
@@ -27634,7 +27649,7 @@
 \xe prison: literally “house for thieves"
 \xn 监狱。直译：“贼家”
 \xf prison: littéralement «maison des voleurs»
-\xv kʰv̩˧mæ˧-ʝi˧-hĩ˧, | lo˧ʑi˥bʋ̩˩-qo˩ ʈæ˩!
+\xv kʰv̩˧mæ˧-ʝi˧-hĩ˧, | lo˧ʑi˥-bv̩˩-qo˩ ʈæ˩!
 \xe Thieves are tied up in prisons / are sent to prison!
 \xn 贼，被关在监狱！
 \xf les voleurs, on les met en prison!
@@ -27815,10 +27830,10 @@
 \xf un an et demi
 \dt 24/Apr/2017
 
-\lx kʰv̩˧pʰʋ̩#˥
+\lx kʰv̩˧pʰv̩#˥
 \or kupu
 \ps n
-\lc kʰv̩˧pʰʋ̩˧
+\lc kʰv̩˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -27832,17 +27847,17 @@
 \gn 公狗
 \df Chien mâle (forme élicitée).
 \gf chien_mâle
-\xv kʰv̩˧pʰʋ̩˧ ʈʂʰɯ˧-ɭɯ#˥
+\xv kʰv̩˧pʰv̩˧ ʈʂʰɯ˧-ɭɯ#˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公狗
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
-\xv kʰv̩˧pʰʋ̩˧ tʰv̩˧-mi˧˥
+\xv kʰv̩˧pʰv̩˧ tʰv̩˧-mi˧˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这只公狗
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
-\xv kʰv̩˧pʰʋ̩˧ tʰv̩˧-v̩#˥
+\xv kʰv̩˧pʰv̩˧ tʰv̩˧-v̩#˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 这个公狗
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -28577,13 +28592,13 @@
 \xn 教师、老师
 \xf enseignant
 
-\lx kʰo˧pʰʋ̩˧
+\lx kʰo˧pʰv̩˧
 \or kopu rrrr
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
-\lc kʰo˧pʰʋ̩˧
+\lc kʰo˧pʰv̩˧
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧/.
 \so <print="n"> F4
 \de Meadow.
@@ -28593,13 +28608,13 @@
 \df Pré: soit prairie de plaine, soit prairie d'altitude (alpage).
 \gf pré
 
-\lx kʰo˧pʰʋ̩˧-mo˧˥
+\lx kʰo˧pʰv̩˧-mo˧˥
 \or kopu moq rrrr
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton MH#
-\lc kʰo˧pʰʋ̩˧mo˧˥
+\lc kʰo˧pʰv̩˧mo˧˥
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧-mo˧˥/.
 \so <print="n"> F4
 \de Meadow mushroom: a sort of edible mushroom that grows on meadows (not yet identified; perhaps |fi{Agaricus campestris}).
@@ -29246,11 +29261,10 @@
 \gn 这以外
 \df À part, en dehors de.
 \gf à_part
-\xv tsɑ˧bɤ˧ mɤ˧-pʰʋ̩˧ɖɯ˧! | lɑ˧ɬɑ˧˥, | ə˧tso˧-mɤ˧-ɲi˩ | pʰʋ̩˩ɖɯ˩˥! xxxx vérifier les tons: imagine: /tsɑ˧bɤ˧ mɤ˧-pʰʋ̩˧ɖɯ˧˥! | lɑ˧ɬɑ˧˥, | ə˧tso˧-mɤ˧-ɲi˩ | pʰʋ̩˧ɖɯ˧˥!
+\xv tsɑ˧bɤ˧ mɤ˧-pʰv̩˧ɖɯ˧˥! | lɑ˧ɬɑ˧˥, | ə˧tso˧-mɤ˧-ɲi˩ | pʰv̩˧ɖɯ˧˥!
 \xe Flour is not expensive; apart from it, everything is expensive! / Flour is cheap; but everything else is expensive! (An observation about the cost of living in early 21st-century Yongning)
 \xn 面粉不贵。其它的呢，什么都贵！（题目：讲今日永宁食品物价）
 \xf La farine n'est pas chère; à part ça, tout est cher! (Réflexion au sujet du coût de la vie dans la région aujourd'hui)
-\dt 04/Sep/2015
 
 \lx lɑ˧lo˧-ʁwɤ˥
 \sf <nb="2011"> 3333
@@ -29268,7 +29282,7 @@
 \gn 拉洛瓦村
 \df Lalowua, un village de Yongning; prononciation chinoise: Laluowa.
 \gf nom_de_village
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -29387,7 +29401,7 @@
 \gn 拉瓦村
 \df Nom d'un hameau qui se trouvent sur la montagne Langua.
 \gf hameau_de_Langua
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -29421,13 +29435,13 @@
 \xf beaucoup étudier, faire un bon progrès dans l'étude
 \dt 04/Sep/2015
 
-\lx lɑ˧pʰʋ̩#˥
+\lx lɑ˧pʰv̩#˥
 \or lapu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc lɑ˧pʰʋ̩˧
+\lc lɑ˧pʰv̩˧
 \so <print="n"> F4
 \pdv pʰo˧˥
 \pdv ɭɯ˧β
@@ -29437,7 +29451,7 @@
 \gn 公老虎
 \df Tigre (mâle).
 \gf tigre(mâle)
-\xv lɑ˧pʰʋ̩˧ tʰv̩˧-ɭɯ#˥
+\xv lɑ˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那只老虎
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -29458,13 +29472,13 @@
 \df Corbeau femelle. (Ce n'est pas un terme usuel: dans la langue courante, on ne distingue pas corbeau mâle et corbeau femelle.)
 \gf corbeau_femelle
 
-\lx læ˧ʁæ˧-pʰʋ̩#˥
+\lx læ˧ʁæ˧-pʰv̩#˥
 \or laehraepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc læ˧ʁæ˧pʰʋ̩˧
+\lc læ˧ʁæ˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male raven. (This is not a common term: in everyday language, no distinction is made between male and female ravens.)
@@ -29473,7 +29487,7 @@
 \gn 公乌鸦
 \df Corbeau mâle. (Ce n'est pas un terme usuel: dans la langue courante, on ne distingue pas corbeau mâle et corbeau femelle.)
 \gf corbeau_mâle
-\xv læ˧ʁæ˧-pʰʋ̩˧ tʰv̩˧-mi˥$
+\xv læ˧ʁæ˧-pʰv̩˧ tʰv̩˧-mi˥$
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那只公乌鸦
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -29499,7 +29513,7 @@
 \gn 乌鸦
 \df Corbeau.
 \gf corbeau
-\xv læ˧ʁæ˧ ʈʂʰɯ˧-mi˥ | pʰʋ̩˧ ɲi˩!
+\xv læ˧ʁæ˧ ʈʂʰɯ˧-mi˥ | pʰv̩˧ ɲi˩!
 \xe This raven is a male!
 \xn 这只乌鸦是公的！
 \xf Ce corbeau, c'est un mâle!
@@ -29896,6 +29910,7 @@
 \ps adv
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
+\nt <type="hist" langue="fra" print="n"> Tons vérifiés en juin 2024 pour toute la série des exemples.
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté /le˧u˧le˥tɕju˧ ʐwɤ˩˥/) (tons confirmés en avril 09, est bien ˧ ˧ ˥ ˩ ˩) (avant fév 2014: /le˧-wo˧/)
 \nt <type="hist" langue="fra" print="n"> (erreur: tɕi˩˥, tje˧hwɑ˧tɕi˥: est en fait un calque du chinois 接电话 “décrocher le téléphone"); emprunt: c'est bien installé: (emprunt) le˧tɕi˩le˧ tse˧ze˥, ou: le˧tɕi˩ze˩
 \ton M
@@ -29915,9 +29930,9 @@
 \xf revenir
 \xv le˧-wo˧ le˧-gv̩˩
 \xe to do over again
-\xn 从头开始
+\xn 重新做，从头开始
 \xf recommencer
-\xv le˧-wo˧ le˧-gv̩˧~gv̩˥
+\xv le˧-wo˥ | le˧-gv̩˧~gv̩˥
 \xe to build anew, to make anew, to rebuild
 \xn 重新做、重新建
 \xf refaire, réinstaller, reconstruire
@@ -29925,6 +29940,10 @@
 \xe to speak over and over again, to rant, to repeat ceaselessly
 \xn 重复讲说过的话
 \xf répéter sans arrêt
+\xv le˧-wo˧ bi˧
+\xe to go back
+\xn 回去
+\xf repartir
 
 \lx le˧wo˧-tʰo˥tɕo˩
 \or le'uo tojo
@@ -30191,12 +30210,12 @@
 \xf personne sourde
 \dt 24/Apr/2017
 
-\lx ɬi˧bʋ̩˧
+\lx ɬi˧bv̩˧
 \sf <nb="B"> 255
 \sf <nb="2011"> 330
 \or Lhibbu
 \ps n
-\lc ɬi˧bʋ̩˧
+\lc ɬi˧bv̩˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" langue="fra" print="n"> (d'abord noté ˥ ˥; en 2007, corrige en ˧ ˧ car les tons sont les mêmes que pour 251 lo˧lo˧)
@@ -30214,11 +30233,11 @@
 \df Bai (groupe ethnique).
 \gf Bai
 
-\lx ɬi˧bʋ̩˩ | dʑɤ˩tsʰi˧si#˥
+\lx ɬi˧bv̩˩ | dʑɤ˩tsʰi˧si#˥
 \sf <nb="2011"> 3110
 \or lhibbu  jjaceesee
 \ps n
-\lc ɬi˧bʋ̩˩dʑɤ˩tsʰi˧si˧
+\lc ɬi˧bv̩˩dʑɤ˩tsʰi˧si˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L# | LM+#H
@@ -30230,11 +30249,11 @@
 \df Ailante, |fi{Ailanthus chinensis}; arbre très odorant.
 \gf Ailante
 
-\lx ɬi˧bʋ̩˧-mi#˥
+\lx ɬi˧bv̩˧-mi#˥
 \sf <nb="2011"> 331
 \or Lhibbumi
 \ps n
-\lc ɬi˧bʋ̩˧mi˧
+\lc ɬi˧bv̩˧mi˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \ton #H
@@ -30248,11 +30267,11 @@
 \gf femme_bai
 \dt 24/Apr/2017
 
-\lx ɬi˧bʋ̩˧-zo#˥
+\lx ɬi˧bv̩˧-zo#˥
 \sf <nb="2011"> 332
 \or Lhibbusso
 \ps n
-\lc ɬi˧bʋ̩˧zo˧
+\lc ɬi˧bv̩˧zo˧
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \ton #H
@@ -30663,17 +30682,17 @@
 \xn 瓦哈山的雪茶（说明：这种苔藓在瓦哈山上多，七月份人家去采）
 \xf thé de lichen de la montagne Nguahan |fv{ŋwɤ˧hɑ̃˩} (ce lichen y est abondant; c'est généralement là-bas qu'on le cueillait)
 
-\lx ɬi˧pʋ̩˧ɭɯ˥
+\lx ɬi˧pv̩˧ɭɯ˥
 \sf <nb="2011"> 171
 \or lhibulu
 \ps n
-\lc ɬi˧pʋ̩˧ɭɯ˥
+\lc ɬi˧pv̩˧ɭɯ˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton H#
 \nt <type="hist" langue="fra"> Avant 2024: noté /ɬi˧pv̩˧lv̩˥/. La troisième syllabe est corrigée en juin 2024.
 \so <print="n"> F4
-\va <speaker="M21"> ɬi˧pʋ̩˧lv̩˥
+\va <speaker="M21"> ɬi˧pv̩˧lv̩˥
 \pdv ɭɯ˧β
 \de Ear tumour, pathological excrescence of the ear.
 \ge ear_tumour
@@ -30682,10 +30701,10 @@
 \df Tumeur de l'oreille, excroissance pathologique de l'oreille.
 \gf tumeur_de_l_oreille
 
-\lx ɬi˧pʰʋ̩#˥
+\lx ɬi˧pʰv̩#˥
 \or lhipu
 \ps n
-\lc ɬi˧pʰʋ̩˧
+\lc ɬi˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -30699,7 +30718,7 @@
 \gn 公獐子
 \df Chevrotain mâle.
 \gf chevrotain_mâle
-\xv ɬi˧pʰʋ̩˧ tʰv̩˧-mi˥# ≈ ɬi˧pʰʋ̩˧ tʰv̩˧-mi˧˥
+\xv ɬi˧pʰv̩˧ tʰv̩˧-mi˥# ≈ ɬi˧pʰv̩˧ tʰv̩˧-mi˧˥
 \xe |fg{n}+|fg{dem}+|fg{clf}
 \xn 那只公獐子
 \xf |fg{n}+|fg{dem}+|fg{clf}
@@ -31395,18 +31414,18 @@
 \df Paume.
 \gf paume
 
-\lx lo˩bʋ̩˧-ɭɯ˩
+\lx lo˩bv̩˧-ɭɯ˩
 \sf <nb="2011"> 252
 \or lobbulee
 \ps n
-\lc lo˩bʋ̩˧ɭɯ˩
+\lc lo˩bv̩˧ɭɯ˩
 \cf lo˩ʈʰɯ˧
 \ton LM-L
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> M23: (+ɲi˩) (sur le modèle du lazé: pense que ce serait: tt l'arrière-bras, 182; mais d'après M23, désigne le coude) (rime vérifiée, n'est pas /ɯ/)
 \so <print="n"> F4
-\va <speaker="M23"> lo˩bʋ̩˧lv̩˩
+\va <speaker="M23"> lo˩bv̩˧lv̩˩
 \pdv ɭɯ˧β
 \de Elbow.
 \ge elbow
@@ -31415,13 +31434,13 @@
 \df Le coude (non pas en tant qu'articulation, mais en tant que partie saillante, quand le bras est replié).
 \gf partie_saillante_du_coude
 
-\lx lo˧bʋ̩˩-ʈʂʰɯ˩
+\lx lo˧bv̩˩-ʈʂʰɯ˩
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
 \or lobbuchi
 \bw <langue="bod"> yyyy
 \ps n
-\lc lo˧bʋ̩˩ʈʂʰɯ˩
+\lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" type="comp" print="n"> lõ55bɯ22tɕʰi22 (emprunt tibétain)/ lõ55tɕʰĩ51 (notation AM: lõ˥bv̩˩tɕʰi˩)
@@ -31751,7 +31770,10 @@
 \gn 肋骨
 \df Côte (partie du corps).
 \gf côte
-\dt 04/Sep/2015
+\xv njɤ˧ | no˧ | ɬo˩kɤ˩˥ | le˧-qʰæ˧-kʰɯ˧-bi˥!
+\xe I'm going to break your ribs! (A threat made during arguments, as an expression of anger.)
+\xn 我要打断你的肋骨！（争吵时发出的威胁，表示愤怒）
+\xf Je vais te rompre les côtes! (Menace proférée lors de disputes, comme manifestation de colère.)
 
 \lx ɬo˩kɤ˩-ɬo˥ɲi˩
 \sf <nb="B"> 218
@@ -31792,7 +31814,6 @@
 \gn 胯
 \df Hanche.
 \gf hanche
-\dt 04/Sep/2015
 
 \lx lo˧lo˧
 \sf <nb="B"> 251
@@ -31815,7 +31836,6 @@
 \gn 彝族
 \df Yi (groupe ethnique).
 \gf Yi
-\dt 04/Sep/2015
 
 \lx lo˩mæ˩
 \sf <nb="2011"> 3336
@@ -31884,33 +31904,12 @@
 
 
 
-\lx lo˧ʑi˥-bʋ̩˩
+\lx lo˧ʑi˥-bv̩˩
 \or loxxibbu rrrr
 \ps n
 \ton H#-
-\lc lo˧ʑi˥bʋ̩˩
-\cf lo˧nɑ˥-bʋ̩˩
-\cf tɕɤ˧jo˩
-\sd <langue="fra"> nom
-\sd <langue="eng"> noun
-\so <print="n"> F4
-\de Prison.
-\ge prison
-\dn 监狱
-\gn 监狱
-\df Prison.
-\gf prison
-\xv lo˧ʑi˥-bʋ̩˩-qo˩ ʈæ˩
-\xe to jail, to put into prison
-\xn 放在监狱、关在监狱里
-\xf enfermer en prison, mettre en prison
-
-\lx lo˧nɑ˥-bʋ̩˩
-\or lonabbu
-\ps n
-\ton H#-
-\lc lo˧nɑ˥bʋ̩˩
-\sy lo˧ʑi˥-bʋ̩˩
+\lc lo˧ʑi˥bv̩˩
+\sy lo˧nɑ˥-bv̩˩
 \sy tɕɤ˧jo˩
 \sd <langue="fra"> nom
 \sd <langue="eng"> noun
@@ -31921,7 +31920,28 @@
 \gn 监狱
 \df Prison.
 \gf prison
-\xv lo˧nɑ˥-bʋ̩˩-qo˩ ʈæ˩
+\xv lo˧ʑi˥-bv̩˩-qo˩ ʈæ˩
+\xe to jail, to put into prison
+\xn 放在监狱、关在监狱里
+\xf enfermer en prison, mettre en prison
+
+\lx lo˧nɑ˥-bv̩˩
+\or lonabbu
+\ps n
+\ton H#-
+\lc lo˧nɑ˥bv̩˩
+\sy lo˧ʑi˥-bv̩˩
+\sy tɕɤ˧jo˩
+\sd <langue="fra"> nom
+\sd <langue="eng"> noun
+\so <print="n"> F4
+\de Prison.
+\ge prison
+\dn 监狱
+\gn 监狱
+\df Prison.
+\gf prison
+\xv lo˧nɑ˥-bv̩˩-qo˩ ʈæ˩
 \xe to jail, to put into prison
 \xn 放在监狱、关在监狱里
 \xf enfermer en prison, mettre en prison
@@ -32036,16 +32056,16 @@
 
 \dt 04/Sep/2015
 
-\lx lo˩pʋ̩˧˥
+\lx lo˩pv̩˧˥
 \sf <nb="B"> 440
 \sf <nb="2011"> 568
 \or lobu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté /lo˩pʋ̩˩˥/) (confirmé par F4 en 2007: pas de rétroflexion de l'initiale) (avant mai 2012: noté /†hæ̃˩-lo˩pʋ̩˥/ et /†ŋv̩˩-lo˩pʋ̩˥/ (+ɲi˩)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: noté /lo˩pv̩˩˥/) (confirmé par F4 en 2007: pas de rétroflexion de l'initiale) (avant mai 2012: noté /†hæ̃˩-lo˩pv̩˥/ et /†ŋv̩˩-lo˩pv̩˥/ (+ɲi˩)
 \ton LM+MH#
-\lc lo˩pʋ̩˧˥
+\lc lo˩pv̩˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -32057,21 +32077,21 @@
 \gn 戒指
 \df Anneau.
 \gf anneau
-\xv ŋv̩˩-lo˩pʋ̩˩
+\xv ŋv̩˩-lo˩pv̩˩
 \xe silver ring
 \xn 银戒指
 \xf anneau en argent
-\xv hæ̃˩-lo˩pʋ̩˩
+\xv hæ̃˩-lo˩pv̩˩
 \xe gold ring
 \xn 金戒指
 \xf anneau en or
-\xv jo˧-lo˥pʋ̩˩
+\xv jo˧-lo˥pv̩˩
 \xe jade ring
 \xn 玉石戒指
 \xf anneau en jade
 \xc <langue=fra" type="sem"> Les Naxi étaient réputés porter des anneaux de jade. Les anneaux les plus prisés chez les Na étaient d'argent et d'or.
 
-\lx ɬo˧pʋ̩˥
+\lx ɬo˧pv̩˥
 \sf <nb="B"> 1392
 \sf <nb="2011"> 1978
 \or lhobu
@@ -32081,7 +32101,7 @@
 \sd <langue="eng"> religion
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: ɬo˧ pv̩˥ ti˧) (/t/ non rétroflexe; confirmé)
 \ton H#
-\lc ɬo˧pʋ̩˥
+\lc ɬo˧pv̩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -32091,11 +32111,11 @@
 \gn 磕头
 \df Prosternation, kow-tow (très probablement emprunt tibétain).
 \gf prosternation
-\xv ɬo˧pʋ̩˥ ti˩
+\xv ɬo˧pv̩˥ ti˩
 \xe to kowtow
 \xn 跪下磕头
 \xf se prosterner
-\xv ɬo˧pʋ̩˥ | le˧-ti˩
+\xv ɬo˧pv̩˥ | le˧-ti˩
 \xe to kowtow
 \xn 跪下磕头
 \xf se prosterner
@@ -32129,7 +32149,7 @@
 \xe Copper cereal pot
 \xn 铜饭锅
 \xf Casserole à céréales en bronze
-\xv lo˩qo˧=bʋ̩˧
+\xv lo˩qo˧=bv̩˧
 \xe |fg{poss}
 \xn 属格
 \xf |fg{poss}
@@ -32475,11 +32495,11 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" type="tone" langue="fra" print="n"> Ton d6 (avant 2009: noté: /lo˩ ʈʰɯ˥/). Confirmé: est ton d6a et non d6b (ex.: /lo˩ʈʰɯ˧=bʋ̩˧ | ɣɯ˩˧/, etc).
+\nt <type="hist" type="tone" langue="fra" print="n"> Ton d6 (avant 2009: noté: /lo˩ ʈʰɯ˥/). Confirmé: est ton d6a et non d6b (ex.: /lo˩ʈʰɯ˧=bv̩˧ | ɣɯ˩˧/, etc).
 \nt <type="hist" langue="fra" print="n"> (a) lo˩oe͂˞˥ (tons confirmés, sens: “os du bras") (b) oe͂˞˥ ʈʂæ˩="articulation", cf 170 (c) lo˩oe͂˞˥ʈʂæ˩="articulation du bras"
 \ton LM
 \lc lo˩ʈʰɯ˥
-\cf lo˩bʋ̩˧-ɭɯ˩
+\cf lo˩bv̩˧-ɭɯ˩
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv ʈv̩˩
@@ -32498,7 +32518,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (pensé à noter: lo˩ʈʂʷɻ̩˥, lo˩ʈwɻ̩˥, ʈʂv, ʈv, ʈwɤ, tɻ, ʈʐ… Le 21 nov.: pense que c'est ʈɻ ou ʈʂɻ, pas ʈʂv. Pour la première syllabe: est confirmé: est lo˩ et pas lɑ˩. Nouvelle séance le 23 novembre: entends arrondissement, veux noter ʈʂwɻ̩˥ ou ʈʷɻ̩˥." notation janvier 2008: lo ʈv
-\np <langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bʋ̩˧ ɣɯ˩˧)
+\np <langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bv̩˧ ɣɯ˩˧)
 \ton LM
 \lc lo˩ʈv̩˥
 \so <print="n"> F4
@@ -32521,18 +32541,17 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" langue="fra" print="n"> (après de longues hésitations avec ɬɯ˧ ɻɯ˧ ɭɯ˧)
-\nt <type="sem" langue="fra"> CL des objets ronds (ex.: grains, bols); aussi comme classificateur générique, pour: vêtements…
+\nt <type="hist" type="phono" langue="fra" print="n"> L'analyse phonémique comme /ɭɯ/ constitue le terme d'un long processus, qui a comporté des hésitations répétées entre /ɭɯ/, /ɬɯ˧/, /ɻɯ˧/...
 \ton Mβ
 \lc ɖɯ˧ ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\de Originally a classifier for round objects: grains, bowls… Now a generic classifier, used e.g. for pieces of clothing.
+\de Originally a classifier for round objects: grains, bowls… Now a generic classifier.
 \ge |fg{clf}.generic
 \dn 最常用的量词，相当于汉语中‘个’的用法。本意是圆形颗粒。一粒（米……），一个（碗……），件（衣服……）
 \gn 量词.粒/个
-\df Classificateur générique; à l'origine, classificateur pour les objets ronds, à l'emploi maintenant élargi.
+\df Classificateur générique; à l'origine, classificateur pour les objets ronds (graines et fruits, bols…), à l'emploi maintenant élargi.
 \gf |fg{clf}.générique
 \xv ɕi˧ ɖɯ˧-ɭɯ˧ |
 \xe a grain of rice
@@ -32552,7 +32571,6 @@
 \xf Elle a un bien bel enfant! (Contexte: lors d'une sortie, la consultante principale dit quelques politesses à une voisine qui se promenait avec un petit-fils attendrissant; elle me dit ensuite: «Elle a un bien bel enfant!» Littéralement: «elle, (d')enfant(s), (elle) en a un (de) bien!»)
 \xc <langue="eng"> Note the association of the classifier with an adjective.
 \xc <langue="fra"> Le classificateur est ici associé à un adjectif.
-\dt 19/Jun/2017
 
 \lx ɭɯ˧˥α
 \or lee
@@ -32829,10 +32847,10 @@
 \gf moëlle
 \dt 04/Sep/2015
 
-\lx lv̩˧bʋ̩˧
+\lx lv̩˧bv̩˧
 \or lubbu
 \ps n
-\lc lv̩˧bʋ̩˧
+\lc lv̩˧bv̩˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton M
@@ -32844,12 +32862,12 @@
 \gn 菜畦
 \df Lit à légumes (dans le potager).
 \gf lit_à_légumes
-\xv v̩˩tsʰɤ˧-lv̩˧bʋ̩#˥
+\xv v̩˩tsʰɤ˧-lv̩˧bv̩#˥
 \xe same meaning: vegetable bed (in a vegetable garden)
 \xn 同上：菜畦
 \xf même sens: lit à légumes (dans le potager)
 \xc <type="tone" langue="fra">ton : #H
-\xv qʰwæ˧ɭɯ˧-qo˧ | v̩˩tsʰɤ˧-lv̩˧bʋ̩˧ | le˧-gv̩˩, | v̩˩tsʰɤ˧˥ | ɖɯ˧-jɤ˩ tʰi˩-pʰo˩
+\xv qʰwæ˧ɭɯ˧-qo˧ | v̩˩tsʰɤ˧-lv̩˧bv̩˧ | le˧-gv̩˩, | v̩˩tsʰɤ˧˥ | ɖɯ˧-jɤ˩ tʰi˩-pʰo˩
 \xe to make a vegetable bed in the vegetable garden, and to sow a row of vegetables
 \xn 菜园里建菜畦，种一排菜
 \xf bâtir un lit à légumes dans le potager, et semer une rangée de légumes
@@ -32887,7 +32905,10 @@
 \gn 火葬后第七天的送食物仪式
 \df Nourriture qu'on offre rituellement au défunt, sept jours après sa crémation.
 \gf offrande_rituelle_du_7e_jour_après_crémation
-\dt 24/Apr/2017
+\xv ʂɯ˧-ɲi˧ gv̩˧, | ɬv˧gv˧ | ɖɯ˧-ʂɯ˩ ki˩.
+\xe When seven days have passed (after death), the deceased is offered the ritual meal known as ‘lhuggu’.
+\xn （死亡）七天后，逝者将享用被称为“lhuggu”的祭祀餐。
+\xf Quand sept jours ont passé (après le trépas), on offre au défunt le repas rituel appelé «lhuggu».
 
 \lx lv̩˩ʝi˧
 \sf <nb="2011"> 3346
@@ -33031,7 +33052,7 @@
 \gf bien_tiède
 \dt 24/Apr/2017
 
-\lx lv̩˧pʰʋ̩˩
+\lx lv̩˧pʰv̩˩
 \sf <nb="B"> 1375
 \sf <nb="2011"> 1958
 \hm 1
@@ -33039,7 +33060,7 @@
 \ec <langue="fra"> L'étymologie de ce terme n'a pu être établie: ce n'est semble-t-il pas «retourner un champ».
 \ps v
 \ton L#
-\lc lv̩˧pʰʋ̩˩
+\lc lv̩˧pʰv̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem" langue="fra"> (F5 lui préfère ɕi˧pʰv̩˧)
@@ -33054,16 +33075,16 @@
 \gn 开荒
 \df Défricher.
 \gf défricher
-\xv lv̩˧pʰʋ̩˩-hɯ˩
+\xv lv̩˧pʰv̩˩-hɯ˩
 \xe [(S)he] has gone to open up new land.
 \xn 他开荒去了。
 \xf (il/elle) est parti(e) défricher
-\xv lv̩˧pʰʋ̩˩-bi˩-tso˩-ɲi˩
+\xv lv̩˧pʰv̩˩-bi˩-tso˩-ɲi˩
 \xe It's necessary to go and open up new land for cultivation. / We're going to have to open up new land for cultivation.
 \xn 应该去开荒了。
 \xf Il va falloir aller défricher. / Il va falloir qu'on défriche de nouvelles terres.
 
-\lx lv̩˧pʰʋ̩˩
+\lx lv̩˧pʰv̩˩
 \sf <nb="B"> 52a
 \sf <nb="2011"> 86
 \hm 2
@@ -33074,10 +33095,10 @@
 \nt <type="hist" langue="fra" print="n"> (tons: d'abord noté ˥ ˧ puis ˥ ˩; question avant terrain 2007: “est très certainement lv̩˧pʰv̩˩"; une des conclusions du terrain 2007 est l'absence d'opposition entre un schéma lexical ML et un HL)
 \nt <type="sem" langue="fra"> S'emploie uniquement pour les champs de riz: à Yongning, on ne cultive que du riz dans des champs inondés
 \ton L#
-\lc lv̩˧pʰʋ̩˩
+\lc lv̩˧pʰv̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \so <print="n"> F4
-\pdv pʰʋ̩˩
+\pdv pʰv̩˩
 \de Paddy field.
 \ge paddy_field
 \dn 水田
@@ -33106,21 +33127,26 @@
 \df Limite de propriété: limite entre les champs appartenant à des familles différentes. Elle est souvent matérialisée par une diguette.
 \gf limite_de_propriété
 
-\lx ɬv̩˧ʁwɤ#˥
-\or Lhuwua
-\ps n
-\sd <langue="fra"> lieu
-\sd <langue="eng"> place name
-\ton #H
-\lc ɬv̩˧ʁwɤ˧
+\lx pv̩˥
+\or bu
+\bw <langue="cmn"> 补
+\ps v
+\sy hwɤ˧˥1
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\ton H
+\lc pv̩˧
 \so <print="n"> F4
-\de Village name.
-\ge village_name
-\dn 村落名
-\gn 村落名
-\df Village en aval de Qiansuo; leur langue serait relativement proche de celle de la vallée de Yongning.
-\gf nom_de_village
-\dt 04/Sep/2015
+\de To mend.
+\ge 补::to_mend
+\dn 补
+\gn 补（借词）
+\df Repriser, rapiécer.
+\gf 补::repriser
+\xv bɑ˩lɑ˩ pv̩˥~pv̩˩
+\xe to mend clothes (the Na verb is: /|fv{hwɤ˧˥}/)
+\xn 补补衣服
+\xf repriser des vêtements (le verbe na est: /|fv{hwɤ˧˥}/)
 
 \lx lv̩˧sɯ˥
 \sf <nb="B"> 257
@@ -33145,6 +33171,65 @@
 \gn 傈僳族
 \df Lisu (groupe ethnique).
 \gf Lisu
+\xv lv̩˧sɯ˥, | hwæ˧tsɯ˥-ʂe˩ dzɯ˩!
+\xe The Lisu eat rat meat / they eat rats! (As reported by Stéphane Gros (1996:29n79), “the rats (...) that swarmed on the mountain tops were the object of incessant hunting. Dried under the roofs of houses and then tied in strings, they formed part of the royalties in kind that the Nu |fn{怒} paid, mainly to the Lisu”.)
+\xn 傈僳族吃老鼠肉／他们吃老鼠！（Stéphane Gros（1996:29n79）提到：“山顶上成群的老鼠（......）被不停地捕杀。将老鼠晒干后用绳子捆绑在房顶下，是怒族（主要向傈僳族）支付的实物版税的一部分”。）
+\xf Les Lisu, ils mangent de la viande de rat / ils mangent des rats! (Comme le rapporte Stéphane Gros (1996:29n79), «[l]es rats (...) qui pullulaient au sommet des montagnes étaient l’objet d’une chasse incessante. Mis à sécher sous le toit des maisons puis attachés en chapelets, ils entraient dans la composition des redevances en nature que les Nu |fn{怒} payaient, principalement aux Lisu».)
+
+\lx ɲi˧di˩
+\or Nhiddi rrrr
+\ps n
+\sy tsʰi˧ʝi˥$
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L#
+\lc ɲi˧di˩
+\so <print="n"> F4
+\de The township of Nhiddi, to the South-South-West of Lugu lake. Present-day name in Chinese: Cuiyu |fn{翠玉}.
+\ge Nhiddi
+\dn 翠玉傈僳族普米族自治乡
+\gn 翠玉
+\df Le canton de Nhiddi, au sud-sud-ouest du lac Lugu. Nom actuel en chinois: Cuiyu |fn{翠玉}.
+\gf Nhiddi
+
+\lx to˧bv̩˧-di˩
+\or Dobbuddi rrrr
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L#
+\lc to˧bv̩˧di˩
+\so <print="n"> F4
+\de Dobbuddi: a place (yet to be precisely identified: near Fengke?) of high mountains, where living conditions are particularly harsh. A harsh land, reputed among the Na to be populated by tough, hard-working people.
+\ge Dobbuddi
+\dn 一个生活条件特别恶劣的高山乡（尚未准确确定：可能靠近峰科）。这是一片艰苦的土地，摩梭人认为这里的居民坚韧不拔、勤劳肯干。
+\gn 多部布
+\df Dobbuddi: un canton (qui reste à identifier précisément: à proximité de Fengke/六区?) de hautes montagnes, où les conditions de vie sont particulièrement rudes. Terre dure, réputée, parmi les Na, être peuplée de gens durs, âpres à la tâche.
+\gf Dobbuddi
+\xv “to˧bv̩˩-di˩ tɕʰi˩-bi˩!” | pi˧-zo˩.
+\xe “We're going to sell you to Dobbuddi!”, [parents] would say! (A threat addressed to a rebellious child, to intimidate him into listening to his parents. The geography of Dobbuddi made it feel like a prison: you were squeezed between high mountains, as if you were locked in: you could neither go down nor up. For the people of the vast plain of Yongning, the steep slopes on all sides created an impression of a hostile, inhospitable place.)
+\xn “我们要把你卖到多部布去！”，会这样说的。（这是对叛逆儿童的威胁，目的是恐吓他听家人的话。多布地的地理环境让平坝的人感觉像一座监狱：你被挤压在高山之间，仿佛被锁在里面，既不能下也不能上。对于来自辽阔的永宁坝的人们来说，四面陡峭的山坡给人一种阴森恐怖的印象，仿佛是一个充满敌意的荒凉之地。）
+\xf «On va te vendre à Dobbuddi!», qu'on disait. (Menace adressée à un enfant rebelle, pour l'intimider et le faire rentrer dans le rang. Dobbuddi avait des airs de prison, par sa géographie: on s'y trouvait resserré entre de hautes montagnes, comme enfermé: on ne pouvait ni descendre, ni monter. Pour les gens de la vaste plaine de Yongning, les pentes raides de toutes parts créaient une impression inquiétante de lieu hostile et inhospitalier.)
+
+\lx tsʰi˧ʝi˥$
+\or Ceeyi rrrr
+\bw <langue="cmn"> 翠玉
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton H$
+\cf ɲi˧di˩
+\so <print="n"> F4
+\de The township of Cuiyu, to the South-South-West of Lugu lake.
+\ge Cuiyu
+\dn 翠玉傈僳族普米族自治乡
+\gn 翠玉（借词）
+\df Le canton de Cuiyu, au sud-sud-ouest du lac Lugu.
+\gf Cuiyu
+\xv tsʰi˧ʝi˧-lo˥qʰv̩˩
+\xe the Cuiyu gully
+\xn 翠玉山沟
+\xf les gorges de Cuiyu
 
 \lx lv̩˩tɕʰɯ˧
 \or Luqi
@@ -33161,7 +33246,6 @@
 \gn 六区（今奉科乡）（借词）
 \df Fengke: nom chinois ancien du village de Fengke, au bord du Yangtze.
 \gf 六区::Fengke
-\dt 04/Sep/2015
 
 \lx lv̩˩tɕʰɯ˧-hĩ#˥
 \sf <nb="B"> 2222
@@ -33183,7 +33267,6 @@
 \gn 奉科的人
 \df Gens de Fengke (Fv-kho).
 \gf gens_de_Fengke
-\dt 24/Apr/2017
 
 \lx lv̩˧tsɯ˥
 \sf <nb="B"> 505
@@ -33512,6 +33595,10 @@
 \xf de couleur grise; littéralement «comme de la cendre»
 \rf F5
 \rf F4
+\xv no˧ | lwæ˩pʰɻ̩˩-dʑɯ˥-zo˩!
+\xe You're all grey! / You're all ashen! / You're all sad!
+\xn 你脸色灰灰的！／感觉你很灰暗！／你看起来好悲伤啊！
+\xf Tu es tout grisâtre! / Tu as le teint cendreux! / Te voilà tout tristounet!
 
 \lx lwɤ˩˥
 \sf <nb="B"> 80
@@ -33791,12 +33878,12 @@
 \xf harnais de cheval
 \dt 04/Sep/2015
 
-\lx mɑ˩ɳɯ˧-do˥bʋ̩˩
+\lx mɑ˩ɳɯ˧-do˥bv̩˩
 \or maneeddobbu
 \ps n
-\lc mɑ˩ɳɯ˧do˥bʋ̩˩
+\lc mɑ˩ɳɯ˧do˥bv̩˩
 \cf mɑ˩ɳɯ#˥
-\cf do˩bʋ̩#˥
+\cf do˩bv̩#˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM+#H-
@@ -33813,8 +33900,8 @@
 \or manee
 \ps n
 \lc mɑ˩ɳɯ˥
-\cf mɑ˩ɳɯ˧-do˥bʋ̩˩
-\cf do˩bʋ̩#˥
+\cf mɑ˩ɳɯ˧-do˥bv̩˩
+\cf do˩bv̩#˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM+#H
@@ -34323,18 +34410,18 @@
 \xf seau en bambou pour porter de l'eau (sur le dos)
 \dt 24/Apr/2017
 
-\lx mi˩ɬi˩-ʁo˩bʋ̩˥
+\lx mi˩ɬi˩-ʁo˩bv̩˥
 \sf <nb="B"> 2032
 \sf <nb="2011"> 3130
 \or milhiwobbu
 \et mi˩ɬi˩
-\et ʁo˧bʋ̩˧
+\et ʁo˧bv̩˧
 \ps n
-\lc mi˩ɬi˩ʁo˩bʋ̩˥
+\lc mi˩ɬi˩ʁo˩bv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (tons confirmés en 2006 et 2007, n'est pas ˩˩˩˩˥)
-\np <langue="fra"> de: /ʁo˧bʋ̩˧/ “pousse", et “bambou"
+\np <langue="fra"> de: /ʁo˧bv̩˧/ “pousse", et “bambou"
 \ton L+H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -34407,7 +34494,7 @@
 
 \lx mi˧mi˧
 \or mimi
-\bw <langue="cmn"> (dialectal) |fn{米米}
+\bw <langue="xina1239"> 米米
 \ps n
 \lc mi˧mi˧
 \sd <langue="fra"> plante
@@ -34834,13 +34921,13 @@
 \gf chouette/hibou
 \dt 24/Apr/2017
 
-\lx mo˧jo˩mi˩-pʰʋ̩˩
+\lx mo˧jo˩mi˩-pʰv̩˩
 \or moyomipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L#-
-\lc mo˧jo˩mi˩pʰʋ̩˩
+\lc mo˧jo˩mi˩pʰv̩˩
 \so <print="n"> F4
 \pdv mi˩
 \de Male owl.
@@ -35446,7 +35533,7 @@
 \gn 姓名
 \df Nom (nom de famille ou prénom: nom donné à un individu).
 \gf nom
-\xv ɑ˩ʁo˧=bʋ̩˧ | mv̩˧ (+ɲi˩)
+\xv ɑ˩ʁo˧=bv̩˧ | mv̩˧ (+ɲi˩)
 \xe This is the family name! / This is my family name!
 \xn 这是家里的姓！ / 这是我家的姓！
 \xf c'est le nom de la famille / c'est mon nom de famille!
@@ -35655,18 +35742,18 @@
 \gf plante_du_pied
 \dt 24/Apr/2017
 
-\lx mv̩˧bʋ̩˧ʐv̩˥
+\lx mv̩˧bv̩˧ʐv̩˥
 \sf <nb="B"> 1803
 \sf <nb="2011"> 2738
 \or mubburu
 \ps n
-\lc mv̩˧bʋ̩˧ʐv̩˥
-\cf bʋ̩˧ʐv̩˧
+\lc mv̩˧bv̩˧ʐv̩˥
+\cf bv̩˧ʐv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> +ɲi˩
-\nt <type="hist" langue="fra" print="n"> Avais interprété la composition de l'expression commes: |fv{mv̩˧} =ciel, |fv{bʋ̩˧}=possessif, |fv{ʐv̩˥} = serpent. En réalité, c'est le disyllabe /|fv{bʋ̩˧ʐv̩˥}/ qui signifie 'serpent'.
-\np <langue="fra"> Phonétiquement: proche de [|fv{m˧bʋ̩˧ʐv̩˥}].
+\nt <type="hist" langue="fra" print="n"> Avais interprété la composition de l'expression commes: |fv{mv̩˧} =ciel, |fv{bv̩˧}=possessif, |fv{ʐv̩˥} = serpent. En réalité, c'est le disyllabe /|fv{bv̩˧ʐv̩˥}/ qui signifie 'serpent'.
+\np <langue="fra"> Phonétiquement: proche de [|fv{m˧bv̩˧ʐv̩˥}].
 \ton H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -36574,7 +36661,7 @@
 \gf intelligente
 \xv ‡ʈʂʰɯ˧ | mv̩˩tʰi˩˥ | ʐwæ˩˥!
 \xe ‡She is very intelligent!
-\xn ‡她很聪明！
+\xn 她很聪明！
 \xf ‡elle est très intelligente!
 \dt 04/Sep/2015
 
@@ -37125,7 +37212,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> (homophone avec “avoine")
-\nt <type="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧=bʋ̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
+\nt <type="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
 \ton L
 \so <print="n"> F4
 \pdv v̩˧
@@ -37135,7 +37222,7 @@
 \gn 兄弟
 \df Frères (aînés ou cadets).
 \gf frères
-\xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bʋ̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
+\xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
 \xe He is |fv{nɑ˧dʑi˧}'s brother!
 \xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
 \xf il est frère de |fv{nɑ˧dʑi˧}!
@@ -37811,7 +37898,7 @@
 \gf très_sombre
 \dt 25/Apr/2017
 
-\lx nɑ˩pʋ̩˧-qʰwɤ˧
+\lx nɑ˩pv̩˧-qʰwɤ˧
 \sf <nb="B"> 365a
 \sf <nb="2011"> 405
 \or nabukhua
@@ -37820,7 +37907,7 @@
 \sd <langue="eng"> society
 \nt <langue="pumi" type="comp" print="n"> næ̃22pu55qʰʌ35
 \ton LM-
-\lc nɑ˩pʋ̩˧qʰwɤ˧
+\lc nɑ˩pv̩˧qʰwɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> nɑ˩pv̩˧kʰwɤ˧
@@ -37831,7 +37918,7 @@
 \gn 皇帝
 \df Empereur (emprunt au mongole?).
 \gf empereur
-\xv ʈʂʰɯ˧ | nɑ˩pʋ̩˧-qʰwɤ˧-ni˩gv̩˩!
+\xv ʈʂʰɯ˧ | nɑ˩pv̩˧-qʰwɤ˧-ni˩gv̩˩!
 \xe He's got an empereror's looks! / He thinks he's the emperor! (Mocking someone who thinks he or she can impose his/her decisions to everyone, who thinks (s)he is a great leader.)
 \xn 他摆出做皇帝的样子！ / 他以为他是皇帝吧！（嘲笑一个自以为是的人）
 \xf Il vous prend des airs d'empereur! / Il se prend pour l'empereur! (Façon de se moquer d'un personnage qui veut en imposer à tous, qui se prend pour un grand chef.)
@@ -38675,7 +38762,7 @@
 \gn 姐妹
 \df Sœurs (aînées ou cadettes).
 \gf sœurs
-\xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧=bʋ̩˧ | ni˧mi˧ ɲi˥.
+\xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧=bv̩˧ | ni˧mi˧ ɲi˥.
 \xe She is |fv{/ʈæ˧ʂɯ˧/}’s sister.
 \xn 她是达石的姐姐（或妹妹）
 \xf Elle est sœur de |fv{/ʈæ˧ʂɯ˧/}.
@@ -39473,7 +39560,7 @@
 \xe We (exclusive) don't know!
 \xn 我们不知道！
 \xf Nous ne savons pas! / Nous ne sommes pas au courant!
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩, | njæ˧-sɯ˩-kv̩˩=bʋ̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩-kv̩˩, | njæ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe They do not understand us! (Context: about people coming from other areas, who do not understand local custom and habits)
 \xn 他们不了解我们！
 \xf Ils ne nous comprennent pas! (Contexte: au sujet de gens venant d'autres régions, qui ne comprennent pas les us et coutumes locales)
@@ -40147,7 +40234,7 @@
 \xe baby camel
 \xn 小骆驼
 \xf enfant du chameau, petit chameau
-\xv njɤ˧mv̩˥mi˩-pʰʋ̩˩
+\xv njɤ˧mv̩˥mi˩-pʰv̩˩
 \xe male camel
 \xn 公骆驼
 \xf chameau mâle
@@ -40297,14 +40384,14 @@
 \xf c'est toi!
 \dt 25/Apr/2017
 
-\lx no˩bʋ̩˧
+\lx no˩bv̩˧
 \or Nobbu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" langue="fra" print="n"> avant juin 2012: noté †no˧bv̩˥
 \ton LM
-\lc no˩bʋ̩˥
+\lc no˩bv̩˥
 \so <print="n"> F4
 \de Nobbu, a masculine given name.
 \ge Nobbu
@@ -41518,7 +41605,7 @@
 \ton MH
 \lc õ˧˥
 \so <print="n"> F4
-\va <speaker="F5"> ũ˧=bʋ̩˥
+\va <speaker="F5"> ũ˧=bv̩˥
 \va <speaker="M18"> njɤ˧ ũ˧bu˥ ɻ̩˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> njɤ˧ ũ˧bv̩˥ɳɯ˩
@@ -41540,36 +41627,36 @@
 \xe Each person eats their own slab of meat! (Describing table manners: each person used to receive one slice of meat and eat it up, unlike Chinese custom, in which each guest picks food mouthful by mouthful, with chopsticks, from the dishes placed on the table.)
 \xn 自己吃自己的（那块）肉！（关于饮食习惯：吃饭的时候，每人分得一块肉，自己吃完。当地人认为，汉族没有这种分吃的习惯。）
 \xf chacun mange son propre morceau de viande! (Description des manières de table: dans le temps, on donnait un bout de viande à chacun et chacun mangeait son morceau, pas comme la coutume chinoise qui veut qu'on prélève bouchée par bouchée, avec ses baguettes, dans les bols/assiettes posés sur la table.)
-\xv õ˧=bʋ̩˥-õ˩ ʝi˩-ɳɯ˩ | sɯ˧-kv̩˩!
+\xv õ˧=bv̩˥-õ˩ ʝi˩-ɳɯ˩ | sɯ˧-kv̩˩!
 \xe One learns by practising oneself! / It's by practising oneself that one really masters a skill!
 \xn 自己做，就能学会！/ 要学会，就得自己熟练！
 \xf c'est en faisant soi-même qu'on apprend!
-\xv õ˧=bʋ̩˥-õ˩ +N |
+\xv õ˧=bv̩˥-õ˩ +N |
 \xe one's own N
 \xn 自己的（+名词）
 \xf son propre N (soi-même+|fg{poss}+soi-même)
 \xc PHONO
-\xv õ˧=bʋ̩˥-õ˩ ʐwæ˩
+\xv õ˧=bv̩˥-õ˩ ʐwæ˩
 \xe one's own horse
 \xn 自己的马
 \xf son propre cheval
 \xc PHONO
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bʋ̩˥-õ˩/}
-\xv õ˧=bʋ̩˥-õ˩ ʝi˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ ʝi˩
 \xe one's own cow
 \xn 自己的牛
 \xf sa propre vache
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bʋ̩˥-õ˩/}
-\xv õ˧=bʋ̩˥-õ˩ lv̩˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ lv̩˩
 \xe one's own field
 \xn 自己的田地
 \xf son propre champ
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bʋ̩˥-õ˩/}
-\xv õ˧=bʋ̩˥-õ˩ ɖʐe˩
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xv õ˧=bv̩˥-õ˩ ɖʐe˩
 \xe one's own money
 \xn 自己的钱
 \xf son propre argent
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bʋ̩˥-õ˩/}
+\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
 \xv õ˧mv̩˥-õ˩di˩
 \xe birth place
 \xn 出生的地方、老家、故乡
@@ -41684,13 +41771,13 @@
 \df Louve.
 \gf louve
 
-\lx õ˩dv̩˧-pʰʋ̩#˥
+\lx õ˩dv̩˧-pʰv̩#˥
 \or onddupu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM+#H
-\lc õ˩dv̩˧pʰʋ̩˧
+\lc õ˩dv̩˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male wolf.
@@ -43603,12 +43690,12 @@
 \xf galette de sarrasin amer
 \dt 21/Jun/2017
 
-\lx pɤ˩jɤ˧bʋ̩˥-di˩
+\lx pɤ˩jɤ˧bv̩˥-di˩
 \sf <nb="B"> 509d
 \sf <nb="2011"> 707
 \or beye bbuddi
 \ps n
-\lc pɤ˩jɤ˧bʋ̩˥di˩
+\lc pɤ˩jɤ˧bv̩˥di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (tons corrigés en 2007; avaient été notés par erreur, en 2006, “ ˩˧˥˧: pɤ˩jɤ˧+ bv̩˩˥ ; donne ˩˧˥ (régulier) + ajout suffixe di˧")
@@ -43754,15 +43841,15 @@
 \gn 青蛙
 \df Grenouille.
 \gf grenouille
-\xv pɤ˩mi˩-pɤ˥pʰʋ̩˩
+\xv pɤ˩mi˩-pɤ˥pʰv̩˩
 \xe female frog and male frog
 \xn 母青蛙与公青蛙
 \xf grenouille femelle et grenouille mâle
-\xv pɤ˩mi˩-ʝi˥pʰV̩˩ xxxx
+\xv pɤ˩mi˩-ʝi˥pʰv̩˩
 \xe A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}.
 \xn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。
 \xf grosse grenouille (ou crapaud); animal très courant dans la plaine. C'est l'une des trois sortes de grenouilles que connaît la locutrice. Cet animal n'est pas consommé par les Naxi (ni par les Na, qui ne mangent aucune grenouille). La locutrice emploie ce terme pour |fi{Kaloula verrucosa} et |fi{Rana chaochiaoensis}.
-\xv pɤ˩mi˩-ʝi˥pʰV̩˩-mi˩ xxxx
+\xv pɤ˩mi˩-ʝi˥pʰv̩˩-mi˩
 \xe same meaning
 \xn 同上
 \xf même sens
@@ -43846,10 +43933,10 @@
 \gf 包包菜::chou
 \dt 27/Apr/2017
 
-\lx pɤ˩pʰʋ̩˩
+\lx pɤ˩pʰv̩˩
 \or bepu
 \ps n
-\lc pɤ˩pʰʋ̩˩˥
+\lc pɤ˩pʰv̩˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L
@@ -43862,10 +43949,10 @@
 \df Grenouille mâle.
 \gf grenouille_mâle
 
-\lx pʰɤ˧pʰʋ̩#˥
+\lx pʰɤ˧pʰv̩#˥
 \or pepu
 \ps n
-\lc pʰɤ˧pʰʋ̩˧
+\lc pʰɤ˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> existence de 2 variantes tonales confirmée: L, #H
@@ -44343,7 +44430,7 @@
 \gf |fg{clf}.membre_d_une_paire
 \dt 27/Apr/2017
 
-\lx pʋ̩˩
+\lx pv̩˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
 \or buq
@@ -44351,7 +44438,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
-\lc pʋ̩˩˥
+\lc pv̩˩˥
 \so <print="n"> F4
 \vf d'abord noté tsv̩˩
 \de To go by, to flow (of time).
@@ -44360,27 +44447,27 @@
 \gn 过
 \df Passer, s'écouler: le temps passe, les jours passent.
 \gf passer
-\xv ɲi˧mi˧ pʋ̩˩
+\xv ɲi˧mi˧ pv̩˩
 \xe time goes by; literally: the day goes by
 \xn 时间过去。直译：（一）天（慢慢）过（去）
 \xf le temps passe, la journée passe
-\xv ɲi˧mi˧ | le˧-pʋ̩˩-ze˩
+\xv ɲi˧mi˧ | le˧-pv̩˩-ze˩
 \xe time has gone by, the day has gone by
 \xn 时间过去了，（一）天过去了
 \xf le temps a passé, la journée a passé
-\xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧-qʰwɤ˧-ɻ̩˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧ pʋ̩˩-di˩!
+\xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧-qʰwɤ˧-ɻ̩˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧ pv̩˩-di˩!
 \xe Whether one eats good stuff or bad stuff, that fills the stomach / that does the trick of filling your belly! Whether one tells good stories or bad ones, that helps make the long day go by / that does the trick of chipping a long (and tedious) day away/of filling a day pleasantly! (A laid-back proverb in praise of small talk and gossip.)
 \xn “吃好吃坏，（都）能填满肚子/（都）能吃饱！说好说坏，（都）能让一天（轻松）过去！”（这个谚语，说闲聊的好。）
 \xf Qu'on mange bien ou mal, on arrive à se remplir le ventre / Que la nourriture soit bonne ou mauvaise, peu importe au fond, tant qu'on a le ventre plein; qu'on dise des bonnes choses (=des éloges d'autrui) ou des mauvaises (=des ragots), on arrive à passer la journée / le jour se passe agréablement! (Proverbe qui fait l'éloge des vertus du bavardage et du commérage.)
 \xc PROVERBE
-\xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧-pʋ̩˩-di˩!
+\xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧-pv̩˩-di˩!
 \xe Variant of the above proverb.
 \xn 上述谚语的变体
 \xf Variante du proverbe ci-dessus.
 \xc PROVERBE
 \np <langue="fra"> Réalisation proche de |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
 
-\lx pʋ̩˧
+\lx pv̩˧
 \sf <nb="2011"> 1985
 \hm 1
 \or bu
@@ -44388,7 +44475,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mγ
-\lc pʋ̩˧
+\lc pv̩˧
 \so <print="n"> F4
 \de To perform (a sacrifice, a ritual), to celebrate (a festival), to chant (a ritual).
 \ge to_perform
@@ -44396,11 +44483,11 @@
 \gn 祭
 \df Faire un sacrifice, faire un rituel, psalmodier.
 \gf faire_un_rituel
-\xv kʰv̩˧ pʋ̩˥
+\xv kʰv̩˧ pv̩˥
 \xe to do the New Year ceremony, to celebrate the New Year
 \xn 做过年的祭礼
 \xf faire la veillée du Nouvel An (la veille de la nouvelle année), célébrer la veillée du Nouvel An
-\xv tsʰi˧ɲi˧, | kʰv̩˧ pʋ̩˥-tso˩-ɲi˩!
+\xv tsʰi˧ɲi˧, | kʰv̩˧ pv̩˥-tso˩-ɲi˩!
 \xe Tonight, we are going to celebrate the New Year!
 \xn 今天就要过年了！
 \xf ce soir, on va fêter le Nouvel An!
@@ -44447,14 +44534,14 @@
 \xn 干的木头
 \xf bois sec
 
-\lx pʋ̩˧
+\lx pv̩˧
 \hm 2
 \or bu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mγ
-\lc pʋ̩˧
+\lc pv̩˧
 \so <print="n"> F4
 \de To go out, to get out.
 \ge to_go_out
@@ -44462,7 +44549,7 @@
 \gn 出去
 \df Sortir.
 \gf sortir
-\xv njɤ˧ | ɑ˩pʰo˩ pʋ̩˥.
+\xv njɤ˧ | ɑ˩pʰo˩ pv̩˥.
 \xe I get out, I go outside.
 \xn 我出去到外边。
 \xf Je sors, je pars (seul). (Personne ne m'accompagne.)
@@ -44531,7 +44618,7 @@
 \xn 拉出剑
 \xf dégainer une épée
 
-\lx pʋ̩α˧˥
+\lx pv̩α˧˥
 \or bu
 \bw <langue="cmn"> 步
 \ps clf
@@ -44539,7 +44626,7 @@
 \sd <langue="eng"> classifier
 \nt <langue="nxq" type="com"> ɖɯ˧-tʰv̩˧˥
 \ton MHα
-\lc ɖɯ˧ pʋ̩˧˥
+\lc ɖɯ˧ pv̩˧˥
 \so <print="n"> F4
 \de Classifier for steps / strides.
 \ge |fg{clf}.strides
@@ -44547,19 +44634,19 @@
 \gn 量词.步
 \df Classificateur des pas/enjambées; emprunt au chinois.
 \gf |fg{clf}.pas
-\xv ɖɯ˧-pʋ̩˧~ɖɯ˥-pʋ̩˩
+\xv ɖɯ˧-pv̩˧~ɖɯ˥-pv̩˩
 \xe step by step, slowly, carefully
 \xn 步步一步一步地
 \xf pas à pas, lentement, précautionneusement
 
-\lx pʰʋ̩˧
+\lx pʰv̩˧
 \hm 1
 \or pu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton M
-\lc pʰʋ̩˧
+\lc pʰv̩˧
 \so <print="n"> F4
 \pdv v̩˧
 \de Male.
@@ -44568,21 +44655,21 @@
 \gn 公的
 \df Mâle.
 \gf mâle
-\xv ʈʂʰɯ˧, | pʰʋ̩˧ ɲi˩!
+\xv ʈʂʰɯ˧, | pʰv̩˧ ɲi˩!
 \xe It's a male!
 \xn 这（只动物）是公的！
 \xf C'est un mâle!
-\xv ʈʂʰɯ˧, | pʰʋ̩˧!
+\xv ʈʂʰɯ˧, | pʰv̩˧!
 \xe It's a male!
 \xn 这（只动物）是公的！
 \xf C'est un mâle!
 
-\lx pʰʋ̩˧
+\lx pʰv̩˧
 \hm 2
 \or pu
 \ps n
 \ton M
-\lc pʰʋ̩˧
+\lc pʰv̩˧
 \de Price.
 \ge price
 \dn 价格
@@ -44590,7 +44677,7 @@
 \df Prix.
 \gf prix
 
-\lx pʰʋ̩˧˥
+\lx pʰv̩˧˥
 \hm 4
 \or puq
 \ps v
@@ -44598,7 +44685,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> pʰɯ35
 \ton MH
-\lc pʰʋ̩˧˥
+\lc pʰv̩˧˥
 \so <print="n"> F4
 \de To take off (clothes).
 \ge to_take_off
@@ -44607,14 +44694,14 @@
 \df Ôter, retirer (un vêtement).
 \gf ôter
 
-\lx pʰʋ̩˧˥
+\lx pʰv̩˧˥
 \hm 1
 \or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton MH
-\lc pʰʋ̩˧˥
+\lc pʰv̩˧˥
 \so <print="n"> F4
 \de To boil, to cook in water.
 \ge to_boil
@@ -44622,24 +44709,24 @@
 \gn 煮
 \df Faire bouillir, faire cuire à l'eau (œuf, patates…).
 \gf cuire_à_l_eau
-\xv jɤ˩jo˥ F | pʰʋ̩˧˥! | æ̃˩ʁv̩˩˥ F | pʰʋ̩˧˥!
+\xv jɤ˩jo˥ F | pʰv̩˧˥! | æ̃˩ʁv̩˩˥ F | pʰv̩˧˥!
 \xe Potatoes can be boiled! Eggs can be boiled!
 \xn 洋芋，是（可以）煮的！鸡蛋，是（可以）煮的！
 \xf Les pommes de terre, ça se cuit à l'eau! Les œufs, ça se cuit à l'eau!
-\xv æ̃˩ʁv̩˩ pʰʋ̩˥
+\xv æ̃˩ʁv̩˩ pʰv̩˥
 \xe to cook eggs in water
 \xn 煮鸡蛋
 \xf cuire des œufs à l'eau, faire des œufs durs
-\xv jɤ˩jo˥ pʰʋ̩˩
+\xv jɤ˩jo˥ pʰv̩˩
 \xe to boil potatoes
 \xn 煮洋芋
 \xf cuire des pommes de terre à l'eau
-\xv le˧-pʰʋ̩˧ | le˧-mv̩˩-ze˩!
+\xv le˧-pʰv̩˧ | le˧-mv̩˩-ze˩!
 \xe It is cooked (from boiling)! / It has been boiled to the point when it is now well-done/cooked
 \xn 煮熟了！
 \xf C'est cuit (à l'eau)! Résultatif: ça a été suffisamment bouilli pour que ce soit maintenant cuit
 
-\lx pʰʋ̩˧˥
+\lx pʰv̩˧˥
 \sf <nb="B"> 2308
 \sf <nb="2011"> 1811
 \hm 2
@@ -44649,7 +44736,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> vérifié: mv̩˩tɕu˧pʰv̩˧˥: n'est pas pʰv̩˥
 \ton MH
-\lc pʰʋ̩˧˥
+\lc pʰv̩˧˥
 \so <print="n"> F4
 \de To pour, to spill.
 \ge to_pour
@@ -44657,29 +44744,29 @@
 \gn 倒
 \df Verser; renverser; répandre; jeter.
 \gf verser
-\xv ʐɯ˧ pʰʋ̩˧˥
+\xv ʐɯ˧ pʰv̩˧˥
 \xe to pour wine, to serve wine
 \xn 倒酒
 \xf verser du vin, servir du vin
-\xv dʑɯ˩ pʰʋ̩˩˥
+\xv dʑɯ˩ pʰv̩˩˥
 \xe to pour water, to serve water (as a beverage)
 \xn 倒水
 \xf verser de l'eau
-\xv mv̩˩-tɕo˧ pʰʋ̩˧˥
+\xv mv̩˩-tɕo˧ pʰv̩˧˥
 \xe to pour out, to spill on the floor
 \xn 往外倒
 \xf renverser, verser à terre, jeter à terre
-\xv ɖæ˩˥ | mv̩˩-tɕo˧ pʰʋ̩˥
+\xv ɖæ˩˥ | mv̩˩-tɕo˧ pʰv̩˥
 \xe to throw out garbage, to pour garbage (out of a bucket onto a dirt heap)
 \xn 倒垃圾
 \xf jeter des ordures
 \rf F5
-\xv dʑɯ˩so˩ pʰʋ̩˩˥
+\xv dʑɯ˩so˩ pʰv̩˩˥
 \xe there is a wave, a wave breaks
 \xn 有波浪
 \xf il y a une vague, une vague déferle
 
-\lx pʰʋ̩˧˥
+\lx pʰv̩˧˥
 \sf <nb="B"> 1227
 \sf <nb="2011"> 1756
 \hm 3
@@ -44690,7 +44777,7 @@
 \nt <type="hist" langue="fra" print="n"> (d'abord noté tse˥pʰv̩˧, par erreur) (d'abord noté /tse/ et non /tsɤ/)
 \np <langue="fra"> sens: “retourner"
 \ton MH
-\lc pʰʋ̩˧˥
+\lc pʰv̩˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -44700,20 +44787,20 @@
 \gn 翻身
 \df Retourner; se retourner (quelqu'un est allongé et se retourne).
 \gf se_retourner
-\xv le˧-wo˧ tsɤ˥-pʰʋ̩˩ |
+\xv le˧-wo˧ tsɤ˥-pʰv̩˩ |
 \xe to turn over (when lying down)
 \xn 翻身
 \xf se retourner
-\xv ɖɯ˧-tɕo˥ tsɤ˩-pʰʋ̩˩, | ʈʂʰɯ˧-tɕo˥ tsɤ˩-pʰʋ̩˩
+\xv ɖɯ˧-tɕo˥ tsɤ˩-pʰv̩˩, | ʈʂʰɯ˧-tɕo˥ tsɤ˩-pʰv̩˩
 \xe to turn over this way and that (when lying down: turning over restlessly)
 \xn 翻来翻去
 \xf se retourner par-ci, se retourner par-là
-\xv mv̩˩-tɕo˧ pʰʋ̩˧˥, | gɤ˩-tɕo˧ pʰʋ̩˧˥
+\xv mv̩˩-tɕo˧ pʰv̩˧˥, | gɤ˩-tɕo˧ pʰv̩˧˥
 \xe to turn over this way and that (when lying down: turning over restlessly)
 \xn 翻来翻去
 \xf se retourner par-ci, se retourner par-là
 
-\lx pʰʋ̩˩β
+\lx pʰv̩˩β
 \sf <nb="B"> 1600
 \sf <nb="2011"> 2391
 \or puq
@@ -44722,7 +44809,7 @@
 \sd <langue="eng"> verb
 \np <langue="fra"> est différent de 1532 “s'échapper"
 \ton Lβ
-\lc pʰʋ̩˩˥
+\lc pʰv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -44732,11 +44819,11 @@
 \gn 摇动
 \df S'agiter.
 \gf s_agiter
-\xv bo˩˥ | tʰi˧-pʰʋ̩˩-dʑo˩
+\xv bo˩˥ | tʰi˧-pʰv̩˩-dʑo˩
 \xe The pig is moving around (restlessly).
 \xn 猪在翻滚
 \xf le cochon s'agite dans son box
-\xv bo˩-ɳɯ˧ | pʰʋ̩˧~pʰʋ̩˩ (+dʑo˩).
+\xv bo˩-ɳɯ˧ | pʰv̩˧~pʰv̩˩ (+dʑo˩).
 \xe same meaning as above
 \xn 猪在翻滚
 \xf même sens
@@ -44764,17 +44851,17 @@
 \xn 孩子多了（多子多福）
 \xf les enfants se multiplient, il naît de nombreux enfants
 
-\lx pʰʋ̩˧ɖɯ˧˥
+\lx pʰv̩˧ɖɯ˧˥
 \sf <nb="B"> 1012
 \sf <nb="2011"> 1444
 \or puddee
-\et pʰʋ̩˧2
+\et pʰv̩˧2
 \et ɖɯ˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton MH#
-\lc pʰʋ̩˧ɖɯ˧˥
+\lc pʰv̩˧ɖɯ˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -44784,24 +44871,24 @@
 \gn 贵
 \df Coûteux, cher.
 \gf coûteux
-\xv pʰʋ̩˧ɖɯ˧ ʝi˥
+\xv pʰv̩˧ɖɯ˧ ʝi˥
 \xe to care for, to give great attention to
 \xn 关心
 \xf prêter attention à
 \xc <langue="fra"> “cher"+"faire"
-\xv hĩ˧ pʰʋ̩˩ɖɯ˩-kv̩˩!
+\xv hĩ˧ pʰv̩˩ɖɯ˩-kv̩˩!
 \xe One cared for people, one paid attention to people! (A comment about traditional Na society.)
 \xn 我们会关心别人，我们会尊重别人！（关于传统摩梭社会的一个）
 \xf On prêtait attention aux gens, on avait des égards pour autrui! (Commentaire au sujet de la société traditionnelle.)
 
-\lx pʰʋ̩˧dʑo˧-hĩ#˥
+\lx pʰv̩˧dʑo˧-hĩ#˥
 \sf <nb="2011"> 3342
 \or Pujjohin
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton #H
-\lc pʰʋ̩˧dʑo˧hĩ˧
+\lc pʰv̩˧dʑo˧hĩ˧
 \so <print="n"> F4
 \de Inhabitant of Labai, person from Labai.
 \dn 拉伯的人
@@ -44809,13 +44896,13 @@
 \df Personne de Labai, gens de Labai.
 \gf personne_de_Labai
 
-\lx pʰʋ̩˧dʑo#˥
+\lx pʰv̩˧dʑo#˥
 \or Pujjo
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton #H
-\lc pʰʋ̩˧dʑo˧
+\lc pʰv̩˧dʑo˧
 \so <print="n"> F4
 \de The village of Labai.
 \ge village_of_Labai
@@ -44823,7 +44910,7 @@
 \gn 拉伯
 \df Village de Labai.
 \gf village_de_Labai
-\xv pʰʋ̩˧dʑo˧ dzi˧˥
+\xv pʰv̩˧dʑo˧ dzi˧˥
 \xe to live in Labai, to dwell in Labai
 \xn 在拉柏住
 \xf habiter à Labai
@@ -44837,7 +44924,7 @@
 \sd <langue="eng"> place name
 \ton L#
 \lc lɑ˧pe˩
-\cf pʰʋ̩˧dʑo#˥
+\cf pʰv̩˧dʑo#˥
 \so <print="n"> F4
 \de The village of Labai.
 \ge 拉伯::village_of_Labai
@@ -44846,7 +44933,7 @@
 \df Village de Labai.
 \gf 拉伯::village_de_Labai
 
-\lx pʰʋ̩˧kɤ˧
+\lx pʰv̩˧kɤ˧
 \sf <nb="B"> 447
 \sf <nb="2011"> 579
 \or puge
@@ -44855,7 +44942,7 @@
 \sd <langue="eng"> house
 \nt <type="hist" langue="fra" print="n"> (d'abord noté ˥ ˥)
 \ton M
-\lc pʰʋ̩˧kɤ˧
+\lc pʰv̩˧kɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -44868,7 +44955,7 @@
 \df Couverture.
 \gf couverture
 
-\lx pʋ̩˩ɭɯ˥
+\lx pv̩˩ɭɯ˥
 \sf <nb="B"> 421
 \sf <nb="2011"> 532
 \or bulee
@@ -44877,7 +44964,7 @@
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra" print="n"> (d'abord noté ˩ ˥)
 \ton LH
-\lc pʋ̩˩ɭɯ˥
+\lc pv̩˩ɭɯ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> pv̩˩lɯ˧, ton d6
@@ -44892,13 +44979,13 @@
 \df Bouton (de vêtement).
 \gf bouton_de_vêtement
 
-\lx pʋ̩˧ɭɯ˧
+\lx pv̩˧ɭɯ˧
 \sf <nb="B"> 1228
 \sf <nb="2011"> 1758
 \or bulee
 \ps v
 \ton M
-\lc pʋ̩˧ɭɯ˧
+\lc pv̩˧ɭɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons confirmés; d'abord noté tʰe˧pv̩˧lv̩˧; confirmé: n'est pas lv̩˧)
@@ -44912,20 +44999,20 @@
 \gn 滚动
 \df Rouler (une pierre roule).
 \gf rouler
-\xv pʋ̩˧ɭɯ˧-ze˩
+\xv pv̩˧ɭɯ˧-ze˩
 \xe |fg{pfv}
 \xn 滚动了
 \xf |fg{pfv}
-\xv le˧-pʋ̩˧ɭɯ˧
+\xv le˧-pv̩˧ɭɯ˧
 \xe |fg{accomp}
 \xn |fg{accomp}
 \xf |fg{accomp}
-\xv gɤ˩-pʋ̩˧ɭɯ˧, | mv̩˩-pʋ̩˧ɭɯ˧
+\xv gɤ˩-pv̩˧ɭɯ˧, | mv̩˩-pv̩˧ɭɯ˧
 \xe to roll in all directions (literally: rolling up, rolling down)
 \xn 滚来滚去
 \xf rouler en tous sens (littéralement: rouler vers le haut, rouler vers le bas)
 
-\lx pʰʋ̩˧ɭɯ˧-ʈʰæ˧qʰwɤ˥
+\lx pʰv̩˧ɭɯ˧-ʈʰæ˧qʰwɤ˥
 \sf <nb="B"> 427
 \sf <nb="2011"> 543
 \or pulee taekhua
@@ -44936,7 +45023,7 @@
 \nt <type="sem" langue="fra"> Selon f4, ce n'est pas un vêtement usuel.
 \np <langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
 \ton H#
-\lc pʰʋ̩˧ɭɯ˧ʈʰæ˧qʰwɤ˥
+\lc pʰv̩˧ɭɯ˧ʈʰæ˧qʰwɤ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> sv̩˧ʈʰæ˧kʰwɤ˧
@@ -44948,15 +45035,15 @@
 \df Jupe de laine. (Ce n'est pas un vêtement courant à Yongning.).
 \gf jupe_de_laine
 
-\lx pʰʋ̩˧ɭɯ#˥
+\lx pʰv̩˧ɭɯ#˥
 \or pulee
 \ps n
-\cf pɻ̩˧ɻ̩#˥
+\cf pv̩˧ɻ̩#˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="sem" langue="fra"> Selon f4, ce n'est pas un vêtement usuel.
 \ton #H
-\lc pʰʋ̩˧ɭɯ˧
+\lc pʰv̩˧ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \pdv ɭɯ˧β
@@ -45009,14 +45096,14 @@
 \df Peigne grossier, à dents relativement écartées.
 \gf peigne_grossier
 
-\lx pʋ̩˧qʰwɤ˥
+\lx pv̩˧qʰwɤ˥
 \or bukhua
 \ps n
 \cf kʰɯ˩pɻ̩˩
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \ton H#
-\lc pʋ̩˧qʰwɤ˥
+\lc pv̩˧qʰwɤ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -45028,23 +45115,23 @@
 \gn 梭子
 \df Navette du métier à tisser: navette traditionnelle, en bois (n'est plus en usage actuellement, remplacée par une navette plus simple).
 \gf navette
-\xv ɣɯ˧dzo˩=bʋ̩˩ | pʋ̩˧qʰwɤ˥
+\xv ɣɯ˧dzo˩=bv̩˩ | pv̩˧qʰwɤ˥
 \xe the shuttle of the loom
 \xn 织布机的梭子
 \xf la navette du métier à tisser
 
-\lx pʋ̩˧ɻ̩#˥
+\lx pv̩˧ɻ̩#˥
 \sf <nb="B"> 426
 \sf <nb="2011"> 541
 \or bu'er
 \ps n
-\cf pʰʋ̩˧ɭɯ#˥
+\cf pʰv̩˧ɭɯ#˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra" print="n"> (/pv/: vérifié: non aspiré)
-\nt <type="hist" langue="fra" print="n"> En 2024, classé parmi les "V2" (pɻ̩˧ɻ̩#˥), puis corrigé en: pʋ̩˧ɻ̩#˥.
+\nt <type="hist" langue="fra" print="n"> En 2024, classé parmi les "V2" (pɻ̩˧ɻ̩#˥), puis corrigé en: pv̩˧ɻ̩#˥.
 \ton #H
-\lc pʋ̩˧ɻ̩˧
+\lc pv̩˧ɻ̩˧
 \so <print="n"> F4
 \va <speaker="F5"> pʰv̩˧ɭɯ˧bɑ˩lɑ˩
 \va <speaker="M18"> pʰv̩˩ ɻ̩˩˥
@@ -45059,7 +45146,7 @@
 \df Habit tibétain en laine (vêtement de grand prix).
 \gf habit_tibétain_en_laine
 
-\lx pʋ̩˧ʂɯ˩
+\lx pv̩˧ʂɯ˩
 \sf <nb="2011"> 573
 \or bushi
 \ps n
@@ -45067,7 +45154,7 @@
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra" print="n"> (avant 2009, noté: “sens vérifié: corail"; corrigé en juillet 09 au vu du sens donné par Rock; confirmé en 2011 par ama)
 \ton L#
-\lc pʋ̩˧ʂɯ˩
+\lc pv̩˧ʂɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -45161,13 +45248,13 @@
 \xn 脸很白
 \xf le visage est très blanc
 
-\lx pʰʋ̩˥ʈʂʰe˩
+\lx pʰv̩˥ʈʂʰe˩
 \or puchei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton HL
-\lc pʰʋ̩˧ʈʂʰe˩
+\lc pʰv̩˧ʈʂʰe˩
 \so <print="n"> F4
 \de To distinguish.
 \ge to_distinguish
@@ -45175,16 +45262,16 @@
 \gn 区分
 \df Distinguer, voir la différence (par exemple entre diverses espèces de champignons).
 \gf distinguer
-\xv le˧-pʰʋ̩˥ʈʂʰe˩
+\xv le˧-pʰv̩˥ʈʂʰe˩
 \xe to distinguish, to tell apart (e.g. species of mushrooms)
 \xn 分开、区分、区别开来
 \xf distinguer, voir la différence (par exemple entre diverses espèces de champignons)
-\xv ɖɯ˧-pʰʋ̩˥ʈʂʰe˩=ɻ̩˩
+\xv ɖɯ˧-pʰv̩˥ʈʂʰe˩=ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 试着区分
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
-\xv mɤ˧-pʰʋ̩˥ʈʂʰe˩
+\xv mɤ˧-pʰv̩˥ʈʂʰe˩
 \xe not to distinguish, not to make any difference (e.g. between different species of mushrooms)
 \xn 不分开，不分，不区分
 \xf ne pas distinguer, ne pas faire de différence, ne pas voir la différence (par exemple entre diverses espèces de champignons)
@@ -45269,13 +45356,13 @@
 \df Peignes.
 \gf peignes
 
-\lx pʋ̩˩ʈʰɯ˧
+\lx pv̩˩ʈʰɯ˧
 \or Butee
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton LM
-\lc pʋ̩˩ʈʰɯ˥
+\lc pv̩˩ʈʰɯ˥
 \so <print="n"> F4
 \de Butee, a feminine given name.
 \ge Butee
@@ -45284,14 +45371,14 @@
 \df Butee, un prénom féminin.
 \gf Butee
 
-\lx pʰʋ̩˧tv̩˥
+\lx pʰv̩˧tv̩˥
 \or pudu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> avant août 2012: noté: /dʑi˧pʰv̩#˥/, mais ce terme n'est pas correct
 \ton H#
-\lc pʰʋ̩˧tv̩˥
+\lc pʰv̩˧tv̩˥
 \so <print="n"> F4
 \pdv pʰo˧˥
 \de Male water buffalo.
@@ -45300,20 +45387,20 @@
 \gn 公水牛
 \df Buffle mâle.
 \gf buffle_mâle
-\xv dʑi˧mi˧-pʰʋ̩˩tv̩˩
+\xv dʑi˧mi˧-pʰv̩˩tv̩˩
 \xe same meaning: male water buffalo
 \xn 同上：公水牛
 \xf même sens: buffle mâle
-\xv dʑi˧mi˧ ʈʂʰɯ˧-pʰo˩ dʑo˩, | pʰʋ̩˧tv̩˥ ɲi˩!
+\xv dʑi˧mi˧ ʈʂʰɯ˧-pʰo˩ dʑo˩, | pʰv̩˧tv̩˥ ɲi˩!
 \xe This buffalo is a male!
 \xn 这头水牛是公的/是公水牛！
 \xf ce buffle, c'est un mâle!
 
-\lx pʰʋ̩˧ʐo˧˥
+\lx pʰv̩˧ʐo˧˥
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
 \or puro
-\et pʰʋ̩˧2
+\et pʰv̩˧2
 \et ʐo˩α2
 \ps adj
 \sd <langue="fra"> adjectif
@@ -45321,7 +45408,7 @@
 \nt <type="hist" langue="fra" print="n"> (corrigé en mai 2008; avais d'abord noté ˧ ˥; vérifié: n'est pas pʰv̩˧ʐu˥)
 \nt <type="hist" langue="fra" print="n"> (comme dans 967 “léger"; confirmé en 2007)
 \ton MH#
-\lc pʰʋ̩˧ʐo˧˥
+\lc pʰv̩˧ʐo˧˥
 \so <print="n"> F4
 \va <speaker="F5"> pʰv̩˧ʐu˥
 \va <speaker="M21"> ID.
@@ -45443,13 +45530,13 @@
 \xn 白的
 \xf 〜 |fg{rel}
 
-\lx pʰʋ̩˩α
+\lx pʰv̩˩α
 \or pu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\lc ɖɯ˧ pʰʋ̩˩
+\lc ɖɯ˧ pʰv̩˩
 \np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -45459,7 +45546,7 @@
 \gn 量词.田地
 \df Classificateur des parcelles de terre, des champs.
 \gf |fg{clf}.champs
-\xv lv̩˧ | ɖɯ˧-pʰʋ̩˩
+\xv lv̩˧ | ɖɯ˧-pʰv̩˩
 \xe a field
 \xn 一块田
 \xf un champ; une parcelle
@@ -46436,7 +46523,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰɑ˧dze˧mv̩˧di˧˥
-\pdv pʰʋ̩˩α
+\pdv pʰv̩˩α
 \de Maize field.
 \ge maize field, sweetcorn field
 \dn 包谷田、玉米田
@@ -46763,7 +46850,7 @@
 \xe (S)he is from the village of Khaeqie!
 \xn 他是开基村人！
 \xf c'est quelqu'un de Khaeqie!
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -47502,7 +47589,7 @@
 \df Chapeau de paille.
 \gf chapeau_de_paille
 
-\lx qo˧pʋ̩˩
+\lx qo˧pv̩˩
 \sf <nb="2011"> 2678
 \or ghobu
 \ps n
@@ -47512,7 +47599,7 @@
 \nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire et non vélaire
 \np <langue="fra"> (mot onomatopéique)
 \ton L#
-\lc qo˧pʋ̩˩
+\lc qo˧pv̩˩
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \pdv mi˩
@@ -47522,7 +47609,7 @@
 \gn 布谷鸟
 \df Coucou.
 \gf coucou
-\xv qo˧pʋ̩˩-ɻwæ˩ | ɖɯ˧-ɲi˥
+\xv qo˧pv̩˩-ɻwæ˩ | ɖɯ˧-ɲi˥
 \xe Qingming Festival; literally: ‘the day when the cuckoo sings'
 \xn 清明节。直译：“布谷鸟叫的那天”
 \xf La fête de Qingming, au troisième mois. Littéralement: «le jour où chante le coucou».
@@ -47559,14 +47646,14 @@
 \xn 渴得不行
 \xf avoir soif comme c'est pas possible, avoir terriblement soif
 
-\lx qo˧pʋ̩˩-ʐwæ˩ɖʐæ˩
+\lx qo˧pv̩˩-ʐwæ˩ɖʐæ˩
 \sf <nb="2011"> 2679
 \or ghoburuaezzhae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton L#-
-\lc qo˧pʋ̩˩ʐwæ˩ɖʐæ˩
+\lc qo˧pv̩˩ʐwæ˩ɖʐæ˩
 \so <print="n"> F4
 \de Jay, |fi{Garrulus glandarius sinensis}.
 \ge jay
@@ -47974,7 +48061,7 @@
 \gn 关心
 \df Attachement envers quelqu'un; observé seulement dans l'expression ‘être attaché à, faire cas de, attacher du prix à’.
 \gf attachement
-\xv qʰv̩˩ɖɯ˩ pʰV̩˥ xxxx
+\xv qʰv̩˩ɖɯ˩ pʰv̩˥
 \xe to care for someone, to respect, to feel attachment to someone
 \xn 关心（一个人），重视（如：孩子重视父母）
 \xf attacher de l'importance à, respecter, être attaché à (ex.: relation des enfants à leurs parents)
@@ -48459,7 +48546,7 @@
 \or ghuae
 \ps n
 \lc qwæ˧˥
-\cf <type="synonyme"> qwæ˧ʁo#˥
+\sy qwæ˧ʁo#˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H
@@ -48766,7 +48853,7 @@
 \or ghuaewo
 \ps n
 \lc qwæ˧ʁo˧
-\cf <type="synonyme"> qwæ˧˥3
+\sy qwæ˧˥3
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H
@@ -49476,7 +49563,7 @@
 \xn 干坏事：损坏东西，干扰人家……
 \xf faire des bêtises, faire du mal: abîmer des choses, faire des misères aux gens…
 \xc <langue="fra"> schéma tonal régulier: l'adjectif au ton L se comporte comme un nom au ton L en position d'objet; avec un verbe au ton H, cela donne /L.L/.
-\xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧=bʋ̩˧ tso˧~tso˧ | le˧-qʰwɤ˩-ʝi˩-ze˩!
+\xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧=bv̩˧ tso˧~tso˧ | le˧-qʰwɤ˩-ʝi˩-ze˩!
 \xe (S)he has damaged my stuff!
 \xn 他弄坏了我的东西！
 \xf Il a abîmé mes affaires!
@@ -50080,7 +50167,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Col (précieux, avec des fils d'argent).
 \gf col_argenté
 
-\lx ʁɑ˧pʋ̩˧
+\lx ʁɑ˧pv̩˧
 \sf <nb="B"> 147
 \sf <nb="B"> 148
 \sf <nb="2011"> 215
@@ -50089,7 +50176,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton M
-\lc ʁɑ˧pʋ̩˧
+\lc ʁɑ˧pv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -50102,7 +50189,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Poitrine.
 \gf poitrine
 
-\lx ʁɑ˧pʋ̩˧-ɻ̩̃#˥
+\lx ʁɑ˧pv̩˧-ɻ̩̃#˥
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
 \or hrabu'eun
@@ -50112,7 +50199,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \nt <type="sem" langue="fra"> (signifie littéralement “os de la poitrine")
 \ton #H
-\lc ʁɑ˧pʋ̩˧ɻ̩̃˧
+\lc ʁɑ˧pv̩˧ɻ̩̃˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥
@@ -50123,7 +50210,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Clavicule.
 \gf clavicule
 
-\lx ʁɑ˧pʰʋ̩#˥
+\lx ʁɑ˧pʰv̩#˥
 \sf <nb="B"> 540
 \sf <nb="2011"> 770
 \or hrapu
@@ -50133,7 +50220,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <langue="pumi" type="comp" print="n"> ɦɑ55pʰɯ51 (même structure lexicale)
 \np <langue="fra"> Schéma tonal régulier: #H et M donnent #H.
 \ton #H
-\lc ʁɑ˧pʰʋ̩˧
+\lc ʁɑ˧pʰv̩˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -50704,12 +50791,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf cette sorte (de vêtement, de nourriture…)
 \dt 27/Apr/2017
 
-\lx ʁo˧bʋ̩˧
+\lx ʁo˧bv̩˧
 \sf <nb="B"> 2154
 \sf <nb="2011"> 3296
 \or wobbu
 \ps n
-\lc ʁo˧bʋ̩˧
+\lc ʁo˧bv̩˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (schémas tonals réguliers; d'abord noté sɯ˥ dzɯ˧ ʁu˧bv̩˧)
@@ -50724,17 +50811,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 萌芽
 \df Pousse, germe, bourgeon.
 \gf pousse
-\xv tʰo˧-ʁo˧bʋ̩˥
+\xv tʰo˧-ʁo˧bv̩˥
 \xe bud of pine tree
 \xn 小松树尖
 \xf bourgeon de sapin
 \xc ton: H#
-\xv tʰo˩ʂv̩˩-ʁo˥bʋ̩˩
+\xv tʰo˩ʂv̩˩-ʁo˥bv̩˩
 \xe bud of pine tree
 \xn 小松树尖
 \xf pousse de sapin; littéralement «pousses d'aiguilles de sapin»
 \xc ton: L+#H-
-\xv kv̩˧-ʁo˧bʋ̩˥
+\xv kv̩˧-ʁo˧bv̩˥
 \xo guwobbu
 \xc <type="tone"> H#
 \xc <type="hist" print="n"> Ton vérifié en mai 2008; avais d'abord noté ˧ ˧ ˧
@@ -50743,13 +50830,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 蒜苗头
 \xf Jeune pousse d'ail (aliment).
 \rf F4
-\xv si˧-ʁo˧bʋ̩˥
+\xv si˧-ʁo˧bv̩˥
 \xc <type="tone"> H#
 \xe Tree sprout.
 \xn 树萌芽
 \xf Pousse d'arbre.
 \rf F4
-\xv si˧dzi˩-ʁo˩bʋ̩˩
+\xv si˧dzi˩-ʁo˩bv̩˩
 \xe Tree sprout.
 \xn 树萌芽
 \xf Pousse d'arbre.
@@ -51291,7 +51378,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 她很会管家！（对女主人的表扬）
 \xf Elle sait à merveille s'occuper des gens/prendre soin des gens! (Commentaire au sujet d'une maîtresse de maison)
 \rf F5
-\xv õ˧-bʋ̩˥-õ˩ ʁo˩mæ˩
+\xv õ˧-bv̩˥-õ˩ ʁo˩mæ˩
 \xe to take care of oneself, to look after oneself (without depending on others all the time): for instance, a child that grows up learns to look after herself/himself.
 \xn 照顾好自己（而不是一直依赖他人）。例如，随着儿童的成长，他们会逐渐学会照顾自己。
 \xf prendre soin de soi, s'occuper de soi (sans dépendre des autres à tout moment): par exemple, l'enfant qui grandit apprend peu à peu l'autonomie.
@@ -51399,11 +51486,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df |fi{Eugeron breviscapus} (une sorte de pâquerette). C'est une des deux sortes de plantes (l'autre étant |fv{lɑ˩pʰɑ˩-læ˥dzi˩}) qu'on écrasait et faisait bouillir afin d'obtenir un liquide pour laver les vêtements, à une époque où le savon n'était pas encore répandu. Cette plante a été cueillie de façon si systématique qu'on n'en trouvait plus dans la plaine de Yongning vers 2006-2009.
 \gf Eugeron_breviscapus
 
-\lx ʁo˥pʋ̩˩
+\lx ʁo˥pv̩˩
 \or wobu
 \ps v
 \ton H.L
-\lc ʁo˧pʋ̩˩
+\lc ʁo˧pv̩˩
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51414,11 +51501,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 遇见
 \df Croiser, faire la rencontre de quelqu'un (typiquement: sur un sentier, rencontrer quelqu'un qui marche en sens inverse).
 \gf croiser
-\xv tʰi˧-ʁo˥pʋ̩˩
+\xv tʰi˧-ʁo˥pv̩˩
 \xe |fg{dur}
 \xn 持续体 〜
 \xf |fg{dur}
-\xv hĩ˧ ʁo˧pʋ̩˥
+\xv hĩ˧ ʁo˧pv̩˥
 \xe to come across people
 \xn 遇见人
 \xf croiser quelqu'un
@@ -51671,7 +51758,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 顶上
 \df Sommet de, en haut de.
 \gf sommet
-\xv ʁwɤ˧=bʋ̩˧ | ʁo˧tsʰe˧ʁo˧
+\xv ʁwɤ˧=bv̩˧ | ʁo˧tsʰe˧ʁo˧
 \xe the top of the mountain, the mountain top
 \xn 山的顶，山顶
 \xf le sommet de la montagne
@@ -51822,6 +51909,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sf <nb="B"> 1165
 \sf <nb="B"> 1166
 \sf <nb="2011"> 1658
+\hm 2
 \or weu
 \ps v
 \sd <langue="fra"> verbe
@@ -51848,13 +51936,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lx ʁv̩˥
 \sf <nb="B"> 2104
 \sf <nb="2011"> 3238
+\hm 1
 \or weu
 \ps n
 \ton #H
 \lc ʁv̩˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="sem" langue="fra"> (clairement identifié)
+\nt <type="hist" langue="fra" print="n"> Plante clairement identifiée.
 \so <print="n"> F4
 \pdv po˧
 \de Field penny-cress, |fi{Thlaspi arvense}: a foetid plant with round flat pods.
@@ -51863,7 +51952,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 菥蓂
 \df Monnoyère, tablier des champs, |fi{Thlaspi arvense}; littéralement «le légume de la grue».
 \gf tablier_des_champs
-\xv ʁv̩˧=bʋ̩˥ | bæ˩bæ˩˥
+\xv ʁv̩˧=bv̩˥ | bæ˩bæ˩˥
 \xe field penny-cress flowers
 \xn 菥蓂花
 \xf fleurs de monnoyère
@@ -51889,14 +51978,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf grue_femelle
 \dt 02/Oct/2015
 
-\lx ʁv̩˧pʰʋ̩#˥
+\lx ʁv̩˧pʰv̩#˥
 \or weupu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté †ʁv̩˧pʰv̩˧˥
 \ton #H
-\lc ʁv̩˧pʰʋ̩˧
+\lc ʁv̩˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male crane.
@@ -51905,7 +51994,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 公鹤
 \df Grue mâle.
 \gf grue_mâle
-\xv ʁv̩˧pʰʋ̩˧-ʁv̩˧mi#˥
+\xv ʁv̩˧pʰv̩˧-ʁv̩˧mi#˥
 \xe male crane and female crane
 \xn 公鹤与母鹤
 \xf grue mâle et grue femelle
@@ -52331,7 +52420,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 山坡
 \df Collines, versant des montagnes (pas forcément très escarpé, plutôt collines que très fortes pentes).
 \gf collines
-\xv ʁwɤ˩ʁo˩ dʑɤ˥bʋ̩˩ ə˩-bi˩?
+\xv ʁwɤ˩ʁo˩ dʑɤ˥bv̩˩ ə˩-bi˩?
 \xe You want to come and have fun on the mountain? Would you like to go and take a stroll on the mountain?
 \xn 去山上玩，好吗？
 \xf tu viens te détendre sur la montagne?
@@ -53269,11 +53358,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf 商量::discuter
 \dt 23/Jun/2017
 
-\lx ʂæ˧-lo˩pʋ̩˩
+\lx ʂæ˧-lo˩pv̩˩
 \or shaelobu
 \bw <langue="cmn"> 山萝卜
 \ps n
-\lc ʂæ˧lo˩pʋ̩˩
+\lc ʂæ˧lo˩pv̩˩
 \cf hwɤ˧li˧-hwæ˧qʰæ#˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53331,10 +53420,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Marchandise, objet qui peut se vendre au marché.
 \gf 商品::marchandise
 
-\lx sɑ˧pʰʋ̩˧˥
+\lx sɑ˧pʰv̩˧˥
 \or sapeu
 \ps n
-\lc sɑ˧pʰʋ̩˧˥
+\lc sɑ˧pʰv̩˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton MH#
@@ -53346,7 +53435,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 麻线
 \df Fil de lin, |fi{Cannabis sativa}.
 \gf fil_de_lin
-\xv sɑ˧pʰʋ̩˧-sɑ˧jɤ˥
+\xv sɑ˧pʰv̩˧-sɑ˧jɤ˥
 \xe linen thread
 \xn 麻线
 \xf fil de lin
@@ -53944,7 +54033,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 雕
 \df Vautour. Le terme n'est pas restreint aux vautours femelles; dans l'état actuel de la langue, il ne fournit pas d'indication de sexe.
 \gf vautour
-\xv se˩gwɤ˩mi˥-pʰʋ̩˩
+\xv se˩gwɤ˩mi˥-pʰv̩˩
 \xe male vulture
 \xn 公雕
 \xf vautour mâle
@@ -54286,13 +54375,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Viande séchée.
 \gf viande_séchée
 
-\lx se˧pʰʋ̩#˥
+\lx se˧pʰv̩#˥
 \or seipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc se˧pʰʋ̩˧
+\lc se˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male goral (|fi{Naemorhedus goral}), male blue sheep.
@@ -54777,13 +54866,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Bois vert, bois fraîchement coupé.
 \gf bois_vert
 
-\lx si˧bʋ̩˧
+\lx si˧bv̩˧
 \or seebbu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton M
-\lc si˧bʋ̩˧
+\lc si˧bv̩˧
 \so <print="n"> F4
 \pdv v̩˧
 \de Evil spirit.
@@ -54793,7 +54882,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Démon (forme obtenue par élicitation; nettement moins courante que la forme féminine).
 \gf démon
 
-\lx si˧bʋ̩˧-mi#˥
+\lx si˧bv̩˧-mi#˥
 \sf <nb="B"> 665
 \sf <nb="2011"> 991
 \or seebbumi
@@ -54804,7 +54893,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> tons et voyelles confirmés
 \nt <type="sem" langue="fra"> (pas d'analyse possible des syllabes: sens des morphèmes composant ce lexème)
 \ton #H
-\lc si˧bʋ̩˧mi˧
+\lc si˧bv̩˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> sv̩˧bv̩˧mi˧
 \va <speaker="M21"> sɯ˧bv̩˧mi˧ +ɲi˥
@@ -54818,14 +54907,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Démone.
 \gf démone
 
-\lx si˧bʋ̩˧-zo#˥
+\lx si˧bv̩˧-zo#˥
 \or seebbusso
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="sem" langue="fra"> On ne peut employer le suffixe /|fv{pʰʋ̩}/ ‘mâle'.
+\nt <type="sem" langue="fra"> On ne peut employer le suffixe /|fv{pʰv̩}/ ‘mâle'.
 \ton #H
-\lc si˧bʋ̩˧zo˧
+\lc si˧bv̩˧zo˧
 \so <print="n"> F4
 \pdv v̩˧
 \de Evil spirit (masculine).
@@ -54973,14 +55062,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Lionne.
 \gf lionne
 
-\lx si˧gɯ˧-pʰʋ̩#˥
+\lx si˧gɯ˧-pʰv̩#˥
 \or seiggipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté /†si˧gɯ˧-pʰv̩˧/, élicitant non pas un nom, ‘lion mâle', mais une phrase: ‘(ce) lion est un mâle'.
 \ton #H
-\lc si˧gɯ˧pʰʋ̩˧
+\lc si˧gɯ˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male lion.
@@ -55049,7 +55138,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf branche
 \dt 05/Oct/2015
 
-\lx si˧kʰɯ˧-ɭɯ˧bʋ̩˥
+\lx si˧kʰɯ˧-ɭɯ˧bv̩˥
 \or seekeeleebbu
 \ps n
 \cf si˧kʰɯ#˥
@@ -55057,7 +55146,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> peut se donner aux cochons
 \ton H#
-\lc si˧kʰɯ˧ɭɯ˧bʋ̩˥
+\lc si˧kʰɯ˧ɭɯ˧bv̩˥
 \so <print="n"> F4
 \pdv kɤ˧˥
 \de White Chinese herbaceous peony, |fi{Paeonia lactiflora}.
@@ -55070,7 +55159,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lx si˧kʰɯ#˥
 \or seekee
 \ps n
-\cf si˧kʰɯ˧-ɭɯ˧bʋ̩˥
+\cf si˧kʰɯ˧-ɭɯ˧bv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> identification vérifiée en 2016, d'après livre ‘Médecine Mosuo'; auparavant traduit (par erreur) comme: white Chinese herbaceous peony, |fi{Paeonia lactiflora}, |fn{白芍药}
@@ -55656,7 +55745,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sf <nb="B"> 997a
 \sf <nb="2011"> 1429
 \hm 1
-\or shoq
+\or ddaesho
 \ps v
 \cf ʂo˧˥2
 \sd <langue="fra"> verbe
@@ -55890,7 +55979,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 明年
 \df L'année prochaine, l'an prochain.
 \gf l_an_prochain
-\xv so˧ʝi˧=bʋ̩˧
+\xv so˧ʝi˧=bv̩˧
 \xe |fv{poss}
 \xn 属格
 \xf |fv{poss}
@@ -56371,7 +56460,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe I'm going to teach you! / Let me teach you!
 \xn 我来教你！
 \xf Je vais t'enseigner/t'apprendre!
-\xv ʈʂʰɯ˧=bʋ̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
+\xv ʈʂʰɯ˧=bv̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
 \xe Her spouse sells tea! As for her, she is a teacher!
 \xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
@@ -57511,7 +57600,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 茧子
 \df Cor, durillon.
 \gf cor/durillon
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧=bʋ̩˧ | mv̩˧ɲi˧, | sɯ˧ʈv̩˥ ʁo˩!
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧=bv̩˧ | mv̩˧ɲi˧, | sɯ˧ʈv̩˥ ʁo˩!
 \xe This person's thumb has a callus / developed a callus!
 \xn 这个人的拇指有茧子！
 \xf le pouce de cette personne a un cor/un durillon!
@@ -57619,9 +57708,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 串珠
 \xf enfiler des perles
 \xv le˧-sɯ˧-se˩-ze˩
-\xe (I) have finished to string (beads)
+\xe (I) have finished stringing (beads)
 \xn 串完了！
-\xf (j'ai) fini d'enfiler
+\xf (j'ai) fini d'enfiler (des perles)
 \xv tso˧~tso˧ sɯ˩
 \xe to string things
 \xn 串东西
@@ -59256,7 +59345,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe like me; following my example
 \xn 像我
 \xf comme moi; à mon exemple
-\xv no˧=ɻ̩˩=bʋ̩˩, | njɤ˧=ɻ̩˩=bʋ̩˩, | tɑ˧pi˧!
+\xv no˧=ɻ̩˩=bv̩˩, | njɤ˧=ɻ̩˩=bv̩˩, | tɑ˧pi˧!
 \xe Yours and ours are built on the same pattern / are identical! (Context: discussing the farms of the village: they are all built on the same model, in the same way, and thus identical.)
 \xn 你家的（房子），我家的（房子），都是一样的！（如：一个村子里的房子，都是按同一个模式建设的。）
 \xf Le mien et le tien, ils sont faits sur le même exemple =ils sont pareils! (au sujet de bâtiments, par exemple: les maisons d'un même village sont bâties sur le même modèle)
@@ -59395,13 +59484,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Maigre, sec (personne maigre, au corps sec).
 \gf maigre
 
-\lx tʰɑ˩pʰʋ̩#˥
+\lx tʰɑ˩pʰv̩#˥
 \or tapu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM+#H
-\lc tʰɑ˩pʰʋ̩˥
+\lc tʰɑ˩pʰv̩˥
 \so <print="n"> F4
 \pdv pʰo˧˥
 \de Male water buffalo.
@@ -59958,7 +60047,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 关
 \df Fermer, refermer; enfermer (ex.: des moutons); aussi: fermer une route.
 \gf fermer
-\xv bʋ̩˩qo˩ ʈæ˥
+\xv bv̩˩qo˩ ʈæ˥
 \xe to close the stable
 \xn 关牛圈
 \xf fermer l'étable
@@ -60486,7 +60575,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 瓜
 \df Courge (inclut les courgettes).
 \gf courge
-\xv tɕi˧kwɤ˧ bV̩˧-ɻ̩˧ (+ɲi˩) xxxx
+\xv tɕi˧kwɤ˧ bv̩˧-ɻ̩˧ (+ɲi˩)
 \xe small melon
 \xn 小瓜
 \xf petite courge
@@ -61084,7 +61173,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \ton L#
 \lc tɕɤ˧jo˩
-\cf lo˧nɑ˥-bʋ̩˩
+\sy lo˧nɑ˥-bv̩˩
+\sy lo˧ʑi˥-bv̩˩
 \sd <langue="fra"> nom
 \sd <langue="eng"> noun
 \so <print="n"> F4
@@ -61292,7 +61382,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \bw <langue="cmn"> 全世界
 \ps n
 \lc tɕʰɤ˩ʂɯ˩kɤ˩˥
-\cf zo˩bʋ̩˥li˩
+\cf zo˩-bv̩˥-li˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question : pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
@@ -61680,7 +61770,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf guêpe femelle
 \xc <type="tone"> H$
 \xc PHONO
-\xv tɕɯ˧pʰʋ̩#˥
+\xv tɕɯ˧pʰv̩#˥
 \xe male wasp
 \xn 公马蜂
 \xf guêpe mâle
@@ -62192,7 +62282,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe It's a baby hwamei!
 \xn 是一个小画眉鸟！
 \xf c'est un petit hwamei! (=un enfant/bébé)
-\xv tɕɯ˩mi˥ | pʰʋ̩˧ ɲi˩!
+\xv tɕɯ˩mi˥ | pʰv̩˧ ɲi˩!
 \xe It's a male hwamei!
 \xn 是公的画眉鸟！
 \xf C'est un hwamei mâle!
@@ -62233,12 +62323,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf muntjac_femelle
 \dt 30/Jun/2017
 
-\lx tɕɯ˧pʋ̩˧
+\lx tɕɯ˧pv̩˧
 \sf <nb="2011"> 1547
 \or jibu
 \ps adj
 \ton M
-\lc tɕɯ˧pʋ̩˧
+\lc tɕɯ˧pv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so <print="n"> F4
@@ -62248,25 +62338,25 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 舒畅
 \df À l'aise, peinard.
 \gf peinard
-\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pʋ̩˧-ʂe˧~ʂe˧ | ɖɯ˧-dzi˩-zo˩-ho˩!
+\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pv̩˧-ʂe˧~ʂe˧ | ɖɯ˧-dzi˩-zo˩-ho˩!
 \xe Have a seat here, happy and relaxed!
 \xn 在这边舒畅地坐一会吧！
 \xf assieds-toi ici, bien peinard!
-\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pʋ̩˧-ʂe˧~ʂe˧-zo˥ | ɖɯ˧-dzi˩-bi˩-ɻ̩˩!
+\xv ʈʂʰɯ˧qo˧ | tɕɯ˧pv̩˧-ʂe˧~ʂe˧-zo˥ | ɖɯ˧-dzi˩-bi˩-ɻ̩˩!
 \xe Let's have a seat here, happy and relaxed!
 \xn 在这边舒畅地坐一会吧！
 \xf asseyons-nous donc ici, bien peinards!
 
-\lx tɕʰɯ˩pʰʋ̩#˥
+\lx tɕʰɯ˩pʰv̩#˥
 \or qipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> avant 16 juillet 2012: n'avais reconnu que la variante tonale /tɕʰɯ˩pʰv̩˩/
 \ton LM+#H ≈ L
-\lc tɕʰɯ˩pʰʋ̩˥
+\lc tɕʰɯ˩pʰv̩˥
 \so <print="n"> F4
-\va <speaker="F4"> tɕʰɯ˩pʰʋ̩˩
+\va <speaker="F4"> tɕʰɯ˩pʰv̩˩
 \pdv mi˩
 \de Male muntjac, muntjac stag, male barking deer, barking deer stag.
 \ge male_muntjac
@@ -62292,13 +62382,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf A_vos_souhaits
 \dt 10/Jun/2018
 
-\lx tɕʰɯ˧si˩-dʑɤ˩pʋ̩˩
+\lx tɕʰɯ˧si˩-dʑɤ˩pv̩˩
 \or qiseejjabu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton L#-
-\lc tɕʰɯ˧si˩dʑɤ˩pʋ̩˩
+\lc tɕʰɯ˧si˩dʑɤ˩pv̩˩
 \so <print="n"> F4
 \de Monster, demon.
 \ge monster
@@ -62306,7 +62396,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 妖怪
 \df Monstre, revenant.
 \gf monstre/revenant
-\xv no˧ | tɕʰɯ˧si˩-dʑɤ˩pʋ̩˩-ki˩ | le˧-hɯ˩-ɲi˩-ze˩!
+\xv no˧ | tɕʰɯ˧si˩-dʑɤ˩pv̩˩-ki˩ | le˧-hɯ˩-ɲi˩-ze˩!
 \xe You have gone away to the world of monstres (and should not come back to trouble the living)! (Speech addressed to a ghost that one beseeches should not come back)
 \xn 你已经到妖怪的世界那边（就恳求你不要回来了）！（对鬼说的话）
 \xf Tu es parti rejoindre les monstres! (propos tenus à un revenant qu'on enjoint de ne plus revenir hanter les vivants)
@@ -62845,10 +62935,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Plafond.
 \gf plafond
 
-\lx ti˧pʰʋ̩#˥
+\lx ti˧pʰv̩#˥
 \or dipu
 \ps n
-\lc ti˧pʰʋ̩˧
+\lc ti˧pʰv̩˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton #H
@@ -63750,13 +63840,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf lapin_femelle
 \dt 27/Apr/2017
 
-\lx tʰo˧li˧-pʰʋ̩#˥
+\lx tʰo˧li˧-pʰv̩#˥
 \or tolipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc tʰo˧li˧pʰʋ̩˧
+\lc tʰo˧li˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male rabbit.
@@ -63887,7 +63977,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf association avec des numéraux, de 1 à 10. Comportement tonal identique pour 1 et 2, 4 et 5, 6 et 8.
 \dt 30/Apr/2017
 
-\lx to˩pʋ̩˧
+\lx to˩pv̩˧
 \or dobu
 \bw <langue="bod">?
 \ps adv
@@ -63895,7 +63985,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> time
 \nt <langue="pumi" type="comp" print="n"> tõ22pu51
 \ton LM
-\lc to˩pʋ̩˥
+\lc to˩pv̩˥
 \so <print="n"> F4
 \de To begin with, at first, in the first place.
 \ge to_begin_with
@@ -63903,12 +63993,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 最初
 \df Au début, pour commencer.
 \gf pour_commencer
-\xv ʁo˧dɑ˧ | to˩pʋ̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
+\xv ʁo˧dɑ˧ | to˩pv̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
 \xe Before, at first, (your) learning (Mosuo) was a little slow. (Now,) it is really getting a bit faster! You know some (Mosuo, and so) it gets faster!
 \xn 以前，最初的时候，（你）学习（摩梭话）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭话），所以快起来了！
 \xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue), (le travail de transcription) va plus vite!' (Commentaire de F4 en 2017, au sujet des progrès dans le travail de transcription de textes.)
 
-\lx tʰo˩pʰʋ̩˧tɕʰɤ˧
+\lx tʰo˩pʰv̩˧tɕʰɤ˧
 \sf <nb="B"> 609
 \sf <nb="2011"> 896
 \or topuqe
@@ -63920,7 +64010,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="sem" langue="fra"> flèche de feu
 \np <langue="fra"> Songé à une étymologie  |fn{同步枪} mais l'initiale de la 2e syllabe ne devrait pas être aspirée
 \ton LM
-\lc tʰo˩pʰʋ̩˧tɕʰɤ˧
+\lc tʰo˩pʰv̩˧tɕʰɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -64221,7 +64311,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 拖支村
 \df Todee, un village de Yongning.
 \gf Todee
-\xv dʑɤ˩bʋ̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
+\xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
@@ -64269,7 +64359,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf pigeon femelle
 \xc <type="tone"> H#-
 \xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
-\xv tʰo˧ʐv̩˥-pʰʋ̩˩
+\xv tʰo˧ʐv̩˥-pʰv̩˩
 \xe male pigeon
 \xn 公鸽子
 \xf pigeon mâle
@@ -64752,7 +64842,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 安上
 \df Fixer, accrocher (ex.: coudre un bouton sur un vêtement; attacher la selle sur un cheval).
 \gf fixer
-\xv pʋ̩˩ɭɯ˥ ʈʂæ˩
+\xv pv̩˩ɭɯ˥ ʈʂæ˩
 \xe to sew a button
 \xn 缝扣子
 \xf coudre un bouton (sur un vêtement)
@@ -65309,13 +65399,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Chou chinois. Il s'agit d'un calque du chinois ‘légume blanc', employant le nom chinois pour ‘légume' associé à l'adjectif na pour ‘blanc'.
 \gf chou_chinois
 
-\lx ʈʂʰæ˧pʰʋ̩#˥
+\lx ʈʂʰæ˧pʰv̩#˥
 \or chaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc ʈʂʰæ˧pʰʋ̩˧
+\lc ʈʂʰæ˧pʰv̩˧
 \so <print="n"> F4
 \pdv pʰo˧˥
 \de Male deer.
@@ -67144,7 +67234,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf mettre un chapeau
 \dt 14/Dec/2016
 
-\lx tsʰi˧bʋ̩˩
+\lx tsʰi˧bv̩˩
 \sf <nb="B"> 1063
 \sf <nb="2011"> 1499
 \or ceebbu
@@ -67153,7 +67243,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> aussi noté: so˧ tsʰɯ˥; M21 a: ˩˥ ˥
 \ton L#
-\lc tsʰi˧bʋ̩˩
+\lc tsʰi˧bv̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; aussi noté: su˩˥ tsʰɯ˥
@@ -67242,12 +67332,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf petit_oiseau_sp
 \dt 27/Oct/2016
 
-\lx tsi˩ɭɯ˩=bʋ̩˥ | -qʰæ˩bæ˩˥
+\lx tsi˩ɭɯ˩=bv̩˥ | -qʰæ˩bæ˩˥
 \sf <nb="2011"> 3275
 \or zeelee bbu khaebbae
 \ps n
 \ton L+H#|L
-\lc tsi˩ɭɯ˩bʋ̩˥qʰæ˩bæ˩˥
+\lc tsi˩ɭɯ˩bv̩˥qʰæ˩bæ˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> pas de différence de sens avec dʑi˩ʁu˩-zo˩-bæ˧, selon F4
@@ -67319,13 +67409,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf actuellement
 \dt 07/Oct/2015
 
-\lx tsʰi˧si˩-dʑɤ˩pʋ̩˩
+\lx tsʰi˧si˩-dʑɤ˩pv̩˩
 \or ceeseejjabu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton L#-
-\lc tsʰi˧si˩dʑɤ˩pʋ̩˩
+\lc tsʰi˧si˩dʑɤ˩pv̩˩
 \so <print="n"> F4
 \de The world of spirits, the world of the dead.
 \ge world_of_spirits
@@ -67655,7 +67745,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe That's fine!
 \xn 好的！
 \xf c'est bon!
-\xv ə˧ɲi˧=bʋ̩˧ | ə˩-tsɤ˧?
+\xv ə˧ɲi˧=bv̩˧ | ə˩-tsɤ˧?
 \xe Are yesterday's recordings OK? / Did yesterday's recordings go well?
 \xn 昨天的（录音），没问题吗？／质量可以吗？
 \xf Est-ce que les enregistrements d'hier sont bons?
@@ -67814,7 +67904,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 挤出东西
 \xf traire des choses
 \xc PHONO
-\xv ʝi˧=bʋ̩˧ | ɳæ˧ tsʰɤ˩
+\xv ʝi˧=bv̩˧ | ɳæ˧ tsʰɤ˩
 \xe to milk a cow
 \xn 挤牛奶
 \xf traire (le lait de) la vache
@@ -68027,11 +68117,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf vêtement_masculin
 \dt 27/Apr/2017
 
-\lx ʈʂʰo˧bʋ̩˩
+\lx ʈʂʰo˧bv̩˩
 \sf <nb="2011"> 3279
 \or chobbu
 \ps n
-\lc ʈʂʰo˧bʋ̩˩
+\lc ʈʂʰo˧bv̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="sem" langue="fra"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
@@ -68441,11 +68531,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf savon
 \dt 07/Oct/2015
 
-\lx tsɤ˩pʰʋ̩˧-tsɤ˥li˩
+\lx tsɤ˩pʰv̩˧-tsɤ˥li˩
 \or zepuzeli
 \ps v
 \ton LM+#H-
-\lc tsɤ˩pʰʋ̩˧tsɤ˥li˩
+\lc tsɤ˩pʰv̩˧tsɤ˥li˩
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68456,7 +68546,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 东翻西滚
 \df (se) tourner en tous sens, (se) retourner dans tous les sens.
 \gf se_tourner_en_tous_sens
-\xv ʈʂʰɯ˧ | tsɤ˩pʰʋ̩˧-tsɤ˥li˩-ɻ̩˩!
+\xv ʈʂʰɯ˧ | tsɤ˩pʰv̩˧-tsɤ˥li˩-ɻ̩˩!
 \xe (S)he is turning and twisting in all directions!
 \xn 他在东翻西滚！
 \xf il/elle se retourne en tous sens! (ex.: un enfant qui se roule par terre)
@@ -69069,7 +69159,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to be good, to count as good, to be considered as good
 \xn 算是很好的
 \xf être très bien
-\xv ʈʂʰɯ˧ | õ˧=bʋ̩˥-õ˩ | dʑɤ˩ʈʂɤ˧ (+ | ʐwæ˩˥)
+\xv ʈʂʰɯ˧ | õ˧=bv̩˥-õ˩ | dʑɤ˩ʈʂɤ˧ (+ | ʐwæ˩˥)
 \xe He thinks highly of himself! / He is proud of himself / conceited!
 \xn 他觉得自己很了不起！
 \xf Il a une haute idée de lui-même! / Il est orgueilleux!
@@ -70021,10 +70111,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf Elle/il est en train de faire un clin d'oeil!
 \dt 27/Apr/2017
 
-\lx tsʰɯ˧pʰʋ̩#˥
+\lx tsʰɯ˧pʰv̩#˥
 \or cipu
 \ps n
-\lc tsʰɯ˧pʰʋ̩˧
+\lc tsʰɯ˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -70188,7 +70278,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 他们
 \df 3e personne du pluriel.
 \gf |fg{3pl}
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩=bʋ̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe (We) don't know about their business! / (We) are not privy to their family affairs!
 \xn 我们不知道他们的事！
 \xf On ne connaît pas leurs histoires!
@@ -70460,7 +70550,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf a) ʈʂv̩˩˥
-\vf b) ʈʂv̩˩ dʑi˥: suer
+\vf b) ʈʂv̩˩ dʑi˥: sueur
 \vf tons vérifiés; avais d'abord noté ʈʂv̩˩˥ dʑi˥
 \va <speaker="M21"> ʈʂv̩˩dʑi˥, ton d6
 \de Sweat (monosyllable).
@@ -70469,10 +70559,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 汗
 \df Sueur (monosyllabe).
 \gf sueur
-\xv ʈʂv̩˧ bʋ̩˧nv̩˩ xxxx
+\xv ʈʂv̩˩ bv̩˥nv̩˩
 \xe smelling of sweat, reeking of sweat
 \xn 有汗（臭）的味道
 \xf qui sent la sueur, malodorant
+\xv ʈʂv̩˩ dʑɯ˥
+\xe sweat
+\xn 汗
+\xf sueur
 
 \lx ʈʂʰv̩˩
 \sf <nb="B"> 1143
@@ -70498,7 +70592,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe |fg{accomp} 〜 |fg{cmpl}
 \xn 完成了
 \xf |fg{accomp} 〜 |fg{cmpl}
-\xv tsʰi˧-ɲi˧=bʋ̩˧ | lo˧ | le˧-ʈʂʰv̩˩! | le˧-se˩-ze˩!
+\xv tsʰi˧-ɲi˧=bv̩˧ | lo˧ | le˧-ʈʂʰv̩˩! | le˧-se˩-ze˩!
 \xe Today's work is completed! It's finished!
 \xn 今天的工作完成了！就算完工了吧！
 \xf Le travail d'aujourd'hui… on tourne la page! Il est fini!
@@ -70524,7 +70618,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to set aside, to distinguish, not to mix
 \xn 不算在里面、不算在一起
 \xf laisser à part, distinguer, ne pas mettre ensemble, ne pas fourrer dans le même sac
-\xv no˧=bʋ̩˧ | gɤ˩-ʈʂʰv̩˧! | njɤ˧=bʋ̩˧, | mv̩˩-ʈʂʰv̩˧!
+\xv no˧=bv̩˧ | gɤ˩-ʈʂʰv̩˧! | njɤ˧=bv̩˧, | mv̩˩-ʈʂʰv̩˧!
 \xe Your stuff belongs to you; and mine belongs to me!
 \xn 你的算你的，我的算我的！
 \xf Ce qui est à toi est à toi; ce qui est à moi est à moi!
@@ -71060,26 +71154,26 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf poignarder/ficher
 \dt 07/Oct/2015
 
-\lx ʈʂʰwæ˧-bʋ̩˧nv̩#˥
+\lx ʈʂʰwæ˧-bv̩˧nv̩#˥
 \sf <nb="B"> 1039
 \sf <nb="2011"> 1470
 \or chuae bbunu
 \ps adj
-\lc ʈʂʰwæ˧bʋ̩˧nv̩˧
+\lc ʈʂʰwæ˧bv̩˧nv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (+ze˧, ton confirmé, à nouveau en 2009) “à l'odeur de pourriture"
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> ʈʂʰwæ˧ bʋ̩˧nv̩˧ +ze˩
+\va <speaker="M21"> ʈʂʰwæ˧ bv̩˧nv̩˧ +ze˩
 \de Bad, spoilt, rotten.
 \ge rotten
 \dn 食物变味，有臭味道了
 \gn 有臭味
 \df Puant, à l'odeur de pourriture.
 \gf puant
-\xv ʈʂʰwæ˧-bʋ̩˧nv̩˧ ɲi˥!
+\xv ʈʂʰwæ˧-bv̩˧nv̩˧ ɲi˥!
 \xe It stinks! / It smells rotten!
 \xn 臭了、有臭味道了
 \xf Ça sent le pourri! / Ça pue la pourriture! / C'est vraiment malodorant!
@@ -72590,7 +72684,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 发芽
 \df Germer, bourgeonner, donner des bourgeons.
 \gf germer
-\xv si˧dzi˩ | ʁo˧bʋ̩˧ tʰv̩˧
+\xv si˧dzi˩ | ʁo˧bv̩˧ tʰv̩˧
 \xe the tree buds
 \xn 树抽芽
 \xf l'arbre fait des bourgeons
@@ -72982,7 +73076,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf oiseau femelle
 \xc <type="tone"> L
 \xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
-\xv v̩˩dze˩-pʰʋ̩˩
+\xv v̩˩dze˩-pʰv̩˩
 \xe male bird
 \xn 公鸟
 \xf oiseau mâle
@@ -73213,7 +73307,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \or wuce peuq
 \ps n
 \lc v̩˩tsʰɤ˧pʰɻ̩˥
-\cf <type="synonyme"> tsʰæ˧pʰɻ̩˧˥
+\sy tsʰæ˧pʰɻ̩˧˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> (vérifié soigneusement en 2009, n'est pas ˩ ˧ ˧˥)
@@ -73871,10 +73965,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf vampire
 \dt 27/Apr/2017
 
-\lx ʐæ˩pʰʋ̩˧
+\lx ʐæ˩pʰv̩˧
 \or raepu
 \ps n
-\lc ʐæ˩pʰʋ̩˥
+\lc ʐæ˩pʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM
@@ -73886,7 +73980,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 公豹子
 \df Léopard mâle.
 \gf léopard_mâle
-\xv ʐæ˩pʰʋ̩˧-ʐæ˩mi˩
+\xv ʐæ˩pʰv̩˧-ʐæ˩mi˩
 \xe male leopard and female leopard
 \xn 公豹子与母豹子
 \xf léopard mâle et léopard femelle
@@ -74537,8 +74631,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc ɖɯ˧ ʑi˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ʑi˧˥, ton m4b
-\vf indiqué ainsi en forme de citation
+\va <speaker="M18"> ʑi˧˥
+\vf ton MH
 \va <speaker="M21"> ID.
 \de Family.
 \ge family
@@ -74599,7 +74693,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf cette famille
 \xv ‡ʑi˩ hwæ˧
 \xe ‡to buy a house (example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was refused by speaker F4)
-\xn ‡买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
+\xn 买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
 \xf ‡acheter une demeure; forme non correcte, proposée pour voir dans quelle mesure le monosyllabe peut se combiner avec divers verbes.
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥, | ze˩ ʑi˧ ɲi˥?
 \xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
@@ -75051,10 +75145,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf qui va s'endormir, qui est ensommeillé
 \dt 07/Oct/2015
 
-\lx ʑi˩pʰʋ̩#˥
+\lx ʑi˩pʰv̩#˥
 \or xxipu
 \ps n
-\lc ʑi˩pʰʋ̩˥
+\lc ʑi˩pʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM+#H
@@ -75391,12 +75485,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf idiots, imbéciles (sans distinction de sexe)
 \dt 07/Oct/2015
 
-\lx zo˩-bʋ̩˥-li˩
+\lx zo˩-bv̩˥-li˩
 \or ssobbuli
 \bw <langue="bod">? (Lidz 2010: 108)
 \ps n
 \ton L.H.L
-\lc zo˩bʋ̩˥li˩
+\lc zo˩bv̩˥li˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \so <print="n"> F4
@@ -75408,7 +75502,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 宇宙
 \df Univers.
 \gf univers
-\xv sɑ˧ | -zo˩-bʋ̩˥-li˩
+\xv sɑ˧ | -zo˩-bv̩˥-li˩
 \xe the universe
 \xn 宇宙
 \xf l'univers
@@ -76123,7 +76217,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 酒
 \df Alcool fermenté, chang, vin.
 \gf vin
-\xv ʐɯ˧ pʰʋ̩˧˥
+\xv ʐɯ˧ pʰv̩˧˥
 \xe to pour wine
 \xn 斟酒
 \xf verser à boire
@@ -76617,7 +76711,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton M
 \lc ʐv̩˧bæ˧
 \so <print="n"> F4
-\va <speaker="F5"> ʐv̩˧bæ˧-v̩˩kɯ˩
+\va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv mi˩
 \de Snake, serpent.
@@ -76626,20 +76720,30 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 蛇
 \df Serpent.
 \gf serpent
-\xv ʐv̩˧bæ˧ ɣɯ˩ pʰʋ̩˩
+\xv ʐv̩˧bæ˧ ɣɯ˩ pʰv̩˩
 \xe The snake sheds skin / exuviates
 \xn 蛇蜕皮
 \xf Le serpent mue
+\xv ʐv̩˧bæ˧-ɣɯ˩kɯ˩ xxxx à confirmer
+\xe snake skin? skin shed by the snake?
+\xn 蛇蜕皮? 蛇皮??
+\xf peau de serpent ? mue de serpent ?
 
-\lx ʐv̩˧bæ˧-bʋ̩˧-hɑ#˥
+\lx ʐv̩˧bæ˧-bv̩˧-hɑ#˥
 \sf <nb="2011"> 3349
-\or rubbae bbuha
+\or rubbae bbu ha
+\et ʐv̩˧bæ˧
+\et =bv̩˧
+\et hɑ˥
+\ec <langue="fra"> L'expression «nourriture du serpent» paraît motivée par le fait que cette plante a des feuilles grasses entortillées, qui peuvent faire penser à un corps de serpent. Le nom «serpent» apparaît dans plusieurs noms de plantes.
+\ec <langue="eng"> The expression ‘snake's food’ seems to be motivated by the fact that this plant has fat, twisted leaves, reminiscent of a snake's body. The noun ‘snake’ appears in several plant names.
+\ec <langue="cmn"> ‘蛇食’一词的由来似乎是因为这种植物的叶子肥厚、扭曲，让人联想到蛇的身体。‘蛇’这个名词出现在多种植物名称中。
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="sem" langue="fra"> aussi: ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥ (+ɲi˥)
+\nt <type="hist" langue="fra" print="n"> xxxx Serait-ce la même plante que /ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥/?
 \ton #H
-\lc ʐv̩˧bæ˧bʋ̩˧hɑ˧
+\lc ʐv̩˧bæ˧bv̩˧hɑ˧
 \so <print="n"> F4
 \pdv qɑ˩
 \pdc <langue="fra"> une botte de fourrage
@@ -76647,7 +76751,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ge pig_fodder
 \dn 能喂给猪的三种草之一
 \gn 喂猪的草
-\df L'une des trois sortes de fourrage que l'on donne aux cochons; M18 propose comme étymologie populaire «serpent en colère», du fait que cette plante a des feuilles grasses qui ressemblent à un serpent, et qui sont entortillées.
+\df L'une des trois sortes de fourrage que l'on donne aux cochons.
 \gf fourrage_pour_cochon
 
 \lx ʐv̩˧bæ˧-mi˩
@@ -76668,13 +76772,13 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf serpent_femelle
 \dt 27/Apr/2017
 
-\lx ʐv̩˧bæ˧-pʰʋ̩#˥
+\lx ʐv̩˧bæ˧-pʰv̩#˥
 \or rubbaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc ʐv̩˧bæ˧pʰʋ̩˧
+\lc ʐv̩˧bæ˧pʰv̩˧
 \so <print="n"> F4
 \pdv mi˩
 \de Male snake.
@@ -76717,7 +76821,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 天南星
 \df |fi{Arisaema consanguineum}.
 \gf Arisaema_consanguineum
-\dt 01/Aug/2017
 
 \lx ʐv̩˧bɤ#˥
 \sf <nb="2011"> 328
@@ -77856,11 +77959,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf |fg{fut.imm}
 \dt 05/Jul/2017
 
-\lx =bʋ̩˧
+\lx =bv̩˧
 \sf <nb="2011"> 3362
 \or bbu
 \ps clitic
-\lc bʋ̩˧
+\lc bv̩˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton M
@@ -78228,7 +78331,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe near the house, in the vicinity of the house
 \xn 房子周围
 \xf aux alentours de la maison
-\xv njɤ˧=bʋ̩˧ | kʰi˧~kʰi˧
+\xv njɤ˧=bv̩˧ | kʰi˧~kʰi˧
 \xe near me, around me
 \xn 我的周围
 \xf à côté de moi, autour de moi
@@ -78779,7 +78882,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 里
 \df Dans.
 \gf dans
-\xv ɑ˩ʁo˧=bʋ̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
+\xv ɑ˩ʁo˧=bv̩˧ | qʰwɤ˧-qo˥-ɳɯ˩ | dzɯ˧-bi˧!
 \xe Let's eat in the bowls of the house! (Context: the host wonders whether guests want to use their own bowls to eat cereals that they brought along, or whether it's all right to use the house's dishes.)
 \xn 用家里的碗吃吧！（情景：客人拿过来了自己的燕麦片和铁碗，早上用自己的碗吃自己的麦片。有一天，他忘了拿自己的铁碗，主人说：用家里的碗吧！）
 \xf Mangeons dans les bols de la maison! (Contexte: des invités ont apporté leur propre muesli et leur propre bol, et prennent le petit déjeuner à part; un jour où ils ont oublié leur bol, la maîtresse de maison suggère: utilisons donc la vaisselle de la maison!)
@@ -79024,7 +79127,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe It's finished! / It's completed!
 \xn 完了！
 \xf C'est fini!
-\xv no˧ | tʰi˧-dzi˩-kʰɯ˩-se˩-dʑo˩, | dʑɯ˩-tsʰi˧ ɖɯ˧-qʰwɤ˧ pʰʋ̩˥ | tʰi˧-ki˧!
+\xv no˧ | tʰi˧-dzi˩-kʰɯ˩-se˩-dʑo˩, | dʑɯ˩-tsʰi˧ ɖɯ˧-qʰwɤ˧ pʰv̩˥ | tʰi˧-ki˧!
 \xe After you have been seated, (I) pour out a bowl of hot water (for you).
 \xn 让（你）坐下以后，（我）给你倒一杯开水。
 \xf Après que tu te sois assis, je te verse un verre d’eau chaude.
@@ -79330,11 +79433,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe Soup is liquid / is something that one drinks! / Soup counts among liquids!
 \xn 汤，是喝的东西！ / 汤是来喝的！ / 汤，算是属于饮料类的！
 \xf la soupe, c'est liquide/ça se boit!
-\xv dʑɤ˩bʋ̩˧-tso˩
-\xe distraction, game, amusement, piece of entertainment; the meaning is distinct from |fv{/dʑɤ˩bʋ̩˧-di˩/} ‘toy', which refers specifically to objects
+\xv dʑɤ˩bv̩˧-tso˩
+\xe distraction, game, amusement, piece of entertainment; the meaning is distinct from |fv{/dʑɤ˩bv̩˧-di˩/} ‘toy', which refers specifically to objects
 \xn 娱乐、游戏
-\xf distraction, jeu, divertissement; le sens est distinct d'une autre forme nominalisée, |fv{/dʑɤ˩bʋ̩˧-di˩/} ‘jouet' (objet)
-\xv ʝi˧-tso˧ mɤ˧-ʂv̩˧ɖv̩˧, | dʑɤ˩bʋ̩˧-tso˩-lɑ˩ ʂv̩˩ɖv̩˩!
+\xf distraction, jeu, divertissement; le sens est distinct d'une autre forme nominalisée, |fv{/dʑɤ˩bv̩˧-di˩/} ‘jouet' (objet)
+\xv ʝi˧-tso˧ mɤ˧-ʂv̩˧ɖv̩˧, | dʑɤ˩bv̩˧-tso˩-lɑ˩ ʂv̩˩ɖv̩˩!
 \xe (He) does not think about his duties, only about his amusements/his pleasures!
 \xn 不考虑任务，只想到娱乐！ / 干正经事不想，只想玩！
 \xf (il) ne pense pas à ses tâches/à ses devoirs/à ce qu'il doit faire, il ne pense qu'à ses distractions!
@@ -79360,7 +79463,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 意志
 \df |fg{volitif.}
 \gf |fg{volitif}
-\xv dʑɤ˩bʋ̩˥-tso˩-ɲi˩ mæ˩!
+\xv dʑɤ˩bv̩˥-tso˩-ɲi˩ mæ˩!
 \xe Let's go and play!
 \xn 玩一玩吧！
 \xf On joue, d'accord? / Allez, on va jouer!
