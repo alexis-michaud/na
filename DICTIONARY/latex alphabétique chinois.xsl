@@ -525,8 +525,13 @@
 <xsl:template match="Étymologie">
     <xsl:text>&#10;</xsl:text>
     <xsl:text>\begin{étymologie}</xsl:text>
-    <xsl:apply-templates select="Étymon"/>
-    <xsl:text>&#10;</xsl:text>
+    <xsl:for-each select="Étymon">
+        <xsl:apply-templates select="."/>
+        <xsl:text>&#10;</xsl:text>
+            <xsl:if test="not(position() = last())">
+            <xsl:text>\pcmn{、}</xsl:text>
+        </xsl:if>
+    </xsl:for-each>
     <xsl:text>\end{étymologie}</xsl:text>
 </xsl:template>
 
@@ -539,7 +544,10 @@
 </xsl:template>
 
 <xsl:template match="Étymon/Forme">
-    <xsl:call-template name="convertir_liens"/>
+    <xsl:variable name="expression">
+        <xsl:call-template name="convertir_liens"/>
+    </xsl:variable>
+    <xsl:apply-templates select="$expression"/>
 </xsl:template>
 
 <xsl:template match="Forme">
@@ -578,14 +586,6 @@
     <xsl:text>\style</xsl:text>
     <xsl:value-of select="@type"/>
     <xsl:text>{</xsl:text>
-    <xsl:value-of select="."/>
-    <xsl:text>}</xsl:text>
-</xsl:template>
-
-<xsl:template match="style[@type='fv']">
-    <xsl:text>\style</xsl:text>
-    <xsl:value-of select="@type"/>
-    <xsl:text>{</xsl:text>
     <xsl:apply-templates/>
     <xsl:text>}</xsl:text>
 </xsl:template>
@@ -616,7 +616,7 @@
 
 <xsl:template name="convertir_caractères_spéciaux">
     <xsl:param name="expression" select="."/>
-    <xsl:value-of select="replace(replace($expression, '[#$]', '\\$0'), '[~〜]', '\\textasciitilde{}')"/>
+    <xsl:value-of select="replace(replace($expression, '[#$_]', '\\$0'), '[~〜]', '\\textasciitilde{}')"/>
 </xsl:template>
 
 <xsl:template name="adapter_langue">
