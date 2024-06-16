@@ -8552,6 +8552,8 @@
 \or ddupae
 \ps n
 \lc dv̩˩pʰæ˥
+\cf mv̩˩pʰæ˧
+\cf gæ˩pʰæ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton LM
@@ -9172,7 +9174,24 @@
 \gn 糖
 \df Sucre.
 \gf sucre
-\dt 24/Apr/2017
+
+\lx dze˧pʰɻ̩˧˥
+\or zzeipeu rrrr
+\et dze˥
+\et pʰɻ̩˩α
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton MH#
+\lc dze˧pʰɻ̩˧˥
+\cf mɤ˩tʰɑ˧
+\so <print="n"> F4
+\de Sesame candy.
+\ge sesame_candy
+\dn 麻糖
+\gn 麻糖
+\df Confiserie au sésame.
+\gf confiserie_au_sésame
 
 \lx ɖʐe˧
 \sf <nb="B"> 538
@@ -10519,7 +10538,6 @@
 \xe there is some hail
 \xn 下冰雹了
 \xf il tombe de la grêle
-\dt 24/Apr/2017
 
 \lx ɖʐo˥
 \sf <nb="B"> 1023
@@ -11180,9 +11198,12 @@
 \ge large_vat
 \dn 大桶
 \gn 大桶
-\df Grande cuve, grand tonneau (sens très proche de |fv{dzo˧zo#˥}, peuvent s'employer de façon interchangeable pour certains des tonneaux).
+\df Grande cuve, grand tonneau (sens très proche de |fv{dzo˧zo#˥}; ces deux termes peuvent s'employer de façon interchangeable pour certains des tonneaux).
 \gf grande_cuve
-\dt 24/Apr/2017
+\xv dzo˧mi˧-tɕæ˧ɻæ˩
+\xe Pickled vegetables prepared in a large vat. The type of pot is associated with a specific recipe, and hence serves as a determiner in the name for the resulting product (a type of pickled vegetables).
+\xn 用大桶制作的酸菜。大缸的类型与特定的配方有关，因此也是一种腌制蔬菜名称的因素。
+\xf Légumes marinés préparés dans une grande cuve. Le type de récipient est associé à une recette spécifique, et sert donc de déterminant dans l'expression qui désigne le produit final (un certain type de légumes marinés).
 
 \lx dzo˩mi#˥
 \or zzomi
@@ -13293,6 +13314,7 @@
 \lx ɖʐv̩˥
 \sf <nb="2011"> 282
 \or zzhu
+\hm 1
 \ps n
 \cf ɖʐv̩˧tsi˥
 \sd <langue="fra"> corps
@@ -13348,6 +13370,7 @@
 \xf La terre est mouillée!
 
 \lx ɖʐv̩˥
+\hm 2
 \or zzhu
 \ps v
 \sd <langue="fra"> adjectif
@@ -13369,7 +13392,6 @@
 \xe mushrooms multiply, become numerous
 \xn 菌子长得多
 \xf les champignons se multiplient
-\dt 27/Aug/2015
 
 \lx ɖʐv̩˧β
 \or zzheu
@@ -13449,7 +13471,7 @@
 \ton H#
 \lc ɖʐv̩˧tsi˥
 \sn 1
-\cf ɖʐv̩˥
+\cf ɖʐv̩˥1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> avant 2011: noté ɖʐv̩˧tsɯ˥ (corrigé en 2009; auparavant, noté /ɖʐv̩˧tsɯ˥/ (ɖʐv̩˧tsi˥ ɲi˩)
@@ -13492,7 +13514,6 @@
 \lx ɖʐɻ̩˩α
 \sf <nb="B"> 1017b
 \sf <nb="2011"> 2481
-\hm 1
 \or zzheuq
 \ps adj
 \sd <langue="fra"> adjectif
@@ -13521,7 +13542,6 @@
 \xf Celui-là/celle-là est vraiment détestable!
 
 \lx ɖʐv̩˩α
-\hm 2
 \or zzhuq
 \ps v
 \sd <langue="fra"> verbe
@@ -15817,6 +15837,7 @@
 \sf <nb="2011"> 1079
 \or ggeddae
 \ps n
+\an mv̩˩ɖæ˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra" print="n"> (+ɲi˩) (confirmé, n'est pas ɖʐæ˥; confirmé: n'est pas /gɤ/; tons confirmés)
@@ -15845,6 +15866,8 @@
 \np <langue="fra"> provient très certainement de gɤ˩pʰæ˧ par harmonie vocalique
 \ton LM
 \lc gæ˩pʰæ˥
+\cf mv̩˩pʰæ˧
+\cf dv̩˩pʰæ˧
 \so <print="n"> F4
 \pdv tso˩
 \de Storeroom, larder: a room where food is kept.
@@ -15853,7 +15876,7 @@
 \gn 储藏室
 \df Resserre, pièce où on conserve certains produits: dans le même bâtiment que la cuisine-foyer-salle à manger, à sa gauche (vu depuis la cour).
 \gf resserre
-\dt 02/Sep/2015
+\dv tso˧~tso˧ tɕɯ˧-di˧˥
 
 \lx gæ˧ɻæ˩
 \or Ggae'er
@@ -16770,6 +16793,7 @@
 \sf <nb="2011"> 61
 \or ggewua
 \ps n
+\an mv̩˩ʁwɤ˧1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton LM
@@ -16781,7 +16805,6 @@
 \gn 上游
 \df Cours supérieur (d'une rivière), amont.
 \gf cours_supérieur
-\dt 02/Sep/2015
 
 \lx gɤ˩ʁwɤ#˥
 \sf <nb="2011"> 3326
@@ -22649,6 +22672,7 @@
 \gn 野牛
 \df Bison, vache sauvage, bœuf sauvage.
 \gf vache/bœuf_sauvage
+
 \lx ʝi˥
 \sf <nb="B"> 1278
 \sf <nb="2011"> 1838
@@ -22805,7 +22829,28 @@
 \xe I have told people the news.
 \xn 我告诉了人家（那个消息）。
 \xf j'ai annoncé la nouvelle aux gens / j'ai annoncé une nouvelle à quelqu'un
-\dt 02/Sep/2015
+
+\lx ʝi˥
+\hm 6
+\or yi
+\ps n
+\lc ʝi˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton #H
+\so <print="n"> F4
+\de Man, male person.
+\ge man
+\dn 男人
+\gn 男
+\df Homme |fi{(vir)}.
+\gf homme
+\ue archaic
+\xv mv̩˧mi˧ so˩tsʰi˩-kʰv̩˩, | qʰo˧mo˥ gi˩ le˩-ʈɤ˩! | ʝi˧=ɻæ˥ | qʰv̩˧tsʰi˧-kʰv̩˩, | bɤ˧di˩ lɑ˩ hṽ̩˩ ɖʐæ˩!
+\xe “A woman of thirty must be pulled along like an old cow; men of sixty still ride red tigers in the land of the Pumi!" This proverb is about ageing in both sexes, with special emphasis on the appeal that they exert on the opposite sex: at thirty, a woman is old; at sixty, a man is still ready for the greatest exploits. The proverb is reported to be occasionally used by women as an ironic (covertly mocking) comment about an ageing beau.
+\xn “女人，到三十岁就算是得拉着的老牛。男人们，到六十岁还在普米山上骑红老虎！”这个谚语讲男人与女人老化过程的不对称，特别描写相互吸引的程度：三十岁女人算是老了，六十岁男人还认为自己有伟大的威力。女人可以用这个谚语隐蔽地嘲弄一个衰老帅哥。
+\xf «À trente ans, la femme est déjà comme une vieille vache qu'il faut tirer pour qu'elle avance (=à trente ans, une femme, c'est déjà une vieille); à soixante, les hommes chevauchent le tigre roux au pays des Pumi!» (=pour l'homme, soixante ans c'est un âge qui permet encore les exploits) (Dicton au sujet de la façon dont vieillissent les deux sexes, au plan de l'attirance qu'ils exercent sur l'autre sexe; employé par une femme, il peut véhiculer une nuance de moquerie à l'égard d'un bellâtre vieillissant.)
+\xc PROVERBE
 
 \lx ʝi˧β
 \sf <nb="B"> 1115
@@ -25657,12 +25702,14 @@
 \sf <nb="2011"> 763
 \or goli
 \ps n
+\sy mv̩˧-mv̩˥-di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> Vérifié: initiale vélaire et non uvulaire.
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /ko˧li#˥/
+\nt <type="hist" langue="fra" print="n"> Question 2024: xxxx ne serait-ce pas ku˧ɬi#?
 \ton #H
-\lc ko˧li˧
+\lc ku˧li˧
 \so <print="n"> F4
 \va <speaker="M23"> *
 \pdv ɭɯ˧β
@@ -26545,6 +26592,10 @@
 \xe Dog's lifespan was made shorter, and man's lifespan was made longer! (A summary of the legend “How dog and man exchanged their lifespans".)
 \xn 够的寿命，变短了/使得变短！（而）人的寿命，变长了/使得变长！（《狗和人交换寿命》故事的一个提要）
 \xf La vie des chiens s'en est trouvée écourtée, et celle des hommes allongée! (Résumé en quelques mots du récit «Le chien échange sa longévité avec l'homme»)
+\xv le˧-dzɯ˥ | le˧-se˩-kʰɯ˩!
+\xe Eat up! / Finish your plate! / Eat it all!
+\xn 都吃光吧！／你给吃光啊！／都吃了吧！
+\xf Finis donc! / Finis ton assiette! / Mange tout!
 \xv hwæ˧ kʰɯ˧ ə˥-bi˩? | - hwæ˧ kʰɯ˧-bi˥!
 \xe Do you agree to buy? - Yes!
 \xn （你）让买吗？ - 让买！
@@ -31841,7 +31892,9 @@
 \cf ɬo˩kɤ˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="sem" langue="fra"> Dans cette expression quadrisyllabique, on reconnaît le mot disyllabique usuel pour ‘côte’, suivi d'un second disyllabe qui commence lui aussi par la racine monosyllabique pour ‘côte’. Cette seconde partie du composé ne peut s'employer seule: elle ne constitue pas un nom disyllabique autonome.
+\nt <type="sem" langue="fra"> Dans cette expression quadrisyllabique, on reconnaît le mot disyllabique usuel pour ‘côte’, suivi d'un second disyllabe qui commence lui aussi par la racine monosyllabique pour ‘côte’. Cette seconde partie du composé n'est guère intelligible lorsqu'elle est employée seule: elle ne constitue pas réellement un nom disyllabique autonome. La locutrice peut néanmoins la prononcer: |fv{ɬo˩ɲi˩˥}.
+\nt <type="sem" langue="eng"> In this quadrisyllabic expression, we recognize the usual disyllabic word for ‘rib’, followed by a second disyllable which also begins with the monosyllabic root for ‘rib’. This second part of the compound is hardly intelligible when used on its own: it does not really constitute an independent disyllabic noun. The speaker can nevertheless pronounce it: |fv{ɬo˩ɲi˩˥}.
+\nt <type="sem" langue="cmn"> 在这个四音节词中，我们可以看到‘肋骨’这个常用的双音节名词，其后的第二个双音节名词也是以‘肋骨’这个单音节词根开头的。这个复合词的第二部分单独使用时很难理解：它实际上并不构成一个独立的双音节名词。不过，发音合作人还是可以把它单独说出来：|fv{ɬo˩ɲi˩˥}。
 \ton L+#H-
 \lc ɬo˩kɤ˩ɬo˥ɲi˩
 \so <print="n"> F4
@@ -32403,10 +32456,11 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" langue="fra" print="n"> (avant 2009, noté: /ɬo˥tɑ˥ɬo˧ɲi˩/)
-\nt <type="sem" langue="fra"> La première partie peut s'employer seule, avec le sens de “à côté de", mais pas la seconde.
+\nt <type="hist" langue="fra" print="n"> Avant 2009, noté: /‡ɬo˥tɑ˥ɬo˧ɲi˩/.
+\nt <type="sem" langue="fra"> La première partie de cette expression disyllabique, |fv{/ɬo˧tɑ˧/}, peut s'employer seule, avec le sens de “à côté de", mais pas la seconde.
 \ton -L
 \lc ɬo˧tɑ˧ɬo˩ɲi˩
+\cf ɬo˧tɑ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -32416,7 +32470,6 @@
 \gn 附近
 \df À droite et à gauche, aux alentours; autour de.
 \gf aux_alentours
-\dt 24/Apr/2017
 
 \lx lo˧tɑ˧-lo˧tɕi#˥
 \or loda lojie
@@ -33102,11 +33155,14 @@
 \va <speaker="F5"> ɬv̩˩pʰæ˩˧gv̩˩
 \de Nice and warm.
 \ge nice_and_warm
-\dn 温暖，暖和
-\gn 温暖
-\df Bien tiède.
-\gf bien_tiède
-\dt 24/Apr/2017
+\dn 温暖、温暖舒适、暖和
+\gn 温暖舒适
+\df Bien tiède, agréablement tiède.
+\gf agréablement_tiède
+\xv ɬv̩˩pʰæ˩-ɻæ˥-gv̩˩
+\xe Same meaning: nice and warm.
+\xn 同样：温暖舒适
+\xf Même sens: agréablement tiède
 
 \lx lv̩˧pʰv̩˩
 \sf <nb="B"> 1375
@@ -33832,27 +33888,6 @@
 \gn 抿
 \df Pincer (les lèvres).
 \gf pincer(les_lèvres)
-\dt 21/Jun/2017
-
-\lx mæ˧β
-\or mae
-\ps v
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\ton M
-\lc mæ˧
-\so <print="n"> F4
-\de To achieve, to succeed in, to complete (a task).
-\ge to_succeed
-\dn ……成、……成功
-\gn ……成
-\df Parvenir à, réussir à.
-\gf réussir_à
-\xv njɤ˧ ɖʐɤ˧˥ | tʰi˧-mɤ˧-mæ˧!
-\xe I can't fetch it!
-\xn 我够不着！（例如：够不着树枝上的果子）
-\xf je ne parviens pas à attraper (ex.: un fruit sur une branche trop élevée)
-\dt 19/Jun/2017
 
 \lx mɑ˩dzɑ˩
 \sf <nb="B"> 636a
@@ -33970,50 +34005,47 @@
 \df Mur de mani: mur de pierre sèche et de sable, comportant des tablettes de pierre sur lesquelles est gravée une inscription: le plus souvent Om Mani Padme Hum. Un mur de mani doit être contourné dans le sens des aiguilles d'une montre: le sens de rotation de l'univers, selon la doctrine bouddhiste.
 \gf mur_de_mani
 
-\lx mæ˧pæ˧
+\lx mi˧pæ˧
 \sf <nb="B"> 596e
 \sf <nb="2011"> 864
-\or maebae
+\or mibae
 \ps n
-\lc mæ˧pæ˧
+\lc mi˧pæ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> avant 2011: noté …pʰæ
-\nt <type="sem" langue="fra"> cf photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso"). Celui-ci figure en photo 5: le plus grand; sans interstices
-\np <langue="fra"> Peut-être fruit d'une harmonie vocalique entre les deux syllabes: cf forme de M23, qui paraît conservatrice
+\nt <type="hist" langue="fra" print="n"> Avant 2011: noté une initiale aspirée pour la deuxième syllabe, /‡pʰæ/.
+\nt <type="sem" langue="fra" print="n"> Voir la série de photos de vanneries prise le 11/11/2007 (5 photos “recto", 5 photos “verso"). Cette vannerie-ci figure en photo 5: c'est la plus grande. Elle ne comporte pas d'interstices.
+\nt <type="hist" type="ton" langue="fra" print="n"> Avant 2024: noté /mæ˧pæ˧/ pour F4, /mi˧pæ˧/ pour M21 et M23, relevant que la forme /mi˧pæ˧/ était sans doute une forme plus conservatrice, tandis que celle de F4 était le fruit d'une harmonie vocalique.
 \ton M
 \so <print="n"> F4
-\va <speaker="M21"> mi˧pæ˧, ton d1; employé à la place du mot fourni par F4
-\vf le plus grand; sans interstices); sens vérifié d'après photo. Sans doute forme plus conservatrice, celle de F4 étant le fruit d'une harmonie vocalique?
-\va <speaker="M23"> mi˧pæ˧
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
 \pdv nɑ˧α
-\de Large sifter.
+\de Large sifter. It is used to dry cooked rice that is no longer fit for human consumption, which is fed to the chickens after drying.
 \ge large_sifter
-\dn 大筛子
+\dn 大筛子。用来晒干不再适合人食用的熟米，晾晒后喂鸡。
 \gn 大筛子
-\df Vannerie.
-\gf vannerie
-\dt 24/Apr/2017
+\df Grande vannerie. Elle sert notamment à faire sécher le riz cuit qui n'est plus propre à la consommation humaine, et qu'on donne aux poules après l'avoir fait sécher.
+\gf grande_vannerie
 
-\lx mɑ˧pʰɻ̩˧
+\lx mɤ˧pʰɻ̩˧
 \sf <nb="B"> 392a
 \sf <nb="2011"> 491
 \or mepeu
 \ps n
-\lc mɑ˧pʰɻ̩˧
+\lc mɤ˧pʰɻ̩˧
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <langue="pumi" type="comp" print="n"> mu51 (??)
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: /mɑ˥pʰv̩˥/) (voyelle de la première syllabe confirmée: est ɑ et non æ)
-\nt <type="hist" langue="fra" print="n"> (voyelle confirmée, n'est pas /æ/; mais paraît avoir tendance à prononcer mwɑ˥)
+\nt <type="hist" type="ton" langue="fra" print="n"> Avant 2009: noté un schéma tonal HH, /mɑ˥pʰv̩˥/.
+\nt <type="hist" type="phono" langue="fra" print="n"> Voyelle de la première syllabe confirmée: ce n'est pas un /æ/. Jusqu'en 2024, avais noté ‡mɑ˧pʰv̩˧, tout en relevant que ``la locutrice paraît avoir tendance à prononcer mwɑ˥". La voyelle /ɤ/ est établie en 2024.
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf d'abord noté mæ˥ pʰv̩˥
-\vf vérifié: n'est ni mæ˥, ni mɤ˥
+\va <speaker="M21"> mæ˧pʰv̩˧; bv̩˧-mɤ˧
 \pdv ɭɯ˧β
-\va <speaker="M21"> mæ˧pʰv̩˧, ton d1; vérifié: n'est pas mɑ˧; bv̩˧mɤ˧, ton d1
+\pdv kʰwɤ˥α
 \de Butter.
 \ge butter
 \dn 酥油
@@ -34078,6 +34110,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
+\pdv kɤ˩α
 \de Vegetable oil.
 \ge vegetable_oil
 \dn 植物油
@@ -34227,13 +34260,13 @@
 \xe one hundred times 10,000, i.e. one million
 \xn 一百万
 \xf cent fois 10.000, soit un million
-\dt 30/Apr/2017
 
 \lx mæ˧α
 \sf <nb="B"> 1738
 \sf <nb="2011"> 2567
 \or mae
 \ps v
+\nt <type="hist" type="ton" langue="fra" print="n"> Catégorie tonale Mα ou Mβ: reste à vérifier.
 \ton Mα
 \lc mæ˧
 \sn 1
@@ -34251,18 +34284,30 @@
 \xe |fg{dur} 〜 |fg{pfv}
 \xn 钩住了
 \xf |fg{dur} 〜 |fg{pfv}
+\xv njɤ˧ ɖʐɤ˧˥ | tʰi˧-mɤ˧-mæ˧!
+\xe I can't fetch it!
+\xn 我够不着！（例如：够不着树枝上的果子）
+\xf je ne parviens pas à attraper (ex.: un fruit sur une branche trop élevée)
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so <print="n"> F4
-\va <speaker="M21"> ID.
+\de To achieve, to succeed in, to complete (a task).
+\ge to_succeed
+\dn ……成、……成功
+\gn ……成
+\df Parvenir à, réussir à.
+\gf réussir_à
+\sn 3
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
 \de To catch up with (someone).
 \ge to_catch_up_with
 \dn 跟上
 \gn 跟上
 \df Rattraper, rejoindre (quelqu'un qui est plus avant sur un chemin/une route).
 \gf rejoindre
-\dt 04/Sep/2015
 
 \lx mi˩˧
 \or miq
@@ -34302,13 +34347,16 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰwɤ˥
-\de Wound.
+\de Wound, injury.
 \ge wound
 \dn 伤口
 \gn 伤口
 \df Blessure, plaie.
 \gf blessure
-\dt 24/Apr/2017
+\xv mi˧ ɖɯ˧-kʰwɤ˥ | tʰv̩˧-ze˩!
+\xe (She/he) got hurt!
+\xn 出伤口了！
+\xf (Il/elle) s'est fait une blessure! / (Il/elle) s'est blessé·e!
 
 \lx mi˧˥
 \sf <nb="B"> 1398
@@ -34353,11 +34401,14 @@
 \xe |fg{red}: to push and squeeze
 \xn 重叠：推、拥挤
 \xf |fg{red}
+\xv hĩ˧ mi˥~mi˩
+\xe to shove someone
+\xn 推人、推搡某人
+\xf pousser quelqu'un, bousculer quelqu'un
 \xv mi˩~mi˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
 \xn 重叠：推、拥挤
 \xf |fg{red} |fg{inchoatif}
-\dt 24/Apr/2017
 
 \lx mi˩β
 \sf <nb="B"> 2185
@@ -34443,12 +34494,13 @@
 \lc mi˩ɬi˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> (tons vérifiés en 2009: mi˩ɬi˩bæ˩ʈʂu˧, mi˩ɬi˩bæ˩ʈʂu˧ ɲi˩)
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> mi˩lv̩˩˧, ton d3 ; donne: mi˩lv̩˥ ɖɯ˩ hĩ˩˥; mi˩lv̩˥ ɖɯ˩ ɲi˥ “le bambou est gros"
-\va <speaker="M23"> mi˩li˩˧, ton d3; restent des traces de friction du /ɬ/ en citation; mais paraît en train de se confondre avec /l/: ds les expressions composées, se simplifie en /li/; ex.: lɑ˧hwɤ˩mi˩li˩
+\va <speaker="M21"> mi˩lv̩˩
+\vf <print="n"> Ton L (ton d3); mais donne: /mi˩lv̩˥ | ɖɯ˩ hĩ˩˥/ “gros bambou"; /mi˩lv̩˥ ɖɯ˩ ɲi˥/ “le bambou est gros".
+\va <speaker="M23"> mi˩li˩
+\vf Des traces de friction demeurent perceptibles dans une réalisation soignée, ce qui indique que la forme ancienne était |fv{mi˩ɬi˩}, avec initiale |fv{/ɬ/}. Mais cette initiale paraît proche de se confondre avec /l/. Dans les expressions composées, on entend clairement |fv{[li]} plutôt que |fv{[ɬi]}. Par exemple: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
 \pdv dzi˩
 \de Large bamboo.
 \ge large_bamboo
@@ -34460,11 +34512,15 @@
 \xe bamboo broom
 \xn 竹扫帚
 \xf balai en petites tiges de bambou
+\xc <type="hist" langue="fra" print="n"> Tons vérifiés en 2009: /mi˩ɬi˩bæ˩ʈʂu˧/, /mi˩ɬi˩bæ˩ʈʂu˧ ɲi˩/.
 \xv mi˩ɬi˩-ʈʂæ˥do˩
 \xe bamboo bucket to carry water (on one's back)
 \xn 竹桶，用来背水
 \xf seau en bambou pour porter de l'eau (sur le dos)
-\dt 24/Apr/2017
+\xv mi˩ɬi˩-kʰɤ˩˥
+\xe bamboo basket
+\xn 竹篮子
+\xf panier en bambou
 
 \lx mi˩ɬi˩-ʁo˩bv̩˥
 \sf <nb="B"> 2032
@@ -34563,7 +34619,6 @@
 \gn 仁
 \df Amande (d'un noyau).
 \gf 米米::amande
-\dt 04/Sep/2015
 
 \lx mi˩mo˩
 \sf <nb="B"> 596a
@@ -34647,7 +34702,8 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
+\pdv nɑ˧α
 \de Walking-stick.
 \ge walking_stick
 \dn 拐棍
@@ -34700,6 +34756,13 @@
 \xe to beg (literally: ‘to ask for food')
 \xn 讨饭
 \xf mendier (littéralement: ‘demander à manger')
+\xv hɑ˧ mi˥-hĩ˩
+\xe beggar (literally: ‘(person) who asks for food')
+\xn 讨饭的（人），乞丐
+\xf mendier (littéralement: ‘(personne) qui demande à manger')
+\xc <langue="fra" type="synt"> Cette expression n'est pas |fv{hɑ˧ mi˥ hĩ˩} ‘personne qui demande à manger', mais |fv{hɑ˧ mi˥-hĩ˩}: ‘(personne) qui demande à manger'. Au plan phonétique, le morphème |fv{-hĩ˩} est fortement réduit, notamment en ce qui concerne sa consonne initiale, tandis que le nom, |fv{hĩ}, possède une fricative initiale claire et distincte.
+\xc <langue="cmn" type="synt"> 不是|fv{hɑ˧ mi˥ hĩ˩}‘要饭的人’，而是|fv{hɑ˧ mi˥-hĩ˩}‘要饭的（人）’。从语音上看，语素 |fv{-hĩ˩}的发音大大减弱，尤其是其辅音，而名词|fv{hĩ}则有一个清晰明确的擦音声母。
+\xc <langue="eng" type="synt"> This phrase is not |fv{hɑ˧ mi˥ hĩ˩} ‘person who asks for food', but |fv{hɑ˧ mi˥-hĩ˩}: ‘(person) who asks for food'. Phonetically, the morpheme |fv{-hĩ˩} is greatly reduced, particularly with regard to its initial consonant, whereas the noun, |fv{hĩ}, has a clear and distinct initial fricative.
 \xv hɑ˧ | ɖɯ˧-mi˧~mi˥-ɻ̩˩
 \xe to beg a little, to ask around for some food
 \xn 讨点饭
@@ -34716,7 +34779,7 @@
 \lc mje˧˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4.
+\np <langue="fra"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4 (et à nouveau en 2024).
 \so <print="n"> F4
 \va <speaker="F5"> *
 \de Noodles.
@@ -34725,21 +34788,20 @@
 \gn 面条
 \df Nouilles, pâtes alimentaires.
 \gf nouilles
-\xv mjæ˧˥ | dzɯ˧-bi˧! ~ mjæ˧ dzɯ˧-bi˧! ~ mjæ˧ dzɯ˥-bi˩!
+\xv mje˧˥ | dzɯ˧-bi˧! ~ mje˧ dzɯ˧-bi˧! ~ mje˧ dzɯ˥-bi˩!
 \xe Let's eat noodles!
 \xn 吃面吧！
 \xf On va manger des nouilles!
 \xc <langue="fra"> trois variantes
-\xv mjæ˧˥ | ɖɯ˧-qʰwɤ˧ tɕɤ˥
+\xv mje˧˥ | ɖɯ˧-qʰwɤ˧ tɕɤ˥
 \xe to boil a bowl of noodles, to cook a bowl of noodles
 \xn 煮一碗面
 \xf faire cuire un bol de nouilles
-\xv mjæ˧ hwæ˥-bi˩
+\xv mje˧ hwæ˥-bi˩
 \xe (we) will buy noodles
 \xn 要买面
 \xf (on) va acheter des nouilles
 \xc PHONO
-\dt 13/Jul/2017
 
 \lx mo˩
 \or mo
@@ -34795,13 +34857,10 @@
 \xf |fg{neg}: pas avide
 \xc <langue="eng"> One of the two ways of negating the phrase: with negation preceding the entire phrase.
 \xc <langue="fra"> L'une des deux façons de faire porter la négation sur l'expression: la négation précède l'expression entière.
-\xv hɑ˧ | mɤ˧-mo˧!
-\xe |fg{neg}: not greedy
-\xn 不贪吃
-\xf |fg{neg}: pas avide
-\xc <langue="eng"> The second of the two ways of negating the phrase: with negation in front of the adjective.
-\xc <langue="fra"> Seconde des deux façons de faire porter la négation sur cette expression: négation devant l'adjectif.
-\dt 24/Apr/2017
+\xv ‡hɑ˧ | mɤ˧-mo˧
+\xe ‡|fg{neg}: ungrammatical construction. Intended meaning: not greedy. This phrase cannot be split into two by insertion of the negation right in front of the monosyllabic adjective.
+\xn 不贪吃（病句）
+\xf ‡|fg{neg}: construction non grammaticale. L'intention était de reformuler l'expression ‘pas gourmand' en déplaçant la négation. Mais l'expression ne peut être scindée par l'insertion de la négation juste devant l'adjectif monosyllabique.
 
 \lx mo˧˥
 \sf <nb="B"> 1969
@@ -34848,11 +34907,14 @@
 \gn 动物油
 \df Huile animale, graisse.
 \gf graisse_animale
-\xv njɤ˧ | mɤ˩ mɤ˩ dzɯ˩˥!
+\xv mɤ˩ dzɯ˩˥
+\xe to eat animal fat
+\xn 吃猪油
+\xf manger du saindoux
+\xv njɤ˧ | mɤ˩ mɤ˩-dzɯ˩˥! ≈ njɤ˧ | mɤ˧ | mɤ˧-dzɯ˥!
 \xe I don't eat animal fat! (One of the investigator's peculiarities)
 \xn 我不吃猪油！（这是调查者的特点之一）
 \xf Je ne mange pas de graisse/de saindoux! (C'est là l'une des particularités de l'enquêteur)
-\dt 04/Sep/2015
 
 \lx mɤ˩β
 \sf <nb="B"> 2225
@@ -34952,7 +35014,7 @@
 \xe ‘[They have kids] like (=as numerous as) morels in the seventh month!', i.e. they have children in great abundance. This is a comforting message to people who do not yet have as many children as they would want. It can also be a humorous comment made about people who had one child after the other. The abundance of morels in the seventh month is spectacular and proverbial.
 \xn （你们家孩子）生得像七月份的羊肚菌一样！（来形容一家有很多孩子出生，一个又一个。在永宁地区，七月份羊肚菌很多。）
 \xf «Il vous en vient comme des morilles au septième mois!» Commentaire humoristique: ce qu'on disait au sujet des gens qui avaient beaucoup d'enfants, qui avaient enfant après enfant: «Ca prolifère comme les morilles au septième mois!»
-\xc <langue="fra"> Avant 2014, noté /ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩/. La syllabe /-ʝi˩/ est particulièrement discrète: cas de réduction qui pourrait facilement se prêter à une réinterprétation à la génération suivante, si la langue continuait d'être transmise.
+\xc <type="phono" langue="fra"> Avant 2014, noté /|fv{ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/. La syllabe /|fv{-ʝi˩}/ est particulièrement discrète. Sa réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, comme /|fv{-ne˩-zo˩}/, si la langue continue d'être transmise.
 \xc PROVERBE
 
 \lx mo˧jo˩-mi˩
@@ -35077,7 +35139,10 @@
 \xe to slander, to speak ill of others
 \xn 说人的坏话
 \xf médire de quelqu'un, calomnier quelqu'un
-\dt 04/Sep/2015
+\xv mo˧ɬɑ˥-kʰɤ˩qʰwɤ˩
+\xe bag of slander
+\xn 谗囊
+\xf sac à ragots
 
 \lx mɤ˩ɬi˩
 \sf <nb="B"> 392b
@@ -35096,7 +35161,6 @@
 \gn 酥油茶
 \df Thé au beurre.
 \gf thé_au_beurre
-\dt 04/Sep/2015
 
 \lx mo˧mo˥
 \sf <nb="2011"> 453
@@ -35116,7 +35180,10 @@
 \gn 馒头/包子
 \df Petits pains (pouvant contenir de la farine de maïs; mais surtout farine de blé) cuits à la vapeur.
 \gf petits_pains
-\dt 19/Jun/2017
+\xv mo˧mo˥ | le˧-bv̩˩
+\xe to steam buns
+\xn 蒸馒头
+\xf cuire de petits pains à la vapeur
 
 \lx mɤ˩mv̩˩
 \or memu
@@ -35133,7 +35200,6 @@
 \gn 烛台
 \df Porte-bougie: objet en cuivre dans lequel on verse de la paraffine fondue, ou de la graisse, et dans lequel on place une mèche; est utilisé dans les rituels.
 \gf porte_bougie
-\dt 04/Sep/2015
 
 \lx mo˧nɑ˥
 \sf <nb="2011"> 960
@@ -35196,11 +35262,12 @@
 \ton H#
 \lc mo˧nɑ˥
 \so <print="n"> F4
-\de Chopped straw, used when preparing pickled vegetables.
+\pdv kʰɤ˧˥α
+\de Chopped straw.
 \ge chopped_straw
 \dn 剁成粉的秸杆
 \gn 剁成粉的秸杆
-\df Paille hachée, utilisée dans la préparation des légumes en saumure.
+\df Paille hachée.
 \gf paille_hachée
 \xv mv̩˩zɯ˩-mo˩nɑ˥
 \xe chopped oat straw
@@ -35307,6 +35374,7 @@
 \sd <langue="eng"> food
 \ton LM
 \lc mɤ˩tʰɑ˥
+\cf dze˧pʰɻ̩˧˥
 \so <print="n"> F4
 \de Sesame candy.
 \ge 麻糖::sesame_candy
@@ -35314,7 +35382,6 @@
 \gn 麻糖（借词）
 \df Confiserie au sésame.
 \gf 麻糖::confiserie_au_sésame
-\dt 04/Sep/2015
 
 \lx mɤ˧ʈʂʰɤ˧
 \or mache
@@ -35331,7 +35398,6 @@
 \gn 马车（借词）
 \df Charrette.
 \gf 马车::charrette
-\dt 06/Jun/2017
 
 \lx mo˩zo#˥
 \sf <nb="B"> 346
@@ -35458,6 +35524,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <langue="pumi" type="comp" print="n"> mu35
+\nt <langue="fra" type="sem"> Ce mot n'est pas perçu comme un emprunt au chinois.
 \ton Mα
 \lc ɖɯ˧ mo˧
 \so <print="n"> F4
@@ -35467,7 +35534,6 @@
 \gn 量词.尸体
 \df Classificateur des cadavres et tombeaux.
 \gf |fg{clf}.cadavres
-\dt 24/Apr/2017
 
 \lx mo˥α
 \sf <nb="B"> 877
@@ -35628,7 +35694,6 @@
 \gn 嘛.肯定式
 \df Particule finale affirmative.
 \gf |fg{affirm}
-\dt 06/Oct/2015
 
 \lx mv̩˥
 \sf <nb="B"> 1221
@@ -35642,7 +35707,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> mə35
-\np <langue="fra"> s'oppose à: mv̩˩˧, ton 3, “cuit": lə˧mv̩˩ze˩ “c'est cuit"
+\nt <langue="fra" type="ton" type="hist" print="n"> Ce verbe s'oppose par son ton à: /mv̩˩˧/, ton 3, “cuit": lə˧mv̩˩ze˩ “c'est cuit".
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -35660,12 +35725,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <langue="pumi" type="comp" print="n"> mə35
-\np <langue="fra"> s'oppose à: mv̩˩˧, ton 3, “cuit": lə˧mv̩˩ze˩ “c'est cuit"
 \so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To understand.
 \ge to_understand
 \dn 懂
@@ -35676,7 +35736,6 @@
 \xe I have understood
 \xn 我懂了
 \xf j'ai compris
-\dt 04/Sep/2015
 
 \lx mv̩˥
 \sf <nb="B"> 1a
@@ -35749,8 +35808,11 @@
 \xe to light a fire, to do a fire
 \xn 点火
 \xf allumer un feu, faire un feu
-\xc <langue="fra"> schéma tonal régulier: /mv̩˥/ + /kʰɯ˧˥/, H+MH, donne régulièrement M.L.
-\dt 04/Sep/2015
+\xc <langue="fra" type="ton"> Schéma tonal régulier: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, donne régulièrement M.L.
+\xv mv̩˧ ɖɯ˧-æ̃˩ kʰɯ˩
+\xe to light a fire, to do a fire
+\xn 点一个火
+\xf allumer un feu, faire un feu
 
 \lx mv̩˩-bæ˧mi˩
 \sf <nb="2011"> 1506
@@ -35776,16 +35838,16 @@
 \or mubbe
 \ps n
 \lc mv̩˧bɤ˧
+\cf lo˩bɤ˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (voyelle et tons vérifiés)
-\nt <type="sem" langue="fra"> (même morphème que dans “paume", lo˩bɤ˩˧)
+\nt <type="hist" langue="fra" print="n"> Voyelle et tons vérifiés.
+\nt <type="sem" langue="fra" print="n"> Même morphème que dans “paume", lo˩bɤ˩.
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ID.; ajoute aussi des périphrases/créations non reconnues par les autres locuteurs: kʰɯ˧ bɤ˧
-\vf partie qui touche le sol), kʰɯ˧ ʈʰæ˧
-\vf milieu de la plante
+\va <speaker="M18"> ID.
+\va <print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui sont des créations: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)...
 \va <speaker="M21"> ID.; ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
 \pdv kʰwɤ˥
@@ -35795,7 +35857,10 @@
 \gn 脚底
 \df Plante du pied.
 \gf plante_du_pied
-\dt 24/Apr/2017
+\xv mv̩˧bɤ˧-ʈʰæ˧qo˥
+\xe same meaning: sole of the foot
+\xn 同上：脚底
+\xf même sens: plante du pied
 
 \lx mv̩˧bv̩˧ʐv̩˥
 \sf <nb="B"> 1803
@@ -35820,7 +35885,6 @@
 \gn 龙
 \df Dragon.
 \gf dragon
-\dt 03/May/2017
 
 \lx mv̩˧ɕi˥
 \sf <nb="B"> 22
@@ -35844,28 +35908,30 @@
 \gn 火花
 \df Étincelle.
 \gf étincelle
-\dt 19/Jun/2017
+\xv mv̩˧ɕi˥ | gɤ˩-ɬɑ˧ (+ -ze˥)
+\xe Sparks fly.
+\xn 火花四溅、火花飞溅
+\xf Des étincelles jaillissent. xxxx à vérifier: verbe MH, ɬɑ˧˥ ??
 
 \lx mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sf <nb="B"> 10
 \sf <nb="2011"> 20
 \or muxiejjitee
+\et mv̩˧ɕi˥
 \ps n
 \lc mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra" print="n"> …ze˩ (avant 2009: noté /mv̩˧hĩ˥ dʑi˩ʈʰɯ˩/, par erreur) (tons vérifiés) (n'est pas dʑɯ)
-\nt <type="hist" langue="fra" print="n"> sens: “le soleil boit de l'eau". Connaît aussi la périphrase indiquée par F4, mais ne l'emploie pas. Une variante avec montée finale est possible: ɲi˧mi˧dʑi˩ʈʰɯ˩˧.
 \nt <type="sem" langue="fra"> (analyse de l'expression: /mv̩˧ɕi˥/ n'a pas de sens identifiable) (est à la fois nominal, car on peut y ajouter ɖɯ˧-kʰɯ˩, et verbal car on peut y ajouter l'accompli ze˩) (Roselle, 2015: “La Mingqing analyses the morphemes as sky+rain+water+drink".)
 \ton H#-L
 \so <print="n"> F4
 \va <speaker="F5"> ɲi˧mi˧-dʑi˩-ʈʰɯ˩
-\va <speaker="M18"> périphrase: mv̩˧hĩ˥ [ensuite corrigé à tort en mv̩˥hĩ˧, puis restitué en ˧˥] dʑi˩ ʈʰɯ˩˥; hi˩ gi˩ ho˩˥ di˩ mæ˩.
-\vf sens de la périphrase: “le mandarin du ciel est en train de boire; il va pleuvoir"). Variantes, dont: tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥…
-\vf dʑjɤ˩˥: aspect imperfectif; “est en train de"; confirmé; avais d'abord noté dʑo˩˥
+\vf <type="hist" langue="fra" print="n"> sens: “le soleil boit de l'eau". La locutrice connaît aussi la périphrase indiquée par F4, mais ne l'emploie pas. Une variante avec montée finale est possible: |fv{ɲi˧mi˧ dʑi˩ʈʰɯ˩˧}.
+\va <speaker="M18"> mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩˥; hi˩ gi˩ ho˩˥ di˩ mæ˩.
+\vf <type="hist" langue="fra" print="n"> Sens de la périphrase, tel qu'expliqué par le locuteur: “le mandarin du ciel boit de l'eau; il va pleuvoir". Parmi les variations qu'il propose: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
-\pdc <langue="fra"> on peut également dire simplement:
 \de Rainbow.
 \ge rainbow
 \dn 彩虹
@@ -35876,13 +35942,13 @@
 \xe simplified form; same meaning: rainbow
 \xn 同上：彩虹（简化）
 \xf forme simplifiée; même sens: arc-en-ciel
-\dt 25/Apr/2017
 
 \lx mv̩˩ɖæ˧
 \sf <nb="B"> 716
 \sf <nb="2011"> 1080
 \or muddae
 \ps n
+\an gæ˩ɖæ˧
 \lc mv̩˩ɖæ˥
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -35899,12 +35965,13 @@
 \gn 下半身
 \df Le bas du corps.
 \gf bas_du_corps
-\dt 25/Apr/2017
 
 \lx mv̩˧di˧˥
 \sf <nb="B"> 51b
 \sf <nb="2011"> 85
 \or muddi
+\et mv̩˧di˩˥
+\et di˩˥
 \ps n
 \lc mv̩˧di˧˥
 \sn 1
@@ -35926,7 +35993,6 @@
 \gn 天下
 \df La Terre, là où habitent les hommes (par opposition au ciel).
 \gf Terre
-\dt 25/Apr/2017
 
 \lx mv̩˩do˩
 \sf <nb="B"> 1564
@@ -35995,7 +36061,7 @@
 \so <print="n"> F4
 \de Muddee mountain (Yongning).
 \ge Muddee_mountain
-\dn 木地箐（一座山与山上的村落）
+\dn 木地箐／木底箐（一座山与山上的村落）
 \gn 木地箐
 \df La montagne Muddee (Mudiqing, Yongning). Elle était habitée par des Pumi.
 \gf montagne_Muddeeq
@@ -36003,7 +36069,6 @@
 \xe The pass of Mount Muddeeq (Mudiqing), in Yongning
 \xn 木地箐垭口
 \xf Le col de la montagne Muddeeq de Yongning
-\dt 19/Jun/2017
 
 \lx mv̩˧dze˧
 \sf <nb="B"> 1979b
@@ -36087,7 +36152,10 @@
 \gn 后裔
 \df Les descendants, la descendance.
 \gf descendants
-\dt 25/Apr/2017
+\xv mv̩˧-gɤ˥gɤ˩ hĩ˩ (+ =ɻæ˩)
+\xe same meaning: descendants
+\xn 后裔
+\xf idem: les descendants, la descendance
 
 \lx mv̩˧-gɤ˧lɑ˥
 \sf <nb="B"> 660b
@@ -36109,7 +36177,6 @@
 \gn 天宫菩萨
 \df Esprit du ciel, Bodhisattva céleste.
 \gf Bodhisattva_céleste
-\dt 25/Apr/2017
 
 \lx mv̩˧-gv̩˧dv̩˧
 \sf <nb="B"> 176
@@ -36131,7 +36198,22 @@
 \gn 脚背
 \df Partie supérieure du pied.
 \gf partie_supérieure_du_pied
-\dt 25/Apr/2017
+
+\lx lo˩-gv̩˧dv̩˧
+\or logguddu
+\ps n
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\ton L-M
+\lc lo˩gv̩˧dv̩˧
+\so <print="n"> F4
+\pdv ɭɯ˧β
+\de Back of the hand.
+\ge back_of_hand
+\dn 手背
+\gn 手背
+\df Dos de la main.
+\gf dos_de_la_main
 
 \lx mv̩˧gv̩˧-kʰv̩˩
 \hm 1
@@ -36154,7 +36236,6 @@
 \gn 龙年
 \df Année du Dragon.
 \gf année_du_Dragon
-\dt 25/Apr/2017
 
 \lx mv̩˧gv̩˧-kʰv̩˩
 \hm 2
@@ -36198,11 +36279,14 @@
 \xe there is a clap of thunder
 \xn 打雷了
 \xf le tonnerre gronde
+\xv mv̩˧gv̩˧ | ɖɯ˧-ɭɯ˧ gv̩˧
+\xe There is a clap of thunder.
+\xn 打雷了。
+\xf Il y a un coup de tonnerre.
 \xv mv̩˧gv̩˧ lɑ˩
 \xe there is a clap of thunder
 \xn 打雷了
 \xf il y a un coup de tonnerre
-\dt 04/Sep/2015
 
 \lx mv̩˩kʰv̩˧˥
 \sf <nb="B"> 754
@@ -36214,17 +36298,18 @@
 \nt <type="hist" langue="fra" print="n"> (tons vérifiés plusieurs fois)
 \ton LM+MH#
 \lc mv̩˩kʰv̩˧˥
+\cf mv̩˩si˧-njɤ˧˥
+\cf njɤ˧le˧gv̩#˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Evening (starting when it begins to get dark).
+\de Evening (starting when it begins to get dark). One of the three periods of the day: early morning (when the sun rises); daytime (when it's light); evening.
 \ge evening
-\dn 晚上
+\dn 晚上。一天中的三个时段之一：清晨（太阳升起时）；白天（光线充足时）；傍晚。
 \gn 晚上
-\df Soir, soirée (dès 17h, 18h, quand approche la tombée de la nuit).
+\df Soir, soirée (dès 17h, 18h, quand approche la tombée de la nuit). L'une des trois périodes de la journée: tôt le matin (quand le soleil se lève); la journée (quand il fait jour); la soirée.
 \gf soirée
-\dt 04/Sep/2015
 
 \lx mv̩˧kʰv̩˧˥
 \sf <nb="B"> 23
@@ -36311,11 +36396,11 @@
 \gn 女人
 \df Femme.
 \gf femme
-\xv mv̩˧mi˧ so˩tsʰi˩-kʰv̩˩, | qʰo˧mo˥ gi˩ le˩-ʈɤ˩! | ʝi˧=ɻæ˧ qʰv̩˧tsʰi˧-kʰv̩˩, | bɤ˧di˩ lɑ˩ hṽ̩˩ ɖʐæ˩!
-\xe “A woman of thirty must be pulled along like an old cow; a man of sixty stills rides tigers bareback in the land of the Pumi!" This proverb is about ageing in both sexes, with special emphasis on the appeal that they exert on the opposite sex: at thirty, a woman is old; at sixty, a man is still ready for the greatest exploits. The proverb is reported to be used by women, as an ironic (covertly mocking) comment about an ageing man.
-\xn “女人，到三十岁就算是得拉着的老牛。男人，到六十岁还能在普米山上骑老虎！”这个谚语讲男人与女人老化过程，特别描写相互吸引的程度：三十岁女人算是老了，六十岁男人还认为自己有伟大的威力。女人可以用这个谚语隐蔽地嘲弄一个老男人。
-\xf «À trente ans, la femme est déjà comme une vieille vache qu'il faut tirer pour qu'elle avance (=à trente ans, une femme, c'est déjà une vieille); à soixante, l'homme chevauche sur une peau [littéralement: des poils] de tigre au pays des Pumi!» (=pour l'homme, soixante ans c'est un âge qui permet encore les exploits) (Dicton au sujet de la façon dont vieillissent les deux sexes, au plan de l'attirance qu'ils exercent sur l'autre sexe; employé par une femme, peut véhiculer une nuance de moquerie à l'égard d'un homme âgé)
-\dt 04/Sep/2015
+\xv mv̩˧mi˧ so˩tsʰi˩-kʰv̩˩, | qʰo˧mo˥ gi˩ le˩-ʈɤ˩! | ʝi˧=ɻæ˥ | qʰv̩˧tsʰi˧-kʰv̩˩, | bɤ˧di˩ lɑ˩ hṽ̩˩ ɖʐæ˩!
+\xe “A woman of thirty must be pulled along like an old cow; men of sixty still ride red tigers in the land of the Pumi!" This proverb is about ageing in both sexes, with special emphasis on the appeal that they exert on the opposite sex: at thirty, a woman is old; at sixty, a man is still ready for the greatest exploits. The proverb is reported to be occasionally used by women as an ironic (covertly mocking) comment about an ageing beau.
+\xn “女人，到三十岁就算是得拉着的老牛。男人们，到六十岁还在普米山上骑红老虎！”这个谚语讲男人与女人老化过程的不对称，特别描写相互吸引的程度：三十岁女人算是老了，六十岁男人还认为自己有伟大的威力。女人可以用这个谚语隐蔽地嘲弄一个衰老帅哥。
+\xf «À trente ans, la femme est déjà comme une vieille vache qu'il faut tirer pour qu'elle avance (=à trente ans, une femme, c'est déjà une vieille); à soixante, les hommes chevauchent le tigre roux au pays des Pumi!» (=pour l'homme, soixante ans c'est un âge qui permet encore les exploits) (Dicton au sujet de la façon dont vieillissent les deux sexes, au plan de l'attirance qu'ils exercent sur l'autre sexe; employé par une femme, il peut véhiculer une nuance de moquerie à l'égard d'un bellâtre vieillissant.)
+\xc PROVERBE
 
 \lx mv̩˧-mv̩˥-di˩
 \sf <nb="B"> 530b
@@ -36323,6 +36408,7 @@
 \or mu muddi
 \ec <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
 \ps n
+\sy ku˧li#˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (en 2006, avais noté: mv̩˧mv̩˥di˧) (ton: ʈʂʰɯ˧ mv̩˧mv̩˥di˩ɲi˩)
@@ -36371,6 +36457,8 @@
 \nt <type="sem" langue="fra"> (la cuisine pour les humains se fait sur le feu de la pièce principale de la maison)
 \ton LM
 \lc mv̩˩pʰæ˥
+\cf gæ˩pʰæ˧
+\cf dv̩˩pʰæ˧
 \so <print="n"> F4
 \pdv ɭɯ˧β
 \de Kitchen: the room where pig swill is cooked, wine is distilled, and some of the food for people is prepared.
@@ -36412,12 +36500,16 @@
 \xe I have no idea what (s)he has in mind; (s)he keeps forgetting things!
 \xn 不知道（他）在想什么呢！他（一直在）落东西！/ 他一直在丢三落四
 \xf Je ne sais pas à quoi il pense/je ne sais pas ce qu'il a dans la tête: il oublie les choses!/il oublie tout!
-\dt 25/Apr/2017
+\xv ə˧tso˧-lɑ˧ ʂv̩˧ɖv̩˧ F | mɤ˧-do˩! | tso˧~tso˧ F mv̩˩pʰæ˩!
+\xe I have no idea what (s)he has in mind; (s)he keeps forgetting things!
+\xn 不知道（他）在想什么呢！他（一直在）落东西！/ 他一直在丢三落四
+\xf Je ne sais pas à quoi il pense/je ne sais pas ce qu'il a dans la tête: il oublie les choses!/il oublie tout!
 
 \lx mv̩˧qo˩
 \sf <nb="2011"> 3008
 \or mugho
 \ps n
+\sy mo˩kwæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <langue="pumi" type="comp" print="n"> mu55qɑ22
@@ -36435,8 +36527,26 @@
 \xv mv̩˧qo˩-dʑɯ˩
 \xe a liquid prepared from the papaya, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas)
 \xn 用木瓜做的一种汁，用法类似于醋。过去，永宁没有醋，醋是从内地（汉族地区）买来的。
-\xf un liquide préparé à base de papaye, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois)
-\dt 04/Sep/2015
+\xf un liquide préparé à base de papaye, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois (Han))
+
+\lx mo˩kwæ˧
+\sf <nb="2011"> 3008
+\or moguae rrrr
+\bw <langue="cmn"> 木瓜
+\ps n
+\sy mv̩˧qo˩
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton LM
+\lc mo˩kwæ˧
+\so <print="n"> F4
+\pdv ɭɯ˧β
+\de Papaya.
+\ge 木瓜::papaya
+\dn 木瓜
+\gn 木瓜（借词）
+\df Papaye.
+\gf 木瓜::papaye
 
 \lx mv̩˧qʰwæ˩
 \or Mukhuae
@@ -36489,6 +36599,7 @@
 \hm 1
 \or muwua
 \ps n
+\an gɤ˩ʁwɤ˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton LM
@@ -36500,7 +36611,6 @@
 \gn 下游
 \df Cours inférieur, aval.
 \gf cours_inférieur
-\dt 04/Sep/2015
 
 \lx mv̩˩ʁwɤ˧
 \sf <nb="2011"> 3327
@@ -36518,7 +36628,6 @@
 \gn 下村
 \df «le village du bas»: nom courant pour désigner un hameau d'un village, ou un village entier, par exemple le hameau du bas du village de Zhubo.
 \gf le_village_du_bas
-\dt 04/Sep/2015
 
 \lx mv̩˩si˧˥
 \sf <nb="B"> 743
@@ -36553,15 +36662,16 @@
 \nt <type="hist" langue="fra" print="n"> (corrigé en 2009; auparavant, noté: mv̩˩sɯ˧ njɤ˥; tv, n'est pas mv̩˩sɯ˧˥ njɤ˧˥)
 \ton LM+MH#
 \lc mv̩˩si˧njɤ˧˥
+\cf njɤ˧le˧gv̩#˥
+\cf mv̩˩kʰv̩˧˥
 \so <print="n"> F4
 \va <speaker="M18"> mv̩˩sɯ˧ njɤ˥
-\de Early in the morning.
+\de Early in the morning. One of the three periods of the day: early morning (when the sun rises); daytime (when it's light); evening.
 \ge early_morning
-\dn 一大早
+\dn 一大早、清晨。一天中的三个时段之一：清晨（太阳升起时）；白天（光线充足时）；傍晚。
 \gn 一大早
-\df Tôt le matin.
+\df Tôt le matin. L'une des trois périodes de la journée: tôt le matin (quand le soleil se lève); la journée (quand il fait jour); la soirée.
 \gf tôt_le_matin
-\dt 24/Jul/2017
 
 \lx mv̩˩tɑ#˥
 \or muda
@@ -36616,7 +36726,7 @@
 \xv ʈʂʰɯ˧ | mv̩˧ʈʰæ˧-lɑ˩ li˩! | gɤ˧bi˧ mɤ˧-li˩!
 \xe He only looks down, he never glances up! (About someone who constantly sits at his desk, and complains about headaches and a sore neck: the speaker points out that it may be due to a bad posture while at work.)
 \xn 他老低头是往下看，不往上看！（情景：有人经常脖子疼、头疼，阿妈提出，这应该跟工作姿势不对有关：那个人一直坐在办公桌前，低着头）
-\xf Il regarde tout le temps vers le bas! il ne regarde pas vers le haut! (au sujet d'une personne constamment assise à son bureau, et qui se plaint de mots de tête)
+\xf Il regarde tout le temps vers le bas! il ne regarde pas vers le haut! (au sujet d'une personne constamment assise à son bureau, et qui se plaint de maux de tête)
 \dt 04/Sep/2015
 
 \lx mv̩˩tɕi˥
@@ -36725,6 +36835,8 @@
 \sf <nb="2011"> 246
 \or muzhae
 \ps n
+\sy mv̩˩ɖæ˧
+\an gæ˩ɖæ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (d'abord noté mv̩˩ɖʐæ˩˥)
@@ -37357,11 +37469,14 @@
 \xe |fg{red}
 \xn 重叠：吹吹
 \xf |fg{red}
+\xv bv̩˩qʰv̩˩ mv̩˥
+\xe to blow a conch shell
+\xn 吹法螺
+\xf souffler dans une conque
 \xv ʝi˧qʰv̩˧ mv̩˥
 \xe to blow a horn
 \xn 吹号角
 \xf souffler dans une corne
-\dt 25/Apr/2017
 
 \lx mv̩˩α
 \hm 2
@@ -37444,6 +37559,14 @@
 \gn 即将
 \df Aspect/mode: l'événement est imminent: sur le point de se produire.
 \gf |fg{imminence}
+\xv tʰv̩˧ mv̩˧ se˧!
+\xe (S)he will soon be walking!
+\xn 他很快就会走路了！
+\xf Elle/il va bientôt marcher!
+\xv tʰi˧-mv̩˧-dzɯ˧
+\xe |fg{dur} |fg{imminence}to_eat
+\xn |fg{dur} |fg{imminence} 吃
+\xf |fg{dur} |fg{imminence} manger
 \xv ʈʂʰɯ˧ | mv̩˧-dzɯ˧-kwɤ˩-tɕɯ˩!
 \xe Come on, eat it up! / Come on, finish your bowl!
 \xn 你吃完吧！
@@ -37456,7 +37579,7 @@
 \xe (S)he is going to die! I am devastated!
 \xn 他要死了！我很伤心！
 \xf Il/elle va mourir! Je suis au désespoir!
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧ tʰv̩˧ mv̩˧-ʂɯ˧-kwɤ˧tɕɯ˥-lɑ˩…
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧ tʰi˧-mv̩˧-ʂɯ˧-kwɤ˧tɕɯ˥-lɑ˩…
 \xe as this person is going to die soon…
 \xn 因为这个人快要去世……
 \xf du fait que cette personne va mourir très bientôt…
@@ -37465,6 +37588,7 @@
 \xn 马上要吃了！
 \xf [On] va manger tout de suite!
 \xc PHONO
+\xc <langue="fra" type="synt"> Exemple considéré impropre par la locutrice principale.
 \xv mv̩˧-hwæ˧
 \xe about to buy
 \xn 即将买
@@ -37486,7 +37610,6 @@
 \xf puisqu'elle/il est sur le point de frapper…
 \xc PHONO
 \rf M18
-\dt 04/Sep/2015
 
 \lx mv̩˧α
 \sf <nb="B"> 1696
@@ -37552,7 +37675,10 @@
 \xe to clarify, to explain
 \xn 弄明白、讲清楚
 \xf éclaircir, tirer au clair, expliquer
-\dt 25/Apr/2017
+\xv mɤ˧-mv̩˧~mv̩˧, | le˧-mv̩˧~mv̩˧-kʰɯ˩!
+\xe What we don't understand, we need to clarify!
+\xn 不明白的事情，必须弄个水落石出！
+\xf Ce qu'on ne comprend pas, il faut le tirer au clair / c'est à tirer au clair!
 
 \lx nɑ˩˧
 \sf <nb="B"> 254
@@ -40204,21 +40330,22 @@
 \np <langue="fra"> phonétiquement: [njɤ˧le˧gv̩#˥]. The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /ɲi˥/, followed by the ACCOM-PLISHED, /lə-/ (whose phonetic realization [le˧] is regular given the /v/ vowel of the following syllable) and ‘to flow, to go by, to fly (time); to take place, to occur (event)’, /gv/. Under this plausible interpretation, the second syllable is to be analyzed as /lə/, not /le/.
 \ton #H
 \lc njɤ˧le˧gv̩˧
+\cf mv̩˩si˧-njɤ˧˥
+\cf mv̩˩kʰv̩˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Daytime.
+\de Daytime. One of the three periods of the day: early morning (when the sun rises); daytime (when it's light); evening.
 \ge daytime
-\dn 白天、大白天
+\dn 白天、大白天。一天中的三个时段之一：清晨（太阳升起时）；白天（光线充足时）；傍晚。
 \gn 白天
-\df Journée, plein jour.
+\df Journée, plein jour. L'une des trois périodes de la journée: tôt le matin (quand le soleil se lève); la journée (quand il fait jour); la soirée.
 \gf journée
 \xv ɲi˧mi˧-njɤ˩le˩gv̩˩
 \xe daytime
 \xn 白天
 \xf même sens
-\dt 21/Jun/2017
 
 \lx njɤ˩ɭɯ˧
 \sf <nb="B"> 103
@@ -46119,11 +46246,11 @@
 \xe cold water
 \xn 凉水
 \xf eau froide
-\xv qʰæ˧-ɕjæ˧-gv̩˧
+\xv qʰæ˧ ɕjæ˩-ɻæ˩ gv̩˩
 \xe very cold
-\xn 冷得很
-\xf très froid
-\dt 01/Oct/2015
+\xn 冷得很，太冷
+\xf très froid, trop froid, glacial
+\xn <type="hist" langue="fra" print="n"> Avant 2024: noté ‡qʰæ˧-ɕjæ˧-gv̩˧. Dans la prononciation, la syllabe ɻæ˩ est coalescente à la syllabe qui précède, de sorte qu'elle peut facilement échapper à l'attention.
 
 \lx qʰæ˥
 \sf <nb="2011"> 72
@@ -47105,15 +47232,22 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To hide from view.
 \ge to_hide_from_view
 \dn 遮（云遮月）、遮挡
 \gn 遮
 \df Voiler, bloquer (la lumière), cacher au regard.
 \gf voiler/cacher
-\dt 01/Oct/2015
+\sn 3
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\de To close (e.g. a box).
+\ge to_close
+\dn 关上、合上（一个盒子）
+\gn 关上
+\df Voiler, bloquer (la lumière), cacher au regard.
+\gf voiler/cacher
 
 \lx qɑ˩γ
 \sf <nb="2011"> 1269
@@ -47562,6 +47696,10 @@
 \gn 轮子
 \df Roue.
 \gf roue
+\xc mɤ˧ʈʂʰɤ˧-qʰo˧lo˧
+\xe cartwheel
+\xc 马车轮
+\xf roue de charrette
 
 \lx mɑ˩ɳɯ˧-qʰo˥lo˩
 \sf <nb="2011"> 136
@@ -50074,7 +50212,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf peuplier
 \dt 01/Oct/2015
 
-\lx ʁæ˩ɖʐv̩˧ xxxx sans doute ɖʐɻ̩
+\lx ʁæ˩ɖʐɻ̩˧ xxxx sans doute ɖʐɻ̩
 \sf <nb="B"> 1017c
 \sf <nb="2011"> 2482
 \or hraezzhu
@@ -50082,7 +50220,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \et ɖʐɻ̩˩α
 \ps adj
 \ton LM
-\lc ʁæ˩ɖʐv̩˥
+\lc ʁæ˩ɖʐɻ̩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" type="phono" langue="fra" print="n"> D'abord noté /‡æ˩ɖʐv̩˥/, puis /‡ʁæ˩ʐv̩˥/. Corrigé en mai 2008. Vérifié en 2009.
@@ -50627,7 +50765,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \hm 4
 \or hraeq
 \ps adj
-\cf ɖʐv̩˩α1
+\cf ɖʐɻ̩˩α
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \np <langue="fra"> (cf 1017c)
@@ -54887,7 +55025,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \et si˥
 \et mo˩α2
 \ps n
-\an si˧ɖʐv̩#˥
+\an si˧ɖʐɻ̩#˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton L#
@@ -71404,6 +71542,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> lə˧ʈʂʰwæ˩ze˩ (phonétiquement: /læ/), ʈʂʰwæ˩ze˧
 \ton Lα
+\sn 1
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71422,7 +71561,17 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe who has a loose tongue, to talks too much
 \xn 嘴快
 \xf bavard, qui parle sans réfléchir suffisamment
-\dt 27/Apr/2017
+\sn 2
+\de Soon (adverbial use).
+\ge soon
+\dn 很快（副词用法）
+\gn 快、即将
+\df Très vite, bientôt (emploi de type adverbial).
+\gf bientôt
+\xv ʈʂʰwæ˩˥ | hɑ˧ dzɯ˧-bi˧-ze˩!
+\xe We're about to eat! / The meal will be served soon!
+\xn 马上就要吃饭了！
+\xf On va bientôt passer à table!
 
 \lx ʈʂʰwæ˧α
 \sf <nb="B"> 1275
@@ -73806,7 +73955,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xv PHONO
 
 \lx ʐ
-\or rrr
+\or rrrr
 \ps ideophone
 \lc ʐ!
 \sd <langue="fra"> morphosyntaxe
@@ -73820,7 +73969,21 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 轰隆隆！
 \df Bruit de grondement des grosses charges qu'on traîne sur le sol, des moteurs de camions: Brrroum!
 \gf |fg{ideo_Brrroum}!
-\dt 05/Jul/2017
+
+\lx zzz…zzz
+\or rrrr
+\ps ideophone
+\lc zzz…zzz!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so <print="n"> F4
+\de Sound of sawing (typically: sawing wood).
+\ge |fg{ideo_sawing}
+\dn 形声词：锯木头的声音。
+\gn 锯木头声
+\df Bruit de sciage.
+\gf |fg{ideo_sciage}
 
 \lx zɑ˥
 \or ssa
