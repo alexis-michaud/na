@@ -22562,7 +22562,6 @@
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
 \xn 他来吗？/他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？/他能跟上吗？”）
 \xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: “Il suit? / Ca suit?”)
-\xc
 \xv mɤ˧-ʝi˧-ze˧!
 \xe It's going wrong! / Something is going wrong! / We're in for trouble!
 \xn 不好了！不行了！
@@ -23896,7 +23895,6 @@
 \xe (S)he has licked something.
 \xn 他舔了一个东西。
 \xf (elle/il) a léché quelque chose
-\xc
 \xv qʰwɤ˧ jɤ˥
 \xe to lick a bowl (what one does when there is no food left; a beggar licks a bowl for the last bits of food left)
 \xn 舔一个碗（如：乞丐舔碗）
@@ -27527,7 +27525,7 @@
 \xe to steal someone's stuff, to steal someone else's property
 \xn 偷别人的东西
 \xf voler les affaires de quelqu'un
-\xc <type="hist" langue="fra" print="no"> Notation ancienne: /‡hĩ˥ bv̩˥ tso˧~tso˧ kʰv̩˥/, /‡tso˧~tso˧ kʰv̩˥/.
+\xc <type="hist" langue="fra" print="n"> Notation ancienne: /‡hĩ˥ bv̩˥ tso˧~tso˧ kʰv̩˥/, /‡tso˧~tso˧ kʰv̩˥/.
 
 \lx kʰv̩˧bɻ̩˧˥
 \sf <nb="2011"> 609
@@ -30102,12 +30100,10 @@
 \xe ‘bitter tea': herbal tea prepared with leaves of Chinese peony, when there was no tea available; it had medicinal properties
 \xn ‘苦茶’：用白芍药来泡的饮料，没有茶的时候就喝这种‘苦茶’。它有医疗作用，帮助消化。
 \xf ‘thé amer': décoction de feuilles de pivoine blanche de Chine, que l'on buvait lorsqu'il n'y avait pas de thé à la maison; cela possédait des vertus médicinales.
-\xc
 \xv li˩ tɕɤ˧-bi˧! |
 \xe Tea time! / Let's prepare some tea! (Literally ‘boil tea': tea used to be prepared as a decoction, not as an infusion.)
 \xn 煮茶吧！（在过去，茶不是泡在开水中，而是煮在锅里。）
 \xf On va faire du thé! (Le verbe employé est ‘faire bouillir' et non ‘faire infuser': autrefois, le thé était préparé en décoction, non en infusion.)
-\xc
 \xv li˩ ʈʰɯ˩-bi˩˥!
 \xe Let's drink tea! / We're going to drink tea!
 \xn 喝茶吧！
@@ -37269,7 +37265,6 @@
 \xe during the rainy season
 \xn 雨季的时候
 \xf pendant la saison des pluies
-\xc
 \xv mv̩˧ʐe˧-qo˥ ɳɯ˩, | hi˩ gi˩˥!
 \xe Rain only comes with the rainy season! (Context: in the first days of May, a visitor who sees the sky getting cloudy asks whether it is going to rain. Gisso answers that it only begins to rain in earnest with the coming of the rainy season.)
 \xn 雨季的时候，（会）下雨！（情景：五月初，一个人问会不会下雨，给若回答说，雨季来了才会开始大量下雨。）
@@ -39239,7 +39234,6 @@
 \xe to be an object of rumour
 \xn 被人家说三到四
 \xf faire l'objet de rumeurs
-\xc
 \xv hĩ˧-ɲi˩tʰo˩ ɖɯ˩
 \xe to be an object of rumour
 \xn 被人家说三到四
@@ -47037,7 +47031,6 @@
 \xe to defecate
 \xn 拉一泡屎
 \xf faire une crotte
-\xc
 \xv qʰæ˧pɤ˧ tʰi˧-ʂe˧˥
 \xe to defecate
 \xn 拉一泡屎
@@ -47244,7 +47237,6 @@
 \xe peacefully
 \xn 安宁地
 \xf tranquillement
-\xc
 \xv ʈʂʰwɤ˧ | ʈʂʰɯ˧-tɕʰi˧˥, | qʰæ˩ʈv̩˩ɻæ˥ dzɯ˩!
 \xe The evening meal is a meal that one enjoys peacefully! (Explanation: unlike lunch, which is eaten quickly before going back to work, the evening meal is taken in a relaxed setting, enjoying more abundant food than at lunch, and quietly transitioning into rest time.)
 \xn 晚餐这顿，吃得很安静！（说明：中午饭，吃得快然后继续干活。晚餐，吃得很安静，慢慢吃多一点，慢慢进入晚上休息时间。）
@@ -50242,12 +50234,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：跨过了
 \xf |fg{accomp} 〜 |fg{pfv}
-\xc
 \xv kʰi˧mi˧ | le˧-ʁɑ˧
 \xe to cross the main door (into the farm) (striding over the threshold)
 \xn 过大门（过门槛）
 \xf franchir la porte d'entrée de la ferme (on passe le seuil, en marchant; il ne s'agit pas de grimper par-dessus)
-\xc
 \xv kʰi˧mi˧ ʁɑ˧-ze˧
 \xe crossed the main door
 \xn 过了大门
@@ -57806,7 +57796,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe camphor tree: a large evergreen tree
 \xn 樟树
 \xf camphrier, arbre à camphre
-\xc
 \xv æ̃˩ ʂe˥-qo˩, | sɯ˧tsɯ˩ kʰɯ˩!
 \xe When cooking chicken meat [boiling chicken soup], one puts in camphor (among other spices)! / Camphor is one of the spices used when boiling chicken meat!
 \xn （煮）肌肉的时候，往里面放（一点）樟！
@@ -58099,7 +58088,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe Go and die! / May you die! (Imprecation)
 \xn 你去死吧！
 \xf Crève donc! / Crève, charogne! (imprécation/malédiction, qu'on lance sous le coup de la colère)
-\xc
 \xv ʂɯ˧-ze˧! | ʂɯ˧-ze˧!
 \xe We're dead! (Expression of terror on the part of someone who thinks that (s)he is going to die. Context: someone taking a plane for the first time is terrified by the plane's changes of direction, and thinks that the plane is falling to the ground and is going to crash.)
 \xn 死了！死了！（情景：一个人第一次坐飞机，感到飞机飞得不稳定，会坠毁，大家会马上死。）
@@ -63427,7 +63415,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe (She/he) has slapped someone.
 \xn （他）拍打了某人。
 \xf (Elle/il) a donné une tape à quelqu'un.
-\xc
 \xv ʁo˧qʰwɤ˩ ti˩~ti˩
 \xe to knock one's head (when entering the narrow door into the main room, one can easily knock one's head against the top frame)
 \xn 崩头（在进主屋的时候，容易崩头在门框上）
@@ -65374,7 +65361,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to cook tsamba (grilled flour)
 \xn 炒糌粑，制作糌粑
 \xf préparer du tsamba/de la farine grillée
-\xc
 \xv bo˩hɑ˧-tsɑ˧bɤ˥
 \xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
 \xn 用来煮猪食的面粉（玉米面粉）
@@ -78245,12 +78231,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe a saying, a set phrase of the old times
 \xn 一句老话、一个传统的说法
 \xf une expression toute faite du temps jadis, un dicton
-\xc
 \xv ʐwɤ˧mv̩˧-pi˧-mv̩˥ (≈ʐwɤ˧mv̩˧-pi˧mv̩#˥)
 \xe a saying, a set phrase of the old times
 \xn 一句老话、一个传统的说法
 \xf une expression toute faite du temps jadis, un dicton
-\xc
 \xv ʐwɤ˧mv̩˧-pi˧mv̩˧ ɲi˥!
 \xe It's a saying of the old times!
 \xn 是老说法！
@@ -78335,7 +78319,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe (piece of furniture/object) on which one can put things
 \xn 可以摆东西的（家具）
 \xf (meuble/objet) sur lequel on pose des choses
-\xc
 \xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥! |
 \xe Take your stuff for washing! (soap, shampoo, towel…) (Context: someone is going to spend the night in a guest house that has running water.)
 \xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
