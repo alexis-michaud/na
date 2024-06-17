@@ -2245,7 +2245,7 @@
 \xv bæ˧ʁwɤ˧-nɑ˩
 \xe Na (Mosuo) people from Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 \xn 巴瓦摩梭
-\xf Les Na (Mosuo) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
+\xf Les Na (Moso) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 
 \lx bæ˩ʈʂo˥
 \sf <nb="B"> 492
@@ -2428,13 +2428,13 @@
 \xf |fg{dem} 〜 (ton: H# / H$)
 \dt 30/Apr/2017
 
-\lx bæ˩α xxxx
+\lx bæ˩β
 \hm 4
 \or bbae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton Lα
+\ton Lβ
 \lc ɖɯ˧ bæ˩
 \so <print="n"> F4
 \de Self-classifier for harvests.
@@ -2846,7 +2846,6 @@
 \lc bi˩ʁo˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="sem" langue="fra"> définition en mosuo: ɖʐe˧kʰɯ˧di˧˥, objet ds lequel on met l'argent
 \ton LH
 \so <print="n"> F4
 \pdv ɭɯ˧β
@@ -2856,11 +2855,11 @@
 \gn 钱包
 \df Bourse. La bourse était autrefois attachée à la ceinture, sur sa face interne.
 \gf bourse
+\dv ɖʐe˧ kʰɯ˧-di˧˥
 \xv bi˩ʁo˧ tʰi˧-ʂæ˧˥
 \xe to attach (one's) purse (to the belt)
 \xn 系上钱包（在腰上）
 \xf attacher sa bourse (à sa ceinture)
-\dt 24/Apr/2017
 
 \lx bi˩tɑ˩
 \sf <nb="B"> 1553
@@ -3201,7 +3200,7 @@
 \gf |fg{ideo}_Brroum!
 
 \lx ʂwɑ~ʂwɑ~ʂwɑ
-\or shuashuashua
+\or shua-shua-shua
 \ps ideophone
 \lc ʂwɑ.ʂwɑ.ʂwɑ
 \cf ʈʂʰwɑ~ʈʂʰwɑ~ʈʂʰwɑ
@@ -3233,7 +3232,7 @@
 \txtsup Benevolence.180
 
 \lx ʈʂʰwɑ~ʈʂʰwɑ~ʈʂʰwɑ
-\or chuachuachua
+\or chua-chua-chua
 \ps ideophone
 \lc ʈʂʰwɑ.ʈʂʰwɑ.ʈʂʰwɑ
 \cf ʂwɑ~ʂwɑ~ʂwɑ
@@ -4417,7 +4416,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Yak, |fi{Bos grunniens}. The same term is used for wild yaks and domesticated yaks.
 \ge yak
 \dn 牦牛/野牦牛
@@ -5168,7 +5167,7 @@
 \ton L
 \so <print="n"> F4
 \va <speaker="M23"> bv̩˩tsʰe˩tʰɑ˩˧
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Castrated yak.
 \ge castrated_yak
 \dn 阉割过的牦牛
@@ -7676,7 +7675,7 @@
 \va <speaker="F5"> dv̩˩˧
 \vf <type="ton"> LM
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Fox.
 \ge fox
 \dn 狐狸
@@ -9176,7 +9175,7 @@
 \gf sucre
 
 \lx dze˧pʰɻ̩˧˥
-\or zzeipeu rrrr
+\or zzeipeu
 \et dze˥
 \et pʰɻ̩˩α
 \ps n
@@ -10177,7 +10176,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Female water buffalo.
 \ge female_water_buffalo
 \dn 母水牛
@@ -13298,6 +13297,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
+\nt <type="hist" langue="fra" print="n"> Vérifié en 2024: est une rime v̩ et non ɻ̩.
 \lc ɖʐv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -13309,7 +13309,6 @@
 \gn 露水
 \df Rosée.
 \gf rosée
-\dt 27/Aug/2015
 
 \lx ɖʐv̩˥
 \sf <nb="2011"> 282
@@ -13444,7 +13443,6 @@
 \gn 露水
 \df Rosée.
 \gf rosée
-\dt 01/Sep/2015
 
 \lx ɖʐv̩˩ti#˥
 \sf <nb="2011"> 921
@@ -13566,7 +13564,7 @@
 \xf Et si nous prenions une décision, tous les deux?
 
 \lx ɖʐɻ̩˧
-\or zzheuq
+\or zzheu
 \ps v
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -16082,7 +16080,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de He-bear, male bear.
 \ge male_bear
 \dn 公熊
@@ -16131,7 +16129,7 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Bear; she-bear. There is no way to refer unambiguously to a female bear, as the same term is used for bears irrespective of sex.
 \ge bear
 \dn 熊，母熊
@@ -16484,7 +16482,7 @@
 \ton LH
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Livestock. Includes horses, cows, buffalos, sheep, goats…
 \ge livestock
 \dn 牲畜，包括马、牛、水牛、绵羊、山羊……
@@ -22584,7 +22582,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Ox.
 \ge ox
 \dn 牛
@@ -22610,7 +22608,7 @@
 \sd <langue="eng"> animal
 \ton H#
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Black ox.
 \ge black_ox
@@ -22628,7 +22626,7 @@
 \sd <langue="eng"> animal
 \ton MH
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de White ox.
 \ge black_ox
@@ -22646,7 +22644,7 @@
 \sd <langue="eng"> animal
 \ton MH
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Chestnut-coloured ox.
 \ge ox_of_chestnut_colour
@@ -22665,7 +22663,7 @@
 \ton #H
 \so <print="n"> F4
 \va <speaker="M21"> dʑɯ˩ʁo˩ ʝi˩
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Wild ox.
 \ge wild_ox
 \dn 野牛
@@ -22923,7 +22921,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Bull (male).
 \ge bull
 \dn 公牛
@@ -22966,7 +22964,7 @@
 \pdv ɭɯ˧β
 \cf ʐɤ˩qo˩
 \cf ʐɤ˩qo˩-zo˩
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Heifer.
 \ge heifer
 \dn 小牝牛（包括黄牛和小母犏牛）
@@ -23125,7 +23123,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Cow (female).
 \ge cow
 \dn 母牛
@@ -23307,7 +23305,7 @@
 \ton H#
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Yellow cow / beef.
 \ge yellow_cow
@@ -23620,7 +23618,7 @@
 \ton #H
 \lc ʝi˧zo˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv ɭɯ˧β
 \de Calf.
 \ge calf
@@ -23652,7 +23650,7 @@
 \vf confirmé: est ton 1 et pas ton 3 chez ce locuteur
 \va <speaker="M23"> ju˧, ton m1
 \vf confirmé: est ton 1 et pas ton 3 chez ce locuteur
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Sheep.
 \ge sheep
 \dn 绵羊
@@ -23775,7 +23773,7 @@
 \lc jo˧
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Jade.
 \ge jade
 \dn 玉石
@@ -24308,7 +24306,7 @@
 \lc jo˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Ewe.
 \ge ewe
 \dn 母绵羊
@@ -24481,7 +24479,7 @@
 \so <print="n"> F4
 \va <speaker="F4"> jo˧pʰv̩#˥
 \vf <type="ton"> #H
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Male sheep.
 \ge male_sheep
@@ -24543,7 +24541,7 @@
 \lc jo˩ʂwæ˩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Wether (castrated ram, neutered ram).
 \ge wether
 \dn 阉羊
@@ -25707,7 +25705,7 @@
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> Vérifié: initiale vélaire et non uvulaire.
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /ko˧li#˥/
-\nt <type="hist" langue="fra" print="n"> Question 2024: xxxx ne serait-ce pas ku˧ɬi#?
+\nt <type="hist" langue="fra" print="n"> Vérifié en juin 2024: ce n'est pas /ku˧ɬi#/.
 \ton #H
 \lc ku˧li˧
 \so <print="n"> F4
@@ -27052,7 +27050,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Leg.
 \ge leg
 \dn 腿，脚
@@ -27658,7 +27656,7 @@
 
 \lx kʰv̩˧kwæ˧
 \sf <nb="2011"> 3079
-\or kuguae
+\or kugua
 \bw <langue="cmn"> 苦瓜
 \ps n
 \lc kʰv̩˧kwæ˧
@@ -28161,7 +28159,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> dʑi˩hwæ˩tsɯ˧
 \vf cf le mot pour “souris", hwæ˧tsɯ˥
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv v̩˧
 \de Mole shrew.
 \ge mole_shrew
@@ -28687,14 +28685,15 @@
 \xn 教师、老师
 \xf enseignant
 
-\lx kʰo˧pʰv̩˧ xxxx d'après RD, est un V2
+\lx kʰo˧pʰɻ̩˧
 \or kopeu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
-\lc kʰo˧pʰv̩˧
+\lc kʰo˧pʰɻ̩˧
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧/.
+\nt <type="hist" langue="fra" print="n"> Juin 2024: corrigé de /‡pʰv̩˧/ en /pʰɻ̩/, vérification faite à l'instigation de Roselle Dobbs.
 \so <print="n"> F4
 \de Meadow.
 \ge meadow
@@ -28703,14 +28702,15 @@
 \df Pré: soit prairie de plaine, soit prairie d'altitude (alpage).
 \gf pré
 
-\lx kʰo˧pʰv̩˧-mo˧˥ xxxx d'après RD, est un V2
+\lx kʰo˧pʰɻ̩˧-mo˧˥
 \or kopeu moq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton MH#
-\lc kʰo˧pʰv̩˧mo˧˥
+\lc kʰo˧pʰɻ̩˧mo˧˥
 \nt <type="hist" langue="fra" print="n"> Avant 2024: noté /‡kʰwɤ˧pʰv̩˧-mo˧˥/.
+\nt <type="hist" langue="fra" print="n"> Juin 2024: corrigé de /‡pʰv̩˧/ en /pʰɻ̩/, vérification faite à l'instigation de Roselle Dobbs.
 \so <print="n"> F4
 \de Meadow mushroom: a sort of edible mushroom that grows on meadows (not yet identified; perhaps |fi{Agaricus campestris}).
 \ge meadow_mushroom
@@ -28882,7 +28882,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Tiger.
 \ge tiger
 \dn 老虎
@@ -29038,7 +29038,6 @@
 \xe Some dew has appeared; there is some dew
 \xn 结露水了。
 \xf Il y a de la rosée; de la rosée s'est formée
-\dt 04/Sep/2015
 
 \lx ɬɑ˧˥
 \or lhaq
@@ -29048,6 +29047,18 @@
 \ton MH
 \lc ɬɑ˧˥
 \so <print="n"> F4
+\sn 1
+\de To soar, to spring forth.
+\ge to_soar
+\dn 升起、涌出、崛起
+\gn 升起
+\df S'élever, jaillir.
+\gf jaillir
+\xv mv̩˧ɕi˥ | gɤ˩-ɬɑ˧-ze˥
+\xe Sparks fly.
+\xn 火花四溅、火花飞溅
+\xf Des étincelles jaillissent.
+\sn 2
 \de To surpass, to outclass, to outperform.
 \ge to_surpass
 \dn 超越、胜过、超过
@@ -29438,7 +29449,7 @@
 \ton #H
 \lc lɑ˧mi˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Female tiger.
 \ge female_tiger
@@ -29533,7 +29544,7 @@
 \ton #H
 \lc lɑ˧pʰv̩˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv ɭɯ˧β
 \de Male tiger.
 \ge male_tiger
@@ -29684,10 +29695,9 @@
 \df La région na qui entoure le lac Lugu: Zuosuo (actuel Luguhu Zhen), le village de Luoshui, et les autres localités du bord du Lac.
 \gf région_na_autour_du_lac_Lugu
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 从永宁往泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
-\xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
-\dt 24/Apr/2017
+\xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
@@ -30139,7 +30149,7 @@
 \ton L
 \lc ɬi˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv mi˩
 \de Roebuck, hornless river deer.
 \ge roebuck
@@ -30528,15 +30538,14 @@
 \so <print="n"> F4
 \de The name of a Na village, outside the plain of Yongning, close to the Lake.
 \ge village_name
-\dn 泸沽湖附近的一个村落
-\gn 一个村落
-\df Village na, hors de la plaine, proche du Lac.
+\dn 里格：泸沽湖附近的一个村落。经纬度：100.747468,27.728859
+\gn 里格村
+\df Lhigi: village na du bord du Lac.
 \gf nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
-\xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
-\dt 24/Apr/2017
+\xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx ɬi˧mi˧
 \sf <nb="B"> 4a
@@ -30758,7 +30767,7 @@
 \va <speaker="M18"> ɬi˥pi˧
 \vf tons confirmés
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Ear.
 \ge ear
 \dn 耳朵
@@ -31563,7 +31572,7 @@
 \vf tons vérifiés) +ɲi˩ emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
 \va <speaker="M23"> lu˧bv̩˩ʈʂʰɯ˩
 \vf tons vérifiés) emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv v̩˧
 \de Elephant.
 \ge elephant
@@ -31649,7 +31658,7 @@
 \vf sans doute: /y/
 \vf tons: ˩˥? sans doute pas; paraît bien être lo˩dʑju˩˥
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Bracelet.
 \ge bracelet
 \dn 手镯
@@ -32319,7 +32328,7 @@
 \vf mère
 \vf prononciation de TS: plutôt lo˧ kʰwɑ˥, sans la friction; noté aussi: lo˩ kʰwɑ˩˥
 \va <speaker="M21"> lo˩kʰwɤ˥, ton d6
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Arm.
 \ge arm
 \dn 胳膊
@@ -35908,10 +35917,10 @@
 \gn 火花
 \df Étincelle.
 \gf étincelle
-\xv mv̩˧ɕi˥ | gɤ˩-ɬɑ˧ (+ -ze˥)
+\xv mv̩˧ɕi˥ | gɤ˩-ɬɑ˧-ze˥
 \xe Sparks fly.
 \xn 火花四溅、火花飞溅
-\xf Des étincelles jaillissent. xxxx à vérifier: verbe MH, ɬɑ˧˥ ??
+\xf Des étincelles jaillissent.
 
 \lx mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sf <nb="B"> 10
@@ -36513,7 +36522,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <langue="pumi" type="comp" print="n"> mu55qɑ22
-\nt <type="sem" langue="fra"> vérifié: initiale uvulaire et non vélaire
+\nt <type="phono" type="hist" langue="fra" print="n"> Vérifié: initiale uvulaire et non vélaire.
 \ton L#
 \lc mv̩˧qo˩
 \so <print="n"> F4
@@ -36524,14 +36533,31 @@
 \gn 木瓜
 \df Papaye.
 \gf papaye
-\xv mv̩˧qo˩-dʑɯ˩
-\xe a liquid prepared from the papaya, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas)
-\xn 用木瓜做的一种汁，用法类似于醋。过去，永宁没有醋，醋是从内地（汉族地区）买来的。
-\xf un liquide préparé à base de papaye, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois (Han))
+
+\lx mv̩˧qo˩-dʑɯ˩
+\or mughojji
+\et mv̩˧qo˩
+\et dʑɯ˩
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L#-
+\lc mv̩˧qo˩dʑɯ˩
+\so <print="n"> F4
+\pdv kɤ˩α
+\de A liquid prepared from the papaya, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas).
+\ge papaya_juice
+\dn 用木瓜制成的一种汁，用法类似于醋。相当于醋木瓜
+\gn 木瓜
+\df Un liquide préparé à base de papaye, servant d'équivalent de vinaigre. (Le vinaigre a été introduit tardivement; il était acheté en pays chinois (Han)).
+\gf jus_de_papaye
+
+\xn 用木瓜做的一种汁，过去，永宁没有醋，醋是从内地（汉族地区）买来的。
+\xf
 
 \lx mo˩kwæ˧
 \sf <nb="2011"> 3008
-\or moguae rrrr
+\or moguae
 \bw <langue="cmn"> 木瓜
 \ps n
 \sy mv̩˧qo˩
@@ -36556,17 +36582,16 @@
 \ton L#
 \lc mv̩˧qʰwæ˩
 \so <print="n"> F4
-\de The name of a village outside the plain of Yongning, close to the Lake.
-\ge village_name
-\dn 木垮：村落名
+\de Mukhuae: the name of a Na village at the northern edge of the Lake.
+\ge Mukhuae
+\dn 木垮：村落名，在泸沽湖北端。经纬度：100.813272,27.751565
 \gn 木垮（村落名）
-\df Village na hors de la plaine de Yongning, vers le Lac.
-\gf nom_de_village
+\df Mukhuae: village na à la pointe nord du Lac.
+\gf Mukhuae
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
-\xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
-\dt 04/Sep/2015
+\xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx mv̩˧ʁo˥$
 \sf <nb="B"> 1b
@@ -36891,11 +36916,13 @@
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra" print="n"> (avant 2009, noté: mv̩˧tsʰɯ˧ko˩) (vérifié: n'est pas /tsʰɯ/)
 \ton #H
+\sy tsʰi#˥
 \lc mv̩˧tsʰi˧
 \so <print="n"> F4
 \va <speaker="M18"> mv̩˧tsʰɯ˧, mv̩˧tsʰɯ˧ko˩
 \va <speaker="M21"> mv̩˧tsʰv̩˧ku˩
 \vf vérifié: n'est pas /ɯ/
+\pdv tsʰi˥α
 \de Dry season (winter and spring: from the 9th lunar month to the 2nd lunar month).
 \ge dry_season
 \dn 旱季（冬天与春天：农历九月到二月）
@@ -36906,7 +36933,23 @@
 \xe during the dry season
 \xn 旱季的时候
 \xf durant la saison sèche
-\dt 25/Apr/2017
+
+\lx tsʰi˥α
+\hm 2
+\or cee rrrr
+\ps clf
+\lc ɖɯ˧ tsʰi˥
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\nt <type="hist" langue="fra" print="n"> Ajouté en 2024, à l'occasion de la révision du dictionnaire.
+\ton Hα
+\so <print="n"> F4
+\de Classifier for seasons.
+\ge |fg{clf}.seasons
+\dn 量词：季节
+\gn 量词.季
+\df Classificateur des saisons.
+\gf |fg{clf}.saisons
 
 \lx mv̩˩tsʰo˩
 \sf <nb="B"> 499b
@@ -36945,6 +36988,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰwɤ˥
+\pdv ɭɯ˧β
 \de Chin.
 \ge chin
 \dn 下巴
@@ -36969,7 +37013,7 @@
 \ge water_striders
 \dn 水黽
 \gn 水黽
-\df Araignée d'eau, |fi{Gerridae}.
+\df Araignée d'eau, |fi{Gerridae}. yyyy identification à revoir: est un insecte d'environ 5 cm, gris-noir.
 \gf araignée_d_eau
 
 \lx mv̩˧tsɯ˧˥
@@ -37021,7 +37065,6 @@
 \gn 臼
 \df Mortier.
 \gf mortier
-\dt 04/Sep/2015
 
 \lx mv̩˧ʈʂv̩˥
 \sf <nb="B"> 944
@@ -37170,11 +37213,14 @@
 \gn 独生女
 \df Fille unique.
 \gf fille_unique
+\xv mv̩˩tv̩˩˥ | ɖɯ˧-v̩˧ dʑo˩!
+\xe (She) has an only daughter!
+\xn 她有一个独生女！
+\xf (elle) a une fille unique!
 \xv mv̩˩tv̩˩˥ | ɖɯ˧-v̩˧-lɑ˧ dʑo˧˥!
 \xe (She) just has an only daughter!
 \xn 她只有一个独生女！
 \xf (elle) n'a qu'une fille unique!
-\dt 25/Apr/2017
 
 \lx mv̩˧tʰv̩˧˥
 \sf <nb="B"> 500
@@ -37191,6 +37237,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv qɑ˩
+\pdv tʰv̩˩β
 \de Torch.
 \ge torch
 \dn 火把
@@ -37288,27 +37335,6 @@
 \xf fusil des Tibétains
 \rf M21
 
-\lx mv̩˧ʑi˩
-\or muxxi
-\ps n
-\lc mv̩˧ʑi˩
-\sd <langue="fra"> abstrait
-\sd <langue="eng"> abstract
-\ton L#
-\so <print="n"> F4
-\pdv kʰwɤ˥
-\de News, gossip.
-\ge news/gossip
-\dn 消息、闲话、八卦
-\gn 信息/八卦
-\df Nouvelle, ragot, information, histoire.
-\gf nouvelle
-\xv mv̩˧ʑi˩ | ɖɯ˧-kʰwɤ˥
-\xe a piece of gossip
-\xn 一个八卦
-\xf une nouvelle, un ragot, une information
-\dt 25/Apr/2017
-
 \lx mv̩˩zo˩
 \sf <nb="B"> 266
 \sf <nb="2011"> 346
@@ -37344,14 +37370,60 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton L
+\nt <type="hist" langue="fra" print="n">Avant 2024: interprété à tort comme “fille adoptive”.
+\so <print="n"> F4
+\de Daughter. The expression emphasises the fact that it is a child that one has brought up oneself.
+\ge daughter
+\dn 女孩，女婴。这一词强调了这是一个亲手带大的孩子。
+\gn 女孩
+\df Fille, enfant de sexe féminin. L'expression souligne le fait qu'il s'agit d'un enfant qu'on a élevé soi-même.
+\gf fille
+
+\lx zo˧mæ˥ xxxx ton
+\or ssomae rrrr
+\ps n
+\lc zo˧mæ˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton H#
+\so <print="n"> F4
+\de Adopted son.
+\ge adopted_son
+\dn 领养的儿子、养子、义子。
+\gn 义子
+\df Fils adoptif.
+\gf fils_adoptif
+\xv zo˧mæ˥ ʂe˩
+\xe to adopt a son
+\xn 收养义子
+\xf adopter un fils
+\xv zo˧mæ˥-mv̩˩mæ˩ ʂe˩
+\xe to adopt children
+\xn 收养孩子
+\xf prendre des enfants adoptifs, adopter des enfants
+
+\lx mv˩mæ˥ xxxx ton
+\or ssomae rrrr
+\ps n
+\lc mv˩mæ˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton LM? LH? xxxx
 \so <print="n"> F4
 \de Adopted daughter.
 \ge adopted_daughter
-\dn 义女
+\dn 领养的女孩、养女、义女。
 \gn 义女
 \df Fille adoptive.
 \gf fille_adoptive
-\dt 04/Sep/2015
+\xv mv˩mæ˥ ʂe˩
+\xe to adopt a daughter
+\xn 收养义女
+\xf adopter une fille
+\xv zo˧mæ˥-mv̩˩mæ˩ ʂe˩
+\xe to adopt children
+\xn 收养孩子
+\xf prendre des enfants adoptifs, adopter des enfants
 
 \lx mv̩˩zo˩-ə˩mi˥
 \or musso ami
@@ -37378,22 +37450,29 @@
 \lc mv̩˩zɯ˩˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" langue="fra" print="n"> (homophone avec “avoine")
+\nt <type="hist" type="phono" langue="fra" print="n"> (homophone avec “avoine")
 \nt <type="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: †ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
 \ton L
 \so <print="n"> F4
 \pdv v̩˧
-\de Brothers.
+\de Brothers (term used by sisters).
 \ge brothers
 \dn 兄弟（哥哥们与弟弟们）
 \gn 兄弟
-\df Frères (aînés ou cadets).
+\df Frères (aînés ou cadets); terme employé par les sœurs.
 \gf frères
 \xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
 \xe He is |fv{nɑ˧dʑi˧}'s brother!
 \xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
 \xf il est frère de |fv{nɑ˧dʑi˧}!
-\dt 25/Apr/2017
+\xv no˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ | ə˩-dʑo˩˥?
+\xe Do you have brothers?
+\xn 你有兄弟吗？
+\xf Tu as des frères?
+\xv ‡no˧ | mv̩˩zɯ˩˥ | ə˩-dʑo˩˥?
+\xe Ungrammatical sentence. Intended meaning: “Do you have brothers?”
+\xn 病句：不能这样问“你有兄弟吗？”
+\xf Énoncé incorrect. Sens visé: «Tu as des frères?»
 
 \lx mv̩˩zɯ˩
 \sf <nb="B"> 1986
@@ -38001,6 +38080,7 @@
 \or nagua
 \ps n
 \lc nɑ˩kwɤ˥
+\lc tɕi˧kwɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> vérifié en 2011: initiale vélaire et non uvulaire
@@ -38008,17 +38088,17 @@
 \so <print="n"> F4
 \vf emprunt
 \pdv ɭɯ˧β
-\de Pumpkin; cushaw.
+\de Pumpkin; cushaw. Recently introduced to Yongning, where only small gourds were found in the past: |fv{tɕi˧kwɤ˧}, used when preparing pigswill.
 \ge 南瓜::pumpkin
-\dn 南瓜
+\dn 南瓜（最近才传入到永宁）。
 \gn 南瓜
-\df Potiron.
+\df Potiron. Culture introduite à date récente à Yongning, où n'existaient que de petites courges, |fv{tɕi˧kwɤ˧}, utilisées pour l'alimentation des porcs.
 \gf 南瓜::potiron
-\dt 25/Apr/2017
 
 \lx nɑ˩mi#˥
 \or Nami
 \ps n
+\sy nɑ˩mv̩˧
 \lc nɑ˩mi˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -38030,7 +38110,26 @@
 \gn 摩梭女人
 \df Une femme Na.
 \gf femme_Na
-\dt 21/Jun/2017
+
+\lx nɑ˩mv̩˧ xxxx ou LH? essayer avec =bv
+\or Namu rrrr
+\ps n
+\sy nɑ˩mi#˥
+\lc nɑ˩mv̩˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton LM
+\so <print="n"> F4
+\de Na woman.
+\ge Na_woman
+\dn 摩梭女人
+\gn 摩梭女人
+\df Une femme Na.
+\gf femme_Na
+\xv nɑ˩zo˧-nɑ˥mv̩˩
+\xe Na men and women; the Mosuo
+\xn 摩梭男人与摩梭女人，摩梭人
+\xf Les hommes et les femmes na; les Moso
 
 \lx nɑ˧mi#˥
 \or nami
@@ -38053,11 +38152,10 @@
 \xn 现在是艰苦的时候！ / 现在很贫困！
 \xf Misère! / Des difficultés surviennent, on rencontre des difficultés; on est dans une période difficile
 \xv õ˧-nɑ˧mi˥, õ˩ ʂe˩!
-\xe One is the author of one's own miseries! (Referring to someone who has made unnecessary trouble for herself/himself)
-\xn 自己艰苦，是自己找的！（来指一个人给自己添麻烦了）
-\xf On est responsable de ses propres malheurs! / On est l'artisan de ses propres misères! (Formule proverbiale qu'on emploie quand on observe des gens qui se créent des difficultés qui nous paraissent bien inutiles: par exemple en organisant un divertissement qui tourne au fiasco.)
+\xe One is responsible for one's own misfortunes / One is the architect of one's own miseries! (A proverbial expression used when observing people who, by not listening to the good advice they are given, create difficulties for themselves that seem quite unnecessary: for example, by organizing a party that turns into a fiasco.)
+\xn 一个人是自己不幸的制造者！／自己艰苦，是自己找的！这是一句俗语，当看到一些人不听别人的好建议，给自己制造了看似没有必要的困难：例如，组织一场娱乐活动，结果却弄巧成拙。
+\xf On est responsable de ses propres malheurs! / On est l'artisan de ses propres misères! (Formule proverbiale qu'on emploie quand on observe des gens qui, n'écoutant pas les bons conseils qui leur sont dispensés, se créent des difficultés qui nous paraissent bien inutiles: par exemple en organisant un divertissement qui tourne au fiasco.)
 \xc PROVERBE
-\dt 25/Apr/2017
 
 \lx nɑ˩mv̩˥-nɑ˩dzi˩dzi˩
 \sf <nb="2011"> 1137
@@ -38197,7 +38295,10 @@
 \gn 摩梭男人
 \df Un homme Na.
 \gf homme_Na
-\dt 21/Jun/2017
+\xv nɑ˩zo˧-nɑ˥mv̩˩
+\xe Na men and women; the Mosuo
+\xn 摩梭男人与摩梭女人，摩梭人
+\xf Les hommes et les femmes na; les Moso
 
 \lx nɑ˩-ʐwɤ˥
 \sf <nb="B"> 638b
@@ -38262,7 +38363,7 @@
 \gn 暗暗
 \df En cachette, furtivement.
 \gf en_cachette
-\xv nɑ˧nɑ˥ | le˧-li˧ le˧-do˧ |
+\xv nɑ˧nɑ˥ | le˧-li˧ le˧-do˩ |
 \xe to see (someone) for whom one was secretly on the lookout
 \xn 偷偷地看见
 \xf apercevoir (quelqu'un) qu'on guettait en cachette
@@ -38946,7 +39047,11 @@
 \xe She is |fv{/ʈæ˧ʂɯ˧/}’s sister.
 \xn 她是达石的姐姐（或妹妹）
 \xf Elle est sœur de |fv{/ʈæ˧ʂɯ˧/}.
-\dt 09/Sep/2015
+\xv no˧ | ni˧mi˧ | ə˩-dʑo˩˥?
+\xe Do you have sisters?
+\xn 你有姐妹吗？
+\xf Tu as des sœurs?
+\xc <langue="fra" type="synt"> Il n'est pas possible d'ajouter /|fv{ʝi}/+/|fv{-hĩ˧}/, à la différence de la question «Tu as des frères?».
 
 \lx ɲi˧nɑ˩
 \sf <nb="B"> 2051
@@ -39078,21 +39183,20 @@
 \ton L#
 \lc ɲi˧se˩
 \so <print="n"> F4
-\de The name of a village.
-\ge village_name
-\dn 小落水（村落名）。经纬度：100.76822,27.74253
+\de Nisei, the name of a Na village on the shore of Lugu Lake.
+\ge Nisei
+\dn 小落水、摩梭名字：尼赛（村落名）。经纬度：100.76822,27.74253
 \gn 小落水（村落名）
-\df Un village du bord du Lac.
-\gf nom_de_village
+\df Nisei, un village na du bord du Lac.
+\gf Nisei
 \xv ɲi˧se˩, | nɑ˩-lɑ˧ ɲi˥!
 \xe Nhissei is a thoroughly Na village! / Na is populated entirely by Na people!
 \xn 小落水，是纯摩梭的一个村落！
 \xf Nhissei, c'est un village entièrement Na!
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
-\xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
-\dt 09/Sep/2015
+\xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx ɲi˧to˧
 \sf <nb="2011"> 178
@@ -39802,11 +39906,10 @@
 \gn 我们两个
 \df Pronom de première personne duelle exclusive: nous deux (le locuteur et une autre personne qui n'est pas l'interlocuteur).
 \gf |fg{1du}
-\xv ɑ˩ʁo˧(-hĩ˧) | njæ˧zɯ˩ ho˩-dʑo˩!
+\xv ɑ˩ʁo˧(-hĩ˧) | njæ˧=zɯ˩ ho˩-dʑo˩!
 \xe (We cannot stay any longer because) our family is waiting for us!
 \xn （我们两个不能再呆在这里了，）家里在等我们！
 \xf (On ne peut pas rester car) les gens de la famille nous attendent!
-\dt 09/Sep/2015
 
 \lx njo˩˥
 \sf <nb="B"> 150
@@ -39976,7 +40079,10 @@
 \xe When something (e.g. a book) is torn, (we) glue it together!
 \xn 东西撕破了，粘在一起（就好了）
 \xf (pour un livre, par ex.) Quand un truc est déchiré, on le recolle!
-\dt 09/Sep/2015
+\xv tʰi˧-njɤ˩~njɤ˩
+\xe |fg{dur} 〜 |fg{red}: to glue
+\xn 持续体 〜 重叠：粘一粘
+\xf |fg{dur} 〜 |fg{red}: coller
 
 \lx njɤ˧˥
 \sf <nb="B"> 992
@@ -40107,13 +40213,13 @@
 \va <speaker="M18"> njɤ˩ bi˩˥
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdv pʰo˧˥α
 \de Eyelid (top eyelid).
 \ge top_eyelid
 \dn 上眼皮
 \gn 上眼皮
 \df Paupière supérieure.
 \gf paupière_supérieure
-\dt 09/Sep/2015
 
 \lx njo˧bi˧li˥
 \sf <nb="B"> 132
@@ -40197,6 +40303,7 @@
 \lc njɤ˧hṽ̩˩
 \so <print="n"> F5
 \pdv qɑ˩
+\pdv kʰɤ˧˥
 \de A plant used as fodder for the pigs.
 \ge pig_fodder
 \dn 灰条菜、灰灰菜：喂猪的牧草
@@ -40256,6 +40363,7 @@
 \lc njɤ˧kv̩˩
 \so <print="n"> F4
 \pdv ɭɯ˧β
+\pdv kʰwɤ˥
 \de Cheekbone.
 \ge cheekbone
 \dn 颧骨
@@ -41845,26 +41953,30 @@
 \xc <langue="fra"> avais d'abord pensé que cela signifiait “son propre nom, sa propre terre"; en fait, cela provient du disyllabe |fv{/mv̩˧di˧˥/} ‘terres'.
 \xc s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
-\xe No matter how beautiful other people's places are, they can never be equal to one's own homeland!
-\xn 其他人的地方怎么好，也比不过自己的地方！金窝银窝，都不如自己的狗窝。wwwww
+\xe “East or west, home is the best.” No matter how beautiful other people's places are, they can never be equal to one's own homeland!
+\xn “金窝银窝，不如自家的狗窝。”其他人的地方怎么好，也比不过自己的地方！
 \xf Si belles soient les terres d'autrui, elles n'auront jamais la beauté de ses propres terres / de la terre natale!
 \xc PROVERBE
-\xv õ˧-ə˧mv̩˥ / õ˧-ə˥mv̩˩ / õ˧-ə˧mv̩˧˥
+\xv õ˧-ə˧mv̩˥ ≈ õ˧-ə˥mv̩˩ ≈ õ˧-ə˧mv̩˧˥
 \xe one's own elder (brother or sister)
 \xn 自家姐姐（或哥哥）
 \xf son propre aîné (frère ou sœur)
-\xc <langue="fra"> trois variantes tonales
-\xv õ˧-ə˧v̩˥ / õ˧-ə˥v̩˩
+\xc <type="ton" langue="fra"> trois variantes tonales
+\xv õ˧-ə˧v̩˥ ≈ õ˧-ə˥v̩˩
 \xe one's own maternal uncle
 \xn 自家舅舅（母亲的兄弟）
 \xf son propre oncle
-\xc <langue="fra"> deux variantes tonales
-\xv õ˧-ʐɤ˥mi˩, õ˩ ɲi˩! | / õ˧-ʐɤ˥mi˩, õ˩ ʂe˩-bi˩! | /
-\xe One's path, that is one's identity / one's destiny! / The path you choose is your destiny!
-\xn 自己的道路，就是自己！/ 每个人有自己的命运！
+\xc <type="ton" langue="fra"> deux variantes tonales
+\xv õ˧-ʐɤ˥mi˩, õ˩ ɲi˩!
+\xe One's path, that is one's identity / one's destiny!
+\xn 自己的道路，就是自己！
 \xf Chacun a son chemin! / Chacun vit sa vie! / À chacun sa destinée!
 \xc PROVERBE
-\dt 29/Jul/2016
+\xv õ˧-ʐɤ˥mi˩, õ˩ ʂe˩-bi˩!
+\xe The path you choose is your destiny!
+\xn 每个人创造自己的命运！
+\xf Chacun choisit son chemin! / À chacun de chercher sa destinée!
+\xc PROVERBE
 
 \lx õ˧dɤ˧ɻ̩˧
 \or ondde'er
@@ -43955,7 +44067,7 @@
 \vf <type="ton"> #H
 \va <speaker="M21"> pu˧lu˧, ton d1 = idem ju˧tu˧kɑ˧
 \va <speaker="M23"> ju˧tu˧kɑ˧ +ɲi˥ “mouton - mâle"
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Ram.
 \ge ram
 \dn 公绵羊
@@ -45561,7 +45673,7 @@
 \ton H#
 \lc pʰv̩˧tv̩˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male water buffalo.
 \ge male_water_buffalo
 \dn 公水牛
@@ -45716,6 +45828,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
+\nt <type="hist" langue="fra" print="n"> Roselle Dobbs signalant une rime ɻ̩ et non v̩ pour ce morphème, une vérification est effectuée le 14/06/2024. Il est confirmé que la rime est bien v̩ (la même rime que dans ‘mâle’).
 \ton Lβ
 \lc ɖɯ˧ pʰv̩˩
 \np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
@@ -45730,7 +45843,7 @@
 \xv lv̩˧ | ɖɯ˧-pʰv̩˩
 \xe a field
 \xn 一块田
-\xf un champ; une parcelle xxxx RD: a une voyelle V2 yyyy vérifié le 14 juin: est bien la même voyelle que dans 'mâle'
+\xf un champ; une parcelle
 
 \lx qæ˩˥
 \sf <nb="B"> 393
@@ -47750,7 +47863,7 @@
 \ton H#
 \lc qʰo˧mo˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Old cow (which does not give milk anymore).
 \ge old_cow
 \dn 老牛（不产奶了）
@@ -49267,7 +49380,7 @@
 \ton M
 \lc qʰwɤ˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Tracks (left by an animal); spoor.
 \ge tracks
 \dn 痕迹
@@ -49513,7 +49626,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Horseshoe.
 \ge horseshoe
 \dn 马蹄铁
@@ -50212,7 +50325,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf peuplier
 \dt 01/Oct/2015
 
-\lx ʁæ˩ɖʐɻ̩˧ xxxx sans doute ɖʐɻ̩
+\lx ʁæ˩ɖʐɻ̩˧
 \sf <nb="B"> 1017c
 \sf <nb="2011"> 2482
 \or hraezzhu
@@ -53855,7 +53968,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc se˧
 \so <print="n"> F4
 \va <speaker="M21"> se˧, ton m2
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Himalayan goral (|fi{Naemorhedus goral}), blue sheep.
 \ge goral
 \dn 岩羊
@@ -58771,7 +58884,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LH
 \lc tʰɑ˩˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Water buffalo (monosyllabic form, extracted from disyllables such as |fv{tʰɑ˩mi#˥} ‘female buffalo').
 \ge water_buffalo
 \dn 水牛
@@ -58968,17 +59081,16 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> place name
 \ton L#
 \so <print="n"> F4
-\de Dazzee, a Na village down below Nisei, upward from Lataddi.
+\de Dazzee, a Na village down below Nisei, upward from Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
 \ge Dazzee
-\dn 村落名
-\gn 村落名
+\dn 大祖（达祖）：村落名（2024年：四川省凉山彝族自治州盐源县泸沽湖镇大咀）。经纬度：100.797867,27.744246
+\gn 大咀
 \df Dazzee, village na en contrebas de Nisei, en contrehaut de Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
 \gf Dazzee
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
-\xe Villages that one passes when moving away from the Yongning plain, towards Lugu Lake. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 永宁到泸沽湖所经过的村落，依次是：里格、尼赛、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
-\xf Villages dans l'ordre, après la plaine de Yongning, ne comptant pas comme faisant partie de Yongning. Le dernier, |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
-\dt 23/Jun/2017
+\xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx tɑ˩ɖʐo˧dzi˧˥
 \or dazzhozzee
@@ -59322,7 +59434,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc tʰɑ˩mi˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Female water buffalo.
 \ge female_water_buffalo
 \dn 母水牛
@@ -59682,7 +59794,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LM+#H
 \lc tʰɑ˩pʰv̩˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male water buffalo.
 \ge male_water_buffalo
 \dn 公水牛
@@ -60087,7 +60199,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton L-M
 \lc tʰɑ˩ʐwæ˧mi˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Donkey, ass (either jack or jenny or foal).
 \ge donkey
 \dn 驴子
@@ -60418,7 +60530,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe pickled turnip leaves
 \xn 圆根叶子酸菜
 \xf feuilles de navet conservées dans la saumure
-\xv tsʰɑ˧-tɕæ˧ɻæ˥ xxxx
+\xv tsʰɑ˧-tɕæ˧ɻæ˥
+\xe picked celery (the word |fv{tsʰɑ˧} is a Chinese loanword: |fn{菜})
+\xn 芹菜酸菜（|fv{tsʰɑ˧}这个词是汉语借词：菜)
+\xf céleri en saumure (le mot |fv{tsʰɑ˧} est un emprunt au chinois |fn{菜})
+\xv tsʰɑ˧nɑ˥-tɕæ˩ɻæ˩
+\xe picked celery
+\xn 芹菜酸菜
+\xf céleri en saumure
 \xv ɬi˩bi˩-tɕæ˩ɻæ˥
 \xe pickled turnip
 \xn 圆根酸菜
@@ -60758,11 +60877,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Melon, gourd.
+\de Melon, gourd. Used when preparing pigswill, not for human consumption.
 \ge melon/gourd
-\dn 瓜
+\dn 瓜。用于准备猪食，不供人食用。
 \gn 瓜
-\df Courge (inclut les courgettes).
+\df Courge (inclut les courgettes). Peu savoureuses, elles sont utilisées exclusivement pour l'alimentation des porcs et de la volaille.
 \gf courge
 \xv tɕi˧kwɤ˧ bv̩˧-ɻ̩˧ (+ɲi˩)
 \xe small melon
@@ -60772,7 +60891,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe large melon
 \xn 大瓜
 \xf grosse courge
-\dt 23/Jun/2017
 
 \lx tɕʰi˧nɑ˥
 \sf <nb="2011"> 3305
@@ -62066,7 +62184,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton LH
 \so <print="n"> F4
 \va <speaker="M18"> tɕʰi˩˥
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Muntjac, barking deer.
 \ge muntjac
 \dn 麂子
@@ -63903,7 +64021,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv mi˩
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male dog.
 \ge male_dog
 \dn 公狗
@@ -65087,7 +65205,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton MH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Deer, red deer, |fi{Cervus elaphus kansuensis}.
 \ge deer
 \dn 马鹿
@@ -65450,7 +65568,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H$
 \lc ʈʂʰæ˧mi˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Doe, hind.
 \ge doe
 \dn 母马鹿
@@ -65490,7 +65608,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F4"> ʈʂʰæ˧nɑ˥-mi˩
 \vf <type="ton"> H#-
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Black stag: a legendary species, which only spirits are able to hunt down.
 \ge black_stag
 \dn 黑鹿
@@ -65596,7 +65714,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʈʂʰæ˧pʰv̩˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male deer.
 \ge male_deer
 \dn 公马鹿
@@ -67782,7 +67900,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 辣
 \df Piquant, pimenté.
 \gf pimenté
-\xv ʈʂʰɯ˧ tsi˧-hĩ˧ ɲi˥!
+\xv ʈʂʰɯ˧ | tsi˧-hĩ˧ ɲi˥!
 \xe It's spicy!
 \xn 这是辣的！
 \xf c'est piquant/c'est pimenté!
@@ -67795,14 +67913,15 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 2009: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tons vérifiés) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; M18 corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
+\nt <type="hist" langue="fra" print="n"> Avant 2009: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/ mais /tsʰi˩/.
+\nt <type="hist" langue="fra" print="n"> /dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩!/ (tons vérifiés) Ce n'est qu'en 2024 qu'est restituée la syllabe réduite: /dʑɤ˧˥ | tsʰi˩-njæ˩-ɻæ˥ | -gv̩˩/.
+\nt <type="hist" langue="fra" print="n"> Notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; M18 corrige en: /tsʰɯ˧njæ˧njæ˥ gv̩˧/.
 \ton Lα
 \lc tsʰi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> tsʰv̩˩˧, ton 3 ; donne: tsʰv̩˩ nju˩ ɻæ˧ gv̩˩
-\vf refuse les autres formules
+\va <speaker="M21"> tsʰv̩˩˥
 \de Fine, thin.
 \ge fine
 \dn 细（树、体型细小）
@@ -67818,13 +67937,18 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe very thin
 \xn 非常细
 \xf très fin
-\xv dʑɤ˧˥ | tsʰi˩-njæ˩˥ | -gv̩˩!
+\xv dʑɤ˧˥ | tsʰi˩-njæ˩-ɻæ˥ | -gv̩˩!
 \xe It is really thin!
 \xn 真细！
 \xf C'est vraiment fin!
-\dt 08/Oct/2015
+\xv tsʰv̩˩ nju˩ ɻæ˧ gv̩˩
+\xe It is really thin!
+\xn 真细！
+\xf C'est vraiment fin!
+\rf M21
 
 \lx tsʰi˥α
+\hm 1
 \or cee
 \ps clf
 \sd <langue="fra"> classificateur
@@ -67869,7 +67993,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 旱季
 \df Saison sèche (hiver et printemps; du 9e mois au 2e mois du calendrier lunaire compris).
 \gf saison_sèche
-\dt 07/Oct/2015
 
 \lx tsɤ˧
 \sf <nb="B"> 1133b
@@ -69883,7 +70006,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Goat (male or female).
 \ge goat
 \dn 山羊
@@ -70163,7 +70286,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˧ tu˧kɑ˥ “chèvre - mâle"
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male goat; also used to refer to a young male goat, or even to goats in general, male and female.
 \ge male_goat
 \dn 公山羊（包括公山羊羔）（可以来指所有的山羊，包括母的和公的）
@@ -70182,7 +70305,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \nt <type="hist" langue="fra" print="n"> (vérifié en 2009)
 \ton H$
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Nanny goat.
 \ge nanny_goat
 \dn 母山羊
@@ -70308,7 +70431,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Billy goat.
 \ge billy_goat
 \dn 公山羊
@@ -70486,7 +70609,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Wether (castrated goat, neutered goat).
 \ge wether
 \dn 阉山羊
@@ -70525,7 +70648,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton H#
 \lc tsʰɯ˧to˧qɑ˥
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Kid (baby goat).
 \ge kid
 \dn 羔羊、羔子
@@ -73955,7 +74078,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xv PHONO
 
 \lx ʐ
-\or rrrr
+\or r-r-r
 \ps ideophone
 \lc ʐ!
 \sd <langue="fra"> morphosyntaxe
@@ -73971,7 +74094,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf |fg{ideo_Brrroum}!
 
 \lx zzz…zzz
-\or rrrr
+\or ss-ss-ss
 \ps ideophone
 \lc zzz…zzz!
 \sd <langue="fra"> morphosyntaxe
@@ -74019,7 +74142,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Leopard, panther (note: these two terms are homonymous in English).
 \ge leopard
 \dn 豹子
@@ -74131,7 +74254,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \ton M
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \pdv v̩˧
 \de Barrow, castrated male pig, neutered pig.
 \ge castrated_pig
@@ -74149,7 +74272,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Female leopard.
 \ge female_leopard
 \dn 母豹子
@@ -74186,7 +74309,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="eng"> animal
 \ton LM
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Male leopard.
 \ge male_leopard
 \dn 公豹子
@@ -74766,7 +74889,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton #H
 \lc ʐe˧v̩˧
 \so <print="n"> F4
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Castrated ox, neutered ox, steer.
 \ge castrated_ox
 \dn 阉牛
@@ -76025,7 +76148,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton -L
 \lc tsɤ˧ɖɯ˧mɤ˧kv̩˩hĩ˩
 \pdv mi˩
-\pdv pʰo˧˥
+\pdv pʰo˧˥α
 \de Infertile, sterile. The phrase is used for the pianniu (hybrid of yak and cattle), which is infertile.
 \ge infertile/pianniu
 \dn “不能生育的”。来指犏牛（牦牛和牛的杂交种）：犏牛是一种不能生育的动物。
@@ -76168,7 +76291,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf sur ce vêtement il y a un motif
 \rf F5
 
-\lx zo˧ʐɤ#˥
+\lx zo˧ʐɤ#˥ xxxx sans doute: sens: garçon qu'on a élevé soi-même.
 \or ssore
 \et zo˥
 \et ʐɤ˧β
@@ -76933,14 +77056,18 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 蛇
 \df Serpent.
 \gf serpent
+\xv ʐv̩˧bæ˧-ɣɯ˩
+\xe snake skin
+\xn 蛇皮
+\xf peau de serpent
 \xv ʐv̩˧bæ˧ ɣɯ˩ pʰv̩˩
-\xe The snake sheds skin / exuviates
+\xe The snake sheds skin / exuviates.
 \xn 蛇蜕皮
-\xf Le serpent mue
-\xv ʐv̩˧bæ˧-ɣɯ˩kɯ˩ xxxx à confirmer
-\xe snake skin? skin shed by the snake?
-\xn 蛇蜕皮? 蛇皮??
-\xf peau de serpent ? mue de serpent ?
+\xf Le serpent mue.
+\xv ʐv̩˧bæ˧-ɣɯ˩kɯ˩
+\xe Snake molt (skin shed by the snake), snake skin. The Na, who did not use snakeskin, did not make a clear distinction between snake molt and snakeskin, both of which were equally useless.
+\xn 蛇蜕，蛇皮。不使用蛇皮的摩梭人，并没有明确区分蛇蜕和蛇皮，两者同样无用。
+\xf Mue de serpent, peau de serpent. Les Na, n'utilisant pas la peau de serpent, ne distinguaient pas clairement entre mue de serpent et peau de serpent, aussi inutiles l'une que l'autre.
 
 \lx ʐv̩˧bæ˧-bv̩˧-hɑ#˥
 \sf <nb="2011"> 3349
@@ -76954,7 +77081,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> xxxx Serait-ce la même plante que /ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥/? réponse : non
+\nt <type="hist" langue="fra" print="n"> Il ne s'agit pas de la même plante que /|fv{ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥}/.
 \ton #H
 \lc ʐv̩˧bæ˧bv̩˧hɑ˧
 \so <print="n"> F4
