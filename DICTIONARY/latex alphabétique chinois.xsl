@@ -52,7 +52,9 @@
 \RenewDocumentCommand \vedette { m } {\pnru{\textbf{#1}}}
 \RenewDocumentEnvironment {définitions} { } {\unskip\enskip\pdéf{►}}{}
 \RenewDocumentEnvironment {variantes} {} {\enskip\pdéf{(}\ignorespaces} {\unskip\pdéf{)}\ignorespacesafterend}
+\NewDocumentEnvironment {références} {} {\pdéf{(}\ignorespaces} {\unskip\pdéf{)}\ignorespacesafterend}
 \RenewDocumentEnvironment {usages} {} {\unskip\pcmn{【用法】}} {\ignorespacesafterend}
+\RenewDocumentEnvironment {classificateurs} {} {\unskip\pcmn{【量词】}} {\ignorespacesafterend}
 \RenewDocumentEnvironment {étymologie} {} {\unskip\pcmn{【词源】}}{\ignorespacesafterend}
 \NewDocumentCommand \formedesurface { m } {\enskip\pdéf{/}\pnru{#1}\pdéf{/}}
 \NewDocumentCommand \orthographe { m } {\enskip\papi{#1}}
@@ -60,8 +62,9 @@
 \RenewDocumentCommand \partiedudiscours { m } {\pcmn{\textcolor{<xsl:value-of select="$couleurpartiedudiscours"/>}{#1}}}
 \RenewDocumentCommand \variante { m m } {\locuteur{#2} : \pnru{#1}}
 \NewDocumentCommand \locuteur { m } {\pdéf{\textcolor{<xsl:value-of select="$couleurlocuteur"/>}{#1}}}
-\NewDocumentCommand \référence { m } {(\locuteur{#1})}
-\RenewDocumentCommand \classificateur { m m } {\pcmn{【量词】}#1#2}
+\NewDocumentCommand \référence { m } {\locuteur{#1}}
+\RenewDocumentCommand \usage { m } {\unskip\pcmn{#1}}
+\RenewDocumentCommand \classificateur { m m } {#1#2}
 \RenewDocumentCommand \champclassificateur { m } {（#1）}
 \RenewDocumentCommand \formeclassificateur { m } {\pnru{#1}}
 \RenewDocumentCommand \relationsémantique { m m } {\unskip\pcmn{【#1】}\pnru{#2}}
@@ -88,17 +91,17 @@
 
 \deuxièmepage{
     titre = {\pcmn{<xsl:value-of select="InformationsGénérales/Titre"/>}},
-    auteur = {<xsl:value-of select="InformationsGénérales/Auteur"/>},
-    codesource = {\url{https://gitlab.com/BenjaminGalliot/JLexika/-/tree/maîtresse/exemples/japhug}},
-    ISBNnumérique = 978-2-490768-15-8,
-    ISBNpapier = 978-2-490768-14-1,
-    datedépôt = {09/2022},
-    dateimpression = {09/2023},
+    auteur = {\pcmn{米可} (Alexis Michaud, {\small CNRS UMR 7107 LACITO}) et \pcmn{拉它米打史拉么} (Latami Daeshi Lamu)},
+    codesource = {\url{https://gitlab.com/BenjaminGalliot/Lexika/-/tree/maîtresse/exemples/japhug}},
+    ISBNnumérique = xxx,
+    ISBNpapier = yyy,
+    datedépôt = {mm/aaaa},
+    dateimpression = {mm/aaaa},
     numéro = {3},
     polices = {
         \begin{itemize}
             \item script~latin :~EB~Garamond~12\\\url{https://github.com/octaviopardo/EBGaramond12} ;
-            \item script~CJC~(chinois-japonais-coréen) :~\pcmn{方正新楷体} ;
+            \item script~CJCV~(chinois-japonais-coréen-vietnamien) :~\pcmn{华文楷体}\\\url{https://sinotype.vcg.com} ;
             \item API :~Gentium~Plus\\\url{https://software.sil.org/gentium}.
         \end{itemize}
     }
@@ -287,12 +290,14 @@
 </xsl:template>
 
 <xsl:template match="Note">
-    <xsl:text>&#10;</xsl:text>
-    <xsl:text>\note{</xsl:text>
-    <xsl:apply-templates select="Type"/>
-    <xsl:text>}{</xsl:text>
-    <xsl:apply-templates select="Texte"/>
-    <xsl:text>}</xsl:text>
+    <xsl:if test="Texte[not(@print = 'n')]">
+        <xsl:text>&#10;</xsl:text>
+        <xsl:text>\note{</xsl:text>
+        <xsl:apply-templates select="Type"/>
+        <xsl:text>}{</xsl:text>
+        <xsl:apply-templates select="Texte"/>
+        <xsl:text>}</xsl:text>
+    </xsl:if>
 </xsl:template>
 
 <xsl:template match="Note[Texte = 'PHONO' or Texte = 'PROVERBE']">
@@ -408,7 +413,13 @@
 </xsl:template>
 
 <xsl:template match="Exemples">
-    <xsl:apply-templates select="Exemple"/>
+    <xsl:for-each select="Exemple">
+        <xsl:apply-templates select="."/>
+        <xsl:if test="not(position() = last())">
+            <xsl:text>&#10;</xsl:text>
+            <xsl:text>\unskip{}\,\ignorespaces</xsl:text>
+        </xsl:if>
+    </xsl:for-each>
 </xsl:template>
 
 <xsl:template match="Exemple">
@@ -417,7 +428,7 @@
     <xsl:apply-templates select="Notes/Note[Texte = 'PHONO' or Texte = 'PROVERBE']"/>
     <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates select="Original"/>
-    <xsl:apply-templates select="Référence"/>
+    <xsl:apply-templates select="Références"/>
     <xsl:text>&#10;</xsl:text>
     <xsl:for-each select="Traduction">
         <xsl:sort select="index-of(('cmn', 'eng', 'fra'), @langue)"/>
@@ -433,13 +444,23 @@
     <xsl:text>\end{exemple}</xsl:text>
 </xsl:template>
 
-<xsl:template match="Référence">
+<xsl:template match="Références">
     <xsl:text>&#10;</xsl:text>
-    <xsl:text>\référence{</xsl:text>
-    <xsl:call-template name="remplacer_locuteur">
-        <xsl:with-param name="expression" select="."/>
-    </xsl:call-template>
-    <xsl:text>}</xsl:text>
+    <xsl:text>\begin{références}</xsl:text>
+    <xsl:text>&#10;</xsl:text>
+    <xsl:for-each select="Référence">
+        <!-- <xsl:sort select="."/> -->
+        <xsl:text>\référence{</xsl:text>
+        <xsl:call-template name="remplacer_locuteur">
+            <xsl:with-param name="expression" select="."/>
+        </xsl:call-template>
+        <xsl:text>}</xsl:text>
+        <xsl:if test="not(position() = last())">
+            <xsl:text>, </xsl:text>
+        </xsl:if>
+    </xsl:for-each>
+    <xsl:text>&#10;</xsl:text>
+    <xsl:text>\end{références}</xsl:text>
 </xsl:template>
 
 <xsl:template match="InformationsEncyclopédiques">
@@ -470,13 +491,11 @@
 
 <xsl:template match="Usage">
     <xsl:text>&#10;</xsl:text>
-    <xsl:text>\begin{usage}</xsl:text>
-    <xsl:text>&#10;</xsl:text>
-    <xsl:for-each select="Original|Traduction">
-        <xsl:apply-templates select="."/>
-        <xsl:text>&#10;</xsl:text>
-    </xsl:for-each>
-    <xsl:text>\end{usage}</xsl:text>
+    <xsl:text>\usage{</xsl:text>
+    <xsl:call-template name="traduire">
+        <xsl:with-param name="expression" select="."/>
+    </xsl:call-template>
+    <xsl:text>}</xsl:text>
 </xsl:template>
 
 <xsl:template match="Original">
@@ -573,6 +592,10 @@
     <xsl:text>}</xsl:text>
 </xsl:template>
 
+<xsl:template match="Texte">
+    <xsl:call-template name="adapter_langue"/>
+</xsl:template>
+
 <xsl:template match="lien">
     <xsl:text>&#10;</xsl:text>
     <xsl:text>\lien{</xsl:text>
@@ -616,7 +639,7 @@
 
 <xsl:template name="convertir_caractères_spéciaux">
     <xsl:param name="expression" select="."/>
-    <xsl:value-of select="replace(replace($expression, '[#$_]', '\\$0'), '[~〜]', '\\textasciitilde{}')"/>
+    <xsl:value-of select="replace(replace(replace($expression, '[#$_]', '\\$0'), '~', '\\textasciitilde{}'), '[〜∼]', '\\sim{}')"/>
 </xsl:template>
 
 <xsl:template name="adapter_langue">
