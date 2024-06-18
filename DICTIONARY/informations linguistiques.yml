@@ -125,6 +125,15 @@ balises:
                 valeur: cible 2
                 traitement: code linguistique
 
+    # Balises liées aux usages.
+    ue:
+        abstractions:
+          - nom: usage
+            caractéristiques:
+              - nom: langue
+                valeur: cible 1
+                traitement: code linguistique
+
     # Balises liées aux classificateurs.
     pdv:
         abstractions:
@@ -207,8 +216,8 @@ abstractions:
         descendants:
           - nom: exemple [1]
           - nom: traduction d’exemple
-          - nom: notes d’exemple
-          - nom: référence d’exemple [1]
+          - nom: notes d’exemple [1]
+          - nom: références d’exemple [1]
 
     notes d’exemple:
         entité:
@@ -230,3 +239,25 @@ abstractions:
     note d’exemple:
         entité:
             nom: texte
+
+    références d’exemple:
+        entité:
+            nom: références
+        descendants:
+          - nom: référence d’exemple
+
+    référence d’exemple:
+        entité:
+            nom: référence
+
+    liste d’usages:
+        entité:
+            nom: usages
+        descendants:
+          - nom: usage  # ≠
+
+    bloc d’usage: ~
+
+    usage:
+        entité:
+            nom: usage  # ≠
