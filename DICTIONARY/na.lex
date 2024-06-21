@@ -1369,7 +1369,7 @@
 \nt <type="hist" langue="fra" print="n"> (idem 146, cou)
 \ton H#-L
 \lc æ˧tsɯ˥pɤ˩lv̩˩
-\cf pɤ˩lv̩˩
+\cf pɤ˩lv̩˧
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
@@ -6093,25 +6093,26 @@
 \xn 这是香的（气味香）。
 \xf Ça sent bon.
 
-\lx ɕjɤ˩jo˩ yyyy est læ gɻæisse de l'ouɻs!
+\lx ɕjɤ˩jo˩
 \sf <nb="B"> 1964
 \sf <nb="2011"> 2984
 \or xeyo
 \ps n
-\cf pi˩mv̩˥
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
+\sd <langue="fra"> médecine
+\sd <langue="eng"> medicine
 \ton L
 \lc ɕjɤ˩jo˩˥
+\nt <type="hist" langue="fra" print="n"> Avant juin 2024: interprété par erreur comme le nom d'une plante, |fi{Fritillaria cirrhosa} (贝母)
+\nt <type="ton" langue="fra"> L'expression définissant le terme en langue na, |fv{gi˧-nɑ˧mi˧=bv̩˧ | mɤ˧}, a un comportement tonal régulier. Un nom au ton #H suivi du possessif donne une séquence M...M (d'où |fv{gi˧-nɑ˧mi˧=bv̩˧}). Un nom au ton L formant un groupe tonal à lui seul porte un ton M (d'où |fv{mɤ˧}).
 \so <print="n"> F4
 \pdv ɭɯ˧β
-\de |fi{Fritillaria cirrhosa}.
-\ge Fritillaria cirrhosa
-\dn 贝母
-\gn 贝母
-\df |fi{Fritillaria cirrhosa}.
-\gf Fritillaria cirrhosa
-\dv gi˧-nɑ˧mi˧=bv̩˧ | mɤ˧ yyyyy
+\de Bear grease.
+\ge bear_grease
+\dn 熊油（熊油是一种中药材，为黑熊的脂肪油）。
+\gn 熊油
+\df Graisse d'ours.
+\gf graisse_d_ours
+\dv gi˧-nɑ˧mi˧=bv̩˧ | mɤ˧
 
 \lx ɕjo˩li#˥
 \sf <nb="B"> 653
@@ -6399,7 +6400,6 @@
 \xe to build a house
 \xn 修建‘依咪’、建房
 \xf construire une maison
-\dt 27/Aug/2015
 
 \lx dɑ˧˥
 \sf <nb="B"> 2242
@@ -8866,8 +8866,10 @@
 \xe She thought she was going to die; she was afraid! (About a woman seated in the car of a driver who wanted to impress her by driving at break-neck speed.)
 \xn 她以为她会死的，她很害怕！（情景：一个女人做很自信的男人的车，他为了显示自己作为开车高手的本事，开得过分快。）
 \xf Elle a cru qu'elle allait mourir; elle a eu grand peur! (Au sujet d'une femme à bord du véhicule d'un conducteur qui, soucieux de faire de l'effet, roulait à tombeau ouvert.)
-
-\dt 24/Apr/2017
+\xv ʈʂʰɯ˧ | ɖwæ˩ ʝi˧-ɻ̩˥.
+\xe She's anxious, she's scared (about a young girl facing a school entrance exam).
+\xn 她焦虑，她害怕（关于一个面临入高中考试的年轻女孩）。
+\xf Elle a le trac, elle est anxieuse, elle a peur. (Au sujet d'une jeune fille devant affronter un examen d'entrée au lycée.)
 
 \lx ɖwæ˥α
 \or dduae
@@ -24421,7 +24423,7 @@
 \xn 油米村人
 \xf Les gens du hameau de Youmi.
 \xv jo˧mv̩˧ hĩ˧, | nɑ˩hĩ˧-ʐwɤ˧ kv̩˥!
-\xe The people of Youmi speak Naxi!
+\xe The people of the hamlet of Youmi speak Naxi!
 \xn 油米村人讲的是纳西语！
 \xf Les gens du hameau de Youmi parlent naxi!
 
@@ -24979,21 +24981,21 @@
 \df Gonds (d'une porte).
 \gf gonds
 
-\lx qi˧li˥-qi˩tɑ˧
-\or ghili-ghida
+\lx ki˧li˥-ki˩tɑ˧
+\or ghili-ghida rrrr
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra" print="n"> avant 2013: noté /†ki˧li˥-qɑ˩dɑ˧˥/, avec pour ton: H#-LM+#H
-\nt <type="hist" langue="fra" print="n"> avant 2024: noté /†ki˧li˥/, avec initiale vélaire
+\nt <type="hist" langue="fra" print="n"> avant 2024: noté /†ki˧li˥/, avec initiale vélaire; puis rétabli l'initiale vélaire le 21 juin 2024
 \ton H#
-\lc ki˧li˥
+\lc ki˧li˥ki˩tɑ˧
 \so <print="n"> F4
 \de In a mess.
 \ge in_a_mess
 \dn 乱七八糟
 \gn 乱七八糟
-\df En désordre (formulation expressive, quasi-onomatopéique).
+\df En désordre (formulation expressive, quasi-onomatopéique); de qualité inégale (au sujet de biscuits, bonbons...).
 \gf en_désordre
 
 \lx ki˩mi˩
@@ -28575,19 +28577,21 @@
 
 \lx kwæ˩pæ˧
 \or guaebae
+\bw <lang="cmn"> 刮板
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton LM
 \lc kwæ˩pæ˧
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> Avant 2024, le terme avait été interprété (à tort) comme une sorte de herse, pour aplanir les champs. Il s'agit en fait d'un instrument utilisé pour aplanir grossièrement les routes et chemins.
 \pdv nɑ˧α
-\de Instrument for making a road level: yyyy on 'tire' la terre pour aplanir.
-\ge yyyy
-\dn yyyy pensais que c'était: 耙（可能是汉语借词。原来借来的词：刮板?? 刮耙??）
-\gn 耙
-\df Herse en bois (vraisemblablement un emprunt au chinois; terme emprunté: pas identifié avec certitude).
-\gf herse
+\de Scraper-plank: a tool for levelling dirt roads. In Na, this term, borrowed from the Chinese |fn{刮板} ‘scraper’ (which today refers more to a plasterer's knife), designates a plank of wood that was pulled with ropes to level the ground, for example to smoothe out a dirt road, at a time when tractors and steamrollers were not available.
+\ge 刮板::scraper_plank
+\dn “刮板”：平整土路的工具。在摩梭话中，向汉语借来的“刮板”这个词指的是用绳索拉动的木板，用来平整土地，例如平整土路（当时还没有拖拉机和压路机）。
+\gn “刮板”
+\df Planche-racloir: en na, ce terme emprunté du chinois ‘râcloir’ (qui aujourd'hui désigne plutôt le couteau de plâtrier), désigne une planche de bois que l'on tirait avec des cordes de façon à niveler le terrain, par exemple pour égaliser une route de terre, à une époque où on ne disposait pas de tracteur ni de rouleau compresseur.
+\gf 刮板::planche-racloir
 \dv ʈʂe˧ ʈɤ˩-di˩
 
 \lx kʰwæ˧ɻæ#˥
@@ -30168,10 +30172,6 @@
 \gn 茶
 \df Thé.
 \gf thé
-\xv li˩qʰɑ˩
-\xe ‘bitter tea': herbal tea prepared with leaves of Chinese peony, when there was no tea available; it had medicinal properties
-\xn ‘苦茶’：用白芍药来泡的饮料，没有茶的时候就喝这种‘苦茶’。它有医疗作用，帮助消化。
-\xf ‘thé amer': décoction de feuilles de pivoine blanche de Chine, que l'on buvait lorsqu'il n'y avait pas de thé à la maison; cela possédait des vertus médicinales.
 \xv li˩ tɕɤ˧-bi˧! |
 \xe Tea time! / Let's prepare some tea! (Literally ‘boil tea': tea used to be prepared as a decoction, not as an infusion.)
 \xn 煮茶吧！（在过去，茶不是泡在开水中，而是煮在锅里。）
@@ -30180,7 +30180,48 @@
 \xe Let's drink tea! / We're going to drink tea!
 \xn 喝茶吧！
 \xf On va boire du thé! / Prenons du thé!
-\dt 02/May/2017
+
+\lx li˩qʰɑ˩
+\or likha rrrr
+\et li˩˥
+\et qʰɑ˥
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L
+\lc li˩qʰɑ˩˥
+\cf si˧kʰɯ˧-ɭɯ˧bv̩˥
+\so <print="n"> F4
+\pdv qʰwɤ˧˥
+\pdc <langue="fra"> bol
+\de ‘Bitter tea': herbal tea prepared with leaves of Chinese peony, when there was no tea available. It has medicinal properties.
+\ge bitter_tea
+\dn ‘苦茶’：用白芍药来泡的饮料，没有茶的时候就喝这种‘苦茶’。它有医疗作用，帮助消化。
+\gn 苦茶
+\df ‘Thé amer': décoction de feuilles de pivoine blanche de Chine, que l'on buvait lorsqu'il n'y avait pas de thé à la maison. Cette boisson possède des vertus médicinales.
+\gf thé_amer
+
+\lx bæ˧li˥
+\or bbaeli rrrr
+\bw <langue="nxq"> mbæ˧le˥
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton H#
+\lc bæ˧li˥
+\so <print="n"> F4
+\pdv qʰwɤ˧˥
+\pdc <langue="fra"> bol
+\de Sweetened tea.
+\ge sweetened_tea
+\dn 甜茶
+\gn 甜茶
+\df Thé sucré.
+\gf thé_sucré
+\xv “bæ˧li˥”, | nɑ˩hĩ˧-ʐwɤ˧ ɲi˥!
+\xe “|fv{bæ˧li˥}” [a Naxi word for sweetened tea] is a Naxi word! / It's in the Naxi language!
+\xn “|fv{bæ˧li˥}”[纳西语词语：‘甜茶’]，是纳西语！
+\xf “|fv{bæ˧li˥}” [mot naxi désignant le thé sucré], c'est un mot naxi! / C'est du naxi!
 
 \lx ɬi˩
 \hm 1
@@ -30238,7 +30279,7 @@
 \lc ɬi˧˥
 \so <print="n"> F4
 \va <speaker="M21"> li˧˥
-\vf <langue="fra" type="phono"> Le locuteur prononce |fv{l} et non |fv{ɬ}. Toutefois, l'une des occurrences est réalisée avec |fv{ɬ}, peut-être par imitation de ma prononciation.
+\vf <type="phono"> Le locuteur prononce |fv{l} et non |fv{ɬ}. Toutefois, l'une des occurrences est réalisée avec |fv{ɬ}, peut-être par imitation de ma prononciation.
 \de To dry in the sun.
 \ge to_dry_in_the_sun
 \dn 晒干
@@ -31624,7 +31665,7 @@
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
 \or lobbuchi
-\bw <langue="bod"> yyyy
+\bw <langue="bod"> གླང་ཆེན།
 \ps n
 \lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
@@ -31834,13 +31875,13 @@
 \va <speaker="M21"> lo˩ gv̩˧dv̩˧
 \vf ɲi˩
 \pdv kʰwɤ˥
+\pdv ɭɯ˧β
 \de Back of the hand.
-\ge back_of_the_hand
+\ge back_of_hand
 \dn 手背
 \gn 手背
 \df Dos de la main.
 \gf dos_de_la_main
-\dt 24/Apr/2017
 
 \lx lo˧hɑ˧
 \sf <nb="B"> 1026
@@ -34486,6 +34527,10 @@
 \xe |fg{red} |fg{inceptive}
 \xn 重叠：推、拥挤
 \xf |fg{red} |fg{inchoatif}
+\xv ɖɯ˩-tɕo˧ mi˧˥, | ʈʂʰɯ˧-tɕo˧ mi˧˥
+\xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
+\xn 东推西挤
+\xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (ex.: à la gare, quand il y a presse pour acheter un billet de train)
 
 \lx mi˩β
 \sf <nb="B"> 2185
@@ -35757,7 +35802,7 @@
 \xn “人死都是一样，办事不一样！”、“人死都是一样，但葬礼不一样！”字面意思是“一个人的死亡只有一个名字（=只有一种）；[而]火葬仪式有十种可能的名字（=有各种各样的）”。这句谚语反映了摩梭话社会对火葬仪式的重视，火葬仪式要隆重（举行厚葬），不能有任何遗漏。要让人铭记在心。火葬要请大批僧侣，要有周围村庄很多人参加，否则人家会认为该家庭勉强度日，没有注意培养应有的社会关系。
 \xf «La mort est la même pour tout le monde, mais pas les funérailles!» Littéralement: «La mort de quelqu'un, il n'y a qu'un nom (pour la désigner) = il n'y en a qu'une sorte; la cérémonie de crémation, il y a dix noms (pour la désigner) = il y en a diverses sortes (plus ou moins fastueuses)!» Ce proverbe souligne l'importance que la société accorde à une cérémonie de crémation en grande pompe, à laquelle rien ne manque, et qui reste dans les mémoires. Si la crémation se fait en relativement petit comité, sans y associer un nombre important de moines, et sans un grand concours de gens des villages environnants, c'est interprété comme un signe que la famille vivote vaille que vaille et ne prend pas soin de cultiver ses relations comme il se doit (au sein du clan et au-delà).
 \xc PROVERBE
-\xc <type="hist" langue="fra" print="n"> Vérifier à nouveau qu'il s'agit bien du mot pour 'nom', qui est au ton M. ɖɯ˧-mv̩˧: 一个名气，一台事情? yyyy réponse: oui, c'est bien le mot 'nom'.
+\xc <type="hist" langue="fra" print="n"> Vérifié en juin 2024: ce proverbe est bien à sa place dans l'entrée 'nom'. Tel est bien le terme employé deux fois dans le proverbe. /ɖɯ˧-mv̩˧/: on pourrait envisager de distinguer un sens 'renommée', 名气.
 
 \lx mv̩˧
 \sf <nb="2011"> 3358
@@ -36281,22 +36326,6 @@
 \gn 脚背
 \df Partie supérieure du pied.
 \gf partie_supérieure_du_pied
-
-\lx lo˩-gv̩˧dv̩˧
-\or logguddu
-\ps n
-\sd <langue="fra"> corps
-\sd <langue="eng"> body
-\ton L-M
-\lc lo˩gv̩˧dv̩˧
-\so <print="n"> F4
-\pdv ɭɯ˧β
-\de Back of the hand.
-\ge back_of_hand
-\dn 手背
-\gn 手背
-\df Dos de la main.
-\gf dos_de_la_main
 
 \lx mv̩˧gv̩˧-kʰv̩˩
 \hm 1
@@ -36962,6 +36991,7 @@
 \sd <langue="eng"> ethnic groups
 \ton MH#
 \lc mv̩˧ʈʂæ˧˥
+\cf mv̩˧1
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -38119,15 +38149,39 @@
 \xe the Naxi costume, Naxi garments
 \xn 纳西族服装
 \xf vêtements naxi, costume naxi
-\xv nɑ˩hĩ˧-ʐwɤ˧ so˥
-\xe to study the Naxi language
-\xn 学纳西语
-\xf apprendre la langue naxi
 \xv nɑ˩hĩ˧-tʰæ˧ɻæ˥
 \xe Naxi books
 \xn 纳西族的书
 \xf livres naxi
-\dt 25/Apr/2017
+
+\lx \xv nɑ˩hĩ˧-ʐwɤ˧˥
+\or Nahinrua
+\et nɑ˩hĩ#˥
+\et ʐwɤ˩β
+\ps n
+\lc nɑ˩hĩ˧ʐwɤ˧˥
+\sd <langue="fra"> ethnies
+\sd <langue="eng"> ethnic groups
+\ton LM+MH#
+\so <print="n"> F4
+\de The Naxi language.
+\ge Naxi_language
+\dn 纳西语
+\gn 纳西语
+\df la langue naxi.
+\gf langue_naxi
+\xv nɑ˩hĩ˧-ʐwɤ˧ so˥
+\xe to study the Naxi language
+\xn 学纳西语
+\xf apprendre la langue naxi
+\xv “bæ˧li˥”, | nɑ˩hĩ˧-ʐwɤ˧ ɲi˥!
+\xe “|fv{bæ˧li˥}” [a Naxi word for sweetened tea] is a Naxi word! / It's in the Naxi language!
+\xn “|fv{bæ˧li˥}”[纳西语词语：‘甜茶’]，是纳西语！
+\xf “|fv{bæ˧li˥}” [mot naxi désignant le thé sucré], c'est un mot naxi! / C'est du naxi!
+\xv jo˧mv̩˧ hĩ˧, | nɑ˩hĩ˧-ʐwɤ˧ kv̩˥!
+\xe The people of the hamlet of Youmi speak Naxi!
+\xn 油米村人讲的是纳西语！
+\xf Les gens du hameau de Youmi parlent naxi!
 
 \lx ŋæ˧ʝi˩
 \or ngaeyi
@@ -38153,7 +38207,7 @@
 \or nagua
 \ps n
 \lc nɑ˩kwɤ˥
-\lc tɕi˧kwɤ˧
+\cf tɕi˧kwɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> vérifié en 2011: initiale vélaire et non uvulaire
@@ -40864,23 +40918,33 @@
 
 \lx no˩qo˥
 \or nogho
+\et -qo˧
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton LH
 \lc no˩qo˥
+\nt <type="hist" langue="fra" print="n"> Avant 2024: interprété comme "À proximité de, à côté de", ……附近.
+\nt <type="sem" langue="fra"> La première syllabe pourrait provenir du morphème |fv{-no˧˥}.
 \so <print="n"> F4
-\de Close to, next to.
-\ge close_to
-\dn ……附近
-\gn ……附近
-\df yyyy dans À proximité de, à côté de.
-\gf à_côté_de
+\de In, inside; at (to arrive at a place).
+\ge in
+\dn 在（某个地方）
+\gn 在
+\df Dans, à (à un endroit).
+\gf dans/à
 \xv ɑ˩ʁo˧ | no˩qo˥ | le˧-tsʰɯ˩-ze˩!
-到家里了！　yyyy
-ʑi˧dv̩˧ | no˩qo˥ : pæɻeil; le qo est le meme morphème que dans "dans".
-ɬi˧di˩ | no˩qo˥ | le˧-tsʰɯ˩-ze˩!
-sæns doute le meme que dæns / -no˧˥ /.
+\xe (We/you) have arrived at home! / (We/you) are come home!
+\xn 到家里了！
+\xv (Nous voilà) arrivés à la maison! / (Te voilà) arrivé à la maison!
+\xv ʑi˧dv̩˧ | no˩qo˥
+\xe inside the house, at the house
+\xn 在家／在屋子里面
+\xv dans la maison, à la maison
+\xv ɬi˧di˩ | no˩qo˥ | le˧-tsʰɯ˩-ze˩!
+\xe (We've) reached Yongning! / We're in Yongning now!
+\xn 到永宁了！
+\xv (Nous voici) parvenus à Yongning!
 
 \lx no˧-sɯ˩kv̩˩
 \sf <nb="B"> 2160
@@ -41323,10 +41387,6 @@ sæns doute le meme que dæns / -no˧˥ /.
 \gn 银子
 \df Argent (métal).
 \gf argent
-\xv ŋv̩˧hæ̃˩/ or et ærgent càd ærgent, pætrimoine yyyy
-\xe money, wealth; literally ‘silver and gold'
-\xn 金钱、钱财、财富。直译：‘银子与金子’
-\xf argent, patrimoine, fortune; littéralement ‘or et argent'
 \sn 2
 \de Money.
 \ge money
@@ -41334,7 +41394,10 @@ sæns doute le meme que dæns / -no˧˥ /.
 \gn 钱
 \df Argent (argent-papier et pièces de monnaie).
 \gf argent
-\dt 28/Jul/2016
+\xv ŋv̩˧hæ̃˩
+\xe money, wealth; literally ‘silver and gold'
+\xn 金钱、钱财、财富。直译：‘银子与金子’
+\xf argent, patrimoine, fortune; littéralement ‘or et argent'
 
 \lx nv̩˩dʑɯ˥
 \sf <nb="B"> 2173b
@@ -41359,7 +41422,9 @@ sæns doute le meme que dæns / -no˧˥ /.
 \df Tofu.
 \gf tofu
 \xv nv˧dʑɯ˥ | ɖɯ˧-v̩˥ ɳæ˩
-préparer une casserole de tofu (verbe: presser). yyyy
+\xe to prepare a pot of tofu (literally: to squeeze a pot of tofu).
+\xn 做一锅豆腐（字面意思：挤压一锅豆腐）。
+\xf préparer une casserole de tofu (littéralement: presser une casserole de tofu).
 
 \lx nv̩˩ho#˥
 \sf <nb="B"> 2173a
@@ -41478,18 +41543,6 @@ préparer une casserole de tofu (verbe: presser). yyyy
 \gn 心脏
 \df Cœur.
 \gf cœur
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ tɕi˥! | yyyy à voir: en faire des entrées distinctes?
-\xe This person lacks courage! (literally “…(his/her) heart is small")
-\xn 这个人，胆小！（直译：“心小”）
-\xf Celui-là, il manque de courage! (littéralement «(a) un petit cœur», «son cœur est petit»)
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ dzɑ˩˥! | yyyy ɻepoɻteɻ comme entɻée sépæɻée
-\xe This person is bad / has a bad heart courage! (literally “…(his/her) heart is bad")
-\xn 这个人，胆小！（直译：“心小”）
-\xf Celui-là, il manque de courage! (littéralement «(a) un petit cœur», «son cœur est petit»)
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ ɖɯ˩˥! |
-\xe This person has courage! (literally “…(his/her) heart is large"). Part of a typology of 3 characters.
-\xn 这个人，胆小！（直译：“心小”）
-\xf Celui-là, il manque de courage! (littéralement «(a) un petit cœur», «son cœur est petit»)
 \xv nv̩˩mi˩˥ | ɖɯ˧-ɭɯ˧ tsɤ˧ |
 \xe in sympathy, in unison
 \xn 情投意合
@@ -41522,23 +41575,27 @@ préparer une casserole de tofu (verbe: presser). yyyy
 \sf <nb="B"> 671
 \sf <nb="2011"> 1001
 \or numi ddeeq
-\et nv̩˩mi˩; ɖɯ˩α
+\et nv̩˩mi˩
+\et ɖɯ˩α
 \ps adj
 \an nv̩˩mi˩-tɕi˥
 \lc nv̩˩mi˩ɖɯ˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="sem" langue="fra"> qui a du cœur, littéralement “au grand cœur"
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de Courageous, brave.
+\de Courageous, brave. Literal meaning: “(who has a) large heart".
 \ge brave
 \dn 勇敢、有勇气的
 \gn 勇敢
-\df Courageux, audacieux.
+\df Courageux, audacieux. Littéralement “(au) grand cœur".
 \gf courageux
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ ɖɯ˩˥! |
+\xe This person has courage! (literally “…(his/her) heart is large").
+\xn 这个人很勇敢！（直译：“心大”）
+\xf Cette personne-là a du courage! (littéralement «(elle a) un grand cœur», «(son) cœur est grand»)
 \xv ʈʂʰɯ˧ | nv̩˩mi˩˥ | ɖwæ˧˥ | ɖɯ˩˥! | hĩ˧ | mɤ˧-ɖwæ˥!
 \xe (S)he is very brave! (S)he is not afraid of others / (s)he fears no one!
 \xn 他很勇敢！谁也不怕！
@@ -41551,26 +41608,49 @@ préparer une casserole de tofu (verbe: presser). yyyy
 
 \lx nv̩˩mi˩-tɕi˥
 \or numijie rrrr
-\et nv̩˩mi˩; tɕiɖɯ˩α
+\et nv̩˩mi˩; tɕi˩α
 \ps adj
 \an nv̩˩mi˩-ɖɯ˩
 \lc nv̩˩mi˩tɕi˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="sem" langue="fra"> qui a du cœur, littéralement “au grand cœur"
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de Courageous, brave.
-\ge brave
-\dn 勇敢、有勇气的
-\gn 勇敢
-\df Courageux, audacieux.
-\gf courageux
+\de Timid, cowardly, lacking courage. Literal meaning: “(who has a) small heart".
+\ge timid
+\dn 胆小、没有勇气（字面意思是：“心小”）。
+\gn 胆小
+\df Timide, lâche, qui manque de courage. Littéralement “(au) cœur petit".
+\ge timide
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩-tɕi˥! |
+\xe This person lacks courage!
+\xn 这个人，胆小！
+\xf Celui-là, il manque de courage!
 
-yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans force tellement on est nostalgique.
-ɖwæ˩ ʝi˧-ɻ˥: être dans la crainte, avoir peur. Elle a peur (au sujet d'une jeune fille devant affronter un examen): ʈʂʰɯ˧ | ɖwæ˩ ʝi˧-ɻ˥.
+\lx nv̩˩mi˩-dzɑ˩
+\or numizza rrrr
+\et nv̩˩mi˩
+\et dzɑ˥
+\ps adj
+\lc nv̩˩mi˩dzɑ˩˥
+\cf nv̩˩mi˩-ɖɯ˩
+\cf nv̩˩mi˩-tɕi˥
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L
+\so <print="n"> F4
+\de Bad, vicious, mean (of someone's character). Literal meaning: “(who has a) bad heart".
+\ge bad
+\dn 坏、恶毒、卑鄙（指某人的品行）。字面意思是“心坏”。
+\gn 胆小
+\df Mauvais, vicieux, méchant (au sujet du caractère de quelqu'un). Sens littéral: «(qui a le) cœur mauvais».
+\ge méchant
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩-dzɑ˩˥!
+\xe This person is bad / has a bad heart! (literally “(his/her) heart is bad")
+\xn 这个人很怀！（直译：“心坏”）
+\xf Cette personne est méchante / a le cœur mauvais! (littéralement «(a le) cœur mauvais»)
 
 \lx nv̩˩mi˩-ki˧ki˩
 \sf <nb="2011"> 1516
@@ -41846,10 +41926,13 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 \df Percer, piquer.
 \gf percer/piquer
 \xv tɕʰi˧ ŋwɤ˩-ze˩
-\xe (He/she) was stung by a thorn
+\xe (He/she) was stung by a thorn.
 \xn （他）被刺扎疼了。
-\xf (Elle/il) a pris une écharde
-\xv tɕʰi˧ | ɖɯ˧-ɭɯ˧ ŋwɤ˧-ze˥! yyyy
+\xf (Elle/il) a pris une écharde.
+\xv tɕʰi˧ | ɖɯ˧-ɭɯ˧ ŋwɤ˧-ze˥!
+\xe (He/she) was stung by a thorn.
+\xn （他）被刺扎疼了。
+\xf (Elle/il) a pris une écharde.
 
 \lx ŋwɤ˧hɑ̃˩
 \sf <nb="2011"> 3312
@@ -42416,26 +42499,6 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 \gn 搬（家）
 \df Déménager.
 \gf déménager
-\dt 09/Sep/2015
-
-\lx pæ˥
-\hm 2
-\or bae
-\ps clf
-\cf tɕʰi˩β
-\cf ʈʂo˩β
-\sd <langue="fra"> classificateur
-\sd <langue="eng"> classifier
-\ton Hb
-\lc ɖɯ˧ ʈʂo˩
-\so <print="n"> F4
-\de Classifier for meals.
-\ge |fg{clf}.meals
-\dn 量词：饭（一顿）
-\gn 量词.顿
-\df Classificateur des repas. yyyy eɻɻeuɻ entɻe pæ (pæs perçu comme emprunt) et ʈʂo˩ (par rapport à tCHiQ: est plus formel, plus respectueux).
-\gf |fg{clf}.repas yyyy
-
 
 \lx pʰæ˧˥
 \or paeq
@@ -42446,16 +42509,16 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 \ton MH
 \lc pʰæ˧˥
 \so <print="n"> F4
-\de To shove, to push away.
-\ge to_shove
+\de To push away.
+\ge to_push_away
 \dn 推搡
 \gn 推搡
-\df Écarter, pousser, jouer des coudes.
+\df Écarter, pousser.
 \gf écarter/pousser
 \xv ɖɯ˩-tɕo˧ pʰæ˧˥, | ʈʂʰɯ˧-tɕo˧ pʰæ˧˥
-\xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
-\xn 东推西挤
-\xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (ex.: à la gare, quand il y a presse pour acheter un billet de train)
+\xe to push away / throw away this way and that
+\xn 往处推
+\xf pousser par ici, pousser par là
 \xv ʈʂe˧ | le˧-pʰæ˩~pʰæ˩
 \xe to throw earth here and there: a chicken is scratching the soil to find food, and sends spurts of earth here and there
 \xn 将土扔这里扔那里：一只鸡在抓地找吃的，让土飞这里飞那里
@@ -42716,7 +42779,10 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 \gn 围巾
 \df Foulard (périphrase); autrefois, on utilisait un fichu, |fv{/qʰwæ˧ʈɯ˥/}.
 \gf foulard
-\dt 26/Apr/2017
+\xv pʰæ˧ʂv̩˧-di˧ ʂæ˥
+\xe to tie a scarf
+\xn 系领巾
+\xf nouer un foulard
 
 \lx pʰæ˧tɕi˥
 \sf <nb="B"> 265
@@ -42846,11 +42912,10 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 
 \lx pæ˩α
 \or baeq
-\bw <langue="cmn"> 摆？
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Le mot n'est pas perçu par F4 comme un emprunt chinois.
+\np <langue="fra"> L'hypothèse d'un emprunt au chinois, par exemple |fn{摆}, a été envisagée. Mais le mot n'est pas perçu par la locutrice comme un emprunt chinois.
 \ton Mα
 \lc pæ˩˥
 \so <print="n"> F4
@@ -42864,9 +42929,6 @@ yyyy ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥ être accablé de nostalgie, être sans fo
 \xe The table is set / everything is ready! Let's eat!
 \xn 饭摆好了！吃饭了！
 \xf C'est servi! À table!
-yyyy pas perçu comme un emprunt chinois.
-
-yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv˧ɖv̩˧ tʰv˧-kv̩˧˥! 'il sait bien se débrouiller!' (comme équivalent proposé à l'emprunt pæ˧˥ hwɤ˧ ɕjɤ˩.
 
 \lx pæ˥α
 \or bae
@@ -42921,6 +42983,10 @@ yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le
 \gn 感叹词.呸
 \df Mais pas du tout! Mais non, enfin! Interjection par laquelle le locuteur signale qu'il reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'il va rectifier.
 \gf |fg{intj}.pas_du_tout!
+\xv pʰe! hɑ~hɑ!
+\xe as above
+\xn 同上
+\xf idem
 
 \lx pe˧ʂe˧
 \or beishei
@@ -43176,7 +43242,7 @@ yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le
 \gn 畚箕
 \df Pelle à poussière.
 \gf pelle_à_poussière
-\dt 21/Jun/2017
+\dv ɖæ˩ tɕʰɯ˧-di˧˥
 
 \lx pʰi˧kʰv̩˧
 \sf <nb="2011"> 562
@@ -43341,7 +43407,6 @@ yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\cf ɕjɤ˩jo˩
 \ton L
 \lc pi˩mv̩˥
 \so <print="n"> F4
@@ -43453,19 +43518,21 @@ yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le
 \lx pʰi˧ʈʂæ˧
 \or pizhae
 \bw <langue="cmn"> 披毡
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
+\ps n
+\sy ʐæ˩sɯ˩
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\nt <type="hist" langue="fra" print="n"> Avant juin 2024, interprété comme un verbe: "se draper d'un feutre".
 \ton M
 \lc pʰi˧ʈʂæ˧
 \so <print="n"> F4
-\de To drape oneself in a felt cape, to drape a piece of felt over one's shoulders.
-\ge 披毡::to_drape_oneself_in_a_cape
+\pdv ɭɯ˧β
+\de Felt cape.
+\ge 披毡::felt_cape
 \dn 披毡
 \gn 披毡（借词）
-\df Se draper d'un feutre.
-\gf 披毡::se_draper_d_un_feutre
-\dt 09/Sep/2015
+\df Cape de feutre.
+\gf 披毡::cape_de_feutre
 
 \lx pi˧tsʰe˩-di˩
 \or Biceiddi
@@ -43697,9 +43764,11 @@ yyyy ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le
 \xe When one plants rice, one must harrow the field (first)!
 \xn 种稻谷，要（先）耙地！
 \xf Quand on plante du riz (=avant de planter le riz), il faut passer la herse!
-\xc yyyy avant 2014, avais noté: !!ɕi˧ tv̩˧-dʑo˧
-pɑ˩tsɯ˧ po˧-ɳɯ˧ | le˧-pɤ˩ yyyy
-herser à la herse yyyy
+\xc <type="hist" langue="fra" print="n"> Avant 2024, avais noté: /‡ɕi˧ tv̩˧-dʑo˧/, au lieu de /ɕi˧ tv̩˧-dʑo˥/.
+\xv pɑ˩tsɯ˧ po˧-ɳɯ˧ | le˧-pɤ˩
+\xe to harrow with a harrow
+\xn 用耙子耙地
+\xf herser à la herse
 
 \lx pɤ˥
 \hm 2
@@ -43724,8 +43793,8 @@ herser à la herse yyyy
 \xe Come and lay here (for a rest)!
 \xn 过来这边躺一下！
 \xf Viens t'allonger par ici (pour te reposer)!
-\rf M18 yyyy pas accepté par F4
-
+\rf M18
+\xc <langue="fra" type="sem"> Cet exemple n'est pas accepté par la locutrice de référence.
 
 \lx pɤ˥
 \sf <nb="B"> 633
@@ -43747,7 +43816,10 @@ herser à la herse yyyy
 \gn 画
 \df Dessin, peinture.
 \gf dessin/peinture
-\xv pɤ˧ | ɖɯ˧-pʰæ˧ lɑ˥ faire une peinture yyyy
+\xv pɤ˧ | ɖɯ˧-pʰæ˧ lɑ˥
+\xe to make a painting, to paint a painting
+\xn 作画，画一幅画
+\xf faire une peinture, réaliser une peinture
 
 \lx pʰo˧˥
 \sf <nb="B"> 1286
@@ -44015,7 +44087,9 @@ herser à la herse yyyy
 \df Eau de source.
 \gf eau_de_source
 \xv ʁwɤ˧ʂwæ˧ pɤ˩dʑɯ˩ ʈʰɯ˩, | njɤ˧ | ə˧mɑ˧ hu˧-hĩ˥ | le˧-mv̩˩pʰæ˩!
-Quand je bois l'eau claire des hautes montagnes, j'en oublie ma nostalgie de ma mère! = l'eau de montagne est comme ma mère yyyy ə˧mɑ˧ ɖɯ˧-bæ˧ tsɤ˧, la montagne devient comme ma mère yyyy, qui étanche ma soif (lait/eau...)
+\xe “When I drink the clear water of the high mountains, I forget my nostalgia for my mother!” (Song lyrics. The mountain becomes like a mother: |fv{ə˧mɑ˧ ɖɯ˧-bæ˧ tsɤ˧}, it gives the gift of pure water that quenches thirst, just as mother's milk satisfied a child's needs.)
+\xn “当我喝下高山的清泉，我忘记了对母亲的思念！”（歌词。山就像母亲：|fv{ə˧mɑ˧ ɖɯ˧-bæ˧ tsɤ˧}，它赐予纯净的水解渴，就像母亲的乳汁满足孩子的需要一样。）
+\xf «Quand je bois l'eau claire de la haute montagne, j'en oublie ma nostalgie de ma mère!» (Paroles d'une chanson. La montagne devient comme une mère: |fv{ə˧mɑ˧ ɖɯ˧-bæ˧ tsɤ˧}, elle fait don d'une eau pure qui étanche la soif, comme le lait maternel satisfaisait les besoins de l'enfant.)
 
 \lx po˧ɖʐɯ#˥
 \sf <nb="B"> 351a
@@ -44043,7 +44117,10 @@ Quand je bois l'eau claire des hautes montagnes, j'en oublie ma nostalgie de ma 
 \xe person who works as a craftsman
 \xn 当工匠的人
 \xf personne qui travaille comme artisan
-\xv pɑ˩tsɯ˧, | po˧ɖʐɯ˧-ɳɯ˩ | gv̩˩˥! yyyy læ heɻse, c'est le menuisier qui le fabriquait! yyyy réfléchir à une notation /a/ pour les a empruntés au chinois, ni ɑ ni æ ni ɤ
+\xv pɑ˩tsɯ˧, | po˧ɖʐɯ˧-ɳɯ˩ | gv̩˩˥!
+\xe The harrow used to be made by the craftsman!
+\xn 耙由工匠制作！
+\xf La herse, c'est l'artisan (le menuisier) qui la fabriquait!
 
 \lx pʰɤ˧fv̩˩
 \or pefu
@@ -44051,7 +44128,7 @@ Quand je bois l'eau claire des hautes montagnes, j'en oublie ma nostalgie de ma 
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> perçu comme un mot na, non un emprunt.
+\np <langue="fra"> Le mot est perçu comme un mot na, plutôt que comme un emprunt. La variabilité de la réalisation de la voyelle de sa première syllabe, qui se rapproche de [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggère pourtant qu'il pourrait s'agir d'un emprunt, encore imparfaitement intégré au système vocalique.
 \ton L#
 \lc pʰɤ˧fv̩˩
 \so <print="n"> F4
@@ -44061,7 +44138,6 @@ Quand je bois l'eau claire des hautes montagnes, j'en oublie ma nostalgie de ma 
 \gn 茶壶
 \df Théière.
 \gf théière
-\dt 09/Sep/2015
 
 \lx pɤ˩-ho˩~ho˥
 \sf <nb="B"> 94
@@ -44090,8 +44166,10 @@ Quand je bois l'eau claire des hautes montagnes, j'en oublie ma nostalgie de ma 
 \xe the place where the head is soft =the fontanel
 \xn 头上软软的那块 =囟门
 \xf l'endroit où la tête est toute molle =la fontanelle, chez les bébés
-\xv dzo˧ mɤ˧-ɖo˧!  il ne faut pas y toucher / y appuyer!
-le˧-dzo˧˥ 彭东西　yyyy
+\xv ʁo˧qʰwɤ˩ | pɤ˩-ho˩~ho˥-gv̩˩-hĩ˩ | tʰv̩˧-kʰwɤ˥, | dzo˧ mɤ˧-ɖo˧!
+\xe The fontanel should not be touched!
+\xn 囟门，不要彭！
+\xf La fontanelle, il ne faut pas y toucher!
 
 \lx pɤ˩jɤ˧˥
 \sf <nb="B"> 384b
@@ -44176,19 +44254,16 @@ le˧-dzo˧˥ 彭东西　yyyy
 \df Étuve pour cuire la pâte/le pain.
 \gf étude_pour_petits_pains
 
-\lx pɤ˧lɑ˩
+\lx pɤ˧
 \sf <nb="B"> 633b
 \sf <nb="2011"> 942
-\or bela
+\or be rrrr
 \ps n
-\lc pɤ˧lɑ˩
+\lc pɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (2006: noté ˧ ˩; 2007; corrigé à tort en ˥ ˩)
-\ton L#
+\ton M
 \so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M23"> ID.
 \pdv pʰæ˧˥
 \de Photo, photography (newly coined word).
 \ge photo
@@ -44196,8 +44271,15 @@ le˧-dzo˧˥ 彭东西　yyyy
 \gn 相片
 \df Photo, photographie (néologisme).
 \gf photo
+\xv pɤ˧ lɑ˩
+\xe to take a picture
+\xn 拍照片
+\xf prendre une photo
+\xc <type="hist" langue="fra" print="n"> En 2006: noté ˧ ˩; en 2007: corrigé à tort en ˥ ˩, puis rétabli en ˧ ˩.
 \xv pɤ˧ | ɖɯ˧-pʰæ˧ lɑ˥ ə˩-bi˩?
-on fait une photo? yyyy attention, le nom est monosyllabique
+\xe Shall we take a picture?
+\xn 拍一张照片吧？
+\xf On fait une photo?
 
 \lx pʰo˩lɑ˧˥
 \or pola
@@ -44254,6 +44336,7 @@ on fait une photo? yyyy attention, le nom est monosyllabique
 \xc PHONO
 
 \lx pɤ˩lv̩˧
+\hm 1
 \or belu
 \ps n
 \cf æ˧tsɯ˥-pɤ˩lv̩˩
@@ -44272,22 +44355,33 @@ on fait une photo? yyyy attention, le nom est monosyllabique
 \gf nuque
 
 \lx pɤ˩lv̩˧
+\hm 2
 \or belu
 \ps n
 \lc pɤ˩lv̩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton LM
-\de Warehouse, storehouse: a one-floor building, opposite the main building (|fv{/ʑi˧mi˧/}); it is used for storing objects, such as the ard, and preserved meat.
-\ge warehouse
-\dn 仓库：主屋对面的房子，只有一层。用来收藏大工具，例如犁，或者腊肉
-\gn 仓库
-\df nouvelle mæison yyyy est: bætiment supplémentæiɻe Réserve, magasin: bâtiment à un seul étage, face au bâtiment principal (|fv{/ʑi˧mi˧/}), dans lequel on range les gros outils, tels que l'araire, et la viande séchée.
-\gf réserve
+\nt <type="hist" langue="fra" print="n"> Avant 2024: le sens avait été compris comme "réserve, magasin": une des dépendances de la ferme.
+\nt <type="hist" langue="fra" print="n"> Vérifié en 2024: la deuxième syllabe n'est pas ɭɯ˧ mais lv̩˧.
+\de A new home set up by a woman who leaves the family home and goes to live on her own with her children (and possibly other siblings and their children), typically near her original home. Living separately is a solution in cases where there is lasting friction with the lady of the house.
+\ge new_home
+\dn 由家庭中的一位女人建立的新家。她与子女（可能还有其他兄弟姐妹及其子女）一起独立生活。在与主人长期摩擦的情况下，分居是一种解决办法。
+\gn 新家
+\df Nouvelle maison, fondée par une femme de la famille, qui part vivre de son côté avec ses enfants (et éventuellement d'autres membres de sa fratrie et leurs enfants). Le fait de vivre séparément constitue une solution dans les cas où existent des frictions durables avec la maîtresse de maison.
+\gf nouvelle_maison
 \xv ɑ˩ʁo˧ ɬo˧tɑ˧ | pɤ˩lv̩˧ ʂæ˩ (+hɯ˩)
-= ʑi˧qʰwɤ˧ tsʰi˧˥ yyyy
-̩ʈʂʰɯ˧ | pɤ˩ɭɯ˧-qo˩ dzi˩-hɯ˩-ze˩! elle est allée habiter dans le nouveau bâtiment!
-pɤ˩ɭɯ˧ | ɖɯ˧-kʰwɤ˥ ʂæ˩ | tʰi˧-ki˧-zo˧-ho˩! (tv) (le veɻbe ʂæ ici est... ? pæs suɻ.) Façon de vivre séparément qd on ne s'entend pas avec la maîtresse de maison.
+\xe to build a new home (for someone who is not going along well with the mistress of the house / master of the house) next to the family home
+\xn 在家宅旁边为与主人不和的人建造一个新家（从此，两家比邻而居）
+\xf construire une nouvelle demeure à côté de la maison familiale (pour quelqu'un qui ne s'entend pas avec la maîtresse de maison / le maître de maison)
+\xv ʈʂʰɯ˧ | pɤ˩ɭɯ˧-qo˩ dzi˩-hɯ˩-ze˩!
+\xe She moved into a new building / she moved into a house of her own!
+\xn 她搬进了新楼／她搬进了自己的房子！
+\xf Elle est allée habiter dans un nouveau bâtiment / elle est allée s'établir dans sa propre maison!
+\xv pɤ˩ɭɯ˧ | ɖɯ˧-kʰwɤ˥ ʂæ˩ | tʰi˧-ki˧-zo˧-ho˩!
+\xe She moved into a new building / she moved into a house of her own!
+\xn 她搬进了新楼／她搬进了自己的房子！
+\xf Elle est allée habiter dans un nouveau bâtiment / elle est allée s'établir dans sa propre maison!
 
 \lx pɤ˩mi˩
 \sf <nb="B"> 1895
@@ -44629,10 +44723,10 @@ pɤ˩ɭɯ˧ | ɖɯ˧-kʰwɤ˥ ʂæ˩ | tʰi˧-ki˧-zo˧-ho˩! (tv) (le veɻbe ʂ
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：被压扁了
 \xf |fg{accomp} 〜 |fg{pfv}
-\xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-ze˩!　／　tʰi˧-pɤ˥ʈʂʰwæ˩-dʑo˩!　yyyy
+\xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-ze˩! / tʰi˧-pɤ˥ʈʂʰwæ˩-dʑo˩!
 \xe That one (=that man/woman) was exhausted, (s)he collapsed over there!
 \xn 那个（人）筋疲力尽，躺倒在那边了！
-\xf il s'est effondré là-bas, recru de fatigue!
+\xf Il/elle s'est effondré·e là-bas, recru·e de fatigue!
 \xv hæ˧mi˧-pɤ˧ʈʂʰwæ˥
 \xe flat(-faced) Chinese woman (derogatory comment on noses that are not high enough by local standards)
 \xn （脸、鼻子）扁的汉族女人（带偏见的称呼）
@@ -44659,8 +44753,14 @@ pɤ˩ɭɯ˧ | ɖɯ˧-kʰwɤ˥ ʂæ˩ | tʰi˧-ki˧-zo˧-ho˩! (tv) (le veɻbe ʂ
 \xe small basket where chopsticks are kept
 \xn 筷子篮
 \xf panier (traditionnellement: en vannerie) dans lequel on range les baguettes
-\dt ɲi˧ʈʂæ˥-pɤ˩tv̩˩
-pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
+\xv ɲi˧ʈʂæ˥-pɤ˩tv̩˩
+\xe Fish trap: trap for catching fish in a river or canal. It was set in the evening and the fish caught in it were retrieved in the morning.
+\xn 捕鱼器：在河中捕鱼的陷阱。在傍晚设置，在清晨收回捕到的鱼。
+\xf Nasse à poisson: piège pour attraper des poissons, dans une rivière, un canal... On la posait le soir et récupérait le matin les poissons qui s'y étaient pris.
+\xv pɤ˧tv̩˥ kv̩˩ ə˩-bi˩?
+\xe Shall we go mushroom-picking?
+\xn 去捡蘑菇吗？
+\xf On va à la cueillette aux champignons? (Littéralement: «Si on allait cueillir un panier?»)
 
 \lx pʰɤ˩zo˩
 \or pesso
@@ -44844,14 +44944,13 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xn 一瓢饭
 \xf une cuillerée de riz
 \xv hɑ˧ | ɖɯ˧-pɤ˥ qwæ˩
-\xe a spoonful of rice
-\xn 一瓢饭
-\xf yyyy puiseɻ une cuillerée de riz
+\xe to scoop a spoonful of rice
+\xn 舀一勺饭
+\xf puiser une cuillerée de riz
 \xv v̩˩dʑɯ˩˥ | ɖɯ˧-qʰwɤ˧pɤ˧
 \xe a bowl of soup
 \xn 一碗汤
 \xf un bol de soupe
-\dt 03/May/2017
 
 \lx pʰo˩α
 \sf <nb="B"> 1532
@@ -44878,7 +44977,7 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：逃跑了
 \xf |fg{accomp} 〜 |fg{pfv}
-\xv le˧-pʰo˩-hɯ˩-ze˩!
+\xv le˧-pʰo˩-hɯ˩-ze˩! ≈ le˧-pʰo˩ | hɯ˧-ze˧
 \xe (She/he) has escaped!
 \xn （他）逃跑了！
 \xf (Elle/il) s'est enfui(e)!
@@ -44905,7 +45004,7 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \gf |fg{clf}.membre_d_une_paire
 \dt 27/Apr/2017
 
-\lx pv̩˩
+\lx pɻ̩˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
 \or buq
@@ -44913,7 +45012,8 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
-\lc pv̩˩˥
+\lc pɻ̩˩˥
+\nt <type="hist" langue="fra" print="n"> Hésité à recatégoriser de v̩ en ɻ̩ le 21 juin 2024. Mais parviens à la conclusion selon laquelle c'est bien un v.
 \so <print="n"> F4
 \vf d'abord noté tsv̩˩
 \de To go by, to flow (of time).
@@ -45009,22 +45109,24 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xn 干的木头
 \xf bois sec
 
-\lx pv̩˧
-\hm 2
+\lx pɻ̩˧
+\hm 2 yyyy
 \or bu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mγ
-\lc pv̩˧
+\lc pɻ̩˧
+\sy bi˧γ
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> Corrigé de v̩ en ɻ̩ le 21 juin 2024.
 \de To go out, to get out.
 \ge to_go_out
 \dn 出去
 \gn 出去
 \df Sortir.
 \gf sortir
-\xv njɤ˧ | ɑ˩pʰo˩ pv̩˥.
+\xv njɤ˧ | ɑ˩pʰo˩ pɻ̩˥.
 \xe I get out, I go outside.
 \xn 我出去到外边。
 \xf Je sors, je pars (seul). (Personne ne m'accompagne.)
@@ -45223,7 +45325,7 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xe to pour wine, to serve wine
 \xn 倒酒
 \xf verser du vin, servir du vin
-\xv dʑɯ˩ pʰv̩˩˥
+\xv dʑɯ˩ pʰv̩˩˥ yyyy + li˩ pʰv̩˩˥
 \xe to pour water, to serve water (as a beverage)
 \xn 倒水
 \xf verser de l'eau
@@ -46107,6 +46209,7 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xf ça brûle; il y a un incendie
 \xc <type="hist" print="n"> en 2006: /†mv̩˧kæ˥ɻ̩˧ kʰɯ˩/, /mv̩˧kæ˥ɻ̩˧ kʰɯ˩ ze˥/; en 2007: “confirmé par F4: est /ɭɯ˩/ et non /ɻ̩˩/"; 2009: confirme définitivement que c'est /ɻ/, non pas /ɭɯ/ ni /lv/.
 \xv mv̩˧ qæ˥-ɻ̩˩ kʰɯ˩
+yyyy aussi : mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩; vérifié: n'est pas /lv/
 \xe to start a fire (as an act of destruction/war), to commit arson
 \xn （有人）放火
 \xf lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)
@@ -46169,7 +46272,10 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \xe |fg{accomp}
 \xn |fg{accomp}
 \xf |fg{accomp}
-\dt 11/Sep/2015
+\xv tso˧~tso˧ | le˧-qæ˧~qæ˧
+\xe |fg{accomp}
+\xn |fg{accomp}
+\xf |fg{accomp} yyyy
 
 \lx qæ˥
 \sf <nb="B"> 1307
@@ -46890,7 +46996,8 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \ge to_flick
 \dn 弹（弹脸）
 \gn 弹
-\df Donner une chiquenaude.
+\df Donner une chiquenaude. yyyy to˧kɤ˧ qʰæ˩ / to˧kɤ˧ le˧-qʰæ˧˥ (on donnait les chiquenaudes sur le front) to˧kɤ˧-qʰæ˩di˩-bæ˩bæ˩˥
+qʰæ˩di˩˥ : to˧kɤ˧ qʰæ˩di˩ ɲi˩ c'est une chiquenaude.
 \gf donner_une_chiquenaude
 \dt 01/Oct/2015
 
@@ -47766,7 +47873,7 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \gn 爱
 \df Aimer d'amour.
 \gf aimer
-\xv mɤ˧-qo˧
+\xv mɤ˧-qo˥
 \xe |fg{neg}
 \xn 不爱
 \xf |fg{neg}
@@ -48333,7 +48440,12 @@ pɤ˧tv̩˩ kv̩˩ ə˩-bi˩? 去简　jian３ramasser蘑菇吗？　yyyyy
 \gn 把手
 \df Poignée, manche (d'une valise, d'une bouteille thermos, d'une louche…).
 \gf poignée/manche
-\dt 01/Oct/2015
+\xv tso˧-bi˥-dʑo˩, | qv̩˩-ɻ̩˥ | ʈʂæ˧˥! | hĩ˧-bi˥-dʑo˩, mv̩˧-ɻ̩˧ ʈʂæ˧˥!
+\xe “Objects are grabbed by their handles; people are grabbed by their names!” This proverbial expression highlights the role played by a person's name when one wants to call them. For someone you don't know, you're reduced to interjections, which are much less focused and less effective.
+\xn “物以把手抓，人以名字抓”、“东西，是用把手把的！人，是用名字把的！”这句谚语强调了，当你想打招呼给时，名字起多么重要的作用。对于不认识的人，就只能靠插话了（‘嗯，喂，你好……），而这类插话的效果远不如人名。
+\xf «Les objets, ça s'attrape par le manche; les gens, ça s'attrape par le nom!» (Littéralement: les objets s'attrapent du côté du manche, les gens du côté du nom) Cette expression proverbiale souligne le rôle que joue le nom d'une personne qu'on connaît, quand on veut l'appeler. Pour quelqu'un qu'on ne connaît pas, on en est réduit à des interjections, nettement moins bien ciblées et moins efficaces.
+\xc <type="sem" langue="fra"> L'expression proverbiale tire une partie de sa saveur d'un jeu sur les mots: le verbe ‘saisir’, |fv{ʈʂæ˧˥}, est homophone de la deuxième syllabe du mot disyllabique |fv{mv̩˧ʈʂæ˧˥}, qui signifie ‘nom’ (synonyme du monosyllabe |fv{mv̩˧ʈʂæ˧˥} ‘nom’ qui apparaît dans le proverbe).
+\xc PROVERBE
 
 \lx qv̩˧˥
 \sf <nb="B"> 1570
@@ -54727,8 +54839,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Viande grasse.
 \gf viande_grasse
 \xv ʂe˧mɤ˧ mɤ˧-dzɯ˧-hĩ˥, | mv̩˩ʁo˩ dze˩ bi˩˥ | bi˩.
-'va voler dans le ciel (avec les oiseaux). (yyyy analyse pas claire des deux /bi/) yyyy tons ? ɻéponse: tv.
-
+\xf «Une personne qui ne mange pas de viande grasse, elle vole dans le ciel (avec les oiseaux)». Façon de dire que quelqu'un qui ne mangerait pas de viande grasse, ça n'existe guère, dans le monde comme il va: ce serait quelque chose de surnaturel. La viande grasse fournit de l'énergie pour ne pas se laisser balayer par le vent qui souffle fort à Yongning pendant les mois d'hiver.
+\xc PROVERBE
+\xc <type="hist" langue="fra" print="n"> À date de 2024, la nature des deux morphèmes /bi/ n'est pas encore clarifiée.
 
 \lx ʂe˧mo˧
 \sf <nb="B"> 71a
@@ -55524,7 +55637,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \lc si˧gɯ˧
 \so <print="n"> F4
 \va <speaker="M21"> sɯ˧gɯ˧, ton d1
-\vf <langue="fra"> vérifié: n'est pas /†sɯ˧gɤ˧/
+\vf vérifié: n'est pas /†sɯ˧gɤ˧/
 \pdv mi˩
 \de Lion.
 \ge སེང་གེ::lion
@@ -56184,15 +56297,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gf sang
 \dt 06/Oct/2015
 
-\lx ʂo˧
-\hm 2
+\lx ʂo
 \sf <nb="2011"> 3383
 \or sho
 \ps intj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\ton M
-\lc ʂo˧!
+\ton 0
+\lc ʂo!
 \so <print="n"> F4
 \de Interjection to get pigs to move forward.
 \ge |fg{intj}.Forward!
@@ -56200,36 +56312,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 赶猪用的叹词
 \df Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez, allez!».
 \gf |fg{intj}.Zou!
-\xv ʂo˧! / ʂo˧bɤ˩!
+\xv ʂo˧-bɤ˩!
 \xe interjection to get pigs to move forward
 \xn 赶猪用的叹词
 \xf Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez!»
-\dt 06/Oct/2015
-
-\lx ʂo˧
-\hm 1
-\or sho
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton M
-\lc ʂo˧
-\so <print="n"> F4
-\de To gather.
-\ge to_gather
-\dn 收集
-\gn 收集
-\df Rassembler, assembler, accumuler.
-\gf rassembler
-\xv le˧-ʂo˧~ʂo˧
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
-\xf |fg{accomp} 〜 |fg{red}
-\xv ʂo˧~ʂo˧-zo˧-ho˩-ze˩
-\xe We are going to have to gather (things)
-\xn 该收集一些了。
-\xf Il va falloir rassembler/assembler.
-\dt 06/Oct/2015
+\xn <langue="fra" type="ton"> Un schéma tonal M.L est indiqué pour cette expression, pour refléter un profil prosodique dans lequel la seconde syllabe paraît clairement plus basse que la première. Pour autant, il s'agit d'un emploi étendu (non technique) de la notation en trois hauteurs tonales. Il est clair que cette interjection ne possède pas un ton lexical M.L.
 
 \lx ʂo˧˥
 \sf <nb="B"> 993
@@ -56303,10 +56390,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \de To reap, to gather in.
 \ge to_reap
-\dn 收割
+\dn 收割，收集
 \gn 收割
-\df Récolter.
-\gf récolter
+\df Récolter; rassembler, assembler, accumuler.
+\gf récolter yyyy distinguer deux sous-sens.
 \xv le˧-ʂo˥-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：收割了
@@ -56316,7 +56403,22 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe We have one harvest (of rice) every year!
 \xn 每年收一次稻谷！
 \xf on récolte (le riz) une fois par an!
-\dt 06/Oct/2015
+\xv bæ˩ ʂo˧ dʑɯ˧-ze˩!
+\xe Harvest time has come!
+\xn 收获的时间到了！
+\xf Le temps de la récolte est venu!
+\xv bæ˩ ʂo˧-zo˧-ho˥-ze˩!
+\xe Harvest time has come!
+\xn 该收庄稼了！
+\xf Il va être temps de faire la récolte!
+\xv le˧-ʂo˧~ʂo˧
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
+\xv ʂo˧~ʂo˧-zo˧-ho˩-ze˩
+\xe We are going to have to gather (things).
+\xn 该收集一些了。
+\xf Il va falloir rassembler/assembler.
 
 \lx ʂɤ˧do˧˥
 \sf <nb="B"> 1080
@@ -56813,9 +56915,11 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xn 不喘气
 \xf |fg{neg}
 \xc PHONO
-\dt 27/Apr/2017
-
-so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
+\xv so˧tsʰi˥-so˩æ̃˩
+\xe to sigh
+\xn 叹息
+\xf soupirer
+\xc <type="phono" langue="fra"> Comporte une occlusion glottale, [|fv{so˧tsʰi˥-so˩Ɂæ̃˩}].
 
 \lx sɤ˧tsi˥
 \sf <nb="B"> 2170
@@ -58450,6 +58554,10 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xe He has understood.
 \xn 他明白了。
 \xf Il a compris.
+\xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv˧ɖv̩˧ tʰv˧-kv̩˧˥!
+\xe He's really smart! / He's really resourceful! / He's really good at finding solutions!
+\xn 他真的很聪明 / 他真的很足智多谋 / 他真的很擅长寻找解决方案！
+\xf Il est vraiment futé! / Il est vraiment débrouillard! / Il sait vraiment bien se débrouiller et trouver des solutions!
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -58504,6 +58612,10 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xe to have a fit of nostalgia
 \xn 想念
 \xf être nostalgique, avoir une crise de nostalgie
+\xv ʂv̩˧ɖv̩˧-zo˥, | ʈʰi˩˥!
+\xe When you're in the grip of nostalgia, it leaves you weak and exhausted!
+\xn 沉浸在怀旧情绪中时，会感到虚弱、疲惫！
+\xf Quand on est en proie à la nostalgie, on s'en trouve sans force / on s'en trouve tout épuisé!
 \xv ʂv̩˧ɖv̩˧ mɤ˧-zo˧!
 \xe There's no need to worry / feel unhappy
 \xn 不用发愁！
@@ -59033,7 +59145,9 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xn 往后退
 \xf reculer, se retirer vers l'arrière
 \xv no˧ | le˧-tɑ˧˥! | hĩ˧bæ˧ tʰi˧-dzi˧-kʰɯ˥!
-你让一下！给客人座位！yyyy
+\xe You move over! Give the guest a seat!
+\xn 你让一下！给客人座位！
+\xf Pousse-toi, que l'invité puisse s'asseoir!
 
 \lx tɑ˥
 \or da
@@ -60512,10 +60626,6 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xe Stop quarrelling!
 \xn 别吵架了！
 \xf Arrêtez de vous disputer!
-\xv tʰɑ˧-dzo˧˥! (yyyy tʰɑ˧-dzo˧~dzo˥!
-\xe Don't touch!
-\xn 不要动来动去！ / 不要碰来碰去！
-\xf Ne pas toucher! / Ne touchez pas!
 
 \lx ʈæ˩α
 \sf <nb="B"> 1294
@@ -64196,7 +64306,6 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xe This year, I am lucky! / This is an auspicious year for me!
 \xn 我今年运气好！
 \xf Cette année, j'ai de la chance!
-\dt 08/Oct/2015
 
 \lx to˩kʰv̩˩mi˥
 \sf <nb="B"> 1867b
@@ -68542,11 +68651,11 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \gn 量词.饭轮
 \df Classificateur des services au cours d'un repas. Un premier service était pour les invité·es et pour les aîné·es (personnes âgées), un deuxième pour les enfants, et enfin un troisième pour les autres membres de la famille.
 \gf |fg{clf}.services
-\xv hɑ˧ ɖɯ˧-ʈʂo˩
+\xv hɑ˧ | ɖɯ˧-ʈʂo˩
 \xe a service (during a meal)
 \xn 用餐时的一个饭轮
 \xf un service (au cours d'un repas)
-\xv ɖɯ˧-ʈʂo˩ tʰi˩-pæ˩ |
+\xv ɖɯ˧-ʈʂo˩ tʰi˩-pæ˩
 \xe to set out a service (during a meal)
 \xn 摆一个饭轮
 \xf effectuer un service (lors d'un repas)
@@ -69783,6 +69892,7 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \sf <nb="2011"> 2049
 \or cheche
 \ps v
+\sy dzo˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (en 2006: avais noté: tʰɑ˥ʈʂʰɤ˧ʈʂʰɤ˩, tso˧~tso˧ʈʂʰɤ˥ʈʂʰɤ˧)
@@ -69808,7 +69918,40 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \xe to touch something
 \xn 抚摸东西
 \xf toucher quelque chose
-\yyyy lien avec /dzo/: mɤ˧-dzo˧˥, le˧-dzo˧-ze˥! toucheɻ, tɻipoteɻ
+
+\lx dzo˧˥
+\or zzo rrrr
+\ps v
+\sy ʈʂʰɤ˩~ʈʂʰɤ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton MH
+\lc dzo˧˥
+\so <print="n"> F4
+\de To touch, to paw.
+\ge to_touch
+\dn 抚摸、触摸
+\gn 抚摸
+\df Toucher, tripoter.
+\gf toucher
+\xv mɤ˧-dzo˧˥
+\xe |fg{neg} 〜
+\xn 不 〜
+\xf |fg{neg} 〜
+\xc PHONO
+\xv tʰɑ˧-dzo˧˥!
+\xe Don't touch (this)!
+\xn 不要碰！
+\xf Ne pas toucher! / Ne touche pas (à ça)!
+\xv tʰɑ˧-dzo˧~dzo˥!
+\xe Stop pawing around!
+\xn 不要动来动去！ / 不要碰来碰去！
+\xf Ne tripote pas (ça)! Arrête de tripoter!
+\xv le˧-dzo˧-ze˥
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 实施 〜 整体体
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
 
 \lx tso˧~tso#˥
 \sf <nb="B"> 483
@@ -73662,6 +73805,7 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \or Vujjo
 \ps n
 \lc v̩˧dʑo˧
+\cf ɬi˧ʐɤ˥-dzi˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton #H
@@ -73673,9 +73817,8 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \df Vujjo, un village de Muli (Wujiao en chinois).
 \gf Vujjo
 
-
 \lx ɬi˧ʐɤ˥-dzi˩
-\or rrrr
+\or Lhirezzee rrrr
 \ps n
 \lc ɬi˧ʐɤ˥dzi˩
 \cf v̩˧dʑo#˥
@@ -73683,15 +73826,12 @@ so˧tsʰi˥-so˩æ̃˩ soupirer (avec occlusion tonale devant æ̃˩) yyyy
 \sd <langue="eng"> place name
 \ton #H
 \so <print="n"> F4
-\de rrrr: Lijiazui village, in Muli. Close to Vujjo.
-\ge rrrr
-\dn yyyy屋脚（四川省凉山彝族自治州木里藏族自治县屋脚蒙古族乡）：一个村落的名字。经纬度：100.74790,27.95846
-\gn 屋脚村
-\df rrrr, Lijiazui, un village de Muli.
-\gf Vujjo
-
-tsɯ˩, ɣɯ˧dʑo˧ yyyy
-à coté de v̩˧dʑo˧,
+\de Lhirezzee (in Chinese: Lijiazui), a village in Muli county. Close to Vujjo.
+\ge Lhirezzee
+\dn 利家嘴（利家咀）（四川省凉山彝族自治州木里藏族自治县利家咀）：一个摩梭村落的名字。经纬度：100.715907,27.894596
+\gn 利家嘴
+\df Lhirezzee (en chinois: Lijiazui), un village du comté de Muli. Proche de Vujjo.
+\gf Lhirezzee
 
 \lx v̩˩dʑɯ˩
 \sf <nb="B"> 395
@@ -75759,6 +75899,10 @@ tsɯ˩, ɣɯ˧dʑo˧ yyyy
 \xe to build a building
 \xn 建房
 \xf bâtir une maison
+\xv ʑi˧qʰwɤ˧ tsʰi˧˥
+\xe to build a house
+\xn 建房
+\xf construire une maison
 \xv ʑi˧qʰwɤ˧-lɑ˧ do˥!
 \xe One can only see buildings! (A comment by the consultant about the city of Lijiang: the plain is now thoroughly covered by buildings, and one cannot see fields anymore, unlike in Yongning, where until recently there were only a few hamlets scattered among a landscape of groves, pastures, and cultivated fields.)
 \xn 只看到房子！ / 能看见的只有房子！（合作者说，丽江市区都是房子，看不到田。这一点，不像永宁坝：二十世纪的永宁，只有一些小村落分散在一大片田地中。）
@@ -77634,9 +77778,9 @@ tsɯ˩, ɣɯ˧dʑo˧ yyyy
 \df Carré.
 \gf carré
 \xv ʐɻ̩˧ɻ̩˥ ɲi˩.
-\xe |fg{nmlz} yyyy + cop
-\xn 方形的
-\xf |fg{nmlz}
+\xe 〜 |fg{cop}
+\xn 〜 系词
+\xf 〜 |fg{cop}
 \xv ʐɻ̩˧ɻ̩˥-gv̩˩
 \xe square
 \xn 方形的
@@ -79015,25 +79159,6 @@ tsɯ˩, ɣɯ˧dʑo˧ yyyy
 \xf pour ce qui est de Diddeo |fv{ti˧ɖo˥} [nom propre], …
 \dt 06/Oct/2015
 
-\lx -lɑ˩tɑ˩
-\sf <nb="2011"> 1057
-\or lada
-\ps postp
-\sd <langue="fra"> espace
-\sd <langue="eng"> space
-\ton L
-\lc lɑ˩tɑ˩˥
-\so <print="n"> F4
-\de Close to.
-\ge close_to
-\df À proximité de.
-\gf à_proximité_de
-\xv ɑ˩ʁo˧ | -lɑ˩tɑ˩˥
-\xe the perimeter of the house: the surface on which the house (farm) extends
-\xn 家的面积
-\xf le périmètre de la maison, là où s'étend le domaine de la maison
-\dt 04/Sep/2015　yyyy　ＥＲＲＥＵＲ
-
 \lx -mæ˧mæ˥
 \or maemae
 \ps postp
@@ -79273,8 +79398,13 @@ tsɯ˩, ɣɯ˧dʑo˧ yyyy
 \df Ou, ou alors.
 \gf ou
 \xv gɯ˩-ʝi˥ | bi˧-ɳɯ˧ | mɤ˧-bi˧?
-Bon alors, vrai de vrai, tu te décides? Tu viens ou pas ? yyyy
-hwæ˧-ɳɯ˧ | mɤ˧-hwæ˧?
+\xe So, have you made up your mind for good? Are you coming or not?
+\xn 你真的下定决心了吗？你到底来不来？
+\xf Bon alors, vrai de vrai, tu te décides? Tu viens ou pas?
+\xv hwæ˧-ɳɯ˧ | mɤ˧-hwæ˧?
+\xe Do (you/we) buy it or not?
+\xn 买不买？
+\xf (On l')achète ou pas?
 
 \lx -ɳɯ˧
 \sf <nb="2011"> 3360
