@@ -1369,7 +1369,7 @@
 \nt <type="hist" langue="fra" print="n"> (idem 146, cou)
 \ton H#-L
 \lc æ˧tsɯ˥pɤ˩lv̩˩
-\cf pɤ˩lv̩˧
+\cf pɤ˩lv̩˧1
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
@@ -6141,7 +6141,7 @@
 \or xepian
 \bw <langue="cmn"> 相片
 \ps n
-\cf pɤ˧lɑ˩
+\cf pɤ˧
 \lc ɕjɤ˧pʰje˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -8097,8 +8097,8 @@
 \so <print="n"> F4
 \de Ddeema Butee, a feminine given name.
 \ge Ddeema_Butee
-\dn 女性名字
-\gn 女性名字
+\dn 祝玛布尺：女性名字（还音译为‘独玛布尺’）
+\gn 祝玛布尺
 \df Ddeema Butee, un prénom féminin.
 \gf Ddeema_Butee
 
@@ -8113,11 +8113,10 @@
 \so <print="n"> F4
 \de Ddeema, a feminine given name.
 \ge Ddeema
-\dn 独玛：一个女性名字　（还音译为‘笃玛’、‘直玛’）
+\dn 独玛：一个女性名字（还音译为‘独妈’、‘笃玛’、‘直玛’、‘祝玛’）
 \gn 独玛
 \df Ddeema, un prénom féminin.
 \gf Ddeema
-\dt 27/Aug/2015
 
 \lx ɖɯ˩mi#˥
 \or ddeemi
@@ -17050,6 +17049,10 @@
 \xe dispensary: literally, a place where a doctor can be consulted
 \xn 诊所：字面意思是“看病的地方”
 \xf Le dispensaire, c'est le lieu où on va consulter un médecin!
+\xv mɤ˧-go˩ lɑ˩ dʑɤ˩!
+\xe It's only when one has no ailments that one can be happy! (An observation about the health trouble that comes with older years.)
+\xn 不病才（能）高兴！／没有病的时候才能开心！／身体健康才能幸福！（反思高年龄身体不舒服的困难和烦恼）
+\xf C'est seulement quand on n'a pas de maladie qu'on peut être content! / Ce n'est qu'en l'absence de soucis de santé qu'on peut être heureux! (Réflexion au sujet des contrariétés qu'apportent les soucis de santé avec l'âge.)
 
 \lx gɤ˩-
 \or gge-
@@ -19362,6 +19365,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\sn 1
 \pdv v̩˧
 \de Person, human being, man (without any indication of gender).
 \ge person
@@ -19377,6 +19381,37 @@
 \xe a lineage, a family
 \xn 一个家族
 \xf une lignée, une famille
+\sn 2
+\de Someone.
+\ge someone
+\dn 某人
+\gn 某人
+\df Quelqu'un.
+\gf quelqu'un
+\xv hĩ˧-ɲɯ˩ | ʐwɤ˩-dʑo˩ pʰæ˥-di˩!
+\xe Someone must be talking (about you)! (A sentence one says when somebody sneezes.)
+\xn 肯定有人在说（你）！（打喷嚏时说的一句话。）
+\xf Il doit y avoir quelqu'un qui parle (de toi)! (Ce qu'on dit quand quelqu'un éternue.)
+\xv hĩ˧-ɲɯ˩ | ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˥-di˩!
+\xe Someone must be talking about her/him! (A sentence one says when somebody sneezes.)
+\xn 肯定有人在说他！（打喷嚏时说的一句话。）
+\xf Il doit y avoir quelqu'un qui parle d'elle/de lui! (Ce qu'on dit quand quelqu'un éternue.)
+\xv hĩ˧-ɲɯ˩ | no˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
+\xe Someone must be talking about you! (A sentence one says when somebody sneezes.)
+\xn 肯定有人在说你！（打喷嚏时说的一句话。）
+\xf Il doit y avoir quelqu'un qui parle de toi! (Ce qu'on dit quand quelqu'un éternue.)
+\xv hĩ˧-ɲɯ˩ | njɤ˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
+\xe Someone must be talking about me! (A sentence one says when somebody sneezes.)
+\xn 肯定有人在说我！（打喷嚏时说的一句话。）
+\xf Il doit y avoir quelqu'un qui parle de moi! (Ce qu'on dit quand quelqu'un éternue.)
+\sn 3
+\pdv v̩˧
+\de Other people, others, outsiders to one's group (family, clan...).
+\ge other_people
+\dn 他人、外人、别人
+\gn 他人
+\df Les autres, les autres gens, les inconnus, ceux qui ne sont pas du même groupe (famille, clan, ethnie...).
+\gf autres_gens
 \xv hĩ˧-mv̩˥ hĩ˩-di˩
 \xe other people's home, other people's place (as opposed to one's home place)
 \xn 人家的地方，人家的故乡、他乡
@@ -28427,7 +28462,9 @@
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
-\xc <langue="fra"> F4 prononce /le˧-kv̩˧~kv̩˥/.
+\xc <langue="fra"> F4 prononce /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="eng"> F4 pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="cmn"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
 \rf F5
 
 \lx kv̩˩α
@@ -35712,7 +35749,14 @@
 \xn 指示代词 〜
 \xf |fg{dem} 〜 (tone: H# / H$)
 \xc PHONO
-\dt 24/Apr/2017
+\xv hɑ˧ mɤ˩
+\xe a little food
+\xf 一点饭
+\xf un peu de nourriture
+\xv ɖʐe˧ mɤ˩
+\xf a little money
+\xf 一点钱
+\xf un peu d'argent xxxx à confirmer, entendu dans le dialogue AH-F4.
 
 \lx mɤ˧‑
 \sf <nb="B"> 2207
@@ -37108,17 +37152,18 @@
 \ps n
 \ton L#-
 \lc mv̩˧ʈʂo˩ti˩bɻ̩˩
+\nt <type="hist" langue="fra" print="n"> Avant 2024: traduit comme Araignée d'eau, |fi{Gerridae}. En anglais: Water striders, water bugs, magic bugs, pond skaters, |fi{Gerridae}. En chinois: 水黽. Il s'agit en fait d'un animal d'environ 5 cm, gris-noir.
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \so <print="n"> F4
 \va <speaker="M21"> dʑi˧ku˧bɻ̩˧
-\vf périphrase: “insectes (qu'il y a) dans l'eau"
-\de Water striders, water bugs, magic bugs, pond skaters, |fi{Gerridae}.
-\ge water_striders
-\dn 水黽
-\gn 水黽
-\df Araignée d'eau, |fi{Gerridae}. yyyy identification à revoir: est un insecte d'environ 5 cm, gris-noir.
-\gf araignée_d_eau
+\vf Périphrase: “insecte (qu'il y a) dans l'eau, insecte aquatique".
+\de A water insect (remains to be identified).
+\ge water_insect
+\dn 一种水生昆虫（尚待确认）。
+\gn 一种水生昆虫（尚待确认）
+\df Insecte aquatique (qui reste à identifier).
+\gf insecte_aquatique
 
 \lx mv̩˧tsɯ˧˥
 \sf <nb="B"> 135
@@ -40086,6 +40131,7 @@
 \lx njo˩˥
 \sf <nb="B"> 150
 \sf <nb="2011"> 217
+\hm ɳæ˧
 \or nyoq
 \ps n
 \sd <langue="fra"> corps
@@ -40112,7 +40158,25 @@
 \xe to drink milk
 \xn 喝奶
 \xf boire du lait
-\dt 09/Sep/2015
+
+\lx ɳæ˧
+\sf <nb="B"> 150
+\sf <nb="2011"> 217
+\hm ɳæ˧
+\or nae rrrr
+\ps n
+\sy njo˩˥
+\lc ɳæ˧
+\sd <langue="fra"> corps
+\sd <langue="eng"> body
+\ton M / H xxxx
+\so <print="n"> F4
+\de Milk.
+\ge milk
+\dn 奶汁
+\gn 奶汁
+\df Lait.
+\gf lait
 
 \lx njo˧
 \sf <nb="2011"> 3041
@@ -40144,7 +40208,10 @@
 \xn 青稞穗
 \xf épi d'orge d'altitude
 \xc H#
-\dt 09/Sep/2015
+\xv dze˧ɭɯ˧-hɑ˧njo˩
+\xe ear of wheat
+\xn 小麦穗
+\xf épi de blé
 
 \lx njo˥
 \or nyo
@@ -40223,7 +40290,6 @@
 \gn 眼睛
 \df Œil (monosyllabe).
 \gf œil
-\dt 09/Sep/2015
 
 \lx njɤ˧˥
 \sf <nb="B"> 1769
@@ -40290,15 +40356,15 @@
 \nt <type="hist" langue="fra" print="n"> (aussi: mot pour “rapide", 969)
 \ton MH
 \lc njɤ˧˥
+\cf njɤ˧lɑ˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\de Early (to rise early).
+\de Early.
 \ge early
 \dn 早
 \gn 早
 \df Tôt.
 \gf tôt
-\dt 09/Sep/2015
 
 \lx njɤ˩β
 \sf <nb="B"> 1175
@@ -40307,35 +40373,47 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (item différent de 1135 “réparer", lequel est: njɤ˧˥, donnant: le˧njɤ˧ze˥, ton 4)
+\nt <type="hist" langue="fra" print="n"> Non homophone de “réparer", lequel est: njɤ˧˥, donnant: le˧-njɤ˧-ze˥, ton 4.
+\nt <type="hist" langue="fra" print="n"> Avant 2024: interprété à tort comme "décortiquer (le riz)", anglais: to husk, chinois: 舂米.
 \ton Lβ
 \lc njɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To husk.
-\ge to_husk
-\dn 舂米
-\gn 舂
-\df Décortiquer le riz.
-\gf décortiquer
+\de To stir, to blend.
+\ge to_stir
+\dn 搅拌、翻拌
+\gn 搅拌
+\df Touiller, mélanger, remuer.
+\gf mélanger
 \xv le˧-njɤ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
-\xn 实施 〜 整体体：舂了
+\xn 实施 〜 整体体：搅拌了
 \xf |fg{accomp} 〜 |fg{pfv}
+\xv le˧-njɤ˧~njɤ˥
+\xe |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠：搅拌搅拌
+\xf |fg{accomp} 〜 |fg{red}
 \xv hɑ˧ njɤ˧˥
-\xe to husk rice
-\xn 舂米
-\xf décortiquer du riz
+\xe to stir rice (in a pot)
+\xn 搅拌米饭
+\xf touiller du riz
 \xv hɑ˧ | le˧-njɤ˩
-\xe to husk rice
-\xn 舂米
-\xf décortiquer du riz
+\xe to stir rice (in a pot)
+\xn 搅拌米饭
+\xf touiller du riz
 \xv hɑ˧ | ɖɯ˧-njɤ˧~njɤ˩-ɻ̩˩
-\xe rice - |fg{delimitative} |fg{red} |fg{inceptive}
-\xn 把米舂一舂
-\xf riz - |fg{délimitatif} 〜 |fg{red} |fg{inchoatif} : décortiquer un peu le riz
-\dt 09/Sep/2015
+\xe rice 〜 |fg{delimitative} |fg{red} |fg{inceptive}: to stir the rice a bit, to do a bit of stirring
+\xn 把米搅拌搅拌
+\xf riz - |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}: touiller un peu le riz
+\xv ɖɯ˧-v̩˧ tʰi˧-njɤ˥
+\xe to stir a pot (of rice, to make rice paste in order to prepare rice cakes)
+\xn 搅拌一锅（如：搅拌一锅米饭，做出浆糊，准备制作米饼。）
+\xf touiller une casserolée (de riz, de façon à faire de la pâte de riz pour confectionner des galettes de riz)
+\xv qʰɑ˧dze˧-hɑ˧ njɤ˥
+\xe to stir polenta (corn flour)
+\xn 搅拌玉米粥
+\xf touiller de la polenta (de la farine de maïs)
 
 \lx njo˩bi˥
 \sf <nb="B"> 149
@@ -40576,6 +40654,7 @@
 \lx njɤ˧lɑ˥
 \sf <nb="2011"> 1411
 \or nyala
+\et njɤ˧˥
 \ps adv
 \ton H#
 \lc njɤ˧lɑ˥
@@ -40596,7 +40675,6 @@
 \xe to rise early
 \xn 起得早
 \xf se lever tôt
-\dt 25/Apr/2017
 
 \lx njɤ˧le˧gv̩#˥
 \sf <nb="B"> 747
@@ -40710,14 +40788,23 @@
 \ton L#
 \lc njɤ˧nɑ˩
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> Avant 2024, interprété comme un synonyme de |fv{njɤ˧-gɤ˧lɑ˩}, 'prunelle'.
 \pdv ɭɯ˧β
-\de Eyeball.
-\ge eyeball
-\dn 眼珠
-\gn 眼珠
-\df Prunelle.
-\gf prunelle
-\dt 09/Sep/2015
+\de A dark spot next to the eye, |fi{conjunctival pigmented nevus}. It is congenital. The border is often indistinct and in most cases there is only one. It does not affect vision.
+\ge dark_spot_in_eye
+\dn 结膜色素痣：眼珠旁的黑点。这是一种先天性的。边界常常是不清晰的，大多数情况只有一颗。不影响视力。
+\gn 结膜色素痣
+\df Tache noire dans le blanc de l'œil, |fi{nævus pigmenté conjonctival}: une tache sombre près de la prunelle. Il s'agit d'une caractéristique congénitale. Sa bordure est souvent indistincte et, dans la plupart des cas, il n'y en a qu'un seul. Il n'affecte pas la vision.
+\gf tache_noire_dans_l'œil
+\xv njɤ˧nɑ˩ zo˩
+\xe man with a black spot in the eye: a dark spot near the eye (|fi{conjunctival pigmented nevus}).
+\xn 眼睛有黑点的人（眼睛有结膜色素痣）。
+\xf homme affecté d'une tache noire dans l'œil: une tache sombre près de la prunelle (|fi{nævus pigmenté conjonctival}).
+\xc <type="hist" langue="fra" print="n"> xxxx vérifier qu'il s'agit bien de la même chose dans les deux expressions : njɤ˧nɑ˩ zo˩ et ʝi˩mi˩-njɤ˩nɑ˥, dont la syntaxe est inverse.
+\xv ʝi˩mi˩-njɤ˩nɑ˥
+\xe Cow with a black spot in the eye.
+\xn 眼睛有黑点的牛。
+\xf Vache ayant une tache noire dans l'œil.
 
 \lx njo˩pɤ˩lv̩˥
 \sf <nb="B"> 1953
@@ -43685,7 +43772,7 @@
 \xc PHONO
 \xv hĩ˧ ɖɯ˧-v̩˧ | tso˧~tso˧ ɖɯ˧-kʰwɤ˥ | tʰi˧-po˧˥
 \xe someone brings something
-\xn 有人带东西过来
+\xn 有一个人带一样东西过来
 \xf quelqu'un prend/amène quelque chose
 \xc PHONO
 \xv ʈʂʰwæ˧˥ | po˧-jo˥!
@@ -44113,7 +44200,7 @@
 \gn 工匠
 \df Artisan, menuisier.
 \gf artisan
-\xv po˧ɖʐɯ˧ ʝi˧-hĩ˧-hĩ˧
+\xv po˧ɖʐɯ˧ ʝi˧-hĩ˧ hĩ˧
 \xe person who works as a craftsman
 \xn 当工匠的人
 \xf personne qui travaille comme artisan
@@ -45071,6 +45158,7 @@
 \sf <nb="B"> 1657
 \sf <nb="B"> 980
 \sf <nb="2011"> 2475
+\hm 1
 \or beu
 \ps adj
 \sd <langue="fra"> adjectif
@@ -45110,8 +45198,8 @@
 \xf bois sec
 
 \lx pɻ̩˧
-\hm 2 yyyy
-\or bu
+\hm 2
+\or beu rrrr
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45325,10 +45413,14 @@
 \xe to pour wine, to serve wine
 \xn 倒酒
 \xf verser du vin, servir du vin
-\xv dʑɯ˩ pʰv̩˩˥ yyyy + li˩ pʰv̩˩˥
+\xv dʑɯ˩ pʰv̩˩˥
 \xe to pour water, to serve water (as a beverage)
 \xn 倒水
 \xf verser de l'eau
+\xv li˩ pʰv̩˩˥
+\xe to serve tea
+\xn 倒茶
+\xf verser du thé
 \xv mv̩˩-tɕo˧ pʰv̩˧˥
 \xe to pour out, to spill on the floor
 \xn 往外倒
@@ -45414,14 +45506,18 @@
 \sd <langue="eng"> verb
 \ton Lβ
 \lc pʰɻ̩˩˥
+\nt <type="sem" langue="eng"> In the Wualabbi dialect, the verb is reported (by Siggeema, F22) to express the idea of people dispersing (throughout the land/world) due to population increase. (Growth naturally tends to be accompanied by spatial expansion.) There is a sense of movement, as well as multiplication. In the Alawua dialect, on the other hand, the term does not by itself describe dispersion.
+\nt <type="sem" langue="fra"> Dans le dialecte de Wualabbi, Siggeema (F22) relève que le verbe exprime l'idée d'une dispersion (dans le voisinage, et dans le vaste monde) en raison de l'augmentation de la population. La croissance tend naturellement à s'accompagner d'une expansion spatiale. Dans le dialecte d'Alawua, en revanche, le terme ne décrit pas par lui-même une dispersion.
+\nt <type="sem" langue="cmn"> 据Siggeema（F22）报道，在老温泉方言中，该动词表达的意思是由于人口增长，人们分散、去不同的地方定居。而在阿拉瓦方言中，该词本身并不描述分散。
 \so <print="n"> F4
 \va <speaker="F5"> ID.
+\va <speaker="F22"> ID.
 \va <speaker="M21"> ID.
-\de To multiply, to get numerous, to expand (the family grows through successive births). The term does not describe dispersion, but growth (which naturally tends to be accompanied by spatial expansion).
+\de To multiply, to get numerous, to expand (the family grows through successive births).
 \ge to_multiply
 \dn 繁殖：通过连续生育，家庭增加新成员。这个词描述的不是分散，而是增长（自然会伴随着空间扩展）。
 \gn 繁殖
-\df Croître, se multiplier, connaître une expansion (la famille s'étend: elle gagne de nouveaux membres, par des naissances successives). Le terme ne décrit pas une dispersion, mais une croissance (qui tend naturellement à s'accompagner d'une expansion dans l'espace).
+\df Croître, se multiplier, connaître une expansion (la famille s'étend: elle gagne de nouveaux membres, par des naissances successives).
 \gf se_multiplier
 \xv zo˧mv̩˥ | tʰi˧-pʰɻ̩˩
 \xe children multiply, many children are born; other meaning
@@ -45943,8 +46039,8 @@
 \so <print="n"> F4
 \de Butee, a feminine given name.
 \ge Butee
-\dn 女性名字
-\gn 女性名字
+\dn 布尺：一个女性名字
+\gn 布尺
 \df Butee, un prénom féminin.
 \gf Butee
 
@@ -46208,17 +46304,22 @@
 \xn 火在烧 / 火烧着了
 \xf ça brûle; il y a un incendie
 \xc <type="hist" print="n"> en 2006: /†mv̩˧kæ˥ɻ̩˧ kʰɯ˩/, /mv̩˧kæ˥ɻ̩˧ kʰɯ˩ ze˥/; en 2007: “confirmé par F4: est /ɭɯ˩/ et non /ɻ̩˩/"; 2009: confirme définitivement que c'est /ɻ/, non pas /ɭɯ/ ni /lv/.
-\xv mv̩˧ qæ˥-ɻ̩˩ kʰɯ˩
-yyyy aussi : mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩; vérifié: n'est pas /lv/
+\xv mv̩˧ qæ˥-ɻ̩˩ kʰɯ˩ ≈ mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩
 \xe to start a fire (as an act of destruction/war), to commit arson
 \xn （有人）放火
 \xf lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)
-\xc <speaker="M23"> mv̩˧ qæ˥-lv̩˩ kʰɯ˩
+\xv mv̩˧ qæ˥-lv̩˩ kʰɯ˩
+\xe to start a fire (as an act of destruction/war), to commit arson
+\xn （有人）放火
+\xf lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)
+\xc <type="dialect" langue="fra"> La prononciation |fv{...-lv̩˩...} est jugée incorrecte par F4.
+\xc <type="dialect" langue="eng"> Pronunciation as |fv{...-lv̩˩...} is deemed incorrect by F4.
+\xc <type="dialect" langue="fra"> 主发音人认为，|fv{...-lv̩˩...}这种发音不准。
+\rf M23
 \xv mv̩˧qæ˥-ɻ̩˩-hɯ˩
 \xe a fire has started
 \xn （有人）放火了！
 \xf un incendie est parti
-\dt 10/Sep/2015
 
 \lx qæ˧˥
 \hm 2
@@ -46273,9 +46374,9 @@ yyyy aussi : mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩; vérifié: n'est pas /lv/
 \xn |fg{accomp}
 \xf |fg{accomp}
 \xv tso˧~tso˧ | le˧-qæ˧~qæ˧
-\xe |fg{accomp}
-\xn |fg{accomp}
-\xf |fg{accomp} yyyy
+\xe to move things around
+\xn 搬搬东西
+\xf déplacer des choses
 
 \lx qæ˥
 \sf <nb="B"> 1307
@@ -46864,7 +46965,14 @@ yyyy aussi : mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩; vérifié: n'est pas /lv/
 \xe ten and a few more (i.e. between ten and twenty)
 \xn 十几个、十来个
 \xf dix et plus (entre dix et vingt)
-\dt 01/Oct/2015
+\xv hõ˧tsʰi˧ qʰɑ˧ kʰv̩˥
+\xe eighty-something years of age
+\xn 八十多岁
+\xf plus de quatre-vingts-ans, quatre-vingts ans et quelques, quatre-vingts ans passés
+\xv hĩ˧ | qʰɑ˧ bæ˧ dʑo˧!
+\xe There are different kinds of people! / There exist all sorts of people! (A slightly negative comment on behaviours that never cease to amaze.)
+\xn 什么人都有啊！／人，有各种各样的！（直译：“存在有不同的人[格]”）
+\xf Il existe plusieurs sortes de gens / il existe diverses sortes de gens! (Commentaire, légèrement négatif, au sujet de comportements qui ne laissent pas de nous surprendre.)
 
 \lx qʰɑ˥
 \sf <nb="B"> 1036
@@ -46980,26 +47088,40 @@ yyyy aussi : mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩; vérifié: n'est pas /lv/
 \gn 调羹
 \df Cuillère de petite taille: pour le sel, le tsamba… Elle correspond aux cuillères à café et cuillères à soupe du paradigme européen.
 \gf cuillère
-\dt 27/Apr/2017
 
-\lx qæ˩di˩
+\lx qæ˩
 \sf <nb="2011"> 2074
-\or ghaeddi
+\or ghae rrrr
 \ps v
-\lc qæ˩di˩˥
+\lc qæ˩˥
+\cf to˧kɤ˧-qʰæ˩di˩ | bæ˩bæ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> cf nom de plante: to˧kɤ˧qæ˩di˩bæ˩bæ˩˧
+\nt <type="hist" langue="fra" print="n"> Avant 2024: noté comme un disyllabe, /qæ˩di˩/.
 \ton L
 \so <print="n"> F4
 \de To flick, to flip.
 \ge to_flick
 \dn 弹（弹脸）
 \gn 弹
-\df Donner une chiquenaude. yyyy to˧kɤ˧ qʰæ˩ / to˧kɤ˧ le˧-qʰæ˧˥ (on donnait les chiquenaudes sur le front) to˧kɤ˧-qʰæ˩di˩-bæ˩bæ˩˥
-qʰæ˩di˩˥ : to˧kɤ˧ qʰæ˩di˩ ɲi˩ c'est une chiquenaude.
+\df Donner une chiquenaude.
 \gf donner_une_chiquenaude
-\dt 01/Oct/2015
+\xv to˧kɤ˧ qʰæ˩ (on donnait les chiquenaudes sur le front)
+\xe To flick (someone's) forehead. (That was the traditionally designated spot for flicking.)
+\xn 弹（某人的）额头。(那是传统上指定的弹指部位。）
+\xf Donner une chiquenaude au front. (C'est là qu'on portait traditionnellement les chiquenaudes.)
+\xv to˧kɤ˧ le˧-qʰæ˧˥
+\xe Same as above.
+\xn 同上。
+\xf Idem.
+\xv qʰæ˩di˩˥
+\xe A flick. (This phrase by itself is hardly intelligible: the usual phrase is |fv{to˧kɤ˧-qʰæ˩di˩}.)
+\xn 弹额头（这个短语本身很难理解：通常的短语是|fv{to˧kɤ˧-qʰæ˩di˩}）。
+\xf Une chiquenaude au front. (Cette expression est difficilement intelligible: la formule usuelle est |fv{to˧kɤ˧-qʰæ˩di˩}.)
+\xv to˧kɤ˧-qʰæ˩di˩
+\xe A flick to the forehead.
+\xn 弹额头
+\xf Une chiquenaude au front.
 
 \lx qæ˧do˧
 \sf <nb="B"> 450b
@@ -48214,7 +48336,7 @@ qʰæ˩di˩˥ : to˧kɤ˧ qʰæ˩di˩ ɲi˩ c'est une chiquenaude.
 \ton M
 \lc qo˧pɻ̩˧
 \cf qwɤ˩pi˩
-\cf pɻ̩˧
+\cf pɻ̩˧1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> vérifié: initiale uvulaire et non vélaire
@@ -52944,7 +53066,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \so <print="n"> F4
 \de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
 \ge Wualabbi
-\dn 温泉村（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
+\dn 老温泉（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
 \gn 瓦拉比村
 \df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi.
 \gf Wualabbi
@@ -56382,18 +56504,18 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sf <nb="2011"> 2572
 \or sho
 \ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\np <langue="fra"> (cf récit 2)
 \ton H
 \lc ʂo˧
 \so <print="n"> F4
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
 \de To reap, to gather in.
 \ge to_reap
-\dn 收割，收集
+\dn 收割
 \gn 收割
-\df Récolter; rassembler, assembler, accumuler.
-\gf récolter yyyy distinguer deux sous-sens.
+\df Récolter.
+\gf récolter
 \xv le˧-ʂo˥-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：收割了
@@ -56411,14 +56533,23 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe Harvest time has come!
 \xn 该收庄稼了！
 \xf Il va être temps de faire la récolte!
-\xv le˧-ʂo˧~ʂo˧
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
-\xf |fg{accomp} 〜 |fg{red}
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\de To gather, to collect, to bring together.
+\ge to_gather
+\dn 收集
+\gn 收集
+\df Rassembler, assembler.
+\gf rassembler
 \xv ʂo˧~ʂo˧-zo˧-ho˩-ze˩
 \xe We are going to have to gather (things).
 \xn 该收集一些了。
 \xf Il va falloir rassembler/assembler.
+\xv le˧-ʂo˧~ʂo˧
+\xe |fg{accomp} 〜 |fg{red}: to gather a bit, to do a bit of gathering
+\xn 收集收集
+\xf |fg{accomp} 〜 |fg{red}: rassembler un peu, déployer une action en vue de rassembler
 
 \lx ʂɤ˧do˧˥
 \sf <nb="B"> 1080
@@ -64014,7 +64145,25 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe on television
 \xn 电视上
 \xf à la télévision
-\dt 01/Jul/2017
+
+\lx to˧ʝi˧
+\or doyi rrrr
+\ps n
+\lc to˧ʝi˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton M
+\so <print="n"> F4
+\de Short video. After the name of the Douyin video platform (international version: TikTok) developed by Beijing Weibao Vision Technology Co., Ltd. Douyin was very popular in the 2020s, and “shooting a Douyin” became a popular expression for “shooting a short video”.
+\ge short_video
+\dn 短视频。取自北京微播视界科技有限公司开发的抖音视频平台（国际版：TikTok）的名称。抖音在2世纪20年代非常流行，“拍个抖音”成为“拍短视频”的流行说法。
+\gn 短视频
+\df Vidéo courte. Du nom de la plate-forme vidéo Douyin (version internationale : TikTok) développée par Beijing Weibao Vision Technology Co, Ltd. Douyin était très à la mode dans les années 2020, et «tourner un Douyin» est rapidement devenu un synonyme de «tourner une vidéo courte».
+\gf vidéo_courte
+\xv to˧ʝi˧ pʰæ˩
+\xe to shoot a short video, to make a video to post on the Douyin platform
+\xn “拍个抖音”：拍短视频
+\xf tourner une vidéo courte, faire une petite vidéo à mettre en ligne sur la plate-forme Douyin
 
 \lx to˩˥
 \sf <nb="B"> 29
@@ -64044,7 +64193,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe mountain slope
 \xn 山坡
 \xf pente de montagne
-\dt 08/Oct/2015
 
 \lx ʈʰɤ˧˥
 \sf <nb="2011"> 2034
@@ -67788,7 +67936,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe to be in good health: not sick, not suffering
 \xn 健康：不病、不痛
 \xf être bien portant, ne pas être malade
-\dt 08/Oct/2015
 
 \lx tsi˧β
 \or zee
@@ -75856,7 +76003,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe is going to sleep
 \xn 要睡了
 \xf qui va s'endormir, qui est ensommeillé
-\dt 07/Oct/2015
+\xv ə˧hwɤ˧ | mɤ˧-ʑi˧ŋv̩˥-ze˩!
+\xe You've got dark circles! (Literally: “You didn't sleep last night!”)
+\xn 你有黑眼圈！（字面意思：“你昨晚没睡！”）
+\xf Tu as des cernes! (Littéralement: «Tu n'as pas dormi, hier soir!»)
 
 \lx ʑi˩pʰv̩#˥
 \or xxipu
@@ -79440,6 +79590,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 像、好像
 \df Semblable à; comme; comme si; on dirait que.
 \gf comme_si
+\xv ʈʂʰɯ˧ | ə˧dɑ˧-pʰæ˧di˥.
+\xe She looks like her father.
+\xn 她长得很像她父亲。
+\xf Elle ressemble à son père.
 \xv mɤ˧-pʰæ˥di˩
 \xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
