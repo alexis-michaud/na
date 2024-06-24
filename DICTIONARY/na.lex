@@ -11678,7 +11678,10 @@
 \xe Let's eat! / It's time to eat!
 \xn 要吃饭了！
 \xf (On) va manger! / C'est l'heure de manger!
-\dt 24/Apr/2017
+\xv dzɯ˧ tʰɑ˩.
+\xe It is edible. / I/you/(s)he can eat it.
+\xn 可以吃的。／（我／你／他）能吃。
+\xf Ca se mange, c'est comestible. / Je peux en manger/tu peux en manger/il peut en manger.
 
 \lx dʑɯ˩
 \sf <nb="B"> 40a
@@ -16889,13 +16892,14 @@
 \gf haut(du_corps)
 \dt 13/Jun/2017
 
-\lx gɤ˩ʈʂʰæ˧-hĩ˧˥
+\lx gɤ˩ʈʂʰæ˧-hĩ˥
 \sf <nb="2011"> 394
 \or ggechaehin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> cf récit 1
+\nt <type="hist" langue="fra" print="n"> avant juin 2024: noté L.M.MH, par erreur (enregistrement du 24 juin).
 \ton LM+MH#
 \lc gɤ˩ʈʂʰæ˧hĩ˧˥
 \so <print="n"> F4
@@ -31609,7 +31613,7 @@
 \ge |fg{clf}.valleys
 \dn 量词：谷
 \gn 量词.谷
-\df Classificateur des vallées.
+\df Auto-classificateur des vallées. Également employé pour les chemins.
 \gf |fg{clf}.vallées
 \xv hĩ˧-ɻ̩̃˧ | ɖɯ˧-lo˩
 \xe literally ‘a valley of people', to mean: all the population of that valley
@@ -31618,8 +31622,7 @@
 \xv si˧dzi˩ | ɖɯ˧-lo˩
 \xe ‘a valley [of/covered with] trees', i.e. a large tract of woodland
 \xn 一山谷的树，一片森林（直译：‘一山谷的树’）
-\xf une grande quantité d'arbres: ‘une vallée [couverte] d'arbres'
-\dt 24/Apr/2017
+\xf une grande quantité d'arbres: ‘une vallée [couverte] d'arbres', ‘toute une vallée d'arbres'
 
 \lx lo˧β
 \or lo
@@ -35756,7 +35759,8 @@
 \xv ɖʐe˧ mɤ˩
 \xf a little money
 \xf 一点钱
-\xf un peu d'argent xxxx à confirmer, entendu dans le dialogue AH-F4.
+\xf un peu d'argent
+\xc <type="hist" dom="synt" langue="fra" print="n"> Confirmé en 2024.
 
 \lx mɤ˧‑
 \sf <nb="B"> 2207
@@ -42960,6 +42964,8 @@
 \bw <langue="cmn"> 板凳
 \ps n
 \lc pæ˧te˩
+\cf qwæ˧ʁo#˥
+\cf qwæ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt au chinois)
@@ -44767,6 +44773,8 @@
 \nt <type="hist" langue="fra" print="n"> (pas le même ton que F4, ni en forme de citation ni en cadre) (tons confirmés, initiale non rétroflexe confirmée)
 \ton LM+#H
 \lc pɤ˩ti˥
+\cf qwæ˧ʁo#˥
+\cf qwæ˧
 \so <print="n"> F4
 \va <speaker="F5"> pɤ˩ti˩
 \vf <dom="ton"> L
@@ -44779,7 +44787,6 @@
 \gn 凳子
 \df Tabouret, petit banc.
 \gf tabouret/banc
-\dt 21/Jun/2017
 
 \lx pɤ˧ʈʂʰwæ˩
 \or bechuae
@@ -46496,9 +46503,9 @@
 \xe I help you
 \xn 我帮你
 \xf je t'aide
-\dt 15/Sep/2015
 
 \lx qʰæ˩
+\hm 1
 \or khaeq
 \ps v
 \sd <langue="fra"> verbe
@@ -46627,19 +46634,19 @@
 \xf tirer avec une arme à feu
 \dt 13/Jun/2017
 
-\lx qʰæ˧˥
+\lx qʰæ˩
 \sf <nb="B"> 1091
 \sf <nb="B"> 1092
 \sf <nb="B"> 1095
 \sf <nb="2011"> 1548
-\hm 5
+\hm 2
 \or khaeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> vérifié en 2009
-\ton MH
-\lc qʰæ˧˥
+\nt <type="hist" langue="fra" print="n"> vérifié en 2009... mais le ton était alors noté MH, par erreur. Corrigé en L en juin 2024.
+\ton L
+\lc qʰæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de Happy, content, peaceful, at peace.
@@ -46648,7 +46655,7 @@
 \gn 幸福
 \df Heureux.
 \gf heureux
-\xv le˧-qʰæ˧-ze˥
+\xv le˧-qʰæ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体
 \xf |fg{accomp} 〜 |fg{pfv}
@@ -46823,6 +46830,10 @@
 \xe as above: to pick up a little dung (to fertilize the fields)
 \xn 同上：捡一点（马……）屎
 \xf même sens: ramasser un peu de crottin
+\xv qʰæ˧ ʐwɤ˧˥
+\xe to tell lies (literally: ‘to speak shit’)
+\xn 撒谎、说谎（直译：‘说（出）屎’）
+\xf dire des mensonges (littéralement: ‘dire de la merde’)
 \sn 2
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -46852,7 +46863,6 @@
 \gn 垃圾
 \df Ordure, détritus.
 \gf ordures
-\dt 13/Jul/2017
 
 \lx qʰɑ˧
 \sf <nb="B"> 909b
@@ -47039,16 +47049,16 @@
 \xf C'est de la camelote! / C'est un truc d'arnaqueurs! (au sujet d'une bobine de fil de mauvaise qualité, achetée dans le commerce)
 \dt 01/Oct/2015
 
-\lx qʰæ˧β
+\lx qʰæ˧˥
 \sf <nb="B"> 1238
 \sf <nb="2011"> 1774
 \or khae
 \ps v
-\lc qʰæ˧
+\lc qʰæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (notes avant 2009: “kʶæ˧, læ˧ kʰʶæ˧ ze˧, ton 1") (phonétiquement læ˧-qʰæ˧-ze˧)
-\ton Mβ
+\nt <type="hist" langue="fra" print="n"> (notes avant 2009: “kʶæ˧, læ˧ kʰʶæ˧ ze˧, ton 1") (phonétiquement læ˧-qʰæ˧-ze˧) corrigé en juin 2024; auparavant noté un ton M, ˧β.
+\ton MH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -47058,7 +47068,7 @@
 \gn 断
 \df (se) briser, (se) casser (ex.: un bâton).
 \gf briser/se_briser
-\xv le˧-qʰæ˧-ze˧
+\xv le˧-qʰæ˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：断了
 \xf |fg{accomp} 〜 |fg{pfv}
@@ -47066,7 +47076,6 @@
 \xe to break wood
 \xn 砸木头
 \xf briser du bois
-\dt 27/Apr/2017
 
 \lx qʰæ˩bæ˩
 \sf <nb="B"> 514
@@ -47334,6 +47343,7 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
+\pdv lo˩β
 \de Small gulley, small trench.
 \ge small_trench
 \dn 小水渠
@@ -47344,7 +47354,6 @@
 \xe to dig a small trench
 \xn 挖一个小水渠
 \xf creuser un petit canal
-\dt 30/Apr/2018
 
 \lx qʰæ˧mi˧
 \sf <nb="B"> 44
@@ -47378,6 +47387,8 @@
 \ton L#
 \lc qʰæ˧mo˩
 \so <print="n"> F4
+\pdv mo˧˥α
+\pdv ɭɯ˧β
 \de A poisonous mushroom.
 \ge poisonous_mushroom
 \dn 有毒的一种菌子
@@ -47550,7 +47561,7 @@
 \gn 开基村
 \df Khaeqie, un village de Yongning, tout proche du centre administratif.
 \gf Khaeqiee
-\xv ʈʂʰɯ˧ | qʰæ˧tɕʰi˧-hĩ˧ ɲi˥!
+\xv ʈʂʰɯ˧ | qʰæ˧tɕʰi˧ hĩ˧ ɲi˥!
 \xe (S)he is from the village of Khaeqie!
 \xn 他是开基村人！
 \xf c'est quelqu'un de Khaeqie!
@@ -47597,7 +47608,7 @@
 \xe completely dry
 \xn 充分干燥
 \xf complètement sec
-\xv le˧-pɻ̩˧-zo˩, | qʰɑ˧ʈʂʰɤ˧ʈʂʰɤ˥-gv̩˩-ze˩!
+\xv le˧-pɻ̩˧-zo˩, | qʰɑ˧ʈʂʰɤ˧~ʈʂʰɤ˥-gv̩˩-ze˩!
 \xe Now it is dry: completely dry!
 \xn 现在，干了：全干了！
 \xf c'est maintenant sec, et complètement sec!
@@ -47623,42 +47634,40 @@
 \gf anus
 \dt 01/Oct/2015
 
-\lx qʰæ˩ʈv̩˩ɻæ˥
+\lx qʰæ˩ʈæ˩ɻæ˥
 \sf <nb="B"> 1094
 \sf <nb="2011"> 1556
-\or khaedeu'er
+\or khaedae'er rrrr
+\et qʰæ˩2
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> notes avant 2009: kʰæ˩ ʈæ˩ ɻæ˥; corrigé en mai 2008; avais d'abord noté: kʶæ˩ʈæ˩˥, puis kʶæ˩ʈwæ˩˥
-\nt <type="hist" langue="fra" print="n"> (coalescence de 2 syllabes) (d'abord noté …gv̩˧)
-\nt <dom="sem" langue="fra"> de: qʰæ˩ ‘heureux, content, tranquille'
-\np <langue="fra"> forte tendance à l'harmonie vocalique
+\nt <type="hist" langue="fra" print="n"> Avais d'abord noté /kʶæ˩ʈæ˩˥/, puis /kʶæ˩ʈwæ˩˥/, puis /kʰæ˩ ʈæ˩ ɻæ˥/ (reconnaissant, dans la deuxième syllabe des premières notations, la coalescence de deux syllabes). Corrigé en mai 2008 en /qʰæ˩ʈv̩˩ɻæ˥/, tout en relevant une forte tendance à l'harmonie vocalique, autrement dit une réalisation de type [qʰæ˩ʈæ˩ɻæ˥]. Rétabli /qʰæ˩ʈæ˩ɻæ/ en 2024 (enregistrement du 24 juin).
+\nt <type="hist" langue="fra" print="n"> Avais d'abord intégré le morphème /…gv̩˩/ à la forme phonologique du mot.
 \ton L+H#
-\lc qʰæ˩ʈv̩˩ɻæ˥
+\lc qʰæ˩ʈæ˩ɻæ˥
 \so <print="n"> F4
-\va <speaker="F5"> qʰæ˩ʈwæ˩˧ gv̩˩
+\va <speaker="F5"> qʰæ˩ʈwæ˩˥
 \va <speaker="M21"> ID.
-\va <speaker="M23"> kʰæ˩ ʈæ˩ ɻæ˥
+\va <speaker="M23"> kʰæ˩ʈæ˩ɻæ˥
 \de Quiet, peaceful.
 \ge quiet
 \dn 安宁
 \gn 安宁
 \df Serein.
 \gf serein
-\xv qʰæ˩ʈv̩˩ɻæ˥ | ɖɯ˧-dzi˩-ɻ̩˩
+\xv qʰæ˩ʈæ˩ɻæ˥ | ɖɯ˧-dzi˩-ɻ̩˩
 \xe to sit quietly for a while
 \xn 安静地坐一会
 \xf être assis tranquille, dans le calme
-\xv qʰæ˩ʈv̩˩ɻæ˥-gv̩˩
+\xv qʰæ˩ʈæ˩ɻæ˥-gv̩˩
 \xe peacefully
 \xn 安宁地
 \xf tranquillement
-\xv ʈʂʰwɤ˧ | ʈʂʰɯ˧-tɕʰi˧˥, | qʰæ˩ʈv̩˩ɻæ˥ dzɯ˩!
+\xv ʈʂʰwɤ˧ | ʈʂʰɯ˧-tɕʰi˧˥, | qʰæ˩ʈæ˩ɻæ˥ dzɯ˩!
 \xe The evening meal is a meal that one enjoys peacefully! (Explanation: unlike lunch, which is eaten quickly before going back to work, the evening meal is taken in a relaxed setting, enjoying more abundant food than at lunch, and quietly transitioning into rest time.)
 \xn 晚餐这顿，吃得很安静！（说明：中午饭，吃得快然后继续干活。晚餐，吃得很安静，慢慢吃多一点，慢慢进入晚上休息时间。）
 \xf Le dîner, c'est un repas qu'on mange sereinement, bien à son aise! (Explication: à la différence du déjeuner, pris rapidement avant de retourner au travail, le repas du soir est pris en famille, tranquillement; on mange plus qu'à midi; on passe doucement au temps du repos et de la nuit.)
-\dt 04/Aug/2017
 
 \lx qʰæ˧zo#˥
 \or khaesso
@@ -47779,8 +47788,7 @@
 \sn 1
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" langue="fra" print="n"> (sens vérifié en 2007)
-\nt <type="hist" langue="fra" print="n"> ID.
+\nt <type="hist" dom="sem" langue="fra" print="n"> Sens vérifié en 2007.
 \ton Lγ
 \so <print="n"> F4
 \de Classifier for armfuls: of firewood, objects…
@@ -47805,7 +47813,6 @@
 \xe a bundle of corn (cut cereals)
 \xn 一垛小麦（收割时，将十束绑在一起成一垛）
 \xf une botte de blé (lors de la récolte)
-\dt 27/Apr/2017
 
 \lx qʰæ˩α
 \hm 1
@@ -47816,21 +47823,17 @@
 \sd <langue="eng"> adjective
 \ton Lα
 \so <print="n"> F4
-\de False, fake.
-\ge fake
-\dn 假
-\gn 假
-\df Faux, mensonger.
-\gf faux
-\xv qʰæ˩-hĩ˩˥, | tʰɑ˧-ʐwɤ˩!
-\xe Do not tell lies! / Do not tell things that are false!
-\xn 假话，不要说！ =不要撒谎！
-\xf ne dis pas de mensonges!
-\xv qʰæ˧ ʐwɤ˧
-\xe to tell lies
-\xn 撒谎、说谎
-\xf dire des mensonges
-\dt 01/Oct/2015
+\nt <type="hist" dom="sem" langue="fra" print="n"> Avant 2024: compris de travers, comme l'exact antonyme: faux, mensonger.
+\de True, authentic
+\ge true
+\dn 真
+\gn 真
+\df Authentique, vrai, véritable.
+\gf vrai
+\xv qʰæ˩-hĩ˩˥, | le˧-ʐwɤ˩! | mɤ˧-qʰæ˩-hĩ˩, | tʰɑ˧-ʐwɤ˩!
+\xe Tell the truth, don't say things that aren't true! / Say what is true (what is in accordance with the truth); don't say things that aren't true (=do not tell lies)!
+\xn 说真话，不说假话！／要说真话（符合真理的话）；不要说假话（ =不要撒谎）！
+\xf Dis la vérité, ne dis pas de choses qui ne sont pas vraies! / On dit ce qui est vrai (ce qui est conforme à la vérité); on ne dit pas de choses qui ne soient pas vraies!
 
 \lx qʰæ˩α
 \sf <nb="B"> 1061, 1030
@@ -48218,7 +48221,7 @@
 \gn 轮子
 \df Roue.
 \gf roue
-\xc mɤ˧ʈʂʰɤ˧-qʰo˧lo˧
+\xv mɤ˧ʈʂʰɤ˧-qʰo˧lo˧
 \xe cartwheel
 \xc 马车轮
 \xf roue de charrette
@@ -48777,16 +48780,16 @@
 \ton L
 \lc qʰv̩˩ɖɯ˩˥
 \so <print="n"> F4
-\de Attachment (to someone): found in the phrase ‘to be attached to someone, to care for someone'.
-\ge attachment_to_someone
-\dn 关心
-\gn 关心
-\df Attachement envers quelqu'un; observé seulement dans l'expression ‘être attaché à, faire cas de, attacher du prix à’.
-\gf attachement
+\de Respect (for an elder), mingled with affectionate attachment. Found exclusively in the phrase ‘to have respect and attachment to someone', |fv{qʰv̩˩ɖɯ˩ pʰv̩˥}.
+\ge respect
+\dn 尊敬（与关心）。只出现在‘尊敬与关心’这个说法里面：|fv{qʰv̩˩ɖɯ˩ pʰv̩˥}。
+\gn 尊敬
+\df Respect (envers une personne plus âgée), empreint d'attachement et d'affection. Observé seulement dans l'expression ‘avoir respect et attachement envers quelqu'un’, |fv{qʰv̩˩ɖɯ˩ pʰv̩˥}.
+\gf respect
 \xv qʰv̩˩ɖɯ˩ pʰv̩˥
-\xe to care for someone, to respect, to feel attachment to someone
-\xn 关心（一个人），重视（如：孩子重视父母）
-\xf attacher de l'importance à, respecter, être attaché à (ex.: relation des enfants à leurs parents)
+\xe to respect an elder, also with a feeling of attachment and readiness to care for the person
+\xn 尊敬与关心（长辈的人），重视（如：孩子重视母亲与长辈）
+\xf respecter, être attaché à (en particulier: la relation des enfants à leur mère et aux parents de sa génération).
 
 \lx qʰv̩˩ɖʐæ˩
 \sf <nb="2011"> 834
@@ -48862,15 +48865,14 @@
 \gn 窟窿
 \df Cavité, trou (ex.: trou de souris; ou piège où on fait tomber les animaux sauvages).
 \gf cavité
-\xv hwæ˧tsɯ˥-qʰv̩˩dʑi˩
+\xv hwæ˧tsɯ˥-qʰv̩˩dʑɯ˩
 \xe mousehole
 \xn 耗子洞
 \xf trou de souris
-\xv qʰv̩˧dʑɯ˧ tsʰi˧ (-ze˩)
+\xv qʰv̩˧dʑɯ˧ tɕʰɯ˧ (-ze˩)
 \xe to bore a hole
 \xn 挖一个洞
 \xf percer un trou
-\dt 01/Oct/2015
 
 \lx qʰv̩˧ɬi˧mi#˥
 \sf <nb="B"> 782
@@ -49150,29 +49152,23 @@
 \gf mâchoire
 \dt 01/Oct/2015
 
-\lx qwæ˧
-\sf <nb="B"> 487b
-\sf <nb="2011"> 670
-\or ghuae
+\lx qwæ˧mi#˥
+\or ghuaemi rrrr
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton M
-\lc qwæ˧
+\ton #H
+\lc qwæ˧mi˧
+\cf qwæ˧ʁo#˥
+\cf qwæ˧
 \so <print="n"> F4
-\va <speaker="M23"> ID.
 \pdv nɑ˧α
-\de Mat, bed mat.
-\ge mat
-\dn 床垫子
-\gn 床垫子
-\df Sommier (de lit); banc large.
-\gf sommier
-\xv qwæ˧mi#˥
-\xe large mat
-\xn 大床垫子
-\xf grand sommier
-\dt 01/Oct/2015
+\de Big bench, large bench.
+\ge large_bench
+\dn 大长凳，大的长凳
+\gn 大长凳
+\df Grand banc.
+\gf grand_banc
 
 \lx qwæ˧˥
 \sf <nb="B"> 1372b
@@ -49263,24 +49259,25 @@
 \xf graver des fleurs
 \dt 01/Oct/2015
 
-\lx qwæ˧˥
-\hm 3
+\lx qwæ˧
 \or ghuae
 \ps n
-\lc qwæ˧˥
+\lc qwæ˧
 \sy qwæ˧ʁo#˥
+\cf qwæ˧mi˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\ton #H
+\ton M
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> avant juin 2024: noté au ton MH
 \pdv ɭɯ˧β
+\pdv nɑ˧α
 \de The bench of the main room, close to the hearth, where guests are seated.
 \ge bench_of_main_room
 \dn 主屋里面的长凳：客人和老人坐的地方
 \gn 主屋长凳
-\df Banc de la pièce principale, proche du foyer, où s'asseyent les hôtes.
-\gf banc_des_hôtes
-\dt 01/Nov/2015
+\df Banc de la pièce principale, proche du foyer, où s'asseyent notamment les hôtes.
+\gf banc
 
 \lx qʰwæ˩
 \sf <nb="B"> 482
@@ -49474,10 +49471,12 @@
 \lc qwæ˧lo˧˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" langue="fra" print="n"> (historique: indiqué ton d2b lors de l'élicitation (=même schéma que F5); mais schéma de d5 lors de l'enregistrement du 9/11/2007, par erreur) (sens vérifié lors du terrain 2009) (tons vérifiés) (vérifié: réalisation uvulaire de l'initiale) (vérifié en juin 2012: /†qwæ˩lo˧˥, †qwæ˩lo˧ ɲi˥/ n'est pas une variante acceptable.
-\ton MH#
+\nt <type="hist" dom="ton" langue="fra" print="n"> Noté un ton d2b à l'occasion de l'élicitation (=même schéma que F5). Mais un schéma d5 apparaît dans la transcription de l'enregistrement du 9/11/2007, par erreur. Vérifié en juin 2012: /†qwæ˩lo˧˥, †qwæ˩lo˧ ɲi˥/ n'est pas une variante acceptable.
+\nt <type="hist" dom="sem" langue="fra" print="n"> Sens vérifié lors du terrain 2009.
+\nt <type="hist" dom="phono" langue="fra" print="n"> Vérifié: réalisation uvulaire de l'initiale.
+\nt <type="hist" dom="synt" langue="fra" print="n"> Avant juin 2024: noté kʰɯ˩ comme classificateur courant. En réalité, celui-ci ne convient pas: on utilise lo˩β, classificateur des vallées.
 \so <print="n"> F4
-\pdv kʰɯ˩
+\pdv lo˩β
 \de Passageway, small lane, small path.
 \ge passageway
 \dn 过道、小道
@@ -49539,7 +49538,10 @@
 \xe The middle part of the main room is behind (=around) the place where we make fire!
 \xn 主屋的中庭，在点火的地方后面（=周围）！
 \xf La partie médiane du foyer, c'est ce qu'il y a derrière l'endroit où on fait le feu!
-\dt 01/Oct/2015
+\xv tɕi˩-hĩ˩˥ | dʑo˩, | qwæ˧mæ˧ dzi˧˥!
+\xe The young / the little ones have their seats in the middle part of the main room!
+\xn 小的，座在主屋的中庭！
+\xf Les jeunes/les petits, leur place est dans la partie médiane du foyer!
 
 \lx qʰwæ˧mi#˥
 \sf <nb="B"> 629
@@ -49575,7 +49577,7 @@
 \or ghuaewo
 \ps n
 \lc qwæ˧ʁo˧
-\sy qwæ˧˥3
+\sy qwæ˧2
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H
@@ -49587,31 +49589,37 @@
 \gn 主屋长凳
 \df Banc de la pièce principale, proche du foyer, où s'asseyent les hôtes.
 \gf banc_des_hôtes
-\dt 01/Oct/2015
+\xv “qwæ˧ʁo˧ dzi˧˥, | qwæ˧ʁo˧ dzi˧˥!” |pi˧.
+\xe “Come and take a seat on the bench”, we say (to the guests).
+\xn 我们（对客人）说：“来，在长凳上坐下”。
+\xv «Venez donc prendre place sur le banc!», qu'on dit (aux invités).
 
 \lx qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sf <nb="2011"> 2744
 \or ghuaesheilabbu
+\et qwæ˧ʂe#˥
+\sy qwæ˧ʂe#˥
 \ps n
 \lc qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> +ɲi˩
+\nt <type="hist" dom="tone" langue="fra" print="n"> +ɲi˩
 \ton H#
 \so <print="n"> F4
 \pdv mi˩
-\de A species of worm.
-\ge worm_sp.
-\dn 一种蠕虫
-\gn 一种蠕虫
-\df Sorte de ver.
-\gf ver_sp
+\de Bedbug, |fi{Cimex lectularius}.
+\ge bedbug
+\dn 臭虫
+\gn 臭虫
+\df Punaise, |fi{Cimex lectularius}.
+\gf punaise
 
 \lx qwæ˧ʂe#˥
 \sf <nb="B"> 1809
 \sf <nb="2011"> 2752
 \or ghuaeshei
 \ps n
+\sy qwæ˧ʂe˧lɑ˧bɻ̩˥
 \lc qwæ˧ʂe˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -49620,24 +49628,24 @@
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \pdv mi˩
-\de Bedbug.
+\de Bedbug, |fi{Cimex lectularius}.
 \ge bedbug
 \dn 臭虫
 \gn 臭虫
-\df Punaise.
+\df Punaise, |fi{Cimex lectularius}.
 \gf punaise
-\dt 01/Oct/2015
 
-\lx qwæ˩ʂv̩˧˥
+\lx qwæ˩ʂɻ̩˧˥
 \sf <nb="B"> 549
 \sf <nb="2011"> 784
 \or ghuaeshu
 \ps n
-\lc qwæ˩ʂv̩˧˥
+\lc qwæ˩ʂɻ̩˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <langue="pumi" dom="comp" print="n"> kwæ35
 \nt <type="hist" langue="fra" print="n"> ʐwæ˧kwæ˥ʂv̩˩: schéma tonal régulier; vérifié: prononciation uvulaire de l'initiale
+\nt <type="hist" langue="fra" print="n"> juin 2024: corrigé de ʂv̩˩ en ʂɻ̩˩
 \ton LM+MH#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -49650,11 +49658,10 @@
 \gn 马嚼子
 \df Mors.
 \gf mors
-\xv ʐwæ˧-qwæ˥ʂv̩˩
+\xv ʐwæ˧-qwæ˥ʂɻ̩˩
 \xe bit of a horse's bridle
 \xn 马嚼子
 \xf mors de cheval
-\dt 27/Apr/2017
 
 \lx qʰwæ˧ʈɯ˥
 \sf <nb="B"> 423a
@@ -49668,12 +49675,12 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <langue="pumi" dom="comp" print="n"> qʰwɑ55ʈɨ55
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté kʶwæ˧ ʈɯ˥)
+\nt <type="hist" dom="phono" langue="fra" print="n"> Avant 2009: noté kʶwæ˧ʈɯ˥.
 \ton H#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> kʰwɑ˧ʈʰv̩˥, ton d7
+\va <speaker="M21"> kʰwɑ˧ʈʰv̩˥
 \va <speaker="M23"> kʰwɑ˧ʈv̩˥
 \pdv bɤ˧˥
 \de Scarf, kerchief.
@@ -49682,24 +49689,23 @@
 \gn 头帕
 \df Fichu (tissu qu'on porte sur la tête).
 \gf fichu
-\dt 27/Apr/2017
 
-\lx qwæ˧zo˧zo˩
+\lx qwæ˧zo˧~zo˩
 \or ghuaessosso
 \ps n
 \lc qwæ˧zo˧zo˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L#
+\nt <type="hist" dom="phono" langue="fra" print="n"> Avant 2024: interprété comme: banc de la pièce principale.
 \so <print="n"> F4
 \pdv pɤ˩
-\de The bench of the main room, close to the hearth, where guests are seated.
-\ge bench_of_main_room
-\dn 主屋的长凳，离火塘近。这是客人的尊座。
-\gn 主屋的长凳
-\df Banc de la pièce principale, proche du foyer, où s'asseyent les hôtes.
-\gf banc_de_la_pièce_principale
-\dt 27/Apr/2017
+\de Small bench (small piece of mobile furniture with no fixed location).
+\ge small_bench
+\dn 小板凳（无固定位置的小型移动家具）。
+\gn 小板凳
+\df Petit banc (petite pièce de mobilier mobile, sans place fixe).
+\gf petit_banc
 
 \lx qʰwæ˩α
 \sf <nb="2011"> 1743
@@ -49760,7 +49766,10 @@
 \xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xf |fg{accomp} 〜 |fg{red} |fg{pfv}
-\dt 27/Apr/2017
+\xv gv̩˧dv̩˧ qwæ˩~qwæ˩
+\xe to scratch one's back
+\xn 搔背
+\xf se gratter le dos
 
 \lx qwɤ˧
 \sf <nb="B"> 2253
@@ -50013,7 +50022,7 @@
 \xn 嘴巴里
 \xf dans la bouche, à l'intérieur de la bouche
 \rf F5
-\dt 01/Oct/2015
+\xc <type="dialect" langue="fra" print="n"> La préférence de la locutrice F4 pour la formulation |fv{qwa˩ɖʐæ˩-qo˩lo˥} est réaffirmée en juin 2024.
 
 \lx qʰwɤ˧pɤ˥$
 \or khuabe
@@ -50212,7 +50221,10 @@
 \xe |fg{red}
 \xn 重叠
 \xf |fg{red}
-\dt 01/Oct/2015
+\xv sɯ˧pʰi˧-ki˧ qwɤ˩
+\xe to report to the lord
+\xn 向土司控诉
+\xf dénoncer auprès du seigneur
 
 \lx qʰwɤ˩α
 \sf <nb="B"> 1067
@@ -62794,6 +62806,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \hm 1
 \or qi
 \ps v
+\sy tsʰi˧˥2
 \lc tɕʰɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -62810,11 +62823,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 穿刺
 \df Percer, transpercer.
 \gf percer
-\xv ʝi˧ ʈʂʰɯ˧-pʰo˩, | ɲi˧ tɕʰi˧-ze˩!
+\xv ʝi˧ ʈʂʰɯ˧-pʰo˩, | ɲi˧ tɕʰɯ˧-ze˩!
 \xe This ox's nose was pierced (to put a ring)
 \xn 这头牛的鼻子被穿刺（为了安一个牛鼻圈）
 \xf Ce bœuf, on lui a percé le museau (pour y placer un anneau)!
-\dt 27/Apr/2017
 
 \lx tɕɯ˧β
 \sf <nb="2011"> 2420
@@ -65736,6 +65748,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 量词.代
 \df Classificateur des générations.
 \gf |fg{clf}.générations
+\xv ŋwɤ˧ ʈʂʰæ˩
+\xe Five generations. This figure represents a symbolic threshold in the definition of the family. Even if five generations rarely live together under the same roof (four generations is fairly common), it is a social ideal. The fourth and fifth generations, while no longer physically present, are still very much present in the words of the elders who knew them. Five generations of parents are one family.
+\xn 五代人。这个数字是一个象征性的门槛。即使五代人很少生活在同一屋檐下（四代人相当常见），这还是一种理想状态：五代同堂，其乐融融。第四代和第五代虽然已不在人世，但在长辈口中，他们仍然非常亲切。（五代以上，亲属关系就不那么密切了。）
+\xf Cinq générations. Ce chiffre constitue un seuil symbolique dans la définition de la famille. Même si cinq générations se côtoient rarement sous un même toit (quatre générations, c'est assez commun), cela constitue un idéal. Les quatrième et cinquième générations, si elles ne sont plus là physiquement, sont bien présentes dans les propos des aînés qui les ont connues. Être parents à l'échelle de cinq générations, c'est constituer une seule et même famille.
+\xv tsʰe˩ɲi˩ ʈʂʰæ˩˥
+\xe Twelve generations. This figure constitutes a second symbolic threshold in the definition of the family. The five-generation threshold corresponds to the span of oral family tradition: the people you know personally and those they knew personally. Between five and twelve generations lies the symbolic space of kinship relationships which, while distant, are still considered significant: a relative at the level of five to twelve generations is recognized as a distant cousin. The family feeling dies out after (at most) twelve generations: knowing that you are theoretically related at a distance of three centuries is not a strong enough basis for a feeling of closeness and for easily understanding each other.
+\xn 十二代。这个数字构成了家族定义的第二个象征性门槛。五代的界限对应于口头家族传统的跨度：亲自熟悉的人和他们在过去所熟悉过的人。五代到十二代之间这一象征性的空间，虽然距离遥远，但仍被视为有意义的亲属关系，在这个空间里的人被视为远房表亲。十二代以上，家庭的感觉就消失了，知道人家在三个世纪前算是有血缘关系，并不足以让人感觉彼此亲近。
+\xf Douze générations. Ce chiffre constitue un second seuil symbolique dans la définition de la famille. Le seuil de cinq générations correspond à l'empan de la tradition orale familiale: les gens qu'on connaît personnellement et ceux qu'eux-mêmes ont connu personnellement. Entre cinq et douze générations se situe l'espace symbolique des relations de parenté distantes mais encore considérées comme significatives, qui font qu'on reconnaît telle personne comme étant cousin·e éloigné·e. Le sentiment familial s'éteint au-delà de douze générations (il ne suffit pas de se savoir théoriquement apparentés à l'échelle de trois siècles pour se sentir proches et pour se comprendre aisément).
 
 \lx ʈʂʰæ˥
 \sf <nb="B"> 1567
@@ -67891,9 +67911,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: /ɖʐɤ˧qʰwɤ˧ ʈʂe˧/, ou /ɖʐɤ˧kʶwɑ˧ ʈʂe˧/, qui n'est plus reconnu) (notation 1er terrain: “kʶwɑ˧ dʑi˥ tsʰɯ˥; phonétiquement proche de tɕʰi˥"; en 2009: vu: est en fait /tsʰi˥/) (avais d'abord noté: qʰv̩˧dʑi˥, ton d2c: “trou")
-\nt <type="hist" langue="fra" print="n"> tu˧qʰv̩˧tsʰi˧˥ (avant 2009: noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois")
-\np <langue="fra"> qʰv̩˧dʑi˧tsʰi˧+ze˩ “faire un trou"; ɖɯ˧ qʰv̩˧ ɖɯ˧ (tons vérifiés en 2009) “faire un trou"
+\nt <type="hist" langue="fra" print="n"> tu˧qʰv̩˧tsʰi˧˥ (avant 2009: noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois"). Noté également: /qʰv̩˧dʑi˧tsʰi˧+ze˩/ “faire un trou"; /ɖɯ˧ qʰv̩˧ ɖɯ˧/ (tons vérifiés en 2009). Ce verbe est bien distinct de: tɕʰɯ˥1, dont il est synonyme.
 \ton MH
+\sy tɕʰɯ˥1
 \lc tsʰi˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -70493,7 +70513,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ge to_hang_oneself
 \dn 上吊自杀、缢
 \gn 上吊自杀
-\df Se pendre.
+\df Se pendre, se suicider.
 \gf se_pendre
 \xv ʁæ˧tsɯ˧ le˧-ʂɯ˧ +ze˧
 \xe to hang oneself
