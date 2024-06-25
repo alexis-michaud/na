@@ -4319,7 +4319,10 @@
 \xe |fg{dem} 〜 (tone: H# / H$)
 \xn 指示代词 〜：那根（玉米棒子）
 \xf |fg{dem} 〜 (ton: H# / H$)
-\dt 12/May/2017
+\xv mɤ˧-mv̩˩ ʁo˩tʰo˩ dʑo˩, | hɑ˧bɤ˥!
+\xe When [the maize] has not yet dried, we have an ear of maize / it's maize on the cob! Literally: “when [the maize] is not yet ripe, it's an ear of maize”. In reality, ‘ripe’ here does not really refer to maturity, but to the stage at which the cereal has fully dried out and can be stored. In this sense, maize on the cob, although fit for consumption, is not considered ‘ripe’ because it is not yet dry.
+\xc 当[玉米]还没有干的时候，我们有一穗玉米／这是玉米棒子！字面意思是：“[玉米]还没有成熟时，就是玉米棒子”。实际上，这里的‘熟’并不是指成熟，而是指谷物完全变干并可以储存的阶段。从这个意义上说，玉米棒子虽然可以食用，但并不能算作‘成熟’，因为它还没有干透。
+\xf Quand [le maïs] n'a pas encore séché, on a un épi de maïs / c'est du maïs en épi! Littéralement: «quand [le maïs] n'est pas encore mûr, on parle d'épi». En réalité, ‘mûr’ ne désigne pas vraiment ici la maturité, mais l'étape à laquelle la céréale a entièrement séché et peut être stockée. En ce sens, le maïs en épi, quoique propre à la consommation, n'est pas considéré comme ‘mûr’, du fait qu'il n'est pas encore sec.
 
 \lx bɤ˩α
 \hm 2
@@ -6164,7 +6167,7 @@
 \xf prendre une photo (le verbe est également un emprunt au chinois)
 
 \lx pʰæ˩
-\or xepian
+\or paeq
 \bw <langue="cmn">
 \ps v
 \lc pʰæ˩˥
@@ -7030,7 +7033,6 @@
 \nt <langue="pumi" dom="comp" print="n"> dĩ35
 \nt <type="hist" langue="fra" print="n"> confirmé: est ˩˥ et non ˩˧
 \nt <type="hist" langue="fra" print="n"> Ton LM confirmé (type “porc").
-
 \ton LH
 \lc di˩˥
 \so <print="n"> F4
@@ -7369,7 +7371,10 @@
 \xe to separate, each going their separate ways
 \xn 分开，每个人去不同的地方
 \xf se séparer, partir chacun de son côté (par exemple: des frères se séparent et chacun va son chemin)
-\dt 24/Apr/2017
+\xv ʈʰɯ˧-di˧˥ | mɤ˧-tʰv̩˧-sɯ˩!
+\xe I've never been to that place!
+\xn 那个地方，我从没去过！
+\xf Je ne suis jamais allé·e à cet endroit-là!
 
 \lx do˩
 \or ddoq
@@ -13562,7 +13567,7 @@
 \ge ugly
 \dn 令人讨厌、令人憎恶。
 \gn 讨厌
-\df Déplaisant, détestable.
+\df Déplaisant, détestable (au sens figuré: caractère détestable).
 \gf déplaisant
 \xv ɖʐv̩˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
@@ -15291,19 +15296,13 @@
 
 \lx ə˧v̩˧˥
 \sf <nb="B"> 1659
-\sf <nb="B"> (et
-\sf <nb="B"> aussi
-\sf <nb="B"> ancien
-\sf <nb="B"> 1016
-\sf <nb="B"> 1017)
 \sf <nb="2011"> 2477
 \hm 1
 \or evu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: /ɤ˧ mɤ˧ v̩˧˥/; tons corrigés en mai 2008; avais d'abord noté ˧ ˧ ˥)
-\np <langue="fra"> homophone avec “oncle"
+\nt <type="hist" langue="fra" dom="phono" print="n"> Homophonie avec “oncle" vérifiée.
 \ton MH#
 \lc ə˧v̩˧˥
 \so <print="n"> F4
@@ -15323,7 +15322,8 @@
 \xe |fg{neg}: ugly
 \xn 丑陋
 \xf |fg{neg}: vilain, laid
-\dt 28/Aug/2015
+\xc <type="hist" dom="ton" langue="fra" print="n"> Tons: d'abord noté M.M.H, /˧ ˧ ˥/.
+\xc <type="hist" dom="phono" langue="fra" print="n"> D'abord noté /ɤ˧ mɤ˧ v̩˧˥/. La voyelle est modifiée en /ə/ en 2009.
 
 \lx ə˧v̩˧˥
 \sf <nb="B"> 295
@@ -25021,7 +25021,7 @@
 \gf gonds
 
 \lx ki˧li˥-ki˩tɑ˧
-\or ghili-ghida rrrr
+\or gili-gida
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -28222,7 +28222,13 @@
 \xe There is nothing we can do anymore! It's a catastrophe!
 \xn 没有办法了！糟糕了！
 \xf Il n'y a plus rien à faire! C'est la catastrophe!
-\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̩̃˧-ɻ̩˧ tʰo˩! yyy est un cɑlque du chinois
+\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̩̃˧-ɻ̩˧ tʰo˩!
+\xe There is nothing we can do anymore! It's a catastrophe!
+\xn 没有办法了！糟糕了！
+\xf Il n'y a plus rien à faire! C'est la catastrophe!
+\xc <langue="eng" dom="synt"> This is a calque of the commonly used Chinese sentence “No way/There is nothing that can be done”: |fn{没有办法} (in Southwestern Mandarin: |fn{没得办法}).
+\xc <langue="cmn" dom="synt"> 这句话是汉语常用语“没办法”（西南官话：没得办法）的翻版。
+\xc <langue="fra" dom="synt"> Cette phrase est un calque de l'expression chinoise courante «On n'y peut rien»: |fn{没有办法} (en mandarin du Sud-Ouest: |fn{没得办法}).
 
 \lx kv̩˧tsʰɑ˥$
 \or Guca
@@ -36708,7 +36714,7 @@
 
 \lx mo˩kwæ˧
 \sf <nb="2011"> 3008
-\or moguae
+\or mogua
 \bw <langue="cmn"> 木瓜
 \ps n
 \sy mv̩˧qo˩
@@ -37532,7 +37538,7 @@
 \gf fille
 
 \lx zo˧mæ˥
-\or ssomae rrrr
+\or ssomae
 \ps n
 \lc zo˧mæ˥
 \sd <langue="fra"> société
@@ -37555,7 +37561,7 @@
 \xf prendre des enfants adoptifs, adopter des enfants
 
 \lx mv˩mæ˥
-\or ssomae rrrr
+\or mumae
 \ps n
 \lc mv˩mæ˥
 \sd <langue="fra"> société
@@ -40135,7 +40141,7 @@
 \lx njo˩˥
 \sf <nb="B"> 150
 \sf <nb="2011"> 217
-\hm ɳæ˧
+\sy ɳæ˧
 \or nyoq
 \ps n
 \sd <langue="fra"> corps
@@ -40166,14 +40172,13 @@
 \lx ɳæ˧
 \sf <nb="B"> 150
 \sf <nb="2011"> 217
-\hm ɳæ˧
 \or nae rrrr
 \ps n
 \sy njo˩˥
 \lc ɳæ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\ton M / H xxxx
+\ton M
 \so <print="n"> F4
 \de Milk.
 \ge milk
@@ -40792,23 +40797,27 @@
 \ton L#
 \lc njɤ˧nɑ˩
 \so <print="n"> F4
-\nt <type="hist" langue="fra" print="n"> Avant 2024, interprété comme un synonyme de |fv{njɤ˧-gɤ˧lɑ˩}, 'prunelle'.
+\nt <type="hist" langue="fra" print="n"> Avant 2024, interprété comme un synonyme de |fv{njɤ˧-gɤ˧lɑ˩}, 'prunelle'. Puis compris à tort comme une tache noire dans le blanc de l'œil, |fi{nævus pigmenté conjonctival}: une tache sombre près de la prunelle. (Il s'agit d'une caractéristique congénitale. Sa bordure est souvent indistincte et, dans la plupart des cas, il n'y en a qu'un seul. Il n'affecte pas la vision.) En anglais: |fi{conjunctival pigmented nevus}. It is congenital. The border is often indistinct and in most cases there is only one. It does not affect vision. En chinois: 结膜色素痣：眼珠旁的黑点。这是一种先天性的。边界常常是不清晰的，大多数情况只有一颗。不影响视力。
 \pdv ɭɯ˧β
-\de A dark spot next to the eye, |fi{conjunctival pigmented nevus}. It is congenital. The border is often indistinct and in most cases there is only one. It does not affect vision.
-\ge dark_spot_in_eye
-\dn 结膜色素痣：眼珠旁的黑点。这是一种先天性的。边界常常是不清晰的，大多数情况只有一颗。不影响视力。
-\gn 结膜色素痣
-\df Tache noire dans le blanc de l'œil, |fi{nævus pigmenté conjonctival}: une tache sombre près de la prunelle. Il s'agit d'une caractéristique congénitale. Sa bordure est souvent indistincte et, dans la plupart des cas, il n'y en a qu'un seul. Il n'affecte pas la vision.
-\gf tache_noire_dans_l'œil
+\de A dark patch on the skin close to the eye.
+\ge dark_patch_near_the_eye
+\dn 眼睛周围皮肤黑
+\gn 眼周围皮肤黑
+\df Tache noire autour de l'œil
+\gf tache_noire_autour_de_l'œil
 \xv njɤ˧nɑ˩ zo˩
-\xe man with a black spot in the eye: a dark spot near the eye (|fi{conjunctival pigmented nevus}).
-\xn 眼睛有黑点的人（眼睛有结膜色素痣）。
-\xf homme affecté d'une tache noire dans l'œil: une tache sombre près de la prunelle (|fi{nævus pigmenté conjonctival}).
-\xc <type="hist" langue="fra" print="n"> xxxx vérifier qu'il s'agit bien de la même chose dans les deux expressions : njɤ˧nɑ˩ zo˩ et ʝi˩mi˩-njɤ˩nɑ˥, dont la syntaxe est inverse.
+\xe man with a black patch of skin near the eye.
+\xn 眼睛周围皮肤黑的男人。
+\xf homme ayant une tache noire autour de l'œil.
+\xc <type="hist" langue="fra" print="n"> Les deux expressions /njɤ˧nɑ˩ zo˩/ et /ʝi˩mi˩-njɤ˩nɑ˥/ désignent bien la même chose (une tache noire sur la peau autour de l'œil), en dépit de leur syntaxe inverse.
+\xv hĩ˧ njɤ˧nɑ˥
+\xe person with a black patch of skin near the eye.
+\xn 眼睛周围皮肤黑的人。
+\xf personne ayant une tache noire autour de l'œil
 \xv ʝi˩mi˩-njɤ˩nɑ˥
-\xe Cow with a black spot in the eye.
-\xn 眼睛有黑点的牛。
-\xf Vache ayant une tache noire dans l'œil.
+\xe Cow with a black patch around the eye.
+\xn 眼睛周围皮肤黑的牛。
+\xf Vache ayant une tache noire autour de l'œil.
 
 \lx njo˩pɤ˩lv̩˥
 \sf <nb="B"> 1953
@@ -41698,7 +41707,7 @@
 \xc PROVERBE
 
 \lx nv̩˩mi˩-tɕi˥
-\or numijie rrrr
+\or numi jie
 \et nv̩˩mi˩; tɕi˩α
 \ps adj
 \an nv̩˩mi˩-ɖɯ˩
@@ -41721,7 +41730,7 @@
 \xf Celui-là, il manque de courage!
 
 \lx nv̩˩mi˩-dzɑ˩
-\or numizza rrrr
+\or numi zza
 \et nv̩˩mi˩
 \et dzɑ˥
 \ps adj
@@ -43770,7 +43779,7 @@
 \xv qʰwæ˧ po˧˥
 \xe to bring a letter/a message
 \xn 带来一封信/一个消息
-\xf amener une lettre/un message
+\xf porter une lettre/un message
 \xv tso˧~tso˧ tʰi˧-po˧˥
 \xe to bring something
 \xn 带来一个东西
@@ -47100,7 +47109,7 @@
 
 \lx qæ˩
 \sf <nb="2011"> 2074
-\or ghae rrrr
+\or ghaeq
 \ps v
 \lc qæ˩˥
 \cf to˧kɤ˧-qʰæ˩di˩ | bæ˩bæ˩˥
@@ -48770,7 +48779,10 @@
 \xe What is this sound?
 \xn 这是什么声音？
 \xf c'est quoi ce bruit?
-\dt 01/Oct/2015
+\xv qʰv̩˧tʰv̩˩
+\xe A person of authority marks their presence with a cough: “Hem, hem!” Literally “making a noise”. Context: when people (children) are bickering, making a mess, or any other action that attracts vigilance, a person in authority (mistress of the house, elder, etc.) indicates his or her presence by making his or her voice heard with a cough. This signal indicates that the authority figure is present, and that their intervention is imminent.
+\xn 有权威的人用咳嗽声表示他的存在：“咳咳！”字面意思是“出声”，接近于汉语的“出面”。语境：当有人（小孩）在争吵、捣乱或其它任何会引起警惕的举动时，有权威的人（女主人、长辈等）会用咳嗽来让人知道自己在场，干预迫在眉睫。
+\xf Marquer sa présence par un toussotement: «Hem, hem!», littéralement «faire un bruit». Contexte: lorsque des gens se chamaillent, mettent la pagaille, ou toute autre action qui attire la vigilance, une personne d'autorité (maîtresse de maison, aîné·e...) manifeste sa présence en faisant entendre sa voix par un toussotement. Ce signal marque que l'autorité est présente, et son intervention imminente.
 
 \lx qʰv̩˩ɖɯ˩
 \or kheuddee
@@ -49040,7 +49052,7 @@
 \gn 角
 \df Corne (de vache).
 \gf corne
-\xv qʰv̩˧tʰv̩˥ | ɖɯ˧-ɭɯ˧
+\xv qʰv̩˧tʰv̩˧ | ɖɯ˧-ɭɯ˧
 \xe a horn
 \xn 一个角
 \xf une corne
@@ -49264,7 +49276,7 @@
 \ps n
 \lc qwæ˧
 \sy qwæ˧ʁo#˥
-\cf qwæ˧mi˧
+\cf qwæ˧mi#˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton M
@@ -49279,27 +49291,45 @@
 \df Banc de la pièce principale, proche du foyer, où s'asseyent notamment les hôtes.
 \gf banc
 
-\lx qʰwæ˩
-\sf <nb="B"> 482
-\sf <nb="2011"> 658
-\or khuae
+\lx qʰwæ˧~qʰwæ˧
+\or ghuaeghuae rrrr
 \ps n
-\lc qʰwæ˩
-\sd <langue="fra"> maison
-\sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> (qʰwæ˩ɲi˩˧)
-\ton L
+\et qʰwæ˩α
+\lc qʰwæ˧qʰwæ˧
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\ton M
 \so <print="n"> F4
-\va <speaker="M18"> ID.
-\va <speaker="M23"> qʰwæ˧, ton m4a
-\pdv kɤ˧˥
+\pdv kɤ˧˥α
 \de Fence, made of bamboo or of thorny shrub branches.
 \ge fence
 \dn 篱笆
 \gn 篱笆
 \df Haie, faite de bambou ou de broussailles épineuses.
 \gf haie
-\dt 27/Apr/2017
+
+\lx qʰwæ˩α
+\sf <nb="2011"> 1743
+\or khuaeq
+\ps v
+\lc qʰwæ˩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" dom="ton" langue="fra" print="n"> Confirmé en 2012: est un ton L. Affiné ensuite en: ton Lα.
+\nt <type="hist" dom="phono" langue="fra" print="n"> Avant 2009: noté /kʰwæ˧kʰwæ˧/.
+\ton Lα
+\so <print="n"> F4
+\va <speaker="M21"> ID.
+\de To block. For example: blocking the passage of livestock by building a hedge along the edge of a field.
+\ge to_block
+\dn 挡住。例如：在田地边缘修建篱笆，阻止牲畜通过。
+\gn 挡住
+\df Bloquer. Par exemple: bloquer le passage du bétail en construisant une haie en bord de champ.
+\gf bloquer
+\xv tʰi˧-qʰwæ˧~qʰwæ˥
+\xe |fg{dur} 〜 |fg{red}
+\xn 持续体 〜 重叠：挡一挡
+\xf |fg{dur} 〜 |fg{red}
 
 \lx qʰwæ˧
 \sf <nb="B"> 630
@@ -49307,32 +49337,52 @@
 \or khuae
 \ps n
 \lc qʰwæ˧
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
 \ton M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
+\sn 1
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
 \pdv kʰwɤ˥
-\de Message (monosyllable).
-\ge message
-\dn 信息，信
-\gn 信息
-\df Lettre, message, parole/récit.
-\gf message
+\de Letter.
+\ge letter
+\dn 信
+\gn 信
+\df Lettre.
+\gf lettre
 \xv qʰwæ˧ po˧˥
-\xe to carry a letter; to convey a message
-\xn 带信息、传信息，传一封信
-\xf envoyer une lettre
+\xe to carry a letter (physically)
+\xn 传一封信
+\xf porter une lettre, transmettre une lettre
+\sn 2
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\pdv kʰwɤ˥
+\de Message, word (monosyllable).
+\ge message
+\dn 信息、话
+\gn 信息
+\df Message, parole/récit (monosyllabe).
+\gf message
+\xv qʰwæ˧ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥
+\xe to tell something, to deliver a piece of information
+\xn 说一个话，说出一个信息
+\xf dire quelque chose, communiquer un message
+\xv qʰwæ˧ hwɤ˩
+\xe to convey a message
+\xn 带信息、传信息
+\xf faire passer un message, communiquer un message
+\xv dɑ˧pɤ˧-qʰwæ#˥
+\xe the tales of the |fv{/dɑ˧pɤ˧/} priests
+\xn 达巴的故事
+\xf les récits des prêtres |fv{/dɑ˧pɤ˧/}, le savoir des prêtres |fv{/dɑ˧pɤ˧/}
+\xc <langue="fra" dom="ton"> ton vérifié: #H
 \xv qʰwæ˧ kʰwɤ˧˥
 \xe to be in touch (with someone)
 \xn 互相通信息、有联系（两个人互相通信息）
 \xf être en contact, être en correspondance; être en relation
-\xv dɑ˧pɤ˧-qʰwæ#˥
-\xe the tales of the |fv{/dɑ˧pɤ˧/} priests
-\xn 达巴的故事
-\xf les récits des prêtres |fv{/dɑ˧pɤ˧/}
-\xc <langue="fra"> ton vérifié: #H
-\dt 01/Oct/2015
+\rf M18
+\xc <langue="fra" dom="dialect"> Exemple non intelligible pour la locutrice de référence.
 
 \lx qʰwæ˧˥
 \sf <nb="B"> 1525
@@ -49429,7 +49479,7 @@
 \ton L
 \so <print="n"> F4
 \pdv dzi˩
-\pdv ʝi˧
+\pdv lo˩
 \de A sort of shrub, reaching 1.5 to 2 meters in height.
 \ge shrub_sp
 \dn 一种灌木，1.5至2米高，可以当篱笆用
@@ -49440,28 +49490,35 @@
 \xe same meaning
 \xn 同上
 \xf même sens
-\dt 13/Jun/2017
+\xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ = qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩, qʰwæ˩kɤ˩ tʰi˥-gɤ˩ mettre en forme de la broussaille pour faire une clôture (pour que le bétail ne passe pas)
+// dʑɯ˩qʰv̩˩ tʰi˥-lɑ˩
+dʑɯ˩qʰv̩˩˥ des poteaux (en bois)
+le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧˥ VU
 
 \lx qʰwæ˧kʰwɤ#˥
 \or khuaekua
+\et qʰwæ˧
+\et kʰwɤ˥α
 \ps n
 \lc qʰwæ˧kʰwɤ˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \ton #H
 \so <print="n"> F4
-\pdv kʰwɤ˥
 \de Gossip, idle chatter.
 \ge gossip
 \dn 闲话、流言、蜚语、闲言碎语、八卦
 \gn 蜚语
 \df Récit, racontar, ragot, histoire.
 \gf racontar
-\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧
-\xe to tell a piece of gossip
-\xn 讲一点八卦
-\xf raconter un petit racontar, rapporter un petit ragot
-\dt 27/Apr/2017
+\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-kv̩˩!
+\xe This is a story that could get under your skin (if you're not careful)! / (A warning to someone about behaviour such as petty theft, which would be socially stigmatised.)
+\xn （如果你不小心）这个故事可能会触动你的神经！（针对小偷小摸等行为向某人发出警告，这些行为会受到社会的鄙视）
+\xf Ca pourrait bien fournir matière à une infinité de racontars! / Ca, c'est une histoire qui te collerait à la peau (si tu n'es pas prudent·e)! / Ca pourrait faire jaser jusqu'à la fin de tes jours! (Mise en garde envers quelqu'un, au sujet d'un comportement tel qu'un larcin, qui serait stigmatisé socialement.)
+\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧! / ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ɲi˥!
+\xe This is a story that will get under your skin!
+\xn 这个故事可能会触动你的神经！
+\xf Ca, c'est une histoire qui va te coller à la peau! / Voilà qui va être raconté, développé et amplifié!
 
 \lx qwæ˧lo˧˥
 \sf <nb="B"> 47d
@@ -49577,7 +49634,7 @@
 \or ghuaewo
 \ps n
 \lc qwæ˧ʁo˧
-\sy qwæ˧2
+\sy qwæ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton #H
@@ -49706,26 +49763,6 @@
 \gn 小板凳
 \df Petit banc (petite pièce de mobilier mobile, sans place fixe).
 \gf petit_banc
-
-\lx qʰwæ˩α
-\sf <nb="2011"> 1743
-\or khuaeq
-\ps v
-\lc qʰwæ˩˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (confirmé en 2012: est un ton L)
-\ton Lα
-\so <print="n"> F4
-\va <speaker="M21"> ID.; réduplication: tʰi˧qʰwæ˧qʰwæ˥
-\vf avant 2009: noté kʰwæ˧kʰwæ˧) obstruer, boucher
-\de To block.
-\ge to_block
-\dn 挡住
-\gn 挡住
-\df Bloquer.
-\gf bloquer
-\dt 27/Apr/2017
 
 \lx qʰwæ˧˥α
 \or khuae
@@ -50072,6 +50109,7 @@
 \sf <nb="2011"> 209
 \or khuado
 \ps n
+\sy qʰwɤ˧to˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L#
@@ -50080,23 +50118,23 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
-\de Tip of the shoulder.
-\ge tip_of_the_shoulder
-\dn 肩膀的末端
-\gn 肩膀的末端
-\df Épaule (extrémité de l'épaule, bout de l'épaule).
-\gf extrémité_de_l_épaule
+\de Shoulder.
+\ge shoulder
+\dn 肩膀
+\gn 肩膀
+\df Épaule.
+\gf épaule
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧, | qʰwɤ˧to˩ | ɖɯ˧-pi˧˥ | ʂwæ˧-hṽ̩˩-di˩!
 \xe This person's shoulders are not quite straight! / His/her shoulders don't align!
 \xn 这个人的肩膀不正，一高一低！
 \xf Ce type, il a les épaules un peu de travers! / Il a une épaule plus haute que l'autre!
-\dt 01/Oct/2015
 
 \lx qʰwɤ˧tsʰi˩
 \sf <nb="B"> 142
 \sf <nb="2011"> 208
 \or khuacee
 \ps n
+\sy qʰwɤ˧to˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté kʰwɑ, et tsʰɯ; mais avais remarqué: “"prononce parfois [tɕʰi˩]") (d'abord noté ˧˩) (note 1er terrain: “n'est pas: kʰwo˧")
@@ -50119,7 +50157,6 @@
 \xe to carry a hoe on the shoulder
 \xn 肩上扛一把锄头
 \xf porter une houe à l'épaule
-\dt 01/Oct/2015
 
 \lx qʰwɤ˧tʰv̩#˥
 \or khuatu
@@ -50283,10 +50320,18 @@
 \xe a bad year (a year when crops are not good)
 \xn （收成）不好的一年
 \xf une mauvaise année
+\xv kʰv̩˧ | qʰwɤ˩-hĩ˩˥
+\xe a bad dog (that bites people)
+\xn 恶狗
+\xf un chien méchant
 \xv kʰv̩˧ qʰwɤ˧˥
 \xe a bad year (a year when crops are not good)
 \xn （收成）不好的一年
 \xf une mauvaise année
+\xv kʰv̩˧ qʰwɤ˧˥
+\xe a bad dog (that bites people)
+\xn 恶狗
+\xf un chien méchant
 \xv tsʰi˧-ʝi˧, | kʰv̩˧qʰwɤ˧ tʰv̩˧˥!
 \xe This year is a bad year! (=a year when crops are not good)
 \xn 今年，年景不好！（收成不好）
@@ -50350,11 +50395,14 @@
 \gn 治好
 \df Se guérir (blessure, maladie); se rétablir (une fracture).
 \gf guérir
+\xv ʈʂʰɯ˧ | ə˧-qʰwɤ˥? - le˧-qʰwɤ˧-ze˧!
+\xe Has it healed? - Yes, it has healed!
+\xn 治好了吗？－治好了！
+\xf C'est guéri? - Oui, c'est guéri! / La fracture est rétablie!
 \xv le˧-qʰwɤ˧-ɲi˥!
 \xe It is healed! / It has healed!
 \xn 治好了！
 \xf C'est guéri! / La fracture est rétablie!
-\dt 01/Oct/2015
 
 \lx ɻæ˩˥
 \sf <nb="B"> 2130
@@ -50508,6 +50556,10 @@
 \xe bad meat, meat of poor quality
 \xn 不好的肉（质量不好）
 \xf de la mauvaise viande
+\xv ʁɑ˧-hĩ˧ ʂe˧
+\xe good meat, meat of good quality
+\xn 好的肉（质量好）
+\xf de la bonne viande
 \xv mɤ˧-ʁɑ˧-hĩ˧ ʂe˧-kʰwɤ˧ ki˩
 \xe to give a piece of bad meat
 \xn 给一块不好的肉
@@ -50525,26 +50577,26 @@
 \ps v
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="sem" langue="fra"> sémantique: n'est pas perçu comme le même morphème que “force", /ʁɑ/.
+\nt <dom="sem" langue="fra"> Ce morphème est perçu comme étant différent de “force", /|fv{ʁɑ˥3}/.
 \ton M
 \lc ʁɑ˧
 \so <print="n"> F4
-\de To ask for forgiveness, to apologize.
-\ge to_apologize
-\dn 道歉、请人家原谅
-\gn 道歉
-\df Présenter ses excuses, demander pardon.
-\gf demander_pardon
+\de To salute respectfully.
+\ge to_salute
+\dn 致敬
+\gn 致敬
+\df Présenter ses salutations, saluer respectueusement.
+\gf saluer
 \ue archaic
 \xv ʁɑ˧-ze˧!
-\xe Please accept my apologies! (To a person of high rank)
-\xn 抱歉！ / 请原谅！（对地位比自己高的人说）
-\xf Pardon! (adressé à une personne de haut rang)
-\dt 01/Oct/2015
+\xe I salute you! (Salutation to a person of high rank, such as a monk.)
+\xn 我在此向您致敬！（对高地位的人，如和尚）
+\xf Je vous salue! (Salutation adressée à une personne de haut rang, telle qu'un moine.)
 
 \lx ʁɑ˥
 \sf <nb="B"> 670
 \sf <nb="2011"> 1000
+\hm 3
 \or hra
 \ps n
 \sd <langue="fra"> abstrait
@@ -50825,7 +50877,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe mountain pass cairn: a cairn at a mountain pass
 \xn 垭口石堆：垭口上的石堆
 \xf cairn situé à un col
-\dt 16/Jun/2017
+\xv dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧bv̩˧ tɕɯ˩ kʰɯ˩, ʁɑ˧ɭɯ˧ | no˧ le˧-po˧˥!
+ɲi˧bv̩˧: æuɻæit le sens de: pæɻole: mo˧lɑ˥; ɲi˧bv̩˧ | ɖɯ˧-kʰwɤ˥ 一些话
+j'y mets ma parole et ma salive,
 
 \lx ʁæ˧mi˧
 \sf <nb="B"> 2166
@@ -51023,24 +51077,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe |fg{neg}
 \xn |fg{neg}
 \xf |fg{neg}: ne pas faire appel à
-\dt 27/Apr/2017
-
-\lx ʁɑ˩ʂɯ˧
-\or hrashi
-\ps adv
-\sd <langue="fra"> abstrait
-\sd <langue="eng"> abstract
-\nt <type="hist" langue="fra" print="n"> avant juillet 2012: analysé comme un emprunt de 还是, et noté /†hæ˩ʂɯ˧/
-\ton LM
-\lc ʁɑ˩ʂɯ˥
-\so <print="n"> F4
-\de In fact.
-\ge in_fact
-\dn 其实、事实上
-\gn 其实
-\df En fait, en réalité.
-\gf en_réalité
-\dt 01/Oct/2015
 
 \lx ʁæ˧tɑ˩
 \sf <nb="B"> 581b
@@ -51158,11 +51194,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe as above
 \xn 同上
 \xf même sens
-\xv no˧ | ʁɑ˧ ʐwɤ˧-tʰɑ˧-ɻ̩˥!
+\xv no˧ | ʁɑ˧ ʐwɤ˧-tʰɑ˧-ɻ̩˥! ≈ ʁɑ˧ ʐwɤ˧˥ | tʰɑ˧-ɻ̩˩!
 \xe Don't browbeat people!
 \xn 你不要欺负人！
 \xf Ne provoque pas les gens!
-\dt 27/Apr/2017
 
 \lx ɻæ˩α
 \sf <nb="B"> 1785
@@ -51171,27 +51206,43 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (corrigé en 2009; auparavant: noté: “/ɻæ˩ ti˩ ɻæ˩˥ gv̩˧/, ressemble parfois à ɻæ˩ ti˩ æ˩˥ gv̩˧")
+\nt <type="hist" langue="fra" dom="sem" print="n"> Avant 2024: compris comme un terme dérogatif: raplapla, ratatiné (anglais: shrivelled, flat, shrunken, chinois: 瘪瘪的). En réalité, le terme n'est pas dérogatif.
 \ton Lα
 \lc ɻæ˩˥
 \so <print="n"> F4
-\va <speaker="F5"> læ˩ti˩læ˧gv̩˩
-\va <speaker="M23"> tɑ˩pʰjɤ˩pʰjɤ˥, tɑ˩jɤ˩jɤ˥
-\de Shrivelled, flat, shrunken.
-\ge shrivelled
-\dn 瘪
-\gn 瘪
-\df Plat, de forme plate, aplati.
+\de Flat.
+\ge flat
+\dn 平
+\gn 平
+\df Plat, de forme plate.
 \gf plat
 \xv ɻæ˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
-\xn 瘪的
+\xn 平的
 \xf 〜 |fg{rel}/|fg{nmlz}
-\xv ɻæ˩ti˩ɻæ˥ (-gv̩˩)
+
+\lx ɻæ˩ti˩ɻæ˥
+\or laedilae
+\et ɻæ˩α
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\nt <type="hist" dom="phono" langue="fra" print="n"> Corrigé en 2009 en /ɻæ˩ti˩ɻæ˥/. Auparavant: noté: “/ɻæ˩ ti˩ ɻæ˩˥ gv̩˧/, ressemble parfois à ɻæ˩ ti˩ æ˩˥ gv̩˧".
+\ton L+H#
+\lc ɻæ˩ti˩ɻæ˥
+\so <print="n"> F4
+\va <speaker="F5"> læ˩ti˩læ˧
+\va <speaker="M23"> tɑ˩pʰjɤ˩pʰjɤ˥, tɑ˩jɤ˩jɤ˥
+\de Shrivelled, flat, shrunken.
+\ge shrivelled
+\dn 瘪瘪
+\gn 瘪瘪
+\df Raplapla, ratatiné.
+\gf raplapla
+\xv ɻæ˩ti˩ɻæ˥ gv̩˩
 \xe shrivelled, flat, shrunken
 \xn 瘪瘪的
 \xf raplapla, ratatiné
-\dt 16/Jun/2017
 
 \lx ʁæ˩α
 \sf <nb="B"> 1473
@@ -51266,7 +51317,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="sem" langue="fra"> selon la locutrice: ne viendrait pas de ʁæ ‘riche'
+\nt <dom="sem" langue="fra"> Selon la locutrice, ce mot serait sans lien avec |fv{ʁæ˧} ‘riche'.
 \ton Lα
 \lc ʁæ˩˥
 \so <print="n"> F4
@@ -51300,28 +51351,46 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe Someone is talking nonsense!
 \xn 有人在乱说话！
 \xf quelqu'un dit n'importe quoi
-\dt 01/Oct/2015
 
-\lx ʁæ˩α
-\sf <nb="B"> 1017d
-\sf <nb="2011"> 2483
-\hm 4
-\or hraeq
+\lx ʁæ˩ʑi˩
+\or hraexxi rrrr
 \ps adj
-\cf ɖʐɻ̩˩α
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\np <langue="fra"> (cf 1017c)
-\ton Lα
-\lc ʁæ˩˥
+\ton L
+\lc ʁæ˩ʑi˩˥
 \so <print="n"> F4
-\de Ugly.
-\ge ugly
-\dn 丑陋
-\gn 丑
-\df Laid, vilain.
-\gf laid
-\dt 01/Oct/2015
+\nt <type="hist" langue="fra"> Entrée ajoutée en juin 2024.
+\de Bright, brilliant, splendid (for instance: a radiant face).
+\ge bright
+\dn 亮堂堂，好看，美丽
+\gn 亮堂堂
+\df Brillant, resplendissant (par exemple: un visage resplendissant).
+\gf brillant
+\xv ʁæ˩ʑi˩-zo˥!
+\xe (It's/you're) dazzling!
+\xn 亮堂堂，好看！
+\xf C'est splendide! / Tu es ravissant·e!
+\xv pʰæ˧qʰwɤ˩ | dʑɤ˩˥, | ʁæ˩ʑi˩-zo˥!
+\xe (Her/your) face is pretty, it is splendid / it!
+\xn 脸好看，亮堂堂！
+\xf (Son/ton) visage est beau, il est resplendissant!
+
+\lx ʁæ˩dʑɯ˩
+\or hraejji rrrr
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L
+\lc ʁæ˩dʑɯ˩˥
+\so <print="n"> F4
+\nt <type="hist" langue="fra"> Entrée ajoutée en juin 2024.
+\de Beautiful.
+\ge beautiful
+\dn 美丽
+\gn 美丽
+\df Beau.
+\gf beau
 
 \lx ʁo˩
 \or woq
@@ -52238,9 +52307,9 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Croiser, faire la rencontre de quelqu'un (typiquement: sur un sentier, rencontrer quelqu'un qui marche en sens inverse).
 \gf croiser
 \xv tʰi˧-ʁo˥pv̩˩
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn 持续体 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv hĩ˧ ʁo˧pv̩˥
 \xe to come across people
 \xn 遇见人
@@ -52829,10 +52898,12 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \df Inviter, faire venir.
 \gf inviter
 \xv ɖɯ˧-ɻwæ˧-ɻ̩˥
-\xe |fg{delimitative} 〜 |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}: to invite, to call over
 \xn 请来一下
-\xf |fg{délimitatif} 〜 |fg{inchoatif}
-\xc PHONO
+\xf |fg{délimitatif} 〜 |fg{inchoatif}: inviter
+\xc <langue="fra" dom="sem"> Cet exemple est homophone de celui fourni pour le sens 1, dans lequel il signifie «appeler, lancer un appel».
+\xc <langue="eng" dom="sem"> This example is a homophone of the one given for sense 1, in which it means “to call, to call out (to someone)”.
+\xc <langue="cmn" dom="sem"> 这个例句是以上意义1中例句的同音句子，但以上句子的意思是“叫一声”。
 \xv tʰɑ˧-ɻwæ˥!
 \xe |fg{prohib}
 \xn 不要请！
@@ -52842,7 +52913,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe (We)'re not inviting (him/her)!
 \xn 不请他！
 \xf (on) ne l'invite pas!
-\dt 22/Jun/2017
+\xv ɻwæ˧ mɤ˧-zo˧!
+\xe (We/you) shouldn't invite (him/her)!
+\xn 不要请他！
+\xf Il ne faut pas l'inviter!
+\xv ɖɯ˧-ɻwæ˧ ə˥-bi˩?
+\xe Shall (we) invite (him/her)?
+\xn 请不请他？
+\xf On l'invite?
 
 \lx ʁwæ˥
 \sf <nb="2011"> 1043
@@ -52869,6 +52947,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ton Hβ
 \lc ɖɯ˧ ɻwæ˥
 \so <print="n"> F4
+\nt <type="sem" langue="fra"> Entrée non reconnue en 2024. Si aucun exemple tiré des textes ne vient l'étayer, il faudra la supprimer.
 \de Classifier for places.
 \ge |fg{clf}.places
 \dn 量词：地方（一处）
@@ -52879,7 +52958,8 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe …has never been to those places
 \xn 还没到这些地方
 \xf …n'est jamais allé dans ces lieux-là
-\dt 15/Jun/2017
+\rf M18
+\xc <langue="fra"
 
 \lx ʁwæ˧gi˧dzɤ#˥
 \sf <nb="B"> 701
@@ -53410,6 +53490,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe He is unhappy; he spends his time complaining / he is always complaining!
 \xn 他不幸福，一直在讲自己怎么可怜！
 \xf Il est malheureux; il passe son temps à se plaindre!
+\xv le˧-ɻ̩̃˥ | le˧-ʂɯ˧-ho˩!
 
 \lx ɻ̩˩
 \or er
@@ -53679,22 +53760,21 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf eau de source chaude (non potable)
 \dt 02/Oct/2015
 
-\lx ɻ̩˩ɻ̩˧-lo˩
-\or ererlo
+\lx ɻ̩˧lo˩
+\or erlo rrrr
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" langue="fra" print="n"> d'abord noté †ɻ̩˧ɻ̩˥-lo˩
-\ton LM-L
-\lc ɻ̩˩ɻ̩˧lo˩
+\nt <type="hist" langue="fra" print="n"> d'abord noté †ɻ̩˧ɻ̩˥-lo˩ puis †ɻ̩˩ɻ̩˧-lo˩. Corrigé en /ɻ̩˧-lo˩/ en juin 2024.
+\ton L#
+\lc ɻ̩˧lo˩
 \so <print="n"> F4
 \de The horse walking in second position in a caravan.
 \ge horse_in_second_position
 \dn 马帮中的第二匹马
 \gn 马帮中的第二匹马
-\df Le cheval qui marche en second (derrière le cheval de tête), dans une caravane	².
+\df Le cheval qui marche en second (derrière le cheval de tête), dans une caravane.
 \gf cheval_qui_marche_en_second
-\dt 27/Apr/2017
 
 \lx ɻ̩˧tɑ˧
 \sf <nb="B"> 2224
@@ -61359,7 +61439,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \ge prinsepia
 \dn 青刺果、青刺尖、阿娜斯果
 \gn 青刺果
-\df Prinsepia, |fi{Prinsepia utilis Royle}; végétal qui sert pour les haies, à grosses épines, petites fleurs jaunes, et tige verte vernissée. On tire de ses graines une huile de grand prix, utilisée dans des préparations alimentaires et comme cosmétique/huile de massage.
+\df Prinsepia, |fi{Prinsepia utilis Royle}; végétal qui sert pour bâtir des haies, à grosses épines, petites fleurs jaunes, et tige verte vernissée. On tire de ses graines une huile de grand prix, utilisée dans des préparations alimentaires et comme cosmétique/huile de massage.
 \gf prinsepia
 \xv tɕʰi˧nɑ˥-dzi˩
 \xe prinsepia plant
@@ -70143,7 +70223,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xf toucher quelque chose
 
 \lx dzo˧˥
-\or zzo rrrr
+\or zzoq
 \ps v
 \sy ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \sd <langue="fra"> verbe
@@ -70261,7 +70341,6 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe (S)he is coughing.
 \xn 他在咳嗽
 \xf il tousse
-\dt 07/Oct/2015
 
 \lx ʈʂʰɻ̩
 \or cheu
@@ -77933,15 +78012,14 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 孙女
 \df Petite-fille.
 \gf petite_fille
-\xv njɤ˧ | ʐv̩˧mi˧ | ɖɯ˧-ɭɯ˧ dʑo˧
+\xv njɤ˧ | ʐv̩˧mi˧ | ɖɯ˧-ɭɯ˧ dʑo˧.
 \xe I have a granddaughter.
 \xn 我有一个孙女。
 \xf J'ai une petite-fille.
-\dt 06/Oct/2015
 
 \lx ʐɻ̩˧mv̩˧lɑ˧di˧˥
 \sf <nb="2011"> 326
-\or Rumuladdi rrrr
+\or Reumuladdi
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
