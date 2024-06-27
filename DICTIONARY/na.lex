@@ -2657,7 +2657,7 @@
 \dt 24/Apr/2017
 
 \lx bi˧bɻ̩˥
-\or bbibbeu ɻɻɻɻ
+\or bbibbeu
 \ps v
 \lc bi˧bɻ̩˥
 \sd <langue="fra"> verbe
@@ -3445,7 +3445,6 @@
 \or bbo
 \ps v
 \lc bo˧
-\cf sɑ˧bo#˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra"> Il pourrait s'agir de deux verbes homophones, plutôt que de deux sens d'un même verbe. Le choix de les considérer comme deux sens d'un même verbe est motivé par la proximité relative des deux procès. Pour vanner, on secoue, et pour filer, on enroule par un mouvement circulaire; mais le fil ne tourne pas de façon lisse: il oscille sans cesse, d'où une certaine proximité sémantique avec ‘vanner’.
@@ -3458,6 +3457,14 @@
 \gn 纺/使旋转
 \df Faire tourner (la quenouille, pour filer le fil de lin)
 \gf faire_tourner
+\xv sɑ˧ bo˧
+\de to spin hemp
+\dn 纺麻（线）
+\df filer le lin
+\xv sɑ˧bo˧-di˧˥
+\de Instrument for spinning hemp, that is: distaff (a stick or spindle onto which flax is wound for spinning).
+\dn 卷线杆、拉线棒
+\df Instrument pour filer le lin, autrement dit: quenouille (instrument en bois pour enrouler le fil, pour filer le chanvre).
 \sn 2
 \so <print="n"> F4
 \de To winnow.
@@ -9891,7 +9898,26 @@
 \xe a full set of dress, a complete dress (same as preceding example, integrated into a single tone group)
 \xn 一套衣服（同上，但将短语合在一起，构成一个单一的声调短语）
 \xf un costume entier, un vêtement (même sens que l'exemple précédent; intégration en un seul groupe tonal)
-\dt 24/Apr/2017
+
+\lx tʰo˧˥
+\or to rrrr
+\bw <langue="cmn"> 套
+\ps clf
+\lc ɖɯ˧ tʰo˧˥
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton MH
+\so <print="n"> F4
+\de A complete set, e.g. a full dress (an entire set of clothing).
+\ge |fg{clf}.sets
+\dn 量词：一套
+\gn 量词.套（借词）
+\df Un ensemble au complet, par exemple un costume: tous les vêtements qu'on porte.
+\gf |fg{clf}.ensembles
+\xv dʑi˧hṽ̩˥ | ɖɯ˧-tʰo˧˥
+\xe a full set of dress, a complete dress
+\xn 一套衣服
+\xf un costume entier, un vêtement
 
 \lx dzi˧˥
 \or zzeeq
@@ -10411,7 +10437,10 @@
 \xn 家里烟很浓了！（直译：“家里积累了很多烟”）
 \xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
 \rf F5
-\dt 13/May/2018
+\xv le˧-dzi˧~dzi˥ tsʰɯ˩-ze˩
+\xe (People) have come together.
+\xn 人们走到一起，汇聚在一起了
+\xf les gens se sont rassemblés, ont convergé, se sont retrouvés.
 
 \lx dzi˩α
 \sf <nb="B"> 1571
@@ -30574,11 +30603,10 @@
 \pdv v̩˧
 \de People of Yongning. Unless otherwise specified, this is mainly understood as referring to the Na (Mosuo).
 \ge people_of_Yongning
-\dn 永宁人（纳人）
+\dn 永宁人（除非有特别的说明，这个词语指的是摩梭人）
 \gn 永宁人
-\df Les gens de Yongning.
+\df Les gens de Yongning. Sauf précision contraire, l'expression désigne les Na (Moso).
 \gf gens_de_Yongning
-\dt 24/Apr/2017
 
 \lx ɬi˧dʑɯ˩
 \sf <nb="2011"> 60
@@ -32301,6 +32329,7 @@
 \lx ɬo˧pɤ˥
 \or lhobe
 \ps n
+\sy sɯ˧ʈv̩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton H#
@@ -32308,26 +32337,36 @@
 \so <print="n"> F4
 \vf <dom="ton"> MH
 \pdv ɭɯ˧β
-\de Blister (on the hands or feet).
-\ge blister
-\dn 水泡
-\gn 水泡
-\df Ampoule.
-\gf ampoule
+\de Callus.
+\ge callus
+\dn 茧子
+\gn 茧子
+\df Cor, durillon.
+\gf cor/durillon
 \xv ɬo˧pɤ˥ qʰwæ˩-ze˩!
-\xe (I/you/(s)he) got a blister!
+\xe (I/you/(s)he) got a callus!
 \xn 起了水泡！
-\xf (Il s'est/Tu t'es/Je me suis) fait une ampoule!
+\xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
+\xv ɬo˧pɤ˥ dʑɯ˩-ze˩! / ɬo˧pɤ˥ | le˧-dʑɯ˩-ze˩!
+\xe (I/you/(s)he) got a callus!
+\xn 起了茧子！
+\xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
 \xv ɬo˧pɤ˥ | ɖɯ˧-ɭɯ˧ | qʰwæ˧-ze˥!
-\xe (I/you/(s)he) got a blister!
-\xn 起了一个水泡！
-\xf (Il s'est/Tu t'es/Je me suis) fait une ampoule!
-\xv ɬo˧pɤ˥ | ʁo˩-po˥-ɳɯ˩ | ʈʂe˩˥
-\xe to pierce a blister with a needle
-\xn 用针来扎水泡
-\xf percer une ampoule à l'aide d'une aiguille
-
-\dt 04/Sep/2015
+\xe (I/you/(s)he) got a callus!
+\xn 起了一个茧子！
+\xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
+\xv ɬo˧pɤ˥ dʑɯ˩-ze˩!
+\xe (I/you/(s)he) got a callus!
+\xn 起了茧子！
+\xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
+\xv ɬo˧pɤ˥ dʑɯ˩-zo˩!
+\xe There's going to be a callus! [aspect/modality to be clarified: this example sentence was provided without a context, while going through the dictionary]
+\xn 会起茧子的！（正确翻译待写：这个例子，没有具体语境）
+\xf Il va y avoir un durillon! [aspect/modalité: à préciser, exemple fourni sans contexte]
+\xv ɬo˧pɤ˥, wo˧-kɤ˧~kɤ˧-gv̩˧!
+\xe A callus is (something) hard!
+\xn 茧子，是应棒棒的！
+\xf Le durillon, c'est tout dur!
 
 \lx lo˩pv̩˧˥
 \sf <nb="B"> 440
@@ -35311,6 +35350,25 @@
 \xe bag of slander
 \xn 谗囊
 \xf sac à ragots
+
+\lx ɲi˧bv̩˧
+\or nhibbu rrrr
+\ps n
+\sd <langue="fra"> langage
+\sd <langue="eng"> language
+\ton M xxxx ou #H
+\lc ɲi˧bv̩˧
+\so <print="n"> F4
+\de Speech.
+\ge speech
+\dn 话
+\gn 话
+\df Parole, dire.
+\gf parole
+\xv ɲi˧bv̩˧ | ɖɯ˧-kʰwɤ˥
+\xe a word, a short tract of speech
+\xn 一些话
+\xf une parole, un petit bout de discours
 
 \lx mɤ˩ɬi˩
 \sf <nb="B"> 392b
@@ -41707,7 +41765,7 @@
 \xc PROVERBE
 
 \lx nv̩˩mi˩-tɕi˥
-\or numi jie
+\or numi jieq
 \et nv̩˩mi˩; tɕi˩α
 \ps adj
 \an nv̩˩mi˩-ɖɯ˩
@@ -50022,7 +50080,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 大碗
 \df Grand bol (autrefois, les bols étaient en bois).
 \gf grand_bol
-\dt 01/Oct/2015
+\xv si˧-qʰwɤ˩mi˩
+\xe large wooden bowl
+\xn 大木碗
+\xf grand bol en bois
 
 \lx qwɤ˩pi˩
 \sf <nb="B"> 118
@@ -50782,7 +50843,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 盘子
 \df Assiette.
 \gf assiette
-\dt 01/Oct/2015
+\xv ʁæ˧bæ˧ tsʰe˧-ɲi˧ ɭɯ˧, | qʰwɤ˧pɤ˥ hõ˩-ɭɯ˩: | ɖɯ˧-ʈʂo˩!
+\xe “Twelve plates, eight large bowls [of food]: [these make up] one service!” (About the successive services during a meal, see the entry for |fv{ʈʂo˩β}.)
+\xn “十二个盘子，八个大碗：（这些，就能算是）一个饭轮！”
+\xf «Douze assiettes, huit grand bols [de nourriture]: [ça fait] un service!» (Au sujet des services successifs à table, voir l'entrée |fv{ʈʂo˩β}.)
 
 \lx ʁɑ˧dzi˧
 \sf <nb="B"> 2018
@@ -50805,7 +50869,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \gn 杨树
 \df Peuplier.
 \gf peuplier
-\dt 01/Oct/2015
+\xv ʁɑ˧dzi˧-si#˥
+\xe poplar wood
+\xn 杨木
+\xf bois de peuplier
 
 \lx ʁæ˩ɖʐɻ̩˧
 \sf <nb="B"> 1017c
@@ -50877,9 +50944,10 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 \xe mountain pass cairn: a cairn at a mountain pass
 \xn 垭口石堆：垭口上的石堆
 \xf cairn situé à un col
-\xv dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧bv̩˧ tɕɯ˩ kʰɯ˩, ʁɑ˧ɭɯ˧ | no˧ le˧-po˧˥!
-ɲi˧bv̩˧: æuɻæit le sens de: pæɻole: mo˧lɑ˥; ɲi˧bv̩˧ | ɖɯ˧-kʰwɤ˥ 一些话
-j'y mets ma parole et ma salive,
+\xv “dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧bv̩˧ tɕɯ˩ kʰɯ˩, ʁɑ˧ɭɯ˧ | no˧ le˧-po˧˥!”
+\xe An expression used when placing a stone on a cairn, after having deposited a little saliva on it: “Good words and bad words, here I deposit my say; cairn, carry it / be the depositary of it!”
+\xn 将石头放在石堆上，并在其上沉积一点唾液时使用的表达方式：“好话坏话，我都在这里沉积；石堆，带着它/成为它的沉积物吧！”
+\xf Expression que l'on dit en déposant une pierre sur un cairn, après y avoir déposé un peu de salive: «Bonnes paroles et mauvaises paroles, je dépose ici mon dire; cairn, porte-le / sois-en le dépositaire!»
 
 \lx ʁæ˧mi˧
 \sf <nb="B"> 2166
@@ -50894,10 +50962,8 @@ j'y mets ma parole et ma salive,
 \lc ʁæ˧mi˧
 \so <print="n"> F4
 \va <speaker="F5"> ɻæ˧mi˧
-\vf <dom="ton"> M
 \va <speaker="M18"> ID.
-\va <speaker="M21"> ʁæ˧mi˧, ton d2
-\vf refuse le ton d1, qu'en revanche F4 confirme
+\va <speaker="M21"> ʁæ˧mi#˥
 \pdv nɑ˧α
 \de Sword.
 \ge sword
@@ -50905,7 +50971,6 @@ j'y mets ma parole et ma salive,
 \gn 剑
 \df Épée.
 \gf épée
-\dt 01/Oct/2015
 
 \lx ʁɑ˩mi˥
 \sf <nb="B"> 2233
@@ -51475,7 +51540,10 @@ j'y mets ma parole et ma salive,
 \xe I can write! / I am able to write! / I know how to write!
 \xn 我会写！ / 我写得出来！
 \xf je parviens à écrire/je sais écrire!
-\dt 01/Oct/2015
+\xv njɤ˧ | ʝi˧-mɤ˧-ʁo˧!
+\xe I can't! / I am not able to!
+\xn 我不会！
+\xf Je ne peux pas! / Je n'en suis pas capable!
 
 \lx ʁo˧˥
 \sf <nb="B"> 566
@@ -51558,7 +51626,7 @@ j'y mets ma parole et ma salive,
 \gn 出、出现（茧子……）
 \df Se former, apparaître (un cor se forme, un durillon se forme). Ce verbe n'a été observé qu'en association avec le mot ‘durillon, cor'.
 \gf se_former
-\xv sɯ˧ʈv̩˥ ʁo˩-ze˩! |
+\xv sɯ˧ʈv̩˥ ʁo˩-ze˩!
 \xe A callus has formed!
 \xn 磨出了茧子！
 \xf Un durillon s'est formé!
@@ -51621,7 +51689,7 @@ j'y mets ma parole et ma salive,
 \xn 小松树尖
 \xf bourgeon de sapin
 \xc ton: H#
-\xv tʰo˩ʂv̩˩-ʁo˥bv̩˩
+\xv tʰo˩ʂv̩˩-ʁo˥bv̩˩ ≈ tʰo˩ʂv̩˩-ʁo˩bv̩˥
 \xe bud of pine tree
 \xn 小松树尖
 \xf pousse de sapin; littéralement «pousses d'aiguilles de sapin»
@@ -51646,6 +51714,10 @@ j'y mets ma parole et ma salive,
 \xn 树萌芽
 \xf Pousse d'arbre.
 \rf F4
+\xv tɕɤ˧qʰɑ˧-ʁo˧bv̩˥#
+\xe Mugwort sprout.
+\xn 青蒿萌芽
+\xf Pousse d'armoise.
 
 \lx ʁo˧dɑ˧
 \sf <nb="B"> 703
@@ -51676,7 +51748,6 @@ j'y mets ma parole et ma salive,
 \xe the past few days
 \xn 前几天
 \xf ces derniers jours, les quelques jours passés, il y a quelques jours
-\dt 01/Oct/2015
 
 \lx ʁo˩di˥
 \sf <nb="B"> 1268
@@ -51752,7 +51823,10 @@ j'y mets ma parole et ma salive,
 \gn 利息
 \df Intérêts.
 \gf intérêts
-\dt 01/Oct/2015
+\xv ʁo˧do˧ kʰɯ˩
+\xe meaning to be checked: to generate interest? (The main consultant has no experience of interest-bearing credit practices.)
+\xn 含义待核对：产生利息？（说话人没有生息信贷的经验）。
+\xf sens à vérifier: générer des intérêts? (La locutrice n'a pas l'expérience des pratiques de crédit avec intérêt.)
 
 \lx ʁo˧ɖɯ˧˥
 \or woddee
@@ -51824,31 +51898,30 @@ j'y mets ma parole et ma salive,
 \dt 01/Oct/2015
 
 \lx ʁo˧dzi˥
-\sf <nb="B"> 1445
-\sf <nb="2011"> 2103
 \or wozzee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (terrain 06: noté /dʑi˥ tsʰɯ˩/, par erreur)
+\nt <type="hist" langue="fra" print="n"> Terrain 2006: noté /dʑi˥ tsʰɯ˩/, par erreur.
+\nt <type="hist" langue="fra" print="n"> Avant 2024: interprété comme 'heurter', 碰撞, 'to collide, to run into'.
 \ton H#
 \lc ʁo˧dzi˥
+\sy dzi˩α2
 \so <print="n"> F4
-\de To collide, to run into.
-\ge to_run_into
-\dn 碰撞
-\gn 碰撞
-\df Heurter.
-\gf heurter
-\xv le˧-ʁo˧dzi˥
+\de To come together, to gather (people gather together).
+\ge to_come_together
+\dn 聚集，聚集在一起（人们聚集在一起）。
+\gn 聚集
+\df Se rassembler.
+\gf se rassembler
+\xv le˧-ʁo˧dzi˥ (+ze˩)
 \xe |fg{accomp}
 \xn |fg{accomp}
 \xf |fg{accomp}
 \xv hĩ˧ | tʰi˧-ʁo˧dzi˥ tsʰɯ˩(-ze˩)
-\xe People have ran into one another
-\xn 人们（互相）碰撞
-\xf deux personnes se sont heurtées/sont entrées en collision
-\dt 01/Oct/2015
+\xe People have come together.
+\xn 人们聚集在一起。
+\xf Des gens se sont rassemblés.
 
 \lx ʁo˧dzi˩-di˩
 \or Wozzeeddi
@@ -52047,17 +52120,16 @@ j'y mets ma parole et ma salive,
 \va <speaker="M18"> ʁu˥i˥, ʁu˥i˥ ɖɯ˧ kʰv̩˩˥
 \va <speaker="M21"> ʁu˥i˥
 \vf ɖɯ˧ kʰv̩˩˥
-\de The year after next.
+\de The year after next. The usual expression is the quadrisyllabic expression |fv{ʁo˧ʝi˧ | ɖɯ˧-kʰv̩˧˥}.
 \ge the_year_after_next
-\dn 后年
+\dn 后年。通常用四音节的表达式：|fv{ʁo˧ʝi˧|ɖɯ˧-ʰv̩˧˥}。
 \gn 后年
-\df Dans deux ans.
+\df Dans deux ans. L'expression usuelle est l'expression quadrisyllabique |fv{ʁo˧ʝi˧ | ɖɯ˧-kʰv̩˧˥}.
 \gf dans_deux_ans
-\xv ʁo˧ʝi˧ ɖɯ˧-kʰv̩˧˥
+\xv ʁo˧ʝi˧ | ɖɯ˧-kʰv̩˧˥
 \xe the year after next
 \xn 后年
 \xf l'année dans deux ans
-\dt 01/Oct/2015
 
 \lx ʁo˧kɤ˩
 \or woge
@@ -52068,13 +52140,16 @@ j'y mets ma parole et ma salive,
 \lc ʁo˧kɤ˩
 \so <print="n"> F4
 \pdv kɤ˧˥
-\de Woven headdress for women who already have children; for young women who do not yet have children, this same item is called |fv{/ʁo˧ni˥/}.
-\ge woven_headdress
-\dn 用来将长辫缠成盘头的黑色丝头饰（已经有孩子的女人戴的）。还没有孩子的青年女人，也戴这种头饰，但称作|fv{/ʁo˧ni˥/}）
+\de Braided yarn headdress. Together with |fv{/ʁo˧ni˥/}, it makes up a set.
+\ge headdress
+\dn 用来将长辫缠成盘头的黑色丝头饰。
 \gn 用来将长辫缠成盘头的黑色丝头饰
-\df Coiffe en fils tressés; chez une jeune femme (qui a atteint ses 13 ans, mais n'a pas encore d'enfants), ce même objet est désigné comme |fv{/ʁo˧ni˥/}.
+\df Coiffe en fils tressés, qui forme un ensemble avec |fv{/ʁo˧ni˥/}.
 \gf coiffe_en_fils_tressés
-\dt 01/Oct/2015
+\xv ʁo˧kɤ˩, | tv̩˧tv̩˥-ni˩gv̩˩ ɲi˩-ze˩ mæ˩!
+\xe The braided yarn headdress is like a hat!
+\xn 编织头饰就像一顶帽子！
+\xf La coiffe en fils tressés, c'est comme un chapeau!
 
 \lx ʁo˩kʰv̩˩
 \or woku
@@ -52130,6 +52205,7 @@ j'y mets ma parole et ma salive,
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (avant 2009, noté: /le˧ ʁu˧ lv̩˧, le˧ ʁu˧ lv̩˧ tsʰɯ˩ ze˥/)
+\nt <type="hist" langue="fra" print="n"> Traduction de la définition en langue vernaculaire: «on cherche son chemin, mais on ne le trouve pas».
 \ton M
 \lc ʁo˧lv̩˧
 \so <print="n"> F4
@@ -52140,11 +52216,11 @@ j'y mets ma parole et ma salive,
 \gn 迷路
 \df Se perdre, perdre son chemin.
 \gf se_perdre
+\dv ʐɤ˩mi˩˥ | le˧-ʂe˧ mɤ˧-ɖɯ˧!
 \xv le˧-ʁo˧lv̩˧
 \xe |fg{accomp}
 \xn |fg{accomp}
 \xf |fg{accomp}
-\dt 01/Oct/2015
 
 \lx ʁo˧mæ˧
 \sf <nb="2011"> 1600
@@ -52183,6 +52259,7 @@ j'y mets ma parole et ma salive,
 \xn 她很会管家！（对女主人的表扬）
 \xf Elle sait à merveille s'occuper des gens/prendre soin des gens! (Commentaire au sujet d'une maîtresse de maison)
 \rf F5
+\rf F4
 \xv õ˧-bv̩˥-õ˩ ʁo˩mæ˩
 \xe to take care of oneself, to look after oneself (without depending on others all the time): for instance, a child that grows up learns to look after herself/himself.
 \xn 照顾好自己（而不是一直依赖他人）。例如，随着儿童的成长，他们会逐渐学会照顾自己。
@@ -52237,22 +52314,22 @@ j'y mets ma parole et ma salive,
 \xc <dom="ton"> M
 \dt 01/Oct/2015
 
-\lx ʁo˧mi˥$
-\or womi
+\lx ʁo˧bv̩#˥
+\or wobbu rrrr
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton H$
-\lc ʁo˧mi˥
+\ton H#
+\lc ʁo˧bv̩˧
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> avant 2024: noté un †ʁo˧mi˥$, non reconnu.
 \pdv ɭɯ˧β
-\de Large needle.
-\ge large_needle
-\dn 大针
-\gn 大针
-\df Grosse aiguille.
-\gf grosse_aiguille
-\dt 01/Oct/2015
+\de Needle.
+\ge needle
+\dn 针
+\gn 针
+\df Aiguille.
+\gf aiguille
 
 \lx ʁo˧ni˥
 \or woni
@@ -52264,13 +52341,12 @@ j'y mets ma parole et ma salive,
 \lc ʁo˧ni˥
 \so <print="n"> F4
 \pdv bo˩
-\de Woven headdress for young women who do not yet have children; for women who already have children, this same item is called |fv{/ʁo˧kɤ˩/}.
-\ge woven_headdress
-\dn 用来将长辫缠成盘头的黑色丝头饰（还没有孩子的青年女人戴的）。已经有孩子的女人，也戴这种头饰，但称作|fv{/ʁo˧kɤ˩/}）
+\de Braided yarn headdress. It makes up a set with |fv{/ʁo˧kɤ˩/}.
+\ge headdress
+\dn 用来将长辫缠成盘头的黑色丝头饰。与|fv{/ʁo˧kɤ˩/}一起形成一套。
 \gn 用来将长辫缠成盘头的黑色丝头饰
-\df Coiffe en fils tressés des jeunes femmes qui n'ont pas encore d'enfant. Les femmes qui ont des enfants portent également cette pièce de costume, mais elle est alors désignée comme |fv{/ʁo˧kɤ˩/}.
+\df Coiffe en fils tressés. Elle forme un ensemble avec |fv{/ʁo˧kɤ˩/}.
 \gf coiffe_en_fils_tressés
-\dt 01/Oct/2015
 
 \lx ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
 \sf <nb="B"> 2098
@@ -52319,11 +52395,23 @@ j'y mets ma parole et ma salive,
 \sd <langue="eng"> verb
 \so <print="n"> F4
 \de To intercept (bandits intercept a caravan), to attack on the road.
-\ge to_come_across
+\ge to_intercept
 \dn 阻截、在路上攻击
 \gn 阻截/攻击
 \df Intercepter, attaquer en route (des brigands attaquent une caravane).
 \gf intercepter/attaquer
+\sn 3
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\de To run into each other, to collide into each other (two vehicules collide with each other).
+\ge to_collide
+\dn 碰撞（两车相撞，发生事故）。
+\gn 碰撞
+\df Entrer en collision (deux véhicules entrent en collision, ils ont un accident).
+\gf entrer_en_collision
+\xv le˧-ʁo˥pv̩˩-ze˩
+\xc PHONO
 
 \lx ʁo˧tʰo˩
 \or woto
@@ -52362,7 +52450,7 @@ j'y mets ma parole et ma salive,
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> ʁu˧kɑ˥, ton d7; aussi: v̩˧ʁu˧kɑ˥ “couvercle de casserole"; tend à simplifier en: v̩˧kɑ˥
+\va <speaker="M21"> ʁu˧kɑ˥; tend à simplifier en: v̩˧kɑ˥
 \pdv ɭɯ˧β
 \de Lid.
 \ge lid
@@ -52370,7 +52458,10 @@ j'y mets ma parole et ma salive,
 \gn 盖子
 \df Couvercle.
 \gf couvercle
-\dt 01/Oct/2015
+\xv v̩˧-ʁo˧qɑ˥#
+\xe saucepan lid
+\xn 锅盖子
+\xf couvercle de casserole
 
 \lx ʁo˧qʰwɤ˩
 \sf <nb="B"> 91
@@ -52520,10 +52611,17 @@ j'y mets ma parole et ma salive,
 \ton L#
 \so <print="n"> F4
 \va <speaker="M18"> *
-\va <speaker="M21"> ʁu˧ʈʂɤ˩, ton d4
-\vf sens vérifié
-\vf ss doute erreur sur rime, cf M23
+\va <speaker="M21"> ʁu˧ʈʂɤ˩
 \va <speaker="M23"> ʁu˧ʈʂɯ˩
+\sn 1
+\pdv kwɤ˩
+\de Decorations (in semi-precious materials: agate, amber, pearls, etc.) attached to the headdress.
+\ge headdress_decorations
+\dn 头饰上的装饰（半宝石材料：玛瑙、琥珀、珍珠等）。
+\gn 头饰上的装饰
+\df Décorations (en matières semi-précieuses: agate, ambre, perles...) que l'on fixait à la coiffe.
+\gf décorations_de_la_coiffe
+\sn 2
 \pdv pʰæ˧˥
 \de Dandruff.
 \ge dandruff
@@ -52536,7 +52634,6 @@ j'y mets ma parole et ma salive,
 \xn 他长了很多癣！
 \xf (il/elle) a vraiment plein de pellicules!
 \rf M23
-\dt 01/Oct/2015
 
 \lx ʁo˧tsʰe˧ʁo#˥
 \sf <nb="B"> 28b
@@ -52630,22 +52727,23 @@ j'y mets ma parole et ma salive,
 \xf à partir du 11e mois
 \dt 27/Apr/2017
 
-\lx ʁo˧zo#˥
-\or wosso
+\lx ʁo˧tsʰi˧˥
+\or wocee rrrr
 \ps n
-\lc ʁo˧zo˧
+\lc ʁo˧tsʰi˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton #H
+\ton MH#
+\nt <type="hist" langue="fra" print="n"> Avant 2024: avais noté: ʁo˧zo#˥
 \so <print="n"> F4
 \pdv ɭɯ˧β
-\de Small needle.
+\de Small needle, used to sew clothes.
 \ge small_needle
-\dn 小针
+\dn 小针，缝衣服用的
 \gn 小针
-\df Petite aiguille.
+\df Petite aiguille, employée pour coudre des vêtements.
 \gf petite_aiguille
-\dt 27/Apr/2017
+\dv bɑ˩lɑ˩ hwɤ˥-di˩
 
 \lx ʁo˥-ʐv̩˩
 \or woru
@@ -53897,17 +53995,24 @@ j'y mets ma parole et ma salive,
 \ton MH
 \lc sɑ˧˥
 \so <print="n"> F4
-\de To deliver (something to a place).
-\ge   to_deliver
-\dn 运送（货到目的地）
-\gn 运送
-\df Livrer (à destination).
-\gf livrer
+\de To take down, to unhook.
+\ge to_take_down
+\dn 拿下
+\gn 拿下
+\df Décrocher, dépendre, enlever, descendre, ôter.
+\gf descendre/ôter
 \xv le˧-sɑ˧-tʰi˥-ki˩
-\xe to deliver (to someone's place)
-\xn 送（东西到人家里）
-\xf même sens: livrer (un objet, une marchandise)
-\dt 23/Jun/2017
+\xe to take down and give (to someone)
+\xn 拿下来，送给人家
+\xf descendre un objet (d'une étagère), le décrocher d'un crochet... et le donner (à quelqu'un)
+\xv gɤ˩tɕo˧ hwæ˩, | mv̩˩tɕo˧ sɑ˧˥
+\xe to hang up; to take down (a pair of opposite actions)
+\xn 挂上去，拿下来（两种相反的动作）
+\xf accrocher (en hauteur); dépendre / décrocher (deux actions opposées l'une à l'autre).
+\xv si˧kɤ˧ po˥-ɳɯ˩ | le˧-sɑ˧˥
+\xe to unhook with a stick, to take down with a stick
+\xn 用棍子脱钩
+\xf décrocher à l'aide d'un bâton
 
 \lx sɑ˥
 \sf <nb="B"> 2002
@@ -54092,13 +54197,13 @@ j'y mets ma parole et ma salive,
 \xc PHONO
 \dt 05/Oct/2015
 
-\lx sɑ˧bo#˥
-\or sabbo
+\lx ʈʂʰɤ˩˥
+\or che rrrr
 \ps n
-\lc sɑ˧bo˧
+\lc ʈʂʰɤ˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton #H
+\ton LH xxxx à vérifier: LM? LH?
 \so <print="n"> F4
 \pdv nɑ˧α
 \de Distaff: a stick or spindle onto which wool or flax is wound for spinning.
@@ -54107,11 +54212,7 @@ j'y mets ma parole et ma salive,
 \gn 卷线杆
 \df Quenouille: instrument en bois pour enrouler le fil, pour filer le chanvre.
 \gf quenouille
-\xv sɑ˧bo˧-di˧˥
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 23/Jun/2017
+\dv sɑ˧bo˧-di˧˥
 
 \lx ʂæ˧ɖæ#˥
 \or shaeddae
@@ -54376,6 +54477,7 @@ j'y mets ma parole et ma salive,
 \or saece
 \ps n
 \lc sæ˧tsʰɤ˩
+\sy tɕæ˧ɻæ˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \ton L#
@@ -54386,7 +54488,6 @@ j'y mets ma parole et ma salive,
 \gn 酸菜（借词）
 \df Légumes en saumure.
 \gf 酸菜::légumes_en_saumure
-\dt 06/Jun/2017
 
 \lx ʂæ˧tsɯ˧
 \or shaezi
@@ -57097,7 +57198,10 @@ j'y mets ma parole et ma salive,
 \xe same meaning
 \xn 同上
 \xf même sens (désigne une espèce de pin)
-\dt 06/Oct/2015
+\xv sɤ˧tʰo˧-si˧˥
+\xe the wood of this type of pine tree
+\xn 这种松树的木头
+\xf le bois de cette sorte de pin
 
 \lx so˧tsʰi˧
 \sf <nb="B"> 831
@@ -57957,16 +58061,16 @@ j'y mets ma parole et ma salive,
 \so <print="n"> F4
 \vf <dom="ton"> L
 \pdv ɭɯ˧β
-\de Raised spot, blister.
-\ge raised_spot
-\dn 水泡（例如：开水烫了手，会形成水泡）
+\de Blister (on the hands or feet), raised spot.
+\ge blister/raised_spot
+\dn 水泡（摩擦起的水泡或烫伤起的水泡）。
 \gn 水泡
-\df Cloque (par exemple, après qu'on se soit ébouillanté).
-\gf cloque
+\df Ampoule, cloque (aussi bien une ampoule à force de frottement, qu'une cloque après qu'on se soit ébouillanté).
+\gf ampoule/cloque
 \xv sɯ˩pɻ̩˩ qʰwæ˥-ze˩!
-\xe a raised spot has formed!
+\xe A blister has formed! / A raised spot has formed!
 \xn 起了水泡！
-\xf une cloque s'est formée!
+\xf Une ampoule s'est formée! / Une cloque s'est formée!
 
 \lx sɯ˧pɻ̩˩
 \sf <nb="B"> 226
@@ -58443,7 +58547,10 @@ j'y mets ma parole et ma salive,
 \xe A callus has formed!
 \xn 磨出了茧子！
 \xf Un durillon s'est formé!
-\dt 09/Oct/2015
+\xv sɯ˧ʈv̩˥ dʑo˩-ze˩!
+\xe A callus has formed!
+\xn 有了茧子！
+\xf Un durillon s'est formé!
 
 \lx sɯ˧zɯ#˥
 \sf <nb="B"> 274d
@@ -62159,18 +62266,45 @@ j'y mets ma parole et ma salive,
 \sd <langue="eng"> plant
 \ton #H
 \lc tɕɤ˧qʰɑ˧
+\sy tɕʰi˩ŋæ˩
 \so <print="n"> F4
 \de Mugwort, wormwood, |fi{Artemisia vulgaris}.
 \ge mugwort
-\dn 蒿、青蒿
+\dn 蒿、青蒿。艾草，"fi{Artemisia vulgaris}"。说话者将艾草分为三种：深色艾草、浅色艾草和第三种，第三种艾草的中文名称是 "青蒿"。
 \gn 蒿
 \gr 蒿草、蒿枝
-\df Armoise, |fi{Artemisia vulgaris}.
+\df Armoise, |fi{Artemisia vulgaris}. La locutrice en distingue trois sortes: armoise sombre, armoise claire, et une troisième sorte désignée par le mot chinois, |fv{tɕʰi˩ŋæ˩} (pour |fn{青蒿}).
 \gf armoise
+\xv tɕɤ˧qʰɑ˧-pʰɻ̩˥$
+\xe a type of edible mushroom, called ‘mugwort mushroom' because it grows close to mugwort
+\xn 一种可以吃的菌子，长在蒿附近
+\xf un champignon comestible, nommé ‘champignon de l'armoise' parce qu'il croît à proximité de l'armoise
+\xv tɕɤ˧qʰɑ˧-nɑ˥#
+\xe une sorte a type of edible mushroom, called ‘mugwort mushroom' because it grows close to mugwort
+\xn 一种可以吃的菌子，长在蒿附近
+\xf un champignon comestible, nommé ‘champignon de l'armoise' parce qu'il croît à proximité de l'armoise
 \xv tɕɤ˧qʰɑ˧-mo˩
 \xe a type of edible mushroom, called ‘mugwort mushroom' because it grows close to mugwort
 \xn 一种可以吃的菌子，长在蒿附近
 \xf un champignon comestible, nommé ‘champignon de l'armoise' parce qu'il croît à proximité de l'armoise
+
+\lx tɕʰi˩ŋæ˩
+\or qiena rrrr
+\bw <langue="cmn"> 青艾
+\ps n
+\sy tɕɤ˧qʰɑ#˥
+\sy ho˧ʈʂɯ˧
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L
+\lc tɕʰi˩ŋæ˩
+\so <print="n"> F4
+\de Mugwort, wormwood, |fi{Artemisia vulgaris}.
+\ge 青艾::mugwort
+\dn 青艾。艾草和蒿枝的外表很像，但是艾草的背面有点带白色，蒿枝是全绿的。
+\gn 青艾（借词）
+\df Armoise, |fi{Artemisia vulgaris}.
+\gf 青艾::armoise
 
 \lx tɕʰo˩qʰwɤ˧
 \sf <nb="2011"> 719
@@ -64498,7 +64632,10 @@ j'y mets ma parole et ma salive,
 \gn 松树
 \df Pin.
 \gf pin
-\dt 27/Apr/2017
+\xv tʰo˧si#˥
+\xe pine wood
+\xn 松木
+\xf bois de pin
 
 \lx tʰo˧dzi˩-hwæ˩tsɯ˩
 \sf <nb="B"> 2300
@@ -73298,7 +73435,7 @@ j'y mets ma parole et ma salive,
 \dt 07/Oct/2015
 
 \lx tʰv̩˧-se˩-gɤ˩
-\or tee sei gge
+\or tee seiq gge
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -73311,7 +73448,6 @@ j'y mets ma parole et ma salive,
 \gn 今后
 \df Désormais, dorénavant.
 \gf désormais
-\dt 13/Jul/2017
 
 \lx tʰv̩˧-si˥
 \or tusee
@@ -75034,7 +75170,7 @@ j'y mets ma parole et ma salive,
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ID.; ʐæ˩sɯ˩ʈʰæ˩qʰwɤ˧ ‘jupe en feutre'
+\va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʐæ˩sɯ˩˧
 \pdv ɭɯ˧˥
@@ -75044,7 +75180,12 @@ j'y mets ma parole et ma salive,
 \gn 披毡
 \df Feutre grossier, fait uniquement de laine de mouton, dont on se drape en extérieur pour se protéger du froid.
 \gf feutre_grossier
-\dt 27/Apr/2017
+\xv ʐæ˩sɯ˩-ʈʰæ˩qʰwɤ˧
+\xe felt skirt
+\xf 披毡
+\xf jupe en feutre
+\rf M18
+\xc <langue="fra" type="dialect"> Expression refusée par F4: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
 \sf <nb="B"> 415c
@@ -77319,7 +77460,10 @@ j'y mets ma parole et ma salive,
 \gn 杉树
 \df Cèdre.
 \gf cèdre
-\dt 07/Oct/2015
+\xv ʐɯ˩si˩˥
+\xe cedar wood
+\xn 杉木
+\xf bois de cèdre
 
 \lx ʐɯ˩gv̩˩
 \sf <nb="B"> 1782
@@ -77912,7 +78056,7 @@ j'y mets ma parole et ma salive,
 
 \lx ʐɻ̩˧hĩ#˥
 \sf <nb="2011"> 327
-\or Ruhin ɻɻɻɻ
+\or Reuhin
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
