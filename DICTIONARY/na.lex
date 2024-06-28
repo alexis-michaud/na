@@ -5,8 +5,8 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> La nasalité phonémique de ce mot a seulement été reconnue clairement, et bien distinguée dans le lexique, en août 2014.
-\nt <type="hist" langue="fra" print="n"> Ton LM confirmé : même catégorie que "porc".
+\nt <type="hist" langue="fra" dom="phono" print="n"> La nasalité phonémique de ce mot a seulement été reconnue clairement, et bien distinguée dans le lexique, en août 2014.
+\nt <type="hist" langue="fra" dom="ton" print="n"> Ton LM confirmé : même catégorie que "porc".
 \ton LM
 \lc æ̃˩˥
 \so <print="n"> F4
@@ -458,14 +458,20 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> ton «type d7": +ɲi˩ (vérifié: n'est pas /ɬi˧/, mais /li˧/ «regarder"; les traces d'aspiration/friction sont dues à une réalisation faible de /l/); analyse du mot: æ˩ «âme/apparence/ego", li˧ «regarder", pʰæ˧˥ «morceau"; càd quelque chose comme «objet où l'on se voit en personne".
+\et li˧α
+\et pʰæ˧˥α
+\ec <langue="fra"> L'étymologie de la première syllabe n'est pas évidente. Il pourrait s'agir du même morphème que dans la première syllabe de ‘âme’.
+\nt <type="hist" langue="fra" dom="ton" print="n"> ton «type d7»: +ɲi˩.
+\nt <type="hist" langue="fra" dom="phono" print="n"> Vérifié: n'est pas /ɬi˧/, mais /li˧/ «regarder». Les traces d'aspiration/friction sont dues à une réalisation faible de /l/.
+\nt <type="hist" langue="fra" dom="sem" print="n"> Analyse du mot: vers 2007, avais pensé à une analyse comme: æ˩ «âme/apparence/ego», li˧ «regarder», pʰæ˧˥ «morceau»; càd quelque chose comme «objet où l'on se voit en personne».
 \nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014
 \ton LM+H#
 \lc æ̃˩li˧pʰæ˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> æ˩ɬi˧pʰæ˧˥; en cadre: ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥
+\va <speaker="M21"> æ˩ɬi˧pʰæ˧˥
+\vf Ton vérifié. En cadre: /ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥/.
 \pdv pʰæ˧˥
 \de Mirror.
 \ge mirror
@@ -473,7 +479,6 @@
 \gn 镜子
 \df Miroir.
 \gf miroir
-\dt 14/Jul/2017
 
 \lx æ̃˩ɬi#˥
 \sf <nb="B"> 668
@@ -9364,7 +9369,6 @@
 \sf <nb="2011"> 1518
 \or zzeijji
 \ps adj
-\sy ʐwæ˩ʈʂɤ˩
 \lc dze˩dʑɯ˧˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -14688,15 +14692,14 @@
 \so <print="n"> F4
 \de A hamlet of Yongning, close to the monastery. Romanized Na: Alawua; Chinese name: Alawa.
 \ge village_name
-\dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭。）经纬度：100.66098,27.76742
+\dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭。）经纬度：100.6571941,27.7676599
 \gn 阿拉瓦村
-\df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Romanisation: Alawua. Nom chinois: Alawa. Nom en na romanisé: Alawua.
+\df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Nom chinois: Alawa. Nom en na romanisé: Alawua.
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
-\dt 09/Sep/2015
 
 \lx ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩
 \or eliahaenshi moq
@@ -54505,7 +54508,7 @@ no˧ qʰwɤ˧˥ ɖɯ˧-ɭɯ˧ ʑi˩-po˩-jo˥, | tʰi˧-kʰu˩-jo˩!
 
 \lx ʂæ˧ʁwɤ˩
 \or Shaewua
-\bw Naxi |fv{/sɑ˥wɤ˧/}
+\bw <langue="nxq"> sɑ˥wɤ˧
 \ps n
 \lc ʂæ˧ʁwɤ˩
 \sd <langue="fra"> lieu
