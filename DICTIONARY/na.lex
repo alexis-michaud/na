@@ -181,6 +181,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
+\nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce nom de lieu se prononce /|fv{w̃æ.bi}/ dans le village d'Aggowua |fn{阿古瓦}, au nord d'Alawua.
 \nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs: this name is /|fv{w̃æ.bi}/ in the village of Aggowua |fn{阿古瓦}, north of Alawua.
 \ton L
 \lc æ̃˩bi˩˥
@@ -229,7 +230,7 @@
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \nt <type="hist" langue="fra" print="n"> Vérifié en août 2014: non nasalisé.
-\nt <type="hist" langue="fra" print="n"> En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
+\nt <type="hist" langue="fra" print="n"> En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', qui avait été élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
 \ton L
 \lc æ˩gv̩˩˥
 \so <print="n"> F4
