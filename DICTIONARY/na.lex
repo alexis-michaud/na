@@ -9707,7 +9707,7 @@
 \df Ruche.
 \gf ruche
 
-\lx dze˩mi˧-pv̩˥ɻ̩˩
+\lx dze˩mi˧-pv̩˥ɻ̩˩ > pɻ̩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
 \or zzeimipu'er
@@ -9724,7 +9724,7 @@
 \ge bee_flower
 \dn 来指密封喜欢的一些话，包括沙参、秦艽等。
 \gn 密封之花
-\df Le mot signifie littéralement ‘repos des abeilles’ xxxx à redemander à F4 (peut-être idée de M18) , et est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
+\df Le mot signifie littéralement ‘repos des abeilles’ xxxx à redemander à F4 (peut-être idée de M18) réponse: n'est pas transparent., et est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
 \gf fleur_des_abeilles
 \xv dze˩mi˧-pv̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
 \xe root of straight ladybell
@@ -13353,7 +13353,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Pas de forme simplex: la forme |fv{/le˧-ɖʐɯ˧˥/} n'est pas en usage
+\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. La forme †|fv{/le˧-ɖʐɯ˧˥/} n'est pas en usage.
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton MH
 \lc ɖʐɯ˩ɖʐɯ˧˥
 \so <print="n"> F4
@@ -21611,7 +21613,7 @@
 \gf de_petite_taille
 \dt 14/Jul/2017
 
-\lx hṽ̩˩~hṽ̩˩
+\lx hṽ̩˩~hṽ̩˩ > yyyy hṽ̩˩ hṽ̩˧˥
 \sf <nb="B"> 1062
 \sf <nb="2011"> 1498
 \or heunheun
@@ -21620,8 +21622,10 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (voyelle vérifiée en 2008)
-\nt <dom="sem" langue="fra"> Serait parent du mot pour “pâte", dʑi˩hṽ̩˩˧: quelqu'un qui dérange est “collant", “pot de colle", on aimerait prendre ses distances mais il est “collant" (interprétation proposée par M18, et confirmée par M21)
-\np <langue="fra"> Pas de forme simplex, seulement forme rédupliquée.
+\nt <dom="sem" langue="fra"> Le locuteur M18 propose une étymologie dans laquelle ce mot serait parent du mot pour “pâte", |fv{dʑɯ˩hṽ̩˧˥}: quelqu'un qui dérange est “pot de colle", on aimerait prendre ses distances mais il est “collant" (interprétation à laquelle se rallie M21). xxxx (réponse AMA: rien à voir)
+\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -21638,7 +21642,7 @@
 \xn 干扰人家
 \xf ennuyer les gens
 \xc <langue="fra"> schéma tonal régulier
-\dt 24/Apr/2017
+\dt 24/Apr/2017 xxxx autres exemples? > ʈʂʰɯ˧ | le˧-hṽ̩˧-ze˥! il est fou!
 
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
 \sf <nb="2011"> 1396
@@ -40226,7 +40230,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> (avais noté en 2006: /†njæ˩kʰæ˧/)
-\nt <dom="sem" langue="fra"> ("excrément de l'oeil")
+\nt <dom="sem" langue="fra"> ("excrément de l'œil")
 \ton LM+#H
 \lc njæ˩qʰæ˥
 \so <print="n"> F4
@@ -40900,7 +40904,7 @@
 
 \lx njɤ˧kv̩˩-njɤ˩tsʰɤ˩
 \or nyagu nyace
-\ec <langue="fra"> Les trois composantes sont identifiées comme: “oeil", “pommette", et le |fg{cl} des feuilles et des fleurs
+\ec <langue="fra"> Les trois composantes sont identifiées comme: “œil", “pommette", et le |fg{cl} des feuilles et des fleurs
 \ps adj
 \cf njɤ˧kv̩˩
 \cf tsʰɤ˧˥α
@@ -41121,7 +41125,7 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf a) njɤ˩ ko˥ lo˥
-\vf “os de l'oeil"
+\vf “os de l'œil"
 \vf b) njɤ˩ kʶwɑ˥, ou ˩˩˥, M18 hésite
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -51706,6 +51710,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 美丽
 \df Beau.
 \gf beau
+\xv mɤ˧-tʰɑ˧˥ | mɤ˧-ʁæ˩dʑɯ˩
+\xe not too beautiful, not very beautiful
+\xn 不怎么好看
+\xf pas particulièrement beau
 
 \lx ʁo˩
 \or woq
@@ -53729,7 +53737,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> les tons de la forme rédupliquée suggèrent un simplex au ton ˩ (ton 3a)
+\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton L.
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a L tone.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有L调。
 \cf †ʁwɤ˩α
 \ton H#
 \lc ʁwɤ˧ʁwɤ˥
@@ -58941,7 +58951,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> La forme simplex n'est pas attestée, seulement la forme rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
+\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The M tone is deduced from the H+L tonal pattern of the reduplicated form.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。M调是从重叠形式的H+L调式中推导出来的。
 \ton Mα
 \so <print="n"> F4
 \de To leak.
@@ -59035,7 +59047,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂv̩˧
 \cf ʂv̩˧kʰɯ˩
 \so <print="n"> F4
-\nt <type="hist" langue="fra" dom="phono" print="n"> xxxx vérifier à nouveau si la première syllabe est /ʂɻ̩/ ou /ʂv̩/ (également pour l'entrée 'dés'). Voir enregistrement du 29 juin 2024.
+\nt <type="hist" langue="fra" dom="phono" print="n"> xxxx vérifier à nouveau si la première syllabe est /ʂɻ̩/ ou /ʂv̩/ (également pour l'entrée 'dés'). Voir enregistrement du 29 juin 2024. réponse 1er juillet: est /v/.
 \pdv ɭɯ˧β
 \de Dice.
 \ge dice
@@ -59866,18 +59878,26 @@ cette houe, il va falloir lui mettre un coin!
 \gn 可以
 \df Être possible, être autorisé: |fg{permissif.}
 \gf |fg{permissif}
-\xv mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! | njɤ˧ | dzɯ˧-bi˧ni˧-mɤ˧-gv̩˧˥!
+\xv mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! | njɤ˧ | dzɯ˧-bi˧ni˧-mɤ˧-gv̩˧˥! xxxx refusé par ama
 \xe It's not that good! I don't like to eat that!
 \xn 不怎么好吃！我不喜欢吃！
 \xf Ce n'est pas vraiment bon! Je n'aime pas en manger!
 \xc <langue="fra"> La construction |fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/} signifie ‘pas tellement', |fn{‘……不怎么……’}.
-\xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥!
+\xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥! xxxxxx
 \xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
 \xn 黄蜡伞不怎么会让人中毒！/ 毒性不太大！
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
 \xc <langue="fra"> /mɤ˧-tʰɑ˧˥ | V-mɤ˧-kv̩˧˥/: signifie ‘pas tellement', ‘pas tant que ça'
 \txt Mushrooms
 \doi 10.24397/pangloss-0005662#S12
+\xv mv˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! |
+\xe Barley flour is not too tasty! / Barley flour does not taste very good!
+\xn 大麦粉，不怎么好吃！
+\xf La farine d'orge, ça n'est pas bien bon (au goût)!
+\xv mɤ˧-tʰɑ˧˥ | mɤ˧-so˩!
+\xe It is not too good (to the taste)!
+\xn 不怎么香！
+\xf Ca n'est pas bien bon!
 
 \lx ʈʰæ˧˥
 \sf <nb="B"> 1161
@@ -60338,7 +60358,8 @@ cette houe, il va falloir lui mettre un coin!
 \xe mount Gemu, in Yongning
 \xn 永宁格姆山
 \xf la montagne Gemu de Yongning
-\dt 23/Jun/2017
+\lx tʰɑ˩lo˧-hĩ#˥
+yyyy
 
 \lx ʈʰæ˧mi˧-ɳɯ˩
 \or taemi nee
@@ -60539,7 +60560,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 类似
 \df Comparable à, semblable à, similaire à.
 \gf comparable
-\dt 27/Apr/2017
+\xv tʰɑ˧-ni˥-ni˩-gv̩˩, | ɖɯ˧-bæ˧ tsɤ˧! yyyy ça se ressemble, c'est (comme si c'était) pareil!
 
 \lx ʈʰæ˩ŋv̩˩
 \or taengu
@@ -61010,7 +61031,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe a good spot (for hunting a certain kind of wild plant)
 \xn 一个好地方
 \xf un bon coin (pour la cueillette)
-\dt 09/Oct/2015
+\xv njɤ˧ | tʰɑ˩tʰɑ˩˥ | ɖɯ˧-kʰwɤ˧ sɯ˧
+\xe (I) know a good spot (for hunting a certain kind of wild plant)
+\xn 一个好地方
+\xf yyyy je connais un bon coin (pour la cueillette)
 
 \lx ʈæ˩tsʰo#˥
 \hm 1
@@ -64144,6 +64168,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe (S)he is not clever!
 \xn 他不聪明！
 \xf Il n'est pas intelligent / il n'est pas bien malin! (on ne peut dire: /|fv{†mɤ˧-zo˧tʰi˧}/)
+\xv ʈʂʰɯ˧ | zo˧tʰi˧!
+\xe ʰe is clever! yyyy
+\xn 他不聪明！
+\xf Il est intelligent /yyyy il n'est pas bien malin! (on ne peut dire: /|fv{†mɤ˧-zo˧tʰi˧}/)
 
 \lx ti˧ɖo˥
 \or Diddeo
@@ -64160,7 +64188,7 @@ cette houe, il va falloir lui mettre un coin!
 \df Diddeo, un prénom masculin. Pour sa notation en caractères chinois, les caractères |fn{棣} et |fn{嘟} ne figurant pas parmi les caractères les plus usuels, la pente de la facilité pousse parfois à l'utilisation des caractères |fn{定珠}, plus simples et plus courants.
 \gf Diddeo
 
-\lx tʰi˩mi#˥
+\lx tʰi˩mi#˥ yyyy est : ton L
 \or timi
 \ps n
 \lc tʰi˩mi˥
@@ -64306,7 +64334,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf marteau
 \dt 10/Jun/2018
 
-\lx tʰi˩zo#˥
+\lx tʰi˩zo#˥ yyyy est: ton L
 \or tisso
 \ps n
 \lc tʰi˧zo˥
@@ -64903,6 +64931,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 松树林
 \df Forêt de conifères.
 \gf forêt_de_conifères
+tʰo˧ɕi˧-ʈʂe˥gi˩, | mo˧ tʰi˧-di˥-kv̩˩! Au milieu des forêts de conifères, il y a des champignons! yyyy
 
 \lx tʰo˧dzi˩
 \sf <nb="B"> 2021
@@ -65492,14 +65521,14 @@ cette houe, il va falloir lui mettre un coin!
 \gf aiguilles_de_pin
 \dt 08/Oct/2015
 
-\lx tʰo˩tɕi˧˥
+\lx tʰo˩tɕi˧˥ yyyy modifier en: tɕɯ˧˥
 \sf <nb="B"> 473
 \sf <nb="2011"> 645
 \or tojie
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: tʰo˩tɕi˩˥) (un temps noté tʰo˩tɕɯ˧˥; mais est bien vérifié: est /tɕi/)
+\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: tʰo˩tɕi˩˥) (un temps noté tʰo˩tɕɯ˧˥; mais est bien vérifié: est /tɕi/) yyyy eɻɻeuɻ !!
 \ton LM+MH#
 \lc tʰo˩tɕi˧˥
 \so <print="n"> F4
@@ -65511,9 +65540,10 @@ cette houe, il va falloir lui mettre un coin!
 \ge brick
 \dn 砖
 \gn 砖
-\df Brique à l'ancienne: brique crue.
+\df Brique à l'ancienne: brique crue. yyyy Les Moso n'en employaient pas, et se contentaient de tasser la terre.
 \gf brique_crue
-\dt 08/Oct/2015
+tʰo˩tɕɯ˧ ɳæ˥ yyyy préparer des briques crues.
+yyyy mɤ˧-ɳɻ̩~ɳɻ̩˧ 不知不觉地
 
 \lx tʰo˧tɕo˧
 \sf <nb="2011"> 1051
@@ -65535,7 +65565,7 @@ cette houe, il va falloir lui mettre un coin!
 \xe to look back
 \xn 往后看
 \xf regarder derrière (soi)
-\xv tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˧
+\xv tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˧ yyyy corriger en: L final ɻ̩˩
 \xe to glance backward
 \xn 往后看一眼
 \xf jeter un coup d'œil en arrière
@@ -65821,6 +65851,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe |fg{dur}
 \xn 持续体 〜
 \xf |fg{dur}
+\xv tʰi˧-tʰo˩ | tʰi˧-dzi˩ être assis adossé (à qqch) yyyy
+\xe |fg{dur}
+\xn 持续体 〜
+\xf |fg{dur}
 \xc PHONO
 \xv tʰi˧-tʰo˩-ɻ̩˩
 \xe |fg{dur} 〜 |fg{inceptive}
@@ -65853,6 +65887,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe What can we do about it? / What can be done about it?
 \xn 有什么办法？
 \xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire?
+\xv ə˧tso˧ tʰo˧ dʑo˧-kv̩˩? | ɖɯ˧-kʰwɤ˧ ʝi˧-ɻ̩˧ qɑ˥! yyyy
+\xe What can we do about it? / What can be done about it?
+\xn 有什么办法？
+\xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire? Aide-moi! yyyy
 
 \lx ʈɤ˧α
 \sf <nb="B"> 1397
@@ -65948,20 +65986,19 @@ cette houe, il va falloir lui mettre un coin!
 \va <speaker="F5"> tsɑ˩tsɑ˩˧
 \va <speaker="M21"> njæ˥kv̩˩ njɤ˩ tswɤ˩
 \vf d'abord noté tsv̩˩
-\de To wink (as a discreet sign of mutual understanding).
+\de To wink, as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
 \ge to_wink
-\dn 眨眼
+\dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
 \gn 眨眼
-\df Faire un clin d'oeil (discret signe d'intelligence).
-\gf faire_un_clin_d_oeil
+\df Faire un clin d'œil, pour indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩~tsɑ˩-dʑo˩!
 \xe |fg{red}: (S)he is winking!
 \xn 重叠：他在眨眨眼！
-\xf |fg{red}: Elle/il est en train de faire un clin d'oeil!
+\xf |fg{red}: Elle/il est en train de faire un clin d'œil!
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩-dʑo˩!
 \xe (S)he is winking!
 \xn 他在眨眼！
-\xf Elle/il est en train de faire un clin d'oeil!
+\xf Elle/il est en train de faire un clin d'œil!
 \xv tsɑ˩~tsɑ˧˥
 \xe |fg{red}
 \xn 重叠
@@ -65999,7 +66036,37 @@ cette houe, il va falloir lui mettre un coin!
 \xe extremely busy
 \xn 非常忙
 \xf extrêmement occupé
-\dt 27/Apr/2017
+\xv lo˧ dʑo˧ ʐv̩˩ dʑo˩, | tsɑ˧ | ʐwæ˩˥!
+\xe There's some work and there are some tasks: it makes for a very busy time! (Set phrase)
+\xn 有活、有务：非常忙！／有工作，有任务：这是一段非常忙碌的时光！(固定短语）
+\xf Il y a de l'ouvrage, il y a du boulot: (on est) extrêmement occupé! / Il y a du travail, il y a des tâches: c'est une période très chargée! (Formule toute faite.)
+
+\lx ʐv̩˧
+\sf <nb="B"> 673
+\sf <nb="2011"> 1005
+\or ru
+\ps n
+\lc ʐv̩˧
+\cf lo˧
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\ton L? M? H?
+\so <print="n"> F4
+\nt <dom="ton" langue="fra"> Au vu de l'expression |fv{ʐv̩˧ dʑo˧}, les tons possibles du nom sont L, M et H.
+\de Task. This word is found exclusively in the set phrase |fv{lo˧ dʑo˧ ʐv̩˩ dʑo˩}.
+\ge task
+\dn 事情、义务。目前为止，这个词仅出现在|fv{lo˧ dʑo˧ ʐv̩˩ dʑo˩}这个固定短语里。
+\gn 事情
+\df Tâche. Mot observé exclusivement dans l'expression |fv{lo˧ dʑo˧ ʐv̩˩ dʑo˩}.
+\gf travail
+\xv ʐv̩˧ dʑo˧
+\xe There are some tasks (to be done) / there's some work
+\xn 有事情（要管）／有任务
+\xf Il y a de l'ouvrage / il y a du boulot / il y a des tâches (à accomplir)
+\xv lo˧ dʑo˧ ʐv̩˩ dʑo˩, | tsɑ˧ | ʐwæ˩˥!
+\xe There's some work and there are some tasks: it makes for a very busy time! (Set phrase)
+\xn 有活、有务：非常忙！／有工作，有任务：这是一段非常忙碌的时光！(固定短语）
+\xf Il y a de l'ouvrage, il y a du boulot: (on est) extrêmement occupé! / Il y a du travail, il y a des tâches: c'est une période très chargée! (Formule toute faite.)
 
 \lx tsɑ˧˥
 \sf <nb="B"> 1534
@@ -66008,7 +66075,6 @@ cette houe, il va falloir lui mettre un coin!
 \or zaq
 \ps v
 \lc tsɑ˧˥
-\sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> ɖɯ˧tsɑ˧tʰi˥tsɑ˩: tons confirmés
@@ -66035,7 +66101,12 @@ cette houe, il va falloir lui mettre un coin!
 \xe to kick repeatedly, to give one kick after the other
 \xn 踢了又踢
 \xf donner une succession de coups de pied
-\sn 2
+
+\lx tsɑ˧˥
+\hm 3
+\or zaq
+\ps v
+\lc tsɑ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so <print="n"> F4
@@ -66043,13 +66114,16 @@ cette houe, il va falloir lui mettre un coin!
 \ge to_row
 \dn 划（船）
 \gn 划（船）
-\df Ramer (=geste comparable à celui de briser les mottes: geste répétitif, exerçant la force coup après coup, sur l'eau, comme on le ferait sur des mottes de terre).
+\df Ramer.
 \gf ramer
+\xv ʐv̩˩gv̩˩ tsɑ˥
+\xe to row a boat, to row
+\xn 划船
+\xf ramer (littéralement ‘ramer un bateau’)
 \xv tsɑ˧-hɯ˥-tsɑ˩-ɻ̩˩
 \xe to row in a sustained way, to row with great vigour
 \xn 用力地划船、一直划船
 \xf ramer de façon soutenue
-\dt 27/Apr/2017
 
 \lx tsɑ˧˥
 \hm 2
@@ -66932,7 +67006,10 @@ cette houe, il va falloir lui mettre un coin!
 \gn 勤快
 \df Zélé, assidu.
 \gf assidu
-\dt 08/Oct/2015
+\xv ʈʂʰɯ˧ | tsɑ˧ʐo˩-njɤ˩ʐo˩ zo˩! | dʑɤ˩-v̩˥ ɲi˩!
+\xe (S)he is diligent and hard-working. (S)he is a good person.
+\xn 他勤奋努力，是个好人！
+\xf Il est zélé et assidu, c'est quelqu'un de bien!
 
 \lx ʈʂʰæ˧zo#˥
 \or chaesso
@@ -67851,6 +67928,7 @@ cette houe, il va falloir lui mettre un coin!
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdv nɑ˧α
 \de Key.
 \ge key
 \dn 钥匙
@@ -71474,16 +71552,16 @@ cette houe, il va falloir lui mettre un coin!
 \va <speaker="F5"> tsɑ˩tsɑ˩˧
 \va <speaker="M21"> njæ˥kv̩˩ njɤ˩ tswɤ˩
 \vf d'abord noté tsv̩˩
-\de To wink (as a discreet sign of mutual understanding).
+\de To wink, as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
 \ge to_wink
-\dn 眨眼
+\dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
 \gn 眨眼
-\df Faire un clin d'oeil (discret signe d'intelligence).
-\gf faire_un_clin_d_oeil
+\df Faire un clin d'œil, pour indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
+\gf faire_un_clin_d'œil
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɯ˩pʰɤ˩-dʑo˩!
 \xe (S)he is winking!
 \xn 他在眨眼！
-\xf Elle/il est en train de faire un clin d'oeil!
+\xf Elle/il est en train de faire un clin d'œil!
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧pʰv̩#˥
@@ -73252,21 +73330,23 @@ cette houe, il va falloir lui mettre un coin!
 \lc tv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> “soutenir"
 \ton MH
 \so <print="n"> F4
 \va <speaker="M21"> ID.
-\de To pour (a liquid) into someone's mouth, to pour down someone's throat (e.g. pouring medicines into the throat of a sick person).
-\ge to_pour_into_the_mouth
-\dn 喂，喂到嘴里
+\de To pour a liquid or place a piece of food or medicine into someone's mouth (when the person is not able or willing to take it herself). For instance, to pour a medicine into the mouth of a sick person, or to feed a reluctant child by placing food right into its mouth.
+\ge to_place_into_the_mouth
+\dn 喂，将药物、食物或饮料倒入口中（当该人不能或不愿自己吞咽时）。例如，把药倒进病人的嘴里，或把食物直接放进不情愿的孩子嘴里喂他。
 \gn 喂
-\df Verser (un liquide) dans la bouche de quelqu'un, faire boire à quelqu'un.
-\gf faire_boire
+\df Verser un liquide dans la bouche de quelqu'un, ou y placer un aliment ou un médicament (lorsque la personne ne peut ou ne veut pas le prendre elle-même). Par exemple, verser un médicament dans la bouche d'une personne malade, ou nourrir un enfant réticent en lui mettant de la nourriture dans la bouche.
+\gf mettre_dans_la_bouche
 \xv ʈʂʰæ˧ɣɯ˧ | tʰi˧-tv̩˧˥
 \xe to give medicines, to pour medicines into the throat of a sick person
 \xn 喂药
 \xf verser un médicament dans la bouche de quelqu'un, faire boire un médicament à quelqu'un
-\dt 07/Oct/2015
+\xv tʰi˧-dzɯ˥-kʰɯ˩, | tʰi˧-tv̩˧ ɲi˥-ze˩ mæ˩!
+\xe To make him/her eat, we put (the food) in his/her mouth!
+\xn 为了让他/她进食，我们把食物放进他/她的嘴里！
+\xf Pour (le/la) faire manger, on lui met (la nourriture) dans la bouche!
 
 \lx tʰv̩˧˥
 \sf <nb="B"> 1535
@@ -73305,11 +73385,15 @@ cette houe, il va falloir lui mettre un coin!
 \xe to give a kick, to stamp the ground
 \xn 踢一脚
 \xf donner un coup de pied par terre, fouler le sol du pied
-\xv kʰɯ˧tsʰɤ˧ tʰɑ˧-tʰv̩˧˥!
+\xv kʰɯ˧tsʰɤ˧ tʰɑ˥-tʰv̩˩! ≈ kʰɯ˧tsʰɤ˧˥ | tʰɑ˧-tʰv̩˧˥!
 \xe Do not stamp the ground! / Do not kick/tread on something!
 \xn 别踢！
 \xf Ne donne pas de coup de pied!
-\dt 27/Apr/2017
+\xc <type="hist" langue="fra" print="n"> Avant 2024, noté /‡kʰɯ˧tsʰɤ˧ tʰɑ˧-tʰv̩˧˥/.
+\xv njɤ˧ kʰɯ˧tsʰɤ˧ tʰɑ˥-tʰv̩˩!
+\xe Do not tread on my foot!
+\xn 别踩我的脚！
+\xf Ne me marche pas sur le pied!
 
 \lx tʰv̩˧˥
 \hm 2
@@ -73318,7 +73402,7 @@ cette houe, il va falloir lui mettre un coin!
 \lc tʰv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> cognat avec naxi tʰv̩˥ ‘faire (la cuisine)'
+\nt <type="comp" langue="nxq"> (hɑ˧) tʰv̩˥?
 \ton MH
 \so <print="n"> F4
 \de To take charge of, to foot the bill (e.g. someone invites the whole village to a feast; that person provides the food, but does not necessarily do the cooking).
@@ -73327,7 +73411,11 @@ cette houe, il va falloir lui mettre un coin!
 \gn 负担（费用）
 \df Se charger de, préparer, offrir (quelqu'un se charge d'offrir un repas aux gens du village; c'est lui qui paie, pas forcément qui fait la cuisine).
 \gf se_charger_de
-\dt 07/Oct/2015
+\xv ə˧tso˧ mɤ˧-ɲi˩, | njɤ˧-ɳɯ˧ | gɤ˩-tʰv̩˧ bi˧!
+\xe I'm footing the bill for everything!
+\xn 全部由我来负担！
+\xf C'est moi qui prends en charge toute la dépense!
+\xc <dom="ton" langue="fra"> Séquence tonale inattendue: on attendrait gɤ˩-tʰv̩˧˥ xxxx
 
 \lx tʰv̩˥
 \sf <nb="B"> 899b
@@ -73671,7 +73759,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 临时坟墓
 \df Tombe provisoire, où on place le corps du défunt avant la crémation.
 \gf tombe_provisoire
-\dt 07/Oct/2015
+\dt 07/Oct/2015 pdv ɭɯ˧
 
 \lx ʈv̩˩qʰv̩˩
 \sf <nb="2011"> 927
@@ -73714,13 +73802,14 @@ cette houe, il va falloir lui mettre un coin!
 \df Désormais, dorénavant.
 \gf désormais
 
-\lx tʰv̩˧-si˥
+\lx tʰv̩˧-se˥
 \or tusee
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton H#
-\lc tʰv̩˧si˥
+\lc tʰv̩˧se˥
+\nt <type="hist" langue="fra" print="n"> Avant 2024: noté /tʰv̩˧-si˥/. Corrigé en /tʰv̩˧-se˥/ le 1er juillet 2024.
 \so <print="n"> F4
 \de Numerous.
 \ge numerous
@@ -73728,10 +73817,14 @@ cette houe, il va falloir lui mettre un coin!
 \gn 多
 \df Nombreux.
 \gf nombreux
-\xv mv̩˧ʁo˧=ɻ̩˥-dʑo˩, | ɻæ˩˥ | tʰv̩˧-si˥ | tʰv̩˩-jɤ˩ dʑo˩˥!
+\xv mv̩˧ʁo˧=ɻ̩˥-dʑo˩, | ɻæ˩˥ | tʰv̩˧-se˥ | tʰv̩˩-jɤ˩ dʑo˩˥!
 \xe The People of the Sky had seeds in profusion! (A comment about the story entitled ‘Seeds’)
 \xn 天上的人，有许多许多种子！
 \xf Les gens du Ciel, ils avaient des semences en abondance! (Réflexion au sujet du récit ‘Seeds’)
+\xv ɬi˧di˩-di˩mi˩, | tʰv˧-se˥, | hĩ˧ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥!
+\xe In Yongning, there were lots of people / there was a large population. (Sentence formed by imitating the previous example.)
+\xn 永宁人多/人口众多（仿照前例造句）。
+\xf À Yongning, il y avait beaucoup de gens / il y avait une population abondante. (Phrase formée en calquant l'exemple précédent.)
 
 \lx tʰv̩˧-sɯ˩kv̩˩
 \sf <nb="B"> 2161b
@@ -73812,6 +73905,11 @@ cette houe, il va falloir lui mettre un coin!
 \xn 几点了？
 \xf Quelle heure est-il?
 \rf F5
+\xv tv̩˧tsʰɯ˧ qʰɑ˧-ɭɯ˧ dʑo˧-sɯ˩?
+\xe What time is it? (Literally: ‘How many hours?’)
+\xn 几点了？
+\xf Quelle heure est-il?
+\rf F4
 
 \lx tv̩˧tsʰɯ˧li˧di˩
 \sf <nb="B"> 759
@@ -74074,6 +74172,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe the tree buds
 \xn 树抽芽
 \xf l'arbre fait des bourgeons
+\xv si˧dzi˩-ʁo˩bv̩˩ tʰv̩˩
+\xe the tree buds come out
+\xn 树芽抽
+\xf les bourgeons d'arbre poussent / paraissent
 \sn 4
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74771,7 +74873,8 @@ cette houe, il va falloir lui mettre un coin!
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (ton confirmé, n'est pas ˥˥)
 \np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. xxxxx
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -75147,7 +75250,7 @@ cette houe, il va falloir lui mettre un coin!
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：绕了
 \xf |fg{accomp} 〜 pfv
-\xc <langue="fra"> Forme simplex; confirmé en 2014: il s'agit bien du même verbe.
+\xc <langue="fra"> Forme simplex; confirmé en 2014: il s'agit bien du même verbe. xxxx On pense plutôt à un ton MH, qui en réduplication donne L.MH, d'où L.L après un ton M.
 \xc PHONO
 \xv ɖɯ˧-wɤ˩~wɤ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
@@ -75168,6 +75271,7 @@ cette houe, il va falloir lui mettre un coin!
 \xn 走路绕过
 \xf contourner à pied
 \xv PHONO
+ɖɯ˧-wɤ˩wɤ˩ | ə˧sɯ˩kv˩ | ɖɯ˧-se˧ɻ˧ ə˥-bi˩? on va faire un tour? yyyy sens: est d'abord contourner; aussi: faire un tour
 
 \lx ʐ
 \or r-r-r
@@ -75436,7 +75540,7 @@ cette houe, il va falloir lui mettre un coin!
 \xn 你们很熟吗？ - 不很熟！
 \xf tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne somme pas éloignés!
 \xc <langue="fra"> avant 2015: noté: /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/; dans ce contexte, il est plus approprié d'unir en un seul groupe tonal.
-\dt 05/Jul/2017
+\rf M18
 
 \lx ʐæ˩sɯ˩
 \sf <nb="B"> 415b
