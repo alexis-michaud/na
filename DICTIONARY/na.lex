@@ -1550,7 +1550,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014
+\nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
 \nt <dom="sem" langue="fra"> Ce morphème apparaît dans ‘miroir': une toiture ou cloison bien étanche ‘renvoie l'eau' de même que le miroir renvoie la lumière.
 \ton Lα
 \lc æ̃˩˥
@@ -3238,7 +3238,7 @@
 \or shua-shua-shua
 \ps ideophone
 \lc ʂwɑ.ʂwɑ.ʂwɑ
-\cf ʈʂʰwɑ~ʈʂʰwɑ~ʈʂʰwɑ
+\cf ʈʂʰwæ~ʈʂʰwæ~ʈʂʰwæ
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton 0
@@ -5143,7 +5143,9 @@
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté /kʶv̩˧/ pour /qʰv̩/.
 \nt <type="hist" langue="fra" print="n"> En 2006: noté un /bv̩˧dv̩˩zɯ˩hĩ˩˥/.
-\ec <langue="fra"> Étymologie: “(insecte) qui a des cornes", ‘长角的’? Pas sûr. Mais telle est l'intuition de F4.
+\ec <langue="fra"> L'intuition de la locutrice F4 est que l'étymologie du mot est: “insecte qui a des cornes", ‘长角的虫子’.
+\ec <langue="eng"> Speaker F4's intuition is that the etymology of the word is “insect with horns", “insect that has horns", ‘长角的虫子’.
+\ec <langue="fra"> 主发音人直觉这个词的词源是“有角的昆虫”。
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-hĩ˧
@@ -9434,7 +9436,7 @@
 \lx ʐwæ˩ ʈʂɤ˩
 \sf <nb="B"> 1076
 \sf <nb="2011"> 1518
-\or ruaezhe rrrr
+\or ruaezhe
 \et ʐwæ˩α
 \et ʈʂɤ˧α
 \ps adj
@@ -11228,7 +11230,7 @@
 \gf Gaoming
 
 \lx ʁo˩jɤ˩
-\or woye rrrr
+\or Woye
 \bw <langue="cmn"> 俄亚
 \ps n
 \lc ʁo˩jɤ˩˥
@@ -13025,7 +13027,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> identification confirmée en 2016 d'après volume “Médecine mosuo"
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L
 \lc dʑɯ˩ʂwæ˩˥
 \so <print="n"> F4
@@ -22289,7 +22291,7 @@
 \gf année_du_Rat
 
 \lx hwɤ˧˥
-\or hua
+\or huaq
 \ps n
 \hm 3
 \cf hwɤ˧-kʰv̩˥1
@@ -35578,7 +35580,7 @@
 \xf sac à ragots
 
 \lx ɲi˧bv̩˧
-\or nhibbu rrrr
+\or nibbu
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -41752,7 +41754,7 @@
 \xf Quelle nouvelle as-tu apprise?
 \xc <type="hist" langue="fra" print="n"> Avant 2024, noté: /no˧ ə˧tso˧ ɳv̩˥?/
 
-\xv mɤ˧-ɳv̩˧~ɳv̩˧
+\lx mɤ˧-ɳv̩˧~ɳv̩˧
 \or me-neuneu rrrr
 \ps adv
 \ton M
@@ -45527,7 +45529,8 @@
 \lc pɻ̩˧
 \sy bi˧γ
 \so <print="n"> F4
-\nt <type="hist" langue="fra" print="n"> Corrigé de v̩ en ɻ̩ le 21 juin 2024.
+\nt <type="hist" dom="phono" langue="fra" print="n"> Corrigé de v̩ en ɻ̩ le 21 juin 2024.
+\nt <type="hist" dom="ton" langue="fra" print="n"> Question de Roselle Dobbs, 3 juillet 2024: "Could this possibly be beuq instead?" (ton L) xxxx
 \de To go out, to get out.
 \ge to_go_out
 \dn 出去
@@ -45764,7 +45767,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (d'abord noté tse˥pʰv̩˧, par erreur) (d'abord noté /tse/ et non /tsɤ/)
-\np <langue="fra"> sens: “retourner"
 \ton MH
 \lc pʰv̩˧˥
 \so <print="n"> F4
@@ -45796,7 +45798,6 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> est différent de 1532 “s'échapper"
 \ton Lβ
 \lc pʰv̩˩˥
 \so <print="n"> F4
@@ -45982,7 +45983,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tons confirmés; d'abord noté tʰe˧pv̩˧lv̩˧; confirmé: n'est pas lv̩˧)
-\np <langue="fra"> cognat du naxi
+\nt <langue="fra" print="n"> cognat du naxi
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -46013,7 +46014,7 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra" print="n"> avant 2007: noté †/pʰv̩˥ɭɯ˥ tʰæ˧ kʶwɤ˥/, †/HHML/
-\nt <dom="sem" langue="fra"> Selon f4, ce n'est pas un vêtement usuel.
+\nt <dom="sem" langue="fra"> Selon F4, ce n'est pas un vêtement usuel.
 \np <langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
 \ton H#
 \lc pʰv̩˧ɭɯ˧ʈʰæ˧qʰwɤ˥
@@ -46162,7 +46163,7 @@
 \gf ambre
 
 \lx pʰɻ̩˧ʂɯ˧
-\or pushi
+\or peushi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46187,7 +46188,7 @@
 \lx pɻ̩˩tɑ˩
 \sf <nb="B"> 524d
 \sf <nb="2011"> 751
-\or buda
+\or beuda
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46421,7 +46422,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté /kʶwæ˧le˧pu˧tsʰɯ˩˥/ puis /qʰwæ˧ | le˧-po˧-tsʰɯ˧˥/ qui veut dire: envoyer une lettre, transmettre un message)
-\np <langue="fra"> raccompagner un hôte
 \ton Lα
 \lc pɻ̩˩˥
 \so <print="n"> F4
@@ -46431,7 +46431,7 @@
 \ge to_see_off
 \dn 送行
 \gn 送行
-\df Raccompagner; escorter; mener, conduire (du bétail).
+\df Raccompagner (un hôte); escorter; mener, conduire (du bétail).
 \gf raccompagner
 \xv hĩ˧bæ˧ pɻ̩˥
 \xe to see a guest off
@@ -49597,7 +49597,7 @@
 \gf banc
 
 \lx qʰwæ˧~qʰwæ˧
-\or ghuaeghuae rrrr
+\or khuaekhuae
 \ps n
 \et qʰwæ˩α
 \lc qʰwæ˧qʰwæ˧
@@ -51842,7 +51842,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf ʈʂe˥2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté au ton LM
+\nt <type="hist" langue="fra" dom="ton" print="n"> avant juillet 2012: noté au ton LM
 \ton MH
 \lc ʁo˧˥
 \so <print="n"> F4
@@ -52654,7 +52654,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ge Eugeron_breviscapus
 \dn 短葶飞蓬：洗衣服用的一种植物
 \gn 短葶飞蓬
-\df |fi{Eugeron breviscapus} (une sorte de pâquerette). C'est une des deux sortes de plantes (l'autre étant |fv{lɑ˩pʰɑ˩-læ˥dzi˩}) qu'on écrasait et faisait bouillir afin d'obtenir un liquide pour laver les vêtements, à une époque où le savon n'était pas encore répandu. Cette plante a été cueillie de façon si systématique qu'on n'en trouvait plus dans la plaine de Yongning vers 2006-2009.
+\df |fi{Eugeron breviscapus} (une sorte de pâquerette). C'est une des deux sortes de plantes (l'autre étant |fv{læ˩pʰæ˩-læ˥dzi˩}) qu'on écrasait et faisait bouillir afin d'obtenir un liquide pour laver les vêtements, à une époque où le savon n'était pas encore répandu. Cette plante a été cueillie de façon si systématique qu'on n'en trouvait plus dans la plaine de Yongning vers 2006-2009.
 \gf Eugeron_breviscapus
 
 \lx ʁo˥pv̩˩
@@ -54263,7 +54263,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> identification vérifiée en 2016 d'après le livre “Médecine Mosuo"
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L#
 \lc ɻ̩̃˧ʈʂwæ˩
 \so <print="n"> F4
@@ -54491,7 +54491,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 05/Oct/2015
 
 \lx ʈʂʰɤ˩˥
-\or che rrrr
+\or cheq
 \ps n
 \lc ʈʂʰɤ˩˥
 \sd <langue="fra"> objet
@@ -55750,7 +55750,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʂe˩ʂɻ̩˩
 \sf <nb="B"> 1810
 \sf <nb="2011"> 2751
-\or sheishu rrrr sheisheu?
+\or sheisheu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -55759,7 +55759,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\nt <type="hist" langue="fra" print="n"> Corrigé de /ʂv̩/ en /ʂɻ̩/ en juin 2024 (cf. enregistrement du 29 juin 2024).
+\nt <type="hist" langue="fra" dom="phono" print="n"> Corrigé de /ʂv̩/ en /ʂɻ̩/ en juin 2024 (cf. enregistrement du 29 juin 2024).
 \pdv ɭɯ˧β
 \de Nit, egg of louse.
 \ge nit
@@ -56393,7 +56393,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf si˧kʰɯ˧-ɭɯ˧bv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> identification vérifiée en 2016, d'après livre ‘Médecine Mosuo'; auparavant traduit (par erreur) comme: white Chinese herbaceous peony, |fi{Paeonia lactiflora}, |fn{白芍药}
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'. Auparavant traduit (par erreur) comme: white Chinese herbaceous peony, |fi{Paeonia lactiflora}, |fn{白芍药}
 \ton H#
 \lc si˧kʰɯ˧
 \so <print="n"> F4
@@ -58592,7 +58592,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> identification vérifiée en 2016 d'après livre ‘Médecine Mosuo', qui traduit comme 三颗针, nom d'un produit médicinal tiré de la plante
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo', qui traduit comme 三颗针, nom d'un produit médicinal tiré de la plante
 \ton -L
 \lc ʂɯ˧ʂɯ˧dzi˩
 \so <print="n"> F4
@@ -60735,10 +60735,16 @@ cette houe, il va falloir lui mettre un coin!
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> Vérifier : ʈæ˧, ou tɑ˧? Vérifié soigneusement en 2017: est: |fv{tæ˧pv̩˩}, non |fv{tɑ˧pv̩˩} ni |fv{ʈæ˧pv̩˩}. Ce mot fournit le seul exemple de la syllabe |fv{tæ} en na de Yongning.
+\nt <type="hist" langue="fra" dom="phono" print="n"> Vérifier : ʈæ˧, ou tɑ˧? Avant 2016: noté /tæ˧pv̩˩/. Vérifié soigneusement en 2017: est: |fv{tæ˧pv̩˩}, non |fv{tɑ˧pv̩˩} ni |fv{ʈæ˧pv̩˩}. Ce mot fournit le seul exemple de la syllabe |fv{tæ} en na de Yongning. Une rétroflexion est relevée (par erreur) au fil de l'écoute de textes: ne reconnaissant que les syllabes /tɑ/ et /ʈæ/, j'étais amené à corriger la consonne (en rétroflexe) au vu de la voyelle (qui est clairement /æ/ et non /ɑ/). Corrigé le 3 juillet 2024 au fil de la vérification du dictionnaire, rétablissant /tæ˧pv̩˩/: voir enregistrement de ce jour-là.
+\nt <type="hist" langue="fra" dom="ton" print="n"> Tons vérifiés.
 \ton L#
 \lc tæ˧pɻ̩˩
+\cf tɑ˧gɤ˩
 \so <print="n"> F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> kɑ˧
+\va <speaker="M21"> ID.
+\sn 1
 \de Dry (fruit, vegetables), dried in the sun.
 \ge dry
 \dn 晒干的（水果、蔬菜……）
@@ -60761,23 +60767,7 @@ cette houe, il va falloir lui mettre un coin!
 \xe to dry vegetables
 \xn 将蔬菜弄干（晒干）
 \xf faire sécher des légumes
-
-\lx tæ˧pɻ̩˩
-\sf <nb="B"> 1656
-\sf <nb="2011"> 2466
-\or dabeu
-\ps adj
-\cf tɑ˧gɤ˩
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (tons vérifiés)
-\nt <type="hist" langue="fra" print="n"> avant 2016 : noté /tæ˧pv̩˩/; rétroflexion relevée au fil de l'écoute de textes; corrigé le 3 juillet 2024 au fil de la vérification du dictionnaire.
-\ton L#
-\lc tæ˧pɻ̩˩
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> kɑ˧
-\va <speaker="M21"> ID.
+\sn 2
 \de Skinny, thin (person).
 \ge skinny
 \dn 瘦（人很瘦）
@@ -61896,13 +61886,13 @@ cette houe, il va falloir lui mettre un coin!
 
 \lx tɕʰi˧nɑ˥
 \sf <nb="2011"> 3305
-\or qiena
+\or qienae
 \ps n
 \lc tɕʰi˧nɑ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> tons vérifiés (n'est pas tɕʰɯ)
-\nt <dom="sem" langue="fra"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton H#
 \so <print="n"> F4
 \de Prinsepia, |fi{Prinsepia utilis Royle}; its seeds yield a highly valued oil, for both cooking and massaging on people's bodies.
@@ -63540,7 +63530,7 @@ cette houe, il va falloir lui mettre un coin!
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra" print="n"> Noté par erreur 终石藤 avant 2017, d'où une difficulté à retrouver le mot dans les bases de données de plantes
-\nt <dom="sem" langue="fra"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L+#H-
 \so <print="n"> F4
 \pdv dzi˩
@@ -66078,6 +66068,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʐv̩˧
 \sf <nb="B"> 673
 \sf <nb="2011"> 1005
+\hm 1
 \or ru
 \ps n
 \lc ʐv̩˧
@@ -68466,12 +68457,11 @@ cette houe, il va falloir lui mettre un coin!
 \xe to build a house
 \xn 建 房子
 \xf construire un bâtiment
-\dt 08/Oct/2015
 
 \lx tsʰɯ˧˥
 \sf <nb="B"> 1708b
 \sf <nb="2011"> 2243
-\hm 3
+\hm 1
 \or ceeq rrrr
 \ps v
 \sd <langue="fra"> verbe
@@ -68532,7 +68522,6 @@ cette houe, il va falloir lui mettre un coin!
 \xe as above
 \xn 盘腿坐
 \xf même sens
-\dt 08/Oct/2015
 
 \lx tsʰi˧˥
 \hm 3
@@ -69574,7 +69563,7 @@ cette houe, il va falloir lui mettre un coin!
 \lc ʈʂʰo˧bv̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L#
 \so <print="n"> F4
 \pdv dzi˩
@@ -69963,7 +69952,7 @@ cette houe, il va falloir lui mettre un coin!
 \np <langue="fra"> variante: tsʰo˧pi˧
 \ton M
 \lc tsʰo˧pjɤ˧
-\cf lɑ˩pʰɑ˩-læ˥dzi˩
+\cf læ˩pʰæ˩-læ˥dzi˩
 \cf ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -69977,7 +69966,7 @@ cette houe, il va falloir lui mettre un coin!
 \ge soap
 \dn 肥皂
 \gn 肥皂
-\df Savon. Sans doute mot emprunté à une langue de birmanie: cp. nung: tshɑ³¹ pi⁵⁵ iɔ⁵⁵ [Dai 1992]; achang de Luxi et Lianghe: tshɑu⁵⁵ pjɑu⁵⁵ [Dai 1985]; achang de Longchuan: tshau³¹ piau³¹ [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{lɑ˩pʰɑ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
+\df Savon. Sans doute mot emprunté à une langue de birmanie: cp. nung: tshɑ³¹ pi⁵⁵ iɔ⁵⁵ [Dai 1992]; achang de Luxi et Lianghe: tshɑu⁵⁵ pjɑu⁵⁵ [Dai 1985]; achang de Longchuan: tshau³¹ piau³¹ [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
 \gf savon
 \dt 07/Oct/2015
 
@@ -70112,7 +70101,7 @@ cette houe, il va falloir lui mettre un coin!
 \ton L+#H-
 \lc læ˩pʰæ˩læ˥dzi˩
 \cf ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
-\nt <type="hist" langue="fra" print="n"> Vérifié soigneusement en juin 2024: la voyelle de la troisième syllabe est bien un /æ/ et non un /ɑ/ (/…-læ˥dzi˩/, et non /…-lɑ˥dzi˩/). À l'époque, l'expression était notée /lɑ˩pʰɑ˩-læ˥dzi˩/. Corrigé en juillet 2024 en /læ˩pʰæ˩-læ˥dzi˩/.
+\nt <type="hist" langue="fra" print="n"> Vérifié soigneusement en juin 2024: la voyelle de la troisième syllabe est bien un /æ/ et non un /ɑ/ (/…-læ˥dzi˩/, et non ‡/…-lɑ˥dzi˩/). À l'époque, l'expression était notée ‡/lɑ˩pʰɑ˩-læ˥dzi˩/. Corrigé en juillet 2024 en /læ˩pʰæ˩-læ˥dzi˩/.
 \so <print="n"> F4
 \de A plant used when washing clothes, at a time when soap was not yet widely available.
 \ge plant_sp
@@ -71103,7 +71092,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx tsʰi˧˥
 \sf <nb="B"> 1341
 \sf <nb="2011"> 1918
-\hm 1
+\hm 4
 \or ciq
 \ps v
 \lc tsʰi˧˥
@@ -71154,7 +71143,6 @@ cette houe, il va falloir lui mettre un coin!
 \gn 山羊
 \df Chèvre/bouc.
 \gf chèvre/bouc
-\dt 07/Oct/2015
 
 \lx ʈʂɯ˧
 \sf <nb="B"> 1960
@@ -72721,14 +72709,13 @@ cette houe, il va falloir lui mettre un coin!
 \gn 米酒
 \df Alcool de riz fermenté. Ce type d'alcool est sucré, et son degré d'alcool est moins élevé que celui des alcools distillés.
 \gf vin
-\dt 06/Jun/2017
 
 \lx ʈʂwæ˧tʰo˩
 \bw <langue="cmn"> 砖头
 \or zhuaeto
 \ps n
 \lc ʈʂwæ˧tʰo˩
-\cf tʰo˩tɕi˧˥
+\cf tʰo˩tɕɯ˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L#
@@ -72875,7 +72862,6 @@ cette houe, il va falloir lui mettre un coin!
 \lc ʈʂʰwæ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> lə˧ʈʂʰwæ˧ze˧: phonétiquement: læ˧…
 \ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -72896,11 +72882,11 @@ cette houe, il va falloir lui mettre un coin!
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体
 \xf |fg{accomp} 〜 |fg{pfv}
+\xc <langue="fra" dom="phono"> Phonétiquement: /|fv{læ˧-…}/
 \xv hĩ˧-ɳɯ˩ | mɤ˧-dzɯ˥, | le˧-ʈʂʰwæ˧-ze˧! |
 \xe No one ate it, and now it's rotten! (About a water melon that was forgotten in the cupboard.)
 \xn 没人吃，就烂了！（一个西瓜被忘记在橱柜里，就腐烂了）
 \xf On a oublié de la manger, et maintenant c'est pourri! (au sujet d'une pastèque qui a traîné dans le garde-manger et est maintenant incomestible)
-\dt 27/Apr/2017
 
 \lx ʈʂʰwæ˧α
 \sf <nb="B"> 1585
@@ -73093,8 +73079,6 @@ cette houe, il va falloir lui mettre un coin!
 \lc ʈʂwɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (d'abord noté: hwɤ˧li˩˥ hĩ˥ ʈʂu˧ ze˩) (tons confirmés en mai 2008: important: n'est pas ˧ ˥ ˧ ˩ ˩; hĩ˥ porte un ton haut)
-\np <langue="fra"> hwɤ˧li˧˥ hĩ˧ʈʂwɤ˩ze˩ “le chat a griffé quelqu'un"
 \ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -73104,12 +73088,17 @@ cette houe, il va falloir lui mettre un coin!
 \gn 抓
 \df Griffer (ex.: un tigre griffe).
 \gf griffer
+\xv hwɤ˧li˧˥ | hĩ˧ ʈʂwɤ˩-ze˩
+\xe the cat scratched someone
+\xn 猫抓了人
+\xf le chat a griffé quelqu'un
+\xc <type="hist" langue="fra" print="n"> D'abord noté: /hwɤ˧li˩˥ hĩ˥ ʈʂu˧ ze˩/. En mai 2008, notais: «important: la séquence tonale des trois dernières syllabes n'est pas M.L.L, ˧ ˩ ˩; /hĩ˥/ porte un ton haut». À l'époque, le rôle joué par les frontières entre groupes tonals n'était pas reconnu, ni la réinitialisation de la hauteur de référence des divers tons à ces frontières, ce qui amenait à catégoriser le ton de l'objet comme un ton H.
 \xv tso˧~tso˧ ʈʂwɤ˩
 \xe to scratch objects
 \xn 抓东西
 \xf griffer des objets
 \xc PHONO
-\dt 27/Apr/2017
+
 
 \lx ʈʂwɤ˧α
 \sf <nb="B"> 858
@@ -78291,6 +78280,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʐv̩˧
 \sf <nb="B"> 814
 \sf <nb="2011"> 1202
+\hm 2
 \or ru
 \ps num
 \sd <langue="fra"> nombre
