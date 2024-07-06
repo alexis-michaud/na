@@ -5092,23 +5092,25 @@
 \sf <nb="B"> 658:
 \sf <nb="B"> “trompe":
 \sf <nb="2011"> 560
-\or bbukheu
+\or bbeukheu
 \ps n
 \lc bɻ̩˩qʰv̩˩˥
 \ton L
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" langue="fra" print="n"> Notes 2008: “/bv̩˩ kʰʶv̩˩˥/; aspiration confirmée: /kʰʶ/ et non /kʶ/".
+\nt <type="hist" langue="fra" dom="phono" print="n"> Notes 2008: “/bv̩˩ kʰʶv̩˩˥/; aspiration confirmée: /kʰʶ/ et non /kʶ/".
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv dze˩
-\pdc <langue="fra"> paire; explication: les conques vont par paires, chaque maisonnée en possède une paire
-\de Conch shell, |fi{Turbinella pyrum L.}. It is used in ceremonies. Each family has a pair of conchs.
+\pdv dze˩α
+\pdc <langue="fra"> Paire. Explication: les conques vont par paires, chaque maisonnée en possède une paire.
+\pdc <langue="eng"> Pair. Explanation: conch shells come in pairs, with each household owning a pair.
+\pdc <langue="cmn"> 海螺壳是成双成对的，每家每户都有一对。
+\de Conch shell, |fi{Turbinella pyrum L.}. It is blown like a trumpet during ceremonies. Each family owns a pair.
 \ge conch_shell
-\dn 法螺、海螺、螺号
+\dn 法螺、海螺、螺号。在仪式上像喇叭一样吹响。每个家庭都有一对。
 \gn 法螺
 \df Conque, |fi{Turbinella pyrum L.}. On y souffle, comme dans une trompe, lors des cérémonies. Chaque famille en possède une paire.
 \gf conque
@@ -5116,7 +5118,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so <print="n"> F4
-\de Lines of the hand on the fingers' first phalanx, called 'conch lines' because of their shape.
+\de Lines of the hand: specifically, the lines of the first phalanx of the fingers, whose spiral shape evokes the conch shells, an important symbolic object in Na culture.
 \ge lines_of_the_fingers
 \dn 手指螺纹（因长得像海螺形状而得名）。算命的时候，会看人的手指螺纹。
 \gn 手指螺纹
@@ -5130,14 +5132,18 @@
 \lx bɻ̩˧qʰv̩˧-ʑi˩-hĩ˩
 \sf <nb="B"> 1840
 \sf <nb="2011"> 2796
-\or bbukheuxxihin
+\or bbeukheuxxihin
+\et bɻ̩˥
+\et qʰv̩˧2
+\et ʑi˥
+\et -hĩ˥
 \ps n
 \lc bɻ̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté /kʶv̩˧/ pour /qʰv̩/.
 \nt <type="hist" langue="fra" print="n"> En 2006: noté un /bv̩˧dv̩˩zɯ˩hĩ˩˥/.
-\nt <type="hist" langue="fra" print="n"> Étymologie: “(insecte) qui a des cornes", ‘长角的’? Pas sûr. Mais telle est l'intuition de F4.
+\ec <langue="fra"> Étymologie: “(insecte) qui a des cornes", ‘长角的’? Pas sûr. Mais telle est l'intuition de F4.
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-hĩ˧
@@ -9708,27 +9714,29 @@
 \df Ruche.
 \gf ruche
 
-\lx dze˩mi˧-pv̩˥ɻ̩˩ > pɻ̩
+\lx dze˩mi˧-pɻ̩˥ɻ̩˩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
-\or zzeimipu'er
+\or zzeimipu'er rrrr ...peu'er
 \et dze˩mi˧
+\ec <langue="fra"> M18 propose une étymologie comme ‘repos des abeilles’. La locutrice F4 considère que l'expression n'est pas transparente: les troisième et quatrième syllabes n'ont pas de signification par elles-mêmes.
 \ps n
-\lc dze˩mi˧pv̩˥ɻ̩˩
+\lc dze˩mi˧pɻ̩˥ɻ̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra" print="n"> identification confirmée en 2016 d'après volume “Médecine mosuo"
+\nt <type="hist" langue="fra" dom="sem" print="n"> L'identification de la plante comme |fi{Adenophora sp.} correspond à celle proposée dans le volume «Médecine mosuo».
+\nt <type="hist" langue="fra" dom="phono" print="n"> La notation de la troisième syllabe est modifiée de /pv̩/ en /pɻ̩/ en juillet 2024.
 \ton LM+#H-
 \pdv qɑ˩
 \so <print="n"> F4
-\de Literally ‘bees' resting place’; this name is applied to various flowers of which bees are particularly fond, such as the Straight ladybell, |fi{Adenophora sp.}, and the gentian.
+\de This name is applied to various flowers of which bees are particularly fond, such as the Straight ladybell, |fi{Adenophora sp.}, and the gentian.
 \ge bee_flower
-\dn 来指密封喜欢的一些话，包括沙参、秦艽等。
-\gn 密封之花
-\df Le mot signifie littéralement ‘repos des abeilles’ yyyy à redemander à F4 (peut-être idée de M18) réponse: n'est pas transparent., et est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
+\dn 蜜蜂喜欢的一些花，包括沙参、秦艽等。
+\gn 蜜蜂喜欢的花：沙参、秦艽等
+\df Le mot est usité pour diverses fleurs dont les abeilles sont friandes, telles que la gentiane, et |fi{Adenophora sp.}
 \gf fleur_des_abeilles
-\xv dze˩mi˧-pv̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
-\xe root of straight ladybell
+\xv dze˩mi˧-pɻ̩˥ɻ̩˩-kʰɯ˩ʈɯ˩
+\xe root of Straight ladybell
 \xn 沙参根
 \xf racine d'|fi{Adenophora sp.}
 
@@ -15951,9 +15959,9 @@
 \xn 他是很善良的人。
 \xf c'est quelqu'un de très agréable
 \xv mɤ˧-fv̩˧ mɤ˧-ʝi˧!
-\xe To have no discontent, not to be angry. (Context: someone has made a video recording, and asks for oral consent from people who appear in the recording: do they agree to appear in a film that will be made publicly available online? Do they have any topic of miscontent? They answer: ‘[No,] we do not have any complaints / any topic of dissatisfaction!’)
-\xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’）
-\xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement!’)
+\xe To have no discontent, not to be angry. (Context: someone has made a video recording, and asks for oral consent from people who appear in the recording: do they agree to appear in a film that will be made publicly available online? Do they have any topic of miscontent? They answer: ‘[No,] we do not have any topic of dissatisfaction! / We do not have any objections!’)
+\xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’、‘不反对！’）
+\xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement! / Nous n'avons pas d'objection!’)
 \rf F5
 \dt 23/May/2018
 
@@ -18461,9 +18469,9 @@
 \xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv tʰɑ˧-hæ̃˧˥!
-\xe |fg{prohib}
-\xn 别切！
-\xf |fg{prohib}
+\xe |fg{proh}
+\xn 禁止式：别切！
+\xf |fg{proh}
 \xc PHONO
 \xv bɑ˩lɑ˩˥ | le˧-hæ̃˧˥, | le˧-ʐv̩˧˥
 \xe to cut cloth to make clothes, and to sew clothes
@@ -21632,7 +21640,6 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf sens de l'expression, selon M23: |fn{欺负人}
 \de To disturb, to interfere, to hinder, to obstruct, to impede.
 \ge to_disturb
 \dn 干扰、防碍
@@ -21643,9 +21650,13 @@
 \xe to annoy people
 \xn 干扰人家
 \xf ennuyer les gens
-\xc <langue="fra"> schéma tonal régulier
-\dt 24/Apr/2017 yyyy autres exemples? > ʈʂʰɯ˧ | le˧-hṽ̩˧-ze˥! il est fou! yyyy n'est pæs bon
-neg: yyyy M.L.L mɤ˧-hṽ̩˩~hṽ̩˩
+\xc <langue="fra" dom="ton"> Schéma tonal régulier.
+\xc <langue="fra" dom="dialect"> Selon le locuteur M23, la traduction chinoise la plus fidèle de l'expression serait |fn{欺负人}, ‘humilier quelqu'un’. Cette remarque ne paraît pas pleinement justifiée au plan linguistique, mais l'association d'idées souligne une proximité entre l'existence d'une contrariété ponctuelle (sens littéral du mot: ‘gêner, ennuyer’) et la perception que peut en avoir une personne qui éprouve (de façon durable) du ressentiment d'un statut social qui la place en situation défavorable dans les rapports d'autorité et de pouvoir. La contrariété se traduit en sentiment d'humiliation.
+\xv mɤ˧-hṽ̩˩~hṽ̩˩
+\xe |fg{neg}
+\xn 不干扰
+\xf |fg{neg}
+\xc PHONO
 
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
 \sf <nb="2011"> 1396
@@ -22074,6 +22085,7 @@ neg: yyyy M.L.L mɤ˧-hṽ̩˩~hṽ̩˩
 \or fe
 \ps adj
 \lc hwɤ˧
+\sy ʈʂʰwɤ˧hwɤ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (notes 2006: “kʶɑ˥ hu˥ gv̩˥ (peut-être syllabe intermédiaire, à confirmer)") (phonétiquement: proche de fwɤ˥)
@@ -23083,9 +23095,9 @@ neg: yyyy M.L.L mɤ˧-hṽ̩˩~hṽ̩˩
 \xf |fg{neg}
 \xc PHONO
 \xv tʰɑ˧-ʝi˥!
-\xe |fg{prohib}
-\xn 别画！
-\xf |fg{prohib}
+\xe |fg{proh}
+\xn 禁止式：别画！
+\xf |fg{proh}
 \xc PHONO
 \xv ʈʂɑ˧tɑ˥ ʝi˩
 \xe to draw a sign
@@ -28732,7 +28744,7 @@ neg: yyyy M.L.L mɤ˧-hṽ̩˩~hṽ̩˩
 \xe to fish
 \xn 钓鱼
 \xf pêcher du poisson
-\xv ɲi˧zo˧ kv̩˥, ə˧-ɖɯ˥? - ɖɯ˧-so˩ mi˩ ɖɯ˩!
+\xv ɲi˧zo˧ kv̩˥, | ə˧-ɖɯ˥? - ɖɯ˧-so˩ mi˩ ɖɯ˩!
 \xe Did you catch any (fish) while fishing? - Yes, we caught a few (fish)!
 \xn 你们在钓鱼时钓到鱼了吗？- 是的，我们钓到了几条鱼！
 \xf À la pêche, vous avez attrapé quelque chose / vous avez fait des prises? - Oui, on en a attrapé quelques-uns, de poissons!
@@ -48910,9 +48922,9 @@ neg: yyyy M.L.L mɤ˧-hṽ̩˩~hṽ̩˩
 \xn 我要吓唬他一下！
 \xf Je vais lui faire peur!
 \xv tʰɑ˧-qv̩˧˥!
-\xe |fg{prohib}
-\xn 别吓唬（人家）！
-\xf |fg{prohib}
+\xe |fg{proh}
+\xn 禁止式：别吓唬（人家）！
+\xf |fg{proh}
 \dt 01/Oct/2015
 
 \lx qʰv̩˧
@@ -52269,7 +52281,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté: /ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩/.
-\nt <type="hist" langue="fra" print="n"> Noté d'autres expressions du même champ sémantique: tɕʰi˩tsɯ˥, ton d6 (locuteur M21), emprunt pour 'drapeau'; dʑɤ˩tsɯ˧tsɯ˧ m˩, dʑɤ˩tsɯ˥tsɯ˧ m˩pɤ˩ (M18).
+\nt <type="hist" langue="fra" print="n"> Noté d'autres expressions du même champ sémantique: /tɕʰi˩tsɯ˥/, ton d6 (locuteur M21), emprunt pour 'drapeau'; /dʑɤ˩tsɯ˧tsɯ˧ m˩/, /dʑɤ˩tsɯ˥tsɯ˧ m˩pɤ˩/ (M18).
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: ML+ML donne M.L.L.L.
 \ton L#-
 \lc ʁo˧dzi˩tʰæ˩ɻæ˩
@@ -52635,7 +52647,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> plant
 \ton L#-
 \lc ʁo˧pʰɤ˩ʁo˩dv̩˩lv̩˩
-\cf lɑ˩pʰɑ˩-læ˥dzi˩
+\cf læ˩pʰæ˩-læ˥dzi˩
 \nt <type="hist" langue="fra" print="n"> Avant juin 2024: hésité entre /ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩/ et /…lv̩˩.
 \so <print="n"> F4
 \de |fi{Eugeron breviscapus} (a type of daisy). The plant was used when washing clothes, at a time when soap was not yet widely available. It was crushed, then boiled, and the resulting liquid was used to wash clothes.
@@ -53281,9 +53293,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc <langue="eng" dom="sem"> This example is a homophone of the one given for sense 1, in which it means “to call, to call out (to someone)”.
 \xc <langue="cmn" dom="sem"> 这个例句是以上意义1中例句的同音句子，但以上句子的意思是“叫一声”。
 \xv tʰɑ˧-ɻwæ˥!
-\xe |fg{prohib}
-\xn 不要请！
-\xf |fg{prohib}
+\xe |fg{proh}
+\xn 禁止式：不要请！
+\xf |fg{proh}
 \xc PHONO
 \xv ɻwæ˧-mɤ˧-bi˧!
 \xe (We)'re not inviting (him/her)!
@@ -54419,6 +54431,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe gone hunting, out hunting
 \xn 狩猎去了
 \xf parti chasser, parti à la chasse
+\xv lo˩qʰwɤ˧ ʂæ˧~ʂæ˩-ɻ̩˩
+\xe to hold (each other) by the hand
+\xn 手拉手
+\xf se tenir par la main
+\xc <type="hist" langue="fra" print="n" dom="sem"> xxxx confirmer que le verbe est bien le même que dans `mener un chien'
 
 \lx ʂæ˧˥
 \sf <nb="2011"> 3285
@@ -59897,7 +59914,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 可以
 \df Être possible, être autorisé: |fg{permissif.}
 \gf |fg{permissif}
-\xv mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! | njɤ˧ | dzɯ˧-bi˧ni˧-mɤ˧-gv̩˧˥! yyyy refusé par ama
+\xv mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! | njɤ˧ | dzɯ˧-bi˧ni˧-mɤ˧-gv̩˧˥!
 \xe It's not that good! I don't like to eat that!
 \xn 不怎么好吃！我不喜欢吃！
 \xf Ce n'est pas vraiment bon! Je n'aime pas en manger!
@@ -60141,6 +60158,7 @@ cette houe, il va falloir lui mettre un coin!
 \or daho
 \ps adv
 \lc tɑ˧ho˧
+\sy ʈʂwæ˩~ʈʂwæ˧˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton M
@@ -60163,7 +60181,6 @@ cette houe, il va falloir lui mettre un coin!
 \xe to dance together
 \xn 一起跳舞
 \xf danser ensemble
-\dt 27/Apr/2017
 
 \lx tɑ˩hwɤ˩
 \or dahua
@@ -62019,10 +62036,10 @@ cette houe, il va falloir lui mettre un coin!
 \gn 齐全（借词）
 \df Complet, au grand complet.
 \gf 齐全::complet
-\dt 09/Oct/2017
 
-\lx tɕʰĩ˩tsʰɤ˩ yyyy empɻunt
+\lx tɕʰĩ˩tsʰɤ˩
 \sf <nb="2011"> 3075
+\bw <langue="cmn"> 芹菜
 \or qince
 \ps n
 \ton L
@@ -62033,10 +62050,9 @@ cette houe, il va falloir lui mettre un coin!
 \de Celery.
 \ge 芹菜::celery
 \dn 芹菜
-\gn 芹菜
+\gn 芹菜（借词）
 \df Céleri.
 \gf 芹菜::céleri
-\dt 09/Oct/2017
 
 \lx tɕʰi˧ʈʂʰɤ˥
 \or qiche
@@ -62918,9 +62934,9 @@ cette houe, il va falloir lui mettre un coin!
 \rf M18
 \xc <langue="fra" type="dialect"> Formulation qui n'est pas utilisée par F4.
 \xv hĩ˧ tɕʰo˧-bi˧-zo˧-ho˥!
-\xe to accompany someone yyyy
-\xn 陪伴某人
-\xf (On a fait venir quelqu'un: bonze...) il faut que je l'accompagne / que je le suive!
+\xe I'm going to have to accompany him/her! (Context: we invited someone over to the house: a priest, for instance.)
+\xn （我）要陪伴人家！
+\xf Il faut que je l'accompagne / que je le suive! (Contexte: on a fait venir quelqu'un à la maison: un bonze, par exemple; la maîtresse de maison se doit de lui tenir compagnie.)
 
 \lx tɕɤ˧~tɕɤ˧
 \or jaja
@@ -63368,27 +63384,30 @@ cette houe, il va falloir lui mettre un coin!
 \hm 1
 \or qi
 \ps v
-\sy tsʰi˧˥2
 \lc tɕʰɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (confirmé: est /tɕʰi˥/ et non /tsʰɯ˥; tons confirmés) (mise en cadre: ɲi˧tɕʰi˧ze˩)
-\np <langue="fra"> enfiler (quelque chose) dans le nez (de la vache), percer le nez (de la vache)
+\nt <type="hist" langue="fra" print="n" dom="ton"> Tons confirmés. Mise en cadre: /ɲi˧tɕʰi˧ze˩/.
+\nt <type="hist" langue="fra" print="n" dom="phono"> Notation de 2006: “/kʶwɑ˧ dʑi˥ tsʰɯ˥/; phonétiquement proche de tɕʰi˥". Noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois". Puis analysé comme /tɕʰi˥/ (note: ``confirmé: est /tɕʰi˥/ et non /tsʰɯ˥/''). En 2009, réanalysé comme /tsʰi˥/. Noté: /qʰv̩˧dʑi˧tsʰi˧+ze˩/ “faire un trou". À l'époque, l'opposition entre syllabes /tɕʰi/ et /tɕʰɯ/ n'était pas reconnue. En 2024, reconnu comme /tɕʰɯ˥/.
 \ton H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɲi˧tɕʰy˧
-\vf la rime est bien un /y/, pas un /i/ ni un /ju/
-\de To pierce (e.g. a cow's nose).
+\vf La rime est bien un /|fv{y}/, pas un /|fv{i}/ ni un /|fv{ju}/.
+\de To pierce (e.g. to pierce a cow's nose in order to set a ring).
 \ge to_pierce
 \dn 穿刺、 刺破
 \gn 穿刺
-\df Percer, transpercer.
+\df Percer, transpercer (par exemple: percer le museau d'une vache pour y enfiler un anneau)
 \gf percer
 \xv ʝi˧ ʈʂʰɯ˧-pʰo˩, | ɲi˧ tɕʰɯ˧-ze˩!
 \xe This ox's nose was pierced (to put a ring)
 \xn 这头牛的鼻子被穿刺（为了安一个牛鼻圈）
 \xf Ce bœuf, on lui a percé le museau (pour y placer un anneau)!
+\xv tʰv̩˧qʰv̩˧ tɕʰɯ˧
+\xe To bore a hole, to punch a hole.
+\xn 穿一个洞
+\xf Percer un trou, faire un trou (ex.: dans un tissu, un mur…)
 
 \lx tɕʰɯ˧bo˧˥
 \sf <nb="B"> 1025
@@ -63677,8 +63696,7 @@ cette houe, il va falloir lui mettre un coin!
 \dn 旁边的人打嚏喷时说的祝愿话
 \gn 旁边的人打嚏喷时说的祝愿话
 \df À vos souhaits! (formule que l'on dit lorsque quelqu'un éternue).
-\gf A_vos_souhaits
-\dt 10/Jun/2018
+\gf À_vos_souhaits
 
 \lx tɕʰɯ˧si˩-dʑɤ˩pv̩˩
 \or qiseejjabu
@@ -63697,7 +63715,7 @@ cette houe, il va falloir lui mettre un coin!
 \xv no˧ | tɕʰɯ˧si˩-dʑɤ˩pv̩˩-ki˩ | le˧-hɯ˩-ɲi˩-ze˩!
 \xe You have gone away to the world of monstres (and should not come back to trouble the living)! (Speech addressed to a ghost that one beseeches should not come back)
 \xn 你已经到妖怪的世界那边（就恳求你不要回来了）！（对鬼说的话）
-\xf Tu es parti rejoindre les monstres! (propos tenus à un revenant qu'on enjoint de ne plus revenir hanter les vivants)
+\xf Tu es parti rejoindre les monstres! (propos tenus à un revenant auquel on enjoint de ne plus revenir hanter les vivants)
 
 \lx tɕɯ˧sɯ˧˥
 \sf <nb="B"> 9
@@ -64030,9 +64048,9 @@ cette houe, il va falloir lui mettre un coin!
 \xn 吮拇指
 \xf sucer son pouce
 \xv lo˩qʰwɤ˧ tɕʰɯ˩~tɕʰɯ˩
-\xe to suck one's thumb
-\xn 吮拇指
-\xf sucer son pouce yyyy littéralement: sucer sa main.
+\xe to suck one's thumb (literally: ‘to suck one's hand’)
+\xn 吮拇指（直译：‘吮手’）
+\xf sucer son pouce (littéralement: ‘sucer sa main’).
 
 \lx te˧˥α
 \or dei
@@ -65569,7 +65587,7 @@ cette houe, il va falloir lui mettre un coin!
 \lc tʰo˧tɕo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" langue="fra" print="n"> jusqu'en novembre 2011: noté tʰu˧-tɕu˧; pas d'oppositions tʰo - tʰu
+\nt <type="hist" langue="fra" print="n"> D'abord noté /tʰo/. En l'absence d'opposition /tʰo/ ~ /tʰu/, la notation adoptée a ensuite été /tʰu/, jusqu'en novembre 2011, date à laquelle la notation /tʰo/ est rétablie.
 \so <print="n"> F4
 \de Backward, to the back.
 \ge backward
@@ -65581,11 +65599,11 @@ cette houe, il va falloir lui mettre un coin!
 \xe to look back
 \xn 往后看
 \xf regarder derrière (soi)
-\xv tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˧ yyyy corriger en: L final ɻ̩˩
+\xv tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˩
 \xe to glance backward
 \xn 往后看一眼
 \xf jeter un coup d'œil en arrière
-\dt 27/Apr/2017
+\xc <type="hist" langue="fra" print="n"> Corrigé en juillet 2024 de M.M.M.M (/tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˧/) en M.M.M.L (/tʰo˧tɕo˧ ɖɯ˧-li˧-ɻ̩˩/).
 
 \lx to˩to˧mi˥
 \or dodomi
@@ -65867,10 +65885,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe |fg{dur}
 \xn 持续体 〜
 \xf |fg{dur}
-\xv tʰi˧-tʰo˩ | tʰi˧-dzi˩ être assis adossé (à qqch) yyyy
-\xe |fg{dur}
-\xn 持续体 〜
-\xf |fg{dur}
+\xv tʰi˧-tʰo˩ | tʰi˧-dzi˩
+\xe to sit with one's back propped against (something)
+\xn 靠着座
+\xf être assis adossé (à quelque chose)
 \xc PHONO
 \xv tʰi˧-tʰo˩-ɻ̩˩
 \xe |fg{dur} 〜 |fg{inceptive}
@@ -65903,10 +65921,10 @@ cette houe, il va falloir lui mettre un coin!
 \xe What can we do about it? / What can be done about it?
 \xn 有什么办法？
 \xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire?
-\xv ə˧tso˧ tʰo˧ dʑo˧-kv̩˩? | ɖɯ˧-kʰwɤ˧ ʝi˧-ɻ̩˧ qɑ˥! yyyy
-\xe What can we do about it? / What can be done about it?
-\xn 有什么办法？
-\xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire? Aide-moi! yyyy
+\xv ə˧tso˧ tʰo˧ dʑo˧-kv̩˩? | ɖɯ˧-kʰwɤ˧ ʝi˧-ɻ̩˧ qɑ˥!
+\xe What can we do about it? / What can be done about it? Please, help out!
+\xn 有什么办法？求你帮忙！
+\xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire? S'il te plaît, aide-moi!
 
 \lx ʈɤ˧α
 \sf <nb="B"> 1397
@@ -66201,35 +66219,6 @@ cette houe, il va falloir lui mettre un coin!
 \dt 08/Oct/2015
 
 \lx ʈʂæ˧˥
-\sf <nb="B"> 1435
-\sf <nb="2011"> 2091
-\hm 2
-\or zhaeq
-\ps v
-\lc ʈʂæ˧˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> avant mars 2012: noté ʈʂæ˧
-\ton MH
-\so <print="n"> F4
-\va <speaker="M21"> ID.
-\de To send someone. yyyy, n'existe pas, est 'voler'
-\ge to_send_someone
-\dn 派人
-\gn 派人
-\df Envoyer qqun.
-\gf envoyer
-\xv ɖɯ˧-v̩˧ ʈʂæ˧˥
-\xe to send someone
-\xn 派一个人
-\xf envoyer quelqu'un
-\xv hĩ˧ ʈʂæ˩
-\xe as above
-\xn 同上
-\xf idem
-\dt 08/Oct/2015
-
-\lx ʈʂæ˧˥
 \hm 3
 \or zhaeq
 \ps v
@@ -66493,22 +66482,20 @@ cette houe, il va falloir lui mettre un coin!
 \sd <langue="eng"> society
 \ton #H
 \so <print="n"> F4
-\de Cook.
-\ge cook
-\dn 厨师
-\gn 厨师
-\df Cuisinier. NON pause, étape
-\gf cuisinier
+\de Stage, pause (half-way through a day's journey).
+\ge pause
+\dn 停留
+\gn 停留
+\df Étape, pause (au milieu d'une journée de déplacement).
+\gf étape
 \xv tsʰɑ˧bo˧ lɑ˩
-\xe to be a cook, to work as a cook, to get employed as a cook
-\xn 当厨师
-\xf yyyy faire une étape 停留 y compris le déjeuner. On ôte les selles, on attache les chevaux.
-être cuisinier, s'engager comme cuisinier, faire le travail de cuisinier
+\xe To make a pause, to pause (half-way through a day's journey). One unbridles the horse and cooks a meal.
+\xn 在中途停留（吃饭、休息）
+\xf Faire une étape, marquer une pause (repos, repas...). On ôte les selles, on attache les chevaux.
 \xv tsʰɑ˧bo˧ ʝi˧
-\xe to be a cook, to work as a cook, to get employed as a cook
-\xn 当厨师
-\xf être cuisinier, s'engager comme cuisinier, faire le travail de cuisinier
-\dt 08/Oct/2015
+\xe to do the tasks involved in the pause: unbridling the horses, cooking...
+\xn 管停留的事情：管马，准备饭
+\xf s'occuper de la pause, s'affairer aux activités de l'étape: ôter les selles, préparer le repas...
 
 \lx ʈʂæ˩do#˥
 \sf <nb="2011"> 733
@@ -66526,7 +66513,6 @@ cette houe, il va falloir lui mettre un coin!
 \gn 酥油茶搅拌器/黄油搅乳器
 \df Récipient dans lequel on bat le thé au beurre (tube-baratte en bois); aussi: grande baratte pour baratter le beurre.
 \gf baratte
-\dt 27/Apr/2017
 
 \lx ʈʂʰæ˧ɣɯ˧-ki˩-hĩ˩-hĩ˩
 \sf <nb="B"> 348
@@ -66603,14 +66589,15 @@ cette houe, il va falloir lui mettre un coin!
 \gf 仓库::réserve
 \dt 08/Oct/2015
 
-\lx ʈʂʰɑ˧lɑ˧
+\lx ʈʂʰɤ˧lɑ˧
 \sf <nb="B"> 1407
 \sf <nb="2011"> 2283
-\or chala
+\or chala rrrr chela ?
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
+\nt <type="hist" langue="fra" dom="ton" print="n"> D'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/, puis /hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧/. En 2009, modifié en: /hĩ˧-qɑ˩ ʈʂʰɑ˩lɑ˩/.
+\nt <type="hist" langue="fra" dom="phono" print="n"> Correction de /ʈʂʰɑ˧lɑ˧/ en /ʈʂʰɤ˧lɑ˧/ le 3 juillet 2024: réanalyse de la voyelle comme un /ɤ/, qui par harmonie vocalique est coloré par la voyelle /ɑ/ de la syllabe suivante, et est prononcé très proche de [ɑ].
 \ton M
 \lc ʈʂʰɑ˧lɑ˧
 \so <print="n"> F4
@@ -66623,30 +66610,34 @@ cette houe, il va falloir lui mettre un coin!
 \gn 谈天
 \df Discuter, bavarder.
 \gf bavarder
-\xv hĩ˧-qɑ˩ ʈʂʰɑ˩lɑ˩
+\xv hĩ˧-qɑ˩ ʈʂʰɤ˩lɑ˩
 \xe to have a chat with someone
 \xn 跟人聊天
 \xf bavarder avec quelqu'un
-\xv ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥
+\xc <type="hist" langue="fra" dom="phono" print="n"> Avant déc. 2012, noté /hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩/. La réalisation uvulaire était bien perçue comme telle, mais l'opposition /kɑ/ ~ /qɑ/ n'avait pas été dégagée, de sorte qu'une notation vélaire paraissait économique (à l'exemple de la phonologie du naxi de la plaine de Lijiang).
+\xv ɖɯ˧-kʰwɤ˧ ʈʂʰɤ˧lɑ˥
 \xe to have a small chat
 \xn 聊聊天
-\xf bavarder un peu, avoir une causerie avec yyyy changement du 3 juillet 2024: réanalyse de la voyelle comme un ɤ, qui par harmonie vocalique est prononcé très proche de ɑ.
-\xc |fv{/ɖɯ˧-kʰwɤ˥/} + |fv{/ʈʂʰɑ˧lɑ˧/}
-\xv njɤ˧ | no˧-qɑ˧ ʈʂʰɑ˧lɑ˥
+\xf bavarder un peu, avoir une causerie avec
+\xc <dom="ton"> |fv{/ɖɯ˧-kʰwɤ˥/} + |fv{/ʈʂʰɤ˧lɑ˧/}
+\xv njɤ˧ | no˧-qɑ˧ ʈʂʰɤ˧lɑ˥
 \xe I tell you, I narrate to you
 \xn 我给你讲、我跟你聊聊天
 \xf je te raconte, je te dis
-\dt 08/Oct/2015
+\xv ʈʂʰɤ˧lɑ˧-ze˧
+\xe 〜 |fg{pfv}
+\xn 〜 整体体
+\xf 〜 |fg{pfv}
+\xc PHONO
 
-\lx ʈʂʰɑ˧lɑ˧-mv̩˧lɑ˩
+\lx ʈʂʰɤ˧lɑ˧-mv̩˧lɑ˩
 \sf <nb="2011"> 2285
-\or chalamula
+\or chalamula rrrr chelamula ?
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: hĩ˧kɑ˧ʈʂʰɑ˧lɑ˧; d'abord noté /hĩ˥ kɑ˧ tsʰɑ˧lɑ˩/) (donne: ʈʂʰɑ˧lɑ˧-ze˧) (avant déc. 2012, noté: hĩ˧-kɑ˩ ʈʂʰɑ˩lɑ˩,ɖɯ˧-kʰwɤ˧ ʈʂʰɑ˧lɑ˥; pas d'opposition kɑ/qɑ; réalisation: uvulaire)
 \ton -L#
-\lc ʈʂʰɑ˧lɑ˧mv̩˧lɑ˩
+\lc ʈʂʰɤ˧lɑ˧mv̩˧lɑ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -66657,11 +66648,10 @@ cette houe, il va falloir lui mettre un coin!
 \gn 谈天
 \df Discuter, bavarder.
 \gf bavarder
-\xv ʈʂʰɑ˧lɑ˧-mv̩˧lɑ˩-ɻ̩˩
+\xv ʈʂʰɤ˧lɑ˧-mv̩˧lɑ˩-ɻ̩˩
 \xe to have a chat
 \xn 聊聊天
 \xf bavarder un peu, avoir une causerie
-\dt 01/Aug/2017
 
 \lx ʈʂʰæ˧mi˥$
 \or chaemi
@@ -66689,6 +66679,7 @@ cette houe, il va falloir lui mettre un coin!
 \ton #H
 \lc ʈʂæ˧mo˧
 \so <print="n"> F4
+\pdv ɭɯ˧β
 \de A poisonous mushroom.
 \ge poisonous_mushroom_sp
 \dn 一种有毒的菌子
@@ -66696,10 +66687,9 @@ cette houe, il va falloir lui mettre un coin!
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
 \xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩ / kʰi˧tɕʰɯ˩-mo˩
-\xe same meaning yyyy pdv lee
+\xe same meaning
 \xn 同上
 \xf même sens
-\dt 08/Oct/2015
 
 \lx ʈʂʰæ˧nɑ˥
 \or chaena
@@ -66809,13 +66799,14 @@ cette houe, il va falloir lui mettre un coin!
 \df Chou chinois. Il s'agit d'un calque du chinois ‘légume blanc', employant le nom chinois pour ‘légume' associé à l'adjectif na pour ‘blanc'.
 \gf chou_chinois
 
-\lx ʈʂʰæ˧pʰv̩#˥ yyyy est en fait: H$
+\lx ʈʂʰæ˧pʰv̩˥$
 \or chaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\ton #H
+\ton H$
 \lc ʈʂʰæ˧pʰv̩˧
+\nt <type="hist" langue="fra" dom="ton"> Corrigé de #H en H$ en juillet 2024.
 \so <print="n"> F4
 \pdv pʰo˧˥α
 \de Male deer.
@@ -66889,7 +66880,7 @@ cette houe, il va falloir lui mettre un coin!
 \lc ʈʂʰæ˧sɯ˩
 \sd <langue="fra"> expression toute faite
 \sd <langue="eng"> set phrase
-\nt <type="hist" langue="fra" print="n"> (corrigé en 2009; auparavant: /ʈʂʰæ˧sɯ˧ pu˩ ze˩/) (vérifié: n'est pas /si/)
+\nt <type="hist" langue="fra" print="n"> Vérifié: n'est pas /si/.
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de Unfortunate, a pity.
@@ -66902,9 +66893,13 @@ cette houe, il va falloir lui mettre un coin!
 \xe It's a pity!
 \xn 可惜！
 \xf Dommage!
-\xv ʈʂʰæ˧sɯ˩ pɤ˩-ze˩!yyyy meme sens
+\xv ʈʂʰæ˧sɯ˩ pɤ˩-ze˩!
+\xe As above: “It's a pity!”
+\xn 同上：“可惜！”
+\xf Idem ci-dessus: «Dommage!»
+\xc <langue="fra" type="hist" print="n"> Corrigé en 2009 de /ʈʂʰæ˧sɯ˧ pu˩ ze˩/ en /ʈʂʰæ˧sɯ˩ pɤ˩-ze˩/.
 
-\lx ʈʂɑ˧tɑ˥ yyyy corriger en : ʈʂɤ˧tɑ˥
+\lx ʈʂɤ˧tɑ˥
 \sf <nb="B"> 628
 \sf <nb="2011"> 933
 \or zheda
@@ -66912,8 +66907,9 @@ cette houe, il va falloir lui mettre un coin!
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton H#
-\lc ʈʂɑ˧tɑ˥
+\lc ʈʂɤ˧tɑ˥
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> Corrigé en juillet 2024 de /ʈʂɑ˧tɑ˥/ en /ʈʂɤ˧tɑ˥/.
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
@@ -66924,15 +66920,14 @@ cette houe, il va falloir lui mettre un coin!
 \gn 记号
 \df Signe.
 \gf signe
-\xv ʈʂɑ˧tɑ˥ ʝi˩
+\xv ʈʂɤ˧tɑ˥ ʝi˩
 \xe to make a mark, to write a sign
 \xn 写一个符号、画一个符号
 \xf faire une marque, inscrire un signe
-\xv ʈʂɑ˧tɑ˥ tɕi˩
+\xv ʈʂɤ˧tɑ˥ tɕi˩
 \xe to write signs, to make marks
 \xn 写符号、画符号
-\xf écrire des signes, faire des marques (pas pour un unique signe: se rapproche de l'écriture d'un message/texte)
-\dt 08/Oct/2015
+\xf écrire des signes, faire des marques
 
 \lx tsɑ˩tɕi˩
 \or zajie
@@ -66951,8 +66946,7 @@ cette houe, il va falloir lui mettre un coin!
 \dn 杂菌
 \gn 杂菌（借词）
 \df Champignons divers, champignons variés.
-\gf 杂菌::champignons divers
-\dt 08/Oct/2015
+\gf 杂菌::champignons_divers
 
 \lx tsʰɑ˧tɕɤ˧˥
 \or caja
@@ -67033,7 +67027,7 @@ cette houe, il va falloir lui mettre un coin!
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> avant juillet 2012: noté †ʈʂʰæ˧zo˥$; rétabli H$ le 3 juillet 2024 yyyy
+\nt <type="hist" langue="fra" dom="ton" print="n"> Corrigé de /ʈʂʰæ˧zo˥$/ en /†ʈʂʰæ˧zo#˥/ en juillet 2012. Rétabli H$ le 3 juillet 2024.
 \ton #H
 \lc ʈʂʰæ˧zo˧
 \so <print="n"> F4
@@ -67464,21 +67458,19 @@ cette houe, il va falloir lui mettre un coin!
 \xn 十一日
 \xf le 11e jour du mois
 \xc <type="hist" print="n"> M18: tsʰe˧do˧tsʰe˩ɖɯ˩ɲi˩˧
-\dt 08/Oct/2015
 
-\lx tsʰe˩ɖɯ˩ yyyy pɻécédemment: ˧ ˧
+\lx tsʰe˩ɖɯ˩
 \sf <nb="B"> 821
 \sf <nb="2011"> 1209
 \or ceiddee
 \ps num
-\ton M
-\lc tsʰe˧ɖɯ˧
+\ton L
+\lc tsʰe˩ɖɯ˩˥
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" langue="fra" print="n"> (avant 2009: tsʰe˥ ɖɯ˥)
+\nt <type="hist" langue="fra" print="n"> En 2009, corrigé de /tsʰe˥ ɖɯ˥/ en /tsʰe˧ɖɯ˧/. En juillet 2024, corrige en /tsʰe˩ɖɯ˩/.
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\vf avec classificateur) tsʰe˧ɖɯ˧lɯ˧
 \va <speaker="M21"> ID.
 \de 11.
 \ge 11
@@ -67486,7 +67478,6 @@ cette houe, il va falloir lui mettre un coin!
 \gn 十一
 \df 11.
 \gf 11
-\dt 27/Apr/2017
 
 \lx ʈʂe˧gi˥$
 \or zheiggi
@@ -67766,19 +67757,18 @@ cette houe, il va falloir lui mettre un coin!
 \df Le village de Zeimi Jjiwo (possède des sources chaudes).
 \gf Zeimi_Jjiwo
 
-\lx tsʰe˧ɲi˧ yyyy est : ˩ ˩
+\lx tsʰe˩ɲi˩
 \sf <nb="B"> 822
 \sf <nb="2011"> 1210
 \or ceini
 \ps num
-\ton M
-\lc tsʰe˧ɲi˧
+\ton L
+\lc tsʰe˩ɲi˩˥
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" langue="fra" print="n"> (avant 2009: tsʰe˥ ɲi˥)
+\nt <type="hist" langue="fra" dom="ton" print="n"> En 2009, corrigé de /tsʰe˥ ɲi˥/ en /tsʰe˧ɲi˧/. En juillet 2024, corrigé en /tsʰe˩ɲi˩/.
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\vf avec classificateur) tsʰe˧ɲi˧lɯ˧
 \va <speaker="M21"> ID.
 \de 12.
 \ge 12
@@ -67786,7 +67776,6 @@ cette houe, il va falloir lui mettre un coin!
 \gn 十二
 \df 12.
 \gf 12
-\dt 27/Apr/2017
 
 \lx tsʰe˩ŋwɤ˩
 \sf <nb="B"> 825
@@ -67858,27 +67847,31 @@ cette houe, il va falloir lui mettre un coin!
 \xf pièce en bronze de l'époque impériale
 \dt 08/Oct/2015
 
-\lx tsʰe˧qʰɑ˩ yyyy est: ˧ ˧
+\lx tsʰe˧qʰɑ˧
 \sf <nb="2011"> 1469
 \or ceikha
 \ps adj
-\cf tsʰe˧so˧˥
+\an tsʰe˧so˧˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (vérifié en 2009; auparavant noté tsʰe˥kʶɑ˧)
+\nt <type="hist" langue="fra" print="n"> Corrigé en 2009 de /tsʰe˥kʶɑ˧/ en /tsʰe˧qʰɑ˩/, puis en 2024 de /tsʰe˧qʰɑ˩/ en /tsʰe˧qʰɑ˧/.
 \nt <dom="sem" langue="fra"> “sel"+"amer"
-\ton L#
-\lc tsʰe˧qʰɑ˩
+\ton M
+\lc tsʰe˧qʰɑ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> tsʰe˧kʰɑ˧ +zi˩
+\va <speaker="M21"> ID.
 \de Too salty.
 \ge too_salty
 \dn 太咸
 \gn 太咸
 \df Trop salé.
 \gf trop_salé
-\dt 08/Oct/2015
+\xv tsʰe˧qʰɑ˧-ze˩
+\xe 〜 |fg{pfv}
+\xn 〜 整体体
+\xf 〜 |fg{pfv}
+\xc PHONO
 
 \lx tsʰe˩qʰv̩˩
 \sf <nb="B"> 826
@@ -67954,19 +67947,18 @@ cette houe, il va falloir lui mettre un coin!
 \gf clef
 \dt 08/Oct/2015
 
-\lx tsʰe˧so˧ yyyy est: ˩ ˩; difficulté à éliciteɻ les nombɻes
+\lx tsʰe˩so˩
 \sf <nb="B"> 823
 \sf <nb="2011"> 1211
 \or ceiso
 \ps num
-\ton M
-\lc tsʰe˧so˧
+\ton L
+\lc tsʰe˩so˩˥
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" langue="fra" print="n"> (avant 2009: tsʰe˥ so˥)
+\nt <type="hist" langue="fra" print="n"> En 2009, corrigé de /tsʰe˥ so˥/ en /tsʰe˧so˧/. En juillet 2024, corrigé en /tsʰe˩so˩/. Ces hésitations et corrections successives illustrent la difficulté d'éliciter les nombres à l'isolée.
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\vf avec classificateur) tsʰe˧so˧lɯ˥
 \va <speaker="M21"> ID.
 \de 13.
 \ge 13
@@ -67974,28 +67966,26 @@ cette houe, il va falloir lui mettre un coin!
 \gn 十三
 \df 13.
 \gf 13
-\dt 27/Apr/2017
 
 \lx tsʰe˧so˧˥
 \sf <nb="B"> 1037
 \sf <nb="2011"> 1468
 \or ceiso
 \ps adj
-\cf tsʰe˧qʰɑ˩
+\an tsʰe˧qʰɑ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (tv; avant 2009: noté: tsʰe˥so˩˥)
+\nt <type="hist" langue="fra" dom="ton" print="n"> Corrigé en 2009 de /tsʰe˥so˩˥/ en /tsʰe˧so˧˥/.
 \ton MH#
 \lc tsʰe˧so˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de Salty (pleasantly salty).
 \ge pleasantly_salty
-\dn 咸
+\dn 咸（好吃的咸味）
 \gn 咸
 \df Salé (agréablement: salé à point).
 \gf salé
-\dt 08/Oct/2015
 
 \lx tsʰe˧ʂɯ˧
 \sf <nb="B"> 827
@@ -68027,11 +68017,11 @@ cette houe, il va falloir lui mettre un coin!
 \sd <langue="eng"> natural environment
 \ton LM+MH#
 \lc ʈʂe˩ʂwæ˧˥
+\cf ʈʂo˩mv̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M21"> ID.; ex.: ʈʂʰɯ˧ ʈʂe˩ʂwæ˧ mv̩˥ di˩ ɲi˩ “c'est une terre sableuse, un sablon"; indique aussi: lv̩˧dʑi˥ mv̩˧di˧˥
-\vf ton dernière syll. pas très assuré
+\va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \de Grit, gravel.
 \ge gravel
@@ -68039,7 +68029,11 @@ cette houe, il va falloir lui mettre un coin!
 \gn 砾石
 \df Gravier, sable grossier.
 \gf gravier
-\dt 08/Oct/2015
+\xv ʈʂʰɯ˧ | ʈʂe˩ʂwæ˧-mv̩˥di˩ ɲi˩.
+\xe It's a sandy soil.
+\xn 这是一片沙土。
+\xf C'est une terre sableuse. / C'est un sablon.
+\rf M21
 
 \lx tse˩tɑ˧˥
 \sf <nb="B"> 573
@@ -68370,21 +68364,13 @@ cette houe, il va falloir lui mettre un coin!
 \ps n
 \ton #H
 \lc tsi˧
-\sn 1
 \cf tsi˧gi˥$
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> (avant 2009, noté: /tsɯ˧ kʰʶwæ˧˥/) “c'est fissuré, c'est fendu"; même mot que dans “se briser" (tsi˧ hɯ˧:notation 2009; auparavant: noté: “tsɯ˥hɯ˥, prononcé proche de: tɕi˥hɯ˥"), ton d2 (correction du 9/11/2007; avais auparavant noté d1); note de juillet 08: en fait, n'est pas un nom, mais un syntagme nom+verbe, d'où le caractère artificiel d'une mise en cadre; néanmoins celle-ci donne un résultat. Plus naturel: tsi˧hɯ˧ze˧.
+\nt <type="hist" langue="fra" print="n"> En 2009, corrigé /tsɯ˧ kʰʶwæ˧˥/ (“c'est fissuré, c'est fendu") en /tsi˧ qʰwæ˧˥/. Même verbe que dans “se briser".
 \so <print="n"> F4
-\va <speaker="F5"> tsɯ˧qʰwæ˧˥ “il y a une fissure"
-\vf a) kʰi˥ dʑi˥
-\vf brèche
-\vf b) tsɯ˥ kʶwæ˥ kʰi˥ dʑi˥ “ça s'est ouvert, il y a une brèche"
-\vf formulation plus compréhensible que 449, selon TS
-\va <speaker="M21"> tsɯ˧kʰwæ˧˥
-\vf +ɲi˩
-\vf attention: est un prédicat et non un nom tsɯ˧, ton m1; tsɯ˧hɯ˧ ze˧
-\vf confirmé par ts: la forme de citation est tsɯ˧; paradoxal car tous les tons m1 ont une forme de citation ˩˥
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
 \pdv pʰæ˧˥
 \de Crack.
 \ge crack/fissure
@@ -68392,7 +68378,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 裂缝
 \df Fissure, interstice.
 \gf fissure
-\xv tsi˧ qʰwæ˧-ze˥!
+\xv tsi˧ qʰwæ˧-ze˥! (<tsi˧ qʰwæ˧˥)
 \xe A crack has appeared!
 \xn 有了裂缝！
 \xf il y a une fissure qui s'est faite! / ça s'est fendu! to crack; to develop a chink/crack/fissure
@@ -68400,14 +68386,7 @@ cette houe, il va falloir lui mettre un coin!
 \xe A crack has appeared!
 \xn 有了裂缝！
 \xf ça s'est fissuré!
-\sn 2 yyyy ɻetiɻé: eɻɻeuɻ
-\de Stitch.
-\ge stitch
-\dn 针脚
-\gn 针脚
-\df Couture.
-\gf couture
-\dt 01/Jul/2017
+\xc <type="hist" langue="fra" print="n" dom="phono"> Avant 2009, noté: “/tsɯ˥hɯ˥/, prononcé proche de: [tɕi˥hɯ˥]". Corrigé en 2009 en /tsi˧ hɯ˧/, grâce à la reconnaissance de l'opposition /tsɯ/ ~ /tsi/.
 
 \lx tsʰi˧
 \sf <nb="B"> 1018
@@ -68432,11 +68411,11 @@ cette houe, il va falloir lui mettre un coin!
 \gn 热/烫
 \df Chaud.
 \gf chaud
-\xv tsʰi˧-zo˧ mɤ˧-tʰɑ˧˥! yyyy est : tsʰi˧-zo˩ | mɤ˧-tʰɑ˧˥!
+\xv tsʰi˧-zo˩ | mɤ˧-tʰɑ˧˥!
 \xe The heat is unbearable! / The weather is unbearably hot!
 \xn 热得受不了！
 \xf il fait une chaleur insupportable!
-\dt 08/Oct/2015
+\xc <type="hist" langue="fra" print="n" dom="ton"> Avant juillet 2024, noté /tsʰi˧-zo˧ mɤ˧-tʰɑ˧˥/.
 
 \lx tsʰi˧
 \hm 2
@@ -68489,44 +68468,19 @@ cette houe, il va falloir lui mettre un coin!
 \xf construire un bâtiment
 \dt 08/Oct/2015
 
-\lx tsʰi˧˥ recatégorisé en tɕʰɯ˥, fusionner les deux entrées yyyy
-\sf <nb="B"> 1179
-\sf <nb="2011"> 1688
-\hm 2
-\or ceeq
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (avant 2009: noté: /ɖʐɤ˧qʰwɤ˧ ʈʂe˧/, ou /ɖʐɤ˧kʶwɑ˧ ʈʂe˧/, qui n'est plus reconnu) (notation 1er terrain: “kʶwɑ˧ dʑi˥ tsʰɯ˥; phonétiquement proche de tɕʰi˥"; en 2009: vu: est en fait /tsʰi˥/) (avais d'abord noté: qʰv̩˧dʑi˥, ton d2c: “trou")
-\nt <type="hist" langue="fra" print="n"> tu˧qʰv̩˧tsʰi˧˥ (avant 2009: noté: “/to˧kʰʶv̩˧tsʰɯ˩˥/; transcription vérifiée; n'est pas kʰʶ aspiré; est bien tsʰɯ˩˥; confirmé: n'est pas to˧kʰʶv̩˧tɕʰi˩˥; F5 n'aime pas cette prononciation mais la pratique parfois"). Noté également: /qʰv̩˧dʑi˧tsʰi˧+ze˩/ “faire un trou"; /ɖɯ˧ qʰv̩˧ ɖɯ˧/ (tons vérifiés en 2009). Ce verbe est bien distinct de: tɕʰɯ˥1, dont il est synonyme.
-\ton MH
-\sy tɕʰɯ˥1
-\lc tsʰi˧˥
-\so <print="n"> F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> tsʰɯ˧˥, ton 4: tv̩˧kʰʶv̩˧tsʰɯ˧
-\vf tons vérifiés), tv̩˧kʰʶv̩˧ li˧ tsʰɯ˧ zi˥
-\de To bore a hole, to punch a hole.
-\ge to_bore
-\dn 穿一个洞
-\gn 穿一个洞
-\df Percer un trou, faire un trou (ex.: dans un tissu, un mur…).
-\gf percer
-\dt 08/Oct/2015
-
-\lx tsʰi˧˥ yyyy recatégorisé en tsʰɯ˧˥
+\lx tsʰɯ˧˥
 \sf <nb="B"> 1708b
 \sf <nb="2011"> 2243
 \hm 3
-\or ceeq
+\or ceeq rrrr
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (d'abord noté mv̩˩tsʰo˩tsʰɯ˥, par erreur) (vérifié: n'est pas /tsʰɯ˩/)
-\nt <dom="sem" langue="fra"> pour “une bougie", le verbe est différent.
-\np <langue="fra"> (schéma tonal irrégulier; on attendrait: mv̩˧tsʰi˩ “allumer le feu"; le mot “feu" se comporte ici comme un nom au ton 2)
+\nt <type="hist" langue="fra" print="n"> Avant 2024, noté /tsʰi˧˥/. Une note mentionne: ``vérifié: n'est pas /tsʰɯ˩/''. Pourtant, en juillet 2024, sur indication de la locutrice principale, le verbe est recatégorisé comme /tsʰɯ˧˥/.
+\nt <dom="sem" langue="fra"> Pour “allumer une bougie", le verbe employé est différent: |fv{ʈʂv̩˩α2}.
 \ton MH
-\lc tsʰi˧˥
+\lc tsʰɯ˧˥
+\cf ʈʂv̩˩α2
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de To start (a fire).
@@ -68535,22 +68489,24 @@ cette houe, il va falloir lui mettre un coin!
 \gn 点（火）
 \df Allumer (un feu).
 \gf allumer
-\xv mv̩˧ tsʰi˧˥ yyyy est : mv̩˧ tsʰi˩ (+bi˩)
+\xv mv̩˧ tsʰɯ˩
 \xe to start a fire
 \xn 点火
 \xf allumer un feu
-\xv njɤ˧-ɳɯ˧ | mv̩˧tsʰi˧-bi˥ yyyy mv̩˧ tsʰi˩-bi˩.
+\xc <type="hist" langue="fra" print="n" dom="ton"> Avant 2024: avais transcrit /mv̩˧ tsʰi˧˥/, et relevé qu'il s'agissait d'un schéma tonal irrégulier. On attendrait /mv̩˧tsʰi˩/ “allumer le feu". Le schéma M.MH est celui attendu pour un nom au ton 2. Bref, “le mot “feu" se comporte ici comme un nom au ton 2". En juillet 2024: corrigé en /mv̩˧ tsʰi˩/, ce qui du même coup fait disparaître l'énigme du comportement tonal de ce mot, qui devient conforme aux règles tonales ordinaires.
+\xv njɤ˧-ɳɯ˧ | mv̩˧ tsʰɯ˩-bi˩.
 \xe I am going to start a fire
 \xn 我要点个火
 \xf je vais allumer le feu
-\xv mv̩˩tsʰo˩ tsʰi˧
+\xc <type="hist" langue="fra" print="n" dom="ton"> Comme pour l'exemple précédent: avant 2024, avais transcrit /njɤ˧-ɳɯ˧ | mv̩˧tsʰɯ˧-bi˥/, et relevé qu'il s'agissait d'un schéma tonal irrégulier. En juillet 2024: corrigé en /mv̩˧ tsʰɯ˩-bi˩/, ce qui du même coup fait disparaître l'énigme du comportement tonal de ce mot, qui devient conforme aux règles tonales ordinaires.
+\xv mv̩˩tsʰo˩ tsʰɯ˧
 \xe to put fire to a piece of wood full of sap (to start a fire)
 \xn 用含很多树脂的木头来引火
 \xf mettre le feu à un bout de bois plein de sève (pour faire partir le feu)
 
 \lx tsʰi˧˥
 \sf <nb="2011"> 1954
-\hm 4
+\hm 2
 \or ceeq
 \ps v
 \sd <langue="fra"> verbe
@@ -68579,7 +68535,7 @@ cette houe, il va falloir lui mettre un coin!
 \dt 08/Oct/2015
 
 \lx tsʰi˧˥
-\hm 5
+\hm 3
 \or ceeq
 \ps adj
 \sd <langue="fra"> adjectif
@@ -68820,13 +68776,17 @@ cette houe, il va falloir lui mettre un coin!
 \ton MH
 \lc tsʰi˧qʰæ˧˥
 \so <print="n"> F4
+\nt <type="hist" langue="fra" dom="sem" print="n"> L'expression avait un temps été interprétée à tort comme ``peu à peu".
 \de Now, currently, these days.
 \ge currently
 \dn 现在，这段时间
 \gn 现在
-\df En ce moment, actuellement, maintenant. （yyyy confirmé: ne signifie pas: peu à peu)
+\df En ce moment, actuellement, maintenant.
 \gf actuellement
 \xv tsʰi˧qʰæ˧˥ | dʑo˩, | le˧-qʰæ˩-ze˩.
+\xe Life is easier now. / Everything is easier these days (than it used to be before mechanization and modernization).
+\xn 现在的生活容易了／现在的一切都（比机械化和现代化之前）更容易了。
+\xf Actuellement, la vie est plus facile. / À l'époque actuelle, tout est plus facile (qu'à l'époque d'avant la mécanisation et la modernisation).
 
 \lx tsʰi˧si˩-dʑɤ˩pv̩˩
 \or ceeseejjabu
@@ -68996,11 +68956,11 @@ cette houe, il va falloir lui mettre un coin!
 \lx tsʰi˧α
 \sf <nb="B"> 1660
 \sf <nb="2011"> 2484
-\or cee ɻɻɻɻ
+\or cee rrrr
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (avant 2009, noté /tsɯ˥/, par erreur Juillet 2024: corrige de tsi en tsʰi yyyy)
+\nt <type="hist" langue="fra" dom="ton" print="n"> En 2009, corrigé de /tsɯ˥/ en /tsi/. Juillet 2024: corrigé de /tsi/ en /tsʰi/.
 \ton Mα
 \lc tsʰi˧
 \so <print="n"> F4
@@ -69012,7 +68972,7 @@ cette houe, il va falloir lui mettre un coin!
 \gn 辣
 \df Piquant, pimenté.
 \gf pimenté
-\xv ʈʂʰɯ˧ | tsi˧-hĩ˧ ɲi˥!
+\xv ʈʂʰɯ˧ | tsʰi˧-hĩ˧ ɲi˥!
 \xe It's spicy!
 \xn 这是辣的！
 \xf c'est piquant/c'est pimenté!
@@ -69324,7 +69284,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf traire
 \xv ʝi˩mi˩ tsʰɤ˩˥
 \xe to milk a cow
-\xn 挤出东西yyyy
+\xn 挤奶牛
 \xf traire (une/la) vache
 \xv tso˧~tso˧ tsʰɤ˩ + ze˩
 \xe to milk things
@@ -69352,35 +69312,68 @@ cette houe, il va falloir lui mettre un coin!
 \df Frotter, faire une friction (ex.: un tissu grossier frotte sur la peau, et l'irrite).
 \gf frotter
 \xv mæ˩ko˥ | tʰv̩˧-ɭɯ˧ | mɤ˧-tsɤ˧, | le˧-tsʰɤ˧-ze˥!
-Le harnais yyyy est mal (placé) / n'est pas bien (placé), ça a frotté ! (cheval)
+\xe This harness is not (set) right, it rubbed (against the horse's skin).
+\xn 挽具系得不对，摩擦了（马的皮）。
+\xf Ce harnais est mal (placé) / n'est pas bien (placé), ça a frotté (sur la peau du cheval).
 
-mi˩pi˧ 民宾　miliciens yyyy
-ti˧ʈʂæ˥ MH　队长，民宾队长
-ho˩tso˩ʂe˩ 合作社
-ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une famille!
-ɖɯ˧-ʁwɤ˧, | ɖɯ˧-ʑi˩ ʝi˩
-
-\lx tsʰɤ˧˥
-\hm 3
-\or ceq
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton MH
-\lc tsʰɤ˧˥
+\lx mi˩pi˧
+\or mibi rrrr
+\bw <langue="cmn"> 民宾
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton LM
+\lc mi˩pi˥
 \so <print="n"> F4
-\de To attack, to pillage (e.g. bandits attack a caravan).
-\ge to_attack
-\dn 抢
-\gn 抢
-\df Attaquer, piller, s'en prendre à (des brigands attaquent un convoi). yyyy erreur retirer cette entrée
-\gf attaquer
-\dt 07/Oct/2015
+\pdv v̩˧
+\de Militiaman.
+\ge 民宾::militiaman
+\dn 民宾
+\gn 民宾（借词）
+\df Milicien.
+\gf 民宾::milicien
+
+\lx ti˧ʈʂæ˥
+\or rrrr
+\bw <langue="cmn"> 队长
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton H#
+\lc ti˧ʈʂæ˥
+\so <print="n"> F4
+\pdv v̩˧
+\de Group leader (for instance: leader of a group of militiamen).
+\ge 队长::group_leader
+\dn 队长（如：民宾队长）
+\gn 队长（借词）
+\df Chef de groupe (par exemple: chef d'un groupe de miliciens).
+\gf 队长::chef_de_groupe
+
+\lx ho˩tso˩ʂe˩
+\or rrrr
+\bw <langue="cmn"> 合作社
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\lc ho˩tso˩ʂe˩˥
+\so <print="n"> F4
+\de Workers' or agricultural producers' cooperative.
+\ge 合作社::cooperative
+\dn 合作社
+\gn 合作社（借词）
+\df Coopérative de travailleurs ou de producteurs agricoles.
+\gf 合作社::coopérative
+\xv ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩.
+\xe The cooperative was like a family. / The cooperative functioned like a family.
+\xn 合作社就像一个大家庭／合作社的运作就像一个大家庭。
+\xf La coopérative, c'était comme une famille. / La coopérative, ça fonctionnait comme une famille/ça avait un fonctionnement de type familial.
 
 \lx tsʰɤ˧˥
 \sf <nb="B"> 1145
 \sf <nb="2011"> 1638
-\hm 4
+\hm 3
 \or ceq
 \ps v
 \sd <langue="fra"> verbe
@@ -69929,6 +69922,7 @@ ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une
 \nt <type="hist" langue="fra" print="n"> (voyelles confirmées)
 \ton L
 \lc ʈʂo˩mv̩˩˥
+\cf ʈʂe˩ʂwæ˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʈʂe˩mv̩˩˧, ton d3
@@ -69937,9 +69931,8 @@ ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une
 \ge fine_sand
 \dn 沙子
 \gn 沙子
-\df Sable fin. yyyy faire un renvoi à : ʈʂe˩ʂwæ˧˥
+\df Sable fin.
 \gf sable_fin
-\dt 07/Oct/2015
 
 \lx tsʰo˧pæ#˥
 \or cobae
@@ -70111,15 +70104,15 @@ ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une
 \xf même sens: ce soir
 \dt 13/Jul/2017
 
-\lx læ˩pʰæ˩-læ˥dzi˩ corrigé yyyy en juillet 2024, auparavant: a d'arrière
-\or lapalaezzee
+\lx læ˩pʰæ˩-læ˥dzi˩
+\or laepaelaezzee rrrr
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L+#H-
-\lc lɑ˩pʰɑ˩læ˥dzi˩
+\lc læ˩pʰæ˩læ˥dzi˩
 \cf ʁo˧pʰɤ˩-ʁo˩dv̩˩ɭɯ˩
-\nt <type="hist" langue="fra" print="n"> vérifié soigneusement en juin 2024: est bien /lɑ˩pʰɑ˩-læ˥dzi˩/, non /…-lɑ˥dzi˩/
+\nt <type="hist" langue="fra" print="n"> Vérifié soigneusement en juin 2024: la voyelle de la troisième syllabe est bien un /æ/ et non un /ɑ/ (/…-læ˥dzi˩/, et non /…-lɑ˥dzi˩/). À l'époque, l'expression était notée /lɑ˩pʰɑ˩-læ˥dzi˩/. Corrigé en juillet 2024 en /læ˩pʰæ˩-læ˥dzi˩/.
 \so <print="n"> F4
 \de A plant used when washing clothes, at a time when soap was not yet widely available.
 \ge plant_sp
@@ -70266,22 +70259,6 @@ ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une
 \df religion
 \gf 宗教::religion
 \dt 06/Jun/2017
-
-\lx ʈʂʰɤ˩tɕʰɯ˩
-\or cheqi
-\ps adj
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
-\ton L
-\lc ʈʂʰɤ˩tɕʰɯ˩˥
-\so <print="n"> F4
-\de Admirable, with high qualities.
-\ge admirable
-\dn 利害，值得崇拜
-\gn 值得崇拜
-\df Très doué, très calé, possédant des qualités admirables (par ex.: personne très savante).
-\gf doué yyyy est une erreur
-\dt 07/Oct/2015
 
 \lx tsʰo˩tsɯ˧
 \sf <nb="B"> 563
@@ -70685,13 +70662,12 @@ ho˩tso˩ʂe˩˥, | ɖɯ˧-ʑi˩ ʈʂɤ˩ ɲi˩! Une commune, c'était comme une
 \ton MH
 \lc tso˩tso˧˥
 \so <print="n"> F4
-\de To mix, to prepare (dog food).
+\de To mix (different things). For example: mixing a little rice with a little soup to make baby food, or mixing different foods to make dog food.
 \ge to_mix
-\dn 拌好狗食
-\gn 拌
-\df Touiller, faire la pâtée (du chien…).
-\gf touiller
-yyyy sens: mélanger, pas 'touiller'. Exemple: on mélange un peu de riz et un peu de soupe pour le donner à un enfant.
+\dn 混合（不同的东西）。例如：把米饭和汤混合起来做婴儿食品，或者把不同的食物混合起来做狗食。
+\gn 混合
+\df Mélanger (des choses différentes). Par exemple: mélanger un peu de riz et un peu de soupe pour obtenir une préparation alimentaire pour enfant, ou mélanger divers aliments pour la pâtée du chien.
+\gf mélanger
 
 \lx ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \sf <nb="B"> 1422
@@ -71124,40 +71100,36 @@ yyyy sens: mélanger, pas 'touiller'. Exemple: on mélange un peu de riz et un p
 \xn 舀起这一点点食物（为了吃完这道菜，一点也不浪费食物）
 \xf Récupère donc ce petit bout de nourriture avec une écumoire (dans le bouillon)! (Histoire de bien finir le plat, ne pas gaspiller.)
 
-\lx tsʰɯ˧˥
+\lx tsʰi˧˥
 \sf <nb="B"> 1341
 \sf <nb="2011"> 1918
 \hm 1
 \or ciq
 \ps v
-\lc tsʰɯ˧˥
+\lc tsʰi˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (confirmé en 2009: n'est pas /tsʰi/) yyyy juillet 2024: rétablis /tsʰi˧˥/
+\nt <type="hist" langue="fra" dom="phono" print="n"> D'abord noté /tsʰɯ˧˥/. En 2009, lors de l'établissement de la répartition lexicale de l'opposition /tsʰi/ ~ /tsʰɯ/, noté: ``confirmé: n'est pas /tsʰi/". En juillet 2024: rétablis néanmoins /tsʰi˧˥/.
 \ton MH
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> couper
-\vf ex. couper avec des ciseaux un vêtement déjà fini/déjà fait; l'abîmer): dʑi˧ hṽ̩˧ tsʰɯ˩
-\vf ze˩), ton 4
+\va <speaker="M21"> ID.
 \va <speaker="M23"> tsʰɯ˧˥
-\vf sens vérifié
 \de To cut to pieces (e.g. to cut away at a piece of clothing with scissors).
 \ge to_cut_to_pieces
 \dn 剪成片
 \gn 剪成片
 \df Taillader (ex.: taillader un vêtement, le découper avec des ciseaux; n'est pas: tailler du tissu pour faire des vêtements).
 \gf taillader
-\xv tʰɑ˧-tsʰɯ˧˥!
-\xe |fg{prohib}
-\xn |fg{prohib}
-\xf |fg{prohib}
+\xv tʰɑ˧-tsʰi˧˥!
+\xe |fg{proh}
+\xn 禁止式
+\xf |fg{proh}
 \xc PHONO
-\xv dʑi˧hṽ̩˧ tsʰɯ˩
+\xv dʑi˧hṽ̩˧ tsʰi˩
 \xe to cut clothes to pieces
 \xn 把衣服剪成片
-\xf couper des vêtements en morceaux
-\dt 27/Apr/2017
+\xf couper des vêtements en morceaux, tailler un vêtement en pièces
 
 \lx tsʰɯ˧˥
 \sf <nb="B"> 1885
@@ -71609,21 +71581,6 @@ yyyy sens: mélanger, pas 'touiller'. Exemple: on mélange un peu de riz et un p
 \df Bouc (terme élicité; plus courant: |fv{/po˧lo˧/}).
 \gf bouc
 
-\lx ʈʂʰɯ˧qɑ˧
-\or teegha
-\ps adv
-\lc ʈʂʰɯ˧qɑ˧
-\sd <langue="fra"> morphosyntaxe
-\sd <langue="eng"> morphosyntax
-\so <print="n"> F4
-\de Together.
-\ge together
-\dn 一起
-\gn 一起
-\df Ensemble.
-\gf ensemble
-\dt 07/Oct/2015 yyyy erreur à retirer
-
 \lx ʈʂʰɯ˧-qo˧
 \sf <nb="B"> 901
 \sf <nb="2011"> 1321
@@ -71670,36 +71627,34 @@ yyyy sens: mélanger, pas 'touiller'. Exemple: on mélange un peu de riz et un p
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" langue="fra" print="n"> avant 2012: noté /tsʰɤ˧ɻ̩˧-lɑ˩mv̩˩/
-\nt <dom="sem" langue="fra"> Nom porté par une des femmes de la génération de la grand-mère de F4, et par une de ses petites-filles.
+\nt <dom="sem" langue="fra"> Nom porté par une des femmes de la génération de la grand-mère de F4.
 \ton -L
 \lc tsʰɯ˧ɻ̩˧ɬɑ˩mv̩˩
 \np <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
-\np <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. La restitution en caractères chinois, Cilin Lamu |fn{慈琳拉姆}, reflète cette prononciation amuie.
 \so <print="n"> F4
 \de Ci'er Lhamu, a feminine given name.
 \ge Ci'er_Lhamu
-\dn 次尔拉姆：一个女性名字（还音译为慈琳拉姆）
+\dn 次尔拉姆：一个女性名字
 \gn 次尔拉姆
 \df Ci'er Lhamu, un prénom féminin.
 \gf Ci'er_Lhamu
 
-\lx tsʰe˧li˧
-\or ɻɻɻɻɻ yyyy
+\lx tsʰe˧li˧-ɬɑ˩mv̩˩
+\or Ceili Lhamu rrrr
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" langue="fra" print="n"> avant 2012: noté /tsʰɤ˧ɻ̩˧-lɑ˩mv̩˩/ bien distinguer de xxxx Ci'er
+\nt <type="hist" langue="fra" print="n"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
 \ton M
-ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
-\np <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
-\np <langue="fra"> La prononciation du prénom donné à une des petites-filles de F4 est proche de: [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. La restitution en caractères chinois, Cilin Lamu |fn{慈琳拉姆}, reflète cette prononciation amuie.
+\lc tsʰe˧li˧-ɬɑ˩mv̩˩
+\np <langue="fra"> Réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so <print="n"> F4
-\de Ci'er Lhamu, a feminine given name.
-\ge Ci'er_Lhamu
-\dn 次尔拉姆：一个女性名字（还音译为慈琳拉姆）
-\gn 次尔拉姆
-\df prénom masculin yyyy.
-\gf Ci'er_Lhamu
+\de Ceili Lhamu, a feminine given name.
+\ge Ceili_Lhamu
+\dn 慈琳拉姆：一个女性名字
+\gn 慈琳拉姆
+\df Ceili Lhamu, un prénom féminin.
+\gf Ceili_Lhamu
 
 \lx tsʰɯ˧ɻ̩˧-pʰi˩tsʰo˩
 \or Ci'er Pico
@@ -72097,12 +72052,12 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xn 今天的工作完成了！就算完工了吧！
 \xf Le travail d'aujourd'hui… on tourne la page! Il est fini!
 \rf M18
-\xc yyyy refusé par F4
+\xc <langue="fra" dom="dialect"> Énoncé refusé par F4.
 
 \lx ʈʂʰv̩˩
 \hm 2
 \or chuq
-\ec <langue="fra"> Le mot évoque le chinois |fn{除} ‘se débarrasser de; à part…'; mais il n'est pas perçu par la locutrice comme un emprunt
+\ec <langue="fra"> Le mot évoque le chinois |fn{除} ‘se débarrasser de; à part…'; mais il n'est pas perçu par la locutrice comme un emprunt.
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -72123,7 +72078,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe Your stuff belongs to you; and mine belongs to me!
 \xn 你的算你的，我的算我的！
 \xf Ce qui est à toi est à toi; ce qui est à moi est à moi!
-\dt 07/Oct/2015
 
 \lx ʈʂʰv̩˧
 \sf <nb="B"> 745
@@ -72347,26 +72301,27 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xf petite fourmi
 \dt 07/Oct/2015
 
-\lx ʈʂv̩˧tɕɯ˥
+\lx ʈʂɻ̩˧tɕɯ˥
 \sf <nb="B"> 232
 \sf <nb="2011"> 305
-\or zhuji
+\or zhuji rrrr
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton H#
-\lc ʈʂv̩˧tɕɯ˥
+\lc ʈʂɻ̩˧tɕɯ˥
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n"> Corrigé en juillet 2024 de /ʈʂv̩˧tɕɯ˥/ en /ʈʂɻ̩˧tɕɯ˥/. Voir enregistrement du 3 juillet 2024.
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\pdv kʰwɤ˥α
 \de Spittle, phlegm, sputum.
 \ge spittle
 \dn 痰
 \gn 痰
-\df Crachat. pdv kʰwɤ˥ yyyy est: ʈʂɻ̩, cf enregistrement du 3 juillet 2024
+\df Crachat.
 \gf crachat
-\dt 07/Oct/2015
 
 \lx ʈʂv̩˩α
 \sf <nb="B"> 1182
@@ -72466,7 +72421,10 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \lc ʈʂʰv̩˩ʈʂʰv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> tso˧~tso˧ʈʂʰv̩˥ʈʂʰv̩˩ “frotter des choses": notation 2006: ˧˧˥˧
+\nt <type="hist" langue="fra" print="n" dom="ton"> tso˧~tso˧ ʈʂʰv̩˥~ʈʂʰv̩˩ “frotter des choses": en 2006, avais noté M.M.H.M (˧ ˧ ˥ ˧).
+\nt <dom="phono" langue="fra"> La forme monosyllabique /|fv{ʈʂʰv̩˧˥}/ (au ton MH) n'est pas couramment utilisée, mais paraît intelligible.
+\nt <dom="phono" langue="eng"> The monosyllabic form /|fv{ʈʂʰv̩˧˥}/ (tone: MH) is not in common use, but seems intelligible.
+\nt <dom="phono" langue="cmn"> 单音节/|fv{ʈʂʰv̩˧˥}/不是常用的，但还是准确的。
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -72477,9 +72435,9 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \df Frotter, essuyer.
 \gf essuyer
 \xv ʈʂʰv̩˩~ʈʂʰv̩˧-ze˥
-\xe |fg{red} |fg{pfv}
-\xn |fg{red} |fg{pfv}
-\xf |fg{red} |fg{pfv}
+\xe 〜 |fg{red} |fg{pfv}
+\xn 〜 重叠＋整体体
+\xf 〜 |fg{red} |fg{pfv}
 \xc PHONO
 \xv le˧-ʈʂʰv̩˩~ʈʂʰv̩˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -72491,7 +72449,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xn 擦东西
 \xf frotter des choses
 \xc PHONO
-\dt 27/Apr/2017 yyyy forme monosyllabique: au ton MH.
 
 \lx ʈʂwæ˧˥
 \sf <nb="B"> 2301
@@ -72706,16 +72663,17 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \or chuaegee
 \ps n
 \lc ʈʂʰwæ˧kɯ˧
+\cf ʁwɤ˧4
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \ton M
 \so <print="n"> F4
 \pdv nɑ˧α
-\de Net.
+\de Net. (Nets were not widely used in Yongning in the old time. The trap to catch fish, |fv{ɲi˧ʈʂæ˥-pɤ˩tv̩˩}, was made out of bamboo.)
 \ge net
-\dn 网
+\dn 网（过去，在永宁用网较少。在河中捕鱼的陷阱是竹子编的。
 \gn 网
-\df Filet. yyyy le bon mot na est: ʁwɤ˧ | ɖɯ˧-nɑ˧ (ton ˧) (n'existait pas il y a très longtemps)
+\df Filet. (Les filets n'étaient guère en usage à Yongning dans le temps. La nasse pour attraper les poissons, |fv{ɲi˧ʈʂæ˥-pɤ˩tv̩˩}, était confectionnée en bambou.)
 \gf filet
 \xv ʈʂʰwæ˧kɯ˧ tʰv̩˧-nɑ˩
 \xe |fg{n}+|fg{dem}+|fg{clf}
@@ -72723,6 +72681,29 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xf |fg{n}+|fg{dem}+|fg{clf}
 \xc PHONO
 \dt 27/Apr/2017
+
+\lx ʁwɤ˧
+\sf <nb="2011"> 835
+\hm 4
+\or wua rrrr
+\bw <langue="cmn"> 网
+\ps n
+\lc ʁwɤ˧
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton M
+\so <print="n"> F4
+\pdv nɑ˧α
+\de Net.
+\ge 网::net
+\dn 网
+\gn 网（借词）
+\df Filet.
+\gf 网::filet
+\xv ʁwɤ˧ | ɖɯ˧-nɑ˧
+\xe a net
+\xn 一个网
+\xf un filet
 
 \lx ʈʂʰwæ˧pi#˥
 \sf <nb="B"> 396
@@ -72956,27 +72937,32 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 
 \lx ʈʂwæ˩~ʈʂwæ˧˥
 \or zhuaezhuae
-\ps v
+\ps adv
 \lc ʈʂwæ˩ʈʂwæ˧˥
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
+\sy tɑ˧ho˧
+\sd <langue="fra"> adverbe
+\sd <langue="eng"> adverb
 \ton MH
 \so <print="n"> F4
-\de To hold by the hand, to hold each other's hands.
-\ge to_hold_by_the_hand
-\dn 手拉手
+\de Together, in a group. For instance: to dance together, in a group. People do not necessarily hold hands, but participate in the same dance.
+\ge together
+\dn 一起：如，一起跳舞。
 \gn 手拉手
-\df Se tenir par la main, se tenir la main. yyyy est : danser ensemble. On ne se tient pas forcément par la main. ʈʂwæ˩~ʈʂwæ˧ ɻ̩˥ tsʰo˩. diff. de: lo˩qʰwɤ˧ ʂæ˧~ʂæ˩-ɻ̩˩ 'se tenir par la main'
+\df Ensemble, en groupe. Par exemple: danser en groupe. Les danseuses et danseurs ne se tiennent pas nécessairement par la main, mais participent à une même danse.
 \gf se_tenir_par_la_main
-\xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧!
-\xe |fg{accomp} |fg{red} |fg{pfv}
-\xn |fg{accomp} |fg{red} |fg{pfv}
-\xf |fg{accomp} |fg{red} |fg{pfv}
+\xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥ tsʰo˩
+\xe to dance together, to dance in a group
+\xn 一起跳舞
+\xf danser ensemble, danser en groupe
 \xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
 \xn |fg{red} |fg{inceptive}
-\xf |fg{red} |fg{inchoatif}; même sens: se tenir par la main
-\dt 27/Apr/2017
+\xf |fg{red} |fg{inchoatif}
+\xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
+\xe |fg{accomp} |fg{red} |fg{pfv}
+\xn |fg{accomp} |fg{red} |fg{pfv}
+\xf |fg{accomp} |fg{red} |fg{pfv}
+\xc PHONO
 
 \lx ʈʂwæ˧~ʈʂwæ˧
 \sf <nb="B"> 1318
@@ -72984,6 +72970,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \or zhuaezhuae
 \ps v
 \lc ʈʂwæ˧ʈʂwæ˧
+\cf ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> d'abord noté le˧-ʈʂwæ˧~ʈʂwæ˧-ze˩; corrigé en nov. 2011
@@ -72996,31 +72983,31 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gn 搅拌混合
 \df Mélanger.
 \gf mélanger
-\dt 27/Apr/2017
 
-\lx ʈʂwɑ˧~ʈʂwɑ˧-nɑ˧~nɑ#˥
-\or zhuazhuanana
+\lx ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
+\or zhuaezhuaenana rrrr
+\et ʈʂwæ˧~ʈʂwæ˧
 \ps adj
-\lc ʈʂwɑ˧ʈʂwɑ˧nɑ˧nɑ˧
+\lc ʈʂwæ˧ʈʂwæ˧nɑ˧nɑ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton #H
 \so <print="n"> F4
+\nt <type="hist" langue="fra" print="n" dom="phono"> Corrigé en juillet 2024 de /ʈʂwɑ˧~ʈʂwɑ˧-nɑ˧~nɑ#˥/ en /ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥/.
 \de Mixed; diverse, heterogeneous; messy.
 \ge mixed
 \dn 杂、混杂
 \gn 杂
-\df Divers, varié, désordonné. yyyy est comme dans: ʈʂwæ˧~ʈʂwæ˧ /ʈʂwæ˧ʈʂwæ˧/ zhuaezhuae (Jj : 同)动词 本调：M ► 搅拌、; est un a d'avant, pas d'arrière.
+\df Divers, varié, désordonné.
 \gf divers
-\xv ʈʂwɑ˧~ʈʂwɑ˧-nɑ˧~nɑ˧-hĩ˥
+\xv ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ˧-hĩ˥
 \xe 〜 |fg{rel}/|fg{nmlz}
 \xn 混杂的
 \xf 〜 |fg{rel}/|fg{nmlz}
-\xv ʈʂwɑ˧~ʈʂwɑ˧-nɑ˧~nɑ˧-ɻ̩˥
+\xv ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ˧-ɻ̩˥
 \xe messy
 \xn 混杂
 \xf désordonné
-\dt 01/Aug/2017
 
 \lx ʈʂʰwɤ˩
 \sf <nb="B"> 755
@@ -73030,13 +73017,14 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \lc ʈʂʰwɤ˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" langue="fra" print="n"> (voyelle d'abord notée /wɑ/ puis corrigée en ʈʂʰwɤ˩, puis corrigé en ʈʂʰwæ˩ en mai 2008; en avril 2009, reviens à: /ʈʂʰwɤ/, cf enrt F4 2 avril) (avant juillet 2012: noté au ton H)
+\nt <type="hist" langue="fra" dom="phono" print="n"> Rime d'abord notée /wɑ/ (2006), puis corrigée en /wɤ/, puis (en mai 2008) en /wæ/. En avril 2009, reviens à: /ʈʂʰwɤ/, cf enrt F4 2 avril 2009.
+\nt <type="hist" langue="fra" dom="ton" print="n"> En juillet 2012: corrigé du ton H (/ʈʂʰwɤ˥/) au ton L (/ʈʂʰwɤ˩/). (La réalisation à l'isolée est la même pour ces deux tons lexicaux; elle est notée L, /ʈʂʰwɤ˧/.)
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> ʈʂʰwɤ˩˥
-\va <speaker="M21"> ʈʂʰwɤ˩˥, ton m3
-\va <speaker="M23"> ʈʂʰwɤ˥
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
 \de Dinner, evening meal.
 \ge dinner
 \dn 晚饭
@@ -73055,7 +73043,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe to eat dinner
 \xn 吃晚饭
 \xf prendre le repas du soir
-\dt 05/Jul/2017
 
 \lx ʈʂʰwɤ˧tsʰi˧˥
 \sf <nb="B"> 928
@@ -73063,6 +73050,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \or chuacee
 \ps adj
 \lc ʈʂʰwɤ˧tsʰi˧˥
+\an ʈʂʰwɤ˧hwɤ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (sens vérifié en 2009: “étroit, où on est à l'étroit (pièce, maison…)") (1e notes: tsɯ˧; erreur) (vérifié en 2009: n'est pas /tsʰɯ/)
@@ -73078,7 +73066,23 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gn 窄
 \df Étroit.
 \gf étroit
-\dt 06/Jun/2017 yyyy antonyme: ʈʂʰwɤ˧hwɤ˩.
+
+\lx ʈʂʰwɤ˧hwɤ˩
+\or chuahua rrrr
+\ps adj
+\lc ʈʂʰwɤ˧hwɤ˩
+\an ʈʂʰwɤ˧tsʰi˧˥
+\sy hwɤ˧
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L#
+\so <print="n"> F4
+\de Broad.
+\ge broad
+\dn 宽
+\gn 宽
+\df Large, vaste.
+\gf large
 
 \lx ʈʂwɤ˧α
 \sf <nb="B"> 1635
@@ -73327,28 +73331,27 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \lx ʈʰɯ˥
 \sf <nb="B"> 1201
 \sf <nb="2011"> 1666
-\or tee ɻɻɻɻ
+\or tee rrrr
 \ps v
 \lc ʈʰɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (tʰi˧) ʈʰɯ˥ (dʑju˧), le˥ ʈʰɯ˩ ze˩(confirmé en 2012: est un ton L)
-\nt <type="hist" langue="fra" print="n"> (selon F4, est une onomatopée chinoise: hɑ˥tʰjɤ˩! “atchoum!") yyyy corrigé le 3 juillet 2024: est: un ton H.
-\ton Lα
+\nt <type="hist" langue="fra" print="n"> Premières notes: ``(tʰi˧) ʈʰɯ˥ (dʑju˧), le˥ ʈʰɯ˩ ze˩". En 2012, analysé comme un ton L, pensé que c'était confirmé. Corrigé le 3 juillet 2024 de /ʈʰɯ˩α/ en /ʈʰɯ˥/.
+\ton H
 \so <print="n"> F4
 \va <speaker="F5"> he˧tʰjɤ˩, he˧tʰjɤ˩ dzɯ˩
-\va <speaker="M21"> ʈʰɯ˧, ton 3; se distingue de “boire"
+\vf Selon F4, l'expression utilisée par F5 proviendrait de l'onomatopée chinoise “atchoum!": |fv{hɑ˥tʰjɤ˩}.
+\va <speaker="M21"> ID.
 \de To sneeze.
 \ge to_sneeze
 \dn 打喷嚏
 \gn 打喷嚏
 \df Éternuer.
 \gf éternuer
-\xv ɖɯ˧-ʈʰɯ˧~ʈʰɯ˥ yyyy pas bon
-\xe |fg{delimitative} |fg{red}
-\xf |fg{délimitatif} |fg{red}
-\xc PHONO
-\xv tsʰi˧-ɲi˧, | ɖɯ˧-njɤ˧ ʈʰɯ˧-zo˩! | ɖʐɤ˧qʰwɤ˧ go˩-ho˩ pʰæ˩di˩! yyyy Aujourd'hui, j'éternue sans arrêt! On dirait que je vais m'enrhumer!
+\xv tsʰi˧-ɲi˧, | ɖɯ˧-njɤ˧ ʈʰɯ˧-zo˩! | ɖʐɤ˧qʰwɤ˧ go˩-ho˩ pʰæ˩di˩!
+\xe Today, I am sneezing continuously. It seems like I'm going to have a cold!
+\xn 我今天一直在打喷嚏，好像要感冒了！
+\xf Aujourd'hui, j'éternue sans arrêt! On dirait que je vais m'enrhumer!
 
 \lx tv̩˧˥
 \sf <nb="B"> 1685
@@ -73463,7 +73466,9 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe I'm footing the bill for everything!
 \xn 全部由我来负担！
 \xf C'est moi qui prends en charge toute la dépense!
-\xc <dom="ton" langue="fra"> Séquence tonale inattendue: on attendrait gɤ˩-tʰv̩˧˥ ; cela vient de: gɤ˩-tʰv̩˧˥. yyyy
+\xc <dom="ton" langue="fra"> Le schéma tonal de |fv{gɤ˩-tʰv̩˧ bi˧} est L.M.M, et non L.M.H comme on aurait pu s'y attendre dans un raisonnement purement phonologique, où on s'attendrait à ce que le ton MH final de |fv{gɤ˩-tʰv̩˧˥} se déploie en projetant son ton H sur la syllabe qui suit. Au plan morpho-phonologique, cette forme n'est pas irrégulière: la même observation est réalisée au sujet de |fv{ʐo˩~ʐo˧ bi˧} `se balancer'.
+\xc <langue="eng" dom="ton"> The observed tonal pattern in |fv{gɤ˩-tʰv̩˧ bi˧} is L.M.M, and not L.M.H as might have been expected in the purely phonological perspective of an MH pattern unfolding over two syllables (which, in this case, would have yielded L.M.H). From a morpho-phonological perspective, on the other hand, this form is not irregular: the same pattern is found in |fv{ʐo˩~ʐo˧ bi˧} `to swing'.
+\xc <langue="cmn" dom="ton"> |fv{gɤ˩-tʰv̩˧ bi˧}的声调模式是 L.M.M，而不是纯音系学角度上的“MH调张开成M＋H”。而从形态音系学的角度，这样的声调倒不是例外。同样的声调出现在|fv{ʐo˩~ʐo˧ bi˧} `摇'。
 
 \lx tʰv̩˥
 \sf <nb="B"> 899b
@@ -73818,7 +73823,8 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \ton L
 \lc ʈv̩˩qʰv̩˩˥
 \so <print="n"> F4
-\pdv ɭɯ˧β yyyy ʈv̩˩b
+\pdv ɭɯ˧β
+\pdv ʈv̩˩β
 \de Slipknot.
 \ge slipknot
 \dn 活扣
@@ -73833,7 +73839,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe to tie a slipknot
 \xn 打一个活扣
 \xf faire un nœud coulant
-\dt 07/Oct/2015
 
 \lx tʰv̩˧-se˩-gɤ˩
 \or tee seiq gge
@@ -74472,10 +74477,14 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gn 搂
 \df Embrasser, prendre dans ses bras (monosyllabe extrait de la forme |fv{/le˧-v̩˧~v̩˥/}).
 \gf embrasser
-\xv ʁæ˧ | le˧-v̩˧~v̩˥
-\xe to embrace someone's neck
+\xv ʁæ˧ v̩˧~v̩˥
+\xe to have one's arm curled around somebody's neck
 \xn 搂人的脖子
-\xf prendre le cou (de quelqu'un) dans son bras
+\xf tenir le cou (de quelqu'un) au creux du bras
+\xv ʁæ˧ | le˧-v̩˧~v̩˥
+\xe as above: to have one's arm curled around somebody's neck
+\xn 同上：搂人的脖子
+\xf même sens: tenir le cou (de quelqu'un) au creux du bras
 \xv ʁæ˧ | le˧-v̩˩
 \xe as above
 \xn 同上
@@ -74483,8 +74492,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xv ʁæ˧ v̩˥ se˩
 \xe to walk together with someone, arm curled around the neck
 \xn 互相搂着走
-\xf marcher/se promener en tenant le cou de quelqu'un/enlacé avec quelqu'un
-\xv ʁæ˧ v̩˧~v̩˥ yyyy idem
+\xf marcher/se promener en se tenant enlacés / en tenant le cou de l'autre au creux du bras
 
 \lx v̩˧
 \sf <nb="B"> 2182
@@ -74699,7 +74707,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> v̩˧ dʑi˩˥
-\vf d'abord noté ˩˩˥, corrigé plusieurs fois; schéma ˧˩˥ confirmé le 6 nov.
+\vf d'abord noté ˩ ˩ ˥, corrigé plusieurs fois; schéma ˧ ˩ ˥ confirmé le 6 nov. 2007
 \vf rime vérifiée: est /v/ et non /u/
 \va <speaker="M21"> u˩dʑi˩˧, ton d3
 \vf n'est pas /v/
@@ -75282,7 +75290,12 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \lc wɤ˩wɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (notation 2006: wɤ˧wɤ˩˥; n'est pas ʁwɤ˧ʁwɤ˩˥) (vérifié en novembre 2011: n'est pas ˩ ˧˥)
+\nt <type="hist" langue="fra" dom="ton" print="n"> Notation 2006: /wɤ˧wɤ˩˥/. Vérifié en novembre 2011: n'est pas un schéma L.MH (˩ ˧˥), mais un schéma L.L.
+\nt <type="hist" langue="fra" dom="phono" print="n"> Vérifié en 2006: est une syllabe /wɤ/, non une syllabe /ʁwɤ/.
+\nt <type="hist" langue="fra" dom="synt" print="n"> Une forme monosyllabique avait été notée, dans le cadre †/|fv{le˧-wɤ˩-ze˩}/. Mais elle n'est pas reconnue en 2024; il s'agissait vraisemblablement d'un malentendu. Il n'y a pas de forme monosyllabique correspondante dans l'état actuel de la langue.
+\np <langue="fra"> Il n'a pas été possible d'éliciter une forme simplex, non rédupliquée.
+\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -75295,11 +75308,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gn 绕过
 \df Contourner.
 \gf contourner
-\xv le˧-wɤ˩-ze˩
-\xe |fg{accomp} 〜 |fg{pfv}
-\xn 实施 〜 整体体：绕了
-\xf |fg{accomp} 〜 pfv yyyy forme erronée: pas de forme simplex. Important.
-\xc <langue="fra"> Forme simplex; confirmé en 2014: il s'agit bien du même verbe. yyyy On pense plutôt à un ton MH, qui en réduplication donne L.MH, d'où L.L après un ton M.
 \xc PHONO
 \xv ɖɯ˧-wɤ˩~wɤ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
@@ -75320,8 +75328,10 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xn 走路绕过
 \xf contourner à pied
 \xc PHONO
-ɖɯ˧-wɤ˩wɤ˩ | ə˧-sɯ˩kv˩ | ɖɯ˧-se˧ɻ˧ ə˥-bi˩? on va faire un tour? yyyy sens: est d'abord contourner; aussi: faire un tour
 \xv le˧-wɤ˩~wɤ˩ | le˧-tsʰɯ˩-ze˩.
+\xe We bypassed (the obstacle) and thus we were able to arrive. / We arrived after a detour.
+\xc 我们绕了（障碍）就到了。
+\xf On est arrivé en faisant un détour. / On a fini par arriver au moyen d'un détour.
 \sn 2
 \de To take a stroll, to go for a walk. The semantic extension from the original meaning, ‘to go around', arguably has to do with the non-linear nature of the process: going around an obstacle means improvising according to the constraints of the terrain, and the route around it is neither linear nor fast. The process therefore has semes in common with 'faire un tour, se balader'.The extension from the original meaning ‘to bypass’ can be seen as: to walk in a way that is not straight from one point to another, and hence, to wander around leisurely.
 \ge to_bypass
@@ -75329,6 +75339,10 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gn 散步
 \df Faire un tour, se promener. L'extension sémantique à partir du sens premier, ‘contourner’, tient vraisemblablement au caractère non linéaire du processus: contourner un obstacle, cela amène à improviser en fonction des contraintes du terrain, et le trajet de contournement n'est ni linéaire, ni rapide. Le processus porte par là des sèmes communs avec ‘faire un tour, se balader’.
 \gf se_promener
+\xv ɖɯ˧-wɤ˩~wɤ˩ | ə˧-sɯ˩kv̩˩ | ɖɯ˧-se˧-ɻ̩˧ ə˥-bi˩?
+\xe Shall we go for a stroll?
+\xc 咱们去散散步，好不好？
+\xf On va faire un tour? / Tu viens faire une petite promenade?
 
 \lx ʐ
 \or r-r-r
@@ -75979,21 +75993,21 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \gf saison_des_pluies
 \dt 07/Oct/2015
 
-\lx ze˩bæ˩
+\lx zæ˩bæ˩
 \sf <nb="B"> 13
 \sf <nb="2011"> 24
-\or sseibbae
-\ps n
+\or ssaebbae rrrr
+\ps v
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" langue="fra" print="n"> (Première syllabe: “réécoute en janvier 2008: paraît ressembler à: [za] mais n'est pas /a/: est bien /e/, confirmé")
-\nt <dom="sem" langue="fra"> n'est pas un nom mais un prédicat: /ze˩bæ˩ze˧/; si on veut le catégoriser comme un nom, donne des résultats bizarres, “ton d8 (d'abord noté d5)".
+\nt <type="hist" langue="fra" dom="phono" print="n"> La première syllabe est noté /ze˩/ en 2006. Un doute s'immisce, mais est écarté: “réécoute en janvier 2008: paraît ressembler à: [za] mais n'est pas /a/: c'est bien /e/, confirmé". Corrigé en /zæ˩bæ˩/ le 3 juillet 2024.
+\nt <dom="sem" langue="fra"> Ce mot n'est pas un nom mais un prédicat, comme en atteste sa combinaison avec le morphème de perfectif: /|fv{zæ˩bæ˩-ze˥}/. Sa catégorisation comme un nom aboutissait à des résultats bizarres, obligeant à créer une classe tonale spécifique (“d8") pour ce mot.
 \ton L
-\lc ze˩bæ˩˥
+\lc zæ˩bæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> mv̩˧ʁu˥ ʐɤ˩ bæ˩˥
-\vf Prononciation idiosyncratique: M18 crée la formule /ʐɤ˩ bæ˩˥/, “le chemin court", formule qu'il juge poétique.
+\va <speaker="M18"> mv̩˧ʁo˥ ʐɤ˩ bæ˩˥
+\vf Prononciation idiosyncratique: M18 crée la formule /|fv{ʐɤ˩ bæ˩˥}/, “le chemin court", formule qu'il juge poétique.
 \va <speaker="M21"> ID.
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
@@ -76001,16 +76015,15 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \dn 闪电、打闪电、霹雷
 \gn 闪电
 \df Éclair.
-\gf éclair yyyy coɻɻigé en : zæ˩bæ˩ le 3 juillet 2024
-\xv ze˩bæ˩-ze˥!
+\gf éclair
+\xv zæ˩bæ˩-ze˥!
 \xe There has been a flash of lightning!
 \xn 打闪电了！
 \xf il y a eu un éclair!
-\xv ze˩bæ˩˥ ◊ -dʑo˩!
+\xv zæ˩bæ˩˥ ◊ -dʑo˩!
 \xe There are flashes of lightning!
 \xn 打着闪电！
 \xf il y a des éclairs!
-\dt 07/Oct/2015
 
 \lx ze˩bæ˧
 \sf <nb="2011"> 1331
@@ -76018,7 +76031,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> (sens vérifié en 2009)
+\nt <type="hist" langue="fra" dom="sem" print="n"> Sens vérifié en 2009.
 \ton LM
 \lc ze˩bæ˥
 \so <print="n"> F4
@@ -76032,7 +76045,6 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe Which one is it? / Which kind is it?
 \xn 是哪个？是哪一样？
 \xf c'est lequel?/c'est de quelle sorte?
-\dt 07/Oct/2015
 
 \lx ze˩gɤ˧
 \or sseigge
@@ -76260,6 +76272,10 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe They're from the same family! (A sentence that concludes a reflection about two words, that aimed to determine whether they have the same vowels and consonants: the same segmental composition. The meaning is different, the tones are different, but otherwise the two words are alike: they share the same consonants and vowels. They form a coherent set: a family.)
 \xn 它们属于同一家！(这句话总结了对两个词的思考，目的是确定它们是否有相同的元音和辅音：相同的音段组成。意思不同，声调不同，但除此之外，这两个词是相同的：它们有相同的辅音和元音。它们就像一家的人一样近。）
 \xf Ils sont de la même famille! (Formulation qui conclut une réflexion au sujet de deux mots, pour déterminer s'ils sont de composition segmentale identique. Le sens est différent, les tons sont différents, mais pour le reste, les deux mots partagent bien les mêmes consonnes et voyelles. Ils forment un ensemble cohérent: une famille.)
+\xv ɖɯ˧-ʁwɤ˧, | ɖɯ˧-ʑi˩ ʝi˩.
+\xe The whole village was one family. (A summary of the operating principle of the collectivized economy.)
+\xn 整个村庄就成为一个家庭（集体化经济运行原则的概括）。
+\xf Le village tout entier formait une seule famille. (Résumé du principe de fonctionnement de l'économie collectivisée.)
 
 \lx ʑi˩˧
 \or xxi
@@ -77538,7 +77554,7 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (d'abord noté ˩˩) (tons confirmés)
+\nt <type="hist" langue="fra" print="n"> (d'abord noté ˩ ˩) (tons confirmés)
 \nt <type="hist" langue="fra" print="n"> (tons confirmés, n'est pas ʐɤ˩ʐɤ˩˥)
 \ton LM+MH#
 \lc ʐɤ˩ʐɤ˧˥
@@ -77635,16 +77651,16 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xn 甩来甩去
 \xf se balancer un peu
 \xv ʐo˩~ʐo˧-ze˥
-\xe |fg{red} |fg{pfv}
-\xn |fg{red} |fg{pfv}
-\xf |fg{red} |fg{pfv}
+\xe 〜 |fg{red} |fg{pfv}
+\xn 〜 |fg{red} |fg{pfv}
+\xf 〜 |fg{red} |fg{pfv}
 \xv le˧-ʐo˩~ʐo˩
-\xe |fg{accomp} |fg{red}
-\xn |fg{accomp} |fg{red}
-\xf |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv ʐo˩~ʐo˧ bi˧
-\xe 〜 |fg{immediate.fut} xxxxxxxx
+\xe 〜 |fg{immediate.fut}
 \xn 〜 近将来
 \xf 〜 |fg{fut.imm}
 \xc <langue="fra" dom="ton"> Le schéma tonal est L.M.M, et non L.M.H comme on aurait pu s'y attendre dans la vision purement phonologique d'un déploiement d'un schéma MH.
@@ -81205,10 +81221,11 @@ ajouter: \lc tsHeDliD ˧ɬɑ˩mv̩˩
 \xe in a lovely/amiable way
 \xn 可爱地
 \xf de façon mignonne
-\xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-zo˩, | njɤ˧ | mɤ˧-gɤ˩ | ʐwæ˩˥! (M18)
+\xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-zo˩, | njɤ˧ | mɤ˧-gɤ˩ | ʐwæ˩˥!
 \xe His speaking that way makes me terribly cross/discontents me greatly!
 \xn （他）这么说/这样的说法，让我非常不满意！
 \xf Qu’il parle ainsi, cela me contrarie terriblement!
+\rf M18
 \xv ə˧v̩˧-zo˥!
 \xe Very pretty! / That's really sweet! (Said to a little girl who is showing around a pair of brand new shoes)
 \xn 真漂亮！（情景：一个小姑娘让大家看她的一双新鞋子，奶奶就给予所需称赞）
