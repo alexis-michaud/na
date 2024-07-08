@@ -1551,15 +1551,15 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
-\nt <dom="sem" langue="fra"> Ce morphème apparaît dans ‘miroir': une toiture ou cloison bien étanche ‘renvoie l'eau' de même que le miroir renvoie la lumière.
+\nt <dom="sem" langue="fra"> La première syllabe du mot ‘miroir' est peut-être identique à ce morphème: le miroir renvoie la lumière.
 \ton Lα
 \lc æ̃˩˥
 \so <print="n"> F4
-\de To reflect (a mirror reflects light).
+\de To reflect (a mirror reflects light; a rainproof roof ‘reflects' rainwater).
 \ge to_reflect
-\dn 反射、辉映
+\dn 反射、辉映（镜子反射光线；防雨屋顶‘反射雨水’）。
 \gn 反射
-\df Réfléchir, renvoyer (un miroir renvoie la lumière; une cloison/toiture étanche renvoie la pluie =est étanche à la pluie).
+\df Réfléchir, renvoyer (un miroir renvoie la lumière; une toiture bien étanche à la pluie ‘renvoie' l'eau de pluie).
 \gf renvoyer
 
 \lx æ̃˩α
@@ -3143,7 +3143,7 @@
 \xf préparer un doctorat, être en doctorat
 
 \lx hwɑ˩˥fv˧
-\or huafu rrrr
+\or huafu
 \bw <langue="cmn"> 化肥
 \ps n
 \lc hwɑ˩˥fv˧
@@ -3267,7 +3267,7 @@
 \txtsup Benevolence.180
 
 \lx ʈʂʰwæ~ʈʂʰwæ~ʈʂʰwæ
-\or chuae-chuae-chuae rrrr
+\or chuae-chuae-chuae
 \ps ideophone
 \lc ʈʂʰwæ.ʈʂʰwæ.ʈʂʰwæ
 \cf ʂwɑ~ʂwɑ~ʂwɑ
@@ -9719,7 +9719,7 @@
 \lx dze˩mi˧-pɻ̩˥ɻ̩˩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
-\or zzeimipu'er rrrr ...peu'er
+\or zzeimipeu'er
 \et dze˩mi˧
 \ec <langue="fra"> M18 propose une étymologie comme ‘repos des abeilles’. La locutrice F4 considère que l'expression n'est pas transparente: les troisième et quatrième syllabes n'ont pas de signification par elles-mêmes.
 \ps n
@@ -10032,7 +10032,7 @@
 \xf un costume entier, un vêtement (même sens que l'exemple précédent; intégration en un seul groupe tonal)
 
 \lx tʰo˧˥
-\or to rrrr
+\or to
 \bw <langue="cmn"> 套
 \ps clf
 \lc ɖɯ˧ tʰo˧˥
@@ -14075,7 +14075,7 @@
 \doi 10.24397/pangloss-0004589#S92
 
 \lx tje-tje-tje
-\or die-die-die rrrr
+\or die-die-die
 \ps intj
 \ton 0
 \lc tje-tje-tje!
@@ -14090,7 +14090,7 @@
 \gf |fg{intj}.eh_oh!
 
 \lx o-ho-ho
-\or o-ho-ho rrrr
+\or o-ho-ho
 \ps intj
 \ton 0
 \lc o-ho-ho!
@@ -18530,7 +18530,7 @@
 \xf homme chinois han (terme péjoratif: littéralement ‘idiot de Chinois')
 
 \lx hæ˧-mi#˥
-\or Haemi rrrr
+\or Haemi
 \ps n
 \lc hæ˧mi˧
 \sd <langue="fra"> ethnies
@@ -30482,7 +30482,7 @@
 \xf On va boire du thé! / Prenons du thé!
 
 \lx li˩qʰɑ˩
-\or likha rrrr
+\or likha
 \et li˩˥
 \et qʰɑ˥
 \ps n
@@ -30502,7 +30502,7 @@
 \gf thé_amer
 
 \lx bæ˧li˥
-\or bbaeli rrrr
+\or bbaeli
 \bw <langue="nxq"> mbæ˧le˥
 \ps n
 \sd <langue="fra"> nourriture
@@ -37382,7 +37382,7 @@
 
 \lx tsʰi˥α
 \hm 2
-\or cee rrrr
+\or cee
 \ps clf
 \lc ɖɯ˧ tsʰi˥
 \sd <langue="fra"> classificateur
@@ -38582,7 +38582,7 @@
 \gf femme_Na
 
 \lx nɑ˩mv̩˧
-\or Namu rrrr
+\or Namu
 \ps n
 \sy nɑ˩mi#˥
 \lc nɑ˩mv̩˥
@@ -39998,7 +39998,7 @@
 \lx tɕo˧tɕɤ#˥
 \sf <nb="B"> 2202
 \sf <nb="2011"> 337
-\or Joja rrrr
+\or Joja
 \sy ɲi˩tsɯ#˥
 \ps n
 \sd <langue="fra"> ethnies
@@ -40460,7 +40460,7 @@
 \lx ɳæ˧
 \sf <nb="B"> 150
 \sf <nb="2011"> 217
-\or nae rrrr
+\or nae
 \ps n
 \sy njo˩˥
 \lc ɳæ˧
@@ -41755,7 +41755,7 @@
 \xc <type="hist" langue="fra" print="n"> Avant 2024, noté: /no˧ ə˧tso˧ ɳv̩˥?/
 
 \lx mɤ˧-ɳv̩˧~ɳv̩˧
-\or me-neuneu rrrr
+\or meneuneu
 \ps adv
 \ton M
 \lc mɤ˧ɳv̩˧ɳv̩˧
@@ -44665,7 +44665,7 @@
 \lx pɤ˧
 \sf <nb="B"> 633b
 \sf <nb="2011"> 942
-\or be rrrr
+\or be
 \ps n
 \lc pɤ˧
 \sd <langue="fra"> objet
@@ -45521,7 +45521,7 @@
 
 \lx pɻ̩˧
 \hm 2
-\or beu rrrr
+\or beu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45821,7 +45821,7 @@
 \xc <langue="fra" dom="ton"> schéma tonal régulier
 
 \lx pʰɻ̩˩β
-\or puq
+\or peuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -47951,7 +47951,7 @@
 \lx qʰæ˩ʈæ˩ɻæ˥
 \sf <nb="B"> 1094
 \sf <nb="2011"> 1556
-\or khaedae'er rrrr
+\or khaedae'er
 \et qʰæ˩2
 \ps adj
 \sd <langue="fra"> adjectif
@@ -49470,7 +49470,7 @@
 \dt 01/Oct/2015
 
 \lx qwæ˧mi#˥
-\or ghuaemi rrrr
+\or ghuaemi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50651,7 +50651,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf Il a l'âme bien noire!
 
 \lx qʰwɤ˩-ʝi˩
-\or khuaq yi rrrr
+\or khuaq yi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51703,7 +51703,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf quelqu'un dit n'importe quoi
 
 \lx ʁæ˩ʑi˩
-\or hraexxi rrrr
+\or hraexxi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -51727,7 +51727,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf (Son/ton) visage est beau, il est resplendissant!
 
 \lx ʁæ˩dʑɯ˩
-\or hraejji rrrr
+\or hraejji
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -52605,7 +52605,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 01/Oct/2015
 
 \lx ʁo˧bv̩#˥
-\or wobbu rrrr
+\or wobbu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -53018,7 +53018,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 27/Apr/2017
 
 \lx ʁo˧tsʰi˧˥
-\or wocee rrrr
+\or wocee
 \ps n
 \lc ʁo˧tsʰi˧˥
 \sd <langue="fra"> objet
@@ -54151,7 +54151,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 02/Oct/2015
 
 \lx ɻ̩˧lo˩
-\or erlo rrrr
+\or erlo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -55149,7 +55149,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx sɤ˩di˩
 \sf <nb="B"> 562
 \sf <nb="2011"> 797
-\or seddi rrrr
+\or seddi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59049,7 +59049,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 1426a
 \sf <nb="2011"> 2058
 \hm 2
-\or sheuq rrrr
+\or sheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -61617,7 +61617,7 @@ cette houe, il va falloir lui mettre un coin!
 \sf <nb="B"> 623
 \sf <nb="2011"> 924
 \hm 2
-\or jie rrrr
+\or ji
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -61647,7 +61647,7 @@ cette houe, il va falloir lui mettre un coin!
 
 \lx tɕɯ˧˥
 \sf <nb="2011"> 1812
-\or jieq
+\or jiq
 \ps v
 \ton MH
 \lc tɕɯ˧˥
@@ -61886,7 +61886,7 @@ cette houe, il va falloir lui mettre un coin!
 
 \lx tɕʰi˧nɑ˥
 \sf <nb="2011"> 3305
-\or qienae
+\or qiena
 \ps n
 \lc tɕʰi˧nɑ˧
 \sd <langue="fra"> plante
@@ -62644,7 +62644,7 @@ cette houe, il va falloir lui mettre un coin!
 \xf un champignon comestible, nommé ‘champignon de l'armoise' parce qu'il croît à proximité de l'armoise
 
 \lx tɕʰi˩ŋæ˩
-\or qiena rrrr
+\or qiengae
 \bw <langue="cmn"> 青艾
 \ps n
 \sy tɕɤ˧qʰɑ#˥
@@ -64720,7 +64720,7 @@ cette houe, il va falloir lui mettre un coin!
 \xf à la télévision
 
 \lx to˧ʝi˧
-\or doyi rrrr
+\or doyi
 \ps n
 \lc to˧ʝi˧
 \sd <langue="fra"> société
@@ -64890,7 +64890,7 @@ cette houe, il va falloir lui mettre un coin!
 \dt 01/Jul/2017
 
 \lx ʝi˧tɕʰi˧˥
-\or yiqie rrrr
+\or yiqie
 \bw <langue="cmn"> 运气
 \ps n
 \lc ʝi˧tɕʰi˧˥
@@ -64914,7 +64914,7 @@ cette houe, il va falloir lui mettre un coin!
 \xf ne pas avoir de chance, jouer de malchance, avoir un coup de malchance
 
 \lx ku˧tɕʰi˧˥
-\or goqie rrrr
+\or goqie
 \bw <langue="cmn"> 过期
 \ps v
 \lc ku˧tɕʰi˧˥
@@ -65659,7 +65659,7 @@ cette houe, il va falloir lui mettre un coin!
 
 \lx to˩ʈɻ̩˩
 \sf <nb="2011"> 1345
-\or dodeu rrrr
+\or dodeu
 \ps adj
 \lc to˩ʈɻ̩˩˥
 \sd <langue="fra"> adjectif
@@ -66583,7 +66583,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʈʂʰɤ˧lɑ˧
 \sf <nb="B"> 1407
 \sf <nb="2011"> 2283
-\or chala rrrr chela ?
+\or chala chela ?
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66623,7 +66623,7 @@ cette houe, il va falloir lui mettre un coin!
 
 \lx ʈʂʰɤ˧lɑ˧-mv̩˧lɑ˩
 \sf <nb="2011"> 2285
-\or chalamula rrrr chelamula ?
+\or chalamula chelamula ?
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68462,7 +68462,7 @@ cette houe, il va falloir lui mettre un coin!
 \sf <nb="B"> 1708b
 \sf <nb="2011"> 2243
 \hm 1
-\or ceeq rrrr
+\or ciq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68945,11 +68945,11 @@ cette houe, il va falloir lui mettre un coin!
 \lx tsʰi˧α
 \sf <nb="B"> 1660
 \sf <nb="2011"> 2484
-\or cee rrrr
+\or cee
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" dom="ton" print="n"> En 2009, corrigé de /tsɯ˥/ en /tsi/. Juillet 2024: corrigé de /tsi/ en /tsʰi/.
+\nt <type="hist" langue="fra" dom="ton" print="n"> En 2009, corrigé de /tsɯ˥/ en /tsi/. Juillet 2024: corrigé de /tsi/ en /tsʰi/. xxxx vérifier à nouveau: Roselle Dobbs souligne le 8 juillet: "everyone I know says "zee".  Laezi zee ruaeq."
 \ton Mα
 \lc tsʰi˧
 \so <print="n"> F4
@@ -69306,7 +69306,7 @@ cette houe, il va falloir lui mettre un coin!
 \xf Ce harnais est mal (placé) / n'est pas bien (placé), ça a frotté (sur la peau du cheval).
 
 \lx mi˩pi˧
-\or mibi rrrr
+\or mibi
 \bw <langue="cmn"> 民宾
 \ps n
 \sd <langue="fra"> société
@@ -69323,7 +69323,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf 民宾::milicien
 
 \lx ti˧ʈʂæ˥
-\or rrrr
+\or
 \bw <langue="cmn"> 队长
 \ps n
 \sd <langue="fra"> société
@@ -69340,7 +69340,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf 队长::chef_de_groupe
 
 \lx ho˩tso˩ʂe˩
-\or rrrr
+\or hozoshei
 \bw <langue="cmn"> 合作社
 \ps n
 \sd <langue="fra"> société
@@ -70094,7 +70094,7 @@ cette houe, il va falloir lui mettre un coin!
 \dt 13/Jul/2017
 
 \lx læ˩pʰæ˩-læ˥dzi˩
-\or laepaelaezzee rrrr
+\or laepaelaezzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -71628,7 +71628,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf Ci'er_Lhamu
 
 \lx tsʰe˧li˧-ɬɑ˩mv̩˩
-\or Ceili Lhamu rrrr
+\or Ceili Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -72292,7 +72292,9 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʈʂɻ̩˧tɕɯ˥
 \sf <nb="B"> 232
 \sf <nb="2011"> 305
-\or zhuji rrrr
+\or zheuji
+\et ʈʂɻ̩˥
+\et tɕɯ˩˥
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -72673,7 +72675,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʁwɤ˧
 \sf <nb="2011"> 835
 \hm 4
-\or wua rrrr
+\or wua
 \bw <langue="cmn"> 网
 \ps n
 \lc ʁwɤ˧
@@ -72971,7 +72973,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf mélanger
 
 \lx ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
-\or zhuaezhuaenana rrrr
+\or zhuaezhuae nana
 \et ʈʂwæ˧~ʈʂwæ˧
 \ps adj
 \lc ʈʂwæ˧ʈʂwæ˧nɑ˧nɑ˧
@@ -73054,7 +73056,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf étroit
 
 \lx ʈʂʰwɤ˧hwɤ˩
-\or chuahua rrrr
+\or chuahua
 \ps adj
 \lc ʈʂʰwɤ˧hwɤ˩
 \an ʈʂʰwɤ˧tsʰi˧˥
@@ -73320,7 +73322,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx ʈʰɯ˥
 \sf <nb="B"> 1201
 \sf <nb="2011"> 1666
-\or tee rrrr
+\or tee
 \ps v
 \lc ʈʰɯ˧
 \sd <langue="fra"> verbe
@@ -74668,7 +74670,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf Vujjo
 
 \lx ɬi˧ʐɤ˥-dzi˩
-\or Lhirezzee rrrr
+\or Lhirezzee
 \ps n
 \lc ɬi˧ʐɤ˥dzi˩
 \cf v̩˧dʑo#˥
@@ -75985,7 +75987,7 @@ cette houe, il va falloir lui mettre un coin!
 \lx zæ˩bæ˩
 \sf <nb="B"> 13
 \sf <nb="2011"> 24
-\or ssaebbae rrrr
+\or ssaebbae
 \ps v
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -80158,7 +80160,7 @@ cette houe, il va falloir lui mettre un coin!
 \gf diminutif
 
 \lx -pʰv̩˥
-\or -pu rrrr
+\or -pu
 \ps suff
 \ton H
 \lc --
