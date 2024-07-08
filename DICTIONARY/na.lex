@@ -59441,9 +59441,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 放一个楔子
 \xf mettre un coin
 \rf F5
-ʂwæ˩ kʰɯ˧˥ pour F4
-\hwæ˧pʰæ˩ tʰv̩˩-nɑ˩, | ʂwæ˩ kʰɯ˧-zo˧-ho˥!
-cette houe, il va falloir lui mettre un coin!
+\xv ʂwæ˩ kʰɯ˧˥
+\xe to place a wedge, to put a wedge
+\xn 放一个楔子
+\xf mettre un coin
+\rf F4
+\xv hwæ˧pʰæ˩ tʰv̩˩-nɑ˩, | ʂwæ˩ kʰɯ˧-zo˧-ho˥!
+\xe We're going to have to put a wedge in this hoe (so that the handle fits properly).
+\xn 我们得在锄头上打一个楔子（这样手柄才能合适）。
+\xf Cette houe, il va falloir y mettre un coin, pour que le manche tienne bien!
 
 \lx ʂwæ˧
 \sf <nb="B"> 915
