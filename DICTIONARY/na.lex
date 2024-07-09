@@ -6,7 +6,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" dom="phono" print="n"> La nasalité phonémique de ce mot a seulement été reconnue clairement, et bien distinguée dans le lexique, en août 2014.
-\nt <type="hist" langue="fra" dom="ton" print="n"> Ton LM confirmé : même catégorie que "porc".
+\nt <type="hist" langue="fra" dom="ton" print="n"> Ton LM confirmé: même catégorie que "porc".
 \ton LM
 \lc æ̃˩˥
 \so <print="n"> F4
@@ -405,7 +405,7 @@
 \ge |fg{intj}.oh_no!
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
-\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'il va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple : lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
+\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'il va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple: lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
 \gf |fg{intj}.ah_non!
 
 \lx æ̃˩-kʰv̩˧˥
@@ -708,7 +708,7 @@
 \xv ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
-\xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi : aller chercher du travail à la ville
+\xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi: aller chercher du travail à la ville
 \xv ɑ˩pʰo˩ kwɤ˥
 \xe to throw away
 \xn 扔掉
@@ -1440,7 +1440,7 @@
 \cf æ̃˧ʈwɤ˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014; nouvelle vérification en 2016: la nasalité est bien présente : la première syllabe est homophone de ‘poulet'; elle provient de ce morphème, et garde la même voyelle nasale.
+\nt <type="hist" langue="fra" print="n"> nasalité: vérifié en août 2014; nouvelle vérification en 2016: la nasalité est bien présente: la première syllabe est homophone de ‘poulet'; elle provient de ce morphème, et garde la même voyelle nasale.
 \nt <type="hist" langue="fra" print="n"> avant 2024: traduit comme: "du matin au soir"; en fait: désignerait plutôt le matin et le soir, pas toute la journée, d'après TS. Après discussion avec F4, il est confirmé que dans son parler à elle, cela désigne bien "du matin au soir".
 \ton L#-
 \lc æ̃˧ʈwɤ˩mv̩˩kʰv̩˩
@@ -1917,7 +1917,9 @@
 \xn 祝：一千棵庄稼都成熟起来！（成年礼、过年等节庆时的祝福用语，晚辈对长辈的祝福）
 \xf Puissent mille récoltes venir à maturité! (Bénédiction qu'on dit aux aînés lors de cérémonies: par exemple lors du rite de passage à l'âge adulte)
 \xc PROVERBE
-\xc Proverbe jugé erroné par F4.
+\xc <langue="fra" dom="sem"> La locutrice F4 ne connaît pas de tel proverbe.
+\xc <langue="eng" dom="sem"> Consultant F4 is not aware of the existence of such a proverb.
+\xc <langue="cmn" dom="sem"> 标准发音人不认识这样的谚语。
 \rf F5
 
 \lx bɑ˩lɑ˩
@@ -2212,8 +2214,8 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" dom="phono" print="n"> Voisement du /b/ vérifié, n'est pas /pæ/.
 \nt <type="hist" langue="fra" dom="ton" print="n"> Première notation (2006): /bæ˧ʁwæ˧ʁwæ˥/, mais une notation L.L.M était envisagée à titre d'hypothèse. C'est celle-ci qui est adoptée par la suite: /bæ˩-ʁwæ˩ʁwæ˧/. Elle est ensuite modifiée en L.L.H au vu de l'argument phonologique selon lequel il n'existe pas d'opposition L.L.H ~ L.L.M en fin de groupe tonal, d'où /bæ˩-ʁwæ˩ʁwæ˥/. Enfin, la réduplication est indiquée par un tilde, d'où /bæ˩-ʁwæ˩~ʁwæ˥/.
-\np <dom="morpho" langue="fra"> Dans l'état actuel de la langue, le mot ne peut semble-t-il être dit sans réduplication. Je ne suis pas parvenu à dégager un monosyllabe /†|fv{bæ}/ signifiant ‘mou, relâché'.
-\np <dom="morpho" langue="eng"> In the current state of the language, the word cannot seem to be said without reduplication. I have not been able to find a monosyllable /†|fv{bæ}/ meaning ‘soft, slack'.
+\nt <dom="morpho" langue="fra"> Dans l'état actuel de la langue, le mot ne peut semble-t-il être dit sans réduplication. Je ne suis pas parvenu à dégager un monosyllabe /†|fv{bæ}/ signifiant ‘mou, relâché'.
+\nt <dom="morpho" langue="eng"> In the current state of the language, the word cannot seem to be said without reduplication. I have not been able to find a monosyllable /†|fv{bæ}/ meaning ‘soft, slack'.
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -2761,8 +2763,8 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra" dom="phono" print="n"> Composition segmentale de la partie rédupliquée (deuxième et troisième syllabes): vérifié: n'est pas /lɯ˧lɯ˥/.
-\np <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}.
-\np <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
+\nt <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}.
+\nt <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
 \ton H#
 \so <print="n"> F4
 \va <speaker="M23"> ID.
@@ -3563,7 +3565,7 @@
 \cf bo˩dze˧-ko˩dze˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> Sens vérifié en 2018 : F4 (Ama) confirme l'identification comme alouette.
+\nt <type="hist" langue="fra" print="n"> Sens vérifié en 2018: F4 (Ama) confirme l'identification comme alouette.
 \ton LM
 \so <print="n"> F4
 \de Lark.
@@ -4922,7 +4924,7 @@
 \ge black_insects
 \dn 黑色昆虫。这一词可涵盖多种昆虫，如粘虫： |fi{Mythimna separata (Walker)}，属于夜蛾科。
 \gn 黑色昆虫
-\df Insectes noirs. Ce terme peut recouvrir une grande variété d'insectes. Il est utilisé, par exemple, pour décrire la chenille légionnaire du Nord (chenille qui coupe les épis de riz) : |fi{Mythimna separata (Walker)}, un papillon de nuit de la famille des Noctuidae.
+\df Insectes noirs. Ce terme peut recouvrir une grande variété d'insectes. Il est utilisé, par exemple, pour décrire la chenille légionnaire du Nord (chenille qui coupe les épis de riz): |fi{Mythimna separata (Walker)}, un papillon de nuit de la famille des Noctuidae.
 \gf insectes_noirs
 
 \lx bɻ̩˧pʰɻ̩˧˥
@@ -6281,7 +6283,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> /hĩ˧ ɕjɤ˥~ɕjɤ˩/: corrigé en 2008, confirmant une conjecture de 2007; d'abord noté ˧˥˧) (réanalyse déc. 08: hjɤ) (avant 2017: avais noté la forme sous-jacente comme ɕjɤ˩~ɕjɤ˩; en fait, est bien L+MH#, comme attendu : disyllabe L+MH (forme régulière de la réduplication).
+\nt <type="hist" langue="fra" print="n"> /hĩ˧ ɕjɤ˥~ɕjɤ˩/: corrigé en 2008, confirmant une conjecture de 2007; d'abord noté ˧˥˧) (réanalyse déc. 08: hjɤ) (avant 2017: avais noté la forme sous-jacente comme ɕjɤ˩~ɕjɤ˩; en fait, est bien L+MH#, comme attendu: disyllabe L+MH (forme régulière de la réduplication).
 \ton L
 \lc ɕjɤ˩ɕjɤ˧˥
 \so <print="n"> F4
@@ -7625,7 +7627,7 @@
 \xn 看见东西
 \xf apercevoir des choses/apercevoir quelque chose
 \xc PHONO
-\xc <type="hist" print="n"> schéma tonal de /tso˧~tso˧ do˧˥/ : confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
+\xc <type="hist" print="n"> schéma tonal de /tso˧~tso˧ do˧˥/: confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
 \xv do˩-mɤ˩-ho˥
 \xe 〜 |fg{neg} |fg{desiderative}
 \xn 不许（看）见
@@ -8196,7 +8198,9 @@
 \cf ɖɯ˩zo#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> impossible d’extraire synchroniquement le monosyllabe
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
 \ton LM+#H
 \lc ɖɯ˩mi˥
 \so <print="n"> F4
@@ -8264,12 +8268,12 @@
 \xv ɖɯ˧-njɤ˧ hwæ˩; ɖɯ˧-njɤ˧ tɕʰi˧; ɖɯ˧-njɤ˧ dzɯ˧; ɖɯ˧-njɤ˧ dze˧˥; ɖɯ˧-njɤ˧ ʐwɤ˧˥; ɖɯ˧-njɤ˧ lɑ˧˥
 \xe combinations with verbs in the six tones: to buy, to sell, to eat, to cut, to speak, to strike
 \xn 跟六个调类的动词结合：买，卖，吃，切，说，打
-\xf avec des verbes aux six tons, pour étudier les tons : acheter; vendre; manger; couper; parler; frapper
+\xf avec des verbes aux six tons, pour étudier les tons: acheter; vendre; manger; couper; parler; frapper
 \xc PHONO
 \xv ɖɯ˧-njɤ˧ | hwæ˧; ɖɯ˧-njɤ˧ | tɕʰi˧; ɖɯ˧-njɤ˧ | dzɯ˧; ɖɯ˧-njɤ˧ | dze˩˥; ɖɯ˧-njɤ˧ | ʐwɤ˩˥; ɖɯ˧-njɤ˧ | lɑ˧˥
 \xe combinations with verbs in the six tones: to buy, to sell, to eat, to cut, to speak, to strike (separating into two tone groups)
 \xn 跟六个调类的动词结合：买，卖，吃，切，说，打
-\xf avec des verbes aux six tons, pour étudier les tons : acheter; vendre; manger; couper; parler; frapper; en séparant en groupes tonals
+\xf avec des verbes aux six tons, pour étudier les tons: acheter; vendre; manger; couper; parler; frapper; en séparant en groupes tonals
 \xc PHONO
 \dt 24/Apr/2017
 
@@ -8323,7 +8327,9 @@
 \cf dɑ˧ʝi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> impossible d’extraire synchroniquement le monosyllabe
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
 \ton LM+#H
 \lc ɖɯ˩zo˥
 \so <print="n"> F4
@@ -10320,7 +10326,9 @@
 \sd <langue="eng"> clothing
 \nt <langue="pumi" dom="comp" print="n"> tɕõ22gu55
 \nt <type="hist" langue="fra" print="n"> (tons confirmés, n'est pas ˧˥; réécoute 2007: paraît être ˧˥ mais correction en 2008: vérifié à nouveau: est bien ˧˧) (vérifié: n'est pas dʑɯ) (avant mars 2012: noté le ton comme #H
-\nt <dom="sem" langue="fra"> On ne peut extraire de forme monosyllabique /dʑi/; elle apparaît en composition avec /nɑ˩˧/ “les Na" dans le dicton /nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!/ “le vêtement des Na, c'est du chanvre!" et dans “vêtement mortuaire"; mais ne peut être utilisé sous sa forme monosyllabique.
+\nt <dom="sem" langue="fra"> On ne peut extraire de forme monosyllabique /|fv{dʑi}/. Elle apparaît en composition avec /|fv{nɑ˩˧}/ “les Na" dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧}/ “le vêtement des Na, c'est du chanvre!" et dans “vêtement mortuaire", mais ne peut être utilisée sous sa forme monosyllabique.
+\nt <dom="sem" langue="eng"> No monosyllabic form /|fv{dʑi}/ can be extracted. The morpheme appears in composition with /|fv{nɑ˩˧}/ “the Na people" in the saying /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧}/ “the Na's clothes are made of hemp!" and in “shroud", but cannot be used in its monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素/|fv{dʑi}/。该语素与/|fv{nɑ˩˧}/‘摩梭人’合成，出现在/|fv{nɑ˩-dʑi˧(-dʑo˧), |sɑ˧}/“摩梭人的衣服是麻做的！”这个俗语，也出现在‘裹尸布’这个词中，但不能以单音节形式使用。
 \ton H$
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -10492,7 +10500,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> avant 2009: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩! asseyez-vous! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
+\nt <type="hist" langue="fra" print="n"> avant 2009: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre: « tʰe˧dzɯ˩: être assis ; tʰi˥ dzɯ˩! asseyez-vous! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
 \ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -11392,7 +11400,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra" dom="ton" print="n"> Ton: type d7: /dzu˧lv̩˧lv̩˥ ɲi˩/. Dans le système exposé dans l'ouvrage de 2017, il s'agit de la catégorie H#.
-\np <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}. Le locuteur M21 propose une forme |fv{lv̩˧lv̩˧}.
+\nt <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}. Le locuteur M21 propose une forme |fv{lv̩˧lv̩˧}.
 \np <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
 \nt <type="hist" langue="fra" dom="phono" print="n"> Composition segmentale de la partie rédupliquée (deuxième et troisième syllabes): vérifié: n'est pas /lɯ˧lɯ˥/.
 \ton H#
@@ -11744,7 +11752,9 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (terme élicité; peut se dire, mais n'est pas employé couramment)
-\np <langue="fra"> on ne peut extraire le monosyllabe
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
 \ton #H
 \so <print="n"> F4
 \pdv ɭɯ˧β
@@ -11945,7 +11955,7 @@
 \xv gv̩˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩, | gv̩˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!
 \xe It is going to be the talk of the town! / Rumour will spread all over! Literally: “This will be talked about in the Nine Strata of the universe; this will be talked about all along the Nine Rivers!”
 \xn 大家都会知道的！直译：‘在宇宙的九层都会说，在九条河边都会说！’
-\xf La rumeur va s'en répandre partout! Littéralement : “Il en sera question par les Neuf Strates de l'univers, il en sera question par les Neuf Fleuves!”
+\xf La rumeur va s'en répandre partout! Littéralement: “Il en sera question par les Neuf Strates de l'univers, il en sera question par les Neuf Fleuves!”
 \xv gv̩˧-dʑɯ˩ | ɖɯ˧-tsʰo˧ ʝi˧, | ʂɯ˧ lo˩ | ɖɯ˧-ʁɑ˧ ʝi˧
 \xe “Crossing the Nine Rivers in one leap, traversing the Seven Valleys in one step”: this set phrase expresses the idea of a magical journey whereby one travels effortlessly and rapidly over the greatest distances. This phrase is use to comfort someone who worries about a family member who is on a faraway journey: the young person will “crossing the Nine Rivers in one leap, traverse the Seven Valleys in one step” and be safe home very soon.
 \xn “一跳就过了九河，一步就过了七谷”：在一个人担心去了远方的亲戚，有人会安慰说：他“一跳就过了九河，一步就过了七谷”，很快就安全回家。
@@ -13811,7 +13821,7 @@
 \xe “One does as one pleases, right!” This set phrase is used as a critical observation, an ironic comment: “Oh well, you go ahead and do as you like, don't you!” It underlines the distance between the initiatives taken by the individual and alternatives that would take into account the points of view of others.
 \xn “就按照自己的意愿来！”这句话，用来讽刺批评不考虑别人的行为：“哦，好吧，想做什么就做什么，对不对！”
 \xf «On fait bien ce qu'on veut!» Cette formule est utilisée comme une observation critique, au second degré: «Ah ben vas-y, fais bien comme tu l'entends!» Elle souligne la distance entre les initiatives que prend la personne et ce que pourrait être une action qui prenne en compte le point de vue d'autrui.
-\xc <type="hist" langue="fra" print="n"> Avant 2024, un contresens avait été fait sur cette expression, interprétée de la façon suivante: ‘On est influencé par ses amis!’ (Littéralement : ‘On observe ses amis !’) Le proverbe souligne l’influence des amis, en bien ou en mal selon qu’on a ou non choisi judicieusement.
+\xc <type="hist" langue="fra" print="n"> Avant 2024, un contresens avait été fait sur cette expression, interprétée de la façon suivante: ‘On est influencé par ses amis!’ (Littéralement: ‘On observe ses amis !’) Le proverbe souligne l’influence des amis, en bien ou en mal selon qu’on a ou non choisi judicieusement.
 \xc <type="hist" langue="eng" print="n"> Prior to 2024, this expression was misinterpreted as follows: ‘One is easily influenced by one's friends!' (Literally: ‘One's friends, one observes'.) The proverb refers to influence from friends, good or bad: good friends exert good influences; bad friends exert bad influences.
 \xc <type="hist" langue="cmn" print="n"> 在 2024 年之前，这一表述被误解如下：“大家都容易受朋友的影响！”（直译：“自己的朋友，自己看（=自己爱学他们的习惯）”）
 \xv no˧ | õ˧ ɖʐɻ̩˥ õ˩ li˩ | ʐwæ˩˥!
@@ -16572,7 +16582,7 @@
 \xn 属一个爱打架的年份/生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
 \xf personne d'une année batailleuse
 \xc <langue="fra"> |fv{/hĩ˥/} a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
-\xv ʑi˩hṽ̩˥, | lɑ˧ : | kʰv̩˧ gɤ˧˥!
+\xv ʑi˩hṽ̩˥, | lɑ˧: | kʰv̩˧ gɤ˧˥!
 \xe The Monkey and the Ape are quarrelsome birth signs!
 \xn 属猴和属虎的人很爱吵架！
 \xf Les signes astrologiques du Singe et du Tigre sont des signes batailleurs!
@@ -19211,7 +19221,7 @@
 \ge 诊所::dispensary
 \dn 诊所：字面意思是“看病的地方”
 \gn 诊所（借词）
-\df Dispensaire : littéralement, lieu où l'on peut consulter un médecin.
+\df Dispensaire: littéralement, lieu où l'on peut consulter un médecin.
 \gf dispensaire
 \dv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
 
@@ -19902,7 +19912,7 @@
 \xn 牙根
 \xf racine des dents
 \xc <dom="ton"> H#
-\xc |fg{clf}: |fv{/ɖɯ˧-ɭɯ˧/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-ɭɯ˧/}
 \xv hi˧kʰɯ˧ | gɤ˩-pɤ˥-ho˩-ze˩!
 \xe (Her) teeth are going to come out! (A small baby will soon be teething.)
 \xn 牙要出来了！（小孩要出牙）
@@ -28124,7 +28134,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\pdc <langue="fra"> terme respectueux : le même que pour les humains
+\pdc <langue="fra"> terme respectueux: le même que pour les humains
 \pdv jɤ˧˥
 \de Dog (either he-dog or she-dog).
 \ge dog
@@ -31359,7 +31369,7 @@
 \lc ɬi˩ʈɯ˩mæ˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> (tv, voyelle vérifiée; confirmé à nouveau en avril 09: rime différente de celle de F5, est ʈɯ, non ʈv) (exemple “chez nous, le chien se tient souvent assis vers le seuil": version corrigée par F4 d'une phrase proposée par M18 : o˧ɻ̩˩ kʰv̩˩mi˩ ʈʰɯ˧jɤ˥ ɖɯ˧njɤ˧zo˥ ɬi˩ʈɯ˩mæ˧ hĩ˧dʑo˧)
+\nt <type="hist" langue="fra" print="n"> (tv, voyelle vérifiée; confirmé à nouveau en avril 09: rime différente de celle de F5, est ʈɯ, non ʈv) (exemple “chez nous, le chien se tient souvent assis vers le seuil": version corrigée par F4 d'une phrase proposée par M18: o˧ɻ̩˩ kʰv̩˩mi˩ ʈʰɯ˧jɤ˥ ɖɯ˧njɤ˧zo˥ ɬi˩ʈɯ˩mæ˧ hĩ˧dʑo˧)
 \nt <type="hist" langue="fra" print="n"> (vérifié en 2009: n'est pas ʈɯ˩)
 \ton L+H#
 \so <print="n"> F4
@@ -33405,7 +33415,7 @@
 \xe same meaning: vegetable bed (in a vegetable garden)
 \xn 同上：菜畦
 \xf même sens: lit à légumes (dans le potager)
-\xc <dom="ton" langue="fra">ton : #H
+\xc <dom="ton" langue="fra">ton: #H
 \xv qʰwæ˧ɭɯ˧-qo˧ | v̩˩tsʰɤ˧-lv̩˧bv̩˧ | le˧-gv̩˩, | v̩˩tsʰɤ˧˥ | ɖɯ˧-jɤ˩ tʰi˩-pʰo˩
 \xe to make a vegetable bed in the vegetable garden, and to sow a row of vegetables
 \xn 菜园里建菜畦，种一排菜
@@ -34205,7 +34215,7 @@
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> Lors des premières enquêtes, le ton de cette particule n'a pu être déterminé, du fait qu'elle n'apparaît qu'après /tsɯ˧˥/, de sorte que son ton est toujours imposé par le contexte. Son ton n'a pu être déterminé que grâce à l'exemple suivant : /ho˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥  |  le˧-qʰwɤ˧-ze˧-mæ˧ |/ (Healing.66): contexte qui permet à n'importe lequel des tons L, M, H, et MH de s'exprimer, ce qui permet de conclure que le ton de la particule est M.
+\nt <type="hist" langue="fra" print="n"> Lors des premières enquêtes, le ton de cette particule n'a pu être déterminé, du fait qu'elle n'apparaît qu'après /tsɯ˧˥/, de sorte que son ton est toujours imposé par le contexte. Son ton n'a pu être déterminé que grâce à l'exemple suivant: /ho˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥  |  le˧-qʰwɤ˧-ze˧-mæ˧ |/ (Healing.66): contexte qui permet à n'importe lequel des tons L, M, H, et MH de s'exprimer, ce qui permet de conclure que le ton de la particule est M.
 \ton M
 \lc mæ˧
 \so <print="n"> F4
@@ -34535,7 +34545,9 @@
 \lc mæ˧ɻæ˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="sem" langue="fra"> (on ne peut extraire de monosyllabe /mæ/ de 392 et 393b)
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
 \ton L#
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -35891,7 +35903,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (confirmé en 2009) (noté, en 2006: le˥mu˧, le˥mu˧ze˩)
-\nt <type="hist" langue="fra" print="n"> à vérifier en 2016 : l'expression /lv̩˧ mo˥/ existe-t-elle hors du proverbe? Ou est-elle créée comme parallèle à ‘vieux bois', peut-être y compris l'adoption de son schéma tonal? Réponse: OUI, c'est une expression inhabituelle, créée pour les besoins du parallèle avec ‘vieux bois', dans le proverbe fourni en exemple. Le monosyllabe ‘pierre' /lv/ n'est pas intelligible: le monosyllabe /lv/ au ton M est immédiatement interprété comme ‘champ'.
+\nt <type="hist" langue="fra" print="n"> à vérifier en 2016: l'expression /lv̩˧ mo˥/ existe-t-elle hors du proverbe? Ou est-elle créée comme parallèle à ‘vieux bois', peut-être y compris l'adoption de son schéma tonal? Réponse: OUI, c'est une expression inhabituelle, créée pour les besoins du parallèle avec ‘vieux bois', dans le proverbe fourni en exemple. Le monosyllabe ‘pierre' /lv/ n'est pas intelligible: le monosyllabe /lv/ au ton M est immédiatement interprété comme ‘champ'.
 \ton Lα
 \lc mo˩˥
 \so <print="n"> F4
@@ -38850,7 +38862,7 @@
 \cf no˧=ɻ̩˩
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> Roselle 2015 : ‘I would really advise you to check these again, as they look like 1st person to me, and SGM is adamant that they are.' Vérifié à plusieurs reprises, et à nouveau en 2018 : est bien une 2e personne, pas une 1e personne. Avant 2018: noté une forme ɳæ˩ɻ̩˧, jugée incorrecte et retirée du dictionnaire.
+\nt <type="hist" langue="fra" print="n"> Roselle 2015: ‘I would really advise you to check these again, as they look like 1st person to me, and SGM is adamant that they are.' Vérifié à plusieurs reprises, et à nouveau en 2018: est bien une 2e personne, pas une 1e personne. Avant 2018: noté une forme ɳæ˩ɻ̩˧, jugée incorrecte et retirée du dictionnaire.
 \ton LM
 \lc ɳæ˧ɻæ˩
 \so <print="n"> F4
@@ -38868,7 +38880,7 @@
 \cf no˧=ɻ̩˩
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> Roselle 2015 : ‘I would really advise you to check these again, as they look like 1st person to me, and SGM is adamant that they are.' Confirmé en 2017: le sens est bien celui indiqué par F4: 2e personne.
+\nt <type="hist" langue="fra" print="n"> Roselle 2015: ‘I would really advise you to check these again, as they look like 1st person to me, and SGM is adamant that they are.' Confirmé en 2017: le sens est bien celui indiqué par F4: 2e personne.
 \ton L#
 \lc ɳæ˧ɻ̩˩
 \so <print="n"> F4
@@ -39198,7 +39210,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" langue="fra" print="n"> (n'est pas dʑɯ) Avant 2017: avais noté une forme sous-jacente au ton M, non conforme à la valeur indiquée dans le champ 'ton'. Vérifié : est bien un ton #H.
+\nt <type="hist" langue="fra" print="n"> (n'est pas dʑɯ) Avant 2017: avais noté une forme sous-jacente au ton M, non conforme à la valeur indiquée dans le champ 'ton'. Vérifié: est bien un ton #H.
 \ton H#
 \lc ɲi˧dʑɯ˧
 \so <print="n"> F4
@@ -41178,7 +41190,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <dom="sem" langue="fra"> de: njɤ˧˥ ‘coller'; les graines de cette plante collent de façon très efficace sur les tissus/fourrures
-\nt Voir photographie de la plante : photo 1.jpg
+\nt Voir photographie de la plante: photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
 \so <print="n"> F4
@@ -42926,7 +42938,7 @@
 \xv ʈʂe˧ | le˧-pʰæ˩~pʰæ˩
 \xe to throw earth here and there: a chicken is scratching the soil to find food, and sends spurts of earth here and there
 \xn 将土扔这里扔那里：一只鸡在抓地找吃的，让土飞这里飞那里
-\xf rejeter la terre de droite et de gauche : une poule gratte la terre à la recherche de nourriture, et fait voler de la terre de droite et de gauche
+\xf rejeter la terre de droite et de gauche: une poule gratte la terre à la recherche de nourriture, et fait voler de la terre de droite et de gauche
 \txt Housebuilding2.146
 \doi 10.24397/pangloss-0004550#S146
 
@@ -43147,7 +43159,7 @@
 \df Hongqiao, village sur la route entre Ninglang et Yongning (principalement peuplé de Chinois Han).
 \gf Hongqiao
 \xv no˧ | pæ˧ɻæ˩ʈʂʰo˩ hĩ˩-ne˩-ʝi˩-zo˩!
-\xc avant 2023 : noté /no˧ | pæ˧ɻæ˩ʈʂʰo˩-hĩ˩-ni˩-zo˩/
+\xc avant 2023: noté /no˧ | pæ˧ɻæ˩ʈʂʰo˩-hĩ˩-ni˩-zo˩/
 \xe “You look like someone from Hongqiao!" This is an insult, meaning “You are ugly". Popular Na geography had it that the people of Hongqiao (a village which the caravans crossed) had coarse, unlovely physical features, such as big snub noses.
 \xn 解放前用的侮辱语句：“你像红桥人！”=“你很丑！”摩梭民间文化中，红桥（马帮路过的一个乡）的人被认为难看，面貌不“眉清目秀”，比如有扁鼻子。
 \xf «Tu ressembles à quelqu'un de Hongqiao!» Insulte, pour dire de quelqu'un qu'il a un physique disgracieux. La géographie populaire na attribuait des traits grossiers aux gens de Hongqiao (localité que traversaient les caravanes): gros nez camus, en particulier.
@@ -43638,7 +43650,7 @@
 \lc pʰi˧kʰv̩˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> observation de Roselle Dobbs: ce serait /pʰi˧kʰv̩˧/: initiale de 1e syll. aspirée. Réponse 2016 : OUI. Modifié en fonction.
+\nt <type="hist" langue="fra" print="n"> observation de Roselle Dobbs: ce serait /pʰi˧kʰv̩˧/: initiale de 1e syll. aspirée. Réponse 2016: OUI. Modifié en fonction.
 \ton M
 \so <print="n"> F4
 \pdv nɑ˧α
@@ -44555,7 +44567,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" print="n"> (avant 2009: noté: /ʁu˧qʰwɤ˩ pu˩ hu˩hu˥gv̩˩/) (note d'avant 2009: /ʁu˥ kʶwɑ˩ pu˩ hu˩ hu˥ gv̩˧/) Sens vérifié
-\nt <type="hist" langue="fra" print="n"> Roselle, 2015: ‘I think the first phoneme might be aspirated.' Réponse 2016 : NON.
+\nt <type="hist" langue="fra" print="n"> Roselle, 2015: ‘I think the first phoneme might be aspirated.' Réponse 2016: NON.
 \nt <dom="sem" langue="fra"> sens littéral: “partie molle de la tête"
 \ton L+H#
 \lc pɤ˩ho˩ho˥
@@ -48109,7 +48121,7 @@
 \ge |fg{clf}.armfuls
 \dn 量词：抱
 \gn 量词.抱
-\df Classificateur : une brassée (de bois coupé pour le feu, d'objets…).
+\df Classificateur: une brassée (de bois coupé pour le feu, d'objets…).
 \gf |fg{clf}.brassées
 \xv ʈʂʰɯ˧-qɑ˥
 \xe this armful
@@ -49346,7 +49358,7 @@
 \cf qʰv̩˧tʰv̩#˥2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> vérifié en 2017: le ton est bien: #H et non H$. Auparavant: avais noté: ton H$. Ce qui a mis la puce à l'oreille : le classificateur est au ton #H.
+\nt <type="hist" langue="fra" print="n"> vérifié en 2017: le ton est bien: #H et non H$. Auparavant: avais noté: ton H$. Ce qui a mis la puce à l'oreille: le classificateur est au ton #H.
 \ton #H
 \lc qʰv̩˧tʰv̩˧
 \so <print="n"> F4
@@ -49882,7 +49894,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" langue="fra" print="n"> vérifié en 2011: n'est pas kwɤ mais kwɑ; avais souvent noté qwæ.mæ, du fait d'une harmonie vocalique régressive (phonétique, et partielle seulement) depuis la 2e syllabe.
-\nt <type="hist" langue="fra" print="n"> question de 2016 : vérifier à nouveau : initiale /q/ ou /k/? Hypothèse au vu de l'état du système : /k/. Réponse 2017: c'est bien un /q/ initial. Cette syllabe vient de: qwɤ 'foyer'; l'harmonie vocalique est totale, mais la racine 'foyer' reste bien identifiable pour la locutrice.
+\nt <type="hist" langue="fra" print="n"> question de 2016: vérifier à nouveau: initiale /q/ ou /k/? Hypothèse au vu de l'état du système: /k/. Réponse 2017: c'est bien un /q/ initial. Cette syllabe vient de: qwɤ 'foyer'; l'harmonie vocalique est totale, mais la racine 'foyer' reste bien identifiable pour la locutrice.
 \ton #H
 \so <print="n"> F4
 \pdv kʰwɤ˥
@@ -51104,7 +51116,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv ɖɯ˧-v̩˧ ɖɯ˧-ʁæ˩bæ˩
 \xe to each, one plate(ful)! (Description of how food was handed out during Na meals)
 \xn 一人一盘！（来描述摩梭人传统分饭的做法）
-\xf Une assiette chacun! (Description de la façon dont la nourriture était distribuée dans le temps : chacun une assiette)
+\xf Une assiette chacun! (Description de la façon dont la nourriture était distribuée dans le temps: chacun une assiette)
 \xc PHONO
 \dt 30/Apr/2017
 
@@ -52148,7 +52160,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁo˩ɖɯ˩so˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" langue="fra" print="n"> (tons confirmés par F4 en mai 2008) vérifié en 2017 : est : L+H#, //ʁo˩ɖɯ˩so˥//; auparavant noté L.L.M
+\nt <type="hist" langue="fra" print="n"> (tons confirmés par F4 en mai 2008) vérifié en 2017: est: L+H#, //ʁo˩ɖɯ˩so˥//; auparavant noté L.L.M
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -60342,7 +60354,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" print="n"> (avant 2009, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était : “qui saccage tout")
+\nt <type="hist" langue="fra" print="n"> (avant 2009, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était: “qui saccage tout")
 \np <langue="fra"> vérifié: initiale est bien /k/, pas uvulaire
 \ton MH#
 \lc ʈæ˧kwæ˧˥
@@ -60741,7 +60753,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" langue="fra" dom="phono" print="n"> Vérifier : ʈæ˧, ou tɑ˧? Avant 2016: noté /tæ˧pv̩˩/. Vérifié soigneusement en 2017: est: |fv{tæ˧pv̩˩}, non |fv{tɑ˧pv̩˩} ni |fv{ʈæ˧pv̩˩}. Ce mot fournit le seul exemple de la syllabe |fv{tæ} en na de Yongning. Une rétroflexion est relevée (par erreur) au fil de l'écoute de textes: ne reconnaissant que les syllabes /tɑ/ et /ʈæ/, j'étais amené à corriger la consonne (en rétroflexe) au vu de la voyelle (qui est clairement /æ/ et non /ɑ/). Corrigé le 3 juillet 2024 au fil de la vérification du dictionnaire, rétablissant /tæ˧pv̩˩/: voir enregistrement de ce jour-là.
+\nt <type="hist" langue="fra" dom="phono" print="n"> Vérifier: ʈæ˧, ou tɑ˧? Avant 2016: noté /tæ˧pv̩˩/. Vérifié soigneusement en 2017: est: |fv{tæ˧pv̩˩}, non |fv{tɑ˧pv̩˩} ni |fv{ʈæ˧pv̩˩}. Ce mot fournit le seul exemple de la syllabe |fv{tæ} en na de Yongning. Une rétroflexion est relevée (par erreur) au fil de l'écoute de textes: ne reconnaissant que les syllabes /tɑ/ et /ʈæ/, j'étais amené à corriger la consonne (en rétroflexe) au vu de la voyelle (qui est clairement /æ/ et non /ɑ/). Corrigé le 3 juillet 2024 au fil de la vérification du dictionnaire, rétablissant /tæ˧pv̩˩/: voir enregistrement de ce jour-là.
 \nt <type="hist" langue="fra" dom="ton" print="n"> Tons vérifiés.
 \ton L#
 \lc tæ˧pɻ̩˩
@@ -62719,7 +62731,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf zo˩-bv̩˥-li˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" langue="fra" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question : pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
+\nt <type="hist" langue="fra" print="n"> avais d'abord interprété comme 前时刻, ce qui avait amené Roselle à soulever la question: pourquoi l'initiale de la 3e syllabe serait-elle /k/ et non /kʰ/? La réponse est donnée en mai 2018: il s'agit de l'expression qui veut dire 'le monde entier, la terre entière, tout le monde'.
 \ton L
 \so <print="n"> F4
 \de The whole world, everyone
@@ -63192,7 +63204,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to settle
 \xn 说好、决定
 \xf fixer; arrêter; décider que
-\xc parfois remplacé par l'emprunt |fn{定}
+\xc <dom="sem" langue="fra"> Le verbe peut être remplacé, dans cet emploi, par l'emprunt |fn{定}.
+\xc <dom="sem" langue="eng"> In this context, the verb can be replaced by the loan |fn{定}.
+\xc <dom="sem" langue="fra"> 在这种语境，动词可以用借词‘定’来代替。
 \xv le˧-ʐwɤ˩ | tʰi˧-tɕɯ˧-ɲi˥-tsɯ˩!
 \xe It's settled!
 \xn 说好了！ / 决定好了！
@@ -63740,8 +63754,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe there is some fog, there is some mist
 \xn 有雾
 \xf il y a de la brume
-\xc <langue="fra"> fv/mv̩˥/: n'est pas “ciel" mais “souffler", comme dans |fv{/mv̩˧ mv̩˥} ‘souffler sur le feu'
-\dt 24/Jul/2017
+\xc <langue="fra" dom="sem"> /|fv{mv̩˥}/: n'est pas “ciel" mais “souffler", comme dans |fv{/mv̩˧ mv̩˥} ‘souffler sur le feu'.
+\xc <langue="eng" dom="sem"> The syllable /|fv{mv̩˥}/ is not the morpheme for “sky": it is the verb “to blow", as in  |fv{/mv̩˧ mv̩˥} ‘to blow on the fire'.
+\xc <langue="cmn" dom="sem"> 此处的/|fv{mv̩˥}/不是‘天’而是‘吹’（|fv{/mv̩˧ mv̩˥}‘吹在火上’的‘吹’）。
 
 \lx tɕʰɯ˧sɯ˥
 \sf <nb="B"> 1096b
@@ -64706,7 +64721,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tjɤ˩˥ʂɯ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"><langue="fra"> 2015 : aborde directement la question de la variation de la voyelle: hésitation observée entre /e/ ('plus chinois') et /ɤ/ ('plus intégré') dans les réalisations. A cette date, ‘téléphone' était noté avec /jɤ/ et ‘télévision' avec /je/, alors que la syllabe est la même dans le mot chinois emprunté (|fn{电}). Une harmonie vocalique entrerait-elle en jeu? Cherche aussi à établir le ton de ce mot: LM+MH? LM+#H? Réponse: toutes les réalisations tonales que je propose sont acceptées: /tjɤ˧ʂɯ˧/, /tjɤ˩˥ʂɯ˧/, /tjɤ˧ʂɯ˧˥/. Avec le verbe copule, la même fluctuation est observée: /tje˧ʂɯ˧ ɲi˥/, /tje˧˥ʂɯ˧ ɲi˥/. La même fluctuation est également observée pour la voyelle. Conclusion: les mots comme celui-ci ne sont pas bien intégrés: ils n'ont pas acquis de forme na bien précise et restent perçus comme des mots chinois.
+\nt <type="hist" langue="fra" print="n"><langue="fra"> 2015: aborde directement la question de la variation de la voyelle: hésitation observée entre /e/ ('plus chinois') et /ɤ/ ('plus intégré') dans les réalisations. A cette date, ‘téléphone' était noté avec /jɤ/ et ‘télévision' avec /je/, alors que la syllabe est la même dans le mot chinois emprunté (|fn{电}). Une harmonie vocalique entrerait-elle en jeu? Cherche aussi à établir le ton de ce mot: LM+MH? LM+#H? Réponse: toutes les réalisations tonales que je propose sont acceptées: /tjɤ˧ʂɯ˧/, /tjɤ˩˥ʂɯ˧/, /tjɤ˧ʂɯ˧˥/. Avec le verbe copule, la même fluctuation est observée: /tje˧ʂɯ˧ ɲi˥/, /tje˧˥ʂɯ˧ ɲi˥/. La même fluctuation est également observée pour la voyelle. Conclusion: les mots comme celui-ci ne sont pas bien intégrés: ils n'ont pas acquis de forme na bien précise et restent perçus comme des mots chinois.
 \ton LH.M
 \so <print="n"> F4
 \va <speaker="F4"> tjɤ˧ʂɯ˧, tjɤ˩ʂɯ˧˥, tje˩˥ʂɯ˧, tje˧ʂɯ˧, tje˩ʂɯ˧˥
@@ -64737,7 +64752,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ge short_video
 \dn 短视频。取自北京微播视界科技有限公司开发的抖音视频平台（国际版：TikTok）的名称。抖音在2世纪20年代非常流行，“拍个抖音”成为“拍短视频”的流行说法。
 \gn 短视频
-\df Vidéo courte. Du nom de la plate-forme vidéo Douyin (version internationale : TikTok) développée par Beijing Weibao Vision Technology Co, Ltd. Douyin était très à la mode dans les années 2020, et «tourner un Douyin» est rapidement devenu un synonyme de «tourner une vidéo courte».
+\df Vidéo courte. Du nom de la plate-forme vidéo Douyin (version internationale: TikTok) développée par Beijing Weibao Vision Technology Co, Ltd. Douyin était très à la mode dans les années 2020, et «tourner un Douyin» est rapidement devenu un synonyme de «tourner une vidéo courte».
 \gf vidéo_courte
 \xv to˧ʝi˧ pʰæ˩
 \xe to shoot a short video, to make a video to post on the Douyin platform
@@ -65747,13 +65762,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 母鸽子
 \xf pigeon femelle
 \xc <dom="ton"> H#-
-\xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-mi˩/}
 \xv tʰo˧ʐv̩˥-pʰv̩˩
 \xe male pigeon
 \xn 公鸽子
 \xf pigeon mâle
 \xc <dom="ton"> H#-
-\xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-mi˩/}
 \xv tʰo˧ʐv̩˥-zo˩
 \xe baby pigeon
 \xn 小鸽子
@@ -67119,7 +67134,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
-\nt <type="hist" langue="fra" print="n"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit : /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
+\nt <type="hist" langue="fra" print="n"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit: /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
 \np <langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/
 \ton M
 \lc tsʰe˧
@@ -67436,7 +67451,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe the third day of the month
 \xn 初三
 \xf le 3e du mois
-\xc <langue="fra"> en débit rapide, le glissando sur la 2e syllabe est estompé
+\xc <langue="fra" dom="phono"> En débit rapide, le glissando sur la deuxième syllabe est estompé, ou du moins difficile à percevoir.
 \xv tsʰe˧do˧-ŋwɤ˥ɲi˩
 \xe the 5th day of the month
 \xn 初五
@@ -67454,7 +67469,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe the 11th day of the month
 \xn 十一日
 \xf le 11e jour du mois
-\xc <type="hist" print="n"> M18: tsʰe˧do˧tsʰe˩ɖɯ˩ɲi˩˧
+\xc <type="hist" print="n" dom="dialect"> M18: /tsʰe˧do˧tsʰe˩ɖɯ˩ɲi˩˧/
 
 \lx tsʰe˩ɖɯ˩
 \sf <nb="B"> 821
@@ -68578,7 +68593,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to set up (vertically)
 \xn 立起来
 \xf (re)lever, (re)mettre d'aplomb
-\xc <type="hist" print="n"> avant 2009, noté: /†gɤ˩-tsɯ˥ tʰi˩-tsɯ˥/
+\xc <type="hist" print="n" langue="fra"> avant 2009, noté: /†gɤ˩-tsɯ˥ tʰi˩-tsɯ˥/
 \dt 08/Oct/2015
 
 \lx tsʰi˧β
@@ -69115,7 +69130,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe It's okay! / It's arranged! / Things have been made good!
 \xn 好了！ / 弄好了！ / 成！
 \xf c'est bon, c'est arrangé!
-\xv ə˧-tsɤ˥? - tsɤ˧-ʝi˧! corrigé de : ə˩-tsɤ˧?
+\xv ə˧-tsɤ˥? - tsɤ˧-ʝi˧! corrigé de: ə˩-tsɤ˧?
 \xe Is it all right? (e.g. about microphone position for recording) - Okay, fine! / Yes! (Indication of acquiescence to an instruction)
 \xn 行！ / 好的！（表示同意或接受命令）
 \xf OK! C'est bon! (formule très courante, pour indiquer son acquiescement à une instruction reçue)
@@ -69127,7 +69142,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Are yesterday's recordings OK? / Did yesterday's recordings go well?
 \xn 昨天的（录音），没问题吗？／质量可以吗？
 \xf Est-ce que les enregistrements d'hier sont bons?
-\xc <langue="fra">Question posée au début d'une séance d'enregistrement. L'enquêteur avait négligé de donner des nouvelles du "dé-rushage" de la séance d'enregistrement de la veille. La locutrice demande confirmation du fait que tout s'était bien passé la veille.
+\xc <langue="fra" dom="sem"> Question posée au début d'une séance d'enregistrement. L'enquêteur avait négligé de donner des nouvelles du «dé-rushage» de la séance d'enregistrement de la veille. La locutrice demande confirmation du fait que tout s'était bien passé la veille.
+\xc <langue="eng" dom="sem"> A question asked at the start of a recording session. The interviewer had neglected to provide information about the ‘de-rushing’ of the previous day's recording session. The speaker asks for confirmation that everything went well the day before.
+\xc <langue="cmn" dom="sem"> 录音开始时提出的问题。语言学家忽略了说一下前一天录音环节的‘疏导’情况如何。发言人就问前一天是否一切顺利。
 \xv no˧ | mɤ˧-bi˧ mɤ˧-tsɤ˧!
 \xe It wouldn't be right for you not to go!
 \xn 你如果不去，就不对！ =你不能不去！
@@ -70438,8 +70455,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe this room
 \xn 这间
 \xf cette pièce
-\xc |fv{/†ʈʂʰɯ˧-tso˧˥/}
-\dt 27/Apr/2017
+\xc <dom="phono"> |fv{/†ʈʂʰɯ˧-tso˧˥/}
 
 \lx tsʰɤ˩α
 \sf <nb="B"> 99
@@ -70568,7 +70584,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe (We are) going to look for an auspicious day (for an event such as a wedding or the building of a house)
 \xn 要掐算一下日子
 \xf On va chercher un jour propice! (pour un événement tel qu'un mariage ou la construction d'une maison)
-\xc <type="hist" print="n"> sens indiqué par M18 en juin 2008
+\xc <type="hist" print="n" langue="fra"> Sens indiqué par M18 en juin 2008.
 \xv kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥ / kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥-ɻ̩˩
 \xe to look for an auspicious day for an important event; literally: “to count stars, to count days"
 \xn 掐算一下。直译：“算星星，算日子”。
@@ -70964,7 +70980,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> exemple /ʈæ˧ʂɯ˧-ɳɯ˧ | no˧-ki˥ | jɤ˩-ʐe˧ ɲi˩-tsɯ˩/ : corrigé en 2018 : est : /no˧-ki˧/, et non /no˧-ki˥/.
+\nt <type="hist" langue="fra" print="n"> exemple /ʈæ˧ʂɯ˧-ɳɯ˧ | no˧-ki˥ | jɤ˩-ʐe˧ ɲi˩-tsɯ˩/: corrigé en 2018: est: /no˧-ki˧/, et non /no˧-ki˥/.
 \nt <type="hist" langue="fra" print="n"> Roselle: “According to my understanding, ‘to say' would be a more accurate gloss."
 \ton MH
 \lc tsɯ˧˥
@@ -70996,7 +71012,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> ton : d'après son comportement après les verbes
+\nt <type="hist" langue="fra" print="n"> ton: d'après son comportement après les verbes
 \nt <dom="sem" langue="fra"> indique une source indirecte de connaissance (bouche à oreille): forme d'évidentiel indirect. Glosé comme “(discours) rapporté" à la suite de Martine Mazaudon (pour le tamang) et Liberty Lidz, même si en fait ce n'est pas précisément du discours rapporté/indirect du type “Untel a dit que…" mais seulement une mise à distance.
 \ton MH
 \lc tsɯ˧˥
@@ -71339,13 +71355,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe You think you're the government, hey?! (A criticism to people who keep telling others how they should behave, as if they lorded it over everyone else.)
 \xn 你像永宁土知府！ / 你是永宁土知府吧！（批评独断的人、一手包办的人）
 \xf Tu te prends pour le seigneur! (critique qu'on s'adressait aux gens qui se mêlaient de dicter leur conduite aux autres, comme s'ils étaient les maîtres des lieux)
-\xc avant 2018: noté /no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ni˩-zo˩/
+\xc <type="hist" print="n" langue="fra"> avant 2018: noté /no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ni˩-zo˩/
 \xv no˧ | ʈʂɯ˧fv̩˧-mi˧-ne˧-ʝi˥ | -zo˩!
 \xe You are the Princess of Yongning, hey?! (Criticism addressed to an overbearing woman)
 \xn 你好像是永宁大公主！ / 你好像是永宁知府女主人！（批评一个独断的女人）
 \xf Tu joues les princesses! (littéralement ‘les femmes du pouvoir’) Critique adressée à une femme qui prend de grands airs.
-\xc avant 2018: noté /no˧ | ʈʂɯ˧fv̩˧-mi˧-ni˧˥ | -zo˩/
-\dt 05/Jul/2017
+\xc <type="hist" print="n" langue="fra"> avant 2018: noté /no˧ | ʈʂɯ˧fv̩˧-mi˧-ni˧˥ | -zo˩/
 
 \lx ʈʂʰɯ˧gi#˥
 \sf <nb="B"> 902
@@ -71831,7 +71846,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> animal
 \ton #H
 \lc tsʰɯ˧zo˥
-\nt <type="hist" langue="fra" print="n"> ton corrigé en 2018 en H$; auparavant noté #H. Une invraisemblance avait été relevée par Roselle Dobbs en 2017 : avais noté tsʰɯ˧zo#˥ pour chevrette, et tsʰɯ˧zo˥$ pour chevreau. Il ne paraissait pas plausible que deux termes soient efficacement distingués par une différence de catégorie tonale souvent neutralisée en contexte. La première hypothèse avait été qu'il s'agissait d'un même terme admettant deux variantes tonales. Mais la réalisation avec ton #H est rejetée par F4 en 2018.
+\nt <type="hist" langue="fra" print="n"> ton corrigé en 2018 en H$; auparavant noté #H. Une invraisemblance avait été relevée par Roselle Dobbs en 2017: avais noté tsʰɯ˧zo#˥ pour chevrette, et tsʰɯ˧zo˥$ pour chevreau. Il ne paraissait pas plausible que deux termes soient efficacement distingués par une différence de catégorie tonale souvent neutralisée en contexte. La première hypothèse avait été qu'il s'agissait d'un même terme admettant deux variantes tonales. Mais la réalisation avec ton #H est rejetée par F4 en 2018.
 \so <print="n"> F4
 \va <speaker="M21"> tsʰɯ˧zu˧, ton d2a
 \pdv ɭɯ˧β
@@ -71846,7 +71861,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 母山羊羔与公山羊羔
 \xf chevrettes et chevreaux
 \xc <dom="ton"> H#
-\xc <type="hist" print="n"> sens vérifié en 2012
+\xc <type="hist" print="n" langue="fra" dom="sem"> Sens vérifié en 2012.
 \dt 07/Oct/2015
 
 \lx tsɯ˩α
@@ -72045,8 +72060,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Today's work is completed! It's finished!
 \xn 今天的工作完成了！就算完工了吧！
 \xf Le travail d'aujourd'hui… on tourne la page! Il est fini!
-\rf M18
 \xc <langue="fra" dom="dialect"> Énoncé refusé par F4.
+\xc <langue="eng" dom="dialect"> This phrasing is rejected by F4.
+\xc <langue="cmn" dom="dialect"> F4不用这样的说法。
+\rf M18
 
 \lx ʈʂʰv̩˩
 \hm 2
@@ -72493,7 +72510,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe The tooth is cured!
 \xn 牙补好了！
 \xf La dent est soignée! / La dent est réparée!
-\xc [læ˧-ʈʂwæ˧-ze˥]
+\xc <langue="fra" dom="phono"> Phonétiquement: [læ˧-ʈʂwæ˧-ze˥]
+\xc <langue="eng" dom="phono"> Phonetically: [læ˧-ʈʂwæ˧-ze˥]
+\xc <langue="cmn" dom="phono"> 实际发音：[læ˧-ʈʂwæ˧-ze˥]
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -72890,7 +72909,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体
 \xf |fg{accomp} 〜 |fg{pfv}
-\xc <langue="fra" dom="phono"> Phonétiquement: /|fv{læ˧-…}/
+\xc <langue="fra" dom="phono"> Phonétiquement: [|fv{læ˧-…}]
+\xc <langue="eng" dom="phono"> Phonetically: [|fv{læ˧-…}]
+\xc <langue="cmn" dom="phono"> 实际发音：[|fv{læ˧-…}]
 \xv hĩ˧-ɳɯ˩ | mɤ˧-dzɯ˥, | le˧-ʈʂʰwæ˧-ze˧! |
 \xe No one ate it, and now it's rotten! (About a water melon that was forgotten in the cupboard.)
 \xn 没人吃，就烂了！（一个西瓜被忘记在橱柜里，就腐烂了）
@@ -73140,7 +73161,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H.L
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> Question 2017 : le ton ne serait-il pas H.L? Essayer de le faire précéder de l'accompli /le…/. Attendu: M.H.L. Réponse: OUI, est H.L: mɤ˧-ʈʂwɤ˥ʈʂwɤ˩.
+\nt <type="hist" langue="fra" print="n"> Question 2017: le ton ne serait-il pas H.L? Essayer de le faire précéder de l'accompli /le…/. Attendu: M.H.L. Réponse: OUI, est H.L: mɤ˧-ʈʂwɤ˥ʈʂwɤ˩.
 \so <print="n"> F4
 \de To touch.
 \ge to_touch
@@ -73450,7 +73471,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tʰv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="comp" langue="nxq"> (hɑ˧) tʰv̩˥?
+\nt <dom="comp" langue="nxq"> (hɑ˧) tʰv̩˥?
 \ton MH
 \so <print="n"> F4
 \de To take charge of, to foot the bill (e.g. someone invites the whole village to a feast; that person provides the food, but does not necessarily do the cooking).
@@ -73922,13 +73943,17 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe I don't have the time.
 \xn 我没时间。
 \xf Je n'ai pas le temps.
-\xc <langue="fra"> Formule critiquée par F4: on dirait: “j'ai du travail, je suis occupé".
+\xc <langue="fra" type="dialect"> Formule critiquée par F4: on dirait: “j'ai du travail, je suis occupé".
+\xc <langue="eng" type="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I've got work to do, I'm busy”.
+\xc <langue="cmn" type="dialect"> F4指出，更贴切的表述是‘我有工作要做、我很忙’。
 \rf F5
 \xv njɤ˧ | tv̩˧tsʰɯ˧ dʑo˧.
 \xe I have time. / I have some free time. / I have the time.
 \xn 我有时间。
 \xf J'ai du temps libre. / J'ai le temps.
-\xc <langue="fra"> Formule critiquée par F4: on dirait: “je suis libre".
+\xc <langue="fra" type="dialect"> Formule critiquée par F4: on dirait: “je suis libre", en employant le mot |fv{mæ˧1}.
+\xc <langue="eng" type="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I'm free”, using the word |fv{mæ˧1}.
+\xc <langue="cmn" type="dialect"> F4指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
 \rf F5
 \sn 2
 \pdv ɭɯ˧β
@@ -74447,18 +74472,21 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv u˧=ɻ̩˩, ʈʂʰɯ˧=ɻ̩˩
 \xe My clan, his clan: two terms that stand in a relation of opposition
 \xn 我的人，他的人（有对立的两个联想复数代词）
-\xf mon clan, son clan : deux termes qui forment une opposition
-\xc Phonetically: [|fv{ʔu˧=ɻ̩˩}]
+\xf mon clan, son clan: deux termes qui forment une opposition
+\xc <dom="phono" langue="fra"> Réalisation phonétique: [|fv{ʔu˧=ɻ̩˩}]
+\xc <dom="phono" langue="eng"> Phonetic realization: [|fv{ʔu˧=ɻ̩˩}]
+\xc <dom="phono" langue="eng"> 实际发音：[|fv{ʔu˧=ɻ̩˩}]。
 \xv u˧ɻ̩˩ | ə˧si˧
 \xe my great-grandmother
 \xn 我家祖母
 \xf mon arrière-grand-mère
-\xc Phonetically: [|fv{ʔu˧=ɻ̩˩}]
 \xv u˧=ɻæ˩, ʈʂʰɯ˧=ɻæ˩
 \xe Us, them: two terms that stand in a relation of opposition
-\xc 我们，他们（有对立的两个复数代词）
-\xf Nous autres, eux : deux termes qui forment une opposition.
-\xc Phonetically: [|fv{ʔu˧=ɻæ˩}]
+\xn 我们，他们（有对立的两个复数代词）
+\xf Nous autres, eux: deux termes qui forment une opposition.
+\xc <dom="phono" langue="fra"> Réalisation phonétique: [|fv{ʔu˧=ɻæ˩}]
+\xc <dom="phono" langue="eng"> Phonetic realization: [|fv{ʔu˧=ɻæ˩}]
+\xc <dom="phono" langue="cmn"> 实际发音：[|fv{ʔu˧=ɻæ˩}]。
 
 \lx v̩˩
 \or vuq
@@ -74616,19 +74644,19 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 母鸟
 \xf oiseau femelle
 \xc <dom="ton"> L
-\xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-mi˩/}
 \xv v̩˩dze˩-pʰv̩˩
 \xe male bird
 \xn 公鸟
 \xf oiseau mâle
 \xc <dom="ton"> L
-\xc |fg{clf}: |fv{/ɖɯ˧-mi˩/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-mi˩/}
 \xv v̩˩dze˩-zo˩
 \xe baby bird
 \xn 小鸟
 \xf petit oiseau
 \xc <dom="ton"> L
-\xc |fg{clf}: |fv{/ɖɯ˧-ɭɯ˧/}
+\xc <dom="synt"> |fg{clf}: |fv{/ɖɯ˧-ɭɯ˧/}
 
 \lx v̩˩dze˩-kʰv̩˩
 \sf <nb="B"> 1906
@@ -74640,7 +74668,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra" print="n"> Vérifié: l'initiale n'est pas une uvulaire: /‡qʰv̩/.
-\np <langue="fra"> On ne peut extraire de cette expression, ‘nid d'oiseau’, le ton du monosyllabe ‘nid’, du fait de la neutralisation neutralisation tonale dans les noms composés lorsque le déterminant porte un ton L (anciennement nommé ton d3). Le ton de ce monosyllabe a été établi séparément.
+\nt <langue="fra" dom="phono" type="hist" print="n"> On ne peut extraire de cette expression, ‘nid d'oiseau’, le ton du monosyllabe ‘nid’, du fait de la neutralisation tonale dans les noms composés lorsque le déterminant porte un ton L. Le ton de ce monosyllabe a été établi séparément.
 \ton L
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -75327,7 +75355,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv le˧-wɤ˩~wɤ˩ | le˧-tsʰɯ˩-ze˩.
 \xe We bypassed (the obstacle) and thus we were able to arrive. / We arrived after a detour.
-\xc 我们绕了（障碍）就到了。
+\xn 我们绕了（障碍）就到了。
 \xf On est arrivé en faisant un détour. / On a fini par arriver au moyen d'un détour.
 \sn 2
 \de To take a stroll, to go for a walk. The semantic extension from the original meaning, ‘to go around', arguably has to do with the non-linear nature of the process: going around an obstacle means improvising according to the constraints of the terrain, and the route around it is neither linear nor fast. The process therefore has semes in common with 'faire un tour, se balader'.The extension from the original meaning ‘to bypass’ can be seen as: to walk in a way that is not straight from one point to another, and hence, to wander around leisurely.
@@ -75338,7 +75366,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf se_promener
 \xv ɖɯ˧-wɤ˩~wɤ˩ | ə˧-sɯ˩kv̩˩ | ɖɯ˧-se˧-ɻ̩˧ ə˥-bi˩?
 \xe Shall we go for a stroll?
-\xc 咱们去散散步，好不好？
+\xn 咱们去散散步，好不好？
 \xf On va faire un tour? / Tu viens faire une petite promenade?
 
 \lx ʐ
@@ -75607,7 +75635,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Are you distant from him? Is there distance (between you)? - There is not much distance to speak of! We are not distant! (=we are close friends)
 \xn 你们很熟吗？ - 不很熟！
 \xf tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne somme pas éloignés!
-\xc <langue="fra"> avant 2015: noté: /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/; dans ce contexte, il est plus approprié d'unir en un seul groupe tonal.
+\xc <langue="fra" type="hist" print="n" dom="phono"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
 \rf M18
 
 \lx ʐæ˩sɯ˩
@@ -75634,10 +75662,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf feutre_grossier
 \xv ʐæ˩sɯ˩-ʈʰæ˩qʰwɤ˧
 \xe felt skirt
-\xf 披毡
+\xf 披毡短裙
 \xf jupe en feutre
 \rf M18
 \xc <langue="fra" type="dialect"> Expression refusée par F4: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
+\xc <langue="fra" type="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
+\xc <langue="cmn" type="dialect"> F4拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
 \sf <nb="B"> 415c
@@ -76239,7 +76269,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra" print="n"> (problématique en forme de citation; le ton est donc un peu incertain; ton m4b: déduit de la périphrase /kʰv̩˧mæ˧ʑi˩/ “maison des voleurs"="prison")
-\nt <type="hist" langue="fra" print="n"> tons vérifiés : éliciter avec tous les numéraux. Jusqu'en 2016, était classé comme nom; et indiqué un ton MH. Est en fait un classificateur. Est soit Lb, soit Lc (test: trois familles: so˧-ʑi˧). Vérifié en 2017: est bien: Lβ.
+\nt <type="hist" langue="fra" print="n"> tons vérifiés: éliciter avec tous les numéraux. Jusqu'en 2016, était classé comme nom; et indiqué un ton MH. Est en fait un classificateur. Est soit Lb, soit Lc (test: trois familles: so˧-ʑi˧). Vérifié en 2017: est bien: Lβ.
 \ton Lβ
 \lc ɖɯ˧ ʑi˩
 \so <print="n"> F4
@@ -76343,7 +76373,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 吃了猴子
 \xf (sujet non spécifié: un tigre…) a mangé (le) singe
 \xc PHONO
-\xc <type="hist" langue="fra" print="n"> Le comportement tonal de ce nom comme objet du verbe “manger" a d'abord paru inattendu: un schéma L.H, alors que ce qui était attendu était un schéma L.L. Il s'est ensuite avéré que les deux schèmes tonals, L.H et L.L, étaient tous deux attestés pour la combinaison d'un nom au ton LH et d'un verbe au ton H.
+\xc <type="hist" langue="fra" print="n" dom="ton"> Le comportement tonal de ce nom comme objet du verbe “manger" a d'abord paru inattendu: un schéma L.H, alors que ce qui était attendu était un schéma L.L. Il s'est ensuite avéré que les deux schèmes tonals, L.H et L.L, étaient tous deux attestés pour la combinaison d'un nom au ton LH et d'un verbe au ton H.
 \xv ʑi˩ hwæ˥-ze˩
 \xe …has bought (a/the) monkey
 \xn 买了猴子
@@ -77128,7 +77158,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe the universe
 \xn 宇宙
 \xf l'univers
-\xc <type="hist" print="n"> sens: l'univers entier; mot fourni par M18; avant juillet 2012: analysé comme /†sɑ˧zo˩ | bv̩˧ɭɯ˩/; avant 2013: noté /sɑ˧ | zo˩bv̩˥ɭɯ˩/, avec une syllabe erronée, au lieu de /li/. M18 traduit par: 天地的空间. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩; on peut dire simplement: zo˩bv̩˧ɭɯ˩.
+\xc <langue="fra" type="hist" print="n"> Sens: l'univers entier. Modifié en juillet 2012 de /†sɑ˧zo˩ | bv̩˧ɭɯ˩/ en /sɑ˧ | zo˩bv̩˥ɭɯ˩/. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩. On peut dire simplement: zo˩bv̩˧ɭɯ˩. Corrigé en 2013 la syllabe /ɭɯ/ en /li/. M18 traduit par: 天地的空间.
+\rf M18
+\rf F4
 
 \lx zo˧ɖɯ#˥
 \or ssoddee
@@ -78824,7 +78856,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 揉一块（面团）
 \xf pétrir un morceau
 \xc PHONO
-\xc <langue="fra"> combinaison élicité pour confirmer l'appartenance de ce verbe à la catégorie L et non LM
+\xc <langue="fra" dom="phono"> Cette combinaison a été élicitée afin de déterminer si ce verbe appartenait à la catégorie //L// ou à la catégorie //LM//. Elle établit l'appartenance du verbe à la catégorie L.
+\xc <langue="eng" dom="phono"> This combination was used to determine whether the verb belonged to the //L// category or the //LM// category. It establishes that the verb belongs to the //L// category.
+\xc <langue="cmn" dom="phono"> 这一组合用于确定动词的本调为L还是LM。结果表明，该动词属于L类。
 \sn 2
 \de To crease, to crumple, to wrinkle.
 \ge to_crease
@@ -79259,8 +79293,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 马驹子与母马
 \xf poulain et jument
 \xc <dom="ton"> #H- / H#
-\xc <langue="fra"> variante: |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, ton H#; réalisé par F4 mais lorsqu'on lui laisse le choix elle exprime une préférence pour l'autre réalisation.
-\dt 06/Oct/2015
+\xc <langue="fra" dom="ton"> La variante |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, au ton H#, apparaît parmi les réalisations de la locutrice F4. Elle exprime néanmoins une préférence pour l'autre réalisation, au ton #H-.
+\xc <langue="eng" dom="ton"> The variant |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, in the H# tone, appears among the realizations by speaker F4. She nevertheless expresses a preference for the other realization, in the #H- tone.
+\xc <langue="cmn" dom="ton"> H#调变体|fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}出现在F4的发音中。不过，她表示更喜欢另一种变音，即#H-音调变体。
 
 \lx ʐwæ˧-zɯ#˥
 \sf <nb="2011"> 516
@@ -79364,7 +79399,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 称东西
 \xf peser des choses
 \xc PHONO
-\xc <langue="fra"> idem F5
+\xc <langue="fra" type="hist" print="n"> Même réalisation chez la locutrice F5.
 \xv ʁo˧do˧ ʐwæ˧
 \xe to weigh walnuts
 \xn 称核桃
@@ -79736,7 +79771,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe behind the daughter
 \xn 女儿后面
 \xf derrière la fille
-\xc <langue="fra"> les tons sont jugés identiques à ceux de: |fv{/bo˩-gi˥/}
+\xc <langue="fra" type="hist" print="n" dom="ton"> Les tons sont jugés identiques à ceux de l'exemple précédent, |fv{/bo˩-gi˥/} ‘derrière le cochon’.
 \xv ʐwæ˧-gi˥
 \xo ruae ggi
 \xe behind the horse
@@ -79936,6 +79971,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 你教我。
 \xf Tu m'apprends des choses. / Tu m'enseignes des choses.
 \xc <dom="ton" langue="fra"> L'expression |fg{1sg-dat} porte ici un schéma tonal M.M (…|fv{njɤ˧-ki˧}), qui est son schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The expression |fg{1sg-dat} carries an M.M tonal pattern (...|fv{njɤ˧-ki˧}). Such is its regular tonal pattern.
+\xc <dom="ton" langue="cmn"> 由第一人称代词+与格组成的短语带有一个M.M调式（|fv{njɤ˧-ki˧}），这是它的正则调式。
 
 \lx -kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
@@ -79963,7 +80000,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe near me, around me
 \xn 我的周围
 \xf à côté de moi, autour de moi
-\xc <langue="fra"> emploi nominalisé
+\xc <langue="fra" dom="morpho"> Emploi nominalisé de la postposition.
+\xc <langue="eng" dom="morpho"> Nominalized use of the postposition.
+\xc <langue="fra" dom="morpho"> 后置词的名词化用法。
 \rf F5
 \xv ʐɤ˩mi˩-kʰi˩~kʰi˩ se˩˥
 \xe to walk on the roadside, to walk by the side of the road
@@ -80012,7 +80051,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> vérifié: initiale vélaire et non uvulaire
+\nt <type="hist" langue="fra" print="n"> Vérifié: initiale vélaire et non uvulaire dans /kwɤ˧/.
+\nt <type="hist" langue="fra" print="n"> Première notation: /tɕɯ/.
 \ton H#
 \lc kwɤ˧tɕɯ˥
 \so <print="n"> F4
@@ -80030,7 +80070,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Because (s)he is ill, (s)he does not eat.
 \xn 他病了，吃不下饭。
 \xf Comme il est malade, il ne mange pas.
-\xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: |fv{/†ʈʂʰɯ˧ gu˩ kwɤ˩-tɕi˧, hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: |fv{/†ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="eng"> The |fv{/lɑ/} portion cannot be removed: |fv{/†ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="cmn"> 不能省略|fv{/lɑ/}这个音节：|fv{/†ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}。
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | wɤ˩˥ | lɑ˧hɑ˥ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥.
 \xe After he said that, he went on to say something different / he changed his mind and said something quite different.
 \xn 他这样说完以后，又讲了些其它的。
@@ -80213,7 +80255,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe thus, in this way
 \xn 这样
 \xf ainsi, de la sorte
-\xc <langue="fra"> la 1e syllabe est le démonstratif proximal, /ʈʂʰɯ˥/.
+\xc <langue="fra"> La première syllabe de cette expression est le démonstratif proximal, /|fv{ʈʂʰɯ˥}/.
 \xv tʰv̩˧-kʰv̩˩-ne˩-ʝi˩-zo˩
 \xe like that year
 \xn 像那年一样、就像那年
@@ -80230,11 +80272,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe like that time
 \xn 像那次一样、就像那次
 \xf comme cette fois-là, de la même façon que cette fois-là
-\xv tʰv̩˧ɲi˧-ne˧-ʝi˥ne˧-ʝi˥-zo˩
+\xv tʰv̩˧ɲi˧-ne˧-ʝi˥-zo˩
 \xe like that day
 \xn 像那天一样、就像那天
 \xf comme ce jour-là, de la même façon que ce jour-là
-\xc <langue="fra"> avant octobre 2013: noté: /tʰv̩˧ɲi˧-ni˧˥-zo˩/. Il y a contraction phonétique, mais pas encore phonologique: la réduction syllabique n'est pas totale.
+\xc <langue="fra" dom="phono"> Il y a contraction phonétique de /|fv{ne.ʝi}/, réalisé phonétiquement proche de [|fv{ni}]. Néanmoins, cette contraction n'est pas encore lexicalisée: les deux syllabes demeurent identifiables pour la locutrice.
+\xc <langue="eng" dom="phono"> Il y a contraction phonétique de /|fv{ne.ʝi}/, réalisé phonétiquement proche de [|fv{ni}]. Néanmoins, cette contraction n'est pas encore lexicalisée: les deux syllabes demeurent identifiables pour la locutrice.
+\xc <langue="cmn" dom="phono"> /|fv{ne.ʝi}/的实际发音接近 [|fv{ni}]。然而，这一缩略发音尚未被词汇化：标准发音合作人仍能辨认出/|fv{ne}/与/|fv{ʝi}/这两个音节。
+\xc <langue="fra" dom="phono" type="hist" print="n"> Corrigé en octobre 2013 de /tʰv̩˧ɲi˧-ni˧˥-zo˩/ en /tʰv̩˧ɲi˧-ne˧-ʝi˥-zo˩/.
 \rf M18
 
 \lx -ɲi˩
@@ -80282,7 +80327,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe like ashes, i.e. grey-coloured
 \xn 灰色
 \xf comme de la cendre = de couleur grise
-\xc <langue="fra"> forme modifiée de |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}; c'est actuellement |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} qui est le plus courant, bien que le mot ‘cendre', hors de cette expression, conserve sa forme |fv{/lwɤ˩/}.
+\xc <langue="fra" dom="phono"> Forme modifiée de |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}. C'est actuellement |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} qui est le plus courant, bien que le mot ‘cendre', hors de cette expression, conserve sa forme |fv{/lwɤ˩/}.
+\xc <langue="eng" dom="phono"> A modified form of |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}. It is currently |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} that is most common, even though the word ‘ash’, outside this expression, retains its |fv{/lwɤ˩/} form.
+\xc <langue="cmn" dom="phono"> |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}变来的。目前最常见的是|fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/}。在这个短语之外，‘灰’仍保留其|fv{/lwɤ˩/}发音。
 \xv sɯ˧pɻ̩˩-ni˩gv̩˩
 \xe like a urinary bladder, in the shape of a bladder
 \xn 像膀胱
@@ -80299,12 +80346,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to have a habit of drinking tea, to be a tea-drinker
 \xn 习惯喝茶、有喝茶的习惯
 \xf avoir l'habitude de boire du thé, être un buveur de thé
-\xc <langue="fra"> Tons vérifiés à plusieurs reprises, notamment en 2013.
+\xc <type="hist" print="n" dom="ton" langue="fra"> Tons vérifiés à plusieurs reprises, notamment en 2013.
 \xv ʈʂʰɯ˧ | ʂɯ˧-bi˧-ni˩gv̩˩!
-\xe It looks like it's going to die! / It looks as if it were going to die!
+\xe It looks like it's going to die! / It looks as if it (/he/she) were going to die!
 \xn 他好像要死了！
 \xf On dirait qu'il/elle va mourir!
 \xc <langue="fra"> Peut se dire d'une plante, mais aussi d'un être humain. (Élicité lors de la transcription de Agriculture.70.)
+\xc <langue="eng"> Can refer to a plant, but also to a human being. (Elicited during transcription of Agriculture.70.)
+\xc <langue="cmn"> 可以指植物，也可以指人。
 
 \lx -no˧˥
 \or noq
@@ -80761,7 +80810,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe this household; the people of this family
 \xn 这家的人
 \xf les gens de cette famille; cette maisonnée-ci
-\xc <langue="fra"> Dans la génération qui suit celle de la locutrice principale, l'expression tend à se simplifier en: |fv{/ʈʂʰɯ˧-ʑi˥/}.
+\xc <langue="fra" dom="synt"> Dans la génération qui suit celle de la locutrice principale, l'expression tend à se simplifier en |fv{/ʈʂʰɯ˧-ʑi˥/}.
+\xc <langue="eng" dom="synt"> In the generation following that of the main speaker, the expression tends to simplify to |fv{/ʈʂʰɯ˧-ʑi˥/}.
+\xc <langue="cmn" dom="synt"> 在标准发音人之后的世代中，该短语趋于简化为：|fv{/ʈʂʰɯ˧-ʑi˥/}。
 
 \lx -se˩
 \sf <nb="2011"> 3366
@@ -80808,11 +80859,16 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe full of grease, greasy, slippery with grease
 \xn 油乎乎、油腻腻、滑腻
 \xf huileux, tout poisseux de graisse
+\xc <langue="fra" dom="ton"> ton du nom: L
+\xc <langue="eng" dom="ton"> tone of the noun: L
+\xc <langue="cmn" dom="ton"> 名词的声调：L
 \xv dze˧-ʂo˧~ʂo˥
 \xe full of sugar, sugary all over
 \xn 甜乎乎
 \xf plein de sucre
-\xc <langue="fra"> ton du nom: H
+\xc <langue="fra" dom="ton"> ton du nom: H
+\xc <langue="eng" dom="ton"> tone of the noun: H
+\xc <langue="cmn" dom="ton"> 名词的声调：H
 \xv ɲi˧to˧ ɖɯ˧-ɭɯ˧ | dze˧-ʂo˧~ʂo˥
 \xe (her/his) whole mouth was slippery with sugar
 \xn 他嘴巴被糖粘得黏黏的
@@ -80821,17 +80877,23 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe full of wood, replete with wood, entirely made of wood
 \xn 有很多木头，如：来形容一个新建的木头房子：面面都是新鲜木头，给人的感觉是“木头呼呼”
 \xf plein de bois, tout plein de (beau) bois; ex.: d'une maison de bois nouvellement construite: jusque dans chaque recoin, c'est de bon bois, c'est «pur bois».
-\xc <langue="fra"> ton du nom: H
+\xc <langue="fra" dom="ton"> ton du nom: H
+\xc <langue="eng" dom="ton"> tone of the noun: H
+\xc <langue="cmn" dom="ton"> 名词的声调：H
 \xv ʂe˧-ʂo˧~ʂo˥
 \xe full of meat, replete with meat, with lots of meat (e.g. a dish contains lots of meat, not just a few small chippings drowned in vegetables)
 \xn 肉乎乎：比如一个菜含有很多肉，而不是一点点肉淹在一大堆蔬菜里面。
 \xf plein de viande: par exemple, un plat qui contient de la viande en abondance, pas juste quelques petits bouts noyés dans une masse de légumes
-\xc <langue="fra"> ton du nom: H
+\xc <langue="fra" dom="ton"> ton du nom: H
+\xc <langue="eng" dom="ton"> tone of the noun: H
+\xc <langue="cmn" dom="ton"> 名词的声调：H
 \xv hĩ˧-ʂo˧~ʂo˥
 \xe full of people, densely populated (for instance, the city of Lijiang in the 2020s is full of people, compared with the sparsely populated Yongning plain of the past century)
 \xn 人多多，人很多（如：2020年代的丽江市中心，人很多，与上世纪的永宁坝大不同）
 \xf plein de gens, densément peuplé (exemple: la ville de Lijiang dans les années 2020, aux antipodes de la plaine de Yongning au siècle dernier, dont les hameaux étaient très éloignés)
-\xc <langue="fra"> ton du nom: H
+\xc <langue="fra" dom="ton"> ton du nom: H
+\xc <langue="eng" dom="ton"> tone of the noun: H
+\xc <langue="cmn" dom="ton"> 名词的声调：H
 \xv ʈʂʰɤ˧tsɯ˧-ʂo˧~ʂo˩
 \xe full of cars
 \xn “车子乎乎”：车子很多，车水马龙（2020年代的丽江，小区里面到处有停车）
@@ -80844,17 +80906,23 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe full of mountains, covered with mountains, with mountains on all sides
 \xn “山乎乎”：到处都是山
 \xf plein de montagnes, entouré de montagnes de toutes parts
-\xc <langue="fra"> ton du nom: M
+\xc <langue="fra" dom="ton"> ton du nom: M
+\xc <langue="eng" dom="ton"> tone of the noun: M
+\xc <langue="cmn" dom="ton"> 名词的声调：M
 \xv qʰv̩˧-ʂo˧~ʂo˥
 \xe full of holes
 \xn “洞乎乎”，有很多洞的
 \xf plein de trous
-\xc <langue="fra"> ton du nom: M
+\xc <langue="fra" dom="ton"> ton du nom: M
+\xc <langue="eng" dom="ton"> tone of the noun: M
+\xc <langue="cmn" dom="ton"> 名词的声调：M
 \xv ɬv̩˧-ʂo˧~ʂo˥
 \xe full of brains, with lots of brains
 \xn 脑髓乎乎、有很多脑髓（如：一道菜，里面都是脑髓）
 \xf plein de cervelle
-\xc <langue="fra"> ton du nom: MH
+\xc <langue="fra" dom="ton"> ton du nom: MH
+\xc <langue="eng" dom="ton"> tone of the noun: MH
+\xc <langue="cmn" dom="ton"> 名词的声调：MH
 \xc PHONO
 \xv v̩˩tsʰɤ˧-ʂo˧~ʂo˥!
 \xe It's full of vegetables / it's packed with vegetables! (A comment about pigswill: it contains a lot of vegetables.)
@@ -81058,7 +81126,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe (We) have to get her to eat! (Context: comment made by a family member when a young child refused to have a meal)
 \xn 必须让她吃！（情景：一个小女孩拒绝吃饭，家人就说这句。）
 \xf il faut l'obliger à manger/il faut la faire manger! (Commentaire d'un membre de la famille au sujet d'une petite fille qui refuse un repas)
-\xc <dom="synt" langue="fra"> On ne peut dire: ‡|fv{tʰi˧-dzɯ˥-tsæ˩}.
+\xc <dom="synt" langue="fra"> On ne peut dire ‡|fv{tʰi˧-dzɯ˥-tsæ˩}.
+\xc <dom="synt" langue="eng"> One cannot say ‡|fv{tʰi˧-dzɯ˥-tsæ˩}.
+\xc <dom="synt" langue="eng"> 不能说‡|fv{tʰi˧-dzɯ˥-tsæ˩}.
 \xv tʰi˧-ʐwɤ˩-kʰɯ˩-tsæ˩-ɲi˩!
 \xe (We) have to get (him/her) to talk! (Variant based on the preceding example)
 \xn 必须让他说！（在以上例子的基础上编的句子）
