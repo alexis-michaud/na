@@ -21,3 +21,19 @@ Un temps, avais utilisé : ǀ lettre latine clic dental, 01C0 (visuellement: moi
 Au 20 février 2017: le "bon" fichier Dictionary.txt est dans: pylmflib 1.1/examples/na.
 Au 16 avril 2017 : c'est na.lex, dans na_W\fieldworks… lexika3.
 2024: na.lex, dans GitHub.
+
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
+
+\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" type="dialect"> F4不使用此说法。
+
+\xc <dom="ton" langue="fra"> Cette expression possède trois variantes tonales. La locutrice exprime une préférence pour le premier des trois schémas tonals: H#.
+\xc <dom="ton" langue="eng"> This phrase has three tonal variants. The speaker expresses a preference for the first of the three tonal patterns: H#.
+\xc <dom="ton" langue="cmn"> 该短语有三种声调变体。标准发音人偏爱第一种调：H#。
+
+\xc <langue="fra" dom="phono"> Réalisation proche de [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
+\xc <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
+\xc <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}]。
