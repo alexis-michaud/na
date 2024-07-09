@@ -204,10 +204,14 @@
 \lx æ̃˩bɻ̩˥
 \sf <nb="2011"> 608
 \or aenbbu
+\ets æ̃˩˧
+\ets bɻ̩˩
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" langue="fra" print="n"> Le composé présente un schéma tonal régulier.
+\nt <dom="ton" langue="fra"> Schéma tonal régulier.
+\nt <dom="ton" langue="eng"> The tonal pattern is regular.
+\nt <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \nt <type="hist" langue="fra" print="n"> Présence de nasalité vérifiée en août 2014.
 \ton LH
 \lc æ̃˩bɻ̩˥
@@ -1208,7 +1212,9 @@
 \xn 属格：从前的……
 \xf |fg{poss}: …du passé
 \xc PHONO
-\xc <dom="ton" langue=fra"> Schéma tonal régulier pour un mot disyllabique au ton #H suivi du possessif.
+\xc <dom="ton" langue="fra"> Schéma tonal régulier pour un mot disyllabique au ton #H suivi du possessif.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 
 \lx æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \or eshae gezhi
@@ -3868,7 +3874,10 @@
 \xn 抓母猪
 \xf attraper une truie
 \xc PHONO
-\xc <dom="phono" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lb. Vérifié en 2014.
+\xc <dom="phono" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ. Vérifié en 2014.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
+
 \xv bo˩mi˧ do˩ (+ze˩)
 \xe …has seen (a/the) sow
 \xn 见了母猪
@@ -21681,8 +21690,12 @@
 \xe to annoy people
 \xn 干扰人家
 \xf ennuyer les gens
-\xc <langue="fra" dom="ton"> Schéma tonal régulier.
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \xc <langue="fra" dom="dialect"> Selon le locuteur M23, la traduction chinoise la plus fidèle de l'expression serait |fn{欺负人}, ‘humilier quelqu'un’. Cette remarque ne paraît pas pleinement justifiée au plan linguistique, mais l'association d'idées souligne une proximité entre l'existence d'une contrariété ponctuelle (sens littéral du mot: ‘gêner, ennuyer’) et la perception que peut en avoir une personne qui éprouve (de façon durable) du ressentiment d'un statut social qui la place en situation défavorable dans les rapports d'autorité et de pouvoir. La contrariété se traduit en sentiment d'humiliation.
+\xc <langue="eng" dom="dialect"> According to speaker M23, the most accurate Chinese translation of the expression would be |fn{欺负人}, ‘to humiliate someone'. This remark does not seem fully justified from a linguistic point of view, but the association of ideas underlines the proximity between one-off annoyance (literal meaning of the word: ‘to annoy') and the perception that a person may have who feels resentment of a social status that places him or her in an unfavourable position in relations of authority and power. Resentment translates into a feeling of humiliation.
+\xc <langue="cmn" dom="dialect"> M23认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
 \xv mɤ˧-hṽ̩˩~hṽ̩˩
 \xe |fg{neg}
 \xn 不干扰
@@ -26795,7 +26808,9 @@
 \xe to knock at the door
 \xn 敲门
 \xf frapper à la porte
-\xc <dom="ton" langue="fra"> schéma tonal régulier
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \xv njɤ˧-ɳɯ˧ | no˧ | kɤ˩~kɤ˧-bi˥!
 \xe I am going to slap your buttocks! (An adult threatens a child.)
 \xn 我要打你屁股了！（大人对孩子说）
@@ -27184,9 +27199,10 @@
 \xe lame demon
 \xn 跛鬼
 \xf démon boiteux
-\xc <langue="fra"> formule construite comme traduction littérale d'un terme élicité lors de l'enquête de vocabulaire: démon à un pied, |fn{独脚鬼}. En fait, cette créature ne fait pas partie de la mythologie locale; l'informateur avait alors calqué la formule chinoise en: “démon boiteux".
+\xc <langue="fra" dom="sem"> Formule construite comme traduction d'un terme élicité lors de l'enquête de vocabulaire: «démon à un pied», |fn{独脚鬼}. En fait, cette créature de légendes chinoises ne fait pas partie de la mythologie locale; l'informateur avait alors calqué la formule chinoise en: “démon boiteux".
+\xc <langue="eng" dom="sem"> This formula was constructed as a translation of a term elicited during the vocabulary survey: ‘one-footed demon’, |fn{独脚鬼}. In fact, this creature from Chinese legends is not part of the local mythology; the speaker translated the Chinese formula as ‘lame demon’.
+\xc <langue="cmn" dom="sem"> 这个短语是对词汇调查中问出的‘独脚鬼’这个词的翻译。事实上，中国传说中的独脚鬼并不属于当地神话。合作人将汉语的词翻译为‘跛脚鬼’。
 \xc <dom="ton"> M
-\dt 24/Apr/2017
 
 \lx kʰɯ˧dʑɯ˧˥
 \sf <nb="B"> 432
@@ -27804,6 +27820,8 @@
 \xc PHONO
 \xv kʰv̩˧ tɕʰi˧-ze˧ ≈ kʰv̩˩ tɕʰi˩-ze˥
 \xc <dom="ton" langue="fra"> La variation libre entre M.M.M et L.L.H est la règle générale pour les verbes au ton Mβ associés à un objet au ton L.
+\xc <dom="ton" langue="eng"> Free variation between M.M.M and L.L.H is the general rule for Mβ tone verbs associated with an L tone object.
+\xc <dom="ton" langue="cmn"> M.M.M与L.L.H这两种声调形式之间的自由变化是与L调宾语相关的Mβ调动词的一般规则。
 \xe sold a nest
 \xn 卖了筑巢
 \xf a vendu un nid
@@ -28115,13 +28133,16 @@
 \xn 当强盗的人=强盗
 \xf personne qui est un bandit, bandit
 \xc <dom="sem" langue="fra"> Aux yeux de la locutrice principale, cette tournure, celle utilisée pour décrire une profession, ne paraît pas appropriée pour les voleurs. Question de perspective: aux yeux de l'honnête laboureur, être voleur n'est pas un métier, ce n'est pas une profession comme une autre.
+\xc <dom="sem" langue="eng"> In the eyes of the reference speaker, this turn of phrase, used to describe a profession, doesn't seem appropriate for thieves. It's a question of perspective: in the eyes of the honest ploughman, being a thief is not a trade, it's not a profession like any other.
+\xc <dom="sem" langue="cmn"> 在标准合作人看来，这个用来形容职业的短语似乎并不适合小偷。这是一个视角问题：在诚实的耕作者眼中，小偷不是一种职业。
 \rf M18
 \xv no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-ʝi˩-zo˩!
 \xe You have the face of a thief! / You really look like a thief! (An accusation about someone one thinks is a thief)
 \xn 你有一张贼脸！（控告一个人）
 \xf Toi, tu m'as une tête de voleur! (accusation lancée à quelqu'un qu'on pense être un voleur)
-\xc <langue="fra" type="hist" print="n"> Avant 2014, noté /|fv{no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.
-\xc <langue="fra" dom="phono"> La syllabe /-ʝi˩/ est particulièrement discrète phonétiquement. Sa forte réduction pourrait facilement se prêter à une réinterprétation à une génération suivante, si la langue continue d'être transmise: cela donnerait /|fv{no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.
+\xc <langue="fra" dom="phono"> La syllabe /-ʝi˩/ est particulièrement discrète phonétiquement. (Elle avait amené, avant 2014, à noter /|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.) Sa forte réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, si la langue continue d'être transmise: cela donnerait /|fv{no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.
+\xc <dom="phono" langue="eng"> The syllable /|fv{-ʝi˩}/ is phonetically reduced (which had led, prior to 2014, to a notation /|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/). Its reduction could easily lead to reinterpretation in the next generation, as /|fv{-ne˩-zo˩}/, if the language continues to be transmitted.
+\xc <dom="phono" langue="cmn"> /|fv{-ʝi˩}/音节的弱化很强（2014年之前，这种弱化导致了此短语被听成/|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/）。如果语言继续流传下去，很容易在下一代简化为/|fv{-ne˩-zo˩}/。
 \xv kʰv̩˧mæ˧-ne˩-ʝi˩-zo˩! | hĩ˧ ʈʂæ˩-ho˩!
 \xe He's like a bandit! He may rob people!
 \xn 他像强盗似的，会抢人的！
@@ -29409,8 +29430,9 @@
 \xe In the past, in Yongning, there were craftsmen who forged copper; craftsmen who forged iron; craftsmen who forged gold; and craftsmen who forged silver.
 \xn 过去，在永宁，有铜匠、铁匠、金匠、银匠。
 \xf Autrefois, à Yongning, il y avait des artisans qui travaillaient le cuivre. Il y avait des artisans qui travaillaient le fer. Il y avait des artisans qui travaillaient l'or. Il y avait des artisans qui travaillaient l'argent.
-\xc <langue="fra"> Variante de l'exemple précédent.
-\dt 04/Sep/2015
+\xc <langue="fra" dom="sem"> Variante de l'exemple précédent.
+\xc <langue="eng" dom="sem"> Variant of the preceding example.
+\xc <langue="cmn" dom="sem"> 前一个例子的变体
 
 \lx lɑ˧˥
 \sf <nb="2011"> 1701
@@ -30133,10 +30155,14 @@
 \ton H$
 \lc lɑ˧tʰɑ˧mi˥
 \so <print="n"> F4
+\va <speaker="M18"> ‡lɑ˧tʰɑ˧mi˥=ɻ̩˩
+\vf Le schéma tonal de ce locuteur consiste en une concaténation du nom |fv{/lɑ˧tʰɑ˧mi˥/} et du suffixe associatif pluriel. La catégorie tonale du nom est traitée comme s'il s'agissait d'un ton H fixe sur la dernière syllabe, alors que son ton est H$, un ton H qui s'associe à la dernière syllabe du mot phonologique.
+\ve The tonal pattern of this speaker consists of a concatenation of the noun |fv{/lɑ˧tʰɑ˧mi˥/} and the plural associative suffix. The tonal category of the noun is treated as if it were a fixed H tone on the last syllable, whereas its tone is H$, an H tone that associates with the last syllable of the phonological word.
+\vc 该变体的声调模式由名词|fv{/lɑ˧tʰɑ˧mi˥/}和复数关联后缀组成。名词的声调类别被视为最后一个音节上的固定H调，而不是H$（与声调组的最后一个音节相关联的H调）。
 \de A family name from Yongning. There are five families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/ə˧lɑ˧/}.
 \ge family_name
-\dn 一个姓。这个姓，永宁有五个家。音译：拉他咪
-\gn 一个姓
+\dn 一个姓。这个姓，永宁有五个家。音译：拉他咪、拉它米。
+\gn 拉他咪
 \df Nom de clan/famille étendue. Cinq familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/ə˧lɑ˧/}.
 \gf nom_de_clan
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥$
@@ -30152,12 +30178,6 @@
 \xn 〜 +联想复数 +施动者
 \xf 〜 |fg{associatif + agent}
 \xc PHONO
-\xv ‡lɑ˧tʰɑ˧mi˥=ɻ̩˩
-\xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
-\xn |fv{/lɑ˧tʰɑ˧mi˥$/}家族
-\xf le clan Latami |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille Latami |fv{/lɑ˧tʰɑ˧mi˥$/}
-\xc <dom="ton" langue="fra"> Le schéma tonal de ce locuteur consiste en une simple concaténation du nom |fv{/lɑ˧tʰɑ˧mi˥/} et du suffixe associatif pluriel. La catégorie tonale du nom est traitée comme s'il s'agissait d'un ton H fixe sur la dernière syllabe, sans tenir compte du caractère spécifique de son ton: H$, un ton H qui s'associe à la dernière syllabe du mot phonologique.
-\rf M18
 
 \lx ɬɑ˧tsʰo#˥
 \or Lhaco
@@ -30575,6 +30595,8 @@
 \xf 〜 |fg{achev} (|fg{pfv})
 \xc PHONO
 \xc <langue="fra" dom="ton"> Ce test permet de déterminer que le ton de ce verbe est Lα et non Lβ.
+\xc <langue="eng" dom="ton"> This test makes it possible to conclude that the tone of this verb is Lα and not Lβ.
+\xc <langue="cmn" dom="ton"> 通过这个测试，可以确定这个动词的本调是Lα而不是Lβ。
 
 \lx ɬi˩
 \sf <nb="B"> 1909
@@ -31285,12 +31307,12 @@
 \sf <nb="B"> 115
 \sf <nb="2011"> 170
 \or lhikhae
+\ets qʰæ˥4
 \ps n
 \lc ɬi˧qʰæ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra" print="n"> avant 2009: /†ɬi˧kʰæ˧/
-\np <langue="fra"> schéma tonal régulier
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -31303,7 +31325,6 @@
 \gn 耳垢
 \df Cérumen.
 \gf cérumen
-\dt 13/Jun/2017
 
 \lx ɬi˧qʰv̩#˥
 \sf <nb="B"> 113
@@ -31405,8 +31426,10 @@
 \xe Us (=in our family), this dog is often seated in the lower part of the room.
 \xn 咱们家这只狗经常呆在主屋火塘下面的地方。
 \xf Nous (=dans notre maison), ce chien, il se tient souvent assis en contrebas du foyer.
+\xc <dom="phono" langue="fra"> Phonétiquement: [|fv{ʔu˧=ɻ̩˩}].
 \xc <dom="phono" langue="eng"> Phonetically: [|fv{ʔu˧=ɻ̩˩}].
-\xc <dom="phono" langue="eng"> Phonétiquement: [|fv{ʔu˧=ɻ̩˩}].
+\xc <dom="phono" langue="cmn"> 实际发音接近[|fv{ʔu˧=ɻ̩˩}]。
+\rf M18
 
 \lx ɬi˧ʈv̩˥
 \sf <nb="B"> 2071
@@ -31835,7 +31858,9 @@
 \xe to join hands in an indication of submission
 \xn 拱手作揖
 \xf rendre hommage à, joindre les mains en signe de soumission/respect
-\xc <langue="fra"> sens de |fv{/tsʰɤ˧tsʰɤ˧/}: non analysable; ne veut rien dire hors de son association à ce verbe
+\xc <langue="fra" dom="sem"> Il n'a pas été possible d'analyser l'expression |fv{/tsʰɤ˧tsʰɤ˧/}: d'établir ce qu'elle pourrait vouloir dire hors de son association à ce verbe.
+\xc <langue="eng" dom="sem"> It has not been possible to analyze the expression |fv{/tsʰɤ˧tsʰɤ˧/}: to establish what it might mean outside its association with this verb.
+\xc <langue="cmn" dom="sem"> 我们无法分析|fv{/tsʰɤ˧tsʰɤ˧/}：确定它在与这个动词关联之外的含义。
 \xv tsʰɤ˧tsʰɤ˧ | le˧-lo˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体
@@ -32659,6 +32684,8 @@
 \xn 玉石戒指
 \xf anneau en jade
 \xc <langue=fra" dom="sem"> Les Naxi étaient réputés porter des anneaux de jade. Les anneaux les plus prisés chez les Na étaient d'argent et d'or.
+\xc <langue=eng" dom="sem"> The Naxi were reputed to wear jade rings. Among the Na, the most prized rings were gold rings and silver rings.
+\xc <langue=cmn" dom="sem"> 纳西族被誉为戴玉环的民族。摩梭人最珍贵的戒指是金银戒指。
 
 \lx ɬo˧pv̩˥
 \sf <nb="B"> 1392
@@ -32791,7 +32818,7 @@
 \xn 看胳膊
 \xf regarder le bras
 \xc PHONO
-\xc <print="n" langue="fra"> élicité en 2009, pour l'étude des combinaisons objet+verbe
+\xc <print="n" langue="fra" dom="ton"> élicité en 2009, pour l'étude des combinaisons objet+verbe
 \sn 2
 \de Hand.
 \ge hand
@@ -33138,8 +33165,9 @@
 \xe She has a really pretty child! (Context: the main consultant had a polite conversation with a neighbour who had a lovely grandson; later on, she told me: “She has a really pretty child!")
 \xn 她有个很漂亮的孩子！
 \xf Elle a un bien bel enfant! (Contexte: lors d'une sortie, la consultante principale dit quelques politesses à une voisine qui se promenait avec un petit-fils attendrissant; elle me dit ensuite: «Elle a un bien bel enfant!» Littéralement: «elle, (d')enfant(s), (elle) en a un (de) bien!»)
-\xc <langue="eng"> Note the association of the classifier with an adjective.
-\xc <langue="fra"> Le classificateur est ici associé à un adjectif.
+\xc <langue="fra" dom="syntax"> Le classificateur est ici associé à un adjectif.
+\xc <langue="eng" dom="syntax"> Note the association of the classifier with an adjective.
+\xc <langue="cmn" dom="syntax"> 注意量词与形容词的关联。
 
 \lx ɭɯ˧˥α
 \or lee
@@ -33917,9 +33945,9 @@
 \df Enrouler (un tissu).
 \gf enrouler
 \xv le˧-lv̩˧~lv̩˧
-\xf |fg{accomp} |fg{red}
-\xc 实施 〜 重叠：卷一卷
-\xc |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠：卷一卷
+\xv |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv tso˧~tso˧ lv̩˧~lv̩˧
 \xe to coil things
@@ -33965,8 +33993,8 @@
 \xc <langue="eng" dom="sem"> The word ‘to plough' contains the noun |fv{/ʝi˥1/} ‘cow/bull' (which also appears in |fv{/ʝi˧ lv̩˩} ‘to graze the cows', which is only distinguished from ‘to plough' by the tones). This word, ‘to plough', can nevertheless be used even if it is in fact a buffalo that ploughs and not an ox: the disyllable is lexicalized in the general sense of ‘to plough'.
 \xc <langue="cmn" dom="sem"> ‘耕种’一词包含名词|fv{/ʝi˥1/}‘牛’（这一名词也出现在|fv{/ʝi˧ lv̩˩}‘牧牛’中，‘牧牛’与‘耕种’的音系区别仅在于声调）。即使犁地的实际上是水牛而不是黄牛，‘犁地’这个词也可以使用：它被词汇话为一般意义上的‘犁地’。
 \xc <langue="fra" dom="synt"> Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
-\xc <langue="eng" dom="synt"> xxxxxx Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
-\xc <langue="cmn" dom="synt"> Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
+\xc <langue="eng" dom="synt"> Particles such as the accomplished marker are inserted between the two syllables of the verbal compound.
+\xc <langue="cmn" dom="synt"> 实施体标记等等在双音节动词的两个音节之间插入。
 \xv dʑi˧mi˧ lv̩˧˥ / dʑi˧mi˧ lv̩˧-ze˥
 \xe to plough with a water buffalo
 \xn 用水牛耕田
@@ -36319,7 +36347,7 @@
 \xn 点火
 \xf allumer un feu, faire un feu
 \xc <langue="fra" dom="ton"> Schéma tonal régulier: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, donne régulièrement M.L.
-\xc <langue="eng" dom="ton"> The tone pattern is regular: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, yields.
+\xc <langue="eng" dom="ton"> The tone pattern is regular: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, yields M.L.
 \xc <langue="cmn" dom="ton"> 声调是规律的：/|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/，H+MH，得出M.L。
 \xv mv̩˧ ɖɯ˧-æ̃˩ kʰɯ˩
 \xe to light a fire, to do a fire
@@ -45912,7 +45940,9 @@
 \xn 猪在翻滚
 \xf même sens
 \xc PHONO
-\xc <langue="fra" dom="ton"> Schéma tonal régulier.
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 
 \lx pʰɻ̩˩β
 \or peuq
@@ -50512,7 +50542,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe horseshoe
 \xn 马蹄铁
 \xf fer à cheval
-\dt 01/Oct/2015
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 
 \lx qʰwɤ˧to˩
 \sf <nb="2011"> 209
@@ -51462,6 +51494,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> object
 \nt <langue="pumi" dom="comp" print="n"> ɦɑ55pʰɯ51 (même structure lexicale)
 \np <langue="fra"> Schéma tonal régulier: #H et M donnent #H.
+\np <dom="ton" langue="eng"> The tonal pattern is regular.
+\np <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \ton #H
 \lc ʁɑ˧pʰv̩˧
 \so <print="n"> F4
@@ -52386,6 +52420,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra" print="n"> Avant 2009: noté: /ʁu˥dzɯ˩ ʈʰæ˩ ɻæ˩/.
 \nt <type="hist" langue="fra" print="n"> Noté d'autres expressions du même champ sémantique: /tɕʰi˩tsɯ˥/, ton d6 (locuteur M21), emprunt pour 'drapeau'; /dʑɤ˩tsɯ˧tsɯ˧ m˩/, /dʑɤ˩tsɯ˥tsɯ˧ m˩pɤ˩/ (M18).
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: ML+ML donne M.L.L.L.
+\nt <dom="ton" langue="eng"> The tonal pattern is regular.
+\nt <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \ton L#-
 \lc ʁo˧dzi˩tʰæ˩ɻæ˩
 \so <print="n"> F4
@@ -59656,8 +59692,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to defecate
 \xn 拉屎
 \xf déféquer
-\xc <langue="fra"> schéma tonal régulier
-\dt 09/Oct/2015
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 
 \lx ʂwæ˧bæ˩
 \sf <nb="B"> 2109
@@ -62350,7 +62387,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to boil meat
 \xn 煮肉
 \xf faire bouillir de la viande, faire cuire de la viande à l'eau
-\xc <langue="fra" dom="ton"> schéma tonal régulier
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \xv bo˩-hɑ˧ tɕɤ˩
 \xe to boil pigswill, to cook pigswill
 \xn 煮猪食
@@ -75108,6 +75147,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 淋巴结肿了
 \xf les ganglions sont enflés
 \xc <type="hist" langue="fra" print="n"> Tons vérifiés. Schéma tonal régulier pour d1+1. De: /ɻ̩˧tɑ˧/ “ganglions".
+\xc <dom="ton" langue="fra"> Schéma tonal régulier.
+\xc <dom="ton" langue="eng"> The tonal pattern is regular.
+\xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \xv tso˧~tso˧ w̃æ˩
 \xe something has swollen
 \xn 东西膨胀了
