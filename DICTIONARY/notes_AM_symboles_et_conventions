@@ -30,9 +30,9 @@ Au 16 avril 2017 : c'est na.lex, dans na_W\fieldworks… lexika3.
 \xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
 \xc <langue="cmn" type="dialect"> F4不使用此说法。
 
-\xc <dom="ton" langue="fra"> Cette expression possède trois variantes tonales. La locutrice exprime une préférence pour le premier des trois schémas tonals: H#.
-\xc <dom="ton" langue="eng"> This phrase has three tonal variants. The speaker expresses a preference for the first of the three tonal patterns: H#.
-\xc <dom="ton" langue="cmn"> 该短语有三种声调变体。标准发音人偏爱第一种调：H#。
+\xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. La locutrice exprime une préférence pour le schéma tonal H#.
+\xc <dom="ton" langue="eng"> This phrase has two tonal variants. The speaker expresses a preference for H#.
+\xc <dom="ton" langue="cmn"> 该短语有两种声调变体。标准发音人偏爱H#。
 
 \xc <langue="fra" dom="phono"> Réalisation proche de [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
 \xc <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].

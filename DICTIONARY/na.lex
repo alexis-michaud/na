@@ -413,8 +413,8 @@
 \sf <nb="B"> 769
 \sf <nb="2011"> 1164
 \or aenqku
-\et æ̃˩˧
-\et kʰv̩˧˥
+\ets æ̃˩˧
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -463,8 +463,8 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\et li˧α
-\et pʰæ˧˥α
+\ets li˧α
+\ets pʰæ˧˥α
 \ec <langue="fra"> L'étymologie de la première syllabe n'est pas évidente. Il pourrait s'agir du même morphème que dans la première syllabe de ‘âme’.
 \nt <type="hist" langue="fra" dom="ton" print="n"> ton «type d7»: +ɲi˩.
 \nt <type="hist" langue="fra" dom="phono" print="n"> Vérifié: n'est pas /ɬi˧/, mais /li˧/ «regarder». Les traces d'aspiration/friction sont dues à une réalisation faible de /l/.
@@ -513,7 +513,7 @@
 \sf <nb="B"> 1791
 \sf <nb="2011"> 2645
 \or aenmi
-\et æ̃˩˧
+\ets æ̃˩˧
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -965,7 +965,7 @@
 \sf <nb="B"> 394
 \sf <nb="2011"> 498
 \or aenweu
-\et æ̃˩˧
+\ets æ̃˩˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -1043,8 +1043,8 @@
 
 \lx æ˧ʂæ˧-pi˧mv̩˧˥
 \or eshae bimu
-\et æ˧ʂæ#˥
-\et pi˧mv̩˥$
+\ets æ˧ʂæ#˥
+\ets pi˧mv̩˥$
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1068,8 +1068,8 @@
 
 \lx æ˧ʂæ˧-qʰwæ#˥
 \or eshae khuae
-\et æ˧ʂæ#˥
-\et qʰwæ˧
+\ets æ˧ʂæ#˥
+\ets qʰwæ˧
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1136,8 +1136,8 @@
 
 \lx æ˧ʂæ˧-tɑ˩mv̩˩
 \or eshae damu
-\et æ˧ʂæ#˥
-\et tɑ˩mv̩˩
+\ets æ˧ʂæ#˥
+\ets tɑ˩mv̩˩
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1217,8 +1217,8 @@
 \sd <langue="eng"> society
 \ton #H-
 \lc æ˧ʂæ˧kɤ˥ʈʂɯ˩
-\et æ˧ʂæ#˥
-\et kɤ˧ʈʂɯ˩2
+\ets æ˧ʂæ#˥
+\ets kɤ˧ʈʂɯ˩2
 \cf æ˧ʂæ˧-pi˧mv̩˧˥
 \cf æ˧ʂæ˧-qʰwæ#˥
 \cf æ˧ʂæ˧-qʰwɤ˧˥
@@ -1891,7 +1891,7 @@
 \lx bæ˩dʑɯ˥
 \sf <nb="2011"> 3160
 \or bbejji
-\et bæ˩˧
+\ets bæ˩˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -3717,8 +3717,8 @@
 \sf <nb="B"> 771
 \sf <nb="2011"> 1166
 \or bboku
-\et bo˩˧
-\et kʰv̩˧˥
+\ets bo˩˧
+\ets kʰv̩˧˥
 \ps n
 \lc bo˩kʰv̩˧˥
 \sd <langue="fra"> temps
@@ -4542,7 +4542,7 @@
 
 \lx bɻ̩˧nɑ˥
 \or bbeuna
-\et bɻ̩˧
+\ets bɻ̩˧
 \ps n
 \lc bɻ̩˧nɑ˥
 \sd <langue="fra"> corps
@@ -4560,8 +4560,8 @@
 \lx bɻ̩˧tsʰi˩
 \or bbeucee
 \ps n
-\et bɻ̩˧
-\et tsʰi˩α
+\ets bɻ̩˧
+\ets tsʰi˩α
 \lc bɻ̩˧tsʰi˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -4693,8 +4693,8 @@
 \lx bɻ̩˧ɖæ˧
 \sf <nb="2011"> 1010
 \or bbeuddae
-\et bɻ̩˧
-\et ɖæ˥
+\ets bɻ̩˧
+\ets ɖæ˥
 \ps adj
 \lc bɻ̩˧ɖæ˧
 \sd <langue="fra"> abstrait
@@ -4722,7 +4722,7 @@
 \or bbuddi
 \ps n
 \lc bv̩˩di˩˥
-\et bv̩˩˧
+\ets bv̩˩˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
@@ -4866,7 +4866,7 @@
 
 \lx bɻ̩˧mi˧
 \sf <nb="2011"> 2930
-\et bɻ̩˩˧
+\ets bɻ̩˩˧
 \or bbeumi
 \ps n
 \lc bɻ̩˧mi˧
@@ -4911,7 +4911,7 @@
 
 \lx bɻ̩˧-nɑ˥mi˩
 \or bbunami
-\et bɻ̩˥
+\ets bɻ̩˥
 \ps n
 \lc bɻ̩˧nɑ˥mi˩
 \cf bɻ̩˧pʰɻ̩˧˥
@@ -4929,8 +4929,8 @@
 
 \lx bɻ̩˧pʰɻ̩˧˥
 \or bbeupeu
-\et bɻ̩˥
-\et pʰɻ̩˩α
+\ets bɻ̩˥
+\ets pʰɻ̩˩α
 \ps n
 \lc bɻ̩˧pʰɻ̩˧˥
 \cf bɻ̩˧-nɑ˥mi˩
@@ -4998,7 +4998,7 @@
 
 \lx bɻ̩˧pʰv̩˧
 \or bbeupu
-\et bɻ̩˩˧
+\ets bɻ̩˩˧
 \ps n
 \lc bɻ̩˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -5040,7 +5040,7 @@
 
 \lx bɻ̩˩qo˩-bɻ̩˧qʰæ˩
 \sf <nb="2011"> 852
-\et bɻ̩˩-qʰæ˩
+\ets bɻ̩˩-qʰæ˩
 \or bbu gho bbukhae
 \ps n
 \lc bɻ̩˩qo˩bɻ̩˧qʰæ˩
@@ -5135,10 +5135,10 @@
 \sf <nb="B"> 1840
 \sf <nb="2011"> 2796
 \or bbeukheuxxihin
-\et bɻ̩˥
-\et qʰv̩˧2
-\et ʑi˥
-\et -hĩ˥
+\ets bɻ̩˥
+\ets qʰv̩˧2
+\ets ʑi˥
+\ets -hĩ˥
 \ps n
 \lc bɻ̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
@@ -5189,8 +5189,8 @@
 \lx bɻ̩˧ʂæ˧
 \sf <nb="2011"> 1009
 \or bbeushae
-\et bɻ̩˧
-\et ʂæ˧
+\ets bɻ̩˧
+\ets ʂæ˧
 \ec <langue="eng"> Literally ‘long-intestined': in folk representation, long intestines allow their owner to digest vexations calmly, whereas short intestines are associated with hasty emotional reactions.
 \ps adj
 \lc bɻ̩˧ʂæ˧
@@ -5215,7 +5215,7 @@
 
 \lx bɻ̩˩ʂwæ˩
 \sf <nb="2011"> 2929
-\et bɻ̩˩˧
+\ets bɻ̩˩˧
 \or bbeushuae
 \ps n
 \lc bɻ̩˩ʂwæ˩˥
@@ -5331,7 +5331,7 @@
 
 \lx bɻ̩˧zo#˥
 \or bbeusso
-\et bɻ̩˩˧
+\ets bɻ̩˩˧
 \ps n
 \lc bɻ̩˧zo˧
 \sd <langue="fra"> animal
@@ -5393,8 +5393,8 @@
 \sf <nb="B"> 765
 \sf <nb="2011"> 1160
 \or bburuku
-\et bv̩˧ʐv̩˧
-\et kʰv̩˧˥
+\ets bv̩˧ʐv̩˧
+\ets kʰv̩˧˥
 \ps n
 \lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
@@ -5819,8 +5819,8 @@
 \sf <nb="B"> 52b
 \sf <nb="2011"> 87
 \or xilee lupu
-\et ɕi˧ɭɯ˧
-\et lv̩˧pʰv̩˩2
+\ets ɕi˧ɭɯ˧
+\ets lv̩˧pʰv̩˩2
 \ps n
 \lc ɕi˧ɭɯ˧lv̩˧pʰv̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
@@ -6129,7 +6129,7 @@
 \sf <nb="B"> 1031
 \sf <nb="2011"> 1459
 \or xebbunu
-\et bv̩˧nv̩˧
+\ets bv̩˧nv̩˧
 \bw <langue="cmn"> 香
 \ps adj
 \sd <langue="fra"> adjectif
@@ -8024,8 +8024,8 @@
 
 \lx ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̩˩
 \or Ddeezzhi Ci'er
-\et ɖɯ˩ɖʐɯ˧
-\et tsʰɯ˧ɻ̩#˥
+\ets ɖɯ˩ɖʐɯ˧
+\ets tsʰɯ˧ɻ̩#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -8041,8 +8041,8 @@
 
 \lx ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩
 \or Ddeezzhi Lhaco
-\et ɖɯ˩ɖʐɯ˧
-\et ɬɑ˧tsʰo#˥
+\ets ɖɯ˩ɖʐɯ˧
+\ets ɬɑ˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -8143,8 +8143,8 @@
 
 \lx ɖɯ˩mɑ˧-ɬɑ˩tsʰo˩
 \or Ddeema Lhaco
-\et ɖɯ˩mɑ#˥
-\et ɬɑ˧tsʰo#˥
+\ets ɖɯ˩mɑ#˥
+\ets ɬɑ˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -8160,8 +8160,8 @@
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
-\et ɖɯ˩mɑ#˥
-\et pv̩˩ʈʰɯ˧
+\ets ɖɯ˩mɑ#˥
+\ets pv̩˩ʈʰɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -9261,8 +9261,8 @@
 
 \lx dze˧pʰɻ̩˧˥
 \or zzeipeu
-\et dze˥
-\et pʰɻ̩˩α
+\ets dze˥
+\ets pʰɻ̩˩α
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -9443,8 +9443,8 @@
 \sf <nb="B"> 1076
 \sf <nb="2011"> 1518
 \or ruaezhe
-\et ʐwæ˩α
-\et ʈʂɤ˧α
+\ets ʐwæ˩α
+\ets ʈʂɤ˧α
 \ps adj
 \cf dze˩dʑɯ˧˥
 \lc ʐwæ˩ ʈʂɤ˩˥
@@ -9566,8 +9566,8 @@
 
 \lx dze˧li˥
 \or zzeili
-\et dze˥
-\et li˩˥
+\ets dze˥
+\ets li˩˥
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -9610,8 +9610,8 @@
 \sf <nb="B"> 1996
 \sf <nb="2011"> 3045
 \or zzeilee'eun
-\et dze˧ɭɯ˧
-\et ɻ̩̃˥
+\ets dze˧ɭɯ˧
+\ets ɻ̩̃˥
 \ps n
 \lc dze˧ɭɯ˧ɻ̩̃˧
 \sd <langue="fra"> plante
@@ -9654,8 +9654,8 @@
 \lx dze˩mi˧-bæ˩bæ˩
 \sf <nb="2011"> 3283
 \or zzeimi bbaebbae
-\et dze˩mi˧
-\et bæ˩bæ˩1
+\ets dze˩mi˧
+\ets bæ˩bæ˩1
 \ps n
 \lc dze˩mi˧bæ˩bæ˩
 \sd <langue="fra"> plante
@@ -9674,8 +9674,8 @@
 \sf <nb="B"> 1825
 \sf <nb="2011"> 2777
 \or zzeimizzei
-\et dze˩mi˧
-\et dze˥
+\ets dze˩mi˧
+\ets dze˥
 \ps n
 \lc dze˩mi˧dze˧
 \sd <langue="fra"> animal
@@ -9702,8 +9702,8 @@
 \sf <nb="B"> 1826
 \sf <nb="2011"> 2778
 \or zzeimiku
-\et dze˩mi˧
-\et kʰv̩˥1
+\ets dze˩mi˧
+\ets kʰv̩˥1
 \ps n
 \lc dze˩mi˧kʰv̩˩
 \sd <langue="fra"> animal
@@ -9726,7 +9726,7 @@
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
 \or zzeimipeu'er
-\et dze˩mi˧
+\ets dze˩mi˧
 \ec <langue="fra"> M18 propose une étymologie comme ‘repos des abeilles’. La locutrice F4 considère que l'expression n'est pas transparente: les troisième et quatrième syllabes n'ont pas de signification par elles-mêmes.
 \ps n
 \lc dze˩mi˧pɻ̩˥ɻ̩˩
@@ -9790,8 +9790,8 @@
 \lx dze˧-ɻ̩̃#˥
 \sf <nb="2011"> 3046
 \or zzei'eun
-\et †dze˧
-\et ɻ̩̃˥
+\ets †dze˧
+\ets ɻ̩̃˥
 \ps n
 \lc dze˧ɻ̩̃˧
 \sd <langue="fra"> plante
@@ -10300,8 +10300,8 @@
 
 \lx dzi˧dzi˧-mo˧˥
 \or zzeezzee moq
-\et dzi˧dzi˧
-\et mo˧˥
+\ets dzi˧dzi˧
+\ets mo˧˥
 \ps n
 \lc dzi˧dzi˧mo˧˥
 \sd <langue="fra"> plante
@@ -10379,7 +10379,7 @@
 \sf <nb="B"> 2255a
 \sf <nb="2011"> 599
 \or zzeewo
-\et dzi˩α1
+\ets dzi˩α1
 \ps n
 \lc dzi˩ʁo˩˥
 \sd <langue="fra"> maison
@@ -11197,8 +11197,8 @@
 \lx dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sf <nb="2011"> 3329
 \or Jjabbu Gesawua
-\et kɤ˧sɑ˥$
-\et ʁwɤ˧2
+\ets kɤ˧sɑ˥$
+\ets ʁwɤ˧2
 \ps n
 \lc dʑɤ˩bv̩˧kɤ˧sɑ˥ʁwɤ˩
 \cf kɤ˧mi˩
@@ -11393,7 +11393,7 @@
 \sf <nb="B"> 15b
 \sf <nb="2011"> 26
 \or zzolulu
-\et dzo˥
+\ets dzo˥
 \ps n
 \lc dzo˧lv̩˧lv̩˥
 \cf bi˧-lv̩˧~lv̩˥
@@ -11644,8 +11644,8 @@
 
 \lx dʑɤ˩tsʰi˧-ɖɯ˩mɑ˩
 \or Jjacee Ddeema
-\et dʑɤ˩tsʰi#˥
-\et ɖɯ˩mɑ#˥
+\ets dʑɤ˩tsʰi#˥
+\ets ɖɯ˩mɑ#˥
 \ps n
 \lc dʑɤ˩tsʰi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -11662,7 +11662,7 @@
 
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
 \or jjaceezeemu
-\et dʑɤ˩tsʰi#˥
+\ets dʑɤ˩tsʰi#˥
 \ps n
 \lc dʑɤ˩tsʰi˧tsi˩mv̩˩
 \sd <langue="fra"> religion
@@ -12307,7 +12307,7 @@
 \lx ɖʐɯ˩kʰɤ˥
 \sf <nb="2011"> 5
 \or zzhike
-\et ɖʐɯ˩α
+\ets ɖʐɯ˩α
 \ps n
 \lc ɖʐɯ˩kʰɤ˥
 \sd <langue="fra"> environnement naturel
@@ -14455,7 +14455,7 @@
 \sf <nb="B"> 971b
 \sf <nb="2011"> 1409
 \or esseissei
-\et ə˧-dzɤ˥$
+\ets ə˧-dzɤ˥$
 \ps adv
 \cf ə˧ze˧
 \sd <langue="fra"> adverbe
@@ -16481,8 +16481,8 @@
 \sf <nb="B"> 947c
 \sf <nb="2011"> 1376
 \or ggiq
-\et gɯ˩α2
-\et ʝi˥
+\ets gɯ˩α2
+\ets ʝi˥
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -17950,8 +17950,8 @@
 \lx gv̩˧dv̩˧-gv̩˧mi˧
 \sf <nb="2011"> 140
 \or ggudduggumi
-\et gv̩˧dv̩˧
-\et gv̩˧mi˧
+\ets gv̩˧dv̩˧
+\ets gv̩˧mi˧
 \ps n
 \lc gv̩˧dv̩˧gv̩˧mi˧
 \sd <langue="fra"> corps
@@ -18759,8 +18759,8 @@
 
 \lx hɑ˧ʂɯ˩
 \or hashi
-\et hɑ˥
-\et ʂɯ˧˥2
+\ets hɑ˥
+\ets ʂɯ˧˥2
 \ps n
 \lc hɑ˧ʂɯ˩
 \sd <langue="fra"> nourriture
@@ -18841,8 +18841,8 @@
 
 \lx hɑ˧ʈʂæ˩
 \or hazhae
-\et hɑ˥
-\et ʈʂæ˧˥α
+\ets hɑ˥
+\ets ʈʂæ˧˥α
 \ps n
 \lc hɑ˧ʈʂæ˩
 \cf hɑ˧bɤ˥
@@ -18958,9 +18958,9 @@
 
 \lx hɑ˧-gv̩˥-di˩
 \or ha gguddi
-\et hɑ˥
-\et gv̩˩α1
-\et -di˩
+\ets hɑ˥
+\ets gv̩˩α1
+\ets -di˩
 \ec <langue="fra"> la chose pour faire à manger
 \ps n
 \sd <langue="fra"> maison
@@ -20135,7 +20135,7 @@
 \sf <nb="B"> 41
 \sf <nb="2011"> 64
 \or xienami
-\et hi˩˥1
+\ets hi˩˥1
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -20521,8 +20521,8 @@
 
 \lx mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
 \or mumi maeddeumi
-\et mv̩˧mi˧-mæ˧ɖv̩#˥
-\et mi˩˧
+\ets mv̩˧mi˧-mæ˧ɖv̩#˥
+\ets mi˩˧
 \ps n
 \lc mv̩˧mi˧mæ˧ɖv̩˧mi˧
 \sd <langue="fra"> animal
@@ -21563,7 +21563,7 @@
 \lx hṽ̩˩-ɖʐæ˩ɻæ˥
 \sf <nb="2011"> 1395
 \or hunzzhae'er
-\et hṽ̩˩α1
+\ets hṽ̩˩α1
 \ps adj
 \lc hṽ̩˩ɖʐæ˩ɻæ˥
 \sd <langue="fra"> adjectif
@@ -21692,7 +21692,7 @@
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
 \sf <nb="2011"> 1396
 \or hunhunzzhaezzhae
-\et hṽ̩˩α1
+\ets hṽ̩˩α1
 \ps adj
 \lc hṽ̩˧hṽ̩˩ɖʐæ˩ɖʐæ˩
 \sd <langue="fra"> adjectif
@@ -22294,8 +22294,8 @@
 \sf <nb="2011"> 1155
 \hm 1
 \or huaku
-\et hwɤ˧˥3
-\et kʰv̩˧˥
+\ets hwɤ˧˥3
+\ets kʰv̩˧˥
 \ps n
 \lc hwɤ˧kʰv̩˥
 \sd <langue="fra"> temps
@@ -22387,8 +22387,8 @@
 
 \lx hwɤ˧li˧-bv̩˥
 \or hualibbu
-\et hwɤ˧li˧˥
-\et =bv̩˧
+\ets hwɤ˧li˧˥
+\ets =bv̩˧
 \ec <langue="fra"> «(la place) du chat»
 \ps n
 \lc hwɤ˧li˧bv̩˥
@@ -22741,8 +22741,7 @@
 \sf <nb="2011"> 509
 \or yepiye
 \bw <langue="cmn"> 鸦片
-\et |fn{鸦片}
-\et jɤ˧3
+\ets jɤ˧3
 \ec <langue="fra"> L'opium se fume, comme le tabac. En moso, il a été emprunté comme ‘tabac-opium'. Le mot pour ‘tabac', /|fv{jɤ˧3}/, pourrait également être un emprunt au chinois, mais d'une date bien antérieure. Lorsque le mot ‘opium' a été emprunté, le mot ‘tabac' était pleinement acclimaté (à supposer qu'il s'agisse bien d'un emprunt) et pouvait servir à guider l'interprétation du nouveau mot emprunté, ‘opium'.
 \ec <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /|fv{jɤ˧3}/, might be an early borrowing from Chinese, too, but by the time the word ‘opium' was borrowed, the word ‘tobacco' was well-integrated (supposing that it was originally a loanword) and could assist in guiding the interpretation of the new loanword, ‘opium'.
 \ec <langue="cmn"> 鸦片像烟草一样被吸食。在摩梭中，它被借为‘鸦片烟’。‘烟’/|fv{jɤ˧3}/可能也是从汉语中借用的词，但借用时间估计是更早。当‘鸦片’一词被借用时，估计‘烟’已经完全融化到摩梭适词汇中（假设它确实原来是汉语借词），可以用来帮助解释新借用词‘鸦片’的含义。
@@ -23387,8 +23386,8 @@
 \sf <nb="B"> 761
 \sf <nb="2011"> 1156
 \or yiku
-\et ʝi˥1
-\et kʰv̩˧˥
+\ets ʝi˥1
+\ets kʰv̩˧˥
 \ps n
 \lc ʝi˧kʰv̩˩
 \sd <langue="fra"> temps
@@ -23700,8 +23699,8 @@
 \sf <nb="B"> 1066
 \sf <nb="2011"> 1501
 \or yiwo
-\et ʝi˥1
-\et ʁo˧2
+\ets ʝi˥1
+\ets ʁo˧2
 \ps adj
 \lc ʝi˧ʁo˧
 \sd <langue="fra"> adjectif
@@ -23852,8 +23851,8 @@
 
 \lx ʝi˧ʂɯ˥-ti˩ɖo˩
 \or Yishi Diddeo
-\et ʝi˧ʂɯ˥
-\et ti˧ɖo˥
+\ets ʝi˧ʂɯ˥
+\ets ti˧ɖo˥
 \ps n
 \lc ʝi˧ʂɯ˥ti˩ɖo˩
 \sd <langue="fra"> nom propre
@@ -23886,8 +23885,8 @@
 
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
 \or Yijie Ddeema
-\et ʝi˧tɕi˧
-\et ɖɯ˩mɑ#˥
+\ets ʝi˧tɕi˧
+\ets ɖɯ˩mɑ#˥
 \ps n
 \lc ʝi˧tɕi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -23904,8 +23903,8 @@
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
-\et ʝi˧tɕi˧
-\et ɬɑ˧mv̩˥$
+\ets ʝi˧tɕi˧
+\ets ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -24555,8 +24554,8 @@
 \sf <nb="B"> 1830
 \sf <nb="2011"> 2783
 \or yeyobbu
-\et jɤ˩jo#˥
-\et bɻ̩˥
+\ets jɤ˩jo#˥
+\ets bɻ̩˥
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24603,8 +24602,8 @@
 \sf <nb="B"> 767
 \sf <nb="2011"> 1162
 \or yoku
-\et jo˩
-\et kʰv̩˧˥
+\ets jo˩
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -25219,7 +25218,7 @@
 
 \lx kʰi˧-zo#˥
 \or kisso
-\et kʰi˥
+\ets kʰi˥
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -25462,8 +25461,8 @@
 
 \lx ki˧zo˧-ɖɯ˩mɑ˩
 \or Gisso Ddeema
-\et ki˧zo#˥
-\et ɖɯ˩mɑ#˥
+\ets ki˧zo#˥
+\ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -25480,8 +25479,8 @@
 \lx ki˧zo˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3287
 \or Gisso Lhamu
-\et ki˧zo#˥
-\et ɬɑ˧mv̩˥$
+\ets ki˧zo#˥
+\ets ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -26156,8 +26155,8 @@
 \sf <nb="B"> 525
 \sf <nb="2011"> 737
 \or gemi
-\et kɤ˩
-\et -mi˩˧
+\ets kɤ˩
+\ets -mi˩˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -26552,8 +26551,8 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
-\et kɤ˩
-\et -zo˥
+\ets kɤ˩
+\ets -zo˥
 \lc kɤ˩zo˩˥
 \so <print="n"> F4
 \pdv ɭɯ˧β
@@ -26567,8 +26566,8 @@
 
 \lx kɤ˧zo˧-tsʰɯ˩ɻ̩˩
 \or Gesso Ci'er
-\et kɤ˧zo#˥
-\et tsʰɯ˧ɻ̩#˥
+\ets kɤ˧zo#˥
+\ets tsʰɯ˧ɻ̩#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28008,8 +28007,8 @@
 \sf <nb="B"> 770
 \sf <nb="2011"> 1165
 \or kuku
-\et kʰv̩˥2
-\et kʰv̩˧˥
+\ets kʰv̩˥2
+\ets kʰv̩˧˥
 \ps n
 \lc kʰv̩˧kʰv̩˩
 \sd <langue="fra"> temps
@@ -29572,7 +29571,7 @@
 \sf <nb="B"> 1653
 \sf <nb="2011"> 1388
 \or laggulani
-\et lɑ˩gv̩˧
+\ets lɑ˩gv̩˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -29651,8 +29650,8 @@
 \sf <nb="B"> 762
 \sf <nb="2011"> 1157
 \or laku
-\et lɑ˧1
-\et kʰv̩˧˥
+\ets lɑ˧1
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -30107,9 +30106,9 @@
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
 \or Latami Daeshi Lhamu
-\et lɑ˧tʰɑ˧mi˥$
-\et ʈæ˧ʂɯ˧
-\et ɬɑ˧mv̩˥$
+\ets lɑ˧tʰɑ˧mi˥$
+\ets ʈæ˧ʂɯ˧
+\ets ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -30514,8 +30513,8 @@
 
 \lx li˩qʰɑ˩
 \or likha
-\et li˩˥
-\et qʰɑ˥
+\ets li˩˥
+\ets qʰɑ˥
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -33960,9 +33959,14 @@
 \xf |fg{accomp} 〜 |fg{pfv}
 \xv ʝi˧-lv̩˧˥
 \xe to plough
-\xn 耕种
+\xn 犁地、耕种
 \xf labourer
-\xc <langue="fra"> Le mot ‘labourer' contient le nom |fv{/ʝi˧/} ‘vache/taureau', comme dans |fv{/ʝi˧ lv̩˩} ‘faire paître les vaches', dont le distinguent les tons. Ce mot ‘labourer' peut néanmoins s'employer même si c'est en fait un buffle qui laboure et non un bœuf: le disyllabe est lexicalisé dans le sens de ‘labourer'. Syntaxiquement, les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
+\xc <langue="fra" dom="sem"> Le mot ‘labourer' contient le nom |fv{/ʝi˧/} ‘vache/taureau', comme dans |fv{/ʝi˧ lv̩˩} ‘faire paître les vaches', dont le distinguent les tons. Ce mot ‘labourer' peut néanmoins s'employer même si c'est en fait un buffle qui laboure et non un bœuf: le disyllabe est lexicalisé dans le sens de ‘labourer'.
+\xc <langue="eng" dom="sem"> The word ‘to plough' contains the noun |fv{/ʝi˥1/} ‘cow/bull' (which also appears in |fv{/ʝi˧ lv̩˩} ‘to graze the cows', which is only distinguished from ‘to plough' by the tones). This word, ‘to plough', can nevertheless be used even if it is in fact a buffalo that ploughs and not an ox: the disyllable is lexicalized in the general sense of ‘to plough'.
+\xc <langue="cmn" dom="sem"> ‘耕种’一词包含名词|fv{/ʝi˥1/}‘牛’（这一名词也出现在|fv{/ʝi˧ lv̩˩}‘牧牛’中，‘牧牛’与‘耕种’的音系区别仅在于声调）。即使犁地的实际上是水牛而不是黄牛，‘犁地’这个词也可以使用：它被词汇话为一般意义上的‘犁地’。
+\xc <langue="fra" dom="synt"> Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
+\xc <langue="eng" dom="synt"> xxxxxx Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
+\xc <langue="cmn" dom="synt"> Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
 \xv dʑi˧mi˧ lv̩˧˥ / dʑi˧mi˧ lv̩˧-ze˥
 \xe to plough with a water buffalo
 \xn 用水牛耕田
@@ -34070,7 +34074,7 @@
 \sf <nb="2011"> 2132
 \hm 3
 \or lhuq
-\et ɬv̩˩α2
+\ets ɬv̩˩α2
 \ps v
 \lc ɬv̩˩˥
 \sd <langue="fra"> verbe
@@ -34994,8 +34998,8 @@
 \sf <nb="B"> 2032
 \sf <nb="2011"> 3130
 \or milhiwobbu
-\et mi˩ɬi˩
-\et ʁo˧bv̩˧
+\ets mi˩ɬi˩
+\ets ʁo˧bv̩˧
 \ps n
 \lc mi˩ɬi˩ʁo˩bv̩˥
 \sd <langue="fra"> plante
@@ -35260,7 +35264,9 @@
 \xe Let's eat noodles!
 \xn 吃面吧！
 \xf On va manger des nouilles!
-\xc <langue="fra"> trois variantes
+\xc <dom="ton" langue="fra"> Cette expression possède trois variantes tonales.
+\xc <dom="ton" langue="eng"> This phrase has three tonal variants.
+\xc <dom="ton" langue="cmn"> 该短语有三种声调变体。
 \xv mje˧˥ | ɖɯ˧-qʰwɤ˧ tɕɤ˥
 \xe to boil a bowl of noodles, to cook a bowl of noodles
 \xn 煮一碗面
@@ -35305,11 +35311,11 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de Greedy, covetous.
+\de Greedy, covetous. Applies to food, but also to alcohol, tobacco...
 \ge greedy
 \dn 贪心不足，贪吃、贪喝酒、贪抽烟
 \gn 贪心
-\df Avide, glouton. S'applique à la nourriture, mais aussi à l'alcool, au tabac…
+\df Avide, glouton. S'applique à la nourriture, ainsi qu'à l'alcool, au tabac…
 \gf avide
 \xv hɑ˧ mo˧
 \xe as above: greedy; refers specifically to food
@@ -35319,15 +35325,16 @@
 \xe extremely greedy for food
 \xn 很贪吃
 \xf très avide de nourriture
-\xv mɤ˧-hɑ˧mo˧!
+\xv mɤ˧-hɑ˧ mo˧!
 \xe |fg{neg}: not greedy
 \xn 不贪吃
 \xf |fg{neg}: pas avide
-\xc <langue="eng"> One of the two ways of negating the phrase: with negation preceding the entire phrase.
-\xc <langue="fra"> L'une des deux façons de faire porter la négation sur l'expression: la négation précède l'expression entière.
+\xc <langue="fra" dom="synt"> Pour faire porter la négation sur l'expression, la négation précède l'expression entière.
+\xc <langue="eng" dom="synt"> Negating the phrase is achieved with negation preceding the entire phrase.
+\xc <langue="cmn" dom="synt"> 否定词是在整个短语前面加上的。
 \xv ‡hɑ˧ | mɤ˧-mo˧
 \xe ‡|fg{neg}: ungrammatical construction. Intended meaning: not greedy. This phrase cannot be split into two by insertion of the negation right in front of the monosyllabic adjective.
-\xn 不贪吃（病句）
+\xn 病句：无法将该短语分为两个部分，中间（在单音节形容词前）插入否定词。
 \xf ‡|fg{neg}: construction non grammaticale. L'intention était de reformuler l'expression ‘pas gourmand' en déplaçant la négation. Mais l'expression ne peut être scindée par l'insertion de la négation juste devant l'adjectif monosyllabique.
 
 \lx mo˧˥
@@ -35482,7 +35489,9 @@
 \xe ‘[They have kids] like (=as numerous as) morels in the seventh month!', i.e. they have children in great abundance. This is a comforting message to people who do not yet have as many children as they would want. It can also be a humorous comment made about people who had one child after the other. The abundance of morels in the seventh month is spectacular and proverbial.
 \xn （你们家孩子）生得像七月份的羊肚菌一样！（来形容一家有很多孩子出生，一个又一个。在永宁地区，七月份羊肚菌很多。）
 \xf «Il vous en vient comme des morilles au septième mois!» Commentaire humoristique: ce qu'on disait au sujet des gens qui avaient beaucoup d'enfants, qui avaient enfant après enfant: «Ca prolifère comme les morilles au septième mois!»
-\xc <dom="phono" langue="fra"> Avant 2014, noté /|fv{ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/. La syllabe /|fv{-ʝi˩}/ est particulièrement discrète. Sa réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, comme /|fv{-ne˩-zo˩}/, si la langue continue d'être transmise.
+\xc <dom="phono" langue="fra"> La syllabe /|fv{-ʝi˩}/ est particulièrement discrète (ce qui avait conduit, avant 2014, à une notation /|fv{‡ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/). Sa réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, comme /|fv{-ne˩-zo˩}/, si la langue continue d'être transmise.
+\xc <dom="phono" langue="eng"> The syllable /|fv{-ʝi˩}/ is phonetically reduced (which had led, prior to 2014, to a notation /|fv{‡ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/). Its reduction could easily lead to reinterpretation in the next generation, as /|fv{-ne˩-zo˩}/, if the language continues to be transmitted.
+\xc <dom="phono" langue="cmn"> /|fv{-ʝi˩}/音节的弱化很强（2014年之前，这种弱化导致了此短语被听成/|fv{‡ʂɯ˧-ɬi˧mi˧|mo˧ɖʐv̩˥-ne˩-zo˩}/）。如果语言继续流传下去，很容易在下一代简化为/|fv{-ne˩-zo˩}/。
 \xc PROVERBE
 
 \lx mo˧jo˩-mi˩
@@ -35716,8 +35725,8 @@
 
 \lx mo˧nɑ˥-ɕi˩mi˩
 \or mona xiemi
-\et mo˧nɑ˥
-\et ɕi˩mi˩
+\ets mo˧nɑ˥
+\ets ɕi˩mi˩
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -36165,7 +36174,7 @@
 \xe family name
 \xn 姓
 \xf nom de famille
-\xc <dom="ton" langue="fra"> ton: M
+\xc <dom="ton"> M
 \xv lɑ˧tʰɑ˧mi˧=ɻ˥-dʑo˩, | ʑi˧dv̩˧-mv˧ ɲi˩!
 \xe ‘Latami’ is our family name!
 \xn 拉他咪，是我们家的姓！
@@ -36310,6 +36319,8 @@
 \xn 点火
 \xf allumer un feu, faire un feu
 \xc <langue="fra" dom="ton"> Schéma tonal régulier: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, donne régulièrement M.L.
+\xc <langue="eng" dom="ton"> The tone pattern is regular: /|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/, H+MH, yields.
+\xc <langue="cmn" dom="ton"> 声调是规律的：/|fv{mv̩˥}/ + /|fv{kʰɯ˧˥}/，H+MH，得出M.L。
 \xv mv̩˧ ɖɯ˧-æ̃˩ kʰɯ˩
 \xe to light a fire, to do a fire
 \xn 点一个火
@@ -36418,7 +36429,7 @@
 \sf <nb="B"> 10
 \sf <nb="2011"> 20
 \or muxiejjitee
-\et mv̩˧ɕi˥
+\ets mv̩˧ɕi˥
 \ps n
 \lc mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sd <langue="fra"> environnement naturel
@@ -36471,8 +36482,8 @@
 \sf <nb="B"> 51b
 \sf <nb="2011"> 85
 \or muddi
-\et mv̩˧di˩˥
-\et di˩˥
+\ets mv̩˧di˩˥
+\ets di˩˥
 \ps n
 \lc mv̩˧di˧˥
 \sn 1
@@ -36705,8 +36716,8 @@
 \sf <nb="B"> 764
 \sf <nb="2011"> 1159
 \or mugguku
-\et mv̩˧gv̩#˥
-\et kʰv̩˧˥
+\ets mv̩˧gv̩#˥
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -37014,8 +37025,8 @@
 
 \lx mv̩˧qo˩-dʑɯ˩
 \or mughojji
-\et mv̩˧qo˩
-\et dʑɯ˩
+\ets mv̩˧qo˩
+\ets dʑɯ˩
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -37312,8 +37323,8 @@
 
 \lx mv̩˩tʰi˩
 \or muti
-\et mv̩˩˥
-\et tʰi˧
+\ets mv̩˩˥
+\ets tʰi˧
 \nt <type="hist" langue="fra" print="n"> Avant 2024: analysé comme un adjectif. "De ‘fille, femme' et ‘intelligent'. On s'attendrait à ce que le résultat soit simplement un nom; |fv{/mv̩˩tʰi˩/} peut effectivement se comprendre ainsi ('femme intelligente'), mais est également employé comme adjectif (prédicat): ‘(être) intelligente'." En réalité, ce n'est pas un adjectif mais un nom. Version anglaise de la note caduque: "From ‘girl, woman' and ‘clever'. One would expect a reading as a noun; |fv{/mv̩˩tʰi˩/} can actually have this meaning ('clever woman'), but it is also used as an adjective (a predicate): ‘(to be) intelligent (said of a woman)'."
 \ps n
 \sd <langue="fra"> adjectif
@@ -37634,7 +37645,7 @@
 \sf <nb="B"> 595
 \sf <nb="2011"> 855
 \or muzhunumi
-\et mv̩˧ʈʂv̩˩; nv̩˩mi˩
+\ets mv̩˧ʈʂv̩˩; nv̩˩mi˩
 \ps n
 \lc mv̩˧ʈʂv̩˩nv̩˩mi˩
 \sd <langue="fra"> objet
@@ -38137,31 +38148,39 @@
 \xe (S)he is going to die! I am devastated!
 \xn 他要死了！我很伤心！
 \xf Il/elle va mourir! Je suis au désespoir!
+\rf M18
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧ tʰi˧-mv̩˧-ʂɯ˧-kwɤ˧tɕɯ˥-lɑ˩…
 \xe as this person is going to die soon…
 \xn 因为这个人快要去世……
 \xf du fait que cette personne va mourir très bientôt…
+\rf M18
 \xv mv̩˧-dzɯ˧-bi˩-ze˩!
 \xe [We are] about to eat! / We are going to eat right now!
 \xn 马上要吃了！
 \xf [On] va manger tout de suite!
 \xc PHONO
-\xc <langue="fra" dom="synt"> Exemple considéré impropre par la locutrice principale.
+\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\rf M18
 \xv mv̩˧-hwæ˧
 \xe about to buy
 \xn 即将买
 \xf sur le point d'acheter
 \xc PHONO
+\rf M18
 \xv mv̩˧-tɕʰi˧
 \xe about to sell
 \xn 即将卖
 \xf sur le point de vendre
 \xc PHONO
+\rf M18
 \xv mv̩˧-dzɯ˧-kwɤ˧tɕɯ˥-lɑ˩…
 \xe since (she/he) is about to eat…
 \xn 因为马上要吃……
 \xf puisqu'elle/il est sur le point de manger…
 \xc PHONO
+\rf M18
 \xv mv̩˧-lɑ˩-kwɤ˩tɕɯ˩-lɑ˩…
 \xe since (she/he) is about to strike…
 \xn 因为要打……
@@ -38205,7 +38224,7 @@
 \sf <nb="B"> 1057
 \sf <nb="2011"> 1490
 \or mumu
-\et mv̩˥
+\ets mv̩˥
 \ec <langue="fra"> réduplication de ‘comprendre'
 \ec <langue="eng"> reduplicated from ‘to understand'
 \ec <langue="cmn"> ‘懂’的重叠形式
@@ -38532,8 +38551,8 @@
 
 \lx \xv nɑ˩hĩ˧-ʐwɤ˧˥
 \or Nahinrua
-\et nɑ˩hĩ#˥
-\et ʐwɤ˩β
+\ets nɑ˩hĩ#˥
+\ets ʐwɤ˩β
 \ps n
 \lc nɑ˩hĩ˧ʐwɤ˧˥
 \sd <langue="fra"> ethnies
@@ -38748,8 +38767,8 @@
 \lx nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥
 \or Nacee-Qebemi
 \ps n
-\et nɑ˩tsʰi˩
-\et tɕʰɤ˧pɤ˧-mi#˥
+\ets nɑ˩tsʰi˩
+\ets tɕʰɤ˧pɤ˧-mi#˥
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L-#H
@@ -38849,7 +38868,7 @@
 
 \lx nɑ˧~nɑ˥
 \or nana
-\et nɑ˩
+\ets nɑ˩
 \ec <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
 \ec <langue="eng"> Probably a reduplicated form of ‘black, dark'
 \ec <langue="cmn"> 这个词估计是‘黑、暗’的重叠
@@ -38952,7 +38971,9 @@
 \xn 夹一点
 \xf serrer un peu
 \xc PHONO
-\xc <langue="fra"> Elicitation d'une forme rédupliquée: permet d'établir que le ton est La: réduplication en MH, comme pour ‘balayer': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}. Un ton Lb donnerait le type ‘parler': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
+\xc <langue="fra" dom="ton"> L'élicitation d'une forme rédupliquée permet d'établir que le ton est Lα. Sa réduplication donne le même schéma (M.M.H.L) que pour le verbe ‘balayer': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}. Un ton Lβ donnerait un schéma M.H.L.L, comme pour le verbe ‘parler': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
+\xc <langue="eng" dom="ton"> Elicitation of a reduplicated form establishes that the verb's tone is Lα. Its reduplication yields the same pattern (M.M.H.L) as for the verb ‘to sweep': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}.  An Lβ tone would yield an M.H.L.L pattern, as for the verb ‘to speak': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
+\xc <langue="cmn" dom="ton"> 通过重叠形式的声调，可以确定动词的本调是Lα。其重叠模式（M.M.H.L）与动词 ‘扫’相同：|fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}。Lβ调则会给出M.H.L.L模式，如动词‘说话’：|fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}。
 \xv læ˩dæ˩qæ˥-bi˩ ɲi˩
 \xe to hold tightly under the armpit
 \xn 夹紧腋下
@@ -39577,7 +39598,9 @@
 \xe Do you have sisters?
 \xn 你有姐妹吗？
 \xf Tu as des sœurs?
-\xc <langue="fra" dom="synt"> Il n'est pas possible d'ajouter /|fv{ʝi}/+/|fv{-hĩ˧}/, à la différence de la question «Tu as des frères?».
+\xc <langue="fra" dom="synt"> Il n'est pas possible d'ajouter à cette expression /|fv{ʝi}/+/|fv{-hĩ˧}/, à la différence de la question «Tu as des frères?».
+\xc <langue="eng" dom="synt"> It is not possible to add /|fv{ʝi}/+/|fv{-hĩ˧}/ to this expression , unlike in the question “Do you have any brothers?”
+\xc <langue="cmn" dom="synt"> 与“你有兄弟吗？”那个问题不同，此问题里不能加上/|fv{ʝi}/+/|fv{-hĩ˧}/。
 
 \lx ɲi˧nɑ˩
 \sf <nb="B"> 2051
@@ -40091,10 +40114,12 @@
 \df Poisson.
 \gf poisson
 \xv ɲi˧zo˧ tʰv̩˧-mi˥# / ɲi˧zo˧ tʰv̩˧-mi˧˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那条鱼
-\xc <dom="tone" langue="fra"> La locutrice exprime une préférence pour le premier de ces deux schémas tonals: H#.
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
+\xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. La locutrice exprime une préférence pour le schéma tonal H#.
+\xc <dom="ton" langue="eng"> This phrase has two tonal variants. The speaker expresses a preference for H#.
+\xc <dom="ton" langue="cmn"> 该短语有两种声调变体。标准发音人偏爱H#。
 \xc PHONO
 \xv ɲi˧zo˧-tɑ˧pɻ̩˥
 \xe dried fish
@@ -40537,7 +40562,7 @@
 \xe ear of highland barley
 \xn 青稞穗
 \xf épi d'orge d'altitude
-\xc H#
+\xc <dom="ton"> H#
 \xv dze˧ɭɯ˧-hɑ˧njo˩
 \xe ear of wheat
 \xn 小麦穗
@@ -40595,7 +40620,9 @@
 \xe my family, my people, my clan
 \xn 我的人、我家人、我的家族
 \xf les miens, ma famille
-\xc <dom="sem" langue="fra"> Construction considérée comme inadéquate par la locutrice principale.
+\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" type="dialect"> F4不使用此说法。
 \rf M18
 \xv njɤ˧ no˧ lɑ˧˥
 \xe I strike you
@@ -40984,7 +41011,7 @@
 \lx njɤ˧lɑ˥
 \sf <nb="2011"> 1411
 \or nyala
-\et njɤ˧˥
+\ets njɤ˧˥
 \ps adv
 \ton H#
 \lc njɤ˧lɑ˥
@@ -41322,8 +41349,8 @@
 
 \lx no˧no˧-ɖɯ˩mɑ˩
 \or Nono Ddeema
-\et no˧no˧
-\et ɖɯ˩mɑ#˥
+\ets no˧no˧
+\ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -41339,7 +41366,7 @@
 
 \lx no˩qo˥
 \or nogho
-\et -qo˧
+\ets -qo˧
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -42012,8 +42039,8 @@
 \sf <nb="B"> 671
 \sf <nb="2011"> 1001
 \or numi ddeeq
-\et nv̩˩mi˩
-\et ɖɯ˩α
+\ets nv̩˩mi˩
+\ets ɖɯ˩α
 \ps adj
 \an nv̩˩mi˩-tɕi˥
 \lc nv̩˩mi˩ɖɯ˩˥
@@ -42045,7 +42072,7 @@
 
 \lx nv̩˩mi˩-tɕi˥
 \or numi jieq
-\et nv̩˩mi˩; tɕi˩α
+\ets nv̩˩mi˩; tɕi˩α
 \ps adj
 \an nv̩˩mi˩-ɖɯ˩
 \lc nv̩˩mi˩tɕi˥
@@ -42068,8 +42095,8 @@
 
 \lx nv̩˩mi˩-dzɑ˩
 \or numi zza
-\et nv̩˩mi˩
-\et dzɑ˥
+\ets nv̩˩mi˩
+\ets dzɑ˥
 \ps adj
 \lc nv̩˩mi˩dzɑ˩˥
 \cf nv̩˩mi˩-ɖɯ˩
@@ -42092,7 +42119,7 @@
 \lx nv̩˩mi˩-ki˧ki˩
 \sf <nb="2011"> 1516
 \or numi gigi
-\et nv̩˩mi˩; ki˧α
+\ets nv̩˩mi˩; ki˧α
 \ps adj
 \ton L-L#
 \lc nv̩˩mi˩ki˧ki˩
@@ -42110,7 +42137,7 @@
 \lx nv̩˩mi˩-ʈʰi˩
 \sf <nb="2011"> 1004
 \or numi teiq
-\et nv̩˩mi˩; ʈʰi˩α
+\ets nv̩˩mi˩; ʈʰi˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -42610,28 +42637,29 @@
 \xn 自己的马
 \xf son propre cheval
 \xc PHONO
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
+\xc <langue="fra" dom="ton"> Cet exemple, de même que les suivants, illustre la neutralisation de tous les tons (en L) après l'expression |fv{/õ˧=bv̩˥-õ˩/}.
+\xc <langue="eng" dom="ton"> This and the following examples illustrate the neutralization of all tones (to L) after the expression |fv{/õ˧=bv̩˥-õ˩/}.
+\xc <langue="cmn" dom="ton"> 这个例子（和下面的例子）说明了，|fv{/õ˧=bv̩˥-õ˩/}之后所有声调的中和。
 \xv õ˧=bv̩˥-õ˩ ʝi˩
 \xe one's own cow
 \xn 自己的牛
 \xf sa propre vache
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
 \xv õ˧=bv̩˥-õ˩ lv̩˩
 \xe one's own field
 \xn 自己的田地
 \xf son propre champ
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
 \xv õ˧=bv̩˥-õ˩ ɖʐe˩
 \xe one's own money
 \xn 自己的钱
 \xf son propre argent
-\xc <langue="fra"> cet exemple illustre la neutralisation de tous les tons après |fv{/õ˧=bv̩˥-õ˩/}
 \xv õ˧mv̩˥-õ˩di˩
 \xe birth place
 \xn 出生的地方、老家、故乡
 \xf lieu de naissance, lieu d'origine
-\xc <langue="fra"> avais d'abord pensé que cela signifiait “son propre nom, sa propre terre"; en fait, cela provient du disyllabe |fv{/mv̩˧di˧˥/} ‘terres'.
-\xc s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}
+\xc <langue="fra" type="hist" print="n"> avais d'abord pensé que cela signifiait “son propre nom, sa propre terre"; en fait, cela provient du disyllabe |fv{/mv̩˧di˧˥/} ‘terres'.
+\xc <langue="fra" dom="sem"> Cette expression s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “les terres d'autrui, les terres étrangères".
+\xc <langue="eng" dom="sem"> This phrase contrasts with |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “other people's lands / foreign lands".
+\xc <langue="cmn" dom="sem"> 这个短语与|fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}“别人的土地/外地”形成对比。
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
 \xe “East or west, home is the best.” No matter how beautiful other people's places are, they can never be equal to one's own homeland!
 \xn “金窝银窝，不如自家的狗窝。”其他人的地方怎么好，也比不过自己的地方！
@@ -43764,8 +43792,8 @@
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
 \or Bima Lhamu
-\et pi˧mɑ˧
-\et ɬɑ˧mv̩˥$
+\ets pi˧mɑ˧
+\ets ɬɑ˧mv̩˥$
 \ps n
 \lc pi˧mɑ˧ɬɑ˩mv̩˩
 \sd <langue="fra"> nom propre
@@ -43781,8 +43809,8 @@
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
 \or Bima Lhaco
-\et pi˧mɑ˧
-\et ɬɑ˧tsʰo#˥
+\ets pi˧mɑ˧
+\ets ɬɑ˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -44004,8 +44032,8 @@
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
-\et pʰi˧tsʰo#˥
-\et ɖɯ˩ɖʐɯ˧
+\ets pʰi˧tsʰo#˥
+\ets ɖɯ˩ɖʐɯ˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -44962,14 +44990,14 @@
 
 \lx pʰɤ˧pʰv̩#˥
 \or pepu
-\et pʰɤ˩˧
-\et pʰv̩˧1
+\ets pʰɤ˩˧
+\ets pʰv̩˧1
 \ps n
 \sy pʰɤ˩pʰv̩˩
 \lc pʰɤ˧pʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" langue="fra" print="n"> existence de 2 variantes tonales confirmée: L, #H
+\nt <type="hist" langue="fra" print="n"> L'existence de 2 variantes tonales est confirmée. Il s'agit de L et #H.
 \ton #H
 \so <print="n"> F4
 \pdv mi˩
@@ -44982,8 +45010,8 @@
 
 \lx pʰɤ˩pʰv̩˩
 \or pepu
-\et pʰɤ˩˧
-\et pʰv̩˧1
+\ets pʰɤ˩˧
+\ets pʰv̩˧1
 \ps n
 \sy pʰɤ˧pʰv̩#˥
 \lc pʰɤ˩pʰv̩˩˥
@@ -45915,8 +45943,8 @@
 \sf <nb="B"> 1012
 \sf <nb="2011"> 1444
 \or puddee
-\et pʰv̩˧2
-\et ɖɯ˩α
+\ets pʰv̩˧2
+\ets ɖɯ˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -46276,7 +46304,7 @@
 \sf <nb="B"> 955
 \sf <nb="2011"> 1393
 \or peujae'er
-\et pʰɻ̩˩α
+\ets pʰɻ̩˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -46397,8 +46425,8 @@
 \sf <nb="B"> 425c
 \sf <nb="2011"> 540
 \or buzi bumi
-\et pɻ̩˩tsɯ˧˥
-\et pɻ̩˩mi˩
+\ets pɻ̩˩tsɯ˧˥
+\ets pɻ̩˩mi˩
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -46460,8 +46488,8 @@
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
 \or puro
-\et pʰv̩˧2
-\et ʐo˩α2
+\ets pʰv̩˧2
+\ets ʐo˩α2
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -47877,7 +47905,7 @@
 \sf <nb="B"> 1074b
 \sf <nb="2011"> 1517
 \or khaedae
-\et qʰæ˩α1
+\ets qʰæ˩α1
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48023,7 +48051,7 @@
 \sf <nb="B"> 1094
 \sf <nb="2011"> 1556
 \or khaedae'er
-\et qʰæ˩2
+\ets qʰæ˩2
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48614,8 +48642,8 @@
 \lx mɑ˩ɳɯ˧-qʰo˥lo˩
 \sf <nb="2011"> 136
 \or manee kholo
-\et mɑ˩ɳɯ#˥
-\et qʰo˧lo˧
+\ets mɑ˩ɳɯ#˥
+\ets qʰo˧lo˧
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -49672,7 +49700,7 @@
 \lx qʰwæ˧~qʰwæ˧
 \or khuaekhuae
 \ps n
-\et qʰwæ˩α
+\ets qʰwæ˩α
 \lc qʰwæ˧qʰwæ˧
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -49875,8 +49903,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx qʰwæ˧kʰwɤ#˥
 \or khuaekua
-\et qʰwæ˧
-\et kʰwɤ˥α
+\ets qʰwæ˧
+\ets kʰwɤ˥α
 \ps n
 \lc qʰwæ˧kʰwɤ˧
 \sd <langue="fra"> abstrait
@@ -50032,7 +50060,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sf <nb="2011"> 2744
 \or ghuaesheilabbu
-\et qwæ˧ʂe#˥
+\ets qwæ˧ʂe#˥
 \sy qwæ˧ʂe#˥
 \ps n
 \lc qwæ˧ʂe˧lɑ˧bɻ̩˥
@@ -51238,8 +51266,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 1017c
 \sf <nb="2011"> 2482
 \or hraezzhu
-\et ʁæ˩α4
-\et ɖʐɻ̩˩α
+\ets ʁæ˩α4
+\ets ɖʐɻ̩˩α
 \ps adj
 \ton LM
 \lc ʁæ˩ɖʐɻ̩˥
@@ -51648,7 +51676,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻæ˩ti˩ɻæ˥
 \or laedilae
-\et ɻæ˩α
+\ets ɻæ˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -54293,8 +54321,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩
 \or Erchei Ddeema
-\et ɻ̩˩ʈʂʰe#˥
-\et ɖɯ˩mɑ#˥
+\ets ɻ̩˩ʈʂʰe#˥
+\ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -54310,8 +54338,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻ̩˩ʈʂʰe˧-tsʰɯ˩ɻ̩˩
 \or Erchei Ci'er
-\et ɻ̩˩ʈʂʰe#˥
-\et tsʰɯ˧ɻ̩#˥
+\ets ɻ̩˩ʈʂʰe#˥
+\ets tsʰɯ˧ɻ̩#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -54767,7 +54795,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʂæ˩ɻ̩̃˩
 \sf <nb="2011"> 285
 \or shae'eun
-\et ɻ̩̃˥1
+\ets ɻ̩̃˥1
 \ps n
 \lc ʂæ˩ɻ̩̃˩˥
 \sd <langue="fra"> corps
@@ -55269,7 +55297,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʂe˧di˩
 \sf <nb="B"> 979
 \sf <nb="2011"> 2472
-\et ʂe˥1
+\ets ʂe˥1
 \or sheiddi
 \ps adj
 \sd <langue="fra"> adjectif
@@ -56152,8 +56180,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx si˧mo˩
 \or seemo
-\et si˥
-\et mo˩α2
+\ets si˥
+\ets mo˩α2
 \ps n
 \an si˧ɖʐɻ̩#˥
 \sd <langue="fra"> maison
@@ -56171,8 +56199,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx si˧ɖʐɻ̩#˥
 \or seezzheu
-\et si˥
-\et ɖʐɻ̩˥
+\ets si˥
+\ets ɖʐɻ̩˥
 \ps n
 \an si˧mo˩
 \sd <langue="fra"> maison
@@ -56299,8 +56327,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 2119b
 \sf <nb="2011"> 3254
 \or seezzee muzi
-\et si˧dzi˩
-\et mv̩˧tsɯ˧˥
+\ets si˧dzi˩
+\ets mv̩˧tsɯ˧˥
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -59181,8 +59209,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʂv̩˧kʰɯ˩
 \sf <nb="2011"> 1724
 \or shukee
-\et ʂv̩˥
-\et kʰɯ˧˥2
+\ets ʂv̩˥
+\ets kʰɯ˧˥2
 \ps v
 \ton L#
 \lc ʂv̩˧kʰɯ˩
@@ -61045,8 +61073,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
 \or Daeshi Ddeema
-\et ʈæ˧ʂɯ˧
-\et ɖɯ˩mɑ#˥
+\ets ʈæ˧ʂɯ˧
+\ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -61063,8 +61091,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \or Daeshi Lhamu
-\et ʈæ˧ʂɯ˧
-\et ɬɑ˧mv̩˥$
+\ets ʈæ˧ʂɯ˧
+\ets ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -61082,8 +61110,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-pæ˩pʰæ˩
 \or Daeshi Baepae
-\et ʈæ˧ʂɯ˧
-\et pæ˩pʰæ˧˥2
+\ets ʈæ˧ʂɯ˧
+\ets pæ˩pʰæ˧˥2
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -61099,8 +61127,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
 \or Daeshi Daedeu
-\et ʈæ˧ʂɯ˧
-\et ʈæ˩ʈv̩#˥
+\ets ʈæ˧ʂɯ˧
+\ets ʈæ˩ʈv̩#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -61116,8 +61144,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-tsʰi˩ti˩
 \or Daeshi Ceedi
-\et ʈæ˧ʂɯ˧
-\et tsʰi˧ti#˥
+\ets ʈæ˧ʂɯ˧
+\ets tsʰi˧ti#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -62848,7 +62876,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 584
 \sf <nb="2011"> 825
 \or jadabbae
-\et tɕɤ˧tɑ˧; bæ˩
+\ets tɕɤ˧tɑ˧; bæ˩
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -65263,8 +65291,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 763
 \sf <nb="2011"> 1158
 \or toliku
-\et tʰo˧li˧
-\et kʰv̩˧˥
+\ets tʰo˧li˧
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -66824,8 +66852,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \or Gheu'er-Chana
-\et qv̩˧ɻ̩#˥
-\et ʈʂʰɑ˧nɑ˥
+\ets qv̩˧ɻ̩#˥
+\ets ʈʂʰɑ˧nɑ˥
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -68428,7 +68456,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈʂʰe˧~ʈʂʰe˧
 \or zheizhei
-\et ʈʂʰe˧β
+\ets ʈʂʰe˧β
 \ec <langue="eng">Probably from the verb ‘to stretch'
 \ps clf
 \sd <langue="fra"> classificateur
@@ -71691,8 +71719,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-ɖɯ˩mɑ˩
 \or Ci'er Ddeema
-\et tsʰɯ˧ɻ̩#˥
-\et ɖɯ˩mɑ#˥
+\ets tsʰɯ˧ɻ̩#˥
+\ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -71708,8 +71736,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
-\et tsʰɯ˧ɻ̩#˥
-\et ɬɑ˧mv̩˥$
+\ets tsʰɯ˧ɻ̩#˥
+\ets ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -71745,8 +71773,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-pʰi˩tsʰo˩
 \or Ci'er Pico
-\et tsʰɯ˧ɻ̩#˥
-\et pʰi˧tsʰo#˥
+\ets tsʰɯ˧ɻ̩#˥
+\ets pʰi˧tsʰo#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -72394,8 +72422,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 232
 \sf <nb="2011"> 305
 \or zheuji
-\et ʈʂɻ̩˥
-\et tɕɯ˩˥
+\ets ʈʂɻ̩˥
+\ets tɕɯ˩˥
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -73079,7 +73107,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
 \or zhuaezhuae nana
-\et ʈʂwæ˧~ʈʂwæ˧
+\ets ʈʂwæ˧~ʈʂwæ˧
 \ps adj
 \lc ʈʂwæ˧ʈʂwæ˧nɑ˧nɑ˧
 \sd <langue="fra"> adjectif
@@ -76284,8 +76312,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʐe˩ʐe˧-bæ˩bæ˩
 \or reirei bbaebbae
-\et jɤ˩ʐe˧
-\et bæ˩bæ˩1
+\ets jɤ˩ʐe˧
+\ets bæ˩bæ˩1
 \ec <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
 \ec <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word 'Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
 \ps n
@@ -76672,8 +76700,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 768
 \sf <nb="2011"> 1163
 \or xxiku
-\et ʑi˩˥
-\et kʰv̩˧˥
+\ets ʑi˩˥
+\ets kʰv̩˧˥
 \ps n
 \lc ʑi˩kʰv̩˧˥
 \sd <langue="fra"> temps
@@ -77329,8 +77357,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx zo˧hṽ̩˧-mv̩˥zo˩
 \sf <nb="2011"> 366
 \or ssohun musso
-\et zo˧hṽ̩˧˥
-\et mv̩˩zo˩
+\ets zo˧hṽ̩˧˥
+\ets mv̩˩zo˩
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -77599,8 +77627,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra" print="n"> Avant 2024: analysé comme un adjectif. "Sorte d'incorporation du sujet; cela ressemble à un nom, mais demeure un prédicat (adjectif)." En réalité, ce n'est pas un adjectif mais un nom.
 \ton M
 \lc zo˧tʰi˧
-\et tʰi˧
-\et zo#˥
+\ets tʰi˧
+\ets zo#˥
 \cf mv̩˩tʰi˩
 \de Intelligent man, clever boy. (There is a different term for women.)
 \ge intelligent_man
@@ -77689,8 +77717,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx zo˧ʐɤ#˥
 \or ssore
-\et zo˥
-\et ʐɤ˧β
+\ets zo˥
+\ets ʐɤ˧β
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -77848,7 +77876,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʐo˩~ʐo˧˥
 \sf <nb="2011"> 2256
 \or roro
-\et ʐo˩˥
+\ets ʐo˩˥
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -78481,9 +78509,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʐv̩˧bæ˧-bv̩˧-hɑ#˥
 \sf <nb="2011"> 3349
 \or rubbae bbu ha
-\et ʐv̩˧bæ˧
-\et =bv̩˧
-\et hɑ˥
+\ets ʐv̩˧bæ˧
+\ets =bv̩˧
+\ets hɑ˥
 \ec <langue="fra"> L'expression «nourriture du serpent» paraît motivée par le fait que cette plante a des feuilles grasses entortillées, qui peuvent faire penser à un corps de serpent. Le nom «serpent» apparaît dans plusieurs noms de plantes.
 \ec <langue="eng"> The expression ‘snake's food’ seems to be motivated by the fact that this plant has fat, twisted leaves, reminiscent of a snake's body. The noun ‘snake’ appears in several plant names.
 \ec <langue="cmn"> ‘蛇食’一词的由来似乎是因为这种植物的叶子肥厚、扭曲，让人联想到蛇的身体。‘蛇’这个名词出现在多种植物名称中。
@@ -79163,8 +79191,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 766
 \sf <nb="2011"> 1161
 \or ruaeku
-\et ʐwæ˥
-\et kʰv̩˧˥
+\ets ʐwæ˥
+\ets kʰv̩˧˥
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -79628,7 +79656,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʐwɤ˧mv̩˧
 \or ruamu
-\et ʐwɤ˩β
+\ets ʐwɤ˩β
 \ps n
 \lc ʐwɤ˧mv̩˧
 \sd <langue="fra"> langage
