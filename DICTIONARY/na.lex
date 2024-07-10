@@ -844,9 +844,9 @@
 \xe |fg{red}; same meaning: blue-green
 \xn 重叠。同上：青色
 \xf |fg{red}; même sens: bleu-vert
-\xc <langue="eng"> Not accepted by F4 and M21.
-\xc <langue="fra"> Expression qui n'est pas acceptée par F4 et M21.
-\xc <langue="cmn"> F4与M21合作人不用这个说法。
+\xc <langue="fra" dom="dialect"> Expression qui n'est pas acceptée par F4 et M21.
+\xc <langue="eng" dom="dialect"> Not accepted by F4 and M21.
+\xc <langue="cmn" dom="dialect"> F4与M21合作人不用这个说法。
 \rf F5
 \xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
@@ -1690,13 +1690,17 @@
 \xn “一年收千棵，不够吃百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!» Littéralement: «si, une année, mille récoltes parvenaient à maturité, on n['en] mangerait pas [pour autant pendant] cent ans =on n'aurait pas à manger pour cent ans!» Le proverbe sert à se consoler d'une mauvaise récolte, qui va obliger à une année frugale: «Si belle soit la récolte, elle n'aurait de toute façon pas duré éternellement; tout est à recommencer l'année suivante, voyons donc de l'avant!»
 \xc PROVERBE
-\xc <langue="fra"> Dans la parole ordinaire, on dirait: |fv{/ɕi˧-kʰv̩˧˥/}, et cela donnerait: |fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou |fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: |fv{/ɕi˧-kʰv̩˧/}, au lieu du |fv{/ɕi˧-kʰv̩˧˥/} de la langue ordinaire.
+\xc <langue="fra" dom="phono"> Dans la parole ordinaire, on dirait: |fv{/ɕi˧-kʰv̩˧˥/}, et cela donnerait: |fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} ou |fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}; ces formulations sont acceptables, mais ce n'est pas ainsi que se prononce le proverbe, qui présente une particularité de prononciation: |fv{/ɕi˧-kʰv̩˧/}, au lieu du |fv{/ɕi˧-kʰv̩˧˥/} de la langue ordinaire.
+\xc <langue="eng" dom="phono"> In ordinary speech one would say |fv{/ɕi˧-kʰv̩˧˥/}, and this would yield |fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} or |fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/}. These formulations are acceptable, but this is not how the proverb is pronounced. It has a peculiar pronunciation: |fv{/ɕi˧-kʰv̩˧/}, instead of the |fv{/ɕi˧-kʰv̩˧˥/} of the ordinary language.
+\xc <langue="cmn" dom="phono"> 在今日白话中，人们会说|fv{/ɕi˧-kʰv̩˧˥/}，这样就会产生|fv{/ɕi˧-kʰv̩˧˥ | le˧-mɤ˧-dzɯ˧/} 或|fv{/ɕi˧-kʰv̩˧ le˥-mɤ˩-dzɯ˩/} 。这些说法都是可以的，但谚语的发音并非如此。它有一个特殊的发音：|fv{/ɕi˧-kʰv̩˧/}，而不是白话的|fv{/ɕi˧-kʰv̩˧˥/}。
 \xv ɖɯ˧-kʰv̩˧ ʈv̩˧-bæ˥ mv̩˩, | ɕi˧-kʰv̩˧ | dzɯ˧ mɤ˧-mv̩˥!
 \xe As above: “This year, even if we had had a thousand harvests, it would not have lasted a hundred years!"
 \xn 同上：“今年收成千担，也不够吃一百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf Idem ci-dessus: «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!»
 \xc PROVERBE
-\xc <langue="fra"> Ce proverbe est jugé erroné par F4.
+\xc <langue="fra" type="dialect"> Proverbe qui n'est pas connu de F4.
+\xc <langue="eng" type="dialect"> Consultant F4 does not know this proverb.
+\xc <langue="cmn" type="dialect"> F4不使用此说法。
 \rf F5
 
 \lx bæ˩˥
@@ -3147,14 +3151,14 @@
 \gf 博士::docteur
 \xv po˩ʂɯ˩ so˥
 \xe to do a Ph.D., to study for a Doctor's degree
-\xc 读博士
+\xn 读博士
 \xf préparer un doctorat, être en doctorat
 
-\lx hwɑ˩˥fv˧
+\lx hwɑ˩˥fv̩˧
 \or huafu
 \bw <langue="cmn"> 化肥
 \ps n
-\lc hwɑ˩˥fv˧
+\lc hwɑ˩˥fv̩˧
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \ton LH.M
@@ -3185,7 +3189,7 @@
 \xe “Han sir”: respectful term for Han (Chinese) people coming to Yongning (teachers, doctors, engineers…).
 \xn 汉族先生：来指到永宁来的内地汉族（尊敬说法）：老师、医生、工程师等等
 \xf “Monsieur chinois”: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs…
-\xc <langue="fra" dom="ton"> ton M
+\xc <dom="ton"> M
 \xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
 \xe This person is a “Sir” / a distinguished person!
 \xn ＋系词
@@ -3389,9 +3393,8 @@
 \xe a small dike
 \xn 一片坡
 \xf une diguette
-\xc <langue="fra"> classificateur refusé par M23, qui indique: /ɖɯ˧-ɭɯ˧/
+\xc <langue="fra" dom="dialect"> Classificateur refusé par M23, qui indique: /|fv{ɖɯ˧-ɭɯ˧}/.
 \rf F5
-\dt 24/Apr/2017
 
 \lx bo˧
 \sf <nb="B"> 1654
@@ -3874,7 +3877,7 @@
 \xn 抓母猪
 \xf attraper une truie
 \xc PHONO
-\xc <dom="phono" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ. Vérifié en 2014.
+\xc <dom="ton" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ. Vérifié en 2014.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
 \xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 
@@ -3891,7 +3894,6 @@
 \xc <dom="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
 \xc <dom="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/†bæ˧bv̩˥-bo˩mi˩/}.
 \xc <dom="ton"> LM+H#
-\dt 24/Apr/2017
 
 \lx bo˩mi˧-dʑɯ˩pɻ̩˩
 \sf <nb="B"> 2219
@@ -4376,7 +4378,7 @@
 \xf |fg{dem} 〜 (ton: H# / H$)
 \xv mɤ˧-mv̩˩ ʁo˩tʰo˩ dʑo˩, | hɑ˧bɤ˥!
 \xe When [the maize] has not yet dried, we have an ear of maize / it's maize on the cob! Literally: “when [the maize] is not yet ripe, it's an ear of maize”. In reality, ‘ripe’ here does not really refer to maturity, but to the stage at which the cereal has fully dried out and can be stored. In this sense, maize on the cob, although fit for consumption, is not considered ‘ripe’ because it is not yet dry.
-\xc 当[玉米]还没有干的时候，我们有一穗玉米／这是玉米棒子！字面意思是：“[玉米]还没有成熟时，就是玉米棒子”。实际上，这里的‘熟’并不是指成熟，而是指谷物完全变干并可以储存的阶段。从这个意义上说，玉米棒子虽然可以食用，但并不能算作‘成熟’，因为它还没有干透。
+\xn 当[玉米]还没有干的时候，我们有一穗玉米／这是玉米棒子！字面意思是：“[玉米]还没有成熟时，就是玉米棒子”。实际上，这里的‘熟’并不是指成熟，而是指谷物完全变干并可以储存的阶段。从这个意义上说，玉米棒子虽然可以食用，但并不能算作‘成熟’，因为它还没有干透。
 \xf Quand [le maïs] n'a pas encore séché, on a un épi de maïs / c'est du maïs en épi! Littéralement: «quand [le maïs] n'est pas encore mûr, on parle d'épi». En réalité, ‘mûr’ ne désigne pas vraiment ici la maturité, mais l'étape à laquelle la céréale a entièrement séché et peut être stockée. En ce sens, le maïs en épi, quoique propre à la consommation, n'est pas considéré comme ‘mûr’, du fait qu'il n'est pas encore sec.
 
 \lx bɤ˩α
@@ -4697,7 +4699,9 @@
 \xe to roast food, to roast cereals
 \xn 烤饭
 \xf faire griller du riz
-\xc <langue="fra"> ton et voyelle du verbe différents de l'expression ‘cuire à la vapeur’: |fv{hɑ˧ tʰi˧-bɻ̩˩}
+\xc <langue="fra" dom="phono"> Ton et voyelle du verbe distinguent cette expression de ‘cuire à la vapeur’: |fv{hɑ˧ tʰi˧-bɻ̩˩}.
+\xc <langue="eng" dom="phono"> The tone and vowel of the verb distinguish this phrase from ‘to steam food’: |fv{hɑ˧ tʰi˧-bɻ̩˩}.
+\xc <langue="cmn" dom="phono"> 动词的声调和元音使这个短语有别于‘蒸饭’：|fv{hɑ˧ tʰi˧-bɻ̩˩}。
 
 \lx bɻ̩˧ɖæ˧
 \sf <nb="2011"> 1010
@@ -5558,7 +5562,7 @@
 \xn 实施 〜 整体体：泼了
 \xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
-\xc <langue="fra" dom="phono"> Phonétiquement: proche de [|fv{læ˧-bv̩˩-ze˩}].
+\xc <dom="phono"> [|fv{læ˧-bɻ̩˩-ze˩}].
 \xv dʑɯ˩ bɻ̩˩˥
 \xe to sprinkle water
 \xn 泼水、撒水
@@ -7127,7 +7131,7 @@
 \xn 买了土
 \xf a acheté de la terre
 \xc PHONO
-\xc <langue="fra"> phrases élicitées pour vérifier l'identité du ton lexical
+\xc <langue="fra" type="hist" print="n"> Phrases élicitées pour établir l'identité du ton lexical.
 \xv ɖɯ˧-di˩ ɖɯ˩-bæ˩!
 \xe Each place is different! (In particular, each place has its own pronunciation: its own dialect of the Na language)
 \xn 一个地方，一个样！ = 每个地方有自己的特色（如：每个村落有自己的摩梭方言/土语）
@@ -7264,19 +7268,19 @@
 \xn 吃蕨菜萌芽
 \xf manger des pousses de fougère
 \xc PHONO
-\xc <dom="ton" langue="fra"> verbe au ton H
+\xc <dom="ton" langue="fra" print="n"> Association avec un verbe au ton H
 \xv di˩li˩-ʁo˩bv̩˥ dze˩
 \xe to cut bracken shoots
 \xn 割蕨菜萌芽
 \xf couper des pousses de fougère
 \xc PHONO
-\xc <dom="ton" langue="fra"> verbe au ton LM
+\xc <dom="ton" langue="fra" print="n"> Association avec un verbe au ton LM
 \xv di˩li˩-ʁo˩bv̩˥ tɕɤ˩
 \xe to boil bracken shoots
 \xn 煮蕨菜嫩芽
 \xf faire bouillir des pousses de fougère
 \xc PHONO
-\xc <dom="ton" langue="fra"> verbe au ton MH
+\xc <dom="ton" langue="fra" print="n"> Association avec un verbe au ton MH
 
 \lx di˩mæ˩
 \or ddimae
@@ -7636,7 +7640,7 @@
 \xn 看见东西
 \xf apercevoir des choses/apercevoir quelque chose
 \xc PHONO
-\xc <type="hist" print="n"> schéma tonal de /tso˧~tso˧ do˧˥/: confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
+\xc <type="hist" print="n" langue="fra"> schéma tonal de /tso˧~tso˧ do˧˥/: confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
 \xv do˩-mɤ˩-ho˥
 \xe 〜 |fg{neg} |fg{desiderative}
 \xn 不许（看）见
@@ -7973,7 +7977,7 @@
 \gn 一
 \df Un (numéral).
 \gf un
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -8458,12 +8462,11 @@
 \xe that way
 \xn 那个方向
 \xf cette direction-là
-\xc <langue="fra"> ton vérifié: est LM et non †LM+#H
+\xc <dom="ton"> LM (‡LM+#H)
 \xv dv̩˩tɕo˧ fæ˧
-\xe that way
-\xn 那个方向
-\xf cette direction-là
-\xc <langue="fra"> comporte l'emprunt chinois |fn{方} ‘direction'
+\xe that way (using the Chinese loanword |fn{方} ‘direction')
+\xn 那个方向（借用汉语的‘方’）
+\xf cette direction-là (comporte l'emprunt chinois |fn{方} ‘direction')
 
 \lx dv̩˩˧
 \sf <nb="B"> 2312
@@ -8948,7 +8951,7 @@
 \xe I am really afraid of this person!
 \xn 我很害怕那个人！
 \xf J'ai très peur de lui!
-\xv le˧-ʂɯ˧ ʝi˧ ʂv˧ɖv˧, | ɖwæ˩˥!
+\xv le˧-ʂɯ˧ ʝi˧ ʂv̩˧ɖv̩˧, | ɖwæ˩˥!
 \xe She thought she was going to die; she was afraid! (About a woman seated in the car of a driver who wanted to impress her by driving at break-neck speed.)
 \xn 她以为她会死的，她很害怕！（情景：一个女人做很自信的男人的车，他为了显示自己作为开车高手的本事，开得过分快。）
 \xf Elle a cru qu'elle allait mourir; elle a eu grand peur! (Au sujet d'une femme à bord du véhicule d'un conducteur qui, soucieux de faire de l'effet, roulait à tombeau ouvert.)
@@ -9040,7 +9043,8 @@
 \xe If there is no fleshless preserved pork at home, it appears as if the family is really destitute!
 \xn 如果家里没有猪膘，会显得很穷！
 \xf Ne pas avoir de cochon-entier-conservé à la maison, ça fait vraiment mauvais effet/ça fait vraiment indigent/c'est la honte!
-\xc <xml:langue="eng"> from ‘inferior' plus ‘consider'
+\xc <langue="fra" dom="sem"> formé de: ‘inférieur' + ‘considérer'
+\xc <langue="eng" dom="sem"> from ‘inferior' plus ‘consider'
 \xv dzɑ˧ ʈʂɤ˧ | ʐwæ˩˥!
 \xe It's really a shame / it's really something to be ashamed of! (Talking about a socially stigmatized situation, such as not having the required food items or pieces of clothing for important ceremonies.)
 \xn 真羞耻啊！
@@ -9069,7 +9073,7 @@
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：骑了
 \xf |fg{accomp} 〜 |fg{pfv}
-\xc <langue="fra"> phonétiquement: [læ˧-ɖʐæ˧-ze˧]
+\xc <langue="fra" dom="phono"> [læ˧-ɖʐæ˧-ze˧]
 \xv ʐwæ˧ ɖʐæ˧
 \xe to ride a horse
 \xn 骑马
@@ -9133,9 +9137,10 @@
 \xe There is mud; mud has formed.
 \xn 有泥巴了
 \xf De la boue s'est formée; il y a de la boue, c'est tout boueux. (Littéralement: «de la boue s'est mélangée».)
-\xc <langue="fra"> Cette formulation n'est pas acceptée par la consultante principale.
+\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" type="dialect"> F4不使用此说法。
 \rf F5
-\dt 24/Apr/2017
 
 \lx dzɑ˩qʰwɤ˩
 \sf <nb="B"> 434
@@ -9212,7 +9217,7 @@
 \xe There are some leftovers!
 \xn 有剩下的！
 \xf Il en reste / il y a des restes!
-\xc <langue="fra"> Il serait également possible de noter |fv{/gɤ˩-dze˧-ze˩/}: en phonologie de surface, il n'y a pas d'opposition entre L.M.L et L.H.L.
+\xc <type="hist" langue="fra" print="n"> Il serait également possible de noter |fv{/gɤ˩-dze˧-ze˩/}: en phonologie de surface, il n'y a pas d'opposition entre L.M.L et L.H.L.
 \xv ʈʰɯ˩ dze˩-ze˥
 \xe Some of the drink is left over! / (The drink) has not been drunk up!
 \xn 喝剩了、没喝完
@@ -9515,7 +9520,7 @@
 \xe Yongsheng Chinese (Han) (note: Yongsheng is mainly populated by Han Chinese)
 \xn 永胜汉族
 \xf Chinois de Yongsheng (note: le comté de Yongsheng était peuplé majoritairement de Chinois (Han).)
-\xc <dom="ton"> <langue="fra"> ton: M, non #H
+\xc <dom="tone"> M
 \xv ɖʐe˧gɯ˧-dʑo˧, | hæ˧-ʂo˧~ʂo˩!
 \xe In Yongsheng, there are lots of Chinese (Han) people!
 \xn 永胜，汉族群多！
@@ -10164,8 +10169,10 @@
 \xe to sweep urine
 \xn 扫尿
 \xf balayer l'urine
-\xc PHON
+\xc PHONO
 \xc <dom="ton" langue="fra"> Exemple élicité pour déterminer le ton du syntagme objet+verbe. Contexte imaginé: un cheval a uriné sur une surface cimentée, il faut balayer pour chasser l'urine.
+\xc <dom="ton" langue="eng"> This example was elicited to determine the tone of the object+verb phrase. The imagined context was: a horse has urinated on a cement surface, and the urine has to be swept away.
+\xc <dom="ton" langue="cmn"> 此例子用于确定宾语+动词短语的声调。想象的语境如下：一匹马在水泥地上撒了尿，必须把尿扫干净。
 
 \lx dʑi˥
 \sf <nb="B"> 416
@@ -11084,7 +11091,8 @@
 \xf «Si tu travailles bien, les gens s'en rendent compte! S'il travail mal, les gens le disent!» = «Le bon travail est reconnu; le mauvais travail reçoit des critiques!» (Contexte: commentaire au sujet d'un mauvais livre. C'est ce qu'on disait autrefois: la belle ouvrage est reconnue; le mauvais travail vous attire des critiques.)
 \xc PROVERBE
 \xc <langue="fra"> Cette formulation n'est pas à proprement dite un adage, mais la locutrice la voit comme solidaire des proverbes du temps jadis: reflétant la même vision claire de la vie, distinguant bonnes actions et mauvaises actions.
-\dt 24/Apr/2017
+\xc <langue="eng"> This formulation is not, strictly speaking, a proverb or an adage, but the speaker sees it as akin to the proverbs of old: reflecting the same clear vision of life, distinguishing between good deeds and bad deeds.
+\xc <langue="cmn"> 严格来说，这句话并不是格言，但发音人认为它与古代的谚语相似：它反映了同样清晰的人生观，区分了善行和恶行。
 
 \lx ɖʐo˩β
 \sf <nb="B"> 1526
@@ -11506,6 +11514,8 @@
 \xn 你教我很多！（情景：调查者对合作人表示欣赏与感激。这句话，在摩梭人的对话中，也可以有幽默或讽刺的用法：“你教我的，有一点多！”）
 \xf Tu m'apprends de nombreuses choses (au sujet de la langue et la culture na)! (Contexte: expression de gratitude de la part du linguiste envers la consultante. Dans la conversation courante, la phrase est plutôt utilisée ironiquement: «Tu contribues grandement à mon édification!», «Te voilà qui m'apprends là des choses fort importantes!»
 \xc <dom="ton" langue="fra"> L'expression |fg{1sg-dat} porte ici un schéma tonal M.M (…|fv{njɤ˧-ki˧}), qui est régulier.
+\xc <dom="ton" langue="eng"> The M.M tone pattern of the |fg{1sg-dat} expression (…|fv{njɤ˧-ki˧}) is regular.
+\xc <dom="ton" langue="cmn"> |fg{1sg-dat}（...|fv{njɤ˧-ki˧}）的M.M声调是正则的。
 \xv no˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
 \xe As above.
 \xn 同上。
@@ -11871,7 +11881,7 @@
 \xe |fg{accomp}
 \xn 实施
 \xf |fg{accomp}
-\xc [læ˧-dzɯ˥]
+\xc <dom="phon"> [læ˧-dzɯ˥]
 \xc PHONO
 \xv hɑ˧ dzɯ˧
 \xe to have a meal; to take some food
@@ -14453,7 +14463,9 @@
 \xn 慢走！
 \xf Au revoir!
 \xc PHONO
-\xc <langue="fra"> manipulation: diviser en deux groupes tonals, pour vérifier le ton
+\xc <langue="fra" dom="phono"> Cet exemple est le fruit d'une manipulation: diviser l'expression en deux groupes tonals, afin d'établir le ton de la première partie de l'expression.
+\xc <langue="eng" dom="phono"> This example is the result of a manipulation: dividing the phrase into two tonal groups, to bring out the tone of the first part of the phrase.
+\xc <langue="cmn" dom="phono"> 这个例子就是这样处理的结果：将短语分成两个声调组，以突出短语前半部分的声调。
 \xv ə˧dzɤ˧ le˧-dzi˩! |
 \xe Goodbye! (Said by the guest to their host. Literally: “Sit quietly!" = “Take it easy!")
 \xn 慢慢坐！
@@ -14495,10 +14507,9 @@
 \xe to do (something) slowly
 \xn 慢慢地做
 \xf Travaille doucement! / Prends ton temps! / travailler lentement, faire lentement
-\xc <type="hist" print="n" langue="eng"> Tones verified: the tone pattern is not †˧ ˧ ˥ ˧
-\xc <type="hist" print="n" langue="fra"> Tons vérifiés: le schéma n'est pas †˧ ˧ ˥ ˧
+\xc <type="hist" print="n" langue="eng"> Tones have been verified: the tone pattern is not †˧ ˧ ˥ ˧.
+\xc <type="hist" print="n" langue="fra"> Tons vérifiés: le schéma n'est pas †˧ ˧ ˥ ˧.
 \rf M21
-\dt 13/Jun/2017
 
 \lx ə˧go˧
 \or Eggo
@@ -14515,18 +14526,17 @@
 \df Eggo, nom de clan/famille étendue. Trois familles portent ce nom à Yongning.
 \gf Eggo
 \xv ə˧go˧=ɻ̩˩
-\xe the |fv{/ə˧go˧/} clan
+\xe the Eggo |fv{/ə˧go˧/} clan
 \xn |fv{/ə˧go˧/}家族
-\xf le clan |fv{/ə˧go˧/}
+\xf le clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧ | dʑɤ˩tsʰi˧
-\xe The person called |fv{/dʑɤ˩tsʰi#˥/}, of the |fv{/ə˧go˧/} clan
+\xe The person called Jjacee |fv{/dʑɤ˩tsʰi#˥/}, of the Eggo |fv{/ə˧go˧/} clan
 \xn |fv{/ə˧go˧/} 家族名叫|fv{/dʑɤ˩tsʰi#˥/}那个人
-\xf la personne prénommée |fv{/dʑɤ˩tsʰi#˥/}, du clan |fv{/ə˧go˧/}
-\xc |fv{/ə˧go˧/} + |fv{/dʑɤ˩tsʰi#˥/}
+\xf la personne prénommée Jjacee |fv{/dʑɤ˩tsʰi#˥/}, du clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧=ɻ˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
-\xe There are three families carrying the name Eggo; they make up one clan!
+\xe There are three families carrying the name Eggo |fv{/ə˧go˧/}; they make up one clan!
 \xn 姓|fv{ə˧go˧}的，有三家，形成一个家族！
-\xf Il y a trois familles qui portent le nom Eggo; elles constituent un clan!
+\xf Il y a trois familles qui portent le nom Eggo |fv{/ə˧go˧/}; elles constituent un clan!
 
 \lx ə˧go˧-ʁwɤ˧
 \or Aggowua
@@ -15587,7 +15597,9 @@
 \xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
 \xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
 \xc PROVERBE
-\xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe. Plusieurs versions en ont été enregistrées.
+\xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe, dans aucune des versions qui en ont été enregistrées.
+\xc <type="hist" print="n" langue="eng"> The reference speaker is not familiar with this proverb (in any of the versions that have been recorded).
+\xc <type="hist" print="n" langue="cmn"> 标准发音人不熟悉这句谚语。
 \rf M18
 \xv mv̩˧ʁo˥ dze˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
@@ -16218,7 +16230,7 @@
 \xn 大粮仓
 \xf grand grenier
 \xc PHONO
-\xc ton: M
+\xc <dom="ton"> M
 \xv gi˩zo˩˥
 \xe small granary
 \xn 小粮仓
@@ -16605,16 +16617,20 @@
 \xe “quarrelsome year": a year whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome; people born during one of these years are said to be tough and quarrelsome.
 \xn 爱打架的年份/生肖：十二个生肖中，虎、猴等被认为是爱打架的。
 \xf signe belliqueux (concept astrologique: certains signes confèrent aux gens nés l'année correspondante un caractère dur/belliqueux)
-\xv kʰv̩˧ gɤ˧-hĩ˥
+\xv kʰv̩˧ gɤ˧ hĩ˥
 \xe person whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome.
 \xn 属一个爱打架的年份/生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
 \xf personne d'une année batailleuse
-\xc <langue="fra"> |fv{/hĩ˥/} a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
+\xc <langue="fra" dom="phono"> |fv{/hĩ˥/} a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
+\xc <langue="eng" dom="phono"> |fv{/hĩ˥/} here has its full meaning of ‘person' and is not phonetically reduced.
+\xc <langue="cmn" dom="phono"> |fv{/hĩ˥/}在这里的意思是‘人’，没有被弱化（音缩）。
 \xv ʑi˩hṽ̩˥, | lɑ˧: | kʰv̩˧ gɤ˧˥!
 \xe The Monkey and the Ape are quarrelsome birth signs!
 \xn 属猴和属虎的人很爱吵架！
 \xf Les signes astrologiques du Singe et du Tigre sont des signes batailleurs!
-\xc <langue="fra"> |fv{/ʑi˩hṽ̩#˥/} signifie ‘poils corporels' --littéralement ‘poils de singe'-- dans la langue d'aujourd'hui; l'emploi de la forme disyllabique |fv{/ʑi˩hṽ̩#˥/} pour ‘singe' dans ce dicton suggère qu'existait autrefois cette forme disyllabique, |fv{/ʑi˩hṽ̩#˥/}, désormais passée hors d'usage.
+\xc <langue="fra"> |fv{/ʑi˩hṽ̩#˥/} signifie ‘poils corporels' --littéralement ‘poils de singe'-- dans la langue d'aujourd'hui. L'emploi de la forme disyllabique |fv{/ʑi˩hṽ̩#˥/} pour ‘singe' dans ce dicton suggère qu'existait autrefois cette forme disyllabique, désormais passée hors d'usage.
+\xc <langue="eng"> |fv{/ʑi˩hṽ̩#˥/} means ‘body hair' --literally ‘monkey hair'-- in today's language. The use of the disyllabic form |fv{/ʑi˩hṽ̩#˥/} for ‘monkey' in this saying suggests that this disyllabic form once existed, but has now fallen out of use.
+\xc <langue="cmn"> 在今天的语言中，|fv{/ʑi˩hṽ̩#˥/}的意思是‘体毛’（字面意思是‘猴毛’）。在这句谚语中，‘猴子’用了双音节形式|fv{/ʑi˩hṽ̩#˥/}，这表明这种双音节形式曾经存在过，而现在已不再使用。
 \xv ʑi˩˥, | lɑ˧, | kʰv̩˧ gɤ˧˥!
 \xe Same meaning as above; the investigator substituted the colloquial term for ‘ape, monkey'.
 \xn 同上
@@ -17294,6 +17310,8 @@
 \xn 诊所：字面意思是“看病的地方”
 \xf dispensaire: littéralement, lieu où on peut consulter un médecin
 \xc <dom="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
+\xc <dom="synt" langue="eng"> This expression is perhaps a calque of the Chinese |fn{看病}: it is made up of the Narua equivalents of the two Chinese words (reversing, of course, the order between verb and object, as dictated by Narua syntax).
+\xc <dom="synt" langue="cmn"> 这个短语可能是汉语‘看病’的翻版：它是由两个对应汉语的词组成的（当然，根据摩梭话的句法，动词和宾语的顺序是颠倒的）。
 \xv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
 \xe dispensary: literally, a place where a doctor can be consulted
 \xn 诊所：字面意思是“看病的地方”
@@ -17848,7 +17866,7 @@
 \gn 九
 \df Neuf.
 \gf neuf
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -18409,7 +18427,7 @@
 \xe So you are back from a stroll! / You are back from your little walk, eh?
 \xn 你已经散步回来了！
 \xf (tu) reviens de promenade!/ Alors comme ça te voilà revenu de ta promenade!
-\xc [læ˧-tsʰɯ˩]
+\xc <dom="phono"> [læ˧-tsʰɯ˩]
 \xv ʈʂʰɯ˧ | gwɤ˩~gwɤ˩-hɯ˩-ze˥!
 \xe (S)he has gone out for a walk!
 \xn 他散步去了！
@@ -19435,8 +19453,7 @@
 \xn 扬东西
 \xf vanner des choses
 \xc PHONO
-\xc <langue="fra"> expression élicitée à contrecœur, pour distinguer la catégorie tonale. Cette expression n'est pas usuelle, mais elle est bien formée, tandis qu'il est tout à fait exclu de dire |fv{/†tso˧~tso˧ hæ̃˧/}.
-\dt 13/Jun/2017
+\xc <type="hist" langue="fra" print="n"> expression élicitée à contrecœur, pour distinguer la catégorie tonale. Cette expression n'est pas usuelle, mais elle est bien formée, tandis qu'il est tout à fait exclu de dire |fv{/†tso˧~tso˧ hæ̃˧/}.
 
 \lx hæ˩α
 \sf <nb="B"> 1079
@@ -19665,7 +19682,9 @@
 \xe other people's home, other people's place (as opposed to one's home place)
 \xn 人家的地方，人家的故乡、他乡
 \xf les terres étrangères, les terres d'autres gens (par opposition avec sa propre terre natale)
-\xc <langue="fra"> s'oppose à: |fv{/õ˧mv̩˥-õ˩di˩/}
+\xc <langue="fra" dom="sem"> s'oppose à: |fv{/õ˧mv̩˥-õ˩di˩/} «son propre pays»
+\xc <langue="eng" dom="sem"> contrasts with: |fv{/õ˧mv̩˥-õ˩di˩/} ‘one's homeland’
+\xc <langue="cmn" dom="sem"> 与|fv{/õ˧mv̩˥-õ˩di˩/}‘自己故乡’对立。
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
 \xe No matter how beautiful other people's places are, they can never be equal to one's own homeland!
 \xn 其他人的地方怎么好，也比不过自己的地方！
@@ -19719,7 +19738,9 @@
 \xn （乘船）游湖了
 \xf …est allé faire un tour (en bateau) sur le lac
 \xc PHONO
-\xc <dom="phono" langue="fra"> Cet exemple établit que le ton de |fv{hi˩ gwɤ˥} est LH et non LM.
+\xc <dom="ton" langue="fra"> Cet exemple établit que le ton de |fv{hi˩ gwɤ˥} est LH et non LM.
+\xc <dom="ton" langue="eng"> This example establishes that the tone of |fv{hi˩ gwɤ˥} is LH, not LM.
+\xc <dom="ton" langue="cmn"> 这个例子说明|fv{hi˩ gwɤ˥}的声调是LH而不是LM。
 \xv hi˩ gwɤ˥-kʰi˩
 \xe …went on a (boat) trip on the lake
 \xn （乘船）游湖了
@@ -19995,7 +20016,9 @@
 \xe to do quickly
 \xn 快速做
 \xf faire rapidement
-\xc <langue="fra"> la forme est si réduite qu'elle en paraît disyllabique, proche d'un simple |fv{[hi˧le˩]}
+\xc <langue="fra" dom="phono"> La forme est si réduite qu'elle en paraît disyllabique, proche d'un simple [|fv{hi˧le˩}].
+\xc <langue="eng" dom="phono"> The form is so reduced that it sounds disyllabic, as if it were simply [|fv{hi˧le˩}].
+\xc <langue="cmn" dom="phono"> 该短语的发音非常简化，听起来像一个简单的双音节词：[|fv{hi˧le˩}]。
 \xv hi˧le˩ | le˧-jo˩!
 \xe Come quickly!
 \xn 快来！
@@ -20081,16 +20104,15 @@
 \sf <nb="B"> 261
 \sf <nb="2011"> 341
 \or hinmo
+\ets hĩ˥
+\ets mo˩α
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" langue="fra" print="n"> (corrigé en 2007; en 2006, avais noté: hĩ˧ mu˥ i˧ hĩ˩, pensé que c'était vérifié)
 \ton H#
 \lc hĩ˧mo˥
 \so <print="n"> F4
-\va <speaker="F5"> hĩ˧mu˥hĩ˩hĩ˩
-\va <speaker="M18"> hĩ˧mu˥hĩ˩
-\va <speaker="M21"> hĩ˧mu˥, ton d7
+\va <speaker="M21"> ID.
 \pdv v̩˧
 \de Elderly person.
 \ge elderly_person
@@ -20098,12 +20120,6 @@
 \gn 老人
 \df Personne âgée, vieillard, vieillarde.
 \gf vieillard
-\xv hĩ˧mo˥-hĩ˩
-\xe 〜 |fg{rel}; same meaning
-\xn 老人、老的人
-\xf 〜 |fg{rel}; même sens
-\xc <langue="fra"> La construction adjectivale et la forme lexicalisée existent toutes deux.
-\dt 02/Sep/2015
 
 \lx mɤ˧-gɤ˩
 \sf <nb="B"> 1329
@@ -20448,7 +20464,7 @@
 \gn 八
 \df Huit.
 \gf huit
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -20512,7 +20528,7 @@
 \xc PHONO
 
 \lx mv̩˧mi˧-mæ˧ɖv̩#˥
-\or mumi maeddu
+\or mumi maeddeu
 \ps n
 \lc mv̩˧mi˧mæ˧ɖv̩˧
 \cf mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
@@ -20520,6 +20536,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so <print="n"> F4
+\nt <type="hist" dom="ton" langue="fra" print="n"> Notation de Roselle Dobbs, 10 juillet 2024: suggère une voyelle ɻ̩ et non v̩ xxxx
 \pdv mi˩
 \de Partridge, |fi{Francolinus pintadeanus (Scopoli)}.
 \ge partridge
@@ -21598,8 +21615,9 @@
 \xe |fg{red}; the first two syllables are higher-pitched than the following two
 \xn 重叠
 \xf |fg{red}; les deux premières syllabes ont une fréquence fondamentale nettement plus haute que les deux suivantes
-\xc <langue="eng"> Reduced form of |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
-\xc <langue="fra"> Forme réduite de |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
+\xc <langue="fra" dom="phono"> Forme réduite de |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
+\xc <langue="eng" dom="phono"> Reduced form of |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
+\xc <langue="cmn" dom="phono"> |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}的简化。
 \rf F5
 \dt 14/Jun/2017
 
@@ -22856,7 +22874,7 @@
 \gr 洋人
 \df Occidental.
 \gf 洋人::occidental
-\xv tʰv̩-v˧, | jɤ˩ʐe˧-hĩ˧ ɲi˥!
+\xv tʰv̩-v̩˧, | jɤ˩ʐe˧-hĩ˧ ɲi˥!
 \xe This person is a Westerner!
 \xn 那个（人）是老外！／那个（人）是西方人！
 \xf Celui-là, c'est un occidental!
@@ -27836,7 +27854,7 @@
 \xe to pluck a nest (from the place where it was built); to crush/destroy a nest
 \xn 摘筑巢
 \xf décrocher un nid, arracher un nid de là où il se trouve; détruire un nid
-\xv ʈʂʰɯ˧ | kʰv˩ ɖʐɤ˩-ze˥
+\xv ʈʂʰɯ˧ | kʰv̩˩ ɖʐɤ˩-ze˥
 \xe he plucked a nest (from the place where it was built)
 \xn 他摘了筑巢
 \xf il a décroché un nid / cueilli un nid / détruit un nid
@@ -29486,7 +29504,7 @@
 \gn 超越
 \df Dépasser, surpasser, surclasser, l'emporter sur.
 \gf surpasser
-\xv ti˧ɖo˥-ɳɯ˩ | ʂv˧ɖv̩˧, | ə˧mɑ˧ | ə˩pʰo˩-hĩ˩˥ | le˧-ɬɑ˧˥!
+\xv ti˧ɖo˥-ɳɯ˩ | ʂv̩˧ɖv̩˧, | ə˧mɑ˧ | ə˩pʰo˩-hĩ˩˥ | le˧-ɬɑ˧˥!
 \xe In Diddeo's opinion, Ama surpasses all others / she is head and shoulders above the rest!
 \xn 在棣嘟的眼里，阿妈比其他人更胜一筹！
 \xf De l'avis de Diddeo, Ama surpasse grandement les autres!
@@ -33502,7 +33520,7 @@
 \gn 火葬后第七天的送食物仪式
 \df Nourriture qu'on offre rituellement au défunt, sept jours après sa crémation.
 \gf offrande_rituelle_du_7e_jour_après_crémation
-\xv ʂɯ˧-ɲi˧ gv̩˧, | ɬv˧gv˧ | ɖɯ˧-ʂɯ˩ ki˩.
+\xv ʂɯ˧-ɲi˧ gv̩˧, | ɬv̩˧gv̩˧ | ɖɯ˧-ʂɯ˩ ki˩.
 \xe When seven days have passed (after death), the deceased is offered the ritual meal known as ‘lhuggu’.
 \xn （死亡）七天后，逝者将享用被称为“lhuggu”的祭祀餐。
 \xf Quand sept jours ont passé (après le trépas), on offre au défunt le repas rituel appelé «lhuggu».
@@ -35990,6 +36008,14 @@
 \xe Old person, person who has become old
 \xn 老了的人
 \xf vieille personne, personne qui a vieilli
+\xv hĩ˧ mo˥-hĩ˩
+\xe person 〜 |fg{rel}: elderly person
+\xn 老人、老的人
+\xf person 〜 |fg{rel}: personne âgée
+\xc <langue="fra" dom="synt"> La construction adjectivale |fv{hĩ˧ mo˥-hĩ˩} et la forme lexicalisée |fv{hĩ˧mo˥} existent toutes deux.
+\xc <langue="eng" dom="synt"> There exist two constructions: adjectival |fv{hĩ˧ mo˥-hĩ˩} and lexicalized |fv{hĩ˧mo˥}.
+\xc <langue="cmn" dom="synt"> 存在有两种结构：名词＋形容词＋关系从句|fv{hĩ˧ mo˥-hĩ˩}‘老的人’和词汇话名词|fv{hĩ˧mo˥}‘老人’。
+\xc <type="hist" langue="fra" print="n"> En 2006, avais noté: /hĩ˧ mu˥ i˧ hĩ˩/, pensé que c'était vérifié. Noté /hĩ˧mu˥hĩ˩hĩ˩/ pour F5 et /hĩ˧mu˥hĩ˩/ pour M18. Corrigé en 2007 en /hĩ˧ mo˥-hĩ˩/.
 \xv hĩ˧ mo˥, | õ˧-di˧ fv̩˥! | ʐwæ˧ mo˥, | to˩ do˩ ɖwæ˥!
 \xe Old folk like their own place (=their own home); old horses are afraid to climb slopes! (Proverb.)
 \xn 老人爱自家，老马怕山坡！（谚语，描写不爱到处跑的老年人）
@@ -36000,7 +36026,6 @@
 \xn 老石头要被河流冲走，老木头要被砍掉。你呢，怎么还不死？ （嘲笑一个年龄很高的人。摩梭传统中，人的寿命是六十岁：过了七十岁的人，被认为是已经到达了命的尽头。）
 \xf Les vieilles pierres, le courant les emporte; le vieux bois, on le coupe! Alors pourquoi toi te voilà qui ne veux pas mourir! (Moquerie à l'égard d'une personne très âgée.)
 \xc PROVERBE
-\dt 04/Sep/2015
 
 \lx mo˩α
 \sf <nb="2011"> 2487
@@ -36194,16 +36219,16 @@
 \xe I have to go and get a name (from the monks at the monastery) (for a newborn child)
 \xn 我得去（向大寺里的和尚）求一个名字（给刚出生的孩子起名）
 \xf Il va falloir que j'aille chercher un nom (auprès des moines du monastère) (pour un enfant qui vient de naître)!
-\xv no=ɻ˩ | ʑi˧dv̩˧ | ə˧tso˧ mv˧ʈʂæ˧˥? - njɤ˧=ɻ˩ | lɑ˧tʰɑ˧mi˧=ɻ˧ mv̩˥ʈʂæ˩!
+\xv no=ɻ˩ | ʑi˧dv̩˧ | ə˧tso˧ mv̩˧ʈʂæ˧˥? - njɤ˧=ɻ˩ | lɑ˧tʰɑ˧mi˧=ɻ˧ mv̩˥ʈʂæ˩!
 \xe What are your family called? (=what is your family name?) - We are the Latami! / Our family name is Latami!
 \xn 你们家什么姓？　我们姓拉他咪！
 \xf Quel est votre nom de famille? / Comment s'appelle votre famille? - On est les Latami! / Notre nom de famille, c'est Latami!
-\xv ʑi˧dv̩˧-mv˧
+\xv ʑi˧dv̩˧-mv̩˧
 \xe family name
 \xn 姓
 \xf nom de famille
 \xc <dom="ton"> M
-\xv lɑ˧tʰɑ˧mi˧=ɻ˥-dʑo˩, | ʑi˧dv̩˧-mv˧ ɲi˩!
+\xv lɑ˧tʰɑ˧mi˧=ɻ˥-dʑo˩, | ʑi˧dv̩˧-mv̩˧ ɲi˩!
 \xe ‘Latami’ is our family name!
 \xn 拉他咪，是我们家的姓！
 \xf «Latami», c'est notre nom de famille!
@@ -37920,10 +37945,10 @@
 \xn 收养孩子
 \xf prendre des enfants adoptifs, adopter des enfants
 
-\lx mv˩mæ˥
+\lx mv̩˩mæ˥
 \or mumae
 \ps n
-\lc mv˩mæ˥
+\lc mv̩˩mæ˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton LH
@@ -37934,7 +37959,7 @@
 \gn 义女
 \df Fille adoptive.
 \gf fille_adoptive
-\xv mv˩mæ˥ ʂe˩
+\xv mv̩˩mæ˥ ʂe˩
 \xe to adopt a daughter
 \xn 收养义女
 \xf adopter une fille
@@ -39107,7 +39132,7 @@
 \gn 二
 \df Deux.
 \gf deux
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -39267,7 +39292,7 @@
 \gn 蜻蜓
 \df Libellule.
 \gf libellule
-\xv ɲi˩bɻ̩˩-ʂe˩sɑ˧, | ʂe˧ mɤ˧-ʑi˧! | pʰi˧li˩-ɖv˩qæ˩, sɤ˧ mɤ˧-ʑi˧!
+\xv ɲi˩bɻ̩˩-ʂe˩sɑ˧, | ʂe˧ mɤ˧-ʑi˧! | pʰi˧li˩-ɖv̩˩qæ˩, sɤ˧ mɤ˧-ʑi˧!
 \xe Dragonflies have no flesh! Butterfly wings have no blood!
 \xn 蜻蜓没有肉！蝴蝶翅膀没有血！
 \xf Les libellules n'ont pas de chair! Les ailes des papillons n'ont pas de sang! (Observations au sujet de ces deux types d'animaux, qui les éloignent des vertébrés.)
@@ -41913,7 +41938,7 @@
 \gn 豆腐
 \df Tofu.
 \gf tofu
-\xv nv˧dʑɯ˥ | ɖɯ˧-v̩˥ ɳæ˩
+\xv nv̩˧dʑɯ˥ | ɖɯ˧-v̩˥ ɳæ˩
 \xe to prepare a pot of tofu (literally: to squeeze a pot of tofu).
 \xn 做一锅豆腐（字面意思：挤压一锅豆腐）。
 \xf préparer une casserole de tofu (littéralement: presser une casserole de tofu).
@@ -42391,7 +42416,7 @@
 \gn 五
 \df Cinq.
 \gf cinq
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -46196,7 +46221,7 @@
 \lx pɻ̩˩mi˩
 \sf <nb="B"> 425
 \sf <nb="2011"> 538
-\or bumi
+\or beumi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -46397,7 +46422,7 @@
 \lx pɻ̩˩tsɯ˧˥
 \sf <nb="B"> 425b
 \sf <nb="2011"> 539
-\or buzi
+\or beuzi
 \ps n
 \ton LM+MH#
 \lc pɻ̩˩tsɯ˧˥
@@ -46454,7 +46479,7 @@
 \lx pɻ̩˩tsɯ˧-pɻ̩˥mi˩
 \sf <nb="B"> 425c
 \sf <nb="2011"> 540
-\or buzi bumi
+\or beuzi beumi
 \ets pɻ̩˩tsɯ˧˥
 \ets pɻ̩˩mi˩
 \ps n
@@ -46598,7 +46623,7 @@
 \sf <nb="B"> 1503
 \sf <nb="2011"> 2194
 \hm 3
-\or buq
+\or beuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49192,7 +49217,7 @@
 \gn 六
 \df Six.
 \gf six
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -55117,7 +55142,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 主题
 \df Marqueur de topique qui délimite l'objet ou l'ensemble concerné, le faisant ressortir contre l'arrière-plan formé par les éléments proches de lui dans l'espace conceptuel. Plutôt que d'un contraste, il s'agit d'une appréhension de l'objet concerné dans son unité.
 \gf |fg{top.délimitant}
-\xv no˩ se˥, | ɬi˧di˩ fv˩! | njɤ˩ se˥, | jo˧gv˧ fv˧!
+\xv no˩ se˥, | ɬi˧di˩ fv̩˩! | njɤ˩ se˥, | jo˧gv̩˧ fv̩˧!
 \xe You like Yongning; I like Lijiang!
 \xn 你啊，喜欢永宁。我呢，喜欢丽江。
 \xf Toi, tu aimes Yongning; moi, j'aime Lijiang!
@@ -56932,7 +56957,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 三
 \df Trois.
 \gf trois
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -57838,7 +57863,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe I'm going to teach you! / Let me teach you!
 \xn 我来教你！
 \xf Je vais t'enseigner/t'apprendre!
-\xv ʈʂʰɯ˧=bv̩˧ ɖʐv˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
+\xv ʈʂʰɯ˧=bv̩˧ ɖʐv̩˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
 \xe Her spouse sells tea! As for her, she is a teacher!
 \xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
@@ -58102,7 +58127,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 七
 \df Sept.
 \gf sept
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -59377,7 +59402,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe He has understood.
 \xn 他明白了。
 \xf Il a compris.
-\xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv˧ɖv̩˧ tʰv˧-kv̩˧˥!
+\xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv̩˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˧˥!
 \xe He's really smart! / He's really resourceful! / He's really good at finding solutions!
 \xn 他真的很聪明 / 他真的很足智多谋 / 他真的很擅长寻找解决方案！
 \xf Il est vraiment futé! / Il est vraiment débrouillard! / Il sait vraiment bien se débrouiller et trouver des solutions!
@@ -60082,7 +60107,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
 \txt Mushrooms
 \doi 10.24397/pangloss-0005662#S12
-\xv mv˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! |
+\xv mv̩˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! |
 \xe Barley flour is not too tasty! / Barley flour does not taste very good!
 \xn 大麦粉，不怎么好吃！
 \xf La farine d'orge, ça n'est pas bien bon (au goût)!
@@ -64340,7 +64365,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe that clever woman
 \xn 那个聪明女人
 \xf cette femme intelligente
-\xv mv̩˩ tʰv̩˩-v˩˥, | tʰi˧ | ʐwæ˩˥!
+\xv mv̩˩ tʰv̩˩-v̩˩˥, | tʰi˧ | ʐwæ˩˥!
 \xe That woman is very clever.
 \xn 那个女人很聪明。
 \xf Cette femme est très intelligente.
@@ -64467,7 +64492,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to sew corduroy
 \xn 缝灯芯绒
 \xf coudre du velours à côtes
-\xv ti˧tsʰo˩-ʐv˩ bɑ˩lɑ˩
+\xv ti˧tsʰo˩-ʐv̩˩ bɑ˩lɑ˩
 \xe corduroy garment
 \xn 灯芯绒衣服
 \xf un vêtement en velours côtelé
@@ -67291,7 +67316,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 十
 \df Dix.
 \gf dix
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -74037,7 +74062,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe The People of the Sky had seeds in profusion! (A comment about the story entitled ‘Seeds’)
 \xn 天上的人，有许多许多种子！
 \xf Les gens du Ciel, ils avaient des semences en abondance! (Réflexion au sujet du récit ‘Seeds’)
-\xv ɬi˧di˩-di˩mi˩, | tʰv˧-se˥, | hĩ˧ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥!
+\xv ɬi˧di˩-di˩mi˩, | tʰv̩˧-se˥, | hĩ˧ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥!
 \xe In Yongning, there were lots of people / there was a large population. (Sentence formed by imitating the previous example.)
 \xn 永宁人多/人口众多（仿照前例造句）。
 \xf À Yongning, il y avait beaucoup de gens / il y avait une population abondante. (Phrase formée en calquant l'exemple précédent.)
@@ -78486,7 +78511,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 四
 \df Quatre.
 \gf quatre
-\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv˧, | tsʰe˧
+\xv ɖɯ˩˥, | ɲi˩˥, | so˧, | ʐv̩˧, | ŋwɤ˧, | qʰv̩˧˥, | ʂɯ˧, | hõ˧˥, | gv̩˧, | tsʰe˧
 \xe Numbers from one to ten.
 \xn 数字从一到十。
 \xf Les nombres de un à dix.
@@ -80595,7 +80620,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
-\xv v˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
+\xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
