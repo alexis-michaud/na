@@ -3879,10 +3879,10 @@
 \xn 抓母猪
 \xf attraper une truie
 \xc PHONO
-\xc <dom="ton" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ. Vérifié en 2014.
+\xc <type="hist" dom="ton" langue="fra" print="n"> Vérifié en 2014.
+\xc <dom="ton" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
 \xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
-
 \xv bo˩mi˧ do˩ (+ze˩)
 \xe …has seen (a/the) sow
 \xn 见了母猪
@@ -64664,7 +64664,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx tʰi˧‑
 \sf <nb="B"> 2248
 \sf <nb="2011"> 3367
-\or tee-
+\or ti-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -75794,11 +75794,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf feutre_grossier
 \xv ʐæ˩sɯ˩-ʈʰæ˩qʰwɤ˧
 \xe felt skirt
-\xf 披毡短裙
+\xn 披毡短裙
 \xf jupe en feutre
 \rf M18
 \xc <langue="fra" type="dialect"> Expression refusée par F4: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
-\xc <langue="fra" type="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
+\xc <langue="eng" type="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
 \xc <langue="cmn" type="dialect"> F4拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
