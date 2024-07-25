@@ -69,17 +69,18 @@ my $extratranscrlevel = 0;
 ##print  XOUT "\t<FORM kindOf=\"phonetic\">$extraformline</FORM>\n";
 
 # Indicating whether notes in the source file have an associated language indicated (thus: %fr Une note en français, %en A note in English, %zh 中国话注释). If so: value set at one. Otherwise: zero.
-my $note_lg_code_yn = 1;
+my $note_lg_code_yn = 0;
 
 # Input file: 
-my $input = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_Sentences.txt';
+my $input = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_SISTER5.txt';
+#my $input = '\home\pakazo\Dropbox\GitHub\na\TEXT\F4\en_prep\crdo-NRU_F4_SISTER5.txt';
 
 # If there is a file containing times codes for the sentences: indicate below (if yes: value: 1; if no: value: 0)
-my $regionslistyn = 1;
+my $regionslistyn = 0;
 my $regionsinfile = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_REGIONS.txt';
 
 # Output file: 
-my $outputfile = 'C:\Dropbox\90_techniques\Pangloss\Views\annotations\NRU_F21_MOTHERSBIRTHDAY.xml';
+my $outputfile = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_SISTER5.xml';
 
 # Declaration of a function: converting from hh::mm::ss,ms (e.g. 00:00:01,160) to seconds. 
 sub RegionsToSec {
@@ -126,7 +127,7 @@ sub RegionsToSec {
 
 # initializing variables
 my $textlineno = my $sno = my $wordsnb = my $i = my $nblines = 0;
-my $textname = my $ortholine = my $formline = my $glossline = my $extraformline = my $transline = my $line = my $word =  my $morph = my $mgloss = my $testchr = my $testchrlong = my $note = my $transline_lg2 = my $glossline_lg2 = my $glossline_lg3 = my $text_lg1 = my $text_lg2 = my $transline_lg3 = my $text_lg3 = ""; 
+my $textname = my $ortholine = my $formline = my $glossline = my $extraformline = my $transline = my $line = my $word =  my $morph = my $mgloss = my $testchr = my $testchr2 = my $testchrlong = my $note = my $transline_lg2 = my $glossline_lg2 = my $glossline_lg3 = my $text_lg1 = my $text_lg2 = my $transline_lg3 = my $text_lg3 = "";
 my @words = my @glosses = my @morphs = my @mglosses = my @glosses_lg2 = my @glosses_lg3 = ();
 
 my $regionsline = ();
@@ -155,20 +156,6 @@ $nblines++;
 
 # Removing line break.
 chomp ($textname);
-# and removing 'high point' somehow read by error at beginning of text. That requires some care.
-# Removing line feed
-chomp($textname);
-# Reversing the text name, so that the problematic part at beginning now becomes the end of the string (easier to handle).
-$textname = reverse $textname;
-# Testing the last character
-my $last_chr = chop($textname);
-# If the value is 239: this is a telltale sign of the presence of unwanted code. Three characters are then suppressed.
-# Update in 2017: try cutting two characters only, otherwise the first 'real' character is cut too.
-if ( ord($last_chr) == 239) 
-		{ $textname = substr($textname, 0, -2); 
-		}
-# Finally: revert back to normal order of string.
-$textname = reverse $textname;
 
 # Writing header of file
 ## Old version (before 2013):
@@ -225,9 +212,19 @@ while ($line=<INPUT>) {
 			$timeend = &RegionsToSec ($timeend);
 			print XOUT "<AUDIO start=\"$timebegin\" end=\"$timeend\"\/>\n";
 		}
-		
-		# Printing out the form of the sentence
-		print  XOUT "\t<FORM kindOf=\"ortho\">$ortholine</FORM>\n";
+		else
+		{
+			$regionsline = <INPUT>;
+			#Parsing from the end, and recovering two values. If parsing from beginning: problem with lines whose tags include spaces.
+			my @regions = split /\s/, $regionsline;
+			$timebegin = $regions[0];
+			$timeend = $regions[1];
+
+			print XOUT "<AUDIO start=\"$timebegin\" end=\"$timeend\"\/>\n";
+		}
+
+		# Printing out the form of the sentence. Modify type as necessary: ortho, phono...
+		print  XOUT "\t<FORM kindOf=\"phono\">$ortholine</FORM>\n";
 		
 		# if there is an extra level of transcription: integrating it, with special mention
 		if ($extratranscrlevel == 1) {
@@ -329,7 +326,7 @@ while ($line=<INPUT>) {
 						}
 			else {
 				# Writing the note into the XML file. Any " symbol in the message must be replaced, otherwise it will count as end of message. The < > symbols must also be replaced.
-				$note =~ s{"}{'}g;
+				$note =~ s{"}{''}g;
 				$note =~ s{<}{&lt;}g;
 				$note =~ s{>}{&gt;}g;
 				# $note =~ s{<}{&lt;}g;
@@ -350,6 +347,15 @@ while ($line=<INPUT>) {
 					print  XOUT "\t<NOTE xml:lang=\"$note_lg_code\" message = \"$note\"/>\n";
 				}
 				else {
+					# removing an initial space from the string. This is done inelegantly.
+					$testchr2 = substr($transline,0,1);
+					if ($testchr2 eq '\s') {
+						# substracting the first character of that line: the space. This is done inelegantly.
+						$note = reverse $transline;
+						chop $note;
+						$note=reverse $note;
+						}
+					# printing the note
 					print  XOUT "\t<NOTE xml:lang=\"fr\" message = \"$note\"/>\n";
 				}
 			}
@@ -365,7 +371,7 @@ while ($line=<INPUT>) {
 		$transline =~ s{<}{&lt;}g;
 		$transline =~ s{>}{&gt;}g;
 		# Writing out the translation line. It is assumed that the language is French. Substitute 'en', etc for 'fr' in the line below, as necessary. xxxx
-		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
+		print  XOUT "\t<TRANSL xml:lang=\"fr\">$transline</TRANSL>\n";
 		
 #		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
 		# For Pianding Naxi data: the line before the Chinese translation is orthography (Naxi Pinyin).

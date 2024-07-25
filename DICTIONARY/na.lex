@@ -248,9 +248,9 @@
 \df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire (symétrique) et l'autre pour la charrue (dissymétrique). À la date de l'enquête (2006), seule l'araire était en usage.
 \gf araire
 \xv æ˩gv̩˩ tʰv̩˩-nɑ˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这把犁头
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx æ˩mo˥
@@ -270,9 +270,9 @@
 \df Araire usagée, vieille araire (hors d'usage du fait de l'usure).
 \gf araire_usagée
 \xv æ˩mo˥ tʰv̩˩-nɑ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那个旧犁架子（犁杆）
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx æ˩mo˧
@@ -323,9 +323,9 @@
 \xn 抓着犁把的人
 \xf la personne qui tient le mancheron de l'araire
 \xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这个犁把
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx ɬɬɬ
@@ -1619,9 +1619,9 @@
 \df Corde.
 \gf corde
 \xv bæ˩ ʈʂʰɯ˩-kʰɯ˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这条绳子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv bæ˧ tsʰi˩
 \xe string, thin rope
@@ -1954,7 +1954,8 @@
 \gn 上衣
 \df Chemise, veste; vêtement.
 \gf chemise
-\xv ɣɯ˩-bɑ˩lɑ˥ (+ɲi˩)
+\xv ɣɯ˩-bɑ˩lɑ˥#
+\xc <dom="phono" print="n"> +ɲi˩
 \xe leather jacket
 \xn 皮衣
 \xf veste de cuir
@@ -2159,9 +2160,9 @@
 \df Canard (mâle).
 \gf canard
 \xv bæ˧mi˧-pʰv̩˧ tʰv̩˧-mi˧˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公鸭子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx bæ˩pʰv̩˥
 \or bbaepeu
@@ -2204,9 +2205,9 @@
 \df Canard (mâle).
 \gf canard
 \xv bæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ bæ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公鸭子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv bæ˧pʰv̩˧-bæ˧mi#˥
 \xe male duck and female duck
 \xn 公鸭子与母鸭子
@@ -2348,9 +2349,9 @@
 \df Caneton, petit canard.
 \gf caneton
 \xv bæ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只小鸭子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv bæ˧zo˧-bæ˧mi#˥
 \xe duckling and female duck
 \xn 小鸭子与母鸭
@@ -2486,12 +2487,13 @@
 \sd <langue="eng"> classifier
 \ton Mα
 \lc ɖɯ˧ bæ˧
+\cf ʁo˩β
 \so <print="n"> F4
 \de Classifier for sorts of things; used in statements of identity: “it is the same".
 \ge |fg{clf}.sorts
 \dn 量词：东西（一样）
 \gn 量词.东西
-\df Classificateur des espèces/sortes de choses. Proche de |fv{/ʁo˩β/} ‘sorte, variété’. S'emploie dans la construction «c'est la même chose».
+\df Classificateur des espèces/sortes de choses. S'emploie dans la construction «c'est la même chose».
 \gf |fg{clf}.espèces
 \xv ɖɯ˧-bæ˧-lɑ˧ ɲi˥!
 \xe It's the same!
@@ -4610,9 +4612,9 @@
 \df Insecte.
 \gf insecte
 \xv bɻ̩˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只虫
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx bv̩˥
@@ -5048,9 +5050,9 @@
 \df Fumier.
 \gf fumier
 \xv bɻ̩˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这堆肥料
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx bɻ̩˩qo˩-bɻ̩˧qʰæ˩
 \sf <nb="2011"> 852
@@ -5097,9 +5099,9 @@
 \df Fumier.
 \gf fumier
 \xv bɻ̩˩qo˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这堆肥料
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx bɻ̩˩qʰv̩˩
 \sf <nb="B"> 437b
@@ -5195,9 +5197,9 @@
 \df Mouche.
 \gf mouche
 \xv bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˧˥ ≈ bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只苍蝇
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx bɻ̩˧ʂæ˧
@@ -5360,9 +5362,9 @@
 \df Petit du yak.
 \gf petit_du_yak
 \xv bɻ̩˧zo˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧zo˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这头小牦牛
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx bv̩˧ʐv̩˧
@@ -10382,9 +10384,9 @@
 \df Buffle (femelle).
 \gf buffle_femelle
 \xv dʑi˧mi˧ tʰv̩˧-pʰo˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这头母水牛
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv dʑi˧mi˧-dʑi˧zo#˥ ≈ dʑi˧mi˧-dʑi˥zo˩
 \xe female water buffalo and male water buffalo
 \xn 母水牛与公水牛
@@ -10500,9 +10502,9 @@
 \df Buffle (enfant mâle).
 \gf petit_du_buffle
 \xv dʑi˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只水牛崽子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
 \lx dzi˩α
@@ -12164,9 +12166,9 @@
 \df Cigale.
 \gf cigale
 \xv dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˧˥ ≈ dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只蝉
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
 \lx dʑɯ˩gɤ˩di˩
@@ -14030,9 +14032,9 @@
 \df Moineau mâle.
 \gf moineau_mâle
 \xv ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公麻雀
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx ɖʐwæ˧zo#˥
@@ -16381,9 +16383,9 @@
 \df Ours (mâle).
 \gf ours_mâle
 \xv gi˧-nɑ˧mi˧-pʰv̩˧ tʰv̩˧-pʰo˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公熊
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx gi˧-nɑ˧mi˧-zo#˥
 \sf <nb="B"> 1878
@@ -16407,9 +16409,9 @@
 \df Ourson (de sexe masculin).
 \gf ourson
 \xv gi˧-nɑ˧mi˧-zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只小熊
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx gi˧-nɑ˧mi#˥
 \sf <nb="B"> 1877
@@ -16432,9 +16434,9 @@
 \df Ours (mâle ou femelle). Il n'existe pas de terme désignant de façon non ambiguë une ourse.
 \gf ours
 \xv gi˧-nɑ˧mi˧ tʰv̩˧-pʰo˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只熊
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
 \lx gi˧zɯ˧-go˧mi#˥
@@ -19365,9 +19367,9 @@
 \df Trace de découpe, marque de coupure.
 \gf trace_de_découpe
 \xv hæ̃˧ʐɤ˥ tʰv̩˩-kʰwɤ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}: this trace of cutting
+\xe 〜 |fg{dem} |fg{clf}: this trace of cutting
 \xn 这道割痕
-\xf |fg{n}+|fg{dem}+|fg{clf}: cette trace de découpe
+\xf 〜 |fg{dem} |fg{clf}: cette trace de découpe
 \dt 21/Jun/2017
 
 \lx hæ˧ʐwɤ˩
@@ -19870,6 +19872,32 @@
 \xn 下雨了，披蓑衣（雨衣）吧。
 \xf Il pleut, mets une cape de pluie.
 \dt 02/Sep/2015
+
+\lx dʑɤ˧tsʰe˩
+\or jjacei rrrr
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\nt <langue="nxq" dom="com"> ɟi˧tsʰe˩
+\ton L#
+\lc dʑɤ˧tsʰe˩
+\sy hi˧dʑi˧
+\so <print="n"> F4
+\pdv ɭɯ˧β
+\de Palm bark rain cape (Naxi loanword).
+\ge rain_cape
+\dn 蓑衣（纳西语借词）
+\gn 蓑衣
+\df Cape de pluie, vêtement qui protège de la pluie (emprunt au naxi).
+\gf cape_de_pluie
+\xv dʑɤ˧tsʰe˩, | hi˧dʑi˧ ɲi˩!
+\xe Explanation of the Naxi loanword through its synonymy with the Na word: “The rain cape [Naxi loanword] is a rain cape [word in Narua]!”
+\xn 用摩梭话的词来解释纳西语借词：“蓑衣（纳西语借词），意思是‘蓑衣’[摩梭话]！”
+\xf Explication du mot emprunté au naxi par son synonyme en na: «Cape de pluie (mot naxi), ça veut dire cape de pluie (mot na)!» / «La cape des Naxi, c'est le vêtement de pluie!»
+\xv hi˧dʑi˧-dʑɤ˧tsʰe˩
+\xe same meaning
+\xn 同上
+\xf idem
 
 \lx hi˩dʑɯ˩
 \sf <nb="B"> 76
@@ -20501,9 +20529,9 @@
 \df Faisan, |fi{Phasianus colchicus}. Également appelé «poule sauvage». Le même terme est utilisé pour la caille.
 \gf faisan
 \xv ho˧ tʰv̩˧-mi˧˥ ≈ ho˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只雉
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx mv̩˧mi˧-mæ˧ɖv̩#˥
@@ -20866,9 +20894,9 @@
 \df Faisan femelle.
 \gf faisan_femelle
 \xv ho˧mi˧ tʰv̩˧-mi˧˥ ≈ ho˧mi˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这个母雉
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv ho˧mi˧-ho˧pʰv̩˥ ≈ ho˧mi˧-ho˥pʰv̩˩
 \xe female and male pheasant
 \xn 母雉与公雉
@@ -20892,9 +20920,9 @@
 \df Faisan mâle.
 \gf faisan_mâle
 \xv ho˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ho˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公雉
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx hɤ˩-ʂe˩ʂe˩
 \or hesheishei
@@ -21048,9 +21076,9 @@
 \df Bébé faisan.
 \gf bébé_faisan
 \xv ho˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只小雉
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 29/Jul/2017
 
 \lx hõ˧α
@@ -21597,6 +21625,8 @@
 \sf <nb="B"> 1926
 \sf <nb="2011"> 2939
 \or hun'na
+\ets hṽ̩˥1
+\ets nɑ˩β
 \ps n
 \lc hṽ̩˧nɑ˩
 \sd <langue="fra"> animal
@@ -21614,7 +21644,6 @@
 \gn 野兽
 \df Bête sauvage.
 \gf bête_sauvage
-\dt 24/Apr/2017
 
 \lx hṽ̩˩α
 \sf <nb="2011"> 1394
@@ -21808,9 +21837,9 @@
 \df Grosse houe.
 \gf grande_houe
 \xv hwæ˧pʰæ˩ tʰv̩˩-nɑ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这把大锄
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
 \lx hwæ˧pʰæ˥
@@ -22529,9 +22558,9 @@
 \df Matou, chat mâle.
 \gf matou
 \xv hwɤ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那个公猫
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv hwɤ˧pʰv̩˧-hwɤ˧mi˥
 \xe tom-cat and she-cat
 \xn 公猫与母猫
@@ -22634,9 +22663,9 @@
 \df Chaton.
 \gf chaton
 \xv hwɤ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那个小猫
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv hwɤ˧zo˧-hwɤ˧mi˥
 \xe cats, the cat family: kitten and parents
 \xn 猫，包括小猫、母猫和公猫
@@ -22962,9 +22991,9 @@
 \xn 牛皮
 \xf peau de vache
 \xv ʝi˧ tʰv̩˧-pʰo˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那头牛
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 02/Sep/2015
 
 \lx ʝi˧nɑ˥
@@ -23624,13 +23653,13 @@
 \df Taureau.
 \gf taureau
 \xv ʝi˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那头公牛
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv ʝi˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}.animaux
+\xe 〜 |fg{dem} |fg{clf}.animaux
 \xn 那头公牛
-\xf |fg{n}+|fg{dem}+|fg{clf}.animaux
+\xf 〜 |fg{dem} |fg{clf}.animaux
 
 \lx ʝi˩qʰv̩˩
 \sf <nb="B"> 420
@@ -24012,9 +24041,9 @@
 \df Veau.
 \gf veau
 \xv ʝi˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那头小牛
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 02/Sep/2015
 
 \lx jo˩
@@ -27459,13 +27488,13 @@
 \df Griffes de poulet.
 \gf griffes_de_poulet
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只鸡爪
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ʈv̩˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只鸡爪
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 03/Sep/2015
 
 \lx kʰɯ˧tsɯ˧bæ˥
@@ -27785,9 +27814,9 @@
 \df Nid (monosyllabe).
 \gf nid(monosyll.)
 \xv kʰv̩˧ | ʈʂʰɯ˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只鸟巢
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˩ gv̩˩˥
 \xe to build a nest
@@ -27878,9 +27907,9 @@
 \xn 狗的生命（传说狗与人交换了生命）
 \xf l'existence du chien, la vie du chien (qu'il a échangée avec l'homme, selon la légende)
 \xv kʰv̩˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那条狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv kʰv̩˧-gɤ˥ljɤ˩
 \xe roving dog
 \xn 流浪狗
@@ -28038,7 +28067,10 @@
 \gn 属狗
 \df Né l'année du Chien.
 \gf né_l_année_du_Chien
-\xv ʈʂʰɯ˧ | kʰɯ˧-kʰv̩˩.  Il est de l'année du Chien.
+\xv ʈʂʰɯ˧ | kʰv̩˧-kʰv̩˩.
+\xe (S)he was born in the year of the Dog.
+\xn 他属狗。
+\xf Il est de l'année du Chien.
 
 \lx kʰv̩˧kwæ˧
 \sf <nb="2011"> 3079
@@ -28164,9 +28196,9 @@
 \df Chien (sans spécifier le sexe).
 \gf chien
 \xv kʰv̩˩mi˩ ʈʂʰɯ˩-jɤ˧
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这条狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xv di˧qo˧-kʰv̩˩mi˩
 \xe the dogs of the plain (which, unlike dogs in mountain hamlets, get to see lots of passers-by, and are less likely to bite strangers)
 \xn 平坝的狗
@@ -28330,19 +28362,19 @@
 \df Chien mâle (forme élicitée).
 \gf chien_mâle
 \xv kʰv̩˧pʰv̩˧ ʈʂʰɯ˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-mi˧˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-v̩#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这个公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
 \lx kʰv̩˧qʰwɤ˧˥
@@ -28371,10 +28403,15 @@
 \sf <nb="B"> 1755
 \sf <nb="2011"> 1708
 \or kushae
+\ets kʰv̩˥2
+\ets ʂæ˩
 \ps v
 \lc kʰv̩˧ʂæ˧˥
+\sy tɕʰɯ˩di˩
+\sy hṽ̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
+\nt <dom="ton" langue="fra"> Schéma tonal régulier: objet au ton H, verbe au ton L, expression résultante au ton MH.
 \nt <dom="sem" langue="fra"> “Chasser" se dit “mener (un) chien".
 \ton MH
 \so <print="n"> F4
@@ -28390,7 +28427,31 @@
 \xe (He/she) has gone hunting
 \xn 狩猎去了
 \xf (Elle/il) est parti(e) chasser
-\dt 24/Apr/2017
+
+\lx hṽ̩˧ʂæ˧˥
+\sf <nb="B"> 1193
+\sf <nb="B"> 1755
+\sf <nb="2011"> 1708
+\or hunshae rrrr
+\ets hṽ̩˥1
+\ets ʂæ˩
+\ps v
+\lc hṽ̩˧ʂæ˧˥
+\sy tɕʰɯ˩di˩
+\sy kʰv̩˧ʂæ˧˥
+\nt <dom="ton" langue="fra"> Schéma tonal régulier: objet au ton H, verbe au ton L, expression résultante au ton MH.
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton MH
+\so <print="n"> F4
+\de To hunt.
+\ge to_hunt
+\dn 打猎、赶走、驱逐
+\gn 打猎
+\df Chasser.
+\gf chasser
+\txtsup Sister5.14
+\doisup xxAttributionÀVenir
 
 \lx kv̩˧ʂe˥$
 \sf <nb="B"> 1808
@@ -28693,19 +28754,19 @@
 \df Chien (mâle), chiot. Le terme est également employé comme nom provisoire pour les garçonnets pendant leurs premiers mois, avant qu'on ne leur donne un vrai nom. Le vilain nom dont on l'affuble vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.).
 \gf petit_chien
 \xv kʰv̩˧zo˧ ʈʂʰɯ˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-mi˧˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-v̩#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只公狗
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˥-kʰv̩˩mv̩˩
 \xe puppy and she-dog
@@ -29863,9 +29924,9 @@
 \df Tigresse.
 \gf tigresse
 \xv lɑ˧mi˧ tʰv̩˧-mi˧˥ / lɑ˧mi˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只老虎
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 04/Sep/2015
 
 \lx ɬɑ˧mv̩˥$
@@ -29958,9 +30019,9 @@
 \df Tigre (mâle).
 \gf tigre(mâle)
 \xv lɑ˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只老虎
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx læ˧ʁæ˧-mi˥$
 \or laehraemi
@@ -29994,9 +30055,9 @@
 \df Corbeau mâle. (Ce n'est pas un terme usuel: dans la langue courante, on ne distingue pas corbeau mâle et corbeau femelle.)
 \gf corbeau_mâle
 \xv læ˧ʁæ˧-pʰv̩˧ tʰv̩˧-mi˥$
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只公乌鸦
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx læ˧ʁæ˥$
 \sf <nb="B"> 1798
@@ -30289,9 +30350,9 @@
 \df Petit tigre.
 \gf bébé_tigre
 \xv lɑ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只小老虎
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 04/Sep/2015
 
 \lx lɑ˩~lɑ˧˥
@@ -31279,9 +31340,9 @@
 \df Chevrotain mâle.
 \gf chevrotain_mâle
 \xv ɬi˧pʰv̩˧ tʰv̩˧-mi˥# ≈ ɬi˧pʰv̩˧ tʰv̩˧-mi˧˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只公獐子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 
 \lx ɬi˧qʰæ#˥
 \sf <nb="B"> 115
@@ -32132,9 +32193,9 @@
 \df Serfouette, croc à trois dents: instrument à trois dents perpendiculaires au manche, pour ameublir la terre. Les modèles actuellement utilisés ont une tête en métal.
 \gf serfouette
 \xv lo˧ɖʐɤ˩ ʈʂʰɯ˩-nɑ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这把三齿耙
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
 \lx lo˧fv̩˧
@@ -32579,11 +32640,11 @@
 \lx ɬo˧pɤ˥
 \or lhobe
 \ps n
-\sy sɯ˧ʈv̩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton H#
 \lc ɬo˧pɤ˥
+\sy sɯ˧ʈv̩˥
 \so <print="n"> F4
 \vf <dom="ton"> MH
 \pdv ɭɯ˧β
@@ -33596,9 +33657,9 @@
 \df Mante religieuse.
 \gf mante_religieuse
 \xv ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˧˥ / ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˥#
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 那只螳螂
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 01/Aug/2017
 
 \lx ɬv̩˩pʰæ˩
@@ -34628,9 +34689,9 @@
 \xn 这（件事情）出处很远！ / 有它的来龙去脉（=不是突然一下子出现的）！
 \xf (Au sujet d'un événement) Ca vient de loin! / ça a une origine/ça n'arrive pas par hasard!
 \xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩ |
-\xe |fg{n}+|fg{dem}+|fg{clf}: this cause, this origin
+\xe 〜 |fg{dem} |fg{clf}: this cause, this origin
 \xn 这个来历
-\xf |fg{n}+|fg{dem}+|fg{clf}: cette cause, cette origine
+\xf 〜 |fg{dem} |fg{clf}: cette cause, cette origine
 \dt 24/Apr/2017
 
 \lx mæ˩α
@@ -35284,7 +35345,7 @@
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np <langue="fra"> (cognat probable du naxi /mv̩/)
+\nt <dom="comp" langue="naxi"> mv̩˩
 \ton L
 \lc --
 \so <print="n"> F4
@@ -35298,7 +35359,6 @@
 \xe Please drink a little! / Do have a sip!
 \xn 请你喝一点！
 \xf Bois donc un peu!
-\dt 24/Apr/2017
 
 \lx mo˧
 \sf <nb="B"> 2163b
@@ -40237,7 +40297,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (notes avant 2009: “ɲi˩˥, ton 3: le˥ɲi˩ze˩; est donc homophone avec le verbe “être"; au ton 1, ce serait: le˧ɲi˧ze˧: on a suffisamment mangé, 饱了.")
+\nt <type="hist" langue="fra" print="n"> Notes d'avant 2009: “ɲi˩˥, ton 3: le˥ɲi˩ze˩; est donc homophone avec le verbe “être"; au ton 1, ce serait: le˧ɲi˧ze˧: on a suffisamment mangé, 饱了."
 \ton Mα
 \lc ɲi˧
 \so <print="n"> F4
@@ -40258,6 +40318,9 @@
 \xe You want some more rice?
 \xn 还要一点饭吗？
 \xf Encore un peu de riz? / Souhaites-tu encore un bol de riz?
+\xv «mɤ˧-ɲi˧! mɤ˧-ɲi˧!» so˩-qʰwɤ˩ dzɯ˩˥!
+\xe “No no, I'm fine!” and then you eat three big bowls, hey? (
+/ Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas demander de nourriture, et qui finissent par manger avec très bon appétit, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains.
 
 \lx ɲi˩=ɻ̩˥
 \or ni'er
@@ -49257,9 +49320,9 @@
 \df Cordelette, ficelle.
 \gf cordelette
 \xv qʰv̩˩ɖʐæ˩ ʈʂʰɯ˩-kʰɯ˥
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 一条细的绳子
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 01/Oct/2015
 
 \lx qv̩˧dzi˩
@@ -50925,9 +50988,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 牛轭
 \xf même sens que la forme monosyllabique: joug; littéralement ‘joug de bœuf/buffle'
 \xv ɻæ˩ ʈʂʰɯ˩-ɭɯ˥ / ɻæ˩ ʈʂʰɯ˩-ɭɯ˩˥
-\xe |fg{n}+|fg{dem}+|fg{clf}; allows two variants
+\xe 〜 |fg{dem} |fg{clf}; allows two variants
 \xn 这个牛轭
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有两种声调变体。
@@ -51591,9 +51654,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 牛肩隆
 \xf garrot de vache
 \xv ʁæ˧tɑ˩ tʰv̩˩-ɭɯ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这只肩隆
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 01/Oct/2015
 
 \lx ʁæ˧ʈv̩˥
@@ -58238,14 +58301,16 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (confirmé: n'est pas /si/)
-\nt <dom="sem" langue="fra"> (M23: erreur sur la 1e syllabe, qui est en fait /sɯ˧/; erreur qui se soutient d'une étymologie populaire: /si˧/="bois", la table et la caisse étant de bois)
 \ton #H
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> Utilise un emprunt; accepte le mot de F4
+\vf <print="n"> Le locuteur utilise un emprunt; il accepte le mot de F4.
 \va <speaker="M23"> si˧gv̩˧
+\vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
+\ve <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
+\vn <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
 \pdv ɭɯ˧β
 \de Box, case.
 \ge box
@@ -58253,7 +58318,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 箱子
 \df Caisse, coffre; par extension: armoire.
 \gf caisse
-\dt 09/Oct/2015
 
 \lx ʂɯ˩ʝi#˥
 \sf <nb="B"> 793
@@ -58601,7 +58665,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\va <speaker="M23"> si˧ɻæ˧, càd erreur du locuteur, qui réanalyse peut-être la 1e syllabe comme signifiant “bois", par une étymologie populaire erronée
+\va <speaker="M23"> si˧ɻæ˧
+\vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
+\ve <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
+\vn <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
 \pdv pɤ˩
 \de Table.
 \ge table
@@ -59568,7 +59635,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv ʂwæ˩ tʰv̩˩-kʰwɤ˩˥
 \xe 〜 |fg{dem}+|fg{clf}
 \xn 这个楔子
-\xf |fg{n}+|fg{dem}+|fg{clf}.morceaux
+\xf 〜 |fg{dem} |fg{clf}.morceaux
 \xc PHONO
 \xv ʂwæ˩ kʰɯ˥
 \xe to place a wedge, to put a wedge
@@ -62905,9 +62972,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Joug.
 \gf 夹担::joug
 \xv tɕɤ˧tɑ˧ tʰv̩˧-ɭɯ˧
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这个牛轭
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 08/Oct/2015
 
 \lx tɕɤ˧tɑ˧-bæ˩
@@ -62932,9 +62999,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Courroies entre le joug et l'araire.
 \gf courroies_du_joug
 \xv tɕɤ˧tɑ˧-bæ˩ tʰv̩˩-kʰɯ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这条牛皮绳
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \dt 27/Apr/2017
 
@@ -63585,8 +63652,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or qiddi
 \ps v
 \lc tɕʰɯ˩di˩˥
-\cf tɕʰɯ˩˥
-\cf di˧˥1
+\ets tɕʰɯ˩˥
+\ets di˧˥1
+\sy hṽ̩˧ʂæ˧˥
+\sy kʰv̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np <langue="fra"> littéralement “courir le muntjac"
@@ -71019,9 +71088,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Soc de l'araire.
 \gf soc
 \xv ʈʂʰɻ̩˧ ʈʂʰɯ˧-ɭɯ˧
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这把铧头
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \dt 07/Oct/2015
 
 \lx ʈʂʰɻ̩˧˥
@@ -72831,11 +72900,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Filet. (Les filets n'étaient guère en usage à Yongning dans le temps. La nasse pour attraper les poissons, |fv{ɲi˧ʈʂæ˥-pɤ˩tv̩˩}, était confectionnée en bambou.)
 \gf filet
 \xv ʈʂʰwæ˧kɯ˧ tʰv̩˧-nɑ˩
-\xe |fg{n}+|fg{dem}+|fg{clf}
+\xe 〜 |fg{dem} |fg{clf}
 \xn 这个网
-\xf |fg{n}+|fg{dem}+|fg{clf}
+\xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx ʁwɤ˧
 \sf <nb="2011"> 835
@@ -77416,6 +77484,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ʐe˩mi˩
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\sn 1
 \pdv kʰɯ˩
 \de Road.
 \ge road
@@ -77427,7 +77496,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe People walk, one after the other, and they create a path! (Context: when people go to fell trees on the mountain, where there was no path before, their passage open a new path, whose traces remain visible and may become a customary path.)
 \xn 路是人走出来的！
 \xf Contexte: on va couper du bois en montagne, à un endroit où il n'y a pas de chemin. Les gens se succèdent, et cela finit par ouvrir un chemin/former une sorte de chemin
-\dt 07/Oct/2015
+\sn 2
+\so <print="n"> M18
+\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his/her soul and guide him/her back to the place where his/her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries.
+\ge Remi
+\dn 达巴口诵经典《仁咪经》。《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
+\gn 《仁咪经》
+\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. “Remi” signifie “le chemin”. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances.
+\gf Remi
 
 \lx zo˧mv̩˥
 \sf <nb="B"> 258
@@ -81446,3 +81522,75 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 应该
 \df Obligatif.
 \gf |fg{oblig}
+
+\lx tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
+\or Cozzi Ddimezzi rrrr
+\ps n
+\sy dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M | L
+\lc tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩˥
+\so <print="n"> M18
+\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitv-Cotv. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative.
+\ge Cozzi_Ddimezzi
+\dn 达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
+\gn 《搓孜地玛孜经》
+\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple moso, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit.
+\gf Cozzi_Ddimezzi
+
+\lx dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
+\or Zzitv-Cotv rrrr
+\ps n
+\cf tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M
+\lc dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
+
+\lx hɑ˩nɑ˧gv̩˧
+\or Hanaggu rrrr
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton LM
+\lc hɑ˩nɑ˧gv̩˧
+\so <print="n"> M18
+\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Mosuo's ancestors.
+\ge Hanaggu
+\dn 达巴口诵经典《哈纳鼓经》。在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
+\gn 《哈纳鼓经》
+\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Moso.
+\gf Hanaggu
+
+\lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
+\or Puzzo-Pudulu rrrr
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M
+\lc pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
+\cf lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
+\so <print="n"> M18
+\de Puzzo-Pudulu, one of the two family communities in the “Puzzo-Pudulu and Luxi-Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\ge Puzzo-Pudulu
+\dn 普若普嘟噜：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
+\gn 普若普嘟噜
+\df Puzzo-Pudulu, l'une des deux familles éponymes de l'épopée “Puzzo-Pudulu et Luxi-Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\gf Puzzo-Pudulu
+
+\lx lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
+\or Luxi-Zhinaha rrrr
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M-ML
+\lc lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
+\cf pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
+\so <print="n"> M18
+\de Luxi-Zhinaha, one of the two family communities in the “Puzzo-Pudulu and Luxi-Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\ge Luxi-Zhinaha
+\dn 噜细至纳哈：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
+\gn 普若普嘟噜
+\df Luxi-Zhinaha, l'une des deux familles éponymes de l'épopée “Puzzo-Pudulu et Luxi-Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\gf Luxi-Zhinaha

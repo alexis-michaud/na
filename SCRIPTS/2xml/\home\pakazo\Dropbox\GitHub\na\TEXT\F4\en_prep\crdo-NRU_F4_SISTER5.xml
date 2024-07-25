@@ -1,0 +1,430 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="view_text.xsl"?>
+<TEXT id="crdo-NRU_�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |" xml:lang="NRU">
+<HEADER>
+<SOUNDFILE  href="../audio/crdo-NRU_�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |.wav"/>
+<TITLE xml:lang="en">�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |</TITLE>
+</HEADER>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S001">
+	<AUDIO start="n'est-ce" end="pas,"/>
+	<FORM kindOf="ortho">% Transcrit en utilisant comme canevas la transcription par TRANSFORMERS de septembre 2022, fournie par Séverine Guillaume.</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S002">
+	<AUDIO start="l'aîné," end="il"/>
+	<FORM kindOf="ortho">7.12 12.51</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S003">
+	<AUDIO start="La" end="séquence"/>
+	<FORM kindOf="ortho">12.51 15.61</FORM>
+	<TRANSL xml:lang="zh">Tandis que la petite sœur, elle restait à la maison, à ce qu'on dit!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S004">
+	<AUDIO start="24.70" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | go˧mi˧-dʑo˧, | ə˧mv˥-tɕi˩ lɑ˩ gv̩˩, | ɑ˩ʁo˧ dʑo˩ -dʑo˩ | tʰi˩˥, | əəə… ə˧mv̩˧˥ ◊ -dʑo˩, | ʈʰææ̃˧ | dʑɯ˩-ʁo˩ dzi˩-zo˥ | le˧-mɤ˧-tsʰɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang=" T" message = "ns de /go˧mi˧-dʑo˧/: voir note ci-dessus."/>
+	<NOTE xml:lang=" /" message = "ʑɯ˩-ʁo˩ dzi˩-zo˥/: vérifié soigneusement avec F4. La prononciation ressemble à /dʑɯ˩-ʁo˩ dʑɯ˩-zo˥/, mais il s'agit bien du verbe /dzi˩/ 'habiter'. Ensuite: y a-t-il un schwa, /dʑɯ˩-ʁo˩ ə˩ dzi˩-zo˥/, qui serait le signe d'une syllabe en ellipse, telle que /dʑɯ˩-ʁo˩ tʰi˩ dzi˩-zo˥/? Réponse: on peut en effet dire /dʑɯ˩-ʁo˩˥ | tʰi˧-dzi˩-zo˩/. Qui peut ensuite se simplifier en un seul groupe tonal, /dʑɯ˩-ʁo˩ tʰi˩ dzi˩-zo˥/. Puis en /dʑɯ˩-ʁo˩ ə˩-dzi˩-zo˥/. Et enfin, sans le schwa: /dʑɯ˩-ʁo˩ dzi˩-zo˥/."/>
+	<TRANSL xml:lang="zh">Alors, la petite sœur, comme elle était encore petite, et qu'elle restait à la maison, eh bien... l'aîné, on dit qu'il était bel et bien allé vivre en montagne (qu'il s'était établi dans la montagne), et qu'il ne revenait pas.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S005">
+	<AUDIO start="31.86" end=""/>
+	<FORM kindOf="ortho">dʑɯ˩ʁo˩ dzi˩˥ | le˧-mɤ˧-tsʰɯ˩-dʑo˩, | ə˧mi˧ F | le˧-mo˩, | ə˧dɑ˥ F | le˧-mo˩-ho˩, | go˧mi˧ | le˧-ɖɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang=" M" message = "�me question que ci-dessus concernant la présence d'une syllabe en ellipse: /dʑɯ˩ʁo˩ dʑɯ˩˥/, /dʑɯ˩ʁo˩ ə˩-dʑɯ˩˥/, /dʑɯ˩ʁo˩ tʰi˩-dʑɯ˩˥/?"/>
+	<TRANSL xml:lang="zh">Comme [le frère] habitait dans la montagne et ne revenait pas, la mère et le père vieillissaient peu à peu! Et la sœur devenait adulte.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S006">
+	<AUDIO start="38.48" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | "tsʰi˧ɲi˧ | le˧-ʝi˩ ə˩-ʝi˩? | so˧ɲi˥ | le˧-ʝi˩ ə˩-ʝi˩?" | ʂv̩˧ɖv̩˧, ə˩-gi˩! | le˧-mɤ˧-tsʰɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang=" F" message = "rmule /le˧-ʝi˩ ə˩-ʝi˩/: est-ce une forme réduite de /le˧-ʝi˩ mɤ˩-ʝi˩/? réponse: non, ce n'est pas une forme réduite de /le˧-ʝi˩ mɤ˩-ʝi˩/."/>
+	<TRANSL xml:lang="zh">On ne peut dire: /le˧-ʈʰɯ˩ ə˩-ʈʰɯ˩/, /le˧-do˩ ə˩-do˩/, /le˧-ki˩ ə˩-ki˩.../ Pour une jeune femme qui hésiterait à se marier, on dirait: /le˧-ki˧ hɤ˧ | mɤ˧-do˩!/ de même qu'on pourrait dire: /le˧-ʝi˩ hɤ˩ | mɤ˧-do˩!/ 'on ne sait pas s'il va venir!'</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S007">
+	<AUDIO start="" end=""/>
+	<FORM kindOf="ortho">On se demandait: "Est-ce qu'il va venir aujourd'hui? est-ce qu'il va venir demain?", et il ne revenait pas.</FORM>
+	<TRANSL xml:lang="zh">tʰi˩˥, | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩ ɳɯ˩ | ʂe˧ tsʰɯ˩ tsɯ˩ ◊ mv̩˩! |</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S008">
+	<AUDIO start="" end=""/>
+	<FORM kindOf="ortho">comme la fille était grandie, une famille est venue la demander en mariage!</FORM>
+	<TRANSL xml:lang="zh">go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩-ɳɯ˩ | ʂe˧ tsʰɯ˩-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩ | go˧mi˧-ɳɯ˧ … | "njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩, | mɤ˧-dʑo˩ mɤ˩-do˩! | njɤ˧ | ə˧mv̩˩ | tʰi˩˥, | mɤ˧-do˩!" |</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S009">
+	<AUDIO start="fille" end="étant"/>
+	<FORM kindOf="ortho">% /"njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩/: l'expression comporte un 'resumptive schwa', après pause, devant /dʑo˩˥/. Effet stylistique: mise en valeur. Paraphrase: "Mon frère, on ne sait *même* s'il est vivant".</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S010">
+	<AUDIO start="que" end="faire?""/>
+	<FORM kindOf="ortho">56.02 66.84</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S011">
+	<AUDIO start="cette" end="famille"/>
+	<FORM kindOf="ortho">66.84 70.10</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S012">
+	<AUDIO start="quand" end="ils"/>
+	<FORM kindOf="ortho">70.10 81.09</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S013">
+	<AUDIO start="vérifié" end="les"/>
+	<FORM kindOf="ortho">81.09 91.12</FORM>
+	<TRANSL xml:lang="zh">Comme on invitait les gens du village, la petite sœur a demandé: "Je ne vois pas mon frère (parmi les gens qu'on invite), est-ce que c'est bien convenable / est-ce bien possible de procéder ainsi?"</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S014">
+	<AUDIO start="95.08" end=""/>
+	<FORM kindOf="ortho">ə˧mi˧-ɳɯ˧ : “tsɤ˧-ʝi˧, | tsɤ˧-ʝi˧! | tʰi˧-kwɤ˩-kʰɯ˩-tsæ˩-ɲi˩-ze˩ mæ˩! | &lt;ə˧mi˧,&gt; ə˧mv̩˩ | le˧-ʂɯ˧, | mɤ˧-do˩!" | pi˧-dʑo˩, | tʰi˩˥, |</FORM>
+	<TRANSL xml:lang="zh">La mère a répondu: "C'est bon, c'est bon! Il faut laisser tomber (ces vieilles histoires), enfin! Le grand frère, qu'est-ce qu'on en sait, il est peut-être mort!"</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S015">
+	<AUDIO start="100.79" end=""/>
+	<FORM kindOf="ortho">tʰv̩˧-ɲi˧-dʑo˩ | tʰi˩˥, | ə˧mv̩˩-dʑo˩, | dʑɯ˩ʁo˩˥ | hṽ̩˧ ʂæ˧˥ | dʑo˩… | tɕʰɯ˩di˩ hɯ˩-tsɯ˥ ◊ mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">Ce jour-là, le grand frère, il chassait dans la montagne; il traquait le muntjac, à ce que dit l'histoire!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S016">
+	<AUDIO start="109.02" end=""/>
+	<FORM kindOf="ortho">dʑɯ˩ʁo˩˥ | tɕʰɯ˩di˩˥, | tɕʰɯ˩di˩˥ | le˧-tsʰɯ˩-dʑo˩, | zo˩no˥, | mmm… kʰv˩mi˩-ɳɯ˥, … | ko˩qɑ˩-qo˥, | tʰææ̃˧ | le˧-bæ˧-zo˥! |</FORM>
+	<TRANSL xml:lang="zh">Il traquait le muntjac sur la montagne; en revenant de la chasse, eh bien, le chien, parvenu à un col, vrai de vrai, il s'est mis à courir!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S017">
+	<AUDIO start="111.66" end=""/>
+	<FORM kindOf="ortho">go˧mi˧ hĩ˧-ki˧ ki˩ ho˩-hĩ˩ ɳv̩˩ F di˩-zo˩! |</FORM>
+	<NOTE xml:lang=" /" message = "�v̩˩ F di˩-zo˩/: réalisé avec 'resumptive schwa' après /ɳv̩˩/, interprété comme faisant partie de la réalisation de la focalisation (notée F)."/>
+	<TRANSL xml:lang="zh">C'est comme s'il avait senti que la petite sœur allait se marier!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S018">
+	<AUDIO start="116.37" end=""/>
+	<FORM kindOf="ortho">le˧-bæ˧-zo˥ | le˧-hɯ˩-zo˩, | ʈʂʰɯ˧-ʑi˧˥ | &lt;ɑ˩ʁo˧ tv…&gt; ʁwɤ˧-qo˧ tʰv̩˧-ʑi˥ | ɑ˩ʁo˧ tʰv̩˧-hɯ˧ tsɯ˩ ◊ -mv˩! |</FORM>
+	<TRANSL xml:lang="zh">En courant, en filant [ainsi], il est parvenu à cette famille, à cette famille du village, à ce qu'on raconte!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S019">
+	<AUDIO start="121.66" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | ə˧mv̩˧ ʈʂʰɯ˧-v̩˥-dʑo˩, | kʰv̩˩mi˩˥ | le˧-qʰo˩, | le˧-qʰo˩, | kʰv˩mi˩˥ | mɤ˧-ɖɯ˧ pi˧-tsɯ˩ ◊ mv̩˩. |</FORM>
+	<TRANSL xml:lang="zh">Alors, le grand frère, il a suivi le chien, mais il ne l'a pas retrouvé!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S020">
+	<AUDIO start="127.80" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | mɤ˧-ɖɯ˧-dʑo˧, | gi˩˥ | le˧-se˥, | le˧-se˥-hɯ˩-dʑo˩, | tɕʰɤ˧tɕʰɤ˧˥, | ə˧mv̩˩ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ | kʰi˧-qʰv̩˧ tʰv̩˧-tsɯ˩ ◊ -mv˩! |</FORM>
+	<NOTE xml:lang=" t" message = "�ʰɤ˧tɕʰɤ˧˥: 一直到 (ne serait pas un emprunt chinois de 悄悄 ou autre); est bien le mot noté dans le dictionnaire: /tɕʰɤ˧tɕʰɤ˧˥/ 'complètement, intégralement'"/>
+	<NOTE xml:lang=" v" message = "�rifier: ne serait-ce pas /kʰi˧-qʰv̩˧ tʰv̩˧-tsɯ˥/? On a en effet /kʰi˧-qʰv̩˧ tʰv̩˧-ɲi˥/. Réponse: non, c'est bien /kʰi˧-qʰv̩˧ tʰv̩˧-tsɯ˩/. Également élicités: /kʰi˧-qʰv̩˧ tʰv̩˧-ze˩/, /kʰi˧-qʰv̩˧ tʰv̩˧-ze˩-tsɯ˩/."/>
+	<TRANSL xml:lang="zh">Alors, comme il ne le trouvait pas, vrai de vrai, il l'a pisté, et à force de le pister, le grand frère, il est arrivé jusqu'à la porte (de la maison où on faisait la fête)!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S021">
+	<AUDIO start="130.95" end=""/>
+	<FORM kindOf="ortho">kʰv̩˩mi˩˥ | -dʑo˩, | ʈʂʰɯ˧ | ɑ˩ʁo˧ dzi˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">Le chien, il était allé s'asseoir dans la pièce principale, à ce que dit l'histoire!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S022">
+	<AUDIO start="138.37" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | le˧-se˥-hɯ˩, | ʈʂʰɯ˧ kʰi˧-qo˧ tʰi˧-tʰv̩˧-dʑo˧, | tʰi˩˥, | ɑ˩pʰo˩˥ | tʰi˧-hĩ˧-ze˥! | pi˧-tsɯ˩ ◊ mv̩˩, | ə˧mv̩˧˥ | dʑo˩, ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧! |</FORM>
+	<NOTE xml:lang=" /" message = "ʰi˧-tʰv̩˧-dʑo˧/: à vérifier: dans Housebuilding.74, avais noté /tʰi˧-tʰv̩˧-dʑo˥/; dans Tiger2.119: /ɑ˩ʁo˧ tʰi˧-tʰv̩˧-dʑo˧/. Réponse: c'est bien /tʰi˧-tʰv̩˧-dʑo˧/. Le passage correspondant dans Housebuilding.74 a été corrigé, après réécoute avec F4."/>
+	<NOTE xml:lang=" L" message = " passage /ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧/ donne l'impression d'une syllabe présente après le duratif: quelque chose comme /tʰi˧-hĩ˧-mv̩˧/ ou /tʰi˧-ɲi˧-mv̩˧/. Vérification faite, il n'y a pas de troisième syllabe présente. Il s'agit simplement d'un allongement de la syllabe /tʰi˧-/."/>
+	<TRANSL xml:lang="zh">Alors, comme il était parti sur la piste (de son chien), et qu'il était parvenu à la porte, alors, il s'est tenu debout à l'extérieur, à ce que dit l'histoire, le grand frère, drapé dans sa cape de feutre!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S023">
+	<AUDIO start="144.82" end=""/>
+	<FORM kindOf="ortho">ɑ˩pʰo˩˥ | tʰi˧-hĩ˧˥ ◊ -dʑo˩, | tʰi˩˥, | kʰv̩˩mi˩ tʰv˩-ʲɤ˥-dʑo˩, | ʈʂʰɯ˧ | ɬi˩ʈɯ˩mæ˥ dzi˩ dʑo˩ tsɯ˩ ◊ mv̩˩, | pi˧-tsɯ˩ ◊ -mv˩. |</FORM>
+	<TRANSL xml:lang="zh">Tandis qu'il se tenait debout dehors, eh bien, le chien se tenait assis en contrebas du foyer, à ce que dit l'histoire.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S024">
+	<AUDIO start="151.21" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | ə˧mv̩˧-ɳɯ˥ -dʑo˩ | tʰi˩˥, | &lt;ɬ...&gt; ɑ˩pʰo˩˥ | tʰi˧-hĩ˧-hĩ˥-qo˩ | tʰi˩˥, | "õ˧ go˧mi˥-ɳɯ˩ | tsʰi˧ɲi˧ | ɲi˩˥! | li˧-ɳɯ˧, | õ˧ go˧mi˥ pʰæ˩di˩"! | pi˧-zo˩, |</FORM>
+	<TRANSL xml:lang="zh">Alors, le grand frère, de l'endroit où il se tenait debout, au-dehors, se disant: "Ma propre petite sœur, aujourd'hui... c'est bien elle! À la voir, elle ressemble bien à ma petite sœur!",</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S025">
+	<AUDIO start="156.46" end=""/>
+	<FORM kindOf="ortho">tsʰo˧-zo˩ | le˧-hɯ˩-zo˩, | ʈʂʰɯ˧ | ɬi˩ʈɯ˩mæ˥ | kʰv̩˩mi˩ lɑ˥ | kɤ˧kɤ˩ | tʰi˧-dzi˩! | pi˧-tsɯ˩ ◊ mv̩˩, | pi˧-tsɯ˩ ◊ mv̩˩. |</FORM>
+	<TRANSL xml:lang="zh">D'un bond, il est allé, lui, en contrebas du foyer! Il s'est assis à côté de son chien, à ce qu'on dit, à ce qu'on raconte.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S026">
+	<AUDIO start="162.45" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | "tse˩ʈʂʰv̩˩-kʰv̩˥, | no˧ | mv̩˩tɕo˧ se˧! | ə˧tso˧ hĩ˧ ɲi˥, | mɤ˧-do˩! | ɖɯ˧-v̩˧ ʂv̩˧ le˧-po˧-tsʰɯ˧˥! | hɑ˧mi˥-hĩ˩ | ɖɯ˧-v̩˧ ʑi˩-zo˩, | ʁɑ˩mi˧! | mæ˧qo˩ dzi˩-tsʰɯ˩!" |</FORM>
+	<TRANSL xml:lang="zh">[Les gens ont dit:] "Sac à puces, descends de là! Mais qui ça peut bien être, ce bonhomme? [Le clébard] nous ramène quelqu'un! Il nous a attrapé un mendiant, aïe aïe aïe! Qu'il aille s'asseoir au fond [de la salle]!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S027">
+	<AUDIO start="167.32" end=""/>
+	<FORM kindOf="ortho">"tsʰi˧ɲi˧, | mv̩˩tɕo˧ se˧!" | pi˧-dʑo˩, | &lt;g... ə...&gt; ə˧mv̩˧ tʰv̩˧-v̩˧-ɳɯ˥ … | mɤ˧-lv̩˩~lv̩˩! | tʰi˧-dzi˩ pi˩ tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang=" O" message = " pourrait également dire: /tʰi˧-dzi˩ | pi˧-tsɯ˩-mv̩˩/."/>
+	<TRANSL xml:lang="zh">"Bon, aujourd'hui, tu descends!" Mais le grand frère ne bougeait pas! Il se tenait assis [là], à ce que dit l'histoire.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S028">
+	<AUDIO start="176.61" end=""/>
+	<FORM kindOf="ortho">tʰi˧-dzi˩-dʑo˩, | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩˥ F | tʰi˧-dzi˩! | ə˧mv̩˧˥ F | tʰi˧-dzi˩! | zo˩no˥! | tʰi˧-dzi˩-dʑo˩ | tʰi˩˥, | "ɑ˩pʰo˩ se˩" pi˧ F | mɤ˧-hɯ˧! |</FORM>
+	<TRANSL xml:lang="zh">Comme il se tenait assis, eh bien... le chien se tenait assis! Le grand frère se tenait assis! Et on avait beau [leur] dire "Dégage!", ils ne partaient pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S029">
+	<AUDIO start="182.68" end=""/>
+	<FORM kindOf="ortho">ɖɯ˧-v̩˧ le˧-tsʰɯ˩: | "ə˧mi˧! | ʈʂʰɯ˧-v̩˧-se˥, | hɑ˩mi˥-hĩ˩ v̩˩ ɲi˩, | ɑ˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩!" | pi˧-dʑo˩, tʰi˩˥, | mɤ˧-hɯ˧! | pi˧-tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang=" /" message = "�ʂʰɯ˧-v̩˧ -dʑo˩/, /ʈʂʰɯ˧-v̩˧ -se˥/: aurait un fonctionnement très proche: topicalisation. (de: ) Exemples: /no˧-se˥, | ɬi˧di˩ fv˩! | njɤ˧-se˥, jo˧gv̩˧ fv̩˧!/ 'Toi, tu aimes Yongning; moi, j'aime Lijiang!' (reporté dans le dictionnaire)"/>
+	<NOTE xml:lang=" x" message = "xx explorer la combinatoire: /ʈʂʰɯ˧-kʰwɤ˥$/ + /-se˥/, /tʰv̩˧-ɲi#˥/ + /-se˥/ (attention: variation libre #H/H$ pour ces formes), tʰv̩˧-ɭɯ#˥, /tʰv̩˧-nɑ˩/; et avec des noms: /tsʰo˧qʰwɤ˩-se˩, | lɑ˧-ɳɯ˧ dzɯ˧-ho˥ F -di˩-mæ˩!/ (Tiger2.61)"/>
+	<NOTE xml:lang=" /" message = "�˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩/: le verbe /pv̩˥/ n'est pas le verbe pour "accompagner", 送客, mais un verbe qui veut dire simplement "sortir". Le sens n'est pas "raccompagnons-le, menons-le dehors" (comme dans /hĩ˧bæ˧ pv˥/ 'raccompagner un hôte'), mais "faisons-le sortir": causatif d'un verbe 'sortir'. Un exemple simple de ce verbe (reporté dans le dictionnaire): /ɑ˩pʰo˩ pv̩˥/: /njɤ˧ | ɑ˩pʰo˩ pv̩˥/ 'je sors, je pars' (personne n'accompagne)."/>
+	<NOTE xml:lang=" F" message = "n transcription 21 mai 2024 (premier jour de transcription de ce texte)"/>
+	<TRANSL xml:lang="zh">Quelqu'un s'en est venu, et a dit: "Houlà! Celui-là, c'est un mendiant, il faut le faire sortir dehors!" Mais [le grand frère] n'est pas parti, à ce qu'on dit.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S030">
+	<AUDIO start="187.80" end=""/>
+	<FORM kindOf="ortho">mɤ˧-hɯ˧ | tʰi˩˥, | "ə˧-sɯ˩kv̩˩, | kɤ˧dzi˧ bi˧-ze˩! | hɑ˧mi˥-hĩ˩ -ki˩ | hɑ˧ ki˩-kv̩˩, | tʰi˩˥, | tʰi˧-kwɤ˩-kʰɯ˩, | ʈʂʰɯ˧ | tʰi˧-dzi˩-kʰɯ˩!" |</FORM>
+	<TRANSL xml:lang="zh">Comme il ne partait pas, [les convives se sont dit:] "Nous autres, prenons place (pour le repas)! On peut bien donner à manger au mendiant, alors laissons tomber, qu'il reste là où il est!"</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S031">
+	<AUDIO start="193.91" end=""/>
+	<FORM kindOf="ortho">"hɑ˧ ki˩-bi˩-ze˩! | &lt;ʈʂʰ...&gt; zo˩no˥, | ə˧-sɯ˩kv̩˩, | hɑ˧ dzɯ˧-bi˧-ze˩!" | pi˧-zo˩ | tʰi˩˥, | əəə… kɤ˧dzi˧, | ʐɯ˧ pʰv̩˧˥! |</FORM>
+	<TRANSL xml:lang="zh">"On va servir à manger! Maintenant, nous autres, on passe à table!" Ce que disant, euh... les invités ont pris place, et on a versé à boire!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S032">
+	<AUDIO start="199.45" end=""/>
+	<FORM kindOf="ortho">ʐɯ˧ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧˥ | ɖɯ˧-pʰv̩˧-ɳɯ˥, | mæ˧qo˩ tʰv̩˩! | ə˧mv̩˧ tʰv̩˧-v̩˧ ki˥ | wɤ˩˥ | ɖɯ˧-qʰwɤ˧ tʰi˥-pʰv˩! | le˧-wo˧-hɯ˧! |</FORM>
+	<NOTE xml:lang=" t" message = "ns vérifiés, n'est pas /le˧-wo˧-hɯ˥/."/>
+	<NOTE xml:lang=" v" message = "�rification: /ə˧mv̩˧ tʰv̩˧-v̩˧ ki˥/ ou /ə˧mv̩˧ tʰv̩˧-v̩˧ ki˧/? réponse: est bien: /ə˧mv̩˧ tʰv̩˧-v̩˧ ki˥/."/>
+	<TRANSL xml:lang="zh">En faisant la tournée, bol après bol après bol, on est arrivé au fond de la salle! Le grand frère, on lui a servi, à lui aussi, un bol (d'alcool)! et puis on est reparti (sans lui parler)!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S033">
+	<AUDIO start="203.38" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | le˧-wo˧-hɯ˧-dʑo˩ | tʰi˩˥, | wɤ˩˥, | hɑ˧ dzɯ˧-dʑo˩, | hɑ˧ | ɖɯ˧-v̩˧ | ɖɯ˧-qʰwɤ˧˥! |</FORM>
+	<TRANSL xml:lang="zh">Alors, [la personne qui faisait le service] étant repartie, même chose pour la nourriture: un bol de nourriture pour chaque [convive]!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S034">
+	<AUDIO start="208.10" end=""/>
+	<FORM kindOf="ortho">ʂe˧-ʈʂʰɯ˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | ʂe˧ … | ɕi˧-ɕi˩lo˩ | pi˧-zo˩, | ə˩-sɯ˧kv̩˥, | ə˩-gi˩! | bo˩ɬo˥-ʈʂʰɯ˩! |</FORM>
+	<TRANSL xml:lang="zh">La nourriture, autrefois, la viande... on parlait des "plus petites côtes", nous autres, n'est-ce pas! [quand on découpait] les côtes de porc!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S035">
+	<AUDIO start="213.01" end=""/>
+	<FORM kindOf="ortho">&lt;ɖɯ˧-v̩˧ | ɖɯ˧-v̩˧ ɖɯ˧-lo˩... ɖɯ˩...&gt; | ɖɯ˧-v̩˧ | ɖɯ˧-kɤ˧˥, | ɖɯ˧-v̩˧ | ɖɯ˧-kɤ˧˥ | &lt;ɖɯ˧-gv̩˧... | &gt; mæ˧qo˩ ʈʂʰɯ˩-kʰwɤ˩-dʑo˩ | tʰi˩˥, | tɕi˩-hĩ˩ -kv̩˩˥ | ◊ -mæ˩! |</FORM>
+	<TRANSL xml:lang="zh">On donnait à chaque [convive] un morceau; le morceau (qui restait) à la fin, il était bien petit! (Il était formé des dernières petites côtes)</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S036">
+	<AUDIO start="215.10" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | ə˧mv̩˧ tʰv̩˧-v̩˧ -ki˥ ki˩ pi˩-tsɯ˩ ◊ mv̩˩. |</FORM>
+	<NOTE xml:lang="to" message = "s vérifiés"/>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S037">
+	<AUDIO start="va" end="donner"/>
+	<FORM kindOf="ortho">215.10 216.98</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S038">
+	<AUDIO start="/le˧-qʰæ˧˥/:" end="partager,"/>
+	<FORM kindOf="ortho">216.98 221</FORM>
+	<NOTE xml:lang=" o" message = " peut dire: /ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩/ ou /ʈʂʰɯ˧-v̩˧-ki˧ F/ (avec ellipse de /-dʑo˩/)."/>
+	<NOTE xml:lang=" /" message = "ɕi˩-kʰwɤ˩/: un petit morceau; /tɕi˩-kʰwɤ˩ tʰi˥-ki˩/: donner un petit morceau; /tɕi˩-kʰwɤ˩ tʰi˥-ki˩ ɲi˩-ho˩-ze˩/: on va donner un petit morceau"/>
+	<NOTE xml:lang=" L" message = " passage /tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩/ est difficile à reconnaître, il est dit très rapidement."/>
+	<TRANSL xml:lang="zh">Lors du partage, cette personne-là (=le grand frère), on s'est dit qu'on lui donnerait un petit morceau (=un morceau de rien du tout, un bas morceau), n'est-ce pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S039">
+	<AUDIO start="226.12" end=""/>
+	<FORM kindOf="ortho">tʰv̩˧-kʰwɤ˧  tʰi˧-ki˩ -dʑo˩ | tʰi˩˥, | hɑ˧ dzɯ˧, | ʐwɤ˧~ʐwɤ˩, | ʐwɤ˧~ʐwɤ˩-dʑo˩ | tʰi˩˥, | tʰi˧-dzɯ˧-ɻ̍˧-ze˥ tsɯ˩ ◊ mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">Quand on a eu servi ce morceau, eh bien, on mangeait, on bavardait (les conversations allaient bon train), on était en plein repas, à ce qu'on raconte!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S040">
+	<AUDIO start="229.51" end=""/>
+	<FORM kindOf="ortho">dzɯ˧-dʑo˩ | tʰi˩˥, | ə˧mv̩˧ tʰv̩˧-v̩˧ -ɳɯ˥ | mɤ˧-dzɯ˥, | tʰi˧-dzi˩ pi˩ tsɯ˩ ◊ -mv˩. |</FORM>
+	<TRANSL xml:lang="zh">Pendant que (tout le monde) mangeait, le grand frère, lui, il ne mangeait pas, il restait assis, à ce que dit l'histoire.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S041">
+	<AUDIO start="237.0" end=""/>
+	<FORM kindOf="ortho">"tʰv̩˧-v̩˧ | ə˧tse˧ ʝi˧-ɲi˥, | ʁɑ˩mi˧ o! | le˧-li˧, | hɑ˧mi˥-hĩ˩ pʰæ˩di˩, | hɑ˧ F | mɤ˧-dzɯ˥! | ʂe˧ F | mɤ˧-dzɯ˥! | ʐɯ˧ F | mɤ˧-ʈʰɯ˩!" | pi˧-dʑo˩, |</FORM>
+	<NOTE xml:lang=" v" message = "�rifié: l'interjection /o/ dans /ʁɑ˩mi˧ o!/ n'est pas un /wɤ/ un peu modifié phonétiquement? ou une interjection (particule) à part?"/>
+	<NOTE xml:lang=" y" message = "yy à déplacer: /"mɤ˧-ɲi˧! mɤ˧-ɲi˧! so˩-qʰwɤ˩ dzɯ˩˥!"/ Formule pour plaisanter les gens qui font des chichis, "à la chinoise", en faisant mine de ne pas demander de nourriture, et qui finissent par manger avec très bon appétit, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains."/>
+	<TRANSL xml:lang="zh">"Qu'est-ce que c'est que ce personnage, nom de nom! On dirait un mendiant, et pourtant il ne mange pas! Il ne mange pas sa viande! Il ne boit pas son vin!"</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S042">
+	<AUDIO start="245.78" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | ʈʂʰɯ˧-tɕi˧-ɳɯ˩: | "ʈʂʰɯ˧ ʁo˧dɑ˧ tʰi˧-tɕɯ˥, | tʰi˩˥, | mɤ˧-dzɯ˥ | tʰi˧-kwɤ˩-kʰɯ˩! | ʈʂʰɯ˧ | hɑ˧mi˥ ɲi˩-ze˩! | hɑ˧ &lt;mɑ˧&gt; | mɤ˧-ʐwɤ˧-hɯ˧-mæ˧", | pi˧-dʑo˩ | tʰi˩˥, | ə˧mv̩˧ ʈʂʰɯ˧-v̩˧-ɳɯ˥ | gɤ˩-ʈi˥ tɕɯ˩-zo˩! |</FORM>
+	<NOTE xml:lang="s�" message = "quence tonale de /mɤ˧-ʐwɤ˧-hɯ˧-mæ˧/ soigneusement vérifiée, paraît bien être tout au ton M. En effet, 'avoir faim' est au ton M."/>
+	<TRANSL xml:lang="zh">Alors, ces gens-là se sont dit: "Ce qu'on a placé devant lui, eh bien, s'il ne le mange pas, tant pis! C'est un mendiant! Sans doute qu'il n'a pas faim".</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S043">
+	<AUDIO start="254.78" end=""/>
+	<FORM kindOf="ortho">"dzɯ˧ gɤ˥ dzɯ˩ mɤ˩- &lt;ɖ…&gt; gɤ˩-dʑo˩, | ʈʰɯ˩ gɤ˩ ʈʰɯ˩ mɤ˩-lv̩˥-dʑo˩, | õ! ʈʰɯ˩ gɤ˩ ʈʰɯ˩ mɤ˩-lv̩˥-dʑo˩, | ʈʂe˧nɑ˥ | no˩ ʈʰɯ˩ hõ˩˥!" |</FORM>
+	<TRANSL xml:lang="zh">«Quand il n’y a pas assez à manger, on n’a pas le cœur à manger! (/ quand y’a pas assez, à quoi bon se mettre à table!) Quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi [ce bol de vin]!»</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S044">
+	<AUDIO start="Tons" end="de"/>
+	<FORM kindOf="ortho">"dzɯ˧ gɤ˥ dzɯ˩ mɤ˩-lv̩˩-dʑo˩, | kʰv̩˩mi˩˥ | no˩ dzɯ˩ hõ˩" pi˥-zo˩, | kʰv̩˩mi˩ -ki˥ ki˩-ɲi˩ -kv̩˩ tsɯ˩ ◊ mv̩˩! | ə˧ʝi˧-ʂɯ˥ʝi˩! | zo˩no˥, | ɕi˧-ɕi˩lo˩ tʰv̩˩-ɭɯ˩! |</FORM>
+	<TRANSL xml:lang="zh">254.78 260.88</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S045">
+	<AUDIO start="|" end="ə˧mv̩˧"/>
+	<FORM kindOf="ortho"></FORM>
+	<TRANSL xml:lang="zh">259.55 264.92</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S046">
+	<AUDIO start="" end=""/>
+	<FORM kindOf="ortho">Ensuite, les petites côtelettes, alors... le grand frère, se drapant dans sa cape de feutre, il est parti!</FORM>
+	<TRANSL xml:lang="zh">tʰi˩˥, | go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: | "mɤ˧-ɲi˩-ze˩! | mɤ˧-ɲi˩-ze˩! | ə˧mv̩˩ ɲi˩, | njɤ˧ ə˧mv̩˩ ɲi˩!" | pi˧-zo˩, | gi˩˥ | tʰi˧-ʈʂʰɻ̍˧-hɯ˥, |</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S047">
+	<AUDIO start="la" end="petite"/>
+	<FORM kindOf="ortho">% /go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩/: tons vérifiés</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S048">
+	<AUDIO start="grand" end="frère"/>
+	<FORM kindOf="ortho">270.22 274.64</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S049">
+	<AUDIO start="la" end="petite"/>
+	<FORM kindOf="ortho">274.64 283.19</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S050">
+	<AUDIO start="Vérifié" end="systématiquement"/>
+	<FORM kindOf="ortho">283.19 289.35</FORM>
+	<NOTE xml:lang=" O" message = " pourrait également dire: /tɕʰi˧sɯ˥-zo˩ | le˧-ʂɯ˧-ɲi˥ -kv̩˩ tsɯ˩ ◊ mv̩˩/."/>
+	<TRANSL xml:lang="zh">"Comment est-il possible qu'on ait agi ainsi?" Elle a pleuré, pleuré, pleuré, pleuré, et ce soir-là, elle est morte de désespoir, à ce que dit l'histoire!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S051">
+	<AUDIO start="298.09" end=""/>
+	<FORM kindOf="ortho">le˧-ʂɯ˧-dʑo˧ | tʰi˩˥, | tʰv̩˧-ɲi˧ … |  tʰv̩˧-so˩-dʑo˩, | le˧-qæ˧-hɯ˥! | le˧-ʂɯ˧ | le˧-qæ˧˥ | dʑo˩, | ʈʰææ̃˧ |  le˧-qæ˧˥, | mv̩˩ mɤ˩-tʰɑ˥-zo˩! |</FORM>
+	<TRANSL xml:lang="zh">Lorsqu'elle fut morte, alors, ce jour-là... ce matin-là, on est allé l'incinérer! Comme elle était morte, et qu'on l'incinérait, eh bien, vrai de vrai, on mettait (le corps) au feu, mais il ne se consumait pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S052">
+	<AUDIO start="303.25" end=""/>
+	<FORM kindOf="ortho">mv̩˩-mɤ˩-tʰɑ˥, | mv̩˩-mɤ˩-tʰɑ˥ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩-ki˩, | ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ tsɯ˩ ◊ mv̩˩, | tʰv̩˧-ʑi˧=ɻ̍˧-ɳɯ˥! |</FORM>
+	<NOTE xml:lang=" P" message = "ononciation: [bi˧] dans /ʁɑ˩mi˧ bi˧ hɯ˧-ɲi˥-tsɯ˩/. Mais la locutrice corrige en /pi/: /ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ tsɯ˩/."/>
+	<TRANSL xml:lang="zh">[Le corps] ne se consumait pas! Comme [le corps] ne se consumait pas, alors, ils sont allés auprès de son grand frère pour lui demander pardon, cette famille-là! (=la famille que la jeune femme rejoignait par son mariage)</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S053">
+	<AUDIO start="310.29" end=""/>
+	<FORM kindOf="ortho">"ʁɑ˩mi˧! | njæ˧-sɯ˩kv̩˩  … &lt;le˧… əəə… le˧… õ …&gt;  mɤ˧-sɯ˥-ze˩! | no˧ | ʈʂʰɯ˧ne˧ʝi˧  tʰɑ˧-ʝi˧-ɻ˥, | ʁɑ˩mi˧ pi˧-zo˥!" |</FORM>
+	<NOTE xml:lang=" /" message = "�ɑ˩mi˧ pi˧-zo˥/: tons vérifiés"/>
+	<NOTE xml:lang=" �" message = "licité au passage le cadre prohibitif+V+inchoatif: tʰɑ˧- ___ ‑ɻ̍˩"/>
+	<TRANSL xml:lang="zh">tʰɑ˧-dzɯ˥, tʰɑ˧-dzɯ˧-ɻ˥</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S054">
+	<AUDIO start="tʰɑ˧-pv̩˧-ɻ˩" end="(prier)"/>
+	<FORM kindOf="ortho">tʰɑ˧-tɕʰi˧, tʰɑ˧-tɕʰi˧-ɻ˩</FORM>
+	<TRANSL xml:lang="zh">tʰɑ˧-bæ˩+ɻ˩</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S055">
+	<AUDIO start="Nous" end="autres,"/>
+	<FORM kindOf="ortho">tʰɑ˧-lɑ˧˥, tʰɑ˧-lɑ˧-ɻ˥</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S056">
+	<AUDIO start="comme" end="ils"/>
+	<FORM kindOf="ortho">310.29 318.45</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S057">
+	<AUDIO start="ce" end="que"/>
+	<FORM kindOf="ortho">318.45 320.00</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S058">
+	<AUDIO start="dit" end="par"/>
+	<FORM kindOf="ortho">320.00 323.30</FORM>
+	<TRANSL xml:lang="zh">Et aussi, quoi donc... le rituel Sikee...</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S059">
+	<AUDIO start="327.79" end=""/>
+	<FORM kindOf="ortho">ĩ˧! | sɯ˧kʰɯ˩, | ĩ˧! ɲi˩ mæ˩! | tʰi˩˥, | sɯ˧kʰɯ˩ | ʈʂʰɯ˩-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩ … |</FORM>
+	<TRANSL xml:lang="zh">Oui, le rituel Sikee, oui! C'est bien ça / c'est bien de ça qu'il s'agit! Alors, le rituel Sikee, autrefois...</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S060">
+	<AUDIO start="337.04" end=""/>
+	<FORM kindOf="ortho">&lt;ʈʂʰɯ˧... | &gt; zo˩no˥, | tɑ˩mv̩˩ ʈʂʰɯ˥-dʑo˩! | əəə… &lt;g... ni˧…&gt; mv̩˩zɯ˩ ʝi˥-hĩ˩, | ni˧mi˧ hĩ˧-ki˧ ki˩, | pi˧, | mv̩˩zɯ˩ ʝi˥-hĩ˩ -ɳɯ˩, | æ˧-hi˩hi˩ | le˧-kʰɯ˧˥! |</FORM>
+	<NOTE xml:lang=" �" message = "˧ʂæ˧ qʰwɤ˧ tsɤ˧-ze˩! c'est devenu de l'histoire (au sujet des nièces) ; ton de /ze/ vérifié le 26 mai: avais d'abord noté -ze˧, mais est un ton L. (La copule, elle, prend un ton H dans ce contexte: /æ˧ʂæ˧ qʰwɤ˧ tsɤ˧-ɲi˥!/"/>
+	<TRANSL xml:lang="zh">Alors, le proverbe, eh bien... la sœ... le frère, quand sa sœur se donne en mariage, eh bien, le frère, lui, il lance des cris de défiance!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S061">
+	<AUDIO start="341.85" end=""/>
+	<FORM kindOf="ortho">zo˩no˥, | sɯ˧kʰɯ˩ hĩ˩ | ʈʂʰɯ˧-ʑi˥-ki˩! | sɯ˧kʰɯ˩ bi˩-zo˩-kv̩˩ tsɯ˩ ◊ mv̩˩, | ʁwɤ˧qo˧! |</FORM>
+	<NOTE xml:lang=" /" message = "ɯ˧kʰɯ˩ bi˩-zo˩-kv̩˩ tsɯ˩ mv̩˩/: précédé d'un *resumptive schwa*."/>
+	<TRANSL xml:lang="zh">(Il procède ainsi) envers la famille des gens de Sikee (=la famille que la femme rejoint par son mariage)! Tout le village doit aller (pour) Sikee!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S062">
+	<AUDIO start="345.67" end=""/>
+	<FORM kindOf="ortho">ɖɯ˧-tɑ˧˥ | le˧-ʂv̩˧ le˧-po˧-bi˥! | hĩ˧tɕʰɯ˧-hĩ˧ʈʂɤ˧, ə˩-gi˩! | ʁwɤ˧ | ɖɯ˧-ʁwɤ˧ | le˧-ʂv̩˧! |</FORM>
+	<TRANSL xml:lang="zh">On rassemble tout le monde! Tous les membres de cette génération, frères, sœurs, cousines, cousins, n'est-ce pas! On emmène tout le village!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S063">
+	<AUDIO start="351.70" end=""/>
+	<FORM kindOf="ortho">ɖɯ˧-pi˧ tʰi˥-po˩! | tʰi˩˥, | ʁ … ʈʂʰɯ˧-ʑi˧=ɻ̍˥ -dʑo˩, | &lt;ni˧…&gt; ni˧mi˧ tʰi˧-ki˩-hĩ˧ | ʈʂʰɯ˧-ʑi˧=ɻ̍˥ -dʑo˩, | ɖwæ˩-kv̩˧ tsɯ˥ | mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">On amène un petit quelque chose! (Symboliquement, on n'amène pas de cadeaux, on montre la plus grande fureur; mais c'est joué: en fait, on ne blesse personne, on ne détruit rien, et on amène un petit cadeau.) La famille à laquelle se donne la jeune femme, elle est effrayée / elle donne des marques de la plus grande peur!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S064">
+	<AUDIO start="355.12" end=""/>
+	<FORM kindOf="ortho">"ə˧mi˧! | sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧-ʝi˩-ze˩, | ʈʂʰɯ˧ɲi˧-dʑo˩, | ɖwæ˩ pi˧-zo˥!</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S065">
+	<AUDIO start="se" end="prosterne!"/>
+	<FORM kindOf="ortho">355.12 365.71</FORM>
+	<TRANSL xml:lang="zh"></TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S066">
+	<AUDIO start="tso˥," end="kʰi˧bɤ˧"/>
+	<FORM kindOf="ortho">365.71 369.03</FORM>
+	<TRANSL xml:lang="zh">Il a amené une hache! Il va faire volet la porte en éclats / il va défoncer la porte!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S067">
+	<AUDIO start="372.52" end=""/>
+	<FORM kindOf="ortho">"to˩mi˩ tso˧-bi˩-ze˩!" pi˩, ə˩-gi˩! | æ˧hi˩hi˩ kʰɯ˩-hĩ˩ tʰv̩˩-dʑo˩, | æ˧ʂæ˧-tɑ˩mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">Il dit: "Je vais briser les piliers!", celui qui vient pousser des cris, selon le rituel!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S068">
+	<AUDIO start="373.35" end=""/>
+	<FORM kindOf="ortho">tʰv̩˧qo˧ le˧-hɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
+	<TRANSL xml:lang="zh">Il repart.</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S069">
+	<AUDIO start="378.89" end=""/>
+	<FORM kindOf="ortho">ʐæ˩sɯ˩ hæ̃˥-hĩ˩-ʈʂʰɯ˩ -qɑ˩ | tʰi˩˥, | ni˧mi˧ tʰv̩˧-v̩˧-bv̩˧…  ʝi˧sɯ˥ ʝi˩-zo˩ | tʰi˩˥ … |</FORM>
+	<NOTE xml:lang=" /" message = "qɑ˩/: prononcé proche de: [ə˩qɑ˩] (ce qui est sa réalisation ordinaire)"/>
+	<TRANSL xml:lang="zh">Pour ce qui est de celui qui a tranché son propre vêtement, eh bien, ce que la sœur veut dire/veut exprimer / ce que l'histoire dit de la sœur...</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S070">
+	<AUDIO start="383.04" end=""/>
+	<FORM kindOf="ortho">ɖɯ˩lo˧ ɲi˥-ze˩ mæ˩! | ɖɯ˩lo˧ ʝi˧-zo˩, | ʐæ˩sɯ˩-ʈʂʰɯ˥, | mv̩˧ mɤ˧-kv̩˥ mæ˩! | le˧-bi˩-dʑo˩, ə˩-gi˩! |</FORM>
+	<TRANSL xml:lang="zh">c'est une coutume [qui est ainsi édictée]! Selon la coutume, le feutre, il ne le porte pas (sur soi) / il ne s'en drape pas comme à l'ordinaire! Il repart, n'est-ce pas! / Il s'en va, n'est-ce pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S071">
+	<AUDIO start="384.60" end=""/>
+	<FORM kindOf="ortho">le˧-wo˧ tʰo˧tɕo˥, | kʰwæ˧hwæ˩ kv̩˩ mæ˩! |</FORM>
+	<TRANSL xml:lang="zh">Il se retourne, et il se drape (dans sa cape)!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S072">
+	<AUDIO start="389.94" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥ … | sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧-tsʰɯ˩ -dʑo˩, | zo˩no˥, | kʰwæ˧ɻæ˧-ʈʂʰɯ˧ | wɤ˩˥ | qʰɑ˩ne˩˥ | kʰo˧-zo˧ dʑo˧-kv̩˩ mæ˩, ə˩-gi˩! |</FORM>
+	<TRANSL xml:lang="zh">Quand l'oncle venait pour le rituel "Sikee", eh bien, le feutre, qu'est-ce qu'on en étendait, n'est-ce pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S073">
+	<AUDIO start="396.03" end=""/>
+	<FORM kindOf="ortho">kʰwæ˧ɻæ˧-ʈʂʰɯ˧ | le˧-qʰv̩˩~qʰv̩˩ -dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-kʰo˧-hĩ˧ dʑo˧-kv̩˥! |</FORM>
+	<NOTE xml:lang=" d" message = ": /tʰi˧-kʰo˥/."/>
+	<NOTE xml:lang=" O" message = " pourrait également dire: /tʰi˧-kʰo˧-hĩ˧ dʑo˧-zo˧-kv̩˥/."/>
+	<TRANSL xml:lang="zh">Le feutre était plié; voici comment on le déployait! (Geste)</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S074">
+	<AUDIO start="399.55" end=""/>
+	<FORM kindOf="ortho">tʰv̩˧ne˧-ʝi˥ | tʰi˧-kʰo˧ zo˧-kv̩˩ mæ˩! | "ə˧mi˧! | sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧-ʝi˩-ze˩! | kʰwæ˧ɻæ˧ kʰo˧ mɤ˧-dʑɤ˥ -pɤ˩to˩, | ɕjɤ˩tʰv̩˧ kv̩˥!" pi˩-zo˩, | ə˩-gi˩! |</FORM>
+	<NOTE xml:lang=" �" message = " la transcription, la locutrice indique préférer une formulation qui contiendrait la particule finale exprimant l'évidence: /ɕjɤ˩tʰv̩˧ kv̩˥ mæ˩/."/>
+	<NOTE xml:lang=" I" message = " était important de bien plier le feutre, sinon les gens qui venaient jouer la fureur se seraient moqués du manque de soin dans la réalisation du rituel."/>
+	<TRANSL xml:lang="zh">Il faut étendre le feutre comme ça! "Aïe aïe aïe! L'oncle vient pour Sikee (=on va réaliser le rituel Sikee)! Si on n'étend même pas bien le feutre (si on n'est même pas capable de bien étendre le feutre), on va faire l'objet de moqueries / on va s'attirer des railleries!" qu'on dit, n'est-ce pas!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S075">
+	<AUDIO start="406.79" end=""/>
+	<FORM kindOf="ortho">tʰi˩˥, | æ˧ʂæ˧-dʑo˩, | õ˧ʈʂʰɯ˧ne˧-ʝi˥-zo˩! | zo˩no˥, … | &lt;hĩ˧, əəə…&gt; ɖɯ˩lo˧ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | hĩ˧ ʂɯ˧, | tɕʰi˩ tʰv̩˩˥! |</FORM>
+	<TRANSL xml:lang="zh">Donc/alors, autrefois, voilà comment il fallait faire / voilà comment on faisait! La coutume, eh bien... quand quelqu'un décède, on apporte sa contribution en préparant un repas! [Dans le cadre des cérémonies funéraires, chaque famille contribue à tour de rôle aux repas collectifs: coutume désignée par le nom de Qietu, c'est-à-dire littéralement «préparer un repas»]</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S076">
+	<AUDIO start="414.70" end=""/>
+	<FORM kindOf="ortho">əəə... &lt;go˧mi˧ hĩ˧-ki˧,&gt; | &lt;mv̩˩zɯ˩ ʝi˥-hĩ˩-ki˩ ki˩&gt; [ni˧mi˧ hĩ˧-ki˧ ki˩] -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | ɬi˩ʁɑ˩ ʝi˥-zo˩-hĩ˩-bv̩˩ | ɖɯ˩lo˧ ! |</FORM>
+	<TRANSL xml:lang="zh">Et quand une sœur se marie, sa famille (littéralement "cette famille-là"), il y a une coutume qui veut qu'elle manifeste sa colère!</TRANSL>
+</S>
+<S id="�˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |_S077">
+	<AUDIO start="421.60" end=""/>
+	<FORM kindOf="ortho">əəə… õ˧ʈʂʰɯ˧ne˧ ʝi˥ ʈʂʰɯ˩ -dʑo˩, | zo˩no˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | kʰv̩˧ ʂæ˧-hĩ˥ | tʰv̩˧qo˧ | le˧-tsʰɯ˩-ɲi˩-kv̩˩ tsɯ˩ mv̩˩! | æ˧ʂæ˧ | ʈʂʰɯ˧ne˧ ʝi˥ tsɯ˩ mv̩˩! |</FORM>
+	<TRANSL xml:lang="zh">Si on faisait ainsi, eh bien, c'est que jadis, il y avait eu cet épisode du chasseur qui était revenu à l'improviste! (littéralement: "un chasseur pouvait revenir là-bas") Voilà ce qui se faisait autrefois!</TRANSL>
+</S>
+	<TRANSL xml:lang="fr">  Tandis que la petite sœur, elle restait à la maison, à ce qu'on dit! Alors, la petite sœur, comme elle était encore petite, et qu'elle restait à la maison, eh bien... l'aîné, on dit qu'il était bel et bien allé vivre en montagne (qu'il s'était établi dans la montagne), et qu'il ne revenait pas. Comme [le frère] habitait dans la montagne et ne revenait pas, la mère et le père vieillissaient peu à peu! Et la sœur devenait adulte. On ne peut dire: /le˧-ʈʰɯ˩ ə˩-ʈʰɯ˩/, /le˧-do˩ ə˩-do˩/, /le˧-ki˩ ə˩-ki˩.../ Pour une jeune femme qui hésiterait à se marier, on dirait: /le˧-ki˧ hɤ˧ | mɤ˧-do˩!/ de même qu'on pourrait dire: /le˧-ʝi˩ hɤ˩ | mɤ˧-do˩!/ 'on ne sait pas s'il va venir!' tʰi˩˥, | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩ ɳɯ˩ | ʂe˧ tsʰɯ˩ tsɯ˩ ◊ mv̩˩! | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩-ɳɯ˩ | ʂe˧ tsʰɯ˩-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩ | go˧mi˧-ɳɯ˧ … | "njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩, | mɤ˧-dʑo˩ mɤ˩-do˩! | njɤ˧ | ə˧mv̩˩ | tʰi˩˥, | mɤ˧-do˩!" |     Comme on invitait les gens du village, la petite sœur a demandé: "Je ne vois pas mon frère (parmi les gens qu'on invite), est-ce que c'est bien convenable / est-ce bien possible de procéder ainsi?" La mère a répondu: "C'est bon, c'est bon! Il faut laisser tomber (ces vieilles histoires), enfin! Le grand frère, qu'est-ce qu'on en sait, il est peut-être mort!" Ce jour-là, le grand frère, il chassait dans la montagne; il traquait le muntjac, à ce que dit l'histoire! Il traquait le muntjac sur la montagne; en revenant de la chasse, eh bien, le chien, parvenu à un col, vrai de vrai, il s'est mis à courir! C'est comme s'il avait senti que la petite sœur allait se marier! En courant, en filant [ainsi], il est parvenu à cette famille, à cette famille du village, à ce qu'on raconte! Alors, le grand frère, il a suivi le chien, mais il ne l'a pas retrouvé! Alors, comme il ne le trouvait pas, vrai de vrai, il l'a pisté, et à force de le pister, le grand frère, il est arrivé jusqu'à la porte (de la maison où on faisait la fête)! Le chien, il était allé s'asseoir dans la pièce principale, à ce que dit l'histoire! Alors, comme il était parti sur la piste (de son chien), et qu'il était parvenu à la porte, alors, il s'est tenu debout à l'extérieur, à ce que dit l'histoire, le grand frère, drapé dans sa cape de feutre! Tandis qu'il se tenait debout dehors, eh bien, le chien se tenait assis en contrebas du foyer, à ce que dit l'histoire. Alors, le grand frère, de l'endroit où il se tenait debout, au-dehors, se disant: "Ma propre petite sœur, aujourd'hui... c'est bien elle! À la voir, elle ressemble bien à ma petite sœur!", D'un bond, il est allé, lui, en contrebas du foyer! Il s'est assis à côté de son chien, à ce qu'on dit, à ce qu'on raconte. [Les gens ont dit:] "Sac à puces, descends de là! Mais qui ça peut bien être, ce bonhomme? [Le clébard] nous ramène quelqu'un! Il nous a attrapé un mendiant, aïe aïe aïe! Qu'il aille s'asseoir au fond [de la salle]! "Bon, aujourd'hui, tu descends!" Mais le grand frère ne bougeait pas! Il se tenait assis [là], à ce que dit l'histoire. Comme il se tenait assis, eh bien... le chien se tenait assis! Le grand frère se tenait assis! Et on avait beau [leur] dire "Dégage!", ils ne partaient pas! Quelqu'un s'en est venu, et a dit: "Houlà! Celui-là, c'est un mendiant, il faut le faire sortir dehors!" Mais [le grand frère] n'est pas parti, à ce qu'on dit. Comme il ne partait pas, [les convives se sont dit:] "Nous autres, prenons place (pour le repas)! On peut bien donner à manger au mendiant, alors laissons tomber, qu'il reste là où il est!" "On va servir à manger! Maintenant, nous autres, on passe à table!" Ce que disant, euh... les invités ont pris place, et on a versé à boire! En faisant la tournée, bol après bol après bol, on est arrivé au fond de la salle! Le grand frère, on lui a servi, à lui aussi, un bol (d'alcool)! et puis on est reparti (sans lui parler)! Alors, [la personne qui faisait le service] étant repartie, même chose pour la nourriture: un bol de nourriture pour chaque [convive]! La nourriture, autrefois, la viande... on parlait des "plus petites côtes", nous autres, n'est-ce pas! [quand on découpait] les côtes de porc! On donnait à chaque [convive] un morceau; le morceau (qui restait) à la fin, il était bien petit! (Il était formé des dernières petites côtes)   Lors du partage, cette personne-là (=le grand frère), on s'est dit qu'on lui donnerait un petit morceau (=un morceau de rien du tout, un bas morceau), n'est-ce pas! Quand on a eu servi ce morceau, eh bien, on mangeait, on bavardait (les conversations allaient bon train), on était en plein repas, à ce qu'on raconte! Pendant que (tout le monde) mangeait, le grand frère, lui, il ne mangeait pas, il restait assis, à ce que dit l'histoire. "Qu'est-ce que c'est que ce personnage, nom de nom! On dirait un mendiant, et pourtant il ne mange pas! Il ne mange pas sa viande! Il ne boit pas son vin!" Alors, ces gens-là se sont dit: "Ce qu'on a placé devant lui, eh bien, s'il ne le mange pas, tant pis! C'est un mendiant! Sans doute qu'il n'a pas faim". «Quand il n’y a pas assez à manger, on n’a pas le cœur à manger! (/ quand y’a pas assez, à quoi bon se mettre à table!) Quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi [ce bol de vin]!» 254.78 260.88 259.55 264.92 tʰi˩˥, | go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: | "mɤ˧-ɲi˩-ze˩! | mɤ˧-ɲi˩-ze˩! | ə˧mv̩˩ ɲi˩, | njɤ˧ ə˧mv̩˩ ɲi˩!" | pi˧-zo˩, | gi˩˥ | tʰi˧-ʈʂʰɻ̍˧-hɯ˥, |    "Comment est-il possible qu'on ait agi ainsi?" Elle a pleuré, pleuré, pleuré, pleuré, et ce soir-là, elle est morte de désespoir, à ce que dit l'histoire! Lorsqu'elle fut morte, alors, ce jour-là... ce matin-là, on est allé l'incinérer! Comme elle était morte, et qu'on l'incinérait, eh bien, vrai de vrai, on mettait (le corps) au feu, mais il ne se consumait pas! [Le corps] ne se consumait pas! Comme [le corps] ne se consumait pas, alors, ils sont allés auprès de son grand frère pour lui demander pardon, cette famille-là! (=la famille que la jeune femme rejoignait par son mariage) tʰɑ˧-dzɯ˥, tʰɑ˧-dzɯ˧-ɻ˥ tʰɑ˧-bæ˩+ɻ˩    Et aussi, quoi donc... le rituel Sikee... Oui, le rituel Sikee, oui! C'est bien ça / c'est bien de ça qu'il s'agit! Alors, le rituel Sikee, autrefois... Alors, le proverbe, eh bien... la sœ... le frère, quand sa sœur se donne en mariage, eh bien, le frère, lui, il lance des cris de défiance! (Il procède ainsi) envers la famille des gens de Sikee (=la famille que la femme rejoint par son mariage)! Tout le village doit aller (pour) Sikee! On rassemble tout le monde! Tous les membres de cette génération, frères, sœurs, cousines, cousins, n'est-ce pas! On emmène tout le village! On amène un petit quelque chose! (Symboliquement, on n'amène pas de cadeaux, on montre la plus grande fureur; mais c'est joué: en fait, on ne blesse personne, on ne détruit rien, et on amène un petit cadeau.) La famille à laquelle se donne la jeune femme, elle est effrayée / elle donne des marques de la plus grande peur!   Il a amené une hache! Il va faire volet la porte en éclats / il va défoncer la porte! Il dit: "Je vais briser les piliers!", celui qui vient pousser des cris, selon le rituel! Il repart. Pour ce qui est de celui qui a tranché son propre vêtement, eh bien, ce que la sœur veut dire/veut exprimer / ce que l'histoire dit de la sœur... c'est une coutume [qui est ainsi édictée]! Selon la coutume, le feutre, il ne le porte pas (sur soi) / il ne s'en drape pas comme à l'ordinaire! Il repart, n'est-ce pas! / Il s'en va, n'est-ce pas! Il se retourne, et il se drape (dans sa cape)! Quand l'oncle venait pour le rituel "Sikee", eh bien, le feutre, qu'est-ce qu'on en étendait, n'est-ce pas! Le feutre était plié; voici comment on le déployait! (Geste) Il faut étendre le feutre comme ça! "Aïe aïe aïe! L'oncle vient pour Sikee (=on va réaliser le rituel Sikee)! Si on n'étend même pas bien le feutre (si on n'est même pas capable de bien étendre le feutre), on va faire l'objet de moqueries / on va s'attirer des railleries!" qu'on dit, n'est-ce pas! Donc/alors, autrefois, voilà comment il fallait faire / voilà comment on faisait! La coutume, eh bien... quand quelqu'un décède, on apporte sa contribution en préparant un repas! [Dans le cadre des cérémonies funéraires, chaque famille contribue à tour de rôle aux repas collectifs: coutume désignée par le nom de Qietu, c'est-à-dire littéralement «préparer un repas»] Et quand une sœur se marie, sa famille (littéralement "cette famille-là"), il y a une coutume qui veut qu'elle manifeste sa colère! Si on faisait ainsi, eh bien, c'est que jadis, il y avait eu cet épisode du chasseur qui était revenu à l'improviste! (littéralement: "un chasseur pouvait revenir là-bas") Voilà ce qui se faisait autrefois! </TRANSL>
+	<TRANSL xml:lang="zh"></TRANSL>
+	<TRANSL xml:lang="en"></TRANSL>
+</TEXT>
