@@ -40320,7 +40320,8 @@
 \xf Encore un peu de riz? / Souhaites-tu encore un bol de riz?
 \xv «mɤ˧-ɲi˧! mɤ˧-ɲi˧!» so˩-qʰwɤ˩ dzɯ˩˥!
 \xe “No no, I'm fine!” and then you eat three big bowls, hey? (
-/ Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas demander de nourriture, et qui finissent par manger avec très bon appétit, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains.
+\xn (to be added)
+\xf Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas demander de nourriture, et qui finissent par manger avec très bon appétit, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains.
 
 \lx ɲi˩=ɻ̩˥
 \or ni'er
