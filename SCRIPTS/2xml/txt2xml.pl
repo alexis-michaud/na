@@ -7,12 +7,19 @@
 # Alexandre François & Evangelia Adamou. 2014. "Documenting and researching endangered languages: 
 # the Pangloss Collection." Language Documentation and Conservation 8. 119-135.
 #
-# Created by Alexis Michaud. This is version 8 of the script, June 2020. (Version 1 was produced in 2011.)
-# 
-# This script was initially based on Boyd Michailovsky's chk_spc6_new.pl (time of creation: 2008 or earlier).
+# This script was created by Alexis Michaud, taking up portions of Boyd Michailovsky's chk_spc6_new.pl
+# (which was created in 2008 or earlier). "The LACITO project has benefited from open-source software, and all
+# programs developed by the project are open-source. As more projects adhere to common standards, we
+# expect that distributed development and interoperability of software for ®eld linguistics and other speci-
+# alities will become a reality." (Conclusion of: Jacobson, Michel, Boyd Michailovsky & John B. Lowe. 2001. Linguistic documents synchronizing sound and text. Speech Communication 33 [special issue: "Speech Annotation and Corpus Tools"]. 79–96, page 92.)
+#
+# This is version 9 of the script, produced in 2024. (Version 1 was produced in 2011.) New to version 9:
+# time codes can be indicated in the same .txt file as the annotation, using a simple <beginning end> syntax
+# (separator: space), thus:
+# 406.79 414.70
 #
 # COMMANDLINE: perl txt2xml.pl
-# Messages appear on screen (can be redirected by command line >); xml output in a file "xmlout.xml".
+# Messages appear on screen.
 # The program treats groups of lines in fixed order. 
 # - transcription of sentence
 # - words separated by spaces and/or tabs
@@ -25,12 +32,12 @@
 # Here is a sample of what the input should look like, including the header containing a short title, which is used in the identifier of each sentence in the XML.
 #
 # MUSHROOMS
-
+#
 # ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ə˩-gi˩! | mmm... dʑɯ˩nɑ˩mi˩-ʁo˩ ʈʂʰɯ˩-qo˥-dʑo˩, | mo˧-ʈʂʰɯ˧, | ə˩-gi˩! |
 # %/mo˧-ʈʂʰɯ˧/: tons vérifiés; on peut également dire: /mo˧-ʈʂʰɯ˥/.
 # Autrefois, n'est-ce pas! Sur la montagne, les champignons, n'est-ce pas! (=Je vais parler d'un des thèmes de la vie dans le temps, n'est-ce pas! Les champignons qu'on trouve sur la montagne, voilà de quoi je vais parler!)
 # 在过去，是吗！在高山上，菌子的话……是吧！
-
+#
 # zo˩no˥, | mo˧-ʈʂʰɯ˧-dʑo˩, | qʰv̩˧-ɬi˧mi˧-kʰɤ˧ʂɯ˧ | tʰv̩˧-kv̩˧-ze˥-mæ˩! |
 # %On pourrait également dire /mo˧-ʈʂʰɯ˥-dʑo˩/. Sur l'enregistrement, la réalisation est M.M.L: /mo˧-ʈʂʰɯ˧-dʑo˩/.
 # Eh bien, les champignons, ils poussent à partir du sixième mois!
@@ -38,6 +45,7 @@
 #
 # Wish-list of further improvements to the script: 
 # - checking that there are no punctuation marks inside word glosses (spaces, commas...)
+# - sanity check on contents: checking that time codes are figures (and do not contain other symbols); checking that there is no blatant mismatch between language tags and contents, and thus, that there is no missing line.
 
 
 # Declaration of modules used in this script
@@ -61,7 +69,7 @@ my $gloss_lg1 = 0;
 my $gloss_lg2 = 0;
 my $gloss_lg3 = 0;
 # Selecting whether there are translations of the entire sentence (if yes: value: 1; if no: value: 0), for languages 2 and 3. (There has to be at least 1 translation for the sentence level.) 
-my $transl_lg2 = 0;
+my $transl_lg2 = 1;
 my $transl_lg3 = 0;
 # Selecting whether there is an extra line of transcription: orthography, narrow phonetic notation... (if yes: value: 1; if no: value: 0)
 my $extratranscrlevel = 0;
@@ -71,15 +79,22 @@ my $extratranscrlevel = 0;
 # Indicating whether notes in the source file have an associated language indicated (thus: %fr Une note en français, %en A note in English, %zh 中国话注释). If so: value set at one. Otherwise: zero.
 my $note_lg_code_yn = 1;
 
-# Input file: 
-my $input = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_Sentences.txt';
+### Input file:
+## Syntax on GNU Linux systems:
+my $input = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_BENEVOLENCE.txt';
+#my $input = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_SISTER5.txt';
+## Syntax on Windows:
+#my $input = '\home\pakazo\Dropbox\GitHub\na\TEXT\F4\en_prep\crdo-NRU_F4_SISTER5.txt';
 
 # If there is a file containing times codes for the sentences: indicate below (if yes: value: 1; if no: value: 0)
+## Syntax on GNU Linux:
 my $regionslistyn = 1;
-my $regionsinfile = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_REGIONS.txt';
+my $regionsinfile = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_BENEVOLENCE_REGIONS.txt';
+## Syntax on Windows:
+#my $regionsinfile = 'C:\Dropbox\Alexis_Roselle_shared\MothersBirthday\MothersBirthday_REGIONS.txt';
 
 # Output file: 
-my $outputfile = 'C:\Dropbox\90_techniques\Pangloss\Views\annotations\NRU_F21_MOTHERSBIRTHDAY.xml';
+my $outputfile = '/home/pakazo/Dropbox/GitHub/na/TEXT/F4/en_prep/crdo-NRU_F4_BENEVOLENCE.xml';
 
 # Declaration of a function: converting from hh::mm::ss,ms (e.g. 00:00:01,160) to seconds. 
 sub RegionsToSec {
@@ -126,7 +141,7 @@ sub RegionsToSec {
 
 # initializing variables
 my $textlineno = my $sno = my $wordsnb = my $i = my $nblines = 0;
-my $textname = my $ortholine = my $formline = my $glossline = my $extraformline = my $transline = my $line = my $word =  my $morph = my $mgloss = my $testchr = my $testchrlong = my $note = my $transline_lg2 = my $glossline_lg2 = my $glossline_lg3 = my $text_lg1 = my $text_lg2 = my $transline_lg3 = my $text_lg3 = ""; 
+my $textname = my $ortholine = my $formline = my $glossline = my $extraformline = my $transline = my $line = my $word =  my $morph = my $mgloss = my $testchr = my $testchr2 = my $testchrlong = my $note = my $transline_lg2 = my $glossline_lg2 = my $glossline_lg3 = my $text_lg1 = my $text_lg2 = my $transline_lg3 = my $text_lg3 = "";
 my @words = my @glosses = my @morphs = my @mglosses = my @glosses_lg2 = my @glosses_lg3 = ();
 
 my $regionsline = ();
@@ -150,25 +165,17 @@ open (XOUT,">$outputfile");
 
 # Reading first line of text, to serve as title.
 $textname=<INPUT>;
+# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
+$textname =~ s{<}{&lt;}g;
+$textname =~ s{>}{&gt;}g;
+# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+$textname =~ s{"}{''}g;
+
 # Keeping count of the number of lines of text read, for ease of reference to input text file
 $nblines++;		
 
 # Removing line break.
 chomp ($textname);
-# and removing 'high point' somehow read by error at beginning of text. That requires some care.
-# Removing line feed
-chomp($textname);
-# Reversing the text name, so that the problematic part at beginning now becomes the end of the string (easier to handle).
-$textname = reverse $textname;
-# Testing the last character
-my $last_chr = chop($textname);
-# If the value is 239: this is a telltale sign of the presence of unwanted code. Three characters are then suppressed.
-# Update in 2017: try cutting two characters only, otherwise the first 'real' character is cut too.
-if ( ord($last_chr) == 239) 
-		{ $textname = substr($textname, 0, -2); 
-		}
-# Finally: revert back to normal order of string.
-$textname = reverse $textname;
 
 # Writing header of file
 ## Old version (before 2013):
@@ -198,14 +205,15 @@ while ($line=<INPUT>) {
 		$textlineno++;
 		# formatting glossed-line count
 		$sno = sprintf ("%03u", $textlineno);
+		print "Treating S $sno.\n";
 		$ortholine=<INPUT>;#full sentence ("orthography")
 		# removing end-of-line at end of input line
 		chomp $ortholine;
 		# replacing angle brackets < > by an explicit description: even the corresponding XML formulas cause problems with the SoundIndex software, so other labels are used. Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-		# $ortholine =~ s{<}{&lt;}g;
-		# $ortholine =~ s{>}{&gt;}g;
 		$ortholine =~ s{<}{&lt;}g;
 		$ortholine =~ s{>}{&gt;}g;
+		# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+		$ortholine =~ s{"}{''}g;
 
 		# writing the sentence header into the XML file
 		print  XOUT "<S id=\"$textname"."_S$sno\">\n\t";
@@ -213,7 +221,9 @@ while ($line=<INPUT>) {
 		# Adding time alignment, if provided
 		if ($regionslistyn == 1)
 		{
+			print "Reading region from RegionsList.\n";
 			$regionsline = <REGIONS>;
+			print "Regions line for S $sno: $regionsline \n";
 			#Parsing from the end, and recovering two values. If parsing from beginning: problem with lines whose tags include spaces.
 			$regionsline = reverse($regionsline);
 			my @regions = split /\s+/, $regionsline;
@@ -225,9 +235,20 @@ while ($line=<INPUT>) {
 			$timeend = &RegionsToSec ($timeend);
 			print XOUT "<AUDIO start=\"$timebegin\" end=\"$timeend\"\/>\n";
 		}
-		
-		# Printing out the form of the sentence
-		print  XOUT "\t<FORM kindOf=\"ortho\">$ortholine</FORM>\n";
+		else
+		{
+			print "Reading time codes from single input text file.\n";
+			$regionsline = <INPUT>;
+			#Parsing from the end, and recovering two values. If parsing from beginning: problem with lines whose tags include spaces.
+			my @regions = split /\s/, $regionsline;
+			$timebegin = $regions[0];
+			$timeend = $regions[1];
+
+			print XOUT "<AUDIO start=\"$timebegin\" end=\"$timeend\"\/>\n";
+		}
+
+		# Printing out the form of the sentence. Modify type as necessary: ortho, phono...
+		print  XOUT "\t<FORM kindOf=\"phono\">$ortholine</FORM>\n";
 		
 		# if there is an extra level of transcription: integrating it, with special mention
 		if ($extratranscrlevel == 1) {
@@ -238,6 +259,8 @@ while ($line=<INPUT>) {
 			# replacing angle brackets < > by an explicit description: even the corresponding XML formulas cause problems with the SoundIndex software, so other labels are used. Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
 			$extraformline =~ s{<}{&lt;}g;
 			$extraformline =~ s{>}{&gt;}g;
+			# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+			$extraformline =~ s{"}{''}g;
 			print  XOUT "\t<FORM kindOf=\"phonetic\">$extraformline</FORM>\n";
 		} # end of condition on presence of extra level of transcription
 		
@@ -248,8 +271,8 @@ while ($line=<INPUT>) {
 			# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
 			$formline =~ s{<}{&lt;}g;
 			$formline =~ s{>}{&gt;}g;
-			# $formline =~ s{<}{&lt;}g;
-			# $formline =~ s{>}{&gt;}g;
+			# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+			$formline =~ s{"}{''}g;
 			chomp $formline;
 			
 			$glossline=<INPUT>;	# French glosses
@@ -257,12 +280,11 @@ while ($line=<INPUT>) {
 			$nblines++;		
 			chomp $glossline;
 			# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-			# $glossline =~ s{<}{&lt;}g;
-			# $glossline =~ s{>}{&gt;}g;
 			$glossline =~ s{<}{&lt;}g;
 			$glossline =~ s{>}{&gt;}g;
+			# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+			$glossline =~ s{"}{''}g;
 
-			
 			# 2nd language glosses: only if the $gloss_lg2 variable was set to 1 above.
 			if ($gloss_lg2 == 1) {
 				$glossline_lg2=<INPUT>;# Chinese glosses
@@ -270,10 +292,10 @@ while ($line=<INPUT>) {
 				$nblines++;		
 				chomp $glossline_lg2;
 				# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-				# $glossline_lg2 =~ s{<}{&lt;}g;
-				# $glossline_lg2 =~ s{>}{&gt;}g;
 				$glossline_lg2 =~ s{<}{&lt;}g;
 				$glossline_lg2 =~ s{>}{&gt;}g;
+				# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+				$glossline_lg2 =~ s{"}{''}g;
 
 			# parsing this line (after replacing spaces by tabs, in case the user mistakenly used spaces instead of tabs)
 				$glossline_lg2 =~ s/\s/\t/g;
@@ -287,10 +309,10 @@ while ($line=<INPUT>) {
 				$nblines++;		
 				chomp $glossline_lg3;
 				# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-				# $glossline_lg3 =~ s{<}{&lt;}g;
-				# $glossline_lg3 =~ s{>}{&gt;}g;
 				$glossline_lg3 =~ s{<}{&lt;}g;
 				$glossline_lg3 =~ s{>}{&gt;}g;
+				# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+				$glossline_lg3 =~ s{"}{''}g;
 
 			# parsing this line (after replacing spaces by tabs, in case the user mistakenly used spaces instead of tabs)
 				$glossline_lg3 =~ s/\s/\t/g;
@@ -302,12 +324,12 @@ while ($line=<INPUT>) {
 		$nblines++; 		
 		chomp $transline;
 		# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-		# $transline =~ s{<}{&lt;}g;
-		# $transline =~ s{>}{&gt;}g;
 		$transline =~ s{<}{&lt;}g;
 		$transline =~ s{>}{&gt;}g;
+		# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+		$transline =~ s{"}{''}g;
 
-			# Loop for the case in which there are comments. At this point there may be any number of comments. Furthermore, any paragraph beginning with three % signs is copied as is into the XML: for instance if the user already compiled time codes in the final format, such as <AUDIO start="108.659" end="109.002"/>
+		# Loop for the case in which there are comments. At this point there may be any number of comments. Furthermore, any paragraph beginning with three % signs is copied as is into the XML: for instance if the user already compiled time codes in the final format, such as <AUDIO start="108.659" end="109.002"/>
 		# Procedure: retrieve first character in line and see if it's a %.
 		$testchr = substr($transline,0,1);
 		while ($testchr eq '%') {
@@ -324,16 +346,11 @@ while ($line=<INPUT>) {
 				chop $note;
 				chop $note;
 				$note=reverse $note;
-				# Writing the text straight into the output XML
+				# Writing the note into the output XML file.
 				print  XOUT "\t$note\n";
 						}
 			else {
-				# Writing the note into the XML file. Any " symbol in the message must be replaced, otherwise it will count as end of message. The < > symbols must also be replaced.
-				$note =~ s{"}{'}g;
-				$note =~ s{<}{&lt;}g;
-				$note =~ s{>}{&gt;}g;
-				# $note =~ s{<}{&lt;}g;
-				# $note =~ s{>}{&gt;}g;
+				# Writing the note into the XML file.
 
 				# If the author indicated the language then this is reflected in the XML. Otherwise, the language is hard-coded for all notes.
 				if ($note_lg_code_yn == 1) {
@@ -346,10 +363,24 @@ while ($line=<INPUT>) {
 					chop $note;
 					chop $note;
 					$note=reverse $note;
+					# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
+					$note =~ s{<}{&lt;}g;
+					$note =~ s{>}{&gt;}g;
+					# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+					$note =~ s{"}{''}g;
 					# printing to XML	
 					print  XOUT "\t<NOTE xml:lang=\"$note_lg_code\" message = \"$note\"/>\n";
 				}
 				else {
+					# removing an initial space from the string. This is done inelegantly.
+					$testchr2 = substr($transline,0,1);
+					if ($testchr2 eq '\s') {
+						# substracting the first character of that line: the space. This is done inelegantly.
+						$note = reverse $transline;
+						chop $note;
+						$note=reverse $note;
+						}
+					# printing the note
 					print  XOUT "\t<NOTE xml:lang=\"fr\" message = \"$note\"/>\n";
 				}
 			}
@@ -360,12 +391,12 @@ while ($line=<INPUT>) {
 			$testchr = substr($transline,0,1);
 		}
 		# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-		# $transline =~ s{<}{&lt;}g;
-		# $transline =~ s{>}{&gt;}g;
 		$transline =~ s{<}{&lt;}g;
 		$transline =~ s{>}{&gt;}g;
+		# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+		$transline =~ s{"}{''}g;
 		# Writing out the translation line. It is assumed that the language is French. Substitute 'en', etc for 'fr' in the line below, as necessary. xxxx
-		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
+		print  XOUT "\t<TRANSL xml:lang=\"fr\">$transline</TRANSL>\n";
 		
 #		print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline</TRANSL>\n";
 		# For Pianding Naxi data: the line before the Chinese translation is orthography (Naxi Pinyin).
@@ -379,12 +410,12 @@ while ($line=<INPUT>) {
 			$nblines++;	
 			chomp $transline_lg2;
 			# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-			# $transline_lg2 =~ s{<}{&lt;}g;
-			# $transline_lg2 =~ s{>}{&gt;}g;
 			$transline_lg2 =~ s{<}{&lt;}g;
 			$transline_lg2 =~ s{>}{&gt;}g;
+			# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+			$transline_lg2 =~ s{"}{''}g;
 
-			print  XOUT "\t<TRANSL xml:lang=\"en\">$transline_lg2</TRANSL>\n";      # "zh" for Chinese xxxx
+			print  XOUT "\t<TRANSL xml:lang=\"zh\">$transline_lg2</TRANSL>\n";      # "zh" for Chinese xxxx
 			# adding the translation of the sentence to a translation of the whole text, to be manually edited later and to serve as a free translation at the text level
 			$text_lg2 = "$text_lg2$transline_lg2\n";
 		}
@@ -395,10 +426,10 @@ while ($line=<INPUT>) {
 			$nblines++;	
 			chomp $transline_lg3;
 			# replacing angle brackets < > by the corresponding XML formulas (otherwise they result in messy markup). Note: the g at the end of the expression tells Perl to replace globally (=as many times as there are occurrences of the pattern).
-			# $transline_lg2 =~ s{<}{&lt;}g;
-			# $transline_lg2 =~ s{>}{&gt;}g;
 			$transline_lg3 =~ s{<}{&lt;}g;
 			$transline_lg3 =~ s{>}{&gt;}g;
+			# Likewise, any " symbol in the message must be replaced, otherwise it will count as end of message.
+			$transline_lg3 =~ s{"}{''}g;
 
 			print  XOUT "\t<TRANSL xml:lang=\"en\">$transline_lg3</TRANSL>\n";
 			# adding the translation of the sentence to a translation of the whole text, to be manually edited later and to serve as a free translation at the text level

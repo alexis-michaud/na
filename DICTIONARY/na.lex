@@ -10977,6 +10977,8 @@
 \xe There's all kinds of people, right!
 \xn 人吧，什么人都有，对吧！
 \xf Les gens… il y en a de toutes sortes, n'est-ce pas!
+\txtsup Sister5.8
+\doisup xxxxAssignationÀVenir
 
 \lx dʑo˧β
 \sf <nb="B"> 1776
@@ -30533,7 +30535,10 @@
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" langue="fra" print="n"> avant 2013: noté /le˧-/, ne reconnaissant pas la possibilité d'une syllabe /le/; suite à la reconnaissance d'une autre syllabe à initiale dentale suivie de /e/, la syllabe /ne/ (oct. 2013), adopte la notation /le/.
+\nt <type="hist" langue="fra" print="n"> avant 2013: noté /lə˧-/ puis /li˧-/, ne reconnaissant pas la possibilité d'une syllabe /le/; suite à la reconnaissance d'une autre syllabe à initiale dentale suivie de /e/, la syllabe /ne/ (oct. 2013), adopte la notation /le/.
+\nt <dom="phono" langue="fra"> Ce morphème connaît une importante harmonie vocalique avec la syllabe qui suit.
+\nt <dom="phono" langue="eng"> yyyy trad
+\nt <dom="phono" langue="cmn"> yyyy trad
 \ton M
 \lc le˧
 \so <print="n"> F4
@@ -30543,6 +30548,8 @@
 \gn 实施
 \df Aspect accompli (|fg{accomp}).
 \gf |fg{accomp}
+\textsup Benevolence.1
+\doisup yyyyAssignationÀVenir
 
 \lx li˩˥
 \sf <nb="B"> 398
@@ -33781,6 +33788,24 @@
 \xe to mend clothes (the Na verb is: /|fv{hwɤ˧˥}/)
 \xn 补补衣服
 \xf repriser des vêtements (le verbe na est: /|fv{hwɤ˧˥}/)
+
+\lx tɕo˩
+\or jo rrrr
+\bw <langue="cmn"> 救
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L
+\lc tɕo˩
+\so <print="n"> F4
+\de To save (e.g. to save someone's life).
+\ge 救::to_save
+\dn 救
+\gn 救（借词）
+\df Sauver (par exemple: sauver la vie de quelqu'un).
+\gf 救::sauver
+\txtsup Benevolence.232
+\doisup yyyyAttributionEnCours
 
 \lx lv̩˧sɯ˥
 \sf <nb="B"> 257
@@ -40318,10 +40343,10 @@
 \xe You want some more rice?
 \xn 还要一点饭吗？
 \xf Encore un peu de riz? / Souhaites-tu encore un bol de riz?
-\xv «mɤ˧-ɲi˧! mɤ˧-ɲi˧!» so˩-qʰwɤ˩ dzɯ˩˥!
-\xe “No no, I'm fine!” and then you eat three big bowls, hey? (
-\xn (to be added)
-\xf Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas demander de nourriture, et qui finissent par manger avec très bon appétit, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains.
+\xv «mɤ˧-ɲi˧! mɤ˧-ɲi˧!» | so˩-qʰwɤ˩ dzɯ˩˥!
+\xe “No no, I'm fine!” and then you eat three big bowls, hey? zzzz add translation
+\xn zzzz add translation
+\xf «Non merci» pis après t'en manges trois platées! (Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas vouloir de nourriture, et qui, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains, font montre d'un très bon coup de fourchette.)
 
 \lx ɲi˩=ɻ̩˥
 \or ni'er
@@ -70207,11 +70232,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M21"> tsʰu˧pjɑ˧
 \vf <print="n"> ton d1; voyelle vérifiée
 \pdv ɭɯ˧β
-\de Soap. Presumably borrowed from a language of Burma: cp. Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fv{læ˩pʰæ˩-læ˥dzi˩} and |fv{/ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
+\de Soap. Presumably borrowed from a language of Burma: compare Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fv{læ˩pʰæ˩-læ˥dzi˩} and |fv{/ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
 \ge soap
 \dn 肥皂。很可能借自缅甸的一种语言：如侬语 /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [戴庆厦1992]，潞西、梁河阿昌语/|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/[戴庆厦1985]，陇川阿昌族 /|fv{tsʰaw³¹ piaw³¹}/ [戴庆厦1992]。从文化上看，肥皂最初是通过与缅甸少数民族的接触/贸易传入的，这一点并非不可能。驻扎在扎美寺院里的人民解放军士兵用肥皂在溪边洗衣服，在与他们接触后，肥皂在永宁的使用迅速普及。以前，摩梭人使用两种植物：|fv{læ˩pʰæ˩-læ˥dzi˩}和|fv{/ɭɯ˩}，将其捣碎并煮沸，所得液体用来洗衣服。
 \gn 肥皂
-\df Savon. Sans doute mot emprunté à une langue de birmanie: cp. nung: |fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵} [Dai 1992]; achang de Luxi et Lianghe: |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} [Dai 1985]; achang de Longchuan: |fv{tsʰaw³¹ piaw³¹} [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
+\df Savon. Sans doute mot emprunté à une langue de Birmanie. À rapprocher de |fv{tsʰɑ³¹ pi⁵⁵ jɔ⁵⁵} en nung [Dai 1992], |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} en achang de Luxi et Lianghe [Dai 1985], |fv{tsʰaw³¹ piaw³¹} en achang de Longchuan [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
 \gf savon
 
 \lx tsɤ˩pʰv̩˧-tsɤ˥li˩
