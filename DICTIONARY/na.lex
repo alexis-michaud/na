@@ -8530,7 +8530,10 @@
 \gn 毒
 \df Poison.
 \gf poison
-\dt 27/Aug/2015
+\xv ɖwæ˩˥ | dv̩˩˥! | ʈʂʰɯ˧ | hĩ˧-ʁo˧to˩, | dzɑ˧ ʝi˧ kv̩˩!
+\xe This person is very bad! (S)he hurts other people!
+\xn 这个人非常坏，他伤害其他人！
+\xf Cette personne est très mauvaise! Elle fait du mal aux autres!
 
 \lx dv̩˥
 \sf <nb="B"> 1372a
@@ -11062,12 +11065,12 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de Good (good decision).
-\ge good(decision)
+\de Good (good action, good decision).
+\ge good
 \dn 好
 \gn 好
-\df Bon (bonne décision).
-\gf bon(décision)
+\df Bon (bonne action, bonne décision).
+\gf bon
 \xv mɤ˧-dʑɤ˩
 \xe bad
 \xn 坏
@@ -11082,6 +11085,18 @@
 \xe You're great!
 \xn 你很好！
 \xf Tu es quelqu'un de bien!
+\xv le˧-ʝi˥ | dʑɤ˩˥
+\xe to do a good job, to work well
+\xn （事情）做得好
+\xf faire un bon travail, bien travailler
+\xv le˧-dʑɤ˩ ʝi˩
+\xe to do good deeds
+\xn 做好事
+\xf faire une bonne action / faire de bonnes actions
+\xv hĩ˧-ʁo˧to˩, | dʑɤ˩ ʝi˥! | dzɑ˧ ʝi˧-mɤ˧-ɖo˧! | dzɑ˧ tʰɑ˧-ʝi˧!
+\xe Towards others, do good deeds! One must not do bad things! Don't do bad things!
+\xn 对别人，（要）做好事！不要干坏事！别干坏事！
+\xf Envers les autres, il faut réaliser de bonnes actions! On ne doit pas faire de mauvaises actions! Ne fais pas de mauvaises actions!
 \xv dʑɤ˩-kʰɯ˥!
 \xe A benediction used on the New Year: “Let there be good (things)!", i.e. “Prosperity!", “All the best for the New Year!"
 \xn 新年祝福：“祝一切好！ / 万事如意！”
@@ -30537,8 +30552,8 @@
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> avant 2013: noté /lə˧-/ puis /li˧-/, ne reconnaissant pas la possibilité d'une syllabe /le/; suite à la reconnaissance d'une autre syllabe à initiale dentale suivie de /e/, la syllabe /ne/ (oct. 2013), adopte la notation /le/.
 \nt <dom="phono" langue="fra"> Ce morphème connaît une importante harmonie vocalique avec la syllabe qui suit.
-\nt <dom="phono" langue="eng"> yyyy trad
-\nt <dom="phono" langue="cmn"> yyyy trad
+\nt <dom="phono" langue="eng"> This morpheme has a high degree of vowel harmony with the following syllable.
+\nt <dom="phono" langue="cmn"> 这个词素与后面音节发生很明显的元音和谐。
 \ton M
 \lc le˧
 \so <print="n"> F4
@@ -58335,8 +58350,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \vf <print="n"> Le locuteur utilise un emprunt; il accepte le mot de F4.
 \va <speaker="M23"> si˧gv̩˧
 \vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
-\ve <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
-\vn <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
+\ve <dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
+\vn <dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
 \pdv ɭɯ˧β
 \de Box, case.
 \ge box
@@ -58693,8 +58708,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M21"> ID.
 \va <speaker="M23"> si˧ɻæ˧
 \vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
-\ve <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
-\vn <dom="sem"> yyyy traduire Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
+\ve <dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
+\vn <dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
 \pdv pɤ˩
 \de Table.
 \ge table
