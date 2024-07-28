@@ -10,7 +10,7 @@
 # This script was created by Alexis Michaud, taking up portions of Boyd Michailovsky's chk_spc6_new.pl
 # (which was created in 2008 or earlier). "The LACITO project has benefited from open-source software, and all
 # programs developed by the project are open-source. As more projects adhere to common standards, we
-# expect that distributed development and interoperability of software for ®eld linguistics and other speci-
+# expect that distributed development and interoperability of software for field linguistics and other speci-
 # alities will become a reality." (Conclusion of: Jacobson, Michel, Boyd Michailovsky & John B. Lowe. 2001. Linguistic documents synchronizing sound and text. Speech Communication 33 [special issue: "Speech Annotation and Corpus Tools"]. 79–96, page 92.)
 #
 # This is version 9 of the script, produced in 2024. (Version 1 was produced in 2011.) New to version 9:

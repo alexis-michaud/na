@@ -1827,7 +1827,10 @@
 \gn 花
 \df Fleur.
 \gf fleur
-\dt 01/Sep/2015
+\xv bæ˩bæ˩ tʰi˩-di˥.
+\xe There are flowers, it's flowery. The expression can be used literally or figuratively to describe a flowery speech: a speech rich in ornamentation and rhetorical flourishes.
+\xc 花团锦簇。这个说法既可用于字面意思，也可用于比喻花言巧语：指富于装饰和华丽辞藻的话语。
+\xf Il y a des fleurs, c'est fleuri. L'expression peut s'employer au sens propre, ou au sens figuré, pour décrire un discours fleuri: un discours riche en ornements et fleurs rhétoriques.
 
 \lx bæ˩bæ˩
 \sf <nb="B"> 1064
@@ -2487,7 +2490,7 @@
 \sd <langue="eng"> classifier
 \ton Mα
 \lc ɖɯ˧ bæ˧
-\cf ʁo˩β
+\cf ʁo˩β2
 \so <print="n"> F4
 \de Classifier for sorts of things; used in statements of identity: “it is the same".
 \ge |fg{clf}.sorts
@@ -8511,12 +8514,12 @@
 \hm 2
 \or dduq
 \ps n
-\cf dv̩˩α
+\cf dv̩˩α1
+\cf dv̩˩α2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra" print="n"> (vérifié, n'est pas m4)
 \nt <type="hist" langue="fra" print="n"> Ton LM confirmé (type “porc").
-
 \ton LM
 \lc dv̩˩˥
 \so <print="n"> F4
@@ -8530,10 +8533,6 @@
 \gn 毒
 \df Poison.
 \gf poison
-\xv ɖwæ˩˥ | dv̩˩˥! | ʈʂʰɯ˧ | hĩ˧-ʁo˧to˩, | dzɑ˧ ʝi˧ kv̩˩!
-\xe This person is very bad! (S)he hurts other people!
-\xn 这个人非常坏，他伤害其他人！
-\xf Cette personne est très mauvaise! Elle fait du mal aux autres!
 
 \lx dv̩˥
 \sf <nb="B"> 1372a
@@ -8723,6 +8722,7 @@
 \dt 24/Apr/2017
 
 \lx dv̩˩α
+\hm 1
 \sf <nb="2011"> 2258
 \sf <nb="B"> 1098
 \sf <nb="B"> 1667
@@ -8733,6 +8733,7 @@
 \lc dv̩˩˥
 \sn 1
 \cf dv̩˩˧2
+\cf dv̩˩α2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so <print="n"> F4
@@ -8778,7 +8779,28 @@
 \xe to hate deeply
 \xn 讨厌得不行
 \xf détester à mort
-\dt 27/Aug/2015
+
+\lx dv̩˩α
+\hm 2
+\or dduq
+\ps adj
+\ton Lα
+\lc dv̩˩˥
+\cf dv̩˩˧2
+\cf dv̩˩α1
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\so <print="n"> F4
+\de Poisonous; obnoxious.
+\ge poisonous
+\dn 有毒
+\gn 有毒
+\df Empoisonné, vénéneux, toxique; odieux
+\gf vénéneux
+\xv ɖwæ˩˥ | dv̩˩˥! | ʈʂʰɯ˧ | hĩ˧-ʁo˧to˩, | dzɑ˧ ʝi˧ kv̩˩!
+\xe This person is obnoxious! (S)he hurts other people!
+\xn 这个人非常坏，他伤害其他人！
+\xf Cette personne est odieuse! Elle fait du mal aux autres!
 
 \lx ɖwæ˧˥
 \hm 1
@@ -10734,13 +10756,13 @@
 \df Grêle.
 \gf grêle
 \xv dzo˧ lɑ˩
-\xe there is some hail
+\xe to hail; it hails
 \xn 下冰雹
-\xf il grêle
+\xf grêler; il grêle
 \xv dzo˧ gi˧-ze˩
-\xe there is some hail
+\xe it is hailing
 \xn 下冰雹了
-\xf il tombe de la grêle
+\xf il tombe de la grêle, il s'est mis à grêler
 
 \lx ɖʐo˥
 \sf <nb="B"> 1023
@@ -32333,11 +32355,14 @@
 \so <print="n"> F4
 \de To work.
 \ge to_work
-\dn 劳动
+\dn 劳动、工作
 \gn 劳动
 \df Travailler.
 \gf travailler
-\dt 24/Apr/2017
+\xv lo˧ ʝi˧ ʐv̩˩ ʝi˩
+\xe Same meaning: ‘to work’. The quadrisyllabic expression is more polished and flowery than the ordinary disyllabic expression.
+\xn 意思相同：“工作”。与普通的双音节表达方式相比，四音节表达方式更加精炼和华丽。
+\xf Même sens: ‘travailler’. L'expression quadrisyllabique est plus soignée et fleurie que l'expression disyllabique ordinaire.
 
 \lx lo˧ʝi˧-hĩ˧ hĩ#˥
 \sf <nb="B"> 345
@@ -38479,10 +38504,11 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (tʰi˧ ɳæ˧ ze˥); appuyer vers le bas: mv̩˩tɕu˧ tʰi˧ɳæ˧˥, mv̩˩tɕu˧ɳæ˧˥ (avant janvier 2011, noté: ‡le˧-ɳæ˧~ɳæ˩; la descente graduelle par laquelle se réalise la séquence ˧ ˩ ˩ était interprétée comme ‡˧ ˧ ˩.)
+\nt <type="hist" langue="eng" print="n"> Prior to 2024, one of the meanings registered in the dictionary was 'to squeeze'. It was corrected at the indication of Roselle Dobbs, who pointed out: “I've been looking for a picture to illustrate the verb 'naeq' (to press), and in so doing have clarified its meaning a bit. I sent various pics to my friends, including a hand squeezing the juice out of a lemon, and a hand pressing down on a block of tofu.  The first one was rejected as a suitable illustration for naeq. The second one was fine.”
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To press, to push down (with the hand); to press flat, to flatten; to squeeze.
+\de To press, to push down (with the hand); to press flat, to flatten.
 \ge to_press
 \dn 按（用手）、压扁、挤压
 \gn 按
@@ -42007,7 +42033,7 @@
 \df Tofu.
 \gf tofu
 \xv nv̩˩dʑɯ˥ | ɖɯ˧-v̩˥ ɳæ˩
-\xe to prepare a pot of tofu (literally: to squeeze a pot of tofu).
+\xe to prepare a pot of tofu (literally: ‘to press a pot of tofu’).
 \xn 做一锅豆腐（字面意思：挤压一锅豆腐）。
 \xf préparer une casserole de tofu (littéralement: presser une casserole de tofu).
 
@@ -52167,7 +52193,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 不会出（茧子）
 \xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx ʁo˩β
 \hm 2
@@ -59550,6 +59575,25 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 意志
 \df Volitif: vouloir, souhaiter.
 \gf |fg{volitif}
+
+\lx ɳɯ˧ʑi˩
+\or neexxi rrrr
+\ps v
+\ton L#
+\lc ɳɯ˧ʑi˩
+\cf ʂv̩˧ɖv̩˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so <print="n"> F4
+\de To remember, to commit to memory.
+\ge to_remember
+\dn 记住
+\gn 记住
+\df Se souvenir, apprendre, garder le souvenir de.
+\gf se_souvenir
+\dv le˧-mv̩˩pʰæ˩ mɤ˩-tʰɑ˩.
+\txtsup Benevolence.236
+\doisup yyyyAssignationEnCours
 
 \lx ʂɻ̩˩gv̩˩
 \sf <nb="B"> 606
@@ -69606,7 +69650,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf 民宾::milicien
 
 \lx ti˧ʈʂæ˥
-\or
+\or dizhae
 \bw <langue="cmn"> 队长
 \ps n
 \sd <langue="fra"> société

@@ -1011,7 +1011,7 @@ Le lendemain matin, au lever, il allait un peu mieux;
 %fr Transcription automatique : ə˧mi˧ | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩ | njɤ˧ki˩ ɖɯ˧æ˧ʂɯ˧lɑ˩ | mv̩˩pi˧mɤ˧kv̩˧˥ | ə˩gi˩ | qʰv̩˧pʰv̩˧tʰv̩˧v̩˧ |
 %fr Modification expressive de /mv̩˩zo˩˥/, qui ressemble phonétiquement à /mv̩˩zo˩æ˥/: possède un changement de voyelle vers la fin. Ce phénomène est désigné ici comme 'diphtongaison vocative'.
 “Mademoiselle Latami”, a-t-il dit... Il ne m'appelait pas par mon prénom, ‘Ddaeshilamu’, n'est-ce pas, cet aïeul! (Note: la narratrice adopte le point de vue du présent de l'énonciation, selon lequel le personnage est ce qu'il est devenu entretemps: un aïeul, tandis que dans le présent de la narration, il était un ‘oncle cadet’.)
-“拉他咪家姑娘啊！”他不会用名字，把我叫做“达石拉么”（而他用的是家族的性加上“姑娘”这个称呼），那位祖父！（注：此处，阿妈从现在的角度看，将那个人称作“祖父”，而不用当时的角度：当时称“叔叔”。）
+“家姑娘啊！”他不会用名字，把我叫做“达石拉么”（而他用的是家族的性加上“姑娘”这个称呼），那位祖父！（注：此处，阿妈从现在的角度看，将那个人称作“外曾叔父（相当于汉族家庭的祖父）”，而不用当时的角度：当时称“叔叔”。）
 
 “lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥! | no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩ ʝi˩-ze˩!” |
 %Utterance ID: BENEVOLENCE.83
@@ -1495,74 +1495,111 @@ yyyy trad
 %fr L'expression /ɲi˧-tsɯ˧-ze˧/ contient le perfectif, /-ze˧β/. (J'avais d'abord songé à une interprétation comme un interrogatif, avec pour signification 二十几. Également songé à une erreur de notation due à une simplification phonétique du verbe /tsɤ˧/ 'devenir, donner': 'ça donnait 20 personnes en tout'.) On pourrait dire: /ɲi˧tsi˧-ɖɯ˧-v̩˧-ze˧ gv̩˧/ 'on atteignait (le nombre de) vingt et une personnes'. On peut dire: /tsʰi˧-ɲi˧, | hĩ˧, | so˧-tsʰi˧-ze˧!/ 'Aujourd'hui, il y avait bien trente personnes!' Paraphrase: 'Aujourd'hui, on atteignait le nombre de trente personnes'.
 %fr xxxx à éliciter: "plus de 20", "plus de 10", "plus de 100".
 En sollicitant ainsi les familles (=en battant ainsi le rappel), nous, les femmes, les jeunes gens, en rassemblant tout le monde, eh bien, les gens qui s'en allaient porter les planches, ça donnait un groupe de vingt personnes! / on atteignait le nombre de vingt personnes!
-yyyy trad
+我们这样请其它家帮忙，年轻女人们、小伙子们都请来，一共能达到二十个人！
 
 tʰi˩˥, | hɑ˧ | ɖɯ˧-ʁwɤ˧ | tʰi˧-tɕɯ˥, | le˧-dzɯ˥ | dʑo˩ | tʰi˩˥, | ə˧pʰv̩˧ | tʰv̩˧-v̩˧-dʑo˩, | <le˧-go˩-z…> le˧-ɖʐo˧-zo˥! |
 %227
 Alors, comme on avait préparé tout un tas de nourriture, alors qu'on mangeait, le grand-père, il a eu mal: il avait froid!
-yyyy trad
+那么，饭准备了一大堆，大家在吃的时候，有一位老人受凉了。
 
 ʈʂʰɯ˧ne˧-ʝi˥, | nɑ˩~nɑ˧ zo˥! | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩-zo˩! | ə˧mi˧, ə˧mi˧! | bi˧ | le˧-gi˧-zo˥! |
 %fr 228, 20mn18 secondes
 Il était pris de tremblements. Il tremblait, il tremblait, il tremblait! Aïe, aïe, aïe! Par temps de neige / tout ça alors qu'il neigeait!
-yyyy trad
+他发抖很重！而且天在下雪！
 
 tʰi˩˥, | … njɤ˧ | ʐɯ˧ ʈʂʰɯ˧ ɲi˥-tɕɯ˩, | gɤ˩-tʰv̩˥! | tʰv̩˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩ | ʐɯ˧ mɤ˧-po˧˥! | njɤ˧=ɻ̩˩ | ʈʂʰɯ˧ lɑ˩ po˩! |
 %229, vingt minutes tɻente
 Alors moi, j'ai sorti ces deux bouteilles d'alcool! Eux, personne de leur famille n'avait amené d'alcool! On était la seule famille à en avoir amené!
-yyyy trad
+于是我拿出来了那两壶酒。他们一家没带酒！（＝他们一家都忘了带上酒）我家是唯一带上的！
 
 ɖɯ˧-v̩˧ ki˥-ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥-ne˩ʝi˩, | ʈʂʰɯ˧ne˧ ʝi˥-qo˩-ɳɯ˩, | li˩ ʈʰɯ˩ qʰwɤ˥-qo˩-ɳɯ˩! | ə˧mv̩˥-tɕi˩, | ɖɯ˧-v̩˧ ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |
 %230
 Pour en servir / pour servir le vin, en fait de gobelet, voilà comment j'ai fait: dans les bols pour boire le thé, j'en ai versé un petit peu, donnant une goutte pour chacun!
-yyyy trad
+为了用杯子盛酒，我是这样做的：我往茶碗里倒了一点，每个人都喝了一滴！
 
-ə˧v̩˧˥ | … ə˧pʰv̩˧ tʰv̩˧-v̩˧-ki˧ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |
+<ə˧v̩˧˥ | …> ə˧pʰv̩˧ tʰv̩˧-v̩˧-ki˧ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |
 %231
-J'en ai servi au vieil homme!
-yyyy trad
+J'en ai servi une goutte au grand-oncle maternel (=au vieil homme)!
+我给那位外曾叔父（＝那位老人）盛了一滴！
 
 "ɬɬɬ! ə˧mi˧! | ʁɑ˩mi˧-ze˩, | æ˩sæ˥, | no˧ | mv̩˩zo˩˥!" |
-%231
+%232
 %fr /æ˩sæ˥/: est un enjolivement des remerciements. /ʁɑ˩mi˧-ze˩/, c'est un Merci un peu sec. /ʁɑ˩mi˧-ze˩, | æ˩sæ˥/, c'est une formule qui prend le temps de s'exprimer. C'est une façon de parler qu'on peut, en na comme en français, dire "fleurie": /bæ˩bæ˩ tʰi˩-di˥/ ('il y a des fleurs, c'est fleuri').
-%fr /zo/ dans /mv̩˩zo˩˥/: diphtongué vers [ɑ/æ], de façon expressive: vocatif laudatif.
-"Eeeeh bien! Grand merci à vous, demoiselle!"
-yyyy trad
+%fr /zo/ dans /mv̩˩zo˩˥/ est diphtongué vers [ɑ/æ], de façon expressive: vocatif laudatif.
+"Mmmh! Eeeeh bien! Grand merci à vous, demoiselle!"
+“哇！非常感谢你，女士！”
 
 "no˧ | njɤ˧-bv̩˧ zɯ˧~zɯ˧ | ɲi˧-ʂɯ˩ tɕo˩-ze˩! | no˧ | le˧-dʑɤ˩-ʝi˩! |
-%232
+%233
 %fr /tɕo˩/: mot chinois, 救. Reporté dans le dictionnaire.
 %fr À l'occasion de la transcription de ce passage, étude de la différence entre /le˧-ʝi˥ | dʑɤ˩˥/ 'bien travailler, faire un bon travail' et /le˧-dʑɤ˩-ʝi˩/ 'faire une bonne action'. /hĩ˧-ʁo˧to˩, | dʑɤ˩-ʝi˥! dzɑ˧ ʝi˧-mɤ˧-ɖo˧! dzɑ˧ tʰɑ˧-ʝi˧!/ 'Envers les autres, il faut réaliser de bonnes actions! On ne doit pas faire de mauvaises actions! Ne fais pas de mauvaises actions!' /ɖwæ˩˥ | dv̩˩˥! | ʈʂʰɯ˧ | hĩ˧-ʁo˧to˩, | dzɑ˧ ʝi˧ kv̩˩!/ 'Cette personne est très mauvaise! elle fait du mal aux autres!' (Ces quatre exemples ont été reportés dans le dictionnaire.)
-"Tu m'as sauvé la vie deux fois! Tu fais de belles actions!" 你做好事！　le˧-ʝi˥ | dʑɤ˩˥　事情做的好！
-yyyy trad
+"Tu m'as sauvé la vie deux fois! Tu fais de belles actions!"
+“你救了我两次！你做大好事！”
 
-tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!" | pi˧-zo˩. | ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! | hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |
-%233
-%fr le˧-mv̩˩pʰæ˩ mɤ˩-tʰɑ˩ = ɳɯ˧ ʑi˩.
-yyyy trad
+“tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!” | pi˧-zo˩. |
+%234
+%en Translation: "Today, had it not been for the wine that you gave me to drink, I was going to die from the cold!" he said.
+« Aujourd'hui, sans le vin que vous m'avez donné à boire, j'allais mourir de froid », qu'il a dit.
+他说：“今天，要不是你给我酒喝，我就要冻死了！”。
 
-tʰv̩˧-v̩˧ | tʰv̩˧-ʈʂæ˩-qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, | ə˩-gi˩! | ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | <tʰv̩˧-ʝɤ˩> [tʰv̩˧-v̩˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! | ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! | le˧-hɤ˩, | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
-yyyy trad
+ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! |
+%235
+Ce grand-oncle maternel, de la sorte, eh bien... il allait mourir: voilà ce qu'il disait: qu'il se mourait, vrai de vrai!
+这位外曾叔父是这么说的：他要死了，真的要死了！
 
-ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩! | "ʈʰææ̃˧, | ɬɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɻ̩˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ̩˩ | so˧-jɤ˩ dʑɤ˩!" | pi˧-zo˩. |
-vingt et une minutes dix-sept
-%fr /lo˧ ʝi˧ ʐv̩˩ ʝi˩/: travailler; équivalent de la formule monosyllabique, en plus fleuri.
-la demoiselle Latami donne le bon exemple! Ils ont des bonnes habitudes, dans la famille!
-yyyy trad
+hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |
+%236
+%fr ɳɯ˧ʑi˩ = le˧-mv̩˩pʰæ˩ mɤ˩-tʰɑ˩ ('garder le souvenir de, se souvenir de').
+%en Translation: It seems that people have vivid memories of this episode.
+Il semblerait que les gens aient gardé un vif souvenir de cet épisode.
+人们似乎对这一情节记忆犹新。
 
-njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩mæ˩! | õ˧˥, | hĩ˧ qɑ˩-tʰv̩˩, | ɖʐwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩! |
-vingt et une minutes vingt-cinq
+tʰv̩˧-v̩˧ | tʰv̩˧-ʈʂæ˩-qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, ◊ ə˩-gi˩! |
+%237
+Cet homme, à l'époque, il était fort pauvre. Ses enfants étaient petits, n'est-ce pas.
+
+ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | <tʰv̩˧-ʝɤ˩> [tʰv̩˧-v̩˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! |
+%238
+Sa femme n'était pas particulièrement brillante: la mère (des enfants) n'était pas bien brillante. Ce vieil homme, en revanche, c'était quelqu'un de capable, vraiment très capable!
+他的妻子不是特别能干：（孩子们的）母亲不是很能干。而这位老人却是个能人，一个很能干的人！
+
+ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! |
+%239
+De sorte qu'il travaillait; à force de travail, il était devenu habile (=il avait acquis des compétences)!
+于是他干活；通过工作，他变得娴熟（=他掌握了技能）。
+
+le˧-hɤ˩ | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
+%240
+Devenu très habile... / Avec ces compétences... comme il se faisait vieux, il fatiguait!
+他变得非常熟练......随着年龄的增长，他变得疲惫不堪！
+
+ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩, | "ʈʰææ̃˧, | lɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɻ̩˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ̩˩ | so˧-jɤ˩ dʑɤ˩!" | pi˧-zo˩. |
+%241; vingt et une minutes dix-sept
+%fr /lo˧ ʝi˧ ʐv̩˩ ʝi˩/: travailler; équivalent de la formule disyllabique, en plus fleuri.
+De la sorte, eh bien... quand il est retourné travailler, il a dit: «Vrai de vrai, il faut prendre exemple sur la demoiselle Latami! Ils ont des bonnes habitudes, dans sa famille!»
+所以......当他回去劳动时，他说：“真的，应该向拉他咪家姑娘学习！她家的人有好习惯！”
+
+njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩mæ˩! |
+%242
+%fr /dʑɯ˧/: expérientiel, /mæ˩/: affirmatif
+Moi, vrai de vrai, je me suis occupée des anciens, autrefois! Je m'occupais des vieux; je m'occupais des enfants!
+我曾经照顾过老人！我照顾老人；我照顾孩子！
+
+õ˧˥, | hĩ˧ qɑ˩-tʰv̩˩, | ɖʐwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩! |
+%243
+%vingt et une minutes vingt-cinq
 %fr fin W transcription au 18 mai 2024, à 21 mn 27
-%fr /dʑɯ˧/: expérientiel du passé, mæ˩: affirmatif
 %fr on pourrait dire simplement: /hĩ˧ qɑ˩/, sans le démonstratif / marqueur de topique de /hĩ˧ qɑ˩-tʰv̩˩/.
-Moi, vrai de vrai, je prenais bel et bien soin des anciens, autrefois! Je m'occupais des vieux; je m'occupais des jeunes! Moi, je prenais soin des autres, je ne me suis jamais disputée avec autrui ! (没有欺负过人)
-yyyy trad
+Moi, je ne me suis jamais disputée avec autrui. (Littéralement: "Moi, envers les autres, je ne me suis jamais disputée.")
+我没有欺负过人。
 
-õ˧-ʈʂʰɯ˧ne˧-ʝi˥-zo˩, | njæ˧-sɯ˩kv̩˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩-kʰi˥ | tʰv̩˧-ʂɯ˩-lɑ˩! | zo˩no˥, | qʰæ˧lo˧ qwæ˥-kʰi˩ tʰv̩˩-ʂɯ˩-se˩, | hĩ˧ | ə˧pʰv̩˧-tsʰo˩mo˩ | tʰi˩˥, | ɖwæ˧˥ | ɳɯ˧go˧-<lɑ˥>[zo˥]! |
-Voilà ce qu'on a fait, nous, la fois où on était allé chercher des planches! Eh bien, la fois où on est allé creuser un canal, le vieil homme, il faisait vraiment pitié / il était vraiment mal en point!
-yyyy trad
+õ˧-ʈʂʰɯ˧ne˧-ʝi˥-zo˩, | njæ˧-sɯ˩kv̩˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩-kʰi˥ | tʰv̩˧-ʂɯ˩-lɑ˩ | D zo˩no˥, | qʰæ˧lo˧ qwæ˥-kʰi˩ tʰv̩˩-ʂɯ˩-se˩, | hĩ˧ | ə˧pʰv̩˧-tsʰo˩mo˩ | tʰi˩˥, | ɖwæ˧˥ | ɳɯ˧go˧-<lɑ˥>[zo˥]! |
+%244
+Voilà ce qu'on a fait, nous, la fois où on était allé chercher des planches, et, euh... la fois où on était allé creuser un canal: ce grand-oncle maternel (=ce vieil homme), il faisait vraiment pitié / il était vraiment mal en point!
+我们那次去找木板，呃......还有那次去挖水沟，我们是这样做的：那个外曾舅舅（=那个老人），他真的很可怜！
 
 ʈʂʰɯ˧-v̩˧, | njɤ˧ | <p...> ʈʂʰɯ˧-v̩˧-ki˧ | pʰv̩˧ɖɯ˧-ʝi˥ ɲi˩-lɑ˩, | zo˩no˥, | ʈʂʰɯ˧-v̩˧, | njɤ˧-ki˧ | ʈʰææ̃˧ | "ʁɑ˩mi˧!" | pi˧-zo˥, | hĩ˧ | kʰv̩˧pʰæ˧ | le˧-mo˩-ɲi˩-ze˩! |
+%245
 %fr /kʰv̩˧pʰæ˧/: âge
 Cet homme, je lui marquais bien des égards; lui, il me disait des remerciements; il avait atteint un âge avancé!
 yyyy trad
