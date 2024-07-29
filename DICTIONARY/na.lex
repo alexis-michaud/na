@@ -8408,7 +8408,7 @@
 \rf F4
 \rf F5
 
-\lx ɖɯ˧‑
+\lx ɖɯ˧-
 \sf <nb="2011"> 3377
 \or ddee-
 \ps prep
@@ -15812,7 +15812,7 @@
 \xf de la vieille viande, de la viande pas fraîche
 \dt 28/Aug/2015
 
-\lx ə˩‑
+\lx ə˩-
 \sf <nb="2011"> 1338
 \or ae-
 \ps pro
@@ -16675,7 +16675,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> avant 2014: n'avais pas indiqué de ton.
-\nt <type="hist" langue="fra" print="n"> Suite à un commentaire de Roselle Dobbs ('You call this a noun, but you mark it as ‑gɤ…'), retiré en mai 2018 l'indication '-' qui revenait à marquer ce mot comme un suffixe.
+\nt <type="hist" langue="fra" print="n"> Suite à un commentaire de Roselle Dobbs ('You call this a noun, but you mark it as -gɤ…'), retiré en mai 2018 l'indication '-' qui revenait à marquer ce mot comme un suffixe.
 \so <print="n"> F4
 \de Place.
 \ge place
@@ -19353,7 +19353,7 @@
 \gf espalier_de_séchage
 \dt 13/Jun/2017
 
-\lx hæ̃˧ʂɯ˩‑
+\lx hæ̃˧ʂɯ˩-
 \or haenshi
 \ps adj
 \sd <langue="fra"> maison
@@ -30566,7 +30566,7 @@
 \df Ensuite; vient d'un sens littéral ‘se retourner’.
 \gf ensuite
 
-\lx le˧‑
+\lx le˧-
 \sf <nb="2011"> 3353
 \or le-
 \ps pref
@@ -36231,7 +36231,7 @@
 \xf un peu d'argent
 \xc <type="hist" dom="synt" langue="fra" print="n"> Confirmé en 2024.
 
-\lx mɤ˧‑
+\lx mɤ˧-
 \sf <nb="B"> 2207
 \sf <nb="2011"> 3372
 \or me-
@@ -38261,7 +38261,7 @@
 \gf brûler
 \dt 04/Sep/2015
 
-\lx mv̩˧‑
+\lx mv̩˧-
 \or mu-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
@@ -48485,7 +48485,7 @@
 \xf 〜 |fg{rel}
 \dt 01/Oct/2015
 
-\lx qʰɑ˧‑
+\lx qʰɑ˧-
 \sf <nb="B"> 909b
 \sf <nb="2011"> 1336
 \or kha
@@ -61677,7 +61677,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf réchauffer (la nourriture…) auprès du feu
 \dt 27/Apr/2017
 
-\lx tʰɑ˧‑
+\lx tʰɑ˧-
 \sf <nb="2011"> 3371
 \or ta
 \ps pref
@@ -64897,7 +64897,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf raboter une planche
 \dt 27/Apr/2017
 
-\lx tʰi˧‑
+\lx tʰi˧-
 \sf <nb="B"> 2248
 \sf <nb="2011"> 3367
 \or ti-
