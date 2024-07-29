@@ -19913,7 +19913,7 @@
 \dt 02/Sep/2015
 
 \lx dʑɤ˧tsʰe˩
-\or jjacei rrrr
+\or jjacei
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -28471,7 +28471,7 @@
 \sf <nb="B"> 1193
 \sf <nb="B"> 1755
 \sf <nb="2011"> 1708
-\or hunshae rrrr
+\or hunshae
 \ets hṽ̩˥1
 \ets ʂæ˩
 \ps v
@@ -33835,7 +33835,7 @@
 \xf repriser des vêtements (le verbe na est: /|fv{hwɤ˧˥}/)
 
 \lx tɕo˩
-\or jo rrrr
+\or joq
 \bw <langue="cmn"> 救
 \ps v
 \sd <langue="fra"> verbe
@@ -59658,13 +59658,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf |fg{volitif}
 
 \lx ɳɯ˧ʑi˩
-\or neexxi rrrr
+\or neexxi
 \ps v
 \ton L#
 \lc ɳɯ˧ʑi˩
 \cf ʂv̩˧ɖv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
+\nt <type="hist" langue="eng" print="n"> xxxx to be verified: question raised by Roselle Dobbs in July 2024: "ɳɯ˧ʑi˩ /ɳɯ˧ʑi˩/ neexxi  According to the IPA, this is correct. However, I wonder if the first syllable/morpheme might be "neu" ('to know').  If so, it should be spelled: neuxxi."
 \so <print="n"> F4
 \de To remember, to commit to memory.
 \ge to_remember
@@ -78867,7 +78868,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʐɻ̩˧bɤ#˥
 \sf <nb="2011"> 328
-\or Rubbe
+\or Reubbe
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -78885,7 +78886,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf Pumi_des_montagnes
 
 \lx ʐɻ̩˧di˧˥
-\or ruddi
+\or Reuddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -79200,7 +79201,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 1472
 \sf <nb="2011"> 2228, 1372
 \hm 1
-\or ruq
+\or reuq
 \ps v
 \ton Lα
 \lc ʐɻ̩˩˥
@@ -81690,7 +81691,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf |fg{oblig}
 
 \lx tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
-\or Cozzi Ddimezzi rrrr
+\or Cozzi Ddimezzi
 \ps n
 \sy dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
 \sd <langue="fra"> religion
@@ -81698,7 +81699,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M | L
 \lc tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩˥
 \so <print="n"> M18
-\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitv-Cotv. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative.
+\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative.
 \ge Cozzi_Ddimezzi
 \dn 达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
 \gn 《搓孜地玛孜经》
@@ -81706,7 +81707,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf Cozzi_Ddimezzi
 
 \lx dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
-\or Zzitv-Cotv rrrr
+\or Zzitu Cotu
 \ps n
 \cf tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
 \sd <langue="fra"> religion
@@ -81715,7 +81716,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
 
 \lx hɑ˩nɑ˧gv̩˧
-\or Hanaggu rrrr
+\or Hanaggu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -81730,7 +81731,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf Hanaggu
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
-\or Puzzo-Pudulu rrrr
+\or Pusso Pudulu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -81738,15 +81739,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
 \cf lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
 \so <print="n"> M18
-\de Puzzo-Pudulu, one of the two family communities in the “Puzzo-Pudulu and Luxi-Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
-\ge Puzzo-Pudulu
+\de Pusso Pudulu, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\ge Pusso_Pudulu
 \dn 普若普嘟噜：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Puzzo-Pudulu, l'une des deux familles éponymes de l'épopée “Puzzo-Pudulu et Luxi-Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
-\gf Puzzo-Pudulu
+\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée “Pusso Pudulu et Luxi Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\gf Pusso_Pudulu
 
 \lx lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
-\or Luxi-Zhinaha rrrr
+\or Luxi Zhinaha
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -81754,9 +81755,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
 \cf pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
 \so <print="n"> M18
-\de Luxi-Zhinaha, one of the two family communities in the “Puzzo-Pudulu and Luxi-Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
-\ge Luxi-Zhinaha
+\de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\ge Luxi_Zhinaha
 \dn 噜细至纳哈：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Luxi-Zhinaha, l'une des deux familles éponymes de l'épopée “Puzzo-Pudulu et Luxi-Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
-\gf Luxi-Zhinaha
+\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée “Pusso Pudulu et Luxi Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\gf Luxi_Zhinaha
