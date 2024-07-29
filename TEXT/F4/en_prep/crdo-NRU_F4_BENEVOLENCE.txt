@@ -1435,7 +1435,7 @@ mmm … mv̩˧ | tʰi˧-kʰɯ˧˥! | tʰi˧-kʰɯ˧˥ | -dʑo˩, | ʈʂʰɯ˧=ɻ
 %fr 214 (1160.300 s)
 %fr Vérifié les tons: /ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩/.
 Mmmh... on faisait un feu! Ce faisant, eux... autrefois, cette famille, celle de Zzhege Daeshi Ci'er, elle était assez pauvre, à cette génération-là! Ils n'avaient pas les moyens de se procurer de l'alcool!
-嗯......我们生火！在过去，这户人家，哲格·达石次尔家，他们那一代很穷！他们买不起酒。
+嗯……我们生火！在过去，这户人家，哲格·达石次尔家，他们那一代很穷！他们买不起酒。
 
 tʰi˩˥, | njɤ˧=ɻ̩˩-dʑo˩, | ʈʰææ̃˧, | ə˧ʑi˧-ʈʂʰɯ˥-ɳɯ˩, | ʐɯ˧ | ɖɯ˧-ɬi˧-qo˧ | ɲi˧-ʝi˥ tɕɤ˩! | mmm... tʰi˧-tɕɯ˥! |
 %fr 215
@@ -1571,13 +1571,13 @@ De sorte qu'il travaillait; à force de travail, il était devenu habile (=il av
 le˧-hɤ˩ | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |
 %240
 Devenu très habile... / Avec ces compétences... comme il se faisait vieux, il fatiguait!
-他变得非常熟练......随着年龄的增长，他变得疲惫不堪！
+他变得非常熟练……随着年龄的增长，他变得疲惫不堪！
 
 ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩, | "ʈʰææ̃˧, | lɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɻ̩˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ̩˩ | so˧-jɤ˩ dʑɤ˩!" | pi˧-zo˩. |
 %241; vingt et une minutes dix-sept
 %fr /lo˧ ʝi˧ ʐv̩˩ ʝi˩/: travailler; équivalent de la formule disyllabique, en plus fleuri.
 De la sorte, eh bien... quand il est retourné travailler, il a dit: «Vrai de vrai, il faut prendre exemple sur la demoiselle Latami! Ils ont des bonnes habitudes, dans sa famille!»
-所以......当他回去劳动时，他说：“真的，应该向拉他咪家姑娘学习！她家的人有好习惯！”
+所以……当他回去劳动时，他说：“真的，应该向拉他咪家姑娘学习！她家的人有好习惯！”
 
 njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩mæ˩! |
 %242
@@ -1596,112 +1596,140 @@ Moi, je ne me suis jamais disputée avec autrui. (Littéralement: "Moi, envers l
 õ˧-ʈʂʰɯ˧ne˧-ʝi˥-zo˩, | njæ˧-sɯ˩kv̩˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩-kʰi˥ | tʰv̩˧-ʂɯ˩-lɑ˩ | D zo˩no˥, | qʰæ˧lo˧ qwæ˥-kʰi˩ tʰv̩˩-ʂɯ˩-se˩, | hĩ˧ | ə˧pʰv̩˧-tsʰo˩mo˩ | tʰi˩˥, | ɖwæ˧˥ | ɳɯ˧go˧-<lɑ˥>[zo˥]! |
 %244
 Voilà ce qu'on a fait, nous, la fois où on était allé chercher des planches, et, euh... la fois où on était allé creuser un canal: ce grand-oncle maternel (=ce vieil homme), il faisait vraiment pitié / il était vraiment mal en point!
-我们那次去找木板，呃......还有那次去挖水沟，我们是这样做的：那个外曾舅舅（=那个老人），他真的很可怜！
+我们那次去找木板，呃……还有那次去挖水沟，我们是这样做的：那个外曾舅舅（=那个老人），他真的很可怜！
 
 ʈʂʰɯ˧-v̩˧, | njɤ˧ | <p...> ʈʂʰɯ˧-v̩˧-ki˧ | pʰv̩˧ɖɯ˧-ʝi˥ ɲi˩-lɑ˩, | zo˩no˥, | ʈʂʰɯ˧-v̩˧, | njɤ˧-ki˧ | ʈʰææ̃˧ | "ʁɑ˩mi˧!" | pi˧-zo˥, | hĩ˧ | kʰv̩˧pʰæ˧ | le˧-mo˩-ɲi˩-ze˩! |
 %245
 %fr /kʰv̩˧pʰæ˧/: âge
 Cet homme, je lui marquais bien des égards; lui, il me disait des remerciements; il avait atteint un âge avancé!
-yyyy trad
+我对这个人非常体贴，他也非常感激我；他已经上了年纪！
 
 ʈʂʰɯ˧ | le˧-ʂɯ˧-ho˩, | go˩-zo˥ | njɤ˧ | li˧ … ə … | njæ˧-sɯ˩kv̩˩-dʑo˩, | wɤ˩˥, | hĩ˧mo˥-hĩ˩ | ʁwɤ˧-qo˧, | ə˩-gi˩! |
-%fr 21.4035
-Il allait mourir, il était souffrant; je suis allée le voir, euh... Nous autres, les vieilles personnes, au village, n'est-ce pas!
-yyyy trad
+%fr 246 21.4035
+[Au moment où] il allait mourir, il était souffrant, je suis allée le voir, euh... Nous autres, les vieilles personnes, au village, n'est-ce pas! (La locutrice part de ce cas particulier pour exposer un principe général en vigueur dans cette société: quand une vieille personne est malade, et paraît toucher au terme de sa vie, tout le monde vient lui rendre visite.)
+在他快要死的时候，他身体不舒服，我去看他，呃…… 我们村里的老人，对吧？(说话者用这个例子解释了摩梭社会的一个普遍原则：当一个老人生病，似乎快要走到生命的尽头时，每个人都会去看望他。）
 
-go˩-zo˥, | ə … "le˧-ʂɯ˧-ho˩-ze˩ pi˩", | pi˧-dʑo˩, | <g... g...> go˧ li˧-bi˧!", | pi˧-zo˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ | li˧-bi˧-kv̩˧˥ | mæ˩! |
-%fr 21.4519
-quand (une d'entre elles) souffre, euh... on se dit: "Elle va sans doute décéder; allons lui rendre visite!"; tout le monde va faire une visite!
-yyyy trad
+go˩-zo˥, | ə … "le˧-ʂɯ˧-ho˩-ze˩ pi˩", | pi˧-dʑo˩, | <g... g...> go˧ li˧-bi˧!", | pi˧-zo˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ | li˧-bi˧-kv̩˧˥ | mæ˩! | ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩! |
+%fr 247 21.4519
+quand (une d'entre elles) souffre, euh... on se dit: "Elle va sans doute décéder; allons lui rendre visite!"; tout le monde va faire une visite; [chaque] famille du village [fait de la sorte], l'une après l'autre!
+当老人生病时，我们会想：“她可能快死了，我们去看看她吧”；每个人都会去看望：村里的每家每户，一个接一个（都去）！
 
-ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩! | ʝi˧kʰv̩˥, | æ̃˩ po˧˥! | æ̃˩˥, | dze˧, | tʰv̩˧=ɻæ˧ po˥! | əəə … li˧-bi˧-kv̩˧˥ | -mæ˩! |
-%fr /tʰv̩˧ɻæ˧/: ces choses-là; phonétiquement, ressemble à: tʰæ
-Chaque famille du village (fait ainsi)! Certains amènent un poulet! Un poulet, des sucreries, voilà ce qu'on amène! On va rendre visite!
-yyyy trad
+ʝi˧kʰv̩˥, | æ̃˩ po˧˥! | æ̃˩˥, | dze˧, | tʰv̩˧=ɻæ˧ po˥! | əəə … li˧-bi˧-kv̩˧˥ | -mæ˩! |
+%fr 248
+%fr /tʰv̩˧ɻæ˧/: ces choses-là; phonétiquement, ressemble à une seule syllabe, comme un simple [tʰæ].
+Certains amènent un poulet! Un poulet, des sucreries, voilà ce qu'on amène! On va rendre visite!
+有些人还带了一只鸡。一只鸡、糖果，我们带这样一些东西！我们要去看望她！
 
-"ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥-hĩ˩ tʰv̩˩-v̩˧, | le˧-qʰwɤ˧ ʁo˧-mɤ˧-ho˩ tsɯ˩! | ə˧-sɯ˩kv̩˩, | ɖɯ˧-li˩-ɻ̩˩-bi˩!" pi˩, | ɖɯ˧-tɑ˧˥ … | tʰv̩˧-ʑi˧-ne˧-ʝi˥ | li˧-ʝi˧-kv̩˧˥ mv̩˩!
-%le˧-jo˧ktʰv̩˧ɻæ˧ po˥! v̩˧˥ | mæ˩!
-%fr xxxx ama: voir à nouveau: construction /li˧-ʝi˧-kv̩˧˥/ ; qd qqn n'est pɑs mɑlɑde: /ɖɯ˧-li˩-ɻ̩˩ æ˩-bi˩/!
-On dit: "Aïe, aïe, aïe! Cette vieille personne, il y a peu de chances qu'elle s'en sorte! Nous autres, allons lui rendre une petite visite!", et tous ensemble... on va rendre visite à la famille en question!
-yyyy trad
+"ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥-hĩ˩ tʰv̩˩-v̩˧, | le˧-qʰwɤ˧ ʁo˧-mɤ˧-ho˩ tsɯ˩! | ə˧-sɯ˩kv̩˩, | ɖɯ˧-li˩-ɻ̩˩-bi˩!" pi˩, | ɖɯ˧-tɑ˧˥ … | tʰv̩˧-ʑi˧-ne˧-ʝi˥ | li˧-ʝi˧-kv̩˧˥ ◊ mv̩˩!
+%fr 249
+%fr xxxx ama: voir à nouveau: la construction /li˧-ʝi˧-kv̩˧˥/ paraît être réservée aux visites aux malades. Lorsqu'il s'agit de rendre visite à quelqu'un qui est bien portant, on emploierait une formule telle que: /ɖɯ˧-li˩-ɻ̩˩ æ˩-bi˩/ 'allons lui rendre visite'.
+On dit: “Aïe, aïe, aïe! Cette vieille personne, il y a peu de chances qu'elle s'en sorte! Nous autres, allons lui rendre une petite visite!”, et tous ensemble... on va rendre visite à la famille en question!
+人家说：“哎哟，哎哟，哎哟！这个老人活下来的机会不大！我们去看望他吧”，然后大家一起去看望这家人！
 
-tʰi˩˥, | ə … ɖɯ˧... ɖɯ˧... ʈʂʰɯ˧ li˩-kʰi˩-dʑo˩, | ə˧mi˧! | tʰv̩˧-ʈʂæ˩-qo˩, | njɤ˧-ki˧ | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ ɻwæ˩-kv̩˩! |
-Alors, quand on est allé rendre visite (au vieil homme en question), eeeh bien! À cette époque, on m'appelait "Ddaeshilamu"!
-yyyy trad
+tʰi˩˥, | ə … ɖɯ˧... ɖɯ˧... ʈʂʰɯ˧ li˩-kʰi˩-dʑo˩, | ə˧mi˧! | tʰv̩˧-ʈʂæ˩-qo˩, | njɤ˧-ki˧ | ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩ ɻwæ˩-kv̩˩! |
+%fr 250
+%fr Phonétiquement: [ʈæ˧ʂɯ˧-lɑ˩mv̩˩].
+%fr «À cette époque, on m'appelait ‘Ddaeshilhamu’"»: la locutrice apporte une explication au sujet du terme d'adresse qui va apparaître dans le passage au discours rapporté prêté au vieil homme reconnaissant. Cet exemple est pertinent pour l'étude de l'intonation du na: comment sont signalées les parenthèses.
+Alors, quand on est allé rendre visite (au vieil homme en question), eeeh bien! [Là, je dois vous expliquer qu']à cette époque, on m'appelait "Ddaeshilhamu"!
+当我去拜访那位老人时……（我得解释一下，）那时候我被称呼“达石拉姆”！
 
-"ʈæ˧ʂɯ˧-lɑ˩mv̩˩! | njɤ˧ | ɖɯ˧zɯ˧ | le˧-mv̩˩pʰæ˩ tʰɑ˩-mɤ˩-ho˩, | ə˧-sɯ˥! |
-ə˧-sɯ˥!: tons à véɻifieɻ d'ɑpɻès ɻgèles
-"Ddaeshilamu! De toute ma vie je n'ai jamais oublié (ta gentillesse), tu sais!
-yyyy trad
+"ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩! | njɤ˧ | ɖɯ˧zɯ˧ | le˧-mv̩˩pʰæ˩ tʰɑ˩-mɤ˩-ho˩, | ə˧-sɯ˥! |
+%fr 251
+"Ddaeshilhamu! De toute ma vie je n'ai jamais oublié (votre gentillesse), vous savez!"
+“达石拉姆啊，在我的一生中，我从未忘记过（您的恩情），您知道吗？”
 
-njɤ˧ | le˧-ʂɯ˧-bi˧ -bi˧bi˧, | no˧-ɳɯ˧ | dʑɤ˩ ʝi˧-hĩ˧ tʰv̩˧-ɲi˧-ʂɯ˥-dʑo˩, | njɤ˧ | nv̩˩mi˩-qo˥ | tʰi˧-ʑi˥-ze˩! | njɤ˧ zo˧ | njɤ˧ mv̩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ɲi˥ | … ʝi˧ mɤ˧dʑɯ˧! |
-"Quand j'étais à l'article de la mort, toi, les deux fois où tu as fait une belle action, je les ai gardées au fond de mon cœur! Pas une fois mes propres fils et filles n'ont eu pareil procédé!
-yyyy trad
+njɤ˧ | le˧-ʂɯ˧-bi˧ -bi˧bi˧, | no˧-ɳɯ˧ | dʑɤ˩ ʝi˧-hĩ˧ tʰv̩˧-ɲi˧-ʂɯ˥-dʑo˩, | njɤ˧ | nv̩˩mi˩-qo˥ | tʰi˧-ʑi˥-ze˩! |
+%fr 252
+"Quand j'étais à l'article de la mort, toi, les deux fois où tu as fait une belle action, je les ai gardées au fond de mon cœur!"
+“当我濒临死亡时，你的两次善举我都铭记在心！”
 
-"no˧ | le˧-dʑɤ˩-ʝi˩, | ə˧sɯ˥! | no˧ | njɤ˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɲi˧-ʂɯ˩ ʁo˩mæ˩-ze˩!" | pi˧zo˩, | hĩ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥-mæ˩! |
+njɤ˧ zo˧ | njɤ˧ mv̩˥ F | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ɲi˥ | … ʝi˧ mɤ˧dʑɯ˧! |
+%fr 253
+Pas une fois (littéralement 'pas un jour') mes propres fils et filles n'ont eu pareil procédé!
+我的亲生儿女从未如此体贴入微！
+
+"no˧ | le˧-dʑɤ˩-ʝi˩, | æ˩sæ˥! | no˧ | njɤ˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɲi˧-ʂɯ˩ ʁo˩mæ˩-ze˩!" | pi˧zo˩, | hĩ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥-mæ˩! |
+%fr 254
 "Tu fais de bien belles actions, tu sais! Tu t'es occupée ainsi de moi à deux reprises!" Voilà ce qu'il a dit!
-yyyy trad
+“你做很多了不起的事，你知道吗？你已经这样照顾我两次了！” 他是这么说的。
 
-tʰi˩˥, | njɤ˧-ɳɯ˧ : | "ə˧v̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-mɤ˧-ɖo˧! | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩! | əəə … hĩ˧ mo˥=ɻ̩˩-ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩ | le˧-ʁo˧mæ˧, | le˧-ɖɯ˩ ɲi˩ mæ˩!
-Alors moi j'ai répondu: "Oncle, ne dites pas ça! Les jeunes, c'est tout naturel qu'ils prennent soin des personnes âgées! Les personnes âgées, ce sont elles qui ont pris soin des jeunes, qui leur ont permis de grandir!
-yyyy trad
+tʰi˩˥, | njɤ˧-ɳɯ˧ : | “ə˧v̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-mɤ˧-ɖo˧!” |
+%fr 255
+Alors moi j'ai répondu: "Oncle, ne dites pas ça!"
+我回答说："舅舅，别这么说！”
 
-"no˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥!" | pi˧! |
+“kʰv̩˧pʰæ˥ tɕi˩-hĩ˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩!” |
+%fr 256
+"Les jeunes, c'est tout naturel qu'ils prennent soin des personnes âgées! (Littéralement: 'les jeunes sont à même de prendre soin des personnes âgées' (modalité radicale), ou 'les jeunes prennent soin des personnes âgées': modalité épistémique: comme en anglais 'young people will take care of older persons', sur le modèle de 'boys will be boys'.)
+“年轻人照顾老人是天经地义的事！”
+
+əəə … hĩ˧ mo˥=ɻ̩˩-ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩ | le˧-ʁo˧mæ˧, | le˧-ɖɯ˩ ɲi˩ mæ˩!
+%fr 257
+Les personnes âgées, ce sont elles qui ont pris soin des jeunes, qui leur ont permis de grandir!
+是老人照顾了年轻人，是老人让年轻人成长！
+
+"no˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥!" | pi˧; |
+%fr 258
 "Voilà ce qu'il faut dire / voilà comment il faut voir les choses!"
-yyyy trad
+你应该这样看！
 
-"mɤ˧-ɲi˩! | ʁwɤ˧-qo˧-ʈʂʰɯ˧, | hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩, | kʰv̩˧pʰæ˥tɕi˩-hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | -dʑo˩, | hĩ˧ mo˥hĩ˩ mɤ˩-sɯ˩-hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! |
-[Le vieil homme répond alors:] "Non! Au village, il y a beaucoup de personnes âgées, et beaucoup de jeunes personnes; et il y en a beaucoup qui ne prennent aucun soin des vieux! (littéralement: qui ne connaissent pas les vieux)
-yyyy trad
+"mɤ˧-ɲi˩! | ʁwɤ˧-qo˧-ʈʂʰɯ˧, | <hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩... | > kʰv̩˧pʰæ˥tɕi˩-hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | -dʑo˩, | hĩ˧ mo˥hĩ˩ mɤ˩-sɯ˩-hĩ˩, | dʑɤ˩pi˧ dʑo˧˥! |
+%fr 259
+[Le vieil homme répond alors:] "Oh que non! Au village, il y a <beaucoup de personnes âgées> beaucoup de jeunes personnes; et il y en a beaucoup qui ne prennent aucun soin des vieux! (littéralement: "qui ne connaissent pas les vieux")
+老人回答说：“不，你不能这么说！村里有很多年轻人，他们中的很多人都不关心老人！(字面意思是 “不知道老人、不认识老人”。）
 
-"no˩-dʑo˥, | no˧=ɻ̩˩ | <ə˧ʑi˧-mo˥-ɳɯ˩> | ə˧ʑi˧-ɳɯ˥ | so˧ʝɤ˩ dʑɤ˩ (on pouɻɻɑit diɻe: so˧lo˧ | dʑɤ˩˥, même sens), | ə˧-sɯ˥! |
-"Toi, tu as bien retenu les leçons de ta grand-mère, tu sais!
-yyyy trad
+"no˩-dʑo˥, | no˧=ɻ̩˩ | <ə˧ʑi˧-mo˥-ɳɯ˩> | ə˧ʑi˧-ɳɯ˥ | so˧ʝɤ˩ dʑɤ˩, | æ˩-sæ˥! |
+%fr 260
+%fr En lieu et place de /so˧ʝɤ˩ dʑɤ˩/, on pourrait dire /so˧lo˧ | dʑɤ˩˥/; le sens est très proche.
+"Toi, tu as bien retenu les leçons de ta grand-mère, tu sais!"
+“你呢，你跟你奶奶学得很好，知道吗？”
 
-"no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!" | pi˧-kv̩˩! |
-yyyy reporter dans le dictionnaire: so˧jɤ˩ ama.
-so˧jɤ˩ dʑɤ˩: avoir de bons principes, avoir une bonne éducation
-contraire: ʈʂʰɯ˧=ɻ̩˩, | so˧jɤ˩ mɤ˧-dʑɤ˩! cette famille-là, elle n'a pas de bons principes!
-"Dans votre famille, vous avez de bons principes!"
-yyyy trad
+“no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!” | pi˧-kv̩˩! |
+%fr 261
+%fr /so˧jɤ˩ dʑɤ˩/: 'avoir de bons principes, avoir une bonne éducation'
+"Dans votre famille, vous avez de bons principes!" a-t-il dit.
+他说：“你的家庭有很好的原则。”
 
-njɤ˧=ɻ̩˩-dʑo˩, | gɯ˩-ʝi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ | dʑo˩ | dʑɤ˩-ɲi˥! |  hĩ˧ mo˥-hĩ˩ | ʈʂʰɯ˩-tɕɯ˩, | ʈʰææ̃˧ | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! |
-Nous autres, vrai de vrai, autrefois, on considérait que c'était une bonne chose de prendre exemple sur les autres! Et les vieilles personnes... effectivement, on prenait soin des vieilles personnes!
-yyyy trad
+njɤ˧=ɻ̩˩-dʑo˩, | gɯ˩-ʝi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ ◊ dʑo˩ | dʑɤ˩-ɲi˥! |
+%fr 262
+%fr Avais d'abord interprété cet énoncé comme: "on considérait que c'était une bonne chose de prendre exemple sur les autres".
+Nous autres, vrai de vrai, autrefois, on donnait une bonne éducation!
+在过去，我们确实给人们提供了良好的教育！
 
-əəə … "zo˧mv̩˥ ʁo˩mæ˩-zo˩-kv̩˩! | ɑ˩pʰo˩ kʰi˥-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩", | pi˧-zo˩. |
-"Il faut prendre soin des enfants! (Et) quand on est de sortie, il faut prendre soin des personnes âgées", qu'on disait.
-yyyy trad
+hĩ˧ mo˥-hĩ˩ ʈʂʰɯ˩-tɕɯ˩... | ʈʰææ̃˧ | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! |
+%fr 263
+Les vieilles personnes... vrai de vrai, on prenait soin des vieilles personnes!
+老人......真的，我们照顾老人！
 
-njɤ˧ | ə˧si˧ tʰv̩˧-v̩˧-ɳɯ˩ | qʰɑ˩ne˩˥ | ʐwɤ˩-kv̩˩˥ | mæ˩! | ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | "no˧=ɻ̩˩ | dʑɤ˩ ɲi˥! | no˧ | so˧hwɤ˩ | le˧-dʑɤ˩-ʝi˩! | no˧ | o˧ | hɤ˩-ze˥!", | wɤ˩˥, | ʈʂʰɯ˧-ʂɯ˧ | njɤ˧ | go˧-li˧-tsʰɯ˩, | pi˧-zo˩. |
-"no˧ li˧-tsʰɯ˩-ze˩!"
-go˧ li˧ tsʰɯ˩: 去看病人
-Ma grand-mère, qu'est-ce qu'elle savait bien parler! De la sorte... "Vous, vous êtes des gens bien! Toi, dorénavant, fais de bonnes choses/pratique le bien! Toi, oh, tu vas avoir une belle vie/tu seras quelqu'un de bien!" De sorte que cette fois-là, j'étais allée rendre visite au malade.
+əəə … "zo˧mv̩˥ ʁo˩mæ˩-zo˩-kv̩˩! | ɑ˩pʰo˩ kʰi˥-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩", | pi˧-zo˩, |
+%fr 264
+"Il faut prendre soin des enfants! (Et) quand on est de sortie, il faut prendre soin des personnes âgées":
+“必须照顾孩子！出去到外边的时候，得照顾老人！”
+
+njɤ˧ | ə˧si˧ tʰv̩˧-v̩˧-ɳɯ˩ | qʰɑ˩ne˩˥ | ʐwɤ˩-kv̩˩˥ | mæ˩! |
+%fr 265
+Ma grand-mère, qu'est-ce qu'elle nous le répétait[, ce bon principe]!
+我的祖母经常这样对我们说！
+
+ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | "no˧=ɻ̩˩ | dʑɤ˩ ɲi˥! | no˧ | so˧hwɤ˩ | le˧-dʑɤ˩-ʝi˩! |
+De la sorte... "Vous, vous êtes des gens bien! Toi, dorénavant, fais de bonnes choses/pratique le bien!
+
+no˧ | o˧ | hɤ˩-ze˥!", | wɤ˩˥, | ʈʂʰɯ˧-ʂɯ˧ | njɤ˧ | go˧li˧-tsʰɯ˩, | pi˧-zo˩. |
+%fr 266
+%go˧ li˧ tsʰɯ˩: 来看病人
+ Toi, oh, tu vas avoir une belle vie/tu seras quelqu'un de bien!" De sorte que cette fois-là, j'étais allée rendre visite au malade.
 yyyy trad
 
 tsʰo˩mo˩ tʰv̩˩-ʝɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-njɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |
 Ce vieil homme, voilà comment il me parlait sans cesse!
 yyyy trad
 
-tʰi˩˥, | njɤ˧ | "ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧-dʑo˧˥! | ə˧pʰv̩˧! | <no˧ | le˧-tsʰɯ˩-ɲi˩!> | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pv̩˩-kʰɯ˩-ɲi˩!" | pi˧, |
+tʰi˩˥, | njɤ˧ | "ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧-dʑo˧˥! | ə˧pʰv̩˧! | <no˧ | le˧-tsʰɯ˩-ɲi˩!> | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pɻ̩˩-kʰɯ˩-ɲi˩!" | pi˧, |
 %fr /go˧li˧/: 看病
-%fr que signifie ici /pv̩/? est-ce: 'accompagner', comme dans hĩ˧bæ˧ pv̩˥? ɭɑ foɻmule /go˧li˧ pv̩˩-kʰɯ˩-ɲi˩/ est équivɑlente à /go˧li˧ kʰi˧˥-ɲi˩/ ɻéponse: est: 让
-oɻdinɑteuɻ: dʑɯ˧ | pv̩˩-tʰɑ˩-kʰɯ˥! il ne doit pɑs entɻeɻ d'eɑu! ensuite: ooo! tjɤ˧no˥-qo˩ | dʑɯ˧ | hɯ˧-ze˧! de l'eɑu s'est intɻoduite dɑns l'oɻdinɑteuɻ! (dɑns l'oɻdinɑteuɻ); positif: dʑɯ˧ | pv̩˩-kʰɯ˧ Est le sens pvLa2, “让”
-go˧li˧ | pv̩˩-tʰɑ˩-kʰɯ˥! si on n'ɑime pɑs qqn: ne vɑ pɑs lui ɻendɻe visite!
-%fr ɑ˩ʁo˧-ɳɯ˧ | pv̩˩-kʰɯ˥ ɲi˩! je vɑis t'ɑccompɑgneɻ!
-différent de : hĩ˧bæ˧ pv̩˥ kʰi˩ (ou: hɯ˩) ɲi˩! je suis allé raccompagner l'hôte! / hĩ˧ pv̩˥! hĩ˧bæ˧ le-pv̩˩-hɯ˩-ze˩!
+%fr /pɻ̩˩/ ne signifie pas ici 'raccompagner', comme dans /hĩ˧bæ˧ pv̩˥/ 'raccompagner un hôte'. La formule /go˧li˧ pv̩˩-kʰɯ˩-ɲi˩/ est équivalente à /go˧li˧ kʰi˧˥-ɲi˩/: /pɻ̩˩/ est un causatif, proche équivalent du chinois 让.
 Alors, moi, je répondais: "Houlà! (Mais je ne mérite pas tant de compliments:) je n'ai rien amené du tout / je suis venue les mains vides! Grand-père! Ma famille m'a envoyée pour vous accompagner pendant votre maladie! 我家让我陪您
 yyyy trad
 
-élicitation:
-hɑ˧ | dzɯ˧ pv̩˥-kʰɯ˩
-̩ʈʂʰɯ˧-ɳɯ˧ | hwæ˧ pv̩˩-kʰɯ˩.
-̩ʈʂʰɯ˧-ɳɯ˧ | tɕʰi˧ pv̩˩-kʰɯ˩.
-̩ʈʂʰɯ˧-ɳɯ˧ | bi˧ pv̩˩-kʰɯ˩.
-̩ʈʂʰɯ˧-ɳɯ˧ | dze˩ pv̩˩-kʰɯ˥.
-̩ʈʂʰɯ˧-ɳɯ˧ | lɑ˧ pv̩˥-kʰɯ˩.
-̩ʈʂʰɯ˧-ɳɯ˧ | ʐwɤ˩ pv̩˩-kʰɯ˥
-ʐɯ˧ | ʈʰɯ˩ pv̩˩-kʰɯ˥
 
 æ̃˩mi˥ po˩-kʰi˩, | tʰv̩˧-ɲi˥! | dze˧ … | ə˧ʝi˧-ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ɭɯ˧ po˧˥! |
 J'avais amené une poule, ce jour-là! Du sucre... Autrefois, on n'avait que des blocs de sucre roux, n'est-ce pas! J'amenais un pain de sucre roux!

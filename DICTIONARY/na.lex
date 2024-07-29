@@ -8518,7 +8518,7 @@
 \cf dv̩˩α2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" langue="fra" print="n"> (vérifié, n'est pas m4)
+\nt <type="hist" langue="fra" print="n"> Vérifié, ce mot n'appartient pas à la catégorie tonale m4.
 \nt <type="hist" langue="fra" print="n"> Ton LM confirmé (type “porc").
 \ton LM
 \lc dv̩˩˥
@@ -10756,7 +10756,7 @@
 \df Grêle.
 \gf grêle
 \xv dzo˧ lɑ˩
-\xe to hail; it hails
+\xe to hail
 \xn 下冰雹
 \xf grêler; il grêle
 \xv dzo˧ gi˧-ze˩
@@ -31592,11 +31592,16 @@
 \xe |fg{dur} 〜 |fg{prog}
 \xn 正在看
 \xf |fg{dur} 〜 |fg{prog}
+\xc PHONO
 \xv tso˧~tso˧ li˩
 \xe to look at things
 \xn 看东西
 \xf regarder des choses
 \xc PHONO
+\xv no˧ li˧-tsʰɯ˩-ze˩!
+\xe I'm here to visit you! / I've come to see you!
+\xn 我来看你了。
+\xf Je viens te rendre visite!
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -36707,11 +36712,11 @@
 \dn 木地箐／木底箐（一座山与山上的村落）
 \gn 木地箐
 \df La montagne Muddee (Mudiqing, Yongning). Elle était habitée par des Pumi.
-\gf montagne_Muddeeq
+\gf montagne_Muddee
 \xv mv̩˧ɖɯ˩-qo˩qɑ˩
-\xe The pass of Mount Muddeeq (Mudiqing), in Yongning
+\xe The pass of Mount Muddee (Mudiqing), in Yongning
 \xn 木地箐垭口
-\xf Le col de la montagne Muddeeq de Yongning
+\xf Le col de la montagne Muddee de Yongning
 
 \lx mv̩˧dze˧
 \sf <nb="B"> 1979b
@@ -38527,9 +38532,9 @@
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To oppress.
+\de To oppress, to overwhelm, to crush with authority, to impose by violence.
 \ge to_oppress
-\dn 压迫
+\dn 压迫、压倒、用权威压垮、用暴力强加。
 \gn 压迫
 \df Opprimer, accabler, écraser de son autorité, en imposer par la violence.
 \gf opprimer
@@ -38537,7 +38542,6 @@
 \xe to steal and oppress (description of a despot's behaviour)
 \xn 偷和迫（描述专制统治者的行为）
 \xf voler et oppresser (description du comportement d'un despote)
-\dt 04/Sep/2015
 
 \lx ɳæ˥
 \sf <nb="B"> 1230
@@ -46695,6 +46699,23 @@
 \xe to see a guest off
 \xn 送客
 \xf raccompagner un invité
+\xv hĩ˧ pɻ̩˥
+\xe to see someone off
+\xn 送人
+\xf raccompagner quelqu'un
+\xc PHONO
+\xv hĩ˧bæ˧ pɻ̩˥ kʰi˩ ɲi˩!
+\xe I went to see a guest off!
+\xn 我去送客了！
+\xf Je suis allé raccompagner un hôte!
+\xv hĩ˧bæ˧ pɻ̩˥ hɯ˩ ɲi˩!
+\xe (S)he went to see a guest off!
+\xn 他去送客了！
+\xf Elle est allée raccompagner un hôte!
+\xv hĩ˧bæ˧ le-pɻ̩˩-hɯ˩-ze˩!
+\xe As above.
+\xn 同上
+\xf Idem ci-dessus.
 
 \lx pɻ̩˩α
 \hm 2
@@ -46727,6 +46748,19 @@
 \xe Water must not get in! (Context: about precautions taken so that a laptop computer carried around in a plain cloth bag does not get damaged by rain water leaking into the computer.)
 \xn 不让水进去！（情景：一台笔记本电脑，在布袋子里拿来拿去，要注意不让雨水进去，以免发生意外。）
 \xf Il ne faut pas y laisser entrer d'eau! / Il ne faut pas laisser l'eau s'y mettre! (Contexte: au sujet de précautions prises afin qu'un ordinateur portable, porté dans un simple sac en toile, ne soit pas abîmé par la pluie.)
+\xv dʑɯ˧ | pɻ̩˩-kʰɯ˥
+\xe Reformulation of the previous example without the prohibitive morpheme: to let water in, to allow water to enter, to cause water to enter
+\xn 前一个例子的改写，去掉了禁止式语素：让水进来，让水进入
+\xf Reformulation de l'exemple précédent sans le morphème prohibitif: faire entrer de l'eau, laisser de l'eau entrer
+\xc PHONO
+\xv ɑ˩ʁo˧-ɳɯ˧ | pɻ̩˩-kʰɯ˥ ɲi˩!
+\xe My family sent me (to you)!
+\xn 我的家人让我（来找您）！
+\xf C'est ma famille qui m'envoie (auprès de vous)!
+\xv go˧li˧ | pɻ̩˩-tʰɑ˩-kʰɯ˥!
+\xe Don't send him to visit that sick person! (Context: someone is ill; someone in the family is thinking of sending one of the children to visit them; they are told not to do so, for example because it would lead to misunderstanding, or because it is not advisable in view of relations between the two families.)
+\xn 别让他去看望病人！(语境：有人生病了；家里有人想让一个孩子去看望他；另一个人回答：不要这么做，比如因为这会导致误解，或者因为两家的关系不适合这么做。）
+\xf Ne l'envoie pas rendre visite au malade! (Contexte: une personne est malade; quelqu'un dans la famille songe à envoyer un des enfants lui rendre visite; on lui répond de n'en rien faire, par exemple parce que cela prêterait à malentendu, ou parce que les relations entre les deux familles ne s'y prêtent pas.)
 
 \lx pɻ̩˩α
 \sf <nb="B"> 1503
@@ -53703,6 +53737,26 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf C'est achevé!
 \dt 06/Jun/2017
 
+\lx tjɤ˧no˥
+\or waezi
+\bw <langue="cmn"> 电脑
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\ton H#
+\lc tjɤ˧no˥
+\so <print="n"> F4
+\de Computer.
+\ge 电脑::computer
+\dn 电脑
+\gn 电脑（借词）
+\df Ordinateur.
+\gf 电脑::ordinateur
+\xv ooo! tjɤ˧no˥-qo˩ | dʑɯ˧ | hɯ˧-ze˧!
+\xe Ouch, ouch, ouch: water has got into the computer! (Laptops are transported to various places, which increases the risk of an accident: spilt drink, exposure to the rain...)
+\xc 哎哟、哎哟、哎哟：电脑进水了！(笔记本电脑被运到不同的地方，这增加了发生事故的风险：饮料打翻、淋雨......）
+\xf Aïe, aïe, aïe: de l'eau s'est introduite dans l'ordinateur! (Les ordinateurs portables sont transportés à diverses endroits, ce qui augmente le risque d'accident: boisson renversée, exposition à la pluie...)
+
 \lx ʁwæ˧tsɯ˥
 \sf <nb="B"> 435
 \sf <nb="2011"> 555
@@ -53715,12 +53769,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁwæ˧tsɯ˥
 \so <print="n"> F4
 \de Socks.
-\ge socks
+\ge 袜子::socks
 \dn 袜子
-\gn 袜子
+\gn 袜子（借词）
 \df Chaussettes.
-\gf chaussettes
-\dt 02/Oct/2015
+\gf 袜子::chaussettes
 
 \lx ʁwɤ˧
 \sf <nb="B"> 28a
@@ -57975,6 +58028,34 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
 
+\lx so˧jɤ˩
+\or soye rrrr
+\ps n
+\ton L#
+\lc so˧jɤ˩
+\cf so˩α2
+\so <print="n"> F4
+\de Principles, teachings.
+\ge principles
+\dn 道德原则、道德准则
+\gn 道德原则
+\df Principes, enseignements.
+\gf principes
+\xv so˧jɤ˩ dʑɤ˩
+\xe to have good principles, to have a good education, to be well brought up
+\xn 有良好的原则、接受良好的教育、受到良好的培养
+\xf avoir de bons principes, avoir une bonne éducation, être bien élevé
+\xv “no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!” | pi˧-kv̩˩. |
+\xe “You have good principles in your family,” he said.
+\xn 他说：“你的家庭有很好的原则。”
+\xf «Dans votre famille, vous avez de bons principes!» a-t-il dit.
+\txt Benevolence.261
+\doi zzzzAttributionÀVenir
+\xv ʈʂʰɯ˧=ɻ̩˩, | so˧jɤ˩ | mɤ˧-dʑɤ˩!
+\xe That family doesn't have exemplary habits. They don't instil good principles in their members.
+\xn 那个家庭没有模范习惯。他们没有向家庭成员灌输良好的原则。
+\xf Cette famille-là, elle n'a pas des habitudes exemplaires / elle n'inculque pas les bons principes à ses membres.
+
 \lx so˧α
 \or so
 \ps clf
@@ -60221,7 +60302,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
 \xn 黄蜡伞不怎么会让人中毒！/ 毒性不太大！
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
-\txt Mushrooms
+\txt Mushrooms.12
 \doi 10.24397/pangloss-0005662#S12
 \xv mv̩˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! |
 \xe Barley flour is not too tasty! / Barley flour does not taste very good!
@@ -61601,7 +61682,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> le prohibitif est un préfixe, le verbe de modalité “être possible" est un suffixe.
+\nt <dom="sem" langue="fra"> Le prohibitif est un préfixe, le verbe de modalité “être possible" est un suffixe.
 \ton M
 \lc tʰɑ˧
 \so <print="n"> F4
