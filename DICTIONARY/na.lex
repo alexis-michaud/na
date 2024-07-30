@@ -11413,17 +11413,17 @@
 \so <print="n"> F4
 \de Zzhege, a family name from Yongning. There are two families in Yongning that carry this name.
 \ge Zzhege
-\dn 一个姓。这个姓，永宁有两家
-\gn 一个姓
+\dn 一个姓。这个姓，永宁有两家。音译：哲格。
+\gn 哲格
 \df Zzhege, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
 \gf clan_Zzhege
 \xv ɖʐɤ˩kɤ˧=ɻ̩˥$
 \xe the |fv{/ɖʐɤ˩kɤ˥$/} clan
-\xn |fv{/ɖʐɤ˩kɤ˥$/}家族
+\xn 哲格家族
 \xf le clan |fv{/ɖʐɤ˩kɤ˥$/}
 \xv ɖʐɤ˩kɤ˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Zzhege; they make up one clan!
-\xn 姓|fv{/ɖʐɤ˩kɤ˥$/}的，有两家，形成一个家族！
+\xn 姓哲格的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Zzhege; elles constituent un clan!
 
 \lx dʑɤ˩kʰwɤ˧
@@ -11714,11 +11714,10 @@
 \so <print="n"> F4
 \de Jjacee Ddeema, a feminine given name.
 \ge Jjacee_Ddeema
-\dn 女性名字
-\gn 女性名字
+\dn 甲次独玛：一个女性名字
+\gn 甲次独玛
 \df Jjacee Ddeema, un prénom féminin.
 \gf Jjacee_Ddeema
-\dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
 \or jjaceezeemu
@@ -11750,13 +11749,13 @@
 \so <print="n"> F4
 \de Jjacee, a given name.
 \ge Jjacee
-\dn 名字
-\gn 名字
+\dn 甲次：一个名字（还音译为‘加次’）。
+\gn 甲次
 \df Jjacee, un prénom.
 \gf Jjacee
 \xv dʑɤ˩tsʰi˧-mi#˥
 \xe A given name. (This is the given name of the main consultant's mother.)
-\xn 阿妈（合作人）的母亲的名字
+\xn 甲次咪：一个名字。这个名字，是第二作者的母亲的名字。
 \xf Nom propre. Il était porté par la mère de Ama.
 
 \lx dʑɤ˩tsʰo˧
@@ -14573,7 +14572,7 @@
 \xf le clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧ | dʑɤ˩tsʰi˧
 \xe The person called Jjacee |fv{/dʑɤ˩tsʰi#˥/}, of the Eggo |fv{/ə˧go˧/} clan
-\xn |fv{/ə˧go˧/} 家族名叫|fv{/dʑɤ˩tsʰi#˥/}那个人
+\xn |fv{/ə˧go˧/} 家族名叫甲次那个人
 \xf la personne prénommée Jjacee |fv{/dʑɤ˩tsʰi#˥/}, du clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧=ɻ˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
 \xe There are three families carrying the name Eggo |fv{/ə˧go˧/}; they make up one clan!
@@ -30884,7 +30883,7 @@
 
 \lx ɬi˧bv̩˩ | dʑɤ˩tsʰi˧si#˥
 \sf <nb="2011"> 3110
-\or lhibbu  jjaceesee
+\or lhibbu jjaceesee
 \ps n
 \lc ɬi˧bv̩˩dʑɤ˩tsʰi˧si˧
 \sd <langue="fra"> plante
@@ -80475,7 +80474,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf |fg{top.nouveau}
 \xv ɖɯ˩mɑ˧ | -læ˧…
 \xe Concerning (my granddaughter) |fv{ɖɯ˩mɑ˧}, …
-\xn 关于独妈呢，……
+\xn 关于独玛呢，……
 \xf pour ce qui est de ma petite-fille |fv{ɖɯ˩mɑ˧}, eh bien…
 \xv lɑ˩mv̩˩˥ | -læ˧…
 \xe Concerning |fv{lɑ˩mv̩˩˥} [a given name], …
