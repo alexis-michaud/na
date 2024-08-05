@@ -11442,10 +11442,11 @@
 \gf distance
 \xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | - dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
 \xe Are you distant from him? Is there distance (between you)? - There is not much distance to speak of! We are not distant! (=we are close friends)
-\xn 你们很熟吗？/ 你们很亲吗？ - 不很熟！/ 不很亲！
-\xf tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
-\xc <type="hist" print="n" langue="fra"> Avant 2015: noté: /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/; dans ce contexte, il est plus approprié d'unir en un seul groupe tonal.
-\xc <type="hist" print="n" langue="fra"> Avant 2024: noté: /ə˩-ʐæ˥ʂæ˩/.
+\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） - 没什么距离！（我们）比较近，不远！
+\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
+\xc <langue="fra" type="hist" print="n" dom="ton"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
+\xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: noté: /ə˩-ʐæ˥ʂæ˩/.
+\rf M18
 
 \lx dzo˧-lv̩˧~lv̩˥
 \sf <nb="B"> 15b
@@ -15430,13 +15431,12 @@
 \ton H#-
 \lc ə˧ti˥dzi˩
 \so <print="n"> F4
-\de The city of Weixi, in Yunnan.
+\de The county of Weixi, in Yunnan.
 \ge Weixi
-\dn 维西
+\dn 云南维西
 \gn 维西
-\df Weixi (localité du Yunnan).
+\df Weixi (comté du Yunnan).
 \gf Weixi
-\dt 13/Jun/2017
 
 \lx ə˧tse˥$
 \sf <nb="B"> 908b
@@ -15474,7 +15474,7 @@
 \xe As above.
 \xn 同上。
 \xf Idem ci-dessus.
-\xv ʈʂʰɯ˧ | ə˧tse˧-ɲi˥-hɯ˩?
+\xv ʈʂʰɯ˧ | ə˧tse˧ ɲi˥-hɯ˩?
 \xe What does that mean?
 \xn 这是怎么一回事？
 \xf Qu'est-ce que ça veut dire?
@@ -17791,7 +17791,7 @@
 \xe Really!
 \xn 真的。／原来是这样。
 \xf Oui, vrai de vrai! / C'est bel et bien vrai!
-\xc <dom="phono"> [gi˩˥ | gɯ˩˥]
+\xc <dom="phono"> [|fv{gi˩˥ | gɯ˩˥}]
 \xv gɯ˩ ʂv̩˩ɖv̩˩˥
 \xe to believe in (something); literally: ‘to think (that something is) true'
 \xn 相信
@@ -18451,7 +18451,7 @@
 \xe So you are back from a stroll! / You are back from your little walk, eh?
 \xn 你已经散步回来了！
 \xf (tu) reviens de promenade!/ Alors comme ça te voilà revenu de ta promenade!
-\xc <dom="phono"> [læ˧-tsʰɯ˩]
+\xc <dom="phono"> [|fv{læ˧-tsʰɯ˩}]
 \xv ʈʂʰɯ˧ | gwɤ˩~gwɤ˩-hɯ˩-ze˥!
 \xe (S)he has gone out for a walk!
 \xn 他散步去了！
@@ -75834,6 +75834,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 高大
 \df Grand et fort, massif, baraqué.
 \gf grand_et_fort
+\xv ʐæ˧ | ʐwæ˩˥
+\xe very tall and big
+\xn 很高大
+\xf très grand et fort
 \xv ʐæ˧-ni˩gv̩˩
 \xe tall and big; great; impressive
 \xn 高大
@@ -75842,15 +75846,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe This person looks impressive / tall and big!
 \xn 这人很高大！
 \xf Elle/il est grand(e) et fort(e) / impressionnant(e)!
-\xv ʐæ˧ni˩ | mɤ˧-gv̩˧
+\xv ʐæ˧-ni˩ | mɤ˧-gv̩˧
 \xe not tall, not impressive, not great-looking
 \xn 个子不高
 \xf pas bien grand (en taille), pas bien impressionnant
-\xv ʐæ˧ | ʐwæ˩˥
-\xe very tall and big
-\xn 很高大
-\xf très grand et fort
-\dt 27/Apr/2017
 
 \lx ʐæ˩β
 \sf <nb="B"> 1637
@@ -75999,9 +75998,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf lointain
 \xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | - dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
 \xe Are you distant from him? Is there distance (between you)? - There is not much distance to speak of! We are not distant! (=we are close friends)
-\xn 你们很熟吗？ - 不很熟！
-\xf tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne somme pas éloignés!
-\xc <langue="fra" type="hist" print="n" dom="phono"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
+\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） - 没什么距离！（我们）比较近，不远！
+\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
+\xc <langue="fra" type="hist" print="n" dom="ton"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
+\xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: noté: /ə˩-ʐæ˥ʂæ˩/.
 \rf M18
 
 \lx ʐæ˩sɯ˩
@@ -76040,6 +76040,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 525
 \or raesi khuae'er
 \ps n
+\ets ʐæ˩sɯ˩
+\ets kʰwæ˧ɻæ#˥
 \lc ʐæ˩sɯ˩kʰwæ˩ɻæ˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -76087,9 +76089,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra" print="n"> (notation 2009; en 2007, noté ˥ ˩ ˩; en 2006, avais noté: ʐæ˥ v̩˧ tʰv̩˩; hésitais déjà à transcrire ˥˩˩)
-\nt <dom="sem" langue="fra"> Pas d'utilisation comme nom: ‡ʐæ˧v̩˩; ex.: ‡ʐæ˧v̩˩ ʐwɤ˩
+\nt <dom="sem" langue="fra"> On ne peut isoler un disyllabe /‡ʐæ˧v̩˩/, ni l'associer à d'autres verbes, par exemple pour former /‡ʐæ˧v̩˩ ʐwɤ˩/ ‘dire des blagues’.
 \ton L#-
 \lc ʐæ˧v̩˩tʰv̩˩
+\cf ʐæ˧α
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -76161,13 +76164,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc zɑ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" langue="fra" print="n"> (confirmé en 2012: est un ton L)
+\nt <type="hist" dom="ton" langue="fra" print="n"> Confirmé en 2012: est un ton L.
 \ton Lα
 \so <print="n"> F4
 \de To go downward (a mountain), to descend.
 \ge to_descend
-\dn 下(山……)
-\gn 下(山……)
+\dn 下（山……）
+\gn 下（山……）
 \df Descendre (redescendre de la montagne).
 \gf descendre
 \xv ʁwɤ˩ zɑ˩˥
@@ -76184,7 +76187,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 下来一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx ʐæ˧α
 \sf <nb="B"> 1584
@@ -76207,14 +76209,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 笑
 \df Rire.
 \gf rire
-\xv zo˧hṽ̩˥ | hĩ˧ ʐæ˧~ʐæ˥-kʰɯ˩
-\xe The kids make people laugh
-\xn 孩子们把大家逗笑了。
-\xf les enfants taquinent les gens, les font rire
-\xv hĩ˧ | ʐæ˧~ʐæ˥ kʰɯ˩
+\xv hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
 \xe to make people laugh, to amuse people
 \xn 让大家笑一笑
 \xf faire rire les gens, amuser les gens, faire rire le public
+\xv zo˧hṽ̩˥ | hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
+\xe The kids make people laugh
+\xn 孩子们把大家逗笑了。
+\xf les enfants taquinent les gens, les font rire
 \xv ʐæ˧~ʐæ˩-di˩
 \xe jokes, funny talk
 \xn 笑话，好笑的话
@@ -76224,25 +76226,27 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ge to_make_fun_of
 \dn 嘲笑别人、出言不逊
 \gn 嘲笑
-\df Être impertinent, déranger, se moquer du monde.
+\df Être impertinent, déranger, se moquer.
 \gf se_moquer_de
-\xv le˧-ʐæ˧-ze˧
-\xe |fg{accomp} 〜 |fg{pfv}
-\xn 实施 〜 整体体：出言不逊了
-\xf |fg{accomp} 〜 |fg{pfv}
-\xv le˧-ʐæ˥~ʐæ˩
-\xe |fg{red}
-\xn 笑一笑（别人）
-\xf |fg{red}
 \xv hĩ˧ ʐæ˩
 \xe to make fun of other people
 \xn 嘲笑人家
 \xf être impertinent avec les gens, déranger les gens
+\xv le˧-ʐæ˧-ze˧
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 实施 〜 整体体：出言不逊了
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
+\xv le˧-ʐæ˥~ʐæ˩
+\xe |fg{red}
+\xn 笑一笑（别人）
+\xf |fg{red}
+\xc PHONO
 \xv le˧-ʐæ˥~ʐæ˩-ze˩
 \xe |fg{red} |fg{pfv}
 \xn 嘲笑了
 \xf |fg{red} |fg{pfv}
-\dt 27/Apr/2017
+\xc PHONO
 
 \lx ze˩
 \hm 2
@@ -76576,7 +76580,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ets jɤ˩ʐe˧
 \ets bæ˩bæ˩1
 \ec <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
-\ec <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word 'Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
+\ec <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -77429,14 +77433,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 路
 \df Route (monosyllabe).
 \gf route(monosyll.)
-\xv ʐɤ˩mi˩-qo˥
-\xe on the road, on the way
-\xn 路上
-\xf sur le chemin
-\xv ʐɤ˩mi˩-qo˥, | hĩ˧ se˧! |
-\xe People are walking on the road/path!
-\xn 路上有人走！
-\xf il y a des gens qui passent sur le chemin!
 \xv ʐɤ˩ se˩-zo˩˥
 \xe traveller, person who travels; specifically: person who does commerce by caravans
 \xn 旅人，特别指走马帮的商人
@@ -77658,6 +77654,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 路
 \df Route.
 \gf route
+\xv ʐɤ˩mi˩-qo˥
+\xe on the road, on the way
+\xn 路上
+\xf sur le chemin
+\xv ʐɤ˩mi˩-qo˥, | hĩ˧ se˧! |
+\xe People are walking on the road/path!
+\xn 路上有人走！
+\xf il y a des gens qui passent sur le chemin!
 \xv hĩ˧ | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧ | le˧-se˥, | ʐɤ˩mi˩ tsɤ˩˥!
 \xe People walk, one after the other, and they create a path! (Context: when people go to fell trees on the mountain, where there was no path before, their passage open a new path, whose traces remain visible and may become a customary path.)
 \xn 路是人走出来的！
