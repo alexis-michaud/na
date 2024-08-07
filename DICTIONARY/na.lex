@@ -6222,7 +6222,7 @@
 \or xepian
 \bw <langue="cmn"> 相片
 \ps n
-\cf pɤ˧
+\cf pɤ˥1
 \lc ɕjɤ˧pʰje˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -44435,6 +44435,7 @@
 \lc pɤ˧
 \so <print="n"> F4
 \va <speaker="M18"> *
+\sn 1
 \pdv pɤ˥
 \pdv pʰæ˧˥
 \de Drawing, painting.
@@ -44447,6 +44448,23 @@
 \xe to make a painting, to paint a painting
 \xn 作画，画一幅画
 \xf faire une peinture, réaliser une peinture
+\sn 2
+\pdv pʰæ˧˥
+\de Photo, photography.
+\ge photo
+\dn 相片，照片
+\gn 相片
+\df Photo, photographie.
+\gf photo
+\xv pɤ˧ lɑ˩
+\xe to take pictures
+\xn 拍照片
+\xf prendre des photos
+\xc <type="hist" langue="fra" print="n"> En 2006: noté ˧ ˩; en 2007: corrigé à tort en ˥ ˩, puis rétabli en ˧ ˩.
+\xv pɤ˧ | ɖɯ˧-pʰæ˧ lɑ˥ ə˩-bi˩?
+\xe Shall we take a picture?
+\xn 拍一张照片吧？
+\xf On fait une photo?
 
 \lx pʰo˧˥
 \sf <nb="B"> 1286
@@ -44883,33 +44901,6 @@
 \gn 馒头蒸笼
 \df Étuve pour cuire la pâte/le pain.
 \gf étude_pour_petits_pains
-
-\lx pɤ˧
-\sf <nb="B"> 633b
-\sf <nb="2011"> 942
-\or be
-\ps n
-\lc pɤ˧
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
-\ton M
-\so <print="n"> F4
-\pdv pʰæ˧˥
-\de Photo, photography (newly coined word).
-\ge photo
-\dn 相片，照片
-\gn 相片
-\df Photo, photographie (néologisme).
-\gf photo
-\xv pɤ˧ lɑ˩
-\xe to take a picture
-\xn 拍照片
-\xf prendre une photo
-\xc <type="hist" langue="fra" print="n"> En 2006: noté ˧ ˩; en 2007: corrigé à tort en ˥ ˩, puis rétabli en ˧ ˩.
-\xv pɤ˧ | ɖɯ˧-pʰæ˧ lɑ˥ ə˩-bi˩?
-\xe Shall we take a picture?
-\xn 拍一张照片吧？
-\xf On fait une photo?
 
 \lx pʰo˩lɑ˧˥
 \or pola
