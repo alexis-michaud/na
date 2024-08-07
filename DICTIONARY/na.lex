@@ -19059,13 +19059,12 @@
 \lc hæ̃˧kʰɤ˧˥
 \so <print="n"> F4
 \pdv ɭɯ˧β
-\de Rafter; beam.
+\de Rafter: a piece of wood placed at an angle, in the direction of the width of the building, on the horizontal beams, |fv{ʐv̩˩ɭɯ˥}. The tiles (formerly planks) rest on these beams. In technical terms: the rafter is a piece of wood placed on the purlins (ridge and platform).
 \ge rafter
 \dn 椽子
 \gn 椽子
-\df Pièce de charpente: poutrelles de toiture: poutrelles courtes, installées en inclinaison, dans le sens de la largeur du bâtiment, sur les poutres horizontales, |fv{ʐv̩˩ɭɯ˥}. Les tuiles (autrefois: les planches) reposent sur ces poutrelles.
-\gf poutrelles_de_toiture
-\dt 13/Jun/2017
+\df Chevron. Pièce de charpente: poutrelle de toiture, installée en inclinaison, dans le sens de la largeur du bâtiment, sur les poutres horizontales, |fv{ʐv̩˩ɭɯ˥}. Les tuiles (autrefois: les planches) reposent sur ces poutrelles. En termes techniques: le chevron est une pièce de bois posée sur les pannes (faîte et plate-forme).
+\gf chevron
 
 \lx hæ˧ɭɯ#˥
 \sf <nb="2011"> 3059
@@ -28190,7 +28189,7 @@
 \xe You have the face of a thief! / You really look like a thief! (An accusation about someone one thinks is a thief)
 \xn 你有一张贼脸！（控告一个人）
 \xf Toi, tu m'as une tête de voleur! (accusation lancée à quelqu'un qu'on pense être un voleur)
-\xc <langue="fra" dom="phono"> La syllabe /-ʝi˩/ est particulièrement discrète phonétiquement. (Elle avait amené, avant 2014, à noter /|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.) Sa forte réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, si la langue continue d'être transmise: cela donnerait /|fv{no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.
+\xc <langue="fra" dom="phono"> La syllabe /|fv{-ʝi˩}/ est particulièrement discrète phonétiquement. (Elle avait amené, avant 2014, à noter /|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.) Sa forte réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, si la langue continue d'être transmise: cela donnerait /|fv{no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/.
 \xc <dom="phono" langue="eng"> The syllable /|fv{-ʝi˩}/ is phonetically reduced (which had led, prior to 2014, to a notation /|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/). Its reduction could easily lead to reinterpretation in the next generation, as /|fv{-ne˩-zo˩}/, if the language continues to be transmitted.
 \xc <dom="phono" langue="cmn"> /|fv{-ʝi˩}/音节的弱化很强（2014年之前，这种弱化导致了此短语被听成/|fv{‡no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-zo˩}/）。如果语言继续流传下去，很容易在下一代简化为/|fv{-ne˩-zo˩}/。
 \xv kʰv̩˧mæ˧-ne˩-ʝi˩-zo˩! | hĩ˧ ʈʂæ˩-ho˩!
@@ -28961,7 +28960,7 @@
 \ge medium_sized_beam
 \dn 中等大小的梁
 \gn 中等大小的梁
-\df Poutre intermédiaire: pièce de charpente horizontale, posée sur une poutre maîtresse, et soutenant deux des poutres du toit, /ʐv̩˩ɭɯ˧/.
+\df Poutre intermédiaire: pièce de charpente horizontale, posée sur une poutre maîtresse, et soutenant deux des poutres du toit, /|fg{ʐv̩˩ɭɯ˧/}/.
 \gf poutre_intermédiaire
 \dt 04/Sep/2015
 
@@ -44254,7 +44253,7 @@
 \xv lwɤ˧˥ | ɖɯ˧ pi˧˥
 \xe a little ashes
 \xn 一点灰
-\xf un peu de cendre; on ne peut dire: ‡|fv{lwɤ˧-pi˥}, non plus que: ‡tsʰe˧-pi˩ (pour ‘un peu de sel’)
+\xf un peu de cendre; on ne peut dire: ‡|fv{lwɤ˧-pi˥}, non plus que: ‡|fv{tsʰe˧-pi˩} (pour ‘un peu de sel’)
 \xv ʈʂʰɯ˧ | ɖʐe˧ ɖɯ˧-pi˧ dʑo˧!
 \xe He has a little money! / He is rather affluent!
 \xn 他有一些钱！
@@ -49707,10 +49706,9 @@
 \df Classificateur des hameaux.
 \gf |fg{clf}.hameaux
 \xv ŋwɤ˧-qʰv̩˧, | tsʰe˧ɲi˧-ʑi˩
-\xe Five hamlets, twelve families! (This formula summarizes the statistics of the village of /ə˧lɑ˧-ʁwɤ#˥/)
+\xe Five hamlets, twelve families! (This formula summarizes the statistics of the village of /|fv{ə˧lɑ˧-ʁwɤ#˥}/)
 \xn 五个村落，十二个家庭！（描写阿拉瓦村的情况）
-\xf Cinq hameaux, douze familles! (Formule résumant la statistique du village de /ə˧lɑ˧-ʁwɤ#˥/)
-\dt 30/Apr/2017
+\xf Cinq hameaux, douze familles! (Formule résumant la statistique du village de /|fv{ə˧lɑ˧-ʁwɤ#˥}/)
 
 \lx qʰv̩˩~qʰv̩˧˥
 \sf <nb="B"> 1220
@@ -54333,9 +54331,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Turn this way! / Turn towards this direction!
 \xn 你往这里转/往这里看！
 \xf Tourne-toi par ici! / Regarde par ici!
-\xc <langue="fra"> version corrigée par F4 d'un exemple fourni par M18: /‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩/
-\xc <langue="eng"> This example is F4's reformulation of an example provided by M18: /‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩/.
-\xc <langue="cmn"> 这个例子是F4对M18提供的例子/‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩/的重新表述。
+\xc <langue="fra"> version corrigée par F4 d'un exemple fourni par M18: /|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/
+\xc <langue="eng"> This example is F4's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/.
+\xc <langue="cmn"> 这个例子是F4对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/的重新表述。
 \xv gɤ˩-ɻ̩˥ mv̩˩-ɻ̩˩, | ə˧tso˧ li˧?
 \xe You turn in all directions; what are you looking for/at? / What are you looking for in all directions?
 \xn 你左转右转，（到底）在看什么？
@@ -58350,7 +58348,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to peel, to peel off the skin
 \xn 削皮
 \xf éplucher la peau
-\xc <dom="synt"> ɣɯ˩kɯ˧˥ + ʂɯ˧˥
+\xc <dom="synt"> |fv{ɣɯ˩kɯ˧˥} + |fv{ʂɯ˧˥}
 \xv jɤ˩jo˧ ɣɯ˥ʂɯ˩
 \xe to peel potatoes
 \xn 削洋芋皮
@@ -72882,9 +72880,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe The tooth is cured!
 \xn 牙补好了！
 \xf La dent est soignée! / La dent est réparée!
-\xc <langue="fra" dom="phono"> Phonétiquement: [læ˧-ʈʂwæ˧-ze˥]
-\xc <langue="eng" dom="phono"> Phonetically: [læ˧-ʈʂwæ˧-ze˥]
-\xc <langue="cmn" dom="phono"> 实际发音：[læ˧-ʈʂwæ˧-ze˥]
+\xc <langue="fra" dom="phono"> Phonétiquement: [|fv{læ˧-ʈʂwæ˧-ze˥}]
+\xc <langue="eng" dom="phono"> Phonetically: [|fv{læ˧-ʈʂwæ˧-ze˥}]
+\xc <langue="cmn" dom="phono"> 实际发音：[|fv{læ˧-ʈʂwæ˧-ze˥}]
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -76688,7 +76686,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ge building(monosyll.)
 \dn 房屋
 \gn 房屋
-\df Maison, bâtiment d'habitation; monosyllabe extrait de l'expression /ʑi˩ tsʰi˩˥, | æ̃˩ tsʰi˧/ ‘bâtir une demeure': le schéma tonal, avec un verbe au ton MH, peut provenir d'un nom au ton LM ou LH.
+\df Maison, bâtiment d'habitation; monosyllabe extrait de l'expression /|fv{ʑi˩ tsʰi˩˥, | æ̃˩ tsʰi˧}/ ‘bâtir une demeure': le schéma tonal, avec un verbe au ton MH, peut provenir d'un nom au ton LM ou LH.
 \gf maison(monosyll.)
 \xv ʑi˩ tsʰi˧˥, | æ̃˩ tsʰi˥
 \xe to build a house, to build a home (set phrase)
@@ -78979,13 +78977,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \pdv ɭɯ˧β
-\de Beam.
-\ge beam
-\dn 支撑顶板的梁
+\de Purlin: a large horizontal beam (in technical terms: a longitudinal, horizontal, structural member in a roof).
+\ge purlin
+\dn 檩支撑顶板的梁。具体而言，檩，亦称为桁，是建筑物中的水平结构件，平行于建筑物的正面，垂直于梁。屋檐的椽木，是垂直地架在檩之上的。
 \gn 梁
-\df Poutre soutenant la toiture, posée horizontalement, dans le sens de la longueur du bâtiment. Sur elle reposent les poutrelles courtes posées inclinées dans le sens de la largeur du bâtiment, /hæ̃˧kʰɤ˧˥/.
-\gf poutre_soutenant_la_toiture
-\dt 06/Oct/2015
+\df Panne: poutre soutenant la toiture, posée horizontalement, dans le sens de la longueur du bâtiment. Dans le vocabulaire technique de l'architecture, la panne est une pièce de charpente posée horizontalement sur les fermes et maintenue par les échantignoles. Elle supporte les chevrons: poutrelles courtes posées inclinées dans le sens de la largeur du bâtiment, /|fv{hæ̃˧kʰɤ˧˥}/.
+\gf panne
 
 \lx ʐv̩˩mi˩
 \sf <nb="B"> 621
@@ -81390,7 +81387,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ge skirt
 \dn 裙子（单音节）
 \gn 裙子
-\df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /ʈʰæ˩ ki˩˥/ ‘enfiler la jupe', avec verbe au ton La (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/ʈʰæ˩ ɲi˩˥/ ‘c'est une jupe' est catégoriquement refusé par F4.
+\df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /|fv{ʈʰæ˩ ki˩˥}/ ‘enfiler la jupe', avec verbe au ton La (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘c'est une jupe' est catégoriquement refusé par F4.
 \gf jupe
 \xv ʈʰæ˧ | le˧-ki˩
 \xe to put on the skirt (|fg{accomp})

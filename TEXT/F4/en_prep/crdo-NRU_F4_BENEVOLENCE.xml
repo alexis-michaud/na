@@ -86,7 +86,7 @@
 </S>
 <S id="﻿Benevolence_S011">
 	<AUDIO start="56.323" end="66.313"/>
-	<FORM kindOf="phono">hĩ˧bæ˧-ʈʂʰɯ˧ | so˩kv̩˩, | ʐv̩˩kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! |</FORM>
+	<FORM kindOf="phono">hĩ˧bæ˧-ʈʂʰɯ˧ | so˩-kv̩˩, ʐv̩˩-kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "On peut dire aussi bien /ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥/ que /ʐɯ˧ dʑo˧-zo˧-kv̩˩/. De même pour /ʂe˧ dʑo˧-zo˧-kv̩˩/ et /ʂe˧ | dʑo˧-zo˧-kv̩˧˥/. F4 exprime une préférence pour la variante avec intégration en un seul groupe tonal. Pas de variante stylistique évidente à ses yeux. Hypothèse toute personnelle: le ton montant convient à cette position dans la phrase: position non finale, où le contour montant a une connotation ‘suspensive'. Cela met également en valeur le mot ‘alcool'; l'alcool est une composante importante de l'hospitalité. Le récit passe ensuite un peu plus vite sur la viande (de porc, s'entend) et le poulet."/>
 	<NOTE xml:lang="fr" message = "/ʐɯ˧ dʑo˧-zo˧-kv̩˧˥/: il fallait avoir de l'alcool en réserve à la maison, parce qu'il n'y avait pas de magasin à proximité où aller en acheter en cas de besoin."/>
 	<TRANSL xml:lang="fr">Les invités, s'il y en a trois ou quatre qui viennent, ce jour-là, pour leur venue (littéralement ‘ils viennent une fois'), à la maison, il faut avoir de l'alcool, de la viande (de porc), et du poulet (pour pouvoir accommoder toutes ces bonnes choses et les leur servir)!</TRANSL>
@@ -660,7 +660,7 @@
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.46"/>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˧ | tʰi˧dzi˥kʰɯ˩ | tʰi˩no˧ | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧ə˧mi˧ | njæ˧-sɯ˩kv̩˩dzɯ˩ | hɑ˧dʑo˩so˩pæ˧tsʰi˩kv̩˩ | ə˧ʝi˧ʂɯ˥ʝi˩ |"/>
 	<NOTE xml:lang="fr" message = "/tʰi˧-no˥/: le schéma tonal paraît être M.H, non L.H; et une réalisation lente et soignée comme /tʰi˩˥ | -no˧˥/ ne convient pas à la locutrice."/>
-	<NOTE xml:lang="Fi" message = " du retravail le soir du 24 avril 2018."/>
+	<NOTE xml:lang="fr" message = "Fin du retravail le soir du 24 avril 2018."/>
 	<TRANSL xml:lang="fr">Alors, nous autres, les parents (=la génération des parents: entre le ‘premier âge' et le ‘troisième âge')… on faisait trois services (en tout: un pour les invités et les personnes âgées, un pour les enfants, et un pour les adultes)!</TRANSL>
 	<TRANSL xml:lang="zh">那么，我们，父亲们与母亲们（=成年人这代：不是少年了，也没到老人的年龄）……我们一共供三次饭！</TRANSL>
 </S>
@@ -1343,7 +1343,7 @@
 <S id="﻿Benevolence_S170">
 	<AUDIO start="907.297" end="914.239"/>
 	<FORM kindOf="phono">tʰi˩˥, | tʰv̩˧-so˩-dʑo˩, | mv̩˩si˧njɤ˧˥ | əəə… tsʰo˩mo˩ tʰv̩˩-jɤ˩˥ | ki˧, | njɤ˧-ɳɯ˧ | &lt;ho˩tʰɑ˩[-li˥]…&gt; | li˩˥ | ɖɯ˧-kʰwɤ˥ | tʰi˧-tɕɤ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ʈv̩˩ tʰi˩-kʰɯ˩! |</FORM>
-	<NOTE xml:lang="fi" message = " W transcription avec Ama le 27 avril 2018"/>
+	<NOTE xml:lang="fr" message = "C'est à cette phrase que s'arrête le travail de transcription avec Ama le 27 avril 2018."/>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.91"/>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | tʰv̩˧so˩dʑo˩ | mv̩˩si˧njɤ˧˥ | ə˩tso˧mo˧ | tʰi˩˥ | tʰi˧ | njɤ˧ɳɯ˧ | ho˧tʰɑ˧˥ | li˩˥ | ɖɯ˧kʰwɤ˥tʰi˩tɕɤ˩ | ho˩tʰɑ˩˥ | ɖɯ˧ʈv̩˩ | tʰi˩kʰɯ˧˥ |"/>
 	<TRANSL xml:lang="fr">Alors, tôt ce matin-là, je lui ai fait bouillir un peu de thé, à cet homme-là! J'y ai mis un morceau de sucre roux!</TRANSL>
