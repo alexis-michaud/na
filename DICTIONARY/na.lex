@@ -30583,7 +30583,7 @@
 \gn 实施
 \df Aspect accompli (|fg{accomp}).
 \gf |fg{accomp}
-\textsup Benevolence.1
+\txtsup Benevolence.1
 \doisup 10.24397/pangloss-0004582#S1
 
 \lx li˩˥
@@ -75538,13 +75538,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 句尾助词：吧、呗
 \df Particule finale exclamative, avec une nuance d'évidence.
 \gf |fg{exclamation}
-\textsup Sister3.63
+\txtsup Sister3.63
 \doisup 10.24397/pangloss-0004345#S63
-\textsup Sister3.65
+\txtsup Sister3.65
 \doisup 10.24397/pangloss-0004345#S65
-\textsup Sister3.123
+\txtsup Sister3.123
 \doisup 10.24397/pangloss-0004345#S123
-\textsup Dog.55
+\txtsup Dog.55
 \doisup 10.24397/pangloss-0004443#S55
 
 \lx wo˩β
