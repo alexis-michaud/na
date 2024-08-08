@@ -11003,7 +11003,7 @@
 \xn 人吧，什么人都有，对吧！
 \xf Les gens… il y en a de toutes sortes, n'est-ce pas!
 \txtsup Sister5.8
-\doisup xxxxAssignationÀVenir
+\doisup 10.24397/pangloss-0004940#S8
 
 \lx dʑo˧β
 \sf <nb="B"> 1776
@@ -28488,7 +28488,7 @@
 \df Chasser.
 \gf chasser
 \txtsup Sister5.14
-\doisup xxAttributionÀVenir
+\doisup 10.24397/pangloss-0004940#S14
 
 \lx kv̩˧ʂe˥$
 \sf <nb="B"> 1808
@@ -30584,7 +30584,7 @@
 \df Aspect accompli (|fg{accomp}).
 \gf |fg{accomp}
 \textsup Benevolence.1
-\doisup yyyyAssignationÀVenir
+\doisup 10.24397/pangloss-0004582#S1
 
 \lx li˩˥
 \sf <nb="B"> 398
@@ -33848,7 +33848,7 @@
 \df Sauver (par exemple: sauver la vie de quelqu'un).
 \gf 救::sauver
 \txtsup Benevolence.232
-\doisup yyyyAttributionEnCours
+\doisup 10.24397/pangloss-0004582#S232
 
 \lx lv̩˧sɯ˥
 \sf <nb="B"> 257
@@ -59663,7 +59663,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf se_souvenir
 \dv le˧-mv̩˩pʰæ˩ mɤ˩-tʰɑ˩.
 \txtsup Benevolence.236
-\doisup yyyyAssignationEnCours
+\doisup 10.24397/pangloss-0004582#S236
 
 \lx ʂɻ̩˩gv̩˩
 \sf <nb="B"> 606
