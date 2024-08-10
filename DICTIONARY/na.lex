@@ -1167,7 +1167,7 @@
 
 \lx æ˩sæ˥
 \or aesae
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton LH
@@ -1793,7 +1793,7 @@
 
 \lx bɑ˩˥
 \or bbaq
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton L?
@@ -3212,7 +3212,7 @@
 \lx bo
 \or bbo
 \bw <langue="cmn"> 啵
-\ps disc.PTCL
+\ps disc.ptcl
 \lc --
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -30469,7 +30469,7 @@
 
 \lx le˩
 \or lei
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> avant février 2014: noté /-lə/
@@ -34366,7 +34366,7 @@
 
 \lx mæ˧
 \or mae
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> Lors des premières enquêtes, le ton de cette particule n'a pu être déterminé, du fait qu'elle n'apparaît qu'après /tsɯ˧˥/, de sorte que son ton est toujours imposé par le contexte. Son ton n'a pu être déterminé que grâce à l'exemple suivant: /ho˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥  |  le˧-qʰwɤ˧-ze˧-mæ˧ |/ (Healing.66): contexte qui permet à n'importe lequel des tons L, M, H, et MH de s'exprimer, ce qui permet de conclure que le ton de la particule est M.
@@ -35410,7 +35410,7 @@
 
 \lx mo˩
 \or mo
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="comp" langue="naxi"> mv̩˩
@@ -36323,7 +36323,7 @@
 \sf <nb="2011"> 3358
 \hm 2
 \or mu
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> particule finale d'affirmation
@@ -55282,7 +55282,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx se˥
 \hm 2
 \or sei
-\ps disc.PTCL
+\ps disc.ptcl
 \lc se˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -64524,7 +64524,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 3380
 \hm 2
 \or tiq
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> gap-filler
@@ -71382,7 +71382,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 3359
 \hm 2
 \or ziq
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> ton: d'après son comportement après les verbes
@@ -75524,7 +75524,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx wɤ˧
 \hm 2
 \or ua
-\ps disc.PTCL
+\ps disc.ptcl
 \lc wɤ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -80648,7 +80648,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx -ɲi˩
 \or niq
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra" print="n"> Avant déc. 2013: glosé |fg{cert_str}, qui à la réflexion apparaît trop long
@@ -80721,7 +80721,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx -no˧˥
 \or noq
-\ps disc.PTCL
+\ps disc.ptcl
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> ne peut s'employer pour un datif avec agent animé
