@@ -19318,20 +19318,19 @@
 \lx hɑ˧ʂɯ˥
 \or haeshi
 \bw <langue="cmn"> 还是
-\ps lnk
+\ps cnj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> avant 2013: parfois noté /hɑ˩ʂɯ˧/, parfois /hæ˧ʂɯ˥/; peut-être le fait que ce mot soit un emprunt le rend-il moins stable phonologiquement. En 2015: corrige de /‡hæ˧ʂɯ˥/ en /hɑ˧ʂɯ˥/.
 \ton H#
 \lc hɑ˧ʂɯ˥
 \so F4
-\de Gap-filler, borrowed from the Chinese: “still/also…".
-\ge 还是::gap_filler
+\de Conjunction borrowed from the Chinese: “still/also…". In Na, it is often used as a gap-filler.
+\ge 还是::still/also
 \dn 还是
 \gn 还是（借词）
-\df Explétif, emprunté au chinois: ‘quand même/aussi…’.
-\gf 还是::explétif
-\dt 24/Jul/2017
+\df Conjonction empruntée au chinois: ‘quand même/aussi…’. En na, elle a fréquemment un emploi explétif.
+\gf 还是::quand_même/aussi
 
 \lx hæ̃˧ʂɯ˩-pæ˩pʰæ˩
 \sf <nb="2011"> 657
@@ -44054,11 +44053,10 @@
 \so F4
 \de Set phrase, idiom, adage.
 \ge idiom
-\dn 成语、俗语
+\dn 固定短语、成语、俗语、格言。
 \gn 成语
 \df Dicton, parole du temps jadis, adage.
 \gf dicton
-\dt 09/Sep/2015
 
 \lx pi˩ɻ̩˥
 \sf <nb="B"> 117
@@ -70630,7 +70628,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx tso˧tɕɤ˩
 \or zoja
 \bw <langue="cmn"> 宗教
-\ps lnk
+\ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra">
