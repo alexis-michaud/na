@@ -29901,21 +29901,21 @@
 \so F4
 \de Lama, a family name from Yongning. There are four families in Yongning that carry this name.
 \ge Lama
-\dn 一个姓。这个姓，永宁有四个家
-\gn 一个姓
+\dn 拉玛：一个姓。这个姓，永宁有四个家
+\gn 拉玛：一个姓
 \df Lama, un nom de clan/famille étendue. Quatre familles portent ce nom à Yongning.
 \gf nom_de_clan
 \xv lɑ˩mɑ˩=ɻ̩˥$
 \xe the Lama |fv{/lɑ˩mɑ˩/} clan, the Lama |fv{/lɑ˩mɑ˩/} family
-\xn |fv{/lɑ˩mɑ˩/}家族
+\xn 拉玛家族
 \xf le clan Lama |fv{/lɑ˩mɑ˩/}, la famille Lama |fv{/lɑ˩mɑ˩/}
 \xv lɑ˩mɑ˩-gv̩˥mɑ˩
 \xe the name of a person, containing both a family name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
-\xn 一个人的名字：姓为|fv{/lɑ˩mɑ˩/}，名为|fv{/gv̩˧mɑ˧/}
+\xn 一个人的名字：姓为拉玛，名为|fv{/gv̩˧mɑ˧/}
 \xf nom d'une personne, comportant un nom de famille (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
 \xv lɑ˩mɑ˩=ɻ̩˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̃˥!
 \xe There are four families carrying the name Lama; they make up one clan!
-\xn 姓|fv{/lɑ˩mɑ˩/}的，有四家，形成一个家族！
+\xn 姓拉玛的，有四家，形成一个家族！
 \xf Il y a quatre familles qui portent le nom Lama; elles constituent un clan!
 
 \lx lɑ˧mɑ˧
@@ -61374,6 +61374,23 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 男性名字
 \df Daeshi Baepae, un prénom masculin.
 \gf Daeshi_Baepae
+
+\lx ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩
+\or Daeshi Ci'er
+\ets ʈæ˧ʂɯ˧
+\ets tsʰɯ˧ɻ̩#˥
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton -L
+\lc ʈæ˧ʂɯ˧tsʰɯ˩ɻ̩˩
+\so F4
+\de Daeshi Ci'er, a masculine given name.
+\ge Daeshi_Ci'er
+\dn 达石次尔：一个男性名字
+\gn 达石次尔
+\df Daeshi Ci'er, un prénom masculin.
+\gf Daeshi_Ci'er
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
 \or Daeshi Daedeu
