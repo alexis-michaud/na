@@ -598,6 +598,8 @@
 
 \lx ɑ˩mi#˥
 \or omi
+\ets ɑ˩˧
+\ets -mi˩
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -701,13 +703,13 @@
 \xn 出去了！ / 出去解手！
 \xf On sort! / [Je] vais faire mes besoins!
 \xv ɑ˩pʰo˩ bi˩ ʂv̩˥ɖv̩˩!
-\xe [She] wants to go out! (Context: on a sunny day, a family member senses that a toddler wants to go and play outside.)
-\xn （她）想出去！（情景：婴儿看外边，觉得她好像想出去。）
-\xf [Elle] a envie de sortir! (Contexte: par une journée ensoleillée, un membre de la famille sent qu'un enfant aurait envie d'aller jouer dehors.)
+\xe [She] wants to go out! (Context: on a sunny day, a family member senses that an infant wants to go and play outside.)
+\xn （她）想出去！（情景：在阳光明媚的一日，一个家庭成员感觉到一个婴儿想去外面玩。）
+\xf [Elle] a envie de sortir! (Contexte: par une journée ensoleillée, un membre de la famille sent qu'un nourrisson aurait envie d'aller jouer dehors.)
 \xv ə˧dɑ˥ | ɑ˩pʰo˩ hɯ˩-ze˥!
-\xe Daddy went out! (Context: explanation provided to a little child who has just woken up and looks for her dad.)
+\xe Daddy went out! (Context: explanation provided to an infant who has just woken up and looks for her dad.)
 \xn 爸爸出去了！
-\xf Papa est sorti! (Adressé à une petite fille qui vient de se réveiller de sa sieste et cherche son père.)
+\xf Papa est sorti! (Explication fournie à un nourrisson qui vient de se réveiller de sa sieste et cherche son père.)
 \xv ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
@@ -718,11 +720,13 @@
 \xf jeter (à la poubelle), se débarrasser de
 \dt 14/Jul/2018
 
-\lx ɑ˩pʰo˩-hĩ˩
+\lx
 \sf <nb="B"> 898b
 \sf <nb="2011"> 1317
 \or apohin
 \ps n
+\ets ɑ˩pʰo˩
+\ets hĩ˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> littéralement «les gens du dehors»
@@ -766,6 +770,8 @@
 
 \lx ɑ˩pʰv̩#˥
 \or opu
+\ets ɑ˩˧
+\ets -pʰv̩˥
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -1481,6 +1487,8 @@
 
 \lx ɑ˩zo#˥
 \or osso
+\ets ɑ˩˧
+\ets -zo˥
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -29408,7 +29416,7 @@
 \xv ɖɯ˧-kʰv̩˧ lɑ˥ | so˩-ɬi˩˥
 \xe one year and three months (context: indicating the age of an infant)
 \xn 一岁三个月
-\xf un an et trois mois (contexte: on indique l'âge d'un petit enfant)
+\xf un an et trois mois (contexte: on indique l'âge d'un nourrisson)
 \xv ʈʂʰɯ˧ lɑ˧ | mɤ˧-bi˧, | njɤ˧ lɑ˧ | mɤ˧-bi˧!
 \xe (If) (s)he does not go, I'm not going either!
 \xn 他不去（的话），我也不去！
@@ -34161,10 +34169,9 @@
 \df Garder dans la bouche, laisser fondre dans la bouche.
 \gf garder_dans_la_bouche
 \xv tso˧~tso˧ ɬv̩˥
-\xe to hold something in the mouth, to have something in the mouth (context: a small child who does not yet know to distinguish between food and non-edible stuff puts things in its mouth)
-\xn 含在嘴里（情景：一个小孩把不能吃的东西含在嘴巴里）
-\xf mettre des choses dans sa bouche (contexte: un petit enfant qui ne fait pas encore la différence entre nourriture et choses non comestibles met des choses dans sa bouche)
-\dt 04/Sep/2015
+\xe to hold something in the mouth, to have something in the mouth (context: an infant who does not yet know to distinguish between food and non-edible stuff puts things in its mouth)
+\xn 含在嘴里（情景：一个婴儿把不能吃的东西含在嘴巴里）
+\xf mettre des choses dans sa bouche (contexte: un nourrisson qui ne fait pas encore la différence entre nourriture et choses non comestibles met des choses dans sa bouche)
 
 \lx ɬv̩˩α
 \sf <nb="B"> 1019
@@ -41782,7 +41789,7 @@
 \xv dʑɤ˩-hĩ˩˥, | le˧-ɳɯ˥! | mɤ˧-dʑɤ˩-hĩ˩, | le˧-dʑɯ˧˥!
 \xe Good one are few; bad ones are many! / There are few good ones, but many bad ones! (A comment about higher education institutions, among which laureates of the national University entrance examination are given a choice.)
 \xn 好的少，不好的多！（关于大学：高考后，学生要报志愿）
-\xf Les bons, il n'y en a guère; les médiocres, il y en a en quantité! (contexte: au sujet des établissements universitaires entre lesquels les lauréats du concours national d'entrée à l'université ont à choisir)
+\xf Les bons, il n'y en a guère; les médiocres, il y en a en quantité! (Contexte: au sujet des établissements universitaires entre lesquels les lauréats du concours national d'entrée à l'université ont à choisir)
 \dt 09/Sep/2015
 
 \lx ɳɯ˧ɕi˩
@@ -42767,9 +42774,9 @@
 \xn 自己家
 \xf sa propre maison
 \xv õ˧-dʑɯ˥, õ˩ ʈʰɯ˩! |
-\xe Each drinks from her own bottle! (Context: a toddler has grabbed another's milk bottle; parents prevent her from drinking from it.)
+\xe Each drinks from her own bottle! (Context: an infant has grabbed another's milk bottle; parents prevent her from drinking from it.)
 \xn 自己喝自己的！（情景：一个婴儿抓另一个婴儿的奶瓶。）
-\xf Chacun boit sa propre boisson! (Contexte: un petit enfant s'empare du biberon d'un autre et s'apprête à boire; on l'en empêche.)
+\xf Chacun boit sa propre boisson! (Contexte: un nourrisson s'empare du biberon d'un autre et s'apprête à boire; on l'en empêche.)
 \xv õ˧-ʂe˥, õ˩ ʈʰæ˩! |
 \xe Each person eats their own slab of meat! (Describing table manners: each person used to receive one slice of meat and eat it up, unlike Chinese custom, in which each guest picks food mouthful by mouthful, with chopsticks, from the dishes placed on the table.)
 \xn 自己吃自己的（那块）肉！（关于饮食习惯：吃饭的时候，每人分得一块肉，自己吃完。当地人认为，汉族没有这种分吃的习惯。）
@@ -48605,7 +48612,6 @@
 \xe to love one's family
 \xn 爱自己家人
 \xf aimer sa famille
-\dt 01/Oct/2015
 
 \lx qʰo˧˥
 \sf <nb="B"> 1643
@@ -51788,7 +51794,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv hĩ˧ | qʰɑ˧-kv̩˧ dʑo˧˥ | mɤ˧-ʁæ˧ʑi˧, | njɤ˧-ɳɯ˧ qʰæ˧˥! |
 \xe No matter how many people (guests) there are, I share (what I have)! (Context: the consultant explains how, following Na traditions, she shared as much as she could, and volunteered her time to help other families on important occasions, such as funerals.)
 \xn 无论有多少个人，我都会跟大家分！（情景：合作人描写在永宁摩梭人怎么跟别人分，如：分食品。有大事时，也去帮其它家庭的忙，不考虑活多么累，只考虑怎么能给予帮助）
-\xf «Moi, je partage, sans m'inquiéter de savoir combien il y a d'invités (littéralement ‘de gens’)!» (contexte: F4 explique comment on se dévouait autrefois: on partageait, et on aidait aussi les amis, non membres de la famille, lors des grandes occasions, telles que les funérailles)
+\xf «Moi, je partage, sans m'inquiéter de savoir combien il y a d'invités (littéralement ‘de gens’)!» (Contexte: F4 explique comment on se dévouait autrefois: on partageait, et on aidait aussi les amis, non membres de la famille, lors des grandes occasions, telles que les funérailles)
 \xv no˧ | mɤ˧-ʁæ˧ʑi˧!
 \xe Leave me alone! / Leave me in peace! / Mind your own business!
 \xn 别管我了！ / 请让我安静！ / 请不要打扰我了！
@@ -70435,14 +70441,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 关心、关注
 \xf se soucier de, prêter attention à
 \xv ʈʂʰɤ˩qo˧ | ɖwæ˧˥ | tʰi˧-kʰɯ˧˥
-\xe to pay great attention to, to care greatly for (e.g. a grandmother paying great attention to a little child's feeding)
+\xe to pay great attention to, to care greatly for (e.g. a grandmother paying great attention to an infant's feeding)
 \xn 很关心、很关注
-\xf prêter une grande attention à, être très attentif à (ex.: une grand-mère très attentive à l'alimentation d'un petit enfant)
+\xf prêter une grande attention à, être très attentif à (ex.: une grand-mère très attentive à l'alimentation d'un nourrisson)
 \xv ʈʂʰɤ˩qo˧ | mɤ˧-kʰɯ˧˥
-\xe to pay little attention to, not to care for
+\xe to pay no attention to, not to care for
 \xn 不关心、不关注
 \xf être insensible à, ne pas prêter attention à
-\dt 07/Oct/2015
 
 \lx tso˩qʰv̩˩ɻ̩˥
 \or zokheu'er
@@ -76797,7 +76802,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv le˧-ʑi˧˥, | ʑi˧-mɤ˥-tʰɑ˩!
 \xe Were I to try to sleep, I would not be able to! / I would like to sleep, but I can't!
 \xn 想睡，但睡不了！
-\xf j'essaierais de dormir, que je n'y arriverais pas! / Dormir, il ne faut pas y penser/je n'y arriverais pas! (contexte: une personne âgée se plaint de maux de tête; on lui suggère d'aller se reposer/faire une sieste)
+\xf j'essaierais de dormir, que je n'y arriverais pas! / Dormir, il ne faut pas y penser/je n'y arriverais pas! (Contexte: une personne âgée se plaint de maux de tête; on lui suggère d'aller se reposer/faire une sieste)
 \xv pʰæ˧tɕi˥-zo˩-ɳɯ˩ | mv̩˩zo˩-qɑ˥ ʑi˩
 \xe The young man sleeps with the young woman. (This phrasing refers rather bluntly to sexual intercourse, and is considered extremely rude.)
 \xn 小伙子跟年轻女人睡！（庸俗说法）
@@ -77744,8 +77749,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" langue="fra"> (cf récit “travaux", qui établit que c'est bien ˩ ˧ et non ˧ ˥: zo˩no˧ se˥, …) (avant 2009: noté: /zo˧no˥/; d'abord noté zo˧nũ˥; nasalité simplement contextuelle; vérifié plusieurs fois)
-\nt <type="hist" langue="fra"> zo˧no˥ (confirmé: n'est pas nu˥) (tons confirmés)
+\nt <type="hist" langue="fra" dom="phono"> Premières notes: d'abord noté [zo˧nũ˥], puis constaté que la nasalité de la voyelle de la deuxième syllabe est simplement contextuelle (observation vérifiée plusieurs fois). Ensuite se posait la question du choix entre /u/ et /o/. Établissement de la voyelle: “zo˧no˥ (confirmé: n'est pas nu˥)".
+\nt <type="hist" langue="fra" dom="ton"> Avant 2009: noté: /zo˧no˥/. C'est à l'occasion de la transcription du récit “Agriculture" qu'a été établi que c'est bien un schéma tonal LM (˩ ˧) et non MH (˧ ˥), grâce à l'observation de la séquence L.M.H dans /zo˩no˧ se˥/.
 \ton LM
 \lc zo˩no˥
 \so F4
@@ -77759,10 +77764,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Maintenant, actuellement: désigne le moment présent (heure de la journée), comme la période présente (époque contemporaine, par opposition à d'autres époques); également employé comme élément phatique: ‘alors…’; ‘eh bien…’.
 \gf maintenant
 \xv zo˩no˥ | gɤ˩-ʈi˧!
-\xe She only just woke up! (Context: someone walks into the house in the afternoon, sees a little child playing, and notes: “She has got up!" The child's grandmother answers: “She only just woke up!")
-\xn 刚起床！ / 刚才才起床！
-\xf Elle vient de se réveiller/de se lever! / Elle s'est réveillée à l'instant! (contexte: quelqu'un entre dans la maison, voit un petit enfant en train de jouer et constate: «Elle est réveillée!» Sa grand-mère répond: «Elle vient de se réveiller!»)
-\dt 07/Oct/2015
+\xe She only just woke up! (Context: someone walks into the house in the afternoon, sees an infant playing, and notes: “She has got up!" The child's grandmother answers: “She only just woke up!")
+\xn 刚起床！ / 刚才才起床！（情景：有人走进家门，看到一个婴儿在玩耍，便说：“她醒了！”。她的祖母回答说：“她刚睡醒！”
+\xf Elle vient de se réveiller/de se lever! / Elle s'est réveillée à l'instant! (Contexte: quelqu'un entre dans la maison, voit un nourrisson en train de jouer et constate: «Elle est réveillée!» Sa grand-mère répond: «Elle vient de se réveiller!»)
 
 \lx zo˩qo˧
 \sf <nb="B"> 906
@@ -80175,7 +80179,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xo Ggi ddeegha gguq bbi!
 \xe Let's do one last bundle! (Context: women are extracting flax fiber, processing bundle after bundle; towards the end of a long work session, someone says: “Let's do one last bundle! / One last bundle and we shall call it a day!")
 \xn 再做一捆吧！（情景：女人们在纺麻线，工作了很久，一个人就说：“再做最后一捆（就收工吧）！”）
-\xf On va en faire une dernière botte! (contexte: on travaille le lin, botte après botte; vers la fin d'une longue séance de travail, quelqu'un annonce: «On va en faire une dernière botte! / Une dernière botte, et on s'arrête!»)
+\xf On va en faire une dernière botte! (Contexte: on travaille le lin, botte après botte; vers la fin d'une longue séance de travail, quelqu'un annonce: «On va en faire une dernière botte! / Une dernière botte, et on s'arrête!»)
 \xv gi˧-se˧
 \xo ggi sei
 \xe to walk after, to follow after
@@ -80274,7 +80278,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv so˧ɲi˥ | le˧-ɬi˥ | mɤ˧-ho˥!
 \xe Tomorrow, they won't be on holiday anymore! (Context: on a Sunday, talking about a kindergarten that has been on holiday during the previous week.)
 \xn 明天就不休息了！
-\xf Demain, ils ne seront plus en vacances! (contexte: on parle d'une crèche qui a été en vacances la semaine précédente à l'occasion de la Fête des enseignants)
+\xf Demain, ils ne seront plus en vacances! (Contexte: on parle d'une crèche qui a été en vacances la semaine précédente à l'occasion de la Fête des enseignants)
 \xv tɕʰi˧ ə˧-ho˩?
 \xe Is (she/he) going to sell?
 \xn 要卖吗？/ 会卖吗？
@@ -81452,7 +81456,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv ʈʂʰɯ˧ ə˧mi˧ | ə˧ɲi˧-tɑ˧kɤ˥ | le˧-ɬi˥!
 \xe Her mother only got a day off yesterday (=today, she is back to work)! (Context: talking about a child whose mother is absent, as she is at work.)
 \xn 她母亲昨天那天才有假期！（情景：谈一个孩子的母亲，说她前一天才能休息，而当天在上班。）
-\xf sa mère n'a eu de congés que pour la journée d'hier! (contexte: on parle d'un petit enfant dont la mère est absente, au travail)
+\xf Sa mère n'a eu de congés que pour la journée d'hier! (Contexte: on parle d'un petit enfant dont la mère est absente, au travail)
 \xv ɑ˩ʁo˧, | hĩ˧ ɖɯ˧-v̩˧-tɑ˧kɤ˩ dʑo˩!
 \xe There is only one person at home!
 \xn 只有一个人在家！
