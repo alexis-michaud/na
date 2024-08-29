@@ -1705,9 +1705,9 @@
 \xn 同上：“今年收成千担，也不够吃一百年！”（这个谚语，来慰藉收成不好的年份。）
 \xf Idem ci-dessus: «Quand bien même on aurait fait une récolte fabuleuse, ça ne nous durerait pas éternellement: ça se rejoue chaque année!»
 \xc PROVERBE
-\xc <langue="fra" type="dialect"> Proverbe qui n'est pas connu de F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not know this proverb.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Proverbe qui n'est pas connu de F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not know this proverb.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf F5
 
 \lx bæ˩˥
@@ -8198,7 +8198,7 @@
 \so F4
 \de Ddeema Butee, a feminine given name.
 \ge Ddeema_Butee
-\dn 祝玛布尺：女性名字（还音译为‘独玛布尺’）
+\dn 祝玛布尺：（还音译为‘独玛布尺’）
 \gn 祝玛布尺
 \df Ddeema Butee, un prénom féminin.
 \gf Ddeema_Butee
@@ -9168,9 +9168,9 @@
 \xe There is mud; mud has formed.
 \xn 有泥巴了
 \xf De la boue s'est formée; il y a de la boue, c'est tout boueux. (Littéralement: «de la boue s'est mélangée».)
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf F5
 
 \lx dzɑ˩qʰwɤ˩
@@ -23956,8 +23956,8 @@
 \so F4
 \de Yijie, a feminine given name.
 \ge Yijie
-\dn 女性名字
-\gn 女性名字
+\dn 央金：一个女性名字
+\gn 央金
 \df Yijie, un prénom féminin.
 \gf Yijie
 
@@ -23974,8 +23974,8 @@
 \so F4
 \de Yijie Ddeema, a feminine given name.
 \ge Yijie_Ddeema
-\dn 女性名字
-\gn 女性名字
+\dn 央金独玛：一个女性名字
+\gn 央金独玛
 \df Yijie Ddeema, un prénom féminin.
 \gf Yijie_Ddeema
 
@@ -23993,8 +23993,8 @@
 \so F4
 \de Yijie Lhamu, a feminine given name.
 \ge Yijie_Lhamu
-\dn 女性名字
-\gn 女性名字
+\dn 央金拉姆：一个女性名字
+\gn 央金拉姆
 \df Yijie Lhamu, un prénom féminin.
 \gf Yijie_Lhamu
 
@@ -38310,9 +38310,9 @@
 \xn 马上要吃了！
 \xf [On] va manger tout de suite!
 \xc PHONO
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf M18
 \xv mv̩˧-hwæ˧
 \xe about to buy
@@ -38661,7 +38661,7 @@
 \so F4
 \de Najjie, a feminine given name.
 \ge Najjie
-\dn 娜金：一个女性名字
+\dn 娜金：一个女性名字（还音译位‘娜吉’）
 \gn 娜金
 \df Najjie, un prénom féminin.
 \gf Najjie
@@ -40777,9 +40777,9 @@
 \xe my family, my people, my clan
 \xn 我的人、我家人、我的家族
 \xf les miens, ma famille
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf M18
 \xv njɤ˧ no˧ lɑ˧˥
 \xe I strike you
@@ -44423,9 +44423,9 @@
 \xe Come and lay here (for a rest)!
 \xn 过来这边躺一下！
 \xf Viens t'allonger par ici (pour te reposer)!
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not approve this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf M18
 
 \lx pɤ˥
@@ -49322,9 +49322,9 @@
 \xe to be seated, leaning forward, torso bent towards the thighs
 \xn 坐着身体缩成一团
 \xf être assis penché en avant, le torse penché vers les cuisses
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas utilisée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not use this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not use this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf M23
 
 \lx qʰv̩˧˥
@@ -50651,7 +50651,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe inside the mouth
 \xn 嘴巴里
 \xf dans la bouche, à l'intérieur de la bouche
-\xc <type="dialect" langue="fra" print="n"> La préférence de la locutrice F4 pour la formulation |fv{qwa˩ɖʐæ˩-qo˩lo˥} est réaffirmée en juin 2024.
+\xc <dom="dialect" langue="fra" print="n"> La préférence de la locutrice F4 pour la formulation |fv{qwa˩ɖʐæ˩-qo˩lo˥} est réaffirmée en juin 2024.
 \rf F5
 
 \lx qʰwɤ˧pɤ˥$
@@ -59849,9 +59849,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe (S)he is extremely tall!
 \xn 他非常高！
 \xf Elle/il est très grand(e)!
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas utilisée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not use this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not use this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \rf F5
 \xv ʈʂʰɯ˧ | le˧-ʂwæ˧-ze˧!
 \xe It has grown tall!
@@ -63323,9 +63323,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 陪伴某人
 \xf aller ensemble, former un ensemble: par exemple, dans la pièce principale de la maison, le thangka au-dessus du foyer et les peintures sur le buffet-autel des ancêtres forment un tout, elles vont ensemble
 \rf M18
-\xc <langue="fra" type="dialect"> Formulation qui n'est pas utilisée par F4.
-\xc <langue="eng" type="dialect"> Consultant F4 does not use this phrasing.
-\xc <langue="cmn" type="dialect"> F4不使用此说法。
+\xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par F4.
+\xc <langue="eng" dom="dialect"> Consultant F4 does not use this phrasing.
+\xc <langue="cmn" dom="dialect"> F4不使用此说法。
 \xv hĩ˧ tɕʰo˧-bi˧-zo˧-ho˥!
 \xe I'm going to have to accompany him/her! (Context: we invited someone over to the house: a priest, for instance.)
 \xn （我）要陪伴人家！
@@ -74318,17 +74318,17 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe I don't have the time.
 \xn 我没时间。
 \xf Je n'ai pas le temps.
-\xc <langue="fra" type="dialect"> Formule critiquée par F4: on dirait: “j'ai du travail, je suis occupé".
-\xc <langue="eng" type="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I've got work to do, I'm busy”.
-\xc <langue="cmn" type="dialect"> F4指出，更贴切的表述是‘我有工作要做、我很忙’。
+\xc <langue="fra" dom="dialect"> Formule critiquée par F4: on dirait: “j'ai du travail, je suis occupé".
+\xc <langue="eng" dom="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I've got work to do, I'm busy”.
+\xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有工作要做、我很忙’。
 \rf F5
 \xv njɤ˧ | tv̩˧tsʰɯ˧ dʑo˧.
 \xe I have time. / I have some free time. / I have the time.
 \xn 我有时间。
 \xf J'ai du temps libre. / J'ai le temps.
-\xc <langue="fra" type="dialect"> Formule critiquée par F4: on dirait: “je suis libre", en employant le mot |fv{mæ˧1}.
-\xc <langue="eng" type="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I'm free”, using the word |fv{mæ˧1}.
-\xc <langue="cmn" type="dialect"> F4指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
+\xc <langue="fra" dom="dialect"> Formule critiquée par F4: on dirait: “je suis libre", en employant le mot |fv{mæ˧1}.
+\xc <langue="eng" dom="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I'm free”, using the word |fv{mæ˧1}.
+\xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
 \rf F5
 \sn 2
 \pdv ɭɯ˧β
@@ -76040,9 +76040,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 披毡短裙
 \xf jupe en feutre
 \rf M18
-\xc <langue="fra" type="dialect"> Expression refusée par F4: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
-\xc <langue="eng" type="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
-\xc <langue="cmn" type="dialect"> F4拒绝这个说法：摩梭人没有披毡短裙。
+\xc <langue="fra" dom="dialect"> Expression refusée par F4: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
+\xc <langue="eng" dom="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
+\xc <langue="cmn" dom="dialect"> F4拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
 \sf <nb="B"> 415c
