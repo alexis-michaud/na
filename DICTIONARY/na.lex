@@ -10110,7 +10110,9 @@
 \lc dzi˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> Pas de forme rédupliquée.
+\nt <dom="phono" langue="fra"> De façon inattendue, le terme ne possède pas de forme rédupliquée.
+\nt <dom="phono" langue="eng"> Unexpectedly, the word does not have a reduplicated form.
+\nt <dom="phono" langue="cmn"> 该词没有重叠形式。这是出乎意料的。
 \ton MH
 \so F4
 \de To tremble, to shake.
@@ -10142,7 +10144,6 @@
 \xn 眼皮不跳
 \xf la paupière ne tremble pas
 \xc PHONO
-\dt 24/Apr/2017
 
 \lx dzi˥
 \sf <nb="B"> 568
@@ -11260,6 +11261,7 @@
 \lx dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sf <nb="2011"> 3329
 \or Jjabbu Gesawua
+\ets dʑɤ˩bv̩˧
 \ets kɤ˧sɑ˥$
 \ets ʁwɤ˧2
 \ps n
@@ -11268,7 +11270,6 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <dom="sem" langue="fra"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\nt <dom="phono" langue="fra"> formé de: dʑɤ˩bv̩˧+kɤ˧sɑ˥$+ʁwɤ˧
 \ton LM+MH#-
 \so F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
@@ -11392,7 +11393,7 @@
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="phono" langue="fra"> (sens et forme vérifiés en 2007)
+\nt <type="hist" langue="fra" print="n"> Sens et forme vérifiés en 2007.
 \ton L
 \so F4
 \va <speaker="F5"> dzɤ˩ɖwæ˩
@@ -15854,7 +15855,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> …ɲi˩; vérifié: la variante n'est pas ə˧zɯ˧˥ mais ˩ ˩˥
-\nt <dom="phono" langue="fra" dom="ton" type="hist"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule.
+\nt <langue="fra" dom="ton" type="hist"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule.
 \ton L#
 \sy ə˩=zɯ˩
 \lc ə˧zɯ˩
@@ -15874,7 +15875,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> …ɲi˩; vérifié: la variante n'est pas ə˧zɯ˧˥ mais ˩ ˩˥
-\nt <dom="phono" langue="fra" dom="ton"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule
+\nt <langue="fra" dom="ton"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule
 \ton L
 \sy ə˧=zɯ˩
 \lc ə˩zɯ˩˥
@@ -42078,7 +42079,6 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <langue="pumi" dom="comp" print="n"> nʲu51
-\nt <dom="phono" langue="fra"> (désigne aussi )
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -42904,7 +42904,6 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> (tons confirmés)
-\nt <dom="phono" langue="fra"> chien-loup
 \ton LM+#H-
 \lc õ˩dv̩˧kʰv̩˥mi˩
 \so F4
@@ -43839,8 +43838,7 @@
 \lc pʰi˩ko˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" langue="fra"> vérifié: initiale vélaire et non uvulaire
-\nt <dom="phono" langue="fra"> (emprunt)
+\nt <type="hist"dom="phono"  langue="fra"> vérifié: initiale vélaire et non uvulaire
 \ton LM
 \so F4
 \va <speaker="M21"> pʰiŋ˩ko˥
@@ -43852,7 +43850,6 @@
 \gn 苹果
 \df Pomme.
 \gf 苹果::pomme
-\dt 26/Apr/2017
 
 \lx pʰi˧kʰv̩˧
 \sf <nb="2011"> 677
@@ -44229,7 +44226,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> (avant 2009, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
-\nt <dom="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <dom="synt" langue="fra"> Peut s'utiliser avec des numéraux autres que un.
 \ton MHα
 \so F4
 \va <speaker="F5"> ID.
@@ -55606,8 +55603,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc se˩gwɤ˩mi˥
 \nt <langue="fra" type="hist"> Avant juin 2024: noté /se˩gwɤ˩mi˥/. Corrigé en /sɤ˩gwɤ˩mi˥/.
 \nt <langue="fra" dom="synt"> Il n'est pas possible de construire des dérivés avec /|fv{-zo}/ et /|fv{-pʰv}/ à partir d'une base disyllabique: le mot est maintenant trisyllabique.
-\nt <dom="phono" langue="eng" dom="synt"> It is not possible to derive words in /|fv{-zo}/ (‘baby’, ‘little’) or /|fv{-pʰv}/ (‘male’) on the basis of a disyllabic root. The noun is now trisyllabic.
-\nt <dom="phono" langue="cmn" dom="synt"> 这个词已成为三音节的名词。不能在双音节词根的基础上派生出带有/|fv{-zo}/（‘小’）或/|fv{-pʰv}/（‘公’）后缀的词。
+\nt <langue="eng" dom="synt"> It is not possible to derive words in /|fv{-zo}/ (‘baby’, ‘little’) or /|fv{-pʰv}/ (‘male’) on the basis of a disyllabic root. The noun is now trisyllabic.
+\nt <langue="cmn" dom="synt"> 这个词已成为三音节的名词。不能在双音节词根的基础上派生出带有/|fv{-zo}/（‘小’）或/|fv{-pʰv}/（‘公’）后缀的词。
 \so F4
 \va <speaker="M23"> se˩gv̩˩
 \pdv mi˩
