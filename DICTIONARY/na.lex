@@ -336,8 +336,8 @@
 \nt <type="hist" langue="fra"> Utilisé dans les textes de longue date. Ajouté au dictionnaire en 2024.
 \ton 0
 \lc ɬɬɬ!
-\np <langue="fra"> Cette interjection est prononcée sur un flux d'air ingressif.
-\np <langue="eng"> This interjection is pronounced over an ingressive flow of air.
+\nt <type="phono" langue="fra"> Cette interjection est prononcée sur un flux d'air ingressif.
+\nt <type="phono" langue="eng"> This interjection is pronounced over an ingressive flow of air.
 \so F4
 \de Interjection expressing pleasurable titillation of appetite (‘Yummy!’), or other strong impressions (‘Wow!’), including negative ones.
 \ge |fg{intj}.strong_impression
@@ -3493,9 +3493,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra" dom="ton"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng" dom="ton"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants (both of which are acceptable). The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <langue="fra" dom="ton"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <langue="eng" dom="ton"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants (both of which are acceptable). The pattern preferentially associated to this lexical item is MH#.
+\nt <langue="cmn" dom="ton"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \de Classifier for women's traditional hair dresses / headdresses.
 \ge |fg{clf}.hair_dresses
@@ -3832,8 +3832,8 @@
 \lc bo˩ɬo˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> L'initiale de la deuxième syllabe est phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
-\np <langue="eng"> The initial of the second syllable is phonetically close to a simple [|fv{l}]: [|fv{bo˩lo˧}].
+\nt <type="phono" langue="fra"> L'initiale de la deuxième syllabe est phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
+\nt <type="phono" langue="eng"> The initial of the second syllable is phonetically close to a simple [|fv{l}]: [|fv{bo˩lo˧}].
 \ton LH
 \so F4
 \pdv ɭɯ˧β
@@ -6234,8 +6234,8 @@
 \lc ɕjɤ˧pʰje˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\np <langue="fra"> La réalisation phonétique est proche de [|fv{ɕjɤ˧pʰjɛ˥}].
-\np <langue="eng"> Phonetic realization is close to [|fv{ɕjɤ˧pʰjɛ˥}].
+\nt <type="phono" langue="fra"> La réalisation phonétique est proche de [|fv{ɕjɤ˧pʰjɛ˥}].
+\nt <type="phono" langue="eng"> Phonetic realization is close to [|fv{ɕjɤ˧pʰjɛ˥}].
 \ton H#
 \so F4
 \de Photograph.
@@ -7093,9 +7093,9 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra" dom="ton"> Avant 2009, noté: /ɖæ˥ɖæ˩/. Corrigé en 2009 en /ɖæ˧~ɖæ˩/.
-\np <langue="fra"> Les tentatives pour dégager une forme simplex (monosyllabique), répétées au fil des années (2009, 2014...), ont été sans fruit.
-\np <langue="eng"> Attempts to identify a simplex (monosyllabic) form, repeated over the years (2009, 2014...), have remained fruitless.
-\np <langue="cmn"> 多年来（2009 年、2014 年......）一直试图确定一种单音节形式，但毫无结果。
+\nt <type="phono" langue="fra"> Les tentatives pour dégager une forme simplex (monosyllabique), répétées au fil des années (2009, 2014...), ont été sans fruit.
+\nt <type="phono" langue="eng"> Attempts to identify a simplex (monosyllabic) form, repeated over the years (2009, 2014...), have remained fruitless.
+\nt <type="phono" langue="cmn"> 多年来（2009 年、2014 年......）一直试图确定一种单音节形式，但毫无结果。
 \ton L#
 \lc ɖæ˧ɖæ˩
 \so F4
@@ -7797,9 +7797,9 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra" dom="phono"> avant 2011: pour la première syllabe, noté comme voyelle /e/, puis /ə/. En 2011: corrigé en /ɤ/.
-\np <langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
+\nt <type="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton LM
 \lc dɤ˩qo˧
 \so F4
@@ -7818,9 +7818,9 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
-\np <langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
+\nt <type="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-M
 \lc dɤ˩ʈʂʰɯ˧qo˧
 \so F4
@@ -7839,9 +7839,9 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra"> avant 2011: noté comme voyelle /e/, puis /ə/; avant avril 2014: noté /dɤ!-tʰv̩˧-gi#˥/
-\np <langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
+\nt <type="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-#H
 \lc dɤ˩tʰv̩˧gi˧
 \so F4
@@ -7862,9 +7862,9 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
-\np <langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
-\np <langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
+\nt <type="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]... Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
+\nt <type="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-M
 \lc dɤ˩tʰv̩˧qo˧
 \so F4
@@ -8594,9 +8594,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \de Classifier for small groups of people: 3 or more.
 \ge |fg{clf}.groups
@@ -9663,9 +9663,9 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> type d2a (+ɲi˥)
-\np <langue="fra"> Phonétiquement: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. La troisième syllabe commence par une attaque glottique.
-\np <langue="eng"> Phonetically: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. The third syllable begins with a glottal stop.
-\np <langue="cmn"> 实际发音：[|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]。第三个音节以喉音开头。
+\nt <type="phono" langue="fra"> Phonétiquement: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. La troisième syllabe commence par une attaque glottique.
+\nt <type="phono" langue="eng"> Phonetically: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. The third syllable begins with a glottal stop.
+\nt <type="phono" langue="cmn"> 实际发音：[|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]。第三个音节以喉音开头。
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -9823,9 +9823,9 @@
 \cf dze˧ɭɯ˧-ɻ̩̃#˥
 \lc --
 \so F4
-\np <langue="fra" type="ton"> D'après les règles synchroniques, les composés disyllabiques |fv{dze˧-ɻ̩̃#˥} (‘paille de blé’, littéralement ‘os de blé’) et |fv{dze˧-tɕʰi#˥} (‘barbe de blé’, littéralement ‘épines de blé’), au ton #H, dont le déterminé (‘os’, ‘épine’) porte un ton H, doivent avoir un déterminant qui porte, soit un ton M, soit un ton H. On en déduit que la racine monosyllabique pour ‘blé’ porte, soit un ton M, soit un ton H. D'autres scénarios diachroniques sont néanmoins possibles, tels que la réduction à une forme disyllabique d'un ancien composé qui aurait comporté plus de deux syllabes: par exemple si des composés formés sur la base du disyllabe |fv{dze˧ɭɯ˧} ‘blé’ s'étaient ensuite trouvés ramenés à deux syllabes, par ellipse de la syllabe |fv{ɭɯ˧}.
-\np <langue="eng" type="ton"> According to the current synchronic rules, the disyllabic compounds |fv{dze˧-ɻ̩̃#˥} (‘wheat straw', literally ‘wheat bone') and |fv{dze˧-tɕʰi#˥} (‘wheat beard', literally ‘wheat thorns'), with a #H tone, whose head (‘bone', ‘thorn') carries an H tone, must have a determiner that carries either an M tone or an H tone. We deduce that the monosyllabic root for ‘wheat' carries either an M or an H tone. However, other diachronic scenarios are possible, such as the reduction to disyllabic forms |fv{dze˧-ɻ̩̃#˥} ‘wheat straw' and |fv{dze˧-tɕʰi#˥} ‘wheat beard' of earlier compounds that would have contained more than two syllables: for example, if compounds formed on the basis of the disyllable |fv{dze˧ɭɯ˧} ‘wheat' had then been reduced to two syllables, by ellipsis of the syllable |fv{ɭɯ˧}.
-\np <langue="cmn" type="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
+\nt <type="phono" langue="fra" type="ton"> D'après les règles synchroniques, les composés disyllabiques |fv{dze˧-ɻ̩̃#˥} (‘paille de blé’, littéralement ‘os de blé’) et |fv{dze˧-tɕʰi#˥} (‘barbe de blé’, littéralement ‘épines de blé’), au ton #H, dont le déterminé (‘os’, ‘épine’) porte un ton H, doivent avoir un déterminant qui porte, soit un ton M, soit un ton H. On en déduit que la racine monosyllabique pour ‘blé’ porte, soit un ton M, soit un ton H. D'autres scénarios diachroniques sont néanmoins possibles, tels que la réduction à une forme disyllabique d'un ancien composé qui aurait comporté plus de deux syllabes: par exemple si des composés formés sur la base du disyllabe |fv{dze˧ɭɯ˧} ‘blé’ s'étaient ensuite trouvés ramenés à deux syllabes, par ellipse de la syllabe |fv{ɭɯ˧}.
+\nt <type="phono" langue="eng" type="ton"> According to the current synchronic rules, the disyllabic compounds |fv{dze˧-ɻ̩̃#˥} (‘wheat straw', literally ‘wheat bone') and |fv{dze˧-tɕʰi#˥} (‘wheat beard', literally ‘wheat thorns'), with a #H tone, whose head (‘bone', ‘thorn') carries an H tone, must have a determiner that carries either an M tone or an H tone. We deduce that the monosyllabic root for ‘wheat' carries either an M or an H tone. However, other diachronic scenarios are possible, such as the reduction to disyllabic forms |fv{dze˧-ɻ̩̃#˥} ‘wheat straw' and |fv{dze˧-tɕʰi#˥} ‘wheat beard' of earlier compounds that would have contained more than two syllables: for example, if compounds formed on the basis of the disyllable |fv{dze˧ɭɯ˧} ‘wheat' had then been reduced to two syllables, by ellipsis of the syllable |fv{ɭɯ˧}.
+\nt <type="phono" langue="cmn" type="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
 \de Wheat (monosyllabic root deduced from disyllabic forms).
 \ge wheat(monosyll.)
 \dn 小麦（从双音节形式推断出的单音节词根）。
@@ -10110,7 +10110,7 @@
 \lc dzi˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Pas de forme rédupliquée.
+\nt <type="phono" langue="fra"> Pas de forme rédupliquée.
 \ton MH
 \so F4
 \de To tremble, to shake.
@@ -10262,9 +10262,9 @@
 \nt <type="hist" langue="fra"> (comportement tonal: identique au type /kʰɯ˩/: cl des cordes) (rime de /dzɯ/: vérifié en 2009: est homophone de “s'asseoir", et est différent de “manger")
 \nt <dom="sem" langue="fra"> CL des arbres
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -11268,7 +11268,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <dom="sem" langue="fra"> 10e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\np <langue="fra"> formé de: dʑɤ˩bv̩˧+kɤ˧sɑ˥$+ʁwɤ˧
+\nt <type="phono" langue="fra"> formé de: dʑɤ˩bv̩˧+kɤ˧sɑ˥$+ʁwɤ˧
 \ton LM+MH#-
 \so F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
@@ -11392,7 +11392,7 @@
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\np <langue="fra"> (sens et forme vérifiés en 2007)
+\nt <type="phono" langue="fra"> (sens et forme vérifiés en 2007)
 \ton L
 \so F4
 \va <speaker="F5"> dzɤ˩ɖwæ˩
@@ -11468,7 +11468,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra" dom="ton"> Ton: type d7: /dzu˧lv̩˧lv̩˥ ɲi˩/. Dans le système exposé dans l'ouvrage de 2017, il s'agit de la catégorie H#.
 \nt <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}. Le locuteur M21 propose une forme |fv{lv̩˧lv̩˧}.
-\np <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
+\nt <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
 \nt <type="hist" langue="fra" dom="phono"> Composition segmentale de la partie rédupliquée (deuxième et troisième syllabes): vérifié: n'est pas /lɯ˧lɯ˥/.
 \ton H#
 \so F4
@@ -11536,7 +11536,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (d'abord noté dʑe˩; corrigé en: dʑɤ˩ par ts)
 \nt <dom="sem" langue="fra"> aussi: dʑɤ˩pi˧i˧di˧
-\np <langue="fra"> La catégorie tonale est établie à partir du comportement avec le verbe existentiel dʑo˩β.
+\nt <type="phono" langue="fra"> La catégorie tonale est établie à partir du comportement avec le verbe existentiel dʑo˩β.
 \ton LM+#H
 \so F4
 \va <speaker="F5"> ID.
@@ -12126,7 +12126,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> (ton: +ɲi˩)(noté “n'est pas dʑɯ"; mais vérif nouvelle 15 avril 2012: est dʑɯ)
-\np <langue="fra"> (de: /dʑi/ “eau"+disyllabe)
+\nt <type="phono" langue="fra"> (de: /dʑi/ “eau"+disyllabe)
 \ton L-LM
 \so F4
 \va <speaker="M23"> ID.
@@ -12445,7 +12445,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (d'abord noté /dʑi˧ mɤ˧ li:˧ lv̩˧) (n'est pas dʑɯ)
-\np <langue="fra"> serait tout simplement “regarder, surveiller"
+\nt <type="phono" langue="fra"> serait tout simplement “regarder, surveiller"
 \ton M
 \lc dʑɯ˧li˧
 \so F4
@@ -12991,7 +12991,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> (tons confirmés en 2006 et 2007, composition phonémique confirmée)
-\np <langue="fra"> (confirmé: différent de M21: dit ʁu et non /ʁv/) (vient de: dʑi˩ʁu˩˧)
+\nt <type="phono" langue="fra"> (confirmé: différent de M21: dit ʁu et non /ʁv/) (vient de: dʑi˩ʁu˩˧)
 \ton L
 \lc dʑɯ˩ʁo˩-zɯ˩˥
 \so F4
@@ -13164,7 +13164,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (ton de ze˩ confirmé en 2008, confirmant l'hypothèse à l'écoute; avais d'abord noté ˧) (avant 2011: noté dʑi˩tɤ˩ɻ̩˧ gv̩˧-ze˩) (n'est pas dʑɯ)
-\np <langue="fra"> variante: dʑɯ˩dɤ˩-ɻ̩˥
+\nt <type="phono" langue="fra"> variante: dʑɯ˩dɤ˩-ɻ̩˥
 \ton L+H#
 \sy ɖʐɻ̩˥
 \lc dʑɯ˩tɤ˩ɻ̩˥
@@ -13318,7 +13318,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (d'abord noté ʈɻ̩˥) (proposé par F5; réécoute 1/2008: ʈv̩˥? paraît bien être la même rime que 34; F5 indique bien que ce n'est pas ʈɻ, celui-là réalisé avec “trilling")
-\np <langue="fra"> confirmé: n'est pas la première syllabe que dans dʑi˩gv̩˧, qui a pourtant un sens très proche; coïncidence?
+\nt <type="phono" langue="fra"> confirmé: n'est pas la première syllabe que dans dʑi˩gv̩˧, qui a pourtant un sens très proche; coïncidence?
 \ton LM
 \lc dʑɯ˩ʈv̩˥
 \so F4
@@ -13363,7 +13363,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (n'est pas dʑɯ)
-\np <langue="fra"> (verbe non élicitable séparément: 1e syll. est “eau", 2e syll. est un verbe qu'on ne peut dissocier) (rime 2e syllabe: phonétiquement proche de /ɻ/; vérifié: est la même syllabe que “rosée", “mouillé" etc.) (vérifié, n'est pas ɖʐv ni ɖʐwɤ ni ɖv); ex.: dʑi˩ʐv̩˩ ə˧bi˩? “tu vas/viens nager?" (certaines personnes disent /ɖv/, d'après M23)
+\nt <type="phono" langue="fra"> (verbe non élicitable séparément: 1e syll. est “eau", 2e syll. est un verbe qu'on ne peut dissocier) (rime 2e syllabe: phonétiquement proche de /ɻ/; vérifié: est la même syllabe que “rosée", “mouillé" etc.) (vérifié, n'est pas ɖʐv ni ɖʐwɤ ni ɖv); ex.: dʑi˩ʐv̩˩ ə˧bi˩? “tu vas/viens nager?" (certaines personnes disent /ɖv/, d'après M23)
 \ton L
 \lc dʑɯ˩ʐv̩˩˥
 \so F4
@@ -13386,7 +13386,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> avant 2012: noté /dʑi˩˧/ ; réécoute: paraît être /dʑi/ et pas /dʑɯ/; mais vérifié en avril 2012: est bien /dʑɯ/.
 \nt <type="hist" langue="fra"> ton L confirmé en 2012
-\np <langue="fra"> on peut aussi utiliser 1426
+\nt <type="phono" langue="fra"> on peut aussi utiliser 1426
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -13443,9 +13443,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. La forme †|fv{/le˧-ɖʐɯ˧˥/} n'est pas en usage.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
+\nt <type="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. La forme †|fv{/le˧-ɖʐɯ˧˥/} n'est pas en usage.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton MH
 \lc ɖʐɯ˩ɖʐɯ˧˥
 \so F4
@@ -13567,7 +13567,7 @@
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra"> (+ɲi˩) (d'abord noté kʰv̩˧) notes anciennes: “ɖʐv̩˩kʰɯ˩-ze˧ (tons vérifiés en mai 2008, d'abord noté ˧˧˥) sens confirmé par M18 en juin 2008"; tons corrigés à nouveau en ɖʐv̩˧ kʰɯ˧-ze˥ en nov. 2011
-\np <langue="fra"> Peut s'employer dans un sens élargi; par exemple: si on veut s'excuser: l'équivalent du chinois 不好意思 sera: ɖʐv̩˩kʰɯ˩-ze˧!
+\nt <type="phono" langue="fra"> Peut s'employer dans un sens élargi; par exemple: si on veut s'excuser: l'équivalent du chinois 不好意思 sera: ɖʐv̩˩kʰɯ˩-ze˧!
 \ton M
 \lc ɖʐv̩˧
 \so F4
@@ -13903,7 +13903,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> forme moins fréquente que le disyllabe /ɖʐwæ˧mi˧/
+\nt <type="phono" langue="fra"> forme moins fréquente que le disyllabe /ɖʐwæ˧mi˧/
 \ton LM
 \lc ɖʐwæ˩˥
 \so F4
@@ -14216,7 +14216,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> +ɲi˩
-\np <langue="fra"> phonétiquement proche de …tɕi˧li˧; noté ainsi jusqu'en 2011
+\nt <type="phono" langue="fra"> phonétiquement proche de …tɕi˧li˧; noté ainsi jusqu'en 2011
 \ton M
 \lc ə˧bo˧tɕo˧li˧
 \so F4
@@ -14309,7 +14309,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so F4
-\np <langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème “oui”, /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
+\nt <type="phono" langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème “oui”, /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
 \de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
 \ge |fg{intj}.approbation
 \dn 感叹词：赞同的插入语。可能是 “是的 ”，/|fv{ĩ˧}/，的变形。一般语调上扬，接近MH调。
@@ -14421,7 +14421,7 @@
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (tons confirmés plusieurs fois)
 \nt <dom="sem" langue="fra"> on peut appeler le père comme les oncles maternels: ə˧v̩˧˥, ə˧bu˥
-\np <langue="fra"> phonétiquement: [ɑ˧dɑ˥]
+\nt <type="phono" langue="fra"> phonétiquement: [ɑ˧dɑ˥]
 \ton H$
 \lc ə˧dɑ˥
 \so F4
@@ -14681,7 +14681,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra"> (notations anciennes: ɑ˥χwɤ˥; /hwɤ˥/) (+mv̩˩kʰv̩˩˧)
-\np <langue="fra"> phonétiquement: [ɑ˧hwɤ˧]
+\nt <type="phono" langue="fra"> phonétiquement: [ɑ˧hwɤ˧]
 \ton M
 \lc ə˧hwɤ˧
 \so F4
@@ -14734,7 +14734,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra"> (tons confirmés; d'abord noté ˧ ˧ ˥ ˧)
-\np <langue="fra"> phonétiquement: [e˧i˧ʂɯ˥i˩]
+\nt <type="phono" langue="fra"> phonétiquement: [e˧i˧ʂɯ˥i˩]
 \ton #H-
 \lc ə˧ʝi˧ʂɯ˥ʝi˩
 \so F4
@@ -14795,7 +14795,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> [e˧jɤ˩]
+\nt <type="phono" langue="fra"> [e˧jɤ˩]
 \ton L#
 \lc ə˧jɤ˩
 \so F4
@@ -14817,7 +14817,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> (cf récit “travaux des champs" par F4)
+\nt <type="phono" langue="fra"> (cf récit “travaux des champs" par F4)
 \ton L
 \lc ə˩kʰɯ˩˥
 \so F4
@@ -14903,7 +14903,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> est un terme d'adresse, se prête difficilement à association avec un classificateur (tel que ɖɯ˧jɤ˧˥) (selon ts, peut-être mot emprunté à des langues voisines: chinois? yi?)
-\np <langue="fra"> [ɑ˧mɑ˧]
+\nt <type="phono" langue="fra"> [ɑ˧mɑ˧]
 \ton M
 \lc ə˧mɑ˧
 \so F4
@@ -14929,7 +14929,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> employé aussi pour “marâtre"
-\np <langue="fra"> [e˧mi˧]
+\nt <type="phono" langue="fra"> [e˧mi˧]
 \ton M
 \lc ə˧mi˧
 \so F4
@@ -14957,7 +14957,7 @@
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> faute de frappe corrigée en juillet 2012: avais noté ‡ə˧mi˩-ɖɯ˩
 \nt <dom="sem" langue="fra"> grande maman
-\np <langue="fra"> [e˧mi˩ɖɯ˩]
+\nt <type="phono" langue="fra"> [e˧mi˩ɖɯ˩]
 \ton L#
 \lc ə˧mi˧ɖɯ˩
 \so F4
@@ -15058,7 +15058,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (noté ˥ ˩ ˩ en 2007; notation 2006: “æ˥mv̩˧ʁæ˩; tons confirmés; d'abord noté ˧˩˩")
-\np <langue="fra"> variante tonale MH#: æ˧mv̩˧˥, æ˧mv̩˧ ɲi˥; idem chez M23
+\nt <type="phono" langue="fra"> variante tonale MH#: æ˧mv̩˧˥, æ˧mv̩˧ ɲi˥; idem chez M23
 \ton L#
 \lc ə˧mv̩˩
 \so F4
@@ -15088,7 +15088,7 @@
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (corrigé en 2007; notation 2006: ˧˧˥˧) (intéressant, tons confirmés) (est différent de 309)
 \nt <type="hist" langue="fra"> (corrigé le 5/11/2007; notation 2006: “æ˧mv̩˧gi˧zɯ˥; tons confirmés, pas les mêmes qu'ama")
-\np <langue="fra"> on ne peut dire ‡æ˧mv̩˩-gi˩zɯ˩, forme qui serait attendue si le composé était fondé sur la variante æ˧mv̩˩ et non sur la variante æ˧mv̩˧˥.
+\nt <type="phono" langue="fra"> on ne peut dire ‡æ˧mv̩˩-gi˩zɯ˩, forme qui serait attendue si le composé était fondé sur la variante æ˧mv̩˩ et non sur la variante æ˧mv̩˧˥.
 \ton #H-
 \lc ə˧mv̩˧gi˥zɯ˩
 \so F4
@@ -15134,7 +15134,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (avant 2009: noté /æ˧mv̩˥tɕi˧ gv̩˧/) (n'est pas tɕɯ)
-\np <langue="fra"> idée d'analyse en novembre 2008: serait ə.mv̩.tɕi, le æ étant déterminé par le /v̩/ de la 2e syllabe? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv̩/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
+\nt <type="phono" langue="fra"> idée d'analyse en novembre 2008: serait ə.mv̩.tɕi, le æ étant déterminé par le /v̩/ de la 2e syllabe? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv̩/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
 \ton H#-
 \lc ə˧mv̩˥tɕi˩
 \so F4
@@ -15255,7 +15255,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> [æ˧pʰv̩˧]
+\nt <type="phono" langue="fra"> [æ˧pʰv̩˧]
 \ton M
 \lc ə˧pʰv̩˧
 \so F4
@@ -15316,7 +15316,7 @@
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (notation 2009; auparavant: ɤ˥ sɯ˥ ɤ˥ pʰv̩˥)
 \nt <type="hist" langue="fra"> M23: confirmé, est /si/ et non /sɯ/
-\np <langue="fra"> proche de [ɤ˧si˧æ˧pʰv̩˧]
+\nt <type="phono" langue="fra"> proche de [ɤ˧si˧æ˧pʰv̩˧]
 \ton #H
 \lc ə˧si˧ə˧pʰv̩˧
 \so F4
@@ -15338,7 +15338,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra"> Avant 2014: interprété comme: ce matin (fin de matinée; un peu avant le déjeuner)
-\np <langue="fra"> phonétiquement: ɑ˧so˧
+\nt <type="phono" langue="fra"> phonétiquement: ɑ˧so˧
 \ton M
 \lc ə˧so˧
 \so F4
@@ -15414,7 +15414,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (refuse la réalisation du suffixe de pluriel comme un simple /ɻ/) (n'est pas tɕɯ)
-\np <langue="fra"> [e˧tɕi˩]
+\nt <type="phono" langue="fra"> [e˧tɕi˩]
 \ton L#
 \lc ə˧tɕi˩
 \so F4
@@ -15494,7 +15494,7 @@
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np <langue="fra"> phonétiquement: [ɑ.tso]; noté ainsi jusqu'au début 2012
+\nt <type="phono" langue="fra"> phonétiquement: [ɑ.tso]; noté ainsi jusqu'au début 2012
 \ton M
 \lc ə˧tso˧
 \so F4
@@ -15716,7 +15716,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (d'abord noté e˧ ʐi˩˥)
-\np <langue="fra"> [e˧ʑi˧˥]
+\nt <type="phono" langue="fra"> [e˧ʑi˧˥]
 \ton MH#
 \lc ə˧ʑi˧˥
 \so F4
@@ -15747,7 +15747,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> formé de d2b+d1 (avant 2009: noté: ˧ ˧ ˧ ˥)
-\np <langue="fra"> [e˧ʑi˧æ˧pʰv̩˧˥]
+\nt <type="phono" langue="fra"> [e˧ʑi˧æ˧pʰv̩˧˥]
 \ton MH#
 \lc ə˧ʑi˧ə˧pʰv̩˧˥
 \so F4
@@ -15854,7 +15854,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> …ɲi˩; vérifié: la variante n'est pas ə˧zɯ˧˥ mais ˩ ˩˥
-\np <langue="fra" dom="ton" type="hist"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule.
+\nt <type="phono" langue="fra" dom="ton" type="hist"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule.
 \ton L#
 \sy ə˩=zɯ˩
 \lc ə˧zɯ˩
@@ -15874,7 +15874,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> …ɲi˩; vérifié: la variante n'est pas ə˧zɯ˧˥ mais ˩ ˩˥
-\np <langue="fra" dom="ton"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule
+\nt <type="phono" langue="fra" dom="ton"> variantes tonales: L# et L. La variante L semble toujours former un groupe phonologique à elle seule
 \ton L
 \sy ə˧=zɯ˩
 \lc ə˩zɯ˩˥
@@ -15962,7 +15962,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé en 2012: est un ton L)
-\np <langue="fra"> Mot na le plus proche: “se gâter, pourrir"
+\nt <type="phono" langue="fra"> Mot na le plus proche: “se gâter, pourrir"
 \ton Lα
 \lc fɑ˩˥
 \so F4
@@ -16202,7 +16202,7 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\np <langue="fra"> provient très certainement de gɤ˩pʰæ˧ par harmonie vocalique
+\nt <type="phono" langue="fra"> provient très certainement de gɤ˩pʰæ˧ par harmonie vocalique
 \ton LM
 \lc gæ˩pʰæ˥
 \cf mv̩˩pʰæ˧
@@ -16545,7 +16545,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (explication de ts; confirmé par F4)
 \nt <dom="sem" langue="fra"> /gi˩˥ | gɯ˩˥/ est la contraction de /gɯ˩-ʝi˥ | gɯ˩˥/
-\np <langue="fra"> (phonétiquement, dans gi˩˥ gɯ˩˥, la première syllabe est plus longue que la deuxième, son ton monte plus haut)
+\nt <type="phono" langue="fra"> (phonétiquement, dans gi˩˥ gɯ˩˥, la première syllabe est plus longue que la deuxième, son ton monte plus haut)
 \ton Lα
 \lc gi˩˥
 \so F4
@@ -16825,7 +16825,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> dans Naissance du Lac 3: notations ‡go˩bo˧˥
 \nt <dom="comp" langue="lata1234"> vubbo
-\np <langue="fra"> inclut: chevaux, vaches…
+\nt <type="phono" langue="fra"> inclut: chevaux, vaches…
 \ton LH
 \so F4
 \va <speaker="M23"> ID.
@@ -16899,7 +16899,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> gɤ˩tsɯ˥tʰv̩˧ze˩ (tons et voyelles confirmées, n'est pas gɑ˩tsɯ˥) “ça a débordé"
-\np <langue="fra"> pas reconnu par M21
+\nt <type="phono" langue="fra"> pas reconnu par M21
 \ton LM
 \so F4
 \de To overflow. For example, when one puts a lid on a saucepan and the fire is strong, the liquid can overflow.
@@ -17079,7 +17079,7 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" langue="fra"> avant 2011: noté comme voyelle /e/, puis /ə/; notation avant 2014: /gɤ!…/
-\np <langue="fra"> gɤ˩: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Notation à partir de 2014: /gɤ˩-…/, généralement accompagné d'un accent d'insistance, ↑
+\nt <type="phono" langue="fra"> gɤ˩: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Notation à partir de 2014: /gɤ˩-…/, généralement accompagné d'un accent d'insistance, ↑
 \ton M
 \lc gɤ˩qo˥
 \so F4
@@ -17216,7 +17216,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Notation avant 2014: /gɤ!…/
-\np <langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <type="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
 \ton L-#H
 \lc gɤ˩ʈʂʰɯ˧gi˧
 \so F4
@@ -17237,7 +17237,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Notation avant 2014: /gɤ!…/
-\np <langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <type="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
 \ton L-#H
 \lc gɤ˩ʈʂʰɯ˧qo˧
 \so F4
@@ -17260,7 +17260,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Notation avant 2014: /gɤ!…/
-\np <langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <type="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
 \ton L-#H
 \lc gɤ˩tʰv̩˧gi˧
 \so F4
@@ -17283,7 +17283,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Notation avant 2014: /gɤ!…/
-\np <langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <type="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
 \ton L-#H
 \lc gɤ˩tʰv̩˧qo˧
 \so F4
@@ -17446,7 +17446,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (corrigé en 2007; en 2006, avais noté: no˥ hĩ˥ gɤ˩ kʰɯ˥)
-\np <langue="fra"> (même sens que 1299a, selon M23)
+\nt <type="phono" langue="fra"> (même sens que 1299a, selon M23)
 \ton Lα
 \so F4
 \va <speaker="M23"> ID.
@@ -18232,7 +18232,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Homophone avec “bon (d'une personne)": gv̩˧ | ʐwæ˩˥!
+\nt <type="phono" langue="fra"> Homophone avec “bon (d'une personne)": gv̩˧ | ʐwæ˩˥!
 \de To prepare (a meal), to cook.
 \ge to_cook/to_prepare
 \dn 做（饭）
@@ -18293,7 +18293,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé en 2012: est un ton L)
-\np <langue="fra"> monosyllabe reconstruit sur la base de la forme rédupliquée.
+\nt <type="phono" langue="fra"> monosyllabe reconstruit sur la base de la forme rédupliquée.
 \ton Lα
 \so F4
 \de To tidy up, to sort out.
@@ -18499,7 +18499,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra"> d'abord noté hæ˥, hæ˥tʰv̩˥
 \nt <dom="comp" langue="yong1270"> lhae / shae
-\np <langue="fra"> Cette syllabe comporte une nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux". Forme monosyllabique non élicitée en cadre: pb sémantique.
+\nt <type="phono" langue="fra"> Cette syllabe comporte une nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux". Forme monosyllabique non élicitée en cadre: pb sémantique.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -18537,7 +18537,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> cf récit F4 1
+\nt <type="phono" langue="fra"> cf récit F4 1
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -18567,7 +18567,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> cf récit F4 1
+\nt <type="phono" langue="fra"> cf récit F4 1
 \so F4
 \de To castrate.
 \ge to_castrate
@@ -19021,7 +19021,7 @@
 \sd <langue="eng"> house
 \ton H#-
 \lc hɑ˧gv̩˥di˩
-\np <langue="fra"> Comportement tonal parfaitement régulier au vu du ton des trois morphèmes dont est composé le mot.
+\nt <type="phono" langue="fra"> Comportement tonal parfaitement régulier au vu du ton des trois morphèmes dont est composé le mot.
 \so F4
 \de Stove.
 \ge stove
@@ -19460,7 +19460,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra" print="n"> homophone de “vent"
-\np <langue="fra" print="n"> comportement tonal irrégulier: comme un ton M en isolation et dans les cadres simples des prédicats (tʰɑ˧ hæ̃˧, mɤ˧-hæ̃˧ etc), mais avec pour objet “céréale", il ne se comporte pas comme les autres verbes au ton M.
+\nt <type="phono" langue="fra" print="n"> comportement tonal irrégulier: comme un ton M en isolation et dans les cadres simples des prédicats (tʰɑ˧ hæ̃˧, mɤ˧-hæ̃˧ etc), mais avec pour objet “céréale", il ne se comporte pas comme les autres verbes au ton M.
 \ton Mα
 \so F4
 \va <speaker="M21"> hɑ˧lʰæ˩
@@ -19559,7 +19559,7 @@
 \lc hɑ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (ne peut se rédupliquer)
+\nt <type="phono" langue="fra"> (ne peut se rédupliquer)
 \ton Lα
 \so F4
 \de To open (one's eyes).
@@ -20050,7 +20050,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de |fv{/hi˧le˩ ʝi˩/} comme |fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
-\np <langue="fra"> forme monosyllabique: extraite de l'expression disyllabique |fv{/hi˧le˩/}
+\nt <type="phono" langue="fra"> forme monosyllabique: extraite de l'expression disyllabique |fv{/hi˧le˩/}
 \ton H?
 \lc hi˧le˩
 \so F4
@@ -20326,7 +20326,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <dom="sem" langue="fra"> 12e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\np <langue="fra"> … ɲi˩
+\nt <type="phono" langue="fra"> … ɲi˩
 \ton L-M
 \lc hi˩ʁwɤ˩lo˥
 \so F4
@@ -20525,7 +20525,7 @@
 \lc ho˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (n'est pas un emprunt)
+\nt <type="phono" langue="fra"> (n'est pas un emprunt)
 \ton MH
 \so F4
 \va <speaker="M23"> ID.
@@ -20561,7 +20561,7 @@
 \lc ho˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> forte friction de l'initiale
+\nt <type="phono" langue="fra"> forte friction de l'initiale
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
@@ -20840,7 +20840,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé)
-\np <langue="fra"> mɤ˧-gv̩˧ze˧! “ça ne va pas!"
+\nt <type="phono" langue="fra"> mɤ˧-gv̩˧ze˧! “ça ne va pas!"
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
@@ -20908,7 +20908,7 @@
 \lc ho˩lo˧pv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> (emprunt)
+\nt <type="phono" langue="fra"> (emprunt)
 \ton LM+H#
 \so F4
 \va <speaker="F5"> ID.
@@ -21357,7 +21357,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> avant 2013: noté /ho/, manquant l'opposition /hu/-/ho/
-\np <langue="fra"> (forme monosyllabique peu usuelle)
+\nt <type="phono" langue="fra"> (forme monosyllabique peu usuelle)
 \ton MH
 \so F4
 \pdv ɭɯ˧β
@@ -21532,7 +21532,7 @@
 \lc hṽ̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (ton déduit du schéma tonal de la forme rédupliquée)
+\nt <type="phono" langue="fra"> (ton déduit du schéma tonal de la forme rédupliquée)
 \ton H
 \so F4
 \de To stir-fry.
@@ -21675,7 +21675,7 @@
 \lc hṽ̩˧nɑ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> (cf récit 1)
+\nt <type="phono" langue="fra"> (cf récit 1)
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -21697,7 +21697,7 @@
 \lc hṽ̩˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\np <langue="fra"> (la forme monosyllabique est rare; cf entrées suivantes)
+\nt <type="phono" langue="fra"> (la forme monosyllabique est rare; cf entrées suivantes)
 \ton Lα
 \so F4
 \de Red.
@@ -21736,9 +21736,9 @@
 \nt <type="hist" langue="fra"> Voyelle vérifiée en 2008.
 \nt <type="hist" langue="fra"> Avant 2024: noté une forme à l'isolée /hṽ̩˩~hṽ̩˩/. Corrigé en juillet 2024 en/hṽ̩˩~hṽ̩˧˥/.
 \nt <type="hist" dom="sem" langue="fra"> Le locuteur M18 propose (c. 2006) une étymologie dans laquelle ce mot serait parent du mot pour “pâte", |fv{dʑɯ˩hṽ̩˧˥}: quelqu'un qui dérange est “pot de colle", on aimerait prendre ses distances mais il est “collant". M21 adhère à cette interprétation. En 2024, l'avis de F4 est formel: les deux mots sont sans lien entre eux.
-\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
+\nt <type="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -21847,7 +21847,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> Vérifié: l'initiale de la deuxième syllabe est vélaire et non uvulaire.
-\np <langue="fra"> Confirmé: la syllabe est /hwɑ/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois (système actuel de la locutrice pour prononcer les mots chinois). On aurait attendu /hwæ/ ou /hwɤ/, si le mot se conformait à la phonotactique du na.
+\nt <type="phono" langue="fra"> Confirmé: la syllabe est /hwɑ/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois (système actuel de la locutrice pour prononcer les mots chinois). On aurait attendu /hwæ/ ou /hwɤ/, si le mot se conformait à la phonotactique du na.
 \ton LM
 \so F4
 \pdv ɭɯ˧β
@@ -22289,7 +22289,7 @@
 \lc hwɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (négation: mɤ˧-hwɤ˥) ; donne: hĩ˧hwɤ˥
+\nt <type="phono" langue="fra"> (négation: mɤ˧-hwɤ˥) ; donne: hĩ˧hwɤ˥
 \ton H
 \so F4
 \de To participate in a funeral ceremony (literally ‘to see [the deceased] out').
@@ -22780,7 +22780,7 @@
 \lc ĩ˧!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np <langue="fra"> un ton est indiqué; mais ce n'est pas un “vrai ton"; n'entre pas en relation avec les tons environnants; ne se conjuge pas comme un verbe
+\nt <type="phono" langue="fra"> un ton est indiqué; mais ce n'est pas un “vrai ton"; n'entre pas en relation avec les tons environnants; ne se conjuge pas comme un verbe
 \ton M
 \so F4
 \de Yes, OK.
@@ -23784,7 +23784,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (corrigé en mai 2008; d'abord noté i˧wɤ˧; première notation: i˧wo˧) (confirmé: est /ʁu/ et non /ʁv/)
-\np <langue="fra"> ʈʂʰɯ˧ ʝi˧ʁu˧-hĩ˧ ɖɯ˧-v̩˧ ɲi˩: -hĩ˧ souvent réduit au point d'être tout à fait absent
+\nt <type="phono" langue="fra"> ʈʂʰɯ˧ ʝi˧ʁu˧-hĩ˧ ɖɯ˧-v̩˧ ɲi˩: -hĩ˧ souvent réduit au point d'être tout à fait absent
 \ton #H
 \so F4
 \va <speaker="M21"> ʝi˧ʁv̩˧
@@ -23821,7 +23821,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\np <langue="fra"> pʰi˧tsʰo˧, ami de M18 vivant à lo˧gv̩˩ (Ninglang), dit: jɤ˩sɑ˧, “parapluie des étrangers", sur le modèle de jɤ˩hu˧ “allumettes" et jɤ˩ju˧ “pommes de terre", dont la première syllabe vient du chinois 洋.
+\nt <type="phono" langue="fra"> pʰi˧tsʰo˧, ami de M18 vivant à lo˧gv̩˩ (Ninglang), dit: jɤ˩sɑ˧, “parapluie des étrangers", sur le modèle de jɤ˩hu˧ “allumettes" et jɤ˩ju˧ “pommes de terre", dont la première syllabe vient du chinois 洋.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -23989,7 +23989,7 @@
 \nt <type="hist" langue="fra"> (n'est pas tɕɯ) (avant mai 2012: noté ‡ʝi˧ʈʂe˧-ɬɑ˩mv̩˩)
 \ton -L
 \lc ʝi˧tɕi˧ɬɑ˩mv̩˩
-\np <langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <type="phono" langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so F4
 \de Yijie Lhamu, a feminine given name.
 \ge Yijie_Lhamu
@@ -24007,7 +24007,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> confirmé; avant 2009: noté: i˩ʈʂæ˧, ton d5b; citation: ˩ ˧ et non ˩ ˧˥; en cadre: est bien d5.
 \nt <type="hist" langue="fra"> (ton différent de celui de F4)
-\np <langue="fra"> Réalisation phonétique parfois proche de HLRH (cf doc. Tons LD); qd je fournis la forme de citation erronée ˩ ˩˧, F4 ne corrige pas aussitôt; n'est pas une “grosse faute" par rapport à d'autres substitutions.
+\nt <type="phono" langue="fra"> Réalisation phonétique parfois proche de HLRH (cf doc. Tons LD); qd je fournis la forme de citation erronée ˩ ˩˧, F4 ne corrige pas aussitôt; n'est pas une “grosse faute" par rapport à d'autres substitutions.
 \ton LM+MH#
 \lc ʝi˩ʈʂæ˧˥
 \so F4
@@ -24425,9 +24425,9 @@
 \nt <type="hist" langue="fra"> (d'abord noté ju˧)
 \ton Lβ
 \lc ɖɯ˧ jo˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -24553,7 +24553,7 @@
 \cf jɤ˧qʰɑ#˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> (ts dit: jɤ˧gɤ˧)
+\nt <type="phono" langue="fra"> (ts dit: jɤ˧gɤ˧)
 \ton L#
 \lc jɤ˧gɯ˩
 \so F4
@@ -24612,7 +24612,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt au chinois: 洋火 “le feu des étrangers")
-\np <langue="fra"> ne peut se combiner avec les suffixes -mi et -zo
+\nt <type="phono" langue="fra"> ne peut se combiner avec les suffixes -mi et -zo
 \ton LM
 \lc jɤ˩ho˥
 \so F4
@@ -25055,7 +25055,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> ton d3 (vérifié en 2009)
-\np <langue="fra"> variante tonale #H
+\nt <type="phono" langue="fra"> variante tonale #H
 \ton L
 \lc jo˩zo˩˥
 \so F4
@@ -25216,7 +25216,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> ton d'abord noté ˩˧
-\np <langue="fra"> ton déduit de la forme interrogative
+\nt <type="phono" langue="fra"> ton déduit de la forme interrogative
 \ton MH
 \lc kʰi˧˥
 \cf bi˧γ
@@ -25914,7 +25914,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra">
-\np <langue="fra"> fendre du bois
+\nt <type="phono" langue="fra"> fendre du bois
 \ton Lβ
 \lc kɤ˩˥
 \so F4
@@ -26399,7 +26399,7 @@
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" langue="fra"> d'abord noté ‡qɑ˧˥…, du fait d'une forte harmonie vocalique
-\np <langue="fra"> (ton inhabituel)
+\nt <type="phono" langue="fra"> (ton inhabituel)
 \ton MH+L
 \lc kɤ˧˥tʰɑ˩
 \so F4
@@ -26428,7 +26428,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra">
-\np <langue="fra"> La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
+\nt <type="phono" langue="fra"> La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
 \ton L-#H
 \lc kɤ˩tjɤ˧ljɤ˧
 \so F4
@@ -26850,7 +26850,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> njɤ˧ɳɯ˧ no˧ kɤ˩kɤ˧ bi˥!: avant 2009: noté …kɤ˩kɤ˧bi˧, par erreur); ʈʂo˧tsɯ˥kɤ˩kɤ˩ +ze˩/bi˩, ʈʂo˧tsɯ˥kɤ˩kɤ˩bi˩: tons vérifiés en 2006 et à nouveau en 2007)
-\np <langue="fra"> frapper doucement, toquer; aussi pour: petits coups qu'on donne sur un sofa pour chasser les miettes et poussières
+\nt <type="phono" langue="fra"> frapper doucement, toquer; aussi pour: petits coups qu'on donne sur un sofa pour chasser les miettes et poussières
 \ton L+MH#
 \lc kɤ˩kɤ˧˥
 \so F4
@@ -27171,9 +27171,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
@@ -27310,7 +27310,7 @@
 \ps n
 \cf ʝi˩næ˩-se˧
 \lc kʰu˧mi˩
-\np <langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
+\nt <type="phono" langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#
@@ -27930,7 +27930,7 @@
 \lc kʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> Le monosyllabe n'est pas couramment utilisé mais est attesté, par exemple dans le récit “chien". Analysé comme #H. Parallèles: comme /ʐwæ˥/ “cheval", donne un ton L avec le suffixe -mi, comme /ʐwæ˩mi˩˧/. Autre indice: les noms des années: “année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or “Cheval" et “Bœuf" sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres années, correspondant à des monosyllabes aux tons L, ML, M et MH.
+\nt <type="phono" langue="fra"> Le monosyllabe n'est pas couramment utilisé mais est attesté, par exemple dans le récit “chien". Analysé comme #H. Parallèles: comme /ʐwæ˥/ “cheval", donne un ton L avec le suffixe -mi, comme /ʐwæ˩mi˩˧/. Autre indice: les noms des années: “année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or “Cheval" et “Bœuf" sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres années, correspondant à des monosyllabes aux tons L, ML, M et MH.
 \ton #H
 \so F4
 \pdv mi˩
@@ -28427,7 +28427,7 @@
 \lc kʰv̩˧qʰwɤ˧˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\np <langue="fra"> on ne peut isoler le nom †kʰv̩˧qʰwɤ˧, car la combinaison de syllabes /kʰv̩˧qʰwɤ#˥/ veut dire “bol du chien"
+\nt <type="phono" langue="fra"> on ne peut isoler le nom †kʰv̩˧qʰwɤ˧, car la combinaison de syllabes /kʰv̩˧qʰwɤ#˥/ veut dire “bol du chien"
 \ton MH#
 \so F4
 \de Bad year, year when the crops are bad.
@@ -28595,7 +28595,7 @@
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra"> vérifié: est bien ɻ̩̃˧ɻ̩˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
-\np <langue="fra"> pas réussi à déterminer le ton lexical, les contextes d'apparition étant restreints
+\nt <type="phono" langue="fra"> pas réussi à déterminer le ton lexical, les contextes d'apparition étant restreints
 \ton H$
 \lc kʰv̩˧tɕʰi˥
 \so F4
@@ -28677,7 +28677,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> sens vérifié: 1 tête contient plusieurs gousses
+\nt <type="phono" langue="fra"> sens vérifié: 1 tête contient plusieurs gousses
 \ton L#
 \lc kv̩˧tsʰɤ˩
 \so F4
@@ -29291,7 +29291,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> vérifié: initiale vélaire et non uvulaire(confirmé en 2012: est un ton L)
-\np <langue="fra"> aussi dans un sens figuré: ex.: récit 1: celui-là, on va le mettre dans un coin (mendiant): littéralement “on va le jeter dans un coin"
+\nt <type="phono" langue="fra"> aussi dans un sens figuré: ex.: récit 1: celui-là, on va le mettre dans un coin (mendiant): littéralement “on va le jeter dans un coin"
 \ton Lα
 \lc kwɤ˩˥
 \so F4
@@ -29321,7 +29321,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> n'est pas un emprunt; le mot chinois |fn{管} est emprunté avec ton moyen et voyelle æ
+\nt <type="phono" langue="fra"> n'est pas un emprunt; le mot chinois |fn{管} est emprunté avec ton moyen et voyelle æ
 \ton Lα
 \lc kwɤ˩˥
 \so F4
@@ -29348,7 +29348,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> (vérifié, n'est pas /qʰwɤ/) (premiers terrains: enregistré par erreur /ɖɯ˧gv̩˧/ “un, une unité") confirmé: est homophone avec « rocher » ou « poing »
 \nt <dom="sem" langue="fra"> un quartier, un petit morceau
-\np <langue="fra"> confirmé: dans “c'est vous qui décidez", il s'agit du même /kʰwɤ˥/ que le classificateur, ‘un morceau'
+\nt <type="phono" langue="fra"> confirmé: dans “c'est vous qui décidez", il s'agit du même /kʰwɤ˥/ que le classificateur, ‘un morceau'
 \ton Hα
 \lc ɖɯ˧ kʰwɤ˥
 \so F4
@@ -29527,7 +29527,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> “il y a de la rosée"
+\nt <type="phono" langue="fra"> “il y a de la rosée"
 \ton MH
 \lc lɑ˧˥
 \so F4
@@ -30221,7 +30221,7 @@
 \sd <langue="eng"> given name
 \ton H#-M-L
 \lc lɑ˧tʰɑ˧mi˥ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
-\np <langue="fra"> Généralement prononcé avec une latérale simple, voisée, et une nasale sommet de syllabe: […lɑ˩m̩˩].
+\nt <type="phono" langue="fra"> Généralement prononcé avec une latérale simple, voisée, et une nasale sommet de syllabe: […lɑ˩m̩˩].
 \so F4
 \de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) for this volume (speaker code: F4).
 \ge Latami_Daeshi_Lhamu
@@ -30699,7 +30699,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" dom="comp" print="n"> lʲɯ55 (lʲv̩˥)
-\np <langue="fra"> ʈʂʰɯ˧ ɬi˩ ɲi˩˧, càd ton ˩ (d'après hjr/jzy p. 112; notent ɬe˧)
+\nt <type="phono" langue="fra"> ʈʂʰɯ˧ ɬi˩ ɲi˩˧, càd ton ˩ (d'après hjr/jzy p. 112; notent ɬe˧)
 \ton L
 \lc ɬi˧
 \so F4
@@ -30746,7 +30746,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (phonétiquement: le˧-ɬi˥)
+\nt <type="phono" langue="fra"> (phonétiquement: le˧-ɬi˥)
 \ton H
 \lc ɬi˧
 \so F4
@@ -30774,9 +30774,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -31451,7 +31451,7 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra"> (d'abord noté ɬi˩kʶwɤ˩˥)
-\np <langue="fra"> (mot “lolo-birman" selon Matisoff)
+\nt <type="phono" langue="fra"> (mot “lolo-birman" selon Matisoff)
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -31476,7 +31476,7 @@
 \lc ɬi˩ʁɑ˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\np <langue="fra"> (cf récit 1)
+\nt <type="phono" langue="fra"> (cf récit 1)
 \ton L
 \so F4
 \de Infuriated, in a rage (connotation: attitude of a violent and overbearing person).
@@ -32002,9 +32002,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \de Self-classifier for valleys.
 \ge |fg{clf}.valleys
@@ -32108,7 +32108,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" dom="comp" print="n"> lõ55bɯ22tɕʰi22 (emprunt tibétain)/ lõ55tɕʰĩ51 (notation AM: lõ˥bv̩˩tɕʰi˩)
-\np <langue="fra"> emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
+\nt <type="phono" langue="fra"> emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
 \ton L#-
 \so F4
 \va <speaker="F5"> lo˧bv̩˩ʈʂʰv̩˩
@@ -32382,7 +32382,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (Première impression en 2006: “longueur: sans doute simplement le fait d'une frontière"; en fait: analyse du mot: lo˧ i˧ hĩ˧ hĩ˧ (tons vérifiés; avais noté ˧ ˧ ˧ ˥ au début, du fait du renforcement de la dernière syllabe); lo˧i˧: travailler, hĩ˧: sert à former une relative, “qui travaille"; hĩ˧ “homme". Confirmé auprès de F5: une syllabe distincte hĩ˧ ne lui paraît pas adéquate, mais en revanche l'allongement avec début de nasalisation est indispensable, ce qui témoigne du /hĩ˧/ coalescent.
-\np <langue="fra"> phonétiquement: [lo˧i˧ĩ˧hĩ˧], le relateur étant coalescent. La même observation vaut pour les autres mots en -hĩ.
+\nt <type="phono" langue="fra"> phonétiquement: [lo˧i˧ĩ˧hĩ˧], le relateur étant coalescent. La même observation vaut pour les autres mots en -hĩ.
 \ton #H
 \lc lo˧ʝi˧hĩ˧hĩ˧
 \so F4
@@ -32980,7 +32980,7 @@
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra"> jusqu'en 2011: noté lo˧ʂu˩, par erreur
 \nt <dom="sem" langue="fra"> ou simplement hi˩nɑ˧mi˧ “le Lac"
-\np <langue="fra"> (composition sans changement tonal)
+\nt <type="phono" langue="fra"> (composition sans changement tonal)
 \ton L# | L-
 \lc lo˧ʂv̩˩hi˩nɑ˧mi˧
 \so F4
@@ -33134,7 +33134,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> (tons confirmés en 2009)
-\np <langue="fra"> +ɲi˩
+\nt <type="phono" langue="fra"> +ɲi˩
 \ton L+H#
 \lc ɬo˩tsʰe˩mæ˥
 \so F4
@@ -33201,7 +33201,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> (pensé à noter: lo˩ʈʂʷɻ̩˥, lo˩ʈwɻ̩˥, ʈʂv, ʈv, ʈwɤ, tɻ, ʈʐ… Le 21 nov.: pense que c'est ʈɻ ou ʈʂɻ, pas ʈʂv. Pour la première syllabe: est confirmé: est lo˩ et pas lɑ˩. Nouvelle séance le 23 novembre: entends arrondissement, veux noter ʈʂwɻ̩˥ ou ʈʷɻ̩˥." notation janvier 2008: lo ʈv
-\np <langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bv̩˧ ɣɯ˩˧)
+\nt <type="phono" langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bv̩˧ ɣɯ˩˧)
 \ton LM
 \lc lo˩ʈv̩˥
 \so F4
@@ -33966,7 +33966,7 @@
 \sd <langue="eng"> place name
 \nt <type="hist" langue="fra"> (ton d7; ton vérifié)(n'est pas tɕʰɯ)
 \nt <dom="sem" langue="fra"> personne de Fengke, gens de Fengke
-\np <langue="fra"> +ɲi˥
+\nt <type="phono" langue="fra"> +ɲi˥
 \ton LM+#H
 \lc lv̩˩tɕʰɯ˧hĩ˧
 \so F4
@@ -34008,7 +34008,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (erreur: ɖʐe˩˥ i˧ mɤ˧ i˧ ze˩)(confirmé en 2012: est un ton L)
-\np <langue="fra"> ton 3a
+\nt <type="phono" langue="fra"> ton 3a
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -34217,7 +34217,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> tv; confirmé: n'est pas ɬɯ(confirmé en 2012: est un ton L)
 \nt <type="hist" langue="fra"> ton 3b: hɑ˧ɬɯ˧˥ (F5 confirme qu'il s'agit de /ɬɯ/ et pas /ɬv/)
-\np <langue="fra"> ton 3b (lə˧ɬv̩˩ze˩; phonétiquement: le˧ɬv̩˩ze˩); cf “tiède"
+\nt <type="phono" langue="fra"> ton 3b (lə˧ɬv̩˩ze˩; phonétiquement: le˧ɬv̩˩ze˩); cf “tiède"
 \ton Lα
 \so F4
 \va <speaker="F5"> ɬɯ˩
@@ -34325,7 +34325,7 @@
 \nt <type="hist" langue="fra"> (notations 2006: “/lu˩˥/, diphtongué vers ə: [luə˩˥]; analyse: rime diphtonguée pour maintenir une distance avec /lo˩˥/?")
 \nt <type="hist" langue="fra"> (notations 2006: “lu˩˥, diphtongué vers ə ou ɤ: [luɤ˩˥]; la prononciation [lu˩˥] est jugée incorrecte")
 \nt <dom="sem" langue="fra"> emprunt au prinmi?
-\np <langue="fra"> Phonétiquement, le /wɤ/ se réalise comme une diphtongue dans laquelle le [u] a une place prépondérante; cf proposition de notation des diphtongues par J.V.: noter [uə] et mettre le schwa en exposant. Comparable à hw̃ɤ “lent", qui s'attarde sur la partie notée “glide", au point de la faire ressembler au noyau vocalique.
+\nt <type="phono" langue="fra"> Phonétiquement, le /wɤ/ se réalise comme une diphtongue dans laquelle le [u] a une place prépondérante; cf proposition de notation des diphtongues par J.V.: noter [uə] et mettre le schwa en exposant. Comparable à hw̃ɤ “lent", qui s'attarde sur la partie notée “glide", au point de la faire ressembler au noyau vocalique.
 \ton LH
 \lc lwɤ˩˥
 \so F4
@@ -34837,7 +34837,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> (sens vérifié)
-\np <langue="fra"> entièrement homophone avec “yuan (unité monétaire)"
+\nt <type="phono" langue="fra"> entièrement homophone avec “yuan (unité monétaire)"
 \ton Lα
 \lc ɖɯ˧ mæ˩
 \so F4
@@ -35025,9 +35025,9 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="M21"> ID.
 \de Classifier for small animals.
@@ -35141,7 +35141,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> (tons confirmés en 2006 et 2007, n'est pas ˩˩˩˩˥)
-\np <langue="fra"> de: /ʁo˧bv̩˧/ “pousse", et “bambou"
+\nt <type="phono" langue="fra"> de: /ʁo˧bv̩˧/ “pousse", et “bambou"
 \ton L+H#
 \so F4
 \va <speaker="F5"> ID.
@@ -35305,7 +35305,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra"> (tons confirmés)
-\np <langue="fra"> cf aussi 500 “torche", qui a aussi pour deuxième syllabe /tʰv/
+\nt <type="phono" langue="fra"> cf aussi 500 “torche", qui a aussi pour deuxième syllabe /tʰv/
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -35388,7 +35388,7 @@
 \lc mje˧˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4 (et à nouveau en 2024).
+\nt <type="phono" langue="fra"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4 (et à nouveau en 2024).
 \so F4
 \va <speaker="F5"> *
 \de Noodles.
@@ -35802,7 +35802,7 @@
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <langue="pumi" dom="comp" print="n"> mu22mu51
-\np <langue="fra"> ton confirmé en 2011: d7
+\nt <type="phono" langue="fra"> ton confirmé en 2011: d7
 \ton H#
 \lc mo˧mo˥
 \so F4
@@ -36039,7 +36039,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (avant 2009: noté /mu˩zo˥/)
+\nt <type="phono" langue="fra"> (avant 2009: noté /mu˩zo˥/)
 \ton LM+#H
 \lc mo˩zo˥
 \so F4
@@ -36333,7 +36333,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> particule finale d'affirmation
-\np <langue="fra"> Le ton de cette particule est déduit des rares occurrences où il n'est pas déterminé par le contexte, par exemple Healing.66.
+\nt <type="phono" langue="fra"> Le ton de cette particule est déduit des rares occurrences où il n'est pas déterminé par le contexte, par exemple Healing.66.
 \ton M
 \lc mv̩˧
 \so F4
@@ -36399,7 +36399,7 @@
 \nt <type="hist" langue="fra"> confirmé: n'est pas le même ton que chez la locutrice F5; le monosyllabe n'a pu être élicité en cadre /ʈʂʰɯ…ɲi/; si je désigne le ciel, la locutrice indique “esprit du ciel", 660b (mv̩˧gɤ˧lɑ˥)
 \nt <type="hist" langue="fra"> N'a pu être élicité en cadre. Ton différent de F4.
 \nt <dom="sem" langue="fra"> s'oppose à 50 “la terre"
-\np <langue="fra"> Comportement tonal irrégulier en composition. Cf: mv̩˧ʁu˥, mv̩˧hĩ˥
+\nt <type="phono" langue="fra"> Comportement tonal irrégulier en composition. Cf: mv̩˧ʁu˥, mv̩˧hĩ˥
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
@@ -36439,7 +36439,7 @@
 \nt <langue="pumi" dom="comp" print="n"> mʌ35
 \nt <type="hist" langue="fra"> notation 2006: /‡mv̩˥/; ton corrigé, et confirmé en 2009; mais l'exemple ‘allumer un feu' était resté noté /‡mv̩˥kʰɯ˧/ jusqu'en 2009.
 \nt <type="hist" langue="fra"> ton m2 (homophone de “ciel")avant 2009: avais noté:
-\np <langue="fra"> ton différent de F5; mais se comporte comme m2 ds certaines combinaisons: ex. “allumer le feu", mv̩˧tsʰi˧˥
+\nt <type="phono" langue="fra"> ton différent de F5; mais se comporte comme m2 ds certaines combinaisons: ex. “allumer le feu", mv̩˧tsʰi˧˥
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
@@ -36525,7 +36525,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> +ɲi˩
 \nt <type="hist" langue="fra"> Avais interprété la composition de l'expression commes: |fv{mv̩˧} =ciel, |fv{bv̩˧}=possessif, |fv{ʐv̩˥} = serpent. En réalité, c'est le disyllabe /|fv{bv̩˧ʐv̩˥}/ qui signifie 'serpent'.
-\np <langue="fra"> Phonétiquement: proche de [|fv{m˧bv̩˧ʐv̩˥}].
+\nt <type="phono" langue="fra"> Phonétiquement: proche de [|fv{m˧bv̩˧ʐv̩˥}].
 \ton H#
 \so F4
 \va <speaker="F5"> ID.
@@ -38068,7 +38068,7 @@
 \lc mv̩˩zo˩ə˩mi˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> variante tonale: mv̩˩zo˩-ə˥mi˩
+\nt <type="phono" langue="fra"> variante tonale: mv̩˩zo˩-ə˥mi˩
 \ton L+H#
 \so F4
 \de A young lady and her mother.
@@ -38736,7 +38736,7 @@
 \lc ŋæ˧ʝi˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> “soutenir"
+\nt <type="phono" langue="fra"> “soutenir"
 \ton L#
 \so F4
 \de Easy and comfortable, at ease. Borrowing from Southwestern Mandarin.
@@ -38882,7 +38882,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (+hĩ˩, tons vérifiés en mai 2008 avec M18; avais d'abord noté nɑ˩qʰæ˧ʈʂʰe˥, puis kʶæ˥ʈʂʰe˧); se réduplique en: næ˩qʰæ˧ næ˩qʰæ˧ ʈʂʰe˩, en surélevant les deux premières syllabes (d'abord noté ʈʂʰe˥, et kʶæ˥)
-\np <langue="fra"> unique exemple de la syllabe /næ/: /n/ non rétroflexe suivi de /æ/. Le lien évident avec /nɑ/ “noir" suggère que la réalisation æ est le fruit d'une harmonie vocalique régressive.
+\nt <type="phono" langue="fra"> unique exemple de la syllabe /næ/: /n/ non rétroflexe suivi de /æ/. Le lien évident avec /nɑ/ “noir" suggère que la réalisation æ est le fruit d'une harmonie vocalique régressive.
 \so F4
 \va <speaker="M18"> nɑ˩-qʰæ˧ʈʂʰe˩
 \va <speaker="M21"> nɑ˩-qʰæ˧ ʈʂʰe˥ (+gv̩˩)
@@ -39280,7 +39280,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> /ɖɯ˧ ɲi˧ ɻ̩˥/
 \nt <type="hist" langue="fra"> hĩ˥ njɤ˥ ki˥ tso˧~tso˧ ɲi˧ tsʰɯ˥
-\np <langue="fra"> sens plus large que 1354b: est “demander", d'où l'emploi dans le sens de “emprunter"
+\nt <type="phono" langue="fra"> sens plus large que 1354b: est “demander", d'où l'emploi dans le sens de “emprunter"
 \ton H
 \lc ɲi˧
 \so F4
@@ -40186,7 +40186,7 @@
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" langue="fra"> (confirmé: n'est pas /tsi/) (d'abord noté nju˩tsɯ˥; corrigé le 30 mai 2008; vérifié: ˩ ˧˥ est absolument exclu) (sens confirmé par M18 en mai 2008)
-\np <langue="fra"> variantes: njo˩tsɯ#˥, mjo˩tsɯ#˥
+\nt <type="phono" langue="fra"> variantes: njo˩tsɯ#˥, mjo˩tsɯ#˥
 \ton LM+#H
 \lc ɲi˩tsɯ˥
 \so F4
@@ -40287,7 +40287,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé en 2012: est un ton L)
-\np <langue="fra"> ex.: histoire “travaux"
+\nt <type="phono" langue="fra"> ex.: histoire “travaux"
 \ton Lα
 \lc ɲi˩˥
 \so F4
@@ -40557,7 +40557,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Note ancienne: “souvent prononcé proche de [njæ˧]… mais est bien /njɤ˧/". Avant novembre 2011: pensais qu'il existait une forme /‡njæ˩-sɯ˧-kv̩˥/ exprimant le possessif; mais cette forme n'est plus reconnue par la suite: c'était en fait une erreur de prononciation.
-\np <langue="fra"> prononcé avec, semble-t-il, une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. |fv{njɤ} est d'abord considéré comme la forme correcte, puis F4 choisit la variante |fv{njæ} comme étant la plus usuelle et la plus juste.
+\nt <type="phono" langue="fra"> prononcé avec, semble-t-il, une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. |fv{njɤ} est d'abord considéré comme la forme correcte, puis F4 choisit la variante |fv{njæ} comme étant la plus usuelle et la plus juste.
 \ton -L
 \lc njæ˧sɯ˩kv̩˩
 \so F4
@@ -41142,7 +41142,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> avant 2015, noté /‡…tsʰe˩/
-\np <langue="fra"> On ne peut isoler une composante /†njɤ˧tsʰɤ˩/: cela ne s'emploie jamais seul.
+\nt <type="phono" langue="fra"> On ne peut isoler une composante /†njɤ˧tsʰɤ˩/: cela ne s'emploie jamais seul.
 \ton L#-
 \lc njɤ˧kv̩˩njɤ˩tsʰɤ˩
 \so F4
@@ -41197,7 +41197,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra"> avant 2011: noté njɤ˩ɬi˩gv̩˩, par erreur: 2e syll. d'abord notée ɬi, en précisant “tend à s'amollir en: li - le"; corrigé en 2011 en: /le/
-\np <langue="fra"> phonétiquement: [njɤ˧le˧gv̩#˥]. The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /ɲi˥/, followed by the ACCOM-PLISHED, /lə-/ (whose phonetic realization [le˧] is regular given the /v/ vowel of the following syllable) and ‘to flow, to go by, to fly (time); to take place, to occur (event)’, /gv/. Under this plausible interpretation, the second syllable is to be analyzed as /lə/, not /le/.
+\nt <type="phono" langue="fra"> phonétiquement: [njɤ˧le˧gv̩#˥]. The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /ɲi˥/, followed by the ACCOM-PLISHED, /lə-/ (whose phonetic realization [le˧] is regular given the /v/ vowel of the following syllable) and ‘to flow, to go by, to fly (time); to take place, to occur (event)’, /gv/. Under this plausible interpretation, the second syllable is to be analyzed as /lə/, not /le/.
 \ton #H
 \lc njɤ˧le˧gv̩˧
 \cf mv̩˩si˧-njɤ˧˥
@@ -41330,7 +41330,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> (pas même prononciation que M21) (sens vérifié: pis de la vache)
+\nt <type="phono" langue="fra"> (pas même prononciation que M21) (sens vérifié: pis de la vache)
 \ton L+H#
 \lc njo˩pɤ˩lv̩˥
 \so F4
@@ -41611,7 +41611,7 @@
 \cf no˧=zɯ˩
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np <langue="fra"> variante tonale: L#
+\nt <type="phono" langue="fra"> variante tonale: L#
 \ton LM+MH#
 \lc no˩zɯ˧˥
 \so F4
@@ -41718,7 +41718,7 @@
 \cf no˩zɯ˧˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\np <langue="fra"> variante tonale: LM+MH#
+\nt <type="phono" langue="fra"> variante tonale: LM+MH#
 \ton L#
 \lc no˧zɯ˩
 \so F4
@@ -41802,7 +41802,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (notation 2006, erronée: nv̩˥ɕi˧; rime confirmée, n'est pas /hi/)
-\np <langue="fra"> variante ni˧ɕi˩, par harmonie vocalique
+\nt <type="phono" langue="fra"> variante ni˧ɕi˩, par harmonie vocalique
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -41906,7 +41906,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> Question raised by Roselle (2017): or do you mean the larva of this insect - in which case you should use 'moth larva'? Or do you mean 'borer' (an insect that eats tiny round holes in wood or books)? or 'silverfish' (an insect that eats clothes and, I think books)?
-\np <langue="fra"> phonétiquement, proche de: /ɳɻ/; exemple élicité pour vérifier la catégorie tonale: ɳv̩˩ ʐɤ˧-ze˧: élever des mites (+|fg{pfv}), qui indique que c'est LM
+\nt <type="phono" langue="fra"> phonétiquement, proche de: /ɳɻ/; exemple élicité pour vérifier la catégorie tonale: ɳv̩˩ ʐɤ˧-ze˧: élever des mites (+|fg{pfv}), qui indique que c'est LM
 \ton LM
 \lc ɳv̩˩˥
 \so F4
@@ -42078,7 +42078,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <langue="pumi" dom="comp" print="n"> nʲu51
-\np <langue="fra"> (désigne aussi )
+\nt <type="phono" langue="fra"> (désigne aussi )
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -42754,7 +42754,7 @@
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> (njɤ˥) ũ˧bv̩˥ũ˩ (en 2006: noté ˧˥˧) (confirmé; vérifié en 2007: est bien la même syllabe avant et après /bv/)
 \nt <type="hist" langue="fra"> (+ũ˩, cette dernière syllabe paraît moins nasalisée que la première)
-\np <langue="fra"> d'abord interprété comme //õ˥//, au vu du comportement qd suivi d'un nom.
+\nt <type="phono" langue="fra"> d'abord interprété comme //õ˥//, au vu du comportement qd suivi d'un nom.
 \ton MH
 \lc õ˧˥
 \so F4
@@ -42854,7 +42854,7 @@
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra"> vérifié en avril 2012: n'est pas tɤ.ɻ
-\np <langue="fra"> phonétiquement: ũ˧dr˧-ɳɯ˧
+\nt <type="phono" langue="fra"> phonétiquement: ũ˧dr˧-ɳɯ˧
 \ton M
 \lc õ˧dɤ˧ɻ̩˧
 \so F4
@@ -42904,7 +42904,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> (tons confirmés)
-\np <langue="fra"> chien-loup
+\nt <type="phono" langue="fra"> chien-loup
 \ton LM+#H-
 \lc õ˩dv̩˧kʰv̩˥mi˩
 \so F4
@@ -42973,7 +42973,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> avant 2013: noté /õ˧ʈʂʰɯ˧ni˧˥/
-\np <langue="fra"> Cette expression très courante est simplifiée en quasi-disyllabe, ressemblant à /ʈʂʰɯ˧ni˧˥/, mais elle reste décomposable pour la consultante principale.
+\nt <type="phono" langue="fra"> Cette expression très courante est simplifiée en quasi-disyllabe, ressemblant à /ʈʂʰɯ˧ni˧˥/, mais elle reste décomposable pour la consultante principale.
 \ton H#
 \lc õ˧ʈʂʰɯ˧ne˧-ʝi˥
 \so F4
@@ -43086,7 +43086,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> intéressant phonétiquement: l'expression “ne pas laisser passer" semble en voie de figement; la 1e syllabe est toujours réalisée avec une montée, alors qu'on s'attendrait à /pæ˧ tʰɑ˥-kʰɯ˩/, avec déploiement du contour et réassociation du ton H à la 2e syllabe, ne laissant qu'un ton M sur la première syllabe. La formule /pæ˧ tʰɑ˥-kʰɯ˩/ est compréhensible mais non idiomatique.
+\nt <type="phono" langue="fra"> intéressant phonétiquement: l'expression “ne pas laisser passer" semble en voie de figement; la 1e syllabe est toujours réalisée avec une montée, alors qu'on s'attendrait à /pæ˧ tʰɑ˥-kʰɯ˩/, avec déploiement du contour et réassociation du ton H à la 2e syllabe, ne laissant qu'un ton M sur la première syllabe. La formule /pæ˧ tʰɑ˥-kʰɯ˩/ est compréhensible mais non idiomatique.
 \ton MH
 \lc pæ˧˥
 \so F4
@@ -43342,7 +43342,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> (avant 2009: noté: /pʰæ˥kʰwɤ˩/ (corrigé en 2007; avais noté en 2006: pʰæ˧kʶwɤ˩)
 \nt <type="hist" langue="fra"> (notes avant 2009: “pʰæ˧kʰwɤ˩, ton d4; avais noté en 2006: pʰæ˧kʶɤ˩, tons et rimes vérifiées, n'est pas kʶwɤ˩; paraît être: /kʶv̩˩/, réalisé proche de [kʶɤ˩], combinaison qui n'existe pas phonémiquement ce qui permet un déplacement phonétique") Vérifié: la composition phonémique de la 2e syllabe est bien la même que “morceau", /kʰwɤ/.")
-\np <langue="fra"> La physionomie vue par les Na (d'après F4): les Chinois se caractérisent par une grosse tête ronde, les Tibétains par un visage allongé, les Occidentaux par un long nez.
+\nt <type="phono" langue="fra"> La physionomie vue par les Na (d'après F4): les Chinois se caractérisent par une grosse tête ronde, les Tibétains par un visage allongé, les Occidentaux par un long nez.
 \ton L#
 \lc pʰæ˧qʰwɤ˩
 \so F4
@@ -43547,7 +43547,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> L'hypothèse d'un emprunt au chinois, par exemple |fn{摆}, a été envisagée. Mais le mot n'est pas perçu par la locutrice comme un emprunt chinois.
+\nt <type="phono" langue="fra"> L'hypothèse d'un emprunt au chinois, par exemple |fn{摆}, a été envisagée. Mais le mot n'est pas perçu par la locutrice comme un emprunt chinois.
 \ton Mα
 \lc pæ˩˥
 \so F4
@@ -43643,7 +43643,7 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place
-\np <langue="fra"> syllabe /pe/: n'est attestée que dans les mots chinois.
+\nt <type="phono" langue="fra"> syllabe /pe/: n'est attestée que dans les mots chinois.
 \ton LM
 \lc pe˩tɕi˥
 \so F4
@@ -43840,7 +43840,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> vérifié: initiale vélaire et non uvulaire
-\np <langue="fra"> (emprunt)
+\nt <type="phono" langue="fra"> (emprunt)
 \ton LM
 \so F4
 \va <speaker="M21"> pʰiŋ˩ko˥
@@ -44229,7 +44229,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> (avant 2009, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
-\np <langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <type="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
 \ton MHα
 \so F4
 \va <speaker="F5"> ID.
@@ -44325,7 +44325,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> pu˧˥, ton 4 “porter"
+\nt <type="phono" langue="fra"> pu˧˥, ton 4 “porter"
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -44375,7 +44375,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (lə˧pɑ˧ze˥)
-\np <langue="fra"> forte harmonie vocalique; avant nov. 2011, avais noté: ʝi˧ pɑ˥
+\nt <type="phono" langue="fra"> forte harmonie vocalique; avant nov. 2011, avais noté: ʝi˧ pɑ˥
 \ton MH
 \lc pɤ˧˥
 \so F4
@@ -44570,9 +44570,9 @@
 \nt <dom="sem" langue="fra"> rouleau, paquet (ex.: cigarettes)
 \ton Lβ
 \lc ɖɯ˧ po˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#. Ce mot est un emprunt, et perçu comme tel, ce qui peut expliquer une certaine fluctuation dans son emploi: il est parfois traité comme appartenant à la catégorie Lα.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#. This word's status as a borrowing (perceived as such) may explain fluctuation: it is occasionally treated as belonging in the Lα category.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。这个词明显是一个借词，这也许可以解释它在使用上的不稳。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#. Ce mot est un emprunt, et perçu comme tel, ce qui peut expliquer une certaine fluctuation dans son emploi: il est parfois traité comme appartenant à la catégorie Lα.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#. This word's status as a borrowing (perceived as such) may explain fluctuation: it is occasionally treated as belonging in the Lα category.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。这个词明显是一个借词，这也许可以解释它在使用上的不稳。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -44592,9 +44592,9 @@
 \sd <langue="eng"> classifier
 \ton Lβ
 \lc ɖɯ˧ pɤ˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
 \so F4
 \de Classifier for ladders, doors…
 \ge |fg{clf}.pieces_of_carpentry
@@ -44609,7 +44609,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> homophone avec le classificateur des pets
+\nt <type="phono" langue="fra"> homophone avec le classificateur des pets
 \ton Hβ
 \lc ɖɯ˧ pɤ˥
 \so F4
@@ -44752,7 +44752,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <langue="pumi" dom="comp" print="n"> pu55dʑɨ51
-\np <langue="fra"> (tons confirmés; avant 2009, noté simplement: /…i˧hĩ˧/, par erreur; en 2006, avais noté: /pu˧ɖʐɯ˧ i:˧ hĩ˧ hĩ˥/: la perception d'un ton haut final dans certains cas est simplement due à l'effet d'un renforcement final)
+\nt <type="phono" langue="fra"> (tons confirmés; avant 2009, noté simplement: /…i˧hĩ˧/, par erreur; en 2006, avais noté: /pu˧ɖʐɯ˧ i:˧ hĩ˧ hĩ˥/: la perception d'un ton haut final dans certains cas est simplement due à l'effet d'un renforcement final)
 \ton #H
 \lc po˧ɖʐɯ˧
 \so F4
@@ -44781,7 +44781,7 @@
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> Le mot est perçu comme un mot na, plutôt que comme un emprunt. La variabilité de la réalisation de la voyelle de sa première syllabe, qui se rapproche de [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggère pourtant qu'il pourrait s'agir d'un emprunt, encore imparfaitement intégré au système vocalique.
+\nt <type="phono" langue="fra"> Le mot est perçu comme un mot na, plutôt que comme un emprunt. La variabilité de la réalisation de la voyelle de sa première syllabe, qui se rapproche de [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggère pourtant qu'il pourrait s'agir d'un emprunt, encore imparfaitement intégré au système vocalique.
 \ton L#
 \lc pʰɤ˧fv̩˩
 \so F4
@@ -45359,7 +45359,7 @@
 \lc pɤ˧ʈʂʰwæ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra">forte harmonie vocalique; avant novembre 2011, avais noté: pɑ˧ʈʂʰwæ˩
+\nt <type="phono" langue="fra">forte harmonie vocalique; avant novembre 2011, avais noté: pɑ˧ʈʂʰwæ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -45426,7 +45426,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> ton #H: non acceptable
+\nt <type="phono" langue="fra"> ton #H: non acceptable
 \ton L
 \lc pʰɤ˩zo˩˥
 \so F4
@@ -45448,7 +45448,7 @@
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <dom="sem" langue="fra"> est un emprunt au chinois, d'après F4; gj: pas cognats trouvés. F4 a peiné avant de trouver une expression en “bon na".
-\np <langue="fra"> forte harmonie vocalique. Avant novembre 2011, avais noté: pɤ˩˧ʐv̩˧.
+\nt <type="phono" langue="fra"> forte harmonie vocalique. Avant novembre 2011, avais noté: pɤ˩˧ʐv̩˧.
 \ton LM-L
 \lc pɤ˩˧ʐv̩˩
 \so F4
@@ -45526,7 +45526,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> zo˧mv̩˥pɤ˩pɤ˩: corrigé en 2007; noté par erreur ˧ ˥ ˧ ˧ puis ˧ ˥ ˧ ˩ en 2006, longues hésitations.
-\np <langue="fra"> monosyllabe non employé; déduit de la forme rédupliquée, seule en usage actuellement
+\nt <type="phono" langue="fra"> monosyllabe non employé; déduit de la forme rédupliquée, seule en usage actuellement
 \ton Mα
 \lc pɤ˧
 \so F4
@@ -45617,7 +45617,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (avant 2009: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
 \nt <dom="sem" langue="fra"> (sens: s'enfuir; mais selon M23 cela désigne aussi bien le jogging que certains font le matin)
-\np <langue="fra"> n'est pas pʰv̩˩˥; est différent de 1600 “s'agiter"
+\nt <type="phono" langue="fra"> n'est pas pʰv̩˩˥; est différent de 1600 “s'agiter"
 \ton Lα
 \lc pʰo˩˥
 \so F4
@@ -45695,7 +45695,7 @@
 \xn 上述谚语的变体
 \xf Variante du proverbe ci-dessus.
 \xc PROVERBE
-\np <langue="fra"> Réalisation proche de |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
+\nt <type="phono" langue="fra"> Réalisation proche de |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
 
 \lx pv̩˧
 \sf <nb="2011"> 1985
@@ -45733,7 +45733,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (d'abord noté au ton 4, par erreur)
 \nt <dom="sem" langue="fra"> aussi pour: aliment épais, collant
-\np <langue="fra"> le˧-pv̩˧-ze˧: phonétiquement proche de: ljæ˧-pv̩˧-ze˧; pv̩˧-kæ˧-ɻæ˩-gv̩˩: phonétiquement: allongement de la rime de /kæ/, pas de [ɻ] perceptible sauf en débit très soigné
+\nt <type="phono" langue="fra"> le˧-pv̩˧-ze˧: phonétiquement proche de: ljæ˧-pv̩˧-ze˧; pv̩˧-kæ˧-ɻæ˩-gv̩˩: phonétiquement: allongement de la rime de /kæ/, pas de [ɻ] perceptible sauf en débit très soigné
 \ton M
 \lc pɻ̩˧
 \so F4
@@ -46265,7 +46265,7 @@
 \sd <langue="eng"> clothing
 \nt <type="hist" langue="fra"> avant 2007: noté ‡/pʰv̩˥ɭɯ˥ tʰæ˧ kʶwɤ˥/, ‡/HHML/
 \nt <dom="sem" langue="fra"> Selon F4, ce n'est pas un vêtement usuel.
-\np <langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
+\nt <type="phono" langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
 \ton H#
 \lc pʰv̩˧ɭɯ˧ʈʰæ˧qʰwɤ˥
 \so F4
@@ -46765,7 +46765,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (schéma tonal régulier pour m4a+3a)(confirmé en 2012: est un ton L)
-\np <langue="fra"> ton 3a
+\nt <type="phono" langue="fra"> ton 3a
 \ton Lα
 \lc pɻ̩˩˥
 \so F4
@@ -46817,9 +46817,9 @@
 \nt <type="hist" langue="fra"> Roselle Dobbs signalant une rime ɻ̩ et non v̩ pour ce morphème, une vérification est effectuée le 14/06/2024. Il est confirmé que la rime est bien v̩ (la même rime que dans ‘mâle’).
 \ton Lβ
 \lc ɖɯ˧ pʰv̩˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \de Classifier for fields.
 \ge |fg{clf}.fields
@@ -47147,7 +47147,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (notes avant 2009: “/ɬi˧mi˧ tʰi˧ qʰæ˧ ze˥/; 2006: noté ɬi˥mi˥ tʰi˧ kʶæ˧ ze˥, pensé que les tons étaient confirmés; sens: sortir, paraître: tʰi˧ qʰæ˧˥ (MH), tʰi˧ qʰæ˧ ze˥, ton 4. Question 2007: ne serait-ce pas ɬi˥mi˥ tʰi˥ qʰæ˩ ze˥? ce qui serait le schéma attendu si /qʰæ/ avait un ton LH qui se déploie; réponse F4 le 26/10/07: non, c'est bien qʰæ˧ ze˥)") (d'abord noté kʶæ)
-\np <langue="fra"> peut se dire de la lune comme du soleil; équivalent de “sortir", /tʰv̩˧/
+\nt <type="phono" langue="fra"> peut se dire de la lune comme du soleil; équivalent de “sortir", /tʰv̩˧/
 \ton MH
 \lc qʰæ˧˥
 \so F4
@@ -47197,7 +47197,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (exemple: récit 1: on partage de la viande)
+\nt <type="phono" langue="fra"> (exemple: récit 1: on partage de la viande)
 \ton MH
 \lc qʰæ˧˥
 \so F4
@@ -48915,7 +48915,7 @@
 \sd <langue="eng"> animal
 \nt <langue="pumi" dom="comp" print="n"> qu55pu22
 \nt <type="hist" langue="fra"> vérifié: initiale uvulaire et non vélaire
-\np <langue="fra"> (mot onomatopéique)
+\nt <type="phono" langue="fra"> (mot onomatopéique)
 \ton L#
 \lc qo˧pv̩˩
 \so F4
@@ -49984,7 +49984,7 @@
 \lc qʰwæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (phonétiquement: læ˧kʰwæ˧˥)
+\nt <type="phono" langue="fra"> (phonétiquement: læ˧kʰwæ˧˥)
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -50626,7 +50626,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> body
 \nt <type="hist" langue="fra"> (kwæ˩pi˩˧ + ko˧lo˩: notation 2006: ko˥lo˧) “dedans"; séquence tonale finale: régulière. (confirmé: n'est pas /kwɤ˩/) vérifié: initiale uvulaire et non vélaire
 \nt <type="hist" langue="fra"> pas de diphtongaison
-\np <langue="fra"> d'abord noté kwæ˩pi˩-ko˩lo˧, par erreur; confirmé en 2011
+\nt <type="phono" langue="fra"> d'abord noté kwæ˩pi˩-ko˩lo˧, par erreur; confirmé en 2011
 \ton L
 \lc qwɤ˩pi˩˥
 \so F4
@@ -50758,7 +50758,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\np <langue="fra"> variante acceptable: qʰwɤ˧tʰv̩˥ (ton H$ et non #H)
+\nt <type="phono" langue="fra"> variante acceptable: qʰwɤ˧tʰv̩˥ (ton H$ et non #H)
 \ton #H
 \lc qʰwɤ˧tʰv̩˧
 \so F4
@@ -50794,7 +50794,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> vérifié: initiale uvulaire
 \nt <dom="sem" langue="fra"> ex.: ds histoire “poisson"; vérifié en 2011: initiale uvulaire et non vélaire
-\np <langue="fra"> ex.: tʰi˧-qwɤ˩-dʑo˩ “ça pousse!"
+\nt <type="phono" langue="fra"> ex.: tʰi˧-qwɤ˩-dʑo˩ “ça pousse!"
 \ton Lα
 \lc qwɤ˩˥
 \so F4
@@ -50993,7 +50993,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> (ton lexical de base: ˩˧)
+\nt <type="phono" langue="fra"> (ton lexical de base: ˩˧)
 \ton MHα
 \lc ɖɯ˧ qʰwɤ˧˥
 \so F4
@@ -51557,7 +51557,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (+ze˩)! Merci!
-\np <langue="fra"> Si la 2e syllabe est le verbe /mi˩α/ ‘demander, quémander', et la 1e syllabe son objet, d'après les règles synchroniques cet objet doit être un nom au ton LM ou LH.
+\nt <type="phono" langue="fra"> Si la 2e syllabe est le verbe /mi˩α/ ‘demander, quémander', et la 1e syllabe son objet, d'après les règles synchroniques cet objet doit être un nom au ton LM ou LH.
 \ton LH
 \lc ʁɑ˩mi˥
 \so F4
@@ -51651,9 +51651,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <langue="pumi" dom="comp" print="n"> ɦɑ55pʰɯ51 (même structure lexicale)
-\np <langue="fra"> Schéma tonal régulier: #H et M donnent #H.
-\np <dom="ton" langue="eng"> The tonal pattern is regular.
-\np <dom="ton" langue="cmn"> 此处的变调是符合常规的。
+\nt <dom="ton" langue="fra"> Schéma tonal régulier: #H et M donnent #H.
+\nt <dom="ton" langue="eng"> The tonal pattern is regular.
+\nt <dom="ton" langue="cmn"> 此处的变调是符合常规的。
 \ton #H
 \lc ʁɑ˧pʰv̩˧
 \so F4
@@ -52228,9 +52228,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
 \so F4
 \de A sort of.
 \ge |fg{clf}.sorts
@@ -52528,7 +52528,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 1039
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\np <langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
+\nt <type="phono" langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
 \so F4
 \de North (literally: ‘the Tibetan land').
 \ge north
@@ -52880,7 +52880,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (avant 2009: noté: ʁu˥mi˥i˥hĩ˥) “personne qui joue le rôle de chef"
+\nt <type="phono" langue="fra"> (avant 2009: noté: ʁu˥mi˥i˥hĩ˥) “personne qui joue le rôle de chef"
 \ton M
 \lc ʁo˧mi˧
 \so F4
@@ -53409,7 +53409,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (d'abord noté ˩˥, par erreur; corrigé en 2008)
-\np <langue="fra"> phonétiquement: læ˧ʁv̩˥
+\nt <type="phono" langue="fra"> phonétiquement: læ˧ʁv̩˥
 \ton H
 \lc ʁv̩˧
 \so F4
@@ -53840,7 +53840,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> n'apparaît que dans l'expression disyllabique /ɖʐe˧ʁwɤ˧/ ‘argent'.
+\nt <type="phono" langue="fra"> n'apparaît que dans l'expression disyllabique /ɖʐe˧ʁwɤ˧/ ‘argent'.
 \ton M
 \lc ʁwɤ˧
 \so F4
@@ -53888,7 +53888,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> natural environment
 \nt <type="hist" langue="fra"> (avant 2009: noté /ʁwɤ˧kʶv̩˧/)
 \nt <dom="sem" langue="fra"> formé de: ʁwɤ˧=montagne, qʰv̩˧=trou; formule incomplète d'après M23, pour qui l'expression correcte est ʁwɤ˧qʰv̩˧dʑi˧
-\np <langue="fra"> proche de [ʶwæ]
+\nt <type="phono" langue="fra"> proche de [ʶwæ]
 \ton M
 \lc ʁwɤ˧qʰv̩˧
 \so F4
@@ -54088,9 +54088,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton L.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a L tone.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有L调。
+\nt <type="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton L.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a L tone.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有L调。
 \cf †ʁwɤ˩α
 \ton H#
 \lc ʁwɤ˧ʁwɤ˥
@@ -54208,7 +54208,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <dom="sem" langue="fra"> voir également l'emploi verbal: ɻ̩˩ ‘se tourner'
-\np <langue="fra"> ton ˩ donnant ˧ ˥ avec le numéral ‘quatre': régulier
+\nt <type="phono" langue="fra"> ton ˩ donnant ˧ ˥ avec le numéral ‘quatre': régulier
 \ton L
 \lc ɻ̩˧
 \so F4
@@ -54678,7 +54678,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf so˥2
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> ne peut s'employer qu'en tournure négative, ce qui exclut l'association avec les numéraux autres que ‘un': on ne peut dire ‡ɲi˧-sɑ˥, etc.
+\nt <type="phono" langue="fra"> ne peut s'employer qu'en tournure négative, ce qui exclut l'association avec les numéraux autres que ‘un': on ne peut dire ‡ɲi˧-sɑ˥, etc.
 \ton H*
 \so F4
 \de A thing (no plural; only used in the negative construction “there is not a thing").
@@ -55384,7 +55384,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (vérifié en 2009) (fourni à l'origine par M21; confirmé par F4)
-\np <langue="fra"> donne: dʑi˧ʂe˧˥ (formé de: m1+m4a) (ton du verbe: déduit du schéma tonal du composé: le verbe est au ton 3b) (pas obtenu de forme rédupliquée)
+\nt <type="phono" langue="fra"> donne: dʑi˧ʂe˧˥ (formé de: m1+m4a) (ton du verbe: déduit du schéma tonal du composé: le verbe est au ton 3b) (pas obtenu de forme rédupliquée)
 \ton Lβ
 \lc ʂe˩˥
 \so F4
@@ -55606,8 +55606,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc se˩gwɤ˩mi˥
 \nt <langue="fra" type="hist"> Avant juin 2024: noté /se˩gwɤ˩mi˥/. Corrigé en /sɤ˩gwɤ˩mi˥/.
 \nt <langue="fra" dom="synt"> Il n'est pas possible de construire des dérivés avec /|fv{-zo}/ et /|fv{-pʰv}/ à partir d'une base disyllabique: le mot est maintenant trisyllabique.
-\np <langue="eng" dom="synt"> It is not possible to derive words in /|fv{-zo}/ (‘baby’, ‘little’) or /|fv{-pʰv}/ (‘male’) on the basis of a disyllabic root. The noun is now trisyllabic.
-\np <langue="cmn" dom="synt"> 这个词已成为三音节的名词。不能在双音节词根的基础上派生出带有/|fv{-zo}/（‘小’）或/|fv{-pʰv}/（‘公’）后缀的词。
+\nt <type="phono" langue="eng" dom="synt"> It is not possible to derive words in /|fv{-zo}/ (‘baby’, ‘little’) or /|fv{-pʰv}/ (‘male’) on the basis of a disyllabic root. The noun is now trisyllabic.
+\nt <type="phono" langue="cmn" dom="synt"> 这个词已成为三音节的名词。不能在双音节词根的基础上派生出带有/|fv{-zo}/（‘小’）或/|fv{-pʰv}/（‘公’）后缀的词。
 \so F4
 \va <speaker="M23"> se˩gv̩˩
 \pdv mi˩
@@ -55688,7 +55688,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (corrigé en 2009; auparavant, noté: “ʂe˧lɑ˧˥, tons confirmés")
+\nt <type="phono" langue="fra"> (corrigé en 2009; auparavant, noté: “ʂe˧lɑ˧˥, tons confirmés")
 \ton L
 \lc ʂe˩lɑ˩˥
 \so F4
@@ -55710,7 +55710,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (avant 2009: noté: ʂe˧lɑ˧hĩ˥)
+\nt <type="phono" langue="fra"> (avant 2009: noté: ʂe˧lɑ˧hĩ˥)
 \ton L+H#
 \lc ʂe˩lɑ˩hĩ˥
 \so F4
@@ -55837,7 +55837,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf ʂe˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\np <langue="fra"> disyllabe plus courant que le monosyllabe
+\nt <type="phono" langue="fra"> disyllabe plus courant que le monosyllabe
 \ton M
 \lc ʂe˧mo˧
 \so F4
@@ -55859,7 +55859,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> ID.
+\nt <type="phono" langue="fra"> ID.
 \ton L#
 \lc ʂe˧nɑ˩
 \so F4
@@ -55951,7 +55951,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\np <langue="fra"> (notation 2006: ʂe˥pv̩˧)
+\nt <type="phono" langue="fra"> (notation 2006: ʂe˥pv̩˧)
 \ton L#
 \lc ʂe˧pɻ̩˩
 \so F4
@@ -56867,7 +56867,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra"> (d'abord noté sɯ˧kʶwæ˩)
 \nt <type="hist" langue="fra"> (a) le˧dze˩ (b) dze˩˥ (c) hæ˩˥
 \nt <type="hist" langue="fra"> vient du verbe /qʰwæ˧˥/ 'faire éclater'
-\np <langue="fra"> fendre du bois
+\nt <type="phono" langue="fra"> fendre du bois
 \so F4
 \va <speaker="M21"> ID.
 \vf <print="n"> emploie: /dze˩˥/ 'couper', ton 3, le˧ dzi˧dzi˥ (+ze˩); 'fendre du bois': sɯ˧ kʰwæ˩, ton 4
@@ -57095,7 +57095,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
 \nt <type="hist" langue="fra"> (avant 2009: so˥)
-\np <langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/: donne /so˩-qʰv̩˩tʰv̩˩˥/.
+\nt <type="phono" langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/: donne /so˩-qʰv̩˩tʰv̩˩˥/.
 \ton L
 \lc so˧
 \so F4
@@ -57185,7 +57185,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf sɑ˥2
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> ne peut s'employer qu'en tournure négative, ce qui exclut l'association avec les numéraux autres que ‘un': on ne peut dire ‡ɲi˧-so˥, etc.
+\nt <type="phono" langue="fra"> ne peut s'employer qu'en tournure négative, ce qui exclut l'association avec les numéraux autres que ‘un': on ne peut dire ‡ɲi˧-so˥, etc.
 \ton H*
 \lc ɖɯ˧ so˥
 \so F4
@@ -57648,7 +57648,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\np <langue="fra"> le ton lexical du nom est déduit de son comportement avec le verbe “prendre": /ʂɤ˧ɲi˧ ʑi˧˥/.
+\nt <type="phono" langue="fra"> le ton lexical du nom est déduit de son comportement avec le verbe “prendre": /ʂɤ˧ɲi˧ ʑi˧˥/.
 \ton #H
 \lc ʂɤ˧ɲi˧
 \so F4
@@ -58395,9 +58395,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -58415,7 +58415,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɯ˧dʑi˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> étymologie claire: “mourir"+"vêtement"
+\nt <type="phono" langue="fra"> étymologie claire: “mourir"+"vêtement"
 \ton M
 \so F4
 \de Shroud, burial suit.
@@ -59013,7 +59013,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\np <langue="fra"> variant: ʂɯ˧dɤ˧ɻ̩˧
+\nt <type="phono" langue="fra"> variant: ʂɯ˧dɤ˧ɻ̩˧
 \ton #H
 \lc ʂɯ˧tɤ˧ɻ̩˧
 \so F4
@@ -59282,7 +59282,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (sens vérifié avec M23 en 2009; et vérifié: est /sɯ/ et non /si/)
-\np <langue="fra"> sens: enfiler (quelque chose sur un fil)
+\nt <type="phono" langue="fra"> sens: enfiler (quelque chose sur un fil)
 \so F4
 \vf <print="n"> Notes anciennes: "a) sɯ˧ɻ̩˧ sɯ˧ sɯ˩, tons vérifiés; b) læ˧sɯ˥sɯ˧; il ne faut pas dire: le˧sɯ˥sɯ˧. Suivi de: +ze˩
 \va <speaker="M21"> ID.
@@ -59328,9 +59328,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The M tone is deduced from the H+L tonal pattern of the reduplicated form.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。M调是从重叠形式的H+L调式中推导出来的。
+\nt <type="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The M tone is deduced from the H+L tonal pattern of the reduplicated form.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。M调是从重叠形式的H+L调式中推导出来的。
 \ton Mα
 \so F4
 \de To leak.
@@ -59447,7 +59447,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂv̩˧kʰɯ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> mot “ancien"
+\nt <type="phono" langue="fra"> mot “ancien"
 \so F4
 \sn 1
 \xf jeter les dés
@@ -59762,7 +59762,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> agriculture
 \nt <type="hist" langue="fra"> (soigneusement vérifié, est ton m1) (vérifié en 2009; schéma tonal régulier)
 \nt <dom="sem" langue="fra"> on ne peut suffixer en -mi et -zo
-\np <langue="fra"> Le classificateur le plus couramment employé avec ce nom est celui des morceaux.
+\nt <type="phono" langue="fra"> Le classificateur le plus couramment employé avec ce nom est celui des morceaux.
 \ton LH
 \lc ʂwæ˩˥
 \so F4
@@ -59994,7 +59994,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton -L
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> périphrase: ɲi˧-ɭɯ˧ dʑo˧/ “il y en a deux"
+\nt <type="phono" langue="fra"> périphrase: ɲi˧-ɭɯ˧ dʑo˧/ “il y en a deux"
 \so F4
 \de Twins.
 \ge 双胞胎::twins
@@ -60517,7 +60517,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (tons vérifiés)
-\np <langue="fra"> même sens que le précédent
+\nt <type="phono" langue="fra"> même sens que le précédent
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -60713,7 +60713,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" langue="fra"> (avant 2009, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était: “qui saccage tout")
-\np <langue="fra"> vérifié: initiale est bien /k/, pas uvulaire
+\nt <type="phono" langue="fra"> vérifié: initiale est bien /k/, pas uvulaire
 \ton MH#
 \lc ʈæ˧kwæ˧˥
 \so F4
@@ -60780,7 +60780,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
-\np <langue="fra"> se simplifie souvent en quelque chose comme ʈʰææ̃˧ ou ʈʰæː˧. En décembre 2011, commence à uniformiser la notation de la forme réduite en: [ʈʰææ̃˧].
+\nt <type="phono" langue="fra"> se simplifie souvent en quelque chose comme ʈʰææ̃˧ ou ʈʰæː˧. En décembre 2011, commence à uniformiser la notation de la forme réduite en: [ʈʰææ̃˧].
 \ton L#
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so F4
@@ -61353,7 +61353,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" langue="fra"> avant 2012: noté ‡ʈæ˧ʂɯ˧-lɑ˩mv̩˩
-\np <langue="fra"> il n'existe pas actuellement de forme /lɑ.mv̩/ disyllabique, seulement en composition
+\nt <type="phono" langue="fra"> il n'existe pas actuellement de forme /lɑ.mv̩/ disyllabique, seulement en composition
 \ton -L
 \lc ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
 \so F4
@@ -61438,7 +61438,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\np <langue="fra"> pas distingué de “corbeau"
+\nt <type="phono" langue="fra"> pas distingué de “corbeau"
 \ton L
 \lc tʰɑ˩tʰɑ˩˥
 \so F4
@@ -61638,7 +61638,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ɖɯ˧ tɑ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <type="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
 \ton MHα
 \so F4
 \va <speaker="F5"> ID.
@@ -61718,7 +61718,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <langue="pumi" dom="comp" print="n"> tæ̃35
 \nt <type="hist" langue="fra"> (avant 2009: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
-\np <langue="fra"> ton 3a
+\nt <type="phono" langue="fra"> ton 3a
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -61745,7 +61745,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <langue="pumi" dom="comp" print="n"> tæ̃35
-\np <langue="fra"> ton 3a
+\nt <type="phono" langue="fra"> ton 3a
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -62068,7 +62068,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé; d'abord noté ˧˩)(tons confirmés; avant 2009, noté: ʁu˥kʰwɤ˩tɕi˩tɕi˩; d'abord noté ˥˧˧˧) (schéma régulier) (noté tɕɯtɕɯ puis corrigé)
-\np <langue="fra"> généralement employé sous forme rédupliquée
+\nt <type="phono" langue="fra"> généralement employé sous forme rédupliquée
 \ton H
 \lc tɕi˧
 \so F4
@@ -62131,9 +62131,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra"> (avant 2009: noté: ɖɯ˥ tɕʰi˩ dzɯ˧; en 2006: avais noté: ɖɯ˥tɕʰi˧dzɯ˧ +ze˩)
 \ton Lβ
 \lc ɖɯ˧ tɕʰi˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -62465,7 +62465,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰi˧tsɯ˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\np <langue="fra"> (emprunt)
+\nt <type="phono" langue="fra"> (emprunt)
 \ton LM
 \so F4
 \va <speaker="F5"> *
@@ -62520,7 +62520,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np <langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <type="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
 \ton Mα
 \lc ɖɯ˧ tɕi˧
 \so F4
@@ -62548,7 +62548,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\np <langue="fra"> (pas de mise au pluriel possible)
+\nt <type="phono" langue="fra"> (pas de mise au pluriel possible)
 \ton H
 \so F4
 \de Direction.
@@ -62831,7 +62831,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> home
-\np <langue="fra"> (emprunt)
+\nt <type="phono" langue="fra"> (emprunt)
 \ton MLM
 \lc tɕɤ˧ho˩pæ˧
 \so F4
@@ -62977,7 +62977,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> time
 \nt <type="hist" langue="fra"> (d'abord noté: tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩ (n'est pas ʈʂʰe˧ɲi˥; d'abord noté tɕʰe, par erreur: est en fait tɕʰɤ mais est un peu modifié par anticipation de l'articulation du /i/ de la syllabe suivante, ce qui peut faire penser à quelque chose comme [tɕʰe]) (modifié en octobre 2013; jusque-là: noté /tɕʰɤ˧ɲi˧-ni˧˥/; est en fait une contraction.)
 \nt <dom="sem" langue="fra"> avant 2011, noté: tɕʰɤ˧ɲi˧ni˧˥zo˩
-\np <langue="fra"> important: réalisé [tɕʰe˧…], par harmonie vocalique; une réalisation avec voyelle d'arrière [ɤ] est refusée par F4.
+\nt <type="phono" langue="fra"> important: réalisé [tɕʰe˧…], par harmonie vocalique; une réalisation avec voyelle d'arrière [ɤ] est refusée par F4.
 \so F4
 \va <speaker="M18"> tɕʰɤ˧ɲi˥-ni˩-zo˩
 \va <speaker="M21"> tʰv̩˧ɲi˧-ni˧˥
@@ -63487,7 +63487,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> (homophone de “sangsue"; confirmé)
+\nt <type="phono" langue="fra"> (homophone de “sangsue"; confirmé)
 \ton MH
 \lc tɕɯ˧˥
 \so F4
@@ -63834,7 +63834,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sy kʰv̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> littéralement “courir le muntjac"
+\nt <type="phono" langue="fra"> littéralement “courir le muntjac"
 \ton L
 \so F4
 \de To hunt.
@@ -63852,7 +63852,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰɯ˩di˩kʰv̩˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\np <langue="fra"> littéralement “chien qui court le muntjac"; peut s'employer quel que soit le type de gibier chassé, pas seulement pour des chiens qui chassent le muntjac
+\nt <type="phono" langue="fra"> littéralement “chien qui court le muntjac"; peut s'employer quel que soit le type de gibier chassé, pas seulement pour des chiens qui chassent le muntjac
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -63975,7 +63975,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> (tɕi˩mi˧ ɲi˩) (vérifié à nouveau en juillet 2012: n'est pas un ton L+H$)
-\np <langue="fra"> D'après M18: oiseau qu'on trouve bcp dans les champs de maïs; ne se déplace pas en grands vols. Selon M23: se trouve seulement en haute montagne. Transcription indiquée: 花眉鸟; en fait l'orthographe est 画眉鸟.
+\nt <type="phono" langue="fra"> D'après M18: oiseau qu'on trouve bcp dans les champs de maïs; ne se déplace pas en grands vols. Selon M23: se trouve seulement en haute montagne. Transcription indiquée: 花眉鸟; en fait l'orthographe est 画眉鸟.
 \ton LH
 \so F4
 \va <speaker="M21"> ID.
@@ -64429,7 +64429,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (noté en 2006: lo˧mi˥ tɕʰi˧tɕʰi˧) (avant mars 2012: noté comme ton: M.M)
-\np <langue="fra"> en cadre: le˧-tɕʰi˩~tɕʰi˩-ze˩
+\nt <type="phono" langue="fra"> en cadre: le˧-tɕʰi˩~tɕʰi˩-ze˩
 \ton MH
 \lc tɕʰɯ˩tɕʰɯ˧˥
 \so F4
@@ -64525,7 +64525,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra"> (ama accepte la prononciation [tʰi˩˥])
-\np <langue="fra"> (réalisé diphtongué: proche de [tʰje˩˧])
+\nt <type="phono" langue="fra"> (réalisé diphtongué: proche de [tʰje˩˧])
 \ton LH
 \lc tʰi˩˥
 \so F4
@@ -64679,7 +64679,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ti˩tje˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="eng"> phonetic realization: close to [ti˩tjɛ˧]
+\nt <type="phono" langue="eng"> phonetic realization: close to [ti˩tjɛ˧]
 \ton LM
 \so F4
 \de To treat, to handle (someone in a certain way).
@@ -65412,7 +65412,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tʰo˧fv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (n'est pas perçu par F4 comme un emprunt chinois)
+\nt <type="phono" langue="fra"> (n'est pas perçu par F4 comme un emprunt chinois)
 \ton M
 \so F4
 \de Bandit, brigand.
@@ -65794,7 +65794,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> object
 \nt <langue="pumi" dom="comp" print="n"> mə55dɑ51
 \nt <dom="sem" langue="fra"> flèche de feu
-\np <langue="fra"> Songé à une étymologie  |fn{同步枪} mais l'initiale de la 2e syllabe ne devrait pas être aspirée
+\nt <type="phono" langue="fra"> Songé à une étymologie  |fn{同步枪} mais l'initiale de la 2e syllabe ne devrait pas être aspirée
 \ton LM
 \lc tʰo˩pʰv̩˧tɕʰɤ˧
 \so F4
@@ -66707,7 +66707,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <langue="pumi" dom="comp" print="n"> ʈʂʰæ35
-\np <langue="fra"> cf “les générations passées"
+\nt <type="phono" langue="fra"> cf “les générations passées"
 \ton MH
 \so F4
 \de Classifier for generations.
@@ -66787,7 +66787,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <dom="sem" langue="fra"> (emprunt tibétain: tsamba; Wylie: rtsam pa)
-\np <langue="fra"> schémas tonals irréguliers
+\nt <type="phono" langue="fra"> schémas tonals irréguliers
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -67257,7 +67257,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <dom="sem" langue="fra"> littéralement “corne de cerf"
-\np <langue="fra"> ʈʂʰɯ˧ ʈʂʰæ˧qʰv̩˧ ɲi˥! ce sont des bois de cerf!
+\nt <type="phono" langue="fra"> ʈʂʰɯ˧ ʈʂʰæ˧qʰv̩˧ ɲi˥! ce sont des bois de cerf!
 \ton H$
 \lc ʈʂʰæ˧qʰv̩˥
 \so F4
@@ -67386,7 +67386,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> (d'abord noté ʈʂæ˥wɤ˧): un sous-groupe de 350b (les serfs): serviteurs attachés à des mandarins/personnages de haut rang; en principe sont de statut social bas, mais peuvent avoir un pouvoir de fait
+\nt <type="phono" langue="fra"> (d'abord noté ʈʂæ˥wɤ˧): un sous-groupe de 350b (les serfs): serviteurs attachés à des mandarins/personnages de haut rang; en principe sont de statut social bas, mais peuvent avoir un pouvoir de fait
 \ton L#
 \lc ʈʂæ˧wɤ˩
 \so F4
@@ -67522,7 +67522,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
 \nt <type="hist" langue="fra"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit: /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
-\np <langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/
+\nt <type="phono" langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/
 \ton M
 \lc tsʰe˧
 \so F4
@@ -67604,9 +67604,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> classifier
 \ton Lβ
 \lc ɖɯ˧ tsʰe˩
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
 \so F4
 \de Classifier for knots, e.g. in a braid.
 \ge |fg{clf}.knots
@@ -67704,7 +67704,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\np <langue="fra"> réalisé proche de: [tsæ˧bæ˥]
+\nt <type="phono" langue="fra"> réalisé proche de: [tsæ˧bæ˥]
 \ton H#
 \lc tse˧bæ˥
 \so F4
@@ -68026,7 +68026,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> souvent prononcé |fv{/ʈʂʰeŋ˩ko˧/}, avec nasale finale, imitant la phonotactique du mandarin
+\nt <type="phono" langue="fra"> souvent prononcé |fv{/ʈʂʰeŋ˩ko˧/}, avec nasale finale, imitant la phonotactique du mandarin
 \ton LM
 \lc ʈʂʰe˩ko˥
 \so F4
@@ -68064,7 +68064,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˧kʰv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> +ze˩
+\nt <type="phono" langue="fra"> +ze˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -68857,7 +68857,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> synonyme de 1457c, selon M23
+\nt <type="phono" langue="fra"> synonyme de 1457c, selon M23
 \ton MH
 \lc tsʰi˧˥
 \so F4
@@ -69121,7 +69121,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <dom="sem" langue="fra"> pas de différence de sens avec dʑi˩ʁu˩-zo˩-bæ˧, selon F4
-\np <langue="fra"> avant 2011: noté: dʑi˩ɭɯ˩-…
+\nt <type="phono" langue="fra"> avant 2011: noté: dʑi˩ɭɯ˩-…
 \so F4
 \de Trailing plant.
 \ge trailing_plant
@@ -69478,7 +69478,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> cf récit “lac": hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ “c'est devenu le lac, ça a donné naissance au lac"
+\nt <type="phono" langue="fra"> cf récit “lac": hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ “c'est devenu le lac, ça a donné naissance au lac"
 \ton M intrans
 \lc tsɤ˧
 \so F4
@@ -69628,7 +69628,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\np <langue="fra"> le ton est déduit du comportement dans l'expression /tsʰo˧ ʝi˥/ ‘avoir de l'estime'
+\nt <type="phono" langue="fra"> le ton est déduit du comportement dans l'expression /tsʰo˧ ʝi˥/ ‘avoir de l'estime'
 \ton MH
 \lc tsʰo˧˥
 \so F4
@@ -70019,7 +70019,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsɤ˧ɖɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> (note: ɖɯ˧: prononcé très proche de /ɖɤ˧ par M23)
+\nt <type="phono" langue="fra"> (note: ɖɯ˧: prononcé très proche de /ɖɤ˧ par M23)
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -70350,7 +70350,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\np <langue="fra"> emprunt tibétain? Est occasionnellement prononcé avec une nasalisation médiane: [tsʰo˧mpæ˧], ce qui dans la phonotactique na serait la réalisation de /†tsʰo˧mv̩˧pæ˧/, mais le mot est pourtant perçu comme disyllabique.
+\nt <type="phono" langue="fra"> emprunt tibétain? Est occasionnellement prononcé avec une nasalisation médiane: [tsʰo˧mpæ˧], ce qui dans la phonotactique na serait la réalisation de /†tsʰo˧mv̩˧pæ˧/, mais le mot est pourtant perçu comme disyllabique.
 \ton #H
 \lc tsʰo˧pæ˧
 \so F4
@@ -70370,7 +70370,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra"> Noté /pi˥/ en 2006. Tons: avant 2009, noté HH (/tsʰo˥pjɤ˥/).
-\np <langue="fra"> variante: tsʰo˧pi˧
+\nt <type="phono" langue="fra"> variante: tsʰo˧pi˧
 \ton M
 \lc tsʰo˧pjɤ˧
 \cf læ˩pʰæ˩-læ˥dzi˩
@@ -70425,7 +70425,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra"> vérifié: initiale uvulaire
-\np <langue="fra"> le ton est déduit du comportement dans l'expression /ʈʂʰɤ˩qo˧ kʰɯ˧˥/ ‘prêter attention'
+\nt <type="phono" langue="fra"> le ton est déduit du comportement dans l'expression /ʈʂʰɤ˩qo˧ kʰɯ˧˥/ ‘prêter attention'
 \ton LM
 \lc ʈʂʰɤ˩qo˥
 \so F4
@@ -70556,7 +70556,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <type="hist" langue="fra"> type d2a (+ɲi˥) (avant 2009: noté: tsʰo˥kʰwɤ˥mi˥)
-\np <langue="fra"> F4 accepte une réalisation comme /tsʰɯ˧qʰwɤ˧mi˧/. La forme monosyllabique n'est pas correcte.
+\nt <type="phono" langue="fra"> F4 accepte une réalisation comme /tsʰɯ˧qʰwɤ˧mi˧/. La forme monosyllabique n'est pas correcte.
 \ton #H
 \lc tsʰo˧qʰwɤ˧mi˧
 \so F4
@@ -70696,7 +70696,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" langue="fra"> (tons vérifiés en mai 2008) (d'abord noté dzɯ) (emprunt)
-\np <langue="fra"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bv̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
+\nt <type="phono" langue="fra"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bv̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
 \ton M
 \lc tsʰo˧tsɯ˧
 \so F4
@@ -71432,7 +71432,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (phonétiquement, proche de: læ˧ tsɯ˧tsɯ˧) (vérifié: n'est pas /tsi/)
-\np <langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
+\nt <type="phono" langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71466,7 +71466,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (phonétiquement, proche de: læ˧ tsɯ˧tsɯ˧) (vérifié: n'est pas /tsi/)
-\np <langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
+\nt <type="phono" langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71591,7 +71591,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> plus courant sous sa forme rédupliquée: ʈʂɯ˩ʈʂɯ˧˥, lə˧ʈʂɯ˩ʈʂɯ˩
+\nt <type="phono" langue="fra"> plus courant sous sa forme rédupliquée: ʈʂɯ˩ʈʂɯ˧˥, lə˧ʈʂɯ˩ʈʂɯ˩
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -71818,7 +71818,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> avant 2011, noté tsʰɯ˧mi˥-to˩qɑ˩; avant 2012: interprété comme: bouc
-\np <langue="fra"> de: to˧qɑ˧ “mâle"
+\nt <type="phono" langue="fra"> de: to˧qɑ˧ “mâle"
 \ton H$
 \so F4
 \va <speaker="F5"> ID.
@@ -71917,7 +71917,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (corrigé en 2009; auparavant: /njɤ˩ɭɯ˥ tsɯ˩pʰɑ˩/) (vérifié: n'est pas /lv/, à la différence de M21) (vérifié en 2009: n'est pas /tsi/)
-\np <langue="fra"> (sens confirmé; se fait en clignant des deux yeux)
+\nt <type="phono" langue="fra"> (sens confirmé; se fait en clignant des deux yeux)
 \ton L
 \so F4
 \va <speaker="M21"> tsɯ˩pʰɑ˩
@@ -72023,7 +72023,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <dom="sem" langue="fra"> Nom porté par une des femmes de la génération de la grand-mère de F4.
 \ton -L
 \lc tsʰɯ˧ɻ̩˧ɬɑ˩mv̩˩
-\np <langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <type="phono" langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so F4
 \de Ci'er Lhamu, a feminine given name.
 \ge Ci'er_Lhamu
@@ -72040,7 +72040,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
 \ton M
 \lc tsʰe˧li˧-ɬɑ˩mv̩˩
-\np <langue="fra"> Réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <type="phono" langue="fra"> Réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
 \so F4
 \de Ceili Lhamu, a feminine given name.
 \ge Ceili_Lhamu
@@ -72072,7 +72072,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" langue="fra"> avant 2012: avais noté: ʈʂʰæ˧ɻ̩˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975 ; rencontrée pendant les travaux des champs en nov. 2007.
-\np <langue="fra"> phonétiquement: ressemble beaucoup à tsʰɤ.ɻ, du fait d'une plus grande aperture de la rime de /tsʰɯ/, par anticipation du /ɻ/ qui suit
+\nt <type="phono" langue="fra"> phonétiquement: ressemble beaucoup à tsʰɤ.ɻ, du fait d'une plus grande aperture de la rime de /tsʰɯ/, par anticipation du /ɻ/ qui suit
 \ton #H
 \lc tsʰɯ˧ɻ̩˧
 \so F4
@@ -72114,7 +72114,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" langue="fra"> (corrigé en 2009; auparavant: “/ʈʂʰɯ˥ sɯ˧kv̩˩/, tons confirmés")
 \nt <type="hist" langue="fra"> ancien: ʈʰɯ˥sɯ˧kv̩˩
-\np <langue="fra"> forme phonétiquement réduite: tʰv̩˧-sɯ˩-kv̩˩
+\nt <type="phono" langue="fra"> forme phonétiquement réduite: tʰv̩˧-sɯ˩-kv̩˩
 \ton -L
 \lc ʈʂʰɯ˧sɯ˩kv̩˩
 \so F4
@@ -72780,7 +72780,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (confirmé en 2012: est un ton L)
-\np <langue="fra"> (cf aussi le mot pour “teinture")
+\nt <type="phono" langue="fra"> (cf aussi le mot pour “teinture")
 \ton Lα
 \lc ʈʂʰv̩˩˥
 \so F4
@@ -73603,7 +73603,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> le˧-ʈʰɯ˩-ze˩: phonétiquement: [le]
-\np <langue="fra"> ton 3b
+\nt <type="phono" langue="fra"> ton 3b
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
@@ -73760,7 +73760,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> “soutenir"
+\nt <type="phono" langue="fra"> “soutenir"
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
@@ -73990,9 +73990,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \de Classifier for sets of tens. The term used to refer to sets of eight. The word remains in use, but its meaning has shifted towards the meaning of ‘sets of ten', following the generalized use of decimal numeration.
 \ge |fg{clf}.sets_of_ten
@@ -74044,9 +74044,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> cf récit “fratrie"
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是H#。
 \so F4
 \de Classifier: a large chunk of: a piece larger than a mouthful. The size can range from a chunk of meat corresponding to one serving for one guest, to a quarter of meat weighing several kilos.
 \ge |fg{clf}.large_chunks
@@ -74101,7 +74101,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" langue="fra"> (tv̩˩ɭɯ˧ɲi˥) (tons vérifiés en 2009, syllabes confirmées)
-\np <langue="fra"> chez M23: syllabes coalescentes, comme si c'était une seule syllabe
+\nt <type="phono" langue="fra"> chez M23: syllabes coalescentes, comme si c'était une seule syllabe
 \ton LM+MH#
 \lc tv̩˩ɭɯ˧˥
 \so F4
@@ -74776,7 +74776,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (dʑi˩pʰæ˩ʈwæ˧ ze˩: tons confirmés, d'abord noté ˩ ˩ ˧ ˩ puis corrigé en ˩ ˩ ˥ ˩ (notes d'avant 2009: “dʑi˩ pʰæ˩ tʰi˩ ʈwæ˥ dʑo˩, d'abord noté ˩ ˩˥ ˥ ˧ ˧; en mai 2008, F4 confirme les données de M21: dʑi˩ ʈwæ˧˥, ton m8: dʑi˩ʈwæ˧˥ ɲi˩")(confirmé en 2012: est un ton L)
-\np <langue="fra"> sens: se figer; peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
+\nt <type="phono" langue="fra"> sens: se figer; peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -74833,7 +74833,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra"> avant 2016: noté /wo˧ɻ̩˩/. Mais phonétiquement, le mot commence par une occlusion glottale: [ʔu˧]. Une réalisation /wu/ ou /wo/ est refusée par F4 et M23.
 \nt <type="hist" langue="fra"> idée de Roselle Dobbs (p.c. 2015): “I strongly suspect the first morpheme is a Chinese borrowing." Vérification faite, l'intuition de F4 est qu'il ne s'agirait pas d'un emprunt.
 \nt <dom="sem" langue="fra"> L'usage démontre qu'il ne s'agit pas d'un pronom duel (‘nous deux'): F4 l'emploie dans /æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̩˩ | ə˧si˧-ɳɯ˧/ ‘Autrefois, ma grand-mère…' (Sister.177), qui à l'évidence évoque sa grand-mère à elle, et ne m'inclut pas dans la famille.
-\np <langue="fra"> Phonétiquement, commence par une occlusion glottale: ʔu˧. Une réalisation /wu/ ou /wo/ est refusée par F4 et M23. D'où la notation comme /u/, et non /wo/
+\nt <type="phono" langue="fra"> Phonétiquement, commence par une occlusion glottale: ʔu˧. Une réalisation /wu/ ou /wo/ est refusée par F4 et M23. D'où la notation comme /u/, et non /wo/
 \ton M
 \so F4
 \de First person, associative: my family/my people. This root is only attested together with a plural or associative clitic.
@@ -75148,7 +75148,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc v̩˧lɑ˩ʝi˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\np <langue="fra"> v̩˧lɑ˩+i˩ “faire du commerce" (i˧: faire) (mot concurrencé par un emprunt chinois)
+\nt <type="phono" langue="fra"> v̩˧lɑ˩+i˩ “faire du commerce" (i˧: faire) (mot concurrencé par un emprunt chinois)
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -75172,7 +75172,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> society
 \nt <type="hist" langue="fra"> (vérifié en 2009; d'abord noté v̩˥lɑ˧ i˧ hĩ˧, par erreur)
 \nt <dom="sem" langue="fra"> étymologie proposée par LLidz: ce serait: “gens qui frappent les casseroles", du fait qu'ils auraient attiré ainsi les chalands. Interprétation pas acceptée par F4: dans le temps les colporteurs utilisaient des cymbales pour se signaler, et non des casseroles. Pour F4 le mot n'est plus transparent. Argument décisif: cognat avec le naxi ɣɯ˧-lɑ˩ be˧, qui ne veut pas dire “casserole" (naxi: /bv/).
-\np <langue="fra"> le premier /hĩ/ est le relatif; le second est le mot ‘personne, être humain'.
+\nt <type="phono" langue="fra"> le premier /hĩ/ est le relatif; le second est le mot ‘personne, être humain'.
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -75325,9 +75325,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> (ton confirmé, n'est pas ˥˥)
-\np <langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
+\nt <type="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton Mα
 \so F4
 \va <speaker="F5"> ID.
@@ -75358,8 +75358,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" langue="fra"> Avant 2008: noté /ũæ˧/. Puis corrigé en /w̃æ˧/. L'article de 2008 qui présentait une analyse phonémique négligeait l'existence de la syllabe /wæ/, qui s'oppose à /w̃æ/ par l'absence de nasalisation. L'existence de ces deux syllabes amène à reconnaître statut phonémique à la nasalité de cette rime.
-\np <langue="fra"> Une occlusion glottale est présente au début et à la fin de la syllabe: [|fv{ʔw̃æʔ}]. Pour l'analyse phonémique, la glottalisation (initiale et finale) serait un trait secondaire, non distinctif par lui-même.
-\np <langue="eng"> There is a glottal stop at the beginning and end of the syllable: [|fv{ʔw̃æʔ}]. For phonemic analysis, glottalization (initial and final) is to be seen as a secondary, non-distinctive feature.
+\nt <type="phono" langue="fra"> Une occlusion glottale est présente au début et à la fin de la syllabe: [|fv{ʔw̃æʔ}]. Pour l'analyse phonémique, la glottalisation (initiale et finale) serait un trait secondaire, non distinctif par lui-même.
+\nt <type="phono" langue="eng"> There is a glottal stop at the beginning and end of the syllable: [|fv{ʔw̃æʔ}]. For phonemic analysis, glottalization (initial and final) is to be seen as a secondary, non-distinctive feature.
 \ton M intrans
 \so F4
 \va <speaker="M21"> ID.
@@ -75474,8 +75474,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc wo˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\np <langue="fra"> phonétiquement: proche de [wu].
-\np <langue="eng"> phonetically close to [wu].
+\nt <type="phono" langue="fra"> phonétiquement: proche de [wu].
+\nt <type="phono" langue="eng"> phonetically close to [wu].
 \ton H
 \so F4
 \va <speaker="F5"> ID.
@@ -75577,9 +75577,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> classifier
 \nt <type="hist" langue="fra"> on peut aussi dire: /ɖɯ˧-pʰu˥/, employant le classificateur des gros animaux domestiques dont les buffles: en effet, à Yongning les attelages ont actuellement un seul buffle, donc “un attelage" et “un bœuf" revient au même. (confirmé avec M18; tons confirmés: ʝi˧ ɖɯ˧-wu˩, n'est pas ʝi˥ ɖɯ˥-wu˩)
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖɯ˧-wu˥
@@ -75608,9 +75608,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra"> Avant 2013: noté /le˧-kʰɯ˧~kʰɯ˧ tʰi˧-tɕi˥/; pensé que cela signifiait “être transmis de génération en génération", 代代相传
 \nt <type="hist" langue="fra"> Emprunt: ɖɯ˧te˩˥ɖɯ˧te˩˥ki˥ki˧ (selon F5: n'y a rien entre les deux ɖɯ˧te˩˥; j'avais d'abord cru entendre une nasale) (b) ɖɯ˧wɤ˩ɖɯ˧wɤ˩le˧kʰɯ˧kʰɯ˧ tʰi˧ tsɯ˥ (confirmé: n'est pas tʰi˩) (c) le˧kʰɯ˧kʰɯ˩
 \ton Lβ
-\np <langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
-\np <langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
-\np <langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
+\nt <type="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
+\nt <type="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
+\nt <type="phono" langue="cmn"> 在属于声调类别Lβ的量词中，一些量词在与状语结合时优先承载H#声调，而另一些量词则优先承载MH#声调。在目前的语言状况下，这似乎是变体之间的一种偏好而已。与该量词优先关联的声调模式是MH#。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -75693,9 +75693,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" langue="fra" dom="ton"> Notation 2006: /wɤ˧wɤ˩˥/. Vérifié en novembre 2011: n'est pas un schéma L.MH (˩ ˧˥), mais un schéma L.L.
 \nt <type="hist" langue="fra" dom="phono"> Vérifié en 2006: est une syllabe /wɤ/, non une syllabe /ʁwɤ/.
 \nt <type="hist" langue="fra" dom="synt"> Une forme monosyllabique avait été notée, dans le cadre ‡/|fv{le˧-wɤ˩-ze˩}/. Mais elle n'est pas reconnue en 2024; il s'agissait vraisemblablement d'un malentendu. Il n'y a pas de forme monosyllabique correspondante dans l'état actuel de la langue.
-\np <langue="fra"> Il n'a pas été possible d'éliciter une forme simplex, non rédupliquée.
-\np <langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
-\np <langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
+\nt <type="phono" langue="fra"> Il n'a pas été possible d'éliciter une forme simplex, non rédupliquée.
+\nt <type="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
+\nt <type="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -75870,8 +75870,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra"> Généralement employé sous sa forme rédupliquée: |fv{ʐæ˧~ʐæ˥}.
 \nt <dom="sem" langue="eng"> The word is generally used in reduplicated form: |fv{ʐæ˧~ʐæ˥}.
-\np <langue="fra"> phonétiquement: proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
-\np <langue="eng"> phonetically: close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\nt <type="phono" langue="fra"> phonétiquement: proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\nt <type="phono" langue="eng"> phonetically: close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
