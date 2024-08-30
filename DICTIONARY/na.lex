@@ -373,7 +373,7 @@
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" langue="fra"> nasalité: vérifié en août 2014
-\nt <type="hist" langue="fra"> prior to 2015: translated as: ‘amusement, enjoyment, recreation, mirth; may originally be an onomatopoeia: outburst of joy'
+\nt <type="hist" langue="eng"> prior to 2015: translated as: ‘amusement, enjoyment, recreation, mirth; may originally be an onomatopoeia: outburst of joy'
 \nt <dom="sem" langue="fra"> extrait de l'expression /æ˧ʝi˩ kʰɯ˩/ ‘s'amuser, se distraire: parler à haute voix, chanter, crier…'
 \ton L#
 \lc æ˧ʝi˩
@@ -718,9 +718,8 @@
 \xe to throw away
 \xn 扔掉
 \xf jeter (à la poubelle), se débarrasser de
-\dt 14/Jul/2018
 
-\lx
+\lx ɑ˩pʰo˩-hĩ˩
 \sf <nb="B"> 898b
 \sf <nb="2011"> 1317
 \or apohin
@@ -5388,7 +5387,6 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" langue="fra"> +ɲi˩
-\np
 \ton M
 \pdv mi˩
 \de Dragon.
@@ -45582,7 +45580,6 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\np
 \ton Hα
 \lc ɖɯ˧ pɤ˥
 \so F4
