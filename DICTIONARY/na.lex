@@ -374,10 +374,10 @@
 \sd <langue="eng"> abstract
 \nt <type="hist" print="n" langue="fra"> nasalité: vérifié en août 2014
 \nt <type="hist" print="n" langue="eng"> prior to 2015: translated as: ‘amusement, enjoyment, recreation, mirth; may originally be an onomatopoeia: outburst of joy'
-\nt <dom="sem" langue="fra"> extrait de l'expression /æ˧ʝi˩ kʰɯ˩/ ‘s'amuser, se distraire: parler à haute voix, chanter, crier…'
+\nt <dom="sem" langue="fra"> extrait de l'expression /|fv{æ˧ʝi˩ kʰɯ˩}/ ‘s'amuser, se distraire: parler à haute voix, chanter, crier…'
 \ton L#
 \lc æ˧ʝi˩
-\nd AH2016: æ˧ʝi˩，声调改变成“æ˧ʝi˧”后，在我们那边的摩梭话里,除了叫声,还有”天哪“的意思，（但这个”天哪“不等同于汉语的”天哪“）它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“æ˧ʝi˧”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说”æ˧ʝi˧”，脏，我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法，您可以参考一下。
+\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭话里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
 \so F4
 \de Cry.
 \ge cry
@@ -399,7 +399,7 @@
 \or eyi
 \ps intj
 \cf æ˧ʝi˩
-\nt <type="hist" print="n" langue="fra"> A Hui, 2016: æ˧ʝi˩，声调改变成“æ˧ʝi˧”后，在我们那边的摩梭话里,除了叫声,还有”天哪“的意思，（但这个”天哪“不等同于汉语的”天哪“）它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“æ˧ʝi˧”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说”æ˧ʝi˧”，脏.
+\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭话里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
 \ton M
 \lc æ˧ʝi˧!
 \sd <langue="fra"> interjection
@@ -6740,12 +6740,12 @@
 
 \lx ɖæ˩-lɑ˧so#˥
 \or ddaelaso
-\bw <langue="bod"> ‘bras lha gsol
+\bw <langue="bod"> 'bras lha gsol
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <type="hist" print="n" langue="fra"> avant 2017: noté au ton L-M (n'avais pas relevé le ton flottant)
-\ec <langue="fra"> L'identification avec ‘bras lha gsol est proposée par Nicolas Tournadre.
+\ec <langue="fra"> L'identification avec 'bras lha gsol est proposée par Nicolas Tournadre.
 \ton L-#H
 \lc ɖæ˩lɑ˧so˧
 \so F4
@@ -6763,7 +6763,6 @@
 \xe to watch the Ddaelaso ritual
 \xn 看这种仪式
 \xf regarder le rituel Ddaelaso
-\dt 03/May/2017
 
 \lx ɖæ˩mi˧
 \or Ddaemi
@@ -8034,7 +8033,7 @@
 
 \lx ɖɯ˩ɖʐɯ˧
 \or Ddeezzhi
-\bw <langue="bod">
+\bw <langue="bod"> Rdo rje |tib{རྡོ་རྗེ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -8050,6 +8049,7 @@
 
 \lx ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̩˩
 \or Ddeezzhi Ci'er
+\bw <langue="bod"> Rdo rje Tshe ring |tib{རྡོ་རྗེ་ཚེ་རིང}
 \ets ɖɯ˩ɖʐɯ˧
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -8067,6 +8067,7 @@
 
 \lx ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩
 \or Ddeezzhi Lhaco
+\bw <langue="bod"> Rdo rje Lha mtsho |tib{རྡོ་རྗེ་ལྷ་མཚོ}
 \ets ɖɯ˩ɖʐɯ˧
 \ets ɬɑ˧tsʰo#˥
 \ps n
@@ -8169,6 +8170,7 @@
 
 \lx ɖɯ˩mɑ˧-ɬɑ˩tsʰo˩
 \or Ddeema Lhaco
+\bw <langue="bod"> Sgrol ma Lha mtsho |tib{སྒྲོལ་མ་ལྷ་མཚོ}
 \ets ɖɯ˩mɑ#˥
 \ets ɬɑ˧tsʰo#˥
 \ps n
@@ -8186,6 +8188,7 @@
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
+\bw <langue="bod"> Sgrol ma Bu khrid |tib{སྒྲོལ་མ་བུ་ཁྲིད}
 \ets ɖɯ˩mɑ#˥
 \ets pv̩˩ʈʰɯ˧
 \ps n
@@ -8204,6 +8207,7 @@
 \lx ɖɯ˩mɑ#˥
 \sf <nb="2011"> 3309
 \or Ddeema
+\bw <langue="bod"> Sgrol ma |tib{སྒྲོལ་མ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -11712,6 +11716,7 @@
 
 \lx dʑɤ˩tsʰi˧-ɖɯ˩mɑ˩
 \or Jjacee Ddeema
+\bw <langue="bod"> Bde skyid (?) Sgrol ma |tib{བདེ་སྐྱིད(?)་སྒྲོལ་མ}
 \ets dʑɤ˩tsʰi#˥
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -11748,6 +11753,7 @@
 
 \lx dʑɤ˩tsʰi#˥
 \or Jjacee
+\bw <lang="bod"> Bde skyid (?) |tib{བདེ་སྐྱིད}
 \ps n
 \lc dʑɤ˩tsʰi˥
 \sd <langue="fra"> nom propre
@@ -18093,6 +18099,7 @@
 
 \lx gv̩˧mɑ˧
 \or Gguma
+\bw <langue="bod"> ? |tib{?}
 \ps n
 \lc gv̩˧mɑ˧
 \sd <langue="fra"> nom propre
@@ -23913,6 +23920,7 @@
 
 \lx ʝi˧ʂɯ˥
 \or Yishi
+\bw <langue="bod"> Ye shes |tib{ཡེ་ཤེས}
 \ps n
 \lc ʝi˧ʂɯ˥
 \sd <langue="fra"> nom propre
@@ -23928,6 +23936,7 @@
 
 \lx ʝi˧ʂɯ˥-ti˩ɖo˩
 \or Yishi Diddeo
+\bw <langue="bod"> Ye shes yyyy |tib{ཡེ་ཤེས}
 \ets ʝi˧ʂɯ˥
 \ets ti˧ɖo˥
 \ps n
@@ -23962,6 +23971,7 @@
 
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
 \or Yijie Ddeema
+\bw <langue="bod"> Yid ches (?) Sgrol ma |tib{ཡིད་ཆེས(?)་སྒྲོལ་མ}
 \ets ʝi˧tɕi˧
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -23980,6 +23990,7 @@
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
+\bw <langue="bod"> Yid ches (?) Lha mo |tib{ཡིད་ཆེས(?)་ལྷ་མོ}
 \ets ʝi˧tɕi˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -25534,6 +25545,10 @@
 
 \lx ki˧zo˧-ɖɯ˩mɑ˩
 \or Gisso Ddeema
+\bw <langue="bod"> Skal bzang (?) Sgrol ma |tib{སྐལ་བཟང(?)་སྒྲོལ་མ}
+\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ets ki˧zo#˥
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -25552,6 +25567,10 @@
 \lx ki˧zo˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3287
 \or Gisso Lhamu
+\bw <langue="bod"> Skal bzang (?) Lha mo |tib{སྐལ་བཟང(?)་ལྷ་མོ}
+\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ets ki˧zo#˥
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -25569,6 +25588,10 @@
 
 \lx ki˧zo#˥
 \or Gisso
+\bw <langue="bod"> Skal bzang (?) |tib{སྐལ་བཟང(?)}
+\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -26011,7 +26034,7 @@
 \sf <nb="B"> 667
 \sf <nb="2011"> 994
 \or goddae
-\bw <langue="bod"> sku-vdra (sku-'dra)
+\bw <langue="bod"> sku vdra (sku 'dra)
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -26635,6 +26658,10 @@
 
 \lx kɤ˧zo˧-tsʰɯ˩ɻ̩˩
 \or Gesso Ci'er
+\bw <langue="bod"> Skal bzang (?) Tshe ring |tib{སྐལ་བཟང(?)་ཚེ་རིང}
+\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ets kɤ˧zo#˥
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -26652,6 +26679,10 @@
 
 \lx kɤ˧zo#˥
 \or Gesso
+\bw <langue="bod"> Skal bzang (?) |tib{སྐལ་བཟང(?)}
+\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -29905,6 +29936,9 @@
 \sd <langue="eng"> given name
 \ton L
 \lc lɑ˩mɑ˩˥
+\nt <langue="fra" dom="comp"> S'il s'agissait d'un emprunt tibétain (ce qui n'a rien de sûr, s'agissant d'un nom de famille et non d'un prénom), il pourrait s'agir de Bla ma |tib{བླ་མ}.
+\nt <langue="fra" dom="comp"> In case this word is a Tibetan borrowing (which is by no means certain; it is a surname and not a first name), it could be from Bla ma |tib{བླ་མ}.
+\nt <langue="cmn" dom="comp"> 假如是藏语借词（这一点还不能确定），可能来自|tib{བླ་མ}。
 \so F4
 \de Lama, a family name from Yongning. There are four families in Yongning that carry this name.
 \ge Lama
@@ -29929,7 +29963,7 @@
 \sf <nb="B"> 355b
 \sf <nb="2011"> 413
 \or lama
-\bw <langue="bod"> bla-ma
+\bw <langue="bod"> bla ma
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -29948,7 +29982,6 @@
 \xe Chinese lama
 \xn 汉族喇嘛
 \xf lama chinois
-\dt 04/Sep/2015
 
 \lx lɑ˧mi#˥
 \or lami
@@ -29974,6 +30007,7 @@
 
 \lx ɬɑ˧mv̩˥$
 \or Lhamu
+\bw <langue="bod"> Lha mo |tib{ལྷ་མོ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -30212,6 +30246,7 @@
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
 \or Latami Daeshi Lhamu
+\bw <langue="bod"> yyyy yyyy Lha mo |tib{yyyy་yyyy་ལྷ་མོ}
 \ets lɑ˧tʰɑ˧mi˥$
 \ets ʈæ˧ʂɯ˧
 \ets ɬɑ˧mv̩˥$
@@ -30267,6 +30302,7 @@
 
 \lx ɬɑ˧tsʰo#˥
 \or Lhaco
+\bw <langue="bod"> Lha mtsho |tib{ལྷ་མཚོ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -32101,7 +32137,7 @@
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
 \or lobbuchi
-\bw <langue="bod"> གླང་ཆེན།
+\bw <langue="bod"> glang chen གླང་ཆེན།
 \ps n
 \lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
@@ -38651,6 +38687,7 @@
 
 \lx nɑ˧dʑi#˥
 \or Najjie
+\bw <langue="bod"> Rnam rgyal |tib{རྣམ་རྒྱལ}
 \ps n
 \lc nɑ˧dʑi˧
 \sd <langue="fra"> nom propre
@@ -39533,6 +39570,7 @@
 
 \lx ɲi˩mɑ#˥
 \or Nima
+\bw <langue="bod"> Nyi ma |tib{ཉི་མ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -41448,19 +41486,64 @@
 \xf c'est toi!
 \dt 25/Apr/2017
 
-\lx no˩bv̩˧
+
+\lx ʈæ˧ʂɯ˧-no˩bv̩˩
 \or Nobbu
+\bw <langue="bod"> yyyy Nor bu |tib{་ནོར་བུ}
+\ets ʈæ˧ʂɯ˧
+\ets no˩bv̩˧
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n" langue="fra"> avant juin 2012: noté ‡no˧bv̩˥
+\ton -L
+\lc ʈæ˧ʂɯ˧no˩bv̩˩
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\so F4
+\de Daeshi Nobbu, a masculine given name.
+\ge Daeshi_Nobbu
+\dn 达石诺布：一个男性名字
+\gn 达石诺布
+\df Daeshi Nobbu, un prénom masculin.
+\gf Daeshi_Nobbu
+\refsup BuriedAlive2.109
+\doisup 10.24397/pangloss-0004537#S109
+
+\lx no˩bv̩˧-tsʰɯ˩ɻ̩˩
+\or Nobbu
+\bw <langue="bod"> Nor bu Tshe ring |tib{ནོར་བུ་ཚེ་རིང}
+\ets no˩bv̩˧
+\ets tsʰɯ˧ɻ̩#˥
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton LM
+\lc no˩bv̩˥tsʰɯ˩ɻ̩˩
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\so F4
+\de Nobbu Ci'er, a masculine given name.
+\ge Nobbu_Ci'er
+\dn 诺布次尔：一个男性名字
+\gn 诺布次尔
+\df Nobbu Ci'er, un prénom masculin.
+\gf Nobbu_Ci'er
+\refsup BuriedAlive2.113
+\doisup 10.24397/pangloss-0004537#S113
+
+\lx no˩bv̩˧
+\or Nobbu
+\bw <langue="bod"> Nor bu |tib{ནོར་བུ}
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
 \ton LM
 \lc no˩bv̩˥
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\nt <type="hist" print="n" langue="fra" dom="ton"> avant juin 2012: noté ‡|fv{no˧bv̩˥}. Un argument en faveur de cette notation était qu'elle comporte un ton H, en mesure d'expliquer pourquoi, en composition, le prénom `Nobbu' abaisse le ton du prénom qui suit dans les prénoms composés: ainsi, le ton de |fv{tsʰɯ˧ɻ̩#˥} `Ci'er' se trouve abaissé en |fv{...-tsʰɯ˩ɻ̩˩} dans |fv{no˩bv̩˧-tsʰɯ˩ɻ̩˩}, ce qui indique la présence d'un ton H dans le premier prénom, et suggérait qu'il pourrait au fond s'agir d'un ‡|fv{no˧bv̩˥-tsʰɯ˩ɻ̩˩} ou ‡|fv{no˩bv̩˥-tsʰɯ˩ɻ̩˩}. Mais les règles tonales en composition nominale ne s'appliquent pas aux prénoms composés, puisque le nom Daeshi, qui porte un ton M, abaisse pareillement le ton du prénom qui suit dans les prénoms composés. Voir Michaud (2017: 144-147).
 \so F4
 \de Nobbu, a masculine given name.
 \ge Nobbu
-\dn 男性名字
-\gn 男性名字
+\dn 诺布：一个男性名字
+\gn 诺布
 \df Nobbu, un prénom masculin.
 \gf Nobbu
 
@@ -41504,6 +41587,7 @@
 
 \lx no˧no˧-ɖɯ˩mɑ˩
 \or Nono Ddeema
+\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
 \ets no˧no˧
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -43945,6 +44029,7 @@
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
 \or Bima Lhamu
+\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
 \ets pi˧mɑ˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -43962,6 +44047,7 @@
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
 \or Bima Lhaco
+\bw <langue="bod"> yyyy Lha mtsho |tib{ལྷ་མཚོ}
 \ets pi˧mɑ˧
 \ets ɬɑ˧tsʰo#˥
 \ps n
@@ -44185,6 +44271,7 @@
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
+\bw <langue="bod"> yyyy Rdo rje |tib{རྡོ་རྗེ}
 \ets pʰi˧tsʰo#˥
 \ets ɖɯ˩ɖʐɯ˧
 \ps n
@@ -46602,6 +46689,7 @@
 
 \lx pv̩˩ʈʰɯ˧
 \or Butee
+\bw <langue="bod"> Bu khrid |tib{བུ་ཁྲིད}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -54531,6 +54619,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 02/Oct/2015
 
 \lx ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩
+\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
 \or Erchei Ddeema
 \ets ɻ̩˩ʈʂʰe#˥
 \ets ɖɯ˩mɑ#˥
@@ -54549,6 +54638,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻ̩˩ʈʂʰe˧-tsʰɯ˩ɻ̩˩
 \or Erchei Ci'er
+\bw <langue="bod"> yyyy Tshe ring |tib{ཚེ་རིང}
 \ets ɻ̩˩ʈʂʰe#˥
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -61323,6 +61413,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
 \or Daeshi Ddeema
+\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
 \ets ʈæ˧ʂɯ˧
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -61341,6 +61432,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \or Daeshi Lhamu
+\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
 \ets ʈæ˧ʂɯ˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -61377,6 +61469,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩
 \or Daeshi Ci'er
+\bw <langue="bod"> yyyy Tshe ring |tib{ཚེ་རིང}
 \ets ʈæ˧ʂɯ˧
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -70340,7 +70433,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰo˧pæ#˥
 \or cobae
-\bw <langue="bod"> tshong pa “merchant"
+\bw <langue="bod"> tshong pa
+\ec <langue="fra"> Le sens en tibétain est `marchand'.
+\ec <langue="eng"> The meaning of the Tibetan word is `merchant'.
+\ec <langue="cmn"> 原意为‘商人’。
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -71991,6 +72087,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-ɖɯ˩mɑ˩
 \or Ci'er Ddeema
+\bw <langue="bod"> Tshe ring Sgrol ma |tib{ཚེ་རིང་སྒྲོལ་མ}
 \ets tsʰɯ˧ɻ̩#˥
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -72008,6 +72105,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-ɬɑ˩mv̩˩
 \or Ci'er Lhamu
+\bw <langue="bod"> Tshe ring Lha mo |tib{ཚེ་རིང་ལྷ་མོ}
 \ets tsʰɯ˧ɻ̩#˥
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -72028,6 +72126,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰe˧li˧-ɬɑ˩mv̩˩
 \or Ceili Lhamu
+\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -72045,6 +72144,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-pʰi˩tsʰo˩
 \or Ci'er Pico
+\bw <langue="bod"> Tshe ring yyyy |tib{ཚེ་རིང}
 \ets tsʰɯ˧ɻ̩#˥
 \ets pʰi˧tsʰo#˥
 \ps n
@@ -72062,6 +72162,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩#˥
 \or Ci'er
+\bw <langue="bod"> Tshe ring |tib{ཚེ་རིང}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
