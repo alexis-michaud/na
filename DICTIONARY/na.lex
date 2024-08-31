@@ -493,7 +493,7 @@
 \sf <nb="B"> 668
 \sf <nb="2011"> 995
 \or aenlhi
-\bw <langue="bod"> bla (older form: brla)
+\bw <langue="bod"> bla |tib{བླ} (older form: brla |tib{བརླ})
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -6740,7 +6740,7 @@
 
 \lx ɖæ˩-lɑ˧so#˥
 \or ddaelaso
-\bw <langue="bod"> 'bras lha gsol
+\bw <langue="bod"> 'bras lha gsol |tib{འབྲས་ལྷ་གསོལ}
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -6766,7 +6766,7 @@
 
 \lx ɖæ˩mi˧
 \or Ddaemi
-\bw <langue="bod"> dgra med
+\bw <langue="bod"> dgra med |tib{དགྲ་མེད}
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -6787,7 +6787,7 @@
 \lx ɖæ˩mi˧-go˧bɤ˩
 \sf <nb="2011"> 3315
 \or Ddaemi ggobbe
-\bw <langue="bod"> dgra med dgon pa
+\bw <langue="bod"> dgra med dgon pa |tib{དགྲ་མེད་དགོན་པ}
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -8188,7 +8188,7 @@
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
 \or Ddeema Butee
-\bw <langue="bod"> Sgrol ma Bu khrid |tib{སྒྲོལ་མ་བུ་ཁྲིད}
+\bw <langue="bod"> Sgrol ma Bu khrid (/Bu phrug?) |tib{སྒྲོལ་མ་བུ་ཁྲིད/བུ་ཕྲུག?}
 \ets ɖɯ˩mɑ#˥
 \ets pv̩˩ʈʰɯ˧
 \ps n
@@ -16847,7 +16847,7 @@
 \sf <nb="B"> 86b
 \sf <nb="2011"> 132
 \or ggobbe
-\bw <langue="bod"> dgon pa
+\bw <langue="bod"> dgon pa |tib{དགོན་པ}
 \ps n
 \lc go˧bɤ˩
 \sd <langue="fra"> religion
@@ -16954,7 +16954,7 @@
 \sf <nb="B"> 666
 \sf <nb="2011"> 984
 \or ggela
-\bw <langue="bod"> lha
+\bw <langue="bod"> lha |tib{ལྷ}
 \ps n
 \lc gɤ˧lɑ˧
 \sd <langue="fra"> religion
@@ -23936,7 +23936,7 @@
 
 \lx ʝi˧ʂɯ˥-ti˩ɖo˩
 \or Yishi Diddeo
-\bw <langue="bod"> Ye shes yyyy |tib{ཡེ་ཤེས}
+\bw <langue="bod"> Ye shes +? |tib{ཡེ་ཤེས+?}
 \ets ʝi˧ʂɯ˥
 \ets ti˧ɖo˥
 \ps n
@@ -26034,7 +26034,7 @@
 \sf <nb="B"> 667
 \sf <nb="2011"> 994
 \or goddae
-\bw <langue="bod"> sku vdra (sku 'dra)
+\bw <langue="bod"> sku vdra |tib{སྐུ་འདྲ} (sku 'dra)
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -29963,7 +29963,7 @@
 \sf <nb="B"> 355b
 \sf <nb="2011"> 413
 \or lama
-\bw <langue="bod"> bla ma
+\bw <langue="bod"> bla ma |tib{བླ་མ}
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -30246,7 +30246,7 @@
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3308
 \or Latami Daeshi Lhamu
-\bw <langue="bod"> yyyy yyyy Lha mo |tib{yyyy་yyyy་ལྷ་མོ}
+\bw <langue="bod"> * Bkra shis Lha mo |tib{བཀྲ་ཤིས་ལྷ་མོ}
 \ets lɑ˧tʰɑ˧mi˥$
 \ets ʈæ˧ʂɯ˧
 \ets ɬɑ˧mv̩˥$
@@ -32137,7 +32137,7 @@
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
 \or lobbuchi
-\bw <langue="bod"> glang chen གླང་ཆེན།
+\bw <langue="bod"> glang chen |tib{གླང་ཆེན།}
 \ps n
 \lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
@@ -33082,7 +33082,7 @@
 
 \lx lo˧tɑ˧-lo˧tɕi#˥
 \or loda lojie
-\bw <langue="bod"> rlung rta
+\bw <langue="bod"> rlung rta |tib{རླུང་རྟ}
 \ps n
 \cf nɑ˧ʈʂʰõ˧-õ˩di˩-pɤ˩
 \sd <langue="fra"> religion
@@ -41489,7 +41489,7 @@
 
 \lx ʈæ˧ʂɯ˧-no˩bv̩˩
 \or Nobbu
-\bw <langue="bod"> yyyy Nor bu |tib{་ནོར་བུ}
+\bw <langue="bod"> Bkra shis Nor bu |tib{་ནོར་བུ་བཀྲ་ཤིས}
 \ets ʈæ˧ʂɯ˧
 \ets no˩bv̩˧
 \ps n
@@ -41554,7 +41554,9 @@
 \sd <langue="eng"> given name
 \ton M
 \lc no˧no˧
-\so F4
+\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \de Nono, a feminine given name.
 \ge Nono
 \dn 女性名字
@@ -41587,14 +41589,18 @@
 
 \lx no˧no˧-ɖɯ˩mɑ˩
 \or Nono Ddeema
-\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
+\bw <langue="bod"> ? + Sgrol ma |tib{? + སྒྲོལ་མ}
 \ets no˧no˧
 \ets ɖɯ˩mɑ#˥
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n" langue="fra"> avant 2012: noté no˧no˧-ɖv̩˩mɑ˩
+\lc no˧no˧ɖɯ˩mɑ˩
 \ton -L
+\nt <type="hist" print="n" langue="fra"> avant 2012: noté no˧no˧-ɖv̩˩mɑ˩
+\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \so F4
 \de Nono Ddeema, a feminine given name.
 \ge Nono_Ddeema
@@ -41623,15 +41629,15 @@
 \xv ɑ˩ʁo˧ | no˩qo˥ | le˧-tsʰɯ˩-ze˩!
 \xe (We/you) have arrived at home! / (We/you) are come home!
 \xn 到家里了！
-\xv (Nous voilà) arrivés à la maison! / (Te voilà) arrivé à la maison!
+\xf (Nous voilà) arrivés à la maison! / (Te voilà) arrivé à la maison!
 \xv ʑi˧dv̩˧ | no˩qo˥
 \xe inside the house, at the house
 \xn 在家／在屋子里面
-\xv dans la maison, à la maison
+\xf dans la maison, à la maison
 \xv ɬi˧di˩ | no˩qo˥ | le˧-tsʰɯ˩-ze˩!
 \xe (We've) reached Yongning! / We're in Yongning now!
 \xn 到永宁了！
-\xv (Nous voici) parvenus à Yongning!
+\xf (Nous voici) parvenus à Yongning!
 
 \lx no˧-sɯ˩kv̩˩
 \sf <nb="B"> 2160
@@ -43401,6 +43407,7 @@
 \lx pæ˩pʰæ˧˥
 \hm 2
 \or Baepae
+\bw <langue="bod"> Spen pa? |tib{སྤེན་པ?}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -44014,6 +44021,7 @@
 
 \lx pi˧mɑ˧
 \or Bima
+\bw <langue="bod"> Pad ma |tib{པད་མ}
 \ps n
 \lc pi˧mɑ˧
 \sd <langue="fra"> nom propre
@@ -44029,7 +44037,7 @@
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
 \or Bima Lhamu
-\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
+\bw <langue="bod"> Pad ma Lha mo |tib{པད་མ་ལྷ་མོ}
 \ets pi˧mɑ˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -44047,7 +44055,7 @@
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
 \or Bima Lhaco
-\bw <langue="bod"> yyyy Lha mtsho |tib{ལྷ་མཚོ}
+\bw <langue="bod"> Pad ma Lha mtsho |tib{པད་མ་ལྷ་མཚོ}
 \ets pi˧mɑ˧
 \ets ɬɑ˧tsʰo#˥
 \ps n
@@ -44271,7 +44279,7 @@
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
-\bw <langue="bod"> yyyy Rdo rje |tib{རྡོ་རྗེ}
+\bw <langue="bod"> Phun tshogs Rdo rje |tib{ཕུན་ཚོགས་རྡོ་རྗེ}
 \ets pʰi˧tsʰo#˥
 \ets ɖɯ˩ɖʐɯ˧
 \ps n
@@ -44289,6 +44297,7 @@
 
 \lx pʰi˧tsʰo#˥
 \or Pico
+\bw <langue="bod"> Phun tshogs |tib{ཕུན་ཚོགས}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -46689,7 +46698,7 @@
 
 \lx pv̩˩ʈʰɯ˧
 \or Butee
-\bw <langue="bod"> Bu khrid |tib{བུ་ཁྲིད}
+\bw <langue="bod"> Bu khrid (/Bu phrug?) |tib{བུ་ཁྲིད/བུ་ཕྲུག?}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -54619,7 +54628,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 02/Oct/2015
 
 \lx ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩
-\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
+\bw <langue="bod"> Rin chen Sgrol ma |tib{རིན་ཆེན་སྒྲོལ་མ}
 \or Erchei Ddeema
 \ets ɻ̩˩ʈʂʰe#˥
 \ets ɖɯ˩mɑ#˥
@@ -54638,7 +54647,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻ̩˩ʈʂʰe˧-tsʰɯ˩ɻ̩˩
 \or Erchei Ci'er
-\bw <langue="bod"> yyyy Tshe ring |tib{ཚེ་རིང}
+\bw <langue="bod"> Rin chen Tshe ring |tib{རིན་ཆེན་ཚེ་རིང}
 \ets ɻ̩˩ʈʂʰe#˥
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -54656,6 +54665,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ɻ̩˩ʈʂʰe#˥
 \or Erchei
+\bw <langue="bod"> Rin chen |tib{རིན་ཆེན}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -56669,7 +56679,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 1915
 \sf <nb="2011"> 2905
 \or seiggi
-\bw <langue="bod"> seng ge སེང་གེ
+\bw <langue="bod"> seng ge |tib{སེང་གེ}
 \ps n
 \cf sɯ˧tsɯ˧
 \sd <langue="fra"> animal
@@ -60564,6 +60574,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tɑ˩dʑɤ#˥
 \or Dajja
+\bw <langue="bod"> Dar rgyes? |tib{དར་རྒྱེས?}
 \ps n
 \lc tɑ˩dʑɤ˥
 \sd <langue="fra"> nom propre
@@ -60832,7 +60843,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tʰɑ˩lo˧
 \or Talo
-\bw <langue="bod"> thar lam
+\bw <langue="bod"> thar lam |tib{ཐར་ལམ}
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -61398,6 +61409,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧
 \or Daeshi
+\bw <langue="bod"> Bkra shis |tib{བཀྲ་ཤིས}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -61413,7 +61425,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
 \or Daeshi Ddeema
-\bw <langue="bod"> yyyy Sgrol ma |tib{སྒྲོལ་མ}
+\bw <langue="bod"> Bkra shis Sgrol ma |tib{བཀྲ་ཤིས་སྒྲོལ་མ}
 \ets ʈæ˧ʂɯ˧
 \ets ɖɯ˩mɑ#˥
 \ps n
@@ -61432,7 +61444,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
 \or Daeshi Lhamu
-\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
+\bw <langue="bod"> Bkra shis Lha mo |tib{བཀྲ་ཤིས་ལྷ་མོ}
 \ets ʈæ˧ʂɯ˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -61452,6 +61464,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-pæ˩pʰæ˩
 \or Daeshi Baepae
+\bw <langue="bod"> Bkra shis Spen pa? |tib{བཀྲ་ཤིས་སྤེན་པ?}
 \ets ʈæ˧ʂɯ˧
 \ets pæ˩pʰæ˧˥2
 \ps n
@@ -61469,7 +61482,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩
 \or Daeshi Ci'er
-\bw <langue="bod"> yyyy Tshe ring |tib{ཚེ་རིང}
+\bw <langue="bod"> Bkra shis Tshe ring |tib{བཀྲ་ཤིས་ཚེ་རིང}
 \ets ʈæ˧ʂɯ˧
 \ets tsʰɯ˧ɻ̩#˥
 \ps n
@@ -61487,6 +61500,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
 \or Daeshi Daedeu
+\bw <langue="bod"> Bkra shis Dgra 'dul? |tib{བཀྲ་ཤིས་དགྲ་འདུལ?}
 \ets ʈæ˧ʂɯ˧
 \ets ʈæ˩ʈv̩#˥
 \ps n
@@ -61504,6 +61518,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˧ʂɯ˧-tsʰi˩ti˩
 \or Daeshi Ceedi
+\bw <langue="bod"> Bkra shis +? |tib{བཀྲ་ཤིས +?}
 \ets ʈæ˧ʂɯ˧
 \ets tsʰi˧ti#˥
 \ps n
@@ -61611,6 +61626,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʈæ˩ʈv̩#˥
 \or Daedeu
+\bw <langue="bod"> Dgra 'dul? |tib{དགྲ་འདུལ?}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -62294,6 +62310,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tɕʰi˧ɖv̩#˥
 \or Qiddeu
+\bw <langue="bod"> Spyi 'dul? |tib{སྤྱི་འདུལ?}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -64690,12 +64707,16 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ti˧ɖo˥
 \or Diddeo
+\bw <langue="bod"> ?
 \ps n
 \lc ti˧ɖo˥
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton H#
 \so F4
+\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Diddeo’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Diddeo’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘棣嘟’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \de Diddeo, a masculine given name. For writing it in Chinese characters: since |fn{棣} and |fn{嘟} are not among the most commonly used characters, the simpler and more common characters |fn{定珠} are sometimes used.
 \ge Diddeo
 \dn 棣嘟：一个男性名字。由于‘棣’、‘嘟’并不是常用的字，因此有时会使用更简单、更常用的‘定珠’。
@@ -66868,7 +66889,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 383
 \sf <nb="2011"> 445
 \or zabbe
-\bw <langue="bod"> rtsam pa
+\bw <langue="bod"> rtsam pa |tib{རྩམ་པ}
 \ps n
 \lc tsɑ˧bɤ˧
 \sd <langue="fra"> nourriture
@@ -70433,7 +70454,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰo˧pæ#˥
 \or cobae
-\bw <langue="bod"> tshong pa
+\bw <langue="bod"> tshong pa |tib{ཚོང་པ}
 \ec <langue="fra"> Le sens en tibétain est `marchand'.
 \ec <langue="eng"> The meaning of the Tibetan word is `merchant'.
 \ec <langue="cmn"> 原意为‘商人’。
@@ -72126,7 +72147,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰe˧li˧-ɬɑ˩mv̩˩
 \or Ceili Lhamu
-\bw <langue="bod"> yyyy Lha mo |tib{་ལྷ་མོ}
+\bw <langue="bod"> ?+ Lha mo |tib{? +ལྷ་མོ}
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -72144,7 +72165,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx tsʰɯ˧ɻ̩˧-pʰi˩tsʰo˩
 \or Ci'er Pico
-\bw <langue="bod"> Tshe ring yyyy |tib{ཚེ་རིང}
+\bw <langue="bod"> Tshe ring Phun tshogs |tib{ཚེ་རིང་ཕུན་ཚོགས}
 \ets tsʰɯ˧ɻ̩#˥
 \ets pʰi˧tsʰo#˥
 \ps n
