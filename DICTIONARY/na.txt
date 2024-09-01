@@ -1,0 +1,10 @@
+\bw <langue="bod"> Lha mo |tib{ལྷ་མོ}
+
+no˩bv̩˧-tsʰɯ˩ɻ̩˩
+
+Hi! I have a big task to propose: checking a lexical database for consistency of language tagging.
+In the database (attached) the French language is coded as "fra", English as "eng", and Chinese as "cmn" for some of the fields. Other fields are natively defined as being in one language or another: 
+- for Chinese: \dn, \gn, \xn
+- for English: \de, \ge, \xe
+- for French: \df, \gf, \xf.
+There are occasional cases of mis-tagging (discrepancy between the language tag or field label and the language in the contents: in the same line). Could you provide a list of such cases, so I could correct them? Thanks!

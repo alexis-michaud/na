@@ -1511,8 +1511,9 @@
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n" langue="fra"> vérifié: peut être réalisé [æ̃˩zɯ˩]. Nasalité: vérifié en août 2014: est présente
-\nt <dom="sem" langue="fra"> indiqué par Roselle Dobbs: /ũ˩zɯ˩˧/, ton d3, avec le sens: “agate"
+\nt <type="hist" print="n" langue="fra"> vérifié: peut être réalisé [æ̃˩zɯ˩]. Nasalité: vérifié en août 2014: est présente.
+\nt <dom="dialect" langue="fra"> Forme indiquée par Roselle Dobbs: /õ˩zɯ˩/, ton L.
+\nt <type="hist" print="n" langue="fra"> La forme indiquée par Roselle Dobbs avait d'abord été notée /ũ˩zɯ˩˧/, ton d3, c'est-à-dire ton L. Le sens est le même: “agate".
 \ton L
 \lc æ̃˩zɯ˩˥
 \so F4
