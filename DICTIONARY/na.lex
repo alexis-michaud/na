@@ -618,7 +618,6 @@
 \xn 公鹅与母鹅
 \xf oie et jars
 \xc <dom="ton"> LM+#H-
-\dt 13/Jul/2017
 
 \lx æ˧ɲi#˥
 \sf <nb="B"> 657
@@ -714,6 +713,7 @@
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
 \xf travailler à l'extérieur, aider d'autres familles (par exemple pour la récolte); aussi: aller chercher du travail à la ville
+\xc <print="n" langue="fra"> xxxx à vérifier à nouveau : comment est caractérisé le travail pour d'autres familles, en fonction du degré de proximité entre familles : le 'dehors' commence-t-il dès que les limites de la ferme sont franchies? Aussi: le travail salarié en ville peut-il être caractérisé comme /ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧/ ou est-il désigné par le chinois 打工?
 \xv ɑ˩pʰo˩ kwɤ˥
 \xe to throw away
 \xn 扔掉
@@ -2738,7 +2738,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2007, n'est pas bi˧ɕju˧…)
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2007: est /ɕju/ et non /ɕi/; différent de la réalisation de F4)
-\nt <dom="sem" langue="fra"> sens corrigé en 2011; auparavant: glosé comme: pommettes; le sens est en fait le même pour les deux termes, zɯ˧ɻ̩#˥ et bi˧ɕi˧kv̩˥; désigne toute la joue, pas seulement la pommette (en cheekbone).
+\nt <dom="sem" langue="fra"> sens corrigé en 2011; auparavant: glosé comme: pommettes; le sens est en fait le même pour les deux termes, |fv{zɯ˧ɻ̩#˥} et |fv{bi˧ɕi˧kv̩˥}; désigne toute la joue, pas seulement la pommette.
 \ton H#
 \so F4
 \va <speaker="F5"> bi˧ɕju˧ku˥
@@ -71577,8 +71577,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (phonétiquement, proche de: læ˧ tsɯ˧tsɯ˧) (vérifié: n'est pas /tsi/)
-\nt <dom="phono" langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71593,7 +71591,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to hang oneself
 \xn 上吊自杀、缢
 \xf se pendre
-\dt 07/Oct/2015
 
 \lx tsɯ˥
 \sf <nb="2011"> 2517
