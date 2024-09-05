@@ -3213,7 +3213,7 @@
 \xc <dom="ton"> M
 \xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
 \xe This person is a “Sir” / a distinguished person!
-\xn ＋系词
+\xn 〜 |fg{系动词}
 \xf Cette personne, c'est un monsieur / une personne distinguée!
 \xc PHONO
 
@@ -13016,7 +13016,7 @@
 \gf herbes_sauvages
 \xv ʈʂʰɯ˧ | dʑɯ˩ʁo˩-zɯ˩ ɲi˥.
 \xe |fg{dem} 〜 |fg{cop}
-\xn 指示代词 〜 系词
+\xn 指示代词 〜 |fg{系动词}
 \xf |fg{dem} 〜 |fg{cop}
 \dt 24/Apr/2017
 
@@ -17923,8 +17923,8 @@
 \so F4
 \de To be; to become (stative verb).
 \ge to_be
-\dn 系词
-\gn 系词
+\dn 系动词（系词）：是、成为、算
+\gn 系动词
 \df Être, devenir (verbe statif).
 \gf être/devenir
 \xv ʈʂʰɯ˧ | no˧ | ɲi˧gɤ˧ | ʂwæ˧-mɤ˧-gv̩˧!
@@ -27913,7 +27913,7 @@
 \xe to build a nest
 \xv kʰv̩˩ ɲi˩˥
 \xe 〜 |fg{cop}
-\xn 〜 ＋系动词
+\xn 〜 |fg{系动词}
 \xf 〜 |fg{cop}
 \xc PHONO
 \xv kʰv̩˩ ɖʐɤ˩˥
@@ -33150,6 +33150,7 @@
 \nt <type="hist" print="n" langue="fra"> Avant 2024, je pensais que le terme avait une acception aussi étendue que le mot qui désigne à la fois la main et le bras. Qu'il désignait les deux articulations du bras: le poignet, mais aussi le coude. En réalité, il s'agit d'un terme qui désigne spécifiquement le poignet.
 \ton LM+MH#
 \lc lo˩ʈʂæ˧˥
+\cf ʈʂæ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -40396,11 +40397,10 @@
 \va <speaker="M21"> ID.
 \de Copula.
 \ge |fg{cop}
-\dn 系词：是
+\dn 系动词（系词）：是
 \gn 系词
 \df Verbe copule.
 \gf |fg{cop}
-\dt 09/Sep/2015
 
 \lx ɲi˧α
 \sf <nb="B"> 2169
@@ -40606,11 +40606,11 @@
 \gn 我们
 \df 1e personne du pluriel, exclusive.
 \gf |fg{1pl.excl}
-\xv njæ˧-sɯ˩-kv̩˩ | mɤ˧-sɯ˥!
+\xv njæ˧-sɯ˩kv̩˩ | mɤ˧-sɯ˥!
 \xe We (exclusive) don't know!
 \xn 我们不知道！
 \xf Nous ne savons pas! / Nous ne sommes pas au courant!
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩, | njæ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩kv̩˩, | njæ˧-sɯ˩kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe They do not understand us! (Context: about people coming from other areas, who do not understand local custom and habits)
 \xn 他们不了解我们！
 \xf Ils ne nous comprennent pas! (Contexte: au sujet de gens venant d'autres régions, qui ne comprennent pas les us et coutumes locales)
@@ -54616,6 +54616,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
 \ton L#
 \lc ɻ̩̃˧ʈʂæ˩
+\cf ʈʂæ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖʐæ˩˥
@@ -60875,8 +60876,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
-\nt <dom="phono" langue="fra"> se simplifie souvent en quelque chose comme ʈʰææ̃˧ ou ʈʰæː˧. En décembre 2011, commence à uniformiser la notation de la forme réduite en: [ʈʰææ̃˧].
+\nt <type="hist" print="n" langue="fra"> À partir de décembre 2011, la notation de la forme réduite est uniformisée en: [|fv{ʈʰææ̃˧}]. L'application aux textes se fait manuellement au cas par cas.
+\nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
+\nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /[fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}]. C'est cette dernière forme qui est actuellement utilisée (depuis 2011) en vue d'uniformiser une notation de la forme réduite.
+\nt <dom="phono" langue="eng"> This expression typically undergoes drastic phonetic reduction, to the point where a notation using the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ looks like a mannerism. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}]. It is the latter form that is currently used (since 2011) with a view to standardizing a notation for the reduced form.
+\nt <dom="phono" langue="cmn"> 这个词通常大大简化，以至于使用完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/来转写似乎不合适了。简化发音接近 [|fv{ʈʰæː˧}]（没有明显的鼻音）或 [|fv{ʈʰæ̃˧}]。目前（自 2011 年起）使用的是后一种写法，目的是将缩略形式的转写标准化。
 \ton L#
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so F4
@@ -63080,9 +63084,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰɤ˧ɲi˧ne˧ʝi˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> (d'abord noté: tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩ (n'est pas ʈʂʰe˧ɲi˥; d'abord noté tɕʰe, par erreur: est en fait tɕʰɤ mais est un peu modifié par anticipation de l'articulation du /i/ de la syllabe suivante, ce qui peut faire penser à quelque chose comme [tɕʰe]) (modifié en octobre 2013; jusque-là: noté /tɕʰɤ˧ɲi˧-ni˧˥/; est en fait une contraction.)
-\nt <dom="sem" langue="fra"> avant 2011, noté: tɕʰɤ˧ɲi˧ni˧˥zo˩
-\nt <dom="phono" langue="fra"> important: réalisé [tɕʰe˧…], par harmonie vocalique; une réalisation avec voyelle d'arrière [ɤ] est refusée par F4.
+\nt <type="hist" print="n" langue="fra" dom="phono"> D'abord noté ‡/tɕʰe/. La première syllabe est en fait un /tɕʰɤ/, assez sensiblement modifié par anticipation de l'articulation du /i/ de la syllabe suivante, ce qui peut faire penser à quelque chose comme [tɕʰe]. Il est indiqué dans les premières notes qu'il ne s'agit pas de ‡ʈʂʰe˧ɲi˥.
+\nt <type="hist" print="n" langue="fra" dom="phono"> L'analyse comme /...ne˧ʝi˥/ n'a été adoptée qu'en octobre 2013. Jusque-là, l'expression était notée /tɕʰɤ˧ɲi˧-ni˧˥/, en trois syllabes, alors que la forme qui paraît trisyllabique est en fait une contraction d'une expression de quatre syllabes.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Premières notes: /tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩/.
+\nt <dom="phono" langue="fra"> La première syllabe est réalisée proche de [|fv{tɕʰe˧}], par harmonie vocalique (anticipation de l'articulation du /|fv{i}/ de la syllabe suivante). Une réalisation sans ce processus d'harmonie, avec voyelle d'arrière [|fv{ɤ}], est refusée par F4, ce qui paraît indiquer que l'harmonie vocalique est en voie de lexicalisation.
 \so F4
 \va <speaker="M18"> tɕʰɤ˧ɲi˥-ni˩-zo˩
 \va <speaker="M21"> tʰv̩˧ɲi˧-ni˧˥
@@ -63093,7 +63098,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 每天
 \df Tous les jours.
 \gf tous_les_jours
-\dt 23/Jun/2017
 
 \lx tɕʰɤ˧pɤ˧-mi#˥
 \or Qebemi
@@ -64456,7 +64460,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> pas réussi à isoler la 2e syllabe: à l'obtenir sans le préfixe /gɤ˩/
+\nt <dom="sem" langue="fra"> Toutes les occurrences de ce verbe observées à ce jour comportent le préfixe directionnel |fv{gɤ˩-}. Des tentatives pour obtenir des énoncés sans ce préfixe (par manipulation) n'ont pas réussi.
+\nt <dom="sem" langue="eng"> All occurrences of this verb found to date involve the directional prefix |fv{gɤ˩-}. Attempts to arrive at sentences without this prefix (through manipulation) have not been successful.
 \ton Mα
 \so F4
 \de To raise (one's arm).
@@ -64534,7 +64539,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (noté en 2006: lo˧mi˥ tɕʰi˧tɕʰi˧) (avant mars 2012: noté comme ton: M.M)
-\nt <dom="phono" langue="fra"> en cadre: le˧-tɕʰi˩~tɕʰi˩-ze˩
 \ton MH
 \lc tɕʰɯ˩tɕʰɯ˧˥
 \so F4
@@ -64554,6 +64558,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to suck one's thumb (literally: ‘to suck one's hand’)
 \xn 吮拇指（直译：‘吮手’）
 \xf sucer son pouce (littéralement: ‘sucer sa main’).
+\xv le˧-tɕʰɯ˩~tɕʰɯ˩-ze˩
+\xe |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
+\xf |fg{accomp} 〜 |fg{red}
+\xc PHONO
 
 \lx te˧˥α
 \or dei
@@ -65925,6 +65934,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> animal
 \ton M
 \lc to˧qɑ˧
+\sy tsʰɯ˧-to˧qɑ˥
 \so F4
 \pdv ɭɯ˧β
 \de Kid (baby goat, young goat).
@@ -66761,10 +66771,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or zhaeq
 \ps n
 \lc ʈʂæ˧˥
+\cf lo˩ʈʂæ˧˥
+\cf ɻ̩̃˧ʈʂæ˩
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> figure dans: lo˩ʈʂæ˧˥, ɻ̩̃˧ʈʂæ˩…
 \ton MH
 \so F4
 \pdv ʈʂæ˧˥
@@ -67366,7 +67377,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <dom="sem" langue="fra"> littéralement “corne de cerf"
-\nt <dom="phono" langue="fra"> ʈʂʰɯ˧ ʈʂʰæ˧qʰv̩˧ ɲi˥! ce sont des bois de cerf!
 \ton H$
 \lc ʈʂʰæ˧qʰv̩˥
 \so F4
@@ -67377,7 +67387,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 鹿角
 \df Bois d'un cerf (même mot pour les bois d'un jeune cerf, utilisés comme aphrodisiaque en médecine traditionnelle).
 \gf bois_du_cerf
-\dt 08/Oct/2015
+\xv ʈʂʰɯ˧ ʈʂʰæ˧qʰv̩˧ ɲi˥.
+\xe 〜 |fg{cop}
+\xn 〜 |fg{系动词}
+\xf 〜 |fg{cop}: ce sont des bois de cerf.
+\xc PHONO
 
 \lx ʈʂʰæ˧sɯ˩
 \sf <nb="B"> 1096c
@@ -67498,15 +67512,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <dom="phono" langue="fra"> (d'abord noté ʈʂæ˥wɤ˧): un sous-groupe de 350b (les serfs): serviteurs attachés à des mandarins/personnages de haut rang; en principe sont de statut social bas, mais peuvent avoir un pouvoir de fait
 \ton L#
 \lc ʈʂæ˧wɤ˩
+\cf wɤ˧1
 \so F4
 \pdv v̩˧
-\de Servant.
+\de Servant. Servants were a sub-group of the serfs, and therefore in principle people of low social status. Nevertheless, they were attached to high-ranking individuals, which gave them access to spheres of society that were usually closed to serfs.
 \ge servant
-\dn 仆人，佣人
+\dn 仆人，佣人。他们属于农奴，因此原则上社会地位较低。然而，这些仆人隶属于高层人士，这使他们有机会进入通常不对农奴开放的社会领域。
 \gn 仆人
-\df Serviteur.
+\df Serviteur. Il s'agit d'un sous-groupe parmi les serfs, donc en principe des personnes de statut social bas. Néanmoins, ces serviteurs sont attachés à des personnages de haut rang, ce qui leur confère, de fait, un certain accès à des sphères de la société qui étaient d'ordinaire fermées aux serfs.
 \gf serviteur
-\dt 08/Oct/2015
 
 \lx tsɑ˧ʐo˩
 \sf <nb="B"> 1082
@@ -67631,7 +67645,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
 \nt <type="hist" print="n" langue="fra"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit: /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
-\nt <dom="phono" langue="fra"> analyse du ton basée sur comportement qd suivi par /qʰv̩˧tʰv̩˧/
+\nt <dom="phono" langue="fra"> L'analyse du ton se fonde sur le comportement de ce nombre lorsqu'il est suivi de /|fv{qʰv̩˧tʰv̩˧}/.
 \ton M
 \lc tsʰe˧
 \so F4
@@ -68173,7 +68187,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˧kʰv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> +ze˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -68183,6 +68196,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 打嗝
 \df Avoir le hoquet.
 \gf avoir_le_hoquet
+\xv tsʰe˧kʰv̩˧-ze˩
+\xe 〜 |fg{pfv}
+\xn 〜 整体体
+\xf 〜 |fg{pfv}
+\xc PHONO
 \xv tsʰe˧kʰv̩˧, | mɤ˧-qʰæ˩ | ʐwæ˩˥!
 \xe A fit of hiccup is something very unpleasant!
 \xn 打嗝，很难受！
@@ -69018,6 +69036,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 用含很多树脂的木头来引火
 \xf mettre le feu à un bout de bois plein de sève (pour faire partir le feu)
 
+\lx tsʰi˩~tsʰi˧˥
+\or ceecee
+\ps v
+\cf tsʰi˧˥2
+
 \lx tsʰi˧˥
 \sf <nb="2011"> 1954
 \hm 2
@@ -69026,7 +69049,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /lə˧ tsʰɯ˩tsʰɯ˩ tʰi˧ dzɯ˩/)
-\nt <dom="sem" langue="fra"> généralement employé sous sa forme rédupliquée: tsʰi˩~tsʰi˧˥
+\nt <dom="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: /|fv{tsʰi˩~tsʰi˧˥}/.
 \ton MH
 \lc tsʰi˧˥
 \so F4
@@ -69037,6 +69060,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 蹲
 \df S'accroupir.
 \gf s_accroupir
+\xv tsʰi˩~tsʰi˧˥
+\xe 〜 |fg{red}
+\xn 〜 重叠
+\xf 〜 |fg{red}
 \xv le˧-tsʰi˩~tsʰi˩ | tʰi˧-dzi˩
 \xe to sit cross-legged
 \xn 盘腿坐
@@ -69737,7 +69764,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="phono" langue="fra"> le ton est déduit du comportement dans l'expression /tsʰo˧ ʝi˥/ ‘avoir de l'estime'
+\nt <dom="phono" langue="fra"> Le ton du monosyllabe est déduit de son comportement dans l'expression /|fv{tsʰo˧ ʝi˥}/ ‘avoir de l'estime'.
+\nt <dom="phono" langue="eng"> The tone of the monosyllable is inferred from its behaviour in the phrase /|fv{tsʰo˧ ʝi˥}/ ‘to hold... in high esteem'.
 \ton MH
 \lc tsʰo˧˥
 \so F4
@@ -70462,7 +70490,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> emprunt tibétain? Est occasionnellement prononcé avec une nasalisation médiane: [tsʰo˧mpæ˧], ce qui dans la phonotactique na serait la réalisation de /†tsʰo˧mv̩˧pæ˧/, mais le mot est pourtant perçu comme disyllabique.
+\nt <dom="phono" langue="fra"> Ce mot emprunté au tibétain est occasionnellement prononcé avec une nasalisation médiane: [|fv{tsʰo˧mpæ˧}]. Selon les règles phonotactiques ordinaires de la langue na, ce serait là une réalisation de /†|fv{tsʰo˧mv̩˧pæ˧}/, mais le mot est pourtant perçu comme disyllabique. C'est là une des quelques spécificités constatées dans les emprunts tibétains.
+\nt <dom="phono" langue="eng"> This word borrowed from Tibetan is occasionally pronounced with medial nasalisation: [|fv{tsʰo˧mpæ˧}]. According to the ordinary phonotactic rules of the Na language, this would be a realization of trisyllabic /†|fv{tsʰo˧mv̩˧pæ˧}/, yet the word is perceived as disyllabic. This is one of the few specificities of Tibetan borrowings.
 \ton #H
 \lc tsʰo˧pæ˧
 \so F4
@@ -70481,8 +70510,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> Noté /pi˥/ en 2006. Tons: avant 2009, noté HH (/tsʰo˥pjɤ˥/).
-\nt <dom="phono" langue="fra"> variante: tsʰo˧pi˧
+\nt <type="hist" print="n" langue="fra"> Noté /pi˥/ en 2006. Il s'avère qu'il existe une variante de ce mot avec voyelle /i/.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Avant 2009, noté HH (/tsʰo˥pjɤ˥/).
 \ton M
 \lc tsʰo˧pjɤ˧
 \cf læ˩pʰæ˩-læ˥dzi˩
@@ -70492,6 +70521,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M18"> *
 \vf <print="n"> Emploie: /jo˩tsɯ˥/, qui d'après F4 désigne 香皂 xiang1zao4, distinct de: /tsʰo˧pjɤ˧/, fei2zao4 肥皂
 \va <speaker="M21"> tsʰu˧pjɑ˧
+\va <speaker="F4"> tsʰo˧pi˧
 \vf <print="n"> ton d1; voyelle vérifiée
 \pdv ɭɯ˧β
 \de Soap. Presumably borrowed from a language of Burma: compare Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fv{læ˩pʰæ˩-læ˥dzi˩} and |fv{/ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
@@ -70537,7 +70567,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire
-\nt <dom="phono" langue="fra"> le ton est déduit du comportement dans l'expression /ʈʂʰɤ˩qo˧ kʰɯ˧˥/ ‘prêter attention'
+\nt <dom="phono" langue="fra"> le ton est déduit du comportement dans l'expression /|fv{ʈʂʰɤ˩qo˧ kʰɯ˧˥}/ ‘prêter attention'
 \ton LM
 \lc ʈʂʰɤ˩qo˥
 \so F4
@@ -70668,12 +70698,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥) (avant 2009: noté: tsʰo˥kʰwɤ˥mi˥)
-\nt <dom="phono" langue="fra"> F4 accepte une réalisation comme /tsʰɯ˧qʰwɤ˧mi˧/. La forme monosyllabique n'est pas correcte.
+\nt <dom="phono" langue="fra"> La locutrice emploie ordinairement la forme /|fv{tsʰo˧qʰwɤ˧mi#˥}/, mais accepte une réalisation comme /|fv{tsʰɯ˧qʰwɤ˧mi˧}/. Il n'a pas été trouvé de forme monosyllabique †|fv{tsʰo} ni †|fv{tsʰɯ} pour ‘fantôme’.
+\nt <dom="phono" langue="eng"> The speaker uses the form /|fv{tsʰo˧qʰwɤ˧mi#˥}/, but accepts realization as /|fv{tsʰɯ˧qʰwɤ˧mi˧}/. No monosyllabic form †|fv{tsʰo} or †|fv{tsʰɯ} has been found for ‘ghost’.
+\nt <dom="phono" langue="cmn"> 第二作者一般说/|fv{tsʰo˧qʰwɤ˧mi#˥}/，但认为/|fv{tsʰɯ˧qʰwɤ˧mi˧}/这样的发音也可以。尚未发现单音节词†|fv{tsʰo}或†|fv{tsʰɯ}来表示‘鬼’.
 \ton #H
 \lc tsʰo˧qʰwɤ˧mi˧
 \so F4
 \va <speaker="F5"> tsʰɯ˧qʰwɤ˧mi#˥
 \va <speaker="M21"> tsʰɯ˧kʰwɤ˧mi#˥
+\va <speaker="F4"> tsʰɯ˧qʰwɤ˧mi˧
 \pdv v̩˧
 \de Demon, ghost.
 \ge demon
@@ -70808,7 +70841,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (tons vérifiés en mai 2008) (d'abord noté dzɯ) (emprunt)
-\nt <dom="phono" langue="fra"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bv̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
+\nt <dom="phono" langue="fra" print="n"> idem “oignon"; emprunt au chinois; cherchant un mot na et non chinois, F4 propose: bv̩˧nv̩˧hɑ˧, qui veut dire “nourriture qui a une odeur forte/qui sent/qui pue"; refusé par M21.
 \ton M
 \lc tsʰo˧tsɯ˧
 \so F4
@@ -71318,10 +71351,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tʰi˧ ʈʂɻ̩˥, læ˧ ʈʂɻ̩˥ ze˩) (confirmé) (ton haut confirmé)
-\nt <dom="sem" langue="fra"> cf. ʈʂɻ̩˧tɕi˥ “crachat"
+\nt <type="hist" print="n" langue="fra"> /tʰi˧-ʈʂɻ̩˥/, /læ˧-ʈʂɻ̩˥-ze˩/. Confirmé. Tton haut confirmé.
 \ton H
 \lc ʈʂɻ̩˧
+\cf ʈʂɻ̩˧tɕɯ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -71692,6 +71725,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf griffes
 \dt 27/Apr/2017
 
+\lx ʈʂɯ˩~ʈʂɯ˧˥
+\or zhizhi xxxxrd
+\ps v
+\lc ʈʂɯ˩ʈʂɯ˧˥
+\cf ʈʂɯ˧˥
+
 \lx ʈʂɯ˧˥
 \sf <nb="B"> 1478
 \sf <nb="2011"> 2168
@@ -71700,7 +71739,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> plus courant sous sa forme rédupliquée: ʈʂɯ˩ʈʂɯ˧˥, lə˧ʈʂɯ˩ʈʂɯ˩
+\nt <dom="phono" langue="fra"> L'emploi le plus courant est sous forme rédupliquée: |fv{ʈʂɯ˩~ʈʂɯ˧˥}.
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -71721,7 +71760,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn |fg{delimitative} 〜 |fg{inceptive}
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
-\dt 27/Apr/2017
+\xv ʈʂɯ˩~ʈʂɯ˧˥
+\xe |fg{red}
+\xn 重叠
+\xf |fg{red}
+\xv le˧-ʈʂɯ˩~ʈʂɯ˩
+\xe |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
+\xf |fg{accomp} 〜 |fg{red}
+\xc PHONO
 
 \lx ʈʂʰɯ˧
 \or tee
@@ -71924,10 +71971,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or cimi dogha
 \ps n
 \lc tsʰɯ˧mi˧to˧qɑ˥
+\cf tsʰɯ˧mi˥$
+\cf to˧qɑ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> avant 2011, noté tsʰɯ˧mi˥-to˩qɑ˩; avant 2012: interprété comme: bouc
-\nt <dom="phono" langue="fra"> de: to˧qɑ˧ “mâle"
+\nt <type="hist" print="n" langue="fra"> avant 2011, noté tsʰɯ˧mi˥-to˩qɑ˩; avant 2012: interprété comme: ‘bouc’
 \ton H$
 \so F4
 \va <speaker="F5"> ID.
@@ -72134,7 +72182,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <dom="sem" langue="fra"> Nom porté par une des femmes de la génération de la grand-mère de F4.
 \ton -L
 \lc tsʰɯ˧ɻ̩˧ɬɑ˩mv̩˩
-\nt <dom="phono" langue="fra"> Réalisé proche de: [tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}]：/|fv{ɻ̩}/简化为[|fv{l}]。
 \so F4
 \de Ci'er Lhamu, a feminine given name.
 \ge Ci'er_Lhamu
@@ -72152,7 +72202,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
 \ton M
 \lc tsʰe˧li˧-ɬɑ˩mv̩˩
-\nt <dom="phono" langue="fra"> Réalisé proche de: [tsʰe˧li˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰe˧li˧-lɑ˩mv̩˩}]：/|fv{ɻ̩}/简化为[|fv{l}]。
 \so F4
 \de Ceili Lhamu, a feminine given name.
 \ge Ceili_Lhamu
@@ -72219,7 +72271,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf ce_matin
 \dt 27/Apr/2017
 
-\lx ʈʂʰɯ˧-sɯ˩-kv̩˩
+\lx ʈʂʰɯ˧-sɯ˩kv̩˩
 \sf <nb="B"> 2161
 \sf <nb="2011"> 3398
 \or teesigu
@@ -72227,10 +72279,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; auparavant: “/ʈʂʰɯ˥ sɯ˧kv̩˩/, tons confirmés")
-\nt <type="hist" print="n" langue="fra"> ancien: ʈʰɯ˥sɯ˧kv̩˩
-\nt <dom="phono" langue="fra"> forme phonétiquement réduite: tʰv̩˧-sɯ˩-kv̩˩
+\nt <type="hist" print="n" langue="fra"> Ancien: /ʈʰɯ˥sɯ˧kv̩˩/, notation influencée par l'habitude du naxi. Les formes /ʈʂʰɯ˧-sɯ˩kv̩˩/ et /tʰv̩˧-sɯ˩kv̩˩/ sont en réalité distinctes: l'une proximale, l'autre distale.
 \ton -L
 \lc ʈʂʰɯ˧sɯ˩kv̩˩
+\cf tʰv̩˧-sɯ˩kv̩˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -72240,7 +72292,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 他们
 \df 3e personne du pluriel.
 \gf |fg{3pl}
-\xv ʈʂʰɯ˧-sɯ˩-kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
+\xv ʈʂʰɯ˧-sɯ˩kv̩˩=bv̩˩ | mɤ˧-sɯ˥!
 \xe (We) don't know about their business! / (We) are not privy to their family affairs!
 \xn 我们不知道他们的事！
 \xf On ne connaît pas leurs histoires!
@@ -72294,9 +72346,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf tsʰɯ˧zo˥$
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> même sens que tsʰɯ˧mi˧-to˧qɑ˥
 \ton H#
 \lc tsʰɯ˧to˧qɑ˥
+\sy tsʰɯ˧mi˧-to˧qɑ˥$
 \so F4
 \pdv pʰo˧˥α
 \de Kid (baby goat).
@@ -74946,8 +74998,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> avant 2016: noté /wo˧ɻ̩˩/. Mais phonétiquement, le mot commence par une occlusion glottale: [ʔu˧]. Une réalisation /wu/ ou /wo/ est refusée par F4 et M23.
 \nt <type="hist" print="n" langue="fra"> idée de Roselle Dobbs (p.c. 2015): “I strongly suspect the first morpheme is a Chinese borrowing." Vérification faite, l'intuition de F4 est qu'il ne s'agirait pas d'un emprunt.
-\nt <dom="sem" langue="fra"> L'usage démontre qu'il ne s'agit pas d'un pronom duel (‘nous deux'): F4 l'emploie dans /æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̩˩ | ə˧si˧-ɳɯ˧/ ‘Autrefois, ma grand-mère…' (Sister.177), qui à l'évidence évoque sa grand-mère à elle, et ne m'inclut pas dans la famille.
-\nt <dom="phono" langue="fra"> Phonétiquement, commence par une occlusion glottale: ʔu˧. Une réalisation /wu/ ou /wo/ est refusée par F4 et M23. D'où la notation comme /u/, et non /wo/
+\nt <dom="sem" langue="fra"> L'usage démontre qu'il ne s'agit pas d'un pronom duel (‘nous deux'): F4 l'emploie dans /|fv{æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̩˩ | ə˧si˧-ɳɯ˧}/ ‘Autrefois, ma grand-mère…' (Sister.177), qui à l'évidence évoque sa grand-mère à elle, et ne m'inclut pas dans la famille.
+\nt <dom="phono" langue="fra"> Phonétiquement, le mot commence par une occlusion glottale: [|fv{ʔu˧}]. Une réalisation [|fv{wu}] ou [|fv{wo}] est refusée par F4 et M23. D'où la notation comme /|fv{u}/, et non /|fv{wo}/.
+\nt <dom="phono" langue="eng"> Phonetically, the word starts with a glottal stop: [|fv{ʔu˧}]. Realization as [|fv{wu}] or [|fv{wo}] is deemed incorrect by F4 and M23. Hence notation as /|fv{u}/, not /|fv{wo}/.
 \ton M
 \so F4
 \de First person, associative: my family/my people. This root is only attested together with a plural or associative clitic.
@@ -75285,7 +75338,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; d'abord noté v̩˥lɑ˧ i˧ hĩ˧, par erreur)
-\nt <dom="sem" langue="fra"> étymologie proposée par LLidz: ce serait: “gens qui frappent les casseroles", du fait qu'ils auraient attiré ainsi les chalands. Interprétation pas acceptée par F4: dans le temps les colporteurs utilisaient des cymbales pour se signaler, et non des casseroles. Pour F4 le mot n'est plus transparent. Argument décisif: cognat avec le naxi ɣɯ˧-lɑ˩ be˧, qui ne veut pas dire “casserole" (naxi: /bv/).
+\nt <dom="sem" langue="fra"> Une étymologie proposée (prudemment) par Liberty Lidz serait: “gens qui frappent les casseroles", du fait qu'ils auraient signalé ainsi leur présence: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2019:176n2). Cette hypothèse n'est pas acceptée par F4: dans le temps, les colporteurs signalaient leur présence au moyen de cymbales, non de casseroles. Un argument décisif est que le mot est cognat avec le naxi |fv{ɣɯ˧-lɑ˩ be˧}, dont la première syllabe n'est pas le mot ‘casserole’ (naxi: /|fv{bv̩}/). Pour F4, le mot n'est plus transparent.
+\nt <dom="sem" langue="eng"> One etymology proposed (cautiously) by Liberty Lidz is ‘people who bang pots and pans’, because they would have signalled their presence in this way: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2010:176n2). This hypothesis is not accepted by F4: in the past, pedlars signalled their presence by means of cymbals, not saucepans. A decisive argument here is that the word is cognate with Naxi |fv{ɣɯ˧-lɑ˩ be˧}, whose first syllable is not the word ‘pot’ (Naxi: /|fv{bv̩}/). The word is no longer transparent to F4.
 \nt <dom="phono" langue="fra"> le premier /hĩ/ est le relatif; le second est le mot ‘personne, être humain'.
 \ton L#-
 \so F4
@@ -75638,6 +75692,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or ua
 \ps n
 \lc wɤ˧
+\cf ʈʂæ˧wɤ˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <langue="pumi" dom="comp" print="n"> gwʌ51
@@ -76212,7 +76267,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (notation 2009; en 2007, noté ˥ ˩ ˩; en 2006, avais noté: ʐæ˥ v̩˧ tʰv̩˩; hésitais déjà à transcrire ˥˩˩)
-\nt <dom="sem" langue="fra"> On ne peut isoler un disyllabe /‡ʐæ˧v̩˩/, ni l'associer à d'autres verbes, par exemple pour former /‡ʐæ˧v̩˩ ʐwɤ˩/ ‘dire des blagues’.
+\nt <dom="sem" langue="fra"> On ne peut isoler un disyllabe /‡|fv{ʐæ˧v̩˩}/, ni l'associer à d'autres verbes, par exemple pour former /‡|fv{ʐæ˧v̩˩ ʐwɤ˩}/ ‘dire des blagues’.
 \ton L#-
 \lc ʐæ˧v̩˩tʰv̩˩
 \cf ʐæ˧α
@@ -77598,7 +77653,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d'abord noté zo˥bæ˩)
-\nt <dom="sem" langue="fra"> la forme /zo˧bæ˩/ a en partie perdu son caractère masculin: F4 dit parfois d'elle-même, par plaisanterie (qd elle a fait une étourderie): /ə˧mɑ˧ zo˧bæ˩!/ “Ama est bien bête!" et la négation est: mɤ˧-zo˧bæ˩! “(non, tu n'es) pas idiot(e)!", càd que le disyllabe est traité comme un bloc.
+\nt <dom="sem" langue="fra"> La forme /zo˧bæ˩/ a en partie perdu son caractère masculin. F4 dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “Ama est bien bête!" et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ “(non, tu n'es) pas idiote!", où le disyllabe est traité comme un bloc.
 \ton L#
 \lc zo˧bæ˩
 \so F4
@@ -78467,12 +78522,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (confirmé à plusieurs reprises, notamment en 2009: n'est pas ʐv̩˩gv̩˩˧)
-\nt <dom="sem" langue="fra"> serait lié à gv̩˧ “auge" (cf forme des bateaux au lac)
+\nt <dom="sem" langue="fra"> D'après le locuteur M18, ce mot serait lié à |fv{gv̩˧} ‘auge’, les bateaux ayant une forme qui évoque l'auge des porcs (le récit ‘Lac’ raconte l'origine mythique de ce type de bateau: une auge à cochons utilisée comme embarcation afin de survivre à un déluge).
 \ton L
 \lc ʐɯ˩gv̩˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船 xxxx
+\vf <print="n"> ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船 xxxx à confirmer
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \pdv nɑ˧α
@@ -78628,7 +78683,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
+\nt <type="hist" dom="sem" langue="fra"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
 \ton #H
 \lc zɯ˧-qʰɑ˧mi˧
 \so F4
@@ -79223,7 +79278,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf carré
 \xv ʐɻ̩˧ɻ̩˥ ɲi˩.
 \xe 〜 |fg{cop}
-\xn 〜 系词
+\xn 〜 |fg{系动词}
 \xf 〜 |fg{cop}
 \xv ʐɻ̩˧ɻ̩˥-gv̩˩
 \xe square
@@ -80790,8 +80845,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \de A particle derived from the copula, described by L. Lidz (2010:497) as conveying “an epistemic strategy that marks a high degree of certitude".
 \ge |fg{certitude}(|fg{cop})
-\dn 肯定（系词）
-\gn 肯定（系词）
+\dn 肯定（用系动词来表示肯定）
+\gn 肯定（系动词）
 \df Particule indiquant la certitude; dérivée du verbe copule.
 \gf |fg{certitude}(|fg{cop})
 
