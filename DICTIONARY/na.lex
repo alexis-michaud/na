@@ -44206,6 +44206,7 @@
 \nt <type="hist" print="n" langue="fra"> (1e notation: pʰi˩tʰɑ˩˥)
 \ton L
 \lc pʰi˩tʰɑ˩˥
+\cf tse˧bæ˥
 \so F4
 \va <speaker="M21"> ID.
 \pdv po˧
@@ -44215,7 +44216,6 @@
 \gn 火草
 \df Amadou.
 \gf amadou
-\dt 09/Sep/2015
 
 \lx pi˩ti#˥
 \or bidi
@@ -53958,6 +53958,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <dom="sem" langue="fra"> 9e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
 \ton L#-
 \lc ʁwɤ˧lɑ˩bi˩
+\cf tse˧mi˥-dʑɯ˩ʁo˩
 \so F4
 \de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
 \ge Wualabbi
@@ -55784,7 +55785,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> (corrigé en 2009; auparavant, noté: “ʂe˧lɑ˧˥, tons confirmés")
+\nt <dom="phono" langue="fra" type="hist" print="n"> Corrigé en 2009; auparavant, noté: “ʂe˧lɑ˧˥, tons confirmés".
 \ton L
 \lc ʂe˩lɑ˩˥
 \so F4
@@ -55797,7 +55798,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 打铁
 \df Forger, battre le fer.
 \gf forger
-\dt 01/Aug/2017
 
 \lx ʂe˩-lɑ˩ hĩ˥
 \sf <nb="B"> 352
@@ -55806,7 +55806,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> (avant 2009: noté: ʂe˧lɑ˧hĩ˥)
+\nt <dom="phono" langue="fra" type="hist" print="n"> Avant 2009: noté: ʂe˧lɑ˧hĩ˥.
 \ton L+H#
 \lc ʂe˩lɑ˩hĩ˥
 \so F4
@@ -56047,7 +56047,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="phono" langue="fra"> (notation 2006: ʂe˥pv̩˧)
+\nt <dom="phono" langue="fra" type="hist" print="n"> Notation 2006: /ʂe˥pv̩˧/.
 \ton L#
 \lc ʂe˧pɻ̩˩
 \so F4
@@ -57488,7 +57488,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ʂɤ˩do˩˥, par erreur; tons vérifiés)
-\nt <dom="sem" langue="fra"> aussi: mot 1010b /gv̩˧/ “bon (avec les gens), gentil"; ʂɤ˧do˧ʝi˥ signifie littéralement: “qui connaît la honte", d'où le sens “qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse"
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -57513,8 +57512,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv ʈʂʰɯ˧ ʂɤ˧do˧-zo˥! / ʂɤ˧do˧ ʝi˥!
 \xe (S)he is very modest/discreet/polite!
 \xn 他/她很娴静 / 很持重！
-\xf Cette personne a de la pudeur!
-\dt 23/Jun/2017
+\xf Cette personne a de la pudeur! L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: “qui connaît la honte", d'où le sens “qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse".
 
 \lx so˧dze#˥
 \or sozzei
@@ -57744,7 +57742,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="phono" langue="fra"> le ton lexical du nom est déduit de son comportement avec le verbe “prendre": /ʂɤ˧ɲi˧ ʑi˧˥/.
+\nt <dom="phono" langue="fra"> Le ton lexical du nom est déduit de son comportement en association avec le verbe “prendre": /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
 \ton #H
 \lc ʂɤ˧ɲi˧
 \so F4
@@ -59109,10 +59107,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra"> variant: ʂɯ˧dɤ˧ɻ̩˧
+\nt <dom="phono" langue="fra">
 \ton #H
 \lc ʂɯ˧tɤ˧ɻ̩˧
 \so F4
+\va <speaker="F4"> ʂɯ˧dɤ˧ɻ̩˧
 \de Smooth (e.g. carefully planed wood).
 \ge smooth
 \dn 平滑
@@ -59127,7 +59126,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe (it) was made nice and smooth
 \xn 弄得平滑了
 \xf on l'a bien lissé, on l'a rendu bien lisse
-\dt 23/Jun/2017
 
 \lx ʂɯ˩tse˧˥
 \or shizei
@@ -60090,7 +60088,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton -L
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> périphrase: ɲi˧-ɭɯ˧ dʑo˧/ “il y en a deux"
+\nt <dom="phono" langue="fra"> En na, il est possible de faire usage d'une périphrase: /|fv{ɲi˧-ɭɯ˧ dʑo˧}/ “il y en a deux".
+\nt <dom="phono" langue="eng"> In Na, a periphrase can be used: /|fv{ɲi˧-ɭɯ˧ dʑo˧}/ “there are two (children)".
 \so F4
 \de Twins.
 \ge 双胞胎::twins
@@ -60197,6 +60196,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 熏木（使其更硬：例如，用来制作锄头柄的木头）
 \xf fumer du bois (pour le rendre plus dur: par exemple pour le bois qui sert à confectionner le manche d'une houe)
 
+\lx ʂwæ˥~ʂwæ˩
+\or shuaeshuae
+\ps v
+\ton H-
+\lc ʂwæ˧ʂwæ˩
+\cf ʂwæ˧α
+
 \lx ʂwæ˧α
 \sf <nb="B"> 2217
 \sf <nb="2011"> 2231
@@ -60205,7 +60211,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tv; tons d'abord notés ˧ ˥ ˧) (phonétiquement: læ˧…)
-\nt <dom="sem" langue="fra"> généralement employé sous sa forme rédupliquée: le˧-ʂwæ˥~ʂwæ˩
+\nt <dom="sem" langue="fra"> Ce verbe est généralement employé sous sa forme rédupliquée: /|fv{le˧-ʂwæ˥~ʂwæ˩}/.
+\nt <dom="sem" langue="eng"> This verb is generally employed in reduplicated form:  est généralement employé sous sa forme rédupliquée: /|fv{le˧-ʂwæ˥~ʂwæ˩}/.
 \ton Mα
 \lc ʂwæ˧
 \so F4
@@ -60235,6 +60242,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 重叠
 \xf |fg{red}
 \xc PHONO
+\xc le˧-ʂwæ˥~ʂwæ˩
+\xe |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
+\xf |fg{accomp} 〜 |fg{red}
 \xv le˧-qʰæ˧-ho˥-ze˩, | ɖɯ˧-ʂwæ˥~ʂwæ˩-ɻ˩!
 \xe It's going to burn, so let's give it a stir! (A dish needs to be stirred so that it doesn't stick to the pan.)
 \xn 要烧焦了，要搅拌一下！(烹饪时需要搅拌，以免粘锅）
@@ -64639,7 +64650,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (ama accepte la prononciation [tʰi˩˥])
-\nt <dom="phono" langue="fra"> (réalisé diphtongué: proche de [tʰje˩˧])
+\nt <dom="phono" langue="fra"> Au plan phonétique, la voyelle est quelque peu diphtonguée, se rapprochant de [|fv{tʰje˩˧}].
+\nt <dom="phono" langue="eng"> Phonetically, the vowel is somewhat diphthongized, getting close to [|fv{tʰje˩˧}].
 \ton LH
 \lc tʰi˩˥
 \so F4
@@ -64653,7 +64665,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 刨
 \df Rabot.
 \gf rabot
-\dt 08/Oct/2015
 
 \lx tʰi˩˥
 \sf <nb="2011"> 3380
@@ -64788,7 +64799,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 铜杯盏
 \df Coupe de cuivre pour les offrandes; elle est évasée, et de la taille d'un petit gobelet à alcool.
 \gf coupe_de_cuivre
-\dt 03/Aug/2017
 
 \lx ti˩tje˧
 \or didia
@@ -64797,7 +64807,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ti˩tje˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="eng"> phonetic realization: close to [ti˩tjɛ˧]
+\nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{ti˩tjɛ˧}].
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ti˩tjɛ˧}].
 \ton LM
 \so F4
 \de To treat, to handle (someone in a certain way).
@@ -64806,7 +64817,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 对待（借词）
 \df Traiter (quelqu'un d'une certaine façon).
 \gf 对待::traiter
-\dt 04/Sep/2017
 
 \lx ti˧tsʰo˩
 \or dico
@@ -66424,7 +66434,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ɖɯ˧ tʰo˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="sem" langue="fra"> équivalent de ɖɯ˧-bæ˧, selon F4; son intuition est qu'il s'agit bien du même morphème dans l'expression “Que faire?" (cf exemple).
+\nt <dom="sem" langue="fra"> L'expression est un proche équivalent de |fv{ɖɯ˧-bæ˧}, selon F4.
+\nt <dom="sem" langue="fra" print="n"> L'intuition de F4 est qu'il s'agit bien du même morphème dans l'expression “Que faire?", comme l'illustrent les exemples.
 \ton Hα
 \so F4
 \de Classifier for solutions.
@@ -67827,9 +67838,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="phono" langue="fra"> réalisé proche de: [tsæ˧bæ˥]
+\nt <dom="phono" langue="fra"> Réalisation phonétique proche de [|fv{tsæ˧bæ˥}].
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsæ˧bæ˥}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsæ˧bæ˥}]。
 \ton H#
 \lc tse˧bæ˥
+\cf pʰi˩tʰɑ˩
 \so F4
 \va <speaker="F5"> *
 \vf <print="n"> La locutrice ne connaît pas; elle songe à: /zɯ˧pv̩˩/ “herbe sèche"
@@ -67842,7 +67856,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 火绒
 \df Amadou.
 \gf amadou
-\dt 08/Oct/2015
 
 \lx tse˧bo#˥
 \sf <nb="B"> 655
@@ -68277,9 +68290,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <dom="sem" langue="fra"> Synonyme du nom des Sources Chaudes, Wenquan, ʁwɤ˧lɑ˩-bi˩
 \ton H#-L
 \lc tse˧mi˥dʑɯ˩ʁo˩
+\sy ʁwɤ˧lɑ˩-bi˩
 \so F4
 \de Zeimi Jjiwo: the village of Wenquan, in the plain of Yongning, where hot springs are located, hence the Chinese name Wenquan, ‘hot springs'.
 \ge Zeimi_Jjiwo
@@ -69256,8 +69269,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsi˩ɭɯ˩bv̩˥qʰæ˩bæ˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> pas de différence de sens avec dʑi˩ʁu˩-zo˩-bæ˧, selon F4
-\nt <dom="phono" langue="fra"> avant 2011: noté: dʑi˩ɭɯ˩-…
+\nt <dom="sem" langue="fra" print="n"> Note ancienne: pas de différence de sens avec |fv{dʑi˩ʁu˩-zo˩-bæ˧}, selon F4; xxxx revoir ce terme: sans doute |fv{dʑɯ˩ʁo˩-zo˩bæ˧}.
+\nt <type="hist" print="n" dom="phono" langue="fra"> avant 2011: noté: |fv{dʑi˩ɭɯ˩-}…
 \so F4
 \de Trailing plant.
 \ge trailing_plant
@@ -69265,7 +69278,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 蔓草
 \df Herbe rampante.
 \gf herbe_rampante
-\dt 05/Aug/2017
 
 \lx tsʰi˩mv̩˩tʰv̩˩
 \or ceemutu
@@ -69614,7 +69626,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> cf récit “lac": hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ “c'est devenu le lac, ça a donné naissance au lac"
 \ton M intrans
 \lc tsɤ˧
 \so F4
@@ -69633,7 +69644,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe It's not the same
 \xn 有区别、不一样
 \xf ce n'est pas la même chose, ce n'est pas pareil
-\dt 07/Oct/2015
+\txtsup Lake3.15
+\doisup 10.24397/pangloss-0004349#S15
+\txtsup Lake3.57
+\doisup 10.24397/pangloss-0004349#S57
 
 \lx tsɤ˧
 \sf <nb="B"> 685
@@ -70156,10 +70170,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsɤ˧ɖɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (note: ɖɯ˧: prononcé très proche de /ɖɤ˧ par M23)
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
+\vf <dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par M23.
+\ve <dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by M23.
 \de To give birth (cattle).
 \ge to_give_birth
 \dn 生崽子（牛类）
@@ -71217,6 +71232,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Mélanger (des choses différentes). Par exemple: mélanger un peu de riz et un peu de soupe pour obtenir une préparation alimentaire pour enfant, ou mélanger divers aliments pour la pâtée du chien.
 \gf mélanger
 
+\lx †ʈʂʰɤ˧˥
+\or che
+\ps v
+\cf ʈʂʰɤ˩~ʈʂʰɤ˧˥
+\nt <dom="synt" langue="fra"> Monosyllabe extrait de la forme disyllabique |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, selon les règles morpho-tonologiques synchroniques.
+\nt <dom="synt" langue="eng"> This monosyllabic form is extracted from disyllabic |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, based on the synchronic morpho-tonological rules.
+
 \lx ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \sf <nb="B"> 1422
 \sf <nb="2011"> 2049
@@ -71236,15 +71258,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 抚摸
 \df Toucher.
 \gf toucher
-\xv ʈʂʰɤ˩ʈʂʰɤ˧ mɤ˥-tʰɑ˩!
+\xv ʈʂʰɤ˩~ʈʂʰɤ˧ mɤ˥-tʰɑ˩!
 \xe One must not touch!
 \xn 禁止触碰！
 \xf il ne faut pas toucher!
-\xv tʰɑ˧-ʈʂʰɤ˩ʈʂʰɤ˩!
+\xv tʰɑ˧-ʈʂʰɤ˩~ʈʂʰɤ˩!
 \xe Do not touch!
 \xn 别碰！
 \xf ne touchez pas!
-\xv tso˧~tso˧ ʈʂʰɤ˥ʈʂʰɤ˩
+\xv tso˧~tso˧ ʈʂʰɤ˥~ʈʂʰɤ˩
 \xe to touch something
 \xn 抚摸东西
 \xf toucher quelque chose
@@ -71293,9 +71315,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> serait lié à /ə˧tso˧/ “quoi" et au nominalisateur /tso/
 \ton #H
 \lc tso˧tso˧
+\cf ə˧tso˧
+\cf -tso
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71577,7 +71600,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (phonétiquement, proche de: læ˧ tsɯ˧tsɯ˧) (vérifié: n'est pas /tsi/)
-\nt <dom="phono" langue="fra"> le˧-tsɯ˥-ze˩; mɤ˧-tsɯ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -71592,6 +71614,16 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to tie a water buffalo
 \xn 栓水牛
 \xf attacher le buffle
+\xv mɤ˧-tsɯ˥
+\xe |fg{neg} 〜
+\xn 否定 〜
+\xf |fg{neg} 〜
+\xc PHONO
+\xv le˧-tsɯ˥-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 实施 〜 整体体
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
 \xv tsɯ˧~tsɯ˧
 \xe |fg{red}
 \xn 重叠
@@ -81399,7 +81431,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc --
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> Un rapprochement sémantique avec ʂo˧~ʂo˧ ‘ranger' ne paraît pas bien motivé.
+\nt <dom="sem" langue="fra" print="n"> Un rapprochement sémantique avec ʂo˧~ʂo˧ ‘ranger' n'est, ni motivé au plan sémantique, ni convaincant au plan phonologique (les tons étant différents).
 \so F4
 \de In association with a |fg{n}, indicates “plenty of, abundance of".
 \ge |fg{adjectivizer}
