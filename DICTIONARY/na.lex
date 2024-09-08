@@ -17199,10 +17199,10 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> cf récit 1
-\nt <type="hist" print="n" langue="fra"> avant juin 2024: noté L.M.MH, par erreur (enregistrement du 24 juin).
-\ton LM+MH#
-\lc gɤ˩ʈʂʰæ˧hĩ˧˥
+\nt <type="hist" print="n" langue="fra"> avant juin 2024: noté L.M.MH, par erreur (enregistrement du 24 juin 2024). Corrigé en L.M.H (ton lexical: LM+H#).
+\ton LM+H#
+\lc gɤ˩ʈʂʰæ˧hĩ˥
+\cf ʈʂʰæ˧˥2
 \so F4
 \de Ancestors, past generations.
 \ge ancestors
@@ -37827,7 +37827,8 @@
 \sf <nb="B"> 595
 \sf <nb="2011"> 855
 \or muzhunumi
-\ets mv̩˧ʈʂv̩˩; nv̩˩mi˩
+\ets mv̩˧ʈʂv̩˩
+\ets nv̩˩mi˩
 \ps n
 \lc mv̩˧ʈʂv̩˩nv̩˩mi˩
 \sd <langue="fra"> objet
@@ -40389,7 +40390,6 @@
 \ps v
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> (exemple de contexte dans lequel la tournure /le˧-ɲi˩-ze˩/ est possible: qd quelqu'un est devenu autre que ce qu'il n'était, par exemple quelqu'un qui n'était pas français et l'est devenu)
 \ton Lα
 \lc ɲi˩˥
 \so F4
@@ -40402,6 +40402,13 @@
 \gn 系词
 \df Verbe copule.
 \gf |fg{cop}
+\xv le˧-ɲi˩-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 实施 〜 整体体
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
+\xc <dom="sem" langue="fra"> Exemple de contexte dans lequel la tournure /|fv{le˧-ɲi˩-ze˩}/ est possible: lorsque quelqu'un est devenu autre que ce qu'il n'était, par exemple quelqu'un qui a acquis une nationalité par naturalisation.
+\xc <dom="sem" langue="eng"> Example of context of use for /|fv{le˧-ɲi˩-ze˩}/: when someone has become something other than what they were, for example someone who has acquired a certain nationality by naturalization (becoming a citizen of a certain country).
 
 \lx ɲi˧α
 \sf <nb="B"> 2169
@@ -41892,19 +41899,20 @@
 \lc ɳɯ˧ɕi˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (notation 2006, erronée: nv̩˥ɕi˧; rime confirmée, n'est pas /hi/)
-\nt <dom="phono" langue="fra"> variante ni˧ɕi˩, par harmonie vocalique
+\nt <type="hist" print="n" langue="fra"> Notation 2006: ‡nv̩˥ɕi˧. Deuxième syllabe confirmée, n'est pas /hi/.
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ni˧ɕi˩
-\de Lovely.
+\vf La variante |fv{ni˧ɕi˩} constitue la lexicalisation d'une tendance à l'harmonie vocalique régressive, favorisée par la dimension expressive de la voyelle |fv{i} pour exprimer la petite taille volontiers associée au caractère ‘mignon, joli’.
+\ve The variant |fv{ni˧ɕi˩} lexicalizes a tendency towards regressive vowel harmony, favoured in this instance by the expressive value of the vowel |fv{i} to suggest the smallness readily associated with ‘cute, pretty’.
+\vn |fv{ni˧ɕi˩}这个变体是元音和谐趋势的词汇化，|fv{i}元音刚好倾向于表达与‘可爱、漂亮’相关的小尺寸。
+\de Lovely, cute, pretty.
 \ge lovely
 \dn 可爱
 \gn 可爱
 \df Mignon, joli.
 \gf mignon
-\dt 25/Apr/2017
 
 \lx ɳɯ˧go˧˥
 \sf <nb="B"> 1088a
@@ -41996,14 +42004,16 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> Question raised by Roselle (2017): or do you mean the larva of this insect - in which case you should use 'moth larva'? Or do you mean 'borer' (an insect that eats tiny round holes in wood or books)? or 'silverfish' (an insect that eats clothes and, I think books)?
-\nt <dom="phono" langue="fra"> phonétiquement, proche de: /ɳɻ/; exemple élicité pour vérifier la catégorie tonale: ɳv̩˩ ʐɤ˧-ze˧: élever des mites (+|fg{pfv}), qui indique que c'est LM
+\nt <type="hist" print="n" langue="fra"> Question raised by Roselle Dobbs (2017): or do you mean the larva of this insect - in which case you should use 'moth larva'? Or do you mean 'borer' (an insect that eats tiny round holes in wood or books)? or 'silverfish' (an insect that eats clothes and, I think books)? xxxx
+\nt <langue="fra" dom="phono"> Réalisation proche de [|fv{ɳɻ̩˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɳɻ̩˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɳɻ̩˧}]。
 \ton LM
 \lc ɳv̩˩˥
 \so F4
 \vf <dom="ton"> #H
 \va <speaker="M21"> ID.
-\vf <print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.
+\vf <print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.　xxxx
 \pdv mi˩
 \de Moth; insect that eats into wood, books, clothes etc.
 \ge moth
@@ -42011,7 +42021,14 @@
 \gn 蛀虫
 \df Mite (insecte qui mange les vêments).
 \gf mite
-\dt 21/Jun/2017
+\xv ɳv̩˩ ʐɤ˧-ze˧
+\xe ... has bred moths
+\xn 饲养了飞蛾
+\xf ... a élevé des mites
+\xc PHONO
+\xc <dom="ton" langue="fra"> Exemple élicité pour établir la catégorie tonale du nom. Il permet de conclure que le ton lexical est LM.
+\xc <dom="ton" langue="eng"> This example was elicited to establish the tonal category of the noun. It allows us to conclude that the lexical tone is LM.
+\xc <dom="ton" langue="cmn"> 用于确定名词声调类别的例子。通过这个例子，我们可以得出词调是LM的结论。
 
 \lx ɳv̩˥
 \sf <nb="B"> 1563
@@ -42318,7 +42335,8 @@
 
 \lx nv̩˩mi˩-tɕi˥
 \or numi jieq
-\ets nv̩˩mi˩; tɕi˩α
+\ets nv̩˩mi˩
+\ets tɕi˩α
 \ps adj
 \an nv̩˩mi˩-ɖɯ˩
 \lc nv̩˩mi˩tɕi˥
@@ -42365,7 +42383,8 @@
 \lx nv̩˩mi˩-ki˧ki˩
 \sf <nb="2011"> 1516
 \or numi gigi
-\ets nv̩˩mi˩; ki˧α
+\ets nv̩˩mi˩
+\ets ki˧α
 \ps adj
 \ton L-L#
 \lc nv̩˩mi˩ki˧ki˩
@@ -42383,7 +42402,8 @@
 \lx nv̩˩mi˩-ʈʰi˩
 \sf <nb="2011"> 1004
 \or numi teiq
-\ets nv̩˩mi˩; ʈʰi˩α
+\ets nv̩˩mi˩
+\ets ʈʰi˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -42433,6 +42453,27 @@
 \gf fèves
 \dt 09/Sep/2015
 
+\lx nv̩˩ɭɯ˧-tɕʰi˧
+\sf <nb="B"> 2147
+\sf <nb="2011"> 3291
+\or nuleejie
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\nt <type="hist" print="n" langue="fra"> xxxx vérifier le ton: présence ou non d'un ton flottant (LM- ou LM+#H)
+\ton LM
+\lc nv̩˩ɭɯ˧tɕʰi˧
+\sy nv̩˩tɕʰi#˥
+\so F4
+\pdv kʰɤ˧˥
+\pdc <langue="fra"> panier
+\de Fine chaff of beans (used to feed cows).
+\ge bean_chaff(fine)
+\dn 豆类的细糠秕，来喂牛
+\gn 豆类的细糠秕
+\df Balle de légumineuse (fine, pour nourrir les bovidés).
+\gf balle_de_légumineuse
+
 \lx nv̩˩tɕʰi#˥
 \sf <nb="B"> 2147
 \sf <nb="2011"> 3291
@@ -42441,9 +42482,10 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> vérifié en 2009. +ɲi˥ (n'est pas tɕʰɯ)
-\nt <dom="sem" langue="fra"> aussi: nv̩˩ɭɯ˧tɕʰi˧
+\nt <dom="sem" langue="fra"> aussi: nv̩˩ɭɯ˧-tɕʰi˧
 \ton LM+#H
 \lc nv̩˩tɕʰi˥
+\sy nv̩˩ɭɯ˧-tɕʰi˧
 \so F4
 \va <speaker="M21"> ID.
 \pdv kʰɤ˧˥
@@ -42454,7 +42496,6 @@
 \gn 豆类的细糠秕
 \df Balle de légumineuse (fine, pour nourrir les bovidés).
 \gf balle_de_légumineuse
-\dt 09/Sep/2015
 
 \lx nv̩˩tsɑ˧˥
 \sf <nb="2011"> 3292
@@ -50963,7 +51004,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf 正在长
 \xf Ca pousse.
 \xc PHONO
-\doisup ex.: yyyyy ds histoire “poisson"
+\txtsup Lake3.29
+\doisup 10.24397/pangloss-0004349#S29
 
 \lx qwɤ˧α
 \sf <nb="B"> 1255
@@ -63360,7 +63402,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 584
 \sf <nb="2011"> 825
 \or jadabbae
-\ets tɕɤ˧tɑ˧; bæ˩
+\ets tɕɤ˧tɑ˧
+\ets bæ˩
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -66918,10 +66961,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps clf
 \cf te˧˥α
 \lc ɖɯ˧ ʈʂʰæ˧˥
+\cf gɤ˩ʈʂʰæ˧-hĩ˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <langue="pumi" dom="comp" print="n"> ʈʂʰæ35
-\nt <dom="phono" langue="fra"> cf “les générations passées"
+\nt <langue="pumi" dom="comp"> ʈʂʰæ35
+\nt <type="hist" print="n" dom="sem" langue="fra"> xxxx à vérifier: le mot peut-il avoir le sens de "âges" (groupes d'âge) plutôt que "générations"? Les "cinq générations" peuvent-elles désigner cinq âges: (1) les enfants, zo˧mv̩˥ (avant 13 ans révolus); (2) les jeunes: les jeunes filles et jeunes hommes (小姑娘 小伙子), symboliquement adultes mais encore adolescents/au sortir de l'adolescence, pʰæ˧tɕi˥ (jusque vers vingt ans, vingt-cinq ans), qui n'ont pas encore d'enfant; (3) le groupe des femmes mûres et hommes mûrs, devenus parents, et dans la force de l'âge: "les mères et les pères"; (4) le groupe d'âge des femmes âgées et hommes âgés, déjà grands-parents, actifs mais au seuil de la vieillesse; (5) les vieillards, ə˧si˧-ə˧pʰv̩#˥? Ces cinq groupes seraient alors relativement analogues des cinq groupes que Geneviève Calame-Griaule (1965) indique pour les Dogon (son étude met l'accent sur les hommes: enfant, jeune homme, homme mûr, homme âgé, patriarche).
 \ton MH
 \so F4
 \de Classifier for generations.
@@ -81020,9 +81064,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe It looks like it's going to die! / It looks as if it (/he/she) were going to die!
 \xn 他好像要死了！
 \xf On dirait qu'il/elle va mourir!
-\xc <langue="fra"> Peut se dire d'une plante, mais aussi d'un être humain. (Élicité lors de la transcription de Agriculture.70.)
-\xc <langue="eng"> Can refer to a plant, but also to a human being. (Elicited during transcription of Agriculture.70.)
-\xc <langue="cmn"> 可以指植物，也可以指人。
+\xc <langue="fra" dom="sem"> Peut se dire d'une plante, mais aussi d'un être humain. (Élicité lors de la transcription de Agriculture.70.)
+\xc <langue="eng" dom="sem"> Can refer to a plant, but also to a human being. (Elicited during transcription of Agriculture.70.)
+\xc <langue="cmn" dom="sem"> 可以指植物，也可以指人。
 
 \lx -no˧˥
 \or noq
