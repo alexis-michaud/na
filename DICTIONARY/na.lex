@@ -5925,7 +5925,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˧ ʈʰæ˧˥
-\vc <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) “personne qui bégaie"; refusé par F4
+\vf <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) “personne qui bégaie"; refusé par F4
 \va <speaker="M21"> ID.
 \de To be a stammerer; to have a stammer.
 \ge to_stammer
@@ -7125,7 +7125,7 @@
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
 \ton LH
 \lc di˩˥
-\at mv̩˥1
+\an mv̩˥1
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> di˩˥
@@ -8410,7 +8410,7 @@
 \xc PHONO
 \xv le˧-ɖɯ˩(-ze˩)
 \xe |fg{accomp}+|fg{pfv}
-\xn |fg{accomp}+整体体
+\xn 实施 〜 整体体
 \xf |fg{accomp}+|fg{pfv}: ça a grandi!/ il/elle a grandi!
 \xc PHONO
 \xv ə˧pɤ˥ɖɯ˩-gv̩˩
@@ -10017,15 +10017,15 @@
 \gf couper
 \xv le˧-dze˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv dze˧~dze˥
 \xe |fg{red}
-\xn |fg{red}
+\xn 〜 重叠
 \xf |fg{red}
 \xv le˧-dze˧~dze˥
 \xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
 \xv v̩˩tsʰɤ˧ dze˧~dze˥
 \xe to cut vegetables
@@ -11113,7 +11113,7 @@
 \xc PHONO
 \xv dʑɤ˩-hĩ˥
 \xe 〜 |fg{rel}
-\xn |fg{rel}
+\xn 〜 关系从句/名词化
 \xf 〜 |fg{rel}
 \xc PHONO
 \xv (no˧) ɖwæ˧˥ | dʑɤ˩˥!
@@ -13676,7 +13676,7 @@
 \xc PHONO
 \xv ɖʐɻ̩˧~ɖʐɻ̩˧
 \xe |fg{red}
-\xn |fg{red}
+\xn 〜 重叠
 \xf |fg{red}
 \xc PHONO
 \xv ʈʂe˧ ɖʐɻ̩˧-ze˩!
@@ -20224,10 +20224,12 @@
 \nt <type="hist" print="n" langue="fra"> ton équivalent de d2a (+ɲi˥) (confirmé: n'est pas /ɕ/)
 \ton LM+#H
 \lc hi˩nɑ˧mi˧
+\cf lo˧ʂv̩˩ | hi˩nɑ˧mi#˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\sn 1
 \pdv ɭɯ˧β
 \de Lake.
 \ge lake
@@ -20239,10 +20241,17 @@
 \xe There is a lake.
 \xn 有一个湖。
 \xf Il y a un lac.
+\sn 2
+\de Lugu Lake. It has so much importance, and it is so much larger than the other lakes and ponds in the area, that the simple term ‘the Lake’ can serve as its proper name.
+\ge Lugu_lake
+\dn 泸沽湖。其重要性不言而喻，它比当地的其他湖泊和池塘要大得多，因此‘湖’这个词就可以作为它的正名。
+\gn 泸沽湖
+\df Le lac Lugu. (Son importance est telle, et il est tellement plus étendu que les autres étendues d'eau douce des environs, que le simple terme «le Lac» suffit à le désigner.)
+\gf lac_Lugu
 \xv hi˩nɑ˧mi˧, | ɖɯ˧-zɯ˧ mɤ˧-pɻ̩˧!
-\xe The Lake never dries up, in all of its existence / in its entire life!
+\xe Lugu Lake never dries up, in an entire lifetime!
 \xn 泸沽湖，从来不干！
-\xf Le Lac ne s'assèche jamais de toute la vie!
+\xf Le lac Lugu ne s'assèche jamais, de toute la vie!
 
 \lx hi˩ɲi˩zo˩
 \or xienisso
@@ -20473,7 +20482,7 @@
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> (confirmé par F4 et F5: elles savent que la luette et le tendon de la langue sont deux organes différents; mais les termes sont homophones)
+\nt <dom="sem" langue="fra"> Les locutrices et locuteurs confirment que le même terme est employé pour deux parties du corps: la luette et le tendon de la langue.
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˩ʁæ˩˥
@@ -20500,7 +20509,6 @@
 \xe the tendon of the tongue; specifying ‘the tongue's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 舌头的筋
 \xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme |fv{/hi˩ʐæ˥/}.
-\dt 02/Sep/2015
 
 \lx hõ˧˥
 \sf <nb="B"> 818
@@ -21252,9 +21260,9 @@
 \xf |fg{dur}
 \xc PHONO
 \xv le˧-hɤ˩
-\xe |fg{accomp}
-\xn |fg{accomp}
-\xf |fg{accomp}
+\xe |fg{accomp} 〜
+\xn 实施 〜
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv ɖɯ˧-hɤ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
@@ -21555,7 +21563,7 @@
 \xf |fg{red}
 \xv le˧-hṽ̩˧~hṽ̩˧
 \xe |fg{accomp} |fg{red}
-\xn |fg{accomp} |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} |fg{red}
 \xv hṽ̩˧~hṽ̩˧-ze˩
 \xe |fg{red} |fg{pfv}
@@ -22117,7 +22125,7 @@
 \gf acheter
 \xv le˧-hwæ˧
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv tso˧~tso˧ hwæ˩
 \xe to buy things
@@ -22245,7 +22253,7 @@
 \gf repriser
 \xv le˧-hwɤ˧˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv bɑ˩lɑ˩ hwɤ˥
 \xe to mend clothes
@@ -27056,7 +27064,7 @@
 \gf mettre
 \xv kʰɯ˩~kʰɯ˧˥
 \xe |fg{red}
-\xn |fg{red}
+\xn 〜 重叠
 \xf |fg{red}
 \xc PHONO
 \xv qwɤ˧-qo˧ | si˧ tʰi˧-kʰɯ˧˥
@@ -27962,7 +27970,9 @@
 \lc kʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> Le monosyllabe n'est pas couramment utilisé mais est attesté, par exemple dans le récit “chien". Analysé comme #H. Parallèles: comme /ʐwæ˥/ “cheval", donne un ton L avec le suffixe -mi, comme /ʐwæ˩mi˩˧/. Autre indice: les noms des années: “année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or “Cheval" et “Bœuf" sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres années, correspondant à des monosyllabes aux tons L, ML, M et MH.
+\nt <dom="ton" langue="fra"> Le monosyllabe n'est pas couramment utilisé, mais il est attesté. Son ton est analysé comme #H sur la base de son comportement identique à celui de /|fv{ʐwæ˥}/ ‘cheval’ et /|fv{ʝi˥1}/ ‘bœuf’ (formes monosyllabiques d'usage plus courant). “Année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or ‘cheval' et ‘bœuf' sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres noms d'années, qui correspondent à des monosyllabes aux tons L, ML, M et MH.
+\nt <dom="ton" langue="eng"> The monosyllable is not commonly used, but it is attested. Its tone is analyzed as #H on the basis of its identical behaviour to that of /|fv{ʐwæ˥}/ ‘horse’ and /|fv{ʝi˥1}/ ‘ox’ (monosyllabic nouns which are more commonly used). ‘Year of the Dog’ has the same tone pattern as ‘year of the Horse’ and ‘year of the Ox’, and ‘horse’ and ‘ox’ are both in the #H tone category. This tonal pattern is different from that of the other year names, which correspond to monosyllables in the L, ML, M and MH tone categories.
+\nt <dom="ton" langue="cmn"> 这个单音节词不常用，但它还是存在。根据其与/|fv{ʐwæ˥}/‘马’和 /|fv{ʝi˥1}/‘牛’（更常用的单音节词）相同的变调，其声调被分析为#H。‘狗年’的声调与‘马年’和‘牛年’相同，而‘马’和‘牛’的本调都是#H。这种声调模式与其他年名的声调模式不同，其他年名对应的单音节词分别承载L、ML、M和MH调。
 \ton #H
 \so F4
 \pdv mi˩
@@ -27976,7 +27986,7 @@
 \gf chien(monosyll.)
 \xv kʰv̩˧-ʂe˧ dzɯ˧
 \xe to eat dog meat (a practice which is strongly antagonistic to Na culture, which considers dog as man's benefactor)
-\xn 吃狗肉
+\xn 吃狗肉（这种行为与摩梭文化背道而驰，因为摩梭文化认为狗是人类的重要恩人。）
 \xf manger de la viande de chien (pratique qui va droit à l'encontre de la culture na, dans laquelle le chien est considéré comme bienfaiteur de l'homme)
 \xv kʰv̩˧-zɯ˧~zɯ˥
 \xe dog's existence, dog's life (which dog exchanged with man, according to the legend)
@@ -28193,13 +28203,14 @@
 \sf <nb="B"> 83
 \sf <nb="2011"> 421
 \or kumae
+\ets kʰv̩˥3
+\ec <langue="fra" print="n"> L'origine de la deuxième syllabe n'a pas encore pu être établie. La composition du disyllabe n'est pas transparente aux yeux de la co-autrice. (Avais songé à /|fv{mæ˧2}/, qui indique le terme atteint: `parvenir à'.)
 \ps n
 \lc kʰv̩˧mæ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (avant 2009, noté: /kʰv̩˧ mæ˧ ni˩ zo˩! hĩ˥ lɑ˩ hu˩!/; premières notes: “kʰv̩˧ mæ˧ ni˩ hĩ˥ lɑ˩ ho˩; tons confirmés, d'abord noté lɑ˧ho˩, par erreur; pas reconnu par ts")
+\nt <type="hist" print="n" langue="fra"> (avant 2009, noté: /kʰv̩˧ mæ˧ ni˩ zo˩! hĩ˥ lɑ˩ hu˩!/; premières notes: “kʰv̩˧ mæ˧ ni˩ hĩ˥ lɑ˩ ho˩; tons confirmés, d'abord noté lɑ˧ho˩, par erreur; pas reconnu par M18.")
 \nt <type="hist" print="n" langue="fra"> (a) hĩ˥ ʈʂæ˧ i˧ hĩ˧ (ʈʂæ˩˥: voler) (b) kʰv̩˧mæ˧, ton d1; kʰv̩˧mæ˧ i˧hĩ˧ hĩ˥
-\nt <dom="sem" langue="fra"> (peut-être /mæ˧/ indique-t-il le terme atteint, mais pas réussi analyse avec F4)
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -28216,14 +28227,6 @@
 \xe He's a thief!
 \xn 他是小偷！
 \xf C'est un voleur!
-\xv kʰv̩˧mæ˧ ʝi˧-hĩ˧ hĩ˧
-\xe person who robs, robber
-\xn 当强盗的人=强盗
-\xf personne qui est un bandit, bandit
-\xc <dom="sem" langue="fra"> Aux yeux de la locutrice principale, cette tournure, celle utilisée pour décrire une profession, ne paraît pas appropriée pour les voleurs. Question de perspective: aux yeux de l'honnête laboureur, être voleur n'est pas un métier, ce n'est pas une profession comme une autre.
-\xc <dom="sem" langue="eng"> In the eyes of the reference speaker, this turn of phrase, used to describe a profession, doesn't seem appropriate for thieves. It's a question of perspective: in the eyes of the honest ploughman, being a thief is not a trade, it's not a profession like any other.
-\xc <dom="sem" langue="cmn"> 在标准合作人看来，这个用来形容职业的短语似乎并不适合小偷。这是一个视角问题：在诚实的耕作者眼中，小偷不是一种职业。
-\rf M18
 \xv no˧ | kʰv̩˧mæ˧-pʰæ˧qʰwɤ˩-ne˩-ʝi˩-zo˩!
 \xe You have the face of a thief! / You really look like a thief! (An accusation about someone one thinks is a thief)
 \xn 你有一张贼脸！（控告一个人）
@@ -28247,6 +28250,14 @@
 \xe That guy must be a thief! / That guy looks like a thief to me!
 \xn 那个人一定是小偷！/ 我看那个人就像小偷！
 \xf Celui-là, ça doit être un voleur! / Celui-là, y m'a l'air d'un voleur!
+\xv kʰv̩˧mæ˧ ʝi˧-hĩ˧ hĩ˧
+\xe person who robs, robber
+\xn 当强盗的人=强盗
+\xf personne qui est un bandit, bandit
+\xc <dom="sem" langue="fra"> Aux yeux de la locutrice principale, cette tournure, celle utilisée pour décrire une profession, ne paraît pas appropriée pour les voleurs. Question de perspective: aux yeux de l'honnête laboureur, être voleur n'est pas un métier, ce n'est pas une profession comme une autre.
+\xc <dom="sem" langue="eng"> In the eyes of the reference speaker, this turn of phrase, which is the one used to describe a profession, is not appropriate for thieves. It is a question of perspective: in the eyes of the honest ploughman, being a thief is not a trade, it is not a profession like any other.
+\xc <dom="sem" langue="cmn"> 在标准合作人看来，这个用来形容职业的短语似乎并不适合小偷。这是一个视角问题：在诚实的耕作者眼中，小偷不是一种职业。
+\rf M18
 
 \lx kʰv̩˩mi˩
 \sf <nb="B"> 1867
@@ -28459,7 +28470,9 @@
 \lc kʰv̩˧qʰwɤ˧˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <dom="phono" langue="fra"> on ne peut isoler le nom †kʰv̩˧qʰwɤ˧, car la combinaison de syllabes /kʰv̩˧qʰwɤ#˥/ veut dire “bol du chien"
+\nt <dom="sem" langue="fra"> Il est problématique de placer ce nom dans le cadre «ceci est...», car cela donne |fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}, dont l'interprétation la plus plausible est «c'est un bol pour chien, c'est la gamelle du chien" (/|fv{kʰv̩˧qʰwɤ#˥}/ veut dire “bol du chien"). Il n'est pas usuel de dire «c'est une mauvaise année» en employant le verbe copule: on utilise le verbe |fv{tʰv̩˧} ‘apparaître, avoir lieu’ (|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}).
+\nt <dom="sem" langue="eng"> Placing this noun in the frame ‘this is ...’ is problematic, as this yields |fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}, the most plausible interpretation of which is ‘this is a dog bowl, this is the dog's bowl’ (/|fv{kʰv̩˧qʰwɤ#˥}/ means ‘dog's bowl’). It is not usual to say ‘it's a bad year’ using the copular verb: instead, the verb |fv{tʰv̩˧} ‘to appear, to take place’ is used (|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}).
+\nt <dom="sem" langue="cmn"> 对此名词用“这是……”的框架是有问题的，因为|fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}这句话，被理解为‘这是一个狗碗，这是狗的碗’（/|fv{kʰv̩˧qʰwɤ#˥}/意为‘狗碗’）。说“今年是个坏年景”，通常不使用系动词而是使用|fv{tʰv̩˧}‘出现、发生’那个动词，如下：|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}。
 \ton MH#
 \so F4
 \de Bad year, year when the crops are bad.
@@ -28472,7 +28485,6 @@
 \xe the year is bad; crops are bad this year; a bad year has come
 \xn 今年，收成不好。
 \xf une mauvaise année a lieu, une année de mauvaise récolte/de disette
-\dt 24/Apr/2017
 
 \lx kʰv̩˧ʂæ˧˥
 \sf <nb="B"> 1193
@@ -29380,7 +29392,6 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (vérifié, n'est pas /qʰwɤ/) (premiers terrains: enregistré par erreur /ɖɯ˧gv̩˧/ “un, une unité") confirmé: est homophone avec « rocher » ou « poing »
 \nt <dom="sem" langue="fra"> un quartier, un petit morceau
-\nt <dom="phono" langue="fra"> confirmé: dans “c'est vous qui décidez", il s'agit du même /kʰwɤ˥/ que le classificateur, ‘un morceau'
 \ton Hα
 \lc ɖɯ˧ kʰwɤ˥
 \so F4
@@ -29391,7 +29402,7 @@
 \ge |fg{clf}.chunks
 \dn 量词：块。一块肉、一口饭
 \gn 量词.块
-\df Classificateur des morceaux/bouchées.
+\df Classificateur des morceaux et des bouchées.
 \gf |fg{clf}.morceaux
 \xv ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩
 \xe chunk by chunk, one chunk after the other
@@ -29649,16 +29660,18 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" langue="fra"> La voyelle de la deuxième syllabe résulte vraisemblablement d'une harmonie vocalique avec la dernière syllabe.
-\nt <type="hist" print="n" langue="fra"> (voyelles et tons confirmés) (voyelles confirmées)
-\nt <dom="sem" langue="fra"> aussi: læ˧dæ˧kæ˥bi˩
+\nt <dom="phono" langue="fra"> La voyelle des deux premières syllabes pourrait être le résultat d'une harmonie vocalique avec le /|fv{æ}/ de la troisième et dernière syllabe.
+\nt <dom="phono" langue="eng"> The vowel in the first two syllables could be the result of regressive vowel harmony with the /|fv{æ}/ found in the third and last syllable.
+\nt <dom="phono" langue="cmn"> 前两个音节中的元音可能是与第三个音节中的/|fv{æ}/元音和谐的结果。
+\nt <type="hist" print="n" langue="fra"> Voyelles confirmées.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés.
+\nt <dom="synt" langue="fra" print="n"> exemple d'emploi: læ˧dæ˧qæ˥-bi˩ 'sur/vers l'aisselle' = 'sous les aisselles'.
 \ton H#
 \lc læ˧dæ˧qæ˥
 \so F4
 \va <speaker="F5"> lɑ˧dæ˧kæ˥
 \va <speaker="M18"> ID.
 \va <speaker="M21"> lɑ˧dɑ˧kæ˥bv̩˩
-
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Armpit.
@@ -30261,13 +30274,15 @@
 \sd <langue="eng"> given name
 \ton H#-M-L
 \lc lɑ˧tʰɑ˧mi˥ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
-\nt <dom="phono" langue="fra"> Généralement prononcé avec une latérale simple, voisée, et une nasale sommet de syllabe: […lɑ˩m̩˩].
+\nt <dom="phono" langue="fra"> Généralement prononcé avec une latérale simple, voisée, et une nasale sommet de syllabe: […|fv{lɑ˩m̩˩}].
+\nt <dom="phono" langue="eng"> Generally pronounced with a simple voiced lateral and a syllabic nasal: […|fv{lɑ˩m̩˩}].
+\nt <dom="phono" langue="cmn"> 一般实际发音中，边音是浊的、鼻辅音单独构成音节：[…|fv{lɑ˩m̩˩}]。
 \so F4
-\de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) for this volume (speaker code: F4).
+\de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) and co-author for this volume (speaker code: F4).
 \ge Latami_Daeshi_Lhamu
 \dn 拉他咪·达石拉么：本著作的标准发音合作人
 \gn 拉他咪·达石拉么
-\df Latami Daeshi Lhamu: le nom propre (nom de famille et prénom) de la consultante de référence du présent travail (code locutrice: F4).
+\df Latami Daeshi Lhamu: le nom propre (nom de famille et prénom) de la consultante de référence, co-autrice du présent travail (code locutrice: F4).
 \gf Latami_Daeshi_Lhamu
 \dt 24/Apr/2017
 
@@ -30740,7 +30755,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" dom="comp" print="n"> lʲɯ55 (lʲv̩˥)
-\nt <dom="phono" langue="fra"> ʈʂʰɯ˧ ɬi˩ ɲi˩˧, càd ton ˩ (d'après hjr/jzy p. 112; notent ɬe˧)
+\nt <dom="phono" langue="fra" print="n"> He Jiren et Jiang Zhuyi (1985: 112) notent ɬe˧.
 \ton L
 \lc ɬi˧
 \so F4
@@ -30752,7 +30767,6 @@
 \gn 獐子
 \df Chevrotain.
 \gf chevrotain
-\dt 04/Sep/2015
 
 \lx ɬi˧˥
 \sf <nb="B"> 1745
@@ -30779,15 +30793,11 @@
 
 \lx ɬi˥
 \sf <nb="B"> 1044
-\sf <nb="B"> (et
-\sf <nb="B"> ancien
-\sf <nb="B"> 1587)
 \sf <nb="2011"> 1478
 \or lhi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (phonétiquement: le˧-ɬi˥)
 \ton H
 \lc ɬi˧
 \so F4
@@ -30802,9 +30812,8 @@
 \gf se_reposer
 \xv le˧-ɬi˥
 \xe |fg{accomp} 〜
-\xn |fg{accomp} 〜
+\xn 实施 〜
 \xf |fg{accomp} 〜
-\dt 04/Sep/2015
 
 \lx ɬi˩β
 \sf <nb="B"> 868
@@ -31153,7 +31162,6 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ‡ɬi˥mi˥ɖɯ˧gi˥) (d'abord noté ‡ɬi˥mi˥le˥gv̩˧)
-\nt <dom="sem" langue="fra"> on ne peut dire: ɬi˧mi˧kʰɯ˧ʂɯ˧ “les rayons de la lune, les premiers rayons de la lune"
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -32299,6 +32307,7 @@
 \or lofu
 \ps adj
 \lc lo˧fv̩˧
+\an lo˧hɑ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so F4
@@ -32369,10 +32378,10 @@
 \ps adj
 \ton M
 \lc lo˧hɑ˧
+\an lo˧fv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (noté en 2006 i˧lo˧ hɑ˧ ʐwæ˩˥, corrigé à tort en 2007 en ˧ ˩ ˩ ˩˥)
-\nt <dom="sem" langue="fra"> la négation porte sur le disyllabe: mɤ˧-lo˧hɑ˧! “(ce) n'est pas difficile!"
+\nt <type="hist" print="n" langue="fra"> Noté en 2006 i˧ lo˧ hɑ˧ ʐwæ˩˥ 'facile à faire', corrigé à tort en 2007 en ˧ ˩ ˩ ˩˥.
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -32390,7 +32399,11 @@
 \xe extremely difficult to do
 \xn 非常难做
 \xf très difficile à faire
-\dt 24/Apr/2017
+\xv mɤ˧-lo˧hɑ˧!
+\xe (it is) not difficult!
+\xn 不难。
+\xf (ce) n'est pas difficile!
+\xc <dom="synt" langue="fra"> La négation porte sur le disyllabe entier.
 
 \lx lo˧ʝi˧
 \sf <nb="B"> 1279
@@ -32419,11 +32432,17 @@
 \sf <nb="B"> 345
 \sf <nb="2011"> 399
 \or lo yihin
+\ets lo˧ʝi˧
+\ets -hĩ˥
+\ets hĩ#˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (Première impression en 2006: “longueur: sans doute simplement le fait d'une frontière"; en fait: analyse du mot: lo˧ i˧ hĩ˧ hĩ˧ (tons vérifiés; avais noté ˧ ˧ ˧ ˥ au début, du fait du renforcement de la dernière syllabe); lo˧i˧: travailler, hĩ˧: sert à former une relative, “qui travaille"; hĩ˧ “homme". Confirmé auprès de F5: une syllabe distincte hĩ˧ ne lui paraît pas adéquate, mais en revanche l'allongement avec début de nasalisation est indispensable, ce qui témoigne du /hĩ˧/ coalescent.
-\nt <dom="phono" langue="fra"> phonétiquement: [lo˧i˧ĩ˧hĩ˧], le relateur étant coalescent. La même observation vaut pour les autres mots en -hĩ.
+\nt <type="hist" dom="morpho" print="n" langue="fra"> Première impression en 2006: “longueur: sans doute simplement le fait d'une frontière". En fait, l'analyse du mot amène à reconnaître quatre morphèmes: /lo˧ i˧ hĩ˧ hĩ˧/. lo˧i˧: travailler (composé de 'travail'+'faire'); hĩ˧: sert à former une relative, “qui travaille"; hĩ˧ “homme". Confirmé auprès de F5: une syllabe distincte hĩ˧ ne lui paraît pas adéquate, mais en revanche l'allongement avec début de nasalisation est indispensable, ce qui témoigne du /hĩ˧/ coalescent.
+\nt <dom="phono" langue="fra"> Phonétiquement proche de [|fv{lo˧ʝiː˧hĩ˧}] ou [|fv{lo˧ʝiĩ˧hĩ˧}], le relatif /|fv{-hĩ˥}/ étant coalescent. La même observation vaut pour les autres noms d'agents comportant cette séquence, /|fv{-hĩ˥}/+/|fv{hĩ#˥}/.
+\nt <dom="phono" langue="eng"> Phonetically close to [|fv{lo˧ʝiː˧hĩ˧}] or [|fv{lo˧ʝiĩ˧hĩ˧}], the relativizer /|fv{-hĩ˥}/ being coalescent. The same applies to other agent names built using this /|fv{-hĩ˥}/+/|fv{hĩ#˥}/ sequence.
+\nt <dom="phono" langue="cmn"> Phonétiquement proche de [|fv{lo˧ʝiː˧hĩ˧}] ou [|fv{lo˧ʝiĩ˧hĩ˧}], le relateur /|fv{-hĩ˥}/ étant coalescent. La même observation vaut pour les autres noms d'agents comportant cette séquence, /|fv{-hĩ˥}/+/|fv{hĩ#˥}/.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Tons vérifiés. Avais noté ˧ ˧ ˧ ˥ au début (2006), du fait du renforcement de la dernière syllabe.
 \ton #H
 \lc lo˧ʝi˧hĩ˧hĩ˧
 \so F4
@@ -33013,15 +33032,19 @@
 \gf Luoshi
 \dt 04/Sep/2015
 
-\lx lo˧ʂv̩˩ | hi˩-nɑ˧mi˧
+\lx lo˧ʂv̩˩ | hi˩nɑ˧mi#˥
 \sf <nb="2011"> 3313
 \or Loshu xienami
+\ets lo˧ʂv̩˩
+\ets hi˩nɑ˧mi˧
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" print="n" langue="fra"> jusqu'en 2011: noté lo˧ʂu˩, par erreur
-\nt <dom="sem" langue="fra"> ou simplement hi˩nɑ˧mi˧ “le Lac"
-\nt <dom="phono" langue="fra"> (composition sans changement tonal)
+\nt <type="hist" print="n" langue="fra"> Jusqu'en 2011: noté ‡lo˧ʂu˩, par erreur.
+\nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme “le Lac", /|fv{hi˩nɑ˧mi#˥}/.
+\nt <dom="sem" langue="eng"> Lugu Lake can also be referred to simply as “the Lake", /|fv{hi˩nɑ˧mi#˥}/.
+\nt <dom="sem" langue="cmn"> 泸沽湖还能简单称作“湖”，/|fv{hi˩nɑ˧mi#˥}/。
+\nt <dom="phono" langue="fra"> L'expression est formée par simple succession du nom de lieu |fv{lo˧ʂv̩˩} et du nom commun ‘lac’. Leur composition n'amène pas de changement tonal.
 \ton L# | L-
 \lc lo˧ʂv̩˩hi˩nɑ˧mi˧
 \so F4
@@ -33029,9 +33052,8 @@
 \ge Lake_Lugu
 \dn 泸沽湖
 \gn 泸沽湖
-\df Lac Lugu.
+\df Le lac Lugu.
 \gf lac_Lugu
-\dt 24/Apr/2017
 
 \lx ɬo˧tɑ˧
 \sf <nb="B"> 700
@@ -33175,8 +33197,7 @@
 \sy ɬo˧kʰv̩˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" langue="fra"> (tons confirmés en 2009)
-\nt <dom="phono" langue="fra"> +ɲi˩
+\nt <type="hist" print="n" langue="fra"> Tons confirmés en 2009: +ɲi˩.
 \ton L+H#
 \lc ɬo˩tsʰe˩mæ˥
 \so F4
@@ -33242,8 +33263,8 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" langue="fra"> (pensé à noter: lo˩ʈʂʷɻ̩˥, lo˩ʈwɻ̩˥, ʈʂv, ʈv, ʈwɤ, tɻ, ʈʐ… Le 21 nov.: pense que c'est ʈɻ ou ʈʂɻ, pas ʈʂv. Pour la première syllabe: est confirmé: est lo˩ et pas lɑ˩. Nouvelle séance le 23 novembre: entends arrondissement, veux noter ʈʂwɻ̩˥ ou ʈʷɻ̩˥." notation janvier 2008: lo ʈv
-\nt <dom="phono" langue="fra"> ton d6a, confirmé: n'est pas d6b (ex.: lo˩ʈv̩˧=bv̩˧ ɣɯ˩˧)
+\nt <type="hist" print="n" langue="fra" dom="phono"> La notation de la première syllabe a rapidement été stabilisée lors du premier terrain (2006), dès lors qu'il a été confirmé qu'il s'agissait de /lo˩/, et non de /lɑ˩/ comme c'est le cas en naxi. La deuxième syllabe, en revanche, constituait un défi lors des premières notations. Pensé à noter: lo˩ʈʂʷɻ̩˥, lo˩ʈwɻ̩˥, ʈʂv, ʈv, ʈwɤ, tɻ, ʈʐ… Le 21 novembre 2006: pense que c'est ʈɻ ou ʈʂɻ, pas ʈʂv. Nouvelle séance le 23 novembre 2006: entends un arrondissement, veux noter ʈʂwɻ̩˥ ou ʈʷɻ̩˥. La notation lo ʈv est adoptée en janvier 2008.
+\nt <dom="ton" langue="fra" type="hist" print="n"> ton d6a, confirmé: n'est pas d6b.
 \ton LM
 \lc lo˩ʈv̩˥
 \so F4
@@ -33254,7 +33275,14 @@
 \gn 拳
 \df Poing.
 \gf poing
-\dt 04/Sep/2015
+\xv lo˩ʈv̩˧=bv̩˧ | ɣɯ˩˥
+\xe “the skin of the fist”
+\xn “拳的皮肤”
+\xv «la peau du poing»
+\xc PHONO
+\xc <dom="ton" langue="fra"> Cet exemple élicité permet d'établir que le ton du nom est LM et non LH.
+\xc <dom="ton" langue="eng"> This elicited phrase establishes that the noun's tone is LM and not LH.
+\xc <dom="ton" langue="cmn"> 这个短语的声调表明该词的声调为底＋中（LM）而不是底＋高（LH）。
 
 \lx ɭɯ˧β
 \sf <nb="B"> 2189
@@ -33788,17 +33816,22 @@
 \sf <nb="2011"> 1958
 \hm 1
 \or lu puq
-\ec <langue="fra"> L'étymologie de ce terme n'a pu être établie: ce n'est semble-t-il pas «retourner un champ».
+\ets lv̩˧1
+\ec <langue="fra"> L'étymologie de la seconde syllabe de ce terme n'a pu être établie: il n'est pas évident que ce soit |fv{pʰv̩˧˥3} `retourner', |fn{翻}, avec pour sens littéral «retourner un champ».
+\ec <langue="eng"> The origin of the disyllable has not been established yet: the second syllable does not appear to be |fv{pʰv̩˧˥3} `to turn over', |fn{翻}.
+\ec <langue="cmn"> 词源尚未确定。第二个音节看来不是|fv{pʰv̩˧˥3} ‘翻’。
 \ps v
 \ton L#
 \lc lv̩˧pʰv̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> (F5 lui préfère ɕi˧pʰv̩˧)
 \so F4
-\va <speaker="F5"> ID
-\va <speaker="M21"> *
-\vf <print="n"> Le locuteur indique /ɕi˩dɑ˩˧/, formule préférée à: ɕi˧pʰv̩˧.
+\va <speaker="F5"> ɕi˧pʰv̩˧
+\vf <langue="fra"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
+\ve <langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
+\vn <langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
+\va <speaker="M21"> ɕi˩dɑ˩˥
+\vf <print="n"> Le locuteur préfère le terme /|fv{ɕi˩dɑ˩˧/}/, plutôt que /|fv{ɕi˧pʰv̩˧}/.
 \va <speaker="M23"> ID.
 \de To open up new land for cultivation, to cultivate virgin land.
 \ge to_open_up_land
@@ -33806,11 +33839,11 @@
 \gn 开荒
 \df Défricher.
 \gf défricher
-\xv lv̩˧pʰv̩˩-hɯ˩
+\xv lv̩˧pʰv̩˩ hɯ˩
 \xe [(S)he] has gone to open up new land.
 \xn 他开荒去了。
 \xf (il/elle) est parti(e) défricher
-\xv lv̩˧pʰv̩˩-bi˩-tso˩-ɲi˩
+\xv lv̩˧pʰv̩˩ bi˩-tso˩-ɲi˩
 \xe It's necessary to go and open up new land for cultivation. / We're going to have to open up new land for cultivation.
 \xn 应该去开荒了。
 \xf Il va falloir aller défricher. / Il va falloir qu'on défriche de nouvelles terres.
@@ -34006,9 +34039,8 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" print="n" langue="fra"> (ton d7; ton vérifié)(n'est pas tɕʰɯ)
-\nt <dom="sem" langue="fra"> personne de Fengke, gens de Fengke
-\nt <dom="phono" langue="fra"> +ɲi˥
+\nt <type="hist" print="n" langue="fra" dom="ton"> ton d7; ton vérifié
+\nt <type="hist" print="n" langue="fra" dom="phono"> Avais noté: ``n'est pas tɕʰɯ".
 \ton LM+#H
 \lc lv̩˩tɕʰɯ˧hĩ˧
 \so F4
@@ -34016,7 +34048,7 @@
 \ge inhabitants_of_Fengke
 \dn 奉科的人
 \gn 奉科的人
-\df Gens de Fengke (Fv-kho).
+\df Gens de Fengke (Fv-kho), personne de Fengke.
 \gf gens_de_Fengke
 
 \lx lv̩˧tsɯ˥
@@ -34197,13 +34229,13 @@
 \lc ɬv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <type="hist" print="n" langue="fra"> (initiale et rime confirmée, n'est pas ɬv̩˩)
+\nt <type="hist" print="n" langue="fra" dom="ton"> Confirmé en 2012: est un ton L.
 \ton Lα
 \so F4
 \va <speaker="F5"> ɬɯ˩
+\vf <type="hist" print="n" langue="fra" dom="phono"> Initiale et rime confirmées, n'est pas /ɬv̩˩/
 \va <speaker="M21"> lv̩˩
-\vf <print="n"> ton 3: tʰi˧-lv̩˩; ex.: ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩ “garder un médicament dans la bouche"
+\vf <print="n"> /tʰi˧-lv̩˩/; ex.: /ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩/ “garder un médicament dans la bouche"
 \de To hold in the mouth; to let melt in the mouth.
 \ge to_hold_in_the_mouth
 \dn 含在嘴里、在嘴巴里溶化
@@ -34257,15 +34289,15 @@
 \lc ɬv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> tv; confirmé: n'est pas ɬɯ(confirmé en 2012: est un ton L)
-\nt <type="hist" print="n" langue="fra"> ton 3b: hɑ˧ɬɯ˧˥ (F5 confirme qu'il s'agit de /ɬɯ/ et pas /ɬv/)
-\nt <dom="phono" langue="fra"> ton 3b (lə˧ɬv̩˩ze˩; phonétiquement: le˧ɬv̩˩ze˩); cf “tiède"
+\nt <type="hist" print="n" langue="fra" dom="phono"> Confirmé: n'est pas /ɬɯ/.
+\nt <dom="ton" langue="fra" type="hist" print="n"> Note ancienne: "ton 3b (le˧-ɬv̩˩-ze˩)". Confirmé en 2012: est un ton L.
 \ton Lα
 \so F4
 \va <speaker="F5"> ɬɯ˩
+\nt <type="hist" print="n" langue="fra"> F5 confirme qu'elle prononce /ɬɯ/ et pas /ɬv/. Cette prononciation est stable: elle apparaît à l'isolée ainsi que dans /hɑ˧ ɬɯ˧˥/ `réchauffer de la nourriture'.
 \vf <dom="ton"> L
 \va <speaker="M21"> ID.
-\vf <print="n"> ɬv̩˩ɬv̩˩˥, hɑ˧ ɬv̩˥ɬv̩˩, (hɑ˧) le˧ ɬv̩˩ɬv̩˩, hɑ˧ɬv̩˧˥, hɑ˧ ɬv̩˧ zi˥.
+\vf <print="n"> M21 dit /hɑ˧ ɬv̩˧˥/, /hɑ˧ ɬv̩˧-ze˥/, comme F4. En revanche, la forme rédupliquée n'est pas /ɬv̩˧~ɬv̩˥/ comme chez F4, mais /ɬv̩˩~ɬv̩˩˥/: /hɑ˧ ɬv̩˥~ɬv̩˩/, /(hɑ˧ | ) le˧-ɬv̩˩~ɬv̩˩
 \de To warm up (food).
 \ge to_warm
 \dn 热饭
@@ -34284,7 +34316,6 @@
 \xe to warm up food a little
 \xn 饭热一热
 \xf réchauffer un peu la nourriture
-\dt 04/Sep/2015
 
 \lx lv̩˩~lv̩˧˥
 \sf <nb="B"> 1224
@@ -36433,17 +36464,16 @@
 \or mu
 \ps n
 \lc mv̩˧
-\at di˩˥
+\an di˩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <langue="pumi" dom="comp" print="n"> mə51
-\nt <type="hist" print="n" langue="fra"> confirmé: n'est pas le même ton que chez la locutrice F5; le monosyllabe n'a pu être élicité en cadre /ʈʂʰɯ…ɲi/; si je désigne le ciel, la locutrice indique “esprit du ciel", 660b (mv̩˧gɤ˧lɑ˥)
-\nt <type="hist" print="n" langue="fra"> N'a pu être élicité en cadre. Ton différent de F4.
-\nt <dom="phono" langue="fra"> Ce mot présente un comportement tonal irrégulier en composition. Cf: mv̩˧ʁu˥, mv̩˧hĩ˥ yyyy
+\nt <type="hist" print="n" langue="fra"> Ce mot n'a pu être élicité en cadre /ʈʂʰɯ…ɲi/. Lorsque l'enquêteur désigne le ciel, la locutrice indique “esprit du ciel", /mv̩˧-gɤ˧lɑ˥/.
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
 \vf <dom="ton"> M
+\vf <type="hist" print="n" langue="fra"> Confirmé: locutrice F4 et locutrice F5 n'ont pas le même ton pour ce mot.
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
 \de Sky.
@@ -36456,15 +36486,19 @@
 \xe the day is bright, the sky is clear
 \xn 天晴，天色亮
 \xf il fait clair, il fait grand jour, le ciel est clair
+\xv tsʰi˧ɲi˧, | mv̩˧ dʑɤ˥!
+\xe Today, the weather is fair! / The weather is fine today!
+\xn 今天天气好！
+\xf Aujourd'hui, il fait beau!
 \xv hĩ˧-ɳɯ˩ mɤ˩-do˩, | mv̩˧-ɳɯ˩ | do˩˥!
 \xe “What humans do not see, the Heavens see it!" (Meaning: a good deed earns one happiness in future; and a count of bad deeds, even those that go unseen by humans, is also kept in the Heavens.)
 \xn “人看不见的，老天能看见！” 对应汉语的：人在做，天在看。
 \xf «Ce que les hommes ne voient pas, le ciel le voit!» (Sens: une bonne action n'est jamais perdue, et une mauvaise reçoit sa punition dans le monde d'en haut.)
 \xc PROVERBE
-\xv tsʰi˧ɲi˧, | mv̩˧ dʑɤ˥!
-\xe Today, the weather is fair! / The weather is fine today!
-\xn 今天天气好！
-\xf Aujourd'hui, il fait beau!
+\txtsup Reward.36
+\doisup 10.24397/pangloss-0004447#S36
+\txtsup Reward.62
+\doisup 10.24397/pangloss-0004447#S62
 
 \lx mv̩˥
 \sf <nb="B"> 20
@@ -36735,7 +36769,7 @@
 \gf demander
 \xv le˧-mv̩˩do˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv mv̩˩do˩-ze˥
 \xe |fg{pfv}
@@ -38542,7 +38576,7 @@
 \xc PHONO
 \xv le˧-nɑ˩~nɑ˩
 \xe |fg{accomp} |fg{red}
-\xn |fg{accomp} |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} |fg{red}
 \xc PHONO
 \xv lo˩qʰwɤ˥ | nɑ˩~nɑ˧˥
@@ -39721,11 +39755,17 @@
 \sf <nb="B"> 3b
 \sf <nb="2011"> 7
 \or nimi keeshi
+\ets ɲi˧mi˧
+\ets kʰɯ˧ʂɯ#˥
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> +ɲi˩, càd se comporte comme le schéma tonal d1 des disyllabes. /kʰɯ˧ʂɯ˧/ porte un ton d2a (kʰɯ˧ʂɯ˧ɲi˥); le quadrisyllabe résulte donc de: d1+d2a. Schéma tonal régulier. (antérieurement noté ɲi˥mi˥kʰɯ˥ʂɯ˥)
-\nt <dom="sem" langue="fra"> Le mot désigne les rayons du soleil, tels qu'on les voit le matin à la faveur des brumes matinales, ou à la faveur de la fumée dans la pièce principale de la maison. Il n'est pas associé à une heure particulière de la journée: les rayons du soleil couchant sont désignés du même terme. Formé de “soleil", “fil", et “nouveau", d'où le sens de: la primeur du soleil, les premiers rayons du soleil.
+\nt <type="hist" print="n" langue="fra"> Premières notes: ‡ɲi˥mi˥kʰɯ˥ʂɯ˥.
+\nt <type="hist" print="n" langue="fra" dom="ton"> La copule prend un ton L après ce mot (/ɲi˩/), qui se comporte donc comme un disyllabe de schéma tonal d1 (ton M). Le mot [kʰɯ˧ʂɯ˧] porte un ton d2a (kʰɯ˧ʂɯ˧ ɲi˥); le quadrisyllabe résulte donc de: d1+d2a. Schéma tonal régulier.
+\nt <dom="sem" langue="fra"> Le mot désigne les rayons du soleil, tels qu'on les voit le matin à la faveur des brumes matinales, ou à la faveur de la fumée dans la pièce principale de la maison. Il n'est pas associé à une heure particulière de la journée: les rayons du soleil couchant sont désignés du même terme.
+\nt <dom="sem" langue="eng"> The word refers to the sun's rays, as visible in the morning mist or in the smoke of the fire in the main room of the house. It is not associated with a particular time of day: the rays of the setting sun are also referred to by the same term.
+\nt <dom="sem" langue="cmn"> 这个词指的是太阳的光芒，在晨雾中或房屋正厅的炊烟中能看到。它与一天中的某个特定时间无关：也能来指夕阳的余晖。
+\nt <dom="sem" langue="fra"> On ne peut dire: ‡/ɬi˧mi˧-kʰɯ˧ʂɯ˧/ “les rayons de la lune, les premiers rayons de la lune à son lever".
 \ton M
 \lc ɲi˧mi˧kʰɯ˧ʂɯ˧
 \so F4
@@ -39734,18 +39774,37 @@
 \pdv kʰɯ˩
 \de Rays (of sunshine).
 \ge rays_of_sunshine
-\dn 太阳的光线
-\gn 太阳的光线
+\dn 太阳的光芒、太阳的光线
+\gn 太阳的光芒
 \df Rayons du soleil.
 \gf rayons_du_soleil
-\xv ɲi˧mi˧ gɤ˩-pɤ˩, | ɲi˧mi˧kʰɯ˧ʂɯ˧!
+\xv ɲi˧mi˧ gɤ˩-pɤ˩, | ɲi˧mi˧-kʰɯ˧ʂɯ˧!
 \xe The sun is coming up, and there are rays of sunshine!
 \xn 太阳出来了，有一缕阳光！
 \xf Le soleil se lève, il y a des rayons de soleil!
-\xv ɲi˧mi˧kʰɯ˧ʂɯ˧ | tʰi˧-qʰæ˧-ze˥!
+\xv ɲi˧mi˧-kʰɯ˧ʂɯ˧ | tʰi˧-qʰæ˧-ze˥!
 \xe The sun is shining! (This is the signal that it's time to get up.)
 \xn 阳光明媚！（这是该起床的信号）
 \xf Les rayons du soleil sont là! (C'est le signal qu'il est temps de se lever.)
+
+\lx kʰɯ˧ʂɯ#˥
+\or keeshi
+\ets kʰɯ˩
+\ets ʂɯ˧˥2
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\ton #H
+\lc kʰɯ˧ʂɯ˧
+\cf ɲi˧mi˧-kʰɯ˧ʂɯ˧
+\so F4
+\pdv kʰɯ˩
+\de Visible rays (of sunshine); first rays (of sunshine) in the morning. Made up of ‘thread’ and ‘new’.
+\ge rays
+\dn 光线（由‘线’与‘新’组成，指雾或烟中能看到的光线）
+\gn 光线
+\df Rayons visibles (du soleil); premiers rayons (de soleil) le matin. Formé de ‘fil’ et ‘neuf’.
+\gf rayons
 
 \lx ɲi˧mi˧-ʈæ˧ʂɯ˧
 \sf <nb="2011"> 3074
@@ -40376,7 +40435,7 @@
 \gf tordre_avec_les_doigts
 \xv le˧-ɲi˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv sɑ˧ ɲi˥
 \xe to twine hemp (to make thread)
@@ -41480,7 +41539,7 @@
 \sd <langue="eng"> plant
 \ec <langue="fra"> De |fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.
 \ec <langue="eng"> From |fv{njɤ˧˥1} to glue', |fv{njɤ˧˥2} ‘sticky'. The seeds of this plant attach themselves very effectively to furs and fabrics.
-\ec <langue="cmn"> 这种植物的种子能非常有效地附着在毛皮和织物上。来自|fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.yyyyyy
+\ec <langue="cmn"> 来自|fv{njɤ˧˥1}‘粘'，|fv{njɤ˧˥2}‘粘’。这种植物的种子能非常有效地附着在毛皮和织物上。
 \nt <type="hist" print="n"> Voir photographie de la plante: photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
@@ -41783,7 +41842,7 @@
 \xf mettre du lait dans la farine grillée, mélanger la farine grillée avec du lait
 \xv le˧-no˩
 \xe |fg{accomp} 〜
-\xn |fg{accomp} 〜
+\xn 实施 〜
 \xf |fg{accomp} 〜
 \xc PHONO
 \xv hɑ˧-qo˩ | tɕæ˧ɻæ˩ tʰi˩-no˩: hɑ˧-qo˩ | tɕæ˧ɻæ˩ tʰi˩-kʰɯ˩
@@ -42000,7 +42059,7 @@
 \gf pister
 \xv le˧-nv̩˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv ʈʂɤ˩nv̩˩
 \xe to chase after, to pursue
@@ -44561,7 +44620,7 @@
 \gf 包::emballer
 \xv le˧-po˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \dt 26/Apr/2017
 
@@ -46219,6 +46278,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté tse˥pʰv̩˧, par erreur) (d'abord noté /tse/ et non /tsɤ/)
+\nt <type="hist" print="n" langue="fra"> vérifier la relation entre ce terme et celui noté /pʰv̩˩b/ 's'agiter': il s'agit sans doute du même mot.
 \ton MH
 \lc pʰv̩˧˥
 \so F4
@@ -46453,7 +46513,7 @@
 \xf |fg{pfv}
 \xv le˧-pv̩˧ɭɯ˧
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv gɤ˩-pv̩˧ɭɯ˧, | mv̩˩-pv̩˧ɭɯ˧
 \xe to roll in all directions (literally: rolling up, rolling down)
@@ -46784,7 +46844,7 @@
 \xf Je vais presser ça! / je m'occupe de serrer ça/presser ça!
 \xv le˧-pɻ̩˥ʈʂɯ˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 
 \lx pɻ̩˩tsɯ˧-pɻ̩˥mi˩
@@ -47185,7 +47245,7 @@
 \gf déplacer
 \xv le˧-qæ˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv tso˧~tso˧ | le˧-qæ˧~qæ˧
 \xe to move things around
@@ -47229,11 +47289,11 @@
 \xf |fg{red}: échanger (un objet contre un autre)
 \xv qæ˧~qæ˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
-\xn |fg{red} |fg{inceptive}
+\xn 〜 重叠 |fg{inceptive}
 \xf |fg{red} |fg{inchoatif}
 \xv qæ˧~qæ˧-ɻ̩˧-ze˥
 \xe |fg{red} |fg{inceptive} |fg{pfv}
-\xn |fg{red} |fg{inceptive} |fg{pfv}
+\xn |〜 重叠 |fg{inceptive} |fg{pfv}
 \xf |fg{red} |fg{inchoatif} |fg{pfv}
 \xv tso˧~tso˧ qæ˧~qæ˧
 \xe to exchange things
@@ -47242,7 +47302,7 @@
 \xc PHONO
 \xv le˧-qæ˧~qæ˧(-ze˩)
 \xe |fg{accomp} |fg{red} (|fg{pfv})
-\xn |fg{accomp} |fg{red} (|fg{pfv})
+\xn 实施 〜 重叠（＋整体体）
 \xf |fg{accomp} |fg{red} (|fg{pfv})
 \dt 11/Sep/2015
 
@@ -49937,9 +49997,8 @@
 \xf |fg{pfv}
 \xv le˧-qʰv̩˩~qʰv̩˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
-\dt 27/Apr/2017
 
 \lx qwæ˩˥
 \sf <nb="2011"> 176
@@ -50627,7 +50686,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf se_gratter
 \xv le˧-qwæ˧~qwæ˩-ze˩
 \xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体
 \xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xv gv̩˧dv̩˧ qwæ˩~qwæ˩
 \xe to scratch one's back
@@ -52158,7 +52217,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁæ˩˥
 \so F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> ID
+\va <speaker="M21"> ID.
 \de To fall apart, to scatter, to melt (e.g. clods of dry earth melting in water when a field is irrigated after ploughing).
 \ge to_dissolve
 \dn 散、散开，化，溶化（一块土在水里面散开）
@@ -52755,7 +52814,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf se rassembler
 \xv le˧-ʁo˧dzi˥ (+ze˩)
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv hĩ˧ | tʰi˧-ʁo˧dzi˥ tsʰɯ˩(-ze˩)
 \xe People have come together.
@@ -53063,7 +53122,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dv ʐɤ˩mi˩˥ | le˧-ʂe˧ mɤ˧-ɖɯ˧!
 \xv le˧-ʁo˧lv̩˧
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 
 \lx ʁo˧mæ˧
@@ -53676,7 +53735,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf avaler
 \xv le˧-ʁv̩˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xc <dom="phono" langue="fra"> Réalisation phonétique proche de [|fv{læ˧ʁv̩˥}].
 \xc <dom="phono" langue="eng"> Phonetic realization: close to [|fv{læ˧ʁv̩˥}].
@@ -54439,7 +54498,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf (il) est en mauvaise passe!/il est à la rue!
 \xv le˧-ɻ̩̃˧-bi˧
 \xe |fg{accomp} 〜 |fg{fut_imm}
-\xn |fg{accomp} 〜 |fg{fut_imm}
+\xn 实施 〜 近将来
 \xf |fg{accomp} 〜 |fg{fut_imm}
 \xc PHONO
 \xv mɤ˧-ɻ̩̃˥
@@ -55057,7 +55116,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf attacher/nouer
 \xv le˧-ʂæ˧˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv hɑ˧ ʂæ˩
 \xe to tie freshly cut rice into bundles
@@ -55079,9 +55138,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 重叠：包一包
 \xf |fg{red}: emballer, envelopper
 \xv ʂæ˩~ʂæ˧-ze˥
-\xe |fg{red} |fg{accomp}
-\xn |fg{red} |fg{accomp}
-\xf |fg{red} |fg{accomp}
+\xe |fg{red} |fg{pfv}
+\xn 〜 重叠 整体体
+\xf |fg{red} |fg{pfv}
 \xc PHONO
 \xv tso˧~tso˧ ʂæ˥~ʂæ˩
 \xe to wrap things
@@ -57343,7 +57402,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf C'est moi qui choisis!
 \xv le˧-si˥~si˩
 \xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
 \xv tso˧~tso˧ si˩
 \xe to choose things
@@ -60408,7 +60467,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf remuer
 \xv le˧-ʂwæ˧
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xc PHONO
 \xv mɤ˧-ʂwæ˧
@@ -62145,7 +62204,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf démanger
 \xv le˧-ʈʰæ˩~ʈʰæ˩-ze˩
 \xe |fg{accomp} |fg{red} |fg{pfv}
-\xn |fg{accomp} |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体
 \xf |fg{accomp} |fg{red} |fg{pfv}
 \dt 27/Apr/2017
 
@@ -66545,7 +66604,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf avoir_un_lien_de_parenté
 \xv le˧-to˧~to˥
 \xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
 \xv qʰwɤ˩ɖɯ˩˥ | le˧-to˩-ze˩
 \xe We have acquired a family tie! (through adoption, marriage…)
@@ -66838,7 +66897,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf frapper_du_pied/briser
 \xv le˧-tsɑ˧-ze˥
 \xe |fg{accomp}+|fg{pfv}
-\xn |fg{accomp}+|fg{pfv}
+\xn 实施 〜 整体体
 \xf |fg{accomp}+|fg{pfv}
 \xv ʈʂe˧ tsɑ˩
 \xe to smash clods of earth, after ploughing (with a hand instrument, such as a hoe)
@@ -68814,7 +68873,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf tse˩ʈʂʰv̩˩-kʰv̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> voir récit “frère et sœur"
 \ton L
 \lc tse˩ʈʂʰv̩˩˥
 \so F4
@@ -68824,7 +68882,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 骂狗的话
 \df Sac à puces: terme d'insulte pour un chien.
 \gf sac_à_puces
-\dt 08/Oct/2015
+\txtsup Sister.20
+\doisup 10.24397/pangloss-0004342#S20
 
 \lx tse˩ʈʂʰv̩˩-kʰv̩˥
 \sf <nb="2011"> 2851
@@ -71817,7 +71876,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv le˧-tsɯ˧~tsɯ˧
 \xe |fg{accomp} |fg{red}
-\xn |fg{accomp} |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} |fg{red}
 \xc PHONO
 \xv tʰi˧-tsɯ˧~tsɯ˧
@@ -73737,11 +73796,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf danser ensemble, danser en groupe
 \xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
-\xn |fg{red} |fg{inceptive}
+\xn 〜 重叠 |fg{inceptive}
 \xf |fg{red} |fg{inchoatif}
 \xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
 \xe |fg{accomp} |fg{red} |fg{pfv}
-\xn |fg{accomp} |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体
 \xf |fg{accomp} |fg{red} |fg{pfv}
 \xc PHONO
 
@@ -75728,7 +75787,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf mâcher
 \xv le˧-v̩˧~v̩˧ +ze˩
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜（＋整体体）
 \xf |fg{accomp}
 \xv le˧-wo˧ v̩˧~v̩˧
 \xe to chew the cud
@@ -77172,12 +77231,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf dormir
 \xv le˧-ʑi˧˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xc PHONO
 \xv le˧-ʑi˧-ze˥
 \xe |fg{accomp}  |fg{pfv}
-\xn |fg{accomp}  |fg{pfv}
+\xn 实施 〜 整体体
 \xf |fg{accomp}  |fg{pfv}
 \xc PHONO
 \xv æ̃˩ ʑi˧-ze˥
@@ -77551,7 +77610,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf dormir
 \xv le˧-ʑi˧ŋv̩˥
 \xe |fg{accomp}
-\xn |fg{accomp}
+\xn 实施 〜
 \xf |fg{accomp}
 \xv ʑi˧ŋv̩˥-ho˩
 \xe is going to sleep
@@ -78458,7 +78517,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf 〜 |fg{red} |fg{pfv}
 \xv le˧-ʐo˩~ʐo˩
 \xe |fg{accomp} 〜 |fg{red}
-\xn |fg{accomp} 〜 |fg{red}
+\xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv ʐo˩~ʐo˧ bi˧
@@ -79649,7 +79708,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf |fg{red}
 \xv le˧-ʐɻ̩˧~ʐɻ̩˥-ze˩
 \xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体
 \xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 
 \lx ʐv̩˩α
@@ -79767,10 +79826,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 
 \lx ʐwæ˧nɑ˥
 \or ruaena
+\ets ʐwæ˥
+\ets nɑ˩β
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\cf ʐwæ˥
 \ton H#
 \lc ʐwæ˧nɑ˥
 \so F4
@@ -80313,7 +80373,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv le˧-ʐwɤ˧~ʐwɤ˥-ze˩
 \xe |fg{accomp} |fg{red} |fg{pfv}
-\xn |fg{accomp} |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体
 \xf |fg{accomp} |fg{red} |fg{pfv}
 \xc PHONO
 \xv ʐwɤ˧qʰwæ˧-ʈʂɯ˧qʰwæ˧ ɲi˩!
