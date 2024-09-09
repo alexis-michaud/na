@@ -46,3 +46,6 @@ Huitième et dernière des huit courtes interviews données (le même jour) par 
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：赢了
 \xf |fg{accomp} 〜 |fg{pfv}
+
+<langue="fra".+langue
+vc\s*<((?:(?!langue=)[^>])+)>

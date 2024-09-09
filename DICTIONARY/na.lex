@@ -13,7 +13,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˩˧
-\vf <print="n"> Pas de nasalité chez M23.
+\vc <langue="fra" print="n"> Pas de nasalité chez M23.
 \pdv mi˩
 \de Chicken.
 \ge chicken
@@ -78,13 +78,13 @@
 \lc æ̃˧
 \so F4
 \va <speaker="F5"> æ̃˧
-\vf <print="n"> Ton différent de celui de la locutrice de référence.
-\vf <dom="ton" print="n"> M
+\vc <langue="fra" print="n"> Ton différent de celui de la locutrice de référence.
+\vc <langue="fra" dom="ton" print="n"> M
 \va <speaker="M18"> æ˧
 \va <speaker="M21"> æ˧
 \va <speaker="M23"> æ˧
-\vf <print="n"> Ton différent de celui de la locutrice de référence.
-\vf <print="n"> Pas de nasalité sur cette syllabe, non plus que dans le mot «poulet».
+\vc <langue="fra" print="n"> Ton différent de celui de la locutrice de référence.
+\vc <langue="fra" print="n"> Pas de nasalité sur cette syllabe, non plus que dans le mot «poulet».
 \de Brass, copper, bronze.
 \ge brass
 \dn 铜，包括黄铜、红铜、青铜
@@ -480,7 +480,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> æ˩ɬi˧pʰæ˧˥
-\vf <type="hist" print="n" langue="fra"> Ton vérifié. En cadre: /ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥/.
+\vc <type="hist" print="n" langue="fra"> Ton vérifié. En cadre: /ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥/.
 \pdv pʰæ˧˥
 \de Mirror.
 \ge mirror
@@ -562,7 +562,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> æ˩ me˧ mv̩˧ ɖʐv̩˥
-\vf <print="n"> sens vérifié
+\vc <langue="fra" print="n"> sens vérifié
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
@@ -632,7 +632,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> æ˧ni˧
-\vf <print="n"> non palatalisé
+\vc <langue="fra" print="n"> non palatalisé
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Suona, trumpet.
@@ -802,7 +802,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧qæ˩
-\vf <print="n"> +ɲi˩
+\vc <langue="fra" print="n"> +ɲi˩
 \pdv mi˩
 \de Parrot.
 \ge parrot
@@ -1119,8 +1119,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> æ˧ʂæ˧qʰwɤ˧
-\vf <type="hist" print="n" langue="fra" dom="phono"> D'abord noté …kʶwɑ˧.
-\vf <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés. Avais d'abord noté M.M.H (˧ ˧ ˥).
+\vc <type="hist" print="n" langue="fra" dom="phono"> D'abord noté …kʶwɑ˧.
+\vc <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés. Avais d'abord noté M.M.H (˧ ˧ ˥).
 \va <speaker="M21"> ID.
 \pdv kʰwɤ˥
 \de Story, folk tale.
@@ -1613,7 +1613,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <dom="ton" print="n"> Réalisé montant en forme de citation. Voir commentaire au sujet de la variation entre ton montant et ton M à l'isolée chez la locutrice F4.
+\vc <langue="fra" dom="ton" print="n"> Réalisé montant en forme de citation. Voir commentaire au sujet de la variation entre ton montant et ton M à l'isolée chez la locutrice F4.
 \pdv ʈʰɤ˥
 \pdc <langue="fra"> un petit bout de corde
 \pdv ɖæ˩
@@ -1998,8 +1998,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> bɑ˧lɑ˧kʰɯ˧tsʰɤ#˥
-\vf <print="n"> ton différent de F4
-\vf <print="n"> La composante /bɑ˧lɑ˧/ de ce mot n'est pas perçue comme étant le même mot que “vêtement" /bɑ.lɑ/.
+\vc <langue="fra" print="n"> ton différent de F4
+\vc <langue="fra" print="n"> La composante /bɑ˧lɑ˧/ de ce mot n'est pas perçue comme étant le même mot que “vêtement" /bɑ.lɑ/.
 \va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
 \pdv kʰɯ˩
 \de Spider.
@@ -2060,7 +2060,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <dom="phono" print="n"> réalisé proche de: [bæ˩li˥li˥]
+\vc <langue="fra" dom="phono" print="n"> réalisé proche de: [bæ˩li˥li˥]
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de China fir cone.
@@ -2299,7 +2299,7 @@
 \ton LH
 \so F4
 \va <speaker="F5"> bæ˧ʈʂv̩#˥
-\vf <dom="ton" print="n"> H#
+\vc <langue="fra" dom="ton" print="n"> H#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
@@ -2766,7 +2766,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> bi˧hæ˧
-\vf <print="n"> Ton différent de celui de F4, qui est d2; confirmé.
+\vc <langue="fra" print="n"> Ton différent de celui de F4, qui est d2; confirmé.
 \va <speaker="M23"> bi˧hæ˥
 \pdv kʰɯ˩
 \de Girth (for horse).
@@ -3014,7 +3014,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bi˩ʈʂʰɤ˩
-\vf <print="n"> Selon le locuteur, le mot désigne une barbe très fournie. En fait, il désignait anciennement les favoris.
+\vc <langue="fra" print="n"> Selon le locuteur, le mot désigne une barbe très fournie. En fait, il désignait anciennement les favoris.
 \pdv kʰwɤ˥
 \de Whiskers.
 \ge whiskers
@@ -3389,7 +3389,7 @@
 \ton M
 \so F4
 \va <speaker="F5"> ID.
-\vf <type="hist" print="n" langue="fra"> notes anciennes: "/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: “pente/côte qui retient l'eau"; bu˥: est le même mot que 29d".
+\vc <type="hist" print="n" langue="fra"> notes anciennes: "/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: “pente/côte qui retient l'eau"; bu˥: est le même mot que 29d".
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
@@ -3791,9 +3791,9 @@
 \ton LH
 \so F4
 \va <speaker="F5"> bo˩ɬɑ˧˥
-\vf <dom="ton" print="n"> L+MH#
+\vc <langue="fra" dom="ton" print="n"> L+MH#
 \va <speaker="M21"> bo˩ɬɑ˧
-\vf <type="hist" print="n" dom="ton"> hésitations quant au ton: d'abord noté au ton LM+#H, puis entendu comme un ton LM (28 mai 2008; cf enregistrement audio et électroglottographique). L'hypothèse d'un ton LH est envisagée le 30 mai. Mais le bilan des enregistrements est que le comportement tonal de ‘verrat' est identique à celui de ‘truie' chez ce locuteur.
+\vc <langue="fra" type="hist" print="n" dom="ton"> hésitations quant au ton: d'abord noté au ton LM+#H, puis entendu comme un ton LM (28 mai 2008; cf enregistrement audio et électroglottographique). L'hypothèse d'un ton LH est envisagée le 30 mai. Mais le bilan des enregistrements est que le comportement tonal de ‘verrat' est identique à celui de ‘truie' chez ce locuteur.
 \pdv v̩˧
 \de Boar.
 \ge boar
@@ -3923,7 +3923,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> hwɑ˧ʂɯ˧lɑ˧bv̩˥
-\vf <type="hist" print="n" langue="fra"> +ɲi˩
+\vc <type="hist" print="n" langue="fra"> +ɲi˩
 \de Weevil, snout beetle, |fi{Elaeidobius kamerunicus}.
 \ge weevil
 \dn 象鼻虫，米象
@@ -3944,7 +3944,7 @@
 \ton LM-L#
 \so F4
 \va <speaker="M21"> æ˩mi˧ɳwæ˧tɕʰi˩
-\vf <type="hist" print="n" langue="fra"> F4 ne connaît pas l'expression employée par M21.
+\vc <type="hist" print="n" langue="fra"> F4 ne connaît pas l'expression employée par M21.
 \pdv po˧
 \de Dandelion.
 \ge dandelion
@@ -4038,9 +4038,9 @@
 \ton LM
 \so F4
 \va <speaker="M21"> *
-\vf <dom="dialect"> Le locuteur emploie le mot |fv{bo˩ʈʂɤ˧} (ton: LM). Il s'agirait selon lui d'un mot ancien. Le locuteur le traduit par |fn{种猪}. Il n'emploie pas |fv{/bo˩pʰv̩˧/}.
-\ve <dom="dialect"> The speaker uses the word |fv{bo˩ʈʂɤ˧} (tone: LM). According to him, this is an archaic word. The speaker translates it into Chinese as |fn{种猪}. He does not use the term |fv{/bo˩pʰv̩˧/}.
-\vn <dom="dialect"> 发音人使用|fv{bo˩ʈʂɤ˧}（本调：LM）。据他说，这是一个古词，意思为‘种猪’。他不使用 |fv{/bo˩pʰv̩˧/}这个词。
+\vc <langue="fra" dom="dialect"> Le locuteur emploie le mot |fv{bo˩ʈʂɤ˧} (ton: LM). Il s'agirait selon lui d'un mot ancien. Le locuteur le traduit par |fn{种猪}. Il n'emploie pas |fv{/bo˩pʰv̩˧/}.
+\vc <langue="eng" dom="dialect"> The speaker uses the word |fv{bo˩ʈʂɤ˧} (tone: LM). According to him, this is an archaic word. The speaker translates it into Chinese as |fn{种猪}. He does not use the term |fv{/bo˩pʰv̩˧/}.
+\vc <langue="cmn" dom="dialect"> 发音人使用|fv{bo˩ʈʂɤ˧}（本调：LM）。据他说，这是一个古词，意思为‘种猪’。他不使用 |fv{/bo˩pʰv̩˧/}这个词。
 \pdv v̩˧
 \de Boar.
 \ge boar
@@ -4064,7 +4064,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> *
-\vf <print="n"> Le locuteur utilise la forme /hwɑ˧ʂɯ˧lɑ˧bv̩˥/ (+ɲi˩).
+\vc <langue="fra" print="n"> Le locuteur utilise la forme /hwɑ˧ʂɯ˧lɑ˧bv̩˥/ (+ɲi˩).
 \pdv mi˩
 \de Dung beetle.
 \ge dung_beetle
@@ -4881,7 +4881,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> bv̩˩lv̩˩
-\vf <print="n"> n'est pas /lɯ/
+\vc <langue="fra" print="n"> n'est pas /lɯ/
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Kidneys.
@@ -5677,7 +5677,7 @@
 \ton LH
 \so F4
 \va <speaker="M21"> ɕv̩˩
-\vf <type="hist" print="n" langue="fra"> ɕy˩, ton m1? ɕv̩˩kæ˧˥ “brûler de l'encens"; refuse ɕi˩kæ˩˥, qui désignerait les brûlis créés par les Lolo. Important: pensé à /y/ mais est peut-être analysable comme un allophone de /v/.
+\vc <type="hist" print="n" langue="fra"> ɕy˩, ton m1? ɕv̩˩kæ˧˥ “brûler de l'encens"; refuse ɕi˩kæ˩˥, qui désignerait les brûlis créés par les Lolo. Important: pensé à /y/ mais est peut-être analysable comme un allophone de /v/.
 \de Incense (second syllable).
 \ge incense
 \dn 香（单音节）
@@ -5785,7 +5785,7 @@
 \va <speaker="F5"> *
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕy˩dzɯ˧
-\vf <type="hist" print="n" dom="ton"> +ɲi˩
+\vc <langue="fra" type="hist" print="n" dom="ton"> +ɲi˩
 \pdv dzi˩
 \de Cypress.
 \ge cypress
@@ -5925,7 +5925,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˧ ʈʰæ˧˥
-\vf <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) “personne qui bégaie"; refusé par F4
+\vc <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) “personne qui bégaie"; refusé par F4
 \va <speaker="M21"> ID.
 \de To be a stammerer; to have a stammer.
 \ge to_stammer
@@ -6061,7 +6061,7 @@
 \va <speaker="F5"> ɖɯ˧ hi˧
 \va <speaker="M18"> ɖɯ˧ hi˧
 \va <speaker="M21"> ID.
-\vf <print="n"> ton confirmé
+\vc <langue="fra" print="n"> ton confirmé
 \de 100.
 \ge 100
 \dn 百
@@ -6215,7 +6215,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕju˩li˧˥
-\vf <type="hist" print="n" langue="fra"> /ɕju˩li˧mv̩˥/: jouer de la flûte
+\vc <type="hist" print="n" langue="fra"> /ɕju˩li˧mv̩˥/: jouer de la flûte
 \pdv ɭɯ˧β
 \de Flute.
 \ge flute
@@ -6286,7 +6286,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɕi˩tʰv̩˧˥
-\vf <dom="synt" print="n"> ɕi˩tʰv̩˧-ze˥; hĩ˧ ɕi˥tʰv̩˩
+\vc <langue="fra" dom="synt" print="n"> ɕi˩tʰv̩˧-ze˥; hĩ˧ ɕi˥tʰv̩˩
 \va <speaker="M23"> ɕi˩tʰv̩˧˥
 \de To insult; to criticize.
 \ge to_insult/to_criticize
@@ -6557,7 +6557,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <langue="fra" print="n"> Le locuteur indique aussi: /ɖæ˩ hu˧ sɯ˧sɯ˥/ “la poussière vole partout"
+\vc <langue="fra" print="n"> Le locuteur indique aussi: /ɖæ˩ hu˧ sɯ˧sɯ˥/ “la poussière vole partout"
 \sn 1
 \pdv ti˧˥
 \pdc <langue="fra"> couche
@@ -6819,7 +6819,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> dɤ˧bɤ˧
-\vf <type="hist" print="n" langue="fra"> d'abord noté dɑ˥ bɑ˥
+\vc <type="hist" print="n" langue="fra"> d'abord noté dɑ˥ bɑ˥
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Priest of the local religion.
@@ -7061,7 +7061,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʐɤ˩ɖæ˧
-\vf <langue="fra" print="n"> +ɲi˩; aussi: ʐɤ˩mi˩˥ ɖɯ˧ ɖæ˩
+\vc <langue="fra" print="n"> +ɲi˩; aussi: ʐɤ˩mi˩˥ ɖɯ˧ ɖæ˩
 \va <speaker="M23"> ID.
 \de A section of (road); a bolt of cloth.
 \ge |fg{clf}.section
@@ -7211,7 +7211,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <langue="fra" print="n"> bi˧mi˧di˧˥, ton 4; le˧di˧ze˥
+\vc <langue="fra" print="n"> bi˧mi˧di˧˥, ton 4; le˧di˧ze˥
 \de To run; to have a runny belly = to have diarrhea.
 \ge to_run/to_flow
 \dn 拉（肚子）
@@ -7602,7 +7602,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> note ancienne: “vérifié: n'aime pas ʈʂʰɯ˧ tʰi˧ ɖɤ˧ɖɤ˧ zi˩, veut une première syllabe au ton ˥: ʈʂʰɯ˥; même chose chez F4"
+\vc <langue="fra" print="n"> note ancienne: “vérifié: n'aime pas ʈʂʰɯ˧ tʰi˧ ɖɤ˧ɖɤ˧ zi˩, veut une première syllabe au ton ˥: ʈʂʰɯ˥; même chose chez F4"
 \de To crawl, to creep.
 \ge to_crawl
 \dn 爬行，匍匐
@@ -7767,7 +7767,7 @@
 \lc ɖɤ˧mi˧
 \so F4
 \va <speaker="F5"> dv̩˩˧
-\vf <dom="ton"> LM
+\vc <langue="fra" dom="ton"> LM
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
 \de Fox.
@@ -8008,7 +8008,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <langue="fra" print="n"> Exemple d'emploi: /ɖɯ˧ su˥ mɤ˧-ɖɯ˧/ 'ne rien obtenir'
+\vc <langue="fra" print="n"> Exemple d'emploi: /ɖɯ˧ su˥ mɤ˧-ɖɯ˧/ 'ne rien obtenir'
 \de To obtain, to get.
 \ge to_obtain
 \dn 得到
@@ -8118,7 +8118,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> aussi: kʰv̩˧ʂɯ˥ɬi˩: serait une partie du 12e mois, une quinzaine, celle pendant laquelle on passe l'année
+\vc <langue="fra" print="n"> aussi: kʰv̩˧ʂɯ˥ɬi˩: serait une partie du 12e mois, une quinzaine, celle pendant laquelle on passe l'année
 \va <speaker="M21"> ID.
 \de 1st month.
 \ge 1st_month
@@ -8750,7 +8750,7 @@
 \sd <langue="eng"> verb
 \so F4
 \va <speaker="M23"> tv̩˩
-\vf <type="hist" print="n" langue="fra"> ton 3
+\vc <type="hist" print="n" langue="fra"> ton 3
 \de To poison.
 \ge to_poison
 \dn 毒害、毒化
@@ -8848,7 +8848,7 @@
 \ton MH
 \so F4
 \va <speaker="M23"> ID.
-\vf <print="n"> ton: cf enrt 15/3/09
+\vc <langue="fra" print="n"> ton: cf enrt 15/3/09
 \de Intensive: very, terribly.
 \ge |fg{intensive.very}
 \dn 很、极
@@ -8875,7 +8875,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> M21 se corrige de lui-même: il avait d'abord dit /dʑi˩ ɖwæ˩ ze˥/, formule qu'il refuse ensuite
+\vc <type="hist" print="n" langue="fra"> M21 se corrige de lui-même: il avait d'abord dit /dʑi˩ ɖwæ˩ ze˥/, formule qu'il refuse ensuite
 \de Muddy, turbid.
 \ge turbid
 \dn 浑浊 (水)
@@ -8907,8 +8907,8 @@
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ɖwæ˩ mi˧; 'une flaque': /ɖwæ˥ ɖɯ˧ lɯ˧/ (d'abord noté au ton moyen: ɖwæ˧ ɖɯ˧ lɯ˧); 'une flaque après la pluie': dʑi˧ ɖɯ˧ pʰæ˩ (d'abord noté ˧ ˧, puis avait provisoirement fourni ˧ ˥ comme forme de citation; le lendemain, corrige bien en ˧ ˧, comme attendu), ton d2a: dans la religion locale (bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥ (de: /ɬo/ “profond").
-\vf <print="n" type="hist" print="n"> Notes anciennes: "vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ “estomac", qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme “poulain", ˧ ˧".
+\vc <langue="fra" print="n"> ɖwæ˩ mi˧; 'une flaque': /ɖwæ˥ ɖɯ˧ lɯ˧/ (d'abord noté au ton moyen: ɖwæ˧ ɖɯ˧ lɯ˧); 'une flaque après la pluie': dʑi˧ ɖɯ˧ pʰæ˩ (d'abord noté ˧ ˧, puis avait provisoirement fourni ˧ ˥ comme forme de citation; le lendemain, corrige bien en ˧ ˧, comme attendu), ton d2a: dans la religion locale (bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥ (de: /ɬo/ “profond").
+\vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: "vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ “estomac", qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme “poulain", ˧ ˧".
 \pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Pond.
@@ -9062,9 +9062,9 @@
 \xf bâclé, mal fait (travail)
 \sn 2
 \va <speaker="M21"> dzɑ˥
-\vf <type="hist" print="n" langue="fra"> ton 2
+\vc <type="hist" print="n" langue="fra"> ton 2
 \va <speaker="M23"> ɻ̩̃
-\vf <type="hist" print="n" langue="fra"> homophone de “os"
+\vc <type="hist" print="n" langue="fra"> homophone de “os"
 \de Poor (person).
 \ge poor
 \dn 穷（人）
@@ -9157,7 +9157,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɖʐæ˧qʰæ#˥
-\vf <type="hist" print="n" langue="fra"> ton d2a: /ɖʐæ˧qʰæ˧ ɲi˥/
+\vc <type="hist" print="n" langue="fra"> ton d2a: /ɖʐæ˧qʰæ˧ ɲi˥/
 \de Mud.
 \ge mud
 \dn 泥巴
@@ -9191,7 +9191,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> dze˩qʰwɑ˩˥
-\vf <type="hist" print="n" langue="fra"> ton d3
+\vc <type="hist" print="n" langue="fra"> ton d3
 \va <speaker="M23"> ID.
 \pdv dzi˧
 \de Shoe.
@@ -9978,7 +9978,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> ton 3. /dzi˩ zi˥/, /dzi˩˥/, /mv̩˧ʁu˧ dzi˧ zi˥/, /mv̩˧ʁu˧ dzi˧˥/ “voler dans le ciel"
+\vc <type="hist" print="n" langue="fra"> ton 3. /dzi˩ zi˥/, /dzi˩˥/, /mv̩˧ʁu˧ dzi˧ zi˥/, /mv̩˧ʁu˧ dzi˧˥/ “voler dans le ciel"
 \de To fly.
 \ge to_fly
 \dn 飞
@@ -10162,8 +10162,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dzv̩˧
-\vf <type="hist" print="n" langue="fra"> ton m4a
-\vf <type="hist" print="n" langue="fra"> segments vérifiés; différent de la prononciation de F4, vérifiée le 12/5/08
+\vc <type="hist" print="n" langue="fra"> ton m4a
+\vc <type="hist" print="n" langue="fra"> segments vérifiés; différent de la prononciation de F4, vérifiée le 12/5/08
 \pdv ɭɯ˧β
 \pdc <langue="fra"> On ne peut utiliser le classificateur des outils, nɑ˧
 \de Chisel.
@@ -10189,7 +10189,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˩˥
-\vf <type="hist" print="n" langue="fra"> ton m1
+\vc <type="hist" print="n" langue="fra"> ton m1
 \de Urine.
 \ge urine
 \dn 尿
@@ -10342,7 +10342,7 @@
 \ton M
 \so F4
 \va <speaker="M21"> dʑi˧dzɯ˧
-\vf <type="hist" print="n" langue="fra"> ton d1
+\vc <type="hist" print="n" langue="fra"> ton d1
 \de Oriental white oak.
 \ge oriental_white_oak
 \dn 青冈树、槲栎
@@ -10389,7 +10389,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˧hṽ̩˧
-\vf <type="hist" print="n" langue="fra"> ton d2a
+\vc <type="hist" print="n" langue="fra"> ton d2a
 \va <speaker="M23"> dʑi˧ŋv̩˧
 \pdv ɭɯ˧β
 \de Clothes, clothing.
@@ -10492,7 +10492,7 @@
 \ton L
 \so F4
 \va <speaker="M21"> dzɯ˩tsʰɤ˩
-\vf <print="n"> tons confirmés
+\vc <langue="fra" print="n"> tons confirmés
 \pdv dzi˩
 \de A shrub with sharp thorns.
 \ge shrub_sp
@@ -10760,7 +10760,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <type="hist" print="n" langue="fra"> ton en cadre: noté un m2, puis corrigé en m1; pas adéquat, cf entrée f4
+\vc <type="hist" print="n" langue="fra"> ton en cadre: noté un m2, puis corrigé en m1; pas adéquat, cf entrée f4
 \va <speaker="M23"> ID.
 \de Hail.
 \ge hail
@@ -10790,7 +10790,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n" dom="phono"> L'occlusive initiale de ce mot paraît réalisée phonétiquement avec une prénasalisation, comme dans la série des consonnes prénasalisées de la langue naxi.
+\vc <langue="fra" print="n" dom="phono"> L'occlusive initiale de ce mot paraît réalisée phonétiquement avec une prénasalisation, comme dans la série des consonnes prénasalisées de la langue naxi.
 \de Cold (weather).
 \ge cold
 \dn 冷（天气……）
@@ -10835,7 +10835,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> dzɤ˩
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \va <speaker="M18"> ɖʐɤ˩˥
 \va <speaker="M21"> ID.
 \pdv pɤ˩
@@ -10940,7 +10940,7 @@
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> pour ouvrir une tente: lɑ˧˥, ton 4: le˧ ʈɤ˧ʈɤ˩ tʰi˩ lɑ˩˥; tons vérifiés
+\vc <type="hist" print="n" langue="fra"> pour ouvrir une tente: lɑ˧˥, ton 4: le˧ ʈɤ˧ʈɤ˩ tʰi˩ lɑ˩˥; tons vérifiés
 \de To prop open (a tent).
 \ge to_prop_open
 \dn 撑开（帐篷）
@@ -11357,9 +11357,9 @@
 \so F4
 \va <speaker="M18"> *
 \va <speaker="M21"> dze˧ʈʰæ#˥
-\vf <dom="synt"> calque de |fn{鞋底}
-\ve <dom="synt"> calque of |fn{鞋底}
-\vn <dom="synt"> 复制了‘鞋底’的结构。
+\vc <langue="fra" dom="synt"> calque de |fn{鞋底}
+\vc <langue="eng" dom="synt"> calque of |fn{鞋底}
+\vc <langue="cmn" dom="synt"> 复制了‘鞋底’的结构。
 \de Shoe-pad; insole.
 \ge insole
 \dn 鞋垫
@@ -11401,7 +11401,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> dzɤ˩ɖwæ˩
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \pdv ɖwæ˥
 \de Step of stairs.
 \ge step
@@ -11585,7 +11585,7 @@
 \ton L
 \so F4
 \va <speaker="F4"> dzo˩pʰv̩#˥
-\vf <dom="ton"> LM+#H
+\vc <langue="fra" dom="ton"> LM+#H
 \pdv mi˩
 \pdv ɭɯ˧β
 \de Male lizard.
@@ -11676,7 +11676,7 @@
 \so F4
 \va <speaker="F5"> dzɑ˧qʰwɤ˧ʈʂe˧
 \va <speaker="M21"> dze˧kʰwɤ˧ʈʂe#˥
-\vf <type="hist" print="n" langue="fra"> Segments un peu différents de ceux notés pour F4 (précédemment notés /...kʶwɤ˧.../ puis /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/)
+\vc <type="hist" print="n" langue="fra"> Segments un peu différents de ceux notés pour F4 (précédemment notés /...kʶwɤ˧.../ puis /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/)
 \va <speaker="M23"> dzɑ˧qʰwɤ˧ʈʂe˧
 \pdv ɭɯ˧β
 \de Awl.
@@ -11976,7 +11976,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> ID.
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
@@ -12086,7 +12086,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n" langue="fra"> aussi noté: /kʶɑ˩tsʰɯ˥kʶɑ˩jɤ˥/
+\vc <print="n" langue="fra"> aussi noté: /kʶɑ˩tsʰɯ˥kʶɑ˩jɤ˥/
 \va <speaker="M21"> ID.
 \de Many, much.
 \ge many/much
@@ -12159,9 +12159,9 @@
 \ton M
 \so F4
 \va <speaker="F5"> dʑi˧dv̩˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M21"> dʑi˧dv̩˧
-\vf <type="hist" print="n" langue="fra"> ton d1
+\vc <type="hist" print="n" langue="fra"> ton d1
 \pdv kʰɯ˩
 \de Earthworm.
 \ge earthworm
@@ -12211,7 +12211,7 @@
 \ton #H
 \so F4
 \va <speaker="M21"> dʑi˩dze˩mi˧
-\vf <print="n" langue="fra"> +ɲi˩
+\vc <print="n" langue="fra"> +ɲi˩
 \pdv mi˩
 \de Cicada.
 \ge cicada
@@ -12239,7 +12239,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> dʑi˧ gɤ˧ di˩˥
-\vf <print="n" langue="fra"> gɤ˩˥: 'porter'
+\vc <print="n" langue="fra"> gɤ˩˥: 'porter'
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Carrying/shoulder pole.
@@ -12264,7 +12264,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n" langue="fra"> Emploie également un emprunt: /tʰũ˧/, ton m4.
+\vc <print="n" langue="fra"> Emploie également un emprunt: /tʰũ˧/, ton m4.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Large barrel where drinking water is kept; water trough.
@@ -12412,7 +12412,7 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; d'abord noté ˧ ˥ ˧)
 \so F4
 \va <speaker="M18"> ID.
-\vf <type="hist" print="n" langue="fra"> Noté un /ɖʐɯ˥kʰɯ˩/, mais en relevant: "sans doute erreur sur rime de la dernière syllabe".
+\vc <type="hist" print="n" langue="fra"> Noté un /ɖʐɯ˥kʰɯ˩/, mais en relevant: "sans doute erreur sur rime de la dernière syllabe".
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \de Moment.
@@ -12525,7 +12525,7 @@
 \va <speaker="F5"> dʑi˩ʈʂv̩˩ɭɯ˩
 \va <speaker="M18"> dʑi˩ʈʂv̩˩lv̩˩
 \va <speaker="M21"> dʑi˩nɑ˩hæ˥tʰɑ˩
-\vf <print="n" langue="fra"> Avait d'abord copié le schéma tonal de F4, que je lui fournissais: /dʑi˩ nɑ˩ hæ˩tʰɑ˩˥/. Voyelles confirmées. La périphrase fournie par F5, /dʑi˩ ʈʂv̩˩ lɯ˩˥/, lui paraît “trop simple": langue enfantine.
+\vc <print="n" langue="fra"> Avait d'abord copié le schéma tonal de F4, que je lui fournissais: /dʑi˩ nɑ˩ hæ˩tʰɑ˩˥/. Voyelles confirmées. La périphrase fournie par F5, /dʑi˩ ʈʂv̩˩ lɯ˩˥/, lui paraît “trop simple": langue enfantine.
 \pdv pɤ˩
 \de Water-mill.
 \ge water_mill
@@ -12615,10 +12615,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n" langue="fra"> Le locuteur interprète l'expression comme signifiant littéralement “morceau d'eau" (/ɖɯ˧pʰæ˧˥/ “un morceau").
+\vc <print="n" langue="fra"> Le locuteur interprète l'expression comme signifiant littéralement “morceau d'eau" (/ɖɯ˧pʰæ˧˥/ “un morceau").
 \va <speaker="M21"> dʑi˩ ʈwæ˧˥
-\vf <print="n" langue="fra"> Corrigé le 10/5/08; la veille, avait indiqué: dzɯ˩ ʈwæ˧˥), ton d8; dʑi˩ ʈwæ˧˥ ɲi˩.
-\vf <print="n" langue="fra"> La proximité phonétique entre dʑi et dzɯ est commune à M21 et aux locutrices F4 et F5.
+\vc <print="n" langue="fra"> Corrigé le 10/5/08; la veille, avait indiqué: dzɯ˩ ʈwæ˧˥), ton d8; dʑi˩ ʈwæ˧˥ ɲi˩.
+\vc <print="n" langue="fra"> La proximité phonétique entre dʑi et dzɯ est commune à M21 et aux locutrices F4 et F5.
 \pdv pʰæ˧˥
 \de Ice.
 \ge ice
@@ -13004,7 +13004,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˩ʁv̩˩zɯ˩
-\vf <print="n" langue="fra"> Confirmé: différent de F4: dit /ʁv/ et non /ʁo/.
+\vc <print="n" langue="fra"> Confirmé: différent de F4: dit /ʁv/ et non /ʁo/.
 \pdv qɑ˩
 \pdc <langue="fra"> botte
 \pdv po˧
@@ -13267,7 +13267,7 @@
 \lc dzɯ˧tsɯ˧˥
 \so F4
 \va <speaker="M21"> dʑi˩tsʰɤ˩
-\vf <print="n" langue="fra"> Il pourrait s'agir d'une confusion: incompréhension du mot na fourni lors de l'élicitation.
+\vc <print="n" langue="fra"> Il pourrait s'agir d'une confusion: incompréhension du mot na fourni lors de l'élicitation.
 \pdv pʰæ˧˥
 \de A shrub that grows in Yongning.
 \ge shrub_sp
@@ -13582,7 +13582,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <print="n"> Ton vérifié: +/ɲi˩/.
+\vc <langue="fra" print="n"> Ton vérifié: +/ɲi˩/.
 \pdv ɖʐv̩˧β
 \de An important and unfortunate event, such as a serious accident.
 \ge unfortunate_event
@@ -13993,7 +13993,7 @@
 \nt <type="hist" print="n" langue="fra"> idem 2227: n'utilise pas de terme distinct.
 \so F4
 \va <speaker="M18"> ID.
-\vf <print="n"> Hésitation à l'élicitation. Le locuteur avait d'abord dit, par erreur: /hi˧ɖwæ˧/, ton d2.
+\vc <langue="fra" print="n"> Hésitation à l'élicitation. Le locuteur avait d'abord dit, par erreur: /hi˧ɖwæ˧/, ton d2.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Canine tooth, fang.
@@ -14122,7 +14122,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɖʐwæ˧
-\vf <print="n" langue="fra"> Le ton indiqué est un ton H: |fv{le˧-ɖʐwæ˥-ze˩}. Mais il pourrait y avoir une confusion avec un autre mot qui signifierait ‘bousculer’: le locuteur prend pour exemple |fv{no˥ njɤ˩ ɖʐwæ˩˥}, qui signifierait ‘Tu m'as poussé!/tu m'es rentré dedans volontairement!’
+\vc <print="n" langue="fra"> Le ton indiqué est un ton H: |fv{le˧-ɖʐwæ˥-ze˩}. Mais il pourrait y avoir une confusion avec un autre mot qui signifierait ‘bousculer’: le locuteur prend pour exemple |fv{no˥ njɤ˩ ɖʐwæ˩˥}, qui signifierait ‘Tu m'as poussé!/tu m'es rentré dedans volontairement!’
 \de To quarrel (monosyllabic form).
 \ge to_quarrel
 \dn 吵架
@@ -14248,7 +14248,7 @@
 \lc ə˧bo˥
 \so F4
 \va <speaker="M21"> ə˧bo˧˥
-\vf <type="hist" print="n" langue="fra"> tons vérifiés
+\vc <type="hist" print="n" langue="fra"> tons vérifiés
 \pdv v̩˧
 \de Paternal uncle, brother of the father. (The term refers to a member of the father's family).
 \ge paternal_uncle
@@ -14544,7 +14544,7 @@
 \so F4
 \va <speaker="F4"> ə˧-ze˧~ze˥
 \va <speaker="M21"> ə˧-zɤ˧~zɤ˥
-\vf <type="hist" print="n" langue="fra"> vérifié: n'est pas /dzɤ/; vérifié: n'est pas /e/
+\vc <type="hist" print="n" langue="fra"> vérifié: n'est pas /dzɤ/; vérifié: n'est pas /e/
 \de Slowly.
 \ge slowly
 \dn 慢慢地
@@ -14807,7 +14807,7 @@
 \lc ə˧jɤ˩
 \so F4
 \va <speaker="M21"> *
-\vf <print="n">/ə˧jɤ˩/ est refusé par ce locuteur.
+\vc <langue="fra" print="n">/ə˧jɤ˩/ est refusé par ce locuteur.
 \pdv v̩˧
 \de Maternal aunt (mother's elder sister).
 \ge mother_s_elder_sister
@@ -15045,8 +15045,8 @@
 \lc ə˧mi˧zo˧
 \so F4
 \va <speaker="M18"> ID.
-\vf <type="hist" print="n" langue="fra"> également: /ə˧mi˧ lɑ˧ zo˧/; d'abord noté: (ə˧mi˧ lɑ˧zu˥); /zo˧ lɑ˩ | ə˧mi˧/ (d'abord noté zu˧lɑ˧ə˧mi˧)
-\vf <type="hist" print="n" langue="fra"> vérifié en 2009
+\vc <type="hist" print="n" langue="fra"> également: /ə˧mi˧ lɑ˧ zo˧/; d'abord noté: (ə˧mi˧ lɑ˧zu˥); /zo˧ lɑ˩ | ə˧mi˧/ (d'abord noté zu˧lɑ˧ə˧mi˧)
+\vc <type="hist" print="n" langue="fra"> vérifié en 2009
 \va <speaker="M21"> e˧mi˧zo#˥
 \de Mother and son.
 \ge mother_and_son
@@ -15121,7 +15121,7 @@
 \nt <type="hist" print="n" dom="ton"> Confirmation des tons le onze décembre (2006?): M.M.M.H (˧ ˧ ˧ ˥), on ne peut pas dire M.H.M.M (˧ ˥ ˧ ˧) (schème tonal employé par M18).
 \so F4
 \va <speaker="M18"> æ˧mv̩˥gu˩mi˩
-\vf <type="hist" print="n" dom="ton"> tons vérifiés; d'abord noté /æ˧m˩ gu˧mi˧/, sans changement de ton.
+\vc <langue="fra" type="hist" print="n" dom="ton"> tons vérifiés; d'abord noté /æ˧m˩ gu˧mi˧/, sans changement de ton.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧mv̩˧gu˥mi˩
 \de Sisters, irrespective of age (elder as well as younger). The term is also used to refer to cousins (the daughters of one's mother's sisters).
@@ -15180,7 +15180,7 @@
 \nt <type="hist" print="n" langue="fra"> (tons confirmés)
 \so F4
 \va <speaker="M18"> ə˧ni˧mɤ˩
-\vf <type="hist" print="n" langue="fra"> /ni/: /n/ non palatalisé. Il s'agirait, d'après le locuteur, d'un emprunt au chinois.
+\vc <type="hist" print="n" langue="fra"> /ni/: /n/ non palatalisé. Il s'agirait, d'après le locuteur, d'un emprunt au chinois.
 \de Buddhist nun.
 \ge Buddhist nun
 \dn 尼姑
@@ -15203,7 +15203,7 @@
 \va <speaker="F5"> æ˧tsæ˥kæ˩
 \va <speaker="M18"> ID.
 \va <speaker="M21"> æ̃˧kæ˥tsɯ˩
-\vf <dom="dialect" langue="fra" print="n"> Le terme est connu de F4 mais n'est pas recommandé.
+\vc <dom="dialect" langue="fra" print="n"> Le terme est connu de F4 mais n'est pas recommandé.
 \pdv ɭɯ˧β
 \de Little finger.
 \ge little_finger
@@ -15328,9 +15328,9 @@
 \lc ə˧si˧ə˧pʰv̩˧
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Ancêtres féminins et masculins: outre la formule employée par F4, la locutrice emploie également une formule /ɤ˥ sɯ˥ ɤ˥ pʰv̩˥ tɑ˧ lɑ˧/ (réinterprétation 2024: ə˧si˧-ə˧pʰv̩˧ | tɑ˧ lɑ˧), tons à vérifier: sans doute /tɑ˩lɑ˧/.
+\vc <langue="fra" print="n"> Ancêtres féminins et masculins: outre la formule employée par F4, la locutrice emploie également une formule /ɤ˥ sɯ˥ ɤ˥ pʰv̩˥ tɑ˧ lɑ˧/ (réinterprétation 2024: ə˧si˧-ə˧pʰv̩˧ | tɑ˧ lɑ˧), tons à vérifier: sans doute /tɑ˩lɑ˧/.
 \va <speaker="M21"> *
-\vf <dom="sem" print="n"> Le locuteur refuse la formule /ə˧si˧-ə˧pʰv̩˧/, du fait qu'elle mélangerait des générations distinctes.
+\vc <langue="fra" dom="sem" print="n"> Le locuteur refuse la formule /ə˧si˧-ə˧pʰv̩˧/, du fait qu'elle mélangerait des générations distinctes.
 \va <speaker="M23"> ID.
 \de Ancestors of the third and fourth generations.
 \ge ancestors
@@ -15699,7 +15699,7 @@
 \lc ə˧ze˧
 \so F4
 \va <speaker="M21"> ə˧zɤ˧zɤ˥
-\vf <type="hist" print="n" langue="fra"> Consonne initiale et voyelle vérifiées: la consonne n'est pas /dz/ mais /z/, la voyelle n'est pas /e/ mais /ɤ/. Ex.: travaille doucement/prends ton temps! /ɤ˧-zɤ˧~zɤ˥ ʝi˩!/ (Tons vérifiés, n'est pas ˧ ˧ ˥ ˧. )
+\vc <type="hist" print="n" langue="fra"> Consonne initiale et voyelle vérifiées: la consonne n'est pas /dz/ mais /z/, la voyelle n'est pas /e/ mais /ɤ/. Ex.: travaille doucement/prends ton temps! /ɤ˧-zɤ˧~zɤ˥ ʝi˩!/ (Tons vérifiés, n'est pas ˧ ˧ ˥ ˧. )
 \de Slowly.
 \ge slowly
 \dn 慢慢地
@@ -15730,7 +15730,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n" langue="fra"> Exemple: /e˧ʑi˧ lə˧-mu˩-ze˩/, grand-mère a vieilli
+\vc <print="n" langue="fra"> Exemple: /e˧ʑi˧ lə˧-mu˩-ze˩/, grand-mère a vieilli
 \pdv v̩˧
 \de Grandmother (on mother's side); elderly woman.
 \ge grandmother_on_mother_s_side
@@ -16074,7 +16074,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n" langue="fra"> Exemple: /hĩ˧ ʈʂʰɯ˧-v̩˧, kʰv̩˧ʂæ˧˥ fv̩˧!/ Il aime chasser!
+\vc <print="n" langue="fra"> Exemple: /hĩ˧ ʈʂʰɯ˧-v̩˧, kʰv̩˧ʂæ˧˥ fv̩˧!/ Il aime chasser!
 \de To like.
 \ge to_like
 \dn 喜欢、爱、愿意
@@ -16748,7 +16748,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> Phonétiquement, la réalisation chez ce locuteur comporte une prénasalisation de l'occlusive.
+\vc <langue="fra" print="n"> Phonétiquement, la réalisation chez ce locuteur comporte une prénasalisation de l'occlusive.
 \de To carry on the shoulder; to carry on a shoulder pole.
 \ge to_carry_on_the_shoulder
 \dn 扛，担
@@ -16860,7 +16860,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> Le locuteur indique aussi /ʈæ˧bɤ˧-tsɯ˩ʁo˩/, expression dans laquelle /tsɯ˩ʁo˩˥/ signifierait 'position', 位置.
+\vc <langue="fra" print="n"> Le locuteur indique aussi /ʈæ˧bɤ˧-tsɯ˩ʁo˩/, expression dans laquelle /tsɯ˩ʁo˩˥/ signifierait 'position', 位置.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Temple, monastery.
@@ -16966,11 +16966,11 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> gɑ˧lɑ˧
-\vf <print="n"> tons vérifiés, d'abord noté ˧ ˧; sens: pusa; le locuteur n'entend pas bien la différence qd je lui signale la prononciation gɤ.lɑ de sa mère; il dit “c'est bien pareil".
+\vc <langue="fra" print="n"> tons vérifiés, d'abord noté ˧ ˧; sens: pusa; le locuteur n'entend pas bien la différence qd je lui signale la prononciation gɤ.lɑ de sa mère; il dit “c'est bien pareil".
 \va <speaker="M21"> gɤ˧ɬɑ˧
-\vf <type="hist" print="n" langue="fra"> voyelle vérifiée; ton M vérifié
+\vc <type="hist" print="n" langue="fra"> voyelle vérifiée; ton M vérifié
 \va <speaker="M23"> gɑ˧lɑ˧
-\vf <type="hist" print="n" langue="fra"> ton M vérifié
+\vc <type="hist" print="n" langue="fra"> ton M vérifié
 \pdv v̩˧
 \de God, Pusa, Buddha, Bodhisattva.
 \ge bodhisattva
@@ -17087,10 +17087,9 @@
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté comme voyelle /e/, puis /ə/; notation avant 2014: /gɤ!…/
 \nt <dom="phono" langue="fra"> gɤ˩: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Notation à partir de 2014: /gɤ˩-…/, généralement accompagné d'un accent d'insistance, ↑
-\ton M
+\ton L-M
 \lc gɤ˩qo˥
 \so F4
-\vf <dom="ton"> L-M
 \de Way up there.
 \ge way up there
 \dn 那上面（指高处）
@@ -17606,7 +17605,7 @@
 \sd <langue="eng"> body
 \so F4
 \va <speaker="M21"> v̩˩kv̩˧˥
-\vf <type="hist" print="n" langue="fra"> ton d5a vérifié. Donne: /v̩˩kv̩˧ ɲi˥/. Le locuteur accepte l'identification avec “peau" /ɣɯ/ mais maintient néanmoins la prononciation /v̩/ pour la rime des deux syllabes.
+\vc <type="hist" print="n" langue="fra"> ton d5a vérifié. Donne: /v̩˩kv̩˧ ɲi˥/. Le locuteur accepte l'identification avec “peau" /ɣɯ/ mais maintient néanmoins la prononciation /v̩/ pour la rime des deux syllabes.
 \pdv kʰwɤ˥
 \de Peel, rind.
 \ge peel
@@ -18513,7 +18512,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> / ɻ̊æ˧tʰv̩˧/
-\vf <type="hist" print="n" langue="fra"> d'abord noté /hæ˧tʰv̩˧/ (+ɲi˥) pour 'il vente', /hæ˧/ pour 'vent'. Premières notes de terrain: “sans nasalité, et néanmoins distinct de la syllabe de “chaux": l'initiale est réalisée plus proche de [h] que de [x], c'est-à-dire peu de friction à la glotte ou au palais; comporte une articulation orale".
+\vc <type="hist" print="n" langue="fra"> d'abord noté /hæ˧tʰv̩˧/ (+ɲi˥) pour 'il vente', /hæ˧/ pour 'vent'. Premières notes de terrain: “sans nasalité, et néanmoins distinct de la syllabe de “chaux": l'initiale est réalisée plus proche de [h] que de [x], c'est-à-dire peu de friction à la glotte ou au palais; comporte une articulation orale".
 \pdv kʰwɤ˥
 \de Wind.
 \ge wind
@@ -18550,7 +18549,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lʰæ˧˥
-\vf <type="hist" print="n" langue="fra"> ton 4 ; donne bɑ˩ɬɑ˩lʰæ˧, lə˧lʰæ˧ze˥
+\vc <type="hist" print="n" langue="fra"> ton 4 ; donne bɑ˩ɬɑ˩lʰæ˧, lə˧lʰæ˧ze˥
 \va <speaker="M23"> ID.
 \de To cut (with a blade: sword…), e.g. to cut cloth (to make clothes).
 \ge to_cut
@@ -18870,7 +18869,7 @@
 \so F4
 \va <speaker="F5"> hæ˧bɑ˧lɑ˩
 \va <speaker="M18"> ID.
-\vf <type="hist" print="n" langue="fra"> Littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, M18 ne reconnaît plus
+\vc <type="hist" print="n" langue="fra"> Littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, M18 ne reconnaît plus
 \va <speaker="M21"> ID.
 \vf
 \pdv ɭɯ˧β
@@ -19002,7 +19001,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɻ̊æ˧du˧
-\vf <type="hist" print="n" langue="fra"> première notation: “lʰæ˧du˧; est à nouveau l'initiale dévoisée mais avec articulation buccale, càd pas simple [h]; homophone de “vent", et différente de “chaux"
+\vc <type="hist" print="n" langue="fra"> première notation: “lʰæ˧du˧; est à nouveau l'initiale dévoisée mais avec articulation buccale, càd pas simple [h]; homophone de “vent", et différente de “chaux"
 \va <speaker="M23"> hæ̃˧do˧
 \pdv ɭɯ˧β
 \de Threshing ground.
@@ -19093,7 +19092,7 @@
 \lc hæ˧ɭɯ˧
 \so F4
 \va <speaker="M21"> hæ˧lwɤ˧
-\vf <type="hist" print="n" langue="fra"> ton d2a
+\vc <type="hist" print="n" langue="fra"> ton d2a
 \de Chinese sorghum.
 \ge sorghum
 \dn 高粱
@@ -19116,7 +19115,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> hɑ˧lv̩˧
-\vf <type="hist" print="n" langue="fra"> confirmé, n'est pas /lɯ/
+\vc <type="hist" print="n" langue="fra"> confirmé, n'est pas /lɯ/
 \de Cereals.
 \ge cereals
 \dn 粮食
@@ -19320,7 +19319,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lhæ˩ʂɤ˩
-\vf <type="hist" print="n" langue="fra"> ton d3; réalisation à l'isolée: lhæ˩ʂɤ˩˥
+\vc <type="hist" print="n" langue="fra"> ton d3; réalisation à l'isolée: lhæ˩ʂɤ˩˥
 \va <speaker="M23"> ID.
 \pdv mi˩
 \de Magpie.
@@ -19472,7 +19471,7 @@
 \ton Mα
 \so F4
 \va <speaker="M21"> hɑ˧lʰæ˩
-\vf <type="hist" print="n" langue="fra"> ton 1
+\vc <type="hist" print="n" langue="fra"> ton 1
 \de To use the wind to winnow.
 \ge to_winnow
 \dn 扬（粮食）
@@ -19821,7 +19820,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥; vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
+\vc <type="hist" print="n" langue="fra"> ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥; vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
 \pdv ʂɯ˩
 \pdc <langue="fra"> fois
 \de Rain.
@@ -19910,7 +19909,7 @@
 \lc hi˧dʑi˧
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> Emploie un emprunt: |fv{jo˩pv̩˧˥}
+\vc <langue="fra" print="n"> Emploie un emprunt: |fv{jo˩pv̩˧˥}
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Rain cape, rainware made from straw, rush…
@@ -20042,7 +20041,7 @@
 \ton -L
 \lc hĩ˧lɑ˩kv̩˩hĩ˩
 \so F4
-\vf <type="hist" print="n" langue="fra"> Noté: /ʈɯ˧pʰv̩˩/ 'quelqu'un qui n'écoute rien, qui est entêté': /ʈɯ˧pʰv̩˩ lɑ˧ tʰv̩˧ i:˧ hĩ˧/ “personne très entêtée" xxxx
+\vc <type="hist" print="n" langue="fra"> Noté: /ʈɯ˧pʰv̩˩/ 'quelqu'un qui n'écoute rien, qui est entêté': /ʈɯ˧pʰv̩˩ lɑ˧ tʰv̩˧ i:˧ hĩ˧/ “personne très entêtée" xxxx
 \va <speaker="M21"> mɤ˧ ʑi˧ʑi˩
 \de Dangerous person; enemy.
 \ge dangerous_person
@@ -20545,9 +20544,9 @@
 \ton MH
 \so F4
 \va <speaker="M23"> ID.
-\vf <print="n"> D'après M23, ce verbe signifie ‘boire à grandes lampées’, pas ‘siroter’.
-\ve <print="n"> According to M23, this verb means ‘to drink large gulps’, not ‘to sip’.
-\vn <print="n"> 根据M23，这个动词的意思是‘大口喝’，而不是‘小口喝’。
+\vc <langue="fra" print="n"> D'après M23, ce verbe signifie ‘boire à grandes lampées’, pas ‘siroter’.
+\vc <langue="eng" print="n"> According to M23, this verb means ‘to drink large gulps’, not ‘to sip’.
+\vc <langue="cmn" print="n"> 根据M23，这个动词的意思是‘大口喝’，而不是‘小口喝’。
 \de To sip: to drink by small mouthfuls.
 \ge to_sip
 \dn 小口地喝
@@ -20757,7 +20756,7 @@
 \ton M
 \so F4
 \va <speaker="M23"> ID.
-\vf <type="hist" print="n" langue="fra"> confirmé: pour M23 comme pour F4, englobe tout le Sichuan. /hu˧di˧ kʰi˧˥/ = “parti pour le Sichuan"
+\vc <type="hist" print="n" langue="fra"> confirmé: pour M23 comme pour F4, englobe tout le Sichuan. /hu˧di˧ kʰi˧˥/ = “parti pour le Sichuan"
 \de Chinese (Han) areas of Sichuan: Yanyuan, Yanbian, Xichang…
 \ge Sichuan
 \dn 四川（盐源、盐边、西昌……）
@@ -20837,9 +20836,9 @@
 \ton #H-
 \so F4
 \va <speaker="F5"> ID.
-\vf <type="hist" print="n" langue="fra"> d'abord noté ho˥, puis corrigé en hu˥, puis rétabli /ho/. D'abord noté /tɻ̩˥/, puis /trr/, car la syllabe contient une forme de “trill".
+\vc <type="hist" print="n" langue="fra"> d'abord noté ho˥, puis corrigé en hu˥, puis rétabli /ho/. D'abord noté /tɻ̩˥/, puis /trr/, car la syllabe contient une forme de “trill".
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra">hu˧dʑi˧: ton d2; vérifié: t non rétroflexe; dʑi˩ hṽ̩˧˥, ton d5
+\vc <type="hist" print="n" langue="fra">hu˧dʑi˧: ton d2; vérifié: t non rétroflexe; dʑi˩ hṽ̩˧˥, ton d5
 \de Paste; starch.
 \ge paste
 \dn 浆糊，浆子
@@ -21042,7 +21041,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ʐɯ˩hṽ̩˩
-\vf <type="hist" print="n" langue="fra"> ton d3; donne ʐɯ˩hṽ̩˩ dzɯ˩˧
+\vc <type="hist" print="n" langue="fra"> ton d3; donne ʐɯ˩hṽ̩˩ dzɯ˩˧
 \de Yew.
 \ge 红豆杉::yew
 \dn 红豆杉
@@ -21504,7 +21503,7 @@
 \ton H$
 \so F4
 \va <speaker="F5"> ID.
-\vf <type="hist" print="n" langue="fra"> aussi: we˩˥ (emprunt) et hɑ˧-ho˩mi˩
+\vc <type="hist" print="n" langue="fra"> aussi: we˩˥ (emprunt) et hɑ˧-ho˩mi˩
 \va <speaker="M18"> hu˧mi˥
 \va <speaker="M21"> hu˧mi#˥
 \pdv ɭɯ˧β
@@ -21624,7 +21623,7 @@
 \so F4
 \va <speaker="F5"> hṽ̩˧ɖɻ̩˧˥ | -gv̩˩
 \va <speaker="M21"> hũ˩dv̩˩ɻ̩˧gv̩˩
-\vf <type="hist" print="n" langue="fra"> d'abord noté hũ˩ dv̩˧ lɯ˥ gv̩˩; d'après M23, sens: tout nu, guang1liu1liu1
+\vc <type="hist" print="n" langue="fra"> d'abord noté hũ˩ dv̩˧ lɯ˥ gv̩˩; d'après M23, sens: tout nu, guang1liu1liu1
 \de Clumsy, incapable.
 \ge clumsy
 \dn 笨拙，经常损坏东西
@@ -21887,7 +21886,7 @@
 \ton L#
 \so F4
 \va <speaker="M18"> hwɑ˧pʰæ˩
-\vf <type="hist" print="n" langue="fra"> rime 1e syll. différente de celle de F4
+\vc <type="hist" print="n" langue="fra"> rime 1e syll. différente de celle de F4
 \pdv nɑ˧α
 \de Large hoe.
 \ge large_hoe
@@ -21914,7 +21913,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> hwæ˧pʰæ˥ hṽ̩˩hĩ˩˥, “grande pièce de tissu"
+\vc <type="hist" print="n" langue="fra"> hwæ˧pʰæ˥ hṽ̩˩hĩ˩˥, “grande pièce de tissu"
 \pdv pʰæ˧˥
 \de A piece of cloth.
 \ge piece_of_cloth
@@ -22580,7 +22579,7 @@
 \so F4
 \va <speaker="M18"> *
 \va <speaker="M21"> hwɤ˧mi#˥
-\vf <type="hist" print="n" langue="fra"> ton d2a
+\vc <type="hist" print="n" langue="fra"> ton d2a
 \pdv mi˩
 \de She-cat, queen.
 \ge she_cat
@@ -22693,7 +22692,7 @@
 \so F4
 \va <speaker="F5"> hwɤ˩ʈi˧, hwɤ˩ʈɤ˧
 \va <speaker="M18"> ho˩ ʈi˥
-\vf <dom="phono" print="n"> [xwo]
+\vc <langue="fra" dom="phono" print="n"> [xwo]
 \va <speaker="M21"> ID.
 \de To become rusty, to get rusty, to rust.
 \ge to_rust
@@ -22848,9 +22847,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> *
-\vf <dom="sem"> Le locuteur emploie l'expression |fv{ʈʂʰæ˧v̩˧-nɑ˥}: “médicament noir"
-\ve <dom="sem"> The speaker uses the phrase |fv{ʈʂʰæ˧v̩˧-nɑ˥}, meaning ‘black medicine’.
-\vn <dom="sem"> 发音人的说法是|fv{ʈʂʰæ˧v̩˧-nɑ˥}，意思是‘黑药’。
+\vc <langue="fra" dom="sem"> Le locuteur emploie l'expression |fv{ʈʂʰæ˧v̩˧-nɑ˥}: “médicament noir"
+\vc <langue="eng" dom="sem"> The speaker uses the phrase |fv{ʈʂʰæ˧v̩˧-nɑ˥}, meaning ‘black medicine’.
+\vc <langue="cmn" dom="sem"> 发音人的说法是|fv{ʈʂʰæ˧v̩˧-nɑ˥}，意思是‘黑药’。
 \de Opium.
 \ge opium
 \dn 鸦片
@@ -22953,9 +22952,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <dom="sem"> Le locuteur emploie ce terme pour les boutons qui sont le symptôme de maladies, et emploie le terme |fv{lv̩˧bæ˥} pour les boutons d'acné, qui ne sont pas pathologiques.
-\ve <dom="sem"> The speaker uses this term for pimples that are the symptom of diseases, and uses the term |fv{lv̩˧bæ˥} for acne pimples, which are not pathological.
-\vn <dom="sem"> 说话者用这个词来形容作为疾病症状的丘疹，而用|fv{lv̩˧bæ˥}这个词来形容非病理性的痤疮丘疹。
+\vc <langue="fra" dom="sem"> Le locuteur emploie ce terme pour les boutons qui sont le symptôme de maladies, et emploie le terme |fv{lv̩˧bæ˥} pour les boutons d'acné, qui ne sont pas pathologiques.
+\vc <langue="eng" dom="sem"> The speaker uses this term for pimples that are the symptom of diseases, and uses the term |fv{lv̩˧bæ˥} for acne pimples, which are not pathological.
+\vc <langue="cmn" dom="sem"> 说话者用这个词来形容作为疾病症状的丘疹，而用|fv{lv̩˧bæ˥}这个词来形容非病理性的痤疮丘疹。
 \pdv ɭɯ˧β
 \de Spot, pimple.
 \ge spot
@@ -23626,7 +23625,7 @@
 \ton M
 \so F4
 \va <speaker="M21"> ʝi˧mi#˥
-\vf <print="n"> ton d2a; ton différent de F4, laquelle confirme le schéma d1 en mai 2008
+\vc <langue="fra" print="n"> ton d2a; ton différent de F4, laquelle confirme le schéma d1 en mai 2008
 \pdv ɭɯ˧β
 \de Jar.
 \ge jar
@@ -23735,7 +23734,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> jɤ˩qʰv̩˩
-\vf <type="hist" print="n" langue="fra"> Avais d'abord noté jɤ˩kʶv̩˩˧. Analyse phonémique: jɤ˩qʰv̩˩. Pendant le premier terrain (2006): avais négligé de noter l'aspiration; pensais que l'affrication suffisait pour distinguer ce phonème des vélaires, et négligé l'existence de 2 occlusives uvulaires, l'une aspirée et l'autre non.
+\vc <type="hist" print="n" langue="fra"> Avais d'abord noté jɤ˩kʶv̩˩˧. Analyse phonémique: jɤ˩qʰv̩˩. Pendant le premier terrain (2006): avais négligé de noter l'aspiration; pensais que l'affrication suffisait pour distinguer ce phonème des vélaires, et négligé l'existence de 2 occlusives uvulaires, l'une aspirée et l'autre non.
 \pdv ɭɯ˧β
 \de Sleeve.
 \ge sleeve
@@ -23804,7 +23803,7 @@
 \ton #H
 \so F4
 \va <speaker="M21"> ʝi˧ʁv̩˧
-\vf <type="hist" print="n" langue="fra"> i˧ʁv̩˧ hĩ˧ ɖɯ˧ v̩˧ ɲi˩: n'est pas /i˧u˧/ ni /i˧v̩˧/; différent de F4, qui a /ʁu/.
+\vc <type="hist" print="n" langue="fra"> i˧ʁv̩˧ hĩ˧ ɖɯ˧ v̩˧ ɲi˩: n'est pas /i˧u˧/ ni /i˧v̩˧/; différent de F4, qui a /ʁu/.
 \va <speaker="M23"> ID.
 \de Able, capable, able-bodied.
 \ge able
@@ -23842,7 +23841,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> Utilise un emprunt: jɤ˧sɑ˥.
+\vc <langue="fra" print="n"> Utilise un emprunt: jɤ˧sɑ˥.
 \pdv nɑ˧α
 \de Umbrella.
 \ge 雨伞::umbrella
@@ -24125,9 +24124,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> jo˧
-\vf <print="n"> confirmé: est ton 1 et pas ton 3 chez ce locuteur
+\vc <langue="fra" print="n"> confirmé: est ton 1 et pas ton 3 chez ce locuteur
 \va <speaker="M23"> jo˧
-\vf <print="n"> confirmé: est ton 1 et pas ton 3 chez ce locuteur
+\vc <langue="fra" print="n"> confirmé: est ton 1 et pas ton 3 chez ce locuteur
 \pdv pʰo˧˥α
 \de Sheep.
 \ge sheep
@@ -24354,7 +24353,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ton 4: le˧ jɤ˧˥, le˧ jɤ˧˥ dzɯ˩; ex.: dzɯ˧ di˧ jɤ˥ “lécher une nourriture"; njɤ˧ jɤ˧ bi˧ “je vais lécher"
+\vc <langue="fra" print="n"> ton 4: le˧ jɤ˧˥, le˧ jɤ˧˥ dzɯ˩; ex.: dzɯ˧ di˧ jɤ˥ “lécher une nourriture"; njɤ˧ jɤ˧ bi˧ “je vais lécher"
 \de To lick.
 \ge to_lick
 \dn 舔
@@ -24890,7 +24889,7 @@
 \lc jɤ˩po˥
 \so F4
 \va <speaker="M18"> ɖʐe˥to˧ʂv̩˥kʰɯ˧jɤ˩pu˥
-\vf <type="hist" print="n" langue="fra"> n'est pas /i/; d'abord noté je˩; réécoute 2007: corrigé en jɤ˩
+\vc <type="hist" print="n" langue="fra"> n'est pas /i/; d'abord noté je˩; réécoute 2007: corrigé en jɤ˩
 \va <speaker="M21"> ID.
 \de To gamble, to bet, to wager.
 \ge to_gamble
@@ -24956,7 +24955,7 @@
 \lc jo˩pʰv̩˩˥ ≈ jo˧pʰv̩˧
 \so F4
 \va <speaker="F4"> jo˧pʰv̩#˥
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \pdv pʰo˧˥α
 \pdv mi˩
 \de Male sheep.
@@ -25080,7 +25079,7 @@
 \lc jo˩zo˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \va <speaker="M21"> ID.
 \va <speaker="M23"> jo˧zo˧
 \pdv ɭɯ˧β
@@ -25359,7 +25358,7 @@
 \lc kʰi˧bɤ˧
 \so F4
 \va <speaker="F5"> kʰi˧bɤ˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -25878,7 +25877,7 @@
 \lc kʰo˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> exemple: kʰwɤ˧ɻæ˧ kʰu˧ (tons vérifiés)
+\vc <langue="fra" print="n"> exemple: kʰwɤ˧ɻæ˧ kʰu˧ (tons vérifiés)
 \de To spread (e.g. to do a bed; to spread/scatter objects all over the floor).
 \ge to_spread
 \dn 铺（床……）、铺得满地（果子、工具……）
@@ -26159,7 +26158,7 @@
 \lc kɤ˧kɤ˩
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n" type="hist" print="n"> Notes anciennes: "tso˧~tso˧gwɤ˩˥ tʰi˩ tsɯ˥ +ze˩; /kɤ˥kɤ˧ tʰi˩ tsɯ˥/, /kɤ˥kɤ˧ tʰi˩ tsɯ˥ ze˩/
+\vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: "tso˧~tso˧gwɤ˩˥ tʰi˩ tsɯ˥ +ze˩; /kɤ˥kɤ˧ tʰi˩ tsɯ˥/, /kɤ˥kɤ˧ tʰi˩ tsɯ˥ ze˩/
 \va <speaker="M21"> ID.
 \de Next to, close to.
 \ge close_to
@@ -26237,7 +26236,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <type="hist" print="n" langue="fra"> Donne: /si˧-kɤ˥lo˩/. Est du type “bois"; vérifié, n'est pas /sɯ/
+\vc <type="hist" print="n" langue="fra"> Donne: /si˧-kɤ˥lo˩/. Est du type “bois"; vérifié, n'est pas /sɯ/
 \pdv kɤ˧˥
 \de Branch.
 \ge branch
@@ -26613,7 +26612,7 @@
 \lc kɤ˧v̩˧
 \so F4
 \va <speaker="F5"> kɤ˧v̩˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Amulet.
@@ -26826,7 +26825,7 @@
 \lc ɖɯ˧ kɤ˧˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> sɯ˩kɤ˧˥ ɖɯ˧ kɤ˧˥
+\vc <langue="fra" print="n"> sɯ˩kɤ˧˥ ɖɯ˧ kɤ˧˥
 \de Classifier for sticks/rods.
 \ge |fg{clf}.sticks
 \dn 量词：棍子、树枝（一根）
@@ -26851,7 +26850,7 @@
 \lc ɖɯ˧ kɤ˧˥
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> Utilise un emprunt: /ɖɯ˧ mu˩/; propose: mv̩˧di˥ ɖɯ˧-wu˩
+\vc <langue="fra" print="n"> Utilise un emprunt: /ɖɯ˧ mu˩/; propose: mv̩˧di˥ ɖɯ˧-wu˩
 \va <speaker="M23"> *
 \de A tract of land.
 \ge |fg{clf}.tracts_of_land
@@ -27275,7 +27274,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰɯ˧dv̩˧
-\vf <print="n"> kʰɯ˧ dv̩˧ i:˧ hĩ˥ “personne qui boîte": formulation refusée par F4
+\vc <langue="fra" print="n"> kʰɯ˧ dv̩˧ i:˧ hĩ˥ “personne qui boîte": formulation refusée par F4
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Cripple, lame person.
@@ -27311,7 +27310,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰɯ˧dʑi˥
-\vf <print="n"> l'étymologie imaginée serait: 'pied' + 'faire le tour de'; “qui fait le tour du pied"
+\vc <langue="fra" print="n"> l'étymologie imaginée serait: 'pied' + 'faire le tour de'; “qui fait le tour du pied"
 \va <speaker="M21"> ID.
 \pdv dzi˧
 \pdc <langue="fra"> paire
@@ -27473,7 +27472,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> (d'abord noté kɯ˧ɻ̩˥) ; jouer du violon à 2 cordes: kɯ˩ɻ̩˧hɯ˥
+\vc <langue="fra" print="n"> (d'abord noté kɯ˧ɻ̩˥) ; jouer du violon à 2 cordes: kɯ˩ɻ̩˧hɯ˥
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Two-string violin, erhu.
@@ -27755,8 +27754,8 @@
 \lc kv̩˧˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> lə˧-kv̩˧-ze˥; njɤ˧ kv̩˧˥!
-\vf <print="n"> Le mot se prononcerait de la même façon que le mot prinmi pour “bite"; d'après M21, le mot ferait sursauter les Pumi qui entendent parler na; prononciation en pumi de Yongning: [kv̩˧˥], noté kɯ˧˥ par pʰĩ˥tsʰu˥˩.
+\vc <langue="fra" print="n"> lə˧-kv̩˧-ze˥; njɤ˧ kv̩˧˥!
+\vc <langue="fra" print="n"> Le mot se prononcerait de la même façon que le mot prinmi pour “bite"; d'après M21, le mot ferait sursauter les Pumi qui entendent parler na; prononciation en pumi de Yongning: [kv̩˧˥], noté kɯ˧˥ par pʰĩ˥tsʰu˥˩.
 \de To be able to.
 \ge to_be_able_to
 \dn 会、有能力做
@@ -27834,7 +27833,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> kʰv̩˧ɭɯ˥ pour 生肖
+\vc <langue="fra" print="n"> kʰv̩˧ɭɯ˥ pour 生肖
 \va <speaker="M21"> ID.
 \de Astrological sign.
 \ge astrological_sign
@@ -28504,7 +28503,7 @@
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> kʰv̩˧ʂæ˧˥; kʰv̩˧ʂæ˧ bi˧˥ “aller chasser"
+\vc <langue="fra" print="n"> kʰv̩˧ʂæ˧˥; kʰv̩˧ʂæ˧ bi˧˥ “aller chasser"
 \de To hunt (leading a dog).
 \ge to_hunt
 \dn 打猎、赶走、驱逐
@@ -28554,11 +28553,11 @@
 \ton H$
 \so F4
 \va <speaker="F5"> kv̩˧ʂe#˥
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \va <speaker="M21"> kv̩˧ʂe#˥
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \va <speaker="M23"> ku˧ʂe˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \pdv mi˩
 \de Flea.
 \ge flea
@@ -28705,7 +28704,7 @@
 \lc kʰv̩˧tsʰi˧bo˥tsʰi˩
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> Le locuteur forme une expression /dʑi˩hwæ˩tsɯ˧/ “rat sauvage".
+\vc <langue="fra" print="n"> Le locuteur forme une expression /dʑi˩hwæ˩tsɯ˧/ “rat sauvage".
 \pdv pʰo˧˥α
 \pdv v̩˧
 \de Mole shrew.
@@ -28768,9 +28767,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kv̩˧ɖʐɯ˥
-\vf <print="n"> confirmé: n'est pas ɖʐɤ˥. Tons confirmés. D'abord noté kv̩˥ ɖʐɯ˥
+\vc <langue="fra" print="n"> confirmé: n'est pas ɖʐɤ˥. Tons confirmés. D'abord noté kv̩˥ ɖʐɯ˥
 \va <speaker="M21"> kv̩˧ʈʂɯ˧˥
-\vf <print="n"> Ton d2b. La rime de la deuxième syllabe ressemble à ɤ mais n'est pas ɤ
+\vc <langue="fra" print="n"> Ton d2b. La rime de la deuxième syllabe ressemble à ɤ mais n'est pas ɤ
 \pdv ɭɯ˧β
 \de (finger)nail, (toe)nail.
 \ge (finger/toe)nail
@@ -29088,9 +29087,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰwæ˧ɻæ˧
-\vf <print="n"> parfois réalisé kʰwæ˧ɻ̩˧
+\vc <langue="fra" print="n"> parfois réalisé kʰwæ˧ɻ̩˧
 \va <speaker="M21"> kʰu˧ɻæ#˥
-\vf <print="n"> ton d2a; vérifié: n'est pas /kʰwæ/; confirmé: est le mot qui était utilisé pour désigner les tissus qu'on mettait à même le sol ou sur les meubles
+\vc <langue="fra" print="n"> ton d2a; vérifié: n'est pas /kʰwæ/; confirmé: est le mot qui était utilisé pour désigner les tissus qu'on mettait à même le sol ou sur les meubles
 \va <speaker="M23"> kʰwɤ˧ɻæ#˥
 \pdv tsʰi˥
 \de Felt; extended use: mat (even if not made of felt), cushion…
@@ -29186,7 +29185,7 @@
 \lc kwɤ˧ɭɯ˩
 \so F4
 \va <speaker="M21"> kwɤ˧lv̩˩
-\vf <print="n"> vérifié: n'est pas lɯ˩. Ton d4
+\vc <langue="fra" print="n"> vérifié: n'est pas lɯ˩. Ton d4
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Jug; jar; pitcher; also: treasure, valuable possession.
@@ -29396,7 +29395,7 @@
 \lc ɖɯ˧ kʰwɤ˥
 \so F4
 \va <speaker="F5"> ɖɯ˧-ʁwæ˩
-\vf <print="n"> le ʁ est très affaibli; aussi: ɖɯ˧ ʈʰæ˩˥ pour “une bouchée"
+\vc <langue="fra" print="n"> le ʁ est très affaibli; aussi: ɖɯ˧ ʈʰæ˩˥ pour “une bouchée"
 \va <speaker="M21"> ID.
 \de A piece of, a chunk of; a mouthful of.
 \ge |fg{clf}.chunks
@@ -29775,7 +29774,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> phonétiquement proche de: lɑ˩jye˧ɬi˧. Serait-ce par proximité avec le chinois 月 'mois'?
+\vc <langue="fra" print="n"> phonétiquement proche de: lɑ˩jye˧ɬi˧. Serait-ce par proximité avec le chinois 月 'mois'?
 \de 12th month.
 \ge 12th_month
 \dn 十二月
@@ -30214,7 +30213,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> aussi : æ˧tɑ˩
+\vc <langue="fra" print="n"> aussi : æ˧tɑ˩
 \va <speaker="M21"> ID.
 \de Askew, slanting (e.g. hat).
 \ge askew
@@ -30779,7 +30778,7 @@
 \lc ɬi˧˥
 \so F4
 \va <speaker="M21"> li˧˥
-\vf <type="hist" print="n" dom="phono"> Le locuteur prononce |fv{l} et non |fv{ɬ}. Toutefois, l'une des occurrences est réalisée avec |fv{ɬ}, peut-être par imitation de ma prononciation.
+\vc <langue="fra" type="hist" print="n" dom="phono"> Le locuteur prononce |fv{l} et non |fv{ɬ}. Toutefois, l'une des occurrences est réalisée avec |fv{ɬ}, peut-être par imitation de ma prononciation.
 \de To dry in the sun.
 \ge to_dry_in_the_sun
 \dn 晒干
@@ -30803,7 +30802,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> tʰi˧ɬi˧ tsɑ˥ ɲi˩! “Il est temps de se reposer!" ɖɯ˧su˥ mɤ˧i˥ “ne rien faire du tout, être complètement oisif". Tons vérifiés: tv, est bien i˥, et non i˧
+\vc <langue="fra" print="n"> tʰi˧ɬi˧ tsɑ˥ ɲi˩! “Il est temps de se reposer!" ɖɯ˧su˥ mɤ˧i˥ “ne rien faire du tout, être complètement oisif". Tons vérifiés: tv, est bien i˥, et non i˧
 \de To rest, to relax.
 \ge to_rest
 \dn 休息，松懈
@@ -31307,7 +31306,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɬi˧pæ˥
-\vf <print="n"> ton d7; vérifié: n'est pas d9
+\vc <langue="fra" print="n"> ton d7; vérifié: n'est pas d9
 \pdv ɭɯ˧β
 \pdv dze˩
 \pdc <langue="fra"> paire
@@ -31366,7 +31365,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> Parmi les notes de 2006: "/ɬi˥pi˧/, tons confirmés"
+\vc <langue="fra" print="n"> Parmi les notes de 2006: "/ɬi˥pi˧/, tons confirmés"
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
 \de Ear.
@@ -31505,9 +31504,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> d'abord noté ɬi˩kʶwɤ˩˥; tons confirmés
+\vc <langue="fra" print="n"> d'abord noté ɬi˩kʶwɤ˩˥; tons confirmés
 \va <speaker="M21"> ɬi˧qʰwɤ˩
-\vf <print="n"> ton d4; d'abord noté ɬi˥kʶwɤ˩; ton différent de F4.
+\vc <langue="fra" print="n"> ton d4; d'abord noté ɬi˥kʶwɤ˩; ton différent de F4.
 \pdv ɭɯ˧β
 \de Trousers.
 \ge trousers
@@ -31757,11 +31756,11 @@
 \ton LH
 \so F4
 \va <speaker="F5"> le˩mi˥
-\vf <type="hist" print="n" dom="ton"> ton d'abord noté comme "LML".
+\vc <langue="fra" type="hist" print="n" dom="ton"> ton d'abord noté comme "LML".
 \va <speaker="M18"> lɤ˩mi˧
-\vf <type="hist" print="n" langue="fra"> confirmé, et préféré par le locuteur à la prononciation de F5
+\vc <type="hist" print="n" langue="fra"> confirmé, et préféré par le locuteur à la prononciation de F5
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" dom="ton"> ton d5b; d'abord noté /lje˩mi˥/
+\vc <langue="fra" type="hist" print="n" dom="ton"> ton d5b; d'abord noté /lje˩mi˥/
 \va <speaker="M23"> ID.
 \pdv pʰæ˧˥
 \de Major (supporting) beam.
@@ -31907,7 +31906,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> lo˧, ton m2; pas d'élicitation possible dans le cadre “ceci est", mais le ton de base peut se déduire des nombreuses expressions où le mot apparaît: lo˧ dʑo˧-ze˧ (/dʑo˧/: ton 1), lo˧ ʝi˧-ze˩ (/ʝi˧/: ton 2).
+\vc <langue="fra" print="n"> lo˧, ton m2; pas d'élicitation possible dans le cadre “ceci est", mais le ton de base peut se déduire des nombreuses expressions où le mot apparaît: lo˧ dʑo˧-ze˧ (/dʑo˧/: ton 1), lo˧ ʝi˧-ze˩ (/ʝi˧/: ton 2).
 \pdv lo˧
 \de Work, occupation, task.
 \ge work
@@ -31953,7 +31952,7 @@
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> La forme indiquée est disyllabique: /lo˩pæ˩˧/.
+\vc <langue="fra" print="n"> La forme indiquée est disyllabique: /lo˩pæ˩˧/.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \de Thick.
@@ -32161,11 +32160,11 @@
 \ton L#-
 \so F4
 \va <speaker="F5"> lo˧bv̩˩ʈʂʰv̩˩
-\vf <print="n"> +ɲi˩; notation 2006: lo˥bv̩˧ʈʂʰv̩˩; emprunt au prinmi? cf prinmi lõ55bo55tɕhi53
+\vc <langue="fra" print="n"> +ɲi˩; notation 2006: lo˥bv̩˧ʈʂʰv̩˩; emprunt au prinmi? cf prinmi lõ55bo55tɕhi53
 \va <speaker="M21"> lo˧bv̩˧ʈʂʰɯ˩
-\vf <print="n"> Notes anciennes: "lu˧bv̩˧ʈʂʰɯ˩ (tons vérifiés) +ɲi˩".
+\vc <langue="fra" print="n"> Notes anciennes: "lu˧bv̩˧ʈʂʰɯ˩ (tons vérifiés) +ɲi˩".
 \va <speaker="M23"> ID.
-\vf <print="n"> (tons vérifiés)
+\vc <langue="fra" print="n"> (tons vérifiés)
 \pdv pʰo˧˥α
 \pdv v̩˧
 \de Elephant.
@@ -32207,7 +32206,7 @@
 \ton LM+#H
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> lu˩dv̩˧, ton d5b
+\vc <langue="fra" print="n"> lu˩dv̩˧, ton d5b
 \pdv v̩˧
 \de Person with a single arm or hand, one-armed (or one-handed) person.
 \ge one_armed_person
@@ -32228,9 +32227,9 @@
 \ton L
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ɖɯ˧lu˩dʑi˩
+\vc <langue="fra" print="n"> ɖɯ˧lu˩dʑi˩
 \va <speaker="M18"> *
-\vf <print="n"> Le locuteur indique: /ɖɯ˧lo˩bɤ˩/
+\vc <langue="fra" print="n"> Le locuteur indique: /ɖɯ˧lo˩bɤ˩/
 \de A handful (using both hands).
 \ge |fg{clf}.handfuls(both_hands)
 \dn 量词：捧（用两只手）
@@ -32252,7 +32251,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> lo˩dʑo˩
-\vf <print="n"> Notes de 2006: "lo˩ dʑju˩˥; sans doute: /y/; tons: ˩ ˥? sans doute pas; paraît bien être lo˩dʑju˩˥".
+\vc <langue="fra" print="n"> Notes de 2006: "lo˩ dʑju˩˥; sans doute: /y/; tons: ˩ ˥? sans doute pas; paraît bien être lo˩dʑju˩˥".
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
 \de Bracelet.
@@ -32359,9 +32358,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> Le locuteur indique /lo˩ tsʰe˥/. Selon F4: c'est du naxi, pas d'ici.
+\vc <langue="fra" print="n"> Le locuteur indique /lo˩ tsʰe˥/. Selon F4: c'est du naxi, pas d'ici.
 \va <speaker="M21"> ID.
-\vf <print="n"> lo˩ gv̩˧dv̩˧ + ɲi˩
+\vc <langue="fra" print="n"> lo˩ gv̩˧dv̩˧ + ɲi˩
 \pdv kʰwɤ˥
 \pdv ɭɯ˧β
 \de Back of the hand.
@@ -32447,9 +32446,9 @@
 \lc lo˧ʝi˧hĩ˧hĩ˧
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Notes anciennes: "/lo˥ i:˥ hĩ˥/ “travailleur", de: 'travail' + 'faire' + 'homme'.
+\vc <langue="fra" print="n"> Notes anciennes: "/lo˥ i:˥ hĩ˥/ “travailleur", de: 'travail' + 'faire' + 'homme'.
 \va <speaker="M21"> lo˧ʝi˧ hĩ#˥
-\vf <print="n"> Notes anciennes: "lo˧i˧, lo˧i˧zo˧mv̩˥; lo˧i˧hĩ˧ (+ɲi˥)".
+\vc <langue="fra" print="n"> Notes anciennes: "lo˧i˧, lo˧i˧zo˧mv̩˥; lo˧i˧hĩ˧ (+ɲi˥)".
 \pdv v̩˧
 \de Worker (in the fields or elsewhere).
 \ge worker
@@ -32558,7 +32557,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ɭu˧ɭu˧, ton d1
+\vc <langue="fra" print="n"> ɭu˧ɭu˧, ton d1
 \pdv v̩˧
 \de Yi (ethnic group).
 \ge Yi
@@ -32600,7 +32599,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> lo˧mi˥
 \va <speaker="M21"> ID.
-\vf <print="n"> lo˩mi˥, ton d6; lo˩mi˥ʁæ˥: sixième doigt/sorte de pouce en plus qui serait présent dès la naissance chez certains individus
+\vc <langue="fra" print="n"> lo˩mi˥, ton d6; lo˩mi˥ʁæ˥: sixième doigt/sorte de pouce en plus qui serait présent dès la naissance chez certains individus
 \pdv ɭɯ˧β
 \de Thumb.
 \ge thumb
@@ -32622,9 +32621,9 @@
 \lc lo˩mi˧qɑ˩
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ... ou simplement kɑ˩˧. Ton m1: LM.
+\vc <langue="fra" print="n"> ... ou simplement kɑ˩˧. Ton m1: LM.
 \va <speaker="M18"> ID.
-\vf <print="n"> ʁæ˩˥, kɑ˩˥: tous deux possibles.
+\vc <langue="fra" print="n"> ʁæ˩˥, kɑ˩˥: tous deux possibles.
 \pdv ɭɯ˧β
 \de Space between thumb and index finger.
 \ge space_between_thumb_and_index_finger
@@ -32686,9 +32685,9 @@
 \lc lo˧ɲi˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> lo˧ ɲi˥; lo˧ ɲi˥ lo˧ sɑ˩
+\vc <langue="fra" print="n"> lo˧ ɲi˥; lo˧ ɲi˥ lo˧ sɑ˩
 \va <speaker="M21"> ID.
-\vf <print="n"> ton d7
+\vc <langue="fra" print="n"> ton d7
 \pdv ɭɯ˧β
 \de Finger.
 \ge finger
@@ -32727,8 +32726,8 @@
 \lc lo˧ɲi˥ɲi˧ɭɯ˧
 \so F4
 \va <speaker="F5"> *
-\vf <print="n" langue="eng"> F5 uses periphrases: {lo˧ ɲi˥ ʂæ˧} ‘long finger' or {ɬi˧gv̩˧ ʈʰɯ˧-ɭɯ˧} ‘the one in the middle'.
-\vf <print="n"> Le locuteur M23 emploie des périphrases. Il dit “le grand doigt", comme F5 disait “le long doigt".
+\vc <print="n" langue="eng"> F5 uses periphrases: {lo˧ ɲi˥ ʂæ˧} ‘long finger' or {ɬi˧gv̩˧ ʈʰɯ˧-ɭɯ˧} ‘the one in the middle'.
+\vc <langue="fra" print="n"> Le locuteur M23 emploie des périphrases. Il dit “le grand doigt", comme F5 disait “le long doigt".
 \de Middle finger.
 \ge middle_finger
 \dn 中指
@@ -32763,7 +32762,7 @@
 \lc ɬo˧pɤ˥
 \sy sɯ˧ʈv̩˥
 \so F4
-\vf <dom="ton"> MH
+\vc <langue="fra" dom="ton"> MH
 \pdv ɭɯ˧β
 \de Callus.
 \ge callus
@@ -32924,7 +32923,7 @@
 \lc lo˩qʰv̩˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> lu˩qʰv̩˩˧, ton m3
+\vc <langue="fra" print="n"> lu˩qʰv̩˩˧, ton m3
 \pdv lo˩
 \de Gully; ravine; valley.
 \ge gully
@@ -32950,9 +32949,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> notes anciennes: "lo˧ kʶwɑ˥ chez F4; prononciation de M18: plutôt lo˧ kʰwɑ˥, sans la friction; noté aussi: lo˩ kʰwɑ˩˥".
+\vc <langue="fra" print="n"> notes anciennes: "lo˧ kʶwɑ˥ chez F4; prononciation de M18: plutôt lo˧ kʰwɑ˥, sans la friction; noté aussi: lo˩ kʰwɑ˩˥".
 \va <speaker="M21"> ID.
-\vf <print="n"> lo˩kʰwɤ˥, ton d6
+\vc <langue="fra" print="n"> lo˩kʰwɤ˥, ton d6
 \pdv pʰo˧˥α
 \de Arm.
 \ge arm
@@ -33416,9 +33415,9 @@
 \lc lv̩˧˥
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> indique: /kv̩˧ʂe˧/ 'puce', ton d2a
+\vc <langue="fra" print="n"> indique: /kv̩˧ʂe˧/ 'puce', ton d2a
 \va <speaker="M23"> *
-\vf <print="n"> indique: /ku˧ʂe˧/ 'puce'
+\vc <langue="fra" print="n"> indique: /ku˧ʂe˧/ 'puce'
 \de Maggot.
 \ge maggot
 \dn 蛆
@@ -33583,9 +33582,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> confirmé, n'est pas ɬu˩˥ ni ɬɯ˩˥
+\vc <langue="fra" print="n"> confirmé, n'est pas ɬu˩˥ ni ɬɯ˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> ɬv̩˧˥, ton m4b; confirmé: n'est pas m1
+\vc <langue="fra" print="n"> ɬv̩˧˥, ton m4b; confirmé: n'est pas m1
 \va <speaker="M23"> ID.
 \pdv ʈv̩˩
 \de Brains.
@@ -33731,7 +33730,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> lv̩˧mi˧ bu˧ +ɲi˥: muret en pierre; fournit également: /lv̩˧mi˧ʈʂu˩bɤ˩/ (tons vérifiés).
+\vc <langue="fra" print="n"> lv̩˧mi˧ bu˧ +ɲi˥: muret en pierre; fournit également: /lv̩˧mi˧ʈʂu˩bɤ˩/ (tons vérifiés).
 \pdv ɭɯ˧β
 \de Stone wall.
 \ge stone_wall
@@ -33799,7 +33798,7 @@
 \sd <langue="eng"> adjective
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Dans l'expression: /ɬv̩˩pʰæ˩˧gv̩˩/.
+\vc <langue="fra" print="n"> Dans l'expression: /ɬv̩˩pʰæ˩˧gv̩˩/.
 \de Nice and warm.
 \ge nice_and_warm
 \dn 温暖、温暖舒适、暖和
@@ -33827,11 +33826,11 @@
 \sd <langue="eng"> verb
 \so F4
 \va <speaker="F5"> ɕi˧pʰv̩˧
-\vf <langue="fra"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
-\ve <langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
-\vn <langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
+\vc <langue="fra"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
+\vc <langue="eng" langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
+\vc <langue="cmn" langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
 \va <speaker="M21"> ɕi˩dɑ˩˥
-\vf <print="n"> Le locuteur préfère le terme /|fv{ɕi˩dɑ˩˧/}/, plutôt que /|fv{ɕi˧pʰv̩˧}/.
+\vc <langue="fra" print="n"> Le locuteur préfère le terme /|fv{ɕi˩dɑ˩˧/}/, plutôt que /|fv{ɕi˧pʰv̩˧}/.
 \va <speaker="M23"> ID.
 \de To open up new land for cultivation, to cultivate virgin land.
 \ge to_open_up_land
@@ -33881,9 +33880,9 @@
 \lc lv̩˧qæ˧
 \so F4
 \va <speaker="M18"> lv̩˧qæ˧
-\vf <print="n"> ton d1
+\vc <langue="fra" print="n"> ton d1
 \va <speaker="M23"> lv̩˧qæ˧
-\vf <print="n"> ton d1
+\vc <langue="fra" print="n"> ton d1
 \nt <type="hist" print="n" langue="fra"> Sens vérifié: le terme désigne la limite entre champs de familles différentes.
 \pdv ɭɯ˧β
 \de Limit, boundary between fields belonging to different families. It is typically materialized by a small dike.
@@ -34233,9 +34232,9 @@
 \ton Lα
 \so F4
 \va <speaker="F5"> ɬɯ˩
-\vf <type="hist" print="n" langue="fra" dom="phono"> Initiale et rime confirmées, n'est pas /ɬv̩˩/
+\vc <type="hist" print="n" langue="fra" dom="phono"> Initiale et rime confirmées, n'est pas /ɬv̩˩/
 \va <speaker="M21"> lv̩˩
-\vf <print="n"> /tʰi˧-lv̩˩/; ex.: /ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩/ “garder un médicament dans la bouche"
+\vc <langue="fra" print="n"> /tʰi˧-lv̩˩/; ex.: /ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩/ “garder un médicament dans la bouche"
 \de To hold in the mouth; to let melt in the mouth.
 \ge to_hold_in_the_mouth
 \dn 含在嘴里、在嘴巴里溶化
@@ -34295,9 +34294,9 @@
 \so F4
 \va <speaker="F5"> ɬɯ˩
 \nt <type="hist" print="n" langue="fra"> F5 confirme qu'elle prononce /ɬɯ/ et pas /ɬv/. Cette prononciation est stable: elle apparaît à l'isolée ainsi que dans /hɑ˧ ɬɯ˧˥/ `réchauffer de la nourriture'.
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \va <speaker="M21"> ID.
-\vf <print="n"> M21 dit /hɑ˧ ɬv̩˧˥/, /hɑ˧ ɬv̩˧-ze˥/, comme F4. En revanche, la forme rédupliquée n'est pas /ɬv̩˧~ɬv̩˥/ comme chez F4, mais /ɬv̩˩~ɬv̩˩˥/: /hɑ˧ ɬv̩˥~ɬv̩˩/, /(hɑ˧ | ) le˧-ɬv̩˩~ɬv̩˩
+\vc <langue="fra" print="n"> M21 dit /hɑ˧ ɬv̩˧˥/, /hɑ˧ ɬv̩˧-ze˥/, comme F4. En revanche, la forme rédupliquée n'est pas /ɬv̩˧~ɬv̩˥/ comme chez F4, mais /ɬv̩˩~ɬv̩˩˥/: /hɑ˧ ɬv̩˥~ɬv̩˩/, /(hɑ˧ | ) le˧-ɬv̩˩~ɬv̩˩
 \de To warm up (food).
 \ge to_warm
 \dn 热饭
@@ -34404,7 +34403,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> d'abord noté /luə˩˥/; fortement diphtongué; n'est “absolument pas" /o/; M18 accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence. Sens: terme générique pour cendres de bois et de charbon
+\vc <langue="fra" print="n"> d'abord noté /luə˩˥/; fortement diphtongué; n'est “absolument pas" /o/; M18 accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence. Sens: terme générique pour cendres de bois et de charbon
 \va <speaker="M21"> ID.
 \pdv ʈʂwɤ˧
 \de Ashes (of plants, charcoal…), cinders.
@@ -34574,9 +34573,9 @@
 \ton L
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> Le locuteur recourt à une périphrase: “l'eau qu'on utilise avec le stylo"
+\vc <langue="fra" print="n"> Le locuteur recourt à une périphrase: “l'eau qu'on utilise avec le stylo"
 \va <speaker="M21"> *
-\vf <print="n"> Le locuteur recourt à un emprunt: mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
+\vc <langue="fra" print="n"> Le locuteur recourt à un emprunt: mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> bol
 \de Ink (solid).
@@ -34716,7 +34715,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mæ˧pʰv̩˧
-\vf <print="n"> noté également un: /bv̩˧-mɤ˧/
+\vc <langue="fra" print="n"> noté également un: /bv̩˧-mɤ˧/
 \pdv ɭɯ˧β
 \pdv kʰwɤ˥α
 \de Butter.
@@ -35177,11 +35176,11 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> mi˩lv̩˩
-\vf <print="n"> Ton L (ton d3); mais donne: /mi˩lv̩˥ | ɖɯ˩ hĩ˩˥/ “gros bambou"; /mi˩lv̩˥ ɖɯ˩ ɲi˥/ “le bambou est gros".
+\vc <langue="fra" print="n"> Ton L (ton d3); mais donne: /mi˩lv̩˥ | ɖɯ˩ hĩ˩˥/ “gros bambou"; /mi˩lv̩˥ ɖɯ˩ ɲi˥/ “le bambou est gros".
 \va <speaker="M23"> mi˩li˩
-\vf <dom="phono"> Des traces de friction demeurent perceptibles dans une réalisation soignée, ce qui indique que la forme ancienne était |fv{mi˩ɬi˩}, avec initiale |fv{/ɬ/}. Mais cette initiale paraît proche de se confondre avec /l/. Dans les expressions composées, on entend clairement |fv{[li]} plutôt que |fv{[ɬi]}. Par exemple: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
-\ve <dom="phono"> Traces of friction are still perceptible in a careful realisation, which indicates that the old form was |fv{mi˩ɬi˩}, with initial |fv{/ɬ/}. But this initial now seems close to being confused with /l/. In compound expressions, |fv{[li]} is clearly heard rather than |fv{[ɬi]}. For example: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
-\vn <dom="phono"> 在非常清楚的发音中，仍然可以感受到摩擦的痕迹，这表明旧的形式是|fv{mi˩ɬi˩}，声母是|fv{/ɬ/}。但这个辅音似乎很容易与/l/混淆。在多音节短语中，可以清楚地听到|fv{[li]}，而不是 |fv{[ɬi]}。例如：|fv{[lɑ˧hwɤ˩-mi˩li˩]}。
+\vc <langue="fra" dom="phono"> Des traces de friction demeurent perceptibles dans une réalisation soignée, ce qui indique que la forme ancienne était |fv{mi˩ɬi˩}, avec initiale |fv{/ɬ/}. Mais cette initiale paraît proche de se confondre avec /l/. Dans les expressions composées, on entend clairement |fv{[li]} plutôt que |fv{[ɬi]}. Par exemple: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
+\vc <langue="eng" dom="phono"> Traces of friction are still perceptible in a careful realisation, which indicates that the old form was |fv{mi˩ɬi˩}, with initial |fv{/ɬ/}. But this initial now seems close to being confused with /l/. In compound expressions, |fv{[li]} is clearly heard rather than |fv{[ɬi]}. For example: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
+\vc <langue="cmn" dom="phono"> 在非常清楚的发音中，仍然可以感受到摩擦的痕迹，这表明旧的形式是|fv{mi˩ɬi˩}，声母是|fv{/ɬ/}。但这个辅音似乎很容易与/l/混淆。在多音节短语中，可以清楚地听到|fv{[li]}，而不是 |fv{[ɬi]}。例如：|fv{[lɑ˧hwɤ˩-mi˩li˩]}。
 \pdv dzi˩
 \de Large bamboo.
 \ge large_bamboo
@@ -35218,7 +35217,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> mi˩lv̩˩-ʁv̩˩bv̩˧
-\vf <print="n"> +ɲi˩; ʁv̩˧bv̩˧. Vérifié, n'est pas /ʁo/.
+\vc <langue="fra" print="n"> +ɲi˩; ʁv̩˧bv̩˧. Vérifié, n'est pas /ʁo/.
 \pdv kɤ˧˥
 \de Bamboo shoot.
 \ge bamboo_shoot
@@ -35269,7 +35268,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mi˧lo#˥
-\vf <print="n"> (ton d2a); mi˧lo˧ lɑ˩. L'initiale est voisée; n'est pas/plus ɬ.
+\vc <langue="fra" print="n"> (ton d2a); mi˧lo˧ lɑ˩. L'initiale est voisée; n'est pas/plus ɬ.
 \pdv kʰwɤ˥
 \de Prayer.
 \ge prayer
@@ -35332,9 +35331,9 @@
 \ton #H
 \so F4
 \va <speaker="F5"> mi˧pɤ˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M18"> *
-\vf <print="n"> fournit le mot pour 'blessure': mi˥ tʰv̩˥
+\vc <langue="fra" print="n"> fournit le mot pour 'blessure': mi˥ tʰv̩˥
 \va <speaker="M21"> *
 \pdv kʰwɤ˥
 \de Scar.
@@ -35358,7 +35357,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɲi˩pʰv̩˩
-\vf <print="n"> ton d3; confirmé: n'est pas mi˩
+\vc <langue="fra" print="n"> ton d3; confirmé: n'est pas mi˩
 \va <speaker="M23"> ID.
 \pdv dzi˩
 \de Nettle.
@@ -35581,7 +35580,7 @@
 \lc mɤ˧
 \so F4
 \va <speaker="F5"> mɤ˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M21"> ID.
 \de Animal fat.
 \ge animal_fat
@@ -35812,9 +35811,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mo˧nɑ˥
-\vf <print="n"> (+ʐwɤ˩)
+\vc <langue="fra" print="n"> (+ʐwɤ˩)
 \va <speaker="M21"> mɑ˧lɑ˥
-\vf <print="n"> (+ʐwɤ˩)
+\vc <langue="fra" print="n"> (+ʐwɤ˩)
 \de Slander.
 \ge slander
 \dn 诬蔑、坏话
@@ -36007,7 +36006,7 @@
 \nt <dom="sem" langue="fra"> Le terme ne s'emploie pas en tournure positive: |fv{/†ni.ni/} ‘identique'; on dit alors: |fv{/ɖɯ˧-bæ˧/} ‘une seule et même chose'
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> noté: /ɖʐɯ˧ bæ˧ tsɤ˧/
+\vc <langue="fra" print="n"> noté: /ɖʐɯ˧ bæ˧ tsɤ˧/
 \de Incredible, extraordinary, astounding.
 \ge astounding
 \dn 难以相信、了不起、很特别
@@ -36117,7 +36116,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n> Le locuteur propose une étymologie “mongole" + “garçon, jeune homme".
+\vc <langue="fra" print="n> Le locuteur propose une étymologie “mongole" + “garçon, jeune homme".
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Soldier.
@@ -36318,7 +36317,7 @@
 \lc mɤ˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> voyelle vérifiée
+\vc <type="hist" print="n" langue="fra"> voyelle vérifiée
 \de Negation.
 \ge |fg{neg}
 \dn 否定：不，没
@@ -36472,8 +36471,8 @@
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
-\vf <dom="ton"> M
-\vf <type="hist" print="n" langue="fra"> Confirmé: locutrice F4 et locutrice F5 n'ont pas le même ton pour ce mot.
+\vc <langue="fra" dom="ton"> M
+\vc <type="hist" print="n" langue="fra"> Confirmé: locutrice F4 et locutrice F5 n'ont pas le même ton pour ce mot.
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
 \de Sky.
@@ -36515,7 +36514,7 @@
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv æ̃˩
@@ -36575,7 +36574,7 @@
 \va <speaker="M18"> ID.
 \va <print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui sont des créations: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)...
 \va <speaker="M21"> ID.
-\vf <print="n"> ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
+\vc <langue="fra" print="n"> ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
 \pdv kʰwɤ˥
 \de Sole of the foot.
@@ -36657,14 +36656,14 @@
 \ton H#-L
 \so F4
 \va <speaker="F5"> ɲi˧mi˧ dʑɯ˩ ʈʰɯ˩
-\vf <langue="fra" dom="sem"> Cette expression signifie “le soleil boit de l'eau". La locutrice connaît la forme |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, mais ne l'emploie pas. Une variante |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} est attestée.
-\vf <langue="eng" dom="sem"> This phrase means ‘the sun drinks water’. The speaker knows the form |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, but does not use it. A variant |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} is attested.
-\vf <langue="cmn" dom="sem"> 意思是‘太阳喝水’。还有另外一个变体：|fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥}。这位发音合作人也知道|fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}这个短语，但没有使用。
+\vc <langue="fra" dom="sem"> Cette expression signifie “le soleil boit de l'eau". La locutrice connaît la forme |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, mais ne l'emploie pas. Une variante |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} est attestée.
+\vc <langue="eng" dom="sem"> This phrase means ‘the sun drinks water’. The speaker knows the form |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, but does not use it. A variant |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} is attested.
+\vc <langue="cmn" dom="sem"> 意思是‘太阳喝水’。还有另外一个变体：|fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥}。这位发音合作人也知道|fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}这个短语，但没有使用。
 \va <speaker="M18"> mv̩˧-hĩ˥ | dʑɯ˩ ʈʰɯ˩˥
-\vf <print="n"> Le sens de la périphrase est: “l'homme du ciel boit de l'eau". La seconde syllabe de cette expression pour dire ‘arc-en-ciel’ est ‘personne, être humain’.
-\vf <print="n"> This phrase means: “the sky man drinks water". The second syllable of this word for ‘rainbow’ is ‘person, human being’.
-\vf <print="n"> 直译：“天（上的）人喝水”。
-\vf <print="n" langue="fra"> Parmi les exemples fournis par M18: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
+\vc <langue="fra" print="n"> Le sens de la périphrase est: “l'homme du ciel boit de l'eau". La seconde syllabe de cette expression pour dire ‘arc-en-ciel’ est ‘personne, être humain’.
+\vc <langue="fra" print="n"> This phrase means: “the sky man drinks water". The second syllable of this word for ‘rainbow’ is ‘person, human being’.
+\vc <langue="fra" print="n"> 直译：“天（上的）人喝水”。
+\vc <print="n" langue="fra"> Parmi les exemples fournis par M18: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
 \de Rainbow.
@@ -36900,7 +36899,7 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009)
 \so F4
 \va <speaker="M18"> ID.
-\vf <print="n"> mv̩˧gɤ˥gɤ˩hĩ˩; selon le locuteur, même sens que /gi˧ tɕʰye˩˥ ɻ̩˩/: l'une et l'autre expression signifient “la descendance".
+\vc <langue="fra" print="n"> mv̩˧gɤ˥gɤ˩hĩ˩; selon le locuteur, même sens que /gi˧ tɕʰye˩˥ ɻ̩˩/: l'une et l'autre expression signifient “la descendance".
 \de Descendants.
 \ge descendants
 \dn 下一代、后裔、后人
@@ -37065,9 +37064,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˥kʰv̩˥
-\vf <print="n"> ex.: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde". Vérification faite: n'est pas: mv̩˩kʰv̩˩˥.
+\vc <langue="fra" print="n"> ex.: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde". Vérification faite: n'est pas: mv̩˩kʰv̩˩˥.
 \va <speaker="M21"> mv̩˧kʰv̩#˥
-\vf <print="n"> mv̩˧kʰv̩˧, ton d2a; mv̩˧kʰv̩˧ dʑi˥ ze˩, mv̩˧kʰv̩˧ dʑi˥ ɲi˩
+\vc <langue="fra" print="n"> mv̩˧kʰv̩˧, ton d2a; mv̩˧kʰv̩˧ dʑi˥ ze˩, mv̩˧kʰv̩˧ dʑi˥ ɲi˩
 \pdv æ̃˩
 \de Smoke.
 \ge smoke
@@ -37109,8 +37108,8 @@
 \lc mv̩˧ɭɯ˩
 \so F4
 \va <speaker="F5"> mɯ˧ɭɯ˩
-\vf <print="n" dom="ton"> L#
-\vf <type="hist" print="n" langue="fra"> Confirmé: différent de la façon dont le prononce F4.
+\vc <langue="fra" print="n" dom="ton"> L#
+\vc <type="hist" print="n" langue="fra"> Confirmé: différent de la façon dont le prononce F4.
 \de Muli county.
 \ge Muli
 \dn 木里
@@ -37157,7 +37156,7 @@
 \lc mv̩˧mv̩˥di˩
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> Emploie le terme /bi˩pɑ˧/, ton d6. Sens confirmé. La périphrase mv̩˧mv̩˥di˩ “objet) qui sert à souffler" serait plutôt employée pour les instruments du fumeur.
+\vc <langue="fra" print="n"> Emploie le terme /bi˩pɑ˧/, ton d6. Sens confirmé. La périphrase mv̩˧mv̩˥di˩ “objet) qui sert à souffler" serait plutôt employée pour les instruments du fumeur.
 \pdv ɭɯ˧β
 \de Bellows.
 \ge bellows
@@ -37341,7 +37340,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mv̩˧ʁo#˥
-\vf <print="n"> Ton différent de chez F4, F5 et M18.
+\vc <langue="fra" print="n"> Ton différent de chez F4, F5 et M18.
 \pdv ɭɯ˧β
 \de Heavens, sky.
 \ge heavens/sky
@@ -37398,9 +37397,9 @@
 \lc mv̩˩si˧˥
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> /njɤ˩du˧ɖʐɯ˩kʰɤ˩/; avant 2009: noté ŋjɤ˩ do˥ ɖʐɯ˧ kʰɤ˩; aurore: ɲi˥mi˥kʰɯ˥ʂɯ˥ʈʰɯ˧kʶæ˧, “la lumière solaire arrive"
+\vc <langue="fra" print="n"> /njɤ˩du˧ɖʐɯ˩kʰɤ˩/; avant 2009: noté ŋjɤ˩ do˥ ɖʐɯ˧ kʰɤ˩; aurore: ɲi˥mi˥kʰɯ˥ʂɯ˥ʈʰɯ˧kʶæ˧, “la lumière solaire arrive"
 \va <speaker="M23"> mv̩˩sɯ˧˥
-\vf <print="n">ton d5; serait la même syllabe que “bois"
+\vc <langue="fra" print="n">ton d5; serait la même syllabe que “bois"
 \de Morning.
 \ge morning
 \dn 早晨
@@ -37471,9 +37470,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> L'expression /mv̩˧ʈʰæ˧/ signifierait: 天下, et sa première syllabe serait le mot pour “ciel".
+\vc <langue="fra" print="n"> L'expression /mv̩˧ʈʰæ˧/ signifierait: 天下, et sa première syllabe serait le mot pour “ciel".
 \va <speaker="M23"> mæ˧ʈʰæ˧
-\vf <print="n"> ton d2a
+\vc <langue="fra" print="n"> ton d2a
 \de Under.
 \ge under
 \dn 下面
@@ -37515,9 +37514,9 @@
 \lc mv̩˩tɕo˥
 \so F4
 \va <speaker="M23"> ID.
-\vf <dom="phono"> Phonétiquement, [|fv{m̩}], syllabe entièrement nasale. Dans ce contexte, elle se rapproche parfois de [|fv{mi}]. Au plan phonologique, c'est bien /|fv{mv̩}/.
-\ve <dom="phono"> Phonetically, [|fv{m̩}], an entirely nasal syllable. In this context, it is sometimes close to [|fv{mi}]. Phonologically, it is /|fv{mv̩}/.
-\vn <dom="phono"> 实际发音为[|fv{m̩}]，是一个完全鼻化的音节。在这个词里，它有时类似于[|fv{mi}]。在音韵学上，它是/|fv{mv̩}/。
+\vc <langue="fra" dom="phono"> Phonétiquement, [|fv{m̩}], syllabe entièrement nasale. Dans ce contexte, elle se rapproche parfois de [|fv{mi}]. Au plan phonologique, c'est bien /|fv{mv̩}/.
+\vc <langue="eng" dom="phono"> Phonetically, [|fv{m̩}], an entirely nasal syllable. In this context, it is sometimes close to [|fv{mi}]. Phonologically, it is /|fv{mv̩}/.
+\vc <langue="cmn" dom="phono"> 实际发音为[|fv{m̩}]，是一个完全鼻化的音节。在这个词里，它有时类似于[|fv{mi}]。在音韵学上，它是/|fv{mv̩}/。
 \de Downward.
 \ge downward
 \dn 向下，往下
@@ -37626,7 +37625,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <print="n"> D'après lui, 'nom' se dirait /mv̩˧/, et /mv̩˧ʈʂæ˧˥/ voudrait dire “nommer, donner un nom, baptiser".
+\vc <langue="fra" print="n"> D'après lui, 'nom' se dirait /mv̩˧/, et /mv̩˧ʈʂæ˧˥/ voudrait dire “nommer, donner un nom, baptiser".
 \de To call, to give the name… to, to refer to… as…
 \ge to_call
 \dn 叫做、称作、名叫
@@ -37655,9 +37654,9 @@
 \lc mv̩˧tsʰi˧
 \so F4
 \va <speaker="M18"> mv̩˧tsʰɯ˧
-\vf <print="n"> aussi: mv̩˧tsʰɯ˧ko˩
+\vc <langue="fra" print="n"> aussi: mv̩˧tsʰɯ˧ko˩
 \va <speaker="M21"> mv̩˧tsʰv̩˧
-\vf <print="n"> dans l'expression: /mv̩˧tsʰv̩˧ku˩/. Vérifié: n'est pas /ɯ/.
+\vc <langue="fra" print="n"> dans l'expression: /mv̩˧tsʰv̩˧ku˩/. Vérifié: n'est pas /ɯ/.
 \pdv tsʰi˥α
 \de Dry season (winter and spring: from the 9th lunar month to the 2nd lunar month).
 \ge dry_season
@@ -37745,7 +37744,7 @@
 \sd <langue="eng"> animal
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> /dʑi˧ku˧bɻ̩˧/: périphrase: “insecte (qu'il y a) dans l'eau, insecte aquatique".
+\vc <langue="fra" print="n"> /dʑi˧ku˧bɻ̩˧/: périphrase: “insecte (qu'il y a) dans l'eau, insecte aquatique".
 \de A water insect (remains to be identified).
 \ge water_insect
 \dn 一种水生昆虫（尚待确认）。
@@ -37878,7 +37877,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> mv̩˧ʈʂv̩˥, ton d7
+\vc <langue="fra" print="n"> mv̩˧ʈʂv̩˥, ton d7
 \pdv kʰɯ˩
 \de Wrinkle.
 \ge wrinkle
@@ -37904,9 +37903,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ɖʐu˩nv̩˩mi˩˧
-\vf <print="n"> “le cœur du mortier"; tons confirmés
+\vc <langue="fra" print="n"> “le cœur du mortier"; tons confirmés
 \va <speaker="M21"> *
-\vf <print="n"> gv̩˩nv̩˩˧, ton d3; en composition: mv̩˧ʈʂv̩˩gv̩˩nv̩˩; la périphrase avec “cœur" fournie par F4 s'emploierait pour un moulin, mais pas pour le pilon
+\vc <langue="fra" print="n"> gv̩˩nv̩˩˧, ton d3; en composition: mv̩˧ʈʂv̩˩gv̩˩nv̩˩; la périphrase avec “cœur" fournie par F4 s'emploierait pour un moulin, mais pas pour le pilon
 \pdv nɑ˧α
 \de Small pestle.
 \ge small_pestle
@@ -38056,7 +38055,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁo˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
+\vc <langue="fra" print="n"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁo˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
 \pdv kʰɯ˩
 \de Gun; firelock.
 \ge gun
@@ -38262,8 +38261,8 @@
 \ton L+#H-
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> æ˧mv̩˥-gi˧zɯ˧, gi˧zɯ˧-gu˧mi˧
-\vf <type="hist" print="n" langue="fra"> d'abord noté /gu˧mi˩/, sans doute effet de la ligne de déclinaison
+\vc <langue="fra" print="n"> æ˧mv̩˥-gi˧zɯ˧, gi˧zɯ˧-gu˧mi˧
+\vc <type="hist" print="n" langue="fra"> d'abord noté /gu˧mi˩/, sans doute effet de la ligne de déclinaison
 \va <speaker="M21"> ID.
 \va <speaker="M23"> mv̩˩zɯ˩-nv̩˧mi˩
 \de Brothers and sisters, siblings (all children of the same mother). The term is also used in a broader sense to include all matrilineal cousins: all the children of the mother's sisters.
@@ -38496,7 +38495,7 @@
 \nt <type="hist" print="n" langue="fra"> (différent des tons de F5: ˩˧ ˧ ˧)
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Exemple: ʐwɤ˩˧ | mv̩˧mv̩˧
+\vc <langue="fra" print="n"> Exemple: ʐwɤ˩˧ | mv̩˧mv̩˧
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \de Clear (speech).
@@ -38740,9 +38739,9 @@
 \ton LM
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> njæ˩ʁwæ˥, njæ˩ʁwæ˥ hu˧ ze˩ “le ciel est noir", “le ciel va devenir noir"; d'abord noté ho˧ze˩
+\vc <langue="fra" print="n"> njæ˩ʁwæ˥, njæ˩ʁwæ˥ hu˧ ze˩ “le ciel est noir", “le ciel va devenir noir"; d'abord noté ho˧ze˩
 \va <speaker="M21"> nɑ˩dzɯ˥
-\vf <print="n"> +ze˩
+\vc <langue="fra" print="n"> +ze˩
 \de Dark (at twilight, dusk).
 \ge dark
 \dn 暗（黄昏/暮的时候，天变暗）
@@ -38973,7 +38972,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\vf <print="n"> nɑ˩pv̩˧kʰwɤ˧ +ɲi˩
+\vc <langue="fra" print="n"> nɑ˩pv̩˧kʰwɤ˧ +ɲi˩
 \de Emperor (borrowed from the Mongolian?).
 \ge emperor
 \dn 皇帝
@@ -38996,7 +38995,7 @@
 \so F4
 \va <speaker="M18"> nɑ˩-qʰæ˧ʈʂʰe˩
 \va <speaker="M21"> nɑ˩-qʰæ˧ ʈʂʰe˥ (+gv̩˩)
-\vf <print="n"> tons vérifiés
+\vc <langue="fra" print="n"> tons vérifiés
 \de Dark all over, completely dark.
 \ge completely_dark
 \dn 黑乎乎、很黑
@@ -39469,7 +39468,7 @@
 \lc ɲi˩bɻ̩˩˥
 \so F4
 \va <speaker="F5"> njɤ˩bv̩˩
-\vf <print="n" dom="ton"> L
+\vc <langue="fra" print="n" dom="ton"> L
 \va <speaker="M18"> nju˩bv̩˩-ʂe˩sɑ˧
 \va <speaker="M21"> ID.
 \pdv mi˩
@@ -39584,11 +39583,11 @@
 \lc ɲi˧gɤ˧dʑɯ˧˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ɲi˧gɤ˧ dʑi˧ ʈʰɤ˥ʈʰɤ˩
+\vc <langue="fra" print="n"> ɲi˧gɤ˧ dʑi˧ ʈʰɤ˥ʈʰɤ˩
 \va <speaker="M18"> *
-\vf <print="n"> Expressions employées: ɲi˧gɤ˧pv̩˧: morve sèche, crottes de nez; ɲi˧gɤ˧ʈʂʰv̩˩: morve liquide
+\vc <langue="fra" print="n"> Expressions employées: ɲi˧gɤ˧pv̩˧: morve sèche, crottes de nez; ɲi˧gɤ˧ʈʂʰv̩˩: morve liquide
 \va <speaker="M21"> ɲi˧gɤ˧-dʑi˥
-\vf <print="n"> schéma tonal inattendu: on attendrait un type d2a: †ɲi˧gɤ˧dʑi˧, †ɲi˧gɤ˧dʑi˧ɲi˥
+\vc <langue="fra" print="n"> schéma tonal inattendu: on attendrait un type d2a: †ɲi˧gɤ˧dʑi˧, †ɲi˧gɤ˧dʑi˧ɲi˥
 \pdv ʈʰɤ˥α
 \de Nasal mucus, snivel.
 \ge snivel
@@ -39901,7 +39900,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ɲi˧nɑ˩-bæ˩
-\vf <print="n"> +ɲi˩
+\vc <langue="fra" print="n"> +ɲi˩
 \de Cane; rattan.
 \ge cane/rattan
 \dn 藤子
@@ -40128,9 +40127,9 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009: n'est pas /tsɯ/)
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Avec classificateur: ɲi˧tsɯ˧lɯ˧
+\vc <langue="fra" print="n"> Avec classificateur: ɲi˧tsɯ˧lɯ˧
 \va <speaker="M21"> ID.
-\vf <print="n"> Avec classificateur, de 20 à 29: ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˥ ˧, ˧ ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˩ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˩ ˥, ˧ ˧ ˧ ˥
+\vc <langue="fra" print="n"> Avec classificateur, de 20 à 29: ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˥ ˧, ˧ ˧ ˧ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˩ ˥, ˧ ˧ ˧ ˥, ˧ ˧ ˩ ˥, ˧ ˧ ˧ ˥
 \de 20.
 \ge 20
 \dn 二十
@@ -40207,7 +40206,7 @@
 \lc ɲi˧tsi˧ɲi˧˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ɲi˧tsi˧ɲi˧˥: avais d'abord noté ɲi˥tsɯ˥ ɲi˧˥
+\vc <langue="fra" print="n"> ɲi˧tsi˧ɲi˧˥: avais d'abord noté ɲi˥tsɯ˥ ɲi˧˥
 \de 22.
 \ge 22
 \dn 二十二
@@ -40246,7 +40245,7 @@
 \lc ɲi˧tsi˧qʰv̩˧˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> avant 2009: noté ɲi˥tsɯ˥kʰʶv̩˧˥, sur l'indication de M18
+\vc <type="hist" print="n" langue="fra"> avant 2009: noté ɲi˥tsɯ˥kʰʶv̩˧˥, sur l'indication de M18
 \de 26.
 \ge 26
 \dn 二十六
@@ -40266,7 +40265,7 @@
 \lc ɲi˧tsi˧so˩
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> avant 2009: noté ɲi˧tsɯ˧ so˩; 2006: noté ˧ ˧ ˥
+\vc <langue="fra" print="n"> avant 2009: noté ɲi˧tsɯ˧ so˩; 2006: noté ˧ ˧ ˥
 \de 23.
 \ge 23
 \dn 二十三
@@ -40327,9 +40326,9 @@
 \va <speaker="F4"> njo˩tsɯ#˥
 \va <speaker="F4"> mjo˩tsɯ#˥
 \va <speaker="F5"> nju˩tsɯ#˥
-\vf <print="n" dom="ton"> L+#H
+\vc <langue="fra" print="n" dom="ton"> L+#H
 \va <speaker="M21"> nju˩tsɯ˧
-\vf <print="n"> ton d6 et non d5; n'est pas sûr du sens
+\vc <langue="fra" print="n"> ton d6 et non d5; n'est pas sûr du sens
 \va <speaker="M23"> mjɤ˩tsɯ˧
 \pdv v̩˧
 \de Hmong (ethnic group).
@@ -40659,7 +40658,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> /njæ˩ kwæ˩˥ i:˥ hĩ˥/: expression non reconnue par F4.
+\vc <langue="fra" print="n"> /njæ˩ kwæ˩˥ i:˥ hĩ˥/: expression non reconnue par F4.
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Blind.
@@ -40792,9 +40791,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> Notes anciennes: "ɲu˩˥; phonèmes: sans doute /ny/ ou /ŋy/"
+\vc <langue="fra" print="n"> Notes anciennes: "ɲu˩˥; phonèmes: sans doute /ny/ ou /ŋy/"
 \va <speaker="M21"> ɲy˩
-\vf <print="n"> njɤ˩˥, ton m1; corrige le 14 mai en ɲy˩
+\vc <langue="fra" print="n"> njɤ˩˥, ton m1; corrige le 14 mai en ɲy˩
 \va <speaker="M23"> nju˧˥
 \de Milk.
 \ge milk
@@ -40839,9 +40838,9 @@
 \lc njo˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> nju˧, mv̩˧dze˧ nju˧
+\vc <langue="fra" print="n"> nju˧, mv̩˧dze˧ nju˧
 \va <speaker="M23"> ID.
-\vf <print="n"> hɑ˧nju˩, ex.: d'orge: tsʰi˧zi˧hɑ˧nju˥
+\vc <langue="fra" print="n"> hɑ˧nju˩, ex.: d'orge: tsʰi˧zi˧hɑ˧nju˥
 \de Ear (of wheat, barley).
 \ge ear
 \dn 谷穗
@@ -41083,9 +41082,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> Notes anciennes: "ɲu˩ bi˥; phonèmes: sans doute /ny/ ou /ŋy/".
+\vc <langue="fra" print="n"> Notes anciennes: "ɲu˩ bi˥; phonèmes: sans doute /ny/ ou /ŋy/".
 \va <speaker="M21"> nv̩˩bi˥
-\vf <print="n"> ton d6; dit aussi: ɲy˩bi˥; se corrige ensuite en: njɤ˩bi˥, puis, le 14 mai (2007? 2008?), en: nju˩bi˥
+\vc <langue="fra" print="n"> ton d6; dit aussi: ɲy˩bi˥; se corrige ensuite en: njɤ˩bi˥, puis, le 14 mai (2007? 2008?), en: nju˩bi˥
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Breast.
@@ -41138,10 +41137,10 @@
 \lc njo˧bi˧li˥
 \so F4
 \va <speaker="F5"> ɳɯ˧bi˧li˥
-\vf <print="n"> (n rétroflexe) (confirmé: ne prononce pas comme F4)
-\vf <print="n"> hésitations de notation: premières notes: /ɲi˧ bi˧ li˥/, /nju˧bi˧li˥/, pensé à une analyse phonémique comme /ŋy/; /y/ diphtongué en [ju], et /ŋ/ palatalisé en [ɲ]; F4 prononce plus près de: ɲy˧ bi˧ li˥, peu de diphtongaison du /y/; noté un /ɲi˧tsʰe˧/. Voyelle /i/ confirmée, tons confirmés.
+\vc <langue="fra" print="n"> (n rétroflexe) (confirmé: ne prononce pas comme F4)
+\vc <langue="fra" print="n"> hésitations de notation: premières notes: /ɲi˧ bi˧ li˥/, /nju˧bi˧li˥/, pensé à une analyse phonémique comme /ŋy/; /y/ diphtongué en [ju], et /ŋ/ palatalisé en [ɲ]; F4 prononce plus près de: ɲy˧ bi˧ li˥, peu de diphtongaison du /y/; noté un /ɲi˧tsʰe˧/. Voyelle /i/ confirmée, tons confirmés.
 \va <speaker="M21"> nv̩˧bi˧li˥
-\vf <print="n"> +ɲi˩
+\vc <langue="fra" print="n"> +ɲi˩
 \pdv ɭɯ˧β
 \de Lips.
 \ge lips
@@ -41243,7 +41242,7 @@
 \lc njɤ˩kʰi˥
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> emploie l'expression: njɤ˩ɭɯ˧ʁæ˧
+\vc <langue="fra" print="n"> emploie l'expression: njɤ˩ɭɯ˧ʁæ˧
 \pdv kʰwɤ˥
 \de Bottom eyelid.
 \ge bottom_eyelid
@@ -41318,7 +41317,7 @@
 \so F4
 \va <speaker="F5"> njɑ˧lɑ˥
 \va <speaker="M21"> ID.
-\vf <print="n"> d'abord noté: très tôt: njɤ˧˥ lɑ˥ gɤ˩ʈi˥
+\vc <langue="fra" print="n"> d'abord noté: très tôt: njɤ˧˥ lɑ˥ gɤ˩ʈi˥
 \de Early.
 \ge early
 \dn 早、黎明的时候
@@ -41375,9 +41374,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> njɤ˩lv̩˧
-\vf <print="n"> ton d6
+\vc <langue="fra" print="n"> ton d6
 \va <speaker="M21"> njɤ˩lv̩˧
-\vf <print="n"> ton d6; n'est pas /lɯ/
+\vc <langue="fra" print="n"> ton d6; n'est pas /lɯ/
 \pdv ɭɯ˧β
 \de Eye.
 \ge eye
@@ -41502,7 +41501,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> Notes anciennes: "njɤ˩ ko˥ lo˥ “os de l'œil"; njɤ˩ kʶwɑ˥, ou ˩ ˩˥, M18 hésite".
+\vc <langue="fra" print="n"> Notes anciennes: "njɤ˩ ko˥ lo˥ “os de l'œil"; njɤ˩ kʶwɑ˥, ou ˩ ˩˥, M18 hésite".
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Orbit; eye socket.
@@ -41582,7 +41581,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> nu˧, ton m3: nu˩ɲi˩˥
+\vc <langue="fra" print="n"> nu˧, ton m3: nu˩ɲi˩˥
 \de Second person singular pronoun.
 \ge |fg{2sg}
 \dn 你
@@ -42111,9 +42110,9 @@
 \ton LM
 \lc ɳv̩˩˥
 \so F4
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \va <speaker="M21"> ID.
-\vf <print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.　xxxx
+\vc <langue="fra" print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.　xxxx
 \pdv mi˩
 \de Moth; insect that eats into wood, books, clothes etc.
 \ge moth
@@ -42265,7 +42264,7 @@
 \ton LM+#H
 \so F4
 \va <speaker="F5"> ɳɯ˩hu#˥
-\vf <dom="ton"> L+#H
+\vc <langue="fra" dom="ton"> L+#H
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv v̩˥
@@ -42360,9 +42359,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> nv̩˩mi˩˥; d'abord noté nv̩˧mi˩˥
+\vc <langue="fra" print="n"> nv̩˩mi˩˥; d'abord noté nv̩˧mi˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> Le locuteur propose /nv̩˩mi˩-tsɯ˧/ pour traduire “pouls", 手脉.
+\vc <langue="fra" print="n"> Le locuteur propose /nv̩˩mi˩-tsɯ˧/ pour traduire “pouls", 手脉.
 \pdv ɭɯ˧β
 \de Heart.
 \ge heart
@@ -42664,7 +42663,7 @@
 \so F4
 \nt <type="hist" print="n" langue="fra"> Avant 2024: noté nv̩˩ze˧.
 \va <speaker="M23"> *
-\vf <print="n"> Le locuteur connaît le mot, mais n'est pas sûr au sujet de ce qu'il désigne.
+\vc <langue="fra" print="n"> Le locuteur connaît le mot, mais n'est pas sûr au sujet de ce qu'il désigne.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \de Chickpea, |fi{Cicer arietinum}, black-coloured; the dish |fn{黑色凉粉} is made out of this pea.
@@ -42785,9 +42784,9 @@
 \lc ŋwɤ˧˥
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> tɕʰi˥ ɳɯ˧ ʈʂe˩˥ “percé par une aiguille"; ɖɯ˧ ʈʂe˩ bi˩ “percer un coup"
+\vc <langue="fra" print="n"> tɕʰi˥ ɳɯ˧ ʈʂe˩˥ “percé par une aiguille"; ɖɯ˧ ʈʂe˩ bi˩ “percer un coup"
 \va <speaker="M21"> ID.
-\vf <print="n"> tɕʰi˧ ŋwɤ˩ (+ ze˥) “attraper une écharde"; paraît meilleur à M21 que les autres formulations de F4
+\vc <langue="fra" print="n"> tɕʰi˧ ŋwɤ˩ (+ ze˥) “attraper une écharde"; paraît meilleur à M21 que les autres formulations de F4
 \de To sting, to pierce.
 \ge to_pierce
 \dn 刺痛
@@ -42967,7 +42966,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> ŋwɤ˥tsʰɯ˧lɯ˧
+\vc <langue="fra" print="n"> ŋwɤ˥tsʰɯ˧lɯ˧
 \va <speaker="M21"> ID.
 \de 50.
 \ge 50
@@ -43008,7 +43007,7 @@
 \lc õ˧˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> N'emploie pas le mot seul, mais dans la formule /õ˧=bv̩˥/.
+\vc <langue="fra" print="n"> N'emploie pas le mot seul, mais dans la formule /õ˧=bv̩˥/.
 \va <speaker="M18"> njɤ˧ õ˧-bu˥-ɻ̩˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> njɤ˧ õ˧-bv̩˥-ɳɯ˩
@@ -43134,9 +43133,9 @@
 \lc õ˩dv̩˧˥
 \so F4
 \va <speaker="F5"> ũ˧dv̩˧˥
-\vf <dom="ton"> MH#
+\vc <langue="fra" dom="ton"> MH#
 \va <speaker="M18"> õ˧dv̩˧˥
-\vf <print="n"> donne: õ˧dv̩˧ kʰv̩˥mi˩ “chien-loup"
+\vc <langue="fra" print="n"> donne: õ˧dv̩˧ kʰv̩˥mi˩ “chien-loup"
 \va <speaker="M21"> ID.
 \pdv mi˩
 \de Wolf.
@@ -43280,9 +43279,9 @@
 \lc õ˧ʈʂwɤ˧kv̩˧dʑɯ˧˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> La locutrice connaît le mot, mais emploie maintenant le mot chinois.
+\vc <langue="fra" print="n"> La locutrice connaît le mot, mais emploie maintenant le mot chinois.
 \va <speaker="M18"> ID.
-\vf <print="n"> ũ˧ʈʂwɤ˧kv̩˧dʑi˧˥; d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; M18 se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥.
+\vc <langue="fra" print="n"> ũ˧ʈʂwɤ˧kv̩˧dʑi˧˥; d'abord noté: œ͂˞˥ ʈʂwɤ˥ kʰv̩˧ dʑi˥; œ͂˞˧ ʈʂwɤ˧ kʰv̩˧ dʑi˩˥; M18 se corrige en: kv̩˧ et non kʰv̩˧, qd je lui signale la prononciation de F4: õ˥ ɖʐwɤ˥ + kv̩˧ dʑi˩˥.
 \pdv ɭɯ˧β
 \de Mosquito net.
 \ge mosquito_net
@@ -43786,7 +43785,7 @@
 \ton #H
 \so F4
 \va <speaker="M18> *
-\vf <print="n"> Le locuteur emploie une périphrase.
+\vc <langue="fra" print="n"> Le locuteur emploie une périphrase.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Washbasin, basin to wash one's face.
@@ -44022,7 +44021,7 @@
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> pʰi˧˥, ton 4 (le˧pʰi˧ze˥), njɤ˧ pʰi˩ ze˥!
+\vc <langue="fra" print="n"> pʰi˧˥, ton 4 (le˧pʰi˧ze˥), njɤ˧ pʰi˩ ze˥!
 \de To vomit.
 \ge to_vomit
 \dn 呕吐
@@ -44097,7 +44096,7 @@
 \ton LM
 \so F4
 \va <speaker="M21"> pʰiŋ˩ko˥
-\vf <print="n"> emprunt: le locuteur prononce “bien" à la façon chinoise, avec la nasale: pʰiŋ˩ku˥
+\vc <langue="fra" print="n"> emprunt: le locuteur prononce “bien" à la façon chinoise, avec la nasale: pʰiŋ˩ku˥
 \pdv ɭɯ˧β
 \de Apple.
 \ge 苹果::apple
@@ -44252,7 +44251,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> pʰi˧mu˩: grand objet pour vanner; cf aussi 1 et 6 de l'entrée 596
+\vc <langue="fra" print="n"> pʰi˧mu˩: grand objet pour vanner; cf aussi 1 et 6 de l'entrée 596
 \pdv nɑ˧α
 \de Winnowing fan.
 \ge winnowing_fan
@@ -44333,7 +44332,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> pi˩ɻ̩˧˥
-\vf <print="n"> d'abord noté pi˩ ɻ̩˧
+\vc <langue="fra" print="n"> d'abord noté pi˩ ɻ̩˧
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Double chin; flesh under the chin.
@@ -44771,7 +44770,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> emploie: mv̩˧, ton 1: tʰi˧ mv̩˧, ɖɯ˧ mv̩˧ ɻ̩˩! “essaie donc mes vêtements!"
+\vc <langue="fra" print="n"> emploie: mv̩˧, ton 1: tʰi˧ mv̩˧, ɖɯ˧ mv̩˧ ɻ̩˩! “essaie donc mes vêtements!"
 \de To drape oneself in (a cape, a piece of fabric), without buttoning up.
 \ge to_drape_oneself_in
 \dn 披上（不系扣子）
@@ -44992,7 +44991,7 @@
 \lc pɤ˩dʑɯ˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> pɤ˩dʑi˩˧, ton d3 “eau de source"
+\vc <langue="fra" print="n"> pɤ˩dʑi˩˧, ton d3 “eau de source"
 \de Spring water.
 \ge spring_water
 \dn 泉水
@@ -45205,11 +45204,11 @@
 \ton M
 \so F4
 \va <speaker="F5"> pu˧ɭu#˥
-\vf <dom="ton" print="n"> #H
+\vc <langue="fra" dom="ton" print="n"> #H
 \va <speaker="M21"> ID.
-\vf <print="n"> pu˧lu˧, ton d1 = idem ju˧tu˧kɑ˧
+\vc <langue="fra" print="n"> pu˧lu˧, ton d1 = idem ju˧tu˧kɑ˧
 \va <speaker="M23"> *
-\vf <print="n"> dit: ju˧tu˧kɑ˧ +ɲi˥ “mouton - mâle"
+\vc <langue="fra" print="n"> dit: ju˧tu˧kɑ˧ +ɲi˥ “mouton - mâle"
 \pdv pʰo˧˥α
 \de Ram.
 \ge ram
@@ -45349,7 +45348,7 @@
 \ton M
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Recourt essentiellement à un emprunt.
+\vc <langue="fra" print="n"> Recourt essentiellement à un emprunt.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -45501,7 +45500,7 @@
 \lc pɤ˩tɕɯ˧˥
 \so F4
 \va <speaker="M23"> pɤ˩tɕɯ˧˥
-\vf <print="n"> noté comme ton L une fois, comme L+MH# une autre
+\vc <langue="fra" print="n"> noté comme ton L une fois, comme L+MH# une autre
 \pdv mi˩
 \de Tadpole.
 \ge tadpole
@@ -45527,9 +45526,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> pɤ˩tɕi˩
-\vf <print="n"> ton d3
+\vc <langue="fra" print="n"> ton d3
 \va <speaker="M21"> *
-\vf <print="n"> D'après M21, /pɤ˩tɕi˧-pɤ˥mi˩/ voudrait dire “têtard et grenouille"; tons vérifiés
+\vc <langue="fra" print="n"> D'après M21, /pɤ˩tɕi˧-pɤ˥mi˩/ voudrait dire “têtard et grenouille"; tons vérifiés
 \pdv mi˩
 \de Tadpole.
 \ge tadpole
@@ -45596,11 +45595,11 @@
 \cf qwæ˧
 \so F4
 \va <speaker="F5"> pɤ˩ti˩
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \va <speaker="M18"> ID.
-\vf <print="n"> pɤ˧ti˥
+\vc <langue="fra" print="n"> pɤ˧ti˥
 \va <speaker="M21"> pɤ˩ti˧˥
-\vf <print="n"> ton d5a
+\vc <langue="fra" print="n"> ton d5a
 \pdv ɭɯ˧β
 \de Stool, small bench.
 \ge stool/bench
@@ -45624,9 +45623,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ɲi˧gɤ˧ pɑ˧ʈʂʰwæ˥
+\vc <langue="fra" print="n"> ɲi˧gɤ˧ pɑ˧ʈʂʰwæ˥
 \va <speaker="M23"> pæ˧˥ʈʂʰwæ˩
-\vf <print="n"> le˧-pæ˧˥ʈʂʰwæ˩+ze˩
+\vc <langue="fra" print="n"> le˧-pæ˧˥ʈʂʰwæ˩+ze˩
 \de Flat, flat-shaped, flattened.
 \ge flattened
 \dn （鼻子）扁、被压扁、凹下去
@@ -45714,9 +45713,9 @@
 \lc pɤ˩˧ʐv̩˩
 \so F4
 \va <speaker="F5"> pɑ˩˥ʐv̩˩
-\vf <print="n"> n'est pas ˩˥ ˧
+\vc <langue="fra" print="n"> n'est pas ˩˥ ˧
 \va <speaker="M18"> pɑ˩˥ʐv̩˩
-\vf <print="n"> D'abord noté /pɑ˩˥ ʐv̩˩/, puis corrigé en ˩˥ ˧. Le 30 nov. 2006: M18 corrige à nouveau en ˩˥ ˩. Sens: étoffe matelassée servant de matelas.
+\vc <langue="fra" print="n"> D'abord noté /pɑ˩˥ ʐv̩˩/, puis corrigé en ˩˥ ˧. Le 30 nov. 2006: M18 corrige à nouveau en ˩˥ ˩. Sens: étoffe matelassée servant de matelas.
 \pdv tsʰi˥
 \de Mattress.
 \ge 被褥::mattress
@@ -46476,9 +46475,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> pv̩˩lɯ˧, ton d6; d'abord noté ˩ ˥
+\vc <langue="fra" print="n"> pv̩˩lɯ˧, ton d6; d'abord noté ˩ ˥
 \va <speaker="M21"> ID.
-\vf <print="n"> pv̩˩lɯ˧, ton d6; d'abord noté ˩ ˥
+\vc <langue="fra" print="n"> pv̩˩lɯ˧, ton d6; d'abord noté ˩ ˥
 \pdv ɭɯ˧β
 \de Button.
 \ge button
@@ -46535,7 +46534,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> Emploie: /sv̩˧ʈʰæ˧kʰwɤ˧/
+\vc <langue="fra" print="n"> Emploie: /sv̩˧ʈʰæ˧kʰwɤ˧/
 \pdv ɭɯ˧β
 \de Woolen skirt. (Not in common use in Yongning.).
 \ge woolen_skirt
@@ -46575,7 +46574,7 @@
 \lc pɻ̩˧lv̩˧
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> Emploie: /pv̩˧ kæ:˧ lv̩˧/; allongement: non élucidé
+\vc <langue="fra" print="n"> Emploie: /pv̩˧ kæ:˧ lv̩˧/; allongement: non élucidé
 \pdv pʰɻ̩˩
 \de Nonirrigated farmland; dry land.
 \ge dry_land
@@ -46643,11 +46642,11 @@
 \lc pv̩˧ɻ̩˧
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> Emploie: pʰv̩˧ɭɯ˧bɑ˩lɑ˩
+\vc <langue="fra" print="n"> Emploie: pʰv̩˧ɭɯ˧bɑ˩lɑ˩
 \va <speaker="M18"> pʰv̩˩ɻ̩˩
-\vf <print="n"> tons vérifiés; d'abord noté ˩ ˥. Segments: d'abord noté pʰv̩˩lv̩˩˥.
+\vc <langue="fra" print="n"> tons vérifiés; d'abord noté ˩ ˥. Segments: d'abord noté pʰv̩˩lv̩˩˥.
 \va <speaker="M21"> ID.
-\vf <print="n"> pʰv̩˩bɑ˩lɑ˧ +ɲi˩
+\vc <langue="fra" print="n"> pʰv̩˩bɑ˩lɑ˧ +ɲi˩
 \pdv tsʰi˥
 \de Tibetan wool fabric.
 \ge Tibetan_wool_fabric
@@ -46669,7 +46668,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> D'après M21, le terme désignerait des variétés de jade.
+\vc <langue="fra" print="n"> D'après M21, le terme désignerait des variétés de jade.
 \pdv ɭɯ˧β
 \de Amber.
 \ge amber
@@ -46736,9 +46735,9 @@
 \lc pʰɻ̩˩tɕæ˩ɻæ˥
 \so F4
 \va <speaker="F5"> pʰɻ̩˩tɕæ˩˥
-\vf <dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, par laquelle l'expression de trois syllabes se réduit à deux: /|fv{pʰɻ̩˩tɕæ˩˥ (+gv̩˩)}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
-\ve <dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, donnant: /|fv{pʰɻ̩˩tɕæ˩˧ gv̩˩}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
-\vn <dom="phono"> /|fv{ɻæ}/音节的弱化，使三个音节的/|fv{pʰɻ̩˩-tɕæ˩ɻæ˥}/减为两个：/|fv{pʰɻ̩˩tɕæ˩˥/；/|fv{ɻæ}/丢失，甚至在慢速说话中也不出现。
+\vc <langue="fra" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, par laquelle l'expression de trois syllabes se réduit à deux: /|fv{pʰɻ̩˩tɕæ˩˥ (+gv̩˩)}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
+\vc <langue="eng" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, donnant: /|fv{pʰɻ̩˩tɕæ˩˧ gv̩˩}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
+\vc <langue="cmn" dom="phono"> /|fv{ɻæ}/音节的弱化，使三个音节的/|fv{pʰɻ̩˩-tɕæ˩ɻæ˥}/减为两个：/|fv{pʰɻ̩˩tɕæ˩˥/；/|fv{ɻæ}/丢失，甚至在慢速说话中也不出现。
 \va <speaker="M18"> pʰɻ̩˩tɕæ˩ɻ̩˩
 \de Very white.
 \ge white
@@ -46830,7 +46829,7 @@
 \lc pɻ̩˧ʈʂɯ˩
 \so F4
 \va <speaker="M21"> pv̩˥ʈʂɯ˩
-\vf <print="n"> læ˧ pv̩˥ʈʂɯ˩ ze˩
+\vc <langue="fra" print="n"> læ˧ pv̩˥ʈʂɯ˩ ze˩
 \va <speaker="M23"> ʐv̩˧~ʐv̩˥
 \de To press, to squeeze.
 \ge to_press
@@ -47591,7 +47590,7 @@
 \so F4
 \va <speaker="F5"> qʰæ˧˥
 \va <speaker="M21"> qʰæ˧˥
-\vf <print="n"> li˧æ˧kʰæ˧ zi˥, ton 2; li˧æ˧kʰæ˧kʰæ˧ +zi˩, li˧æ˧kʰæ˧kʰæ˧ dzɯ˧, li˧æ˧kʰæ˧kʰæ˧ li˧dzɯ˧ (tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̩̃˧ kʰæ˧˥
+\vc <langue="fra" print="n"> li˧æ˧kʰæ˧ zi˥, ton 2; li˧æ˧kʰæ˧kʰæ˧ +zi˩, li˧æ˧kʰæ˧kʰæ˧ dzɯ˧, li˧æ˧kʰæ˧kʰæ˧ li˧dzɯ˧ (tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̩̃˧ kʰæ˧˥
 \de To gnaw, to nibble.
 \ge to_gnaw
 \dn 啃（啃骨头）
@@ -47952,7 +47951,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> kʶæ˧bæ˩˥
+\vc <langue="fra" print="n"> kʶæ˧bæ˩˥
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Spoon, used for salt, tsamba… It corresponds to European teaspoons and tablespoons.
@@ -48275,7 +48274,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> d'abord noté: kʶɑ˩ne˩˥i˧ tso˧ ɲi˧? 'comment faire?'
+\vc <langue="fra" print="n"> d'abord noté: kʶɑ˩ne˩˥i˧ tso˧ ɲi˧? 'comment faire?'
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \de How.
@@ -48368,9 +48367,9 @@
 \cf qʰæ˩α2
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Notes anciennes: qʰæ˩ʈæ˩˧
+\vc <langue="fra" print="n"> Notes anciennes: qʰæ˩ʈæ˩˧
 \va <speaker="M23"> ID.
-\vf <print="n"> Notes anciennes: qʰæ˩ʈæ˩˧
+\vc <langue="fra" print="n"> Notes anciennes: qʰæ˩ʈæ˩˧
 \de Quiet, at peace.
 \ge quiet
 \dn 安静
@@ -48838,7 +48837,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> kv̩˥
-\vf <print="n"> tʰi˧ ɤ˧ kv̩˥; 20 mai 2008: pensé que c'était /kʶv/; enrt du 21: paraît clairement être /kv/
+\vc <langue="fra" print="n"> tʰi˧ ɤ˧ kv̩˥; 20 mai 2008: pensé que c'était /kʶv/; enrt du 21: paraît clairement être /kv/
 \de To kneel down.
 \ge to_kneel
 \dn 跪下
@@ -48894,7 +48893,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˧˥
-\vf <print="n"> qʰv̩˩qʰv̩˧˥; avant 2009, noté: kʰʶv̩˩˥, kʰʶv̩˩kʰʶv̩˩˥); différence vérifiée avec F4: chez M21 la rime est bien /v/ et pas /u/, tons vérifiés.
+\vc <langue="fra" print="n"> qʰv̩˩qʰv̩˧˥; avant 2009, noté: kʰʶv̩˩˥, kʰʶv̩˩kʰʶv̩˩˥); différence vérifiée avec F4: chez M21 la rime est bien /v/ et pas /u/, tons vérifiés.
 \de To peck.
 \ge to_peck
 \dn 啄
@@ -49015,7 +49014,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩dv̩˧˥
-\vf <print="n">ton d5
+\vc <langue="fra" print="n">ton d5
 \pdv ɭɯ˧β
 \de Hammer; typically a large wood hammer.
 \ge hammer
@@ -49259,9 +49258,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> d'abord noté: ko˧ʁɑ˩˥, puis [ko˩qɑ˩˥], ce qui est la réalisation phonétique
+\vc <langue="fra" print="n"> d'abord noté: ko˧ʁɑ˩˥, puis [ko˩qɑ˩˥], ce qui est la réalisation phonétique
 \va <speaker="M21"> ID.
-\vf <print="n"> dʑi˩ʶwɤ˩˥ ko˩kɑ˩ (+ ɲi˥), ton d3, dʑi˩ nɑ˩mi˩ ʁu˥ ko˩kɑ˩ ɲi˥
+\vc <langue="fra" print="n"> dʑi˩ʶwɤ˩˥ ko˩kɑ˩ (+ ɲi˥), ton d3, dʑi˩ nɑ˩mi˩ ʁu˥ ko˩kɑ˩ ɲi˥
 \pdv ɭɯ˧β
 \de Mountain pass.
 \ge mountain_pass
@@ -49340,7 +49339,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> qʰv̩˩tv̩˧˥
-\vf <print="n"> ton d5a; vérifié, n'est pas /kʰu/
+\vc <langue="fra" print="n"> ton d5a; vérifié, n'est pas /kʰu/
 \pdv ɭɯ˧β
 \de Tree stump.
 \ge tree_stump
@@ -49499,7 +49498,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> tv̩˧qʰv̩˧, ton d1; tv̩˧qʰv̩˧ tsʰɤ˥: creuser un trou; n'utilise pas la forme monosyllabique /qʰv/. Phonétiquement: [kʶv]
+\vc <langue="fra" print="n"> tv̩˧qʰv̩˧, ton d1; tv̩˧qʰv̩˧ tsʰɤ˥: creuser un trou; n'utilise pas la forme monosyllabique /qʰv/. Phonétiquement: [kʶv]
 \pdv ɭɯ˧β
 \de Hole.
 \ge hole
@@ -49573,7 +49572,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> dzɯ˧ ŋɤ˧ +zi˧: se recroqueviller sur soi-même (ex.: un chien qui a froid); se recroqueviller, pour une chenille qu'on touche, par exemple: le˧-zv̩˧˥, le˧-zv̩˧-ze˥, ton 4
+\vc <langue="fra" print="n"> dzɯ˧ ŋɤ˧ +zi˧: se recroqueviller sur soi-même (ex.: un chien qui a froid); se recroqueviller, pour une chenille qu'on touche, par exemple: le˧-zv̩˧˥, le˧-zv̩˧-ze˥, ton 4
 \de To huddle up, to curl up.
 \ge to_huddle_up
 \dn 蜷缩
@@ -49728,7 +49727,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> qʰv̩˧dʑi#˥
-\vf <print="n"> donne qʰv̩˧dʑi˧ ɲi˥, ton d2a, càd ton différent de F4. Notation ancienne: kʰʶv̩˧dʑi˧
+\vc <langue="fra" print="n"> donne qʰv̩˧dʑi˧ ɲi˥, ton d2a, càd ton différent de F4. Notation ancienne: kʰʶv̩˧dʑi˧
 \pdv ɭɯ˧β
 \de Hole, cavity (e.g. mouse hole, or trap to catch large animals).
 \ge hole
@@ -49759,7 +49758,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> kʰʶv̩˧ ɬi˧mi˧; en débit lent: kʰʶv̩˧˥ ɬi˧mi˧ (+ɲi˥)
+\vc <langue="fra" print="n"> kʰʶv̩˧ ɬi˧mi˧; en débit lent: kʰʶv̩˧˥ ɬi˧mi˧ (+ɲi˥)
 \de 6th month.
 \ge 6th_month
 \dn 六月
@@ -49821,10 +49820,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> qv̩˧ʈʂæ˧
-\vf <print="n"> confirmé: tons non montants, schéma M.M
+\vc <langue="fra" print="n"> confirmé: tons non montants, schéma M.M
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <print="n"> bruit: ʐwæ˧ʐwæ˧qʰv̩˧
+\vc <langue="fra" print="n"> bruit: ʐwæ˧ʐwæ˧qʰv̩˧
 \pdv ɭɯ˧β
 \de Throat.
 \ge throat
@@ -50319,7 +50318,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> kwæ˩ʈʂæ˩
-\vf <print="n" dom="ton"> L
+\vc <langue="fra" print="n" dom="ton"> L
 \va <speaker="M23"> kwɤ˩ɖʐæ˩˧
 \pdv ɭɯ˧β
 \de Jaw; mouth.
@@ -50424,7 +50423,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> jɥe˩tsɯ˧
 \va <speaker="M21"> jɥen˩dzɯ˧
-\vf <langue="fra"> Le voisement de l'initiale /|fv{dz}/ par ce locuteur est confirmé.
+\vc <langue="fra"> Le voisement de l'initiale /|fv{dz}/ par ce locuteur est confirmé.
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge 园子::vegetable_garden
@@ -50445,9 +50444,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M
 \so F4
 \va <speaker="F5"> *
-\vf <langue="fra" print="n"> La locutrice recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; la locutrice prononce: /jɥe˩tsɯ˧/).
+\vc <langue="fra" print="n"> La locutrice recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; la locutrice prononce: /jɥe˩tsɯ˧/).
 \va <speaker="M21"> *
-\vf <langue="fra" print="n"> Le locuteur recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; le locuteur prononce: /jɥen˩dzɯ˥/).
+\vc <langue="fra" print="n"> Le locuteur recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; le locuteur prononce: /jɥen˩dzɯ˥/).
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge vegetable_garden
@@ -50500,9 +50499,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> Notes anciennes: a) kʶwæ˧ b) kʶwæ˧pu˩˥ “transmettre un message", tons confirmés
+\vc <langue="fra" print="n"> Notes anciennes: a) kʶwæ˧ b) kʶwæ˧pu˩˥ “transmettre un message", tons confirmés
 \va <speaker="M21"> kʰwæ˧mi˧
-\vf <print="n"> ton d2; ex.: kʰwæ˧pu˧˥ “apporter une lettre"
+\vc <langue="fra" print="n"> ton d2; ex.: kʰwæ˧pu˧˥ “apporter une lettre"
 \pdv kʰwɤ˥
 \de Message, information (extended meaning: letter).
 \ge message/information
@@ -50842,9 +50841,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰwɑ˧ɖɯ˩˥
-\vf <print="n"> kʰwɑ˧ɖɯ˩˥ v̩˩dze˩˥
+\vc <langue="fra" print="n"> kʰwɑ˧ɖɯ˩˥ v̩˩dze˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> avant 2009, noté: kʰwɑ˩ ɖɯ˩˥
+\vc <langue="fra" print="n"> avant 2009, noté: kʰwɑ˩ ɖɯ˩˥
 \pdv v̩˧
 \de Relatives, members of the family.
 \ge relatives
@@ -50928,9 +50927,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf qwæ˩ɖʐæ˩
 \so F4
 \va <speaker="F5"> ko˩pi˩
-\vf <print="n" dom="ton"> L
+\vc <langue="fra" print="n" dom="ton"> L
 \va <speaker="M18"> kwɤ˩pi˩
-\vf <print="n"> 1e syllabe: confirmé; n'est pas ko˩; d'abord noté koə˩
+\vc <langue="fra" print="n"> 1e syllabe: confirmé; n'est pas ko˩; d'abord noté koə˩
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
@@ -51069,7 +51068,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc qʰwɤ˧tʰv̩˧
 \so F4
 \va <speaker="F4"> qʰwɤ˧tʰv̩$˥
-\vf <dom="phono" langue="fra" print="n"> Ce mot présente deux variantes tonales chez la locutrice F4: /qʰwɤ˧tʰv̩#˥/ (au ton #H), et /qʰwɤ˧tʰv̩˥$/ (au ton H$ et non #H).
+\vc <dom="phono" langue="fra" print="n"> Ce mot présente deux variantes tonales chez la locutrice F4: /qʰwɤ˧tʰv̩#˥/ (au ton #H), et /qʰwɤ˧tʰv̩˥$/ (au ton H$ et non #H).
 \pdv ɭɯ˧β
 \de Bamboo basket to carry water (on back).
 \ge bamboo_basket_for_water
@@ -51183,7 +51182,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> donne: qʰwɤ˩le˧! La deuxième syllabe est un mot grammatical/suffixe
+\vc <langue="fra" print="n"> donne: qʰwɤ˩le˧! La deuxième syllabe est un mot grammatical/suffixe
 \va <speaker="M23"> ID.
 \de Intelligent.
 \ge intelligent
@@ -51380,7 +51379,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ɻæ˩˥
 \so F4
 \va <speaker="M21"> ɻwæ˩˧
-\vf <print="n"> ɻwæ˩˧, ton m1
+\vc <langue="fra" print="n"> ɻwæ˩˧, ton m1
 \pdv ɭɯ˧β
 \de Yoke (for one or two animals).
 \ge yoke
@@ -51551,9 +51550,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁɑ˧
 \so F4
 \va <speaker="F5"> ʁɤ#˥
-\vf <print="n"> ʁɤ˧ʑi˧
+\vc <langue="fra" print="n"> ʁɤ˧ʑi˧
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁɑ˧ʑi˧, ton d2
+\vc <langue="fra" print="n"> ʁɑ˧ʑi˧, ton d2
 \va <speaker="M23"> ID.
 \de Strength.
 \ge strength
@@ -51664,7 +51663,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁɑ˧, ton 2 (le˧ ʁɑ˥ ze˩); ɖɯ˧ tɕu˥ ʁɑ˥, ɖɯ˧ tɕu˥ pɑ˥ʁɑ˥
+\vc <langue="fra" print="n"> ʁɑ˧, ton 2 (le˧ ʁɑ˥ ze˩); ɖɯ˧ tɕu˥ ʁɑ˥, ɖɯ˧ tɕu˥ pɑ˥ʁɑ˥
 \de To stride over (an obstacle), to straddle, to go beyond, to cross.
 \ge to_stride_over
 \dn 跨（跨过小沟）
@@ -51748,7 +51747,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁɑ˧dzi˧
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> emploie un emprunt: je˩lju˧dzɯ˩
+\vc <langue="fra" print="n"> emploie un emprunt: je˩lju˧dzɯ˩
 \va <speaker="M21"> ID.
 \pdv dzi˩
 \de Poplar.
@@ -51904,7 +51903,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁæ˧ŋv̩˥, ton d7
+\vc <langue="fra" print="n"> ʁæ˧ŋv̩˥, ton d7
 \pdv ɭɯ˧β
 \de Silver-embellished collar (a precious part of the dress, with silver thread).
 \ge silver_embellished_collar
@@ -52191,7 +52190,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> læ˩ti˩læ˧
 \va <speaker="M23"> *
-\vf <print="n"> Le locuteur dit: tɑ˩pʰjɤ˩pʰjɤ˥, tɑ˩jɤ˩jɤ˥
+\vc <langue="fra" print="n"> Le locuteur dit: tɑ˩pʰjɤ˩pʰjɤ˥, tɑ˩jɤ˩jɤ˥
 \de Shrivelled, flat, shrunken.
 \ge shrivelled
 \dn 瘪瘪
@@ -52388,7 +52387,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁv̩˧
-\vf <print="n"> ton 1 (le˧ʁv̩˧ze˧) ; donne: æ˩ʁv̩˩ ʁv̩˧; vérifié, n'est pas ʁu˧
+\vc <langue="fra" print="n"> ton 1 (le˧ʁv̩˧ze˧) ; donne: æ˩ʁv̩˩ ʁv̩˧; vérifié, n'est pas ʁu˧
 \de To lay eggs.
 \ge to_lay_eggs
 \dn 下蛋
@@ -52574,7 +52573,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˧bv̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
+\vc <langue="fra" print="n"> ʁu˧bv̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
 \pdv kʰwɤ˥
 \de Sprout, bud.
 \ge sprout
@@ -52992,9 +52991,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʁu˩˥hṽ̩˩˥
-\vf <print="n"> d'abord noté o˧hṽ̩˧, puis ʶõ˩˥hṽ̩˩˥
+\vc <langue="fra" print="n"> d'abord noté o˧hṽ̩˧, puis ʶõ˩˥hṽ̩˩˥
 \va <speaker="M21"> ʁu˧hṽ̩#˥
-\vf <print="n"> ton d2a; ʁu˧hṽ̩˧ ɲi˥
+\vc <langue="fra" print="n"> ton d2a; ʁu˧hṽ̩˧ ɲi˥
 \va <speaker="M23"> ũ˧hṽ̩˧˥
 \pdv kʰɯ˩
 \de Hair (of the head).
@@ -53019,9 +53018,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> ʁu˥i˥, ʁu˥i˥ ɖɯ˧ kʰv̩˩˥
+\vc <langue="fra" print="n"> ʁu˥i˥, ʁu˥i˥ ɖɯ˧ kʰv̩˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˥i˥ + ɖɯ˧ kʰv̩˩˥
+\vc <langue="fra" print="n"> ʁu˥i˥ + ɖɯ˧ kʰv̩˩˥
 \de The year after next. The usual expression is the quadrisyllabic expression |fv{ʁo˧ʝi˧ | ɖɯ˧-kʰv̩˧˥}.
 \ge the_year_after_next
 \dn 后年。通常用四音节的表达式：|fv{ʁo˧ʝi˧|ɖɯ˧-ʰv̩˧˥}。
@@ -53087,7 +53086,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˧ɬi˥, ton d2c
+\vc <langue="fra" print="n"> ʁu˧ɬi˥, ton d2c
 \pdv ɭɯ˧β
 \de Large needle with which animal hide can be sewn.
 \ge large_needle
@@ -53353,7 +53352,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˧kɑ˥: tend à simplifier en: v̩˧kɑ˥
+\vc <langue="fra" print="n"> ʁu˧kɑ˥: tend à simplifier en: v̩˧kɑ˥
 \pdv ɭɯ˧β
 \de Lid.
 \ge lid
@@ -53422,7 +53421,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˧su˩ɖɯ˩ɲi˩: tons vérifiés
+\vc <langue="fra" print="n"> ʁu˧su˩ɖɯ˩ɲi˩: tons vérifiés
 \de The day after tomorrow.
 \ge the_day_after_tomorrow
 \dn 后天
@@ -53448,7 +53447,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁo˧ʂv̩˧
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ʁu˧ʂv̩˧ze˧, ʁu˧ʂv̩˧ bæ˧˥
+\vc <langue="fra" print="n"> ʁu˧ʂv̩˧ze˧, ʁu˧ʂv̩˧ bæ˧˥
 \va <speaker="M21"> ID.
 \de To guide, to show the way.
 \ge to_guide
@@ -53488,7 +53487,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ʁo˧tɕʰɤ˧~tɕʰɤ˧
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> réalisé comme une diphtongue, ressemble à tɕʰɥə; ʁu˧tɕʰɤ˧tɕʰɤ˧ +gv̩˧
+\vc <langue="fra" print="n"> réalisé comme une diphtongue, ressemble à tɕʰɥə; ʁu˧tɕʰɤ˧tɕʰɤ˧ +gv̩˧
 \va <speaker="M23"> ID.
 \de Sharp, pointed.
 \ge sharp
@@ -53554,9 +53553,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> ʁwɤ˧ʁu˧tsʰe˧ʁu˧; ʁu˧tsʰe˧. Première syll. d'abord notée o˧, puis ʶõ˧
+\vc <langue="fra" print="n"> ʁwɤ˧ʁu˧tsʰe˧ʁu˧; ʁu˧tsʰe˧. Première syll. d'abord notée o˧, puis ʶõ˧
 \va <speaker="M21"> ID.
-\vf <print="n"> ʁu˧tsʰe˧ʁu˧ +ɲi˥; longue hésitation car la rime ne paraissait pas être /u/ mais /v/; finalement: en reste à /u/ car homophone avec la première syllabe de “tête"; est la même syllabe.
+\vc <langue="fra" print="n"> ʁu˧tsʰe˧ʁu˧ +ɲi˥; longue hésitation car la rime ne paraissait pas être /u/ mais /v/; finalement: en reste à /u/ car homophone avec la première syllabe de “tête"; est la même syllabe.
 \de Top (e.g. mountain top).
 \ge top
 \dn 顶上，如：山顶
@@ -53846,10 +53845,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> lwæ˥
 \va <speaker="M18"> lwæ˧
-\vf <print="n"> “crier": M18 a perdu le /ɻ/ de ce mot, la syllabe /ɻwæ/ étant sans doute systématiquement confondue avec /lwæ/.
+\vc <langue="fra" print="n"> “crier": M18 a perdu le /ɻ/ de ce mot, la syllabe /ɻwæ/ étant sans doute systématiquement confondue avec /lwæ/.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> lwæ˧
-\vf <print="n"> ton 2
+\vc <langue="fra" print="n"> ton 2
 \de To cry (man, and animals: cat, cow, horse, donkey, chicken, lion, wolf…); to call out.
 \ge to_cry
 \dn 喊、吼、叫（人、猫、牛、猪、羊、狼、驴、狮子、老虎、豺狼……）
@@ -54095,7 +54094,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁwɤ˧
 \so F4
 \va <speaker="F4"> ʁo˧
-\vf <print="n" dom="ton"> M
+\vc <langue="fra" print="n" dom="ton"> M
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
@@ -54128,7 +54127,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> wɤ˧
-\vf <print="n"> hĩ˧wɤ˧, ton d2a; aussi: wɤ˧ku˧, ton d1
+\vc <langue="fra" print="n"> hĩ˧wɤ˧, ton d2a; aussi: wɤ˧ku˧, ton d1
 \va <speaker="M23"> ID.
 \pdv ʁwɤ˧
 \de Village, hamlet.
@@ -54258,7 +54257,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁwɤ˩ʁo˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> /ʁwɤ˩ʁu˩˥/, ton d3; tons corrigé le 14 mai 2008; avais d'abord noté "ʁwɤ˧ʁu˧, ton d2a". Rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe ; en conséquence, je maintiens la notation /ʁu/
+\vc <langue="fra" print="n"> /ʁwɤ˩ʁu˩˥/, ton d3; tons corrigé le 14 mai 2008; avais d'abord noté "ʁwɤ˧ʁu˧, ton d2a". Rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe ; en conséquence, je maintiens la notation /ʁu/
 \pdv ʁwɤ˧
 \de Hillside.
 \ge hillside
@@ -54351,7 +54350,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʁwɤ˧
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> ɖɯ˧-ʁwɤ˧ tʰi˧-tsɯ˥
+\vc <langue="fra" print="n"> ɖɯ˧-ʁwɤ˧ tʰi˧-tsɯ˥
 \va <speaker="M21"> ID.
 \de To make a heap of (e.g. cereals), to pile up.
 \ge to_heap
@@ -54392,7 +54391,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> wɤ˧
-\vf <print="n"> initiale: pas de /ʁ/
+\vc <langue="fra" print="n"> initiale: pas de /ʁ/
 \de A heap (e.g. of grains, of cut wood); literally: ‘a mountain of'.
 \ge |fg{clf}.heaps
 \dn 量词：堆（一堆粮食、一堆柴……）
@@ -54627,7 +54626,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> lv̩˩
-\vf <print="n"> ze˩gi˧ lv̩˥?
+\vc <langue="fra" print="n"> ze˩gi˧ lv̩˥?
 \de To face, to turn toward.
 \ge to_face
 \dn 对着
@@ -54788,7 +54787,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ɻ̩˧qʰv̩˧
 \so F4
 \va <speaker="M18"> ɻ̩˧; ʁwɤ˧qʰv̩˧
-\vf <print="n"> pour “eau de source", dit: ʁwɤ˧qʰv̩˧dʑi˩
+\vc <langue="fra" print="n"> pour “eau de source", dit: ʁwɤ˧qʰv̩˧dʑi˩
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Warm springs.
@@ -55042,7 +55041,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> le˧ʈɤ˧le˧ʂæ˧kʰɯ˥
+\vc <langue="fra" print="n"> le˧ʈɤ˧le˧ʂæ˧kʰɯ˥
 \va <speaker="M21"> ID.
 \de Long.
 \ge long
@@ -55272,7 +55271,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton L
 \so F4
 \va <speaker="F5"> sɑ˩mi˧˥
-\vf <dom="ton"> L+MH#
+\vc <langue="fra" dom="ton"> L+MH#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kɤ˧˥
@@ -55393,9 +55392,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M
 \so F4
 \va <speaker="M18"> sɑ˧tɕi˧
-\vf <print="n"> d'abord noté sɑ˧ dʑi˧; tons confirmés
+\vc <langue="fra" print="n"> d'abord noté sɑ˧ dʑi˧; tons confirmés
 \va <speaker="M21"> sɑ˧tɕi˧
-\vf <print="n"> ton d1
+\vc <langue="fra" print="n"> ton d1
 \pdv ɭɯ˧β
 \de Female sexual organ, vagina (taboo word).
 \ge vagina
@@ -55545,7 +55544,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton MHα
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ɖɯ˧ ʂæ˧˥, ɖɯ˧ ʂæ˧ ɲi˥, ton m4
+\vc <langue="fra" print="n"> ɖɯ˧ ʂæ˧˥, ɖɯ˧ ʂæ˧ ɲi˥, ton m4
 \de A sheaf of cut rice or other crop (the amount cut at one go with a sickle and immediately tied together with one sprig).
 \ge |fg{clf}.sheaves
 \dn 量词：捆
@@ -55573,7 +55572,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc se˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ton m2
+\vc <langue="fra" print="n"> ton m2
 \pdv pʰo˧˥α
 \de Himalayan goral (|fi{Naemorhedus goral}), blue sheep.
 \ge goral
@@ -55762,9 +55761,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂe˧bæ˧
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> recourt à un emprunt: ɕjæ˧ljæ˥
+\vc <langue="fra" print="n"> recourt à un emprunt: ɕjæ˧ljæ˥
 \va <speaker="M21"> ID.
-\vf <print="n"> hæ̃˩-ʂe˩bæ˥ +ɲi˩ 'collier en or'
+\vc <langue="fra" print="n"> hæ̃˩-ʂe˩bæ˥ +ɲi˩ 'collier en or'
 \pdv kʰɯ˩
 \de Necklace; chain.
 \ge necklace/chain
@@ -56051,9 +56050,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʂɯ˥ mu˥ lɑ˥ i˥ hĩ˥
-\vf <print="n"> la syllabe notée /i/ paraît longue: [|fv{iː˧}]
+\vc <langue="fra" print="n"> la syllabe notée /i/ paraît longue: [|fv{iː˧}]
 \va <speaker="M21"> ʂe˧lɑ˧ pu˧ɖʐɯ˥
-\vf <print="n"> n'est pas ˧ ˧ ˧ ˧˥; ʂe˧lɑ˧pu˧ɖʐɯ˧ɲi˥; ʂe˧lɑ˧hĩ˥; tons vérifiés
+\vc <langue="fra" print="n"> n'est pas ˧ ˧ ˧ ˧˥; ʂe˧lɑ˧pu˧ɖʐɯ˧ɲi˥; ʂe˧lɑ˧hĩ˥; tons vérifiés
 \pdv v̩˧
 \de Blacksmith.
 \ge blacksmith
@@ -56633,7 +56632,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> sɯ˩˥
 \va <speaker="M21"> sɯ˩˥
-\vf <print="n"> ton m1
+\vc <langue="fra" print="n"> ton m1
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Liver.
@@ -56658,7 +56657,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <print="n"> vérifié: est /si/ et non /sɯ/
+\vc <langue="fra" print="n"> vérifié: est /si/ et non /sɯ/
 \de To shave (the beard or the head); to scrub (e.g. to scrub earth off vegetables).
 \ge to_shave/to_scrub
 \dn 剔，刮
@@ -56837,7 +56836,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> sɯ˧dzɯ˩; on ne peut dire sɯ˧nɑ; sɯ˧ɕi˧˥, ton d2: là où il y a de gros arbres
+\vc <langue="fra" print="n"> sɯ˧dzɯ˩; on ne peut dire sɯ˧nɑ; sɯ˧ɕi˧˥, ton d2: là où il y a de gros arbres
 \va <speaker="M23"> ID.
 \pdv pʰæ˧˥
 \de Forest.
@@ -56929,7 +56928,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc si˧gɯ˧
 \so F4
 \va <speaker="M21"> sɯ˧gɯ˧
-\vf <print="n"> ton d1; vérifié: n'est pas /‡sɯ˧gɤ˧/
+\vc <langue="fra" print="n"> ton d1; vérifié: n'est pas /‡sɯ˧gɤ˧/
 \pdv mi˩
 \de Lion.
 \ge སེང་གེ::lion
@@ -57205,9 +57204,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <dom="phono" langue="fra"> fendre du bois
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> emploie: /dze˩˥/ 'couper', ton 3, le˧ dzi˧dzi˥ (+ze˩); 'fendre du bois': sɯ˧ kʰwæ˩, ton 4
+\vc <langue="fra" print="n"> emploie: /dze˩˥/ 'couper', ton 3, le˧ dzi˧dzi˥ (+ze˩); 'fendre du bois': sɯ˧ kʰwæ˩, ton 4
 \va <speaker="M23"> *
-\vf <print="n"> emploie: /qʰo˧˥/, dont le sens serait: couper en deux
+\vc <langue="fra" print="n"> emploie: /qʰo˧˥/, dont le sens serait: couper en deux
 \de To chop wood, to split wood.
 \ge to_chop(wood)
 \dn 劈、剖
@@ -57250,9 +57249,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> sɯ˧ʁv̩˧sɯ˧lɯ#˥
-\vf <print="n"> confirmé: est ʁv̩˧ et non ʁu˧
+\vc <langue="fra" print="n"> confirmé: est ʁv̩˧ et non ʁu˧
 \va <speaker="M23"> si˧ʁu˧sɯ˧lɯ˧
-\vf <print="n"> vérifié: d'après le locuteur, la 1e syll. est comme “bois", la 3e comme “savoir"; enregistré un: sɯ˧lv̩˧ʁu˧lv̩˧; mais préfère /si˧ʁu˧sɯ˧lɯ˧/
+\vc <langue="fra" print="n"> vérifié: d'après le locuteur, la 1e syll. est comme “bois", la 3e comme “savoir"; enregistré un: sɯ˧lv̩˧ʁu˧lv̩˧; mais préfère /si˧ʁu˧sɯ˧lɯ˧/
 \pdv ɭɯ˧β
 \de Fruit.
 \ge fruit
@@ -57297,7 +57296,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> sɯ˧-sæ˥qʰv̩˩
-\vf <print="n"> d'abord noté …kʰʶv̩˩
+\vc <langue="fra" print="n"> d'abord noté …kʰʶv̩˩
 \de Birch, |fi{Betula szechuanica (Betula Pendula var. szechuanica)}.
 \ge birch
 \dn 四川桦树，白桦树
@@ -57320,9 +57319,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> sɯ˩tsʰɤ˩
-\vf <print="n"> 2006: noté sɯ˧ tsʰɯ˩˥, par erreur), ton d3
+\vc <langue="fra" print="n"> 2006: noté sɯ˧ tsʰɯ˩˥, par erreur), ton d3
 \va <speaker="M23"> tsʰɤ˩tsʰɤ˩
-\vf <print="n"> ex.: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥; vérifié, n'est pas /sɯ/
+\vc <langue="fra" print="n"> ex.: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥; vérifié, n'est pas /sɯ/
 \pdv tsʰɤ˧˥
 \de Leaf.
 \ge leaf
@@ -57379,9 +57378,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc si˧
 \so F4
 \va <speaker="M21"> sv̩˧
-\vf <print="n"> ton 1, lə˧sv̩˧ze˧); donne: njɤ˧ sv̩˧ bi˧! “c'est moi qui choisis!"
+\vc <langue="fra" print="n"> ton 1, lə˧sv̩˧ze˧); donne: njɤ˧ sv̩˧ bi˧! “c'est moi qui choisis!"
 \va <speaker="M23"> sɯ˧sɯ˩
-\vf <print="n"> d'après M23, est du type “savoir", /sɯ/, n'est pas /si/; différence avec F4.
+\vc <langue="fra" print="n"> d'après M23, est du type “savoir", /sɯ/, n'est pas /si/; différence avec F4.
 \de To choose, to select.
 \ge to_choose
 \dn 挑选
@@ -57464,7 +57463,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> hĩ˧ so˩ (+ɲi˩), d'abord noté ˥ ˩; so˩˥, ton m4; so˩˥ kʰɯ˥ ɲi˩; so˩˥ ɲi˥!
+\vc <langue="fra" print="n"> hĩ˧ so˩ (+ɲi˩), d'abord noté ˥ ˩; so˩˥, ton m4; so˩˥ kʰɯ˥ ɲi˩; so˩˥ ɲi˥!
 \pdv kʰɯ˩
 \pdc <langue="fra"> objets longs
 \de Breath.
@@ -57551,10 +57550,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc sɤ˩˥
 \so F4
 \va <speaker="F5"> sɤ˧˥
-\vf <dom="ton" print="n"> MH
+\vc <langue="fra" dom="ton" print="n"> MH
 \va <speaker="M18"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> utilise: bv̩˧ɻ̩˧-qʰæ˧, littéralement “crottes de mouches"
+\vc <langue="fra" print="n"> utilise: bv̩˧ɻ̩˧-qʰæ˧, littéralement “crottes de mouches"
 \pdv ɭɯ˧β
 \de Mole; pigmented naevus.
 \ge mole
@@ -57578,7 +57577,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> sɤ˥, ton m4
+\vc <langue="fra" print="n"> sɤ˥, ton m4
 \pdv ʈʰɤ˥
 \de Blood.
 \ge blood
@@ -57808,9 +57807,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> so˥ hɑ͂˧ɖɯ˧ hɑ͂˧
+\vc <langue="fra" print="n"> so˥ hɑ͂˧ɖɯ˧ hɑ͂˧
 \va <speaker="M21"> ID.
-\vf <print="n"> su˥ hɑ͂˩ɖɯ˩hɑ͂˩ mv̩˩ kʰv̩˩˥ (tons vérifiés); on peut dire simplement: so˧ɲi˧ mv̩˥kʰv̩˩; selon M18: il faudrait dire simplement su˥ hɑ͂˩ɖɯ˩hɑ͂˩, sans ajouter “soir", qui serait un calque du chinois
+\vc <langue="fra" print="n"> su˥ hɑ͂˩ɖɯ˩hɑ͂˩ mv̩˩ kʰv̩˩˥ (tons vérifiés); on peut dire simplement: so˧ɲi˧ mv̩˥kʰv̩˩; selon M18: il faudrait dire simplement su˥ hɑ͂˩ɖɯ˩hɑ͂˩, sans ajouter “soir", qui serait un calque du chinois
 \de Tomorrow evening.
 \ge tomorrow_evening
 \dn 明晚
@@ -57837,7 +57836,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M21"> *
 \va <speaker="M23"> *
-\vf <print="n"> gi˧tʰu˧˥, ton d2b; ex.: gi˧tʰu˧bv̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
+\vc <langue="fra" print="n"> gi˧tʰu˧˥, ton d2b; ex.: gi˧tʰu˧bv̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
 \de Afterwards; later; from now on.
 \ge afterwards/from_now_on
 \dn 后来、以后，从此以后
@@ -58021,7 +58020,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɤ˩ŋɤ˥
 \so F4
 \va <speaker="M21"> ʂɤ˩ŋɤ˧˥
-\vf <print="n"> ton d5a; +"jouer de…": ʂɤ˩ŋɤ˧˥ lɑ˩
+\vc <langue="fra" print="n"> ton d5a; +"jouer de…": ʂɤ˩ŋɤ˧˥ lɑ˩
 \va <speaker="M23"> ʂi˩ŋɤ˧˥
 \pdv ɭɯ˧β
 \de Gong.
@@ -58174,9 +58173,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> so˥tsʰɯ˥lɯ˥
+\vc <langue="fra" print="n"> so˥tsʰɯ˥lɯ˥
 \va <speaker="M21"> ID.
-\vf <print="n"> de 31 à 39: ˧ ˧ ˧˥, ˧ ˧ ˧˥, ˧ ˧ ˩, ˧ ˧ ˧ 4, ˧ ˧ ˧ 5, ˧ ˧ ˧ ˥ 6, ˧ ˧ ˧ 7, ˧ ˧ ˧˥ 8, ˧ ˧ ˧ 9
+\vc <langue="fra" print="n"> de 31 à 39: ˧ ˧ ˧˥, ˧ ˧ ˧˥, ˧ ˧ ˩, ˧ ˧ ˧ 4, ˧ ˧ ˧ 5, ˧ ˧ ˧ ˥ 6, ˧ ˧ ˧ 7, ˧ ˧ ˧˥ 8, ˧ ˧ ˧ 9
 \de 30.
 \ge 30
 \dn 三十
@@ -58231,7 +58230,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> sɤ˧tsɯ˥
-\vf <print="n"> ɖʐv̩˥, corrigé par M18 en: ɖʐv̩˧tsɯ˥, désigne les tendons
+\vc <langue="fra" print="n"> ɖʐv̩˥, corrigé par M18 en: ɖʐv̩˧tsɯ˥, désigne les tendons
 \va <speaker="M21"> sɤ˧tsɯ˥
 \va <speaker="M23"> ID.
 \pdv kʰɯ˩
@@ -58463,7 +58462,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> /ʂɤ/, ton 3, se rédupliquant en ʂɤ˧ʂɤ˥: voudrait dire “déchiqueter, déchirer en petits morceaux"
+\vc <langue="fra" print="n"> /ʂɤ/, ton 3, se rédupliquant en ʂɤ˧ʂɤ˥: voudrait dire “déchiqueter, déchirer en petits morceaux"
 \va <speaker="M23"> ID.
 \de To tear, to rip.
 \ge to_tear
@@ -58705,7 +58704,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʂɯ˧hĩ˥; ton 4; M21 indique, sur le modèle du cadre que je lui ai demandé pour les noms: ʈʂʰɯ˥ ʂɯ˧ ɲi˥; ex.: 'de la viande fraîche': ʂe˧ʂɯ˩; ʂe˧ʐv̩˥: 'de la vieille viande'
+\vc <langue="fra" print="n"> ʂɯ˧hĩ˥; ton 4; M21 indique, sur le modèle du cadre que je lui ai demandé pour les noms: ʈʂʰɯ˥ ʂɯ˧ ɲi˥; ex.: 'de la viande fraîche': ʂe˧ʂɯ˩; ʂe˧ʐv̩˥: 'de la vieille viande'
 \va <speaker="M23"> ID.
 \de New, fresh.
 \ge new
@@ -58781,11 +58780,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> Le locuteur utilise un emprunt; il accepte le mot de F4.
+\vc <langue="fra" print="n"> Le locuteur utilise un emprunt; il accepte le mot de F4.
 \va <speaker="M23"> si˧gv̩˧
-\vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
-\ve <dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
-\vn <dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
+\vc <langue="fra" dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée (caisses et armoires étant en bois).
+\vc <langue="eng" dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
+\vc <langue="cmn" dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
 \pdv ɭɯ˧β
 \de Box, case.
 \ge box
@@ -58807,9 +58806,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʂɯ˧ʝi˥
-\vf <print="n"> ʂɯ˧ʝi˥ ɖɯ˧ kʰv̩˩˥
+\vc <langue="fra" print="n"> ʂɯ˧ʝi˥ ɖɯ˧ kʰv̩˩˥
 \va <speaker="M21"> ʂɯ˧ʝi˥ ɖɯ˩-kʰv̩˩
-\vf <print="n"> n'emploie pas la formule disyllabique et ne peut donc indiquer ses tons
+\vc <langue="fra" print="n"> n'emploie pas la formule disyllabique et ne peut donc indiquer ses tons
 \de Two years ago.
 \ge two_years_ago
 \dn 前年
@@ -58853,7 +58852,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ʂɯ˩kwæ˩˧ gv̩˩
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʂɯ˩ku˩ɻæ˧gv̩˩
-\vf <print="n"> vérifié: n'est pas /kv/
+\vc <langue="fra" print="n"> vérifié: n'est pas /kv/
 \va <speaker="M23"> ʂɯ˩kwæ˩ɻæ˧
 \de Yellow.
 \ge yellow
@@ -58905,7 +58904,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> extrait d'un trisyllabe, ‘container en plastique', |fn{塑料桶}; tons vérifiés en 2017: est MH#, et non M.
 \ton MH#
 \so F4
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \de Plastic.
 \ge 塑料桶::plastic
 \dn 塑料
@@ -58923,7 +58922,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> object
 \ton MH#
 \so F4
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \pdv ɭɯ˧β
 \de Plastic jerrican; used to store and transport drinking water.
 \ge 塑料桶::plastic_container
@@ -58974,7 +58973,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H#
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n">a) ʂɯ˩ɖɯ˩hĩ˥ɖɯ˧ ɲi˥; M18 pense que c'est compliqué, prononce ensuite ʂɯ˩ɖɯ˩ɲi˥ɖɯ˧ ɲi˥; sens: il y a trois jours; b) ʂɯ˩ɲi˥
+\vc <langue="fra" print="n"> a) ʂɯ˩ɖɯ˩hĩ˥ɖɯ˧ ɲi˥; M18 pense que c'est compliqué, prononce ensuite ʂɯ˩ɖɯ˩ɲi˥ɖɯ˧ ɲi˥; sens: il y a trois jours; b) ʂɯ˩ɲi˥
 \va <speaker="M21"> ʂɯ˩ɲi˩˧
 \va <speaker="M23"> ID.
 \de The day before yesterday.
@@ -59047,7 +59046,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so F4
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \pdv ɭɯ˧β
 \de Blister (on the hands or feet), raised spot.
 \ge blister/raised_spot
@@ -59074,7 +59073,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> dʑi˧-sɯ˧pv̩˥
 \va <speaker="M18"> sɯ˥pv̩˧
-\vf <print="n"> est aussi le nom d'un fruit, hua1hong2 (花红?). Notes anciennes: "erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pv̩˥ +ɲi˩; on peut dire simplement: sɯ˥pv̩˧, ton d4; d'abord noté ˥ ˥, par erreur".
+\vc <langue="fra" print="n"> est aussi le nom d'un fruit, hua1hong2 (花红?). Notes anciennes: "erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pv̩˥ +ɲi˩; on peut dire simplement: sɯ˥pv̩˧, ton d4; d'abord noté ˥ ˥, par erreur".
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥
 \de Urinary bladder.
@@ -59141,9 +59140,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> si˧ɻæ˧
-\vf <dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
-\ve <dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
-\vn <dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
+\vc <langue="fra" dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
+\vc <langue="eng" dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
+\vc <langue="cmn" dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
 \pdv pɤ˩
 \de Table.
 \ge table
@@ -59184,7 +59183,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc sɯ˧ɻ̩˧
 \so F4
 \va <speaker="M21"> sɯ˧ɻ̩#˥
-\vf <print="n"> ton d2a: pas le même ton que F4. Petites perles rouges, ss doute faites à partir de corail ou autre coquillage
+\vc <langue="fra" print="n"> ton d2a: pas le même ton que F4. Petites perles rouges, ss doute faites à partir de corail ou autre coquillage
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Bead, pearl.
@@ -59210,9 +59209,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> sɯ˥ œ͂˞˥ mi˥; la 2e syllabe, “os", se réduit; séquence tonale ˥ ˥ ˥: confirmée
+\vc <langue="fra" print="n"> sɯ˥ œ͂˞˥ mi˥; la 2e syllabe, “os", se réduit; séquence tonale ˥ ˥ ˥: confirmée
 \va <speaker="M21"> ID.
-\vf <print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
+\vc <langue="fra" print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
 \pdv dzi˩
 \pdc <langue="fra"> classificateur des arbres
@@ -59333,9 +59332,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> sɯ˩tʰi˩-ʁo˩qɑ˧
 \va <speaker="M18"> sɯ˧tʰi˧-kʰɯ˥dʑi˧
-\vf <print="n"> M18 dit d'abord: …di˧, puis se corrige
+\vc <langue="fra" print="n"> M18 dit d'abord: …di˧, puis se corrige
 \va <speaker="M21"> ID.
-\vf <print="n"> on peut simplifier en: sɯ˩tʰi˩ʑi˧; en revanche la périphrase proposée par F5 n'est pas acceptée par M21
+\vc <langue="fra" print="n"> on peut simplifier en: sɯ˩tʰi˩ʑi˧; en revanche la périphrase proposée par F5 n'est pas acceptée par M21
 \pdv ɭɯ˧β
 \de Knife sheath.
 \ge knife_sheath
@@ -59399,7 +59398,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɯ˧tsʰi˩
 \so F4
 \va <speaker="M18"> ID.
-\vf <print="n"> ʂɯ˥tsʰɯ˧lɯ˥
+\vc <langue="fra" print="n"> ʂɯ˥tsʰɯ˧lɯ˥
 \va <speaker="M21"> ID.
 \de 70.
 \ge 70
@@ -59591,7 +59590,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc sɯ˩˥
 \so F4
 \va <speaker="M23"> ID.
-\vf <type="hist" print="n" langue="fra"> vérifié: est /sɯ/ et non /si/
+\vc <langue="fra" type="hist" print="n"> vérifié: est /sɯ/ et non /si/
 \de To live, to be alive.
 \ge to_live
 \dn 活
@@ -59621,7 +59620,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (sens vérifié avec M23 en 2009; et vérifié: est /sɯ/ et non /si/)
 \nt <dom="phono" langue="fra"> sens: enfiler (quelque chose sur un fil)
 \so F4
-\vf <print="n"> Notes anciennes: "a) sɯ˧ɻ̩˧ sɯ˧ sɯ˩, tons vérifiés; b) læ˧sɯ˥sɯ˧; il ne faut pas dire: le˧sɯ˥sɯ˧. Suivi de: +ze˩
+\vc <langue="fra" print="n"> Notes anciennes: "a) sɯ˧ɻ̩˧ sɯ˧ sɯ˩, tons vérifiés; b) læ˧sɯ˥sɯ˧; il ne faut pas dire: le˧sɯ˥sɯ˧. Suivi de: +ze˩
 \va <speaker="M21"> ID.
 \de To string (beads).
 \ge to_string
@@ -60209,7 +60208,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂwæ˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ton m2
+\vc <langue="fra" print="n"> ton m2
 \va <speaker="M23"> ID.
 \pdv v̩˧
 \de Otter.
@@ -60262,7 +60261,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M18"> ʂwæ˧bæ˥
 \va <speaker="M21"> ʂwæ˧bæ˥
-\vf <print="n"> Emploie également: mo˧kɤ˩bæ˩bæ˩
+\vc <langue="fra" print="n"> Emploie également: mo˧kɤ˩bæ˩bæ˩
 \de Camellia flower.
 \ge camellia
 \dn 映山红
@@ -60418,7 +60417,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> selon le locuteur, “ce n'est pas dans les coutumes"
+\vc <langue="fra" print="n"> selon le locuteur, “ce n'est pas dans les coutumes"
 \va <speaker="M21"> ID.
 \de To cure (food) with smoke, to smoke (food or objects).
 \ge to_smoke
@@ -61139,7 +61138,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so F4
 \va <speaker="F4"> ʈʰææ̃˧
-\vf <dom="phono"> La réalisation la plus courante est fortement réduite, proche de [|fv{ʈʰææ̃˧}].
+\vc <langue="fra" dom="phono"> La réalisation la plus courante est fortement réduite, proche de [|fv{ʈʰææ̃˧}].
 \de Really, actually, in actual fact.
 \ge really
 \dn 真的
@@ -61472,7 +61471,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> utilise le mot: /kɑ˧/ (origine non identifiée).
+\vc <langue="fra" print="n"> utilise le mot: /kɑ˧/ (origine non identifiée).
 \va <speaker="M21"> ID.
 \sn 1
 \de Dry (fruit, vegetables), dried in the sun.
@@ -61613,10 +61612,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tʰæ˧ɻæ˩
 \so F4
 \va <speaker="F5"> tʰæ˧ɻ̩˩
-\vf <dom="phono" print="n" type="hist" print="n"> 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/: dit /tʰæ˧ɻ̩˩/, pas /tʰæ˧ɻæ˩/. Initiale de la première syllabe: vérifié: n'est pas ʈ: pas rétroflexe. Ton: L#.
+\vc <langue="fra" dom="phono" print="n" type="hist" print="n"> 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/: dit /tʰæ˧ɻ̩˩/, pas /tʰæ˧ɻæ˩/. Initiale de la première syllabe: vérifié: n'est pas ʈ: pas rétroflexe. Ton: L#.
 \va <speaker="M18"> tʰæ˧ɻ̩˩
 \va <speaker="M21"> tʰæ˧ɻ̩˩
-\vf <print="n"> idem F5: tʰæ˧ɻ̩˩; 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/; d'abord noté /ʈʰæ/; corrigé en tʰæ le 15 juin 2008; dans entrées “lire un livre, étudier un livre": avais bien noté une initiale non rétroflexe.
+\vc <langue="fra" print="n"> idem F5: tʰæ˧ɻ̩˩; 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/; d'abord noté /ʈʰæ/; corrigé en tʰæ le 15 juin 2008; dans entrées “lire un livre, étudier un livre": avais bien noté une initiale non rétroflexe.
 \pdv pɤ˩
 \de Book.
 \ge book
@@ -62006,9 +62005,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖɯ˧-tɑ˧ɻ̩˥
 \va <speaker="M21"> ɖɯ˧-tɑ˧
-\vf <print="n"> refuse: ɖɯ˧ tɑ˧ ɻæ˥
+\vc <langue="fra" print="n"> refuse: ɖɯ˧ tɑ˧ ɻæ˥
 \va <speaker="M23"> ID.
-\vf <print="n"> ɖɯ˧-tɑ˧˥, ɖɯ˧-tɑ˧˥ zu˩
+\vc <langue="fra" print="n"> ɖɯ˧-tɑ˧˥, ɖɯ˧-tɑ˧˥ zu˩
 \de Entirely, all; everyone.
 \ge |fg{clf}.whole
 \dn 量词：全部、一切，大家
@@ -62536,7 +62535,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰi˧
 \so F4
 \va <speaker="F5"> tɕʰi˥
-\vf <print="n" dom="ton"> H
+\vc <langue="fra" print="n" dom="ton"> H
 \va <speaker="M21"> ID.
 \de To sell.
 \ge to_sell
@@ -62854,7 +62853,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> gv̩˧mi˧tɕi˩˥: de petite taille
+\vc <langue="fra" print="n"> gv̩˧mi˧tɕi˩˥: de petite taille
 \va <speaker="M21"> ID.
 \de Small; short (not tall).
 \ge small
@@ -63016,7 +63015,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕɤ˧
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> La locutrice recourt généralement à un emprunt, mais elle accepte le terme employé par F4.
+\vc <langue="fra" print="n"> La locutrice recourt généralement à un emprunt, mais elle accepte le terme employé par F4.
 \de To fade (of colours).
 \ge to_fade
 \dn 褪色
@@ -63116,7 +63115,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tɕʰɥɤ˧
-\vf <print="n"> hĩ˧ tɕʰɥɤ˧, nu˧ njɤ˩tɕʰɥɤ˩˧! “Tu m'as trompé!"; hĩ˧ nu˩ tɕʰɥɤ˩˧! “Tu t'es fait tromper!"
+\vc <langue="fra" print="n"> hĩ˧ tɕʰɥɤ˧, nu˧ njɤ˩tɕʰɥɤ˩˧! “Tu m'as trompé!"; hĩ˧ nu˩ tɕʰɥɤ˩˧! “Tu t'es fait tromper!"
 \de To cheat on someone, to deceive.
 \ge to_cheat
 \dn 欺骗
@@ -63178,7 +63177,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton L#
 \lc tɕɤ˧fv̩˩
 \so F4
-\vf <dom="ton"> L
+\vc <langue="fra" dom="ton"> L
 \pdv ɭɯ˧β
 \de Container for liquids, such as plastic jerricans; used to store and transport drinking water.
 \ge container_for_liquids
@@ -63501,7 +63500,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ton d1; emprunt au chinois; d'après le locuteur, la première syllabe correspondrait à jian4 “épaule".
+\vc <langue="fra" print="n"> ton d1; emprunt au chinois; d'après le locuteur, la première syllabe correspondrait à jian4 “épaule".
 \pdv ɭɯ˧β
 \de Yoke.
 \ge 夹担::yoke
@@ -63630,7 +63629,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʈʂʰɤ˩ʈʂv̩˧
-\vf <print="n"> ton d6; vérifié: n'est pas tɕʰɤ˩
+\vc <langue="fra" print="n"> ton d6; vérifié: n'est pas tɕʰɤ˩
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Drinking glass, goblet; used for wine.
@@ -63727,7 +63726,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tɕi˩tɕʰi˧
-\vf <print="n"> ton d6
+\vc <langue="fra" print="n"> ton d6
 \de Saliva.
 \ge salive
 \dn 口水、唾、唾沫、唾液
@@ -63749,7 +63748,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tɕi˧
-\vf <print="n"> mv̩˧ʁu˧ tɕi˧ (d'abord noté ˥ ˥ ˥), dʑɤ˩pi˧dʑo˧! 'Il y a bcp de nuages!' (mv̩˧ʁu˧) tɕi˧pʰɻ̩˩! "Il y a bcp de nuages blancs!" (d'abord noté ˥ ˥ ˥ ˩); mv̩˥ʁu˥ tɕi˩ dʑo˩ ze˩! (baisse entre sujet et prédicat; ne sais pas si c'est catégoriel ou non; selon M18, cette phrase est mal formée)
+\vc <langue="fra" print="n"> mv̩˧ʁu˧ tɕi˧ (d'abord noté ˥ ˥ ˥), dʑɤ˩pi˧dʑo˧! 'Il y a bcp de nuages!' (mv̩˧ʁu˧) tɕi˧pʰɻ̩˩! "Il y a bcp de nuages blancs!" (d'abord noté ˥ ˥ ˥ ˩); mv̩˥ʁu˥ tɕi˩ dʑo˩ ze˩! (baisse entre sujet et prédicat; ne sais pas si c'est catégoriel ou non; selon M18, cette phrase est mal formée)
 \pdv kʰwɤ˥
 \pdc <langue="fra"> morceaux
 \de Cloud.
@@ -63897,7 +63896,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tɕi˧
-\vf <print="n"> ton m1; sans doute erreur sur la forme de citation: tous les m1 ont une forme de citation ˩˥
+\vc <langue="fra" print="n"> ton m1; sans doute erreur sur la forme de citation: tous les m1 ont une forme de citation ˩˥
 \pdv nɑ˧α
 \de Scales (for weighing something).
 \ge scales
@@ -64068,7 +64067,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> autre sens: lə˧tɕʰi˧ze˥: sens: on s'est séparé
+\vc <langue="fra" print="n"> autre sens: lə˧tɕʰi˧ze˥: sens: on s'est séparé
 \de To lose, to misplace.
 \ge to_lose
 \dn 丢失、弄丢
@@ -64151,7 +64150,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ɲi˧tɕʰy˧
-\vf <print="n"> La rime est bien un /|fv{y}/, pas un /|fv{i}/ ni un /|fv{ju}/.
+\vc <langue="fra" print="n"> La rime est bien un /|fv{y}/, pas un /|fv{i}/ ni un /|fv{ju}/.
 \de To pierce (e.g. to pierce a cow's nose in order to set a ring).
 \ge to_pierce
 \dn 穿刺、 刺破
@@ -64595,7 +64594,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> tɕɯ˧~tɕɯ˥-bæ˩bæ˩ ‘pattern'
+\vc <langue="fra" print="n"> tɕɯ˧~tɕɯ˥-bæ˩bæ˩ ‘pattern'
 \va <speaker="M21"> ID.
 \de To write.
 \ge to_write
@@ -65371,7 +65370,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> si on distingue entre les différents doigts: emploie ʈi˧ʂæ˩ “empan long" et ʈi˧ɖæ˧ “empan court" xxxx
+\vc <langue="fra" print="n"> si on distingue entre les différents doigts: emploie ʈi˧ʂæ˩ “empan long" et ʈi˧ɖæ˧ “empan court" xxxx
 \de A handspan (between the thumb and index). The distance between the thumb and the middle finger is not commonly used.
 \ge |fg{clf}.handspans(thumb_to_index)
 \dn 量词：拃(大拇指和食指之间的距离。一般不用大拇指和中指之间的距离。)
@@ -65395,7 +65394,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʈʰi˧
-\vf <print="n"> ton 3; en citation: ˧; n'est pas montant; niveau phonétique: moyen
+\vc <langue="fra" print="n"> ton 3; en citation: ˧; n'est pas montant; niveau phonétique: moyen
 \de Tired, weary.
 \ge tired
 \dn 累、疲倦、精疲力竭
@@ -65531,7 +65530,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton LH
 \so F4
 \va <speaker="M18"> ID.
-\vf <print="n"> ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
+\vc <langue="fra" print="n"> ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
 \pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Mountain slope, hillside.
@@ -65630,9 +65629,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; notes avant 2009: to˥pɤ˥ ze˧, que M18 interprète comme “do˥pv̩˥ze˥: un prodigue a tout dépensé")
 \ton #H
 \so F4
-\vf <print="n"> Notes anciennes: "a) ɖɯ˧ b) sɑ˥tʰjɤ˧mɤ˧ʑi˥; pas reconnu par F4".
+\vc <langue="fra" print="n"> Notes anciennes: "a) ɖɯ˧ b) sɑ˥tʰjɤ˧mɤ˧ʑi˥; pas reconnu par F4".
 \va <speaker="M21"> ku˧bɤ˧
-\vf <print="n"> +zi˩; + ku˧lu˩ku˧bɤ˧ (+zi˩) “dedans, c'est vide"
+\vc <langue="fra" print="n"> +zi˩; + ku˧lu˩ku˧bɤ˧ (+zi˩) “dedans, c'est vide"
 \va <speaker="M23"> ID.
 \de Empty.
 \ge empty
@@ -65807,9 +65806,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥/) avant 2011: noté qæ, par erreur
 \nt <dom="sem" langue="fra"> littéralement “fleur qui vous donne une chiquenaude au front"
 \so F4
-\vf <dom="ton"> -L | L
+\vc <langue="fra" dom="ton"> -L | L
 \va <speaker="M21"> *
-\vf <print="n"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude"
+\vc <langue="fra" print="n"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude"
 \pdv bæ˩
 \de Plant with long filaments.
 \ge plant_sp
@@ -66246,7 +66245,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ku˩tv̩˩lv̩˥
-\vf <print="n"> (+gv̩˩); accepte également tv̩˩ku˩lv̩˥
+\vc <langue="fra" print="n"> (+gv̩˩); accepte également tv̩˩ku˩lv̩˥
 \va <speaker="M23"> ku˩tɻ̩˩ɻ̩˥
 \de Round in shape.
 \ge round
@@ -66790,7 +66789,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> utilise l'expression /njæ˥kv̩˩ njɤ˩ tswɤ˩/; d'abord noté /... tsv̩˩/
+\vc <langue="fra" print="n"> utilise l'expression /njæ˥kv̩˩ njɤ˩ tswɤ˩/; d'abord noté /... tsv̩˩/
 \de To wink, as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
 \ge to_wink
 \dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
@@ -67301,11 +67300,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton -L
 \so F4
 \va <speaker="F5"> ʈʂʰæ˧v̩˧ ki˩-hĩ˩ hĩ˩
-\vf <print="n"> “personne qui donne des médicaments"
+\vc <langue="fra" print="n"> “personne qui donne des médicaments"
 \va <speaker="M18"> ʈʂʰæ˥v̩˥ ki˧-hĩ˧ hĩ˧
-\vf <print="n"> “personne qui donne des médicaments"; M18 connaît les deux variantes, ʈʂʰæ˥ɣɯ˥ et ʈʂʰæ˥v̩˥, et les juge toutes deux acceptables.
+\vc <langue="fra" print="n"> “personne qui donne des médicaments"; M18 connaît les deux variantes, ʈʂʰæ˥ɣɯ˥ et ʈʂʰæ˥v̩˥, et les juge toutes deux acceptables.
 \va <speaker="M21"> *
-\vf <print="n"> Le locuteur utilise l'emprunt /i˧se˧/, ton d1; mot ancien: ʈʂʰæ˧ɣɯ˧i˧ +ɲi˥; refuse la tournure avec le verbe “donner"
+\vc <langue="fra" print="n"> Le locuteur utilise l'emprunt /i˧se˧/, ton d1; mot ancien: ʈʂʰæ˧ɣɯ˧i˧ +ɲi˥; refuse la tournure avec le verbe “donner"
 \va <speaker="M23"> ʈʂʰæ˧v̩˧ ki˩ hĩ˩
 \pdv v̩˧
 \de Doctor; literally: “person who gives medicines".
@@ -67330,7 +67329,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <print="n"> avais d'abord pensé à /ʈʂʰæ˧v̩˧/
+\vc <langue="fra" print="n"> avais d'abord pensé à /ʈʂʰæ˧v̩˧/
 \de Medicine.
 \ge medicine
 \dn 药
@@ -67475,7 +67474,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂʰæ˧nɑ˥
 \so F4
 \va <speaker="F4"> ʈʂʰæ˧nɑ˥-mi˩
-\vf <dom="ton" print="n"> H#-
+\vc <langue="fra" dom="ton" print="n"> H#-
 \pdv pʰo˧˥α
 \de Black stag: a legendary species, which only spirits are able to hunt down.
 \ge black_stag
@@ -67618,7 +67617,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> object
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> emploie: /qʰv̩˧di˧˥/; /di˩u˧qʰv̩˩di˩/ “percuteur de la cartouche"
+\vc <langue="fra" print="n"> emploie: /qʰv̩˧di˧˥/; /di˩u˧qʰv̩˩di˩/ “percuteur de la cartouche"
 \de Firing pin (of a gun).
 \ge firing pin
 \dn 撞针
@@ -68091,7 +68090,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf pʰi˩tʰɑ˩
 \so F4
 \va <speaker="F5"> *
-\vf <print="n"> La locutrice ne connaît pas; elle songe à: /zɯ˧pv̩˩/ “herbe sèche"
+\vc <langue="fra" print="n"> La locutrice ne connaît pas; elle songe à: /zɯ˧pv̩˩/ “herbe sèche"
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
@@ -68137,7 +68136,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂe˧dɑ˧
 \va <speaker="M21"> tɕi˧dɑ˥
-\vf <print="n"> ton d7
+\vc <langue="fra" print="n"> ton d7
 \pdv do˥
 \de Partition.
 \ge partition
@@ -68199,9 +68198,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> ex.: tsʰe˧do˧so˩ɲi˩˧
+\vc <langue="fra" print="n"> ex.: tsʰe˧do˧so˩ɲi˩˧
 \va <speaker="M21"> ID.
-\vf <print="n"> ex.: tsʰe˧do˧˥so˩ɲi˩˥
+\vc <langue="fra" print="n"> ex.: tsʰe˧do˧˥so˩ɲi˩˥
 \vf tons confirmés
 \de The beginning of the month.
 \ge beginning_of_the_month
@@ -68296,7 +68295,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˩gv̩˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> avec classificateur: tsʰe˧gv̩˧lɯ˥
+\vc <langue="fra" print="n"> avec classificateur: tsʰe˧gv̩˧lɯ˥
 \va <speaker="M21"> ID.
 \de 19.
 \ge 19
@@ -68318,7 +68317,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˩hõ˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n">avec classificateur: tsʰe˧hũ˧lɯ˥
+\vc <langue="fra" print="n">avec classificateur: tsʰe˧hũ˧lɯ˥
 \va <speaker="M21"> ID.
 \de 18.
 \ge 18
@@ -68340,9 +68339,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˧hṽ̩˧˥
 \so F4
 \va <speaker="F5"> tsʰɤ˧hṽ̩˧˥
-\vf <print="n" dom="ton"> MH#
+\vc <langue="fra" print="n" dom="ton"> MH#
 \va <speaker="M21"> tsʰɤ˧hṽ̩˧˥
-\vf <print="n" dom="ton"> MH#
+\vc <langue="fra" print="n" dom="ton"> MH#
 \pdv dzi˩
 \de Chinese evergreen.
 \ge Chinese_evergreen
@@ -68518,7 +68517,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> tons confirmés, d'abord noté ˥˥
+\vc <langue="fra" print="n"> tons confirmés, d'abord noté ˥˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> tsɤ˧mi˥
 \pdv nɑ˧α
@@ -68578,7 +68577,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˩ŋwɤ˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> avec classificateur: tsʰe˧ŋwɤ˧lɯ˥
+\vc <langue="fra" print="n"> avec classificateur: tsʰe˧ŋwɤ˧lɯ˥
 \va <speaker="M21"> ID.
 \de 15.
 \ge 15
@@ -68602,7 +68601,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> L'expression n'est pas préfixée par “tsʰe˧do˧˥"; on ne peut donc dire: ‡tsʰe˧do˧˥ tsʰe˩ŋwɤ˩ɲi˩˧
+\vc <langue="fra" print="n"> L'expression n'est pas préfixée par “tsʰe˧do˧˥"; on ne peut donc dire: ‡tsʰe˧do˧˥ tsʰe˩ŋwɤ˩ɲi˩˧
 \de The 15th day of the month.
 \ge 15th_day
 \dn 十五号
@@ -68624,7 +68623,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ton d5a: monnaie; ex.: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
+\vc <langue="fra" print="n"> ton d5a: monnaie; ex.: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
 \pdv pʰæ˧˥
 \de Coins of the imperial times.
 \ge coins_of_imperial_times
@@ -68676,7 +68675,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˩qʰv̩˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> avec classificateur: tsʰe˧kʰʶv̩˧lɯ˥
+\vc <langue="fra" print="n"> avec classificateur: tsʰe˧kʰʶv̩˧lɯ˥
 \va <speaker="M21"> ID.
 \de 16.
 \ge 16
@@ -68790,7 +68789,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: tsʰe˥ʂɤ˥, puis tsʰe˥ʂɯ˥)
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> avec classificateur: /tsʰe˧ʂɯ˧ lɯ˧/
+\vc <langue="fra" print="n"> avec classificateur: /tsʰe˧ʂɯ˧ lɯ˧/
 \va <speaker="M21"> tsʰe˧ʂɤ˧
 \de 17.
 \ge 17
@@ -68961,7 +68960,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˩ʐv̩˩˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <print="n"> avec classificateur: tsʰe˧ʐv̩˧lɯ˥
+\vc <langue="fra" print="n"> avec classificateur: tsʰe˧ʐv̩˧lɯ˥
 \va <speaker="M21"> ID.
 \de 14.
 \ge 14
@@ -68986,7 +68985,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> lə˧-tse˩-ze˩; hĩ˧tse˥ “suivre quelqu'un, poursuivre quelqu'un"
+\vc <langue="fra" print="n"> lə˧-tse˩-ze˩; hĩ˧tse˥ “suivre quelqu'un, poursuivre quelqu'un"
 \de To chase after; to pursue.
 \ge to_pursue
 \dn 追赶
@@ -69195,7 +69194,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <type="hist" print="n" langue="fra"> noté tsʰɯ˧ avant 2009
+\vc <type="hist" print="n" langue="fra"> noté tsʰɯ˧ avant 2009
 \de Hot; scalding.
 \ge hot/scalding
 \dn 热，烫
@@ -69363,7 +69362,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsi˧
 \so F4
 \va <speaker="M21"> gɤ˩tsv̩˧
-\vf <print="n"> rime vérifiée ; donne: /gɤ˩tsv̩˧ tʰi˧-tɕi˥/
+\vc <langue="fra" print="n"> rime vérifiée ; donne: /gɤ˩tsv̩˧ tʰi˧-tɕi˥/
 \de To set up, to install.
 \ge to_install
 \dn 安装
@@ -69421,7 +69420,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> aussi noté: su˩˥ tsʰɯ˥ (tons vérifiés) “avoir de la vapeur qui sort"; càd être en nage, transpirer bcp
+\vc <langue="fra" print="n"> aussi noté: su˩˥ tsʰɯ˥ (tons vérifiés) “avoir de la vapeur qui sort"; càd être en nage, transpirer bcp
 \de Muggy, sultry, oppressively hot.
 \ge muggy
 \dn 闷热
@@ -69440,7 +69439,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsi˧gi˥
 \so F4
 \va <speaker="F5"> tsɯ˧gi˧
-\vf <dom="ton"> M
+\vc <langue="fra" dom="ton"> M
 \va <speaker="M21"> tsɯ˧gi#˥
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
@@ -69475,7 +69474,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> tsʰɯ˧ʝi˧
-\vf <print="n"> rime confirmée: est ɯ, non /i/
+\vc <langue="fra" print="n"> rime confirmée: est ɯ, non /i/
 \de This year.
 \ge this_year
 \dn 今年
@@ -69629,7 +69628,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˩tsʰv̩˩
-\vf <print="n"> rimes confirmées, différent de F4 et F5
+\vc <langue="fra" print="n"> rimes confirmées, différent de F4 et F5
 \pdv kɤ˧˥
 \de Peas, garden peas.
 \ge peas
@@ -69651,7 +69650,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰi˩tv̩˩˥
 \so F4
 \va <speaker="M18"> *
-\vf <print="n"> ne connaissant pas le mot exact, le locuteur crée une périphraseutilise comme périphrase: /oə˞͂˥ bv̩˥ ɬv̩˩˥/ 'moëlle de l'os', comme “cervelle" est “moëlle de la tête".
+\vc <langue="fra" print="n"> ne connaissant pas le mot exact, le locuteur crée une périphraseutilise comme périphrase: /oə˞͂˥ bv̩˥ ɬv̩˩˥/ 'moëlle de l'os', comme “cervelle" est “moëlle de la tête".
 \va <speaker="M21"> tsʰɯ˩tv̩˩
 \pdv kʰwɤ˥
 \de Bone marrow.
@@ -70339,7 +70338,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʈʂu˩bɤ˩
-\vf <print="n"> ton d3; n'est pas /bu/
+\vc <langue="fra" print="n"> ton d3; n'est pas /bu/
 \va <speaker="M23"> ʈʂe˩bu˩˧
 \pdv do˥
 \de Earthen wall.
@@ -70418,8 +70417,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par M23.
-\ve <dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by M23.
+\vc <langue="fra" dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par M23.
+\vc <langue="eng" dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by M23.
 \de To give birth (cattle).
 \ge to_give_birth
 \dn 生崽子（牛类）
@@ -70509,9 +70508,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂʰɤ˧hu˥
-\vf <print="n"> tons confirmés
+\vc <langue="fra" print="n"> tons confirmés
 \va <speaker="M21"> *
-\vf <print="n"> utilise un emprunt: ʈʂʰɑ˩fv̩˧˥, ton d5
+\vc <langue="fra" print="n"> utilise un emprunt: ʈʂʰɑ˩fv̩˧˥, ton d5
 \pdv ɭɯ˧β
 \de Kettle.
 \ge 茶壶::kettle
@@ -70593,7 +70592,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tso˧kʰwɤ˧
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> Utilise: /ɲi˧fv̩˥/, ton d7.
+\vc <langue="fra" print="n"> Utilise: /ɲi˧fv̩˥/, ton d7.
 \pdv ɭɯ˧β
 \de Bag (of fabric or leather).
 \ge bag
@@ -70618,7 +70617,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> *
-\vf <print="n"> périphrase proposée: lu˧i˧di˧˥, lu˧i˧di˧tsu˧tsu˧
+\vc <langue="fra" print="n"> périphrase proposée: lu˧i˧di˧˥, lu˧i˧di˧tsu˧tsu˧
 \pdv nɑ˧α
 \pdv ɭɯ˧β
 \de Tool; thing, object.
@@ -70682,7 +70681,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂu˧ lɻ̩˧
-\vf <print="n"> D'abord noté /ʈʂv̩˥lv̩˥/, prononciation qui est occasionnellement utilisée par le locuteur. La deuxième syllabe est la même que dans 'grain' (“un grain de").
+\vc <langue="fra" print="n"> D'abord noté /ʈʂv̩˥lv̩˥/, prononciation qui est occasionnellement utilisée par le locuteur. La deuxième syllabe est la même que dans 'grain' (“un grain de").
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Hand-operated grindstone.
@@ -70779,10 +70778,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> Emploie: /jo˩tsɯ˥/, qui d'après F4 désigne 香皂 xiang1zao4, distinct de: /tsʰo˧pjɤ˧/, fei2zao4 肥皂
+\vc <langue="fra" print="n"> Emploie: /jo˩tsɯ˥/, qui d'après F4 désigne 香皂 xiang1zao4, distinct de: /tsʰo˧pjɤ˧/, fei2zao4 肥皂
 \va <speaker="M21"> tsʰu˧pjɑ˧
 \va <speaker="F4"> tsʰo˧pi˧
-\vf <print="n"> ton d1; voyelle vérifiée
+\vc <langue="fra" print="n"> ton d1; voyelle vérifiée
 \pdv ɭɯ˧β
 \de Soap. Presumably borrowed from a language of Burma: compare Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fv{læ˩pʰæ˩-læ˥dzi˩} and |fv{/ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
 \ge soap
@@ -70900,7 +70899,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> tsʰɯ˧hwɤ˩ mv̩˩kʰv̩˩˧
 \va <speaker="M18"> tsʰɯ˥qʰwɤ˧
 \va <speaker="M21"> tsʰɯ˧qʰwɤ˩
-\vf <print="n"> segments vérifiés
+\vc <langue="fra" print="n"> segments vérifiés
 \de Tonight.
 \ge tonight
 \dn 今晚
@@ -71268,7 +71267,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> tsʰʷɤ˩˧, ton 3 ; donne: hæ̃˧pɤ˧ tsʰʷɤ˩. L'arrondissement n'est pas toujours bien clair; c'est peut-être une sur-notation de ma part.
+\vc <langue="fra" print="n"> tsʰʷɤ˩˧, ton 3 ; donne: hæ̃˧pɤ˧ tsʰʷɤ˩. L'arrondissement n'est pas toujours bien clair; c'est peut-être une sur-notation de ma part.
 \de To plait, to weave (hair, thread).
 \ge to_plait
 \dn 编（头发，线）
@@ -71667,7 +71666,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ʈʂʰɻ̩˧, ton m2; confirmé: n'est pas la même rime que dans “repas du matin"; phonétiquement, ressemble à [ʈʂʰvɻ]
+\vc <langue="fra" print="n"> ʈʂʰɻ̩˧, ton m2; confirmé: n'est pas la même rime que dans “repas du matin"; phonétiquement, ressemble à [ʈʂʰvɻ]
 \pdv ɭɯ˧β
 \de Ploughshare.
 \ge ploughshare
@@ -71733,7 +71732,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂʰv̩˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> confirmé, n'est pas ʈʂʰv̩˩˥; s'oppose à la syllabe qui s'observe dans “repas du matin, petit déjeuner"
+\vc <langue="fra" print="n"> confirmé, n'est pas ʈʂʰv̩˩˥; s'oppose à la syllabe qui s'observe dans “repas du matin, petit déjeuner"
 \pdv ɭɯ˧β
 \de Lung.
 \ge lung
@@ -71992,7 +71991,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\vf <print="n"> sens vérifié
+\vc <langue="fra" print="n"> sens vérifié
 \pdv ɭɯ˧β
 \de Claws.
 \ge claws
@@ -72080,11 +72079,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton #H
 \so F4
 \va <speaker="F5"> ʈʰɯ˥
-\vf <dom="ton" print="n"> #H
+\vc <langue="fra" dom="ton" print="n"> #H
 \va <speaker="M18"> ʈʰɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈʰɯ˥
-\vf <print="n"> L'initiale n'est pas une affriquée.
+\vc <langue="fra" print="n"> L'initiale n'est pas une affriquée.
 \de This; proximal demonstrative.
 \ge |fg{dem_prox}
 \dn 指示.近指：这
@@ -72122,7 +72121,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton #H
 \so F4
 \va <speaker="F5"> ʈʰɯ˥
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \va <speaker="M18"> ʈʰɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈʰɯ˥
@@ -72355,7 +72354,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton L
 \so F4
 \va <speaker="M21"> tsɯ˩pʰɑ˩
-\vf <print="n"> formulation avec objet: /njɤ˩lv̩˧ tsɯ˩pʰɑ˩/.
+\vc <langue="fra" print="n"> formulation avec objet: /njɤ˩lv̩˧ tsɯ˩pʰɑ˩/.
 \va <speaker="M23"> ID.
 \de To blink.
 \ge to_blink
@@ -72649,7 +72648,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> Aussi: /tsʰɯ˩tsʰv̩˩zɯ˩˧/. Donne: tsʰɯ˩tsʰv̩˩zɯ˩ɲi˧
+\vc <langue="fra" print="n"> Aussi: /tsʰɯ˩tsʰv̩˩zɯ˩˧/. Donne: tsʰɯ˩tsʰv̩˩zɯ˩ɲi˧
 \pdv kɤ˧˥
 \de Dry plant of garden peas, garden peas hay.
 \ge garden_pea_hay
@@ -72998,7 +72997,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂv̩˩dʑɯ˥
 \so F4
 \va <speaker="F5"> ID.
-\vf <type="hist" print="n" langue="fra"> Tons vérifiés. Avais d'abord noté /ʈʂv̩˩˥ dʑi˥/.
+\vc <type="hist" print="n" langue="fra"> Tons vérifiés. Avais d'abord noté /ʈʂv̩˩˥ dʑi˥/.
 \va <speaker="M21"> ID.
 \de Sweat.
 \ge sweat
@@ -73023,7 +73022,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\vf <print="n"> Utilise une périphrase: /ʈʂʰv̩˩-di˩˧/ “chose pour teindre"; /dʑi˧hṽ̩˧ ʈʂʰv̩˥-di˩/ “chose pour teindre les vêtements
+\vc <langue="fra" print="n"> Utilise une périphrase: /ʈʂʰv̩˩-di˩˧/ “chose pour teindre"; /dʑi˧hṽ̩˧ ʈʂʰv̩˥-di˩/ “chose pour teindre les vêtements
 \va <speaker="M21"> ID.
 \pdv kʰwɤ˥
 \de Dye, dyestuff.
@@ -73092,7 +73091,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂʰv̩˧ɻ̩˧qʰv̩˧
 \so F4
 \va <speaker="F5"> ʈʂʰɻ̩˧ɻ̩˧-qʰv̩˧dzɯ#˥
-\vf <dom="ton"> #H
+\vc <langue="fra" dom="ton"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̩˧-ʑi˧kʰwɤ˥; ʈʂʰv̩˧ɻ̩˧-qʰv̩#˥
 \pdv ɭɯ˧β
 \de Ant nest.
@@ -73120,9 +73119,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂʰv̩˧ɻ̩˥
 \so F4
 \va <speaker="F5"> ʈʂʰɻ̩˧ɻ̩#˥
-\vf <print="n" dom="ton"> #H
+\vc <langue="fra" print="n" dom="ton"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̩#˥
-\vf <print="n"> ton d2a. Vérifié en mai 2008: n'est pas ʈʂʰɻ
+\vc <langue="fra" print="n"> ton d2a. Vérifié en mai 2008: n'est pas ʈʂʰɻ
 \pdv mi˩
 \de Ant.
 \ge ant
@@ -73464,7 +73463,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <dom="ton" print="n"> M21 dit /ʈʂʰwæ˧-bv̩˧nv̩˧ ze˩/, avec un schéma tonal différent de F4.
+\vc <langue="fra" dom="ton" print="n"> M21 dit /ʈʂʰwæ˧-bv̩˧nv̩˧ ze˩/, avec un schéma tonal différent de F4.
 \de Bad, spoilt, rotten.
 \ge rotten
 \dn 食物变味，有臭味道了
@@ -73719,7 +73718,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vf <dom="phono" print="n"> Le locuteur M23 réalise la syllabe /ʈʂʰwæ/ (dans l'ensemble du lexique) avec une légère affrication, comme un ʶ entre initiale et rime: [ʈʂʰʶwæ].
+\vc <langue="fra" dom="phono" print="n"> Le locuteur M23 réalise la syllabe /ʈʂʰwæ/ (dans l'ensemble du lexique) avec une légère affrication, comme un ʶ entre initiale et rime: [ʈʂʰʶwæ].
 \de To rot.
 \ge to_rot
 \dn 腐烂
@@ -73897,9 +73896,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton MH#
 \so F4
 \va <speaker="M18"> tsʰɯ˩˥
-\vf <type="hist" print="n" langue="fra">Le locuteur emploie l'adjectif 'fin'.
+\vc <type="hist" print="n" langue="fra">Le locuteur emploie l'adjectif 'fin'.
 \va <speaker="M21"> ʈʂʰwɤ˧tsʰɯ˧
-\vf <type="hist" print="n" langue="fra"> +ze˥; ex.: /ʑi˧kʰwɤ˧ ʈʂʰwɤ˧tsʰɯ˧ ze˥!/ 房间小了!
+\vc <type="hist" print="n" langue="fra"> +ze˥; ex.: /ʑi˧kʰwɤ˧ ʈʂʰwɤ˧tsʰɯ˧ ze˥!/ 房间小了!
 \va <speaker="M23"> ʈʂʰwɤ˧tsʰɯ˧˥
 \de Narrow.
 \ge narrow
@@ -74123,7 +74122,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ʈɻ̩˧ʈʰæ#˥
 \va <speaker="M18"> ʈɯ˧ɻ̩˧ʈʰæ˧
-\vf <type="hist" print="n" langue="fra"> d'abord noté ɖɻ, puis tɻ̩˧; mot non analysable. Confirmé.
+\vc <type="hist" print="n" langue="fra"> d'abord noté ɖɻ, puis tɻ̩˧; mot non analysable. Confirmé.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈɻ̩˧ʈʰæ#˥
 \pdv kʰwɤ˥
@@ -74181,7 +74180,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H
 \so F4
 \va <speaker="F5"> he˧tʰjɤ˩, he˧tʰjɤ˩ dzɯ˩
-\vf <type="hist" print="n" langue="fra"> Selon F4, l'expression utilisée par F5 proviendrait de l'onomatopée chinoise “atchoum!": |fv{hɑ˥tʰjɤ˩}.
+\vc <type="hist" print="n" langue="fra"> Selon F4, l'expression utilisée par F5 proviendrait de l'onomatopée chinoise “atchoum!": |fv{hɑ˥tʰjɤ˩}.
 \va <speaker="M21"> ID.
 \de To sneeze.
 \ge to_sneeze
@@ -74328,11 +74327,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton #H
 \so F4
 \va <speaker="F5"> ʈʰɯ˥
-\vf <dom="ton" print="n"> #H
+\vc <langue="fra" dom="ton" print="n"> #H
 \va <speaker="M18"> ʈʰɯ˥
-\vf <print="n"> très faible occlusion, parfois absente
+\vc <langue="fra" print="n"> très faible occlusion, parfois absente
 \va <speaker="M23"> ʈʰɯ˧
-\vf <print="n"> n'est pas une affriquée
+\vc <langue="fra" print="n"> n'est pas une affriquée
 \de That; distal demonstrative.
 \ge |fg{dem.dist}
 \dn 那指示.远指
@@ -74365,12 +74364,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton #H
 \so F4
 \va <speaker="F5"> ʈʰɯ˥
-\vf <type="hist" print="n" dom="ton"> #H
+\vc <langue="fra" type="hist" print="n" dom="ton"> #H
 \va <speaker="M18"> ʈʰɯ˥
 \va <speaker="M21"> ʈʂʰɯ˥
-\vf <type="hist" print="n" langue="fra"> ton m4a: ʈʂʰɯ˧ ɲi˥; sert aussi de déictique; très faible occlusion, parfois absente
+\vc <type="hist" print="n" langue="fra"> ton m4a: ʈʂʰɯ˧ ɲi˥; sert aussi de déictique; très faible occlusion, parfois absente
 \va <speaker="M23"> ʈʰɯ˧
-\vf <type="hist" print="n" langue="fra"> L'initiale n'est pas une affriquée.
+\vc <type="hist" print="n" langue="fra"> L'initiale n'est pas une affriquée.
 \de 3rd person singular.
 \ge |fg{3sg}
 \dn 他
@@ -74550,7 +74549,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tv̩˩ɭɯ˧˥
 \so F4
 \va <speaker="M18"> tɤ˧ɻ̩˩˥
-\vf <type="hist" print="n" langue="fra"> confirmé, transcription et tons
+\vc <type="hist" print="n" langue="fra"> confirmé, transcription et tons
 \va <speaker="M23"> tɤ˧ɭɯ˥
 \pdv ɭɯ˧β
 \de Fine, high-quality basket carried on the back; it had a trough shape. Not in use anymore at the time of fieldwork.
@@ -75551,9 +75550,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> v̩˧ dʑi˩˥
-\vf <print="n"> d'abord noté ˩ ˩ ˥, corrigé plusieurs fois; schéma ˧ ˩ ˥ confirmé le 6 nov. 2007; rime vérifiée: est /v/ et non /u/
+\vc <langue="fra" print="n"> d'abord noté ˩ ˩ ˥, corrigé plusieurs fois; schéma ˧ ˩ ˥ confirmé le 6 nov. 2007; rime vérifiée: est /v/ et non /u/
 \va <speaker="M21"> wu˩dʑi˩
-\vf <print="n"> ton d3; n'est pas /v/
+\vc <langue="fra" print="n"> ton d3; n'est pas /v/
 \va <speaker="M23"> wu˩dʑi˩
 \de Soup.
 \ge soup
@@ -75625,7 +75624,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> v̩˧lɑ˩ʝi˩
-\vf <print="n"> +ɲi˩
+\vc <langue="fra" print="n"> +ɲi˩
 \pdv v̩˧
 \de Merchant.
 \ge merchant
@@ -75668,11 +75667,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton LM+MH#
 \so F4
 \va <speaker="F5"> v̩˩tsʰɤ#˥
-\vf <dom="ton"> L+#H
+\vc <langue="fra" dom="ton"> L+#H
 \va <speaker="M18"> v̩˩tsʰɤ˧
-\vf <print="n"> ton d5b; tons confirmés
+\vc <langue="fra" print="n"> ton d5b; tons confirmés
 \va <speaker="M21"> u˩tsʰɤ˧˥
-\vf <print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
+\vc <langue="fra" print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
 \va <speaker="M23"> ID.
 \pdv po˧
 \de Vegetables (in a broad sense including fresh vegetables and picked vegetables).
@@ -75877,9 +75876,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> /li˧u˧tʰu˧tɕu˥/, corrigeant la formule /li˧u˧ tʰu˥ tɕu˩/ que je lui propose. Sens: se retourner, pour regarder derrière soi, tout en restant assis.
+\vc <langue="fra" print="n"> /li˧u˧tʰu˧tɕu˥/, corrigeant la formule /li˧u˧ tʰu˥ tɕu˩/ que je lui propose. Sens: se retourner, pour regarder derrière soi, tout en restant assis.
 \va <speaker="M23"> *
-\vf <print="n"> utilise: /to˩pi˩˥/
+\vc <langue="fra" print="n"> utilise: /to˩pi˩˥/
 \de To do (something) over again.
 \ge to_do_again
 \dn 重新做、再来做
@@ -76062,7 +76061,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> /ɖɯ˧wɤ˩ ɖɯ˧wɤ˩ le˧gv̩˧gv̩˥ tʰi˩ tɕi˥/: forte descente intonative entre les deux instances de ɖɯ˧ wɤ˩
+\vc <langue="fra" print="n"> /ɖɯ˧wɤ˩ ɖɯ˧wɤ˩ le˧gv̩˧gv̩˥ tʰi˩ tɕi˥/: forte descente intonative entre les deux instances de ɖɯ˧ wɤ˩
 \de Load, charge, weight.
 \ge |fg{clf}.loads
 \dn 量词：担，负荷
@@ -76582,7 +76581,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc zɑ˧zɑ˧
 \so F4
 \va <speaker="M21"> *
-\vf <print="n"> emploie l'expression /lo˧mv̩˥ dʑɤ˩˧/ 'qui fait bien les travaux qui demandent du soin'. Aussi: /pɤ˧˥/, /pɤ˧ʈʂʰæ˧˥ gv̩˩/; exemple: /ʈʂʰɯ˥ ɤ˧ze˧ze˥ i˩ pɤ˧ʈʂʰæ˧˥ gv̩˩/.
+\vc <langue="fra" print="n"> emploie l'expression /lo˧mv̩˥ dʑɤ˩˧/ 'qui fait bien les travaux qui demandent du soin'. Aussi: /pɤ˧˥/, /pɤ˧ʈʂʰæ˧˥ gv̩˩/; exemple: /ʈʂʰɯ˥ ɤ˧ze˧ze˥ i˩ pɤ˧ʈʂʰæ˧˥ gv̩˩/.
 \va <speaker="M23"> ID.
 \de Careful.
 \ge careful
@@ -76860,9 +76859,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ʁo˥ ʐɤ˩ bæ˩˥
-\vf <dom="dialect"> Prononciation idiosyncratique: M18 crée la formule /|fv{ʐɤ˩ bæ˩˥}/, “le chemin court", à caractère poétique.
-\ve <dom="dialect"> Idiosyncratic pronunciation: M18 chose the designation /|fv{ʐɤ˩ bæ˩˥}/, “the path runs", as a poetic coinage.
-\vn <dom="dialect"> 独特的创新：/|fv{ʐɤ˩ bæ˩˥}/“路在跑”（诗人的创作）。
+\vc <langue="fra" dom="dialect"> Prononciation idiosyncratique: M18 crée la formule /|fv{ʐɤ˩ bæ˩˥}/, “le chemin court", à caractère poétique.
+\vc <langue="eng" dom="dialect"> Idiosyncratic pronunciation: M18 chose the designation /|fv{ʐɤ˩ bæ˩˥}/, “the path runs", as a poetic coinage.
+\vc <langue="cmn" dom="dialect"> 独特的创新：/|fv{ʐɤ˩ bæ˩˥}/“路在跑”（诗人的创作）。
 \va <speaker="M21"> ID.
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
@@ -77103,7 +77102,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʑi˧˥
-\vf <print="n"> ton MH
+\vc <langue="fra" print="n"> ton MH
 \va <speaker="M21"> ID.
 \de Family.
 \ge family
@@ -77471,7 +77470,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ʑi˧qʰwɤ˧-ʁo˧qʰwɤ˩
 \va <speaker="M18"> ʑi˧ kʶwɑ˧ ʁu˧ to˩
 \va <speaker="M21"> ʑi˧qʰwɤ˧-ʁu#˥
-\vf <print="n"> ton d2a: +ɲi˥; avant 2009: noté /ʑi˧ kʰwɑ˧ ʁu˧/; lui paraît mieux que l'expression fournie par F5, /ʑi˧qʰwɤ˧ʁu˧qʰwɤ˩/
+\vc <langue="fra" print="n"> ton d2a: +ɲi˥; avant 2009: noté /ʑi˧ kʰwɑ˧ ʁu˧/; lui paraît mieux que l'expression fournie par F5, /ʑi˧qʰwɤ˧ʁu˧qʰwɤ˩/
 \pdv tsʰi˩
 \de Roof.
 \ge roof
@@ -77537,9 +77536,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʑi˧mv̩˥
-\vf <print="n"> faire un rêve: ʑi˧mv̩˧kʶwɑ˩˥
+\vc <langue="fra" print="n"> faire un rêve: ʑi˧mv̩˧kʶwɑ˩˥
 \va <speaker="M21"> ID.
-\vf <print="n"> donne: ʑi˧mv̩˧kʰwɑ˧˥ (voyelle confirmée); ex.: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥ 'hier, j'ai fait un rêve'
+\vc <langue="fra" print="n"> donne: ʑi˧mv̩˧kʰwɑ˧˥ (voyelle confirmée); ex.: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥ 'hier, j'ai fait un rêve'
 \pdv kʰwɤ˥
 \de Dream.
 \ge dream
@@ -77576,7 +77575,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> dʑi˧ŋɤ˧
 \va <speaker="M21"> dzɯ˧ŋɤ˧
-\vf <print="n"> donne: /dzɯ˧ŋɤ˧-ze˥/
+\vc <langue="fra" print="n"> donne: /dzɯ˧ŋɤ˧-ze˥/
 \de To doze off, to nod.
 \ge to_doze_off
 \dn 打瞌睡
@@ -77721,7 +77720,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H$
 \so F4
 \va <speaker="M18"> ID.
-\vf <print="n"> voyelle et tons confirmés; 2e syllabe proche de /wɤ/
+\vc <langue="fra" print="n"> voyelle et tons confirmés; 2e syllabe proche de /wɤ/
 \va <speaker="M21"> ʑi˧ʁo#˥
 \pdv ɭɯ˧˥
 \de Bed.
@@ -77854,7 +77853,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʐo˩˥
-\vf <print="n"> donne: /ʐu˩dzɯ˩ ɖʐɯ˧ kʰɤ˥/ 'l'heure du déjeuner'
+\vc <langue="fra" print="n"> donne: /ʐu˩dzɯ˩ ɖʐɯ˧ kʰɤ˥/ 'l'heure du déjeuner'
 \va <speaker="M21"> ID.
 \de Noon; lunch.
 \ge noon/lunch
@@ -78016,7 +78015,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> ʐu˩˧, ʐu˩dzɯ˩˥, ʐu˩ dzɯ˩-se˥
+\vc <langue="fra" print="n"> ʐu˩˧, ʐu˩dzɯ˩˥, ʐu˩ dzɯ˩-se˥
 \va <speaker="M21"> ID.
 \de To eat lunch.
 \ge to_eat_lunch
@@ -78175,10 +78174,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ʐɤ˩ni˧
 \va <speaker="M18"> ʐe˩ni˧˥
-\vf <print="n"> M18 imagine comme étymologie: /ni˩˥/: 'proche', /ʐe˩˥/: 'chemin'.
+\vc <langue="fra" print="n"> M18 imagine comme étymologie: /ni˩˥/: 'proche', /ʐe˩˥/: 'chemin'.
 \va <speaker="M21"> ID.
-\vf <print="n"> donne: ʐɤ˩ni˧-ze˥
-\vf <print="n"> /ʐɤ/: homophone de la première syllabe de “chemin"
+\vc <langue="fra" print="n"> donne: ʐɤ˩ni˧-ze˥
+\vc <langue="fra" print="n"> /ʐɤ/: homophone de la première syllabe de “chemin"
 \va <speaker="M23"> ni˧˥
 \de Near.
 \ge near
@@ -78204,7 +78203,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M18"> zo˧no˥
 \va <speaker="M21"> ʑi˧nu˥
-\vf <print="n"> +ɲi˩; tons vérifiés, segments vérifiés
+\vc <langue="fra" print="n"> +ɲi˩; tons vérifiés, segments vérifiés
 \de Now.
 \ge now
 \dn 现在
@@ -78229,7 +78228,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ze˩ko˥
-\vf <print="n"> réalise la voyelle comme /e/: /ze.ku/; tons: ID.
+\vc <langue="fra" print="n"> réalise la voyelle comme /e/: /ze.ku/; tons: ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \de Where.
@@ -78423,7 +78422,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ʐɤ˩ʐɤ˧
 \va <speaker="M18"> ʐɤ˩˥
-\vf <print="n"> M18 utilise le mot pour 'chemin', faute d'un terme spécifique.
+\vc <langue="fra" print="n"> M18 utilise le mot pour 'chemin', faute d'un terme spécifique.
 \pdv ʐɤ˩
 \de Lines, pattern.
 \ge lines/pattern
@@ -78470,7 +78469,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc zo˧
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> exemple: mɤ˧-zo˧-ze˧! “ce n'est pas la peine!"; ex.: /ʈʰæ˧ i˧zu˧hu˥ɲi˩!/ Avant 2009, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
+\vc <langue="fra" print="n"> exemple: mɤ˧-zo˧-ze˧! “ce n'est pas la peine!"; ex.: /ʈʰæ˧ i˧zu˧hu˥ɲi˩!/ Avant 2009, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
 \de To have to, to be necessary.
 \ge have_to
 \dn 要，应该
@@ -78729,7 +78728,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> prononce proche de /ʐɤ/ mais est bien un /ɯ/
+\vc <langue="fra" print="n"> prononce proche de /ʐɤ/ mais est bien un /ɯ/
 \de Heavy.
 \ge heavy
 \dn 重
@@ -78806,7 +78805,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʐɯ˩gv̩˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vf <print="n"> ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船 xxxx à confirmer
+\vc <langue="fra" print="n"> ʐɯ˩gv̩˩ bæ˧ faire du bateau 划船 xxxx à confirmer
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \pdv nɑ˧α
@@ -79076,7 +79075,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕi˧zɯ˧
-\vf <print="n"> ton d2a; aussi: ɕi˧zɯ˧kʰu˧ɻæ˧ +ɲi˥
+\vc <langue="fra" print="n"> ton d2a; aussi: ɕi˧zɯ˧kʰu˧ɻæ˧ +ɲi˥
 \pdv tsʰi˥
 \de Mattress.
 \ge mattress
@@ -79335,7 +79334,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʐɻ̩˧bɤ˧
 \so F4
 \va <speaker="M18"> ʐwɑ˧kʰɯ˧
-\vf <print="n"> Non reconnu par F4.
+\vc <langue="fra" print="n"> Non reconnu par F4.
 \pdv v̩˧
 \de The Pumi (Prinmi) people of the mountains.
 \ge Pumi_of_mountains
@@ -79414,7 +79413,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʐv̩˩-li˩mi˩˥
-\vf <print="n"> n'est pas ɬ
+\vc <langue="fra" print="n"> n'est pas ɬ
 \de 4th month.
 \ge 4th_month
 \dn 四月
@@ -79577,7 +79576,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf <print="n"> Avais d'abord noté /ʐv̩˥ tsʰɯ˧lɯ˧/.
+\vc <langue="fra" print="n"> Avais d'abord noté /ʐv̩˥ tsʰɯ˧lɯ˧/.
 \va <speaker="M21"> ID.
 \de 40.
 \ge 40
@@ -79601,7 +79600,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ʐe˧v̩#˥
 \va <speaker="M18"> ʐu˧v̩˥-ʐu˩mi˩
-\vf <print="n"> tons confirmés; d'abord noté ʐu˥ v̩˥ ʐu˥ mi˥
+\vc <langue="fra" print="n"> tons confirmés; d'abord noté ʐu˥ v̩˥ ʐu˥ mi˥
 \va <speaker="M21"> ID.
 \de Grandchildren.
 \ge grandchildren
@@ -80080,9 +80079,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐwæ˧sɯ˩
-\vf <print="n"> ton d4; prononce proche de /sv/; comme une voyelle apicale arrondie. /ʐwæ˧tv̩˧/: un cheval tout seul; tv̩˧: adjectif “solitaire", dont l'humeur ne se prête pas à la vie en société?
+\vc <langue="fra" print="n"> ton d4; prononce proche de /sv/; comme une voyelle apicale arrondie. /ʐwæ˧tv̩˧/: un cheval tout seul; tv̩˧: adjectif “solitaire", dont l'humeur ne se prête pas à la vie en société?
 \va <speaker="M23"> ʐwæ˧si˩
-\vf <print="n"> flottement dans la distribution des /si/ et des /sɯ/; présenté à la conférence de Kunming 2009
+\vc <langue="fra" print="n"> flottement dans la distribution des /si/ et des /sɯ/; présenté à la conférence de Kunming 2009
 \pdv mi˩
 \de Stallion.
 \ge stallion
@@ -80209,7 +80208,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ton 4; tɕi˩˥ ʐwæ˥ “peser à la balance"; confirmé par F4 en 2009, cf enrt 28 mars 09; reporter dans le tableau noms+verbes; attendu: ˧ ˧ ˧˥; peser des pommes: pʰi˩ku˧ ʐwæ˧ (confirmé, n'est pas pʰi˩kwɤ˧)
+\vc <langue="fra" print="n"> ton 4; tɕi˩˥ ʐwæ˥ “peser à la balance"; confirmé par F4 en 2009, cf enrt 28 mars 09; reporter dans le tableau noms+verbes; attendu: ˧ ˧ ˧˥; peser des pommes: pʰi˩ku˧ ʐwæ˧ (confirmé, n'est pas pʰi˩kwɤ˧)
 \de To weigh (with scales).
 \ge to_weigh
 \dn 称
@@ -80325,7 +80324,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ʐwɤ˧
-\vf <print="n"> ton 3
+\vc <langue="fra" print="n"> ton 3
 \de To speak.
 \ge to_speak
 \dn 讲话
