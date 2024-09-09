@@ -47,5 +47,10 @@ Huitième et dernière des huit courtes interviews données (le même jour) par 
 \xn 实施 〜 整体体：赢了
 \xf |fg{accomp} 〜 |fg{pfv}
 
+recherche doublons attribut langue :
 <langue="fra".+langue
+recherche balises sans attribut langue :
 vc\s*<((?:(?!langue=)[^>])+)>
+nt\s*<((?:(?!langue=)[^>])+)>
+etc.
+va <((?:(?!speaker=)[^>])+)>

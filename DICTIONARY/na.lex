@@ -5628,7 +5628,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> donne: /ʁu˧bv̩˧zo˧/ “un homme chauve" (ts pense que cette expression n'est pas bonne) (confirmé: la première syllabe est la même que dans “tête") (historique: faux “ton d9": cet exemple avait amené à poser, par erreur, une catégorie tonale, d9, car sa première syllabe est au ton ˧ en forme de citation et non au ton ˩; en fait ce n'est pas un nom mais un composé contenant un sujet et un prédicat; d'abord analysé comme: bv̩˧˥, avec comme sens: qui est à nu, 光; mais selon M23 bv̩˩˧ signifie: qui n'est pas bien dense, qui est dispersé/fin; cf “disperser", /bv/, ton 3.
-\nt <type="hist" print="n" dom="phono"> Historique de la notation: d'abord noté /o/, puis indiqué une initiale ʁ: /ʁu/; ajout de i:˧ hĩ˥ pour donner “personne chauve".
+\nt <type="hist" print="n" dom="phono" langue="fra"> Historique de la notation: d'abord noté /o/, puis indiqué une initiale ʁ: /ʁu/; ajout de i:˧ hĩ˥ pour donner “personne chauve".
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -5643,7 +5643,7 @@
 \xe bald (literally “the head (has) scarce (hair)")
 \xn 头秃、头发很少
 \xf chauve (littéralement «la tête est à nu»)
-\xc <dom="dialect" print="n"> Speaker M18 pronounces /o˧pv̩˩/.
+\xc <dom="dialect" print="n" langue="eng"> Speaker M18 pronounces /o˧pv̩˩/.
 \xv ʁo˧ bɻ̩˧ hĩ˥
 \xe bald person
 \xn 头发少的人
@@ -11714,7 +11714,6 @@
 \xe many…
 \xn 好几……
 \xf beaucoup de…
-\dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰi˧-ɖɯ˩mɑ˩
 \or Jjacee Ddeema
@@ -11755,7 +11754,7 @@
 
 \lx dʑɤ˩tsʰi#˥
 \or Jjacee
-\bw <lang="bod"> Bde skyid (?) |tib{བདེ་སྐྱིད}
+\bw <langue="bod"> Bde skyid (?) |tib{བདེ་སྐྱིད}
 \ps n
 \lc dʑɤ˩tsʰi˥
 \sd <langue="fra"> nom propre
@@ -15118,7 +15117,7 @@
 \sd <langue="eng"> society
 \ton -H#
 \lc ə˧mv̩˧go˧mi˥
-\nt <type="hist" print="n" dom="ton"> Confirmation des tons le onze décembre (2006?): M.M.M.H (˧ ˧ ˧ ˥), on ne peut pas dire M.H.M.M (˧ ˥ ˧ ˧) (schème tonal employé par M18).
+\nt <type="hist" print="n" dom="ton" langue="fra"> Confirmation des tons le onze décembre (2006?): M.M.M.H (˧ ˧ ˧ ˥), on ne peut pas dire M.H.M.M (˧ ˥ ˧ ˧) (schème tonal employé par M18).
 \so F4
 \va <speaker="M18"> æ˧mv̩˥gu˩mi˩
 \vc <langue="fra" type="hist" print="n" dom="ton"> tons vérifiés; d'abord noté /æ˧m˩ gu˧mi˧/, sans changement de ton.
@@ -18412,7 +18411,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\nt <print="n"> Exemple de M21, à vérifier avec F4 et intégrer: avant 2009: noté /gwɤ˩˥ | dʑɤ˩-le˥/ “(tu) chantes bien!"
+\vc <langue="fra" print="n"> Exemple de M21, à vérifier avec F4 et intégrer: avant 2009: noté /gwɤ˩˥ | dʑɤ˩-le˥/ “(tu) chantes bien!" xxxx
 \de To sing.
 \ge to_sing
 \dn 唱、唱歌
@@ -21153,9 +21152,9 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" lang="fra" print="n"> Rime vérifiée: est bien la même que “huit".
-\nt <type="hist" print="n" lang="fra" print="n"> On ne peut dire ‡hõ˧-ze˧: l'impératif n'est pas compatible avec le perfectif.
-\nt <type="hist" print="n" lang="fra" print="n"> Avant 2024: traduit par l'impératif de "partir", "to go away", plutôt que par celui de "aller".
+\nt <type="hist" print="n" langue="fra" print="n"> Rime vérifiée: est bien la même que “huit".
+\nt <type="hist" print="n" langue="fra" print="n"> On ne peut dire ‡hõ˧-ze˧: l'impératif n'est pas compatible avec le perfectif.
+\nt <type="hist" print="n" langue="fra" print="n"> Avant 2024: traduit par l'impératif de "partir", "to go away", plutôt que par celui de "aller".
 \so F4
 \de To go (imperative).
 \ge to_go.|fg{imp}
@@ -29053,7 +29052,7 @@
 
 \lx kwæ˩pæ˧
 \or guaebae
-\bw <lang="cmn"> 刮板
+\bw <langue="cmn"> 刮板
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -33827,8 +33826,8 @@
 \so F4
 \va <speaker="F5"> ɕi˧pʰv̩˧
 \vc <langue="fra"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
-\vc <langue="eng" langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
-\vc <langue="cmn" langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
+\vc <langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
+\vc <langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
 \va <speaker="M21"> ɕi˩dɑ˩˥
 \vc <langue="fra" print="n"> Le locuteur préfère le terme /|fv{ɕi˩dɑ˩˧/}/, plutôt que /|fv{ɕi˧pʰv̩˧}/.
 \va <speaker="M23"> ID.
@@ -36572,7 +36571,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui sont des créations: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)...
+\va <speaker="M18" print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui sont des créations: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)...
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
@@ -41539,7 +41538,7 @@
 \ec <langue="fra"> De |fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.
 \ec <langue="eng"> From |fv{njɤ˧˥1} to glue', |fv{njɤ˧˥2} ‘sticky'. The seeds of this plant attach themselves very effectively to furs and fabrics.
 \ec <langue="cmn"> 来自|fv{njɤ˧˥1}‘粘'，|fv{njɤ˧˥2}‘粘’。这种植物的种子能非常有效地附着在毛皮和织物上。
-\nt <type="hist" print="n"> Voir photographie de la plante: photo 1.jpg
+\nt <type="hist" print="n" langue="fra"> Voir photographie de la plante: photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
 \so F4
@@ -68060,7 +68059,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adv
 \sd <langue="fra"> syntaxe
 \sd <langue="eng"> syntax
-\nt <dom="ton" print="n"> S'il s'agit bien d'une forme rédupliquée, d'après les règles tonales dans la réduplication des verbes, il peut s'agir d'un ton de base Mα, Mγ ou Lβ.
+\nt <dom="ton" print="n" langue="fra"> S'il s'agit bien d'une forme rédupliquée, d'après les règles tonales dans la réduplication des verbes, il peut s'agir d'un ton de base Mα, Mγ ou Lβ.
 \ton L#
 \lc ʈʂʰe˧~ʈʂʰe˩
 \so F4
