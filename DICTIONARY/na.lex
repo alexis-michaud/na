@@ -1674,7 +1674,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> noté par erreur [bæ˧] (forme à l'isolée) et /bæ˩/ (forme phonologique). C'est en fait: /bæ˩˧/. La confusion était peut-être due à une méprise avec le mot ‘fleur'.
+\nt <type="hist" print="n" langue="fra"> noté par erreur [‡bæ˧] (forme à l'isolée) et /bæ˩/ (forme phonologique). C'est en fait: /bæ˩˧/. La confusion était peut-être due à une méprise avec le mot ‘fleur'.
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
 \ton LM
 \lc bæ˩˥
@@ -2319,7 +2319,7 @@
 \lc bæ˩ʈʂwæ˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> ʐwæ˧bæ˥ʈʂwæ˩: schéma tonal régulier; en 2006, noté ˧˥˧, par erreur
+\nt <type="hist" print="n" langue="fra"> ʐwæ˧bæ˥ʈʂwæ˩: schéma tonal régulier; en 2006, noté ‡˧˥˧, par erreur
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -3855,7 +3855,7 @@
 \lc bo˩mæ˧qv̩˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: bu˩mæ˥ko˩, par erreur) “queue du cochon"
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: ‡bu˩mæ˥ko˩, par erreur) “queue du cochon"
 \ton L-L#
 \so F4
 \pdv ɭɯ˧β
@@ -5488,7 +5488,7 @@
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ˧˥˧, par erreur)
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ‡˧˥˧, par erreur)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -5919,7 +5919,7 @@
 \cf ɕi˩ʈʰæ˧˥2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (confirmé: n'est pas /hi/) (avais d'abord noté ʈʂʰɯ˧ ɕi˩ʈʰæ˧˥ ɲi˩, par erreur)
+\nt <type="hist" print="n" langue="fra"> (confirmé: n'est pas ‡/hi/) (avais d'abord noté ‡ʈʂʰɯ˧ ɕi˩ʈʰæ˧˥ ɲi˩, par erreur)
 \ton LM+MH#
 \lc ɕi˩ʈʰæ˧˥
 \so F4
@@ -6669,7 +6669,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté dzi˥, par erreur, puis dʑi˥) (confirmé: initiale voisée) (confirmé en avril 2012: est une initiale /i/; avais précédemment noté ɯ; mais, 15 avril 2012: rétablis dʑɯ)
+\nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté ‡dzi˥, par erreur, puis ‡dʑi˥) (confirmé: initiale voisée) (note d'avril 2012: "est une initiale /i/; avais précédemment noté ɯ"; mais, 15 avril 2012: rétablis /dʑɯ/)
 \ec <langue="fra"> Le sens n'est pas (ou n'est plus) “eau sale", “eau de détritus": la syllabe /dʑɯ/ n'est pas perçue par F4 comme signifiant “eau".
 \ton LH
 \lc ɖæ˩dʑɯ˥
@@ -7054,7 +7054,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n" langue="fra"> (d'abord noté ˩˧˧˩; en fait: conforme à la forme de citation: ʐɤ˩mi˩˧) (d'abord noté ɖɤ˩, par erreur) (confirmé en mai 2008: est /ʐɤ/ et non /ʐe/) (confirmé en mai 2008: n'est pas: ʈæ˩, qui était la première notation)
+\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡˩˧˧˩; en fait: conforme à la forme de citation: ʐɤ˩mi˩˧) (d'abord noté ‡ɖɤ˩, par erreur) (confirmé en mai 2008: est /ʐɤ/ et non /ʐe/) (confirmé en mai 2008: n'est pas: ʈæ˩, qui était la première notation)
 \ton Lα
 \lc ɖɯ˧ ɖæ˩
 \so F4
@@ -7125,6 +7125,7 @@
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
 \ton LH
 \lc di˩˥
+\at mv̩˥1
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> di˩˥
@@ -8576,7 +8577,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <langue="pumi" dom="comp" print="n"> dõ51
-\nt <type="hist" print="n" langue="fra"> avant 2011: noté /dv/, par erreur; est en fait rétroflexe
+\nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡/dv/, par erreur; est en fait rétroflexe
 \ton L
 \lc ɖv̩˧
 \so F4
@@ -8937,7 +8938,7 @@
 \lc ɖwæ˧pɤ˧ɭɯ˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: ɖwæ˧pu˧lɯ˥, par erreur)
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: ‡ɖwæ˧pu˧lɯ˥, par erreur)
 \nt <type="hist" print="n" langue="fra"> (M23: vérifié, rime n'est pas /lɯ/)
 \ton H#
 \so F4
@@ -9028,7 +9029,7 @@
 \lc dzɑ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (d'abord noté tsɑ˥, par erreur) (vérifié: dzɑ˧ “pauvre" est différent de tsɑ˧ “occupé, mang2") (Roselle Dobbs: aurait un mot homophone de “os": ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
+\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡tsɑ˥, par erreur) (vérifié: dzɑ˧ “pauvre" est différent de tsɑ˧ “occupé, mang2") (Roselle Dobbs: aurait un mot homophone de “os": ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
 \ton H
 \so F4
 \va <speaker="F5"> ID.
@@ -22564,7 +22565,7 @@
 \lc hwɤ˧mi˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> 2006: noté |fv{/ho˧/}, par erreur.
+\nt <type="hist" print="n" langue="fra"> 2006: noté ‡|fv{/ho˧/}, par erreur.
 \nt <type="hist" print="n" langue="fra"> 2009: ton confirmé: est H$ et non H#.
 \nt <type="hist" print="n" langue="fra"> hwɤ˧li˥mi˩˧, hwɤ˧li˥mi˩ ɲi˧ (2006: noté ho˧, par erreur)
 \ton H$
@@ -29507,6 +29508,10 @@
 \xe It's only when one has no ailments that one can be happy! (An observation about the health trouble that comes with older years.)
 \xn 不痛才（能）高兴！／没有病的时候才能开心！（反思高年龄身体不舒服的困难和烦恼）
 \xf C'est seulement quand on n'a pas de maladie qu'on peut être content! / Ce n'est qu'en l'absence de soucis de santé qu'on peut être heureux! (Réflexion au sujet des contrariétés qu'apportent les soucis de santé avec l'âge.)
+\xv hĩ˧ ɖɯ˧-v̩˧ lɑ˧ ɲi˥ mæ˩!
+\xe It's one and the same person / It refers to the same person! (Response given by the speaker to a question about shades of meaning between quasi-synonyms. Paraphrase: ‘Well, you can find nuances, but basically it's all the same: it refers to the same person’).
+\xn 是同一个人／指的是同一个人！(情景：发音合作者回答关于准同义词之间的细微差别的问题。意思是：“嗯，可以找到细微差别，但基本上都是一样的，因为指的是同一个人”。）
+\xf Il s'agit d'une seule et même personne! / Il s'agit en tout et pour tout d'une seule personne! / Ca désigne la même personne! (Réponse fournie par la locutrice à une question concernant les nuances de sens entre quasi-synonymes pour désigner une certaine personne. Paraphrase: “Les nuances, bon, on peut en trouver, mais au fond, c'est pareil puisque ça désigne la même personne".)
 
 \lx lɑ˧˥
 \sf <nb="B"> 1191b
@@ -35177,13 +35182,12 @@
 \lc mi˩ɬi˩ʁo˩bv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> (tons confirmés en 2006 et 2007, n'est pas ˩˩˩˩˥)
-\nt <dom="phono" langue="fra"> de: /ʁo˧bv̩˧/ “pousse", et “bambou"
+\nt <type="hist" print="n" langue="fra"> (tons confirmés en 2006 et 2007, n'est pas ˩ ˩ ˩ ˩˥)
 \ton L+H#
 \so F4
 \va <speaker="F5"> ID.
-\va <speaker="M21"> mi˩lv̩˩ʁv̩˩bv̩˧
-\vf <print="n"> +ɲi˩; ʁv̩˧bv̩˧. Vérifié, n'est pas ʁu.
+\va <speaker="M21"> mi˩lv̩˩-ʁv̩˩bv̩˧
+\vf <print="n"> +ɲi˩; ʁv̩˧bv̩˧. Vérifié, n'est pas /ʁo/.
 \pdv kɤ˧˥
 \de Bamboo shoot.
 \ge bamboo_shoot
@@ -36076,7 +36080,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> (avant 2009: noté /mu˩zo˥/)
+\nt <dom="phono" langue="fra" type="hist" print="n"> Avant 2009: noté ‡/mu˩zo˥/.
 \ton LM+#H
 \lc mo˩zo˥
 \so F4
@@ -36095,7 +36099,6 @@
 \xe He went to the army! / He joined the army! / He became a soldier!
 \xn 当兵去了！
 \xf Il est parti à l'armée! / Il s'est fait soldat!
-\dt 04/Sep/2015
 
 \lx mo˩α
 \sf <nb="B"> 1015
@@ -36430,13 +36433,13 @@
 \or mu
 \ps n
 \lc mv̩˧
+\at di˩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <langue="pumi" dom="comp" print="n"> mə51
 \nt <type="hist" print="n" langue="fra"> confirmé: n'est pas le même ton que chez la locutrice F5; le monosyllabe n'a pu être élicité en cadre /ʈʂʰɯ…ɲi/; si je désigne le ciel, la locutrice indique “esprit du ciel", 660b (mv̩˧gɤ˧lɑ˥)
 \nt <type="hist" print="n" langue="fra"> N'a pu être élicité en cadre. Ton différent de F4.
-\nt <dom="sem" langue="fra"> s'oppose à 50 “la terre"
-\nt <dom="phono" langue="fra"> Comportement tonal irrégulier en composition. Cf: mv̩˧ʁu˥, mv̩˧hĩ˥
+\nt <dom="phono" langue="fra"> Ce mot présente un comportement tonal irrégulier en composition. Cf: mv̩˧ʁu˥, mv̩˧hĩ˥ yyyy
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
@@ -36449,7 +36452,7 @@
 \gn 天
 \df Ciel.
 \gf ciel
-\xv mv̩˧tʰv̩˧(-ze˩)
+\xv mv̩˧ tʰv̩˧(-ze˩)
 \xe the day is bright, the sky is clear
 \xn 天晴，天色亮
 \xf il fait clair, il fait grand jour, le ciel est clair
@@ -36462,7 +36465,6 @@
 \xe Today, the weather is fair! / The weather is fine today!
 \xn 今天天气好！
 \xf Aujourd'hui, il fait beau!
-\dt 09/May/2017
 
 \lx mv̩˥
 \sf <nb="B"> 20
@@ -36475,8 +36477,7 @@
 \sd <langue="eng"> natural environment
 \nt <langue="pumi" dom="comp" print="n"> mʌ35
 \nt <type="hist" print="n" langue="fra"> notation 2006: /‡mv̩˥/; ton corrigé, et confirmé en 2009; mais l'exemple ‘allumer un feu' était resté noté /‡mv̩˥kʰɯ˧/ jusqu'en 2009.
-\nt <type="hist" print="n" langue="fra"> ton m2 (homophone de “ciel")avant 2009: avais noté:
-\nt <dom="phono" langue="fra"> ton différent de F5; mais se comporte comme m2 ds certaines combinaisons: ex. “allumer le feu", mv̩˧tsʰi˧˥
+\nt <type="hist" print="n" langue="fra"> Homophone de “ciel".
 \ton #H
 \so F4
 \va <speaker="F5"> mv̩˧
@@ -36501,6 +36502,10 @@
 \xe to light a fire, to do a fire
 \xn 点一个火
 \xf allumer un feu, faire un feu
+\xv mv̩˧ tsʰɯ˩
+\xe to light a fire
+\xn 点一个火
+\xf allumer un feu
 
 \lx mv̩˩-bæ˧mi˩
 \sf <nb="2011"> 1506
@@ -36518,7 +36523,6 @@
 \gn 傻女人
 \df Imbécile, idiote.
 \gf idiote
-\dt 24/Apr/2017
 
 \lx mv̩˧bɤ#˥
 \sf <nb="B"> 173
@@ -36583,8 +36587,8 @@
 \lc mv̩˧ɕi˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (confirmé: n'est pas /hi/)
-\nt <dom="sem" langue="fra"> (ɕi˥: d'après ts, sens de: petit morceau, fragment; ex.: sɯ˧ɕi˥: forêt clairsemée)
+\nt <type="hist" print="n" langue="fra"> Confirmé: n'est pas /hi/.
+\nt <dom="sem" langue="fra" print="n"> D'après M18, la syllabe /ɕi˥/ serait un morphème qui signifierait `petit morceau, fragment', que l'on retrouverait dans /sɯ˧ɕi˥/ `forêt clairsemée'.
 \ton H#
 \so F4
 \va <speaker="F5"> ID.
@@ -36602,7 +36606,7 @@
 \xn 火花四溅、火花飞溅
 \xf Des étincelles jaillissent.
 
-\lx mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
+\lx mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩
 \sf <nb="B"> 10
 \sf <nb="2011"> 20
 \or muxiejjitee
@@ -36611,14 +36615,22 @@
 \lc mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> …ze˩ (avant 2009: noté /mv̩˧hĩ˥ dʑi˩ʈʰɯ˩/, par erreur) (tons vérifiés) (n'est pas dʑɯ)
-\nt <dom="sem" langue="fra"> (analyse de l'expression: /mv̩˧ɕi˥/ n'a pas de sens identifiable) (est à la fois nominal, car on peut y ajouter ɖɯ˧-kʰɯ˩, et verbal car on peut y ajouter l'accompli ze˩) (Roselle, 2015: “La Mingqing analyses the morphemes as sky+rain+water+drink".)
+\nt <type="hist" print="n" langue="fra"> Avant 2009: noté ‡/mv̩˧hĩ˥ dʑi˩ʈʰɯ˩/. Tons vérifiés: schéma M.H.L.L. La troisième syllabe n'est pas /dʑɯ/.
+\nt <dom="synt" langue="fra" print="n"> Le mot peut avoir un comportement nominal (ainsi, on peut y ajouter une expression |fg{numéral+classificateur}, /|fv{ɖɯ˧-kʰɯ˩}/), aussi bien qu'un comportement prédicatif, car on peut y ajouter l'accompli /|fv{ze˩}/.
+\nt <dom="sem" langue="fra"> Roselle Dobbs indique (en 2015) que La Mingqing analyse respectivement les quatre syllabes comme autant de morphèmes: ‘ciel’, ‘pluie’, ‘eau’ et ‘boire’. Cette analyse paraît tout à fait valable en ce qui concerne les syllabes 1, 3 et 4. S'agissant de la deuxième, en revanche, la forme attestée dans le dialecte de Alawua ne se plie pas (synchroniquement du moins) à cette analyse, puisque la deuxième syllabe n'est pas homophone avec `pluie' (sa consonne initiale est /|fv{ɕ}/, tandis que celle de `pluie' est /|fv{h}/). La séquence /|fv{mv̩˧ɕi˥}/ n'a pas de sens identifiable.
+\nt <dom="sem" langue="eng"> Roselle Dobbs pointed out (in 2015) that La Mingqing analyzes the four syllables as so many distinct morphemes: ‘sky’, ‘rain’, ‘water’ and ‘drink’, respectively. This analysis appears valid for the first, third and fourth syllables. Concerning the second syllable, however, analysis as `rain' does not go without saying, when looked at in dialectal perspective. In the Alawua dialect, the second syllable is not homophonous with `rain (its initial consonant is /|fv{ɕ}/, whereas that of `rain is /|fv{h}/). The sequence /|fv{mv̩˧ɕi˥}/ has no identifiable meaning.
+\nt <dom="sem" langue="cmn"> 杜玫瑰2015年指出，喇明清将四个音节分析为四个语素：‘天’、‘雨’、‘水’与‘喝’。然而，对第二个音节的分析并非不言而喻：在阿拉瓦方言中，第二个音节与‘雨’不同音（其声母为/|fv{ɕ}/，而‘雨’的声母为/|fv{h}/）。
 \ton H#-L
 \so F4
-\va <speaker="F5"> *
-\vf <print="n"> La locutrice dit: /ɲi˧mi˧-dʑi˩-ʈʰɯ˩/. Sens: “le soleil boit de l'eau". La locutrice connaît aussi la périphrase indiquée par F4, mais ne l'emploie pas. Une variante avec montée finale est possible: |fv{ɲi˧mi˧ dʑi˩ʈʰɯ˩˧}.
-\va <speaker="M18"> *
-\vf <print="n"> Le locuteur dit: /mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩˥; hi˩ gi˩ ho˩˥ di˩ mæ˩/. Sens de la périphrase, tel qu'expliqué par le locuteur: “le mandarin du ciel boit de l'eau; il va pleuvoir". Parmi les variations qu'il propose: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
+\va <speaker="F5"> ɲi˧mi˧ dʑɯ˩ ʈʰɯ˩
+\vf <langue="fra" dom="sem"> Cette expression signifie “le soleil boit de l'eau". La locutrice connaît la forme |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, mais ne l'emploie pas. Une variante |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} est attestée.
+\vf <langue="eng" dom="sem"> This phrase means ‘the sun drinks water’. The speaker knows the form |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, but does not use it. A variant |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} is attested.
+\vf <langue="cmn" dom="sem"> 意思是‘太阳喝水’。还有另外一个变体：|fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥}。这位发音合作人也知道|fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}这个短语，但没有使用。
+\va <speaker="M18"> mv̩˧-hĩ˥ | dʑɯ˩ ʈʰɯ˩˥
+\vf <print="n"> Le sens de la périphrase est: “l'homme du ciel boit de l'eau". La seconde syllabe de cette expression pour dire ‘arc-en-ciel’ est ‘personne, être humain’.
+\vf <print="n"> This phrase means: “the sky man drinks water". The second syllable of this word for ‘rainbow’ is ‘person, human being’.
+\vf <print="n"> 直译：“天（上的）人喝水”。
+\vf <print="n" langue="fra"> Parmi les exemples fournis par M18: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
 \de Rainbow.
@@ -36631,6 +36643,25 @@
 \xe simplified form; same meaning: rainbow
 \xn 同上：彩虹（简化）
 \xf forme simplifiée; même sens: arc-en-ciel
+\xv mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩ | ɖɯ˧-kʰɯ˩
+\xe a rainbow
+\xn 一道彩虹
+\xf un arc-en-ciel
+\xc <langue="fra" dom="synt"> Cet exemple illustre l'emploi nominal du mot.
+\xc <langue="eng" dom="synt"> This example illustrates the nominal use of the word.
+\xc <langue="cmn" dom="synt"> 此例说明了该词作为名词的用法。
+\xv mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩-ze˩.
+\xe 〜 |fg{pfv}: a rainbow has formed, there is a rainbow
+\xn 〜 |fg{整体体}：有了一道彩虹
+\xf 〜 |fg{pfv}: il y a un arc-en-ciel, un arc-en-ciel s'est formé
+\xc <langue="fra" dom="synt"> Cet exemple illustre l'emploi du mot comme prédicat.
+\xc <langue="eng" dom="synt"> This example illustrates the predicative use of the word.
+\xc <langue="cmn" dom="synt"> 此例说明了该词作为谓语的用法。
+\xv mv̩˧-hĩ˥ | dʑɯ˩ ʈʰɯ˩˥, | hi˩ gi˩ ho˩˥ di˩ mæ˩.
+\xe there is a rainbow (literally: “the sky mandarin is drinking water”), [it means that] it is going to rain.
+\xn “天臣在喝水，要下雨了”（有彩虹，即将会下雨）。
+\xf Il y a un arc-en-ciel (littéralement ``le mandarin du ciel boit de l'eau"), [cela indique qu']il va pleuvoir.
+\rf M18
 
 \lx mv̩˩ɖæ˧
 \sf <nb="B"> 716
@@ -36875,7 +36906,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> traduction littérale de l'expression chinoise: kʰɯ˧tsʰɤ˧gv̩˧dv̩˧ “le dos du pied"; refusé par M23; en 2011, F4 aussi revient sur cette expression kʰɯ˧tsʰɤ˧gv̩˧dv̩˧ et la juge incorrecte.
+\nt <dom="sem" langue="fra" type="hist" print="n"> Avant 2011, la forme indiquée était /kʰɯ˧tsʰɤ˧gv̩˧dv̩˧/, traduction littérale de l'expression chinoise: “le dos du pied". Cette expression est refusée par M23. En 2011, F4 aussi revient sur cette expression /kʰɯ˧tsʰɤ˧gv̩˧dv̩˧/ et la juge incorrecte.
 \ton M
 \lc mv̩˧gv̩˧dv̩˧
 \so F4
@@ -37039,13 +37070,13 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté mv̩˥ɭɯ˩)
-\nt <type="hist" print="n" langue="fra"> (confirmé: différent de la façon dont le prononce F4)
+\nt <type="hist" print="n" langue="fra"> Avant 2009: noté ‡mv̩˥ɭɯ˩.
 \ton L#
 \lc mv̩˧ɭɯ˩
 \so F4
 \va <speaker="F5"> mɯ˧ɭɯ˩
 \vf <print="n" dom="ton"> L#
+\vf <type="hist" print="n" langue="fra"> Confirmé: différent de la façon dont le prononce F4.
 \de Muli county.
 \ge Muli
 \dn 木里
@@ -37060,8 +37091,6 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (cf récit 1, version 2008)
-\nt <dom="sem" langue="fra"> peut-être mot plus ancien? Commentaire de Ama: hĩ˧ ɖɯ˧-v̩˧ lɑ˧ ɲi˥ mæ˩! “C'est la même personne! Ça désigne la même personne!"
 \ton M
 \lc mv̩˧mi˧
 \so F4
@@ -37077,6 +37106,8 @@
 \xn “女人，到三十岁就算是得拉着的老牛。男人们，到六十岁还在普米山上骑红老虎！”这个谚语讲男人与女人老化过程的不对称，特别描写相互吸引的程度：三十岁女人算是老了，六十岁男人还认为自己有伟大的威力。女人可以用这个谚语隐蔽地嘲弄一个衰老帅哥。
 \xf «À trente ans, la femme est déjà comme une vieille vache qu'il faut tirer pour qu'elle avance (=à trente ans, une femme, c'est déjà une vieille); à soixante, les hommes chevauchent le tigre roux au pays des Pumi!» (=pour l'homme, soixante ans c'est un âge qui permet encore les exploits) (Dicton au sujet de la façon dont vieillissent les deux sexes, au plan de l'attirance qu'ils exercent sur l'autre sexe; employé par une femme, il peut véhiculer une nuance de moquerie à l'égard d'un bellâtre vieillissant.)
 \xc PROVERBE
+\txtsup Sister1.130
+\doisup 10.24397/pangloss-0004342#S130
 
 \lx mv̩˧-mv̩˥-di˩
 \sf <nb="B"> 530b
@@ -37264,18 +37295,19 @@
 \sf <nb="B"> 1b
 \sf <nb="2011"> 2
 \or muwo
+\ets mv̩˥1
+\ets -ʁo
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (confirmé) (première notation, 2006: /mv̩˧o˥/)
-\nt <dom="sem" langue="fra"> “là-haut au ciel"; formé de “ciel"+"tête"
+\nt <type="hist" print="n" langue="fra"> (confirmé) Première notation, 2006: ‡/mv̩˧o˥/.
 \ton H$
 \lc mv̩˧ʁo˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mv̩˧ʁo#˥
-\vf <print="n"> Notes anciennes: "mv̩˧ʁu˧, ton d2a (mv̩˧ʁu˧ ɲi˥); réalisation en forme de citation différente de celle de F4: MM, non MH".
+\vf <print="n"> Ton différent de chez F4, F5 et M18.
 \pdv ɭɯ˧β
 \de Heavens, sky.
 \ge heavens/sky
@@ -37283,7 +37315,6 @@
 \gn 天空
 \df Le ciel, les cieux.
 \gf ciel
-\dt 04/Sep/2015
 
 \lx mv̩˩ʁwɤ˧
 \sf <nb="B"> 40c
@@ -38106,16 +38137,15 @@
 \lc mv̩˩zo˩ə˩mi˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> variante tonale: mv̩˩zo˩-ə˥mi˩
 \ton L+H#
 \so F4
+\va <speaker="F4"> mv̩˩zo˩-ə˥mi˩
 \de A young lady and her mother.
 \ge young_lady_and_her_mother
 \dn 姑娘与母亲
 \gn 姑娘与母亲
 \df (une) jeune fille et (sa) mère.
 \gf jeune_fille_et_sa_mère
-\dt 25/Apr/2017
 
 \lx mv̩˩zɯ˩
 \sf <nb="2011"> 382
@@ -38126,7 +38156,9 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" dom="phono" langue="fra"> (homophone avec “avoine")
-\nt <dom="sem" langue="fra"> Terme désormais archaïque; du fait de l'homophonie avec “avoine", on ne l'emploie pas seul: on ne peut dire: ‡ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥ ‘c'est le frère de nɑ˧dʑi˧'.
+\nt <dom="sem" langue="fra"> Ce terme est archaïque. L'homophonie avec “avoine" a peut-être joué un rôle dans le processus par lequel il est sorti de l'usage courant. Dans l'état actuel de la langue, on ne peut l'employer seul, comme l'illustrent les deux phrases mal formées fournies parmi les exemples: ainsi, on ne peut dire ‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥} ‘c'est le frère de Najjie'.
+\nt <dom="sem" langue="eng"> This term is archaic. Homophony with ‘oats’ may have played a part in the process by which it fell out of common usage. In the current state of the language, it cannot be used on its own, as illustrated by the two ill-formed sentences provided among the examples: thus, one cannot say ‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥} ‘this is Najjie's brother’.
+\nt <dom="sem" langue="cmn"> 这个词已经成为古词了。该词与‘燕麦’同音，这可能是它逐渐被淘汰的原因之一。在目前的语言状况下，该词不能单独使用，例句中提供的两个病句就说明了这一点：如，不能说‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥}‘他是娜金的弟弟／哥哥’。
 \ton L
 \so F4
 \pdv v̩˧
@@ -38134,12 +38166,13 @@
 \ge brothers
 \dn 兄弟（哥哥们与弟弟们）
 \gn 兄弟
+\ue archaic
 \df Frères (aînés ou cadets); terme employé par les sœurs.
 \gf frères
 \xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
-\xe He is |fv{nɑ˧dʑi˧}'s brother!
+\xe He is Najjie |fv{nɑ˧dʑi˧}'s brother!
 \xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
-\xf il est frère de |fv{nɑ˧dʑi˧}!
+\xf il est frère de Najjie |fv{nɑ˧dʑi˧}!
 \xv no˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ | ə˩-dʑo˩˥?
 \xe Do you have brothers?
 \xn 你有兄弟吗？
@@ -38148,6 +38181,10 @@
 \xe Ungrammatical sentence. Intended meaning: “Do you have brothers?”
 \xn 病句：不能这样问“你有兄弟吗？”
 \xf Énoncé incorrect. Sens visé: «Tu as des frères?»
+\xv ‡ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥.
+\xe Ungrammatical sentence. Intended meaning: “He is Najjie's brother”.
+\xn 病句：不能这样问“他是娜金的哥哥／弟弟”。
+\xf Énoncé incorrect. Sens visé: «C'est le frère de Najjie».
 
 \lx mv̩˩zɯ˩
 \sf <nb="B"> 1986
@@ -39039,7 +39076,6 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté sɯ˧tʰi˧˥, par erreur) (note 2006, erronée: “ɖɯ˧ nɑ˩, ton à vérifier")
-\nt <dom="sem" langue="fra"> CL des objets coupants (couteaux, haches), des chaises…; aussi, en naxi: des bouches (cf: nv̩˥ ɖɯ˧ʈʂu˩ 一张嘴)
 \ton Mα
 \so F4
 \va <speaker="M21"> ID.
@@ -40865,8 +40901,8 @@
 \so F4
 \de To glue (two objects together).
 \ge to_glue
-\dn 贴
-\gn 贴
+\dn 粘
+\gn 粘
 \df Coller (2 objets ensemble).
 \gf coller
 \xv le˧-njɤ˧-ze˥!
@@ -41181,14 +41217,16 @@
 
 \lx njɤ˧kv̩˩-njɤ˩tsʰɤ˩
 \or nyagu nyace
-\ec <langue="fra"> Les trois composantes sont identifiées comme: “œil", “pommette", et le |fg{cl} des feuilles et des fleurs
+\ec <langue="fra"> Les trois composantes sont identifiées comme: “œil", “pommette", et le |fg{clf} des feuilles et des fleurs
 \ps adj
 \cf njɤ˧kv̩˩
 \cf tsʰɤ˧˥α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> avant 2015, noté /‡…tsʰe˩/
-\nt <dom="phono" langue="fra"> On ne peut isoler une composante /†njɤ˧tsʰɤ˩/: cela ne s'emploie jamais seul.
+\nt <dom="phono" langue="fra"> Il ne s'est pas avéré possible d'isoler une composante /†|fv{njɤ˧tsʰɤ˩}/: celle-ci ne s'emploie jamais seule.
+\nt <dom="phono" langue="eng"> It has not proved feasible to extract a disyllabic component /†|fv{njɤ˧tsʰɤ˩}/ that could be used on its own. It is not attested outside this four-syllable expression.
+\nt <dom="phono" langue="cmn"> 双音节/†|fv{njɤ˧tsʰɤ˩}/不单独出现。
 \ton L#-
 \lc njɤ˧kv̩˩njɤ˩tsʰɤ˩
 \so F4
@@ -41202,11 +41240,10 @@
 \xe Wow! This young lady is really beautiful! Very pretty!
 \xn 啊呀，这个少女真美丽！很漂亮！
 \xf Eh bien, cette jeune fille est vraiment belle! Très jolie!
-\xv njɤ˧kv̩˩njɤ˩tsʰɤ˩ | ʐwæ˩˥
+\xv njɤ˧kv̩˩-njɤ˩tsʰɤ˩ | ʐwæ˩˥
 \xe extremely beautiful
 \xn 非常美
 \xf particulièrement belle
-\dt 25/Apr/2017
 
 \lx njɤ˧lɑ˥
 \sf <nb="2011"> 1411
@@ -41242,8 +41279,10 @@
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> avant 2011: noté njɤ˩ɬi˩gv̩˩, par erreur: 2e syll. d'abord notée ɬi, en précisant “tend à s'amollir en: li - le"; corrigé en 2011 en: /le/
-\nt <dom="phono" langue="fra"> phonétiquement: [njɤ˧le˧gv̩#˥]. The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /ɲi˥/, followed by the ACCOM-PLISHED, /lə-/ (whose phonetic realization [le˧] is regular given the /v/ vowel of the following syllable) and ‘to flow, to go by, to fly (time); to take place, to occur (event)’, /gv/. Under this plausible interpretation, the second syllable is to be analyzed as /lə/, not /le/.
+\nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡njɤ˩ɬi˩gv̩˩, par erreur: 2e syll. d'abord notée ‡ɬi, en précisant “tend à s'amollir en: li - le"; corrigé en 2011 en: /le/
+\nt <dom="phono" langue="fra"> La structure morphémique de ce mot est perçue par la co-autrice comme ‘la journée s'écoule/se déroule' : ‘jour', /|fv{ɲi˥}/, suivi de l'|fg{accompli} et du verbe ‘s'écouler, passer; avoir lieu'. Selon cette interprétation tout à fait plausible, le processus de lexicalisation, menant d'une expression comportant trois morphèmes à un élément lexical unique, est allé de pair avec un changement de voyelle dans la première syllabe, cédant à la pression phonétique vers une harmonie vocalique régressive (tendance clairement à l'œuvre dans la langue).
+\nt <dom="phono" langue="eng"> The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /|fv{ɲi˥}/, followed by the |fg{accomplished} and by ‘to flow, to go by; to take place, to occur (event)’. Under this plausible interpretation, the process of lexicalization of a multi-word expression (a three-morpheme expression) into one lexical item went together with a change in vowel in the first syllable, yielding to phonetic pressure towards regressive vowel harmony (a tendency clearly at play in the language).
+\nt <dom="phono" langue="cmn"> 标准发音合作者认为这个词的语素结构是‘日在流淌/流逝’：‘日’/|fv{ɲi˥}/后面加动词‘过、发生’（实施体）。根据这种解释，三个语素组成的‘白天’，在词汇化过程中发生过元音和谐，导致第一个音节元音的变化，屈服于元音和谐（这显然是摩梭话中的一种明显语音趋势）。
 \ton #H
 \lc njɤ˧le˧gv̩˧
 \cf mv̩˩si˧-njɤ˧˥
@@ -41435,11 +41474,14 @@
 
 \lx njɤ˧ʈʂɤ˥
 \or nyazhe
+\ets njɤ˧˥2
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> de: njɤ˧˥ ‘coller'; les graines de cette plante collent de façon très efficace sur les tissus/fourrures
-\nt Voir photographie de la plante: photo 1.jpg
+\ec <langue="fra"> De |fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.
+\ec <langue="eng"> From |fv{njɤ˧˥1} to glue', |fv{njɤ˧˥2} ‘sticky'. The seeds of this plant attach themselves very effectively to furs and fabrics.
+\ec <langue="cmn"> 这种植物的种子能非常有效地附着在毛皮和织物上。来自|fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.yyyyyy
+\nt <type="hist" print="n"> Voir photographie de la plante: photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
 \so F4
@@ -41449,7 +41491,6 @@
 \gn 鬼针草
 \df Sornet, herbe à aiguilles, |fi{Bidens pilosa L.}: plante de la famille des Asteraceae, dont les graines noires, fines et allongées, de 5 à 10 mm, s'accrochent aux vêtements et aux poils d'animaux par deux piquants fins, situés à l'une de leurs extrémités.
 \gf sornet
-\dt 09/Sep/2015
 
 \lx njɤ˩ʈʂv̩˧˥
 \sf <nb="2011"> 2770
@@ -42407,10 +42448,9 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /nv̩˩mi˩kʶɑ˩˥/, indiquant: “non aspiré")
-\nt <dom="sem" langue="fra"> fatigué ds son cœur; on utilise aussi un calque du naxi: /nv̩˩mi˩qɑ˩˧/
 \ton L
 \lc nv̩˩mi˩ʈʰi˩˥
+\sy nv̩˩mi˩-qɑ˩
 \so F4
 \de Weak, worn out.
 \ge worn_out
@@ -42418,7 +42458,26 @@
 \gn 没精神
 \df Découragé, nostalgique, mélancolique.
 \gf découragé
-\dt 24/Jul/2017
+
+\lx nv̩˩mi˩-qɑ˩
+\sf <nb="2011"> 1004
+\or numi gaq rrrr
+\ets nv̩˩mi˩
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\nt <type="hist" print="n" langue="fra"> Avant 2009: noté: ‡/nv̩˩mi˩kʶɑ˩˥/. Les uvulaires n'ayant pas encore été reconnues comme telles, le /q/ était noté /kʶ/, et le /qʰ/ était noté /kʰʶ/. Au sujet de ce mot, il avait été noté (de façon exacte): “non aspiré".
+\nt <type="hist" print="n" langue="fra"> xxxx à faire: extraire l'adjectif /qɑ/ de cette expression, déterminer son ton, et créer une entrée de dictionnaire. Y reporter le cognat naxi /kɑ˩/ (Pinson 2012: 130).
+\ton L
+\lc nv̩˩mi˩qɑ˩˥
+\sy nv̩˩mi˩-ʈʰi˩
+\so F4
+\de Weak, worn out.
+\ge worn_out
+\dn 累得没精神了
+\gn 没精神
+\df Découragé, nostalgique, mélancolique.
+\gf découragé
 
 \lx nv̩˩pi˧
 \or nubi
@@ -50295,7 +50354,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 454
 \sf <nb="2011"> 602
 \bw <langue="cmn"> 园子
-\or xxxxrd
+\or rrrr
 \ps n
 \lc jæ˩dzɯ˧
 \sy qʰwæ˧ɭɯ˧
@@ -69165,7 +69224,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to start a fire
 \xn 点火
 \xf allumer un feu
-\xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: avais transcrit /mv̩˧ tsʰi˧˥/, et relevé qu'il s'agissait d'un schéma tonal irrégulier. On attendrait /mv̩˧tsʰi˩/ “allumer le feu". Le schéma M.MH est celui attendu pour un nom au ton 2. Bref, “le mot “feu" se comporte ici comme un nom au ton 2". En juillet 2024: corrigé en /mv̩˧ tsʰi˩/, ce qui du même coup fait disparaître l'énigme du comportement tonal de ce mot, qui devient conforme aux règles tonales ordinaires.
+\xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: avais transcrit /mv̩˧ tsʰi˧˥/, et relevé qu'il s'agissait d'un schéma tonal irrégulier. On attendrait /mv̩˧tsʰi˩/ “allumer le feu". Le schéma M.MH est celui attendu pour un nom au ton 2. Bref, “le mot “feu" se comporte ici comme un nom au ton 2". En juillet 2024: corrigé en /mv̩˧ tsʰɯ˩/, ce qui du même coup fait disparaître l'énigme du comportement tonal de ce mot, qui devient conforme aux règles tonales ordinaires.
 \xv njɤ˧-ɳɯ˧ | mv̩˧ tsʰɯ˩-bi˩.
 \xe I am going to start a fire
 \xn 我要点个火
@@ -71885,7 +71944,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 27/Apr/2017
 
 \lx ʈʂɯ˩~ʈʂɯ˧˥
-\or zhizhi xxxxrd
+\or zhizhi rrrr
 \ps v
 \lc ʈʂɯ˩ʈʂɯ˧˥
 \cf ʈʂɯ˧˥
@@ -80083,14 +80142,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009: indiqué comme ton 4, par erreur) (tso˧~tso˧ʐwæ˩: 2006: noté ˧˧˧, par erreur) (ʁu˧do˧ʐwæ˧ “peser des noix": vérifié en 2009: est bien ˧ ˧ ˧)
+\nt <type="hist" print="n" langue="fra"> (avant 2009: indiqué comme ton 4, par erreur)
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; en 2006, avais noté ˧ ˧ ˧ ˩) (en 2006, avais noté ʐwæ˩˥ comme forme de citation)
 \ton Mα
 \lc ʐwæ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vf <print="n"> ton 4; tɕi˩˥ ʐwæ˥ “peser à la balance"; confirmé par F4 en 2009, cf enrt 28 mars 09; reporter ds tableau noms+verbes; attendu: ˧ ˧ ˧˥; peser des pommes: pʰi˩ku˧ ʐwæ˧ (confirmé, n'est pas pʰi˩kwɤ˧)
+\vf <print="n"> ton 4; tɕi˩˥ ʐwæ˥ “peser à la balance"; confirmé par F4 en 2009, cf enrt 28 mars 09; reporter dans le tableau noms+verbes; attendu: ˧ ˧ ˧˥; peser des pommes: pʰi˩ku˧ ʐwæ˧ (confirmé, n'est pas pʰi˩kwɤ˧)
 \de To weigh (with scales).
 \ge to_weigh
 \dn 称
@@ -80112,12 +80171,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 称东西
 \xf peser des choses
 \xc PHONO
+\xc <langue="fra" type="hist" print="n"> /tso˧~tso˧ ʐwæ˩/: en 2006, avais noté ‡˧ ˧ ˧.
 \xc <langue="fra" type="hist" print="n"> Même réalisation chez la locutrice F5.
 \xv ʁo˧do˧ ʐwæ˧
 \xe to weigh walnuts
 \xn 称核桃
 \xf peser des noix
 \xc PHONO
+\xc <type="hist" print="n" langue="fra"> /ʁu˧do˧ʐwæ˧/ “peser des noix": vérifié en 2009: est bien ˧ ˧ ˧.
 
 \lx ʐwæ˧~ʐwæ˧
 \sf <nb="B"> 1113
