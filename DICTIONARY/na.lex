@@ -170,7 +170,7 @@
 \so F4
 \de Kelp (literally “medicine against goitre", because kelp was introduced in Yongning as a means to provide iodine as a diet supplement, to prevent goitres).
 \ge kelp
-\dn 海带（直译：“治甲状腺肿瘤的药”）。迂说法：一般用海带来防治甲状腺肿瘤。
+\dn 海带（字面意思是“治甲状腺肿瘤的药”，因为永宁引进海带是为了预防甲状腺肿大）。
 \gn 海带
 \df Algue; littéralement «médicament contre le goître» car tel était le motif de la diffusion à Yongning de l'algue, qui contient de l'iode.
 \gf algue
@@ -405,11 +405,11 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \so F4
-\de Interjection: "Oh nooo! / Dear me!" This exclamation is intended to warn or discourage someone from doing something. Example of context: A tells B that he is going to buy a coat, and B thinks the coat doesn't suit him at all. B then says: ‘|fv{æ˧ʝi˧}, that coat doesn't suit you’. Another example: when a baby picks up something dirty (mud, for example) and puts it in his mouth, the adult will say ‘|fv{æ˧ʝi˧}, that's dirty’.
+\de Interjection: "Oh nooo! / Dear me!" This exclamation is intended to warn or discourage someone from doing something. Example of context: A tells B that she is going to buy a coat, and B thinks the coat doesn't suit her at all. B then says: ‘|fv{æ˧ʝi˧}, that coat doesn't suit you’. Another example: when a baby picks up something dirty (mud, for example) and puts it in his mouth, the adult will say ‘|fv{æ˧ʝi˧}, that's dirty’.
 \ge |fg{intj}.oh_no!
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
-\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'il va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple: lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
+\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'elle va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple: lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
 \gf |fg{intj}.ah_non!
 
 \lx æ̃˩-kʰv̩˧˥
@@ -23835,12 +23835,11 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\nt <dom="phono" langue="fra"> pʰi˧tsʰo˧, ami de M18 vivant à lo˧gv̩˩ (Ninglang), dit: jɤ˩sɑ˧, “parapluie des étrangers", sur le modèle de jɤ˩hu˧ “allumettes" et jɤ˩ju˧ “pommes de terre", dont la première syllabe vient du chinois 洋.
+\nt <dom="phono" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩ (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> *
-\vc <langue="fra" print="n"> Utilise un emprunt: jɤ˧sɑ˥.
+\va <speaker="M18"> jɤ˧sɑ˥
 \pdv nɑ˧α
 \de Umbrella.
 \ge 雨伞::umbrella
@@ -23848,7 +23847,6 @@
 \gn 雨伞
 \df Parapluie (emprunt).
 \gf 雨伞::parapluie
-\dt 02/Sep/2015
 
 \lx ʝi˧ʂæ˧tsʰɤ˩
 \or yishaece
@@ -23998,7 +23996,7 @@
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
-\bw <langue="bod"> Yid ches (?) Lha mo |tib{ཡིད་ཆེས(?)་ལྷ་མོ}
+\bw <langue="bod"> Yid ches (?) Lha mo |tib{ཡིད་ཆེས(?) ་ལྷ་མོ}
 \ets ʝi˧tɕi˧
 \ets ɬɑ˧mv̩˥$
 \ps n
@@ -24007,7 +24005,9 @@
 \nt <type="hist" print="n" langue="fra"> (n'est pas tɕɯ) (avant mai 2012: noté ‡ʝi˧ʈʂe˧-ɬɑ˩mv̩˩)
 \ton -L
 \lc ʝi˧tɕi˧ɬɑ˩mv̩˩
-\nt <dom="phono" langue="fra"> réalisé proche de: [ʝi˧tɕi˧-lɑ˩mv̩˩], avec une simple consonne latérale [l].
+\nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{ʝi˧tɕi˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ʝi˧tɕi˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{ʝi˧tɕi˧-lɑ˩mv̩˩}]。
 \so F4
 \de Yijie Lhamu, a feminine given name.
 \ge Yijie_Lhamu
@@ -24024,12 +24024,12 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> confirmé; avant 2009: noté: i˩ʈʂæ˧, ton d5b; citation: ˩ ˧ et non ˩ ˧˥; en cadre: est bien d5.
-\nt <type="hist" print="n" langue="fra"> (ton différent de celui de F4)
-\nt <dom="phono" langue="fra"> Réalisation phonétique parfois proche de HLRH (cf doc. Tons LD); qd je fournis la forme de citation erronée ˩ ˩˧, F4 ne corrige pas aussitôt; n'est pas une “grosse faute" par rapport à d'autres substitutions.
+\nt <dom="phono" langue="fra" print="n"> Réalisation phonétique parfois proche de HLRH (cf doc. Tons LD); qd je fournis la forme de citation erronée ˩ ˩˧, F4 ne corrige pas aussitôt; n'est pas une “grosse faute" par rapport à d'autres substitutions.
 \ton LM+MH#
 \lc ʝi˩ʈʂæ˧˥
 \so F4
 \va <speaker="F5">ʝi˩ʈʂæ˧
+\vc <dom="ton" print="n" langue="fra"> Ton différent de celui de F4.
 \va <speaker="M18"> ʝi˩ɖʐæ˩˥
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -24039,7 +24039,6 @@
 \gn 腰
 \df Taille.
 \gf taille
-\dt 02/Sep/2015
 
 \lx ʝi˧ʈʂʰe˥-mi˩
 \sf <nb="B"> 697
@@ -26047,7 +26046,9 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale vélaire et non uvulaire
-\nt <dom="sem" langue="fra"> la forme disyllabique n'est généralement pas employée: on doit utiliser la forme trisyllabique ko˧ɖæ˧-zo˧
+\nt <dom="sem" langue="fra"> La forme disyllabique est peu employée: on utilise la forme trisyllabique |fv{ko˧ɖæ˧-zo˧}.
+\nt <dom="sem" langue="eng"> The disyllabic form is seldom used: the form in common use is trisyllabic |fv{ko˧ɖæ˧-zo˧}.
+\nt <dom="sem" langue="cmn"> 双音节形式很少使用：使用的是三音节形式|fv{ko˧ɖæ˧-zo˧}。
 \ton #H
 \lc ko˧ɖæ˧
 \so F4
@@ -26064,7 +26065,6 @@
 \xe small statue of Buddha
 \xn 小佛像
 \xf statuette du Bouddha
-\dt 03/Sep/2015
 
 \lx ko˩tsɯ˧
 \sf <nb="B"> 1808
@@ -39777,7 +39777,7 @@
 \nt <dom="sem" langue="fra"> Le mot désigne les rayons du soleil, tels qu'on les voit le matin à la faveur des brumes matinales, ou à la faveur de la fumée dans la pièce principale de la maison. Il n'est pas associé à une heure particulière de la journée: les rayons du soleil couchant sont désignés du même terme.
 \nt <dom="sem" langue="eng"> The word refers to the sun's rays, as visible in the morning mist or in the smoke of the fire in the main room of the house. It is not associated with a particular time of day: the rays of the setting sun are also referred to by the same term.
 \nt <dom="sem" langue="cmn"> 这个词指的是太阳的光芒，在晨雾中或房屋正厅的炊烟中能看到。它与一天中的某个特定时间无关：也能来指夕阳的余晖。
-\nt <dom="sem" langue="fra"> On ne peut dire: ‡/ɬi˧mi˧-kʰɯ˧ʂɯ˧/ “les rayons de la lune, les premiers rayons de la lune à son lever".
+\nt <dom="sem" langue="fra" print="n"> On ne peut dire: ‡/ɬi˧mi˧-kʰɯ˧ʂɯ˧/ “les rayons de la lune, les premiers rayons de la lune à son lever". Les rayons de la lumière réfléchie par la lune ne sont pas visibles à la faveur des brumes ou des fumées, à la différence des rayons du soleil.
 \ton M
 \lc ɲi˧mi˧kʰɯ˧ʂɯ˧
 \so F4
@@ -42612,7 +42612,6 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> vérifié en 2009. +ɲi˥ (n'est pas tɕʰɯ)
-\nt <dom="sem" langue="fra"> aussi: nv̩˩ɭɯ˧-tɕʰi˧
 \ton LM+#H
 \lc nv̩˩tɕʰi˥
 \sy nv̩˩ɭɯ˧-tɕʰi˧
@@ -43367,9 +43366,9 @@
 \xe Don't let (this opportunity) slip by! / (You/we) mustn't miss this opportunity!
 \xn 不要错过（机会）！
 \xf Il ne faut pas laisser passer/filer (une occasion/un moment propice)!
-\xc <dom="phono" langue="fra"> Une observation pertinente concernant la synchronie dynamique de la langue na est que cette expression, “ne pas laisser passer", semble en voie de figement. Cette expression paraît prendre le chemin de /[fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘vraiment, pour de vrai’ devenant quelque chose comme [|fv{ʈʰææ̃˧}]. La première syllabe est toujours réalisée avec une mélodie montante, alors qu'on s'attendrait à un schéma tonal M.H.L (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), avec déploiement du contour MH sur les deux premières syllabes (ton M sur la première syllabe, et réassociation du ton H à la deuxième syllabe). Or cette prononciation avec un simple ton M sur la première syllabe, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, est compréhensible mais non idiomatique.
+\xc <dom="phono" langue="fra"> Une observation pertinente concernant la synchronie dynamique de la langue na est que cette expression, “ne pas laisser passer", semble en voie de figement. Cette expression paraît prendre le chemin de /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘vraiment, pour de vrai’ devenant quelque chose comme [|fv{ʈʰææ̃˧}]. La première syllabe est toujours réalisée avec une mélodie montante, alors qu'on s'attendrait à un schéma tonal M.H.L (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), avec déploiement du contour MH sur les deux premières syllabes (ton M sur la première syllabe, et réassociation du ton H à la deuxième syllabe). Or cette prononciation avec un simple ton M sur la première syllabe, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, est compréhensible mais non idiomatique.
 \xc <dom="phono" langue="eng"> An observation that has relevance to the study of synchronic dynamics within the Na language is that this phrase, ‘not to let slip, not to miss out on’, seems to be in the process of becoming a set phrase with a pronunciation of its own, somewhat like the reduction of /[fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘really, actually’ to something resembling [|fv{ʈʰææ̃˧}]. The first syllable is always realized with a rising melody, whereas one would expect an M.H.L tonal pattern (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), with deployment of the MH contour over the first two syllables (M tone on the first syllable, and reassociation of the H tone on the second syllable). This pronunciation, with a simple M tone on the first syllable, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, is understandable but not idiomatic.
-\xc <dom="phono" langue="cmn"> ‘不放过，不错过’这个短语似乎正在成为一个有自己独特发音的固定词汇，类似于/[fv{ʈʰæ˧mi˧-ɳɯ˩}/‘真的，实际上’的实际发音简化，接近[|fv{ʈʰææ̃˧}]。按一般规则，声调模式应该是M.H.L（即/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/）：第一个音节承载M调，第二个音节承载H调。但事实上，第一个音节总是以上升的旋律实现的。/|fv{pæ˧tʰɑ˥-kʰɯ˩}/这种发音，勉强可以听懂，但不符合用语习惯。
+\xc <dom="phono" langue="cmn"> ‘不放过，不错过’这个短语似乎正在成为一个有自己独特发音的固定词汇，类似于/|fv{ʈʰæ˧mi˧-ɳɯ˩}/‘真的，实际上’的实际发音简化，接近[|fv{ʈʰææ̃˧}]。按一般规则，声调模式应该是M.H.L（即/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/）：第一个音节承载M调，第二个音节承载H调。但事实上，第一个音节总是以上升的旋律实现的。/|fv{pæ˧tʰɑ˥-kʰɯ˩}/这种发音，勉强可以听懂，但不符合用语习惯。
 \xv le˧-pæ˧-ze˥!
 \xe It's too late! / We have let the opportunity slip by!
 \xn 错过了！
@@ -45721,14 +45720,14 @@
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <dom="sem" langue="fra" type="hist" print="n"> La locutrice indique qu'il s'agit d'un mot chinois (=d'un emprunt au chinois). L'identification des caractères a été réalisée en 2024 par Daeshi (M18).
-\nt <dom="phono" langue="fra"> forte harmonie vocalique. Avant novembre 2011, avais noté: pɤ˩˧ʐv̩˧.
+\nt <dom="phono" langue="fra" print="n"> Forte harmonie vocalique.
 \ton LM-L
 \lc pɤ˩˧ʐv̩˩
 \so F4
 \va <speaker="F5"> pɑ˩˥ʐv̩˩
 \vc <langue="fra" print="n"> n'est pas ˩˥ ˧
 \va <speaker="M18"> pɑ˩˥ʐv̩˩
-\vc <langue="fra" print="n"> D'abord noté /pɑ˩˥ ʐv̩˩/, puis corrigé en ˩˥ ˧. Le 30 nov. 2006: M18 corrige à nouveau en ˩˥ ˩. Sens: étoffe matelassée servant de matelas.
+\vc <langue="fra" print="n" dom="ton"> D'abord noté /pɑ˩˥ ʐv̩˩/, puis corrigé en ˩˥ ˧. Le 30 nov. 2006: M18 corrige à nouveau en ˩˥ ˩. Sens: étoffe matelassée servant de matelas.
 \pdv tsʰi˥
 \de Mattress.
 \ge 被褥::mattress
@@ -46743,7 +46742,6 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> donne: pʰv̩˩tɕæ˩ɻæ˧gv̩˩ (notation 2007; avais d'abord noté ɻ̩˩˥); ex.: le visage est blanc: pʰæ˧qʰwɤ˩ pʰɻ̩˩tɕæ˩ɻæ˧gv̩˩ (tons vérifiés en 2009, n'est pas /pʰɻ̩˩tɕæ˩˧/, ni /gv̩˧/)
-\nt <dom="sem" langue="fra"> de: pʰɻ̩˩ ‘blanc'
 \ton L+H#
 \lc pʰɻ̩˩tɕæ˩ɻæ˥
 \so F4
@@ -51316,7 +51314,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="phono" langue="fra"> (ton lexical de base: ˩˧)
+\nt <type="hist" print="n" dom="phono" langue="fra"> Note ancienne: ``ton lexical de base: ˩˧".
 \ton MHα
 \lc ɖɯ˧ qʰwɤ˧˥
 \cf qʰwɤ˧˥1
@@ -54631,8 +54629,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé par F4; différent de la version de dd, qui est: /ze˩gi˧lv̩˥/, même sens); exemple 3: tons confirmés en 2011
 \nt <type="hist" print="n" langue="fra"> notes anciennes concernant F5: /ɖɯ˧ tɕju˥ mæ˧/ “dans cette direction-ci", /tʰi˧tɕju˥ mæ˧/ “dans cette direction-là"; /zo˩ ko˥ ɻ̩˩/ (tons confirmés) “dans quelle direction regarder?" La locutrice F5 accepte aussi la formulation de F4.
-\nt <dom="sem" langue="fra"> Ce mot est très vraisemblablement de la même famille que /ɻ̩˩/ `côté', comme dans |fv{ʐv̩˧-ɻ̩˥} ‘les quatre directions, les quatre côtés'.
-\nt <dom="sem" langue="eng"> This word is very probably of the same family as /ɻ̩˩/ `side', as in |fv{ʐv̩˧-ɻ̩˥} ‘four directions, four sides'.
+\nt <dom="sem" langue="fra"> Ce mot est très vraisemblablement de la même famille que /|fv{ɻ̩˩}/ `côté', comme dans |fv{ʐv̩˧-ɻ̩˥} ‘les quatre directions, les quatre côtés'.
+\nt <dom="sem" langue="eng"> This word is very probably of the same family as /|fv{ɻ̩˩}/ `side', as in |fv{ʐv̩˧-ɻ̩˥} ‘four directions, four sides'.
 \ton Lβ
 \lc ɻ̩˩˥
 \cf ɻ̩˩
@@ -54671,7 +54669,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe You turn in all directions; what are you looking for/at? / What are you looking for in all directions?
 \xn 你左转右转，（到底）在看什么？
 \xf Qu’as-tu à regarder de toutes parts? / Tu regardes de toutes parts, que cherches-tu?
-\dt 22/Jun/2017
 
 \lx ɻ̩˧bɤ˧
 \or erbbe
@@ -60497,7 +60494,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 重叠
 \xf |fg{red}
 \xc PHONO
-\xc le˧-ʂwæ˥~ʂwæ˩
+\xv le˧-ʂwæ˥~ʂwæ˩
 \xe |fg{accomp} 〜 |fg{red}
 \xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
@@ -61144,7 +61141,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> À partir de décembre 2011, la notation de la forme réduite est uniformisée en: [|fv{ʈʰææ̃˧}]. L'application aux textes se fait manuellement au cas par cas.
 \nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
-\nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /[fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}]. C'est cette dernière forme qui est actuellement utilisée (depuis 2011) en vue d'uniformiser une notation de la forme réduite.
+\nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}]. C'est cette dernière forme qui est actuellement utilisée (depuis 2011) en vue d'uniformiser une notation de la forme réduite.
 \nt <dom="phono" langue="eng"> This expression typically undergoes drastic phonetic reduction, to the point where a notation using the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ looks like a mannerism. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}]. It is the latter form that is currently used (since 2011) with a view to standardizing a notation for the reduced form.
 \nt <dom="phono" langue="cmn"> 这个词通常大大简化，以至于使用完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/来转写似乎不合适了。简化发音接近 [|fv{ʈʰæː˧}]（没有明显的鼻音）或 [|fv{ʈʰæ̃˧}]。目前（自 2011 年起）使用的是后一种写法，目的是将缩略形式的转写标准化。
 \ton L#
@@ -67777,7 +67774,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> (d'abord noté ʈʂæ˥wɤ˧): un sous-groupe de 350b (les serfs): serviteurs attachés à des mandarins/personnages de haut rang; en principe sont de statut social bas, mais peuvent avoir un pouvoir de fait
+\nt <type="hist" print="n" dom="phono" langue="fra"> D'abord noté ‡ʈʂæ˥wɤ˧.
 \ton L#
 \lc ʈʂæ˧wɤ˩
 \cf wɤ˧1
@@ -72473,7 +72470,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰɯ˧ɻ̩˧ɬɑ˩mv̩˩
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
-\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}]：/|fv{ɻ̩}/简化为[|fv{l}]。
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰɯ˧ɻ̩˧-lɑ˩mv̩˩}]：/|fv{ɬ}/简化为[|fv{l}]。
 \so F4
 \de Ci'er Lhamu, a feminine given name.
 \ge Ci'er_Lhamu
@@ -72493,7 +72490,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsʰe˧li˧-ɬɑ˩mv̩˩
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
-\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰe˧li˧-lɑ˩mv̩˩}]：/|fv{ɻ̩}/简化为[|fv{l}]。
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰe˧li˧-lɑ˩mv̩˩}]：/|fv{ɬ}/简化为[|fv{l}]。
 \so F4
 \de Ceili Lhamu, a feminine given name.
 \ge Ceili_Lhamu
@@ -75606,7 +75603,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc v̩˧lɑ˩ʝi˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> v̩˧lɑ˩+i˩ “faire du commerce" (i˧: faire) (mot concurrencé par un emprunt chinois)
+\nt <dom="phono" langue="fra" print="n"> v̩˧lɑ˩+i˩ “faire du commerce" (i˧: faire) (mot concurrencé par un emprunt chinois)
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -77944,7 +77941,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d'abord noté zo˥bæ˩)
-\nt <dom="sem" langue="fra"> La forme /zo˧bæ˩/ a en partie perdu son caractère masculin. F4 dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “Ama est bien bête!" et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ “(non, tu n'es) pas idiote!", où le disyllabe est traité comme un bloc.
+\nt <dom="sem" langue="fra"> La forme /|fv{zo˧bæ˩}/ a en partie perdu son caractère masculin. F4 dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “je suis bien bête!" (littéralement: “Ama est bien bête!") et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ “(non, tu n'es) pas idiote!", où le disyllabe est traité comme un bloc.
 \ton L#
 \lc zo˧bæ˩
 \so F4
@@ -78974,7 +78971,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" dom="sem" langue="fra"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
+\nt <type="hist" print="n" dom="sem" langue="fra"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
 \ton #H
 \lc zɯ˧-qʰɑ˧mi˧
 \so F4
