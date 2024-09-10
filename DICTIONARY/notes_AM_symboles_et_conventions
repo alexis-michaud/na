@@ -53,4 +53,6 @@ recherche balises sans attribut langue :
 vc\s*<((?:(?!langue=)[^>])+)>
 nt\s*<((?:(?!langue=)[^>])+)>
 etc.
+Absence d'attribut locuteur :
 va <((?:(?!speaker=)[^>])+)>
+va <((?!speaker=)[^>])+>
