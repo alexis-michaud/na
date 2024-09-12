@@ -30292,8 +30292,8 @@
 \so F4
 \de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) and co-author for this volume (speaker code: F4).
 \ge Latami_Daeshi_Lhamu
-\dn 拉他咪·达石拉么：本著作的标准发音合作人
-\gn 拉他咪·达石拉么
+\dn 拉他咪达石拉么：本著作的标准发音合作人
+\gn 拉他咪达石拉么
 \df Latami Daeshi Lhamu: le nom propre (nom de famille et prénom) de la consultante de référence, co-autrice du présent travail (code locutrice: F4).
 \gf Latami_Daeshi_Lhamu
 \dt 24/Apr/2017
@@ -42532,7 +42532,7 @@
 
 \lx nv̩˩mi˩-qɑ˩
 \sf <nb="2011"> 1004
-\or numi gaq rrrr
+\or numi ghaq
 \ets nv̩˩mi˩
 \ps adj
 \sd <langue="fra"> adjectif
@@ -50423,7 +50423,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 454
 \sf <nb="2011"> 602
 \bw <langue="cmn"> 园子
-\or rrrr
+\or yuaezi
 \ps n
 \lc jæ˩dzɯ˧
 \sy qʰwæ˧ɭɯ˧
@@ -58366,7 +58366,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
 
 \lx so˧jɤ˩
-\or soye rrrr
+\or soye
 \ps n
 \ton L#
 \lc so˧jɤ˩
@@ -68028,7 +68028,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʈʂʰe˧β
 \sf <nb="B"> 1486
 \sf <nb="2011"> 2178
-\or zhei
+\or chei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68066,7 +68066,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 08/Oct/2015
 
 \lx ʈʂʰe˧~ʈʂʰe˩
-\or zheizhei
+\or cheichei
 \ps adv
 \sd <langue="fra"> syntaxe
 \sd <langue="eng"> syntax
@@ -69137,7 +69137,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 08/Oct/2015
 
 \lx ʈʂʰe˧~ʈʂʰe˧
-\or zheizhei
+\or cheichei
 \ets ʈʂʰe˧β
 \ec <langue="eng">Probably from the verb ‘to stretch'
 \ps clf
@@ -72012,7 +72012,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \dt 27/Apr/2017
 
 \lx ʈʂɯ˩~ʈʂɯ˧˥
-\or zhizhi rrrr
+\or zhizhi
 \ps v
 \lc ʈʂɯ˩ʈʂɯ˧˥
 \cf ʈʂɯ˧˥
