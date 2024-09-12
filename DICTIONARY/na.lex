@@ -20341,7 +20341,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <dom="sem" langue="fra"> 12e village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu.
-\nt <dom="phono" langue="fra"> … ɲi˩
+\nt <dom="ton" type="hist" print="n"> … ɲi˩
 \ton L-M
 \lc hi˩ʁwɤ˩lo˥
 \so F4
@@ -20359,6 +20359,7 @@
 
 \lx hi˧tʰɑ˩
 \sf <nb="2011"> 1414
+\ec <langue="fra"> L'analyse morphémique de ce mot (étymologie interne) ne va pas de soi. La première syllabe serait-elle liée à |fv{hi˥} ‘dent’? à |fv{†hi˧} ‘rapide’ (polysémie qui serait parallèle à celle du chinois |fn{快} ‘rapide’, qui signifie également ‘affûté’)?
 \or xieta
 \ps adj
 \sd <langue="fra"> adjectif
@@ -20375,7 +20376,6 @@
 \gn 锋利
 \df Aiguisé, qui coupe bien, affûté.
 \gf affûté
-\dt 02/Sep/2015
 
 \lx hĩ˧-tɕʰɯ#˥
 \or hinqi
@@ -22303,7 +22303,6 @@
 \lc hwɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (négation: mɤ˧-hwɤ˥) ; donne: hĩ˧hwɤ˥
 \ton H
 \so F4
 \de To participate in a funeral ceremony (literally ‘to see [the deceased] out').
@@ -22312,7 +22311,16 @@
 \gn 执绋送丧
 \df Participer à une cérémonie funèbre; littéralement «envoyer quelqu'un», c'est-à-dire accompagner quelqu'un vers l'au-delà.
 \gf participer_à_une_cérémonie_funèbre
-\dt 14/Jul/2017
+\xv mɤ˧-hwɤ˥
+\xe |fg{neg} 〜
+\xn 否定 〜
+\xf |fg{neg} 〜
+\xc PHONO
+\xv hĩ˧ hwɤ˥
+\xe To participate in a funeral ceremony (literally ‘to see someone out').
+\xn 执绋送丧。直译：‘送人’。
+\xf Participer à une cérémonie funèbre (littéralement «envoyer quelqu'un», c'est-à-dire accompagner quelqu'un vers l'au-delà).
+\xc PHONO
 
 \lx hwɤ˥
 \sf <nb="2011"> 1016
@@ -23451,9 +23459,11 @@
 \or yi
 \ps n
 \lc ʝi˧
+\cf ʝi˧kʰv̩˥
+\cf ʝi˧kʰwɤ˥$
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> sans doute mot ancien; perçu par F4 comme le même mot que dans ʝi˧-kʰv̩˥ ‘certains'; n'est pas perçu comme un emprunt chinois. Mot marginal.
+\nt <dom="sem" langue="fra"> Le mot est étiqueté comme archaïque, sans qu'il y ait véritablement d'arguments décisifs allant dans ce sens, seulement des indices. Un premier indice est qu'il apparaît dans des expressions figées et non modifiables, telles que |fv{ʝi˧-kʰv̩˥} ‘certains'. Un second indice est sa rareté et la difficulté (quasi-impossibilité) de former de nouvelles expressions en l'employant. En tout état de cause, il paraît clair qu'il ne s'agit pas d'un emprunt chinois récent, comme pourrait y faire penser la proximité fortuite avec le numéral ‘un' du chinois (|fn{一}).
 \ton M
 \so F4
 \de One (restricted use: only in association with |fv{ɭɯ˧}).
@@ -23462,6 +23472,7 @@
 \gn 一
 \df Un (numéral, à emploi restreint; ne se combine qu'avec le classificateur |fv{ɭɯ˧}).
 \gf un
+\ue archaic
 \xv zo˧mv̩˥ | ʝi˧-ɭɯ˧ ʂv̩˧
 \xe to take care of a child
 \xn 管一个孩子
@@ -23518,6 +23529,7 @@
 
 \lx ʝi˧kʰv̩˥
 \or yiko
+\ets ʝi˧2
 \ps pro
 \lc ʝi˧kʰv̩˥
 \sd <langue="fra"> morphosyntaxe
@@ -23535,10 +23547,11 @@
 \xe some people, part of the people
 \xn 一些人
 \xf certaines personnes, une partie des gens
-\dt 24/Apr/2017
 
 \lx ʝi˧kʰwɤ˥$
 \or yikua
+\ets ʝi˧2
+\ets kʰwɤ˥α
 \ps pro
 \lc ʝi˧kʰwɤ˥
 \sd <langue="fra"> morphosyntaxe
@@ -24570,10 +24583,10 @@
 \cf jɤ˧qʰɑ#˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="phono" langue="fra"> (ts dit: jɤ˧gɤ˧)
 \ton L#
 \lc jɤ˧gɯ˩
 \so F4
+\va <speaker="M18"> jɤ˧gɤ˧
 \pdv kɤ˧˥
 \de Buckwheat, |fi{Fagopyrum esculentum}.
 \ge buckwheat
@@ -24581,7 +24594,6 @@
 \gn 甜荞
 \df Sarrasin, blé noir, |fi{Fagopyrum esculentum}.
 \gf sarrasin
-\dt 02/Sep/2015
 
 \lx jo˧gv̩˧
 \sf <nb="B"> 2230a
@@ -24987,12 +24999,13 @@
 \lx jɤ˧qʰɑ#˥
 \sf <nb="2011"> 3018
 \or yekha
+\ets qʰɑ˥
 \ps n
 \cf jɤ˧gɯ˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /jɤ˧kʶɑ˧/; noté jɑ˧kʶɑ˧ en 2007, sans doute par calque de F5)
-\nt <dom="sem" langue="fra"> /qʰɑ˧/ a le sens de: ‘amer'.
+\nt <dom="sem" langue="fra" type="hist" print="n"> La locutrice confirme que /qʰɑ˧/ a ici le sens de: ‘amer'.
 \ton #H
 \lc jɤ˧qʰɑ˧
 \so F4
@@ -25003,7 +25016,6 @@
 \gn 苦荞
 \df Sarrasin amer, |fi{Fagopyrum tataricum Gaertn}.
 \gf sarrasin_amer
-\dt 02/Sep/2015
 
 \lx jo˩ʂwæ˩
 \sf <nb="B"> 1890b
@@ -40652,7 +40664,7 @@
 \xf se détourner de quelqu'un, détourner la tête face à quelqu'un (que l'on méprise, déteste…)
 \xv mɤ˧-njæ˥qv̩˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}: ne pas détourner le regard (face à quelqu'un)
 \xc PHONO
 \dt 21/Jun/2017
@@ -52043,7 +52055,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc <langue="fra" type="sem"> Contexte imaginé: quelqu'un s'adresse à un moine.
 \xv mɤ˧-ʁɑ˥-ʂe˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}: ne pas faire appel à
 
 \lx ʁæ˧tɑ˩
@@ -53674,7 +53686,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf bénir/protéger
 \xv mɤ˧-ʁo˥ʐv̩˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
 \xv gɤ˧lɑ˧ | ɖɯ˧-ʁo˥ʐv̩˩-ɻ̩˩!
@@ -54513,7 +54525,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv mɤ˧-ɻ̩̃˥
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
 \xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
@@ -54646,7 +54658,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf se_tourner_vers
 \xv mɤ˧-ɻ̩˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
 \xv ɖɯ˧-ɻ̩˧~ɻ̩˩
@@ -68056,14 +68068,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 向下伸展
 \xf étendre vers le bas
 \xv lo˩qʰwɤ˧ | ɑ˩pʰo˩ ʈʂʰe˩˥
-\xe to strech one's hand outside (e.g. out the window)
+\xe to stretch one's arm outside (e.g. out the window)
 \xn 手伸到外边
-\xf étendre la main à l'extérieur (par une fenêtre)
+\xf étendre le bras à l'extérieur (par une fenêtre)
 \xv tso˧~tso˧ ʈʂʰe˧
 \xe to extend something, to stick out something (e.g. to extend a cane out the window of a car)
 \xn 伸出一个东西，如：从车窗里伸出一个棍子
 \xf étendre quelque chose: par exemple, faire sortir un bâton par une fenêtre
-\dt 08/Oct/2015
 
 \lx ʈʂʰe˧~ʈʂʰe˩
 \or cheichei
@@ -73244,7 +73255,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf teindre
 \xv mɤ˧-ʈʂʰv̩˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
@@ -75185,7 +75196,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf lancer
 \xv mɤ˧-ʈv̩˩
 \xe |fg{neg}
-\xn |fg{neg}
+\xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
 \xv lv̩˧mi˧ ʈv̩˩
