@@ -43373,9 +43373,9 @@
 \xe To cultivate land, to work a field.
 \xn 种地
 \xf Cultiver un champ.
-\xc <langue="fra"> Équivalent en langue na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘faire les semailles’.
-\xc <langue="eng"> Equivalent in Na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘sowing the seeds’.
-\xc <langue="cmn"> 对应的摩梭话：|fv{bæ˩dʑɯ˥ tv̩˩}。
+\xc <langue="fra" dom="usage"> Équivalent en langue na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘faire les semailles’.
+\xc <langue="eng" dom="usage"> Equivalent in Na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘sowing the seeds’.
+\xc <langue="cmn" dom="usage"> 对应的摩梭话：|fv{bæ˩dʑɯ˥ tv̩˩}。
 
 \lx pæ˧˥
 \hm 2
@@ -43539,9 +43539,9 @@
 \xe one silver coin, two silver coins, three silver coins
 \xn 一块银币，两块银币，三块银币
 \xf une pièce d'argent; deux pièces d'argent; trois pièces d'argent
-\xc <langue="fra"> Un changement tonal signe l'intégration du nom et de l'expression numéral+classificateur en un seul groupe tonal. Le ton de l'expression obtenue est H#: /|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/.
-\xc <langue="eng"> A tonal change signals the integration of the noun and the numeral+classifier expression into a single tone group. The tone of the resulting expression is H#: /|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/.
-\xc <langue="cmn"> 声调变化标志着名词和数字+量词整合为一个声调组。由此产生的短语的声调是H#：/|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/。
+\xc <langue="fra" dom="ton"> Un changement tonal signe l'intégration du nom et de l'expression numéral+classificateur en un seul groupe tonal. Le ton de l'expression obtenue est H#: /|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/.
+\xc <langue="eng" dom="ton"> A tonal change signals the integration of the noun and the numeral+classifier expression into a single tone group. The tone of the resulting expression is H#: /|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/.
+\xc <langue="cmn" dom="ton"> 声调变化标志着名词和数字+量词整合为一个声调组。由此产生的短语的声调是H#：/|fv{pʰæ˧kʰwɤ˧ so˧-ɭɯ˥ ɲi˩}/。
 \xv pæ˧kʰwɤ˧ ɖɯ˧-ki˩tɑ˩
 \xe a bag of silver coins (to be interred in a secret place)
 \xn 一包银币（埋在地里，为了藏）
@@ -46156,7 +46156,9 @@
 \xe to draw (a weapon), to take out of its sheath
 \xn 拉出（剑……）
 \xf dégainer, sortir une arme de son fourreau
-\xc <langue="fra"> Le disyllabe provient probablement d'un directionnel /|fv{gɤ˩-}/ passé à /|fv{gæ˩-}/ par harmonie vocalique régressive; mais en synchronie, la forme usuelle est disyllabique: /|fv{gæ˩-pɻ̩˧˥}/; le monosyllabe n'est pas employé seul.
+\xc <langue="fra" dom="ety"> Le disyllabe provient probablement d'un directionnel /|fv{gɤ˩-}/ passé à /|fv{gæ˩-}/ par harmonie vocalique régressive. Mais en synchronie, la forme usuelle est disyllabique: /|fv{gæ˩-pɻ̩˧˥}/. Le monosyllabe n'est pas employé seul.
+\xc <langue="eng" dom="ety"> The disyllable probably originates in a directional /|fv{gɤ˩-}/ changed to /|fv{gæ˩-}/ by regressive vowel harmony. But in synchrony, the usual form is disyllabic: /|fv{gæ˩-pɻ̩˧˥}/. The monosyllable is not used on its own.
+\xc <langue="cmn" dom="ety"> 双音节/|fv{gæ˩-pɻ̩˧˥}/可能来自一个方向前缀/|fv{gɤ˩-}/，通过元音和谐变为/|fv{gæ˩-}/。但在共时上，基本上只用双音节的/|fv{gæ˩-pɻ̩˧˥}/。单音节词不单独使用。
 \xv ʁæ˧mi˧ | gæ˩-pɻ̩˧˥
 \xe to draw a sword
 \xn 拉出剑
@@ -52549,8 +52551,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe ‡the beginning of the day
 \xn ‡天初
 \xf ‡le début de la journée
-\xc <langue="fra"> Combinaison élicitée pour voir avec quels mots ‘début' peut se combiner. Résultat: on ne peut dire ‘début de journée' de cette façon.
-\dt 01/Oct/2015
+\xc <langue="fra" dom="morpho"> Combinaison élicitée pour voir avec quels mots ‘début' peut se combiner. Résultat: on ne peut dire ‘début de journée' de cette façon.
 
 \lx ʁo˩β
 \or woq
@@ -54104,7 +54105,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf 电脑::ordinateur
 \xv ooo! tjɤ˧no˥-qo˩ | dʑɯ˧ | hɯ˧-ze˧!
 \xe Ouch, ouch, ouch: water has got into the computer! (Laptops are transported to various places, which increases the risk of an accident: spilt drink, exposure to the rain…)
-\xc 哎哟、哎哟、哎哟：电脑进水了！(笔记本电脑被运到不同的地方，这增加了发生事故的风险：饮料打翻、淋雨……）
+\xn 哎哟、哎哟、哎哟：电脑进水了！(笔记本电脑被运到不同的地方，这增加了发生事故的风险：饮料打翻、淋雨……）
 \xf Aïe, aïe, aïe: de l'eau s'est introduite dans l'ordinateur! (Les ordinateurs portables sont transportés à diverses endroits, ce qui augmente le risque d'accident: boisson renversée, exposition à la pluie…)
 
 \lx ʁwæ˧tsɯ˥
@@ -54696,9 +54697,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Turn this way! / Turn towards this direction!
 \xn 你往这里转/往这里看！
 \xf Tourne-toi par ici! / Regarde par ici!
-\xc <langue="fra"> version corrigée par F4 d'un exemple fourni par M18: /|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/
-\xc <langue="eng"> This example is F4's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/.
-\xc <langue="cmn"> 这个例子是F4对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕu˧ lv̩˧ɻ̩˩}/的重新表述。
+\xc <langue="fra" dom="dialect"> version corrigée par F4 d'un exemple fourni par M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/
+\xc <langue="eng" dom="dialect"> This example is F4's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
+\xc <langue="cmn" dom="dialect"> 这个例子是F4对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/的重新表述。
 \xv gɤ˩-ɻ̩˥ mv̩˩-ɻ̩˩, | ə˧tso˧ li˧?
 \xe You turn in all directions; what are you looking for/at? / What are you looking for in all directions?
 \xn 你左转右转，（到底）在看什么？
@@ -56653,14 +56654,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe [(S)he] looks for complications / creates unnecessary complications! (Literally: ‘to look for work when there isn't any'.)
 \xn 没事找事！
 \xf [Il/elle] se crée des complications / se donner du travail!
-\xc <langue="fra"> L'expression peut être péjorative, pour décrire quelqu'un qui ne sait pas tenir en place, ou au contraire laudative (par antiphrase), lorsque quelqu'un prend de sa propre initiative la responsabilité de certaines tâches, et les mène à bien sans qu'on ait besoin d'être sur son dos.
-\xc <langue="eng"> The phrase is pejorative, but can be used approvingly, by antiphrasis, when someone is being active and diligent, taking up tasks and getting them done before anyone needs to ask them to.
-\xc <langue="cmn"> 这是贬义说法，形容一个人没事找事但有时也用来表扬乐于助人的热心人。
+\xc <langue="fra" dom="sem"> L'expression peut être péjorative, pour décrire quelqu'un qui ne sait pas tenir en place, ou au contraire laudative (par antiphrase), lorsque quelqu'un prend de sa propre initiative la responsabilité de certaines tâches, et les mène à bien sans qu'on ait besoin d'être sur son dos.
+\xc <langue="eng" dom="sem"> The phrase is pejorative, but can be used approvingly, by antiphrasis, when someone is being active and diligent, taking up tasks and getting them done before anyone needs to ask them to.
+\xc <langue="cmn" dom="sem"> 这是贬义说法，形容一个人没事找事但有时也用来表扬乐于助人的热心人。
 \xv le˧-ʂe˧ tʰi˧-tɕɯ˥
 \xe to prepare (e.g. ingredients for a recipe, luggage for travel), to get (something) ready
 \xn 准备（做饭的材料、旅途用品……）
 \xf préparer (des ingrédients pour une recette, ses bagages…)
-\dt 05/Oct/2015
 
 \lx si˩˥
 \sf <nb="B"> 221
@@ -59511,7 +59511,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂɯ˩tsɯ˥
 \so F4
 \va <speaker="M21"> ID.
-\vf
 \pdv nɑ˧α
 \de Pistol. Borrowed from the Chinese word for 'cross' |fn{十字}, as pistols are 'cross-shaped guns': |fn{十字架手枪}
 \ge 十字::pistol
@@ -77200,9 +77199,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to demolish a house
 \xn 拆房子
 \xf démolir une demeure
-\xc <langue="fra"> expression non proverbiale; proposée par l'enquêteur et acceptée par F4; illustre le fait que la combinaison tonale observée dans l'expression figée se retrouve telle quelle dans une expression synchroniquement acceptable/répondant aux règles synchroniques de combinaison entre verbe et nom, et confirmant ainsi l'analyse du ton lexical de la racine monosyllabique comme LM ou LH
-\xc <langue="eng"> example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was accepted by speaker F4
-\xc <langue="cmn"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
+\xc <langue="fra" dom="ton"> Cette expression, construite par l'enquêteur, est acceptée par la locutrice F4. Elle illustre le fait que la combinaison tonale observée dans l'expression figée «bâtir une demeure» se retrouve telle quelle dans une autre expression, certes inusitée, mais synchroniquement acceptable (répondant aux règles synchroniques de combinaison entre verbe et nom). Cette observation conforte l'analyse du ton lexical de la racine monosyllabique comme LM ou LH.
+\xc <langue="eng" dom="ton"> This expression, coined by the investigator, is accepted by speaker F4. It illustrates the fact that the tonal combination observed in the phrase ‘to build a house’ is also found in another phrase that has ‘house’ as its object. The phrase is admittedly unusual, but since it is synchronically acceptable, it counts as additional evidence in favour of the analysis of the lexical tone of the monosyllabic root as either LM or LH.
+\xc <langue="cmn" dom="ton"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
 \xv ʈʂʰɯ˧-ʑi˧˥
 \xe this family
 \xn 这家
