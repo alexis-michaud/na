@@ -1433,7 +1433,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> “corrigé en avril 2014: auparavant noté /†æ̃˧ʈwɤ˩/. Phonétiquement, cette notation est correcte: la 1e syllabe est souvent nasalisée. Mais comme la nasalité n'est pas contrastive, le choix est de ne pas la noter, pour aucune des syllabes /æ/." Vérifié en août 2014: n'est pas nasalisé. Rétabli en 2018 au vu de l'entrée /æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩/.
-\mc <langue="fra"> L'étymologie n'est pas encore établie. Ce mot n'est pas perçu de façon transparente comme voulant dire “[le moment où] le coq chante".
+\nt <dom="ety" langue="fra"> L'étymologie n'est pas encore établie. Ce mot n'est pas perçu de façon transparente comme voulant dire “[le moment où] le coq chante".
 \ton L#
 \lc æ̃˧ʈwɤ˩
 \so F4
@@ -2050,12 +2050,12 @@
 \sf <nb="B"> 2145
 \sf <nb="2011"> 3290
 \or bbaelialia
-\mc <langue="fra"> La partie |fv{ljɤ˧~ljɤ˧} pourrait être une déformation du classificateur des objets ronds, |fv{ɭɯ˧}. Celui-ci est riche en variantes phonétiques, et quasi-seul représentant de la combinaison |fv{ɭ}+|fv{ɯ}. La forme rédupliquée |fv{ɭɯ˧~ɭɯ˧} a pu évoluer vers sa prononciation actuelle. Cette prononciation a été difficile à fixer: lors des deux premiers terrains (2006 et 2006), la notation hésitait entre |fv{bæ˩ lje˧ljɤ˧}, |fv{bæ˩ le˧le˧}, avant d'en venir à |fv{bæ˩ ljɤ˧ljɤ˧}. Une constante parmi ces variantes est la perception des deux dernières syllabes comme liées l'une à l'autre, comme le serait une forme rédupliquée.
 \ps n
 \lc bæ˩ljɤ˧ljɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (notes anciennes: 2007: bæ˩ljɤ˥ljɤ˥; 2006: “bæ˩ le˧ ljɤ˧, notation adoptée lors de la réécoute, 2007; pendant le terrain: avais noté: bæ˩ lje˧ljɤ˧, bæ˩le˧le˧")
+\nt <dom="ety" langue="fra"> La partie |fv{ljɤ˧~ljɤ˧} pourrait être une déformation du classificateur des objets ronds, |fv{ɭɯ˧}. Celui-ci est riche en variantes phonétiques, et quasi-seul représentant de la combinaison |fv{ɭ}+|fv{ɯ}. La forme rédupliquée |fv{ɭɯ˧~ɭɯ˧} a pu évoluer vers sa prononciation actuelle. Cette prononciation a été difficile à fixer: lors des deux premiers terrains (2006 et 2006), la notation hésitait entre |fv{bæ˩ lje˧ljɤ˧}, |fv{bæ˩ le˧le˧}, avant d'en venir à |fv{bæ˩ ljɤ˧ljɤ˧}. Une constante parmi ces variantes est la perception des deux dernières syllabes comme liées l'une à l'autre, comme le serait une forme rédupliquée.
 \ton L-
 \so F4
 \va <speaker="F5"> ID.
@@ -4168,7 +4168,7 @@
 \lx bɤ˧tsʰo˧gv̩˥
 \sf <nb="2011"> 3334
 \or Bbecoggu
-\mc <langue="fra"> “Lieu où dansent les Pumi"?
+\nt <dom="ety" langue="fra"> “Lieu où dansent les Pumi"?
 \ps n
 \lc bɤ˧tsʰo˧gv̩˥
 \sd <langue="fra"> lieu
@@ -5166,15 +5166,15 @@
 \mr qʰv̩˧2
 \mr ʑi˥
 \mr -hĩ˥
+\mc <langue="fra"> L'intuition de la locutrice F4 est que la composition morphémique du mot est: “insecte qui a des cornes", ‘长角的虫子’.
+\mc <langue="eng"> Speaker F4's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns", ‘长角的虫子’.
+\mc <langue="cmn"> 主发音人直觉这个词的词源是“有角的昆虫”。
 \ps n
 \lc bɻ̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Avant 2009: noté /kʶv̩˧/ pour /qʰv̩/.
 \nt <type="hist" print="n" langue="fra"> En 2006: noté un /bv̩˧dv̩˩zɯ˩hĩ˩˥/.
-\mc <langue="fra"> L'intuition de la locutrice F4 est que la composition morphémique du mot est: “insecte qui a des cornes", ‘长角的虫子’.
-\mc <langue="eng"> Speaker F4's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns", ‘长角的虫子’.
-\mc <langue="cmn"> 主发音人直觉这个词的词源是“有角的昆虫”。
 \ton L#
 \so F4
 \va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-hĩ˧
@@ -5914,6 +5914,7 @@
 \sf <nb="2011"> 438
 \hm 1
 \or xietae
+\mr ʈʰæ˧˥
 \mc <langue="fra"> ‘langue'+'mordre'
 \ps adj
 \cf ɕi˩ʈʰæ˧˥2
@@ -6670,9 +6671,9 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté ‡dzi˥, par erreur, puis ‡dʑi˥) (confirmé: initiale voisée) (note d'avril 2012: "est une initiale /i/; avais précédemment noté ɯ"; mais, 15 avril 2012: rétablis /dʑɯ/)
-\mc <langue="fra"> Le sens n'est pas (ou n'est plus) “eau sale", “eau de détritus": la syllabe /|fv{dʑɯ}/ n'est pas perçue par F4 comme signifiant “eau".
 \ton LH
 \lc ɖæ˩dʑɯ˥
+\nt <langue="fra" dom="ety"> Le sens n'est pas (ou n'est plus) “eau sale", “eau de détritus": la syllabe /|fv{dʑɯ}/ n'est pas perçue par F4 comme signifiant “eau".
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -15695,7 +15696,7 @@
 \sf <nb="B"> 971b
 \sf <nb="2011"> 1409
 \or essei
-\mc <langue="eng"> Reduced form of |fv{/ə˧-dzɤ˥$/}
+\nt <dom="ety" langue="eng"> Reduced form of |fv{/ə˧-dzɤ˥$/}
 \ps adv
 \cf ə˧-dzɤ˥$
 \sd <langue="fra"> adverbe
@@ -20366,7 +20367,7 @@
 
 \lx hi˧tʰɑ˩
 \sf <nb="2011"> 1414
-\mc <langue="fra"> L'analyse morphémique de ce mot (étymologie interne) ne va pas de soi. La première syllabe serait-elle liée à |fv{hi˥} ‘dent’? ou à |fv{†hi˧} ‘rapide’ (polysémie qui serait parallèle à celle du chinois |fn{快} ‘rapide’, qui signifie également ‘affûté’)?
+\nt <langue="fra" dom="ety"> L'analyse morphémique de ce mot (étymologie interne) ne va pas de soi. La première syllabe serait-elle liée à |fv{hi˥} ‘dent’? ou à |fv{†hi˧} ‘rapide’ (polysémie qui serait parallèle à celle du chinois |fn{快} ‘rapide’, qui signifie également ‘affûté’)?
 \or xieta
 \ps adj
 \sd <langue="fra"> adjectif
@@ -28110,11 +28111,11 @@
 \or kuke
 \mr kʰv̩˩
 \mr kʰɤ˧˥2
+\mc <langue="fra"> Littéralement ‘panier-nid': on le confectionnait à l'aide d'un panier dorsal, qu'on suspendait à une cloison.
 \ps n
 \lc kʰv̩˩kʰɤ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\mc <langue="fra"> Littéralement ‘panier-nid': on le confectionnait à l'aide d'un panier dorsal, qu'on suspendait à une cloison.
 \ton L
 \so F4
 \pdv ɭɯ˧β
@@ -32215,6 +32216,7 @@
 \lx lo˩ɖɯ˧
 \sf <nb="2011"> 1530
 \or loddee
+\mr ɖɯ˩α
 \mc <langue="fra"> ‘(qui a une) grande main'
 \mc <langue="eng"> ‘(having a) large hand'
 \ps adj
@@ -60657,7 +60659,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 锋利
 \df Aiguisé, qui coupe bien, affûté.
 \gf affûté
-\dt 09/Oct/2015
 
 \lx tʰɑ˧˥
 \hm 2
