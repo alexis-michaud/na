@@ -1837,7 +1837,7 @@
 \gf fleur
 \xv bæ˩bæ˩ tʰi˩-di˥.
 \xe There are flowers, it's flowery. The expression can be used literally or figuratively to describe a flowery speech: a speech rich in ornamentation and rhetorical flourishes.
-\xc 花团锦簇。这个说法既可用于字面意思，也可用于比喻花言巧语：指富于装饰和华丽辞藻的话语。
+\xn 花团锦簇。这个说法既可用于字面意思，也可用于比喻花言巧语：指富于装饰和华丽辞藻的话语。
 \xf Il y a des fleurs, c'est fleuri. L'expression peut s'employer au sens propre, ou au sens figuré, pour décrire un discours fleuri: un discours riche en ornements et fleurs rhétoriques.
 
 \lx bæ˩bæ˩
@@ -11141,9 +11141,9 @@
 \xn 你做得好，人家（会）发现！他做的不好，人家（会）说（他）！
 \xf «Si tu travailles bien, les gens s'en rendent compte! S'il travail mal, les gens le disent!» = «Le bon travail est reconnu; le mauvais travail reçoit des critiques!» (Contexte: commentaire au sujet d'un mauvais livre. C'est ce qu'on disait autrefois: la belle ouvrage est reconnue; le mauvais travail vous attire des critiques.)
 \xc PROVERBE
-\xc <langue="fra"> Cette formulation n'est pas à proprement dite un adage, mais la locutrice la voit comme solidaire des proverbes du temps jadis: reflétant la même vision claire de la vie, distinguant bonnes actions et mauvaises actions.
-\xc <langue="eng"> This formulation is not, strictly speaking, a proverb or an adage, but the speaker sees it as akin to the proverbs of old: reflecting the same clear vision of life, distinguishing between good deeds and bad deeds.
-\xc <langue="cmn"> 严格来说，这句话并不是格言，但发音人认为它与古代的谚语相似：它反映了同样清晰的人生观，区分了善行和恶行。
+\xc <dom="usage" langue="fra"> Cette formulation n'est pas à proprement dite un adage, mais la locutrice la voit comme solidaire des proverbes du temps jadis: reflétant la même vision claire de la vie, distinguant bonnes actions et mauvaises actions.
+\xc <dom="usage" langue="eng"> This formulation is not, strictly speaking, a proverb or an adage, but the speaker sees it as akin to the proverbs of old: reflecting the same clear vision of life, distinguishing between good deeds and bad deeds.
+\xc <dom="usage" langue="cmn"> 严格来说，这句话并不是格言，但发音人认为它与古代的谚语相似：它反映了同样清晰的人生观，区分了善行和恶行。
 
 \lx ɖʐo˩β
 \sf <nb="B"> 1526
@@ -16457,9 +16457,9 @@
 \ton #H
 \so F4
 \va <speaker="M21"> kʰv̩˧ gi˧nɑ˧mi#˥
-\vf calque de |fn{狗熊}
-\ve calque of |fn{狗熊}
-\vn 复制了‘狗熊’的结构。
+\vc <langue="fra" dom="morpho"> calque de |fn{狗熊}
+\vc <langue="eng" dom="morpho"> calque of |fn{狗熊}
+\vc <langue="cmn" dom="morpho"> 复制了‘狗熊’的结构。
 \pdv ɭɯ˧β
 \de Little bear, bear cub.
 \ge little_bear
@@ -16677,9 +16677,9 @@
 \xe The Monkey and the Ape are quarrelsome birth signs!
 \xn 属猴和属虎的人很爱吵架！
 \xf Les signes astrologiques du Singe et du Tigre sont des signes batailleurs!
-\xc <langue="fra"> |fv{/ʑi˩hṽ̩#˥/} signifie ‘poils corporels' --littéralement ‘poils de singe'-- dans la langue d'aujourd'hui. L'emploi de la forme disyllabique |fv{/ʑi˩hṽ̩#˥/} pour ‘singe' dans ce dicton suggère qu'existait autrefois cette forme disyllabique, désormais passée hors d'usage.
-\xc <langue="eng"> |fv{/ʑi˩hṽ̩#˥/} means ‘body hair' --literally ‘monkey hair'-- in today's language. The use of the disyllabic form |fv{/ʑi˩hṽ̩#˥/} for ‘monkey' in this saying suggests that this disyllabic form once existed, but has now fallen out of use.
-\xc <langue="cmn"> 在今天的语言中，|fv{/ʑi˩hṽ̩#˥/}的意思是‘体毛’（字面意思是‘猴毛’）。在这句谚语中，‘猴子’用了双音节形式|fv{/ʑi˩hṽ̩#˥/}，这表明这种双音节形式曾经存在过，而现在已不再使用。
+\xc <dom="diachro" langue="fra"> |fv{/ʑi˩hṽ̩#˥/} signifie ‘poils corporels' --littéralement ‘poils de singe'-- dans la langue d'aujourd'hui. L'emploi de la forme disyllabique |fv{/ʑi˩hṽ̩#˥/} pour ‘singe' dans ce dicton suggère qu'existait autrefois cette forme disyllabique, désormais passée hors d'usage.
+\xc <dom="diachro" langue="eng"> |fv{/ʑi˩hṽ̩#˥/} means ‘body hair' --literally ‘monkey hair'-- in today's language. The use of the disyllabic form |fv{/ʑi˩hṽ̩#˥/} for ‘monkey' in this saying suggests that this disyllabic form once existed, but has now fallen out of use.
+\xc <dom="diachro" langue="cmn"> 在今天的语言中，|fv{/ʑi˩hṽ̩#˥/}的意思是‘体毛’（字面意思是‘猴毛’）。在这句谚语中，‘猴子’用了双音节形式|fv{/ʑi˩hṽ̩#˥/}，这表明这种双音节形式曾经存在过，而现在已不再使用。
 \xv ʑi˩˥, | lɑ˧, | kʰv̩˧ gɤ˧˥!
 \xe Same meaning as above; the investigator substituted the colloquial term for ‘ape, monkey'.
 \xn 同上
@@ -19792,7 +19792,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.126
+\nt <dom="usage" langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.126
 \nt <langue="fra" type="hist" print="n"> Avant 2024: pensais qu'il s'agissait d'un prédicat d'existence, |fg{exist.inamovible} (en anglais: |fg{exist.unmovable}; en chinois: 存在动词.固定物体). La description fournie était: "Exister, se trouver: verbe d'existence pour objets non mobiles, par exemple le Lac existe/se trouve à un endroit." Suite à une question posée par Roselle Dobbs, une vérification conclut qu'il s'agit d'un verbe signifiant "s'accumuler".
 \ton L
 \lc hi˩˥
@@ -21211,6 +21211,7 @@
 \bw <langue="cmn"> 合?
 \ec <langue="cmn"> 可能是早期汉语借词，来自‘合’。
 \ec <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{合}.
+\ec <langue="eng"> This word may be an early borrowing from Chinese |fn{合}.
 \ps adj
 \lc ho˩˥
 \sd <langue="fra"> adjectif
@@ -22082,13 +22083,13 @@
 \xe to suspend things up high (e.g. on a hook)
 \xn 挂东西在上面
 \xf accrocher des choses en hauteur
-\xc <langue="fra"> avant 2015: avais noté ‡M.M.L.L.H
+\xc <langue="fra" type="hist" print="n"> avant 2015: avais noté ‡M.M.L.L.H
 \xv tso˧~tso˧ hwæ˥
 \xe to suspend things
 \xn 挂东西
 \xf accrocher des choses
 \xc PHONO
-\xc <langue="fra"> Cette expression se distingue par son schéma tonal (M.M.H) de /|fv{tso˧~tso˧ hwæ˩}/ “acheter des choses", dont le schéma tonal est M.M.L.
+\xc <langue="fra" dom="ton"> Cette expression se distingue par son schéma tonal (M.M.H) de /|fv{tso˧~tso˧ hwæ˩}/ “acheter des choses", dont le schéma tonal est M.M.L.
 \xv ʂe˧ | tʰi˧-hwæ˩
 \xe to hang meat (above the hearth, to smoke it)
 \xn 挂肉（在火塘上，为了熏肉）
@@ -22463,18 +22464,21 @@
 \gn 属鼠
 \df Né l'année du Rat.
 \gf né_l_année_du_Rat
-\dt 14/Jun/2017
 
 \lx hwɤ˧li˧˥
 \sf <nb="B"> 1881
 \sf <nb="2011"> 2858
 \or huali
-\ec <langue="fra"> Nicolas Tournadre relève un possible parallèle avec le tibétain /li/ ‘chat'; il s'agirait alors d'un emprunt récent? En na, /-li/ en deuxième syllabe a des chances d'être un suffixe: voir également ‘papillon'.
+\cog <langue="nxq"> hwɑ˥le˩
 \ps n
 \lc hwɤ˧li˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> notation de 2006: |fv{/‡ho˧li˩˥/}
+\nt <type="ety" langue="fra"> Nicolas Tournadre relève un possible parallèle avec le tibétain /|fv{li}/ ‘chat'.
+\nt <type="morpho" langue="fra"> La seconde syllabe, /|fv{-li}/, a des chances d'être un suffixe: voir également ‘papillon'.
+\nt <type="morpho" langue="eng"> The second syllable, /|fv{-li}/, is plausibly a suffix: see also ‘butterfly'.
+\nt <type="morpho" langue="cmn"> 第二个音节，/|fv{-li}/，可能是后缀。参见‘蝴蝶’。
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -22493,7 +22497,7 @@
 \or hualibbu
 \mr hwɤ˧li˧˥
 \mr =bv̩˧
-\ec <langue="fra"> «(la place) du chat»
+\mc <langue="fra"> «(la place) du chat»
 \ps n
 \lc hwɤ˧li˧bv̩˥
 \sy hwɤ˧li˧-se˧-di˧˥
@@ -22606,8 +22610,8 @@
 \xn 母猫与公猫
 \xf chatte et matou
 \xc <dom="ton"> #H- / H#
-\xc <langue="fra"> La locutrice exprime une préférence pour la variante tonale #H-.
-\xc <langue="eng"> The consultant expresses a preference for the #H- tonal variant.
+\xc <langue="fra" dom="ton"> La locutrice exprime une préférence pour la variante tonale #H-.
+\xc <langue="eng" dom="ton"> The consultant expresses a preference for the #H- tonal variant.
 
 \lx hwɤ˧pʰv̩#˥
 \sf <nb="B"> 1882
@@ -22847,9 +22851,9 @@
 \or yepiye
 \bw <langue="cmn"> 鸦片
 \mr jɤ˧3
-\ec <langue="fra"> L'opium se fume, comme le tabac. En moso, il a été emprunté comme ‘tabac-opium'. Le mot pour ‘tabac', /|fv{jɤ˧3}/, pourrait également être un emprunt au chinois, mais d'une date bien antérieure. Lorsque le mot ‘opium' a été emprunté, le mot ‘tabac' était pleinement acclimaté (à supposer qu'il s'agisse bien d'un emprunt) et pouvait servir à guider l'interprétation du nouveau mot emprunté, ‘opium'.
-\ec <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /|fv{jɤ˧3}/, might be an early borrowing from Chinese, too, but by the time the word ‘opium' was borrowed, the word ‘tobacco' was well-integrated (supposing that it was originally a loanword) and could assist in guiding the interpretation of the new loanword, ‘opium'.
-\ec <langue="cmn"> 鸦片像烟草一样被吸食。在摩梭中，它被借为‘鸦片烟’。‘烟’/|fv{jɤ˧3}/可能也是从汉语中借用的词，但借用时间估计是更早。当‘鸦片’一词被借用时，估计‘烟’已经完全融化到摩梭适词汇中（假设它确实原来是汉语借词），可以用来帮助解释新借用词‘鸦片’的含义。
+\mc <langue="fra"> L'opium se fume, comme le tabac. En moso, il a été emprunté comme ‘tabac-opium'. Le mot pour ‘tabac', /|fv{jɤ˧3}/, pourrait également être un emprunt au chinois, mais d'une date bien antérieure. Lorsque le mot ‘opium' a été emprunté, le mot ‘tabac' était pleinement acclimaté (à supposer qu'il s'agisse bien d'un emprunt) et pouvait servir à guider l'interprétation du nouveau mot emprunté, ‘opium'.
+\mc <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /|fv{jɤ˧3}/, might be an early borrowing from Chinese, too, but by the time the word ‘opium' was borrowed, the word ‘tobacco' was well-integrated (supposing that it was originally a loanword) and could assist in guiding the interpretation of the new loanword, ‘opium'.
+\mc <langue="cmn"> 鸦片像烟草一样被吸食。在摩梭中，它被借为‘鸦片烟’。‘烟’/|fv{jɤ˧3}/可能也是从汉语中借用的词，但借用时间估计是更早。当‘鸦片’一词被借用时，估计‘烟’已经完全融化到摩梭适词汇中（假设它确实原来是汉语借词），可以用来帮助解释新借用词‘鸦片’的含义。
 \ps n
 \lc jɤ˧pʰi˧jɤ˧
 \sd <langue="fra"> nourriture
@@ -24332,7 +24336,8 @@
 \sf <nb="2011"> 508
 \hm 3
 \or ye
-\bw |fn{可能是早期汉语借词，来自‘烟’。}
+\bw <langue="cmn"> 烟?
+\ec <langue="cmn"> 可能是早期汉语借词，来自‘烟’。
 \ec <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{烟}.
 \ps n
 \sd <langue="fra"> nourriture
@@ -24515,8 +24520,7 @@
 \xn 〜 |fg{neg} 〜
 \xf 〜 |fg{neg} 〜
 \xc PHONO
-\xc <langue="eng"> test to establish the tone category: La or Lb. Answer: it is Lb.
-\dt 02/Sep/2015
+\xc <langue="eng" dom="ton"> This combination was elicited as a test to establish the tone category: La or Lb. It leads to the conclusion that the tone is Lb.
 
 \lx jɤ˩β
 \hm 2
@@ -25081,7 +25085,7 @@
 \xe You are regressing! (Said to a child who had already developed a habit of going to the toilet in the previous weeks, but who, that day, soiled her trousers.)
 \xn 你这是在退步！（情景：一个小孩已经几个礼拜有了上厕所的习惯，那天又把屎拉在裤头里）
 \xf tu régresses! (adressé à un petit enfant qui a fait caca dans sa culotte, alors que depuis plusieurs semaines il avait pris l'habitude du pot)
-\xc <langue="fra"> /|fv{sɯ˧ɖʐæ˧}: n'est pas attesté hors de cette expression toute faite.
+\xc <langue="fra" dom="usage"> À ce jour, le terme /|fv{sɯ˧ɖʐæ˧} n'est pas attesté hors de cette expression toute faite.
 
 \lx jo˩zo˩
 \sf <nb="B"> 1891
@@ -25753,13 +25757,12 @@
 \xe Coming from the same place, we arrive together!
 \xn 从一个地方，一起到！
 \xf Venant du même endroit, (on) arrive ensemble!
-\xc <langue="fra"> Exemple proposé par F4
-\xc <langue="eng"> Example proposed by F4
+\xc <langue="fra" dom="usage"> Exemple proposé spontanément par F4.
+\xc <langue="eng" dom="usage"> Example proposed by F4
 \xv ɖɯ˧-ki˧ dzi˧˥
 \xe to live together
 \xn 住在一起
 \xf habiter ensemble
-\dt 30/Apr/2017
 
 \lx ko˧˥
 \sf <nb="2011"> 1357
@@ -27453,7 +27456,8 @@
 
 \lx kʰɯ˧pʰɻ̩˩
 \or Keepu
-\ec <langue="fra"> pied-blanc
+\mr pʰɻ̩˩α
+\mc <langue="fra"> «pied-blanc»
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -28104,12 +28108,13 @@
 
 \lx kʰv̩˩-kʰɤ˩
 \or kuke
-\cf kʰv̩˩
+\mr kʰv̩˩
+\mr kʰɤ˧˥2
 \ps n
 \lc kʰv̩˩kʰɤ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\ec <langue="fra"> Littéralement ‘panier-nid': on le confectionnait à l'aide d'un panier dorsal, qu'on suspendait à une cloison.
+\mc <langue="fra"> Littéralement ‘panier-nid': on le confectionnait à l'aide d'un panier dorsal, qu'on suspendait à une cloison.
 \ton L
 \so F4
 \pdv ɭɯ˧β
@@ -28236,7 +28241,7 @@
 \sf <nb="2011"> 421
 \or kumae
 \mr kʰv̩˥3
-\ec <langue="fra" print="n"> L'origine de la deuxième syllabe n'a pas encore pu être établie. La composition du disyllabe n'est pas transparente aux yeux de la co-autrice. (Avais songé à /|fv{mæ˧2}/, qui indique le terme atteint: `parvenir à'.)
+\mc <langue="fra" print="n"> L'origine de la deuxième syllabe n'a pas encore pu être établie. La composition du disyllabe n'est pas transparente aux yeux de la co-autrice. (Avais songé à /|fv{mæ˧2}/, qui indique le terme atteint: `parvenir à'.)
 \ps n
 \lc kʰv̩˧mæ˧
 \sd <langue="fra"> société
@@ -28372,7 +28377,8 @@
 
 \lx kʰv̩˧nɑ˥
 \or kuna
-\ec <langue="fra"> sans doute de ‘chien' et ‘noir'
+\mr kʰv̩˥2
+\mc <langue="fra"> sans doute de ‘chien' et ‘noir'
 \ps n
 \lc kʰv̩˧nɑ˥
 \sd <langue="fra"> animal
@@ -28934,9 +28940,9 @@
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
-\xc <langue="fra"> F4 prononce /|fv{le˧-kv̩˧~kv̩˥}/.
-\xc <langue="eng"> F4 pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
-\xc <langue="cmn"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
+\xc <langue="fra" dom="ton"> F4 prononce /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="eng" dom="ton"> F4 pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="cmn" dom="ton"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
 \rf F5
 
 \lx kv̩˩α
@@ -32209,8 +32215,8 @@
 \lx lo˩ɖɯ˧
 \sf <nb="2011"> 1530
 \or loddee
-\ec <langue="fra"> ‘(qui a une) grande main'
-\ec <langue="eng"> ‘(having a) large hand'
+\mc <langue="fra"> ‘(qui a une) grande main'
+\mc <langue="eng"> ‘(having a) large hand'
 \ps adj
 \lc lo˩ɖɯ˥
 \sd <langue="fra"> adjectif
@@ -33848,9 +33854,9 @@
 \hm 1
 \or lu puq
 \mr lv̩˧1
-\ec <langue="fra"> L'étymologie de la seconde syllabe de ce terme n'a pu être établie: il n'est pas évident que ce soit |fv{pʰv̩˧˥3} `retourner', |fn{翻}, avec pour sens littéral «retourner un champ».
-\ec <langue="eng"> The origin of the disyllable has not been established yet: the second syllable does not appear to be |fv{pʰv̩˧˥3} `to turn over', |fn{翻}.
-\ec <langue="cmn"> 词源尚未确定。第二个音节看来不是|fv{pʰv̩˧˥3} ‘翻’。
+\mc <langue="fra"> L'étymologie de la seconde syllabe de ce terme n'a pu être établie: il n'est pas évident que ce soit |fv{pʰv̩˧˥3} `retourner', |fn{翻}, avec pour sens littéral «retourner un champ».
+\mc <langue="eng"> The origin of the disyllable has not been established yet: the second syllable does not appear to be |fv{pʰv̩˧˥3} `to turn over', |fn{翻}.
+\mc <langue="cmn"> 词源尚未确定。第二个音节看来不是|fv{pʰv̩˧˥3} ‘翻’。
 \ps v
 \ton L#
 \lc lv̩˧pʰv̩˩
@@ -34391,7 +34397,9 @@
 \lx lwæ˩pʰɻ̩˩
 \sf <nb="2011"> 1402
 \or luapeu
-\ec <langue="fra"> Étymologie confirmée: ‘cendres blanches'.
+\mr lwɤ˩˥
+\mr pʰɻ̩˩α
+\mc <langue="fra"> Étymologie (composition morphémique) confirmée: ‘cendres blanches'. Le mot a connu un changement vocalique, de |fv{lwɤ} à |fv{lwæ}.
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -36450,6 +36458,7 @@
 \sf <nb="B"> 1221
 \sf <nb="B"> 1384
 \sf <nb="2011"> 1968
+\hm 3
 \or mu
 \ps v
 \ton H
@@ -37178,7 +37187,10 @@
 \sf <nb="B"> 530b
 \sf <nb="2011"> 762
 \or mu muddi
-\ec <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
+\mr mv̩˥2
+\mr mv̩˩α
+\mr -di˩
+\mc <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
 \ps n
 \sy ko˧li#˥
 \sd <langue="fra"> objet
@@ -37196,7 +37208,6 @@
 \gn 风箱
 \df Soufflet.
 \gf soufflet
-\dt 01/Aug/2017
 
 \lx mv̩˧ɲi˧
 \sf <nb="2011"> 243
@@ -38516,9 +38527,9 @@
 \sf <nb="2011"> 1490
 \or mumu
 \mr mv̩˥
-\ec <langue="fra"> réduplication de ‘comprendre'
-\ec <langue="eng"> reduplicated from ‘to understand'
-\ec <langue="cmn"> ‘懂’的重叠形式
+\mc <langue="fra"> réduplication de ‘comprendre'
+\mc <langue="eng"> reduplicated from ‘to understand'
+\mc <langue="cmn"> ‘懂’的重叠形式
 \ps adj
 \ton #H
 \lc mv̩˧mv̩˧
@@ -39160,9 +39171,9 @@
 \lx nɑ˧~nɑ˥
 \or nana
 \mr nɑ˩
-\ec <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
-\ec <langue="eng"> Probably a reduplicated form of ‘black, dark'
-\ec <langue="cmn"> 这个词估计是‘黑、暗’的重叠
+\mc <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
+\mc <langue="eng"> Probably a reduplicated form of ‘black, dark'
+\mc <langue="cmn"> 这个词估计是‘黑、暗’的重叠
 \ps adv
 \ton H#
 \lc nɑ˧nɑ˥
@@ -41307,10 +41318,11 @@
 
 \lx njɤ˧kv̩˩-njɤ˩tsʰɤ˩
 \or nyagu nyace
-\ec <langue="fra"> Les trois composantes sont identifiées comme: “œil", “pommette", et le |fg{clf} des feuilles et des fleurs
+\mr njɤ˧kv̩˩
+\mr njɤ˩˥
+\mr tsʰɤ˧˥α
+\mc <langue="fra"> Les trois composantes morphémiques sont identifiées comme: “œil", “pommette", et le |fg{clf} des feuilles et des fleurs
 \ps adj
-\cf njɤ˧kv̩˩
-\cf tsʰɤ˧˥α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> avant 2015, noté /‡…tsʰe˩/
@@ -41565,13 +41577,13 @@
 \lx njɤ˧ʈʂɤ˥
 \or nyazhe
 \mr njɤ˧˥2
+\mc <langue="fra"> De |fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.
+\mc <langue="eng"> From |fv{njɤ˧˥1} to glue', |fv{njɤ˧˥2} ‘sticky'. The seeds of this plant attach themselves very effectively to furs and fabrics.
+\mc <langue="cmn"> 来自|fv{njɤ˧˥1}‘粘'，|fv{njɤ˧˥2}‘粘’。这种植物的种子能非常有效地附着在毛皮和织物上。
+\nt <type="hist" print="n" langue="fra"> Voir photographie de la plante: photo 1.jpg
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\ec <langue="fra"> De |fv{njɤ˧˥1} ‘coller', |fv{njɤ˧˥2} ‘collant'. Les graines de cette plante s'attachent de façon très efficace sur les fourrures et tissus.
-\ec <langue="eng"> From |fv{njɤ˧˥1} to glue', |fv{njɤ˧˥2} ‘sticky'. The seeds of this plant attach themselves very effectively to furs and fabrics.
-\ec <langue="cmn"> 来自|fv{njɤ˧˥1}‘粘'，|fv{njɤ˧˥2}‘粘’。这种植物的种子能非常有效地附着在毛皮和织物上。
-\nt <type="hist" print="n" langue="fra"> Voir photographie de la plante: photo 1.jpg
 \ton H#
 \lc njɤ˧ʈʂɤ˥
 \so F4
@@ -42035,9 +42047,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ni˧ɕi˩
-\vf La variante |fv{ni˧ɕi˩} constitue la lexicalisation d'une tendance à l'harmonie vocalique régressive, favorisée par la dimension expressive de la voyelle |fv{i} pour exprimer la petite taille volontiers associée au caractère ‘mignon, joli’.
-\ve The variant |fv{ni˧ɕi˩} lexicalizes a tendency towards regressive vowel harmony, favoured in this instance by the expressive value of the vowel |fv{i} to suggest the smallness readily associated with ‘cute, pretty’.
-\vn |fv{ni˧ɕi˩}这个变体是元音和谐趋势的词汇化，|fv{i}元音刚好倾向于表达与‘可爱、漂亮’相关的小尺寸。
+\vc <langue="fra" dom="morpho"> La variante |fv{ni˧ɕi˩} constitue la lexicalisation d'une tendance à l'harmonie vocalique régressive, favorisée par la dimension expressive de la voyelle |fv{i} pour exprimer la petite taille volontiers associée au caractère ‘mignon, joli’.
+\vc <langue="eng" dom="morpho"> The variant |fv{ni˧ɕi˩} lexicalizes a tendency towards regressive vowel harmony, favoured in this instance by the expressive value of the vowel |fv{i} to suggest the smallness readily associated with ‘cute, pretty’.
+\vc <langue="cmn" dom="morpho"> |fv{ni˧ɕi˩}这个变体是元音和谐趋势的词汇化，|fv{i}元音刚好倾向于表达与‘可爱、漂亮’相关的小尺寸。
 \de Lovely, cute, pretty.
 \ge lovely
 \dn 可爱
@@ -42939,7 +42951,8 @@
 \sf <nb="2011"> 646
 \or nguapae
 \bw <langue="cmn"> 瓦
-\ec <langue="eng"> Chinese ‘tile' plus the Na classifier for flat objects
+\mr pʰæ˧˥α
+\ec <langue="eng"> This word is composed of Chinese ‘tile' plus the Na classifier for flat objects.
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -46120,7 +46133,6 @@
 \sf <nb="2011"> 2174
 \hm 2
 \or beuq
-\ec <langue="fra"> Le disyllabe provient probablement d'un directionnel /|fv{gɤ˩-}/ passé à /|fv{gæ˩-}/ par harmonie vocalique régressive; mais en synchronie, la forme usuelle est disyllabique: /|fv{gæ˩-pɻ̩˧˥}/; le monosyllabe n'est pas employé seul.
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46142,12 +46154,13 @@
 \xe to draw (a weapon), to take out of its sheath
 \xn 拉出（剑……）
 \xf dégainer, sortir une arme de son fourreau
+\xc <langue="fra"> Le disyllabe provient probablement d'un directionnel /|fv{gɤ˩-}/ passé à /|fv{gæ˩-}/ par harmonie vocalique régressive; mais en synchronie, la forme usuelle est disyllabique: /|fv{gæ˩-pɻ̩˧˥}/; le monosyllabe n'est pas employé seul.
 \xv ʁæ˧mi˧ | gæ˩-pɻ̩˧˥
 \xe to draw a sword
 \xn 拉出剑
 \xf dégainer une épée
 
-\lx pv̩α˧˥
+\lx pv̩˧˥α
 \or bu
 \bw <langue="cmn"> 步
 \ps clf
@@ -47697,7 +47710,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vf  <print="n"> /bv̩˩ko˩ bv̩˥kʶæ˧/ 'excréments de l'étable'; tons: ˩ ˩ ˧ ˧? Aussi: /ʐwæ˧bv̩˥ko˩bv̩˥kʶæ˥/ (tons de /bv/ à vérifier ds cette expression); /ʐwæ˧bv̩˥ʐwæ˧kʶæ˧/, 'fumier de cheval'; /i˥bv̩˥i˥kʶæ˧/, 'fumier de vache'.
+\vc <langue="fra" type="hist" print="n"> /bv̩˩ko˩ bv̩˥kʶæ˧/ 'excréments de l'étable'; tons: ˩ ˩ ˧ ˧? Aussi: /ʐwæ˧bv̩˥ko˩bv̩˥kʶæ˥/ (tons de /bv/ à vérifier ds cette expression); /ʐwæ˧bv̩˥ʐwæ˧kʶæ˧/, 'fumier de cheval'; /i˥bv̩˥i˥kʶæ˧/, 'fumier de vache'.
 \va <speaker="M21"> ID.
 \pdv pɤ˥
 \de Excrement, dung, droppings.
@@ -54242,7 +54255,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ʁwɤ˧qʰv̩˧dʑɯ#˥
-\vf Pour le locuteur M23, le disyllabe est incomplet, et le terme est nécessairement trisyllabique.
+\vc <langue="fra" dom="morpho"> Pour le locuteur M23, le disyllabe est incomplet, et le terme est nécessairement trisyllabique.
 \pdv ɭɯ˧β
 \de Cave, cavern.
 \ge cave
@@ -68229,7 +68242,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \vc <langue="fra" print="n"> ex.: tsʰe˧do˧so˩ɲi˩˧
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ex.: tsʰe˧do˧˥so˩ɲi˩˥
-\vf tons confirmés
+\vc <langue="fra" type="hist" print="n" dom="ton"> Tons confirmés.
 \de The beginning of the month.
 \ge beginning_of_the_month
 \dn 月初
@@ -69157,7 +69170,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʈʂʰe˧~ʈʂʰe˧
 \or cheichei
 \mr ʈʂʰe˧β
-\ec <langue="eng">Probably from the verb ‘to stretch'
+\mc <langue="eng">Probably from the verb ‘to stretch'
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -72917,12 +72930,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʈʂʰv̩˩
 \hm 2
 \or chuq
-\ec <langue="fra"> Le mot évoque le chinois |fn{除} ‘se débarrasser de; à part…'; mais il n'est pas perçu par la locutrice comme un emprunt.
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
 \lc ʈʂʰv̩˩˥
+\nt <dom="ety" langue="fra"> Le mot évoque le chinois |fn{除} ‘se débarrasser de; à part…'; mais il n'est pas perçu par la locutrice comme un emprunt.
 \so F4
 \de To set aside, to set apart, to distinguish.
 \ge to_set_aside
@@ -77063,8 +77076,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or reirei bbaebbae
 \mr jɤ˩ʐe˧
 \mr bæ˩bæ˩1
-\ec <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
-\ec <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
+\mc <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
+\mc <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -78893,7 +78906,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> D'abord noté ʐv̩˧lv̩˧. Première syllabe corrigée en /ʐɯ˧/ en 2006, deuxième syllabe corrigée en /ɭɯ˧/ en 2007.
-\ec <langue="fra" print="n"> étymologie à préciser. Du verbe /lv̩˩~lv̩˧˥/ ‘bouger’?
+\nt <dom="ety" langue="fra"> Étymologie à préciser. La seconde syllabe proviendrait-elle du morphème qu'on trouve sous forme rédupliquée dans /|fv{lv̩˩~lv̩˧˥}/ ‘bouger’?
 \ton M
 \lc ʐɯ˧ɭɯ˧
 \so F4
@@ -79272,9 +79285,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \mr ʐv̩˧bæ˧
 \mr =bv̩˧
 \mr hɑ˥
-\ec <langue="fra"> L'expression «nourriture du serpent» paraît motivée par le fait que cette plante a des feuilles grasses entortillées, qui peuvent faire penser à un corps de serpent. Le nom «serpent» apparaît dans plusieurs noms de plantes.
-\ec <langue="eng"> The expression ‘snake's food’ seems to be motivated by the fact that this plant has fat, twisted leaves, reminiscent of a snake's body. The noun ‘snake’ appears in several plant names.
-\ec <langue="cmn"> ‘蛇食’一词的由来似乎是因为这种植物的叶子肥厚、扭曲，让人联想到蛇的身体。‘蛇’这个名词出现在多种植物名称中。
+\mc <langue="fra"> L'expression «nourriture du serpent» paraît motivée par le fait que cette plante a des feuilles grasses entortillées, qui peuvent faire penser à un corps de serpent. Le nom «serpent» apparaît dans plusieurs noms de plantes.
+\mc <langue="eng"> The expression ‘snake's food’ seems to be motivated by the fact that this plant has fat, twisted leaves, reminiscent of a snake's body. The noun ‘snake’ appears in several plant names.
+\mc <langue="cmn"> ‘蛇食’一词的由来似乎是因为这种植物的叶子肥厚、扭曲，让人联想到蛇的身体。‘蛇’这个名词出现在多种植物名称中。
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -80938,9 +80951,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Because (s)he is ill, (s)he does not eat.
 \xn 他病了，吃不下饭。
 \xf Comme il est malade, il ne mange pas.
-\xc <langue="fra"> On ne peut se passer du |fv{/lɑ/}: |fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
-\xc <langue="eng"> The |fv{/lɑ/} portion cannot be removed: |fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
-\xc <langue="cmn"> 不能省略|fv{/lɑ/}这个音节：|fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}。
+\xc <langue="fra" dom="usage"> On ne peut se passer du |fv{/lɑ/}: |fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="eng" dom="usage"> The |fv{/lɑ/} portion cannot be removed: |fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}.
+\xc <langue="cmn" dom="usage"> 不能省略|fv{/lɑ/}这个音节：|fv{/‡ʈʂʰɯ˧ go˩-kwɤ˩tɕɯ˥, | hɑ˧ mɤ˧-dzɯ˥/}。
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | wɤ˩˥ | lɑ˧hɑ˥ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥.
 \xe After he said that, he went on to say something different / he changed his mind and said something quite different.
 \xn 他这样说完以后，又讲了些其它的。
@@ -81123,7 +81136,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe thus, in this way
 \xn 这样
 \xf ainsi, de la sorte
-\xc <langue="fra"> La première syllabe de cette expression est le démonstratif proximal, /|fv{ʈʂʰɯ˥}/.
+\xc <langue="fra" dom="morpho"> La première syllabe de cette expression est le démonstratif proximal, /|fv{ʈʂʰɯ˥}/.
 \xv tʰv̩˧-kʰv̩˩-ne˩-ʝi˩-zo˩
 \xe like that year
 \xn 像那年一样、就像那年
