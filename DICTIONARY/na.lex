@@ -7796,6 +7796,7 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
+\nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
 \nt <type="hist" print="n" langue="fra" dom="phono"> avant 2011: pour la première syllabe, noté comme voyelle /e/, puis /ə/. En 2011: corrigé en /ɤ/.
 \nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
@@ -7817,7 +7818,8 @@
 \cf dɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
+\nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/ (avant 2009: noté: de˧˥ ko˧), puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. En 2014, adopte une notation /dɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Le ton est de type d1 (M), dans la mesure où il donne: /də˧˥ tʰv̩˧ko˧ ɲi˩/.
 \nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
@@ -7838,7 +7840,7 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> avant 2011: noté comme voyelle /e/, puis /ə/; avant avril 2014: noté /dɤ!-tʰv̩˧-gi#˥/
+\nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La notation était /dɤ!-tʰv̩˧-gi#˥/. En avril 2014, adopte une notation /dɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
 \nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
@@ -12385,13 +12387,13 @@
 \lx ɖʐɯ˩kʰɤ˥
 \sf <nb="2011"> 5
 \or zzhike
-\mr ɖʐɯ˩α
 \ps n
 \lc ɖʐɯ˩kʰɤ˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton LH
 \so F4
+\nt <dom="morpho" langue="fra" type="hist" print="n"> Viendrait de: ɖʐɯ˩˧ (ʈʂʰɯ˧ | ɖʐɯ˩ ɲi˥), même mot que dans “la société" xxxx à éliciter en 2025: extraction monosyllabe. Un renvoi vers ɖʐɯ˩α (transformé en 2024 en lien de type `mr', morphologie) était présent depuis la version 2015 du dictionnaire, mais l'entrée en question n'existe pas.
 \pdv ɖʐɯ˩
 \de Period of time, era.
 \ge era
@@ -12425,7 +12427,6 @@
 \xe a moment
 \xn 一会儿
 \xf un moment
-\dt 24/Apr/2017
 
 \lx dʑɯ˩kʰv̩˩
 \or jjiku
@@ -13244,7 +13245,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="sem" langue="fra"> vient de: ɖʐɯ˩˧ (ʈʂʰɯ˧ ɖʐɯ˩ ɲi˧), même mot que dans “la société"
+\nt <dom="sem" langue="fra" type="hist" print="n"> vient de: ɖʐɯ˩˧ (ʈʂʰɯ˧ ɖʐɯ˩ ɲi˧), même mot que dans “la société" xxxx à éliciter en 2025: extraction monosyllabe.
 \ton LM+#H
 \lc ɖʐɯ˩tso˥
 \so F4
@@ -13259,7 +13260,6 @@
 \xe The rules of society, the moral teachings (including proverbs, tales…) come from people / are human creations / are the fruit of human experience!
 \xn 社会规矩，是通过人类的经验形成的！ / 社会规矩，是人（按一代代的经验）创造的！
 \xf ces morales (les contes, les proverbes…) ça provient des hommes! / la morale (des histoires, …) c'est le fruit de l'expérience des hommes!
-\dt 27/Aug/2015
 
 \lx dzɯ˧tsɯ˧˥
 \sf <nb="B"> 2180
@@ -13581,7 +13581,9 @@
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" print="n" langue="fra"> (+ɲi˩) (d'abord noté kʰv̩˧) notes anciennes: “ɖʐv̩˩kʰɯ˩-ze˧ (tons vérifiés en mai 2008, d'abord noté ˧˧˥) sens confirmé par M18 en juin 2008"; tons corrigés à nouveau en ɖʐv̩˧ kʰɯ˧-ze˥ en nov. 2011
-\nt <dom="phono" langue="fra"> Peut s'employer dans un sens élargi; par exemple: si on veut s'excuser: l'équivalent du chinois 不好意思 sera: ɖʐv̩˩kʰɯ˩-ze˧!
+\nt <dom="usage" langue="fra"> Au plan pragmatique, ce mot peut s'employer dans un contexte où on présente des excuses. Un équivalent du chinois |fn{不好意思} sera: /|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/.
+\nt <dom="usage" langue="eng"> This word can be used in a context where an apology is being offered. An equivalent of Chinese |fn{不好意思} would be: /|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/.
+\nt <dom="usage" langue="cmn"> 从实用角度讲，这个词可以用在道歉的语境中。摩梭话/|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/可以作为汉语‘不好意思’的对应说法。
 \ton M
 \lc ɖʐv̩˧
 \so F4
@@ -13917,18 +13919,17 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> forme moins fréquente que le disyllabe /ɖʐwæ˧mi˧/
 \ton LM
 \lc ɖʐwæ˩˥
+\sy ɖʐwæ˧mi˧
 \so F4
 \pdv mi˩
-\de Sparrow (monosyllabic form; not in common use).
+\de Sparrow (monosyllabic form; not in common use). The commonly used form is disyllabic: /|fv{ɖʐwæ˧mi˧}/.
 \ge sparrow
-\dn 麻雀
+\dn 麻雀（单音节词。一般用双音节词/|fv{ɖʐwæ˧mi˧}/。）
 \gn 麻雀
-\df Moineau (forme monosyllabique; n'est pas d'usage courant).
+\df Moineau (forme monosyllabique; n'est pas d'usage courant). La forme couramment usitée est le disyllabe /|fv{ɖʐwæ˧mi˧}/.
 \gf moineau
-\dt 27/Aug/2015
 
 \lx ɖʐwæ˧˥
 \sf <nb="B"> 1216
@@ -14209,7 +14210,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L#-
-\lc ə˧bɑ˩lɑ˩bɑ˩
+\lc ɑ˧bɑ˩lɑ˩bɑ˩
 \so F4
 \de Cactus.
 \ge cactus
@@ -14230,7 +14231,10 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> +ɲi˩
-\nt <dom="phono" langue="fra"> phonétiquement proche de …tɕi˧li˧; noté ainsi jusqu'en 2011
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{…tɕi˧li˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{…tɕi˧li˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{…tɕi˧li˧}]。
+\nt <dom="phono" langue="fra" type="hist" print="n"> Du fait de la proximité phonétique avec …tɕi˧li˧, c'est ainsi que les deux dernières syllabes avaient été notées jusqu'en 2011.
 \ton M
 \lc ə˧bo˧tɕo˧li˧
 \so F4
@@ -14388,7 +14392,6 @@
 \gn 情人
 \df Petit(e) ami(e), amant(e).
 \gf amant/amante
-\dt 27/Aug/2015
 
 \lx ə˧dɑ˧-ə˧mi#˥
 \or adda ami
@@ -14396,7 +14399,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc ə˧dɑ˧ə˧mi˧
+\lc ɑ˧dɑ˧e˧mi˧
 \so F4
 \de Father and mother.
 \ge father_and_mother
@@ -14416,7 +14419,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc ə˧dɑ˧zo˧
+\lc ɑ˧dɑ˧zo˧
 \so F4
 \de Father and son.
 \ge father_and_son
@@ -14424,7 +14427,6 @@
 \gn 父子
 \df Père et fils.
 \gf père_et_fils
-\dt 24/Apr/2017
 
 \lx ə˧dɑ˥$
 \sf <nb="B"> 331
@@ -14433,11 +14435,16 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (tons confirmés plusieurs fois)
-\nt <dom="sem" langue="fra"> on peut appeler le père comme les oncles maternels: ə˧v̩˧˥, ə˧bu˥
-\nt <dom="phono" langue="fra"> phonétiquement: [ɑ˧dɑ˥]
+\nt <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés plusieurs fois.
+\nt <dom="sem" langue="fra"> On peut également désigner le père par le terme |fv{ə˧bo˥$}, qui d'ordinaire désigne ses frères (les oncles paternels: les frères du père), ou du terme qui désigne un oncle maternel (frère de la mère): |fv{ə˧v̩˧˥}. Cette souplesse dans l'emploi des termes révèle, d'une part la place symbolique qui peut lui être reconnue parmi les hommes de sa génération au sein de la maisonnée de la mère, d'autre part le caractère labile du rôle paternel au sein de la famille.
+\nt <dom="sem" langue="eng"> The father can also be referred to as |fv{ə˧bo˥$}, which usually refers to his brothers (paternal uncles: the father's brothers), or as |fv{ə˧v̩˧˥}, the term that refers to maternal uncles (the mother's brothers). This flexibility in the use of terms reveals, on the one hand, the symbolic place that may be granted to the father among the men of his generation within the mother's household, and on the other hand, the labile nature of the father's role within the family.
+\nt <dom="sem" langue="cmn">父亲也可以称为|fv{ə˧bo˥$}，那个词一般来指他的兄弟（父系叔伯：父亲的兄弟）。也可以称为|fv{ə˧v̩˧˥}，那是母系叔伯（母亲的兄弟）。用词的灵活性一方面揭示了父亲在母亲家中同辈男子中所能得到的象征性地位，另一方面也揭示了父亲在家庭中角色的不稳定性。
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ˧dɑ˥}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ˧dɑ˥}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ˧dɑ˥}]。
 \ton H$
-\lc ə˧dɑ˥
+\lc ɑ˧dɑ˥
+\cf ə˧bo˥$
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14449,19 +14456,18 @@
 \gn 父亲
 \df Père.
 \gf père
-\dt 27/Aug/2015
 
 \lx ə˧ɖo˧
 \sf <nb="2011"> 426
 \or addeo
 \ps n
-\cf ə˧ɕjɤ˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \comp <langue="pmi" print="n"> ɖu35
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ə˥ɖu˥) (ne connaît pas ɤ˥ɕjɤ˥)
 \ton M
 \lc ə˧ɖo˧
+\sy ə˧ɕjɤ˩
 \so F4
 \va <speaker="F5"> ID.
 \pdv v̩˧
@@ -14496,7 +14502,6 @@
 \xe gromwell flowers
 \xn 紫草花
 \xf fleurs de grémil
-\dt 27/Aug/2015
 
 \lx ə˧-dzɤ˥$
 \or essei
@@ -14542,7 +14547,8 @@
 \or esseissei
 \mr ə˧-dzɤ˥$
 \ps adv
-\cf ə˧ze˧
+\sy ə˧ze˧
+\sy ə˧-dzɤ˥$
 \sd <langue="fra"> adverbe
 \sd <langue="eng"> adverb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté ɤ˧ dze˧ dze˥ i˧) “faire lentement" (notation avant 2009: ɖwæ˩˥ ɤ˧ ze˧ze˧ i˧ kv̩˧ +ɖɯ˧ v̩˧ ɲi˩˥) (tons confirmés avec dd) 2011: modifié en: dzɤ
@@ -14637,7 +14643,6 @@
 \gn 薄荷
 \df Menthe.
 \gf menthe
-\dt 27/Aug/2015
 
 \lx ə˧hɑ˩-bɑ˩lɑ˩
 \sf <nb="B"> 643
@@ -14647,9 +14652,9 @@
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <dom="sem" langue="fra"> Ce mot reprend les premières syllabes d'une chanson traditionnelle
+\nt <dom="sem" langue="fra"> Ce mot reprend la formule introductive d'une chanson traditionnelle.
 \ton L#-
-\lc ə˧hɑ˩bɑ˩lɑ˩
+\lc ɑ˧hɑ˩bɑ˩lɑ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14685,7 +14690,6 @@
 \xe I will show you in a moment!
 \xn 待会儿，我给你看吧！
 \xf Tout à l’heure je vais te montrer! / dans un moment, je te montrerai!
-\dt 28/Aug/2015
 
 \lx ə˧hwɤ˧
 \sf <nb="B"> 741
@@ -14695,9 +14699,11 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (notations anciennes: ɑ˥χwɤ˥; /hwɤ˥/) (+mv̩˩kʰv̩˩˧)
-\nt <dom="phono" langue="fra"> phonétiquement: [ɑ˧hwɤ˧]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ˧hwɤ˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ˧hwɤ˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ˧hwɤ˧}]。
 \ton M
-\lc ə˧hwɤ˧
+\lc ɑ˧hwɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14712,21 +14718,22 @@
 \xe yesterday evening, during the night
 \xn 昨晚，夜里
 \xf hier au soir, dans la nuit
-\dt 28/Aug/2015
 
 \lx ə˧hwɤ˧-zo˧hṽ̩˧˥
 \sf <nb="B"> 260
 \sf <nb="2011"> 340
 \or ehua ssohun
 \ps n
-\cf ə˧hwɤ˧
-\cf zo˧hṽ̩˧˥
+\mr ə˧hwɤ˧
+\mr zo˧hṽ̩˧˥
+\mc <langue="fra"> Littéralement “enfant né d'hier soir", c'est-à-dire nouveau-né.
+\mc <langue="eng"> Literally ‘child born last night’, i.e. new-born.
+\mc <langue="cmn"> 字面意思是 “昨晚出生的孩子”，即新生儿。
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (tons vérifiés, voyelles vérifiées; d'abord noté: ɑ˧hwɑ˧, æ˧hwɑ˧…)
-\nt <dom="sem" langue="fra"> littéralement “enfant né d'hier soir" càd tout juste né
 \ton -MH#
-\lc ə˧hwɤ˧zo˧hṽ̩˧˥
+\lc ɑ˧hwɤ˧zo˧hṽ̩˧˥
+\nt <type="hist" print="n" langue="fra"> (tons vérifiés, voyelles vérifiées; d'abord noté: ɑ˧hwɑ˧, æ˧hwɑ˧…)
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
@@ -14736,7 +14743,6 @@
 \gn 婴儿
 \df Bébé, nouveau-né, nourrisson.
 \gf nourrisson
-\dt 27/May/2018
 
 \lx ə˧ʝi˧-ʂɯ˥ʝi˩
 \sf <nb="B"> 799
@@ -14748,9 +14754,11 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (tons confirmés; d'abord noté ˧ ˧ ˥ ˧)
-\nt <dom="phono" langue="fra"> phonétiquement: [e˧i˧ʂɯ˥i˩]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧i˧ʂɯ˥i˩}], avec fort degré de coarticulation entre les deux premières syllabes.
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧i˧ʂɯ˥i˩}], with a strong degree of coarticulation between the first two syllables.
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧i˧ʂɯ˥i˩}]，前两个音节协同发音相当明显。
 \ton #H-
-\lc ə˧ʝi˧ʂɯ˥ʝi˩
+\lc e˧ʝi˧ʂɯ˥ʝi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14762,7 +14770,6 @@
 \gn 很久以前
 \df Jadis, aux temps anciens, il était une fois.
 \gf jadis
-\dt 13/Jun/2017
 
 \lx ə˧ʝi˧-tsʰi˧ʝi#˥
 \or eyiceeyi
@@ -14770,7 +14777,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \ton #H
-\lc ə˧ʝi˧tsʰi˧ʝi˧
+\lc e˧ʝi˧tsʰi˧ʝi˧
 \so F4
 \de These years, currently.
 \ge these_years
@@ -14778,7 +14785,6 @@
 \gn 现在这个时代
 \df Ces années-ci, actuellement.
 \gf actuellement
-\dt 24/Apr/2017
 
 \lx ə˧ʝi˥$
 \sf <nb="B"> 792
@@ -14789,7 +14795,7 @@
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> ton d2c (ə˧i˧ɲi˥) (tons confirmés le 11/11/2007; jusqu'en 2009, noté /e/ et non /ə/)
 \ton H$
-\lc ə˧ʝi˥
+\lc e˧ʝi˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ə˧ʝi˧
@@ -14800,7 +14806,6 @@
 \gn 去年
 \df L'année dernière, l'année passée, l'an passé, l'an dernier.
 \gf l_an_passé
-\dt 28/Aug/2015
 
 \lx ə˧jɤ˩
 \sf <nb="B"> 287a
@@ -14812,6 +14817,9 @@
 \nt <dom="phono" langue="fra"> [e˧jɤ˩]
 \ton L#
 \lc ə˧jɤ˩
+\sy ə˧mi˧-ɖɯ˩
+\cf ə˧mi˧-tɕi˩
+\cf ə˧tɕi˩
 \so F4
 \va <speaker="M21"> *
 \vc <langue="fra" print="n">/ə˧jɤ˩/ est refusé par ce locuteur.
@@ -14822,7 +14830,6 @@
 \gn 姨母 (比母亲大)
 \df Tante maternelle (sœur aînée de la mère).
 \gf sœur_aînée_de_la_mère
-\dt 28/Aug/2015
 
 \lx ə˩kʰɯ˩
 \sf <nb="B"> 1977
@@ -14831,7 +14838,6 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="phono" langue="fra"> (cf récit “travaux des champs" par F4)
 \ton L
 \lc ə˩kʰɯ˩˥
 \so F4
@@ -14846,6 +14852,8 @@
 \xe the root of wild cabbage
 \xn 芜菁的根
 \xf racine de navet
+\txtsup Agriculture.74
+\doisup 10.24397/pangloss-0004441#S74
 
 \lx ə˧lɑ˧
 \sf <nb="2011"> 1072
@@ -14855,7 +14863,7 @@
 \sd <langue="eng"> given name
 \nt <dom="sem" langue="fra"> C'est cette famille qui a donné son nom au village de |fv{ə˧lɑ˧-ʁwɤ˧}.
 \ton M
-\lc ə˧lɑ˧
+\lc ɑ˧lɑ˧
 \so F4
 \de Ela, a family name from Yongning. There are three families in Yongning that carry this name. This is one of the three first Na clans who settled in the vicinity of the monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
 \ge Ela
@@ -14878,15 +14886,17 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <dom="sem" langue="fra"> aussi appelé: ɖæ˩mi˧-kʰi˧ “la porte du monastère", étant situé tout près du monastère
+\nt <dom="sem" langue="fra"> La position de ce village situé tout près du monastère peut se décrire comme |fv{ɖæ˩mi˧-kʰi˧} “(à) la porte du monastère", désignation qui peut servir de synonyme du nom `Alawua'.
+\nt <dom="sem" langue="eng"> The position of this village very close to the monastery can be described as |fv{ɖæ˩mi˧-kʰi˧} ‘(at) the monastery gate’, a designation that can serve as a synonym for the name `Alawua'.
+\nt <dom="sem" langue="cmn"> 这个村庄离寺院（扎美寺）很近，于是可以用|fv{ɖæ˩mi˧-kʰi˧}“寺院门口”来形容。这个称谓可以作为‘阿拉瓦’这一村名的同义词。
 \ton #H
-\lc ə˧lɑ˧ʁwɤ˧
+\lc ɑ˧lɑ˧ʁwɤ˧
 \so F4
-\de A hamlet of Yongning, close to the monastery. Romanized Na: Alawua; Chinese name: Alawa.
+\de Alawua, a hamlet of Yongning, close to the monastery. (This hamlet is the birthplace of the main consultant: the dictionary's second author.)
 \ge village_name
 \dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭。）经纬度：100.6571941,27.7676599
 \gn 阿拉瓦村
-\df Un hameau de Yongning, proche du monastère (lieu de naissance de la consultante principale). Nom chinois: Alawa. Nom en na romanisé: Alawua.
+\df Alawua, un hameau de Yongning, proche du monastère. (Ce hameau est le lieu de naissance de la consultante principale.)
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
@@ -14917,9 +14927,11 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> est un terme d'adresse, se prête difficilement à association avec un classificateur (tel que ɖɯ˧jɤ˧˥) (selon ts, peut-être mot emprunté à des langues voisines: chinois? yi?)
-\nt <dom="phono" langue="fra"> [ɑ˧mɑ˧]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ˧mɑ˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ˧mɑ˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ˧mɑ˧}]。
 \ton M
-\lc ə˧mɑ˧
+\lc ɑ˧mɑ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -14943,24 +14955,25 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> employé aussi pour “marâtre"
-\nt <dom="phono" langue="fra"> [e˧mi˧]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧mi˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧mi˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧mi˧}]。
 \ton M
-\lc ə˧mi˧
+\lc e˧mi˧
 \so F4
 \va <speaker="M18"> ID.
 \pdv v̩˧
 \pdv jɤ˧˥
-\de Mother; aunt.
+\de Mother. The word is also used as a term of address for maternal aunts, and for women of the mother's generation outside the household and even outside the family. Literal and extended uses of the word are distinguished, not only by context, but also by various combinations with adjectives (`little mother' and `elder mother' refer to aunts younger and older than the mother, respectively) or with a family name or given name.
 \ge mother/aunt
-\dn 母亲、姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘
+\dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭话的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
 \gn 母亲/姑母
-\df Mère; le terme s'emploie aussi pour désigner les tantes.
+\df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel...
 \gf mère/tante
 \xv ə˧mi˧=ɻæ˩
-\xe 〜 |fg{pl}
+\xe 〜 |fg{pl}: `mothers', understood as: all women who have children (i.e. who are older than young girls, and younger than grandmothers).
 \xn 母亲们 =长辈女性
-\xf 〜 |fg{pl}: les mères =les femmes de la génération supérieure
-\dt 28/Aug/2015
+\xf 〜 |fg{pl}: les mères, ce qui s'entend comme: toute la génération des femmes qui ont des enfants (plus âgées que les jeunes filles, plus jeunes que les grand-mères).
 
 \lx ə˧mi˧-ɖɯ˩
 \sf <nb="B"> 287b
@@ -14970,10 +14983,11 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> faute de frappe corrigée en juillet 2012: avais noté ‡ə˧mi˩-ɖɯ˩
-\nt <dom="sem" langue="fra"> grande maman
-\nt <dom="phono" langue="fra"> [e˧mi˩ɖɯ˩]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧mi˩ɖɯ˩}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧mi˩ɖɯ˩}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧mi˩ɖɯ˩}]。
 \ton L#
-\lc ə˧mi˧ɖɯ˩
+\lc e˧mi˧ɖɯ˩
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
@@ -14984,7 +14998,6 @@
 \gn 姨母 (比母亲大)
 \df Tante maternelle (sœur aînée de la mère).
 \gf sœur_aînée_de_la_mère
-\dt 24/Apr/2017
 
 \lx ə˧mi˧-mv̩˩
 \or ami muq
@@ -14992,7 +15005,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton L#
-\lc ə˧mi˧mv̩˩
+\lc e˧mi˧mv̩˩
 \so F4
 \de Mother and daughter.
 \ge mother_and_daughter
@@ -15000,7 +15013,6 @@
 \gn 母女
 \df Mère et fille.
 \gf mère_et_fille
-\dt 24/Apr/2017
 
 \lx ə˧mi˧-tɕi˩
 \sf <nb="B"> 287d
@@ -15012,7 +15024,8 @@
 \nt <type="hist" print="n" langue="fra"> (n'est pas tɕɯ)
 \nt <dom="sem" langue="fra"> petite maman
 \ton L#
-\lc ə˧mi˧tɕi˩
+\lc e˧mi˧tɕi˩
+\sy ə˧tɕi˩
 \so F4
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
@@ -15021,7 +15034,6 @@
 \gn 姨母 (比母亲小)
 \df Tante (sœur cadette de la mère).
 \gf sœur_cadette_de_la_mère
-\dt 24/Apr/2017
 
 \lx ə˧mi˧-ze˩mi˩
 \sf <nb="2011"> 397
@@ -15031,7 +15043,7 @@
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d1+d3)
 \ton -L
-\lc ə˧mi˧ze˩mi˩
+\lc e˧mi˧ze˩mi˩
 \so F4
 \de Aunt and niece.
 \ge aunt_and_niece
@@ -15039,7 +15051,6 @@
 \gn 姨母与侄女或甥女
 \df Tante et nièce.
 \gf tante_et_nièce
-\dt 24/Apr/2017
 
 \lx ə˧mi˧-zo#˥
 \sf <nb="B"> 337
@@ -15049,7 +15060,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc ə˧mi˧zo˧
+\lc e˧mi˧zo˧
 \so F4
 \va <speaker="M18"> ID.
 \vc <type="hist" print="n" langue="fra"> également: /ə˧mi˧ lɑ˧ zo˧/; d'abord noté: (ə˧mi˧ lɑ˧zu˥); /zo˧ lɑ˩ | ə˧mi˧/ (d'abord noté zu˧lɑ˧ə˧mi˧)
@@ -15061,7 +15072,27 @@
 \gn 母子
 \df Mère et fils.
 \gf mère_et_fils
-\dt 24/Apr/2017
+
+\lx ə˧mv̩˧˥
+\sf <nb="B"> 311
+\sf <nb="B"> 307
+\sf <nb="2011"> 386
+\or amu
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton MH#
+\lc æ˧mv̩˧˥
+\sy ə˧mv̩˩
+\so F4
+\va <speaker="M23"> ID.
+\pdv v̩˧
+\de Elder sibling (brother or sister). The term is also used to refer to elder cousins (the daughters and sons of one's mother's sisters).
+\ge elder_sibling
+\dn 哥哥，姐姐（该词也用于指堂哥堂姐：母亲姐妹的孩子们）
+\gn 哥哥/姐姐
+\df Aîné·e: grand frère, grande sœur (adelphe aîné·e). Le terme est également utilisé pour désigner les cousines et cousins plus âgés que soi (filles et fils des sœurs de la mère).
+\gf grand_frère/grande_sœur
 
 \lx ə˧mv̩˩
 \sf <nb="B"> 311
@@ -15071,10 +15102,10 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (noté ˥ ˩ ˩ en 2007; notation 2006: “æ˥mv̩˧ʁæ˩; tons confirmés; d'abord noté ˧˩˩")
-\nt <dom="phono" langue="fra"> variante tonale MH#: æ˧mv̩˧˥, æ˧mv̩˧ ɲi˥; idem chez M23
+\nt <type="hist" print="n" langue="fra"> (noté ˥ ˩ ˩ en 2007; notation 2006: “æ˥mv̩˧ʁæ˩; tons confirmés; d'abord noté ˧ ˩ ˩")
 \ton L#
-\lc ə˧mv̩˩
+\lc æ˧mv̩˩
+\sy ə˧mv̩˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -15091,7 +15122,6 @@
 \xe |fg{pl}: elder siblings
 \xn 复数：哥哥们、姐姐们
 \xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aînés
-\dt 28/Aug/2015
 
 \lx ə˧mv̩˧-gi˥zɯ˩
 \sf <nb="B"> 315
@@ -15102,9 +15132,11 @@
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; notation 2006: ˧˧˥˧) (intéressant, tons confirmés) (est différent de 309)
 \nt <type="hist" print="n" langue="fra"> (corrigé le 5/11/2007; notation 2006: “æ˧mv̩˧gi˧zɯ˥; tons confirmés, pas les mêmes qu'ama")
-\nt <dom="phono" langue="fra"> on ne peut dire ‡æ˧mv̩˩-gi˩zɯ˩, forme qui serait attendue si le composé était fondé sur la variante æ˧mv̩˩ et non sur la variante æ˧mv̩˧˥.
+\nt <dom="phono" langue="fra"> On ne peut dire /|fg{‡æ˧mv̩˩-gi˩zɯ˩}/, forme qui serait attendue si le composé était fondé sur la variante /|fg{æ˧mv̩˩}/ et non sur la variante /|fg{æ˧mv̩˧˥}/.
+\nt <dom="phono" langue="eng"> One cannot say /|fg{‡æ˧mv̩˩-gi˩zɯ˩}/, the form that would be expected if the compound were based on the /|fg{æ˧mv̩˩}/ variant and not on the /|fg{æ˧mv̩˧˥}/ variant.
+\nt <dom="phono" langue="cmn"> 如果这个复合词是基于ML本调变体/|fg{æ˧mv̩˩}/而不是基于MH#变体/|fg{æ˧mv̩˧˥}/，就会出现/|fg{‡æ˧mv̩˩-gi˩zɯ˩}/这种形式。但不能说/|fg{‡æ˧mv̩˩-gi˩zɯ˩}/，于是可以下结论：/|fg{‡ə˧mv̩˧-gi˥zɯ˩}/这个复合词是基于/|fg{æ˧mv̩˧˥}/这个变体。
 \ton #H-
-\lc ə˧mv̩˧gi˥zɯ˩
+\lc æ˧mv̩˧gi˥zɯ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -15124,13 +15156,13 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton -H#
-\lc ə˧mv̩˧go˧mi˥
-\nt <type="hist" print="n" dom="ton" langue="fra"> Confirmation des tons le onze décembre (2006?): M.M.M.H (˧ ˧ ˧ ˥), on ne peut pas dire M.H.M.M (˧ ˥ ˧ ˧) (schème tonal employé par M18).
+\lc æ˧mv̩˧go˧mi˥
+\nt <type="hist" print="n" dom="ton" langue="fra"> Confirmation des tons le 11 décembre 2006: M.M.M.H (˧ ˧ ˧ ˥), on ne peut pas dire M.H.M.M (˧ ˥ ˧ ˧) (schème tonal employé par M18).
 \so F4
-\va <speaker="M18"> æ˧mv̩˥gu˩mi˩
+\va <speaker="M18"> æ˧mv̩˥-gu˧mi˧
 \vc <langue="fra" type="hist" print="n" dom="ton"> tons vérifiés; d'abord noté /æ˧m˩ gu˧mi˧/, sans changement de ton.
 \va <speaker="M21"> ID.
-\va <speaker="M23"> æ˧mv̩˧gu˥mi˩
+\va <speaker="M23"> æ˧mv̩˧-gu˥mi˩
 \de Sisters, irrespective of age (elder as well as younger). The term is also used to refer to cousins (the daughters of one's mother's sisters).
 \ge sisters
 \dn 姐妹：姐姐们与妹妹们。该词也用于指堂姐堂妹弟：母亲姐妹的女孩们。
@@ -15148,9 +15180,9 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /æ˧mv̩˥tɕi˧ gv̩˧/) (n'est pas tɕɯ)
-\nt <dom="phono" langue="fra"> idée d'analyse en novembre 2008: serait ə.mv̩.tɕi, le æ étant déterminé par le /v̩/ de la 2e syllabe? analyse très plausible; mais la voyelle /ə/ se colorant moins nettement en [æ] dans d'autres contextes similaires, par ex. interrogatif /ə/+/mv̩/ “comprendre", il est plus prudent de noter phonétiquement, pour la description.
+\nt <type="hist" print="n" dom="phono" langue="fra"> Idée d'analyse en novembre 2008: le mot serait à analyser au plan segmental comme /ə.mv̩.tɕi/, la coloration [æ] de la voyelle initiale de mot étant déterminée par le /v̩/ de la deuxième, par un phénomène d'harmonie vocalique. Cette analyse apparaissait tout à fait plausible, mais la voyelle /ə/ se colorait moins nettement en [æ] dans d'autres contextes similaires, par exemple lorsque l'interrogatif /ə/ précédait le verbe /mv̩/ “comprendre". Il est donc apparu plus prudent, à ce stade de la description, de noter la voyelle phonétiquement, comme un [æ]. Rétrospectivement (en 2024), il apparaît que l'harmonie vocalique est plus forte au sein d'un même composant (expression plurisyllabique en voie de lexicalisation ou déjà bien lexicalisée) qu'entre morphèmes moins fortement liés, tels que le sont un morphème interrogatif et un verbe. Cette généralisation permet de noter un /ə/ dans les divers cas, le degré de coloration acquis par harmonie vocalique étant fonction de paramètres morphosyntaxiques.
 \ton H#-
-\lc ə˧mv̩˥tɕi˩
+\lc æ˧mv̩˥tɕi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -15172,7 +15204,6 @@
 \xe a little piece, a little bit
 \xn 一小块
 \xf un petit morceau
-\dt 13/Jun/2017
 
 \lx ə˧ɲi˧mɤ˩
 \sf <nb="B"> 356
@@ -15238,7 +15269,6 @@
 \gn 近来
 \df Ces temps-ci, ces jours-ci.
 \gf ces_jours_ci
-\dt 24/Apr/2017
 
 \lx ə˧ɲi˥$
 \sf <nb="B"> 731
@@ -15247,7 +15277,7 @@
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> en cadre: ə˧ɲi˧ɲi˥; càd comme un ton d2c
+\nt <type="hist" print="n" langue="fra"> en cadre: ə˧ɲi˧ ɲi˥; càd comme un nom au ton d2c
 \ton H$
 \lc ə˧ɲi˥
 \so F4
@@ -15260,7 +15290,6 @@
 \gn 昨天
 \df Hier.
 \gf hier
-\dt 28/Aug/2015
 
 \lx ə˧pʰv̩˧
 \sf <nb="B"> 333a
@@ -15269,26 +15298,29 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> [æ˧pʰv̩˧]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{æ˧pʰv̩˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{æ˧pʰv̩˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{æ˧pʰv̩˧}]。
 \ton M
-\lc ə˧pʰv̩˧
+\lc æ˧pʰv̩˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Grandmother's brother=mother's uncle (on her mother's side); extended meaning: male elder two generations above oneself.
+\de Maternal great-uncle. A brother of the grandmother, in other words an uncle of the mother and her sisters and brothers. The term is also used in an extended sense to refer respectfully to a male elder two generations above oneself.
 \ge grandmother_s_brother
-\dn 母亲的舅舅，舅姥爷：姥姥的哥哥或弟弟。泛指：“祖父”
+\dn 舅姥爷：姥姥的哥哥或弟弟。换言之，母亲及其兄弟姐妹的舅舅。这个词也用来泛指比自己高两辈的男性人物。
 \gn 舅姥爷
-\df Frère de la grand-mère = oncle de l'oncle maternel = oncle de la mère; sens étendu: personnage masculin important deux générations au-dessus de soi.
-\gf aîné_de_la_grand_mère
+\df Grand-oncle maternel. Il s'agit d'un frère de la grand-mère, autrement dit d'un oncle de la mère et de ses sœurs et frères. Le terme s'emploie également dans un sens étendu pour désigner de façon respectueuse un personnage masculin deux générations au-dessus de soi.
+\gf grand_oncle_maternel
 
 \lx ə˩qo˥
 \or egho
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n" langue="fra"> xxxx à vérifier à nouveau en 2025
 \ton LH
 \lc ə˩qo˥
 \so F4
@@ -15317,22 +15349,23 @@
 \ge great_grandmother/3rd_generation_elders
 \dn 祖母。泛指：祖母与其兄弟姐妹
 \gn 祖母
-\df Arrière-grand-mère (bisaïeule); sens étendu: bisaïeule et ses frères et sœurs, c'est-à-dire les membres importants de la famille à la 3e génération.
+\df Arrière-grand-mère (bisaïeule); sens étendu: bisaïeule et ses frères et sœurs, c'est-à-dire les membres importants de la famille à la troisième génération au-dessus.
 \gf bisaïeule
-\dt 28/Aug/2015
 
-\lx ə˧si˧-ə˧pʰv̩#˥
+\lx ə˧si˧-æ˧pʰv̩#˥
 \sf <nb="B"> 270b
 \sf <nb="2011"> 393
 \or asee apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (notation 2009; auparavant: ɤ˥ sɯ˥ ɤ˥ pʰv̩˥)
-\nt <type="hist" print="n" langue="fra"> M23: confirmé, est /si/ et non /sɯ/
-\nt <dom="phono" langue="fra"> proche de [ɤ˧si˧æ˧pʰv̩˧]
+\nt <type="hist" print="n" langue="fra"> Avant 2009: noté ɤ˥ sɯ˥ ɤ˥ pʰv̩˥.
+\nt <type="hist" print="n" langue="fra" dom="phono"> M23: confirmé, est /si/ et non /sɯ/
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ə˧si˧æ˧pʰv̩˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ə˧si˧æ˧pʰv̩˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ə˧si˧æ˧pʰv̩˧}]。
 \ton #H
-\lc ə˧si˧ə˧pʰv̩˧
+\lc ə˧si˧æ˧pʰv̩˧
 \so F4
 \va <speaker="F5"> ID.
 \vc <langue="fra" print="n"> Ancêtres féminins et masculins: outre la formule employée par F4, la locutrice emploie également une formule /ɤ˥ sɯ˥ ɤ˥ pʰv̩˥ tɑ˧ lɑ˧/ (réinterprétation 2024: ə˧si˧-ə˧pʰv̩˧ | tɑ˧ lɑ˧), tons à vérifier: sans doute /tɑ˩lɑ˧/.
@@ -15352,9 +15385,11 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> Avant 2014: interprété comme: ce matin (fin de matinée; un peu avant le déjeuner)
-\nt <dom="phono" langue="fra"> phonétiquement: ɑ˧so˧
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ˧so˧}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ˧so˧}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ˧so˧}]。
 \ton M
-\lc ə˧so˧
+\lc ɑ˧so˧
 \so F4
 \de A short time ago, a moment ago.
 \ge a_moment_ago
@@ -15362,7 +15397,6 @@
 \gn 刚才
 \df Tout à l'heure, il y a un moment.
 \gf tout_à_l_heure
-\dt 28/Aug/2015
 
 \lx ə˧-sɯ˩kv̩˩
 \sf <nb="B"> 2159
@@ -15418,7 +15452,6 @@
 \xe One day, some time ago.
 \xn 前段时间的一天
 \xf Un jour, il y a quelque temps
-\dt 24/Apr/2017
 
 \lx ə˧tɕi˩
 \sf <nb="B"> 287c
@@ -15428,9 +15461,12 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (refuse la réalisation du suffixe de pluriel comme un simple /ɻ/) (n'est pas tɕɯ)
-\nt <dom="phono" langue="fra"> [e˧tɕi˩]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧tɕi˩}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧tɕi˩}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧tɕi˩}]。
 \ton L#
-\lc ə˧tɕi˩
+\lc e˧tɕi˩
+\sy ə˧mi˧-tɕi˩
 \so F4
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
@@ -15443,7 +15479,6 @@
 \xe |fg{pl}: aunts
 \xn 姨母们
 \xf |fg{pl}: les tantes
-\dt 28/Aug/2015
 
 \lx ə˧ti˥-dzi˩
 \or Adizzee
@@ -15508,9 +15543,12 @@
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="phono" langue="fra"> phonétiquement: [ɑ.tso]; noté ainsi jusqu'au début 2012
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ.tso}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ.tso}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ.tso}]。
+\nt <dom="phono" langue="fra" type="hist" print="n"> Le mot a été noté avec une voyelle ɑ initiale (ɑ.tso) jusqu'au début de l'année 2012.
 \ton M
-\lc ə˧tso˧
+\lc ɑ˧tso˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -15542,24 +15580,27 @@
 \xe He is covetous / he is greedy! (in a broad sense, not limited to eating) Literally: ‘He wants whatever he sees!’
 \xn 他贪心不足，他很贪心！直译：‘见什么就想要什么！’
 \xf C'est quelqu'un d'avide! Littéralement: ‘Tout ce qu'il voit, il le veut!’
-\dt 28/Aug/2015
 
 \lx ə˧tso˧-mɤ˧-ɲi˩
 \or aezo meni
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> de: /ə˧tso˧/ ‘quoi'+nég+copule. Considéré comme formant bloc.
+\mr ə˧tso˧
+\mr mɤ˧-
+\mr ɲi˩α3
+\mc <langue="fra"> Cette expression est composée de /|fv{ə˧tso˧}/ ‘quoi' suivi de la négation et de la copule. Sa composition demeure transparente; elle est néanmoins considérée comme formant bloc au point de mériter une entrée de dictionnaire.
+\mc <langue="eng"> This expression is made up of /|fv{ə˧tso˧}/ ‘what’ followed by the negation and the copula. Its composition remains transparent; it is nevertheless considered to form a set phrase deserving a dictionary entry of its own.
+\mc <langue="cmn"> 这个短语由 /|fv{ə˧tso˧}/‘什么’、否定词和系动词组成的。它的内部结构仍然是透明的，但还是能视为已经固定的短语，值得在词典中单独列出一个词条。
 \ton L#
-\lc ə˧tso˧mɤ˧ɲi˩
+\lc ɑ˧tso˧mɤ˧ɲi˩
 \so F4
 \de All, all sorts of.
 \ge all_sorts_of
 \dn 各种
 \gn 各种
-\df Tout, toutes les sortes de.
+\df Tout, toutes sortes de.
 \gf tout
-\dt 24/Apr/2017
 
 \lx ə˧tso˧~ə˧tso˥
 \or aezo aezo
@@ -15567,7 +15608,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton H#
-\lc ə˧tso˧ə˧tso˥
+\lc ɑ˧tso˧ɑ˧tso˥
 \so F4
 \de What (reduplicated).
 \ge |fg{interrog.what}~
@@ -15730,14 +15771,15 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d'abord noté e˧ ʐi˩˥)
-\nt <dom="phono" langue="fra"> [e˧ʑi˧˥]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧ʑi˧˥}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧ʑi˧˥}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧ʑi˧˥}]。
 \ton MH#
-\lc ə˧ʑi˧˥
+\lc e˧ʑi˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vc <print="n" langue="fra"> Exemple: /e˧ʑi˧ lə˧-mu˩-ze˩/, grand-mère a vieilli
 \pdv v̩˧
 \de Grandmother (on mother's side); elderly woman.
 \ge grandmother_on_mother_s_side
@@ -15749,40 +15791,46 @@
 \xe I shall have to learn to be a grandmother! / I shall have to learn to behave as a grandmother! (Humorous remark by the main consultant, after a doctor has advised her to avoid low, soft seats such as sofas and to adopt a taller wooden chair. Paraphrase: “I guess I have entered the category of elderly persons!")
 \xn 我要学习当老太太了！（情景：一位医生建议合作人不要坐在小凳子或者软沙发上了，而要坐更高的木头椅子。她幽默地说：“看来我是老年人了！”）
 \xf Il va falloir que j'apprenne à me comporter (sagement) comme une grand-mère! (Contexte: remarque teintée d'humour de la consultante principale face à l'âge qui vient et ses soucis: un médecin lui déconseille les sofas/assises molles et lui recommande une chaise haute en bois; elle se fait la réflexion qu'elle a vieilli et doit maintenant apprendre à prendre des précautions.)
-\dt 28/Aug/2015
+\xc ə˧ʑi˧ le˧-mo˩-ze˩
+\xe The grandmother has aged, the grandmother is getting old.
+\xn 奶奶老了。
+\xf La grand-mère a vieilli, la grand-mère se fait vieille
+\rf M21
 
 \lx ə˧ʑi˧-ə˧pʰv̩˧˥
 \sf <nb="B"> 2309
 \sf <nb="2011"> 391
 \or axxi apeu
+\mr ə˧ʑi˧˥
+\mr ə˧pʰv̩˧
 \ps n
-\cf ə˧ʑi˧˥
-\cf ə˧pʰv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> formé de d2b+d1 (avant 2009: noté: ˧ ˧ ˧ ˥)
-\nt <dom="phono" langue="fra"> [e˧ʑi˧æ˧pʰv̩˧˥]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧ʑi˧æ˧pʰv̩˧˥}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧ʑi˧æ˧pʰv̩˧˥}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧ʑi˧æ˧pʰv̩˧˥}]。
 \ton MH#
-\lc ə˧ʑi˧ə˧pʰv̩˧˥
+\lc e˧ʑi˧ə˧pʰv̩˧˥
 \so F4
 \de Elders by two generations: the grandmother and her brothers.
 \ge elders_by_two_generations
 \dn 奶奶与她的兄弟
 \gn 奶奶与她的兄弟
-\df La grand-mère et ses frères: les aînés 2 génération au-dessus de soi.
+\df La grand-mère et ses frères: les aînés deux générations au-dessus de soi.
 \gf grand_mère_et_ses_frères
 
 \lx ə˧ʑi˧-ʐv̩˥mi˩
 \sf <nb="2011"> 396
 \or axxi rumi
 \ps n
-\cf ə˧ʑi˧˥
-\cf ʐv̩˧mi#˥
+\mr ə˧ʑi˧˥
+\mr ʐv̩˧mi#˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; formé de: d2b+d2a; reporté sur tableau; mais corrigé en 2012, auparavant noté ə˧ʑi˥-ʐv̩˩mi˩)
 \ton #H-
-\lc ə˧ʑi˧ʐv̩˥mi˩
+\lc e˧ʑi˧ʐv̩˥mi˩
 \so F4
 \de Grandmother and granddaughter.
 \ge grandmother_and_granddaughter
@@ -15790,7 +15838,6 @@
 \gn 奶奶与孙女
 \df Grand-mère et petite-fille.
 \gf grand_mère_et_petite_fille
-\dt 24/Apr/2017
 
 \lx ə˧zo˩-ʁwɤ˩
 \or Assowua
@@ -15798,7 +15845,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#-
-\lc ə˧zo˩ʁwɤ˧
+\lc ə˧zo˩ʁwɤ˩
 \so F4
 \de A village close to the Hot Springs.
 \ge village_name
@@ -15806,7 +15853,6 @@
 \gn 温泉乡的一个村落
 \df Un village proche des Sources Chaudes.
 \gf nom_de_village
-\dt 13/Jun/2017
 
 \lx ə˧ʐv̩˩
 \sf <nb="B"> 1008
@@ -15831,7 +15877,6 @@
 \xe old meat, meat that is not fresh
 \xn 陈肉、不新鲜的肉
 \xf de la vieille viande, de la viande pas fraîche
-\dt 28/Aug/2015
 
 \lx ə˩-
 \sf <nb="2011"> 1338
@@ -16213,10 +16258,13 @@
 \sf <nb="B"> 453d
 \sf <nb="2011"> 597
 \or ggaepae
+\mr gɤ˩-
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="phono" langue="fra"> provient très certainement de gɤ˩pʰæ˧ par harmonie vocalique
+\nt <dom="ety" langue="fra"> Il paraît tout à fait clair que ce terme provient d'une forme |fv{*gɤ˩pʰæ˧}, par harmonie vocalique.
+\nt <dom="ety" langue="eng"> It seems perfectly clear that this term comes from |fv{*gɤ˩pʰæ˧}, by vowel harmony.
+\nt <dom="ety" langue="cmn"> 这个词似乎很明显来自|fv{*gɤ˩pʰæ˧}，通过元音和谐变成了|fv{*gæ˩pʰæ˧}。
 \ton LM
 \lc gæ˩pʰæ˥
 \cf mv̩˩pʰæ˧
@@ -16554,12 +16602,13 @@
 \or ggiq
 \mr gɯ˩α2
 \mr ʝi˥
+\mc <langue=fra> Ce morphème est issu de la contraction de |fv{gɯ˩α2} et |fv{ʝi˥}.
+\mc <langue=eng> This morpheme originates in the coalescence of |fv{gɯ˩α2} and |fv{ʝi˥}.
+\mc <langue=cmn> 此语素来自|fv{gɯ˩α2}与|fv{ʝi˥}的和音。
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (explication de ts; confirmé par F4)
-\nt <dom="sem" langue="fra"> /gi˩˥ | gɯ˩˥/ est la contraction de /gɯ˩-ʝi˥ | gɯ˩˥/
-\nt <dom="phono" langue="fra"> (phonétiquement, dans gi˩˥ gɯ˩˥, la première syllabe est plus longue que la deuxième, son ton monte plus haut)
+\nt <type="hist" print="n" langue="fra" dom="ety"> L'analyse de ce morphème comme une contraction de deux morphèmes a été fournie par M18, et confirmée par F4.
 \ton Lα
 \lc gi˩˥
 \so F4
@@ -16585,11 +16634,16 @@
 \xe to speak the truth, to tell the truth
 \xn 说实话，老实说
 \xf dire vrai
-\xv gi˩˥ | -gɯ˩˥
+\xv gi˩˥ | gɯ˩˥
 \xe truly, veritably
 \xn 真的，真正的
 \xf vraiment, véritablement
-\dt 02/Sep/2015
+\xc <dom="morpho" langue="fra"> Cette expression est la contraction de /|fv{gɯ˩-ʝi˥ | gɯ˩˥}/.
+\xc <dom="morpho" langue="eng"> This phrase is a coalescent (contracted) form of /|fv{gɯ˩-ʝi˥ | gɯ˩˥}/.
+\xc <dom="morpho" langue="cmn"> 此短语来自/|fv{gɯ˩-ʝi˥ | gɯ˩˥}/的和音。
+\xc <dom="phono" langue="fra"> Phonétiquement, la première syllabe, /|fv{gi˩˥}/, a une durée plus longue que la seconde, et son ton montant atteint une hauteur plus élevée.
+\xc <dom="phono" langue="eng"> Phonetically, the first syllable, /|fv{gi˩˥}/, has greater duration than the second one, and its rising tone reaches higher pitch.
+\xc <dom="phono" langue="cmn"> 从语音上看，第一个音节/|fv{gi˩˥}/的时长比第二个音节长，其上升调也达到更高的音高。
 
 \lx gi˥α
 \sf <nb="B"> 843
@@ -17092,8 +17146,10 @@
 \cf gɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> avant 2011: noté comme voyelle /e/, puis /ə/; notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> gɤ˩: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Notation à partir de 2014: /gɤ˩-…/, généralement accompagné d'un accent d'insistance, ↑
+\nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. Avant 2011: noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2014, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-qo˧/}.
+\nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-qo˧/}.
+\nt <dom="phono" langue="cmn"> /fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-qo˧/}。
 \ton L-M
 \lc gɤ˩qo˥
 \so F4
@@ -17127,11 +17183,13 @@
 \lx gɤ˩qwɤ˧
 \sf <nb="2011"> 590
 \or ggeghua
+\mr gɤ˩-
+\mr qwɤ˧
+\mc <langue="fra"> littéralement: “le contrehaut du foyer"
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" print="n" langue="fra"> vérifié en juillet 2011: initiale deuxième syllabe est vélaire et non uvulaire; mais, 30 septembre: s'avère en fait être uvulaire
-\nt <dom="sem" langue="fra"> formé de: gɤ˩ “au-dessus" et kwɤ˧ “foyer"; littéralement “le haut du foyer"
 \ton LM
 \lc gɤ˩qwɤ˥
 \so F4
@@ -17142,7 +17200,6 @@
 \gn 火炉旁边的祭坛
 \df Autel en contrehaut du foyer, où on dépose les présents qu'apportent les invités/les membres de la famille, les offrant ainsi aux ancêtres.
 \gf autel_proche_du_foyer
-\dt 13/Jun/2017
 
 \lx gɤ˩ʁwɤ˧
 \sf <nb="B"> 40b
@@ -17228,8 +17285,10 @@
 \cf gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. Avant 2011: noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2014, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="cmn"> /fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}。
 \ton L-#H
 \lc gɤ˩ʈʂʰɯ˧gi˧
 \so F4
@@ -17250,7 +17309,9 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="cmn"> /fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}。
 \ton L-#H
 \lc gɤ˩ʈʂʰɯ˧qo˧
 \so F4
@@ -17273,7 +17334,9 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧-gi#˥/}.
+\nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-tʰv̩˧-gi#˥/}.
+\nt <dom="phono" langue="cmn"> /fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-tʰv̩˧-gi#˥/}。
 \ton L-#H
 \lc gɤ˩tʰv̩˧gi˧
 \so F4
@@ -17283,7 +17346,6 @@
 \gn 那里（指高处）
 \df Au loin par là-haut, de ce côté tout là-haut.
 \gf au_loin_là_haut
-\dt 13/Jul/2017
 
 \lx gɤ˩-tʰv̩˧qo˧
 \sf <nb="B"> 903
@@ -17296,7 +17358,9 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> /gɤ˩/: ton phonologique bas; est réalisé montant, haut, ou “super-haut" descendant à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Généralement accompagné d'un accent d'insistance, /↑gɤ˩-…/
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧qo˧/}.
+\nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-tʰv̩˧qo˧/}.
+\nt <dom="phono" langue="cmn"> /fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-tʰv̩˧qo˧/}。
 \ton L-#H
 \lc gɤ˩tʰv̩˧qo˧
 \so F4
@@ -17306,7 +17370,6 @@
 \gn 那里（指高处）
 \df Au loin par là-haut, de ce côté tout là-haut.
 \gf au_loin_là_haut
-\dt 13/Jul/2017
 
 \lx go˩α
 \sf <nb="B"> 300
@@ -17882,9 +17945,13 @@
 \df Bon (bon cœur).
 \gf bon(cœur)
 \xv ɖwæ˧˥ | gv̩˧!
-\xe |fg{intensive.very}
+\xe |fg{intensive} 〜: very good
 \xn 很好！
-\xf |fg{intensif.très}
+\xf |fg{intensif} 〜: très bon
+\xv gv̩˧ | ʐwæ˩˥!
+\xe 〜 |fg{intensive}: extremely good
+\xn 非常好。
+\xf 〜 |fg{intensif}: extrêmement bon
 \xv mɤ˧-gv̩˧
 \xe |fg{neg}
 \xn 不好
@@ -18005,7 +18072,6 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (initiale /d/ non rétroflexe)
-\nt <dom="sem" langue="fra"> on n'utilise pas le terme /gv̩˧sɯ˥/ mais celui-ci apparaît dans “omoplate"
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -18165,7 +18231,7 @@
 \gf planche_fine
 \dt 24/Apr/2017
 
-\lx gv̩˧sɯ˥-pv̩˩
+\lx gv̩˧sɯ˥pv̩˩
 \sf <nb="B"> 144
 \sf <nb="2011"> 211
 \or ggusibu
@@ -18173,7 +18239,9 @@
 \lc gv̩˧sɯ˥pv̩˩
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" langue="fra"> (corrigé le 5/11/2007; notation 2006: “gv̩˧ sɯ˥ pv̩˧; tons à vérifier: serait-ce ˧˥˩?") (vérifié: n'est pas /si/)
+\nt <type="hist" print="n" langue="fra" dom="ton"> Notation 2006: “gv̩˧ sɯ˥ pv̩˧; tons à vérifier: serait-ce ˧ ˥ ˩?" Corrigé le 5/11/2007 en gv̩˧sɯ˥pv̩˩.
+\nt <type="hist" print="n" langue="fra" dom="phono"> Vérifié: n'est pas /si/. xxxx à vérifier: la rime de la troisième syllabe serait-elle /ɻ̩/? (/pɻ̩˩̩/)
+\nt <dom="morpho" langue="fra"> Le découpage morphologique n'est pas encore bien établi. Il ne paraît pas s'agir de |fv{†gv̩˧sɯ˥} suivi d'un monosyllabe /|fv{†pv̩}/: ces formes ne sont pas attestées jusqu'à présent. Il n'existe pas non plus à l'heure actuelle d'argument pour un découpage /|fv{gv̩˧-sɯ˥pv̩˩}/.
 \ton H#-L
 \so F4
 \va <speaker="F5"> ID.
@@ -18246,7 +18314,6 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> Homophone avec “bon (d'une personne)": gv̩˧ | ʐwæ˩˥!
 \de To prepare (a meal), to cook.
 \ge to_cook/to_prepare
 \dn 做（饭）
@@ -20861,7 +20928,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé)
-\nt <dom="phono" langue="fra"> mɤ˧-gv̩˧ze˧! “ça ne va pas!"
+\nt <dom="usage" langue="fra"> Un équivalent en langue na, sans recourir à un emprunt, consisterait à dire: |fv{mɤ˧-gv̩˧-ze˧!} «ça ne va pas!»
+\nt <dom="usage" langue="eng"> A close Na-language equivalent to express this uneasy feeling is |fv{mɤ˧-gv̩˧-ze˧!} “It's not going well! / I'm not OK!”
+\nt <dom="usage" langue="cmn"> 摩梭话可以用|fv{mɤ˧-gv̩˧-ze˧!}（‘不好了／不行了！’）这个说法来表达后悔这类情感。
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.

@@ -33,9 +33,9 @@ Au 16 avril 2017 : c'est na.lex, dans na_W\fieldworks… lexika3.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants. The speaker expresses a preference for H#.
 \xc <dom="ton" langue="cmn"> 该短语有两种声调变体。标准发音人偏爱H#。
 
-\xc <langue="fra" dom="phono"> Réalisation proche de [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
-\xc <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
-\xc <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}]。
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}]。
 
 火塘：关于火塘在摩梭文化中的意义。这是同一天进行的八部简短访谈中的第八部。
 Huitième et dernière des huit courtes interviews données (le même jour) par le consultant. (Avec vidéo.)
