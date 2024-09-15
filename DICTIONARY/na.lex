@@ -338,6 +338,7 @@
 \lc ɬɬɬ!
 \nt <dom="phono" langue="fra"> Cette interjection est prononcée sur un flux d'air ingressif.
 \nt <dom="phono" langue="eng"> This interjection is pronounced over an ingressive flow of air.
+\nt <dom="phono" langue="cmn"> 这个清齿龈边擦音是气流进入而发出的音。
 \so F4
 \de Interjection expressing pleasurable titillation of appetite (‘Yummy!’), or other strong impressions (‘Wow!’), including negative ones.
 \ge |fg{intj}.strong_impression
@@ -2241,6 +2242,7 @@
 \nt <type="hist" print="n" langue="fra" dom="ton"> Première notation (2006): /bæ˧ʁwæ˧ʁwæ˥/, mais une notation L.L.M était envisagée à titre d'hypothèse. C'est celle-ci qui est adoptée par la suite: /bæ˩-ʁwæ˩ʁwæ˧/. Elle est ensuite modifiée en L.L.H au vu de l'argument phonologique selon lequel il n'existe pas d'opposition L.L.H ~ L.L.M en fin de groupe tonal, d'où /bæ˩-ʁwæ˩ʁwæ˥/. Enfin, la réduplication est indiquée par un tilde, d'où /bæ˩-ʁwæ˩~ʁwæ˥/.
 \nt <dom="morpho" langue="fra"> Dans l'état actuel de la langue, le mot ne peut semble-t-il être dit sans réduplication. Je ne suis pas parvenu à dégager un monosyllabe /†|fv{bæ}/ signifiant ‘mou, relâché'.
 \nt <dom="morpho" langue="eng"> In the current state of the language, the word cannot seem to be said without reduplication. I have not been able to find a monosyllable /†|fv{bæ}/ meaning ‘soft, slack'.
+\nt <dom="morpho" langue="cmn"> 尚未找到一个表示‘柔软、松弛’的单音节词/†|fv{bæ}/。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -3838,6 +3840,8 @@
 \sd <langue="eng"> food
 \nt <dom="phono" langue="fra"> L'initiale de la deuxième syllabe est phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
 \nt <dom="phono" langue="eng"> The initial of the second syllable is phonetically close to a simple [|fv{l}]: [|fv{bo˩lo˧}].
+\ton LH
+\nt <dom="phono" langue="cmn"> 第二个音节的声母在语音上接近于简单的[|fv{l}]：[fv{bo˩lo˧}]。
 \ton LH
 \so F4
 \pdv ɭɯ˧β
@@ -6268,6 +6272,7 @@
 \sd <langue="eng"> object
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{ɕjɤ˧pʰjɛ˥}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ɕjɤ˧pʰjɛ˥}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{ɕjɤ˧pʰjɛ˥}]。
 \ton H#
 \so F4
 \de Photograph.
@@ -11586,7 +11591,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (d'abord noté dʑe˩; corrigé en: dʑɤ˩ par ts)
 \nt <dom="sem" langue="fra" print="n"> note ancienne: "aussi: dʑɤ˩pi˧i˧di˧"
-\nt <dom="phono" langue="fra"> La catégorie tonale est établie à partir du comportement avec le verbe existentiel /|fv{dʑo˩β}/.
+\nt <dom="phono" langue="fra"> La catégorie tonale est établie à partir du comportement du mot lorsqu'il est associé au verbe existentiel /|fv{dʑo˩β}/.
+\nt <dom="phono" langue="eng"> The tonal category is established on the basis of the behaviour of the word when associated with the existential verb /|fv{dʑo˩β}/.
+\nt <dom="phono" langue="cmn"> 根据该词与存在动词/|fv{dʑo˩β}/结合时的表现，能确定其本调（声调类别）。
 \ton LM+#H
 \so F4
 \va <speaker="F5"> ID.
@@ -12173,12 +12180,13 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx dʑɯ˩-æ̃˩tsɯ˧
 \sf <nb="2011"> 2721
 \or jji aenzi
+\mr dʑɯ˩
+\mr æ̃˧tsɯ˥
 \ps n
 \lc dʑɯ˩æ̃˩tsɯ˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> (ton: +ɲi˩)(noté “n'est pas dʑɯ"; mais vérif nouvelle 15 avril 2012: est dʑɯ)
-\nt <dom="phono" langue="fra"> (de: /dʑi/ “eau"+disyllabe)
 \ton L-LM
 \so F4
 \va <speaker="M23"> ID.
@@ -12492,11 +12500,15 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 1297
 \sf <nb="2011"> 2451
 \or jjili
+\mr dʑɯ˩
+\mr li˧α
+\mc <langue="fra"> La composition morphémique du disyllabe serait simplement `eau' et `regarder': `surveiller l'eau', `veiller à l'eau'.
+\mc <langue="eng"> The morpheme composition of the disyllable would simply be `water' and `to look, to watch’: `to look after the water', `to see to the water’.
+\mc <langue="cmn"> 这个双音节的词素构成，看来是简单的‘水’和‘看、注视’：‘照水’、‘看水’。
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté /dʑi˧ mɤ˧ li:˧ lv̩˧) (n'est pas dʑɯ)
-\nt <dom="phono" langue="fra"> serait tout simplement “regarder, surveiller"
 \ton M
 \lc dʑɯ˧li˧
 \so F4
@@ -13471,7 +13483,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté /dʑi˩˧/ ; réécoute: paraît être /dʑi/ et pas /dʑɯ/; mais vérifié en avril 2012: est bien /dʑɯ/.
 \nt <type="hist" print="n" langue="fra"> ton L confirmé en 2012
-\nt <dom="phono" langue="fra"> on peut aussi utiliser 1426
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -14398,6 +14409,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> morphosyntax
 \so F4
 \nt <dom="phono" langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème “oui”, /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
+\nt <dom="phono" langue="eng"> A systematic study of examples of this interjection in texts could examine the hypothesis that there are intermediate cases between this interjection, |fv{õ!}, and the morpheme ‘yes’, /|fv{ĩ˧}/, of which |fv{õ!} is probably an expressive deformation. A spectrum of realizations appears to extend from [|fv{ĩ˧}] (uncommon) to [|fv{õ}] (back vowel), via nuances that are close to [|fv{ɛ̃}].
+\nt <dom="phono" langue="cmn"> 对文本中这种感叹词的例子进行系统研究，可以考察一种假设，即在感叹词|fv{õ!}和语素‘是’/|fv{ĩ˧}/之间存在一个连续体，从/|fv{ĩ˧}/到接近[|fv{ɛ̃}]的发音，再到|fv{õ}，很可能都有实例。
 \de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
 \ge |fg{intj}.approbation
 \dn 感叹词：赞同的插入语。可能是 “是的 ”，/|fv{ĩ˧}/，的变形。一般语调上扬，接近MH调。
@@ -14884,9 +14897,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> [e˧jɤ˩]
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧jɤ˩}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧jɤ˩}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧jɤ˩}]。
 \ton L#
-\lc ə˧jɤ˩
+\lc e˧jɤ˩
 \sy ə˧mi˧-ɖɯ˩
 \cf ə˧mi˧-tɕi˩
 \cf ə˧tɕi˩
@@ -16091,7 +16106,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> Mot na le plus proche: “se gâter, pourrir"
+\nt <dom="usage" langue="fra" print="n"> Mot na le plus proche: “se gâter, pourrir"
 \ton Lα
 \lc fɑ˩˥
 \so F4
@@ -16963,7 +16978,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> dans Naissance du Lac 3: notations ‡go˩bo˧˥
 \cog <langue="lata1234"> vubbo
-\nt <dom="phono" langue="fra"> inclut: chevaux, vaches…
 \ton LH
 \so F4
 \va <speaker="M23"> ID.
@@ -17037,9 +17051,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> gɤ˩tsɯ˥tʰv̩˧ze˩ (tons et voyelles confirmées, n'est pas gɑ˩tsɯ˥) “ça a débordé"
-\nt <dom="phono" langue="fra"> pas reconnu par M21
 \ton LM
 \so F4
+\va <speaker="M21> *
 \de To overflow. For example, when one puts a lid on a saucepan and the fire is strong, the liquid can overflow.
 \ge to_overflow
 \dn 溢出。例如，在汤锅上盖上盖子，液体浓稠地沸腾的话，就溢出。
@@ -17592,7 +17606,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; en 2006, avais noté: no˥ hĩ˥ gɤ˩ kʰɯ˥)
-\nt <dom="phono" langue="fra"> (même sens que 1299a, selon M23)
 \ton Lα
 \so F4
 \va <speaker="M23"> ID.
@@ -18312,6 +18325,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" print="n" langue="fra" dom="ton"> Notation 2006: “gv̩˧ sɯ˥ pv̩˧; tons à vérifier: serait-ce ˧ ˥ ˩?" Corrigé le 5/11/2007 en gv̩˧sɯ˥pv̩˩.
 \nt <type="hist" print="n" langue="fra" dom="phono"> Vérifié: n'est pas /si/. xxxx à vérifier: la rime de la troisième syllabe serait-elle /ɻ̩/? (/pɻ̩˩̩/)
 \nt <dom="morpho" langue="fra"> Le découpage morphologique n'est pas encore bien établi. Il ne paraît pas s'agir de |fv{†gv̩˧sɯ˥} suivi d'un monosyllabe /|fv{†pv̩}/: ces formes ne sont pas attestées jusqu'à présent. Il n'existe pas non plus à l'heure actuelle d'argument pour un découpage /|fv{gv̩˧-sɯ˥pv̩˩}/.
+\nt <dom="morpho" langue="eng"> The morphological breakdown is not yet well established. It does not appear to be |fv{†gv̩˧sɯ˥} followed by a monosyllable /|fv{†pv̩}/: these forms have not been observed to date. There is also currently no argument for a /|fv{gv̩˧-sɯ˥pv̩˩}/ analysis.
+\nt <dom="morpho" langue="cmn"> 形态细分尚未完全确定。迄今为止还没有观察到双音节|fv{†gv̩˧sɯ˥}与单音节/|fv{†pv̩}/，也没有论据来分析为单音节加双音节：/|fv{gv̩˧-sɯ˥pv̩˩}/。
 \ton H#-L
 \so F4
 \va <speaker="F5"> ID.
@@ -18434,17 +18449,15 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf Ça y est, c'est réparé/c'est fabriqué/c'est fini!
 \dt 02/Sep/2015
 
-\lx gv̩˩α
+\lx gv̩˧~gv̩˥
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
-\hm 2
-\or gguq
+\or gguggu
+\mr †gv̩˩α2
 \ps v
-\lc gv̩˩˥
+\lc gv̩˧gv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> monosyllabe reconstruit sur la base de la forme rédupliquée.
 \ton Lα
 \so F4
 \de To tidy up, to sort out.
@@ -18466,7 +18479,29 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to tidy up and put (everything) into place
 \xn 收拾，摆好
 \xf ranger et bien mettre à sa place
-\dt 02/Sep/2015
+
+\lx †gv̩˩α
+\sf <nb="B"> 1132a
+\sf <nb="2011"> 1610
+\hm 2
+\or gguq
+\ps v
+\lc gv̩˩˥
+\cf gv̩˧~gv̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> Confirmé en 2012: est un ton L.
+\nt <dom="morpho" langue="fra"> Monosyllabe reconstruit sur la base de la forme rédupliquée.
+\nt <dom="morpho" langue="eng"> This monosyllable is arrived at through internal reconstruction, based on the reduplicated expression.
+\nt <dom="morpho" langue="cmn"> 这个单音节动词是在重叠词的基础上通过内部重构得出的。
+\ton Lα
+\so F4
+\de To tidy up, to sort out (monosyllabic root extracted from the reduplicated form).
+\ge to_tidy_up
+\dn 收拾（从重叠动词提取的单音节词根）
+\gn 收拾
+\df Ranger (racine extraite de la forme rédupliquée).
+\gf ranger
 
 \lx gv̩˩α
 \hm 3
@@ -18650,7 +18685,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> d'abord noté hæ˥, hæ˥tʰv̩˥
 \cog <langue="lata1234"> lhae / shae
-\nt <dom="phono" langue="fra"> Cette syllabe comporte une nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux". Forme monosyllabique non élicitée en cadre: pb sémantique.
+\nt <dom="phono" langue="fra" type="hist" print="n"> Cette syllabe comporte une nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux".
+\nt <dom="phono" langue="fra" print="n"> Le monosyllabe `vent' ne se prête pas à élicitation dans le cadre «Ceci est...».
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -18688,7 +18724,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> cf récit F4 1
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -18715,10 +18750,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to cut cloth to make clothes, and to sew clothes
 \xn 裁（布料来做）衣服，又缝（衣服） / 先裁布料，再缝衣服
 \xf tailler des vêtements et les coudre
+\txtsup Sister3.73
+\doisup 10.24397/pangloss-0004345#S73
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> cf récit F4 1
 \so F4
 \de To castrate.
 \ge to_castrate
@@ -18726,7 +18762,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 阉割
 \df Castrer, châtrer.
 \gf castrer
-\dt 24/Apr/2017
 
 \lx hæ˧
 \sf <nb="B"> 256
@@ -19172,7 +19207,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> house
 \ton H#-
 \lc hɑ˧gv̩˥di˩
-\nt <dom="phono" langue="fra"> Comportement tonal parfaitement régulier au vu du ton des trois morphèmes dont est composé le mot.
+\nt <dom="phono" langue="fra" print="n"> Comportement tonal parfaitement régulier au vu du ton des trois morphèmes dont est composé le mot.
 \so F4
 \de Stove.
 \ge stove
@@ -19710,7 +19745,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc hɑ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (ne peut se rédupliquer)
+\nt <dom="morpho" langue="fra"> Ce verbe ne se prête pas à réduplication.
+\nt <dom="morpho" langue="eng"> This verb does not lend itself to reduplication.
+\nt <dom="morpho" langue="cmn"> 这个动词不能重叠。
 \ton Lα
 \so F4
 \de To open (one's eyes).
@@ -20201,8 +20238,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Avais d'abord noté au ton H: conclusion fondée sur l'analyse des deux dernières syllabes de |fv{/hi˧le˩ ʝi˩/} comme |fv{/le˧ ʝi˧/}, au ton M, d'où l'hypothèse d'une première syllabe au ton H.
-\nt <dom="phono" langue="fra"> forme monosyllabique: extraite de l'expression disyllabique |fv{/hi˧le˩/}
-\ton H?
+\ton L#
 \lc hi˧le˩
 \so F4
 \de Fast.
@@ -20216,9 +20252,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to do quickly
 \xn 快速做
 \xf faire rapidement
-\xc <langue="fra" dom="phono"> La forme est si réduite qu'elle en paraît disyllabique, proche d'un simple [|fv{hi˧le˩}].
-\xc <langue="eng" dom="phono"> The form is so reduced that it sounds disyllabic, as if it were simply [|fv{hi˧le˩}].
-\xc <langue="cmn" dom="phono"> 该短语的发音非常简化，听起来像一个简单的双音节词：[|fv{hi˧le˩}]。
+\xc <langue="fra" dom="phono"> La forme est si réduite qu'elle en paraît disyllabique, proche d'un simple [|fv{hi˧leʲ˩}].
+\xc <langue="eng" dom="phono"> The form is so reduced that it sounds disyllabic, as if it were simply [|fv{hi˧leʲ˩}].
+\xc <langue="cmn" dom="phono"> 该短语的发音非常简化，听起来像一个简单的双音节词：[|fv{hi˧leʲ˩}]。
 \xv hi˧le˩ | le˧-jo˩!
 \xe Come quickly!
 \xn 快来！
@@ -20683,7 +20719,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ho˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (n'est pas un emprunt)
+\nt <dom="ety" langue="fra" print="n"> Le mot n'est pas un emprunt, d'après la locutrice principale.
+\nt <type="hist" dom="ton" langue="fra" print="n"> xxxx reprendre l'analyse tonale: la combinaison avec le nom 'alcool' (au ton M) suggère que le ton du verbe ne peut être qu'un ton MH; en revanche, sa forme rédupliquée (M.H) est celle d'un ton lexical Lα. (La réduplication d'un ton MH donne L.MH.)
 \ton MH
 \so F4
 \va <speaker="M23"> ID.
@@ -20719,7 +20756,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ho˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> forte friction de l'initiale
+\nt <dom="phono" langue="fra" print="n"> Au plan phonétique, l'initiale comporte une forte friction.
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
@@ -21068,7 +21105,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ho˩lo˧pv̩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="phono" langue="fra"> (emprunt)
 \ton LM+H#
 \so F4
 \va <speaker="F5"> ID.
@@ -21523,13 +21559,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton MH
 \so F4
 \pdv ɭɯ˧β
-\de Entrails.
+\de Entrails, bowels.
 \ge entrails
 \dn 内脏：胃、肠子等
 \gn 内脏
 \df Estomac au sens large: entrailles, tripes (tout le système digestif).
 \gf entrailles
-\dt 14/Jun/2017
 
 \lx hu˥
 \sf <nb="B"> 1209
@@ -48225,7 +48260,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \comp <langue="pmi" print="n"> qʰæ22dzi55
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: kʶɑ˧dze˧; reconnaissance de l'uvulaire initiale retardée par le fait que j'avais le naxi occidental dans l'oreille)
 \nt <dom="morpho" langue="fra"> L'étymologie du mot n'est ni ‘céréale amère’ (ce qui serait surprenant), ni ‘céréale de l'empereur’ (idem). La première syllabe, /|fv{qʰɑ˧}/, n'est pas perçue comme un morphème doté d'une signification propre. Cette situation est différente de celle de /|fv{jɤ˧qʰɑ˧}/, mot dans lequel la syllabe /|fv{qʰɑ˧}/ a clairement son sens de ‘amer’.
-\nt <dom="morpho" langue="fra"> The word's etymology is neither ‘bitter cereal’ (which would be a paradoxical label) nor ‘emperor's cereal’. The first syllable, /|fv{qʰɑ˧}/, is not perceived as a morpheme having an identifiable meaning. This situation is different from that of /|fv{jɤ˧qʰɑ˧}/, a word in which the syllable /|fv{qʰɑ˧}/ clearly means ‘bitter’.
+\nt <dom="morpho" langue="eng"> The word's etymology is neither ‘bitter cereal’ (which would be a paradoxical label) nor ‘emperor's cereal’. The first syllable, /|fv{qʰɑ˧}/, is not perceived as a morpheme having an identifiable meaning. This situation is different from that of /|fv{jɤ˧qʰɑ˧}/, a word in which the syllable /|fv{qʰɑ˧}/ clearly means ‘bitter’.
+\nt <dom="morpho" langue="cmn"> 该词的词源（语素分析）既不是‘苦麦片’（这不是合理的称呼），也不是‘皇帝（的）麦片’。第一个音节，/|fv{qʰɑ˧}/，没有被视为一个具有可识别意义的语素。这种情况不同于/|fv{jɤ˧qʰɑ˧}/，在这个词中，/|fv{qʰɑ˧}/显然是‘苦’的意思。
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -59533,7 +59569,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra">
 \ton #H
 \lc ʂɯ˧tɤ˧ɻ̩˧
 \so F4
@@ -60637,7 +60672,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tv; tons d'abord notés ˧ ˥ ˧) (phonétiquement: læ˧…)
 \nt <dom="sem" langue="fra"> Ce verbe est généralement employé sous sa forme rédupliquée: /|fv{le˧-ʂwæ˥~ʂwæ˩}/.
-\nt <dom="sem" langue="eng"> This verb is generally employed in reduplicated form:  est généralement employé sous sa forme rédupliquée: /|fv{le˧-ʂwæ˥~ʂwæ˩}/.
+\nt <dom="sem" langue="eng"> This verb is generally employed in reduplicated form: /|fv{le˧-ʂwæ˥~ʂwæ˩}/.
+\nt <dom="sem" langue="cmn"> 一般用重叠形式：/|fv{le˧-ʂwæ˥~ʂwæ˩}/。
 \ton Mα
 \lc ʂwæ˧
 \so F4
@@ -76498,8 +76534,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra"> Généralement employé sous sa forme rédupliquée: |fv{ʐæ˧~ʐæ˥}.
 \nt <dom="sem" langue="eng"> The word is generally used in reduplicated form: |fv{ʐæ˧~ʐæ˥}.
-\nt <dom="phono" langue="fra"> phonétiquement: proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
-\nt <dom="phono" langue="eng"> phonetically: close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\nt <dom="sem" langue="cmn> 一般用重叠形式：|fv{ʐæ˧~ʐæ˥}。
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-ʐæ˧~ʐæ˥}]。
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
