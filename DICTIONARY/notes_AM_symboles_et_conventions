@@ -21,9 +21,9 @@ Au 20 février 2017: le "bon" fichier Dictionary.txt est dans: pylmflib 1.1/exam
 Au 16 avril 2017 : c'est na.lex, dans na_W\fieldworks… lexika3.
 2024: na.lex, dans GitHub.
 
-\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
-\nt <dom="sem" langue="eng"> It has not been possible so far to extract a monosyllabic form.
-\nt <dom="sem" langue="cmn"> 尚未成功提取单音节语素。
+\nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
+\nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
 
 \xc <langue="fra" type="dialect"> Formulation qui n'est pas acceptée par F4.
 \xc <langue="eng" type="dialect"> Consultant F4 does not approve this phrasing.
