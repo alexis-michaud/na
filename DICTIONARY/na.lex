@@ -21388,9 +21388,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 1374
 \or hoq
 \bw <langue="cmn"> 合?
-\ec <langue="cmn"> 可能是早期汉语借词，来自‘合’。
-\ec <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{合}.
-\ec <langue="eng"> This word may be an early borrowing from Chinese |fn{合}.
+\mc <langue="cmn"> 可能是早期汉语借词，来自‘合’。
+\mc <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{合}.
+\mc <langue="eng"> This word may be an early borrowing from Chinese |fn{合}.
 \ps adj
 \lc ho˩˥
 \sd <langue="fra"> adjectif
@@ -24529,8 +24529,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \hm 3
 \or ye
 \bw <langue="cmn"> 烟?
-\ec <langue="cmn"> 可能是早期汉语借词，来自‘烟’。
-\ec <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{烟}.
+\mc <langue="cmn"> 可能是早期汉语借词，来自‘烟’。
+\mc <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{烟}.
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -25768,9 +25768,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx ki˧zo˧-ɖɯ˩mɑ˩
 \or Gisso Ddeema
 \bw <langue="bod"> Skal bzang (?) Sgrol ma |tib{སྐལ་བཟང(?)་སྒྲོལ་མ}
-\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
-\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
-\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
+\mc <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\mc <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\mc <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \mr ki˧zo#˥
 \mr ɖɯ˩mɑ#˥
 \ps n
@@ -25790,9 +25790,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 3287
 \or Gisso Lhamu
 \bw <langue="bod"> Skal bzang (?) Lha mo |tib{སྐལ་བཟང(?)་ལྷ་མོ}
-\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
-\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
-\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
+\mc <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\mc <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\mc <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \mr ki˧zo#˥
 \mr ɬɑ˧mv̩˥$
 \ps n
@@ -25811,9 +25811,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx ki˧zo#˥
 \or Gisso
 \bw <langue="bod"> Skal bzang (?) |tib{སྐལ་བཟང(?)}
-\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
-\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
-\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
+\mc <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\mc <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\mc <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -26896,9 +26896,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx kɤ˧zo˧-tsʰɯ˩ɻ̩˩
 \or Gesso Ci'er
 \bw <langue="bod"> Skal bzang (?) Tshe ring |tib{སྐལ་བཟང(?)་ཚེ་རིང}
-\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
-\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
-\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
+\mc <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\mc <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\mc <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \mr kɤ˧zo#˥
 \mr tsʰɯ˧ɻ̩#˥
 \ps n
@@ -26917,9 +26917,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx kɤ˧zo#˥
 \or Gesso
 \bw <langue="bod"> Skal bzang (?) |tib{སྐལ་བཟང(?)}
-\ec <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
-\ec <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
-\ec <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
+\mc <langue="fra"> Il n'est pas clair à l'heure actuelle si le tibétain Skal bzang |tib{སྐལ་བཟང} est l'origine du prénom na |fv{kɤ˧zo#˥} ou du prénom na |fv{ki˧zo#˥} (qui sont deux prénoms différents).
+\mc <langue="eng"> It is currently unclear whether the Tibetan Skal bzang |tib{སྐལ་བཟང} is the origin of the Na given name |fv{kɤ˧zo#˥} or the Na given name |fv{ki˧zo#˥} (which are two different names).
+\mc <langue="cmn"> 目前还不清楚藏语|tib{སྐལ་བཟང}摩梭名字|fv{kɤ˧zo#˥}的来源，还是摩梭名字|fv{ki˧zo#˥}的来源（这是两个不同的名字）。
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -43146,7 +43146,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or nguapae
 \bw <langue="cmn"> 瓦
 \mr pʰæ˧˥α
-\ec <langue="eng"> This word is composed of Chinese ‘tile' plus the Na classifier for flat objects.
+\mc <langue="eng"> This word is composed of Chinese ‘tile' plus the Na classifier for flat objects.
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -61146,7 +61146,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx tɑ˩hwɤ˩
 \or dahua
 \bw <langue="cmn"> 打发
-\ec <langue="fra"> Il s'agit sans doute d'un emprunt chinois de la même strate que ‘méthode', |fn{办法}, dont la syllabe |fn{法} est empruntée comme |fv{/hwɤ/}, syllabe identique au plan segmental à celle de la deuxième syllabe, |fn{发}, dans |fn{打发}.
+\mc <langue="fra"> Il s'agit sans doute d'un emprunt chinois de la même strate que ‘méthode', |fn{办法}, dont la syllabe |fn{法} est empruntée comme |fv{/hwɤ/}, syllabe identique au plan segmental à celle de la deuxième syllabe, |fn{发}, dans |fn{打发}.
 \ps v
 \lc tɑ˩hwɤ˩˥
 \sn 1
@@ -70977,9 +70977,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx tsʰo˧pæ#˥
 \or cobae
 \bw <langue="bod"> tshong pa |tib{ཚོང་པ}
-\ec <langue="fra"> Le sens en tibétain est `marchand'.
-\ec <langue="eng"> The meaning of the Tibetan word is `merchant'.
-\ec <langue="cmn"> 原意为‘商人’。
+\mc <langue="fra"> Le sens en tibétain est `marchand'.
+\mc <langue="eng"> The meaning of the Tibetan word is `merchant'.
+\mc <langue="cmn"> 原意为‘商人’。
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
