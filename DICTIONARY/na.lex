@@ -3840,7 +3840,6 @@
 \sd <langue="eng"> food
 \nt <dom="phono" langue="fra"> L'initiale de la deuxième syllabe est phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
 \nt <dom="phono" langue="eng"> The initial of the second syllable is phonetically close to a simple [|fv{l}]: [|fv{bo˩lo˧}].
-\ton LH
 \nt <dom="phono" langue="cmn"> 第二个音节的声母在语音上接近于简单的[|fv{l}]：[fv{bo˩lo˧}]。
 \ton LH
 \so F4
@@ -4824,12 +4823,16 @@
 \sf <nb="B"> 225
 \sf <nb="2011"> 296
 \or bbeuhu
+\mr bɻ̩˧
+\mr hu˧˥
+\mc <langue="fra"> Mot composé de `intestin' et `estomac'.
+\mc <langue="eng"> The word is a compound of morphemes for `intestine' et `stomach'.
+\mc <langue="cmn"> 由‘肠子’与‘胃’组成的复合名词。
 \ps n
 \lc bɻ̩˧hu˧˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> avant 2013: noté /‡ho/, manquant l'opposition /hu/-/ho/
-\nt <dom="sem" langue="fra"> (d'après M21, désigne estomac+intestin; est une sorte de composé)
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -21552,18 +21555,19 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or huq
 \ps n
 \lc hu˧˥
+\sy bɻ̩˧hu˧˥
+\cf hu˧mi˥$
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> avant 2013: noté /ho/, manquant l'opposition /hu/-/ho/
-\nt <dom="phono" langue="fra"> (forme monosyllabique peu usuelle)
 \ton MH
 \so F4
 \pdv ɭɯ˧β
-\de Entrails, bowels.
+\de Entrails, bowels. (This monosyllabic form is seldom used.)
 \ge entrails
-\dn 内脏：胃、肠子等
+\dn 内脏：胃、肠子等。（这种单音节形式很少使用。）
 \gn 内脏
-\df Estomac au sens large: entrailles, tripes (tout le système digestif).
+\df Estomac au sens large: entrailles, tripes (tout le système digestif). (Cette forme monosyllabique est peu usuelle.)
 \gf entrailles
 
 \lx hu˥
@@ -21721,16 +21725,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gf poils
 \dt 24/Apr/2017
 
-\lx hṽ̩˥
+\lx hṽ̩˧~hṽ̩˧
 \sf <nb="2011"> 2223
-\hm 2
-\or hunq
+\mr hṽ̩˧
 \ps v
-\lc hṽ̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (ton déduit du schéma tonal de la forme rédupliquée)
 \ton H
+\lc hṽ̩˧~hṽ̩˧
 \so F4
 \de To stir-fry.
 \ge to_stir_fry
@@ -21738,18 +21740,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 炒
 \df Frire (viande, légumes…), cuire au wok.
 \gf frire
-\xv hṽ̩˧~hṽ̩˧
-\xe |fg{red}
-\xn 重叠
-\xf |fg{red}
 \xv le˧-hṽ̩˧~hṽ̩˧
-\xe |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn 实施 〜 重叠
-\xf |fg{accomp} |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xv hṽ̩˧~hṽ̩˧-ze˩
-\xe |fg{red} |fg{pfv}
+\xe 〜 |fg{red} |fg{pfv}
 \xn 炒了
-\xf |fg{red} |fg{pfv}
+\xf 〜 |fg{red} |fg{pfv}
 \xv ʂe˧ hṽ̩˧~hṽ̩˧
 \xe to stir-fry some meat
 \xn 炒肉
@@ -21766,7 +21764,24 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to stir-fry some rice, to stir-fry some food
 \xn 炒饭
 \xf frire un plat/faire la cuisine/frire du riz/de la nourriture
-\dt 02/Sep/2015
+
+\lx †hṽ̩˥
+\sf <nb="2011"> 2223
+\hm 2
+\or hunq
+\ps v
+\lc hṽ̩˧
+\cf hṽ̩˧~hṽ̩˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H
+\so F4
+\de To stir-fry. (Monosyllable extracted from the reduplicated form.)
+\ge to_stir_fry
+\dn 炒（肉、菜）。（这个单音节动词是从双音节的重叠形式提取出来的。）
+\gn 炒
+\df Frire (viande, légumes…), cuire au wok. (Monosyllabe extrait de la forme rédupliquée.)
+\gf frire
 
 \lx hṽ̩˧ɻ̩˧
 \or hun'er
@@ -21885,6 +21900,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 野兽
 \df Bête sauvage.
 \gf bête_sauvage
+\txtsup Sister3.87-88
+\doisup 10.24397/pangloss-0004345#S87
 
 \lx hṽ̩˩α
 \sf <nb="2011"> 1394
@@ -21892,18 +21909,18 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or hunq
 \ps adj
 \lc hṽ̩˩˥
+\sy hṽ̩˩-ɖʐæ˩ɻæ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra"> (la forme monosyllabique est rare; cf entrées suivantes)
+\nt <dom="phono" langue="fra"> (la forme; cf entrées suivantes)
 \ton Lα
 \so F4
-\de Red.
+\de Red. The monosyllabic form is seldom used: |fv{hṽ̩˩-ɖʐæ˩ɻæ˥} is more common.
 \ge red
-\dn 红色的
+\dn 红色的。单音节形容词很少使用：一般用|fv{hṽ̩˩-ɖʐæ˩ɻæ˥}。
 \gn 红
-\df Rouge (ex.: vêtement rouge, sang rouge).
+\df Rouge. La forme monosyllabique est rarement utilisée: il est plus courant d'entendre |fv{hṽ̩˩-ɖʐæ˩ɻæ˥}.
 \gf rouge
-\dt 14/Jul/2017
 
 \lx hṽ̩˩α
 \hm 2
@@ -21972,7 +21989,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> adjective
 \ton L#-
 \so F4
-\va <speaker="M18"> hṽ̩˧~hṽ̩˩|ʐæ˩~ʐæ˩
+\va <speaker="M18"> hṽ̩˧~hṽ̩˩-ʐæ˩~ʐæ˩
 \de Intensely red, red all over.
 \ge intensely_red
 \dn 红红的
