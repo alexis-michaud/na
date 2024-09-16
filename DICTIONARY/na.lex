@@ -19053,7 +19053,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \vc <type="hist" print="n" langue="fra"> Littéralement “vêtement d'or", mais désigne aussi le fil de soie: ex. hæ̃˩ bɑ˧lɑ˩ ɖɯ˧ kʰɯ˩ “un fil de soie", hæ̃˩ bɑ˧lɑ˩ kʰɯ˩ “fil de soie"; nouvelle séance de travail le trente novembre, M18 ne reconnaît plus
 \va <speaker="M21"> ID.
-\vf
 \pdv ɭɯ˧β
 \de Silk.
 \ge silk
@@ -73725,7 +73724,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton LM
 \so F4
 \va <speaker="M21"> *
-\vf<print="n"> M21 et F5 emploient des périphrases. Celle de M21 est: /kʰʶv̩˧ dʑi˧ tɕʰy˧ di˧˥/.
+\vc <print="n"> M21 et F5 emploient des périphrases. Celle de M21 est: /kʰʶv̩˧ dʑi˧ tɕʰy˧ di˧˥/.
 \de Drill.
 \ge 钻::drill
 \dn 钻子
