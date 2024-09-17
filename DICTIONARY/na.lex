@@ -9562,7 +9562,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 他有什么了不起的？
 \xf Qu'est-ce qu'elle/il a de si remarquable? / Quelles qualités exceptionnelles a-t-il/elle (que je doive prendre son conseil/suivre son avis)?
 \sn 2
-̩\de Arrogant, conceited.
+\de Arrogant, conceited.
 \ge arrogant
 \dn 骄傲，自以为好
 \gn 骄傲
@@ -24050,7 +24050,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\nt <dom="phono" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩ (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
+\nt <dom="phono" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -46975,7 +46975,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> pʰɻ̩˩tɕæ˩˥
 \vc <langue="fra" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, par laquelle l'expression de trois syllabes se réduit à deux: /|fv{pʰɻ̩˩tɕæ˩˥ (+gv̩˩)}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
 \vc <langue="eng" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, donnant: /|fv{pʰɻ̩˩tɕæ˩˧ gv̩˩}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
-\vc <langue="cmn" dom="phono"> /|fv{ɻæ}/音节的弱化，使三个音节的/|fv{pʰɻ̩˩-tɕæ˩ɻæ˥}/减为两个：/|fv{pʰɻ̩˩tɕæ˩˥/；/|fv{ɻæ}/丢失，甚至在慢速说话中也不出现。
+\vc <langue="cmn" dom="phono"> /|fv{ɻæ}/音节的弱化，使三个音节的/|fv{pʰɻ̩˩-tɕæ˩ɻæ˥}/减为两个：/|fv{pʰɻ̩˩tɕæ˩˥}/；/|fv{ɻæ}/丢失，甚至在慢速说话中也不出现。
 \va <speaker="M18"> pʰɻ̩˩tɕæ˩ɻ̩˩
 \de Very white.
 \ge white
