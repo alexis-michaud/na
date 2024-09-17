@@ -15879,7 +15879,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe I shall have to learn to be a grandmother! / I shall have to learn to behave as a grandmother! (Humorous remark by the main consultant, after a doctor has advised her to avoid low, soft seats such as sofas and to adopt a taller wooden chair. Paraphrase: “I guess I have entered the category of elderly persons!")
 \xn 我要学习当老太太了！（情景：一位医生建议合作人不要坐在小凳子或者软沙发上了，而要坐更高的木头椅子。她幽默地说：“看来我是老年人了！”）
 \xf Il va falloir que j'apprenne à me comporter (sagement) comme une grand-mère! (Contexte: remarque teintée d'humour de la consultante principale face à l'âge qui vient et ses soucis: un médecin lui déconseille les sofas/assises molles et lui recommande une chaise haute en bois; elle se fait la réflexion qu'elle a vieilli et doit maintenant apprendre à prendre des précautions.)
-\xc ə˧ʑi˧ le˧-mo˩-ze˩
+\xv ə˧ʑi˧ le˧-mo˩-ze˩
 \xe The grandmother has aged, the grandmother is getting old.
 \xn 奶奶老了。
 \xf La grand-mère a vieilli, la grand-mère se fait vieille
@@ -34056,9 +34056,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> verb
 \so F4
 \va <speaker="F5"> ɕi˧pʰv̩˧
-\vc <langue="fra"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
-\vc <langue="eng"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
-\vc <langue="cmn"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
+\vc <langue="fra" dom="usage"> La locutrice connaît le terme |fv{lv̩˧pʰv̩˩}, mais dit plus volontiers |fv{ɕi˧pʰv̩˧}.
+\vc <langue="eng" dom="usage"> The speaker knows the term |fv{lv̩˧pʰv̩˩}, but prefers the term |fv{ɕi˧pʰv̩˧}.
+\vc <langue="cmn" dom="usage"> 发音人知道|fv{lv̩˧pʰv̩˩}这个词，但更喜欢用|fv{ɕi˧pʰv̩˧}。
 \va <speaker="M21"> ɕi˩dɑ˩˥
 \vc <langue="fra" print="n"> Le locuteur préfère le terme /|fv{ɕi˩dɑ˩˧/}/, plutôt que /|fv{ɕi˧pʰv̩˧}/.
 \va <speaker="M23"> ID.
@@ -50662,7 +50662,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> jɥe˩tsɯ˧
 \va <speaker="M21"> jɥen˩dzɯ˧
-\vc <langue="fra"> Le voisement de l'initiale /|fv{dz}/ par ce locuteur est confirmé.
+\vc <langue="fra" dom="phono"> Le voisement de l'initiale /|fv{dz}/ par ce locuteur est confirmé.
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge 园子::vegetable_garden
