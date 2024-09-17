@@ -3840,7 +3840,7 @@
 \sd <langue="eng"> food
 \nt <dom="phono" langue="fra"> L'initiale de la deuxième syllabe est phonétiquement proche d'un simple [|fv{l}]: [|fv{bo˩lo˧}].
 \nt <dom="phono" langue="eng"> The initial of the second syllable is phonetically close to a simple [|fv{l}]: [|fv{bo˩lo˧}].
-\nt <dom="phono" langue="cmn"> 第二个音节的声母在语音上接近于简单的[|fv{l}]：[fv{bo˩lo˧}]。
+\nt <dom="phono" langue="cmn"> 第二个音节的声母在语音上接近于简单的[|fv{l}]：[|fv{bo˩lo˧}]。
 \ton LH
 \so F4
 \pdv ɭɯ˧β
@@ -13369,7 +13369,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> plus grossier que /dze˧ʈʂɯ˧/
 \ton H#
 \lc ɖʐɯ˧ʈʂɯ˥
 \cf dze˧ʈʂɯ˧
@@ -15220,9 +15219,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; notation 2006: ˧˧˥˧) (intéressant, tons confirmés) (est différent de 309)
 \nt <type="hist" print="n" langue="fra"> (corrigé le 5/11/2007; notation 2006: “æ˧mv̩˧gi˧zɯ˥; tons confirmés, pas les mêmes qu'ama")
-\nt <dom="phono" langue="fra"> On ne peut dire /|fg{‡æ˧mv̩˩-gi˩zɯ˩}/, forme qui serait attendue si le composé était fondé sur la variante /|fg{æ˧mv̩˩}/ et non sur la variante /|fg{æ˧mv̩˧˥}/.
-\nt <dom="phono" langue="eng"> One cannot say /|fg{‡æ˧mv̩˩-gi˩zɯ˩}/, the form that would be expected if the compound were based on the /|fg{æ˧mv̩˩}/ variant and not on the /|fg{æ˧mv̩˧˥}/ variant.
-\nt <dom="phono" langue="cmn"> 如果这个复合词是基于ML本调变体/|fg{æ˧mv̩˩}/而不是基于MH#变体/|fg{æ˧mv̩˧˥}/，就会出现/|fg{‡æ˧mv̩˩-gi˩zɯ˩}/这种形式。但不能说/|fg{‡æ˧mv̩˩-gi˩zɯ˩}/，于是可以下结论：/|fg{‡ə˧mv̩˧-gi˥zɯ˩}/这个复合词是基于/|fg{æ˧mv̩˧˥}/这个变体。
+\nt <dom="phono" langue="fra"> On ne peut dire /|fv{‡æ˧mv̩˩-gi˩zɯ˩}/, forme qui serait attendue si le composé était fondé sur la variante /|fv{æ˧mv̩˩}/ et non sur la variante /|fv{æ˧mv̩˧˥}/.
+\nt <dom="phono" langue="eng"> One cannot say /|fv{‡æ˧mv̩˩-gi˩zɯ˩}/, the form that would be expected if the compound were based on the /|fv{æ˧mv̩˩}/ variant and not on the /|fv{æ˧mv̩˧˥}/ variant.
+\nt <dom="phono" langue="cmn"> 如果这个复合词是基于ML本调变体/|fv{æ˧mv̩˩}/而不是基于MH#变体/|fv{æ˧mv̩˧˥}/，就会出现/|fv{‡æ˧mv̩˩-gi˩zɯ˩}/这种形式。但不能说/|fv{‡æ˧mv̩˩-gi˩zɯ˩}/，于是可以下结论：/|fv{‡ə˧mv̩˧-gi˥zɯ˩}/这个复合词是基于/|fv{æ˧mv̩˧˥}/这个变体。
 \ton #H-
 \lc æ˧mv̩˧gi˥zɯ˩
 \so F4
@@ -23736,7 +23735,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ʝi˧kʰv̩˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> formule sans doute ancienne; le /ʝi˧/ est un mot ancien pour ‘un', qu'on retrouve dans /ʝi˧-kʰwɤ˥/ ‘un morceau'; la deuxième syllabe n'est pas reconnaissable.
+\nt <dom="sem" langue="fra"> Formule sans doute ancienne. Le /|fv{ʝi˧}/ est un mot ancien pour ‘un', qu'on retrouve dans /|fv{ʝi˧-kʰwɤ˥}/ ‘un morceau'; la deuxième syllabe n'est pas reconnaissable.
 \ton H#
 \so F4
 \de Some, a few.
@@ -24013,7 +24012,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (corrigé en mai 2008; d'abord noté i˧wɤ˧; première notation: i˧wo˧) (confirmé: est /ʁu/ et non /ʁv/)
-\nt <dom="phono" langue="fra"> ʈʂʰɯ˧ ʝi˧ʁu˧-hĩ˧ ɖɯ˧-v̩˧ ɲi˩: -hĩ˧ souvent réduit au point d'être tout à fait absent
 \ton #H
 \so F4
 \va <speaker="M21"> ʝi˧ʁv̩˧
@@ -24029,6 +24027,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe It's an able/competent person.
 \xn 他是一个能干/称职的人。
 \xf c'est quelqu'un d'habile/de capable
+\xc <dom="phono" langue="fra"> Le morphème /|fv{-hĩ˧}/ est souvent réduit au point d'être tout à fait absent.
 \xv ʝi˧ʁo˧-zo#˥
 \xe a competent lad, a capable fellow
 \xn 一个能干的男人
@@ -29236,11 +29235,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc kwæ˧fæ˥
 \so F4
 \pdv pʰæ˧˥
-\de Ceiling jost: horizontal structural member, resting on a main beam, and supporting two of the purlins (roof beams, /|fg{ʐv̩˩ɭɯ˧}/), which themselves carry the rafters, /|fv{hæ̃˧kʰɤ˧˥}/.
+\de Ceiling jost: horizontal structural member, resting on a main beam, and supporting two of the purlins (roof beams, /|fv{ʐv̩˩ɭɯ˧}/), which themselves carry the rafters, /|fv{hæ̃˧kʰɤ˧˥}/.
 \ge medium_sized_beam
 \dn 中等大小的梁
 \gn 中等大小的梁
-\df Entrait: pièce de charpente horizontale, posée sur une poutre maîtresse, et soutenant deux des pannes (poutres du toit, /|fg{ʐv̩˩ɭɯ˧}/), qui elles-mêmes portent les chevrons, /|fv{hæ̃˧kʰɤ˧˥}/.
+\df Entrait: pièce de charpente horizontale, posée sur une poutre maîtresse, et soutenant deux des pannes (poutres du toit, /|fv{ʐv̩˩ɭɯ˧}/), qui elles-mêmes portent les chevrons, /|fv{hæ̃˧kʰɤ˧˥}/.
 \gf entrait
 
 \lx kwɑ˧fæ˩
@@ -43592,7 +43591,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 不要错过（机会）！
 \xf Il ne faut pas laisser passer/filer (une occasion/un moment propice)!
 \xc <dom="phono" langue="fra"> Une observation pertinente concernant la synchronie dynamique de la langue na est que cette expression, “ne pas laisser passer", semble en voie de figement. Cette expression paraît prendre le chemin de /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘vraiment, pour de vrai’ devenant quelque chose comme [|fv{ʈʰææ̃˧}]. La première syllabe est toujours réalisée avec une mélodie montante, alors qu'on s'attendrait à un schéma tonal M.H.L (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), avec déploiement du contour MH sur les deux premières syllabes (ton M sur la première syllabe, et réassociation du ton H à la deuxième syllabe). Or cette prononciation avec un simple ton M sur la première syllabe, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, est compréhensible mais non idiomatique.
-\xc <dom="phono" langue="eng"> An observation that has relevance to the study of synchronic dynamics within the Na language is that this phrase, ‘not to let slip, not to miss out on’, seems to be in the process of becoming a set phrase with a pronunciation of its own, somewhat like the reduction of /[fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘really, actually’ to something resembling [|fv{ʈʰææ̃˧}]. The first syllable is always realized with a rising melody, whereas one would expect an M.H.L tonal pattern (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), with deployment of the MH contour over the first two syllables (M tone on the first syllable, and reassociation of the H tone on the second syllable). This pronunciation, with a simple M tone on the first syllable, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, is understandable but not idiomatic.
+\xc <dom="phono" langue="eng"> An observation that has relevance to the study of synchronic dynamics within the Na language is that this phrase, ‘not to let slip, not to miss out on’, seems to be in the process of becoming a set phrase with a pronunciation of its own, somewhat like the reduction of /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘really, actually’ to something resembling [|fv{ʈʰææ̃˧}]. The first syllable is always realized with a rising melody, whereas one would expect an M.H.L tonal pattern (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), with deployment of the MH contour over the first two syllables (M tone on the first syllable, and reassociation of the H tone on the second syllable). This pronunciation, with a simple M tone on the first syllable, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, is understandable but not idiomatic.
 \xc <dom="phono" langue="cmn"> ‘不放过，不错过’这个短语似乎正在成为一个有自己独特发音的固定词汇，类似于/|fv{ʈʰæ˧mi˧-ɳɯ˩}/‘真的，实际上’的实际发音简化，接近[|fv{ʈʰææ̃˧}]。按一般规则，声调模式应该是M.H.L（即/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/）：第一个音节承载M调，第二个音节承载H调。但事实上，第一个音节总是以上升的旋律实现的。/|fv{pæ˧tʰɑ˥-kʰɯ˩}/这种发音，勉强可以听懂，但不符合用语习惯。
 \xv le˧-pæ˧-ze˥!
 \xe It's too late! / We have let the opportunity slip by!
@@ -50657,7 +50656,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sy qʰwæ˧ɭɯ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="fra"> (aussi: emprunt: jæ˩dzɯ˧; voisement confirmé)
 \ton M
 \so F4
 \va <speaker="F5"> jɥe˩tsɯ˧
