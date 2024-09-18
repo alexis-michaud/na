@@ -21885,7 +21885,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc hṽ̩˧nɑ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> (cf récit 1)
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -21910,7 +21909,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sy hṽ̩˩-ɖʐæ˩ɻæ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra"> (la forme; cf entrées suivantes)
 \ton Lα
 \so F4
 \de Red. The monosyllabic form is seldom used: |fv{hṽ̩˩-ɖʐæ˩ɻæ˥} is more common.
@@ -22059,7 +22057,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> Vérifié: l'initiale de la deuxième syllabe est vélaire et non uvulaire.
-\nt <dom="phono" langue="fra"> Confirmé: la syllabe est /hwɑ/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois (système actuel de la locutrice pour prononcer les mots chinois). On aurait attendu /hwæ/ ou /hwɤ/, si le mot se conformait à la phonotactique du na.
+\nt <dom="phono" langue="fra"> Il est confirmé que la syllabe est /|fv{hwɑ}/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois récents de rime -ua (|fn{话}, |fn{花}, |fn{化}...), -uan, -uang. Autrement dit, cette rime fait partie du système synchronique employé pour prononcer les mots chinois. On aurait attendu /|fv{hwæ}/ ou /|fv{hwɤ}/, si le mot se conformait à la phonotactique du na.
+\nt <dom="phono" langue="eng"> It is clearly established that the syllable is /|fv{hwɑ}/, with a vowel that is not attested in Na, but is specific to recent Chinese loans ending in -ua (|fn{话}, |fn{花}, |fn{化}...), -uan and -uang. Put another way, this rhyme is part of the synchronic system used to pronounce Chinese words. If the word conformed to Na phonotactics, one would have expected /|fv{hwæ}/ or /|fv{hwɤ}/.
+\nt <dom="phono" langue="cmn"> 可以确定该音节是/|fv{hwɑ}/，其韵母在摩梭话中仅出现在近期汉语借词里（-ua韵母的词，如‘话’、‘花’、‘化’等等，还有-uan和-uang韵母）。换句话说，这个韵母是共时汉语发音系统的一个组成部分。如果该词符合摩梭话音系，就会发作/|fv{hwæ}/或/|fv{hwɤ}/。
 \ton LM
 \so F4
 \pdv ɭɯ˧β
@@ -23003,7 +23003,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ĩ˧!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="phono" langue="fra"> un ton est indiqué; mais ce n'est pas un “vrai ton"; n'entre pas en relation avec les tons environnants; ne se conjuge pas comme un verbe
+\nt <dom="phono" langue="fra"> Le choix d'indiquer un ton lexical M pour ce mot a quelque chose d'arbitraire, dans la mesure où il ne se fonde pas sur des arguments morpho-tonologiques précis. Dans les exemples observés, le mot n'entre pas en relation avec les morphèmes environnants, ce qui empêche de le soumettre à une batterie de tests tonals.
+\nt <dom="phono" langue="eng"> The choice of indicating a lexical M tone for this word is somewhat arbitrary, in that it is not grounded in morpho-tonological arguments. In the examples observed to date, the word does not interact tonally with the surrounding morphemes, which makes it impossible to subject it to a set of tonal tests.
+\nt <dom="phono" langue="cmn"> 将这个词标注为中（M）调，不是基于形态声调论证，只是一种猜测。在迄今为止所观察到的例子中，该词与周围的词素不发生声调上的任何互动，因此无法对其进行一系列声调测试。
 \ton M
 \so F4
 \de Yes, OK.
@@ -23016,7 +23018,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe (S)he said “Yes! yes!"
 \xn 他说：“是的，是的！”
 \xf il a dit: «Oui, oui!»
-\dt 14/Jun/2017
 
 \lx o
 \or o
@@ -24049,7 +24050,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\nt <dom="phono" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
+\nt <dom="dialect" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
+\nt <dom="dialect" langue="eng"> Pico |fv{pʰi˧tsʰo˧}, a friend of Daeshi who lives in |fv{lo˧gv̩˩} (Ninglang), pronounces |fv{jɤ˩sɑ˧}, ‘foreigners’ umbrella’, similar to |fv{jɤ˩ho˧} “matches” and |fv{jɤ˩jo˧} “potatoes”, the first syllable of which comes from the Chinese |fn{洋} ‘foreign, Western’.
+\nt <dom="dialect" langue="cmn"> 住在宁蒗的品初（达石的一个朋友）发作|fv{jɤ˩sɑ˧}‘洋伞’, “洋人的（雨）伞”，其中|fv{jɤ˩}音节为‘洋’，像|fv{jɤ˩ho˧}‘火柴’（“洋火”）和|fv{jɤ˩jo˧}‘洋芋’中的‘洋’。
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -24841,8 +24844,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> (emprunt au chinois: 洋火 “le feu des étrangers")
-\nt <dom="phono" langue="fra"> ne peut se combiner avec les suffixes -mi et -zo
+\nt <dom="ety" langue="fra"> Emprunt au chinois: |fn{洋火} “le feu des étrangers".
+\nt <dom="morpho" langue="fra" print="n"> Des combinaisons avec les suffixes -mi et -zo ont été tentées à tout hasard, et n'ont rien donné (elles n'existent pas).
 \ton LM
 \lc jɤ˩ho˥
 \so F4
@@ -34197,12 +34200,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton L#
 \lc ɲi˧di˩
 \so F4
-\de The township of Nhiddi, to the South-South-West of Lugu lake. Present-day name in Chinese: Cuiyu |fn{翠玉}.
-\ge Nhiddi
+\de The township of Niddi, to the South-South-West of Lugu lake. Present-day name in Chinese: Cuiyu |fn{翠玉}.
+\ge Niddi
 \dn 翠玉傈僳族普米族自治乡
 \gn 翠玉
-\df Le canton de Nhiddi, au sud-sud-ouest du lac Lugu. Nom actuel en chinois: Cuiyu |fn{翠玉}.
-\gf Nhiddi
+\df Le canton de Niddi, au sud-sud-ouest du lac Lugu. Nom actuel en chinois: Cuiyu |fn{翠玉}.
+\gf Niddi
 
 \lx to˧bv̩˧-di˩
 \or Dobbuddi
