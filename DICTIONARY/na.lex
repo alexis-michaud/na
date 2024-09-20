@@ -3219,7 +3219,7 @@
 \xc <dom="ton"> M
 \xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
 \xe This person is a “Sir” / a distinguished person!
-\xn 〜 |fg{系动词}
+\xn 这个人就是“先生”／杰出人士！（〜 系动词）
 \xf Cette personne, c'est un monsieur / une personne distinguée!
 \xc PHONO
 
@@ -7235,7 +7235,7 @@
 \xc PHONO
 \xv tʰi˧-di˩~di˩
 \xe |fg{dur} 〜 |fg{red}
-\xn 持续体 〜 |fg{red}
+\xn 持续体 〜 重叠
 \xf |fg{dur} 〜 |fg{red}
 
 \lx di˧˥
@@ -13086,7 +13086,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gf herbes_sauvages
 \xv ʈʂʰɯ˧ | dʑɯ˩ʁo˩-zɯ˩ ɲi˥.
 \xe |fg{dem} 〜 |fg{cop}
-\xn 指示代词 〜 |fg{系动词}
+\xn 指示代词 〜 系动词
 \xf |fg{dem} 〜 |fg{cop}
 
 \lx dʑɯ˩si˩
@@ -20778,7 +20778,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or mumi maeddeu
 \ps n
 \lc mv̩˧mi˧mæ˧ɖv̩˧
-\cf mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
+\sy mv̩˧mi˧-mæ˧ɖv̩˧-mi#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -20798,6 +20798,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \mr mi˩˧
 \ps n
 \lc mv̩˧mi˧mæ˧ɖv̩˧mi˧
+\sy mv̩˧mi˧-mæ˧ɖv̩#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
@@ -20816,7 +20817,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \bw <langue="cmn"> 野鸡
 \ps n
 \lc ʝi˧tɕi˧
-\cf ho˥1
+\sy ho˥1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton M
@@ -24034,11 +24035,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 一个能干的男人
 \xf un homme capable/habile, un gaillard compétent
 \xv ʝi˧ʁo˧ ɲi˥
-\xe |fg{cop}
-\xn |fg{cop}
-\xf |fg{cop}
+\xe 〜 |fg{cop}
+\xn 〜 系动词
+\xf 〜 |fg{cop}
 \xc PHONO
-\dt 14/Jun/2017
 
 \lx ʝi˧sɑ˧
 \sf <nb="B"> 574
@@ -24710,7 +24710,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf Quand il fait très chaud, on est sans entrain!
 \xv jɤ˩-mɤ˥-jɤ˩
 \xe 〜 |fg{neg} 〜
-\xn 〜 |fg{neg} 〜
+\xn 〜 否定 〜
 \xf 〜 |fg{neg} 〜
 \xc PHONO
 \xc <langue="eng" dom="ton"> This combination was elicited as a test to establish the tone category: La or Lb. It leads to the conclusion that the tone is Lb.
@@ -28151,7 +28151,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to build a nest
 \xv kʰv̩˩ ɲi˩˥
 \xe 〜 |fg{cop}
-\xn 〜 |fg{系动词}
+\xn 〜 系动词
 \xf 〜 |fg{cop}
 \xc PHONO
 \xv kʰv̩˩ ɖʐɤ˩˥
@@ -34573,7 +34573,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf |fg{pfv}
 \xv tʰi˧-lv̩˩~lv̩˩(-ze˩)
 \xe |fg{dur} |fg{red}
-\xn 持续体 〜 |fg{red}
+\xn 持续体 〜 重叠
 \xf |fg{dur} |fg{red}
 \xv tʰi˧-lv̩˩~lv̩˩ | se˧
 \xe to walk askance, to walk askew: e.g. a lame person walks with difficulty
@@ -36921,7 +36921,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xc <langue="cmn" dom="synt"> 此例说明了该词作为名词的用法。
 \xv mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩-ze˩.
 \xe 〜 |fg{pfv}: a rainbow has formed, there is a rainbow
-\xn 〜 |fg{整体体}：有了一道彩虹
+\xn 〜 整体体：有了一道彩虹
 \xf 〜 |fg{pfv}: il y a un arc-en-ciel, un arc-en-ciel s'est formé
 \xc <langue="fra" dom="synt"> Cet exemple illustre l'emploi du mot comme prédicat.
 \xc <langue="eng" dom="synt"> This example illustrates the predicative use of the word.
@@ -38631,7 +38631,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf Elle/il va bientôt marcher!
 \xv tʰi˧-mv̩˧-dzɯ˧
 \xe |fg{dur} |fg{imminence}to_eat
-\xn |fg{dur} |fg{imminence} 吃
+\xn 持续体 即将 吃
 \xf |fg{dur} |fg{imminence} manger
 \xv ʈʂʰɯ˧ | mv̩˧-dzɯ˧-kwɤ˩-tɕɯ˩!
 \xe Come on, eat it up! / Come on, finish your bowl!
@@ -40771,9 +40771,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 还要一点饭吗？
 \xf Encore un peu de riz? / Souhaites-tu encore un bol de riz?
 \xv «mɤ˧-ɲi˧! mɤ˧-ɲi˧!» | so˩-qʰwɤ˩ dzɯ˩˥!
-\xe “No no, I'm fine!” and then you eat three big bowls, hey? zzzz add translation
-\xn zzzz add translation
-\xf «Non merci» pis après t'en manges trois platées! (Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas vouloir de nourriture, et qui, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains, font montre d'un très bon coup de fourchette.)
+\xe You say “No thanks, I'm fine!” and then you eat three big bowls, hey? (A phrase used to joke about people who make a fuss, pretending not to want food, and who, when you insist enough or simply put the food in their hands, show an extraordinary appetite.)
+\xn （你说）“不，谢谢”，然后吃了三大盘！(这是一个笑话，说的是有些人大惊小怪，假装不想吃东西，但当坚持让他吃或干脆把食物放到他手里时，他们就会表现出超乎寻常的食欲。）
+\xf Tu dis «Non merci» pis après t'en manges trois platées! (Formule pour plaisanter les gens qui font des chichis, en faisant mine de ne pas vouloir de nourriture, et qui, quand on a suffisamment insisté ou quand on leur met simplement la nourriture dans les mains, font montre d'un très bon coup de fourchette.)
 
 \lx ɲi˩=ɻ̩˥
 \or ni'er
@@ -43665,7 +43665,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gf attacher
 \xv tʰi˧-pʰæ˧+ze˧
 \xe |fg{dur} 〜 |fg{pfv}
-\xn 持续体 〜 |fg{pfv}
+\xn 持续体 〜 整体体
 \xf |fg{dur} 〜 |fg{pfv}
 \xv pʰæ˧~pʰæ˧
 \xe |fg{red}
@@ -46610,6 +46610,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> adjective
 \ton MH#
 \lc pʰv̩˧ɖɯ˧˥
+\an pʰv̩˧ʐo˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -47163,6 +47164,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" print="n" langue="fra"> (comme dans 967 “léger"; confirmé en 2007)
 \ton MH#
 \lc pʰv̩˧ʐo˧˥
+\an pʰv̩˧ɖɯ˧˥
 \so F4
 \va <speaker="F5"> pʰv̩˧ʐu˥
 \va <speaker="M21"> ID.
@@ -47528,11 +47530,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf |fg{red}: échanger (un objet contre un autre)
 \xv qæ˧~qæ˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
-\xn 〜 重叠 |fg{inceptive}
+\xn 〜 重叠 发端
 \xf |fg{red} |fg{inchoatif}
 \xv qæ˧~qæ˧-ɻ̩˧-ze˥
 \xe |fg{red} |fg{inceptive} |fg{pfv}
-\xn |〜 重叠 |fg{inceptive} |fg{pfv}
+\xn |〜 重叠 发端 整体体
 \xf |fg{red} |fg{inchoatif} |fg{pfv}
 \xv tso˧~tso˧ qæ˧~qæ˧
 \xe to exchange things
@@ -47867,7 +47869,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe very cold
 \xn 冷得很，太冷
 \xf très froid, trop froid, glacial
-\xn <type="hist" print="n" langue="fra"> Avant 2024: noté ‡qʰæ˧-ɕjæ˧-gv̩˧. Dans la prononciation, la syllabe ɻæ˩ est coalescente à la syllabe qui précède, de sorte qu'elle peut facilement échapper à l'attention.
+\xc <type="hist" print="n" langue="fra"> Avant 2024: noté ‡qʰæ˧-ɕjæ˧-gv̩˧. Dans la prononciation, la syllabe ɻæ˩ est coalescente à la syllabe qui précède, de sorte qu'elle peut facilement échapper à l'attention.
 
 \lx qʰæ˥
 \sf <nb="2011"> 72
@@ -48851,7 +48853,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf |fg{accomp} 〜 |fg{pfv}
 \xv tʰi˧-qɑ˩-ze˩
 \xe |fg{dur} 〜 |fg{pfv}
-\xn 持续体 〜 |fg{pfv}
+\xn 持续体 〜 整体体
 \xf |fg{dur} 〜 |fg{pfv}
 \xv ɖɯ˧-kʰwɤ˥ | tʰi˧-qɑ˥
 \xe to cover (a television set) with a piece of fabric (to protect it from dust)
@@ -49226,9 +49228,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn ‘待客的东西’（老鼠药的委婉语。如果说出来要买老鼠药，老鼠会知道，就不会吃的。）
 \xf Euphémisme pour désigner la mort-aux-rats. La croyance veut que si on expose clairement le projet, les rats vont se méfier et ne prendront pas cette nourriture empoisonnée.
 \xv ɖɯ˧-qʰo˥~qʰo˩-ɻ̩˩
-\xe |fg{delimitative} |fg{red} |fg{inceptive}
-\xn |fg{delimitative} |fg{red} |fg{inceptive}：请一下
-\xf |fg{délimitative} |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn 进行时态 〜 重叠 发端：请一下
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xv qʰo˩-mɤ˥-qʰo˩
 \xe to invite or not
@@ -49758,13 +49760,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe fox burrow
 \xn 狐狸的窝
 \xf terrier de renard
-\xn tone: M
+\xc <dom="tone"> M
 \xv ʂwæ˧ qʰv̩˧
 \xe otter's burrow
 \xn 水獭的窝
 \xf terrier de loutre
-\xn tone: M
-\dt 01/Oct/2015
+\xc <dom="tone"> M
 
 \lx qʰv̩˧
 \sf <nb="B"> 1957
@@ -54879,7 +54880,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv ɖɯ˧-ɻ̩˧~ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red}
-\xn |fg{delimitative} 〜 |fg{red}
+\xn 进行时态 〜 重叠
 \xf |fg{délimitatif} 〜 |fg{red}
 \xc PHONO
 \xv ze˩gi˧ ɻ̩˥?
@@ -57843,7 +57844,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe interjection to get pigs to move forward
 \xn 赶猪用的叹词
 \xf Interjection employée pour faire avancer les cochons, lorsqu'on les guide sur le chemin du pâturage: «Zou! / Allez!»
-\xn <langue="fra" dom="ton"> Un schéma tonal M.L est indiqué pour cette expression, pour refléter un profil prosodique dans lequel la seconde syllabe paraît clairement plus basse que la première. Pour autant, il s'agit d'un emploi étendu (non technique) de la notation en trois hauteurs tonales. Il est clair que cette interjection ne possède pas un ton lexical M.L.
+\xc <langue="fra" dom="ton"> Un schéma tonal M.L est indiqué pour cette expression, pour refléter un profil prosodique dans lequel la seconde syllabe paraît clairement plus basse que la première. Pour autant, il s'agit d'un emploi étendu (non technique) de la notation en trois hauteurs tonales. Il est clair que cette interjection ne possède pas un ton lexical M.L.
 
 \lx ʂo˧˥
 \sf <nb="B"> 993
@@ -62681,7 +62682,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf |fg{accomp} 〜 |fg{pfv}
 \xv tʰi˧-tɕi˧~tɕi˧+ze˩
 \xe |fg{dur} 〜 |fg{pfv}
-\xn 持续体 〜 |fg{pfv}
+\xn 持续体 〜 整体体
 \xf |fg{dur} 〜 |fg{pfv}
 \xv ʁo˧qʰwɤ˩ tɕi˩~tɕi˩
 \xe to shake one's head
@@ -63622,7 +63623,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \de Mugwort, wormwood, |fi{Artemisia vulgaris}.
 \ge mugwort
-\dn 蒿、青蒿。艾草，"fi{Artemisia vulgaris}"。说话者将艾草分为三种：深色艾草、浅色艾草和第三种，第三种艾草的中文名称是 "青蒿"。
+\dn 蒿、青蒿。艾草，|fi{Artemisia vulgaris}。说话者将艾草分为三种：深色艾草、浅色艾草和第三种，第三种艾草的中文名称是 "青蒿"。
 \gn 蒿
 \gr 蒿草、蒿枝
 \df Armoise, |fi{Artemisia vulgaris}. La locutrice en distingue trois sortes: armoise sombre, armoise claire, et une troisième sorte désignée par le mot chinois, |fv{tɕʰi˩ŋæ˩} (pour |fn{青蒿}).
@@ -64851,7 +64852,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf Dans une année il y a douze mois; je voudrais transcrire douze histoires (au cours de l'année qui vient)! (Contexte: en septembre 2011, la locutrice remarque que j'ai transcrit deux contes en deux mois; en m'offrant cet exemple, elle me souffle le projet de garder le rythme et de transcrire une histoire par mois, soit douze pendant l'année qui vient)
 \xv ɖɯ˧-tɕɯ˧~tɕɯ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn 进行时态 〜 重叠 发端
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv tɕɯ˩-di˩˥
 \xe brush, pen; literally ‘thing to write'
@@ -66896,12 +66897,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv tʰi˧-tʰo˩-ɻ̩˩
 \xe |fg{dur} 〜 |fg{inceptive}
-\xn 持续体 〜 |fg{inceptive}
+\xn 持续体 〜 发端
 \xf |fg{dur} 〜 |fg{inchoatif}
 \xc PHONO
 \xv ɖɯ˧-tʰo˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn |fg{delimitative} 〜 |fg{inceptive}
+\xn 进行时态 〜 发端
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \dt 01/Jul/2017
@@ -67879,7 +67880,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf bois_du_cerf
 \xv ʈʂʰɯ˧ ʈʂʰæ˧qʰv̩˧ ɲi˥.
 \xe 〜 |fg{cop}
-\xn 〜 |fg{系动词}
+\xn 〜 系动词
 \xf 〜 |fg{cop}: ce sont des bois de cerf.
 \xc PHONO
 
@@ -69258,7 +69259,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf même sens: flotter
 \xv ɖɯ˧-tse˧~tse˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn 进行时态 〜 重叠 发端
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xv dʑɯ˩ʁo˩˥ | tʰi˧-tse˩ (-dʑo˩)
@@ -70297,7 +70298,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf On n'y est pas encore tout à fait / ce n'est pas encore tout à fait prêt! Il reste deux ou trois trucs à acheter! (Contexte: on achève la décoration d'un appartement à la ville; aux compliments des visiteurs, l'heureux propriétaire répond: ‘Ce n'est pas encore terminé!')
 \xv tʰi˧-tsʰo˥-kʰɯ˩
 \xe |fg{dur} 〜 |fg{caus}: to complete, to bring to complete readiness
-\xn 持续体 〜 |fg{caus}：完成、弄齐全
+\xn 持续体 〜 使动：完成、弄齐全
 \xf |fg{dur} 〜 |fg{caus}: porter à son point d'achèvement, porter au grand complet
 \dt 07/Oct/2015
 
@@ -71518,9 +71519,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf faire une tresse
 \xv ɖɯ˧-tsʰɤ˧~tsʰɤ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn 进行时态 〜 重叠 发端
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\dt 06/Jun/2017
 
 \lx tsʰɤ˧˥α
 \or ce
@@ -72114,7 +72114,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv tʰi˧-tsɯ˧~tsɯ˧
 \xe |fg{dur} |fg{red}
-\xn 持续体 〜 |fg{red}
+\xn 持续体 〜 重叠
 \xf |fg{dur} |fg{red}
 \xc PHONO
 \sn 2
@@ -72267,7 +72267,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv ɖɯ˧-ʈʂɯ˧-ɻ̩˥
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn |fg{delimitative} 〜 |fg{inceptive}
+\xn 进行时态 〜 发端
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \xv ʈʂɯ˩~ʈʂɯ˧˥
@@ -72602,9 +72602,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf |fg{neg}
 \xc PHONO
 \xv ɖɯ˧-tsɯ˧~tsɯ˥-ɻ̩˩
-\xe |fg{delimitative} |fg{red} |fg{inceptive}
-\xn |fg{delimitative} |fg{red} |fg{inceptive}
-\xf |fg{délimitatif} |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xn 进行时态 〜 重叠 发端
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv njɤ˩ɭɯ˧ tsɯ˩pʰɤ˩
 \xe to blink
 \xn 眨眼
@@ -73473,7 +73473,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
 \xe 〜 |fg{neg} |fg{fut_imm}
-\xn 〜 |fg{neg} |fg{fut_imm}
+\xn 〜 否定 近将来
 \xf 〜 |fg{neg} |fg{fut_imm}
 \xv tso˧~tso˧ ʈʂʰv̩˥
 \xe to dye things
@@ -74029,7 +74029,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf danser ensemble, danser en groupe
 \xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥
 \xe |fg{red} |fg{inceptive}
-\xn 〜 重叠 |fg{inceptive}
+\xn 〜 重叠 发端
 \xf |fg{red} |fg{inchoatif}
 \xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
 \xe |fg{accomp} |fg{red} |fg{pfv}
@@ -76395,9 +76395,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 绕一绕
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv wɤ˩~wɤ˩ bi˩˥
-\xe |fg{imm_fut}
-\xn |fg{imm_fut}
-\xf |fg{fut_imm}
+\xe 〜 |fg{imm_fut}
+\xn 〜 近将来
+\xf 〜 |fg{fut_imm}
 \xc PHONO
 \xv wɤ˩~wɤ˩-ze˥
 \xe |fg{pfv}
@@ -77819,9 +77819,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Somnoler.
 \gf somnoler
 \xv ʑi˧ŋɤ˥-ze˩
-\xe |fg{pfv}
-\xn |fg{pfv}
-\xf |fg{pfv}
+\xe 〜 |fg{pfv}
+\xn 〜 整体体
+\xf 〜 |fg{pfv}
 
 \lx ʑi˧ŋv̩˥
 \sf <nb="B"> 1517b
@@ -78755,7 +78755,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf se balancer un peu
 \xv ʐo˩~ʐo˧-ze˥
 \xe 〜 |fg{red} |fg{pfv}
-\xn 〜 |fg{red} |fg{pfv}
+\xn 〜 重叠 整体体
 \xf 〜 |fg{red} |fg{pfv}
 \xv le˧-ʐo˩~ʐo˩
 \xe |fg{accomp} 〜 |fg{red}
@@ -79357,9 +79357,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf avoir le corps engourdi
 \xv tʰi˧-zɯ˩~zɯ˩
 \xe |fg{dur} |fg{red}
-\xn 持续体 〜 |fg{red}
+\xn 持续体 〜 重叠
 \xf |fg{dur} |fg{red}
-\dt 06/Oct/2015
 
 \lx zɯ˧~zɯ˧
 \sf <nb="B"> 247
@@ -79799,7 +79798,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf carré
 \xv ʐɻ̩˧ɻ̩˥ ɲi˩.
 \xe 〜 |fg{cop}
-\xn 〜 |fg{系动词}
+\xn 〜 系动词
 \xf 〜 |fg{cop}
 \xv ʐɻ̩˧ɻ̩˥-gv̩˩
 \xe square
@@ -81609,7 +81608,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\ton ?
+\ton MH
 \lc qɑ˧˥
 \so F4
 \de topic marker: as for… This morpheme is systematically accompanied by intonational focalization of the preceding word.
