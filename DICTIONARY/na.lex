@@ -6295,7 +6295,7 @@
 
 \lx pʰæ˩
 \or paeq
-\bw <langue="cmn">
+\bw <langue="cmn"> 拍
 \ps v
 \lc pʰæ˩˥
 \sd <langue="fra"> verbe
@@ -14107,7 +14107,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra">
 \cf fæ˩ɕi˧
 \ton H#
 \lc ɖʐwæ˧ʝi˥
@@ -25288,14 +25287,38 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> ton d3 (vérifié en 2009)
-\nt <dom="phono" langue="fra"> variante tonale #H
+\nt <dom="phono" langue="fra"> Ce mot admet une variante au ton #H.
+\nt <dom="phono" langue="eng"> This word has a variant carrying #H tone.
+\nt <dom="phono" langue="cmn"> 这个词有一个#H调变体。
 \ton L
 \lc jo˩zo˩˥
+\cf jo˧zo#˥
 \so F4
 \va <speaker="F5"> ID.
-\vc <langue="fra" dom="ton"> L
 \va <speaker="M21"> ID.
-\va <speaker="M23"> jo˧zo˧
+\pdv ɭɯ˧β
+\de Lamb.
+\ge lamb
+\dn 绵羊羔
+\gn 绵羊羔
+\df Agneau.
+\gf agneau
+
+\lx jo˧zo#˥
+\sf <nb="B"> 1891
+\sf <nb="2011"> 2874
+\or yosso
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\nt <dom="phono" langue="fra"> Cette forme est une variante de la forme au ton L.
+\nt <dom="phono" langue="eng"> This is a variant of the L-tone form.
+\nt <dom="phono" langue="cmn"> 这个#H调形式是一个变体。
+\ton #H
+\lc jo˧zo˧
+\cf jo˩zo˩
+\so F4
+\va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \de Lamb.
 \ge lamb
@@ -25449,7 +25472,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> ton d'abord noté ˩˧
-\nt <dom="phono" langue="fra"> ton déduit de la forme interrogative
 \ton MH
 \lc kʰi˧˥
 \cf bi˧γ
@@ -25472,7 +25494,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 你今天出去了吗？
 \xf tu es allé faire un tour dehors, aujourd'hui?/tu es sorti, aujourd'hui? (Contexte: question posée par un consultant alors que je le raccompagne après une séance de travail vespérale)
 \rf M23
-\nt <dom="phono" langue="fra"> Ton différent de celui utilisé par F4.
+\xc <dom="phono" langue="fra"> Ton différent de celui utilisé par F4.
 \xv ‡ʈʂʰɯ˧ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ə˧-kʰi˥?
 \xe ‡Did he go outside today? / Did he take a stroll today? (Ungrammatical sentence: this verb cannot be used in the third person.)
 \xn 他今天出去了吗？（这是病句：这个动词不能用于第三人称。）
@@ -25663,7 +25685,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n" langue="fra">
 \ton #H
 \lc kʰi˧qʰv̩˧
 \so F4
@@ -26157,8 +26178,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra">
-\nt <dom="phono" langue="fra"> fendre du bois
 \ton Lβ
 \lc kɤ˩˥
 \so F4
@@ -26172,7 +26191,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to saw a piece of wood
 \xn 锯一块木头
 \xf scier un morceau de bois
-\dt 15/Jun/2017
 
 \lx kʰo˧bɤ˧
 \or kobbe
@@ -26687,7 +26705,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra">
 \nt <dom="phono" langue="fra"> La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
 \ton L-#H
 \lc kɤ˩tjɤ˧ljɤ˧
@@ -32672,7 +32689,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" dom="morpho" print="n" langue="fra"> Première impression en 2006: “longueur: sans doute simplement le fait d'une frontière". En fait, l'analyse du mot amène à reconnaître quatre morphèmes: /lo˧ i˧ hĩ˧ hĩ˧/. lo˧i˧: travailler (composé de 'travail'+'faire'); hĩ˧: sert à former une relative, “qui travaille"; hĩ˧ “homme". Confirmé auprès de F5: une syllabe distincte hĩ˧ ne lui paraît pas adéquate, mais en revanche l'allongement avec début de nasalisation est indispensable, ce qui témoigne du /hĩ˧/ coalescent.
 \nt <dom="phono" langue="fra"> Phonétiquement proche de [|fv{lo˧ʝiː˧hĩ˧}] ou [|fv{lo˧ʝiĩ˧hĩ˧}], le relatif /|fv{-hĩ˥}/ étant coalescent. La même observation vaut pour les autres noms d'agents comportant cette séquence, /|fv{-hĩ˥}/+/|fv{hĩ#˥}/.
 \nt <dom="phono" langue="eng"> Phonetically close to [|fv{lo˧ʝiː˧hĩ˧}] or [|fv{lo˧ʝiĩ˧hĩ˧}], the relativizer /|fv{-hĩ˥}/ being coalescent. The same applies to other agent names built using this /|fv{-hĩ˥}/+/|fv{hĩ#˥}/ sequence.
-\nt <dom="phono" langue="cmn"> Phonétiquement proche de [|fv{lo˧ʝiː˧hĩ˧}] ou [|fv{lo˧ʝiĩ˧hĩ˧}], le relateur /|fv{-hĩ˥}/ étant coalescent. La même observation vaut pour les autres noms d'agents comportant cette séquence, /|fv{-hĩ˥}/+/|fv{hĩ#˥}/.
+\nt <dom="phono" langue="cmn"> 实际发音接近 [|fv{lo˧ʝiː˧hĩ˧}]或[|fv{lo˧ʝiĩ˧}]，因为关系词/|fv{-hĩ˥}/明显弱化。同样的情况也出现于包括此语素（/|fv{-hĩ˥}/+//|fv{hĩ#˥}/）的其它短语。
 \nt <type="hist" print="n" langue="fra" dom="ton"> Tons vérifiés. Avais noté ˧ ˧ ˧ ˥ au début (2006), du fait du renforcement de la dernière syllabe.
 \ton #H
 \lc lo˧ʝi˧hĩ˧hĩ˧
@@ -40177,7 +40194,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra">
 \ton L
 \lc ɲi˩pʰɻ̩˩˥
 \so F4
@@ -49033,7 +49049,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf qɑ˧˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra">
 \ton L+MH
 \lc qɑ˩qɑ˧˥
 \so F5
@@ -56114,7 +56129,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra">
 \ton -L
 \lc se˧dʑæ˩ɻæ˩
 \so F4
@@ -58308,7 +58322,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra">
 \ton -L
 \lc ʂo˧qo˧tʰɑ˩
 \so F4
@@ -61526,7 +61539,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra">
 \cf ʂwæ˩α
 \ton M
 \lc tɑ˧nɑ˧
@@ -71292,7 +71304,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra">
 \ton L#
 \lc tso˧tɕɤ˩
 \so F4
@@ -78199,7 +78210,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc zo˩bv̩˥li˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="dialect" langue="eng">
 \nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce mot se prononce ssobbulee (troisième syllabe: |fv{ɭɯ}) dans les dialectes dont elle a l'expérience. S'il se confirmait que cette prononciation (qui coïncide avec celle de Daeshi (M18): /|fv{zo˩bv̩˧ɭɯ˩}/) est plus répandue que celle en ...|fv{li}, l'orthographe serait à modifier de ssobbuli en ssobbulee.
 \nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs (19/05/2024): this word is ssobbulee (with |fv{ɭɯ} as its third syllable) in the dialects that she is familiar with. In case it is confirmed that this pronunciation (also coinciding with Daeshi's pronunciation /|fv{zo˩bv̩˧ɭɯ˩}/) is more widespread than that with final |fv{li}, spelling should be changed from ssobbuli to ssobbulee.
 \so F4
