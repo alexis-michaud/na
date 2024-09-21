@@ -26583,7 +26583,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Ton corrigé en juin 2024. Avais auparavant fait une note signalant que ce nom, suivi de la copule, donnait un ton H (… ɲi˥), mais n'avais pas reporté cette observation vers la forme phonologique du mot.
 \nt <dom="sem" langue="fra"> La locutrice ne distingue pas plusieurs sortes de rapaces: aigle (cette entrée), faucon (|fn{隼}), buse… Le seul terme qu'elle utilise est celui-ci. Les termes élicités pour d'autres rapaces étaient des erreurs d'élicitation.
-\nt <dom="phono" langue="fra"> Les deux dernières syllabes, /-nɑ.mi/, constituent manifestement un suffixe. Mais il n'existe pas de terme monosyllabique en usage pour désigner l'aigle ou autre rapace.
+\nt <dom="phono" langue="fra"> Les deux dernières syllabes, /|fv{-nɑ.mi}/, constituent manifestement un suffixe. Mais il n'existe pas de terme monosyllabique en usage pour désigner l'aigle ou autre rapace.
+\nt <dom="phono" langue="eng"> The last two syllables, /|fv{-nɑ.mi}/, are clearly a suffix. But there is no monosyllabic term in current use for eagles or other birds of prey.
+\nt <dom="phono" langue="cmn"> 最后两个音节/|fv{-nɑ.mi}/显然是一个后缀。但没有单音节词指老鹰或其他猛禽。
 \ton L-#H
 \lc kɤ˩nɑ˧mi˧
 \so F4
@@ -26677,7 +26679,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" print="n" langue="fra"> d'abord noté ‡qɑ˧˥…, du fait d'une forte harmonie vocalique
-\nt <dom="phono" langue="fra"> (ton inhabituel)
+\nt <dom="phono" langue="fra"> Le schéma tonal de ce mot est inhabituel: il ne fait pas partie de l'inventaire des tons lexicaux des noms communs.
+\nt <dom="phono" langue="eng"> The tonal pattern of this word is unusual: it is not part of the inventory of lexical tones for common nouns.
+\nt <dom="phono" langue="cmn"> 这个词的声调不同寻常，不存在于普通名词的本调目录中。
 \ton MH+L
 \lc kɤ˧˥tʰɑ˩
 \so F4
@@ -26705,7 +26709,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="phono" langue="fra"> La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne lorsque le choix est donné à F4 entre les deux formes.
+\nt <dom="phono" langue="fra"> La variante /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ est courante, mais considérée comme moins bonne que /|fv{kɤ˩-tjɤ˧ljɤ#˥}/ lorsque le choix est donné à F4 entre les deux formes.
+\nt <dom="phono" langue="eng"> The variant /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/ is fairly common, but when asked about the relative merits of both forms, F4 considers it as less good than /|fv{kɤ˩-tjɤ˧ljɤ#˥}/.
+\nt <dom="phono" langue="cmn"> /|fv{kwɤ˩-tjɤ˧ljɤ#˥}/变体相当普遍，但主合作人认为/|fv{kɤ˩-tjɤ˧ljɤ#˥}/更准确。
 \ton L-#H
 \lc kɤ˩tjɤ˧ljɤ˧
 \so F4
@@ -27135,15 +27141,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> njɤ˧ɳɯ˧ no˧ kɤ˩kɤ˧ bi˥!: avant 2009: noté …kɤ˩kɤ˧bi˧, par erreur); ʈʂo˧tsɯ˥kɤ˩kɤ˩ +ze˩/bi˩, ʈʂo˧tsɯ˥kɤ˩kɤ˩bi˩: tons vérifiés en 2006 et à nouveau en 2007)
-\nt <dom="phono" langue="fra"> frapper doucement, toquer; aussi pour: petits coups qu'on donne sur un sofa pour chasser les miettes et poussières
 \ton L+MH#
 \lc kɤ˩kɤ˧˥
 \so F4
-\de To knock, to tap, to poke.
+\de To tap, to knock, to poke: for example, tapping a sofa to remove crumbs and dust.
 \ge to_tap
-\dn 敲、拍
+\dn 敲击、拍：例如，敲击沙发以清除碎屑和灰尘。
 \gn 敲/拍
-\df Tapoter.
+\df Tapoter: par exemple donner de petits coups sur un canapé afin d'en chasser les miettes et poussières.
 \gf tapoter
 \xv kʰi˧ kɤ˥~kɤ˩
 \xe to knock at the door
@@ -27596,6 +27601,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf ʝi˩næ˩-se˧
 \lc kʰu˧mi˩
 \nt <dom="phono" langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
+\nt <dom="phono" langue="eng"> The syllable /kʰu/ does not exist in words of the Na stock, only in the pronunciation of Mandarin words.
+\nt <dom="phono" langue="cmn"> /kʰu/音节不存在于摩梭话中，只存在于普通话借词的发音中。
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#
@@ -28887,7 +28894,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" print="n" langue="fra"> vérifié: est bien ɻ̩̃˧ɻ̩˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
-\nt <dom="phono" langue="fra"> pas réussi à déterminer le ton lexical, les contextes d'apparition étant restreints
+\nt <type="hist" dom="ton" langue="fra" print="n"> L'établissement du ton lexical a été laborieux, les contextes d'apparition étant restreints.
 \ton H$
 \lc kʰv̩˧tɕʰi˥
 \so F4
@@ -28969,7 +28976,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="phono" langue="fra"> sens vérifié: 1 tête contient plusieurs gousses
 \ton L#
 \lc kv̩˧tsʰɤ˩
 \so F4
@@ -29237,6 +29243,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> verb
 \ton M
 \lc kwæ˧
+\sy kwɤ˩α2
 \so F4
 \de To take care of, to take charge of.
 \ge 管::to_take_care_of
@@ -29244,7 +29251,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 管（借词）
 \df S'occuper de, se charger de.
 \gf s_occuper_de
-\dt 04/Sep/2015
 
 \lx kwæ˧fæ˥
 \or guaefae
@@ -29581,13 +29587,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> vérifié: initiale vélaire et non uvulaire(confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> aussi dans un sens figuré: ex.: récit 1: celui-là, on va le mettre dans un coin (mendiant): littéralement “on va le jeter dans un coin"
+\nt <type="hist" print="n" langue="fra" dom="phono"> vérifié: initiale vélaire et non uvulaire
+\nt <type="hist" print="n" langue="fra" dom="ton"> Confirmé en 2012: est un ton L.
 \ton Lα
 \lc kwɤ˩˥
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
+\sn 1
 \de To throw away (rubbish).
 \ge to_throw_away
 \dn 扔掉
@@ -29603,18 +29610,32 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 扔东西
 \xf jeter des choses
 \xc PHONO
-\dt 04/Sep/2015
+\sn 2
+\de To get rid of, to oust, to dismiss (a person).
+\ge to_dismiss
+\dn 摆脱、撵走、解雇（某人）。
+\gn 撵走
+\df Se débarrasser de, évincer, écarter (une personne).
+\gf évincer
+\xv «hɑ˧mi˥-hĩ˩ | tʰv̩˧-v̩˧ F | le˧-di˧˥, | mv̩˩tɕo˧ kwɤ˩, | kʰv̩˩mi˩˥ F | le˧-di˧˥ | mv̩˩tɕo˧ kwɤ˩!»
+\xe ‘Let's chase that beggar, let's throw him out (literally: ‘throw him down’), let's chase that dog, let's throw him out!’
+\xn “这个乞丐，（咱们）要赶走了（吧）、扔出去了（直译：往下扔了）！狗（也）要赶走了（吧）、扔出去了（直译：往下扔了）！”
+\xf «Chassons [ce] mendiant, mettons-le dehors (littéralement: “jetons-le vers le bas”), chassons [ce] chien, mettons-le dehors!»
+\txt Sister3.27
+\doi 10.24397/pangloss-0004345#S27
 
 \lx kwɤ˩α
 \hm 2
 \or guaq
-\bw <langue="cmn"> 管
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> n'est pas un emprunt; le mot chinois |fn{管} est emprunté avec ton moyen et voyelle æ
+\nt <dom="ety" langue="fra"> Le mot chinois |fn{管} est emprunté avec ton moyen et voyelle |fv{æ}. La présente entrée pourrait constituer un emprunt plus ancien du même mot. Mais il n'est pas évident qu'il s'agisse d'un emprunt.
+\nt <dom="ety" langue="eng"> The Chinese word |fn{管} is borrowed with middle tone and vowel |fv{æ}. This entry could be an earlier borrowing of the same word, but it is not altogether clear that it is a borrowing.
+\nt <dom="ety" langue="cmn"> ‘管’这个近期借词在摩梭话中有|fv{æ}韵母与中调（Ｍ）。|fv{kwɤ˩}这个词条可能也是从汉语的‘管’借来的，属于更早的一层借词。目前为止，尚未确定是否是一个借词。
 \ton Lα
 \lc kwɤ˩˥
+\sy kwæ˧
 \so F4
 \de To manage, to be in charge of, to take care of.
 \ge to_manage
@@ -29821,7 +29842,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> “il y a de la rosée"
 \ton MH
 \lc lɑ˧˥
 \so F4
@@ -31747,7 +31767,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ɬi˩kʶwɤ˩˥)
-\nt <dom="phono" langue="fra"> (mot “lolo-birman" selon Matisoff)
+\nt <dom="ety" langue="fra"> James Matisoff considère qu'il s'agirait là d'un mot typiquement “lolo-birman".
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -31772,7 +31792,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ɬi˩ʁɑ˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra"> (cf récit 1)
 \ton L
 \so F4
 \de Infuriated, in a rage (connotation: attitude of a violent and overbearing person).
@@ -31785,7 +31804,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to abandon oneself to one's rage
 \xn 大发雷霆
 \xf se livrer au courroux
-\dt 16/Jun/2017
+\txtsup Sister.88
+\doisup 10.24397/pangloss-0004342#S88
 
 \lx ɬi˩ʈɯ˩mæ˥
 \sf <nb="2011"> 594
@@ -32403,12 +32423,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> lõ55bɯ22tɕʰi22 (emprunt tibétain)/ lõ55tɕʰĩ51 (notation AM: lõ˥bv̩˩tɕʰi˩)
-\nt <dom="phono" langue="fra"> emprunt au prinmi: cf prinmi lõ55bo55tɕhi53
+\comp <langue="pmi"> lõ55bɯ22tɕʰi22 / lõ55bo55tɕhi53
+\nt <dom="ety" langue="fra"> La forme est proche de celle attestée en pumi. Un changement de *tɕʰi à ʈʂʰɯ a pu se produire postérieurement à l'emprunt.
 \ton L#-
 \so F4
 \va <speaker="F5"> lo˧bv̩˩ʈʂʰv̩˩
-\vc <langue="fra" print="n"> +ɲi˩; notation 2006: lo˥bv̩˧ʈʂʰv̩˩; emprunt au prinmi? cf prinmi lõ55bo55tɕhi53
+\vc <langue="fra" print="n"> +ɲi˩; notation 2006: lo˥bv̩˧ʈʂʰv̩˩
 \va <speaker="M21"> lo˧bv̩˧ʈʂʰɯ˩
 \vc <langue="fra" print="n"> Notes anciennes: "lu˧bv̩˧ʈʂʰɯ˩ (tons vérifiés) +ɲi˩".
 \va <speaker="M23"> ID.
@@ -33292,7 +33312,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme “le Lac", /|fv{hi˩nɑ˧mi#˥}/.
 \nt <dom="sem" langue="eng"> Lugu Lake can also be referred to simply as “the Lake", /|fv{hi˩nɑ˧mi#˥}/.
 \nt <dom="sem" langue="cmn"> 泸沽湖还能简单称作“湖”，/|fv{hi˩nɑ˧mi#˥}/。
-\nt <dom="phono" langue="fra"> L'expression est formée par simple succession du nom de lieu |fv{lo˧ʂv̩˩} et du nom commun ‘lac’. Leur composition n'amène pas de changement tonal.
+\nt <dom="morpho" langue="fra"> L'expression est formée par simple succession du nom de lieu |fv{lo˧ʂv̩˩} et du nom commun ‘lac’. Leur composition n'amène pas de changement tonal.
+\nt <dom="morpho" langue="eng"> The expression consists of the simple succession of the place name |fv{lo˧ʂv̩˩} and the common noun ‘lake’. There is no tonal change.
+\nt <dom="morpho" langue="cmn"> 该名词由地名|fv{lo˧ʂv̩˩}‘落水’与普通名词‘湖’的简单连用组成。没有声调变化。
 \ton L# | L-
 \lc lo˧ʂv̩˩hi˩nɑ˧mi˧
 \so F4
@@ -34329,8 +34351,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (erreur: ɖʐe˩˥ i˧ mɤ˧ i˧ ze˩)(confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> ton 3a
+\nt <type="hist" print="n" langue="fra"> (erreur: ɖʐe˩˥ i˧ mɤ˧ i˧ ze˩)
+\nt <type="hist" print="n" langue="fra"的 dom="ton"> Confirmé en 2012: est un ton L. Sous-catégorie: ton 3a.
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -34647,8 +34669,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \comp <langue="pmi" print="n"> lʲʷʌ51 (lɥɤ˥˩)
 \nt <type="hist" print="n" langue="fra"> (notations 2006: “/lu˩˥/, diphtongué vers ə: [luə˩˥]; analyse: rime diphtonguée pour maintenir une distance avec /lo˩˥/?")
 \nt <type="hist" print="n" langue="fra"> (notations 2006: “lu˩˥, diphtongué vers ə ou ɤ: [luɤ˩˥]; la prononciation [lu˩˥] est jugée incorrecte")
-\nt <dom="sem" langue="fra"> emprunt au prinmi?
-\nt <dom="phono" langue="fra"> Phonétiquement, le /wɤ/ se réalise comme une diphtongue dans laquelle le [u] a une place prépondérante; cf proposition de notation des diphtongues par J.V.: noter [uə] et mettre le schwa en exposant. Comparable à hw̃ɤ “lent", qui s'attarde sur la partie notée “glide", au point de la faire ressembler au noyau vocalique.
+\nt <dom="ety" langue="fra"> Une piste à explorer: pourrait-il s'agir d'un emprunt au pumi?
+\nt <dom="phono" langue="fra"> Phonétiquement, le /|fv{wɤ}/ se réalise comme une diphtongue dans laquelle la composante labiale-vélaire, de type [|fv{u}], a une place prépondérante. Si l'on suit la proposition de notation des diphtongues par Jacqueline Vaissière, on pourrait noter [|fv{uə}] en plaçant le schwa en exposant. Cette situation est comparable à celle de l'adjectif /|fv{hw̃ɤ}/ ‘lent’: la réalisation phonétique s'attarde sur la partie notée comme une semi-consonne (qui est là de type [|fv{õ}]), au point de donner l'impression que celle-ci constitue le noyau vocalique.
+\nt <dom="phono" langue="eng"> Phonetically, /|fv{wɤ}/ is realized in this word as a diphthong in which the labial-velar component, close to [|fv{u}], plays a dominant role. Following Jacqueline Vaissière's proposed notation for diphthongs, it could be transcribed as [|fv{uə}], typesetting the schwa as a superscript. This situation is comparable to that of the adjective /|fv{hw̃ɤ}/ ‘slow’: the phonetic realization lingers on the part transcribed as a glide (which in this case is [|fv{õ}]-like), to the point of giving the impression that it constitutes the syllable's nucleus.
+\nt <dom="phono" langue="cmn"> 从语音上看，/|fv{wɤ}/韵母在这个单词中的实际发音是双元音，其中唇齿音成分起主导作用（其发音接近 [|fv{u}]）。根据Jacqueline Vaissière推荐的双元音标注符号，可将其转写为[|fv{uə}]，并将[|fv{ə}]部分排成上标。这种情况与形容词/|fv{hw̃ɤ}/‘慢’的情况类似：发音停留在转录为滑音的部分（在那个词里类似[|fv{õ}]），以至于给人的印象是滑音部分变成音节的核心。
 \ton LH
 \lc lwɤ˩˥
 \so F4
