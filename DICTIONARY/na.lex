@@ -35185,7 +35185,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (sens vérifié)
-\nt <dom="phono" langue="fra"> entièrement homophone avec “yuan (unité monétaire)"
 \ton Lα
 \lc ɖɯ˧ mæ˩
 \so F4
@@ -35652,7 +35651,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (tons confirmés)
-\nt <dom="phono" langue="fra"> cf aussi 500 “torche", qui a aussi pour deuxième syllabe /tʰv/
+\nt <dom="morpho" langue="fra"> À rapprocher du mot ‘torche’, /|fv{mv̩˧tʰv̩˧˥}/, qui a aussi pour deuxième syllabe /|fv{tʰv̩}/.
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -35664,9 +35663,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ge walking_stick
 \dn 拐棍
 \gn 拐棍
-\df Bâton, canne pour marcher.
+\df Canne, bâton de marche.
 \gf canne
-\dt 24/Apr/2017
 
 \lx mi˩zɯ˩
 \sf <nb="B"> 263
@@ -35723,7 +35721,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to beg a little, to ask around for some food
 \xn 讨点饭
 \xf mendier un peu
-\dt 24/Apr/2017
 
 \lx mje˧˥
 \sf <nb="B"> 385
@@ -35735,7 +35732,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc mje˧˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="phono" langue="fra"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4 (et à nouveau en 2024).
+\nt <dom="phono" langue="fra" type="hist" print="n"> syllabe non attestée ailleurs dans le système; voyelle peu stable, entre [jæ], [je] et [jɤ]; solution adoptée le 15/08/2014: notation comme /je/, rime particulière aux emprunts chinois. Vérifié soigneusement avec F4 (et à nouveau en 2024).
+\nt <dom="phono" langue="fra"> La syllabe |fv{mje} n'est pas attestée ailleurs que dans certains emprunts chinois. Peu stable, elle connaît des réalisations qui oscillent entre [|fv{jæ}], [|fv{je}] et [|fv{jɤ}]. La solution adoptée consiste à ajouter à l'inventaire une rime /|fv{je}/, particulière aux emprunts chinois récents.
+\nt <dom="phono" langue="eng"> The syllable |fv{mje} is only found in some Chinese loanwords. Its realizations oscillate between [|fv{jæ}], [|fv{je}] and [|fv{jɤ}]. The solution adopted is to add a /|fv{je}/ rhyme to the inventory, specifically for recent Chinese loans.
+\nt <dom="phono" langue="cmn"> |fv{mje}音节仅出现在一些汉语借词中。其发音在[|fv{jæ}]、[|fv{je}]和[|fv{jɤ}]之间摇摆。所采取的解决办法是在韵母表中增加一个/|fv{je}/韵，专门用于近期汉语借词。
 \so F4
 \va <speaker="F5"> *
 \de Noodles.
@@ -36149,7 +36149,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \comp <langue="pmi" print="n"> mu22mu51
-\nt <dom="phono" langue="fra"> ton confirmé en 2011: d7
+\nt <type="hist" print="n" dom="ton" langue="fra"> ton confirmé en 2011: d7
 \ton H#
 \lc mo˧mo˥
 \so F4
@@ -36679,7 +36679,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> particule finale d'affirmation
-\nt <dom="phono" langue="fra"> Le ton de cette particule est déduit des rares occurrences où il n'est pas déterminé par le contexte, par exemple Healing.66.
 \ton M
 \lc mv̩˧
 \so F4
@@ -36689,6 +36688,15 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 嘛.肯定式
 \df Particule finale affirmative.
 \gf |fg{affirm}
+\xv hu˧mi˧ go˧˥ ◊ -ɲi˩-ho˩-ze˩, | zo˩no˧-ɲi˩-pi˩, | zo˩no˥, | hu˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥ | le˧-qʰwɤ˧-ze˧-mæ˧! |
+\xe It must have been a stomachache; nowadays, you can cure that by taking stomach medication!
+\xn 应该是胃痛。现在吃点胃药就能治好！
+\xf Ca devait être un mal d'estomac; de nos jours, eh bien, ça se guérit en prenant des médicaments pour l'estomac!
+\txt Healing.66
+\doi 10.24397/pangloss-0004541#S66
+\xc <dom="ton" langue="fra"> Le ton de cette particule est déduit des rares occurrences, telles que celles-ci, où il n'est pas déterminé par le contexte.
+\xc <dom="ton" langue="eng"> The tone of this particle is deduced from the rare occurrences, such as the present one, where it is not determined by the context.
+\xc <dom="ton" langue="cmn"> 该句末语气词的本调是根据一种极少出现的情况（如本句），即语气词的声调不是由上下文决定。这种情况下，可以听到句末语气词的本调。
 
 \lx mv̩˥
 \sf <nb="B"> 1221
@@ -36876,7 +36884,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> +ɲi˩
 \nt <type="hist" print="n" langue="fra"> Avais interprété la composition de l'expression commes: |fv{mv̩˧} =ciel, |fv{bv̩˧}=possessif, |fv{ʐv̩˥} = serpent. En réalité, c'est le disyllabe /|fv{bv̩˧ʐv̩˥}/ qui signifie 'serpent'.
-\nt <dom="phono" langue="fra"> Phonétiquement: proche de [|fv{m˧bv̩˧ʐv̩˥}].
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{m˧bv̩˧ʐv̩˥}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{m˧bv̩˧ʐv̩˥}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{m˧bv̩˧ʐv̩˥}]。
 \ton H#
 \so F4
 \va <speaker="F5"> ID.
@@ -38248,7 +38258,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc mv̩˧tʰv̩˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf aussi “bâton pour marcher", qui a aussi pour deuxième syllabe /tʰv/
+\nt <dom="morpho" langue="fra"> À rapprocher du mot ‘canne, bâton de marche’, /|fv{mi˧tʰv̩#˥}/, qui a aussi pour deuxième syllabe /|fv{tʰv̩}/.
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -39124,7 +39134,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ŋæ˧ʝi˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> “soutenir"
 \ton L#
 \so F4
 \de Easy and comfortable, at ease. Borrowing from Southwestern Mandarin.
@@ -39133,7 +39142,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 安逸（借词）
 \df À l'aise, dans le confort, dans l'abondance. Emprunt au dialecte mandarin du sud-ouest.
 \gf 安逸::à_l_aise
-\dt 21/Jun/2017
 
 \lx nɑ˩kwɤ˧
 \sf <nb="B"> 2010
@@ -39270,7 +39278,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (+hĩ˩, tons vérifiés en mai 2008 avec M18; avais d'abord noté nɑ˩qʰæ˧ʈʂʰe˥, puis kʶæ˥ʈʂʰe˧); se réduplique en: næ˩qʰæ˧ næ˩qʰæ˧ ʈʂʰe˩, en surélevant les deux premières syllabes (d'abord noté ʈʂʰe˥, et kʶæ˥)
-\nt <dom="phono" langue="fra"> unique exemple de la syllabe /næ/: /n/ non rétroflexe suivi de /æ/. Le lien évident avec /nɑ/ “noir" suggère que la réalisation æ est le fruit d'une harmonie vocalique régressive.
+\nt <dom="phono" langue="fra"> Ce mot constitue l'unique exemple observé à ce jour de la combinaison syllabique /|fv{næ}/: un /|fv{n}/ non rétroflexe suivi de la voyelle /|fv{æ}/. Le lien évident avec /|fv{nɑ}/ “noir" suggère que la réalisation |fv{æ} est le fruit d'une harmonie vocalique régressive.
+\nt <dom="phono" langue="eng"> This word is the only example to date of the syllable combination /|fv{næ}/: a non-retroflex /|fv{n}/ followed by the vowel /|fv{æ}/. The obvious link with /|fv{nɑ}/ ‘black’ suggests that the |fv{æ} vowel quality in this word results from regressive vowel harmony.
+\nt <dom="phono" langue="cmn"> 这个词是迄今为止/|fv{næ}/音节的唯一例子：非卷舌的鼻音声母/|fv{n}/跟/|fv{æ}/元音。与/|fv{nɑ}/‘黑’的明显联系表明，此处的|fv{æ}应该是元音和谐的结果。
 \so F4
 \va <speaker="M18"> nɑ˩-qʰæ˧ʈʂʰe˩
 \va <speaker="M21"> nɑ˩-qʰæ˧ ʈʂʰe˥ (+gv̩˩)
@@ -39281,7 +39291,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 黑乎乎
 \df Noir, sombre.
 \gf tout_noir
-\dt 13/Jun/2017
 
 \lx nɑ˩tsʰi˩
 \or Nacee
@@ -39667,7 +39676,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> /ɖɯ˧ ɲi˧ ɻ̩˥/
 \nt <type="hist" print="n" langue="fra"> hĩ˥ njɤ˥ ki˥ tso˧~tso˧ ɲi˧ tsʰɯ˥
-\nt <dom="phono" langue="fra"> sens plus large que 1354b: est “demander", d'où l'emploi dans le sens de “emprunter"
 \ton H
 \lc ɲi˧
 \so F4
@@ -40700,7 +40708,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> ex.: histoire “travaux"
 \ton Lα
 \lc ɲi˩˥
 \so F4
@@ -40722,7 +40729,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe |fg{delimitative} |fg{red} |fg{inceptive}
 \xn 捻一捻
 \xf |fg{délimitatif} |fg{red} |fg{inchoatif}
-\dt 09/Sep/2015
+\txtsup Agriculture.82
+\doisup 10.24397/pangloss-0004441#S82
 
 \lx ɲi˩α
 \sf <nb="2011"> 1779
@@ -40975,7 +40983,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Note ancienne: “souvent prononcé proche de [njæ˧]… mais est bien /njɤ˧/". Avant novembre 2011: pensais qu'il existait une forme /‡njæ˩-sɯ˧-kv̩˥/ exprimant le possessif; mais cette forme n'est plus reconnue par la suite: c'était en fait une erreur de prononciation.
-\nt <dom="phono" langue="fra"> prononcé avec, semble-t-il, une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. |fv{njɤ} est d'abord considéré comme la forme correcte, puis F4 choisit la variante |fv{njæ} comme étant la plus usuelle et la plus juste.
+\nt <dom="phono" langue="fra"> La première syllabe présente une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. La forme en |fv{njɤ} (/|fv{njɤ˧-sɯ˩kv̩˩}/) était dans un premier temps apparue comme la forme correcte, puis il est ressorti des échanges avec la locutrice de référence (F4) que la forme /|fv{njæ˧-sɯ˩kv̩˩}/ était la plus usuelle et faisait référence.
+\nt <dom="phono" langue="eng"> The first syllable shows some variation between [|fv{njɤ}] and [|fv{njæ}]. The |fv{njɤ} form (/|fv{njɤ˧-sɯ˩kv̩˩}/) initially appeared to be the correct one, then it emerged from discussions with the reference speaker (F4) that /|fv{njæ˧-sɯ˩kv̩˩}/ was more common and should be recorded as the current standard.
+\nt <dom="phono" langue="cmn"> 第一个音节的发音不是很稳定，有[|fv{njɤ}]变体和[|fv{njæ}]变体。带fv{njɤ}的这个变体（/|fv{njɤ˧-sɯ˩kv̩˩}/）最初被认为是正确的。但与主合作者（F4）讨论后发现，/|fv{njæ˧-sɯ˩kv̩˩}/更为常见，应作为当前标准记录下来。
 \ton -L
 \lc njæ˧sɯ˩kv̩˩
 \so F4
@@ -40994,6 +41004,18 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe They do not understand us! (Context: about people coming from other areas, who do not understand local custom and habits)
 \xn 他们不了解我们！
 \xf Ils ne nous comprennent pas! (Contexte: au sujet de gens venant d'autres régions, qui ne comprennent pas les us et coutumes locales)
+
+\lx njɤ˧-sɯ˩kv̩˩
+\or nyasigu
+\ps pro
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <dom="phono" langue="fra"> Variante de [|fv{njæ˧-sɯ˩kv̩˩}].
+\nt <dom="phono" langue="eng"> Variant of [|fv{njæ˧-sɯ˩kv̩˩}].
+\nt <dom="phono" langue="cmn"> [|fv{njæ˧-sɯ˩kv̩˩}]的变体。
+\ton -L
+\lc njɤ˧sɯ˩kv̩˩
+\cf njæ˧-sɯ˩kv̩˩
 
 \lx njæ˧tsɯ˩
 \sf <nb="B"> 2223
@@ -41752,7 +41774,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> (pas même prononciation que M21) (sens vérifié: pis de la vache)
+\nt <dom="phono" langue="fra" type="hist" print="n"> Vérifié: la prononciation de F4 est différente de celle de M21. Sens vérifié: il s'agit bien de la même chose, le pis de la vache.
 \ton L+H#
 \lc njo˩pɤ˩lv̩˥
 \so F4
@@ -42081,15 +42103,17 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xc PHONO
 \dt 25/Apr/2017
 
-\lx no˩zɯ˧˥
+\lx no˩=zɯ˧˥
 \or nossi
 \ps pro
-\cf no˧=zɯ˩
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="phono" langue="fra"> variante tonale: L#
 \ton LM+MH#
+\nt <dom="ton" langue="fra"> Ce mot admet deux variantes tonale: LM+MH# et L#.
+\nt <dom="ton" langue="eng"> This word has two tonal variants: LM+MH# and L#.
+\nt <dom="ton" langue="cmn"> 这个代词有两种声调变体：LM+MH#与L#。
 \lc no˩zɯ˧˥
+\sy no˧=zɯ˩
 \so F4
 \de Dual second person pronoun: you two.
 \ge |fg{2du}
@@ -42097,7 +42121,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 你们俩
 \df Pronom personnel de deuxième personne duel: vous deux.
 \gf |fg{2du}
-\dt 09/Sep/2015
 
 \lx no˩α
 \or noq
@@ -42191,12 +42214,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 3402
 \or nossi
 \ps pro
-\cf no˩zɯ˧˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="phono" langue="fra"> variante tonale: LM+MH#
+\nt <dom="ton" langue="fra"> Ce mot admet deux variantes tonale: LM+MH# et L#.
+\nt <dom="ton" langue="eng"> This word has two tonal variants: LM+MH# and L#.
+\nt <dom="ton" langue="cmn"> 这个代词有两种声调变体：LM+MH#与L#。
 \ton L#
 \lc no˧zɯ˩
+\sy no˩=zɯ˧˥
 \so F4
 \de Dual second person pronoun: you two.
 \ge |fg{2du}
@@ -43874,7 +43899,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /pʰæ˥kʰwɤ˩/ (corrigé en 2007; avais noté en 2006: pʰæ˧kʶwɤ˩)
 \nt <type="hist" print="n" langue="fra"> (notes avant 2009: “pʰæ˧kʰwɤ˩, ton d4; avais noté en 2006: pʰæ˧kʶɤ˩, tons et rimes vérifiées, n'est pas kʶwɤ˩; paraît être: /kʶv̩˩/, réalisé proche de [kʶɤ˩], combinaison qui n'existe pas phonémiquement ce qui permet un déplacement phonétique") Vérifié: la composition phonémique de la 2e syllabe est bien la même que “morceau", /kʰwɤ/.")
-\nt <dom="phono" langue="fra"> La physionomie vue par les Na (d'après F4): les Chinois se caractérisent par une grosse tête ronde, les Tibétains par un visage allongé, les Occidentaux par un long nez.
+\nt <dom="sem" langue="fra"> Quelques éléments de physionomie comparée du visage selon les Na: les Chinois se caractériseraient par une tête plutôt grosse et ronde, les Tibétains par un visage plutôt allongé, les Occidentaux par un long nez.
+\nt <dom="sem" langue="eng"> A few notions about comparative features of the face and head in different peoples, as seen by the Na: the Chinese are perceived as tending to have a large, round head, the Tibetans an elongated face, and Western foreigners a long nose.
+\nt <dom="sem" langue="cmn"> 在摩梭人眼中，不同民族的脸部和头部特征如下：汉族人的头相当大而圆，藏族人的脸修长，老外（西方外）的鼻子长。
 \ton L#
 \lc pʰæ˧qʰwɤ˩
 \so F4
@@ -43888,7 +43915,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 脸
 \df Visage.
 \gf visage
-\dt 26/Apr/2017
 
 \lx pæ˧ɻæ˩-ʈʂʰo˩
 \or Bae'ercho
@@ -44079,7 +44105,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> L'hypothèse d'un emprunt au chinois, par exemple |fn{摆}, a été envisagée. Mais le mot n'est pas perçu par la locutrice comme un emprunt chinois.
+\nt <dom="phono" langue="fra"> L'hypothèse d'un emprunt au chinois |fn{摆} a été envisagée, et paraît tout à fait plausible. Mais le mot n'est pas perçu par la locutrice comme un emprunt chinois.
+\nt <dom="phono" langue="eng"> The hypothesis of a borrowing from Chinese (specifically: from |fn{摆}) was considered, and seems quite plausible. But the word is not perceived as a Chinese loan by the reference speaker.
+\nt <dom="phono" langue="cmn"> 我们考虑了这个词是否从汉语的‘摆’借来的。这一假设似乎有道理，但主合作人不认为该词是汉语借词。
 \ton Mα
 \lc pæ˩˥
 \so F4
@@ -44175,7 +44203,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place
-\nt <dom="phono" langue="fra"> syllabe /pe/: n'est attestée que dans les mots chinois.
+\nt <dom="phono" langue="fra"> La syllabe |fv{pe} n'est pas attestée ailleurs que dans les emprunts chinois récents.
+\nt <dom="phono" langue="eng"> The syllable |fv{pe} is only found in recent Chinese loanwords.
+\nt <dom="phono" langue="cmn"> |fv{pe}音节仅出现在近期汉语借词中。
 \ton LM
 \lc pe˩tɕi˥
 \so F4
@@ -45147,7 +45177,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="phono" langue="fra"> homophone avec le classificateur des pets
+\nt <dom="phono" langue="fra" type="hist" print="n"> homophone avec le classificateur des pets
 \ton Hβ
 \lc ɖɯ˧ pɤ˥
 \so F4
@@ -45161,7 +45191,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe a god's statue
 \xn 一尊佛像
 \xf une statue de divinité
-\dt 03/May/2017
 
 \lx pʰo˧β
 \sf <nb="B"> 1204
@@ -45320,6 +45349,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <dom="phono" langue="fra"> Le mot est perçu comme un mot na, plutôt que comme un emprunt. La variabilité de la réalisation de la voyelle de sa première syllabe, qui se rapproche de [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggère pourtant qu'il pourrait s'agir d'un emprunt, encore imparfaitement intégré au système vocalique.
+\nt <dom="phono" langue="eng"> The word is perceived as a Na word, rather than a borrowed word. The variability in the realization of the vowel of its first syllable, which is close to [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggests, however, that it could be a loan, still imperfectly integrated into the vowel system.
+\nt <dom="phono" langue="cmn"> 主合作人认为这是摩梭话古有词，而不是汉语借词。但该词第一个音节的元音接近于[|fv{o}]（[|fv{pʰo˧˥fv̩˧}]），其变音情况表明可能还是一个借词，尚未完全融入元音系统。
 \ton L#
 \lc pʰɤ˧fv̩˩
 \so F4
@@ -45898,6 +45929,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="phono" langue="fra"> Le mot se caractérise par une forte harmonie vocalique, qui fait ressembler la voyelle de la première syllabe à [|fv{ɑ}] ou [|fv{æ}].
+\nt <dom="phono" langue="eng"> The word is characterized by strong vowel harmony, making the vowel of the first syllable sound like [|fv{ɑ}] or [|fv{æ}].
+\nt <dom="phono" langue="cmn"> 该词有明显的元音和谐，使第一个音节的元音听起来像[|fv{ɑ}]或[|fv{æ}]。
 \nt <dom="phono" langue="fra" type="hist" print="n"> Avant novembre 2011, noté: /pɑ˧ʈʂʰwæ˩/.
 \so F4
 \va <speaker="F5"> ID.
@@ -45965,7 +45998,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> ton #H: non acceptable
+\nt <dom="ton" langue="fra" print="n"> Il n'existe pas, pour ce mot, de variante au ton #H: cette prononciation n'est pas acceptable.
 \ton L
 \lc pʰɤ˩zo˩˥
 \so F4
@@ -45976,7 +46009,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 豺崽子
 \df Petit chacal.
 \gf bébé_chacal
-\dt 09/Sep/2015
 
 \lx pɤ˩˧ʐv̩˩
 \sf <nb="B"> 446b
@@ -46054,19 +46086,18 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf émerger, se lever: le soleil se lève
 \dt 21/Jun/2017
 
-\lx pɤ˧α
+\lx pɤ˧~pɤ˥
 \sf <nb="B"> 1196
 \sf <nb="B"> 1127
 \sf <nb="B"> 1128
 \sf <nb="2011"> 1582
-\or be
+\or bebe
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> zo˧mv̩˥pɤ˩pɤ˩: corrigé en 2007; noté par erreur ˧ ˥ ˧ ˧ puis ˧ ˥ ˧ ˩ en 2006, longues hésitations.
-\nt <dom="phono" langue="fra"> monosyllabe non employé; déduit de la forme rédupliquée, seule en usage actuellement
-\ton Mα
-\lc pɤ˧
+\nt <type="hist" print="n" langue="fra"> xxxx jusqu'en 2024, noté comme forme rédupliquée un M.M et non M.H: pɤ˧~pɤ˧ ( xe |fg{red}, xn 重叠：背一背, xf |fg{red}). Sans doute erroné?
+\lc pɤ˧pɤ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -46076,10 +46107,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 背
 \df Porter sur son dos (le bois, …).
 \gf porter_sur_le_dos
-\xv pɤ˧~pɤ˧
-\xe |fg{red}
-\xn 重叠：背一背
-\xf |fg{red}
 \xv tʰi˧-pɤ˥~pɤ˩
 \xe |fg{dur} |fg{red}
 \xn 背一背
@@ -46100,10 +46127,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to carry things
 \xn 背东西
 \xf porter des choses
-\xv ‡tso˧~tso˧ pɤ˩
-\xe to carry things (this expression is well-formed syntactically, but apparently not in use)
-\xn 背东西（语法上，这个短语没有问题，但发音合作人不那么说。）
-\xf porter des choses (l'expression est bien formée, mais pas usitée)
 \xv njɤ˧-ɳɯ˧ pɤ˧~pɤ˩ (+bi˩)!
 \xe I'll do the carrying! / Let me carry (it)!
 \xn 我来背！
@@ -46116,7 +46139,30 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to carry a child on the back
 \xn 背孩子
 \xf porter un enfant sur le dos
-\dt 09/Sep/2015
+
+\lx †pɤ˧α
+\or be
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <dom="phono" langue="fra"> Monosyllabe déduit de la forme rédupliquée, seule en usage actuellement.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Le ton reste à vérifier: au vu des exemples, il pourrait s'agir de Mα ou de Lβ.
+\ton Mα
+\lc pɤ˧
+\cf pɤ˧~pɤ˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To carry on one's back.
+\ge to_carry_on_the_back
+\dn 背（水、柴、孩子……）
+\gn 背
+\df Porter sur son dos (le bois, …).
+\gf porter_sur_le_dos
+\xv ‡tso˧~tso˧ pɤ˩
+\xe to carry things (this expression is well-formed syntactically, but apparently not in use: only the reduplicated form of the verb is in use)
+\xn 背东西（语法上，这个短语没有问题，但发音合作人不那么说，得用重叠形式。）
+\xf porter des choses (l'expression est bien formée, mais pas usitée: seule la forme rédupliquée est en usage)
 
 \lx pɤ˥α
 \or be
@@ -46232,7 +46278,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 上述谚语的变体
 \xf Variante du proverbe ci-dessus.
 \xc PROVERBE
-\nt <dom="phono" langue="fra"> Réalisation proche de |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
+\xc <langue="fra" dom="phono"> La réalisation phonétique est proche de |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
+\xc <langue="eng" dom="phono"> Phonetic realization is close to |fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}.
+\xc <langue="cmn" dom="phono"> 实际发音接近|fv{[dʑæ˩-dzɯ˧ qʰwæ˧-dzɯ˥]}。
 
 \lx pv̩˧
 \sf <nb="2011"> 1985
@@ -46810,7 +46858,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> avant 2007: noté ‡/pʰv̩˥ɭɯ˥ tʰæ˧ kʶwɤ˥/, ‡/HHML/
 \nt <dom="sem" langue="fra"> Selon F4, ce n'est pas un vêtement usuel.
-\nt <dom="phono" langue="fra"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
+\nt <dom="morpho" langue="fra" type="hist" print="n"> Avant 2014: noté qu'on ne pouvait extraire de forme disyllabique du quadrisyllabe; en 2014: est accepté.
 \ton H#
 \lc pʰv̩˧ɭɯ˧ʈʰæ˧qʰwɤ˥
 \so F4
@@ -47310,8 +47358,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (schéma tonal régulier pour m4a+3a)(confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> ton 3a
+\nt <type="hist" print="n" langue="fra" dom="ton"> (schéma tonal régulier pour m4a+3a)(confirmé en 2012: est un ton L; dans les termes de la catégorisation ancienne: 'ton 3a'.
 \ton Lα
 \lc pɻ̩˩˥
 \so F4
@@ -47744,7 +47791,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> (exemple: récit 1: on partage de la viande)
 \ton MH
 \lc qʰæ˧˥
 \so F4
@@ -47754,7 +47800,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 分
 \df Partager, répartir.
 \gf partager/répartir
-\dt 13/Jun/2017
+\xv le˧-qʰæ˧˥ | le˧-po˧-tsʰɯ˧˥, ◊ dʑo˩ | tʰi˩˥, | wɤ˩˥ | ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩, | tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩, | ə˩-gi˩! |
+\xe When it came to sharing, they thought they'd give that person (=the older brother) a little piece (=a low morsel), didn't they!
+\xn 分饭的时候，他们觉得应该给那个人（什么都不算的）一小块（肉），不是吗？
+\xf Lors du partage, cette personne-là (=le grand frère), on s'est dit qu'on lui donnerait un petit morceau (=un morceau de rien du tout), n'est-ce pas!
+\txt Sister5.37
+\doi 10.24397/pangloss-0009082#S37
 
 \lx qʰæ˧˥
 \sf <nb="2011"> 2173
@@ -55007,6 +55058,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn “穷人莫借钱，胫骨莫受伤！”
 \xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
 \xc PROVERBE
+\xc <print="n"> xxxx extraire le verbe ancien 'emprunter' de /ɖʐe˧ tʰɑ˧-ʝi˥/. Victime de la concentration d'homophones sur la syllabe /ʝi/?
 
 \lx ɻ̩̃˧kɤ˩
 \or eunge
