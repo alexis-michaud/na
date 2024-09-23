@@ -16661,24 +16661,23 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc gi˧zɯ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> (pluriel: ajout de ɻæ˥) (tons confirmés)
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Little brother, younger brother; the term is also used to refer to younger cousins (the sons of one's mother's sisters).
+\de Little brother, younger brother. The term is also used to refer the sons of one's mother's sisters who are younger than oneself.
 \ge younger_brother
-\dn 弟弟（该词也用于指小表弟：母亲姐妹的儿子）。
+\dn 弟弟。这个词也用于比自己年龄小的母亲姐妹的男孩子们。
 \gn 弟弟
-\df Petit frère; le terme est également utilisé pour désigner les cousins plus jeunes (les fils des sœurs de la mère).
+\df Petit frère. Le terme est également utilisé pour désigner les fils des sœurs de la mère qui sont plus jeunes que soi.
 \gf petit_frère
 \xv gi˧zɯ˧=ɻæ˥
-\xe |fg{pl}: younger brothers, cousins…
-\xn 复数：弟弟们，表弟们
-\xf |fg{pl}: les petits frères
-\dt 02/Sep/2015
+\xe |fg{pl}: younger brothers. The term is also used to refer the sons of one's mother's sisters who are younger than oneself.
+\xn 复数：弟弟们。这个词也用于比自己年龄小的母亲姐妹的男孩子们。
+\xf |fg{pl}: les petits frères; le terme est également utilisé pour désigner les fils des sœurs de la mère qui sont plus jeunes que soi.
+\xc <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés.
 
 \lx gi˩α
 \sf <nb="B"> 947b
@@ -17209,17 +17208,16 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Younger sister.
+\de Younger sister. The term is also used for the daughters of the mother's sisters who are younger than oneself.
 \ge younger_sister
-\dn 妹妹
+\dn 妹妹。这个词也用于比自己年龄小的母亲姐妹的女孩子们。
 \gn 妹妹
-\df Petite sœur (employé aussi pour les cousines plus jeunes).
+\df Petite sœur. Le terme est également employé pour les filles des sœurs de la mère qui sont plus jeunes que soi.
 \gf petite_sœur
 \xv go˧mi˧=ɻæ˩
-\xe |fg{pl}: younger sisters, younger cousins
-\xn 复数：妹妹们，表妹们
-\xf |fg{pl}: les petites sœurs, les jeunes cousines
-\dt 02/Sep/2015
+\xe |fg{pl}: younger sisters; also: daughters of the mother's sisters who are younger than oneself
+\xn 复数：妹妹们。这个词也用于比自己年龄小的母亲姐妹的女孩子们。
+\xf |fg{pl}: les petites sœurs; aussi: les filles des sœurs de la mère qui sont plus jeunes que soi
 
 \lx gɤ˩-qo˧
 \sf <nb="2011"> 1327
@@ -22664,10 +22662,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> notation de 2006: |fv{/‡ho˧li˩˥/}
-\nt <type="ety" langue="fra"> Nicolas Tournadre relève un possible parallèle avec le tibétain /|fv{li}/ ‘chat'.
-\nt <type="morpho" langue="fra"> La seconde syllabe, /|fv{-li}/, a des chances d'être un suffixe: voir également ‘papillon'.
-\nt <type="morpho" langue="eng"> The second syllable, /|fv{-li}/, is plausibly a suffix: see also ‘butterfly'.
-\nt <type="morpho" langue="cmn"> 第二个音节，/|fv{-li}/，可能是后缀。参见‘蝴蝶’。
+\nt <dom="ety" langue="fra"> Nicolas Tournadre relève un possible parallèle avec le tibétain /|fv{li}/ ‘chat'.
+\nt <dom="morpho" langue="fra"> La seconde syllabe, /|fv{-li}/, a des chances d'être un suffixe: voir également ‘papillon'.
+\nt <dom="morpho" langue="eng"> The second syllable, /|fv{-li}/, is plausibly a suffix: see also ‘butterfly'.
+\nt <dom="morpho" langue="cmn"> 第二个音节，/|fv{-li}/，可能是后缀。参见‘蝴蝶’。
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -38553,11 +38551,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \vc <type="hist" print="n" langue="fra"> d'abord noté /gu˧mi˩/, sans doute effet de la ligne de déclinaison
 \va <speaker="M21"> ID.
 \va <speaker="M23"> mv̩˩zɯ˩-nv̩˧mi˩
-\de Brothers and sisters, siblings (all children of the same mother). The term is also used in a broader sense to include all matrilineal cousins: all the children of the mother's sisters.
+\de Brothers and sisters, siblings (all children of the same mother). The term is also used in a broader sense to include all the children of the mother's sisters.
 \ge siblings
 \dn 兄弟姐妹（同一母亲的所有子女）。这个词也有更广泛的含义，包括所有母系堂兄弟姐妹：母亲姐妹的所有子女。
 \gn 兄弟姐妹
-\df Frères et sœurs (tous les enfants issus de la même mère). Le terme s'emploie également dans un sens élargi qui inclut tous les cousins matrilinéaires: tous les enfants des sœurs de la mère.
+\df Frères et sœurs (tous les enfants issus de la même mère). Le terme s'emploie également dans un sens élargi qui inclut tous les enfants des sœurs de la mère.
 \gf frères_et_sœurs
 
 \lx mv̩˩α
@@ -51851,7 +51849,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to give a piece of bad meat
 \xn 给一块不好的肉
 \xf donner un morceau de mauvaise viande
-\xc <langue="fra" type="sem"> Exemple inspiré par le récit “Mariage de la sœur".
+\xc <langue="fra" dom="sem"> Exemple inspiré par le récit “Mariage de la sœur".
 \xv pʰi˩ko˥ | mɤ˧-ʁɑ˧-ze˧!
 \xe The apples are not good anymore! (Context: in March, apples from the previous harvest are not good anymore: they are either rotten or sour.)
 \xn 苹果不好了！ / 苹果不新鲜了！（三月份，上一季收获的苹果已经不好吃的了，或者烂了，或者变酸）
@@ -52372,7 +52370,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 我请你来
 \xf je t'invite/je te convie/je te fais venir
 \xc PHONO
-\xc <langue="fra" type="sem"> Contexte imaginé: quelqu'un s'adresse à un moine.
+\xc <langue="fra" dom="sem"> Contexte imaginé: quelqu'un s'adresse à un moine.
 \xv mɤ˧-ʁɑ˥-ʂe˩
 \xe |fg{neg}
 \xn 否定 〜
@@ -54292,7 +54290,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton Hβ
 \lc ɖɯ˧ ɻwæ˥
 \so F4
-\nt <type="sem" langue="fra"> Entrée non reconnue en 2024. Si aucun exemple tiré des textes ne vient l'étayer, il faudra la supprimer.
+\nt <dom="sem" langue="fra"> Entrée non reconnue en 2024. Si aucun exemple tiré des textes ne vient l'étayer, il faudra la supprimer.
 \de Classifier for places.
 \ge |fg{clf}.places
 \dn 量词：地方（一处）
@@ -61181,7 +61179,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sy tæ˧pɻ̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra" type="ton"> (tons vérifiés)
+\nt <type="hist" print="n" langue="fra" dom="ton"> Tons vérifiés.
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -67456,13 +67454,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \df Classificateur des générations.
 \gf |fg{clf}.générations
 \xv ŋwɤ˧ ʈʂʰæ˩
-\xe Five generations. This figure represents a symbolic threshold in the definition of the family. Even if five generations rarely live together under the same roof (four generations is fairly common), it is a social ideal. The fourth and fifth generations, while no longer physically present, are still very much present in the words of the elders who knew them. Five generations of parents are one family.
-\xn 五代人。这个数字是一个象征性的门槛。即使五代人很少生活在同一屋檐下（四代人相当常见），这还是一种理想状态：五代同堂，其乐融融。第四代和第五代虽然已不在人世，但在长辈口中，他们仍然非常亲切。（五代以上，亲属关系就不那么密切了。）
-\xf Cinq générations. Ce chiffre constitue un seuil symbolique dans la définition de la famille. Même si cinq générations se côtoient rarement sous un même toit (quatre générations, c'est assez commun), cela constitue un idéal. Les quatrième et cinquième générations, si elles ne sont plus là physiquement, sont bien présentes dans les propos des aînés qui les ont connues. Être parents à l'échelle de cinq générations, c'est constituer une seule et même famille.
+\xe Five generations. This figure represents a symbolic threshold in the definition of the family. It is rare for five generations to be actually present under the same roof. Rather than five generations in the literal sense, the expression can be understood as referring to the five ages of life: children (under 13), teenagers / young adults (who do not yet have children), parents / middle-aged people, grandparents / elderly people, and finally very old people, who are old enough to be great-grandparents. But the expression can also refer to five generations (in the literal sense) who, although they do not live side by side under the same roof, are part of the same universe of reference, which the collective memory extends beyond the three (or four) living generations. The fourth and fifth generations, while no longer physically present, are still very much present in the words of the elders who knew them. So there is no paradox, in terms of family oral tradition, in defining a household as comprising five generations.
+\xn 五代人。这个数字是一个象征性门槛。五代同堂的情况并不多见：这一说法可以理解为指人生的五个年龄段，即儿童（13岁以下）、少年/青年（尚未生育）、母亲们与舅舅们（中年人）、母亲们的母亲与舅舅（老年人），最后是年龄足以成为曾祖母的高龄老人。不过，这个说法也可以指字面意义上的五代人：虽然他们并不生活在同一屋檐下，但却是同一参照系的一部分，集体记忆超越了在世的三代人（或四代人）延长到第五代。第四代和第五代虽然已不在人世，但在了解他们的长辈口中，他们仍然是存在的。因此，从家庭口述传统的角度来看，将一个家庭定义为由五代人组成并不存在悖论。
+\xf Cinq générations. Ce chiffre constitue un seuil symbolique dans la définition de la famille. Il est rare que cinq générations soient présentes sous le même toit. Plutôt que cinq générations au sens propre, l'expression peut être comprise comme faisant référence aux cinq âges de la vie: enfants (de moins de 13 ans), adolescents/jeunes adultes (qui n'ont pas encore d'enfants), parents / personnes d'âge mûr, grands-parents / personnes âgées, et enfin personnes très âgées, qui ont l'âge d'être arrière-grands-parents. Mais l'expression peut également désigner cinq générations (au sens littéral), qui, à défaut de se côtoyer sous un même toit, font partie d'un même univers de référence, que la mémoire collective élargit au-delà des trois (ou quatre) générations vivantes: les quatrième et cinquième générations, si elles ne sont plus là physiquement, sont bien présentes dans les propos des aînés qui les ont connues. Il n'y a donc pas de paradoxe, en termes de tradition orale familiale, à définir une maisonnée comme comprenant cinq générations.
 \xv tsʰe˩ɲi˩ ʈʂʰæ˩˥
-\xe Twelve generations. This figure constitutes a second symbolic threshold in the definition of the family. The five-generation threshold corresponds to the span of oral family tradition: the people you know personally and those they knew personally. Between five and twelve generations lies the symbolic space of kinship relationships which, while distant, are still considered significant: a relative at the level of five to twelve generations is recognized as a distant cousin. The family feeling dies out after (at most) twelve generations: knowing that you are theoretically related at a distance of three centuries is not a strong enough basis for a feeling of closeness and for easily understanding each other.
+\xe Twelve generations. This figure constitutes a second symbolic threshold in the definition of the family. The five-generation threshold corresponds to the span of oral family tradition: the people you know personally and those they knew personally. Between five and twelve generations lies the symbolic space of kinship relationships which, while distant, are still considered significant: a relative at the level of five to twelve generations is recognized as a family member of the second circle, as it were. The family feeling dies out after (at most) twelve generations. Knowing that you are theoretically related to someone at a distance of three centuries is not a strong enough basis for a feeling of closeness.
 \xn 十二代。这个数字构成了家族定义的第二个象征性门槛。五代的界限对应于口头家族传统的跨度：亲自熟悉的人和他们在过去所熟悉过的人。五代到十二代之间这一象征性的空间，虽然距离遥远，但仍被视为有意义的亲属关系，在这个空间里的人被视为远房表亲。十二代以上，家庭的感觉就消失了，知道人家在三个世纪前算是有血缘关系，并不足以让人感觉彼此亲近。
-\xf Douze générations. Ce chiffre constitue un second seuil symbolique dans la définition de la famille. Le seuil de cinq générations correspond à l'empan de la tradition orale familiale: les gens qu'on connaît personnellement et ceux qu'eux-mêmes ont connu personnellement. Entre cinq et douze générations se situe l'espace symbolique des relations de parenté distantes mais encore considérées comme significatives, qui font qu'on reconnaît telle personne comme étant cousin·e éloigné·e. Le sentiment familial s'éteint au-delà de douze générations (il ne suffit pas de se savoir théoriquement apparentés à l'échelle de trois siècles pour se sentir proches et pour se comprendre aisément).
+\xf Douze générations. Ce chiffre constitue un second seuil symbolique dans la définition de la famille. Le seuil de cinq générations correspond à l'empan de la famille idéale. Entre cinq et douze générations se situe l'espace symbolique des relations de parenté distantes mais encore considérées comme significatives, qui font qu'on reconnaît telle personne comme étant parente éloignée. Le sentiment familial s'éteint au-delà de douze générations (il ne suffit pas de se savoir théoriquement apparentés à l'échelle de trois siècles pour se sentir proches).
 
 \lx ʈʂʰæ˥
 \sf <nb="B"> 1567
