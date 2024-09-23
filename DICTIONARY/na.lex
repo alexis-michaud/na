@@ -15172,11 +15172,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="M23"> ID.
 \pdv v̩˧
-\de Elder sibling (brother or sister). The term is also used to refer to elder cousins (the daughters and sons of one's mother's sisters).
+\de Elder sibling (brother or sister). The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \ge elder_sibling
-\dn 哥哥，姐姐（该词也用于指堂哥堂姐：母亲姐妹的孩子们）
+\dn 哥哥，姐姐。该词也用于指比自己年龄大的母亲姐妹的孩子们。
 \gn 哥哥/姐姐
-\df Aîné·e: grand frère, grande sœur (adelphe aîné·e). Le terme est également utilisé pour désigner les cousines et cousins plus âgés que soi (filles et fils des sœurs de la mère).
+\df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
 
 \lx ə˧mv̩˩
@@ -15197,16 +15197,16 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv v̩˧
-\de Elder sibling (brother or sister). The term is also used to refer to elder cousins (the daughters and sons of one's mother's sisters).
+\de Elder sibling (brother or sister). The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \ge elder_sibling
-\dn 哥哥，姐姐（该词也用于指堂哥堂姐：母亲姐妹的孩子们）
+\dn 哥哥，姐姐。该词也用于指比自己年龄大的母亲姐妹的孩子们。
 \gn 哥哥/姐姐
-\df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les cousines et cousins plus âgés que soi (filles et fils des sœurs de la mère).
+\df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
 \xv æ˧mv̩˩=ɻæ˩
-\xe |fg{pl}: elder siblings
-\xn 复数：哥哥们、姐姐们
-\xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aînés
+\xe |fg{pl}: elder siblings. The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
+\xn 复数：哥哥们、姐姐们。该词也用于指比自己年龄大的母亲姐妹的孩子们。
+\xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aîné·es. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 
 \lx ə˧mv̩˧-gi˥zɯ˩
 \sf <nb="B"> 315
@@ -15226,11 +15226,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\de Brothers, irrespective of age (elder or younger). The term is also used to refer to cousins (the sons of one's mother's sisters).
+\de Brothers, irrespective of age (elder or younger). The term is also used to refer to the sons of one's mother's sisters.
 \ge brothers
 \dn 兄弟：哥哥们与弟弟们。该词也用于指堂哥堂弟：母亲姐妹的儿子们。
 \gn 兄弟
-\df Frères, quel que soit leur âge (aînés ou cadets). Le terme est également utilisé pour désigner les cousins (fils des sœurs de la mère).
+\df Frères, quel que soit leur âge (aînés ou cadets). Le terme est également utilisé pour désigner les fils des sœurs de la mère.
 \gf frères
 
 \lx ə˧mv̩˧-go˧mi˥
@@ -15248,11 +15248,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \vc <langue="fra" type="hist" print="n" dom="ton"> tons vérifiés; d'abord noté /æ˧m˩ gu˧mi˧/, sans changement de ton.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧mv̩˧-gu˥mi˩
-\de Sisters, irrespective of age (elder as well as younger). The term is also used to refer to cousins (the daughters of one's mother's sisters).
+\de Sisters, irrespective of age (elder as well as younger). The term is also used to refer to the daughters of one's mother's sisters.
 \ge sisters
-\dn 姐妹：姐姐们与妹妹们。该词也用于指堂姐堂妹弟：母亲姐妹的女孩们。
+\dn 姐妹：姐姐们与妹妹们。该词也用于指母亲姐妹的女孩子们。
 \gn 姐妹
-\df Sœurs, quel que soit leur âge (aînées ou cadettes). Le terme est également utilisé pour désigner les cousines (filles des sœurs de la mère).
+\df Sœurs, quel que soit leur âge (aînées ou cadettes). Le terme est également utilisé pour désigner les filles des sœurs de la mère.
 \gf sœurs
 
 \lx ə˧mv̩˥-tɕi˩
