@@ -1068,14 +1068,13 @@
 \cf æ˧ʂæ˧-tɑ˩mv̩˩
 \cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Folk tale, tradition; this term is more colloquial than |fv{/æ˧ʂæ˧-tɑ˩mv̩˩/}.
 \ge folk_tale
 \dn 古时候的说法、从前的说法，传统故事
 \gn 传统故事
 \df Conte, récit du temps jadis; terme plus familier que |fv{/æ˧ʂæ˧-tɑ˩mv̩˩/}.
 \gf conte
-\dt 01/Sep/2015
 
 \lx æ˧ʂæ˧-qʰwæ#˥
 \or eshae khuae
@@ -1125,7 +1124,7 @@
 \vc <type="hist" print="n" langue="fra" dom="phono"> D'abord noté …kʶwɑ˧.
 \vc <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés. Avais d'abord noté M.M.H (˧ ˧ ˥).
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Story, folk tale.
 \ge story
 \dn 故事
@@ -1160,7 +1159,7 @@
 \cf æ˧ʂæ˧-qʰwɤ˧˥
 \cf æ˧ʂæ˧-kɤ˥ʈʂɯ˩
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Proverb, saying, adage.
 \ge proverb
 \dn 谚语、习语
@@ -1237,7 +1236,7 @@
 \cf æ˧ʂæ˧-qʰwɤ˧˥
 \cf æ˧ʂæ˧-tɑ˩mv̩˩
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Sayings of the old times, oral traditions of the old times.
 \ge oral_traditions
 \dn 古时候的说法、从前的说法、口传话语
@@ -1258,7 +1257,7 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Muscle.
 \ge muscle
 \dn 肌肉
@@ -2690,7 +2689,7 @@
 \sd <langue="eng"> plant
 \ton LM
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Pod (of bean).
 \ge pod
 \dn 豆荚
@@ -2999,7 +2998,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Navel.
 \ge navel
 \dn 肚脐
@@ -3021,7 +3020,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> bi˩ʈʂʰɤ˩
 \vc <langue="fra" print="n"> Selon le locuteur, le mot désigne une barbe très fournie. En fait, il désignait anciennement les favoris.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Whiskers.
 \ge whiskers
 \dn 胡须，络腮胡须
@@ -4153,7 +4152,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \pdv qɑ˩
 \pdc <langue="fra"> morceaux
 \de Mane.
@@ -8182,7 +8181,7 @@
 \lc ɖɯ˩lo˥
 \so F4
 \sn 1
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Tradition.
 \ge tradition
 \dn 传统
@@ -9779,7 +9778,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Honey.
 \ge honey
 \dn 蜂蜜
@@ -10375,7 +10374,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> house
 \ton M
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Location.
 \ge location
 \dn 位置、所在地
@@ -10496,7 +10495,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: dzɯ˩ʁu˩˥)
 \ton L
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Seat, place.
 \ge seat
 \dn 座位
@@ -13327,7 +13326,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton LM+#H
 \lc ɖʐɯ˩tso˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Rules of society.
 \ge rules_of_society
 \dn 社会规矩
@@ -17760,7 +17759,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="M21"> v̩˩kv̩˧˥
 \vc <type="hist" print="n" langue="fra"> ton d5a vérifié. Donne: /v̩˩kv̩˧ ɲi˥/. Le locuteur accepte l'identification avec “peau" /ɣɯ/ mais maintient néanmoins la prononciation /v̩/ pour la rime des deux syllabes.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Peel, rind.
 \ge peel
 \dn 皮、鸡蛋壳、麦麸
@@ -18333,7 +18332,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Shoulderblade, scapula.
 \ge shoulderblade
 \dn 肩胛骨
@@ -18694,7 +18693,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \va <speaker="M21"> / ɻ̊æ˧tʰv̩˧/
 \vc <type="hist" print="n" langue="fra"> d'abord noté /hæ˧tʰv̩˧/ (+ɲi˥) pour 'il vente', /hæ˧/ pour 'vent'. Premières notes de terrain: “sans nasalité, et néanmoins distinct de la syllabe de “chaux": l'initiale est réalisée plus proche de [h] que de [x], c'est-à-dire peu de friction à la glotte ou au palais; comporte une articulation orale".
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Wind.
 \ge wind
 \dn 风
@@ -19589,7 +19588,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton H#
 \lc hæ̃˧ʐɤ˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Cut marks (such as those left by a saw or axe on wood).
 \ge cut_marks
 \dn 切割的痕迹
@@ -22531,7 +22530,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton #H
 \so F4
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Gift (usually money) made on important occasions (weddings, etc).
 \ge gift_of_money
 \dn 在大事发生的时候送的礼物（近期一般给钱）：婚礼、葬礼
@@ -26627,7 +26626,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton #H
 \lc ko˧ʁo˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Mountain ridge; bridge in the mountains.
 \ge mountain_ridge
 \dn 山梁
@@ -26807,7 +26806,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf kɤ˥ʈʂɯ˩
 \ton L#
 \lc kɤ˧ʈʂɯ˩
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Speech.
 \ge speech
 \dn 话
@@ -29464,7 +29463,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc kwɤ˧pɤ˧
 \so F4
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Teaching, explanation.
 \ge explanation
 \dn 解释，教导、教诲
@@ -31612,7 +31611,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton LH
 \so F4
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Tea that has infused for too long, tea dregs.
 \ge tea_dregs
 \dn 已经泡了太久的茶叶
@@ -31724,7 +31723,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Earwax.
 \ge earwax
 \dn 耳垢
@@ -31819,7 +31818,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton L+H#
 \so F4
 \va <speaker="F5"> ɬi˩ʈv̩˩mæ˧
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Lower part of the main room.
 \ge lower_part_of_main_room
 \dn 主屋里面没有火铺的地方：没有木地板、小狗可以偶尔进来的地方（家人就给它扔骨头）
@@ -32630,7 +32629,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \vc <langue="fra" print="n"> Le locuteur indique /lo˩ tsʰe˥/. Selon F4: c'est du naxi, pas d'ici.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> lo˩ gv̩˧dv̩˧ + ɲi˩
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \pdv ɭɯ˧β
 \de Back of the hand.
 \ge back_of_hand
@@ -34025,7 +34024,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Little slabs of stone, stone chips.
 \ge little_slabs_of_stone
 \dn 零碎的石块
@@ -35099,7 +35098,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> abstract
 \ton H#
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Origin, distant cause, remote cause.
 \ge origin/cause
 \dn 来历、发源地、深层原因/来源、来龙去脉、脉络
@@ -35295,7 +35294,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Wound, injury.
 \ge wound
 \dn 伤口
@@ -35423,7 +35422,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Wound.
 \ge wound
 \dn 伤口
@@ -35544,7 +35543,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \va <speaker="M21"> mi˧lo#˥
 \vc <langue="fra" print="n"> (ton d2a); mi˧lo˧ lɑ˩. L'initiale est voisée; n'est pas/plus ɬ.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Prayer.
 \ge prayer
 \dn 祈祷
@@ -35610,7 +35609,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> *
 \vc <langue="fra" print="n"> fournit le mot pour 'blessure': mi˥ tʰv̩˥
 \va <speaker="M21"> *
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Scar.
 \ge scar
 \dn 疤
@@ -36861,7 +36860,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Sole of the foot.
 \ge sole_of_the_foot
 \dn 脚底
@@ -38011,7 +38010,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \pdv ɭɯ˧β
 \de Chin.
 \ge chin
@@ -38056,7 +38055,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> mv̩˧tsɯ˥
 \va <speaker="M18"> mv̩˧tsɯ˥
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Beard.
 \ge beard
 \dn 胡子
@@ -38218,7 +38217,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mɯ˥ʈʰɯ˥
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Heel.
 \ge heel
 \dn 脚跟
@@ -39209,7 +39208,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <dom="sem" langue="fra"> sens vérifié avec M18
 \ton #H
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Difficulties, complications, hardship, overwork, great fatigue.
 \ge hardship
 \dn 受累、劳累、辛苦、困难、艰难、艰苦
@@ -40323,7 +40322,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc ɲi˧to˧
 \so F4
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de The mouth, seen as including the part of the face surrounding the mouth, in particular the jaw.
 \ge mouth
 \dn 嘴巴，包括嘴周围的部位：颚等
@@ -40893,7 +40892,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Eye sand, gum in the eyes, rheum.
 \ge eye_sand
 \dn 眼屎
@@ -41033,7 +41032,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Eyebrow.
 \ge eyebrow
 \dn 眉毛
@@ -41465,7 +41464,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> njɤ˩~njɤ˧-di˥
 \va <speaker="M18"> njɤ˩~njɤ˧-di˥
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Glue.
 \ge glue
 \dn 胶
@@ -41543,7 +41542,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> *
 \vc <langue="fra" print="n"> emploie l'expression: njɤ˩ɭɯ˧ʁæ˧
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Bottom eyelid.
 \ge bottom_eyelid
 \dn 下眼皮
@@ -41564,7 +41563,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc njɤ˧kv̩˩
 \so F4
 \pdv ɭɯ˧β
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Cheekbone.
 \ge cheekbone
 \dn 颧骨
@@ -41987,7 +41986,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Palate.
 \ge palate
 \dn 上腭
@@ -43762,7 +43761,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton MH.M
 \lc pæ˧˥hwɤ˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Solution, method.
 \ge 办法::solution
 \dn 办法
@@ -44305,7 +44304,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Linen cloth.
 \ge linen_cloth
 \dn 麻布，亚麻布
@@ -44794,7 +44793,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
-\nt <dom="synt" langue="fra"> Peut s'utiliser avec des numéraux autres que un.
+\nt <dom="usage" langue="fra"> Ce classificateur peut s'utiliser avec des numéraux autres que un.
+\nt <dom="usage" langue="eng"> Given the right context, this classifier can be used with numerals other than one.
+\nt <dom="usage" langue="cmn"> 在合适的语境下，该量词可用于‘一’以上的数字。
 \ton MHα
 \so F4
 \va <speaker="F5"> ID.
@@ -45244,7 +45245,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Gift, present (typical gifts are tobacco, tea leaf, candies, and wine; one does not usually offer clothes, apart from specific ritual occasions).
 \ge gift
 \dn 礼物
@@ -47462,7 +47463,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Glue.
 \ge glue
 \dn 胶
@@ -49513,7 +49514,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> animal
 \comp <langue="pmi" print="n"> qu55pu22
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire
-\nt <dom="phono" langue="fra"> (mot onomatopéique)
+\nt <dom="sem" langue="fra"> Ce mot est onomatopéique, calqué sur le son de l'appel de cet oiseau.
+\nt <dom="sem" langue="eng"> This word is onomatopoeic, modelled on the sound of the bird's call.
+\nt <dom="sem" langue="cmn"> 这个词是拟声词，仿照鸟的叫声。
 \ton L#
 \lc qo˧pv̩˩
 \so F4
@@ -49756,7 +49759,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Handle.
 \ge handle
 \dn 把手
@@ -49958,7 +49961,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton #H
 \lc qʰv̩˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Noise, sound.
 \ge sound
 \dn 声音
@@ -50531,7 +50534,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sn 1
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Letter.
 \ge letter
 \dn 信
@@ -50545,7 +50548,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sn 2
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Message, word (monosyllable).
 \ge message
 \dn 信息、话
@@ -50603,6 +50606,15 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to crack walnuts
 \xn 敲开坚果（在永宁，不用夹子：用锤子敲开）
 \xf casser des noix
+\xv si˧qʰwæ˩
+\xo see khuaeq
+\xc <type="hist" print="n" langue="fra"> D'abord noté sɯ˧kʶwæ˩.
+\xc <type="hist" print="n" langue="fra"> Dans le même champ sémantique de 'couper': (a) le˧dze˩ (b) dze˩˥ (c) hæ˩˥
+\xc <type="hist" print="n" langue="fra"> vient du verbe /qʰwæ˧˥/ 'faire éclater'
+\xc <langue="fra" print="n"> M21 dit : sɯ˧ kʰwæ˩
+\xe To split wood.
+\xn 劈木头
+\xf Couper du bois, fendre du bois (dans le sens des fibres de bois).
 
 \lx qʰwæ˧˥
 \sf <nb="2011"> 2085
@@ -50797,7 +50809,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> question de 2016: vérifier à nouveau: initiale /q/ ou /k/? Hypothèse au vu de l'état du système: /k/. Réponse 2017: c'est bien un /q/ initial. Cette syllabe vient de: qwɤ 'foyer'; l'harmonie vocalique est totale, mais la racine 'foyer' reste bien identifiable pour la locutrice.
 \ton #H
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Middle part of the main room.
 \ge middle_part_of_main_room
 \dn 主屋的中庭：在主屋上半部分与门之间的空间
@@ -50833,7 +50845,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \vc <langue="fra" print="n"> Notes anciennes: a) kʶwæ˧ b) kʶwæ˧pu˩˥ “transmettre un message", tons confirmés
 \va <speaker="M21"> kʰwæ˧mi˧
 \vc <langue="fra" print="n"> ton d2; ex.: kʰwæ˧pu˧˥ “apporter une lettre"
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Message, information (extended meaning: letter).
 \ge message/information
 \dn 口信， 信息
@@ -51102,7 +51114,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton MH
 \lc qʰwɤ˧˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Tale, story, yarn.
 \ge tale
 \dn 故事
@@ -52302,7 +52314,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Salary, price paid for the work done by a worker.
 \ge salary
 \dn 工资， 工钱
@@ -52904,7 +52916,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ʁu˧bv̩˧, ton d1; tɕu˩ʈʂʰi˩˥, tɕu˩ʈʂʰi˩ ze˥: un plant d'arbre sort de terre! le˥ʑy˩ze˩! “ça sort! Ça vient!"
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Sprout, bud.
 \ge sprout
 \dn 树的萌芽、新发出来的叶子
@@ -53043,7 +53055,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Interests.
 \ge interests
 \dn 利息
@@ -53170,7 +53182,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 1039
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <dom="phono" langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
+\nt <dom="usage" langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
 \so F4
 \de North (literally: ‘the Tibetan land').
 \ge north
@@ -54997,7 +55009,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M
 \lc ɻ̩˧bɤ˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de The truth; the facts.
 \ge truth
 \dn 实情，真理
@@ -55518,7 +55530,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> abstract
 \ton #H
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Difference in length.
 \ge difference_in_length
 \dn 长度区别
@@ -56500,7 +56512,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \cf ʂe˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="phono" langue="fra"> disyllabe plus courant que le monosyllabe
+\nt <dom="usage" langue="fra"> Le disyllabe |fv{ʂe˧mo˧} est d'usage plus courant que le monosyllabe |fv{ʂe˩}.
+\nt <dom="usage" langue="eng"> The disyllable |fv{ʂe˧mo˧} is more commonly used than the monosyllable |fv{ʂe˩}.
+\nt <dom="usage" langue="cmn"> 双音节 |fv{ʂe˧mo˧} 比单音节 |fv{ʂe˩} 更常用。
 \ton M
 \lc ʂe˧mo˧
 \so F4
@@ -56513,7 +56527,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 铁
 \df Fer (disyllabe).
 \gf fer
-\dt 05/Oct/2015
 
 \lx ʂe˧nɑ˩
 \sf <nb="B"> 389
@@ -56522,13 +56535,13 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="phono" langue="fra"> ID.
 \ton L#
 \lc ʂe˧nɑ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
 \de Lean meat.
 \ge lean_meat
 \dn 瘦肉
@@ -56595,7 +56608,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M
 \lc se˧pʰɤ˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Fuss.
 \ge fuss
 \dn 大惊小怪，麻烦
@@ -57234,7 +57247,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc si˧dʑɯ˥
 \so F4
 \va <speaker="F5"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Kindling.
 \ge kindling
 \dn 火煤、火捻、火种、劈柴、引柴
@@ -57516,32 +57529,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe a liquid prepared from plums, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas)
 \xn 用梅子做的一种汁，用法类似于醋。过去，永宁没有醋，醋是从内地买来的。
 \xf Un liquide préparé à base de prunelles d'abricotier du Japon, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois).
-
-\lx si˧qʰwæ˩
-\sf <nb="B"> 1447
-\sf <nb="2011"> 1925
-\or see khuaeq
-\ps v
-\ton L#
-\lc si˧qʰwæ˩
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (d'abord noté sɯ˧kʶwæ˩)
-\nt <type="hist" print="n" langue="fra"> (a) le˧dze˩ (b) dze˩˥ (c) hæ˩˥
-\nt <type="hist" print="n" langue="fra"> vient du verbe /qʰwæ˧˥/ 'faire éclater'
-\nt <dom="phono" langue="fra"> fendre du bois
-\so F4
-\va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> emploie: /dze˩˥/ 'couper', ton 3, le˧ dzi˧dzi˥ (+ze˩); 'fendre du bois': sɯ˧ kʰwæ˩, ton 4
-\va <speaker="M23"> *
-\vc <langue="fra" print="n"> emploie: /qʰo˧˥/, dont le sens serait: couper en deux
-\de To chop wood, to split wood.
-\ge to_chop(wood)
-\dn 劈、剖
-\gn 劈/剖
-\df Couper du bois, fendre du bois (dans le sens des fibres de bois).
-\gf couper/fendre
-\dt 01/Aug/2017
 
 \lx si˧-ʁæ˧bæ˥
 \sf <nb="B"> 517
@@ -58311,11 +58298,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="phono" langue="fra"> Le ton lexical du nom est déduit de son comportement en association avec le verbe “prendre": /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
+\nt <dom="phono" langue="fra"> Le ton lexical du nom est déduit de son comportement en association avec le verbe ‘prendre’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
+\nt <dom="phono" langue="eng"> The tone of the noun is deduced from its behaviour in association with the verb ‘to take’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
 \ton #H
 \lc ʂɤ˧ɲi˧
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Advice, suggestion, recommendation.
 \ge advice
 \dn 建议、意见
@@ -59069,15 +59057,16 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 量词.次
 \df Classificateur des fois (répétitions d'une action).
 \gf |fg{clf}.fois
-\dt 27/Apr/2017
 
 \lx ʂɯ˧dʑi˧
 \or shijjie
+\mr ʂɯ˧α2
+\mr dʑi˥2
 \ps n
 \lc ʂɯ˧dʑi˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> étymologie claire: “mourir"+"vêtement"
+\nt <dom="ety" langue="fra" print="n"> L'étymologie est claire: “mourir"+"vêtement".
 \ton M
 \so F4
 \de Shroud, burial suit.
@@ -59942,8 +59931,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (sens vérifié avec M23 en 2009; et vérifié: est /sɯ/ et non /si/)
-\nt <dom="phono" langue="fra"> sens: enfiler (quelque chose sur un fil)
+\nt <type="hist" print="n" langue="fra" dom="sem"> (sens vérifié avec M23 en 2009: est bien 'enfiler (quelque chose sur un fil)'.)
+\nt <type="hist" print="n" langue="fra" dom="phono"> Vérifié: est /sɯ/ et non /si/.
 \so F4
 \vc <langue="fra" print="n"> Notes anciennes: "a) sɯ˧ɻ̩˧ sɯ˧ sɯ˩, tons vérifiés; b) læ˧sɯ˥sɯ˧; il ne faut pas dire: le˧sɯ˥sɯ˧. Suivi de: +ze˩
 \va <speaker="M21"> ID.
@@ -60108,7 +60097,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʂv̩˧kʰɯ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> mot “ancien"
+\nt <dom="phono" langue="fra" type="hist"> Le mot est perçu comme désuet; l'emprunt au chinois est devenu plus courant.
 \so F4
 \sn 1
 \xf jeter les dés
@@ -60423,14 +60412,14 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> agriculture
 \nt <type="hist" print="n" langue="fra"> (soigneusement vérifié, est ton m1) (vérifié en 2009; schéma tonal régulier)
 \nt <dom="sem" langue="fra"> on ne peut suffixer en -mi et -zo
-\nt <dom="phono" langue="fra"> Le classificateur le plus couramment employé avec ce nom est celui des morceaux.
+\nt <dom="usage" langue="fra"> Le classificateur le plus couramment employé avec ce nom est celui des morceaux, |fv{kʰwɤ˥α}.
 \ton LH
 \lc ʂwæ˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \pdv ɭɯ˧β
 \de Wedge.
 \ge wedge
@@ -61189,10 +61178,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or dagge
 \ps adj
 \lc tɑ˧gɤ˩
+\sy tæ˧pɻ̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tons vérifiés)
-\nt <dom="phono" langue="fra"> même sens que le précédent
+\nt <type="hist" print="n" langue="fra" type="ton"> (tons vérifiés)
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -61203,7 +61192,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 瘦弱
 \df Maigre (personne maigre).
 \gf maigre
-\dt 27/Apr/2017
 
 \lx tɑ˧ho˧
 \or daho
@@ -61388,7 +61376,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: ʈʰɯ˥ ʈæ˧ kwæ˧ hĩ˧ ɖɯ˧ v̩˥ ɲi˩; et pensé que le sens était: “qui saccage tout")
-\nt <dom="phono" langue="fra"> vérifié: initiale est bien /k/, pas uvulaire
+\nt <dom="phono" langue="fra" type="hist" print="n"> vérifié: initiale est bien /k/, pas uvulaire
 \ton MH#
 \lc ʈæ˧kwæ˧˥
 \so F4
@@ -62033,7 +62021,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté ‡ʈæ˧ʂɯ˧-lɑ˩mv̩˩
-\nt <dom="phono" langue="fra"> il n'existe pas actuellement de forme /lɑ.mv̩/ disyllabique, seulement en composition
+\nt <dom="phono" langue="fra" dom="usage" print="n"> La forme disyllabique /ɬɑ˧mv̩˥$/ ne paraît pas être couramment employée seule, plutôt en tant que seconde partie d'un quadrisyllabe composé de 2+2 syllabes.
 \ton -L
 \lc ʈæ˧ʂɯ˧ɬɑ˩mv̩˩
 \so F4
@@ -62122,11 +62110,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="phono" langue="fra"> pas distingué de “corbeau"
 \ton L
 \lc tʰɑ˩tʰɑ˩˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de A good spot, a good place to find a certain species of plant: for instance, mushrooms that will grow there every year.
 \ge good_spot
 \dn 采野生植物如菌子等的好地方
@@ -62323,7 +62310,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ɖɯ˧ tɑ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <dom="usage" langue="fra"> Ce classificateur peut s'utiliser avec des numéraux autres que un.
+\nt <dom="usage" langue="eng"> Given the right context, this classifier can be used with numerals other than one.
+\nt <dom="usage" langue="cmn"> 在合适的语境下，该量词可用于‘一’以上的数字。
 \ton MHα
 \so F4
 \va <speaker="F5"> ID.
@@ -62346,7 +62335,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe entirely, all; everyone (same meaning as above, with a plural morpheme)
 \xn 全部、一切，大家（同上，加上多数词素）
 \xf entièrement, tout, tout le monde (même sens que ci-dessus, avec le morphème de pluriel)
-\dt 27/Apr/2017
 
 \lx tɑ˧α
 \sf <nb="B"> 1510b
@@ -62403,7 +62391,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \comp <langue="pmi" print="n"> tæ̃35
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> ton 3a
+\nt <type="hist" print="n" dom="ton" langue="fra"> ton 3a
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -62430,7 +62418,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \comp <langue="pmi" print="n"> tæ̃35
-\nt <dom="phono" langue="fra"> ton 3a
+\nt <type="hist" print="n" dom="ton" langue="fra"> ton 3a
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -62744,18 +62732,18 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 敬酒
 \xf inviter (des hôtes) à boire du vin
 
-\lx tɕi˥
+\lx tɕi˧~tɕi#˥
 \sf <nb="B"> 1212b
 \sf <nb="B"> 1601
 \sf <nb="2011"> 2419
-\or jie
+\or jiejie
+\mr tɕi˥
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté ˧˩)(tons confirmés; avant 2009, noté: ʁu˥kʰwɤ˩tɕi˩tɕi˩; d'abord noté ˥˧˧˧) (schéma régulier) (noté tɕɯtɕɯ puis corrigé)
-\nt <dom="phono" langue="fra"> généralement employé sous forme rédupliquée
-\ton H
-\lc tɕi˧
+\ton #H
+\lc tɕi˧tɕi˧
 \so F4
 \va <speaker="F5"> ID.
 \de To shake (e.g. clothes after washing; to shake one's head).
@@ -62780,6 +62768,30 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe |fg{demilitative} |fg{red} |fg{inceptive}
 \xn 摇一摇
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+
+\lx tɕi˥
+\sf <nb="B"> 1212b
+\sf <nb="B"> 1601
+\sf <nb="2011"> 2419
+\or jie
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté ˧˩)(tons confirmés; avant 2009, noté: ʁu˥kʰwɤ˩tɕi˩tɕi˩; d'abord noté ˥˧˧˧) (schéma régulier) (noté tɕɯtɕɯ puis corrigé)
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用。
+\ton H
+\lc tɕi˧
+\cf tɕi˧~tɕi#˥
+\so F4
+\va <speaker="F5"> ID.
+\de To shake (e.g. clothes after washing; to shake one's head).
+\ge to_shake
+\dn 抖、抖动，摇动
+\gn 抖
+\df Secouer (ex.: pour défroisser des vêtements après lavage; aussi: secouer la tête).
+\gf secouer
 
 \lx tɕʰi˥
 \sf <nb="B"> 2132
@@ -63151,7 +63163,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰi˧tsɯ˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="phono" langue="fra"> (emprunt)
 \ton LM
 \so F4
 \va <speaker="F5"> *
@@ -63161,7 +63172,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 茄子
 \df Aubergine.
 \gf 茄子::aubergine
-\dt 08/Oct/2015
 
 \lx tɕi˩α
 \sf <nb="B"> 916
@@ -63206,7 +63216,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="phono" langue="fra"> peut s'utiliser avec des numéraux autres que un
+\nt <dom="usage" langue="fra"> Ce classificateur peut s'utiliser avec des numéraux autres que un.
+\nt <dom="usage" langue="eng"> Given the right context, this classifier can be used with numerals other than one.
+\nt <dom="usage" langue="cmn"> 在合适的语境下，该量词可用于‘一’以上的数字。
 \ton Mα
 \lc ɖɯ˧ tɕi˧
 \so F4
@@ -63234,7 +63246,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <dom="phono" langue="fra"> (pas de mise au pluriel possible)
+\nt <dom="usage" langue="fra"> La mise au pluriel n'est pas possible (pour dire quelque chose comme «toutes les directions», «plusieurs directions»...)
 \ton H
 \so F4
 \de Direction.
@@ -63517,7 +63529,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> home
-\nt <dom="phono" langue="fra"> (emprunt)
 \ton MLM
 \lc tɕɤ˧ho˩pæ˧
 \so F4
@@ -63527,7 +63538,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 胶合板（借词）
 \df Contreplaqué, panneau en contreplaqué.
 \gf 胶合板::contreplaqué
-\dt 16/Jun/2017
 
 \lx tɕɤ˩ho˩tsɯ˥
 \sf <nb="B"> 1455b
@@ -63665,6 +63675,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra" dom="phono"> L'analyse comme /…ne˧ʝi˥/ n'a été adoptée qu'en octobre 2013. Jusque-là, l'expression était notée /tɕʰɤ˧ɲi˧-ni˧˥/, en trois syllabes, alors que la forme qui paraît trisyllabique est en fait une contraction d'une expression de quatre syllabes.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Premières notes: /tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩/.
 \nt <dom="phono" langue="fra"> La première syllabe est réalisée proche de [|fv{tɕʰe˧}], par harmonie vocalique (anticipation de l'articulation du /|fv{i}/ de la syllabe suivante). Une réalisation sans ce processus d'harmonie, avec voyelle d'arrière [|fv{ɤ}], est refusée par F4, ce qui paraît indiquer que l'harmonie vocalique est en voie de lexicalisation.
+\nt <dom="phono" langue="eng"> The first syllable is realised close to [|fv{tɕʰe˧}], through vowel harmony (anticipation of the articulation of the /|fv{i}/ of the following syllable). A realization without strong vowel harmony, with a back vowel [|fv{ɤ}], is rejected by F4, which seems to indicate that the outcome of vowel harmony is well on its way towards lexicalization.
+\nt <dom="phono" langue="cmn"> 第一个音节的实际发音接近[|fv{tɕʰe˧}]，这是后音节的/|fv{i}/元音的影响（元音和谐） 。F4认为带有后元音[|fv{ɤ}]的发音不准确，这似乎表明元音和谐的结果正朝着词汇化的方向发展。
 \so F4
 \va <speaker="M18"> tɕʰɤ˧ɲi˥-ni˩-zo˩
 \va <speaker="M21"> tʰv̩˧ɲi˧-ni˧˥
@@ -64073,7 +64085,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tɕi˧
 \vc <langue="fra" print="n"> mv̩˧ʁu˧ tɕi˧ (d'abord noté ˥ ˥ ˥), dʑɤ˩pi˧dʑo˧! 'Il y a bcp de nuages!' (mv̩˧ʁu˧) tɕi˧pʰɻ̩˩! "Il y a bcp de nuages blancs!" (d'abord noté ˥ ˥ ˥ ˩); mv̩˥ʁu˥ tɕi˩ dʑo˩ ze˩! (baisse entre sujet et prédicat; ne sais pas si c'est catégoriel ou non; selon M18, cette phrase est mal formée)
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \pdc <langue="fra"> morceaux
 \de Cloud.
 \ge cloud
@@ -64164,7 +64176,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gr 蚂蟥
 \df Sangsue.
 \gf sangsue
-\dt 08/Oct/2015
 
 \lx tɕɯ˧˥
 \sf <nb="B"> 1819
@@ -64174,7 +64185,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> (homophone de “sangsue"; confirmé)
+\nt <dom="phono" langue="fra" type="hist" print="n"> (homophone de “sangsue"; confirmé)
 \ton MH
 \lc tɕɯ˧˥
 \so F4
@@ -64521,42 +64532,66 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sy kʰv̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> littéralement “courir le muntjac"
 \ton L
 \so F4
-\de To hunt.
+\de To hunt (literally ‘to chase the muntjac’).
 \ge to_hunt
-\dn 狩猎
+\dn 狩猎（直译：‘赶麂子’）
 \gn 狩猎
-\df Chasser.
+\df Chasser (littéralement ‘courir le muntjac’).
 \gf chasser
-\dt 27/Apr/2017
 
-\lx tɕʰɯ˩di˩kʰv̩˩
+\lx tɕʰɯ˩di˩-kʰv̩˩
 \sf <nb="2011"> 2850
 \or qiddiku
+\mr tɕʰɯ˩di˩
+\mr kʰv̩˥2
 \ps n
 \lc tɕʰɯ˩di˩kʰv̩˩˥
+\sy tɕʰɯ˩di˩-kʰv̩˥mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="phono" langue="fra"> littéralement “chien qui court le muntjac"; peut s'employer quel que soit le type de gibier chassé, pas seulement pour des chiens qui chassent le muntjac
+\nt <dom="usage" langue="fra"> Le mot signifie littéralement “chien qui court le muntjac", mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
+\nt <dom="usage" langue="eng"> The word literally means ‘dog that chases the muntjac’, but it can be used regardless of the type of game hunted: it does not apply exclusively to dogs that hunt muntjacs.
+\nt <dom="usage" langue="cmn"> 这个词的字面意思是“追逐麂子的狗”，但它可以用于任何类型的猎物：它不只适用于猎杀麂子的狗。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv mi˩
-\de Hunting dog, hound.
+\de Hunting dog, hound (literally ‘dog that chases the muntjac’).
 \ge hound
-\dn 猎狗
+\dn 猎狗（直译：‘赶麂子的狗’）
 \gn 猎狗
-\df Chien de chasse.
+\df Chien de chasse (littéralement ‘chien qui court le muntjac’).
 \gf chien_de_chasse
-\xv tɕʰɯ˩di˩-kʰv̩˥mi˩
-\xe same meaning
-\xn 猎狗
-\xf même sens
-\dt 08/Oct/2015
+
+\lx tɕʰɯ˩di˩-kʰv̩˥mi˩
+\sf <nb="2011"> 2850
+\or qiddikumi
+\mr tɕʰɯ˩di˩
+\mr kʰv̩˩mi˩
+\ps n
+\lc tɕʰɯ˩di˩kʰv̩˥mi˩
+\sy tɕʰɯ˩di˩-kʰv̩˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\nt <dom="usage" langue="fra"> Le mot signifie littéralement “chien qui court le muntjac", mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
+\nt <dom="usage" langue="eng"> The word literally means ‘dog that chases the muntjac’, but it can be used regardless of the type of game hunted: it does not apply exclusively to dogs that hunt muntjacs.
+\nt <dom="usage" langue="cmn"> 这个词的字面意思是“追逐麂子的狗”，但它可以用于任何类型的猎物：它不只适用于猎杀麂子的狗。
+\ton L+#H-
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\pdv mi˩
+\de Hunting dog, hound (literally ‘dog that chases the muntjac’).
+\ge hound
+\dn 猎狗（直译：‘赶麂子的狗’）
+\gn 猎狗
+\df Chien de chasse (littéralement ‘chien qui court le muntjac’).
+\gf chien_de_chasse
 
 \lx tɕʰɯ˧lo#˥
 \sf <nb="2011"> 727
@@ -64662,7 +64697,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> (tɕi˩mi˧ ɲi˩) (vérifié à nouveau en juillet 2012: n'est pas un ton L+H$)
-\nt <dom="phono" langue="fra"> D'après M18: oiseau qu'on trouve bcp dans les champs de maïs; ne se déplace pas en grands vols. Selon M23: se trouve seulement en haute montagne. Transcription indiquée: 花眉鸟; en fait l'orthographe est 画眉鸟.
+\nt <dom="sem" langue="fra" type="hist" print="n"> D'après M18: oiseau qu'on trouve bcp dans les champs de maïs; ne se déplace pas en grands vols. Selon M23: se trouve seulement en haute montagne. Transcription indiquée: 花眉鸟; en fait l'orthographe est 画眉鸟.
 \ton LH
 \so F4
 \va <speaker="M21"> ID.
@@ -65219,6 +65254,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (ama accepte la prononciation [tʰi˩˥])
 \nt <dom="phono" langue="fra"> Au plan phonétique, la voyelle est quelque peu diphtonguée, se rapprochant de [|fv{tʰje˩˧}].
 \nt <dom="phono" langue="eng"> Phonetically, the vowel is somewhat diphthongized, getting close to [|fv{tʰje˩˧}].
+\nt <dom="phono" langue="cmn"> 该元音的实际发音有些双元音化，接近[|fv{tʰje˩˧}]。
 \ton LH
 \lc tʰi˩˥
 \so F4
@@ -65376,6 +65412,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> verb
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{ti˩tjɛ˧}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ti˩tjɛ˧}].
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{ti˩tjɛ˧}].
 \ton LM
 \so F4
 \de To treat, to handle (someone in a certain way).
@@ -66107,7 +66144,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tʰo˧fv̩˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> (n'est pas perçu par F4 comme un emprunt chinois)
+\nt <dom="phono" langue="fra"> Le mot est assez ancien pour n'être pas perçu par la locutrice F4 comme un emprunt chinois.
+\nt <dom="phono" langue="eng"> The word is not perceived by speaker F4 as a Chinese loan, suggesting that it is now well integrated.
 \ton M
 \so F4
 \de Bandit, brigand.
@@ -66489,7 +66527,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> object
 \comp <langue="pmi" print="n"> mə55dɑ51
 \nt <dom="sem" langue="fra"> flèche de feu
-\nt <dom="phono" langue="fra"> Songé à une étymologie  |fn{同步枪} mais l'initiale de la 2e syllabe ne devrait pas être aspirée
+\nt <dom="ety" langue="fra"> Une analyse comme un emprunt au chinois |fn{同步枪} a été envisagée, mais dans ce scénario, l'initiale de la deuxième syllabe ne devrait pas être aspirée.
+\nt <dom="ety" langue="eng"> An analysis as a borrowing from Chinese |fn{同步枪} has been considered, but in this scenario the initial of the second syllable should not be aspirated.
+\nt <dom="ety" langue="cmn"> 我们考虑过这个词可能是从汉语‘同步枪’借来的，但如果是这样，第二个音节的声母就不应该是送气的。
 \ton LM
 \lc tʰo˩pʰv̩˧tɕʰɤ˧
 \so F4
@@ -67485,8 +67525,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tsɑ˧bɤ˧
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="sem" langue="fra"> (emprunt tibétain: tsamba; Wylie: rtsam pa)
-\nt <dom="phono" langue="fra"> schémas tonals irréguliers
+\nt <dom="ton" langue="fra"> Ce mot présente un comportement tonal irrégulier, qu'il partage avec d'autres emprunts au tibétain.
+\nt <dom="ton" langue="eng"> This word exhibits irregular tonal behaviour, which it shares with other borrowings from Tibetan.
+\nt <dom="ton" langue="cmn"> 该词与其他从藏语借来的词一样，表现出不规则的形态变调。
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -67566,10 +67607,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xv bo˩hɑ˧-tsɑ˧bɤ˥
 \xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
 \xn 用来煮猪食的面粉（玉米面粉）
-\xf Farine à pâtée: farine employée pour la confection de la pâtée pour cochons. (A la date de l'enquête, cette farine était obtenue par mouture d'une variété de maïs non utilisée pour la consommation humaine.)
+\xf Farine à pâtée: farine employée pour la confection de la pâtée pour cochons. (À la date de l'enquête, cette farine était obtenue par mouture d'une variété de maïs non utilisée pour la consommation humaine.)
 \xc <dom="ton"> LM+H#
 \rf F5
-\dt 08/Jul/2018
 
 \lx tsʰɑ˧bo#˥
 \or cabbo
@@ -68014,7 +68054,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Sign.
 \ge sign
 \dn 记号
@@ -69766,7 +69806,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M21"> tsɯ˧gi#˥
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Crack, fissure.
 \ge crack
 \dn 缝隙，例如：墙上的
@@ -69975,7 +70015,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M18"> *
 \vc <langue="fra" print="n"> ne connaissant pas le mot exact, le locuteur crée une périphraseutilise comme périphrase: /oə˞͂˥ bv̩˥ ɬv̩˩˥/ 'moëlle de l'os', comme “cervelle" est “moëlle de la tête".
 \va <speaker="M21"> tsʰɯ˩tv̩˩
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Bone marrow.
 \ge marrow
 \dn 骨髓
@@ -71153,7 +71193,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton LM
 \lc ʈʂʰɤ˩qo˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Attention, interest, care.
 \ge attention
 \dn 关注、关心
@@ -71181,7 +71221,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H#
 \lc tso˩qʰv̩˩ɻ̩˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Porch, enclosed porch, vestibule: a narrow area between the door and the courtyard, covered by the roof (and hence sheltered from rain), and, in some houses, shut off from the coutyard by a wall with one door approximately in the middle. This porch is the area that one reaches when crossing the threshold, coming out from the main room. In the main consultant's house, where the porch is not enclosed, it is exposed to sunshine until the afternoon, and tasks such as chopping vegetables are carried out sitting in this area.
 \ge porch/vestibule
 \dn 玄关、门厅
@@ -72554,7 +72594,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˧hṽ̩#˥
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Cashmere, goat wool.
 \ge cashmere
 \dn 山羊毛
@@ -73345,7 +73385,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \va <speaker="M18"> *
 \vc <langue="fra" print="n"> Utilise une périphrase: /ʈʂʰv̩˩-di˩˧/ “chose pour teindre"; /dʑi˧hṽ̩˧ ʈʂʰv̩˥-di˩/ “chose pour teindre les vêtements
 \va <speaker="M21"> ID.
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Dye, dyestuff.
 \ge dye
 \dn 染料
@@ -74446,7 +74486,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \vc <type="hist" print="n" langue="fra"> d'abord noté ɖɻ, puis tɻ̩˧; mot non analysable. Confirmé.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈɻ̩˧ʈʰæ#˥
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Patrimony, family wealth, property.
 \ge patrimony
 \dn 家底、财产(贵重物品)
@@ -76636,9 +76676,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʐæ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> Généralement employé sous sa forme rédupliquée: |fv{ʐæ˧~ʐæ˥}.
-\nt <dom="sem" langue="eng"> The word is generally used in reduplicated form: |fv{ʐæ˧~ʐæ˥}.
-\nt <dom="sem" langue="cmn> 一般用重叠形式：|fv{ʐæ˧~ʐæ˥}。
+\nt <dom="morpho" langue="fra"> Généralement employé sous sa forme rédupliquée: |fv{ʐæ˧~ʐæ˥}.
+\nt <dom="morpho" langue="eng"> The word is generally used in reduplicated form: |fv{ʐæ˧~ʐæ˥}.
+\nt <dom="morpho" langue="cmn"> 一般用重叠形式：|fv{ʐæ˧~ʐæ˥}。
 \nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
 \nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-ʐæ˧~ʐæ˥}]。
@@ -77862,7 +77902,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \vc <langue="fra" print="n"> faire un rêve: ʑi˧mv̩˧kʶwɑ˩˥
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> donne: ʑi˧mv̩˧kʰwɑ˧˥ (voyelle confirmée); ex.: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥ 'hier, j'ai fait un rêve'
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Dream.
 \ge dream
 \dn 梦
@@ -78019,7 +78059,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> avant 2016: traduit comme: 家的这块地：院墙以内的地方, en: the premises: the area of the farm, within the boundaries of the walls and hedges (the farm's precinct). Correction indiquée par TS.
 \ton H$
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de The back of the house, the space behind the house.
 \ge the_back_of_the_house
 \dn 房屋的上后方
@@ -78957,7 +78997,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton H#
 \lc zo˧zo˧mv̩˧mv̩˥
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Thing, thingummy.
 \dn 东西
 \gn 东西
@@ -80718,7 +80758,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> language
 \ton M
 \so F4
-\pdv kʰwɤ˥
+\pdv kʰwɤ˥α
 \de Idiom, set phrase, fixed expression.
 \ge idiom
 \dn 惯用语、习惯语、习语
@@ -82342,7 +82382,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <langue="fra" dom="ton"> Le ton est interprété comme Mα au vu du comportement de ce morphème après un verbe.
+\nt <langue="fra" dom="ton"> Le ton lexical de ce suffixe est interprété comme |fv{Mα} au vu de son comportement après des verbes de diverses classes tonales.
+\nt <langue="eng" dom="ton"> The lexical tone, |fv{Mα}, is brought out by examining the behaviour of this suffix after verbs of different tonal classes.
+\nt <langue="cmn" dom="ton"> Le ton est interprété comme |fv{Mα} au vu du comportement de ce morphème après un verbe.
 \ton Mα
 \lc tso˧
 \so F4
