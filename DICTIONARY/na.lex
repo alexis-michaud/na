@@ -13716,6 +13716,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 露水
 \df Rosée.
 \gf rosée
+\xv ɖʐv̩˧qʰɑ˧ lɑ˧˥
+\xe Dew forms, dew appears.
+\xn 露水形成，露水出现。
+\xf De la rosée se forme, de la rosée apparaît.
 
 \lx ɖʐv̩˥
 \sf <nb="2011"> 282
