@@ -47818,6 +47818,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (noté mv̩˥ʐe˥kʰʶæ˧ en 2006)
+\nt <dom="sem" print="n" langue="eng"> Roselle Dobbs, September 2024: "I wonder if "to come out (moon, sun)" and "to shoot (with a gun)" might be the same word."
 \ton MH
 \lc qʰæ˧˥
 \so F4
@@ -47874,7 +47875,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf Les gens du commun, ils n'étaient jamais vraiment sereins / ils ne connaissaient pas la quiétude! (Au sujet de la société féodale, dans laquelle l'autorité du seigneur pouvait à tout moment se manifester par un ordre intimé aux gens du commun, ses sujets.)
 
 \lx qʰæ˧˥
-\hm 6
+\hm 5
 \or khaeq
 \ps v
 \sd <langue="fra"> verbe
@@ -48250,7 +48251,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx qʰæ˧˥
 \sf <nb="B"> 1238
 \sf <nb="2011"> 1774
-\or khae
+\or khaeq
 \ps v
 \lc qʰæ˧˥
 \sd <langue="fra"> verbe
@@ -67006,16 +67007,17 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: /tʰo˩˥, le˥ tʰo˩ ze˩/)(confirmé en 2012: est un ton L)
+\nt <dom="synt" print="n" langue="eng"> Communication from Roselle Dobbs: ``I asked SGM if this was a correct sentence:  Ki ta toq.  She corrected it to: Ki bbi ta toq.  (And I also have several other examples of sentences with "bbi toq".) So "on" here is expressed by "bbi", not the verb itself." xxxx ajouter parmi les exemples, avec la prononciation de Yongning.
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To lean on.
+\de To lean (on).
 \ge to_lean
 \dn 靠
 \gn 靠
-\df S’adosser à, s'appuyer.
-\gf s_adosser_à
+\df S’adosser (à), s'appuyer.
+\gf s_adosser
 \xv tʰi˧-tʰo˩
 \xe |fg{dur}
 \xn 持续体 〜
@@ -67035,7 +67037,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 进行时态 〜 发端
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
-\dt 01/Jul/2017
+\xv kʰi˧ bi˥ | tʰɑ˧-tʰo˩!
+\xo Ki bbi ta toq.
+\xe Do not lean against the door!
+\xn 不要靠着门！
+\xf Ne t'appuie pas contre la porte! / ne t'adosse pas à la porte!
+\rf F22
 
 \lx tʰo˥α
 \or to
