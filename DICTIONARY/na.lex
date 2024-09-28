@@ -68813,7 +68813,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> souvent prononcé
 \nt <dom="phono" langue="fra"> La réalisation phonétique est souvent de type [|fv{ʈʂʰeŋ˩ko˧}], avec nasale finale, imitant la phonotactique du mandarin.
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ʈʂʰeŋ˩ko˧}], with a nasal consonant, imitation Mandarin phonotactics.
 \nt <dom="phono" langue="cmn"> 实际发音接近[|fv{ʈʂʰeŋ˩ko˧}]，与汉语官话的发音相近。
@@ -72763,7 +72762,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; auparavant: /njɤ˩ɭɯ˥ tsɯ˩pʰɑ˩/) (vérifié: n'est pas /lv/, à la différence de M21) (vérifié en 2009: n'est pas /tsi/)
-\nt <dom="phono" langue="fra"> (sens confirmé; se fait en clignant des deux yeux)
 \ton L
 \so F4
 \va <speaker="M21"> tsɯ˩pʰɑ˩
@@ -72791,7 +72789,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
+\sy tsɑ˩~tsɑ˧˥
 \de To wink, as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
 \ge to_wink
 \dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
@@ -72927,7 +72925,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \nt <type="hist" print="n" langue="fra"> avant 2012: avais noté: ʈʂʰæ˧ɻ̩˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975 ; rencontrée pendant les travaux des champs en nov. 2007.
-\nt <dom="phono" langue="fra"> phonétiquement: ressemble beaucoup à tsʰɤ.ɻ, du fait d'une plus grande aperture de la rime de /tsʰɯ/, par anticipation du /ɻ/ qui suit
+\nt <dom="phono" langue="fra"> La réalisation phonétique ressemble beaucoup à [|fv{tsʰɤ.ɻ̩}]. Cela pourrait être dû en partie à un phénomène de coarticulation par lequel l'aperture de la rime de la syllabe /|fv{tsʰɯ}/ serait augmentée par anticipation du /|fv{ɻ̩}/ qui suit.
+\nt <dom="phono" langue="eng"> Phonetic realization is very close to [|fv{tsʰɤ.ɻ̩}]. This may be due in part to a coarticulatory phenomenon whereby the aperture of the rhyme of the syllable /|fv{tsʰɯ}/ is increased by anticipation of the following /|fv{ɻ̩}/.
 \ton #H
 \lc tsʰɯ˧ɻ̩˧
 \so F4
@@ -73426,6 +73425,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 952b
 \sf <nb="2011"> 694
 \or chujji
+\mr ʈʂʰv̩˩α
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -73635,9 +73635,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> (cf aussi le mot pour “teinture")
 \ton Lα
 \lc ʈʂʰv̩˩˥
+\cf ʈʂʰv̩˧dʑɯ˧
 \so F4
 \de To dye.
 \ge to_dye
@@ -73659,7 +73659,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 染东西
 \xf teindre des choses
 \xc PHONO
-\dt 07/Oct/2015
 
 \lx ʈʂʰv̩˩~ʈʂʰv̩˧˥
 \sf <nb="B"> 1679
@@ -74458,7 +74457,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> le˧-ʈʰɯ˩-ze˩: phonétiquement: [le]
-\nt <dom="phono" langue="fra"> ton 3b
+\nt <type="hist" print="n" dom="ton" langue="fra"> Ton 3b.
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
@@ -74615,7 +74614,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> “soutenir"
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
@@ -74625,7 +74623,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 搀扶
 \df Soutenir.
 \gf soutenir
-\dt 27/Apr/2017
 
 \lx tv̩˧˥
 \hm 2
@@ -74957,13 +74954,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (tv̩˩ɭɯ˧ɲi˥) (tons vérifiés en 2009, syllabes confirmées)
-\nt <dom="phono" langue="fra"> chez M23: syllabes coalescentes, comme si c'était une seule syllabe
 \ton LM+MH#
 \lc tv̩˩ɭɯ˧˥
 \so F4
 \va <speaker="M18"> tɤ˧ɻ̩˩˥
 \vc <type="hist" print="n" langue="fra"> confirmé, transcription et tons
 \va <speaker="M23"> tɤ˧ɭɯ˥
+\vc <dom="phono" langue="fra"> Les deux syllabes sont coalescentes chez le locuteur M23, comme si le mot était formé d'une seule syllabe.
+\vc <dom="phono" langue="eng"> The two syllables are coalescent in M23's speech, as if the word consisted of a single syllable.
+\vc <dom="phono" langue="cmn"> 在M23的发音中，这个词的两个音节是合在一起的，就像这个词仅有一个音节似的。
 \pdv ɭɯ˧β
 \de Fine, high-quality basket carried on the back; it had a trough shape. Not in use anymore at the time of fieldwork.
 \ge fine_basket
@@ -75633,16 +75632,15 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (dʑi˩pʰæ˩ʈwæ˧ ze˩: tons confirmés, d'abord noté ˩ ˩ ˧ ˩ puis corrigé en ˩ ˩ ˥ ˩ (notes d'avant 2009: “dʑi˩ pʰæ˩ tʰi˩ ʈwæ˥ dʑo˩, d'abord noté ˩ ˩˥ ˥ ˧ ˧; en mai 2008, F4 confirme les données de M21: dʑi˩ ʈwæ˧˥, ton m8: dʑi˩ʈwæ˧˥ ɲi˩")(confirmé en 2012: est un ton L)
-\nt <dom="phono" langue="fra"> sens: se figer; peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To freeze, to solidify.
+\de To freeze, to solidify. Can be said of water that freezes, or of lard (pig fat) that congeals in a pot as it cools.
 \ge to_freeze
-\dn 冻
+\dn 冻、冻结。可以指结冰的水，也可以指冷却后凝固在锅里的猪油。
 \gn 冻
-\df Geler, se figer.
+\df Geler, se figer. Peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
 \gf geler/figer
 \xv dʑɯ˩ ʈwæ˩˥
 \xe water freezes
@@ -76024,6 +76022,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 347
 \sf <nb="2011"> 401
 \or vula yihin hin
+\mr -hĩ˥
+\mr hĩ#˥
 \ps n
 \lc v̩˧lɑ˩ʝi˩hĩ˩hĩ˩
 \sd <langue="fra"> société
@@ -76031,7 +76031,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; d'abord noté v̩˥lɑ˧ i˧ hĩ˧, par erreur)
 \nt <dom="sem" langue="fra"> Une étymologie proposée (prudemment) par Liberty Lidz serait: “gens qui frappent les casseroles", du fait qu'ils auraient signalé ainsi leur présence: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2019:176n2). Cette hypothèse n'est pas acceptée par F4: dans le temps, les colporteurs signalaient leur présence au moyen de cymbales, non de casseroles. Un argument décisif est que le mot est cognat avec le naxi |fv{ɣɯ˧-lɑ˩ be˧}, dont la première syllabe n'est pas le mot ‘casserole’ (naxi: /|fv{bv̩}/). Pour F4, le mot n'est plus transparent.
 \nt <dom="sem" langue="eng"> One etymology proposed (cautiously) by Liberty Lidz is ‘people who bang pots and pans’, because they would have signalled their presence in this way: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2010:176n2). This hypothesis is not accepted by F4: in the past, pedlars signalled their presence by means of cymbals, not saucepans. A decisive argument here is that the word is cognate with Naxi |fv{ɣɯ˧-lɑ˩ be˧}, whose first syllable is not the word ‘pot’ (Naxi: /|fv{bv̩}/). The word is no longer transparent to F4.
-\nt <dom="phono" langue="fra"> le premier /hĩ/ est le relatif; le second est le mot ‘personne, être humain'.
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -76333,8 +76332,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc wo˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="phono" langue="fra"> phonétiquement: proche de [wu].
-\nt <dom="phono" langue="eng"> phonetically close to [wu].
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{wu}].
+\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{wu}].
+\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{wu}]。
 \ton H
 \so F4
 \va <speaker="F5"> ID.
@@ -82013,7 +82013,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \comp <langue="pmi" print="n"> wʌ22wɑ35
-\nt <dom="ton" langue="fra"> Le ton lexical de ce verbe est déduit de sa forme rédupliquée.
 \cf ʁwɤ˧~ʁwɤ˥
 \ton Lα
 \lc --
