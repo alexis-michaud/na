@@ -4678,7 +4678,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tons vérifiés en 2009; auparavant, hésitations entre: …tʰi˩kwɤ˩dʑo˩, …tʰi˧kwɤ˧…) vérifié en 2011: initiale vélaire et non uvulaire
-\nt <dom="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: |fv{le˧-bv̩˧~bv̩˧}.
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{le˧-bv̩˧~bv̩˧}.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{le˧-bv̩˧~bv̩˧}.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用：|fv{le˧-bv̩˧~bv̩˧}。
 \ton H
 \so F4
 \va <speaker="F5"> ID.
@@ -9874,7 +9876,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <langue="fra" dom="ton"> D'après les règles synchroniques, les composés disyllabiques |fv{dze˧-ɻ̩̃#˥} (‘paille de blé’, littéralement ‘os de blé’) et |fv{dze˧-tɕʰi#˥} (‘barbe de blé’, littéralement ‘épines de blé’), au ton #H, dont le déterminé (‘os’, ‘épine’) porte un ton H, doivent avoir un déterminant qui porte, soit un ton M, soit un ton H. On en déduit que la racine monosyllabique pour ‘blé’ porte, soit un ton M, soit un ton H. D'autres scénarios diachroniques sont néanmoins possibles, tels que la réduction à une forme disyllabique d'un ancien composé qui aurait comporté plus de deux syllabes: par exemple si des composés formés sur la base du disyllabe |fv{dze˧ɭɯ˧} ‘blé’ s'étaient ensuite trouvés ramenés à deux syllabes, par ellipse de la syllabe |fv{ɭɯ˧}.
 \nt <langue="eng" dom="ton"> According to the current synchronic rules, the disyllabic compounds |fv{dze˧-ɻ̩̃#˥} (‘wheat straw', literally ‘wheat bone') and |fv{dze˧-tɕʰi#˥} (‘wheat beard', literally ‘wheat thorns'), with a #H tone, whose head (‘bone', ‘thorn') carries an H tone, must have a determiner that carries either an M tone or an H tone. We deduce that the monosyllabic root for ‘wheat' carries either an M or an H tone. However, other diachronic scenarios are possible, such as the reduction to disyllabic forms |fv{dze˧-ɻ̩̃#˥} ‘wheat straw' and |fv{dze˧-tɕʰi#˥} ‘wheat beard' of earlier compounds that would have contained more than two syllables: for example, if compounds formed on the basis of the disyllable |fv{dze˧ɭɯ˧} ‘wheat' had then been reduced to two syllables, by ellipsis of the syllable |fv{ɭɯ˧}.
 \nt <langue="cmn" dom="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
-\de Wheat (monosyllabic root deduced from disyllabic forms).
+\de Wheat (monosyllabic root inferred from disyllabic forms).
 \ge wheat(monosyll.)
 \dn 小麦（从双音节形式推断出的单音节词根）。
 \gn 小麦（单音节词根）
@@ -10988,7 +10990,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> avant novembre 2011: noté lə˧ɖʐɤ˧ɖʐɤ˩
 \nt <type="hist" print="n" langue="fra"> qʰæ˧˥, ton 4 (avant 2009: notation 2006: kʶæ˥; notation 2007: kʰʶæ˩˥)
-\nt <dom="sem" langue="fra"> généralement employé sous sa forme rédupliquée
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{le˧-ɖʐɤ˩~ɖʐɤ˩}.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{le˧-ɖʐɤ˩~ɖʐɤ˩}.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用：|fv{le˧-ɖʐɤ˩~ɖʐɤ˩}。
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
@@ -36696,7 +36700,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \txt Healing.66
 \doi 10.24397/pangloss-0004541#S66
 \xc <dom="ton" langue="fra"> Le ton de cette particule est déduit des rares occurrences, telles que celles-ci, où il n'est pas déterminé par le contexte.
-\xc <dom="ton" langue="eng"> The tone of this particle is deduced from the rare occurrences, such as the present one, where it is not determined by the context.
+\xc <dom="ton" langue="eng"> The tone of this particle is inferred from the rare occurrences, such as the present one, where it is not determined by the context.
 \xc <dom="ton" langue="cmn"> 该句末语气词的本调是根据一种极少出现的情况（如本句），即语气词的声调不是由上下文决定。这种情况下，可以听到句末语气词的本调。
 
 \lx mv̩˥
@@ -39519,9 +39523,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 夹一点
 \xf serrer un peu
 \xc PHONO
-\xc <langue="fra" dom="ton"> L'élicitation d'une forme rédupliquée permet d'établir que le ton est Lα. Sa réduplication donne le même schéma (M.M.H.L) que pour le verbe ‘balayer': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}. Un ton Lβ donnerait un schéma M.H.L.L, comme pour le verbe ‘parler': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
-\xc <langue="eng" dom="ton"> Elicitation of a reduplicated form establishes that the verb's tone is Lα. Its reduplication yields the same pattern (M.M.H.L) as for the verb ‘to sweep': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}.  An Lβ tone would yield an M.H.L.L pattern, as for the verb ‘to speak': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
-\xc <langue="cmn" dom="ton"> 通过重叠形式的声调，可以确定动词的本调是Lα。其重叠模式（M.M.H.L）与动词 ‘扫’相同：|fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}。Lβ调则会给出M.H.L.L模式，如动词‘说话’：|fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}。
+\xc <langue="fra" dom="ton"> L'élicitation d'une forme rédupliquée permet d'établir que le ton est |fv{Lα}. Sa réduplication donne le même schéma (M.M.H.L) que pour le verbe ‘balayer': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}. Un ton Lβ donnerait un schéma M.H.L.L, comme pour le verbe ‘parler': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
+\xc <langue="eng" dom="ton"> Elicitation of a reduplicated form establishes that the verb's tone is |fv{Lα}. Its reduplication yields the same pattern (M.M.H.L) as for the verb ‘to sweep': |fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}.  An Lβ tone would yield an M.H.L.L pattern, as for the verb ‘to speak': |fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}.
+\xc <langue="cmn" dom="ton"> 通过重叠形式的声调，可以确定动词的本调是|fv{Lα}。其重叠模式（M.M.H.L）与动词 ‘扫’相同：|fv{/ɖɯ˧-bæ˧~bæ˥-ɻ̩˩/}。Lβ调则会给出M.H.L.L模式，如动词‘说话’：|fv{/ɖɯ˧-ʐwɤ˥~ʐwɤ˩-ɻ̩˩/}。
 \xv læ˩dæ˩qæ˥-bi˩ ɲi˩
 \xe to hold tightly under the armpit
 \xn 夹紧腋下
@@ -42409,7 +42413,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Question raised by Roselle Dobbs (2017): or do you mean the larva of this insect - in which case you should use 'moth larva'? Or do you mean 'borer' (an insect that eats tiny round holes in wood or books)? or 'silverfish' (an insect that eats clothes and, I think books)? xxxx
-\nt <langue="fra" dom="phono"> Réalisation proche de [|fv{ɳɻ̩˧}].
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɳɻ̩˧}].
 \nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɳɻ̩˧}].
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɳɻ̩˧}]。
 \ton LM
@@ -56062,7 +56066,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009) (fourni à l'origine par M21; confirmé par F4)
 \nt <dom="ton" langue="fra" print="n"> donne: dʑi˧ʂe˧˥ (formé de: m1+m4a)
 \nt <dom="ton" langue="fra"> Le ton du verbe est déduit du schéma tonal du composé `uriner'.
-\nt <dom="ton" langue="eng"> The tone of the verb is deduced from the tone pattern of the form `to urinate'.
+\nt <dom="ton" langue="eng"> The tone of the verb is inferred from the tone pattern of the form `to urinate'.
 \nt <dom="synt" langue="fra"> Il n'a pas été observé de forme rédupliquée de ce verbe.
 \nt <dom="synt" langue="eng"> No reduplicated form has been found for this verb.
 \ton Lβ
@@ -57748,7 +57752,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> number
 \nt <type="hist" print="n" langue="fra"> (avant 2009: so˥)
 \nt <dom="phono" langue="fra"> Le ton du chiffre `trois' est déduit du schéma tonal de l'expression `trois fois le contenu d'une corne', /|fv{so˩-qʰv̩˩tʰv̩˩˥}/ (le classificateur est /|fv{qʰv̩˧tʰv̩#˥}/).
-\nt <dom="phono" langue="eng"> The tone of the figure `three' is deduced from the tone pattern of the phrase `three hornfuls', /|fv{so˩-qʰv̩˩tʰv̩˩˥}/ (the classifier is /|fv{qʰv̩˧tʰv̩#˥}/).
+\nt <dom="phono" langue="eng"> The tone of the figure `three' is inferred from the tone pattern of the phrase `three hornfuls', /|fv{so˩-qʰv̩˩tʰv̩˩˥}/ (the classifier is /|fv{qʰv̩˧tʰv̩#˥}/).
+\nt <dom="ton" langue="cmn"> 这个数字的声调是根据它与/|fv{qʰv̩˧tʰv̩˧}/‘（牛）角’（用作量词）结合时的变调而提取的。
 \ton L
 \lc so˧
 \so F4
@@ -58301,8 +58306,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="phono" langue="fra"> Le ton lexical du nom est déduit de son comportement en association avec le verbe ‘prendre’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
-\nt <dom="phono" langue="eng"> The tone of the noun is deduced from its behaviour in association with the verb ‘to take’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
+\nt <dom="ton" langue="fra"> Le ton lexical du nom est déduit de son comportement en association avec le verbe ‘prendre’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
+\nt <dom="ton" langue="eng"> The tone of the noun is inferred from its behaviour in association with the verb ‘to take’: /|fv{ʂɤ˧ɲi˧ ʑi˧˥}/.
+\nt <dom="ton" langue="cmn"> 这个名词的声调是根据它与‘拿’这个动词结合时的变调（/|fv{ʂɤ˧ɲi˧ ʑi˧˥}/）而提取的。
 \ton #H
 \lc ʂɤ˧ɲi˧
 \so F4
@@ -59982,7 +59988,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
-\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The M tone is deduced from the H+L tonal pattern of the reduplicated form.
+\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The M tone is inferred from the H+L tonal pattern of the reduplicated form.
 \nt <dom="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。M调是从重叠形式的H+L调式中推导出来的。
 \ton Mα
 \so F4
@@ -63489,7 +63495,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
-\nt <langue="fra" dom="phono"> Réalisation proche de [|fv{tɕy˩ɕy˧}].
+\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{tɕy˩ɕy˧}].
 \nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{tɕy˩ɕy˧}].
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{tɕy˩ɕy˧}]。
 \nt <langue="fra" type="hist" print="n" dom="ton"> Tons vérifiés.
@@ -67148,30 +67154,61 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xf porter un enfant dans ses bras
 \dt 27/Apr/2017
 
+\lx tsɑ˩~tsɑ˧˥
+\sf <nb="B"> 1378
+\sf <nb="2011"> 1734
+\or zaza
+\mr tsɑ˩
+\ps v
+\lc tsɑ˩tsɑ˧˥
+\cf tsɯ˩pʰɤ˩
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L+MH
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> *
+\vc <langue="fra" print="n"> utilise l'expression /njæ˥kv̩˩ njɤ˩ tswɤ˩/; d'abord noté /… tsv̩˩/
+\de To wink. Winking (with both eyes at the same time) is used as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
+\ge to_wink
+\dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
+\gn 眨眼
+\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Moso avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
+\gf cligner_de_l_œil
+\xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩~tsɑ˩-dʑo˩!
+\xe |fg{red}: (S)he is winking!
+\xn 重叠：他在眨眨眼！
+\xf |fg{red}: Elle/il est en train de faire un clin d'œil!
+\xv mɤ˧-tsɑ˩~tsɑ˩
+\xe |fg{neg} |fg{red}
+\xn 不眨眼
+\xf |fg{neg} |fg{red}
+\xc PHONO
+
 \lx tsɑ˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
 \or zaq
 \ps v
 \lc tsɑ˩˥
+\cf tsɑ˩~tsɑ˧˥
 \cf tsɯ˩pʰɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> Généralement employé sous sa forme rédupliquée.
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{tsɑ˩~tsɑ˧˥}.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{tsɑ˩~tsɑ˧˥}.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用：|fv{tsɑ˩~tsɑ˧˥}。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> utilise l'expression /njæ˥kv̩˩ njɤ˩ tswɤ˩/; d'abord noté /… tsv̩˩/
-\de To wink, as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
+\de To wink. Winking (with both eyes at the same time) is used as a discreet sign to someone that they are not being careful enough in what they say: that they are being too talkative and should hold their tongue.
 \ge to_wink
 \dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
 \gn 眨眼
-\df Faire un clin d'œil, pour indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
-\xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩~tsɑ˩-dʑo˩!
-\xe |fg{red}: (S)he is winking!
-\xn 重叠：他在眨眨眼！
-\xf |fg{red}: Elle/il est en train de faire un clin d'œil!
+\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Moso avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
+\gf cligner_de_l_œil
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩-dʑo˩!
 \xe (S)he is winking!
 \xn 他在眨眼！
@@ -67180,12 +67217,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe |fg{red}
 \xn 重叠
 \xf |fg{red}
-\xv mɤ˧-tsɑ˩~tsɑ˩
-\xe |fg{neg} |fg{red}
-\xn 不眨眼
-\xf |fg{neg} |fg{red}
-\xc PHONO
-\dt 27/Apr/2017
 
 \lx tsɑ˧
 \sf <nb="B"> 1046
@@ -67910,7 +67941,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <langue="fra" dom="phono"> Ce mot contient le premier exemple de syllabe /|fv{pʰɑ}/ relevé à date de 2016. La question se pose: est-ce bien une syllabe /|fv{pʰɑ}/, ou serait-ce une syllabe /|fv{pʰɤ}/ colorée en [|fv{pʰɑ}] par la voyelle /|fv{ɑ}/ de la syllabe qui suit? Réponse en 2017: c'est bien /|fv{tsʰɑ˩pʰɑ˩lɑ˥}/. Si la présence d'une voyelle /|fv{ɑ}/ dans les trois syllabes est le fruit d'une harmonie vocalique, celle-ci est complète et lexicalisée.
+\nt <langue="fra" dom="phono"> Ce mot contient le premier exemple de syllabe /|fv{pʰɑ}/ relevé (à date de 2016). La question se pose: est-ce bien une syllabe /|fv{pʰɑ}/, ou serait-ce une syllabe /|fv{pʰɤ}/ colorée en [|fv{pʰɑ}] par la voyelle /|fv{ɑ}/ de la syllabe qui suit? (De même pour la première syllabe.) Réponse (obtenue en 2017): c'est bien /|fv{tsʰɑ˩pʰɑ˩lɑ˥}/ et non /|fv{†tsʰɤ˩pʰɤ˩lɑ˥}/. Si (comme il est vraisemblable) la présence d'une voyelle /|fv{ɑ}/ dans les deux premières syllabes est le fruit d'une harmonie vocalique régressive (depuis la troisième syllabe), celle-ci est complète et lexicalisée.
+\nt <langue="eng" dom="phono"> This word contains the first example of a /|fv{pʰɑ}/ syllable found (as of 2016). The question arises: is it really a syllable /|fv{pʰɑ}/, or would it be a syllable /|fv{pʰɤ}/ coloured into [|fv{pʰɑ}] by the vowel /|fv{ɑ}/ of the syllable that follows? (Likewise for the first syllable.) Answer (obtained in 2017): it is indeed /|fv{tsʰɑ˩pʰɑ˩lɑ˥}/ and not /|fv{†tsʰɤ˩pʰɤ˩lɑ˥}/. If (as is likely) the presence of a vowel /|fv{ɑ}/ in the first two syllables is the result of regressive vowel harmony (from the third syllable backwards), this process is complete and lexicalized.
+\nt <langue="cmn" dom="phono"> 这个单词包含第一个被发现的/|fv{pʰɑ}/音节的例子（截至 2016 年）。问题是：它真的是一个/|fv{pʰɑ}/音节，还是由后面音节的元音染成[|fv{pʰɑ}]的/|fv{pʰɤ}/音节呢？(第一个音节也存在有相同的疑问。）答案（2017 年获得的）为：确实是/|fv{tsʰɑ˩pʰɑ˩lɑ˥}/，而不是 /|fv{tsʰɤ˩pʰɤ˩lɑ˥}/。估计元音和谐导致了早期*|fv{tsʰɤ˩pʰɤ˩lɑ˥}的前两个音节中出现元音/|fv{ɑ}/，而这个过程已完成了，被完整地词汇化了。
 \ton L+H#
 \lc tsʰɑ˩pʰɑ˩lɑ˥
 \so F4
@@ -68273,7 +68306,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
 \nt <type="hist" print="n" langue="fra"> (avant 2009: ˥) Avant 2017, noté une expression |fv{tsʰe˩ ɲi˩˥} pour ‘c'est dix, ça fait bien dix’. Mais c'était en fait l'expression ‘dix jours’ et pas ‘c'est dix’. ‘C'est dix’ se dit: /tsʰe˧, | ɲi˩˥!/ Le ton est donc réanalysé comme M.
-\nt <dom="phono" langue="fra"> L'analyse du ton se fonde sur le comportement de ce nombre lorsqu'il est suivi de /|fv{qʰv̩˧tʰv̩˧}/.
+\nt <dom="ton" langue="fra"> L'analyse du ton se fonde sur le comportement de ce nombre lorsqu'il est suivi de /|fv{qʰv̩˧tʰv̩˧}/ `corne' (employé comme classificateur).
+\nt <dom="ton" langue="eng"> The tone of this numeral is inferred from its behaviour in association with /|fv{qʰv̩˧tʰv̩˧}/ `horn' (used as classifier).
+\nt <dom="ton" langue="cmn"> 这个数字的声调是根据它与/|fv{qʰv̩˧tʰv̩˧}/‘（牛）角’（用作量词）结合时的变调而提取的。
 \ton M
 \lc tsʰe˧
 \so F4
@@ -68454,7 +68489,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="phono" langue="fra"> Réalisation phonétique proche de [|fv{tsæ˧bæ˥}].
+\nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsæ˧bæ˥}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsæ˧bæ˥}].
 \nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsæ˧bæ˥}]。
 \ton H#
@@ -68778,7 +68813,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> souvent prononcé |fv{/ʈʂʰeŋ˩ko˧/}, avec nasale finale, imitant la phonotactique du mandarin
+\nt <dom="phono" langue="fra"> souvent prononcé
+\nt <dom="phono" langue="fra"> La réalisation phonétique est souvent de type [|fv{ʈʂʰeŋ˩ko˧}], avec nasale finale, imitant la phonotactique du mandarin.
+\nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{ʈʂʰeŋ˩ko˧}], with a nasal consonant, imitation Mandarin phonotactics.
+\nt <dom="phono" langue="cmn"> 实际发音接近[|fv{ʈʂʰeŋ˩ko˧}]，与汉语官话的发音相近。
 \ton LM
 \lc ʈʂʰe˩ko˥
 \so F4
@@ -69613,9 +69651,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> synonyme de 1457c, selon M23
 \ton MH
 \lc tsʰi˧˥
+\sy gv̩˩α1
 \so F4
 \va <speaker="M23"> ID.
 \de To construct a house, to build a house.
@@ -70396,6 +70434,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> abstract
 \nt <dom="phono" langue="fra"> Le ton du monosyllabe est déduit de son comportement dans l'expression /|fv{tsʰo˧ ʝi˥}/ ‘avoir de l'estime'.
 \nt <dom="phono" langue="eng"> The tone of the monosyllable is inferred from its behaviour in the phrase /|fv{tsʰo˧ ʝi˥}/ ‘to hold… in high esteem'.
+\nt <dom="ton" langue="cmn"> 这个单音节词的声调是根据它在/|fv{tsʰo˧ ʝi˥}/‘重视、尊敬’这个短语中的变调而提取的。
 \ton MH
 \lc tsʰo˧˥
 \so F4
@@ -71121,8 +71160,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> Ce mot emprunté au tibétain est occasionnellement prononcé avec une nasalisation médiane: [|fv{tsʰo˧mpæ˧}]. Selon les règles phonotactiques ordinaires de la langue na, ce serait là une réalisation de /†|fv{tsʰo˧mv̩˧pæ˧}/, mais le mot est pourtant perçu comme disyllabique. C'est là une des quelques spécificités constatées dans les emprunts tibétains.
-\nt <dom="phono" langue="eng"> This word borrowed from Tibetan is occasionally pronounced with medial nasalisation: [|fv{tsʰo˧mpæ˧}]. According to the ordinary phonotactic rules of the Na language, this would be a realization of trisyllabic /†|fv{tsʰo˧mv̩˧pæ˧}/, yet the word is perceived as disyllabic. This is one of the few specificities of Tibetan borrowings.
+\nt <dom="phono" langue="fra"> Ce mot emprunté au tibétain est occasionnellement prononcé avec une nasalisation médiane: [|fv{tsʰo˧mpæ˧}]. Selon les règles phonotactiques ordinaires de la langue na, ce serait là une réalisation de /†|fv{tsʰo˧mv̩˧pæ˧}/, mais le mot est pourtant perçu comme disyllabique. C'est là une des quelques spécificités constatées dans les emprunts tibétains (ainsi que dans les emprunts chinois, par exemple |fn{成功} prononcé [|fv{ʈʂʰeŋ˩ko˧}]).
+\nt <dom="phono" langue="eng"> This word borrowed from Tibetan is occasionally pronounced with medial nasalisation: [|fv{tsʰo˧mpæ˧}]. According to the ordinary phonotactic rules of the Na language, this would be a realization of trisyllabic /†|fv{tsʰo˧mv̩˧pæ˧}/, yet the word is perceived as disyllabic. This is one of the few specificities of borrowings (from Tibetan, as also from Mandarin, as when |fn{成功} is pronounced [|fv{ʈʂʰeŋ˩ko˧}]).
 \ton #H
 \lc tsʰo˧pæ˧
 \so F4
@@ -71198,7 +71237,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire
-\nt <dom="phono" langue="fra"> le ton est déduit du comportement dans l'expression /|fv{ʈʂʰɤ˩qo˧ kʰɯ˧˥}/ ‘prêter attention'
+\nt <dom="ton" langue="fra"> Le ton du nom est déduit du comportement dans l'expression /|fv{ʈʂʰɤ˩qo˧ kʰɯ˧˥}/ ‘prêter attention'.
+\nt <dom="ton" langue="eng"> The tone of the noun is inferred from its behaviour in the phrase /|fv{ʈʂʰɤ˩qo˧ kʰɯ˧˥}/ ‘to pay attention to, to care for'.
+\nt <dom="ton" langue="cmn"> 名词的声调是根据/|fv{ʈʂʰɤ˩qo˧ kʰɯ˧˥}/‘关心、关注’这个短语的变调而提取的。
 \ton LM
 \lc ʈʂʰɤ˩qo˥
 \so F4
@@ -72385,7 +72426,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʈʂɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> L'emploi le plus courant est sous forme rédupliquée: |fv{ʈʂɯ˩~ʈʂɯ˧˥}.
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{ʈʂɯ˩~ʈʂɯ˧˥}.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{ʈʂɯ˩~ʈʂɯ˧˥}.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用：|fv{ʈʂɯ˩~ʈʂɯ˧˥}。
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
