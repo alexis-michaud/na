@@ -1230,7 +1230,7 @@
 \ton #H-
 \lc æ˧ʂæ˧kɤ˥ʈʂɯ˩
 \mr æ˧ʂæ#˥
-\mr kɤ˧ʈʂɯ˩2
+\mr kɤ˧ʈʂɯ˩
 \cf æ˧ʂæ˧-pi˧mv̩˧˥
 \cf æ˧ʂæ˧-qʰwæ#˥
 \cf æ˧ʂæ˧-qʰwɤ˧˥
@@ -2481,7 +2481,6 @@
 \dt 30/Apr/2017
 
 \lx bæ˩β
-\hm 4
 \or bbae
 \ps clf
 \sd <langue="fra"> classificateur
@@ -4825,7 +4824,7 @@
 \sf <nb="2011"> 296
 \or bbeuhu
 \mr bɻ̩˧
-\mr hu˧˥
+\mr hu˧˥2
 \mc <langue="fra"> Mot composé de `intestin' et `estomac'.
 \mc <langue="eng"> The word is a compound of morphemes for `intestine' et `stomach'.
 \mc <langue="cmn"> 由‘肠子’与‘胃’组成的复合名词。
@@ -5177,7 +5176,7 @@
 \mr bɻ̩˥
 \mr qʰv̩˧2
 \mr ʑi˥
-\mr -hĩ˥
+\mr -hĩ˥
 \mc <langue="fra"> L'intuition de la locutrice F4 est que la composition morphémique du mot est: “insecte qui a des cornes", ‘长角的虫子’.
 \mc <langue="eng"> Speaker F4's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns", ‘长角的虫子’.
 \mc <langue="cmn"> 主发音人直觉这个词的词源是“有角的昆虫”。
@@ -5334,11 +5333,13 @@
 \sf <nb="B"> 652
 \sf <nb="2011"> 976
 \or bbuchu
+\bw <langue="bod"> sbug chal |tib{སྦུག་ཆལ་}
 \ps n
 \lc bv̩˧ʈʂʰv̩˧
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
-\nt <dom="sem" langue="fra"> emprunt au tibétain: /zbuk.tɕʰal/; cf japhug /zɯɣ.tɕʰɤl/
+\nt <dom="comp" langue="fra"> Cf. japhug |fv{zɯɣ.tɕʰɤl}.
+\nt <dom="comp" langue="eng"> See Japhug |fv{zɯɣ.tɕʰɤl}.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -8472,7 +8473,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps prep
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> d'abord glosé comme |fn{起始} inchoatif; mais cette étiquette est ensuite utilisée pour ɻ
+\nt <dom="sem" langue="fra" type="hist" print="n"> d'abord glosé comme |fn{起始} inchoatif; mais cette étiquette est ensuite utilisée pour |fv{ɻ̩}.
 \ton M
 \lc --
 \so F4
@@ -10270,7 +10271,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or jjie
 \ps n
 \lc dʑi˧
-\sy dʑi˧hṽ̩˥$
+\sy dʑi˧hṽ̩˥$
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \comp <langue="pmi" print="n"> tɕõ22gu55
@@ -13848,7 +13849,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf ɖʐv̩˧4
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="sem" langue="fra"> même syllabe-suffxe /qʰɑ/ que dans “orage", d'après F4; n'aurait pas (plus?) le sens de “amer".
+\nt <dom="sem" langue="fra"> D'après la locutrice F4, la seconde syllabe, /|fv{qʰɑ}/, serait la même que dans le mot `orage'. Il ne s'agirait pas de l'adjectif /|fv{qʰɑ˥}/ `amer'.
 \ton M
 \lc ɖʐv̩˧qʰɑ˧
 \so F4
@@ -31027,7 +31028,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \comp <langue="pmi" print="n"> lʲɯ55 (lʲv̩˥)
-\nt <dom="phono" langue="fra" print="n"> He Jiren et Jiang Zhuyi (1985: 112) notent ɬe˧.
+\nt <dom="phono" langue="fra" print="n"> He Jiren et Jiang Zhuyi (1985: 112) notent |fv{ɬe˧}.
 \ton L
 \lc ɬi˧
 \so F4
@@ -41919,7 +41920,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 达石诺布
 \df Daeshi Nobbu, un prénom masculin.
 \gf Daeshi_Nobbu
-\refsup BuriedAlive2.109
+\txtsup BuriedAlive2.109
 \doisup 10.24397/pangloss-0004537#S109
 
 \lx no˩bv̩˧-tsʰɯ˩ɻ̩˩
@@ -41940,7 +41941,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 诺布次尔
 \df Nobbu Ci'er, un prénom masculin.
 \gf Nobbu_Ci'er
-\refsup BuriedAlive2.113
+\txtsup BuriedAlive2.113
 \doisup 10.24397/pangloss-0004537#S113
 
 \lx no˩bv̩˧
@@ -50788,7 +50789,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or khuaelee
 \ps n
 \lc qʰwæ˧ɭɯ˧
-\lx jæ˩dzɯ˧
+\sy jæ˩dzɯ˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton M
