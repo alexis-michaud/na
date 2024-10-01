@@ -21942,7 +21942,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gf de_petite_taille
 \dt 14/Jul/2017
 
-\lx hṽ̩˩~hṽ̩˧˥
+\lx hṽ̩˩~hṽ̩˧˥
 \sf <nb="B"> 1062
 \sf <nb="2011"> 1498
 \or heunheun
@@ -21951,7 +21951,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> Voyelle vérifiée en 2008.
-\nt <type="hist" print="n" langue="fra"> Avant 2024: noté une forme à l'isolée /hṽ̩˩~hṽ̩˩/. Corrigé en juillet 2024 en/hṽ̩˩~hṽ̩˧˥/.
+\nt <type="hist" print="n" langue="fra"> Avant 2024: noté une forme à l'isolée /hṽ̩˩~hṽ̩˩/. Corrigé en juillet 2024 en/hṽ̩˩~hṽ̩˧˥/.
 \nt <type="hist" print="n" dom="sem" langue="fra"> Le locuteur M18 propose (c. 2006) une étymologie dans laquelle ce mot serait parent du mot pour “pâte", |fv{dʑɯ˩hṽ̩˧˥}: quelqu'un qui dérange est “pot de colle", on aimerait prendre ses distances mais il est “collant". M21 adhère à cette interprétation. En 2024, l'avis de F4 est formel: les deux mots sont sans lien entre eux.
 \nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée.
 \nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form.
@@ -21976,7 +21976,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xc <langue="fra" dom="dialect"> Selon le locuteur M23, la traduction chinoise la plus fidèle de l'expression serait |fn{欺负人}, ‘humilier quelqu'un’. Cette remarque ne paraît pas pleinement justifiée au plan linguistique, mais l'association d'idées souligne une proximité entre l'existence d'une contrariété ponctuelle (sens littéral du mot: ‘gêner, ennuyer’) et la perception que peut en avoir une personne qui éprouve (de façon durable) du ressentiment d'un statut social qui la place en situation défavorable dans les rapports d'autorité et de pouvoir. La contrariété se traduit en sentiment d'humiliation.
 \xc <langue="eng" dom="dialect"> According to speaker M23, the most accurate Chinese translation of the expression would be |fn{欺负人}, ‘to humiliate someone'. This remark does not seem fully justified from a linguistic point of view, but the association of ideas underlines the proximity between one-off annoyance (literal meaning of the word: ‘to annoy') and the perception that a person may have who feels resentment of a social status that places him or her in an unfavourable position in relations of authority and power. Resentment translates into a feeling of humiliation.
 \xc <langue="cmn" dom="dialect"> M23认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
-\xv mɤ˧-hṽ̩˩~hṽ̩˩
+\xv mɤ˧-hṽ̩˩~hṽ̩˩
 \xe |fg{neg}
 \xn 不干扰
 \xf |fg{neg}
@@ -24013,7 +24013,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 1066
 \sf <nb="2011"> 1501
 \or yiwo
-\mr ʝi˥
+\mr ʝi˥3
 \mr ʁo˧2
 \ps adj
 \lc ʝi˧ʁo˧
@@ -28758,7 +28758,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps v
 \lc kʰv̩˧ʂæ˧˥
 \sy tɕʰɯ˩di˩
-\sy hṽ̩˧ʂæ˧˥
+\sy hṽ̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: objet au ton H, verbe au ton L, expression résultante au ton MH.
@@ -28778,15 +28778,15 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 狩猎去了
 \xf (Elle/il) est parti(e) chasser
 
-\lx hṽ̩˧ʂæ˧˥
+\lx hṽ̩˧ʂæ˧˥
 \sf <nb="B"> 1193
 \sf <nb="B"> 1755
 \sf <nb="2011"> 1708
 \or hunshae
-\mr hṽ̩˥1
+\mr hṽ̩˥1
 \mr ʂæ˩
 \ps v
-\lc hṽ̩˧ʂæ˧˥
+\lc hṽ̩˧ʂæ˧˥
 \sy tɕʰɯ˩di˩
 \sy kʰv̩˧ʂæ˧˥
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: objet au ton H, verbe au ton L, expression résultante au ton MH.
@@ -32712,7 +32712,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \or lo yihin
 \mr lo˧ʝi˧
 \mr -hĩ˥
-\mr hĩ#˥
+\mr hĩ˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -33314,7 +33314,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 3313
 \or Loshu xienami
 \mr lo˧ʂv̩˩
-\mr hi˩nɑ˧mi˧
+\mr hi˩nɑ˧mi#˥
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -33450,6 +33450,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 191
 \sf <nb="2011"> 250
 \or lozhae
+\mr ʈʂæ˧˥3
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -33457,7 +33458,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" print="n" langue="fra"> Avant 2024, je pensais que le terme avait une acception aussi étendue que le mot qui désigne à la fois la main et le bras. Qu'il désignait les deux articulations du bras: le poignet, mais aussi le coude. En réalité, il s'agit d'un terme qui désigne spécifiquement le poignet.
 \ton LM+MH#
 \lc lo˩ʈʂæ˧˥
-\cf ʈʂæ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -36218,7 +36218,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 
 \lx mo˧nɑ˥-ɕi˩mi˩
 \or mona xiemi
-\mr mo˧nɑ˥
+\mr mo˧nɑ˥1
 \mr ɕi˩mi˩
 \ps n
 \sd <langue="fra"> langage
@@ -37019,7 +37019,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 51b
 \sf <nb="2011"> 85
 \or muddi
-\mr mv̩˧di˩˥
+\mr mv̩˥1
 \mr di˩˥
 \ps n
 \lc mv̩˧di˧˥
@@ -37443,7 +37443,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 762
 \or mu muddi
 \mr mv̩˥2
-\mr mv̩˩α
+\mr mv̩˩α1
 \mr -di˩
 \mc <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
 \ps n
@@ -38619,7 +38619,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 冲
 \df Emporter (le courant emporte un nageur), balayer (une vague balaie une épave de bateau).
 \gf emporter
-\dt 21/Jun/2017
 
 \lx mv̩˩α
 \sf <nb="B"> 293
@@ -38653,7 +38652,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \gn 熟（食物）
 \df Cuit (aliment).
 \gf cuit
-\dt 04/Sep/2015
 
 \lx mv̩˩α
 \hm 4
@@ -38781,7 +38779,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 1057
 \sf <nb="2011"> 1490
 \or mumu
-\mr mv̩˥
+\mr mv̩˥3
 \mc <langue="fra"> réduplication de ‘comprendre'
 \mc <langue="eng"> reduplicated from ‘to understand'
 \mc <langue="cmn"> ‘懂’的重叠形式
@@ -39424,7 +39422,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 
 \lx nɑ˧~nɑ˥
 \or nana
-\mr nɑ˩
+\mr nɑ˩β
 \mc <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
 \mc <langue="eng"> Probably a reduplicated form of ‘black, dark'
 \mc <langue="cmn"> 这个词估计是‘黑、暗’的重叠
@@ -41616,7 +41614,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx njɤ˧lɑ˥
 \sf <nb="2011"> 1411
 \or nyala
-\mr njɤ˧˥
+\mr njɤ˧˥3
 \ps adv
 \ton H#
 \lc njɤ˧lɑ˥
@@ -51771,7 +51769,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe same meaning
 \xn 同上
 \xf même sens
-\dt 01/Oct/2015
 
 \lx ʁæ˧
 \sf <nb="B"> 1048
@@ -52119,7 +52116,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="B"> 1017c
 \sf <nb="2011"> 2482
 \or hraezzhu
-\mr ʁæ˩α4
 \mr ɖʐɻ̩˩α
 \ps adj
 \ton LM
@@ -52596,7 +52592,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe Clods of earth fall apart (after ploughing, the fields are irrigated; clods of earth melt into the water)
 \xn 土块散开在了（耕田后灌溉，土块散在水里）
 \xf les mottes de terre se défond, se dissolvent (dans l'eau dont on inonde les champs après les labours)
-\dt 01/Oct/2015
 
 \lx ʁæ˩α
 \sf <nb="B"> 1646
@@ -52621,7 +52616,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe drunk
 \xn 醉酒
 \xf ivre d'alcool
-\dt 01/Oct/2015
 
 \lx ʁæ˩α
 \hm 3
@@ -63871,7 +63865,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 825
 \or jadabbae
 \mr tɕɤ˧tɑ˧
-\mr bæ˩
+\mr bæ˩1
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -63893,7 +63887,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 这条牛皮绳
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx tɕʰɤ˧tɕo˩
 \bw <langue="cmn"> 牵锯？
@@ -64543,7 +64536,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕʰɯ˩di˩˥
 \mr tɕʰɯ˩˥
 \mr di˧˥1
-\sy hṽ̩˧ʂæ˧˥
+\sy hṽ̩˧ʂæ˧˥
 \sy kʰv̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67397,10 +67390,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe to rob people, to steal from people
 \xn 抢劫
 \xf voler les gens, extorquer des choses aux gens
-\dt 08/Oct/2015
 
 \lx ʈʂæ˧˥
-\hm 3
+\hm 2
 \or zhaeq
 \ps v
 \lc ʈʂæ˧˥
@@ -67431,7 +67423,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʈʂæ˧˥
 \sf <nb="B"> 170
 \sf <nb="2011"> 237
-\hm 4
+\hm 3
 \or zhaeq
 \ps n
 \lc ʈʂæ˧˥
@@ -67456,7 +67448,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 段
 \df Période, époque; segment de temps.
 \gf période
-\dt 08/Oct/2015
 
 \lx ʈʂʰæ˧˥
 \sf <nb="B"> 1863
@@ -75066,7 +75057,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 临时坟墓
 \df Tombe provisoire, où on place le corps du défunt avant la crémation.
 \gf tombe_provisoire
-\dt 07/Oct/2015 pdv ɭɯ˧
+\pdv ɭɯ˧
 
 \lx ʈv̩˩qʰv̩˩
 \sf <nb="2011"> 927
@@ -76029,7 +76020,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sf <nb="2011"> 401
 \or vula yihin hin
 \mr -hĩ˥
-\mr hĩ#˥
+\mr hĩ˥
 \ps n
 \lc v̩˧lɑ˩ʝi˩hĩ˩hĩ˩
 \sd <langue="fra"> société
@@ -78783,7 +78774,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ton M
 \lc zo˧tʰi˧
 \mr tʰi˧
-\mr zo#˥
+\mr zo˥
 \cf mv̩˩tʰi˩
 \de Intelligent man, clever boy. (There is a different term for women.)
 \ge intelligent_man
@@ -79030,7 +79021,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lx ʐo˩~ʐo˧˥
 \sf <nb="2011"> 2256
 \or roro
-\mr ʐo˩˥
+\mr ʐo˩α1
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
