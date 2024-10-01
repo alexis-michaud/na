@@ -9539,7 +9539,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 1076
 \sf <nb="2011"> 1518
 \or ruaezhe
-\mr ʐwæ˩α
+\mr ʐwæ˩α2
 \mr ʈʂɤ˧α
 \ps adj
 \cf dze˩dʑɯ˧˥
@@ -9707,7 +9707,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 3045
 \or zzeilee'eun
 \mr dze˧ɭɯ˧
-\mr ɻ̩̃˥
+\mr ɻ̩̃˥1
 \ps n
 \lc dze˧ɭɯ˧ɻ̩̃˧
 \sd <langue="fra"> plante
@@ -9888,7 +9888,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 3046
 \or zzei'eun
 \mr †dze˧
-\mr ɻ̩̃˥
+\mr ɻ̩̃˥1
 \ps n
 \lc dze˧ɻ̩̃˧
 \sd <langue="fra"> plante
@@ -10430,7 +10430,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 416
 \sf <nb="2011"> 526
 \or jjiehun
-\mr dʑi˥
+\mr dʑi˥2
 \ps n
 \lc dʑi˧hṽ̩˥
 \sd <langue="fra"> vêtement
@@ -11322,7 +11322,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sf <nb="2011"> 3329
 \or Jjabbu Gesawua
-\mr dʑɤ˩bv̩˧
 \mr kɤ˧sɑ˥$
 \mr ʁwɤ˧2
 \ps n
@@ -16694,10 +16693,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 1376
 \or ggiq
 \mr gɯ˩α2
-\mr ʝi˥
-\mc <langue=fra> Ce morphème est issu de la contraction de |fv{gɯ˩α2} et |fv{ʝi˥}.
-\mc <langue=eng> This morpheme originates in the coalescence of |fv{gɯ˩α2} and |fv{ʝi˥}.
-\mc <langue=cmn> 此语素来自|fv{gɯ˩α2}与|fv{ʝi˥}的和音。
+\mr ʝi˥5
+\mc <langue=fra> Ce morphème est issu de la contraction de |fv{gɯ˩α2} et |fv{ʝi˥5}.
+\mc <langue=eng> This morpheme originates in the coalescence of |fv{gɯ˩α2} and |fv{ʝi˥5}.
+\mc <langue=cmn> 此语素来自|fv{gɯ˩α2}与|fv{ʝi˥5}的和音。
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -16820,7 +16819,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf personne d'une année batailleuse
 \xc <langue="fra" dom="phono"> |fv{/hĩ˥/} a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
 \xc <langue="eng" dom="phono"> |fv{/hĩ˥/} here has its full meaning of ‘person' and is not phonetically reduced.
-\xc <langue="cmn" dom="phono"> |fv{/hĩ˥/}在这里的意思是‘人’，没有被弱化（音缩）。
+\xc <langue="cmn" dom="phono"> |fv{/hĩ˥/}在这里的意思是‘人’，没有被弱化（音缩）。
 \xv ʑi˩hṽ̩˥, | lɑ˧: | kʰv̩˧ gɤ˧˥!
 \xe The Monkey and the Ape are quarrelsome birth signs!
 \xn 属猴和属虎的人很爱吵架！
@@ -17114,7 +17113,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc gɤ˧lɑ˧
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <dom="sem" langue="fra"> (tibétain: lha; serait un emprunt tibétain plutôt qu'un cognat, sinon serait passé à ld /i/, lazé /ie/, naxi /e/); est ss doute un composé na+tibétain, le /gɤ/ étant le mot qui désigne le “haut"? “les dieux d'en haut"?
+\nt <dom="ety" langue="fra"> La seconde syllabe de ce mot est un emprunt au tibétain, et non un cognat, sinon sa voyelle |fv{*a} serait passée à |fv{i} en na de Yongning, à |fv{ie} en lazé, et à |fv{e} en naxi. Le disyllabe est vraisemblablement un composé na+tibétain, le |fv{gɤ} restant à identifier.
+\nt <dom="ety" langue="eng"> The second syllable of this word is borrowed from Tibetan, and not a cognate, otherwise its vowel |fv{*a} would have changed to |fv{i} in Yongning Na, to |fv{ie} in Laze, and to |fv{e} in Naxi. The disyllable is probably a Na+Tibetan compound, with the |fv{gɤ} yet to be identified.
+\nt <dom="ety" langue="cmn"> 该词的第二个音节借自藏语，并非同源词，否则其元音 |fv{*a} 在永宁摩梭话中会变为|fv{i}，在木里水田话中变为|fv{ie}，在纳西语中变为|fv{e}。这个双音节很可能是摩梭话+藏语的复合词，其中的|fv{gɤ}语素尚待确定。
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -20346,8 +20347,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 261
 \sf <nb="2011"> 341
 \or hinmo
-\mr hĩ˥
-\mr mo˩α
+\mr hĩ˥
+\mr mo˩α1
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -21731,7 +21732,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 
 \lx hṽ̩˧~hṽ̩˧
 \sf <nb="2011"> 2223
-\mr hṽ̩˧
+\mr †hṽ̩˥
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -24012,7 +24013,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="B"> 1066
 \sf <nb="2011"> 1501
 \or yiwo
-\mr ʝi˥1
+\mr ʝi˥
 \mr ʁo˧2
 \ps adj
 \lc ʝi˧ʁo˧
@@ -24200,7 +24201,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
 \or Yijie Ddeema
 \bw <langue="bod"> Yid ches (?) Sgrol ma |tib{ཡིད་ཆེས(?)་སྒྲོལ་མ}
-\mr ʝi˧tɕi˧
+\mr ʝi˧tɕi˧1
 \mr ɖɯ˩mɑ#˥
 \ps n
 \lc ʝi˧tɕi˧ɖɯ˩mɑ˩
@@ -24219,7 +24220,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
 \bw <langue="bod"> Yid ches (?) Lha mo |tib{ཡིད་ཆེས(?) ་ལྷ་མོ}
-\mr ʝi˧tɕi˧
+\mr ʝi˧tɕi˧1
 \mr ɬɑ˧mv̩˥$
 \ps n
 \sd <langue="fra"> nom propre
@@ -26496,7 +26497,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sf <nb="2011"> 737
 \or gemi
 \mr kɤ˩
-\mr -mi˩˧
+\mr -mi˩
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -27606,9 +27607,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps n
 \cf ʝi˩næ˩-se˧
 \lc kʰu˧mi˩
-\nt <dom="phono" langue="fra"> La syllabe /kʰu/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
-\nt <dom="phono" langue="eng"> The syllable /kʰu/ does not exist in words of the Na stock, only in the pronunciation of Mandarin words.
-\nt <dom="phono" langue="cmn"> /kʰu/音节不存在于摩梭话中，只存在于普通话借词的发音中。
+\nt <dom="phono" langue="fra"> La syllabe /|fv{kʰu}/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
+\nt <dom="phono" langue="eng"> The syllable /|fv{kʰu}/ does not exist in words of the Na stock, only in the pronunciation of Mandarin words.
+\nt <dom="phono" langue="cmn"> /|fv{kʰu}/音节不存在于摩梭话中，只存在于普通话借词的发音中。
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#
@@ -31526,7 +31527,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ɬi˥næ˧)
-\nt <dom="sem" langue="fra"> le /ɬi/ est celui de “mois", “lune"
+\nt <dom="ety" langue="fra"> La syllabe /|fv{ɬi}/ est clairement le morphème `lune' (non attesté sous forme monosyllabique dans l'état actuel de la langue).
+\nt <dom="ety" langue="eng"> The first syllable, /|fv{ɬi}/, is clearly the morpheme for `moon' (not attested in monosyllabic form in the present state of the language).
+\nt <dom="ety" langue="cmn"> 第一个音节，/|fv{ɬi}/，显然是`月亮'这个语素。
 \ton L#
 \so F4
 \pdv ɬi˧
@@ -31545,7 +31548,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe to have painful menses
 \xn 来了月经，疼
 \xf avoir des menstrues douloureuses
-\dt 24/Apr/2017
 
 \lx ɬi˧ŋv̩˥
 \or lhinguAM
@@ -32430,7 +32432,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \comp <langue="pmi"> lõ55bɯ22tɕʰi22 / lõ55bo55tɕhi53
-\nt <dom="ety" langue="fra"> La forme est proche de celle attestée en pumi. Un changement de *tɕʰi à ʈʂʰɯ a pu se produire postérieurement à l'emprunt.
+\nt <dom="ety" langue="fra"> La forme est proche de celle attestée en pumi. Un changement de */|fv{tɕʰi}/ à /|fv{ʈʂʰɯ}/ a pu se produire postérieurement à l'emprunt, comme cela s'est produit pour le nom propre `Daeshi'.
+\nt <dom="ety" langue="eng"> The form is close to that attested in Pumi. A change from */|fv{tɕʰi}/ to /|fv{ʈʂʰɯ}/ may have occurred after the word was borrowed, as happened with the proper name `Daeshi'.
+\nt <dom="ety" langue="cmn"> 这种发音与普米语中的发音很接近。很可能在该词被借用之后发生了从*/|fv{tɕʰi}/到/|fv{ʈʂʰɯ}/的变化，就像专名‘Daeshi’的情况一样。
 \ton L#-
 \so F4
 \va <speaker="F5"> lo˧bv̩˩ʈʂʰv̩˩
@@ -32714,8 +32718,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> society
 \nt <type="hist" dom="morpho" print="n" langue="fra"> Première impression en 2006: “longueur: sans doute simplement le fait d'une frontière". En fait, l'analyse du mot amène à reconnaître quatre morphèmes: /lo˧ i˧ hĩ˧ hĩ˧/. lo˧i˧: travailler (composé de 'travail'+'faire'); hĩ˧: sert à former une relative, “qui travaille"; hĩ˧ “homme". Confirmé auprès de F5: une syllabe distincte hĩ˧ ne lui paraît pas adéquate, mais en revanche l'allongement avec début de nasalisation est indispensable, ce qui témoigne du /hĩ˧/ coalescent.
 \nt <dom="phono" langue="fra"> Phonétiquement proche de [|fv{lo˧ʝiː˧hĩ˧}] ou [|fv{lo˧ʝiĩ˧hĩ˧}], le relatif /|fv{-hĩ˥}/ étant coalescent. La même observation vaut pour les autres noms d'agents comportant cette séquence, /|fv{-hĩ˥}/+/|fv{hĩ#˥}/.
-\nt <dom="phono" langue="eng"> Phonetically close to [|fv{lo˧ʝiː˧hĩ˧}] or [|fv{lo˧ʝiĩ˧hĩ˧}], the relativizer /|fv{-hĩ˥}/ being coalescent. The same applies to other agent names built using this /|fv{-hĩ˥}/+/|fv{hĩ#˥}/ sequence.
-\nt <dom="phono" langue="cmn"> 实际发音接近 [|fv{lo˧ʝiː˧hĩ˧}]或[|fv{lo˧ʝiĩ˧}]，因为关系词/|fv{-hĩ˥}/明显弱化。同样的情况也出现于包括此语素（/|fv{-hĩ˥}/+//|fv{hĩ#˥}/）的其它短语。
+\nt <dom="phono" langue="eng"> Phonetically close to [|fv{lo˧ʝiː˧hĩ˧}] or [|fv{lo˧ʝiĩ˧hĩ˧}], the relativizer /|fv{-hĩ˥}/ being coalescent. The same applies to other agent names built using this /|fv{-hĩ˥}/+/|fv{hĩ#˥}/ sequence.
+\nt <dom="phono" langue="cmn"> 实际发音接近 [|fv{lo˧ʝiː˧hĩ˧}]或[|fv{lo˧ʝiĩ˧}]，因为关系词/|fv{-hĩ˥}/明显弱化。同样的情况也出现于包括此语素（/|fv{-hĩ˥}/+//|fv{hĩ#˥}/）的其它短语。
 \nt <type="hist" print="n" langue="fra" dom="ton"> Tons vérifiés. Avais noté ˧ ˧ ˧ ˥ au début (2006), du fait du renforcement de la dernière syllabe.
 \ton #H
 \lc lo˧ʝi˧hĩ˧hĩ˧
@@ -33665,7 +33669,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf lv̩˧mi˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="sem" langue="fra"> (n'est pas /ɭɯ/ ‘céréale')
+\nt <type="hist" langue="fra" print="n"> Vérifié: cette syllabe n'est pas homophone de /|fv{ɭɯ}/ ‘céréale'.
 \ton M
 \lc lv̩˧
 \so F4
@@ -33679,7 +33683,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe Porcelain plate. Literally ‘stone plate': the Na, being accustomed to wooden plates, first gave the noun ‘stone plate' to clear-coloured porcelain dishes.
 \xn 瓷盘子。直译：‘石盘’。摩梭人传统用木头盘子，将瓷盘子称作‘石头盘子’。
 \xf Assiette en faïence. Littéralement ‘assiette de pierre': les Na, accoutumés aux assiettes en bois, avaient d'abord donné à la vaisselle de couleur claire le nom d'assiettes de pierre.
-\dt 02/May/2017
 
 \lx lv̩˧˥
 \sf <nb="B"> 1829
@@ -35721,8 +35724,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 讨饭的（人），乞丐
 \xf mendier (littéralement: ‘(personne) qui demande à manger')
 \xc <langue="fra" dom="synt"> Cette expression n'est pas |fv{hɑ˧ mi˥ hĩ˩} ‘personne qui demande à manger', mais |fv{hɑ˧ mi˥-hĩ˩}: ‘(personne) qui demande à manger'. Au plan phonétique, le morphème |fv{-hĩ˩} est fortement réduit, notamment en ce qui concerne sa consonne initiale, tandis que le nom, |fv{hĩ}, possède une fricative initiale claire et distincte.
-\xc <langue="cmn" dom="synt"> 不是|fv{hɑ˧ mi˥ hĩ˩}‘要饭的人’，而是|fv{hɑ˧ mi˥-hĩ˩}‘要饭的（人）’。从语音上看，语素 |fv{-hĩ˩}的发音大大减弱，尤其是其辅音，而名词|fv{hĩ}则有一个清晰明确的擦音声母。
-\xc <langue="eng" dom="synt"> This phrase is not |fv{hɑ˧ mi˥ hĩ˩} ‘person who asks for food', but |fv{hɑ˧ mi˥-hĩ˩}: ‘(person) who asks for food'. Phonetically, the morpheme |fv{-hĩ˩} is greatly reduced, particularly with regard to its initial consonant, whereas the noun, |fv{hĩ}, has a clear and distinct initial fricative.
+\xc <langue="cmn" dom="synt"> 不是|fv{hɑ˧ mi˥ hĩ˩}‘要饭的人’，而是|fv{hɑ˧ mi˥-hĩ˩}‘要饭的（人）’。从语音上看，语素 |fv{-hĩ˩}的发音大大减弱，尤其是其辅音，而名词|fv{hĩ}则有一个清晰明确的擦音声母。
+\xc <langue="eng" dom="synt"> This phrase is not |fv{hɑ˧ mi˥ hĩ˩} ‘person who asks for food', but |fv{hɑ˧ mi˥-hĩ˩}: ‘(person) who asks for food'. Phonetically, the morpheme |fv{-hĩ˩} is greatly reduced, particularly with regard to its initial consonant, whereas the noun, |fv{hĩ}, has a clear and distinct initial fricative.
 \xv hɑ˧ | ɖɯ˧-mi˧~mi˥-ɻ̩˩
 \xe to beg a little, to ask around for some food
 \xn 讨点饭
@@ -36456,7 +36459,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xf person 〜 |fg{rel}: personne âgée
 \xc <langue="fra" dom="synt"> La construction adjectivale |fv{hĩ˧ mo˥-hĩ˩} et la forme lexicalisée |fv{hĩ˧mo˥} existent toutes deux.
 \xc <langue="eng" dom="synt"> There exist two constructions: adjectival |fv{hĩ˧ mo˥-hĩ˩} and lexicalized |fv{hĩ˧mo˥}.
-\xc <langue="cmn" dom="synt"> 存在有两种结构：名词＋形容词＋关系从句|fv{hĩ˧ mo˥-hĩ˩}‘老的人’和词汇话名词|fv{hĩ˧mo˥}‘老人’。
+\xc <langue="cmn" dom="synt"> 存在有两种结构：名词＋形容词＋关系从句|fv{hĩ˧ mo˥-hĩ˩}‘老的人’和词汇话名词|fv{hĩ˧mo˥}‘老人’。
 \xc <type="hist" print="n" langue="fra"> En 2006, avais noté: /hĩ˧ mu˥ i˧ hĩ˩/, pensé que c'était vérifié. Noté /hĩ˧mu˥hĩ˩hĩ˩/ pour F5 et /hĩ˧mu˥hĩ˩/ pour M18. Corrigé en 2007 en /hĩ˧ mo˥-hĩ˩/.
 \xv hĩ˧ mo˥, | õ˧-di˧ fv̩˥! | ʐwæ˧ mo˥, | to˩ do˩ ɖwæ˥!
 \xe Old folk like their own place (=their own home); old horses are afraid to climb slopes! (Proverb.)
@@ -40178,8 +40181,8 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 你有姐妹吗？
 \xf Tu as des sœurs?
 \xc <langue="fra" dom="synt"> Il n'est pas possible d'ajouter à cette expression /|fv{ʝi}/+/|fv{-hĩ˧}/, à la différence de la question «Tu as des frères?».
-\xc <langue="eng" dom="synt"> It is not possible to add /|fv{ʝi}/+/|fv{-hĩ˧}/ to this expression , unlike in the question “Do you have any brothers?”
-\xc <langue="cmn" dom="synt"> 与“你有兄弟吗？”那个问题不同，此问题里不能加上/|fv{ʝi}/+/|fv{-hĩ˧}/。
+\xc <langue="eng" dom="synt"> It is not possible to add /|fv{ʝi}/+/|fv{-hĩ˧}/ to this expression , unlike in the question “Do you have any brothers?”
+\xc <langue="cmn" dom="synt"> 与“你有兄弟吗？”那个问题不同，此问题里不能加上/|fv{ʝi}/+/|fv{-hĩ˧}/。
 
 \lx ɲi˧nɑ˩
 \sf <nb="B"> 2051
@@ -43375,7 +43378,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xc <langue="fra" type="hist" print="n"> avais d'abord pensé que cela signifiait “son propre nom, sa propre terre"; en fait, cela provient du disyllabe |fv{/mv̩˧di˧˥/} ‘terres'.
 \xc <langue="fra" dom="sem"> Cette expression s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “les terres d'autrui, les terres étrangères".
 \xc <langue="eng" dom="sem"> This phrase contrasts with |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “other people's lands / foreign lands".
-\xc <langue="cmn" dom="sem"> 这个短语与|fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}“别人的土地/外地”形成对比。
+\xc <langue="cmn" dom="sem"> 这个短语与|fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}“别人的土地/外地”形成对比。
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
 \xe “East or west, home is the best.” No matter how beautiful other people's places are, they can never be equal to one's own homeland!
 \xn “金窝银窝，不如自家的狗窝。”其他人的地方怎么好，也比不过自己的地方！
@@ -57506,7 +57509,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra" dom="ton"> En 2006, avais noté /sɯ˧nɑ˩/. Corrigé en sɯ˧nɑ˥ en 2007.
-\nt <dom="sem" langue="fra"> Remarque de Nicolas Tournadre (2007): naks signifie "forêt" en tibétain, et ɕi signifie "bois" dans d'autres langues de la région.
+\nt <dom="ety" langue="fra"> Observation de Nicolas Tournadre (communication personnelle, 2007): |tib{nags ནགས་} signifie "forêt" en tibétain, et |fv{ɕi} signifie "bois" dans d'autres langues de la région.
+\nt <dom="ety" langue="eng"> Observation by Nicolas Tournadre (personal communication, 2007): |tib{nags ནགས་} means ‘forest’ in Tibetan, and |fv{ɕi} means ‘wood’ in other languages of the region.
+\nt <dom="ety" langue="cmn"> Nicolas Tournadre（个人通信，2007 年）指出：藏语|tib{nags ནགས་}意为‘森林’，而|fv{ɕi}在该地区其他语言中意为‘木’。
 \ton H#
 \lc si˧nɑ˥
 \so F4
@@ -76859,7 +76864,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc ʐæ˩ʂæ˥
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <dom="sem" langue="fra"> sans doute formé de /ʂæ/ ‘long' et /ʐɤ/ ‘chemin'; cf dialecte de Wujiao
+\nt <dom="ety" langue="fra"> Le mot est sans doute formé de /|fv{ʂæ}/ ‘long' et /|fv{ʐɤ}/ ‘chemin'. Le dialecte de Wujiao offre une perspective intéressante sur ce point.
+\nt <dom="ety" langue="eng"> The word is probably made up of /|fv{ʂæ}/ ‘long’ and /|fv{ʐɤ}/ ‘path’. The Wujiao dialect arguably offers evidence that is relevant to this point.
+\nt <dom="ety" langue="cmn"> 该词可能由/|fv{ʂæ}/‘长’和/|fv{ʐɤ}/‘路’组成。屋脚方言提供了与此说法相关的证据。
 \ton LM
 \so F4
 \de Far, distant.
@@ -82337,9 +82344,9 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps suff
 \ton ?
 \lc --
+\cf -kwɤ˧tɕɯ˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> comme dans: kwɤ.tɕɯ.lɑ
 \so F4
 \de Grammaticalized form of the verb |fv{/tɕɯ˥/} ‘to put, to place'; expresses that the action is over and done with: that its goal has been reached, and one now moves on to something different; in the same way as, after an object has been put in the right place, one may turn one's attention to other objects.
 \ge aspectual_morpheme
