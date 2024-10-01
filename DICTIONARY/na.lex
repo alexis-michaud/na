@@ -55196,7 +55196,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \nt <type="hist" print="n" langue="fra"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
 \ton L#
 \lc ɻ̩̃˧ʈʂæ˩
-\cf ʈʂæ˧˥
+\cf ʈʂæ˧˥3
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖʐæ˩˥
@@ -55207,7 +55207,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 关节
 \df Articulations (de la jambe: la cheville, le genou…; du bras: le poignet, le coude…).
 \gf articulations
-\dt 02/Oct/2015
 
 \lx ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩
 \bw <langue="bod"> Rin chen Sgrol ma |tib{རིན་ཆེན་སྒྲོལ་མ}
