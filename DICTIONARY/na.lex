@@ -1748,7 +1748,6 @@
 \lx bæ˧
 \sf <nb="B"> 1068
 \sf <nb="2011"> 1504
-\hm
 \or bbae
 \ps adj
 \sd <langue="fra"> adjectif
@@ -1756,6 +1755,8 @@
 \comp <langue="pmi" print="n"> bæ51
 \ton M
 \lc bæ˧
+\sy zo˧bæ˩
+\sy mv̩˩-bæ˧mi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -1777,7 +1778,6 @@
 \xe You have had a hard time! (Consolation to someone.)
 \xn 你这傻劲，你辛苦了！
 \xf Eh bien, tu as eu bien du malheur!
-\dt 25/Aug/2015
 
 \lx bæ˧˥
 \sf <nb="B"> 1439
@@ -6417,9 +6417,9 @@
 \xn 我不会害怕他！
 \xf Il ne me fait pas peur!
 \xv njɤ˧ | ʈʂʰɯ˧-v̩˧ do˧˥, | ʁo˧ɕi˧˥ | ʐwæ˩˥!
-\xe When I see him, I have a feeling of reverence! (Typically: seeing someone in the family who has authority, such as one's uncle.)
+\xe When I see him, I have a feeling of reverence! (Typically: seeing someone in the family who has authority, such as one's mother's brother.)
 \xn 我一看见他，有敬畏之感！
-\xf Quand je le vois, il m'inspire respect et révérence! (Un exemple typique: sentiment qu'inspire l'oncle, personne d'autorité.)
+\xf Quand je le vois, il m'inspire respect et révérence! (Un exemple typique: sentiment qu'inspire le frère de la mère, personne d'autorité.)
 
 \lx ɕi˩α
 \hm 1
@@ -9182,13 +9182,13 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \df Sorcier.
 \gf sorcier
 \xv ə˧pʰv̩˧-ɖʐæ˩bɻ̩˩
-\xe ‘Grandfather sorcerer': a respectful term of address for a sorcerer who is advanced in years or considered to have great powers
-\xn ‘法师爷爷’：对年龄高（或被认为本事很大）的法师的尊重称呼
-\xf ‘Grand-père sorcier': terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables
+\xe A respectful term of address for a sorcerer who is advanced in years or considered to have great powers (using the kinship term for the mother's mother's brothers).
+\xn 对年龄高（或被认为本事很大）的法师的尊重称呼，用对母亲的母亲的兄弟的称呼。
+\xf Terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables. (L'expression recourt au terme de parenté qui désigne un frère de la mère de la mère.)
 \xv ə˧v̩˧-ɖʐæ˥bv̩˩
-\xe ‘Uncle sorcerer': a respectful term of address for a sorcerer
-\xn ‘法师舅舅’：对法师的尊重称呼
-\xf ‘Oncle sorcier': terme d'adresse respectueux pour un sorcier
+\xe A respectful term of address for a sorcerer (using the kinship term for the mother's brothers).
+\xn 对法师的尊重称呼，用对母亲的兄弟的称呼。
+\xf Terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables. (L'expression recourt au terme de parenté qui désigne un frère de la mère.)
 
 \lx ɖʐæ˧qʰæ˥$
 \sf <nb="B"> 59
@@ -14346,25 +14346,54 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \nt <type="hist" print="n" langue="fra"> (confirmé par F4 en mai 2008, à nouveau en 2009; sens vérifié en 2012; avais auparavant pensé qu'il s'agissait du frère cadet de la mère)
 \ton H$
 \lc ə˧bo˥
+\cf ə˧bo˧-ɖɯ˧˥
+\cf ə˧bo˧-tɕi˥
 \so F4
 \va <speaker="M21"> ə˧bo˧˥
 \vc <type="hist" print="n" langue="fra"> tons vérifiés
 \pdv v̩˧
-\de Paternal uncle, brother of the father. (The term refers to a member of the father's family).
-\ge paternal_uncle
+\de Father's brother. (The term refers to a member of the father's family).
+\ge father_s_brother
 \dn 父亲的兄弟
 \gn 父亲的兄弟
-\df Oncle paternel, frère du père. (Le terme renvoie à un membre de la famille du père.)
-\gf oncle_paternel
-\xv ə˧bo˧-ɖɯ˧˥
-\xe paternal uncle, father's elder brother
-\xn 伯父：父亲的哥哥
-\xf oncle paternel aîné du père
-\xv ə˧bo˧-tɕi˥
-\xe paternal uncle, father's younger brother
-\xn 叔叔：父亲的弟弟
-\xf oncle paternel cadet du père
-\xc <dom="ton"> H#
+\df Frère du père. (Le terme renvoie à un membre de la famille du père.)
+\gf frère_du_père
+
+\lx ə˧bo˧-ɖɯ˧˥
+\or abbo ddee
+\mr ə˧bo˥$
+\mr ɖɯ˩α
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton MH#
+\lc ə˧bo˧-ɖɯ˧˥
+\so F4
+\pdv v̩˧
+\de Father's elder brother. (The term refers to a member of the father's family).
+\ge paternal_uncle
+\dn 父亲的哥哥
+\gn 父亲的哥哥
+\df Frère aîné du père. (Le terme renvoie à un membre de la famille du père.)
+\gf frère_aîné_du_père
+
+\lx ə˧bo˧-tɕi˥
+\or abbo jieq
+\mr ə˧bo˥$
+\mr tɕi˩α
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton H#
+\lc ə˧bo˧tɕi˥˥
+\so F4
+\pdv v̩˧
+\de Father's younger brother. (The term refers to a member of the father's family).
+\ge father_s_younger_brother
+\dn 父亲的弟弟
+\gn 父亲的弟弟
+\df Frère cadet du père. (Le terme renvoie à un membre de la famille du père.)
+\gf frère_cadet_du_père
 
 \lx ə˧bv̩˩
 \sf <nb="B"> 2310
@@ -23187,14 +23216,14 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xv ʝi˩ bv̩˩
 \xe to have lots of pimples
 \xn 出好多痘痘
-\xf
+\xf avoir des boutons, avoir plein de boutons
 \xv ʝi˩ bv̩˩ ʝi˥ ʈv̩˩~ʈv̩˩
 \xe to have lots of pimples
 \xn （一个人）是麻子，出好多痘痘
 \xf être grêlé; avoir plein de boutons
 \xc <langue="fra" dom="sem"> On ne peut décomposer l'expression pour en séparer la première partie /|fv{†ʝi˩ bv̩˩}/, qui aurait le sens de: ‘avoir des boutons’. Elle a pourtant bon aspect au plan phonologique, comme un mot disyllabique au ton M. Mais la forme /|fv{ʝi˩ bv̩˩}/ fait aussitôt penser à tout autre chose: le nom ‘taureau', qui, appliqué à un homme, marque une critique d'un comportement brutal, aux antipodes de la prévenance appréciée dans la société na.
-\nt <type="hist" print="n" langue="fra" dom="ton"> Tons établis en 2009. Avais d'abord noté /i˩bv̩˩ i˥ tv̩˧tv̩˩/, puis /i˧ bv̩˧ i˥ tv̩˧ tv̩˧/.
-\nt <type="hist" print="n" langue="fra" dom="phono"> D'abord noté /|fv{… tv̩˧tv̩˩}/, puis songé à corriger en /|fv{ʈɻ̩˧ʈɻ̩˩}/, avant de reconnaître (en 2009) la présence d'une syllabe /|fv{ʈv̩}/ à initiale rétroflexe et à rime /|fv{v̩}/.
+\xc <type="hist" print="n" langue="fra" dom="ton"> Tons établis en 2009. Avais d'abord noté /i˩bv̩˩ i˥ tv̩˧tv̩˩/, puis /i˧ bv̩˧ i˥ tv̩˧ tv̩˧/.
+\xc <type="hist" print="n" langue="fra" dom="phono"> D'abord noté /|fv{… tv̩˧tv̩˩}/, puis songé à corriger en /|fv{ʈɻ̩˧ʈɻ̩˩}/, avant de reconnaître (en 2009) la présence d'une syllabe /|fv{ʈv̩}/ à initiale rétroflexe et à rime /|fv{v̩}/.
 \rf F4
 \rf F5
 \rf M18
@@ -37576,13 +37605,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \pdv kɤ˩α
 \de A liquid prepared from the papaya, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas).
 \ge papaya_juice
-\dn 用木瓜制成的一种汁，用法类似于醋。相当于醋木瓜
+\dn 用木瓜制成的一种汁，用法类似于醋。相当于醋木瓜。过去，永宁没有醋，醋是从内地（汉族地区）买来的。
 \gn 木瓜
 \df Un liquide préparé à base de papaye, servant d'équivalent de vinaigre. (Le vinaigre a été introduit tardivement; il était acheté en pays chinois (Han)).
 \gf jus_de_papaye
-
-\xn 用木瓜做的一种汁，过去，永宁没有醋，醋是从内地（汉族地区）买来的。
-\xf
 
 \lx mo˩kwæ˧
 \sf <nb="2011"> 3008
