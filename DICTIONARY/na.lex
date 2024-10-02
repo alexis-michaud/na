@@ -14371,7 +14371,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \pdv v̩˧
 \de Father's elder brother. (The term refers to a member of the father's family).
-\ge paternal_uncle
+\ge father_s_elder_brother
 \dn 父亲的哥哥
 \gn 父亲的哥哥
 \df Frère aîné du père. (Le terme renvoie à un membre de la famille du père.)
@@ -14556,9 +14556,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés plusieurs fois.
-\nt <dom="sem" langue="fra"> On peut également désigner le père par le terme |fv{ə˧bo˥$}, qui d'ordinaire désigne ses frères (les oncles paternels: les frères du père), ou du terme qui désigne un oncle maternel (frère de la mère): |fv{ə˧v̩˧˥}. Cette souplesse dans l'emploi des termes révèle, d'une part la place symbolique qui peut lui être reconnue parmi les hommes de sa génération au sein de la maisonnée de la mère, d'autre part le caractère labile du rôle paternel au sein de la famille.
-\nt <dom="sem" langue="eng"> The father can also be referred to as |fv{ə˧bo˥$}, which usually refers to his brothers (paternal uncles: the father's brothers), or as |fv{ə˧v̩˧˥}, the term that refers to maternal uncles (the mother's brothers). This flexibility in the use of terms reveals, on the one hand, the symbolic place that may be granted to the father among the men of his generation within the mother's household, and on the other hand, the labile nature of the father's role within the family.
-\nt <dom="sem" langue="cmn">父亲也可以称为|fv{ə˧bo˥$}，那个词一般来指他的兄弟（父系叔伯：父亲的兄弟）。也可以称为|fv{ə˧v̩˧˥}，那是母系叔伯（母亲的兄弟）。用词的灵活性一方面揭示了父亲在母亲家中同辈男子中所能得到的象征性地位，另一方面也揭示了父亲在家庭中角色的不稳定性。
+\nt <dom="sem" langue="fra"> On peut également désigner le père par le terme |fv{ə˧bo˥$}, qui d'ordinaire désigne ses frères (les frères du père), ou du terme qui désigne un frère de la mère: |fv{ə˧v̩˧˥}. Cette souplesse dans l'emploi des termes révèle, d'une part la place symbolique qui peut lui être reconnue parmi les hommes de sa génération au sein de la maisonnée de la mère, d'autre part le caractère labile du rôle paternel au sein de la famille.
+\nt <dom="sem" langue="eng"> The father can also be referred to as |fv{ə˧bo˥$}, which usually refers to his brothers (the father's brothers), or as |fv{ə˧v̩˧˥}, the term that refers to the mother's brothers. This flexibility in the use of terms reveals, on the one hand, the symbolic place that may be granted to the father among the men of his generation within the mother's household, and on the other hand, the labile nature of the father's role within the family.
+\nt <dom="sem" langue="cmn">父亲也可以称为|fv{ə˧bo˥$}，那个词一般来指他的兄弟（父亲的兄弟）。也可以称为|fv{ə˧v̩˧˥}，那是母亲的兄弟。用词的灵活性一方面揭示了父亲在母亲家中同辈男子中所能得到的象征性地位，另一方面也揭示了父亲在家庭中角色的不稳定性。
 \nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{ɑ˧dɑ˥}].
 \nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{ɑ˧dɑ˥}].
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{ɑ˧dɑ˥}]。
@@ -15430,12 +15430,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Maternal great-uncle. A brother of the grandmother, in other words an uncle of the mother and her sisters and brothers. The term is also used in an extended sense to refer respectfully to a male elder two generations above oneself.
-\ge grandmother_s_brother
-\dn 舅姥爷：姥姥的哥哥或弟弟。换言之，母亲及其兄弟姐妹的舅舅。这个词也用来泛指比自己高两辈的男性人物。
-\gn 舅姥爷
-\df Grand-oncle maternel. Il s'agit d'un frère de la grand-mère, autrement dit d'un oncle de la mère et de ses sœurs et frères. Le terme s'emploie également dans un sens étendu pour désigner de façon respectueuse un personnage masculin deux générations au-dessus de soi.
-\gf grand_oncle_maternel
+\de Brother of the mother's mother. The term is also used in an extended sense to refer respectfully to a male elder two generations above oneself.
+\ge brother_of_mother_s_mother
+\dn 母亲的母亲的兄弟。这个词也用来泛指比自己高两辈的男性人物。
+\gn 母亲的母亲的兄弟
+\df Frère de la mère de la mère. Le terme s'emploie également dans un sens étendu pour désigner de façon respectueuse un personnage masculin deux générations au-dessus de soi.
+\gf frère_de_la_mère_de_la_mère
 
 \lx ə˩qo˥
 \or egho
@@ -15467,7 +15467,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \so F4
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Great-grandmother (on the mother's side); extended meaning: great-grandmother and her brothers and sisters: third-generation elders.
+\de Great-grandmother (on the mother's side); extended meaning: great-grandmother and her siblings (brothers and sisters): third-generation elders.
 \ge great_grandmother/3rd_generation_elders
 \dn 祖母。泛指：祖母与其兄弟姐妹
 \gn 祖母
@@ -15748,7 +15748,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra" dom="phono"> Homophonie avec “oncle" vérifiée.
+\nt <type="hist" print="n" langue="fra" dom="phono"> Homophonie avec “frère de la mère" vérifiée.
 \ton MH#
 \lc ə˧v̩˧˥
 \so F4
@@ -15773,9 +15773,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 
 \lx ə˧v̩˧˥
 \sf <nb="B"> 295
-\sf <nb="B"> (idem
-\sf <nb="B"> ancien
-\sf <nb="B"> 326)
+\sf <nb="B"> ancien 326
 \sf <nb="2011"> 372
 \hm 2
 \or avu
@@ -15784,57 +15782,93 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="eng"> society
 \ton MH#
 \lc ə˧v̩˧˥
+\cf ə˧v̩˧-ɖɯ˧˥
+\cf ə˧v̩˧-tɕi˥
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\de Maternal uncle (mother's brother: same term for older brother and younger brother).
-\ge maternal_uncle
-\dn 舅舅、舅父 (比母亲大或比母亲小不区分)
-\gn 舅舅/舅父
-\df Oncle maternel (frère de la mère: aîné ou cadet). Le terme s'emploie désormais aussi pour le mari d'une sœur de la mère.
-\gf oncle_maternel
-\xv ə˧v̩˧-ɖɯ˧˥
-\xe mother's elder brother; also used for the husband of one of the mother's elder sisters
-\xn 母亲的哥哥：比母亲大的舅舅。现在，这个词也用于母亲姐姐的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
-\xf oncle, aîné de la mère; également employé pour le mari d'une sœur aînée de la mère
-\xv ə˧v̩˧-tɕi˥
-\xe mother's younger brother; also used for the husband of one of the mother's younger sisters
-\xn 母亲的弟弟：比母亲小的舅舅。现在，这个词也用于母亲妹妹的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
-\xf oncle, cadet de la mère; également employé pour le mari d'une sœur cadette de la mère
+\de Mother's brother (same term for older brother and younger brother). The term is now extended to the husbands of one's mother's sisters.
+\ge mother_s_brother
+\dn 母亲的兄弟（弟弟或哥哥）。 (比母亲大或比母亲小不区分：“舅舅”、“舅父”)
+\gn 母亲的兄弟
+\df Frère de la mère (aîné ou cadet). Le terme s'emploie désormais aussi pour le mari d'une sœur de la mère.
+\gf frère_de_la_mère
 \xv mv̩˧ʁo˥ | tʰi˧-dze˩, | kɤ˩-nɑ˧mi˧ ɖɯ˧˥! | di˧qo˧ ʈʂʰɯ˧-dʑo˩, | ə˧v̩˧ ɖɯ˧˥!
-\xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
-\xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
+\xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
+\xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
+\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
 \xc PROVERBE
 \xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe, dans aucune des versions qui en ont été enregistrées.
 \xc <type="hist" print="n" langue="eng"> The reference speaker is not familiar with this proverb (in any of the versions that have been recorded).
 \xc <type="hist" print="n" langue="cmn"> 标准发音人不熟悉这句谚语。
 \rf M18
 \xv mv̩˧ʁo˥ dze˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
-\xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
-\xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
+\xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
+\xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
+\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩-hĩ˩˥ | -dʑo˧, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
-\xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
-\xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
+\xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
+\xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
+\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧-dʑo˧, | ə˧v̩˧˥!
-\xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
-\xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
+\xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
+\xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
+\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩-hĩ˩-dʑo˥, | ɖɯ˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧! | mv̩˧di˧-qo˥ | ɖɯ˩-hĩ˩-dʑo˥, | ə˧v̩˧˥!
-\xe “As the Eagle is greatest of all that fly in the sky, so the Uncle is greatest of all that walk the earth.”
-\xn “天上飞的，是老鹰最大。天下走的，是舅舅最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, l'oncle est le plus grand.”
+\xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
+\xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
+\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
 \xc PROVERBE
 \rf M18
+
+\lx ə˧v̩˧-ɖɯ˧˥
+\mr ə˧v̩˧˥
+\mr ɖɯ˩α
+\or avu ddee
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton MH#
+\lc ə˧v̩˧ɖɯ˧˥
+\cf ə˧v̩˧-tɕi˥
+\so F4
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\pdv v̩˧
+\de Mother's elder brother. Also used for the husband of one of the mother's elder sisters.
+\ge mother_s_elder_brother
+\dn 母亲的哥哥（比母亲大的“舅舅”）。现在，这个词也用于母亲姐姐的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
+\gn 母亲的哥哥
+\df Frère aîné de la mère. Également employé pour le mari d'une sœur aînée de la mère.
+\gf frère_aîné_de_la_mère
+
+\lx ə˧v̩˧-tɕi˥
+\mr ə˧v̩˧˥
+\mr tɕi˩α
+\or avu jieq
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton H#
+\lc ə˧v̩˧tɕi˥
+\cf ə˧v̩˧-ɖɯ˧˥
+\so F4
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\pdv v̩˧
+\de Mother's younger brother. Also used for the husband of one of the mother's younger sisters.
+\ge mother_s_younger_brother
+\dn 母亲的弟弟（比母亲小的“舅舅”）。现在，这个词也用于母亲妹妹的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
+\gn 母亲的弟弟
+\df Frère cadet de la mère. Également employé pour le mari d'une sœur cadette de la mère.
+\gf frère_cadet_de_la_mère
 
 \lx ə˧v̩˧-ze˥v̩˩
 \sf <nb="B"> 339a
@@ -15847,13 +15881,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton #H-
 \lc ə˧v̩˧ze˥v̩˩
 \so F4
-\de Uncle and nephew.
-\ge uncle_and_nephew
-\dn 叔叔侄子
-\gn 叔叔侄子
-\df Oncle et neveu.
-\gf oncle_et_neveu
-\dt 24/Apr/2017
+\de Mother's brother(s) and sisters' son(s).
+\ge mother_s_brother_and_sister_s_son
+\dn 母亲的兄弟与姐妹的儿子（“叔叔侄子”）
+\gn 母亲的兄弟与姐妹的儿子
+\df Frère(s) de la mère et fils d'une sœur.
+\gf frères_de_la_mère_et_fils_d_une_sœur
 
 \lx ə˧ze˧
 \sf <nb="B"> 971b
@@ -43416,9 +43449,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xc <dom="ton" langue="eng"> This phrase has three tonal variants. The speaker expresses a preference for the first of the three tonal patterns: H#.
 \xc <dom="ton" langue="cmn"> 该短语有三种声调变体。标准发音人偏爱第一种调：H#。
 \xv õ˧-ə˧v̩˥ ≈ õ˧-ə˥v̩˩
-\xe one's own maternal uncle
-\xn 自家舅舅（母亲的兄弟）
-\xf son propre oncle
+\xe one's own “maternal uncle” (mother's brother)
+\xn 自家母亲的兄弟（“舅舅”）
+\xf son propre `oncle maternel' (frère de la mère)
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有两种声调变体。
@@ -43823,9 +43856,9 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \df Pièce d'argent de l'époque impériale.
 \gf pièce_d_argent
 \xv ə˧mi˧! | pæ˧kʰwɤ˧ so˧-ɭɯ˥ ki˩-mæ˩!
-\xe Wow! [(S)he] is giving you three silver coins!! (According to the main consultant's memories, this is the type of comment that uncles and aunts would make when a child who turned 13 received significant amounts of money on the occasion of their coming of age. The equivalent today would be about half a month's salary. To give only one coin would not be right, because gifts have to come in pairs. To give two coins is fully sufficient: a beautiful gift. To give three coins is an impressive gift, beyond expectations.)
+\xe Wow! [(S)he] is giving you three silver coins!! (According to the main consultant's memories, this is the type of comment that a child's mother's sisters and brothers would make when a child who turned 13 received significant amounts of money on the occasion of their coming of age. The equivalent today would be about half a month's salary. To give only one coin would not be right, because gifts have to come in pairs. To give two coins is fully sufficient: a beautiful gift. To give three coins is an impressive gift, beyond expectations.)
 \xn 哇！（他）给三块银币！（在一个孩子成年时，亲戚会给银币。给一块，不合适，因为礼物不能只给一个，要给两个。给两块银币，是合适的，也是够的。给三块银币，超出期望，是大礼物了。按现在的标准/说法，三个银币等于半个月的工资左右。）
-\xf Waouuu! [Il/elle] te donne trois pièces d'argent! (D'après le souvenir qu'en a la consultante principale, c'est le type de commentaire que faisaient autrefois les tantes ou oncles d'un enfant à qui on offrait une forte somme d'argent à l'occasion de son passage à l'âge adulte, à treize ans. Cela correspondrait aujourd'hui à la moitié d'un mois de salaire. Donner une seule pièce, c'est symboliquement inapproprié: on offre par paires. Donner deux pièces, c'est un beau cadeau, approprié et suffisant. Donner trois pièces, c'est un cadeau considérable, qui dépasse les attentes.)
+\xf Waouuu! [Il/elle] te donne trois pièces d'argent! (D'après le souvenir qu'en a la consultante principale, c'est le type de commentaire que faisaient autrefois les sœurs et frères de la mère d'un enfant à qui on offrait une forte somme d'argent à l'occasion de son passage à l'âge adulte, à treize ans révolus. Cela correspondrait aujourd'hui à la moitié d'un mois de salaire. Donner une seule pièce, c'est symboliquement inapproprié: on offre par paires. Donner deux pièces, c'est un beau cadeau, approprié et suffisant. Donner trois pièces, c'est un cadeau considérable, qui dépasse les attentes.)
 \xv pæ˧kʰwɤ˧ ɖɯ˧-ɭɯ˥# ; pæ˧kʰwɤ˧ ɲi˧-ɭɯ˥# ; pæ˧kʰwɤ˧ so˧-ɭɯ˥#
 \xe one silver coin, two silver coins, three silver coins
 \xn 一块银币，两块银币，三块银币
@@ -43837,7 +43870,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe a bag of silver coins (to be interred in a secret place)
 \xn 一包银币（埋在地里，为了藏）
 \xf un sac de pièces d'argent, destiné à être caché/enterré
-\dt 09/Sep/2015
 
 \lx pæ˧li˩
 \sf <nb="2011"> 3119
@@ -54576,7 +54608,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> Avant 2009: noté /ʁwɤ˧kʶv̩˧/.
-\nt <type="hist" print="n" langue="fra"> Dans /ʁwɤ˧qʰv̩˧/, la première syllabe paraît, lors de la réécoute (janvier 2008), être /ʁwæ˧ kʶv̩˧/. L'hypothèse est formulée d'une formation par contraction de ʁwɤ + æ “falaise?" + kʶv. En réalité, il s'agit d'un phénomène de modification vocalique au fil de la lexicalisation, qui évoque celui qui marque la voyelle neutre de `grand-oncle' devant une syllabe à rime /v̩/.
+\nt <type="hist" print="n" langue="fra"> Dans /ʁwɤ˧qʰv̩˧/, la première syllabe paraît, lors de la réécoute (janvier 2008), être /ʁwæ˧ kʶv̩˧/. L'hypothèse est formulée d'une formation par contraction de ʁwɤ + æ “falaise?" + kʶv. En réalité, il s'agit d'un phénomène de modification vocalique au fil de la lexicalisation, qui évoque celui qui marque la voyelle neutre de `frère de la mère de la mère' devant une syllabe à rime /v̩/.
 \nt <dom="phono" langue="fra"> La réalisation phonétique de la première syllabe est proche de [|fv{ʶwæ}].
 \nt <dom="phono" langue="eng"> The phonetic realization of the first syllable is close to [|fv{ʶwæ}].
 \nt <dom="phono" langue="cmn"> 第一个音节的实际发音接近[|fv{ʶwæ}]。
@@ -63688,13 +63720,12 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \lc tɕo˩mv̩˥
 \so F4
 \pdv v̩˧
-\de Wife of maternal uncle. The word consists of a Chinese borrowing, |fn{舅} ‘maternal uncle', to which is added the Na word for ‘woman'.
-\ge wife_of_maternal_uncle
+\de Wife of mother's brother. The word consists of a Chinese borrowing, |fn{舅} ‘maternal uncle', to which is added the Na word for ‘woman'.
+\ge wife_of_mother_s_brother
 \dn 舅妈（舅：汉语借词，妈：摩梭话“女人”）
 \gn 舅妈
-\df Femme de l'oncle maternel; constitué d'un emprunt chinois, |fn{舅} ‘oncle maternel', et d'un mot na: ‘femme'.
-\gf femme_de_l_oncle_maternel
-\dt 08/Oct/2015
+\df Épouse d'un frère de la mère. Constitué d'un emprunt chinois, |fn{舅} ‘oncle maternel', et d'un mot na: ‘femme, personne de sexe féminin'.
+\gf femme_d_un_frere_de_la_mère
 
 \lx tɕʰɤ˧ɲi˧-ne˧-ʝi˥
 \sf <nb="B"> 889
@@ -67519,7 +67550,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gf |fg{clf}.générations
 \xv ŋwɤ˧ ʈʂʰæ˩
 \xe Five generations. This figure represents a symbolic threshold in the definition of the family. It is rare for five generations to be actually present under the same roof. Rather than five generations in the literal sense, the expression can be understood as referring to the five ages of life: children (under 13), teenagers / young adults (who do not yet have children), parents / middle-aged people, grandparents / elderly people, and finally very old people, who are old enough to be great-grandparents. But the expression can also refer to five generations (in the literal sense) who, although they do not live side by side under the same roof, are part of the same universe of reference, which the collective memory extends beyond the three (or four) living generations. The fourth and fifth generations, while no longer physically present, are still very much present in the words of the elders who knew them. So there is no paradox, in terms of family oral tradition, in defining a household as comprising five generations.
-\xn 五代人。这个数字是一个象征性门槛。五代同堂的情况并不多见：这一说法可以理解为指人生的五个年龄段，即儿童（13岁以下）、少年/青年（尚未生育）、母亲们与舅舅们（中年人）、母亲们的母亲与舅舅（老年人），最后是年龄足以成为曾祖母的高龄老人。不过，这个说法也可以指字面意义上的五代人：虽然他们并不生活在同一屋檐下，但却是同一参照系的一部分，集体记忆超越了在世的三代人（或四代人）延长到第五代。第四代和第五代虽然已不在人世，但在了解他们的长辈口中，他们仍然是存在的。因此，从家庭口述传统的角度来看，将一个家庭定义为由五代人组成并不存在悖论。
+\xn 五代人。这个数字是一个象征性门槛。五代同堂的情况并不多见：这一说法可以理解为指人生的五个年龄段，即儿童（13岁以下）、少年/青年（尚未生育）、母亲们与跟她们年龄相近的兄弟（中年人）、母亲们的母亲们与其兄弟（老年人），最后是高龄老人。不过，这个说法也可以指字面意义上的五代人：虽然他们并不生活在同一屋檐下，但却是同一参照系的一部分，集体记忆超越了在世的三代人（或四代人）延长到第五代。第四代和第五代虽然已不在人世，但在了解他们的长辈口中，他们仍然是存在的。因此，从家庭口述传统的角度来看，将一个家庭定义为由五代人组成并不存在悖论。
 \xf Cinq générations. Ce chiffre constitue un seuil symbolique dans la définition de la famille. Il est rare que cinq générations soient présentes sous le même toit. Plutôt que cinq générations au sens propre, l'expression peut être comprise comme faisant référence aux cinq âges de la vie: enfants (de moins de 13 ans), adolescents/jeunes adultes (qui n'ont pas encore d'enfants), parents / personnes d'âge mûr, grands-parents / personnes âgées, et enfin personnes très âgées, qui ont l'âge d'être arrière-grands-parents. Mais l'expression peut également désigner cinq générations (au sens littéral), qui, à défaut de se côtoyer sous un même toit, font partie d'un même univers de référence, que la mémoire collective élargit au-delà des trois (ou quatre) générations vivantes: les quatrième et cinquième générations, si elles ne sont plus là physiquement, sont bien présentes dans les propos des aînés qui les ont connues. Il n'y a donc pas de paradoxe, en termes de tradition orale familiale, à définir une maisonnée comme comprenant cinq générations.
 \xv tsʰe˩ɲi˩ ʈʂʰæ˩˥
 \xe Twelve generations. This figure constitutes a second symbolic threshold in the definition of the family. The five-generation threshold corresponds to the span of oral family tradition: the people you know personally and those they knew personally. Between five and twelve generations lies the symbolic space of kinship relationships which, while distant, are still considered significant: a relative at the level of five to twelve generations is recognized as a family member of the second circle, as it were. The family feeling dies out after (at most) twelve generations. Knowing that you are theoretically related to someone at a distance of three centuries is not a strong enough basis for a feeling of closeness.
@@ -71865,11 +71896,11 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xn 她是做姐姐的！ / 他是做哥哥的！（强调该人的社会角色）
 \xf C'est elle la grande sœur! / C'est lui le grand frère! (Commentaire qui rappelle le statut familial de la personne concernée.)
 \xv ʈʂʰɯ˧ | gi˧zɯ˧-go˩mi˩ ʈʂɤ˩-ɲi˩!
-\xe They are brothers and sisters!
+\xe They are brothers and sisters! / They are siblings!
 \xn 他们是（兄）弟（姐）妹！
 \xf Ils sont frère et sœur!
 \xv ʈʂʰɯ˧ | æ˧mv̩˧-go˧mi˥ | ʈʂɤ˧-tso˧ mɤ˧-ɲi˥! | mɤ˧-ʈʂɤ˧!
-\xe They can't be considered as brothers and sisters! / They are not actually brothers and sisters!
+\xe They can't be considered as brothers and sisters! / They are not actually siblings!
 \xn 他们不算是兄弟姐妹！
 \xf Ils ne sont pas frères et sœurs! / Ils n'ont pas cette relation-là!
 
