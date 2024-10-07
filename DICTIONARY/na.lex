@@ -38552,13 +38552,13 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ton L
 \so F4
 \pdv v̩˧
-\de Brothers (term used by sisters).
+\de Brothers (term used by women, i.e. by sisters).
 \ge brothers
-\dn 兄弟（哥哥们与弟弟们）
+\dn 兄弟（年长或年幼）；姐妹用语。
 \gn 兄弟
-\ue archaic
 \df Frères (aînés ou cadets); terme employé par les sœurs.
 \gf frères
+\ue archaic
 \xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
 \xe He is Najjie |fv{nɑ˧dʑi˧}'s brother!
 \xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
@@ -40223,11 +40223,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf mv̩˩zɯ˩-ni˥mi˩
 \so F4
 \pdv v̩˧
-\de Sisters.
+\de Sisters (term used by men, i.e. by brothers).
 \ge sisters
-\dn 姐妹
+\dn 姐妹（年长或年幼）；兄弟用语
 \gn 姐妹
-\df Sœurs (aînées ou cadettes).
+\df Sœurs (aînées ou cadettes); terme employé par les frères.
 \gf sœurs
 \xv ʈʂʰɯ˧ | ʈæ˧ʂɯ˧=bv̩˧ | ni˧mi˧ ɲi˥.
 \xe She is |fv{/ʈæ˧ʂɯ˧/}’s sister.
@@ -59207,6 +59207,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \or sikee
 \ps n
 \lc sɯ˧kʰɯ˩
+\cf ʈʂo˧kʰɯ˩
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton L#
@@ -59957,6 +59958,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe the entire family community of one's relatives (literally: “one's men”)
 \xn 自己亲戚的整个家庭社区、整个支系（字面意思：“自己人的整个支系”）。
 \xf toute la communauté familiale de sa parentèle (littéralement: «de ses hommes»)
+\txtsup Sister.99
+\doisup 10.24397/pangloss-0004342#S99
 
 \lx sɯ˩α
 \sf <nb="B"> 1661
@@ -71035,6 +71038,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \sd <langue="eng"> religion
 \ton L#
 \lc ʈʂo˧kʰɯ˩
+\cf sɯ˧kʰɯ˩
 \so F4
 \de Ritual performed on the occasion of the death of a family member.
 \ge name_of_ritual
@@ -71042,7 +71046,6 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \gn 忠克仪式
 \df Rituel pour la mort d'une personne de sa famille.
 \gf nom_de_rituel
-\dt 07/Oct/2015
 
 \lx tso˧kʰwɤ#˥
 \sf <nb="B"> 2213
