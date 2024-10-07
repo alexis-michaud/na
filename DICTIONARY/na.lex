@@ -14003,6 +14003,10 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe You're really selfish! / You only care about your own pleasure!
 \xn 你真的很自私！／你只关心自己的快乐！
 \xf Ben dis donc, toi, tu ne penses qu'à toi! / Toi, tu ne te soucies vraiment que de ton bon plaisir!
+\xo onq zzheu onq leshei sso, chumi yi keeq
+\xe (they) took whoever they pleased to be (their) wives
+\xc <print="n" type="hist" langue="fra"> xxxx à vérifier : traduction / contexte. Question posée à Roselle le 7 octobre 2024.
+\rf F22
 
 \lx ɖʐwæ˩˧
 \or zzhuaeq
