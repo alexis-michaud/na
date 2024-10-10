@@ -14004,8 +14004,12 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xn 你真的很自私！／你只关心自己的快乐！
 \xf Ben dis donc, toi, tu ne penses qu'à toi! / Toi, tu ne te soucies vraiment que de ton bon plaisir!
 \xo onq zzheu onq leshei sso, chumi yi keeq
-\xe (they) took whoever they pleased to be (their) wives
-\xc <print="n" type="hist" langue="fra"> xxxx à vérifier : traduction / contexte. Question posée à Roselle le 7 octobre 2024.
+\xn （他们）随意挑选，娶来为妻。
+\xe (They) took whoever they pleased to be (their) wives.
+\xf (Ils) prirent pour femmes toutes celles d’entre elles qui leur avait plu.
+\xc <langue="fra" dom="sem"> Traduction partielle du 2e verset du chapitre 6 de la Genèse: «Les enfants de Dieu, voyant que les filles des hommes étaient belles, prirent pour femmes toutes celles d’entre elles qui leur avait plu.» (Rien de spécifique à la culture moso.)
+\xc <langue="eng" dom="sem"> Translation of part of Genesis 6:2 in the Bible: ``the sons of God saw that the daughters of humankind were beautiful. Thus they took wives for themselves from any they chose." (Nothing insightful about Na customs.)
+\xc <langue="cmn" dom="sem"> 《圣经》创世纪6:2部分内容的译文。全文：“神的儿子们看见人的女子美貌，就随意挑选，娶来为妻。”（与摩梭人的习俗无关。）
 \rf F22
 
 \lx ɖʐwæ˩˧
@@ -56989,7 +56993,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To look for, to search for; to procure, to get.
+\de To look for, to search for; to procure, to get, to fetch.
 \ge to_look_for
 \dn 寻找
 \gn 寻找
