@@ -4,6 +4,7 @@ na:  |fv{}    nom scientifique:  |fi{}   chinois:  |fn{}    gloses: |fg{}
 la Vague pour le mot-cible: 〜
 variation libre: ≈
 \vf <print="n">
+Citations: utiliser uniquement parencite et textcite. Quid de citeyear et citeauthor?
 Notation des tons : notation étroite; phonologie de surface (notation large); ou phonologie 'profonde' (notation abstraite):
 <FORM kindOf="phonetic">
 <FORM kindOf="phonemic">
@@ -14,7 +15,7 @@ H : numéro d'homonyme
 Sont des caractères spéciaux = non confusionnables ; petit e pour exemple, D pour définition…
 Ont une valeur sémantique, et sont non confusionnables. Ex.: dièse employé par C. Buret.
 
-Ordre saisie diacritiques : v puis la nasalité   ̃ et en dernier le tiret souscrit   ̩ .
+Ordre saisie diacritiques ṽ̩ : v puis la nasalité   ̃ et en dernier le tiret souscrit   ̩ .
 
 Symbole de la barre verticale : | 007C ǀ
 Un temps, avais utilisé : ǀ lettre latine clic dental, 01C0 (visuellement: moins clair).

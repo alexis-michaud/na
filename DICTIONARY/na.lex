@@ -58765,8 +58765,8 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \xe “You have good principles in your family,” he said.
 \xn 他说：“你的家庭有很好的原则。”
 \xf «Dans votre famille, vous avez de bons principes!» a-t-il dit.
-\txt Benevolence.261
-\doi zzzzAttributionÀVenir
+\txt Benevolence.259
+\doi 10.24397/pangloss-0009081#S259
 \xv ʈʂʰɯ˧=ɻ̩˩, | so˧jɤ˩ | mɤ˧-dʑɤ˩!
 \xe That family doesn't have exemplary habits. They don't instil good principles in their members.
 \xn 那个家庭没有模范习惯。他们没有向家庭成员灌输良好的原则。
