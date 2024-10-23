@@ -8275,8 +8275,7 @@
 \cf ɖɯ˩zo#˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-
-t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
 \nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
 \nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
 \ton LM+#H
@@ -8405,8 +8404,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \cf dɑ˧ʝi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-
-t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
 \nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
 \nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
 \ton LM+#H
@@ -11884,8 +11882,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (terme élicité; peut se dire, mais n'est pas employé couramment)
-
-t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
 \nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
 \nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
 \ton #H
@@ -22774,8 +22771,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine: an area of the main room where a floor is laid under the roof structure, forming a mezzanine, but which the human inhabitants do not use. As the area is very smoky, only a flimsy floor and no railings are used. Hence the name: ‘the cat's (place)’, as only the cat roams around easily up there. Sometimes objects are stored here (wickerwork, for example): the smoke give them some protection from insects.
 \ge lower_balcony
-\dn 夹层：主屋的夹层。只有一层薄的木地板。
-这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为 “猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
+\dn 夹层：主屋的夹层。只有一层薄的木地板。这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为 “猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
 \gn 夹层
 \df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas. L'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde. D'où le nom: «(la pièce) du chat», le chat étant seul à s'y promener à son aise. On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
@@ -35130,8 +35126,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \lc mæ˧ɻæ˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-
-t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
+\nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
 \nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
 \nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
 \ton L#
@@ -59969,16 +59964,6 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \ge family_community
 \dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
 \gn 家庭社区/支系
-\df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
-\gf communauté_familiale
-\xv sɯ˧zɯ˧ ɖɯ˧-lo˩
-\xe one family community
-\xn 一个支系，一条线
-\xf une communauté familiale
-\xv sɯ˧zɯ˧ ɖɯ˧-ʁwɤ˧
-\xe one family community
-\xn 一个支系，一条线
-\xf une communauté familiale
 \xc <langue="fra" dom="synt"> Le classificateur employé est celui des villages.
 \xv sɯ˧zɯ˧ ə˩-dʑo˩?
 \xe Is there a (complete) family community? / Is the family large? (Question asked as part of discussions preliminary to marriage: Will the bride have a large family around her, be surrounded by a large family? A small family is considered much less attractive than a large one.)
