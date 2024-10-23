@@ -15946,7 +15946,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \pdv v̩˧
 \de Grandmother (on mother's side); elderly woman.
 \ge grandmother_on_mother_s_side
-\dn 祖母，姥姥，老妪
+\dn 母亲的母亲（祖母，姥姥，老妪）
 \gn 祖母（母亲的母亲）
 \df Grand-mère, aïeule; vieille femme.
 \gf grand-mère (du côté maternel); aïeule, vieille femme
@@ -22614,12 +22614,11 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \dn 在大事发生的时候送的礼物（近期一般给钱）：婚礼、葬礼
 \gn 红包
 \df Don d'argent à l'occasion des grands événements: décès, mariages.
-\gf dont_d_argent
+\gf don_d_argent
 \xv hwɤ˧ | ɖɯ˧-kʰwɤ˥
 \xe a gift, a financial contribution
 \xn 一个红包
 \xf un cadeau, un don d'argent
-\dt 14/Jul/2017
 
 \lx hwɤ˩dʑɯ˩
 \or huajji
@@ -52796,9 +52795,10 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M intrans
+\ton M
 \lc ʁo˧
 \so F4
+\nt <type="hist" print="n" langue="fra" dom="ton"> xxxx vérifier le ton : Ma ou Mb
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁv̩˧
 \vc <langue="fra" print="n"> ton 1 (le˧ʁv̩˧ze˧) ; donne: æ˩ʁv̩˩ ʁv̩˧; vérifié, n'est pas ʁu˧
@@ -59945,7 +59945,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \pdv ʁwɤ˧
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
-\dn 家庭社区、支系。傅懋勣（1983:24）翻译为communauté familiale，即家庭社区。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
+\dn 家庭社区、支系。傅懋勣（1983:24）翻译为家庭社区。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
 \gn 家庭社区/支系
 \df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
 \gf communauté_familiale
