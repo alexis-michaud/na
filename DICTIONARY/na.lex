@@ -12832,7 +12832,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: /dʑi˥kʶv̩˩/) (n'est pas dʑɯ)
-\nt <dom="sem" langue="fra"> à gauche sur la photo
+\nt <dom="sem" langue="fra" print="n"> à gauche sur la photo
 \ton L#
 \lc dʑɯ˧qʰv̩˩
 \so F4
@@ -19514,7 +19514,7 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: hæ˧kʰwɤ˩˥)
-\nt <dom="sem" langue="fra"> deuxième plante sur la photo
+\nt <dom="sem" langue="fra" print="n"> deuxième plante sur la photo
 \ton L
 \lc hæ̃˩qʰwɤ˩˥
 \so F4
@@ -50771,10 +50771,32 @@ t <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de
 \xe same meaning
 \xn 同上
 \xf même sens
-\xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ = qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩, qʰwæ˩kɤ˩ tʰi˥-gɤ˩ mettre en forme de la broussaille pour faire une clôture (pour que le bétail ne passe pas)
-// dʑɯ˩qʰv̩˩ tʰi˥-lɑ˩
-dʑɯ˩qʰv̩˩˥ des poteaux (en bois)
-le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧˥ VU
+\xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ ≈ qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩
+\xe to arrange (to set) branches of this shrub to make a fence (so that the cattle don't get through)
+\xn 将这种灌木的枝条安装成栅栏（以免牛群通过）。
+\xf installer (mettre en forme) des branches de cet arbuste pour faire une clôture (afin que le bétail ne passe pas)
+\xv qʰwæ˩kɤ˩ tʰi˥-gɤ˩
+\xe to arrange branches of this shrub to make a fence (so that the cattle don't get through)
+\xn 将这种灌木的枝条安装成栅栏（以免牛群通过）。
+\xf mettre en place des branches de cet arbuste pour faire une clôture (afin que le bétail ne passe pas)
+\xc <type="hist" print="n" langue="fra"> xxxx vérifier que cet exemple est bien synonyme avec le précédent.
+
+\lx dʑɯ˩qʰv̩˩
+\or jjikheu
+\ps n
+\lc dʑɯ˩qʰv̩˩˥
+\ton L
+\so F4
+\de Post (made of wood), used to make a fence.
+\ge post
+\dn 木制柱子，用于制作栅栏。
+\gn 木柱子
+\df Poteau (en bois), utilisé pour faire une clôture.
+\gf poteau
+\xv dʑɯ˩qʰv̩˩ tʰi˥-lɑ˩
+\xe to hammer a wooden post (into the ground, in order to make a fence)
+\xn 将木柱锤入地面，以作出篱笆
+\xf enfoncer un poteau (dans le sol, pour faire une clôture)
 
 \lx qʰwæ˧kʰwɤ#˥
 \or khuaekua
@@ -59945,7 +59967,7 @@ le ɻésultæt, læ hａｉｅæie: qʰwæ˧~qʰwæ˧, ton ˧; pdv: ɖɯ˧-kɤ˧
 \pdv ʁwɤ˧
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
-\dn 家庭社区、支系。傅懋勣（1983:24）翻译为家庭社区。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
+\dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
 \gn 家庭社区/支系
 \df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
 \gf communauté_familiale
