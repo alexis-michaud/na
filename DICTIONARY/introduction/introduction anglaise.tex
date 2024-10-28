@@ -16,11 +16,11 @@ This dictionary documents the lexicon of the Yongning Na language, \phonologie{n
 % Map~\ref{map:1-1} locates this language on a~map of Asia showing the current geographical distribution of \il{Sino-Tibetan}Sino-Tibetan languages.\footnote{Issues of language classification are addressed in \sectref{sec:thepositionofnaandnaxiwithinsinotibetan}.}
 the plain of Yongning \pcmn{永宁}, a~basin located in Southwestern China, at the border between Yunnan and Sichuan, at a latitude of 27°50’ N and a longitude of 100°41’ (see map \ref{map:1-1}). Yongning is close to Lugu Lake \pcmn{泸沽湖} (in Na: \phonologie{lo˧ʂv̩˩-hi˩nɑ˧mi˧}), a~lake of about fifty square kilometres which creates a~microclimate that is suitable for farming despite the high altitude (about 2,800 meters above sea level).
 
-\begin{mapfigure}[htp]
+\begin{figure}
 	\caption{A sketch map of the Yongning area. \emph{Designed by Jérôme Picard. Sources: Geofabrik, ASTER GDEM (a product of METI and NASA) and OpenStreetMap.}}
 	\includegraphics[width=.86\textwidth]{Lien vers images/PDF_CMYK_1point4.pdf}
 	\label{map:1-1}
-\end{mapfigure}
+\end{figure}
 
 The total number of speakers was estimated at about 40,000 on the basis of survey data from the late 1950s \parencite[107]{heetal1985}; the same figure is taken up by \parencite{yang2009}. The number of proficient speakers in the 2020s is much lower: language replacement (by Mandarin) is under way.
 
@@ -309,7 +309,7 @@ The database structure will be presented first, then the typesetting choices.
 
 \subsection{Structure of the database}
 
-The extract of XML code shown below (and in image mode in Figure \ref{fig:LexikaXML}) answers most of the questions about the structure of the database.
+The extract of XML code shown below answers most of the questions about the structure of the database.
 
 \begin{lstlisting}[language=XML, caption=Excerpt from the Lexika XML code illustrating the structure of the entries, label=code:LexikaXML]
 <EntréeLexicale identifiant="ⓔhĩ˧-ʈʂɤ#˥">
@@ -355,12 +355,12 @@ The extract of XML code shown below (and in image mode in Figure \ref{fig:Lexika
 </EntréeLexicale>
 \end{lstlisting}
 
-\begin{figure}[ht!!]
-    \centering
-         \includegraphics[width=.8\textwidth]{images/LexikaXML.png}
-        \caption{A sample entry illustrating the structure of the Lexika XML lexicographic database.}
-        \label{fig:LexikaXML}
-\end{figure}
+%\begin{figure}[ht!!]
+%    \centering
+%         \includegraphics[width=.8\textwidth]{images/LexikaXML.png}
+%        \caption{A sample entry illustrating the structure of the Lexika XML lexicographic database.}
+%        \label{fig:LexikaXML}
+%\end{figure}
 
 The dictionary is made up of \emph{lexical entries}. Each entry has a computer identifier. This identifier is not displayed in the PDF version of the dictionary, as its function is to enable computer manipulation, and not to be recognized by human eyes. This identifier is made up of the special character \textecode{ⓔ} followed by the phonological representation of the word (here, \phonologie{hĩ˧-ʈʂɤ\#˥}), with a tone notation system that uses special symbols (\$ and \#) to distinguish the various kinds of high tones, depending on how they are associated with syllables. Full explanations of this system can be found in the monograph \emph{Tone in Yongning Na}, available online in open access \parencite[80-90]{michaud2017}.
 
@@ -483,13 +483,13 @@ Many thanks to Picus Ding for putting the first author in touch with the Mosuo s
 
 Many thanks to Céline Buret and Séverine Guillaume for engaging in the formatting of the database. Special thanks to Benjamin Galliot for taking charge of computational and typographical matters with loving care since the Autumn of 2016, with an exceptional degree of attention to detail as well as to overall structure. Many thanks to Laurent Romary and Mathieu Mangeot-Nagata for expert advice in digital lexicography, and to Guillaume Jacques for showing the way and for advice along the path.
 
-Many thanks to connoisseurs of the Na culture and language for useful exchanges: Lamu Gatusa \pcmn{拉木·嘎吐萨} (Chinese pen-name: Shi Gaofeng \pcmn{石高峰}), Liberty Lidz, Christine Mathieu, and Pascale-Marie Milan.
+Many thanks to connoisseurs of the Na culture and language for useful exchanges: Lamu Gatusa \pcmn{拉木·嘎吐萨} (Chinese pen-name: Shi Gaofeng \pcmn{石高峰}), Liberty Lidz, and Christine Mathieu.
 
 Many thanks to Nathan Hill and Tsering Samdrup for identifying names of Tibetan origin. Many thanks to Yi Li \pcmn{衣莉} for suggesting various corrections.
 
 Special thanks to Roselle Dobbs for the flow of information, corrections and advice over the years. Many thanks to Latami Dashi \pcmn{拉他咪王勇（拉他咪达石）} and A Hui \pcmn{阿慧} for suggesting corrections. ``Blessed are the true fault-finders, for they shall be called midwives of truth'' \parencite[vi]{yliniemi_descriptive_2022}. Remaining errors and shortcomings are my own responsibility.
 
-I am grateful to the Dongba Culture Research Institute \pcmn{丽江市东巴文化研究院} in Lijiang for facilitating administrative and practical matters; special thanks to Li Dejing \pcmn{李德静} and to Mu Jihong \pcmn{木霁弘}. At Yunnan University, many thanks are due to Duan Bingchang \pcmn{段炳昌}, Wang Weidong \pcmn{王卫东}, Zhao Yanzhen \pcmn{赵燕珍} and Yang Liquan \pcmn{杨立权} for their careful and sensitive management of fieldwork-related administrative matters.
+I am grateful to the Dongba Culture Research Institute \pcmn{丽江市东巴文化研究院} in Lijiang for facilitating administrative and practical matters, and to Yunnan University for careful and sensitive management of fieldwork-related administrative matters.
 
 So many people have supported this project that I must apologize for those names that should be here but were inadvertently left off the list.
 

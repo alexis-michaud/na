@@ -16,11 +16,11 @@ L'autonyme (endonyme) de la langue, \phonologie{nɑ˩-ʐwɤ˥}, s'écrit ‘Naru
 et son code Glottolog est \textsc{yong1270} \parencite{Nordhoff2012}. %La langue est présentée dans une monographie au sujet du système tonal de ce parler \parencite[2-8]{michaud2017}.
 Le nom «na de Yongning Na» a été créé par Liberty \textcite{lidz2006} en associant à l'endonyme du peuple concerné le nom du lieu où la langue est parlée: la plaine de Yongning \pcmn{永宁}, un~bassin situé dans le sud-ouest de la Chine, à la frontière entre le Yunnan et le Sichuan, à une latitude de 27°50' N et une longitude de 100°41' (voir la carte \ref{map:1-1}). Yongning est proche du lac Lugu \pcmn{泸沽湖} (en moso: Loshu xienami \phonologie{lo˧ʂv̩˩-hi˩nɑ˧mi˧}), un lac d'une cinquantaine de kilomètres carrés qui crée un microclimat propice à l'agriculture malgré l'altitude élevée (environ 2~800 mètres au-dessus du niveau de la mer).
 
-\begin{mapfigure}[htp]
+\begin{figure}
 	\caption{Carte de la plaine de Yongning et des environs. \emph{Créée par Jérôme Picard. Sources: Geofabrik, ASTER GDEM (une réalisation METI et NASA) et OpenStreetMap.}}
 	\includegraphics[width=.86\textwidth]{Lien vers images/PDF_CMYK_1point4.pdf}
 	\label{map:1-1}
-\end{mapfigure}
+\end{figure}
 
 Le nombre total de locuteurs a été estimé à environ 40~000 sur la base d'enquêtes datant de la fin des années 1950 \parencite[107]{heetal1985}; le même chiffre est repris par \parencite{yang2009}. Le nombre de locuteurs compétents dans les années 2020 est nettement moins élevé: un remplacement de la langue par le mandarin est en cours.
 
@@ -281,7 +281,7 @@ Après une présentation de la structure de la base de données, des explication
 
 \subsection{Structure de la base de données}
 
-L'extrait du code XML présenté ci-dessous (et en mode image en Figure \ref{fig:LexikaXML}) répond par lui-même à l'essentiel des questions concernant la structure de la base de données.
+L'extrait du code XML présenté ci-dessous répond par lui-même à l'essentiel des questions concernant la structure de la base de données.
 \begin{lstlisting}[language=XML, caption=Extrait du code XML Lexika illustrant la structure des entrées, label=code:LexikaXML]
 <EntréeLexicale identifiant="ⓔhĩ˧-ʈʂɤ#˥">
   <Lemme>
@@ -325,13 +325,6 @@ L'extrait du code XML présenté ci-dessous (et en mode image en Figure \ref{fig
   </ListeDeSens>
 </EntréeLexicale>
 \end{lstlisting}
-
-\begin{figure}[ht!!]
-    \centering
-         \includegraphics[width=.74\textwidth]{images/XMLfr.png}
-        \caption{Extrait du code XML Lexika, illustrant la structure des entrées.}
-        \label{fig:LexikaXML}
-\end{figure}
 
 Le dictionnaire est composé d'\emph{entrées lexicales}. Chacune est pourvue d'un identifiant informatique. Celui-ci n'est pas affiché dans la version PDF du dictionnaire, sa fonction étant de permettre des manipulations par ordinateur, et non d'être reconnu par des yeux humains. Cet identifiant est composé du caractère spécial \textecode{ⓔ} suivi de la représentation phonologique du mot (ici, \phonologie{hĩ˧-ʈʂɤ\#˥}), avec un système de notation des tons qui recourt à des symboles spéciaux (\$ et \#) pour distinguer les diverses sortes de tons hauts, en fonction de leur mode d’association avec les syllabes. Toutes explications au sujet de ce système sont fournies dans la monographie \emph{Tone in Yongning Na}, disponible en ligne en libre accès \parencite[80-90]{michaud2017}.
 
@@ -506,9 +499,9 @@ Vifs remerciements à Séverine Guillaume et Céline Buret, qui ont guidé les p
 
 Merci à Nathan Hill et Tsering Samdrup pour l'identification des noms d'origine tibétaine. Merci à Yi Li \pcmn{衣莉} pour ses suggestions de corrections.
 
-Mes remerciements particuliers à Roselle Dobbs (Ddeema Lhaco, \pcmn{杜玫瑰}) pour le flux d’informations, de corrections et de conseils depuis les débuts de l’élaboration de ce dictionnaire. Merci à A Hui \pcmn{阿慧} et Latami Dashi pour leur relecture d’une partie du dictionnaire. \texteeng{``Blessed are the true fault-finders, for they shall be called midwives of truth''} \parencite[vi]{yliniemi_descriptive_2022}. Je suis seul responsable des erreurs et limitations qui demeurent.
+Mes remerciements particuliers à Roselle Dobbs (Ddeema Lhaco, \pcmn{杜玫瑰}) pour le flux d’informations, de corrections et de conseils depuis les débuts de l’élaboration de ce dictionnaire. Merci à A Hui \pcmn{阿慧} et Latami Dashi pour leur relecture d’une partie du dictionnaire. \texteeng{``Blessed are the true fault-finders, for they shall be called midwives of truth''} \parencite[vi]{yliniemi_descriptive_2022}. Les auteurs sont seuls responsables des erreurs et limitations qui demeurent.
 
-Merci au Centre de recherches sur la culture dongba (\pcmn{丽江市东巴文化研究院}) à Lijiang, et à l’Université du Yunnan à Kunming (en particulier Duan Bingchang \pcmn{段炳昌}, Wang Weidong \pcmn{王卫东}, Zhao Yanzhen \pcmn{赵燕珍} et Yang Liquan \pcmn{杨立权}) pour leur aide dans la gestion des questions administratives liées aux enquêtes de terrain.
+Merci au Centre de recherches sur la culture dongba (\pcmn{丽江市东巴文化研究院}) à Lijiang, et à l’Université du Yunnan à Kunming, pour leur aide dans la gestion des questions administratives liées aux enquêtes de terrain.
 
 J’ai reçu dans mon travail l’aide de tant de personnes que je crains de ne pouvoir rendre justice à toutes; que celles et ceux que j’oublie de nommer ici veuillent bien accepter mes excuses pour cette négligence.
 

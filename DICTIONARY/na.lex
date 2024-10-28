@@ -15834,7 +15834,7 @@
 \rf M18
 
 \lx ə˧v̩˧-ɖɯ˧˥
-\mr ə˧v̩˧˥
+\mr ə˧v̩˧˥2
 \mr ɖɯ˩α
 \or avu ddee
 \ps n
@@ -15855,7 +15855,7 @@
 \gf frère_aîné_de_la_mère
 
 \lx ə˧v̩˧-tɕi˥
-\mr ə˧v̩˧˥
+\mr ə˧v̩˧˥2
 \mr tɕi˩α
 \or avu jieq
 \ps n
@@ -21776,7 +21776,6 @@
 \lx hṽ̩˥
 \sf <nb="B"> 100
 \sf <nb="2011"> 150
-\hm 1
 \or hun
 \ps n
 \lc hṽ̩˧
@@ -21839,7 +21838,6 @@
 
 \lx †hṽ̩˥
 \sf <nb="2011"> 2223
-\hm 2
 \or hunq
 \ps v
 \lc hṽ̩˧
@@ -21953,7 +21951,7 @@
 \sf <nb="B"> 1926
 \sf <nb="2011"> 2939
 \or hun'na
-\mr hṽ̩˥1
+\mr hṽ̩˥
 \mr nɑ˩β
 \ps n
 \lc hṽ̩˧nɑ˩
@@ -28848,7 +28846,7 @@
 \sf <nb="B"> 1755
 \sf <nb="2011"> 1708
 \or hunshae
-\mr hṽ̩˥1
+\mr hṽ̩˥
 \mr ʂæ˩
 \ps v
 \lc hṽ̩˧ʂæ˧˥
