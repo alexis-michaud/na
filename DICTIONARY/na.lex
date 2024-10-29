@@ -4610,7 +4610,7 @@
 \lx bɻ̩˥
 \sf <nb="B"> 1805
 \sf <nb="2011"> 2742
-\or bbu
+\or bbeu
 \ps n
 \lc bɻ̩˧
 \sd <langue="fra"> animal
@@ -5201,7 +5201,7 @@
 \lx bɻ̩˧ɻ̩#˥
 \sf <nb="B"> 1831
 \sf <nb="2011"> 2784
-\or bbu'er
+\or bbeu'er
 \ps n
 \lc bɻ̩˧ɻ̩˧
 \sd <langue="fra"> animal
@@ -9165,7 +9165,7 @@
 \dt 24/Apr/2017
 
 \lx ɖʐæ˩bɻ̩˩
-\or zzhaebbu
+\or zzhaebbeu
 \ps n
 \lc ɖʐæ˩bɻ̩˩˥
 \sd <langue="fra"> société
@@ -24933,7 +24933,7 @@
 \lx jɤ˩jo˧-bɻ̩#˥
 \sf <nb="B"> 1830
 \sf <nb="2011"> 2783
-\or yeyobbu
+\or yeyobbeu
 \mr jɤ˩jo#˥
 \mr bɻ̩˥
 \ps n
@@ -38092,7 +38092,7 @@
 \lx mv̩˧ʈʂo˩-ti˩-bɻ̩˩
 \sf <nb="B"> 1813
 \sf <nb="2011"> 2762
-\or muzhodibbu
+\or muzhodibbeu
 \ps n
 \ton L#-
 \lc mv̩˧ʈʂo˩ti˩bɻ̩˩
@@ -39811,7 +39811,7 @@
 
 \lx ɲi˩bɻ̩˩
 \sf <nb="2011"> 2801
-\or nibbu
+\or nibbeu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -39835,7 +39835,7 @@
 \lx ɲi˩bɻ̩˩-ʂe˩sɑ˧
 \sf <nb="B"> 1843
 \sf <nb="2011"> 2799
-\or nibbusheisa
+\or nibbeusheisa
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -50970,7 +50970,7 @@
 
 \lx qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sf <nb="2011"> 2744
-\or ghuaesheilabbu
+\or ghuaesheilabbeu
 \mr qwæ˧ʂe#˥
 \sy qwæ˧ʂe#˥
 \ps n
@@ -76170,7 +76170,7 @@
 
 \lx v̩˩tsʰɤ˧-bɻ̩#˥
 \sf <nb="B"> 1812
-\or wucebbu
+\or wucebbeu
 \ps n
 \lc v̩˩tsʰɤ˧bɻ̩˧
 \sd <langue="fra"> animal
