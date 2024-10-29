@@ -243,7 +243,7 @@
 \pdv nɑ˧α
 \de Ard. There are no distinct words for ‘ard' (symmetrical) and ‘plough' (asymmetrical). Only ards were in use at the time of fieldwork (2006).
 \ge ard
-\dn 犁头（摩梭话不区分对称和不对称的犁，2006年调查时用的是对称的犁）
+\dn 犁头（摩梭语不区分对称和不对称的犁，2006年调查时用的是对称的犁）
 \gn 犁头
 \df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire (symétrique) et l'autre pour la charrue (dissymétrique). À la date de l'enquête (2006), seule l'araire était en usage.
 \gf araire
@@ -378,7 +378,7 @@
 \nt <dom="sem" langue="fra"> extrait de l'expression /|fv{æ˧ʝi˩ kʰɯ˩}/ ‘s'amuser, se distraire: parler à haute voix, chanter, crier…'
 \ton L#
 \lc æ˧ʝi˩
-\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭话里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
+\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭语里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
 \so F4
 \de Cry.
 \ge cry
@@ -400,7 +400,7 @@
 \or eyi
 \ps intj
 \cf æ˧ʝi˩
-\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭话里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
+\nt <print="n" langue="cmn" dom="dialect">  A Hui, 2016: “|fv{æ˧ʝi˩}，声调改变成|fv{æ˧ʝi˧}后，在我们那边的摩梭语里，除了叫声，还有“天哪”的意思（但这个“天哪”不等同于汉语的“天哪”）。它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如，两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}，那个衣服不适合你”。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}，脏！”我问过四川泸沽湖的摩梭朋友，还有宁蒗翠玉的摩梭朋友，都有此用法。”
 \ton M
 \lc æ˧ʝi˧!
 \sd <langue="fra"> interjection
@@ -832,7 +832,7 @@
 \nt <dom="sem" langue="cmn"> “鹦鹉”这个词，来形容一种颜色：青色。
 \de Blue-green; literally ‘parrot[-coloured]'.
 \ge blue/green
-\dn 像鹦鹉的颜色：介于青色、蓝色、绿色之间的颜色（摩梭话基本颜色为黄、红、青、黑、白、灰等）
+\dn 像鹦鹉的颜色：介于青色、蓝色、绿色之间的颜色（摩梭语基本颜色为黄、红、青、黑、白、灰等）
 \gn 青色
 \df De couleur bleue/verte; couleur un peu plus légère que le vert de la plaine; équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
 \gf bleu/vert
@@ -4422,7 +4422,7 @@
 \xf Je n'ai fait que la moitié! Attends un peu! (Contexte: quelqu'un est en train de trier les vêtements, et signale qu'il n'a pas fini)
 \xv ɖɯ˧-bɤ˩-lɑ˩ tʰv̩˩-ze˩!
 \xe You are only half-way through! (An observation about the investigator's progress in studying the Na language. It emphasizes the road ahead; still, this is a more encouraging formulation than the previous example: this one uses the perfective, acknowledging that part of the path that has already been covered, whereas |fv{ɖɯ˧-bɤ˩-lɑ˩ tʰv̩˩-sɯ˩} would essentially emphasize all that remains ahead.)
-\xn （你）才到了一半！（合作人对调查者学摩梭话的评定）
+\xn （你）才到了一半！（合作人对调查者学摩梭语的评定）
 \xf Tu es à mi-chemin! / Tu n'as parcouru que la moitié du chemin! (Réflexion de la consultante principale au sujet de mon apprentissage de la langue na. Cette formulation souligne le chemin qui reste à parcourir, mais l'emploi du perfectif apporte une note d'encouragement, là où l'exemple précédant insisterait essentiellement sur le chemin restant à parcourir: |fv{ɖɯ˧-bɤ˩-lɑ˩ tʰv̩˩-sɯ˩}.)
 \xv ʐæ˩ʂæ˥ | ʐwæ˩˥! | le˧-se˥, | ɖɯ˧-bɤ˩-qo˩-lɑ˩ tʰv̩˩-sɯ˩!
 \xe It's really far! We have walked (for quite some time), and only got mid-way!
@@ -6179,7 +6179,7 @@
 \nt <type="hist" print="n" langue="fra"> Confirmé en 2007: F4 dit /ɕjɤ/, non /ɕjæ/. Réanalyse déc. 2008: /hjɤ/, puis reviens à une notation moins abstraite: ɕjɤ.
 \nt <langue="fra" dom="morpho"> Le lien entre la première syllabe de l'adjectif, |fv{ɕjɤ˧}, et l'emprunt chinois |fv{ɕjæ˧} |fn{香} n'est pas tout à fait établi. Aux yeux de la locutrice principale, |fv{ɕjɤ˧-bv̩˧nv̩˧} est un mot na, tandis que |fv{ɕjæ˧} est un mot chinois. Pour autant, la variabilité inter-locuteurs amène à penser que le |fv{ɕjɤ˧-...} serait un emprunt du chinois |fn{香} à une date un peu antérieure, relativement récente: quelques décennies? un siècle au plus?
 \nt <langue="eng" dom="morpho"> The link between the first syllable of the adjective, |fv{ɕjɤ˧}, and the Chinese loan |fv{ɕjæ˧} |fn{香} is not entirely clear. In the eyes of the main speaker, |fv{ɕjɤ˧-bv̩˧nv̩˧} is a Na word, whereas |fv{ɕjæ˧} is a Chinese word. However, the patterns of variability between speakers suggests that |fv{ɕjɤ˧-...} was borrowed from the Chinese |fn{香} at a slightly earlier, relatively recent date: a few decades? a century at most?
-\nt <langue="cmn" dom="morpho"> 形容词的第一个音节（|fv{ɕjɤ˧}）与汉语借词|fv{ɕjæ˧}‘香’之间的关系不完全清楚。在主合作人眼中，|fv{ɕjɤ˧-bv̩˧nv̩˧}是摩梭话，而|fv{ɕjæ˧} 是汉语借词。然而，不同说话者之间的差异表明，|fv{ɕjɤ˧-...}很可能来自汉语的‘香’，时间稍早但相对较近：几十年？顶多一百年？
+\nt <langue="cmn" dom="morpho"> 形容词的第一个音节（|fv{ɕjɤ˧}）与汉语借词|fv{ɕjæ˧}‘香’之间的关系不完全清楚。在主合作人眼中，|fv{ɕjɤ˧-bv̩˧nv̩˧}是摩梭语，而|fv{ɕjæ˧} 是汉语借词。然而，不同说话者之间的差异表明，|fv{ɕjɤ˧-...}很可能来自汉语的‘香’，时间稍早但相对较近：几十年？顶多一百年？
 \ton M
 \lc ɕjɤ˧bv̩˧nv̩˧
 \cf ɕjæ˧
@@ -8711,7 +8711,7 @@
 \pdv ɭɯ˧β
 \de The room in the main building of the farm where cereals were kept: the granary.
 \ge granary
-\dn 仓廪。摩梭话音译：‘独帕’
+\dn 仓廪。摩梭语音译：‘独帕’
 \gn 仓廪
 \df Partie du bâtiment principal dans laquelle étaient conservées les céréales: le grenier à céréales.
 \gf grenier
@@ -11322,7 +11322,7 @@
 \so F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
 \ge Jjabbu_Gesawua
-\dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
+\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
 \gn 高明村
 \df Jjabbu Gesawua, un village au nord-est de Yongning. Appelé Gaoming en chinois (nom emprunté en na comme |fv{kɤ˧mi˩}).
 \gf Jjabbu_Gesawua
@@ -11344,7 +11344,7 @@
 \so F4
 \de Gaoming, the Chinese name of a village north-east of Yongning. Name in Na: Jjabbu Gesawua.
 \ge Gaoming.
-\dn 高明 （永宁坝子的一个村落）。摩梭话名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
+\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
 \gn 高明村
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbu Gesawua.
 \gf Gaoming
@@ -11385,7 +11385,7 @@
 \de Jjabbuwua (name of a village). The usual name in Na is Jjabbu Gesawua, not Jjabbuwua. This entry is nevertheless retained in the dictionary (with the symbol ‡ to indicate an erroneous form), because it has been phonetically transposed into Chinese, in the village name |fn{甲波瓦村}.
 \ge Jjabbuwua
 \dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344,27.78509
-\gn 甲波瓦村。汉名：高明。一般称之为。摩梭话的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号 ‡ 表示有误），因为它已被音译为“甲波瓦村”这一名中。
+\gn 甲波瓦村。汉名：高明。一般称之为。摩梭语的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号 ‡ 表示有误），因为它已被音译为“甲波瓦村”这一名中。
 \df Jjabbuwua (nom de village). Le nom usuel en na est Jjabbu Gesawua, non Jjabbuwua. Cette entrée est néanmoins maintenue dans le dictionnaire (assortie du symbole ‡ qui signale une forme erronée), du fait qu'elle s'est trouvée transposée phonétiquement en chinois, dans le nom de village |fn{甲波瓦村}.
 \gf Jjabbuwua
 
@@ -12320,6 +12320,8 @@
 \df Cuve où l'on conserve l'eau potable, tonneau d'eau. À la date de l'enquête, il s'agissait d'un baril en fer.
 \gf tonneau_à_eau
 \xv pɻ̩˩-dʑɯ˩gv̩˩˥
+\xn 同上：水槽
+\xe same meaning
 \xf même sens
 \rf F5
 
@@ -13656,7 +13658,7 @@
 \nt <type="hist" print="n" langue="fra"> (+ɲi˩) (d'abord noté kʰv̩˧) notes anciennes: “ɖʐv̩˩kʰɯ˩-ze˧ (tons vérifiés en mai 2008, d'abord noté ˧˧˥) sens confirmé par M18 en juin 2008"; tons corrigés à nouveau en ɖʐv̩˧ kʰɯ˧-ze˥ en nov. 2011
 \nt <dom="usage" langue="fra"> Au plan pragmatique, ce mot peut s'employer dans un contexte où on présente des excuses. Un équivalent du chinois |fn{不好意思} sera: /|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/.
 \nt <dom="usage" langue="eng"> This word can be used in a context where an apology is being offered. An equivalent of Chinese |fn{不好意思} would be: /|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/.
-\nt <dom="usage" langue="cmn"> 从实用角度讲，这个词可以用在道歉的语境中。摩梭话/|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/可以作为汉语‘不好意思’的对应说法。
+\nt <dom="usage" langue="cmn"> 从实用角度讲，这个词可以用在道歉的语境中。摩梭语/|fv{ɖʐv̩˧ kʰɯ˧-ze˥!}/可以作为汉语‘不好意思’的对应说法。
 \ton M
 \lc ɖʐv̩˧
 \so F4
@@ -15083,7 +15085,7 @@
 \pdv jɤ˧˥
 \de Mother. The word is also used as a term of address for maternal aunts, and for women of the mother's generation outside the household and even outside the family. Literal and extended uses of the word are distinguished, not only by context, but also by various combinations with adjectives (`little mother' and `elder mother' refer to aunts younger and older than the mother, respectively) or with a family name or given name.
 \ge mother/aunt
-\dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭话的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
+\dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
 \gn 母亲/姑母
 \df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel...
 \gf mère/tante
@@ -15839,7 +15841,7 @@
 \pdv v̩˧
 \de Mother's elder brother. Also used for the husband of one of the mother's elder sisters.
 \ge mother_s_elder_brother
-\dn 母亲的哥哥（比母亲大的“舅舅”）。现在，这个词也用于母亲姐姐的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
+\dn 母亲的哥哥（比母亲大的“舅舅”）。现在，这个词也用于母亲姐姐的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭语中的称呼也不同。）
 \gn 母亲的哥哥
 \df Frère aîné de la mère. Également employé pour le mari d'une sœur aînée de la mère.
 \gf frère_aîné_de_la_mère
@@ -15860,7 +15862,7 @@
 \pdv v̩˧
 \de Mother's younger brother. Also used for the husband of one of the mother's younger sisters.
 \ge mother_s_younger_brother
-\dn 母亲的弟弟（比母亲小的“舅舅”）。现在，这个词也用于母亲妹妹的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭话中的称呼也不同。）
+\dn 母亲的弟弟（比母亲小的“舅舅”）。现在，这个词也用于母亲妹妹的丈夫。（根据其妻子在兄弟姐妹顺序中的位置，姨父在摩梭语中的称呼也不同。）
 \gn 母亲的弟弟
 \df Frère cadet de la mère. Également employé pour le mari d'une sœur cadette de la mère.
 \gf frère_cadet_de_la_mère
@@ -17168,7 +17170,7 @@
 \sd <langue="eng"> religion
 \nt <dom="ety" langue="fra"> La seconde syllabe de ce mot est un emprunt au tibétain, et non un cognat, sinon sa voyelle |fv{*a} serait passée à |fv{i} en na de Yongning, à |fv{ie} en lazé, et à |fv{e} en naxi. Le disyllabe est vraisemblablement un composé na+tibétain, le |fv{gɤ} restant à identifier.
 \nt <dom="ety" langue="eng"> The second syllable of this word is borrowed from Tibetan, and not a cognate, otherwise its vowel |fv{*a} would have changed to |fv{i} in Yongning Na, to |fv{ie} in Laze, and to |fv{e} in Naxi. The disyllable is probably a Na+Tibetan compound, with the |fv{gɤ} yet to be identified.
-\nt <dom="ety" langue="cmn"> 该词的第二个音节借自藏语，并非同源词，否则其元音 |fv{*a} 在永宁摩梭话中会变为|fv{i}，在木里水田话中变为|fv{ie}，在纳西语中变为|fv{e}。这个双音节很可能是摩梭话+藏语的复合词，其中的|fv{gɤ}语素尚待确定。
+\nt <dom="ety" langue="cmn"> 该词的第二个音节借自藏语，并非同源词，否则其元音 |fv{*a} 在永宁摩梭语中会变为|fv{i}，在木里水田话中变为|fv{ie}，在纳西语中变为|fv{e}。这个双音节很可能是摩梭语+藏语的复合词，其中的|fv{gɤ}语素尚待确定。
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -17566,7 +17568,7 @@
 \xf dispensaire: littéralement, lieu où on peut consulter un médecin
 \xc <dom="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
 \xc <dom="synt" langue="eng"> This expression is perhaps a calque of the Chinese |fn{看病}: it is made up of the Narua equivalents of the two Chinese words (reversing, of course, the order between verb and object, as dictated by Narua syntax).
-\xc <dom="synt" langue="cmn"> 这个短语可能是汉语‘看病’的翻版：它是由两个对应汉语的词组成的（当然，根据摩梭话的句法，动词和宾语的顺序是颠倒的）。
+\xc <dom="synt" langue="cmn"> 这个短语可能是汉语‘看病’的翻版：它是由两个对应汉语的词组成的（当然，根据摩梭语的句法，动词和宾语的顺序是颠倒的）。
 \xv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
 \xe dispensary: literally, a place where a doctor can be consulted
 \xn 诊所：字面意思是“看病的地方”
@@ -20184,7 +20186,7 @@
 \gf cape_de_pluie
 \xv dʑɤ˧tsʰe˩, | hi˧dʑi˧ ɲi˩!
 \xe Explanation of the Naxi loanword through its synonymy with the Na word: “The rain cape [Naxi loanword] is a rain cape [word in Narua]!”
-\xn 用摩梭话的词来解释纳西语借词：“蓑衣（纳西语借词），意思是‘蓑衣’[摩梭话]！”
+\xn 用摩梭语的词来解释纳西语借词：“蓑衣（纳西语借词），意思是‘蓑衣’[摩梭语]！”
 \xf Explication du mot emprunté au naxi par son synonyme en na: «Cape de pluie (mot naxi), ça veut dire cape de pluie (mot na)!» / «La cape des Naxi, c'est le vêtement de pluie!»
 \xv hi˧dʑi˧-dʑɤ˧tsʰe˩
 \xe same meaning
@@ -21098,7 +21100,7 @@
 \nt <type="hist" print="n" langue="fra"> (confirmé)
 \nt <dom="usage" langue="fra"> Un équivalent en langue na, sans recourir à un emprunt, consisterait à dire: |fv{mɤ˧-gv̩˧-ze˧!} «ça ne va pas!»
 \nt <dom="usage" langue="eng"> A close Na-language equivalent to express this uneasy feeling is |fv{mɤ˧-gv̩˧-ze˧!} “It's not going well! / I'm not OK!”
-\nt <dom="usage" langue="cmn"> 摩梭话可以用|fv{mɤ˧-gv̩˧-ze˧!}（‘不好了／不行了！’）这个说法来表达后悔这类情感。
+\nt <dom="usage" langue="cmn"> 摩梭语可以用|fv{mɤ˧-gv̩˧-ze˧!}（‘不好了／不行了！’）这个说法来表达后悔这类情感。
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
@@ -22117,7 +22119,7 @@
 \nt <type="hist" print="n" langue="fra"> Vérifié: l'initiale de la deuxième syllabe est vélaire et non uvulaire.
 \nt <dom="phono" langue="fra"> Il est confirmé que la syllabe est /|fv{hwɑ}/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois récents de rime -ua (|fn{话}, |fn{花}, |fn{化}...), -uan, -uang. Autrement dit, cette rime fait partie du système synchronique employé pour prononcer les mots chinois. On aurait attendu /|fv{hwæ}/ ou /|fv{hwɤ}/, si le mot se conformait à la phonotactique du na.
 \nt <dom="phono" langue="eng"> It is clearly established that the syllable is /|fv{hwɑ}/, with a vowel that is not attested in Na, but is specific to recent Chinese loans ending in -ua (|fn{话}, |fn{花}, |fn{化}...), -uan and -uang. Put another way, this rhyme is part of the synchronic system used to pronounce Chinese words. If the word conformed to Na phonotactics, one would have expected /|fv{hwæ}/ or /|fv{hwɤ}/.
-\nt <dom="phono" langue="cmn"> 可以确定该音节是/|fv{hwɑ}/，其韵母在摩梭话中仅出现在近期汉语借词里（-ua韵母的词，如‘话’、‘花’、‘化’等等，还有-uan和-uang韵母）。换句话说，这个韵母是共时汉语发音系统的一个组成部分。如果该词符合摩梭话音系，就会发作/|fv{hwæ}/或/|fv{hwɤ}/。
+\nt <dom="phono" langue="cmn"> 可以确定该音节是/|fv{hwɑ}/，其韵母在摩梭语中仅出现在近期汉语借词里（-ua韵母的词，如‘话’、‘花’、‘化’等等，还有-uan和-uang韵母）。换句话说，这个韵母是共时汉语发音系统的一个组成部分。如果该词符合摩梭语音系，就会发作/|fv{hwæ}/或/|fv{hwɤ}/。
 \ton LM
 \so F4
 \pdv ɭɯ˧β
@@ -22658,7 +22660,7 @@
 \nt <type="hist" print="n" langue="fra"> Jusqu'en 2022, l'expression était comprise comme ‘Année du Chat', d'après le mot /hwɤ˧li˧˥/ ‘chat'. L'erreur était favorisée par le fait qu'au Vietnam, le Chat est l'un des douze signes du cycle duodénaire. J'aurais dû relever que dans le cycle vietnamien, le Chat remplace le Lièvre et non le Rat. Li Zihe signale (dans un exposé de colloque en 2022) qu'il pourrait s'agir d'une racine homophone ‘rat', perdue par la suite et conservée seulement dans le nom du signe duodénaire. Telle est l'hypothèse adoptée ici.
 \nt <dom="ton" langue="fra"> Le schéma tonal de l'expression ‘année du Rat' est différent de celui des autres expressions disyllabiques désignant des années du cycle duodénaire. On peut en déduire que le ton du nom monosyllabique ‘rat' (non conservé dans la langue contemporaine, remplacé par un emprunt au chinois) n'était ni #H (ton de ‘cheval', ‘boeuf', ‘chien'), ni M (ton de ‘tigre'), ni LM (ton de ‘poulet', ‘porc'), ni LH (ton de ‘singe'), ni L (ton de ‘mouton'. Il s'agissait donc vraisemblablement d'un ton MH. Cette analyse est confirmée par la prononciation du monosyllabe dans la liste des animaux du cycle.
 \nt <dom="ton" langue="eng"> The tonal pattern of the phrase ‘Year of the Rat' is different from that of other disyllabic expressions designating years in the duodenial cycle. We can conclude from this that the tone of the monosyllabic noun ‘rat' (not preserved in the contemporary language, where it is replaced by a borrowing from Chinese) was neither #H (tone of ‘horse', ‘ox', ‘dog'), nor M (tone of ‘tiger'), nor LM (tone of ‘chicken' and ‘pig'), nor LH (tone of ‘monkey'), nor L (tone of ‘sheep'). It was therefore probably an MH tone. This analysis is confirmed by the pronunciation of the monosyllable in the list of animals in the cycle.
-\nt <dom="ton" langue="cmn"> ‘鼠年’的声调不同于其他表示十二个生肖的双音节名词。由此可以推断，单音节名词‘鼠’（现代摩梭话中没有保留，被汉语借词所代替）的声调既不是#H（‘马’、‘牛’、‘狗’的声调），也不是M（‘虎’的声调）、LM（‘鸡’、‘猪’的声调）、LH（‘猴’"的声调）或L（‘羊’的声调）。因此，它应该是一个MH调名词。这一分析在循环动物列表中的单音节发音中得到了证实。
+\nt <dom="ton" langue="cmn"> ‘鼠年’的声调不同于其他表示十二个生肖的双音节名词。由此可以推断，单音节名词‘鼠’（现代摩梭语中没有保留，被汉语借词所代替）的声调既不是#H（‘马’、‘牛’、‘狗’的声调），也不是M（‘虎’的声调）、LM（‘鸡’、‘猪’的声调）、LH（‘猴’"的声调）或L（‘羊’的声调）。因此，它应该是一个MH调名词。这一分析在循环动物列表中的单音节发音中得到了证实。
 \ton -H#
 \so F4
 \va <speaker="F5"> ID.
@@ -23132,7 +23134,7 @@
 \nt <type="hist" print="n" langue="fra"> corrigé en 2024: auparavant noté avec une voyelle /e/, /je˩tʰi˧/.
 \nt <dom="ton" langue="fra"> Le comportement tonal de cet emprunt ne présente pas une complète cohérence. Pour un ton LH, on s'attendrait à un schéma tonal L.H.L pour l'expression ‘casserole émaillée’ et pour l'expression ‘fabriqué en émail’, /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/, mais c'est L.M.M qui est observé. À l'inverse, si le ton était LM, on s'attendrait à un schéma L.M.M.M pour ‘assiette émaillée', qui porte en réalité une séquence L.H.L.L: /|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/. L'interprétation proposée est que le ton des emprunts encore perçus comme tels est moins stable que celle du vocabulaire plus anciennement établi (et perçu comme appartenant à la langue na). Parmi les autres exemples de ce phénomène figure l'emprunt chinois pour ‘toile cirée'.
 \nt <dom="ton" langue="eng"> The tonal behaviour of this loan is not fully consistent. For an LH tone, we would expect an L.H.L tonal pattern for the phrase ‘enamelled saucepan', as well as for the phrase 'made of enamel', /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/, but the observed pattern is L.M.M. Conversely, if the tone were LM, we would expect an L.M.M.M pattern for ‘enamelled plate', which actually carries an L.H.L.L sequence: /|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/. The proposed interpretation is that the tone of borrowings still perceived as such is less stable than that of fully established vocabulary (perceived as belonging to the Moso language). Other examples of this phenomenon include the Chinese borrowing for ‘oilcloth'.
-\nt <dom="ton" langue="cmn"> 这种借词的声调表现并不完全一致。假如本调是LH，那么‘搪瓷锅’和‘搪瓷做的’这两个短语应该是L.H.L调式，即 /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/，但实际情况却是L.M.M.M。相反，如果声调是LM，‘搪瓷盘’的声调会是L.M.M.M，但实际上‘搪瓷盘’的声调是L.H.L.L：/|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/。所提出的解释是，仍被视为汉语词汇（借词）的词语在声调方面没有更早的词汇（被视为属于摩梭话）那么稳定。这种现象的其他例子包括汉语借词‘油布’。
+\nt <dom="ton" langue="cmn"> 这种借词的声调表现并不完全一致。假如本调是LH，那么‘搪瓷锅’和‘搪瓷做的’这两个短语应该是L.H.L调式，即 /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/，但实际情况却是L.M.M.M。相反，如果声调是LM，‘搪瓷盘’的声调会是L.M.M.M，但实际上‘搪瓷盘’的声调是L.H.L.L：/|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/。所提出的解释是，仍被视为汉语词汇（借词）的词语在声调方面没有更早的词汇（被视为属于摩梭语）那么稳定。这种现象的其他例子包括汉语借词‘油布’。
 \ton LH
 \so F4
 \de Enamel: found in enamel plates, for instance. Literally ‘Westerners' iron'.
@@ -23456,7 +23458,7 @@
 \gf parler
 \xv nɑ˩-ʐwɤ˥ ʝi˩
 \xe to speak the Na language, to speak in Na
-\xn 讲摩梭话
+\xn 讲摩梭语
 \xf parler la langue na, parler en na
 \xv ʈʰɯ˧ | bɤ˧-ʐwɤ˧ ʝi˥-dʑo˩!
 \xe She is speaking Pumi!
@@ -27658,7 +27660,7 @@
 \lc kʰu˧mi˩
 \nt <dom="phono" langue="fra"> La syllabe /|fv{kʰu}/ n'existe pas en na, seulement dans la prononciation des mots mandarins.
 \nt <dom="phono" langue="eng"> The syllable /|fv{kʰu}/ does not exist in words of the Na stock, only in the pronunciation of Mandarin words.
-\nt <dom="phono" langue="cmn"> /|fv{kʰu}/音节不存在于摩梭话中，只存在于普通话借词的发音中。
+\nt <dom="phono" langue="cmn"> /|fv{kʰu}/音节不存在于摩梭语中，只存在于普通话借词的发音中。
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#
@@ -29371,7 +29373,7 @@
 \pdv nɑ˧α
 \de Scraper-plank: a tool for levelling dirt roads. In Na, this term, borrowed from the Chinese |fn{刮板} ‘scraper’ (which today refers more to a plasterer's knife), designates a plank of wood that was pulled with ropes to level the ground, for example to smoothe out a dirt road, at a time when tractors and steamrollers were not available.
 \ge 刮板::scraper_plank
-\dn “刮板”：平整土路的工具。在摩梭话中，向汉语借来的“刮板”这个词指的是用绳索拉动的木板，用来平整土地，例如平整土路（当时还没有拖拉机和压路机）。
+\dn “刮板”：平整土路的工具。在摩梭语中，向汉语借来的“刮板”这个词指的是用绳索拉动的木板，用来平整土地，例如平整土路（当时还没有拖拉机和压路机）。
 \gn “刮板”
 \df Planche-racloir: en na, ce terme emprunté du chinois ‘râcloir’ (qui aujourd'hui désigne plutôt le couteau de plâtrier), désigne une planche de bois que l'on tirait avec des cordes de façon à niveler le terrain, par exemple pour égaliser une route de terre, à une époque où on ne disposait pas de tracteur ni de rouleau compresseur.
 \gf 刮板::planche-racloir
@@ -29685,7 +29687,7 @@
 \sd <langue="eng"> verb
 \nt <dom="ety" langue="fra"> Le mot chinois |fn{管} est emprunté avec ton moyen et voyelle |fv{æ}. La présente entrée pourrait constituer un emprunt plus ancien du même mot. Mais il n'est pas évident qu'il s'agisse d'un emprunt.
 \nt <dom="ety" langue="eng"> The Chinese word |fn{管} is borrowed with middle tone and vowel |fv{æ}. This entry could be an earlier borrowing of the same word, but it is not altogether clear that it is a borrowing.
-\nt <dom="ety" langue="cmn"> ‘管’这个近期借词在摩梭话中有|fv{æ}韵母与中调（Ｍ）。|fv{kwɤ˩}这个词条可能也是从汉语的‘管’借来的，属于更早的一层借词。目前为止，尚未确定是否是一个借词。
+\nt <dom="ety" langue="cmn"> ‘管’这个近期借词在摩梭语中有|fv{æ}韵母与中调（Ｍ）。|fv{kwɤ˩}这个词条可能也是从汉语的‘管’借来的，属于更早的一层借词。目前为止，尚未确定是否是一个借词。
 \ton Lα
 \lc kwɤ˩˥
 \sy kwæ˧
@@ -36719,7 +36721,7 @@
 \xf «Latami», c'est notre nom de famille!
 \xv hĩ˧ ʂɯ˧ ɖɯ˧-mv̩˥, | hĩ˧ qæ˩ tsʰe˩-mv̩˩!
 \xe “Death is the same for everyone, but not the funeral!” Literally: “A person's death only has one name (= there is only one kind); [whereas] there are ten possible names for a cremation ceremony (=there are various kinds, more or less sumptuous)!” This proverb underlines the emphasis that Na society places on a cremation ritual with due pomp and ceremony, where nothing is missing, and which will be remembered. If the funeral is organized on the cheap, without a large turnout of monks, and without extensive attendance of people from the surrounding villages, it is interpreted as a sign that the family is scraping by and not taking care to cultivate its social ties as it should (within the clan and beyond).
-\xn “人死都是一样，办事不一样！”、“人死都是一样，但葬礼不一样！”字面意思是“一个人的死亡只有一个名字（=只有一种）；[而]火葬仪式有十种可能的名字（=有各种各样的）”。这句谚语反映了摩梭话社会对火葬仪式的重视，火葬仪式要隆重（举行厚葬），不能有任何遗漏。要让人铭记在心。火葬要请大批僧侣，要有周围村庄很多人参加，否则人家会认为该家庭勉强度日，没有注意培养应有的社会关系。
+\xn “人死都是一样，办事不一样！”、“人死都是一样，但葬礼不一样！”字面意思是“一个人的死亡只有一个名字（=只有一种）；[而]火葬仪式有十种可能的名字（=有各种各样的）”。这句谚语反映了摩梭语社会对火葬仪式的重视，火葬仪式要隆重（举行厚葬），不能有任何遗漏。要让人铭记在心。火葬要请大批僧侣，要有周围村庄很多人参加，否则人家会认为该家庭勉强度日，没有注意培养应有的社会关系。
 \xf «La mort est la même pour tout le monde, mais pas les funérailles!» Littéralement: «La mort de quelqu'un, il n'y a qu'un nom (pour la désigner) = il n'y en a qu'une sorte; la cérémonie de crémation, il y a dix noms (pour la désigner) = il y en a diverses sortes (plus ou moins fastueuses)!» Ce proverbe souligne l'importance que la société accorde à une cérémonie de crémation en grande pompe, à laquelle rien ne manque, et qui reste dans les mémoires. Si la crémation se fait en relativement petit comité, sans y associer un nombre important de moines, et sans un grand concours de gens des villages environnants, c'est interprété comme un signe que la famille vivote vaille que vaille et ne prend pas soin de cultiver ses relations comme il se doit (au sein du clan et au-delà).
 \xc PROVERBE
 \xc <type="hist" print="n" langue="fra"> Vérifié en juin 2024: ce proverbe est bien à sa place dans l'entrée 'nom'. Tel est bien le terme employé deux fois dans le proverbe. /ɖɯ˧-mv̩˧/: on pourrait envisager de distinguer un sens 'renommée', 名气.
@@ -37116,7 +37118,7 @@
 \xf |fg{pfv}
 \xv ə˧tso˧ mv̩˩do˩-bi˩? |
 \xe What would [you] like to ask? / What is your question? (Context: the investigator turns towards his teacher (Ama), obviously wanting to ask a question, but he is tardy in expressing his request, experiencing trouble finding his words in Na. The teacher encourages him by asking, in Na: “What is it you want to ask? / What is your question?”
-\xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭话表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
+\xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭语表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
 \xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: “Qu'est-ce que tu vas demander? / Quelle est ta question?”)
 \xv mv̩˩do˩ zo˩-ɲi˥ mæ˩!
 \xe One should ask, of course! (Context: a discussion about awkward situations when someone is puzzled by someone else's behaviour, for instance when people with different language backgrounds and cultural backgrounds live alongside one another. The consultant says: “One should ask, of course!” The idea is that conversations dispell misunderstandings and allow for good mutual understanding.)
@@ -37312,7 +37314,7 @@
 \va <speaker="M21"> ID.
 \de Year of the Dragon. Literally ‘Year of Thunder’. The Narua (Moso) term for ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, is used to refer to the Chinese year of the Snake.
 \ge year_of_the_Dragon
-\dn 龙年。字面意思是‘雷年’。摩梭话的‘龙’，即/|fv{bv̩˧ʐv̩˧}/，用于指中国的蛇年。
+\dn 龙年。字面意思是‘雷年’。摩梭语的‘龙’，即/|fv{bv̩˧ʐv̩˧}/，用于指中国的蛇年。
 \gn 龙年
 \df Année du Dragon. Littéralement ‘Année du tonnerre’. Le terme moso ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, est employé pour désigner l'année chinoise du Serpent.
 \gf année_du_Dragon
@@ -39427,8 +39429,8 @@
 \so F4
 \de Autonym of the language: the Na language.
 \ge Na_language
-\dn 本语言：摩梭话（纳语）
-\gn 摩梭话
+\dn 本语言：摩梭语（纳语）
+\gn 摩梭语
 \df Langue na: endonyme de la langue na.
 \gf langue_na
 \dt 25/Apr/2017
@@ -41682,7 +41684,7 @@
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡njɤ˩ɬi˩gv̩˩, par erreur: 2e syll. d'abord notée ‡ɬi, en précisant “tend à s'amollir en: li - le"; corrigé en 2011 en: /le/
 \nt <dom="phono" langue="fra"> La structure morphémique de ce mot est perçue par la co-autrice comme ‘la journée s'écoule/se déroule' : ‘jour', /|fv{ɲi˥}/, suivi de l'|fg{accompli} et du verbe ‘s'écouler, passer; avoir lieu'. Selon cette interprétation tout à fait plausible, le processus de lexicalisation, menant d'une expression comportant trois morphèmes à un élément lexical unique, est allé de pair avec un changement de voyelle dans la première syllabe, cédant à la pression phonétique vers une harmonie vocalique régressive (tendance clairement à l'œuvre dans la langue).
 \nt <dom="phono" langue="eng"> The morphemic structure of this word is perceived by consultant F4 as ‘the day is flowing/going by’: ‘day’, /|fv{ɲi˥}/, followed by the |fg{accomplished} and by ‘to flow, to go by; to take place, to occur (event)’. Under this plausible interpretation, the process of lexicalization of a multi-word expression (a three-morpheme expression) into one lexical item went together with a change in vowel in the first syllable, yielding to phonetic pressure towards regressive vowel harmony (a tendency clearly at play in the language).
-\nt <dom="phono" langue="cmn"> 标准发音合作者认为这个词的语素结构是‘日在流淌/流逝’：‘日’/|fv{ɲi˥}/后面加动词‘过、发生’（实施体）。根据这种解释，三个语素组成的‘白天’，在词汇化过程中发生过元音和谐，导致第一个音节元音的变化，屈服于元音和谐（这显然是摩梭话中的一种明显语音趋势）。
+\nt <dom="phono" langue="cmn"> 标准发音合作者认为这个词的语素结构是‘日在流淌/流逝’：‘日’/|fv{ɲi˥}/后面加动词‘过、发生’（实施体）。根据这种解释，三个语素组成的‘白天’，在词汇化过程中发生过元音和谐，导致第一个音节元音的变化，屈服于元音和谐（这显然是摩梭语中的一种明显语音趋势）。
 \ton #H
 \lc njɤ˧le˧gv̩˧
 \cf mv̩˩si˧-njɤ˧˥
@@ -43669,7 +43671,7 @@
 \xf Cultiver un champ.
 \xc <langue="fra" dom="usage"> Équivalent en langue na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘faire les semailles’.
 \xc <langue="eng" dom="usage"> Equivalent in Na: |fv{bæ˩dʑɯ˥ tv̩˩}, ‘sowing the seeds’.
-\xc <langue="cmn" dom="usage"> 对应的摩梭话：|fv{bæ˩dʑɯ˥ tv̩˩}。
+\xc <langue="cmn" dom="usage"> 对应的摩梭语：|fv{bæ˩dʑɯ˥ tv̩˩}。
 
 \lx pæ˧˥
 \hm 2
@@ -45379,7 +45381,7 @@
 \sd <langue="eng"> food
 \nt <dom="phono" langue="fra"> Le mot est perçu comme un mot na, plutôt que comme un emprunt. La variabilité de la réalisation de la voyelle de sa première syllabe, qui se rapproche de [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggère pourtant qu'il pourrait s'agir d'un emprunt, encore imparfaitement intégré au système vocalique.
 \nt <dom="phono" langue="eng"> The word is perceived as a Na word, rather than a borrowed word. The variability in the realization of the vowel of its first syllable, which is close to [|fv{o}] ([|fv{pʰo˧˥fv̩˧}]), suggests, however, that it could be a loan, still imperfectly integrated into the vowel system.
-\nt <dom="phono" langue="cmn"> 主合作人认为这是摩梭话古有词，而不是汉语借词。但该词第一个音节的元音接近于[|fv{o}]（[|fv{pʰo˧˥fv̩˧}]），其变音情况表明可能还是一个借词，尚未完全融入元音系统。
+\nt <dom="phono" langue="cmn"> 主合作人认为这是摩梭语古有词，而不是汉语借词。但该词第一个音节的元音接近于[|fv{o}]（[|fv{pʰo˧˥fv̩˧}]），其变音情况表明可能还是一个借词，尚未完全融入元音系统。
 \ton L#
 \lc pʰɤ˧fv̩˩
 \so F4
@@ -53692,6 +53694,9 @@
 \df Entrer en collision (deux véhicules entrent en collision, ils ont un accident).
 \gf entrer_en_collision
 \xv le˧-ʁo˥pv̩˩-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}: have collided, have run into each other
+\xn 实施 〜 整体体：碰撞了
+\xf |fg{accomp} 〜 |fg{pfv}: sont entrés en collision
 \xc PHONO
 
 \lx ʁo˧tʰo˩
@@ -54563,7 +54568,7 @@
 \so F4
 \de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
 \ge Wualabbi
-\dn 老温泉（永宁的一个村落）。摩梭话音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
+\dn 老温泉（永宁的一个村落）。摩梭语音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
 \gn 瓦拉比村
 \df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi.
 \gf Wualabbi
@@ -54903,6 +54908,9 @@
 \xn 他不幸福，一直在讲自己怎么可怜！
 \xf Il est malheureux; il passe son temps à se plaindre!
 \xv le˧-ɻ̩̃˥ | le˧-ʂɯ˧-ho˩!
+\xe He's so unhappy he could die! / He's miserable as hell!
+\xn 他困难地都要死了！/ 他惨得要命！
+\xf Il est malheureux à en mourir!
 
 \lx ɻ̩˩
 \or er
@@ -55748,7 +55756,7 @@
 \so F4
 \de Brown sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to brown sugar, not to sugar powder (in fact, brown sugar used to come as blocks, not as powder).
 \ge red_sugar
-\dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭话的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
+\dn 红糖。由相对早的汉语借加摩梭词组成的：汉语的‘砂糖’加上摩梭语的‘糖’。要注意这个词来指红糖，而不来指砂糖：借来的成分已经融化到摩梭词汇了。
 \gn 红糖
 \df Sucre roux, sucre intégral, suc de canne séché. Emprunt ancien au chinois: au mot chinois pour ‘sucre en poudre’ est ajouté le mot na pour ‘sucre’, et l'ensemble désigne spécifiquement le sucre intégral, qui se présentait sous forme de blocs (pains de sucre), et non sous forme de poudre.
 \gf 红糖::sucre_roux
@@ -59189,6 +59197,8 @@
 \df Sikee: le rituel réalisé lors du décès d'une femme qui a quitté la maison de sa mère pour se marier.
 \gf nom_d_un_rituel
 \xv sɯ˧kʰɯ˩ hĩ˩: | ɖɯ˧-ʑi˩.
+\xe The people who come together for the sikee ritual are a family. / The people who come together for the sikee ritual are the whole family.
+\xn 参加‘斯克’仪式的人是一家人。/参加‘斯克’仪式的人就是整个家庭。
 \xf Les gens qui se rassemblent à l'occasion du rituel sikee, ils constituent une famille. / Les gens qui se rassemblent à l'occasion du rituel sikee, c'est la famille entière.
 
 \lx ʂɯ˩kwæ˩ɻæ˥
@@ -63668,7 +63678,7 @@
 \pdv v̩˧
 \de Wife of mother's brother. The word consists of a Chinese borrowing, |fn{舅} ‘maternal uncle', to which is added the Na word for ‘woman'.
 \ge wife_of_mother_s_brother
-\dn 舅妈（舅：汉语借词，妈：摩梭话“女人”）
+\dn 舅妈（舅：汉语借词，妈：摩梭语“女人”）
 \gn 舅妈
 \df Épouse d'un frère de la mère. Constitué d'un emprunt chinois, |fn{舅} ‘oncle maternel', et d'un mot na: ‘femme, personne de sexe féminin'.
 \gf femme_d_un_frere_de_la_mère
@@ -66078,6 +66088,7 @@
 \xv le˧-ku˧tɕʰi˧-ze˥!
 \xe It has reached expiry date, it has become unsuitable for consumption.
 \xn 过期了！
+\xf C'est périmé, ça a atteint la date de péremption.
 
 \lx tʰo˧ɕi˧˥
 \or toxi
@@ -66520,7 +66531,7 @@
 \gf pour_commencer
 \xv ʁo˧dɑ˧ | to˩pv̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
 \xe Before, at first, (your) learning (Mosuo) was a little slow. (Now,) it is really getting a bit faster! You know some (Mosuo, and so) it gets faster!
-\xn 以前，最初的时候，（你）学习（摩梭话）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭话），所以快起来了！
+\xn 以前，最初的时候，（你）学习（摩梭语）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭语），所以快起来了！
 \xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue), (le travail de transcription) va plus vite!' (Commentaire de F4 en 2017, au sujet des progrès dans le travail de transcription de textes.)
 
 \lx tʰo˩pʰv̩˧tɕʰɤ˧
@@ -67634,6 +67645,7 @@
 \xf sucre en poudre
 \xv tsɑ˧bɤ˧ mɤ˩
 \xe to eat dry flour (made of grilled barley)
+\xn 吃干面糌粑（直接食用未加液体的糌粑粉）
 \xf manger du tsamba sec
 \xv tsɑ˧bɤ˧ gv̩˩
 \xe to cook tsamba (grilled flour)
@@ -67969,7 +67981,7 @@
 \pdv po˧
 \de Chinese cabbage. This is a calque from the Chinese ‘white vegetable', using the Chinese word for ‘vegetable' in association with the Na word for ‘white'.
 \ge Chinese_cabbage
-\dn 白菜（借汉语‘白菜’的第二个音节来充当这个名词的第一个音节：按摩梭话句法，形容词在名词后面，跟汉语相反）
+\dn 白菜（借汉语‘白菜’的第二个音节来充当这个名词的第一个音节：按摩梭语句法，形容词在名词后面，跟汉语相反）
 \gn 白菜
 \df Chou chinois. Il s'agit d'un calque du chinois ‘légume blanc', employant le nom chinois pour ‘légume' associé à l'adjectif na pour ‘blanc'.
 \gf chou_chinois
@@ -70357,8 +70369,9 @@
 \xn 同上
 \xf même sens
 \xv mɤ˧-tsɤ˧-ze˧! | tʰɑ˧-ʐwɤ˩-tso˩ ɲi˩ mæ˩!
-\xe Aïe, aïe, aïe, je regrette / j'ai fait erreur / j'ai fait une bêtise! C'est quelque chose que je n'aurais pas dû dire! (Contexte: quelqu'un s'est emporté pendant une conversation; plus tard, la colère fait place à des regrets. Cette formule, |fv{mɤ˧-tsɤ˧-ze˧}, est le plus proche équivalent proposé par F4 en langue na pour dire le regret sans employer le mot chinois.)
-\dt 07/Oct/2015
+\xe Ow, ow, ow, I feel regret / I made a mistake / I did something stupid! That's something I shouldn't have said! (Context: someone has lost their temper during a conversation; later, anger gives way to regret. This formula, |fv{mɤ˧-tsɤ˧-ze˧}, is the closest equivalent proposed by F4 in the Na language to express regret without using the Chinese word |fn{后悔}.)
+\xn 嗷，嗷，嗷，我后悔/我犯了个错误/我做了件蠢事！这是我不该说的话！(情景：某人在谈话中发脾气；后来，愤怒过去后，那个人就后悔。这个说法，|fv{mɤ˧-tsɤ˧-ze˧}，直译：‘不好了’，是在不使用汉语借此‘后悔’的情况下，在摩梭语中最接近‘后悔’的说法。）
+\xf Aïe, aïe, aïe, je regrette / j'ai fait erreur / j'ai fait une bêtise! C'est quelque chose que je n'aurais pas dû dire! (Contexte: quelqu'un s'est emporté pendant une conversation; plus tard, la colère fait place à des regrets. Cette formule, |fv{mɤ˧-tsɤ˧-ze˧}, est le plus proche équivalent proposé par F4 en langue na pour dire le regret sans employer le mot chinois |fn{后悔}.)
 
 \lx tsɤ˧
 \sf <nb="B"> 914
@@ -75313,7 +75326,9 @@
 \xn 实施 〜 整体体：插秧了
 \xf |fg{accomp} 〜 |fg{pfv}
 \xv le˧-tv̩˥~tv̩˩-ze˩
-\xf |fg{red}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn 实施 〜 重叠 整体体：插秧了
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xc PHONO
 \xv bæ˩dʑɯ˥ | tv̩˧-bi˩-zo˩-ho˩!
 \xe It's going to be time to plant crops!
@@ -80829,7 +80844,7 @@
 \gf |fg{adversatif}
 \xv ʈʂʰɯ˧ | nɑ˩ ɲi˥-pi˩-bi˩-bi˩, | nɑ˩-ʐwɤ˥ | mɤ˧-kv̩˧˥!
 \xe Although (s)he is Na, (s)he cannot speak the Na language!
-\xn 他虽然是摩梭人但不会讲摩梭话。
+\xn 他虽然是摩梭人但不会讲摩梭语。
 \xf Bien qu'elle/il soit Na, elle/il ne sait pas parler la langue na!
 \xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩, … / ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩-bi˩
 \xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na…'
@@ -80898,7 +80913,7 @@
 \rf F5
 \xv dʑɯ˩tsʰi˩-kʰɯ˥-di˩
 \xe Periphrase: ‘container for hot water’. This was applied to a glass beer mug, in which tea was offered to the visitor during work sessions. Its capacity (around 25 centilitres) was considerably greater than that of the small glasses used by the Na to serve alcohol. There is no close equivalent in Na: the closest in terms of capacity would be ‘bowl’, but the object was clearly not shaped like a bowl, hence the use of this periphrase.
-\xn 短语：“盛热水的容器”。指的是一个玻璃啤酒杯，大小相当于一个大杯子，在工作期间用来给来访者倒茶。它的容量比摩梭人用来盛酒的小杯子大得多。摩梭话中没有与之相近的词语：就容量而言，最接近的词语是 “碗”，但该器物的形状显然不像碗，因此使用了这个词组。
+\xn 短语：“盛热水的容器”。指的是一个玻璃啤酒杯，大小相当于一个大杯子，在工作期间用来给来访者倒茶。它的容量比摩梭人用来盛酒的小杯子大得多。摩梭语中没有与之相近的词语：就容量而言，最接近的词语是 “碗”，但该器物的形状显然不像碗，因此使用了这个词组。
 \xf Périphrase: «récipient pour eau chaude». Elle était appliquée à une chope à bière en verre, de la taille d'un grand mug, dans lequel on offrait du thé au visiteur pendant les séances de travail. Sa contenance (environ 25 centilitres) était nettement plus grande que celle des petits verres utilisés chez les Na pour servir de l'alcool. Il n'existe pas d'équivalent proche en na: le plus proche en termes de contenance serait ‘bol’, mais l'objet n'avait manifestement pas la forme d'un bol, d'où l'emploi de cette périphrase.
 
 \lx †dze˩˧
@@ -81195,7 +81210,7 @@
 \xf idem+|fg{futur immédiat}
 \xv ə˧mɑ˧-ɳɯ˧ | njɤ˧-ki˧ | nɑ˩-ʐwɤ˧ so˩!
 \xe Ama teaches me the Na language!
-\xn 阿妈教我摩梭话！
+\xn 阿妈教我摩梭语！
 \xf Ama m'enseigne la langue na!
 \xv no˧ | njɤ˧-ki˧ so˥.
 \xe You teach me.

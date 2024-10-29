@@ -37,7 +37,7 @@ def find_va_in_sn_above_1_within_lx(file_path):
 
     return results
 
-# Path to the uploaded file
+# Path to the source file
 file_path = 'na.lex'
 
 # Run the function and store the results
