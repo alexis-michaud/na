@@ -9073,6 +9073,8 @@
 \ton H
 \so F4
 \va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ɻ̩̃
 \sn 1
 \de Bad, mean (action), inferior.
 \ge bad
@@ -9101,9 +9103,7 @@
 \xn （工作）差
 \xf bâclé, mal fait (travail)
 \sn 2
-\va <speaker="M21"> dzɑ˥
 \vc <type="hist" print="n" langue="fra"> ton 2
-\va <speaker="M23"> ɻ̩̃
 \vc <type="hist" print="n" langue="fra"> homophone de “os"
 \de Poor (person).
 \ge poor
@@ -10948,8 +10948,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (notes avant 2009: “le˧ɖʐɤ˩˥, ton 4") (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté “le˥ɖʐɤ˩ɖʐɤ˩, tv") (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To snap, to cut (thread); to smash; to destroy (a building).
 \ge to_snap/to_smash
 \dn 拆（线），拔，捣碎
@@ -10968,7 +10966,6 @@
 \xe to tear into two pieces
 \xn 拆成两半
 \xf déchirer en deux morceaux
-\dt 24/Apr/2017
 
 \lx ɖʐɤ˧˥
 \sf <nb="B"> 1499
@@ -16834,10 +16831,6 @@
 \sn 2
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de A side; a direction.
 \ge |fg{clf}.sides
 \dn 量词：一面（房屋的一面）
@@ -28121,6 +28114,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
+\vc <langue="fra" print="n"> Le locuteur utilise |fv{kʰv̩˧ɭɯ˥} pour |fn{生肖}.
 \va <speaker="M21"> ID.
 \de Year; year of age.
 \ge year
@@ -28148,10 +28142,6 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\vc <langue="fra" print="n"> kʰv̩˧ɭɯ˥ pour 生肖
-\va <speaker="M21"> ID.
 \de Astrological sign.
 \ge astrological_sign
 \dn 生肖
@@ -36330,6 +36320,7 @@
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> Le terme ne s'emploie pas en tournure positive: |fv{/†ni.ni/} ‘identique'; on dit alors: |fv{/ɖɯ˧-bæ˧/} ‘une seule et même chose'
 \so F4
+\va <speaker="M21"> *
 \de Different from, not identical with.
 \ge different
 \dn 不一样、有区别
@@ -36344,8 +36335,6 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> Le terme ne s'emploie pas en tournure positive: |fv{/†ni.ni/} ‘identique'; on dit alors: |fv{/ɖɯ˧-bæ˧/} ‘une seule et même chose'
-\so F4
-\va <speaker="M21"> *
 \vc <langue="fra" print="n"> noté: /ɖʐɯ˧ bæ˧ tsɤ˧/
 \de Incredible, extraordinary, astounding.
 \ge astounding
@@ -38989,9 +38978,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tʰi˧ ɳæ˧ ze˥); appuyer vers le bas: mv̩˩tɕu˧ tʰi˧ɳæ˧˥, mv̩˩tɕu˧ɳæ˧˥ (avant janvier 2011, noté: ‡le˧-ɳæ˧~ɳæ˩; la descente graduelle par laquelle se réalise la séquence ˧ ˩ ˩ était interprétée comme ‡˧ ˧ ˩.)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To oppress, to overwhelm, to crush with authority, to impose by violence.
 \ge to_oppress
 \dn 压迫、压倒、用权威压垮、用暴力强加。
@@ -40031,10 +40017,6 @@
 \sn 2
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de Day; daytime; time.
 \ge day/time
 \dn 日、时间
@@ -42500,15 +42482,15 @@
 \ps v
 \ton H
 \lc ɳv̩˧
-\sn 1
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (confirmé: initiale ɳ, rétroflexe) (d'abord noté ɳv, puis corrigé en ɳɻ en 2007, convaincu que ce n'était pas /v/, ni une autre rime connue telle que /wɑ/; bilan en 2008: analysé comme rime /v/, la forte rétroflexion de l'ensemble de la syllabe étant interprétée comme provenant de l'initiale; un argument phonétique: l'ouverture/centralisation en fin de rime, qui rappelle le comportement de /v/ dans divers contextes, où cette rime s'ouvre vers schwa) (Roselle Dobbs: note: /ɳɻ/)
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (confirmé: initiale ɳ, rétroflexe) (d'abord noté ɳv, puis corrigé en ɳɻ en 2007, convaincu que ce n'était pas /v/, ni une autre rime connue telle que /wɑ/; bilan en 2008: analysé comme rime /v/, la forte rétroflexion de l'ensemble de la syllabe étant interprétée comme provenant de l'initiale; un argument phonétique: l'ouverture/centralisation en fin de rime, qui rappelle le comportement de /v/ dans divers contextes, où cette rime s'ouvre vers schwa) (Roselle Dobbs: note: /ɳɻ/)
 \de To sniff.
 \ge to_sniff
 \dn 闻嗅
@@ -42518,11 +42500,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To hear, to get to know (good news…).
 \ge to_get_to_know
 \dn 听到（消息）、风闻
@@ -43798,8 +43775,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="M21"> ID.
 \de To be linked, to have ties: e.g. the members of a family have ties.
 \ge to_be_linked
 \dn 有联系，有缘分，有深的关系
@@ -44065,10 +44040,6 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \pdv v̩˧
 \de Name of the first pillar in the main room, the one closest to the door (masculine pillar, the other one being feminine).
 \ge masculine_pillar
@@ -60213,9 +60184,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (lə˧ʂv̩˧ze˧; note-carnet, 11/2007: “songe à noter ˥˥˥; nouvelle incertitude entre ˧ ˧ ˧ et ˥ ˥ ˥"); avant 2011, noté: zo˧mv̩˥ ʂv̩˩; en 2011, nouvelle hésitation entre …ʂv̩˧ et …ʂv̩˩; bilan: est bien ʂv̩˩. (d'abord noté: /le˧ ʂv̩˧ tʰe˧ kʰɯ˧/, puis /le˧ ʂv̩˧ tʰi˧ kʰɯ˥/ et /le˧ ʂv̩˧ tʰe˧ kʰɯ˧ tʰæ˧ɣɯ˧ so˩/; corrigé en 2009)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To lead (the way).
 \ge to_lead
 \dn 带（路）
