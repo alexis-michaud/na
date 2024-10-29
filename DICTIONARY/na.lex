@@ -5606,8 +5606,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so F4
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To sow (seeds).
 \ge to_sow
 \dn 撒（种子）
@@ -8793,6 +8791,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so F4
+\va <speaker="F5"> ID.
 \va <speaker="M23"> tv̩˩
 \vc <type="hist" print="n" langue="fra"> ton 3
 \de To poison.
@@ -8813,9 +8812,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M23"> ID.
 \de To hate, to detest.
 \ge to_hate
 \dn 讨厌、恨
@@ -44926,6 +44922,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté …tʰi˧pu˩, par erreur: effet de l'intonation: fin d'énoncé)
 \so F4
+\va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \de To bring; to send (a letter), to deliver (a message).
 \ge to_bring/to_deliver
@@ -44955,9 +44952,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="phono" langue="fra" type="hist" print="n"> Note ancienne: /pu˧˥/, ton 4 “porter"
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To carry (a child), i.e. to be pregnant.
 \ge to_be_pregnant
 \dn 怀孕
@@ -45480,8 +45474,6 @@
 \sn 2
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\so F4
-\va <speaker="F5"> ID.
 \pdv jɤ˧˥
 \de Bread, cake (typically round and flat).
 \ge bread/cake
@@ -48097,10 +48089,6 @@
 \sn 2
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \pdv pɤ˥
 \de Flatulence, fart.
 \ge fart
@@ -50479,10 +50467,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To scoop (water).
 \ge to_scoop
 \dn 舀（水）
@@ -55410,8 +55394,6 @@
 \sn 2
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\so F4
-\va <speaker="M21"> ID.
 \pdv qʰwæ˧˥
 \pdc <langue="fra"> filaments avant le filage
 \de Hemp, |fi{Cannabis sativa}.
@@ -55548,8 +55530,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
 \de To wrap, to pack.
 \ge to_wrap
 \dn 包
@@ -55838,6 +55818,7 @@
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> vérifié: n'est pas /tsʰɯ/
 \so F4
+\va <speaker="M23"> sɑ˩tsʰɯ˩
 \pdv nɑ˧α
 \de Oar.
 \ge oar
@@ -55848,8 +55829,6 @@
 \sn 2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\so F4
-\va <speaker="M23"> sɑ˩tsʰɯ˩
 \pdv nɑ˧α
 \de Wooden instrument resembling an oar, used to stir pigswill.
 \ge instrument_to_stir_pigswill
@@ -60308,10 +60287,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To remember, to recollect, to recall.
 \ge to_remember
 \dn 想起、回忆
@@ -60329,10 +60304,6 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To miss, to long for; to feel sorrowful, sad, grieved.
 \ge to_miss
 \dn 想念、感到悲哀
@@ -61079,9 +61050,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To fit, to adjust, to match: e.g. when building a house, to pieces of carpentry fit each other exactly, and ‘bite' into each other to perfection.
 \ge to_fit
 \dn 对号、合适、相配：建房时，两块木材调剂地刚好合适，好像互相“咬紧”的样子
@@ -62498,9 +62466,6 @@
 \sd <langue="eng"> verb
 \comp <langue="pmi" print="n"> tæ̃35
 \nt <type="hist" print="n" dom="ton" langue="fra"> ton 3a
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To tie (a knot).
 \ge to_tie
 \dn 扣（扣子）、系、结
@@ -65629,10 +65594,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
 \de To hit, to strike lightly.
 \ge to_hit
 \dn 拍打
@@ -68087,8 +68048,6 @@
 \sn 2
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\so F4
-\va <speaker="M21"> *
 \vc <langue="fra" print="n"> emploie: /qʰv̩˧di˧˥/; /di˩u˧qʰv̩˩di˩/ “percuteur de la cartouche"
 \de Firing pin (of a gun).
 \ge firing pin
@@ -72362,10 +72321,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de To hang oneself.
 \ge to_hang_oneself
 \dn 上吊自杀、缢
@@ -75328,9 +75283,6 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (tons confirmés en 2009: tv̩˩tv̩˩ze˧) (confirmé: initiale non rétroflexe) (ton vérifié à nouveau en juillet 2012: n'est pas L+MH)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de Upright, righteous, honest.
 \ge righteous
 \dn 耿直
@@ -77848,10 +77800,6 @@
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" print="n" langue="fra"> (sens confirmé par M23 en 2009)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de The entire farmhouse, comprising the main house and the other buildings.
 \ge farmhouse
@@ -78274,10 +78222,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (le˧ʑi˧ze˧) (corrigé à tort avec M18 en 2006 en ton 3, par confusion avec le mot “amener") (mv̩˩tɕu˧ ʑi˧: tons vérifiés)
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M18"> ID.
-\va <speaker="M21"> ID.
 \de To flow (a river flows).
 \ge to_flow
 \dn 流（河水流着）
@@ -80759,8 +80703,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To gather (people).
 \ge to_gather
 \dn 聚集
