@@ -3534,7 +3534,6 @@
 \xn 卷线杆、拉线棒
 \xf Instrument pour filer le lin, autrement dit: quenouille (instrument en bois pour enrouler le fil, pour filer le chanvre).
 \sn 2
-\so F4
 \de To winnow.
 \ge to_winnow
 \dn 簸扬
@@ -10639,8 +10638,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To dwell, to live at a place.
 \ge to_dwell
 \dn 住
