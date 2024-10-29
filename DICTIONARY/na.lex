@@ -4863,7 +4863,7 @@
 
 \lx bɻ̩˧kʰɯ˧˥
 \sf <nb="2011"> 2753
-\or bbukee
+\or bbeukee
 \ps n
 \lc bɻ̩˧kʰɯ˧˥
 \sd <langue="fra"> animal
@@ -4948,7 +4948,7 @@
 \gf grande_étuve
 
 \lx bɻ̩˧-nɑ˥mi˩
-\or bbunami
+\or bbeunami
 \mr bɻ̩˥
 \ps n
 \lc bɻ̩˧nɑ˥mi˩
