@@ -2,6 +2,9 @@ Pour installer le logiciel :
 git clone https://gitlab.com/BenjaminGalliot/JLexika
 julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 
+(sans doute la même chose que : cloner, lancer julia avec juste --project, et faire ]instantiate )
+
+
 Mettre à jour TeX Live :
 https://tex.stackexchange.com/questions/540429/tlmgr-in-ubuntu-20-04-local-tex-live-2019-is-older-than-remote-repository-2
 virer la version en cours, installer entièrement en exécutant ligne par ligne ce qui est indiqué.
@@ -12,3 +15,13 @@ julia --project exécuter.jl exemples/na/configuration.yml --latex
 
 Juste pour compiler :
 TEXINPUTS="/home/pakazo/Lexika_container/JLexika/gabarits//:" BIBINPUTS="/home/pakazo/Lexika_container/JLexika/exemples/na" latexmk -f -lualatex -e '$hash_calc_ignore_pattern{"luc"} = "^";' -output-directory=/home/pakazo/Lexika_container/JLexika/exemples/na/résultats -synctex=1 -interaction=batchmode '/home/pakazo/Lexika_container/JLexika/exemples/na/na chinois.tex'
+
+exécution JLexika : julia --project exécuter.jl dictionnaires/na/configuration.yml --latex
+(sans PDF)
+julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf
+(avec PDF)
+Pour les 100 premières entrées seulement :
+julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf -t 100
+
+'--forcer' après la commande pour recompiler le PDF dans tous les cas.
+

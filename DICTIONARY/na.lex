@@ -12378,7 +12378,7 @@
 \sd <langue="eng"> animal
 \ton L+H#
 \so F4
-\va <speaker="M21" print="n"> périphrase: /hwæ˧tsɯ˥ zo˩/ “petite souris"
+\nt <dom="dialect" print="n" langue="fra"> M21 emploie une périphrase: /hwæ˧tsɯ˥ zo˩/ “petite souris"
 \de Shrew: the consultant uses a periphrasis: “wild mouse".
 \ge shrew
 \dn 尖鼠、鼩鼱
@@ -36914,7 +36914,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\va <speaker="M18" print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui sont des créations: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)…
+\va <speaker="M18"> ID.
+\vc <langue="fra" print="n"> M18 ajoute aussi des périphrases non reconnues par les autres locuteurs, qui semblent être des créations de son cru: /kʰɯ˧ bɤ˧/ pour la partie qui touche le sol, /kʰɯ˧ ʈʰæ˧/ pour le milieu de la plante du pied (qui, si elle est bien arquée, ne touche pas le sol)…
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ajoute aussi: mv̩˧bɤ˧ʈʰæ˧, non reconnu par M23
 \va <speaker="M23"> ID.
@@ -75024,8 +75025,7 @@
 \ton L#
 \lc tv̩˧po˩
 \so F4
-\va <speaker="M18" print="n"> ɖʐe˥to˧ʂv̩˥kʰɯ˧jɤ˩pu˥
-\va <speaker="M21" print="n"> ʂv̩˧kʰɯ˩, jɤ˩pu˧
+¨\nt <dom="dialect" print="n" langue="fra"> M18 propose /ɖʐe˥to˧ʂv̩˥kʰɯ˧jɤ˩pu˥/. M21 propose /ʂv̩˧kʰɯ˩/, /jɤ˩pu˧/.
 \de To gamble, to bet, to wager.
 \ge 赌博::to_gamble
 \dn 赌博
