@@ -3439,9 +3439,9 @@
 \df Lumineux.
 \gf lumineux
 \xv tʰi˧-bo˧-dʑo˧
-\xe It casts light / it is bright. (Definition of a lamp.)
-\xn （它）在发光。（描写灯）
-\xf Ça éclaire, c'est lumineux. (Définition d'une lampe.)
+\xe |fg{dur} 〜 |fg{prog}: it casts light / it is bright. (Definition of a lamp.)
+\xn 持续体 〜 进行式：（它）在发光。（描写灯）
+\xf |fg{dur} 〜 |fg{prog}: ça éclaire, c'est lumineux. (Définition d'une lampe.)
 \xv bo˧-hĩ˧
 \xe 〜 |fg{rel}
 \xn 发亮的、发光的
@@ -10756,9 +10756,9 @@
 \xf construire (ou réparer) un pont
 \xv njɤ˧ | dzo˩ gv̩˩-zo˩-ho˥.
 \xe I have to build (/repair) a bridge.
+\xn 我必须要建（/修）一座桥。
 \xf Il va falloir que je construise (/répare) un pont.
 \xc PHONO
-\dt 27/Aug/2015
 
 \lx dzo˩˧
 \sf <nb="B"> 1903
@@ -13615,10 +13615,9 @@
 \xn 开始着火了！
 \xf Le feu a pris!
 \xv tʰi˧-ɖʐv̩˧-dʑo˧!
-\xe The fire is burning!
-\xn 火在燃烧！
-\xf C'est en train de brûler! / Le feu est en train de brûler!
-\dt 27/Aug/2015
+\xe |fg{dur} 〜 |fg{prog}: [the fire] is burning!
+\xn 持续体 〜 进行式：火在燃烧！
+\xf |fg{dur} 〜 |fg{prog}: c'est en train de brûler! / le feu est en train de brûler!
 
 \lx ɖʐv̩˧
 \sf <nb="B"> 367
@@ -16312,7 +16311,7 @@
 \xf percer une ampoule à l'aide d'une aiguille
 \xv le˧-ʈʂe˩
 \xe |fg{accomp} 〜
-\xv 实施 〜
+\xn 实施 〜
 \xf |fg{accomp} 〜
 \xc PHONO
 \xv hĩ˧ ʈʂe˥
@@ -19631,7 +19630,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> Commentaire Roselle: ‘LL and I have the second initial as tʂʰ. So does SGM.' Vérifié en 2016 auprès de F4: est bien: /hæ̃˧ʂv̩˧pɤ˥/.
+\nt <type="hist" print="n" langue="fra"> Commentaire Roselle: ‘Liberty Lidz and I have the second initial as tʂʰ. So does SGM.' Vérifié en 2016 auprès de F4: est bien: /hæ̃˧ʂv̩˧pɤ˥/.
 \ton H#
 \lc hæ̃˧ʂv̩˧pɤ˥
 \so F4
@@ -21361,7 +21360,7 @@
 \xv ho˧tʰv̩˧ gv̩˩, | hæ˧ ɳɯ˧ | so˩˥! |
 \xe It's from the Chinese (Han) that we learnt to make ham! (The earlier recipe, for |fv{ʂe˧sɑ˩}, was slightly different.)
 \xn （怎么）做火腿，（我们）是向汉人学的！
-\dt 14/Jun/2017
+\xf Ce sont les Chinois (Han) qui nous ont appris à faire du jambon! (La recette antérieure pour la conservation de la viande des membres du cochon, |fv{ʂe˧sɑ˩}, était légèrement différente.)
 
 \lx ho˧zo#˥
 \or hosso
@@ -22301,6 +22300,8 @@
 \xn 关门吧！
 \xf Ferme la porte!
 \xv ʂe˧bæ˧ | le˧-wo˧-hwæ˥
+\xe to put the chain on the door (in the rare cases where all family members leave the house, the door is locked using an iron chain and a lock)
+\xn 将铁链锁在门上（在极少数情况下，所有家庭成员都离开家，就用铁链和锁将门锁上）
 \xf mettre la chaîne à la porte (quand on sort de la maison, on ferme la porte avec une chaîne de fer, et un verrou)
 \xv kʰi˧-bi˥ di˩-hĩ˩ ʂe˩bæ˩
 \xe the chain on the main door of the house, used to lock the door
@@ -24703,9 +24704,10 @@
 \xn 涂抹油
 \xf appliquer de la graisse (ex.: sur une peau sèche)
 \xv tʰi˧-jɤ˧˥
+\xe |fg{dur} 〜
+\xn 持续体 〜
 \xf |fg{dur} 〜
 \xc PHONO
-\dt 14/Jun/2017
 
 \lx jo˩β
 \sf <nb="B"> 866
@@ -25969,9 +25971,9 @@
 \xv tʰi˧-ki˩~ki˩
 \xe |fg{dur} 〜 |fg{red}
 \xn 持续体 〜+重叠
-\xe |fg{dur} 〜 |fg{red}
+\xf |fg{dur} 〜 |fg{red}
 \xc PHONO
-\xv tso˧~tso˧-ki˩
+\xv tso˧~tso˧ ki˩
 \xe to give things
 \xn 给东西
 \xf donner des choses
@@ -26001,7 +26003,6 @@
 \xe to feed, to give food
 \xn 喂饭
 \xf nourrir, donner à manger
-\dt 03/Sep/2015
 
 \lx ki˥α
 \or gi
@@ -30637,7 +30638,10 @@
 \xn 〜 +联想复数 +施动者
 \xf 〜 |fg{associatif + agent}
 \xc PHONO
-\xv <speaker="M18"> ‡lɑ˧tʰɑ˧mi˥=ɻ̩˩
+\xv ‡lɑ˧tʰɑ˧mi˥=ɻ̩˩
+\xe the Latami clan, the Latami family
+\xn 拉他咪家族
+\xf le clan Latami, la famille Latami
 \xc <langue="fra" dom="ton"> Le schéma tonal de ce locuteur consiste en une concaténation du nom |fv{/lɑ˧tʰɑ˧mi˥/} et du suffixe associatif pluriel. La catégorie tonale du nom est traitée comme s'il s'agissait d'un ton H fixe sur la dernière syllabe, alors que son ton est H$, un ton H qui s'associe à la dernière syllabe du mot phonologique.
 \xc <langue="eng" dom="ton"> The tonal pattern of this speaker consists of a concatenation of the noun |fv{/lɑ˧tʰɑ˧mi˥/} and the plural associative suffix. The tonal category of the noun is treated as if it were a fixed H tone on the last syllable, whereas its tone is H$, an H tone that associates with the last syllable of the phonological word.
 \xc <langue="cmn" dom="ton"> 该变体的声调模式由名词|fv{/lɑ˧tʰɑ˧mi˥/}和复数关联后缀组成。名词的声调类别被视为最后一个音节上的固定H调，而不是H$（与声调组的最后一个音节相关联的H调）。
@@ -30848,7 +30852,7 @@
 \xf Mettre de la farine grillée (tsampa) [dans le thé au beurre], et mélanger! (Indication culinaire.)
 \xv lɑ˧~lɑ˧-ze˩
 \xe 〜 |fg{red} |fg{pfv}
-\xe 〜 重叠 整体体
+\xn 〜 重叠 整体体
 \xf 〜 |fg{red} |fg{pfv}
 \xc PHONO
 
@@ -31430,11 +31434,11 @@
 \xv ɬi˧hĩ˧-zo#˥
 \xe man from Yongning, Na man
 \xn 永宁男人、永宁摩梭男人
-\xv homme de Yongning, homme na
+\xf homme de Yongning, homme na
 \xv ɬi˧hĩ˧-zo˧ ɲi˥!
 \xe He's a man from Yongning / a Na man!
 \xn 他是永宁男人！／他是永宁摩梭男人！
-\xv C'est un homme de Yongning / un Na!
+\xf C'est un homme de Yongning / un Na!
 
 \lx ɬi˧ki˥
 \or lhigi
@@ -31966,9 +31970,9 @@
 \df Regarder.
 \gf regarder
 \xv tʰi˧-li˧-dʑo˧
-\xe |fg{dur} 〜 |fg{prog}
-\xn 正在看
-\xf |fg{dur} 〜 |fg{prog}
+\xe |fg{dur} 〜 |fg{prog}: is watching
+\xn 持续体 〜 进行式：正在看
+\xf |fg{dur} 〜 |fg{prog}: est en train de regarder
 \xc PHONO
 \xv tso˧~tso˧ li˩
 \xe to look at things
@@ -33606,7 +33610,7 @@
 \xv lo˩ʈv̩˧=bv̩˧ | ɣɯ˩˥
 \xe “the skin of the fist”
 \xn “拳的皮肤”
-\xv «la peau du poing»
+\xf «la peau du poing»
 \xc PHONO
 \xc <dom="ton" langue="fra"> Cet exemple élicité permet d'établir que le ton du nom est LM et non LH.
 \xc <dom="ton" langue="eng"> This elicited phrase establishes that the noun's tone is LM and not LH.
@@ -34457,7 +34461,7 @@
 \xv le˧-lv̩˧~lv̩˧
 \xe |fg{accomp} 〜 |fg{red}
 \xn 实施 〜 重叠：卷一卷
-\xv |fg{accomp} 〜 |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv tso˧~tso˧ lv̩˧~lv̩˧
 \xe to coil things
@@ -36628,11 +36632,11 @@
 \xc PHONO
 \xv hɑ˧ mɤ˩
 \xe a little food
-\xf 一点饭
+\xn 一点饭
 \xf un peu de nourriture
 \xv ɖʐe˧ mɤ˩
-\xf a little money
-\xf 一点钱
+\xe a little money
+\xn 一点钱
 \xf un peu d'argent
 \xc <type="hist" print="n" dom="synt" langue="fra"> Confirmé en 2024.
 
@@ -38975,7 +38979,9 @@
 \xn 往下按
 \xf appuyer vers le bas, peser sur
 \xv le˧-ɳæ˩~ɳæ˩
-\xf |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
+\xn \xn 实施 〜 重叠
+\xf |fg{accomp} 〜 |fg{red}
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41098,8 +41104,9 @@
 \df Cil.
 \gf cil
 \xv njæ˧tsɯ˩-ʂæ˩
-\xf cil (formulation permettant de lever l'ambiguïté du terme, qui peut signifier ‘sourcil’ aussi bien que ‘cil’)
-\dt 09/Sep/2015
+\xe Eyelash (this wording removes the ambiguity of the term |fv{njæ˧tsɯ˩}, which can mean ‘eyebrow’ as well as ‘eyelash’)
+\xn 睫毛（这一措辞消除了该词的歧义，因为|fv{njæ˧tsɯ˩}既可以指‘眉毛’，也可以指‘睫毛’）。
+\xf cil (formulation permettant de lever l'ambiguïté du terme |fv{njæ˧tsɯ˩}, qui peut signifier ‘sourcil’ aussi bien que ‘cil’)
 
 \lx njæ˧=zɯ˩
 \or nyassi
@@ -50920,7 +50927,7 @@
 \xv “qwæ˧ʁo˧ dzi˧˥, | qwæ˧ʁo˧ dzi˧˥!” |pi˧.
 \xe “Come and take a seat on the bench”, we say (to the guests).
 \xn 我们（对客人）说：“来，在长凳上坐下”。
-\xv «Venez donc prendre place sur le banc!», qu'on dit (aux invités).
+\xf «Venez donc prendre place sur le banc!», qu'on dit (aux invités).
 
 \lx qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sf <nb="2011"> 2744
@@ -51503,9 +51510,9 @@
 \xn 他长大了！（关于一个小孩）
 \xf Il/elle a grandi! (Au sujet d'un enfant qu'on revoit après un certain temps)
 \xv tʰi˧-qwɤ˩-dʑo˩
-\xe It is growing.
-\xf 正在长
-\xf Ca pousse.
+\xe |fg{dur} 〜 |fg{prog}: it is growing.
+\xn 持续体 〜 进行式：正在长
+\xf |fg{dur} 〜 |fg{prog}: ça pousse.
 \xc PHONO
 \txtsup Lake3.29
 \doisup 10.24397/pangloss-0004349#S29
@@ -58968,9 +58975,9 @@
 \df Être tendu: par exemple, une corde à linge est tendue.
 \gf être_tendu
 \xv tʰi˧-ʂɯ˧-dʑo˧
-\xe to be stretched
-\xn 伸展着
-\xf être tendu
+\xe |fg{dur} 〜 |fg{prog}: it is stretched.
+\xn 持续体 〜 进行式：正在 伸展着
+\xf |fg{dur} 〜 |fg{prog}: c'est tendu
 \xc PHONO
 \xv bɑ˧lɑ˧kʰɯ˧tsʰɤ˧ tʰi˥-ʂɯ˩-dʑo˩.
 \xe There's a cobweb hanging there.
@@ -65661,7 +65668,7 @@
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> adopté la glose “duratif" de LL; précédemment: pensé à gloser comme “infinitif" en na et en lazé; aspect en cours/impératif à as
+\nt <dom="sem" langue="fra"> La glose `duratif' proposée par Liberty Lidz est adoptée ici. Auparavant, une solution envisagée consistait à gloser le morphème comme un `infinitif' en na et en lazé, et à lui reconnaître une valeur d'aspect en cours (et d'impératif) en naxi de A-Sher.
 \ton M
 \lc tʰi˧
 \so F4
@@ -65672,14 +65679,13 @@
 \df Duratif (|fg{dur}).
 \gf |fg{dur}
 \xv tʰi˧-dzɯ˥-dʑo˩!
-\xe (She) is eating!
-\xn 她在吃东西！
-\xf (Elle) est en train de manger! / Elle mange! (Contexte: on constate avec joie qu'un enfant qui ne mangeait plus depuis deux jours est en train de ronger à belles dents un épi de maïs.)
+\xe |fg{dur} 〜 |fg{prog}: (she) is eating! (Context: her family is delighted to see that a child who hasn't eaten for two days is gnawing away at an ear of corn.)
+\xn 持续体 〜 进行式：她在吃东西！（情景：家人很高兴看到一个两天没吃东西的孩子在啃玉米穗。）
+\xf |fg{dur} 〜 |fg{prog}: (elle) est en train de manger! / Elle mange! (Contexte: on constate avec joie qu'un enfant qui ne mangeait plus depuis deux jours est en train de ronger à belles dents un épi de maïs.)
 \xv tʰi˧-mɤ˧-ɲi˥
 \xe otherwise, or else
 \xn 否则、要不然
 \xf faute de quoi
-\dt 08/Oct/2015
 
 \lx ʈi˩α
 \sf <nb="B"> 1459
@@ -80938,7 +80944,8 @@
 \lc --
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> progressif (LL)
+\nt <dom="sem" langue="fra"> L'analyse comme `progressif' est proposée par Liberty Lidz.
+\nt <dom="sem" langue="eng"> Analysis as `progressive' is taken up from Liberty Lidz.
 \ton M
 \so F4
 \de Progressive aspect.
@@ -81083,7 +81090,7 @@
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> Avant 2012: glosé comme 名物化, |fg{nmlz}: “Nominalisateur générique. Emploi le plus fréquent: pour l'agent. (LL)"
+\nt <dom="sem" langue="fra"> Avant 2012: glosé comme 名物化, |fg{nmlz}: “Nominalisateur générique. Emploi le plus fréquent: pour l'agent. (Liberty Lidz)"
 \ton H
 \lc hĩ˧
 \so F4
@@ -81093,7 +81100,6 @@
 \gn 关系从句/名词化
 \df Relativisateur et nominalisateur.
 \gf |fg{rel}/|fg{nmlz}
-\dt 05/Jul/2017
 
 \lx †hi˧
 \or xie
