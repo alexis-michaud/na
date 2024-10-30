@@ -30602,11 +30602,10 @@
 \so F4
 \de Latami Daeshi Lhamu: the name of the main consultant (reference speaker) and co-author for this volume (speaker code: F4).
 \ge Latami_Daeshi_Lhamu
-\dn 拉他咪达石拉么：本著作的标准发音合作人
-\gn 拉他咪达石拉么
+\dn 拉他咪打史拉姆：本著作的标准发音合作人
+\gn 拉他咪打史拉姆
 \df Latami Daeshi Lhamu: le nom propre (nom de famille et prénom) de la consultante de référence, co-autrice du présent travail (code locutrice: F4).
 \gf Latami_Daeshi_Lhamu
-\dt 24/Apr/2017
 
 \lx lɑ˧tʰɑ˧mi˥$
 \sf <nb="2011"> 3307
@@ -30626,7 +30625,7 @@
 \gf nom_de_clan
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥$
 \xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
-\xn |fv{/lɑ˧tʰɑ˧mi˥$/}家族
+\xn 拉他咪家族
 \xf le clan Latami |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille Latami |fv{/lɑ˧tʰɑ˧mi˥$/}
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥, | tsʰe˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
 \xe There are ten families carrying the name Latami; they make up one clan!
@@ -65607,6 +65606,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton MHα
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève (2024): "classificateur des étages d'une maison à SK" xxxx
 \so F4
 \de Classifier for layers (of dust, of boards…).
 \ge |fg{clf}.layers
@@ -72893,7 +72893,7 @@
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n" langue="fra"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
+\nt <type="hist" print="n" langue="fra"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lhamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
 \ton M
 \lc tsʰe˧li˧-ɬɑ˩mv̩˩
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
