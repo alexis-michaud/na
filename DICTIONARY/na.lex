@@ -18545,7 +18545,6 @@
 \lx †gv̩˩α
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
-\hm 2
 \or gguq
 \ps v
 \lc gv̩˩˥
@@ -18566,7 +18565,7 @@
 \gf ranger
 
 \lx gv̩˩α
-\hm 3
+\hm 2
 \or gguq
 \ps v
 \lc gv̩˩˥
@@ -18592,7 +18591,6 @@
 \xe The sun has not set yet.
 \xn 太阳还没有落。
 \xf Le soleil ne s'est pas encore couché.
-\dt 02/Sep/2015
 
 \lx gwɤ˩
 \sf <nb="2011"> 2364
@@ -25202,7 +25200,6 @@
 \xf toile cirée (variante tonale)
 
 \lx jo˧˥
-\hm 2
 \or yo
 \bw <langue="cmn"> 油
 \ps n
@@ -38387,7 +38384,6 @@
 \lx mv̩˧ʐe#˥
 \sf <nb="B"> 609
 \sf <nb="2011"> 896
-\hm 2
 \or murei
 \ps n
 \lc mv̩˧ʐe˧
@@ -64101,6 +64097,7 @@
 \lx tɕɯ˧
 \sf <nb="B"> 8
 \sf <nb="2011"> 17
+\hm 1
 \or ji
 \ps n
 \sd <langue="fra"> environnement naturel
@@ -74737,7 +74734,7 @@
 \ps pro
 \lc tʰv̩˧
 \cf tʰv̩˥2
-\cf -tʰv̩˥3
+\cf -tʰv̩˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> avant décembre 2011: noté un ton moyen
@@ -74775,7 +74772,7 @@
 \ps pro
 \lc tʰv̩˧
 \cf tʰv̩˥1
-\cf -tʰv̩˥3
+\cf -tʰv̩˥
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> ʈʰɯ˥
@@ -74800,7 +74797,6 @@
 \xf sa famille, sa maisonnée, les siens
 
 \lx -tʰv̩˥
-\hm 3
 \or tee
 \ps suff
 \lc tʰv̩˧
@@ -77514,7 +77510,6 @@
 \lx ʑi˩
 \sf <nb="B"> 82a
 \sf <nb="2011"> 349
-\hm 2
 \or xxi
 \ps clf
 \sd <langue="fra"> société
@@ -80134,7 +80129,6 @@
 \lx ʐv̩˩α
 \sf <nb="B"> 1033
 \sf <nb="2011"> 1461
-\hm 2
 \or ruq
 \ps adj
 \sd <langue="fra"> adjectif
@@ -81634,7 +81628,6 @@
 \dt 06/Oct/2015
 
 \lx -ɳɯ
-\hm 2
 \or nee
 \ps cnj
 \ton 0?
@@ -81674,7 +81667,6 @@
 \gn 离格/施动者/主题
 \df Ablatif, agent, et marqueur de topique.
 \gf |fg{abl}/a/top
-\dt 06/Oct/2015
 
 \lx -pʰæ˥di˩
 \or paeddi
