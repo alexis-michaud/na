@@ -6544,6 +6544,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> /ʂe˧ dɑ˥~dɑ˩/: en 2006, avais noté M.H.M (˧˥˧); schéma attendu: M.H.L (˧˥˩); vérifié en 2007 et 2008: est bien M.H.L (˧˥˩)
 \nt <type="hist" print="n" langue="fra"> En 2006, avais noté /‡dɤ˧dɤ˩/, /‡le˧dɤ˧dɤ˩/, /‡æ˩˥le˧dɤ˧dɤ˩ze˩/ “le poulet a été découpé"
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour “couper le crin du cheval" xxxx
 \ton MH
 \lc dɑ˧˥
 \so F4
@@ -7451,6 +7452,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour “porter (boucles d'oreilles, bracelet)". xxxx
 \ton Lα
 \lc di˩˥
 \so F4
@@ -17937,18 +17939,18 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photo
+\nt <dom="sem" langue="fra" print="n"> Une photo du métier à tisser a été prise pour référence.
+\nt <type="hist" dom="sem" langue="fra" print="n"> Identification réalisée par Maxime Fily.
 \ton MH#
 \lc ɣɯ˧ni˧˥
 \so F4
 \pdv dze˩
-\de A part of the loom: a small bamboo structure hanging from the top of the loom, keeping the threads together.
-\ge part_of_the_loom
-\dn 织布机的一部分：竹子的框，让线不乱混
-\gn 织布机的一部分
-\df Petite structure en bambou maintenant les fils du métier à tisser; ses fils (blancs) sont verticaux, et passent à travers la trame.
-\gf pièce_du_métier_à_tisser
-\dt 02/Sep/2015
+\de Warp: the set of threads that run parallel to the length of the fabric, arranged longitudinally on a loom during the weaving process. These threads provide the structural foundation for the fabric. (A small bamboo structure hanging from the top of the loom keeps the threads together.)
+\ge warp
+\dn 经纱：织布过程中的重要组成部分。它是指在织机上纵向排列的一组线，构成了织物的基本结构。经纱与横向的纬纱交织，共同形成完整的布料。经纱决定了织物的长度和强度，是织布的骨架。（织布机上有一个竹子的框，让线不乱混。）
+\gn 经纱
+\df Chaîne. La chaîne (ou fil de chaîne) est un élément fondamental dans le processus de tissage. Elle désigne les fils disposés longitudinalement sur le métier à tisser, formant ainsi la structure de base du tissu. Les fils de chaîne sont tendus et s'entrelacent avec les fils de trame, qui sont disposés transversalement. La chaîne détermine la longueur et la résistance du tissu, agissant comme l'ossature du textile. (Une petite structure en bambou maintient les fils du métier à tisser.)
+\gf chaîne_du_métier_à_tisser
 
 \lx gɯ˩α
 \hm 1
@@ -29209,9 +29211,9 @@
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
-\xc <langue="fra" dom="ton"> F4 prononce /|fv{le˧-kv̩˧~kv̩˥}/.
-\xc <langue="eng" dom="ton"> F4 pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
-\xc <langue="cmn" dom="ton"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
+\xc <langue="fra" dom="phono"> F4 prononce /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="eng" dom="phono"> F4 pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="cmn" dom="phono"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
 \rf F5
 
 \lx kv̩˩α
@@ -81552,6 +81554,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> phonétiquement: æ̃˧qæ˩-ni˩gv̩˩
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève (2024): "à SK : binigv peut vouloir dire "aimer". e.g. libinigv (avec le verbe regarder) ou dzibinigv (avec le verbe manger)" xxxx
 \ton MH#
 \lc ni˧gv̩˧˥
 \so F4
@@ -82070,8 +82073,8 @@
 \va <speaker="M21"> ID.
 \de Suffix indicating the completion of an action: the action has reached its end.
 \ge |fg{cmpl}
-\dn 完成
-\gn 完成
+\dn 完成体
+\gn 完成体
 \df Suffixe de Temps-Aspect-Modalité marquant l'achèvement d'une action ou d'un processus: le processus est intégralement réalisé (conduit à son terme). Il s'agit d'une forme grammaticalisée du verbe ‘achever’.
 \gf |fg{achev}
 \xv se˩-ze˥!
