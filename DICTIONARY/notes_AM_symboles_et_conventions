@@ -63,6 +63,8 @@ va <((?!speaker=)[^>])+>
 commande lexika:
 julia --project exécuter.jl exemples/na/configuration.yml --latex
 
+
+
 \nt <dom="morpho" langue="fra"> Monosyllabe reconstruit sur la base de la forme rédupliquée.
 \nt <dom="morpho" langue="eng"> This monosyllable is arrived at through internal reconstruction, based on the reduplicated expression.
 \nt <dom="morpho" langue="cmn"> 这个单音节动词是在重叠词的基础上通过内部重构得出的。
