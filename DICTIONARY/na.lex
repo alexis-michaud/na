@@ -23675,14 +23675,15 @@
 \df Taureau.
 \gf taureau
 
-\lx ʝi˧-bv̩˧˥
+\lx ʝi˧-bɻ̩˧˥
 \sf <nb="2011"> 605
 \or yibbu
 \ps n
-\lc ʝi˧bv̩˧˥
+\lc ʝi˧bɻ̩˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" print="n" langue="fra"> (schéma tonal irrégulier; attendu: ton d2a)
+\nt <type="hist" print="n" langue="fra"> Roselle Dobbs (1er novembre 2024) relève: "Back briefly to the bbeu cf bbu (bɻ  cf bv) words which contain the morpheme for animal pen: LMQ says they're bbu.  OK, quite possibly a dialectal variation. But I do note that in your data, while most of your words in this domain (eg pigsty, horse's stable) contain bɻ, the word for cow pen is ʝi˧-bv̩˧˥  - segmentally identical to ʝi˩bv̩˩ (bull).  So this is maybe something to add to your list of items to revisit when you go back next time." Solution provisoire: aligner sur les autres mots contenant 'étable', mais noter qu'il faut vérifier. xxxx
 \ton MH#
 \so F4
 \va <speaker="M23"> ID.
