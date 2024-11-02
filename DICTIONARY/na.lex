@@ -15411,6 +15411,33 @@
 \df Hier.
 \gf hier
 
+\lx ə˧pɤ˧-ɖɯ˩
+\or Abeddee
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton -L
+\lc ə˧pɤ˧ɖɯ˩
+\so F4
+\va <speaker="M18"> ɑ˧pɑ˧to˧˥
+\de Abeddee: a character from Na mythology who sets the length of life.
+\ge Abeddee
+\dn 阿包笃（神名）
+\gn 阿包笃
+\df Abeddee: personnage de la mythologie na, qui décide de la durée de la vie. (Dans un contexte culturel tout à fait distinct, celui de la mythologie grecque, cette fonction évoque celle d'Atropos, ‘l'implacable’, aînée des Moires, qui tranche le fil de l'existence.)
+\gf Abeddee
+\xv ə˧pɤ˧-ɖɯ˩ pi˩-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩; | ə˧pɤ˧-ɖɯ˩-ɳɯ˩ | le˧-tsʰi˧-ɲi˥! | pi˧-zo˩.
+\xo Abeddee bi sso, eyishei; Abeddee nee lecee niq!
+\xn 将寿命斩断的（神），从前称作大阿堡（即：“伟大的阿贝[神]”）！（生命结束时，是大阿堡切割人的生命）
+\xe The one called Abeddee (ə˧pɤ˧-ɖɯ˩, i.e. `great [deity] Abe (/ə˧pɤ˧/), long, long ago, Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
+\xf On l'appelait Abeddee, `grande divinité Abe (/ə˧pɤ˧/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
+\txt Dog.51
+\doi 10.24397/pangloss-0004443#S51
+\txtsup Dog2.28
+\doisup 10.24397/pangloss-0004555#S28
+\txtsup Dog2.89
+\doisup 10.24397/pangloss-0004555#S89
+
 \lx ə˧pʰv̩˧
 \sf <nb="B"> 333a
 \sf <nb="2011"> 390
@@ -76637,6 +76664,23 @@
 \gn 轰隆隆！
 \df Bruit de grondement des grosses charges qu'on traîne sur le sol, des moteurs de camions: Brrroum!
 \gf |fg{ideo_Brrroum}!
+
+\lx kõtõ…kõtõ
+\or gondon-gondon
+\ps ideophone
+\lc kõtõ…kõtõ!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Sound of footsteps in a swamp: splash, splash / plop, plop
+\ge |fg{ideo_splash}
+\dn 形声词：沼泽中的脚步声：噗通，噗通！/扑通，扑通！
+\gn 噗通噗通
+\df Bruit de pas dans un marécage: plof, plof!
+\gf |fg{ideo_plof}
+\txtsup Dog2.104
+\doisup 10.24397/pangloss-0004660#S104
 
 \lx zzz…zzz
 \or ss-ss-ss
