@@ -23077,6 +23077,8 @@
 \xe (S)he said “Yes! yes!"
 \xn 他说：“是的，是的！”
 \xf il a dit: «Oui, oui!»
+\txtsup Agriculture.10
+\doisup 10.24397/pangloss-0004441#S10
 
 \lx o
 \or o
@@ -26713,7 +26715,8 @@
 \gn 开始（借词）
 \df Commencer.
 \gf 开始::commencer
-\dt 03/Sep/2015
+\txtsup Agriculture.4
+\doisup 10.24397/pangloss-0004441#S4
 
 \lx ko˧sɯ#˥
 \or gosi
@@ -54415,6 +54418,8 @@
 \or waechei
 \bw <langue="cmn"> 完成
 \ps v
+\sy se˩α
+\sy ʈʂʰv̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L#
@@ -56921,6 +56926,7 @@
 \sf <nb="2011"> 1647
 \or seiq
 \ps v
+\sy ʈʂʰv̩˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
@@ -56955,6 +56961,8 @@
 \xe Take your time to round up! / Take your time to finish! (A comment by the consultant at the end of a work session, noticing that the visitor was packing up his recording equipment rather hastily -- as preparations for lunch began -- at the risk of making mistakes in the delicate set of operations to be performed for packing.)
 \xn 慢慢完成吧！（情景：录音结束后，发音合作人看见调查者着急在午饭前收拾录音设备，就建议不要紧，来得及，还是要慢慢、按顺序收拾。）
 \xf Finis tranquillement! / Prends le temps de finir! (Commentaire de la locutrice au terme d'une séance de travail, voyant l'enquêteur pressé de ranger son matériel, au risque de faire une maladresse et abîmer son matériel.)
+\txtsup Agriculture.3
+\doisup 10.24397/pangloss-0004441#S3
 
 \lx ʂe˧α
 \sf <nb="B"> 1592
@@ -58065,6 +58073,8 @@
 \xe Harvest time has come!
 \xn 该收庄稼了！
 \xf Il va être temps de faire la récolte!
+\txtsup Agriculture.6
+\doisup 10.24397/pangloss-0004441#S6
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73280,6 +73290,7 @@
 \hm 1
 \or chuq
 \ps v
+\sy se˩α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tons vérifiés) [læ˧ʈʂʰv̩˧ze˥]
@@ -79393,7 +79404,8 @@
 \gr 狗尾巴草
 \df |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}, herbe sauvage. L'herbe n'est pas prisée du bétail, non plus que ses racines, et n'est jamais consommée par les humains. Les racines de cette herbe sont utilisées dans les rituels: elles ont une odeur forte à la combustion.
 \gf herbe_sabai
-\dt 07/Oct/2015
+\txtsup Seeds.46
+\doisup 10.24397/pangloss-0004548#S46
 
 \lx zɯ˧ɻ̩#˥
 \sf <nb="2011"> 174
