@@ -3243,6 +3243,7 @@
 \or bbon
 \ps ideophone
 \lc bõ
+\cf põ
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton 0
@@ -3254,6 +3255,42 @@
 \df Bruit d'un choc entre deux objets durs, par exemple un coup de hache qui fend une pièce de bois: Boum!
 \gf |fg{ideo}_Boum!
 \dt 24/Apr/2017
+
+\lx põ
+\or bon
+\ps ideophone
+\lc põ
+\cf bõ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\nt <type="hist" print="n" langue="fra"> Vérifier à nouveau la relation avec bõ xxxx
+\so F4
+\de Noise of a shock between two objects, for instance the sound of the tiger's tail whipping the ground: Bang!
+\ge |fg{ideo}_Bang!
+\dn 形声词：老虎尾巴鞭打地：轰！轰！
+\gn 轰！
+\df Bruit d'un choc entre objets durs, par exemple la queue du tigre qui fouette le sol: Boum!
+\gf |fg{ideo}_Boum!
+\txtsup Tiger.8
+\doisup 10.24397/pangloss-0004445#S8
+
+\lx õ
+\or on
+\ps ideophone
+\lc õ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Sound of a tiger growling: Grr, Grrrrowl
+\ge |fg{ideo}_Grr!
+\dn 形声词：老虎吼着的声音：呜呜/呕吼！
+\gn 呜呜！
+\df Onomatopée du rugissement d'un tigre: Grrr!
+\gf |fg{ideo}_Grrr!
+\txtsup Tiger.8
+\doisup 10.24397/pangloss-0004445#S8
 
 \lx hwɑ.lɑ~hwɑ.lɑ~hwɑ.lɑ
 \or huala-huala-huala
