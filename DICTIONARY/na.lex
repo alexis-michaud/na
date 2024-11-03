@@ -3249,11 +3249,11 @@
 \ton 0
 \so F4
 \de Noise of a shock between two hard objects, for instance the sound of an axe splitting a log: Bang!
-\ge |fg{ideo}_Bang!
+\ge |fg {ideo}.Bang!
 \dn 形声词：斧头把粗的木头开花成两半。砰！ / 啪！
 \gn 砰！
 \df Bruit d'un choc entre deux objets durs, par exemple un coup de hache qui fend une pièce de bois: Boum!
-\gf |fg{ideo}_Boum!
+\gf |fg {ideo}.Boum!
 \dt 24/Apr/2017
 
 \lx põ
@@ -3267,11 +3267,11 @@
 \nt <type="hist" print="n" langue="fra"> Vérifier à nouveau la relation avec bõ xxxx
 \so F4
 \de Noise of a shock between two objects, for instance the sound of the tiger's tail whipping the ground: Bang!
-\ge |fg{ideo}_Bang!
+\ge |fg {ideo}.Bang!
 \dn 形声词：老虎尾巴鞭打地：轰！轰！
 \gn 轰！
 \df Bruit d'un choc entre objets durs, par exemple la queue du tigre qui fouette le sol: Boum!
-\gf |fg{ideo}_Boum!
+\gf |fg {ideo}.Boum!
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
 
@@ -3284,11 +3284,11 @@
 \ton 0
 \so F4
 \de Sound of a tiger growling: Grr, Grrrrowl
-\ge |fg{ideo}_Grr!
+\ge |fg {ideo}.Grr!
 \dn 形声词：老虎吼着的声音：呜呜/呕吼！
 \gn 呜呜！
 \df Onomatopée du rugissement d'un tigre: Grrr!
-\gf |fg{ideo}_Grrr!
+\gf |fg {ideo}.Grrr!
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
 
@@ -3302,11 +3302,11 @@
 \ton 0
 \so F4
 \de Rattling noise: small, hard objects such as dice or Mah-Jong pieces rattling against one another.
-\ge |fg{ideo}_rattling
+\ge |fg {ideo}.rattling
 \dn 形声词：骰子或麻将牌等小而硬的物体相互碰撞发出的响声。
 \gn 哗啦！
 \df Bruit d'objets qui s'entrechoquent, par exemple des dés ou des pièces de mah-jong qui s'entrechoquent.
-\gf |fg{ideo}_Brroum!
+\gf |fg {ideo}.Brroum!
 
 \lx ʂwɑ~ʂwɑ~ʂwɑ
 \or shua-shua-shua
@@ -3318,11 +3318,11 @@
 \ton 0
 \so F4
 \de Onomatopoeia for the sound of rain.
-\ge |fg{ideo}_sound_of_rain
+\ge |fg {ideo}.sound_of_rain
 \dn 形声词：下雨的声音
 \gn 下雨声
 \df Onomatopée: bruit de la pluie.
-\gf |fg{ideo}_bruit_de_la_pluie
+\gf |fg {ideo}.bruit_de_la_pluie
 
 \lx ɕjo.ho~ɕjo.ho~ɕjo.ho
 \or xoho-xoho-xoho
@@ -3333,12 +3333,13 @@
 \ton 0
 \so F4
 \de Onomatopoeia for the sound of soup bubbling in a large saucepan.
-\ge |fg{ideo}_sound_of_rain
+\ge |fg {ideo}.sound_of_boiling
 \dn 形声词：汤在锅里冒泡的声音
 \gn 冒泡的声音
 \df Onomatopée: bouillonnement de la soupe dans une casserole.
-\gf |fg{ideo}_bouillonnement
+\gf |fg {ideo}.bouillonnement
 \txtsup Benevolence.180
+\doisup 10.24397/pangloss-0004582#S180
 
 \lx ʈʂʰwæ~ʈʂʰwæ~ʈʂʰwæ
 \or chuae-chuae-chuae
@@ -3351,11 +3352,11 @@
 \nt <type="hist" print="n" langue="fra"> Voyelle corrigée de /ɑ/ en /æ/ le 3 juillet 2024.
 \so F4
 \de Onomatopoeia for the sound of pouring rain.
-\ge |fg{ideo}_sound_of_pouring_rain
+\ge |fg {ideo}.sound_of_pouring_rain
 \dn 形声词：下大雨的声音
 \gn 下大雨声
 \df Onomatopée: bruit de la pluie qui tombe à verse, d'une pluie battante.
-\gf |fg{ideo}_bruit_de_la_pluie_battante
+\gf |fg {ideo}.bruit_de_la_pluie_battante
 
 \lx bo˩
 \or bboq
@@ -30643,13 +30644,13 @@
 \so F4
 \de Lataddi: the entire Na area around Lugu Lake, including Zuosuo (currently Luguhu Zhen) and the village of Luoshui.
 \ge Lataddi
-\dn 拉塔地：泸沽湖周边的摩梭地区，包括左所（今为泸沽湖镇）、洛水村等
+\dn 拉塔地：泸沽湖周边的摩梭地区，包括左所（今为泸沽湖镇）、落水村等
 \gn 拉塔地
 \df Lataddi: la région na qui entoure le lac Lugu: Zuosuo (actuel Luguhu Zhen), le village de Luoshui, et les autres localités du bord du Lac.
 \gf Lataddi
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
 \xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
@@ -31539,7 +31540,7 @@
 \gf nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
 \xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx ɬi˧mi˧
@@ -33420,13 +33421,12 @@
 \ton L#
 \lc lo˧ʂv̩˩
 \so F4
-\de The village of Luoshui.
-\ge Luoshui
-\dn 洛水村
-\gn 洛水村
-\df Luoshui: village du bord du Lac.
-\gf Luoshi
-\dt 04/Sep/2015
+\de The village of Loshu (Luoshui in Chinese).
+\ge Loshu
+\dn 落水村（也称作洛水村）。经纬度：100.7931,27.7051
+\gn 落水村
+\df Loshu: village du bord du Lac. En chinois: Luoshui.
+\gf Loshu
 
 \lx lo˧ʂv̩˩ | hi˩nɑ˧mi#˥
 \sf <nb="2011"> 3313
@@ -36042,6 +36042,28 @@
 \gf |fg{intj}.hélas!
 \dt 19/Jun/2017
 
+\lx v̩…v̩
+\or vu-vu
+\ps ideophone
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\lc v̩˩…v̩˧
+\so F4
+\de Ideophone conveying the intensity of a strong effort: grunt, grunt!
+\ge |fg{ideo}.grunt!
+\dn 形声词，表达强度用力：哼哼哼！
+\gn 形声词.哼哼哼
+\df Idéophone traduisant l'intensité d'un effort important, tous muscles bandés: oh, hisse!
+\gf |fg{ideo}.oh_hisse!
+\xv v̩˩… v̩˧ pi˧ | ʈɤ˧-tso˧-ɲi˥; | dʑi˧mi˧ | tʰi˩˥, | gv̩˧-wo˥!
+\xo Vu, vu bi de zo niq; jjiemi, tiq, gguwo
+\xf Les buffles, ils se sont mis à tirer: oh, hisse! Il y en avait neuf paires!
+\xe The water buffalos started pulling - grunt, grunt - nine pairs of them!
+\xn 开始拉了，水牛都有九对！
+\txt Lake3.41
+\doi 10.24397/pangloss-0004349#S41
+
 \lx mɤ˧-dɑ˩mi˩
 \or meddami
 \ps intj
@@ -37733,7 +37755,7 @@
 \gf Mukhuae
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
 \xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx mv̩˧ʁo˥$
@@ -40425,7 +40447,7 @@
 \xf Nhissei, c'est un village entièrement Na!
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
 \xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx ɲi˧to˧
@@ -61226,7 +61248,7 @@
 \gf Dazzee
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
-\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小水落）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、洛水村等）
+\xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
 \xf Villages na des rives du Lac (ne comptant pas comme faisant partie de Yongning). Dans l'ordre, après la plaine de Yongning: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. Le dernier, Lataddi |fv{/lɑ˧tʰɑ˧-di˧˥/}, désigne toute la région na au-delà du quatrième village.
 
 \lx tɑ˩ɖʐo˧dzi˧˥
@@ -72142,12 +72164,11 @@
 \sd <langue="eng"> morphosyntax
 \so F4
 \de Hissing noise of water that comes in contact with red-hot metal or incandescent wood: Pssshhh!
-\ge |fg{ideo_Pssshhh}!
+\ge |fg{ideo}_Pssshhh!
 \dn 形声词：噗嗤！（水浇在很热的金属上的声音）
 \gn 噗嗤！
 \df Bruit de l'eau qui crépite au contact d'un métal rougi ou de bois incandescent: psshhhh!
-\gf |fg{ideo_Pssshhh}!
-\dt 12/Jul/2017
+\gf |fg{ideo}_Pssshhh!
 
 \lx ʈʂʰɻ̩˧
 \sf <nb="B"> 579
@@ -76696,11 +76717,11 @@
 \ton 0
 \so F4
 \de Rumbling sound of heavy loads carried over a wooden floor, of lorries… Brrroom!
-\ge |fg{ideo_Brrroom}!
+\ge |fg{ideo}_Brrroom!
 \dn 形声词：轰隆隆！（拉很重的物品在地板上的隆隆声，卡车的隆隆声）
 \gn 轰隆隆！
 \df Bruit de grondement des grosses charges qu'on traîne sur le sol, des moteurs de camions: Brrroum!
-\gf |fg{ideo_Brrroum}!
+\gf |fg{ideo}_Brrroum!
 
 \lx kõtõ…kõtõ
 \or gondon-gondon
@@ -76711,11 +76732,11 @@
 \ton 0
 \so F4
 \de Sound of footsteps in a swamp: splash, splash / plop, plop
-\ge |fg{ideo_splash}
+\ge |fg{ideo}_splash
 \dn 形声词：沼泽中的脚步声：噗通，噗通！/扑通，扑通！
 \gn 噗通噗通
 \df Bruit de pas dans un marécage: plof, plof!
-\gf |fg{ideo_plof}
+\gf |fg{ideo}_plof
 \txtsup Dog2.104
 \doisup 10.24397/pangloss-0004660#S104
 
@@ -76728,11 +76749,11 @@
 \ton 0
 \so F4
 \de Sound of sawing (typically: sawing wood).
-\ge |fg{ideo_sawing}
+\ge |fg{ideo}_sawing
 \dn 形声词：锯木头的声音。
 \gn 锯木头声
 \df Bruit de sciage.
-\gf |fg{ideo_sciage}
+\gf |fg{ideo}_sciage
 
 \lx zɑ˥
 \or ssa
@@ -77551,7 +77572,7 @@
 \mr jɤ˩ʐe˧
 \mr bæ˩bæ˩1
 \mc <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
-\mc <langue="fra"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
+\mc <langue="eng"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
