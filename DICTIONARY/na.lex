@@ -3249,11 +3249,11 @@
 \ton 0
 \so F4
 \de Noise of a shock between two hard objects, for instance the sound of an axe splitting a log: Bang!
-\ge |fg {ideo}.Bang!
+\ge |fg{ideo}.Bang!
 \dn 形声词：斧头把粗的木头开花成两半。砰！ / 啪！
 \gn 砰！
 \df Bruit d'un choc entre deux objets durs, par exemple un coup de hache qui fend une pièce de bois: Boum!
-\gf |fg {ideo}.Boum!
+\gf |fg{ideo}.Boum!
 \dt 24/Apr/2017
 
 \lx põ
@@ -3267,13 +3267,15 @@
 \nt <type="hist" print="n" langue="fra"> Vérifier à nouveau la relation avec bõ xxxx
 \so F4
 \de Noise of a shock between two objects, for instance the sound of the tiger's tail whipping the ground: Bang!
-\ge |fg {ideo}.Bang!
+\ge |fg{ideo}.Bang!
 \dn 形声词：老虎尾巴鞭打地：轰！轰！
 \gn 轰！
 \df Bruit d'un choc entre objets durs, par exemple la queue du tigre qui fouette le sol: Boum!
-\gf |fg {ideo}.Boum!
+\gf |fg{ideo}.Boum!
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
+\txtsup BuriedAlive3.75
+\doisup 10.24397/pangloss-0004539#S75
 
 \lx õ
 \or on
@@ -3284,13 +3286,76 @@
 \ton 0
 \so F4
 \de Sound of a tiger growling: Grr, Grrrrowl
-\ge |fg {ideo}.Grr!
+\ge |fg{ideo}.Grr!
 \dn 形声词：老虎吼着的声音：呜呜/呕吼！
 \gn 呜呜！
 \df Onomatopée du rugissement d'un tigre: Grrr!
-\gf |fg {ideo}.Grrr!
+\gf |fg{ideo}.Grrr!
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
+
+\lx ɻɻɻ
+\or ererer
+\ps ideophone
+\lc ɻɻɻ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Noise of the harsh, grating sound of a laboured breath being drawn through a partially obstructed airway: ‘Rasp!’ ‘Hrrk!’
+\ge |fg{ideo}.‘Hrrk!’
+\dn 形声词：嘎啦、嘎吱的吸气声，就像有人在喉咙几近阻塞的情况下仍努力保持呼吸一样。
+\gn 嘎吱
+\df Bruit d'un râle, d'une respiration rauque et audible, lorsqu'une personne essaie de continuer à respirer malgré une quasi-obstruction de la gorge: Argh!
+\gf |fg{ideo}.Argh!
+\xv ɖɯ˧-ʂɯ˩ pʰv̩˩-dʑo˩, | “ɻɻɻ!” pi˧-tsɯ˩ ◊ -mv̩˩. “ə˧mi˧! | ʈʂʰɯ˧-v̩˧… | ə˧mi˧! | tʰɑ˧-ɲi˩ ə˩-hɯ˩?” | ʈʂʰɯ˧ | ɖwæ˩ ʝi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩.
+\xe He gave the bracelet a sharp tug and the girl let out a ‘Hrrk!’ ‘Gulp! The man was a little scared: ‘Oops, what's going on?’
+\xn 他猛地一拉镯子，姑娘就发出“嘎吱！”的一声。男人有一点害怕：“啊呀，这是怎么回事？”
+\xf Il a tiré sur ses bracelets un bon coup; et on dit que [le corps] a alors eu un râle: Aaargggh!” Alors [l'homme] a pris peur: “Houlà! Qu'est-ce que c'est que cette histoire?”
+\txt BuriedAlive3.62
+\doi 10.24397/pangloss-0004539#S62
+
+\lx ʈwæ-ʈwæ-ʈwæ
+\or duae-duae-duae
+\ps ideophone
+\lc ʈwæ-ʈwæ-ʈwæ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Noise of knocking at a door: ‘Knock, knock!’
+\ge |fg{ideo}.Knock-knock!’
+\dn 形声词：敲门声：“咚，咚！”
+\gn 咚，咚
+\df Bruit de coups frappés à une porte: «Toc, toc!»
+\gf |fg{ideo}.toc-toc!
+\xv tʰi˩˥, | ŋv̩˩˥, | ŋv̩˩˥ ◊ -dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-ɳɯ˩, | ʈʂʰɯ˧ | ɑ˩ʁo˧ | le˧-hɯ˩, | kʰi˧ kɤ˥~kɤ˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. ʈwæ-ʈwæ-ʈwæ-ʈwæ! pi˧, | kʰi˧ kɤ˥~kɤ˩.
+\xe While she was crying, Nobbu Ci'er went to her house and knocked on the door. Knock, knock, knock! He knocked on the door.
+\xn 她正哭喊的时候，诺布次尔来敲她的门：“咚，咚！”
+\xf Comme elle pleurait ainsi, Nobbu Ci'er est allé à sa maison; il a frappé à la porte. Toc, toc, toc! Il a frappé à la porte.
+\txt BuriedAlive3.84
+\doi 10.24397/pangloss-0004539#S84
+
+\lx pɑ
+\or ba
+\ps ideophone
+\lc pɑ!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de A sudden, soft, wet sound indicating the expulsion of a rounded object from the mouth or throat: ‘Plop!’
+\ge |fg{ideo}.‘Plop!’
+\dn 形声词：一种突然的、柔和的湿润声音，表示一个圆形物体从口腔或喉咙中被排出：“啵！”
+\gn 啵！
+\df Bruit de l'expulsion d'un objet rond de la bouche ou de la gorge: «Plop!»
+\gf |fg{ideo}.plop!
+\xv ʈʂʰɯ˧ne˧-ʝi˥ | mv̩˩tɕo˧ ɖʐɤ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | æ̃˩ʁv̩˩-ʈʂʰɯ˥, | pɑ! pi˧, | gɤ˩-pʰi˧ le˧-tsʰɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!
+\xe As he grabbed her again like this [squeezing her chest], well... it made her spit out the egg, plop!
+\xn 他又拉了一下，这时候鸡蛋就都被吐出来了：“啵！”
+\xf Comme il la saisissait à nouveau comme ceci [comprimant sa poitrine], eh bien… l'œuf, plop! il a été recraché!
+\txt BuriedAlive3.65
+\doi 10.24397/pangloss-0004539#S65
 
 \lx hwɑ.lɑ~hwɑ.lɑ~hwɑ.lɑ
 \or huala-huala-huala
@@ -3302,11 +3367,11 @@
 \ton 0
 \so F4
 \de Rattling noise: small, hard objects such as dice or Mah-Jong pieces rattling against one another.
-\ge |fg {ideo}.rattling
+\ge |fg{ideo}.rattling
 \dn 形声词：骰子或麻将牌等小而硬的物体相互碰撞发出的响声。
 \gn 哗啦！
 \df Bruit d'objets qui s'entrechoquent, par exemple des dés ou des pièces de mah-jong qui s'entrechoquent.
-\gf |fg {ideo}.Brroum!
+\gf |fg{ideo}.Brroum!
 
 \lx ʂwɑ~ʂwɑ~ʂwɑ
 \or shua-shua-shua
@@ -3318,11 +3383,11 @@
 \ton 0
 \so F4
 \de Onomatopoeia for the sound of rain.
-\ge |fg {ideo}.sound_of_rain
+\ge |fg{ideo}.sound_of_rain
 \dn 形声词：下雨的声音
 \gn 下雨声
 \df Onomatopée: bruit de la pluie.
-\gf |fg {ideo}.bruit_de_la_pluie
+\gf |fg{ideo}.bruit_de_la_pluie
 
 \lx ɕjo.ho~ɕjo.ho~ɕjo.ho
 \or xoho-xoho-xoho
@@ -3333,11 +3398,11 @@
 \ton 0
 \so F4
 \de Onomatopoeia for the sound of soup bubbling in a large saucepan.
-\ge |fg {ideo}.sound_of_boiling
+\ge |fg{ideo}.sound_of_boiling
 \dn 形声词：汤在锅里冒泡的声音
 \gn 冒泡的声音
 \df Onomatopée: bouillonnement de la soupe dans une casserole.
-\gf |fg {ideo}.bouillonnement
+\gf |fg{ideo}.bouillonnement
 \txtsup Benevolence.180
 \doisup 10.24397/pangloss-0004582#S180
 
@@ -3352,11 +3417,11 @@
 \nt <type="hist" print="n" langue="fra"> Voyelle corrigée de /ɑ/ en /æ/ le 3 juillet 2024.
 \so F4
 \de Onomatopoeia for the sound of pouring rain.
-\ge |fg {ideo}.sound_of_pouring_rain
+\ge |fg{ideo}.sound_of_pouring_rain
 \dn 形声词：下大雨的声音
 \gn 下大雨声
 \df Onomatopée: bruit de la pluie qui tombe à verse, d'une pluie battante.
-\gf |fg {ideo}.bruit_de_la_pluie_battante
+\gf |fg{ideo}.bruit_de_la_pluie_battante
 
 \lx bo˩
 \or bboq
@@ -33124,7 +33189,7 @@
 \lc lo˧ɲi˥ɲi˧ɭɯ˧
 \so F4
 \va <speaker="F5"> *
-\vc <print="n" langue="eng"> F5 uses periphrases: {lo˧ ɲi˥ ʂæ˧} ‘long finger' or {ɬi˧gv̩˧ ʈʰɯ˧-ɭɯ˧} ‘the one in the middle'.
+\vc <print="n" langue="eng"> F5 uses periphrases: |fv{lo˧ ɲi˥ ʂæ˧} ‘long finger' or |fv{ɬi˧gv̩˧ ʈʰɯ˧-ɭɯ˧} ‘the one in the middle'.
 \vc <langue="fra" print="n"> Le locuteur M23 emploie des périphrases. Il dit “le grand doigt", comme F5 disait “le long doigt".
 \de Middle finger.
 \ge middle_finger
