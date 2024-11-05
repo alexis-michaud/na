@@ -3294,6 +3294,27 @@
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
 
+\lx ho
+\or ho
+\ps ideophone
+\lc hhho̥…ho!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Onomatopoeia of a sigh of relief: Phew!
+\ge |fg{ideo}.Phew!
+\dn 形声词：松了一口气：咻！
+\gn 咻！
+\df Onomatopée d'un soupir de soulagement: Ouf!
+\gf |fg{ideo}.Ouf!
+\xv le˧-pʰo˩, | (...) si˧dzi˩-ʈʰæ˩qo˩ | ɖɯ˧-ʝi˧ tʰv̩˧-dʑo˧, | põ! pi˧, | tʰi˧-dzi˩-kʰɯ˩. | hhho̥…ho! pi˧-tsɯ˩ ◊ -mv̩˩.
+\xe He ran [carrying her]; when they got to a spot under the trees, boom! they sat down and let out a great big sigh of relief: Phew!
+\xn 他[背着她]一路跑着。就到了小树林后面坐下来，歇了一口气：咻！
+\xf [La portant,] il a couru, couru; arrivé à un endroit sous les arbres, boum! ils se sont assis; et ils ont poussé un grand Ouf de soulagement!
+\txt BuriedAlive2.75
+\doi 10.24397/pangloss-0004539#S75
+
 \lx ɻɻɻ
 \or ererer
 \ps ideophone
