@@ -2672,10 +2672,10 @@
 		</W>
 </S>
 <S id="HouseBuilding_S040"><AUDIO start="175.9867" end="180.2243"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-qo˧ | ɖɯ˧-dɑ˧-tʰi˥-dɑ˩! | ʈʂʰɯ˧-qo˧ | ɖɯ˧-dɑ˧-tʰi˥-dɑ˩! | &lt;ʐv̩˩-ɻ̍˩˥ | -ʐv̩˩ bæ…&gt;[ʐv̩˧-ɻ̍˥-qo˩-hĩ˩], | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˩˥, |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-qo˧ | ɖɯ˧-dɑ˧-tʰi˥-dɑ˩! | ʈʂʰɯ˧-qo˧ | ɖɯ˧-dɑ˧-tʰi˥-dɑ˩! | &lt;ʐv̩˩-ɻ̩˩˥ | -ʐv̩˩ bæ…&gt;[ʐv̩˧-ɻ̩˥-qo˩-hĩ˩], | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˩˥, |</FORM>
 	<FORM kindOf="ortho">Tiq, teegho ddeedda teedda! Teegho ddeedda teedda! Ru'er ghohin tee niq yi, tiq,</FORM>
-	<NOTE xml:lang="fr" message="ʐv̩˧-ɻ̍˥: des quatre côtés, dans les quatre directions; comparer avec: ɻ̍˩ '(se) tourner'"/>
-	<NOTE xml:lang="fr" message="ʐv̩˩-ɻ̍˩˥ | -ʐv̩˩ bæ: passage non reconnu par la locutrice à la réécoute."/>
+	<NOTE xml:lang="fr" message="ʐv̩˧-ɻ̩˥: des quatre côtés, dans les quatre directions; comparer avec: ɻ̩˩ '(se) tourner'"/>
+	<NOTE xml:lang="fr" message="ʐv̩˩-ɻ̩˩˥ | -ʐv̩˩ bæ: passage non reconnu par la locutrice à la réécoute."/>
 	<TRANSL xml:lang="fr">On taille ici! On taille là! (Geste: montre comment on équarrit les troncs, un côté après l'autre) Comme ça, les quatre côtés [l'un après l'autre]!</TRANSL>
 	<TRANSL xml:lang="en">Well, cut a bit here! Cut a bit there! In four directions like this. Then </TRANSL>
 	<TRANSL xml:lang="zh">这里，切一块！那里，切一块！在四面（都）这样！</TRANSL>
@@ -2710,7 +2710,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ʐv̩˧-ɻ̍˥</FORM>
+			<FORM>ʐv̩˧-ɻ̩˥</FORM>
 			<TRANSL xml:lang="fr">quatre-directions</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -4890,10 +4890,10 @@
 		</W>
 </S>
 <S id="HouseBuilding_S076"><AUDIO start="328.9490" end="335.5896"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʁɑ˩mi˥! | &lt;ʐ… ə˧ʑi˧˥…&gt; ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧mo˥=ɻæ˩-ɳɯ˩, | "ʐɯ˩tsɯ˥ | ɖɯ˧-li˧-ɻ̍˩-hõ˩, | ze˩ ɲi˥ | dɑ˧-bi˥?" | pi˧. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʁɑ˩mi˥! | &lt;ʐ… ə˧ʑi˧˥…&gt; ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧mo˥=ɻæ˩-ɳɯ˩, | "ʐɯ˩tsɯ˥ | ɖɯ˧-li˧-ɻ̩˩-hõ˩, | ze˩ ɲi˥ | dɑ˧-bi˥?" | pi˧. |</FORM>
 	<FORM kindOf="ortho">Tiq, hrami! eyishei, hinmolae nee: "Rizi ddeeli'er hun! Sseini ddaq bbi?" bi.</FORM>
 	<TRANSL xml:lang="fr">Autrefois, les anciens, ils disaient: "Il faut voir le calendrier! Quel jour va-t-on construire (la maison)?"</TRANSL>
-	<NOTE xml:lang="fr" message="Avant 2013, noté /‡ɖɯ˧-li˧-hõ˩/, ne relevant pas la présence de la syllabe /-ɻ̍˩/."/>
+	<NOTE xml:lang="fr" message="Avant 2013, noté /‡ɖɯ˧-li˧-hõ˩/, ne relevant pas la présence de la syllabe /-ɻ̩˩/."/>
  	<NOTE xml:lang="fr" message="Avant 2013, noté /‡dɑ˩-bi˥/."/>
 	<TRANSL xml:lang="en">Well, if you please, in the past the old people would say, "Go consult the calendar! Which day will (we) build?"</TRANSL>
 	<TRANSL xml:lang="zh">以前，老人家说：“要看看（选合适的）日子！哪天建呢？”</TRANSL>
@@ -5104,7 +5104,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S079"><AUDIO start="343.5831" end="355.0098"/>
-	<FORM kindOf="phono">tʰi˩˥, əəə… | wɤ˩˥, | dʑɯ˩ʁo˩-ɳɯ˥ | le˧-ʈɤ˧ le˧-po˧-tsʰɯ˧˥! | ɑ˩ʁo˥ | wɤ˩˥… | zo˩qo˧ dzi˩-ho˩-ɻ̍˩, | tʰv̩˧-qo˧ | wɤ˩˥, | ʈʂʰɯ˧-qo˧ dzi˩-zo˩-ho˩, | pi˧, | ʈʂe˧ | ɖɯ˧-ʈv̩˩ qwæ˩. | ə˧ʝi˧-ʂɯ˥ʝi˩, | nɑ˩-ʈʂʰɯ˥-dʑo˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, əəə… | wɤ˩˥, | dʑɯ˩ʁo˩-ɳɯ˥ | le˧-ʈɤ˧ le˧-po˧-tsʰɯ˧˥! | ɑ˩ʁo˥ | wɤ˩˥… | zo˩qo˧ dzi˩-ho˩-ɻ̩˩, | tʰv̩˧-qo˧ | wɤ˩˥, | ʈʂʰɯ˧-qo˧ dzi˩-zo˩-ho˩, | pi˧, | ʈʂe˧ | ɖɯ˧-ʈv̩˩ qwæ˩. | ə˧ʝi˧-ʂɯ˥ʝi˩, | nɑ˩-ʈʂʰɯ˥-dʑo˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, eee… uaq jjiwo nee lede lebo cee! Awo uaq ssogho zzeeq ho'er, tugho uaq teegho zzeeq ssoho bi, zhei ddeedeu ghuaeq. Eyishei, Naq tee jjo!</FORM>
 	<NOTE xml:lang="fr" message="Syntaxe intéressante: 'l'endroit où on souhaite construire la nouvelle maison' n'est pas construit avec une relative/nominalisation ('vouloir habiter'+°nmlz+'endroit') mais avec une relative utilisant le pronom interrogatif: 'où on veut habiter, cet endroit-là'"/>
 	<TRANSL xml:lang="fr">Après [=une fois qu'on a bien choisi la date pour l'abattage, et qu'on a abattu les arbres], on ramène le bois, en le tirant! [Parvenu] à la maison, à nouveau [il faut consulter le calendrier pour choisir un jour propice pour l'étape suivante]: à l'endroit où on veut habiter, on prélève une motte de terre. Autrefois, [c'est comme ça qu'on faisait, nous autres] les Na!</TRANSL>
@@ -5181,7 +5181,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -5335,9 +5335,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S081"><AUDIO start="361.2515" end="364.4372"/>
-	<FORM kindOf="phono">"o… &lt;ʈʂʰɯ˧-ɲi˧&gt; [tʰv̩˧-ɲi˧], | ʈʂʰɯ˧-qo˧-dʑo˧ | no˧=ɻ̍˩ | ɖwæ˧˥ | dʑɤ˩-ho˥! |</FORM>
+	<FORM kindOf="phono">"o… &lt;ʈʂʰɯ˧-ɲi˧&gt; [tʰv̩˧-ɲi˧], | ʈʂʰɯ˧-qo˧-dʑo˧ | no˧=ɻ̩˩ | ɖwæ˧˥ | dʑɤ˩-ho˥! |</FORM>
 	<FORM kindOf="ortho">"O, teeni teegho jjo no'er dduaeq jjaq ho!</FORM>
- <NOTE xml:lang="fr" message="Avant 2013: noté /ʈʂʰɯ˧-qo˧-dʑo˧ | ɖwæ˧˥ | dʑɤ˩-ho˥/, négligeant /no˧=ɻ̍˩/. "/>
+ <NOTE xml:lang="fr" message="Avant 2013: noté /ʈʂʰɯ˧-qo˧-dʑo˧ | ɖwæ˧˥ | dʑɤ˩-ho˥/, négligeant /no˧=ɻ̩˩/. "/>
 	<TRANSL xml:lang="fr">Il dit: euh… "oh! [cet échantillon que tu m'amènes]… ce jour-là… cet endroit (=l'emplacement d'où il provient) sera très bon! [=l'emplacement et le jour sont maintenant décidés, l'un et l'autre sont fastes]</TRANSL>
 	<TRANSL xml:lang="en">"Oh, this day, that place will be really good for you (to build a house)!</TRANSL>
 	<TRANSL xml:lang="zh">“啊！今天……那个地方是很好的！</TRANSL>
@@ -5357,7 +5357,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>no˧=ɻ̍˩</FORM>
+			<FORM>no˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°2coll</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -6302,9 +6302,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S096"><AUDIO start="430.3344" end="434.2829"/>
-	<FORM kindOf="phono">to˩qo˩lv̩˥ | le˧-tʰi˩-zo˩, | lo˩qʰwɤ˧-bv̩˧, | lo˩qʰwɤ˧-ne˩-ʝi˩-zo˩, | ʂɯ˧tɤ˧ɻ̍˧! |</FORM>
+	<FORM kindOf="phono">to˩qo˩lv̩˥ | le˧-tʰi˩-zo˩, | lo˩qʰwɤ˧-bv̩˧, | lo˩qʰwɤ˧-ne˩-ʝi˩-zo˩, | ʂɯ˧tɤ˧ɻ̩˧! |</FORM>
 	<FORM kindOf="ortho">Dogholu leti sso, lokhua bbu, lokhua niq sso shide'er!</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté ʂɯ˧tɻ̍˧, puis ʂɯ˧tr˧; ressemble phonétiquement un peu à ʈərə; est bien la même rime que dans õ˧dr˧; notation adoptée pour cette rime à l'automne 2011: tɤ.ɻ; est différent de la rime de 'patrimoine', ʈɯ˧ʈʰæ˧. (Sens de ʂɯ˧tɤ˧ɻ̍˧: bien plat, tout plat; lisse, glissant"/>
+	<NOTE xml:lang="fr" message="d'abord noté ʂɯ˧tɻ̩˧, puis ʂɯ˧tr˧; ressemble phonétiquement un peu à ʈərə; est bien la même rime que dans õ˧dr˧; notation adoptée pour cette rime à l'automne 2011: tɤ.ɻ; est différent de la rime de 'patrimoine', ʈɯ˧ʈʰæ˧. (Sens de ʂɯ˧tɤ˧ɻ̩˧: bien plat, tout plat; lisse, glissant"/>
 	<NOTE xml:lang="fr" message="Avant 2013: noté /‡lo˩qʰwɤ˧-ni˩-zo˩/."/>
 	<TRANSL xml:lang="fr">Il faut raboter jusqu'à ce que ça soit [lisse] comme la main, lisse et glissant! (=pas du tout rugueux, sans aspérités)</TRANSL>
 	<TRANSL xml:lang="en">(They'd) plane (the pillars) until they were as smooth as a hand.</TRANSL>
@@ -6350,7 +6350,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ʂɯ˧tɤ˧ɻ̍˧</FORM>
+			<FORM>ʂɯ˧tɤ˧ɻ̩˧</FORM>
 			<TRANSL xml:lang="fr">lisse</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -6446,7 +6446,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S099"><AUDIO start="441.0431" end="448.2221"/>
-	<FORM kindOf="phono">tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | ʈʂʰɯ˧=ɻ̍˩ | hĩ˧ hɤ˥-mɤ˩-hɤ˩-dʑo˩, | ɑ˩ʁo˧-bi˧-dʑo˥, | to˩mi˩-ʈʂʰɯ˩-ɭɯ˩ li˥-kv̩˩-tsɯ˩-mæ˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | ʈʂʰɯ˧=ɻ̩˩ | hĩ˧ hɤ˥-mɤ˩-hɤ˩-dʑo˩, | ɑ˩ʁo˧-bi˧-dʑo˥, | to˩mi˩-ʈʂʰɯ˩-ɭɯ˩ li˥-kv̩˩-tsɯ˩-mæ˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, eyishei, Naq tee jjo tee'er hin heq mehe jjo, awo bbi jjo, domi teelee li guq ziq mae!</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés; le groupe nominal seul serait: /to˩mi˩ ʈʂʰɯ˩-ɭɯ˩˥/"/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡ʈʂʰɯ˧-ɭɯ˩"/>
@@ -6484,7 +6484,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -6619,7 +6619,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S101"><AUDIO start="452.6766" end="457.3627"/>
-	<FORM kindOf="phono">ə˧mi˧! | ʈʂʰɯ˧=ɻ̍˩-se˩, | zo˧mv̩˥ | ɖwæ˧˥ | hɤ˩˥… | zo˧ | &lt;dʑɤ˩-wu…&gt; dʑɤ˩-hĩ˥, | hɤ˩-hĩ˩˥ | ɖɯ˧-v̩˧ dʑo˩!" | pi˧-zo˩, |</FORM>
+	<FORM kindOf="phono">ə˧mi˧! | ʈʂʰɯ˧=ɻ̩˩-se˩, | zo˧mv̩˥ | ɖwæ˧˥ | hɤ˩˥… | zo˧ | &lt;dʑɤ˩-wu…&gt; dʑɤ˩-hĩ˥, | hɤ˩-hĩ˩˥ | ɖɯ˧-v̩˧ dʑo˩!" | pi˧-zo˩, |</FORM>
 	<FORM kindOf="ortho">Ami! Tee'er sei ssomu dduaeq heq sso, jjahin hehin ddeevu jjo!" bi sso,</FORM>
  <NOTE xml:lang="fr" message="Avant 2013: noté: &lt;ʈʂʰɯ˧-se…&gt;"/>
 <TRANSL xml:lang="fr">Eeeh! (Dans) leur famille, il y a un enfant très habile… il y a un homme doué, habile!"</TRANSL>
@@ -6637,7 +6637,7 @@
 	<TRANSL xml:lang="en">°3</TRANSL>
 </W>
 <W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 	<TRANSL xml:lang="en">°associative</TRANSL>
@@ -10748,7 +10748,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S165"><AUDIO start="746.8640" end="753.2214"/>
-	<FORM kindOf="phono">tʰi˩˥, | hĩ˧ ʈʂʰɯ˧ | ɑ˩ʁo˧ bi˧, | ʈʂʰɯ˧=ɻ̍˩-se˩, | ʂwæ˩gv̩˩-ɭɯ˩˥ | tʰi˧-&lt;wɤ˧&gt;[mɤ˧-]di˩… | si˧tʰv̩˧-ɭɯ˧ | tʰi˧-mɤ˧-di˩, | ə˧tso˧ ɲi˩! | pi˧. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hĩ˧ ʈʂʰɯ˧ | ɑ˩ʁo˧ bi˧, | ʈʂʰɯ˧=ɻ̩˩-se˩, | ʂwæ˩gv̩˩-ɭɯ˩˥ | tʰi˧-&lt;wɤ˧&gt;[mɤ˧-]di˩… | si˧tʰv̩˧-ɭɯ˧ | tʰi˧-mɤ˧-di˩, | ə˧tso˧ ɲi˩! | pi˧. |</FORM>
 	<FORM kindOf="ortho">Tiq, hin tee awo bbi, tee'er sei shuaeggu lee teemeddi, seetu lee teemeddi, aezo niq bi!</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: n'est pas si˧tʰv̩˧-ɭɯ˧"/>
 	<TRANSL xml:lang="fr">Si des gens, dans leur maison, ces choses-là… s'ils n'avaient pas de buffet… s'ils n'avaient pas le meuble symbolisant la présence des ancêtres… ça ne ressemblait à rien! (littéralement "qu'est-ce que c'était que ça!") / Les maisons qui n'avaient pas ces éléments essentiels, ce n'étaient pas des maisons dignes de ce nom! (Note: ces éléments symboliques essentiels n'étaient jamais totalement absents, mais les familles les plus pauvres n'avaient que des meubles de fortune en guise de ces éléments: une planche fixée au mur au lieu du buffet, par exemple)</TRANSL>
@@ -10785,7 +10785,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -11399,14 +11399,14 @@
 		</W>
 </S>
 <S id="HouseBuilding_S174"><AUDIO start="789.8782" end="795.5959"/>
-	<FORM kindOf="phono">"njɤ˧=ɻ̍˩-se˩, | le˧-ʂɯ˧, | no˧-sɯ˩kv̩˩ | ʈʂʰo˧do˩ | ʈʂʰo˩-&lt;wɤ˩&gt;ho˥-ze˩!" | tʰi˩˥, | zo˩no˥, | ə˧ʝi˧-tsʰi˧ʝi˧-dʑo˩, | ə˧tse˧-ʝi˧-ɲi˥ | mɤ˧-do˩!</FORM>
+	<FORM kindOf="phono">"njɤ˧=ɻ̩˩-se˩, | le˧-ʂɯ˧, | no˧-sɯ˩kv̩˩ | ʈʂʰo˧do˩ | ʈʂʰo˩-&lt;wɤ˩&gt;ho˥-ze˩!" | tʰi˩˥, | zo˩no˥, | ə˧ʝi˧-tsʰi˧ʝi˧-dʑo˩, | ə˧tse˧-ʝi˧-ɲi˥ | mɤ˧-do˩!</FORM>
 	<FORM kindOf="ortho">"Nya'er sei leshi, nosigu choddo cho ho ssei!" Tiq, ssono, eyiceeyi jjo, aezei yi niq meddo!</FORM>
 	<NOTE xml:lang="fr" message="A cet endroit, un passage a été supprimé de l'enregistrement, à la demande de la locutrice."/>
 	<TRANSL xml:lang="fr">"Quand nous on sera morts, vous, vous ferez le rituel (pour nous)!" [Mais] maintenant, de nos jours, beaucoup de gens n'ont plus idée de ce que c'est (et ne pratiquent plus ce rituel: les gens qui ont quitté la vallée pour chercher du travail, qui se sont mariés ailleurs…)</TRANSL>
 	<TRANSL xml:lang="en">"When we are dead, you have to do the "choddo" chant (for us)!" But now, these days, (many people) don't know about this [i.e. they no longer practice this ritual, e.g. people who have left the Na area to look for work, who have married elsewhere, etc.]</TRANSL>
 	<TRANSL xml:lang="zh">“等我们去世了，你们要为我们做仪式！”（可是）现在，这几年，（很多人）不知道是怎么回事（=很多在外边打工或出嫁的人，都不做这个重要的仪式）！</TRANSL>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			<M>
@@ -11415,7 +11415,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>
@@ -13226,9 +13226,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S198"><AUDIO start="907.2219" end="913.6832"/>
-	<FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥ | pʰɤ˧bɤ˧ po˧-jo˥-kv̩˩-mæ˩, | tʰv̩˧-so˩! | "ə˧mi˧! | no˧ | ʑi˧qʰwɤ˧-ʂɯ˧-qo˥ dzi˩-ze˩-mæ˩! | ɳæ˧-ɻ̍˩-se˩ | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | hɤ˩-ɲi˥! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥ | pʰɤ˧bɤ˧ po˧-jo˥-kv̩˩-mæ˩, | tʰv̩˧-so˩! | "ə˧mi˧! | no˧ | ʑi˧qʰwɤ˧-ʂɯ˧-qo˥ dzi˩-ze˩-mæ˩! | ɳæ˧-ɻ̩˩-se˩ | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | hɤ˩-ɲi˥! |</FORM>
 	<FORM kindOf="ortho">Tiq, hinlae nee pebbe boq yo guq mae! "Ami! No xxikhua shiq gho zzeeq ssei mae! Nae'er sei aezei tee niq yi heq niq!</FORM>
-	<NOTE xml:lang="fr" message="on pourrait dire également: no˧-ɻ̍˩-se˩; la différence est considérée comme une simple nuance de prononciation par F4, qui indique no˧-ɻ̍˩ comme étant la forme correcte."/>
+	<NOTE xml:lang="fr" message="on pourrait dire également: no˧-ɻ̩˩-se˩; la différence est considérée comme une simple nuance de prononciation par F4, qui indique no˧-ɻ̩˩ comme étant la forme correcte."/>
 	<TRANSL xml:lang="fr">Les gens viennent avec des cadeaux. "Aahhh! Tu habites dans une maison toute neuve! Comme vous êtes habiles/comme vous êtes adroits [=Que vous avez construit une belle maison]!" (littéralement: "Comment se fait-il donc que vous soyez aussi habiles!") [disent les invités aux hôtes]</TRANSL>
 	<TRANSL xml:lang="en">Well, guests would bring gifts, eh. They'd say: "Wow! You're living in a new home! You are so skilled to have done this!</TRANSL>
 	<TRANSL xml:lang="zh">（客）人们带着礼物来，他们说：“啊呀！你们现在开始住新的房子了！你们怎么会这么能干呢？</TRANSL>
@@ -13323,7 +13323,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ɳæ˧-ɻ̍˩</FORM>
+			<FORM>ɳæ˧-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°2pl</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -13642,13 +13642,13 @@
 		</W>
 </S>
 <S id="HouseBuilding_S204"><AUDIO start="929.1407" end="933.7868"/>
-	<FORM kindOf="phono">"njɤ˧=ɻ̍˩-dʑo˩, | ʑi˧qʰwɤ˧ tsʰi˧-ɲi˥-ze˩!" | pi˧, | "ʑi˧qʰwɤ˧ | ʈʂʰɯ˧-qo˥ dzi˩-ɲi˩", | pi˧, | dʑɤ˩tsʰo˧-kv̩˥! | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+	<FORM kindOf="phono">"njɤ˧=ɻ̩˩-dʑo˩, | ʑi˧qʰwɤ˧ tsʰi˧-ɲi˥-ze˩!" | pi˧, | "ʑi˧qʰwɤ˧ | ʈʂʰɯ˧-qo˥ dzi˩-ɲi˩", | pi˧, | dʑɤ˩tsʰo˧-kv̩˥! | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 	<FORM kindOf="ortho">"Nya'er jjo xxikhua ceeq niq ssei!" bi, "Xxikhua teegho zzeeq niq" bi, jjaco guq! Eyishei.</FORM>
 	<TRANSL xml:lang="fr">on annonce: "On a construit une maison! On habite [désormais] ici, dans cette maison!" On pendait la crémaillère, dans le temps!</TRANSL>
 	<TRANSL xml:lang="en">We'd say: "We have built a house! We are living in the (new) house," (and we'd) have a (housewarming) party, in the past.</TRANSL>
 	<TRANSL xml:lang="zh">我们告诉大家：“我们建了房子了！我们住在新家！”会有乔迁庆宴，在过去！</TRANSL>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			<M>
@@ -13657,7 +13657,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>
@@ -14372,9 +14372,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S213"><AUDIO start="977.9456" end="984.4768"/>
-	<FORM kindOf="phono">"ə˧mi˧! | ʈʂʰɯ˧=ɻ̍˩-se˩", | hĩ˧=ɻæ˥… | "æ˧tso˧-æ˧mo˩-ɳɯ˩, | ɖwæ˧˥ | dʑo˧!" | pi˧-zo˩, | hĩ˧=ɻæ˥! | ɑ̃!</FORM>
+	<FORM kindOf="phono">"ə˧mi˧! | ʈʂʰɯ˧=ɻ̩˩-se˩", | hĩ˧=ɻæ˥… | "æ˧tso˧-æ˧mo˩-ɳɯ˩, | ɖwæ˧˥ | dʑo˧!" | pi˧-zo˩, | hĩ˧=ɻæ˥! | ɑ̃!</FORM>
 	<FORM kindOf="ortho">"Ami! Tee'er sei," hinlae… "Aenzo aenmo nee dduaeq jjo!" bi sso, hinlae! An!</FORM>
-	<NOTE xml:lang="fr" message="/ʈʂʰɯ˧=ɻ̍˩/: phonétiquement: proche de [ʈʂʰæ˧æ˩], peut-être du fait d'un télescopage avec /ʈʂʰɯ˧=ɻæ˥$/: °dem_prox+°pl, qui a un sens proche: 'ces choses-ci'; la proximité du morphème pluriel, dans le groupe qui suit: /hĩ˧=ɻæ˥/, est peut-être aussi pour quelque chose dans cette coloration phonétique."/>
+	<NOTE xml:lang="fr" message="/ʈʂʰɯ˧=ɻ̩˩/: phonétiquement: proche de [ʈʂʰæ˧æ˩], peut-être du fait d'un télescopage avec /ʈʂʰɯ˧=ɻæ˥$/: °dem_prox+°pl, qui a un sens proche: 'ces choses-ci'; la proximité du morphème pluriel, dans le groupe qui suit: /hĩ˧=ɻæ˥/, est peut-être aussi pour quelque chose dans cette coloration phonétique."/>
 	<TRANSL xml:lang="fr">"Houlà, eeeh bien! Ces choses-là… Les ustensiles de cuivre, vous en avez une belle collection!" qu'ils disent, les gens (=les visiteurs/voisins/gens du village).</TRANSL>
 	<TRANSL xml:lang="en">People say, "Wow! These things, you have so many copper objects!" Ah!</TRANSL>
 	<TRANSL xml:lang="zh">人家（=客人）说：“啊呀！这些，你们的铜器，可真多！”</TRANSL>
@@ -14389,7 +14389,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -15596,7 +15596,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S226"><AUDIO start="1056.4523" end="1061.8568"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʐɯ˧-po˧-ɳɯ˥, | ɖɯ˧-ʈʂʰv̩˩~ʈʂʰv̩˩-ɻ̍˩! | ʐɯ˧-ʈʂʰɯ˧, | ɑ˩ʁo˧-ɳɯ˧ | le˧-tɕɤ˧-po˥-bi˩, | ʐɯ˧ &lt;k…&gt; | ɖɯ˧-kɤ˩~ɖɯ˩-kɤ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʐɯ˧-po˧-ɳɯ˥, | ɖɯ˧-ʈʂʰv̩˩~ʈʂʰv̩˩-ɻ̩˩! | ʐɯ˧-ʈʂʰɯ˧, | ɑ˩ʁo˧-ɳɯ˧ | le˧-tɕɤ˧-po˥-bi˩, | ʐɯ˧ &lt;k…&gt; | ɖɯ˧-kɤ˩~ɖɯ˩-kɤ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, ri boq nee ddeechuchu'er! Ri tee, awo nee leja boq bbi, ri ddeege ddeege, eyishei!</FORM>
 	<TRANSL xml:lang="fr">alors, avec du vin qu'on a apporté [avec soi sur la montagne lors des campagnes d'abattage], on frotte! (Note: autrefois, en l'absence de médicaments plus spécifiques, on frottait simplement les inflammations avec du vin) Le vin, on le préparait (littéralement: "on le faisait bouillir") chez soi, bouteille après bouteille, et on en emportait avec soi [lorsqu'on partait sur la montagne], autrefois.</TRANSL>
 	<TRANSL xml:lang="en">Well, (we'd) rub in a bit of alcohol. This alcohol, it was made at home and brought (with us), bottles and bottles of alcohol, in the past. </TRANSL>
@@ -15632,7 +15632,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -17201,7 +17201,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S245"><AUDIO start="1172.3755" end="1182.6987"/>
-	<FORM kindOf="phono">ʑi˧mi˧ dɑ˧˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njɤ˧=ɻ̍˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʑi˧mi˧ | ɖwæ˧˥ | ɖɯ˧-ɭɯ˧ dɑ˧˥! | ə˧mi˧! | ɖwæ˧˥ | ɖɯ˧-ɭɯ˧ dɑ˧˥ ◊ -dʑo˩ | tʰi˩˥, | le˧-ʈɤ˧! | ɲi˧mi˧ | ɖɯ˧-ɬi˧ ʈɤ˧! |</FORM>
+	<FORM kindOf="phono">ʑi˧mi˧ dɑ˧˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njɤ˧=ɻ̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʑi˧mi˧ | ɖwæ˧˥ | ɖɯ˧-ɭɯ˧ dɑ˧˥! | ə˧mi˧! | ɖwæ˧˥ | ɖɯ˧-ɭɯ˧ dɑ˧˥ ◊ -dʑo˩ | tʰi˩˥, | le˧-ʈɤ˧! | ɲi˧mi˧ | ɖɯ˧-ɬi˧ ʈɤ˧! |</FORM>
 	<FORM kindOf="ortho">Xximi ddaq jjo, eyishei, nya'er, eyishei, xximi dduaeq ddeelee ddaq! Ami! Dduaeq ddeelee ddaq jjo, tiq, lede. Nimi ddeelhi de.</FORM>
 	<NOTE xml:lang="fr" message="ɲi˧mi˧ ɖɯ˧-ɬi˧: expression redondante, comme on dirait 'un mois de temps', ou en chinois 一个月时间"/>
 	<TRANSL xml:lang="fr">Quand on construisait une maison, autrefois, nous autres [les Latami]… autrefois, on en a construit un bon nombre, de maisons! Houlàààà! On en a construit un bon nombre; on tirait [le bois de construction depuis le lieu d'abattage]! On tirait pendant un mois de temps!</TRANSL>
@@ -17228,7 +17228,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			<M>
@@ -17237,7 +17237,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 			</M>

@@ -3544,7 +3544,7 @@
   </S>
   <S id="Agriculture_S070">
     <AUDIO start="326.1248" end="329.7174" />
-    <FORM>hĩ˧-di˧-qo˥ | no˧ | ɕi˧ɕjẽ˧ | dzɯ˧-bi˧-ni˧gv̩˧˥, | pi˧, | fæ˧tɕʰje˩ | ɖɯ˧-so˩-ɻ̍˩ &lt;h…&gt; [hwæ˩]; |</FORM>
+    <FORM>hĩ˧-di˧-qo˥ | no˧ | ɕi˧ɕjẽ˧ | dzɯ˧-bi˧-ni˧gv̩˧˥, | pi˧, | fæ˧tɕʰje˩ | ɖɯ˧-so˩-ɻ̩˩ &lt;h…&gt; [hwæ˩]; |</FORM>
     <NOTE xml:lang="fr" message="avec M23, d'abord noté /‡ɕi˧ɕɥẽ˧/ et /‡fa˥tɕʰɥe˩/" />
     <TRANSL xml:lang="fr">(En ce qui concerne les produits qu'on achète) depuis d'autres régions… comme toi tu as l'habitude de manger (des légumes) frais, alors j'achète (pour toi) quelques tomates.</TRANSL>
     <TRANSL xml:lang="zh">向其它的(地方) 呢……因为你习惯吃新鲜的，所以我（给你）买一些番茄，</TRANSL>
@@ -3589,7 +3589,7 @@
       <TRANSL xml:lang="fr">quelques</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
     </W>
     <W>
@@ -4325,7 +4325,7 @@
   <S id="Agriculture_S084">
     <AUDIO start="393.5023" end="398.7887" />
     <FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩ | le˧-ɲi˩, | wɤ˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧ɭɯ˧. | wɤ˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩ | le˧-ɲi˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧ɭɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧…-gv̩˩. |</FORM>
-    <NOTE xml:lang="fr" message="d’abord noté /‡…le˧-tɕi˧-ɻ̍˧/, puis /…le˧-tɕɯ˧ɭɯ˧/; avant 2013: noté /‡tɕi˧-ɭɯ˧/. Attribuais la réalisation [ɭɯ/lv] de M23 à une perte de /ɻ/ dans son parler; mais en fait, est bien /ɭɯ/." />
+    <NOTE xml:lang="fr" message="d’abord noté /‡…le˧-tɕi˧-ɻ̩˧/, puis /…le˧-tɕɯ˧ɭɯ˧/; avant 2013: noté /‡tɕi˧-ɭɯ˧/. Attribuais la réalisation [ɭɯ/lv] de M23 à une perte de /ɻ/ dans son parler; mais en fait, est bien /ɭɯ/." />
     <NOTE xml:lang="fr" message="d'abord noté /‡ʈʰɯ˧ ni˧˥/, avec M23" />
     <NOTE xml:lang="fr" message="/ʈʂʰɯ˧ne˧-ʝi˥ | le˧-gv̩˩/: tons vérifiés" />
     <TRANSL xml:lang="fr">de cette façon-là, on file, on file (=on file le fil, comme ça), puis on l'enroule, comme ça. C'est comme ça qu'on fabrique (le fil)!</TRANSL>
@@ -4945,7 +4945,7 @@
     <AUDIO start="438.3283" end="440.3915" />
     <FORM>ə˩kʰɯ˩˥, | pi˧-zo˩, | njɤ˧=ɻæ˩-dʑo˩! |</FORM>
     <NOTE xml:lang="fr" message="M23 n'avait pas reconnu ce passage et avait repris comme: /‡pi˩zo˩ ɲi˩ ə˩ dʑo˩!/" />
-    <NOTE xml:lang="fr" message="vérifié à nouveau en 2013: est bien /njɤ˧=ɻæ˩/ et non /njɤ˧=ɻ̍˩/." />
+    <NOTE xml:lang="fr" message="vérifié à nouveau en 2013: est bien /njɤ˧=ɻæ˩/ et non /njɤ˧=ɻ̩˩/." />
     <NOTE xml:lang="fr" message="/ə˩kʰɯ˩˥, | pi˧-zo˩!/ 'ça s’appelle /ə.kʰɯ/!' " />
     <TRANSL xml:lang="fr">Nous, (dans notre langue, ce légume,) on l’appelle: /ə.kʰɯ/!</TRANSL>
     <TRANSL xml:lang="zh">我们（自己的语言中）叫做/ə˩kʰɯ˩/！</TRANSL>

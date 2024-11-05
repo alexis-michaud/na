@@ -7,7 +7,7 @@
 	</HEADER>
 	<S id="BuriedAlive2S001">
 		<AUDIO start="0.0000" end="2.9868"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˧-ʑi˩=ɻ̍˩-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˧-ʑi˩=ɻ̩˩-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="Note antérieure à 2018: 'vérifié: n'est pas /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥…/'. Avais en conséquence noté /ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩/. Mais cette vérification était problématique: le jugement négatif de la locutrice au sujet de la forme /‡ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/ pourrait simplement refléter le fait que la contraction est maintenant si courante que la forme 'pleine', en séparant les syllabes, est perçue comme erronée, de même qu'une lecture de 'Mrs.' comme 'Mistress' pourrait être dite erronée. Rétablis provisoirement /ʈʂʰɯ˧ne˧-ʝi˥ |/. xxxx"/>
 		<TRANSL xml:lang="fr">Autrefois, dans une certaine famille, voici ce qui s'est passé.</TRANSL>
 	</S>
@@ -20,14 +20,14 @@
 	</S>
 	<S id="BuriedAlive2S003">
 		<AUDIO start="7.9292" end="12.0183"/>
-		<FORM>əəə… tsɤ˧ɭɯ˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̍˩˥! | pi˧. |</FORM>
+		<FORM>əəə… tsɤ˧ɭɯ˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̩˩˥! | pi˧. |</FORM>
 		<NOTE xml:lang="fr" message="xxxx reste à éclaircir: tsɤ˧ɭɯ˧, et tsɤ˧hɑ˧ dans la phrase suivante: sens? de quelle construction s'agit-il?"/>
 		<TRANSL xml:lang="fr">Il ne faut pas être trop gourmand, enseigne-t-on!</TRANSL>
 	</S>
 	<S id="BuriedAlive2S004">
 		<AUDIO start="12.3027" end="15.4674"/>
-		<FORM>əəə… tsɤ˧hɑ˧ ʑi˥-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̍˩˥! | pi˧. |</FORM>
-		<NOTE xml:lang="fr" message="/so˩-ɻ̍˩˥/: on pourrait également dire: /so˩-kʰwɤ˩˥/"/>
+		<FORM>əəə… tsɤ˧hɑ˧ ʑi˥-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̩˩˥! | pi˧. |</FORM>
+		<NOTE xml:lang="fr" message="/so˩-ɻ̩˩˥/: on pourrait également dire: /so˩-kʰwɤ˩˥/"/>
 		<TRANSL xml:lang="fr">Il ne faut pas être trop avide, enseigne-t-on!</TRANSL>
 	</S>
 	<S id="BuriedAlive2S005">
@@ -43,7 +43,7 @@
 	</S>
 	<S id="BuriedAlive2S007">
 		<AUDIO start="23.7495" end="28.8798"/>
-		<FORM>hĩ˧-ki˧ ki˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | hĩ˧ | ɖɯ˧-tɑ˧˥ | lo˧-ʝi˧-hɯ˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>hĩ˧-ki˧ ki˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥-dʑo˩, | hĩ˧ | ɖɯ˧-tɑ˧˥ | lo˧-ʝi˧-hɯ˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Après qu'elle se soit mariée… on dit que dans cette famille-là, tout le monde est parti travailler. / Une fois les cérémonies du mariage passées, tout le monde s'en est retourné travailler au champ, comme à l'ordinaire. [La jeune épouse est
 			restée seule à la maison, chargée des préparatifs des repas.]</TRANSL>
 	</S>
@@ -71,25 +71,25 @@
 	</S>
 	<S id="BuriedAlive2S011">
 		<AUDIO start="49.5359" end="54.6362"/>
-		<FORM>əəə… ʈʂʰɯ˧ | æ̃˩ʁv̩˩˥ | tʰi˧-tɕɤ˧-zo˥, | le˧-mv̩˩, | tɕɤ˧~tɕɤ˧ tʰi˧-dzɯ˥-ɻ̍˩-dʑo˩-ʁo˩to˩-dʑo˩, | ə˧mi˧ tʰv̩˧-jɤ˩-ɳɯ˩, |</FORM>
+		<FORM>əəə… ʈʂʰɯ˧ | æ̃˩ʁv̩˩˥ | tʰi˧-tɕɤ˧-zo˥, | le˧-mv̩˩, | tɕɤ˧~tɕɤ˧ tʰi˧-dzɯ˥-ɻ̩˩-dʑo˩-ʁo˩to˩-dʑo˩, | ə˧mi˧ tʰv̩˧-jɤ˩-ɳɯ˩, |</FORM>
 		<NOTE xml:lang="fr" message="/tɕɤ˧~tɕɤ˧/: au moment précis où; emprunt au chinois local: 将将"/>
 		<TRANSL xml:lang="fr">Les œufs qu'elle avait fait bouillir étaient cuits; au moment précis où elle s'apprêtait à les manger, cette tante… (littéralement: 'les œufs étaient cuits, grâce au fait qu'elle les avait fait bouillir')</TRANSL>
 	</S>
 	<S id="BuriedAlive2S012">
 		<AUDIO start="55.2362" end="60.3965"/>
-		<FORM>əəə… ʈʂʰɯ˧-mv̩˧-ʈʂʰɯ˧-dʑo˩, | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | mv̩˩ʈʂæ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="/ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩/: réalisé avec un pic de f0 sur la syllabe /ɖɯ˩/. On se serait attendu à un pic sur la première syllabe du mot; celui-ci se trouve reporté à la 1e syllabe de la *deuxième* partie du composé. Celle-ci porte un ton L phonologique, aussi bien que la syllabe qu'on aurait envisagée comme site attendu pour la réalisation de l'accent d'insistance; ce phénomène ne peut donc être décrit comme déplacement de l'accent d'insistance d'une syllabe à ton L (hôte non approprié) vers une syllabe portant un autre ton."/>
+		<FORM>əəə… ʈʂʰɯ˧-mv̩˧-ʈʂʰɯ˧-dʑo˩, | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ | mv̩˩ʈʂæ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr" message="/ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩/: réalisé avec un pic de f0 sur la syllabe /ɖɯ˩/. On se serait attendu à un pic sur la première syllabe du mot; celui-ci se trouve reporté à la 1e syllabe de la *deuxième* partie du composé. Celle-ci porte un ton L phonologique, aussi bien que la syllabe qu'on aurait envisagée comme site attendu pour la réalisation de l'accent d'insistance; ce phénomène ne peut donc être décrit comme déplacement de l'accent d'insistance d'une syllabe à ton L (hôte non approprié) vers une syllabe portant un autre ton."/>
 		<TRANSL xml:lang="fr">Cette jeune femme, elle s'appelait Erchei Ddeema!</TRANSL>
 	</S>
 	<S id="BuriedAlive2S013">
 		<AUDIO start="61.3115" end="64.9267"/>
-		<FORM>"ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩! | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩!" | pi˧-dʑo˩, | kɤ˧-mɤ˧-ʈʂɯ˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: n'est pas ‡pi˧-ɻ̍˩-dʑo˩; pas de syllabe entre /pi/ et /dʑo/."/>
+		<FORM>"ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩! | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩!" | pi˧-dʑo˩, | kɤ˧-mɤ˧-ʈʂɯ˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr" message="vérifié: n'est pas ‡pi˧-ɻ̩˩-dʑo˩; pas de syllabe entre /pi/ et /dʑo/."/>
 		<TRANSL xml:lang="fr">La tante l'a appelée: "Erchei Ddeema! Erchei Ddeema!!" [Mais] on dit que la jeune fille n'a pas répondu. </TRANSL>
 	</S>
 	<S id="BuriedAlive2S014">
 		<AUDIO start="65.6017" end="70.8070"/>
-		<FORM>tʰi˩˥, | "ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | tsʰi˧ɲi˧ | ə˧tse˧ hɯ˧-ɻ̍˩? | ʁɑ˩mi˧! | hɑ˧ | le˧-dzɯ˧-dʑi˧-ze˩! | zo˩no˥, | hĩ˧ F | dʑɤ˩˥ | mɤ˧-do˩!" pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | "ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ | tsʰi˧ɲi˧ | ə˧tse˧ hɯ˧-ɻ̩˩? | ʁɑ˩mi˧! | hɑ˧ | le˧-dzɯ˧-dʑi˧-ze˩! | zo˩no˥, | hĩ˧ F | dʑɤ˩˥ | mɤ˧-do˩!" pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="à la transcription, la conteuse demande le remplacement systématique du nom par /pi˧mɑ˧-ɬɑ˩tsʰo˩/, autre prénom féminin, afin d'éviter de donner à la voleuse de l'histoire un nom que portent deux de ses petites-filles: /ɖɯ˩mɑ˧/."/>
 		<NOTE xml:lang="fr" message="focalisation de /hĩ˧/: phonétiquement, évoque [hĩ˧ə˩]."/>
 		<TRANSL xml:lang="fr">Alors, elle s'est demandé: "Pourquoi donc est-ce que Erchei Ddeema a
@@ -98,7 +98,7 @@
 	</S>
 	<S id="BuriedAlive2S015">
 		<AUDIO start="71.9170" end="76.8373"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-li˧-ɻ̍˩ hɯ˩-dʑo˩, | æ̃˩ʁv̩˩-ʈʂʰɯ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-dzɯ˥, |
+		<FORM>tʰi˩˥, | ɖɯ˧-li˧-ɻ̩˩ hɯ˩-dʑo˩, | æ̃˩ʁv̩˩-ʈʂʰɯ˥ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-dzɯ˥, |
 			le˧-dzɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | qv̩˧ʈʂæ˧-qo˥ | tʰi˧-æ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">alors, elle est allée voir; comme [la jeune femme] mangeait ainsi des
 			œufs, comme elle les mangeait, un œuf s'est coincé dans sa gorge!</TRANSL>
@@ -112,7 +112,7 @@
 	</S>
 	<S id="BuriedAlive2S017">
 		<AUDIO start="84.3527" end="88.9345"/>
-		<FORM>"ə˧mi˧! | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩, | no˧ | ʈʂʰɯ˧ne˧ ʝi˥-mɤ˩-ɖo˩-mæ˩! | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥-ɲi˩?" |</FORM>
+		<FORM>"ə˧mi˧! | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩, | no˧ | ʈʂʰɯ˧ne˧ ʝi˥-mɤ˩-ɖo˩-mæ˩! | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥-ɲi˩?" |</FORM>
 		<TRANSL xml:lang="fr">"Houlà! Mais enfin, Erchei Ddeema, il ne faut pas faire ça! Qu'est-ce qui t'a pris de faire ça?</TRANSL>
 	</S>
 	<S id="BuriedAlive2S018">
@@ -124,7 +124,7 @@
 	</S>
 	<S id="BuriedAlive2S019">
 		<AUDIO start="92.4109" end="95.0267"/>
-		<FORM>tsɤ˧-ɭɯ˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩ɻ̍˩-pi˥-kv̩˩! |</FORM>
+		<FORM>tsɤ˧-ɭɯ˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩ɻ̩˩-pi˥-kv̩˩! |</FORM>
 		<TRANSL xml:lang="fr">On dit qu'il faut apprendre à ne pas être glouton/ à dominer sa
 			gourmandise!</TRANSL>
 	</S>
@@ -145,7 +145,7 @@
 	</S>
 	<S id="BuriedAlive2S022">
 		<AUDIO start="107.0761" end="112.3667"/>
-		<FORM>kɤ˧-mɤ˧-ʈʂɯ˩-dʑo˩, | æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | "le˧-ʂɯ˧-ze˧!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>kɤ˧-mɤ˧-ʈʂɯ˩-dʑo˩, | æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥-dʑo˩, | "le˧-ʂɯ˧-ze˧!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Comme elle ne répondait rien, et que sa gorge était bloquée par l'œuf, les gens de cette famille, ils se sont dit: "Elle est morte!"</TRANSL>
 	</S>
 	<S id="BuriedAlive2S023">
@@ -169,7 +169,7 @@
 	</S>
 	<S id="BuriedAlive2S026">
 		<AUDIO start="128.2807" end="131.2002"/>
-		<FORM>tʰv̩˧-v̩˧-dʑo˩, | ɬo˧tɑ˧ | le˧-do˩! | ʈʂʰɯ˧-ʑi˧-ɻ̍˥-dʑo˩, | mɤ˧-sɯ˥-tsɯ˩ ◊ -mv̩˩!
+		<FORM>tʰv̩˧-v̩˧-dʑo˩, | ɬo˧tɑ˧ | le˧-do˩! | ʈʂʰɯ˧-ʑi˧-ɻ̩˥-dʑo˩, | mɤ˧-sɯ˥-tsɯ˩ ◊ -mv̩˩!
 			|</FORM>
 		<NOTE xml:lang="fr"
 			message="explication: ce n'est pas quelqu'un de la famille qui a vu l'œuf dans la gorge, mais une amie de la jeune mariée"/>
@@ -178,9 +178,9 @@
 	</S>
 	<S id="BuriedAlive2S027">
 		<AUDIO start="132.1283" end="136.9886"/>
-		<FORM>mɤ˧-sɯ˥-dʑo˩, | ʈʂʰɯ˧ ʑi˧=ɻ̍˧-ɳɯ˥, ə˧mi˧! | ʈʂʰɯ˧ ʑi˧=ɻ̍˥-dʑo˩, | ɖʐe˧ dʑo˧, |
+		<FORM>mɤ˧-sɯ˥-dʑo˩, | ʈʂʰɯ˧ ʑi˧=ɻ̩˧-ɳɯ˥, ə˧mi˧! | ʈʂʰɯ˧ ʑi˧=ɻ̩˥-dʑo˩, | ɖʐe˧ dʑo˧, |
 			&lt;mv̩˩zo˩ ɖɯ˩-ɭɯ˩…&gt; [mv̩˩zo˩˥] | ɖɯ˧-ʑi˩ ʂe˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="prononcé proche de: /‡ʈʂʰɯ˧ ʑi˧=ɻ̍˥-ɳɯ˩/"/>
+		<NOTE xml:lang="fr" message="prononcé proche de: /‡ʈʂʰɯ˧ ʑi˧=ɻ̩˥-ɳɯ˩/"/>
 		<TRANSL xml:lang="fr">Ils ne savaient pas, les membres de cette famille, eeeh! Cette
 			famille-là était riche, c'est pour ça qu'ils avaient pris une épouse d'une autre
 			famille.</TRANSL>
@@ -207,7 +207,7 @@
 	</S>
 	<S id="BuriedAlive2S031">
 		<AUDIO start="149.2151" end="154.8348"/>
-		<FORM>le˧-nv̩˧-hɯ˧, | tʰi˩˥, | le˧-nv̩˧-hɯ˧-dʑo˩, | ʈʂʰɯ˧ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧-ɻ̍˥, | ə˧mi˧
+		<FORM>le˧-nv̩˧-hɯ˧, | tʰi˩˥, | le˧-nv̩˧-hɯ˧-dʑo˩, | ʈʂʰɯ˧ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧-ɻ̩˥, | ə˧mi˧
 			| ʈʂʰɯ˧-jɤ˩-ɳɯ˩, | ɖɯ˧-njɤ˧ | ŋv̩˩-tsɯ˥ | mv̩˩! |</FORM>
 		<TRANSL xml:lang="fr">la mère de cette famille (=la belle-mère de cette famille), elle
 			pleurait sans cesse! </TRANSL>
@@ -268,7 +268,7 @@
 	</S>
 	<S id="BuriedAlive2S039">
 		<AUDIO start="191.4132" end="198.8977"/>
-		<FORM>hĩ˧ | ʈʂʰɯ˧-ʑi˧-ɻ̍˥ | ɖɯ˧-tɑ˧˥ | le˧-ʑi˧-ʁo˥to˩-dʑo˩, | do˩-hĩ˩ tʰv̩˩-v̩˩-ɳɯ˥ ◊ -dʑo˩ | tʰi˩˥, | hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩! | ʈʂʰɯ˧ | tʰi˧-nv̩˥ ◊ -qɑ˩!</FORM>
+		<FORM>hĩ˧ | ʈʂʰɯ˧-ʑi˧-ɻ̩˥ | ɖɯ˧-tɑ˧˥ | le˧-ʑi˧-ʁo˥to˩-dʑo˩, | do˩-hĩ˩ tʰv̩˩-v̩˩-ɳɯ˥ ◊ -dʑo˩ | tʰi˩˥, | hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩! | ʈʂʰɯ˧ | tʰi˧-nv̩˥ ◊ -qɑ˩!</FORM>
 		<NOTE xml:lang="fr"
 			message="/ʈʂʰɯ˧ | tʰi˧-nv̩˥ ◊ -qɑ˩/: comme dans le document 'Housebuilding', la prononciation est proche de …ə.qɑ˩ ou -hĩ˩-qɑ˩; mais il n'y a pas de syllabe supplémentaire, c'est un des corrélats de la syllabe à initiale uvulaire /qɑ/. En 2017: poursuite de la réflexion: ce n'est pas simplement une question de phonologie. La descente sur la syllabe précédente est indispensable. Interprétation 2017: est dû à une association habituelle de la focalisation intonative (F) à ce morphème."/>
 		<TRANSL xml:lang="fr">Une fois que les gens de cette famille furent tous endormis, la personne qui l'avait vue, elle y est allée/ elle est partie! à l'endroit où on l'avait enterrée!</TRANSL>
@@ -369,7 +369,7 @@
 	<S id="BuriedAlive2S052">
 		<AUDIO start="248.0739" end="253.6345"/>
 		<FORM>"tʰɑ˧-pʰo˩! | tʰɑ˧-pʰo˩! | njɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | dzɯ˧-ɲi˥, | no˧… &lt;ɖɯ˧-p… &gt;
-			ɖɯ˧-pʰv̩˧-ɻ̍˧-pi˥-zo˩, | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-qo˧ tʰi˧-tv̩˧-zo˥!" |</FORM>
+			ɖɯ˧-pʰv̩˧-ɻ̩˧-pi˥-zo˩, | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-qo˧ tʰi˧-tv̩˧-zo˥!" |</FORM>
 		<TRANSL xml:lang="fr">"Ne t'enfuie pas, ne t'enfuis pas! Je m'étais étouffée (littéralement:
 			voilà comment j'ai mangé); en me déshabillant/en m'ôtant [mes bracelets], tu [m']as
 			appuyé là, comme ça!</TRANSL>
@@ -433,7 +433,7 @@
 	</S>
 	<S id="BuriedAlive2S060">
 		<AUDIO start="296.1951" end="298.9164"/>
-		<FORM>tʰi˩˥, | mv̩˩zo˩˥ | ɑ˩ʁo˧ ʈʂʰɯ˧-ʑi˧-ɻ̍˧-ɳɯ˥, | "mɤ˧-ʝi˧!" |</FORM>
+		<FORM>tʰi˩˥, | mv̩˩zo˩˥ | ɑ˩ʁo˧ ʈʂʰɯ˧-ʑi˧-ɻ̩˧-ɳɯ˥, | "mɤ˧-ʝi˧!" |</FORM>
 		<TRANSL xml:lang="fr">les gens de la famille de la jeune fille ont dit: "Ca ne va
 			pas!"</TRANSL>
 	</S>
@@ -456,13 +456,13 @@
 	</S>
 	<S id="BuriedAlive2S063">
 		<AUDIO start="314.1805" end="322.3822"/>
-		<FORM>"mɤ˧-ʝi˧! | ɖɯ˧-zɯ˧, | hĩ˧-ɳɯ˩ | no˩-dʑo˥ | si˧bv̩˧mi˧ tsɤ˧-ze˩!" | ɻ̍˩ɬo˧ʈi˥ |
+		<FORM>"mɤ˧-ʝi˧! | ɖɯ˧-zɯ˧, | hĩ˧-ɳɯ˩ | no˩-dʑo˥ | si˧bv̩˧mi˧ tsɤ˧-ze˩!" | ɻ̩˩ɬo˧ʈi˥ |
 			hɯ˧-ze˧!" | pi˧-ʝi˧; ʈʂʰɯ˧-kʰwɤ˥ | mv̩˧ʑi˩ po˩-tʰɑ˩-mɤ˩-ʝi˩! |</FORM>
 		<NOTE xml:lang="fr" message="si˧bv̩˧mi#˥: démone"/>
 		<NOTE xml:lang="fr"
 			message="On pourait également dire: /hĩ˧-po˩-ɳɯ˩ | ʐwɤ˩-kʰɯ˩-mɤ˩-bi˥/ 'il ne faut pas que ça se sache/ il ne faut pas que les gens soient mis au courant!'"/>
 		<NOTE xml:lang="fr"
-			message="ɻ̍˩ɬo˧ʈi˥: revenant, âme errante, défunt n'ayant pas retrouvé le chemin de la terre ancestrale"/>
+			message="ɻ̩˩ɬo˧ʈi˥: revenant, âme errante, défunt n'ayant pas retrouvé le chemin de la terre ancestrale"/>
 		<TRANSL xml:lang="fr">"Catastrophe! Quelqu'un t'a transformée en démon pour toute ta vie! Te
 			voilà devenue une revenante! Il ne faut pas que ça se sache/ il ne faut pas que les gens
 			soient mis au courant!</TRANSL>
@@ -523,7 +523,7 @@
 	</S>
 	<S id="BuriedAlive2S070">
 		<AUDIO start="361.4158" end="366.4659"/>
-		<FORM>tʰi˩˥, | mv̩˩zo˩-ɳɯ˥ | le˧-hɯ˩, | ə˧mi˧-ki˧ | le˧-hɯ˩: | "ə˧mɑ˧! kʰi˧ pʰo˧-ɻ̍˥! | njɤ˩ ɲi˩˥!" | pi˧. |</FORM>
+		<FORM>tʰi˩˥, | mv̩˩zo˩-ɳɯ˥ | le˧-hɯ˩, | ə˧mi˧-ki˧ | le˧-hɯ˩: | "ə˧mɑ˧! kʰi˧ pʰo˧-ɻ̩˥! | njɤ˩ ɲi˩˥!" | pi˧. |</FORM>
 		<TRANSL xml:lang="fr">Alors la jeune femme s'en est retournée [à la maison de sa
 			belle-famille], et elle a dit: "Mère! Ouvrez-moi! C'est moi!"</TRANSL>
 	</S>
@@ -538,33 +538,33 @@
 	</S>
 	<S id="BuriedAlive2S072">
 		<AUDIO start="373.2373" end="376.9584"/>
-		<FORM>"ə˧mɑ˧! | njɤ˧-ɳɯ˧ | ɻ̍˧bɤ˧-dʑo˧ | le˧-ʐwɤ˩-ki˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="ɻ̍˧bɤ˧: le vrai et le faux"/>
+		<FORM>"ə˧mɑ˧! | njɤ˧-ɳɯ˧ | ɻ̩˧bɤ˧-dʑo˧ | le˧-ʐwɤ˩-ki˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr" message="ɻ̩˧bɤ˧: le vrai et le faux"/>
 		<TRANSL xml:lang="fr">"Mère! Je vais dire toute la vérité sur cette affaire!" (Note: c'est
 			ici le jeune homme qui parle; il s'adresse à la mère de la jeune fille comme /ə˧mɑ˧/,
 			terme d'adresse courant pour les femmes de l'âge de sa propre mère.)</TRANSL>
 	</S>
 	<S id="BuriedAlive2S073">
 		<AUDIO start="377.4393" end="380.8946"/>
-		<FORM>"ɻ̍˧bɤ˧-dʑo˧ | tʰi˩˥, | qʰɑ˩ne˩ gv̩˩-hĩ˩˥, | njɤ˧-ɳɯ˧ | ʐwɤ˩-bi˩˥!" | pi˧-dʑo˩.
+		<FORM>"ɻ̩˧bɤ˧-dʑo˧ | tʰi˩˥, | qʰɑ˩ne˩ gv̩˩-hĩ˩˥, | njɤ˧-ɳɯ˧ | ʐwɤ˩-bi˩˥!" | pi˧-dʑo˩.
 			|</FORM>
 		<TRANSL xml:lang="fr">"Ce qu'il en est en réalité, je vais [vous] le dire!" a-t-il
 			dit.</TRANSL>
 	</S>
 	<S id="BuriedAlive2S074">
 		<AUDIO start="381.0971" end="383.6538"/>
-		<FORM>tʰi˩˥, | "ɻ̍˧bɤ˧ | qʰɑ˩ne˩ gv̩˩˥ ◊ -ɲi˩?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | "ɻ̩˧bɤ˧ | qʰɑ˩ne˩ gv̩˩˥ ◊ -ɲi˩?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
 			message="d'abord noté /qʰɑ˩ne˩ gv̩˩-ɲi˥/, qui serait également acceptable"/>
 		<TRANSL xml:lang="fr">Alors, [la mère a demandé:] "Qu'en est-il en réalité?"</TRANSL>
 	</S>
 	<S id="BuriedAlive2S075">
 		<AUDIO start="384.9701" end="395.4120"/>
-		<FORM>tʰi˩˥, | "ɻ̍˧bɤ˧-dʑo˧, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | lo˧ ʝi˧-hɯ˧-ze˩; | njɤ˩-dʑo˥, | no˧… | mv̩˩ | li˥-ɲi˩! | ɲi˧mi˧ qʰæ˧-ʂæ˧~ʂæ˧! | no˧-mv̩˩ | fv̩˧! | no˧-mv̩˩ | li˧! |</FORM>
+		<FORM>tʰi˩˥, | "ɻ̩˧bɤ˧-dʑo˧, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | lo˧ ʝi˧-hɯ˧-ze˩; | njɤ˩-dʑo˥, | no˧… | mv̩˩ | li˥-ɲi˩! | ɲi˧mi˧ qʰæ˧-ʂæ˧~ʂæ˧! | no˧-mv̩˩ | fv̩˧! | no˧-mv̩˩ | li˧! |</FORM>
 		<NOTE xml:lang="fr"
 			message="tons: intéressant: no˧-mv̩˩: votre fille; mv̩˩ li˥: regarder; ici, le changement de ton est comme si mv̩˩ appartenait à la fois au groupe tonal du verbe et à celui de /no˩/. Sinon, on trouverait: li˧-ɲi˥. (Par exemple, on dit: tʰi˧-li˧-ɲi˥.)"/>
 		<NOTE xml:lang="fr"
-			message="vérifié, est bien /ʈʂʰɯ˧=ɻ̍˩-dʑo˩/ et non un simple /‡ʈʂʰɯ˧-dʑo˩/; sans /=ɻ̍˩/, il faudrait dire: /ʈʂʰɯ˧-dʑo˧/; le schéma tonal est un indice important de la présence de la syllabe /=ɻ̍˩/."/>
+			message="vérifié, est bien /ʈʂʰɯ˧=ɻ̩˩-dʑo˩/ et non un simple /‡ʈʂʰɯ˧-dʑo˩/; sans /=ɻ̩˩/, il faudrait dire: /ʈʂʰɯ˧-dʑo˧/; le schéma tonal est un indice important de la présence de la syllabe /=ɻ̩˩/."/>
 		<TRANSL xml:lang="fr">"Eh bien, en réalité, eux, ils sont partis au travail; et moi,
 			j'observais votre fille, tout au long de la journée! J'aime votre fille! J'observais
 			votre fille!"</TRANSL>
@@ -578,8 +578,8 @@
 	</S>
 	<S id="BuriedAlive2S077">
 		<AUDIO start="401.1329" end="407.0183"/>
-		<FORM>no˧-mv̩˩-dʑo˩ | tʰi˩˥, | əəə… ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ʈʂʰɯ˩-dʑo˩, | æ̃˩ʁv̩˩-tɕɤ˥-zo˩, | æ̃˩ʁv̩˩ dzɯ˩˥! |</FORM>
-		<NOTE xml:lang="fr" message="avais noté /‡ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
+		<FORM>no˧-mv̩˩-dʑo˩ | tʰi˩˥, | əəə… ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩-ʈʂʰɯ˩-dʑo˩, | æ̃˩ʁv̩˩-tɕɤ˥-zo˩, | æ̃˩ʁv̩˩ dzɯ˩˥! |</FORM>
+		<NOTE xml:lang="fr" message="avais noté /‡ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">Votre fille, Erchei Ddeema, elle se faisait cuire des œufs et les
 			mangeait! (littéralement "se faisant cuire des œufs, elle mangeait des œufs")</TRANSL>
 	</S>
@@ -603,7 +603,7 @@
 	</S>
 	<S id="BuriedAlive2S080">
 		<AUDIO start="418.5740" end="426.9655"/>
-		<FORM>tʰi˩˥, | ʈʂʰɯ˧ ə˧mi˧-ɳɯ˧: | "mɤ˧-ʝi˧! | gɯ˩-ʝi˥ gɯ˩-ɲi˥!" &lt;qʰɑ˩… tʰi˩˥…&gt; le˧-pʰo˩-dʑo˩ | tʰi˩˥, | no˧-ʈʂʰɯ˧ | qʰɑ˩ne˩ ʝi˥?" | pi˧-dʑo˩, | "ʈʂʰɯ˧=ɻ̍˩ | tʰi˩˥, |</FORM>
+		<FORM>tʰi˩˥, | ʈʂʰɯ˧ ə˧mi˧-ɳɯ˧: | "mɤ˧-ʝi˧! | gɯ˩-ʝi˥ gɯ˩-ɲi˥!" &lt;qʰɑ˩… tʰi˩˥…&gt; le˧-pʰo˩-dʑo˩ | tʰi˩˥, | no˧-ʈʂʰɯ˧ | qʰɑ˩ne˩ ʝi˥?" | pi˧-dʑo˩, | "ʈʂʰɯ˧=ɻ̩˩ | tʰi˩˥, |</FORM>
 		<TRANSL xml:lang="fr">Alors, sa mère (=la mère de la jeune fille) a dit: "Pas possible! Et	après t'être enfui, qu'est-ce que tu as fait?" Il a répondu: "Eux, </TRANSL>
 	</S>
 	<S id="BuriedAlive2S081">
@@ -668,7 +668,7 @@
 	<S id="BuriedAlive2S088">
 		<AUDIO start="461.6956" end="469.6947"/>
 		<FORM>lo˩dʑo˥-ʈʂʰɯ˩-dʑo˩, | &lt;l…&gt; dʑɤ˩˥ | pʰv̩˧-mɤ˥-tʰɑ˩-ɲi˩-ho˩-mæ˩! | tʰi˩˥, |
-			njɤ˧-ɳɯ˧ | lo˩dʑo˥ pʰv̩˩, | ɻ̍̃˧ko˩ ʑi˩-zo˩ tʰv̩˩-qo˩… | tv̩˧-ze˥!" | pi˧-tsɯ˩ ◊ -mv̩˩.
+			njɤ˧-ɳɯ˧ | lo˩dʑo˥ pʰv̩˩, | ɻ̩̃˧ko˩ ʑi˩-zo˩ tʰv̩˩-qo˩… | tv̩˧-ze˥!" | pi˧-tsɯ˩ ◊ -mv̩˩.
 			|</FORM>
 		<TRANSL xml:lang="fr">[Mais] les bracelets, je n'arrivais guère à les enlever! / il était
 			bien difficile de les lui enlever! [Alors] je l'ai prise par les tibias, et je me suis
@@ -685,7 +685,7 @@
 	</S>
 	<S id="BuriedAlive2S090">
 		<AUDIO start="478.5671" end="484.1234"/>
-		<FORM>tʰi˩˥, | gi˩˥, | njɤ˧ | ɖɯ˧-ʂv̩˧ɖv̩˧-ɻ̍˥-dʑo˩, | qv̩˧ʈʂæ˧ æ˥-hĩ˩-ɳɯ˩, | njɤ˧ | do˩˥; |</FORM>
+		<FORM>tʰi˩˥, | gi˩˥, | njɤ˧ | ɖɯ˧-ʂv̩˧ɖv̩˧-ɻ̩˥-dʑo˩, | qv̩˧ʈʂæ˧ æ˥-hĩ˩-ɳɯ˩, | njɤ˧ | do˩˥; |</FORM>
 		<NOTE xml:lang="fr" message="présence de hĩ˩ dans qv̩˧ʈʂæ˧ æ˥-hĩ˩-ɳɯ˩ vérifiée"/>
 		<NOTE xml:lang="fr" message="d'abord noté æ̃˥; mais la nasalité n'est pas phonémique."/>
 		<TRANSL xml:lang="fr">Ensuite, oui-dame, en y réfléchissant, [je me suis souvenu que] je
@@ -716,7 +716,7 @@
 	</S>
 	<S id="BuriedAlive2S094">
 		<AUDIO start="503.4378" end="508.8676"/>
-		<FORM>tʰi˩˥, "ʁɑ˩mi˧-ze˩!" | pi˧-dʑo˩ | tʰi˩˥, | ɲi˧-kv̩˧˥ | &lt;ʈʂʰɯ˧…&gt; ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | hĩ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʑi˩~ʑi˩; |</FORM>
+		<FORM>tʰi˩˥, "ʁɑ˩mi˧-ze˩!" | pi˧-dʑo˩ | tʰi˩˥, | ɲi˧-kv̩˧˥ | &lt;ʈʂʰɯ˧…&gt; ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | hĩ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʑi˩~ʑi˩; |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-dʑo˩/, ne distinguant pas la syllabe /=ɻ/ (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">Comme elle me remerciait, eh bien… [nous] deux… eux, tous les gens, ils étaient en train de dormir.</TRANSL>
 	</S>
@@ -801,13 +801,13 @@
 	<S id="BuriedAlive2S105">
 		<AUDIO start="557.5993" end="563.7291"/>
 		<FORM>mv̩˩-ɳɯ˥: "ə˧mɑ˧!" | pi˧-dʑo˩, | "no˧-ɳɯ˧… no˧ ɲi˩-ɲi˥?" | pi˧, | "njɤ˩-dʑo˧, |
-			ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ ɲi˩!" | pi˧, |</FORM>
+			ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ ɲi˩!" | pi˧, |</FORM>
 		<TRANSL xml:lang="fr">La fille a dit: "Maman!" [Alors la mère a demandé:] "Qui êtes-vous? -
 			Je suis Erchei Ddeema!"</TRANSL>
 	</S>
 	<S id="BuriedAlive2S106">
 		<AUDIO start="564.0566" end="569.4745"/>
-		<FORM>"tʰɑ˧-ʐwɤ˩-ɻ̍˩! | njɤ˧ | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | le˧-ʂɯ˧-ɲi˥-ze˩! | ʁɑ˩mi˧! | le˧-ʂɯ˧ |
+		<FORM>"tʰɑ˧-ʐwɤ˩-ɻ̩˩! | njɤ˧ | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ | le˧-ʂɯ˧-ɲi˥-ze˩! | ʁɑ˩mi˧! | le˧-ʂɯ˧ |
 			ɖɯ˧-ɲi˧ hɑ̃˧ gv̩˥-ze˩!" |</FORM>
 		<TRANSL xml:lang="fr">"Taisez-vous donc! Mon Erchei Ddeema, elle est morte! Hélas! Elle
 			est morte depuis quelques jours déjà!" (littéralement "plusieurs jours ont déjà passé
@@ -815,13 +815,13 @@
 	</S>
 	<S id="BuriedAlive2S107">
 		<AUDIO start="569.8305" end="572.9345"/>
-		<FORM>no˧ | ʁɑ˩mi˧ | gɯ˩-ʝi˥ | &lt;le˧…&gt; ə˧tso˧ | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ ɲi˩? |</FORM>
+		<FORM>no˧ | ʁɑ˩mi˧ | gɯ˩-ʝi˥ | &lt;le˧…&gt; ə˧tso˧ | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ ɲi˩? |</FORM>
 		<TRANSL xml:lang="fr">Vous, pitié… Pour de vrai… Quelle Erchei Ddeema êtes-vous
 			donc?</TRANSL>
 	</S>
 	<S id="BuriedAlive2S108">
 		<AUDIO start="573.3189" end="576.5298"/>
-		<FORM>no˧ | tʰɑ˧-ʐwɤ˩-ɻ̍˩! | njɤ˧ | ɖwæ˩-zo˥ | mɤ˧-tʰɑ˧˥!" | pi˧, | le˧-wo˧-hɯ˧, |
+		<FORM>no˧ | tʰɑ˧-ʐwɤ˩-ɻ̩˩! | njɤ˧ | ɖwæ˩-zo˥ | mɤ˧-tʰɑ˧˥!" | pi˧, | le˧-wo˧-hɯ˧, |
 			pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Taisez-vous donc! Cessez d'essayer de me faire peur/Que venez-vous
 			m'effrayer! 不要吓唬我！</TRANSL>
@@ -867,14 +867,14 @@
 		<AUDIO start="610.2120" end="613.7147"/>
 		<FORM>"no˩bv̩˧… | no˩bv̩˧… | no˩bv̩˧-tsʰɯ˩ɻ̩˩, | no˧ | gɯ˩-ʝi˥ gɯ˩ ɲi˥!" |
 			pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̍˩/"/>
+		<NOTE xml:lang="fr" message="d'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̩˩/"/>
 		<TRANSL xml:lang="fr">Aaaah! Nobbu… Nobbu… Nobbu Ci'er, c'est bel et bien toi!"
 			a dit [la mère].</TRANSL>
 	</S>
 	<S id="BuriedAlive2S114">
 		<AUDIO start="614.8111" end="616.9896"/>
 		<FORM>ə, ʈæ˧ʂɯ˧ | pi˧-mɤ˧-ɲi˥-ze˩! | no˩bv̩˧-tsʰɯ˩ɻ̩˩ pi˩-ɲi˩! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̍˩/"/>
+		<NOTE xml:lang="fr" message="d'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̩˩/"/>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /no˩bv̩˧-tsʰɯ˩ɻ̩˩ | pi˧-ɲi˥/"/>
 		<TRANSL xml:lang="fr">Il ne faut plus l'appeler ʈæ˧ʂɯ˧! Il faut l'appeler Nobbu Ci'er!
 			(voir ci-dessus: la conteuse se ravise au cours du récit, se rendant compte qu'elle
@@ -885,7 +885,7 @@
 	<S id="BuriedAlive2S115">
 		<AUDIO start="617.3313" end="619.9085"/>
 		<FORM>"no˩bv̩˧-tsʰɯ˩ɻ̩˩! | no˧ | gɯ˩-ʝi˥ gɯ˩-wɤ˥!" | pi˧-dʑo˩, |</FORM>
-		<NOTE xml:lang="fr" message="D'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̍˩/. La troisième voyelle est ensuite corrigée de /ɤ/ en /ɯ/. Puis le schéma tonal est corrigé de M.H.L.L (no˧bv̩˥-tsʰɯ˩ɻ̍˩) en L.M.L.L (no˩bv̩˧-tsʰɯ˩ɻ̩˩), en 2024, harmonisant (tardivement) avec le dictionnaire et avec la version 3 du texte."/>
+		<NOTE xml:lang="fr" message="D'abord noté /no˧bv̩˥-tsʰɤ˩ɻ̩˩/. La troisième voyelle est ensuite corrigée de /ɤ/ en /ɯ/. Puis le schéma tonal est corrigé de M.H.L.L (no˧bv̩˥-tsʰɯ˩ɻ̩˩) en L.M.L.L (no˩bv̩˧-tsʰɯ˩ɻ̩˩), en 2024, harmonisant (tardivement) avec le dictionnaire et avec la version 3 du texte."/>
 		<TRANSL xml:lang="fr">Nobbu Ci'er, c'est bel et bien toi!" a dit [la mère];</TRANSL>
 	</S>
 	<S id="BuriedAlive2S116">
@@ -896,7 +896,7 @@
 	<S id="BuriedAlive2S117">
 		<AUDIO start="623.8384" end="634.9163"/>
 		<FORM>tʰi˩˥, | gɯ˩-ʝi˥ gɯ˩-pi˥, | tʰi˩˥, | ə˧mi˧-ɳɯ˧ | &lt;mv̩˩˥…&gt; "mɤ˧-ʝi˧-ze˧! |
-			no˩-dʑo˥, əəə… zo˩no˥, | le˧-ʂɯ˧-zo˩, | tɕʰɯ˧si˩-dʑɤ˩pv̩˩-ki˩ ɖɯ˧-tʰv̩˧-ɻ̍˩ hɯ˩-ɲi˩-ze˩!
+			no˩-dʑo˥, əəə… zo˩no˥, | le˧-ʂɯ˧-zo˩, | tɕʰɯ˧si˩-dʑɤ˩pv̩˩-ki˩ ɖɯ˧-tʰv̩˧-ɻ̩˩ hɯ˩-ɲi˩-ze˩!
 			| le˧-sɯ˧-tʰɑ˧-jo˧˥!" | pi˧-zo˩, | le˧-jo˩-mɤ˩-kʰɯ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="tɕʰɯ˧si˩-dʑɤ˩pv̩˩: démon, monstre, fantôme"/>
 		<NOTE xml:lang="fr"
@@ -981,7 +981,7 @@
 	</S>
 	<S id="BuriedAlive2S127">
 		<AUDIO start="673.7741" end="676.7643"/>
-		<FORM>ʈʂʰɯ˧-ʑi˥-ki˩ hɯ˩-dʑo˩, | mv̩˩ ʈʂʰɯ˩-ʑi˩-ɻ̍˥, | ə˧mi˧-ki˧: |</FORM>
+		<FORM>ʈʂʰɯ˧-ʑi˥-ki˩ hɯ˩-dʑo˩, | mv̩˩ ʈʂʰɯ˩-ʑi˩-ɻ̩˥, | ə˧mi˧-ki˧: |</FORM>
 		<TRANSL xml:lang="fr">Les gens de la famille de la fille, ils se sont rendus auprès de cette
 			famille (=de la belle-famille de la jeune femme), et ils ont dit aux mères/tantes (=aux
 			femmes de la famille du marié):</TRANSL>
@@ -998,12 +998,12 @@
 	</S>
 	<S id="BuriedAlive2S129">
 		<AUDIO start="682.2036" end="687.0305"/>
-		<FORM>tʰi˩˥, | ə˧tse˧ ʝi˧? | ə˩zɯ˩˥, | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩ | ɖɯ˧-zɯ˧ | qʰwæ˧kʰwɤ˧ tsɤ˧-ze˩-mɤ˩-ze˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | ə˧tse˧ ʝi˧? | ə˩zɯ˩˥, | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩ | ɖɯ˧-zɯ˧ | qʰwæ˧kʰwɤ˧ tsɤ˧-ze˩-mɤ˩-ze˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
 			message="/qʰwæ˧kʰwɤ˧/: 'ragots, histoires, racontars'; avais d'abord noté /‡qʰwæ˧qʰwɤ˧/."/>
 		<NOTE xml:lang="fr" message="tons vérifiés, est: ə˧tse˧ ʝi˧"/>
 		<NOTE xml:lang="fr"
-			message="À la réécoute, la locutrice demande à ce que /ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩/ soit remplacé par /njɤ˧ | mv̩˩-ɳɯ˥/: comme précédemment, il s'agit d'éviter l'emploi d'un prénom qui est celui de membres de la famille de la narratrice."/>
+			message="À la réécoute, la locutrice demande à ce que /ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩-ɳɯ˩/ soit remplacé par /njɤ˧ | mv̩˩-ɳɯ˥/: comme précédemment, il s'agit d'éviter l'emploi d'un prénom qui est celui de membres de la famille de la narratrice."/>
 		<TRANSL xml:lang="fr">Alors, que se passe-t-il? Nous deux… Erchei Ddeema, la voilà
 			devenue l'objet des racontars pour toute sa vie!"</TRANSL>
 	</S>
@@ -1024,7 +1024,7 @@
 	</S>
 	<S id="BuriedAlive2S132">
 		<AUDIO start="698.8915" end="705.0427"/>
-		<FORM>"ʁɑ˩mi˧! | njɤ˧ | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩-ʈʂʰɯ˩-dʑo˩, | no˧sɯ˩kv̩˩ | tʰv̩˧-ɲi˧ | lo˧ ʝi˧-hɯ˧-tsɯ˩; |</FORM>
+		<FORM>"ʁɑ˩mi˧! | njɤ˧ | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩-ʈʂʰɯ˩-dʑo˩, | no˧sɯ˩kv̩˩ | tʰv̩˧-ɲi˧ | lo˧ ʝi˧-hɯ˧-tsɯ˩; |</FORM>
 		<TRANSL xml:lang="fr">Pardon! Mon Erchei Ddeema (=ma fille Erchei Ddeema)… vous, ce jour-là, vous étiez partis travailler; </TRANSL>
 	</S>
 	<S id="BuriedAlive2S133">
@@ -1074,8 +1074,8 @@
 	<S id="BuriedAlive2S139">
 		<AUDIO start="742.0211" end="752.3443"/>
 		<FORM>tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧=zɯ˩-dʑo˩ | ɖwæ˧˥ | fv̩˧~fv̩˩-ɲi˩-dʑo˩, |
-			ə˩zɯ˩˥… | njæ˧sɯ˩kv̩˩… | ə˧sɯ˩kv̩˩… | no˧=ɻ̍˩ | njɤ˧=ɻ̍˩ fv̩˩, | njɤ˧=ɻ̍˩ |
-			no˧=ɻ̍˩ fv̩˩, | no˧-ki˧ ki˩-dʑo˩;</FORM>
+			ə˩zɯ˩˥… | njæ˧sɯ˩kv̩˩… | ə˧sɯ˩kv̩˩… | no˧=ɻ̩˩ | njɤ˧=ɻ̩˩ fv̩˩, | njɤ˧=ɻ̩˩ |
+			no˧=ɻ̩˩ fv̩˩, | no˧-ki˧ ki˩-dʑo˩;</FORM>
 		<TRANSL xml:lang="fr">Alors, [la mère a poursuivi:] "Avec Nobbu Ci'er, eux deux, ils
 			s'aimaient beaucoup; nous deux… nous autres… nous [inclusif]… vous nous appréciez,
 			nous vous apprécions, nous vous avons donné [notre fille]";</TRANSL>
@@ -1153,9 +1153,9 @@
 	</S>
 	<S id="BuriedAlive2S149">
 		<AUDIO start="811.0085" end="816.2627"/>
-		<FORM>"ə˧mi˧! | ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ ʈʂʰɯ˩-dʑo˩ | ʈʂʰɯ˧-ki˩ ki˩&lt;-dʑo˩&gt;[-zo˩], | ɻ̍˩ɬo˧ʈi˥-zo˩ | hɯ˧-ze˧", | pi˧-ʝi˧! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˧/"/>
-		<NOTE xml:lang="fr" message="syllabe /-zo˩/ dans /ɻ̍˩ɬo˧ʈi˥-zo˩/: ajoutée en avril 2020, suite à une observation de Ludger Paschen."/>
+		<FORM>"ə˧mi˧! | ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ ʈʂʰɯ˩-dʑo˩ | ʈʂʰɯ˧-ki˩ ki˩&lt;-dʑo˩&gt;[-zo˩], | ɻ̩˩ɬo˧ʈi˥-zo˩ | hɯ˧-ze˧", | pi˧-ʝi˧! |</FORM>
+		<NOTE xml:lang="fr" message="d'abord noté /‡ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩ | ʈʂʰɯ˧-dʑo˧/"/>
+		<NOTE xml:lang="fr" message="syllabe /-zo˩/ dans /ɻ̩˩ɬo˧ʈi˥-zo˩/: ajoutée en avril 2020, suite à une observation de Ludger Paschen."/>
 		<TRANSL xml:lang="fr">"Houlà! Erchei Ddeema, après s'être mariée avec lui, elle est devenue
 			un démon!" Voilà ce que les gens vont dire!</TRANSL>
 	</S>
@@ -1183,7 +1183,7 @@
 	</S>
 	<S id="BuriedAlive2S153">
 		<AUDIO start="833.8334" end="836.3537"/>
-		<FORM>no˧=ɻ̍˩, | le˧-ʂɯ˧-ze˧, | tʰɑ˧-pi˧-ɻ̍˥! |</FORM>
+		<FORM>no˧=ɻ̩˩, | le˧-ʂɯ˧-ze˧, | tʰɑ˧-pi˧-ɻ̩˥! |</FORM>
 		<NOTE xml:lang="fr"
 			message="intéressant pour structure de l'information: contact entre vocatif et groupe verbal; ambigu, pourrait être sujet."/>
 		<TRANSL xml:lang="fr">Ne dites plus qu'elle est morte! </TRANSL>
@@ -1191,15 +1191,15 @@
 	<S id="BuriedAlive2S154">
 		<AUDIO start="837.5070" end="842.7185"/>
 		<FORM>le˧-ʂɯ˧ le˧-wo˧-tsʰɯ˧˥ | tsʰɯ˩-pi˩, | ə˩-sɯ˧kv̩˥, | tʰi˩˥, | æ̃˩ʁv̩˩ dzɯ˩ tʰv̩˩-kʰwɤ˩˥,
-			| hĩ˧-ki˧ | tʰɑ˧-pi˧-ɻ̍˥! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié, n'est pas tsʰɯ˧-ɻ̍˥ | tsʰɯ˩"/>
-		<NOTE xml:lang="fr" message="on pourrait également dire: tʰɑ˧-ʐwɤ˧-ɻ̍˥"/>
+			| hĩ˧-ki˧ | tʰɑ˧-pi˧-ɻ̩˥! |</FORM>
+		<NOTE xml:lang="fr" message="vérifié, n'est pas tsʰɯ˧-ɻ̩˥ | tsʰɯ˩"/>
+		<NOTE xml:lang="fr" message="on pourrait également dire: tʰɑ˧-ʐwɤ˧-ɻ̩˥"/>
 		<TRANSL xml:lang="fr">Entendons-nous pour dire qu'elle est morte puis revenue
 			(=ressuscitée); ne racontons pas le coup qu'elle a mangé des œufs! </TRANSL>
 	</S>
 	<S id="BuriedAlive2S155">
 		<AUDIO start="842.8751" end="846.5345"/>
-		<FORM>le˧-ʂɯ˧ le˧-wo˧-tsʰɯ˧-ze˥ | pi˧! | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʐwɤ˩-ɻ̍˩! |</FORM>
+		<FORM>le˧-ʂɯ˧ le˧-wo˧-tsʰɯ˧-ze˥ | pi˧! | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʐwɤ˩-ɻ̩˩! |</FORM>
 		<TRANSL xml:lang="fr">Disons qu'elle est morte et ressuscitée! Expliquons donc ça
 			ainsi!</TRANSL>
 	</S>
@@ -1233,9 +1233,9 @@
 	<S id="BuriedAlive2S159">
 		<AUDIO start="867.1808" end="879.0845"/>
 		<FORM>mmm… ʁo˧dɑ˧, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧ fv̩˧! | tʰi˩˥, | ə˧zɯ˩, | no˧sɯ˩kv̩˩-ɳɯ˩, |
-			njɤ˧=ɻ̍˩-ɳɯ˩, | no˧-mv̩˩ | fv̩˧-pi˧, | no˧=ɻ̍˩-ɳɯ˩, | njɤ˧-zo˧ | fv̩˧-pi˧, |
-			&lt;ə˧zɯ˩-ʈʂʰɯ˩…&gt; ə˩-sɯ˧kv̩˥ | fv̩˧~fv̩˩-ɻ̍˩, | ɖɯ˧-ʑi˩ ʝi˩ kʰɯ˩-ɲi˩-ze˩, |</FORM>
-		<NOTE xml:lang="fr" message="vérifié, n'est pas …ɖɯ˧-ʑi˩-ɻ̍˩"/>
+			njɤ˧=ɻ̩˩-ɳɯ˩, | no˧-mv̩˩ | fv̩˧-pi˧, | no˧=ɻ̩˩-ɳɯ˩, | njɤ˧-zo˧ | fv̩˧-pi˧, |
+			&lt;ə˧zɯ˩-ʈʂʰɯ˩…&gt; ə˩-sɯ˧kv̩˥ | fv̩˧~fv̩˩-ɻ̩˩, | ɖɯ˧-ʑi˩ ʝi˩ kʰɯ˩-ɲi˩-ze˩, |</FORM>
+		<NOTE xml:lang="fr" message="vérifié, n'est pas …ɖɯ˧-ʑi˩-ɻ̩˩"/>
 		<TRANSL xml:lang="fr">Alors comme ça, autrefois, Nobbu Ci'er l'aimait! Eh bien, nous
 			deux… Vous autres, nous, on apprécie votre fille; vous autres, vous appréciez notre
 			fils; on s'apprécie mutuellement, on est devenu une seule famille; </TRANSL>
@@ -1275,7 +1275,7 @@
 	<S id="BuriedAlive2S164">
 		<AUDIO start="899.8056" end="904.9235"/>
 		<FORM>ʂɯ˧-hɑ̃˧˥, | gɤ˩-ʈʂʰwæ˧-dʑo˥, | gɤ˩-ʈʂʰwæ˧-ʁo˧to˩-dʑo˩ | &lt;mɤ˧-t…&gt; ɖɯ˧-pi˧˥ |
-			mɤ˧-ɳɻ̍˧~ɳɻ̍˧ ʂe˧~ʂe˧ gv̩˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+			mɤ˧-ɳɻ̩˧~ɳɻ̩˧ ʂe˧~ʂe˧ gv̩˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Le septième jour [=le jour où elle pouvait se présenter à nouveau aux
 			gens, se prétendant ressuscitée], en se levant, au moment de se lever, elle s'est
 			trouvée un peu perdue; sans trop savoir pourquoi, elle a attrapé froid.</TRANSL>
@@ -1434,9 +1434,9 @@
 	</S>
 	<S id="BuriedAlive2S185">
 		<AUDIO start="999.5637" end="1004.1691"/>
-		<FORM>əəə… "ʐwɤ˩-mɤ˩-kv̩˩˥ ◊ -dʑo˩, | so˩-kʰwɤ˩˥! | tsɤ˧-ɻ̍˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, |
-			so˩-ɻ̍˩"-pi˥! |</FORM>
-		<NOTE xml:lang="fr" message="dans so˩-ɻ̍˩: paraît être le morphème d'inchoatif"/>
+		<FORM>əəə… "ʐwɤ˩-mɤ˩-kv̩˩˥ ◊ -dʑo˩, | so˩-kʰwɤ˩˥! | tsɤ˧-ɻ̩˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, |
+			so˩-ɻ̩˩"-pi˥! |</FORM>
+		<NOTE xml:lang="fr" message="dans so˩-ɻ̩˩: paraît être le morphème d'inchoatif"/>
 		<TRANSL xml:lang="fr">Voilà ce qu'on disait: "Les paroles inconsidérées, il ne faut pas en
 			enchaîner trois [sinon on fâche les gens]; les petites gourmandises, il ne faut pas y
 			revenir à trois reprises [sinon ça devient du chapardage]!" (littéralement: Les choses
@@ -1458,22 +1458,22 @@
 	<S id="BuriedAlive2S187">
 		<AUDIO start="1008.4460" end="1015.0137"/>
 		<FORM>tʰi˩˥, | dzɯ˧-ʈʂʰɯ˧-dʑo˩, | &lt;so…&gt; əəə… tsɤ˧ | le˧-ʐwæ˩-hĩ˩-ʈʂʰɯ˩-dʑo˩, |
-			so˩-kʰwɤ˩ dzɯ˩˥ ◊ -dʑo˩… | so˩-ɻ̍˩-pi˥-kv̩˩-mæ˩, | so˩-kʰwɤ˩ ʈʂʰɯ˥-dʑo˩! |</FORM>
+			so˩-kʰwɤ˩ dzɯ˩˥ ◊ -dʑo˩… | so˩-ɻ̩˩-pi˥-kv̩˩-mæ˩, | so˩-kʰwɤ˩ ʈʂʰɯ˥-dʑo˩! |</FORM>
 		<TRANSL xml:lang="fr">et pour ce qui est de la nourriture, si on est gourmand à l'excès, et
 			qu'on mange trois morceaux[, ça devient du vol!] Oui, "trois morceaux", c'est cela qu'on
-			entend par "à trois reprises" [na: so˩-ɻ̍˩˥], dans ce proverbe! / Ce que veut dire
+			entend par "à trois reprises" [na: so˩-ɻ̩˩˥], dans ce proverbe! / Ce que veut dire
 			l'expression "à trois reprises", dans ce proverbe, c'est qu'il ne faut pas chaparder
 			trois bouchées d'affilée! </TRANSL>
 	</S>
 	<S id="BuriedAlive2S188">
 		<AUDIO start="1015.2620" end="1020.6843"/>
-		<FORM>"tsɤ˧-ɻ̍˧ | &lt;ʑ… ɖɯ&gt; ʑi˩-mɤ˩-ʁo˩˥, | pi˧-dʑo˩, | so˩-ɻ̍˩"-pi˥-kv̩˩-mæ˩! | so˩-kʰwɤ˩-dzɯ˩-hĩ˩˥ ◊ -ʈʂʰɯ˩-dʑo˩, | ɖɯ˩lo˧ dʑo˧-ɲi˥! |</FORM>
+		<FORM>"tsɤ˧-ɻ̩˧ | &lt;ʑ… ɖɯ&gt; ʑi˩-mɤ˩-ʁo˩˥, | pi˧-dʑo˩, | so˩-ɻ̩˩"-pi˥-kv̩˩-mæ˩! | so˩-kʰwɤ˩-dzɯ˩-hĩ˩˥ ◊ -ʈʂʰɯ˩-dʑo˩, | ɖɯ˩lo˧ dʑo˧-ɲi˥! |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡so˩-kʰwɤ˩-dzɯ˩-hĩ˩˥, | ʈʂʰɯ˧-dʑo˩/; ce qui se passe ici: arasement des tons de /ʈʂʰɯ.dʑo/ en L, en dépit du ton montant qui précède, et qui paraît signaler une fin de groupe tonal."/>
 		<TRANSL xml:lang="fr">Voilà ce qu'on dit: "Les gourmandises: le seuil, c'est trois! / il ne faut pas se laisser aller à trois reprises!" Il existe ce principe, des trois bouchées qu'on mange!</TRANSL>
 	</S>
 	<S id="BuriedAlive2S189">
 		<AUDIO start="1021.0046" end="1024.7690"/>
-		<FORM>mmm… "no˧ | ʂɤ˧do˧-mɤ˧-zo˧"-pi˥-zo˩, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʂv̩˧
+		<FORM>mmm… "no˧ | ʂɤ˧do˧-mɤ˧-zo˧"-pi˥-zo˩, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʂv̩˧
 			le˧-po˧-hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">[Alors, pour en revenir à notre histoire:] voilà comment ils l'ont
 			fait revenir [à la maison], en lui disant "Tu n'as pas à avoir honte!"</TRANSL>
@@ -1481,7 +1481,7 @@
 	<S id="BuriedAlive2S190">
 		<AUDIO start="1025.3136" end="1031.5449"/>
 		<FORM>tʰi˩˥, | &lt;zo˧-ʈʂʰɯ˧-ʑi-pɤ…&gt; zo˧-tʰv̩˧-v̩˧-pɤ˩-to˩, | tʰi˩˥, | ɖɯ˧-zɯ˧ | tʰi˩˥
-			| &lt;mi˩z…&gt; ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | "ʁɑ˩mi˧-ze˩-ɳɯ˩ | ʁɑ˩mi˧-ze˩!" | pi˧ | tʰi˩˥,
+			| &lt;mi˩z…&gt; ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | "ʁɑ˩mi˧-ze˩-ɳɯ˩ | ʁɑ˩mi˧-ze˩!" | pi˧ | tʰi˩˥,
 			|</FORM>
 		<TRANSL xml:lang="fr">Même ce jeune homme (=l'amoureux de la jeune fille), toute sa vie…
 			les gens de cette famille (=de la belle-famille), ils lui ont dit: "Merci! merci!"

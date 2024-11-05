@@ -135,7 +135,7 @@
 		</W>
 </S>
 <S id="FOOD_SHORTAGE2S003"><AUDIO start="15.5200" end="25.3766"></AUDIO>
-	<FORM kindOf="phono">hɑ˧-ʐwɤ˩-dʑo˩ | tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | hĩ˧-ʈʂʰɯ˧, | əəə… ə˧dɑ˧-ə˧mi˧ ɲi˥-kv̩˩, | zo˧mv̩˥ | dʑɤ˩so˧-ɭɯ˩ dʑo˩-tsɯ˩ ◊ -mv̩˩! |</FORM>
+	<FORM kindOf="phono">hɑ˧-ʐwɤ˩-dʑo˩ | tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̩˩-dʑo˩, | hĩ˧-ʈʂʰɯ˧, | əəə… ə˧dɑ˧-ə˧mi˧ ɲi˥-kv̩˩, | zo˧mv̩˥ | dʑɤ˩so˧-ɭɯ˩ dʑo˩-tsɯ˩ ◊ -mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés, n'est pas /‡dʑɤ˩so˧-ɭɯ˧/."></NOTE>
 	<NOTE xml:lang="fr" message="découpage vérifié, n'est pas /dʑɤ˩so˧-ɭɯ˩ | dʑo…/."></NOTE>
 	<TRANSL xml:lang="fr">Comme la faim régnait… Il y avait une famille, les gens, euh… Le père et la mère, tous les deux, ils avaient quantité d'enfants!</TRANSL>
@@ -160,7 +160,7 @@
 			<TRANSL xml:lang="fr">famille</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -217,8 +217,8 @@
 		</W>
 </S>
 <S id="FOOD_SHORTAGE2S004"><AUDIO start="25.3766" end="31.2128"></AUDIO>
-	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɲi˧-ɻ̍˧-dʑo˩, | hɑ˧-ʈʂʰɯ˧ | tɕʰɤ˧tɕʰɤ˧˥ | dzɯ˧-di˧ mɤ˧-dʑo˧˥, | ɖɯ˧-so˩ ɲi˩ gv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-	<NOTE xml:lang="fr" message="vérifié: est bien: /ɖɯ˧-ɲi˧-ɻ̍˧-dʑo˩/, et non /‡ɖɯ˧-ɲi˧-ɻ̍˩-dʑo˩/. On pourrait également dire: /ɖɯ˧-ɲi˥-dʑo˩/. Soigneusement vérifié. "></NOTE>
+	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɲi˧-ɻ̩˧-dʑo˩, | hɑ˧-ʈʂʰɯ˧ | tɕʰɤ˧tɕʰɤ˧˥ | dzɯ˧-di˧ mɤ˧-dʑo˧˥, | ɖɯ˧-so˩ ɲi˩ gv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<NOTE xml:lang="fr" message="vérifié: est bien: /ɖɯ˧-ɲi˧-ɻ̩˧-dʑo˩/, et non /‡ɖɯ˧-ɲi˧-ɻ̩˩-dʑo˩/. On pourrait également dire: /ɖɯ˧-ɲi˥-dʑo˩/. Soigneusement vérifié. "></NOTE>
 	<TRANSL xml:lang="fr">Or un jour, en fait de nourriture, il n'y a plus rien eu à manger du tout; quelques jours ont passé ainsi. / Un jour, les provisions se sont tout-à-fait épuisées; quelques jours ont passé ainsi (=sans nourriture).</TRANSL>
 		<W>
 			<FORM>tʰi˩˥</FORM>
@@ -233,7 +233,7 @@
 			<TRANSL xml:lang="fr">jour</TRANSL>
 		</W>
 		<W>
-			<FORM>-ɻ̍˩</FORM>
+			<FORM>-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -336,7 +336,7 @@
 	<TRANSL xml:lang="fr">"[Quant à savoir] où [notre fille] va se retrouver [à l'avenir], où qu'on la vende (=quelle que soit la famille à laquelle on la vend), par la suite/à l'avenir, on pourra… on saura! Elle reste notre fille, de toute façon!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S014"><AUDIO start="75.9791" end="81.4869"></AUDIO>
-	<FORM kindOf="phono">tʰi˩˥, | ə˧dɑ˧ tʰv̩˧-v̩˧-ɳɯ˩: | "tʰi˩˥, | no˧ ɖʐv̩˧ ʝi˧=ɻ̍˥, | tʰi˩˥, | no˧ | ə˧mi˧ ɲi˩." | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ə˧dɑ˧ tʰv̩˧-v̩˧-ɳɯ˩: | "tʰi˩˥, | no˧ ɖʐv̩˧ ʝi˧=ɻ̩˥, | tʰi˩˥, | no˧ | ə˧mi˧ ɲi˩." | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="avais d'abord noté /‡ə˧dɑ˧ tʰv̩˧-v̩˧-ɳɯ˩/"></NOTE>
 	<TRANSL xml:lang="fr">Alors, le père [a dit]: "[Si c'est ça,] avise comme tu veux / décide comme tu l'entends; c'est toi la mère."</TRANSL>
 </S>
@@ -352,7 +352,7 @@
 </S>
 <S id="FOOD_SHORTAGE2S017"><AUDIO start="91.9007" end="101.2932"></AUDIO>
 	<FORM kindOf="phono">mv̩˩zo˩˥ | &lt;ɖɯ˧… so˧…&gt; so˧-ɭɯ˧ dʑo˩; | ɖɯ˧-ɭɯ˧ ʂv̩˧; | &lt;ɖɯ˧-ɭɯ˧-ɳɯ˧-dʑo˥, | əəə…&gt; so˧-ɭɯ˧-ki˧, | "ə˧mi˧! | ɲi˩-ɳɯ˥ | ə˧mɑ˧-qɑ˧ tɕʰo˧-bi˧˥?" | pi˧, | mv̩˩-ɬi˧ | tʰv̩˧-v̩˧-ɳɯ˩: |</FORM>
-	<NOTE xml:lang="fr" message="n'est pas: /‡so˧-ɭɯ˧ dʑo˩-ɻ̍˩/"></NOTE>
+	<NOTE xml:lang="fr" message="n'est pas: /‡so˧-ɭɯ˧ dʑo˩-ɻ̩˩/"></NOTE>
 	<NOTE xml:lang="fr" message="dérivation: /ə˧mɑ˧-qɑ˧˥/ -&gt; /ə˧mɑ˧-qɑ˧ tɕʰo˧˥/ -&gt; /ə˧mɑ˧-qɑ˧ tɕʰo˧-bi˧˥/"></NOTE>
 	<TRANSL xml:lang="fr">Les filles, ils en avaient trois; elle en emmènerait un; alors, &lt;l'un d'entre eux, euh…&gt; ces trois-là, ils se sont dit: "Houlà! Qui est-ce qui va accompagner maman? (=qui est-ce que maman va emmener avec elle?)" Alors, la cadette a dit:</TRANSL>
 </S>
@@ -365,7 +365,7 @@
 	<TRANSL xml:lang="fr">Et alors, eh bien, [comme] elle avait dit qu'elle allait vendre [une fille], [elle] s'en est allée [vendre une fille] / Et elle est partie pour de bon, pour vendre une fille!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S020"><AUDIO start="106.7220" end="112.3514"></AUDIO>
-	<FORM kindOf="phono">hɯ˧, | hɯ˧, | le˧-se˥, | ɖɯ˧-di˩-ɻ̍˩-qo˩ tʰv̩˩-dʑo˩, | ʁwɤ˧ | ɖɯ˧-ɭɯ˧ ɖæ˩-ze˩-tsɯ˩ | mv̩˩!</FORM>
+	<FORM kindOf="phono">hɯ˧, | hɯ˧, | le˧-se˥, | ɖɯ˧-di˩-ɻ̩˩-qo˩ tʰv̩˩-dʑo˩, | ʁwɤ˧ | ɖɯ˧-ɭɯ˧ ɖæ˩-ze˩-tsɯ˩ | mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message="/ɖæ˩/: passer"></NOTE>
 	<TRANSL xml:lang="fr">[Elles] s'en sont allées; elles ont marché; elles sont arrivées à un endroit… elles ont passé une montagne!</TRANSL>
 </S>
@@ -403,7 +403,7 @@
 	<TRANSL xml:lang="fr">Elles en ont ramassé chacun un panier, et les ont ramenées; alors, quand elles sont arrivées à la maison, [elles ont dit] au père… euh… La porte était fermée, à ce qu'on raconte.</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S028"><AUDIO start="170.4573" end="175.5213"></AUDIO>
-	<FORM kindOf="phono">"ʁɑ˩mi˧! kʰi˧ | ɖɯ˧-pʰo˧-ɻ̍˧!" | pi˧-dʑo˩, | "no˧ | ɲi˩-ɲi˥? | ʁɑ˩mi˧!" | pi˧-dʑo˩, |</FORM>
+	<FORM kindOf="phono">"ʁɑ˩mi˧! kʰi˧ | ɖɯ˧-pʰo˧-ɻ̩˧!" | pi˧-dʑo˩, | "no˧ | ɲi˩-ɲi˥? | ʁɑ˩mi˧!" | pi˧-dʑo˩, |</FORM>
 	<TRANSL xml:lang="fr">Comme [la mère] disait: "Ouvre, s'il te plaît!", [le père] a dit: "Qui êtes-vous, je vous prie?"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S029"><AUDIO start="175.5213" end="180.4212"></AUDIO>
@@ -460,12 +460,12 @@
 	<TRANSL xml:lang="fr">Les gens se sont remis de la disette (littéralement: 'se sont rétablis de la faim').</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S041"><AUDIO start="229.7117" end="232.1008"></AUDIO>
-	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | æ˧ʂæ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥ tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥-dʑo˩, | æ˧ʂæ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥ tsɯ˩ ◊ -mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message="Avant 2018: noté /ʈʂʰɯ˧ne˧ gv̩˧-ɲi˥ tsɯ˩/. En août 2018: modifié en /ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧-ɲi˥/, pour la cohérence de l'analyse. (Voir note dans BuriedAlive2, au sujet d'un cas semblable et des efforts déployés pour tirer ce point au clair.)"/>
 	<TRANSL xml:lang="fr">Et ainsi, cette famille-là, autrefois, voilà ce qui lui est arrivé!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S042"><AUDIO start="232.1008" end="238.5023"></AUDIO>
-	<FORM kindOf="phono">tʰi˩˥ &lt;hoquet&gt;, | ʈʂʰɯ˧ne˧ ʝi˥-dʑo˩, | wɤ˩˥, | tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥: əəə… "no˧=ɻ̍˩ | tʰi˩˥ | ə˧tso˧ dzɯ˥-ze˩, | hĩ˧ tʰv̩˧-sɯ˥ ʈʂʰɯ˩-jɤ˩-dʑo˩? |</FORM>
+	<FORM kindOf="phono">tʰi˩˥ &lt;hoquet&gt;, | ʈʂʰɯ˧ne˧ ʝi˥-dʑo˩, | wɤ˩˥, | tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥: əəə… "no˧=ɻ̩˩ | tʰi˩˥ | ə˧tso˧ dzɯ˥-ze˩, | hĩ˧ tʰv̩˧-sɯ˥ ʈʂʰɯ˩-jɤ˩-dʑo˩? |</FORM>
 	<NOTE xml:lang="fr" message="/hĩ˧ tʰv̩˧-sɯ˥ ʈʂʰɯ˩-jɤ˩/: ce groupe de gens, cette multitude de gens; on pourrait également dire: /hĩ˧ ʈʂʰɯ˧-sɯ˥ ʈʂʰɯ˩-jɤ˩/"></NOTE>
 	<TRANSL xml:lang="fr">Alors, comme ça c'était passé de la sorte, eh bien, les gens [du village/des alentours] [se sont posé des questions:] "Vous autres, qu'avez-vous mangé/comment avez-vous fait pour traverser la disette, tout ce monde-là? / Vous… avec tout ce monde à la maison, comment avez-vous fait pour traverser la disette?"</TRANSL>
 </S>
@@ -474,7 +474,7 @@
 	<TRANSL xml:lang="fr">"Nous (tous), on a subi une période de disette! (Dans une période comme celle-là,) l'heure n'est pas à s'apitoyer!" (littéralement: "tu ne dois pas te faire de souci pour moi"=c'est chacun pour soi)</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S044"><AUDIO start="243.6575" end="250.7034"></AUDIO>
-	<FORM kindOf="phono">"ʁɑ˩mi˧! | õ˧-bv̩˥-õ˩ | hɑ˧ | ɖɯ˧-ɭɯ˧ dʑo˧-bi˧, | õ˧-tɑ˧kɤ˥ | le˧-dzɯ˥-ze˩! | no˧=ɻ̍˩, | hĩ˧ dʑɯ˩-mɤ˩-dʑɯ˩? | qʰɑ˩ne˩ ʝi˥?" | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
+	<FORM kindOf="phono">"ʁɑ˩mi˧! | õ˧-bv̩˥-õ˩ | hɑ˧ | ɖɯ˧-ɭɯ˧ dʑo˧-bi˧, | õ˧-tɑ˧kɤ˥ | le˧-dzɯ˥-ze˩! | no˧=ɻ̩˩, | hĩ˧ dʑɯ˩-mɤ˩-dʑɯ˩? | qʰɑ˩ne˩ ʝi˥?" | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
 	<TRANSL xml:lang="fr">"Hélas! [Dans une période pareille,] si on arrive à avoir un peu de nourriture pour soi, on se la mange seul! (=personne ne songerait à la partager avec d'autres familles/on n'a pas assez pour aider les autres) Vous autres, vous êtes pourtant nombreux, non?/n'est-ce pas que vous êtes nombreux dans la famille? (=vous aviez pourtant beaucoup de bouches à nourrir, dans ces temps durs?)" Comme [on lui posait ces questions,]</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S045"><AUDIO start="250.7034" end="258.2903"></AUDIO>
@@ -511,13 +511,13 @@
 	<TRANSL xml:lang="fr">"Alors, on a mangé des pousses de fougère! Et, euh, on a mangé des pousses de parelle."</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S053"><AUDIO start="286.7230" end="290.9542"></AUDIO>
-	<FORM kindOf="phono">&lt;tʰi˩˥, | tʰv̩˧-ɲi˧-ʑ… | &gt; ɲi˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | zo˧ ɖɯ˧-v̩˧ tɕʰi˧, | pi˧-zo˩. |</FORM>
+	<FORM kindOf="phono">&lt;tʰi˩˥, | tʰv̩˧-ɲi˧-ʑ… | &gt; ɲi˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. | ɖɯ˧-ʑi˩=ɻ̩˩-dʑo˩, | zo˧ ɖɯ˧-v̩˧ tɕʰi˧, | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message="La syllabe /dʑo˩/ est un peu confondue avec le /ʑi˩/ qui vient peu après, de sorte que sa prononciation est peu reconnaissable. La transcription a été soigneusement vérifiée: c'est une disfluence, non une erreur de notation."></NOTE>
 	<NOTE xml:lang="fr" message="La syllabe /tɕʰi˧/ 'vendre' est renforcée du fait de l'information qu'elle porte, et aussi de sa position dans la phrase, et autres facteurs qui font ressembler la séquence M.M.M de /ɖɯ˧-v̩˧ tɕʰi˧/ à ‡M.M.H. La transcription a été soigneusement vérifiée."></NOTE>
 	<TRANSL xml:lang="fr">&lt;Alors, ce jour-là…&gt; Il y avait deux familles. Une famille (=l'autre famille), elle a vendu un fils (=elle s'était résolue à vendre un fils).</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S054"><AUDIO start="290.9541" end="303.6356"></AUDIO>
-	<FORM kindOf="phono">gi˧tɕʰo˧-gi˥lɑ˩ hɯ˩-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | õ˧=ɻ̍˥ | hɑ˧ ɳɯ˧; | hɑ˧ ʐwɤ˩; | zo˧ ʈʂʰɯ˧-si˥ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥, | əəə… zo˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩ | mo˧qʰwɤ˧-zo˥! | ə˧tso˧ mɤ˧-ɲi˩ | le˧-dzɯ˥ | ɲi˧-mɤ˧-tʰɑ˧˥!" | pi˧. |</FORM>
+	<FORM kindOf="phono">gi˧tɕʰo˧-gi˥lɑ˩ hɯ˩-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | õ˧=ɻ̩˥ | hɑ˧ ɳɯ˧; | hɑ˧ ʐwɤ˩; | zo˧ ʈʂʰɯ˧-si˥ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥, | əəə… zo˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩ | mo˧qʰwɤ˧-zo˥! | ə˧tso˧ mɤ˧-ɲi˩ | le˧-dzɯ˥ | ɲi˧-mɤ˧-tʰɑ˧˥!" | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message="/gi˧tɕʰo˧-gi˥lɑ˩/: suivre"></NOTE>
 	<NOTE xml:lang="fr" message="/mo˧qʰwɤ˧˥/: 'qui a bon appétit; vorace'"></NOTE>
 	<NOTE xml:lang="fr" message="/zo˧ ʈʂʰɯ˧-si˥ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥/: d'abord noté /‡…sɯ˥/."></NOTE>
@@ -529,8 +529,8 @@
 	<TRANSL xml:lang="fr">Le père a dit: "Il faut aller vendre un fils! On n'a pas le choix! Vendons un de nos fils!" Ce que disant, il y est allé, pour de bon!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S056"><AUDIO start="312.9429" end="319.9584"></AUDIO>
-	<FORM kindOf="phono">hɯ˧, | hɯ˧-dʑo˧, | ə˧dɑ˥-lɑ˩ | zo˧ | ɲi˧-kv̩˧˥ | tɕʰo˧~tɕʰo˧-ɻ̍˩! | hɯ˧-dʑo˧! | əəə…</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté /‡tɕʰo˧~tɕʰo˧-ɻ̍˧/; tons de /tɕʰo˧~tɕʰo˧-ɻ̍˩/ vérifiés, n'est pas /‡tɕʰo˧~tɕʰo˥-ɻ̍˩/, contrairement à ce qui serait attendu: on attendrait /tɕʰo˧~tɕʰo˥-ɻ̍˩/ pour la réduplication d'un verbe au ton La."></NOTE>
+	<FORM kindOf="phono">hɯ˧, | hɯ˧-dʑo˧, | ə˧dɑ˥-lɑ˩ | zo˧ | ɲi˧-kv̩˧˥ | tɕʰo˧~tɕʰo˧-ɻ̩˩! | hɯ˧-dʑo˧! | əəə…</FORM>
+	<NOTE xml:lang="fr" message="d'abord noté /‡tɕʰo˧~tɕʰo˧-ɻ̩˧/; tons de /tɕʰo˧~tɕʰo˧-ɻ̩˩/ vérifiés, n'est pas /‡tɕʰo˧~tɕʰo˥-ɻ̩˩/, contrairement à ce qui serait attendu: on attendrait /tɕʰo˧~tɕʰo˥-ɻ̩˩/ pour la réduplication d'un verbe au ton La."></NOTE>
 	<NOTE xml:lang="fr" message="d'abord noté /‡hɯ˧, | hɯ˧-dʑo˩/; cette impression est liée au fait que la particule finale est affaiblie par la déclinaison ainsi que par son statut de mot grammatical."></NOTE>
 	<TRANSL xml:lang="fr">Ils sont partis; père et fils, tous les deux, allant ensemble! Ils sont partis! Euh…</TRANSL>
 </S>
@@ -548,9 +548,9 @@
 	<TRANSL xml:lang="fr">Comme elles poussaient… "Oh! Mon fils… Assieds-toi, assieds-toi!" qu'il a dit, le père.</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S060"><AUDIO start="332.1108" end="337.6733"></AUDIO>
-	<FORM kindOf="phono">"ə˧tse˧-bi˧? | ə˧dɑ˥ | no˧ | ə˧tse˧-bi˧? | ə˧tse˥ | &lt;tʰ…&gt; tʰi˧-dzi˩ pi˩?" | pi˧-dʑo˩, | "tʰi˧-dzi˩! | tʰi˧-dzi˩! | ə˧zɯ˩, | ɖɯ˧-dzi˩ | -sɯ˩-ɻ̍˩-bi˩˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM kindOf="phono">"ə˧tse˧-bi˧? | ə˧dɑ˥ | no˧ | ə˧tse˧-bi˧? | ə˧tse˥ | &lt;tʰ…&gt; tʰi˧-dzi˩ pi˩?" | pi˧-dʑo˩, | "tʰi˧-dzi˩! | tʰi˧-dzi˩! | ə˧zɯ˩, | ɖɯ˧-dzi˩ | -sɯ˩-ɻ̩˩-bi˩˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="/ə˧tse˧/: forme réduite de /ə˧tse˧-ʝi˥/; les deux sont désormais perçus comme des variantes distinctes"></NOTE>
-	<NOTE xml:lang="fr" message="d'abord noté /ɖɯ˧-dzi˩-sɯ˩-ɻ̍˩-bi˩˥/; surprise: on ne s'attend pas à une remontée en fin de groupe tonal, du fait qu'il contient une descente initiale, M.L: on attendrait /ɖɯ˧-dzi˩-sɯ˩-ɻ̍˩-bi˩/. On pourrait dire: /ɖɯ˧-dzi˩-bi˩/; /ɖɯ˧-dzi˩-ɻ̍˩/. Réponse: est en fait: /ɖɯ˧-dzi˩  | -sɯ˩-ɻ̍˩-bi˩˥/."></NOTE>
+	<NOTE xml:lang="fr" message="d'abord noté /ɖɯ˧-dzi˩-sɯ˩-ɻ̩˩-bi˩˥/; surprise: on ne s'attend pas à une remontée en fin de groupe tonal, du fait qu'il contient une descente initiale, M.L: on attendrait /ɖɯ˧-dzi˩-sɯ˩-ɻ̩˩-bi˩/. On pourrait dire: /ɖɯ˧-dzi˩-bi˩/; /ɖɯ˧-dzi˩-ɻ̩˩/. Réponse: est en fait: /ɖɯ˧-dzi˩  | -sɯ˩-ɻ̩˩-bi˩˥/."></NOTE>
 	<TRANSL xml:lang="fr">"Quoi donc? Papa, qu'est-ce que tu veux faire? Pourquoi tu me demandes de m'asseoir/de rester là?" a demandé [le fils]. "Assieds-toi, assieds-toi! Nous deux, commençons par nous asseoir un peu [pour bien réfléchir]!"</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S061"><AUDIO start="337.6733" end="342.4151"></AUDIO>
@@ -597,7 +597,7 @@
 	<FORM kindOf="phono">"ə˧tso˧-mɤ˧-ɲi˩, | hṽ˩-ɖʐæ˩ɻæ˥ | gv̩˧-ze˧-gɤ˧, | dzɯ˧-tʰɑ˧-ze˩!" | pi˧-zo˩ | tʰi˩˥, | ʈʂʰɯ˧-ɲi˧-ʑi˩-dʑo˩, | ɲi˧-ʑi˩, | mv̩˩-lɑ˥ | mɤ˧-tɕʰi˧, | zo˧-lɑ˩ | mɤ˧-tɕʰi˧! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés: n'est pas /…gv̩˩-ze˩-gɤ˩/"></NOTE>
 	<NOTE xml:lang="fr" message="vérifié le sens de /-gɤ˧/: 'lieu, endroit': les parties de la plante qui ont rougi=sont parvenues à maturité. Sens=on ne mange pas les plantes séchées, qui ont une couleur grise/brune (désignée localement comme 'blanche': /pʰv̩˩tɕæ˩ɻæ˥/). On peut manger les pousses vertes, ou lorsqu'elles ont une couleur rouge."></NOTE>
-	<NOTE xml:lang="fr" message="soigneusement vérifié: n'est pas /‡ʈʂʰɯ˧-ɲi˧-ʑi˩-dʑo˩, | ɲi˧-ʑi˩=ɻ̍˩/."></NOTE>
+	<NOTE xml:lang="fr" message="soigneusement vérifié: n'est pas /‡ʈʂʰɯ˧-ɲi˧-ʑi˩-dʑo˩, | ɲi˧-ʑi˩=ɻ̩˩/."></NOTE>
 	<TRANSL xml:lang="fr">"Tout (=toutes les pousses) ont rougi (=sont parvenues à maturité), on peut les manger!" Ces deux familles, elles n'ont vendu ni fille, ni garçon!</TRANSL>
 </S>
 <S id="FOOD_SHORTAGE2S071"><AUDIO start="385.6265" end="387.1645"></AUDIO>

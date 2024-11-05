@@ -9,7 +9,7 @@
 
 	<S id="Sister5_S001">
 	<AUDIO start="0" end="7.12"/>
-	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̍˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |</FORM>
+	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩-gi˩! | mmm… ɖɯ˧-ʑi˩=ɻ̩˩, | mv̩˩zɯ˩-ni˥mi˩ ɲi˩-kv̩˩ dʑo˩ tsɯ˩ ◊ mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Jadis, n'est-ce pas, il y avait une famille avec deux membres dans la fratrie, à ce qu'on raconte!</TRANSL>
 </S>
 <S id="Sister5_S002">
@@ -47,12 +47,12 @@
 </S>
 <S id="Sister5_S007">
 	<AUDIO start="38.48" end="43.77"/>
-	<FORM kindOf="phono">tʰi˩˥, | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩ ɳɯ˩ | ʂe˧ tsʰɯ˩ tsɯ˩ ◊ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̩˩ ɳɯ˩ | ʂe˧ tsʰɯ˩ tsɯ˩ ◊ mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Comme la fille était grandie, une famille est venue la demander en mariage! (littéralement: «une famille est venue la chercher»)</TRANSL>
 </S>
 <S id="Sister5_S008">
 	<AUDIO start="43.77" end="56.02"/>
-	<FORM kindOf="phono">go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̍˩-ɳɯ˩ | ʂe˧ tsʰɯ˩-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩ | go˧mi˧-ɳɯ˧ … | «njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩, | mɤ˧-dʑo˩ mɤ˩-do˩! | njɤ˧ | ə˧mv̩˩ | tʰi˩˥, | mɤ˧-do˩!» |</FORM>
+	<FORM kindOf="phono">go˧mi˧ | le˧-ɖɯ˩, | ɖɯ˧-ʑi˩=ɻ̩˩-ɳɯ˩ | ʂe˧ tsʰɯ˩-dʑo˩, | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩ | go˧mi˧-ɳɯ˧ … | «njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩, | mɤ˧-dʑo˩ mɤ˩-do˩! | njɤ˧ | ə˧mv̩˩ | tʰi˩˥, | mɤ˧-do˩!» |</FORM>
 	<NOTE xml:lang="fr" message = "/njɤ˧ ə˧mv̩˩, | dʑo˩˥ | mɤ˧-do˩/: l'expression comporte un ‘resumptive schwa', après pause, devant /dʑo˩˥/. Effet stylistique: mise en valeur. Paraphrase: «Mon frère, on ne sait *même* s'il est vivant»."/>
 	<TRANSL xml:lang="fr">La fille étant grandie, une famille étant venue la demander en mariage, la sœur cadette a dit à cette famille (=à la famille qui lui proposait le mariage): «Mon frère aîné, je ne sais pas s'il vit encore, ou s'il n'est plus!»</TRANSL>
 </S>
@@ -63,7 +63,7 @@
 </S>
 <S id="Sister5_S010">
 	<AUDIO start="66.84" end="70.10"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | le˧-ʂe˧-tsʰɯ˩ tsɯ˩ ◊ -mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | le˧-ʂe˧-tsʰɯ˩ tsɯ˩ ◊ -mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors, cette famille est venue la chercher (pour qu'elle rejoigne leur famille comme leur belle-fille)!</TRANSL>
 </S>
 <S id="Sister5_S011">
@@ -160,10 +160,10 @@
 </S>
 <S id="Sister5_S028">
 	<AUDIO start="176.61" end="182.68"/>
-	<FORM kindOf="phono">ɖɯ˧-v̩˧ le˧-tsʰɯ˩: | «ə˧mi˧! | ʈʂʰɯ˧-v̩˧-se˥, | hɑ˩mi˥-hĩ˩ v̩˩ ɲi˩, | ɑ˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩!» | pi˧-dʑo˩, tʰi˩˥, | mɤ˧-hɯ˧! | pi˧-tsɯ˩ ◊ mv̩˩. |</FORM>
+	<FORM kindOf="phono">ɖɯ˧-v̩˧ le˧-tsʰɯ˩: | «ə˧mi˧! | ʈʂʰɯ˧-v̩˧-se˥, | hɑ˩mi˥-hĩ˩ v̩˩ ɲi˩, | ɑ˩pʰo˩ pv̩˥-ɻ̩˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩!» | pi˧-dʑo˩, tʰi˩˥, | mɤ˧-hɯ˧! | pi˧-tsɯ˩ ◊ mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/ʈʂʰɯ˧-v̩˧ -dʑo˩/, /ʈʂʰɯ˧-v̩˧ -se˥/: aurait un fonctionnement très proche: topicalisation. (de: ) Exemples: /no˧-se˥, | ɬi˧di˩ fv̩˩! | njɤ˧-se˥, jo˧gv̩˧ fv̩˧!/ ‘Toi, tu aimes Yongning; moi, j'aime Lijiang!' (reporté dans le dictionnaire)"/>
 	<NOTE xml:lang="fr" message = "xxxx explorer la combinatoire: /ʈʂʰɯ˧-kʰwɤ˥$/ + /-se˥/, /tʰv̩˧-ɲi#˥/ + /-se˥/ (attention: variation libre #H/H$ pour ces formes), tʰv̩˧-ɭɯ#˥, /tʰv̩˧-nɑ˩/; et avec des noms: /tsʰo˧qʰwɤ˩-se˩, | lɑ˧-ɳɯ˧ dzɯ˧-ho˥ F -di˩-mæ˩!/ (Tiger2.61)"/>
-	<NOTE xml:lang="fr" message = "/ɑ˩pʰo˩ pv̩˥-ɻ̍˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩/: le verbe /pv̩˥/ n'est pas le verbe pour ‘accompagner', 送客, mais un verbe qui veut dire simplement ‘sortir'. Le sens n'est pas ‘raccompagnons-le, menons-le dehors' (comme dans /hĩ˧bæ˧ pv̩˥/ ‘raccompagner un hôte'), mais ‘faisons-le sortir': causatif d'un verbe ‘sortir'. Un exemple simple de ce verbe (reporté dans le dictionnaire): /ɑ˩pʰo˩ pv̩˥/: /njɤ˧ | ɑ˩pʰo˩ pv̩˥/ ‘je sors, je pars' (personne n'accompagne)."/>
+	<NOTE xml:lang="fr" message = "/ɑ˩pʰo˩ pv̩˥-ɻ̩˩ kʰɯ˩ tsæ˩ -ɲi˩ -mæ˩/: le verbe /pv̩˥/ n'est pas le verbe pour ‘accompagner', 送客, mais un verbe qui veut dire simplement ‘sortir'. Le sens n'est pas ‘raccompagnons-le, menons-le dehors' (comme dans /hĩ˧bæ˧ pv̩˥/ ‘raccompagner un hôte'), mais ‘faisons-le sortir': causatif d'un verbe ‘sortir'. Un exemple simple de ce verbe (reporté dans le dictionnaire): /ɑ˩pʰo˩ pv̩˥/: /njɤ˧ | ɑ˩pʰo˩ pv̩˥/ ‘je sors, je pars' (personne n'accompagne)."/>
 	<NOTE xml:lang="fr" message = "Fin transcription 21 mai 2024 (premier jour de transcription de ce texte)"/>
 	<TRANSL xml:lang="fr">Quelqu'un s'en est venu, et a dit: «Houlà! Celui-là, c'est un mendiant, il faut le faire sortir dehors!» Mais [le grand frère] n'est pas parti, à ce qu'on dit.</TRANSL>
 </S>
@@ -223,7 +223,7 @@
 </S>
 <S id="Sister5_S038">
 	<AUDIO start="221" end="226.12"/>
-	<FORM kindOf="phono">tʰv̩˧-kʰwɤ˧  tʰi˧-ki˩ -dʑo˩ | tʰi˩˥, | hɑ˧ dzɯ˧, | ʐwɤ˧~ʐwɤ˩, | ʐwɤ˧~ʐwɤ˩-dʑo˩ | tʰi˩˥, | tʰi˧-dzɯ˧-ɻ̍˧-ze˥ tsɯ˩ ◊ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰv̩˧-kʰwɤ˧  tʰi˧-ki˩ -dʑo˩ | tʰi˩˥, | hɑ˧ dzɯ˧, | ʐwɤ˧~ʐwɤ˩, | ʐwɤ˧~ʐwɤ˩-dʑo˩ | tʰi˩˥, | tʰi˧-dzɯ˧-ɻ̩˧-ze˥ tsɯ˩ ◊ mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Quand on a eu servi ce morceau, eh bien, on mangeait, on bavardait (les conversations allaient bon train), on était en plein repas, à ce qu'on raconte!</TRANSL>
 </S>
 <S id="Sister5_S039">
@@ -262,13 +262,13 @@
 </S>
 <S id="Sister5_S045">
 	<AUDIO start="264.92" end="270.22"/>
-	<FORM kindOf="phono">tʰi˩˥, | go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: | «mɤ˧-ɲi˩-ze˩! | mɤ˧-ɲi˩-ze˩! | ə˧mv̩˩ ɲi˩, | njɤ˧ ə˧mv̩˩ ɲi˩!» | pi˧-zo˩, | gi˩˥ | tʰi˧-ʈʂʰɻ̍˧-hɯ˥, |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩: | «mɤ˧-ɲi˩-ze˩! | mɤ˧-ɲi˩-ze˩! | ə˧mv̩˩ ɲi˩, | njɤ˧ ə˧mv̩˩ ɲi˩!» | pi˧-zo˩, | gi˩˥ | tʰi˧-ʈʂʰɻ̩˧-hɯ˥, |</FORM>
 	<NOTE xml:lang="fr" message = "/go˧mi˧ tʰv̩˧-v̩˧-ɳɯ˩/: tons vérifiés"/>
 	<TRANSL xml:lang="fr">Alors, la petite sœur s'est dit: «Impossible, impossible! C'est mon frère, mon grand frère!» et elle s'est agrippée [à la cape de son frère].</TRANSL>
 </S>
 <S id="Sister5_S046">
 	<AUDIO start="270.22" end="274.64"/>
-	<FORM kindOf="phono">ə˧mv̩˩-ɳɯ˩ | sɯ˧tʰi˧˥ | ɖɯ˧-nɑ˧ tʰi˧-po˧˥, | ʐæ˩sɯ˩˥, | ʈʂʰɯ˧qo˧ tʰi˧-ʈʂʰɻ̍˧˥, | hæ̃˧˥, | tʰi˧-kwɤ˩ | tʰi˧-ɖʐwæ˧˥! | ʈʂʰɯ˧qo˧ tʰv̩˧, | hæ̃˧˥, | tʰi˧-kwɤ˩, | tʰi˧-ɖʐwæ˧-zo˥! |</FORM>
+	<FORM kindOf="phono">ə˧mv̩˩-ɳɯ˩ | sɯ˧tʰi˧˥ | ɖɯ˧-nɑ˧ tʰi˧-po˧˥, | ʐæ˩sɯ˩˥, | ʈʂʰɯ˧qo˧ tʰi˧-ʈʂʰɻ̩˧˥, | hæ̃˧˥, | tʰi˧-kwɤ˩ | tʰi˧-ɖʐwæ˧˥! | ʈʂʰɯ˧qo˧ tʰv̩˧, | hæ̃˧˥, | tʰi˧-kwɤ˩, | tʰi˧-ɖʐwæ˧-zo˥! |</FORM>
 	<TRANSL xml:lang="fr">Le grand frère a pris un couteau, et le feutre, là où [sa sœur] le tenait agrippé, il l'a coupé, et l'a jeté, et il est tombé à terre! Arrivé là (=progressant vers la sortie, sa sœur essayant encore de l'agripper par sa cape de feutre), il a (à nouveau) coupé (un morceau de sa cape), l'a jeté, et l'a laissé tomber à terre!</TRANSL>
 </S>
 <S id="Sister5_S047">
@@ -290,7 +290,7 @@
 </S>
 <S id="Sister5_S050">
 	<AUDIO start="298.09" end="303.25"/>
-	<FORM kindOf="phono">mv̩˩-mɤ˩-tʰɑ˥, | mv̩˩-mɤ˩-tʰɑ˥ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩-ki˩, | ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ tsɯ˩ ◊ mv̩˩, | tʰv̩˧-ʑi˧=ɻ̍˧-ɳɯ˥! |</FORM>
+	<FORM kindOf="phono">mv̩˩-mɤ˩-tʰɑ˥, | mv̩˩-mɤ˩-tʰɑ˥ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧ ə˧mv̩˩-ki˩, | ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ tsɯ˩ ◊ mv̩˩, | tʰv̩˧-ʑi˧=ɻ̩˧-ɳɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Prononciation: [bi˧] dans /ʁɑ˩mi˧ bi˧ hɯ˧-ɲi˥-tsɯ˩/. Mais la locutrice corrige en /pi/: /ʁɑ˩mi˧ pi˧-hɯ˧-ɲi˥ tsɯ˩/."/>
 	<TRANSL xml:lang="fr">[Le corps] ne se consumait pas! Comme [le corps] ne se consumait pas, alors, ils sont allés auprès de son grand frère pour lui demander pardon, cette famille-là! (=la famille que la jeune femme rejoignait par son mariage)</TRANSL>
 </S>
@@ -298,7 +298,7 @@
 	<AUDIO start="303.25" end="310.29"/>
 	<FORM kindOf="phono">«ʁɑ˩mi˧! | njæ˧-sɯ˩kv̩˩  … &lt;le˧… əəə… le˧… õ …&gt;  mɤ˧-sɯ˥-ze˩! | no˧ | ʈʂʰɯ˧ne˧ʝi˧ | tʰɑ˧-ʝi˧-ɻ˥, | ʁɑ˩mi˧ pi˧-zo˥!» |</FORM>
 	<NOTE xml:lang="fr" message = "/ʁɑ˩mi˧ pi˧-zo˥/: tons vérifiés"/>
-	<NOTE xml:lang="fr" message = "À partir de Sister5.52, élicité toutes les catégories de verbes dans le cadre prohibitif+V+inchoatif: tʰɑ˧- ___ ‑ɻ̍˩. Informations reportées dans Q_na.txt en vue d'une intégration au livre."/>
+	<NOTE xml:lang="fr" message = "À partir de Sister5.52, élicité toutes les catégories de verbes dans le cadre prohibitif+V+inchoatif: tʰɑ˧- ___ ‑ɻ̩˩. Informations reportées dans Q_na.txt en vue d'une intégration au livre."/>
 	<TRANSL xml:lang="fr">«Pardon! Nous autres, nous sommes ignorants [des affaires de votre famille]! nous devons te demander pardon!»</TRANSL>
 </S>
 <S id="Sister5_S052">
@@ -341,7 +341,7 @@
 </S>
 <S id="Sister5_S059">
 	<AUDIO start="345.67" end="351.70"/>
-	<FORM kindOf="phono">ɖɯ˧-pi˧ tʰi˥-po˩! | tʰi˩˥, | ʁ … ʈʂʰɯ˧-ʑi˧=ɻ̍˥ -dʑo˩, | &lt;ni˧…&gt; ni˧mi˧ tʰi˧-ki˩-hĩ˧ | ʈʂʰɯ˧-ʑi˧=ɻ̍˥ -dʑo˩, | ɖwæ˩-kv̩˧ tsɯ˥ | mv̩˩! |</FORM>
+	<FORM kindOf="phono">ɖɯ˧-pi˧ tʰi˥-po˩! | tʰi˩˥, | ʁ … ʈʂʰɯ˧-ʑi˧=ɻ̩˥ -dʑo˩, | &lt;ni˧…&gt; ni˧mi˧ tʰi˧-ki˩-hĩ˧ | ʈʂʰɯ˧-ʑi˧=ɻ̩˥ -dʑo˩, | ɖwæ˩-kv̩˧ tsɯ˥ | mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">On amène un petit quelque chose! (Symboliquement, on n'amène pas de cadeaux, on montre la plus grande fureur; mais c'est joué: en fait, on ne blesse personne, on ne détruit rien, et on amène un petit cadeau.) La famille à laquelle se donne la jeune femme, elle est effrayée / elle donne des marques de la plus grande peur!</TRANSL>
 </S>
 <S id="Sister5_S060">
@@ -412,7 +412,7 @@
 </S>
 <S id="Sister5_S072">
 	<AUDIO start="406.79" end="414.70"/>
-	<FORM kindOf="phono">əəə… &lt;go˧mi˧ hĩ˧-ki˧,&gt; | &lt;mv̩˩zɯ˩ ʝi˥-hĩ˩-ki˩ ki˩&gt; [ni˧mi˧ hĩ˧-ki˧ ki˩] -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | ɬi˩ʁɑ˩ ʝi˥-zo˩-hĩ˩-bv̩˩ | ɖɯ˩lo˧ ! |</FORM>
+	<FORM kindOf="phono">əəə… &lt;go˧mi˧ hĩ˧-ki˧,&gt; | &lt;mv̩˩zɯ˩ ʝi˥-hĩ˩-ki˩ ki˩&gt; [ni˧mi˧ hĩ˧-ki˧ ki˩] -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | ɬi˩ʁɑ˩ ʝi˥-zo˩-hĩ˩-bv̩˩ | ɖɯ˩lo˧ ! |</FORM>
 	<TRANSL xml:lang="fr">Et quand une sœur se marie, sa famille (littéralement ‘cette famille-là'), il y a une coutume qui veut qu'elle manifeste sa colère!</TRANSL>
 </S>
 <S id="Sister5_S073">

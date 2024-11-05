@@ -909,7 +909,7 @@
     <FORM kindOf="phono">tʰi˩˥, | kʰv̩˩mi˩-ɳɯ˥ | le˧-tɕʰi˧-hɯ˥, | qo˩qɑ˩-ʁo˩to˥ tʰv̩˩-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩˥ | le˧-ɻwæ˥-dʑo˩ | tʰi˩˥, | kʰv̩˩mi˩˥ | mɤ˧-ɖɯ˧-dʑo˥ | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">Tiq, kumi nee leqie hee, ghogha wodo teejjo, tiq, kumi leluae jjo, tiq, kumi meddee jjo, tiq,</FORM>
     <NOTE xml:lang="fr" message="d’abord noté /‡mɤ˧-ɖɯ˧-dʑo˧ | tʰi˩˥/; en fait: /dʑo/ reçoit un ton H; vérifié en mars 09: n’est pas /‡dʑo˩ tʰi˩˥/ ni /‡dʑo˧ tʰi˩˥/; vérifié à nouveau en avril 2009; paradoxal car on ne s’attend pas à ce qu’il y ait un ton H dans ce mot phonologique: «obtenir», ɖɯ˧, est un ton M. Réponse: le °top /-dʑo˩/ peut recevoir un ton H après disyllabe au ton M (par ex. pour les noms). "/>
-    <NOTE xml:lang="fr" message="transcription M18: /‡kʰv̩˩mi˩˥ | le˧-lwæ˥…/: M18 dit: /‡lwæ˥/: appeler; /‡ɖɯ˧-lwæ˧-ɻ̍˥/ «appeler», 叫一声: M18 a perdu l’initiale /ɻ/, confondue avec /l/; la forme correcte est: /ɖɯ˧-ɻwæ˧-ɻ̍˥/. "/>
+    <NOTE xml:lang="fr" message="transcription M18: /‡kʰv̩˩mi˩˥ | le˧-lwæ˥…/: M18 dit: /‡lwæ˥/: appeler; /‡ɖɯ˧-lwæ˧-ɻ̩˥/ «appeler», 叫一声: M18 a perdu l’initiale /ɻ/, confondue avec /l/; la forme correcte est: /ɖɯ˧-ɻwæ˧-ɻ̩˥/. "/>
     <NOTE xml:lang="fr" message="avant 2013, noté /qo˩qɑ˩-ʁo˩to˧ | tʰv̩˧-dʑo˩/, qui est possible: division en 2 groupes tonals. La réalisation sur l'enregistrement est: /qo˩qɑ˩-ʁo˩to˥ tʰv̩˩-dʑo˩/; confirmé par F4."/>
     <TRANSL xml:lang="fr">et le chien, suivant cette piste, est parvenu au col (littéralement: en haut du col), et alors, [le grand frère] a appelé son chien; ne le retrouvant pas,</TRANSL>
     <TRANSL xml:lang="en">Then the dog, following this trail, arrived at the (mountain) pass, then  (the brother) called the dog, (but) couldn't find [lit: get] it, then…</TRANSL>
@@ -1286,7 +1286,7 @@
   </S>
   <S id="Sister_S021">
     <AUDIO start="75.6151" end="78.1802"/>
-    <FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | go˧mi˧ tʰi˧-ki˧-hĩ˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, |</FORM>
     <FORM kindOf="ortho">Tiq, tee xxi'er nee, ggomi teegihin tee xxi'er nee,</FORM>
     <NOTE xml:lang="fr" message="dans la première notation, j'avais manqué la syllable entre ʑi˧ et ɳɯ˥: /‡tʰi˩˥, ʈʂʰɯ˧ʑi˧ɳɯ˥, go˧mi˧ tʰi˧ki˧ ʈʂʰɯ˧ʑi˧ɳɯ˥/; puis observe la présence d’un /ɻ/"/>
     <NOTE xml:lang="fr" message="/ʑi˧/ a d’abord été noté ‡zɯ˧; illustration de leur proximité phonétique)"/>
@@ -1309,7 +1309,7 @@
 	  <TRANSL xml:lang="en">household/family</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍</FORM>
+      <FORM>ɻ̩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -1349,7 +1349,7 @@
 	  <TRANSL xml:lang="en">household/family</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -3391,7 +3391,7 @@
   </S>
   <S id="Sister_S058">
     <AUDIO start="178.6544" end="181.9703"/>
-    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̍˧˥ ◊  tsɯ˩ ◊ mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
+    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̩˧˥ ◊  tsɯ˩ ◊ mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
     <FORM kindOf="ortho">raesi bbi teechu zimu, lepo hee!</FORM>
     <NOTE xml:lang="fr" message="ʈʂʰv̩˧˥: ici réalisé phonétiquement proche de [ʈʂʰwe]: la diphtongaison du /v/ est particulièrement forte; l’insistance sur ce mot crée une tension entre la bonne réalisation de la rime /v/, fricative et fermée, d’une part, et l’ouverture plus grande qui résulte de l’insistance; cette tension a pour résultat un mouvement ouvrant qui modifie considérablement la rime"/>
     <NOTE xml:lang="fr" message="/ʐæ˩sɯ˩bi˧/: d’abord noté ‡˧ ˧ ˥; corrigé en 2007"/>
@@ -3415,7 +3415,7 @@
 	  <TRANSL xml:lang="en">°dur</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰɻ̍˧˥</FORM>
+      <FORM>ʈʂʰɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -3481,7 +3481,7 @@
   </S>
   <S id="Sister_S060">
     <AUDIO start="185.4250" end="188.4561"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧tɕo˧ ɻ̍˩, | ɖɯ˧-kʰwɤ˥ hæ̃˩; | ɖɯ˩tɕo˧ ɻ̍˩, | ɖɯ˧-kʰwɤ˥ hæ̃˩-ze˩</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧tɕo˧ ɻ̩˩, | ɖɯ˧-kʰwɤ˥ hæ̃˩; | ɖɯ˩tɕo˧ ɻ̩˩, | ɖɯ˧-kʰwɤ˥ hæ̃˩-ze˩</FORM>
     <FORM kindOf="ortho">Teejo'er, ddeekua haenq; ddeejo'er, ddeekua haenq ssei.</FORM>
     <NOTE xml:lang="fr" message="ton de «se tourner»: vérifié"/>
     <NOTE xml:lang="fr" message="hæ̃˩: nasalité pas notée en 2006"/>
@@ -3502,7 +3502,7 @@
 	  <TRANSL xml:lang="en">turn around</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍˧˥</FORM>
+      <FORM>ɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">se_tourner</TRANSL>
 	  <TRANSL xml:lang="en">to_turn</TRANSL>
     </W>
@@ -3532,7 +3532,7 @@
 	  <TRANSL xml:lang="en">direction/orientation</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍˧˥</FORM>
+      <FORM>ɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">se_tourner</TRANSL>
 	  <TRANSL xml:lang="en">to_turn</TRANSL>
     </W>
@@ -3593,11 +3593,11 @@
   </S>
   <S id="Sister_S062">
     <AUDIO start="190.5377" end="193.8317"/>
-    <FORM kindOf="phono">sɯ˩tʰi˩˥, | le˧-pv̩˧˥ | tʰi˩˥, | ʁo˧dɑ˧ tʰv̩˧ ɻ̍˥ dʑo˩ | le˧&lt;-hæ̃˧˥&gt; [ʈʂʰɻ̍˧˥] mɤ˧-ɖɯ˧-ɲi˥-ho˩ mæ˩ | &lt;hĩ˧&gt;…</FORM>
+    <FORM kindOf="phono">sɯ˩tʰi˩˥, | le˧-pv̩˧˥ | tʰi˩˥, | ʁo˧dɑ˧ tʰv̩˧ ɻ̩˥ dʑo˩ | le˧&lt;-hæ̃˧˥&gt; [ʈʂʰɻ̩˧˥] mɤ˧-ɖɯ˧-ɲi˥-ho˩ mæ˩ | &lt;hĩ˧&gt;…</FORM>
     <FORM kindOf="ortho">Seeti lebeu, tiq, wodda tee erq jjo lehaen [lecheu] meddee niq ho mae;</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés"/>
     <NOTE xml:lang="fr" message="ɖɯ˧+ɲi˥: d’où vient le ton haut ? même surprise que précédemment, pour les verbes gv̩˧ et ɖɯ˧"/>
-    <NOTE xml:lang="fr" message="ʁo˧dɑ˧ tʰv̩˧ ɻ̍˥: d’abord noté ʈʂʰɯ˧ lɻ̍˧, puis ʈʂʰɯ˧ ɻv̩˥"/>
+    <NOTE xml:lang="fr" message="ʁo˧dɑ˧ tʰv̩˧ ɻ̩˥: d’abord noté ʈʂʰɯ˧ lɻ̩˧, puis ʈʂʰɯ˧ ɻv̩˥"/>
     <NOTE xml:lang="fr" message="/hĩ˧/: ici: est mot lexical plein: «homme»; première idée: désignerait la petite sœur; selon F4 (juin 08), le mot est dit par erreur."/>
     <TRANSL xml:lang="fr">il dégaine son couteau; alors, se tournant vers l’avant, (elle) n’a pas réussi à la couper, de sorte que… (erreur de la conteuse, il aurait fallu dire: «(elle) n’a pas réussi à la saisir/à s’y agripper»)</TRANSL>
    <TRANSL xml:lang="en">(He) unsheathed his knife; she turned to the front, (but she) was not able to cut (the brother's cloak). (Error: should be "she was not able to grab…")  </TRANSL> 
@@ -3633,7 +3633,7 @@
 	  <TRANSL xml:lang="en">°dem.dist</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍˧˥</FORM>
+      <FORM>ɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">se_tourner</TRANSL>
 	  <TRANSL xml:lang="en">to_turn</TRANSL>
     </W>
@@ -3653,7 +3653,7 @@
 	<TRANSL xml:lang="en">to_cut</TRANSL>
     </W>
 	    <W>
-      <FORM>ʈʂʰɻ̍˧˥</FORM>
+      <FORM>ʈʂʰɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	<TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -3690,7 +3690,7 @@
   </S>
   <S id="Sister_S063">
     <AUDIO start="193.8317" end="195.7160"/>
-    <FORM kindOf="phono">ɬo˧tɑ˧ lɑ˧ &lt;-hæ̃˧˥&gt; [ʈʂʰɻ̍˧˥] | ɖɯ˧-ɲi˥-ho˩ mæ˩. |</FORM>
+    <FORM kindOf="phono">ɬo˧tɑ˧ lɑ˧ &lt;-hæ̃˧˥&gt; [ʈʂʰɻ̩˧˥] | ɖɯ˧-ɲi˥-ho˩ mæ˩. |</FORM>
     <FORM kindOf="ortho">lhoda la cheuq ddee niq ho mae.</FORM>
     <TRANSL xml:lang="fr">elle n'a pu se saisir que des bords, (que le frère a alors coupés).</TRANSL>
 	<TRANSL xml:lang="en">(She) was only able to only grab the edge, (which the brother then cut to push her off).</TRANSL>
@@ -3711,7 +3711,7 @@
 	<TRANSL xml:lang="en">to_cut</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰɻ̍˧˥</FORM>
+      <FORM>ʈʂʰɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">agripper</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -3950,7 +3950,7 @@
   </S>
   <S id="Sister_S067">
     <AUDIO start="206.2626" end="208.0009"/>
-    <FORM kindOf="phono">tsɤ˩pʰv̩˧-tsɤ˥li˩ | ʈʂʰɯ˧-tɕo˧ ʈʂe˩-ɻ̍˩, | mɤ˧-ʂɯ˧ |</FORM>
+    <FORM kindOf="phono">tsɤ˩pʰv̩˧-tsɤ˥li˩ | ʈʂʰɯ˧-tɕo˧ ʈʂe˩-ɻ̩˩, | mɤ˧-ʂɯ˧ |</FORM>
     <FORM kindOf="ortho">Zepuzeli teejo zhei'er meshi.</FORM>
     <NOTE xml:lang="fr" message="tsɤ˩pʰv̩˧-tsɤ˥li˩: verbe «(se) tourner en tous sens», ne veut pas seulement dire seulement «en tous sens»"/>
     <NOTE xml:lang="fr" message="(lors de la crémation, pour que le corps brûle bien, on l’entaille, on le retourne)"/>
@@ -3974,7 +3974,7 @@
 	  <TRANSL xml:lang="en">pierce</TRANSL>
     </W>
     <W>
-      <FORM>-ɻ̍˩</FORM>
+      <FORM>-ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°inchoatif</TRANSL>
 	  <TRANSL xml:lang="en">°inceptive</TRANSL>
     </W>
@@ -3991,7 +3991,7 @@
   </S>
   <S id="Sister_S068">
     <AUDIO start="208.0009" end="210.7106"/>
-    <FORM kindOf="phono">ɖɯ˧-tɕo˧ ʈʂe˩-ɻ̍˩, | le˧-qæ˧˥ | mɤ˧-mv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
+    <FORM kindOf="phono">ɖɯ˧-tɕo˧ ʈʂe˩-ɻ̩˩, | le˧-qæ˧˥ | mɤ˧-mv̩˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Ddeejo zhei'er, leghae memu zimu.</FORM>
     <NOTE xml:lang="fr" message="le /ɻ/ est très discret, et à la réécoute la locutrice préférerait en faire l’économie; mais sa présence est bien vérifiée)"/>
     <NOTE xml:lang="fr" message="d’abord noté /læ˧-kæ˧ mɤ˧-mv̩˩/; vérification en mars 09: est /le˧qæ˧˥, | mɤ˧-mv̩˩/; n’est pas /le˧-qæ˧ mɤ˥-mv̩˩/; càd que le résultatif n’est pas incorporé dans le mot phonologique."/>
@@ -4009,7 +4009,7 @@
 	  <TRANSL xml:lang="en">pierce</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍</FORM>
+      <FORM>ɻ̩</FORM>
       <TRANSL xml:lang="fr">°inchoatif</TRANSL>
 	  <TRANSL xml:lang="en">°inceptive</TRANSL>
     </W>
@@ -4046,9 +4046,9 @@
   </S>
   <S id="Sister_S069">
     <AUDIO start="210.7106" end="215.4818"/>
-    <FORM kindOf="phono">tʰi˩˥, | le˧-hɯ˩ tʰi˩˥, | ʈʂʰɯ˧ ɑ˩ʁo˧ | «ə˧mv̩˩ ɲi˩-ho˩-ze˩, | no˧=ɻ̍˩ | go˧mi˧ ʈʂʰɯ˧ne˧ gv̩˧-ze˥ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | le˧-hɯ˩ tʰi˩˥, | ʈʂʰɯ˧ ɑ˩ʁo˧ | «ə˧mv̩˩ ɲi˩-ho˩-ze˩, | no˧=ɻ̩˩ | go˧mi˧ ʈʂʰɯ˧ne˧ gv̩˧-ze˥ |</FORM>
     <FORM kindOf="ortho">Tiq, lehee, tiq, tee awo: "Amu niq ho ssei, no'er ggomi tee niq ggu ssei.</FORM>
-    <NOTE xml:lang="fr" message="tons vérifiés, à nouveau avec F4 en avril 09: n’est pas: no˧ɻ̍˩ go˩mi˩ ʈʂʰɯ˩ni˩gv̩˩ze˧, ni …ʈʂʰɯ˧ne˧-ʝi˥…; le dernier mot phonologique est abaissé par l’intonation contristée ainsi que par la position finale d’énoncé; mais n’est pas ʈʂʰɯ˩ni˩gv̩˩ze˧, comme je l’avais noté un moment en 09"/>
+    <NOTE xml:lang="fr" message="tons vérifiés, à nouveau avec F4 en avril 09: n’est pas: no˧ɻ̩˩ go˩mi˩ ʈʂʰɯ˩ni˩gv̩˩ze˧, ni …ʈʂʰɯ˧ne˧-ʝi˥…; le dernier mot phonologique est abaissé par l’intonation contristée ainsi que par la position finale d’énoncé; mais n’est pas ʈʂʰɯ˩ni˩gv̩˩ze˧, comme je l’avais noté un moment en 09"/>
     <NOTE xml:lang="fr" message="transcription ancienne, erronée, de ce passage: ə˧mv̩˩ɳɯ˩: «njɤ˧ [ɳɯ˧] mɤ˧-ho˩-ze˩»"/>
     <NOTE xml:lang="fr" message="ze˩: allongé, ressemble à deux syllabes)"/>
     <NOTE xml:lang="fr" message="d'abord noté /‡le˩˥ | -hɯ˧/"/>
@@ -4106,7 +4106,7 @@
 	  <TRANSL xml:lang="en">°pfv</TRANSL>
     </W>
     <W>
-      <FORM>no˧ɻ̍˩</FORM>
+      <FORM>no˧ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°2.coll</TRANSL>
 	  <TRANSL xml:lang="en">°2.coll</TRANSL>
     </W>
@@ -4811,7 +4811,7 @@
     <AUDIO start="247.6693" end="251.0436"/>
     <FORM kindOf="phono">ɬo˧pv̩˥ ti˩ | pi˧ dʑo˧, | «æ˧hi˩hi˩!» | pi˧ | le˧-bi˩ dʑo˩ | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">Lhobu diq bi jjo: "Ahihi!" bi lebbi jjo, tiq,</FORM>
-    <NOTE xml:lang="fr" message="pensé un moment entendre un «(+ɻ̍˩, très difficilement audible)» après ti˩; mais en fait rien n’est présent."/>
+    <NOTE xml:lang="fr" message="pensé un moment entendre un «(+ɻ̩˩, très difficilement audible)» après ti˩; mais en fait rien n’est présent."/>
     <NOTE xml:lang="fr" message="le˧bi˩: réalisé phonétiquement proche de le˧˥ bi˧; effet de facteurs intonatifs. "/>
     <NOTE xml:lang="fr" message="Le verbe «aller» est irrégulier: il se comporte comme un ton M dans tous les contextes observés jusqu'ici sauf dans le contexte /le-V-ze/, où il se comporte comme un ton L."/>
     <TRANSL xml:lang="fr">(les gens de la famille dans laquelle la femme s’était mariée) se prosternent; (on) leur lance: «a-hi-hi!»; on entre (chez eux)</TRANSL>
@@ -4899,7 +4899,7 @@
   </S>
   <S id="Sister_S085">
     <AUDIO start="252.7581" end="254.7411"/>
-    <FORM kindOf="phono">kʰi˧bɤ˧-bi˥ | ɖɯ˧-dɑ˧-ɻ̍˥, | le˧-tsʰo˧-bi˧ |</FORM>
+    <FORM kindOf="phono">kʰi˧bɤ˧-bi˥ | ɖɯ˧-dɑ˧-ɻ̩˥, | le˧-tsʰo˧-bi˧ |</FORM>
     <FORM kindOf="ortho">kibbe bbi ddeedda'er, leco bbi.</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés"/>
     <NOTE xml:lang="fr" message="ɖɯ˧: d’abord noté ˧ puis corrigé à tort en ˩"/>
@@ -4927,7 +4927,7 @@
 	  <TRANSL xml:lang="en">hit/cut</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍</FORM>
+      <FORM>ɻ̩</FORM>
       <TRANSL xml:lang="fr">°inchoatif</TRANSL>
 	  <TRANSL xml:lang="en">°inceptive</TRANSL>
     </W>
@@ -4949,10 +4949,10 @@
   </S>
   <S id="Sister_S086">
     <AUDIO start="254.7411" end="256.5378"/>
-    <FORM kindOf="phono">to˩mi˩-bi˧ | so˩-dɑ˩-ɻ̍˩-zo˩-kv̩˥ tsɯ˩ ◊ mv̩˩. |</FORM>
+    <FORM kindOf="phono">to˩mi˩-bi˧ | so˩-dɑ˩-ɻ̩˩-zo˩-kv̩˥ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Domi bbi sodda'er ssogu zimu.</FORM>
-    <NOTE xml:lang="fr" message="so˩dɑ˩ɻ̍˧: tons vérifiés, n’est pas ˧ ˧ ˥"/>
-    <NOTE xml:lang="fr" message="réécoute: F4 dicte clairement: so˩-dɑ˩-ɻ̍˩-zo˩-kv̩˧, tsɯ˩"/>
+    <NOTE xml:lang="fr" message="so˩dɑ˩ɻ̩˧: tons vérifiés, n’est pas ˧ ˧ ˥"/>
+    <NOTE xml:lang="fr" message="réécoute: F4 dicte clairement: so˩-dɑ˩-ɻ̩˩-zo˩-kv̩˧, tsɯ˩"/>
     <NOTE xml:lang="fr" message="commentaire: F4 a laissé de côté diverses choses que l’on dit lors du rite"/>
     <TRANSL xml:lang="fr">on donne trois coups sur les piliers.</TRANSL>
 	<TRANSL xml:lang="en">(They) must hit the pillar three times, it's said.</TRANSL>
@@ -4978,7 +4978,7 @@
 	  <TRANSL xml:lang="en">hit/cut</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍</FORM>
+      <FORM>ɻ̩</FORM>
       <TRANSL xml:lang="fr">°inchoatif</TRANSL>
 	  <TRANSL xml:lang="en">°inceptive</TRANSL>
     </W>
@@ -5291,10 +5291,10 @@
   </S>
   <S id="Sister_S094">
     <AUDIO start="274.0227" end="276.0605"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧-ʑi˧=ɻ̍˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩: | «æ˧hi˩hi˩!» kʰɯ˩-kv̩˩ mæ˩. |</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧-ʑi˧=ɻ̩˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩: | «æ˧hi˩hi˩!» kʰɯ˩-kv̩˩ mæ˩. |</FORM>
     <FORM kindOf="ortho">tee xxi'er lecee gua ji la: "Ahihi!" keeq guq mae.</FORM>
     <NOTE xml:lang="fr" message="kwɤ˩tɕɯ˩-lɑ˩: pareillement transcrit la première fois /tsɯ/, pour ce passage-ci comme plus haut."/>
-    <NOTE xml:lang="fr" message="tons vérifiés en juin 08: est bien ʈʂʰɯ˧-ʑi˧=ɻ̍˥ le˧-tsʰɯ˩ en forme canonique; en débit rapide, la séquence peut se simplifier au point de ressembler à: [ʈʂʰɯ˧ ʑi˧ ɻ̍˧ le˧ tsʰɯ˧˥]; c’est ce qui se passe dans la version enregistrée."/>
+    <NOTE xml:lang="fr" message="tons vérifiés en juin 08: est bien ʈʂʰɯ˧-ʑi˧=ɻ̩˥ le˧-tsʰɯ˩ en forme canonique; en débit rapide, la séquence peut se simplifier au point de ressembler à: [ʈʂʰɯ˧ ʑi˧ ɻ̩˧ le˧ tsʰɯ˧˥]; c’est ce qui se passe dans la version enregistrée."/>
     <TRANSL xml:lang="fr">arrivé dans l’autre famille, on leur lance: «a-hi-hi!»</TRANSL>
    <TRANSL xml:lang="en">When (they) arrive at the (other) family's house, they will cry: "Ae-hi-hi!"</TRANSL> 
 	<TRANSL xml:lang="zh">到了这一家以后，要（对他们）喊“啊嘿嘿！”（直译：“到了他们家，会放‘啊嘿嘿！’”）</TRANSL>
@@ -5309,7 +5309,7 @@
 	  <TRANSL xml:lang="en">household/family</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	 <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -5422,7 +5422,7 @@
   </S>
   <S id="Sister_S097">
     <AUDIO start="280.8536" end="284.3210"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧=ɻ̍˩-ɳɯ˩, | ə˧mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˩, | «æ˧hi˩hi˩!» le˧-kʰɯ˧-zo˥. |</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧=ɻ̩˩-ɳɯ˩, | ə˧mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˩, | «æ˧hi˩hi˩!» le˧-kʰɯ˧-zo˥. |</FORM>
     <FORM kindOf="ortho">tee'er nee, amu teevu nee: "Ahihi!" lekee sso,</FORM>
     <NOTE xml:lang="fr" message="d’abord noté ‡æ˥mv̩˧ ʈʂʰɯ˧ v̩˧ ɳɯ˧, puis corrigé en: ‡ə˧mv̩˩ ʈʂʰɯ˧-v̩˧-ɳɯ˧; août 2011: corrigé en ə˧mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˩; la difficulté ici réside dans le fait que si on répète lentement, comme c'est nécessairement le cas lors des premières séances de transcription, la locutrice découpe en plusieurs groupes phonologiques, d'où: ə˧mv̩˩ | ʈʂʰɯ˧-v̩˧-ɳɯ˧; il faut partir de la réalisation de la phrase entière pour se rendre compte du phénomène d'intégration de toute la séquence | ə˧mv̩˩ ʈʂʰɯ˩-v̩˩-ɳɯ˩ | en un seul groupe phonologique."/>
     <NOTE xml:lang="fr" message="d’abord noté ‡æ˥hi˥hi˥ puis ‡˥ ˧ ˧; en fait: l'expression est onomatopéique, pas de tons lexicaux"/>
@@ -5435,7 +5435,7 @@
 	  <TRANSL xml:lang="en">°3</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -5520,10 +5520,10 @@
   </S>
   <S id="Sister_S099">
     <AUDIO start="285.3344" end="287.0709"/>
-    <FORM kindOf="phono">ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | sɯ˧zɯ˧ | zo˩qo˧ dʑo˩ |</FORM>
+    <FORM kindOf="phono">ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | sɯ˧zɯ˧ | zo˩qo˧ dʑo˩ |</FORM>
     <FORM kindOf="ortho">Tee xxi'er nee, sissi ssogho jjo,</FORM>
     <NOTE xml:lang="fr" message="noté un temps ‡zo˩qo˧ dʑo˧; mais on s'attendrait à: zo˩qo˧ dʑo˩: existentiel (au ton bas), et non possession (au ton moyen). Tel est bien le cas: vérification faite en juillet 2011."/>
-    <NOTE xml:lang="fr" message="tons vérifiés: est bien ʈʂʰɯ˧ ʑi˧ ɻ̍˧ ɳɯ˥; d’abord noté ‡ʈʂʰɯ˧ ʑi˧ɻ̍˥ ɳɯ˥"/>
+    <NOTE xml:lang="fr" message="tons vérifiés: est bien ʈʂʰɯ˧ ʑi˧ ɻ̩˧ ɳɯ˥; d’abord noté ‡ʈʂʰɯ˧ ʑi˧ɻ̩˥ ɳɯ˥"/>
     <TRANSL xml:lang="fr">et la famille, tous les membres de la parentèle, où qu'ils se trouvent,</TRANSL>
 	<TRANSL xml:lang="en">This family, (the whole) extended family, (no matter) where they are (living),</TRANSL>
     <TRANSL xml:lang="zh">那一家，全“斯日”（=全家族：50到100个人）（无论住）在哪里，</TRANSL>
@@ -5538,7 +5538,7 @@
 	  <TRANSL xml:lang="en">household/family</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -5692,10 +5692,10 @@
   </S>
   <S id="Sister_S102">
     <AUDIO start="291.8640" end="293.8762"/>
-    <FORM kindOf="phono">ʁwɤ˧-qo˧ ɖɯ˧-ʑi˩ | hĩ˧ qʰɑ˧-kv̩˧-dʑo˧=ɻ̍˥ | tʰi˧-le˧-bi˧!</FORM>
+    <FORM kindOf="phono">ʁwɤ˧-qo˧ ɖɯ˧-ʑi˩ | hĩ˧ qʰɑ˧-kv̩˧-dʑo˧=ɻ̩˥ | tʰi˧-le˧-bi˧!</FORM>
     <FORM kindOf="ortho">wua gho ddeexxi hin khagu jjo'er teelebbi!</FORM>
     <NOTE xml:lang="fr" message="ʁwɤ˧-qo˧ ɖɯ˧-ʑi˩: 'toute la famille que constitue le village; on aurait également pu dire: ɖɯ˧-sɯ˧zɯ˧, «un ensemble de familles solidaires»"/>
-    <NOTE xml:lang="fr" message="qʰɑ˧kv̩˧˥ «combien» &gt; qʰɑ˧kv̩˧ dʑo˧=ɻ̍˥: quel que soit le nombre de personnes, tous ceux qu'il y a"/>
+    <NOTE xml:lang="fr" message="qʰɑ˧kv̩˧˥ «combien» &gt; qʰɑ˧kv̩˧ dʑo˧=ɻ̩˥: quel que soit le nombre de personnes, tous ceux qu'il y a"/>
     <NOTE xml:lang="fr" message="le˧: la réalisation phonétique du ton de cette syllabe est très fortement rehaussée pour raisons intonatives"/>
     <TRANSL xml:lang="fr">toute la famille (étendue), quel que soit le nombre de personnes dans la famille, vient;</TRANSL>
 	<TRANSL xml:lang="en">(all) the people in the village, (no matter) how many, (all) go back;</TRANSL>
@@ -5736,7 +5736,7 @@
 	  <TRANSL xml:lang="en">°exist/have</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -6142,16 +6142,16 @@
   </S>
   <S id="Sister_S110">
     <AUDIO start="311.1394" end="314.0251"/>
-    <FORM kindOf="phono">«no˧=ɻ̍˩ | tsʰo˧qʰwɤ˩», | ʐwɤ˩˥ | «njɤ˧-ɳɯ˧ | tsʰo˧qʰwɤ˩ | no˧ to˩mi˩ | dɑ˧-bi˩-ze˩!
+    <FORM kindOf="phono">«no˧=ɻ̩˩ | tsʰo˧qʰwɤ˩», | ʐwɤ˩˥ | «njɤ˧-ɳɯ˧ | tsʰo˧qʰwɤ˩ | no˧ to˩mi˩ | dɑ˧-bi˩-ze˩!
       |</FORM>
     <FORM kindOf="ortho">"No'er ceekhua", ruaq: "Nya nee ceekhua no domi ddaq bbi ssei!
      </FORM>
-    <NOTE xml:lang="fr" message="d’abord noté /‡njɤ˧=ɻ̍˩/"/>
+    <NOTE xml:lang="fr" message="d’abord noté /‡njɤ˧=ɻ̩˩/"/>
     <TRANSL xml:lang="fr">«vous, ce soir», qu’on dit, «moi, ce soir, on va abattre vos piliers! (les piliers de votre maison)</TRANSL>
 	 <TRANSL xml:lang="en">"You (this familiy), tonight," (he) says, "I will cut down your pillar tonight (i.e. the pillar of the house).</TRANSL>
     <TRANSL xml:lang="zh">“你们家，今天晚上”，（他说）“我今天晚上要砍掉你家柱子！</TRANSL>
     <W>
-      <FORM>no˧ɻ̍˩</FORM>
+      <FORM>no˧ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°2coll</TRANSL>
 	   <TRANSL xml:lang="en">°2coll</TRANSL>
     </W>
@@ -6288,7 +6288,7 @@
   </S>
   <S id="Sister_S112">
     <AUDIO start="316.9497" end="322.1361"/>
-    <FORM kindOf="phono">tʰi˩˥, | æ˧ʂæ˧-dʑo˩, | hĩ˧ | tʰi˩˥, | hĩ˧-ʂɯ˧-hĩ˧-dzi˥-ɻ̍˩, -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | «sɯ˧kʰɯ˩», | «ʈʂo˧kʰɯ˩», | pi˧, |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | æ˧ʂæ˧-dʑo˩, | hĩ˧ | tʰi˩˥, | hĩ˧-ʂɯ˧-hĩ˧-dzi˥-ɻ̩˩, -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | «sɯ˧kʰɯ˩», | «ʈʂo˧kʰɯ˩», | pi˧, |</FORM>
     <FORM kindOf="ortho">Tiq, eshae jjo, hin, tiq, hin shihin zzee'er jjo, eyishei: "Sikee", "zhokee" bi;</FORM>
     <NOTE xml:lang="fr" message="hĩ˧ ʂɯ˧ hĩ˧ dzi˥: quelqu'un meurt, on veille quelqu'un"/>
     <TRANSL xml:lang="fr">alors, dans le temps, quand quelqu’un… quand on veillait un défunt, jadis, les rituels «sɯ˧kʰɯ˩», «ʈʂo˧kʰɯ˩», eh bien</TRANSL>
@@ -6340,7 +6340,7 @@
 	  <TRANSL xml:lang="en">sit/live/stay</TRANSL>
     </W>
     <W>
-      <FORM>ɻ̍</FORM>
+      <FORM>ɻ̩</FORM>
       <TRANSL xml:lang="fr">°inchoatif</TRANSL>
 	  <TRANSL xml:lang="en">°inceptive</TRANSL>
     </W>
@@ -6800,7 +6800,7 @@
   </S>
   <S id="Sister_S121">
     <AUDIO start="340.7100" end="343.3832"/>
-    <FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | le˧-wo˧-tʰo˥-tɕo˩, | le˧-ŋv̩˩: | «ʁɑ˩mi˧!» | pi˧-kv̩˩-ze˩ mæ˩!</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | le˧-wo˧-tʰo˥-tɕo˩, | le˧-ŋv̩˩: | «ʁɑ˩mi˧!» | pi˧-kv̩˩-ze˩ mæ˩!</FORM>
     <FORM kindOf="ortho">Tiq, tee xxi'er nee le'uo teejo lengu: "Hrami!" bi guq ssei mae!</FORM>
     <TRANSL xml:lang="fr">Alors, les gens de cette famille-là (celle qu’a rejointe la sœur), ils se détournent, ils pleurent, et demandent pardon.</TRANSL>
 	<TRANSL xml:lang="en">Then, the people of this family (that the sister had married into), (they) turn around, (they) cry and (they) will say: "Sorry!"</TRANSL>
@@ -6821,7 +6821,7 @@
 	  <TRANSL xml:lang="en">household/family</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -8787,7 +8787,7 @@
   </S>
   <S id="Sister_S156">
     <AUDIO start="441.5150" end="442.8850"/>
-    <FORM kindOf="phono">kʰv̩˩mi˩-ki˧ | ɕi˧ɕi˩lo˩=ɻ̍˩ tʰi˩-ki˩, | tʰi˩˥, |</FORM>
+    <FORM kindOf="phono">kʰv̩˩mi˩-ki˧ | ɕi˧ɕi˩lo˩=ɻ̩˩ tʰi˩-ki˩, | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">kumi gi xixilo'er teegi, tiq,</FORM>
     <TRANSL xml:lang="fr">il a donné ses petites côtelettes au chien; alors,</TRANSL>
 	<TRANSL xml:lang="en">(he) gave the tiny pork ribs to the dog.  Then, </TRANSL>
@@ -8808,7 +8808,7 @@
 	  <TRANSL xml:lang="en">small ribs</TRANSL>
     </W>
     <W>
-      <FORM>=ɻ̍˩</FORM>
+      <FORM>=ɻ̩˩</FORM>
       <TRANSL xml:lang="fr">°associatif</TRANSL>
 	  <TRANSL xml:lang="en">°associative</TRANSL>
     </W>
@@ -9187,7 +9187,7 @@
   </S>
   <S id="Sister_S162">
     <AUDIO start="461.6150" end="465.2264"/>
-    <FORM kindOf="phono">gɤ˩ʈi˧-tɕi˩ | le˧-hɯ˩ dʑo˩ | tʰi˩˥, | tʰi˧-ʈʂʰɻ̍˩~ʈʂʰɻ̍˩-kwɤ˩ | ʈʂʰɻ̍˧-mɤ˧-ɖɯ˧ | kv̩˩ tsɯ˧ mv̩˩| ə˧ʝi˧-ʂɯ˥ʝi˩ |</FORM>
+    <FORM kindOf="phono">gɤ˩ʈi˧-tɕi˩ | le˧-hɯ˩ dʑo˩ | tʰi˩˥, | tʰi˧-ʈʂʰɻ̩˩~ʈʂʰɻ̩˩-kwɤ˩ | ʈʂʰɻ̩˧-mɤ˧-ɖɯ˧ | kv̩˩ tsɯ˧ mv̩˩| ə˧ʝi˧-ʂɯ˥ʝi˩ |</FORM>
     <FORM kindOf="ortho">ggedei ji lehee jjo, tiq, teecheucheu gua cheuq meddee guq zimu, eyishei.</FORM>
     <NOTE xml:lang="fr" message="kwɤ: est le même que dans: kwɤ-tɕɯ-lɑ, ensuite"/>
     <TRANSL xml:lang="fr">se levant, il s’en est allé; alors, (la petite sœur) l'a empoigné, mais elle n'y est pas arrivée, à ce qu’on raconte; (ça se passait) au temps jadis.</TRANSL>
@@ -9234,7 +9234,7 @@
 	  <TRANSL xml:lang="en">°intens</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰɻ̍˧˥</FORM>
+      <FORM>ʈʂʰɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">empoigner</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -9244,7 +9244,7 @@
 	  <TRANSL xml:lang="en">as</TRANSL>
     </W>
     <W>
-      <FORM>ʈʂʰɻ̍˧˥</FORM>
+      <FORM>ʈʂʰɻ̩˧˥</FORM>
       <TRANSL xml:lang="fr">empoigner</TRANSL>
 	  <TRANSL xml:lang="en">grab</TRANSL>
     </W>
@@ -9979,7 +9979,7 @@
   </S>
   <S id="Sister_S177">
     <AUDIO start="503.5937" end="505.7554"/>
-    <FORM kindOf="phono">æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̍˩ | ə˧si˧-ɳɯ˧ | ʐwɤ˩ pi˧ -dʑo˩ | tʰi˩˥</FORM>
+    <FORM kindOf="phono">æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̩˩ | ə˧si˧-ɳɯ˧ | ʐwɤ˩ pi˧ -dʑo˩ | tʰi˩˥</FORM>
     <FORM kindOf="ortho">Eshae nee o'er asee nee ruaq bi jjo, tiq,</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡æ˧ʂæ˧-ɳɯ˧/"/>
     <TRANSL xml:lang="fr">jadis, c'est mon aïeule qui racontait (ces contes); alors…</TRANSL>
@@ -9996,7 +9996,7 @@
 	  <TRANSL xml:lang="en">°abl</TRANSL>
     </W>
 	<W>
-			<FORM>wo˧=ɻ̍˩</FORM>
+			<FORM>wo˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1associatif=°associatif</TRANSL>
 			<TRANSL xml:lang="en">°1associative=°associative</TRANSL>
 	</W>
@@ -10033,7 +10033,7 @@
   </S>
   <S id="Sister_S178">
     <AUDIO start="505.7522" end="508.6921"/>
-    <FORM kindOf="phono">&lt;ə˧ʝi˧-ʂɯ˥ʝi˩…&gt; | zo˩no˥ | u˧ɻ̍˩ | qʰɑ˩ne˩˥ | le˧-tsʰɯ˩-ɲi˩, |</FORM>
+    <FORM kindOf="phono">&lt;ə˧ʝi˧-ʂɯ˥ʝi˩…&gt; | zo˩no˥ | u˧ɻ̩˩ | qʰɑ˩ne˩˥ | le˧-tsʰɯ˩-ɲi˩, |</FORM>
     <FORM kindOf="ortho">eyishei, ssono o'er khani lecee niq,</FORM>
     <TRANSL xml:lang="fr">[par exemple] maintenant… nous autres, comment est-on arrivé (là) ?</TRANSL>
 	<TRANSL xml:lang="en">(For instance, great-grandmother would tell us) long ago…   where (lit: how) did our family come (from)?</TRANSL>
@@ -10049,7 +10049,7 @@
 	  <TRANSL xml:lang="en">nowadays</TRANSL>
     </W>
 	<W>
-			<FORM>wo˧=ɻ̍˩</FORM>
+			<FORM>wo˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1associatif=°associatif</TRANSL>
 			<TRANSL xml:lang="en">°1associative=°associative</TRANSL>
 	</W>

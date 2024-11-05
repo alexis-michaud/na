@@ -11,15 +11,15 @@
 
 	<S id="BuriedAlive3S001">
 		<AUDIO start="0.0993" end="10.3532"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, ◊ ə˩-gi˩! | tʰi˩˥, | əəə… zo˩no˥, | ɖɯ˧-ʑi˩-ɻ̍˩-dʑo˩ | tʰi˩˥, | əəə… mv̩˧ hĩ˧-ki˧ ki˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: /dʑo/ dans /ɖɯ˧-ʑi˩-ɻ̍˩ dʑo˩/ est le prédicat d'existence, /dʑo˧/, non un °top."/>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, ◊ ə˩-gi˩! | tʰi˩˥, | əəə… zo˩no˥, | ɖɯ˧-ʑi˩-ɻ̩˩-dʑo˩ | tʰi˩˥, | əəə… mv̩˧ hĩ˧-ki˧ ki˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr" message="vérifié: /dʑo/ dans /ɖɯ˧-ʑi˩-ɻ̩˩ dʑo˩/ est le prédicat d'existence, /dʑo˧/, non un °top."/>
 		<TRANSL xml:lang="fr">Autrefois, n'est-ce pas… Il y avait une famille… une fille [de cette famille] a été donnée [en mariage].</TRANSL>
 		<TRANSL xml:lang="zh">从前，有一家人，将姑娘嫁出去了。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S002">
 		<AUDIO start="10.9492" end="16.3907"/>
-		<FORM>mv̩˧ hĩ˧-ki˧ ki˩-dʑo˩ | tʰi˩˥, | mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̍˩˥ ◊ -dʑo˩, | ʈʂʰɯ˧-ʑi˥-ki˩ | dʑɤ˩˥ | mɤ˧-fv̩˧-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="/mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̍˩˥/: n'est pas /mv̩˧ | ʈʂʰɯ˧-ʑi˧=ɻ̍˥ |/ 'la fille, cette famille-là/sa belle-famille…' mais 'la fille de cette famille': c'est un composé; et le sens n'est pas 'la famille de cette fille'. Inattendu."/>
+		<FORM>mv̩˧ hĩ˧-ki˧ ki˩-dʑo˩ | tʰi˩˥, | mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̩˩˥ ◊ -dʑo˩, | ʈʂʰɯ˧-ʑi˥-ki˩ | dʑɤ˩˥ | mɤ˧-fv̩˧-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr" message="/mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̩˩˥/: n'est pas /mv̩˧ | ʈʂʰɯ˧-ʑi˧=ɻ̩˥ |/ 'la fille, cette famille-là/sa belle-famille…' mais 'la fille de cette famille': c'est un composé; et le sens n'est pas 'la famille de cette fille'. Inattendu."/>
 		<TRANSL xml:lang="fr">Comme la fille était donnée en mariage, la fille de cette famille… envers cette famille (=envers l'autre famille: celle à laquelle on la destine), elle n'avait pas de sympathie / elle n'aimait guère la famille à laquelle on la destinait!</TRANSL>
 		<TRANSL xml:lang="zh">但女孩子不是很喜欢她被许给的那一家。</TRANSL>
 	</S>
@@ -38,7 +38,7 @@
 	</S>
 	<S id="BuriedAlive3S005">
 		<AUDIO start="28.1234" end="34.3376"/>
-		<FORM>ʐɯ˧ le˧-ʈʰɯ˩ | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩ | tʰi˩˥, | ɖɯ˩-hĩ˩ ʈʂʰɯ˩-tɕi˥-dʑo˩ | lo˧ ʝi˧-hɯ˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>ʐɯ˧ le˧-ʈʰɯ˩ | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩ | tʰi˩˥, | ɖɯ˩-hĩ˩ ʈʂʰɯ˩-tɕi˥-dʑo˩ | lo˧ ʝi˧-hɯ˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="répétition de /ʈʂʰɯ˧-ki˩ hɯ˩-dʑo˩/: pas très claire, fait penser à une séquence tonale M.H.L.L…; en outre, Ludger Paschen (communication personnelle 2020) relève : 'the second hɯdʑo sounds more like kVʑi'. Mais cette séquence est identifiée par la locutrice comme une simple répétition de ce qui précède."/>
 		<TRANSL xml:lang="fr">Quand on a eu fêté le mariage, qu'elle est partie auprès d'eux (=auprès de sa nouvelle famille), eh bien, eux, les adultes, ils sont partis travailler.</TRANSL>
 		<TRANSL xml:lang="zh">婚礼之后，她住到了他们家。到他们家之后，大家都出去干活去了。</TRANSL>
@@ -61,21 +61,21 @@
 	</S>
 	<S id="BuriedAlive3S008">
 		<AUDIO start="53.4986" end="64.7459"/>
-		<FORM>tʰi˧-gv̩˩-lɑ˩-gv̩˩-dʑo˩ | tʰi˩˥, | ʁo˧dɑ˧ ʈʂʰɯ˧ fv̩˧-hĩ˧ | ʈʂʰɯ˧-v̩˧-ɳɯ˩ | tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-ɳɯ˩-dʑo˩ | tʰi˩˥, | əəə… nɑ˧~nɑ˥ F | ʈʂʰɯ˧-ki˩ li˩-tsʰɯ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>tʰi˧-gv̩˩-lɑ˩-gv̩˩-dʑo˩ | tʰi˩˥, | ʁo˧dɑ˧ ʈʂʰɯ˧ fv̩˧-hĩ˧ | ʈʂʰɯ˧-v̩˧-ɳɯ˩ | tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-ɳɯ˩-dʑo˩ | tʰi˩˥, | əəə… nɑ˧~nɑ˥ F | ʈʂʰɯ˧-ki˩ li˩-tsʰɯ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-v̩˧-ɳɯ˧/"/>
 		<TRANSL xml:lang="fr">comme elle s'affairait à préparer [le déjeuner], celui (=le jeune homme) qui l'aimait bien autrefois, euh… [l'homme qui s'appelait] Nobbu Ci'er, lui, il est venu l'observer en cachette!</TRANSL>
 		<TRANSL xml:lang="zh">在她忙着准备午饭的时候，之前喜欢她的一个男人，名叫诺布次尔，来探望她了。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S009">
 		<AUDIO start="65.2095" end="70.6951"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-lɑ˩, | zo˩no˥… | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ | ʈʂʰɯ˧=zɯ˩-dʑo˩,| fv̩˧~fv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-lɑ˩, | zo˩no˥… | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ | ʈʂʰɯ˧=zɯ˩-dʑo˩,| fv̩˧~fv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="Le /-dʑo˩/ dans /ʈʂʰɯ˧=zɯ˩-dʑo˩/ a été ajouté en mai 2020, suite à une observation de Ludger Paschen."/>
 		<TRANSL xml:lang="fr">Auparavant, Nobbu Ci'er et, euh… Ddeezzhi Lhaco, ces deux-là, ils s'aimaient bien!</TRANSL>
 		<TRANSL xml:lang="zh">以前，诺布次尔和这个女孩子（名字叫独知拉搓），他俩曾互相喜欢！</TRANSL>
 	</S>
 	<S id="BuriedAlive3S010">
 		<AUDIO start="71.2580" end="74.7348"/>
-		<FORM>tʰi˩˥, | ɑ˩ʁo˧-ɳɯ˧ | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ki˩ | tʰi˧-mɤ˧-ki˧-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | ɑ˩ʁo˧-ɳɯ˧ | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ki˩ | tʰi˧-mɤ˧-ki˧-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">[Mais] on dit que les gens de la famille [de la jeune femme] ne l'ont pas donnée à Nobbu Ci'er! / Mais on dit que sa famille n'a pas voulu qu'elle se marie avec lui!</TRANSL>
 		<TRANSL xml:lang="zh">但家人没把她许给诺布次尔！</TRANSL>
 	</S>
@@ -94,8 +94,8 @@
 	</S>
 	<S id="BuriedAlive3S013">
 		<AUDIO start="86.6442" end="93.3992"/>
-		<FORM>tʰi˩˥, | hɯ˧, | hɯ˧-dʑo˧, | tɕʰɤ˧ɲi˧ni˧˥ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩, | əəə… ʐɯ˧ ʈʰɯ˩-se˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | pʰv̩˧ɖɯ˧ ʝi˥! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧=ɻ̍˥-dʑo˩/; corrigé en août 2012."/>
+		<FORM>tʰi˩˥, | hɯ˧, | hɯ˧-dʑo˧, | tɕʰɤ˧ɲi˧ni˧˥ | tʰi˩˥, | ʈʂʰɯ˧-ʑi˥-ki˩, | əəə… ʐɯ˧ ʈʰɯ˩-se˩-dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | pʰv̩˧ɖɯ˧ ʝi˥! |</FORM>
+		<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧=ɻ̩˥-dʑo˩/; corrigé en août 2012."/>
 		<NOTE xml:lang="fr" message="avant 2013: noté /‡hɯ˧, | hɯ˧-dʑo˩/"/>
 		<TRANSL xml:lang="fr">Comme elle était partie, toute la journée… Cette famille-là (=sa nouvelle famille), quand le mariage fut fêté, ils l'ont traitée comme une personne de marque!</TRANSL>
 		<TRANSL xml:lang="zh">结婚之后，她的婆家把它当做贵宾。</TRANSL>
@@ -141,17 +141,17 @@
 	</S>
 	<S id="BuriedAlive3S020">
 		<AUDIO start="123.4654" end="127.8362"/>
-		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ | hɑ˧ tʰi˧-tɕɤ˧˥, | æ̃˩ʁv̩˩˥ | tʰi˧-tɕɤ˧-ɳɯ˥, | nɑ˧~nɑ˥ | ʈʂʰɯ˧ li˩, | -tsɯ˧˥ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡no˩bv̩˧-tsʰɯ˩ɻ̍˩ | ʈʂʰɯ˧-dʑo˩/; mais s'il y avait deux groupes, cela ne pourrait être que /no˩bv̩˧-tsʰɯ˩ɻ̍˩ | ʈʂʰɯ˧-dʑo˧/. Transcription soigneusement vérifiée."/>
+		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ | hɑ˧ tʰi˧-tɕɤ˧˥, | æ̃˩ʁv̩˩˥ | tʰi˧-tɕɤ˧-ɳɯ˥, | nɑ˧~nɑ˥ | ʈʂʰɯ˧ li˩, | -tsɯ˧˥ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr" message="d'abord noté /‡no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧-dʑo˩/; mais s'il y avait deux groupes, cela ne pourrait être que /no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧-dʑo˧/. Transcription soigneusement vérifiée."/>
 		<TRANSL xml:lang="fr">Or Nobbu Ci'er, lui, il l'observait en cachette, tandis qu'elle cuisait la nourriture, qu'elle cuisait l'œuf!</TRANSL>
 		<TRANSL xml:lang="zh">而诺布次尔这时候也正在偷偷看她。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S021">
 		<AUDIO start="128.3770" end="139.7567"/>
-		<FORM>tʰi˩˥, | le˧-dzɯ˥-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ do˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ʈʂʰɯ˧ | ə˧mi˧ ɖɯ˧-v̩˧-ɳɯ˧ | &lt;əəə… əəə… ɻ̍˩ʈʂʰe˧… əəə…&gt; "ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩!" | pi˧, | ɻwæ˧-kwɤ˩tɕɯ˩-lɑ˩, | æ̃˩ʁv̩˩˥ | tʰv̩˧ mv̩˧-ʁv̩˧-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="vérifié: n'est pas /‡ʈʂʰɯ˧=ɻ̍˩/"/>
+		<FORM>tʰi˩˥, | le˧-dzɯ˥-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ do˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ʈʂʰɯ˧ | ə˧mi˧ ɖɯ˧-v̩˧-ɳɯ˧ | &lt;əəə… əəə… ɻ̩˩ʈʂʰe˧… əəə…&gt; "ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩!" | pi˧, | ɻwæ˧-kwɤ˩tɕɯ˩-lɑ˩, | æ̃˩ʁv̩˩˥ | tʰv̩˧ mv̩˧-ʁv̩˧-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr" message="vérifié: n'est pas /‡ʈʂʰɯ˧=ɻ̩˩/"/>
 		<NOTE xml:lang="fr" message="vérifié: n'est pas /‡ | tsɯ˧˥ ◊ -mv̩˩/."/>
-		<NOTE xml:lang="fr" message="L'hésitation sur le nom de la protagoniste tient au fait que la conteuse a modifié son nom, pour ne pas utiliser un nom porté par des femmes de sa famille, qu'il ne s'agit pas de mêler même indirectement à des histoires peu reluisantes. Le nom dans la version que la conteuse tient de sa famille était: /ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩/."/>
+		<NOTE xml:lang="fr" message="L'hésitation sur le nom de la protagoniste tient au fait que la conteuse a modifié son nom, pour ne pas utiliser un nom porté par des femmes de sa famille, qu'il ne s'agit pas de mêler même indirectement à des histoires peu reluisantes. Le nom dans la version que la conteuse tient de sa famille était: /ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩/."/>
 		<NOTE xml:lang="fr" message="/tʰv̩˧/: est le démonstratif distal; /mv̩/: indique la direction."/>
 		<TRANSL xml:lang="fr">Et comme elle mangeait, pendant que Nobbu Ci'er l'observait, une de ses tantes [revenue à l'improviste a soudain] appelé: "Ddeezzhi Lhaco!"; alors [la jeune fille] a avalé l'œuf [tout rond]!</TRANSL>
 		<TRANSL xml:lang="zh">她正吃着，突然听见一个阿妈（注：上辈女性）的叫声：“独知拉搓！”她赶紧把蛋一口吞了下去！</TRANSL>
@@ -165,7 +165,7 @@
 	</S>
 	<S id="BuriedAlive3S023">
 		<AUDIO start="142.8251" end="148.4321"/>
-		<FORM>qv̩˧ʈʂæ˧ æ˥-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-dʑo˩ | le˧-do˩-tsɯ˩ ◊ -mv̩˩. ʈʂʰɯ˧ ə˧mi˧-dʑo˩, | mɤ˧-do˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>qv̩˧ʈʂæ˧ æ˥-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-dʑo˩ | le˧-do˩-tsɯ˩ ◊ -mv̩˩. ʈʂʰɯ˧ ə˧mi˧-dʑo˩, | mɤ˧-do˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Quand ça s'est coincé dans sa gorge, eh bien, Nobbu Ci'er, il la voyait. Tandis que sa mère/tante (=la tante revenue à l'improviste), elle n'a pas vu [cet épisode].</TRANSL>
 		<TRANSL xml:lang="zh">诺布次尔把整个过程都看下来了。而那个阿妈没看见。</TRANSL>
 	</S>
@@ -177,7 +177,7 @@
 	</S>
 	<S id="BuriedAlive3S025">
 		<AUDIO start="156.0369" end="164.6462"/>
-		<FORM>æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-zo˩, | tʰi˧-ʑi˧˥… | tʰi˧-ʂɯ˧-dʑo˥ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ | tʰv̩˧-v̩˧-dʑo˩, | "æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-ze˩! | ə˧so˧-dʑo˧, &lt;ʈʂʰɯ…&gt; | dʑɤ˩˥ | tʰi˧-se˥-dʑo˩-ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-zo˩, | tʰi˧-ʑi˧˥… | tʰi˧-ʂɯ˧-dʑo˥ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ | tʰv̩˧-v̩˧-dʑo˩, | "æ̃˩ʁv̩˩-ɳɯ˥ | qv̩˧ʈʂæ˧ æ˥-ze˩! | ə˧so˧-dʑo˧, &lt;ʈʂʰɯ…&gt; | dʑɤ˩˥ | tʰi˧-se˥-dʑo˩-ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Comme elle avait la gorge bloquée par l'œuf, elle était allongé… elle était morte! [Mais] Nobbu Ci'er, lui, il s'est dit: "Elle s'est coincé la gorge avec un œuf! Tout à l'heure, elle marchait [encore] avec entrain! (=A l'instant, elle paraissait encore en pleine forme! En pleine forme!)"</TRANSL>
 		<TRANSL xml:lang="zh">鸡蛋噎住了在喉咙里，所以姑娘躺在地上，像是死了一样。诺布次尔心想：“她刚刚还好好的，一定是鸡蛋噎在喉咙里了，让她不能动弹！”</TRANSL>
 	</S>
@@ -189,14 +189,14 @@
 	</S>
 	<S id="BuriedAlive3S027">
 		<AUDIO start="168.4651" end="174.7344"/>
-		<FORM>tʰi˩˥, | dʑɤ˩˥ | tʰi˧-se˥-dʑo˩-ɲi˩, | pi˧-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ʈʂʰɯ˩-dʑo˩, | le˧-wo˧-tʰo˥-tɕo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ɳæ˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | dʑɤ˩˥ | tʰi˧-se˥-dʑo˩-ɲi˩, | pi˧-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ʈʂʰɯ˩-dʑo˩, | le˧-wo˧-tʰo˥-tɕo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ɳæ˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, n'est pas /‡le˧-ɳæ˥ | -tsɯ˧˥ ◊ -mv̩˩/."/>
 		<TRANSL xml:lang="fr">Alors, comme elle paraissait encore en pleine forme [un moment auparavant], Nobbu Ci'er, se retournant (=se détournant), il s'est caché.</TRANSL>
 		<TRANSL xml:lang="zh">因为他认为她没什么事情，所以一转身躲起来了。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S028">
 		<AUDIO start="175.4077" end="180.5070"/>
-		<FORM>le˧-ɳæ˥-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | mv̩˩zo˩˥ ◊ -dʑo˩, | tʰi˧-ʂɯ˧-dʑo˥, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩ | tʰi˩˥, | lo˧ ʝi˧-le˧-tsʰɯ˩-ze˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>le˧-ɳæ˥-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | mv̩˩zo˩˥ ◊ -dʑo˩, | tʰi˧-ʂɯ˧-dʑo˥, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩ | tʰi˩˥, | lo˧ ʝi˧-le˧-tsʰɯ˩-ze˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Quand il s'est caché, la jeune fille, elle était morte (=elle paraissait morte); et eux (=les gens de la famille), ils sont revenus du travail!</TRANSL>
 		<TRANSL xml:lang="zh">他跑了以后，大家从田里回来以后，都认为这个姑娘是死了。</TRANSL>
 	</S>
@@ -209,7 +209,7 @@
 	</S>
 	<S id="BuriedAlive3S030">
 		<AUDIO start="189.0831" end="193.8955"/>
-		<FORM>zo˩no˧-dʑo˥ | tʰi˩˥, | ə˧tse˧-ʝi˥ | ʈʂʰɯ˧ne˧&lt;-ʝi˥&gt; gv̩˧-ɲi˥-hɯ˩?" | pi˧-zo˩, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | ɖɯ˧-tɑ˧˥ | le˧-ɖwæ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>zo˩no˧-dʑo˥ | tʰi˩˥, | ə˧tse˧-ʝi˥ | ʈʂʰɯ˧ne˧&lt;-ʝi˥&gt; gv̩˧-ɲi˥-hɯ˩?" | pi˧-zo˩, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | ɖɯ˧-tɑ˧˥ | le˧-ɖwæ˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="Avant 2014: noté /‡zo˩no˧-dʑo˧/."/>
 		<TRANSL xml:lang="fr">Maintenant, qu'est-ce qu'[elle] est allée fabriquer?" Eux, ils ont tous eu peur [en la voyant gisant inerte]!</TRANSL>
 		<TRANSL xml:lang="zh">“她在干什么呢？”正找着，看见地上躺着一个人，他们很害怕！</TRANSL>
@@ -228,7 +228,7 @@
 	</S>
 	<S id="BuriedAlive3S033">
 		<AUDIO start="198.9726" end="206.0918"/>
-		<FORM>"ə˧mi˧! | njɤ˧=ɻ̍˩ | ʐv̩˧mi˧ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʂɯ˧-ze˧! | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ ʈʂʰɯ˩-dʑo˩, | ə˧tse˧ ʝi˧-ɲi˥?" |</FORM>
+		<FORM>"ə˧mi˧! | njɤ˧=ɻ̩˩ | ʐv̩˧mi˧ | ʈʂʰɯ˧-v̩˧-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʂɯ˧-ze˧! | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩ ʈʂʰɯ˩-dʑo˩, | ə˧tse˧ ʝi˧-ɲi˥?" |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, n'est pas /‡ʈʂʰɯ˧-v̩˧-dʑo˧/"/>
 		<TRANSL xml:lang="fr">"Hélas! Nous autres, cette nièce, la voilà morte! Ddeezzhi Lhaco, qu'est-ce qui lui est donc arrivé?"</TRANSL>
 		<TRANSL xml:lang="zh">真可惜！我们这个闺女，怎么突然就死了呢？</TRANSL>
@@ -270,8 +270,8 @@
 	</S>
 	<S id="BuriedAlive3S039">
 		<AUDIO start="235.9371" end="241.2903"/>
-		<FORM>tʰi˧-nv̩˥ | dʑo˩ | tʰi˩˥, | zo˩no˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-dʑo˩, | "mɤ˧-ɲi˩-ze˩! | njɤ˧ do˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="avais d'abord noté ‡no˩bv̩˧-tsʰɯ˩ɻ̍˩ | ʈʂʰɯ˧-dʑo˩/; en fait: est intégré en un seul groupe; si c'était divisé en deux groupes, cela donnerait: /no˩bv̩˧-tsʰɯ˩ɻ̍˩ | ʈʂʰɯ˧-dʑo˧/."/>
+		<FORM>tʰi˧-nv̩˥ | dʑo˩ | tʰi˩˥, | zo˩no˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-dʑo˩, | "mɤ˧-ɲi˩-ze˩! | njɤ˧ do˧˥! |</FORM>
+		<NOTE xml:lang="fr" message="avais d'abord noté ‡no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧-dʑo˩/; en fait: est intégré en un seul groupe; si c'était divisé en deux groupes, cela donnerait: /no˩bv̩˧-tsʰɯ˩ɻ̩˩ | ʈʂʰɯ˧-dʑo˧/."/>
 		<TRANSL xml:lang="fr">Comme on l'enterrait, eh bien, Nobbu Ci'er, lui, il s'est dit: "C'est pas vrai! Moi, j'ai vu!</TRANSL>
 		<TRANSL xml:lang="zh">诺布次尔听到这个消息，心想：“这不对吧！我都看见了！”</TRANSL>
 	</S>
@@ -290,7 +290,7 @@
 	</S>
 	<S id="BuriedAlive3S042">
 		<AUDIO start="250.4403" end="255.5948"/>
-		<FORM>tʰi˩˥, | mɤ˧-ʐwɤ˩, | mɤ˧-ʐwɤ˩-dʑo˩ | tʰi˩˥, | &lt;tʰv̩˧=ɻ̍˩-ɳɯ˩…&gt; tʰv̩˧=ɻ̍˩-dʑo˩, | "hĩ˧ F | le˧-ʂɯ˧-ze˧!" | pi˧-zo˩, | ʁwɤ˧-qo˧-hĩ˧ | le˧-ʁɑ˥-ʂe˩! |</FORM>
+		<FORM>tʰi˩˥, | mɤ˧-ʐwɤ˩, | mɤ˧-ʐwɤ˩-dʑo˩ | tʰi˩˥, | &lt;tʰv̩˧=ɻ̩˩-ɳɯ˩…&gt; tʰv̩˧=ɻ̩˩-dʑo˩, | "hĩ˧ F | le˧-ʂɯ˧-ze˧!" | pi˧-zo˩, | ʁwɤ˧-qo˧-hĩ˧ | le˧-ʁɑ˥-ʂe˩! |</FORM>
 		<TRANSL xml:lang="fr">Il ne l'a pas dit; et comme il ne le disait pas, eux (=les gens de cette famille), ils ont dit: "Elle, elle est morte!", et ils ont fait venir les gens du village [pour la cérémonie de deuil]!</TRANSL>
 		<TRANSL xml:lang="zh">他不说，而姑娘的婆家人家人则跟全村说：“她已经死了！”，叫了大家来！</TRANSL>
 	</S>
@@ -302,7 +302,7 @@
 	</S>
 	<S id="BuriedAlive3S044">
 		<AUDIO start="258.8398" end="262.8905"/>
-		<FORM>&lt;tʰi˧-tv̩˥…&gt; tʰi˧-tɕi˥-dʑo˩ | tʰi˩˥, | hæ̃˧qʰv̩˥-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-ɳɯ˩ | tʰi˩˥, | le˧-wo˧-hɯ˥! |</FORM>
+		<FORM>&lt;tʰi˧-tv̩˥…&gt; tʰi˧-tɕi˥-dʑo˩ | tʰi˩˥, | hæ̃˧qʰv̩˥-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-ɳɯ˩ | tʰi˩˥, | le˧-wo˧-hɯ˥! |</FORM>
 		<TRANSL xml:lang="fr">Comme on la laissait là, le soir, Nobbu Ci'er, lui, il est revenu!</TRANSL>
 		<TRANSL xml:lang="zh">因为没人在了，到了晚上，诺布次尔就来了！</TRANSL>
 	</S>
@@ -315,7 +315,7 @@
 	</S>
 	<S id="BuriedAlive3S046">
 		<AUDIO start="276.0914" end="280.3077"/>
-		<FORM>tsʰe˧-ɖɯ˧-ɭɯ˧-qo˧ | le˧-ʑi˧-ʁo˥to˩-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ɳɯ˩, | hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩! | hɯ˧! |</FORM>
+		<FORM>tsʰe˧-ɖɯ˧-ɭɯ˧-qo˧ | le˧-ʑi˧-ʁo˥to˩-dʑo˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ɳɯ˩, | hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩! | hɯ˧! |</FORM>
 		<TRANSL xml:lang="fr">À onze heures, après que [les gens qui veillaient] se furent endormis, eh bien, Nobbu Ci'er, il y est allé! il y est allé!</TRANSL>
 		<TRANSL xml:lang="zh">十一点的时候，大家都睡着了之后，诺布次尔悄悄溜进来了。</TRANSL>
 	</S>
@@ -333,7 +333,7 @@
 	</S>
 	<S id="BuriedAlive3S049">
 		<AUDIO start="297.1950" end="302.4488"/>
-		<FORM>tʰi˩˥, | ʈʂʰɯ˧=ɻ̍˩-dʑo˩, | wɤ˩˥, | ɑ˩ʁo˧-hĩ˧, &lt;le˧-&gt;ʁæ˧ ɲi˥-tsɯ˩ ◊ -mv̩˩! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ ʁæ˧ | ɖɯ˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩! | ɲi˧-ʑi˩ F | hĩ˧ ʁæ˧! |</FORM>
+		<FORM>tʰi˩˥, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | wɤ˩˥, | ɑ˩ʁo˧-hĩ˧, &lt;le˧-&gt;ʁæ˧ ɲi˥-tsɯ˩ ◊ -mv̩˩! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ ʁæ˧ | ɖɯ˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩! | ɲi˧-ʑi˩ F | hĩ˧ ʁæ˧! |</FORM>
 		<TRANSL xml:lang="fr">Or ces gens-là, les gens de la famille, on dit qu'ils étaient riches! Autrefois, c'était une famille de riches! Les deux familles étaient riches[, celle dans laquelle était née la jeune femme, et celle à laquelle elle avait été donnée]! (Note: c'est un élément déterminant du choix pour la famille de naissance de la femme: elles/ils voulaient pour leur fille une famille aisée.)</TRANSL>
 		<TRANSL xml:lang="zh">这家的人还是很有钱的，婆家娘家都是有钱的人家。</TRANSL>
 	</S>
@@ -361,20 +361,20 @@
 	</S>
 	<S id="BuriedAlive3S053">
 		<AUDIO start="324.3251" end="331.3670"/>
-		<FORM>"njɤ˧=ɻ̍˩ | mɤ˧-gɤ˩-ze˩!" | pi˧-zo˩. | zo˩no˥, | zo˧ ʈʂʰɯ˧-ʑi˧=ɻ̍˧-ɳɯ˥, | lo˩dʑo˧-lo˩pv̩˩ | ɖwæ˧˥ | tʰi˧-kʰɯ˧~kʰɯ˥. |</FORM>
+		<FORM>"njɤ˧=ɻ̩˩ | mɤ˧-gɤ˩-ze˩!" | pi˧-zo˩. | zo˩no˥, | zo˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | lo˩dʑo˧-lo˩pv̩˩ | ɖwæ˧˥ | tʰi˧-kʰɯ˧~kʰɯ˥. |</FORM>
 		<NOTE xml:lang="fr" message="exemple de composé coordinatif"/>
 		<TRANSL xml:lang="fr">"Nous ne sommes pas contents! / Nous sommes fort mécontents!" Alors[, pour ne pas paraître avare dans ce moment difficile, lors de l'enterrement de la jeune femme,] la famille de l'homme a mis bonne mesure de bracelets et d'anneaux / la belle-famille a redoublé de générosité, parant le corps de la jeune femme de toutes sortes de bijoux somptueux.</TRANSL>
 		<TRANSL xml:lang="zh">“我们不答应！”于是婆家就又陪葬了许多首饰。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S054">
 		<AUDIO start="331.8085" end="335.8151"/>
-		<FORM>mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̍˩-ɳɯ˥, | lo˩dʑo˧-lo˩pv̩˩, | mv̩˩-ə˩mi˥=ɻ̍˩-ɳɯ˩, | ɖwæ˧˥ | tʰi˧-kʰɯ˧~kʰɯ˥-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>mv̩˩ ʈʂʰɯ˩-ʑi˩=ɻ̩˩-ɳɯ˥, | lo˩dʑo˧-lo˩pv̩˩, | mv̩˩-ə˩mi˥=ɻ̩˩-ɳɯ˩, | ɖwæ˧˥ | tʰi˧-kʰɯ˧~kʰɯ˥-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">La famille de la jeune femme a [également] mis bonne mesure de bracelets et d'anneaux.</TRANSL>
 		<TRANSL xml:lang="zh">娘家也陪葬了许多首饰。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S055">
 		<AUDIO start="336.9299" end="340.3073"/>
-		<FORM>tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̍˩-ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ | tʰi˧-kʰɯ˧-hĩ˥, | do˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̩˩-ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ | tʰi˧-kʰɯ˧-hĩ˥, | do˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">Nobbu Ci'er, lui, tout ce qu'ils lui mettaient [comme bijoux], il l'a vu!</TRANSL>
 		<TRANSL xml:lang="zh">诺布次尔白天看见了这些首饰。</TRANSL>
 	</S>
@@ -450,21 +450,21 @@
 	</S>
 	<S id="BuriedAlive3S066">
 		<AUDIO start="393.5853" end="405.9142"/>
-		<FORM>gɤ˩-pʰi˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-v̩˧-ɳɯ˩: | "njɤ˧ mɤ˧-ʂɯ˧! | ʁɑ˩mi˧! | no˧… | &lt;ɖɯ˧-ɳv̩˧-ɻ… no˧ | ɖɯ˧… əəə…&gt; zo˩no˥, | lo˩dʑo˥ [ | le˧-pʰv̩˧-zo˥], | ɖɯ˧-sɯ˩-ɻ̍˩ kʰɯ˩! | njɤ˧ | mɤ˧-ʂɯ˧!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>gɤ˩-pʰi˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩ | tʰi˩˥, | ʈʂʰɯ˧-v̩˧-ɳɯ˩: | "njɤ˧ mɤ˧-ʂɯ˧! | ʁɑ˩mi˧! | no˧… | &lt;ɖɯ˧-ɳv̩˧-ɻ… no˧ | ɖɯ˧… əəə…&gt; zo˩no˥, | lo˩dʑo˥ [ | le˧-pʰv̩˧-zo˥], | ɖɯ˧-sɯ˩-ɻ̩˩ kʰɯ˩! | njɤ˧ | mɤ˧-ʂɯ˧!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-v̩˧-ɳɯ˧/"/>
 		<TRANSL xml:lang="fr">Comme l'œuf était ainsi recraché, eh bien, elle, elle a dit: "Je ne suis pas morte! Merci! Vous… eh bien… comme [vous m'avez ôté] les bracelets, j'ai revécu! / en m'ôtant les bracelets, vous m'avez ramenée à la vie! Je ne suis pas morte!"</TRANSL>
 		<TRANSL xml:lang="zh">鸡蛋吐出来了，她开口说话了：“我没死！你拉这个手镯，救了我一命！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S067">
 		<AUDIO start="406.3667" end="411.1791"/>
-		<FORM>tʰi˩˥, | "njɤ˩-dʑo˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ɲi˩! | no˧ | do˩-ɲi˥!" | pi˧-dʑo˩, | tʰi˩˥ | no˧˥, | "ʁɑ˩mi˧! | njɤ˧ | ɖɯ˧-sɯ˩-ɻ̍˩-kʰɯ˩!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | "njɤ˩-dʑo˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ɲi˩! | no˧ | do˩-ɲi˥!" | pi˧-dʑo˩, | tʰi˩˥ | no˧˥, | "ʁɑ˩mi˧! | njɤ˧ | ɖɯ˧-sɯ˩-ɻ̩˩-kʰɯ˩!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡pi˧-ɲi˩-tsɯ˩ ◊ -mv̩˩/; dans ce contexte, le ton haut n'est phonétiquement pas saillant."/>
 		<TRANSL xml:lang="fr">Alors, [l'homme a] répondu: "Moi, je suis Nobbu Ci'er! Je t'avais vue [quand cette mésaventure t'est arrivée]!" Alors [la jeune femme] lui a dit: "Merci! Tu me fais revivre!"</TRANSL>
 		<TRANSL xml:lang="zh">男人就回答说：“我是诺布次尔！我看见发生的一切了！”姑娘说：“谢谢你救了我的命！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S068">
 		<AUDIO start="411.4550" end="420.2850"/>
-		<FORM>tʰi˩˥, | əəə… lo˩dʑo˥ | le˧-pʰv̩˧˥, | əəə… lo˩pv̩˥ | le˧-pʰv̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-sɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ʈʂʰɯ˩-ɳɯ˩, | &lt;dʑi˧…&gt; dʑi˧hṽ˧ ɖɯ˧-dzi˩ po˩-hɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | əəə… lo˩dʑo˥ | le˧-pʰv̩˧˥, | əəə… lo˩pv̩˥ | le˧-pʰv̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-sɯ˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ʈʂʰɯ˩-ɳɯ˩, | &lt;dʑi˧…&gt; dʑi˧hṽ˧ ɖɯ˧-dzi˩ po˩-hɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /dʑi˧hṽ˧ ɖɯ˧-dzi˩/, puis corrigé à tort en: /dʑi˧hṽ˥ | ɖɯ˧-dzi˩/ (forme qui est possible lorsqu'on sépare soigneusement les 2 parties); en 2013: rétabli: /dʑi˧hṽ˧ ɖɯ˧-dzi˩/, en un seul groupe."/>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /ɖɯ˧-dzi˩ | po˧-hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩/."/>
 		<TRANSL xml:lang="fr">Alors… Quand il lui a eu arraché ses bracelets, qu'elle est ainsi revenue à la vie, eh bien, Nobbu Ci'er, lui, il a amené une paire de vêtements.</TRANSL>
@@ -472,7 +472,7 @@
 	</S>
 	<S id="BuriedAlive3S069">
 		<AUDIO start="420.8810" end="426.5653"/>
-		<FORM>dʑi˧hṽ˥ | ɖɯ˧-dzi˩ po˩, | dʑi˧hṽ˧ tʰv̩˧-dzi˧˥ | le˧-po˧-se˥-dʑo˩ | tʰi˩˥, | gæ˩-sɯ˧, | pi˧-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-dʑo˩ | ʂv̩˧ɖv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>dʑi˧hṽ˥ | ɖɯ˧-dzi˩ po˩, | dʑi˧hṽ˧ tʰv̩˧-dzi˧˥ | le˧-po˧-se˥-dʑo˩ | tʰi˩˥, | gæ˩-sɯ˧, | pi˧-dʑo˩, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-dʑo˩ | ʂv̩˧ɖv̩˧-ɲi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est: /dʑi˧hṽ˧ tʰv̩˧-dzi˧˥/; et est: /dʑi˧hṽ˧ ɖɯ˧-dzi˩ | /, non /‡dʑi˧hṽ˥ | ɖɯ˧-dzi˩/"/>
 		<TRANSL xml:lang="fr">Il a amené une paire de vêtements; quand il a eu amené cette paire de vêtements, eh bien… comme elle avait revécu / comme elle était revenue à la vie, Nobbu Ci'er a réfléchi.</TRANSL>
 		<TRANSL xml:lang="zh">边拿衣服，诺布次尔边想：</TRANSL>
@@ -492,8 +492,8 @@
 	</S>
 	<S id="BuriedAlive3S072">
 		<AUDIO start="433.8720" end="439.5232"/>
-		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ɳɯ˩, | gæ˩sɯ˧-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ʈʂʰɯ˧-bv̩˩ | dʑi˧hṽ˥ | tʰi˧-ʂæ˩~ʂæ˩-hĩ˩ | le˧-ʑi˩, | le˧-wo˥ | tʰv̩˧qo˧ | tʰi˧-kʰɯ˧˥; |</FORM>
-		<NOTE xml:lang="en" message="The tones of /ʈʂʰɯ˧-bv̩˩/ were carefully checked. There are seemingly two variants for the 3rd-person pronoun: /ʈʂʰɯ˧-bv̩˧/ and /ʈʂʰɯ˧-bv̩˩/ are both correct. But these are not tonal variants: they have different meanings. The latter, /ʈʂʰɯ˧-bv̩˩/, is a reduced form of /ʈʂʰɯ˧=ɻ̍˩-bv̩˩/, where /=ɻ̍˩/ is the plural. Thus, /ʈʂʰɯ˧-bv̩˩/ means ‘their’, whereas /ʈʂʰɯ˧-bv̩˧/ means ‘her/his’. In this context, the clothes are not those of the young woman, but those in which her in-laws have wrapped her for the burial. Segmental ellipsis of the plural /=ɻ̍˩/ is complete: there is no trace left of it, only a tonal difference."/>
+		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ɳɯ˩, | gæ˩sɯ˧-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | ʈʂʰɯ˧-bv̩˩ | dʑi˧hṽ˥ | tʰi˧-ʂæ˩~ʂæ˩-hĩ˩ | le˧-ʑi˩, | le˧-wo˥ | tʰv̩˧qo˧ | tʰi˧-kʰɯ˧˥; |</FORM>
+		<NOTE xml:lang="en" message="The tones of /ʈʂʰɯ˧-bv̩˩/ were carefully checked. There are seemingly two variants for the 3rd-person pronoun: /ʈʂʰɯ˧-bv̩˧/ and /ʈʂʰɯ˧-bv̩˩/ are both correct. But these are not tonal variants: they have different meanings. The latter, /ʈʂʰɯ˧-bv̩˩/, is a reduced form of /ʈʂʰɯ˧=ɻ̩˩-bv̩˩/, where /=ɻ̩˩/ is the plural. Thus, /ʈʂʰɯ˧-bv̩˩/ means ‘their’, whereas /ʈʂʰɯ˧-bv̩˧/ means ‘her/his’. In this context, the clothes are not those of the young woman, but those in which her in-laws have wrapped her for the burial. Segmental ellipsis of the plural /=ɻ̩˩/ is complete: there is no trace left of it, only a tonal difference."/>
 		<TRANSL xml:lang="fr">Alors, Nobbu Ci'er, du fait que [la jeune femme] était revenue à la vie, il a fait un paquet de ses vêtements [mortuaires], il les a pris, et les a remis là-dedans (=dans la tombe);</TRANSL>
 		<TRANSL xml:lang="zh">诺布次尔就把姑娘的裹尸布卷起来扔回“独帕”的洞里。（注：“独帕”房间是主房侧面的一个小间。）</TRANSL>
 	</S>
@@ -532,7 +532,7 @@
 	</S>
 	<S id="BuriedAlive3S078">
 		<AUDIO start="478.1765" end="480.3619"/>
-		<FORM>no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-ɳɯ˩, | le˧-pɤ˥~pɤ˩ | le˧-po˧-hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-ɳɯ˩, | le˧-pɤ˥~pɤ˩ | le˧-po˧-hɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">[C'est que] Nobbu Ci'er l'avait emportée sur son dos, à ce que dit l'histoire!</TRANSL>
 		<TRANSL xml:lang="zh">（讲述人再次强调）是诺布次尔把她背走的。</TRANSL>
 	</S>
@@ -557,7 +557,7 @@
 	</S>
 	<S id="BuriedAlive3S082">
 		<AUDIO start="504.9093" end="515.3287"/>
-		<FORM>mv̩˩˥ | ə˧mi˧-dʑo˧, | "ə˧mi˧! | njɤ˧ | mv̩˩do˩ mɤ˩-tʰɑ˥-ze˩! | njɤ˧ &lt;ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩… əəə…&gt; ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | do˩-mɤ˩-tʰɑ˥-ze˩! | le˧-ʂɯ˧-ze˧!" |</FORM>
+		<FORM>mv̩˩˥ | ə˧mi˧-dʑo˧, | "ə˧mi˧! | njɤ˧ | mv̩˩do˩ mɤ˩-tʰɑ˥-ze˩! | njɤ˧ &lt;ɻ̩˩ʈʂʰe˧-ɖɯ˩mɑ˩… əəə…&gt; ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | do˩-mɤ˩-tʰɑ˥-ze˩! | le˧-ʂɯ˧-ze˧!" |</FORM>
 		<TRANSL xml:lang="fr">La mère de la jeune femme [se désolait, elle] disait: "Hélas! Je ne reverrai plus ma fille! Ma Erchei Ddeema… euh non: Ddeezzhi Lhaco, je ne la reverrai plus! Elle est morte!"</TRANSL>
 		<TRANSL xml:lang="zh">姑娘的妈妈在家里哭着：“啊呀，我的好姑娘，你再回不来了，你死了！”</TRANSL>
 	</S>
@@ -569,25 +569,25 @@
 	</S>
 	<S id="BuriedAlive3S084">
 		<AUDIO start="518.8717" end="526.2889"/>
-		<FORM>tʰi˩˥, | ŋv̩˩˥, | ŋv̩˩˥ ◊ -dʑo˩ | tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̍˩ ʈʂʰɯ˩-ɳɯ˩, | &lt;ɑ˩ʁo˧…&gt; ʈʂʰɯ˧ | ɑ˩ʁo˧ | le˧-hɯ˩, | kʰi˧ kɤ˥~kɤ˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. ʈwæ-ʈwæ-ʈwæ-ʈwæ! pi˧, | kʰi˧ kɤ˥~kɤ˩ | tʰi˩˥, |</FORM>
+		<FORM>tʰi˩˥, | ŋv̩˩˥, | ŋv̩˩˥ ◊ -dʑo˩ | tʰi˩˥, | əəə… no˩bv̩˧-tsʰɯ˩ɻ̩˩ ʈʂʰɯ˩-ɳɯ˩, | &lt;ɑ˩ʁo˧…&gt; ʈʂʰɯ˧ | ɑ˩ʁo˧ | le˧-hɯ˩, | kʰi˧ kɤ˥~kɤ˩ ɲi˩-tsɯ˩ ◊ -mv̩˩. ʈwæ-ʈwæ-ʈwæ-ʈwæ! pi˧, | kʰi˧ kɤ˥~kɤ˩ | tʰi˩˥, |</FORM>
 		<TRANSL xml:lang="fr">Comme elle pleurait ainsi, Nobbu Ci'er est allé à sa maison; il a frappé à la porte. Toc, toc, toc! Il a frappé à la porte.</TRANSL>
 		<TRANSL xml:lang="zh">她正哭喊的时候，诺布次尔来敲她的门。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S085">
 		<AUDIO start="526.5427" end="532.7127"/>
-		<FORM>"ɲi˩ ɲi˥?" | pi˧-dʑo˩, | mmm… "ə˧mɑ˧! | njɤ˧ | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>"ɲi˩ ɲi˥?" | pi˧-dʑo˩, | mmm… "ə˧mɑ˧! | njɤ˧ | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">"Qui est-ce?" a demandé [la mère]. "Mère! Je suis Nobbu Ci'er!" a-t-il répondu.</TRANSL>
 		<TRANSL xml:lang="zh">“谁啊？”她妈妈说。他回答说：“阿妈！是我，诺布次尔！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S086">
 		<AUDIO start="533.2535" end="537.2050"/>
-		<FORM>"no˧ | zo˩qo˧ | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ɲi˩? | njɤ˧ | mɤ˧-sɯ˥!" | pi˧-dʑo˩, |</FORM>
+		<FORM>"no˧ | zo˩qo˧ | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ɲi˩? | njɤ˧ | mɤ˧-sɯ˥!" | pi˧-dʑo˩, |</FORM>
 		<TRANSL xml:lang="fr">"Vous êtes le Nobbu Ci'er de quel endroit? Je ne vous connais pas!" a répondu la mère. (Explication: il existait peu de prénoms, dans le temps; on levait l'ambiguïté en disant "le Nobbu Ci'er de tel village", ou "le Nobbu Ci'er de telle famille".)</TRANSL>
 		<TRANSL xml:lang="zh">“你是从哪里冒出来的诺布次尔？我不认识你！”她妈回答。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S087">
 		<AUDIO start="537.3595" end="541.9290"/>
-		<FORM>"ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, | njæ˧=zɯ˩ | ho˧~ho˥-hĩ˩ | no˩bv̩˧-tsʰɯ˩ɻ̍˩ ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>"ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩, | njæ˧=zɯ˩ | ho˧~ho˥-hĩ˩ | no˩bv̩˧-tsʰɯ˩ɻ̩˩ ɲi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Il a répondu: "Je suis le Nobbu Ci'er qui était ami avec Ddeezzhi Lhaco, autrefois!"</TRANSL>
 		<TRANSL xml:lang="zh">男人回答：“我是独知拉搓以前的朋友！”</TRANSL>
 	</S>
@@ -600,22 +600,22 @@
 	</S>
 	<S id="BuriedAlive3S089">
 		<AUDIO start="547.6575" end="549.5118"/>
-		<FORM>"no˧ | ɑ˩pʰo˩ jo˩-ɻ̍˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>"no˧ | ɑ˩pʰo˩ jo˩-ɻ̩˥!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">"Venez donc dehors un moment!" a-t-il dit.</TRANSL>
 		<TRANSL xml:lang="zh">“你先出来一下吗！”男人说。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S090">
 		<AUDIO start="549.7656" end="558.9268"/>
-		<FORM>tʰi˩˥, | ə˧mi˧ | ʈʂʰɯ˧-jɤ˩-ɳɯ˩: | "no˧ | njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧-ki˧ ki˩-bi˩, | dʑɤ˩-ho˥ ɲi˩-ho˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | ə˧mi˧ | ʈʂʰɯ˧-jɤ˩-ɳɯ˩: | "no˧ | njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̩˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧-ki˧ ki˩-bi˩, | dʑɤ˩-ho˥ ɲi˩-ho˩! | njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /njɤ˧ mv̩˩/ 'ma fille'; la formulation /njɤ˧ | mv̩˩˥ | le˧-ʂɯ˧-ze˧/ pourrait se paraphraser en chinois par: “我啊，我家女孩死了”: la 1e personne du singulier sert de thème: 'Moi, [ma] fille, elle est morte!'"/>
-		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. Vérification en 2018: la forme canonique est bien: /njɤ˧-ki˩/. La forme /njɤ˧-ki˧/ serait-elle une forme en contexte, obtenue par intégration dans un groupe tonal plus long? Les deux groupes /njɤ˧-ki˩ |/ et /tʰɑ˧-jo˧-ɻ̍˩/, joints l'un à l'autre, donneraient /njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̍˩/? Ce serait le premier exemple d'un tel processus. Solution: il s'agit en fait de 2 morphèmes distincts, datif et allatif; ils n'avaient pas été distingués jusqu'ici dans la description. Leur comportement tonal n'est pas identique."/>
-		<NOTE xml:lang="fr" message="Avant 2018, noté /tʰɑ˧-jo˧-ɻ̍˧/; vérification en 2018: est: /tʰɑ˧-jo˧-ɻ̍˩/."/>
+		<NOTE xml:lang="fr" message="Avant 2017, noté /no˧ | njɤ˧-ki˩ |/; or selon la règle morpho-phonologique dégagée par ailleurs, le schéma devrait être /njɤ˧-ki˧/. Hypothèse: dans cet exemple, la postposition //-ki˧// est faible, comme dés-accentuée, et son ton phonétique n'est pas identifiable comme un ton M, mais son ton phonologique est bien M. Vérification en 2018: la forme canonique est bien: /njɤ˧-ki˩/. La forme /njɤ˧-ki˧/ serait-elle une forme en contexte, obtenue par intégration dans un groupe tonal plus long? Les deux groupes /njɤ˧-ki˩ |/ et /tʰɑ˧-jo˧-ɻ̩˩/, joints l'un à l'autre, donneraient /njɤ˧-ki˧ tʰɑ˧-jo˧-ɻ̩˩/? Ce serait le premier exemple d'un tel processus. Solution: il s'agit en fait de 2 morphèmes distincts, datif et allatif; ils n'avaient pas été distingués jusqu'ici dans la description. Leur comportement tonal n'est pas identique."/>
+		<NOTE xml:lang="fr" message="Avant 2018, noté /tʰɑ˧-jo˧-ɻ̩˧/; vérification en 2018: est: /tʰɑ˧-jo˧-ɻ̩˩/."/>
 		<TRANSL xml:lang="fr">Alors la mère a dit: "Ne viens plus chez moi! Moi, ma fille est morte! Autrefois, si on te l'avait donnée, tout aurait été pour le mieux / ç'aurait été bien, c'est sûr! [Mais maintenant,] moi, ma fille est morte!"</TRANSL>
 		<TRANSL xml:lang="zh">母亲就说：“再别来我家了！我女孩死了！以前要是许给了你就好了！我女孩死了！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S091">
 		<AUDIO start="559.2800" end="563.5184"/>
-		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-ɳɯ˩: | "ə˧mɑ˧! | mɤ˧-ʂɯ˧!" pi˧, |</FORM>
+		<FORM>tʰi˩˥, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-ɳɯ˩: | "ə˧mɑ˧! | mɤ˧-ʂɯ˧!" pi˧, |</FORM>
 		<TRANSL xml:lang="fr">Alors, Nobbu Ci'er a dit: "[Mais non,] mère, elle n'est pas morte!"</TRANSL>
 		<TRANSL xml:lang="zh">于是诺布次尔就回答她说：“阿妈，她没死！”</TRANSL>
 	</S>
@@ -636,20 +636,20 @@
 	</S>
 	<S id="BuriedAlive3S094">
 		<AUDIO start="574.6552" end="579.0040"/>
-		<FORM>tʰi˩˥, | so˩-hɑ̃˩ gv̩˩-ze˥ | pi˧-dʑo˩, | "ə˧mɑ˧, | no˧ | ɑ˩pʰo˩ jo˩-ɻ̍˥! |</FORM>
+		<FORM>tʰi˩˥, | so˩-hɑ̃˩ gv̩˩-ze˥ | pi˧-dʑo˩, | "ə˧mɑ˧, | no˧ | ɑ˩pʰo˩ jo˩-ɻ̩˥! |</FORM>
 		<TRANSL xml:lang="fr">Alors, comme elle disait que trois jours avaient déjà passé, [le jeune homme] a dit: "Mère, venez donc dehors!"</TRANSL>
 		<TRANSL xml:lang="zh">男人回答：“阿妈，出来吧！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S095">
 		<AUDIO start="579.3903" end="585.3395"/>
-		<FORM>njɤ˧-ɳɯ˧ | no˧-ki˧ | le˧-ʐwɤ˩-ki˩-bi˩! | õ˧dɤ˧ɻ̍˧ | qʰɑ˩ne˩ gv̩˩-hĩ˥ | tʰv̩˧ | no˧-ki˧ | le˧-ʐwɤ˩-ki˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>njɤ˧-ɳɯ˧ | no˧-ki˧ | le˧-ʐwɤ˩-ki˩-bi˩! | õ˧dɤ˧ɻ̩˧ | qʰɑ˩ne˩ gv̩˩-hĩ˥ | tʰv̩˧ | no˧-ki˧ | le˧-ʐwɤ˩-ki˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="exemple à retenir pour l'étude de la structure de l'information: emploi des deux particules, pour insister sur l'importance de ce tête-à-tête."/>
 		<TRANSL xml:lang="fr">"Moi, je vais vous expliquer, à vous! Comment ça s'est passé pour de vrai / ce qui s'est réellement passé, je vais vous l'expliquer!"</TRANSL>
 		<TRANSL xml:lang="zh">“我给你解释一下，事情到底是怎么回事！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S096">
 		<AUDIO start="586.0128" end="591.9068"/>
-		<FORM>tʰi˩˥, | ə˧mi˧ | tʰv̩˧-v̩˧-ɳɯ˩: | "tʰi˩˥, | ʁɑ˩mi˧! | no˩bv̩˧-tsʰɯ˩ɻ̍˩, | ə˧tso˧ ɲi˩? | qʰɑ˩ne˩ gv̩˩˥ ◊ -ɲi˩?" | pi˧, | mv̩˩do˩ hɯ˩˥ ◊ -dʑo˩, |</FORM>
+		<FORM>tʰi˩˥, | ə˧mi˧ | tʰv̩˧-v̩˧-ɳɯ˩: | "tʰi˩˥, | ʁɑ˩mi˧! | no˩bv̩˧-tsʰɯ˩ɻ̩˩, | ə˧tso˧ ɲi˩? | qʰɑ˩ne˩ gv̩˩˥ ◊ -ɲi˩?" | pi˧, | mv̩˩do˩ hɯ˩˥ ◊ -dʑo˩, |</FORM>
 		<NOTE xml:lang="fr" message="vérifié: est bien /ə˧mi˧ | tʰv̩˧-v̩˧-ɳɯ˩/, il n'y a pas de syllabe supplémentaire"/>
 		<TRANSL xml:lang="fr">Alors, la mère est allée s'enquérir auprès de lui, lui disant: "Alors, par pitié! Nobbu Ci'er, qu'est-ce que c'est [que cette affaire]? Comment est-ce que ça s'est passé?"</TRANSL>
 		<TRANSL xml:lang="zh">妈妈担忧地出了门，她说：“诺布次尔，我求求你，快跟我说说是怎么回事！”</TRANSL>
@@ -729,7 +729,7 @@
 	</S>
 	<S id="BuriedAlive3S108">
 		<AUDIO start="663.0215" end="671.3107"/>
-		<FORM>"gɯ˩-ʝi˥, | njɤ˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -ɲi˩!" | pi˧-dʑo˩ | tʰi˩˥, | "njɤ˧ mv̩˩! | no˧ | le˧-ʂɯ˧, | so˩-hɑ̃˩ gv̩˩-ze˥! | ə˧mɑ˧ | no˧-bi˧ | ʈʂʰɻ̍˧-mɤ˧-bi˧! |</FORM>
+		<FORM>"gɯ˩-ʝi˥, | njɤ˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -ɲi˩!" | pi˧-dʑo˩ | tʰi˩˥, | "njɤ˧ mv̩˩! | no˧ | le˧-ʂɯ˧, | so˩-hɑ̃˩ gv̩˩-ze˥! | ə˧mɑ˧ | no˧-bi˧ | ʈʂʰɻ̩˧-mɤ˧-bi˧! |</FORM>
 		<NOTE xml:lang="fr" message="avant 2013: noté /‡ʈʂʰɯ˧ne˧ gv̩˥-ɲi˩/."/>
 		<TRANSL xml:lang="fr">"C'est bien ainsi que ça s'est passé (littéralement: que ça m'est arrivé)!" a-t-elle dit. Alors, la mère a dit: "Ma fille! Tu es morte, il y a déjà trois jours de cela (littéralement: "trois jours ont passé")! Je ne veux pas te toucher! (littéralement: "Maman ne va pas t'empoigner")</TRANSL>
 		<TRANSL xml:lang="zh">“确实是像他讲的那样！”妈妈说：“我女儿，你死了三天了，我……我不敢碰你！”</TRANSL>
@@ -755,7 +755,7 @@
 	</S>
 	<S id="BuriedAlive3S112">
 		<AUDIO start="692.5910" end="697.5910"/>
-		<FORM>njɤ˧ | no˧-ki˧ | qʰɑ˩ne˩ gv̩˩-hĩ˥, | njɤ˧ | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ki˩ | ɖɯ˧-ʐwɤ˩-ɻ̍˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>njɤ˧ | no˧-ki˧ | qʰɑ˩ne˩ gv̩˩-hĩ˥, | njɤ˧ | ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ki˩ | ɖɯ˧-ʐwɤ˩-ɻ̩˩-bi˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="ici: /-ki/ a le sens de: au sujet de, 关于"/>
 		<TRANSL xml:lang="fr">Je vais vous dire ce qui s'est passé; je vais vous raconter toute cette affaire qui concerne Ddeezzhi Lhaco! (littéralement: "Moi, à vous, comment ça s'est passé… moi, [cette histoire] qui concerne Ddeezzhi Lhaco, [je] vais [vous la] raconter")</TRANSL>
 		<TRANSL xml:lang="zh">“关于独知拉搓的事情，我要跟你们讲一下！”</TRANSL>
@@ -775,13 +775,13 @@
 	</S>
 	<S id="BuriedAlive3S115">
 		<AUDIO start="708.8492" end="716.9397"/>
-		<FORM>"ə˧zɯ˩, | no˧-ki˧ | ʐwɤ˩ mɤ˩-tsʰɯ˩˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩-dʑo˩, | le˧-ʂɯ˧-dʑo˥! | njɤ˧ | mv̩˩zo˩ ʈʂʰɯ˩-ɭɯ˩˥ ◊ -dʑo˩, | ɻ̍˩ɬo˧ʈi˥ | hɯ˧-ze˧ | pi˧-ʝi˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>"ə˧zɯ˩, | no˧-ki˧ | ʐwɤ˩ mɤ˩-tsʰɯ˩˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩-dʑo˩, | le˧-ʂɯ˧-dʑo˥! | njɤ˧ | mv̩˩zo˩ ʈʂʰɯ˩-ɭɯ˩˥ ◊ -dʑo˩, | ɻ̩˩ɬo˧ʈi˥ | hɯ˧-ze˧ | pi˧-ʝi˧!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">"Nous deux… [Moi, je] ne suis pas venue vous en parler [jusqu'à ce jour]… Mais les gens pensent que ma fille est morte, et ils vont dire qu'elles est devenue une revenante! (littéralement: "les gens [pensent qu'elle] est morte; ils vont dire que ma fille est devenue une revenante")</TRANSL>
 		<TRANSL xml:lang="zh">“我今天是专门来跟你们说这个事的。大家都认为我女孩死了，他们要看见她，肯定以为是见到鬼了！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S116">
 		<AUDIO start="718.2421" end="724.2465"/>
-		<FORM>tʰi˩˥, | "ʁɑ˩mi˧! | ɖɯ˧-zɯ˧ | qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧! | “ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | le˧-ʂɯ˧, | ɻ̍˩ɬo˧ʈi˥-ze˩” | pi˧-kv̩˩!" |</FORM>
+		<FORM>tʰi˩˥, | "ʁɑ˩mi˧! | ɖɯ˧-zɯ˧ | qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧! | “ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩-ʈʂʰɯ˩-dʑo˩, | le˧-ʂɯ˧, | ɻ̩˩ɬo˧ʈi˥-ze˩” | pi˧-kv̩˩!" |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est bien /pi˧-kv̩˩/"/>
 		<TRANSL xml:lang="fr">"Pardon! Elle va devenir l'objet des racontars pendant toute sa vie!" a dit [la mère de la jeune fille]. "Les gens vont dire: “Ddeezzhi Lhaco, après sa mort, elle est devenue une revenante!”"</TRANSL>
 		<TRANSL xml:lang="zh">“对不住！啊呀，她一辈子都会成为人家的话柄的！人家会说：‘独知拉搓，她变成鬼回来了！’ ”</TRANSL>
@@ -802,7 +802,7 @@
 	</S>
 	<S id="BuriedAlive3S119">
 		<AUDIO start="735.2619" end="743.6504"/>
-		<FORM>"mɤ˧-ɲi˩! | gɯ˩-ʝi˥, | &lt;ɻ̍˩ʈʂʰe˧… ɻ̍˩ʈʂʰe˧-ɬɑ˩mv̩˩&gt;[ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩]-ʈʂʰɯ˩-dʑo˩, | njɤ˧ | tʰi˧-ʂv̩˧ɖv̩˧-ze˩, | hĩ˧ qæ˥-ze˩-mv̩˩ ʂv̩˩ɖv̩˩-ze˩!" | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
+		<FORM>"mɤ˧-ɲi˩! | gɯ˩-ʝi˥, | &lt;ɻ̩˩ʈʂʰe˧… ɻ̩˩ʈʂʰe˧-ɬɑ˩mv̩˩&gt;[ɖɯ˩ɖʐɯ˧-ɬɑ˩tsʰo˩]-ʈʂʰɯ˩-dʑo˩, | njɤ˧ | tʰi˧-ʂv̩˧ɖv̩˧-ze˩, | hĩ˧ qæ˥-ze˩-mv̩˩ ʂv̩˩ɖv̩˩-ze˩!" | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
 		<NOTE xml:lang="fr" message="vérifié le sens de: /hĩ˧ qæ˥-ze˩-mv̩˩/: c'est ici la mère de la jeune femme qui parle, disant: 'Moi aussi, au début, j'ai pensé qu'il se moquait de moi'."/>
 		<NOTE xml:lang="fr" message="d'abord noté /‡hĩ˧ qæ˥-ze˩-mv̩˩ | ʂv̩˧ɖv̩˧-ze˩/; /mv̩/ est ici la particule finale affirmative"/>
 		<TRANSL xml:lang="fr">"Non! C'est bien vrai! Ddeezzhi Lhaco, elle… moi, c'est [aussi] ce que j'ai pensé: je me suis dit qu'on se moquait de moi/que c'était une plaisanterie!"</TRANSL>
@@ -943,7 +943,7 @@
 	</S>
 	<S id="BuriedAlive3S140">
 		<AUDIO start="831.4203" end="837.8524"/>
-		<FORM>"no˧ | ʈʂʰɯ˧ne˧ gv̩˧-zo˧-ɻ̍˥-dʑo˩, | njɤ˧ | no˧ fv̩˧, | &lt;njɤ˧ | no˧ fv̩˧, əəə…&gt; no˧ | njɤ˧ fv̩˧-ʈʂʰɯ˧-dʑo˩, | mɤ˧-ɖwæ˩! |</FORM>
+		<FORM>"no˧ | ʈʂʰɯ˧ne˧ gv̩˧-zo˧-ɻ̩˥-dʑo˩, | njɤ˧ | no˧ fv̩˧, | &lt;njɤ˧ | no˧ fv̩˧, əəə…&gt; no˧ | njɤ˧ fv̩˧-ʈʂʰɯ˧-dʑo˩, | mɤ˧-ɖwæ˩! |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡no˧ | njɤ˧ fv̩˧, | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">"Ce qui t'est arrivé (littéralement: Que ça te soit arrivé ainsi)… [ce n'est pas grave,] je t'aime bien, tu m'aimes bien; alors ne t'en fais pas pour cette affaire-là!"</TRANSL>
 		<TRANSL xml:lang="zh">“发生过什么事情，都不重要。我喜欢你，你喜欢我，不用为这个事情想太多了！”</TRANSL>
@@ -1003,16 +1003,16 @@
 	</S>
 	<S id="BuriedAlive3S149">
 		<AUDIO start="879.7478" end="886.7179"/>
-		<FORM>ʐwɤ˩-kwɤ˩tɕɯ˥-lɑ˩ | tʰi˩˥, | əəə… hĩ˧=ɻæ˥, | &lt;ə˧ʝi˥[-ʂɯ˥ʝi˩]… əəə…&gt; zo˩no˥… | hĩ˧-ʈʂʰɯ˧, | tsɤ˧-ɻ̍˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̍˩ pi˥! |</FORM>
+		<FORM>ʐwɤ˩-kwɤ˩tɕɯ˥-lɑ˩ | tʰi˩˥, | əəə… hĩ˧=ɻæ˥, | &lt;ə˧ʝi˥[-ʂɯ˥ʝi˩]… əəə…&gt; zo˩no˥… | hĩ˧-ʈʂʰɯ˧, | tsɤ˧-ɻ̩˧ ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̩˩ pi˥! |</FORM>
 		<NOTE xml:lang="fr" message="La première interprétation avait été le chiffre 'trois' au lieu du verbe 'apprendre': 'pour une personne, les gourmandises qu'il ne faut pas prendre: trois', ce qui aurait signifié: 'Les petites gourmandises, le seuil, c'est trois / il ne faut pas se laisser aller à trois reprises [sinon ça devient du chapardage]'. En chinois: “小馋猫，偷吃三口，变成贼！”."/>
 		<TRANSL xml:lang="fr">Voilà ce qu'on disait: les gens… eh bien… les petites gourmandises, il faut apprendre à ne pas s'y laisser aller!</TRANSL>
 		<TRANSL xml:lang="zh">有这样一个说法：“小馋猫，要学习不偷吃！”</TRANSL>
 	</S>
 	<S id="BuriedAlive3S150">
 		<AUDIO start="887.6781" end="895.2775"/>
-		<FORM>tsɤ˧ | hɑ˧ ʑi˥-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̍˩˥! | tsɤ˧-ɻ̍˧ | ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-kʰwɤ˩ pi˥! | õ! ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-kv̩˧˥! | ʈʂʰɯ˧-kʰwɤ˧ mv̩˥ʈʂæ˩-kʰɯ˩-tsæ˩-ɲi˩! |</FORM>
+		<FORM>tsɤ˧ | hɑ˧ ʑi˥-mɤ˩-ʁo˩-dʑo˩, | so˩-ɻ̩˩˥! | tsɤ˧-ɻ̩˧ | ʑi˩-mɤ˩-ʁo˩-dʑo˩, | so˩-kʰwɤ˩ pi˥! | õ! ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-kv̩˧˥! | ʈʂʰɯ˧-kʰwɤ˧ mv̩˥ʈʂæ˩-kʰɯ˩-tsæ˩-ɲi˩! |</FORM>
 		<NOTE xml:lang="fr" message="confirmé à nouveau: même syllabe dans 'prendre', /ʑi/, et dans /ʑi˩-mɤ˩-ʁo˩/."/>
-		<NOTE xml:lang="fr" message="Dans /tsɤ˧-ɻ̍˧ | ʑi˩-mɤ˩-ʁo˩-dʑo˩/, le /-ɻ/ me paraît ressembler phonétiquement à [ɭɯ], illustration de la proximité phonétique entre ces syllabes."/>
+		<NOTE xml:lang="fr" message="Dans /tsɤ˧-ɻ̩˧ | ʑi˩-mɤ˩-ʁo˩-dʑo˩/, le /-ɻ/ me paraît ressembler phonétiquement à [ɭɯ], illustration de la proximité phonétique entre ces syllabes."/>
 		<TRANSL xml:lang="fr">Par gourmandise, les nourritures qu'on ne doit pas prendre, [il ne faut pas s'en permettre] trois [d'affilée]! Eh! Il y a [un principe] comme ça! Voilà la morale de l'histoire! (littéralement "Voilà le nom qu'on a donné (à cette histoire)!")</TRANSL>
 		<TRANSL xml:lang="zh">这个谚语，就是这个故事的结尾！“小馋猫，偷吃三口，变成贼！”</TRANSL>
 	</S>
@@ -1032,7 +1032,7 @@
 	</S>
 	<S id="BuriedAlive3S153">
 		<AUDIO start="902.5621" end="906.9329"/>
-		<FORM>tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧=ɻ̍˩ do˩-dʑo˩, | "ʈʂʰɯ˧ zo˧, | tɕe! ʈʂʰɯ˧-zo˧ ɲi˥-tsɯ˩-mæ˩!" |</FORM>
+		<FORM>tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧=ɻ̩˩ do˩-dʑo˩, | "ʈʂʰɯ˧ zo˧, | tɕe! ʈʂʰɯ˧-zo˧ ɲi˥-tsɯ˩-mæ˩!" |</FORM>
 		<NOTE xml:lang="fr" message="avais d'abord noté /‡ʈʂʰɯ˧ zo˩/, induit en erreur par la phonétique de surface. 'Mon fils': /njɤ˧ zo#˥/; 'son fils': /ʈʂʰɯ˧ zo#˥/."/>
 		<NOTE xml:lang="fr" message="tɕe: onomatopée"/>
 		<TRANSL xml:lang="fr">Autrefois, quand on les voyait, [qu'on voyait] son fils, on disait: "Tiens[, regarde]! c'est son fils, pour sûr!"</TRANSL>
@@ -1047,7 +1047,7 @@
 	</S>
 	<S id="BuriedAlive3S155">
 		<AUDIO start="910.3765" end="914.7391"/>
-		<FORM>əəə… ə˧ʝi˧-ʂɯ˥ʝi˩, | no˩bv̩˧-tsʰɯ˩ɻ̍˩-pi˩, | tʰv̩˧-v̩˧-lɑ˩ | ʈʂʰɯ˧zɯ˩ | ho˧~ho˥, | tʰi˧-mɤ˧-ki˧-zo˩, |</FORM>
+		<FORM>əəə… ə˧ʝi˧-ʂɯ˥ʝi˩, | no˩bv̩˧-tsʰɯ˩ɻ̩˩-pi˩, | tʰv̩˧-v̩˧-lɑ˩ | ʈʂʰɯ˧zɯ˩ | ho˧~ho˥, | tʰi˧-mɤ˧-ki˧-zo˩, |</FORM>
 		<NOTE xml:lang="fr" message="on aurait également pu dire: tʰi˧-mɤ˧-ki˧-ɲi˥-tsɯ˩-mæ˩! |"/>
 		<TRANSL xml:lang="fr">"Autrefois, Nobbu Ci'er et elle, ils étaient amoureux, [mais] on ne l'a pas donnée [au gars qui lui plaisait]!"</TRANSL>
 		<TRANSL xml:lang="zh">“从前，她和诺布次尔相爱，但没有把她许给他！”</TRANSL>
@@ -1073,7 +1073,7 @@
 	</S>
 	<S id="BuriedAlive3S159">
 		<AUDIO start="926.1132" end="928.9195"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̍˩ ʝi˩. | le˧-wo˥ | ɖɯ˧-ʑi˩=ɻ̍˩ ʝi˩-tsʰɯ˩. |</FORM>
+		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̩˩ ʝi˩. | le˧-wo˥ | ɖɯ˧-ʑi˩=ɻ̩˩ ʝi˩-tsʰɯ˩. |</FORM>
 		<TRANSL xml:lang="fr">[Les deux époux] ont créé une famille. Ils ont fondé leur famille.</TRANSL>
 		<TRANSL xml:lang="zh">夫妇俩最终成了一家人。</TRANSL>
 	</S>
@@ -1086,14 +1086,14 @@
 	</S>
 	<S id="BuriedAlive3S161">
 		<AUDIO start="931.7645" end="935.4069"/>
-		<FORM>zo˧ F | ə˧mi˧-ɳɯ˧, | mv̩˩-ki˥ ʐwɤ˩. | ɖɯ˧-ʑi˩=ɻ̍˩ | tʰi˧-dzi˩. | tʰi˩˥, | zo˧mv̩˥ dʑo˩. |</FORM>
+		<FORM>zo˧ F | ə˧mi˧-ɳɯ˧, | mv̩˩-ki˥ ʐwɤ˩. | ɖɯ˧-ʑi˩=ɻ̩˩ | tʰi˧-dzi˩. | tʰi˩˥, | zo˧mv̩˥ dʑo˩. |</FORM>
 		<NOTE xml:lang="fr" message="découpage en groupes très intéressant: /zo˧ F | ə˧mi˧/: la focalisation par l'intonation paraît commander une frontière de groupe tonal."/>
 		<TRANSL xml:lang="fr">La mère de l'homme (=la belle-mère), elle a parlé à la jeune femme. Toute la famille s'est trouvée réunie (littéralement "toute la famille s'est trouvée assise"; les repas pris ensemble, tous les membres de la famille assis à la place qui leur revient dans la pièce principale de la maison, représentent l'occasion la plus fréquente pour la famille de se trouver réunie.)</TRANSL>
 		<TRANSL xml:lang="zh">婆家妈妈也和姑娘说通了。全家安心围坐一起。后来，有了孩子。</TRANSL>
 	</S>
 	<S id="BuriedAlive3S162">
 		<AUDIO start="935.6470" end="938.0476"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̍˩ tsɤ˩-ɲi˩-ze˩! | wɤ˩˥ | le˧-wo˥ | ɖɯ˧-ʑi˩=ɻ̍˩ tsɤ˩-ɲi˩-ze˩! |</FORM>
+		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩=ɻ̩˩ tsɤ˩-ɲi˩-ze˩! | wɤ˩˥ | le˧-wo˥ | ɖɯ˧-ʑi˩=ɻ̩˩ tsɤ˩-ɲi˩-ze˩! |</FORM>
 		<TRANSL xml:lang="fr">Alors, c'est devenu une [vraie] famille[, bien unie]! et par la suite, [ils] ont fondé une famille!</TRANSL>
 		<TRANSL xml:lang="zh">这样，全家大团圆，变成心连心的一家人！</TRANSL>
 	</S>

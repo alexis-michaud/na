@@ -14,7 +14,7 @@
 	<TRANSL xml:lang="zh">从前，当有人死了的时候，这是全村的大事情。</TRANSL>
 </S>
 <S id="F4_FUNERAL_S002"><AUDIO start="14.8842" end="29.4114"></AUDIO>
-	<FORM>ʁwɤ˧-qo˧-ʈʂʰɯ˧ | tʰi˩˥, | hĩ˧-ʈʂʰɯ˧, | no˧=ɻ̍˩ | hĩ˧ mo˥-hĩ˩ | ɖɯ˧-v̩˧ ʂɯ˧-ze˧ | pi˧, | tʰi˩˥, | tsʰo˧qʰwɤ˩ | le˧-ʂɯ˧, | pi˧-dʑo˩ | tʰi˩˥, | mv̩˩sɯ˧-njɤ˧-ki˥, | &lt;tsʰo˧qʰwɤ˩-dʑo˩ | tʰi˩˥,&gt; | mmm… ʈæ˧bɤ˧ | le˧-ʁɑ˥-ʂe˩. |</FORM>
+	<FORM>ʁwɤ˧-qo˧-ʈʂʰɯ˧ | tʰi˩˥, | hĩ˧-ʈʂʰɯ˧, | no˧=ɻ̩˩ | hĩ˧ mo˥-hĩ˩ | ɖɯ˧-v̩˧ ʂɯ˧-ze˧ | pi˧, | tʰi˩˥, | tsʰo˧qʰwɤ˩ | le˧-ʂɯ˧, | pi˧-dʑo˩ | tʰi˩˥, | mv̩˩sɯ˧-njɤ˧-ki˥, | &lt;tsʰo˧qʰwɤ˩-dʑo˩ | tʰi˩˥,&gt; | mmm… ʈæ˧bɤ˧ | le˧-ʁɑ˥-ʂe˩. |</FORM>
 	<NOTE xml:lang="fr" message="note: on va d'abord quérir les moines du monastère; ensuite seulement le prêtre /dɑ˧pɤ˧/."></NOTE>
 	<TRANSL xml:lang="fr">Dans le village, eh bien, les gens… si une personne âgée était morte par chez vous, si elle était morte le soir, c'était le lendemain matin… &lt;ce soir…&gt; qu'on allait quérir les moines.</TRANSL>
 	<TRANSL xml:lang="zh">如果是在晚上去世的话，要到第二天早上去找和尚。</TRANSL>
@@ -250,7 +250,7 @@
 	<TRANSL xml:lang="zh">然后上面盖一口大锅，再放一个大背篓。</TRANSL>
 </S>
 <S id="F4_FUNERAL_S046"><AUDIO start="250.1563" end="257.0722"></AUDIO>
-	<FORM>ɖɯ˧-sɑ˥ F | pv̩˩-tʰɑ˩-kʰɯ˥! | bv̩˧ɻ̍˧ | pv̩˩tʰɑ˩-kʰɯ˥! | õ˧ʈʂwɤ˧ | pv̩˩tʰɑ˩-kʰɯ˥! | hwɤ˧li˥ se˩-tʰɑ˩-kʰɯ˩! |</FORM>
+	<FORM>ɖɯ˧-sɑ˥ F | pv̩˩-tʰɑ˩-kʰɯ˥! | bv̩˧ɻ̩˧ | pv̩˩tʰɑ˩-kʰɯ˥! | õ˧ʈʂwɤ˧ | pv̩˩tʰɑ˩-kʰɯ˥! | hwɤ˧li˥ se˩-tʰɑ˩-kʰɯ˩! |</FORM>
 	<TRANSL xml:lang="fr">On ne laisse rien entrer / on prend bien soin de ne rien laisser entrer [dans la tombe]! On ne laisse pas entrer de mouches! On ne laisse pas le chat se promener [dans cette pièce]! (Note: on se garde surtout de laisser entrer des mouches dans la tombe, sinon le corps risque d'être envahi par les vers.)</TRANSL>
 	<TRANSL xml:lang="zh">任何东西都不能掉进去！苍蝇一定不能进去！猫不能去里面走动！</TRANSL>
 </S>
@@ -368,7 +368,7 @@
 	<TRANSL xml:lang="zh">不能给客人只吃一勺饭！</TRANSL>
 </S>
 <S id="F4_FUNERAL_S068"><AUDIO start="357.9598" end="361.3320"></AUDIO>
-	<FORM>hĩ˧ le˧-ʂɯ˧-hĩ˧ | tʰv̩˧-v̩˧-ki˧, | ɖɯ˧-qʰwɤ˧-hĩ˥ | ɖɯ˧-ʂɯ˩-ɳɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʂɻ̍˧˥ ◊ -tɕɯ˩-kʰɯ˩! |</FORM>
+	<FORM>hĩ˧ le˧-ʂɯ˧-hĩ˧ | tʰv̩˧-v̩˧-ki˧, | ɖɯ˧-qʰwɤ˧-hĩ˥ | ɖɯ˧-ʂɯ˩-ɳɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʂɻ̩˧˥ ◊ -tɕɯ˩-kʰɯ˩! |</FORM>
 	<TRANSL xml:lang="fr">Pour la personne défunte, son bol, on le lui remplit en une seule fois (=avec une seule louchée)!</TRANSL>
 	<TRANSL xml:lang="zh">给去世的人贡饭，要一勺就把碗盛满。</TRANSL>
 </S>
@@ -389,7 +389,7 @@
 	<TRANSL xml:lang="zh">人家说：“要盛两勺！”</TRANSL>
 </S>
 <S id="F4_FUNERAL_S072"><AUDIO start="368.8163" end="370.8776"></AUDIO>
-	<FORM>le˧-ʂɯ˧-hĩ˧-ki˧-dʑo˩, | hɑ˧ | ɖɯ˧-qwæ-lɑ˥-ɻ̍˩-kv̩˩-mæ˩! |</FORM>
+	<FORM>le˧-ʂɯ˧-hĩ˧-ki˧-dʑo˩, | hɑ˧ | ɖɯ˧-qwæ-lɑ˥-ɻ̩˩-kv̩˩-mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message="de: /ɖɯ˧-qwæ˧˥/"></NOTE>
 	<TRANSL xml:lang="fr">Pour une personne décédée, on ne puise qu'une seule fois!</TRANSL>
 	<TRANSL xml:lang="zh">对去世的人，只盛一次！</TRANSL>
@@ -415,14 +415,14 @@
 	<TRANSL xml:lang="zh">上辈女人会这样批评不懂规矩的年轻人：“你怎么这么盛饭？”</TRANSL>
 </S>
 <S id="F4_FUNERAL_S077"><AUDIO start="387.0091" end="389.7047"></AUDIO>
-	<FORM>"hɑ˧ | ɲi˧-qwæ˧-ɻ̍˥! | hɑ˧ | ɖɯ˧-qwæ˧-ɻ̍˥ | mɤ˧-ɖo˧!" |</FORM>
+	<FORM>"hɑ˧ | ɲi˧-qwæ˧-ɻ̩˥! | hɑ˧ | ɖɯ˧-qwæ˧-ɻ̩˥ | mɤ˧-ɖo˧!" |</FORM>
 	<NOTE xml:lang="fr" message="vérifié, n'est pas /‡ɲi˩-qwæ˩-ɻæ˥/"></NOTE>
-	<NOTE xml:lang="fr" message="/ɖɯ˧-qwæ˧˥/, /ɲi˧-qwæ˧˥/; d'où: /ɖɯ˧-qwæ˧-ɻ̍˥/"></NOTE>
+	<NOTE xml:lang="fr" message="/ɖɯ˧-qwæ˧˥/, /ɲi˧-qwæ˧˥/; d'où: /ɖɯ˧-qwæ˧-ɻ̩˥/"></NOTE>
 	<TRANSL xml:lang="fr">"La nourriture, il faut la servir par deux louches! Il ne faut pas servir une unique louche!"</TRANSL>
 	<TRANSL xml:lang="zh">“饭要给两勺！不能只给一勺！”</TRANSL>
 </S>
 <S id="F4_FUNERAL_S078"><AUDIO start="389.7047" end="393.1615"></AUDIO>
-	<FORM>"hĩ˧ | le˧-ʂɯ˧-hĩ˧-ki˧-dʑo˩, | hɑ˧ | ɖɯ˧-qwæ˧-ɻ̍˧-kv̩˥!" | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩-pi˥! |</FORM>
+	<FORM>"hĩ˧ | le˧-ʂɯ˧-hĩ˧-ki˧-dʑo˩, | hɑ˧ | ɖɯ˧-qwæ˧-ɻ̩˧-kv̩˥!" | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩-pi˥! |</FORM>
 	<TRANSL xml:lang="fr">"C'est aux défunts qu'on donne une [seule] louche!" Voilà ce que disaient les gens!</TRANSL>
 	<TRANSL xml:lang="zh">“死人才只给一勺呢！”老人会这样教训。</TRANSL>
 </S>
@@ -439,7 +439,7 @@
 	<TRANSL xml:lang="zh">一碗汤、一碗米，一天三次：是这样上贡饭的。家人哭着！每次煮茶，要给死者上贡。</TRANSL>
 </S>
 <S id="F4_FUNERAL_S081"><AUDIO start="407.7497" end="409.0711"></AUDIO>
-	<FORM>li˩ ʈʂwæ˧-ɻ̍˧-pi˥! |</FORM>
+	<FORM>li˩ ʈʂwæ˧-ɻ̩˧-pi˥! |</FORM>
 	<TRANSL xml:lang="fr">On disait [au défunt] de savourer ce thé!</TRANSL>
 	<TRANSL xml:lang="zh">说：“品品茶吧！”</TRANSL>
 </S>
@@ -494,7 +494,7 @@
 	<TRANSL xml:lang="zh">人家来点灯的话，（他们先）烤饼、带过来！（主人将收到的礼物）这样存起来！</TRANSL>
 </S>
 <S id="F4_FUNERAL_S091"><AUDIO start="462.4037" end="468.4927"></AUDIO>
-	<FORM>tʰi˩˥, | hĩ˧mo˩ tʰv̩˩-mo˩-ki˩-dʑo˩, | "o! &lt;no˧…&gt; | ʈʂʰɯ˧=ɻ̍˩-ɳɯ˩, | mɤ˩mv̩˩ ʈʂv̩˥-tsʰɯ˩-ze˩! | no˧ li˧-tsʰɯ˩-ze˩!" | pi˧. |</FORM>
+	<FORM>tʰi˩˥, | hĩ˧mo˩ tʰv̩˩-mo˩-ki˩-dʑo˩, | "o! &lt;no˧…&gt; | ʈʂʰɯ˧=ɻ̩˩-ɳɯ˩, | mɤ˩mv̩˩ ʈʂv̩˥-tsʰɯ˩-ze˩! | no˧ li˧-tsʰɯ˩-ze˩!" | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message="de: /tʰv̩˧-mo˧/, démonstratif distal+classificateur des cadavres"></NOTE>
 	<NOTE xml:lang="fr" message="tons vérifiés: est: /no˧ li˧-tsʰɯ˩-ze˩/; on ne peut dire /‡no˧ li˧ tsʰɯ˧-ze˥/; ni /‡no˩ li˩-tsʰɯ˩-ze˥/"></NOTE>
 	<TRANSL xml:lang="fr">Ensuite, [s'adressant] au cadavre, on disait: "Eeeh! Eux, ils sont venus allumer des bougies! [Ils] sont venus te voir!"</TRANSL>
@@ -539,7 +539,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S099"><AUDIO start="504.0630" end="507.2264"></AUDIO>
-	<FORM>õ˧ zo˧mv̩˥ | qʰɑ˩kv̩˩ dʑo˩-ɻ̍˥-dʑo˩, | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧ F | ʝi˧-kv̩˩-ze˩-mæ˩! |</FORM>
+	<FORM>õ˧ zo˧mv̩˥ | qʰɑ˩kv̩˩ dʑo˩-ɻ̩˥-dʑo˩, | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧ F | ʝi˧-kv̩˩-ze˩-mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message="/õ˧ zo˧mv̩˥/: ressemble phonétiquement ici à [õ˧˥ | zo˧mv̩˥/]. Il est bien vérifié qu'il ne s'agit pas d'une interjection: /õ!/, mais du pronom /õ˧˥/ 'soi-même'."></NOTE>
 	<TRANSL xml:lang="fr">Nos propres enfants, autant qu'ils sont, ils officient les uns après les autres/un après l'autre!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -594,7 +594,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S109"><AUDIO start="538.3134" end="545.6630"></AUDIO>
-	<FORM>"ʈʂʰɯ˧=ɻ̍˩, | tɕʰi˩tʰv̩˩-tso˥ ɲi˩-tsɯ˩! | ʈʂʰɯ˧=ɻ̍˩, | zo˧ɖɯ˧-ɳɯ˥ | tɕʰi˩tʰv̩˩-tso˥ ɲi˩-tsɯ˩! | ə˧sɯ˩kv̩˩, | bi˧-zo˧-ʝi˧!" | pi˧. |</FORM>
+	<FORM>"ʈʂʰɯ˧=ɻ̩˩, | tɕʰi˩tʰv̩˩-tso˥ ɲi˩-tsɯ˩! | ʈʂʰɯ˧=ɻ̩˩, | zo˧ɖɯ˧-ɳɯ˥ | tɕʰi˩tʰv̩˩-tso˥ ɲi˩-tsɯ˩! | ə˧sɯ˩kv̩˩, | bi˧-zo˧-ʝi˧!" | pi˧. |</FORM>
 	<TRANSL xml:lang="fr">"Eux, ils préparent les funérailles!" qu'on dit. "Chez eux, l'aîné, il doit s'occuper des funérailles! Nous, il faut qu'on y aille/Allons-y donc!"</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -647,13 +647,13 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S118"><AUDIO start="598.9770" end="603.0680"></AUDIO>
-	<FORM>"hĩ˧-qɑ˩ | ɖɯ˧-qɑ˧-ɻ̍˧! | njɤ˧=ɻ̍˩ | ə˧mi˧ | le˧-pv̩˩-tso˩-ɲi˩-ze˩!" | pi˧. |</FORM>
+	<FORM>"hĩ˧-qɑ˩ | ɖɯ˧-qɑ˧-ɻ̩˧! | njɤ˧=ɻ̩˩ | ə˧mi˧ | le˧-pv̩˩-tso˩-ɲi˩-ze˩!" | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message="Explication: les gens de la famille ne travaillent pas pendant cette période; ils pleurent, se prosternent… Toutes les tâches sont effectuées par des gens du village, qui viennent aider."></NOTE>
 	<TRANSL xml:lang="fr">On dit: "Aidez[-nous]! Il va falloir accompagner notre mère [dans son retour au pays des âmes]!" </TRANSL>
 	<TRANSL xml:lang="zh">（家人）说：“请帮忙！要送终我们的母亲！”</TRANSL>
 </S>
 <S id="F4_FUNERAL_S119"><AUDIO start="603.0680" end="606.6476"></AUDIO>
-	<FORM>tʰi˩˥, | bi˧tɕo˧ ɲi˩-bi˩, | hĩ˧bæ˧ jo˧-ʝi˧-ɻ̍˥! | pi˧. | hĩ˧bæ˧ | le˧-qʰo˩. |</FORM>
+	<FORM>tʰi˩˥, | bi˧tɕo˧ ɲi˩-bi˩, | hĩ˧bæ˧ jo˧-ʝi˧-ɻ̩˥! | pi˧. | hĩ˧bæ˧ | le˧-qʰo˩. |</FORM>
 	<NOTE xml:lang="fr" message="/bi˧tɕo˧/: les villages environnants; excluant le village-repère"></NOTE>
 	<TRANSL xml:lang="fr">Alors, [pour cette occasion-là,] même s'ils sont d'un village des environs [et pas du village du défunt], les gens viennent! (littéralement "les invités arrivent") On invite les invités [à prendre place dans la maison] (=on accueille les invités).</TRANSL>
 	<TRANSL xml:lang="zh">连住在附近村子里的人（而非本村的人）都来！客人招待到家里。</TRANSL>
@@ -684,7 +684,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S125"><AUDIO start="627.6021" end="640.4937"></AUDIO>
-	<FORM>zo˩no˥, | ʁo˧dɑ˧ | le˧-ʂɯ˧-hĩ˧ | ʈʂʰɯ˧-tɕi˩, ◊ ə˩-gi˩! | zo˩no˥, | gɯ˩-ʝi˥ | ʂɯ˧-hĩ˧ tʰv̩˧-v̩˧, | ʁwɤ˧qo˧ ɖɯ˧-v̩˧ ʂɯ˧-pi˧, | ʁo˧dɑ˧ le˧-ʂɯ˧-hĩ˧, | zo˩no˥, | njɤ˧=ɻ̍˩ | hĩ˧ ʂɯ˧, | ʁo˧dɑ˧ le˧-ʂɯ˧-hɯ˧-ze˧, | ʁwɤ˧qo˧ | gi˩-ɳɯ˥ | ʂɯ˧-hĩ˧ tʰv̩˧-v̩˧-ki˧ | tʰi˩˥, | qʰwæ˧mi˧ ʝi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM>zo˩no˥, | ʁo˧dɑ˧ | le˧-ʂɯ˧-hĩ˧ | ʈʂʰɯ˧-tɕi˩, ◊ ə˩-gi˩! | zo˩no˥, | gɯ˩-ʝi˥ | ʂɯ˧-hĩ˧ tʰv̩˧-v̩˧, | ʁwɤ˧qo˧ ɖɯ˧-v̩˧ ʂɯ˧-pi˧, | ʁo˧dɑ˧ le˧-ʂɯ˧-hĩ˧, | zo˩no˥, | njɤ˧=ɻ̩˩ | hĩ˧ ʂɯ˧, | ʁo˧dɑ˧ le˧-ʂɯ˧-hɯ˧-ze˧, | ʁwɤ˧qo˧ | gi˩-ɳɯ˥ | ʂɯ˧-hĩ˧ tʰv̩˧-v̩˧-ki˧ | tʰi˩˥, | qʰwæ˧mi˧ ʝi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message="le˧-ŋv̩˩, | qʰwæ˧mi˧ ʝi˧-ɲi˥! | Pleurer, c'est un message/une façon de s'adresser au défunt!"></NOTE>
 	<TRANSL xml:lang="fr">Eh bien… les gens qui sont déjà morts, n'est-ce pas! eh bien, vrai de vrai, la personne qui meurt… quand quelqu'un du village meurt, ceux qui sont déjà morts (=les ancêtres morts il y a déjà longtemps), eh bien, ils sont déjà morts (=ils ont connu la mort) avant [la personne dont le décès vient d'arriver]; dans le village, vrai de vrai, pour la personne défunte, ils transmettent des messages! (=ils accueillent le trépassé dans le monde des morts/dans la société des morts)</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -696,7 +696,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S127"><AUDIO start="642.4916" end="646.8443"></AUDIO>
-	<FORM>njɤ˧=ɻ̍˩ | ɑ˩ʁo˧ | qʰɑ˩ne˩ gv̩˩˥, | no˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | &lt;qʰwæ˧ pi˩…&gt; qʰwæ˧ hwɤ˩-tsʰɯ˩-pi˩! |</FORM>
+	<FORM>njɤ˧=ɻ̩˩ | ɑ˩ʁo˧ | qʰɑ˩ne˩ gv̩˩˥, | no˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | &lt;qʰwæ˧ pi˩…&gt; qʰwæ˧ hwɤ˩-tsʰɯ˩-pi˩! |</FORM>
 	<TRANSL xml:lang="fr">Ce qui se passe chez nous à la maison… c'est comme ça qu'on t'en transmet les nouvelles! (=c'est ainsi qu'on transmet ces nouvelles au défunt!) / Ce rite, c'est un moyen de transmettre au défunt des nouvelles au sujet de ce qui se passe chez nous, à la maison.</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -727,7 +727,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S133"><AUDIO start="679.3585" end="686.0183"></AUDIO>
-	<FORM>"no˧=ɻ̍˩-ɳɯ˩, | no˧ mv̩˩-ɳɯ˩, | ʐɯ˧ hwɤ˩-tsʰɯ˩! | no˧=ɻ̍˩… | no˧=ɻ̍˩ | le˧-jo˩!" | pi˧, | wɤ˩˥ | tʰi˧-dzi˩! | wɤ˩˥, | njɤ˧-ɳɯ˧ | le˧-ŋv̩˩! |</FORM>
+	<FORM>"no˧=ɻ̩˩-ɳɯ˩, | no˧ mv̩˩-ɳɯ˩, | ʐɯ˧ hwɤ˩-tsʰɯ˩! | no˧=ɻ̩˩… | no˧=ɻ̩˩ | le˧-jo˩!" | pi˧, | wɤ˩˥ | tʰi˧-dzi˩! | wɤ˩˥, | njɤ˧-ɳɯ˧ | le˧-ŋv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">"Vous autres, ta fille, elle t'appelle/elle est venue réaliser le rituel /ʐɯ˧ hwɤ˩/! Vous autres… Vous autres, venez donc! (s'adressant aux vivants: aux membres de la famille présents)" dit-il; tout le monde se tient assis! Moi (=la fille de la défunte), je pleure à nouveau!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -876,12 +876,12 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S160"><AUDIO start="814.8613" end="832.7001"></AUDIO>
-	<FORM>njæ˧=ɻ̍˩, | zo˩no˥, | əəə… hĩ˧ ʂɯ˧, | njɤ˧ | le˧-sɯ˥ | ʈʂʰɯ˧-tɕo˧ tɑ˧-ɳɯ˥, | əəə… ʐv̩˩-kv̩˩ ʂɯ˩-ze˥-mæ˩! | ʐv̩˩-kv̩˩˥! | njɤ˧ | ə˧mi˧! | mmm… njɤ˧ | ə˧mi˧! | njɤ˧ | ə˧ʑi˧˥! | njɤ˧ | ə˧v̩˧˥ | so˩-kv̩˩˥! | ŋwɤ˩-kv̩˩˥! |</FORM>
+	<FORM>njæ˧=ɻ̩˩, | zo˩no˥, | əəə… hĩ˧ ʂɯ˧, | njɤ˧ | le˧-sɯ˥ | ʈʂʰɯ˧-tɕo˧ tɑ˧-ɳɯ˥, | əəə… ʐv̩˩-kv̩˩ ʂɯ˩-ze˥-mæ˩! | ʐv̩˩-kv̩˩˥! | njɤ˧ | ə˧mi˧! | mmm… njɤ˧ | ə˧mi˧! | njɤ˧ | ə˧ʑi˧˥! | njɤ˧ | ə˧v̩˧˥ | so˩-kv̩˩˥! | ŋwɤ˩-kv̩˩˥! |</FORM>
 	<TRANSL xml:lang="fr">Nous autres, la morte de quelqu'un… pour ce que je sais des morts, euh… il y en a quatre qui sont morts! Ma mère! mmm… Ma mère; ma grand-mère; mes trois oncles! [En fait, en tout ça fait] cinq!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S161"><AUDIO start="832.7001" end="836.9338"></AUDIO>
-	<FORM>njɤ˧=ɻ̍˩ | ə˧mi˧, | zo˩no˥, | qʰv̩˧-kv̩˧ ɲi˥-mæ˩! | njɤ˧ | ə˧ʑi˧-zo˧mv̩˥ | qʰv̩˧-kv̩˥! |</FORM>
+	<FORM>njɤ˧=ɻ̩˩ | ə˧mi˧, | zo˩no˥, | qʰv̩˧-kv̩˧ ɲi˥-mæ˩! | njɤ˧ | ə˧ʑi˧-zo˧mv̩˥ | qʰv̩˧-kv̩˥! |</FORM>
 	<TRANSL xml:lang="fr">Notre mère, eh bien… [en fait,] ça fait six! [En comptant bien chacun des] six enfants de ma grand-mère! (La locutrice avait oublié l'un des oncles, mort à l'armée)</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -908,7 +908,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S166"><AUDIO start="849.3971" end="855.6050"></AUDIO>
-	<FORM>zo˧, | əəə… ɖɯ˧-v̩˧-hĩ˧-se˥, | njæ˧=ɻ̍˩, | zo˩no˥, mmm… | tʰv̩˧-ʈʂæ˩-qo˩, | dʑɤ˩˥ | mɤ˧-sɯ˧-sɯ˥! |</FORM>
+	<FORM>zo˧, | əəə… ɖɯ˧-v̩˧-hĩ˧-se˥, | njæ˧=ɻ̩˩, | zo˩no˥, mmm… | tʰv̩˧-ʈʂæ˩-qo˩, | dʑɤ˩˥ | mɤ˧-sɯ˧-sɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés, pour toute la séquence"></NOTE>
 	<TRANSL xml:lang="fr">[Parmi] les hommes, euh… il y en avait un, à cette époque, je ne le connaissais pas encore bien!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -993,7 +993,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S179"><AUDIO start="924.8115" end="927.8620"></AUDIO>
-	<FORM>ʁo˧dɑ˧, | njɤ˧=ɻ̍˩ | ə˧ʑi˧-lɑ˥ | njɤ˧ | ə˧mi˧-ʈʂʰɯ˧ | ʂɯ˧-ʁo˧to˩-dʑo˩ | qʰæ˧˥! |</FORM>
+	<FORM>ʁo˧dɑ˧, | njɤ˧=ɻ̩˩ | ə˧ʑi˧-lɑ˥ | njɤ˧ | ə˧mi˧-ʈʂʰɯ˧ | ʂɯ˧-ʁo˧to˩-dʑo˩ | qʰæ˧˥! |</FORM>
 	<TRANSL xml:lang="fr">Autrefois, nous autres, ma grand-mère et ma mère, après leur mort, on a partagé [du cochon-conservé-entier]!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -1051,8 +1051,8 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S189"><AUDIO start="980.1606" end="994.1283"></AUDIO>
-	<FORM>tʰi˩˥, | njɤ˧ | ə˧ʑi˧-se˥, | &lt;njɤ˧… zo˩no˥…&gt; njɤ˧=ɻ̍˩ | ɖɯ˧-tɑ˧˥ | əəə… ə˧v̩˧˥ | &lt;ɖ… əəə…&gt; zo˩no˥, | ə˧ʑi˧˥, əəə… | ə˧ʑi˧-se˥, | ʈæ˧bɤ˧ | &lt;ʂ…&gt; ɲi˧tsi˧-kv̩˧ ʁɑ˧ʂe˥-ɲi˩! |</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté /‡zo˩no˧, ə˧ʑi˧=ɻ̍˥, əəə… | ə˧ʑi˧-se˥/; bien vérifié: est simplement /ə˧ʑi˧˥/."></NOTE>
+	<FORM>tʰi˩˥, | njɤ˧ | ə˧ʑi˧-se˥, | &lt;njɤ˧… zo˩no˥…&gt; njɤ˧=ɻ̩˩ | ɖɯ˧-tɑ˧˥ | əəə… ə˧v̩˧˥ | &lt;ɖ… əəə…&gt; zo˩no˥, | ə˧ʑi˧˥, əəə… | ə˧ʑi˧-se˥, | ʈæ˧bɤ˧ | &lt;ʂ…&gt; ɲi˧tsi˧-kv̩˧ ʁɑ˧ʂe˥-ɲi˩! |</FORM>
+	<NOTE xml:lang="fr" message="d'abord noté /‡zo˩no˧, ə˧ʑi˧=ɻ̩˥, əəə… | ə˧ʑi˧-se˥/; bien vérifié: est simplement /ə˧ʑi˧˥/."></NOTE>
 	<TRANSL xml:lang="fr">Ma grand-mère, &lt;moi… eh bien…&gt; nous autres, nous tous, euh… l'oncle… eh bien, ma grand-mère… ma grand-mère, elle, elle allait chercher tre… vingt [moines]! </TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -1169,8 +1169,8 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S209"><AUDIO start="1111.8232" end="1114.4054"></AUDIO>
-	<FORM>əəə… "tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩-ɳɯ˩ | pɤ˩jɤ˧ qʰæ˥-tsʰɯ˩!" pi˩. |</FORM>
-	<TRANSL xml:lang="fr">[Ou encore:] "C'est tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!"</TRANSL>
+	<FORM>əəə… "tsʰɯ˧ɻ̩˧-ɬɑ˩mv̩˩-ɳɯ˩ | pɤ˩jɤ˧ qʰæ˥-tsʰɯ˩!" pi˩. |</FORM>
+	<TRANSL xml:lang="fr">[Ou encore:] "C'est tsʰɯ˧ɻ̩˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!"</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S210"><AUDIO start="1114.7131" end="1119.1549"></AUDIO>
@@ -1238,7 +1238,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S222"><AUDIO start="1160.3353" end="1163.4125"></AUDIO>
-	<FORM>tʰi˩˥, | njɤ˧=ɻ̍˩ | hĩ˧ ʂɯ˧-dʑo˩, | ɑ˩pʰo˩-hĩ˥ | ɖɯ˧-ʑi˧-ɳɯ˧ qʰæ˧˥! |</FORM>
+	<FORM>tʰi˩˥, | njɤ˧=ɻ̩˩ | hĩ˧ ʂɯ˧-dʑo˩, | ɑ˩pʰo˩-hĩ˥ | ɖɯ˧-ʑi˧-ɳɯ˧ qʰæ˧˥! |</FORM>
 	<TRANSL xml:lang="fr">Si c'est chez nous qu'a eu lieu le décès, c'est quelqu'un d'une autre famille (littéralement "d'une famille du dehors") qui répartit!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -1248,7 +1248,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S224"><AUDIO start="1166.5164" end="1169.8880"></AUDIO>
-	<FORM>tʰi˩˥, | so˧hwɤ˩-dʑo˩, | wɤ˩˥ | ʈʂʰɯ˧=ɻ̍˩ | hĩ˧ ʂɯ˧-pi˧, | njɤ˧-ɳɯ˧ | qʰæ˧-bi˧-zo˧-kv̩˩-ze˩-mæ˩! |</FORM>
+	<FORM>tʰi˩˥, | so˧hwɤ˩-dʑo˩, | wɤ˩˥ | ʈʂʰɯ˧=ɻ̩˩ | hĩ˧ ʂɯ˧-pi˧, | njɤ˧-ɳɯ˧ | qʰæ˧-bi˧-zo˧-kv̩˩-ze˩-mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message="on pourrait également dire: /qʰæ˧-bi˥-kv̩˩-ze˩-mæ˩/; vérifié: n'est pas /‡qʰæ˧-bi˧-zo˥-kv̩˩-ze˩-mæ˩/ www intéressant pour séquences de particules"></NOTE>
 	<TRANSL xml:lang="fr">Par la suite, si chez eux (=chez quelqu'un) il y a un décès, c'est à moi qu'on fait appel pour distribuer la nourriture! (littéralement "c'est moi qui devrai distribuer")</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -1261,7 +1261,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S226"><AUDIO start="1174.7579" end="1180.0560"></AUDIO>
-	<FORM>njɤ˧-ɳɯ˧ | so˧hwɤ˩ | ʁwɤ˧qo˧… | hĩ˧ ʂɯ˧-pi˩, | wɤ˩˥ | qʰæ˧-kv̩˥-ze˩-mæ˩! | ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩=ɻ̍˩, | õ˧ hĩ˧ mɤ˧-ɲi˥-hĩ˩ | ɖɯ˧-ʑi˩=ɻ̍˩. |</FORM>
+	<FORM>njɤ˧-ɳɯ˧ | so˧hwɤ˩ | ʁwɤ˧qo˧… | hĩ˧ ʂɯ˧-pi˩, | wɤ˩˥ | qʰæ˧-kv̩˥-ze˩-mæ˩! | ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩=ɻ̩˩, | õ˧ hĩ˧ mɤ˧-ɲi˥-hĩ˩ | ɖɯ˧-ʑi˩=ɻ̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="ton vérifié: est: /hĩ˧ ʂɯ˧-pi˩/"></NOTE>
 	<TRANSL xml:lang="fr">Moi, dorénavant, dans le village, quand quelqu'un meurt, je vais distribuer [la nourriture] (=c'est moi qu'on charge de distribuer la nourriture)! [pour] une famille du village; une famille qui n'est pas des nôtres (=une maisonnée qui n'est pas membre de notre famille). </TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -1272,8 +1272,8 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S228"><AUDIO start="1182.6917" end="1188.1369"></AUDIO>
-	<FORM>tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | qʰæ˧-bi˥-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | ʈʂʰɯ˧=ɻ̍˩, | hĩ˧ ʂɯ˧-ze˩; | njɤ˧=ɻ̍˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ʈʂʰɯ˧-bv̩˩ | pɤ˩jɤ˧ qʰæ˥-ɲi˩! |</FORM>
-	<NOTE xml:lang="fr" message="The tones of /ʈʂʰɯ˧-bv̩˩/ were carefully checked. There are seemingly two variants for the 3rd-person pronoun: /ʈʂʰɯ˧-bv̩˧/ and /ʈʂʰɯ˧-bv̩˩/ are both correct. But these are not tonal variants: they have different meanings. The latter, /ʈʂʰɯ˧-bv̩˩/, is a reduced form of /ʈʂʰɯ˧=ɻ̍˩-bv̩˩/, where /=ɻ̍˩/ is the plural. Thus, /ʈʂʰɯ˧-bv̩˩/ means ‘their’, whereas /ʈʂʰɯ˧-bv̩˧/ simply means ‘her/his’. In this context, the bread is not that of one person, but of a household. Segmental ellipsis of the plural /=ɻ̍˩/ is complete: there is no trace left of it, only a tonal difference."></NOTE>
+	<FORM>tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | qʰæ˧-bi˥-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | ʈʂʰɯ˧=ɻ̩˩, | hĩ˧ ʂɯ˧-ze˩; | njɤ˧=ɻ̩˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ʈʂʰɯ˧-bv̩˩ | pɤ˩jɤ˧ qʰæ˥-ɲi˩! |</FORM>
+	<NOTE xml:lang="fr" message="The tones of /ʈʂʰɯ˧-bv̩˩/ were carefully checked. There are seemingly two variants for the 3rd-person pronoun: /ʈʂʰɯ˧-bv̩˧/ and /ʈʂʰɯ˧-bv̩˩/ are both correct. But these are not tonal variants: they have different meanings. The latter, /ʈʂʰɯ˧-bv̩˩/, is a reduced form of /ʈʂʰɯ˧=ɻ̩˩-bv̩˩/, where /=ɻ̩˩/ is the plural. Thus, /ʈʂʰɯ˧-bv̩˩/ means ‘their’, whereas /ʈʂʰɯ˧-bv̩˧/ simply means ‘her/his’. In this context, the bread is not that of one person, but of a household. Segmental ellipsis of the plural /=ɻ̩˩/ is complete: there is no trace left of it, only a tonal difference."></NOTE>
 	<NOTE xml:lang="fr" message="on pourrait également dire: /pɤ˩jɤ˧˥ | ɖɯ˧-kʰwɤ˧ ʝi˥-ɲi˩/; dans /ɖɯ˧-kʰwɤ˧ ʝi˥-ɲi˩/: /ʝi/ est le verbe 'faire'."></NOTE>
 	<TRANSL xml:lang="fr">Quand on va jouer ce rôle de maître de cérémonies (littéralement: "quand on va partager ainsi"), [voici ce qu'on dit:] "Eeeh! Eux, ils ont eu un décès; nous, autrefois, ils sont venus partager les galettes (=jouer le rôle de maître de cérémonie) chez nous!" (=ils sont venus participer à des funérailles dans notre famille)</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
@@ -1506,7 +1506,7 @@ Désormais, on dit qu'il ne faut plus en faire, de cette sorte de cochon-conserv
 Les moines, nous autres, quand quelqu'un meurt, on en fait venir vingt, ou quinze, ou dix-huit, ou dix, ou sept. Sept moines, ce n'était pas trop difficile à trouver! Si on ne parvenait pas à en faire venir vingt, toi, les sept, de quelque façon que tu t'y prennes, tu parvenais bien à les trouver! On disait qu'ils formaient "une classe"! On disait que c'était comme une classe toute entière qui venait provisoirement chez le défunt [les moines formaient un groupe, psalmodiaient à l'unisson, etc.] "Une classe" (emprunt tibétain), pour le dire à la façon d'aujourd'hui, nous deux, on dirait que c'était comme "une classe d'école" (emprunt chinois), n'est-ce pas! 
 Ma grand-mère, elle allait chercher tre… vingt moines! Ces vingt-là, on leur donnait de fortes sommes d’argent. À un moine important, on donne mille yuan; cinq cent yuan pour un moins important; trois cent yuan pour quelqu'un d'un peu moins important! On donnait à chacun des moines une rétribution en fonction de son rang! Sept… trois… dix… vingt… quinze… Voilà comment on ajustait la rétribution en fonction du rang du moine! (Explication: le décompte des cadeaux et des sommes d'argent se faisait d'après le rang, en arrondissant à des nombres symboliques tels que 3, 7, 10, 15, 20.) Untel, un moine important, on lui donne vingt [unités de tel ou tel cadeau: galette…]; après ça, on passe à quinze, pour quelqu'un d'un peu moins important! (Explication: on donne dans l'ordre, en commençant par les plus importants; tous les moines sont assis dans la pièce principale lors de cette distribution.) Quand quelqu'un a obtenu les quinze, on passe à dix! Après les dix, on passe à sept! Après les sept, on passe à trois! Par exemple, la viande, on la donne trois livres par trois livres. L’argent, on le distribue trois yuan par trois yuan. De la sorte, on recrute vingt moines! 
 Les moines, il y en a qui ne viennent pas à la maison; si toi tu n’as pas le temps, tu dis les rituels chez toi, au monastère! On apporte aussi une part des offrandes à ceux des moines qui ne viennent pas à la maison. À chaque repas, une tranche de viande! On partage aussi les galettes! Moi, quand je veille un défunt, dans ma famille, c'est l'aîné qui veille le défunt, n'est-ce pas! Il ne faut pas avoir de gestes violents! 
-Aujourd'hui on parle de 'sucreries' (emprunt chinois); autrefois on appelait ça 'du sucre'! On parle de 'sucre en poudre'! de 'sucre roux'! Le sucre, on en donne un morceau à chacun des moines! Deux galettes de riz! Une galette de thé! L'argent, il ne faut pas lésiner, ce soir-là! (Note: Ces dons sont une bonne action; il ne faut pas regretter les grandes dépenses que cela représente.) Le soir, les moines disent des rituels; ils se tiennent assis; ils récitent des rituels, encore et encore. Lorsque le moment est propice, quelqu'un du village lance: "Allez! C'est untel qui va distribuer les galettes! C'est ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!" Ou encore: "C'est tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!" La personne qui commandite l'enterrement ne regarde pas à la dépense!
+Aujourd'hui on parle de 'sucreries' (emprunt chinois); autrefois on appelait ça 'du sucre'! On parle de 'sucre en poudre'! de 'sucre roux'! Le sucre, on en donne un morceau à chacun des moines! Deux galettes de riz! Une galette de thé! L'argent, il ne faut pas lésiner, ce soir-là! (Note: Ces dons sont une bonne action; il ne faut pas regretter les grandes dépenses que cela représente.) Le soir, les moines disent des rituels; ils se tiennent assis; ils récitent des rituels, encore et encore. Lorsque le moment est propice, quelqu'un du village lance: "Allez! C'est untel qui va distribuer les galettes! C'est ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!" Ou encore: "C'est tsʰɯ˧ɻ̩˧-ɬɑ˩mv̩˩ qui va distribuer les galettes!" La personne qui commandite l'enterrement ne regarde pas à la dépense!
 Désormais, on distribue des bonbons! Autrefois, c'était des pains de sucre! Si les moines sont nombreux, on achète deux ou trois gros paquets de bonbons, qu’on dispose sur une assiette. Chacun en prend une poignée. Les galettes de riz, qu'on a compressées au mortier, on en donne trois! À tel autre, on en donne quatre: toute une assiette pleine de galettes! On distribue les galettes quatre par quatre. Si on fait venir dix moines, on distribue quarante galettes. Si c'est chez nous qu'a eu lieu le décès, c'est quelqu'un d'une autre famille qui fait la distribution. Quand c'est ma famille qui était appelée à jouer ce rôle, c'est moi qui distribuais, n'est-ce pas! À l’occasion suivante, les gens me rendent la pareille, en venant organiser la cérémonie chez moi! (Explication d'un principe de réciprocité par lequel on rend la pareille à quelqu'un qui a joué les maîtres de cérémonie lors d'un décès chez soi.) Dans le village, quand quelqu'un meurt, c'est moi qu'on charge de distribuer la nourriture, dans une autre maisonnée. Quand un ami de la famille vient pour jouer le rôle de maître de cérémonie, voilà comment il partage! On se dit: "Eeeh! Eux, ils ont eu un décès; l’autre fois, c’est eux qui sont venus partager les galettes (=jouer le rôle de maître de cérémonie) chez nous! Alors maintenant c’est notre tour d'aller partager les galettes chez eux / d'aller jouer le rôle de maître de cérémonie chez eux!" Les galettes, on en prépare (littéralement "on en tasse") pendant trois ou quatre jours, quand quelqu'un est mort! 
 Par chez nous, on dit que "les Chinois, quand quelqu'un meurt chez eux, ils s'enrichissent!" Tandis que "les Na, quand quelqu'un meurt chez eux, ils s'apauvrissent!" C'est que nous, quand il y a un décès, on épuise toutes les provisions de la maison, tant on dépense pour nourrir les invités et rétribuer les moines! On est très généreux envers les moines! On donne aussi de la nourriture en abondance aux gens des villages environnants! Les invités, il en vient en très grand nombre, portant la boîte à cadeau! Ils viennent! Eux aussi font preuve de générosité: ils amènent du vin, de l'argent, des galettes… En retour, les hôtes mettent dans leur boîte à cadeau divers des cadeaux, tels que du thé, du tabac, une tranche de cochon-conservé-entier… Voilà comment on met en retour des cadeaux dans leur boîte à cadeaux! C'est comme ça chez les Na, selon la tradition! Quant aux Chinois, même s'ils amènent la boîte à cadeaux, quand on la renverse, on n’y trouve pas grand’chose! (Explication: le geste de renverser la boîte à cadeaux est fait par la maîtresse de maison: parvenu chez la personne à qui on offre les cadeaux, on dépose cérémonieusement la boîte devant la maîtresse de maison, qui la renverse, met en évidence les cadeaux qui ont été apportés, puis met en retour d'autres cadeaux dans la boîte avant de la rendre au visiteur.) Chez les Na, si tu te maries, c'est pareil: il y a un grand échange de cadeaux! Les invités viennent en portant la boîte à cadeaux, et les hôtes achètent toutes sortes de bonnes choses pour les festivités: des biscuits, des bonbons aux fruits, des cigarettes, du thé… Certains mettent des biscuits dans la boîte à cadeaux, à la place des galettes. 
 Autrefois, vrai de vrai, si quelqu'un (littéralement "si lui/elle") amenait une boîte à cadeaux pleine de galettes, on lui en rendait quelques-unes au moment où il s'en retournait! C'était ça la coutume! Quand des invités venaient de loin, la boîte à cadeaux, ils y mettaient un yuan d'argent, en plus du reste.

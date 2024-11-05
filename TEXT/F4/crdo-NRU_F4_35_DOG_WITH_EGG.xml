@@ -1812,7 +1812,7 @@
 		</W>
 </S>
 <S id="Dog_S024"><AUDIO start="147.6854" end="154.9304"/>
-	<FORM kindOf="phono">"kʰv̩˩-mi˩-lɑ˥ | ɖɯ˧-qæ˧~qæ˧-ɻ̍˥ | kʰɯ˧-ə˥-bi˩? | ʁɑ˩mi˧! | njæ˧-sɯ˩kv̩˩, | zɯ˧~zɯ˧-ʈʂʰɯ˧ | ɖɯ˧-pi˧˥ | le˧-ɖæ˥ | le˧-ʐwæ˩-ze˩! |</FORM>
+	<FORM kindOf="phono">"kʰv̩˩-mi˩-lɑ˥ | ɖɯ˧-qæ˧~qæ˧-ɻ̩˥ | kʰɯ˧-ə˥-bi˩? | ʁɑ˩mi˧! | njæ˧-sɯ˩kv̩˩, | zɯ˧~zɯ˧-ʈʂʰɯ˧ | ɖɯ˧-pi˧˥ | le˧-ɖæ˥ | le˧-ʐwæ˩-ze˩! |</FORM>
 	<FORM kindOf="ortho">"Kumi la ddeeghaeghae'er keeq aebbi? Hrami! Nyasigu, ssissi tee ddeebi leddae leruae ssei!</FORM>
 	<NOTE xml:lang="fr" message="vérifié les tons de la séquence /zɯ˧~zɯ˧-ʈʂʰɯ˧/"/>
 	<NOTE xml:lang="fr" message="avant 2013: noté /‡ɖɯ˧-pi˥/"/>
@@ -1841,7 +1841,7 @@
 			<TRANSL xml:lang="en">exchange/swap</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en">°inceptive</TRANSL>
 		</W>
@@ -1912,7 +1912,7 @@
 		</W>
 </S>
 <S id="Dog_S025"><AUDIO start="154.9304" end="165.6637"/>
-	<FORM kindOf="phono">&lt;kʰv̩˩mi˩˥ | no˧…&gt; | kʰv̩˩mi˩-ki˥ | ɖɯ˧-ʐwɤ˩-ɻ̍˩, | ɖɯ˧-qæ˧~qæ˧-ɻ̍˥-bi˩!" | pi˧-dʑo˩ | tʰi˩˥, | hĩ˧… | zɯ˧~zɯ˧ ki˧-hĩ˧ ʈʂʰɯ˧-v̩˧-ɳɯ˩, | tʰi˩˥, | əəə… kʰv̩˩mi˩-ki˥ | mv̩˩do˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM kindOf="phono">&lt;kʰv̩˩mi˩˥ | no˧…&gt; | kʰv̩˩mi˩-ki˥ | ɖɯ˧-ʐwɤ˩-ɻ̩˩, | ɖɯ˧-qæ˧~qæ˧-ɻ̩˥-bi˩!" | pi˧-dʑo˩ | tʰi˩˥, | hĩ˧… | zɯ˧~zɯ˧ ki˧-hĩ˧ ʈʂʰɯ˧-v̩˧-ɳɯ˩, | tʰi˩˥, | əəə… kʰv̩˩mi˩-ki˥ | mv̩˩do˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 	<FORM kindOf="ortho">Kumi gi ddeerua'er, ddeeghaeghae'er bbi!" bi jjo, tiq, hin… ssissi gihin teevu nee, tiq, kumi gi muddo niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="vérifié: la personne qui va solliciter un échange avec le chien est un homme, non une femme"/>
 	<TRANSL xml:lang="fr">Parlez-en au chien, pour un échange/que nous échangions!" a-t-il dit. Alors, celui qui distribuait la longévité, il a demandé au chien! / il a posé la question au chien!</TRANSL>
@@ -1949,7 +1949,7 @@
 			<TRANSL xml:lang="en">speak</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en">°inceptive</TRANSL>
 		</W>
@@ -1964,7 +1964,7 @@
 			<TRANSL xml:lang="en">exchange/swap</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en">°inceptive</TRANSL>
 		</W>
@@ -3090,7 +3090,7 @@
 		</W>
 </S>
 <S id="Dog_S039"><AUDIO start="240.5778" end="246.6123"/>
-	<FORM kindOf="phono">kʰv̩˩mi˩-ki˥ | tʰɑ˧-tso˩-tso˩! | hɑ˧pv̩˩-lɑ˩… | ʂe˧-lɑ˩ | hɑ˧ ʈʂwæ˧~ʈʂwæ˧-ɻ̍˥! | ɖɯ˧-v̩˧ | ɖɯ˧-&lt;po˩po˩&gt;[ʁæ˩bæ˩]! | õ! ɖɯ˧-pʰæ˧ʈʂʰæ˧lo˧! |</FORM>
+	<FORM kindOf="phono">kʰv̩˩mi˩-ki˥ | tʰɑ˧-tso˩-tso˩! | hɑ˧pv̩˩-lɑ˩… | ʂe˧-lɑ˩ | hɑ˧ ʈʂwæ˧~ʈʂwæ˧-ɻ̩˥! | ɖɯ˧-v̩˧ | ɖɯ˧-&lt;po˩po˩&gt;[ʁæ˩bæ˩]! | õ! ɖɯ˧-pʰæ˧ʈʂʰæ˧lo˧! |</FORM>
 	<FORM kindOf="ortho">Kumi gi ta zozo! Habeu la, shei la, ha zhuaezhuae'er. Ddeevu ddeehraebbae. On, ddeepaechaelo!</FORM>
 	<TRANSL xml:lang="fr">(la nourriture) qu'on donne au chien, on n'en fait pas de la pâtée/on ne mélange pas n'importe comment! Du riz sec (=du riz qu'on vient de cuire fraîchement, pas un reste de riz délayé à l'eau comme on en donne d'ordinaire au chien) et… On mélange de la viande et du riz! On donne à chacun [des chiens] un bol [emprunt chinois]! une assiette… une bassine(, voilà)!</TRANSL>
 	<TRANSL xml:lang="en">Don't give dogs mixed (scraps)! (They get) dry food… meat and (fresh) rice mixed together. [Note: dogs are normally fed stale rice and other food scraps mixed with water.] Each (dog gets) one bowl, a plate, a basin!</TRANSL>
@@ -3151,7 +3151,7 @@
 			<TRANSL xml:lang="en">mix_up</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 			<TRANSL xml:lang="en">°inceptive</TRANSL>
 		</W>

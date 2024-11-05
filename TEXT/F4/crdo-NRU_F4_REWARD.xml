@@ -268,7 +268,7 @@
 		</W>
 </S>
 <S id="Reward_S007"><AUDIO start="32.2778" end="39.2077"></AUDIO>
-	<FORM>tʰi˩˥, | ɖɯ˧-hɑ̃˧-ɻ̍˥-dʑo˩, | tʰi˩˥, | ə˧mi˧-ɳɯ˧ | ə˧dɑ˧ tʰv̩˧-v̩˧-ki˥: | zo˧mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩: |</FORM>
+	<FORM>tʰi˩˥, | ɖɯ˧-hɑ̃˧-ɻ̩˥-dʑo˩, | tʰi˩˥, | ə˧mi˧-ɳɯ˧ | ə˧dɑ˧ tʰv̩˧-v̩˧-ki˥: | zo˧mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩: |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés, n'est pas: ‡ə˧dɑ˥ tʰv̩˧-v̩˧-ki˥"></NOTE>
 	<NOTE xml:lang="fr" message="tons vérifiés: est bien | zo˩mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩ |"></NOTE>
 	<TRANSL xml:lang="fr">Alors un jour, la mère a dit au père, au père des enfants: </TRANSL>
@@ -282,7 +282,7 @@
 			<TRANSL xml:lang="fr">1-soir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -959,7 +959,7 @@
 </S>
 <S id="Reward_S018"><AUDIO start="91.3524" end="100.3106"></AUDIO>
 	<FORM>&lt;kʰɤ…&gt; kʰɤ˧˥ | ɖɯ˧-ɭɯ˧ | tʰi˧-pɤ˥~pɤ˩! | əəə… ʝi˩mjæ˩˥ | &lt;s…&gt; əəə… le˧-se˥, | əəə… &lt;ɲi…&gt; ɬi˧mi˧-ɳɯ˧ | le˧-do˩, | õ˧ gɤ˧bɤ˥, | õ˩ do˩˥! |</FORM>
-	<NOTE xml:lang="fr" message="tournure exprimant la simultanéité ou l'alternance d'actions: emprunt au chinois: 一面+V，一面+V. La tournure correcte en na serait: /se˧-hɯ˧ se˧-ɻ̍˥, ʂæ˧-hɯ˧ ʂæ˧-ɻ̍˥…/::走着走…… (se: marcher; ʂæ: long)"></NOTE>
+	<NOTE xml:lang="fr" message="tournure exprimant la simultanéité ou l'alternance d'actions: emprunt au chinois: 一面+V，一面+V. La tournure correcte en na serait: /se˧-hɯ˧ se˧-ɻ̩˥, ʂæ˧-hɯ˧ ʂæ˧-ɻ̩˥…/::走着走…… (se: marcher; ʂæ: long)"></NOTE>
 	<TRANSL xml:lang="fr">il portait un panier! tantôt il marchait, euh… à la lumière de la lune, il [y] voyait [clair]: il voyait sa propre ombre!</TRANSL>
 	<TRANSL xml:lang="zh">他背着背篓，走着走，在月光中看见自己的影子！</TRANSL>
 		<W>
@@ -1335,7 +1335,7 @@
 		</W>
 </S>
 <S id="Reward_S023"><AUDIO start="125.9578" end="133.9310"></AUDIO>
-	<FORM>tʰi˩˥, | ʂɯ˧-hĩ˥ | ɖʐɤ˧-hɯ˥-dʑo˩, | tʰi˩˥, | hĩ˧-lv̩˥-qo˩ | tʰi˧-tʰv̩˧-dʑo˩, | ɖʐɤ˧-bi˥ | ʂv̩˧ɖv̩˧, | lo˩qʰwɤ˧ | ɖɯ˧-ʈʂʰe˧-ɻ̍˩, |</FORM>
+	<FORM>tʰi˩˥, | ʂɯ˧-hĩ˥ | ɖʐɤ˧-hɯ˥-dʑo˩, | tʰi˩˥, | hĩ˧-lv̩˥-qo˩ | tʰi˧-tʰv̩˧-dʑo˩, | ɖʐɤ˧-bi˥ | ʂv̩˧ɖv̩˧, | lo˩qʰwɤ˧ | ɖɯ˧-ʈʂʰe˧-ɻ̩˩, |</FORM>
 	<TRANSL xml:lang="fr">Ainsi parti pour cueillir du maïs nouveau, parvenu dans les champs d'autres gens, il veut cueillir [des épis de maïs]; il étend le bras, </TRANSL>
 	<TRANSL xml:lang="zh">要摘新的，他到人家的田里，想摘，一伸手……</TRANSL>
 		<W>
@@ -1415,7 +1415,7 @@
 			<TRANSL xml:lang="fr">étendre</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 </S>
@@ -1505,7 +1505,7 @@
 		</W>
 </S>
 <S id="Reward_S026"><AUDIO start="140.0125" end="144.5619"></AUDIO>
-	<FORM>wɤ˩˥ | ɖɯ˧-ʈʂʰe˧-ɻ̍˩, | qʰɑ˧dze˧ | ɖɯ˧-po˧-bi˩ | tʰi˧-ʈʂʰɻ̍˧˥, | wɤ˩˥ | le˧-wo˧-ɲi˥-pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>wɤ˩˥ | ɖɯ˧-ʈʂʰe˧-ɻ̩˩, | qʰɑ˧dze˧ | ɖɯ˧-po˧-bi˩ | tʰi˧-ʈʂʰɻ̩˧˥, | wɤ˩˥ | le˧-wo˧-ɲi˥-pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">À nouveau, il a tendu [la main], il a empoigné un plant de maïs; à nouveau, il a reculé [sa main]!</TRANSL>
 	<TRANSL xml:lang="zh">（然后）他又伸出手来了，抓住一个包谷，又缩了手。</TRANSL>
 		<W>
@@ -1521,7 +1521,7 @@
 			<TRANSL xml:lang="fr">étendre</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -1541,7 +1541,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -1574,7 +1574,7 @@
 		</W>
 </S>
 <S id="Reward_S027"><AUDIO start="144.5619" end="150.3308"></AUDIO>
-	<FORM>"qʰɑ˧dze˧ | so˧-po˧-bi˩ ʈʂʰɻ̍˩-dʑo˩, | mɤ˧-bi˧-ze˧, | mɤ˧-bi˧-ze˧! | njɤ˧ | ɖʐɤ˧-ʁo˧-mɤ˧-ho˥! |</FORM>
+	<FORM>"qʰɑ˧dze˧ | so˧-po˧-bi˩ ʈʂʰɻ̩˩-dʑo˩, | mɤ˧-bi˧-ze˧, | mɤ˧-bi˧-ze˧! | njɤ˧ | ɖʐɤ˧-ʁo˧-mɤ˧-ho˥! |</FORM>
 	<TRANSL xml:lang="fr">"M'emparer ne serait-ce que de trois plants de maïs, impossible/j'en suis incapable! Je ne peux pas (me résoudre à) les casser! (littéralement: Arracher trois plants de maïs, ça ne va pas, ça ne va pas! je ne parviens pas à les arracher!)</TRANSL>
 	<TRANSL xml:lang="zh">他说：“抓三个包谷，（也）不行，不行！我不能抓！</TRANSL>
 		<W>
@@ -1590,7 +1590,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -2073,7 +2073,7 @@
 		</W>
 </S>
 <S id="Reward_S036"><AUDIO start="188.8836" end="197.2008"></AUDIO>
-	<FORM>&lt;əəə… mv̩˧…&gt; | hĩ˧ mɤ˧-do˩-dʑo˩, | mv̩˧-ɳɯ˩ | le˧-do˩! | ɬi˧mi˧ | tsʰi˧-zo˩, | njɤ˧ | tʰi˧-ʈʂʰɻ̍˧-ʁo˧-mɤ˧-ho˥! | pi˧, | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩." |</FORM>
+	<FORM>&lt;əəə… mv̩˧…&gt; | hĩ˧ mɤ˧-do˩-dʑo˩, | mv̩˧-ɳɯ˩ | le˧-do˩! | ɬi˧mi˧ | tsʰi˧-zo˩, | njɤ˧ | tʰi˧-ʈʂʰɻ̩˧-ʁo˧-mɤ˧-ho˥! | pi˧, | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩." |</FORM>
 	<TRANSL xml:lang="fr">Le ciel… ce que les gens ne voient pas, le ciel le voit! La lune brillait; je ne voulais pas empoigner (le maïs d'autrui)! Du coup, je suis revenu!"</TRANSL>
 	<TRANSL xml:lang="zh">人看不见的，老天能看见！月光很强，我（庄稼）抓不成了！（于是）我就回来了！”</TRANSL>
 		<W>
@@ -2133,7 +2133,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -3486,7 +3486,7 @@
 		</W>
 </S>
 <S id="Reward_S061"><AUDIO start="307.4346" end="314.1718"></AUDIO>
-	<FORM>hĩ˧ | ʈʰææ̃˧… | õ˧dɤ˧ɻ̍˧-ɳɯ˧ | hĩ˧ kʰv̩˧ mɤ˧-kv̩˩-ɲi˩! | mɤ˧-kʰv̩˥, | tʰi˧-kwɤ˩-kʰɯ˩! | &lt;njæ˧-sɯ˩kv̩˩…&gt; ə˧-sɯ˩kv̩˩, | hɑ˧-ʐwɤ˩ | ʂɯ˧-bi˧, | tʰi˧-ʂɯ˧-kʰɯ˧-tsæ˥-ɲi˩! |</FORM>
+	<FORM>hĩ˧ | ʈʰææ̃˧… | õ˧dɤ˧ɻ̩˧-ɳɯ˧ | hĩ˧ kʰv̩˧ mɤ˧-kv̩˩-ɲi˩! | mɤ˧-kʰv̩˥, | tʰi˧-kwɤ˩-kʰɯ˩! | &lt;njæ˧-sɯ˩kv̩˩…&gt; ə˧-sɯ˩kv̩˩, | hɑ˧-ʐwɤ˩ | ʂɯ˧-bi˧, | tʰi˧-ʂɯ˧-kʰɯ˧-tsæ˥-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés; sans l'influence de ce qui précède, les tons seraient: mɤ˧-kv̩˧˥ ◊ -ɲi˩"></NOTE>
 	<TRANSL xml:lang="fr">lui, vraiment… il est fondamentalement incapable de voler autrui! [Puisqu'il] ne vole pas, laissons tomber! &lt;Nous autres…&gt; nous, on va mourir de faim; eh bien mourrons donc de faim!</TRANSL>
 	<TRANSL xml:lang="zh">是因为他真的、根本不会偷别人的！（他）不偷就算了！咱们要饿死，就饿死了吧！</TRANSL>
@@ -3499,7 +3499,7 @@
 			<TRANSL xml:lang="fr">réellement</TRANSL>
 		</W>
 		<W>
-			<FORM>õ˧dɤ˧ɻ̍˧</FORM>
+			<FORM>õ˧dɤ˧ɻ̩˧</FORM>
 			<TRANSL xml:lang="fr">fondamentalement</TRANSL>
 		</W>
 		<W>
@@ -4749,7 +4749,7 @@
 		</W>
 </S>
 <S id="Reward_S082"><AUDIO start="400.0149" end="402.4189"></AUDIO>
-	<FORM>ɖɯ˧-kʰɤ˧˥, | ʐɯ˧-tsɯ˩ ◊ -mv̩˩! | kʰɤ˧˥ | tʰi˧-ʂɻ̍˧-tsɯ˥ | mv̩˩! |</FORM>
+	<FORM>ɖɯ˧-kʰɤ˧˥, | ʐɯ˧-tsɯ˩ ◊ -mv̩˩! | kʰɤ˧˥ | tʰi˧-ʂɻ̩˧-tsɯ˥ | mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Son panier était devenu très pesant (littéralement "Tout son panier était pesant")! Le panier était plein, à ce que dit l'histoire!</TRANSL>
 	<TRANSL xml:lang="zh">一整背篓，很沉！</TRANSL>
 		<W>
@@ -4777,7 +4777,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʂɻ̍˧˥</FORM>
+			<FORM>ʂɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">plein/rempli</TRANSL>
 		</W>
 		<W>
@@ -4831,7 +4831,7 @@
 		</W>
 </S>
 <S id="Reward_S084"><AUDIO start="405.8024" end="410.6500"></AUDIO>
-	<FORM>"kʰi˧ pʰo˧-ɻ̍˥!" | pi˧-dʑo˩, | ə˧mi˧, | wɤ˩˥, | ɖɯ˧-pi˧˥ | &lt;m…&gt; kʰi˧ pʰo˧ mɤ˧-tsʰɯ˩, | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>"kʰi˧ pʰo˧-ɻ̩˥!" | pi˧-dʑo˩, | ə˧mi˧, | wɤ˩˥, | ɖɯ˧-pi˧˥ | &lt;m…&gt; kʰi˧ pʰo˧ mɤ˧-tsʰɯ˩, | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">"Ouvre la porte!" a-t-il dit; mais la mère, elle, elle était un peu… elle n'est pas venue ouvrir, à ce qu'on raconte!</TRANSL>
 	<TRANSL xml:lang="zh">“开门！”他说。（可是）啊呀……传说（孩子妈）不来开门。</TRANSL>
 		<W>
@@ -4843,7 +4843,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -4900,7 +4900,7 @@
 		</W>
 </S>
 <S id="Reward_S085"><AUDIO start="410.6500" end="415.9033"></AUDIO>
-	<FORM>"kʰi˧ pʰo˧-ɻ̍˥!" | pi˧, | "kʰi˧ pʰo˧-ɻ̍˥!" | tʰi˩˥ | no˧˥, | kʰi˧ pʰo˧-tsʰɯ˧˥. | "tsʰo˧qʰwɤ˩, | no˧ | ə˩-ɖɯ˥?" | pi˧-dʑo˩. |</FORM>
+	<FORM>"kʰi˧ pʰo˧-ɻ̩˥!" | pi˧, | "kʰi˧ pʰo˧-ɻ̩˥!" | tʰi˩˥ | no˧˥, | kʰi˧ pʰo˧-tsʰɯ˧˥. | "tsʰo˧qʰwɤ˩, | no˧ | ə˩-ɖɯ˥?" | pi˧-dʑo˩. |</FORM>
 	<NOTE xml:lang="fr" message="intonation: intéressant: la syllabe /qʰwɤ˩/ est réalisée très haute, sous l'effet de l'intonation expressive/impatiente: 'Et alors, ce soir, est-ce que tu nous ramènes enfin quelque chose?'"></NOTE>
 	<TRANSL xml:lang="fr">[Il a répété:] "Ouvre, ouvre!" Alors, [elle] est venue [lui] ouvrir. Elle lui a demandé: "Ce soir, tu as trouvé quelque chose/tu as obtenu quelque chose?"</TRANSL>
 	<TRANSL xml:lang="zh">“开门！”他说。于是（孩子妈）来开门了。她问：“你今天晚上得到了（东西）吗？”</TRANSL>
@@ -4913,7 +4913,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -4966,7 +4966,7 @@
 		</W>
 </S>
 <S id="Reward_S086"><AUDIO start="415.9033" end="419.0790"></AUDIO>
-	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | ɖɯ˧-ze˩! | no˧ | kʰi˧ pʰo˧-ɻ̍˥!" | pi˧-dʑo˩. |</FORM>
+	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | ɖɯ˧-ze˩! | no˧ | kʰi˧ pʰo˧-ɻ̩˥!" | pi˧-dʑo˩. |</FORM>
 	<TRANSL xml:lang="fr">"[Oui!] Ce soir, [j'ai enfin] trouvé [quelque chose]! Ouvre la porte!"</TRANSL>
 	<TRANSL xml:lang="zh">“今天晚上，我得到了！/ 今天，有了！开门啊！”他说。</TRANSL>
 		<W>
@@ -4998,7 +4998,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -5425,8 +5425,8 @@
 		</W>
 </S>
 <S id="Reward_S093"><AUDIO start="447.4031" end="451.8352"></AUDIO>
-	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̍̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | æ˩sæ˥! |</FORM>
-	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̍̃˥-ze˩ / le˧-ɻ̍̃˧-bi˧ / mɤ˧-ɻ̍̃˥"></NOTE>
+	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̩̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | æ˩sæ˥! |</FORM>
+	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̩̃˥-ze˩ / le˧-ɻ̩̃˧-bi˧ / mɤ˧-ɻ̩̃˥"></NOTE>
 	<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 	<TRANSL xml:lang="fr">[Le père prend la parole pour résumer aux membres de sa famille ce qui lui est arrivé:] "Aaah! Nous autres, si démunis qu'on soit, il ne faut pas voler [le bien d']autrui, vous avez bien compris, hein? (littéralement "est-ce que vous savez?")</TRANSL>
 	<TRANSL xml:lang="zh">（孩子爸对家人总结说：）“啊呀！咱们无论多么贫穷，不要偷别人的，知道（了）吗？</TRANSL>
@@ -5447,7 +5447,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5476,7 +5476,7 @@
 		</W>
 </S>
 <S id="Reward_S094"><AUDIO start="451.8352" end="460.5214"></AUDIO>
-	<FORM>njɤ˧ le˧-ɻ̍̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
+	<FORM>njɤ˧ le˧-ɻ̩̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
 	<NOTE xml:lang="fr" message="/njɤ˧ zo˧mv̩˥-ə˩mi˩/: sens vérifié: 'la mère de mes enfants'."></NOTE>
 	<TRANSL xml:lang="fr">[Comme dit le proverbe:] "Pour affamé que je sois, je n'en suis pas encore à avoir les os à découvert!" [Or] maintenant, la mère de mes enfants, [voilà qu'elle me disait:]</TRANSL>
 	<TRANSL xml:lang="zh">我以前很贫穷，虽然很贫穷但我没去过（别人的地方偷东西）！现在，你们妈（一直跟我说：）</TRANSL>
@@ -5489,7 +5489,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5501,7 +5501,7 @@
 			<TRANSL xml:lang="fr">autrefois</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -6189,7 +6189,7 @@
 		</W>
 </S>
 <S id="Reward_S105"><AUDIO start="515.4977" end="521.1220"></AUDIO>
-	<FORM>"ə˧mi˧! no˧-ɻ̍˩ ʁo˧dɑ˧-dʑo˥, &lt;le…&gt; ʁɑ˩mi˧! le˧-dzɑ˥, le˧-ʂɯ˧-ho˩-ɲi˩-mɤ˩-ɲi˩?</FORM>
+	<FORM>"ə˧mi˧! no˧-ɻ̩˩ ʁo˧dɑ˧-dʑo˥, &lt;le…&gt; ʁɑ˩mi˧! le˧-dzɑ˥, le˧-ʂɯ˧-ho˩-ɲi˩-mɤ˩-ɲi˩?</FORM>
 	<TRANSL xml:lang="fr">"Houlà! Mais avant [de devenir soudain fortunés], vous étiez indigents, vous étiez prêts de mourir de faim, non?</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！你们……真是！很穷，（都）要饿死的，不是吗？</TRANSL>
 		<W>
@@ -6201,7 +6201,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6251,7 +6251,7 @@
 </S>
 <S id="Reward_S106"><AUDIO start="521.1220" end="523.3331"></AUDIO>
 	<FORM>no˧ | ɖɯ˧-qʰv̩˧ | ɖɯ˧, | ə˩-ɖɯ˧? |</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-qʰv̩˧-ɻ̍˧"></NOTE>
+	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-qʰv̩˧-ɻ̩˧"></NOTE>
 	<TRANSL xml:lang="fr">Est-ce que tu as trouvé une cachette? (=Est-ce qu'en fait tu n'aurais pas trouvé un trésor enterré?) (Note: dans le passé, lors des périodes de troubles, les gens fortunés ne cachaient pas leurs objets précieux dans la maison, qui risquait d'être pillée; ils enterraient or, argent, bijoux… dans une cachette connue d'eux seuls, quelque part dans la forêt qui couvrait une partie de la plaine: au pied de tel arbre, etc.)</TRANSL>
 	<TRANSL xml:lang="zh">是不是发现了财宝？（注：过去，在社会动乱的时候，有人会把银子、金子、珠宝等埋在地里）</TRANSL>
 		<W>
@@ -6280,7 +6280,7 @@
 		</W>
 </S>
 <S id="Reward_S107"><AUDIO start="523.3331" end="526.6498"></AUDIO>
-	<FORM>no˧… | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | no˧-ɻ̍˩ | ʁæ˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>no˧… | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | no˧-ɻ̩˩ | ʁæ˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="/ə˧tse˥/: forme réduite de ə˧tse˧-ʝi˥"></NOTE>
 	<TRANSL xml:lang="fr">Comment se fait-il [donc] que vous soyez ainsi riches?" ont-ils demandé.</TRANSL>
 	<TRANSL xml:lang="zh">你们怎么这么富有？”</TRANSL>
@@ -6301,7 +6301,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6901,7 +6901,7 @@
 		</W>
 </S>
 <S id="Reward_S117"><AUDIO start="583.6455" end="590.3345"></AUDIO>
-	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | "no˧-ɻ̍˩ | mɤ˧-ʝi˧ bɑ˧˥! | ʈʂʰɯ˧ne˧-ʝi˥, | gɯ˩-mɤ˩-ʝi˩˥!" | pi˧. |</FORM>
+	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | "no˧-ɻ̩˩ | mɤ˧-ʝi˧ bɑ˧˥! | ʈʂʰɯ˧ne˧-ʝi˥, | gɯ˩-mɤ˩-ʝi˩˥!" | pi˧. |</FORM>
 	<TRANSL xml:lang="fr">Alors les gens ont répliqué: "Vous (=votre histoire), elle est pas vraie, allez! Tout ça (littéralement 'ainsi'), ça peut pas être vrai!"</TRANSL>
 	<TRANSL xml:lang="zh">人家（不相信，回答他说：）“你们（这件事情），不是的吧！这些不会是真的吧！”</TRANSL>
 		<W>
@@ -6933,7 +6933,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6970,7 +6970,7 @@
 		</W>
 </S>
 <S id="Reward_S118"><AUDIO start="590.3345" end="597.6579"></AUDIO>
-	<FORM>"njɤ˧ | gɯ˩-mɤ˩-gɯ˩˥ ◊ -dʑo˩, | ə˩-sɯ˧kv̩˥, | ʁwɤ˧-qo˧ dzi˩-ɲi˩! | njɤ˧=ɻ̍˩-dʑo˩, | ʁo˧dɑ˧, | v̩˧ ʈɯ˩-di˩ | mɤ˧-dʑo˩-hĩ˩-ɲi˩-mɤ˩-ɲi˩! |</FORM>
+	<FORM>"njɤ˧ | gɯ˩-mɤ˩-gɯ˩˥ ◊ -dʑo˩, | ə˩-sɯ˧kv̩˥, | ʁwɤ˧-qo˧ dzi˩-ɲi˩! | njɤ˧=ɻ̩˩-dʑo˩, | ʁo˧dɑ˧, | v̩˧ ʈɯ˩-di˩ | mɤ˧-dʑo˩-hĩ˩-ɲi˩-mɤ˩-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message="la différence entre /hĩ˥/ 'homme, personne' et sa variante grammaticalisée est nette au plan phonétique; lorsque je répète la phrase avec une version 'faible', la locutrice me corrige"></NOTE>
 	<NOTE xml:lang="fr" message="d'abord noté ‡v̩˧ ʈɯ˧-di˩"></NOTE>
 	<TRANSL xml:lang="fr">"Moi, si c'est vrai ou pas… [Vous connaissez bien l'histoire de notre famille, puisque] on habite tous dans le village/on est tous du même village! Auparavant, on était des gens qui n'avaient [même] pas [un foyer décent] sur lequel poser une casserole (=on n'avait même pas d'ustensiles de cuisine décents), oui ou non?</TRANSL>
@@ -7016,14 +7016,14 @@
 			<TRANSL xml:lang="fr">°certitude(°cop)</TRANSL>
 		</W>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<M>
 				<FORM>njɤ˩</FORM>
 				<TRANSL xml:lang="fr">°1sg</TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			</M>
 			</W>
@@ -7275,7 +7275,7 @@
 		</W>
 </S>
 <S id="Reward_S123"><AUDIO start="614.1300" end="617.8362"></AUDIO>
-	<FORM>"ə˧mi˧! | no˧-ɻ̍˩-dʑo˩, | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥?" | pi˧. | "gi˩˥ ◊ -dʑo˩, | pi˩ti˧ po˩-ɳɯ˩! |</FORM>
+	<FORM>"ə˧mi˧! | no˧-ɻ̩˩-dʑo˩, | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥?" | pi˧. | "gi˩˥ ◊ -dʑo˩, | pi˩ti˧ po˩-ɳɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message="/ə˧tse˥/: forme réduite de: ə˧tse˧-ʝi˥"></NOTE>
 	<TRANSL xml:lang="fr">"Eeeh bien! Vous, comment ça se fait que vous soyez aussi riches? - Pour de vrai, c'est en ramenant des pépites!</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！你们怎么这么富有？”他们问。“真的是因为银块！”</TRANSL>
@@ -7288,7 +7288,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>

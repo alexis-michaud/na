@@ -55,7 +55,7 @@
 	</S>
 	<S id="Sister3_S002">
 		<AUDIO start="3.2284" end="9.1832"/>
-		<FORM>ɖɯ˧-ʑi˩-ɻ̍˩-dʑo˩ | tʰi˩˥, | &lt;mmm…&gt; ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | æ˧ʂæ˧qʰwɤ˧-ʈʂʰɯ˥-dʑo˩, ◊ ə˩-gi˩! |</FORM>
+		<FORM>ɖɯ˧-ʑi˩-ɻ̩˩-dʑo˩ | tʰi˩˥, | &lt;mmm…&gt; ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | æ˧ʂæ˧qʰwɤ˧-ʈʂʰɯ˥-dʑo˩, ◊ ə˩-gi˩! |</FORM>
 		<NOTE xml:lang="fr" message="le ton de «histoire» se déploie sur le démonstratif."/>
 		<NOTE xml:lang="fr"
 			message="d’abord noté /‡pi˩ ɲi˧/; en fait: est le début d’un mot phonologique: /pi˧ ɲi˥/. Sens: vérifié: est la copule, dans son emploi grammaticalisé servant à renforcer l'affirmation; ce n'est pas le verbe «vouloir, avoir besoin de»."/>
@@ -71,7 +71,7 @@
 			<TRANSL xml:lang="fr">°clf.familles</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -3639,7 +3639,7 @@
 	</S>
 	<S id="Sister3_S054">
 		<AUDIO start="258.0853" end="263.0656"/>
-		<FORM>le˧-↑bæ˧˥ | tsʰɯ˩-zo˥, | ɖɯ˧-li˧-ɻ̍˩-dʑo˩ | tʰi˩˥, | ə˧mv̩˧˥ ◊ -dʑo˩, | go˧mi˧ | ↑le˧-do˩-kwɤ˩tɕɯ˩-lɑ˩, | gɤ˩-↑ʈi˧-ze˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>le˧-↑bæ˧˥ | tsʰɯ˩-zo˥, | ɖɯ˧-li˧-ɻ̩˩-dʑo˩ | tʰi˩˥, | ə˧mv̩˧˥ ◊ -dʑo˩, | go˧mi˧ | ↑le˧-do˩-kwɤ˩tɕɯ˩-lɑ˩, | gɤ˩-↑ʈi˧-ze˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /ə˧mv̩˥/; réalisation /ə˧mv̩˧˥/ vérifiée en août 2011"/>
 		<NOTE xml:lang="fr"
 			message="/kwɤ˩tɕɯ˩-lɑ˩/: exprime une relation de cause à effet: 'du fait que…'"/>
@@ -3672,7 +3672,7 @@
 			<TRANSL xml:lang="fr">regarder</TRANSL>
 		</W>
 		<W>
-			<FORM>-ɻ̍˩</FORM>
+			<FORM>-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -4002,8 +4002,8 @@
 	</S>
 	<S id="Sister3_S059">
 		<AUDIO start="283.2810" end="288.8368"/>
-		<FORM>tʰi˧-ʈʂʰɻ̍˧-tsɯ˥ ◊ -mv̩˩! | tʰi˧-ʈʂʰɻ̍˧-dʑo˥ | tʰi˧-ʈʂʰɻ̍˧˥, | «njɤ˧ ə˧mv̩˩ ɲi˩, | no˧ njɤ˧ ə˧mv̩˩ ɲi˩», | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
-		<NOTE xml:lang="fr" message="D'abord noté /tʰi˧-ʈʂʰv̩˧˥ dʑo˩/. Corrigé de /ʈʂʰv̩/ en /ʈʂʰɻ̍/ en 2024, dans le cadre d'une mise à jour des textes."/>
+		<FORM>tʰi˧-ʈʂʰɻ̩˧-tsɯ˥ ◊ -mv̩˩! | tʰi˧-ʈʂʰɻ̩˧-dʑo˥ | tʰi˧-ʈʂʰɻ̩˧˥, | «njɤ˧ ə˧mv̩˩ ɲi˩, | no˧ njɤ˧ ə˧mv̩˩ ɲi˩», | pi˧-dʑo˩ | tʰi˩˥, |</FORM>
+		<NOTE xml:lang="fr" message="D'abord noté /tʰi˧-ʈʂʰv̩˧˥ dʑo˩/. Corrigé de /ʈʂʰv̩/ en /ʈʂʰɻ̩/ en 2024, dans le cadre d'une mise à jour des textes."/>
 		<TRANSL xml:lang="fr">elle empoigne (=elle l'empoigne par son vêtement)! elle l'empoigne,
 			elle l'empoigne: "Mon frère… Tu es mon frère!"; alors, </TRANSL>
 		<TRANSL xml:lang="zh">（她）抓了（他所披的毡子），抓了抓：“是我哥哥……你是我哥哥啊！”，然后，</TRANSL>
@@ -4012,7 +4012,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -4028,7 +4028,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -4040,7 +4040,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -4913,7 +4913,7 @@
 	</S>
 	<S id="Sister3_S072">
 		<AUDIO start="339.8520" end="343.2901"/>
-		<FORM>tʰi˩˥, | go˧mi˧ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩, | gɤ˩-&lt;ʈʂʰɻ̍˩˥&gt;[ʈi˧], | tʰi˧-ʈʂʰɻ̍˧˥ ◊ -dʑo˩;</FORM>
+		<FORM>tʰi˩˥, | go˧mi˧ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩, | gɤ˩-&lt;ʈʂʰɻ̩˩˥&gt;[ʈi˧], | tʰi˧-ʈʂʰɻ̩˧˥ ◊ -dʑo˩;</FORM>
 		<NOTE xml:lang="fr"
 			message="tons vérifiés en août 2011: est bien /tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩/, et non /‡tʰv̩˧-v̩˧-ɳɯ˧-dʑo˩/; l'analyse reste à mener: pourquoi le ton L sur /-ɳɯ/? Réponse en 2012: est un des éléments de la morphologie tonale."/>
 		<NOTE xml:lang="fr"
@@ -4958,7 +4958,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">agripper</TRANSL>
 		</W>
 		<W>
@@ -5035,7 +5035,7 @@
 	</S>
 	<S id="Sister3_S074">
 		<AUDIO start="348.5995" end="351.9878"/>
-		<FORM>wɤ˩˥ | ʈʰɯ˧-gi˧-bi˥ ʈʂʰɻ̍˩, | ʐæ˩sɯ˩˥ ◊ -dʑo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-mv̩˧-kv̩˧˥ | mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+		<FORM>wɤ˩˥ | ʈʰɯ˧-gi˧-bi˥ ʈʂʰɻ̩˩, | ʐæ˩sɯ˩˥ ◊ -dʑo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-mv̩˧-kv̩˧˥ | mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 		<NOTE xml:lang="fr" message="ton sous-jacent de /ʈʰɯ˧-gi˧/: vérifié en août 2011 avec F4"/>
 		<NOTE xml:lang="fr"
 			message="d'abord noté /‡tʰi˧ni˧˥/; est simplement /ʈʂʰɯ˧ne˧-ʝi˥/ 'ainsi'."/>
@@ -5059,7 +5059,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -5172,7 +5172,7 @@
 	</S>
 	<S id="Sister3_S076">
 		<AUDIO start="357.6309" end="367.6966"/>
-		<FORM>ʈʂʰɯ˧-kʰwɤ˧-bi˥: | «ə˧mv̩˩! | njɤ˧ | no˧ | tʰi˧-dʑo˩-hĩ˩ | mɤ˧-sɯ˥-ze˩! | tsʰi˧ɲi˧ | no˩ ɲi˩-ho˥, | no˧ | hĩ˧-ɳɯ˩ | le˧-ʝi˧&lt;-bi˧&gt;[-ɲi˥]! | mɤ˧-fv̩˧ tʰɑ˧-ʝi˧-ɻ̍˥, | njɤ˧-ɳɯ˧ | mɤ˧-ʝi˧-ɲi˥! | ↑ʁɑ˩mi˥!», | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>ʈʂʰɯ˧-kʰwɤ˧-bi˥: | «ə˧mv̩˩! | njɤ˧ | no˧ | tʰi˧-dʑo˩-hĩ˩ | mɤ˧-sɯ˥-ze˩! | tsʰi˧ɲi˧ | no˩ ɲi˩-ho˥, | no˧ | hĩ˧-ɳɯ˩ | le˧-ʝi˧&lt;-bi˧&gt;[-ɲi˥]! | mɤ˧-fv̩˧ tʰɑ˧-ʝi˧-ɻ̩˥, | njɤ˧-ɳɯ˧ | mɤ˧-ʝi˧-ɲi˥! | ↑ʁɑ˩mi˥!», | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté no˧-hĩ˥-ɳɯ˩ "/>
 		<NOTE xml:lang="fr" message="tsʰi˧ɲi˧ no˩ ɲi˩-ho˧: tons vérifiés"/>
 		<NOTE xml:lang="fr"
@@ -5291,7 +5291,7 @@
 			<TRANSL xml:lang="fr">faire</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -5503,7 +5503,7 @@
 	</S>
 	<S id="Sister3_S080">
 		<AUDIO start="380.0983" end="385.8726"/>
-		<FORM>ʐæ˩sɯ˩˥ | tʰv̩˧-kʰwɤ˧-bi˥, | lo˩qʰwɤ˧ ʈʂʰɯ˧-pʰo˥-bi˩ ʈʂʰɻ̍˩, | ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧-hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-pʰæ˧ hæ̃˥, | tʰi˧-kwɤ˩!</FORM>
+		<FORM>ʐæ˩sɯ˩˥ | tʰv̩˧-kʰwɤ˧-bi˥, | lo˩qʰwɤ˧ ʈʂʰɯ˧-pʰo˥-bi˩ ʈʂʰɻ̩˩, | ʐæ˩sɯ˩˥ | tʰi˧-mv̩˧-hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-pʰæ˧ hæ̃˥, | tʰi˧-kwɤ˩!</FORM>
 		<NOTE xml:lang="fr"
 			message="note ancienne: 'M23 avait d’abord dicté /ʈʂʰɯ˧pʰo˧bi˥ ʈʂʰv̩˩/; est ss doute la «phonologie de surface», la réalisation [ʈʂʰɯ˧pʰo˥bi˩] étant due à des facteurs intonatifs?' Réponse: la 'phonologie de surface' est bien: /ʈʂʰɯ˧-pʰo˥-bi˩ ʈʂʰv̩˩/."/>
 		<NOTE xml:lang="fr"
@@ -5536,7 +5536,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">agripper</TRANSL>
 		</W>
 		<W>
@@ -5607,7 +5607,7 @@
 	</S>
 	<S id="Sister3_S082">
 		<AUDIO start="387.2768" end="390.5445"/>
-		<FORM>ʈʂʰɯ˧-pʰo˩-bi˩ ʈʂʰɻ̍˩, | wɤ˩˥ | ʈʂʰɯ˧-kʰwɤ˥ | ɖɯ˧-↑hæ̃˧-tʰi˥-kwɤ˩! | tʰi˧-ʈwæ˧-tsɯ˥ ◊ -mv̩˩!</FORM>
+		<FORM>ʈʂʰɯ˧-pʰo˩-bi˩ ʈʂʰɻ̩˩, | wɤ˩˥ | ʈʂʰɯ˧-kʰwɤ˥ | ɖɯ˧-↑hæ̃˧-tʰi˥-kwɤ˩! | tʰi˧-ʈwæ˧-tsɯ˥ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr"
 			message="d'abord noté ʈʂʰɯ˧-kʰwɤ˧ ɖɯ˧-hæ̃˧-tʰi˥-kwɤ˩ (erreur sur le ton de kʰwɤ˥)"/>
 		<TRANSL xml:lang="fr">(elle) agrippe ce bras-là (=elle cherche à le saisir par l'autre bras)
@@ -5624,7 +5624,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">agripper</TRANSL>
 		</W>
 		<W>
@@ -5670,7 +5670,7 @@
 	</S>
 	<S id="Sister3_S083">
 		<AUDIO start="390.5445" end="392.8936"/>
-		<FORM>tʰi˩˥, | go˧mi˧ | ʈʂʰɯ˧-pʰo˩-bi˩ &lt;ʈv̩˩&gt;[ʈʂʰɻ̍˩]-bi˩-ze˩, | tʰi˧-ʂɯ˧-tsɯ˥ | mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | go˧mi˧ | ʈʂʰɯ˧-pʰo˩-bi˩ &lt;ʈv̩˩&gt;[ʈʂʰɻ̩˩]-bi˩-ze˩, | tʰi˧-ʂɯ˧-tsɯ˥ | mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧-ʂɯ˥ tsɯ˩ mv̩˩/"/>
 		<NOTE xml:lang="fr"
 			message="note ancienne, de M23: /no˧ njɤ˧ ʈv̩˧ ə˧-bi˥?/ 你想赖我吗 ? [lài] ; /mɤ˧-ʈv̩˧!/ pas beau, 不标致"/>
@@ -5694,7 +5694,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">agripper</TRANSL>
 		</W>
 		<W>
@@ -5813,12 +5813,12 @@
 	</S>
 	<S id="Sister3_S085">
 		<AUDIO start="398.8648" end="408.5237"/>
-		<FORM>hɯ˧, | hɯ˧-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | õ˧ go˧mi˥-ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʑi˩-ki˩ tʰv̩˩-ɲi˩-ho˩! | &lt;õ˧=ɻ̍˥&gt; [wo˧=ɻ̍˩] | go˧mi˧ | õ˧ do˧˥, | mmm… zo˩no˥, | dzɑ˧-ʝi˧ | ʐwæ˩-ze˥!" |</FORM>
+		<FORM>hɯ˧, | hɯ˧-dʑo˩ | tʰi˩˥, | "ə˧mi˧! | õ˧ go˧mi˥-ʈʂʰɯ˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ʑi˩-ki˩ tʰv̩˩-ɲi˩-ho˩! | &lt;õ˧=ɻ̩˥&gt; [wo˧=ɻ̩˩] | go˧mi˧ | õ˧ do˧˥, | mmm… zo˩no˥, | dzɑ˧-ʝi˧ | ʐwæ˩-ze˥!" |</FORM>
 		<NOTE xml:lang="fr" message="/õ˧ go˧mi˥-ʈʂʰɯ˩-dʑo˩/: d'abord noté /-ʈʂʰɯ˩-/, puis corrigé à tort en /‡õ˧ go˧mi˥ | ʈʂʰɯ˧-dʑo˩/"/>
 		<NOTE xml:lang="fr" message="d'abord noté /‡õ˩ do˩˥/"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡hɯ˧, | hɯ˧-dʑo˩/"></NOTE>
-		<NOTE xml:lang="fr"	message="/ʔu˧=ɻ̍˩ | go˧mi˧ | õ˧ do˧˥/: sens vérifié: n'est pas 'j'ai vu ma propre sœur' mais '[ma] petite sœur m'a vu'."/>
-		<NOTE xml:lang="fr"	message="/ʔu˧=ɻ̍˩/: avant 2016, noté /‡wo˧=ɻ̍˩/. En réalité cette syllabe /u/ commence par une occlusive glottale; elle est différente de celle notée /wo/."/>
+		<NOTE xml:lang="fr"	message="/ʔu˧=ɻ̩˩ | go˧mi˧ | õ˧ do˧˥/: sens vérifié: n'est pas 'j'ai vu ma propre sœur' mais '[ma] petite sœur m'a vu'."/>
+		<NOTE xml:lang="fr"	message="/ʔu˧=ɻ̩˩/: avant 2016, noté /‡wo˧=ɻ̩˩/. En réalité cette syllabe /u/ commence par une occlusive glottale; elle est différente de celle notée /wo/."/>
 		<TRANSL xml:lang="fr">Il est parti, parti… et alors [en chemin il a ressassé ce qui venait de se passer]: "Eeeeeh ben… Ma propre petite sœur, elle, voilà qu'elle a rejoint une famille pareille! (=Comment ma sœur a-t-elle pu arriver dans une maisonnée pareille!) Nous autres (=entre gens de la famille)… ma propre sœur m'a vu, et… elle m'a terriblement méprisé!</TRANSL>
 		<TRANSL xml:lang="zh"
 			>他走了，那么（他边走边想：）“啊呀！我家妹妹，到了这么一家（=怎么能嫁到这么一家）！我自己妹妹见我，，（而她对我）非常瞧不起！</TRANSL>
@@ -5887,11 +5887,11 @@
 			<TRANSL xml:lang="fr">soi_même/propre</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
-			<FORM>ʔu˧=ɻ̍˩</FORM>
+			<FORM>ʔu˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1associatif=°associatif</TRANSL>
 		</W>
 		<W>
@@ -6389,13 +6389,13 @@
 	</S>
 	<S id="Sister3_S095">
 		<AUDIO start="443.3533" end="455.0988"/>
-		<FORM>«ʁɑ˩mi˧! | no˧ go˧mi˧-dʑo˥ | le˧-ʂɯ˧-ze˧! | ʁɑ˩mi˧! | &lt;no˧ ɖɯ˧-ɲi˥… | le˧-wo˧˥&gt; | no˧-ɳɯ˧-dʑo˥, | go˧mi˧-ki˧ | kwɤ˧pɤ˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-lɑ˩-ɻ̍˩! | ʁɑ˩mi˧!» | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>«ʁɑ˩mi˧! | no˧ go˧mi˧-dʑo˥ | le˧-ʂɯ˧-ze˧! | ʁɑ˩mi˧! | &lt;no˧ ɖɯ˧-ɲi˥… | le˧-wo˧˥&gt; | no˧-ɳɯ˧-dʑo˥, | go˧mi˧-ki˧ | kwɤ˧pɤ˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-lɑ˩-ɻ̩˩! | ʁɑ˩mi˧!» | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
 			message="dicté par M23: /ɖɯ˧-njɤ˧/ 'sans cesse'; /ʈʂʰɯ˧ tsʰi˧ɲi˧ ɖɯ˧-njɤ˧ lo˧ ʝi˧/ «il/elle a travaillé toute la journée aujourd’hui.» Lors du retravail avec F4, il s'avère que ce n'est pas /ɖɯ˧-njɤ˧/, mais /ɖɯ˧-ɲi˥/ 'un jour, une journée'."/>
 		<NOTE xml:lang="fr"
 			message="Dans le passage supprimé: no˧ ɖɯ˧-ɲi˥… le˧-wo˧˥, j'avais d'abord noté: le˧-wo˥; corrigé en août 2011 par analogie avec les autres cas."/>
 		<NOTE xml:lang="fr"
-			message="/ɖɯ˧-kʰwɤ˥ tʰi˩-lɑ˩-ɻ̍˩/: en août 2011, avais conclu à tort que c'était /ɖɯ˧-kʰwɤ˥ | tʰi˧-lɑ˩-ɻ̍˩/. En fait, tous les tons sont abaissés en tons bas, comme on s'y attend au sein d'un groupe tonal. On pourrait diviser en deux groupes, ce qui donnerait alors: /tʰi˧-lɑ˧-ɻ̍˥/; ces trois syllabes formeraient un groupe à elles seules. Il s'agit bien du même verbe que pour dire 'frapper', /lɑ˧˥/; ce qui donne /tʰi˧-lɑ˧-ɻ̍˥/; c'est dans ce contexte-ci, suivant /kwɤ˧pɤ˧ ɖɯ˧-kʰwɤ˥/, que les tons sont modifiés."/>
+			message="/ɖɯ˧-kʰwɤ˥ tʰi˩-lɑ˩-ɻ̩˩/: en août 2011, avais conclu à tort que c'était /ɖɯ˧-kʰwɤ˥ | tʰi˧-lɑ˩-ɻ̩˩/. En fait, tous les tons sont abaissés en tons bas, comme on s'y attend au sein d'un groupe tonal. On pourrait diviser en deux groupes, ce qui donnerait alors: /tʰi˧-lɑ˧-ɻ̩˥/; ces trois syllabes formeraient un groupe à elles seules. Il s'agit bien du même verbe que pour dire 'frapper', /lɑ˧˥/; ce qui donne /tʰi˧-lɑ˧-ɻ̩˥/; c'est dans ce contexte-ci, suivant /kwɤ˧pɤ˧ ɖɯ˧-kʰwɤ˥/, que les tons sont modifiés."/>
 		<NOTE xml:lang="fr" message="kwɤ˧pɤ˧ lɑ˧˥: traduit par M23 comme: 教育"/>
 		<TRANSL xml:lang="fr">«Pardon! Votre sœur est morte! Pardon! Donnez donc une explication
 			à votre sœur (=Venez auprès du bûcher prendre congé de votre sœur, qu'elle puisse
@@ -6470,7 +6470,7 @@
 			<TRANSL xml:lang="fr">donner/dispenser(/frapper)</TRANSL>
 		</W>
 		<W>
-			<FORM>-ɻ̍˩</FORM>
+			<FORM>-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -8050,7 +8050,7 @@
 	</S>
 	<S id="Sister3_S122">
 		<AUDIO start="576.4121" end="583.8793"/>
-		<FORM>tʰi˩˥, | njɤ˧=ɻ̍˩-ɳɯ˩ | hĩ˧ ʂɯ˧ pi˧-dʑo˩ | tʰi˩˥, | go˧mi˧ | hĩ˧-ki˧-ki˩, | pi˧-dʑo˩ | tʰi˩˥, | njæ˧-sɯ˩kv̩˩, | bo˩ʈʂʰæ˧ | po˧-mɤ˥-kv̩˩-mæ˩! |</FORM>
+		<FORM>tʰi˩˥, | njɤ˧=ɻ̩˩-ɳɯ˩ | hĩ˧ ʂɯ˧ pi˧-dʑo˩ | tʰi˩˥, | go˧mi˧ | hĩ˧-ki˧-ki˩, | pi˧-dʑo˩ | tʰi˩˥, | njæ˧-sɯ˩kv̩˩, | bo˩ʈʂʰæ˧ | po˧-mɤ˥-kv̩˩-mæ˩! |</FORM>
 		<NOTE xml:lang="fr"
 			message="dʑo˩: pas noté lors de la première transcription; ajouté en août 2011"/>
 		<NOTE xml:lang="fr" message="tons vérifiés, n’est pas po˧-mɤ˧-kv̩˧"/>
@@ -8065,14 +8065,14 @@
 			<TRANSL xml:lang="fr">alors</TRANSL>
 		</W>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<M>
 				<FORM>njɤ˩</FORM>
 				<TRANSL xml:lang="fr">°1sg</TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			</M>
 			</W>
@@ -8308,7 +8308,7 @@
 	</S>
 	<S id="Sister3_S126">
 		<AUDIO start="597.2259" end="603.4464"/>
-		<FORM>tʰi˩˥, | sɯ˧kʰɯ˩ | ə˧v̩˧=ɻ̍˥-dʑo˩, | &lt;ʈʂo˧kʰɯ˩-dʑo˩, | hĩ˧ dzɯ˧! | pi˧ mv̩˩&gt;; | sɯ˧kʰɯ˩-dʑo˩, | hĩ˧ dzɯ˧! | pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | sɯ˧kʰɯ˩ | ə˧v̩˧=ɻ̩˥-dʑo˩, | &lt;ʈʂo˧kʰɯ˩-dʑo˩, | hĩ˧ dzɯ˧! | pi˧ mv̩˩&gt;; | sɯ˧kʰɯ˩-dʑo˩, | hĩ˧ dzɯ˧! | pi˧-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="vérifié: n’est pas ‡ɖʐo˧kʰɯ˩"/>
 		<TRANSL xml:lang="fr">Alors, ceux qui représentent l'oncle (=les membres de la famille dont
 			on a pris la fille), dans le rituel 'sɯ˧kʰɯ˩', [ils suivent le précepte suivant:]
@@ -8335,7 +8335,7 @@
 			<TRANSL xml:lang="fr">oncle</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -9017,9 +9017,9 @@
 	</S>
 	<S id="Sister3_S136">
 		<AUDIO start="643.6533" end="646.1238"/>
-		<FORM>«sɯ˧kʰɯ˩ ə˧v̩˩=ɻ̍˩ le˩-ʝi˩-ze˩!» | pi˧, |</FORM>
+		<FORM>«sɯ˧kʰɯ˩ ə˧v̩˩=ɻ̩˩ le˩-ʝi˩-ze˩!» | pi˧, |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡sɯ˧kʰɤ˩/"/>
-		<NOTE xml:lang="fr" message="corrigé en 2013; auparavant, la transcription se faisait en 'fenêtre étroite', par petits groupes de syllabes, négligeant leur intégration plus large dans le récit tel qu'il a été enregistré, avec pour résultat: /sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧-ʝi˩-ze˩/. Avais également manqué le marqueur de collectif dans /ə˧v̩˧=ɻ̍˥/ 'la famille de l'oncle' "/>
+		<NOTE xml:lang="fr" message="corrigé en 2013; auparavant, la transcription se faisait en 'fenêtre étroite', par petits groupes de syllabes, négligeant leur intégration plus large dans le récit tel qu'il a été enregistré, avec pour résultat: /sɯ˧kʰɯ˩ | ə˧v̩˧˥ | le˧-ʝi˩-ze˩/. Avais également manqué le marqueur de collectif dans /ə˧v̩˧=ɻ̩˥/ 'la famille de l'oncle' "/>
 		<TRANSL xml:lang="fr">on dit: «sɯ˧kʰɯ˩! L’oncle est de retour!»</TRANSL>
 		<TRANSL xml:lang="zh">（人要）喊：“《斯克》！舅舅回来了！”</TRANSL>
 		<W>

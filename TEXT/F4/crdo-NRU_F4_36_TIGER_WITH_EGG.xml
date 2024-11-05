@@ -2508,7 +2508,7 @@
 		</W>
 </S>
 <S id="TigerS033"><AUDIO start="224.2928" end="236.2906"></AUDIO>
-	<FORM>no˧ | lɑ˧ | no˧-bi˩ | mɤ˧-ɻ̍˩, | no˧ | le˧-wo˧-hõ˥! | ə˧zɯ˩, | ə˧mi˧ | ɖɯ˧-zɯ˧ | ɖɯ˧-ʈʂʰæ˧˥ | no˧ | tʰi˧-do˩-dʑo˩, | no˧ | ɖwæ˩-mɤ˧-zo˧!" | pi˧-zo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | -zo˩, | mv̩˩zo˩˥ | [le˧-]kʰi˧-ɲi˥-tsɯ˩ mv̩˩. |</FORM>
+	<FORM>no˧ | lɑ˧ | no˧-bi˩ | mɤ˧-ɻ̩˩, | no˧ | le˧-wo˧-hõ˥! | ə˧zɯ˩, | ə˧mi˧ | ɖɯ˧-zɯ˧ | ɖɯ˧-ʈʂʰæ˧˥ | no˧ | tʰi˧-do˩-dʑo˩, | no˧ | ɖwæ˩-mɤ˧-zo˧!" | pi˧-zo˩ | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | -zo˩, | mv̩˩zo˩˥ | [le˧-]kʰi˧-ɲi˥-tsɯ˩ mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté ‡le˧-wo˧˥ | -hõ˩"></NOTE>
 	<TRANSL xml:lang="fr">Toi, le tigre ne se tourne pas dans ta direction (=ne montre pas d'intention de te dévorer); retourne-t-en donc (à la maison)! Nous autres… Maman t'a vue (=a été avec toi) toute ta vie, toute une génération (=j'ai été avec toi tout le temps que tu grandisses/pendant toute ton enfance), n'aie pas de craintes!" Comme elle avait dit cela, eh bien, on dit que la jeune fille s'en est allée.</TRANSL>
 	<TRANSL xml:lang="zh">你呢，老虎不冲向你，你回去(=回家)吧！妈妈这一辈子，一直都陪你了（直译：“见你了”），你不要害怕！（=在你生长的那些年，我一直陪了你），你不要害怕！”（听母亲）这样说，女孩就回去了（=从深山老林小木屋，跑回家）。</TRANSL>
@@ -2533,7 +2533,7 @@
 			<TRANSL xml:lang="fr">°neg</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍˩</FORM>
+			<FORM>ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">se_tourner</TRANSL>
 		</W>
 		<W>
@@ -3445,8 +3445,8 @@
 		</W>
 </S>
 <S id="TigerS043"><AUDIO start="305.2501" end="311.7314"></AUDIO>
-	<FORM>tʰi˩˥, | lɑ˧-ʈʂʰɯ˧, | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ dzɯ˧-hĩ˧-ʈʂʰɯ˥, | õ˧dɤ˧ɻ̍˧-ʈʂʰɯ˧ | mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ | le˧-tsʰɯ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-	<NOTE xml:lang="fr" message="vérifié, n'est pas õ˧dr; peut-être à analyser comme /ɖɻ/? mais pas d'arguments pressants dans ce sens. Fin novembre 2011: modifié en: õ˧dɤ˧ɻ̍˧, solidairement avec les autres combinaisons jusque-là notées dr, tr, du fait que l'une d'elles est clairement disyllabique (argument: schéma tonal)."></NOTE>
+	<FORM>tʰi˩˥, | lɑ˧-ʈʂʰɯ˧, | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ dzɯ˧-hĩ˧-ʈʂʰɯ˥, | õ˧dɤ˧ɻ̩˧-ʈʂʰɯ˧ | mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ | le˧-tsʰɯ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<NOTE xml:lang="fr" message="vérifié, n'est pas õ˧dr; peut-être à analyser comme /ɖɻ/? mais pas d'arguments pressants dans ce sens. Fin novembre 2011: modifié en: õ˧dɤ˧ɻ̩˧, solidairement avec les autres combinaisons jusque-là notées dr, tr, du fait que l'une d'elles est clairement disyllabique (argument: schéma tonal)."></NOTE>
 	<TRANSL xml:lang="fr">Le tigre, jadis, quand il mangeait quelqu'un, cela avait une cause profonde, une raison qui venait de loin.</TRANSL>
 	<TRANSL xml:lang="zh">老虎吃人这件事，在从前，是有深层原因的。</TRANSL>
 		<W>
@@ -3482,7 +3482,7 @@
     <TRANSL xml:lang="fr">°top(°dem_prox)</TRANSL>
 		</W>
 		<W>
-			<FORM>õ˧dɤ˧ɻ̍˧</FORM>
+			<FORM>õ˧dɤ˧ɻ̩˧</FORM>
 			<TRANSL xml:lang="fr">fondement</TRANSL>
 		</W>
 		<W>
@@ -3606,7 +3606,7 @@
 		</W>
 </S>
 <S id="TigerS046"><AUDIO start="316.3459" end="329.0988"></AUDIO>
-	<FORM>mv̩˧ | mɤ˧-dʑi˧, dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˧-ʑi˩-ɻ̍˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʰæ˧˥, | ɖɯ˧-ʑi˩-ɻ̍˩ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩… | ʁwɤ˧ | ɖɯ˧-ɭɯ˧ | ʈʂe˧-gi˥-qo˩-ɳɯ˩, | zo˩no˥, | ɑ˩ʁo˧-dʑo˧, | mv̩˩˥ | dʑo˩ | ɬi˧di˩ dʑo˩. |</FORM>
+	<FORM>mv̩˧ | mɤ˧-dʑi˧, dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖɯ˧-ʑi˩-ɻ̩˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʰæ˧˥, | ɖɯ˧-ʑi˩-ɻ̩˩ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩… | ʁwɤ˧ | ɖɯ˧-ɭɯ˧ | ʈʂe˧-gi˥-qo˩-ɳɯ˩, | zo˩no˥, | ɑ˩ʁo˧-dʑo˧, | mv̩˩˥ | dʑo˩ | ɬi˧di˩ dʑo˩. |</FORM>
 	<TRANSL xml:lang="fr">On n'a jamais compris pourquoi, autrefois, une famille était ainsi attaquée; comme cet événement était arrivé dans la famille, eh bien, autrefois… la maison (des grands-parents) se trouvait à mi-hauteur d'une montagne, tandis que la fille habitait à Yongning.</TRANSL>
 	<TRANSL xml:lang="zh">一直不能解释的（事情），包括那一家的人这样被吃，在从前（=那次母亲被吃，这件事情一直没有了得到解释）。在一座山中间（=山谷和高山中间）有（外公外婆）的家，而女孩呢，住在永宁坝子里（=外公外婆的家在山上，而女孩的家在永宁坝子里）。</TRANSL>
 		<W>
@@ -3634,7 +3634,7 @@
 			<TRANSL xml:lang="fr">autrefois</TRANSL>
 		</W>
 		<W>
-			<FORM>ɖɯ˧-ʑi˩-ɻ̍˩</FORM>
+			<FORM>ɖɯ˧-ʑi˩-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">une-famille</TRANSL>
 		</W>
 		<W>
@@ -3646,7 +3646,7 @@
 			<TRANSL xml:lang="fr">dévorer(/mordre)</TRANSL>
 		</W>
 		<W>
-			<FORM>ɖɯ˧-ʑi˩-ɻ̍˩</FORM>
+			<FORM>ɖɯ˧-ʑi˩-ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">une-famille</TRANSL>
 		</W>
 		<W>

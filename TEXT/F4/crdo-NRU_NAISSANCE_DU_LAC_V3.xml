@@ -81,7 +81,7 @@
 		</W>
 </S>
 <S id="Lake3_S003"><AUDIO start="6.9041" end="11.7451"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ʑi˩-ɻ̍˩ dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, tsɯ˩ ◊ -mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ʑi˩-ɻ̩˩ dʑo˩, | zo˧bæ˩ | ɖɯ˧-v̩˧ dʑo˩, tsɯ˩ ◊ -mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, ddeexxi'er jjo ssobbae ddeevu jjo zimu.</FORM>
 	<TRANSL xml:lang="fr">eh bien, il y avait une famille [dans laquelle] il y avait un homme muet! (=Il était une fois une famille dans laquelle il y avait un homme sourd et muet.)</TRANSL>
 	<TRANSL xml:lang="en">Well, there was a family with a mute person (in it).</TRANSL>
@@ -96,7 +96,7 @@
 			<TRANSL xml:lang="fr">une-famille</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -1904,7 +1904,7 @@
 		</W>
 </S>
 <S id="Lake3_S037"><AUDIO start="139.5183" end="143.0341"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɑ˩ʁo˧ | ʈʂʰɯ˧-ʑi˧-ɻ̍˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | tɑ˧ho˧ | le˧-ʁwɤ˧~ʁwɤ˥-ɲi˩, tsɯ˩ mv̩˩: |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɑ˩ʁo˧ | ʈʂʰɯ˧-ʑi˧-ɻ̩˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | tɑ˧ho˧ | le˧-ʁwɤ˧~ʁwɤ˥-ɲi˩, tsɯ˩ mv̩˩: |</FORM>
 	<FORM kindOf="ortho">Tiq, awo teexxi'er nee jjo, tiq, daho lewuawua niq zimu:</FORM>
 	<TRANSL xml:lang="fr">Alors, toute la maisonnée, eh bien… tout le monde a débattu [au sujet de ce qu'ils allaient faire].</TRANSL>
 	<TRANSL xml:lang="en">Then the family members all had a discussion: </TRANSL>
@@ -1922,7 +1922,7 @@
 			<TRANSL xml:lang="fr">°dem_prox-°clf.maisonnées</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -2433,7 +2433,7 @@
 		</W>
 </S>
 <S id="Lake3_S048"><AUDIO start="180.2414" end="183.0496"/>
-	<FORM kindOf="phono">ɖɯ˧-ʑi˩-ɻ̍˩-dʑo˩, | ə˧mi˧ | bo˩-hɑ˧ ki˩-dʑo˩, | pi˧ tsɯ˩ mv̩˩. | mv̩˩kʰv̩˧˥! |</FORM>
+	<FORM kindOf="phono">ɖɯ˧-ʑi˩-ɻ̩˩-dʑo˩, | ə˧mi˧ | bo˩-hɑ˧ ki˩-dʑo˩, | pi˧ tsɯ˩ mv̩˩. | mv̩˩kʰv̩˧˥! |</FORM>
 	<FORM kindOf="ortho">ddeexxi'er jjo ami bboha gi jjo bi zimu. Muku.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡mv̩˩kʰv̩˩˥/"/>
 	<NOTE xml:lang="fr" message="vérifié en 2011: n'est pas /‡…ki˧dʑo˧/."/>
@@ -2441,7 +2441,7 @@
 	<TRANSL xml:lang="en">there was a family whose mother was feeding the pigs, so it's said. In the evening. </TRANSL>
 	<TRANSL xml:lang="zh">有一家呢，母亲正在喂猪，下午（的那一顿）。</TRANSL>
 		<W>
-			<FORM>ɖɯ˧-ʑi˩=ɻ̍˩</FORM>
+			<FORM>ɖɯ˧-ʑi˩=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">une-famille=°associatif</TRANSL>
 		</W>
 		<W>
@@ -2814,9 +2814,9 @@
 		</W>
 </S>
 <S id="Lake3_S055"><AUDIO start="208.0660" end="212.8913"/>
-	<FORM kindOf="phono">dʑɯ˧ | tsʰɯ˩-hɯ˩-tsʰɯ˩-ɻ̍˥-dʑo˩, | ʈʂʰɯ˧-qo˧lo˩ tsʰɯ˩, | &lt;tsʰi…&gt; tɕʰo˩˥, | qwæ˧-hɯ˥-qwæ˩-ɻ̍˩, | qwæ˧-hɯ˥-qwæ˩-ɻ̍˩, |</FORM>
+	<FORM kindOf="phono">dʑɯ˧ | tsʰɯ˩-hɯ˩-tsʰɯ˩-ɻ̩˥-dʑo˩, | ʈʂʰɯ˧-qo˧lo˩ tsʰɯ˩, | &lt;tsʰi…&gt; tɕʰo˩˥, | qwæ˧-hɯ˥-qwæ˩-ɻ̩˩, | qwæ˧-hɯ˥-qwæ˩-ɻ̩˩, |</FORM>
 	<FORM kindOf="ortho">Jji cee hee cee'er jjo tee gholo cee, qoq ghuaeq hee ghuae'er, ghuaeq heeq ghuae'er.</FORM>
-	<NOTE xml:lang="fr" message="V+/hɯ/+V+/ɻ/: indique l'intensification de l'action: celle-ci est réalisée de façon superlative. Exemple: /hĩ˧bæ˧ tsʰɯ˩-hɯ˩-tsʰɯ˩-ɻ̍˥/ 'Les invités sont arrivés en nombre!' Au plan phonologique, le comportement de /hɯ/ avec les divers tons est le suivant: /tɕʰi˧-hɯ˧-tɕʰi˧-ɻ̍˥/ ('vendre'); /hwæ˧-hɯ˧-hwæ˧-ɻ̍˥/ ('acheter'); /dzɯ˧-hɯ˧-dzɯ˧-ɻ̍˥/ ('manger'). Lors de la première transcription, avec M23, avais omis la dernière syllabe, /-ɻ/."/>
+	<NOTE xml:lang="fr" message="V+/hɯ/+V+/ɻ/: indique l'intensification de l'action: celle-ci est réalisée de façon superlative. Exemple: /hĩ˧bæ˧ tsʰɯ˩-hɯ˩-tsʰɯ˩-ɻ̩˥/ 'Les invités sont arrivés en nombre!' Au plan phonologique, le comportement de /hɯ/ avec les divers tons est le suivant: /tɕʰi˧-hɯ˧-tɕʰi˧-ɻ̩˥/ ('vendre'); /hwæ˧-hɯ˧-hwæ˧-ɻ̩˥/ ('acheter'); /dzɯ˧-hɯ˧-dzɯ˧-ɻ̩˥/ ('manger'). Lors de la première transcription, avec M23, avais omis la dernière syllabe, /-ɻ/."/>
 	<TRANSL xml:lang="fr">Quand l'eau est arrivée en trombe, qu'elle est arrivée dans [l'auge], [avec] la grosse louche, [elles] ont écopé, écopé, écopé à tour de bras</TRANSL>
 	<TRANSL xml:lang="en">When the water came flooding in, when it came into (the trough), (they used) the ladle to scoop and scoop, scoop and scoop.  </TRANSL>
 	<TRANSL xml:lang="zh">洪水来了，进到这里（=到猪槽里），（那么母亲用）勺子舀、舀、舀出来！</TRANSL>
@@ -2837,7 +2837,7 @@
 			<TRANSL xml:lang="fr">arriver</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -2869,12 +2869,12 @@
 			<TRANSL xml:lang="fr">puiser</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 </S>
 <S id="Lake3_S056"><AUDIO start="212.8913" end="215.4473"/>
-	<FORM kindOf="phono">mv̩˩zo˩ ʈʂʰɯ˩-ɭɯ˩ ɳɯ˥, | sɑ˩tsʰi˩ po˥-ɳɯ˩, | tsɑ˧-hɯ˥-tsɑ˩-ɻ̍˩, | tsɑ˧-hɯ˥-tsɑ˩-ɻ̍˩,</FORM>
+	<FORM kindOf="phono">mv̩˩zo˩ ʈʂʰɯ˩-ɭɯ˩ ɳɯ˥, | sɑ˩tsʰi˩ po˥-ɳɯ˩, | tsɑ˧-hɯ˥-tsɑ˩-ɻ̩˩, | tsɑ˧-hɯ˥-tsɑ˩-ɻ̩˩,</FORM>
 	<FORM kindOf="ortho">Musso teelee nee sacee boq nee zaq hee za'er, zaq hee za'er,</FORM>
 	<NOTE xml:lang="fr" message="intéressant pour les tons: illustre le fait que nom+démonstratif+°clf peut former une seule unité au plan tonal: un groupe tonal."/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡sɑ˩tsʰɯ˩/."/>
@@ -2919,7 +2919,7 @@
 			<TRANSL xml:lang="fr">pagayer</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 </S>

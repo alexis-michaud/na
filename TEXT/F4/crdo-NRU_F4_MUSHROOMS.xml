@@ -140,14 +140,14 @@
 </S>
 <S id="MUSHROOMS_S020">
 	<AUDIO start="137.543" end="146.303"/>
-	<FORM kindOf="phono">mmm… mo˩ɻ̍˥ | ʈʂʰɯ˧-dʑo˩, | əəə… ʂwæ˧si˧-bi˥ di˩-ɲi˩-mæ˩! | ʂwæ˧bæ˩-si˩-bi˩! | zo˩no˥, | si˧-mo˩-bi˩! |</FORM>
-	<NOTE xml:lang="fr" message = "Vérifié: est bien /mo˩ɻ̍˥ | ʈʂʰɯ˧-dʑo˩/, et non un seul groupe tonal."/>
+	<FORM kindOf="phono">mmm… mo˩ɻ̩˥ | ʈʂʰɯ˧-dʑo˩, | əəə… ʂwæ˧si˧-bi˥ di˩-ɲi˩-mæ˩! | ʂwæ˧bæ˩-si˩-bi˩! | zo˩no˥, | si˧-mo˩-bi˩! |</FORM>
+	<NOTE xml:lang="fr" message = "Vérifié: est bien /mo˩ɻ̩˥ | ʈʂʰɯ˧-dʑo˩/, et non un seul groupe tonal."/>
 	<TRANSL xml:lang="fr">Mmmh… les champignons noirs, il y en a sur les camélias! (arbres) Sur les arbres à fleurs de camélias. Sur les arbres tombés/sur les troncs morts!</TRANSL>
 	<TRANSL xml:lang="zh">木耳呢，长在山茶树上！在山茶树上！就是……在死木上！</TRANSL>
 </S>
 <S id="MUSHROOMS_S021">
 	<AUDIO start="146.582" end="154.767"/>
-	<FORM kindOf="phono">zo˩no˥, | mo˩ɻ̍˥-lɑ˩ | mo˩kv̩˥ | ʈʂʰɯ˧-dʑo˩, | ʈʂe˧-qo˩-ɳɯ˩ | gɤ˩-ʑi˥-hĩ˩ | mɤ˧-ɲi˩-mæ˩! | mmm… si˧dzi˩, | si˧-qo˩-ɳɯ˩ | tʰv̩˧-ɲi˥-mæ˩! | ĩ˧! |</FORM>
+	<FORM kindOf="phono">zo˩no˥, | mo˩ɻ̩˥-lɑ˩ | mo˩kv̩˥ | ʈʂʰɯ˧-dʑo˩, | ʈʂe˧-qo˩-ɳɯ˩ | gɤ˩-ʑi˥-hĩ˩ | mɤ˧-ɲi˩-mæ˩! | mmm… si˧dzi˩, | si˧-qo˩-ɳɯ˩ | tʰv̩˧-ɲi˥-mæ˩! | ĩ˧! |</FORM>
 	<TRANSL xml:lang="fr">Le champignon noir et les champignons d'arbres, ça ne pousse pas dans la terre! Les arbres… ça pousse dans le bois! Oui!</TRANSL>
 	<TRANSL xml:lang="zh">木耳和蘑菇，不是长在土里的！是长在树……在木头上！是的！</TRANSL>
 </S>
@@ -540,7 +540,7 @@
 </S>
 <S id="MUSHROOMS_S080">
 	<AUDIO start="443.919" end="463.029"/>
-	<FORM kindOf="phono">tʰi˩˥, | gɯ˩-ʝi˥, | ʝi˧-kʰv̩˥~ʝi˩-kʰv̩˩, | &lt;ʝi˧…&gt; ʝi˧-ʁwɤ˩-qo˩, | tʰi˩˥, | gɯ˩-ʝi˥-dʑo˩, | ʝi˧se˧ dʑo˧-hɯ˧-dʑo˧-ɻ̍˥ ◊ -dʑo˩ | tʰi˩˥, | mo˧˥ | dv̩˩-hĩ˧-kwɤ˧tɕɯ˥-lɑ˩, | le˧-pɤ˥~pɤ˩, | ʝi˧-ʁwɤ˩-qo˩ tʰv̩˩-dʑo˩, | hu˧mi˥ | le˧-ʈʂʰæ˥! | le˧pʰi˧-kʰɯ˥! …ə, kwɤ˩tɕɯ˩-lɑ˩, | le˧-qʰwɤ˧-ɲi˥-mæ˩! | mo˧˥ | dv̩˩-hĩ˥-dʑo˩, | &lt;əəə… dʑ… ə˧ʝi˧-ʂ… əəə…&gt; zo˩no˥, | dʑɤ˩pi˧ dʑo˧-ɲi˥-wɤ˩, | njæ˧-sɯ˩kv̩˩, | dʑɯ˩ʁo˩-kʰi˥-zo˩! | mo˧˥ | le˧-tɕɤ˧˥, | le˧-dzɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | ʝi˧-kʰv̩˥-dʑo˩, | nv̩˩mi˩ ɖɯ˩-zo˥, ◊ ə˩-gi˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | gɯ˩-ʝi˥, | ʝi˧-kʰv̩˥~ʝi˩-kʰv̩˩, | &lt;ʝi˧…&gt; ʝi˧-ʁwɤ˩-qo˩, | tʰi˩˥, | gɯ˩-ʝi˥-dʑo˩, | ʝi˧se˧ dʑo˧-hɯ˧-dʑo˧-ɻ̩˥ ◊ -dʑo˩ | tʰi˩˥, | mo˧˥ | dv̩˩-hĩ˧-kwɤ˧tɕɯ˥-lɑ˩, | le˧-pɤ˥~pɤ˩, | ʝi˧-ʁwɤ˩-qo˩ tʰv̩˩-dʑo˩, | hu˧mi˥ | le˧-ʈʂʰæ˥! | le˧pʰi˧-kʰɯ˥! …ə, kwɤ˩tɕɯ˩-lɑ˩, | le˧-qʰwɤ˧-ɲi˥-mæ˩! | mo˧˥ | dv̩˩-hĩ˥-dʑo˩, | &lt;əəə… dʑ… ə˧ʝi˧-ʂ… əəə…&gt; zo˩no˥, | dʑɤ˩pi˧ dʑo˧-ɲi˥-wɤ˩, | njæ˧-sɯ˩kv̩˩, | dʑɯ˩ʁo˩-kʰi˥-zo˩! | mo˧˥ | le˧-tɕɤ˧˥, | le˧-dzɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | ʝi˧-kʰv̩˥-dʑo˩, | nv̩˩mi˩ ɖɯ˩-zo˥, ◊ ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "tons de /le˧pʰi˧-kʰɯ˥/ vérifiés"/>
 	<NOTE xml:lang="fr" message = "Dans /le˧pʰi˧-kʰɯ˥! …ə, kwɤ˩tɕɯ˩-lɑ˩/, le voisement après pause, [ə], au moment où la locutrice reprend, sert à renouer le fil: à annuler la pause, en signalant qu'on reprend exactement là où on s'était arrêté. En termes de découpages en groupes tonals, on reprend le même groupe, il n'y a pas de rupture."/>
 	<NOTE xml:lang="fr" message = "/ʝi˧-kʰv̩˥-dʑo˩, | nv̩˩mi˩ ɖɯ˩-zo˥, ◊ ə˩-gi˩/: vérifié: il n'y a pas de syllabe supplémentaire après /ʝi˧-kʰv̩˥-dʑo˩/."/>
@@ -591,7 +591,7 @@
 </S>
 <S id="MUSHROOMS_S087">
 	<AUDIO start="494.853" end="500.019"/>
-	<FORM kindOf="phono">tʰi˩˥, | ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-pi˩, | mv̩˩-tɑ˧ ʝi˧-hĩ˧[ | ʈʂʰɯ˧]-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-ʑi˩=ɻ̍˩, | hĩ˧ | mɤ˧-dʑo˧-ɲi˥-kv̩˩-tsɯ˩-mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-pi˩, | mv̩˩-tɑ˧ ʝi˧-hĩ˧[ | ʈʂʰɯ˧]-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-ʑi˩=ɻ̩˩, | hĩ˧ | mɤ˧-dʑo˧-ɲi˥-kv̩˩-tsɯ˩-mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors… Les morilles du septième mois, quand on faisait des compliments, autrefois… (=Les morilles du septième mois, autrefois, on s'en servait comme métaphore pour dire des souhaits de fertilité.) Il arrivait qu'il y ait une famille sans descendance! (Littéralement: "une famille qui n'avait pas de gens".)</TRANSL>
 	<TRANSL xml:lang="zh">那么，七月份羊肚菌，祝福人家的时候……在过去，会有某家缺人（后代太少）！</TRANSL>
 </S>
@@ -634,7 +634,7 @@
 </S>
 <S id="MUSHROOMS_S094">
 	<AUDIO start="521.491" end="526.61"/>
-	<FORM kindOf="phono">"ə˧mi˧! | njɤ˧=ɻ̍˩ | mv̩˩-gɤ˧ | gɤ˩-hĩ˧ | mɤ˧-dʑo˩! | ə˧tse˧-ʝi˧-ɲi˥-hɯ˩~hɯ˩? | ʁɑ˩mi˧!" | wɤ˩˥, |</FORM>
+	<FORM kindOf="phono">"ə˧mi˧! | njɤ˧=ɻ̩˩ | mv̩˩-gɤ˧ | gɤ˩-hĩ˧ | mɤ˧-dʑo˩! | ə˧tse˧-ʝi˧-ɲi˥-hɯ˩~hɯ˩? | ʁɑ˩mi˧!" | wɤ˩˥, |</FORM>
 	<NOTE xml:lang="fr" message = "/ə˧tse˧-ʝi˧-ɲi˥-hɯ˩~hɯ˩/: possède une diphtongaison finale, vers /ə/; n'est pas dû à une syllabe /wɤ/."/>
 	<TRANSL xml:lang="fr">"Eeeh bien! Nous autres, nous sommes sans descendance! Comment cela peut-il être? Pitié! / Au secours!" Et encore:</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！咱们没有后代！怎么会这样？啊呀！” 又说：</TRANSL>
@@ -655,7 +655,7 @@
 </S>
 <S id="MUSHROOMS_S097">
 	<AUDIO start="545.042" end="548.757"/>
-	<FORM kindOf="phono">gɯ˩-ʝi˥, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, | mi˩zɯ˩ tʰv̩˩-v̩˩-ɳɯ˥, | hĩ˧-ɳɯ˩ | tʰi˧-pʰv̩˩-tɕɯ˩-ɲi˩-tsɯ˩-mv̩˩! |</FORM>
+	<FORM kindOf="phono">gɯ˩-ʝi˥, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥-dʑo˩, | mi˩zɯ˩ tʰv̩˩-v̩˩-ɳɯ˥, | hĩ˧-ɳɯ˩ | tʰi˧-pʰv̩˩-tɕɯ˩-ɲi˩-tsɯ˩-mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "tʰi˧-pʰv̩˩: s'étendre, se répandre"/>
 	<TRANSL xml:lang="fr">Et pour de vrai, cette famille-là, cette jeune femme… la famille croissait et essaimait! (Littéralement: les gens se répandaient)</TRANSL>
 	<TRANSL xml:lang="zh">那家，确实，由于那个年轻女人（生了几个孩子孩子），那家发展了很多/增加了许多新成员！</TRANSL>
@@ -668,7 +668,7 @@
 </S>
 <S id="MUSHROOMS_S099">
 	<AUDIO start="553.97" end="560.951"/>
-	<FORM kindOf="phono">hĩ˧-ʈʂʰɯ˧, | qʰɑ˩jɤ˩ dʑo˩-ɲi˥-tsɯ˩-mv̩˩! | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | "pʰe˧! | ʈʂʰɯ˧=ɻ̍˩-se˩, | mi˩zɯ˩ dʑo˩˥ ◊ -se˩, | ɖwæ˩ mɤ˧-zo˧! | ʂɯ˧-ɬi˧mi˧ mo˧ɖʐv̩˥-ne˩ | ɖʐv̩˧-kv̩˧-mæ˩!" | pi˧. |</FORM>
+	<FORM kindOf="phono">hĩ˧-ʈʂʰɯ˧, | qʰɑ˩jɤ˩ dʑo˩-ɲi˥-tsɯ˩-mv̩˩! | tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | "pʰe˧! | ʈʂʰɯ˧=ɻ̩˩-se˩, | mi˩zɯ˩ dʑo˩˥ ◊ -se˩, | ɖwæ˩ mɤ˧-zo˧! | ʂɯ˧-ɬi˧mi˧ mo˧ɖʐv̩˥-ne˩ | ɖʐv̩˧-kv̩˧-mæ˩!" | pi˧. |</FORM>
 	<TRANSL xml:lang="fr">Des gens (=des membres de la famille), il y en a eu en quantité! / La famille s'est trouvée grandie de nombreux nouveaux membres! Alors, de la sorte, eh bien, "Maaais non! Eux, comme ils avaient une fille, ils n'avaient pas à s'en faire! Ils pouvaient croître et prospérer comme des morilles!"</TRANSL>
 	<TRANSL xml:lang="zh">（家）人（=后代），有了很多！那么，（有了这样一个说法：）“他们，因为有年轻女人，不要担心！会像七月份的羊肚菌一样多地来！”</TRANSL>
 </S>
@@ -687,7 +687,7 @@
 </S>
 <S id="MUSHROOMS_S102">
 	<AUDIO start="570.073" end="572.877"/>
-	<FORM kindOf="phono">ə, | tʰi˩˥, | "no˧ | ʂɯ˧-ɬi˧mi˧ mo˧ɖʐv̩˥-ne˩-ʝi˩-zo˩, | no˧=ɻ̍˩-dʑo˩!" | pi˧-zo˩. |</FORM>
+	<FORM kindOf="phono">ə, | tʰi˩˥, | "no˧ | ʂɯ˧-ɬi˧mi˧ mo˧ɖʐv̩˥-ne˩-ʝi˩-zo˩, | no˧=ɻ̩˩-dʑo˩!" | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "La syllabe /-ʝi˩/ est particulièrement discrète: cas de réduction qui pourrait facilement se prêter à une réinterprétation à la génération suivante, si la langue continuait d'être transmise."/>
 	<NOTE xml:lang="fr" message = "d'abord noté /‡mo˧ɖʐo˥/."/>
 	<TRANSL xml:lang="fr">Alors… on disait: "Vous… vous autres, vous êtes (nombreux/fertiles) comme les morilles au septième mois!"</TRANSL>
@@ -763,7 +763,7 @@
 </S>
 <S id="MUSHROOMS_S113">
 	<AUDIO start="624.083" end="629.447"/>
-	<FORM kindOf="phono">njæ˧=ɻ̍˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | mo˧ ɖʐɤ˥-bi˩-dʑo˩, | mo˧kɤ˩-dzi˩-ʈʰæ˩ko˩ pi˩-zo˩… | no˧ | mo˧kɤ˩-si˩dzi˩, | ə˧-sɯ˥? |</FORM>
+	<FORM kindOf="phono">njæ˧=ɻ̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | mo˧ ɖʐɤ˥-bi˩-dʑo˩, | mo˧kɤ˩-dzi˩-ʈʰæ˩ko˩ pi˩-zo˩… | no˧ | mo˧kɤ˩-si˩dzi˩, | ə˧-sɯ˥? |</FORM>
 	<TRANSL xml:lang="fr">Nous autres, autrefois, quand on cueillait des champignons, ceux qui étaient sous des azalées, eh bien… Les plants d'azalées, tu connais?</TRANSL>
 	<TRANSL xml:lang="zh">以前，我们去采菌子，长在杜鹃花下面呢……你知道杜鹃花是什么吗？</TRANSL>
 </S>
@@ -789,7 +789,7 @@
 </S>
 <S id="MUSHROOMS_S117">
 	<AUDIO start="638.711" end="643.634"/>
-	<FORM kindOf="phono">ə˧tso˧, | zo˩no˥ | ʈʂʰɯ˧ne˧-ʝi˥, | le˧-ɖʐɤ˧˥, | tɕʰi˧-hĩ˧, | ʈʰææ̃˧, | tʰv̩˧=ɻæ˧-qo˥, | le˧-ɖʐɤ˧˥, | tɕʰi˧ ʝi˧-ɻ̍˥! ◊ ə˩-gi˩! | tʰi˩˥, | hĩ˧ F | mɤ˧-dv̩˩! |</FORM>
+	<FORM kindOf="phono">ə˧tso˧, | zo˩no˥ | ʈʂʰɯ˧ne˧-ʝi˥, | le˧-ɖʐɤ˧˥, | tɕʰi˧-hĩ˧, | ʈʰææ̃˧, | tʰv̩˧=ɻæ˧-qo˥, | le˧-ɖʐɤ˧˥, | tɕʰi˧ ʝi˧-ɻ̩˥! ◊ ə˩-gi˩! | tʰi˩˥, | hĩ˧ F | mɤ˧-dv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/tʰv̩˧=ɻæ˧-qo˥/: réalisé proche de [ʈʰææ̃˧-qo˥]"/>
 	<TRANSL xml:lang="fr">Eh bien… maintenant… c'est comme ça: on les cueille, pour les vendre; ces gens-là, dans ces endroits-là (=dans les endroits que la tradition dit abriter des champignons vénéneux), ils les cueillent, et s'en vont les vendre (sans bien considérer de quels champignons il s'agit au juste)! Et ça n'empoisonne pas les gens! (Autrement dit: aujourd'hui, il se trouve des gens pour contrevenir à ce précepte; et ça n'empoisonne pas les gens pour autant; ce qui signifie que le précepte n'était peut-être guère fondé.)</TRANSL>
 	<TRANSL xml:lang="zh">那么，现在，是这样，（有人）在这些地方采（菌子）去卖！是吧！那么……（吃的）人（还是）不中毒（说明过去的禁止不一定有道理）。</TRANSL>
@@ -821,7 +821,7 @@
 </S>
 <S id="MUSHROOMS_S122">
 	<AUDIO start="663.536" end="670.668"/>
-	<FORM kindOf="phono">tɕɤ˧qʰɑ˧-mo˩, | kʰwɤ˧pʰv̩˧-mo˧ pi˥-hĩ˩-tʰv̩˩, | kʰwɤ˧pʰv̩˧-lɑ˧ tɕɤ˧qʰɑ˧ | tʰi˧-di˥-hĩ˩ tʰv̩˩-qo˩-dʑo˩, | mo˧-ʈʂʰɯ˥ | ɖɯ˧-ʈɻ̍˩~ɖɯ˩ʈɻ̍˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-di˩-kv̩˩-mv̩˩! |</FORM>
+	<FORM kindOf="phono">tɕɤ˧qʰɑ˧-mo˩, | kʰwɤ˧pʰv̩˧-mo˧ pi˥-hĩ˩-tʰv̩˩, | kʰwɤ˧pʰv̩˧-lɑ˧ tɕɤ˧qʰɑ˧ | tʰi˧-di˥-hĩ˩ tʰv̩˩-qo˩-dʑo˩, | mo˧-ʈʂʰɯ˥ | ɖɯ˧-ʈɻ̩˩~ɖɯ˩ʈɻ̩˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-di˩-kv̩˩-mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Le champignon de l'armoise, le champignon des prés… là où il y a des prés, et de l'armoise, les champignons, ils poussent par paquets entiers, comme ça!</TRANSL>
 	<TRANSL xml:lang="zh">蒿枝菌（注：长在蒿附近的一种菌子）、“草坪菌”（四孢蘑菇）……在有蒿的地方、在草坪上，它们长得紧紧的，一大片一大片的！</TRANSL>
 </S>
@@ -882,7 +882,7 @@
 </S>
 <S id="MUSHROOMS_S132">
 	<AUDIO start="705.654" end="709.045"/>
-	<FORM kindOf="phono">njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩=ɻ̍˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | mɤ˧-ɳv̩˥, | mo˧-ɳɯ˥ | dv̩˩-ɲi˥-tsɯ˩-mv̩˩. |</FORM>
+	<FORM kindOf="phono">njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩=ɻ̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | mɤ˧-ɳv̩˥, | mo˧-ɳɯ˥ | dv̩˩-ɲi˥-tsɯ˩-mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">Nous autres, toute la famille, autrefois, on était pas bien informé; il arrivait qu'on s'empoisonne avec des champignons. </TRANSL>
 	<TRANSL xml:lang="zh">我们一家人，在以前，没有很多信息，（于是）会吃菌子中毒。</TRANSL>
 </S>
@@ -894,7 +894,7 @@
 </S>
 <S id="MUSHROOMS_S134">
 	<AUDIO start="720.271" end="728.387"/>
-	<FORM kindOf="phono">ĩ˧! | tʰi˩˥, | hĩ˧-ʈʂʰɯ˧, | zo˩no˥, | ɖɯ˧-ʑi˩=ɻ̍˩-pi˩, | ʝi˧-bi˧-di˧ mɤ˧-di˥! | tɕʰi˧sɯ˧ pɤ˧ pi˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | dʑɯ˧ | ɖɯ˧-ʁo˩ dʑo˩-kv̩˩-mæ˩! |</FORM>
+	<FORM kindOf="phono">ĩ˧! | tʰi˩˥, | hĩ˧-ʈʂʰɯ˧, | zo˩no˥, | ɖɯ˧-ʑi˩=ɻ̩˩-pi˩, | ʝi˧-bi˧-di˧ mɤ˧-di˥! | tɕʰi˧sɯ˧ pɤ˧ pi˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | dʑɯ˧ | ɖɯ˧-ʁo˩ dʑo˩-kv̩˩-mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">Eh oui! Alors, la personne, eh bien, toute la famille, ils étaient démunis / ils ne pouvaient rien faire! Alors, comme ils étaient dans l'affliction… autrefois, il y avait une sorte de liquide!</TRANSL>
 	<TRANSL xml:lang="zh">是的！那么，人呢，全家都没有办法了！没办法的话……以前，有一种液体（来治这样的病）！</TRANSL>
 </S>
@@ -1061,7 +1061,7 @@
 </S>
 <S id="MUSHROOMS_S159">
 	<AUDIO start="842.838" end="846.884"/>
-	<FORM kindOf="phono">"ə˧mi˧! | njɤ˧=ɻ̍˩, | zo˧mv̩˥ | tsʰe˧-mɤ˧-tʰv̩˧-sɯ˩-ɲi˩! | tʰv̩˧-kʰwɤ˥-dʑo˩, | tʰi˧-tɕɯ˥-zo˩-kv̩˩!" | pi˧-zo˩,</FORM>
+	<FORM kindOf="phono">"ə˧mi˧! | njɤ˧=ɻ̩˩, | zo˧mv̩˥ | tsʰe˧-mɤ˧-tʰv̩˧-sɯ˩-ɲi˩! | tʰv̩˧-kʰwɤ˥-dʑo˩, | tʰi˧-tɕɯ˥-zo˩-kv̩˩!" | pi˧-zo˩,</FORM>
 	<TRANSL xml:lang="fr">"Houlà! Nous, notre enfant, il n'a pas encore eu la rougeole / il n'a pas encore fait sa rougeole! Ce morceau (de racine de ce champignon), conservons-le!"</TRANSL>
 	<TRANSL xml:lang="zh">“诶呀！我们家孩子还没得过麻疹！这块（青冈树上的菌子的根），要存家里！</TRANSL>
 </S>

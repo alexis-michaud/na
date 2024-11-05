@@ -6,9 +6,9 @@
 	</HEADER>
 	<S id="HealingS001">
 		<AUDIO start="1.4199" end="9.7744"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, ◊ ə˩-gi˩! | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-ʑi˩=ɻ̍˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧-ʈʂʰɯ˧ | le˧-go˩, | le˧-go˩, | le˧-go˩, | &lt;le˧…&gt; le˧-go˩-dʑo˩, | tʰi˩˥, | kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, ◊ ə˩-gi˩! | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-ʑi˩=ɻ̩˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧-ʈʂʰɯ˧ | le˧-go˩, | le˧-go˩, | le˧-go˩, | &lt;le˧…&gt; le˧-go˩-dʑo˩, | tʰi˩˥, | kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr"
-			message="d'abord noté /‡ɖɯ˧-ʑi˩=ɻ̍˩ | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
+			message="d'abord noté /‡ɖɯ˧-ʑi˩=ɻ̩˩ | ʈʂʰɯ˧-dʑo˩/ (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">Autrefois, n'est-ce pas! Dans une famille, quand quelqu'un souffrait,
 			souffrait, souffrait, on ne pouvait rien faire! / on n'avait pas de solution!</TRANSL>
 	</S>
@@ -34,7 +34,7 @@
 	<S id="HealingS004">
 		<AUDIO start="19.1579" end="22.6477"/>
 		<FORM>"ɬo˧kʰv̩˧ qæ˧-ɲi˥!" | pi˧-zo˩, | "ʈʂʰɯ˧-qo˧ | ɖɯ˧-kʰwɤ˧-hĩ˧-ʈʂʰɯ˧!" |
-			tsɤ˩-pʰv̩˧-tsɤ˥-li˩-ɻ̍˩, | go˩-kv̩˩-tsɯ˥ | mv̩˩! | tʰi˩˥, |</FORM>
+			tsɤ˩-pʰv̩˧-tsɤ˥-li˩-ɻ̩˩, | go˩-kv̩˩-tsɯ˥ | mv̩˩! | tʰi˩˥, |</FORM>
 		<NOTE xml:lang="fr" message="vérifié: n'est pas | qæ˧-ɲi˥-pi˩-zo˩ | "/>
 		<NOTE xml:lang="fr" message="/ɖɯ˧-kʰwɤ˧-hĩ˧-ʈʂʰɯ˧ | /: tons vérifiés"/>
 		<TRANSL xml:lang="fr">"Il a mal à la hanche!" on disait, "à cet endroit-là!" [La personne
@@ -57,8 +57,8 @@
 	</S>
 	<S id="HealingS007">
 		<AUDIO start="27.8824" end="29.5102"/>
-		<FORM>kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | le˧-ɻ̍̃˧-zo˥! |</FORM>
-		<NOTE xml:lang="fr" message="de: le˧-ɻ̍̃˥"/>
+		<FORM>kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ɲi˥-tsɯ˩ ◊ -mv̩˩, | le˧-ɻ̩̃˧-zo˥! |</FORM>
+		<NOTE xml:lang="fr" message="de: le˧-ɻ̩̃˥"/>
 		<TRANSL xml:lang="fr">On n'avait aucune solution, on était démuni!</TRANSL>
 	</S>
 	<S id="HealingS008">
@@ -85,7 +85,7 @@
 	</S>
 	<S id="HealingS012">
 		<AUDIO start="38.2864" end="45.0180"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥-ʝi˩-dʑo˩, | le˧-ɻ̍̃˧-zo˥! | le˧-ɻ̍̃˧-zo˥! | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | ɲi˧mi˧
+		<FORM>ə˧ʝi˧-ʂɯ˥-ʝi˩-dʑo˩, | le˧-ɻ̩̃˧-zo˥! | le˧-ɻ̩̃˧-zo˥! | ɖɯ˧-ʑi˩=ɻ̩˩-dʑo˩, | ɲi˧mi˧
 			ʈʂʰɯ˧-qʰɑ˧-ʂæ˧~ʂæ˧-hĩ˧, | hĩ˧-ʈʂʰɯ˧ | go˩-tsɯ˥ | mv̩˩! |</FORM>
 		<TRANSL xml:lang="fr">Autrefois, on était démuni! Démuni! Dans une famille, (tout au long
 			de) la longue journée, le malade (littéralement: la personne) souffrait!</TRANSL>
@@ -112,7 +112,7 @@
 	<S id="HealingS016">
 		<AUDIO start="58.4528" end="62.7598"/>
 		<FORM>wɤ˩˥, | ʈæ˧bɤ˧ | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, |
-			wɤ˩˥, | ɲi˧-ɲi˧-hĩ˧-ʈʂʰɯ˧, | ɖɯ˧-qʰwɤ˧-ɻ̍˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+			wɤ˩˥, | ɲi˧-ɲi˧-hĩ˧-ʈʂʰɯ˧, | ɖɯ˧-qʰwɤ˧-ɻ̩˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: ɲi˧-ɲi˥ 'deux jours' donne ɲi˧-ɲi˧-hĩ˧-ʈʂʰɯ˧"/>
 		<TRANSL xml:lang="fr">Les moines lisaient, lisaient, lisaient, lisaient, lisaient; en deux
 			jours, la guérison venait (littéralement "ça pouvait guérir en deux jours").</TRANSL>
@@ -128,7 +128,7 @@
 	<S id="HealingS018">
 		<AUDIO start="70.2287" end="78.6085"/>
 		<FORM>ʈæ˧bɤ˧ ʁɑ˧ʂe˩, | ʈæ˧bɤ˧ ʁɑ˧ʂe˩-dʑo˩ | tʰi˩˥, | gi˩˥, | gi˩˥, | tʰi˩˥ ◊ -dʑo˩… |
-			le˧-qʰwɤ˧-tsɯ˥ | mv̩˩! | ʈʂʰɯ˧ ʑi˧=ɻ̍˥-dʑo˩! |</FORM>
+			le˧-qʰwɤ˧-tsɯ˥ | mv̩˩! | ʈʂʰɯ˧ ʑi˧=ɻ̩˥-dʑo˩! |</FORM>
 		<TRANSL xml:lang="fr">On faisait venir le moine; quand on faisait venir le moine, eh bien,
 			réellement… on dit que [le malade] guérissait! [dans] cette famille-là!</TRANSL>
 	</S>
@@ -148,7 +148,7 @@
 	</S>
 	<S id="HealingS021">
 		<AUDIO start="87.8210" end="92.0109"/>
-		<FORM>əəə… ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩-dʑo˩ | tʰi˩˥, | hĩ˧ ʈʂʰɯ˧-ʑi˧=ɻ̍˥-dʑo˩, |
+		<FORM>əəə… ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩-dʑo˩ | tʰi˩˥, | hĩ˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˥-dʑo˩, |
 			le˧-qʰwɤ˧-ze˧-tsɯ˧˥ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr"
 			message="avais d'abord noté /‡le˧-qʰwɤ˧-ze˧-tsɯ˥ | mv̩˩ |/, par habitude de noter tsɯ˥; vérifiant tous les /tsɯ/ après m'être aperçu (d'après son comportement après les verbes isolés) que le ton de ce morphème est MH, réalise que c'est ici MH."/>
@@ -159,7 +159,7 @@
 	</S>
 	<S id="HealingS022">
 		<AUDIO start="93.0258" end="97.9314"/>
-		<FORM>tʰi˩˥, | le˧-qʰwɤ˧, | le˧-qʰwɤ˧-dʑo˩ | tʰi˩˥, | wɤ˩˥ | ɖɯ˧-ʑi˩=ɻ̍˩ | go˩-tsɯ˥ | mv̩˩, |
+		<FORM>tʰi˩˥, | le˧-qʰwɤ˧, | le˧-qʰwɤ˧-dʑo˩ | tʰi˩˥, | wɤ˩˥ | ɖɯ˧-ʑi˩=ɻ̩˩ | go˩-tsɯ˥ | mv̩˩, |
 			ɖɯ˧-ʁwɤ˧-qo˧! |</FORM>
 		<TRANSL xml:lang="fr">Après, lorsqu'ils étaient guéris, il y avait une autre famille
 			(littéralement: "il y a à nouveau une famille") qui tombait malade, dans le
@@ -167,12 +167,12 @@
 	</S>
 	<S id="HealingS023">
 		<AUDIO start="98.5429" end="103.0191"/>
-		<FORM>"ə˧mi˧! | no˧=ɻ̍˩ | ə˧tse˧ ɲi˥? | no˧=ɻ̍˩-dʑo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-qʰwɤ˧-ze˧! |</FORM>
+		<FORM>"ə˧mi˧! | no˧=ɻ̩˩ | ə˧tse˧ ɲi˥? | no˧=ɻ̩˩-dʑo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-qʰwɤ˧-ze˧! |</FORM>
 		<TRANSL xml:lang="fr">"Hélas! Comment ça se fait? Vous, vous voilà ainsi guéris!</TRANSL>
 	</S>
 	<S id="HealingS024">
 		<AUDIO start="103.0191" end="108.3150"/>
-		<FORM>njɤ˧-dʑo˥ | ɖɯ˧-zɯ˧ | ɖɯ˧-ʈʂʰæ˧˥ | le˧-go˩-zo˩, | le˧-qʰwɤ˧ mɤ˧-tʰɑ˧-ɻ̍˥! | qʰɑ˩ne˩˥ |
+		<FORM>njɤ˧-dʑo˥ | ɖɯ˧-zɯ˧ | ɖɯ˧-ʈʂʰæ˧˥ | le˧-go˩-zo˩, | le˧-qʰwɤ˧ mɤ˧-tʰɑ˧-ɻ̩˥! | qʰɑ˩ne˩˥ |
 			tso˧-ɲi˩?" |</FORM>
 		<TRANSL xml:lang="fr">Moi, toute ma vie, toute ma génération, on est souffrant / on est
 			condamné à la souffrance, on n'arrive pas à guérir! Qu'est-ce qu'on doit faire?</TRANSL>
@@ -202,7 +202,7 @@
 	</S>
 	<S id="HealingS028">
 		<AUDIO start="122.3029" end="130.7217"/>
-		<FORM>tʰi˩˥, | dɑ˧pɤ˧-ɳɯ˧ | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧-dʑo˥, | "no˧=ɻ̍˩-dʑo˩, | ʑi˧qʰwɤ˧ | tʰi˧-dzi˩-hĩ˩ | tʰv̩˧-kʰwɤ˧-qo˩, | ɖɯ˧-pi˧˥ | mɤ˧-dʑɤ˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<FORM>tʰi˩˥, | dɑ˧pɤ˧-ɳɯ˧ | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧, | le˧-ʈʂʰo˧-dʑo˥, | "no˧=ɻ̩˩-dʑo˩, | ʑi˧qʰwɤ˧ | tʰi˧-dzi˩-hĩ˩ | tʰv̩˧-kʰwɤ˧-qo˩, | ɖɯ˧-pi˧˥ | mɤ˧-dʑɤ˩!" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<TRANSL xml:lang="fr">Alors le prêtre dɑ˧pɤ˧ récitait, récitait, récitait [les rituels]; et
 			il disait: "Votre famille/ vous autres… la demeure où vous habitez, elle est située à
 			un endroit qui n'est pas bon (littéralement "un peu mauvais")! </TRANSL>
@@ -252,7 +252,7 @@
 	<S id="HealingS036">
 		<AUDIO start="156.4725" end="161.6123"/>
 		<FORM>&lt;le…&gt; dɑ˧pɤ˧-ɳɯ˧ | le˧-pv̩˧, | le˧-pv̩˧, | le˧-pv̩˧, | le˧-pv̩˧, |
-			le˧-pv̩˧-dʑo˥, | sɯ˩tʰi˩ tʰv̩˩-nɑ˥ | le˧-ʑi˩-ɻ̍˩! |</FORM>
+			le˧-pv̩˧-dʑo˥, | sɯ˩tʰi˩ tʰv̩˩-nɑ˥ | le˧-ʑi˩-ɻ̩˩! |</FORM>
 		<NOTE xml:lang="fr" message="pv: faire un sacrifice"/>
 		<TRANSL xml:lang="fr">Le prêtre officiait, officiait, officiait, officiait, officiait; il
 			prenait le couteau! / il se saisissait du couteau!</TRANSL>
@@ -278,9 +278,9 @@
 	</S>
 	<S id="HealingS039">
 		<AUDIO start="171.9829" end="182.0282"/>
-		<FORM>ɖɯ˧-so˩ ʂɯ˩ ʝi˩-dʑo˩, | ʈʂʰɯ˧-ʑi˧=ɻ̍˥, | ə˧mi˧ ʈʂʰɯ˧-jɤ˩-dʑo˩, | ʈʰææ̃˧ | ʈʂʰɯ˧ne˧-ʝi˥ |
-			tʰi˧-ʑi˧˥, | gɯ˩˥ | mɤ˧-qʰwɤ˧, | dɑ˧pɤ˧-ʈʂʰɯ˧ | ʈʂʰo˧-hɯ˧-ʈʂʰo˧-ɻ̍˥, |
-			ʈʂʰo˧-hɯ˧-ʈʂʰo˧-ɻ̍˥, | njɤ˩ɭɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-hɑ˩, | ɖɯ˧-hɑ˩, | ɖɯ˧-hɑ˩-ɻ̍˩, |
+		<FORM>ɖɯ˧-so˩ ʂɯ˩ ʝi˩-dʑo˩, | ʈʂʰɯ˧-ʑi˧=ɻ̩˥, | ə˧mi˧ ʈʂʰɯ˧-jɤ˩-dʑo˩, | ʈʰææ̃˧ | ʈʂʰɯ˧ne˧-ʝi˥ |
+			tʰi˧-ʑi˧˥, | gɯ˩˥ | mɤ˧-qʰwɤ˧, | dɑ˧pɤ˧-ʈʂʰɯ˧ | ʈʂʰo˧-hɯ˧-ʈʂʰo˧-ɻ̩˥, |
+			ʈʂʰo˧-hɯ˧-ʈʂʰo˧-ɻ̩˥, | njɤ˩ɭɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-hɑ˩, | ɖɯ˧-hɑ˩, | ɖɯ˧-hɑ˩-ɻ̩˩, |
 			ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-tsɯ˥ | mv̩˩. |</FORM>
 		<NOTE xml:lang="fr"
 			message="Explication: le malade se tenait les yeux fermés; lorsqu'il sentait la guérison venir, il rouvrait les yeux petit à petit."/>
@@ -292,7 +292,7 @@
 	</S>
 	<S id="HealingS040">
 		<AUDIO start="182.8089" end="190.0957"/>
-		<FORM>le˧-qʰwɤ˧ | ʈʂʰɯ˧-gi˧˥ | ɖɯ˧-ʈʂæ˧ gv̩˧-dʑo˩, | tʰi˩˥, | ɖɯ˧-ɲi˥… | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | hɑ˧-ʈʂʰɯ˧, | zo˩no˧-ni˩, | ə˧tso˧ fv̩˧-ɻ̍˧, | mɤ˧-dʑo˧-ɲi˥-mæ˩, ◊ ə˩-gi˩! |</FORM>
+		<FORM>le˧-qʰwɤ˧ | ʈʂʰɯ˧-gi˧˥ | ɖɯ˧-ʈʂæ˧ gv̩˧-dʑo˩, | tʰi˩˥, | ɖɯ˧-ɲi˥… | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | hɑ˧-ʈʂʰɯ˧, | zo˩no˧-ni˩, | ə˧tso˧ fv̩˧-ɻ̩˧, | mɤ˧-dʑo˧-ɲi˥-mæ˩, ◊ ə˩-gi˩! |</FORM>
 		<TRANSL xml:lang="fr">Un certain temps après cette guérison partielle, eh bien… Un jour…
 			Autrefois, la nourriture… il n'y avait pas tout ce qu'on veut, comme
 			maintenant!</TRANSL>
@@ -334,7 +334,7 @@
 	</S>
 	<S id="HealingS046">
 		<AUDIO start="209.8832" end="211.1150"/>
-		<FORM>wɤ˩˥ | njɤ˩ɭɯ˧ | ɖɯ˧-hɑ˩-ɻ̍˩. |</FORM>
+		<FORM>wɤ˩˥ | njɤ˩ɭɯ˧ | ɖɯ˧-hɑ˩-ɻ̩˩. |</FORM>
 		<TRANSL xml:lang="fr">(La locutrice referme la parenthèse, et revient au cas de la malade
 			affectée d'une maladie grave/chronique.) Alors, [le patient] ouvre les yeux.</TRANSL>
 	</S>
@@ -348,7 +348,7 @@
 	</S>
 	<S id="HealingS048">
 		<AUDIO start="217.5343" end="223.1903"/>
-		<FORM>tʰi˩˥, | le˧-qʰwɤ˧-dʑo˥, | tʰi˩˥, | dɑ˧pɤ˧ | tʰv̩˧-v̩˧-ɳɯ˩: | "no˧=ɻ̍˩-dʑo˩, hĩ˧-dʑo˩ | le˧-qʰwɤ˧ ʝi˧-ze˧! |</FORM>
+		<FORM>tʰi˩˥, | le˧-qʰwɤ˧-dʑo˥, | tʰi˩˥, | dɑ˧pɤ˧ | tʰv̩˧-v̩˧-ɳɯ˩: | "no˧=ɻ̩˩-dʑo˩, hĩ˧-dʑo˩ | le˧-qʰwɤ˧ ʝi˧-ze˧! |</FORM>
 		<TRANSL xml:lang="fr">Pour ce qui est de la guérison… Le prêtre dɑ˧pɤ˧ disait: "Vous
 			autres, les personnes, elles sont guéries!</TRANSL>
 	</S>
@@ -362,7 +362,7 @@
 	</S>
 	<S id="HealingS050">
 		<AUDIO start="225.7395" end="229.3173"/>
-		<FORM>tʰi˩˥, | "no˧=ɻ̍˩ | pæ˧-wo˧-ho˥!" | pi˧, | "ə˧-dzɤ˥ | le˧-pæ˥!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩.
+		<FORM>tʰi˩˥, | "no˧=ɻ̩˩ | pæ˧-wo˧-ho˥!" | pi˧, | "ə˧-dzɤ˥ | le˧-pæ˥!" | pi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩.
 			|</FORM>
 		<NOTE xml:lang="fr" message="on peut dire: ə˧-dzɤ˥, ou ə˧-dzɤ˧-dzɤ˥."/>
 		<TRANSL xml:lang="fr">"Vous devez déménager!" dit-il; "préparez-vous à déménager!"
@@ -439,8 +439,8 @@
 	</S>
 	<S id="HealingS059">
 		<AUDIO start="277.6388" end="281.6896"/>
-		<FORM>ʝi˧lv̩˧-bv̩˥ | ʈʂʰɻ̍˧ | ʈʰææ̃˧… | le˧-ʑi˩, | qwɤ˧-qo˧ | tʰi˧-qæ˧˥ ◊ -dʑo˩, ◊ ə˩-gi˩! |</FORM>
-		<NOTE xml:lang="fr" message="/qwɤ˧/: 'âtre, foyer'; /ʈʂʰɻ̍˧/: soc"/>
+		<FORM>ʝi˧lv̩˧-bv̩˥ | ʈʂʰɻ̩˧ | ʈʰææ̃˧… | le˧-ʑi˩, | qwɤ˧-qo˧ | tʰi˧-qæ˧˥ ◊ -dʑo˩, ◊ ə˩-gi˩! |</FORM>
+		<NOTE xml:lang="fr" message="/qwɤ˧/: 'âtre, foyer'; /ʈʂʰɻ̩˧/: soc"/>
 		<TRANSL xml:lang="fr">Vrai de vrai, on prend le soc de charrue qui sert à labourer, on le
 			chauffe au feu (littéralement: "on le brûle dans le foyer"), </TRANSL>
 	</S>
@@ -453,7 +453,7 @@
 	</S>
 	<S id="HealingS061">
 		<AUDIO start="285.5142" end="288.3929"/>
-		<FORM>lo˩qʰwɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʈʂʰɻ̍˧-bi˥-dʑo˩, | ɖɯ˧-sɑ˥ | gv̩˧-mɤ˧-kv̩˧˥! |</FORM>
+		<FORM>lo˩qʰwɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-ʈʂʰɻ̩˧-bi˥-dʑo˩, | ɖɯ˧-sɑ˥ | gv̩˧-mɤ˧-kv̩˧˥! |</FORM>
 		<TRANSL xml:lang="fr">Avec la main, il empoigne (le fer brûlant) comme ça, et ça ne lui fait
 			rien du tout! / et ça ne le brûle pas!</TRANSL>
 	</S>
@@ -604,7 +604,7 @@
 	</S>
 	<S id="HealingS081">
 		<AUDIO start="362.2496" end="368.4856"/>
-		<FORM>ɖɯ˧-ʑi˩=ɻ̍˩, | ʈʰææ̃˧, | ʈʰææ̃˧, | tʰi˩˥, | ɖɯ˧-v̩˧ | le˧-qʰwɤ˧, | ɖɯ˧-v̩˧ | le˧-go˩;
+		<FORM>ɖɯ˧-ʑi˩=ɻ̩˩, | ʈʰææ̃˧, | ʈʰææ̃˧, | tʰi˩˥, | ɖɯ˧-v̩˧ | le˧-qʰwɤ˧, | ɖɯ˧-v̩˧ | le˧-go˩;
 			| ɖɯ˧-v̩˧ | le˧-qʰwɤ˧, | ɖɯ˧-v̩˧ | le˧-go˩; | ə˧tso˧ go˩-ɲi˩, | mɤ˧-sɯ˥! |</FORM>
 		<TRANSL xml:lang="fr">Dans une famille, vrai de vrai, il y en avait un qui allait bien, un
 			qui allait mal; un qui allait bien, un qui allait mal; de quelle maladie il s'agissait,
