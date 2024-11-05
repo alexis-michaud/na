@@ -68331,13 +68331,18 @@
 \ton MH
 \lc tsʰɑ˧tɕɤ˧˥
 \so F4
-\de Seedlings.
+\de Seedlings, young shoots (used as a dish). They are picked here and there in the fields to eat. They are not sown: they are local plants that grow spontaneously. Young shoots, turnips (and their leaves) and wild radish, yeq /|fv{jɤ˧˥}/, made up the bulk of the vegetables in Na cuisine (in which their presence was most discrete).
 \ge seedlings
-\dn 青菜幼苗
-\gn 青菜幼苗
-\df Jeunes pousses, petites pousses qu'on récolte pour les manger.
+\dn 幼苗：三种传统食用蔬菜之一。其它两种为员根与红萝卜菜（一种山上的野菜）。
+\gn 幼苗
+\df Jeunes pousses, qu'on récolte ici et là dans les champs pour les manger. Elles ne sont pas semées: il s'agit de plantes locales, qui poussent spontanément. Les jeunes pousses constituaient, avec le navet (et ses feuilles) et le radis sauvage, yeq /|fv{jɤ˧˥}/, l'essentiel des légumes de la cuisine na (qui ne faisait pas grand usage des légumes verts).
 \gf jeunes_pousses
-\dt 08/Oct/2015
+\xv v̩˩tsʰɤ˧˥ | tsʰɑ˧tɕɤ˧-pi˥ | lv̩˧-qo˧ gɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩ʑi˥-hĩ˩ | ɖɯ˧-ʁo˩ dʑo˩-kv̩˩!
+\xe There's a type of vegetable called ‘young shoots’ that grows just like that, in the fields! [They grew spontaneously.]
+\xn 有一种蔬菜叫做‘幼苗’，长在田野里！(它们是自然生长的）。
+\xf En fait de légumes, il y en a une sorte, qu'on appelle ‘jeunes pousses’, qui pousse comme ça, dans les champs! [On ne les semait pas, elles poussaient spontanément.]
+\txt FoodShortage.88
+\doi 10.24397/pangloss-0004558#S88
 
 \lx ʈʂæ˧ʈʂɯ˧
 \or zhaezhi
