@@ -9514,7 +9514,6 @@
 \df Argent (avoir de l'argent).
 \gf argent
 
-
 \lx kɤ˧sɑ˥$
 \or Gesa
 \ps n
@@ -32058,13 +32057,12 @@
 \ton H#
 \so F4
 \pdv po˧
-\de Asiatic plantain.
+\de Asiatic plantain, |fi{Plantago asiatica}. Also know as Chinese plantain, obako.
 \ge Asiatic_plantain
 \dn 车前草
 \gn 车前草
-\df Plantain (utilisé par les Na pour ses vertus médicinales; est abondant à Yongning).
+\df Plantain, |fi{Plantago asiatica}. Cette plante, abondante à Yongning, est utilisée par les Na pour ses vertus médicinales.
 \gf plantain
-\dt 24/Apr/2017
 
 \lx ɬi˩zo˩
 \or lhisso
@@ -37342,6 +37340,8 @@
 \xe The pass of Mount Muddee (Mudiqing), in Yongning
 \xn 木地箐垭口
 \xf Le col de la montagne Muddee de Yongning
+\txtsup Housebuilding2.357
+\doisup 10.24397/pangloss-0004550#S357
 
 \lx mv̩˧dze˧
 \sf <nb="B"> 1979b
