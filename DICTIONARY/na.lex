@@ -4403,13 +4403,12 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\de “Piggy-Sow": a term used as a temporary name for little girls, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
+\de “Piggy-Sow": a term used as a temporary name for baby girls, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
 \ge Piggy_Sow
-\dn 猪崽子（乳名、贱名：给刚出生的女孩起的名字，让鬼对她不感兴趣，不会来害小孩）
+\dn 猪崽子。乳名（贱名、护身名）：摩梭人（同汉族人）相信给新生儿取一个不好听或贬低的名字可以保护她们免受邪灵和疾病的侵害。名字越贬低，鬼怪就越会鄙视这个孩子，从而不去打扰他。
 \gn 猪崽子
-\df «Petite Truie»: nom employé pour les petites filles pendant leurs premiers mois, avant qu'on leur donne un vrai nom. Le vilain nom dont on l'affuble vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.).
+\df «Petite Truie»: terme utilisé comme nom temporaire pour les bébés de sexe féminin, pendant les premiers mois de leur vie, avant qu'elles ne reçoivent un vrai nom. La pratique consistant à affubler les nouveau-nés d'un nom temporaire désagréable ou dégradant vise à les protéger des mauvais esprits et du malheur. Cette pratique découle d'une croyance (partagée par d'autres groupes ethniques en Chine) selon laquelle, en donnant à un enfant un nom peu attrayant, on suscitera le dégoût des esprits malveillants et des démons, qui se détourneront de l'enfant. (L'état-civil nécessite qu'un nom soit donné dès la naissance, mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.) Cette coutume est connue en chinois comme «nom de protection».
 \gf Petite_Truie
-\dt 13/May/2017
 
 \lx bo˧ʐæ˧ʈæ˧qʰv̩#˥
 \sf <nb="2011"> 971
@@ -13943,17 +13942,17 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
+\nt <dom="sem" langue="fra" type="hist" print="n"> Avant 2024, traduit en chinois comme 鹳 guàn 'cigogne' (eng: `stork'), identification erronée puisque la cigogne a généralement un comportement migratoire. Reste à déterminer s'il s'agit du héron ou de l'aigrette (chinois: 白鹭 báilù, anglais: `egret').
 \ton #H-
 \lc ɖʐv̩˧nɑ˥mi˩
 \so F4
 \pdv mi˩
-\de Heron.
+\de Heron, a non-migratory bird.
 \ge heron
-\dn 鹳
-\gn 鹳
+\dn 鹭鸶，是鹳形目鹭科的鸟类，具有长嘴、长颈、长脚的外形。
+\gn 鹭鸶
 \df Héron: oiseau échassier, non migrateur.
 \gf héron
-\dt 27/Aug/2015
 
 \lx ɖʐv̩˧qʰɑ˧
 \sf <nb="2011"> 29
@@ -15552,7 +15551,7 @@
 \gf Abeddee
 \xv ə˧pɤ˧-ɖɯ˩ pi˩-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩; | ə˧pɤ˧-ɖɯ˩-ɳɯ˩ | le˧-tsʰi˧-ɲi˥! | pi˧-zo˩.
 \xo Abeddee bi sso, eyishei; Abeddee nee lecee niq!
-\xn 将寿命斩断的（神），从前称作大阿堡（即：“伟大的阿贝[神]”）！（生命结束时，是大阿堡切割人的生命）
+\xn 将寿命斩断的（神），从前称作阿包笃（即：“伟大的阿包[神]”）！（生命结束时，是阿包笃切割人的生命）
 \xe The one called Abeddee (ə˧pɤ˧-ɖɯ˩, i.e. `great [deity] Abe (/ə˧pɤ˧/), long, long ago, Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
 \xf On l'appelait Abeddee, `grande divinité Abe (/ə˧pɤ˧/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
 \txt Dog.51
@@ -54254,11 +54253,11 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv mi˩
-\de Crane, |fi{Grus nigricollis Przew} and similar species. It is a migratory bird.
+\de Crane: black-necked crane |fi{Grus nigricollis Przew} and similar species. It is a migratory bird, that migrates to lower altitude areas for winter and return to Yongning (a place of higher elevation) for summer breeding.
 \ge crane
-\dn 黑颈鹤（候鸟）
+\dn 黑颈鹤。是在云南越冬的候鸟。它们主要在青藏高原繁殖，冬季迁徙到云贵高原越冬。有一条主要的迁徙路线是从青海黄南州黄河沿岸湿地、果洛州希门措等区域繁殖地迁往云南昭通大山包越冬。
 \gn 黑颈鹤
-\df Grue, |fi{Grus nigricollis Przew} et autres espèces similaires. Il s'agit d'un oiseau migrateur.
+\df Grue, |fi{Grus nigricollis Przew} et autres espèces similaires. Il s'agit d'un oiseau migrateur, qui quitte Yongning l'hiver pour se rendre en plus basse altitude.
 \gf grue
 \xv ʁv̩˧nɑ˥mi˩
 \xe same meaning: crane
@@ -54274,7 +54273,6 @@
 \xn 买了黑颈鹤
 \xf …a acheté une grue
 \xc PHONO
-\dt 02/Oct/2015
 
 \lx ʁv̩˥
 \sf <nb="B"> 1165

@@ -841,7 +841,8 @@
 	<FORM kindOf="ortho">Zzhunami bi sso, aeggi! Zzhunami bi sso, ddeewo jjo guq zimu. Ddeewo jjo niq mae! Tee shuaemi sso!</FORM>
 	<TRANSL xml:lang="fr">Or il y avait une sorte de héron; il existait une espèce de héron! Grand comme ça!</TRANSL>
 	<TRANSL xml:lang="en">(There was a creature) called "heron", isn't that right?  There was type of (bird) called a heron. (It was) this big! </TRANSL>
-	<TRANSL xml:lang="zh">有一种（鸟）叫做鹳，对嘛？有这一种（鸟）！（它是）这么高的！</TRANSL>
+	<TRANSL xml:lang="zh">有一种（鸟）叫做鹭鸶，对嘛？有这一种（鸟）！（它是）这么高的！</TRANSL>
+	<NOTE xml:lang="fr" message="avant 2024: le nom de cet oiseau était noté à tort, en chinois, comme 鹳 guàn 'cigogne' (eng: `stork'), identification erronée puisque la cigogne a généralement un comportement migratoire. Reste à déterminer s'il s'agit du héron ou de l'aigrette (chinois: 白鹭 báilù, anglais: `egret')."/>
 		<W>
 			<FORM>ɖʐv̩˧-nɑ˥mi˩</FORM>
 			<TRANSL xml:lang="fr">héron</TRANSL>
@@ -939,7 +940,7 @@
 	<NOTE xml:lang="fr" message="avant septembre 2012: noté: /‡ɕjɤ˩tʰv̩˩-kv̩˥-mæ˩/"/>
 	<TRANSL xml:lang="fr">Un héron… "Toi, tu es comme un héron!/Toi, t'es un vrai héron!", voilà comment ils se moquaient [des gens très vieux], les anciens! (Explication: c'était une moquerie affectueuse adressée aux personnes entrées depuis longtemps déjà dans le troisième âge, et qui continuaient de vivre; la moquerie concernait à la fois la longévité et l'apparence physique des personnes décharnées par le grand âge.)</TRANSL>
 	<TRANSL xml:lang="en">The one called heron… "You are a heron", we tease old people like this.  [Affectionate teasing of old people as herons refers to both their longevity and their appearance.] </TRANSL>
-	<TRANSL xml:lang="zh">鹳呢……“你就像一只鹳！”我们老人嘲笑（老翁），就是这样嘲笑的（，说他们是只鹳：命长的没完、长得非常瘦了）！</TRANSL>
+	<TRANSL xml:lang="zh">鹭鸶呢……“你就像一只鹭鸶！”我们老人嘲笑（老翁），就是这样嘲笑的（，说他们是只鹭鸶：命长的没完、长得非常瘦了）！</TRANSL>
 		<W>
 			<FORM>ɖʐv̩˧-nɑ˥mi˩</FORM>
 			<TRANSL xml:lang="fr">héron</TRANSL>
@@ -1032,7 +1033,7 @@
 	<NOTE xml:lang="fr" message="tons vérifiés"/>
 	<TRANSL xml:lang="fr">Quand quelqu'un ne meurt pas (qu'il vit très longtemps), on le compare au héron! </TRANSL>
 	<TRANSL xml:lang="en">A person who can't die (i.e. has lived a long time) is referred to as a heron! </TRANSL>
-	<TRANSL xml:lang="zh">如果一个人不死（=很长寿），人家会把他叫做“鹳”！</TRANSL>
+	<TRANSL xml:lang="zh">如果一个人不死（=很长寿），人家会把他叫做“鹭鸶”！</TRANSL>
 		<W>
 			<FORM>le˧-</FORM>
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
@@ -1161,7 +1162,7 @@
 	<FORM kindOf="ortho">Tiq, zzhunami tee jjo, hinlae mexxingu niq zimu, eyishei. Teeni sso!</FORM>
 	<TRANSL xml:lang="fr">alors, les hérons, eux, eh bien, ils n'ont pas dormi (le jour où la longévité a été distribuée), au temps jadis. Ils écoutaient!</TRANSL>
 	<TRANSL xml:lang="en">Well, the heron, people say that it didn't sleep (on the day that lifespans were being allocated) long ago.  It was listening!</TRANSL>
-	<TRANSL xml:lang="zh">（在分配寿命的那天，）传说鹳们没有睡着，在从前。（它们一直）听着！（=一直等待分配寿命的神的呼喊）</TRANSL>
+	<TRANSL xml:lang="zh">（在分配寿命的那天，）传说鹭鸶们没有睡着，在从前。（它们一直）听着！（=一直等待分配寿命的神的呼喊）</TRANSL>
 		<W>
 			<FORM>tʰi˩˥</FORM>
 			<TRANSL xml:lang="fr">alors</TRANSL>
@@ -1367,7 +1368,7 @@
 	<NOTE xml:lang="fr" message="tv: ici: n'est pas ɖɯ˧ɕi˧-kʰv̩˧˥"/>
 	<TRANSL xml:lang="fr">il a obtenu cent ans!</TRANSL>
 	<TRANSL xml:lang="en">Now, it got (a lifespan of) one hundred years!</TRANSL>
-	<TRANSL xml:lang="zh">鹳就得了百岁（寿命）！</TRANSL>
+	<TRANSL xml:lang="zh">鹭鸶就得了百岁（寿命）！</TRANSL>
 		<W>
 			<FORM>zo˩no˧</FORM>
 			<TRANSL xml:lang="fr">maintenant/°phatique</TRANSL>
@@ -1458,7 +1459,7 @@
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʁv̩˩˥ | ʈʂʰɯ˧-dʑo˩/ (correction de juillet 2012)"/>
 	<TRANSL xml:lang="fr">Le héron, il a obtenu cent ans! La grue, elle a obtenu quatre-vingts ans!</TRANSL>
 	<TRANSL xml:lang="en">The heron got one hundred years.  The crane got eighty years.</TRANSL>
-	<TRANSL xml:lang="zh">鹳获得了百岁，黑颈鹤获得了八十岁（寿命）！</TRANSL>
+	<TRANSL xml:lang="zh">鹭鸶获得了百岁，黑颈鹤获得了八十岁（寿命）！</TRANSL>
 		<W>
 			<FORM>ɖʐv̩˧-nɑ˥mi˩</FORM>
 			<TRANSL xml:lang="fr">héron</TRANSL>
@@ -4945,8 +4946,8 @@ Nya asee teejie nee, tiq, kumi gi puddee yi ssogu bi sso! Kushi ddeeni taemi nee
 	<TRANSL xml:lang="zh">《人和狗交换寿命》（整篇整理翻译）
 	古时候……关于摩梭人和狗，有一个传说。摩梭人对狗是十分关爱尊敬的，而这种风俗的来历是，摩梭人的生命，是狗给的：狗和人交换了寿命！
 	古时候，有个神……他叫什么名字来着？达巴（注：摩梭宗教的宗教礼师，与藏传喇嘛教的和尚不同）讲的故事中有，但我忘记了！
-	那个神话传说是这样讲的：人的寿命，原来是不长的！其实这个故事，与摩梭人的成年礼风俗也有关系。从前，传说没有生命的年限。达巴仪式中提到的那个神，来分配寿命，他从半夜就开始，人虽然知道应该早早起来，可是到时候还是睡晚了！分配的寿命有一千年、一百年、九十年、八十年、七十年、六十年等等。那天，鹳一直等待分配寿命的神的呼喊，到时候它是最先来的。鹳是个子高高的那种鸟！在过去，取笑非常老的老翁，就是这样笑的：说“你是只鹳啊！”鹳是长寿象征，如果一个人很长寿，人家会把他叫做“鹳”！
-	哈，咱们回到主题吧！在从前，人与狗交换了寿命。在分配寿命的那天，鹳得了百岁寿命，黑颈鹤得了八十岁寿命。狗呢，传说它获得了六十岁。狗没有早早起来！而摩梭人呢，虽然（神）跟他说了不要睡着，他还是睡着了，一睡，就睡到早上！
+	那个神话传说是这样讲的：人的寿命，原来是不长的！其实这个故事，与摩梭人的成年礼风俗也有关系。从前，传说没有生命的年限。达巴仪式中提到的那个神，来分配寿命，他从半夜就开始，人虽然知道应该早早起来，可是到时候还是睡晚了！分配的寿命有一千年、一百年、九十年、八十年、七十年、六十年等等。那天，鹭鸶一直等待分配寿命的神的呼喊，到时候它是最先来的。鹭鸶是个子高高的那种鸟！在过去，取笑非常老的老翁，就是这样笑的：说“你是只鹭鸶啊！”鹭鸶是长寿象征，如果一个人很长寿，人家会把他叫做“鹭鸶”！
+	哈，咱们回到主题吧！在从前，人与狗交换了寿命。在分配寿命的那天，鹭鸶得了百岁寿命，黑颈鹤得了八十岁寿命。狗呢，传说它获得了六十岁。狗没有早早起来！而摩梭人呢，虽然（神）跟他说了不要睡着，他还是睡着了，一睡，就睡到早上！
 	最后，有一个摩梭人去问分配寿命的那个，跟他说：“我们跟狗交换一下寿命，行吗？感恩！我们生命有点太短了！请您跟狗说一下，让我们交换一下！”。分配寿命的那个，问了狗：“那样的话，你可以吗？”狗说：“可以的！”这样，狗和人交换了寿命。
 	传说人类原来只得到了十三年的寿命，所以到了十三岁那一年，在过年的时候，我们为小孩举行的“穿裙子、穿裤子”这个仪式的来历，就是因为我们的生命在从前只有十三年长。最后，跟狗交换了，狗只获得了十三岁的寿命！而我们摩梭人呢，生命延长到了六十岁！新年前夕那个晚上，人们不能先吃饭！要先给祖先供饭，摆一桌子的菜。第二，就轮到狗！那天给狗的饭，得有肉！鱼肉、鸡肉、猪肉、牛肉……那天晚上，人对狗是很尊重的！在人还没有开始吃饭的时候，先喂狗！喂给狗的，还有菜汤，那天晚上可不会给它一般的狗食！给的是新煮的米饭，汤。亲自倒进狗的碗里，要对待狗像对待人一样！
 	那天，那天晚上，我们要看，给了我们生命的狗先吃什么，先喝什么。如果狗先吃肉，先吃饭和肉，不喝水，那年不会下雨过量的！天会旱得很！（注：如果那天狗先吃饭不喝汤，雨季不会下雨过多。在永宁，秋天通常下雨很多，影响庄稼。）如果狗先喝汤，下雨会很多，这对庄稼不好。如果狗很快去喝水，那是说明那一年会多下雨！
@@ -4961,7 +4962,7 @@ Nya asee teejie nee, tiq, kumi gi puddee yi ssogu bi sso! Kushi ddeeni taemi nee
 （那个版本的调查地点为永宁温泉县（那本著作中只提供访问对象总目录，没有标注这篇故事是哪位讲的。）
 
 - 拉他咪·达石“摸索田野礼记两则”（载《摩梭社会文化研究论文集(1960-2005)》，主编：拉他咪·达石，昆明: 云南大学出版社, 2006年，第二本第166页）中记录以下版本：
-“关于十三岁举行成丁仪式的传说是这样的：很早很早以前，人和动物都没有生命年轮，后来摩梭人的始祖”a ba duo”要给各种生物体赠送寿命的期限，并且首先把这件事情告诉了摩梭人，要她们在夜深人静的时候聆听她的呼唤，尽早应声就可以得到高寿。这一夜“a ba duo”首先喊一千岁，当时一切生命都已入梦，只有灵慧的仙鹳听到她的喊声; 后来她喊一百岁时大雁答应了，它得寿一百岁。最终六十岁。最终六十岁亦被狗应去了。一直到“a ba duo”喊出十三岁，酣然入睡的摩梭人才大梦初醒只得十三岁。摩梭人感到十三岁寿命太短，去找“a ba duo”求情，希望与其他动物互换寿命，最后只有善良的狗与摩梭人对换寿龄。摩梭人为了祭奠狗的恩情，凡到十三岁都要行成丁礼，象征生命的开始。为了报答狗的情义，摩梭人称过年为“ku shi”[国际音标：/kʰv̩˧ʂɯ˥]。每过大年都要先喂狗，看狗先吃肉或吃饭或喝汤来预测来年的天气、雨水、丰收程度，然后才吃年夜饭。”
+“关于十三岁举行成丁仪式的传说是这样的：很早很早以前，人和动物都没有生命年轮，后来摩梭人的始祖”a ba duo”要给各种生物体赠送寿命的期限，并且首先把这件事情告诉了摩梭人，要她们在夜深人静的时候聆听她的呼唤，尽早应声就可以得到高寿。这一夜“a ba duo”首先喊一千岁，当时一切生命都已入梦，只有灵慧的鹭鸶听到她的喊声; 后来她喊一百岁时大雁答应了，它得寿一百岁。最终六十岁。最终六十岁亦被狗应去了。一直到“a ba duo”喊出十三岁，酣然入睡的摩梭人才大梦初醒只得十三岁。摩梭人感到十三岁寿命太短，去找“a ba duo”求情，希望与其他动物互换寿命，最后只有善良的狗与摩梭人对换寿龄。摩梭人为了祭奠狗的恩情，凡到十三岁都要行成丁礼，象征生命的开始。为了报答狗的情义，摩梭人称过年为“ku shi”[国际音标：/kʰv̩˧ʂɯ˥]。每过大年都要先喂狗，看狗先吃肉或吃饭或喝汤来预测来年的天气、雨水、丰收程度，然后才吃年夜饭。”
 （拉他咪·达石跟笔者说明了：这是当地宗教祭师[摩梭话名称：/dɑ˧pɤ˧/，音译：达巴]所讲述的版本。拉他咪·达石告诉笔者，神仙名字的发音为/ɑ˧pɑ˧to˧˥/。笔者认为，这与讲述人所说的/ə˧pɤ˧-ɖɯ˩/应该是同一个神。）
 </TRANSL>
 </TEXT>
