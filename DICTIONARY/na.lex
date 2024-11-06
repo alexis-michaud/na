@@ -3336,6 +3336,27 @@
 \txt BuriedAlive3.62
 \doi 10.24397/pangloss-0004539#S62
 
+\lx tɑ.qɑ~tɑ.qɑ~tɑ.qɑ
+\or dagha-dagha-dagha
+\ps ideophone
+\lc tɑ.qɑ.tɑ.qɑ.tɑ.qɑ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Ideophone that suggests poorly executed gestures, which lack regularity and precision. For example, the clumsy axe blows given by someone who is not good at carpentry: ‘clunk!’, ‘splat!’
+\ge |fg{ideo}.clunk!
+\dn 形声词，表示动作不当，缺乏规律性和精确性。例如，不擅长木工的人笨拙地用斧头：“咔嚓！”，“啪！”，“咔嚓啪，咔嚓啪！”
+\gn 咔嚓啪
+\df Idéophone qui évoque des gestes mal réalisés, qui manquent de continuité. Par exemple des coups de hache maladroits, donnés plus ou moins au jugé, par quelqu'un qui ne sait pas y faire en charpente et menuiserie: «pif-pof!», «plic-ploc!», «clop-clop!», «baf-baf!»
+\gf |fg{ideo}.pif-pof!
+\xv po˧ɖʐɯ˧ mɤ˧-dʑɤ˩-hĩ˩ | ɖɯ˧-se˩, | tɑ.qɑ~tɑ.qɑ~tɑ.qɑ pi˧, | ɖɯ˧-dɑ˩~dɑ˩-ɻ̩˩, | wɤ˩˥ | ɖɯ˧-so˥ F | lo˧ mɤ˧-do˩!
+\xe If you end up getting workmen who are not very good, they knock limply here and there, clunk-clunk, splat-splat! and it's no good at all, completely inefficient!
+\xn 如果雇佣的是不太好的工匠，他们就会无力地东敲西敲，咔嚓啪，咔嚓啪！这根本没什么用，完全没有效率！
+\xf Si on se retrouve avec des artisans pas bien doués, ils cognent mollement çà et là, et ça n'est d'aucune utilité / ça ne donne aucun résultat! (=le travail n'avance pas)
+\txt Housebuilding2.64
+\doi 10.24397/pangloss-0004550#S64
+
 \lx ʈwæ-ʈwæ-ʈwæ
 \or duae-duae-duae
 \ps ideophone
@@ -16297,6 +16318,8 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton MH
+\nt <langue="fra" dom="sem"> L'équivalent de |fv{fɑ˧tɑ˧-ze˥} fourni en langue na, |fv{le˧-ʝi˧ le˧-hwɤ˩-ze˩}, signifie ‘ça s'est étendu’.
+\nt <langue="fra" dom="sem"> The Na-language equivalent of |fv{fɑ˧tɑ˧-ze˥} is |fv{le˧-ʝi˧ le˧-hwɤ˩-ze˩}, meaning ‘it spread / it expanded’.
 \lc fɑ˧tɑ˧˥
 \so F4
 \va <speaker="F5"> ID.
@@ -16307,6 +16330,7 @@
 \gn 发达（借词）
 \df Développé, florissant.
 \gf 发达::florissant
+\dv le˧-ʝi˧ le˧-hwɤ˩-ze˩
 \xv fɑ˧tɑ˧-ze˥
 \xe |fg{pfv}
 \xn 很发达的了
@@ -16573,8 +16597,8 @@
 \cf dv̩˩pʰæ˧
 \so F4
 \pdv tso˩
-\de Storeroom, larder: a room where food is kept.
-\ge storeroom/larder
+\de Pantry, storeroom, larder: a room where food is kept.
+\ge pantry
 \dn 储藏室、库房：存粮食、火腿的房间
 \gn 储藏室
 \df Resserre, pièce où on conserve certains produits: dans le même bâtiment que la cuisine-foyer-salle à manger, à sa gauche (vu depuis la cour).
@@ -22915,7 +22939,8 @@
 \lx hwɤ˧li˧-hwæ˧qʰæ#˥
 \or huali huaekhae
 \ps n
-\cf ʂæ˧-lo˩pv̩˩
+\sy hwæ˧qʰæ#˥
+\sy ʂæ˧-lo˩pv̩˩
 \lc hwɤ˧li˧-hwæ˧qʰæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -22926,6 +22951,23 @@
 \dn 山萝卜
 \gn 山萝卜
 \df Cerfeuil.
+\gf cerfeuil
+
+\lx hwæ˧qʰæ#˥
+\or huaekhae
+\ps n
+\sy hwɤ˧li˧-hwæ˧qʰæ#˥
+\sy ʂæ˧-lo˩pv̩˩
+\lc hwæ˧qʰæ˧
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton #H
+\so F4
+\de Scabious, |fi{Scabiosa comosa}.
+\ge scabious
+\dn 山萝卜，|fi{Scabiosa comosa}（也称作蓝盆花）。摩梭人吃的一种野菜。
+\gn 山萝卜
+\df Cerfeuil, |fi{Scabiosa comosa}.
 \gf cerfeuil
 
 \lx hwɤ˧li˧-se˧-di˧˥
@@ -25196,6 +25238,10 @@
 \xe Let there be prosperity! (A wish, a benediction.)
 \xn 财源广进！
 \xf Prospérité!! (Formule de bénédiction, de vœu.)
+\xv jo˧lv̩˧ kv̩˧˥!
+\xe Let there be prosperity! (A wish, a benediction.)
+\xn 财源广进！
+\xf Prospérité!! (Formule de bénédiction, de vœu.)
 
 \lx jo˧mi˧
 \sf <nb="B"> 1889b
@@ -25352,6 +25398,28 @@
 \xe oilcloth (tonal variant)
 \xn 油布（声调变体）
 \xf toile cirée (variante tonale)
+
+\lx tsʰɤ˩ʝi˩
+\or ceyi
+\bw <langue="cmn"> 财源
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\lc tsʰɤ˩ʝi˩˥
+\so F4
+\de Financial resources, riches.
+\ge 财源::financial_resources
+\dn 财源。
+\gn 财源（借词）
+\df Source de revenus; ressources financières.
+\gf 财源::richesses
+\xv jo˧lv̩˧ kv̩˧-pi˥! | jo˧lv̩˧ kv̩˧˥, | pi˧-dʑo˩, | zo˩no˥, | hæ˧ʐwɤ˩-pi˩, | tsʰɤ˩ʝi˩-ʈʂʰɯ˥ | ɖwæ˧˥ | le˧-dʑo˧-kv̩˧ pi˥-zo˩, ◊ ə˩-gi˩! |
+\xe We used to say blessing formulas: Prosperity! ‘Prosperity’, to translate that into Chinese, it means that sources of income (财源) will be plentiful: that [that family] will have plenty of wealth, right!
+\xn 人家说祝福语：|fv{‘yolu gu’}，等于汉语的‘财源广进！’意思是：会有很多财富，不是吗？
+\xf On disait des formules de bénédiction: Prospérité! «Prospérité», pour traduire ça en chinois, ça veut dire que les sources de revenus (财源) seront abondantes: qu'on aura plein de richesses, n'est-ce pas!
+\txt Housebuilding2.300
+\doi 10.24397/pangloss-0004550#S300
 
 \lx jo˧˥
 \or yo
@@ -53735,6 +53803,7 @@
 \bw <langue="cmn"> 关心
 \ps v
 \ton M
+\nt <dom="phono" langue="fra" type="hist" print="n"> Avant 2024: noté ‡kwæ˧ɕi˥, ‡le˧-kwæ˧ɕi˥
 \lc kwæ˧ɕi˧
 \cf ʁo˧mæ˧
 \sd <langue="fra"> verbe
@@ -53746,6 +53815,11 @@
 \gn 关心（借词）
 \df S'occuper de (personnes âgées, enfants, personnes ayant besoin d'aide).
 \gf 关心::s_occuper_de
+\xv le˧-kwæ˧ɕi˧-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 实施 〜 整体体：关心了
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
 
 \lx ʁo˧mi˧
 \sf <nb="B"> 2229
@@ -54607,6 +54681,93 @@
 \xn 完成了！
 \xf C'est achevé!
 \dt 06/Jun/2017
+
+\lx tsɯ˧ʈʂɯ˩
+\or zizhi
+\bw <langue="cmn"> 组织
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L#
+\lc tsɯ˧ʈʂɯ˩
+\so F4
+\de To organize.
+\ge 组织::to_organize
+\dn 组织
+\gn 组织（借词）
+\df Organiser.
+\gf 组织::organiser
+\dv le˧-ʁwɤ˥~ʁwɤ˩
+\xv le˧-tsɯ˥ʈʂɯ˩
+\xe |fg{accomp} 〜: to organize
+\xn 实施 〜：组织了
+\xf |fg{accomp} 〜
+\PHONO
+\lx tsɯ˧ʈʂɯ˩
+\or zizhi
+\bw <langue="cmn"> 组织
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L#
+\lc tsɯ˧ʈʂɯ˩
+\so F4
+\de To organize.
+\ge 组织::to_organize
+\dn 组织
+\gn 组织（借词）
+\df Organiser.
+\gf 组织::organiser
+\dv le˧-ʁwɤ˥~ʁwɤ˩
+\xv le˧-tsɯ˥ʈʂɯ˩
+\xe |fg{accomp} 〜
+\xn 实施 〜
+\xf |fg{accomp} 〜
+\PHONO
+
+\lx tɕɛ˥ʈʂʰɑ˩
+\or jiancha
+\bw <langue="cmn"> 检查
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton HL
+\lc tɕɛ˧ʈʂʰɑ˩
+\so F4
+\de To check.
+\ge 检查::to_organize
+\dn 检查
+\gn 检查（借词）
+\df Vérifier, contrôler.
+\gf 检查::vérifier
+\dv le˧-li˥~li˩ | le˧-ʝi˥
+\xv le˧-tɕɛ˥ʈʂʰɑ˩
+\xe |fg{accomp} 〜
+\xn 实施 〜
+\xf |fg{accomp} 〜
+\PHONO
+
+\lx tsɯ˧ʈʂɯ˩
+\or zizhi
+\bw <langue="cmn"> 组织
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L#
+\lc tsɯ˧ʈʂɯ˩
+\so F4
+\de To organize.
+\ge 组织::to_organize
+\dn 组织
+\gn 组织（借词）
+\df Organiser.
+\gf 组织::organiser
+\dv le˧-ʁwɤ˥~ʁwɤ˩
+\xv le˧-tsɯ˥ʈʂɯ˩
+\xe |fg{accomp} 〜: to organize
+\xn 实施 〜：组织了
+\xf |fg{accomp} 〜
+\PHONO
 
 \lx tjɤ˧no˥
 \or waezi
