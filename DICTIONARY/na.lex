@@ -39221,7 +39221,7 @@
 \xf appuyer vers le bas, peser sur
 \xv le˧-ɳæ˩~ɳæ˩
 \xe |fg{accomp} 〜 |fg{red}
-\xn \xn 实施 〜 重叠
+\xn 实施 〜 重叠
 \xf |fg{accomp} 〜 |fg{red}
 \sn 2
 \sd <langue="fra"> verbe
