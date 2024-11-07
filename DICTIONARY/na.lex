@@ -76036,7 +76036,7 @@
 \xf mon clan, son clan: deux termes qui forment une opposition
 \xc <dom="phono" langue="fra"> Réalisation phonétique: [|fv{ʔu˧=ɻ̩˩}]
 \xc <dom="phono" langue="eng"> Phonetic realization: [|fv{ʔu˧=ɻ̩˩}]
-\xc <dom="phono" langue="eng"> 实际发音：[|fv{ʔu˧=ɻ̩˩}]。
+\xc <dom="phono" langue="cmn"> 实际发音：[|fv{ʔu˧=ɻ̩˩}]。
 \xv u˧ɻ̩˩ | ə˧si˧
 \xe my great-grandmother
 \xn 我家祖母
