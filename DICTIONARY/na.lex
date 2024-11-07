@@ -3957,7 +3957,7 @@
 \lc bo˩lo˥
 \sd <langue="fra"> outil
 \sd <langue="eng"> tool
-\nt <type="hist" print="n" langue="fra"> sens confirmé par F4 en 2018 ; avais un moment pensé que cela voulait dire 'mangeoire'.
+\nt <type="hist" print="n" langue="fra"> sens confirmé par F4 en 2018; avais un moment pensé que cela voulait dire 'mangeoire'.
 \ton LM
 \so F4
 \pdv ɭɯ˧β
@@ -8278,7 +8278,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <type="hist" print="n" langue="fra"> d’abord noté ɖɯ˧ hĩ˥ ; schéma ˩ ˩˧ confirmé en 2007
+\nt <type="hist" print="n" langue="fra"> d’abord noté ɖɯ˧ hĩ˥; schéma ˩ ˩˧ confirmé en 2007
 \nt <dom="morpho" langue="fra"> L'ordre des morphèmes est adjectif+nom, à l'inverse du naxi /|fv{hi˧ ɖɯ˩}/.
 \nt <dom="morpho" langue="eng"> The order of morphemes (adjective+noun) is the opposite of that found in Naxi /|fv{hi˧ ɖɯ˩}/.
 \nt <dom="morpho" langue="cmn"> 语素的顺序（形容词在前，名词在后）与纳西语/|fv{hi˧ ɖɯ˩}/中的顺序刚好相反。
@@ -10748,7 +10748,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> avant 2009: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre: « tʰe˧dzɯ˩: être assis ; tʰi˥ dzɯ˩! asseyez-vous! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
+\nt <type="hist" print="n" langue="fra"> avant 2009: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre: « tʰe˧dzɯ˩: être assis; tʰi˥ dzɯ˩! asseyez-vous! »; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -10856,7 +10856,7 @@
 \xv mv̩˩-tɕo˧ dzi˩
 \xe to sink down
 \xn 往下掉入、沉下去
-\xf |fg{directionnel} 〜 ; même sens: sombrer, couler
+\xf |fg{directionnel} 〜; même sens: sombrer, couler
 \dt 27/Aug/2015
 
 \lx dzo˩
@@ -13232,7 +13232,7 @@
 \sy dzi˧dzi˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> hésitation avec /dzi˩si˩/ ; choisit finalement /dʑɯ˩si˩/ (2015).
+\nt <type="hist" print="n" langue="fra"> hésitation avec /dzi˩si˩/; choisit finalement /dʑɯ˩si˩/ (2015).
 \ton L
 \lc dʑɯ˩si˩˥
 \so F4
@@ -13620,7 +13620,7 @@
 \lc dʑɯ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> avant 2012: noté /dʑi˩˧/ ; réécoute: paraît être /dʑi/ et pas /dʑɯ/; mais vérifié en avril 2012: est bien /dʑɯ/.
+\nt <type="hist" print="n" langue="fra"> avant 2012: noté /dʑi˩˧/; réécoute: paraît être /dʑi/ et pas /dʑɯ/; mais vérifié en avril 2012: est bien /dʑɯ/.
 \nt <type="hist" print="n" langue="fra"> ton L confirmé en 2012
 \ton Lα
 \so F4
@@ -18963,7 +18963,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lʰæ˧˥
-\vc <type="hist" print="n" langue="fra"> ton 4 ; donne bɑ˩ɬɑ˩lʰæ˧, lə˧lʰæ˧ze˥
+\vc <type="hist" print="n" langue="fra"> ton 4; donne bɑ˩ɬɑ˩lʰæ˧, lə˧lʰæ˧ze˥
 \va <speaker="M23"> ID.
 \de To cut (with a blade: sword…), e.g. to cut cloth (to make clothes).
 \ge to_cut
@@ -28005,7 +28005,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vc <langue="fra" print="n"> (d'abord noté kɯ˧ɻ̩˥) ; jouer du violon à 2 cordes: kɯ˩ɻ̩˧hɯ˥
+\vc <langue="fra" print="n"> (d'abord noté kɯ˧ɻ̩˥); jouer du violon à 2 cordes: kɯ˩ɻ̩˧hɯ˥
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Two-string violin, erhu.
@@ -44077,7 +44077,7 @@
 \xe Wow! [(S)he] is giving you three silver coins!! (According to the main consultant's memories, this is the type of comment that a child's mother's sisters and brothers would make when a child who turned 13 received significant amounts of money on the occasion of their coming of age. The equivalent today would be about half a month's salary. To give only one coin would not be right, because gifts have to come in pairs. To give two coins is fully sufficient: a beautiful gift. To give three coins is an impressive gift, beyond expectations.)
 \xn 哇！（他）给三块银币！（在一个孩子成年时，亲戚会给银币。给一块，不合适，因为礼物不能只给一个，要给两个。给两块银币，是合适的，也是够的。给三块银币，超出期望，是大礼物了。按现在的标准/说法，三个银币等于半个月的工资左右。）
 \xf Waouuu! [Il/elle] te donne trois pièces d'argent! (D'après le souvenir qu'en a la consultante principale, c'est le type de commentaire que faisaient autrefois les sœurs et frères de la mère d'un enfant à qui on offrait une forte somme d'argent à l'occasion de son passage à l'âge adulte, à treize ans révolus. Cela correspondrait aujourd'hui à la moitié d'un mois de salaire. Donner une seule pièce, c'est symboliquement inapproprié: on offre par paires. Donner deux pièces, c'est un beau cadeau, approprié et suffisant. Donner trois pièces, c'est un cadeau considérable, qui dépasse les attentes.)
-\xv pæ˧kʰwɤ˧ ɖɯ˧-ɭɯ˥# ; pæ˧kʰwɤ˧ ɲi˧-ɭɯ˥# ; pæ˧kʰwɤ˧ so˧-ɭɯ˥#
+\xv pæ˧kʰwɤ˧ ɖɯ˧-ɭɯ˥#; pæ˧kʰwɤ˧ ɲi˧-ɭɯ˥#; pæ˧kʰwɤ˧ so˧-ɭɯ˥#
 \xe one silver coin, two silver coins, three silver coins
 \xn 一块银币，两块银币，三块银币
 \xf une pièce d'argent; deux pièces d'argent; trois pièces d'argent
@@ -45740,7 +45740,7 @@
 \lc pɤ˩jɤ˧bv̩˥di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (tons corrigés en 2007; avaient été notés par erreur, en 2006, “ ˩˧˥˧: pɤ˩jɤ˧+ bv̩˩˥ ; donne ˩˧˥ (régulier) + ajout suffixe di˧")
+\nt <type="hist" print="n" langue="fra"> (tons corrigés en 2007; avaient été notés par erreur, en 2006, “ ˩˧˥˧: pɤ˩jɤ˧+ bv̩˩˥; donne ˩˧˥ (régulier) + ajout suffixe di˧")
 \ton LM+H#-
 \so F4
 \va <speaker="F5"> ID.
@@ -48196,7 +48196,7 @@
 \lc qʰæ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (læ˧kʰʶæ˥ze˩) ; donne: ʂæ˧oe͂˞˧ kʶæ˩˥ (en hypo-articulé, proche de: [kʰæ˩˥]) (forme de citation: kʶæ˥, cf enrt AMA37)
+\nt <type="hist" print="n" langue="fra"> (læ˧kʰʶæ˥ze˩); donne: ʂæ˧oe͂˞˧ kʶæ˩˥ (en hypo-articulé, proche de: [kʰæ˩˥]) (forme de citation: kʶæ˥, cf enrt AMA37)
 \ton H
 \so F4
 \va <speaker="F5"> qʰæ˧˥
@@ -53018,7 +53018,7 @@
 \nt <type="hist" print="n" langue="fra" dom="ton"> xxxx vérifier le ton : Ma ou Mb
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʁv̩˧
-\vc <langue="fra" print="n"> ton 1 (le˧ʁv̩˧ze˧) ; donne: æ˩ʁv̩˩ ʁv̩˧; vérifié, n'est pas ʁu˧
+\vc <langue="fra" print="n"> ton 1 (le˧ʁv̩˧ze˧); donne: æ˩ʁv̩˩ ʁv̩˧; vérifié, n'est pas ʁu˧
 \de To lay eggs.
 \ge to_lay_eggs
 \dn 下蛋
@@ -54700,27 +54700,6 @@
 \gf 组织::organiser
 \dv le˧-ʁwɤ˥~ʁwɤ˩
 \xv le˧-tsɯ˥ʈʂɯ˩
-\xe |fg{accomp} 〜: to organize
-\xn 实施 〜：组织了
-\xf |fg{accomp} 〜
-\PHONO
-\lx tsɯ˧ʈʂɯ˩
-\or zizhi
-\bw <langue="cmn"> 组织
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton L#
-\lc tsɯ˧ʈʂɯ˩
-\so F4
-\de To organize.
-\ge 组织::to_organize
-\dn 组织
-\gn 组织（借词）
-\df Organiser.
-\gf 组织::organiser
-\dv le˧-ʁwɤ˥~ʁwɤ˩
-\xv le˧-tsɯ˥ʈʂɯ˩
 \xe |fg{accomp} 〜
 \xn 实施 〜
 \xf |fg{accomp} 〜
@@ -54985,7 +54964,7 @@
 \lc ʁwɤ˩ʁo˩˥
 \so F4
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> /ʁwɤ˩ʁu˩˥/, ton d3; tons corrigé le 14 mai 2008; avais d'abord noté "ʁwɤ˧ʁu˧, ton d2a". Rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe ; en conséquence, je maintiens la notation /ʁu/
+\vc <langue="fra" print="n"> /ʁwɤ˩ʁu˩˥/, ton d3; tons corrigé le 14 mai 2008; avais d'abord noté "ʁwɤ˧ʁu˧, ton d2a". Rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe; en conséquence, je maintiens la notation /ʁu/
 \pdv ʁwɤ˧
 \de Hillside.
 \ge hillside
@@ -65797,7 +65776,7 @@
 \lc ti˧tsʰo˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> ajouté en 2018 ; sens établi en 2024: velours côtelé
+\nt <type="hist" print="n" langue="fra"> ajouté en 2018; sens établi en 2024: velours côtelé
 \nt <type="hist" print="n" langue="fra"> avais d'abord noté /ti˧tsʰo˧/
 \ton M
 \so F4
@@ -70130,7 +70109,7 @@
 \lc tsi˧
 \so F4
 \va <speaker="M21"> gɤ˩tsv̩˧
-\vc <langue="fra" print="n"> rime vérifiée ; donne: /gɤ˩tsv̩˧ tʰi˧-tɕi˥/
+\vc <langue="fra" print="n"> rime vérifiée; donne: /gɤ˩tsv̩˧ tʰi˧-tɕi˥/
 \de To set up, to install.
 \ge to_install
 \dn 安装
@@ -72038,7 +72017,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> tsʰʷɤ˩˧, ton 3 ; donne: hæ̃˧pɤ˧ tsʰʷɤ˩. L'arrondissement n'est pas toujours bien clair; c'est peut-être une sur-notation de ma part.
+\vc <langue="fra" print="n"> tsʰʷɤ˩˧, ton 3; donne: hæ̃˧pɤ˧ tsʰʷɤ˩. L'arrondissement n'est pas toujours bien clair; c'est peut-être une sur-notation de ma part.
 \de To plait, to weave (hair, thread).
 \ge to_plait
 \dn 编（头发，线）
@@ -73279,7 +73258,7 @@
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
-\nt <type="hist" print="n" langue="fra"> avant 2012: avais noté: ʈʂʰæ˧ɻ̩˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975 ; rencontrée pendant les travaux des champs en nov. 2007.
+\nt <type="hist" print="n" langue="fra"> avant 2012: avais noté: ʈʂʰæ˧ɻ̩˧dv̩˩mɑ˩ pour le nom d'une femme du village, paysanne, née en 1975; rencontrée pendant les travaux des champs en nov. 2007.
 \nt <dom="phono" langue="fra"> La réalisation phonétique ressemble beaucoup à [|fv{tsʰɤ.ɻ̩}]. Cela pourrait être dû en partie à un phénomène de coarticulation par lequel l'aperture de la rime de la syllabe /|fv{tsʰɯ}/ serait augmentée par anticipation du /|fv{ɻ̩}/ qui suit.
 \nt <dom="phono" langue="eng"> Phonetic realization is very close to [|fv{tsʰɤ.ɻ̩}]. This may be due in part to a coarticulatory phenomenon whereby the aperture of the rhyme of the syllable /|fv{tsʰɯ}/ is increased by anticipation of the following /|fv{ɻ̩}/.
 \ton #H
@@ -75226,7 +75205,7 @@
 \lc tʰv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (vérifié en 2009: est “prêter"; auparavant: noté: “sens vérifié: emprunter") ; donne: ɖɯ˧tʰv̩˧ɻ̩˩ “prêter"
+\nt <type="hist" print="n" langue="fra"> (vérifié en 2009: est “prêter"; auparavant: noté: “sens vérifié: emprunter"); donne: ɖɯ˧tʰv̩˧ɻ̩˩ “prêter"
 \ton Mβ
 \so F4
 \va <speaker="M23"> ID.
