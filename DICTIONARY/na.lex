@@ -494,7 +494,7 @@
 \sf <nb="B"> 668
 \sf <nb="2011"> 995
 \or aenlhi
-\bw <langue="bod"> bla |tib{བླ} (older form: brla |tib{བརླ})
+\bw <langue="bod"> bla |tib{བླ} (< brla |tib{བརླ})
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
