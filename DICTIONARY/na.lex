@@ -4050,7 +4050,7 @@
 \xn 见了母猪
 \xf …a vu (une/la) truie
 \xc PHONO
-\xc <type="hist" print="n" langue="fra"> Avais d'abord noté: |fv{bo˩mi˧ do˧ +ze˩}. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb). Vérifié en 2017: est en fait bien: |fv{bo˩mi˧ do˩}.
+\xc <type="hist" print="n" langue="fra"> Avais d'abord noté: |fv{bo˩mi˧ do˧ +ze˩}. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ). Vérifié en 2017: est en fait bien: |fv{bo˩mi˧ do˩}.
 \xv bo˩mi˧-bæ˧bv̩˥
 \xe sow and piglets
 \xn 母猪与猪仔
@@ -6535,7 +6535,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Voyelle: avant 2018, noté /ɕi˩˥/. En 2018, pense avoir trouvé une opposition entre des syllabes /ɕɯ/ et des syllabes /ɕi/. Pense avoir soigneusement vérifié avec F4 et confirmé l'existence de l'opposition. En 2024, sur le conseil de Roselle Dobbs, je reprends les deux seuls exemples de syllabe /ɕɯ/ (dont celui-ci), et F4 indique qu'il s'agit de syllabes /ɕi/: homophones (segmentalement).
-\nt <type="hist" print="n" langue="fra"> La vérification de la catégorie tonale, La ou Lb, n'est pas possible de la façon ordinaire: le verbe ne peut se rédupliquer, ni se combiner avec les objets habituellement utilisés. Cette catégorie n'est donc pas bien assurée.
+\nt <type="hist" print="n" langue="fra"> La vérification de la catégorie tonale, Lα ou Lβ, n'est pas possible de la façon ordinaire: le verbe ne peut se rédupliquer, ni se combiner avec les objets habituellement utilisés. Cette catégorie n'est donc pas bien assurée.
 \ton Lα
 \so F4
 \de To be afraid of.
@@ -6631,7 +6631,7 @@
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <type="hist" print="n" langue="fra"> Monosyllabe extrait de l'expression |fv{/dɑ˧-ʐwɤ˧˥/}. Le verbe est au ton Lb; les seuls catégories tonales de noms qui donnent un schéma M.MH en combinaison avec cette catégorie de verbes sont H et MH. Vérifié auprès de F4 en 2015: est /dɑ˧˥/ et non /‡dɑ˥/.
+\nt <type="hist" print="n" langue="fra"> Monosyllabe extrait de l'expression |fv{/dɑ˧-ʐwɤ˧˥/}. Le verbe est au ton Lβ; les seuls catégories tonales de noms qui donnent un schéma M.MH en combinaison avec cette catégorie de verbes sont H et MH. Vérifié auprès de F4 en 2015: est /dɑ˧˥/ et non /‡dɑ˥/.
 \ton MH
 \lc dɑ˧˥
 \so F4
@@ -7849,7 +7849,7 @@
 \xn 看见了母猪
 \xf …a vu (une/la) truie
 \xc PHONO
-\xc <type="hist" print="n" langue="fra"> note ancienne: “schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lb), mais ce schéma n'est pas acceptable". En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
+\xc <type="hist" print="n" langue="fra"> note ancienne: “schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ), mais ce schéma n'est pas acceptable". En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
 
 \lx do˧bæ˧
 \sf <nb="B"> 167
@@ -13658,7 +13658,7 @@
 \lc ɖɯ˧ ɖʐɯ˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n" langue="fra"> avant juillet 2012: noté comme classificateur au ton Lc
+\nt <type="hist" print="n" langue="fra"> avant juillet 2012: noté comme classificateur au ton Lγ
 \ton Hα
 \so F4
 \de Self-classifier for marketplaces/towns.
@@ -13714,7 +13714,7 @@
 \lc ɖʐɯ˧ɖʐɯ˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <dom="sem" langue="fra" print="n"> Noté: forme rédupliquée de ɖʐɯ˩ “moment"; serait-ce un classificateur au ton La? xxxx à confirmer et reprendre, et créer l'entrée correspondante.
+\nt <dom="sem" langue="fra" print="n"> Noté: forme rédupliquée de ɖʐɯ˩ “moment"; serait-ce un classificateur au ton Lα? xxxx à confirmer et reprendre, et créer l'entrée correspondante.
 \so F4
 \va <speaker="M23"> ID.
 \dn （一）会儿
@@ -24966,7 +24966,7 @@
 \xn 〜 否定 〜
 \xf 〜 |fg{neg} 〜
 \xc PHONO
-\xc <langue="eng" dom="ton"> This combination was elicited as a test to establish the tone category: La or Lb. It leads to the conclusion that the tone is Lb.
+\xc <langue="eng" dom="ton"> This combination was elicited as a test to establish the tone category: Lα or Lβ. It leads to the conclusion that the tone is Lβ.
 
 \lx jɤ˩β
 \hm 2
@@ -42418,7 +42418,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> vérifier le ton: La? Lb? réponse 2017: est: La.
+\nt <type="hist" print="n" langue="fra"> vérifier le ton: La? Lβ? réponse 2017: est: La.
 \ton Lα
 \lc no˩˥
 \so F4
@@ -49565,7 +49565,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="eng"> Before 2014: tone erroneously classified as Lb; patterns thoroughly verified with F4 in Aug. 2014.
+\nt <type="hist" print="n" langue="eng"> Before 2014: tone erroneously classified as Lβ; patterns thoroughly verified with F4 in Aug. 2014.
 \ton Lβ
 \lc qʰo˩˥
 \so F4
@@ -56451,7 +56451,7 @@
 \xf uriner une goutte, pisser une goutte
 \xc PHONO
 \xc <langue="fra" dom="ton"> Exemple élicité pour vérifier l'appartenance tonale de ce verbe: catégorie Lα ou catégorie Lβ.
-\xc <langue="eng" dom="ton"> Exemple élicité pour vérifier l'appartenance tonale de ce verbe: catégorie Lα ou catégorie Lβ.
+\xc <langue="eng" dom="ton"> This combination was elicited as a test to establish the tone category of the verb: Lα or Lβ.
 \xc <langue="cmn" dom="ton"> 这个例子的作用是：检查该动词的声调归属，Lα类或Lβ类。
 
 \lx ʂe˧bæ˧
@@ -62636,7 +62636,7 @@
 \lc ɖɯ˧ tɑ˩
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n" langue="fra"> Avant 2014: noté comme ton Lb. Vérifié soigneusement en août 2014.
+\nt <type="hist" print="n" langue="fra"> Avant 2014: noté comme ton Lβ. Vérifié soigneusement en août 2014.
 \ton Lα
 \so F4
 \de Classifier for sums of money.
@@ -71003,7 +71003,7 @@
 \cf tɕʰi˩β
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton Lb
+\ton Lβ
 \lc ɖɯ˧ ʈʂo˩
 \so F4
 \sn 1
@@ -77861,7 +77861,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (problématique en forme de citation; le ton est donc un peu incertain; ton m4b: déduit de la périphrase /kʰv̩˧mæ˧ʑi˩/ “maison des voleurs"="prison")
-\nt <type="hist" print="n" langue="fra"> tons vérifiés: éliciter avec tous les numéraux. Jusqu'en 2016, était classé comme nom; et indiqué un ton MH. Est en fait un classificateur. Est soit Lb, soit Lc (test: trois familles: so˧-ʑi˧). Vérifié en 2017: est bien: Lβ.
+\nt <type="hist" print="n" langue="fra"> tons vérifiés: éliciter avec tous les numéraux. Jusqu'en 2016, était classé comme nom; et indiqué un ton MH. Est en fait un classificateur. Est soit Lβ, soit Lγ (test: trois familles: so˧-ʑi˧). Vérifié en 2017: est bien: Lβ.
 \ton Lβ
 \lc ɖɯ˧ ʑi˩
 \so F4
@@ -82605,7 +82605,7 @@
 \ge skirt
 \dn 裙子（单音节）
 \gn 裙子
-\df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /|fv{ʈʰæ˩ ki˩˥}/ ‘enfiler la jupe', avec verbe au ton La (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘c'est une jupe' est catégoriquement refusé par F4.
+\df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /|fv{ʈʰæ˩ ki˩˥}/ ‘enfiler la jupe', avec verbe au ton Lα (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘c'est une jupe' est catégoriquement refusé par F4.
 \gf jupe
 \xv ʈʰæ˧ | le˧-ki˩
 \xe to put on the skirt (|fg{accomp})
