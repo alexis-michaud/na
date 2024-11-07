@@ -3353,7 +3353,7 @@
 \xv po˧ɖʐɯ˧ mɤ˧-dʑɤ˩-hĩ˩ | ɖɯ˧-se˩, | tɑ.qɑ~tɑ.qɑ~tɑ.qɑ pi˧, | ɖɯ˧-dɑ˩~dɑ˩-ɻ̩˩, | wɤ˩˥ | ɖɯ˧-so˥ F | lo˧ mɤ˧-do˩!
 \xe If you end up getting workmen who are not very good, they knock limply here and there, clunk-clunk, splat-splat! and it's no good at all, completely inefficient!
 \xn 如果雇佣的是不太好的工匠，他们就会无力地东敲西敲，咔嚓啪，咔嚓啪！这根本没什么用，完全没有效率！
-\xf Si on se retrouve avec des artisans pas bien doués, ils cognent mollement çà et là, et ça n'est d'aucune utilité / ça ne donne aucun résultat! (=le travail n'avance pas)
+\xf Si on se retrouve avec des artisans pas bien doués, ils cognent mollement çà et là, pif-pof! et ça n'est d'aucune utilité / ça ne donne aucun résultat! (=le travail n'avance pas)
 \txt Housebuilding2.64
 \doi 10.24397/pangloss-0004550#S64
 
