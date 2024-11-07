@@ -53470,7 +53470,8 @@
 \sf <nb="2011"> 1039
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <dom="usage" langue="fra"> vérifié à nouveau en 2012: n'utilisent guère les 4 points cardinaux
+\nt <dom="usage" langue="fra"> Les Na n'utilisent guère les quatre points cardinaux. (Observation réalisée à l'occasion des premières enquêtes de vocabulaire, et confirmée en 2012.)
+\nt <dom="usage" langue="eng"> The Na hardly use the four cardinal points. (Observation made during the first vocabulary surveys, and confirmed in 2012.)
 \so F4
 \de North (literally: ‘the Tibetan land').
 \ge north
