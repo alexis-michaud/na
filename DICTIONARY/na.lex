@@ -1752,7 +1752,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\comp <langue="pmi" print="n"> bæ51
+\comp <langue="pmi"> bæ51
 \ton M
 \lc bæ˧
 \sy zo˧bæ˩
@@ -1995,7 +1995,7 @@
 \sn 1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> bɑ22lɑ55qɤ55tɕʰõ22
+\comp <langue="pmi"> bɑ22lɑ55qɤ55tɕʰõ22
 \nt <type="hist" print="n" langue="fra"> avant 2024: avais noté un ton M, et indiqué que la copule portait un ton L: +ɲi˩.
 \nt <type="hist" print="n" langue="fra"> Confirmé à nouveau en 2024: est bien le même mot pour "araignée" et "toile d'araignée".
 \ton MH#
@@ -2085,7 +2085,7 @@
 \sn 1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> bæ55
+\comp <langue="pmi"> bæ55
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -4758,7 +4758,7 @@
 \lc bɻ̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> bu51
+\comp <langue="pmi"> bu51
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -6168,7 +6168,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> ʈʂʰwʌ35
+\comp <langue="pmi"> ʈʂʰwʌ35
 \ton M
 \lc ɕi˧ʈʂʰwæ˧
 \so F4
@@ -7304,7 +7304,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> dĩ35
+\comp <langue="pmi"> dĩ35
 \nt <type="hist" print="n" langue="fra"> confirmé: est ˩˥ et non ˩˧
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
 \ton LH
@@ -8764,7 +8764,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> dõ51
+\comp <langue="pmi"> dõ51
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡/dv/, par erreur; est en fait rétroflexe
 \ton L
 \lc ɖv̩˧
@@ -10412,7 +10412,6 @@
 \sy dʑi˧hṽ̩˥$
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\comp <langue="pmi" print="n"> tɕõ22gu55
 \nt <type="hist" print="n" langue="fra"> Ton confirmé: n'est pas ˧˥. Réécoute 2007: paraît être ˧˥, mais une nouvelle vérification en 2008 établit qu'il s'agit bien d'un ton H.
 \nt <type="hist" print="n" langue="fra"> Vérifié: n'est pas dʑɯ.
 \nt <type="hist" print="n" langue="fra"> Avant mars 2012: cette catégorie tonale était notée #H (conformément à sa nature phonologique). La notation est ensuite simplifiée en H pour les monosyllabes.
@@ -10601,7 +10600,7 @@
 \lc dʑi˧mi˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> dʑɨ22gi51
+\comp <langue="pmi"> dʑɨ22gi51
 \nt <type="hist" print="n" langue="fra"> (un temps noté /‡dʑɯ/, mais n'est pas dʑɯ)
 \ton #H
 \so F4
@@ -11563,7 +11562,7 @@
 \lc dʑɤ˧do˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\comp <langue="pmi" print="n"> dʑʌ55dõ22
+\comp <langue="pmi"> dʑʌ55dõ22
 \ton L#
 \so F4
 \de Zhongdian (place name).
@@ -12109,7 +12108,7 @@
 \lc dzɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> dzɨ55
+\comp <langue="pmi"> dzɨ55
 \nt <type="hist" print="n" langue="fra"> ton confirmé, d'abord noté dzɯ˥
 \nt <dom="sem" langue="fra"> Même terme pour l'homme et pour les animaux.
 \ton H
@@ -14724,7 +14723,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\comp <langue="pmi" print="n"> ɖu35
+\comp <langue="pmi"> ɖu35
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ə˥ɖu˥) (ne connaît pas ɤ˥ɕjɤ˥)
 \ton M
 \lc ə˧ɖo˧
@@ -16855,7 +16854,7 @@
 \lc gi˧nɑ˧mi˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> gwẽ55
+\comp <langue="pmi"> gwẽ55
 \nt <type="hist" print="n" langue="fra"> +ɲi˥
 \ton #H
 \so F4
@@ -17235,7 +17234,7 @@
 \lc go˧bɤ˩
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\comp <langue="pmi" print="n"> gõ55bɑ22
+\comp <langue="pmi"> gõ55bɑ22
 \nt <type="hist" print="n" langue="fra"> (corrigé en ˥ ˩ en 2007; en 2006, avais noté: gu˧bɤ˩)
 \ton L#
 \so F4
@@ -18519,7 +18518,7 @@
 \lc gv̩˧mi˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\comp <langue="pmi" print="n"> gu55mĩ51
+\comp <langue="pmi"> gu55mĩ51
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -18820,13 +18819,12 @@
 \lc gwɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> gwæ35
+\comp <langue="pmi"> gwæ35
 \nt <type="hist" print="n" langue="fra"> tons vérifiés en 2011: auparavant, noté: ɖɯ˧-kʰwɤ˧ gwɤ˧(confirmé en 2012: est un ton L)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> Exemple de M21, à vérifier avec F4 et intégrer: avant 2009: noté /gwɤ˩˥ | dʑɤ˩-le˥/ “(tu) chantes bien!" xxxx
 \de To sing.
 \ge to_sing
 \dn 唱、唱歌
@@ -18858,7 +18856,12 @@
 \xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
 \xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
 \xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
-\dt 02/Sep/2015
+\xv gwɤ˩˥ | dʑɤ˩-le˥!
+\xe [You] sing well!
+\xn 唱得好！
+\xf [Tu] chantes bien! / Bien chanté!
+\xc <langue="fra" print="n"> Exemple de M21, à vérifier avec F4 xxxx
+\rf M21
 
 \lx gwɤ˩~gwɤ˧˥
 \sf <nb="2011"> 2364
@@ -19725,7 +19728,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> ɕjæ22ɕɥɛ55
+\comp <langue="pmi"> ɕjæ22ɕɥɛ55
 \nt <type="hist" print="n" langue="fra"> (avant 2009, avais noté par erreur un ton d2b)
 \ton L
 \lc hæ̃˩sɤ˩˥
@@ -20543,7 +20546,7 @@
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\comp <langue="pmi" print="n"> mu35
+\comp <langue="pmi"> mu35
 \nt <type="hist" print="n" langue="fra"> provient de: “homme", hĩ˧ (m4a)+un prédicat non identifié: prédicat au ton 1? sémantiquement, paraît être le même mot que “vieux", /mu/, ton 3, mais le composé donne /hĩ˧mu˥/ “vieille personne", pas ˧ ˩. en 2009, pas parvenu à analyser. N'est pas le mot pour “vieux".
 \nt <dom="sem" langue="fra"> on emploie le même mot pour “tombe" que pour “cadavre", “personne décédée"
 \so F4
@@ -24583,7 +24586,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> ʐõ55
+\comp <langue="pmi"> ʐõ55
 \nt <type="hist" print="n" langue="fra"> (ʈʂʰɯ˧ ju˩ɲi˩˧)
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: ju˩˥, ton m1:ju˩ɲi˧)
 \ton L
@@ -24712,7 +24715,7 @@
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\comp <langue="pmi" print="n"> ju35
+\comp <langue="pmi"> ju35
 \ton #H
 \lc jo˧
 \so F4
@@ -24787,7 +24790,7 @@
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\comp <langue="pmi" print="n"> jæ51
+\comp <langue="pmi"> jæ51
 \ton M
 \lc jɤ˧
 \so F4
@@ -25059,7 +25062,7 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\comp <langue="pmi" print="n"> dʑɨ22gu55dĩ51
+\comp <langue="pmi"> dʑɨ22gu55dĩ51
 \nt <type="hist" print="n" langue="fra"> (confirmé, n'est pas ju˧gu˧)
 \ton M
 \lc jo˧gv̩˧
@@ -28303,7 +28306,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> kə51
+\comp <langue="pmi"> kə51
 \nt <type="hist" print="n" langue="fra"> (historique: “d'abord noté ˧; corrigé en ˥; mais, réécoute 2007: pense à nouveau que c'est ˧)
 \ton #H
 \lc kv̩˧
@@ -30529,7 +30532,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\comp <langue="pmi" print="n"> lɑ55mɑ51
+\comp <langue="pmi"> lɑ55mɑ51
 \ton M
 \lc lɑ˧mɑ˧
 \so F4
@@ -30733,7 +30736,7 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\comp <langue="pmi" print="n"> ɬɑ55sɑ51 - lɑ55sɑ51
+\comp <langue="pmi"> ɬɑ55sɑ51 ≈ lɑ55sɑ51
 \ton M
 \lc ɬɑ˧sɑ˧
 \so F4
@@ -31299,7 +31302,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> lʲɯ55 (lʲv̩˥)
+\comp <langue="pmi" print="n"> lʲɯ55
 \nt <dom="phono" langue="fra" print="n"> He Jiren et Jiang Zhuyi (1985: 112) notent |fv{ɬe˧}.
 \ton L
 \lc ɬi˧
@@ -32701,7 +32704,7 @@
 \lc lo˧bv̩˩ʈʂʰɯ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi"> lõ55bɯ22tɕʰi22 / lõ55bo55tɕhi53
+\comp <langue="pmi"> lõ55bɯ22tɕʰi22 ≈ lõ55bo55tɕhi53
 \nt <dom="ety" langue="fra"> La forme est proche de celle attestée en pumi. Un changement de */|fv{tɕʰi}/ à /|fv{ʈʂʰɯ}/ a pu se produire postérieurement à l'emprunt, comme cela s'est produit pour le nom propre `Daeshi'.
 \nt <dom="ety" langue="eng"> The form is close to that attested in Pumi. A change from */|fv{tɕʰi}/ to /|fv{ʈʂʰɯ}/ may have occurred after the word was borrowed, as happened with the proper name `Daeshi'.
 \nt <dom="ety" langue="cmn"> 这种发音与普米语中的发音很接近。很可能在该词被借用之后发生了从*/|fv{tɕʰi}/到/|fv{ʈʂʰɯ}/的变化，就像专名‘Daeshi’的情况一样。
@@ -33568,7 +33571,7 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\comp <langue="pmi" print="n"> lu55ɕɨ22
+\comp <langue="pmi"> lu55ɕɨ22
 \ton L#
 \lc lo˧ʂv̩˩
 \so F4
@@ -34944,7 +34947,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> lʲʷʌ51 (lɥɤ˥˩)
+\comp <langue="pmi"> lʲʷʌ51
 \nt <type="hist" print="n" langue="fra"> (notations 2006: “/lu˩˥/, diphtongué vers ə: [luə˩˥]; analyse: rime diphtonguée pour maintenir une distance avec /lo˩˥/?")
 \nt <type="hist" print="n" langue="fra"> (notations 2006: “lu˩˥, diphtongué vers ə ou ɤ: [luɤ˩˥]; la prononciation [lu˩˥] est jugée incorrecte")
 \nt <dom="ety" langue="fra"> Une piste à explorer: pourrait-il s'agir d'un emprunt au pumi?
@@ -35567,7 +35570,7 @@
 \lc mi˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\comp <langue="pmi" print="n"> mʌ51
+\comp <langue="pmi"> mʌ51
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -35813,7 +35816,7 @@
 \cf ɬo˧˥
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\comp <langue="pmi" print="n"> m̥i55ɬõ51
+\comp <langue="pmi"> m̥i55ɬõ51
 \nt <type="hist" print="n" langue="fra"> (historique 2007: noté d2, puis corrigé en d1, puis remis en d2) (prier: schéma tonal régulier: d2a+4)
 \ton #H
 \so F4
@@ -35973,7 +35976,7 @@
 \lc mi˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> m̥i35
+\comp <langue="pmi"> m̥i35
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
 \ton Lα
 \so F4
@@ -36447,7 +36450,7 @@
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\comp <langue="pmi" print="n"> mu22mu51
+\comp <langue="pmi"> mu22mu51
 \nt <type="hist" print="n" dom="ton" langue="fra"> ton confirmé en 2011: d7
 \ton H#
 \lc mo˧mo˥
@@ -36931,7 +36934,7 @@
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\comp <langue="pmi" print="n"> mæ̃55
+\comp <langue="pmi"> mæ̃55
 \ton M
 \lc mv̩˧
 \so F4
@@ -37008,7 +37011,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> mə35
+\comp <langue="pmi"> mə35
 \nt <langue="fra" dom="ton" type="hist" print="n"> Ce verbe s'oppose par son ton à: /mv̩˩˧/, ton 3, “cuit": lə˧mv̩˩ze˩ “c'est cuit".
 \so F4
 \va <speaker="F5"> ID.
@@ -37049,7 +37052,7 @@
 \an di˩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> mə51
+\comp <langue="pmi"> mə51
 \nt <type="hist" print="n" langue="fra"> Ce mot n'a pu être élicité en cadre /ʈʂʰɯ…ɲi/. Lorsque l'enquêteur désigne le ciel, la locutrice indique “esprit du ciel", /mv̩˧-gɤ˧lɑ˥/.
 \ton #H
 \so F4
@@ -37091,7 +37094,7 @@
 \lc mv̩˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> mʌ35
+\comp <langue="pmi"> mʌ35
 \nt <type="hist" print="n" langue="fra"> notation 2006: /‡mv̩˥/; ton corrigé, et confirmé en 2009; mais l'exemple ‘allumer un feu' était resté noté /‡mv̩˥kʰɯ˧/ jusqu'en 2009.
 \nt <type="hist" print="n" langue="fra"> Homophone de “ciel".
 \ton #H
@@ -37588,7 +37591,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> ŋõ51
+\comp <langue="pmi"> ŋõ51
 \nt <type="hist" print="n" langue="fra"> (notation 2007: “mv̩˥gv̩˥, ton d2; ʈʂʰɯ˥ mv̩˧gv̩˧ ɲi˥") (notes anciennes: “mv̩˥gv̩˥gv̩˥ ze˩, corrigé en 2008 en mv̩˧gv̩˧ gv̩˧ ze˩ +tsɯ˩"); mêmes tons que “il vente", càd ton moyen. Autre combinaison élicitée: mv̩˧gv̩˧gv̩˧tsɯ˩ (notes anciennes: “mv̩˥gv̩˥gv̩˥ tsɯ˩, corrigé en 2008 en mv̩˧gv̩˧gv̩˧tsɯ˩"); mv̩˧gv̩˧ lɑ˩ (notes d'avant 2008: mv̩˥gv̩˥ lɑ˩; verbe /lɑ˩/: “frapper")
 \ton #H
 \lc mv̩˧gv̩˧
@@ -37842,7 +37845,7 @@
 \sy mo˩kwæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> mu55qɑ22
+\comp <langue="pmi"> mu55qɑ22
 \nt <dom="phono" type="hist" print="n" langue="fra" print="n"> Vérifié: initiale uvulaire et non vélaire.
 \ton L#
 \lc mv̩˧qo˩
@@ -39547,7 +39550,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\comp <langue="pmi" print="n"> næ̃22pu55qʰʌ35
+\comp <langue="pmi"> næ̃22pu55qʰʌ35
 \ton LM-
 \lc nɑ˩pv̩˧qʰwɤ˧
 \so F4
@@ -39933,7 +39936,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> sə̃22ni55
+\comp <langue="pmi"> sə̃22ni55
 \ton H
 \lc ɲi˧
 \so F4
@@ -41959,7 +41962,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\comp <langue="pmi" print="n"> nʲæ51
+\comp <langue="pmi"> nʲæ51
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ˧˥, puis ˩˥) (n'est pas: /lv/; confirmé plusieurs fois)
 \ton LM
 \lc njɤ˩ɭɯ˥
@@ -42003,7 +42006,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> njæ55mĩ55dzɛi22gʷə̃22
+\comp <langue="pmi"> njæ55mĩ55dzɛi22gʷə̃22
 \nt <type="hist" print="n" langue="fra"> (notes 2006: njɤ˧mv̩˥mi˧)
 \ton H#-L
 \lc njɤ˧mv̩˥mi˩
@@ -42823,7 +42826,7 @@
 \lc nv̩˩dʑɯ˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> nʲu22dʑɨ35
+\comp <langue="pmi"> nʲu22dʑɨ35
 \ton LH
 \so F4
 \va <speaker="F4"> ɳɯ˩dʑɯ˥
@@ -42874,7 +42877,7 @@
 \lc nv̩˧hṽ̩˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> nʲu51
+\comp <langue="pmi"> nʲu51
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -44577,7 +44580,7 @@
 \lc pʰi˧
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\comp <langue="pmi" print="n"> pʰi35
+\comp <langue="pmi"> pʰi35
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ˥; était le seul item de ton m1 à avoir un ˥ en forme de citation; vérif avec f4 le 21 mai 2008: refuse ˥, réalise ˩˥; nouvelle vérification en 2011: est en fait un ton L, réalisé M en forme de citation: /pʰi˧/
 \nt <dom="sem" langue="fra"> c'est dans un sac de ce tissu qu'on enterrait autrefois les trésors (or, argent, objets en jade, pièces de monnaie…) dans les périodes de troubles.
 \ton M
@@ -45597,7 +45600,7 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\comp <langue="pmi" print="n"> pu55dʑɨ51
+\comp <langue="pmi"> pu55dʑɨ51
 \nt <dom="phono" langue="fra" type="hist" print="n"> Tons confirmés. Avant 2009, noté simplement: /‡…i˧hĩ˧/, par erreur. En 2006, avais noté: /pu˧ɖʐɯ˧ i:˧ hĩ˧ hĩ˥/: la perception d'un ton haut final dans certains cas est simplement due à l'effet d'un renforcement final.
 \ton #H
 \lc po˧ɖʐɯ˧
@@ -45865,7 +45868,7 @@
 \lc pɤ˩mi˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> pʌ55di51
+\comp <langue="pmi"> pʌ55di51
 \nt <type="hist" print="n" langue="fra"> (n'est pas ton d5), vérifié avec F5 et F4 en 2007 (historique 2006: “puə˩mi˩˥; d'abord noté pɤ˩mi˩˥")
 \ton L
 \so F4
@@ -46787,7 +46790,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> pʰɯ35
+\comp <langue="pmi"> pʰɯ35
 \ton MH
 \lc pʰv̩˧˥
 \so F4
@@ -47314,7 +47317,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> pɯ22tɑ55
+\comp <langue="pmi"> pɯ22tɑ55
 \ton L
 \lc pɻ̩˩tɑ˩˥
 \so F4
@@ -48248,7 +48251,7 @@
 \lc qʰæ˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> qʰæ51 (emprunt na?)
+\comp <langue="pmi" print="n"> qʰæ51
 \ton #H
 \so F4
 \va <speaker="M18"> ID.
@@ -48642,7 +48645,7 @@
 \lc qʰɑ˧dze˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> qʰæ22dzi55
+\comp <langue="pmi"> qʰæ22dzi55
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: kʶɑ˧dze˧; reconnaissance de l'uvulaire initiale retardée par le fait que j'avais le naxi occidental dans l'oreille)
 \nt <dom="morpho" langue="fra"> L'étymologie du mot n'est ni ‘céréale amère’ (ce qui serait surprenant), ni ‘céréale de l'empereur’ (idem). La première syllabe, /|fv{qʰɑ˧}/, n'est pas perçue comme un morphème doté d'une signification propre. Cette situation est différente de celle de /|fv{jɤ˧qʰɑ˧}/, mot dans lequel la syllabe /|fv{qʰɑ˧}/ a clairement son sens de ‘amer’.
 \nt <dom="morpho" langue="eng"> The word's etymology is neither ‘bitter cereal’ (which would be a paradoxical label) nor ‘emperor's cereal’. The first syllable, /|fv{qʰɑ˧}/, is not perceived as a morpheme having an identifiable meaning. This situation is different from that of /|fv{jɤ˧qʰɑ˧}/, a word in which the syllable /|fv{qʰɑ˧}/ clearly means ‘bitter’.
@@ -49785,7 +49788,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> qu55pu22
+\comp <langue="pmi"> qu55pu22
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire
 \nt <dom="sem" langue="fra"> Ce mot est onomatopéique, calqué sur le son de l'appel de cet oiseau.
 \nt <dom="sem" langue="eng"> This word is onomatopoeic, modelled on the sound of the bird's call.
@@ -51219,7 +51222,7 @@
 \lc qwæ˩ʂɻ̩˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> kwæ35
+\comp <langue="pmi"> kwæ35
 \nt <type="hist" print="n" langue="fra"> ʐwæ˧kwæ˥ʂv̩˩: schéma tonal régulier; vérifié: prononciation uvulaire de l'initiale
 \nt <type="hist" print="n" langue="fra"> juin 2024: corrigé de ʂv̩˩ en ʂɻ̩˩
 \ton LM+MH#
@@ -51250,7 +51253,7 @@
 \lc qʰwæ˩ʈɯ˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\comp <langue="pmi" print="n"> qʰwɑ55ʈɨ55
+\comp <langue="pmi"> qʰwɑ55ʈɨ55
 \nt <type="hist" print="n" dom="phono" langue="fra"> Avant 2009: noté kʶwæ˧ʈɯ˥.
 \ton H#
 \so F4
@@ -51333,7 +51336,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> qwɑ55
+\comp <langue="pmi"> qwɑ55
 \nt <type="hist" print="n" langue="fra"> note avant novembre 2011: “vérifié: initiale vélaire et non uvulaire"; en fait: modifié le 15 novembre: est une initiale uvulaire
 \ton M
 \lc qwɤ˧
@@ -51378,7 +51381,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> qʰwɑ35
+\comp <langue="pmi"> qʰwɑ35
 \nt <type="hist" print="n" langue="fra"> (notation 2009; auparavant, noté /qʰwɑ˩˥/; plus tôt encore: noté kʶwɑ˩˥) (avant juillet 2012: noté au ton LH)
 \ton MH
 \lc qʰwɤ˧˥
@@ -52594,7 +52597,8 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> ɦɑ55pʰɯ51 (même structure lexicale)
+\comp <langue="pmi"> ɦɑ55pʰɯ51
+\nt <dom="ety" langue="fra" print="n"> La structure lexicale du mot comparable en pumi est la même qu'en na.
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: #H et M donnent #H.
 \nt <dom="ton" langue="eng"> The tonal pattern is regular.
 \nt <dom="ton" langue="cmn"> 此处的变调是符合常规的。
@@ -54795,7 +54799,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\comp <langue="pmi" print="n"> wu51
+\comp <langue="pmi"> wu51
 \nt <type="hist" print="n" langue="fra"> mai 2008: “est: ʁwɤ˥ ɖɯ˧ lɯ˧ et non ˧ ˧ ˧, cf enrt du 16 mai 2008"; au sujet des faits phonétiques qui aboutissent à cette confusion, cf doc “phonétique des séquences tonales"; en 2006, avais correctement noté /ʁwɤ˧ ɖɯ˧ lɯ˧/)
 \ton M
 \lc ʁwɤ˧
@@ -56373,7 +56377,7 @@
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\comp <langue="pmi" print="n"> ʂɨ51
+\comp <langue="pmi"> ʂɨ51
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ʂe˥)
 \ton #H
 \lc ʂe˧
@@ -56519,7 +56523,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> sæ22ɖæ51
+\comp <langue="pmi"> sæ22ɖæ51
 \nt <type="hist" print="n" langue="fra" dom="ton"> D'abord noté /se˧di˩˥/ (vers 2006).
 \nt <type="hist" print="n" langue="fra" dom="phono"> Avant juin 2024: noté se˩di˩. Corrigé en /sɤ˩di˩/.
 \ton L
@@ -56828,7 +56832,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\comp <langue="pmi" print="n"> ʂɑ55
+\comp <langue="pmi"> ʂɑ55
 \nt <type="hist" print="n" langue="fra"> avant août 2014: noté au ton L
 \ton LM+MH#
 \lc ʂe˩mo˧˥
@@ -58976,7 +58980,8 @@
 \ps v
 \ton Lα
 \lc so˩˥
-\comp <langue="pmi" print="n"> swə̃51 (même polysémie: apprendre, et enseigner)
+\comp <langue="pmi"> swə̃51
+\nt <dom="ety" print="n" langue="fra"> Le mot pumi présente la même polysémie que le mot na: apprendre, et enseigner.
 \nt <type="hist" print="n" langue="fra"> (confirmé; avant 2009, avais noté: ʈʰæ˥ɻæ˩ so˩)(confirmé en 2012: est un ton L)
 \so F4
 \va <speaker="F5"> ID.
@@ -60374,7 +60379,7 @@
 \lc ʂɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> sɨ35
+\comp <langue="pmi"> sɨ35
 \ton Mα
 \so F4
 \va <speaker="M21"> ID.
@@ -61932,7 +61937,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> tɑ22næ̃35
+\comp <langue="pmi"> tɑ22næ̃35
 \ton L#
 \lc tɑ˧nɑ˩
 \so F4
@@ -62741,7 +62746,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> tæ̃35
+\comp <langue="pmi"> tæ̃35
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n" dom="ton" langue="fra"> ton 3a
 \ton Lα
@@ -62769,8 +62774,6 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> tæ̃35
-\nt <type="hist" print="n" dom="ton" langue="fra"> ton 3a
 \de To tie (a knot).
 \ge to_tie
 \dn 扣（扣子）、系、结
@@ -63794,7 +63797,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> tɕʰʷæ35
+\comp <langue="pmi"> tɕʰʷæ35
 \ton MH
 \lc tɕʰɤ˧˥
 \so F4
@@ -64274,7 +64277,7 @@
 \sn 1
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\comp <langue="pmi" print="n"> tɕʰʌ55tĩ51
+\comp <langue="pmi"> tɕʰʌ55tĩ51
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2007: le schéma tonal est le même à l'isolée que celui de “autel", 2169)
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -64474,7 +64477,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> tɕʌ55
+\comp <langue="pmi"> tɕʌ55
 \nt <type="hist" print="n" langue="fra"> avant mai 2012: noté /tɕi/
 \ton MH
 \lc tɕɯ˧˥
@@ -66847,7 +66850,7 @@
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\comp <langue="pmi" print="n"> tõ22pu51
+\comp <langue="pmi"> tõ22pu51
 \ton LM
 \lc to˩pv̩˥
 \so F4
@@ -66870,7 +66873,6 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> mə55dɑ51
 \nt <dom="sem" langue="fra"> flèche de feu
 \nt <dom="ety" langue="fra"> Une analyse comme un emprunt au chinois |fn{同步枪} a été envisagée, mais dans ce scénario, l'initiale de la deuxième syllabe ne devrait pas être aspirée.
 \nt <dom="ety" langue="eng"> An analysis as a borrowing from Chinese |fn{同步枪} has been considered, but in this scenario the initial of the second syllable should not be aspirated.
@@ -69579,7 +69581,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> tsi22tɑ35
+\comp <langue="pmi"> tsi22tɑ35
 \ton LM+MH#
 \lc tse˩tɑ˧˥
 \so F4
@@ -72706,7 +72708,7 @@
 \lc tsʰɯ˧˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\comp <langue="pmi" print="n"> tsʰɨ51
+\comp <langue="pmi"> tsʰɨ51
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté par erreur: tsʰɯ˩˧, ton m1)
 \ton MH
 \so F4
@@ -75490,7 +75492,7 @@
 \sn 1
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\comp <langue="pmi" print="n"> ʈɨ22tsʰɨ51
+\comp <langue="pmi"> ʈɨ22tsʰɨ51
 \nt <type="hist" print="n" langue="fra"> (confirmé: initiale de /tv/ non rétroflexe) (vérifié en 2009, n'est pas /tsʰi/)
 \so F4
 \va <speaker="F5"> ID.
@@ -76718,7 +76720,7 @@
 \cf ʈʂæ˧wɤ˩
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\comp <langue="pmi" print="n"> gwʌ51
+\comp <langue="pmi"> gwʌ51
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -77980,7 +77982,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> ʑɨ35
+\comp <langue="pmi"> ʑɨ35
 \nt <type="hist" print="n" langue="fra"> le˧-ʑi˧-ze˥: phonétiquement: [le]
 \ton MH
 \lc ʑi˧˥
@@ -78291,7 +78293,7 @@
 \lc ʑi˧mv̩˧˥
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\comp <langue="pmi" print="n"> ʑɨ55mĩ22
+\comp <langue="pmi"> ʑɨ55mĩ22
 \nt <type="hist" print="n" langue="fra"> ʑi˧mv̩˧ ɲi˥ (corrigé en 2009; auparavant: noté /ʑi˧mv̩˧ kʶwɑ˩˥/; élicité en cadre, artificiellement: ʈʂʰɯ˥ ʑi˧mv̩˧ kʶwɑ˧˥ ɲi˩; noté: “tons vérifiés: contour sur avant-dernière syllabe"; en fait: ne se prête pas à insertion dans ce cadre) (njɤ˧ ɑ˧hwɤ˧ ʑi˧mv̩˥ mɤ˧-dʑɤ˩: tons vérifiés)
 \ton MH#
 \so F4
@@ -79769,7 +79771,7 @@
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\comp <langue="pmi" print="n"> ʑɨ22tsən51
+\comp <langue="pmi"> ʑɨ22tsən51
 \ton LM
 \lc ʐɯ˩tse˥
 \so F4
@@ -80211,7 +80213,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\comp <langue="pmi" print="n"> ʐɨ51
+\comp <langue="pmi"> ʐɨ51
 \ton L
 \lc ʐv̩˩mi˩˥
 \so F4
@@ -82351,7 +82353,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\comp <langue="pmi" print="n"> wʌ22wɑ35
+\comp <langue="pmi"> wʌ22wɑ35
 \cf ʁwɤ˧~ʁwɤ˥
 \ton Lα
 \lc --
