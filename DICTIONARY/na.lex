@@ -3872,7 +3872,7 @@
 \cf bv̩˧ʈʂɯ˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»)
+\nt <dom="sem" langue="fra" print="n"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»)
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -5461,7 +5461,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (schème tonal noté en 2009: est simplement d7)
-\nt <dom="sem" langue="fra"> photo 4 des 5 photos prises le 11/11/2007 (5 photos «recto», 5 photos «verso»).
+\nt <dom="sem" langue="fra" print="n"> photo 4 des 5 photos prises le 11/11/2007 (5 photos «recto», 5 photos «verso»).
 \ton H#
 \so F4
 \va <speaker="M21"> ID.
@@ -8704,7 +8704,6 @@
 \sd <langue="eng"> animal
 \nt <dom="sem" langue="fra"> animal qui tue les poulets, mais ne les mange pas en entier
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \lc dv̩˩˥
 \so F4
@@ -9477,7 +9476,6 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \so F4
 \va <speaker="F5"> ID.
@@ -10931,7 +10929,6 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \so F4
 \va <speaker="F5"> *
@@ -35571,9 +35568,8 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> fonctionne comme suffixe dans les noms d'animaux; mais peut s'utiliser comme nom: “c'est une femelle"
+\nt <dom="sem" langue="fra"> Ce morphème fonctionne comme suffixe dans les noms d'animaux, mais peut également s'utiliser comme un nom: «c'est une femelle».
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \lc mi˩˥
 \so F4
@@ -35588,7 +35584,6 @@
 \xe It's a female!
 \xn 是母的！
 \xf C'est une femelle!
-\dt 04/Sep/2015
 
 \lx mi˧
 \sf <nb="B"> 206
@@ -35889,7 +35884,7 @@
 \lc mi˩mo˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»). Celui-ci correspond à la photo 1: petit format, ne laisse rien passer
+\nt <dom="sem" langue="fra" print="n"> cf photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»). Celui-ci correspond à la photo 1: petit format, ne laisse rien passer
 \ton L
 \so F4
 \va <speaker="M21"> ID.
@@ -35982,18 +35977,24 @@
 \lc mi˩zɯ˩˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="sem" langue="fra"> (pilier féminin; même mot que “femme")
 \ton L
 \so F4
 \va <speaker="M23"> ID.
+\sn 1
 \pdv v̩˧
-\de Woman; also the name of the second pillar in the main room (the feminine pillar).
+\de Woman.
 \ge woman
-\dn 女人。主屋的第二个柱子（代表女性的那个柱子）也是用这个名字。
+\dn 女人。
 \gn 女人
-\df Femme; aussi: nom du deuxième pilier de la maison (le pilier féminin).
+\df Femme.
 \gf femme
-\dt 24/Apr/2017
+\sn 2
+\de Name of the second pillar in the main room (the feminine pillar).
+\ge feminine_pillar
+\dn 主屋的第二个柱子（代表女性的柱子）。
+\gn 代表女性的柱子
+\df Nom du second pilier de la maison (le pilier féminin).
+\gf pilier_féminin
 
 \lx mi˩α
 \sf <nb="B"> 2169b
@@ -36721,7 +36722,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vc <langue="fra" print="n> Le locuteur propose une étymologie “mongole" + “garçon, jeune homme".
+\nt <langue="fra" dom="ety"> Le locuteur M18 propose une étymologie comme: `mongole' + `homme, garçon'.
+\nt <langue="eng" dom="ety"> Consultant M18 proposes an etymology from `Mongolian' + `man, boy'.
+\nt <langue="cmn" dom="ety"> M18认为这个词来自‘蒙古族’与‘男人’的结合。
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Soldier.
@@ -37273,7 +37276,7 @@
 \ton H#-L
 \so F4
 \va <speaker="F5"> ɲi˧mi˧ dʑɯ˩ ʈʰɯ˩
-\vc <langue="fra" dom="sem"> Cette expression signifie “le soleil boit de l'eau". La locutrice connaît la forme |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, mais ne l'emploie pas. Une variante |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} est attestée.
+\vc <langue="fra" dom="sem"> Cette expression signifie «le soleil boit de l'eau». La locutrice connaît la forme |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, mais ne l'emploie pas. Une variante |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} est attestée.
 \vc <langue="eng" dom="sem"> This phrase means ‘the sun drinks water’. The speaker knows the form |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}, but does not use it. A variant |fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥} is attested.
 \vc <langue="cmn" dom="sem"> 意思是‘太阳喝水’。还有另外一个变体：|fv{ɲi˧mi˧ | dʑɯ˩ ʈʰɯ˩˥}。这位发音合作人也知道|fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}这个短语，但没有使用。
 \va <speaker="M18"> mv̩˧-hĩ˥ | dʑɯ˩ ʈʰɯ˩˥
@@ -37394,7 +37397,7 @@
 \xv ə˧tso˧ mv̩˩do˩-bi˩? |
 \xe What would [you] like to ask? / What is your question? (Context: the investigator turns towards his teacher (Ama), obviously wanting to ask a question, but he is tardy in expressing his request, experiencing trouble finding his words in Na. The teacher encourages him by asking, in Na: “What is it you want to ask? / What is your question?”
 \xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭语表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
-\xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: “Qu'est-ce que tu vas demander? / Quelle est ta question?”)
+\xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: «Qu'est-ce que tu vas demander? / Quelle est ta question?»)
 \xv mv̩˩do˩ zo˩-ɲi˥ mæ˩!
 \xe One should ask, of course! (Context: a discussion about awkward situations when someone is puzzled by someone else's behaviour, for instance when people with different language backgrounds and cultural backgrounds live alongside one another. The consultant says: “One should ask, of course!” The idea is that conversations dispell misunderstandings and allow for good mutual understanding.)
 \xn 应该问的啊！（情景：不同语言与文化背景的人在一起，如果不多交流，容易互相误会。阿妈觉得：不理解的，应该问一问，就知道了。愉快交流，才能好好一起生活。）
@@ -37768,7 +37771,9 @@
 \mr mv̩˥2
 \mr mv̩˩α1
 \mr -di˩
-\mc <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
+\mc <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, «chose pour souffler sur le feu».
+\mc <langue="eng"> Roselle Dobbs proposes to analyze this form as: fire-to.blow-|fg{nmlz}, “thing to blow on the fire”.
+\mc <langue="cmn"> 杜玫瑰的分析：‘火’-‘吹’-|fg{名物化}，‘吹火的东西’。
 \ps n
 \sy ko˧li#˥
 \sd <langue="fra"> objet
@@ -38806,7 +38811,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" dom="phono" langue="fra"> (homophone avec “avoine")
-\nt <dom="sem" langue="fra"> Ce terme est archaïque. L'homophonie avec “avoine" a peut-être joué un rôle dans le processus par lequel il est sorti de l'usage courant. Dans l'état actuel de la langue, on ne peut l'employer seul, comme l'illustrent les deux phrases mal formées fournies parmi les exemples: ainsi, on ne peut dire ‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥} ‘c'est le frère de Najjie'.
+\nt <dom="sem" langue="fra"> Ce terme est archaïque. L'homophonie avec `avoine' a peut-être joué un rôle dans le processus par lequel il est sorti de l'usage courant. Dans l'état actuel de la langue, on ne peut l'employer seul, comme l'illustrent les deux phrases mal formées fournies parmi les exemples: ainsi, on ne peut dire ‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥} ‘c'est le frère de Najjie'.
 \nt <dom="sem" langue="eng"> This term is archaic. Homophony with ‘oats’ may have played a part in the process by which it fell out of common usage. In the current state of the language, it cannot be used on its own, as illustrated by the two ill-formed sentences provided among the examples: thus, one cannot say ‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥} ‘this is Najjie's brother’.
 \nt <dom="sem" langue="cmn"> 这个词已经成为古词了。该词与‘燕麦’同音，这可能是它逐渐被淘汰的原因之一。在目前的语言状况下，该词不能单独使用，例句中提供的两个病句就说明了这一点：如，不能说‡|fv{ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩ ɲi˥}‘他是娜金的弟弟／哥哥’。
 \ton L
@@ -39140,7 +39145,6 @@
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \lc nɑ˩˥
 \so F4
@@ -39446,7 +39450,7 @@
 \xv “bæ˧li˥”, | nɑ˩hĩ˧-ʐwɤ˧ ɲi˥!
 \xe “|fv{bæ˧li˥}” [a Naxi word for sweetened tea] is a Naxi word! / It's in the Naxi language!
 \xn “|fv{bæ˧li˥}”[纳西语词语：‘甜茶’]，是纳西语！
-\xf “|fv{bæ˧li˥}” [mot naxi désignant le thé sucré], c'est un mot naxi! / C'est du naxi!
+\xf «|fv{bæ˧li˥}» [mot naxi désignant le thé sucré], c'est un mot naxi! / C'est du naxi!
 \xv jo˧mv̩˧ hĩ˧, | nɑ˩hĩ˧-ʐwɤ˧ kv̩˥!
 \xe The people of the hamlet of Youmi speak Naxi!
 \xn 油米村人讲的是纳西语！
@@ -39603,7 +39607,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (+hĩ˩, tons vérifiés en mai 2008 avec M18; avais d'abord noté nɑ˩qʰæ˧ʈʂʰe˥, puis kʶæ˥ʈʂʰe˧); se réduplique en: næ˩qʰæ˧ næ˩qʰæ˧ ʈʂʰe˩, en surélevant les deux premières syllabes (d'abord noté ʈʂʰe˥, et kʶæ˥)
-\nt <dom="phono" langue="fra"> Ce mot constitue l'unique exemple observé à ce jour de la combinaison syllabique /|fv{næ}/: un /|fv{n}/ non rétroflexe suivi de la voyelle /|fv{æ}/. Le lien évident avec /|fv{nɑ}/ “noir" suggère que la réalisation |fv{æ} est le fruit d'une harmonie vocalique régressive.
+\nt <dom="phono" langue="fra"> Ce mot constitue l'unique exemple observé à ce jour de la combinaison syllabique /|fv{næ}/: un /|fv{n}/ non rétroflexe suivi de la voyelle /|fv{æ}/. Le lien évident avec /|fv{nɑ}/ `noir' suggère que la réalisation |fv{æ} est le fruit d'une harmonie vocalique régressive.
 \nt <dom="phono" langue="eng"> This word is the only example to date of the syllable combination /|fv{næ}/: a non-retroflex /|fv{n}/ followed by the vowel /|fv{æ}/. The obvious link with /|fv{nɑ}/ ‘black’ suggests that the |fv{æ} vowel quality in this word results from regressive vowel harmony.
 \nt <dom="phono" langue="cmn"> 这个词是迄今为止/|fv{næ}/音节的唯一例子：非卷舌的鼻音声母/|fv{n}/跟/|fv{æ}/元音。与/|fv{nɑ}/‘黑’的明显联系表明，此处的|fv{æ}应该是元音和谐的结果。
 \so F4
@@ -41900,7 +41904,7 @@
 \mr njɤ˧kv̩˩
 \mr njɤ˩˥
 \mr tsʰɤ˧˥α
-\mc <langue="fra"> Les trois composantes morphémiques sont identifiées comme: “œil", “pommette", et le |fg{clf} des feuilles et des fleurs
+\mc <langue="fra"> Les trois composantes morphémiques sont identifiées comme: `œil', `pommette', et le |fg{clf} des feuilles et des fleurs.
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -42649,7 +42653,9 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (notation 2006: no˧gu˩˥) (voyelle confirmée, tons confirmés)
-\nt <dom="sem" langue="fra"> (ne paraît pas être la même racine que dans “souffrir, maladie")
+\nt <dom="ety" langue="fra"> La deuxième syllabe de ce mot ne paraît pas être la même racine que dans `souffrir, maladie'.
+\nt <dom="ety" langue="eng"> The second syllable of this word does not seem to be the same root as in `to suffer; illness'.
+\nt <dom="ety" langue="cmn"> 这个词的第二个音节似乎与‘痛、病’这个词根不同。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -43037,7 +43043,7 @@
 \ge brave
 \dn 勇敢、有勇气的
 \gn 勇敢
-\df Courageux, audacieux. Littéralement “(au) grand cœur".
+\df Courageux, audacieux. Littéralement «(au) grand cœur».
 \gf courageux
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ ɖɯ˩˥! |
 \xe This person has courage! (literally “…(his/her) heart is large").
@@ -43070,7 +43076,7 @@
 \ge timid
 \dn 胆小、没有勇气（字面意思是：“心小”）。
 \gn 胆小
-\df Timide, lâche, qui manque de courage. Littéralement “(au) cœur petit".
+\df Timide, lâche, qui manque de courage. Littéralement «(au) cœur petit».
 \ge timide
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩-tɕi˥! |
 \xe This person lacks courage!
@@ -43684,7 +43690,7 @@
 \xn 出生的地方、老家、故乡
 \xf lieu de naissance, lieu d'origine
 \xc <langue="fra" type="hist" print="n"> avais d'abord pensé que cela signifiait “son propre nom, sa propre terre"; en fait, cela provient du disyllabe |fv{/mv̩˧di˧˥/} ‘terres'.
-\xc <langue="fra" dom="sem"> Cette expression s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “les terres d'autrui, les terres étrangères".
+\xc <langue="fra" dom="sem"> Cette expression s'oppose à: |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} «les terres d'autrui, les terres étrangères».
 \xc <langue="eng" dom="sem"> This phrase contrasts with |fv{/hĩ˧-mv̩˥ hĩ˩-di˩/} “other people's lands / foreign lands".
 \xc <langue="cmn" dom="sem"> 这个短语与|fv{/hĩ˧-mv̩˥ hĩ˩-di˩/}“别人的土地/外地”形成对比。
 \xv hĩ˧-mv̩˥ hĩ˩-di˩ | qʰɑ˧-dʑɤ˥~dʑɤ˩, | õ˧-mv̩˥ õ˩-di˩ tsʰe˩ mɤ˩-gv̩˩!
@@ -43975,7 +43981,7 @@
 \xe Don't let (this opportunity) slip by! / (You/we) mustn't miss this opportunity!
 \xn 不要错过（机会）！
 \xf Il ne faut pas laisser passer/filer (une occasion/un moment propice)!
-\xc <dom="phono" langue="fra"> Une observation pertinente concernant la synchronie dynamique de la langue na est que cette expression, “ne pas laisser passer", semble en voie de figement. Cette expression paraît prendre le chemin de /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘vraiment, pour de vrai’ devenant quelque chose comme [|fv{ʈʰææ̃˧}]. La première syllabe est toujours réalisée avec une mélodie montante, alors qu'on s'attendrait à un schéma tonal M.H.L (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), avec déploiement du contour MH sur les deux premières syllabes (ton M sur la première syllabe, et réassociation du ton H à la deuxième syllabe). Or cette prononciation avec un simple ton M sur la première syllabe, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, est compréhensible mais non idiomatique.
+\xc <dom="phono" langue="fra"> Une observation pertinente concernant la synchronie dynamique de la langue na est que cette expression, «ne pas laisser passer», semble en voie de figement. Cette expression paraît prendre le chemin de /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘vraiment, pour de vrai’ devenant quelque chose comme [|fv{ʈʰææ̃˧}]. La première syllabe est toujours réalisée avec une mélodie montante, alors qu'on s'attendrait à un schéma tonal M.H.L (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), avec déploiement du contour MH sur les deux premières syllabes (ton M sur la première syllabe, et réassociation du ton H à la deuxième syllabe). Or cette prononciation avec un simple ton M sur la première syllabe, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, est compréhensible mais non idiomatique.
 \xc <dom="phono" langue="eng"> An observation that has relevance to the study of synchronic dynamics within the Na language is that this phrase, ‘not to let slip, not to miss out on’, seems to be in the process of becoming a set phrase with a pronunciation of its own, somewhat like the reduction of /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ‘really, actually’ to something resembling [|fv{ʈʰææ̃˧}]. The first syllable is always realized with a rising melody, whereas one would expect an M.H.L tonal pattern (/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/), with deployment of the MH contour over the first two syllables (M tone on the first syllable, and reassociation of the H tone on the second syllable). This pronunciation, with a simple M tone on the first syllable, /|fv{pæ˧ tʰɑ˥-kʰɯ˩}/, is understandable but not idiomatic.
 \xc <dom="phono" langue="cmn"> ‘不放过，不错过’这个短语似乎正在成为一个有自己独特发音的固定词汇，类似于/|fv{ʈʰæ˧mi˧-ɳɯ˩}/‘真的，实际上’的实际发音简化，接近[|fv{ʈʰææ̃˧}]。按一般规则，声调模式应该是M.H.L（即/|fv{pæ˧ tʰɑ˥-kʰɯ˩}/）：第一个音节承载M调，第二个音节承载H调。但事实上，第一个音节总是以上升的旋律实现的。/|fv{pæ˧tʰɑ˥-kʰɯ˩}/这种发音，勉强可以听懂，但不符合用语习惯。
 \xv le˧-pæ˧-ze˥!
@@ -45414,7 +45420,6 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \lc pʰɤ˩˥
 \so F4
@@ -45680,7 +45685,6 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /ʁu˧qʰwɤ˩ pu˩ hu˩hu˥gv̩˩/) (note d'avant 2009: /ʁu˥ kʶwɑ˩ pu˩ hu˩ hu˥ gv̩˧/) Sens vérifié
 \nt <type="hist" print="n" langue="fra"> Roselle, 2015: ‘I think the first phoneme might be aspirated.' Réponse 2016: NON.
-\nt <dom="sem" langue="fra"> sens littéral: “partie molle de la tête"
 \ton L+H#
 \lc pɤ˩ho˩ho˥
 \so F4
@@ -45697,7 +45701,7 @@
 \xv ʁo˧qʰwɤ˩ | pɤ˩-ho˩~ho˥-gv̩˩-hĩ˩ | tʰv̩˧-kʰwɤ˥
 \xe the place where the head is soft =the fontanel
 \xn 头上软软的那块 =囟门
-\xf l'endroit où la tête est toute molle =la fontanelle, chez les bébés
+\xf l'endroit où la tête est molle =la fontanelle, chez les bébés
 \xv ʁo˧qʰwɤ˩ | pɤ˩-ho˩~ho˥-gv̩˩-hĩ˩ | tʰv̩˧-kʰwɤ˥, | dzo˧ mɤ˧-ɖo˧!
 \xe The fontanel should not be touched!
 \xn 囟门，不要彭！
@@ -47020,7 +47024,9 @@
 \xe to care for, to give great attention to
 \xn 关心
 \xf prêter attention à
-\xc <langue="fra" dom="synt"> Composé de “cher"+"faire".
+\xc <langue="fra" dom="synt"> Le verbe est le verbe `faire'.
+\xc <langue="eng" dom="synt"> The verb in this expression is `to do'.
+\xc <langue="cmn" dom="synt"> 此说法中的动词为‘做、干’。
 \xv hĩ˧ pʰv̩˩ɖɯ˩-kv̩˩!
 \xe One cared for people, one paid attention to people! (A comment about traditional Na society.)
 \xn 我们会关心别人，我们会尊重别人！（关于传统摩梭社会的一个）
@@ -49849,7 +49855,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire
-\nt <dom="sem" langue="fra"> littéralement: “la bouche est sèche"
+\nt <dom="sem" langue="fra"> Littéralement: «la bouche est sèche».
+\nt <dom="sem" langue="eng"> Literal translation: “dry-mouthed/the mouth is dry”.
+\nt <dom="sem" langue="cmn"> 直译：‘口干’。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -49860,9 +49868,9 @@
 \df Assoiffé, ayant soif.
 \gf assoiffé
 \xv qo˧pɻ̩˧-ze˧
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 渴了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv qo˧pɻ̩˧ mɤ˧-tʰɑ˧-ze˥
 \xe terribly thirsty
@@ -50958,7 +50966,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: kwæ˩ʈʂæ˩˥) vérifié: réalisation uvulaire de l'initiale
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; avais noté en 2006: kwæ˩ ɖʐæ˩˥)
-\nt <dom="sem" langue="fra"> sens confirmé: est “mâchoire"
+\nt <dom="sem" langue="fra" type="hist" print="n"> sens confirmé: est “mâchoire"
 \ton L
 \so F4
 \va <speaker="F5"> kwæ˩ʈʂæ˩
@@ -52130,7 +52138,6 @@
 \cf ʁæ˧ŋv̩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> racine: apparaît aussi dans “col en argent"
 \ton #H
 \lc ʁæ˧
 \so F4
@@ -52142,7 +52149,6 @@
 \gn 脖子
 \df Cou (monosyllabe; moins usité que le disyllabe).
 \gf cou
-\dt 01/Oct/2015
 
 \lx ʁɑ˧
 \sf <nb="2011"> 1437
@@ -52172,12 +52178,12 @@
 \xe to give a piece of bad meat
 \xn 给一块不好的肉
 \xf donner un morceau de mauvaise viande
-\xc <langue="fra" dom="sem"> Exemple inspiré par le récit “Mariage de la sœur".
+\xc <langue="fra" dom="sem"> Exemple inspiré par le récit «Le Mariage de la sœur».
+\xc <langue="eng" dom="sem"> This example was inspired by the narrative “The Sister's wedding”.
 \xv pʰi˩ko˥ | mɤ˧-ʁɑ˧-ze˧!
 \xe The apples are not good anymore! (Context: in March, apples from the previous harvest are not good anymore: they are either rotten or sour.)
 \xn 苹果不好了！ / 苹果不新鲜了！（三月份，上一季收获的苹果已经不好吃的了，或者烂了，或者变酸）
 \xf Les pommes ne sont plus bonnes! (Contexte: au mois de mars, les pommes de la récolte précédente ne sont plus bonnes, elles sont fripées ou pourries.)
-\dt 01/Oct/2015
 
 \lx ʁɑ˧
 \hm 2
@@ -52185,7 +52191,8 @@
 \ps v
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="sem" langue="fra"> Ce morphème est perçu comme étant différent de “force", /|fv{ʁɑ˥3}/.
+\nt <dom="sem" langue="fra"> Ce morphème est perçu comme étant différent de `force', /|fv{ʁɑ˥3}/.
+\nt <dom="sem" langue="eng"> This morpheme is perceived as different from `strength', /|fv{ʁɑ˥3}/.
 \ton M
 \lc ʁɑ˧
 \so F4
@@ -52556,10 +52563,11 @@
 \sf <nb="B"> 419
 \sf <nb="2011"> 530
 \or hraengu
+\mr ʁæ˥
+\mr ŋv̩˩
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <dom="sem" langue="fra"> (littéralement “argent du cou/argent sur le cou")
 \ton H#
 \lc ʁæ˧ŋv̩˥
 \so F4
@@ -52601,11 +52609,13 @@
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
 \or hrabu'eun
+\mr ʁɑ˧pv̩˧
+\mr ɻ̩̃˥1
+\mc <langue="fra"> Littéralement «os de la poitrine».
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
-\nt <dom="sem" langue="fra"> (signifie littéralement “os de la poitrine")
 \ton #H
 \lc ʁɑ˧pv̩˧ɻ̩̃˧
 \so F4
@@ -53648,7 +53658,9 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (tons vérifiés) (combinaison tonale problématique; de quoi provient-elle? zéro+˥? tons à nouveau vérifiés en 2007)
-\nt <dom="sem" langue="fra"> Plusieurs mots contenant la syllabe pour “tête" sont irréguliers au vu des régularités tonales.
+\nt <dom="ton" langue="fra"> Plusieurs mots contenant la syllabe pour `tête' ne sont pas conformes aux régularités tonales qui se dégagent.
+\nt <dom="ton" langue="eng"> Several words containing the root meaning `head' do not conform to the tonal regularities that emerge in the rest of the system.
+\nt <dom="ton" langue="cmn"> 几个包含‘头’这个词根的词不符合声调规律。
 \ton MH#
 \lc ʁo˧hṽ̩˧˥
 \so F4
@@ -54252,7 +54264,6 @@
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" print="n" langue="fra"> (notation troisième terrain; avais d'abord noté: ʁu˧ʈɻ̩˧ʈɻ̩˥) (notation hiver 2008: “rime confirmée, n'est pas /v/; tons confirmés")
-\nt <dom="sem" langue="fra"> signifie: “cheveux collés/cheveux emmêlés"
 \ton H#
 \so F4
 \va <speaker="M18"> o˧tv̩˧tv̩˧
@@ -54261,7 +54272,7 @@
 \ge Yi
 \dn 彝族（带偏见的说法：“乱糟糟的头发”）
 \gn 彝族
-\df Yi (groupe ethnique): terme péjoratif: «les hirsutes», «les ébouriffés».
+\df Yi (groupe ethnique): terme péjoratif: «les hirsutes», «les ébouriffés» (littéralement: «cheveux emmêlés»).
 \gf Yi
 \dt 22/Jun/2017
 
@@ -55084,9 +55095,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (tʰi˧ʁwɤ˧ze˧) (avant 2011, laissé une entrée ɖɯ˧-ʁwɤ˥-ɭɯ˩; est en fait …-ɭv̩˩)
-\nt <dom="sem" langue="fra"> cf “tas"
 \ton Mα
 \lc ʁwɤ˧
+\cf ʁwɤ˧α2
 \so F4
 \va <speaker="F5"> ID.
 \vc <langue="fra" print="n"> ɖɯ˧-ʁwɤ˧ tʰi˧-tsɯ˥
@@ -55124,7 +55135,6 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="sem" langue="fra"> (cf aussi “amasser")
 \ton Mα
 \lc ɖɯ˧ ʁwɤ˧
 \so F4
@@ -55140,8 +55150,7 @@
 \xv ɖɯ˧-ʁwɤ˧ tʰi˧-tɕɯ˥
 \xe to arrange into a heap
 \xn 收拾成一堆
-\xf ranger en tas
-\dt 27/Apr/2017
+\xf ranger en tas, regrouper en tas
 
 \lx ʁwɤ˧~ʁwɤ˥
 \sf <nb="2011"> 2306
@@ -57057,7 +57066,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /ʂe˧kʶv̩˧/ donne ʂe˧qʰv̩˧ɖʐɤ˩di˩˧ (tons confirmés)
-\nt <dom="sem" langue="fra"> (sens: tout simplement “fer" + “trou" d'après ts: un objet en fer qui fait un trou)
+\nt <dom="sem" langue="fra"> D'après M18, le sens serait tout simplement `fer' + `trou', l'ensemble signifiant «un objet en fer qui fait un trou».
 \ton M
 \lc ʂe˧qʰv̩˧
 \so F4
@@ -57298,8 +57307,8 @@
 \xc PHONO
 \xv se˩˥ ◊ -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ ◊ -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
 \xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)".
-\xn （想做）完，但是没办法做完！不过最后还是可以做得很好！（情景：谈及收集语言的工作）
-\xf Réflexion au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
+\xn 没有办法做完。不过，还是可以做得很好！（情景：谈及收集语言资料的工作）
+\xf Réflexion au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive), mais on peut réaliser de belles choses!
 \xv ə˧-dzɤ˧~dzɤ˥ | tʰi˧-se˩-kʰɯ˩!
 \xe Take your time to round up! / Take your time to finish! (A comment by the consultant at the end of a work session, noticing that the visitor was packing up his recording equipment rather hastily -- as preparations for lunch began -- at the risk of making mistakes in the delicate set of operations to be performed for packing.)
 \xn 慢慢完成吧！（情景：录音结束后，发音合作人看见调查者着急在午饭前收拾录音设备，就建议不要紧，来得及，还是要慢慢、按顺序收拾。）
@@ -57713,7 +57722,6 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="sem" langue="fra"> littéralement: “danse du lion", d'après l'un des numéros les plus spectaculaires: les fauves.
 \ton #H
 \lc si˧gɯ˧tsʰo˧
 \so F4
@@ -58470,7 +58478,7 @@
 \xv ʈʂʰɯ˧ ʂɤ˧do˧-zo˥! / ʂɤ˧do˧ ʝi˥!
 \xe (S)he is very modest/discreet/polite!
 \xn 他/她很娴静 / 很持重！
-\xf Cette personne a de la pudeur! L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: “qui connaît la honte", d'où le sens “qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse".
+\xf Cette personne a de la pudeur! L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: «qui connaît la honte», d'où le sens «qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse».
 
 \lx so˧dze#˥
 \or sozzei
@@ -59745,12 +59753,13 @@
 \sf <nb="B"> 268
 \sf <nb="2011"> 348
 \or sipisso
+\mr sɯ˧pʰi˧
+\mr zo˥
 \ps n
 \lc sɯ˧pʰi˧zo˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (équivalent d2: sɯ˧pʰi˧zo˧ ɲi˥) (mandarin: sɯ˧pʰi˧, ton d1)
-\nt <dom="sem" langue="fra"> périphrase: “fils de mandarin"
 \ton H#
 \so F4
 \va <speaker="M21"> ID.
@@ -61032,8 +61041,9 @@
 \ton -L
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="phono" langue="fra"> En na, il est possible de faire usage d'une périphrase: /|fv{ɲi˧-ɭɯ˧ dʑo˧}/ “il y en a deux".
+\nt <dom="phono" langue="fra"> En na, il est possible de faire usage d'une périphrase: /|fv{ɲi˧-ɭɯ˧ dʑo˧}/ «il y en a deux».
 \nt <dom="phono" langue="eng"> In Na, a periphrase can be used: /|fv{ɲi˧-ɭɯ˧ dʑo˧}/ “there are two (children)".
+\nt <dom="phono" langue="cmn"> 也可以说/|fv{ɲi˧-ɭɯ˧ dʑo˧}/“有两个（孩子）”。
 \so F4
 \de Twins.
 \ge 双胞胎::twins
@@ -61404,7 +61414,7 @@
 \lc ʈæ˧bɤ˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="sem" langue="fra"> ne distingue pas “moine" et “nonne"
+\nt <dom="sem" langue="fra"> Il ne semble pas exister de termes différents pour `moine' et `nonne'.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -62750,7 +62760,7 @@
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> Le prohibitif est un préfixe, le verbe de modalité “être possible" est un suffixe.
+\nt <dom="synt" langue="fra"> Le prohibitif est un préfixe, le verbe de modalité «être possible» est un suffixe.
 \ton M
 \lc tʰɑ˧
 \so F4
@@ -63779,7 +63789,6 @@
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /tɕʰju˩˥) (historique: “m4; petite hésitation entre m4b (˧˥) et m1 (˩˥); pas sûr qu'il y ait une différence (au 11/11/2007); F4 préfère une descente mesurée entre le H du début et le H de la fin, je note donc HMH plutôt que HLH"; confirmé en mai 2008 avec F4: est bien un ton m1)
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
-
 \ton LM
 \lc tɕʰo˩˥
 \so F4
@@ -64540,7 +64549,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> (notation 2006, par erreur: tʰjɤ˩ko˧bv̩˧)
-\nt <dom="sem" langue="fra"> perçu comme sémantiquement lié à “guêpe", dont le mot est homophone: il s'agit de 2 insectes, l'un nageant et l'autre volant, qui piquent/sont venimeux.
+\nt <dom="sem" langue="fra"> Le mot est perçu comme sémantiquement lié à `guêpe', dont il est homophone. Il s'agit de deux insectes, l'un nageant et l'autre volant, qui sont l'un et l'autre venimeux.
 \ton MH
 \lc tɕɯ˧˥
 \so F4
@@ -64930,7 +64939,7 @@
 \sy tɕʰɯ˩di˩-kʰv̩˥mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="usage" langue="fra"> Le mot signifie littéralement “chien qui court le muntjac", mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
+\nt <dom="usage" langue="fra"> Le mot signifie littéralement «chien qui court le muntjac», mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
 \nt <dom="usage" langue="eng"> The word literally means ‘dog that chases the muntjac’, but it can be used regardless of the type of game hunted: it does not apply exclusively to dogs that hunt muntjacs.
 \nt <dom="usage" langue="cmn"> 这个词的字面意思是“追逐麂子的狗”，但它可以用于任何类型的猎物：它不只适用于猎杀麂子的狗。
 \ton L
@@ -64956,7 +64965,7 @@
 \sy tɕʰɯ˩di˩-kʰv̩˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="usage" langue="fra"> Le mot signifie littéralement “chien qui court le muntjac", mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
+\nt <dom="usage" langue="fra"> Le mot signifie littéralement «chien qui court le muntjac», mais il peut s'employer quel que soit le type de gibier chassé. Il ne s'applique pas exclusivement aux chiens qui chassent le muntjac.
 \nt <dom="usage" langue="eng"> The word literally means ‘dog that chases the muntjac’, but it can be used regardless of the type of game hunted: it does not apply exclusively to dogs that hunt muntjacs.
 \nt <dom="usage" langue="cmn"> 这个词的字面意思是“追逐麂子的狗”，但它可以用于任何类型的猎物：它不只适用于猎杀麂子的狗。
 \ton L+#H-
@@ -65241,7 +65250,7 @@
 \xe there is some fog, there is some mist
 \xn 有雾
 \xf il y a de la brume
-\xc <langue="fra" dom="sem"> /|fv{mv̩˥}/: n'est pas “ciel" mais “souffler", comme dans |fv{/mv̩˧ mv̩˥} ‘souffler sur le feu'.
+\xc <langue="fra" dom="sem"> /|fv{mv̩˥}/: n'est pas `ciel' mais `souffler', comme dans |fv{/mv̩˧ mv̩˥} ‘souffler sur le feu'.
 \xc <langue="eng" dom="sem"> The syllable /|fv{mv̩˥}/ is not the morpheme for “sky": it is the verb “to blow", as in  |fv{/mv̩˧ mv̩˥} ‘to blow on the fire'.
 \xc <langue="cmn" dom="sem"> 此处的/|fv{mv̩˥}/不是‘天’而是‘吹’（|fv{/mv̩˧ mv̩˥}‘吹在火上’的‘吹’）。
 
@@ -66542,7 +66551,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥/) avant 2011: noté qæ, par erreur
-\nt <dom="sem" langue="fra"> littéralement “fleur qui vous donne une chiquenaude au front"
+\nt <dom="sem" langue="fra"> littéralement «fleur qui vous donne une chiquenaude au front»
 \so F4
 \vc <langue="fra" dom="ton"> -L | L
 \va <speaker="M21"> *
@@ -68400,7 +68409,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> littéralement “corne de cerf"
+\nt <dom="sem" langue="fra"> littéralement «corne de cerf»
 \ton H$
 \lc ʈʂʰæ˧qʰv̩˥
 \so F4
