@@ -2405,7 +2405,7 @@
   </S>
   <S id="Sister_S038">
     <AUDIO start="128.9633" end="131.7128"/>
-    <FORM kindOf="phono">«ɕi˧ɕi˩lo˩ dʑo˩ | kʰv̩˩mi˩˥ | no˧ dzɯ˧-hõ˧!» | pi˧ tsɯ˩ ◊ mv̩˩. |</FORM>
+    <FORM kindOf="phono">«ɕi˧ɕi˩-lo˩ dʑo˩ | kʰv̩˩mi˩˥ | no˧ dzɯ˧-hõ˧!» | pi˧ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">"Xixilo jjo kumi no zzi hon!" bi zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté ɕi˥ɕi˧lo˩: désigne les plus petites des côtelettes"/>
     <NOTE xml:lang="fr" message="confirmé: est bien nasalisé: /hõ˧/; n’est pas /hṽ̩/; ton: d’abord noté ˩˥, du fait de facteurs intonatifs; vérifié en juin 08: est bien ˧)"/>
@@ -2413,7 +2413,7 @@
 	<TRANSL xml:lang="en">"Dog, you go and eat (these) tiny ribs!" (he) said.</TRANSL>
     <TRANSL xml:lang="zh">“（这些）细小的肋骨，狗你吃了吧！”</TRANSL>
     <W>
-      <FORM>ɕi˧ɕi˩lo˩</FORM>
+      <FORM>ɕi˧-ɕi˩lo˩</FORM>
       <TRANSL xml:lang="fr">petites_côtelettes</TRANSL>
 	  <TRANSL xml:lang="en">small ribs</TRANSL>
     </W>
@@ -8787,7 +8787,7 @@
   </S>
   <S id="Sister_S156">
     <AUDIO start="441.5150" end="442.8850"/>
-    <FORM kindOf="phono">kʰv̩˩mi˩-ki˧ | ɕi˧ɕi˩lo˩=ɻ̩˩ tʰi˩-ki˩, | tʰi˩˥, |</FORM>
+    <FORM kindOf="phono">kʰv̩˩mi˩-ki˧ | ɕi˧-ɕi˩lo˩=ɻ̩˩ tʰi˩-ki˩, | tʰi˩˥, |</FORM>
     <FORM kindOf="ortho">kumi gi xixilo'er teegi, tiq,</FORM>
     <TRANSL xml:lang="fr">il a donné ses petites côtelettes au chien; alors,</TRANSL>
 	<TRANSL xml:lang="en">(he) gave the tiny pork ribs to the dog.  Then, </TRANSL>
@@ -8803,7 +8803,7 @@
 	  <TRANSL xml:lang="en">°dat</TRANSL>
     </W>
     <W>
-      <FORM>ɕi˧ɕi˩lo˩</FORM>
+      <FORM>ɕi˧-ɕi˩lo˩</FORM>
       <TRANSL xml:lang="fr">petites_côtelettes</TRANSL>
 	  <TRANSL xml:lang="en">small ribs</TRANSL>
     </W>
@@ -8901,7 +8901,7 @@
   </S>
   <S id="Sister_S158">
     <AUDIO start="447.2715" end="451.0572"/>
-    <FORM kindOf="phono">tʰi˩˥… «kʰv̩˧nɑ˥ ʐo˩ mɤ˩-ɖɯ˩, | mv̩˧mi˧ ʈʂʰwɤ˩-mɤ˩-ɖɯ˩» | pi˧ | ɕi˧ɕi˩lo˩ | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩, |</FORM>
+    <FORM kindOf="phono">tʰi˩˥… «kʰv̩˧nɑ˥ ʐo˩ mɤ˩-ɖɯ˩, | mv̩˧mi˧ ʈʂʰwɤ˩-mɤ˩-ɖɯ˩» | pi˧ | ɕi˧-ɕi˩lo˩ | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩, |</FORM>
     <FORM kindOf="ortho">Tiq, "Kuna ro meddee, mumi chua meddee" bi, xixilo teekua jjo,</FORM>
     <TRANSL xml:lang="fr">«Pas de déjeuner pour le chien noir, pas de dîner pour la femme mariée!», eh bien, ce morceau de petites côtelettes…</TRANSL>
    <TRANSL xml:lang="en">"No lunch for (the) black dog, no dinner for (the married) woman", (this is what they) say, this little pork rib…</TRANSL> 
@@ -8957,7 +8957,7 @@
 	  <TRANSL xml:lang="en">say</TRANSL>
     </W>
     <W>
-      <FORM>ɕi˧ɕi˩lo˩</FORM>
+      <FORM>ɕi˧ɕi˩-lo˩</FORM>
       <TRANSL xml:lang="fr">petites_côtelettes</TRANSL>
 	  <TRANSL xml:lang="en">small ribs</TRANSL>
     </W>

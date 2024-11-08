@@ -1269,7 +1269,7 @@
 \xn 发烧
 \xf avoir la fièvre
 \xc <type="hist" print="n" dom="ton" langue="fra"> D'abord noté ‡æ˩ʂe˩tsʰɯ˥. Corrigé en 2008.
-\xc <type="hist" print="n" dom="phono" langue="fra"> Établi en 2009: ce n'est pas /tsʰɯ/ mais /tsʰi/, adjectif qui signifie “chaud".
+\xc <type="hist" print="n" dom="phono" langue="fra"> Établi en 2009: ce n'est pas /tsʰɯ/ mais /tsʰi/, adjectif qui signifie `chaud'.
 \xv æ̃˩ʂe˩˥ | dʑɤ˩˥ | ʐwæ˩˥
 \xe (He/she) is in great shape!
 \xn 身体状况很好！（包括气色好）
@@ -1434,8 +1434,8 @@
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> “corrigé en avril 2014: auparavant noté /†æ̃˧ʈwɤ˩/. Phonétiquement, cette notation est correcte: la 1e syllabe est souvent nasalisée. Mais comme la nasalité n'est pas contrastive, le choix est de ne pas la noter, pour aucune des syllabes /æ/." Vérifié en août 2014: n'est pas nasalisé. Rétabli en 2018 au vu de l'entrée /æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩/.
-\nt <dom="ety" langue="fra"> L'étymologie n'est pas encore établie. Ce mot n'est pas perçu de façon transparente comme voulant dire “[le moment où] le coq chante".
+\nt <type="hist" print="n" langue="fra"> «corrigé en avril 2014: auparavant noté /†æ̃˧ʈwɤ˩/. Phonétiquement, cette notation est correcte: la 1e syllabe est souvent nasalisée. Mais comme la nasalité n'est pas contrastive, le choix est de ne pas la noter, pour aucune des syllabes /æ/.» Vérifié en août 2014: n'est pas nasalisé. Rétabli en 2018 au vu de l'entrée /æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩/.
+\nt <dom="ety" langue="fra"> L'étymologie n'est pas encore établie. Ce mot n'est pas perçu de façon transparente comme voulant dire «[le moment où] le coq chante».
 \ton L#
 \lc æ̃˧ʈwɤ˩
 \so F4
@@ -1517,7 +1517,7 @@
 \nt <dom="dialect" langue="fra"> Forme indiquée par Roselle Dobbs: /|fv{õ˩zɯ˩}/.
 \nt <dom="dialect" langue="eng"> Roselle Dobbs indicates the form /|fv{õ˩zɯ˩}/.
 \nt <dom="dialect" langue="cmn"> 杜玫瑰记录的发音是/|fv{õ˩zɯ˩}/。
-\nt <type="hist" print="n" langue="fra"> La forme indiquée par Roselle Dobbs avait d'abord été notée /ũ˩zɯ˩˧/, ton d3, c'est-à-dire ton L. Le sens est le même: “agate".
+\nt <type="hist" print="n" langue="fra"> La forme indiquée par Roselle Dobbs avait d'abord été notée /ũ˩zɯ˩˧/, ton d3, c'est-à-dire ton L. Le sens est le même: `agate'.
 \ton L
 \lc æ̃˩zɯ˩˥
 \so F4
@@ -1586,7 +1586,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Cette syllabe s'oppose à /w̃æ/ ‘gonfler, enfler'.
-\nt <type="hist" print="n" langue="fra"> Un bilan au sujet de la nasalité est fait en août 2014. La syllabe, homophone de celle du verbe “réfléchir/refléter", est phonétiquement nasalisée. Je l'avais d'abord notée [|fv{æ̃}], puis corrigée en /|fv{æ}/, pensant à tort qu'il n'y avait pas d'opposition entre voyelles nasalisées et non nasalisées ([|fv{æ̃}] et [|fv{æ}]) dans les syllabes sans consonne initiale, et qu'une notation /|fv{æ}/ était économique. En août 2014, rétablis une notation dans laquelle réalisation phonétique et analyse phonémique coïncident: [|fv{æ̃}], /|fv{æ̃}/.
+\nt <type="hist" print="n" langue="fra"> Un bilan au sujet de la nasalité est fait en août 2014. La syllabe, homophone de celle du verbe `réfléchir/refléter', est phonétiquement nasalisée. Je l'avais d'abord notée [|fv{æ̃}], puis corrigée en /|fv{æ}/, pensant à tort qu'il n'y avait pas d'opposition entre voyelles nasalisées et non nasalisées ([|fv{æ̃}] et [|fv{æ}]) dans les syllabes sans consonne initiale, et qu'une notation /|fv{æ}/ était économique. En août 2014, rétablis une notation dans laquelle réalisation phonétique et analyse phonémique coïncident: [|fv{æ̃}], /|fv{æ̃}/.
 \ton Lα
 \lc æ̃˩˥
 \so F4
@@ -1610,7 +1610,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> En 2006, avais noté: “bæ˧, ton confirmé". Ton vérifié en juillet 2008; avais auparavant noté pour la forme à l'isolée: ˩˥ (montant); le ton montant en forme de citation est acceptable, et apparaît de temps à autres, en alternance avec un ton M.
+\nt <type="hist" print="n" langue="fra"> En 2006, avais noté: «bæ˧, ton confirmé». Ton vérifié en juillet 2008; avais auparavant noté pour la forme à l'isolée: ˩˥ (montant); le ton montant en forme de citation est acceptable, et apparaît de temps à autres, en alternance avec un ton M.
 \ton L
 \lc bæ˧
 \so F4
@@ -1679,7 +1679,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> noté par erreur [‡bæ˧] (forme à l'isolée) et /bæ˩/ (forme phonologique). C'est en fait: /bæ˩˧/. La confusion était peut-être due à une méprise avec le mot ‘fleur'.
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
 \ton LM
 \lc bæ˩˥
 \cf bæ˩dʑɯ˥
@@ -1919,7 +1919,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> “vérifié en avril 2012: est bien /i/; auparavant, avais noté ɯ"; puis, le 15: re-corrigé en ɯ.
+\nt <type="hist" print="n" langue="fra"> «vérifié en avril 2012: est bien /i/; auparavant, avais noté ɯ»; puis, le 15: re-corrigé en ɯ.
 \ton LH
 \lc bæ˩dʑɯ˥
 \so F4
@@ -2003,7 +2003,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> bɑ˧lɑ˧kʰɯ˧tsʰɤ#˥
 \vc <langue="fra" print="n"> ton différent de F4
-\vc <langue="fra" print="n"> La composante /bɑ˧lɑ˧/ de ce mot n'est pas perçue comme étant le même mot que “vêtement" /bɑ.lɑ/.
+\vc <langue="fra" print="n"> La composante /bɑ˧lɑ˧/ de ce mot n'est pas perçue comme étant le même mot que `vêtement' /bɑ˩lɑ˩/.
 \va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
 \pdv kʰɯ˩
 \de Spider.
@@ -2058,7 +2058,7 @@
 \lc bæ˩ljɤ˧ljɤ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> (notes anciennes: 2007: bæ˩ljɤ˥ljɤ˥; 2006: “bæ˩ le˧ ljɤ˧, notation adoptée lors de la réécoute, 2007; pendant le terrain: avais noté: bæ˩ lje˧ljɤ˧, bæ˩le˧le˧")
+\nt <type="hist" print="n" langue="fra"> Notes anciennes: 2007: bæ˩ljɤ˥ljɤ˥; 2006: «bæ˩ le˧ ljɤ˧, notation adoptée lors de la réécoute, 2007; pendant le terrain: avais noté: bæ˩ lje˧ljɤ˧, bæ˩le˧le˧».
 \nt <dom="ety" langue="fra"> La partie |fv{ljɤ˧~ljɤ˧} pourrait être une déformation du classificateur des objets ronds, |fv{ɭɯ˧}. Celui-ci est riche en variantes phonétiques, et quasi-seul représentant de la combinaison |fv{ɭ}+|fv{ɯ}. La forme rédupliquée |fv{ɭɯ˧~ɭɯ˧} a pu évoluer vers sa prononciation actuelle. Cette prononciation a été difficile à fixer: lors des deux premiers terrains (2006 et 2006), la notation hésitait entre |fv{bæ˩ lje˧ljɤ˧}, |fv{bæ˩ le˧le˧}, avant d'en venir à |fv{bæ˩ ljɤ˧ljɤ˧}. Une constante parmi ces variantes est la perception des deux dernières syllabes comme liées l'une à l'autre, comme le serait une forme rédupliquée.
 \ton L-
 \so F4
@@ -2300,7 +2300,7 @@
 \lc bæ˩ʈʂo˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (correction de mars 2008, correspondant aux notes de terrain 2007; auparavant, noté: “bæ˧ʈʂu˥, ton d7") (F4 corrige mon /ʈʂv̩˥/ en /ʈʂu˥/)
+\nt <type="hist" print="n" langue="fra"> (correction de mars 2008, correspondant aux notes de terrain 2007; auparavant, noté: «bæ˧ʈʂu˥, ton d7») (F4 corrige mon /ʈʂv̩˥/ en /ʈʂu˥/)
 \ton LH
 \so F4
 \va <speaker="F5"> bæ˧ʈʂv̩#˥
@@ -3119,7 +3119,9 @@
 \cf hõ˧α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="ton" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-bi˩-ze˩}, a été relevée dès les premiers terrains (2007, 2008, 2009). Elle constituait un casse-tête, du fait que ce verbe se comporte dans ce cadre comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans tous les autres cadres utilisés (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). Cette propriété, qui distingue ce verbe (aux côtés de “se passer", |fv{gv̩˧}, et de la forme passée de 3e personne du verbe “aller", |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique au sein des verbes au ton M: la classe Mγ.
+\nt <dom="ton" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-bi˩-ze˩}, a été relevée dès les premiers terrains (2007, 2008, 2009). Elle constituait un casse-tête, du fait que ce verbe se comporte dans ce cadre comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans tous les autres cadres utilisés (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). Cette particularité, qui distingue ce verbe (aux côtés de `se passer', |fv{gv̩˧}, et de la forme passée de 3e personne du verbe `aller', |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique au sein des verbes au ton M: la classe Mγ.
+\nt <dom="ton" langue="eng"> The M.L.L tone sequence that obtains for this verb in the frame |fg{accomp} 〜 |fg{pfv}, |fv{le˧-bi˩-ze˩}, was noted as early as the first field trips (2007, 2008 and 2009). It was a puzzle, because this verb behaves like an L-tone verb in this frame, whereas it behaves like an M-tone verb in all the other frames used (to begin with: when preceded by the negation, |fv{mɤ˧-}). This peculiarity, which distinguishes this verb (alongside `to go by, to elapse (time); to take place', |fv{gv̩˧}, and the 3rd person past form of the verb `to go’, |fv{hɯ˧}) from the rest of M-tone verbs, leads to it being placed in a specific tonal subclass within M-tone verbs: the Mγ class.
+\nt <dom="ton" langue="cmn"> 早在2007 年、2008 年、2009 年就发现了，这个动词在“实施 〜 整体体”这个框架中的M.L.L声调序列（|fv{le˧-bi˩-ze˩}）相当特殊。令人吃惊的是，这个动词在这个框架中的表现就像L本调动词，而在所有其他框架中倒表现得像一个M调动词（最明显是前面加否定前缀|fv{mɤ˧-}时）。这一特性使这个动词（同于‘过’|fv{gv̩˧}和第三人称过去式的‘去’|fv{hɯ˧}）有别于其他的M本调动词，使它被归入M调动词中一个特定的本调子类：Mγ类。
 \ton Mγ
 \so F4
 \va <speaker="F5"> ID.
@@ -3213,7 +3215,7 @@
 \xv hæ˧-ɕje˧se˧
 \xe “Han sir”: respectful term for Han (Chinese) people coming to Yongning (teachers, doctors, engineers…).
 \xn 汉族先生：来指到永宁来的内地汉族（尊敬说法）：老师、医生、工程师等等
-\xf “Monsieur chinois”: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs…
+\xf «Monsieur chinois»: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs…
 \xc <dom="ton"> M
 \xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
 \xe This person is a “Sir” / a distinguished person!
@@ -3332,7 +3334,7 @@
 \xv ɖɯ˧-ʂɯ˩ pʰv̩˩-dʑo˩, | “ɻɻɻ!” pi˧-tsɯ˩ ◊ -mv̩˩. “ə˧mi˧! | ʈʂʰɯ˧-v̩˧… | ə˧mi˧! | tʰɑ˧-ɲi˩ ə˩-hɯ˩?” | ʈʂʰɯ˧ | ɖwæ˩ ʝi˧-ɲi˥-tsɯ˩ ◊ -mv̩˩.
 \xe He gave the bracelet a sharp tug and the girl let out a ‘Hrrk!’ ‘Gulp! The man was a little scared: ‘Oops, what's going on?’
 \xn 他猛地一拉镯子，姑娘就发出“嘎吱！”的一声。男人有一点害怕：“啊呀，这是怎么回事？”
-\xf Il a tiré sur ses bracelets un bon coup; et on dit que [le corps] a alors eu un râle: Aaargggh!” Alors [l'homme] a pris peur: “Houlà! Qu'est-ce que c'est que cette histoire?”
+\xf Il a tiré sur ses bracelets un bon coup; et on dit que [le corps] a alors eu un râle: «Aaargggh!» Alors [l'homme] a pris peur: «Houlà! Qu'est-ce que c'est que cette histoire?»
 \txt BuriedAlive3.62
 \doi 10.24397/pangloss-0004539#S62
 
@@ -3533,12 +3535,12 @@
 \lc bo˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (notations 2006: “(a) dʑi˧bu˧ (b) dʑi˧bu˧di˩˥, sens et transcription à voir; refuse dʑi˩tsɯ˩bu˩˥"; M23 refuse ttes ces expressions, sauf le monosyllabe);
-\nt <type="hist" print="n" langue="fra"> (notation 2006: “bu˧; ton confirmé, d'abord noté bu˩˥") (b) bu˥kʰɯ˥ (notation 2006: bu˧ kʰɯ˧) (erreur; sens: au pied d'une petite butte, d'une petite digue; pas reconnu par M23) Avant 2017: traduit comme: 田埂、小堤坝
+\nt <type="hist" print="n" langue="fra"> Notations 2006: «(a) dʑi˧bu˧ (b) dʑi˧bu˧di˩˥, sens et transcription à voir; refuse dʑi˩tsɯ˩bu˩˥»; M23 refuse ttes ces expressions, et n'accepte que le monosyllabe.
+\nt <type="hist" print="n" langue="fra"> (notation 2006: «bu˧; ton confirmé, d'abord noté bu˩˥») (b) bu˥kʰɯ˥ (notation 2006: bu˧ kʰɯ˧) (erreur; sens: au pied d'une petite butte, d'une petite digue; pas reconnu par M23) Avant 2017: traduit comme: 田埂、小堤坝
 \ton M
 \so F4
 \va <speaker="F5"> ID.
-\vc <type="hist" print="n" langue="fra"> notes anciennes: "/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: “pente/côte qui retient l'eau"; bu˥: est le même mot que 29d".
+\vc <type="hist" print="n" langue="fra"> notes anciennes: «/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: `pente/côte qui retient l'eau'; bu˥: est le même mot que 29d».
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
@@ -3572,7 +3574,7 @@
 \lc bo˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (au départ: défini dans la liste de vocabulaire comme “ciel clair"; enquête LD et XJ: sens: “lumineux")
+\nt <type="hist" print="n" langue="fra"> Au départ: défini dans la liste de vocabulaire comme `ciel clair'; le sens du mot obtenu lors de l'enquête du vocabulaire au sujet du lazé, aussi bien que du na, est: `lumineux'.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -3800,8 +3802,8 @@
 \lc bo˩ɣɯ˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra"> confirmé en 2011: ton LML
-\nt <type="hist" print="n" langue="fra"> (notes anciennes: “bu˩ɣɯ˥kɯ˧; tons confirmés en 2007: est ˩˥˧ et non ˩˥˩. Donne: bu˩ɣɯ˥kɯ˧ɲi˩")
+\nt <type="hist" print="n" langue="fra">
+\nt <type="hist" print="n" langue="fra"> Notes anciennes: «bu˩ɣɯ˥kɯ˧; tons confirmés en 2007: est ˩ ˥ ˧ et non ˩ ˥ ˩. Donne: bu˩ɣɯ˥kɯ˧ɲi˩». Ensuite analysé comme ton LML: cette analyse (confirmée en 2011) revenait à le distinguer du ton LM. Par la suite, l'analyse (jusqu'à l'ouvrage de 2017 et au-delà) consiste à analyse l'opposition comme consistant en un ton LH (l'ancien ton LML) et un ton LM (noté ainsi de façon constante). L'abaissement des tons qui suivent, qui était attribué, dans l'analyse `LML', à la présence d'un ton bas, est désormais attribué à la présence du ton H, qui a pour effet, dans l'ensemble du système tonal na, l'abaissement des tons suivants (en ton L).
 \ton LH
 \so F4
 \va <speaker="F5"> ID.
@@ -3816,7 +3818,6 @@
 \xe same meaning: pigskin
 \xn 同上：猪皮
 \xf même sens: couenne
-\dt 24/Apr/2017
 
 \lx bo˩-hɑ#˥
 \sf <nb="B"> 406
@@ -3871,7 +3872,7 @@
 \cf bv̩˧ʈʂɯ˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso")
+\nt <dom="sem" langue="fra"> cf photo 2, dans la série des photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»)
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -3935,7 +3936,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Notation 2006: bu˩ɬɑ˥. Ensuite catégorisé comme ton d5, au vu du schéma L.M.H observé avec la copule: /bu˩ ɬɑ˧ ɲi˥/.
-\nt <type="hist" print="n" langue="fra"> L'établissement du ton a été difficile. Le 29 mai 2008, la locutrice indique que c'est le même ton que /bu˩mi˧/ 'truie' (donc un ton d6). Auparavant, j'avais placé le mot dans une catégorie d8: “ton d8; parfois indiqué comme d5, mais lorsque le choix est donné, préfère d8 (bu˩ɬɑ˧˥ ɲi˩)". Cf enregistrement du 24 mai 2008: F4 corrige mon /bu˩ ɬɑ˧ ɲi˥/ en: /bu˩ ɬɑ˧˥ ɲi˩/.
+\nt <type="hist" print="n" langue="fra"> L'établissement du ton a été difficile. Le 29 mai 2008, la locutrice indique que c'est le même ton que /bu˩mi˧/ 'truie' (donc un ton d6). Auparavant, j'avais placé le mot dans une catégorie d8: «ton d8; parfois indiqué comme d5, mais lorsque le choix est donné, préfère d8 (bu˩ɬɑ˧˥ ɲi˩)». Cf enregistrement du 24 mai 2008: F4 corrige mon /bu˩ ɬɑ˧ ɲi˥/ en: /bu˩ ɬɑ˧˥ ɲi˩/.
 \ton LH
 \so F4
 \va <speaker="F5"> bo˩ɬɑ˧˥
@@ -4004,7 +4005,7 @@
 \lc bo˩mæ˧qv̩˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: ‡bu˩mæ˥ko˩, par erreur) “queue du cochon"
+\nt <type="hist" print="n" langue="fra"> Avant 2009: noté: ‡bu˩mæ˥ko˩, par erreur.
 \ton L-L#
 \so F4
 \pdv ɭɯ˧β
@@ -4289,7 +4290,7 @@
 \lc bo˧tsi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: “bu˥tsɯ˧, tons confirmés") (vérifié en 2009: n'est pas /tsɯ/)
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: «bu˥tsɯ˧, tons confirmés») (vérifié en 2009: n'est pas /tsɯ/)
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
@@ -4317,7 +4318,7 @@
 \lx bɤ˧tsʰo˧gv̩˥
 \sf <nb="2011"> 3334
 \or Bbecoggu
-\nt <dom="ety" langue="fra"> “Lieu où dansent les Pumi"?
+\nt <dom="ety" langue="fra"> «Lieu où dansent les Pumi»?
 \ps n
 \lc bɤ˧tsʰo˧gv̩˥
 \sd <langue="fra"> lieu
@@ -4635,7 +4636,7 @@
 \lc bɻ̩˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
 \ton LM
 \so F4
 \va <speaker="F5"> ID.
@@ -4674,7 +4675,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (confirmé M18 en 2008)
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
 \ton LM
 \so F4
 \va <speaker="F5"> ID.
@@ -4803,7 +4804,7 @@
 \xn 很粗、多粗的、好粗
 \xf très épais
 \xc PHONO
-\xc <type="hist" print="n" langue="fra"> Notes de 2006: “/kʶɤ˥ pv̩˥gv̩˥/; M18 corrige en /kʶɑ˥bv̩˧gv̩˧/, ‘très gros'.")
+\xc <type="hist" print="n" langue="fra"> Notes de 2006: «/kʶɤ˥ pv̩˥gv̩˥/; M18 corrige en /kʶɑ˥bv̩˧gv̩˧/, ‘très gros'.»
 \xv qʰɑ˧bv̩˧~bv̩˧-gv̩˧
 \xe very thick (as above)
 \xn 很粗、多粗的、好粗（同上）
@@ -5282,7 +5283,7 @@
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra" dom="phono"> Notes 2008: “/bv̩˩ kʰʶv̩˩˥/; aspiration confirmée: /kʰʶ/ et non /kʶ/".
+\nt <type="hist" print="n" langue="fra" dom="phono"> Notes 2008: «/bv̩˩ kʰʶv̩˩˥/; aspiration confirmée: /kʰʶ/ et non /kʶ/».
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -5320,9 +5321,9 @@
 \mr qʰv̩˧2
 \mr ʑi˥
 \mr -hĩ˥
-\mc <langue="fra"> L'intuition de la locutrice F4 est que la composition morphémique du mot est: “insecte qui a des cornes", ‘长角的虫子’.
-\mc <langue="eng"> Speaker F4's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns", ‘长角的虫子’.
-\mc <langue="cmn"> 主发音人直觉这个词的词源是“有角的昆虫”。
+\mc <langue="fra"> L'intuition de la locutrice F4 est que la composition morphémique du mot est: «insecte qui a des cornes».
+\mc <langue="eng"> Speaker F4's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns".
+\mc <langue="cmn"> 主发音人直觉这个词的词源是‘长角的虫子’。
 \ps n
 \lc bɻ̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
@@ -5349,7 +5350,7 @@
 \lc bɻ̩˧ɻ̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> (=notation 2006; notation 2007, après des hésitations: “bɻ̩˧ɻ̩˧; la deuxième syllabe parait s'ouvrir un peu vers [ɻæ]") (confirmé: n'est pas bɻ̩˧ɻ̩˧)
+\nt <type="hist" print="n" langue="fra"> Notation 2007, après des hésitations: «bv̩˧ɻ̩˧; la deuxième syllabe paraît s'ouvrir un peu vers [ɻæ]»
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -5460,7 +5461,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (schème tonal noté en 2009: est simplement d7)
-\nt <dom="sem" langue="fra"> photo 4 des 5 photos prises le 11/11/2007 (5 photos “recto", 5 photos “verso").
+\nt <dom="sem" langue="fra"> photo 4 des 5 photos prises le 11/11/2007 (5 photos «recto», 5 photos «verso»).
 \ton H#
 \so F4
 \va <speaker="M21"> ID.
@@ -5781,8 +5782,8 @@
 \lc bɻ̩˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> donne: /ʁu˧bv̩˧zo˧/ “un homme chauve" (ts pense que cette expression n'est pas bonne) (confirmé: la première syllabe est la même que dans “tête") (historique: faux “ton d9": cet exemple avait amené à poser, par erreur, une catégorie tonale, d9, car sa première syllabe est au ton ˧ en forme de citation et non au ton ˩; en fait ce n'est pas un nom mais un composé contenant un sujet et un prédicat; d'abord analysé comme: bv̩˧˥, avec comme sens: qui est à nu, 光; mais selon M23 bv̩˩˧ signifie: qui n'est pas bien dense, qui est dispersé/fin; cf “disperser", /bv/, ton 3.
-\nt <type="hist" print="n" dom="phono" langue="fra"> Historique de la notation: d'abord noté /o/, puis indiqué une initiale ʁ: /ʁu/; ajout de i:˧ hĩ˥ pour donner “personne chauve".
+\nt <type="hist" print="n" langue="fra"> donne: /ʁu˧bv̩˧zo˧/ `un homme chauve' (M18 pense que cette expression n'est pas bonne) (confirmé: la première syllabe est la même que dans `tête') (historique: faux «ton d9»: cet exemple avait amené à poser, par erreur, une catégorie tonale, d9, car sa première syllabe est au ton ˧ en forme de citation et non au ton ˩; en fait ce n'est pas un nom mais un composé contenant un sujet et un prédicat; d'abord analysé comme: bv̩˧˥, avec comme sens: qui est à nu, 光; mais selon M23 bv̩˩˧ signifie: qui n'est pas bien dense, qui est dispersé/fin; cf `disperser', /bv/, ton 3.
+\nt <type="hist" print="n" dom="phono" langue="fra"> Historique de la notation: d'abord noté /o/, puis indiqué une initiale ʁ: /ʁu/; ajout de i:˧ hĩ˥ pour donner `personne chauve'.
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -5831,7 +5832,7 @@
 \ton LH
 \so F4
 \va <speaker="M21"> ɕv̩˩
-\vc <type="hist" print="n" langue="fra"> ɕy˩, ton m1? ɕv̩˩kæ˧˥ “brûler de l'encens"; refuse ɕi˩kæ˩˥, qui désignerait les brûlis créés par les Lolo. Important: pensé à /y/ mais est peut-être analysable comme un allophone de /v/.
+\vc <type="hist" print="n" langue="fra"> Ton: M1. /ɕy˩/, ou /ɕv̩˩/? Il paraît probable que le son, qui fait penser à /y/, soit analysable comme un allophone de /v̩/ chez ce locuteur.
 \de Incense (second syllable).
 \ge incense
 \dn 香（单音节）
@@ -5842,7 +5843,11 @@
 \xe to burn incense
 \xn 烧香
 \xf brûler de l'encens
-\dt 24/Apr/2017
+\xv ɕv̩˩ kæ˩˥
+\xe proper pronunciation of `to burn incense' according to consultant M21. He considers that |fv{ɕi˩ kæ˩˥} refers to the burning of woodland in swidden (slash-and-burn) agriculture (i.e. interpreting the syllable |fv{ɕi˩} as corresponding to the morpheme found in |fv{si˧ɕi˧˥} `forest').
+\xn 根据合作人M21，这是‘烧香’的正确读音。他认为，|fv{ɕi˩ kæ˩˥} 指的是烧荒（刀耕火种）中烧林地（即把|fv{ɕi˩}音节解释为与|fv{si˧ɕi˧˥}‘森林’中的语素相对应）。
+\xf prononciation correcte de «brûler de l'encens» selon le consultant M21. Il considère que |fv{ɕi˩ kæ˩˥} fait référence au brûlis pratiqué dans l'agriculture itinérante: c'est-à-dire qu'il interprète la syllabe |fv{ɕi˩} comme correspondant au morphème qui apparaît dans |fv{si˧ɕi˧˥} `forêt'.
+\rf M21
 
 \lx ɕi˧
 \or xi
@@ -5890,7 +5895,6 @@
 \lc ɕi˧ɕi˩lo˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra"> cf récit “Frère et sœur"
 \ton L#-
 \so F4
 \de The smallest cutlets.
@@ -5899,7 +5903,17 @@
 \gn 最细的肋骨
 \df Les plus petites des côtelettes.
 \gf plus_petites_côtelettes
-\dt 12/Jun/2017
+\xv «ɕi˧ɕi˩-lo˩ dʑo˩ | kʰv̩˩mi˩˥ | no˧ dzɯ˧-hõ˧!» | pi˧ tsɯ˩ ◊ mv̩˩.
+\xo “Xixilo jjo kumi no zzi hon!” bi zimu.
+\xe “Dog, you go and eat (these) tiny ribs!” (he) said.
+\xn 他说：“（这些）细小的肋骨，狗你吃了吧！”
+\xf «Ces toutes petites côtelettes, [mon] chien, mange-les-donc!»/ «Ces toutes petites côtelettes… allez, le chien, c’est pour toi!» a-t-il dit.
+\txt Sister.38
+\doi 10.24397/pangloss-0004342#S38
+\txtsup Sister3.39
+\doisup 10.24397/pangloss-0004345#S39
+\txtsup Sister5.43
+\doisup 10.24397/pangloss-0009082#S43
 
 \lx ɕi˩dv̩˥
 \sf <nb="B"> 502
@@ -6084,7 +6098,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hi˧ ʈʰæ˧˥
-\vc <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) “personne qui bégaie"; refusé par F4
+\vc <type="hist" print="n" langue="fra"> hi˧ʈʰæ˧ hĩ˥ hĩ˧ (tons pas totalement confirmés) «personne qui bégaie»; refusé par F4
 \va <speaker="M21"> ID.
 \de To be a stammerer; to have a stammer.
 \ge to_stammer
@@ -6687,8 +6701,8 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> /ʂe˧ dɑ˥~dɑ˩/: en 2006, avais noté M.H.M (˧˥˧); schéma attendu: M.H.L (˧˥˩); vérifié en 2007 et 2008: est bien M.H.L (˧˥˩)
-\nt <type="hist" print="n" langue="fra"> En 2006, avais noté /‡dɤ˧dɤ˩/, /‡le˧dɤ˧dɤ˩/, /‡æ˩˥le˧dɤ˧dɤ˩ze˩/ “le poulet a été découpé"
-\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour “couper le crin du cheval" xxxx
+\nt <type="hist" print="n" langue="fra"> En 2006, avais noté /‡dɤ˧dɤ˩/, /‡le˧dɤ˧dɤ˩/, /‡æ˩˥le˧dɤ˧dɤ˩ze˩/ «le poulet a été découpé»
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour «couper le crin du cheval» xxxx
 \ton MH
 \lc dɑ˧˥
 \so F4
@@ -6735,14 +6749,13 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
 
 \ton LM
 \lc ɖæ˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vc <langue="fra" print="n"> Le locuteur indique aussi: /ɖæ˩ hu˧ sɯ˧sɯ˥/ “la poussière vole partout"
 \sn 1
 \pdv ti˧˥
 \pdc <langue="fra"> couche
@@ -6767,7 +6780,11 @@
 \gn 污垢
 \df Saletés.
 \gf saletés
-\dt 27/Aug/2015
+\xv ɖæ˩ hu˧ sɯ˧~sɯ˥
+\xe dust is flying everywhere
+\xn 尘土飞扬
+\xf de la poussière vole de partout
+\rf M18
 
 \lx ɖæ˥
 \sf <nb="B"> 923
@@ -6797,7 +6814,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: “ɯ˥dɑ˧; tons confirmés, n'est pas ˧˩")
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: «ɯ˥dɑ˧; tons confirmés, n'est pas ˧˩»)
 \ton Lβ
 \lc dɑ˩˥
 \so F4
@@ -6856,7 +6873,9 @@
 \nt <type="hist" print="n" langue="fra"> (confirmé; d'abord noté ‡dzi˥, par erreur, puis ‡dʑi˥) (confirmé: initiale voisée) (note d'avril 2012: "est une initiale /i/; avais précédemment noté ɯ"; mais, 15 avril 2012: rétablis /dʑɯ/)
 \ton LH
 \lc ɖæ˩dʑɯ˥
-\nt <langue="fra" dom="ety"> Le sens n'est pas (ou n'est plus) “eau sale", “eau de détritus": la syllabe /|fv{dʑɯ}/ n'est pas perçue par F4 comme signifiant “eau".
+\nt <langue="fra" dom="morpho"> Le sens n'est pas (ou n'est plus) `eau sale', `eau de détritus': la syllabe /|fv{dʑɯ}/ n'est pas perçue par F4 comme signifiant `eau'.
+\nt <langue="eng" dom="morpho"> The meaning is not (or is no longer) `dirty water', `garbage water’: the syllable /|fv{dʑɯ}/ is not perceived by F4 as meaning `water'.
+\nt <langue="cmn" dom="morpho"> 意思不是（或不再是）‘脏水’、‘垃圾水’：拉他咪女士认为音节 /|fv{dʑɯ}/ 的意思不是‘水’。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -7295,7 +7314,7 @@
 \xn 横着放
 \xf poser à plat
 \xc <type="hist" print="n" langue="fra" dom="ton"> Avais d'abord noté /ɖæ˥ɖæ˧ tʰi˩ tɕi˥/ (2006), puis /ɖæ˧ɖæ˩ tʰi˩ tɕi˧/ (c. 2008).
-\xc <type="hist" print="n" langue="fra" dom="phono"> Notes du premier terrain (2006): “dernière syllabe très difficile à reconnaître, pensé à /ʈʂi˥/". Cette syllabe a ensuite été notée /tsɯ/, solution qui n'était pas plus satisfaisante. Le cœur du problème résidait dans l'absence de reconnaissance d'une opposition entre /i/ et /ɯ/ après les initiales alvéolo-palatales. La notation /tɕɯ/ y apporte une solution.
+\xc <type="hist" print="n" langue="fra" dom="phono"> Notes du premier terrain (2006): «dernière syllabe très difficile à reconnaître, pensé à /ʈʂi˥/». Cette syllabe a ensuite été notée /tsɯ/, solution qui n'était pas plus satisfaisante. Le cœur du problème résidait dans l'absence de reconnaissance d'une opposition entre /i/ et /ɯ/ après les initiales alvéolo-palatales. La notation /tɕɯ/ y apporte une solution.
 
 \lx di˩˥
 \sf <nb="B"> 50
@@ -7306,7 +7325,7 @@
 \sd <langue="eng"> natural environment
 \comp <langue="pmi"> dĩ35
 \nt <type="hist" print="n" langue="fra"> confirmé: est ˩˥ et non ˩˧
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
 \ton LH
 \lc di˩˥
 \an mv̩˥1
@@ -7536,7 +7555,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (avant 2009: di˧ko˧) “dans la plaine"
+\nt <type="hist" print="n" langue="fra"> (avant 2009: di˧ko˧)
 \ton M
 \lc di˧qo˧
 \so F4
@@ -7547,7 +7566,8 @@
 \gn 田地
 \df Terres agricoles, champs.
 \gf champs
-\dt 27/Aug/2015
+\mr di˩˥
+\mr -qo˧
 
 \lx di˧ɻæ˧
 \sf <nb="2011"> 83
@@ -7596,7 +7616,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
-\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour “porter (boucles d'oreilles, bracelet)". xxxx
+\nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour «porter (boucles d'oreilles, bracelet)». xxxx
 \ton Lα
 \lc di˩˥
 \so F4
@@ -7771,8 +7791,7 @@
 \xe The pig mates with the sow.
 \xn 公猪与母猪交配。
 \xf Le verrat s'accouple avec la truie.
-\xc <type="hist" print="n" langue="fra">Avant août 2014: interprété par erreur comme signifiant littéralement “le verrat va voir la truie"; en fait, c'est un verbe distinct.
-\dt 27/Aug/2015
+\xc <type="hist" print="n" langue="fra">Avant août 2014: interprété par erreur comme signifiant littéralement «le verrat va voir la truie»; en fait, c'est un verbe distinct.
 
 \lx ɖɤ˥
 \sf <nb="B"> 1225
@@ -7781,13 +7800,13 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (anciennes notes, 2006: “(ʈʰɯ˥) ʈʰi˥ ɖɤ˧ɖɤ˧ (confirmé, d'abord noté ɖɯ˧ɖɯ˧ze˩)")
+\nt <type="hist" print="n" langue="fra"> Anciennes notes, 2006: «(ʈʰɯ˥) ʈʰi˥ ɖɤ˧ɖɤ˧ (confirmé, d'abord noté ɖɯ˧ɖɯ˧ze˩)»
 \ton H
 \lc ɖɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> note ancienne: “vérifié: n'aime pas ʈʂʰɯ˧ tʰi˧ ɖɤ˧ɖɤ˧ zi˩, veut une première syllabe au ton ˥: ʈʂʰɯ˥; même chose chez F4"
+\vc <langue="fra" print="n"> note ancienne: «vérifié: n'aime pas ʈʂʰɯ˧ tʰi˧ ɖɤ˧ɖɤ˧ zi˩, veut une première syllabe au ton ˥: ʈʂʰɯ˥; même chose chez F4»
 \de To crawl, to creep.
 \ge to_crawl
 \dn 爬行，匍匐
@@ -7849,7 +7868,7 @@
 \xn 看见了母猪
 \xf …a vu (une/la) truie
 \xc PHONO
-\xc <type="hist" print="n" langue="fra"> note ancienne: “schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ), mais ce schéma n'est pas acceptable". En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
+\xc <type="hist" print="n" langue="fra"> note ancienne: «schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ), mais ce schéma n'est pas acceptable». En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
 
 \lx do˧bæ˧
 \sf <nb="B"> 167
@@ -7982,7 +8001,7 @@
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
 \nt <type="hist" print="n" langue="fra" dom="phono"> avant 2011: pour la première syllabe, noté comme voyelle /e/, puis /ə/. En 2011: corrigé en /ɤ/.
-\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton LM
@@ -8004,7 +8023,7 @@
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/ (avant 2009: noté: de˧˥ ko˧), puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. En 2014, adopte une notation /dɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Le ton est de type d1 (M), dans la mesure où il donne: /də˧˥ tʰv̩˧ko˧ ɲi˩/.
-\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-M
@@ -8025,7 +8044,7 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. D'abord noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2011, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La notation était /dɤ!-tʰv̩˧-gi#˥/. En avril 2014, adopte une notation /dɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
-\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-#H
@@ -8048,7 +8067,7 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> (avant 2011: noté comme voyelle /e/, puis /ə/; avant 2009: noté: de˧˥ ko˧), type d1 (də˧˥ tʰv̩˧ko˧ ɲi˩)
-\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{dɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{dɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑dɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{dɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{dɤ꜔꜒-qo˧}], [|fv{dɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑dɤ˩-qo˧/}。
 \ton L-M
@@ -8462,7 +8481,7 @@
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> note d'avant septembre 2012: “vérifié: la forme isolée n'est pas M.M mais M.H"; mais corrigé en ton M en septembre 2012 au vu du comportement avec les différents types de verbes, et de la forme en isolée qui est en fait M.M. La 2e syllabe reçoit souvent un renforcement intonatif (notation: ↑) qui peut faire croire à un ton Haut.
+\nt <type="hist" print="n" langue="fra"> note d'avant septembre 2012: «vérifié: la forme isolée n'est pas M.M mais M.H»; mais corrigé en ton M en septembre 2012 au vu du comportement avec les différents types de verbes, et de la forme en isolée qui est en fait M.M. La 2e syllabe reçoit souvent un renforcement intonatif (notation: ↑) qui peut faire croire à un ton Haut.
 \ton M
 \lc ɖɯ˧njɤ˧
 \so F4
@@ -8684,7 +8703,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <dom="sem" langue="fra"> animal qui tue les poulets, mais ne les mange pas en entier
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \lc dv̩˩˥
@@ -8719,7 +8738,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> Vérifié, ce mot n'appartient pas à la catégorie tonale m4.
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 \ton LM
 \lc dv̩˩˥
 \so F4
@@ -9088,13 +9107,13 @@
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> ɖwæ˧ ɖɯ˧lɯ˧ (+tʰi˧di˧ “il y a")
+\nt <type="hist" print="n" langue="fra"> ɖwæ˧ ɖɯ˧lɯ˧ (+tʰi˧di˧ `il y a')
 \nt <type="hist" print="n" langue="fra"> notes anciennes: ɖwæ˥ ɖɯ˧-ɭɯ˧. ɖwæ˩ɬo˩mi˧: d'abord noté ɖwæ˩ɬo˩mi˥; question avant terrain 2007: ˩ ˩ ˥: schéma tonal inattendu, on attendrait ˧ ˧ ˥ (qui résulte, d'après le tableau 1, de ˥+˥ ˧ ou ˥+˥ ˩). Réponse (ama et F5): confirmation de ˩ ˩ ˥.
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
-\vc <langue="fra" print="n"> ɖwæ˩ mi˧; 'une flaque': /ɖwæ˥ ɖɯ˧ lɯ˧/ (d'abord noté au ton moyen: ɖwæ˧ ɖɯ˧ lɯ˧); 'une flaque après la pluie': dʑi˧ ɖɯ˧ pʰæ˩ (d'abord noté ˧ ˧, puis avait provisoirement fourni ˧ ˥ comme forme de citation; le lendemain, corrige bien en ˧ ˧, comme attendu), ton d2a: dans la religion locale (bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥ (de: /ɬo/ “profond").
-\vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: "vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ “estomac", qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme “poulain", ˧ ˧".
+\vc <langue="fra" print="n"> ɖwæ˩ mi˧; 'une flaque': /ɖwæ˥ ɖɯ˧ lɯ˧/ (d'abord noté au ton moyen: ɖwæ˧ ɖɯ˧ lɯ˧); 'une flaque après la pluie': dʑi˧ ɖɯ˧ pʰæ˩ (d'abord noté ˧ ˧, puis avait provisoirement fourni ˧ ˥ comme forme de citation; le lendemain, corrige bien en ˧ ˧, comme attendu), ton d2a: dans la religion locale (bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥ (de: /ɬo/ `profond').
+\vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: «vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ `estomac', qui chez la locutrice f4 est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme `poulain', ˧ ˧».
 \pdv ɭɯ˧β
 \pdc <langue="fra"> objets ronds
 \de Pond.
@@ -9215,7 +9234,7 @@
 \lc dzɑ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡tsɑ˥, par erreur) (vérifié: dzɑ˧ “pauvre" est différent de tsɑ˧ “occupé, mang2") (Roselle Dobbs: aurait un mot homophone de “os": ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
+\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡tsɑ˥, par erreur) (vérifié: dzɑ˧ `pauvre' est différent de tsɑ˧ `occupé, mang2') (Roselle Dobbs: aurait un mot homophone de `os': ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
 \ton H
 \so F4
 \va <speaker="F5"> ID.
@@ -9250,7 +9269,6 @@
 \xf bâclé, mal fait (travail)
 \sn 2
 \vc <type="hist" print="n" langue="fra"> ton 2
-\vc <type="hist" print="n" langue="fra"> homophone de “os"
 \de Poor (person).
 \ge poor
 \dn 穷（人）
@@ -9337,7 +9355,7 @@
 \lc ɖʐæ˧qʰæ˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (pensé à d3; mais est d2c) (tons de la forme de citation: ˧˥, non ˩ ˩˥, vérifié en 2007) (note ancienne: notation comme /‡kʰæ/, indiquant “réalisé kʶ un peu aspiré; varie librement") (tons confirmés, d'abord noté ˧˥˥˩, par erreur)
+\nt <type="hist" print="n" langue="fra"> (pensé à d3; mais est d2c) (tons de la forme de citation: ˧˥, non ˩ ˩˥, vérifié en 2007) (note ancienne: notation comme /‡kʰæ/, indiquant «réalisé kʶ un peu aspiré; varie librement») (tons confirmés, d'abord noté ˧˥˥˩, par erreur)
 \ton H$
 \so F4
 \va <speaker="F5"> ID.
@@ -9371,7 +9389,7 @@
 \lc dzɑ˧qʰwɤ˩˥
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
-\nt <type="hist" print="n" langue="fra"> (notation 2009; auparavant: /dzɑ˩ kʰʶwɑ˩˥/) (vérifié avec F4, 15 mars 2009: est /dzɑ˩qʰwɤ˩˥/; phonétiquement proche de /dzɑ˩qʰwɑ˩˥/ mais est la même syllabe que dans “tête", etc.)
+\nt <type="hist" print="n" langue="fra"> (notation 2009; auparavant: /dzɑ˩ kʰʶwɑ˩˥/) (vérifié avec F4, 15 mars 2009: est /dzɑ˩qʰwɤ˩˥/; phonétiquement proche de /dzɑ˩qʰwɑ˩˥/ mais est la même syllabe que dans `tête', etc.)
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -9458,7 +9476,7 @@
 \lc dze˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \so F4
@@ -9522,7 +9540,7 @@
 \lc ɖʐe˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (corrigé en mai 2008; auparavant noté comme m4, peut-être par une confusion avec le mot “terre"); on peut aussi utiliser le terme désignant le métal argent: /ŋv̩˧/, ton m3
+\nt <type="hist" print="n" langue="fra"> (corrigé en mai 2008; auparavant noté comme m4, peut-être par une confusion avec le mot `terre'); on peut aussi utiliser le terme désignant le métal argent: /ŋv̩˧/, ton m3
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -9942,7 +9960,7 @@
 \lc dze˩mi˧kʰv̩˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra" dom="ton"> Avant 2009: noté: “/dze˩mi˥ kʰv̩˧/; tons confirmés, n'est pas kʰv̩˩". Le schéma est ensuite corrigé en L.H.L, au vu du fait qu'il n'existe pas d'opposition entre ton M et ton L après un ton H (observation générale qui rend caduque les longues discussions visant à établir si la troisième syllabe de l'expression porte un ton M ou un ton L). Enfin, la notation adoptée est L.M.L plutôt que L.H.L, au vu du ton lexical du mot ‘abeille’.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Avant 2009: noté: «/dze˩mi˥ kʰv̩˧/; tons confirmés, n'est pas kʰv̩˩». Le schéma est ensuite corrigé en L.H.L, au vu du fait qu'il n'existe pas d'opposition entre ton M et ton L après un ton H (observation générale qui rend caduque les longues discussions visant à établir si la troisième syllabe de l'expression porte un ton M ou un ton L). Enfin, la notation adoptée est L.M.L plutôt que L.H.L, au vu du ton lexical du mot ‘abeille’.
 \nt <type="hist" print="n" langue="fra" dom="phono"> Consonne initiale de la troisième syllabe: confirmé, n'est pas une uvulaire (/qʰv̩˩/); vérifié en 2009.
 \ton LM-L
 \so F4
@@ -10103,7 +10121,7 @@
 \cf ɖʐɯ˧ʈʂɯ˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra" print="n"> cf photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso"). Photo 3: crible; trous d'environ 7 millimètres.
+\nt <dom="sem" langue="fra" print="n"> cf photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»). Photo 3: crible; trous d'environ 7 millimètres.
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -10162,12 +10180,12 @@
 \lc dze˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> lə˧dze˩hɯ˩ze˩ “…est parti à tire-d'aile" (confirmé: tons et voisement); mv̩˧ʁu˧dze˧˥ “voler ds le ciel" (confirmé en 2009)
+\nt <type="hist" print="n" langue="fra"> lə˧dze˩hɯ˩ze˩ “…est parti à tire-d'aile" (confirmé: tons et voisement); mv̩˧ʁu˧dze˧˥ «voler dans le ciel» (confirmé en 2009)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <type="hist" print="n" langue="fra"> ton 3. /dzi˩ zi˥/, /dzi˩˥/, /mv̩˧ʁu˧ dzi˧ zi˥/, /mv̩˧ʁu˧ dzi˧˥/ “voler dans le ciel"
+\vc <type="hist" print="n" langue="fra"> ton 3. /dzi˩ zi˥/, /dzi˩˥/, /mv̩˧ʁu˧ dzi˧ zi˥/, /mv̩˧ʁu˧ dzi˧˥/ «voler dans le ciel»
 \de To fly.
 \ge to_fly
 \dn 飞
@@ -10346,7 +10364,7 @@
 \lc dzi˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: “dzɯ˧˥; réalisé proche d'un [dʑi] très fermé") (notation 2006: ton montant à l'isolée; en 2007: entends un ton haut à l'isolée) (confirmé par F4: n'est pas /dzv/ ni /dzɯ/)
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: «dzɯ˧˥; réalisé proche d'un [dʑi] très fermé») (notation 2006: ton montant à l'isolée; en 2007: entends un ton haut à l'isolée) (confirmé par F4: n'est pas /dzv/ ni /dzɯ/)
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -10373,7 +10391,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \comp <langue="pmi" print="n"> bĩ51
-\nt <type="hist" print="n" langue="fra"> Vérifié en 2009. N'est pas homophone de “eau", ton m3. Pensé à un ton m1, mais est en fait m4a.
+\nt <type="hist" print="n" langue="fra"> Vérifié en 2009. N'est pas homophone de `eau', ton m3. Pensé à un ton m1, mais est en fait m4a.
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -10415,7 +10433,7 @@
 \nt <type="hist" print="n" langue="fra"> Ton confirmé: n'est pas ˧˥. Réécoute 2007: paraît être ˧˥, mais une nouvelle vérification en 2008 établit qu'il s'agit bien d'un ton H.
 \nt <type="hist" print="n" langue="fra"> Vérifié: n'est pas dʑɯ.
 \nt <type="hist" print="n" langue="fra"> Avant mars 2012: cette catégorie tonale était notée #H (conformément à sa nature phonologique). La notation est ensuite simplifiée en H pour les monosyllabes.
-\nt <dom="sem" langue="fra"> La forme monosyllabique /|fv{dʑi˥}/ apparaît en composition avec /|fv{nɑ˩˧}/ “les Na" dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!}/ “le vêtement des Na, c'est du chanvre!", dans l'expression “vêtement mortuaire", et dans quelques autres expressions. Elle n'est pas aisément intelligible hors de ces contextes qui lèvent l'ambiguïté.
+\nt <dom="sem" langue="fra"> La forme monosyllabique /|fv{dʑi˥}/ apparaît en composition avec /|fv{nɑ˩˧}/ `les Na' dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!}/ «le vêtement des Na, c'est du chanvre!», dans l'expression `vêtement mortuaire', et dans quelques autres expressions. Elle n'est pas aisément intelligible hors de ces contextes qui lèvent l'ambiguïté.
 \nt <dom="sem" langue="eng"> The monosyllabic form /|fv{dʑi˥}/ appears in a compound with the noun /|fv{nɑ˩˧}/ ‘the Na’ in the saying /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!}/ ‘the Na's garments are (made of) hemp’, in the expression ‘funeral garment’, and in a few other expressions. It is not easily understood outside these contexts, presumably due to widespread homophony.
 \nt <dom="sem" langue="cmn"> 单音节词/|fv{dʑi˥}‘衣服’出现很少。例子包括：与/|fv{nɑ˩˧}/‘摩梭人’结合成/|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧！ }/“摩梭人的衣服是麻做的的”，还有在‘寿衣’和其他一些词也出现。
 \ton H
@@ -10455,7 +10473,7 @@
 \lc ɖɯ˧ dzi˩
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n" langue="fra"> (comportement tonal: identique au type /kʰɯ˩/: cl des cordes) (rime de /dzɯ/: vérifié en 2009: est homophone de “s'asseoir", et est différent de “manger")
+\nt <type="hist" print="n" langue="fra"> (comportement tonal: identique au type /kʰɯ˩/: cl des cordes) (rime de /dzɯ/: vérifié en 2009: est homophone de `s'asseoir', et est différent de `manger')
 \nt <dom="sem" langue="fra"> CL des arbres
 \ton Lβ
 \nt <dom="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
@@ -10574,7 +10592,7 @@
 \sd <langue="eng"> clothing
 \comp <langue="pmi" print="n"> tɕõ22gu55
 \nt <type="hist" print="n" langue="fra"> (tons confirmés, n'est pas ˧˥; réécoute 2007: paraît être ˧˥ mais correction en 2008: vérifié à nouveau: est bien ˧˧) (vérifié: n'est pas dʑɯ) (avant mars 2012: noté le ton comme #H
-\nt <dom="sem" langue="fra"> La forme monosyllabique /|fv{dʑi˥}/ peut être extraite de quelques formes disyllabiques. Elle apparaît notamment en composition avec /|fv{nɑ˩˧}/ “les Na" dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧}/ “le vêtement des Na, c'est du chanvre!" et dans “vêtement mortuaire", mais ne peut être utilisée sous sa forme monosyllabique. Il semble que cela soit lié au grand nombre d'homophones.
+\nt <dom="sem" langue="fra"> La forme monosyllabique /|fv{dʑi˥}/ peut être extraite de quelques formes disyllabiques. Elle apparaît notamment en composition avec /|fv{nɑ˩˧}/ `les Na' dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧}/ «le vêtement des Na, c'est du chanvre!» et dans `vêtement mortuaire', mais ne peut être utilisée sous sa forme monosyllabique. Il semble que cela soit lié au grand nombre d'homophones.
 \nt <dom="sem" langue="eng"> A monosyllabic form /|fv{dʑi˥}/ can be extracted from the few disyllabic forms in which it appears. These include a compound with /|fv{nɑ˩˧}/ “the Na people" in the saying /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧}/ “the Na's clothes are made of hemp", as well as the word for “shroud". The monosyllable cannot be used freely on its own, presumably because of the large number of homophones.
 \nt <dom="morpho" langue="cmn"> 可以从双音节词提取单音节语素/|fv{dʑi˥}/。该语素与/|fv{nɑ˩˧}/‘摩梭人’合成，出现在/|fv{nɑ˩-dʑi˧(-dʑo˧), |sɑ˧}/“摩梭人的衣服是麻做的！”这个俗语，也出现在‘寿衣’这个词中，但不能以单音节形式使用，这跟同音词的普遍现象应该有很大关系。
 \ton H$
@@ -10912,7 +10930,7 @@
 \lc dzo˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \so F4
@@ -10945,7 +10963,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> D'abord noté un ton m3 pour f4 (différent de celui de F5), mais l'énoncé-cadre standard (ajout de la copule) n'est pas adéquat. En revanche le ton peut être déduit du comportement tonal du nom en association avec des verbes. D'après la forme /dzu˧gi˧/ on est amené à postuler un ton m2 ou m4a, et d'après la forme /dzu˧lɑ˩/ le ton du nom ne peut être que m4a. (Historique: d'abord noté dzo˥lɑ˧ze˩)
 \nt <type="hist" print="n" langue="fra"> lors du 2e terrain, noté un ton m2, par erreur
-\nt <dom="sem" langue="fra"> le nom “grêle" peut difficilement être isolé, car il est pris dans les collocations “grêler, tomber (de la grêle)"; le nom seul n'a pas de référent; la manifestation tangible, les grêlons, se dit par un autre mot, cf item suivant.
+\nt <dom="sem" langue="fra"> Le nom `grêle' peut difficilement être isolé, car il est pris dans les collocations `grêler, tomber (de la grêle)'; le nom seul n'a pas de référent; la manifestation tangible, les grêlons, se dit par un autre mot.
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -11021,7 +11039,7 @@
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \nt <type="hist" print="n" langue="fra"> (ton vérifié, phonèmes vérifiés à nouveau en 2007; en 2006 et 2007, ton noté ˥) (ts: ɖʐɤ˩do˩˧)
-\nt <dom="sem" langue="fra"> Même mot utilisé pour “échelle" et “escalier", avec un classificateur différent.
+\nt <dom="sem" langue="fra" print="n"> Le même mot est utilisé pour `échelle' et `escalier', avec un classificateur différent. xxxx déterminer ce classificateur
 \ton L
 \so F4
 \va <speaker="F5"> dzɤ˩
@@ -11054,7 +11072,6 @@
 \xe stone stairs
 \xn 石头楼梯
 \xf escalier en pierre
-\dt 27/Aug/2015
 
 \lx ɖʐɤ˧˥
 \sf <nb="B"> 1498
@@ -11091,7 +11108,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (notes avant 2009: “le˧ɖʐɤ˩˥, ton 4") (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté “le˥ɖʐɤ˩ɖʐɤ˩, tv") (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
+\nt <type="hist" print="n" langue="fra"> (notes avant 2009: «le˧ɖʐɤ˩˥, ton 4») (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté «le˥ɖʐɤ˩ɖʐɤ˩, tv») (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
 \de To snap, to cut (thread); to smash; to destroy (a building).
 \ge to_snap/to_smash
 \dn 拆（线），拔，捣碎
@@ -11174,7 +11191,7 @@
 \lc dʑo˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (ex.: aux toilettes: “il y a quelqu'un!"); “il y a combien de personnes dans ta famille?"
+\nt <dom="sem" langue="fra" print="n"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (ex.: aux toilettes: «il y a quelqu'un!»); “il y a combien de personnes dans ta famille?" xxxx traduire ces 2 exemples et les ajouter parmi les exemples
 \ton Lβ
 \so F4
 \de Existential: there is someone in the toilets/at home; there are n people in the family.
@@ -11860,7 +11877,7 @@
 \lc ɖʐɤ˧qʰwɤ˧ʈʂe˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (vérifié: est le nom d'un outil, pas un groupe verbal signifiant “faire un trou") (avant 2009: noté /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/ en 2007; en 2006, avais noté: ɖʐɤ˧ kʶwɤ˧ ʈʂe˧); tons: #H, comme d2a: /ʈʂʰɯ˧ ɖʐɤ˧qʰwɤ˧ʈʂe˧ ɲi˥/ (vérifié en 2013: est homophone avec ɖʐɤ˧qʰwɤ˧ ‘rhume', mais sans lien de sens) (avant 2009: noté: tsɑ˧kʶwɑ˧ʈʂe˥)
+\nt <type="hist" print="n" langue="fra"> (vérifié: est le nom d'un outil, pas un groupe verbal signifiant «faire un trou») (avant 2009: noté /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/ en 2007; en 2006, avais noté: ɖʐɤ˧ kʶwɤ˧ ʈʂe˧); tons: #H, comme d2a: /ʈʂʰɯ˧ ɖʐɤ˧qʰwɤ˧ʈʂe˧ ɲi˥/ (vérifié en 2013: est homophone avec ɖʐɤ˧qʰwɤ˧ ‘rhume', mais sans lien de sens) (avant 2009: noté: tsɑ˧kʶwɑ˧ʈʂe˥)
 \nt <type="hist" print="n" langue="fra"> M23: +ɲi˩ (est bien le nom de l'outil, pas un prédicat; vérifié)
 \ton #H
 \so F4
@@ -12160,8 +12177,8 @@
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (ton différent de celui de F5) (2006, 2007: noté dʑi˥)(homophone avec “eau") (Question soulevée en 2007, avant le terrain: “le ton est-il différent de celui de ‘eau'? Conjecture: sans doute dʑi˥ ɖɯ˧ kʰɯ˩"; réponse: est homophone avec “eau") (note ancienne: “vérifié: n'est pas dʑɯ"; mais nouvelle vérification en avril 2012: est dʑɯ; paire minimale “buffle femelle-rivière")
-\nt <type="hist" print="n" langue="fra"> ton m2 (historique: noté ˥ puis recatégorisé en 2007 en ton moyen: dʑi˧; dʑi˧ dʑo˧! “il y a de l'eau!" dʑi˧ dʑo˧ tsɯ˥! (avec particule de discours tsɯ˥) (avant 2009: noté: /dʑi˥ mv̩˩tɕju˧ dɑ˩˥/)
+\nt <type="hist" print="n" langue="fra"> (ton différent de celui de F5) (2006, 2007: noté dʑi˥)(`rivière' est homophone avec `eau') (Question soulevée en 2007, avant le terrain: «le ton de `rivière' est-il différent de celui de ‘eau'? Conjecture: sans doute dʑi˥ ɖɯ˧ kʰɯ˩»; réponse: est homophone avec `eau') (note ancienne: «vérifié: n'est pas dʑɯ»; mais nouvelle vérification en avril 2012: est dʑɯ; paire minimale `buffle femelle-rivière'.)
+\nt <type="hist" print="n" langue="fra"> ton m2 (historique: noté ˥ puis recatégorisé en 2007 en ton moyen: dʑi˧; dʑi˧ dʑo˧! «il y a de l'eau!» dʑi˧ dʑo˧ tsɯ˥! (avec particule de discours tsɯ˥) (avant 2009: noté: /dʑi˥ mv̩˩tɕju˧ dɑ˩˥/)
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -12215,15 +12232,15 @@
 \xv gv̩˧-dʑɯ˩
 \xe The whole universe, lands far and away; literally “The Nine Rivers”. (The figure ‘nine’ in this phrase is symbolic, meaning ‘all’; it is not possible to say “the Six Rivers” or “the Seven Rivers”.)
 \xn “九条河”，指的是宇宙的全部：东西南北。
-\xf Tous les pays, jusqu'aux confins les plus lointains. Littéralement “les Neuf Fleuves”. (Le chiffre ‘neuf’ dans cette expression est symbolique, pour désigner une totalité: on ne pourrait dire ‘les Six Fleuves’ ou ‘les Sept Fleuves’.)
+\xf Tous les pays, jusqu'aux confins les plus lointains. Littéralement «les Neuf Fleuves». (Le chiffre ‘neuf’ dans cette expression est symbolique, pour désigner une totalité: on ne pourrait dire «les Six Fleuves» ou «les Sept Fleuves».)
 \xv gv̩˧-ti˩ qo˩ ʐwɤ˩-bi˩-kv̩˩, | gv̩˧-dʑɯ˩ qo˩ ʐwɤ˩-bi˩-kv̩˩!
 \xe It is going to be the talk of the town! / Rumour will spread all over! Literally: “This will be talked about in the Nine Strata of the universe; this will be talked about all along the Nine Rivers!”
 \xn 大家都会知道的！直译：‘在宇宙的九层都会说，在九条河边都会说！’
-\xf La rumeur va s'en répandre partout! Littéralement: “Il en sera question par les Neuf Strates de l'univers, il en sera question par les Neuf Fleuves!”
+\xf La rumeur va s'en répandre partout! Littéralement: «Il en sera question par les Neuf Strates de l'univers, il en sera question par les Neuf Fleuves!»
 \xv gv̩˧-dʑɯ˩ | ɖɯ˧-tsʰo˧ ʝi˧, | ʂɯ˧ lo˩ | ɖɯ˧-ʁɑ˧ ʝi˧
 \xe “Crossing the Nine Rivers in one leap, traversing the Seven Valleys in one step”: this set phrase expresses the idea of a magical journey whereby one travels effortlessly and rapidly over the greatest distances. This phrase is use to comfort someone who worries about a family member who is on a faraway journey: the young person will “crossing the Nine Rivers in one leap, traverse the Seven Valleys in one step” and be safe home very soon.
 \xn “一跳就过了九河，一步就过了七谷”：在一个人担心去了远方的亲戚，有人会安慰说：他“一跳就过了九河，一步就过了七谷”，很快就安全回家。
-\xf “Traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas”: expression qui exprime l'idée d'un déplacement magique, par lequel on traverse le monde rapidement et sans effort. Le contexte d'usage le plus courant est celui où quelqu'un s'inquiète au sujet d'un jeune membre de la famille, parti au loin. On se rassure en se disant que la jeune personne va “traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas”, et ainsi, bientôt revenir saine et sauve à la maison.
+\xf «Traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas»: expression qui exprime l'idée d'un déplacement magique, par lequel on traverse le monde rapidement et sans effort. Le contexte d'usage le plus courant est celui où quelqu'un s'inquiète au sujet d'un jeune membre de la famille, parti au loin. On se rassure en se disant que la jeune personne va «traverser les Neuf Fleuves en un bond, passer les Sept Vallées en un pas», et ainsi, bientôt revenir saine et sauve à la maison.
 \xc PROVERBE
 \dt 27/Aug/2015
 
@@ -12323,7 +12340,7 @@
 \lc dʑɯ˩æ̃˩tsɯ˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> (ton: +ɲi˩)(noté “n'est pas dʑɯ"; mais vérif nouvelle 15 avril 2012: est dʑɯ)
+\nt <type="hist" print="n" langue="fra"> (ton: +ɲi˩)(noté «n'est pas dʑɯ»; mais vérif nouvelle 15 avril 2012: est dʑɯ)
 \ton L-LM
 \so F4
 \va <speaker="M23"> ID.
@@ -12345,7 +12362,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> n'est pas dʑɯ; avril 2012: rouvre la question: avais noté dʑi˧… mais à l'oreille paraître être dʑɯ; vérifie à nouveau auprès de F4: est bien dʑi.
-\nt <type="hist" print="n" langue="fra"> ton d1. “Ver de terre", notation et sens confirmés en 2007. Initiale: est /dʑ/.
+\nt <type="hist" print="n" langue="fra"> ton d1. `Ver de terre', notation et sens confirmés en 2007. Initiale: est /dʑ/.
 \ton M
 \so F4
 \va <speaker="F5"> dʑi˧dv̩˧
@@ -12375,7 +12392,7 @@
 \lc dʑɯ˩dze˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (présent aussi chez M21, mais il a perdu l'occlusion de la fricative et il n'en reste que dʑi˩ze˩˥) (avais d'abord noté: “vérifié: n'est pas dʑɯ", et avais noté dʑi˩; mais à l'oreille paraître être dʑɯ; vérifié en avril 2012: est bien dʑɯ.
+\nt <type="hist" print="n" langue="fra"> (présent aussi chez M21, mais il a perdu l'occlusion de la fricative et il n'en reste que dʑi˩ze˩˥) (avais d'abord noté: «vérifié: n'est pas dʑɯ», et avais noté dʑi˩; mais à l'oreille paraître être dʑɯ; vérifié en avril 2012: est bien dʑɯ.
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -12857,7 +12874,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> avant 2009: noté dʑi˩pɤ˩kʶv̩˩˥; confirmé, n'est pas /pɑ/ (n'est pas dʑɯ)
-\nt <dom="sem" langue="fra"> littéralement “trou d'où coule de l'eau"
+\nt <dom="sem" langue="fra"> Littéralement «trou d'où coule de l'eau».
 \ton L
 \lc dʑɯ˩pɤ˩qʰv̩˩˥
 \so F4
@@ -12991,7 +13008,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (notes avant 2009: “tso˧kʶv̩˧; F4 corrige par la suite en: dʑi˩pɑ˩˥tv̩˧kʶv̩˧") (question avant terrain 2007: schéma tonal inattendu, on attendrait ˩˥; réponse: confirmation: est bien ˧˧; explication: le ton de “eau" n'est pas celui que je croyais en 2006) (n'est pas dʑɯ)
-\nt <dom="sem" langue="fra"> littéralement “trou d'eau"
+\nt <dom="sem" langue="fra"> Littéralement «trou d'eau».
 \ton M
 \lc dʑɯ˧qʰv̩˧
 \so F4
@@ -14585,14 +14602,14 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so F4
-\nt <dom="phono" langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème “oui”, /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
+\nt <dom="phono" langue="fra"> Une étude systématique des exemples de cette interjection dans les textes pourrait examiner l'hypothèse selon laquelle il existe des cas intermédiaires entre cette interjection, |fv{õ!}, et le morphème `oui', /|fv{ĩ˧}/, dont le |fv{õ!} est vraisemblablement une déformation expressive. Un spectre de réalisations paraît s'étendre de [|fv{ĩ˧}] (peu courant) à [|fv{õ}] (voyelle d'arrière), en passant par des nuances qui font penser à [|fv{ɛ̃}].
 \nt <dom="phono" langue="eng"> A systematic study of examples of this interjection in texts could examine the hypothesis that there are intermediate cases between this interjection, |fv{õ!}, and the morpheme ‘yes’, /|fv{ĩ˧}/, of which |fv{õ!} is probably an expressive deformation. A spectrum of realizations appears to extend from [|fv{ĩ˧}] (uncommon) to [|fv{õ}] (back vowel), via nuances that are close to [|fv{ɛ̃}].
 \nt <dom="phono" langue="cmn"> 对文本中这种感叹词的例子进行系统研究，可以考察一种假设，即在感叹词|fv{õ!}和语素‘是’/|fv{ĩ˧}/之间存在一个连续体，从/|fv{ĩ˧}/到接近[|fv{ɛ̃}]的发音，再到|fv{õ}，很可能都有实例。
 \de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
 \ge |fg{intj}.approbation
 \dn 感叹词：赞同的插入语。可能是 “是的 ”，/|fv{ĩ˧}/，的变形。一般语调上扬，接近MH调。
 \gn 感叹词
-\df Interjection approbative. Il pourrait s'agir d'une déformation expressive de “oui”,  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
+\df Interjection approbative. Il pourrait s'agir d'une déformation expressive de `oui',  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
 \gf |fg{intj}.approbation
 
 \lx ə˧bv̩˧-ʁwɤ˧
@@ -14986,9 +15003,9 @@
 \ps n
 \mr ə˧hwɤ˧
 \mr zo˧hṽ̩˧˥
-\mc <langue="fra"> Littéralement “enfant né d'hier soir", c'est-à-dire nouveau-né.
-\mc <langue="eng"> Literally ‘child born last night’, i.e. new-born.
-\mc <langue="cmn"> 字面意思是 “昨晚出生的孩子”，即新生儿。
+\mc <langue="fra"> Littéralement «enfant [né] d'hier soir», c'est-à-dire nouveau-né.
+\mc <langue="eng"> Literally ‘child [born] last night’, i.e. new-born.
+\mc <langue="cmn"> 字面意思是 “昨晚（出生）的孩子”，即新生儿。
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton -MH#
@@ -15148,7 +15165,7 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <dom="sem" langue="fra"> La position de ce village situé tout près du monastère peut se décrire comme |fv{ɖæ˩mi˧-kʰi˧} “(à) la porte du monastère", désignation qui peut servir de synonyme du nom `Alawua'.
+\nt <dom="sem" langue="fra"> La position de ce village situé tout près du monastère peut se décrire comme |fv{ɖæ˩mi˧-kʰi˧} «(à) la porte du monastère», désignation qui peut servir de synonyme du nom `Alawua'.
 \nt <dom="sem" langue="eng"> The position of this village very close to the monastery can be described as |fv{ɖæ˩mi˧-kʰi˧} ‘(at) the monastery gate’, a designation that can serve as a synonym for the name `Alawua'.
 \nt <dom="sem" langue="cmn"> 这个村庄离寺院（扎美寺）很近，于是可以用|fv{ɖæ˩mi˧-kʰi˧}“寺院门口”来形容。这个称谓可以作为‘阿拉瓦’这一村名的同义词。
 \ton #H
@@ -15216,7 +15233,6 @@
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="sem" langue="fra"> employé aussi pour “marâtre"
 \nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{e˧mi˧}].
 \nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{e˧mi˧}].
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧mi˧}]。
@@ -15964,7 +15980,7 @@
 \xv mv̩˧ʁo˥ | tʰi˧-dze˩, | kɤ˩-nɑ˧mi˧ ɖɯ˧˥! | di˧qo˧ ʈʂʰɯ˧-dʑo˩, | ə˧v̩˧ ɖɯ˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe, dans aucune des versions qui en ont été enregistrées.
 \xc <type="hist" print="n" langue="eng"> The reference speaker is not familiar with this proverb (in any of the versions that have been recorded).
@@ -15973,25 +15989,25 @@
 \xv mv̩˧ʁo˥ dze˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩-hĩ˩˥ | -dʑo˧, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧-dʑo˧, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \rf M18
 \xv mv̩˧ʁo˥ | dze˩-hĩ˩-dʑo˥, | ɖɯ˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧! | mv̩˧di˧-qo˥ | ɖɯ˩-hĩ˩-dʑo˥, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf “Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.”
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \rf M18
 
@@ -17467,7 +17483,7 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. Avant 2011: noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2014, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
-\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-qo˧}], [|fv{gɤ꜒꜔-qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-qo˧/}。
 \ton L-M
@@ -17505,7 +17521,7 @@
 \or ggeghua
 \mr gɤ˩-
 \mr qwɤ˧
-\mc <langue="fra"> littéralement: “le contrehaut du foyer"
+\mc <langue="fra"> Littéralement: «le contrehaut du foyer»
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -17606,7 +17622,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> L'historique de la notation de la première syllabe est assez long. Avant 2011: noté la voyelle comme /e/, puis comme /ə/, avant d'en venir, en 2014, à une notation /ɤ/. Pour le ton: avant 2014, il n'était pas noté de ton pour la première syllabe, tant sa réalisation est particulière, hors du cadre des niveaux tonals phonologiques. La syllabe était notée /gɤ!…/. En 2014, adopte une notation /gɤ˩-…/, généralement accompagnée d'un accent d'insistance, ↑.
-\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}。
 \ton L-#H
@@ -17629,7 +17645,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-ʈʂʰɯ˧qo˧}], [|fv{gɤ꜒꜔-ʈʂʰɯ˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-ʈʂʰɯ˧qo˧/}。
 \ton L-#H
@@ -17654,7 +17670,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧-gi#˥/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧-gi#˥/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-tʰv̩˧-gi#˥/}.
 \nt <dom="phono" langue="cmn"> /|fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-tʰv̩˧-gi˧}], [|fv{gɤ꜒꜔-tʰv̩˧-gi˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-tʰv̩˧-gi#˥/}。
 \ton L-#H
@@ -17678,7 +17694,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> Notation avant 2014: /gɤ!…/
-\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou “super-haute" descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧qo˧/}.
+\nt <dom="phono" langue="fra"> La syllabe /|fv{gɤ˩}/ porte un ton phonologique bas, mais est réalisée montante, haute, ou «super-haute» descendante à divers degrés, à proportion de la distance que l'énonciateur représente à son co-énonciateur. Au moyen des barres tonales, on pourrait noter leur réalisation, de façon approximative, de la façon suivante: [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]… L'association systématique d'un accent d'insistance à la première syllabe de cette expression autoriserait à inclure cet accent d'insistance dans sa forme lexicale: |fv{/↑gɤ˩-tʰv̩˧qo˧/}.
 \nt <dom="phono" langue="eng"> The syllable /|fv{gɤ˩}/ carries a low phonological tone, but is realized with contours that are rising, high, or extra-high-falling to varying degrees, in proportion to the distance that the enunciator wishes to represent to her/his co-enunciator. Using Chao Yuen-ren's tone bars for intonational notation, these could be approximated as: [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]… Its systematic association with an emphasis would allow this emphasis to be included in its lexical form: |fv{/↑gɤ˩-tʰv̩˧qo˧/}.
 \nt <dom="phono" langue="cmn"> /|fv{gɤ˩}/这个音节的本调为低调（Ｌ），但根据发音人所想表达的距离，可实现不同程度的升调、高调或超高降调： [|fv{gɤ꜔꜒-tʰv̩˧qo˧}], [|fv{gɤ꜒꜔-tʰv̩˧qo˧}]……由于这个词在语流中往往有强调重音，可以考虑将强调重音视为词形的组成部分：|fv{/↑gɤ˩-tʰv̩˧qo˧/}。
 \ton L-#H
@@ -18213,7 +18229,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="ton" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-gv̩˩-ze˩}, ainsi que dans |fv{le˧-gv̩˩-dʑɯ˩} (|fg{accomp} 〜 |fg{expérientiel}), constituait un casse-tête, du fait que ce verbe se comporte dans ces cadres comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans d'autres cadres (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). On ne peut dire |fv{‡le˧-gv̩˧-ze˧}. Cette propriété, qui distingue ce verbe (aux côtés de formes du verbe “aller": non passé |fv{bi˧}, et passé de 3e personne |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique: la classe Mγ.
+\nt <dom="ton" langue="fra"> La réalisation tonale M.L.L. dans le cadre |fg{accomp} 〜 |fg{pfv}, |fv{le˧-gv̩˩-ze˩}, ainsi que dans |fv{le˧-gv̩˩-dʑɯ˩} (|fg{accomp} 〜 |fg{expérientiel}), constituait un casse-tête, du fait que ce verbe se comporte dans ces cadres comme un verbe au ton L, alors qu'il se comporte comme un verbe au ton M dans d'autres cadres (notamment lorsqu'il est précédé de la négation, |fv{mɤ˧-}). On ne peut dire |fv{‡le˧-gv̩˧-ze˧}. Cette propriété, qui distingue ce verbe (aux côtés de formes du verbe `aller': non passé |fv{bi˧}, et passé de 3e personne |fv{hɯ˧}) du reste des verbes au ton M, amène à le placer dans une sous-classe tonale spécifique: la classe Mγ.
 \ton Mγ
 \lc gv̩˧
 \so F4
@@ -20531,7 +20547,7 @@
 \xv no˧ | ɕi˩mi˩ tʰi˩-di˥, | hĩ˧-ki˧ | ʐwɤ˩-zo˩-kv̩˥!
 \xe “You have a tongue, and you should use it!” This saying encourages one not to remain silent, but to engage in constant dialogue with others. Awkward situations and misunderstandings easily arise; they can only be dispelled by talking to others.
 \xn 你有舌头，是用来跟别人说话的啊！（鼓励对方跟别人聊天：如果不说话，不多交流，就容易发生误会、容易发生尴尬的情况。主动交流，谈天，才能互相理解，好好一起生活。）
-\xf “Tu as une langue, c'est pour t'en servir!” Dicton qui incite à ne pas se tenir coi. Si on ne se parle pas, les malentendus sont vite venus; pour vivre ensemble en bonne intelligence, il faut un dialogue constant avec les uns et les autres.
+\xf «Tu as une langue, c'est pour t'en servir!» Dicton qui incite à ne pas se tenir coi. Si on ne se parle pas, les malentendus sont vite venus; pour vivre ensemble en bonne intelligence, il faut un dialogue constant avec les uns et les autres.
 \xc PROVERBE
 
 \lx hĩ˧mo˩
@@ -20548,7 +20564,7 @@
 \sd <langue="eng"> body
 \comp <langue="pmi"> mu35
 \nt <type="hist" print="n" langue="fra"> provient de: “homme", hĩ˧ (m4a)+un prédicat non identifié: prédicat au ton 1? sémantiquement, paraît être le même mot que “vieux", /mu/, ton 3, mais le composé donne /hĩ˧mu˥/ “vieille personne", pas ˧ ˩. en 2009, pas parvenu à analyser. N'est pas le mot pour “vieux".
-\nt <dom="sem" langue="fra"> on emploie le même mot pour “tombe" que pour “cadavre", “personne décédée"
+\nt <dom="sem" langue="fra"> On emploie le même mot pour `tombe' que pour `cadavre'.
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -21859,7 +21875,7 @@
 \cf hõ˧α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="ton" langue="fra"> Parmi les verbes au ton M (qui portent un ton M lorsqu'ils sont précédés de la négation, |fv{mɤ˧-}, celui-ci se singularise, aux côtés de “aller", |fv{bi˧}, et “se passer", |fv{gv̩˧}, par son comportement dans le cadre |fg{accomp} 〜 |fg{pfv}: le verbe porte alors un ton bas (schéma: M.L.L). Ces verbes sont classés dans la catégorie Mγ.
+\nt <dom="ton" langue="fra"> Parmi les verbes au ton M (qui portent un ton M lorsqu'ils sont précédés de la négation, |fv{mɤ˧-}, celui-ci se singularise, aux côtés de `aller', |fv{bi˧}, et `se passer', |fv{gv̩˧}, par son comportement dans le cadre |fg{accomp} 〜 |fg{pfv}: le verbe porte alors un ton bas (schéma: M.L.L). Ces verbes sont classés dans la catégorie Mγ.
 \ton Mγ
 \so F4
 \de To go, past form for the third person.
@@ -22363,7 +22379,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (tons non vérifiés)
-\nt <dom="sem" langue="fra"> “objet pour faire du tissu"
+\nt <dom="sem" langue="fra"> Littéralement «objet pour faire du tissu».
 \ton L#-
 \so F4
 \va <speaker="F5"> hwæ˧pʰæ˥-gv̩˧-di˧ tɕit˧ɕʰi˥
@@ -22516,7 +22532,7 @@
 \xn 挂东西
 \xf accrocher des choses
 \xc PHONO
-\xc <langue="fra" dom="ton"> Cette expression se distingue par son schéma tonal (M.M.H) de /|fv{tso˧~tso˧ hwæ˩}/ “acheter des choses", dont le schéma tonal est M.M.L.
+\xc <langue="fra" dom="ton"> Cette expression se distingue par son schéma tonal (M.M.H) de /|fv{tso˧~tso˧ hwæ˩}/ «acheter des choses», dont le schéma tonal est M.M.L.
 \xv ʂe˧ | tʰi˧-hwæ˩
 \xe to hang meat (above the hearth, to smoke it)
 \xn 挂肉（在火塘上，为了熏肉）
@@ -23311,7 +23327,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> *
-\vc <langue="fra" dom="sem"> Le locuteur emploie l'expression |fv{ʈʂʰæ˧v̩˧-nɑ˥}: “médicament noir"
+\vc <langue="fra" dom="sem"> Le locuteur emploie l'expression |fv{ʈʂʰæ˧v̩˧-nɑ˥}: «médicament noir».
 \vc <langue="eng" dom="sem"> The speaker uses the phrase |fv{ʈʂʰæ˧v̩˧-nɑ˥}, meaning ‘black medicine’.
 \vc <langue="cmn" dom="sem"> 发音人的说法是|fv{ʈʂʰæ˧v̩˧-nɑ˥}，意思是‘黑药’。
 \de Opium.
@@ -23480,7 +23496,7 @@
 \xv ʈʂʰɯ˧ | ə˧-ʝi˥?
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
 \xn 他来吗？/他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？/他能跟上吗？”）
-\xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: “Il suit? / Ca suit?”)
+\xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: «Il suit? / Ca suit?»)
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ʝi˥/.
 \xv mɤ˧-ʝi˧-ze˧!
 \xe It's going wrong! / Something is going wrong! / We're in for trouble!
@@ -24091,7 +24107,7 @@
 \lc ʝi˧mi˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> On ne peut employer le mot avec le suffixe /zo/ pour dire “petit"; l'expression voudrait dire: “petite vache".
+\nt <dom="sem" langue="fra"> On ne peut employer le mot avec le suffixe /zo/ pour dire `petit': l'expression serait comprise comme «petite vache».
 \ton M
 \so F4
 \va <speaker="M21"> ʝi˧mi#˥
@@ -24305,7 +24321,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\nt <dom="dialect" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, “parapluie des étrangers", sur le modèle de |fv{jɤ˩ho˧} “allumettes" et |fv{jɤ˩jo˧} “pommes de terre", dont la première syllabe vient du chinois |fn{洋}.
+\nt <dom="dialect" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, «parapluie des étrangers», sur le modèle de |fv{jɤ˩ho˧} `allumettes' et |fv{jɤ˩jo˧} `pommes de terre', dont la première syllabe vient du chinois |fn{洋}.
 \nt <dom="dialect" langue="eng"> Pico |fv{pʰi˧tsʰo˧}, a friend of Daeshi who lives in |fv{lo˧gv̩˩} (Ninglang), pronounces |fv{jɤ˩sɑ˧}, ‘foreigners’ umbrella’, similar to |fv{jɤ˩ho˧} “matches” and |fv{jɤ˩jo˧} “potatoes”, the first syllable of which comes from the Chinese |fn{洋} ‘foreign, Western’.
 \nt <dom="dialect" langue="cmn"> 住在宁蒗的品初（达石的一个朋友）发作|fv{jɤ˩sɑ˧}‘洋伞’, “洋人的（雨）伞”，其中|fv{jɤ˩}音节为‘洋’，像|fv{jɤ˩ho˧}‘火柴’（“洋火”）和|fv{jɤ˩jo˧}‘洋芋’中的‘洋’。
 \ton M
@@ -24703,7 +24719,7 @@
 \ge 一楼::ground_floor
 \dn 一楼
 \gn 一楼（借词）
-\df Rez-de-chaussée (décrit comme “premier étage'' selon la convention chinoise).
+\df Rez-de-chaussée (décrit comme «premier étage», selon la convention chinoise).
 \gf 一楼::rez_de_chaussée
 
 \lx jo˥
@@ -25100,7 +25116,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="ety" langue="fra"> Emprunt au chinois: |fn{洋火} “le feu des étrangers".
+\nt <dom="ety" langue="fra"> Emprunt au chinois: |fn{洋火} «le feu des étrangers».
 \nt <dom="morpho" langue="fra" print="n"> Des combinaisons avec les suffixes -mi et -zo ont été tentées à tout hasard, et n'ont rien donné (elles n'existent pas).
 \ton LM
 \lc jɤ˩ho˥
@@ -27781,7 +27797,7 @@
 \lc kʰɯ˧di˧˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> “mettre"+suffixe “chose pour…", “qui sert à…"
+\nt <dom="morpho" langue="fra"> Composé de `mettre'+suffixe `chose pour…', `qui sert à…'
 \ton MH#
 \so F4
 \pdv ɭɯ˧β
@@ -27824,7 +27840,7 @@
 \xe lame demon
 \xn 跛鬼
 \xf démon boiteux
-\xc <langue="fra" dom="sem"> Formule construite comme traduction d'un terme élicité lors de l'enquête de vocabulaire: «démon à un pied», |fn{独脚鬼}. En fait, cette créature de légendes chinoises ne fait pas partie de la mythologie locale; l'informateur avait alors calqué la formule chinoise en: “démon boiteux".
+\xc <langue="fra" dom="sem"> Formule construite comme traduction d'un terme élicité lors de l'enquête de vocabulaire: «démon à un pied», |fn{独脚鬼}. En fait, cette créature de légendes chinoises ne fait pas partie de la mythologie locale; l'informateur avait alors calqué la formule chinoise en: «démon boiteux».
 \xc <langue="eng" dom="sem"> This formula was constructed as a translation of a term elicited during the vocabulary survey: ‘one-footed demon’, |fn{独脚鬼}. In fact, this creature from Chinese legends is not part of the local mythology; the speaker translated the Chinese formula as ‘lame demon’.
 \xc <langue="cmn" dom="sem"> 这个短语是对词汇调查中问出的‘独脚鬼’这个词的翻译。事实上，中国传说中的独脚鬼并不属于当地神话。合作人将汉语的词翻译为‘跛脚鬼’。
 \xc <dom="ton"> M
@@ -27838,12 +27854,11 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> (notes 2007: ton d7; erroné) (n'est pas dʑɯ)
-\nt <dom="sem" langue="fra"> (sens: “pied"+"faire le tour de, s'enrouler autour de")
+\nt <dom="morpho" langue="fra"> Le mot est composé de `pied, jambe' + `faire le tour de, s'enrouler autour de': «ce qui fait le tour de la jambe», «ce qui s'enroule autour de la jambe».
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰɯ˧dʑi˥
-\vc <langue="fra" print="n"> l'étymologie imaginée serait: 'pied' + 'faire le tour de'; “qui fait le tour du pied"
 \va <speaker="M21"> ID.
 \pdv dzi˧
 \pdc <langue="fra"> paire
@@ -27980,7 +27995,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="sem" langue="fra"> littéralement “les étoiles défèquent"
+\nt <dom="sem" langue="fra"> Littéralement: «les étoiles défèquent»
 \ton MH#
 \lc kɯ˧qʰæ˧ʂe˧˥
 \so F4
@@ -28002,7 +28017,6 @@
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
 \nt <type="hist" print="n" langue="fra"> noté /‡kɯ˩ɻ̩˩ʈɤ˧˥/ en 2006; avant 2015: avais noté comme ton LH
-\nt <dom="sem" langue="fra"> jouer du erhu: “tirer le erhu", comme en chinois
 \ton LM
 \lc kɯ˩ɻ̩˥
 \so F4
@@ -28021,6 +28035,7 @@
 \xe to play erhu
 \xn 拉二胡
 \xf jouer du erhu
+\xc <dom="sem" langue="fra"> La collocation est, littéralement, `tirer' le erhu, comme en chinois.
 
 \lx kʰɯ˧tʰo˧˥
 \sf <nb="2011"> 928
@@ -28075,20 +28090,18 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (sens et forme vérifiés en 2009) classificateur: noté ɖɯ˧pʰu˩ avant 2009, par erreur
-\nt <dom="sem" langue="fra"> (même désignation pour “pied")
 \ton MH#
 \lc kʰɯ˧tsʰɤ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
-\de Leg.
-\ge leg
+\de Leg; foot.
+\ge leg/foot
 \dn 腿，脚
 \gn 腿/脚
-\df Jambe.
-\gf jambe
-\dt 03/Sep/2015
+\df Jambe; pied.
+\gf jambe/pied
 
 \lx kʰɯ˧ʈʂɤ#˥
 \or keezhe
@@ -28502,7 +28515,7 @@
 \lc kʰv̩˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="ton" langue="fra"> Le monosyllabe n'est pas couramment utilisé, mais il est attesté. Son ton est analysé comme #H sur la base de son comportement identique à celui de /|fv{ʐwæ˥}/ ‘cheval’ et /|fv{ʝi˥1}/ ‘bœuf’ (formes monosyllabiques d'usage plus courant). “Année du Chien" a le même ton que “année du Cheval" et “année du Bœuf", or ‘cheval' et ‘bœuf' sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres noms d'années, qui correspondent à des monosyllabes aux tons L, ML, M et MH.
+\nt <dom="ton" langue="fra"> Le monosyllabe n'est pas couramment utilisé, mais il est attesté. Son ton est analysé comme #H sur la base de son comportement identique à celui de /|fv{ʐwæ˥}/ ‘cheval’ et /|fv{ʝi˥1}/ ‘bœuf’ (formes monosyllabiques d'usage plus courant). «Année du Chien» a le même ton que «année du Cheval» et «année du Bœuf», or ‘cheval' et ‘bœuf' sont tous deux au ton #H. Ce schéma tonal est différent de celui des autres noms d'années, qui correspondent à des monosyllabes aux tons L, ML, M et MH.
 \nt <dom="ton" langue="eng"> The monosyllable is not commonly used, but it is attested. Its tone is analyzed as #H on the basis of its identical behaviour to that of /|fv{ʐwæ˥}/ ‘horse’ and /|fv{ʝi˥1}/ ‘ox’ (monosyllabic nouns which are more commonly used). ‘Year of the Dog’ has the same tone pattern as ‘year of the Horse’ and ‘year of the Ox’, and ‘horse’ and ‘ox’ are both in the #H tone category. This tonal pattern is different from that of the other year names, which correspond to monosyllables in the L, ML, M and MH tone categories.
 \nt <dom="ton" langue="cmn"> 这个单音节词不常用，但它还是存在。根据其与/|fv{ʐwæ˥}/‘马’和 /|fv{ʝi˥1}/‘牛’（更常用的单音节词）相同的变调，其声调被分析为#H。‘狗年’的声调与‘马年’和‘牛年’相同，而‘马’和‘牛’的本调都是#H。这种声调模式与其他年名的声调模式不同，其他年名对应的单音节词分别承载L、ML、M和MH调。
 \ton #H
@@ -28800,7 +28813,7 @@
 \lc kʰv̩˩mi˩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> Le terme s'emploie aussi bien pour les chiens que pour les chiennes: le suffixe -mi est “blanchi" de toute connotation de sexe, et aussi d'âge, il peut s'employer pour les chiots.
+\nt <dom="sem" langue="fra"> Le terme s'emploie aussi bien pour les chiens que pour les chiennes: le suffixe -mi est `blanchi' de toute connotation de sexe, et aussi d'âge, il peut s'employer pour les chiots.
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -29004,7 +29017,7 @@
 \lc kʰv̩˧qʰwɤ˧˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <dom="sem" langue="fra"> Il est problématique de placer ce nom dans le cadre «ceci est…», car cela donne |fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}, dont l'interprétation la plus plausible est «c'est un bol pour chien, c'est la gamelle du chien" (/|fv{kʰv̩˧qʰwɤ#˥}/ veut dire “bol du chien"). Il n'est pas usuel de dire «c'est une mauvaise année» en employant le verbe copule: on utilise le verbe |fv{tʰv̩˧} ‘apparaître, avoir lieu’ (|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}).
+\nt <dom="sem" langue="fra"> Il est problématique de placer ce nom dans le cadre «ceci est…», car cela donne |fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}, dont l'interprétation la plus plausible est «c'est un bol pour chien, c'est la gamelle du chien» (/|fv{kʰv̩˧qʰwɤ#˥}/ veut dire «bol du chien»). Il n'est pas usuel de dire «c'est une mauvaise année» en employant le verbe copule: on utilise le verbe |fv{tʰv̩˧} ‘apparaître, avoir lieu’ (|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}).
 \nt <dom="sem" langue="eng"> Placing this noun in the frame ‘this is …’ is problematic, as this yields |fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}, the most plausible interpretation of which is ‘this is a dog bowl, this is the dog's bowl’ (/|fv{kʰv̩˧qʰwɤ#˥}/ means ‘dog's bowl’). It is not usual to say ‘it's a bad year’ using the copular verb: instead, the verb |fv{tʰv̩˧} ‘to appear, to take place’ is used (|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}).
 \nt <dom="sem" langue="cmn"> 对此名词用“这是……”的框架是有问题的，因为|fv{ʈʂʰɯ˧ | kʰv̩˧ qʰwɤ˧ ɲi˥}这句话，被理解为‘这是一个狗碗，这是狗的碗’（/|fv{kʰv̩˧qʰwɤ#˥}/意为‘狗碗’）。说“今年是个坏年景”，通常不使用系动词而是使用|fv{tʰv̩˧}‘出现、发生’那个动词，如下：|fv{kʰv̩˧qʰwɤ˧ tʰv̩˧˥}。
 \ton MH#
@@ -29034,7 +29047,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="ton" langue="fra"> Schéma tonal régulier: objet au ton H, verbe au ton L, expression résultante au ton MH.
-\nt <dom="sem" langue="fra"> “Chasser" se dit “mener (un) chien".
+\nt <dom="sem" langue="fra"> `Chasser' se dit «mener (un) chien».
 \ton MH
 \so F4
 \va <speaker="M21"> ID.
@@ -29574,7 +29587,6 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> cf récit “frère et sœur"
 \so F4
 \de To drape oneself in (a cape, a piece of fabric).
 \ge to_drape_oneself_in
@@ -29582,7 +29594,17 @@
 \gn 披上
 \df Se draper de, endosser, mettre sur son dos.
 \gf se_draper_de
-\dt 04/Sep/2015
+\xv ʐæ˩sɯ˩˥ | ɖɯ˧-ɭɯ˧ | kʰwæ˧hwæ˩
+\xo raesi ddeelee kuaehuae
+\xe (He) wrapped himself in a coarse felt cloak.
+\xn （他）披着一块粗的毡子。
+\xf Il se drapa dans une pièce de feutre.
+\txt Sister.55
+\doi 10.24397/pangloss-0004342#S55
+\txtsup Sister5.44
+\doisup 10.24397/pangloss-0009082#S44
+\txtsup
+\doisup
 
 \lx kwæ˩pæ˧
 \or guaebae
@@ -30069,7 +30091,7 @@
 \xv hĩ˧ ɖɯ˧-v̩˧ lɑ˧ ɲi˥ mæ˩!
 \xe It's one and the same person / It refers to the same person! (Response given by the speaker to a question about shades of meaning between quasi-synonyms. Paraphrase: ‘Well, you can find nuances, but basically it's all the same: it refers to the same person’).
 \xn 是同一个人／指的是同一个人！(情景：发音合作者回答关于准同义词之间的细微差别的问题。意思是：“嗯，可以找到细微差别，但基本上都是一样的，因为指的是同一个人”。）
-\xf Il s'agit d'une seule et même personne! / Il s'agit en tout et pour tout d'une seule personne! / Ca désigne la même personne! (Réponse fournie par la locutrice à une question concernant les nuances de sens entre quasi-synonymes pour désigner une certaine personne. Paraphrase: “Les nuances, bon, on peut en trouver, mais au fond, c'est pareil puisque ça désigne la même personne".)
+\xf Il s'agit d'une seule et même personne! / Il s'agit en tout et pour tout d'une seule personne! / Ca désigne la même personne! (Réponse fournie par la locutrice à une question concernant les nuances de sens entre quasi-synonymes pour désigner une certaine personne. Paraphrase: «Les nuances, bon, on peut en trouver, mais au fond, c'est pareil puisque ça désigne la même personne».)
 
 \lx lɑ˧˥
 \sf <nb="B"> 1191b
@@ -31268,7 +31290,7 @@
 \xv “bæ˧li˥”, | nɑ˩hĩ˧-ʐwɤ˧ ɲi˥!
 \xe “|fv{bæ˧li˥}” [a Naxi word for sweetened tea] is a Naxi word! / It's in the Naxi language!
 \xn “|fv{bæ˧li˥}”[纳西语词语：‘甜茶’]，是纳西语！
-\xf “|fv{bæ˧li˥}” [mot naxi désignant le thé sucré], c'est un mot naxi! / C'est du naxi!
+\xf «|fv{bæ˧li˥}» [mot naxi désignant le thé sucré], c'est un mot naxi! / c'est du naxi!
 
 \lx ɬi˩
 \hm 1
@@ -32049,7 +32071,7 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ɬi˩kʶwɤ˩˥)
-\nt <dom="ety" langue="fra"> James Matisoff considère qu'il s'agirait là d'un mot typiquement “lolo-birman".
+\nt <dom="ety" langue="fra"> James Matisoff considère qu'il s'agirait là d'un mot typiquement «lolo-birman».
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -32660,7 +32682,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /lo˩bɤ˩˥/)
-\nt <dom="sem" langue="fra"> même morphème que dans “plante du pied"
+\nt <dom="sem" langue="fra"> On retrouve ici le même morphème que dans «plante du pied».
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -32904,7 +32926,9 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (tons confirmés; n'est pas conforme à l'attente, qui serait ˩ ˥ ˧, sur modèle de: bu˩ɲi˥gɤ˧ “nez de cochon")
-\nt <dom="sem" langue="fra"> sens: “dos de la main"
+\nt <dom="morph" langue="fra"> Le mot a pour structure: «dos de la main».
+\nt <dom="morph" langue="eng"> Literally “the back of the hand”.
+\nt <dom="morph" langue="cmn"> 这个词的结构与汉语的‘手背’相同。
 \ton L-
 \lc lo˩gv̩˧dv̩˧
 \so F4
@@ -33591,7 +33615,7 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" print="n" langue="fra"> Jusqu'en 2011: noté ‡lo˧ʂu˩, par erreur.
-\nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme “le Lac", /|fv{hi˩nɑ˧mi#˥}/.
+\nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme `le Lac', /|fv{hi˩nɑ˧mi#˥}/.
 \nt <dom="sem" langue="eng"> Lugu Lake can also be referred to simply as “the Lake", /|fv{hi˩nɑ˧mi#˥}/.
 \nt <dom="sem" langue="cmn"> 泸沽湖还能简单称作“湖”，/|fv{hi˩nɑ˧mi#˥}/。
 \nt <dom="morpho" langue="fra"> L'expression est formée par simple succession du nom de lieu |fv{lo˧ʂv̩˩} et du nom commun ‘lac’. Leur composition n'amène pas de changement tonal.
@@ -33646,7 +33670,9 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <type="hist" print="n" langue="fra"> Avant 2009, noté: /‡ɬo˥tɑ˥ɬo˧ɲi˩/.
-\nt <dom="sem" langue="fra"> La première partie de cette expression disyllabique, |fv{/ɬo˧tɑ˧/}, peut s'employer seule, avec le sens de “à côté de", mais pas la seconde.
+\nt <dom="sem" langue="fra"> La première partie de cette expression disyllabique, |fv{/ɬo˧tɑ˧/}, peut s'employer seule, avec le sens de «à côté de». En revanche, la seconde partie ne peut s'employer seule.
+\nt <dom="sem" langue="eng"> The first part of this disyllabic expression, |fv{/ɬo˧tɑ˧/}, can be used on its own, meaning ‘beside’. On the other hand, the second part cannot be used on its own.
+\nt <dom="sem" langue="cmn"> 这个双音节短语的第一部分，即|fv{/ɬo˧tɑ˧/}，可以单独使用，意思是‘在......旁边’。但第二部分却不能单独使用。
 \ton -L
 \lc ɬo˧tɑ˧ɬo˩ɲi˩
 \cf ɬo˧tɑ˧
@@ -35241,7 +35267,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> Avant 2011: noté une initiale aspirée pour la deuxième syllabe, /‡pʰæ/.
-\nt <dom="sem" langue="fra" print="n"> Voir la série de photos de vanneries prise le 11/11/2007 (5 photos “recto", 5 photos “verso"). Cette vannerie-ci figure en photo 5: c'est la plus grande. Elle ne comporte pas d'interstices.
+\nt <dom="sem" langue="fra" print="n"> Voir la série de photos de vanneries prise le 11/11/2007 (5 photos «recto», 5 photos «verso»). Cette vannerie-ci figure en photo 5: c'est la plus grande. Elle ne comporte pas d'interstices.
 \nt <type="hist" print="n" dom="ton" langue="fra"> Avant 2024: noté /mæ˧pæ˧/ pour F4, /mi˧pæ˧/ pour M21 et M23, relevant que la forme /mi˧pæ˧/ était sans doute une forme plus conservatrice, tandis que celle de F4 était le fruit d'une harmonie vocalique.
 \ton M
 \so F4
@@ -35357,7 +35383,9 @@
 \lc mæ˧ɻ̩̃˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> (littéralement “os de la queue")
+\nt <dom="sem" langue="fra"> Littéralement «os de la queue».
+\nt <dom="sem" langue="eng"> Literally: “bone of the tail”.
+\nt <dom="sem" langue="cmn"> 直译：‘尾骨’。
 \ton #H
 \so F4
 \va <speaker="M23"> ID.
@@ -35544,7 +35572,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <dom="sem" langue="fra"> fonctionne comme suffixe dans les noms d'animaux; mais peut s'utiliser comme nom: “c'est une femelle"
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \lc mi˩˥
@@ -35861,7 +35889,7 @@
 \lc mi˩mo˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photos 1 à 5 prises le 11/11/2007 (5 photos “recto", 5 photos “verso"). Celui-ci correspond à la photo 1: petit format, ne laisse rien passer
+\nt <dom="sem" langue="fra"> cf photos 1 à 5 prises le 11/11/2007 (5 photos «recto», 5 photos «verso»). Celui-ci correspond à la photo 1: petit format, ne laisse rien passer
 \ton L
 \so F4
 \va <speaker="M21"> ID.
@@ -38615,7 +38643,7 @@
 \sd <langue="eng"> object
 \comp <langue="pmi" print="n"> mə22zæ51
 \nt <type="hist" print="n" langue="fra"> (+ɲi˥)
-\nt <dom="sem" langue="fra"> “médicament pour arme à feu"
+\nt <dom="sem" langue="fra"> «médicament pour arme à feu»
 \ton #H
 \so F4
 \va <speaker="M18"> ID.
@@ -39111,7 +39139,7 @@
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \lc nɑ˩˥
@@ -45385,7 +45413,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \lc pʰɤ˩˥
@@ -63750,7 +63778,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /tɕʰju˩˥) (historique: “m4; petite hésitation entre m4b (˧˥) et m1 (˩˥); pas sûr qu'il y ait une différence (au 11/11/2007); F4 préfère une descente mesurée entre le H du début et le H de la fin, je note donc HMH plutôt que HLH"; confirmé en mai 2008 avec F4: est bien un ton m1)
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 
 \ton LM
 \lc tɕʰo˩˥
@@ -78633,7 +78661,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /ʐe˩mi˩˥/, ton d3; avant 2011: noté -ku, par erreur)
-\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type “porc").
+\nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type ‘porc’).
 \ton LM
 \lc ʐɤ˩˥
 \so F4
