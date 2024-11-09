@@ -1909,6 +1909,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; notation 2006: bæ˩bv̩˧)
 \ton H#
+\sy bæ˧bv̩˥zo˩
 \lc bæ˧bv̩˥
 \so F4
 \va <speaker="F5"> ID.
@@ -1920,10 +1921,26 @@
 \gn 猪崽
 \df Goret, porcelet, cochonnet, petit cochon.
 \gf goret
-\xv bæ˧bv̩˥-zo˩
-\xe same meaning: piglet
-\xn 猪崽
-\xf même sens: goret
+
+\lx bæ˧bv̩˥-zo˩
+\sf <nb="B"> 1856
+\sf <nb="2011"> 2820
+\or bbaebbusso
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton H#-
+\sy bæ˧bv̩˥
+\lc bæ˧bv̩˥zo˩
+\so F4
+\va <speaker="F5"> ID.
+\pdv ɭɯ˧β
+\de Piglet.
+\ge piglet
+\dn 猪崽
+\gn 猪崽
+\df Goret, porcelet, cochonnet, petit cochon.
+\gf goret
 
 \lx bæ˧ɖæ˧
 \or bbaeddae
@@ -2287,14 +2304,15 @@
 \xn 松松的！松动了!（情景：看见驮在马上面的货物没系好）
 \xf C'est tout relâché, ce n'est pas bien serré! (Au sujet d'une charge sur le dos d'un mulet)
 \xv bæ˩ʁwæ˩~ʁwæ˥ gv̩˩
-\xe Same meaning.
-\xn 同上。
-\xf Même sens.
+\xe It is loose.
+\xn 是松松的。
+\xf C'est relâché.
 
 \lx bæ˧ʁwɤ˧
 \or Bbaewua
 \ps n
 \lc bæ˧ʁwɤ˧
+\sy bæ˧ʁwɤ˧-ʁwɤ˧
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton M
@@ -2305,10 +2323,6 @@
 \gn 巴瓦村
 \df Bbaewua, un village proche des Sources Chaudes.
 \gf Bbaewua
-\xv bæ˧ʁwɤ˧-ʁwɤ˧
-\xe same meaning: the village of Bbaewua |fv{/bæ˧ʁwɤ˧/}
-\xn 同上：巴瓦村
-\xf même sens: le village de Bbaewua |fv{/bæ˧ʁwɤ˧/}
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
@@ -2321,6 +2335,22 @@
 \xe Na (Mosuo) people from Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 \xn 巴瓦摩梭
 \xf Les Na (Moso) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
+
+\lx bæ˧ʁwɤ˧-ʁwɤ˧
+\or Bbaewua wua
+\ps n
+\lc bæ˧ʁwɤ˧ʁwɤ˧
+\sy bæ˧ʁwɤ˧
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton M
+\so F4
+\de The village of Bbaewua, close to the Hot Springs.
+\ge Bbaewua_village
+\dn 巴瓦村：温泉乡的一个村落
+\gn 巴瓦村
+\df Bbaewua, un village proche des Sources Chaudes.
+\gf Bbaewua.nom_de_village
 
 \lx bæ˩ʈʂo˥
 \sf <nb="B"> 492
@@ -3832,10 +3862,9 @@
 \or bbohree
 \ps n
 \lc bo˩ɣɯ˥
+\sy bo˩-ɣɯ˥kɯ˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra">
-\nt <type="hist" print="n" langue="fra"> Notes anciennes: «bu˩ɣɯ˥kɯ˧; tons confirmés en 2007: est ˩ ˥ ˧ et non ˩ ˥ ˩. Donne: bu˩ɣɯ˥kɯ˧ɲi˩». Ensuite analysé comme ton LML: cette analyse (confirmée en 2011) revenait à le distinguer du ton LM. Par la suite, l'analyse (jusqu'à l'ouvrage de 2017 et au-delà) consiste à analyse l'opposition comme consistant en un ton LH (l'ancien ton LML) et un ton LM (noté ainsi de façon constante). L'abaissement des tons qui suivent, qui était attribué, dans l'analyse `LML', à la présence d'un ton bas, est désormais attribué à la présence du ton H, qui a pour effet, dans l'ensemble du système tonal na, l'abaissement des tons suivants (en ton L).
 \ton LH
 \so F4
 \va <speaker="F5"> ID.
@@ -3846,10 +3875,27 @@
 \gn 猪皮
 \df Couenne.
 \gf couenne
-\xv bo˩-ɣɯ˧kɯ˩
-\xe same meaning: pigskin
-\xn 同上：猪皮
-\xf même sens: couenne
+
+\lx bo˩-ɣɯ˥kɯ˩
+\sf <nb="B"> 1947
+\sf <nb="2011"> 488
+\or bbohreegee
+\ps n
+\sy bo˩-ɣɯ˥
+\lc bo˩ɣɯ˥kɯ˩
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\nt <type="hist" print="n" langue="fra"> Notes anciennes: «bu˩ɣɯ˥kɯ˧; tons confirmés en 2007: est ˩ ˥ ˧ et non ˩ ˥ ˩. Donne: bu˩ɣɯ˥kɯ˧ɲi˩». Ensuite analysé comme ton LML: cette analyse (confirmée en 2011) revenait à le distinguer du ton LM. Par la suite, l'analyse (jusqu'à l'ouvrage de 2017 et au-delà) consiste à analyse l'opposition comme consistant en un ton LH (l'ancien ton LML) et un ton LM (noté ainsi de façon constante). L'abaissement des tons qui suivent, qui était attribué, dans l'analyse `LML', à la présence d'un ton bas, est désormais attribué à la présence du ton H, qui a pour effet, dans l'ensemble du système tonal na, l'abaissement des tons suivants (en ton L).
+\ton L+#H-
+\so F4
+\va <speaker="F5"> ID.
+\pdv tsʰi˥
+\de Pigskin, hogskin.
+\ge pigskin
+\dn 猪皮
+\gn 猪皮
+\df Couenne.
+\gf couenne
 
 \lx bo˩-hɑ#˥
 \sf <nb="B"> 406
@@ -6645,6 +6691,9 @@
 \sd <langue="eng"> abstract
 \ton L
 \lc dɑ˩˥
+\cf mɤ˧-dɑ˩
+\cf mɤ˧-dɑ˩-mi˩
+\cf mɤ˧-dɑ˩qʰwɤ˩
 \so F4
 \de Happy.
 \ge happy
@@ -6653,18 +6702,6 @@
 \df Heureux.
 \gf heureux
 \ue archaic
-\xv mɤ˧-dɑ˩-qʰwɤ˩
-\xe Melancholy expression, telling of one's unhappiness, lamenting one's hardships.
-\xn “玛达夸”：叹息，有幸福、高兴、安好，有悲情、悲伤、哀痛，有珍惜、可惜、怜悯。
-\xf Expression mélancolique reflétant mélancolie et tristesse mêlées de joie, d'emportement et de regrets.
-\xv mɤ˧-dɑ˩!
-\xe As above. Introductory formula for melancholy songs, and sometimes at the beginning of stories. (The same formula is also used in the Laze language.)
-\xn “玛达”。同上。
-\xf Idem ci-dessus. La formule est notamment employée en début de chanson mélancolique, et parfois au début d'un conte. (La même formule est en usage dans la langue lazé.)
-\xv mɤ˧-dɑ˩-mi˩
-\xe As above: same meaning as the form without a |fv{/-mi/} suffix.
-\xn “玛达咪”。同上。
-\xf Comme ci-dessus: même sens que la forme sans suffixe |fv{/-mi/}.
 \xv ɖwæ˧˥ | hɤ˩-dɑ˥! | ɖwæ˧˥ | hɤ˩˥!
 \xe Good job! / Well done! (Context: compliment to a toddler who has managed to do something impressive for her age.)
 \xn 很了不起啊！了不起！（情景：表扬一个小孩子成功地完成一件事情。）
@@ -6673,7 +6710,6 @@
 \xe All is well. / All is for the best. (Used for instance to describe a period without food shortage, earthquake, epidemic, war or other catastrophe)
 \xn 一切都安好。（如：一段时间没有饥荒、地震、流行病、战争等灾难）
 \xf Tout va bien, tout est pour le mieux. (S'emploie par exemple pour décrire une période sans disette, ni tremblement de terre, ni épidémie, ni guerre ou autre catastrophe.)
-\dt 27/Aug/2015
 
 \lx dɑ˧˥
 \hm 3
@@ -7194,6 +7230,7 @@
 \sd <langue="eng"> place name
 \nt <dom="sem" langue="fra"> 1er village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu. Ce village est situé au bord du lac.
 \ton LM+#H
+\sy ɖæ˩ʂɯ˧-ʁwɤ#˥
 \lc ɖæ˩ʂɯ˥
 \so F4
 \de Ddaeshi, a village name.
@@ -7202,14 +7239,27 @@
 \gn 扎实村
 \df Nom de village: Ddaeshi.
 \gf nom_de_village_Ddaeshi
-\xv ɖæ˩ʂɯ˧-ʁwɤ#˥
-\xe same meaning
-\xn 同上：扎实村
-\xf même sens
 \xv ɖæ˩ʂɯ#˥, | ʈʂo˧ʂɯ#˥, | bɤ˩tɕʰɯ˩˥, | dɑ˧pʰo˥, | bɤ˧dzi˩, | dze˧bo˧
 \xe Six villages of the plain of Yongning that lie relatively close to the Lake.
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
+
+\xv ɖæ˩ʂɯ˧-ʁwɤ#˥
+\or Ddaeshi wua
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\nt <dom="sem" langue="fra"> 1er village de la plaine de Yongning dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu. Ce village est situé au bord du lac.
+\ton LM+#H
+\sy ɖæ˩ʂɯ#˥
+\lc ɖæ˩ʂɯ˧ʁwɤ˧
+\so F4
+\de The village of Ddaeshi.
+\ge Ddaeshi_village
+\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828,27.72497
+\gn 扎实村
+\df Le village de Ddaeshi.
+\gf village_de_Ddaeshi
 
 \lx dɑ˩to˩
 \or ddado
@@ -9697,8 +9747,7 @@
 \xv dze˧dv̩˩-pɤ˩jɤ˩
 \xe cake of cereals
 \xn 粮食饼
-\xf galette de céréale (même sens)
-\dt 27/Aug/2015
+\xf galette de céréale
 
 \lx dze˩dʑɯ˧˥
 \sf <nb="B"> 1076
@@ -10910,8 +10959,7 @@
 \xv mv̩˩-tɕo˧ dzi˩
 \xe to sink down
 \xn 往下掉入、沉下去
-\xf |fg{directionnel} 〜; même sens: sombrer, couler
-\dt 27/Aug/2015
+\xf |fg{directionnel} 〜: sombrer, couler
 
 \lx dzo˩
 \sf <nb="B"> 84
@@ -11098,7 +11146,7 @@
 \xv ɖʐɤ˧ | gɤ˩-do˧
 \xe to climb up a ladder
 \xn 爬上一个梯子
-\xf même sens, avec ajout d'un directionnel: gravir une échelle
+\xf (avec ajout d'un directionnel) gravir une échelle
 \sn 2
 \de Stairs.
 \ge stairs
@@ -12112,14 +12160,13 @@
 \df S’écrouler, s'effondrer (mur); tomber (arbre), se renverser, s'abattre.
 \gf s_écrouler
 \xv mv̩˩-tɕo˧ dzɤ˩
-\xe same meaning: to collapse
-\xn 同上：塌毁
-\xf même sens: s'écrouler
+\xe to collapse, to topple down
+\xn 塌毁，倒下
+\xf s'écrouler, tomber, s'abattre
 \xv le˧-dzɤ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn 实施 〜 整体体：塌毁了
 \xf |fg{accomp} 〜 |fg{pfv}
-\dt 24/Apr/2017
 
 \lx ɖʐo˥α
 \or zzho
@@ -12530,8 +12577,8 @@
 \gf tonneau_à_eau
 \xv pɻ̩˩-dʑɯ˩gv̩˩˥
 \xn 同上：水槽
-\xe same meaning
-\xf même sens
+\xe same meaning: water trough
+\xf même sens: cuve à eau
 \rf F5
 
 \lx dʑɯ˩gv̩˥
@@ -14822,14 +14869,28 @@
 \gr 紫红草
 \df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
 \gf grémil_des_teinturiers
-\xv ə˧dze˧-njɤ˩hṽ̩˩
-\xe same meaning: purple gromwell
-\xn 紫草
-\xf même sens
 \xv ə˧dze˧-bæ˩bæ˩
 \xe gromwell flowers
 \xn 紫草花
 \xf fleurs de grémil
+
+\lx ə˧dze˧-njɤ˩hṽ̩˩
+\mr ə˧dze˧
+\mr njɤ˧hṽ̩˩
+\or ezzei nyahun
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton -L
+\lc ə˧dze˧njɤ˩hṽ̩˩
+\so F4
+\de Purple gromwell, red-root gromwell, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\ge purple_gromwell
+\dn 紫草
+\gn 紫草
+\gr 紫红草
+\df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\gf grémil_des_teinturiers
 
 \lx ə˧-dzɤ˥$
 \or essei
@@ -17123,10 +17184,9 @@
 \xc <dom="diachro" langue="eng"> |fv{/ʑi˩hṽ̩#˥/} means ‘body hair' --literally ‘monkey hair'-- in today's language. The use of the disyllabic form |fv{/ʑi˩hṽ̩#˥/} for ‘monkey' in this saying suggests that this disyllabic form once existed, but has now fallen out of use.
 \xc <dom="diachro" langue="cmn"> 在今天的语言中，|fv{/ʑi˩hṽ̩#˥/}的意思是‘体毛’（字面意思是‘猴毛’）。在这句谚语中，‘猴子’用了双音节形式|fv{/ʑi˩hṽ̩#˥/}，这表明这种双音节形式曾经存在过，而现在已不再使用。
 \xv ʑi˩˥, | lɑ˧, | kʰv̩˧ gɤ˧˥!
-\xe Same meaning as above; the investigator substituted the colloquial term for ‘ape, monkey'.
-\xn 同上
-\xf Même sens que ci-dessus; formulation modernisée par l'enquêteur, utilisant le terme usuel pour ‘singe'.
-\dt 24/Apr/2017
+\xe “The Monkey and the Ape are quarrelsome birth signs!” Same meaning as in the preceding example; the investigator substituted the colloquial term for ‘ape, monkey'.
+\xn “属猴和属虎的人很爱吵架！”与上例中的意思相同，用单音节的‘猴子’。
+\xf «Les signes astrologiques du Singe et du Tigre sont des signes batailleurs!» Même sens que dans l'exemple précédent; formulation modernisée par l'enquêteur, utilisant le terme usuel pour ‘singe'.
 
 \lx gɤ˧
 \or gge
@@ -36303,19 +36363,20 @@
 
 \lx mɤ˧-dɑ˩
 \or medda
+\mr mɤ˧-
+\mr dɑ˩
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \ton -L
 \lc mɤ˧dɑ˩!
 \so F4
-\de Alas!
+\de “Alas!” “Woe!” An introductory formula for melancholy songs, sometimes used at the beginning of stories. (The same formula is also used in the Laze language.)
 \ge |fg{intj}.alas!
-\dn 感叹词：唉呀！（自怨自艾的语气）
-\gn 感叹词.唉呀
-\df Hélas!
-\gf |fg{intj}.hélas!
-\dt 19/Jun/2017
+\dn 感叹词：“玛达”，唉呀！（自怨自艾的语气）
+\gn 感叹词.“玛达”
+\df «Malheur!» / «Hélas!» Formule notamment employée en début de chanson mélancolique, et parfois au début d'un conte. (La même formule est en usage dans la langue lazé.)
+\gf |fg{intj}.Hélas!
 
 \lx v̩…v̩
 \or vu-vu
@@ -36341,6 +36402,8 @@
 
 \lx mɤ˧-dɑ˩mi˩
 \or meddami
+\mr mɤ˧-
+\mr dɑ˩
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
@@ -36349,27 +36412,27 @@
 \so F4
 \de Alas!
 \ge |fg{intj}.alas!
-\dn 感叹词：唉呀啊！（自怨自艾的语气）
-\gn 感叹词.唉呀啊
+\dn 感叹词：“玛达咪”，唉呀啊！（自怨自艾的语气）
+\gn 感叹词.“玛达咪”
 \df Hélas!
 \gf |fg{intj}.hélas!
-\dt 24/Jul/2017
 
 \lx mɤ˧-dɑ˩qʰwɤ˩
 \or meddakhua
+\mr mɤ˧-
+\mr dɑ˩
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \ton -L
 \lc mɤ˧dɑ˩qʰwɤ˩!
 \so F4
-\de Alas!
+\de Melancholy expression, telling of one's unhappiness, lamenting one's hardships: `Alas!'
 \ge |fg{intj}.alas!
-\dn 感叹词：唉呀啊！（自怨自艾的语气）
-\gn 感叹词.唉呀啊
-\df Hélas!
+\dn “玛达夸”：叹息，有幸福、高兴、安好，有悲情、悲伤、哀痛，有珍惜、可惜、怜悯（自怨自艾的语气）。
+\gn 感叹词.“玛达夸”
+\df Expression mélancolique reflétant mélancolie et tristesse mêlées de joie, d'emportement et de regrets: `Hélas!'
 \gf |fg{intj}.hélas!
-\dt 24/Jul/2017
 
 \lx mo˧ɖʐv̩˥
 \or mozzhu
