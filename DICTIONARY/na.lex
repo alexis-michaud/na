@@ -184,6 +184,7 @@
 \nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce nom de lieu se prononce /|fv{w̃æ.bi}/ dans le village d'Aggowua |fn{阿古瓦}, au nord d'Alawua.
 \nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs: this name is /|fv{w̃æ.bi}/ in the village of Aggowua |fn{阿古瓦}, north of Alawua.
 \ton L
+\sy æ̃˩bi˩-ʁwɤ˥
 \lc æ̃˩bi˩˥
 \so F4
 \de Aenbbi, a village just over the river on the Sichuan side of the road to Qiansuo.
@@ -192,14 +193,26 @@
 \gn 阿比村
 \df Aenbbi: village sur le chemin de Qiansuo depuis Alawua.
 \gf Aenbbi.nom_de_lieu
-\xv æ̃˩bi˩-ʁwɤ˥
-\xe same meaning: the village of Aenbbi, |fv{/æ̃˩bi˩/}
-\xn 同上
-\xf même sens: le village de Aenbbi, |fv{/æ̃˩bi˩/}
 \xv æ̃˩bi˩-hĩ˥ ɲi˩!
 \xe [(S)he] is from the village of Aenbbi (|fv{/æ̃˩bi˩/})!
 \xn 是阿比村的人！
 \xf C'est quelqu'un du village de Aenbbi (|fv{/æ̃˩bi˩/})!
+
+\lx æ̃˩bi˩-ʁwɤ˥
+\or Aenbbiwua
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L
+\sy æ̃˩bi˩
+\lc æ̃˩bi˩ʁwɤ˥
+\so F4
+\de Aenbbiwua (Aenbbi), a village just over the river on the Sichuan side of the road to Qiansuo.
+\ge Aenbbi.village_name
+\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047,27.80191
+\gn 阿比村
+\df Aenbbiwua (Aenbbi): village sur le chemin de Qiansuo depuis Alawua.
+\gf Aenbbi.nom_de_village
 
 \lx æ̃˩bɻ̩˥
 \sf <nb="2011"> 608
@@ -281,6 +294,7 @@
 \or aemo
 \ps n
 \cf æ˩gv̩˩
+\sy æ˩gv̩˩-mo˥
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \ton LM
@@ -293,12 +307,26 @@
 \gn 犁杆
 \df Timon (âge, haie) de l'araire.
 \gf timon
-\xv æ˩gv̩˩-mo˥
-\xe same meaning
-\xn 同上
-\xf même sens
-\xc <dom="ton"> L+H#
-\dt 24/Aug/2015
+
+\lx æ˩gv̩˩-mo˥
+\sf <nb="B"> 585
+\sf <nb="2011"> 826
+\or aeggumo
+\ps n
+\cf æ˩gv̩˩
+\sy æ˩mo˧
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\ton L+H#
+\lc æ˩gv̩˩mo˥
+\so F4
+\pdv nɑ˧α
+\de Beam of the ard, pole of the ard: a long piece of wood linking the yoke to the sole.
+\ge beam_of_the_ard
+\dn 犁杆
+\gn 犁杆
+\df Timon (âge, haie) de l'araire.
+\gf timon
 
 \lx æ˩gv̩˩-mæ˩qo˥
 \sf <nb="B"> 587
@@ -851,11 +879,11 @@
 \rf F5
 \xv æ̃˧qæ˩ni˩~æ̃˧qæ˩ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
-\xn 重叠。同上：青色
+\xn |fg{重叠}。同上：青色
 \xf |fg{red}; même sens: bleu-vert
-\xc <langue="fra" dom="dialect"> Expression qui n'est pas acceptée par Mme Latami et M21.
-\xc <langue="eng" dom="dialect"> Not accepted by Mrs. Latami and M21.
-\xc <langue="cmn" dom="dialect"> 拉他咪女士与M21合作人不用这个说法。
+\xc <langue="fra" dom="dialect"> Expression qui n'est pas acceptée par Mme Latami ni par M. He Jiaze (consultant Jj).
+\xc <langue="eng" dom="dialect"> Not accepted by Mrs. Latami and Mr. He Jiaze (consultant Jj).
+\xc <langue="cmn" dom="dialect"> 拉他咪女士与何甲泽先生不用这个说法。
 \rf F5
 \xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
@@ -1332,6 +1360,7 @@
 \nt <type="hist" print="n" langue="fra"> (sens confirmé en 2009) Confirmé en 2014: non nasalisé
 \nt <type="hist" print="n" langue="fra"> ŋwɤ˧ko˥tse˩pʰæ˩: mal formé, selon M23
 \ton H#-L
+\sy ŋwɤ˩ɭɯ˧-tse˥pʰæ˩
 \lc æ˧tse˥pʰæ˩
 \so F4
 \va <speaker="M18"> ID.
@@ -1343,7 +1372,6 @@
 \gn 膝盖骨
 \df Os du genou.
 \gf os_du_genou
-\dt 25/Aug/2015
 
 \lx æ̃˧tsɯ˥
 \sf <nb="2011"> 2646
@@ -1868,9 +1896,9 @@
 \df Bariolé, tacheté, moucheté (ex.: un œuf moucheté, un oiseau au pelage moucheté, une pierre ayant plusieurs couleurs).
 \gf bariolé
 \xv bæ˩bæ˩ tʰi˩-di˥
-\xe same meaning: spotted (e.g. an egg, a bird, a stone)
-\xn 花的，有花纹
-\xf même sens: bariolé, tacheté (par ex.: œuf, oiseau, pierre)
+\xe there are spots (e.g. on an egg, a bird, a stone)
+\xn 有花纹
+\xf il y a des taches, c'est tacheté, c'est bariolé (par ex.: œuf, oiseau, pierre)
 
 \lx bæ˧bv̩˥
 \sf <nb="B"> 1856
@@ -3564,7 +3592,9 @@
 \xe a small dike
 \xn 一片坡
 \xf une diguette
-\xc <langue="fra" dom="dialect"> Classificateur refusé par M23, qui indique: /|fv{ɖɯ˧-ɭɯ˧}/.
+\xc <langue="fra" dom="dialect"> Classificateur refusé par le locuteur Ddeezzhi, qui indique: /|fv{ɖɯ˧-ɭɯ˧}/.
+\xc <langue="eng" dom="dialect"> Use of the classifier |fv{ɖɯ˧-pʰæ˧˥} is rejected by consultant Ddeezzhi, who recommends /|fv{ɖɯ˧-ɭɯ˧}/ instead.
+\xc <langue="cmn" dom="dialect"> 何独知拒绝使用‘片’（|fv{ɖɯ˧-pʰæ˧˥}）这个量词 ，而建议使用/|fv{ɖɯ˧-ɭɯ˧}/。
 \rf F5
 
 \lx bo˧
@@ -5848,9 +5878,9 @@
 \xn 烧香
 \xf brûler de l'encens
 \xv ɕv̩˩ kæ˩˥
-\xe proper pronunciation of `to burn incense' according to consultant M21. He considers that |fv{ɕi˩ kæ˩˥} refers to the burning of woodland in swidden (slash-and-burn) agriculture (i.e. interpreting the syllable |fv{ɕi˩} as corresponding to the morpheme found in |fv{si˧ɕi˧˥} `forest').
-\xn 根据合作人M21，这是‘烧香’的正确读音。他认为，|fv{ɕi˩ kæ˩˥} 指的是烧荒（刀耕火种）中烧林地（即把|fv{ɕi˩}音节解释为与|fv{si˧ɕi˧˥}‘森林’中的语素相对应）。
-\xf prononciation correcte de «brûler de l'encens» selon le consultant M21. Il considère que |fv{ɕi˩ kæ˩˥} fait référence au brûlis pratiqué dans l'agriculture itinérante: c'est-à-dire qu'il interprète la syllabe |fv{ɕi˩} comme correspondant au morphème qui apparaît dans |fv{si˧ɕi˧˥} `forêt'.
+\xe proper pronunciation of `to burn incense' according to consultant Jj. He considers that |fv{ɕi˩ kæ˩˥} refers to the burning of woodland in swidden (slash-and-burn) agriculture (i.e. interpreting the syllable |fv{ɕi˩} as corresponding to the morpheme found in |fv{si˧ɕi˧˥} `forest').
+\xn 根据何甲泽先生，这是‘烧香’的正确读音。他认为，|fv{ɕi˩ kæ˩˥} 指的是烧荒（刀耕火种）中烧林地（即把|fv{ɕi˩}音节解释为与|fv{si˧ɕi˧˥}‘森林’中的语素相对应）。
+\xf prononciation correcte de «brûler de l'encens» selon le consultant Jj. Il considère que |fv{ɕi˩ kæ˩˥} fait référence au brûlis pratiqué dans l'agriculture itinérante: c'est-à-dire qu'il interprète la syllabe |fv{ɕi˩} comme correspondant au morphème qui apparaît dans |fv{si˧ɕi˧˥} `forêt'.
 \rf M21
 
 \lx ɕi˧
@@ -7951,7 +7981,7 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="fra"> selon M18: petite poutre à usage décoratif
+\nt <dom="sem" langue="fra"> Selon Daeshi Daedeu, il s'agit d'une petite poutre à usage décoratif.
 \ton LM+#H
 \lc do˩kv̩˥
 \so F4
@@ -9984,9 +10014,9 @@
 \sf <nb="2011"> 3210, 3242
 \or zzeimipeu'er
 \mr dze˩mi˧
-\mc <langue="fra"> M18 propose une interprétation (étymologie) comme ‘repos des abeilles’. Mme Latami considère que l'expression n'est pas transparente: les troisième et quatrième syllabes n'ont pas de signification par elles-mêmes.
-\mc <langue="eng"> M18 proposes an (etymological) interpretation as ‘bees’ rest’. Mrs. Latami feels that the expression is not transparent: the third and fourth syllables have no meaning on their own.
-\mc <langue="cmn"> M18提出的词源解释是“蜜蜂休息（的花）”，意思是蜜蜂喜爱在这样的花上面停留。拉塔米女士认为这个词的第三和第四音节没有独立的意义。
+\mc <langue="fra"> Daeshi Daedeu propose une interprétation (étymologie) comme ‘repos des abeilles’. Mme Latami considère que l'expression n'est pas transparente: les troisième et quatrième syllabes n'ont pas de signification par elles-mêmes.
+\mc <langue="eng"> Daeshi Daedeu proposes an (etymological) interpretation as ‘bees’ rest’. Mrs. Latami feels that the expression is not transparent: the third and fourth syllables have no meaning on their own.
+\mc <langue="cmn"> 拉他咪王勇提出的词源解释是“蜜蜂休息（的花）”，意思是蜜蜂喜爱在这样的花上面停留。拉塔米女士认为这个词的第三和第四音节没有独立的意义。
 \ps n
 \lc dze˩mi˧pɻ̩˥ɻ̩˩
 \sd <langue="fra"> plante
@@ -10821,7 +10851,7 @@
 \xv njɤ˧ | ʈʂʰɯ˧-qo˧ | dzi˩-bi˩-ni˩-mɤ˩-gv̩˩˥
 \xe I can't get accustomed (to this place)! / (I) can't make myself at ease here! / (I) don't like it here!
 \xn 我不习惯这里！ / 我不喜欢这里！ / 我不想待了！
-\xf Je ne me fais pas à ici! / Je ne suis pas bien ici! (Paraphrase proposée par M23: «Je ne veux pas rester ici!»)
+\xf Je ne me fais pas à ici! / Je ne suis pas bien ici! (Paraphrase proposée par le locuteur Ddeezzhi: «Je ne veux pas rester ici!»)
 \dt 24/Apr/2017
 
 \lx dzi˩α
@@ -11022,7 +11052,7 @@
 \lc ɖʐo˧
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="fra"> M18 pense que ce terme désigne toute la structure du bâtiment.
+\nt <dom="sem" langue="fra"> Daeshi Daedeu pense que ce terme désigne la structure du bâtiment dans son ensemble.
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
@@ -11409,13 +11439,15 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Granary (a special building).
+\de Granary.
 \ge granary
 \dn 粮仓
 \gn 粮仓
-\df Grenier à céréale; selon M23, n'existe plus: était, dans le temps, un bâtiment exclusivement consacré à la conservation des céréales: un grenier.
+\df Grenier à céréales.
 \gf grenier_à_céréales
-\dt 24/Apr/2017
+\xc <langue="fra" dom="sem"> Selon le locuteur Ddeezzhi, le grenier à céréales était autrefois un bâtiment exclusivement consacré à la conservation des céréales, qui n'existe plus dans les fermes contemporaines.
+\xc <langue="eng" dom="sem"> According to consultant Ddeezzhi, the granary was once a building dedicated exclusively to storing grain, which no longer exists on today's farms.
+\xc <langue="cmn" dom="sem"> 根据何独知，粮仓曾经是专门用来储存粮食的建筑，而现在的农场已经不存在这种建筑了。
 
 \lx dʑɤ˩bv̩˥
 \sf <nb="B"> 1557
@@ -11687,7 +11719,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra" dom="ton"> Ton: type d7: /dzu˧lv̩˧lv̩˥ ɲi˩/. Dans le système exposé dans l'ouvrage de 2017, il s'agit de la catégorie H#.
-\nt <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}. Le locuteur M21 propose une forme |fv{lv̩˧lv̩˧}.
+\nt <langue="fra" dom="morpho"> Il n'a pas été possible d'extraire un mot †|fv{lv̩.lv̩}. Le consultant Jj propose une forme |fv{lv̩˧lv̩˧}.
 \nt <langue="eng" dom="morpho"> It was not possible to extract a word †|fv{lv̩.lv̩}.
 \nt <type="hist" print="n" langue="fra" dom="phono"> Composition segmentale de la partie rédupliquée (deuxième et troisième syllabes): vérifié: n'est pas /lɯ˧lɯ˥/.
 \ton H#
@@ -14321,7 +14353,8 @@
 \ge sparrow
 \dn 雀
 \gn 雀
-\df Oiseau ressemblant à un moineau, au corps blanc et noir; M23 croît le reconnaître dans une photographie de |fi{Pericrocotus divaricatus}, mais cette espèce n'existe que dans le nord de la Chine.
+\df Oiseau ressemblant à un moineau, au corps blanc et noir.
+\xc <dom="sem" langue="fra"> Le locuteur Ddeezzhi croît reconnaître cet oiseau dans une photographie de |fi{Pericrocotus divaricatus}, mais cette espèce n'existe que dans le nord de la Chine.
 \gf moineau
 
 \lx ɖʐwæ˧mi˧
@@ -16678,7 +16711,7 @@
 \ge granary
 \dn 粮仓
 \gn 粮仓
-\df Grenier à céréales; selon M23, est le lieu dans la maison où on stocke les céréales.
+\df Grenier à céréales (le lieu dans la maison où on stocke les céréales).
 \gf grenier_à_céréales
 \xv gi˧mi˧
 \xe large granary
@@ -22242,9 +22275,9 @@
 \xc <dom="ton" langue="fra"> Schéma tonal régulier.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
 \xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
-\xc <langue="fra" dom="dialect"> Selon le locuteur M23, la traduction chinoise la plus fidèle de l'expression serait |fn{欺负人}, ‘humilier quelqu'un’. Cette remarque ne paraît pas pleinement justifiée au plan linguistique, mais l'association d'idées souligne une proximité entre l'existence d'une contrariété ponctuelle (sens littéral du mot: ‘gêner, ennuyer’) et la perception que peut en avoir une personne qui éprouve (de façon durable) du ressentiment d'un statut social qui la place en situation défavorable dans les rapports d'autorité et de pouvoir. La contrariété se traduit en sentiment d'humiliation.
-\xc <langue="eng" dom="dialect"> According to speaker M23, the most accurate Chinese translation of the expression would be |fn{欺负人}, ‘to humiliate someone'. This remark does not seem fully justified from a linguistic point of view, but the association of ideas underlines the proximity between one-off annoyance (literal meaning of the word: ‘to annoy') and the perception that a person may have who feels resentment of a social status that places him or her in an unfavourable position in relations of authority and power. Resentment translates into a feeling of humiliation.
-\xc <langue="cmn" dom="dialect"> M23认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
+\xc <langue="fra" dom="dialect"> Selon le locuteur Ddeezzhi, la traduction chinoise la plus fidèle de l'expression serait |fn{欺负人}, ‘humilier quelqu'un’. Cette remarque ne paraît pas pleinement justifiée au plan linguistique, mais l'association d'idées souligne une proximité entre l'existence d'une contrariété ponctuelle (sens littéral du mot: ‘gêner, ennuyer’) et la perception que peut en avoir une personne qui éprouve (de façon durable) du ressentiment d'un statut social qui la place en situation défavorable dans les rapports d'autorité et de pouvoir. La contrariété se traduit en sentiment d'humiliation.
+\xc <langue="eng" dom="dialect"> According to consultant Ddeezzhi, the most accurate Chinese translation of the expression would be |fn{欺负人}, ‘to humiliate someone'. This remark does not seem fully justified from a linguistic point of view, but the association of ideas underlines the proximity between one-off annoyance (literal meaning of the word: ‘to annoy') and the perception that a person may have who feels resentment of a social status that places him or her in an unfavourable position in relations of authority and power. Resentment translates into a feeling of humiliation.
+\xc <langue="cmn" dom="dialect"> 何独知认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
 \xv mɤ˧-hṽ̩˩~hṽ̩˩
 \xe |fg{neg}
 \xn 不干扰
@@ -23498,9 +23531,9 @@
 \lc ʝi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> Au fil des réflexions avec Mme Latami et M18, il n'a pas été trouvé de nuance de sens qui distingue /|fv{ʝi˧1}/ de /|fv{ʝo˧}/.
-\nt <dom="sem" langue="eng"> Discussions with F4 and M18 have not brought up any nuance of meaning that would distinguish /|fv{ʝi˧1}/ from /|fv{ʝo˧}/.
-\nt <dom="sem" langue="cmn"> 在跟拉他咪女士和M18进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{ʝo˧}/区分开来。
+\nt <dom="sem" langue="fra"> Au fil des réflexions avec Mme Latami et Daeshi Daedeu, il n'a pas été trouvé de nuance de sens qui distingue /|fv{ʝi˧1}/ de /|fv{ʝo˧}/.
+\nt <dom="sem" langue="eng"> Discussions with Mrs. Latami and Daeshi Daedeu have not brought up any nuance of meaning that would distinguish /|fv{ʝi˧1}/ from /|fv{ʝo˧}/.
+\nt <dom="sem" langue="cmn"> 在跟拉他咪女士和拉他咪王勇进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{ʝo˧}/区分开来。
 \ton Mγ
 \so F4
 \de To come.
@@ -24345,8 +24378,8 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <dom="sem" langue="fra"> (emprunt)
-\nt <dom="dialect" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, «parapluie des étrangers», sur le modèle de |fv{jɤ˩ho˧} `allumettes' et |fv{jɤ˩jo˧} `pommes de terre', dont la première syllabe vient du chinois |fn{洋}.
-\nt <dom="dialect" langue="eng"> Pico |fv{pʰi˧tsʰo˧}, a friend of Daeshi who lives in |fv{lo˧gv̩˩} (Ninglang), pronounces |fv{jɤ˩sɑ˧}, ‘foreigners’ umbrella’, similar to |fv{jɤ˩ho˧} “matches” and |fv{jɤ˩jo˧} “potatoes”, the first syllable of which comes from the Chinese |fn{洋} ‘foreign, Western’.
+\nt <dom="dialect" langue="fra"> Pico |fv{pʰi˧tsʰo˧}, ami de Daeshi Daedeu vivant à |fv{lo˧gv̩˩} (Ninglang), dit: |fv{jɤ˩sɑ˧}, «parapluie des étrangers», sur le modèle de |fv{jɤ˩ho˧} `allumettes' et |fv{jɤ˩jo˧} `pommes de terre', dont la première syllabe vient du chinois |fn{洋}.
+\nt <dom="dialect" langue="eng"> Pico |fv{pʰi˧tsʰo˧}, a friend of Daeshi Daedeu who lives in |fv{lo˧gv̩˩} (Ninglang), pronounces |fv{jɤ˩sɑ˧}, ‘foreigners’ umbrella’, similar to |fv{jɤ˩ho˧} “matches” and |fv{jɤ˩jo˧} “potatoes”, the first syllable of which comes from the Chinese |fn{洋} ‘foreign, Western’.
 \nt <dom="dialect" langue="cmn"> 住在宁蒗的品初（达石的一个朋友）发作|fv{jɤ˩sɑ˧}‘洋伞’, “洋人的（雨）伞”，其中|fv{jɤ˩}音节为‘洋’，像|fv{jɤ˩ho˧}‘火柴’（“洋火”）和|fv{jɤ˩jo˧}‘洋芋’中的‘洋’。
 \ton M
 \so F4
@@ -36781,9 +36814,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\nt <langue="fra" dom="ety"> Le locuteur M18 propose une étymologie comme: `mongole' + `homme, garçon'.
-\nt <langue="eng" dom="ety"> Consultant M18 proposes an etymology from `Mongolian' + `man, boy'.
-\nt <langue="cmn" dom="ety"> M18认为这个词来自‘蒙古族’与‘男人’的结合。
+\nt <langue="fra" dom="ety"> Daeshi Daedeu propose une étymologie comme: `mongole' + `homme, garçon'.
+\nt <langue="eng" dom="ety"> Daeshi Daedeu proposes an etymology from `Mongolian' + `man, boy'.
+\nt <langue="cmn" dom="ety"> 拉他咪王勇假设这个词来自‘蒙古族’与‘男人’的结合。
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \de Soldier.
@@ -39598,7 +39631,7 @@
 \lc nɑ˧mi˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="sem" langue="fra"> sens vérifié avec M18
+\nt <dom="sem" langue="fra" type="hist" print="n"> Sens vérifié auprès de Daeshi Daedeu.
 \ton #H
 \so F4
 \pdv kʰwɤ˥α
@@ -43553,8 +43586,9 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <dom="sem" langue="fra"> (pas de différence de sens avec |fv{/æ˧tse˥-pʰæ˩/}, d'après M23)
+\nt <dom="sem" langue="fra"> Il n'y aurait pas de différence de sens avec |fv{/æ˧tse˥-pʰæ˩/}, d'après le locuteur Ddeezzhi.
 \ton LM+#H-
+\sy æ˧tse˥-pʰæ˩
 \lc ŋwɤ˩ɭɯ˧tse˥pʰæ˩
 \so F4
 \pdv ɭɯ˧β
@@ -45083,9 +45117,9 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="ety" langue="fra"> L'hypothèse de M18 est qu'il s'agirait d'un emprunt chinois: peut-être un emprunt d'une forme |fn{白锭}. Ce mot n'est en revanche pas perçu comme un emprunt par Mme Latami.
-\nt <dom="ety" langue="eng"> M18 hypothesizes that it is a Chinese borrowing: perhaps a borrowing of a |fn{白锭} form. On the other hand, Mrs. Latami does not see this word as a loan.
-\nt <dom="ety" langue="cmn"> M18假设这是一个汉语借词：也许来自‘白锭’。拉他咪女士倒没觉得这个词是借词。
+\nt <dom="ety" langue="fra"> L'hypothèse de Daeshi Daedeu est qu'il s'agirait d'un emprunt chinois: peut-être un emprunt d'une forme |fn{白锭}. Ce mot n'est en revanche pas perçu comme un emprunt par Mme Latami.
+\nt <dom="ety" langue="eng"> Daeshi Daedeu hypothesizes that it is a Chinese borrowing: perhaps a borrowing of a |fn{白锭} form. On the other hand, Mrs. Latami does not see this word as a loan.
+\nt <dom="ety" langue="cmn"> 拉他咪王勇假设这是一个汉语借词：也许来自‘白锭’。拉他咪女士倒没觉得这个词是借词。
 \ton LM+#H
 \lc pi˩ti˥
 \so F4
@@ -46405,7 +46439,7 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="fra" type="hist" print="n"> La locutrice indique qu'il s'agit d'un mot chinois (=d'un emprunt au chinois). L'identification des caractères a été réalisée en 2024 par Daeshi (M18).
+\nt <dom="sem" langue="fra" type="hist" print="n"> La locutrice indique qu'il s'agit d'un mot chinois (=d'un emprunt au chinois). L'identification des caractères a été réalisée en 2024 par Daeshi Daedeu.
 \nt <dom="phono" langue="fra" print="n"> Forte harmonie vocalique.
 \ton LM-L
 \lc pɤ˩˧ʐv̩˩
@@ -46586,7 +46620,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
-\nt <dom="sem" langue="fra"> Selon le locuteur M23, le verbe pourrait également désigner le jogging que certains font le matin; dans ce contexte, le terme serait employé de préférence au verbe usuel pour `courir', |fv{bæ˧˥}.
+\nt <dom="sem" langue="fra"> Selon le locuteur Ddeezzhi, le verbe pourrait également désigner le jogging que certains font le matin; dans ce contexte, le terme serait employé de préférence au verbe usuel pour `courir', |fv{bæ˧˥}.
 \nt <dom="phono" langue="fra" type="hist" print="n"> Ce verbe est distinct de /pʰv̩˩˥/ “s'agiter".
 \ton Lα
 \lc pʰo˩˥
@@ -47881,9 +47915,9 @@
 \xe the fire has started, the fire is blazing; a fire has caught
 \xn 火烧着了 / 着火了
 \xf le feu est parti, ça brûle, ça flambe; un incendie est parti
-\xc <dom="dialect" langue="fra"> Le locuteur M21 prononce /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
-\xc <dom="dialect" langue="eng"> Speaker M21 pronounces /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
-\xc <dom="dialect" langue="fra"> M21的发音为/|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/。
+\xc <dom="dialect" langue="fra"> Le consultant Jj prononce /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
+\xc <dom="dialect" langue="eng"> Consultant Jj pronounces /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
+\xc <dom="dialect" langue="cmn"> 何甲泽先生的发音为/|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/。
 \xv mv̩˧ le˧-qæ˧˥ / mv̩˧ le˧-qæ˧-ze˥
 \xe the fire is burning; a fire has caught
 \xn 火在烧 / 着火了
@@ -51183,9 +51217,9 @@
 \so F4
 \va <speaker="F5"> jɥe˩tsɯ˧
 \va <speaker="M21"> jɥen˩dzɯ˧
-\nt <langue="fra" dom="dialect"> Il existe une importante variation entre locutrices pour cet emprunt. Il est bien confirmé que l'initiale est voisée chez Mme Latami (qui prononce /|fv{jæ˩dzɯ˧}/) et chez M21 (qui prononce /|fv{jɥen˩dzɯ˧}/), tandis que F5 prononce /|fv{jɥe˩tsɯ˧}/, avec une initiale non voisée.
-\nt <langue="eng" dom="dialect"> There is considerable variation between speakers for this loanword. It is well confirmed that the initial is voiced in the speech of F4 (who pronounces /|fv{jæ˩dzɯ˧}/) and M21 (who pronounces /|fv{jɥen˩dzɯ˧}/), while F5 pronounces /|fv{jɥe˩tsɯ˧}/, with an unvoiced initial.
-\nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。拉他咪女士（发音为/|fv{jæ˩dzɯ˧}/）和 M21（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而F5则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
+\nt <langue="fra" dom="dialect"> Il existe une importante variation entre locutrices pour cet emprunt. Il est bien confirmé que l'initiale est voisée chez Mme Latami (qui prononce /|fv{jæ˩dzɯ˧}/) et chez M. He Jiaze (consultant Jj, qui prononce /|fv{jɥen˩dzɯ˧}/), tandis que Gisso prononce /|fv{jɥe˩tsɯ˧}/, avec une initiale non voisée.
+\nt <langue="eng" dom="dialect"> There is considerable variation between speakers for this loanword. It is well confirmed that the initial is voiced in the speech of F4 (who pronounces /|fv{jæ˩dzɯ˧}/) and Mr. He Jiaze (consultant Jj, who pronounces /|fv{jɥen˩dzɯ˧}/), while Gisso pronounces /|fv{jɥe˩tsɯ˧}/, with an unvoiced initial.
+\nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。拉他咪女士（发音为/|fv{jæ˩dzɯ˧}/）和何甲泽先生（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而郭给若则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge 园子::vegetable_garden
@@ -55051,9 +55085,9 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M23"> *
-\vc <langue="fra" dom="morpho"> Pour le locuteur M23, le disyllabe est incomplet, et le terme est nécessairement trisyllabique: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
-\vc <langue="eng" dom="morpho"> For speaker M23, the disyllable is incomplete, and the term is necessarily trisyllabic: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
-\vc <langue="cmn" dom="morpho"> M23认为双音节的|fv{ʁwɤ˧qʰv̩˧}不完整，该词必然是三音节：|fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}。
+\vc <langue="fra" dom="morpho"> Pour le locuteur Ddeezzhi, le disyllabe est incomplet, et le terme est nécessairement trisyllabique: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
+\vc <langue="eng" dom="morpho"> For consultant Ddeezzhi, the disyllable is incomplete, and the term is necessarily trisyllabic: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
+\vc <langue="cmn" dom="morpho"> 何独知认为双音节的|fv{ʁwɤ˧qʰv̩˧}不完整，该词必然是三音节：|fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}。
 \pdv ɭɯ˧β
 \de Cave, cavern.
 \ge cave
@@ -55492,9 +55526,9 @@
 \xe Turn this way! / Turn towards this direction!
 \xn 你往这里转/往这里看！
 \xf Tourne-toi par ici! / Regarde par ici!
-\xc <langue="fra" dom="dialect"> version corrigée par Mme Latami d'un exemple fourni par M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/
-\xc <langue="eng" dom="dialect"> This example is Mrs. Latami's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
-\xc <langue="cmn" dom="dialect"> 这个例子是拉他咪女士对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/的重新表述。
+\xc <langue="fra" dom="dialect"> version corrigée par Mme Latami d'un exemple fourni par Daeshi Daedeu: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/
+\xc <langue="eng" dom="dialect"> This example is Mrs. Latami's reformulation of an example provided by Daeshi Daedeu: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
+\xc <langue="cmn" dom="dialect"> 这个例子是拉他咪女士对拉他咪王勇提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/的重新表述。
 \xv gɤ˩-ɻ̩˥ mv̩˩-ɻ̩˩, | ə˧tso˧ li˧?
 \xe You turn in all directions; what are you looking for/at? / What are you looking for in all directions?
 \xn 你左转右转，（到底）在看什么？
@@ -57158,7 +57192,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /ʂe˧kʶv̩˧/ donne ʂe˧qʰv̩˧ɖʐɤ˩di˩˧ (tons confirmés)
-\nt <dom="sem" langue="fra"> D'après M18, le sens serait tout simplement `fer' + `trou', l'ensemble signifiant «un objet en fer qui fait un trou».
+\nt <dom="sem" langue="fra"> D'après Daeshi Daedeu, le sens serait tout simplement `fer' + `trou', l'ensemble signifiant «un objet en fer qui fait un trou».
 \ton M
 \lc ʂe˧qʰv̩˧
 \so F4
@@ -57398,9 +57432,10 @@
 \xf Ce n'est pas fini!
 \xc PHONO
 \xv se˩˥ ◊ -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ ◊ -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
-\xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)".
+\xo Seiq jjo, seiq meta! Jjaq jjo, jjaq keeq ta!
+\xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)". / “This is not something that can ever be brought to full completion. We can arrive at something nice, though!"
 \xn 没有办法做完。不过，还是可以做得很好！（情景：谈及收集语言资料的工作）
-\xf Réflexion au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive), mais on peut réaliser de belles choses!
+\xf Réflexion au sujet de la documentation linguistique: «on ne peut pas en voir le bout (tout collecter de façon exhaustive), mais on peut réaliser de belles choses!» / «On n'en verra jamais le bout. Pour autant, on peut tout de même arriver à faire quelque chose de bien!»
 \xv ə˧-dzɤ˧~dzɤ˥ | tʰi˧-se˩-kʰɯ˩!
 \xe Take your time to round up! / Take your time to finish! (A comment by the consultant at the end of a work session, noticing that the visitor was packing up his recording equipment rather hastily -- as preparations for lunch began -- at the risk of making mistakes in the delicate set of operations to be performed for packing.)
 \xn 慢慢完成吧！（情景：录音结束后，发音合作人看见调查者着急在午饭前收拾录音设备，就建议不要紧，来得及，还是要慢慢、按顺序收拾。）
@@ -68825,9 +68860,9 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (auparavant noté: ʈʂi˥) (vérifié: n'est pas /ʈʂi/) (corrigé en 2007; en 2006, avais noté: ʈʂe˥pv̩˧)
-\nt <dom="sem" langue="fra"> Une croyance rapportée par M18 est que s'asseoir sur de la terre `crue' est mauvais pour la santé. Cela fait écho à la vision taoïste de la façon dont le souffle, Qi |fn{气}, circule dans la nature, vision sur laquelle repose le Fengshui |fn{风水}: une pratique chinoise qui vise à harmoniser les personnes avec leur environnement en analysant les flux d'énergie dans l’espace, pour favoriser santé et équilibre. Les lieux «vierges» ou «non travaillés» y sont perçus comme potentiellement hostiles (dommageables à la santé), du fait que le Qi y serait stagnant: leurs énergies seraient «brutes» et néfastes. La mise en culture aurait pour effet d'«harmoniser» leur Qi.
-\nt <dom="sem" langue="eng"> A belief reported by M18 is that sitting on ‘raw’ earth is bad for your health. This echoes the Taoist vision of the way in which breath, Qi |fn{气}, circulates in nature -- a vision on which Fengshui |fn{风水} is based: a Chinese practice that aims to harmonize people with their environment by analyzing the flow of energy in the spaces they inhabit. “Wild”, “unworked” places are perceived as potentially hostile (harmful to health), because the Qi there would be stagnant: their energies would be “raw” and harmful. The effect of cultivation would be to ‘harmonize’ their Qi.
-\nt <dom="sem" langue="cmn"> M18报道的一种观点认为，坐在‘生’土上不利于健康。这与道家关于自然界中的‘气’循环方式的观点相同。没有耕种的地方被认为是潜在的敌对之地（对健康有害），因为那里的‘气’是停滞的：它们的能量是有害的。耕种可以‘调和’它们的 ‘气’。
+\nt <dom="sem" langue="fra"> Une croyance rapportée par Daeshi Daedeu est que s'asseoir sur de la terre `crue' est mauvais pour la santé. Cela fait écho à la vision taoïste de la façon dont le souffle, Qi |fn{气}, circule dans la nature, vision sur laquelle repose le Fengshui |fn{风水}: une pratique chinoise qui vise à harmoniser les personnes avec leur environnement en analysant les flux d'énergie dans l’espace, pour favoriser santé et équilibre. Les lieux «vierges» ou «non travaillés» y sont perçus comme potentiellement hostiles (dommageables à la santé), du fait que le Qi y serait stagnant: leurs énergies seraient «brutes» et néfastes. La mise en culture aurait pour effet d'«harmoniser» leur Qi.
+\nt <dom="sem" langue="eng"> A belief reported by Daeshi Daedeu is that sitting on ‘raw’ earth is bad for your health. This echoes the Taoist vision of the way in which breath, Qi |fn{气}, circulates in nature -- a vision on which Fengshui |fn{风水} is based: a Chinese practice that aims to harmonize people with their environment by analyzing the flow of energy in the spaces they inhabit. “Wild”, “unworked” places are perceived as potentially hostile (harmful to health), because the Qi there would be stagnant: their energies would be “raw” and harmful. The effect of cultivation would be to ‘harmonize’ their Qi.
+\nt <dom="sem" langue="cmn"> 拉他咪王勇报道的一种观点认为，坐在‘生’土上不利于健康。这与道家关于自然界中的‘气’循环方式的观点相同。没有耕种的地方被认为是潜在的敌对之地（对健康有害），因为那里的‘气’是停滞的：它们的能量是有害的。耕种可以‘调和’它们的 ‘气’。
 \ton #H
 \lc ʈʂe˧
 \so F4
@@ -71326,9 +71361,9 @@
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\vc <langue="fra" dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par M23.
-\vc <langue="eng" dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by M23.
-\vc <langue="cmn" dom="dialect"> 第二个音节（|fv{ɖɯ˧}）在M23的实际发音中接近[|fv{ɖɤ˧}]。
+\vc <langue="fra" dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par le locuteur Ddeezzhi.
+\vc <langue="eng" dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by consultant Ddeezzhi.
+\vc <langue="cmn" dom="dialect"> 第二个音节（|fv{ɖɯ˧}）在何独知的实际发音中接近[|fv{ɖɤ˧}]。
 \de To give birth (cattle).
 \ge to_give_birth
 \dn 生崽子（牛类）
@@ -75456,9 +75491,9 @@
 \va <speaker="M18"> tɤ˧ɻ̩˩˥
 \vc <type="hist" print="n" langue="fra"> confirmé, transcription et tons
 \va <speaker="M23"> tɤ˧ɭɯ˥
-\vc <dom="phono" langue="fra"> Les deux syllabes sont coalescentes chez le locuteur M23, comme si le mot était formé d'une seule syllabe.
-\vc <dom="phono" langue="eng"> The two syllables are coalescent in M23's speech, as if the word consisted of a single syllable.
-\vc <dom="phono" langue="cmn"> 在M23的发音中，这个词的两个音节是合在一起的，就像这个词仅有一个音节似的。
+\vc <dom="phono" langue="fra"> Les deux syllabes sont coalescentes chez le locuteur Ddeezzhi, comme si le mot était formé d'une seule syllabe.
+\vc <dom="phono" langue="eng"> The two syllables are coalescent in Ddeezzhi's speech, as if the word consisted of a single syllable.
+\vc <dom="phono" langue="cmn"> 在何独知的发音中，这个词的两个音节是合在一起的，就像这个词仅有一个音节似的。
 \pdv ɭɯ˧β
 \de Fine, high-quality basket carried on the back; it had a trough shape. Not in use anymore at the time of fieldwork.
 \ge fine_basket
@@ -76184,8 +76219,8 @@
 \nt <type="hist" print="n" langue="fra"> avant 2016: noté /wo˧ɻ̩˩/. Mais phonétiquement, le mot commence par une occlusion glottale: [ʔu˧]. Une réalisation /wu/ ou /wo/ est refusée par Mme Latami et M23.
 \nt <type="hist" print="n" langue="fra"> idée de Roselle Dobbs (p.c. 2015): “I strongly suspect the first morpheme is a Chinese borrowing." Vérification faite, l'intuition de F4 est qu'il ne s'agirait pas d'un emprunt.
 \nt <dom="sem" langue="fra"> L'usage démontre qu'il ne s'agit pas d'un pronom duel (‘nous deux'): Mme Latami l'emploie dans /|fv{æ˧ʂæ˧-ɳɯ˩ | ʔu˧=ɻ̩˩ | ə˧si˧-ɳɯ˧}/ ‘Autrefois, ma grand-mère…' (Sister.177), qui à l'évidence évoque sa grand-mère à elle, et ne m'inclut pas dans la famille.
-\nt <dom="phono" langue="fra"> Phonétiquement, le mot commence par une occlusion glottale: [|fv{ʔu˧}]. Une réalisation [|fv{wu}] ou [|fv{wo}] est refusée par Mme Latami et M23. D'où la notation comme /|fv{u}/, et non /|fv{wo}/.
-\nt <dom="phono" langue="eng"> Phonetically, the word starts with a glottal stop: [|fv{ʔu˧}]. Realization as [|fv{wu}] or [|fv{wo}] is deemed incorrect by Mrs. Latami and M23. Hence notation as /|fv{u}/, not /|fv{wo}/.
+\nt <dom="phono" langue="fra"> Phonétiquement, le mot commence par une occlusion glottale: [|fv{ʔu˧}]. Une réalisation [|fv{wu}] ou [|fv{wo}] est refusée par Mme Latami et par le locuteur Ddeezzhi. D'où la notation comme /|fv{u}/, et non /|fv{wo}/.
+\nt <dom="phono" langue="eng"> Phonetically, the word starts with a glottal stop: [|fv{ʔu˧}]. Realization as [|fv{wu}] or [|fv{wo}] is deemed incorrect by Mrs. Latami and by consultant Ddeezzhi. Hence notation as /|fv{u}/, not /|fv{wo}/.
 \ton M
 \so F4
 \de First person, associative: my family/my people. This root is only attested together with a plural or associative clitic.
@@ -77800,9 +77835,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ʁo˥ | ʐɤ˩ bæ˩˥
-\vc <langue="fra" dom="dialect"> M18 possède une prononciation idiosyncratique: pour désigner l'éclair, il a créé la formule /|fv{ʐɤ˩ bæ˩˥}/, «le chemin court», à caractère poétique.
-\vc <langue="eng" dom="dialect"> M18 has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
-\vc <langue="cmn" dom="dialect"> M18创造了独特的创新：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创作）。
+\vc <langue="fra" dom="dialect"> Daeshi Daedeu possède une prononciation idiosyncratique: pour désigner l'éclair, il a créé la formule /|fv{ʐɤ˩ bæ˩˥}/, «le chemin court», à caractère poétique.
+\vc <langue="eng" dom="dialect"> Daeshi Daedeu has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
+\vc <langue="cmn" dom="dialect"> 拉他咪王勇创造了独特的说法：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创新）。
 \va <speaker="M21"> ID.
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
@@ -78897,8 +78932,8 @@
 \lc zo˩bv̩˥li˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce mot se prononce ssobbulee (troisième syllabe: |fv{ɭɯ}) dans les dialectes dont elle a l'expérience. S'il se confirmait que cette prononciation (qui coïncide avec celle de Daeshi (M18): /|fv{zo˩bv̩˧ɭɯ˩}/) est plus répandue que celle en ...|fv{li}, l'orthographe serait à modifier de ssobbuli en ssobbulee.
-\nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs (19/05/2024): this word is ssobbulee (with |fv{ɭɯ} as its third syllable) in the dialects that she is familiar with. In case it is confirmed that this pronunciation (also coinciding with Daeshi's pronunciation /|fv{zo˩bv̩˧ɭɯ˩}/) is more widespread than that with final |fv{li}, spelling should be changed from ssobbuli to ssobbulee.
+\nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce mot se prononce ssobbulee (troisième syllabe: |fv{ɭɯ}) dans les dialectes dont elle a l'expérience. S'il se confirmait que cette prononciation (qui coïncide avec celle de Daeshi Daedeu: /|fv{zo˩bv̩˧ɭɯ˩}/) est plus répandue que celle en ...|fv{li}, l'orthographe serait à modifier de ssobbuli en ssobbulee.
+\nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs (19/05/2024): this word is ssobbulee (with |fv{ɭɯ} as its third syllable) in the dialects that she is familiar with. In case it is confirmed that this pronunciation (also coinciding with Daeshi Daedeu's pronunciation /|fv{zo˩bv̩˧ɭɯ˩}/) is more widespread than that with final |fv{li}, spelling should be changed from ssobbuli to ssobbulee.
 \so F4
 \va <speaker="M18"> zo˩bv̩˧ɭɯ˩
 \va <speaker="M23"> zu˩bv̩˧ɻ̩˩
@@ -79740,7 +79775,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (confirmé à plusieurs reprises, notamment en 2009: n'est pas ʐv̩˩gv̩˩˧)
-\nt <dom="sem" langue="fra"> D'après le locuteur M18, ce mot serait lié à |fv{gv̩˧} ‘auge’, les bateaux ayant une forme qui évoque l'auge des porcs (le récit ‘Lac’ raconte l'origine mythique de ce type de bateau: une auge à cochons utilisée comme embarcation afin de survivre à un déluge).
+\nt <dom="sem" langue="fra"> D'après Daeshi Daedeu, ce mot serait lié à |fv{gv̩˧} ‘auge’, les bateaux ayant une forme qui évoque l'auge des porcs (le récit ‘Lac’ raconte l'origine mythique de ce type de bateau: une auge à cochons utilisée comme embarcation afin de survivre à un déluge).
 \ton L
 \lc ʐɯ˩gv̩˩˥
 \so F4
@@ -80295,7 +80330,7 @@
 \ge banks_of_the_Yangtze
 \dn 金沙江边的地方（气候热）
 \gn 金沙江边
-\df Les rives du Yangtze; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants F4, F5, M21.)
+\df Les rives du Yangtze; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants La, Gi, Jj.)
 \gf rives_du_Yangtze
 
 \lx ʐv̩˧dzi˩
