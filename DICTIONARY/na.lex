@@ -855,7 +855,7 @@
 \xf |fg{red}; même sens: bleu-vert
 \xc <langue="fra" dom="dialect"> Expression qui n'est pas acceptée par Mme Latami et M21.
 \xc <langue="eng" dom="dialect"> Not accepted by Mrs. Latami and M21.
-\xc <langue="cmn" dom="dialect"> F4与M21合作人不用这个说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士与M21合作人不用这个说法。
 \rf F5
 \xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
@@ -2348,7 +2348,7 @@
 \xf rênes du cheval
 \xc <langue="fra" dom="ton"> Ton différent de celui de la locutrice de référence.
 \xc <langue="eng" dom="ton"> Tone is different from that of the reference speaker.
-\xc <langue="cmn" dom="ton"> 声调与F4发音人不同。
+\xc <langue="cmn" dom="ton"> 声调与拉他咪女士的有所不同。
 \rf F5
 
 \lx bæ˧zo#˥
@@ -2791,7 +2791,7 @@
 \xf sangle de cheval
 \xc <langue="fra" dom="ton"> Ton différent de celui de la locutrice de référence.
 \xc <langue="eng" dom="ton"> Tone is different from that of the reference speaker.
-\xc <langue="cmn" dom="ton"> 声调与F4发音人不同。
+\xc <langue="cmn" dom="ton"> 声调与拉他咪女士的有所不同。
 
 \lx bi˧-lv̩˧~lv̩˥
 \sf <nb="B"> 11b
@@ -8383,7 +8383,6 @@
 \gn 道理
 \df Ordre des choses.
 \gf ordre_des_choses
-\dt 27/Aug/2015
 
 \lx ɖɯ˩mɑ˧-ɬɑ˩tsʰo˩
 \or Ddeema Lhaco
@@ -9385,7 +9384,7 @@
 \xf De la boue s'est formée; il y a de la boue, c'est tout boueux. (Littéralement: «de la boue s'est mélangée».)
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not approve this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf F5
 
 \lx dzɑ˩qʰwɤ˩
@@ -20238,16 +20237,18 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="usage" langue="fra"> Seule attestation à la date de 2015: au sujet du Lac, cf récit Lake4.126
+\nt <dom="usage" langue="fra"> La seule attestation dans les textes à la date de 2015 est l'exemple cité ici: Lake4.126.
+\nt <dom="usage" langue="eng"> The only attestation in the texts as of 2015 is the example cited here: Lake4.126.
+\nt <dom="usage" langue="cmn"> 截至2015年，文本中唯一的实例就是此处引用的例子：Lake4.126。
 \nt <langue="fra" type="hist" print="n"> Avant 2024: pensais qu'il s'agissait d'un prédicat d'existence, |fg{exist.inamovible} (en anglais: |fg{exist.unmovable}; en chinois: 存在动词.固定物体). La description fournie était: "Exister, se trouver: verbe d'existence pour objets non mobiles, par exemple le Lac existe/se trouve à un endroit." Suite à une question posée par Roselle Dobbs, une vérification conclut qu'il s'agit d'un verbe signifiant "s'accumuler".
 \ton L
 \lc hi˩˥
 \so F4
 \de To accumulate: the water accumulates, and forms ponds.
 \ge to_accumulate
-\dn 积聚：如，洪水的水积聚了，形成了泸沽湖。
+\dn 积聚：如，传说洪水的水积聚了，形成了泸沽湖。
 \gn 积聚
-\df S'accumuler: par exemple, l'eau d'une inondation s'est accumulée et a formé le lac Lugu.
+\df S'accumuler: par exemple, selon la légende, l'eau d'une inondation s'est accumulée et a formé le lac Lugu.
 \gf s_accumuler
 \xv le˧-hi˩ -dʑo˩, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ tsɯ˩!
 \xe the Lake accumulated / was formed by the accumulation of water
@@ -20257,6 +20258,12 @@
 \xe (Run-off water) is like a lake / looks like a lake: it has accumulated!
 \xn (径流水）像湖/看起来像湖：它是积累起来的！
 \xf (l'eau de ruissellement) fait comme un lac / ressemble à un lac: elle s'est accumulée!
+\xv hi˩nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-hi˩-kwɤ˩tɕɯ˩-lɑ˩, | lo˧ʂv̩˩ | pi˧-ɲi˥-kv̩˩-tsɯ˩ ◊ mv̩˩!
+\xe as [the water] had accumulated and formed a lake (literally ‘as the lake had accumulated’)... [this village] was called ‘Loshu’!
+\xn 因为[水]积聚成湖（字面意思是：‘因为湖这样积聚起来了’）90°……[这个村庄]被称为‘落水村’！
+\xf comme [l'eau] s'était accumulée et avait formé un lac (littéralement «comme le lac s'était ainsi accumulé»)… [ce village,] on l'a appelé ‘Loshu’!
+\txt Lake4.126
+\doi 10.24397/pangloss-0004661#S126
 
 \lx hi˩˥
 \sf <nb="B"> 7
@@ -23493,7 +23500,7 @@
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra"> Au fil des réflexions avec Mme Latami et M18, il n'a pas été trouvé de nuance de sens qui distingue /|fv{ʝi˧1}/ de /|fv{ʝo˧}/.
 \nt <dom="sem" langue="eng"> Discussions with F4 and M18 have not brought up any nuance of meaning that would distinguish /|fv{ʝi˧1}/ from /|fv{ʝo˧}/.
-\nt <dom="sem" langue="cmn"> 在跟F4和M18进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{ʝo˧}/区分开来。
+\nt <dom="sem" langue="cmn"> 在跟拉他咪女士和M18进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{ʝo˧}/区分开来。
 \ton Mγ
 \so F4
 \de To come.
@@ -29484,7 +29491,7 @@
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
 \xc <langue="fra" dom="phono"> Mme Latami prononce /|fv{le˧-kv̩˧~kv̩˥}/.
 \xc <langue="eng" dom="phono"> Mrs. Latami pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
-\xc <langue="cmn" dom="phono"> F4的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
+\xc <langue="cmn" dom="phono"> 拉他咪女士的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
 \rf F5
 
 \lx kv̩˩α
@@ -31089,7 +31096,6 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="sem" langue="fra"> (cf récit)
 \ton M
 \lc lɑ˧lɑ˧
 \so F4
@@ -31099,7 +31105,13 @@
 \gn 松弛
 \df Ballant, flasque.
 \gf flasque
-\dt 04/Sep/2015
+\xv hĩ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | lo˩ lɑ˧~lɑ˧ | le˧-jo˩.
+\xo Hin tee niq yi loq lala leyo.
+\xe People come empty handed, like this!
+\xn 人是这样胳膊松松（=空手）过来的！
+\xf Les gens viennent comme ça, les bras ballants!
+\txt Sister.106
+\doi 10.24397/pangloss-0004342#S106
 
 \lx lɑ˧~lɑ˧β
 \sf <nb="B"> 1687
@@ -39091,7 +39103,7 @@
 \xc PHONO
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not approve this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf M18
 \xv mv̩˧-hwæ˧
 \xe about to buy
@@ -41361,7 +41373,7 @@
 \nt <type="hist" print="n" langue="fra"> Note ancienne: “souvent prononcé proche de [njæ˧]… mais est bien /njɤ˧/". Avant novembre 2011: pensais qu'il existait une forme /‡njæ˩-sɯ˧-kv̩˥/ exprimant le possessif; mais cette forme n'est plus reconnue par la suite: c'était en fait une erreur de prononciation.
 \nt <dom="phono" langue="fra"> La première syllabe présente une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. La forme en |fv{njɤ} (/|fv{njɤ˧-sɯ˩kv̩˩}/) était dans un premier temps apparue comme la forme correcte, puis il est ressorti des échanges avec Mme Latami que la forme /|fv{njæ˧-sɯ˩kv̩˩}/ était la plus usuelle et faisait référence.
 \nt <dom="phono" langue="eng"> The first syllable shows some variation between [|fv{njɤ}] and [|fv{njæ}]. The |fv{njɤ} form (/|fv{njɤ˧-sɯ˩kv̩˩}/) initially appeared to be the correct one, then it emerged from discussions with Mrs. Latami that /|fv{njæ˧-sɯ˩kv̩˩}/ was more common and should be recorded as the current standard.
-\nt <dom="phono" langue="cmn"> 第一个音节的发音不是很稳定，有[|fv{njɤ}]变体和[|fv{njæ}]变体。带fv{njɤ}的这个变体（/|fv{njɤ˧-sɯ˩kv̩˩}/）最初被认为是正确的。但与主合作者（F4）讨论后发现，/|fv{njæ˧-sɯ˩kv̩˩}/更为常见，应作为当前标准记录下来。
+\nt <dom="phono" langue="cmn"> 第一个音节的发音不是很稳定，有[|fv{njɤ}]变体和[|fv{njæ}]变体。带fv{njɤ}的这个变体（/|fv{njɤ˧-sɯ˩kv̩˩}/）最初被认为是正确的。但与拉他咪女士讨论后发现，/|fv{njæ˧-sɯ˩kv̩˩}/更为常见，应作为当前标准记录下来。
 \ton -L
 \lc njæ˧sɯ˩kv̩˩
 \so F4
@@ -41596,7 +41608,7 @@
 \xf les miens, ma famille
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not approve this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf M18
 \xv njɤ˧ no˧ lɑ˧˥
 \xe I strike you
@@ -45370,7 +45382,7 @@
 \xf Viens t'allonger par ici (pour te reposer)!
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas acceptée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not approve this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf M18
 
 \lx pɤ˥
@@ -50311,7 +50323,7 @@
 \xf être assis penché en avant, le torse penché vers les cuisses
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not use this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf M23
 
 \lx qʰv̩˧˥
@@ -51173,7 +51185,7 @@
 \va <speaker="M21"> jɥen˩dzɯ˧
 \nt <langue="fra" dom="dialect"> Il existe une importante variation entre locutrices pour cet emprunt. Il est bien confirmé que l'initiale est voisée chez Mme Latami (qui prononce /|fv{jæ˩dzɯ˧}/) et chez M21 (qui prononce /|fv{jɥen˩dzɯ˧}/), tandis que F5 prononce /|fv{jɥe˩tsɯ˧}/, avec une initiale non voisée.
 \nt <langue="eng" dom="dialect"> There is considerable variation between speakers for this loanword. It is well confirmed that the initial is voiced in the speech of F4 (who pronounces /|fv{jæ˩dzɯ˧}/) and M21 (who pronounces /|fv{jɥen˩dzɯ˧}/), while F5 pronounces /|fv{jɥe˩tsɯ˧}/, with an unvoiced initial.
-\nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。F4（发音为/|fv{jæ˩dzɯ˧}/）和 M21（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而F5则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
+\nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。拉他咪女士（发音为/|fv{jæ˩dzɯ˧}/）和 M21（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而F5则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge 园子::vegetable_garden
@@ -55481,8 +55493,8 @@
 \xn 你往这里转/往这里看！
 \xf Tourne-toi par ici! / Regarde par ici!
 \xc <langue="fra" dom="dialect"> version corrigée par Mme Latami d'un exemple fourni par M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/
-\xc <langue="eng" dom="dialect"> This example is F4's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
-\xc <langue="cmn" dom="dialect"> 这个例子是F4对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/的重新表述。
+\xc <langue="eng" dom="dialect"> This example is Mrs. Latami's reformulation of an example provided by M18: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
+\xc <langue="cmn" dom="dialect"> 这个例子是拉他咪女士对M18提供的例子/|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/的重新表述。
 \xv gɤ˩-ɻ̩˥ mv̩˩-ɻ̩˩, | ə˧tso˧ li˧?
 \xe You turn in all directions; what are you looking for/at? / What are you looking for in all directions?
 \xn 你左转右转，（到底）在看什么？
@@ -60978,7 +60990,7 @@
 \xf Elle/il est très grand(e)!
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not use this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf F5
 \xv ʈʂʰɯ˧ | le˧-ʂwæ˧-ze˧!
 \xe It has grown tall!
@@ -64165,7 +64177,7 @@
 \nt <type="hist" print="n" langue="fra" dom="ton"> Premières notes: /tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩/.
 \nt <dom="phono" langue="fra"> La première syllabe est réalisée proche de [|fv{tɕʰe˧}], par harmonie vocalique (anticipation de l'articulation du /|fv{i}/ de la syllabe suivante). Une réalisation sans ce processus d'harmonie, avec voyelle d'arrière [|fv{ɤ}], est refusée par Mme Latami, ce qui paraît indiquer que l'harmonie vocalique est en voie de lexicalisation.
 \nt <dom="phono" langue="eng"> The first syllable is realised close to [|fv{tɕʰe˧}], through vowel harmony (anticipation of the articulation of the /|fv{i}/ of the following syllable). A realization without strong vowel harmony, with a back vowel [|fv{ɤ}], is rejected by Mrs. Latami, which seems to indicate that the outcome of vowel harmony is well on its way towards lexicalization.
-\nt <dom="phono" langue="cmn"> 第一个音节的实际发音接近[|fv{tɕʰe˧}]，这是后音节的/|fv{i}/元音的影响（元音和谐） 。F4认为带有后元音[|fv{ɤ}]的发音不准确，这似乎表明元音和谐的结果正朝着词汇化的方向发展。
+\nt <dom="phono" langue="cmn"> 第一个音节的实际发音接近[|fv{tɕʰe˧}]，这是后音节的/|fv{i}/元音的影响（元音和谐） 。拉他咪女士认为带有后元音[|fv{ɤ}]的发音不准确，这似乎表明元音和谐的结果正朝着词汇化的方向发展。
 \so F4
 \va <speaker="M18"> tɕʰɤ˧ɲi˥-ni˩-zo˩
 \va <speaker="M21"> tʰv̩˧ɲi˧-ni˧˥
@@ -64512,7 +64524,7 @@
 \rf M18
 \xc <langue="fra" dom="dialect"> Formulation qui n'est pas utilisée par Mme Latami.
 \xc <langue="eng" dom="dialect"> Mrs. Latami does not use this phrasing.
-\xc <langue="cmn" dom="dialect"> F4不使用此说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \xv hĩ˧ tɕʰo˧-bi˧-zo˧-ho˥!
 \xe I'm going to have to accompany him/her! (Context: we invited someone over to the house: a priest, for instance.)
 \xn （我）要陪伴人家！
@@ -73781,7 +73793,7 @@
 \xf Le travail d'aujourd'hui… on tourne la page! Il est fini!
 \xc <langue="fra" dom="dialect"> Énoncé refusé par Mme Latami.
 \xc <langue="eng" dom="dialect"> This phrasing is rejected by Mrs. Latami.
-\xc <langue="cmn" dom="dialect"> F4不用这样的说法。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不使用此说法。
 \rf M18
 
 \lx ʈʂʰv̩˩
@@ -75658,7 +75670,7 @@
 \xf Je n'ai pas le temps.
 \xc <langue="fra" dom="dialect"> Cette formule est critiquée par Mme Latami: elle-même dirait plutôt «j'ai du travail, je suis occupée».
 \xc <langue="eng" dom="dialect"> This wording is criticized by Mrs. Latami, who points out that a more idiomatic way to express this idea in Narua is “I've got work to do, I'm busy”.
-\xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有工作要做、我很忙’。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士指出，更贴切的表述是‘我有工作要做、我很忙’。
 \rf F5
 \xv njɤ˧ | tv̩˧tsʰɯ˧ dʑo˧.
 \xe I have time. / I have some free time. / I have the time.
@@ -75666,7 +75678,7 @@
 \xf J'ai du temps libre. / J'ai le temps.
 \xc <langue="fra" dom="dialect"> Cette formule est critiquée par Mme Latami: elle-même dirait plutôt «je suis libre», en employant le mot |fv{mæ˧1}.
 \xc <langue="eng" dom="dialect"> This wording is criticized by Mrs. Latami, who points out that a more idiomatic way to express this idea in Narua is “I'm free”, using the word |fv{mæ˧1}.
-\xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
 \rf F5
 \sn 2
 \pdv ɭɯ˧β
@@ -76515,7 +76527,7 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; d'abord noté v̩˥lɑ˧ i˧ hĩ˧, par erreur)
 \nt <dom="sem" langue="fra"> Une étymologie proposée (prudemment) par Liberty Lidz serait: «gens qui frappent les casseroles», du fait qu'ils auraient signalé ainsi leur présence: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2019:176n2). Cette hypothèse n'est pas acceptée par Mme Latami: dans le temps, les colporteurs signalaient leur présence au moyen de cymbales, non de casseroles. Un argument décisif est que le mot est cognat avec le naxi |fv{ɣɯ˧-lɑ˩ be˧}, dont la première syllabe n'est pas le mot ‘casserole’ (naxi: /|fv{bv̩}/). Pour Mme Latami, le mot n'est plus transparent.
 \nt <dom="sem" langue="eng"> An etymology proposed (cautiously) by Liberty Lidz is ‘people who bang pots and pans’, because they would have signalled their presence in this way: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2010:176n2). This hypothesis is not accepted by Mrs. Latami: in the past, pedlars signalled their presence by means of cymbals, not saucepans. A decisive argument here is that the word is cognate with Naxi |fv{ɣɯ˧-lɑ˩ be˧}, whose first syllable is not the word ‘pot’ (Naxi: /|fv{bv̩}/). The word is no longer transparent to Mrs. Latami.
-\nt <dom="sem" langue="cmn"> 李力（Liberty Lidz）谨慎地提出的词源假设是‘敲打锅的人’：“这可能是指中国的习俗，即在做小生意时，做生意的人会在城里走动，发出独特的声音”（Lidz 2010:176n2）。F4 不接受这一假设：在过去，小贩用铙钹（而不是敲打锅碗瓢盆）来表示他们的存在。这里的一个决定性论据是，该词与纳西语的|fv{ɣɯ˧-lɑ˩ be˧}同源，其第一个音节不是‘锅’（纳西语：/|fv{bv̩}/）。该词的形态构成尚未得到分析。
+\nt <dom="sem" langue="cmn"> 李力（Liberty Lidz）谨慎地提出的词源假设是‘敲打锅的人’：“这可能是指中国的习俗，即在做小生意时，做生意的人会在城里走动，发出独特的声音”（Lidz 2010:176n2）。拉他咪女士不接受这一假设：在过去，小贩用铙钹（而不是敲打锅碗瓢盆）来表示他们的存在。这里的一个决定性论据是，该词与纳西语的|fv{ɣɯ˧-lɑ˩ be˧}同源，其第一个音节不是‘锅’（纳西语：/|fv{bv̩}/）。该词的形态构成尚未得到分析。
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -77414,8 +77426,8 @@
 \xf jupe en feutre
 \rf M18
 \xc <langue="fra" dom="dialect"> Expression refusée par Mme Latami: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
-\xc <langue="eng" dom="dialect"> F4 rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
-\xc <langue="cmn" dom="dialect"> F4拒绝这个说法：摩梭人没有披毡短裙。
+\xc <langue="eng" dom="dialect"> Mrs. Latami rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
+\xc <langue="cmn" dom="dialect"> 拉他咪女士拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
 \sf <nb="B"> 415c
@@ -78088,14 +78100,14 @@
 \xf démolir une demeure
 \xc <langue="fra" dom="ton"> Cette expression, construite par l'enquêteur, est acceptée par Mme Latami. Elle illustre le fait que la combinaison tonale observée dans l'expression figée «bâtir une demeure» se retrouve telle quelle dans une autre expression, certes inusitée, mais synchroniquement acceptable (répondant aux règles synchroniques de combinaison entre verbe et nom). Cette observation conforte l'analyse du ton lexical de la racine monosyllabique comme LM ou LH.
 \xc <langue="eng" dom="ton"> This expression, coined by the investigator, is accepted by Mrs. Latami. It illustrates the fact that the tonal combination observed in the phrase ‘to build a house’ is also found in another phrase that has ‘house’ as its object. The phrase is admittedly unusual, but since it is synchronically acceptable, it counts as additional evidence in favour of the analysis of the lexical tone of the monosyllabic root as either LM or LH.
-\xc <langue="cmn" dom="ton"> 这个例子是调查者构造的，F4确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
+\xc <langue="cmn" dom="ton"> 这个例子是调查者构造的，拉他咪女士确定是可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。
 \xv ʈʂʰɯ˧-ʑi˧˥
 \xe this family
 \xn 这家
 \xf cette famille
 \xv ‡ʑi˩ hwæ˧
 \xe ‡to buy a house (example coined by the investigator, to investigate the monosyllable's potential to combine with other verbs, and its tone category; this example was refused by Mrs. Latami)
-\xn 买房（这个例子是调查者构造的，F4确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
+\xn 买房（这个例子是调查者构造的，拉他咪女士确定是不可以说的。造这个例子的目的有两个：看单音节词根“家”能不能跟其它动词结合，也试着确定它的调类。）
 \xf ‡acheter une demeure; forme non correcte, proposée pour voir dans quelle mesure le monosyllabe peut se combiner avec divers verbes.
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥, | ze˩ ʑi˧ ɲi˥?
 \xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
@@ -78854,7 +78866,7 @@
 \nt <type="hist" print="n" langue="fra"> (d'abord noté zo˥bæ˩)
 \nt <dom="sem" langue="fra"> La forme /|fv{zo˧bæ˩}/ a en partie perdu son caractère masculin. Mme Latami dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ «je suis bien bête!» (littéralement: «Ama est bien bête!») et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ «(non, vous n'êtes) pas idiote!», où le disyllabe est traité comme un bloc.
 \t\nt <dom="sem" langue="eng"> The form /|fv{zo˧bæ˩}/ has partly lost its specifically masculine gender. Mrs. Latami sometimes says of herself, in humorous self-deprecation (when she has made a blunder): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “I am so dumb!!” (literally: “Ama is dumb!”) and the negation is: /|fv{mɤ˧-zo˧bæ˩!}/ “(no, you're) not dumb!”, where the disyllable is treated as a block.
-\t\nt <dom="sem" langue="cmn"> 这个词本来转门指男人，但它已部分失去其阳性特征。F4在犯错时会开玩笑说自己：/|fv{ə˧mɑ˧ zo˧bæ˩！}/“我真苯！”（字面意思是：“阿妈真苯！”）
+\t\nt <dom="sem" langue="cmn"> 这个词本来转门指男人，但它已部分失去其阳性特征。拉他咪女士在犯错时会开玩笑说自己：/|fv{ə˧mɑ˧ zo˧bæ˩！}/“我真苯！”（字面意思是：“阿妈真苯！”）
 \ton L#
 \lc zo˧bæ˩
 \so F4
@@ -81056,7 +81068,7 @@
 \xc <dom="ton"> #H- / H#
 \xc <langue="fra" dom="ton"> La variante |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, au ton H#, apparaît parmi les réalisations de Mme Latami. Elle exprime néanmoins une préférence pour l'autre réalisation, au ton #H-.
 \xc <langue="eng" dom="ton"> The variant |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, in the H# tone, appears among the realizations by Mrs. Latami. She nevertheless expresses a preference for the other realization, in the #H- tone.
-\xc <langue="cmn" dom="ton"> H#调变体|fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}出现在F4的发音中。不过，她表示更喜欢另一种变音，即#H-音调变体。
+\xc <langue="cmn" dom="ton"> H#调变体|fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}出现在拉他咪女士的发音中。不过，她表示更喜欢另一种变音，即#H-音调变体。
 
 \lx ʐwæ˧-zɯ#˥
 \sf <nb="2011"> 516
