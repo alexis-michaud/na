@@ -68713,7 +68713,9 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (auparavant noté: ʈʂi˥) (vérifié: n'est pas /ʈʂi/) (corrigé en 2007; en 2006, avais noté: ʈʂe˥pv̩˧)
-\nt <dom="sem" langue="fra"> (croyance locale: s'asseoir sur de la terre “crue" serait mauvais pour la santé)
+\nt <dom="sem" langue="fra"> Une croyance rapportée par M18 est que s'asseoir sur de la terre `crue' est mauvais pour la santé. Cela fait écho à la vision taoïste de la façon dont le souffle, Qi |fn{气}, circule dans la nature, vision sur laquelle repose le Fengshui |fn{风水}: une pratique chinoise qui vise à harmoniser les personnes avec leur environnement en analysant les flux d'énergie dans l’espace, pour favoriser santé et équilibre. Les lieux «vierges» ou «non travaillés» y sont perçus comme potentiellement hostiles (dommageables à la santé), du fait que le Qi y serait stagnant: leurs énergies seraient «brutes» et néfastes. La mise en culture aurait pour effet d'«harmoniser» leur Qi.
+\nt <dom="sem" langue="eng"> A belief reported by M18 is that sitting on ‘raw’ earth is bad for your health. This echoes the Taoist vision of the way in which breath, Qi |fn{气}, circulates in nature -- a vision on which Fengshui |fn{风水} is based: a Chinese practice that aims to harmonize people with their environment by analyzing the flow of energy in the spaces they inhabit. “Wild”, “unworked” places are perceived as potentially hostile (harmful to health), because the Qi there would be stagnant: their energies would be “raw” and harmful. The effect of cultivation would be to ‘harmonize’ their Qi.
+\nt <dom="sem" langue="cmn"> M18报道的一种观点认为，坐在‘生’土上不利于健康。这与道家关于自然界中的‘气’循环方式的观点相同。没有耕种的地方被认为是潜在的敌对之地（对健康有害），因为那里的‘气’是停滞的：它们的能量是有害的。耕种可以‘调和’它们的 ‘气’。
 \ton #H
 \lc ʈʂe˧
 \so F4
@@ -68734,7 +68736,7 @@
 \xv ʈʂe˧ sɯ˧~sɯ˥
 \xe ‘raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc
 \xn ‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物
-\xf ‘terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc
+\xf ‘terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc.
 \dt 08/Oct/2015
 
 \lx ʈʂe˥
@@ -69426,12 +69428,13 @@
 \lx tsʰe˧qʰɑ˧
 \sf <nb="2011"> 1469
 \or ceikha
+\mr tsʰe#˥
+\mr qʰɑ˥
 \ps adj
 \an tsʰe˧so˧˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> Corrigé en 2009 de /tsʰe˥kʶɑ˧/ en /tsʰe˧qʰɑ˩/, puis en 2024 de /tsʰe˧qʰɑ˩/ en /tsʰe˧qʰɑ˧/.
-\nt <dom="sem" langue="fra"> “sel"+"amer"
 \ton M
 \lc tsʰe˧qʰɑ˧
 \so F4
@@ -70052,7 +70055,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Avant 2024, noté /tsʰi˧˥/. Une note mentionne: ``vérifié: n'est pas /tsʰɯ˩/''. Pourtant, en juillet 2024, sur indication de la locutrice principale, le verbe est recatégorisé comme /tsʰɯ˧˥/.
-\nt <dom="sem" langue="fra"> Pour “allumer une bougie", le verbe employé est différent: |fv{ʈʂv̩˩α2}.
+\nt <dom="sem" langue="fra"> Pour `allumer une bougie', le verbe employé est différent: |fv{ʈʂv̩˩α2}.
+\nt <dom="sem" langue="eng"> The verb used for `to light a candle' is a different verb: |fv{ʈʂv̩˩α2}.
+\nt <dom="sem" langue="cmn"> ‘点燃蜡烛’中的‘点燃’是不同的动词：|fv{ʈʂv̩˩α2}.
 \ton MH
 \lc tsʰɯ˧˥
 \cf ʈʂv̩˩α2
@@ -70986,7 +70991,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> vérifié: n'est pas le même mot que “lire à haute voix"; le ton est différent
+\nt <dom="sem" langue="fra"> Ce verbe n'est pas le même que `lire à haute voix', |fv{ʈʂʰo˧β} (dont le ton est différent: ton Mβ).
+\nt <dom="sem" langue="eng"> This verb is distinct from `to read aloud', |fv{ʈʂʰo˧β} (which has a different tone: tone Mβ).
+\nt <dom="sem" langue="cmn"> 这个动词不同于‘朗读’|fv{ʈʂʰo˧β}（两者的声调不同）。
 \ton H
 \lc ʈʂʰo˧
 \so F4
@@ -71004,7 +71011,6 @@
 \xe Deceased members of the family are honoured at the place where they passed away!
 \xn 要在家人去世地点进行祭拜！
 \xf Les membres décédés de la famille, c'est à l'endroit où ils sont morts qu'on leur rend hommage!
-\dt 07/Oct/2015
 
 \lx tsʰo˧β
 \sf <nb="B"> 1544
@@ -72605,17 +72611,17 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> ton: d'après son comportement après les verbes
-\nt <dom="sem" langue="fra"> indique une source indirecte de connaissance (bouche à oreille): forme d'évidentiel indirect. Glosé comme “(discours) rapporté" à la suite de Martine Mazaudon (pour le tamang) et Liberty Lidz, même si en fait ce n'est pas précisément du discours rapporté/indirect du type “Untel a dit que…" mais seulement une mise à distance.
+\nt <dom="sem" langue="fra"> L'emploi de cette particule signale une source indirecte de connaissance: le bouche à oreille. Il s'agit d'une forme d'évidentiel qui signale une connaissance indirecte. La particule est glosé comme `(discours) rapporté', |fg{rep}, à la suite de Liberty Lidz, bien qu'il ne s'agisse pas de discours rapporté (style indirect) du type «Untel a dit: “…”», mais plutôt d'une précision concernant la façon dont s'est fait l'accès à l'information.
+\nt <dom="sem" langue="eng"> The use of this particle indicates an indirect source of knowledge: that the information is known through word of mouth, not first-hand testimony. It is a form of evidential which signals indirect knowledge. The particle is glossed as ‘reported speech’, |fg{rep}, following Liberty Lidz, although it is not actually reported speech of the type “So-and-so said: «...»”, but rather a clarification as to how the information was accessed.
 \ton MH
 \lc tsɯ˧˥
 \so F4
 \de Reported/hearsay evidential: the speaker indicates that they are not in a position to vouch personally for what they are saying, that it is based on indirect knowledge, from hearsay.
 \ge |fg{rep}
-\dn 传闻据素：据说……
+\dn 传闻据素：据说……说话的人表示，她无法亲自为自己保证所说的话是准确，她所说的话是基于间接了解，根据别人的报告。
 \gn 传闻据素
 \df Particule d'évidentialité rapportée: elle indique une connaissance indirecte, par ouï-dire, et non par connaissance directe.
 \gf |fg{rep}
-\dt 05/Jul/2017
 
 \lx tsɯ˥
 \sf <nb="B"> 1119a
@@ -75545,7 +75551,7 @@
 \xe I don't have the time.
 \xn 我没时间。
 \xf Je n'ai pas le temps.
-\xc <langue="fra" dom="dialect"> Formule critiquée par F4: on dirait: “j'ai du travail, je suis occupé".
+\xc <langue="fra" dom="dialect"> Cette formule est critiquée par F4: elle-même dirait plutôt «j'ai du travail, je suis occupée».
 \xc <langue="eng" dom="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I've got work to do, I'm busy”.
 \xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有工作要做、我很忙’。
 \rf F5
@@ -75553,7 +75559,7 @@
 \xe I have time. / I have some free time. / I have the time.
 \xn 我有时间。
 \xf J'ai du temps libre. / J'ai le temps.
-\xc <langue="fra" dom="dialect"> Formule critiquée par F4: on dirait: “je suis libre", en employant le mot |fv{mæ˧1}.
+\xc <langue="fra" dom="dialect"> Cette formule est critiquée par F4: elle-même dirait plutôt «je suis libre», en employant le mot |fv{mæ˧1}.
 \xc <langue="eng" dom="dialect"> This wording is criticized by F4, who points out that a more idiomatic way to express this idea in Narua is “I'm free”, using the word |fv{mæ˧1}.
 \xc <langue="cmn" dom="dialect"> F4指出，更贴切的表述是‘我有空’，|fv{mæ˧1}。
 \rf F5
@@ -75592,13 +75598,15 @@
 \sf <nb="B"> 759
 \sf <nb="2011"> 1140
 \or duci liddi
+\mr tv̩˧tsʰɯ˧
+\mr li˧α
+\mr -di˩
 \ps n
 \ton L#
 \lc tv̩˧tsʰɯ˧li˧di˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; auparavant: noté ˧ ˧ ˧ ˧˥) (li˧: regarder; tv̩˧tsʰɯ˧: temps; di˩: suffixe permettant de créer des substantifs, “chose à": “chose à manger", “chose à regarder"…) (utilisé pour désigner la petite horloge à quartz accrochée au mur, aussi bien que pour une montre)
-\nt <dom="sem" langue="fra"> “chose pour regarder l'heure"
 \so F4
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
@@ -76400,8 +76408,9 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; d'abord noté v̩˥lɑ˧ i˧ hĩ˧, par erreur)
-\nt <dom="sem" langue="fra"> Une étymologie proposée (prudemment) par Liberty Lidz serait: “gens qui frappent les casseroles", du fait qu'ils auraient signalé ainsi leur présence: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2019:176n2). Cette hypothèse n'est pas acceptée par F4: dans le temps, les colporteurs signalaient leur présence au moyen de cymbales, non de casseroles. Un argument décisif est que le mot est cognat avec le naxi |fv{ɣɯ˧-lɑ˩ be˧}, dont la première syllabe n'est pas le mot ‘casserole’ (naxi: /|fv{bv̩}/). Pour F4, le mot n'est plus transparent.
-\nt <dom="sem" langue="eng"> One etymology proposed (cautiously) by Liberty Lidz is ‘people who bang pots and pans’, because they would have signalled their presence in this way: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2010:176n2). This hypothesis is not accepted by F4: in the past, pedlars signalled their presence by means of cymbals, not saucepans. A decisive argument here is that the word is cognate with Naxi |fv{ɣɯ˧-lɑ˩ be˧}, whose first syllable is not the word ‘pot’ (Naxi: /|fv{bv̩}/). The word is no longer transparent to F4.
+\nt <dom="sem" langue="fra"> Une étymologie proposée (prudemment) par Liberty Lidz serait: «gens qui frappent les casseroles», du fait qu'ils auraient signalé ainsi leur présence: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2019:176n2). Cette hypothèse n'est pas acceptée par F4: dans le temps, les colporteurs signalaient leur présence au moyen de cymbales, non de casseroles. Un argument décisif est que le mot est cognat avec le naxi |fv{ɣɯ˧-lɑ˩ be˧}, dont la première syllabe n'est pas le mot ‘casserole’ (naxi: /|fv{bv̩}/). Pour F4, le mot n'est plus transparent.
+\nt <dom="sem" langue="eng"> An etymology proposed (cautiously) by Liberty Lidz is ‘people who bang pots and pans’, because they would have signalled their presence in this way: “This may be in reference to the Chinese custom that in small business, the person conducting business will walk through town making a distinctive noise" (Lidz 2010:176n2). This hypothesis is not accepted by F4: in the past, pedlars signalled their presence by means of cymbals, not saucepans. A decisive argument here is that the word is cognate with Naxi |fv{ɣɯ˧-lɑ˩ be˧}, whose first syllable is not the word ‘pot’ (Naxi: /|fv{bv̩}/). The word is no longer transparent to F4.
+\nt <dom="sem" langue="cmn"> 李力（Liberty Lidz）谨慎地提出的词源假设是‘敲打锅的人’：“这可能是指中国的习俗，即在做小生意时，做生意的人会在城里走动，发出独特的声音”（Lidz 2010:176n2）。F4 不接受这一假设：在过去，小贩用铙钹（而不是敲打锅碗瓢盆）来表示他们的存在。这里的一个决定性论据是，该词与纳西语的|fv{ɣɯ˧-lɑ˩ be˧}同源，其第一个音节不是‘锅’（纳西语：/|fv{bv̩}/）。该词的形态构成尚未得到分析。
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -76654,7 +76663,9 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (noté tɕju˧ en 2006) (le˧u˧ɭv̩˥: erreur de notation) (le /tʰo˥/ ressemble parfois à un /tʰv̩˥/) (notation équivalente: le˧o˧tʰo˥tɕo˩, 6/11/2007)
 \nt <type="hist" print="n" langue="fra"> (historique: “le˧u˧tʰu˧tɕju˥, le˧u˧tʰu˧tɕju˥ se˧; aussi: le˧u˧tʰu˥tɕju˩ =idem précédent, tons différents; d'abord noté ˧˧˧˥, puis corrigé en ˧˧˥˩, pensé que c'était confirmé; enrt F589: relève que les deux sont réalisés; le second est sans doute mieux, car qd je propose les deux à F5, c'est celui-là qu'elle choisit)
-\nt <dom="sem" langue="fra"> Roselle Dobbs: “I have also come across this verb in collocation with other verbs. Its basic meaning is ‘to do s/thing again'." Avant 2015: avais glosé comme: “To turn around (e.g. in order to look back)."
+\nt <dom="sem" langue="fra"> La sémantique de ce mot nécessite encore quelques éclaircissements. Roselle Dobbs (communication personnelle 2015) explique : «J'ai également rencontré ce verbe en collocation avec d'autres verbes. Sa signification de base est `faire quelque chose à nouveau'». En plus de `again', il peut y avoir un élément similaire à l'anglais `back'.Roselle Dobbs: “I have also come across this verb in collocation with other verbs. Its basic meaning is ‘to do something again'." Avant 2015: avais glosé comme: “To turn around (e.g. in order to look back)."
+\nt <dom="sem" langue="eng"> The semantics of this word still requires some clarification. Roselle Dobbs (p.c. 2015) explains: “I have also come across this verb in collocation with other verbs. Its basic meaning is ‘to do something again'. In addition to `again', there may also be an element similar to English `back'.
+\nt <dom="sem" langue="cmn"> 这个词的语义仍需澄清。杜玫瑰（私人交流，2015年）解释道：“我还在与其他动词的搭配中遇到过这个动词。它的基本含义是‘再次做某事’。”除了‘再次’的意思，可能还有一个与‘回’类似的成分。
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -77658,15 +77669,18 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra" dom="phono"> La première syllabe est noté /ze˩/ en 2006. Un doute s'immisce, mais est écarté: “réécoute en janvier 2008: paraît ressembler à: [za] mais n'est pas /a/: c'est bien /e/, confirmé". Corrigé en /zæ˩bæ˩/ le 3 juillet 2024.
-\nt <dom="sem" langue="fra"> Ce mot n'est pas un nom mais un prédicat, comme en atteste sa combinaison avec le morphème de perfectif: /|fv{zæ˩bæ˩-ze˥}/. Sa catégorisation comme un nom aboutissait à des résultats bizarres, obligeant à créer une classe tonale spécifique (“d8") pour ce mot.
+\nt <type="hist" print="n" langue="fra" dom="synt"> Le classement comme un nom aboutissait à des résultats bizarres: en termes tonals, cela avait amené à imaginer une classe tonale spécifique (“d8") pour ce mot.
+\nt <dom="synt" langue="fra"> Ce mot n'est pas un nom mais un prédicat, comme en atteste sa combinaison avec le morphème de perfectif: /|fv{zæ˩bæ˩-ze˥}/. Sa catégorisation comme un nom aboutissait à des résultats paradoxaux, son comportement étant différent de celui de toutes les catégories nominales.
+\nt <dom="synt" langue="eng"> This word is not a noun but a predicate, as shown by its combination with the perfective morpheme: /|fv{zæ˩bæ˩-ze˥}/. Its categorization as a noun led to paradoxical results, its behaviour being different from that of all noun categories.
+\nt <dom="synt" langue="cmn"> 这个词不是名词，而是谓词，这从它与整体体后缀的组合可以看出：/|fv{zæ˩bæ˩-ze˥}/。将其归类为名词导致自相矛盾的结果，因为它与所有名词的声调类别都不同。
 \ton L
 \lc zæ˩bæ˩˥
 \so F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> mv̩˧ʁo˥ ʐɤ˩ bæ˩˥
-\vc <langue="fra" dom="dialect"> Prononciation idiosyncratique: M18 crée la formule /|fv{ʐɤ˩ bæ˩˥}/, “le chemin court", à caractère poétique.
-\vc <langue="eng" dom="dialect"> Idiosyncratic pronunciation: M18 chose the designation /|fv{ʐɤ˩ bæ˩˥}/, “the path runs", as a poetic coinage.
-\vc <langue="cmn" dom="dialect"> 独特的创新：/|fv{ʐɤ˩ bæ˩˥}/“路在跑”（诗人的创作）。
+\va <speaker="M18"> mv̩˧ʁo˥ | ʐɤ˩ bæ˩˥
+\nt <langue="fra" dom="dialect"> M18 possède une prononciation idiosyncratique: pour désigner l'éclair, il a créé la formule /|fv{ʐɤ˩ bæ˩˥}/, «le chemin court», à caractère poétique.
+\nt <langue="eng" dom="dialect"> M18 has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
+\vc <langue="cmn" dom="dialect"> M18创造了独特的创新：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创作）。
 \va <speaker="M21"> ID.
 \pdv bæ˩
 \de Flash of lightning, thunderbolt.
@@ -78204,7 +78218,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> Lors de l'enquête, je désigne les poils de mon bras, que M21 décrit aussitôt comme “poils de singe"; au début je pense que c'est une innovation (divertissante), pour décrire un système pileux plus abondant que la norme locale, mais par la suite il est confirmé que les poils corporels, par exemple autour des parties génitales, sont bel et bien appelés “poils de singe")
-\nt <dom="sem" langue="fra"> Littéralement “poils de singe".
+\nt <dom="sem" langue="fra"> Littéralement «poils de singe».
 \ton LM+#H
 \so F4
 \va <speaker="M21"> ʑy˩hṽ̩#˥ ≈ ʑi˩hṽ̩#˥
@@ -78611,6 +78625,7 @@
 \cf tsʰo˩mo˩
 \ton #H
 \lc zo˧
+\an mv̩˩˥
 \sn 1
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -78727,7 +78742,9 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d'abord noté zo˥bæ˩)
-\nt <dom="sem" langue="fra"> La forme /|fv{zo˧bæ˩}/ a en partie perdu son caractère masculin. F4 dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “je suis bien bête!" (littéralement: “Ama est bien bête!") et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ “(non, tu n'es) pas idiote!", où le disyllabe est traité comme un bloc.
+\nt <dom="sem" langue="fra"> La forme /|fv{zo˧bæ˩}/ a en partie perdu son caractère masculin. F4 dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ «je suis bien bête!» (littéralement: «Ama est bien bête!») et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ «(non, vous n'êtes) pas idiote!», où le disyllabe est traité comme un bloc.
+\t\nt <dom="sem" langue="eng"> The form /|fv{zo˧bæ˩}/ has partly lost its specifically masculine gender. F4 sometimes says of herself, in humorous self-deprecation (when she has made a blunder): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “I am so dumb!!” (literally: “Ama is dumb!”) and the negation is: /|fv{mɤ˧-zo˧bæ˩!}/ “(no, you're) not dumb!”, where the disyllable is treated as a block.
+\t\nt <dom="sem" langue="cmn"> 这个词本来转门指男人，但它已部分失去其阳性特征。F4在犯错时会开玩笑说自己：/|fv{ə˧mɑ˧ zo˧bæ˩！}/“我真苯！”（字面意思是：“阿妈真苯！”）
 \ton L#
 \lc zo˧bæ˩
 \so F4
@@ -78749,7 +78766,6 @@
 \xe silly people, idiots (of both sexes)
 \xn 傻瓜们（不分男女）
 \xf idiots, imbéciles (sans distinction de sexe)
-\dt 07/Oct/2015
 
 \lx zo˩-bv̩˥-li˩
 \or ssobbuli
@@ -78811,7 +78827,6 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> l'après-midi = “quand on a mangé le repas de midi"
 \ton L
 \lc ʐo˩dzɯ˩˥
 \so F4
@@ -78830,10 +78845,9 @@
 \xn 吃午饭
 \xf déjeuner (verbe), prendre le déjeuner
 \xv ʐo˩ dzɯ˩-se˥
-\xe afternoon
-\xn 下午
-\xf l'après-midi
-\dt 07/Oct/2015
+\xe afternoon (the time after one has eaten lunch)
+\xn 下午（直译：‘吃完午饭’。下午是吃完午饭那段时间。）
+\xf l'après-midi: l'après-midi, c'est «quand on a mangé le repas de midi».
 
 \lx zo˧hṽ̩˧˥
 \sf <nb="B"> 290b
@@ -78930,7 +78944,7 @@
 \ge Remi
 \dn 达巴口诵经典《仁咪经》。《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
 \gn 《仁咪经》
-\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. “Remi” signifie “le chemin”. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances.
+\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances.
 \gf Remi
 
 \lx zo˧mv̩˥
@@ -78939,10 +78953,12 @@
 \sf <nb="B"> 293
 \sf <nb="2011"> 339
 \or ssomu
+\mr zo˥
+\mr mv̩˩˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
-\nt <dom="sem" langue="fra"> composé formé de “fils"+"fille"
+\nt <dom="sem" langue="fra"> composé formé de `fils'+`fille'
 \ton H#
 \lc zo˧mv̩˥
 \so F4
@@ -80296,7 +80312,7 @@
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /…mɤ˧…/)
-\nt <dom="sem" langue="fra"> sens: serait: “les gens du coin chaud"
+\nt <dom="sem" langue="fra" print="n"> Le sens serait: “les gens des régions chaudes"
 \ton MH#
 \lc ʐɻ̩˧mv̩˧lɑ˧di˧˥
 \so F4
@@ -80539,8 +80555,10 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra" dom="ton"> (terrain 2009: essayé de déterminer le ton seul, cf enrt M23 15/3/09; ai conclu à un ton ˧˥; est en fait ˩˧; en 2011: corrigé toutes les anciennes notations ʐwæ˧˥ en ʐwæ˩˧)
-\nt <dom="sem" langue="fra"> La signification “extrêmement" penche vers “trop", “excessivement", comme dans les usages intensifs de ces deux expressions en français: “C'est trop bon!" (pour dire: extrêmement bon), et, dans un registre plus relevé, “C'est excessivement difficile" (pour dire: extrêmement difficile).
-\nt <dom="synt" langue="fra"> L'adverbe ne forme pas un mot phonologique avec l'adjectif sur lequel il porte. Il est toujours précédé d'une frontière de groupe tonal.
+\nt <dom="sem" langue="fra"> La signification `extrêmement' penche vers `trop', `excessivement', comme dans les usages intensifs de ces deux expressions en français: «C'est trop bon!» (pour dire: extrêmement bon), et, dans un registre plus relevé, «C'est excessivement difficile» (pour dire: extrêmement difficile).
+\nt <dom="synt" langue="fra"> Cet adverbe ne forme pas un mot phonologique avec l'adjectif sur lequel il porte. Il est toujours précédé d'une frontière de groupe tonal.
+\nt <dom="synt" langue="eng"> This adverb does not form a phonological word with the adjective on which it bears. It is always preceded by a tone group boundary.
+\nt <dom="synt" langue="cmn"> 这个副词与它所依附的形容词不构成一个声调短语。它前面总是有一个声调组界线。
 \ton L
 \lc ʐwæ˩˥
 \so F4
@@ -80698,10 +80716,11 @@
 \lx ʐwæ˧-hɑ#˥
 \sf <nb="2011"> 515
 \or ruaeha
+\mr ʐwæ˥
+\mr hɑ˥
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="sem" langue="fra"> “nourriture pour le cheval"
 \ton #H
 \lc ʐwæ˧hɑ˧
 \so F4
@@ -80711,7 +80730,6 @@
 \gn 马料
 \df Nourriture pour cheval.
 \gf nourriture_pour_cheval
-\dt 27/Apr/2017
 
 \lx ʐwæ˧-kʰv̩˩
 \hm 1
@@ -81117,7 +81135,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (en 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés") (vérifié; avant 2009: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
-\nt <dom="sem" langue="fra"> pour désigner une personne muette, on utilisait traditionnellement le terme pour “idiot"
+\nt <dom="sem" langue="fra"> Pour désigner une personne muette, on utilisait traditionnellement le terme pour `idiot', ssobbae |fv{zo˧bæ˩}.
+\nt <dom="sem" langue="eng"> The term for `idiot', ssobbae |fv{zo˧bæ˩}, was traditionally used to designate a mute person.
+\nt <dom="sem" langue="cmn"> 传统上使用‘笨人、傻瓜’ssobbae |fv{zo˧bæ˩}那个词来指哑巴。
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
@@ -81243,9 +81263,10 @@
 \or bbi
 \ps suff
 \lc bi˧
+\cf bi˧γ
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> grammaticalisé depuis “aller"
+\nt <dom="sem" langue="fra"> Suffixe grammaticalisé à partir du verbe `aller', |fv{bi˧γ}.
 \ton M
 \so F4
 \de Immediate future.
@@ -81254,7 +81275,6 @@
 \gn 近将来
 \df Futur immédiat.
 \gf |fg{fut.imm}
-\dt 05/Jul/2017
 
 \lx =bv̩˧
 \sf <nb="2011"> 3362
@@ -81470,7 +81490,7 @@
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> Avant 2012: glosé comme 名物化, |fg{nmlz}: “Nominalisateur générique. Emploi le plus fréquent: pour l'agent. (Liberty Lidz)"
+\nt <dom="sem" langue="fra" print="n" type="hist"> Avant 2012: glosé comme 名物化, |fg{nmlz}: «Nominalisateur générique. Emploi le plus fréquent: pour l'agent. (Liberty Lidz)»
 \ton H
 \lc hĩ˧
 \so F4
@@ -82081,7 +82101,7 @@
 \xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
-\xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: “Mais non, pas du tout!”)
+\xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: «Mais non, pas du tout!»)
 \rf F5
 \xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˧di˩ ɲi˩?
 \xe What kind of an impression does that give? (A way to point out to someone, coolly, calmly and without violence, that their behaviour is unseemly and undignified: for instance if someone is indulging in unreasonable quantities of alcohol.)
@@ -83002,7 +83022,7 @@
 \ge Pusso_Pudulu
 \dn 普若普嘟噜：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée “Pusso Pudulu et Luxi Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
 \gf Pusso_Pudulu
 
 \lx lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
@@ -83018,5 +83038,5 @@
 \ge Luxi_Zhinaha
 \dn 噜细至纳哈：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée “Pusso Pudulu et Luxi Zhinaha” |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
 \gf Luxi_Zhinaha
