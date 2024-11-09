@@ -7972,6 +7972,8 @@
 \so F4
 \va <speaker="F5"> dv̩˩˧
 \vc <langue="fra" dom="ton"> LM
+\vc <langue="eng" dom="ton"> LM
+\vc <langue="cmn" dom="ton"> LM
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
 \de Fox.
@@ -11041,6 +11043,8 @@
 \so F4
 \va <speaker="F5"> dzɤ˩
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \va <speaker="M18"> ɖʐɤ˩˥
 \va <speaker="M21"> ID.
 \pdv pɤ˩
@@ -11604,6 +11608,8 @@
 \so F4
 \va <speaker="F5"> dzɤ˩ɖwæ˩
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \pdv ɖwæ˥
 \de Step of stairs.
 \ge step
@@ -11790,6 +11796,8 @@
 \so F4
 \va <speaker="F4"> dzo˩pʰv̩#˥
 \vc <langue="fra" dom="ton"> LM+#H
+\vc <langue="eng" dom="ton"> LM+#H
+\vc <langue="cmn" dom="ton"> LM+#H
 \pdv mi˩
 \pdv ɭɯ˧β
 \de Male lizard.
@@ -12180,6 +12188,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
@@ -12364,6 +12374,8 @@
 \so F4
 \va <speaker="F5"> dʑi˧dv̩˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M21"> dʑi˧dv̩˧
 \vc <type="hist" print="n" langue="fra"> ton d1
 \pdv kʰɯ˩
@@ -25464,6 +25476,8 @@
 \so F4
 \va <speaker="F4"> jo˧pʰv̩#˥
 \vc <langue="fra" dom="ton"> #H
+\vc <langue="eng" dom="ton"> #H
+\vc <langue="cmn" dom="ton"> #H
 \pdv pʰo˧˥α
 \pdv mi˩
 \de Male sheep.
@@ -25890,6 +25904,8 @@
 \so F4
 \va <speaker="F5"> kʰi˧bɤ˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
@@ -27160,6 +27176,8 @@
 \so F4
 \va <speaker="F5"> kɤ˧v̩˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \de Amulet.
@@ -29099,10 +29117,16 @@
 \so F4
 \va <speaker="F5"> kv̩˧ʂe#˥
 \vc <langue="fra" dom="ton"> #H
+\vc <langue="eng" dom="ton"> #H
+\vc <langue="cmn" dom="ton"> #H
 \va <speaker="M21"> kv̩˧ʂe#˥
 \vc <langue="fra" dom="ton"> #H
+\vc <langue="eng" dom="ton"> #H
+\vc <langue="cmn" dom="ton"> #H
 \va <speaker="M23"> ku˧ʂe˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \pdv mi˩
 \de Flea.
 \ge flea
@@ -33336,6 +33360,8 @@
 \sy sɯ˧ʈv̩˥
 \so F4
 \vc <langue="fra" dom="ton"> MH
+\vc <langue="eng" dom="ton"> MH
+\vc <langue="cmn" dom="ton"> MH
 \pdv ɭɯ˧β
 \de Callus.
 \ge callus
@@ -34870,6 +34896,8 @@
 \va <speaker="F5"> ɬɯ˩
 \nt <type="hist" print="n" langue="fra"> F5 confirme qu'elle prononce /ɬɯ/ et pas /ɬv/. Cette prononciation est stable: elle apparaît à l'isolée ainsi que dans /hɑ˧ ɬɯ˧˥/ `réchauffer de la nourriture'.
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> M21 dit /hɑ˧ ɬv̩˧˥/, /hɑ˧ ɬv̩˧-ze˥/, comme F4. En revanche, la forme rédupliquée n'est pas /ɬv̩˧~ɬv̩˥/ comme chez F4, mais /ɬv̩˩~ɬv̩˩˥/: /hɑ˧ ɬv̩˥~ɬv̩˩/, /(hɑ˧ | ) le˧-ɬv̩˩~ɬv̩˩
 \de To warm up (food).
@@ -35910,6 +35938,8 @@
 \so F4
 \va <speaker="F5"> mi˧pɤ˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> *
 \vc <langue="fra" print="n"> fournit le mot pour 'blessure': mi˥ tʰv̩˥
 \va <speaker="M21"> *
@@ -36166,6 +36196,8 @@
 \so F4
 \va <speaker="F5"> mɤ˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M21"> ID.
 \de Animal fat.
 \ge animal_fat
@@ -37089,6 +37121,8 @@
 \so F4
 \va <speaker="F5"> mv̩˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \vc <type="hist" print="n" langue="fra"> Confirmé: locutrice F4 et locutrice F5 n'ont pas le même ton pour ce mot.
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
@@ -37132,6 +37166,8 @@
 \so F4
 \va <speaker="F5"> mv̩˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv æ̃˩
@@ -42743,6 +42779,8 @@
 \lc ɳv̩˩˥
 \so F4
 \vc <langue="fra" dom="ton"> #H
+\vc <langue="eng" dom="ton"> #H
+\vc <langue="cmn" dom="ton"> #H
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.　xxxx
 \pdv mi˩
@@ -42892,6 +42930,8 @@
 \so F4
 \va <speaker="F5"> ɳɯ˩hu#˥
 \vc <langue="fra" dom="ton"> L+#H
+\vc <langue="eng" dom="ton"> L+#H
+\vc <langue="cmn" dom="ton"> L+#H
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv v̩˥
@@ -43761,6 +43801,8 @@
 \so F4
 \va <speaker="F5"> ũ˧dv̩˧˥
 \vc <langue="fra" dom="ton"> MH#
+\vc <langue="eng" dom="ton"> MH#
+\vc <langue="cmn" dom="ton"> MH#
 \va <speaker="M18"> õ˧dv̩˧˥
 \vc <langue="fra" print="n"> donne: õ˧dv̩˧ kʰv̩˥mi˩ “chien-loup"
 \va <speaker="M21"> ID.
@@ -46218,6 +46260,8 @@
 \so F4
 \va <speaker="F5"> pɤ˩ti˩
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> pɤ˧ti˥
 \va <speaker="M21"> pɤ˩ti˧˥
@@ -47379,7 +47423,7 @@
 \so F4
 \va <speaker="F5"> pʰɻ̩˩tɕæ˩˥
 \vc <langue="fra" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, par laquelle l'expression de trois syllabes se réduit à deux: /|fv{pʰɻ̩˩tɕæ˩˥ (+gv̩˩)}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
-\vc <langue="eng" dom="phono"> Coalescence de la syllabe /|fv{ɻæ}/, donnant: /|fv{pʰɻ̩˩tɕæ˩˧ gv̩˩}/; la syllabe /|fv{ɻæ}/ est perdue, même en débit lent, dans lequel la locutrice prononce syllabe par syllabe.
+\vc <langue="eng" dom="phono"> The syllable /|fv{ɻæ}/ is coalescent with the preceding syllable, reducing the expression from three syllables to two: /|fv{pʰɻ̩˩tɕæ˩˥ (+gv̩˩)}/. The syllable /|fv{ɻæ}/ is lost, even in slow speech, when the speaker pronounces syllable by syllable.
 \vc <langue="cmn" dom="phono"> /|fv{ɻæ}/音节的弱化，使三个音节的/|fv{pʰɻ̩˩-tɕæ˩ɻæ˥}/减为两个：/|fv{pʰɻ̩˩tɕæ˩˥}/；/|fv{ɻæ}/丢失，甚至在慢速说话中也不出现。
 \va <speaker="M18"> pʰɻ̩˩tɕæ˩ɻ̩˩
 \de Very white.
@@ -51096,7 +51140,9 @@
 \so F4
 \va <speaker="F5"> jɥe˩tsɯ˧
 \va <speaker="M21"> jɥen˩dzɯ˧
-\vc <langue="fra" dom="phono"> Le voisement de l'initiale /|fv{dz}/ par ce locuteur est confirmé.
+\nt <langue="fra" dom="dialect"> Il existe une importante variation entre locutrices pour cet emprunt. Il est bien confirmé que l'initiale est voisée chez F4 (qui prononce /|fv{jæ˩dzɯ˧}/) et chez M21 (qui prononce /|fv{jɥen˩dzɯ˧}/), tandis que F5 prononce /|fv{jɥe˩tsɯ˧}/, avec une initiale non voisée.
+\nt <langue="eng" dom="dialect"> There is considerable variation between speakers for this loanword. It is well confirmed that the initial is voiced in the speech of F4 (who pronounces /|fv{jæ˩dzɯ˧}/) and M21 (who pronounces /|fv{jɥen˩dzɯ˧}/), while F5 pronounces /|fv{jɥe˩tsɯ˧}/, with an unvoiced initial.
+\nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。F4（发音为/|fv{jæ˩dzɯ˧}/）和 M21（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而F5则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge 园子::vegetable_garden
@@ -51117,9 +51163,7 @@
 \ton M
 \so F4
 \va <speaker="F5"> *
-\vc <langue="fra" print="n"> La locutrice recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; la locutrice prononce: /jɥe˩tsɯ˧/).
 \va <speaker="M21"> *
-\vc <langue="fra" print="n"> Le locuteur recourt à un emprunt (voir l'entrée synonyme /jæ˩dzɯ˧/; le locuteur prononce: /jɥen˩dzɯ˥/).
 \pdv kɤ˧˥
 \de Vegetable garden.
 \ge vegetable_garden
@@ -54961,8 +55005,10 @@
 \lc ʁwɤ˧qʰv̩˧
 \so F4
 \va <speaker="M18"> ID.
-\va <speaker="M23"> ʁwɤ˧qʰv̩˧dʑɯ#˥
-\vc <langue="fra" dom="morpho"> Pour le locuteur M23, le disyllabe est incomplet, et le terme est nécessairement trisyllabique.
+\va <speaker="M23"> *
+\vc <langue="fra" dom="morpho"> Pour le locuteur M23, le disyllabe est incomplet, et le terme est nécessairement trisyllabique: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
+\vc <langue="eng" dom="morpho"> For speaker M23, the disyllable is incomplete, and the term is necessarily trisyllabic: |fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}.
+\vc <langue="cmn" dom="morpho"> M23认为双音节的|fv{ʁwɤ˧qʰv̩˧}不完整，该词必然是三音节：|fv{ʁwɤ˧qʰv̩˧dʑɯ#˥}。
 \pdv ɭɯ˧β
 \de Cave, cavern.
 \ge cave
@@ -54970,7 +55016,6 @@
 \gn 山洞
 \df Grotte, caverne.
 \gf grotte
-\dt 02/Oct/2015
 
 \lx ʁwɤ˧qʰv̩˧dʑɯ#˥
 \sf <nb="B"> 35b
@@ -56018,6 +56063,8 @@
 \so F4
 \va <speaker="F5"> sɑ˩mi˧˥
 \vc <langue="fra" dom="ton"> L+MH#
+\vc <langue="eng" dom="ton"> L+MH#
+\vc <langue="cmn" dom="ton"> L+MH#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kɤ˧˥
@@ -59635,7 +59682,6 @@
 \nt <type="hist" print="n" langue="fra"> extrait d'un trisyllabe, ‘container en plastique', |fn{塑料桶}; tons vérifiés en 2017: est MH#, et non M.
 \ton MH#
 \so F4
-\vc <langue="fra" dom="ton"> L
 \de Plastic.
 \ge 塑料桶::plastic
 \dn 塑料
@@ -59653,7 +59699,6 @@
 \sd <langue="eng"> object
 \ton MH#
 \so F4
-\vc <langue="fra" dom="ton"> L
 \pdv ɭɯ˧β
 \de Plastic jerrican; used to store and transport drinking water.
 \ge 塑料桶::plastic_container
@@ -59779,6 +59824,8 @@
 \sd <langue="eng"> body
 \so F4
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \pdv ɭɯ˧β
 \de Blister (on the hands or feet), raised spot.
 \ge blister/raised_spot
@@ -61835,18 +61882,18 @@
 \lx ʈʰæ˧mi˧-ɳɯ˩
 \or taemi nee
 \ps adv
+\sy ʈʰææ̃˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> À partir de décembre 2011, la notation de la forme réduite est uniformisée en: [|fv{ʈʰææ̃˧}]. L'application aux textes se fait manuellement au cas par cas.
 \nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
-\nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}]. C'est cette dernière forme qui est actuellement utilisée (depuis 2011) en vue d'uniformiser une notation de la forme réduite.
-\nt <dom="phono" langue="eng"> This expression typically undergoes drastic phonetic reduction, to the point where a notation using the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ looks like a mannerism. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}]. It is the latter form that is currently used (since 2011) with a view to standardizing a notation for the reduced form.
-\nt <dom="phono" langue="cmn"> 这个词通常大大简化，以至于使用完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/来转写似乎不合适了。简化发音接近 [|fv{ʈʰæː˧}]（没有明显的鼻音）或 [|fv{ʈʰæ̃˧}]。目前（自 2011 年起）使用的是后一种写法，目的是将缩略形式的转写标准化。
+\nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}].
+\nt <dom="phono" langue="eng"> This expression typically undergoes drastic phonetic reduction, to the point where a notation using the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ looks like a mannerism. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}].
+\nt <dom="phono" langue="cmn"> 这个词通常大大简化，以至于使用完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/来转写似乎不合适了。简化发音接近 [|fv{ʈʰæː˧}]（没有明显的鼻音）或 [|fv{ʈʰæ̃˧}]。
 \ton L#
 \lc ʈʰæ˧mi˧ɳɯ˩
 \so F4
 \va <speaker="F4"> ʈʰææ̃˧
-\vc <langue="fra" dom="phono"> La réalisation la plus courante est fortement réduite, proche de [|fv{ʈʰææ̃˧}].
 \de Really, actually, in actual fact.
 \ge really
 \dn 真的
@@ -61857,7 +61904,26 @@
 \xe (S)he is really ill!
 \xn 他真的病了！
 \xf Il/elle est vraiment malade!
-\dt 29/Jul/2017
+
+\lx ʈʰææ̃˧
+\ps adv
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\nt <type="hist" print="n" langue="fra"> À partir de décembre 2011, la notation de la forme réduite est uniformisée en: [|fv{ʈʰææ̃˧}]. L'application aux textes, en remplacement de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/, se fait manuellement au cas par cas.
+\nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
+\nt <dom="phono" langue="fra"> Cette expression constitue une simplification de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}]. C'est cette dernière forme qui est actuellement utilisée (depuis 2011) en vue d'uniformiser une notation de la forme réduite.
+\nt <dom="phono" langue="eng"> This expression constitutes a drastic phonetic reduction of the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}]. It is the latter form that is currently used (since 2011) with a view to standardizing a notation for the reduced form.
+\nt <dom="phono" langue="cmn"> 这个词是完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/的简化。实际发音接近[|fv{ʈʰæː˧}]（没有明显的鼻音）或[|fv{ʈʰæ̃˧}]。目前（自 2011 年起）使用的是后一种写法。
+\ton M
+\sy ʈʰæ˧mi˧-ɳɯ˩
+\so F4
+\va <speaker="F4"> ID.
+\de Really, actually, in actual fact. (Reduced form of |fv{ʈʰæ˧mi˧-ɳɯ˩}.)
+\ge really
+\dn 真的。（|fv{ʈʰæ˧mi˧-ɳɯ˩}的简化发音。）
+\gn 真的
+\df Vraiment, réellement. (Forme réduite de |fv{ʈʰæ˧mi˧-ɳɯ˩}.)
+\gf vraiment
 
 \lx tʰɑ˩mi#˥
 \or tami
@@ -63903,6 +63969,8 @@
 \lc tɕɤ˧fv̩˩
 \so F4
 \vc <langue="fra" dom="ton"> L
+\vc <langue="eng" dom="ton"> L
+\vc <langue="cmn" dom="ton"> L
 \pdv ɭɯ˧β
 \de Container for liquids, such as plastic jerricans; used to store and transport drinking water.
 \ge container_for_liquids
@@ -66553,7 +66621,6 @@
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥/) avant 2011: noté qæ, par erreur
 \nt <dom="sem" langue="fra"> littéralement «fleur qui vous donne une chiquenaude au front»
 \so F4
-\vc <langue="fra" dom="ton"> -L | L
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude"
 \pdv bæ˩
@@ -70231,6 +70298,8 @@
 \so F4
 \va <speaker="F5"> tsɯ˧gi˧
 \vc <langue="fra" dom="ton"> M
+\vc <langue="eng" dom="ton"> M
+\vc <langue="cmn" dom="ton"> M
 \va <speaker="M21"> tsɯ˧gi#˥
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
@@ -71213,6 +71282,7 @@
 \va <speaker="M23"> ID.
 \vc <langue="fra" dom="dialect"> La seconde syllabe, |fv{ɖɯ˧}, est prononcée très proche de [|fv{ɖɤ˧}] par M23.
 \vc <langue="eng" dom="dialect"> The second syllable, |fv{ɖɯ˧}, is realized very close to [|fv{ɖɤ˧}] by M23.
+\vc <langue="cmn" dom="dialect"> 第二个音节（|fv{ɖɯ˧}）在M23的实际发音中接近[|fv{ɖɤ˧}]。
 \de To give birth (cattle).
 \ge to_give_birth
 \dn 生崽子（牛类）
@@ -72913,6 +72983,8 @@
 \so F4
 \va <speaker="F5"> ʈʰɯ˥
 \vc <langue="fra" dom="ton"> #H
+\vc <langue="eng" dom="ton"> #H
+\vc <langue="cmn" dom="ton"> #H
 \va <speaker="M18"> ʈʰɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʈʰɯ˥
@@ -73884,7 +73956,6 @@
 \lc ʈʂʰv̩˧ɻ̩˧qʰv̩˧
 \so F4
 \va <speaker="F5"> ʈʂʰɻ̩˧ɻ̩˧-qʰv̩˧dzɯ#˥
-\vc <langue="fra" dom="ton"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̩˧-ʑi˧kʰwɤ˥; ʈʂʰv̩˧ɻ̩˧-qʰv̩#˥
 \pdv ɭɯ˧β
 \de Ant nest.
@@ -76460,7 +76531,12 @@
 \so F4
 \va <speaker="F5"> v̩˩tsʰɤ#˥
 \vc <langue="fra" dom="ton"> L+#H
+\vc <langue="eng" dom="ton"> L+#H
+\vc <langue="cmn" dom="ton"> L+#H
 \va <speaker="M18"> v̩˩tsʰɤ˧
+\vc <langue="fra" dom="ton"> LM
+\vc <langue="eng" dom="ton"> LM
+\vc <langue="cmn" dom="ton"> LM
 \vc <langue="fra" print="n"> ton d5b; tons confirmés
 \va <speaker="M21"> u˩tsʰɤ˧˥
 \vc <langue="fra" print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
@@ -77678,8 +77754,8 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧ʁo˥ | ʐɤ˩ bæ˩˥
-\nt <langue="fra" dom="dialect"> M18 possède une prononciation idiosyncratique: pour désigner l'éclair, il a créé la formule /|fv{ʐɤ˩ bæ˩˥}/, «le chemin court», à caractère poétique.
-\nt <langue="eng" dom="dialect"> M18 has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
+\vc <langue="fra" dom="dialect"> M18 possède une prononciation idiosyncratique: pour désigner l'éclair, il a créé la formule /|fv{ʐɤ˩ bæ˩˥}/, «le chemin court», à caractère poétique.
+\vc <langue="eng" dom="dialect"> M18 has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
 \vc <langue="cmn" dom="dialect"> M18创造了独特的创新：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创作）。
 \va <speaker="M21"> ID.
 \pdv bæ˩
