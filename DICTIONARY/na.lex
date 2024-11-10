@@ -74,7 +74,7 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> L'élicitation du composé |fn{红铜}, littéralement «cuivre rouge», aboutit à un calque créé pour la circonstance, avec les hésitations qu'on peut imaginer, et une fluctuation phonologique: tantôt |fv{‡æ˥hṽ̩˩˥} (en 2006), tantôt |fv{‡æ˩hṽ̩˥} puis |fv{‡æ˩hṽ̩˧} (en 2007), tantôt |fv{‡æ˧hṽ̩˥} (en 2008). En 2009: il ressort que cette expression n'est pas usitée.
-\ton H
+\ton #H
 \lc æ̃˧
 \so F4
 \va <speaker="F5"> æ̃˧
@@ -10526,7 +10526,7 @@
 \nt <dom="sem" langue="fra"> La forme monosyllabique /|fv{dʑi˥}/ apparaît en composition avec /|fv{nɑ˩˧}/ `les Na' dans le dicton /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!}/ «le vêtement des Na, c'est du chanvre!», dans l'expression `vêtement mortuaire', et dans quelques autres expressions. Elle n'est pas aisément intelligible hors de ces contextes qui lèvent l'ambiguïté.
 \nt <dom="sem" langue="eng"> The monosyllabic form /|fv{dʑi˥}/ appears in a compound with the noun /|fv{nɑ˩˧}/ ‘the Na’ in the saying /|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧!}/ ‘the Na's garments are (made of) hemp’, in the expression ‘funeral garment’, and in a few other expressions. It is not easily understood outside these contexts, presumably due to widespread homophony.
 \nt <dom="sem" langue="cmn"> 单音节词/|fv{dʑi˥}‘衣服’出现很少。例子包括：与/|fv{nɑ˩˧}/‘摩梭人’结合成/|fv{nɑ˩-dʑi˧(-dʑo˧), | sɑ˧！ }/“摩梭人的衣服是麻做的的”，还有在‘寿衣’和其他一些词也出现。
-\ton H
+\ton #H
 \so F4
 \va <speaker="F5"> ID.
 \pdv ɭɯ˧β
@@ -46127,7 +46127,7 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\ton H
+\ton #H
 \sy pɤ˩mi˩
 \lc --
 \nt <type="hist" print="n" langue="fra"> xxxx déterminer le ton de ‘viande de grenouille’. Hypothèse: sera un ton H flottant, #H (forme de surface: /|fv{pɤ˧ ʂe˧, pɤ˧ ʂe˧ ɲi˥}/). Tester également ‘peau de grenouille’ et ‘queue de grenouille’.
@@ -51303,9 +51303,9 @@
 \df Une sorte d'arbuste d'environ 1 mètre 50 à 2 mètres de haut.
 \gf arbuste_sp
 \xv qʰwæ˩kɤ˩-dzi˩˥
-\xe same meaning as the main entry, with addition of the classifier for trees, /|fv{dzi˩β}/.
-\xn 同上
-\xf même sens
+\xe same meaning as the main entry, with addition of the |fg{classifier} for trees, /|fv{dzi˩β}/.
+\xn 同上（与/|fv{qʰwæ˩kɤ˩}/含义相同，但增加了树的量词：/|fv{dzi˩β}/）。
+\xf même sens que l'entrée principale, avec l'ajout du |fg{classificateur} des arbres, /|fv{dzi˩β}/).
 \xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ ≈ qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩
 \xe to arrange (to set) branches of this shrub to make a fence (so that the cattle don't get through)
 \xn 将这种灌木的枝条安装成栅栏（以免牛群通过）。
@@ -52361,10 +52361,6 @@
 \gn 牛轭
 \df Joug (le terme est le même pour un ou deux animaux).
 \gf joug
-\xv ʝi˧-ɻæ˥
-\xe same meaning as the monosyllabic form: yoke (literally ‘ox yoke')
-\xn 牛轭
-\xf même sens que la forme monosyllabique: joug; littéralement ‘joug de bœuf/buffle'
 \xv ɻæ˩ ʈʂʰɯ˩-ɭɯ˥ / ɻæ˩ ʈʂʰɯ˩-ɭɯ˩˥
 \xe 〜 |fg{dem} |fg{clf}; allows two variants
 \xn 这个牛轭
@@ -52372,6 +52368,25 @@
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有两种声调变体。
+
+\lx ʝi˧-ɻæ˥
+\mr ʝi˥1
+\mr ɻæ˩˥2
+\or yilae
+\ps n
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\nt <type="hist" print="n" dom="ton" langue="fra"> xxxx vérifier le ton du disyllabe: H# ou H$.
+\ton H#
+\lc ʝi˧ɻæ˥
+\so F4
+\pdv ɭɯ˧β
+\de Yoke for oxen (this is a compound: ‘ox yoke').
+\ge yoke
+\dn 牛轭（单行或双行）
+\gn 牛轭
+\df Joug (composé: littéralement ‘joug de bœuf').
+\gf joug
 
 \lx ʁæ˩˥
 \or hraeq
@@ -52387,10 +52402,23 @@
 \gn 树液
 \df Sève, résine.
 \gf sève/résine
-\xv tʰo˩ʁæ˩˥
-\xe same meaning
-\xn 同上
-\xf même sens
+
+\lx tʰo˩ʁæ˩
+\mr ʁæ˩˥
+\or tohrae
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L
+\lc tʰo˩ʁæ˩˥
+\cf tʰo˧dzi˩
+\so F4
+\de Pine resin.
+\ge resin
+\dn 松脂
+\gn 松脂
+\df Résine de pin.
+\gf résine
 
 \lx ʁæ˧
 \sf <nb="B"> 1048
@@ -53125,9 +53153,9 @@
 \xn 他欺负人、他对人发脾气
 \xf elle/il provoque/humilie quelqu'un d'autre
 \xv ʁɑ˧ ʐwɤ˧-ɻ̩˥
-\xe as above
-\xn 同上
-\xf même sens
+\xe 〜 |fg{inceptive}: to start humiliating (someone)
+\xn 〜 |fg{发端}
+\xf 〜 |fg{inchoatif}: se mettre à humilier (quelqu'un)
 \xv no˧ | ʁɑ˧ ʐwɤ˧-tʰɑ˧-ɻ̩˥! ≈ ʁɑ˧ ʐwɤ˧˥ | tʰɑ˧-ɻ̩˩!
 \xe Don't browbeat people!
 \xn 你不要欺负人！
@@ -54036,6 +54064,7 @@
 \cf tse˧di˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
+\sy ʁo˩kʰv̩˩-si˩
 \ton L
 \lc ʁo˩kʰv̩˩˥
 \so F4
@@ -54046,11 +54075,26 @@
 \gr 柏香
 \df Arbre à épice, arbre à encens de petite taille, qui pousse en montagne, dans les espaces ombragés.
 \gf arbre_à_épice
-\xv ʁo˩kʰv̩˩-si˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 13/May/2016
+
+\lx ʁo˩kʰv̩˩-si˩
+\or wokusee
+\mr ʁo˩kʰv̩˩
+\mr si˥
+\ps n
+\cf tse˧di˧
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\sy ʁo˩kʰv̩˩
+\ton L
+\lc ʁo˩kʰv̩˩-si˩˥
+\so F4
+\de Sandalwood, sandlewood. Same meaning as /|fv{ʁo˩kʰv̩˩}/, with addition of the word for `wood', /|fv{si˥}/.
+\ge sandalwood
+\dn 香木（与/|fv{ʁo˩kʰv̩˩}/含义相同，但增加了‘木’这个名词：/|fv{si˥}/）。
+\gn 香木
+\gr 柏香
+\df Arbre à épice, arbre à encens de petite taille, qui pousse en montagne, dans les espaces ombragés. Même sens que /|fv{ʁo˩kʰv̩˩}/, avec l'ajout du nom `bois', /|fv{si˥}/.
+\gf arbre_à_épice
 
 \lx ʁo˧ɬi˥
 \sf <nb="2011"> 802
@@ -54680,7 +54724,7 @@
 \gn 黑颈鹤
 \df Grue, |fi{Grus nigricollis Przew} et autres espèces similaires. Il s'agit d'un oiseau migrateur, qui quitte Yongning l'hiver pour se rendre en plus basse altitude.
 \gf grue
-\xv ʁv̩˧nɑ˥mi˩
+\xv ʁv̩˧nɑ˥mi˩ xxxx
 \xe same meaning: crane
 \xn 同上：黑颈鹤
 \xf même sens: grue
@@ -60785,7 +60829,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\ton H
+\ton #H
 \lc ʂv̩˧
 \cf ʂv̩˧kʰɯ˩
 \so F4
@@ -63963,7 +64007,7 @@
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \nt <dom="usage" langue="fra"> La mise au pluriel n'est pas possible (pour dire quelque chose comme «toutes les directions», «plusieurs directions»...)
-\ton H
+\ton #H
 \so F4
 \de Direction.
 \ge direction
@@ -81829,7 +81873,7 @@
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra" print="n" type="hist"> Avant 2012: glosé comme 名物化, |fg{nmlz}: «Nominalisateur générique. Emploi le plus fréquent: pour l'agent. (Liberty Lidz)»
 \ton H
-\lc hĩ˧
+\lc --
 \so F4
 \de Relativizer and nominalizer.
 \ge |fg{rel}/|fg{nmlz}

@@ -22,6 +22,10 @@ using Pkg
 Pkg.add("ZipFile")
 Pkg.update()
 
+Ajout d'Alexis
+sudo chmod -R 777 /home/dom/Lexika/JLexika
+
+
 Pour refaire tourner : (tout faire)
 ouvrir le dossier JLexika dans un terminal, puis exécuter la commande suivante :
 julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf
