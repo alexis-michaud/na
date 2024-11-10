@@ -40731,11 +40731,11 @@
 \gn 吉利日
 \df Un jour propice.
 \gf |fg{clf.jours}
-\xv ɲi˧ŋwɤ˩hɑ̃˩tʰɑ˩ xxxxxx
-\xe same meaning: auspitious day
-\xn 同上：吉利日
-\xf même sens: jour propice
-\xv ɲi˧ŋwɤ˩hɑ̃˩tʰɑ˩ | ɖɯ˧-ɲi˥
+\xv ɲi˧ŋwɤ˩ hɑ̃˩tʰɑ˩
+\xe An auspitious time, an auspicious period (/|fv{hɑ̃˧tʰɑ˥}/: `time, moment').
+\xn 吉利时机（/|fv{hɑ̃˧tʰɑ˥}/：‘时间、时候、时机’）
+\xf Moment propice, période propice (/|fv{hɑ̃˧tʰɑ˥}/: `temps, moment, période').
+\xv ɲi˧ŋwɤ˩ hɑ̃˩tʰɑ˩ | ɖɯ˧-ɲi˥
 \xe an auspitious day
 \xn 吉利的一天
 \xf un jour propice
@@ -40899,10 +40899,9 @@
 \df Bâtiment d'habitation; littéralement ‘le bâtiment à deux étages', car c'est le seul qui ait des salles sur deux étages. Ce bâtiment se trouve face à l'entrée de la ferme.
 \gf bâtiment_à_deux_étages
 \xv ɲi˧-ʈʂæ˧-ʑi˧-di˥
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 25/Apr/2017
+\xe Same meaning as the main entry: ‘the two-floor building'.
+\xn 同上：二层房（农场里面的一栋楼，正对着农场大门）
+\xf Même sens: le bâtiment d'habitation (littéralement ‘le bâtiment à deux étages').
 
 \lx ɲi˩ʈʂe˩
 \or nizhei
@@ -46111,6 +46110,8 @@
 \sd <langue="eng"> animal
 \comp <langue="pmi"> pʌ55di51
 \nt <type="hist" print="n" langue="fra"> (n'est pas ton d5), vérifié avec F5 et F4 en 2007 (historique 2006: “puə˩mi˩˥; d'abord noté pɤ˩mi˩˥")
+\cf hæ̃˧ʂɯ˩-pɤ˩mi˩
+\cf dʑɯ˩-pɤ˩mi˩
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -46126,28 +46127,111 @@
 \xe female frog and male frog
 \xn 母青蛙与公青蛙
 \xf grenouille femelle et grenouille mâle
-\xv pɤ˩mi˩-ʝi˥pʰv̩˩
-\xe A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}.
-\xn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。
-\xf grosse grenouille (ou crapaud); animal très courant dans la plaine. C'est l'une des trois sortes de grenouilles que connaît la locutrice. Cet animal n'est pas consommé par les Naxi (ni par les Na, qui ne mangent aucune grenouille). La locutrice emploie ce terme pour |fi{Kaloula verrucosa} et |fi{Rana chaochiaoensis}.
-\xv pɤ˩mi˩-ʝi˥pʰv̩˩-mi˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\xv hæ̃˧ʂɯ˩-pɤ˩mi˩
-\xe A beautiful species of frog, with a long body. It is only found in the forest, on the mountain. This is the second of three species distinguished by the consultant.
-\xn 一种很美的青蛙，身体很长。只出现在山上森林里。这是发音合作人认识的第二种青蛙。
-\xf Belle grenouille, de longue taille. Elle ne s'observe qu'en forêt, dans la montagne. C'est la deuxième des trois sortes de grenouilles que connaît la locutrice.
-\xv dʑɯ˩-pɤ˩mi˩˥
-\xe A species of frog with a small head and large eyes, considered by the consultant as spending most of the time in the water. This is the third of three species of frogs distinguished by the consultant. The Naxi hunt it, especially in the fifth month.
-\xn 一种青蛙，头小、眼睛大。这是发音合作人认识的第三种青蛙。纳西族吃这种青蛙。
-\xf Grenouille ayant une petite tête et de grands yeux, qui passerait le plus clair de son temps dans l'eau. C'est la troisième des trois sortes de grenouilles que connaît la locutrice. Les Naxi la chassent, la dénichant sous les cailloux des ruisseaux, surtout au cinquième mois.
+
+\lx †pɤ˥
+\or be
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton H
+\sy pɤ˩mi˩
+\lc --
+\nt <type="hist" print="n" langue="fra"> xxxx déterminer le ton de ‘viande de grenouille’. Hypothèse: sera un ton H flottant, #H (forme de surface: /|fv{pɤ˧ ʂe˧, pɤ˧ ʂe˧ ɲi˥}/). Tester également ‘peau de grenouille’ et ‘queue de grenouille’.
+\nt <dom="ton" langue="fra"> Le ton de la racine est obtenu en faisant l'hypothèse selon laquelle les diverses formes disyllabiques sont le produit de règles tonales régulières. Le nom composé ‘viande de grenouille’, /|fv{pɤ˧ ʂe˧}/ (avec pour tête /|fv{ʂe˥}/, au ton H), amène à écarter l'hypothèse d'un ton LM, LH, L ou MH. Restent M et H. ‘Queue de grenouille’ n'apporte pas d'argument clair, le ton du monosyllabe ‘queue’ n'étant pas encore établi. ‘Peau de grenouille’ (M.M en surface, analysé comme //M// ou //#H// sous-jacent) est inattendu, un composé avec tête au ton LH ne pouvant avoir un schéma M.M (voir tableau 3.2a du livre de 2017). Le nom disyllabique ‘grenouille’, /|fv{pɤ˩mi˩}/, présente le même ton (L) que /|fv{ʐwæ˩mi˩}/ ‘jument’, ce qui est compatible avec l'hypothèse d'une racine au ton H (comme ‘cheval’). L'hypothèse provisoirement retenue est donc celle d'un ton H.
+\nt <dom="ton" langue="eng"> The root's tone is arrived at by making the assumption that the various disyllabic forms are the product of regular tone rules. The compound noun ‘frog meat’, /|fv{pɤ˧ ʂe˧}/ (with the head, /|fv{ʂe˥}/, in the H tone), leads us to rule out the hypothesis of an LM, LH, L or MH tone. This leaves M and H. ‘Frog tail’ does not provide any clear evidence, as the tone of the monosyllable ‘tail’ has not yet been established. ‘Frog skin’ (M.M on the surface, analyzed as underlying //M// or //#H//) is unexpected, as a compound with LH-tone head cannot have an M.M pattern (see Table 3.2a in the 2017 book). The disyllabic noun ‘frog’, /|fv{pɤ˩mi˩}/, has the same tone (L) as /|fv{ʐwæ˩mi˩}/ ‘mare’, which is compatible with the hypothesis of an H-tone root (like ‘horse’). The provisional hypothesis is therefore that of an H tone.
+\nt <dom="ton" langue="cmn"> 假定含‘蛙’的各种双音节词都是按照规范的声调规则而生成的，就可以得到关于词根声调的假设。在复合名词‘青蛙肉’（/|fv{pɤ˧ ʂe˧}/，其中/|fv{ʂe˥}/‘肉’是H本调）的基础上，可以排除LM、LH、L或MH调的假设。‘蛙尾巴’这个复合词不提供明确的论据，因为单音节‘尾巴’的声调尚未确定。‘青蛙皮’（表层为M.M，底层能是//M//或//#H//）出乎意料，因为带有LH调的复合词按常规不可能有M.M调（见《永宁摩梭话的声调》，表3.2a）。双音节名词‘青蛙’（/|fv{pɤ˩mi˩}/）与‘母马’（/|fv{ʐwæ˩mi˩}/）的声调相同，这与H调词根的假设相符。因此，临时假设是H调。
+\so F4
+\de Frog (monosyllabic root extracted from the disyllable).
+\ge frog(monosyll.)
+\dn 青蛙（从双音节词提取的单音节词根）
+\gn 青蛙
+\df Grenouille (racine déduite du disyllabe).
+\gf grenouille(monosyll.)
 \xv nɑ˩hĩ˥ | pɤ˧-ʂe˧ dzɯ˧; | pɤ˧-ɣɯ˧ | ɬɑ˧tɑ˥ mv̩˩! | pɤ˧-mæ˧, | bæ˧ʈʂo˥ ʝi˩!
 \xe “The Naxi eat frog meat; they wear vests made of frog skin; and they make brooms with frog tails!"
 \xn 谚语：“纳西人吃青蛙，披青蛙皮衣，蛙尾巴当扫帚！”
 \xf «Les Naxi mangent de la viande de grenouille; ils se vêtent de gilets en peau de grenouille; ils se font des balais avec la queue des grenouilles!»
 \xc PROVERBE
-\dt 27/Apr/2017
+
+\xv dʑɯ˩-pɤ˩mi˩
+\or jjibemi
+\mr dʑɯ˩
+\mr pɤ˩mi˩
+\ps n
+\lc dʑɯ˩pɤ˩mi˩˥
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton L
+\so F4
+\pdv mi˩
+\de A species of frog with a small head and large eyes, considered by the consultant as spending most of the time in the water. This is the third of three species of frogs distinguished by the consultant. The Naxi hunt it, especially in the fifth month.
+\ge frog_sp
+\dn 一种青蛙，头小、眼睛大。这是发音合作人认识的第三种青蛙。纳西族吃这种青蛙。
+\gn 一种青蛙
+\df Grenouille ayant une petite tête et de grands yeux, qui passerait le plus clair de son temps dans l'eau. C'est la troisième des trois sortes de grenouilles que connaît la locutrice. Les Naxi la chassent, la dénichant sous les cailloux des ruisseaux, surtout au cinquième mois.
+\gf grenouille_sp
+
+\lx hæ̃˧ʂɯ˩-pɤ˩mi˩
+\or haenshi bemi
+\mr hæ̃˧ʂɯ˩-
+\mr pɤ˩mi˩
+\ps n
+\lc hæ̃˧ʂɯ˩pɤ˩mi˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\cf dʑɯ˩-pɤ˩mi˩
+\ton L#-
+\so F4
+\pdv mi˩
+\de A beautiful species of frog, with a long body. It is only found in the forest, on the mountain. This is the second of three species distinguished by the consultant.
+\ge frog_sp
+\dn 一种很美的青蛙，身体很长。只出现在山上森林里。这是发音合作人认识的第二种青蛙。
+\gn 一种青蛙
+\df Belle grenouille, de longue taille. Elle ne s'observe qu'en forêt, dans la montagne. C'est la deuxième des trois sortes de grenouilles que connaît la locutrice.
+\gf grenouille_sp
+
+\lx pɤ˩mi˩-ʝi˥pʰv̩˩
+\or bemi yipu
+\mr pɤ˩mi˩
+\mr ʝi˧pʰv̩#˥
+\ps n
+\sy pɤ˩mi˩-ʝi˥pʰv̩˩-mi˩
+\lc pɤ˩mi˩ʝi˥pʰv̩˩
+\cf hæ̃˧ʂɯ˩pɤ˩mi˩
+\cf dʑɯ˩-pɤ˩mi˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton L+#H-
+\so F4
+\pdv mi˩
+\de A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}. Literal translation: `bullfrog'.
+\ge large_frog
+\dn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。直译：‘公牛蛙’。
+\gn 大青蛙
+\df Grosse grenouille (ou crapaud); animal très courant dans la plaine. C'est l'une des trois sortes de grenouilles que connaît la locutrice. Cet animal n'est pas consommé par les Naxi (ni par les Na, qui ne mangent aucune grenouille). La locutrice emploie ce terme pour |fi{Kaloula verrucosa} et |fi{Rana chaochiaoensis}. Traduction littérale: `grenouille taureau'.
+\gf crapaud
+
+\lx pɤ˩mi˩-ʝi˥pʰv̩˩-mi˩
+\or bemi yipumi
+\mr pɤ˩mi˩
+\mr ʝi˧pʰv̩#˥
+\mr -mi˩
+\ps n
+\sy pɤ˩mi˩-ʝi˥pʰv̩˩
+\lc pɤ˩mi˩ʝi˥pʰv̩˩mi˩
+\cf hæ̃˧ʂɯ˩pɤ˩mi˩
+\cf dʑɯ˩-pɤ˩mi˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton L+#H-
+\so F4
+\pdv mi˩
+\de A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}. Literal translation: `bullfrog'.
+\ge large_frog
+\dn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。直译：‘公牛蛙’。
+\gn 大青蛙
+\df Grosse grenouille (ou crapaud); animal très courant dans la plaine. C'est l'une des trois sortes de grenouilles que connaît la locutrice. Cet animal n'est pas consommé par les Naxi (ni par les Na, qui ne mangent aucune grenouille). La locutrice emploie ce terme pour |fi{Kaloula verrucosa} et |fi{Rana chaochiaoensis}. Traduction littérale: `grenouille taureau'.
+\gf crapaud
 
 \lx pʰɤ˩mi˩
 \or pemi
@@ -81586,6 +81670,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton LM
+\sy dze˩mi˧
 \lc --
 \so F4
 \de Bee.
