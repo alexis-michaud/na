@@ -6692,7 +6692,7 @@
 \ton L
 \lc dɑ˩˥
 \cf mɤ˧-dɑ˩
-\cf mɤ˧-dɑ˩-mi˩
+\cf mɤ˧-dɑ˩mi˩
 \cf mɤ˧-dɑ˩qʰwɤ˩
 \so F4
 \de Happy.
@@ -10375,10 +10375,16 @@
 \xe a full set of dress, a complete dress
 \xn 一套衣服
 \xf un costume entier, un vêtement
+\xc <dom="phono" langue="fra"> L'expression est ici divisée en deux groupes tonals.
+\xc <dom="phono" langue="eng"> Here, this expression is divided into two tone groups.
+\xc <dom="phono" langue="cmn"> 此处，名词构成一个独立的声调组，而数字与量词的结合也构成一个独立的声调组。
 \xv dʑi˧hṽ̩˧ ɖɯ˧-dzi˩
-\xe a full set of dress, a complete dress (same as preceding example, integrated into a single tone group)
-\xn 一套衣服（同上，但将短语合在一起，构成一个单一的声调短语）
-\xf un costume entier, un vêtement (même sens que l'exemple précédent; intégration en un seul groupe tonal)
+\xe a full set of dress, a complete dress
+\xn 一套衣服
+\xf un costume entier, un vêtement
+\xc <dom="phono" langue="fra"> L'expression est ici intégrée en un seul groupe tonal.
+\xc <dom="phono" langue="eng"> Here, this expression is integrated into a single tone group.
+\xc <dom="phono" langue="cmn"> 此处，整个短语融入了一个单一的声调组。
 
 \lx tʰo˧˥
 \or to
@@ -15920,38 +15926,69 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton H$
+\sy ə˧tse˧-ʝi˥$
+\sy ə˧tse˧-ʝi˧
 \lc ə˧tse˥
 \so F4
-\de Why.
-\ge why
-\dn 为什么
-\gn 为什么
-\df Pourquoi.
-\gf pourquoi
-\xv ə˧tse˧-ʝi˥ ≈ ə˧tse˧-ʝi˧
-\xe Why? (Two variants; same meaning)
-\xn 为什么？（有两个变体，意思一致）
-\xf Pourquoi? (Deux variantes, même sens)
+\de Why?
+\ge why?
+\dn 为什么？
+\gn 为什么？
+\df Pourquoi?
+\gf pourquoi?
+\xv ʈʂʰɯ˧ | ə˧tse˧ ɲi˥-hɯ˩?
+\xe Why is that? / What does that mean?
+\xn 为什么呢？/这是怎么一回事？
+\xf Pourquoi donc? / Qu'est-ce que ça veut dire?
+
+\lx ə˧tse˧-ʝi˥$
+\or aezeiyi
+\ps adv
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton H$
+\lc ə˧tse˧ʝi˥
+\sy ə˧tse˧-ʝi˧
+\sy ə˧tse˥$
+\so F4
+\de Why?
+\ge why?
+\dn 为什么？
+\gn 为什么？
+\df Pourquoi?
+\gf pourquoi?
+\xe Why?
+\xn 为什么？
+\xf Pourquoi?
 \xv no˧ | ə˧tse˧-ʝi˥ | mɤ˧-tsʰɯ˩ ɲi˩?
 \xe Why didn't you come?
 \xn 你为什么没有来？
-\xf Pourquoi tu ne viens pas/n'es pas venu?
+\xf Pourquoi tu n'es pas venu?
 \xv no˧ | ə˧tse˧-ʝi˧-zo˥ | mɤ˧-tsʰɯ˩ ɲi˩?
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
+\xe Why didn't you come?
+\xn 你为什么没有来？
+\xf Pourquoi tu n'es pas venu?
 \xv no˧ | ə˧tse˧-ʝi˥ | mɤ˧-dzɯ˥?
 \xe Why don't you eat?
 \xn 你为什么不吃？
 \xf Pourquoi tu ne manges pas?
 \xv no˧ | ə˧tse˧-ʝi˥ | mɤ˧-dzɯ˧-ɲi˥?
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
-\xv ʈʂʰɯ˧ | ə˧tse˧ ɲi˥-hɯ˩?
-\xe What does that mean?
-\xn 这是怎么一回事？
-\xf Qu'est-ce que ça veut dire?
+\xe Why don't you eat?
+\xn 你为什么不吃？
+\xf Pourquoi tu ne manges pas?
+
+\lx ə˧tse˧-ʝi˧
+\or aezeiyi
+\ps adv
+\sy ə˧tse˧-ʝi˥
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton M
+\lc ə˧tse˧ʝi˧
+\so F4
+\nt <dom="sem" langue="fra"> Il n'a pas été décelé de différence de sens entre les deux variantes |fv{ə˧tse˧-ʝi˧} et |fv{ə˧tse˧-ʝi˥$}.
+\nt <dom="sem" langue="eng"> No difference in meaning has been detected between the two variants |fv{ə˧tse˧-ʝi˧} and |fv{ə˧tse˧-ʝi˥$}.
+\nt <dom="sem" langue="cmn"> 尚未发现|fv{ə˧tse˧-ʝi˧}与|fv{ə˧tse˧-ʝi˥$}这两个变体在意义上的任何区别。
 
 \lx ə˧tso˧
 \sf <nb="B"> 905
@@ -17547,17 +17584,16 @@
 \ton -L
 \so F4
 \pdv ɭɯ˧β
-\de Room where the ancestors are worshipped.
+\de Cult room: room of the spirits, room of the ancestors, where there is an altar. A ritual is performed here every morning. By extension, the name refers to the entire building that houses this room on the farm.
 \ge room_for_worship
 \dn 经堂（拜佛、拜祖先的房间）
 \gn 经堂
-\df Pièce du culte: pièce des esprits, pièce des ancêtres, où se trouve un autel. Un rituel y est effectué chaque matin. Le nom désigne par extension l'intégralité d'un des quatre bâtiments de la ferme traditionnelle na.
+\df Pièce du culte: pièce des esprits, pièce des ancêtres, où se trouve un autel. Un rituel y est effectué chaque matin. Le nom désigne par extension l'intégralité du bâtiment qui, dans la ferme, abrite cette pièce.
 \gf pièce_du_culte
 \xv gɤ˧lɑ˧-ʑi˩-di˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 24/Apr/2017
+\xe Room where the ancestors are worshipped (same meaning as the main entry, with addition of the |fg{locative} /|fv{-di˩}/).
+\xn 经堂（与/|fv{gɤ˧lɑ˧-ʑi˩}/含义相同，但增加了|fg{处所格}：/|fv{-di˩}/。
+\xf Pièce du culte (même sens que l'entrée principale, avec l'ajout du |fg{locatif}, /|fv{-di˩}/).
 
 \lx go˧mi˧
 \sf <nb="B"> 308
@@ -19599,13 +19635,12 @@
 \ge young_lady
 \dn 小姐、公主
 \gn 小姐
-\df Demoiselle de la noblesse.
+\df Demoiselle de la noblesse, princesse.
 \gf demoiselle_noble
 \xv hæ̃˧kʰo˧-mi˧
-\xe same meaning: young lady
-\xn 同上：小姐、公主
-\xf même sens: demoiselle, princesse
-\dt 02/Sep/2015
+\xe Princess, young lady of the nobility (same meaning as the main entry, with addition of the |fg{feminine} suffix, /|fv{-mi˩}/).
+\xn 小姐、公主（与/|fv{hæ̃˧kʰo˧}/含义相同，但增加了|fg{阴性}后缀：/|fv{-mi˩}/）。
+\xf Demoiselle de la noblesse, princesse (même sens que l'entrée principale, avec l'ajout du suffixe |fg{féminin}, /|fv{-mi˩}/).
 
 \lx hæ̃˧kʰɤ˧˥
 \or haenke
@@ -21364,7 +21399,9 @@
 \cf ho˧dʑɯ˧-tɤ˥ɻ̩˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="sem" langue="fra"> même sens que le quadrisyllabe
+\nt <dom="sem" langue="fra"> Il n'a pas été décelé de nuance de sens entre le disyllabe |fv{ho˧dʑɯ˧˥} et le quadrisyllabe |fv{ho˧dʑɯ˧-tɤ˥ɻ̩˩}.
+\nt <dom="sem" langue="eng"> No semantic difference has been detected between disyllabic |fv{ho˧dʑɯ˧˥} and quadrisyllabic |fv{ho˧dʑɯ˧-tɤ˥ɻ̩˩}.
+\nt <dom="sem" langue="cmn"> 尚未发现双音节|fv{ho˧dʑɯ˧˥}与四音节|fv{ho˧dʑɯ˧-tɤ˥ɻ̩˩}之间在语义上的差异。
 \ton MH#
 \so F4
 \de Paste; starch.
@@ -21373,7 +21410,6 @@
 \gn 浆糊
 \df Pâte, colle à base de farine, liquide visqueux.
 \gf pâte
-\dt 24/Apr/2017
 
 \lx ho˧dʑɯ˧-tɤ˥ɻ̩˩
 \sf <nb="B"> 384
@@ -22949,10 +22985,9 @@
 \df Bouleau rouge; son bois est bon, on s'en sert pour fabriquer des araires.
 \gf bouleau_rouge
 \xv hwɤ˩kæ˧-si˧dzi˩
-\xe same meaning: red birch
-\xn 同上：红桦树
-\xf même sens: bouleau rouge
-\dt 24/Apr/2017
+\xe Red birch (same meaning as the main entry, with addition of the word for `tree', /|fv{si˧dzi˩}/).
+\xn 红桦树（与/|fv{hwɤ˩kæ˧}/含义相同，但增加了‘树’这个词：/|fv{si˧dzi˩}/）。
+\xf Bouleau rouge (même sens que l'entrée principale, avec l'ajout du mot `arbre', /|fv{si˧dzi˩}/).
 
 \lx hwɤ˧-kʰv̩˥
 \sf <nb="B"> 760
@@ -23239,10 +23274,9 @@
 \df Cacahuètes.
 \gf cacahuètes
 \xv hwɤ˧se˧-qo˧tv̩˩
-\xe peanuts
-\xn 花生米
-\xf même sens; littéralement «graines de cacahuètes»
-\dt 02/Sep/2015
+\xe Peanuts (same meaning as the main entry, with addition of the word for `kernel, pit', /|fv{qo˧tv̩˩}/).
+\xn 花生米（与/|fv{hwɤ˧se˧}/含义相同，但增加了‘果核’这个词：/|fv{qo˧tv̩˩}/）。
+\xf Cacahuètes (même sens que l'entrée principale, avec l'ajout du mot `noyau, graine', /|fv{qo˧tv̩˩}/).
 
 \lx hwɤ˧tɕi˥
 \sf <nb="B"> 2107
@@ -23263,9 +23297,9 @@
 \df Parelle sauvage, oseille crépue, patience crépue, patience sauvage, |fi{Rumex crispus}. Cette plante constitue l'une des trois sortes de fourrage utilisées pour les cochons; elle est aussi consommée par les humains.
 \gf parelle_sauvage
 \xv hwɤ˧tɕi˥-bæ˩bæ˩
-\xe same meaning
-\xn 同上
-\xf même sens
+\xe curly dock flowers
+\xn 土大黄花
+\xf fleurs de parelle sauvage
 \xv hwɤ˧tɕʰi˥-ʁo˩bv̩˩
 \xe sprouts of curly dock
 \xn 土大黄的嫩芽
@@ -25457,9 +25491,9 @@
 \df La ville de Chengdu, dans le Sichuan.
 \gf Chengdu
 \xv ho˧di˧-jɤ˧ŋɤ˧
-\xe same meaning
-\xn 同上
-\xf même sens
+\xe The city of Chengdu, specifying `in Sichuan' (|fv{ho˧di˧}).
+\xn 成都（这个说法说明：‘ 四川（|fv{ho˧di˧}）成都’）。
+\xf La ville de Chengdu: formulation qui précise `dans le Sichuan' (|fv{ho˧di˧}).
 \xc <dom="ton"> M
 
 \lx jɤ˩pæ˧sɯ˥$
@@ -26184,10 +26218,9 @@
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
 \xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 24/Apr/2017
+\xe A poisonous mushroom (same meaning as the main entry).
+\xn 一种有毒的菌子（同上）
+\xf Un champignon vénéneux (même sens que l'entrée principale).
 
 \lx ki˩ti#˥
 \sf <nb="2011"> 548
@@ -27255,9 +27288,9 @@
 \xn 听别人的建议、把别人的话当回事
 \xf écouter les conseils d'autrui, prêter attention à la parole d'autrui, écouter les bons conseils (attitude jugée positive et souhaitable par la consultante)
 \xv hĩ˧-kɤ˧ʈʂɯ˥ | le˧-ɲi˥
-\xe as above
-\xn 同上
-\xf même sens
+\xe to listen to people's advice, to pay attention to what other people say (a good attitude in the consultant's view)
+\xn 听别人的建议、把别人的话当回事
+\xf écouter les conseils d'autrui, prêter attention à la parole d'autrui, écouter les bons conseils (attitude jugée positive et souhaitable par la consultante)
 \xv hĩ˧-kɤ˧ʈʂɯ˥ | mɤ˧-ɲi˥
 \xe to fail to listen to people's advice
 \xn 听不进去别人的意见与建议
@@ -27267,9 +27300,9 @@
 \xn 她还不怎么听得懂话！（关于一个不会说话的两岁小孩）
 \xf elle ne comprend pas encore grand'chose à ce qu'on dit! / elle ne sait pas encore comprendre ce qu'on dit! (au sujet d'une fillette de moins de deux ans qui ne parle pas encore)
 \xv ʈʂʰɯ˧ | kɤ˧ʈʂɯ˩ | dʑɤ˩˥ | mɤ˧-mv̩˧~mv̩˧-sɯ˥!
-\xe as above
-\xn 同上
-\xf même sens
+\xe She does not really understand yet! (About a toddler aged two who does not yet speak distinctly or follow conversations)
+\xn 她还不怎么听得懂话！（关于一个不会说话的两岁小孩）
+\xf elle ne comprend pas encore grand'chose à ce qu'on dit! / elle ne sait pas encore comprendre ce qu'on dit! (au sujet d'une fillette de moins de deux ans qui ne parle pas encore)
 
 \lx kɤ˧v̩#˥
 \sf <nb="2011"> 558
@@ -28357,9 +28390,9 @@
 \df Pédale du métier à tisser (pour inverser la position verticale des fils de trame entre 2 passages du volant).
 \gf pédale_du_métier_à_tisser
 \xv ɣɯ˧dzo˩-kʰɯ˩tʰv̩˩
-\xe same meaning: pedal of the loom
-\xn 同上
-\xf même sens: pédale du métier à tisser
+\xe Pedal of the loom (same meaning as the main entry, with the word /|fv{ɣɯ˧dzo˩}/ `loom' as the determiner of the compound noun).
+\xn 织布机的踏板（与/|fv{kʰɯ˧tʰv̩#˥}/含义相同，但增加了/|fv{ɣɯ˧dzo˩}/‘织布机’这个词作为复合词的定语）。
+\xf Pédale du métier à tisser (même sens que l'entrée principale, avec l'ajout du nom /|fv{ɣɯ˧dzo˩}/ `métier à tisser' comme déterminant du nom composé).
 
 \lx kʰɯ˧ʐɯ˥$
 \sf <nb="B"> 396b
@@ -28391,14 +28424,14 @@
 \so F4
 \de To ignore someone who would need help, to leave someone alone with difficulties one could help with. This is a term for which no straightforward Chinese equivalent has been found; it refers to a situation where lack of real attachment to someone shows up in the lack of impulse to go out of one's way and help them.
 \ge to_ignore_someone_who_needs_help
-\dn 不理需要帮忙的人：知道一个人需要帮助，自己也有能力帮忙，但假装没看见、什么事没有
+\dn 不理需要帮忙的人：知道一个人需要帮助，自己也有能力帮忙，但假装没看见、什么事没有。
 \gn 不理需要帮忙的人
 \df Laisser quelqu'un en rade, laisser quelqu'un seul au moment où il aurait besoin d'aide, faire mine d'ignorer quelqu'un qui aurait besoin d'aide, négliger d'assister quelqu'un. Il n'a pas été trouvé d'équivalent chinois simple pour ce terme, qui renvoie à la situation où un manque de réel sympathie pour quelqu'un se traduit par le fait qu'on n'est pas tenté de faire l'effort de l'aider lorsqu'il en aurait besoin: on fait alors comme si de rien n'était, comme si on n'était pas au courant de la situation de cette personne.
 \gf laisser_en_rade
 \xv hĩ˧ kɯ˥
-\xe same meaning
-\xn 同上
-\xf même sens
+\xe To ignore someone who would need help.
+\xn 不理需要帮忙的人。
+\xf Laisser quelqu'un en rade, laisser quelqu'un seul au moment où il aurait besoin d'aide.
 \xv hĩ˧-ɳɯ˩ | kɯ˩-kv̩˥!
 \xe People will sometimes ignore you when you are in need! / (You will realize that, in cases where you need help) people will sometimes ignore you and leave you alone with your difficulties!
 \xn 人家在你需要帮忙的时候就会不理你的！（如果处不好关系，人家对你没有什么好感，到时候你需要帮忙他们就不理你了。）
@@ -28415,7 +28448,6 @@
 \xe I am not neglecting you at all! (On the contrary) I am teaching you good things / I am doing my best to teach you! (Context: a student considers himself neglected by a teacher; the teacher realizes that the student is dissatisfied, and provides a clarification.)
 \xn 我不是不重视你！（刚好相反：）我是用心教你的 / 我努力教你最好的！（情景：一名学生认为老师忽视他，老师发现学生不高兴，就说明。）
 \xf Je ne te néglige pas du tout! (Bien au contraire:) je t'enseigne bien / je fais de mon mieux pour t'apprendre des choses! (Contexte imaginé: un étudiant s'estime négligé par un enseignant; celui-ci se rend compte du mécontentement de l'étudiant, et lui dit qu'il interprète mal.)
-\dt 24/Apr/2017
 
 \lx kv̩˧˥
 \sf <nb="B"> 1317
@@ -30175,23 +30207,30 @@
 \xe If he doesn't go, I'm not going either!
 \xn 他如果不去，我也不去！
 \xf s'il n'y va pas, moi non plus!
-\xv hĩ˧ lɑ˩ | dʑɤ˧˥, | mv̩˧di˧ lɑ˥ | dʑɤ˧˥! / hĩ˧ lɑ˩ | dʑɤ˧˥, | lv̩˧ lɑ˧ | dʑɤ˧˥!
-\xe The people are good; and the land is good! / The people are good; and the fields are good! (A set phrase to recommend a family which a young woman is considering joining through marriage: the people are good, and their land is good.)
-\xn 人也好，田也好！（习语：将女孩嫁出去前，一家人打听对方家如何，推荐的人保证：“他们家，人也好，田也好！”）
-\xf les gens (y) sont bons, (et) la terre (y) est bonne (formule de recommandation pour la famille que va rejoindre une jeune femme lors de son mariage)
+\xv hĩ˧ lɑ˩ | dʑɤ˧˥, | mv̩˧di˧ lɑ˥ | dʑɤ˧˥!
+\xe The people are good; and the land is good! (A set phrase to recommend a family which a young woman is considering joining: the people are good, and their land is good.)
+\xn 人也好，土地也好！（习语：将女孩嫁出去前，一家人打听对方家如何，推荐的人保证：“他们家，人也好，土地也好！”）
+\xf les gens (y) sont bons, (et) la terre (y) est bonne (formule de recommandation pour la famille que va rejoindre une jeune femme)
 \xv hĩ˧ F | dʑɤ˧˥, | mv̩˧di˧˥ F | dʑɤ˧˥!
-\xe as above
-\xn 同上
-\xf même sens
+\xe The people are good; and the land is good! (A set phrase to recommend a family which a young woman is considering joining: the people are good, and their land is good.)
+\xn 人也好，土地也好！（习语：将女孩嫁出去前，一家人打听对方家如何，推荐的人保证：“他们家，人也好，土地也好！”）
+\xf les gens (y) sont bons, (et) la terre (y) est bonne (formule de recommandation pour la famille que va rejoindre une jeune femme)
+\xc <dom="phono" langue="fra"> Une focalisation intonative remplit ici la fonction qui est celle du morphème |fv{lɑ˧2} dans l'exemple précédent.
+\xc <dom="phono" langue="eng"> Same example as above, except that intonational focus is used instead of the morpheme |fv{lɑ˧2}.
+\xc <dom="phono" langue="cmn"> 例子同上，只是使用了语调焦点化来起语素|fv{lɑ˧2}在上一个例子中所起到的作用。
+\xv hĩ˧ lɑ˩ | dʑɤ˧˥, | lv̩˧ lɑ˧ | dʑɤ˧˥!
+\xe The people are good; and the fields are good! (A set phrase to recommend a family which a young woman is considering joining: the people are good, and their land is good.)
+\xn 人也好，田也好！（习语：将女孩嫁出去前，一家人打听对方家如何，推荐的人保证：“他们家，人也好，田也好！”）
+\xf les gens (y) sont bons, (et) les champs (y) sont bons (formule de recommandation pour la famille que va rejoindre une jeune femme)
 \xv mɤ˧ lɑ˧ dʑɤ˧˥!
-\xe The grease too is good! (Elicited variant on the preceding examples)
-\xn 猪油也好！（按照上面例子的变体）
-\xf la graisse aussi (y) est bonne! (variation élicitée à partir des exemples qui précèdent)
+\xe The grease too is good! (Elicited on the analogy of the preceding examples)
+\xn 猪油也好！（按照上面例子编出来的句子）
+\xf La graisse aussi (y) est bonne! (Phrase élicitée par analogie avec les exemples qui précèdent)
 \xc PHONO
 \xv qæ˩ lɑ˥ | dʑɤ˧˥!
-\xe The oil too is good! (Elicited variant on the preceding examples)
-\xn 油也好！
-\xf l’huile aussi (y) est bonne! (variation à partir de l'exemple qui précède)
+\xe The oil too is good! (Elicited on the analogy of the preceding examples)
+\xn 油也好！（按照上面例子编出来的句子）
+\xf l’huile aussi (y) est bonne! (Phrase élicitée par analogie avec les exemples qui précèdent)
 \xc PHONO
 \xv njæ˧-sɯ˩kv̩˩ ɣɯ˩ dɑ˩ lɑ˩ | ɖɯ˧-bæ˧ mɤ˧-tsɤ˧, ◊ ə˩-gi˩!
 \xe It's not the same as the way we weave, is it! / [Their way of weaving] is not the same as the way we weave, is it! (Context: the consultant watches a video of Chen Zhen weaving a belt. She points out that the Na of Yongning have not maintained the tradition of belt weaving, and that the weaving technique is not the same (mobile loom in the video vs. fixed-structure loom in Yongning).
