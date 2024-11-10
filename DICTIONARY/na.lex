@@ -7244,7 +7244,7 @@
 \xn 永宁摩梭地理概念中，距离泸沽湖比较近的六个村落：扎实、忠实、八旗、达坡、八珠、者波。
 \xf Six villages de la plaine de Yongning qui sont relativement proches du Lac.
 
-\xv ɖæ˩ʂɯ˧-ʁwɤ#˥
+\lx ɖæ˩ʂɯ˧-ʁwɤ#˥
 \or Ddaeshi wua
 \ps n
 \sd <langue="fra"> lieu

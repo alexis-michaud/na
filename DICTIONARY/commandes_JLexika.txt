@@ -4,14 +4,28 @@ julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 
 (sans doute la même chose que : cloner, lancer julia avec juste --project, et faire ]instantiate )
 
+Conserver les fichiers toml : dans /github/na/DICTIONARY/fichiers_JLexika
+Conserver le sous-dossier "Lien vers image"
+
 
 Mettre à jour TeX Live :
 https://tex.stackexchange.com/questions/540429/tlmgr-in-ubuntu-20-04-local-tex-live-2019-is-older-than-remote-repository-2
 virer la version en cours, installer entièrement en exécutant ligne par ligne ce qui est indiqué.
 
+Mettre à jour Julia:
+julia
+using Pkg
+Pkg.update()
+
+Ajout testé par Alexis pour souci avec JLexika (erreur) le 10/11/2024:
+using Pkg
+Pkg.add("ZipFile")
+Pkg.update()
+
 Pour refaire tourner : (tout faire)
 ouvrir le dossier JLexika dans un terminal, puis exécuter la commande suivante :
-julia --project exécuter.jl exemples/na/configuration.yml --latex
+julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf
+(ancienne commande : julia --project exécuter.jl exemples/na/configuration.yml --latex)
 
 Juste pour compiler :
 TEXINPUTS="/home/pakazo/Lexika_container/JLexika/gabarits//:" BIBINPUTS="/home/pakazo/Lexika_container/JLexika/exemples/na" latexmk -f -lualatex -e '$hash_calc_ignore_pattern{"luc"} = "^";' -output-directory=/home/pakazo/Lexika_container/JLexika/exemples/na/résultats -synctex=1 -interaction=batchmode '/home/pakazo/Lexika_container/JLexika/exemples/na/na chinois.tex'
