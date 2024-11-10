@@ -8741,7 +8741,6 @@
 \cf dɤ˩-tʰv̩˧-gi#˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="sem" langue="fra"> CL des troupeaux d'animaux, groupes d'hommes. Ne peut s'employer qu'au singulier.
 \ton L*
 \lc ɖɯ˧ dv̩˩
 \so F4
@@ -8752,9 +8751,8 @@
 \ge |fg{clf}.flocks
 \dn 量词：人、牲畜（一群、一队）
 \gn 量词.群
-\df Classificateur des troupeaux; ne s'utilise qu'au singulier.
+\df Classificateur des troupeaux d'animaux, et des groupes d'humains. Ne s'utilise qu'au singulier.
 \gf |fg{clf}.troupeaux
-\dt 24/Apr/2017
 
 \lx dv̩˩
 \hm 2
@@ -10566,7 +10564,6 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (comportement tonal: identique au type /kʰɯ˩/: cl des cordes) (rime de /dzɯ/: vérifié en 2009: est homophone de `s'asseoir', et est différent de `manger')
-\nt <dom="sem" langue="fra"> CL des arbres
 \ton Lβ
 \nt <dom="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \nt <dom="phono" langue="eng"> Among classifiers belonging to the tone category Lβ, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
@@ -27482,7 +27479,6 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale vélaire et non uvulaire
-\nt <dom="sem" langue="fra"> CL des cigarettes et petits objets
 \ton Mα
 \lc ɖɯ˧ ko˧
 \so F4
@@ -27492,7 +27488,6 @@
 \gn 量词.小东西
 \df Classificateur des petits objets, tels que des cigarettes.
 \gf |fg{clf}.petit_objet
-\dt 24/Apr/2017
 
 \lx kɤ˩α
 \sf <nb="B"> 863
@@ -27527,7 +27522,6 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n" langue="fra"> (d'abord noté sɯ˧kɤ˧˥; corrigé en mai 2008) (comportement tonal: comme /kʰv/, “année")
-\nt <dom="sem" langue="fra"> CL des bâtons
 \ton MHα
 \lc ɖɯ˧ kɤ˧˥
 \so F4
@@ -47261,9 +47255,9 @@
 \xn 猪在翻滚
 \xf le cochon s'agite dans son box
 \xv bo˩-ɳɯ˧ | pʰv̩˧~pʰv̩˩ (+dʑo˩).
-\xe same meaning as above
+\xe The pig is moving around (restlessly).
 \xn 猪在翻滚
-\xf même sens
+\xf le cochon s'agite dans son box
 \xc PHONO
 \xc <dom="ton" langue="fra"> Schéma tonal régulier.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
@@ -51309,7 +51303,7 @@
 \df Une sorte d'arbuste d'environ 1 mètre 50 à 2 mètres de haut.
 \gf arbuste_sp
 \xv qʰwæ˩kɤ˩-dzi˩˥
-\xe same meaning
+\xe same meaning as the main entry, with addition of the classifier for trees, /|fv{dzi˩β}/.
 \xn 同上
 \xf même sens
 \xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ ≈ qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩
