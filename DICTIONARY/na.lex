@@ -7720,7 +7720,7 @@
 \xe there is grease (eg there is grease around the mouth of someone who has been biting away at large slabs of meat)
 \xn 有油（例如：一个人的嘴巴周围油乎乎，有油）
 \xf il y a de la graisse (ex.: autour de la bouche de quelqu'un qui vient de croquer de la viande à belles dents)
-\xv hi˩nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
+\xv hi˩-nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
 \xe there is a lake (there)
 \xn 有一片湖
 \xf il y a un lac, un lac se trouve là
@@ -18244,7 +18244,7 @@
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; auparavant, noté ˧ ˥ ˩)(avant 2014: noté le ton comme L-L#; il paraît nettement plus adéquat de noter LH-, au vu du ton LH de ‘peau')
-\ton #H-
+\ton LH-
 \lc ɣɯ˩nɑ˥mi˩
 \so F4
 \va <speaker="M18"> ʁɯ˧-nɑ˥mi˩ ≈ ʁv̩-nɑ˥mi˩
@@ -20375,15 +20375,15 @@
 \gn 积聚
 \df S'accumuler: par exemple, selon la légende, l'eau d'une inondation s'est accumulée et a formé le lac Lugu.
 \gf s_accumuler
-\xv le˧-hi˩ -dʑo˩, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥ tsɯ˩!
+\xv le˧-hi˩ -dʑo˩, | hi˩-nɑ˧mi˧ tsɤ˧-ɲi˥ tsɯ˩!
 \xe the Lake accumulated / was formed by the accumulation of water
 \xn 传说（洪水的水）积聚了，形成了泸沽湖。
 \xf (l'eau de l'inondation) s'est accumulée, et c'est devenu le Lac!
-\xv hi˩nɑ˧mi˧ ne˧˥, | tʰi˧-hi˩-zo˩!
+\xv hi˩-nɑ˧mi˧ ne˧˥, | tʰi˧-hi˩-zo˩!
 \xe (Run-off water) is like a lake / looks like a lake: it has accumulated!
 \xn (径流水）像湖/看起来像湖：它是积累起来的！
 \xf (l'eau de ruissellement) fait comme un lac / ressemble à un lac: elle s'est accumulée!
-\xv hi˩nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-hi˩-kwɤ˩tɕɯ˩-lɑ˩, | lo˧ʂv̩˩ | pi˧-ɲi˥-kv̩˩-tsɯ˩ ◊ mv̩˩!
+\xv hi˩-nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-hi˩-kwɤ˩tɕɯ˩-lɑ˩, | lo˧ʂv̩˩ | pi˧-ɲi˥-kv̩˩-tsɯ˩ ◊ mv̩˩!
 \xe as [the water] had accumulated and formed a lake (literally ‘as the lake had accumulated’)... [this village] was called ‘Loshu’!
 \xn 因为[水]积聚成湖（字面意思是：‘因为湖这样积聚起来了’）90°……[这个村庄]被称为‘落水村’！
 \xf comme [l'eau] s'était accumulée et avait formé un lac (littéralement «comme le lac s'était ainsi accumulé»)… [ce village,] on l'a appelé ‘Loshu’!
@@ -20795,7 +20795,7 @@
 \xf il/elle t'envie, te jalouse
 \dt 25/Sep/2017
 
-\lx hi˩nɑ˧mi#˥
+\lx hi˩-nɑ˧mi#˥
 \sf <nb="B"> 41
 \sf <nb="2011"> 64
 \or xienami
@@ -20806,7 +20806,7 @@
 \nt <type="hist" print="n" langue="fra"> ton équivalent de d2a (+ɲi˥) (confirmé: n'est pas /ɕ/)
 \ton LM+#H
 \lc hi˩nɑ˧mi˧
-\cf lo˧ʂv̩˩ | hi˩nɑ˧mi#˥
+\cf lo˧ʂv̩˩ | hi˩-nɑ˧mi#˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -20819,7 +20819,7 @@
 \gn 湖
 \df Lac.
 \gf lac
-\xv hi˩nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ dʑo˧.
+\xv hi˩-nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ dʑo˧.
 \xe There is a lake.
 \xn 有一个湖。
 \xf Il y a un lac.
@@ -20830,7 +20830,7 @@
 \gn 泸沽湖
 \df Le lac Lugu. (Son importance est telle, et il est tellement plus étendu que les autres étendues d'eau douce des environs, que le simple terme «le Lac» suffit à le désigner.)
 \gf lac_Lugu
-\xv hi˩nɑ˧mi˧, | ɖɯ˧-zɯ˧ mɤ˧-pɻ̩˧!
+\xv hi˩-nɑ˧mi˧, | ɖɯ˧-zɯ˧ mɤ˧-pɻ̩˧!
 \xe Lugu Lake never dries up, in an entire lifetime!
 \xn 泸沽湖，从来不干！
 \xf Le lac Lugu ne s'assèche jamais, de toute la vie!
@@ -33780,23 +33780,23 @@
 \df Loshu: village du bord du Lac. En chinois: Luoshui.
 \gf Loshu
 
-\lx lo˧ʂv̩˩ | hi˩nɑ˧mi#˥
+\lx lo˧ʂv̩˩ | hi˩-nɑ˧mi#˥
 \sf <nb="2011"> 3313
 \or Loshu xienami
 \mr lo˧ʂv̩˩
-\mr hi˩nɑ˧mi#˥
+\mr hi˩-nɑ˧mi#˥
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" print="n" langue="fra"> Jusqu'en 2011: noté ‡lo˧ʂu˩, par erreur.
-\nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme `le Lac', /|fv{hi˩nɑ˧mi#˥}/.
-\nt <dom="sem" langue="eng"> Lugu Lake can also be referred to simply as “the Lake", /|fv{hi˩nɑ˧mi#˥}/.
-\nt <dom="sem" langue="cmn"> 泸沽湖还能简单称作“湖”，/|fv{hi˩nɑ˧mi#˥}/。
+\nt <dom="sem" langue="fra"> On peut également désigner le lac Lugu tout simplement comme `le Lac', /|fv{hi˩-nɑ˧mi#˥}/.
+\nt <dom="sem" langue="eng"> Lugu Lake can also be referred to simply as “the Lake", /|fv{hi˩-nɑ˧mi#˥}/.
+\nt <dom="sem" langue="cmn"> 泸沽湖还能简单称作“湖”，/|fv{hi˩-nɑ˧mi#˥}/。
 \nt <dom="morpho" langue="fra"> L'expression est formée par simple succession du nom de lieu |fv{lo˧ʂv̩˩} et du nom commun ‘lac’. Leur composition n'amène pas de changement tonal.
 \nt <dom="morpho" langue="eng"> The expression consists of the simple succession of the place name |fv{lo˧ʂv̩˩} and the common noun ‘lake’. There is no tonal change.
 \nt <dom="morpho" langue="cmn"> 该名词由地名|fv{lo˧ʂv̩˩}‘落水’与普通名词‘湖’的简单连用组成。没有声调变化。
 \ton L# | L-
-\lc lo˧ʂv̩˩hi˩nɑ˧mi˧
+\lc lo˧ʂv̩˩hi˩-nɑ˧mi˧
 \so F4
 \de Lugu Lake.
 \ge Lake_Lugu
@@ -62603,7 +62603,7 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire; avant septembre 2011: avais noté hi˩nɑ˧mi˧-ʈæ˧qo˧ et non hi˩nɑ˧mi˧-ʈæ˧qo˥
+\nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire; avant septembre 2011: avais noté hi˩-nɑ˧mi˧-ʈæ˧qo˧ et non hi˩-nɑ˧mi˧-ʈæ˧qo˥
 \nt <type="hist" print="n" langue="fra"> Roselle (2015): “cf. -ʈʰæ˧qo˩ ‘under'. I'd be very surprised if the first consonant of the first item was not /ʈʰ/." Réponse 2016: c'est bien |fv{ʈæ˧qo˧}.
 \ton M
 \lc ʈæ˧qo˧
@@ -62614,7 +62614,7 @@
 \gn 底下
 \df Au fond de.
 \gf au_fond_de
-\xv hi˩nɑ˧mi˧-ʈæ˧qo˥
+\xv hi˩-nɑ˧mi˧-ʈæ˧qo˥
 \xe at the bottom of the Lake
 \xn 在湖底下
 \xf au fond du Lac
@@ -62622,7 +62622,7 @@
 \xe to place at the bottom of…
 \xn 放在底下
 \xf mettre au fond de…
-\xv hi˩nɑ˧mi˧, | ʈæ˧ mɤ˧-do˩; | hĩ˧-nv̩˥mi˩, | ɳv̩˧ mɤ˧-tʰɑ˩.
+\xv hi˩-nɑ˧mi˧, | ʈæ˧ mɤ˧-do˩; | hĩ˧-nv̩˥mi˩, | ɳv̩˧ mɤ˧-tʰɑ˩.
 \xe “One can't see to the bottom of the Lake; one can't know the heart of men." (Proverb that comes up in courting songs.)
 \xn “人的心，湖底藏：看不清，摸不透！” 直译：“湖，（我们）看不到（它的）底下。人的心，是知道不了的！”（情歌里的一个谚语）
 \xf «On ne voit pas le fond du lac; on ne connaît pas le cœur des hommes!» (Proverbe qui apparaît dans les chansons que se chantaient les jeunes gens se faisant la cour.)

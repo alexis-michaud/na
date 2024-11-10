@@ -9,13 +9,13 @@
 <NOTE xml:lang="zh" message="录音设备：立体声、用AKG C-900话筒与戴在头上的Sennheiser HSP 2 head-worn microphone (omnidirectional)."/>
 <NOTE xml:lang="fr" message="Transcrit en 2009, en partie avec F4, en partie avec M23. Entièrement repris avec F4 à partir du 25 août 2011. Relu en juin 2015. Orthographe et traductions anglaise au niveau de la phrase et du texte ajoutés en 2018 par Roselle Dobbs."/>
 <S id="Lake3_S001"><AUDIO start="0.0000" end="4.6948"/>
-	<FORM kindOf="phono">hi˩nɑ˧mi˧, -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ mæ˩!</FORM>
+	<FORM kindOf="phono">hi˩-nɑ˧mi˧, -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ mæ˩!</FORM>
 	<FORM kindOf="ortho">Xienami jjo, tiq, eyishei, tee niq yi ruaq guq mae!</FORM>
 	<TRANSL xml:lang="fr">Le Lac, eh bien, autrefois, voilà ce qu'on en disait!</TRANSL>
 	<TRANSL xml:lang="en">(Lugu) Lake, well, long ago, this is what is said. </TRANSL>
 	<TRANSL xml:lang="zh">（落水）湖（=泸沽湖）呢……以前，（人家）是这样讲（它的来历）：</TRANSL>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -2596,7 +2596,7 @@
 		</W>
 </S>
 <S id="Lake3_S051"><AUDIO start="191.7213" end="196.5318"/>
-	<FORM kindOf="phono">tʰi˩˥, | zo˩no˥, | lo˧ʂv̩˩ | -hi˩nɑ˧mi˧-qo˩, | ʈʂʰwæ˩-ʈʂʰɯ˥, ◊ ə˩-gi˩!</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | zo˩no˥, | lo˧ʂv̩˩ | -hi˩-nɑ˧mi˧-qo˩, | ʈʂʰwæ˩-ʈʂʰɯ˥, ◊ ə˩-gi˩!</FORM>
 	<FORM kindOf="ortho">Tiq, ssono, Loshu xienami gho chuae tee, aeggi!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡lo˧ʂo˩/; corrigé en 2011 avec F4"/>
 	<NOTE xml:lang="fr" message="Observation de la locutrice à la relecture: il aurait fallu dire: /ʐɯ˩gv̩˩˥/, et non utiliser l'emprunt chinois 船."/>
@@ -2617,7 +2617,7 @@
 			<TRANSL xml:lang="fr">Luoshui</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -2924,7 +2924,7 @@
 		</W>
 </S>
 <S id="Lake3_S057"><AUDIO start="215.4473" end="219.2888"/>
-	<FORM kindOf="phono">gv̩˩pʰæ˩˥ | ɖɯ˧-pʰæ˧ po˥-ɳɯ˩, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | &lt;hi˩…&gt; hi˩nɑ˧mi˧ | tsɤ˧-ɲi˥-kv̩˩ tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">gv̩˩pʰæ˩˥ | ɖɯ˧-pʰæ˧ po˥-ɳɯ˩, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥, | tsɑ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | &lt;hi˩…&gt; hi˩-nɑ˧mi˧ | tsɤ˧-ɲi˥-kv̩˩ tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">ggupae ddeepae boq nee zaq, zaq, zaq, zaq gua ji la, xienami ze niq guq zimu!</FORM>
 	<NOTE xml:lang="fr" message="tsɤ˧˥, ton 4: traduit ici par: 形成"/>
 	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-pʰæ˧˥ | po˧-ɳɯ˩"/>
@@ -2962,7 +2962,7 @@
       <TRANSL xml:lang="en">only</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -2987,10 +2987,10 @@
 		</W>
 </S>
 <S id="Lake3_S058"><AUDIO start="220.8709" end="225.1376"/>
-	<FORM kindOf="phono">tʰi˩˥, | hi˩nɑ˧mi˧ tsɤ˧-kwɤ˩tɕɯ˩-lɑ˩, | hĩ˧-ʈʂʰɯ˧, | ʝi˧kʰv̩˥-dʑo˩, | dʑɯ˩-ʈʰæ˩qo˥ dʑo˩ hɯ˩-ɲi˩-ze˩, tsɯ˩ mv̩˩. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hi˩-nɑ˧mi˧ tsɤ˧-kwɤ˩tɕɯ˩-lɑ˩, | hĩ˧-ʈʂʰɯ˧, | ʝi˧kʰv̩˥-dʑo˩, | dʑɯ˩-ʈʰæ˩qo˥ dʑo˩ hɯ˩-ɲi˩-ze˩, tsɯ˩ mv̩˩. |</FORM>
 	<FORM kindOf="ortho">Tiq, xienami ze gua ji la, hin tee yiko jjo jji taegho jjo hee niq ssei zimu.</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés, à nouveau en 2011: n’est pas /tsɤ˧˥/ dans ce contexte"/>
-	<NOTE xml:lang="fr" message="ajouter dans la liste des combinaisons objet+verbe: /hi˩nɑ˧mi˧ tsɤ˧/ 'créer le lac'"/>
+	<NOTE xml:lang="fr" message="ajouter dans la liste des combinaisons objet+verbe: /hi˩-nɑ˧mi˧ tsɤ˧/ 'créer le lac'"/>
 	<NOTE xml:lang="fr" message="/dʑɯ˩-ʈʰæ˩˥/, /dʑɯ˩-ʈʰæ˩qo˥/: sous l’eau"/>
 	<NOTE xml:lang="fr" message="dʑo˩-hɯ˩-ɲi˩-ze˩: avais d'abord noté /‡…tɕo˩-hɯ˩…/"/>
 	<NOTE xml:lang="fr" message="ʝi˧kʰv̩˥: une partie, certains; d'abord noté ‡ʝi˩kʰv̩˧"/>
@@ -3002,7 +3002,7 @@
 			<TRANSL xml:lang="fr">alors</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -3251,7 +3251,7 @@
 		</W>
 </S>
 <S id="Lake3_S062"><AUDIO start="237.3591" end="241.5912"/>
-	<FORM kindOf="phono">tʰi˩˥, ◊ -dʑo˩, | ɲi˧zo˧ | ʈʂʰɯ˧-mi˧-ɳɯ˥ | le˧-ʝi˥-zo˩, | tʰi˩˥, | hi˩nɑ˧mi˧ tsɤ˧-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, ◊ -dʑo˩, | ɲi˧zo˧ | ʈʂʰɯ˧-mi˧-ɳɯ˥ | le˧-ʝi˥-zo˩, | tʰi˩˥, | hi˩-nɑ˧mi˧ tsɤ˧-ɲi˥, tsɯ˩ mv̩˩! |</FORM>
 	<FORM kindOf="ortho">Tiq, jjo, nisso teemi nee leyi sso, tiq, xienami ze niq zimu!</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡ʈʂʰɯ˧-mi˧/"/>
 	<NOTE xml:lang="fr" message="/ɲi˧zo˧ ʈʂʰɯ˧-mi˥/, /ɲi˧zo˧ ʈʂʰɯ˧-mi˧-ɳɯ˥/: le ton Hse fixe sur la dernière syllabe."/>
@@ -3295,7 +3295,7 @@
 			<TRANSL xml:lang="fr">alors</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -3316,7 +3316,7 @@
 		</W>
 </S>
 <S id="Lake3_S063"><AUDIO start="241.5912" end="246.8862"/>
-	<FORM kindOf="phono">tʰi˩˥, | lo˧ʂv̩˩ | -hi˩nɑ˧mi˧, | pi˧-dʑo˩ | tʰi˩˥, | zo˩no˥, mmm… |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | lo˧ʂv̩˩ | -hi˩-nɑ˧mi˧, | pi˧-dʑo˩ | tʰi˩˥, | zo˩no˥, mmm… |</FORM>
 	<FORM kindOf="ortho">Tiq, Loshu xienami bi jjo, tiq, ssono,</FORM>
 	<TRANSL xml:lang="fr">Alors, le Lac de Luoshui, eh bien, mmh…</TRANSL>
 	<TRANSL xml:lang="en">Well, in Lugu Lake </TRANSL>
@@ -3330,7 +3330,7 @@
 			<TRANSL xml:lang="fr">Luoshui</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
@@ -3516,7 +3516,7 @@
 		</W>
 </S>
 <S id="Lake3_S067"><AUDIO start="255.1130" end="258.4749"/>
-	<FORM kindOf="phono">tʰi˩˥, | hi˩nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩, | hĩ˧ ʈʂʰɯ˧-ɲi˥-kv̩˩ tɑ˩kɤ˩-lɑ˩ lv̩˩ ɲi˩ tsɯ˩. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | hi˩-nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tsʰɯ˩-kwɤ˩tɕɯ˩, | hĩ˧ ʈʂʰɯ˧-ɲi˥-kv̩˩ tɑ˩kɤ˩-lɑ˩ lv̩˩ ɲi˩ tsɯ˩. |</FORM>
 	<FORM kindOf="ortho">tiq, xienami tee tee niq yi lecee gua ji, hin tee nigu dage la luq niq ziq.</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡kwɤ˩tsɤ˩/"/>
 	<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧ni˧˥/"/>
@@ -3530,7 +3530,7 @@
 			<TRANSL xml:lang="fr">alors</TRANSL>
 		</W>
 		<W>
-			<FORM>hi˩nɑ˧mi#˥</FORM>
+			<FORM>hi˩-nɑ˧mi#˥</FORM>
 			<TRANSL xml:lang="fr">lac</TRANSL>
 		</W>
 		<W>
