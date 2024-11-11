@@ -703,7 +703,7 @@
 	</S>
 	<S id="Sister3_S014">
 		<AUDIO start="58.3076" end="64.8406"/>
-		<FORM>&lt;ə˧mv̩˧˥, | ɲi˧-kv̩˧˥…&gt; kʰv̩˩mi˩-lɑ˥ | ə˧mv̩˧˥ ◊ -dʑo˩, | &lt;dʑ…&gt; kʰv̩˧ | le˧-ʂæ˩, | le˧-ʂæ˩-zo˩, | dʑɯ˩nɑ˩mi˩ʁo˥ | tʰv̩˧qo˧ | le˧-tsʰɯ˩-dʑo˩, | qo˩qɑ˩-ʁo˩ tʰv̩˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>&lt;ə˧mv̩˧˥, | ɲi˧-kv̩˧˥…&gt; kʰv̩˩mi˩-lɑ˥ | ə˧mv̩˧˥ ◊ -dʑo˩, | &lt;dʑ…&gt; kʰv̩˧ | le˧-ʂæ˩, | le˧-ʂæ˩-zo˩, | dʑɯ˩-nɑ˩mi˩ʁo˥ | tʰv̩˧qo˧ | le˧-tsʰɯ˩-dʑo˩, | qo˩qɑ˩-ʁo˩ tʰv̩˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="faux départ: «l’aîné, les deux…»"/>
 		<NOTE xml:lang="fr" message="d'abord noté /ɑ˧mv̩˧˥/"/>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ə˧mv̩˥ dʑo˩/; tons /ə˧mv̩˧˥ -dʑo˩/ vérifiés en août 2011."/>
@@ -755,7 +755,7 @@
          <TRANSL xml:lang="fr">°oblig</TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩ʁo˧</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩ʁo˧</FORM>
 			<TRANSL xml:lang="fr">forêt_d_altitude</TRANSL>
 		</W>
 		<W>
@@ -3289,7 +3289,7 @@
 	</S>
 	<S id="Sister3_S051">
 		<AUDIO start="240.3687" end="248.0853"/>
-		<FORM>"ə˧mi˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ go˧mi˧-ʈʂʰɯ˧ &lt;ə˧mv̩˩-go…&gt; | ə˧mv̩˧˥ | ɖɯ˧-v̩˧ dʑo˩-ɲi˩-tsɯ˩… | dʑɯ˩nɑ˩mi˩-ʁo˩ dzi˩˥, | ɖɯ˧-so˩ kʰv̩˩ gv̩˩-ze˩, |</FORM>
+		<FORM>"ə˧mi˧! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ go˧mi˧-ʈʂʰɯ˧ &lt;ə˧mv̩˩-go…&gt; | ə˧mv̩˧˥ | ɖɯ˧-v̩˧ dʑo˩-ɲi˩-tsɯ˩… | dʑɯ˩-nɑ˩mi˩-ʁo˩ dzi˩˥, | ɖɯ˧-so˩ kʰv̩˩ gv̩˩-ze˩, |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ɑ˧mv̩˥/"/>
 		<TRANSL xml:lang="fr">"Eeeeeeeeh! [Mais dites donc…] Autrefois, elle, cette petite sœur… elle avait un grand frère! Il est allé habiter sur la montagne, plusieurs années ont passé;</TRANSL>
 		<TRANSL xml:lang="zh">“啊呀！以前，她这个妹妹啊，有一个哥哥，他在深山老林住，几年就过去了……</TRANSL>
@@ -3334,7 +3334,7 @@
 			<TRANSL xml:lang="fr">°rep</TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩-ʁo˩</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩-ʁo˩</FORM>
 			<TRANSL xml:lang="fr">en_haute_montagne</TRANSL>
 		</W>
 		<W>
@@ -5708,7 +5708,7 @@
 	</S>
 	<S id="Sister3_S086">
 		<AUDIO start="408.5237" end="411.0171"/>
-		<FORM>õ˧˥, | dzɑ˧&lt;-zo˧&gt; | ʐwæ˩-ze˥! | dʑɯ˩nɑ˩mi˩-ʁo˩ dzi˩˥, ◊ ə˩-gi˩! |</FORM>
+		<FORM>õ˧˥, | dzɑ˧&lt;-zo˧&gt; | ʐwæ˩-ze˥! | dʑɯ˩-nɑ˩mi˩-ʁo˩ dzi˩˥, ◊ ə˩-gi˩! |</FORM>
 		<NOTE xml:lang="fr" message="phrase sur laquelle repose l'établissement du ton lexical de //õ˧˥//, précédemment noté //õ˥//: le ton était déduit du comportement en composition, faute d'attestation dans laquelle ce mot constituerait un groupe phonologique à lui seul."/>
 		<TRANSL xml:lang="fr">Me voilà bien pauvre! / Je suis vraiment un pauvre hère! J'habite sur la montagne, eh oui!</TRANSL>
 		<TRANSL xml:lang="zh">我（确实是）非常穷（的那种人），住在深山！</TRANSL>
@@ -5730,7 +5730,7 @@
 			<TRANSL xml:lang="fr">°pfv</TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩-ʁo˩</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩-ʁo˩</FORM>
 			<TRANSL xml:lang="fr">en_haute_montagne</TRANSL>
 		</W>
 		<W>

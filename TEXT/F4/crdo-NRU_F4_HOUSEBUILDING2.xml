@@ -484,7 +484,7 @@
 </S>
 <S id="HOUSEBUILDING2_S084">
 	<AUDIO start="446.682" end="450.873"/>
-	<FORM kindOf="phono">gɤ˩tɕo˧… | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ʂwæ˧hĩ˧-qo˩-ɳɯ˩ | mv̩˩tɕo˧… gɤ˧˥! |</FORM>
+	<FORM kindOf="phono">gɤ˩tɕo˧… | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | ʂwæ˧hĩ˧-qo˩-ɳɯ˩ | mv̩˩tɕo˧… gɤ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "proche phonétiquement de: [ku˧]"/>
 	<TRANSL xml:lang="fr">En haut… on porte (le bois) à l'épaule, pour descendre de la montagne, de très haut! </TRANSL>
 </S>
@@ -506,7 +506,7 @@
 </S>
 <S id="HOUSEBUILDING2_S087">
 	<AUDIO start="465.836" end="471.391"/>
-	<FORM kindOf="phono">dʑɯ˩nɑ˩mi˩ʁo˩-qo˥ | no˧˥ | qɑ˩, | əəə… tsʰe˧qʰɑ˧-ɭɯ˧-qo˧-ɳɯ˧ | ɑ˩ʁo˧ ʑi˧qʰwɤ˧ tʰv̩˧-ɭɯ˧ lɑ˧ tʰv̩˥ ɲi˩! |</FORM>
+	<FORM kindOf="phono">dʑɯ˩-nɑ˩mi˩-ʁo˩-qo˥ | no˧˥ | qɑ˩, | əəə… tsʰe˧qʰɑ˧-ɭɯ˧-qo˧-ɳɯ˧ | ɑ˩ʁo˧ ʑi˧qʰwɤ˧ tʰv̩˧-ɭɯ˧ lɑ˧ tʰv̩˥ ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "tons vérifiés"/>
 	<TRANSL xml:lang="fr">En haute montagne, eh bien… c'est seulement après avoir passé dix vallées et quelques (=plus d'une dizaine de vallées) qu'on parvenait à la maison, à cette bâtisse (qu'on construisait)!</TRANSL>
 </S>
@@ -619,8 +619,8 @@
 </S>
 <S id="HOUSEBUILDING2_S107">
 	<AUDIO start="556.809" end="569.051"/>
-	<FORM kindOf="phono">bo˩-ʈʂʰæ˧ | ɲi˧-ɭɯ˧ | əəə… əəə… bo˩-ʂe˧! | ʂæ˩ɻ̍̃˩˥ | ʈʰææ̃˧… | tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | hĩ˧ | le˧-ʈʰi˩ | tɕʰɤ˧-hɑ̃˧ne˧ ʝi˥ | bo˩-ʈʂʰæ˧ tɕɤ˩! | ʂæ˩ɻ̍̃˩-v̩˥dʑɯ˩ tɕɤ˩! |</FORM>
-	<NOTE xml:lang="fr" message = "ressemble à : /dʑɯ˩nɑ˩-ʁo˩˥/; mais il est bien établi que le mot comporte bien 4 syllabes, et que la réduction ici est simplement phonétique : /dʑɯ˩nɑ˩mi˩-ʁo˩˥/ "/>
+	<FORM kindOf="phono">bo˩-ʈʂʰæ˧ | ɲi˧-ɭɯ˧ | əəə… əəə… bo˩-ʂe˧! | ʂæ˩ɻ̍̃˩˥ | ʈʰææ̃˧… | tʰi˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | hĩ˧ | le˧-ʈʰi˩ | tɕʰɤ˧-hɑ̃˧ne˧ ʝi˥ | bo˩-ʈʂʰæ˧ tɕɤ˩! | ʂæ˩ɻ̍̃˩-v̩˥dʑɯ˩ tɕɤ˩! |</FORM>
+	<NOTE xml:lang="fr" message = "ressemble à : /dʑɯ˩nɑ˩-ʁo˩˥/; mais il est bien établi que le mot comporte bien 4 syllabes, et que la réduction ici est simplement phonétique : /dʑɯ˩-nɑ˩mi˩-ʁo˩˥/ "/>
 	<TRANSL xml:lang="fr">(On conservait à la maison) deux cochons-conservés-entiers, euh… de la viande de porc ! Les os, vrai de vrai… eh bien, sur la montagne, les gens, ils étaient fatigués (par le dur labeur); chaque soir, on faisait cuire (précisément: 'on faisait bouillir') du porc conservé ! On faisait cuire une soupe aux os !</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S108">
@@ -692,7 +692,7 @@
 </S>
 <S id="HOUSEBUILDING2_S120">
 	<AUDIO start="631.501" end="647.07"/>
-	<FORM kindOf="phono">õ˧ ʈʂʰɯ˧ne˧ ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ -dʑo˩ | tʰi˩˥, | ʑi˧qʰwɤ˧ tsʰi˧˥ ◊ -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | dʑɯ˩nɑ˩mi˩-ʁo˩˥, | ə˧mi˧! | ə˧mi˧=ɻæ˩-ɳɯ˩, | tsʰi˧ɲi˧ | hɑ˧ | ɑ˩ʁo˧-ɳɯ˧ | dʑɯ˧ mɤ˧-dʑo˧-hĩ˧ | tʰv̩˧-ho˩ | ɖɯ˧-ɲi˥-dʑo˩, | hɑ˧ | hæ̃˧qʰv̩˥ | le˧-tɕɤ˧˥, | pɤ˩jɤ˧-ʈʂʰɯ˥ | ʈʂʰɯ˧ne˧ ʝi˥ | le˧-ʐv̩˩, |</FORM>
+	<FORM kindOf="phono">õ˧ ʈʂʰɯ˧ne˧ ʝi˥ | ʐwɤ˩-kv̩˩˥ ◊ -dʑo˩ | tʰi˩˥, | ʑi˧qʰwɤ˧ tsʰi˧˥ ◊ -dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥, | ə˧mi˧! | ə˧mi˧=ɻæ˩-ɳɯ˩, | tsʰi˧ɲi˧ | hɑ˧ | ɑ˩ʁo˧-ɳɯ˧ | dʑɯ˧ mɤ˧-dʑo˧-hĩ˧ | tʰv̩˧-ho˩ | ɖɯ˧-ɲi˥-dʑo˩, | hɑ˧ | hæ̃˧qʰv̩˥ | le˧-tɕɤ˧˥, | pɤ˩jɤ˧-ʈʂʰɯ˥ | ʈʂʰɯ˧ne˧ ʝi˥ | le˧-ʐv̩˩, |</FORM>
 	<NOTE xml:lang="fr" message = "avais d'abord noté /dʑi˧ mɤ˧-dʑo˧-hĩ˧/, pensé que cela voulait dire 'ceux qui n'avaient pas de maison'"/>
 	<NOTE xml:lang="fr" message = "/tʰv̩˧-ho˩/: ressemble à /tʰv̩˧-qo˩/, par une légère maladresse de prononciation; mais est bien /tʰv̩˧-ho˩/."/>
 	<TRANSL xml:lang="fr">Voilà ce qu'on dit; alors, pour ce qui est de la construction des maisons, eh bien, autrefois, sur la montagne, houlàà! les mères (=mère et tantes maternelles), aujourd'hui, à la maison, la nourriture, le jour où (les travailleurs) allaient arriver à (un endroit où) il n'y avait pas d'eau, eh bien, la nourriture, on en préparait (littéralement: "on en faisait bouillir") tard dans la nuit; on pétrissait des petits pains, comme ceci;</TRANSL>
@@ -721,7 +721,7 @@
 </S>
 <S id="HOUSEBUILDING2_S125">
 	<AUDIO start="667.456" end="675.004"/>
-	<FORM kindOf="phono">dʑɯ˩nɑ˩mi˩ʁo˩˥ | ɖɯ˧-ʝi˧~ɖɯ˧-ʝi˧, | dʑɯ˧ | dʑo˧ mɤ˧-kv̩˧˥! | dʑɯ˧, əəə… | dʑɯ˩-ʈʂʰɯ˧, | ko˧ so˧-ɭɯ˧ ɖæ˩, | dʑɯ˧ | ɖɯ˧-kʰɯ˩-lɑ˩ dʑo˩-ɲi˩. |</FORM>
+	<FORM kindOf="phono">dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-ʝi˧~ɖɯ˧-ʝi˧, | dʑɯ˧ | dʑo˧ mɤ˧-kv̩˧˥! | dʑɯ˧, əəə… | dʑɯ˩-ʈʂʰɯ˧, | ko˧ so˧-ɭɯ˧ ɖæ˩, | dʑɯ˧ | ɖɯ˧-kʰɯ˩-lɑ˩ dʑo˩-ɲi˩. |</FORM>
 	<TRANSL xml:lang="fr">Sur la montagne, par endroits, on ne trouve pas d'eau ! / Sur la montagne, il y a certains endroits où il n'y a pas d'eau! L'eau, euh… il faut traverser trois vallées pour trouver un ruisseau (=on ne trouve de ruisseau que dans une vallée sur trois en moyenne). </TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S126">
@@ -896,8 +896,8 @@
 </S>
 <S id="HOUSEBUILDING2_S155">
 	<AUDIO start="806.818" end="811.987"/>
-	<FORM kindOf="phono">dʑɯ˩nɑ˩mi˩-ʁo˩-ɳɯ˥, | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧-ɳɯ˥ | ɑ˩ʁo˧ kʰi˥ qʰv̩˩ | no˩qo˥ tʰv̩˩-ɲi˩! | qʰwɤ˧tsʰi˩ | no˩qo˥ kʰɯ˩-ɲi˩ wɤ˩! |</FORM>
-	<NOTE xml:lang="fr" message = "phonétiquement, ressemble à : [‡‡dʑɯ˩nɑ˩mi˩-ʁo˥-ɳɯ˩]"/>
+	<FORM kindOf="phono">dʑɯ˩-nɑ˩mi˩-ʁo˩-ɳɯ˥, | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧˥ | ɖɯ˧-gɤ˧-ɳɯ˥ | ɑ˩ʁo˧ kʰi˥ qʰv̩˩ | no˩qo˥ tʰv̩˩-ɲi˩! | qʰwɤ˧tsʰi˩ | no˩qo˥ kʰɯ˩-ɲi˩ wɤ˩! |</FORM>
+	<NOTE xml:lang="fr" message = "phonétiquement, ressemble à : [‡‡dʑɯ˩-nɑ˩mi˩-ʁo˥-ɳɯ˩]"/>
 	<NOTE xml:lang="fr" message = "/kʰi˧qʰv̩#˥/ : la porte (de la maison)"/>
 	<NOTE xml:lang="fr" message = "/no˩qo˥/: 'à côté de'"/>
 	<NOTE xml:lang="fr" message = "/qʰwɤ˧tsʰi˩ | no˩qo˥ kʰɯ˩/: sens: mettre à l'épaule. Sur le même modèle: gv̩˧dv̩˧ | no˩qo˥ kʰɯ˩ 'prendre sur le dos, charger sur son dos'"/>
@@ -1005,7 +1005,7 @@
 </S>
 <S id="HOUSEBUILDING2_S173">
 	<AUDIO start="883.289" end="887.686"/>
-	<FORM kindOf="phono">tʰi˩˥, | "ə˧ʝi˥-dʑo˩, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | qæ˧do˧… tɕʰo˧-kʰi˥-ɲi˩!" | pi˧-kv̩˩. |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | "ə˧ʝi˥-dʑo˩, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | qæ˧do˧… tɕʰo˧-kʰi˥-ɲi˩!" | pi˧-kv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">Alors, on dit: "l'année dernière, on est allé équarrir des troncs sur la montagne!"</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S174">

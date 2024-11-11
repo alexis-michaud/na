@@ -240,11 +240,11 @@
   </S>
   <S id="Sister_S007">
     <AUDIO start="16.9691" end="19.5631"/>
-    <FORM kindOf="phono">tʰi˩˥, | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
+    <FORM kindOf="phono">tʰi˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩ tsɯ˩ ◊ mv̩˩ |</FORM>
     <FORM kindOf="ortho">Tiq, jjinami wo ddeesoku teezzee zimu.</FORM>
     <NOTE xml:lang="fr" message="Avant 2013: noté: /ɖɯ˧-so˩ kʰv̩˩ | tʰi˧-dzi˩ tsɯ˩ ◊ mv̩˩/, du fait d'une transcription 'mot à mot', faisant répéter à la locutrice mot après mot, et ne tenant pas compte du phrasé plus large du récit. En réalité: ce passage est intégré ici en un seul groupe tonal: /ɖɯ˧-so˩ kʰv̩˩ tʰi˩-dzi˩ tsɯ˩/. (Avais d’abord noté /‡tʰe˩/ (comme en naxi); corrigé en /tʰi˧/ en 2009, date à laquelle le ton avait également été modifié, en fait à tort.) "/>
     <NOTE xml:lang="fr" message="/ɖɯ˧/: M18 corrige à tort en ‡H, du fait de l’intonation."/>
-		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
+		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
     <TRANSL xml:lang="fr">on dit qu’il s’en alla vivre plusieurs années dans les forêts de haute altitude.</TRANSL>
 	<TRANSL xml:lang="en">(He) lived in the deep forest for several years.</TRANSL>
     <TRANSL xml:lang="zh">而（他）在深山老林（一直）住了几年。</TRANSL>
@@ -254,7 +254,7 @@
 	   <TRANSL xml:lang="en">then</TRANSL>
     </W>
     <W>
-      <FORM>dʑɯ˩nɑ˩mi˩</FORM>
+      <FORM>dʑɯ˩-nɑ˩mi˩</FORM>
       <TRANSL xml:lang="fr">forêt_d’altitude</TRANSL>
 	  <TRANSL xml:lang="en">big forest</TRANSL>
     </W>

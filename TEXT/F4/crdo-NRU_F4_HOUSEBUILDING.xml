@@ -3249,7 +3249,7 @@
 		</W>
 </S>
 <S id="HouseBuilding_S051"><AUDIO start="222.3411" end="228.7224"/>
-	<FORM kindOf="phono">ɲi˧-ɬi˧ | tʰi˧-tɕɯ˥-dʑo˩, | qæ˧do˧-ʈʂʰɯ˥, | &lt;dʑ…&gt; dʑɯ˩nɑ˩mi˩˥ | ʈʂʰɯ˧-qo˧ | ɖɯ˧-ʁwɤ˧~ɖɯ˧-ʁwɤ˧ | ɖɯ˧-ʝi˧~ɖɯ˧-ʝi˧ | le˧-gɤ˧˥, | wɤ˩˥ | ʈʂʰɯ˧-qo˧ | tʰi˧-kwɤ˩! |</FORM>
+	<FORM kindOf="phono">ɲi˧-ɬi˧ | tʰi˧-tɕɯ˥-dʑo˩, | qæ˧do˧-ʈʂʰɯ˥, | &lt;dʑ…&gt; dʑɯ˩-nɑ˩mi˩˥ | ʈʂʰɯ˧-qo˧ | ɖɯ˧-ʁwɤ˧~ɖɯ˧-ʁwɤ˧ | ɖɯ˧-ʝi˧~ɖɯ˧-ʝi˧ | le˧-gɤ˧˥, | wɤ˩˥ | ʈʂʰɯ˧-qo˧ | tʰi˧-kwɤ˩! |</FORM>
 	<FORM kindOf="ortho">Nilhi teeji jjo, ghaeddo tee jjinami teegho ddeewua ddeewua ddeeyi ddeeyi legge, uaq teegho teegua.</FORM>
 	<TRANSL xml:lang="fr">Quand on l'a laissé (sécher) deux mois (sur la montagne), le bois de construction, on le porte à l'épaule, tas par tas, d'un endroit à l'autre; ensuite, on le jette ici (=dans le ravin)! </TRANSL>
 	<TRANSL xml:lang="en">When (it had) been left (to dry) for two months, the timber on the high mountains was carried on the shoulders pile by pile, (from) place to place, (and) thrown down again here (into the valley).</TRANSL>
@@ -3285,7 +3285,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩</FORM>
 			<TRANSL xml:lang="fr">haute_montagne</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -18677,9 +18677,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S261"><AUDIO start="1270.9920" end="1276.2447"/>
-	<FORM kindOf="phono">ʝi˧ do˥-dʑo˩, | ʝi˧ ʈɤ˩ | -po˧-hɯ˥-zo˩! | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-tɑ˧˥ | ɖɯ˧-qæ˧~qæ˩-ɳɯ˩ | tʰi˧-tɕi˥! | tʰi˩˥, |</FORM>
+	<FORM kindOf="phono">ʝi˧ do˥-dʑo˩, | ʝi˧ ʈɤ˩ | -po˧-hɯ˥-zo˩! | ʈʂʰɯ˧ne˧-ʝi˥ | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | ɖɯ˧-tɑ˧˥ | ɖɯ˧-qæ˧~qæ˩-ɳɯ˩ | tʰi˧-tɕi˥! | tʰi˩˥, |</FORM>
 	<FORM kindOf="ortho">Yi ddoq jjo, yi de boq hee sso! Tee niq yi, jjinami wo ddeeda ddeeghaeghae nee teeji! Tiq,</FORM>
-	<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
+	<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
 	<NOTE xml:lang="fr" message="Avant 2018 : noté /ɖɯ˧-tɑ˥/."/>
 	<TRANSL xml:lang="fr">quand ils voient des vaches, ils les emmènent (=ils les volent)! Voilà comment ils portent le feu par toute la montagne! / Voilà comment ils mettent la montagne à feu et à sang! (littéralement: "Ils mettent ainsi le feu à tout sur la montagne")</TRANSL>
 	<TRANSL xml:lang="en">If (they) saw cattle, (they) would take the cattle away. In this way, they set fire to everything on the mountains!</TRANSL>
@@ -18730,7 +18730,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩-ʁo˩</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩-ʁo˩</FORM>
 			<TRANSL xml:lang="fr">en_forêt_d_altitude</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
@@ -19196,9 +19196,9 @@
 		</W>
 </S>
 <S id="HouseBuilding_S268"><AUDIO start="1300.8988" end="1306.9561"/>
-	<FORM kindOf="phono">bo˩ʈʂʰæ˧ | ɖɯ˧-pʰæ˧˥, | hɑ˧ | ɖɯ˧-v̩˥ | tʰi˧-tɕɤ˧˥! | v̩˩tsʰɤ˧-tɑ˧pv̩˥ | ɖɯ˧-v̩˥ | tʰi˧-tɕɤ˧˥! | dʑɯ˩nɑ˩mi˩-ʁo˩˥! |</FORM>
+	<FORM kindOf="phono">bo˩ʈʂʰæ˧ | ɖɯ˧-pʰæ˧˥, | hɑ˧ | ɖɯ˧-v̩˥ | tʰi˧-tɕɤ˧˥! | v̩˩tsʰɤ˧-tɑ˧pv̩˥ | ɖɯ˧-v̩˥ | tʰi˧-tɕɤ˧˥! | dʑɯ˩-nɑ˩mi˩-ʁo˩˥! |</FORM>
 	<FORM kindOf="ortho">Bbochae ddeepae, ha ddeevu teeja. Wuce dabeu ddeevu teeja. Jjinami wo!</FORM>
-		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
+		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
 	<TRANSL xml:lang="fr">On faisait bouillir une tranche de lard, une casserole de riz! On faisait bouillir une casserole de légumes séchés! sur la montagne!</TRANSL>
 	<TRANSL xml:lang="en">(They'd) boil up a slab of pork fat and a pot of rice. (They'd) boil up a pot of dehydrated vegetables. On the mountains!</TRANSL>
 	<TRANSL xml:lang="zh">在山上（这种条件下做饭，就是）煮一片琵琶肉、一锅饭！煮一锅晒干的菜！</TRANSL>
@@ -19243,7 +19243,7 @@
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>
-			<FORM>dʑɯ˩nɑ˩mi˩-ʁo˥</FORM>
+			<FORM>dʑɯ˩-nɑ˩mi˩-ʁo˩</FORM>
 			<TRANSL xml:lang="fr">en_haute_montagne</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>

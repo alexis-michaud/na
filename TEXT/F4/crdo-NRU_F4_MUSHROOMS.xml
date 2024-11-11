@@ -7,7 +7,7 @@
 </HEADER>
 <S id="MUSHROOMS_S001">
 	<AUDIO start="0.958" end="6.409"/>
-	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, ◊ ə˩-gi˩! | mmm… dʑɯ˩nɑ˩mi˩-ʁo˩ ʈʂʰɯ˩-qo˥-dʑo˩, | mo˧-ʈʂʰɯ˧, ◊ ə˩-gi˩! |</FORM>
+	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, ◊ ə˩-gi˩! | mmm… dʑɯ˩-nɑ˩mi˩-ʁo˩ ʈʂʰɯ˩-qo˥-dʑo˩, | mo˧-ʈʂʰɯ˧, ◊ ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/mo˧-ʈʂʰɯ˧/: tons vérifiés; on peut également dire: /mo˧-ʈʂʰɯ˥/."/>
 	<TRANSL xml:lang="fr">Autrefois, n'est-ce pas! Sur la montagne, les champignons, n'est-ce pas! (=Je vais parler d'un des thèmes de la vie dans le temps, n'est-ce pas! Les champignons qu'on trouve sur la montagne, voilà de quoi je vais parler!)</TRANSL>
 	<TRANSL xml:lang="zh">从前，是吗！在高山上，菌子的话……是吧！</TRANSL>
@@ -343,8 +343,8 @@
 </S>
 <S id="MUSHROOMS_S050">
 	<AUDIO start="294.121" end="298.51"/>
-	<FORM kindOf="phono">dʑɯ˩nɑ˩mi˩-ʁo˩˥ | ʂwæ˧-hĩ˧-qo˩, | dʑɯ˧ | mɤ˧-dʑo˧-ɲi˥-mæ˩! | ʈʂʰɯ˧-ʁo˥-dʑo˩, | dʑɤ˩˥ | ʂwæ˧-hĩ˧-qo˩, | dʑo˧-mɤ˧-kv̩˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
+	<FORM kindOf="phono">dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | ʂwæ˧-hĩ˧-qo˩, | dʑɯ˧ | mɤ˧-dʑo˧-ɲi˥-mæ˩! | ʈʂʰɯ˧-ʁo˥-dʑo˩, | dʑɤ˩˥ | ʂwæ˧-hĩ˧-qo˩, | dʑo˧-mɤ˧-kv̩˧˥! |</FORM>
+		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
 	<TRANSL xml:lang="fr">En haute montagne, il n'y a pas d'eau, bien sûr! Ca (=l'eau / les ruisseaux), quand on est vraiment haut sur la montagne, il n'y en a pas / il ne s'en trouve pas / on n'en trouve plus!</TRANSL>
 	<TRANSL xml:lang="zh">在深山高处，没有水嘛！（溪流/水，）在很高的地方，是没有的！</TRANSL>
 </S>
@@ -748,8 +748,8 @@
 </S>
 <S id="MUSHROOMS_S111">
 	<AUDIO start="615.427" end="620.182"/>
-	<FORM kindOf="phono">dʑɯ˩nɑ˩mi˩-ʁo˩˥, | tʰi˩˥! | mo˧˥, | ɲi˩-ze˧-gɤ˧ | le˧-ɖʐɤ˧˥, | tʰi˧-dzɯ˥-dʑo˩, | ʈʂʰɯ˧ | mɤ˧-sɯ˧-ɲi˥, | &lt;ə˧tso˧…&gt; ə˧tso˧ ɲi˩, | mɤ˧-sɯ˧-ɲi˥! |</FORM>
-		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩nɑ˩mi˩-ʁo˥/"/>
+	<FORM kindOf="phono">dʑɯ˩-nɑ˩mi˩-ʁo˩˥, | tʰi˩˥! | mo˧˥, | ɲi˩-ze˧-gɤ˧ | le˧-ɖʐɤ˧˥, | tʰi˧-dzɯ˥-dʑo˩, | ʈʂʰɯ˧ | mɤ˧-sɯ˧-ɲi˥, | &lt;ə˧tso˧…&gt; ə˧tso˧ ɲi˩, | mɤ˧-sɯ˧-ɲi˥! |</FORM>
+		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
 	<NOTE xml:lang="fr" message = "tons de /mɤ˧-sɯ˧-ɲi˥/ vérifiés"/>
 	<NOTE xml:lang="fr" message = "/ɲi˩/: a ici le sens de 'vouloir'; exemple fabriqué: l'hôte dit à un invité qui habite chez lui: /ɲi˩-ze˧-gɤ˧, | le˧-dzɯ˥!/ 'Mange selon ton bon vouloir / Mange tout ce qu'il te plaît / Sers-toi de nourriture, fais comme chez toi!'"/>
 	<TRANSL xml:lang="fr">Sur la montagne, eh! Les champignons, on les cueille comme on veut / suivant son bon vouloir, on le mange; on ne sait pas… on ne sait pas lequel c'est (=de quelle espèce il s'agit au juste)!</TRANSL>

@@ -24,11 +24,11 @@
 	<TRANSL xml:lang="fr">on dit que "Si vous voyez le léopard, c'est que votre mère va mourir! Si vous voyez le tigre, c'est que votre père va mourir!"</TRANSL>
 </S>
 <S id="Tiger2S006"><AUDIO start="28.0244" end="36.6165"></AUDIO>
-	<FORM>tʰi˩˥, | "lɑ˧ do˩, | ə˧dɑ˧ ʂɯ˧!" | pi˧-hĩ˧-ʈʂʰɯ˧-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | dʑɯ˩ʁo˩-ʈʂʰɯ˥, | zo˧ ɖɯ˧-v̩˧-ʈʂʰɯ˧, | dʑɯ˩nɑ˩mi˩ʁo˩ hɯ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM>tʰi˩˥, | "lɑ˧ do˩, | ə˧dɑ˧ ʂɯ˧!" | pi˧-hĩ˧-ʈʂʰɯ˧-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | dʑɯ˩ʁo˩-ʈʂʰɯ˥, | zo˧ ɖɯ˧-v̩˧-ʈʂʰɯ˧, | dʑɯ˩-nɑ˩mi˩ʁo˩ hɯ˩-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 	<TRANSL xml:lang="fr">Alors, ce dicton selon lequel "Si vous voyez le tigre, c'est que votre père va mourir", eh bien, autrefois, en montagne… il y a un homme qui est allé en montagne!</TRANSL>
 </S>
 <S id="Tiger2S007"><AUDIO start="37.4697" end="40.4508"></AUDIO>
-	<FORM>dʑɯ˩nɑ˩mi˩ʁo˩ hɯ˩˥ ◊ -dʑo˩, | lɑ˧ ɖɯ˧-pʰo˧ do˧-tsɯ˥ ◊ -mv̩˩! |</FORM>
+	<FORM>dʑɯ˩-nɑ˩mi˩ʁo˩ hɯ˩˥ ◊ -dʑo˩, | lɑ˧ ɖɯ˧-pʰo˧ do˧-tsɯ˥ ◊ -mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message="tons de /lɑ˧ ɖɯ˧-pʰo˧ do˧-tsɯ˥ ◊ -mv̩˩/ vérifiés"></NOTE>
 	<NOTE xml:lang="fr" message="élicité au passage: /ɖɯ˧-pʰo˧ do˧˥/ 'voir un [gros animal]'"></NOTE>
 	<TRANSL xml:lang="fr">Parti en montagne, on dit qu'il a aperçu un tigre!</TRANSL>
@@ -197,7 +197,7 @@
 	<TRANSL xml:lang="fr">Or autrefois, on partait tôt le matin, vers huit heures; il y avait des cabanes de berger [qui servaient de refuge sur la montagne]!</TRANSL>
 </S>
 <S id="Tiger2S044"><AUDIO start="203.3274" end="205.1944"></AUDIO>
-	<FORM>dʑɯ˩nɑ˩mi˩ʁo˩˥ ◊ -dʑo˩, | ʑi˧qʰwɤ˧ | mɤ˧-di˩-ɲi˩-mæ˩! |</FORM>
+	<FORM>dʑɯ˩-nɑ˩mi˩ʁo˩˥ ◊ -dʑo˩, | ʑi˧qʰwɤ˧ | mɤ˧-di˩-ɲi˩-mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">En montagne, il n'y a pas de maisons, hein!</TRANSL>
 </S>
 <S id="Tiger2S045"><AUDIO start="205.9171" end="218.7650"></AUDIO>
@@ -473,7 +473,7 @@
 	<TRANSL xml:lang="fr">"Pourquoi pleures-tu? De qui es-tu la fille? Comment se fait-il que tu parviennes ici toute seule?"</TRANSL>
 </S>
 <S id="Tiger2S103"><AUDIO start="501.3632" end="504.7207"></AUDIO>
-	<FORM>"dʑɯ˩nɑ˩mi˩˥ | ʈʂʰɯ˧-ʂwæ˧~ʂwæ˧-hĩ˧-qo˩, | ə˧tse˧ ʝi˧ | no˧-tɑ˧kɤ˥ | se˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>"dʑɯ˩-nɑ˩mi˩˥ | ʈʂʰɯ˧-ʂwæ˧~ʂwæ˧-hĩ˧-qo˩, | ə˧tse˧ ʝi˧ | no˧-tɑ˧kɤ˥ | se˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">"Comment se fait-il que tu marches seule, aussi haut sur la montagne?" lui a dit cette personne.</TRANSL>
 </S>
 <S id="Tiger2S104"><AUDIO start="505.3380" end="507.8975"></AUDIO>

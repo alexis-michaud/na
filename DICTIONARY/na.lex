@@ -763,7 +763,7 @@
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> littéralement «les gens du dehors»
 \ton L
-\lc ɑ˩pʰo˩-hĩ˩˥
+\lc ɑ˩pʰo˩hĩ˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -2192,7 +2192,7 @@
 \lx bæ˧mi˧-mi˩
 \or bbaemimi
 \ps n
-\lc bæ˧mi˧-mi˩
+\lc bæ˧mi˧mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton -L
@@ -2788,7 +2788,7 @@
 \xe The water is flowing profusely!
 \xn 水暴发了！/水流如注！
 \xf L'eau s'est déversée à flots!
-\xv dʑɯ˩nɑ˩mi˩ bi˩bɻ̩˥-ze˩-pʰæ˩di˩!
+\xv dʑɯ˩-nɑ˩mi˩ bi˩bɻ̩˥-ze˩-pʰæ˩di˩!
 \xe There seems to be a flood / landslide out on the mountain!
 \xn 山上的水爆发了的样子！（激流流得很冲，好像山肚子爆炸了一样）/山上好像有了泥石流！
 \xf On dirait qu'il y a une coulée de boue / un glissement de terrain sur la montagne!
@@ -6247,7 +6247,7 @@
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> noté en 2018, à la demande de Roselle Dobbs
 \ton M
-\lc ɕi˧tɕʰi˧-tʰjæ˧
+\lc ɕi˧tɕʰi˧tʰjæ˧
 \so F4
 \bw <langue="cmn"> 星期天
 \de Sunday.
@@ -12844,11 +12844,11 @@
 \df Moulin à eau.
 \gf moulin_à_eau
 
-\lx dʑɯ˩nɑ˩mi˩
+\lx dʑɯ˩-nɑ˩mi˩
 \sf <nb="2011"> 55
 \or jjinami
 \ps n
-\cf dʑɯ˩nɑ˩mi˩-ʁo˩
+\cf dʑɯ˩-nɑ˩mi˩-ʁo˩
 \cf dʑɯ˩ʁo˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12863,18 +12863,18 @@
 \gf forêt_d_altitude
 \dt 27/Aug/2015
 
-\lx dʑɯ˩nɑ˩mi˩-ʁo˩
+\lx dʑɯ˩-nɑ˩mi˩-ʁo˩
 \sf <nb="B"> 36
 \sf <nb="2011"> 54
 \or jjinamiwo
 \ps n
-\cf dʑɯ˩nɑ˩mi˩
+\cf dʑɯ˩-nɑ˩mi˩
 \cf dʑɯ˩ʁo˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ˩ ˩ ˩ ˧
 \ton L
-\lc dʑɯ˩nɑ˩mi˩-ʁo˩˥
+\lc dʑɯ˩nɑ˩mi˩ʁo˩˥
 \so F4
 \de Mountain areas (uncultivated), mountain forest, wilderness.
 \ge mountain_area
@@ -13134,7 +13134,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /dʑi˩ kʶwɑ˩ lv̩˩˥/) (n'est pas dʑɯ)
 \ton L
-\lc dʑɯ˩qʰwɤ˩-lv̩˩˥
+\lc dʑɯ˩qʰwɤ˩lv̩˩˥
 \so F4
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥
@@ -13145,14 +13145,13 @@
 \gr 潮地
 \df Marais (terre impropre à la culture).
 \gf marais
-\dt 24/Apr/2017
 
 \lx dʑɯ˩ʁo˩
 \sf <nb="2011"> 53
 \or jjiwo
 \ps n
-\cf dʑɯ˩nɑ˩mi˩
-\cf dʑɯ˩nɑ˩mi˩-ʁo˩
+\cf dʑɯ˩-nɑ˩mi˩
+\cf dʑɯ˩-nɑ˩mi˩-ʁo˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> cf récit “Frère et sœur"; avant 2011: noté ˩ ˧
@@ -13320,7 +13319,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (tons confirmés en 2006 et 2007, composition phonémique confirmée)
 \ton L
-\lc dʑɯ˩ʁo˩-zɯ˩˥
+\lc dʑɯ˩ʁo˩zɯ˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˩ʁv̩˩-zɯ˩
@@ -14163,7 +14162,7 @@
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> impossible de séparer en deux moitiés; on imagine une origine dans une coordination d'un élément masculin et un féminin, mais ce n'est plus analysable.
 \ton #H
-\lc ɖʐv̩˧ʐv̩˧-ɖʐv̩˧mi˧
+\lc ɖʐv̩˧ʐv̩˧ɖʐv̩˧mi˧
 \so F4
 \de Friend, companion, partner.
 \ge companion
@@ -14625,7 +14624,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton MH#
-\lc ə˧bo˧-ɖɯ˧˥
+\lc ə˧bo˧ɖɯ˧˥
 \so F4
 \pdv v̩˧
 \de Father's elder brother. (The term refers to a member of the father's family).
@@ -20766,7 +20765,7 @@
 \or megge
 \ps v
 \ton L
-\lc mɤ˧-gɤ˩
+\lc mɤ˧gɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé) (2024: on ne peut employer le verbe autrement qu'à la forme négative)
@@ -20804,7 +20803,8 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> ton équivalent de d2a (+ɲi˥) (confirmé: n'est pas /ɕ/)
-\ton LM+#H
+\nt <type="hist" print="n" langue="fra"> Analyse du ton sous-jacent modifiée de LM+#H à L-#H en novembre 2024.
+\ton L-#H
 \lc hi˩nɑ˧mi˧
 \cf lo˧ʂv̩˩ | hi˩-nɑ˧mi#˥
 \so F4
@@ -21574,7 +21574,7 @@
 \ps adj
 \nt <type="hist" print="n" langue="fra"> Ne s'emploie pas sans |fv{-hĩ}
 \ton L
-\lc hɤ˩-ʂe˩ʂe˩˥
+\lc hɤ˩ʂe˩ʂe˩˥
 \cf hɤ˩α2
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -23109,7 +23109,7 @@
 \ps n
 \sy hwæ˧qʰæ#˥
 \sy ʂæ˧-lo˩pv̩˩
-\lc hwɤ˧li˧-hwæ˧qʰæ˧
+\lc hwɤ˧li˧hwæ˧qʰæ˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton #H
@@ -26796,7 +26796,7 @@
 \or ghosomi
 \ps n
 \ton L#-
-\lc qo˧so˩-mi˩
+\lc qo˧so˩mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \so F4
@@ -28984,15 +28984,47 @@
 \xe 〜 |fg{dem} |fg{clf}
 \xn 这条狗
 \xf 〜 |fg{dem} |fg{clf}
-\xv di˧qo˧-kʰv̩˩mi˩
-\xe the dogs of the plain (which, unlike dogs in mountain hamlets, get to see lots of passers-by, and are less likely to bite strangers)
-\xn 平坝的狗
-\xf les chiens de la plaine (qui à la différence des chiens des petits hameaux de montagne voient beaucoup de passage et sont moins susceptibles de mordre les inconnus de passage)
-\xv kʰv̩˩mi˩-gɤ˥ljɤ˩
-\xe roving dog
-\xn 流浪的狗
-\xf chien errant
-\dt 24/Apr/2017
+\xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
+\xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
+\xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
+\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal sacré dans la culture na.)
+
+\lx di˧qo˧-kʰv̩˩mi˩
+\or ddigho kumi
+\mr di˧qo˧
+\mr kʰv̩˩mi˩
+\ps n
+\lc di˧qo˧kʰv̩˩mi˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton -L
+\so F4
+\pdv v̩˧
+\pdc <langue="fra"> terme respectueux: le même que pour les humains
+\pdv jɤ˧˥
+\de Dog of the plain (either he-dog or she-dog). The dogs of the plain, unlike dogs in mountain hamlets, get to see lots of passers-by, and are less likely to bite strangers suddenly.
+\ge dog_of_the_plain
+\dn 平坝的狗
+\gn 平坝的狗
+\df Chien de la plaine (sans spécifier le sexe). À la différence des chiens des petits hameaux de montagne, les chiens de la plaine voient beaucoup de passage et sont moins susceptibles de mordre subitement les inconnus.
+\gf chien
+
+\lx kʰv̩˩mi˩-gɤ˥ljɤ˩
+\or kumi ggelia
+\mr kʰv̩˩mi˩
+\ps n
+\lc kʰv̩˩mi˩gɤ˥ljɤ˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton L+#H-
+\so F4
+\pdv jɤ˧˥
+\de Roving dog.
+\ge roving_dog
+\dn 流浪的狗
+\gn 流浪的狗
+\df Chien errant.
+\gf chien_errant
 
 \lx kʰv̩˧mv̩˥
 \or kumu
@@ -33489,7 +33521,7 @@
 \or loni solee
 \ps n
 \ton H# | M
-\lc lo˧ɲi˥so˧-ɭɯ˧
+\lc lo˧ɲi˥so˧ɭɯ˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \so F4
@@ -33796,7 +33828,7 @@
 \nt <dom="morpho" langue="eng"> The expression consists of the simple succession of the place name |fv{lo˧ʂv̩˩} and the common noun ‘lake’. There is no tonal change.
 \nt <dom="morpho" langue="cmn"> 该名词由地名|fv{lo˧ʂv̩˩}‘落水’与普通名词‘湖’的简单连用组成。没有声调变化。
 \ton L# | L-
-\lc lo˧ʂv̩˩hi˩-nɑ˧mi˧
+\lc lo˧ʂv̩˩hi˩nɑ˧mi˧
 \so F4
 \de Lugu Lake.
 \ge Lake_Lugu
@@ -42038,7 +42070,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton LM-LH
-\lc njo˩kæ˧-tɕi˩˥
+\lc njo˩kæ˧tɕi˩˥
 \so F4
 \de Cep, |fi{Boletus edulis}.
 \ge 牛肝菌::cep
@@ -44053,7 +44085,7 @@
 \nt <dom="phono" langue="eng"> This very common expression is phonetically simplified. By dint of phonetic erosion, its last three syllables resemble a simple disyllabic form: [|fv{ʈʂʰɯ˧ni˧˥}]. Nevertheless, it remains decomposable for the main consultant.
 \nt <dom="phono" langue="cmn"> 这个常见的短语在实际发音上似乎简化为 [……|fv{ʈʂʰɯ˧ni˧˥}]：后面三个音节类似于简单的双音节[|fv{ʈʂʰɯ˧ni˧˥}]。尽管如此，对于第二作者，它仍然是可分解的。
 \ton H#
-\lc õ˧ʈʂʰɯ˧ne˧-ʝi˥
+\lc õ˧ʈʂʰɯ˧ne˧ʝi˥
 \so F4
 \de In that way.
 \ge that_way
@@ -52227,7 +52259,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
-\lc qʰwɤ˩-ʝi˩˥
+\lc qʰwɤ˩ʝi˩˥
 \nt <langue="fra" dom="ton"> Schéma tonal régulier: l'adjectif au ton L se comporte comme un nom au ton L en position d'objet. Avec un verbe au ton H, cela donne /L.L/.
 \so F4
 \sn 1
@@ -54086,7 +54118,7 @@
 \sd <langue="eng"> plant
 \sy ʁo˩kʰv̩˩
 \ton L
-\lc ʁo˩kʰv̩˩-si˩˥
+\lc ʁo˩kʰv̩˩si˩˥
 \so F4
 \de Sandalwood, sandlewood. Same meaning as /|fv{ʁo˩kʰv̩˩}/, with addition of the word for `wood', /|fv{si˥}/.
 \ge sandalwood
@@ -56465,7 +56497,7 @@
 \sd <langue="eng"> food
 \nt <type="hist" print="n" langue="fra"> Sens indiqué par M18 en 2018.
 \ton L
-\lc ʂɑ˩tʰɑ˧-dze˧
+\lc ʂɑ˩tʰɑ˧dze˧
 \so F4
 \de Brown sugar. This is a relatively early loanword from Chinese: to the Chinese word for ‘sugar powder’ is added the Na word for ‘sugar’, and the whole expression refers specifically to brown sugar, not to sugar powder (in fact, brown sugar used to come as blocks, not as powder).
 \ge red_sugar
@@ -59325,7 +59357,7 @@
 \or soceeni
 \ps n
 \ton M
-\lc so˧tsʰi˧-ɲi˧
+\lc so˧tsʰi˧ɲi˧
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; vérifié: n'est pas /tsʰi/) (avant 2009: so˥tsʰɯ˥ɲi˥) en 2018, nouvelle vérification: il ne paraît pas plausible qu'on trouve /so˧tsʰi˧/ pour 'trente' mais /so˧tsʰɯ˧-ɲi˧/ pour '30e jour'. Réponse: c'est bien /so˧tsʰi˧-ɲi˧/. Confirmé en 2024.
@@ -64374,18 +64406,19 @@
 \xe Lily buds look like garlic!
 \xn 百合，像大蒜！
 \xf Le lis, ça ressemble à de l'ail!
-\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˥ di˩-kv̩˩!
+\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˧-kv̩˩.
 \xe Lilies grow high up on the mountain!
 \xn 百合长在高山上！
 \xf Le lis, ça pousse dans la montagne/en haute montagne!
-\xc <type="hist" print="n" langue="fra"> avant 2015, noté: /‡dʑɯ˩-nɑ˩mi˩-ʁo˥ | di˧-kv̩˩/.
-\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˥ | di˩-kv̩˩˥! |
+\xc <type="hist" print="n" langue="fra"> Avant 2015, noté: /‡dʑɯ˩-nɑ˩mi˩-ʁo˥ | di˧-kv̩˩/, puis corrigé en /dʑɯ˩-nɑ˩mi˩-ʁo˥ di˩-kv̩˩/. En 2024, relève que le schéma tonal devrait être dʑɯ˩-nɑ˩mi˩-ʁo˩ donnant dʑɯ˩-nɑ˩mi˩-ʁo˩˥, et non dʑɯ˩-nɑ˩mi˩-ʁo˥. xxxx à vérifier. Provisoirement rétabli ??dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˧-kv̩˩.
+\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˩-kv̩˩˥! |
 \xe Lilies grow high up on the mountain!
 \xn 百合长在高山上！
 \xf Le lis, ça pousse dans la montagne/en haute montagne!
 \xc <langue="fra" dom="ton"> Idem ci-dessus, avec une division en groupes tonals différente.
 \xc <langue="eng" dom="ton"> As above, with a different division into tone groups.
 \xc <langue="cmn" dom="ton"> 同上，声调组划分不同。
+\xc <type="hist" print="n" langue="fra"> Comme pour l'exemple précédent: /dʑɯ˩-nɑ˩mi˩-ʁo˥ | di˩-kv̩˩˥/: en 2024, relève que le schéma tonal devrait être dʑɯ˩-nɑ˩mi˩-ʁo˩ donnant dʑɯ˩-nɑ˩mi˩-ʁo˩˥, et non dʑɯ˩-nɑ˩mi˩-ʁo˥. xxxx à vérifier. Provisoirement rétabli ??dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˩-kv̩˩˥.
 
 \lx tɕʰo˩mi#˥
 \or qomi
@@ -72578,9 +72611,9 @@
 \xn 算很了不起的，算很能干的
 \xf être habile / admirable / remarquable, être considéré comme habile, compter comme (quelqu'un d')habile
 \xv ɖwæ˧˥ | hɤ˩ ʈʂɤ˩˥
-\xe same meaning
-\xn 同上
-\xf même sens
+\xe same meaning: to be considered as remarkable
+\xn 同上：算很了不起的，算很能干的
+\xf même sens: être considéré comme habile, compter comme (quelqu'un d')habile
 \xv ʈʂʰɯ˧ | gi˧zɯ˧ ʈʂɤ˧-tso˧-ɲi˥.
 \xe He has the status of little brother! (Comment made to emphasize someone's role in the family.)
 \xn 他是做弟弟的！（强调该人的社会角色）
@@ -73644,7 +73677,7 @@
 \sd <langue="eng"> given name
 \nt <type="hist" print="n" langue="fra"> Avant 2024: le prénom Ceili était confondu avec Ci'er, /tsʰɯ˧ɻ̩˧/. Je pensais que ``Ceili Lhamu'' [|fv{tsʰe˧li˧-lɑ˩mv̩˩}] était une prononciation amuie, avec une simple consonne latérale [l], un changement de la voyelle de la première syllabe en [e], et un adoucissement (dé-rhotacisation) de la deuxième syllabe en [li]. Il s'agit en réalité de deux prénoms différents. Pendant un temps, avais noté /tsʰɤ˧ɻ̩˧. La notation /tsʰe˧li˧/ est adoptée en juillet 2024.
 \ton M
-\lc tsʰe˧li˧-ɬɑ˩mv̩˩
+\lc tsʰe˧li˧ɬɑ˩mv̩˩
 \nt <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], avec une simple consonne latérale [|fv{l}].
 \nt <dom="phono" langue="eng"> Phonetic realization is close to [|fv{tsʰe˧li˧-lɑ˩mv̩˩}], with a simple lateral consonant [|fv{l}].
 \nt <dom="phono" langue="cmn"> 实际发音接近[|fv{tsʰe˧li˧-lɑ˩mv̩˩}]：/|fv{ɬ}/简化为[|fv{l}]。
@@ -76474,6 +76507,7 @@
 \lx v̩˩
 \or vuq
 \ps v
+\sy v̩˧~v̩˥
 \lc v̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -76485,6 +76519,30 @@
 \gn 搂
 \df Embrasser, prendre dans ses bras (monosyllabe extrait de la forme |fv{/le˧-v̩˧~v̩˥/}).
 \gf embrasser
+\xv ʁæ˧ | le˧-v̩˩
+\xe to have one's arm curled around somebody's neck
+\xn 搂人的脖子
+\xf tenir le cou (de quelqu'un) au creux du bras
+\xv ʁæ˧ v̩˥ se˩
+\xe to walk together with someone, arm curled around the neck
+\xn 互相搂着走
+\xf marcher/se promener en se tenant enlacés / en tenant le cou de l'autre au creux du bras
+
+\lx v̩˧~v̩˥
+\or vuvu
+\mr v̩˩˥
+\ps v
+\lc v̩˧v̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton Lα
+\so F4
+\de To hug, to embrace.
+\ge to_hug
+\dn 搂（人的脖子）
+\gn 搂
+\df Embrasser, prendre dans ses bras.
+\gf embrasser
 \xv ʁæ˧ v̩˧~v̩˥
 \xe to have one's arm curled around somebody's neck
 \xn 搂人的脖子
@@ -76493,14 +76551,6 @@
 \xe as above: to have one's arm curled around somebody's neck
 \xn 同上：搂人的脖子
 \xf même sens: tenir le cou (de quelqu'un) au creux du bras
-\xv ʁæ˧ | le˧-v̩˩
-\xe as above
-\xn 同上
-\xf même sens
-\xv ʁæ˧ v̩˥ se˩
-\xe to walk together with someone, arm curled around the neck
-\xn 互相搂着走
-\xf marcher/se promener en se tenant enlacés / en tenant le cou de l'autre au creux du bras
 
 \lx v̩˧
 \sf <nb="B"> 2182
@@ -76646,7 +76696,7 @@
 \sf <nb="2011"> 2888
 \or vuzzeiku
 \ps n
-\lc v̩˩dze˩-kʰv̩˩˥
+\lc v̩˩dze˩kʰv̩˩˥
 \cf kʰv̩˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -77004,6 +77054,8 @@
 \lx wo˩˥
 \or uoq
 \ps n
+\sy wo˩bɤ˧˥
+\sy wo˩-v̩˥tsʰɤ˩
 \lc wo˩˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -77013,22 +77065,71 @@
 \ge turnip_leaves
 \dn 圆根的叶子
 \gn 圆根叶子
-\df Feuilles du navet.
+\df Feuilles du navet. Elles étaient consommés comme légume vert.
 \gf feuilles_du_navet
-\xv wo˩bɤ˧˥
-\xe same meaning: turnip leaves
-\xn 同上：圆根叶子
-\xf même sens: feuilles du navet
-\xv wo˩-v̩˥tsʰɤ˩
-\xe same meaning: turnip leaves; literally ‘turnip leaves vegetable', emphasizing the fact that they are used as a vegetable: as an ingredient in a recipe
-\xn 同上：圆根叶子
-\xf même sens: feuilles du navet; littéralement ‘légume-feuilles du navet'; l'expression souligne qu'il s'agit d'une variété de légume: d'un ingrédient pour la cuisine
+
+\lx wo˩bɤ˧˥
+\or uobbe
+\ps n
+\sy wo˩˥
+\sy wo˩-v̩˥tsʰɤ˩
+\lc wo˩bɤ˧˥
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L+MH#
+\so F4
+\de Turnip leaves; they used to be eaten as a vegetable.
+\ge turnip_leaves
+\dn 圆根的叶子
+\gn 圆根叶子
+\df Feuilles du navet. Elles étaient consommés comme légume vert.
+\gf feuilles_du_navet
+
+\lx wo˩-v̩˥tsʰɤ˩
+\or uo bbe
+\mr wo˩˥
+\mr v̩˩tsʰɤ˧˥
+\ps n
+\sy wo˩˥
+\sy wo˩bɤ˧˥
+\lc wo˩v̩˥tsʰɤ˩
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L+#H-
+\so F4
+\de Turnip greens (turnip leaves, which used to be eaten as a vegetable). The term literally means ‘turnip leaves vegetable', emphasizing the fact that they are used as a vegetable for cooking.
+\ge turnip_greens
+\dn 圆根的叶子
+\gn 圆根叶子
+\df Feuilles du navet. Elles étaient consommés comme légume vert.
+\gf feuilles_du_navet
+\xv bo˩ʈʂʰæ˧-qo˩-dʑo˩ | tʰi˩˥, | wo˩-v̩˥tsʰɤ˩ tʰi˩-kʰɯ˩.
+\xe We put turnip greens in [dishes made with] bacon.
+\xn 我们在用熏肉做的菜里会放圆根叶子。
+\xf Dans [les plats à base de] lard, on mettait des feuilles du navet (littéralement ‘légume-feuilles du navet'; l'expression souligne qu'il s'agit d'une variété de légume, d'un ingrédient pour la cuisine).
 \txt Housebuilding2.204
 \doi 10.24397/pangloss-0004550#S204
-\xv wo˩-tɕæ˩ɻæ˥
-\xe pickled turnip leaves
-\xn 圆根叶子酸菜
-\xf feuilles du navet conservées dans la saumure
+
+\lx wo˩-tɕæ˩ɻæ˥
+\or uo jae'er
+\mr wo˩˥
+\mr tɕæ˧ɻæ˩
+\ps n
+\lc wo˩tɕæ˩ɻæ˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton L+H#
+\so F4
+\de Pickled turnip leaves, pickled turnip greens.
+\ge pickled_turnip_greens
+\dn 圆根叶子酸菜
+\gn 圆根叶子酸菜
+\df Feuilles de navet conservées dans la saumure.
+\gf feuilles_de_navet_en_saumure
+\xv wo˩-tɕæ˩ɻæ˥ tʰi˩-kʰɯ˩.
+\xe We also put pickled turnip greens [in dishes made with bacon].
+\xn （在用熏肉做的菜里）还会放圆根叶子酸菜。
+\xf [Dans les plats à base de lard,] on mettait aussi des feuilles de navet conservées.
 \txt Housebuilding2.205
 \doi 10.24397/pangloss-0004550#S205
 
@@ -77257,6 +77358,8 @@
 \sf <nb="2011"> 659
 \or uoge
 \ps n
+\sy wo˩kɤ˧-tsɑ˧˥
+\sy wo˩kɤ˧-tsɑ˧-di˧˥
 \lc wo˩kɤ˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -77270,15 +77373,48 @@
 \gn 秋千
 \df Balançoire.
 \gf balançoire
-\xv wo˩kɤ˧-tsɑ˧-di˧˥
-\xe same meaning: swing
-\xn 同上：秋千
-\xf même sens: balançoire
-\xv wo˩kɤ˧ tsɑ˧˥
-\xe same meaning: swing
-\xn 同上：秋千
-\xf même sens: balançoire
-\dt 27/Apr/2017
+
+\lx wo˩kɤ˧-tsɑ˧˥
+\sf <nb="2011"> 659
+\or uoge za
+\mr wo˩kɤ#˥
+\ps n
+\sy wo˩kɤ#˥
+\sy wo˩kɤ˧-tsɑ˧-di˧˥
+\lc wo˩kɤ˧tsɑ˧˥
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\nt <type="hist" print="n" langue="fra"> xxxx sens à vérifier: /tsɑ˧˥/: serait-ce un verbe? 'ramer'??
+\ton LM+MH#
+\so F4
+\pdv nɑ˧α
+\de Swing.
+\ge swing
+\dn 秋千（鞦韆）
+\gn 秋千
+\df Balançoire.
+\gf balançoire
+
+\lx wo˩kɤ˧-tsɑ˧-di˧˥
+\sf <nb="2011"> 659
+\or uoge za ddi
+\mr wo˩kɤ#˥
+\ps n
+\sy wo˩kɤ#˥
+\sy wo˩kɤ˧-tsɑ˧˥
+\lc wo˩kɤ˧tsɑ˧di˧˥
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\nt <type="hist" print="n" langue="fra"> xxxx sens à vérifier: /tsɑ˧˥/: serait-ce un verbe? 'ramer'??
+\ton LM+MH#
+\so F4
+\pdv nɑ˧α
+\de Swing.
+\ge swing
+\dn 秋千（鞦韆）
+\gn 秋千
+\df Balançoire.
+\gf balançoire
 
 \lx wɤ˩α
 \or uaq
@@ -79320,12 +79456,12 @@
 \xf Contexte: on va couper du bois en montagne, à un endroit où il n'y a pas de chemin. Les gens se succèdent, et cela finit par ouvrir un chemin/former une sorte de chemin
 \sn 2
 \so M18
-\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his/her soul and guide him/her back to the place where his/her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries.
-\ge Remi
-\dn 达巴口诵经典《仁咪经》。《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
+\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his/her soul and guide him/her back to the place where his/her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
+\ge Remi.epic
+\dn 达巴口诵经典《仁咪经》。拉他咪王勇解释：《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
 \gn 《仁咪经》
-\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances.
-\gf Remi
+\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances. (Information fournie par Latami Wangyong.)
+\gf Remi.épopée
 
 \lx zo˧mv̩˥
 \sf <nb="B"> 258
@@ -79814,9 +79950,9 @@
 \df Se balancer.
 \gf se_balancer
 \xv le˧-ʐo˩~ʐo˩ | le˧-ʐo˩~ʐo˩ |
-\xe To swing to and fro. The form with accomplished prefix is typically said twice, in keeping with the repetitive nature of the process of swinging.
-\xn 来回摆动。与摆动过程的重复性一致，带有完成前缀的形式通常会说两次。祝你长寿！
-\xf Même sens: se balancer. La forme avec préfixe accompli se répète généralement, en cohérence avec la nature répétitive du procès.
+\xe To swing to and fro. The form with accomplished prefix is typically said twice, adding repetition to reduplication. Both are in keeping with the repetitive nature of the process of swinging.
+\xn 来回摆动。与摆动过程的重复性一致，带有完成前缀的形式通常会说两次。
+\xf Se balancer. La forme avec préfixe accompli se répète généralement, cette répétition s'ajoutant à la réduplication, l'une et l'autre en cohérence avec la nature répétitive du procès.
 
 \lx zo˧~zo˧-mv̩˧~mv̩˥
 \or ssossomumu
@@ -80161,7 +80297,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" dom="sem" langue="fra"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
 \ton #H
-\lc zɯ˧-qʰɑ˧mi˧
+\lc zɯ˧qʰɑ˧mi˧
 \so F4
 \pdv po˧
 \de Sabai grass, |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}.
@@ -82087,6 +82223,7 @@
 \nt <type="hist" print="n" langue="fra"> Vérifié: initiale vélaire et non uvulaire dans /kwɤ˧/.
 \nt <type="hist" print="n" langue="fra"> Première notation: /tɕɯ/.
 \ton H#
+\sy -kwɤ˧tɕɯ˥-lɑ˩
 \lc kwɤ˧tɕɯ˥
 \so F4
 \de After; because, since, as.
@@ -82095,10 +82232,28 @@
 \gn 由于/既然
 \df Comme; après; puisque.
 \gf après/du_fait_que
-\xv -kwɤ˧tɕɯ˥-lɑ˩
-\xe same meaning
-\xn 同上
-\xf même sens
+\xv ʈʂʰɯ˧ | tʰi˧-dzi˩-kwɤ˩-tɕɯ˩, | ɖɯ˧-kʰwɤ˧ ʐwɤ˧-ɻ̩˥: | “sɤ˧sɤ˧˥ | ʐwæ˧˥!"
+\xe After he got seated, he said the following: “How comfortable!"
+\xn 他坐下后，说了这么一句：“真舒服！”
+\xf après s’être assis/lorsqu’il fut assis, il dit une phrase: «quel confort!»
+\rf M18
+
+\lx -kwɤ˧tɕɯ˥-lɑ˩
+\sf <nb="2011"> 3384
+\or gua ji la
+\ps cnj
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton H#-
+\sy -kwɤ˧tɕɯ˥
+\lc kwɤ˧tɕɯ˥lɑ˩
+\so F4
+\de After; because, since, as.
+\ge after/because
+\dn 因为，由于，既然
+\gn 由于/既然
+\df Comme; après; puisque.
+\gf après/du_fait_que
 \xv ʈʂʰɯ˧ | go˩-kwɤ˩tɕɯ˥-lɑ˩, | hɑ˧ mɤ˧-dzɯ˥.
 \xe Because (s)he is ill, (s)he does not eat.
 \xn 他病了，吃不下饭。
@@ -82111,12 +82266,6 @@
 \xn 他这样说完以后，又讲了些其它的。
 \xf ayant dit cela, il dit à nouveau autre chose (après avoir dit ça, il a dit ajouté autre chose!)
 \rf M18
-\xv ʈʂʰɯ˧ | tʰi˧-dzi˩-kwɤ˩-tɕɯ˩, | ɖɯ˧-kʰwɤ˧ ʐwɤ˧-ɻ̩˥: | “sɤ˧sɤ˧˥ | ʐwæ˧˥!"
-\xe After he got seated, he said the following: “How comfortable!"
-\xn 他坐下后，说了这么一句：“真舒服！”
-\xf après s’être assis/lorsqu’il fut assis, il dit une phrase: «quel confort!»
-\rf M18
-\dt 05/Aug/2017
 
 \lx -læ˧
 \or lae
@@ -82516,10 +82665,6 @@
 \xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
 \xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal sacré dans la culture na.)
-\xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
-\xe as above
-\xn 同上
-\xf même sens
 \xv bo˩-pɤ˥to˩; lɑ˧-pɤ˧to˩; mv̩˩-pɤ˥to˩; ʐwæ˧-pɤ˧to˩; ɬi˧mi˧-pɤ˧to˩; ɲi˧mi˧-pɤ˧to˩; hwɤ˧li˧-pɤ˥-to˩; hwɤ˧mi˧-pɤ˥to˩; kʰv̩˩mi˩-pɤ˥-to˩; ʁo˧dzi˩-pɤ˩to˩; ʝi˩ʈʂæ˧-pɤ˥to˩; nɑ˩hĩ˧-pɤ˧to˩; bo˩mi˧-pɤ˧to˩; bo˩ɬɑ˧-pɤ˩to˩; ʁæ˧ʈv̩˥-pɤ˩to˩
 \xe combinations with nouns of the various tone categories
 \xn 与不同声调类的名词结合
@@ -83361,21 +83506,21 @@
 \ton M | L
 \lc tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩˥
 \so M18
-\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative.
-\ge Cozzi_Ddimezzi
-\dn 达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
+\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative. (Information supplied by Latami Wangyong.)
+\ge Cozzi_Ddimezzi.epic
+\dn 拉他咪王勇解释：达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
 \gn 《搓孜地玛孜经》
-\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple moso, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit.
-\gf Cozzi_Ddimezzi
+\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple moso, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit. (Information fournie par Latami Wangyong.)
+\gf Cozzi_Ddimezzi.épopée
 
 \lx dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
 \or Zzitu Cotu
 \ps n
-\cf tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
+\sy tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton M
-\lc dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
+\lc dzɯ˧tʰv̩˧tsʰo˧tʰv̩˧
 
 \lx hɑ˩nɑ˧gv̩˧
 \or Hanaggu
@@ -83385,12 +83530,12 @@
 \ton LM
 \lc hɑ˩nɑ˧gv̩˧
 \so M18
-\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Mosuo's ancestors.
-\ge Hanaggu
-\dn 达巴口诵经典《哈纳鼓经》。在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
+\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Mosuo's ancestors. (Information supplied by Latami Wangyong.)
+\ge Hanaggu.epic
+\dn 达巴口诵经典《哈纳鼓经》。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
 \gn 《哈纳鼓经》
-\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Moso.
-\gf Hanaggu
+\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Moso. (Information fournie par Latami Wangyong.)
+\gf Hanaggu.épopée
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
 \or Pusso Pudulu
@@ -83398,14 +83543,14 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton M
-\lc pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
+\lc pʰv̩˧zo˧pʰv̩˧tv̩˧lv̩˧
 \cf lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
 \so M18
-\de Pusso Pudulu, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\de Pusso Pudulu, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
 \ge Pusso_Pudulu
-\dn 普若普嘟噜：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
+\dn 普若普嘟噜。拉他咪王勇解释：普若普嘟噜是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
 \gf Pusso_Pudulu
 
 \lx lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
@@ -83414,12 +83559,57 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton M-ML
-\lc lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
+\lc lv̩˧ɕi˧ʈʂɯ˧nɑ˩hɑ˩
 \cf pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
 \so M18
-\de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families).
+\de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
 \ge Luxi_Zhinaha
-\dn 噜细至纳哈：达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
+\dn 噜细至纳哈。拉他咪王勇解释： 噜细至纳哈是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles).
+\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
 \gf Luxi_Zhinaha
+
+\lx kv̩˧pv̩˧
+\or Gubu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M
+\lc kv̩˧pv̩˧
+\so M18
+\de Gubu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic for worshipping the well water. It is usually recited in the second month of the lunar calendar every year. If someone cut down a tree next to the well water, threw unclean dirt into the well water, or offended the god of the well water, they may get a wound or get sick. Then the Gubu epic is recited as rituals for healing are performed. (Information supplied by Latami Wangyong.)
+\ge Gubu.epic
+\dn 《估布经》。拉他咪王勇解释：《估布经》是祭祀井水（龙潭）的经典。通常在每年的农历二月举行念诵仪式。主要讲的是一个叫“比茨若”的人因砍伐井水旁的树木、或者把不干净的污物扔到井水里、或者得罪井水神“日目估”，就会不明不白的染上伤口或生病，这时就要举行祭祀同时念诵《估布经》。
+\gn 《估布经》
+\df Gubu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'un classique pour célébrer l'eau du puits. Il est généralement récité chaque année au cours du deuxième mois du calendrier lunaire. Si quelqu'un coupe un arbre à côté du puits, jette des impuretés dans l'eau du puits ou offense le dieu de l'eau du puits, il risque de se blesser ou de tomber malade. L'épopée Gubu est alors récitée, et des rituels de guérison sont effectués. (Information fournie par Latami Wangyong.)
+\gf Gubu.épopée
+
+\lx dzɯ˧dʑo˩
+\or Zzijjo
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton L#
+\lc dzɯ˧dʑo˩
+\so M18
+\de Zzijjo, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic that is recited for the healthy continuation of life. The main ceremony is held at the time of the coming of age ritual, at the age of 13. In Mosuo people's view, 13 years old means the renewal of life. The ages of 25, 37, 49 and 61 are likewise junctures of life, at which ceremonies must be held so the wheel of life rolls on smoothly. (Information supplied by Latami Wangyong.)
+\ge Zzijjo.epic
+\dn 《仔迥经》。拉他咪王勇解释：这部经典是为了生命的延续、绵长而念诵的经典。主要仪式在年满13岁虚岁举行成年礼时举行。在摩梭人看来，虚岁13岁意味着生命的重续。此外，25岁，37岁，49岁，61岁都是生命的关口，也必须举行仪式来重续年轮，使生命长寿。
+\gn 《仔迥经》
+\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. (Information fournie par Latami Wangyong.)
+\gf Zzijjo.épopée
+
+\lx ʈʂɯ˧pv̩˧-ʈʂɯ˧dv̩˧
+\or Zhibu Zhiddu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M
+\lc ʈʂɯ˧pv̩˧ʈʂɯ˧dv̩˧
+\so M18
+\de Zhibu Zhiddu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This epic is about human beings in a mythic period when human beings could not distinguish between heaven and earth, or sun and moon; when they could not distinguish between sour, spicy, bitter and sweet; they did not know how to plant crops and raise livestock; and they lived in a mixed life with ghosts and gods. Eventually, through a harrowing process of migration, they find a path of their own. (Information supplied by Latami Wangyong.)
+\ge Zhibu_Zhiddu.epic
+\dn 《仔迥经》。拉他咪王勇解释：这部经典主要讲述人类处在梦寐时期的情景：人类分不清天地、日月、星辰；分辨不出酸辣苦甜；不知道种植和豢养牲畜；人鬼神混杂生活。最终经历了迁徙、苦难找到了生存之路。
+\gn 《仔迥经》
+\df Zhibu Zhiddu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Cette épopée raconte l'histoire des êtres humains à une époque mythique où ils ne pouvaient pas faire la différence entre le ciel et la terre, ni entre le soleil et la lune; où ils ne pouvaient pas faire la différence entre l'aigre, le piquant, l'amer et le doux; où ils ne savaient pas planter des cultures ni élever du bétail; et où ils vivaient mêlés aux fantômes et aux dieux. Finalement, au terme de migrations éprouvantes, ils trouvent leur propre voie. (Information fournie par Latami Wangyong.)
+\gf Zhibu_Zhiddu.épopée
