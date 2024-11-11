@@ -60671,6 +60671,16 @@
 \ge family_community
 \dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
 \gn 家庭社区/支系
+\df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
+\gf communauté_familiale
+\xv sɯ˧zɯ˧ ɖɯ˧-lo˩
+\xe one family community
+\xn 一个支系，一条线
+\xf une communauté familiale
+\xv sɯ˧zɯ˧ ɖɯ˧-ʁwɤ˧
+\xe one family community
+\xn 一个支系，一条线
+\xf une communauté familiale
 \xc <langue="fra" dom="synt"> Le classificateur employé est celui des villages.
 \xv sɯ˧zɯ˧ ə˩-dʑo˩?
 \xe Is there a (complete) family community? / Is the family large? (Question asked as part of discussions preliminary to marriage: Will the bride have a large family around her, be surrounded by a large family? A small family is considered much less attractive than a large one.)
@@ -83596,7 +83606,7 @@
 \ge Zzijjo.epic
 \dn 《仔迥经》。拉他咪王勇解释：这部经典是为了生命的延续、绵长而念诵的经典。主要仪式在年满13岁虚岁举行成年礼时举行。在摩梭人看来，虚岁13岁意味着生命的重续。此外，25岁，37岁，49岁，61岁都是生命的关口，也必须举行仪式来重续年轮，使生命长寿。
 \gn 《仔迥经》
-\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. (Information fournie par Latami Wangyong.)
+\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Mosuo, l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
 \gf Zzijjo.épopée
 
 \lx ʈʂɯ˧pv̩˧-ʈʂɯ˧dv̩˧
