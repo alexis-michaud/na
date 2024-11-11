@@ -60669,7 +60669,7 @@
 \pdv ʁwɤ˧
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
-\dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。
+\dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。汉语音译：‘斯日’。
 \gn 家庭社区/支系
 \df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
 \gf communauté_familiale
