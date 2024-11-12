@@ -189,7 +189,7 @@
 \so F4
 \de Aenbbi, a village just over the river on the Sichuan side of the road to Qiansuo.
 \ge Aenbbi.village_name
-\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047,27.80191
+\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047，27.80191
 \gn 阿比村
 \df Aenbbi: village sur le chemin de Qiansuo depuis Alawua.
 \gf Aenbbi.nom_de_lieu
@@ -209,7 +209,7 @@
 \so F4
 \de Aenbbiwua (Aenbbi), a village just over the river on the Sichuan side of the road to Qiansuo.
 \ge Aenbbi.village_name
-\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047,27.80191
+\dn 阿比村：从阿拉瓦村到前所乡路上经过的一个村落。也称作‘阿碧’。经纬度：100.75047，27.80191
 \gn 阿比村
 \df Aenbbiwua (Aenbbi): village sur le chemin de Qiansuo depuis Alawua.
 \gf Aenbbi.nom_de_village
@@ -620,7 +620,7 @@
 \so F4
 \de Aemiwua. This is the first village along the road from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}. In traditional Na geography, which takes Lugu Lake as a point of origin, Aemiwua is the third village of the plain.
 \ge Aemiwua.place_name
-\dn 阿咪瓦、阿米瓦（永宁坝子的一个村落）。经纬度：100.66367,27.77579
+\dn 阿咪瓦、阿米瓦（永宁坝子的一个村落）。经纬度：100.66367，27.77579
 \gn 阿咪瓦村
 \df Aemiwua, premier village que l'on rencontre sur la route entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}. Dans la géographie traditionnelle na, qui prend comme point d'origine le lac Lugu, Aemiwua est le troisième village de la plaine de Yongning.
 \gf Aemiwua.nom_de_lieu
@@ -1073,7 +1073,7 @@
 \so F4
 \de Aeshae, name of a mountain: one of the two main mountains in the vicinity of the Yongning plain. It is a masculine mountain (“the young man": |fv{/pʰæ˧tɕi˥/}), the counterpart to the feminine mountain |fv{/kɤ˧mv̩˧˥/} (“the young woman": |fv{/mi˩zɯ˩˥/}).
 \ge name_of_a_mountain
-\dn 一座山的名字：安山，也称作‘阿沙五’。位于永宁坝的西面，格姆女神山的对面。经纬度：100.63379,27.74883
+\dn 一座山的名字：安山，也称作‘阿沙五’。位于永宁坝的西面，格姆女神山的对面。经纬度：100.63379，27.74883
 \gn 一座山的名字
 \df Aeshae, nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}).
 \gf nom_d_une_montagne
@@ -3847,7 +3847,7 @@
 \so F4
 \de Bbezzee, a village in Yongning.
 \ge Bbezzee
-\dn 八珠（永宁坝子的一个村落）。经纬度：100.70505,27.74451
+\dn 八珠（永宁坝子的一个村落）。经纬度：100.70505，27.74451
 \gn 八珠村
 \df Bbezzee, un des villages de la plaine de Yongning.
 \gf Bbezzee
@@ -4329,7 +4329,7 @@
 \so F4
 \de Bbeqi: a village in the plain of Yongning, just across the river from the Yongning administrative centre.
 \ge Bbeqi_village_name
-\dn 八旗（永宁坝子的一个村落，也称作‘八七’）。经纬度：100.66084,27.74959
+\dn 八旗（永宁坝子的一个村落，也称作‘八七’）。经纬度：100.66084，27.74959
 \gn 八旗村
 \df Bbeqi, un des villages de la plaine de Yongning, tout proche du centre administratif de Yongning: juste de l'autre côté de la rivière.
 \gf Bbeqi_nom_de_village
@@ -4406,7 +4406,7 @@
 \so F4
 \de Bbecoggu, a village of the Lijiang plain: the central village of the plain, where the marketplace was still located in the early 21st century.
 \ge Bbecoggu
-\dn 巴搓古（永宁坝子的一个村落），在今永宁乡中心。经纬度：100.66164,27.75625
+\dn 巴搓古（永宁坝子的一个村落），在今永宁乡中心。经纬度：100.66164，27.75625
 \gn 巴搓古村
 \df Bbecoggu, un des villages de la plaine de Yongning; lieu de l'actuel marché; terme également employé pour désigner le lieu d'habitation des artisans naxi.
 \gf Bbecoggu
@@ -7052,7 +7052,7 @@
 \so F4
 \de The Yongning monastery.
 \ge Yongning_monastery
-\dn 永宁大寺（扎美寺）。经纬度：100.66145,27.76501
+\dn 永宁大寺（扎美寺）。经纬度：100.66145，27.76501
 \gn 永宁大寺
 \df Ddaemi, le nom du temple de Yongning.
 \gf temple_de_Yongning
@@ -7120,7 +7120,7 @@
 \so F4
 \de Ddapo (a village name).
 \ge Ddapo_village
-\dn 达坡（永宁坝子的一个村落）。经纬度：100.68455,27.74073
+\dn 达坡（永宁坝子的一个村落）。经纬度：100.68455，27.74073
 \gn 达坡村
 \df Ddapo (nom de village).
 \gf village_de_Ddapo
@@ -7186,7 +7186,7 @@
 \so F4
 \de Ddawua, a village downstream from Qiansuo. The language spoken there is reported to be close to that of the Yongning plain.
 \ge Ddawua_village_name
-\dn 达瓦村（也称作‘大洼’：凉山彝族自治州盐源县泸沽湖镇大洼）：四川凉山州木里县、盐源县、丽江市宁蒗县交界的一个村落，在前所的下游。经纬度：100.89630,27.85735
+\dn 达瓦村（也称作‘大洼’：凉山彝族自治州盐源县泸沽湖镇大洼）：四川凉山州木里县、盐源县、丽江市宁蒗县交界的一个村落，在前所的下游。经纬度：100.89630，27.85735
 \gn 达瓦村
 \df Ddawua, un village en aval de Qiansuo. La langue parlée là-bas serait relativement proche de celle de la plaine de Yongning.
 \gf Ddawua_nom_de_village
@@ -7235,7 +7235,7 @@
 \so F4
 \de Ddaeshi, a village name.
 \ge Ddaeshi_village_name
-\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828,27.72497
+\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828，27.72497
 \gn 扎实村
 \df Nom de village: Ddaeshi.
 \gf nom_de_village_Ddaeshi
@@ -7256,7 +7256,7 @@
 \so F4
 \de The village of Ddaeshi.
 \ge Ddaeshi_village
-\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828,27.72497
+\dn 扎实（永宁坝子的一个村落）。经纬度：100.68828，27.72497
 \gn 扎实村
 \df Le village de Ddaeshi.
 \gf village_de_Ddaeshi
@@ -9683,10 +9683,10 @@
 \xn 姓者波的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Zzeibbo |fv{/dze˧bo˧/}; elles constituent un clan!
 \sn 2
-\nt <type="hist" print="n" langue="fra"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575,27.81762
+\nt <type="hist" print="n" langue="fra"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575，27.81762
 \de Zzeibbo, a village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
 \ge Zzeibbo_village
-\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’。经纬度：100.71124,27.76531
+\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’。经纬度：100.71124，27.76531
 \gn 者波村
 \df Zzeibbo, un village de la plaine de Yongning. Il est divisé en deux parties, «du haut» et «du bas»: |fv{/gɤ˩ʁwɤ˧/} et |fv{/mv̩˩ʁwɤ˧/}.
 \gf village_de_Zzeibbo
@@ -11574,7 +11574,7 @@
 \so F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
 \ge Jjabbu_Gesawua
-\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
+\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
 \gn 高明村
 \df Jjabbu Gesawua, un village au nord-est de Yongning. Appelé Gaoming en chinois (nom emprunté en na comme |fv{kɤ˧mi˩}).
 \gf Jjabbu_Gesawua
@@ -11596,7 +11596,7 @@
 \so F4
 \de Gaoming, the Chinese name of a village north-east of Yongning. Name in Na: Jjabbu Gesawua.
 \ge Gaoming.
-\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004,27.79152
+\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
 \gn 高明村
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbu Gesawua.
 \gf Gaoming
@@ -11612,7 +11612,7 @@
 \so F4
 \de Eya, a village essentially inhabited by Naxi people.
 \ge 俄亚::Eya
-\dn 俄亚村（四川省凉山彝族自治州木里藏族自治县俄亚大村）。经纬度：100.38162,27.92918
+\dn 俄亚村（四川省凉山彝族自治州木里藏族自治县俄亚大村）。经纬度：100.38162，27.92918
 \gn 俄亚村
 \df Eya, village essentiellement peuplé de Naxi.
 \gf 俄亚::Eya
@@ -11636,7 +11636,7 @@
 \so F4
 \de Jjabbuwua (name of a village). The usual name in Na is Jjabbu Gesawua, not Jjabbuwua. This entry is nevertheless retained in the dictionary (with the symbol ‡ to indicate an erroneous form), because it has been phonetically transposed into Chinese, in the village name |fn{甲波瓦村}.
 \ge Jjabbuwua
-\dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344,27.78509
+\dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344，27.78509
 \gn 甲波瓦村。汉名：高明。一般称之为。摩梭语的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号 ‡ 表示有误），因为它已被音译为“甲波瓦村”这一名中。
 \df Jjabbuwua (nom de village). Le nom usuel en na est Jjabbu Gesawua, non Jjabbuwua. Cette entrée est néanmoins maintenue dans le dictionnaire (assortie du symbole ‡ qui signale une forme erronée), du fait qu'elle s'est trouvée transposée phonétiquement en chinois, dans le nom de village |fn{甲波瓦村}.
 \gf Jjabbuwua
@@ -14722,7 +14722,7 @@
 \so F4
 \de Abbuwua, a village name.
 \ge Abbuwua
-\dn 阿布瓦村。已并入海玉角自然村，隶属于永宁村委会。该地名现已不用，属历史地名。经纬度：100.66355,27.74896
+\dn 阿布瓦村。已并入海玉角自然村，隶属于永宁村委会。该地名现已不用，属历史地名。经纬度：100.66355，27.74896
 \gn 阿布瓦村
 \df Abbuwua (nom de village), tout proche du centre administratif de Yongning.
 \gf Abbuwua
@@ -15009,7 +15009,7 @@
 \so F4
 \de Aggowua, a village of the Hot Springs area.
 \ge Aggowua
-\dn 阿古瓦村：温泉乡的一个村落。经纬度：100.70133,27.79405
+\dn 阿古瓦村：温泉乡的一个村落。经纬度：100.70133，27.79405
 \gn 阿古瓦村
 \df Aggowua, an village proche de Wenquan.
 \gf Aggowua
@@ -15287,7 +15287,7 @@
 \so F4
 \de Alawua, a hamlet of Yongning, close to the monastery. (This hamlet is the birthplace of the main consultant: the dictionary's second author.)
 \ge village_name
-\dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭。）经纬度：100.6571941,27.7676599
+\dn 阿拉瓦村：永宁寺旁边的村落（主合作人出生的地方）。（旧名：七家村，因为村落在1960年左右有七个家庭。）经纬度：100.6571941，27.7676599
 \gn 阿拉瓦村
 \df Alawua, un hameau de Yongning, proche du monastère. (Ce hameau est le lieu de naissance de la consultante principale.)
 \gf nom_de_village
@@ -16775,7 +16775,7 @@
 \so F4
 \de The name of a village located about 1,500 meters West of |fv{/ə˧lɑ˧-ʁwɤ#˥/}: to the left when leaving the plain of Yongning towards Eya; Chinese: Gaer.
 \ge village_name
-\dn 嘎尔村，80年代起行政称作嘎拉村民小组。经纬度：100.64822,27.763942
+\dn 嘎尔村，80年代起行政称作嘎拉村民小组。经纬度：100.64822，27.76394
 \gn 嘎尔村
 \df Village situé à environ 1,5 km à l'ouest de |fv{/ə˧lɑ˧-ʁwɤ#˥/}: à main gauche en sortant de la vallée de Yongning, en direction de Eya. En chinois: Gaer.
 \gf nom_de_village
@@ -25445,7 +25445,7 @@
 \so F4
 \de Yomiwua, the second village that one crosses when going from |fv{/qʰæ˧tɕʰi˧/} to |fv{/ʈʂo˧ʂɯ#˥/}.
 \ge Yomiwua
-\dn 有米瓦村。经纬度：100.66463,27.74694
+\dn 有米瓦村。经纬度：100.66463，27.74694
 \gn 有米瓦村
 \df Yomiwua, le second village que l'on rencontre sur le trajet entre |fv{/qʰæ˧tɕʰi˧/} et |fv{/ʈʂo˧ʂɯ#˥/}.
 \gf Yomiwua
@@ -30705,7 +30705,7 @@
 \so F4
 \de Lalowua, a village of Yongning.
 \ge village_name
-\dn 拉洛瓦村（永宁坝子的一个村落）。也称作拉鲁瓦。经纬度：100.66097,27.76789
+\dn 拉洛瓦村（永宁坝子的一个村落）。也称作拉鲁瓦。经纬度：100.66097，27.76789
 \gn 拉洛瓦村
 \df Lalowua, un village de Yongning; prononciation chinoise: Laluowa.
 \gf nom_de_village
@@ -30827,7 +30827,7 @@
 \sd <langue="eng"> place name
 \de The name of a hamlet on the slope of the Langua mountain.
 \ge Langua_hamlet
-\dn 拉瓦村：拉瓦山上的一个村落。经纬度：100.65147,27.77222
+\dn 拉瓦村：拉瓦山上的一个村落。经纬度：100.65147，27.77222
 \gn 拉瓦村
 \df Nom d'un hameau qui se trouvent sur la montagne Langua.
 \gf hameau_de_Langua
@@ -31913,12 +31913,12 @@
 \sd <langue="eng"> place name
 \ton #H
 \so F4
-\de The name of a Na village, outside the plain of Yongning, close to the Lake.
-\ge village_name
-\dn 里格：泸沽湖附近的一个村落。经纬度：100.747468,27.728859
+\de Lhigi: the name of a Na village, outside the plain of Yongning, close to the Lake.
+\ge Lhigi.village_name
+\dn 里格：泸沽湖附近的一个村落。经纬度：100.747468，27.728859
 \gn 里格村
 \df Lhigi: village na du bord du Lac.
-\gf nom_de_village
+\gf Lhigi.nom_de_village
 \xv ɬi˧ki˧, | ɲi˧se˩, | tɑ˧dzi˩, | mv̩˧qʰwæ˩, | lɑ˧tʰɑ˧-di˧˥
 \xe Na villages on the shore of the Lake, in the order in which one crosses them when moving away from the Yongning plain and going clockwise around the Lake: Lhigi, Nisei, Dazzee, Mukhuae, Lataddi. These villages do not count as part of Yongning proper. The last, |fv{/lɑ˧tʰɑ˧-di˧˥/}, is not a village name like the preceding four: it refers to the entire Na area beyond the fourth village.
 \xn 泸沽湖边的摩梭村落，依次是：里格、尼赛（小落水）、大祖、木垮，然后到拉塔地（拉塔地指的是泸沽湖周边的摩梭地区，包括左所、落水村等）
@@ -33807,7 +33807,7 @@
 \so F4
 \de The village of Loshu (Luoshui in Chinese).
 \ge Loshu
-\dn 落水村（也称作洛水村）。经纬度：100.7931,27.7051
+\dn 落水村（也称作洛水村）。经纬度：100.7931，27.7051
 \gn 落水村
 \df Loshu: village du bord du Lac. En chinois: Luoshui.
 \gf Loshu
@@ -38162,7 +38162,7 @@
 \so F4
 \de Mukhuae: the name of a Na village at the northern edge of the Lake.
 \ge Mukhuae
-\dn 木垮：村落名，在泸沽湖北端。经纬度：100.813272,27.751565
+\dn 木垮：村落名，在泸沽湖北端。经纬度：100.813272，27.751565
 \gn 木垮（村落名）
 \df Mukhuae: village na à la pointe nord du Lac.
 \gf Mukhuae
@@ -39856,7 +39856,7 @@
 \so F4
 \de Nacee, the name of a mountain.
 \ge Nacee_name_of_mountain
-\dn 一座山的名字：纳慈，也称作‘纳刺’。经纬度：100.61742,27.77143
+\dn 一座山的名字：纳慈，也称作‘纳刺’。经纬度：100.61742，27.77143
 \gn 一座山的名字
 \df Nacee, nom d'une montagne de Yongning.
 \gf Nacee_nom_de_montagne
@@ -40849,7 +40849,7 @@
 \so F4
 \de Nisei, the name of a Na village on the shore of Lugu Lake.
 \ge Nisei
-\dn 小落水、摩梭名字：尼赛（村落名）。经纬度：100.76822,27.74253
+\dn 小落水、摩梭名字：尼赛（村落名）。经纬度：100.76822，27.74253
 \gn 小落水（村落名）
 \df Nisei, un village na du bord du Lac.
 \gf Nisei
@@ -45825,7 +45825,7 @@
 \so F4
 \de Bejjaddi, a village close to the Hot Springs, to the north of Wuadu.
 \ge Bejjaddi
-\dn 巴甲地村：温泉乡的一个村落，在瓦都以北（音译别名：巴家）。经纬度：100.66728,27.82149
+\dn 巴甲地村：温泉乡的一个村落，在瓦都以北（音译别名：巴家）。经纬度：100.66728，27.82149
 \gn 巴甲地村
 \df Bejjaddi, un village proche des Sources Chaudes, au nord de Wuadu.
 \gf nom_de_village
@@ -49387,7 +49387,7 @@
 \so F4
 \de Khaeqie, a village of Yongning, very close to the administrative centre.
 \ge Khaeqie
-\dn 开基（永宁的一个村落）。经纬度：100.65959,27.75398
+\dn 开基（永宁的一个村落）。经纬度：100.65959，27.75398
 \gn 开基村
 \df Khaeqie, un village de Yongning, tout proche du centre administratif.
 \gf Khaeqiee
@@ -50757,7 +50757,7 @@
 \so F4
 \de Gheu'er, the name of a mountain in Yongning.
 \ge Gheu'er_mountain_name
-\dn 永宁的一座山：古尔山。经纬度：100.63379,27.76681
+\dn 永宁的一座山：古尔山。经纬度：100.63379，27.76681
 \gn 永宁的一座山
 \df Gheu'er, une montagne de Yongning.
 \gf Gheu'er_nom_de_montagne
@@ -55312,7 +55312,7 @@
 \so F4
 \de Wualabbi (Hot Springs), a village of the Yongning plain. It is inhabited by both Na and Pumi.
 \ge Wualabbi
-\dn 老温泉（永宁的一个村落）。摩梭语音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718,27.82334
+\dn 老温泉（永宁的一个村落）。摩梭语音译：瓦拉比，也称作瓦拉别、瓦拉片、瓦拉壁。经纬度：100.69718，27.82334
 \gn 瓦拉比村
 \df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi.
 \gf Wualabbi
@@ -55411,7 +55411,7 @@
 \so F4
 \de Wuadu, a village near the Hot Springs.
 \ge Wuadu
-\dn 瓦都村：温泉乡的一个村落。经纬度：100.65672,27.80756
+\dn 瓦都村：温泉乡的一个村落。经纬度：100.65672，27.80756
 \gn 瓦都村
 \df Wuadu, un village proche de Wenquan. C'était autrefois un village pumi. Dans les années 2010, il a une importante population chinoise (han).
 \gf Wuadu
@@ -55440,7 +55440,7 @@
 \so F4
 \de Wuaru: the village of Qiansuo.
 \ge Wuaru(Qiansuo)
-\dn 四川省凉山州盐源县前所乡。经纬度：100.77927,27.82267
+\dn 四川省凉山州盐源县前所乡。经纬度：100.77927，27.82267
 \gn 前所
 \df Wuaru: le village de Qiansuo (localité perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques/emprunts/mélanges).
 \gf Wuaru(Qiansuo)
@@ -61903,7 +61903,7 @@
 \so F4
 \de Dazzee, a Na village down below Nisei, upward from Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
 \ge Dazzee
-\dn 大祖（达祖）：村落名（2024年：四川省凉山彝族自治州盐源县泸沽湖镇大咀）。经纬度：100.797867,27.744246
+\dn 大祖（达祖）：村落名（2024年：四川省凉山彝族自治州盐源县泸沽湖镇大咀）。经纬度：100.797867，27.744246
 \gn 大咀
 \df Dazzee, village na en contrebas de Nisei, en contrehaut de Lataddi (|fv{/lɑ˧tʰɑ˧-di˧˥/}).
 \gf Dazzee
@@ -63414,7 +63414,7 @@
 \so F4
 \de Jiaze, a hamlet to the north of Labai
 \ge 加泽::Jiaze
-\dn 拉伯乡加泽村。经纬度：100.46273,27.83233
+\dn 拉伯乡加泽村。经纬度：100.46273，27.83233
 \gn 加泽村（借词）
 \df Jiaze, un hameau au nord de Labai
 \gf 加泽::Jiaze
@@ -67571,32 +67571,48 @@
 \gf délibérément
 \dt 27/Apr/2017
 
-\lx tʰo˧tsʰe˧-ʁwɤ#˥
-\or Toceiwua
+\lx tʰo˧tsʰe#˥
+\or Tocei
 \ps n
-\lc tʰo˧tsʰe˧ʁwɤ˧
+\sy tʰo˧tsʰe˧-ʁwɤ#˥
+\lc tʰo˧tsʰe˧
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton #H
 \so F4
-\de Toceiwua, a village close to the Hot Springs.
-\ge Toceiwua
-\dn 拖其村：温泉乡的一个村落
+\de Tocei, a village close to the Hot Springs.
+\ge Tocei
+\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。 经纬度：100.68379，27.86033
 \gn 拖其村
-\df Toceiwua, un village proche des Sources Chaudes.
-\gf Toceiwua
-\xv tʰo˧tsʰe#˥
-\xe same meaning
-\xn 同上
-\xf même sens
+\df Tocei, un village proche des Sources Chaudes.
+\nt <dom="sem" langue="fra"> L'identification des coordonnées géographiques (latitude et longitude) reste à confirmer: la localité trouvée sur la carte est connue comme ‘|fn{拖且}’, tandis que la transcription chinoise du nom `Tocei' avait été indiquée comme ‘|fn{拖其}’.
+\nt <dom="sem" langue="eng"> The identification of the geographical coordinates (latitude and longitude) remains to be confirmed: the locality found on the map is known as ‘|fn{拖且}’, while the Chinese transcription of the name ‘Tocei’ was indicated as ‘|fn{拖其}’.
+\nt <dom="sem" langue="cmn"> 地理坐标（经纬度）的确定还有待确认：地图上的地点被称为‘拖且’，而这个地名的传统汉语音译则为‘拖其’。
+\gf Tocei
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv tʰo˧tsʰe˧: | bɤ˧!
-\xe Toceiwua |fv{/tʰo˧tsʰe˧/} is a Pumi village!
+\xe Tocei |fv{/tʰo˧tsʰe˧/} is a Pumi village!
 \xn 拖其村是一个普米族村落！
-\xf Toceiwua |fv{/tʰo˧tsʰe˧/}, c'est un village pumi!
+\xf Tocei |fv{/tʰo˧tsʰe˧/}, c'est un village pumi!
+
+\lx tʰo˧tsʰe˧-ʁwɤ#˥
+\or Toceiwua
+\ps n
+\sy tʰo˧tsʰe#˥
+\lc tʰo˧tsʰe˧ʁwɤ˧
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton #H
+\so F4
+\de Toceiwua (Tocei), a village close to the Hot Springs.
+\ge Toceiwua
+\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。 经纬度：100.68379，27.86033
+\gn 拖其村
+\df Toceiwua (Tocei), un village proche des Sources Chaudes.
+\gf Toceiwua
 
 \lx to˩ʈɻ̩˩
 \sf <nb="2011"> 1345
@@ -67632,7 +67648,7 @@
 \so F4
 \de Todee, a village in Yongning.
 \ge Todee
-\dn 拖支村，拖支开基村（永宁的一个村落）。经纬度：100.65165,27.73050
+\dn 拖支村，拖支开基村（永宁的一个村落）。经纬度：100.65165，27.73050
 \gn 拖支村
 \df Todee, un village de Yongning.
 \gf Todee
@@ -68652,10 +68668,10 @@
 \gn 一种有毒的菌子
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
-\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩ / kʰi˧tɕʰɯ˩-mo˩
-\xe same meaning
-\xn 同上
-\xf même sens
+\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩ /
+\xe Same meaning: a poisonous mushroom. (Compound with the synonymous word |fv{kʰi˧tɕʰɯ˩-mo˩}.)
+\xn 同上：一种有毒的菌子。
+\xf Même sens: un champignon vénéneux. (Nom composé formé en ajoutant le synonyme |fv{kʰi˧tɕʰɯ˩-mo˩}.)
 
 \lx ʈʂʰæ˧nɑ˥
 \or chaena
@@ -68742,10 +68758,9 @@
 \df Feuilles d'épi de maïs: les feuilles qui entourent l'épi de maïs.
 \gf feuilles_de_l_epi_de_maïs
 \xv qʰɑ˧dze˧-tsʰɑ˩pʰɑ˩lɑ˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 08/Oct/2015
+\xe Husk of sweet corn (maize) cobs.
+\xn 苞谷叶（玉米穰子的叶子）
+\xf Feuilles d'épi de maïs: les feuilles qui entourent l'épi de maïs.
 
 \lx tsʰæ˧pʰɻ̩˧˥
 \sf <nb="B"> 2004
@@ -69358,13 +69373,12 @@
 \ge sandalwood
 \dn 檀香木、檀香、檀木
 \gn 檀香木
-\df Bois de santal arbre à épice, arbre à encens.
+\df Bois de santal, arbre à épice, arbre à encens.
 \gf bois_de_santal
 \xv tse˧di˧-si#˥
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 08/May/2017
+\xe Sandalwood, sandlewood (adding the noun for `wood').
+\xn 檀香木、檀香、檀木
+\xf Bois de santal, arbre à épice, arbre à encens (avec ajout du nom `bois').
 
 \lx tsʰe˧di˧
 \or Ceiddi
@@ -69377,7 +69391,7 @@
 \so F4
 \de Ceiddi, a hamlet to the north of Labai
 \ge Ceiddi
-\dn 拉伯乡加泽村。经纬度：100.46273,27.83233
+\dn 拉伯乡加泽村。经纬度：100.46273，27.83233
 \gn 加泽村
 \df Ceiddi, un hameau au nord de Labai
 \gf Ceiddi
@@ -69742,7 +69756,7 @@
 \so F4
 \de Zeimi Jjiwo: the village of Wenquan, in the plain of Yongning, where hot springs are located, hence the Chinese name Wenquan, ‘hot springs'.
 \ge Zeimi_Jjiwo
-\dn 温泉乡的主要村落。经纬度：100.69718,27.82334
+\dn 温泉乡的主要村落。经纬度：100.69718，27.82334
 \gn 温泉乡的主要村落
 \df Le village de Zeimi Jjiwo (possède des sources chaudes).
 \gf Zeimi_Jjiwo
@@ -69909,12 +69923,11 @@
 \gn 十六号
 \df Le 16e jour du mois.
 \gf 16e_jour
-\xv tsʰe˧do˧˥ | tsʰe˩qʰv̩˩ɲi˩˥
-\xe same meaning
-\xn 同上
-\xf même sens
+\xv tsʰe˧do˧˥ | tsʰe˩qʰv̩˩-ɲi˩˥
+\xe Same meaning: the 16th day of the month.
+\xn 同上：十六号
+\xf Même sens: le 16e jour du mois.
 \rf F5
-\dt 27/Apr/2017
 
 \lx tse˩qwæ˧˥
 \sf <nb="B"> 576
@@ -70221,7 +70234,7 @@
 \gn 漂浮
 \df Flotter.
 \gf flotter
-\xv gɤ˩tse˧
+\xv gɤ˩-tse˧
 \xe as above: to float
 \xn 同上：漂浮 (浮在水上)
 \xf même sens: flotter
@@ -70238,7 +70251,6 @@
 \xe as above: to float down from the mountain
 \xn 同上：让木头漂到下游
 \xf même sens: ramener de la montagne en faisant descendre la rivière
-\dt 08/Oct/2015
 
 \lx tse˩α
 \sf <nb="B"> 1529
@@ -70532,9 +70544,9 @@
 \xn 盘腿坐
 \xf être accroupi (être assis avec les genoux regroupés sur la poitrine)
 \xv gɤ˩-tsʰi˧~tsʰi˩ | tʰi˧-dzi˩
-\xe as above
+\xe to sit cross-legged
 \xn 盘腿坐
-\xf même sens
+\xf être accroupi (être assis avec les genoux regroupés sur la poitrine)
 \rf F4
 \rf 23
 
@@ -71159,9 +71171,9 @@
 \xn 人家教，是好事！ / 人家教，是要珍惜的！ / 有人愿意教你，是件好事！
 \xf Quand on t'apprend quelque chose, c'est une chance à saisir! / Quand il se trouve quelqu'un qui est disposé à t'apprendre quelque chose, c'est une chance à saisir! / Si tu écoutes les bons conseils, tout ira bien! (Contexte: on évoque quelqu'un qui n'est pas enclin à écouter les bons conseils: qui se braque quand on lui fournit d'utiles conseils.)
 \xv hĩ˧-ɳɯ˩ | le˧-so˩, | tsɤ˧-kv̩˧˥!
-\xe as above
-\xn 同上
-\xf même sens
+\xe When people teach you something, it's fortunate / it's good / it's an opportunity to seize! (Context: discussing the behaviour of someone who would not listen to good advice.)
+\xn 人家教，是好事！ / 人家教，是要珍惜的！ / 有人愿意教你，是件好事！
+\xf Quand on t'apprend quelque chose, c'est une chance à saisir! / Quand il se trouve quelqu'un qui est disposé à t'apprendre quelque chose, c'est une chance à saisir! / Si tu écoutes les bons conseils, tout ira bien! (Contexte: on évoque quelqu'un qui n'est pas enclin à écouter les bons conseils: qui se braque quand on lui fournit d'utiles conseils.)
 \xv mɤ˧-tsɤ˧-ze˧! | tʰɑ˧-ʐwɤ˩-tso˩ ɲi˩ mæ˩!
 \xe Ow, ow, ow, I feel regret / I made a mistake / I did something stupid! That's something I shouldn't have said! (Context: someone has lost their temper during a conversation; later, anger gives way to regret. This formula, |fv{mɤ˧-tsɤ˧-ze˧}, is the closest equivalent proposed by Mrs. Latami in the Na language to express regret without using the Chinese word |fn{后悔}.)
 \xn 嗷，嗷，嗷，我后悔/我犯了个错误/我做了件蠢事！这是我不该说的话！(情景：某人在谈话中发脾气；后来，愤怒过去后，那个人就后悔。这个说法，|fv{mɤ˧-tsɤ˧-ze˧}，直译：‘不好了’，是在不使用汉语借此‘后悔’的情况下，在摩梭语中最接近‘后悔’的说法。）
@@ -72256,7 +72268,7 @@
 \so F4
 \de Name of a village: Zhoshi.
 \ge Zhoshi
-\dn 忠实（永宁的一个村落）。经纬度：100.66946,27.74125
+\dn 忠实（永宁的一个村落）。经纬度：100.66946，27.74125
 \gn 忠实村
 \df Village de Zhoshi.
 \gf Zhoshi
@@ -76741,7 +76753,7 @@
 \so F4
 \de Vujjo: Wujiao township, in Muli.
 \ge Vujjo
-\dn 屋脚（四川省凉山彝族自治州木里藏族自治县屋脚蒙古族乡）：一个村落的名字。经纬度：100.74790,27.95846
+\dn 屋脚（四川省凉山彝族自治州木里藏族自治县屋脚蒙古族乡）：一个村落的名字。经纬度：100.74790，27.95846
 \gn 屋脚村
 \df Vujjo, un village de Muli (Wujiao en chinois).
 \gf Vujjo
@@ -76757,7 +76769,7 @@
 \so F4
 \de Lhirezzee (in Chinese: Lijiazui), a village in Muli county. Close to Vujjo.
 \ge Lhirezzee
-\dn 利家嘴（利家咀）（四川省凉山彝族自治州木里藏族自治县利家咀）：一个摩梭村落的名字。经纬度：100.715907,27.894596
+\dn 利家嘴（利家咀）（四川省凉山彝族自治州木里藏族自治县利家咀）：一个摩梭村落的名字。经纬度：100.715907，27.894596
 \gn 利家嘴
 \df Lhirezzee (en chinois: Lijiazui), un village du comté de Muli. Proche de Vujjo.
 \gf Lhirezzee
