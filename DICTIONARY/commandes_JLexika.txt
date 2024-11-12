@@ -43,3 +43,4 @@ julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf -t 100
 
 '--forcer' après la commande pour recompiler le PDF dans tous les cas.
 
+Les informations des traductions des termes-clefs sont dans le fichier général.xsl, vers le bas.
