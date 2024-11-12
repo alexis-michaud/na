@@ -1741,7 +1741,7 @@
 \xc PROVERBE
 \xc <langue="fra" dom="dialect"> Mme Latami ne connaît pas de tel proverbe.
 \xc <langue="eng" dom="dialect"> Mrs. Latami is not aware of the existence of such a proverb.
-\xc <langue="cmn" dom="dialect"> 标准发音人不认识这样的谚语。
+\xc <langue="cmn" dom="dialect">拉他咪女士不认识这样的谚语。
 \rf F5
 
 \lx bæ˩˥
@@ -1990,7 +1990,7 @@
 \xc PROVERBE
 \xc <langue="fra" dom="dialect"> Mme Latami ne connaît pas de tel proverbe.
 \xc <langue="eng" dom="dialect"> Mrs. Latami is not aware of the existence of such a proverb.
-\xc <langue="cmn" dom="dialect"> 标准发音人不认识这样的谚语。
+\xc <langue="cmn" dom="dialect"> 拉他咪女士不认识这样的谚语。
 \rf F5
 
 \lx bɑ˩lɑ˩
@@ -5401,7 +5401,7 @@
 \mr -hĩ˥
 \mc <langue="fra"> L'intuition de Mme Latami est que la composition morphémique du mot est: «insecte qui a des cornes».
 \mc <langue="eng"> Mrs. Latami's intuition is that the morphological makeup of the word is “insect with horns", “insect that has horns".
-\mc <langue="cmn"> 主发音人直觉这个词的词源是‘长角的虫子’。
+\mc <langue="cmn"> 拉他咪女士直觉这个词的词源是‘长角的虫子’。
 \ps n
 \lc bɻ̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
@@ -11438,7 +11438,7 @@
 \xc PROVERBE
 \xc <dom="usage" langue="fra"> Cette formulation n'est pas à proprement dite un adage, mais la locutrice la voit comme solidaire des proverbes du temps jadis: reflétant la même vision claire de la vie, distinguant bonnes actions et mauvaises actions.
 \xc <dom="usage" langue="eng"> This formulation is not, strictly speaking, a proverb or an adage, but the speaker sees it as akin to the proverbs of old: reflecting the same clear vision of life, distinguishing between good deeds and bad deeds.
-\xc <dom="usage" langue="cmn"> 严格来说，这句话并不是格言，但发音人认为它与古代的谚语相似：它反映了同样清晰的人生观，区分了善行和恶行。
+\xc <dom="usage" langue="cmn"> 严格来说，这句话并不是格言，但拉他咪女士认为它与古代的谚语相似：它反映了同样清晰的人生观，区分了善行和恶行。
 
 \lx ɖʐo˩β
 \sf <nb="B"> 1526
@@ -16129,7 +16129,7 @@
 \xc PROVERBE
 \xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe, dans aucune des versions qui en ont été enregistrées.
 \xc <type="hist" print="n" langue="eng"> The reference speaker is not familiar with this proverb (in any of the versions that have been recorded).
-\xc <type="hist" print="n" langue="cmn"> 标准发音人不熟悉这句谚语。
+\xc <type="hist" print="n" langue="cmn"> 拉他咪女士不熟悉这句谚语。
 \rf M18
 \xv mv̩˧ʁo˥ dze˩-hĩ˩-dʑo˥, | kɤ˩-nɑ˧mi˧; | di˧qo˧ se˧-dʑo˩, | ə˧v̩˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
@@ -16378,10 +16378,10 @@
 \gn 吗
 \df Interrogation totale.
 \gf |fg{interrog}
-\xv dʑɯ˧ | ə˧-dʑo˥? - dʑɯ˧ dʑo˧! / - mɤ˧-dʑo˧!
-\xe Is there any water? - Yes, there is some! / - No, there isn't any!
-\xn 有水吗？ - 有水！- 没有！
-\xf Est-ce qu’il y a de l’eau? - Oui! / - Non!
+\xv dʑɯ˧ | ə˧-dʑo˥? — dʑɯ˧ dʑo˧! / — mɤ˧-dʑo˧!
+\xe Is there any water? — Yes, there is some! / — No, there isn't any!
+\xn 有水吗？ — 有水！/ — 没有！
+\xf Est-ce qu’il y a de l’eau? — Oui! / — Non!
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-dʑo˥/.
 \xv ə˩-ɲi˩˥?
 \xe Is that right? / Is that correct? / … isn't it?
@@ -23240,11 +23240,11 @@
 \gn 母猫
 \df Chatte.
 \gf chatte
-\xv hwɤ˧mi˧-hwɤ˥pʰv̩˩ / hwɤ˧mi˧-hwɤ˧pʰv̩˥#
+\xv hwɤ˧mi˧-hwɤ˥pʰv̩˩ ≈ hwɤ˧mi˧-hwɤ˧pʰv̩˥#
 \xe she-cat and tom-cat
 \xn 母猫与公猫
 \xf chatte et matou
-\xc <dom="ton"> #H- / H#
+\xc <dom="ton"> #H- ≈ H#
 \xc <langue="fra" dom="ton"> La locutrice exprime une préférence pour la variante tonale #H-.
 \xc <langue="eng" dom="ton"> The consultant expresses a preference for the #H- tonal variant.
 
@@ -26354,7 +26354,7 @@
 \gn 穿上
 \df Enfiler, porter, mettre (une robe, un pantalon…).
 \gf enfiler
-\xv ɬi˩qʰwɤ˩˥ | ɖɯ˧-ɭɯ˧ ki˩ / ɬi˩qʰwɤ˩˥ | ɖɯ˧-ɭɯ˧ tʰi˧-ki˩
+\xv ɬi˩qʰwɤ˩˥ | ɖɯ˧-ɭɯ˧ ki˩ ≈ ɬi˩qʰwɤ˩˥ | ɖɯ˧-ɭɯ˧ tʰi˧-ki˩
 \xe to put on trousers
 \xn 穿上裤子
 \xf enfiler un pantalon
@@ -27651,7 +27651,7 @@
 \xe I am going to slap your buttocks! (An adult threatens a child.)
 \xn 我要打你屁股了！（大人对孩子说）
 \xf Je vais te donner une tape/une fessée! (Menace d'un adulte à un enfant)
-\xv ʈʂo˧tsɯ˥ kɤ˩~kɤ˩ (-ze˩/-bi˩)
+\xv ʈʂo˧tsɯ˥ kɤ˩~kɤ˩ (-ze˩ / -bi˩)
 \xe to tap the table, to rap on the table
 \xn 拍拍桌子
 \xf heurter la table, taper sur la table
@@ -29912,10 +29912,14 @@
 \xe to spoil (a child) terribly, to spoil (a child) very much
 \xn 宠坏很厉害、宠坏得很
 \xf gâter (un enfant) terriblement
-\xv ə˧mi˧ ɳɯ˧ kwæ˧ʂɯ˧ kʰɯ˥-ze˩ / kʰɯ˥-zo˩!
-\xe The mother spoiled him/her! / His/her mother made him/her a spoilt child!
+\xv ə˧mi˧ ɳɯ˧ kwæ˧ʂɯ˧ kʰɯ˥-ze˩!
+\xe The mother spoiled him/her!
 \xn  妈妈给惯坏了！
-\xf Sa mère l'a gâté! / Sa mère en a fait un enfant gâté!
+\xf Sa mère l'a gâté!
+\xv ə˧mi˧ ɳɯ˧ kwæ˧ʂɯ˧ kʰɯ˥-zo˩!
+\xe His/her mother made him/her a spoilt child!
+\xn 妈妈给惯坏了！
+\xf Sa mère en a fait un enfant gâté!
 
 \lx kwɑ˧tsʰɑ˧
 \or guaca
@@ -30706,11 +30710,15 @@
 \xn 其它人
 \xf les autres gens
 \xc <type="hist" print="n" langue="fra"> D'abord noté /|fv{‡lɑ˩hɑ˧ hĩ˥}/.
-\xv ɖɯ˧-bæ˧ | le˧-se˩, | ɖɯ˧-bæ˧ ʝi˧! / ɖɯ˧-bæ˧ | le˧-se˩, | wɤ˩˥ | lɑ˧ɬɑ˧˥ | ɖɯ˧-bæ˧ ʝi˧! |
+\xv ɖɯ˧-bæ˧ | le˧-se˩, | ɖɯ˧-bæ˧ ʝi˧!
 \xe When one has finished one task, one moves on to another!
 \xn 做完一件事情，就轮到另一个！
-\xf Quand on a fini une chose/une tâche, on en fait une autre / on passe à une autre!
-\dt 04/Sep/2015
+\xf Quand on a fini une chose/une tâche, on en fait une autre / on passe à la suivante!
+\xv ɖɯ˧-bæ˧ | le˧-se˩, | wɤ˩˥ | lɑ˧ɬɑ˧˥ | ɖɯ˧-bæ˧ ʝi˧!
+\xe When one has finished one task, one moves on to another one!
+\xn 做完一件事情，就轮到另一个！
+\xf Quand on a fini une chose/une tâche, on passe à une autre encore!
+
 
 \lx lɑ˧ɬɑ˧˥
 \or lalha
@@ -33593,7 +33601,11 @@
 \xe (I/you/(s)he) got a callus!
 \xn 起了水泡！
 \xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
-\xv ɬo˧pɤ˥ dʑɯ˩-ze˩! / ɬo˧pɤ˥ | le˧-dʑɯ˩-ze˩!
+\xv ɬo˧pɤ˥ dʑɯ˩-ze˩!
+\xe (I/you/(s)he) got a callus!
+\xn 起了茧子！
+\xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
+\xv ɬo˧pɤ˥ | le˧-dʑɯ˩-ze˩!
 \xe (I/you/(s)he) got a callus!
 \xn 起了茧子！
 \xf (Il s'est/Tu t'es/Je me suis) fait un durillon!
@@ -35011,10 +35023,14 @@
 \xc <langue="fra" dom="synt"> Les particules telles que l'accompli s'insèrent entre les deux syllabes du composé verbal.
 \xc <langue="eng" dom="synt"> Particles such as the accomplished marker are inserted between the two syllables of the verbal compound.
 \xc <langue="cmn" dom="synt"> |fg{实施}标记等等在双音节动词的两个音节之间插入。
-\xv dʑi˧mi˧ lv̩˧˥ / dʑi˧mi˧ lv̩˧-ze˥
+\xv dʑi˧mi˧ lv̩˧˥
 \xe to plough with a water buffalo
 \xn 用水牛耕田
 \xf labourer avec un buffle
+\xv dʑi˧mi˧ lv̩˧-ze˥
+\xe ploughed with a water buffalo
+\xn 用水牛耕田了
+\xf ... a labouré avec un buffle
 \xv ʝi˧ ɖɯ˧-lv̩˧~lv̩˥-ɻ̩˩
 \xe to plough a little
 \xn 耕一耕
@@ -35843,7 +35859,11 @@
 \gn 母的
 \df Femelle (animal femelle).
 \gf femelle
-\xv ʈʂʰɯ˧, | mi˩˥! / ʈʂʰɯ˧, | mi˩ ɲi˥!
+\xv ʈʂʰɯ˧, | mi˩˥!
+\xe It's a female!
+\xn 是母的！
+\xf C'est une femelle!
+\xv ʈʂʰɯ˧, | mi˩ ɲi˥!
 \xe It's a female!
 \xn 是母的！
 \xf C'est une femelle!
@@ -41307,9 +41327,9 @@
 \xe 〜 |fg{dem} |fg{clf}
 \xn 〜 |fg{指示代词} |fg{量词}：那条鱼
 \xf 〜 |fg{dem} |fg{clf}
-\xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. La locutrice exprime une préférence pour le schéma tonal H#.
-\xc <dom="ton" langue="eng"> This phrase has two tonal variants. The speaker expresses a preference for H#.
-\xc <dom="ton" langue="cmn"> 该短语有两种声调变体。标准发音人偏爱H#。
+\xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. Mme Latami exprime une préférence pour le schéma tonal H#.
+\xc <dom="ton" langue="eng"> This phrase has two tonal variants. Mrs. Latami expresses a preference for H#.
+\xc <dom="ton" langue="cmn"> 该短语有两种声调变体。拉他咪女士偏爱H#。
 \xc PHONO
 \xv ɲi˧zo˧-tɑ˧pɻ̩˥
 \xe dried fish
@@ -42694,10 +42714,14 @@
 \xe I don't know you! / I am not familiar with your situation/business!
 \xn 我不认识你们！ / 我不熟悉你们！
 \xf je ne vous connais pas!
-\xv njɤ˧ | no˧-sɯ˩-kv̩˩ lɑ˩ / njɤ˧ | no˧-sɯ˩-kv̩˩ lɑ˩-bi˩
-\xe I strike you (|fg{pl}) / I am going to strike you
-\xn 我打你们 / 我要打你们
-\xf je vous frappe / je vais vous frapper
+\xv njɤ˧ | no˧-sɯ˩-kv̩˩ lɑ˩
+\xe I strike you (|fg{pl})
+\xn 我打你们
+\xf je vous frappe
+\xv njɤ˧ | no˧-sɯ˩-kv̩˩ lɑ˩-bi˩!
+\xe I am going to strike you (|fg{pl})
+\xn 我要打你们了！
+\xf Je vais vous frapper!
 \xc PHONO
 \xv no˧-sɯ˩-kv̩˩ lɑ˩-bi˩
 \xe you are going to strike
@@ -42957,11 +42981,14 @@
 \gn 可怜
 \df Pitoyable, qui suscite la pitié.
 \gf pitoyable
-\xv no˧ | ʈʰɯ˧-ki˧ | ɖwæ˧˥ | ɳɯ˧go˧˥! / …ɖwæ˧˥ | ɳɯ˧go˧ ʝi˥!
+\xv no˧ | ʈʰɯ˧-ki˧ | ɖwæ˧˥ | ɳɯ˧go˧˥!
 \xe You pity her/him a lot! / You feel a lot of pity for her/him!
 \xn 你真的很可怜他。
 \xf Tu la/le plains beaucoup! / Tu as vraiment pitié d'elle/de lui!
-\dt 25/Apr/2017
+\xv no˧ | ʈʰɯ˧-ki˧ | ɖwæ˧˥ | ɳɯ˧go˧ ʝi˥!
+\xe You pity her/him a lot! / You feel a lot of pity for her/him!
+\xn 你真的很可怜他。
+\xf Tu la/le plains beaucoup! / Tu as vraiment pitié d'elle/de lui!
 
 \lx nv̩˥
 \sf <nb="B"> 1638b
@@ -44003,7 +44030,7 @@
 \xf son propre aîné (frère ou sœur)
 \xc <dom="ton" langue="fra"> Cette expression possède trois variantes tonales. La locutrice exprime une préférence pour le premier des trois schémas tonals: H#.
 \xc <dom="ton" langue="eng"> This phrase has three tonal variants. The speaker expresses a preference for the first of the three tonal patterns: H#.
-\xc <dom="ton" langue="cmn"> 该短语有三种声调变体。标准发音人偏爱第一种调：H#。
+\xc <dom="ton" langue="cmn"> 该短语有三种声调变体。拉他咪女士偏爱第一种调：H#。
 \xv õ˧-ə˧v̩˥ ≈ õ˧-ə˥v̩˩
 \xe one's own “maternal uncle” (mother's brother)
 \xn 自家母亲的兄弟（“舅舅”）
@@ -46654,7 +46681,11 @@
 \xe |fg{accomp} 〜 |fg{pfv}
 \xn |fg{实施} 〜 |fg{整体体}：被压扁了
 \xf |fg{accomp} 〜 |fg{pfv}
-\xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-ze˩! / tʰi˧-pɤ˥ʈʂʰwæ˩-dʑo˩!
+\xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-ze˩!
+\xe That one (=that man/woman) was exhausted, (s)he collapsed over there!
+\xn 那个（人）筋疲力尽，躺倒在那边了！
+\xf Il/elle s'est effondré·e là-bas, recru·e de fatigue!
+\xv ʈʂʰɯ˧-v̩˧ le˧-ʈʰi˩-zo˩, | dɤ˧-qo˧ | tʰi˧-pɤ˥ʈʂʰwæ˩-dʑo˩!
 \xe That one (=that man/woman) was exhausted, (s)he collapsed over there!
 \xn 那个（人）筋疲力尽，躺倒在那边了！
 \xf Il/elle s'est effondré·e là-bas, recru·e de fatigue!
@@ -48199,10 +48230,14 @@
 \xc <dom="dialect" langue="fra"> Le consultant Jj prononce /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
 \xc <dom="dialect" langue="eng"> Consultant Jj pronounces /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
 \xc <dom="dialect" langue="cmn"> 何甲泽先生的发音为/|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/。
-\xv mv̩˧ le˧-qæ˧˥ / mv̩˧ le˧-qæ˧-ze˥
-\xe the fire is burning; a fire has caught
-\xn 火在烧 / 着火了
-\xf ça brûle; il y a un incendie
+\xv mv̩˧ le˧-qæ˧˥
+\xe the fire is burning
+\xn 火在烧
+\xf ça brûle
+\xv mv̩˧ le˧-qæ˧-ze˥
+\xe a fire has caught
+\xn 着火了
+\xf il y a un incendie
 \xv mv̩˧ qæ˥-ɻ̩˩
 \xe the fire is burning
 \xn 火在烧 / 火烧着了
@@ -48218,7 +48253,7 @@
 \xf lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)
 \xc <dom="dialect" langue="fra"> La prononciation |fv{…-lv̩˩…} est jugée incorrecte par Mme Latami.
 \xc <dom="dialect" langue="eng"> Pronunciation as |fv{…-lv̩˩…} is deemed incorrect by Mrs. Latami.
-\xc <dom="dialect" langue="cmn"> 主发音人认为，|fv{…-lv̩˩…}这种发音不准。
+\xc <dom="dialect" langue="cmn"> 拉他咪女士认为，|fv{…-lv̩˩…}这种发音不准。
 \rf M23
 \xv mv̩˧qæ˥-ɻ̩˩-hɯ˩
 \xe a fire has started
@@ -49967,10 +50002,14 @@
 \gn 杀
 \df Tuer; abattre un animal.
 \gf tuer
-\xv bo˩ qʰo˧˥ / bo˩ qʰo˧-ze˥
+\xv bo˩ qʰo˧˥
 \xe to slaughter a pig
 \xn 杀猪
 \xf tuer le cochon
+\xv bo˩ qʰo˧-ze˥
+\xe ... slaughtered a pig
+\xn 杀了猪
+\xf ... a tué le cochon
 \xv bo˩˥ | le˧-qʰo˧-ze˥
 \xe the pig has been slaughtered
 \xn 杀了猪
@@ -50512,10 +50551,14 @@
 \xe to frighten people
 \xn 吓人
 \xf faire peur aux gens
-\xv no˧ | hĩ˧ qv̩˩-zo˩! / ʈʂʰɯ˧-ɳɯ˧ | hĩ˧ qv̩˩-zo˩!
-\xe You frighten people! / He frightens people!
-\xn 你吓人！ / 他吓人！
-\xf tu fais peur aux gens! Il fait peur aux gens!
+\xv no˧ | hĩ˧ qv̩˩-zo˩!
+\xe You frighten people!
+\xn 你吓人！
+\xf Tu fais peur aux gens!
+\xv ʈʂʰɯ˧-ɳɯ˧ | hĩ˧ qv̩˩-zo˩!
+\xe He frightens people!
+\xn他吓人！
+\xf Il fait peur aux gens!
 \xv ʈʂʰɯ˧ | njæ˩ qv̩˩-tsʰɯ˩˥!
 \xe He frightens people!
 \xn 他吓人！
@@ -50528,7 +50571,6 @@
 \xe |fg{proh}
 \xn 禁止式：别吓唬（人家）！
 \xf |fg{proh}
-\dt 01/Oct/2015
 
 \lx qʰv̩˧
 \sf <nb="B"> 39
@@ -51453,7 +51495,11 @@
 \xe This is a story that could get under your skin (if you're not careful)! / (A warning to someone about behaviour such as petty theft, which would be socially stigmatised.)
 \xn （如果你不小心）这个故事可能会触动你的神经！（针对小偷小摸等行为向某人发出警告，这些行为会受到社会的鄙视）
 \xf Ca pourrait bien fournir matière à une infinité de racontars! / Ca, c'est une histoire qui te collerait à la peau (si tu n'es pas prudent·e)! / Ca pourrait faire jaser jusqu'à la fin de tes jours! (Mise en garde envers quelqu'un, au sujet d'un comportement tel qu'un larcin, qui serait stigmatisé socialement.)
-\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧! / ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ɲi˥!
+\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧!
+\xe This is a story that will get under your skin!
+\xn 这个故事可能会触动你的神经！
+\xf Ca, c'est une histoire qui va te coller à la peau! / Voilà qui va être raconté, développé et amplifié!
+\xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ɲi˥!
 \xe This is a story that will get under your skin!
 \xn 这个故事可能会触动你的神经！
 \xf Ca, c'est une histoire qui va te coller à la peau! / Voilà qui va être raconté, développé et amplifié!
@@ -53391,14 +53437,22 @@
 \xe not propicious / not favourable
 \xn 不吉利、不合适，乱
 \xf pas propice/favorable; pas net, mauvais, trouble
-\xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧ mɤ˧-tʰɑ˩! / ʝi˧-mɤ˧-ɖo˧!
-\xe It is not appropriate / the situation is not propitious; it must not / should not be done! (A phrase to caution others against doing something)
-\xn 不吉利 / 不合适（的事情），不能做！/ 不要做！（警告）
+\xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧ mɤ˧-tʰɑ˩!
+\xe It is not appropriate / the situation is not propitious; it must not be done! (A phrase to caution others against doing something)
+\xn 不吉利 / 不合适（的事情），不能做！（警告）
 \xf les circonstances ne sont pas propices / ce n'est pas une bonne idée, il ne faut pas le faire! (Mise en garde)
-\xv ʁæ˧ mɤ˧-ʑi˧, | ʐwɤ˩ mɤ˩-tʰɑ˥! / ʁæ˧ mɤ˧-ʑi˧, | ʐwɤ˩ mɤ˩-ɖo˩˥!
-\xe It's not appropriate; one must not talk about it! / One should not talk nonsense! (A phrase to caution others against being carelessly talkative)
-\xn 不合适（的话），不能说！ / 不合适（的话），不要说！（警告）
-\xf Ca ne convient pas; on ne peut pas le dire / on ne doit pas le dire! / Il ne faut pas tenir de propos inappropriés! / Il faut faire attention à ce qu'on dit! (Mise en garde)
+\xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧-mɤ˧-ɖo˧!
+\xe It is not appropriate / the situation is not propitious; it should not be done! (A phrase to caution others against doing something)
+\xn 不吉利 / 不合适（的事情），不要做！（警告）
+\xf les circonstances ne sont pas propices / ce n'est pas une bonne idée, il ne faut pas le faire! (Mise en garde)
+\xv ʁæ˧ mɤ˧-ʑi˧, | ʐwɤ˩ mɤ˩-ɖo˩˥!
+\xe One should not talk nonsense! (A phrase to caution others against being carelessly talkative)
+\xn 不合适（的话），不要说！（警告）
+\xf Il ne faut pas dire n'importe quoi! / Il faut faire attention à ce qu'on dit! (Mise en garde)
+\xv ʁæ˧ mɤ˧-ʑi˧, | ʐwɤ˩ mɤ˩-tʰɑ˥!
+\xe One must not talk nonsense! / Be careful what you say! (A phrase to caution others against being carelessly talkative)
+\xn 不合适（的话），不能说！（警告）
+\xf On ne doit pas dire n'importe quoi! (Mise en garde)
 \xv ʁæ˧-mɤ˧-ʑi˧, | tɕi˩-mɤ˩-ɖo˩˥!
 \xe (You) must not transcribe the bad ones! / You must not transcribe the messy ones! (Context: the investigator was explaining his wish to choose, among the wealth of recorded narratives, those that are the most interesting and successful, to do a transcription and complete translation and annotation. By her answer, the consultant indicates her approval, at the same time as she shows her understanding of the idea: any materials that may be inappropriate in any way should be left out, and not put to writing.)
 \xn 乱七八糟的，不要记录！ / 不好的，不要记录！（情景：选择一个故事来做记音翻译等。合作人提出，要考虑好记录哪些、选择好的资料，不能什么都记录。）
@@ -59008,10 +59062,17 @@
 \gn 娴静
 \df Pudique; poli.
 \gf pudique
-\xv ʈʂʰɯ˧ ʂɤ˧do˧-zo˥! / ʂɤ˧do˧ ʝi˥!
+\xv ʈʂʰɯ˧ | ʂɤ˧do˧-zo˥!
+\xe (S)he is very modest/discreet!
+\xn 他/她很娴静 / 很持重！
+\xf Cette personne a de la pudeur!
+\xv ʈʂʰɯ˧ | ʂɤ˧do˧ ʝi˥!
 \xe (S)he is very modest/discreet/polite!
 \xn 他/她很娴静 / 很持重！
-\xf Cette personne a de la pudeur! L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: «qui connaît la honte», d'où le sens «qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse».
+\xf Cette personne a de la pudeur!
+\xc <dom="sem" langue="fra"> L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: «qui connaît la honte», d'où le sens «qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse».
+\xc <dom="sem" langue="eng"> The expression |fv{ʂɤ˧do˧ ʝi˥} means ‘who experiences shame’, hence the meaning ‘who has modesty, who has a sense of good manners’.
+\xc <dom="sem" langue="cmn"> |fv{ʂɤ˧do˧ʝi˥}的意思是‘有羞耻感的人’，因此是‘谦虚、有礼貌的人’。
 
 \lx so˧dze#˥
 \or sozzei
@@ -59930,10 +59991,14 @@
 \gn 削
 \df Éplucher, peler, décortiquer (avec un instrument).
 \gf éplucher
-\xv ɣɯ˩ ʂɯ˧˥ / ɣɯ˩ʂɯ˧ ze˥
+\xv ɣɯ˩ ʂɯ˧˥
 \xe to peel, to peel off the skin
 \xn 削皮
 \xf éplucher la peau
+\xv ɣɯ˩ʂɯ˧ ze˥
+\xe peeled off the skin
+\xn 削皮了
+\xf ... a épluché la peau
 \xv ɣɯ˩kɯ˧ ʂɯ˥
 \xe to peel, to peel off the skin
 \xn 削皮
@@ -61170,10 +61235,14 @@
 \xe He has understood.
 \xn 他明白了。
 \xf Il a compris.
-\xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv̩˧ɖv̩˧ kv̩˩! / ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˧˥!
-\xe He's really smart! / He's really resourceful! / He's really good at finding solutions!
-\xn 他真的很聪明 / 他真的很足智多谋 / 他真的很擅长寻找解决方案！
-\xf Il est vraiment futé! / Il est vraiment débrouillard! / Il sait vraiment bien se débrouiller et trouver des solutions!
+\xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv̩˧ɖv̩˧ kv̩˩!
+\xe He's really smart! / He's really resourceful!
+\xn 他真的很聪明 / 他真的很足智多谋！
+\xf Il est vraiment futé! / Il est vraiment débrouillard!
+\xv ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˧˥!
+\xe He's really good at finding solutions!
+\xn 他真的很擅长寻找解决方案！
+\xf Il sait vraiment bien se débrouiller et trouver des solutions!
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -61367,23 +61436,27 @@
 \gn 楔子
 \df Coin.
 \gf coin
-\xv ʂwæ˩ lɑ˧˥ / ʂwæ˩ lɑ˧-ze˥
+\xv ʂwæ˩ lɑ˧˥
 \xe to strike a wedge
 \xn 打一个楔子
 \xf frapper un coin
+\xv ʂwæ˩ lɑ˧-ze˥
+\xe struck a wedge
+\xn 打了一个楔子
+\xf a frappé un coin
 \xv ʂwæ˩ hwæ˥-ze˩
 \xe …bought a wedge
 \xn 买了楔子
 \xf …a acheté un coin
 \xc PHONO
-\xv ʂwæ˩ tʰv̩˩-ɭɯ˩˥ / ʂwæ˩ tʰv̩˩-ɭɯ˥
-\xe 〜 |fg{dem}+|fg{clf}
-\xn 这个楔子
-\xf 〜 |fg{dem}+|fg{clf.générique}
+\xv ʂwæ˩ tʰv̩˩-ɭɯ˩˥ ≈ ʂwæ˩ tʰv̩˩-ɭɯ˥
+\xe 〜 |fg{dem} |fg{clf}
+\xn 〜 |fg{指示代词} |fg{量词}：那个楔子
+\xf 〜 |fg{dem} |fg{clf.générique}
 \xc PHONO
 \xv ʂwæ˩ tʰv̩˩-kʰwɤ˩˥
-\xe 〜 |fg{dem}+|fg{clf}
-\xn 这个楔子
+\xe 〜 |fg{dem} |fg{clf}
+\xn 〜 |fg{指示代词} |fg{量词}：那个楔子
 \xf 〜 |fg{dem} |fg{clf}.morceaux
 \xc PHONO
 \xv ʂwæ˩ kʰɯ˥
@@ -64798,7 +64871,6 @@
 \xe 〜 |fg{dem} |fg{clf}
 \xn 〜 |fg{指示代词} |fg{量词}：那个牛轭
 \xf 〜 |fg{dem} |fg{clf}
-\dt 08/Oct/2015
 
 \lx tɕɤ˧tɑ˧-bæ˩
 \sf <nb="B"> 584
@@ -65405,7 +65477,7 @@
 \df Observé seulement en tournure négative: ne pas avoir (de quoi vivre); être démuni. On peut imaginer comme sens ancien ‘bien doté, à l'aise’.
 \gf bien_doté
 \ue archaic
-\xv mɤ˧-tɕʰɯ˧-bi˥ / mɤ˧-tɕʰɯ˧˥ |-bi˩
+\xv mɤ˧-tɕʰɯ˧-bi˥ ≈ mɤ˧-tɕʰɯ˧˥ |-bi˩
 \xe even if one is in need, …
 \xn 虽然很贫穷，……
 \xf même si on est dans le besoin/quoi qu'on soit dans le besoin, …
@@ -68814,7 +68886,7 @@
 \gn 一种有毒的菌子
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
-\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩ /
+\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
 \xe Same meaning: a poisonous mushroom. (Compound with the synonymous word |fv{kʰi˧tɕʰɯ˩-mo˩}.)
 \xn 同上：一种有毒的菌子。
 \xf Même sens: un champignon vénéneux. (Nom composé formé en ajoutant le synonyme |fv{kʰi˧tɕʰɯ˩-mo˩}.)
@@ -69568,11 +69640,11 @@
 \gn 月初
 \df Début du mois.
 \gf début_du_mois
-\xv tsʰe˧do˧-ɖɯ˧ɲi#˥ / tsʰe˧do˧-ɖɯ˧ɲi˥
+\xv tsʰe˧do˧-ɖɯ˧ɲi#˥ ≈ tsʰe˧do˧-ɖɯ˧ɲi˥
 \xe the 1st day of the month
 \xn 初一
 \xf le 1er du mois
-\xv tsʰe˧do˧-ɲi˧ɲi#˥ / tsʰe˧do˧-ɲi˧ɲi˥
+\xv tsʰe˧do˧-ɲi˧ɲi#˥ ≈ tsʰe˧do˧-ɲi˧ɲi˥
 \xe the second day of the month
 \xn 初二
 \xf le deuxième jour du mois
@@ -70418,11 +70490,18 @@
 \gn 锁门
 \df Fermer à clef.
 \gf fermer_à_clef
-\xv kʰi˧ tse˥(-ze˩) / kʰi˧ tʰi˧-tse˩
+\xv kʰi˧ tse˥
 \xe to lock the door
 \xn 锁门
 \xf verrouiller la porte
-\dt 08/Oct/2015
+\xv kʰi˧ tse˥-ze˩
+\xe locked the door
+\xn 锁门了
+\xf ... a verrouillé la porte
+\xv kʰi˧ tʰi˧-tse˩
+\xe to lock the door
+\xn 锁门
+\xf verrouiller la porte
 
 \lx tsʰe#˥
 \sf <nb="B"> 78
@@ -72751,7 +72830,11 @@
 \xn 要掐算一下日子
 \xf On va chercher un jour propice! (pour un événement tel qu'un mariage ou la construction d'une maison)
 \xc <type="hist" print="n" langue="fra"> Sens indiqué par M18 en juin 2008.
-\xv kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥ / kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥-ɻ̩˩
+\xv kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥
+\xe to look for an auspicious day for an important event; literally: “to count stars, to count days"
+\xn 掐算一下。直译：“算星星，算日子”。
+\xf chercher un jour propice pour un événement, tel que le début de la construction d'une maison; littéralement: «compter les étoiles, compter les jours»
+\xv kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥-ɻ̩˩
 \xe to look for an auspicious day for an important event; literally: “to count stars, to count days"
 \xn 掐算一下。直译：“算星星，算日子”。
 \xf chercher un jour propice pour un événement, tel que le début de la construction d'une maison; littéralement: «compter les étoiles, compter les jours»
@@ -75386,7 +75469,11 @@
 \xe |fg{dur}
 \xn |fg{持续体} 〜
 \xf |fg{dur}
-\xv dʑɯ˩tsʰi˩-qo˥ | tʰi˧-ʈɯ˧˥ / dʑɯ˩tsʰi˩-qo˥ | ʈɯ˧˥
+\xv dʑɯ˩tsʰi˩-qo˥ | tʰi˧-ʈɯ˧˥
+\xe to blanch with boiling water
+\xn 以滚水灼过
+\xf blanchir à l'eau bouillante
+\xv dʑɯ˩tsʰi˩-qo˥ | ʈɯ˧˥
 \xe to blanch with boiling water
 \xn 以滚水灼过
 \xf blanchir à l'eau bouillante
@@ -76483,11 +76570,14 @@
 \xe (S)he is going to found a new home!
 \xn 他要建个新家！
 \xf Il/elle va fonder sa propre maisonnée!
-\xv lo˧ mɤ˧-dʑo˧, | lo˧ tʰv̩˧˥! / no˧ | lo˧ mɤ˧-dʑo˧, | lo˧ tʰv̩˧-ɲi˥!
+\xv lo˧ mɤ˧-dʑo˧, | lo˧ tʰv̩˧˥!
 \xe [(S)he] has no obligations, and yet (s)he works a lot / (s)he finds tasks to do! (A compliment to a civil servant who could be content to pocket a salary every month but who sets goals for her/himself and looks for useful tasks to accomplish. The sentence can also be used negatively, to criticize someone who takes up unnecessary tasks instead of keeping quiet.)
 \xn 自找麻烦！（这句，除贬义用法，还能用来表扬，如表扬一位当官的人努力去做好事，给自己找有意义的事情干。）
 \xf Il n'a pas d'obligations, et pourtant il travaille! (Compliment à l'endroit d'un fonctionnaire qui pourrait se contenter de percevoir son salaire, mais qui se donne à lui-même des objectifs et des tâches à accomplir. La phrase peut également être employée de façon négative, pour critiquer quelqu'un qui déploie une activité inutile au lieu de se tenir tranquille.)
-\dt 04/May/2017
+\xv no˧ | lo˧ mɤ˧-dʑo˧, | lo˧ tʰv̩˧-ɲi˥!
+\xe You have no obligations, and yet you work a lot / you find tasks to do! (A compliment to a civil servant who could be content to pocket a salary every month but who sets goals for her/himself and looks for useful tasks to accomplish. The sentence can also be used negatively, to criticize someone who takes up unnecessary tasks instead of keeping quiet.)
+\xn 自找麻烦！（这句，除贬义用法，还能用来表扬，如表扬一位当官的人努力去做好事，给自己找有意义的事情干。）
+\xf Tu n'as pas d'obligations, et pourtant tu travailles! (Compliment à l'endroit d'un fonctionnaire qui pourrait se contenter de percevoir son salaire, mais qui se donne à lui-même des objectifs et des tâches à accomplir. La phrase peut également être employée de façon négative, pour critiquer quelqu'un qui déploie une activité inutile au lieu de se tenir tranquille.)
 
 \lx ʈv̩˩α
 \sf <nb="2011"> 2445
@@ -81935,11 +82025,14 @@
 \xe Although (s)he is Na, (s)he cannot speak the Na language!
 \xn 他虽然是摩梭人但不会讲摩梭语。
 \xf Bien qu'elle/il soit Na, elle/il ne sait pas parler la langue na!
-\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩, … / ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩-bi˩
+\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩, …
 \xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na…'
 \xn 病句：不能这样说“他虽然是摩梭人……”
 \xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na…'
-\dt 27/Apr/2017
+\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩-bi˩, …
+\xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na…'
+\xn 病句：不能这样说“他虽然是摩梭人……”
+\xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na…'
 
 \lx -bi˧α
 \sf <nb="2011"> 3368
@@ -82257,10 +82350,10 @@
 \gn 向格
 \df Allatif.
 \gf |fg{all}
-\xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ / nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
-\xe combinations with all tonal categories of nouns
-\xn 跟不同声调类型的名词结合。
-\xf combinaisons avec les diverses catégories tonales de noms
+\xv bo˩-ki˧ tsʰɯ˧˥, | ʐæ˩-ki˧ tsʰɯ˧˥, | lɑ˧-ki˧ tsʰɯ˧˥, | jo˩-ki˩ tsʰɯ˩˥, | no˧-ki˩ tsʰɯ˩, | ʐwæ˧-ki˧ tsʰɯ˧˥, | ʈʂʰæ˧-ki˧ tsʰɯ˧˥, | ɖɤ˧mi˧-ki˧ tsʰɯ˧˥, | ʐwæ˧zo˧-ki˧ tsʰɯ˧˥, | hwɤ˧li˧-ki˧ tsʰɯ˧˥, | hwɤ˧mi˧-ki˧ tsʰɯ˧˥, | kʰv̩˩mi˩-ki˥ tsʰɯ˩, | dɑ˧ʝi˩-ki˩ tsʰɯ˩, | õ˩dv̩˧-ki˥ tsʰɯ˩, | nɑ˩hĩ˧-ki˧ tsʰɯ˧˥ ≈ nɑ˩hĩ˧-ki˩ tsʰɯ˩, | bo˩mi˧-ki˧ tsʰɯ˧˥, | bo˩ɬɑ˧-ki˩ tsʰɯ˩, | hwæ˧tsɯ˥-ki˩ tsʰɯ˩.
+\xe Combinations of the allative and the past form of the verb `to come' (|fv{tsʰɯ˩α}) with all tonal categories of nouns.
+\xn 向格跟‘来（过去式）’（|fv{tsʰɯ˩α}）与不同声调类型的名词结合。
+\xf Combinaisons de l'allatif et du verbe `venir' au passé (|fv{tsʰɯ˩α}) avec les diverses catégories tonales de noms
 \xc PHONO
 \xv no˧ | njɤ˧-ki˩ tsʰɯ˩.
 \xe You arrive at my place.
@@ -83155,7 +83248,7 @@
 \xf les gens de cette famille; cette maisonnée-ci
 \xc <langue="fra" dom="synt"> Dans la génération qui suit celle de la locutrice principale, l'expression tend à se simplifier en |fv{/ʈʂʰɯ˧-ʑi˥/}.
 \xc <langue="eng" dom="synt"> In the generation following that of the main speaker, the expression tends to simplify to |fv{/ʈʂʰɯ˧-ʑi˥/}.
-\xc <langue="cmn" dom="synt"> 在标准发音人之后的世代中，该短语趋于简化为：|fv{/ʈʂʰɯ˧-ʑi˥/}。
+\xc <langue="cmn" dom="synt"> 在拉他咪女士之后的世代中，该短语趋于简化为：|fv{/ʈʂʰɯ˧-ʑi˥/}。
 
 \lx -se˩
 \sf <nb="2011"> 3366
@@ -83437,7 +83530,11 @@
 \gn ……好了
 \df Forme grammaticalisée de |fv{/tɕɯ˥/} ‘mettre, placer'; elle exprime que l'action est finie, que son terme est maintenant dépassé, et qu'on peut passer à autre chose: de même que, une fois un objet posé à sa place, on peut tourner son attention vers un autre.
 \gf morphème_aspectuel
-\xv gɤ˩-ʈʂʰwæ˧-tɕɯ˧˥ / gɤ˩-ʈʂʰwæ˧-tɕɯ˧-zo˥
+\xv gɤ˩-ʈʂʰwæ˧-tɕɯ˧˥
+\xe to wake up, to awaken
+\xn 醒过来、醒来
+\xf être éveillé, se réveiller
+\xv gɤ˩-ʈʂʰwæ˧-tɕɯ˧-zo˥
 \xe to wake up, to awaken
 \xn 醒过来、醒来
 \xf être éveillé, se réveiller
