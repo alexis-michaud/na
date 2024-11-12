@@ -262,7 +262,7 @@
 \gf araire
 \xv æ˩gv̩˩ tʰv̩˩-nɑ˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这把犁头
+\xn 〜 |fg{指示代词} |fg{量词}：那把犁头
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -284,7 +284,7 @@
 \gf araire_usagée
 \xv æ˩mo˥ tʰv̩˩-nɑ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那个旧犁架子（犁杆）
+\xn 〜 |fg{指示代词} |fg{量词}：那个旧犁架子（犁杆）
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -352,7 +352,7 @@
 \xf la personne qui tient le mancheron de l'araire
 \xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这个犁把
+\xn 〜 |fg{指示代词} |fg{量词}：那个犁把
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -1662,7 +1662,7 @@
 \gf corde
 \xv bæ˩ ʈʂʰɯ˩-kʰɯ˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这条绳子
+\xn 〜 |fg{指示代词} |fg{量词}：这条绳子
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv bæ˧ tsʰi˩
@@ -2223,7 +2223,7 @@
 \gf canard
 \xv bæ˧mi˧-pʰv̩˧ tʰv̩˧-mi˧˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公鸭子
+\xn 〜 |fg{指示代词} |fg{量词}：那只公鸭子
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx bæ˩pʰv̩˥
@@ -2268,7 +2268,7 @@
 \gf canard
 \xv bæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ bæ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公鸭子
+\xn 〜 |fg{指示代词} |fg{量词}：那只公鸭子
 \xf 〜 |fg{dem} |fg{clf}
 \xv bæ˧pʰv̩˧-bæ˧mi#˥
 \xe male duck and female duck
@@ -2426,7 +2426,7 @@
 \gf caneton
 \xv bæ˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只小鸭子
+\xn 〜 |fg{指示代词} |fg{量词}：那只小鸭子
 \xf 〜 |fg{dem} |fg{clf}
 \xv bæ˧zo˧-bæ˧mi#˥
 \xe duckling and female duck
@@ -4851,7 +4851,7 @@
 \gf insecte
 \xv bɻ̩˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只虫
+\xn 〜 |fg{指示代词} |fg{量词}：那只虫
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -5295,7 +5295,7 @@
 \gf fumier
 \xv bɻ̩˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这堆肥料
+\xn 〜 |fg{指示代词} |fg{量词}：那堆肥料
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx bɻ̩˩qo˩-bɻ̩˧qʰæ˩
@@ -5344,7 +5344,7 @@
 \gf fumier
 \xv bɻ̩˩qo˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这堆肥料
+\xn 〜 |fg{指示代词} |fg{量词}：那堆肥料
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx bɻ̩˩qʰv̩˩
@@ -5442,7 +5442,7 @@
 \gf mouche
 \xv bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˧˥ ≈ bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只苍蝇
+\xn 〜 |fg{指示代词} |fg{量词}：这只苍蝇
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -5611,7 +5611,7 @@
 \gf petit_du_yak
 \xv bɻ̩˧zo˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧zo˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这头小牦牛
+\xn 〜 |fg{指示代词} |fg{量词}：那头小牦牛
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -10722,7 +10722,7 @@
 \gf buffle_femelle
 \xv dʑi˧mi˧ tʰv̩˧-pʰo˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这头母水牛
+\xn 〜 |fg{指示代词} |fg{量词}：那头母水牛
 \xf 〜 |fg{dem} |fg{clf}
 \xv dʑi˧mi˧-dʑi˧zo#˥ ≈ dʑi˧mi˧-dʑi˥zo˩
 \xe female water buffalo and male water buffalo
@@ -10840,7 +10840,7 @@
 \gf petit_du_buffle
 \xv dʑi˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只水牛崽子
+\xn 〜 |fg{指示代词} |fg{量词}：那只水牛崽子
 \xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
@@ -12526,7 +12526,7 @@
 \gf cigale
 \xv dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˧˥ ≈ dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只蝉
+\xn 〜 |fg{指示代词} |fg{量词}：那只蝉
 \xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
@@ -14441,7 +14441,7 @@
 \gf moineau_mâle
 \xv ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公麻雀
+\xn 〜 |fg{指示代词} |fg{量词}：那只公麻雀
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -16978,7 +16978,7 @@
 \gf ours_mâle
 \xv gi˧-nɑ˧mi˧-pʰv̩˧ tʰv̩˧-pʰo˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公熊
+\xn 〜 |fg{指示代词} |fg{量词}：那只公熊
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx gi˧-nɑ˧mi˧-zo#˥
@@ -17004,7 +17004,7 @@
 \gf ourson
 \xv gi˧-nɑ˧mi˧-zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只小熊
+\xn 〜 |fg{指示代词} |fg{量词}：那只小熊
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx gi˧-nɑ˧mi#˥
@@ -17029,7 +17029,7 @@
 \gf ours
 \xv gi˧-nɑ˧mi˧ tʰv̩˧-pʰo˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只熊
+\xn 〜 |fg{指示代词} |fg{量词}：那只熊
 \xf 〜 |fg{dem} |fg{clf}
 \dt 24/Apr/2017
 
@@ -20010,9 +20010,8 @@
 \gf trace_de_découpe
 \xv hæ̃˧ʐɤ˥ tʰv̩˩-kʰwɤ˩
 \xe 〜 |fg{dem} |fg{clf}: this trace of cutting
-\xn 这道割痕
+\xn 〜 |fg{指示代词} |fg{量词}：那道割痕
 \xf 〜 |fg{dem} |fg{clf}: cette trace de découpe
-\dt 21/Jun/2017
 
 \lx hæ˧ʐwɤ˩
 \sf <nb="B"> 638c
@@ -21201,7 +21200,7 @@
 \gf faisan
 \xv ho˧ tʰv̩˧-mi˧˥ ≈ ho˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只雉
+\xn 〜 |fg{指示代词} |fg{量词}：那只雉
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -21569,7 +21568,7 @@
 \gf faisan_femelle
 \xv ho˧mi˧ tʰv̩˧-mi˧˥ ≈ ho˧mi˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这个母雉
+\xn 〜 |fg{指示代词} |fg{量词}：那只母雉
 \xf 〜 |fg{dem} |fg{clf}
 \xv ho˧mi˧-ho˧pʰv̩˥ ≈ ho˧mi˧-ho˥pʰv̩˩
 \xe female and male pheasant
@@ -21595,7 +21594,7 @@
 \gf faisan_mâle
 \xv ho˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ho˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公雉
+\xn 〜 |fg{指示代词} |fg{量词}：那只公雉
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx hɤ˩-ʂe˩ʂe˩
@@ -21751,7 +21750,7 @@
 \gf bébé_faisan
 \xv ho˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只小雉
+\xn 〜 |fg{指示代词} |fg{量词}：那只小雉
 \xf 〜 |fg{dem} |fg{clf}
 \dt 29/Jul/2017
 
@@ -22525,9 +22524,8 @@
 \gf grande_houe
 \xv hwæ˧pʰæ˩ tʰv̩˩-nɑ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这把大锄
+\xn 〜 |fg{指示代词} |fg{量词}：那把大锄
 \xf 〜 |fg{dem} |fg{clf}
-\dt 24/Apr/2017
 
 \lx hwæ˧pʰæ˥
 \sf <nb="B"> 409b
@@ -23273,7 +23271,7 @@
 \gf matou
 \xv hwɤ˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那个公猫
+\xn 〜 |fg{指示代词} |fg{量词}：那个公猫
 \xf 〜 |fg{dem} |fg{clf}
 \xv hwɤ˧pʰv̩˧-hwɤ˧mi˥
 \xe tom-cat and she-cat
@@ -23377,7 +23375,7 @@
 \gf chaton
 \xv hwɤ˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那个小猫
+\xn 〜 |fg{指示代词} |fg{量词}：那只小猫
 \xf 〜 |fg{dem} |fg{clf}
 \xv hwɤ˧zo˧-hwɤ˧mi˥
 \xe cats, the cat family: kitten and parents
@@ -23708,7 +23706,7 @@
 \xf peau de vache
 \xv ʝi˧ tʰv̩˧-pʰo˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那头牛
+\xn 〜 |fg{指示代词} |fg{量词}：那头牛
 \xf 〜 |fg{dem} |fg{clf}
 \dt 02/Sep/2015
 
@@ -24376,11 +24374,11 @@
 \gf taureau
 \xv ʝi˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那头公牛
+\xn 〜 |fg{指示代词} |fg{量词}：那头公牛
 \xf 〜 |fg{dem} |fg{clf}
 \xv ʝi˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}.animaux
-\xn 那头公牛
+\xe 〜 |fg{dem} |fg{clf}.animals
+\xn 〜 |fg{指示代词} |fg{量词}：那头公牛
 \xf 〜 |fg{dem} |fg{clf}.animaux
 
 \lx ʝi˩qʰv̩˩
@@ -24768,9 +24766,8 @@
 \gf veau
 \xv ʝi˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那头小牛
+\xn 〜 |fg{指示代词} |fg{量词}：那头小牛
 \xf 〜 |fg{dem} |fg{clf}
-\dt 02/Sep/2015
 
 \lx jo˩
 \sf <nb="B"> 1889
@@ -25672,7 +25669,7 @@
 \gf bélier
 \xv jo˧pʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}: that ram
-\xn 这头公羊
+\xn 〜 |fg{指示代词} |fg{量词}：那头公羊
 \xf 〜 |fg{dem} |fg{clf}: ce bélier
 
 \lx jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
@@ -28317,13 +28314,12 @@
 \gf griffes_de_poulet
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只鸡爪
+\xn 〜 |fg{指示代词} |fg{量词}：那个鸡爪
 \xf 〜 |fg{dem} |fg{clf}
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ʈv̩˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只鸡爪
+\xn 〜 |fg{指示代词} |fg{量词}：那个鸡爪
 \xf 〜 |fg{dem} |fg{clf}
-\dt 03/Sep/2015
 
 \lx kʰɯ˧tsɯ˧bæ˥
 \or keezibbae
@@ -28639,7 +28635,7 @@
 \gf nid(monosyll.)
 \xv kʰv̩˧ | ʈʂʰɯ˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只鸟巢
+\xn 〜 |fg{指示代词} |fg{量词}：这只鸟巢
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˩ gv̩˩˥
@@ -28734,7 +28730,7 @@
 \xf l'existence du chien, la vie du chien (qu'il a échangée avec l'homme, selon la légende)
 \xv kʰv̩˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那条狗
+\xn 〜 |fg{指示代词} |fg{量词}：那条狗
 \xf 〜 |fg{dem} |fg{clf}
 \xv kʰv̩˧-gɤ˥ljɤ˩
 \xe roving dog
@@ -29026,7 +29022,7 @@
 \gf chien
 \xv kʰv̩˩mi˩ ʈʂʰɯ˩-jɤ˧
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这条狗
+\xn 〜 |fg{指示代词} |fg{量词}：这条狗
 \xf 〜 |fg{dem} |fg{clf}
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
 \xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
@@ -29227,17 +29223,17 @@
 \gf chien_mâle
 \xv kʰv̩˧pʰv̩˧ ʈʂʰɯ˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公狗
+\xn 〜 |fg{指示代词} |fg{量词}：这只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-mi˧˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公狗
+\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-v̩#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这个公狗
+\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -29625,17 +29621,17 @@
 \gf petit_chien
 \xv kʰv̩˧zo˧ ʈʂʰɯ˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公狗
+\xn 〜 |fg{指示代词} |fg{量词}：这只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-mi˧˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公狗
+\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-v̩#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只公狗
+\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 \xv kʰv̩˧zo˥-kʰv̩˩mv̩˩
@@ -30829,11 +30825,10 @@
 \gn 母老虎
 \df Tigresse.
 \gf tigresse
-\xv lɑ˧mi˧ tʰv̩˧-mi˧˥ / lɑ˧mi˧ tʰv̩˧-mi˥#
+\xv lɑ˧mi˧ tʰv̩˧-mi˧˥ ≈ lɑ˧mi˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只老虎
+\xn 〜 |fg{指示代词} |fg{量词}：那只老虎
 \xf 〜 |fg{dem} |fg{clf}
-\dt 04/Sep/2015
 
 \lx ɬɑ˧mv̩˥$
 \or Lhamu
@@ -30927,7 +30922,7 @@
 \gf tigre(mâle)
 \xv lɑ˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只老虎
+\xn 〜 |fg{指示代词} |fg{量词}：那只老虎
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx læ˧ʁæ˧-mi˥$
@@ -30963,7 +30958,7 @@
 \gf corbeau_mâle
 \xv læ˧ʁæ˧-pʰv̩˧ tʰv̩˧-mi˥$
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只公乌鸦
+\xn 〜 |fg{指示代词} |fg{量词}：那只公乌鸦
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx læ˧ʁæ˥$
@@ -31264,9 +31259,8 @@
 \gf bébé_tigre
 \xv lɑ˧zo˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只小老虎
+\xn 〜 |fg{指示代词} |fg{量词}：那只小老虎
 \xf 〜 |fg{dem} |fg{clf}
-\dt 04/Sep/2015
 
 \lx lɑ˩~lɑ˧˥
 \sf <nb="B"> 1690
@@ -32258,7 +32252,7 @@
 \gf chevrotain_mâle
 \xv ɬi˧pʰv̩˧ tʰv̩˧-mi˥# ≈ ɬi˧pʰv̩˧ tʰv̩˧-mi˧˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只公獐子
+\xn 〜 |fg{指示代词} |fg{量词}：那只公獐子
 \xf 〜 |fg{dem} |fg{clf}
 
 \lx ɬi˧qʰæ#˥
@@ -33118,9 +33112,8 @@
 \gf serfouette
 \xv lo˧ɖʐɤ˩ ʈʂʰɯ˩-nɑ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这把三齿耙
+\xn 〜 |fg{指示代词} |fg{量词}：这把三齿耙
 \xf 〜 |fg{dem} |fg{clf}
-\dt 24/Apr/2017
 
 \lx lo˧fv̩˧
 \sf <nb="B"> 1029
@@ -34625,11 +34618,10 @@
 \gn 螳螂
 \df Mante religieuse.
 \gf mante_religieuse
-\xv ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˧˥ / ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˥#
+\xv ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˧˥ ≈ ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˥#
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那只螳螂
+\xn 〜 |fg{指示代词} |fg{量词}：那只螳螂
 \xf 〜 |fg{dem} |fg{clf}
-\dt 01/Aug/2017
 
 \lx ɬv̩˩pʰæ˩
 \sf <nb="2011"> 1452
@@ -35689,9 +35681,8 @@
 \xf (Au sujet d'un événement) Ca vient de loin! / ça a une origine/ça n'arrive pas par hasard!
 \xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩ |
 \xe 〜 |fg{dem} |fg{clf}: this cause, this origin
-\xn 这个来历
+\xn 〜 |fg{指示代词} |fg{量词}：这个来历
 \xf 〜 |fg{dem} |fg{clf}: cette cause, cette origine
-\dt 24/Apr/2017
 
 \lx mæ˩α
 \sf <nb="B"> 1482
@@ -41312,9 +41303,9 @@
 \gn 鱼
 \df Poisson.
 \gf poisson
-\xv ɲi˧zo˧ tʰv̩˧-mi˥# / ɲi˧zo˧ tʰv̩˧-mi˧˥
+\xv ɲi˧zo˧ tʰv̩˧-mi˥# ≈ ɲi˧zo˧ tʰv̩˧-mi˧˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 那条鱼
+\xn 〜 |fg{指示代词} |fg{量词}：那条鱼
 \xf 〜 |fg{dem} |fg{clf}
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. La locutrice exprime une préférence pour le schéma tonal H#.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants. The speaker expresses a preference for H#.
@@ -50738,9 +50729,8 @@
 \gf cordelette
 \xv qʰv̩˩ɖʐæ˩ ʈʂʰɯ˩-kʰɯ˥
 \xe 〜 |fg{dem} |fg{clf}
-\xn 一条细的绳子
+\xn 〜 |fg{指示代词} |fg{量词}：这条细的绳子
 \xf 〜 |fg{dem} |fg{clf}
-\dt 01/Oct/2015
 
 \lx qv̩˧dzi˩
 \sf <nb="B"> 2017
@@ -52471,9 +52461,9 @@
 \gn 牛轭
 \df Joug (le terme est le même pour un ou deux animaux).
 \gf joug
-\xv ɻæ˩ ʈʂʰɯ˩-ɭɯ˥ / ɻæ˩ ʈʂʰɯ˩-ɭɯ˩˥
-\xe 〜 |fg{dem} |fg{clf}; allows two variants
-\xn 这个牛轭
+\xv ɻæ˩ ʈʂʰɯ˩-ɭɯ˥ ≈ ɻæ˩ ʈʂʰɯ˩-ɭɯ˩˥
+\xe 〜 |fg{dem} |fg{clf}
+\xn 〜 |fg{指示代词} |fg{量词}：这个牛轭
 \xf 〜 |fg{dem} |fg{clf}
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants.
@@ -53175,9 +53165,8 @@
 \xf garrot de vache
 \xv ʁæ˧tɑ˩ tʰv̩˩-ɭɯ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这只肩隆
+\xn 〜 |fg{指示代词} |fg{量词}：那只肩隆
 \xf 〜 |fg{dem} |fg{clf}
-\dt 01/Oct/2015
 
 \lx ʁæ˧ʈv̩˥
 \sf <nb="B"> 140
@@ -64807,7 +64796,7 @@
 \gf 夹担::joug
 \xv tɕɤ˧tɑ˧ tʰv̩˧-ɭɯ˧
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这个牛轭
+\xn 〜 |fg{指示代词} |fg{量词}：那个牛轭
 \xf 〜 |fg{dem} |fg{clf}
 \dt 08/Oct/2015
 
@@ -64835,7 +64824,7 @@
 \gf courroies_du_joug
 \xv tɕɤ˧tɑ˧-bæ˩ tʰv̩˩-kʰɯ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这条牛皮绳
+\xn 〜 |fg{指示代词} |fg{量词}：那条牛皮绳
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
@@ -73056,9 +73045,8 @@
 \gf soc
 \xv ʈʂʰɻ̩˧ ʈʂʰɯ˧-ɭɯ˧
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这把铧头
+\xn 〜 |fg{指示代词} |fg{量词}：这把铧头
 \xf 〜 |fg{dem} |fg{clf}
-\dt 07/Oct/2015
 
 \lx ʈʂʰɻ̩˧˥
 \sf <nb="B"> 1750
@@ -74898,7 +74886,7 @@
 \gf filet
 \xv ʈʂʰwæ˧kɯ˧ tʰv̩˧-nɑ˩
 \xe 〜 |fg{dem} |fg{clf}
-\xn 这个网
+\xn 〜 |fg{指示代词} |fg{量词}：那个网
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
 
