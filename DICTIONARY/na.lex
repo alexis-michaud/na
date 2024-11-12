@@ -25517,6 +25517,21 @@
 \xn 杨把事家的一个人的名字：杨把事·达石
 \xf nom propre d'une personne de la famille Yebaesi: ‘Daeshi de la famille Yebaesi'.
 
+\lx kɤ˧fv̩#˥
+\or Gefu
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton #H
+\lc kɤ˧fv̩˧
+\so M18
+\de Gefu: the name of a family community (sissi, |fv{sɯ˧zɯ#˥}).
+\ge Gefu.family
+\dn 高夫家庭社区（支系）。汉语音译：‘斯日’。
+\gn 高夫‘斯日’
+\df Gefu: nom d'une communauté familiale (sissi, |fv{sɯ˧zɯ#˥}).
+\gf Gefu.famille
+
 \lx jɤ˩po˧
 \sf <nb="2011"> 1725
 \or yebo
@@ -55436,7 +55451,7 @@
 \sd <langue="eng"> place name
 \ton #H
 \lc ʁwɤ˧ʐv̩˧
-\cf lo˩mæ˩
+\sy lo˩mæ˩
 \so F4
 \de Wuaru: the village of Qiansuo.
 \ge Wuaru(Qiansuo)
@@ -55444,10 +55459,6 @@
 \gn 前所
 \df Wuaru: le village de Qiansuo (localité perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques/emprunts/mélanges).
 \gf Wuaru(Qiansuo)
-\xv ʁwɤ˧ʐv̩˧-lo˩mæ˩
-\xe Wuaru-Lomae: same meaning (the village of Qiansuo).
-\xn 同上
-\xf Wuaru-Lomae: même sens (le village de Qiansuo).
 \xv ʁwɤ˧ʐv̩˧, | jɤ˧qʰɑ˧ dʑɤ˥; | hwɤ˧li˧-hɑ˧ mɤ˧-dʑo˧˥!
 \xc PROVERBE
 \xe Adage: “In Qiansuo, bitter buckwheat grows beautifully; there's nothing for cats to eat!" Explanation: cats do not eat bitter buckwheat.
@@ -55463,6 +55474,25 @@
 \xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
 \xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
 \xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
+
+\xv ʁwɤ˧ʐv̩˧-lo˩mæ˩
+\or Wuaru-Lomae
+\mr ʁwɤ˧ʐv̩#˥
+\mr lo˩mæ˩
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton -L
+\lc ʁwɤ˧ʐv̩˧lo˩mæ˩
+\sy ʁwɤ˧ʐv̩#˥
+\sy lo˩mæ˩
+\so F4
+\de Wuaru-Lomae: the village of Qiansuo. (This name consists of the two synonymous names ‘Wuaru’ and ‘Lomae’.) This area is perceived by Mrs. Latami as having an important Yi population, as well as Han Chinese population, as well as Na population, resulting in salient phenomena of language contact, borrowing and dialect mixing.
+\ge Wuaru_Lomae(Qiansuo)
+\dn 四川省凉山州盐源县前所乡。经纬度：100.77927，27.82267
+\gn 前所
+\df Wuaru-Lomae: le village de Qiansuo. (Nom formé des deux appellations synonymes ‘Wuaru’ et ‘Lomae’.) La localité est perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques, emprunts, et mélanges de dialectes.
+\gf Wuaru_Lomae(Qiansuo)
 
 \lx ʁwɤ˧α
 \sf <nb="B"> 1718
@@ -56060,10 +56090,9 @@
 \df Sambucus, |fi{Toricellia angulata Oliv.}
 \gf sambucus
 \xv ɻ̩̃˧ʈʂwæ˩-si˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 06/Jun/2017
+\xe same meaning: Sambucus, |fi{Toricellia angulata Oliv.}, with addition of the morpheme for `wood'.
+\xn 同上：接骨丹（加上‘木’这个语素）。
+\xf même sens: Sambucus, |fi{Toricellia angulata Oliv.}, auquel est suffixé le morphème `bois'.
 
 \lx sɑ˧˥
 \or saq
@@ -56582,7 +56611,9 @@
 \lx mæ˧ʂæ˩
 \or maeshae
 \ps n
+\sy bɑ˩lɑ˩-mæ˩ʂæ˥
 \sy ʂæ˧tsɯ˧
+\sy bɑ˩lɑ˩-ʂæ˩tsɯ˥
 \lc mæ˧ʂæ˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56595,16 +56626,35 @@
 \gn 裋
 \df Caftan: vêtement que portaient les enfants avant leurs treize ans: robe ample (la même pour les filles et les garçons); anciennement, les hommes aussi portaient ce type de vêtement.
 \gf caftan
-\xv bɑ˩lɑ˩-mæ˩ʂæ˥#
-\xe same meaning
-\xn 同上
-\xf même sens
+
+\lx bɑ˩lɑ˩-mæ˩ʂæ˥
+\or bbala maeshae
+\mr bɑ˩lɑ˩
+\mr mæ˧ʂæ˩
+\ps n
+\sy mæ˧ʂæ˩
+\sy ʂæ˧tsɯ˧
+\sy bɑ˩lɑ˩-ʂæ˩tsɯ˥
+\lc bɑ˩lɑ˩mæ˩ʂæ˥
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton L+H#
+\so F4
+\pdv ɭɯ˧˥
+\de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
+\ge kaftan
+\dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
+\gn 裋
+\df Caftan: vêtement que portaient les enfants avant leurs treize ans: robe ample (la même pour les filles et les garçons); anciennement, les hommes aussi portaient ce type de vêtement.
+\gf caftan
 
 \lx ʂæ˧tsɯ˧
 \or shaezi
 \bw <langue="cmn"> 衫子
 \ps n
+\sy bɑ˩lɑ˩-ʂæ˩tsɯ˥
 \sy mæ˧ʂæ˩
+\sy bɑ˩lɑ˩-mæ˩ʂæ˥
 \lc ʂæ˧tsɯ˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56617,10 +56667,28 @@
 \gn 裋
 \df Caftan: vêtement que portaient les enfants avant leurs treize ans: robe ample (la même pour les filles et les garçons); anciennement, les hommes aussi portaient ce type de vêtement.
 \gf caftan
-\xv bɑ˩lɑ˩-ʂæ˩tsɯ˥#
-\xe same meaning
-\xn 同上
-\xf même sens
+
+\lx bɑ˩lɑ˩-ʂæ˩tsɯ˥
+\or bbala shaezi
+\mr bɑ˩lɑ˩
+\mr ʂæ˧tsɯ˧
+\bw <langue="cmn"> 衫子
+\ps n
+\sy ʂæ˧tsɯ˧
+\sy mæ˧ʂæ˩
+\sy bɑ˩lɑ˩-mæ˩ʂæ˥
+\lc bɑ˩lɑ˩ʂæ˩tsɯ˥
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton L+H#
+\so F4
+\pdv ɭɯ˧˥
+\de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
+\ge kaftan
+\dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
+\gn 裋
+\df Caftan: vêtement que portaient les enfants avant leurs treize ans: robe ample (la même pour les filles et les garçons); anciennement, les hommes aussi portaient ce type de vêtement.
+\gf caftan
 
 \lx sɑ˧tsʰv̩˩
 \or sacu
@@ -56819,6 +56887,7 @@
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \ton #H
+\sy ʂe˧do˧˥
 \lc ʂe˧
 \so F4
 \de Unripe cereals.
@@ -56827,11 +56896,24 @@
 \gn 未熟粮食
 \df Céréales pas encore mûres: céréales en herbe, dont on voit déjà l'épi mais dont l'épi ne s'est pas encore incliné sous le poids du grain.
 \gf céréales_en_herbe
-\xv ʂe˧do˧˥
-\xe unripe cereals
-\xn 未熟粮食
-\xf même sens
-\dt 05/Oct/2015
+
+\lx ʂe˧do˧˥
+\or sheiddo
+\mr ʂe˥2
+\mr do˩
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton MH#
+\sy ʂe˥2
+\lc ʂe˧do˧˥
+\so F4
+\de Unripe cereals.
+\ge unripe_cereals
+\dn 未熟粮食
+\gn 未熟粮食
+\df Céréales pas encore mûres: céréales en herbe, dont on voit déjà l'épi mais dont l'épi ne s'est pas encore incliné sous le poids du grain.
+\gf céréales_en_herbe
 
 \lx ʂe˩β
 \sf <nb="B"> 2237
@@ -57043,19 +57125,35 @@
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton #H
+\sy se˧gi˧-kɤ˩mv̩˩
+\sy kɤ˧mv̩˧˥
 \lc se˧gi˧
 \so F4
 \de The Tibetan name of the mountain |fv{/kɤ˧mv̩˧˥/} (Chinese name: Gemu).
 \ge Tibetan_name_of_Gemu_mountain
-\dn 格姆山的藏语名字
-\gn 格姆山的藏语名字
-\df Nom anciennement donné par les Tibétains à la montagne |fv{/kɤ˧mv̩˧˥/} (nom chinois: Gemu).
+\dn 格姆山的藏语名称
+\gn 格姆山的藏语名称
+\df Nom donné par les Tibétains à la montagne |fv{/kɤ˧mv̩˧˥/} (nom chinois: Gemu).
 \gf nom_tibétain_de_la_montagne_Gemu
+
 \xv se˧gi˧-kɤ˩mv̩˩
-\xe same meaning
-\xn 同上
-\xf même sens
-\dt 05/Oct/2015
+\or Seiggi Gemu
+\mr se˧gi#˥
+\mr kɤ˧mv̩˧˥
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton -L
+\sy se˧gi#˥
+\sy kɤ˧mv̩˧˥
+\lc se˧gi˧kɤ˩mv̩˩
+\so F4
+\de Gemu mountain (noun combining the Tibetan name with the name in Narua).
+\ge Gemu_mountain
+\dn 格姆山（藏语名称与摩梭语名称的合称）。
+\gn 格姆山
+\df La montagne Gemu (expression qui associe le nom donné par les Tibétains au nom en langue na).
+\gf montagne_Gemu
 
 \lx sɤ˩gwɤ˩mi˥
 \sf <nb="2011"> 2699
@@ -59037,9 +59135,9 @@
 \xn 他（对周围的人）有一个不好的影响！（他的家庭）是个不好的家庭！
 \xf Il/elle exerce une mauvaise influence / il/elle donne un mauvais exemple! (Sa famille,) c'est une mauvaise famille!
 \xv so˧lo˧ mɤ˧-dʑɤ˩!
-\xe Same meaning as previous example: His/her example/influence is not good.
-\xn 同上：（他对别人的）影响不好。
-\xf Même sens que l'exemple précédent: Son exemple n'est pas bon / son influence n'est pas bonne.
+\xe His/her example/influence is not good.
+\xn （他对别人的）影响不好。
+\xf Son exemple n'est pas bon / son influence n'est pas bonne.
 \xv so˧lo˧ dʑɤ˩
 \xe good influence; good example; good education
 \xn 好榜样、好例子、好教育
@@ -59261,9 +59359,9 @@
 \df Sorte de pin.
 \gf pin_sp
 \xv sɤ˧tʰo˧-dzi˧˥
-\xe same meaning
-\xn 同上
-\xf même sens (désigne une espèce de pin)
+\xe same meaning: a type of pine (word composed with addition of classifier for trees)
+\xn 同上：一种松树
+\xf même sens: une espèce de pin (nom construit par ajout du classificateur des arbres)
 \xv sɤ˧tʰo˧-si˧˥
 \xe the wood of this type of pine tree
 \xn 这种松树的木头
@@ -60916,9 +61014,9 @@
 \df Parier, jouer à des jeux d'argent (sens élargi à partir du sens premier, «jeter les dés»).
 \gf parier
 \xv ʂv̩˧kʰɯ˩ | -jɤ˩po˧
-\xe same meaning
-\xn 同上
-\xf même sens
+\xe to bet
+\xn 赌博
+\xf parier, jouer à des jeux d'argent
 
 \lx ʂv̩˧β
 \sf <nb="B"> 1700
@@ -61808,6 +61906,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <dom="sem" langue="fra"> Il ne semble pas exister de termes différents pour `moine' et `nonne'.
+\nt <type="hist" print="n" langue="fra"> Noté un /ʈæ˧bɤ˧ʈʂʰo˧/ (codé à l'origine comme un exemple), avec pour indication 'même sens'. xxxx à vérifier: est-ce un nom, ou N+V `le moine lit des prières'?
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -61820,14 +61919,10 @@
 \gn 和尚/尼姑
 \df Moine bouddhiste, nonne bouddhiste.
 \gf moine/nonne
-\xv ʈæ˧bɤ˧ʈʂʰo˧
-\xe same meaning
-\xn 同上
-\xf même sens
 \xv ʈæ˧bɤ˧ ʝi˧-hĩ˧ hĩ˧
 \xe person who is a monk
 \xn 当和尚的人
-\xf même sens
+\xf personne qui est un moine, personne qui a embrassé la vocation de moine
 \xv hæ˧-ʈæ˩bɤ˩
 \xe Chinese monk
 \xn 汉人和尚
@@ -62295,7 +62390,6 @@
 \xe This buffalo is a female!
 \xn 这头水牛是母的！
 \xf ce buffle, c'est une femelle!
-\dt 09/Oct/2015
 
 \lx tɑ˥mo˩
 \sf <nb="B"> 640
