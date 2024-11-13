@@ -420,7 +420,7 @@
 \xf crier
 \xv no˧ | æ˧ʝi˩ tʰɑ˩-kʰɯ˩! | no˧ se˧-dʑæ˩ɻæ˩-gv̩˩! |
 \xe Don't make noise! You are annoying everyone! (Context: a reprimand given to people who spoke too loudly)
-\xn 请你不要大声/别那么大声！你就是叽叽喳喳！（你在麻烦大家、你很烦人）
+\xn 请你不要大声／别那么大声！你就是叽叽喳喳！（你在麻烦大家、你很烦人）
 \xf Ne fais pas tant de bruit, tu embêtes le monde! (Contexte: réprimande qu'on adressait aux gens qui parlaient trop fort, qui élevaient la voix.)
 \dt 11/May/2017
 
@@ -732,7 +732,7 @@
 \xf aller dehors; aller faire ses besoins
 \xv ɑ˩pʰo˩ bi˩-ze˥!
 \xe Let's go out! / I must answer the call of nature!
-\xn 出去了！ / 出去解手！
+\xn 出去了！／出去解手！
 \xf On sort! / [Je] vais faire mes besoins!
 \xv ɑ˩pʰo˩ bi˩ ʂv̩˥ɖv̩˩!
 \xe [She] wants to go out! (Context: on a sunny day, a family member senses that an infant wants to go and play outside.)
@@ -1129,7 +1129,7 @@
 \gf tradition_orale
 \xv æ˧ʂæ˧-qʰwæ˧-ɳɯ˥ | dʑo˩-ɲi˥!
 \xe “I'm not making this up:) this is part of what the old folks have passed down to us! / This is what our traditions say!" (Context: the speaker cites a proverb or saying, and emphasizes that it is to be taken seriously.)
-\xn “（这些道理，不是我个人的意见：）传统中是这样讲的！ / 咱们的口传文化中就是这么讲的！”（情景：一个人提到一个谚语，强调这是有根据、有源头的，是重要的一个道理。）
+\xn “（这些道理，不是我个人的意见：）传统中是这样讲的！／咱们的口传文化中就是这么讲的！”（情景：一个人提到一个谚语，强调这是有根据、有源头的，是重要的一个道理。）
 \xf «(C'est pas moi qui invente ça:) c'est un dicton d'autrefois/ c'est quelque chose qui existe dans la tradition!» (Commentaire de quelqu'un qui cite un proverbe/dicton, et souligne qu'il ne s'agit pas de paroles en l'air, mais de vérités.)
 \dt 11/May/2017
 
@@ -1981,7 +1981,7 @@
 \gf récolte
 \xv bæ˩dʑɯ˥ | mɤ˧-dʑɤ˩!
 \xe The harvest is not good!
-\xn 庄稼不好！/收成不好！
+\xn 庄稼不好！／收成不好！
 \xf La récolte n'est pas bonne!
 \xv bæ˩dʑɯ˥ | tv̩˧-bæ˩ le˩-mv̩˩-kʰɯ˩!
 \xe May a thousand crops come to maturity! (A blessing to elders, used for instance during the rite of coming of age)
@@ -2329,7 +2329,7 @@
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv bæ˧ʁwɤ˧: | nɑ˩˥!
 \xe Bbaewua |fv{/bæ˧ʁwɤ˧/} is a Na village!
-\xn |fv{/bæ˧ʁwɤ˧/}是一个摩梭人村落！
+\xn |fv{bæ˧ʁwɤ˧}是一个摩梭人村落！
 \xf Bbaewua |fv{/bæ˧ʁwɤ˧/}, c'est un village na!
 \xv bæ˧ʁwɤ˧-nɑ˩
 \xe Na (Mosuo) people from Bbaewua |fv{/bæ˧ʁwɤ˧/}.
@@ -2782,15 +2782,15 @@
 \gf jaillir
 \xv tʰi˧-ʈwæ˧˥, | sɤ˧ | bi˧bɻ̩˥-ze˩!
 \xe (She/he) fell down; blood is flowing profusely!
-\xn （他）摔倒了，流了很多血/血破了！
+\xn （他）摔倒了，流了很多血／血破了！
 \xf [Il] est tombé [et s'est blessé]; le sang a jailli! (La blessure a aussitôt saigné à profusion.)
 \xv dʑɯ˧ | bi˧bɻ̩˥-ze˩!
 \xe The water is flowing profusely!
-\xn 水暴发了！/水流如注！
+\xn 水暴发了！／水流如注！
 \xf L'eau s'est déversée à flots!
 \xv dʑɯ˩-nɑ˩mi˩ bi˩bɻ̩˥-ze˩-pʰæ˩di˩!
 \xe There seems to be a flood / landslide out on the mountain!
-\xn 山上的水爆发了的样子！（激流流得很冲，好像山肚子爆炸了一样）/山上好像有了泥石流！
+\xn 山上的水爆发了的样子！（激流流得很冲，好像山肚子爆炸了一样）／山上好像有了泥石流！
 \xf On dirait qu'il y a une coulée de boue / un glissement de terrain sur la montagne!
 
 \lx bi˧ɕi˧kv̩˥
@@ -4967,7 +4967,7 @@
 \gf impatient
 \xv ʈʂʰɯ˧ | bɻ̩˧ɖæ˧-ze˩!
 \xe He is in a bad mood now.
-\xn 他脾气坏了！/ 他生气了！
+\xn 他脾气坏了！／他生气了！
 \xf Il est de mauvais poil! / Il est de mauvaise humeur!
 \xv ʈʂʰɯ˧ | bɻ̩˧ɖæ˧ | ʐwæ˩˥.
 \xe He has a really bad temper.
@@ -5771,7 +5771,7 @@
 \xf vivre sa vie
 \xv hĩ˧-zɯ˧ bv̩˥, | lo˧hɑ˧!
 \xe Living one's life is hard! / Life is tough!
-\xn 人一生，不容易！/ 生活，是艰难的！
+\xn 人一生，不容易！／生活，是艰难的！
 \xf Vivre sa vie, c'est difficile! / La vie humaine, c'est pas facile! / La vie est dure!
 \xv hĩ˧-zɯ˧ | le˧-bv̩˩-ze˩.
 \xe (Her/his) life has gone by! / (Her/his) life is over! (A reflection after someone's decease.)
@@ -6376,9 +6376,8 @@
 \xf Goûte un peu! goûte un morceau!
 \xv ɖɯ˧-ɕjɤ˧-ɻ̩˥!
 \xe Have a try!
-\xn 尝一尝吧！ / 试一试吧！
+\xn 尝一尝吧！／试一试吧！
 \xf Goûte voir! / Essaie voir!
-\dt 27/Aug/2015
 
 \lx ɕjɤ˥
 \or xe
@@ -6643,7 +6642,7 @@
 \ue archaic
 \xv njɤ˧ | no˩ ɕi˩ tʰɑ˥-mɤ˩-ʝi˩! | njɤ˧ | no˩ ɖwæ˩ tʰɑ˥-mɤ˩-ʝi˩!
 \xe Don't you fancy I am afraid of you! / Don't you imagine you frighten me!
-\xn 我不会屈服于你！/ 我不会害怕你！（回敬的话）
+\xn 我不会屈服于你！／我不会害怕你！（回敬的话）
 \xf Ne va pas croire que tu me fasses peur! / Si tu crois que j'ai peur de toi! Si tu crois que je te crains/que tu me fais peur!
 \xv njɤ˧ | no˩ ɕi˩-mɤ˩-ʝi˥!
 \xe You don't frighten me! / I'm not afraid of you!
@@ -6984,7 +6983,7 @@
 \gf mule
 \xv dɑ˧ʝi˩-dʑo˩, | ɖɯ˩mi˧ dʑo˧-kv̩˥-mæ˩! | ɖɯ˩zo˧ dʑo˧-kv̩˥-mæ˩!
 \xe As for mules, there exist female mules, (and) male mules! / Among mules, there is a distinction between females and males! (Explanation provided to a city dweller on a visit, who knew precious little about animal breeding.)
-\xn 骡子呢，有母骡子！（也）有公骡子！ / 骡子，分母的和公的！（这个说明是给一个不懂畜牧业的城里人听）
+\xn 骡子呢，有母骡子！（也）有公骡子！／骡子，分母的和公的！（这个说明是给一个不懂畜牧业的城里人听）
 \xf Les mules, ça se répartit en mules mâles et mules femelles! / Il existe une distinction de sexe parmi les mules! (Explication fournie à un visiteur citadin peu au fait de l'élevage des animaux.)
 
 \lx dɑ˩kʰɤ˩
@@ -7297,7 +7296,7 @@
 \xf faire des politesses
 \xv dɑ˩to˧ ʐwɤ˧-hĩ˥-lɑ˩ ɲi˩!
 \xe It's just polite words! (Comment about an invitation by a neighbour, which was intended to be declined: it was not a true invitation.)
-\xn 只是说客气话而已！/这只是客气话而已！
+\xn 只是说客气话而已！／这只是客气话而已！
 \xf C'est juste pour être poli! / C'est juste une façon de dire! (Commentaire de quelqu'un au sujet d'une invitation lancée par un voisin, qui est une simple politesse et pas une vraie invitation; il convient de la décliner.)
 \dt 27/Aug/2015
 
@@ -7439,7 +7438,7 @@
 \xc <langue="fra" type="hist" print="n"> Phrases élicitées pour établir l'identité du ton lexical.
 \xv ɖɯ˧-di˩ ɖɯ˩-bæ˩!
 \xe Each place is different! (In particular, each place has its own pronunciation: its own dialect of the Na language)
-\xn 一个地方，一个样！ = 每个地方有自己的特色（如：每个村落有自己的摩梭方言/土语）
+\xn 一个地方，一个样！ = 每个地方有自己的特色。如：每个村落有自己的摩梭方言（土语）。
 \xf C'est différent à chaque endroit/chaque endroit a ses choses propres (par exemple, en matière de langues, chaque village a sa prononciation, son dialecte)
 
 \lx di˧˥
@@ -8220,7 +8219,7 @@
 \xf (Tu n'as) pas le droit de le prendre! (ex.: un enfant n'est pas autorisé à jouer avec un couteau)
 \xv ʈʂʰɯ˧, | po˧ ɖo˧!
 \xe That one, you can have it / you can take it / you can play with it! (Context: as above: telling a child what (s)he can and cannot toy with.)
-\xn 那个，是可以拿的！ / 那个，是可以玩的！（情景同上：告诉一个小孩子什么东西可以拿，什么不可以拿。）
+\xn 那个，是可以拿的！／那个，是可以玩的！（情景同上：告诉一个小孩子什么东西可以拿，什么不可以拿。）
 \xf Ça, (tu) peux le prendre / tu peux jouer avec! (Même contexte que ci-dessus: on indique à un enfant ce qu'on a le droit de prendre, et ce qu'on n'a pas le droit de prendre.)
 \xv gɤ˩ do˧ mɤ˧-ɖo˧!
 \xe (You) are not allowed to climb (on the table,…)
@@ -9299,7 +9298,7 @@
 \gf |fg{clf}.marches
 \xv ɖɯ˧-ɖwæ˧ ɲi˥
 \xe It's a step (of stairs).
-\xn 是一节/一节阶梯。
+\xn 是一节（一节阶梯）。
 \xf c'est une marche
 \xc PHONO
 \xv ʈʂʰɯ˧-ɖwæ#˥
@@ -9535,7 +9534,7 @@
 \gf rester
 \xv dzɯ˧-dze˥-ze˩!
 \xe There are some leftovers! / The food has not been eaten up!
-\xn 剩了一些饭！/ 剩了一些吃的！
+\xn 剩了一些饭！／剩了一些吃的！
 \xf il y a des restes! / on n'a pas achevé de manger (un plat)!
 \xv gɤ˩-dze˥ +ze˩!
 \xe There are some leftovers!
@@ -9548,9 +9547,8 @@
 \xf Il en reste / on n'a pas achevé de boire (un verre…); ne pas être entièrement bu
 \xv le˧-se˩-ze˩! | gɤ˩-mɤ˧-dze˩!
 \xe It's completely finished (=eaten up / drunk up)! There are no leftovers!
-\xn 完了！（=全部吃/喝完了！）没有剩！
+\xn 完了！（=全部吃了／喝完了！）没有剩！
 \xf on a tout fini, il n'y a pas de restes! / tout a été mangé, bu…, il n'en reste plus!
-\dt 27/Aug/2015
 
 \lx dze˩˧
 \sf <nb="B"> 2044
@@ -10538,7 +10536,7 @@
 \gf habits
 \xv kʰv̩˧ʂɯ˥, | dʑi˧ qæ˧!
 \xe On New Year's Eve, one changes one's clothing / one wears new clothes!
-\xn 过年，换衣服！ / 过年，要穿新衣服！
+\xn 过年，换衣服！／过年，要穿新衣服！
 \xf Au Nouvel An, on change de vêtements/ on porte des vêtements neufs!
 \xv dʑi˧ qæ˧-ze˩!
 \xe (He/she) has changed clothes!
@@ -10902,9 +10900,8 @@
 \xf je n'aime pas/je ne m'y fais pas/ça ne me plaît pas (ex.: quelqu'un ne veut pas rester quelque part, il s'y trouve mal et a la nostalgie d'ailleurs)
 \xv njɤ˧ | ʈʂʰɯ˧-qo˧ | dzi˩-bi˩-ni˩-mɤ˩-gv̩˩˥
 \xe I can't get accustomed (to this place)! / (I) can't make myself at ease here! / (I) don't like it here!
-\xn 我不习惯这里！ / 我不喜欢这里！ / 我不想待了！
+\xn 我不习惯这里！／我不喜欢这里！／我不想待了！
 \xf Je ne me fais pas à ici! / Je ne suis pas bien ici! (Paraphrase proposée par le locuteur Ddeezzhi: «Je ne veux pas rester ici!»)
-\dt 24/Apr/2017
 
 \lx dzi˩α
 \hm 2
@@ -11006,7 +11003,7 @@
 \xf construire (ou réparer) un pont
 \xv njɤ˧ | dzo˩ gv̩˩-zo˩-ho˥.
 \xe I have to build (/repair) a bridge.
-\xn 我必须要建（/修）一座桥。
+\xn 我必须要建（／修）一座桥。
 \xf Il va falloir que je construise (/répare) un pont.
 \xc PHONO
 
@@ -11408,7 +11405,7 @@
 \xc PHONO
 \xv dʑɤ˩-hĩ˥
 \xe 〜 |fg{rel}
-\xn 〜 关系从句/名词化
+\xn 〜 关系从句／名词化
 \xf 〜 |fg{rel}
 \xc PHONO
 \xv (no˧) ɖwæ˧˥ | dʑɤ˩˥!
@@ -11429,7 +11426,7 @@
 \xf Envers les autres, il faut réaliser de bonnes actions! On ne doit pas faire de mauvaises actions! Ne fais pas de mauvaises actions!
 \xv dʑɤ˩-kʰɯ˥!
 \xe A benediction used on the New Year: “Let there be good (things)!", i.e. “Prosperity!", “All the best for the New Year!"
-\xn 新年祝福：“祝一切好！ / 万事如意！”
+\xn 新年祝福：“祝一切好！／万事如意！”
 \xf bénédiction dite au Nouvel An: «Bonnes (choses)!», «Prospérité!», «Bonne année!»
 \xv no˧ | le˧-ʝi˥ | dʑɤ˩˥, | hĩ˧-ɳɯ˩ | do˩˥! | ʈʂʰɯ˧ | le˧-ʝi˥ | mɤ˧-dʑɤ˩, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥!
 \xe “If you do well, people see it / people realize so! If (s)he does badly, people say so!" = “A job well done earns recognition; a job badly done earns criticism!" (Context: talking about a bad book. In the Na world view as remembered by the consultant, there is no question that it is better to do good, that good deeds and good attitudes eventually get rewarded, and bad deeds and bad attitudes eventually get punished.
@@ -13586,7 +13583,7 @@
 \gf règles_de_conduite
 \xv ɖʐɯ˩tso˥ | hĩ˧-qo˩-ɳɯ˩ | le˧-tsʰɯ˩-ɲi˩-tsɯ˩-mæ˩!
 \xe The rules of society, the moral teachings (including proverbs, tales…) come from people / are human creations / are the fruit of human experience!
-\xn 社会规矩，是通过人类的经验形成的！ / 社会规矩，是人（按一代代的经验）创造的！
+\xn 社会规矩，是通过人类的经验形成的！／社会规矩，是人（按一代代的经验）创造的！
 \xf ces morales (les contes, les proverbes…) ça provient des hommes! / la morale (des histoires, …) c'est le fruit de l'expérience des hommes!
 
 \lx dzɯ˧tsɯ˧˥
@@ -14382,7 +14379,7 @@
 \gf être_en_confiance
 \xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩! |
 \xe Rest assured! / Set your mind at rest!
-\xn 你放心吧！ / 请你放心！
+\xn 你放心吧！／请你放心！
 \xf Sois sans crainte! / Sois confiant(e)! / Tu peux être en confiance!
 \dt 01/May/2018
 
@@ -14743,7 +14740,7 @@
 \gf Exo
 \xv ə˧ɕjo˩=ɻ̩˩
 \xe the Exo |fv{/ə˧ɕjo˩/} clan
-\xn |fv{/ə˧ɕjo˩/}家族
+\xn |fv{ə˧ɕjo˩}家族
 \xf le clan Exo |fv{/ə˧ɕjo˩/}
 \xv ə˧ɕjo˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Exo; they make up one clan!
@@ -14988,11 +14985,11 @@
 \gf Eggo
 \xv ə˧go˧=ɻ̩˩
 \xe the Eggo |fv{/ə˧go˧/} clan
-\xn |fv{/ə˧go˧/}家族
+\xn |fv{ə˧go˧}家族
 \xf le clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧ | dʑɤ˩tsʰi˧
 \xe The person called Jjacee |fv{/dʑɤ˩tsʰi#˥/}, of the Eggo |fv{/ə˧go˧/} clan
-\xn |fv{/ə˧go˧/} 家族名叫甲次那个人
+\xn |fv{ə˧go˧} 家族名叫甲次那个人
 \xf la personne prénommée Jjacee |fv{/dʑɤ˩tsʰi#˥/}, du clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧=ɻ˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
 \xe There are three families carrying the name Eggo |fv{/ə˧go˧/}; they make up one clan!
@@ -15934,7 +15931,7 @@
 \gf pourquoi?
 \xv ʈʂʰɯ˧ | ə˧tse˧ ɲi˥-hɯ˩?
 \xe Why is that? / What does that mean?
-\xn 为什么呢？/这是怎么一回事？
+\xn 为什么呢？／这是怎么一回事？
 \xf Pourquoi donc? / Qu'est-ce que ça veut dire?
 
 \lx ə˧tse˧-ʝi˥$
@@ -16380,12 +16377,12 @@
 \gf |fg{interrog}
 \xv dʑɯ˧ | ə˧-dʑo˥? — dʑɯ˧ dʑo˧! / — mɤ˧-dʑo˧!
 \xe Is there any water? — Yes, there is some! / — No, there isn't any!
-\xn 有水吗？ — 有水！/ — 没有！
+\xn 有水吗？ — 有水！／— 没有！
 \xf Est-ce qu’il y a de l’eau? — Oui! / — Non!
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-dʑo˥/.
 \xv ə˩-ɲi˩˥?
 \xe Is that right? / Is that correct? / … isn't it?
-\xn 对吗？ / 对吧？
+\xn 对吗？／对吧？
 \xf Est-ce que c’est ça?/ C'est bien ça? … n’est-ce pas?
 
 \lx ə˧=zɯ˩
@@ -17105,11 +17102,11 @@
 \gf vrai
 \xv mɤ˧-gi˩!
 \xe (It) is not true!
-\xn 不是的！ / 不是真的！
+\xn 不是的！／不是真的！
 \xf c'est pas vrai!
 \xv ə˩-gi˩˥?
 \xe Right? / Is that true? / It is true, isn't it?
-\xn 对吧？ / 对吗？
+\xn 对吧？／对吗？
 \xf c'est vrai? / n'est-ce pas?
 \xv ə˩-gi˩˥? – gi˩˥!
 \xe Is that right? - Yes, it is! (One speaker asks for confirmation; the other provides confirmation.)
@@ -17200,11 +17197,11 @@
 \gf querelleur
 \xv kʰv̩˧ gɤ˧˥
 \xe “quarrelsome year": a year whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome; people born during one of these years are said to be tough and quarrelsome.
-\xn 爱打架的年份/生肖：十二个生肖中，虎、猴等被认为是爱打架的。
+\xn 爱打架的年份／生肖：十二个生肖中，虎、猴等被认为是爱打架的。
 \xf signe belliqueux (concept astrologique: certains signes confèrent aux gens nés l'année correspondante un caractère dur/belliqueux)
 \xv kʰv̩˧ gɤ˧ hĩ˥
 \xe person whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome.
-\xn 属一个爱打架的年份/生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
+\xn 属一个爱打架的年份／生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
 \xf personne d'une année batailleuse
 \xc <langue="fra" dom="phono"> |fv{/hĩ˥/} a ici son sens plein de ‘personne, homme', et n'est pas phonétiquement réduit.
 \xc <langue="eng" dom="phono"> |fv{/hĩ˥/} here has its full meaning of ‘person' and is not phonetically reduced.
@@ -17240,7 +17237,7 @@
 \gf lieu/endroit
 \xv njɤ˧ | ɖɯ˧-ʝi˧ (-gɤ˧) bi˧-zo˧-ho˩!
 \xe I have to go somewhere! / I have to make a trip! / I'm off!
-\xn 我要去一个别的地方！ / 我要换一个地方了！ / 我要走了！
+\xn 我要去一个别的地方！／我要换一个地方了！／我要走了！
 \xf Je dois me rendre quelque part! / Je dois faire un voyage! / Je m'en vais! (Contexte: lorsqu'on se prépare réellement à un voyage; ou lors d'une dispute, lorsqu'on menace de quitter la maison.)
 \xv ze˩ gɤ˥
 \xe which place
@@ -17588,7 +17585,7 @@
 \gf pièce_du_culte
 \xv gɤ˧lɑ˧-ʑi˩-di˩
 \xe Room where the ancestors are worshipped (same meaning as the main entry, with addition of the |fg{locative} /|fv{-di˩}/).
-\xn 经堂（与/|fv{gɤ˧lɑ˧-ʑi˩}/含义相同，但增加了|fg{处所格}：/|fv{-di˩}/。
+\xn 经堂（与|fv{gɤ˧lɑ˧-ʑi˩}含义相同，但增加了|fg{处所格}：|fv{-di˩}。
 \xf Pièce du culte (même sens que l'entrée principale, avec l'ajout du |fg{locatif}, /|fv{-di˩}/).
 
 \lx go˧mi˧
@@ -17974,7 +17971,7 @@
 \gf satisfait
 \xv hɤ˩-zo˥, | le˧-gɤ˩-ze˩!
 \xe (S)he has made a good job of it; (s)he is satisfied/happy!
-\xn 很成功，真高兴！ / 他成功了，很满意！
+\xn 很成功，真高兴！／他成功了，很满意！
 \xf (il a réussi) habilement (ce qu'il voulait faire), il est content/satisfait!
 \xv ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-gɤ˩-ze˩!
 \xe (S)he is very satisfied/happy!
@@ -18343,7 +18340,7 @@
 \xf c'est vrai?
 \xv gɯ˩ wɤ˩-ɻ̩˥!
 \xe It's really like that! / Yes, it is indeed true!
-\xn 就是真的啊！ / 的确是这样啊！
+\xn 就是真的啊！／的确是这样啊！
 \xf C'est bien ça! / C'est réellement ainsi!
 \xv gɯ˩-ʝi˥?
 \xe Really?
@@ -18398,7 +18395,7 @@
 \xf Dix jours ont passé!
 \xv mɤ˧-gv̩˧-ze˧!
 \xe It won't do! / It won't work! / It's no good!
-\xn 不好了！ / 不行了！
+\xn 不好了！／不行了！
 \xf (Ah là là,) ça ne va plus!
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | gv̩˧, tsɯ˩ mv̩˩!
 \xe They say that's how it happened!
@@ -18666,7 +18663,7 @@
 \gf Gguma
 \xv hĩ˧ | ʈʂʰɯ˧-v̩˧, | gv̩˧mɑ˧ mv̩˧ʈʂæ˧˥!
 \xe This person is called Gguma |fv{/gv̩˧mɑ˧/}!
-\xn 这个人，名叫|fv{/gv̩˧mɑ˧/}！
+\xn 这个人，名叫|fv{gv̩˧mɑ˧}！
 \xf Cette personne s'appelle Gguma |fv{/gv̩˧mɑ˧/}!
 
 \lx gv̩˧mi˧
@@ -18840,7 +18837,7 @@
 \xf |fg{red}: réparer
 \xv le˧-gv̩˩ | le˧-tʰv̩˧-ze˧!
 \xe It's repaired! / It's done! / I have finished doing it!
-\xn 修理好了！/ 修理出来了！
+\xn 修理好了！／修理出来了！
 \xf Ça y est, c'est réparé/c'est fabriqué/c'est fini!
 \dt 02/Sep/2015
 
@@ -19145,7 +19142,7 @@
 \xc PHONO
 \xv bɑ˩lɑ˩˥ | le˧-hæ̃˧˥, | le˧-ʐv̩˧˥
 \xe to cut cloth to make clothes, and to sew clothes
-\xn 裁（布料来做）衣服，又缝（衣服） / 先裁布料，再缝衣服
+\xn 裁（布料来做）衣服，又缝（衣服）／先裁布料，再缝衣服
 \xf tailler des vêtements et les coudre
 \txtsup Sister3.73
 \doisup 10.24397/pangloss-0004345#S73
@@ -20145,7 +20142,7 @@
 \xf Il ne reste qu'une soirée!
 \xv ɖɯ˧-hɑ̃˧-ɳɯ˥ | le˧-li˧-le˧-se˩-ze˩!
 \xe He has entirely read it in one night! / He has read the whole (book) in just one night! (Imagined context: someone is given a book; he finishes reading it within a day)
-\xn 一个晚上就读完了！/一天之内都读完了！（情景：送一个人一本书，他马上全部读完）
+\xn 一个晚上就读完了！／一天之内都读完了！（情景：送一个人一本书，他马上全部读完）
 \xf (Il) a tout lu en deux jours! (contexte imaginé: on offre un livre à quelqu'un; en deux jours il a tout lu)
 \rf F5
 \dt 24/Apr/2017
@@ -20397,7 +20394,7 @@
 \xf (l'eau de l'inondation) s'est accumulée, et c'est devenu le Lac!
 \xv hi˩-nɑ˧mi˧ ne˧˥, | tʰi˧-hi˩-zo˩!
 \xe (Run-off water) is like a lake / looks like a lake: it has accumulated!
-\xn (径流水）像湖/看起来像湖：它是积累起来的！
+\xn (径流水）像湖／看起来像湖：它是积累起来的！
 \xf (l'eau de ruissellement) fait comme un lac / ressemble à un lac: elle s'est accumulée!
 \xv hi˩-nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-hi˩-kwɤ˩tɕɯ˩-lɑ˩, | lo˧ʂv̩˩ | pi˧-ɲi˥-kv̩˩-tsɯ˩ ◊ mv̩˩!
 \xe as [the water] had accumulated and formed a lake (literally ‘as the lake had accumulated’)… [this village] was called ‘Loshu’!
@@ -21311,7 +21308,7 @@
 \xf ne pas savoir quoi que ce soit, être ignorant de tout, ne rien savoir du tout
 \xv ʈʂʰɯ˧ | ɖɯ˧-hɤ˧ hwæ˧
 \xe (S)he buys everything / buys the lot
-\xn 他全部都买。/他什么都买。
+\xn 他全部都买。／他什么都买。
 \xf (il/elle) achète (le) tout
 \dt 02/Sep/2015
 
@@ -21841,7 +21838,7 @@
 \xf |fg{neg}: faux, erroné, inapproprié
 \xv ho˩-ze˥!
 \xe |fg{pfv}
-\xn |fg{整体体}：对了！ / 准确！
+\xn |fg{整体体}：对了！／准确！
 \xf |fg{pfv}
 \xv ho˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
@@ -21930,11 +21927,11 @@
 \xc PHONO
 \xv hɤ˩ sɯ˥!
 \xe (I'm) still fine! / I'm still in good health! (Answer to the question ‘How are you?’, when acquaintances meet after several years.)
-\xn 还好！ / 我身体还好！（情景：认识的人，几年没有见面，见面时问最近怎么样。）
+\xn 还好！／我身体还好！（情景：认识的人，几年没有见面，见面时问最近怎么样。）
 \xf Ca va encore bien! / La santé reste bonne! (Réponse à la question ‘Comment ça va?’, entre connaissances qui se retrouvent après plusieurs années.)
 \xv ə˧mi˧ | hɤ˩ sɯ˥!
 \xe My mother is still fine! / My mother is still in good health! (Answer to the question ‘How is your mother?’)
-\xn 母亲还好！ / 母亲身体还好！（情景：认识的人，几年没有见面，见面时问一下家人最近怎么样。）
+\xn 母亲还好！／母亲身体还好！（情景：认识的人，几年没有见面，见面时问一下家人最近怎么样。）
 \xf Ma mère va encore bien! / La santé de ma mère reste bonne! (Réponse à la question ‘Comment va la famille?’, entre connaissances qui se retrouvent après plusieurs années.)
 \sn 2
 \sd <langue="fra"> adjectif
@@ -22029,7 +22026,7 @@
 \xf |fg{délimitatif} 〜: attendre un peu
 \xv ɖɯ˧-hu˧-ɻ̩˥
 \xe |fg{delimitative} 〜 |fg{inceptive}: to wait a while / Wait a while!
-\xn |fg{进行时态} 〜 |fg{发端}：等一下 / 请等一下！
+\xn |fg{进行时态} 〜 |fg{发端}：等一下／请等一下！
 \xf |fg{délimitatif} 〜 |fg{inchoatif}: attendre un peu / Attends un peu!
 \xv hĩ˧ hu˧
 \xe to wait for someone
@@ -23010,7 +23007,7 @@
 \gf bouleau_rouge
 \xv hwɤ˩kæ˧-si˧dzi˩
 \xe Red birch (same meaning as the main entry, with addition of the word for `tree', /|fv{si˧dzi˩}/).
-\xn 红桦树（与/|fv{hwɤ˩kæ˧}/含义相同，但增加了‘树’这个词：/|fv{si˧dzi˩}/）。
+\xn 红桦树（与|fv{hwɤ˩kæ˧}含义相同，但增加了‘树’这个词：|fv{si˧dzi˩}）。
 \xf Bouleau rouge (même sens que l'entrée principale, avec l'ajout du mot `arbre', /|fv{si˧dzi˩}/).
 
 \lx hwɤ˧-kʰv̩˥
@@ -23299,7 +23296,7 @@
 \gf cacahuètes
 \xv hwɤ˧se˧-qo˧tv̩˩
 \xe Peanuts (same meaning as the main entry, with addition of the word for `kernel, pit', /|fv{qo˧tv̩˩}/).
-\xn 花生米（与/|fv{hwɤ˧se˧}/含义相同，但增加了‘果核’这个词：/|fv{qo˧tv̩˩}/）。
+\xn 花生米（与|fv{hwɤ˧se˧}含义相同，但增加了‘果核’这个词：|fv{qo˧tv̩˩}）。
 \xf Cacahuètes (même sens que l'entrée principale, avec l'ajout du mot `noyau, graine', /|fv{qo˧tv̩˩}/).
 
 \lx hwɤ˧tɕi˥
@@ -23670,7 +23667,7 @@
 \xf Voilà le tigre qui revient! / Le tigre est revenu!/ Le tigre est de retour!
 \xv ʈʂʰɯ˧ | ə˧-ʝi˥?
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
-\xn 他来吗？/他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？/他能跟上吗？”）
+\xn 他来吗？／他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？／他能跟上吗？”）
 \xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: «Il suit? / Ca suit?»)
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ʝi˥/.
 \xv mɤ˧-ʝi˧-ze˧!
@@ -23813,7 +23810,7 @@
 \xf ne rien faire du tout
 \xv ə˧tso˧-mɤ˧-ɲi˩ | ʝi˧-bi˧-zo˧-ho˥!
 \xe [I/we] will have to take charge of everything / [I/we] will have to do all the work!
-\xn 什么都要做！ / 我什么都要干（/管）！
+\xn 什么都要做！／我什么都要干（／管）！
 \xf Il faut tout faire! / On va devoir m'occuper de tout!
 \xv ʈʂʰɯ˧ne-ʝi˥ | ʝi˧-zo˧-ho˥-ɲi˩!
 \xe This is how it must be done! / This is how it is done!
@@ -23986,7 +23983,7 @@
 \xf habiter quelque part; emménager quelque part/déménager vers quelque part
 \xv ɖɯ˧-v̩˧ | ɖɯ˧-ʝi˧ hɯ˧
 \xe each goes her/his own way (context: explaining that, in many families, people go to live in different cities for professional reasons)
-\xn 个去个的地方！/ 每个人去不同的地方！（情景：由于工作原因，一家的成员经常需要去不同的城市工作。）
+\xn 个去个的地方！／每个人去不同的地方！（情景：由于工作原因，一家的成员经常需要去不同的城市工作。）
 \xf chacun s'en va de son côté (contexte: les membres d'une famille vont habiter en des lieux différents pour raisons professionnelles)
 
 \lx mæ˩tsɯ˧
@@ -24041,7 +24038,7 @@
 \gf taureau
 \xv no˧ | ʝi˩bv̩˩-ne˩ ʝi˥-zo˩!
 \xe You're like a bull! / You're a real bull! / Hey, don't be such a bull! (Criticism of a man whose behaviour is brutal, the antithesis of the thoughtfulness valued in Na society.)
-\xn 你就像一头公牛！/ 你真是头公牛！ /嘿，别这么牛！(批评一个男人的行为粗暴，与摩梭社会所珍视的深思熟虑截然相反。）
+\xn 你就像一头公牛！／你真是头公牛！／嘿，别这么牛！(批评一个男人的行为粗暴，与摩梭社会所珍视的深思熟虑截然相反。）
 \xf Tu es comme un taureau! / Tu es un vrai taureau! / Dis donc, va pas nous faire ton taureau, là! (Critique adressée à un homme dont le comportement est brutal, aux antipodes de la prévenance appréciée dans la société na.)
 
 \lx dʑɯ˧pʰv̩˧
@@ -24235,7 +24232,7 @@
 \xf (Il / elle) a une attitude positive
 \xv ʈʂʰɯ˧ | ʝi˧lo˧ | dʑɤ˩˥! | hĩ˧-ki˧ | dʑɤ˩-ʝi˥!
 \xe He/she has a good attitude towards people! He/she is kind to people / does some good around him/her!
-\xn 他（对人）态度好！对人好/做好事！
+\xn 他（对人）态度好！对人好／做好事！
 \xf Il/elle traite bien les gens! Il/elle fait de bonnes actions!
 \xv ʝi˧lo˧ dzɑ˧
 \xe (to have) a bad attitude: to be lazy, dissipated…
@@ -24243,7 +24240,7 @@
 \xf (avoir une) mauvaise attitude: paresseuse, dissipée…
 \xv njɤ˧-ɳɯ˧ hɑ˧ gv̩˥, | ʝi˧lo˧ dzɑ˧!
 \xe When I cook, I don't make a good job of it / I don't (manage to) put any heart into it / I make a mess of it!
-\xn 我做饭，集中不了精神 / 做的乱七八糟！
+\xn 我做饭，集中不了精神／做得乱七八糟！
 \xf Quand je fais la cuisine, je ne suis pas bien concentrée/je travaille n'importe comment!
 \xv ʈʂʰɯ˧ | ə˧tso˧ ʝi˧lo˧ ɲi˥?
 \xe What sort of an attitude is this? (Criticism of someone who does not have a proper attitude)
@@ -24473,7 +24470,7 @@
 \gf capable
 \xv ʈʂʰɯ˧ | ʝi˧ʁo˧-hĩ˧ | ɖɯ˧-v̩˧ ɲi˩
 \xe It's an able/competent person.
-\xn 他是一个能干/称职的人。
+\xn 他是一个能干／称职的人。
 \xf c'est quelqu'un d'habile/de capable
 \xc <dom="phono" langue="fra"> Le morphème /|fv{-hĩ˧}/ est souvent réduit au point d'être tout à fait absent.
 \xv ʝi˧ʁo˧-zo#˥
@@ -25061,7 +25058,7 @@
 \gf radis_sauvage
 \xv jɤ˧ dzɯ˧ | qʰɑ˧-sɯ˥~sɯ˩, | jɤ˧ ʈʂɤ˥ ŋv̩˩-ɭɯ˩~ɭɯ˩!
 \xe “The wild radish is bitter; and its harvest costs tears! / The wild radish tastes bitter; and its harvest is bitter, too! / The wild radish is all bitterness inside, and all bitterness at the harvest!" This proverb evokes the difficulty of the harvest, which requires long wanderings up high on the mountain.
-\xn “红萝卜菜，味道苦，去摘也要流眼泪！ / 红萝卜菜，吃起来苦，摘起来也苦！”摘红萝卜菜，需要爬高山，寻找时间长，永宁坝子的农民觉得这比较苦。
+\xn “红萝卜菜，味道苦，去摘也要流眼泪！／红萝卜菜，吃起来苦，摘起来也苦！”摘红萝卜菜，需要爬高山，寻找时间长，永宁坝子的农民觉得这比较苦。
 \xf «Le radis sauvage, ça a un goût amer quand on le mange, et ça vous fait pleurer pour le récolter!» (de: |fv{/qʰɑ˧/} ‘amer'+expressif) / «récolter le radis sauvage, ça fait pleurer!» Non pas à cause de la plante elle-même, pas comme un oignon qui piquerait les yeux: mais parce qu'on s'épuisait à aller le chercher en haute montagne.
 \xc PROVERBE
 \dt 02/Sep/2015
@@ -25908,7 +25905,7 @@
 \xf une boule de pâte à pain à l'œuf
 \xv ʝi˧-jɤ˧˥
 \xe one ball/cake
-\xn 一个团/并
+\xn 一个团／并
 \xf une boule/galette
 \dt 24/Apr/2017
 
@@ -27184,7 +27181,7 @@
 \gf clan_Geta
 \xv kɤ˧˥tʰɑ˩=ɻ̩˩
 \xe the Geta |fv{/kɤ˧˥tʰɑ˩/} clan
-\xn |fv{/kɤ˧˥tʰɑ˩/}家族
+\xn |fv{kɤ˧˥tʰɑ˩}家族
 \xf le clan Geta |fv{/kɤ˧˥tʰɑ˩/}
 \xv kɤ˧˥tʰɑ˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Geta; they make up one clan!
@@ -27264,7 +27261,7 @@
 \xf garder le secret (au sujet de quelque chose), ne rien dire à personne (d'une action qu'on souhaite entreprendre en cachette)
 \xv njɤ˧-ɳɯ˧ | kɤ˧ʈʂɯ˩-bi˩!
 \xe I'm going to (jump in and) say something!
-\xn 我要说一点事情！ / 我要告诉（人家）！
+\xn 我要说一点事情！／我要告诉（人家）！
 \xf je vais intervenir/je vais dire quelque chose!
 \xv ʈʂʰɯ˧-se˥, | kɤ˧-mɤ˧-ʈʂɯ˩!
 \xe She's a woman of few words!/He's a man of few words! / (S)he's not a talkative person!
@@ -27822,7 +27819,7 @@
 \gf autoriser/|fg{caus}
 \xv kʰv̩˩mi˩ zɯ˩~zɯ˩˥, | le˧-ɖæ˥-kʰɯ˩! | hĩ˧-zɯ˧~zɯ˥, | le˧-ʂæ˧-kʰɯ˥!
 \xe Dog's lifespan was made shorter, and man's lifespan was made longer! (A summary of the legend “How dog and man exchanged their lifespans".)
-\xn 够的寿命，变短了/使得变短！（而）人的寿命，变长了/使得变长！（《狗和人交换寿命》故事的一个提要）
+\xn 够的寿命，变短了／使得变短！（而）人的寿命，变长了／使得变长！（《狗和人交换寿命》故事的一个提要）
 \xf La vie des chiens s'en est trouvée écourtée, et celle des hommes allongée! (Résumé en quelques mots du récit «Le chien échange sa longévité avec l'homme»)
 \xv le˧-dzɯ˥ | le˧-se˩-kʰɯ˩!
 \xe Eat up! / Finish your plate! / Eat it all!
@@ -28430,7 +28427,7 @@
 \gf pédale_du_métier_à_tisser
 \xv ɣɯ˧dzo˩-kʰɯ˩tʰv̩˩
 \xe Pedal of the loom (same meaning as the main entry, with the word /|fv{ɣɯ˧dzo˩}/ `loom' as the determiner of the compound noun).
-\xn 织布机的踏板（与/|fv{kʰɯ˧tʰv̩#˥}/含义相同，但增加了/|fv{ɣɯ˧dzo˩}/‘织布机’这个词作为复合词的定语）。
+\xn 织布机的踏板（与|fv{kʰɯ˧tʰv̩#˥}含义相同，但增加了|fv{ɣɯ˧dzo˩}‘织布机’这个词作为复合词的定语）。
 \xf Pédale du métier à tisser (même sens que l'entrée principale, avec l'ajout du nom /|fv{ɣɯ˧dzo˩}/ `métier à tisser' comme déterminant du nom composé).
 
 \lx kʰɯ˧ʐɯ˥$
@@ -28485,7 +28482,7 @@
 \xf Fais en sorte que les gens ne te laissent pas en rade (quand tu auras besoin d'aide)! (Explication: il faut faire en sorte de gagner une estime et une sympathie réelles de la part des gens que l'on connaît; de la sorte, ils vous aideront spontanément lorsque vous en aurez besoin. Sinon, leur manque de réelle sympathie se traduira par le fait qu'ils ne feront pas l'effort de donner un coup de main lorsqu'on en aura besoin: ils feront alors comme si de rien n'était, comme s'ils n'étaient pas conscients de notre besoin.)
 \xv njɤ˧ | no˩ kɯ˩-hĩ˥ mɤ˩-ɲi˩! | njɤ˧ | no˧-ki˧ | dʑɤ˩-so˥-ɲi˩!
 \xe I am not neglecting you at all! (On the contrary) I am teaching you good things / I am doing my best to teach you! (Context: a student considers himself neglected by a teacher; the teacher realizes that the student is dissatisfied, and provides a clarification.)
-\xn 我不是不重视你！（刚好相反：）我是用心教你的 / 我努力教你最好的！（情景：一名学生认为老师忽视他，老师发现学生不高兴，就说明。）
+\xn 我不是不重视你！（刚好相反：）我是用心教你的／我努力教你最好的！（情景：一名学生认为老师忽视他，老师发现学生不高兴，就说明。）
 \xf Je ne te néglige pas du tout! (Bien au contraire:) je t'enseigne bien / je fais de mon mieux pour t'apprendre des choses! (Contexte imaginé: un étudiant s'estime négligé par un enseignant; celui-ci se rend compte du mécontentement de l'étudiant, et lui dit qu'il interprète mal.)
 
 \lx kv̩˧˥
@@ -28991,7 +28988,7 @@
 \xf les voleurs, on les met en prison!
 \xv ʈʂʰɯ˧-v̩˧-se˥, | kʰv̩˧mæ˧ pʰæ˧di˩!
 \xe That guy must be a thief! / That guy looks like a thief to me!
-\xn 那个人一定是小偷！/ 我看那个人就像小偷！
+\xn 那个人一定是小偷！／我看那个人就像小偷！
 \xf Celui-là, ça doit être un voleur! / Celui-là, y m'a l'air d'un voleur!
 \xv kʰv̩˧mæ˧ ʝi˧-hĩ˧ hĩ˧
 \xe person who robs, robber
@@ -29462,15 +29459,15 @@
 \gf Guca
 \xv kv̩˧tsʰɑ˧=ɻ̩˥$
 \xe the Guca |fv{/kv̩˧tsʰɑ˥$/} clan, the Guca |fv{/kv̩˧tsʰɑ˥$/} family
-\xn |fv{/kv̩˧tsʰɑ˥$/}家族
+\xn |fv{kv̩˧tsʰɑ˥$}家族
 \xf le clan Guca |fv{/kv̩˧tsʰɑ˥$/}, la famille Guca |fv{/kv̩˧tsʰɑ˥$/}
 \xv kv̩˧tsʰɑ˧=ɻ̩˧ pi˥-zo˩!
 \xe They were called “the Guca |fv{/kv̩˧tsʰɑ˥$/} family"!
-\xn 人家把他们称作“|fv{/kv̩˧tsʰɑ˥$/}家族”！
+\xn 人家把他们称作“|fv{kv̩˧tsʰɑ˥$}家族”！
 \xf On les appelait «les Guca |fv{/kv̩˧tsʰɑ˥$/}»!
 \xv ɬi˧di˩ ʈʂv̩˩fv̩˩, | mv̩˧ɭɯ˩ | kv̩˧tsʰɑ˥!
 \xe In Yongning, the Prefect [is the authority]; in Muli, the Guca |fv{/kv̩˧tsʰɑ˥$/} family [is the authority]! (A saying that describes the situation towards the middle of the 20th century.)
-\xn 在永宁，是知府（说的算）。在木里，是|fv{/kv̩˧tsʰɑ˥$/}家族（说的算）！
+\xn 在永宁，是知府（说的算）。在木里，是|fv{kv̩˧tsʰɑ˥$}家族（说的算）！
 \xf À Yongning, c’est le Préfet qui décide; à Muli, c’est la famille Guca |fv{/kv̩˧tsʰɑ˥$/}! (Dicton qui résume la situation vers le milieu du XXe siècle.)
 \xv mv̩˧ɭɯ˩ kv̩˩tsʰɑ˩=ɻ̩˩, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe The Guca of Muli (the family of the feudal lord), they are just one family; they make up one clan!
@@ -29596,15 +29593,15 @@
 \gf Kusso
 \xv kʰv̩˧zo˧=ɻ̩˥$
 \xe the Kusso |fv{/kʰv̩˧zo˥$/} clan, the Kusso |fv{/kʰv̩˧zo˥$/} family
-\xn |fv{/kʰv̩˧zo˥$/}家族
+\xn |fv{kʰv̩˧zo˥$}家族
 \xf La famille Kusso |fv{/kʰv̩˧zo˥$/}, les Kusso |fv{/kʰv̩˧zo˥$/}
 \xv kʰv̩˧zo˥-tsʰɯ˩ɻ̩˩
 \xe the name of a person, containing both a family name: Kusso |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
-\xn 一个人的名字：姓为|fv{/kʰv̩˧zo˥$/}，名为|fv{/tsʰɯ˧ɻ̩#˥/}
+\xn 一个人的名字：姓为|fv{kʰv̩˧zo˥$}，名为|fv{tsʰɯ˧ɻ̩#˥}
 \xf nom d'une personne, comportant un nom de famille (Kusso |fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/})
 \xv kʰv̩˧zo˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Kusso; they make up one clan!
-\xn 姓|fv{/kʰv̩˧zo˥$/}的，有两家，形成一个家族！
+\xn 姓|fv{kʰv̩˧zo˥$}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Kusso; elles constituent un clan!
 
 \lx kʰv̩˧zo#˥
@@ -29945,7 +29942,7 @@
 \gf 棺材::cercueil
 \xv kwɑ˧tsʰɑ˧, | hĩ˧-mo˩-kʰɯ˩-di˩ ɲi˩!
 \xe The coffin is the thing in which the corpse is put! / The coffin is the thing to put the corpse!
-\xn 棺材，是装尸体的！ / 棺材，是用来装尸体的！
+\xn 棺材，是装尸体的！／棺材，是用来装尸体的！
 \xf Le cercueil, c'est là où on met le cadavre! / Le cercueil, c'est l'objet qui accueille le cadavre!
 \dt 04/Sep/2015
 
@@ -30330,7 +30327,7 @@
 \gf seulement
 \xv ʈʂʰɯ˧ lɑ˩ ɲi˩-ze˩-mæ˩!
 \xe That's all!
-\xn 就这些了！ / 就这些而已！ / 就这样！
+\xn 就这些了！／就这些而已！／就这样！
 \xf C'est tout! / Voilà tout!
 \xv mɤ˧-go˩ lɑ˩ fv̩˩!
 \xe It's only when one has no ailments that one can be happy! (An observation about the health trouble that comes with older years.)
@@ -30684,7 +30681,7 @@
 \xf ces quelques autres, ceux qui restent
 \xv lɑ˧ɬɑ˧˥ | ɖɯ˧-ʁo˩ ɲi˩!
 \xe It's something different! / That's a different matter!
-\xn 是另一回事！ / 是另一码事！
+\xn 是另一回事！／是另一码事！
 \xf C'est autre chose! / Ca, c'est différent!
 \xv lɑ˧ɬɑ˧˥ | ɖɯ˧-tɕi˥ ɲi˩!
 \xe Those are other people! / It's another set of people!
@@ -30791,7 +30788,7 @@
 \xf le clan Lama |fv{/lɑ˩mɑ˩/}, la famille Lama |fv{/lɑ˩mɑ˩/}
 \xv lɑ˩mɑ˩-gv̩˥mɑ˩
 \xe the name of a person, containing both a family name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
-\xn 一个人的名字：姓为拉玛，名为|fv{/gv̩˧mɑ˧/}
+\xn 一个人的名字：姓为拉玛，名为|fv{gv̩˧mɑ˧}
 \xf nom d'une personne, comportant un nom de famille (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
 \xv lɑ˩mɑ˩=ɻ̩˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̃˥!
 \xe There are four families carrying the name Lama; they make up one clan!
@@ -31373,7 +31370,7 @@
 \gf |fg{exclamatif}
 \xv dʑɤ˩ le˥!
 \xe Well done! / Great!
-\xn 好了！/ 太好了！
+\xn 好了！／太好了！
 \xf Bravo!
 \dt 16/Jun/2017
 
@@ -32314,7 +32311,7 @@
 \gf conduit_auditif
 \xv ʈʂʰɯ˧ | ɬi˧qʰv̩˧ | ɖɯ˧-pi˧˥ | tʰɑ˧˥!
 \xe She has a sensitive ear! (Context: about a 2-year old girl who wakes up from her siesta as soon as guests come in.)
-\xn 她耳朵很好使！ / 她耳朵很尖！（情景：一有客人到家的声音，睡午觉的两岁女孩子立即醒来。）
+\xn 她耳朵很好使！／她耳朵很尖！（情景：一有客人到家的声音，睡午觉的两岁女孩子立即醒来。）
 \xf Elle a l'oreille fine! / Elle a l'oreille aiguisée! (Contexte: au sujet d'une petite fille de 2 ans qui se réveille aussitôt de sa sieste lorsqu'elle entend l'arrivée de visiteurs.)
 
 \lx ɬi˩qʰwɤ˩
@@ -34537,7 +34534,7 @@
 \gf 录音::enregistrer
 \xv hɑ˧ le˧-dzɯ˧-se˥, | lv̩˩ ʝi˧-bi˧!
 \xe After the meal, we'll do a recording!
-\xn 吃完饭，就录音吧！ / 吃完饭就可以录音了！
+\xn 吃完饭，就录音吧！／吃完饭就可以录音了！
 \xf Quand (on) aura fini de manger, (on) fera un enregistrement!
 \dt 24/Apr/2017
 
@@ -35698,7 +35695,7 @@
 \gf origine/cause
 \xv mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ le˧-tsʰɯ˩-ɲi˩! |
 \xe (Of an event:) It comes from afar! / It does not take place simply by chance: there is a long story behind it!
-\xn 这（件事情）出处很远！ / 有它的来龙去脉（=不是突然一下子出现的）！
+\xn 这（件事情）出处很远！／有它的来龙去脉（=不是突然一下子出现的）！
 \xf (Au sujet d'un événement) Ca vient de loin! / ça a une origine/ça n'arrive pas par hasard!
 \xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩ |
 \xe 〜 |fg{dem} |fg{clf}: this cause, this origin
@@ -36697,7 +36694,7 @@
 \gf 蘑菇::champignon_des_troncs_tombés
 \xv mo˩kv̩˥, | si˧dzi˩-mo˩!
 \xe |fv{/mo˩kv̩#˥/} refers to mushrooms that grow on trees!
-\xn |fv{/mo˩kv̩#˥/}，指的是长在（倒在地上的）树上的菌子！
+\xn |fv{mo˩kv̩#˥}，指的是长在（倒在地上的）树上的菌子！
 \xf |fv{/mo˩kv̩#˥/}, ça désigne les champignons qui pousse sur les arbres! (littéralement: «les champignons d'arbres», par opposition aux «champignons de terre»)
 \dt 04/Sep/2015
 
@@ -37272,7 +37269,7 @@
 \gf nom
 \xv ɑ˩ʁo˧=bv̩˧ | mv̩˧ (+ɲi˩)
 \xe This is the family name! / This is my family name!
-\xn 这是家里的姓！ / 这是我家的姓！
+\xn 这是家里的姓！／这是我家的姓！
 \xf c'est le nom de la famille / c'est mon nom de famille!
 \xv njɤ˧ | mv̩˧ ɖɯ˧-kʰwɤ˥ | ʂe˧-zo˧-ho˩!
 \xe I have to go and get a name (from the monks at the monastery) (for a newborn child)
@@ -38182,11 +38179,11 @@
 \xf |fg{accomp} 〜 |fg{pfv}
 \xv ə˧tso˧-lɑ˧ ʂv̩˧ɖv̩˧, | mɤ˧-do˩! | tso˧~tso˧ mv̩˥pʰæ˩!
 \xe I have no idea what (s)he has in mind; (s)he keeps forgetting things!
-\xn 不知道（他）在想什么呢！他（一直在）落东西！/ 他一直在丢三落四
+\xn 不知道（他）在想什么呢！他（一直在）落东西！／他一直在丢三落四
 \xf Je ne sais pas à quoi il pense/je ne sais pas ce qu'il a dans la tête: il oublie les choses!/il oublie tout!
 \xv ə˧tso˧-lɑ˧ ʂv̩˧ɖv̩˧ F | mɤ˧-do˩! | tso˧~tso˧ F mv̩˩pʰæ˩!
 \xe I have no idea what (s)he has in mind; (s)he keeps forgetting things!
-\xn 不知道（他）在想什么呢！他（一直在）落东西！/ 他一直在丢三落四
+\xn 不知道（他）在想什么呢！他（一直在）落东西！／他一直在丢三落四
 \xf Je ne sais pas à quoi il pense/je ne sais pas ce qu'il a dans la tête: il oublie les choses!/il oublie tout!
 
 \lx mv̩˧qo˩
@@ -39144,7 +39141,7 @@
 \ue archaic
 \xv ʈʂʰɯ˧ | nɑ˧dʑi˧=bv̩˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ ɲi˩!
 \xe He is Najjie |fv{nɑ˧dʑi˧}'s brother!
-\xn 他是|fv{nɑ˧dʑi˧/}的兄弟！
+\xn 他是|fv{nɑ˧dʑi˧}的兄弟！
 \xf il est frère de Najjie |fv{nɑ˧dʑi˧}!
 \xv no˧ | mv̩˩zɯ˩-ʝi˥-hĩ˩ | ə˩-dʑo˩˥?
 \xe Do you have brothers?
@@ -39686,7 +39683,7 @@
 \gf sombre
 \xv nɑ˩dzi˧-ze˩!
 \xe It has got dark! Twilight has come!
-\xn 天变暗了！ / 黄昏到了！
+\xn 天变暗了！／黄昏到了！
 \xf le crépuscule est venu! / c'est le crépuscule!
 \xv nɑ˩dzi˧-ho˩-ze˩!
 \xe It's going to get dark!
@@ -39865,7 +39862,7 @@
 \gf épuisement/misère
 \xv nɑ˧mi˧ tʰv̩˧!
 \xe Hardship has come!
-\xn 现在是艰苦的时候！ / 现在很贫困！
+\xn 现在是艰苦的时候！／现在很贫困！
 \xf Misère! / Des difficultés surviennent, on rencontre des difficultés; on est dans une période difficile
 \xv õ˧-nɑ˧mi˥, õ˩ ʂe˩!
 \xe One is responsible for one's own misfortunes / One is the architect of one's own miseries! (A proverbial expression used when observing people who, by not listening to the good advice they are given, create difficulties for themselves that seem quite unnecessary: for example, by organizing a party that turns into a fiasco.)
@@ -39915,7 +39912,7 @@
 \gf empereur
 \xv ʈʂʰɯ˧ | nɑ˩pv̩˧-qʰwɤ˧-ni˩gv̩˩!
 \xe He's got an empereror's looks! / He thinks he's the emperor! (Mocking someone who thinks he or she can impose his/her decisions to everyone, who thinks (s)he is a great leader.)
-\xn 他摆出做皇帝的样子！ / 他以为他是皇帝吧！（嘲笑一个自以为是的人）
+\xn 他摆出做皇帝的样子！／他以为他是皇帝吧！（嘲笑一个自以为是的人）
 \xf Il vous prend des airs d'empereur! / Il se prend pour l'empereur! (Façon de se moquer d'un personnage qui veut en imposer à tous, qui se prend pour un grand chef.)
 
 \lx næ˩-qʰæ˥ʈʂʰe˩
@@ -40246,7 +40243,7 @@
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ɲi˥/.
 \xv hɑ˧ ɲi˧-ze˩.
 \xe I am full. / I am satiated.
-\xn 吃饱了。 / 吃饱饭了。
+\xn 吃饱了。／吃饱饭了。
 \xf (je) suis rassasié
 \xv njɤ˧ | le˧-ɲi˧-ze˧!
 \xe I am full. / I am satiated.
@@ -40853,7 +40850,7 @@
 \gf |fg{clf.jours}
 \xv ɲi˧ŋwɤ˩ hɑ̃˩tʰɑ˩
 \xe An auspitious time, an auspicious period (/|fv{hɑ̃˧tʰɑ˥}/: `time, moment').
-\xn 吉利时机（/|fv{hɑ̃˧tʰɑ˥}/：‘时间、时候、时机’）
+\xn 吉利时机（|fv{hɑ̃˧tʰɑ˥}：‘时间、时候、时机’）
 \xf Moment propice, période propice (/|fv{hɑ̃˧tʰɑ˥}/: `temps, moment, période').
 \xv ɲi˧ŋwɤ˩ hɑ̃˩tʰɑ˩ | ɖɯ˧-ɲi˥
 \xe an auspitious day
@@ -41395,7 +41392,7 @@
 \gf se_casser
 \xv le˧-ɲi˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: it's broken!
-\xn |fg{实施} 〜 |fg{整体体}：坏了！/破了！
+\xn |fg{实施} 〜 |fg{整体体}：坏了！／破了！
 \xf |fg{accomp} 〜 |fg{pfv}: c'est cassé!
 \xv tso˧~tso˧ ɲi˥
 \xe to break things
@@ -42717,7 +42714,7 @@
 \xf vous ne savez pas!
 \xv njɤ˧ | no˧-sɯ˩-kv̩˩ | mɤ˧-sɯ˥!
 \xe I don't know you! / I am not familiar with your situation/business!
-\xn 我不认识你们！ / 我不熟悉你们！
+\xn 我不认识你们！／我不熟悉你们！
 \xf je ne vous connais pas!
 \xv njɤ˧ | no˧-sɯ˩-kv̩˩ lɑ˩
 \xe I strike you (|fg{pl})
@@ -43330,7 +43327,7 @@
 \xf être en sympathie, à l'unisson
 \xv nv̩˩mi˩˥ | tʰi˧-tɕɯ˥ | so˩˥
 \xe to study patiently / to teach patiently
-\xn 耐心地学习 / 耐心地教
+\xn 耐心地学习／耐心地教
 \xf enseigner patiemment/apprendre patiemment
 \xv nv̩˩mi˩-qo˥ | tʰi˧-ʑi˥
 \xe to remember, to keep in mind
@@ -43989,7 +43986,7 @@
 \xf chacun mange son propre morceau de viande! (Description des manières de table: dans le temps, on donnait un bout de viande à chacun et chacun mangeait son morceau, pas comme la coutume chinoise qui veut qu'on prélève bouchée par bouchée, avec ses baguettes, dans les bols/assiettes posés sur la table.)
 \xv õ˧=bv̩˥-õ˩ ʝi˩-ɳɯ˩ | sɯ˧-kv̩˩!
 \xe One learns by practising oneself! / It's by practising oneself that one really masters a skill!
-\xn 自己做，就能学会！/ 要学会，就得自己熟练！
+\xn 自己做，就能学会！／要学会，就得自己熟练！
 \xf c'est en faisant soi-même qu'on apprend!
 \xv õ˧=bv̩˥-õ˩ +N |
 \xe one's own N
@@ -44071,7 +44068,7 @@
 \gf fondement
 \xv õ˧dɤ˧ɻ̩˧-ɳɯ˧, | hĩ˧ ʈʂʰɯ˧-v̩˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -ɲi˩!
 \xe So that is how he really behaves / does! (Comment on someone whose behaviour is not respectful of good manners)
-\xn 他原来是这样做事情的！ / 他原来这么不懂事！
+\xn 他原来是这样做事情的！／他原来这么不懂事！
 \xf Voilà comment il se comporte en réalité/au fond! (Se dit de quelqu'un dont le comportement est irrespectueux des règles de savoir-vivre)
 \xc <dom="phono" langue="fra"> Phonétiquement, /|fv{õ˧dɤ˧ɻ̩˧-ɳɯ˧}/ se réduit à quelque chose comme [|fv{õ˧dɻ̩˧ɳɯ˧}].
 \xc <dom="phono" langue="eng"> Phonetically, /|fv{õ˧dɤ˧ɻ̩˧-ɳɯ˧}/ gets reduced, resembling [|fv{õ˧dɻ̩˧ɳɯ˧}].
@@ -44222,7 +44219,7 @@
 \xf voilà un moustique! / un moustique est entré (dans la pièce, sous la moustiquaire…)
 \xv ʂɯ˧-ɬi˧mi˧, | õ˧ʈʂwɤ˧! |
 \xe In the seventh month, there are lots of mosquitoes!
-\xn 七月份，蚊子多！ / 七月份，是蚊子多的一个月！
+\xn 七月份，蚊子多！／七月份，是蚊子多的一个月！
 \xf Le septième mois, c'est un mois à moustiques!
 \dt 09/Sep/2015
 
@@ -44404,7 +44401,7 @@
 \gf être_liés
 \xv pʰæ˧~pʰæ˧=ɻæ˩ ɲi˩!
 \xe They are united / they make up a couple / they are united into a couple (about two young people)
-\xn 他们有联系了/他们成了一俩了！（关于两个年轻人）
+\xn 他们有联系了／他们成了一俩了！（关于两个年轻人）
 \xf [Ils] sont unis, ils sont en couple! (au sujet de deux jeunes personnes)
 \dt 09/Sep/2015
 
@@ -44446,7 +44443,7 @@
 \gf pièce_d_argent
 \xv ə˧mi˧! | pæ˧kʰwɤ˧ so˧-ɭɯ˥ ki˩-mæ˩!
 \xe Wow! [(S)he] is giving you three silver coins!! (According to the main consultant's memories, this is the type of comment that a child's mother's sisters and brothers would make when a child who turned 13 received significant amounts of money on the occasion of their coming of age. The equivalent today would be about half a month's salary. To give only one coin would not be right, because gifts have to come in pairs. To give two coins is fully sufficient: a beautiful gift. To give three coins is an impressive gift, beyond expectations.)
-\xn 哇！（他）给三块银币！（在一个孩子成年时，亲戚会给银币。给一块，不合适，因为礼物不能只给一个，要给两个。给两块银币，是合适的，也是够的。给三块银币，超出期望，是大礼物了。按现在的标准/说法，三个银币等于半个月的工资左右。）
+\xn 哇！（他）给三块银币！（在一个孩子成年时，亲戚会给银币。给一块，不合适，因为礼物不能只给一个，要给两个。给两块银币，是合适的，也是够的。给三块银币，超出期望，是大礼物了。按现在的标准／说法，三个银币等于半个月的工资左右。）
 \xf Waouuu! [Il/elle] te donne trois pièces d'argent! (D'après le souvenir qu'en a la consultante principale, c'est le type de commentaire que faisaient autrefois les sœurs et frères de la mère d'un enfant à qui on offrait une forte somme d'argent à l'occasion de son passage à l'âge adulte, à treize ans révolus. Cela correspondrait aujourd'hui à la moitié d'un mois de salaire. Donner une seule pièce, c'est symboliquement inapproprié: on offre par paires. Donner deux pièces, c'est un beau cadeau, approprié et suffisant. Donner trois pièces, c'est un cadeau considérable, qui dépasse les attentes.)
 \xv pæ˧kʰwɤ˧ ɖɯ˧-ɭɯ˥#; pæ˧kʰwɤ˧ ɲi˧-ɭɯ˥#; pæ˧kʰwɤ˧ so˧-ɭɯ˥#
 \xe one silver coin, two silver coins, three silver coins
@@ -45398,9 +45395,8 @@
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv pi˧tsʰe˩: bɤ˩! |
 \xe |fv{/pi˧tsʰe˧/} is a Pumi village!
-\xn |fv{/pi˧tsʰe˩/}是一个普米族村落！
+\xn |fv{pi˧tsʰe˩}是一个普米族村落！
 \xf |fv{/pi˧tsʰe˩/}, c'est un village pumi!
-\dt 26/Apr/2017
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
 \or Pico Ddeezzhi
@@ -45525,7 +45521,7 @@
 \gf amener
 \xv qʰwæ˧ po˧˥
 \xe to bring a letter/a message
-\xn 带来一封信/一个消息
+\xn 带来一封信／一个消息
 \xf porter une lettre/un message
 \xv tso˧~tso˧ tʰi˧-po˧˥
 \xe to bring something
@@ -45539,7 +45535,7 @@
 \xc PHONO
 \xv ʈʂʰwæ˧˥ | po˧-jo˥!
 \xe Bring it over, quick!
-\xn 快拿过来吧！/ 快带过来吧！
+\xn 快拿过来吧！／快带过来吧！
 \xf amène vite!
 \sn 2
 \sd <langue="fra"> verbe
@@ -46616,7 +46612,7 @@
 \gf Beti
 \xv pɤ˧tʰi˩=ɻ̩˩
 \xe the Beti |fv{/pɤ˧tʰi˩/} clan, the Beti |fv{/pɤ˧tʰi˩/} family
-\xn |fv{/pɤ˧tʰi˩/}家族
+\xn |fv{pɤ˧tʰi˩}家族
 \xf le clan Beti |fv{/pɤ˧tʰi˩/}, la famille Beti |fv{/pɤ˧tʰi˩/}
 \xv pɤ˧tʰi˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
 \xe There are two families carrying the name Beti; they make up one clan!
@@ -47008,7 +47004,7 @@
 \xf le temps a passé, la journée a passé
 \xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧-qʰwɤ˧-ɻ̩˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧ pv̩˩-di˩!
 \xe Whether one eats good stuff or bad stuff, that fills the stomach / that does the trick of filling your belly! Whether one tells good stories or bad ones, that helps make the long day go by / that does the trick of chipping a long (and tedious) day away/of filling a day pleasantly! (A laid-back proverb in praise of small talk and gossip.)
-\xn “吃好吃坏，（都）能填满肚子/（都）能吃饱！说好说坏，（都）能让一天（轻松）过去！”（这个谚语，说闲聊的好。）
+\xn “吃好吃坏，（都）能填满肚子／（都）能吃饱！说好说坏，（都）能让一天（轻松）过去！”（这个谚语，说闲聊的好。）
 \xf Qu'on mange bien ou mal, on arrive à se remplir le ventre / Que la nourriture soit bonne ou mauvaise, peu importe au fond, tant qu'on a le ventre plein; qu'on dise des bonnes choses (=des éloges d'autrui) ou des mauvaises (=des ragots), on arrive à passer la journée / le jour se passe agréablement! (Proverbe qui fait l'éloge des vertus du bavardage et du commérage.)
 \xc PROVERBE
 \xv dʑɤ˩-dzɯ˧ qʰwɤ˧-dzɯ˥, | bi˧mi˧ ʂv̩˧˥; | dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧mi˧ ʂæ˧-pv̩˩-di˩!
@@ -47974,7 +47970,7 @@
 \xf même sens: buffle mâle
 \xv dʑi˧mi˧ ʈʂʰɯ˧-pʰo˩ dʑo˩, | pʰv̩˧tv̩˥ ɲi˩!
 \xe This buffalo is a male!
-\xn 这头水牛是公的/是公水牛！
+\xn 这头水牛是公的／是公水牛！
 \xf ce buffle, c'est un mâle!
 
 \lx pʰv̩˧ʐo˧˥
@@ -48230,7 +48226,7 @@
 \gf brûler.vt
 \xv mv̩˧ qæ˩-ze˩
 \xe the fire has started, the fire is blazing; a fire has caught
-\xn 火烧着了 / 着火了
+\xn 火烧着了／着火了
 \xf le feu est parti, ça brûle, ça flambe; un incendie est parti
 \xc <dom="dialect" langue="fra"> Le consultant Jj prononce /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
 \xc <dom="dialect" langue="eng"> Consultant Jj pronounces /|fv{mv̩˥ kæ˧˥ ze˥}/, /|fv{mv̩˥ kæ˧˥ ɲi˩}/.
@@ -48245,7 +48241,7 @@
 \xf il y a un incendie
 \xv mv̩˧ qæ˥-ɻ̩˩
 \xe the fire is burning
-\xn 火在烧 / 火烧着了
+\xn 火在烧／火烧着了
 \xf ça brûle; il y a un incendie
 \xc <type="hist" print="n" langue="fra"> en 2006: /‡mv̩˧kæ˥ɻ̩˧ kʰɯ˩/, /mv̩˧kæ˥ɻ̩˧ kʰɯ˩ ze˥/; en 2007: “confirmé par Mme Latami: est /ɭɯ˩/ et non /ɻ̩˩/"; 2009: confirme définitivement que c'est /ɻ/, non pas /ɭɯ/ ni /lv/.
 \xv mv̩˧ qæ˥-ɻ̩˩ kʰɯ˩ ≈ mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩
@@ -49198,11 +49194,11 @@
 \gf Ghaezzi
 \xv qæ˧dzɯ˩=ɻ̩˩
 \xe the Ghaezzi |fv{/qæ˧dzɯ˩/} clan, the Ghaezzi |fv{/qæ˧dzɯ˩/} family
-\xn |fv{/qæ˧dzɯ˩/}家族
+\xn |fv{qæ˧dzɯ˩}家族
 \xf le clan Ghaezzi |fv{/qæ˧dzɯ˩/}, la famille Ghaezzi |fv{/qæ˧dzɯ˩/}
 \xv qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧
 \xe the name of a person, containing both a family name: Ghaezzi |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
-\xn 一个人的名字：姓为|fv{/qæ˧dzɯ˩/}，名为|fv{/tsʰɯ˧ɻ̩#˥/}
+\xn 一个人的名字：姓为|fv{qæ˧dzɯ˩}，名为|fv{tsʰɯ˧ɻ̩#˥}
 \xf Nom d'une personne, comportant un nom de famille (Ghaezzi |fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/}).
 \xc <langue="fra" dom="ton"> Le nom n'est pas traité comme formant un seul groupe tonal, mais comme comportant deux groupes tonals: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. S'il ne comportait qu'un seul groupe tonal, les deux dernières syllabes verraient leur ton abaissé à L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
 \xc <langue="eng" dom="ton"> The name is not treated as one tone group, but as two tone groups: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
@@ -49691,7 +49687,7 @@
 \xf couvrir (un téléviseur) d'un morceau (de tissu) (pour le préserver de la poussière)
 \xv hæ̃˧qʰv̩˥ | tʰi˧-qɑ˩!
 \xe At night, we cover (the television set with a piece of fabric)!
-\xn 晚上，（要）盖上！ / 我们晚上盖电视机（为了防灰）！
+\xn 晚上，（要）盖上！／我们晚上盖电视机（为了防灰）！
 \xf le soir, on recouvre (le téléviseur d'un tissu)! / (on) (le) met le soir (sur le téléviseur)/ (on) (en) recouvre (le téléviseur) le soir!
 \xv tso˧~tso˧ qɑ˥
 \xe to cover things
@@ -49798,7 +49794,7 @@
 \gf en_paix
 \xv hĩ˧ | ə˩-qʰæ˩˥?
 \xe How are you?
-\xn 你好吗？ / 一切好吗？
+\xn 你好吗？／一切好吗？
 \xf est-ce que ça va bien?/tu vas bien? (Formule équivalente du |fv{/ə˥-lɑ˧~lɑ˩/} de Lijiang ‘Est-ce que vous êtes en bonne santé?', qui à Yongning évoque malencontreusement le rédupliqué |fv{/ə˩-lɑ˩~lɑ˧˥/} ‘est-ce que [vous] vous disputez?')
 \xv njɤ˧ | mɤ˧-qʰæ˩.
 \xe I don't feel well.
@@ -50072,7 +50068,7 @@
 \xc PHONO
 \xv qʰo˩-mɤ˩-ho˥
 \xe …will not invite
-\xn 不请了 / 不要请了
+\xn 不请了／不要请了
 \xf … ne vais pas inviter
 \dt 01/Oct/2015
 
@@ -51451,7 +51447,7 @@
 \gf arbuste_sp
 \xv qʰwæ˩kɤ˩-dzi˩˥
 \xe same meaning as the main entry, with addition of the |fg{classifier} for trees, /|fv{dzi˩β}/.
-\xn 同上（与/|fv{qʰwæ˩kɤ˩}/含义相同，但增加了树的量词：/|fv{dzi˩β}/）。
+\xn 同上（与|fv{qʰwæ˩kɤ˩}含义相同，但增加了树的量词：|fv{dzi˩β}）。
 \xf même sens que l'entrée principale, avec l'ajout du |fg{classificateur} des arbres, /|fv{dzi˩β}/).
 \xv qʰwæ˩kɤ˩˥ | tʰi˧-dʑɯ˧˥ ≈ qʰwæ˩kɤ˩ tʰi˥-dʑɯ˩
 \xe to arrange (to set) branches of this shrub to make a fence (so that the cattle don't get through)
@@ -52322,7 +52318,7 @@
 \xc PHONO
 \xv qʰwɤ˩-le˥!
 \xe (You are/(s)he is) clever! (A comment when someone says/does something clever)
-\xn 很聪明！ / 太聪明了！
+\xn 很聪明！／太聪明了！
 \xf (il est/tu es) intelligent! (Commentaire lorsque quelqu'un dit ou fait quelque chose d'astucieux)
 \xv ɖwæ˧˥ | qʰwɤ˩˥!
 \xe |fg{intensive.very} 〜
@@ -52662,7 +52658,7 @@
 \xc <langue="eng" dom="sem"> This example was inspired by the narrative “The Sister's wedding”.
 \xv pʰi˩ko˥ | mɤ˧-ʁɑ˧-ze˧!
 \xe The apples are not good anymore! (Context: in March, apples from the previous harvest are not good anymore: they are either rotten or sour.)
-\xn 苹果不好了！ / 苹果不新鲜了！（三月份，上一季收获的苹果已经不好吃的了，或者烂了，或者变酸）
+\xn 苹果不好了！／苹果不新鲜了！（三月份，上一季收获的苹果已经不好吃的了，或者烂了，或者变酸）
 \xf Les pommes ne sont plus bonnes! (Contexte: au mois de mars, les pommes de la récolte précédente ne sont plus bonnes, elles sont fripées ou pourries.)
 
 \lx ʁɑ˧
@@ -52983,7 +52979,7 @@
 \xf cairn situé à un col
 \xv “dʑɤ˩-ʐwɤ˥ qʰwɤ˩-ʐwɤ˩, | ɲi˧bv̩˧ tɕɯ˩ kʰɯ˩, ʁɑ˧ɭɯ˧ | no˧ le˧-po˧˥!”
 \xe An expression used when placing a stone on a cairn, after having deposited a little saliva on it: “Good words and bad words, here I deposit my say; cairn, carry it / be the depositary of it!”
-\xn 将石头放在石堆上，并在其上沉积一点唾液时使用的表达方式：“好话坏话，我都在这里沉积；石堆，带着它/成为它的沉积物吧！”
+\xn 将石头放在石堆上，并在其上沉积一点唾液时使用的表达方式：“好话坏话，我都在这里沉积；石堆，带着它／成为它的沉积物吧！”
 \xf Expression que l'on dit en déposant une pierre sur un cairn, après y avoir déposé un peu de salive: «Bonnes paroles et mauvaises paroles, je dépose ici mon dire; cairn, porte-le / sois-en le dépositaire!»
 
 \lx ʁæ˧mi˧
@@ -53264,7 +53260,7 @@
 \xf «Moi, je partage, sans m'inquiéter de savoir combien il y a d'invités (littéralement ‘de gens’)!» (Contexte: Mme Latami explique comment on se dévouait autrefois: on partageait, et on aidait aussi les amis, non membres de la famille, lors des grandes occasions, telles que les funérailles)
 \xv no˧ | mɤ˧-ʁæ˧ʑi˧!
 \xe Leave me alone! / Leave me in peace! / Mind your own business!
-\xn 别管我了！ / 请让我安静！ / 请不要打扰我了！
+\xn 别管我了！／请让我安静！／请不要打扰我了！
 \xf Fiche-moi la paix! / Laisse-moi tranquille! / Mêle-toi de tes affaires!
 \dt 01/Oct/2015
 
@@ -53444,11 +53440,11 @@
 \xf pas propice/favorable; pas net, mauvais, trouble
 \xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧ mɤ˧-tʰɑ˩!
 \xe It is not appropriate / the situation is not propitious; it must not be done! (A phrase to caution others against doing something)
-\xn 不吉利 / 不合适（的事情），不能做！（警告）
+\xn 不吉利／不合适（的事情），不能做！（警告）
 \xf les circonstances ne sont pas propices / ce n'est pas une bonne idée, il ne faut pas le faire! (Mise en garde)
 \xv ʁæ˧ mɤ˧-ʑi˧, | ʝi˧-mɤ˧-ɖo˧!
 \xe It is not appropriate / the situation is not propitious; it should not be done! (A phrase to caution others against doing something)
-\xn 不吉利 / 不合适（的事情），不要做！（警告）
+\xn 不吉利／不合适（的事情），不要做！（警告）
 \xf les circonstances ne sont pas propices / ce n'est pas une bonne idée, il ne faut pas le faire! (Mise en garde)
 \xv ʁæ˧ mɤ˧-ʑi˧, | ʐwɤ˩ mɤ˩-ɖo˩˥!
 \xe One should not talk nonsense! (A phrase to caution others against being carelessly talkative)
@@ -53460,7 +53456,7 @@
 \xf On ne doit pas dire n'importe quoi! (Mise en garde)
 \xv ʁæ˧-mɤ˧-ʑi˧, | tɕi˩-mɤ˩-ɖo˩˥!
 \xe (You) must not transcribe the bad ones! / You must not transcribe the messy ones! (Context: the investigator was explaining his wish to choose, among the wealth of recorded narratives, those that are the most interesting and successful, to do a transcription and complete translation and annotation. By her answer, the consultant indicates her approval, at the same time as she shows her understanding of the idea: any materials that may be inappropriate in any way should be left out, and not put to writing.)
-\xn 乱七八糟的，不要记录！ / 不好的，不要记录！（情景：选择一个故事来做记音翻译等。合作人提出，要考虑好记录哪些、选择好的资料，不能什么都记录。）
+\xn 乱七八糟的，不要记录！／不好的，不要记录！（情景：选择一个故事来做记音翻译等。合作人提出，要考虑好记录哪些、选择好的资料，不能什么都记录。）
 \xf Il ne faut pas transcrire ceux qui sont pas bons! Il ne faut pas écrire n'importe quoi! (Contexte: cette phrase récapitule le principe qui préside au choix des récits à transcrire et traduire. J'expliquais de mon mieux mon souhait de choisir, parmi les récits enregistrés --relativement nombreux--, ceux qui sont les plus intéressants, et les plus réussis. Par cet énoncé, la locutrice apporte son assentiment, en même temps qu'elle indique qu'elle comprend l'idée: il faut transcrire les récits qui sont bons; il faut bien choisir, et écarter ceux qui ne seraient pas appropriés en quoi que ce soit. Par le même énoncé, la locutrice témoigne en outre de sa modestie: elle ne défend pas l'idée selon laquelle tous ses récits sont d'égale qualité, et accepte de bonne grâce l'idée que certains sont plus réussis que d'autres, ou plus adéquats pour le propos du linguiste.)
 \xv ʈʂʰɯ˧ | lo˧ | ʁæ˧-mɤ˧-ʑi˧ ʝi˧!
 \xe He does a bad job of it! / He makes a mess of his work!
@@ -53592,11 +53588,11 @@
 \gf parvenir_à
 \xv njɤ˧ | tɕi˩-mɤ˩-ʁo˩˥!
 \xe I can't write! / I am not able to write! (Said by someone who has not learnt to write)
-\xn 我写不出来！ / 我不会写！
+\xn 我写不出来！／我不会写！
 \xf je ne parviens pas à écrire/je ne sais pas écrire!
 \xv njɤ˧ | tɕi˩-ʁo˩˥!
 \xe I can write! / I am able to write! / I know how to write!
-\xn 我会写！ / 我写得出来！
+\xn 我会写！／我写得出来！
 \xf je parviens à écrire/je sais écrire!
 \xv njɤ˧ | ʝi˧-mɤ˧-ʁo˧!
 \xe I can't! / I am not able to!
@@ -55776,7 +55772,7 @@
 \xc PHONO
 \xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
 \xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
-\xn 很困难，也还没有到饿死的程度啊！ / 再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
+\xn 很困难，也还没有到饿死的程度啊！／再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
 \xf «Pour démuni/mal nourri/affamé qu'on soit, on n'en est pas encore maigre au point d'avoir les os à découvert!» Jeu de mots sur ‘démuni' et ‘ossement', qui sont homophones. Le proverbe sert à relativiser le malheur ressenti par quelqu'un.
 \xc PROVERBE
 \xv ɻ̩̃˧-ʐwɤ˧˥
@@ -55793,7 +55789,7 @@
 \xf Il est malheureux; il passe son temps à se plaindre!
 \xv le˧-ɻ̩̃˥ | le˧-ʂɯ˧-ho˩!
 \xe He's so unhappy he could die! / He's miserable as hell!
-\xn 他困难地都要死了！/ 他惨得要命！
+\xn 他困难地都要死了！／他惨得要命！
 \xf Il est malheureux à en mourir!
 
 \lx ɻ̩˩
@@ -55921,7 +55917,7 @@
 \xf dans quelle direction regarder?
 \xv no˧ | ʈʂʰɯ˧tɕo˧ ɻ̩˩!
 \xe Turn this way! / Turn towards this direction!
-\xn 你往这里转/往这里看！
+\xn 你往这里转／往这里看！
 \xf Tourne-toi par ici! / Regarde par ici!
 \xc <langue="fra" dom="dialect"> version corrigée par Mme Latami d'un exemple fourni par Daeshi Daedeu: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/
 \xc <langue="eng" dom="dialect"> This example is Mrs. Latami's reformulation of an example provided by Daeshi Daedeu: /|fv{‡no˧ ʈʂʰɯ˧tɕo˧ lv̩˧ɻ̩˩}/.
@@ -56288,7 +56284,7 @@
 \gf |fg{clf}.choses(en_tournure_négative)
 \xv ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧!
 \xe There is simply nothing at all! (A polite statement made by the host when welcoming a guest for a meal, apologizing, in self-deprecation, for not offering a meal commensurate to one's wishes.)
-\xn 一样也没有！ / 没什么东西！（请客时的礼貌、自我贬低说法：请客人原谅菜不够丰盛）
+\xn 一样也没有！／没什么东西！（请客时的礼貌、自我贬低说法：请客人原谅菜不够丰盛）
 \xf Il n’y a rien du tout [à manger]! (phrase polie qd on invite quelqu'un à manger: on prie le convive d’excuser la pauvreté des mets proposés)
 \dt 30/Apr/2017
 
@@ -56463,7 +56459,7 @@
 \gf différence_de_longueur
 \xv ʂæ˧ɖæ˧ di˥, | mɤ˧-dʑɤ˩!
 \xe If there are differences in length, it's not good / it won't do! (Context: explaining which trees to fell when in need of timber for housebuilding; the trees need to be about the same size.)
-\xn 如果长短不一，不好！/不行！（情景：解释砍树时如何选择合适的树）
+\xn 如果长短不一，不好！／不行！（情景：解释砍树时如何选择合适的树）
 \xf S'il y a des différences de longueur, c'est vilain/ça ne convient pas! (Contexte: explication au sujet du choix d'arbres à abattre pour obtenir du bois de charpente.)
 \xv ʂæ˧ɖæ˧ | mɤ˧-di˩!
 \xe There are no differences in length! (i.e. the timber is suitable for use in construction; same context as previous example)
@@ -57210,7 +57206,7 @@
 \xf Non, tu ne déranges pas! (Contexte: quelqu'un s'excuse de passer à un mauvais moment; l'hôte le rassure.)
 \xv no˧ | se˧-dʑæ˩ɻæ˩-gv̩˩! |
 \xe You're annoying people! You're annoying everyone!
-\xn 你在麻烦大家/你很烦人！
+\xn 你在麻烦大家／你很烦人！
 \xf Tu embêtes le monde! Tu déranges tout le monde!
 \dt 16/Jun/2017
 
@@ -57739,7 +57735,7 @@
 \gf gaspiller
 \xv ɖwæ˧˥ | se˧ʂɯ˩!
 \xe It's a waste!
-\xn 很浪费！ / 太浪费了！
+\xn 很浪费！／太浪费了！
 \xf C'est du gaspillage!
 
 \lx ʂe˩ʂɻ̩˩
@@ -57885,7 +57881,7 @@
 \gf achever
 \xv le˧-ʝi˥ | le˧-se˩-ze˩!
 \xe It's done and finished! / (I) have finished (the job)!
-\xn 做完了！ / 完成了！
+\xn 做完了！／完成了！
 \xf (je) l'ai fait, j'ai fini!
 \xv le˧-se˧~se˥-ze˩!
 \xe It's finished, it's completed! / It's now over and done with!
@@ -57929,7 +57925,7 @@
 \gf chercher
 \xv le˧-ʂe˧ le˧-ɖɯ˧-ze˧!
 \xe (I) looked for something, and I found it!
-\xn （我）找了……就找到了！ / 找到了！
+\xn （我）找了……就找到了！／找到了！
 \xf (j'ai) cherché et (j'ai) trouvé!
 \xc <langue="fra" dom="phono"> Par l'effet de l'abaissement final (facteur intonatif), le ton de |fv{/ze˧/} est réalisé un peu plus bas que ce qui précède.
 \xv hĩ˧ ɖɯ˧-v̩˧ ʂe˧
@@ -58849,7 +58845,7 @@
 \gf |fg{clf}.choses(en_tournure_négative)
 \xv ɖɯ˧-so˥ | mɤ˧-dʑo˧!
 \xe There is simply nothing at all! (A polite statement made by the host when welcoming a guest for a meal, apologizing, in self-deprecation, for not offering a meal commensurate to one's wishes.)
-\xn 一样也没有！ / 没什么东西！（请客时的礼貌、自我贬低说法：请客人原谅菜不够丰盛）
+\xn 一样也没有！／没什么东西！（请客时的礼貌、自我贬低说法：请客人原谅菜不够丰盛）
 \xf Il n’y a rien du tout [à manger]! (phrase polie qd on invite quelqu'un à manger: on prie le convive d’excuser la pauvreté des mets proposés)
 \dt 30/Apr/2017
 
@@ -59069,11 +59065,11 @@
 \gf pudique
 \xv ʈʂʰɯ˧ | ʂɤ˧do˧-zo˥!
 \xe (S)he is very modest/discreet!
-\xn 他/她很娴静 / 很持重！
+\xn 他／她很娴静／很持重！
 \xf Cette personne a de la pudeur!
 \xv ʈʂʰɯ˧ | ʂɤ˧do˧ ʝi˥!
 \xe (S)he is very modest/discreet/polite!
-\xn 他/她很娴静 / 很持重！
+\xn 他／她很娴静／很持重！
 \xf Cette personne a de la pudeur!
 \xc <dom="sem" langue="fra"> L'expression |fv{ʂɤ˧do˧ ʝi˥} signifie littéralement: «qui connaît la honte», d'où le sens «qui a de la pudeur, qui ne fait pas n'importe quoi, qui a le sens de la politesse».
 \xc <dom="sem" langue="eng"> The expression |fv{ʂɤ˧do˧ ʝi˥} means ‘who experiences shame’, hence the meaning ‘who has modesty, who has a sense of good manners’.
@@ -59657,7 +59653,7 @@
 \gf imiter
 \xv tʰv̩˧ tʰɑ˧-so˧˥!
 \xe Don't follow his example! / Don't do like him!
-\xn 别学他！ / 别做得像他一样！
+\xn 别学他！／别做得像他一样！
 \xf Ne t'avise pas de suivre son exemple!/Ne va pas faire comme lui!/Ne va pas prendre exemple sur lui!
 \sn 3
 \sd <langue="fra"> verbe
@@ -60169,7 +60165,7 @@
 \gf nom_d_un_rituel
 \xv sɯ˧kʰɯ˩ hĩ˩: | ɖɯ˧-ʑi˩.
 \xe The people who come together for the sikee ritual are a family. / The people who come together for the sikee ritual are the whole family.
-\xn 参加‘斯克’仪式的人是一家人。/参加‘斯克’仪式的人就是整个家庭。
+\xn 参加‘斯克’仪式的人是一家人。／参加‘斯克’仪式的人就是整个家庭。
 \xf Les gens qui se rassemblent à l'occasion du rituel sikee, ils constituent une famille. / Les gens qui se rassemblent à l'occasion du rituel sikee, c'est la famille entière.
 
 \lx ʂɯ˩kwæ˩ɻæ˥
@@ -60280,7 +60276,7 @@
 \gf shiso
 \xv sɯ˧mɤ˩, | ɬi˧di˩ | tv̩˧-kv̩˧˥!
 \xe Purple perilla is cultivated in Yongning! / Purple perilla is among the crops that are grown in Yongning!
-\xn 在永宁，有紫苏！/ 有人种紫苏！
+\xn 在永宁，有紫苏！／有人种紫苏！
 \xf Le shiso, on en cultive à Yongning!
 \xv sɯ˧mɤ˩-dze˩
 \xf friandise contenant des graines de shiso
@@ -60904,7 +60900,7 @@
 \xc <langue="fra" dom="synt"> Le classificateur employé est celui des villages.
 \xv sɯ˧zɯ˧ ə˩-dʑo˩?
 \xe Is there a (complete) family community? / Is the family large? (Question asked as part of discussions preliminary to marriage: Will the bride have a large family around her, be surrounded by a large family? A small family is considered much less attractive than a large one.)
-\xn 家庭社区齐全吗？/ 家庭社区，人多吗？（谈婚姻前的题目之一：男方家庭社区人多不多。以人多为好。）
+\xn 家庭社区齐全吗？／家庭社区，人多吗？（谈婚姻前的题目之一：男方家庭社区人多不多。以人多为好。）
 \xf Est-ce qu'il a une grande famille/est-ce que sa famille est nombreuse? =est-ce que la mariée sera bien entourée, intégrée dans une grande famille? (Question que l'on pose lors des discussions préliminaires aux mariages: on s'inquiète des qualités de la maisonnée que la jeune femme va rejoindre.)
 \xv õ˧-hĩ˥ | ɖɯ˧-sɯ˧zɯ˧
 \xe the entire family community of one's relatives (literally: “one's men”)
@@ -61242,7 +61238,7 @@
 \xf Il a compris.
 \xv ʈʂʰɯ˧ | ɖwæ˧˥ | ʂv̩˧ɖv̩˧ kv̩˩!
 \xe He's really smart! / He's really resourceful!
-\xn 他真的很聪明 / 他真的很足智多谋！
+\xn 他真的很聪明／他真的很足智多谋！
 \xf Il est vraiment futé! / Il est vraiment débrouillard!
 \xv ʈʂʰɯ˧ | ɖwæ˧˥ | le˧-ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˧˥!
 \xe He's really good at finding solutions!
@@ -61975,7 +61971,7 @@
 \xc <langue="cmn" dom="synt"> |fv{/mɤ˧-tʰɑ˧˥ | mɤ˧-V/}结构的意思是‘……不怎么……’。
 \xv ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩-ʈʂʰɯ˩-dʑo˩, | hĩ˧ | mɤ˧-tʰɑ˧˥ | dv̩˩-mɤ˧-kv̩˧˥!
 \xe The golden mushroom is not all that poisonous! / The golden mushroom is not really dangerous!
-\xn 黄蜡伞不怎么会让人中毒！/ 毒性不太大！
+\xn 黄蜡伞不怎么会让人中毒！／毒性不太大！
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
 \txt Mushrooms.12
 \doi 10.24397/pangloss-0005662#S12
@@ -62092,7 +62088,7 @@
 \xf Aujourd'hui, Ama est assise bien tranquille!
 \xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧-ki˧ | mɤ˧-ʈæ˩ɖɯ˩-hĩ˩ ʐwɤ˩!
 \xe He told me unpleasant things! / He told me vexing things! / He told me some things that make me frustrated/dissatisfied!
-\xn 他跟我说了一些让我不安的（事情）！ / 他跟我说的，让我生气！
+\xn 他跟我说了一些让我不安的（事情）！／他跟我说的，让我生气！
 \xf il m'a dit des choses qui fâchent! (=il m'a vexé, il m'a dit des choses désobligeantes)
 \dt 27/Apr/2017
 
@@ -62314,7 +62310,7 @@
 \gf réaliser_le_rite_de_passage_à_l_âge_adulte_des_femmes
 \xv ʈʰæ˩ki˩-ze˥!
 \xe She has come of age! / The ceremony for her coming of age has been performed!
-\xn 穿裙了！ / 行过穿裙礼了！ / 她成年了！
+\xn 穿裙了！／行过穿裙礼了！／她成年了！
 \xf Elle est adulte maintenant! / La cérémonie de passage à l'âge adulte a été réalisée!
 \dt 09/Oct/2015
 
@@ -62737,7 +62733,7 @@
 \xf Je vais construire [une maison] comme celle-là/ je vais imiter cette maison-là! / Je vais construire une maison qui sera pareille à la sienne!
 \xv no˧=ɻ̩˩ njɤ˩=ɻ̩˩, | tɑ˧pi˧ mɤ˧-tʰɑ˩!
 \xe There's no point comparing oneself to others!
-\xn 你的，我的，不要相比！/不要跟他人相比！
+\xn 你的，我的，不要相比！／不要跟他人相比！
 \xf Il ne faut pas se comparer aux autres!
 \dt 09/Oct/2015
 
@@ -64095,7 +64091,7 @@
 \gf fromage_au_lait_de_yak
 \xv mv̩˧ɭɯ˩-pʰɤ˩bɤ˩, | tɕi˧sɯ˧pɤ˧!
 \xe The gift from Muli is yak cheese! / The gift that people usually bring back from their trips to Muli is yak cheese! / Yak cheese is a specialty of Muli! (Yak cheese used to be one of the delicacies that young men offered to young ladies when coming back from caravan journeys.)
-\xn 木里的礼物：牦牛的奶酪！ / 牦牛奶酪，是木里的特产！
+\xn 木里的礼物：牦牛的奶酪！／牦牛奶酪，是木里的特产！
 \xf Le cadeau (qu'on ramène de Muli), c'est le fromage de yak! / La spécialité de Muli, c'est le fromage de yak! (Autrefois, c'était un des cadeaux que les jeunes gens offraient aux jeunes filles au retour de leurs voyages.)
 \xv mv̩˧ɭɯ˩ pʰɤ˩bɤ˩, | tɕi˧sɯ˧pɤ˧! | ə˧ɖo˧ ʁo˧ ɖʐɯ˥~ɖʐɯ˩ ʝi˩-ze˩!
 \xe The gift from Muli is yak cheese! (My) beloved will shake her head (when tasting the delightfully acid cheese)! (Words from a song that used to be sung when travelling, imagining the return to Yongning.)
@@ -65321,7 +65317,7 @@
 \xc <dom="sem" langue="cmn"> 在这种语境，动词可以用借词‘定’来代替。
 \xv le˧-ʐwɤ˩ | tʰi˧-tɕɯ˧-ɲi˥-tsɯ˩!
 \xe It's settled!
-\xn 说好了！ / 决定好了！
+\xn 说好了！／决定好了！
 \xf C'est fixé/c'est décidé/c'est arrêté!
 
 \lx tɕʰɯ˩˥
@@ -66245,7 +66241,7 @@
 \gf devenir_adulte
 \xv hĩ˧ tʰv̩˧-v̩˧, | gɤ˩-ti˧-ze˧!
 \xe This person has become an adult! / This person has grown up/has become mature!
-\xn 这个人，成熟了！ / 是大人了！
+\xn 这个人，成熟了！／是大人了！
 \xf Cette personne a grandi / est devenue adulte / a mûri!
 \xv hĩ˧ tʰv̩˧-v̩˧, | mɤ˧-ti˧-sɯ˩!
 \xe This person is not mature yet! / This person is not an adult yet!
@@ -68528,7 +68524,7 @@
 \gf |fg{clf}.générations
 \xv ŋwɤ˧ ʈʂʰæ˩
 \xe Five generations. This figure represents a symbolic threshold in the definition of the family. It is rare for five generations to be actually present under the same roof. Rather than five generations in the literal sense, the expression can be understood as referring to the five ages of life: children (under 13), teenagers / young adults (who do not yet have children), parents / middle-aged people, grandparents / elderly people, and finally very old people, who are old enough to be great-grandparents. But the expression can also refer to five generations (in the literal sense) who, although they do not live side by side under the same roof, are part of the same universe of reference, which the collective memory extends beyond the three (or four) living generations. The fourth and fifth generations, while no longer physically present, are still very much present in the words of the elders who knew them. So there is no paradox, in terms of family oral tradition, in defining a household as comprising five generations.
-\xn 五代人。这个数字是一个象征性门槛。五代同堂的情况并不多见：这一说法可以理解为指人生的五个年龄段，即儿童（13岁以下）、少年/青年（尚未生育）、母亲们与跟她们年龄相近的兄弟（中年人）、母亲们的母亲们与其兄弟（老年人），最后是高龄老人。不过，这个说法也可以指字面意义上的五代人：虽然他们并不生活在同一屋檐下，但却是同一参照系的一部分，集体记忆超越了在世的三代人（或四代人）延长到第五代。第四代和第五代虽然已不在人世，但在了解他们的长辈口中，他们仍然是存在的。因此，从家庭口述传统的角度来看，将一个家庭定义为由五代人组成并不存在悖论。
+\xn 五代人。这个数字是一个象征性门槛。五代同堂的情况并不多见：这一说法可以理解为指人生的五个年龄段，即儿童（13岁以下）、少年／青年（尚未生育）、母亲们与跟她们年龄相近的兄弟（中年人）、母亲们的母亲们与其兄弟（老年人），最后是高龄老人。不过，这个说法也可以指字面意义上的五代人：虽然他们并不生活在同一屋檐下，但却是同一参照系的一部分，集体记忆超越了在世的三代人（或四代人）延长到第五代。第四代和第五代虽然已不在人世，但在了解他们的长辈口中，他们仍然是存在的。因此，从家庭口述传统的角度来看，将一个家庭定义为由五代人组成并不存在悖论。
 \xf Cinq générations. Ce chiffre constitue un seuil symbolique dans la définition de la famille. Il est rare que cinq générations soient présentes sous le même toit. Plutôt que cinq générations au sens propre, l'expression peut être comprise comme faisant référence aux cinq âges de la vie: enfants (de moins de 13 ans), adolescents/jeunes adultes (qui n'ont pas encore d'enfants), parents / personnes d'âge mûr, grands-parents / personnes âgées, et enfin personnes très âgées, qui ont l'âge d'être arrière-grands-parents. Mais l'expression peut également désigner cinq générations (au sens littéral), qui, à défaut de se côtoyer sous un même toit, font partie d'un même univers de référence, que la mémoire collective élargit au-delà des trois (ou quatre) générations vivantes: les quatrième et cinquième générations, si elles ne sont plus là physiquement, sont bien présentes dans les propos des aînés qui les ont connues. Il n'y a donc pas de paradoxe, en termes de tradition orale familiale, à définir une maisonnée comme comprenant cinq générations.
 \xv tsʰe˩ɲi˩ ʈʂʰæ˩˥
 \xe Twelve generations. This figure constitutes a second symbolic threshold in the definition of the family. The five-generation threshold corresponds to the span of oral family tradition: the people you know personally and those they knew personally. Between five and twelve generations lies the symbolic space of kinship relationships which, while distant, are still considered significant: a relative at the level of five to twelve generations is recognized as a family member of the second circle, as it were. The family feeling dies out after (at most) twelve generations. Knowing that you are theoretically related to someone at a distance of three centuries is not a strong enough basis for a feeling of closeness.
@@ -70376,7 +70372,7 @@
 \gf variole
 \xv tsʰe˧tʰv̩˧ | bæ˩bæ˩ bæ˥-ze˩
 \xe Smallpox has broken out.
-\xn 天花/麻疹犯了。
+\xn 天花／麻疹犯了。
 \xf La variole s'est déclarée.
 \sn 2
 \de Measles.
@@ -70387,7 +70383,7 @@
 \gf rougeole
 \xv gv̩˧-kʰv̩˩ mɤ˩-gv̩˩, | tsʰe˧ mɤ˧-tʰv̩˧, | hĩ˧ ʈʂɤ˧-mɤ˧-kv̩˩!
 \xe If one does not catch the measles before age nine, one cannot become an adult (literally ‘a person')!
-\xn 九岁前不得麻疹，不能成人！ / 得麻疹，就是小孩生长过程中必须要的一件事情！
+\xn 九岁前不得麻疹，不能成人！／得麻疹，就是小孩生长过程中必须要的一件事情！
 \xf Si, avant l'âge de neuf ans, on ne contracte pas la rougeole, on ne peut pas devenir adulte! / Attraper la rougeole, ça fait partie du processus de croissance vers l'âge adulte!
 \xc PROVERBE
 \dt 08/Oct/2015
@@ -71372,11 +71368,11 @@
 \gf correct/bien
 \xv (le˧-)tsɤ˧-ze˧!
 \xe It's okay! / It's arranged! / Things have been made good!
-\xn 好了！ / 弄好了！ / 成！
+\xn 好了！／弄好了！／成！
 \xf c'est bon, c'est arrangé!
 \xv ə˧-tsɤ˥? - tsɤ˧-ʝi˧! corrigé de: ə˩-tsɤ˧?
 \xe Is it all right? (e.g. about microphone position for recording) - Okay, fine! / Yes! (Indication of acquiescence to an instruction)
-\xn 行！ / 好的！（表示同意或接受命令）
+\xn 行！／好的！（表示同意或接受命令）
 \xf OK! C'est bon! (formule très courante, pour indiquer son acquiescement à une instruction reçue)
 \xv tsɤ˧ ɲi˥!
 \xe That's fine!
@@ -71399,19 +71395,19 @@
 \xf Lui, il est pas très net! / Y'a quelque chose qui va pas chez lui!
 \xv tsɤ˧ mɤ˧-ʝi˧-ze˧!
 \xe It won't do! / It won't work! / It's no good!
-\xn 不好了！/不行了！
+\xn 不好了！／不行了！
 \xf Ça ne va plus!
 \xv hĩ˧-ɳɯ˩ | le˧-so˩, | tsɤ˧!
 \xe When people teach you something, it's fortunate / it's good / it's an opportunity to seize! (Context: discussing the behaviour of someone who would not listen to good advice.)
-\xn 人家教，是好事！ / 人家教，是要珍惜的！ / 有人愿意教你，是件好事！
+\xn 人家教，是好事！／人家教，是要珍惜的！／有人愿意教你，是件好事！
 \xf Quand on t'apprend quelque chose, c'est une chance à saisir! / Quand il se trouve quelqu'un qui est disposé à t'apprendre quelque chose, c'est une chance à saisir! / Si tu écoutes les bons conseils, tout ira bien! (Contexte: on évoque quelqu'un qui n'est pas enclin à écouter les bons conseils: qui se braque quand on lui fournit d'utiles conseils.)
 \xv hĩ˧-ɳɯ˩ | le˧-so˩, | tsɤ˧-kv̩˧˥!
 \xe When people teach you something, it's fortunate / it's good / it's an opportunity to seize! (Context: discussing the behaviour of someone who would not listen to good advice.)
-\xn 人家教，是好事！ / 人家教，是要珍惜的！ / 有人愿意教你，是件好事！
+\xn 人家教，是好事！／人家教，是要珍惜的！／有人愿意教你，是件好事！
 \xf Quand on t'apprend quelque chose, c'est une chance à saisir! / Quand il se trouve quelqu'un qui est disposé à t'apprendre quelque chose, c'est une chance à saisir! / Si tu écoutes les bons conseils, tout ira bien! (Contexte: on évoque quelqu'un qui n'est pas enclin à écouter les bons conseils: qui se braque quand on lui fournit d'utiles conseils.)
 \xv mɤ˧-tsɤ˧-ze˧! | tʰɑ˧-ʐwɤ˩-tso˩ ɲi˩ mæ˩!
 \xe Ow, ow, ow, I feel regret / I made a mistake / I did something stupid! That's something I shouldn't have said! (Context: someone has lost their temper during a conversation; later, anger gives way to regret. This formula, |fv{mɤ˧-tsɤ˧-ze˧}, is the closest equivalent proposed by Mrs. Latami in the Na language to express regret without using the Chinese word |fn{后悔}.)
-\xn 嗷，嗷，嗷，我后悔/我犯了个错误/我做了件蠢事！这是我不该说的话！(情景：某人在谈话中发脾气；后来，愤怒过去后，那个人就后悔。这个说法，|fv{mɤ˧-tsɤ˧-ze˧}，直译：‘不好了’，是在不使用汉语借此‘后悔’的情况下，在摩梭语中最接近‘后悔’的说法。）
+\xn 嗷，嗷，嗷，我后悔／我犯了个错误／我做了件蠢事！这是我不该说的话！(情景：某人在谈话中发脾气；后来，愤怒过去后，那个人就后悔。这个说法，|fv{mɤ˧-tsɤ˧-ze˧}，直译：‘不好了’，是在不使用汉语借此‘后悔’的情况下，在摩梭语中最接近‘后悔’的说法。）
 \xf Aïe, aïe, aïe, je regrette / j'ai fait erreur / j'ai fait une bêtise! C'est quelque chose que je n'aurais pas dû dire! (Contexte: quelqu'un s'est emporté pendant une conversation; plus tard, la colère fait place à des regrets. Cette formule, |fv{mɤ˧-tsɤ˧-ze˧}, est le plus proche équivalent proposé par Mme Latami en langue na pour dire le regret sans employer le mot chinois |fn{后悔}.)
 
 \lx tsɤ˧
@@ -71492,7 +71488,7 @@
 \gf estime
 \xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧-ki˧ | ɖwæ˧˥ | tsʰo˧ ʝi˥!
 \xe He/she treats me with great respect/attention.
-\xn 他很重视我 / 他对我很尊敬、很关心。
+\xn 他很重视我／他对我很尊敬、很关心。
 \xf Il/elle me traite avec les plus grands égards / est aux petits soins pour moi!
 \dt 07/Oct/2015
 
@@ -71516,7 +71512,7 @@
 \xf Tout y est! Tout est prêt! (Au sujet de préparatifs pour une fête, un repas…)
 \xv mɤ˧-tsʰo˧-sɯ˥! | wɤ˩˥ | ɲi˧-bæ˧ hwæ˧-zo˧-ho˩!
 \xe [Decoration] is not complete yet! [I] still need to purchase a few items! (Context: visitors admire a newly furbished apartment in town; the landlord answers their compliments by saying ‘The work is not finished yet!')
-\xn 还不算齐全！ / 还没有装饰齐全！（情景：朋友们表扬新装修的丽江房子，主人谦虚回答：‘还不算齐全！’）
+\xn 还不算齐全！／还没有装饰齐全！（情景：朋友们表扬新装修的丽江房子，主人谦虚回答：‘还不算齐全！’）
 \xf On n'y est pas encore tout à fait / ce n'est pas encore tout à fait prêt! Il reste deux ou trois trucs à acheter! (Contexte: on achève la décoration d'un appartement à la ville; aux compliments des visiteurs, l'heureux propriétaire répond: ‘Ce n'est pas encore terminé!')
 \xv tʰi˧-tsʰo˥-kʰɯ˩
 \xe |fg{dur} 〜 |fg{caus}: to complete, to bring to complete readiness
@@ -71743,7 +71739,7 @@
 \xf Un repas plantureux. L'expression laisse entendre que le repas sortira de l'ordinaire qu'aurait exprimé l'expression banale |fv{hɑ˧ | ɖɯ˧-tɕʰi˩}.
 \xv ʐo˩˥, | njɤ˧ ɖɯ˧-ʈʂo˩ pæ˩-bi˩!
 \xe I'm going to prepare a sumptuous lunch for you! / For lunch, I'm going to pull out all the stops! (Given the appropriate context, it could also mean, in its literal meaning: “For lunch, I'm taking charge of one of the services!”)
-\xn 我要准备一顿丰盛的午餐！/ 午餐，我将使出浑身解数！(在适当的语境下，也能有它的字面意思，即：“午餐时，我要负责其中一轮”）
+\xn 我要准备一顿丰盛的午餐！／午餐，我将使出浑身解数！(在适当的语境下，也能有它的字面意思，即：“午餐时，我要负责其中一轮”）
 \xf Je m'occupe de vous préparer un déjeuner somptueux! / Au déjeuner, je vais mettre les petits plats dans les grands! (Dans un contexte approprié, la phrase peut également signifier, au sens propre, «Pour le déjeuner, je me charge d'un service ! / Pour le déjeuner, je m'occupe d'un des services !»)
 
 \lx ʈʂʰo˧β
@@ -72893,7 +72889,7 @@
 \xf Il/elle est na! (Commentaire qui rappelle un élément de l'identité de la personne concernée)
 \xv ʈʂʰɯ˧ | æ˧mv̩˩ ʈʂɤ˩-ɲi˩!
 \xe She has the status of elder sister! / He has the status of elder brother! (Comment made to emphasize someone's role in the family.)
-\xn 她是做姐姐的！ / 他是做哥哥的！（强调该人的社会角色）
+\xn 她是做姐姐的！／他是做哥哥的！（强调该人的社会角色）
 \xf C'est elle la grande sœur! / C'est lui le grand frère! (Commentaire qui rappelle le statut familial de la personne concernée.)
 \xv ʈʂʰɯ˧ | gi˧zɯ˧-go˩mi˩ ʈʂɤ˩-ɲi˩!
 \xe They are brothers and sisters! / They are siblings!
@@ -73004,7 +73000,7 @@
 \xf Ne pas toucher! / Ne touche pas (à ça)!
 \xv tʰɑ˧-dzo˧~dzo˥!
 \xe Stop pawing around!
-\xn 不要动来动去！ / 不要碰来碰去！
+\xn 不要动来动去！／不要碰来碰去！
 \xf Ne tripote pas (ça)! Arrête de tripoter!
 \xv le˧-dzo˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -73551,7 +73547,7 @@
 \gf |fg{dem_prox}
 \xv ʈʂʰɯ˧ ɲi˥!
 \xe This is it! / That's it! / That's right!
-\xn 是这个！ / 对的！
+\xn 是这个！／对的！
 \xf C'est ça!
 \xv ʈʂʰɯ˧-v̩#˥
 \xe this one
@@ -73633,12 +73629,12 @@
 \gf gouvernement_local
 \xv no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ne˩-ʝi˩-zo˩!
 \xe You think you're the government, hey?! (A criticism to people who keep telling others how they should behave, as if they lorded it over everyone else.)
-\xn 你像永宁土知府！ / 你是永宁土知府吧！（批评独断的人、一手包办的人）
+\xn 你像永宁土知府！／你是永宁土知府吧！（批评独断的人、一手包办的人）
 \xf Tu te prends pour le seigneur! (critique qu'on s'adressait aux gens qui se mêlaient de dicter leur conduite aux autres, comme s'ils étaient les maîtres des lieux)
 \xc <type="hist" print="n" langue="fra"> avant 2018: noté /no˧ | ɬi˧di˩-ʈʂɯ˩fv̩˩-ni˩-zo˩/
 \xv no˧ | ʈʂɯ˧fv̩˧-mi˧-ne˧-ʝi˥ | -zo˩!
 \xe You are the Princess of Yongning, hey?! (Criticism addressed to an overbearing woman)
-\xn 你好像是永宁大公主！ / 你好像是永宁知府女主人！（批评一个独断的女人）
+\xn 你好像是永宁大公主！／你好像是永宁知府女主人！（批评一个独断的女人）
 \xf Tu joues les princesses! (littéralement ‘les femmes du pouvoir’) Critique adressée à une femme qui prend de grands airs.
 \xc <type="hist" print="n" langue="fra"> avant 2018: noté /no˧ | ʈʂɯ˧fv̩˧-mi˧-ni˧˥ | -zo˩/
 
@@ -75603,7 +75599,7 @@
 \xf Prospérité à la famille!
 \xv ʈʂʰɯ˧ | ʈɯ˧ʈʰæ˧ | ɖwæ˧˥ | dʑo˧-ʝi˧!
 \xe (S)he has a large patrimony / His/her family is rich!
-\xn 他家底很好！ / 他家有钱！
+\xn 他家底很好！／他家有钱！
 \xf Il/elle est riche! / Sa famille est riche!
 \dt 27/Apr/2017
 
@@ -75699,7 +75695,7 @@
 \xf verser un médicament dans la bouche de quelqu'un, faire boire un médicament à quelqu'un
 \xv tʰi˧-dzɯ˥-kʰɯ˩, | tʰi˧-tv̩˧ ɲi˥-ze˩ mæ˩!
 \xe To make him/her eat, we put (the food) in his/her mouth!
-\xn 为了让他/她进食，我们把食物放进他/她的嘴里！
+\xn 为了让他／她进食，我们把食物放进他／她的嘴里！
 \xf Pour (le/la) faire manger, on lui met (la nourriture) dans la bouche!
 
 \lx tʰv̩˧˥
@@ -76175,7 +76171,7 @@
 \xf Les gens du Ciel, ils avaient des semences en abondance! (Réflexion au sujet du récit ‘Seeds’)
 \xv ɬi˧di˩-di˩mi˩, | tʰv̩˧-se˥, | hĩ˧ | ʈʂʰɯ˩-jɤ˩ dʑo˩˥!
 \xe In Yongning, there were lots of people / there was a large population. (Sentence formed by imitating the previous example.)
-\xn 永宁人多/人口众多（仿照前例造句）。
+\xn 永宁人多／人口众多（仿照前例造句）。
 \xf À Yongning, il y avait beaucoup de gens / il y avait une population abondante. (Phrase formée en calquant l'exemple précédent.)
 
 \lx tʰv̩˧-sɯ˩kv̩˩
@@ -79264,7 +79260,7 @@
 \xf construire une maison
 \xv ʑi˧qʰwɤ˧-lɑ˧ do˥!
 \xe One can only see buildings! (A comment by the consultant about the city of Lijiang: the plain is now thoroughly covered by buildings, and one cannot see fields anymore, unlike in Yongning, where until recently there were only a few hamlets scattered among a landscape of groves, pastures, and cultivated fields.)
-\xn 只看到房子！ / 能看见的只有房子！（合作者说，丽江市区都是房子，看不到田。这一点，不像永宁坝：二十世纪的永宁，只有一些小村落分散在一大片田地中。）
+\xn 只看到房子！／能看见的只有房子！（合作者说，丽江市区都是房子，看不到田。这一点，不像永宁坝：二十世纪的永宁，只有一些小村落分散在一大片田地中。）
 \xf on ne voit que des maisons/des bâtiments! (commentaires au sujet de la ville de Lijiang, où on ne voit pas les champs, à la différence de la plaine de Yongning: campagne où il y avait peu de maisons et de grands espaces cultivés.
 \xv ɕjo˩ɕjɤ˩-ʑi˩qʰwɤ˥
 \xe the building(s) of the school, the school buildings
@@ -79302,7 +79298,7 @@
 \gf espace_derrière_la_maison
 \xv ɲi˧ʈʂæ˧ʑi˧-ʁo˧tʰo˥, | ʑi˧ʁæ˧ ɲi˥ mæ˩!
 \xe The place behind the two-storey building is called ‘|fv{ʑi˧ʁæ˥$}'!
-\xn 两层楼房后面（这块地方）叫做“房屋的上后方”！ / 房屋背后（这块地方）叫做“房屋的上后方”！
+\xn 两层楼房后面（这块地方）叫做“房屋的上后方”！／房屋背后（这块地方）叫做“房屋的上后方”！
 \xf Derrière le bâtiment à deux étages, c'est ‘|fv{ʑi˧ʁæ˥$}'! / Derrière le bâtiment à deux étages, il y a ce qu'on appelle ‘l'espace derrière la maison'!
 \dt 27/Apr/2017
 
@@ -79813,7 +79809,7 @@
 \gf maintenant
 \xv zo˩no˥ | gɤ˩-ʈi˧!
 \xe She only just woke up! (Context: someone walks into the house in the afternoon, sees an infant playing, and notes: “She has got up!" The child's grandmother answers: “She only just woke up!")
-\xn 刚起床！ / 刚才才起床！（情景：有人走进家门，看到一个婴儿在玩耍，便说：“她醒了！”。她的祖母回答说：“她刚睡醒！”
+\xn 刚起床！／刚才才起床！（情景：有人走进家门，看到一个婴儿在玩耍，便说：“她醒了！”。她的祖母回答说：“她刚睡醒！”
 \xf Elle vient de se réveiller/de se lever! / Elle s'est réveillée à l'instant! (Contexte: quelqu'un entre dans la maison, voit un nourrisson en train de jouer et constate: «Elle est réveillée!» Sa grand-mère répond: «Elle vient de se réveiller!»)
 
 \lx zo˩qo˧
@@ -80745,7 +80741,7 @@
 \xf la vie humaine
 \xv hĩ˧ zɯ˧ | ʂæ˧ | ʐwæ˩˥
 \xe a very long life / life is very long
-\xn 很长的人生 / 人生很长
+\xn 很长的人生／人生很长
 \xf une très longue vie / la vie est longue
 \dt 06/Oct/2015
 
@@ -81939,7 +81935,7 @@
 \xf muet, personne muette, personne qui ne parle pas
 \xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩, | ʈʂʰɯ˧-v̩˧!
 \xe (S)he is not able to speak! / (S)he won't speak!
-\xn 不会讲话，这个人！ / 这个人，不会讲话！
+\xn 不会讲话，这个人！／这个人，不会讲话！
 \xf Elle/il ne sait pas parler, elle/lui!
 \xv le˧-ʐwɤ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -82001,7 +81997,7 @@
 \gf formule
 \xv ʐwɤ˧mv̩˧ dʑo˧-kv̩˧˥!
 \xe This is how they say! / There's such a set phrase!
-\xn 有这么一句老话！ / 有这么一个说法！
+\xn 有这么一句老话！／有这么一个说法！
 \xf C'est comme ça qu'on dit! / Il y a une expression comme ça!
 \xv æ˧ʂæ˧-ʐwɤ˧mv̩˧ | ɖɯ˧-kʰwɤ˥
 \xe a saying, a set phrase of the old times
@@ -82225,7 +82221,7 @@
 \xv no˧-gi˧ njɤ˥ ʈʂwæ˩!
 \xo No ggi nya zhuae!
 \xe I follow in your footsteps! / I follow you! / I imitate you!
-\xn 我跟你走！ / 我都按你说的来做吧！
+\xn 我跟你走！／我都按你说的来做吧！
 \xf je te suis, je marche dans tes pas; je t'imite
 \xv ɖɯ˧-v̩˧-gi˧˥, | ɖɯ˧-v̩˧ hwæ˧!
 \xo Ddeevu ggi, ddeevu huae!
@@ -82337,11 +82333,11 @@
 \xf Demain, ils ne seront plus en vacances! (Contexte: on parle d'une crèche qui a été en vacances la semaine précédente à l'occasion de la Fête des enseignants)
 \xv tɕʰi˧ ə˧-ho˩?
 \xe Is (she/he) going to sell?
-\xn 要卖吗？/ 会卖吗？
+\xn 要卖吗？／会卖吗？
 \xf va(-t-il) vendre?
 \xv hwæ˧ ə˧-ho˥?
 \xe Is (she/he) going to buy?
-\xn 要买吗？/ 会买马？
+\xn 要买吗？／会买马？
 \xf va(-t-il) acheter?
 \dt 05/Jul/2017
 
@@ -82582,7 +82578,7 @@
 \gf à_la_fin_de
 \xv ɲi˧ɬi˧mi˧-mæ˧mæ˥, | qʰɑ˧dze˧ tv̩˧!
 \xe Towards the end of the second month, one plants sweet corn!
-\xn 二月底，就种玉米！ / 玉米是在二月底种的！
+\xn 二月底，就种玉米！／玉米是在二月底种的！
 \xf vers la fin du deuxième mois, on plante le maïs!
 \xv gv̩˩ɬi˩mi˩-mæ˩-mæ˥
 \xe towards the end of the ninth month
@@ -82900,7 +82896,7 @@
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
 \xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
 \xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
-\xn 菜看起来是苦的！/菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
+\xn 菜看起来是苦的！／菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: «Mais non, pas du tout!»)
 \rf F5
 \xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˧di˩ ɲi˩?
@@ -83147,7 +83143,7 @@
 \gf pendant
 \xv hɑ˧dzɯ˧-ʁo˧to˩, | ʈʂʰɯ˧-ɳɯ˧ | mɤ˧-fv̩˧-ʝi˧.
 \xe During the meal, he felt displeased/he got angry.
-\xn 吃饭的时候，他不高兴了/生气了。
+\xn 吃饭的时候，他不高兴了／生气了。
 \xf Au cours du repas, il se mit en colère/ devint triste.
 \sn 3
 \sd <langue="fra"> espace
@@ -83439,7 +83435,7 @@
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
 \xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥! |
 \xe Don't feed the dog yet! / Don't give the dog food yet!
-\xn 先别喂狗！/先别给狗食！/不要现在给狗食！
+\xn 先别喂狗！／先别给狗食！／不要现在给狗食！
 \xf Ne donne pas la pâtée au chien pour l'instant! / Ce n'est pas encore le moment de donner la pâtée au chien!
 \rf F5
 \xv hɑ˧-sɯ˩ | tʰi˧-tɕɤ˧˥!
@@ -83502,7 +83498,7 @@
 \gf seul
 \xv õ˧-tɑ˧kɤ˥, | ʐwɤ˩ mɤ˩-ʁo˩˥!
 \xe On one's own, it's really hard to talk! (Reflection about a recording: the speaker was struggling to put together a coherent narrative with the linguist as sole listener.)
-\xn 自己一个人，说不出话来！/ 一个人说话，很难讲下去！（描述一个发音合作人在录音时的困难：如果只有半懂不懂的调查者在听，很难流利地讲话。）
+\xn 自己一个人，说不出话来！／一个人说话，很难讲下去！（描述一个发音合作人在录音时的困难：如果只有半懂不懂的调查者在听，很难流利地讲话。）
 \xf «Quand on est tout seul, on n'arrive pas à parler!» (Réflexion à l'écoute d'un enregistrement: le locuteur avait bien de la peine à déployer un récit avec pour seul public le linguiste-enquêteur.)
 \xv njɤ˩-tɑ˩kɤ˥
 \xe me alone / me, on my own
@@ -83611,7 +83607,7 @@
 \xf Chose liquide qui se boit; pas exactement identique avec |fv{/ʈʰɯ˩-di˩˥/} ‘chose à boire, boisson'.
 \xv v̩˩dʑɯ˩˥, | ʈʰɯ˩-tso˩ ɲi˥!
 \xe Soup is liquid / is something that one drinks! / Soup counts among liquids!
-\xn 汤，是喝的东西！ / 汤是来喝的！ / 汤，算是属于饮料类的！
+\xn 汤，是喝的东西！／汤是来喝的！／汤，算是属于饮料类的！
 \xf la soupe, c'est liquide/ça se boit!
 \xv dʑɤ˩bv̩˧-tso˩
 \xe distraction, game, amusement, piece of entertainment; the meaning is distinct from |fv{/dʑɤ˩bv̩˧-di˩/} ‘toy', which refers specifically to objects
@@ -83619,11 +83615,11 @@
 \xf distraction, jeu, divertissement; le sens est distinct d'une autre forme nominalisée, |fv{/dʑɤ˩bv̩˧-di˩/} ‘jouet' (objet)
 \xv ʝi˧-tso˧ mɤ˧-ʂv̩˧ɖv̩˧, | dʑɤ˩bv̩˧-tso˩-lɑ˩ ʂv̩˩ɖv̩˩!
 \xe (He) does not think about his duties, only about his amusements/his pleasures!
-\xn 不考虑任务，只想到娱乐！ / 干正经事不想，只想玩！
+\xn 不考虑任务，只想到娱乐！／干正经事不想，只想玩！
 \xf (il) ne pense pas à ses tâches/à ses devoirs/à ce qu'il doit faire, il ne pense qu'à ses distractions!
 \xv tv̩˧tso˧
 \xe thing to be planted; crop. (Another nominalized form exists: |fv{/tv̩˧-di˩/}, but there is homonymy with the compound made of ‘to plant' and ‘earth': |fv{/tv̩˧-di˩/}, meaning ‘cultivable land, cultivable soil'. The conflict is resolved by using |fv{/tv̩˧-tso˧/} rather than |fv{/tv̩˧-di˩/} to mean ‘thing to plant, thing that can be planted'.
-\xn 种的东西=农作物。存在有另外一种名物化：|fv{/tv̩˧-di˩/}，可是那个与‘可以种的地、农业土地’|fv{/tv̩˧-di˩/}同音，于是用|fv{/tv̩˧-tso˧/}来表示‘农作物’而不用|fv{/tv̩˧-di˩/}。
+\xn 种的东西=农作物。存在有另外一种名物化：|fv{tv̩˧-di˩}，可是那个与‘可以种的地、农业土地’|fv{tv̩˧-di˩}同音，于是用|fv{tv̩˧-tso˧}来表示‘农作物’而不用|fv{tv̩˧-di˩}。
 \xf chose que l'on plante. (La forme nominalisée |fv{/tv̩˧-di˩/} existe aussi mais il y a un conflit homophonique entre ‘planter'+'terre', |fv{/tv̩˧-di˩/}, et le suffixe |fv{/-di/} ‘nominalisateur', de sorte que pour dire ‘chose qu'on plante', on ne dit pas |fv{/tv̩˧-di˩/}, mais |fv{/tv̩˧-tso˧/}.
 \xc <dom="ton"> #H
 \dt 27/Apr/2017
@@ -83745,7 +83741,7 @@
 \xf de façon mignonne
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-zo˩, | njɤ˧ | mɤ˧-gɤ˩ | ʐwæ˩˥!
 \xe His speaking that way makes me terribly cross/discontents me greatly!
-\xn （他）这么说/这样的说法，让我非常不满意！
+\xn （他）这么说／这样的说法，让我非常不满意！
 \xf Qu’il parle ainsi, cela me contrarie terriblement!
 \rf M18
 \xv ə˧v̩˧-zo˥!
