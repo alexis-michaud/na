@@ -9648,11 +9648,11 @@
 \gn 格萨：一个姓
 \df Gesa, nom de clan/famille étendue qui compte une famille (qui a donné son nom à un village de la plaine de Yongning).
 \gf clan_Gesa
-\xv kɤ˧sɑ˧=ɻ˥
+\xv kɤ˧sɑ˧=ɻ̩˥
 \xe the Gesa |fv{/kɤ˧sɑ˥$/} clan, the Gesa |fv{/kɤ˧sɑ˥$/} family
 \xn 格萨家族
 \xf le clan Gesa |fv{/kɤ˧sɑ˥$/}, la famille Gesa |fv{/kɤ˧sɑ˥$/}
-\xv kɤ˧sɑ˧=ɻ˥, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv kɤ˧sɑ˧=ɻ̩˥, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There is one family carrying the name Gesa |fv{/kɤ˧sɑ˥$/}, making up one clan!
 \xn 姓格萨的，有一家，形成一个家族！
 \xf Il y a une famille qui porte le nom Gesa |fv{/kɤ˧sɑ˥$/}; elle constitue un clan!
@@ -9676,7 +9676,7 @@
 \xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family
 \xn 者波家族
 \xf le clan |fv{/dze˧bo˧/}, la famille |fv{/dze˧bo˧/}
-\xv dze˧bo˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xv dze˧bo˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̩̃˥!
 \xe There are three families carrying the name Zzeibbo |fv{/dze˧bo˧/}, making up one clan!
 \xn 姓者波的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Zzeibbo |fv{/dze˧bo˧/}; elles constituent un clan!
@@ -11728,7 +11728,7 @@
 \xe the |fv{/ɖʐɤ˩kɤ˥$/} clan
 \xn 哲格家族
 \xf le clan |fv{/ɖʐɤ˩kɤ˥$/}
-\xv ɖʐɤ˩kɤ˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv ɖʐɤ˩kɤ˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Zzhege; they make up one clan!
 \xn 姓哲格的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Zzhege; elles constituent un clan!
@@ -14741,7 +14741,7 @@
 \xe the Exo |fv{/ə˧ɕjo˩/} clan
 \xn |fv{ə˧ɕjo˩}家族
 \xf le clan Exo |fv{/ə˧ɕjo˩/}
-\xv ə˧ɕjo˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv ə˧ɕjo˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Exo; they make up one clan!
 \xn 姓|fv{ə˧ɕjo˩}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Exo; elles constituent un clan!
@@ -15264,7 +15264,7 @@
 \xe the |fv{/ə˧lɑ˧/} clan
 \xn 阿拉家族
 \xf le clan |fv{/ə˧lɑ˧/}
-\xv ə˧lɑ˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xv ə˧lɑ˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̩̃˥!
 \xe There are three families carrying the name Ela; they make up one clan!
 \xn 姓阿拉的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Ela; elles constituent un clan!
@@ -24342,7 +24342,7 @@
 \xe Walk upright! / Keep your back straight as you walk!
 \xn 走路，直一点！
 \xf Tiens-toi un peu droit(e) en marchant!
-\xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˧-ɻ˥!
+\xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˧-ɻ̩˥!
 \xe As above.
 \xn 同上。
 \xf Idem ci-dessus.
@@ -27182,11 +27182,11 @@
 \xe the Geta |fv{/kɤ˧˥tʰɑ˩/} clan
 \xn |fv{kɤ˧˥tʰɑ˩}家族
 \xf le clan Geta |fv{/kɤ˧˥tʰɑ˩/}
-\xv kɤ˧˥tʰɑ˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv kɤ˧˥tʰɑ˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Geta; they make up one clan!
 \xn 姓|fv{kɤ˧˥tʰɑ˩}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Geta; elles constituent un clan!
-\xv kɤ˧˥tʰɑ˩=ɻ̩˩, | ɲi˧-ʑi˩ dʑo˩, | ɖɯ˧-ɻ̃˧ ɲi˥! |　lɑ˧tʰɑ˧mi˧=ɻ˥, | tsʰe˧-ʑi˧ dʑo˩, ɖɯ˧-ɻ̃˥!
+\xv kɤ˧˥tʰɑ˩=ɻ̩˩, | ɲi˧-ʑi˩ dʑo˩, | ɖɯ˧-ɻ̩̃˧ ɲi˥! |　lɑ˧tʰɑ˧mi˧=ɻ̩˥, | tsʰe˧-ʑi˧ dʑo˩, ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Geta; they make up one clan! There are ten families carrying the name Latami; they make up one clan!
 \xn 姓|fv{kɤ˧˥tʰɑ˩}的，有两家，形成一个家族！姓拉他咪的，有十家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Geta; elles constituent un clan! Il y a dix familles qui portent le nom Latami; elles constituent un clan!
@@ -29468,7 +29468,7 @@
 \xe In Yongning, the Prefect [is the authority]; in Muli, the Guca |fv{/kv̩˧tsʰɑ˥$/} family [is the authority]! (A saying that describes the situation towards the middle of the 20th century.)
 \xn 在永宁，是知府（说的算）。在木里，是|fv{kv̩˧tsʰɑ˥$}家族（说的算）！
 \xf À Yongning, c’est le Préfet qui décide; à Muli, c’est la famille Guca |fv{/kv̩˧tsʰɑ˥$/}! (Dicton qui résume la situation vers le milieu du XXe siècle.)
-\xv mv̩˧ɭɯ˩ kv̩˩tsʰɑ˩=ɻ̩˩, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv mv̩˧ɭɯ˩ kv̩˩tsʰɑ˩=ɻ̩˩, | ɖɯ˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe The Guca of Muli (the family of the feudal lord), they are just one family; they make up one clan!
 \xn 木里（土司那家）姓|fv{kv̩˧tsʰɑ˥}的，就有一家，形成一个家族！
 \xf Les Guca de Muli (la famille du seigneur féodal), ils forment une seule famille, qui constitue un clan!
@@ -29598,7 +29598,7 @@
 \xe the name of a person, containing both a family name: Kusso |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
 \xn 一个人的名字：姓为|fv{kʰv̩˧zo˥$}，名为|fv{tsʰɯ˧ɻ̩#˥}
 \xf nom d'une personne, comportant un nom de famille (Kusso |fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/})
-\xv kʰv̩˧zo˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv kʰv̩˧zo˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Kusso; they make up one clan!
 \xn 姓|fv{kʰv̩˧zo˥$}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Kusso; elles constituent un clan!
@@ -30789,7 +30789,7 @@
 \xe the name of a person, containing both a family name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
 \xn 一个人的名字：姓为拉玛，名为|fv{gv̩˧mɑ˧}
 \xf nom d'une personne, comportant un nom de famille (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
-\xv lɑ˩mɑ˩=ɻ̩˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̃˥!
+\xv lɑ˩mɑ˩=ɻ̩˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̩̃˥!
 \xe There are four families carrying the name Lama; they make up one clan!
 \xn 姓拉玛的，有四家，形成一个家族！
 \xf Il y a quatre familles qui portent le nom Lama; elles constituent un clan!
@@ -31120,7 +31120,7 @@
 \xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
 \xn 拉他咪家族
 \xf le clan Latami |fv{/lɑ˧tʰɑ˧mi˥$/}, la famille Latami |fv{/lɑ˧tʰɑ˧mi˥$/}
-\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥, | tsʰe˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥, | tsʰe˧-ʑi˧, | ɖɯ˧-ɻ̩̃˥!
 \xe There are ten families carrying the name Latami; they make up one clan!
 \xn 姓拉他咪的，有十家，形成一个家族！
 \xf Il y a dix familles qui portent le nom Latami; elles constituent un clan!
@@ -37283,7 +37283,7 @@
 \xn 姓
 \xf nom de famille
 \xc <dom="ton"> M
-\xv lɑ˧tʰɑ˧mi˧=ɻ˥-dʑo˩, | ʑi˧dv̩˧-mv̩˧ ɲi˩!
+\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥-dʑo˩, | ʑi˧dv̩˧-mv̩˧ ɲi˩!
 \xe ‘Latami’ is our family name!
 \xn 拉他咪，是我们家的姓！
 \xf «Latami», c'est notre nom de famille!
@@ -46613,7 +46613,7 @@
 \xe the Beti |fv{/pɤ˧tʰi˩/} clan, the Beti |fv{/pɤ˧tʰi˩/} family
 \xn |fv{pɤ˧tʰi˩}家族
 \xf le clan Beti |fv{/pɤ˧tʰi˩/}, la famille Beti |fv{/pɤ˧tʰi˩/}
-\xv pɤ˧tʰi˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv pɤ˧tʰi˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Beti; they make up one clan!
 \xn 姓|fv{pɤ˧tʰi˩}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Beti; elles constituent un clan!
@@ -49202,7 +49202,7 @@
 \xc <langue="fra" dom="ton"> Le nom n'est pas traité comme formant un seul groupe tonal, mais comme comportant deux groupes tonals: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. S'il ne comportait qu'un seul groupe tonal, les deux dernières syllabes verraient leur ton abaissé à L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
 \xc <langue="eng" dom="ton"> The name is not treated as one tone group, but as two tone groups: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
 \xc <langue="cmn" dom="ton"> 该名字不作为一个声调组，而是作为两个声调组：/|fv{qæ˧dzɯ˩|-tsʰɯ˧ɻ̩˧}/。如果它只有一个声调组，那么最后两个音节的声调将降为L：/‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/。
-\xv qæ˧dzɯ˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̃˥!
+\xv qæ˧dzɯ˩=ɻ̩˩, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Ghaezzi; they make up one clan!
 \xn 姓|fv{qæ˧dzɯ˩}的，有两家，形成一个家族！
 \xf Il y a deux familles qui portent le nom Ghaezzi; elles constituent un clan!
@@ -55829,7 +55829,7 @@
 \gn 量词.家族
 \df Classificateur des clans / groupes de familles: littéralement ‘un os'. Échelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
 \gf |fg{clf}.clans
-\xv lɑ˧tʰɑ˧mi˧=ɻ˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
+\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
 \xe The Latami make up one clan / one lineage!
 \xn 姓拉他咪，都算同母亲血统的亲戚！
 \xf Les Latami forment un clan / un lignage!
@@ -55845,7 +55845,7 @@
 \xc <dom="ton" langue="fra"> Pas moins de trois variantes tonales existent pour ce classificateur: ton Mβ, ton H$, ton #H. Cet exemple illustre les variantes tonales Mβ et #H.
 \xc <dom="ton" langue="eng"> No less than three tonal variants exist for this classifier: tone Mβ, tone H$, and tone #H. This example illustrates the Mβ and #H tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有三种声调变体：Mβ、H$和#H。本例反映了Mβ和#H变体。
-\xv ɻ̩̃˧ | ɖɯ˧-ɻ̃˥
+\xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˥
 \xe as above: one clan
 \xn 同上：一个家族
 \xf idem: un clan
