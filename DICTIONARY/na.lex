@@ -2694,7 +2694,7 @@
 \va <speaker="M18"> ID.
 \de Thin; shallow.
 \ge thin/shallow
-\dn 薄，浅(水浅)
+\dn 薄，浅（水浅）
 \gn 薄／浅
 \df Mince; peu profond.
 \gf mince
@@ -5803,7 +5803,7 @@
 \va <speaker="M23"> ID.
 \de To sprinkle water.
 \ge to_sprinkle
-\dn 泼水，浇(浇菜)，撒（水）
+\dn 泼水，浇（浇菜），撒（水）
 \gn 泼
 \df Asperger; arroser.
 \gf asperger
@@ -6780,7 +6780,7 @@
 \va <speaker="M21"> ID.
 \de To fell (a tree); to cut into pieces (a large piece of meat); to create a breach (in a dike).
 \ge to_fell/to_cut
-\dn 砍(树)，砍（肉）
+\dn 砍（树），砍（肉）
 \gn 砍／宰
 \df Couper un arbre, abattre un arbre; ouvrir une brèche (dans une digue); découper (de la viande).
 \gf couper/découper
@@ -9166,7 +9166,7 @@
 \vc <type="hist" print="n" langue="fra"> M21 se corrige de lui-même: il avait d'abord dit /dʑi˩ ɖwæ˩ ze˥/, formule qu'il refuse ensuite
 \de Muddy, turbid.
 \ge turbid
-\dn 浑浊 (水)
+\dn 浑浊（水）
 \gn 浑浊
 \df Trouble (le même terme est employé pour l'eau vive et pour l'eau stagnante).
 \gf trouble
@@ -9863,15 +9863,14 @@
 \xe I'm going to my in-laws' place! / I'm going to visit my in-laws!
 \xn 我去我丈人（那边）！
 \xf Je vais chez mes beaux-parents!
-\xv no˧ | dze˧hi˧ | ə˩-to˩-ze˥? - le˧-to˩-ze˩!
-\xe Do you have in-laws? / Do you stand in an ‘in-law' relationship? (=Are you married?) - Yes, I have entered into such a relationship! (=Yes, I am married!)
-\xn 你有丈人吗？（=你结婚了吗？）-有的！（=结婚了！）
-\xf Tu as une belle-famille? =Tu es marié(e)? -Oui!
+\xv no˧ | dze˧hi˧ | ə˩-to˩-ze˥? — le˧-to˩-ze˩!
+\xe Do you have in-laws? / Do you stand in an ‘in-law' relationship? (=Are you married?) — Yes, I have entered into such a relationship! (=Yes, I am married!)
+\xn 你有丈人吗？（=你结婚了吗？）—有的！（=结婚了！）
+\xf Tu as une belle-famille? =Tu es marié(e)? — Oui!
 \xv no˧ | dze˧hi˧ to˩ ə˩-bi˩?
 \xe Do you have plans to get married? (Literally: Are you going to enter an ‘in-law' relationship?)
 \xn 你打算结婚吗？
 \xf Tu comptes te marier? (Littéralement: Tu vas te lier avec une belle-famille?)
-\dt 19/Jun/2017
 
 \lx dze˧kʰɤ˧˥
 \sf <nb="B"> 350c
@@ -11175,7 +11174,7 @@
 \va <speaker="M21"> ID.
 \de To pluck (fruit, weeds), to pick (vegetables).
 \ge to_pluck
-\dn 摘（果子、蔬菜）、扯(草)
+\dn 摘（果子、蔬菜）、扯（草）
 \gn 摘／扯
 \df Cueillir (des fruits, des légumes); arracher (des mauvaises herbes).
 \gf cueillir/arracher
@@ -11571,7 +11570,7 @@
 \so F4
 \de Jjabbu Gesawua, a village north-east of Yongning. Referred to in Chinese as Gaoming (borrowed as |fv{kɤ˧mi˩} in Na).
 \ge Jjabbu_Gesawua
-\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
+\dn 高明（永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
 \gn 高明村
 \df Jjabbu Gesawua, un village au nord-est de Yongning. Appelé Gaoming en chinois (nom emprunté en na comme |fv{kɤ˧mi˩}).
 \gf Jjabbu_Gesawua
@@ -11593,7 +11592,7 @@
 \so F4
 \de Gaoming, the Chinese name of a village north-east of Yongning. Name in Na: Jjabbu Gesawua.
 \ge Gaoming.
-\dn 高明 （永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
+\dn 高明（永宁坝子的一个村落）。摩梭语名称的音译：佳部嘎萨瓦，也称作嘎撒瓦、戛撒瓦。经纬度：100.69004，27.79152
 \gn 高明村
 \df Gaoming, un village au nord-est de Yongning. Nom en na: Jjabbu Gesawua.
 \gf Gaoming
@@ -11634,7 +11633,7 @@
 \de Jjabbuwua (name of a village). The usual name in Na is Jjabbu Gesawua, not Jjabbuwua. This entry is nevertheless retained in the dictionary (with the symbol ‡ to indicate an erroneous form), because it has been phonetically transposed into Chinese, in the village name |fn{甲波瓦村}.
 \ge Jjabbuwua
 \dn 甲波瓦村（永宁坝子的一个村落）。经纬度：100.68344，27.78509
-\gn 甲波瓦村。汉名：高明。一般称之为。摩梭语的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号 ‡ 表示有误），因为它已被音译为“甲波瓦村”这一名中。
+\gn 甲波瓦村。汉名：高明。一般称之为。摩梭语的通常名称是佳部嘎萨瓦，而不是甲波瓦。但词典中仍保留了这一词条（用符号‡表示有误），因为它已被音译为“甲波瓦村”这一名中。
 \df Jjabbuwua (nom de village). Le nom usuel en na est Jjabbu Gesawua, non Jjabbuwua. Cette entrée est néanmoins maintenue dans le dictionnaire (assortie du symbole ‡ qui signale une forme erronée), du fait qu'elle s'est trouvée transposée phonétiquement en chinois, dans le nom de village |fn{甲波瓦村}.
 \gf Jjabbuwua
 
@@ -11748,10 +11747,10 @@
 \gn 距离
 \df Distance.
 \gf distance
-\xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | - dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
-\xe Are you distant from him? Is there distance (between you)? - There is not much distance to speak of! We are not distant! (=we are close friends)
-\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） - 没什么距离！（我们）比较近，不远！
-\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
+\xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | — dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
+\xe Are you distant from him? Is there distance (between you)? — There is not much distance to speak of! We are not distant! (=we are close friends)
+\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） — 没什么距离！（我们）比较近，不远！
+\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) — Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
 \xc <langue="fra" type="hist" print="n" dom="ton"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
 \xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: noté: /ə˩-ʐæ˥ʂæ˩/.
 \rf M18
@@ -12418,7 +12417,7 @@
 \pdv ɖʐɯ˥α
 \de Market.
 \ge market
-\dn 集市(圩场，街子)
+\dn 集市（圩场，街子）
 \gn 集市
 \df Marché.
 \gf marché
@@ -13740,7 +13739,7 @@
 \va <speaker="M21"> ID.
 \de To twist (strings) together (to make a rope).
 \ge to_twist_together
-\dn 搓(搓绳子)
+\dn 搓（搓绳子）
 \gn 搓
 \df Rouler, tordre (par exemple: rouler des brins, pour en faire une corde; ne s'emploie pas pour les fibres très fines, pour lesquelles on dit: |fv{/ʈʂwæ˧˥/}).
 \gf rouler_des_brins
@@ -14991,7 +14990,7 @@
 \xe The person called Jjacee |fv{/dʑɤ˩tsʰi#˥/}, of the Eggo |fv{/ə˧go˧/} clan
 \xn |fv{ə˧go˧} 家族名叫甲次那个人
 \xf la personne prénommée Jjacee |fv{/dʑɤ˩tsʰi#˥/}, du clan Eggo |fv{/ə˧go˧/}
-\xv ə˧go˧=ɻ˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̃˥!
+\xv ə˧go˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̩̃˥!
 \xe There are three families carrying the name Eggo |fv{/ə˧go˧/}; they make up one clan!
 \xn 姓|fv{ə˧go˧}的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Eggo |fv{/ə˧go˧/}; elles constituent un clan!
@@ -15216,8 +15215,8 @@
 \pdv v̩˧
 \de Maternal aunt (mother's elder sister).
 \ge mother_s_elder_sister
-\dn 姨母 (比母亲大)
-\gn 姨母 (比母亲大)
+\dn 姨母（比母亲大）
+\gn 姨母（比母亲大）
 \df Tante maternelle (sœur aînée de la mère).
 \gf sœur_aînée_de_la_mère
 
@@ -15383,8 +15382,8 @@
 \pdv v̩˧
 \de Maternal aunt (mother's elder sister).
 \ge mother_s_elder_sister
-\dn 姨母 (比母亲大)
-\gn 姨母 (比母亲大)
+\dn 姨母（比母亲大）
+\gn 姨母（比母亲大）
 \df Tante maternelle (sœur aînée de la mère).
 \gf sœur_aînée_de_la_mère
 
@@ -15419,8 +15418,8 @@
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
 \ge mother_s_younger_sister
-\dn 姨母 (比母亲小)
-\gn 姨母 (比母亲小)
+\dn 姨母（比母亲小）
+\gn 姨母（比母亲小）
 \df Tante (sœur cadette de la mère).
 \gf sœur_cadette_de_la_mère
 
@@ -15436,7 +15435,7 @@
 \so F4
 \de Aunt and niece.
 \ge aunt_and_niece
-\dn 姑母、姨母、伯母、或叔母(=婶母)与侄女或外甥女
+\dn 姑母、姨母、伯母、或叔母（=婶母）与侄女或外甥女
 \gn 姨母与侄女或甥女
 \df Tante et nièce.
 \gf tante_et_nièce
@@ -15887,8 +15886,8 @@
 \pdv v̩˧
 \de Maternal aunt (mother's younger sister).
 \ge mother_s_younger_sister
-\dn 姨母 (比母亲小)
-\gn 姨母 (比母亲小)
+\dn 姨母（比母亲小）
+\gn 姨母（比母亲小）
 \df Tante (sœur cadette de la mère).
 \gf sœur_cadette_de_la_mère
 \xv ə˧tɕi˩=ɻæ˩
@@ -16115,7 +16114,7 @@
 \pdv v̩˧
 \de Mother's brother (same term for older brother and younger brother). The term is now extended to the husbands of one's mother's sisters.
 \ge mother_s_brother
-\dn 母亲的兄弟（弟弟或哥哥）。 (比母亲大或比母亲小不区分：“舅舅”、“舅父”)
+\dn 母亲的兄弟（弟弟或哥哥）。（比母亲大或比母亲小不区分：“舅舅”、“舅父”）
 \gn 母亲的兄弟
 \df Frère de la mère (aîné ou cadet). Le terme s'emploie désormais aussi pour le mari d'une sœur de la mère.
 \gf frère_de_la_mère
@@ -17108,10 +17107,10 @@
 \xe Right? / Is that true? / It is true, isn't it?
 \xn 对吧？／对吗？
 \xf c'est vrai? / n'est-ce pas?
-\xv ə˩-gi˩˥? – gi˩˥!
-\xe Is that right? - Yes, it is! (One speaker asks for confirmation; the other provides confirmation.)
+\xv ə˩-gi˩˥? — gi˩˥!
+\xe Is that right? — Yes, it is! (One speaker asks for confirmation; the other provides confirmation.)
 \xn 对吧？ -对的！
-\xf N'est-ce pas? - Oui-da! (Le locuteur demande à son interlocuteur de confirmer qu’il adhère à son propos; l'autre donne son assentiment.)
+\xf N'est-ce pas? — Oui-da! (Le locuteur demande à son interlocuteur de confirmer qu’il adhère à son propos; l'autre donne son assentiment.)
 \xv gi˩-hĩ˩ ʐwɤ˥
 \xe to speak the truth, to tell the truth
 \xn 说实话，老实说
@@ -17863,7 +17862,7 @@
 \va <speaker="M21"> ID.
 \de To suffer; to be sick, to be ill.
 \ge to_suffer
-\dn 痛，病 (生病)
+\dn 痛，病（生病）
 \gn 痛
 \df Souffrir, avoir mal; être malade.
 \gf souffrir
@@ -18376,7 +18375,7 @@
 \va <speaker="M21"> ID.
 \de To flow, to go by, to elapse (time); to take place, to occur (event).
 \ge to_go_by
-\dn 过去 (时间)、过，发生
+\dn 过去（时间）、过，发生
 \gn 过去
 \df S'écouler, passer (le temps passe); se passer (un événement).
 \gf s_écouler
@@ -18814,7 +18813,7 @@
 \sd <langue="eng"> verb
 \de To construct, to build (a house).
 \ge to_build
-\dn 盖、建 (房子)
+\dn 盖、建（房子）
 \gn 建
 \df Construire (une maison).
 \gf construire
@@ -20194,7 +20193,7 @@
 \va <speaker="M21"> ID.
 \de To stand, to stand upright.
 \ge to_stand
-\dn 站(站立)
+\dn 站（站立）
 \gn 站
 \df Être debout, se tenir debout.
 \gf se_tenir_debout
@@ -21770,7 +21769,7 @@
 \so F4
 \de To go (imperative).
 \ge to_go.|fg{imp}
-\dn 走(离开)，命令式
+\dn 走（离开），命令式
 \gn 走.命令式
 \df Aller (impératif).
 \gf aller.|fg{imp}
@@ -23899,7 +23898,7 @@
 \pdv ɭɯ˧β
 \de Earthen jar.
 \ge earthen_jar
-\dn 坛子，罐子 (陶器)
+\dn 坛子，罐子（陶器）
 \gn 坛子
 \df Jarre en terre cuite.
 \gf jarre
@@ -24287,7 +24286,7 @@
 \pdv ɭɯ˧β
 \de Jar.
 \ge jar
-\dn 坛子，罐子 (陶器)
+\dn 坛子，罐子（陶器）
 \gn 坛子
 \df Jarre.
 \gf jarre
@@ -25895,7 +25894,7 @@
 \so F4
 \de Classifier for dough balls and teacakes. One dough ball is the quantity of dough that can be prepared with one egg. Tea consumed in the Yongning area in the first half of the 20th century was green tea from a large leaf variety of Camellia sinensis (C. sinensis assamica) found in the mountains of southern Yunnan; it used to be pressed into ‘teacake' shape.
 \ge |fg{clf}.balls/cakes
-\dn 量词：面（一团），茶饼（一个）等。(一团面，是和了一个鸡蛋的面团的量。）
+\dn 量词：面（一团），茶饼（一个）等。（一团面，是和了一个鸡蛋的面团的量。）
 \gn 量词.面团／茶并
 \df Classificateur pour la pâte à pain: quantité de pâte aux œufs que l'on peut préparer avec un œuf. Ce classificateur est également utilisé pour le thé tassé en galettes.
 \gf |fg{clf}.boules/galettes
@@ -27794,7 +27793,7 @@
 \va <speaker="F5"> ID.
 \de To put into (e.g. to put into a bag); to plant (seeds into soil); to release, to let go (e.g. a chicken held by its legs); to put (something) away.
 \ge put_into
-\dn 放，装(如：装进袋里)，点种，收下
+\dn 放，装（如：装进袋里），点种，收下
 \gn 放
 \df Mettre, mettre dans (ex.: mettre de la farine dans une casserole); libérer, lâcher (ex.: un poulet qu'on tenait par les pattes); semer en enfonçant les graines; ranger, remettre à sa place.
 \gf mettre
@@ -27825,10 +27824,10 @@
 \xe Eat up! / Finish your plate! / Eat it all!
 \xn 都吃光吧！／你给吃光啊！／都吃了吧！
 \xf Finis donc! / Finis ton assiette! / Mange tout!
-\xv hwæ˧ kʰɯ˧ ə˥-bi˩? | - hwæ˧ kʰɯ˧-bi˥!
-\xe Do you agree to buy? - Yes!
-\xn （你）让买吗？ - 让买！
-\xf Tu es d'accord pour acheter? - Oui!
+\xv hwæ˧ kʰɯ˧ ə˥-bi˩? | — hwæ˧ kʰɯ˧-bi˥!
+\xe Do you agree to buy? — Yes!
+\xn （你）让买吗？ — 让买！
+\xf Tu es d'accord pour acheter? — Oui!
 \xc PHONO
 \xc <dom="ton"> M
 \xv ʈʂʰɯ˧-kʰwɤ˥, | (no˧-ɳɯ˧) njɤ˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?
@@ -29708,10 +29707,10 @@
 \xe to fish
 \xn 钓鱼
 \xf pêcher du poisson
-\xv ɲi˧zo˧ kv̩˥, | ə˧-ɖɯ˥? - ɖɯ˧-so˩ mi˩ ɖɯ˩!
-\xe Did you catch any (fish) while fishing? - Yes, we caught a few (fish)!
-\xn 你们在钓鱼时钓到鱼了吗？- 是的，我们钓到了几条鱼！
-\xf À la pêche, vous avez attrapé quelque chose / vous avez fait des prises? - Oui, on en a attrapé quelques-uns, de poissons!
+\xv ɲi˧zo˧ kv̩˥, | ə˧-ɖɯ˥? — ɖɯ˧-so˩ mi˩ ɖɯ˩!
+\xe Did you catch any (fish) while fishing? — Yes, we caught a few (fish)!
+\xn 你们在钓鱼时钓到鱼了吗？—是的，我们钓到了几条鱼！
+\xf À la pêche, vous avez attrapé quelque chose / vous avez fait des prises? — Oui, on en a attrapé quelques-uns, de poissons!
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ɖɯ˥/.
 
 \lx kv̩˩α
@@ -29983,7 +29982,7 @@
 \pdv ɭɯ˧β
 \de Jug; jar; pitcher; also: treasure, valuable possession.
 \ge jug/treasure
-\dn 坛子、罐子 (陶器)，宝贝
+\dn 坛子、罐子（陶器），宝贝
 \gn 坛子／宝贝
 \df Jarre; trésor, objet de grande valeur.
 \gf jarre/trésor
@@ -30536,7 +30535,7 @@
 \xn 树弯了。
 \xf L'arbre est devenu courbé.
 
-\lx lɑ˩gv̩˧-lɑ˩ɲi˩-ɻ˩
+\lx lɑ˩gv̩˧-lɑ˩ɲi˩-ɻ̩˩
 \sf <nb="B"> 1653
 \sf <nb="2011"> 1388
 \or laggulani
@@ -31034,7 +31033,7 @@
 \va <speaker="M21"> ID.
 \de Askew, slanting (e.g. hat).
 \ge askew
-\dn 歪，偏 (帽子戴得歪)
+\dn 歪，偏（帽子戴得歪）
 \gn 歪
 \df De biais, de travers (ex.: porter son chapeau de travers).
 \gf de_biais
@@ -33681,7 +33680,7 @@
 \va <speaker="M21"> ID.
 \de Kowtow.
 \ge kowtow
-\dn 跪下磕头 (叩头)
+\dn 跪下磕头（叩头）
 \gn 磕头
 \df Prosternation, kow-tow (très probablement emprunt tibétain).
 \gf prosternation
@@ -36532,7 +36531,7 @@
 \xv v̩˩… v̩˧ pi˧ | ʈɤ˧-tso˧-ɲi˥; | dʑi˧mi˧ | tʰi˩˥, | gv̩˧-wo˥!
 \xo Vu, vu bi de zo niq; jjiemi, tiq, gguwo
 \xf Les buffles, ils se sont mis à tirer: oh, hisse! Il y en avait neuf paires!
-\xe The water buffalos started pulling - grunt, grunt - nine pairs of them!
+\xe The water buffalos started pulling -- grunt, grunt -- nine pairs of them!
 \xn 开始拉了，水牛都有九对！
 \txt Lake3.41
 \doi 10.24397/pangloss-0004349#S41
@@ -37083,7 +37082,7 @@
 \xc PROVERBE
 \xv lv̩˧ mo˥ F | dʑɯ˧ | le˧-qv̩˩; | si˧ mo˥ F | le˧-dze˩-kv̩˩! | no˧ F | ə˧tse˧ | le˧-ʂɯ˧-mɤ˧-tʰɑ˧˥ | di˩!
 \xe Old stones are carried away by the stream; and old wood gets chopped down! And you, why can't you die? (Mocking an elderly person. Na tradition assigns man a lifespan of sixty years; people getting past seventy are considered to have reached the end of their lifespan.)
-\xn 老石头要被河流冲走，老木头要被砍掉。你呢，怎么还不死？ （嘲笑一个年龄很高的人。摩梭传统中，人的寿命是六十岁：过了七十岁的人，被认为是已经到达了命的尽头。）
+\xn 老石头要被河流冲走，老木头要被砍掉。你呢，怎么还不死？（嘲笑一个年龄很高的人。摩梭传统中，人的寿命是六十岁：过了七十岁的人，被认为是已经到达了命的尽头。）
 \xf Les vieilles pierres, le courant les emporte; le vieux bois, on le coupe! Alors pourquoi toi te voilà qui ne veux pas mourir! (Moquerie à l'égard d'une personne très âgée.)
 \xc PROVERBE
 
@@ -37275,10 +37274,10 @@
 \xe I have to go and get a name (from the monks at the monastery) (for a newborn child)
 \xn 我得去（向大寺里的和尚）求一个名字（给刚出生的孩子起名）
 \xf Il va falloir que j'aille chercher un nom (auprès des moines du monastère) (pour un enfant qui vient de naître)!
-\xv no=ɻ˩ | ʑi˧dv̩˧ | ə˧tso˧ mv̩˧ʈʂæ˧˥? - njɤ˧=ɻ˩ | lɑ˧tʰɑ˧mi˧=ɻ˧ mv̩˥ʈʂæ˩!
-\xe What are your family called? (=what is your family name?) - We are the Latami! / Our family name is Latami!
+\xv no=ɻ̩˩ | ʑi˧dv̩˧ | ə˧tso˧ mv̩˧ʈʂæ˧˥? — njɤ˧=ɻ̩˩ | lɑ˧tʰɑ˧mi˧=ɻ̩˧ mv̩˥ʈʂæ˩!
+\xe What are your family called? (=what is your family name?) — We are the Latami! / Our family name is Latami!
 \xn 你们家什么姓？　我们姓拉他咪！
-\xf Quel est votre nom de famille? / Comment s'appelle votre famille? - On est les Latami! / Notre nom de famille, c'est Latami!
+\xf Quel est votre nom de famille? / Comment s'appelle votre famille? — On est les Latami! / Notre nom de famille, c'est Latami!
 \xv ʑi˧dv̩˧-mv̩˧
 \xe family name
 \xn 姓
@@ -39396,7 +39395,7 @@
 \va <speaker="F5"> ID.
 \de To put on (a shirt, a jacket).
 \ge to_put_on
-\dn 穿(衣服、上衣)
+\dn 穿（衣服、上衣）
 \gn 穿
 \df Mettre, porter, enfiler, endosser (une chemise, une veste); se vêtir d'un habit.
 \gf enfiler
@@ -41449,9 +41448,9 @@
 \df Avoir besoin de, vouloir.
 \gf avoir_besoin_de
 \xv no˧ | ə˧-ɲi˥? | mɤ˧-ɲi˧!
-\xe Do you want (some)? - No!
-\xn 你要吗？- 不要！
-\xf Tu en veux? - (Non,) je n'en veux pas/je n'en ai pas besoin!
+\xe Do you want (some)? — No!
+\xn 你要吗？— 不要！
+\xf Tu en veux? — (Non,) je n'en veux pas/je n'en ai pas besoin!
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ɲi˥/.
 \xv hɑ˧ | ə˧-ɲi˧-sɯ˥?
 \xe You want some more rice?
@@ -41999,7 +41998,7 @@
 \xv hɑ˧ | ɖɯ˧-njɤ˧~njɤ˩-ɻ̩˩
 \xe rice 〜 |fg{delimitative} |fg{red} |fg{inceptive}: to stir the rice a bit, to do a bit of stirring
 \xn 把米搅拌搅拌
-\xf riz - |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}: touiller un peu le riz
+\xf riz |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}: touiller un peu le riz
 \xv ɖɯ˧-v̩˧ tʰi˧-njɤ˥
 \xe to stir a pot (of rice, to make rice paste in order to prepare rice cakes)
 \xn 搅拌一锅（如：搅拌一锅米饭，做出浆糊，准备制作米饼。）
@@ -45211,7 +45210,7 @@
 \pdv nɑ˧α
 \de Winnowing fan.
 \ge winnowing_fan
-\dn 簸箕(用来簸粮食等)
+\dn 簸箕（用来簸粮食等）
 \gn 簸箕
 \df Vanneuse.
 \gf vanneuse
@@ -45701,7 +45700,7 @@
 \va <speaker="M21"> ID.
 \de To sow (seeds), to scatter (seeds).
 \ge to_scatter
-\dn 撒 (撒种子)、播撒（种子）
+\dn 撒（撒种子）、播撒（种子）
 \gn 播
 \df Semer à la volée.
 \gf semer
@@ -45853,7 +45852,7 @@
 \va <speaker="M21"> ID.
 \de To open (e.g. a door).
 \ge to_open
-\dn 打开(例如：开门)
+\dn 打开（例如：开门）
 \gn 打开
 \df Ouvrir (ex.: porte).
 \gf ouvrir
@@ -47133,7 +47132,7 @@
 \va <speaker="M23"> ID.
 \de To pull out (weeds), to weed.
 \ge to_weed
-\dn 拔、扯(草)
+\dn 拔、扯（草）
 \gn 拔（草）
 \df Enlever, arracher (les mauvaises herbes); couper du fourrage pour les animaux domestiques.
 \gf arracher
@@ -47568,7 +47567,7 @@
 \va <speaker="M21"> ID.
 \de To roll (a stone rolls down a slope).
 \ge to_roll
-\dn 滚动（石头滚动)
+\dn 滚动（石头滚动）
 \gn 滚动
 \df Rouler (une pierre roule).
 \gf rouler
@@ -47621,7 +47620,7 @@
 \pdv ɭɯ˧β
 \de Tibetan wool fabric. (Not in common use in Yongning.)
 \ge wool_fabric
-\dn 氆氇。(这在永宁并不常见。）
+\dn 氆氇。（这在永宁并不常见。）
 \gn 氆氇
 \df Tissu de laine tibétain. (Ce n'est pas un tissu répandu à Yongning.)
 \gf tissu_de_laine
@@ -51626,7 +51625,7 @@
 \pdv kʰwɤ˥α
 \de Message, information (extended meaning: letter).
 \ge message/information
-\dn 口信， 信息
+\dn 口信，信息
 \gn 口信／信息
 \df Message, information (d'où: lettre).
 \gf message/information
@@ -52456,10 +52455,10 @@
 \gn 治好
 \df Se guérir (blessure, maladie); se rétablir (une fracture).
 \gf guérir
-\xv ʈʂʰɯ˧ | ə˧-qʰwɤ˥? - le˧-qʰwɤ˧-ze˧!
-\xe Has it healed? - Yes, it has healed!
+\xv ʈʂʰɯ˧ | ə˧-qʰwɤ˥? — le˧-qʰwɤ˧-ze˧!
+\xe Has it healed? — Yes, it has healed!
 \xn 治好了吗？－治好了！
-\xf C'est guéri? - Oui, c'est guéri! / La fracture est rétablie!
+\xf C'est guéri? — Oui, c'est guéri! / La fracture est rétablie!
 \xv le˧-qʰwɤ˧-ɲi˥!
 \xe It is healed! / It has healed!
 \xn 治好了！
@@ -53126,7 +53125,7 @@
 \pdv kʰwɤ˥α
 \de Salary, price paid for the work done by a worker.
 \ge salary
-\dn 工资， 工钱
+\dn 工资，工钱
 \gn 工钱
 \df Salaire, littéralement «prix du travail».
 \gf salaire
@@ -55621,7 +55620,7 @@
 \va <speaker="M21"> ID.
 \de To make a heap of (e.g. cereals), to pile up.
 \ge to_heap
-\dn 堆 (例如：堆积泥土)
+\dn 堆（例如：堆积泥土）
 \gn 堆
 \df Amasser, entasser.
 \gf amasser
@@ -57041,7 +57040,7 @@
 \so F4
 \de To urinate.
 \ge to_urinate
-\dn 小便，尿; 屙尿; 解溲; 拉(屎)
+\dn 小便，尿; 屙尿; 解溲; 拉（屎）
 \gn 屙尿
 \df Uriner, pisser, faire pipi; déféquer.
 \gf uriner
@@ -57562,11 +57561,10 @@
 \xe It's a stingy person!
 \xn 他是一个吝啬的人！
 \xf C'est quelqu'un d'avare!
-\xv ʈʂʰɯ˧ | ə˧-se˧nɑ˧? - se˧nɑ˧ | ʐwæ˩˥!
-\xe Is he stingy? - Oh yes, very much so!
-\xn 他吝啬吗？ - 非常吝啬！
-\xf Est-il avare? - Oui, très avare!
-\dt 05/Oct/2015
+\xv ʈʂʰɯ˧ | ə˧-se˧nɑ˧? — se˧nɑ˧ | ʐwæ˩˥!
+\xe Is he stingy? — Oh yes, very much so!
+\xn 他吝啬吗？ — 非常吝啬！
+\xf Est-il avare? — Oui, très avare!
 
 \lx ʂe˧ɲi˩
 \sf <nb="B"> 529
@@ -58779,7 +58777,7 @@
 \pdc <langue="fra"> objets longs
 \de Breath.
 \ge breath
-\dn (一口)气
+\dn （一口）气
 \gn 气
 \df Souffle.
 \gf souffle
@@ -59672,7 +59670,7 @@
 \xe I'm going to teach you! / Let me teach you!
 \xn 我来教你！
 \xf Je vais t'enseigner/t'apprendre!
-\xv ʈʂʰɯ˧=bv̩˧ ɖʐv̩˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ˩ so˩!
+\xv ʈʂʰɯ˧=bv̩˧ ɖʐv̩˧, | li˩ tɕʰi˩˥! | ʈʂʰɯ˧, | tʰæ˧ɻ̩˩ so˩!
 \xe Her spouse sells tea! As for her, she is a teacher!
 \xn 她的爱人是卖茶叶的！她呢，教书（她是老师）！
 \xf Son compagnon vend du thé! Elle, elle est enseignante!
@@ -61818,7 +61816,7 @@
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
 \xf |fg{accomp} 〜 |fg{red}
-\xv le˧-qʰæ˧-ho˥-ze˩, | ɖɯ˧-ʂwæ˥~ʂwæ˩-ɻ˩!
+\xv le˧-qʰæ˧-ho˥-ze˩, | ɖɯ˧-ʂwæ˥~ʂwæ˩-ɻ̩˩!
 \xe It's going to burn, so let's give it a stir! (A dish needs to be stirred so that it doesn't stick to the pan.)
 \xn 要烧焦了，要搅拌一下！(烹饪时需要搅拌，以免粘锅）
 \xf Ca va brûler, remuons donc un peu! (Une préparation culinaire nécessite d'être remuée pour ne pas attacher à la casserole.)
@@ -62257,10 +62255,10 @@
 \xe What did they give as a dowry? Let's go and have a look! (At a wedding, the gifts given as a dowry are put on public display, for everyone to appreciate the parents' generosity.)
 \xn 给的是什么嫁妆？咱们去看一看吧！（结婚的时候，陪嫁展示在大家眼前，显示女方家的大方程度）
 \xf Qu'est-ce qu'ils ont donné comme dot? Regardons un peu! / Allons voir! (Ce que disent les villageois invités à un mariage; les biens offerts en dot sont alors exposés, de façon à ce que chacun puisse apprécier la générosité des parents.)
-\xv ti˧tsɯ˥ | qʰɑ˧-ɭɯ˧ tɑ˩hwɤ˩? - ti˧tsɯ˥ | ɲi˧-ɭɯ˧ tɑ˩hwɤ˩!
-\xe How many boxes are there in the dowry? - The dowry consists of two boxes!
-\xn 陪嫁有几个木箱？ - 陪嫁有两个（木箱）！
-\xf Combien de caisses sont offertes en dot/ de combien de caisses la dot se compose-t-elle? - De deux caisses!
+\xv ti˧tsɯ˥ | qʰɑ˧-ɭɯ˧ tɑ˩hwɤ˩? — ti˧tsɯ˥ | ɲi˧-ɭɯ˧ tɑ˩hwɤ˩!
+\xe How many boxes are there in the dowry? — The dowry consists of two boxes!
+\xn 陪嫁有几个木箱？ — 陪嫁有两个（木箱）！
+\xf Combien de caisses sont offertes en dot/ de combien de caisses la dot se compose-t-elle? — De deux caisses!
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65220,7 +65218,7 @@
 \pdv mi˩
 \de Wasp.
 \ge wasp
-\dn 马蜂 (黄蜂)
+\dn 马蜂（黄蜂）
 \gn 马蜂
 \df Guêpe.
 \gf guêpe
@@ -66757,11 +66755,10 @@
 \vc <langue="fra" print="n"> si on distingue entre les différents doigts: emploie ʈi˧ʂæ˩ “empan long" et ʈi˧ɖæ˧ “empan court" xxxx
 \de A handspan (between the thumb and index). The distance between the thumb and the middle finger is not commonly used.
 \ge |fg{clf}.handspans(thumb_to_index)
-\dn 量词：拃(大拇指和食指之间的距离。一般不用大拇指和中指之间的距离。)
-\gn 量词.拃(食指)
+\dn 量词：拃（大拇指和食指之间的距离。一般不用大拇指和中指之间的距离。）
+\gn 量词.拃（食指）
 \df Empan: distance entre le pouce et l'index écartés. D'ordinaire, on n'emploie pas la distance entre pouce et majeur.
 \gf |fg{clf}.empan_pouce_index
-\dt 24/Jul/2017
 
 \lx ʈʰi˩α
 \sf <nb="B"> 1396
@@ -70454,7 +70451,7 @@
 \va <speaker="M21"> ID.
 \de To float.
 \ge to_float
-\dn 漂浮 (浮在水上)
+\dn 漂浮（浮在水上）
 \gn 漂浮
 \df Flotter.
 \gf flotter
@@ -70695,7 +70692,7 @@
 \va <speaker="M23"> ID.
 \de To construct a house, to build a house.
 \ge to_build
-\dn 盖，建 (房子)
+\dn 盖，建（房子）
 \gn 建
 \df Construire.
 \gf construire
@@ -71370,10 +71367,11 @@
 \xe It's okay! / It's arranged! / Things have been made good!
 \xn 好了！／弄好了！／成！
 \xf c'est bon, c'est arrangé!
-\xv ə˧-tsɤ˥? - tsɤ˧-ʝi˧! corrigé de: ə˩-tsɤ˧?
-\xe Is it all right? (e.g. about microphone position for recording) - Okay, fine! / Yes! (Indication of acquiescence to an instruction)
-\xn 行！／好的！（表示同意或接受命令）
+\xv ə˧-tsɤ˥? — tsɤ˧-ʝi˧!
+\xe Is it all right? (e.g. about microphone position for recording) — Okay, fine! / Yes! (Indication of acquiescence to an instruction)
+\xn 行吗？ — 行！／好的！（表示同意或接受命令）
 \xf OK! C'est bon! (formule très courante, pour indiquer son acquiescement à une instruction reçue)
+\xc <type="hist" langue="fra" print="n"> corrigé en 2024; notation antérieure: ton L.M: /ə˩-tsɤ˧?/
 \xv tsɤ˧ ɲi˥!
 \xe That's fine!
 \xn 好的！
@@ -73156,7 +73154,7 @@
 \va <speaker="M23"> ID.
 \de To grasp (e.g. a sword hilt).
 \ge to_grasp
-\dn 握 (握刀把)
+\dn 握（握刀把）
 \gn 握
 \df Empoigner, prendre en main, saisir, tenir fermement (ex.: couteau); serrer, crisper (le poing).
 \gf empoigner
@@ -73513,7 +73511,7 @@
 \so F4
 \de Topic marker; grammaticalized from the proximal demonstrative.
 \ge |fg{top}(|fg{dem_prox})
-\dn 主题(来自近指指示代词的语法化)
+\dn 主题（来自近指指示代词的语法化）
 \gn 主题
 \df Topicalisateur; grammaticalisé à partir du démonstratif proximal.
 \gf |fg{top}(|fg{dem_prox})
@@ -73959,7 +73957,7 @@
 \de Ci'er Pico, a masculine given name.
 \ge Ci'er_Pico
 \dn 次尔品初：一个男性名字
-\gn  次尔品初
+\gn 次尔品初
 \df Ci'er Pico, un prénom masculin.
 \gf Ci'er_Pico
 
@@ -75589,7 +75587,7 @@
 \pdv kʰwɤ˥α
 \de Patrimony, family wealth, property.
 \ge patrimony
-\dn 家底、财产(贵重物品)
+\dn 家底、财产（贵重物品）
 \gn 家底
 \df Patrimoine.
 \gf patrimoine
@@ -75852,11 +75850,10 @@
 \so F4
 \de Topic marker; grammaticalized from the distal demonstrative.
 \ge |fg{top}(|fg{dem.dist})
-\dn 主题(指示.远指)
-\gn 主题(指示.远指)
+\dn |fg{主题}（|fg{指示.远指}）
+\gn 主题（指示.远指）
 \df Focalisateur; grammaticalisé à partir du démonstratif distal.
 \gf |fg{top}(|fg{dem.dist})
-\dt 13/Jul/2017
 
 \lx ʈv̩˩
 \sf <nb="2011"> 927
@@ -78047,10 +78044,10 @@
 \gn 远
 \df Loin, lointain.
 \gf lointain
-\xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | - dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
-\xe Are you distant from him? Is there distance (between you)? - There is not much distance to speak of! We are not distant! (=we are close friends)
-\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） - 没什么距离！（我们）比较近，不远！
-\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) - Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
+\xv no˧ | ʈʂʰɯ˧ | ə˧-ʐæ˥ʂæ˩? | dʑɤ˩kʰwɤ˧ ə˩-di˩? | — dʑɤ˩˥ | dʑɤ˩kʰwɤ˧ mɤ˧-di˥! | mɤ˧-ʐæ˩ʂæ˩!
+\xe Are you distant from him? Is there distance (between you)? — There is not much distance to speak of! We are not distant! (=we are close friends)
+\xn 你们之间有距离吗？（＝你们很熟吗？／你们很亲吗？） — 没什么距离！（我们）比较近，不远！
+\xf Tu es loin de lui? Y a-t-il de la distance entre vous? (=vous êtes proches/intimes, ou pas?) — Non, il n'y a guère de distance! Nous ne sommes pas éloignés!
 \xc <langue="fra" type="hist" print="n" dom="ton"> Modifié en 2015 de /dʑɤ˩kʰwɤ˥ | mɤ˧-di˥/ en /dʑɤ˩kʰwɤ˧ mɤ˧-di˥/. Dans ce contexte, il est en effet plus approprié d'unir en un seul groupe tonal.
 \xc <type="hist" print="n" langue="fra" dom="ton"> Avant 2024: noté: /ə˩-ʐæ˥ʂæ˩/.
 \rf M18
@@ -78489,7 +78486,7 @@
 \so F4
 \de Which; which kind.
 \ge which
-\dn 哪，哪个 (哪个碗)，哪一种
+\dn 哪，哪个（哪个碗），哪一种
 \gn 哪／哪种
 \df Quelle sorte de, lequel.
 \gf lequel
@@ -78890,7 +78887,7 @@
 \va <speaker="M21"> ID.
 \de To clutch, to grasp, to grab.
 \ge to_grab
-\dn 拿，捉 (捉鸡)
+\dn 拿，捉（捉鸡）
 \gn 捉
 \df Attraper, saisir, prendre (ex.: un animal récalcitrant).
 \gf saisir
@@ -82319,14 +82316,14 @@
 \gn 未来_愿望
 \df Futur / désidératif / conjecture.
 \gf |fg{fut}/désidératif/conjecture
-\xv hi˩gi˩ ə˥-ho˩? - hi˩ gi˩ ho˥!
-\xe Is it going to rain? - Yes, it is going to rain!
-\xn 要下雨了吗？ - 是的，要下雨了！
-\xf Va-t-il pleuvoir? - Oui!
-\xv ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩ ho˩-hĩ˩ | ə˩-ɲi˩˥? - ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩-ho˩-ɲi˩-mæ˩.
-\xe Is he going to come tomorrow? - (Yes,) he will come tomorrow.
-\xn 他明天要来买？ - （是的，）他明天会来的。（回答表示：比较肯定。）
-\xf Viendra-t-il demain? - (Oui) je pense qu’il viendra demain. (Qd on est presque sûr)
+\xv hi˩gi˩ ə˥-ho˩? — hi˩ gi˩ ho˥!
+\xe Is it going to rain? — Yes, it is going to rain!
+\xn 要下雨了吗？ — 是的，要下雨了！
+\xf Va-t-il pleuvoir? — Oui!
+\xv ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩ ho˩-hĩ˩ | ə˩-ɲi˩˥? — ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩-ho˩-ɲi˩-mæ˩.
+\xe Is he going to come tomorrow? — (Yes,) he will come tomorrow.
+\xn 他明天要来买？—（是的，）他明天会来的。（回答表示：比较肯定。）
+\xf Viendra-t-il demain? — (Oui) je pense qu’il viendra demain. (Qd on est presque sûr)
 \xv so˧ɲi˥ | le˧-ɬi˥ | mɤ˧-ho˥!
 \xe Tomorrow, they won't be on holiday anymore! (Context: on a Sunday, talking about a kindergarten that has been on holiday during the previous week.)
 \xn 明天就不休息了！
@@ -82894,10 +82891,10 @@
 \xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
-\xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! - mɤ˧-qʰɑ˥!
-\xe The vegetables look bitter! - No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
-\xn 菜看起来是苦的！／菜很苦吧？ - 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
-\xf Les légumes m'ont l'air amers! - Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: «Mais non, pas du tout!»)
+\xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! — mɤ˧-qʰɑ˥!
+\xe The vegetables look bitter! — No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
+\xn 菜看起来是苦的！／菜很苦吧？ — 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
+\xf Les légumes m'ont l'air amers! — Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: «Mais non, pas du tout!»)
 \rf F5
 \xv ʈʂʰɯ˧ | ə˧tso˧ pʰæ˧di˩ ɲi˩?
 \xe What kind of an impression does that give? (A way to point out to someone, coolly, calmly and without violence, that their behaviour is unseemly and undignified: for instance if someone is indulging in unreasonable quantities of alcohol.)
