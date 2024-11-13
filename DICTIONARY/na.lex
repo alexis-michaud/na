@@ -3370,7 +3370,7 @@
 \gn 咻！
 \df Onomatopée d'un soupir de soulagement: Ouf!
 \gf |fg{ideo}.Ouf!
-\xv le˧-pʰo˩, | (...) si˧dzi˩-ʈʰæ˩qo˩ | ɖɯ˧-ʝi˧ tʰv̩˧-dʑo˧, | põ! pi˧, | tʰi˧-dzi˩-kʰɯ˩. | hhho̥…ho! pi˧-tsɯ˩ ◊ -mv̩˩.
+\xv le˧-pʰo˩, | (…) si˧dzi˩-ʈʰæ˩qo˩ | ɖɯ˧-ʝi˧ tʰv̩˧-dʑo˧, | põ! pi˧, | tʰi˧-dzi˩-kʰɯ˩. | hhho̥…ho! pi˧-tsɯ˩ ◊ -mv̩˩.
 \xe He ran [carrying her]; when they got to a spot under the trees, boom! they sat down and let out a great big sigh of relief: Phew!
 \xn 他[背着她]一路跑着。就到了小树林后面坐下来，歇了一口气：咻！
 \xf [La portant,] il a couru, couru; arrivé à un endroit sous les arbres, boum! ils se sont assis; et ils ont poussé un grand Ouf de soulagement!
@@ -3455,7 +3455,7 @@
 \df Bruit de l'expulsion d'un objet rond de la bouche ou de la gorge: «Plop!»
 \gf |fg{ideo}.plop!
 \xv ʈʂʰɯ˧ne˧-ʝi˥ | mv̩˩tɕo˧ ɖʐɤ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | æ̃˩ʁv̩˩-ʈʂʰɯ˥, | pɑ! pi˧, | gɤ˩-pʰi˧ le˧-tsʰɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!
-\xe As he grabbed her again like this [squeezing her chest], well... it made her spit out the egg, plop!
+\xe As he grabbed her again like this [squeezing her chest], well… it made her spit out the egg, plop!
 \xn 他又拉了一下，这时候鸡蛋就都被吐出来了：“啵！”
 \xf Comme il la saisissait à nouveau comme ceci [comprimant sa poitrine], eh bien… l'œuf, plop! il a été recraché!
 \txt BuriedAlive3.65
@@ -6417,9 +6417,9 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> Confirmé en 2007: Mme Latami dit /ɕjɤ/, non /ɕjæ/. Réanalyse déc. 2008: /hjɤ/, puis reviens à une notation moins abstraite: ɕjɤ.
-\nt <langue="fra" dom="morpho"> Le lien entre la première syllabe de l'adjectif, |fv{ɕjɤ˧}, et l'emprunt chinois |fv{ɕjæ˧} |fn{香} n'est pas tout à fait établi. Aux yeux de la locutrice principale, |fv{ɕjɤ˧-bv̩˧nv̩˧} est un mot na, tandis que |fv{ɕjæ˧} est un mot chinois. Pour autant, la variabilité inter-locuteurs amène à penser que le |fv{ɕjɤ˧-...} serait un emprunt du chinois |fn{香} à une date un peu antérieure, relativement récente: quelques décennies? un siècle au plus?
-\nt <langue="eng" dom="morpho"> The link between the first syllable of the adjective, |fv{ɕjɤ˧}, and the Chinese loan |fv{ɕjæ˧} |fn{香} is not entirely clear. In the eyes of the main speaker, |fv{ɕjɤ˧-bv̩˧nv̩˧} is a Na word, whereas |fv{ɕjæ˧} is a Chinese word. However, the patterns of variability between speakers suggests that |fv{ɕjɤ˧-...} was borrowed from the Chinese |fn{香} at a slightly earlier, relatively recent date: a few decades? a century at most?
-\nt <langue="cmn" dom="morpho"> 形容词的第一个音节（|fv{ɕjɤ˧}）与汉语借词|fv{ɕjæ˧}‘香’之间的关系不完全清楚。在主合作人眼中，|fv{ɕjɤ˧-bv̩˧nv̩˧}是摩梭语，而|fv{ɕjæ˧} 是汉语借词。然而，不同说话者之间的差异表明，|fv{ɕjɤ˧-...}很可能来自汉语的‘香’，时间稍早但相对较近：几十年？顶多一百年？
+\nt <langue="fra" dom="morpho"> Le lien entre la première syllabe de l'adjectif, |fv{ɕjɤ˧}, et l'emprunt chinois |fv{ɕjæ˧} |fn{香} n'est pas tout à fait établi. Aux yeux de la locutrice principale, |fv{ɕjɤ˧-bv̩˧nv̩˧} est un mot na, tandis que |fv{ɕjæ˧} est un mot chinois. Pour autant, la variabilité inter-locuteurs amène à penser que le |fv{ɕjɤ˧-} serait un emprunt du chinois |fn{香} à une date un peu antérieure, relativement récente: quelques décennies? un siècle au plus?
+\nt <langue="eng" dom="morpho"> The link between the first syllable of the adjective, |fv{ɕjɤ˧}, and the Chinese loan |fv{ɕjæ˧} |fn{香} is not entirely clear. In the eyes of the main speaker, |fv{ɕjɤ˧-bv̩˧nv̩˧} is a Na word, whereas |fv{ɕjæ˧} is a Chinese word. However, the patterns of variability between speakers suggests that |fv{ɕjɤ˧-} was borrowed from the Chinese |fn{香} at a slightly earlier, relatively recent date: a few decades? a century at most?
+\nt <langue="cmn" dom="morpho"> 形容词的第一个音节（|fv{ɕjɤ˧}）与汉语借词|fv{ɕjæ˧}‘香’之间的关系不完全清楚。在主合作人眼中，|fv{ɕjɤ˧-bv̩˧nv̩˧}是摩梭语，而|fv{ɕjæ˧} 是汉语借词。然而，不同说话者之间的差异表明，|fv{ɕjɤ˧-}很可能来自汉语的‘香’，时间稍早但相对较近：几十年？顶多一百年？
 \ton M
 \lc ɕjɤ˧bv̩˧nv̩˧
 \cf ɕjæ˧
@@ -10229,7 +10229,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <dom="sem" langue="fra"> Ce concept est important pour les Na, dans la mesure où les objets usuels doivent être achetés par paires, faute de quoi ils risquent de casser, dit-on. On n'achète (et n'offre) pas un bol, ou une casserole, ou un couteau, mais des paires: des ensembles de 2, 4, 6, 8, 10… Tous les nombres impairs porteraient malheur.
-\nt <dom="sem" langue="eng"> This concept is important for the Na, in that everyday objects must be bought in pairs, otherwise they risk breaking, it is said. One does not buy (or offer) one bowl, or one saucepan, or one knife, but pairs: sets of 2, 4, 6, 8, 10... Any odd numbers would bring bad luck.
+\nt <dom="sem" langue="eng"> This concept is important for the Na, in that everyday objects must be bought in pairs, otherwise they risk breaking, it is said. One does not buy (or offer) one bowl, or one saucepan, or one knife, but pairs: sets of 2, 4, 6, 8, 10… Any odd numbers would bring bad luck.
 \nt <dom="sem" langue="cmn"> 这个概念对于当地文化来说很重要。日常用品必须成对购买，否则就不吉利，有损坏的危险。人们购买（或赠送）的不是一个碗、一个锅或一把刀，而是成对的：2、4、6等等。任何奇数都会带来厄运。
 \ton Lα
 \so F4
@@ -15360,7 +15360,7 @@
 \ge mother/aunt
 \dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
 \gn 母亲/姑母
-\df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel...
+\df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel…
 \gf mère/tante
 \xv ə˧mi˧=ɻæ˩
 \xe 〜 |fg{pl}: `mothers', understood as: all women who have children (i.e. who are older than young girls, and younger than grandmothers).
@@ -19083,7 +19083,7 @@
 \nt <type="hist" print="n" langue="fra"> d'abord noté hæ˥, hæ˥tʰv̩˥
 \cog <langue="lata1234"> lhae / shae
 \nt <dom="phono" langue="fra" type="hist" print="n"> Cette syllabe comporte une nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux".
-\nt <dom="phono" langue="fra" print="n"> Le monosyllabe `vent' ne se prête pas à élicitation dans le cadre «Ceci est...».
+\nt <dom="phono" langue="fra" print="n"> Le monosyllabe `vent' ne se prête pas à élicitation dans le cadre «Ceci est…».
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -20400,7 +20400,7 @@
 \xn (径流水）像湖/看起来像湖：它是积累起来的！
 \xf (l'eau de ruissellement) fait comme un lac / ressemble à un lac: elle s'est accumulée!
 \xv hi˩-nɑ˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-hi˩-kwɤ˩tɕɯ˩-lɑ˩, | lo˧ʂv̩˩ | pi˧-ɲi˥-kv̩˩-tsɯ˩ ◊ mv̩˩!
-\xe as [the water] had accumulated and formed a lake (literally ‘as the lake had accumulated’)... [this village] was called ‘Loshu’!
+\xe as [the water] had accumulated and formed a lake (literally ‘as the lake had accumulated’)… [this village] was called ‘Loshu’!
 \xn 因为[水]积聚成湖（字面意思是：‘因为湖这样积聚起来了’）90°……[这个村庄]被称为‘落水村’！
 \xf comme [l'eau] s'était accumulée et avait formé un lac (littéralement «comme le lac s'était ainsi accumulé»)… [ce village,] on l'a appelé ‘Loshu’!
 \txt Lake4.126
@@ -22487,8 +22487,8 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> Vérifié: l'initiale de la deuxième syllabe est vélaire et non uvulaire.
-\nt <dom="phono" langue="fra"> Il est confirmé que la syllabe est /|fv{hwɑ}/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois récents de rime -ua (|fn{话}, |fn{花}, |fn{化}...), -uan, -uang. Autrement dit, cette rime fait partie du système synchronique employé pour prononcer les mots chinois. On aurait attendu /|fv{hwæ}/ ou /|fv{hwɤ}/, si le mot se conformait à la phonotactique du na.
-\nt <dom="phono" langue="eng"> It is clearly established that the syllable is /|fv{hwɑ}/, with a vowel that is not attested in Na, but is specific to recent Chinese loans ending in -ua (|fn{话}, |fn{花}, |fn{化}...), -uan and -uang. Put another way, this rhyme is part of the synchronic system used to pronounce Chinese words. If the word conformed to Na phonotactics, one would have expected /|fv{hwæ}/ or /|fv{hwɤ}/.
+\nt <dom="phono" langue="fra"> Il est confirmé que la syllabe est /|fv{hwɑ}/, avec une voyelle qui n'est pas attestée en na, mais est spécifique aux emprunts chinois récents de rime -ua (|fn{话}, |fn{花}, |fn{化}…), -uan, -uang. Autrement dit, cette rime fait partie du système synchronique employé pour prononcer les mots chinois. On aurait attendu /|fv{hwæ}/ ou /|fv{hwɤ}/, si le mot se conformait à la phonotactique du na.
+\nt <dom="phono" langue="eng"> It is clearly established that the syllable is /|fv{hwɑ}/, with a vowel that is not attested in Na, but is specific to recent Chinese loans ending in -ua (|fn{话}, |fn{花}, |fn{化}…), -uan and -uang. Put another way, this rhyme is part of the synchronic system used to pronounce Chinese words. If the word conformed to Na phonotactics, one would have expected /|fv{hwæ}/ or /|fv{hwɤ}/.
 \nt <dom="phono" langue="cmn"> 可以确定该音节是/|fv{hwɑ}/，其韵母在摩梭语中仅出现在近期汉语借词里（-ua韵母的词，如‘话’、‘花’、‘化’等等，还有-uan和-uang韵母）。换句话说，这个韵母是共时汉语发音系统的一个组成部分。如果该词符合摩梭语音系，就会发作/|fv{hwæ}/或/|fv{hwɤ}/。
 \ton LM
 \so F4
@@ -27834,9 +27834,14 @@
 \xf Tu es d'accord pour acheter? - Oui!
 \xc PHONO
 \xc <dom="ton"> M
-\xv ʈʂʰɯ˧-kʰwɤ˥, | (no˧-ɳɯ˧) njɤ˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?　（你）让我卖吗？／　ʈʂʰɯ˧-kʰwɤ˥, | no˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩? 你让卖吗？
-\xe Do you agree to sell?
-\xn （你）让卖吗？
+\xv ʈʂʰɯ˧-kʰwɤ˥, | (no˧-ɳɯ˧) njɤ˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?
+\xe Do you agree for me to sell?
+\xn （你）让我卖吗？
+\xf Tu es d'accord pour que je vende?
+\xc PHONO
+ʈʂʰɯ˧-kʰwɤ˥, | no˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?
+\xe Do you agree for me to sell?
+\xn 你让卖吗？
 \xf Tu es d'accord pour vendre?
 \xc PHONO
 \xc <dom="ton"> #H
@@ -33927,7 +33932,7 @@
 \nt <type="hist" print="n" langue="fra"> Avant 2009, noté: /‡ɬo˥tɑ˥ɬo˧ɲi˩/.
 \nt <dom="sem" langue="fra"> La première partie de cette expression disyllabique, |fv{/ɬo˧tɑ˧/}, peut s'employer seule, avec le sens de «à côté de». En revanche, la seconde partie ne peut s'employer seule.
 \nt <dom="sem" langue="eng"> The first part of this disyllabic expression, |fv{/ɬo˧tɑ˧/}, can be used on its own, meaning ‘beside’. On the other hand, the second part cannot be used on its own.
-\nt <dom="sem" langue="cmn"> 这个双音节短语的第一部分，即|fv{/ɬo˧tɑ˧/}，可以单独使用，意思是‘在......旁边’。但第二部分却不能单独使用。
+\nt <dom="sem" langue="cmn"> 这个双音节短语的第一部分，即|fv{/ɬo˧tɑ˧/}，可以单独使用，意思是‘在……旁边’。但第二部分却不能单独使用。
 \ton -L
 \lc ɬo˧tɑ˧ɬo˩ɲi˩
 \cf ɬo˧tɑ˧
@@ -35030,7 +35035,7 @@
 \xv dʑi˧mi˧ lv̩˧-ze˥
 \xe ploughed with a water buffalo
 \xn 用水牛耕田了
-\xf ... a labouré avec un buffle
+\xf … a labouré avec un buffle
 \xv ʝi˧ ɖɯ˧-lv̩˧~lv̩˥-ɻ̩˩
 \xe to plough a little
 \xn 耕一耕
@@ -49045,7 +49050,7 @@
 \gn 弹
 \df Donner une chiquenaude.
 \gf donner_une_chiquenaude
-\xv to˧kɤ˧ qʰæ˩ (on donnait les chiquenaudes sur le front)
+\xv to˧kɤ˧ qʰæ˩
 \xe To flick (someone's) forehead. (That was the traditionally designated spot for flicking.)
 \xn 弹（某人的）额头。(那是传统上指定的弹指部位。）
 \xf Donner une chiquenaude au front. (C'est là qu'on portait traditionnellement les chiquenaudes.)
@@ -50007,9 +50012,9 @@
 \xn 杀猪
 \xf tuer le cochon
 \xv bo˩ qʰo˧-ze˥
-\xe ... slaughtered a pig
+\xe … slaughtered a pig
 \xn 杀了猪
-\xf ... a tué le cochon
+\xf … a tué le cochon
 \xv bo˩˥ | le˧-qʰo˧-ze˥
 \xe the pig has been slaughtered
 \xn 杀了猪
@@ -59998,7 +60003,7 @@
 \xv ɣɯ˩ʂɯ˧ ze˥
 \xe peeled off the skin
 \xn 削皮了
-\xf ... a épluché la peau
+\xf … a épluché la peau
 \xv ɣɯ˩kɯ˧ ʂɯ˥
 \xe to peel, to peel off the skin
 \xn 削皮
@@ -62002,10 +62007,15 @@
 \gn 咬/叮
 \df Mordre (mordre à belles dents dans quelque chose); piquer (une abeille pique quelqu'un).
 \gf mordre/piquer
-\xv tso˧~tso˧ ʈʰæ˩(-ze˩)
+\xv tso˧~tso˧ ʈʰæ˩
 \xe to bite things
 \xn 咬东西
 \xf mordre quelque chose
+\xc PHONO
+\xv tso˧~tso˧ ʈʰæ˩-ze˩
+\xe has bitten things
+\xn 咬东西了
+\xf ... a mordu quelque chose
 \xc PHONO
 \xv hĩ˧ ʈʰæ˩
 \xe to bite someone (e.g. a dog bites a stranger)
@@ -64267,7 +64277,7 @@
 \lc tɕo˧
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <dom="usage" langue="fra"> La mise au pluriel n'est pas possible (pour dire quelque chose comme «toutes les directions», «plusieurs directions»...)
+\nt <dom="usage" langue="fra"> La mise au pluriel n'est pas possible (pour dire quelque chose comme «toutes les directions», «plusieurs directions»…)
 \ton #H
 \so F4
 \de Direction.
@@ -70497,7 +70507,7 @@
 \xv kʰi˧ tse˥-ze˩
 \xe locked the door
 \xn 锁门了
-\xf ... a verrouillé la porte
+\xf … a verrouillé la porte
 \xv kʰi˧ tʰi˧-tse˩
 \xe to lock the door
 \xn 锁门
@@ -73270,7 +73280,7 @@
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> ton: d'après son comportement après les verbes
 \nt <dom="sem" langue="fra"> L'emploi de cette particule signale une source indirecte de connaissance: le bouche à oreille. Il s'agit d'une forme d'évidentiel qui signale une connaissance indirecte. La particule est glosé comme `(discours) rapporté', |fg{rep}, à la suite de Liberty Lidz, bien qu'il ne s'agisse pas de discours rapporté (style indirect) du type «Untel a dit: “…”», mais plutôt d'une précision concernant la façon dont s'est fait l'accès à l'information.
-\nt <dom="sem" langue="eng"> The use of this particle indicates an indirect source of knowledge: that the information is known through word of mouth, not first-hand testimony. It is a form of evidential which signals indirect knowledge. The particle is glossed as ‘reported speech’, |fg{rep}, following Liberty Lidz, although it is not actually reported speech of the type “So-and-so said: «...»”, but rather a clarification as to how the information was accessed.
+\nt <dom="sem" langue="eng"> The use of this particle indicates an indirect source of knowledge: that the information is known through word of mouth, not first-hand testimony. It is a form of evidential which signals indirect knowledge. The particle is glossed as ‘reported speech’, |fg{rep}, following Liberty Lidz, although it is not actually reported speech of the type “So-and-so said: «…»”, but rather a clarification as to how the information was accessed.
 \ton MH
 \lc tsɯ˧˥
 \so F4
@@ -79548,7 +79558,7 @@
 \lc zo˩bv̩˥li˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce mot se prononce ssobbulee (troisième syllabe: |fv{ɭɯ}) dans les dialectes dont elle a l'expérience. S'il se confirmait que cette prononciation (qui coïncide avec celle de Daeshi Daedeu: /|fv{zo˩bv̩˧ɭɯ˩}/) est plus répandue que celle en ...|fv{li}, l'orthographe serait à modifier de ssobbuli en ssobbulee.
+\nt <dom="dialect" langue="fra"> Roselle Dobbs fournit l'indication selon laquelle ce mot se prononce ssobbulee (troisième syllabe: |fv{ɭɯ}) dans les dialectes dont elle a l'expérience. S'il se confirmait que cette prononciation (qui coïncide avec celle de Daeshi Daedeu: /|fv{zo˩bv̩˧ɭɯ˩}/) est plus répandue que celle en …|fv{li}, l'orthographe serait à modifier de ssobbuli en ssobbulee.
 \nt <dom="dialect" langue="eng"> Indication from Roselle Dobbs (19/05/2024): this word is ssobbulee (with |fv{ɭɯ} as its third syllable) in the dialects that she is familiar with. In case it is confirmed that this pronunciation (also coinciding with Daeshi Daedeu's pronunciation /|fv{zo˩bv̩˧ɭɯ˩}/) is more widespread than that with final |fv{li}, spelling should be changed from ssobbuli to ssobbulee.
 \so F4
 \va <speaker="M18"> zo˩bv̩˧ɭɯ˩
