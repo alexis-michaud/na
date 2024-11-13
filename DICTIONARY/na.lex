@@ -12154,7 +12154,7 @@
 \va <speaker="M23"> ID.
 \de To collapse, to topple over, to fall into ruin.
 \ge to_collapse
-\dn 塌毁，倒塌 ，倒
+\dn 塌毁，倒塌，倒
 \gn 塌毁
 \df S’écrouler, s'effondrer (mur); tomber (arbre), se renverser, s'abattre.
 \gf s_écrouler
@@ -14703,7 +14703,7 @@
 \nt <dom="phono" langue="cmn"> 对文本中这种感叹词的例子进行系统研究，可以考察一种假设，即在感叹词|fv{õ!}和语素‘是’/|fv{ĩ˧}/之间存在一个连续体，从/|fv{ĩ˧}/到接近[|fv{ɛ̃}]的发音，再到|fv{õ}，很可能都有实例。
 \de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
 \ge |fg{intj}.approbation
-\dn 感叹词：赞同的插入语。可能是 “是的 ”，|fv{ĩ˧}，的变形。一般语调上扬，接近MH调。
+\dn 感叹词：赞同的插入语。可能是 “是的”，|fv{ĩ˧}，的变形。一般语调上扬，接近MH调。
 \gn 感叹词
 \df Interjection approbative. Il pourrait s'agir d'une déformation expressive de `oui',  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
 \gf |fg{intj}.approbation
@@ -15233,7 +15233,7 @@
 \pdv ɭɯ˧β
 \de Turnip, wild cabbage, |fi{Brassica rapa}.
 \ge turnip
-\dn 芜菁 、扁萝卜、大头菜、蔓菁
+\dn 芜菁、扁萝卜、大头菜、蔓菁
 \gn 芜菁
 \df Navet, |fi{Brassica rapa}.
 \gf navet
@@ -23122,7 +23122,7 @@
 \pdv kɤ˧˥
 \de Lower balcony, mezzanine: an area of the main room where a floor is laid under the roof structure, forming a mezzanine, but which the human inhabitants do not use. As the area is very smoky, only a flimsy floor and no railings are used. Hence the name: ‘the cat's (place)’, as only the cat roams around easily up there. Sometimes objects are stored here (wickerwork, for example): the smoke give them some protection from insects.
 \ge lower_balcony
-\dn 夹层：主屋的夹层。只有一层薄的木地板。这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为 “猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
+\dn 夹层：主屋的夹层。只有一层薄的木地板。这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为“猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
 \gn 夹层
 \df Mezzanine: espace de la pièce principale où un plancher est aménagé sous la charpente, formant comme une mezzanine, mais que les habitants humains n'utilisent pas. L'endroit étrant très enfumé, on n'y place qu'un plancher peu solide et sans rambarde. D'où le nom: «(la pièce) du chat», le chat étant seul à s'y promener à son aise. On y entrepose parfois des objets (vanneries par exemples), qui y sont relativement préservés des insectes par la fumée.
 \gf mezzanine
@@ -25344,7 +25344,7 @@
 \pdv kɤ˧˥
 \de Potato.
 \ge 洋芋::potato
-\dn 洋芋、土豆 、马铃薯
+\dn 洋芋、土豆、马铃薯
 \gn 洋芋（借词）
 \df Pomme de terre.
 \gf 洋芋::pomme_de_terre
@@ -44499,7 +44499,7 @@
 \pdv pʰæ˧˥
 \de Thick wood plank. A well-prepared plank, used in construction, could last a hundred years.
 \ge thick_plank
-\dn 厚的木板、 木板子
+\dn 厚的木板、木板子
 \gn 厚木板
 \df Grosse planche de bois, épaisse d'une dizaine de centimètres, utilisée pour la charpente des maisons.
 \gf grosse_planche
@@ -44641,7 +44641,7 @@
 \pdv v̩˧
 \de Young man, young chap, young lad.
 \ge young_man
-\dn 小伙子、 青年男子
+\dn 小伙子、青年男子
 \gn 小伙子
 \df Jeune homme, petit gars.
 \gf jeune_homme
@@ -46188,7 +46188,7 @@
 \pdv ɭɯ˧β
 \de Nape of neck.
 \ge nape
-\dn 项背 、项、脖颈儿
+\dn 项背、项、脖颈儿
 \gn 项背
 \df Nuque.
 \gf nuque
@@ -48743,7 +48743,7 @@
 \pdv pɤ˥
 \de Excrement, dung, droppings.
 \ge excrement
-\dn 屎、垃圾、 肥料
+\dn 屎、垃圾、肥料
 \gn 屎
 \df Excréments, fèces.
 \gf excréments
@@ -57040,7 +57040,7 @@
 \so F4
 \de To urinate.
 \ge to_urinate
-\dn 小便，尿; 屙尿; 解溲; 拉（屎）
+\dn 小便，尿，屙尿，解溲，拉（屎）
 \gn 屙尿
 \df Uriner, pisser, faire pipi; déféquer.
 \gf uriner
@@ -60883,7 +60883,7 @@
 \pdv ʁwɤ˧
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
-\dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。汉语音译：‘斯日’。
+\dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984：31sq））。汉语音译：‘斯日’。
 \gn 家庭社区／支系
 \df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
 \gf communauté_familiale
@@ -64894,7 +64894,7 @@
 \pdv kʰɯ˩
 \de Tracking rope, towrope, towline.
 \ge tracking_rope
-\dn 牛皮绳 ，犁具连轭之绳
+\dn 牛皮绳，犁具连轭之绳
 \gn 牛皮绳
 \df Courroies entre le joug et l'araire.
 \gf courroies_du_joug
@@ -65513,7 +65513,7 @@
 \vc <langue="fra" print="n"> La rime est bien un /|fv{y}/, pas un /|fv{i}/ ni un /|fv{ju}/.
 \de To pierce (e.g. to pierce a cow's nose in order to set a ring).
 \ge to_pierce
-\dn 穿刺、 刺破
+\dn 穿刺、刺破
 \gn 穿刺
 \df Percer, transpercer (par exemple: percer le museau d'une vache pour y enfiler un anneau)
 \gf percer
@@ -67803,7 +67803,7 @@
 \so F4
 \de Tocei, a village close to the Hot Springs.
 \ge Tocei
-\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。 经纬度：100.68379，27.86033
+\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。经纬度：100.68379，27.86033
 \gn 拖其村
 \df Tocei, un village proche des Sources Chaudes.
 \nt <dom="sem" langue="fra"> L'identification des coordonnées géographiques (latitude et longitude) reste à confirmer: la localité trouvée sur la carte est connue comme ‘|fn{拖且}’, tandis que la transcription chinoise du nom `Tocei' avait été indiquée comme ‘|fn{拖其}’.
@@ -67830,7 +67830,7 @@
 \so F4
 \de Toceiwua (Tocei), a village close to the Hot Springs.
 \ge Toceiwua
-\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。 经纬度：100.68379，27.86033
+\dn 拖其村：温泉乡的一个村落。还称为‘拖且’。经纬度：100.68379，27.86033
 \gn 拖其村
 \df Toceiwua (Tocei), un village proche des Sources Chaudes.
 \gf Toceiwua
@@ -79653,7 +79653,7 @@
 \sn 2
 \de Young chap, young lad, young man.
 \ge young_man
-\dn 小伙子、 青年男子
+\dn 小伙子、青年男子
 \gn 青年男子
 \df Jeune homme, petit gars.
 \gf jeune_homme
@@ -83831,7 +83831,7 @@
 \so M18
 \de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
 \ge Luxi_Zhinaha
-\dn 噜细至纳哈。拉他咪王勇解释： 噜细至纳哈是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
+\dn 噜细至纳哈。拉他咪王勇解释：噜细至纳哈是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
 \df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
 \gf Luxi_Zhinaha
