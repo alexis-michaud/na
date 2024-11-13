@@ -17448,7 +17448,7 @@
 \nt <type="hist" print="n" langue="fra"> gɤ˩tsɯ˥tʰv̩˧ze˩ (tons et voyelles confirmées, n'est pas gɑ˩tsɯ˥) “ça a débordé"
 \ton LM
 \so F4
-\va <speaker="M21> *
+\va <speaker="M21"> *
 \de To overflow. For example, when one puts a lid on a saucepan and the fire is strong, the liquid can overflow.
 \ge to_overflow
 \dn 溢出。例如，在汤锅上盖上盖子，液体浓稠地沸腾的话，就溢出。
