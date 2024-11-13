@@ -2648,7 +2648,7 @@
 \de Village; neighbours, people in the village.
 \ge village/neighbours
 \dn 村落，邻居、村里的人们
-\gn 村落/邻居
+\gn 村落／邻居
 \df Le village; les gens du village, les voisins.
 \gf village/voisins
 \dt 12/May/2017
@@ -2695,7 +2695,7 @@
 \de Thin; shallow.
 \ge thin/shallow
 \dn 薄，浅(水浅)
-\gn 薄/浅
+\gn 薄／浅
 \df Mince; peu profond.
 \gf mince
 \xv bi˧ | ʐwæ˩˥!
@@ -3312,7 +3312,7 @@
 \so F4
 \de Noise of a shock between two hard objects, for instance the sound of an axe splitting a log: Bang!
 \ge |fg{ideo}.Bang!
-\dn 形声词：斧头把粗的木头开花成两半。砰！ / 啪！
+\dn 形声词：斧头把粗的木头开花成两半。砰！／啪！
 \gn 砰！
 \df Bruit d'un choc entre deux objets durs, par exemple un coup de hache qui fend une pièce de bois: Boum!
 \gf |fg{ideo}.Boum!
@@ -3349,7 +3349,7 @@
 \so F4
 \de Sound of a tiger growling: Grr, Grrrrowl
 \ge |fg{ideo}.Grr!
-\dn 形声词：老虎吼着的声音：呜呜/呕吼！
+\dn 形声词：老虎吼着的声音：呜呜／呕吼！
 \gn 呜呜！
 \df Onomatopée du rugissement d'un tigre: Grrr!
 \gf |fg{ideo}.Grrr!
@@ -3731,7 +3731,7 @@
 \de To spin.
 \ge to_spin
 \dn 纺（麻线），使旋转
-\gn 纺/使旋转
+\gn 纺／使旋转
 \df Faire tourner (la quenouille, pour filer le fil de lin)
 \gf faire_tourner
 \xv sɑ˧ bo˧
@@ -4355,7 +4355,7 @@
 \de Lard, fat meat of pig; also: boneless, fleshless preserved pork: cured pork made from a whole pig by removing all its internal organs from the opened stomach, seasoned with salt and spices and then the opening is stitched together. The whole sewn pig is then pressed with a slabstone.
 \ge lard
 \dn 猪膘，琵琶肉
-\gn 猪膘/琵琶肉
+\gn 猪膘／琵琶肉
 \df Lard; le même terme est employé pour désigner le cochon entier désossé et conservé dans sa peau (au moyen de salpêtre et de sel), qui se conserve une décennie, appelé «viande pipa» en chinois. La glose adoptée dans les textes est: cochon-conservé-entier.
 \gf lard/cochon_conservé_entier
 \dt 24/Apr/2017
@@ -4724,7 +4724,7 @@
 \pdv pʰo˧˥α
 \de Yak, |fi{Bos grunniens}. The same term is used for wild yaks and domesticated yaks.
 \ge yak
-\dn 牦牛/野牦牛
+\dn 牦牛／野牦牛
 \gn 牦牛
 \df Yak, |fi{Bos grunniens} (sauvage ou domestiqué).
 \gf yak
@@ -5268,7 +5268,7 @@
 \pdv mi˩
 \de Male yak (elicited form; the commonly used form is |fv{/bɻ̩˩ʂwæ˩/}).
 \ge male_yak
-\dn 公牦牛（通常的说法是：|fv{/bɻ̩˩ʂwæ˩/}）
+\dn 公牦牛（通常的说法是：|fv{bɻ̩˩ʂwæ˩}）
 \gn 公牦牛
 \df Yak mâle. Ce mot est une forme élicitée; la forme usuelle est: |fv{/bɻ̩˩ʂwæ˩/}.
 \gf yak_mâle
@@ -5670,7 +5670,7 @@
 \va <speaker="M21"> ID.
 \de Year of the Snake. Literally ‘Year of the Dragon': /|fv{bv̩˧ʐv̩˧}/ does not mean ‘snake' (which is /|fv{ʐv̩˧bæ˧}/), but ‘dragon'.
 \ge year_of_the_Snake
-\dn 蛇年。字面意思是‘龙年’：/|fv{bv̩˧ʐv̩˧}/不是‘蛇’的意思，而是‘龙’的意思。
+\dn 蛇年。字面意思是‘龙年’：fv{bv̩˧ʐv̩˧}不是‘蛇’的意思，而是‘龙’的意思。
 \gn 蛇年
 \df Année du Serpent. Littéralement ‘année du Dragon': /|fv{bv̩˧ʐv̩˧}/ ne signifie pas ‘serpent' (qui se dit /|fv{ʐv̩˧bæ˧}/), mais ‘dragon'.
 \gf année_du_Serpent
@@ -5871,7 +5871,7 @@
 \de Thin, scarce, sparse (e.g. hair).
 \ge scarce
 \dn 少、薄
-\gn 少/薄
+\gn 少／薄
 \df Clairsemé, à nu.
 \gf clairsemé
 \xv ʁo˧ bɻ̩˧˥
@@ -6570,7 +6570,7 @@
 \de To insult; to criticize.
 \ge to_insult/to_criticize
 \dn 骂，批评
-\gn 骂/批评
+\gn 骂／批评
 \df Insulter, maudire, se moquer; réprimander, gronder.
 \gf insulter
 \xv hĩ˧ ɕjɤ˥tʰv̩˩
@@ -6781,7 +6781,7 @@
 \de To fell (a tree); to cut into pieces (a large piece of meat); to create a breach (in a dike).
 \ge to_fell/to_cut
 \dn 砍(树)，砍（肉）
-\gn 砍/宰
+\gn 砍／宰
 \df Couper un arbre, abattre un arbre; ouvrir une brèche (dans une digue); découper (de la viande).
 \gf couper/découper
 \xv le˧-dɑ˧-ze˥
@@ -7353,8 +7353,8 @@
 \va <speaker="M23"> ID.
 \de A section of (road); a bolt of cloth.
 \ge |fg{clf}.section
-\dn 量词：路（段）/布（匹）
-\gn 量词.路/布
+\dn 量词：路（段）／布（匹）
+\gn 量词.路／布
 \df Classificateur des sections, pour objets pouvant être divisés dans le sens de la longueur. Pour une route, cette unité correspond à 1/2 journée de marche; pour du tissu, elle correspond à une pièce.
 \gf |fg{clf}.sections
 \xv ʐɤ˩mi˩˥ | ɖɯ˧-ɖæ˩
@@ -7741,7 +7741,7 @@
 \de Self-classifier for plains, and places.
 \ge |fg{clf}.plains/places
 \dn 量词：坝子、地方（一个）
-\gn 量词.坝子/地方
+\gn 量词.坝子／地方
 \df Classificateur pour les plaines, les étendues de terre, les lieux.
 \gf |fg{clf}.plaines/lieux
 \xv ɖɯ˧-v̩˧ | ɖɯ˧-di˩ hɯ˩
@@ -7895,7 +7895,7 @@
 \de To crawl, to creep.
 \ge to_crawl
 \dn 爬行，匍匐
-\gn 爬行/匍匐
+\gn 爬行／匍匐
 \df Ramper.
 \gf ramper
 \xv ɖɤ˧~ɖɤ˧ (-ze˩)
@@ -9327,7 +9327,7 @@
 \de Bad, mean (action), inferior.
 \ge bad
 \dn 坏、差、下级（行为……）
-\gn 坏/差
+\gn 坏／差
 \df Mauvais (action…), inférieur, indigne.
 \gf mauvais/indigne
 \xv ʈʂʰɯ˧-ɳɯ˧ | njɤ˧-ki˧ | dzɑ˧-ʝi˧ | ʐwæ˩˥!
@@ -9684,7 +9684,7 @@
 \nt <type="hist" print="n" langue="fra"> Ne pas confondre avec: ‘折波洼’（四川省凉山彝族自治州盐源县泸沽湖镇折波洼），经纬度：100.71575，27.81762
 \de Zzeibbo, a village in the Yongning plain. It consists of two parts, “upper" and “lower: |fv{/gɤ˩ʁwɤ˧/} and |fv{/mv̩˩ʁwɤ˧/}.
 \ge Zzeibbo_village
-\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{/gɤ˩ʁwɤ˧/}‘上村’与|fv{/mv̩˩ʁwɤ˧/}‘下村’。经纬度：100.71124，27.76531
+\dn 者波（永宁坝子的一个村落）。村落有两个部分，|fv{gɤ˩ʁwɤ˧}‘上村’与|fv{mv̩˩ʁwɤ˧}‘下村’。经纬度：100.71124，27.76531
 \gn 者波村
 \df Zzeibbo, un village de la plaine de Yongning. Il est divisé en deux parties, «du haut» et «du bas»: |fv{/gɤ˩ʁwɤ˧/} et |fv{/mv̩˩ʁwɤ˧/}.
 \gf village_de_Zzeibbo
@@ -9710,7 +9710,7 @@
 \de Bat; used for all species, including the flying squirrel.
 \ge bat
 \dn 蝙蝠、飞鼠
-\gn 蝙蝠/飞鼠
+\gn 蝙蝠／飞鼠
 \df Chauve-souris; s'emploie pour toutes les espèces, y compris le renard volant.
 \gf chauve_souris
 \xv dze˧bɤ˩-zo˩ | ɖɯ˧-ɭɯ˧
@@ -10235,7 +10235,7 @@
 \de Classifier for pairs of separable objects: a pair of pots, a pair of bottles…
 \ge |fg{clf}.packs_of_two
 \dn 量词：瓶子、锅（一对）
-\gn 量词.瓶子/锅
+\gn 量词.瓶子／锅
 \df Classificateur des lots de deux objets non indissociables; par ex.: lot de 2 casseroles; paire de haut-parleurs… Pour les paires non dissociables (ex.: paire de chaussures), on utilise: /|fv{dzi˧β}/.
 \gf |fg{clf}.lots_de_deux
 \xv zo˧mv̩˥ | ɖɯ˧-dze˩
@@ -11176,7 +11176,7 @@
 \de To pluck (fruit, weeds), to pick (vegetables).
 \ge to_pluck
 \dn 摘（果子、蔬菜）、扯(草)
-\gn 摘/扯
+\gn 摘／扯
 \df Cueillir (des fruits, des légumes); arracher (des mauvaises herbes).
 \gf cueillir/arracher
 \xv le˧-ɖʐɤ˧-po˥-jo˩!
@@ -11198,7 +11198,7 @@
 \de To snap, to cut (thread); to smash; to destroy (a building).
 \ge to_snap/to_smash
 \dn 拆（线），拔，捣碎
-\gn 拆/捣碎
+\gn 拆／捣碎
 \df Déchirer, couper (fil); briser; broyer; détruire (une maison).
 \gf briser
 \xv le˧-ɖʐɤ˩~ɖʐɤ˩
@@ -11283,7 +11283,7 @@
 \de Existential: there is someone in the toilets/at home; there are n people in the family.
 \ge |fg{exist.animated_beings}
 \dn 存在动词：有，存在着。如：某人在家或家里有几口人
-\gn 存在动词：有/在
+\gn 存在动词：有／在
 \df Existentiel pour les êtres animés (dont les personnes).
 \gf |fg{exist.êtres_animés}
 \xv mɤ˧-dʑo˩
@@ -11324,7 +11324,7 @@
 \de To possess.
 \ge |fg{exist.to_have}/to_be_there
 \dn 有，拥有
-\gn 有/拥有
+\gn 有／拥有
 \df Posséder; y avoir; avoir un objet, avoir une pensée…; autrefois, il y avait une mère et sa fille…
 \gf |fg{exist.avoir}/y_avoir
 \xv mɤ˧-dʑo˧-ze˧!
@@ -12681,7 +12681,7 @@
 \de Girdle, waistband (a large piece of fabric worn at the waist; can be used to carry a child); belt.
 \ge waistband/belt
 \dn 布带子，用来背小孩的带子，腰带
-\gn 布带子/腰带
+\gn 布带子／腰带
 \df Gaine: large ceinture en tissu, qui peut servir à porter un enfant; aussi: ceinture (terme générique).
 \gf gaine/ceinture
 \dt 24/Apr/2017
@@ -13776,7 +13776,7 @@
 \de Self-classifier for marketplaces/towns.
 \ge |fg{clf}.markets
 \dn 量词：市场（一个），城市（一个）
-\gn 量词.市场/城
+\gn 量词.市场／城
 \df Auto-classificateur des marchés/villes.
 \gf |fg{clf}.marchés/villes
 \xv ɖʐɯ˧ | ɖɯ˧-ɖʐɯ˥
@@ -14269,7 +14269,7 @@
 \pdv mi˩
 \de Sparrow (monosyllabic form; not in common use). The commonly used form is disyllabic: /|fv{ɖʐwæ˧mi˧}/.
 \ge sparrow
-\dn 麻雀（单音节词。一般用双音节词/|fv{ɖʐwæ˧mi˧}/。）
+\dn 麻雀（单音节词。一般用双音节词|fv{ɖʐwæ˧mi˧}。）
 \gn 麻雀
 \df Moineau (forme monosyllabique; n'est pas d'usage courant). La forme couramment usitée est le disyllabe /|fv{ɖʐwæ˧mi˧}/.
 \gf moineau
@@ -14704,7 +14704,7 @@
 \nt <dom="phono" langue="cmn"> 对文本中这种感叹词的例子进行系统研究，可以考察一种假设，即在感叹词|fv{õ!}和语素‘是’/|fv{ĩ˧}/之间存在一个连续体，从/|fv{ĩ˧}/到接近[|fv{ɛ̃}]的发音，再到|fv{õ}，很可能都有实例。
 \de An approving interjection. It may be an expressive distortion of ‘yes’, /|fv{ĩ˧}/. Often realized with a rising intonation, close to an MH tone.
 \ge |fg{intj}.approbation
-\dn 感叹词：赞同的插入语。可能是 “是的 ”，/|fv{ĩ˧}/，的变形。一般语调上扬，接近MH调。
+\dn 感叹词：赞同的插入语。可能是 “是的 ”，|fv{ĩ˧}，的变形。一般语调上扬，接近MH调。
 \gn 感叹词
 \df Interjection approbative. Il pourrait s'agir d'une déformation expressive de `oui',  /|fv{ĩ˧}/. Souvent réalisée avec une intonation montante, proche d'un ton MH.
 \gf |fg{intj}.approbation
@@ -15356,7 +15356,7 @@
 \de Mother. The word is also used as a term of address for maternal aunts, and for women of the mother's generation outside the household and even outside the family. Literal and extended uses of the word are distinguished, not only by context, but also by various combinations with adjectives (`little mother' and `elder mother' refer to aunts younger and older than the mother, respectively) or with a family name or given name.
 \ge mother/aunt
 \dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
-\gn 母亲/姑母
+\gn 母亲／姑母
 \df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel…
 \gf mère/tante
 \xv ə˧mi˧=ɻæ˩
@@ -15479,7 +15479,7 @@
 \de Elder sibling (brother or sister). The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \ge elder_sibling
 \dn 哥哥，姐姐。该词也用于指比自己年龄大的母亲姐妹的孩子们。
-\gn 哥哥/姐姐
+\gn 哥哥／姐姐
 \df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
 
@@ -15504,7 +15504,7 @@
 \de Elder sibling (brother or sister). The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \ge elder_sibling
 \dn 哥哥，姐姐。该词也用于指比自己年龄大的母亲姐妹的孩子们。
-\gn 哥哥/姐姐
+\gn 哥哥／姐姐
 \df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
 \xv æ˧mv̩˩=ɻæ˩
@@ -16858,7 +16858,7 @@
 \de To fall (snow, rain), to snow/to rain.
 \ge to_fall(snow/rain)
 \dn 下（雨，雪）
-\gn 下（雨/雪）
+\gn 下（雨／雪）
 \df Tomber (neige, pluie), neiger, pleuvoir.
 \gf tomber(neige/pluie)
 \xv bi˧ gi˧.
@@ -18828,7 +18828,7 @@
 \de To repair; to make (a tool, a machine…).
 \ge to_repair/to_make
 \dn 修理、做出来（工具）
-\gn 修理/做出来
+\gn 修理／做出来
 \df Fabriquer ou réparer (un outil).
 \gf fabriquer/réparer
 \xv le˧-gv̩˧~gv̩˥
@@ -19127,7 +19127,7 @@
 \de To cut (with a blade: sword…), e.g. to cut cloth (to make clothes).
 \ge to_cut
 \dn 切，裁
-\gn 切/裁
+\gn 切／裁
 \df Trancher, couper au moyen d'un instrument tranchant: couteau, épée…; ex.: tailler un vêtement.
 \gf trancher
 \xv le˧-hæ̃˧-ze˥
@@ -20330,7 +20330,7 @@
 \de Lake (monosyllabic word).
 \ge lake
 \dn 湖、海（单音节）
-\gn 湖/海
+\gn 湖／海
 \df Lac (monosyllabe).
 \gf lac(monosyll.)
 \xv hi˩˥ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
@@ -21829,7 +21829,7 @@
 \de Correct; suitable, appropriate.
 \ge correct
 \dn 准确，合适
-\gn 准确/合适
+\gn 准确／合适
 \df Exact, correct; adapté, convenable.
 \gf correct
 \xv mɤ˧-ho˩
@@ -24306,7 +24306,7 @@
 \de Kunming, and the Eastern part of the province of Yunnan.
 \ge Kunming/Yunnan
 \dn 云南，昆明……
-\gn 云南/昆明
+\gn 云南／昆明
 \df Kunming et la partie orientale du Yunnan, une fois passés Lijiang et Dali.
 \gf Kunming/Yunnan
 \xv sɯ˧pʰi˧ | ʝi˩næ˩-se˧-qo˧ hɯ˧-ɲi˥!
@@ -25238,7 +25238,7 @@
 \pdv kɤ˧˥
 \de Buckwheat, |fi{Fagopyrum esculentum}.
 \ge buckwheat
-\dn 甜荞/荞麦/花荞
+\dn 甜荞／荞麦／花荞
 \gn 甜荞
 \df Sarrasin, blé noir, |fi{Fagopyrum esculentum}.
 \gf sarrasin
@@ -25878,7 +25878,7 @@
 \so F4
 \de Classifier used for women, and for some female domestic animals; it does not carry any hint of deprecation, nor does it convey any hint of respect by itself.
 \ge |fg{clf}.females
-\dn 量词：母性、雌性（人或动物）（一个/一只）
+\dn 量词：母性、雌性（人或动物）（一个／一只）
 \gn 量词.母性
 \df Classificateur des créatures femelles; employé pour les personnes de sexe féminin (appellation qui ne marque pas de respect, mais n'est pas injurieuse), et pour certains animaux domestiques.
 \gf |fg{clf}.femelles
@@ -25896,7 +25896,7 @@
 \de Classifier for dough balls and teacakes. One dough ball is the quantity of dough that can be prepared with one egg. Tea consumed in the Yongning area in the first half of the 20th century was green tea from a large leaf variety of Camellia sinensis (C. sinensis assamica) found in the mountains of southern Yunnan; it used to be pressed into ‘teacake' shape.
 \ge |fg{clf}.balls/cakes
 \dn 量词：面（一团），茶饼（一个）等。(一团面，是和了一个鸡蛋的面团的量。）
-\gn 量词.面团/茶并
+\gn 量词.面团／茶并
 \df Classificateur pour la pâte à pain: quantité de pâte aux œufs que l'on peut préparer avec un œuf. Ce classificateur est également utilisé pour le thé tassé en galettes.
 \gf |fg{clf}.boules/galettes
 \xv æ˩ʁv̩˩-pɤ˥jɤ˩ | ɖɯ˧-jɤ˧˥
@@ -25998,7 +25998,7 @@
 \de To separate, to take apart (e.g. to separate fibers of linen to make thread; to split lumber into planks).
 \ge to_separate
 \dn 拆开、分离（几根线），划开（木根成木板）
-\gn 拆开/分离
+\gn 拆开／分离
 \df Séparer, défaire (des fibres de lin: on sépare les fibres pour faire du fil), débiter (débiter une grume en planches).
 \gf séparer
 \xv sɑ˧ | le˧-kʰi˥
@@ -27634,7 +27634,7 @@
 \de To tap, to knock, to poke: for example, tapping a sofa to remove crumbs and dust.
 \ge to_tap
 \dn 敲击、拍：例如，敲击沙发以清除碎屑和灰尘。
-\gn 敲/拍
+\gn 敲／拍
 \df Tapoter: par exemple donner de petits coups sur un canapé afin d'en chasser les miettes et poussières.
 \gf tapoter
 \xv kʰi˧ kɤ˥~kɤ˩
@@ -27814,7 +27814,7 @@
 \de To allow; to let; to cause (causative value).
 \ge to_allow/|fg{caus}
 \dn 让，使动
-\gn 让/使动
+\gn 让／使动
 \df Autoriser; a aussi valeur causative, mais ce causatif issu du verbe ‘mettre’ paraît avoir un sens plus proche de ‘laisser’: par exemple ‘laisser sécher au soleil’ plutôt que ‘faire sécher au soleil’.
 \gf autoriser/|fg{caus}
 \xv kʰv̩˩mi˩ zɯ˩~zɯ˩˥, | le˧-ɖæ˥-kʰɯ˩! | hĩ˧-zɯ˧~zɯ˥, | le˧-ʂæ˧-kʰɯ˥!
@@ -27884,7 +27884,7 @@
 \de To throw.
 \ge to_throw
 \dn 甩、扔（石头）
-\gn 甩/扔
+\gn 甩／扔
 \df Lancer, jeter.
 \gf lancer
 \xv le˧-kʰɯ˧-ze˥
@@ -27961,7 +27961,7 @@
 \de Classifier for threads.
 \ge |fg{clf}.threads
 \dn 量词：线（一根、一条）
-\gn 量词.根/条
+\gn 量词.根／条
 \df Brin (d'herbe, de fil, de ficelle…).
 \gf |fg{clf}.brins
 \xv kʰɯ˧ | ɖɯ˧-kʰɯ˩
@@ -28294,7 +28294,7 @@
 \de Leg; foot.
 \ge leg/foot
 \dn 腿，脚
-\gn 腿/脚
+\gn 腿／脚
 \df Jambe; pied.
 \gf jambe/pied
 
@@ -29663,7 +29663,7 @@
 \de To pick up (from the ground), to gather.
 \ge to_gather
 \dn 捡起来，拾
-\gn 捡起来/拾
+\gn 捡起来／拾
 \df Ramasser; cueillir (des baies, des choses qu'on se baisse pour cueillir).
 \gf cueillir
 \xv kv̩˧~kv̩˥
@@ -29984,7 +29984,7 @@
 \de Jug; jar; pitcher; also: treasure, valuable possession.
 \ge jug/treasure
 \dn 坛子、罐子 (陶器)，宝贝
-\gn 坛子/宝贝
+\gn 坛子／宝贝
 \df Jarre; trésor, objet de grande valeur.
 \gf jarre/trésor
 \xv ʈʂʰɯ˧ | njɤ˧ kwɤ˧ɭɯ˩ ɲi˩!
@@ -32903,7 +32903,7 @@
 \de Self-classifier for tasks/occupations.
 \ge |fg{clf}.tasks
 \dn 量词：事情（一件）、活（一个）
-\gn 量词.事情/活
+\gn 量词.事情／活
 \df Auto-classificateur des travaux/occupations.
 \gf |fg{clf}.travaux
 \dt 24/Apr/2017
@@ -32920,7 +32920,7 @@
 \de Suspended bridge; zip line, flying fox.
 \ge suspended_bridge/zip_line
 \dn 索桥，溜索
-\gn 索桥/溜索
+\gn 索桥／溜索
 \df Pont suspendu; pont de corde. La corde du pont suspendu aurait été faite d'écorces d'arbres, non de chanvre, car les cordes en chanvre se détériorent rapidement quand elles sont exposées à la pluie.
 \gf pont_suspendu/pont_de_corde
 
@@ -34138,7 +34138,7 @@
 \de Originally a classifier for round objects: grains, bowls… Now a generic classifier.
 \ge |fg{clf}.generic
 \dn 最常用的量词，相当于汉语中‘个’的用法。本意是圆形颗粒。一粒（米……），一个（碗……），件（衣服……）
-\gn 量词.粒/个
+\gn 量词.粒／个
 \df Classificateur générique; à l'origine, classificateur pour les objets ronds (graines et fruits, bols…), à l'emploi maintenant élargi.
 \gf |fg{clf}.générique
 \xv ɕi˧ ɖɯ˧-ɭɯ˧ |
@@ -34367,7 +34367,7 @@
 \de To wind, to coil, to wrap.
 \ge to_wind/to_wrap
 \dn 缠（线……）、裹（毡子……）
-\gn 缠/裹
+\gn 缠／裹
 \df Enrouler (du fil); emballer.
 \gf enrouler
 
@@ -34389,7 +34389,7 @@
 \de To wind, to coil, to wrap.
 \ge to_wind/to_wrap
 \dn 缠（线……）、裹（毡子……）
-\gn 缠/裹
+\gn 缠／裹
 \df Enrouler (du fil); emballer.
 \gf enrouler
 \xv le˧-qo˥-lv̩˩
@@ -35689,7 +35689,7 @@
 \pdv kʰwɤ˥α
 \de Origin, distant cause, remote cause.
 \ge origin/cause
-\dn 来历、发源地、深层原因/来源、来龙去脉、脉络
+\dn 来历、发源地、深层原因／来源、来龙去脉、脉络
 \gn 来历
 \df Origine, cause (lointaine).
 \gf origine/cause
@@ -35719,7 +35719,7 @@
 \de To aim at; to point at.
 \ge to_aim_at/to_point_at
 \dn 瞄准，指
-\gn 瞄准/指
+\gn 瞄准／指
 \df Viser; pointer, montrer du doigt.
 \gf viser/pointer
 \xv tʰi˧-mæ˩-ze˩, | qʰæ˧-bi˥-ze˩.
@@ -36299,7 +36299,7 @@
 \de To ask for.
 \ge to_ask_for
 \dn 请求、要，讨饭
-\gn 要/讨饭
+\gn 要／讨饭
 \df Demander, quémander.
 \gf demander
 \xv hɑ˧ mi˥
@@ -36780,7 +36780,7 @@
 \de Steamed bun.
 \ge steamed_bun
 \dn 馒头、包子
-\gn 馒头/包子
+\gn 馒头／包子
 \df Petits pains (pouvant contenir de la farine de maïs; mais surtout farine de blé) cuits à la vapeur.
 \gf petits_pains
 \xv mo˧mo˥ | le˧-bv̩˩
@@ -36931,7 +36931,7 @@
 \de Fond of food; voracious (can range from neutral uses to clearly negative uses).
 \ge voracious
 \dn 胃口好，或：贪吃
-\gn 胃口好/贪吃
+\gn 胃口好／贪吃
 \df Qui a bon appétit, qui a un solide appétit; gourmand, vorace (peut être neutre, ou franchement négatif).
 \gf gourmand/vorace
 
@@ -37909,7 +37909,7 @@
 \va <speaker="M21"> ID.
 \de Year of the Dragon. Literally ‘Year of Thunder’. The Narua (Moso) term for ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, is used to refer to the Chinese year of the Snake.
 \ge year_of_the_Dragon
-\dn 龙年。字面意思是‘雷年’。摩梭语的‘龙’，即/|fv{bv̩˧ʐv̩˧}/，用于指中国的蛇年。
+\dn 龙年。字面意思是‘雷年’。摩梭语的‘龙’，即|fv{bv̩˧ʐv̩˧}，用于指中国的蛇年。
 \gn 龙年
 \df Année du Dragon. Littéralement ‘Année du tonnerre’. Le terme moso ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, est employé pour désigner l'année chinoise du Serpent.
 \gf année_du_Dragon
@@ -38166,7 +38166,7 @@
 \de To forget.
 \ge to_forget
 \dn 忘记、落下
-\gn 忘记/落下
+\gn 忘记／落下
 \df Oublier.
 \gf oublier
 \xv mv̩˩pʰæ˧-ze˥
@@ -39677,7 +39677,7 @@
 \vc <langue="fra" print="n"> +ze˩
 \de Dark (at twilight, dusk).
 \ge dark
-\dn 暗（黄昏/暮的时候，天变暗）
+\dn 暗（黄昏／暮的时候，天变暗）
 \gn 暗
 \df Sombre (au crépuscule, il se met à faire sombre).
 \gf sombre
@@ -39857,7 +39857,7 @@
 \de Difficulties, complications, hardship, overwork, great fatigue.
 \ge hardship
 \dn 受累、劳累、辛苦、困难、艰难、艰苦
-\gn 艰难/艰苦
+\gn 艰难／艰苦
 \df Épuisement, misère, difficultés.
 \gf épuisement/misère
 \xv nɑ˧mi˧ tʰv̩˧!
@@ -40117,7 +40117,7 @@
 \so F4
 \de Second person plural. This is a variant of |fv{/no˧=ɻ̩˩/}; the form |fv{/no˧=ɻ̩˩/} is considered more correct.
 \ge |fg{2pl.associative}
-\dn 联想复数：你们。这是|fv{/no˧=ɻ̩˩/}的一个变体。|fv{/no˧=ɻ̩˩/}被认为是更标准的。
+\dn 联想复数：你们。这是|fv{no˧=ɻ̩˩}的一个变体。|fv{no˧=ɻ̩˩}被认为是更标准的。
 \gn 你们
 \df Deuxième personne du pluriel associatif: vous autres. Variante de |fv{/no˧=ɻ̩˩/}; la forme |fv{/no˧=ɻ̩˩/} est jugée plus correcte.
 \gf |fg{2pl.associatif}
@@ -40496,7 +40496,7 @@
 \de Rope attached to a cow's nasal ring.
 \ge nose_rope/nasal_ring
 \dn 牛鼻绳。也可以来指牛鼻圈。
-\gn 牛鼻绳/牛鼻圈
+\gn 牛鼻绳／牛鼻圈
 \df Corde accrochée à l'anneau nasal, longe de vache; aussi utilisé par extension pour l'anneau nasal, pour lequel aucun terme propre n'existe.
 \gf longe/anneau_nasal
 \dt 25/Apr/2017
@@ -40619,7 +40619,7 @@
 \de Day; daytime; time.
 \ge day/time
 \dn 日、时间
-\gn 日/时间
+\gn 日／时间
 \df La journée; le temps.
 \gf journée/temps
 \dt 09/Sep/2015
@@ -42147,7 +42147,7 @@
 \de A plant used as fodder for the pigs.
 \ge pig_fodder
 \dn 灰条菜、灰灰菜：喂猪的牧草
-\gn 灰条菜/灰灰菜
+\gn 灰条菜／灰灰菜
 \gr 灰凋
 \df Sorte de fourrage pour les cochons.
 \gf fourrage_pour_cochons
@@ -42339,7 +42339,7 @@
 \de A plant used as fodder for the pigs, |fi{Chenopodium album}.
 \ge pig_fodder
 \dn 灰条菜、灰灰菜：喂猪的牧草
-\gn 灰条菜/灰灰菜
+\gn 灰条菜／灰灰菜
 \gr 灰凋
 \df Sorte de fourrage pour les cochons, |fi{Chenopodium album}. (Il y a en tout trois sortes de fourrage pour les cochons.)
 \gf fourrage_pour_cochons
@@ -44300,7 +44300,7 @@
 \de To exceed; to let slip.
 \ge to_let_slip
 \dn 超过，错过
-\gn 超过/错过
+\gn 超过／错过
 \df Dépasser, outrepasser; laisser passer (une occasion).
 \gf outrepasser/laisser_passer
 \xv pæ˧˥ ◊ -kʰɯ˩-pi˩, | mɤ˧-tsɤ˧! |
@@ -45033,7 +45033,7 @@
 \pdc <langue="fra"> paire
 \de Sandal.
 \ge 皮鞋::sandal
-\dn 凉鞋。西南官话借词：第一个音节：皮，第二个音节：不明确，同|fv{/tɕæ˧hæ˩/}。
+\dn 凉鞋。西南官话借词：第一个音节：皮，第二个音节：不明确，同|fv{tɕæ˧hæ˩}。
 \gn 凉鞋
 \df Sandale.
 \gf 皮鞋::sandale
@@ -46781,7 +46781,7 @@
 \de Classifier for plants with a stalk; also used for pieces of clothing.
 \ge |fg{clf}.plants_with_stems
 \dn 量词：有根的植物，衣服（一棵，一件）
-\gn 量词.植物/衣服
+\gn 量词.植物／衣服
 \df Classificateur des plantes à tiges (fleurs, poireaux…); aussi utilisé pour compter les types/catégories de vêtements.
 \gf |fg{clf}.plantes_à_tige
 \dt 27/Apr/2017
@@ -48051,7 +48051,7 @@
 \de To allow, to authorize (someone to do something, e.g. to marry); to finance (i.e. to invest money in a caravan); to require (someone to do something).
 \ge to_allow/to_require
 \dn 让，安排，投资，要求
-\gn 让/安排
+\gn 让／安排
 \df Autoriser (ex.: un mariage); demander (à quelqu'un de faire quelque chose), faire faire; commanditer, être commanditaire/investisseur (ex.: pour une caravane).
 \gf autoriser/demander
 \xv sɯ˧pʰi˧-ɳɯ˧ | pɻ̩˩-kʰɯ˥-ɲi˩!
@@ -49828,7 +49828,7 @@
 \de Very, extremely.
 \ge extremely
 \dn 多么、非常
-\gn 多么/非常
+\gn 多么／非常
 \df Particulièrement, très.
 \gf particulièrement
 \xv qʰɑ˧-ɖɯ˧-hĩ˧
@@ -50475,7 +50475,7 @@
 \de To put away, to preserve (e.g. to put leftovers in a box so flies won't land on it).
 \ge to_put_away
 \dn 放、储存
-\gn 放/储存
+\gn 放／储存
 \df Garder, serrer, ranger (de la nourriture dans un récipient à l'abri des mouches).
 \gf garder/ranger
 \dt 01/Oct/2015
@@ -51627,7 +51627,7 @@
 \de Message, information (extended meaning: letter).
 \ge message/information
 \dn 口信， 信息
-\gn 口信/信息
+\gn 口信／信息
 \df Message, information (d'où: lettre).
 \gf message/information
 \xv qʰwæ˧mi˧ ʝi˧
@@ -53371,7 +53371,7 @@
 \de To fall apart, to scatter, to melt (e.g. clods of dry earth melting in water when a field is irrigated after ploughing).
 \ge to_dissolve
 \dn 散、散开，化，溶化（一块土在水里面散开）
-\gn 溶化/散开
+\gn 溶化／散开
 \df Se défaire, fondre, se dissoudre: une motte de terre plongée dans l'eau se défait.
 \gf fondre/se_dissoudre
 \xv le˧-ʁæ˩-ze˩
@@ -54244,7 +54244,7 @@
 \so F4
 \de Sandalwood, sandlewood. Same meaning as /|fv{ʁo˩kʰv̩˩}/, with addition of the word for `wood', /|fv{si˥}/.
 \ge sandalwood
-\dn 香木（与/|fv{ʁo˩kʰv̩˩}/含义相同，但增加了‘木’这个名词：/|fv{si˥}/）。
+\dn 香木（与|fv{ʁo˩kʰv̩˩}含义相同，但增加了‘木’这个名词：fv{si˥}）。
 \gn 香木
 \gr 柏香
 \df Arbre à épice, arbre à encens de petite taille, qui pousse en montagne, dans les espaces ombragés. Même sens que /|fv{ʁo˩kʰv̩˩}/, avec l'ajout du nom `bois', /|fv{si˥}/.
@@ -54384,7 +54384,7 @@
 \de King; high official; chief.
 \ge king/chief
 \dn 国王、大臣、头领
-\gn 国王/头领
+\gn 国王／头领
 \df Roi; haut dignitaire, grand mandarin; chef.
 \gf roi
 \xv ʁo˧mi˧ ʝi˧-hĩ˧ hĩ˧
@@ -54426,7 +54426,7 @@
 \pdv bo˩
 \de Braided yarn headdress. It makes up a set with |fv{/ʁo˧kɤ˩/}.
 \ge headdress
-\dn 用来将长辫缠成盘头的黑色丝头饰。与|fv{/ʁo˧kɤ˩/}一起形成一套。
+\dn 用来将长辫缠成盘头的黑色丝头饰。与|fv{ʁo˧kɤ˩}一起形成一套。
 \gn 用来将长辫缠成盘头的黑色丝头饰
 \df Coiffe en fils tressés. Elle forme un ensemble avec |fv{/ʁo˧kɤ˩/}.
 \gf coiffe_en_fils_tressés
@@ -54480,7 +54480,7 @@
 \de To intercept (bandits intercept a caravan), to attack on the road.
 \ge to_intercept
 \dn 阻截、在路上攻击
-\gn 阻截/攻击
+\gn 阻截／攻击
 \df Intercepter, attaquer en route (des brigands attaquent une caravane).
 \gf intercepter/attaquer
 \sn 3
@@ -55384,7 +55384,7 @@
 \de Village, hamlet.
 \ge village/hamlet
 \dn 村寨，村落
-\gn 村寨/村落
+\gn 村寨／村落
 \df Village, hameau.
 \gf village/hameau
 \xv ʁwɤ˧-qo˧
@@ -56257,7 +56257,7 @@
 \de Hemp, |fi{Cannabis sativa}.
 \ge hemp
 \dn 火麻、胡麻
-\gn 火麻/胡麻
+\gn 火麻／胡麻
 \df Chanvre, |fi{Cannabis sativa}, plante textile.
 \gf chanvre
 \dt 05/Oct/2015
@@ -57084,7 +57084,7 @@
 \de Necklace; chain.
 \ge necklace/chain
 \dn 项圈、项链，锁链
-\gn 项圈/锁链
+\gn 项圈／锁链
 \df Collier; chaîne.
 \gf collier/chaîne
 \xv ŋv̩˩-ʂe˩bæ˥
@@ -57996,7 +57996,7 @@
 \de To shave (the beard or the head); to scrub (e.g. to scrub earth off vegetables).
 \ge to_shave/to_scrub
 \dn 剔，刮
-\gn 剔/刮
+\gn 剔／刮
 \df Raser (la barbe); gratter (la terre collée à un champignon).
 \gf raser/gratter
 \xv mo˧ si˥
@@ -59160,7 +59160,7 @@
 \de Afterwards; later; from now on.
 \ge afterwards/from_now_on
 \dn 后来、以后，从此以后
-\gn 以后/从此以后
+\gn 以后／从此以后
 \df Ensuite; par la suite; à partir de maintenant, désormais, dorénavant.
 \gf ensuite/désormais
 
@@ -60886,7 +60886,7 @@
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
 \dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984: 31sq））。汉语音译：‘斯日’。
-\gn 家庭社区/支系
+\gn 家庭社区／支系
 \df Communauté familiale (traduction proposée dans l'article de Fu Maoji (1983:24)). Il s'agit d'un échelon inférieur au «clan» («os») et supérieur à la famille (|fv{ʑi˧dv̩}). Cette unité familiale (lignée) comptait entre 50 et 100 membres, d'après les décomptes effectués dans la deuxième moitié du XXe siècle: voir Yan et al. (1984: 31sq).
 \gf communauté_familiale
 \xv sɯ˧zɯ˧ ɖɯ˧-lo˩
@@ -62000,7 +62000,7 @@
 \de To bite; to sting.
 \ge to_bite
 \dn 咬、叮
-\gn 咬/叮
+\gn 咬／叮
 \df Mordre (mordre à belles dents dans quelque chose); piquer (une abeille pique quelqu'un).
 \gf mordre/piquer
 \xv tso˧~tso˧ ʈʰæ˩
@@ -62047,7 +62047,7 @@
 \de Buddhist monk, lama, Buddhist nun.
 \ge monk
 \dn 和尚，尼姑
-\gn 和尚/尼姑
+\gn 和尚／尼姑
 \df Moine bouddhiste, nonne bouddhiste.
 \gf moine/nonne
 \xv ʈæ˧bɤ˧ ʝi˧-hĩ˧ hĩ˧
@@ -62938,7 +62938,7 @@
 \de Oesophagus; Adam's apple.
 \ge oesophagus
 \dn 喉管、喉结
-\gn 喉管/喉结
+\gn 喉管／喉结
 \df Pomme d'Adam; larynx, gorge, oesophage.
 \gf pomme_d_Adam
 \dt 16/Jun/2017
@@ -63175,7 +63175,7 @@
 \de Class, group, set (of monks).
 \ge group/class
 \dn 班、小组
-\gn 班/小组
+\gn 班／小组
 \df Classe, groupe, ensemble (de prêtres).
 \gf classe/groupe
 \xv ʈæ˩tsʰo˧ | ɖɯ˧-ɭɯ˧
@@ -66162,7 +66162,7 @@
 \de To keep a deathwatch, to sit with others at a funeral wake.
 \ge to_keep_a_deathwatch
 \dn 居丧、守灵
-\gn 居丧/守灵
+\gn 居丧／守灵
 \df Veiller un défunt, lors d'une veillée funèbre.
 \gf veiller_un_défunt
 \xv hĩ˧ tɕʰɯ˧
@@ -68120,7 +68120,7 @@
 \de To pull.
 \ge to_pull
 \dn 拉、拽
-\gn 拉/拽
+\gn 拉／拽
 \df Tirer.
 \gf tirer
 \xv tso˧~tso˧ ʈɤ˩(-ze˩)
@@ -68324,7 +68324,7 @@
 \de To kick, to smash (clods of earth).
 \ge to_kick/to_smash
 \dn 打碎（坷拉），踢（一脚）
-\gn 踢/打碎
+\gn 踢／打碎
 \df Donner un coup de pied; briser (les mottes de terre, après le labour, avec une bêche, ou une masse en bois).
 \gf frapper_du_pied/briser
 \xv le˧-tsɑ˧-ze˥
@@ -68603,7 +68603,7 @@
 \de Powder; flour.
 \ge powder/flour
 \dn 糌粑、面粉、粉、粉末
-\gn 面粉/粉末
+\gn 面粉／粉末
 \df Poudre; farine.
 \gf poudre/farine
 \xv qʰɑ˧dze˧-tsɑ˩bɤ˩
@@ -68715,7 +68715,7 @@
 \de Container in which butter-tea is mixed; also: butter churn.
 \ge butter_tea_churn/butter_churn
 \dn 打酥油茶的罐、酥油茶搅拌器，黄油搅乳器
-\gn 酥油茶搅拌器/黄油搅乳器
+\gn 酥油茶搅拌器／黄油搅乳器
 \df Récipient dans lequel on bat le thé au beurre (tube-baratte en bois); aussi: grande baratte pour baratter le beurre.
 \gf baratte
 
@@ -69293,7 +69293,7 @@
 \de Solid, of good quality.
 \ge solid/reliable
 \dn 结实、质量好，（东西）耐用，（人）可靠
-\gn 结实/可靠
+\gn 结实／可靠
 \df Solide, de bonne qualité, résistant (vêtement, outil, objet…).
 \gf solide/fiable
 \xv ə˧mɑ˧ | nv̩˩mi˩˥ | ʈʂʰæ˧~ʈʂʰæ˧!
@@ -70645,7 +70645,7 @@
 \de Hot; scalding.
 \ge hot/scalding
 \dn 热，烫
-\gn 热/烫
+\gn 热／烫
 \df Chaud.
 \gf chaud
 \xv tsʰi˧-zo˩ | mɤ˧-tʰɑ˧˥!
@@ -72078,7 +72078,7 @@
 \de Tool; thing, object.
 \ge tool/thing
 \dn 东西，工具
-\gn 东西/工具
+\gn 东西／工具
 \df Outil; chose, objet, truc.
 \gf outil/objet
 \dt 29/Jul/2017
@@ -72238,11 +72238,11 @@
 \va <speaker="F4"> tsʰo˧pi˧
 \vc <langue="fra" print="n"> ton d1; voyelle vérifiée
 \pdv ɭɯ˧β
-\de Soap. Presumably borrowed from a language of Burma: compare Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fv{læ˩pʰæ˩-læ˥dzi˩} and |fv{/ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
+\de Soap. Presumably borrowed from a language of Burma: compare Nung /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [Dai 1992], Luxi Achang and Lianghe Achang /|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/ [Dai 1985], Longchuan Achang /|fv{tsʰaw³¹ piaw³¹}/ [Dai 1992]. Culturally, it is not unlikely that soap was first introduced through contact/commerce with ethnic groups of Burma. The use of soap in Yongning quickly became widespread after contact with the soldiers of the People's Liberation Army stationed in the monastery, who used soap to wash their clothes by the stream. Previously, two types of plant were used, |fo{laepaelaezzee} |fv{læ˩pʰæ˩-læ˥dzi˩} and |fo{leeq} /|fv{ɭɯ˩}, which were crushed and boiled; the resulting liquid was used to wash clothes.
 \ge soap
-\dn 肥皂。很可能借自缅甸的一种语言：如侬语 /|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}/ [戴庆厦1992]，潞西、梁河阿昌语/|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}/[戴庆厦1985]，陇川阿昌族 /|fv{tsʰaw³¹ piaw³¹}/ [戴庆厦1992]。从文化上看，肥皂最初是通过与缅甸少数民族的接触/贸易传入的，这一点并非不可能。驻扎在扎美寺院里的人民解放军士兵用肥皂在溪边洗衣服，在与他们接触后，肥皂在永宁的使用迅速普及。以前，摩梭人使用两种植物：|fv{læ˩pʰæ˩-læ˥dzi˩}和|fv{/ɭɯ˩}，将其捣碎并煮沸，所得液体用来洗衣服。
+\dn 肥皂。很可能借自缅甸的一种语言：如侬语|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}[戴庆厦1992]，潞西、梁河阿昌语|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}[戴庆厦1985]，陇川阿昌族|fv{tsʰaw³¹ piaw³¹}[戴庆厦1992]。从文化上看，肥皂最初是通过与缅甸少数民族的接触／贸易传入的，这一点并非不可能。驻扎在扎美寺院里的人民解放军士兵用肥皂在溪边洗衣服，在与他们接触后，肥皂在永宁的使用迅速普及。以前，摩梭人使用两种植物：|fv{læ˩pʰæ˩-læ˥dzi˩}和|fv{ɭɯ˩}，将其捣碎并煮沸，所得液体用来洗衣服。
 \gn 肥皂
-\df Savon. Sans doute mot emprunté à une langue de Birmanie. À rapprocher de |fv{tsʰɑ³¹ pi⁵⁵ jɔ⁵⁵} en nung [Dai 1992], |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} en achang de Luxi et Lianghe [Dai 1985], |fv{tsʰaw³¹ piaw³¹} en achang de Longchuan [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et |fv{/ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
+\df Savon. Sans doute mot emprunté à une langue de Birmanie. À rapprocher de |fv{tsʰɑ³¹ pi⁵⁵ jɔ⁵⁵} en nung [Dai 1992], |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} en achang de Luxi et Lianghe [Dai 1985], |fv{tsʰaw³¹ piaw³¹} en achang de Longchuan [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et leeq |fv{ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
 \gf savon
 
 \lx tsɤ˩pʰv̩˧-tsɤ˥li˩
@@ -72319,7 +72319,7 @@
 \de Porch, enclosed porch, vestibule: a narrow area between the door and the courtyard, covered by the roof (and hence sheltered from rain), and, in some houses, shut off from the coutyard by a wall with one door approximately in the middle. This porch is the area that one reaches when crossing the threshold, coming out from the main room. In the main consultant's house, where the porch is not enclosed, it is exposed to sunshine until the afternoon, and tasks such as chopping vegetables are carried out sitting in this area.
 \ge porch/vestibule
 \dn 玄关、门厅
-\gn 玄关/门厅
+\gn 玄关／门厅
 \df Porche, vestibule: espace situé entre la cour et la pièce principale, c'est-à-dire l'espace, protégé de la pluie par la toiture, où l'on parvient lorsqu'on passe le seuil en sortant de la pièce principale. Dans certaines maisons, ce porche est séparé de la cour par une cloison de bois, percée d'une porte à peu près au milieu de sa longueur.
 \gf porche/vestibule
 \dt 27/Apr/2017
@@ -72564,7 +72564,7 @@
 \de Onion; leek.
 \ge 葱子::leek/onion
 \dn 葱，韭葱
-\gn 葱/韭葱
+\gn 葱／韭葱
 \df Poireau, oignon.
 \gf 葱子::poireau/oignon
 \dt 07/Oct/2015
@@ -72633,7 +72633,7 @@
 \de Love child.
 \ge love_child
 \dn 私生子：没有名分的孩子、不明来路
-\gn 没有名分的孩子/私生子
+\gn 没有名分的孩子／私生子
 \df Enfant naturel.
 \gf enfant_naturel
 \xv ə˧dɑ˥ | ɲi˩-ɲi˥ | mɤ˧-sɯ˥ | ʈʂʰɯ˧-v̩˧, | ʈʂʰɤ˧zo˥-ʈʂʰɤ˩mv̩˩ mv̩˩ʈʂæ˩.
@@ -73210,7 +73210,7 @@
 \de Classifier for handfuls / balls: loose substance shaped into ball form by compressing it in the hand, for instance a handful of cooked cereals.
 \ge |fg{clf}.handfuls/balls
 \dn 量词：团，掐。指的是一只手里能拿的量，压成团，如：手里拿煮熟的粮食，压成饭团。
-\gn 量词.掐/团
+\gn 量词.掐／团
 \df Classificateur des boules/poignées: la quantité que l'on compacte en la serrant dans une main, par exemple une poignée de céréale cuite qu'on compresse en boule.
 \gf |fg{clf}.poignées/boules
 \dt 27/Apr/2017
@@ -75109,7 +75109,7 @@
 \de Classifier for journeys.
 \ge |fg{clf}.journeys
 \dn 量词：征途、路程、路途、征程，趟
-\gn 量词.征途/趟
+\gn 量词.征途／趟
 \df Classificateur des trajets.
 \gf |fg{clf}.trajets
 \xv ɖɯ˧-ɲi˥ | ɖɯ˧-ʈʂwæ˧ bi˧
@@ -75615,7 +75615,7 @@
 \de To set in place.
 \ge to_set_in_place
 \dn 安装、摆好
-\gn 安装/摆好
+\gn 安装／摆好
 \df Mettre en place, installer à sa juste place.
 \gf mettre_en_place
 \xv ʂe˧kʰɯ˧ tʰi˧-ʈɯ˧˥, | v̩˧ | tʰi˧-ʈɯ˧
@@ -76561,7 +76561,7 @@
 \de To create; to found.
 \ge to_create/to_found
 \dn 建立、创造、制造出来
-\gn 建立/创造
+\gn 建立／创造
 \df Créer, fonder; se trouver, se fabriquer.
 \gf créer/fonder
 \xv ʑi˩ tʰv̩˩
@@ -77493,7 +77493,7 @@
 \de Again; also.
 \ge again
 \dn 又，再
-\gn 又/再
+\gn 又／再
 \df À nouveau, encore; aussi.
 \gf à_nouveau
 \xv wɤ˩˥ | ɖɯ˧-ʂɯ˩
@@ -77792,7 +77792,7 @@
 \so F4
 \de Sound of footsteps in a swamp: splash, splash / plop, plop
 \ge |fg{ideo}_splash
-\dn 形声词：沼泽中的脚步声：噗通，噗通！/扑通，扑通！
+\dn 形声词：沼泽中的脚步声：噗通，噗通！／扑通，扑通！
 \gn 噗通噗通
 \df Bruit de pas dans un marécage: plof, plof!
 \gf |fg{ideo}_plof
@@ -78490,7 +78490,7 @@
 \de Which; which kind.
 \ge which
 \dn 哪，哪个 (哪个碗)，哪一种
-\gn 哪/哪种
+\gn 哪／哪种
 \df Quelle sorte de, lequel.
 \gf lequel
 \xv ze˩bæ˧ ɲi˥?
@@ -79899,7 +79899,7 @@
 \de Infertile, sterile. The phrase is used for the pianniu (hybrid of yak and cattle), which is infertile.
 \ge infertile/pianniu
 \dn “不能生育的”。来指犏牛（牦牛和牛的杂交种）：犏牛是一种不能生育的动物。
-\gn 不能生育的/犏牛
+\gn 不能生育的／犏牛
 \df Stérile, infertile. Pianniu, pienniu, dzo, zopiok (mâle ou femelle). L'expression est utilisée pour désigner le pianniu (hybride de yak et de bovin), qui est infertile.
 \gf infertile/pianniu
 
@@ -82086,8 +82086,8 @@
 \so F4
 \de Nominalizer; locative or purposive.
 \ge |fg{nmlz}/|fg{loc}/purp
-\dn 名物化/处所格/目的格
-\gn 名物化/处所格/目的格
+\dn 名物化／处所格／目的格
+\gn 名物化／处所格／目的格
 \df Nominalisateur; locatif; purposif.
 \gf |fg{nmlz}/|fg{loc}/purp
 \xv tso˧~tso˧-tɕɯ˧-di˧˥
@@ -82279,8 +82279,8 @@
 \so F4
 \de Relativizer and nominalizer.
 \ge |fg{rel}/|fg{nmlz}
-\dn 关系从句/名词化
-\gn 关系从句/名词化
+\dn 关系从句／名词化
+\gn 关系从句／名词化
 \df Relativisateur et nominalisateur.
 \gf |fg{rel}/|fg{nmlz}
 
@@ -82495,7 +82495,7 @@
 \de After; because, since, as.
 \ge after/because
 \dn 因为，由于，既然
-\gn 由于/既然
+\gn 由于／既然
 \df Comme; après; puisque.
 \gf après/du_fait_que
 \xv ʈʂʰɯ˧ | tʰi˧-dzi˩-kwɤ˩-tɕɯ˩, | ɖɯ˧-kʰwɤ˧ ʐwɤ˧-ɻ̩˥: | “sɤ˧sɤ˧˥ | ʐwæ˧˥!"
@@ -82517,7 +82517,7 @@
 \de After; because, since, as.
 \ge after/because
 \dn 因为，由于，既然
-\gn 由于/既然
+\gn 由于／既然
 \df Comme; après; puisque.
 \gf après/du_fait_que
 \xv ʈʂʰɯ˧ | go˩-kwɤ˩tɕɯ˥-lɑ˩, | hɑ˧ mɤ˧-dzɯ˥.
@@ -82572,8 +82572,8 @@
 \so F4
 \de At the end of, towards the end of, in the latter part of.
 \ge at_the_end_of
-\dn ……末/底
-\gn ……末/底
+\dn ……末／底
+\gn ……末／底
 \df À la fin de, vers la fin de.
 \gf à_la_fin_de
 \xv ɲi˧ɬi˧mi˧-mæ˧mæ˥, | qʰɑ˧dze˧ tv̩˧!
@@ -82598,7 +82598,7 @@
 \de Below, behind.
 \ge behind
 \dn 下面，后面
-\gn 下面/后面
+\gn 下面／后面
 \df Derrière, sous.
 \gf derrière/sous
 \dt 24/Jul/2017
@@ -82817,7 +82817,7 @@
 \de Contrastive topic.
 \ge |fg{top.contrastive}
 \dn 主题：对于、关于
-\gn 主题：对于/关于
+\gn 主题：对于／关于
 \df Topique contrastif. Gloses possibles: …, en revanche, …; …, pour sa part, …; quant à …
 \gf |fg{top.contrastif}
 \xv qæ˧do˧ | -no˧˥
@@ -82867,7 +82867,7 @@
 \de Ablative, agent, and topic marker.
 \ge |fg{abl}/a/top
 \dn 离格（从格），施动者，主题。接近汉语的‘由’
-\gn 离格/施动者/主题
+\gn 离格/施动者／主题
 \df Ablatif, agent, et marqueur de topique.
 \gf |fg{abl}/a/top
 
@@ -83183,7 +83183,7 @@
 \de Behind; since.
 \ge behind/since
 \dn 后面，自从
-\gn 后面/自从
+\gn 后面／自从
 \df Derrière; depuis.
 \gf derrière/depuis
 \xv ʑi˧-ʁo˥tʰo˩
