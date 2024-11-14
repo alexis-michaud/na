@@ -535,7 +535,7 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\pdc <langue="fra"> individu
+\pdc <langue="fra"> |fg{clf} pour un individu
 \de Soul.
 \ge soul
 \dn 灵魂、魂魄
@@ -1649,11 +1649,11 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" dom="ton" print="n"> Réalisé montant en forme de citation. Voir commentaire au sujet de la variation entre ton montant et ton M à l'isolée chez Mme Latami.
 \pdv ʈʰɤ˥
-\pdc <langue="fra"> un petit bout de corde
+\pdc <langue="fra"> |fg{clf} pour un petit bout de corde
 \pdv ɖæ˩
-\pdc <langue="fra"> une section de corde, qui peut aller jusqu'à plusieurs mètres
+\pdc <langue="fra"> |fg{clf} pour une section de corde, qui peut aller jusqu'à plusieurs mètres
 \pdv kʰɯ˩
-\pdc <langue="fra"> une corde entière
+\pdc <langue="fra"> |fg{clf} pour une corde entière
 \de Rope.
 \ge rope
 \dn 绳子
@@ -3603,7 +3603,7 @@
 \vc <type="hist" print="n" langue="fra"> notes anciennes: «/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: `pente/côte qui retient l'eau'; bu˥: est le même mot que 29d».
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Small slope at the edge of a field; one can walk on it, sit on it, put objects down here… In the old times, when land was abundant, peasants would leave these small areas uncultivated. Today, peasants tend to plane them down to enlarge cultivated fields.
 \ge small_slope
 \dn 过去，自然形成的小坡，便于农民坐着休息、放东西。现在用拖拉机拉平，成田地。
@@ -4376,7 +4376,7 @@
 \va <speaker="M23"> ID.
 \pdv kʰwɤ˥α
 \pdv qɑ˩
-\pdc <langue="fra"> morceaux
+\pdc <langue="fra"> |fg{clf} des morceaux
 \de Mane.
 \ge mane
 \dn （马）鬃
@@ -5286,7 +5286,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \pdv ʁwɤ˧
-\pdc <langue="fra"> tas
+\pdc <langue="fra"> |fg{clf} des tas
 \de Manure, dung.
 \ge manure
 \dn 肥料、粪
@@ -5367,7 +5367,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv dze˩α
-\pdc <langue="fra"> Paire. Explication: les conques vont par paires, chaque maisonnée en possède une paire.
+\pdc <langue="fra"> |fg{clf} des paires. Explication: les conques vont par paires, chaque maisonnée en possède une paire.
 \pdc <langue="eng"> Pair. Explanation: conch shells come in pairs, with each household owning a pair.
 \pdc <langue="cmn"> 海螺壳是成双成对的，每家每户都有一对。
 \de Conch shell, |fi{Turbinella pyrum L.}. It is blown like a trumpet during ceremonies. Each family owns a pair.
@@ -5521,9 +5521,9 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
 \pdv tɕi˧˥
-\pdc <langue="fra"> livre
+\pdc <langue="fra"> |fg{clf} des livres (unité de poids)
 \pdv ɭɯ˧β
-\pdc <langue="fra"> unité
+\pdc <langue="fra"> |fg{clf} à l'unité
 \de Wild peach.
 \ge wild_peach
 \dn 毛桃
@@ -6078,11 +6078,11 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɕi˧lv̩˧
 \pdv kɤ˧˥
-\pdc <langue="fra"> pour le grain
+\pdc <langue="fra"> |fg{clf} pour le grain: une hotte
 \pdc <langue="eng"> for paddy rice
 \pdc <langue="cmn"> 用来指稻子
 \pdv pʰæ˧˥
-\pdc <langue="fra"> pour les champs
+\pdc <langue="fra"> |fg{clf} pour les champs
 \pdc <langue="eng"> for paddy fields
 \pdc <langue="cmn"> 用来指稻田
 \de Paddy rice; by extension: paddy field.
@@ -6829,7 +6829,7 @@
 \va <speaker="M18"> ID.
 \sn 1
 \pdv ti˧˥
-\pdc <langue="fra"> couche
+\pdc <langue="fra"> |fg{clf} des couches
 \de Dust.
 \ge dust
 \dn 尘土
@@ -8869,10 +8869,11 @@
 \comp <langue="pmi"> dõ51
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡/dv/, par erreur; est en fait rétroflexe
 \ton L
+\sy ɖv̩˧qæ˧
 \lc ɖv̩˧
 \so F4
 \pdv dze˩
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Wing (monosyllabic form; the commonly used form is the disyllable |fv{ɖv̩˧qæ˧}).
 \ge wing
 \dn 翅膀（单音节。一般用双音节词|fv{ɖv̩˧qæ˧}。）
@@ -8994,7 +8995,7 @@
 \va <speaker="M21"> ɖɻ̩˧qv̩˧
 \va <speaker="M23"> du˧kæ˧
 \pdv dze˩
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Wing.
 \ge wing
 \dn 翅膀
@@ -9198,7 +9199,7 @@
 \vc <langue="fra" print="n"> ɖwæ˩ mi˧; 'une flaque': /ɖwæ˥ ɖɯ˧ lɯ˧/ (d'abord noté au ton moyen: ɖwæ˧ ɖɯ˧ lɯ˧); 'une flaque après la pluie': dʑi˧ ɖɯ˧ pʰæ˩ (d'abord noté ˧ ˧, puis avait provisoirement fourni ˧ ˥ comme forme de citation; le lendemain, corrige bien en ˧ ˧, comme attendu), ton d2a: dans la religion locale (bouddhisme), grand lac/grande mare imaginaire; par exemple: lieu traversé par l'âme après le décès; ɖwæ˧, ton m4; ɖwæ˩ ɬo˩ mi˥ (de: /ɬo/ `profond').
 \vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: «vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ `estomac', qui chez Mme Latami est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme `poulain', ˧ ˧».
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Pond.
 \ge pond
 \dn 池塘
@@ -9232,7 +9233,7 @@
 \so F4
 \va <speaker="M23"> ɖwæ˧pɤ˧lv̩˥
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Puddle, pool (natural).
 \ge puddle
 \dn 水潭
@@ -9564,7 +9565,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv mɤ˩
-\pdc <langue="fra"> un peu
+\pdc <langue="fra"> |fg{clf} des petites quantités: un peu de
 \de Wild pepper, Szechuan pepper.
 \ge wild_pepper
 \dn 花椒
@@ -9906,7 +9907,7 @@
 \lc dze˧li˥
 \so F4
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bolées
 \de Tea with sugar, sweetened tea.
 \ge sweetened_tea
 \dn 甜茶
@@ -18032,7 +18033,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv tsʰi˥
-\pdc <langue="fra"> classificateur des peaux d'animaux
+\pdc <langue="fra"> |fg{clf} des peaux d'animaux
 \de Skin.
 \ge skin
 \dn 皮肤
@@ -20418,7 +20419,7 @@
 \va <speaker="M21"> ID.
 \vc <type="hist" print="n" langue="fra"> ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥; vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
 \de Rain.
 \ge rain
 \dn 雨
@@ -20895,7 +20896,7 @@
 \lc hi˩qʰɑ˩˥
 \so F4
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
 \de Torrential rain, cloudburst.
 \ge torrential_rain
 \dn 暴雨
@@ -25188,7 +25189,7 @@
 \lc jɤ˩ɕjo˧dzɑ˧qʰwɤ˩
 \so F4
 \pdv dzi˧
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Sandal.
 \ge sandal
 \dn 凉鞋
@@ -27673,7 +27674,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \pdv kɯ˧
 \de Star.
 \ge star
@@ -27769,7 +27770,9 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Thread.
 \ge thread
 \dn 线
@@ -27957,12 +27960,12 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Classifier for threads.
+\de Classifier for elongated objects: a strand of thread, a blade of grass, a rope…
 \ge |fg{clf}.threads
-\dn 量词：线（一根、一条）
-\gn 量词.根／条
-\df Brin (d'herbe, de fil, de ficelle…).
-\gf |fg{clf}.brins
+\dn 用于细长物体的量词：一根线、一条绳子等等。
+\gn 量词.细长物体
+\df Classificateur des objets allongés: un brin d'herbe, un brin de fil, une corde…
+\gf |fg{clf}.objets_allongés
 \xv kʰɯ˧ | ɖɯ˧-kʰɯ˩
 \xe a thread of string
 \xn 一根线
@@ -27979,7 +27982,6 @@
 \xe this thread (note: irregular tone pattern)
 \xn 这根线
 \xf ce brin (note: schéma tonal irrégulier)
-\dt 24/Apr/2017
 
 \lx kʰɯ˧di˧˥
 \sf <nb="B"> 524e
@@ -28053,7 +28055,7 @@
 \va <speaker="M18"> kʰɯ˧dʑi˥
 \va <speaker="M21"> ID.
 \pdv dzi˧
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Leggings, puttee.
 \ge leggings
 \dn 裹腿
@@ -28194,7 +28196,7 @@
 \lc kɯ˧qʰæ˧ʂe˧˥
 \so F4
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
 \de Comet.
 \ge comet
 \dn 流星
@@ -28440,7 +28442,7 @@
 \lc kʰɯ˧ʐɯ˥
 \so F4
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bolées
 \de Rice wine (low alcohol).
 \ge light_rice_wine
 \dn 黄酒、苏里玛酒
@@ -28519,9 +28521,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> gousse
+\pdc <langue="fra"> pour: une gousse d'ail
 \pdv tsʰɤ˧˥
-\pdc <langue="fra"> tête
+\pdc <langue="fra"> pour: une tête d'ail
 \de Garlic, |fi{Allium sativum}.
 \ge garlic
 \dn 大蒜
@@ -29013,7 +29015,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\pdc <langue="fra"> terme respectueux: le même que pour les humains
+\pdc <langue="fra"> |fg{clf} honorifique pour les individus humains. L'usage de ce classificateur marque le choix d'un terme particulièrement respectueux.
 \pdv jɤ˧˥
 \de Dog (either he-dog or she-dog).
 \ge dog
@@ -29041,7 +29043,7 @@
 \ton -L
 \so F4
 \pdv v̩˧
-\pdc <langue="fra"> terme respectueux: le même que pour les humains
+\pdc <langue="fra"> |fg{clf} honorifique pour les individus humains. L'usage de ce classificateur marque le choix d'un terme particulièrement respectueux.
 \pdv jɤ˧˥
 \de Dog of the plain (either he-dog or she-dog). The dogs of the plain, unlike dogs in mountain hamlets, get to see lots of passers-by, and are less likely to bite strangers suddenly.
 \ge dog_of_the_plain
@@ -31484,7 +31486,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bolées
 \de Tea.
 \ge tea
 \dn 茶
@@ -31512,7 +31514,7 @@
 \cf si˧kʰɯ˧-ɭɯ˧bv̩˥
 \so F4
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bolées
 \de ‘Bitter tea': herbal tea prepared with leaves of Chinese peony, when there was no tea available. It has medicinal properties.
 \ge bitter_tea
 \dn ‘苦茶’：用白芍药来泡的饮料，没有茶的时候就喝这种‘苦茶’。它有医疗作用，帮助消化。
@@ -31531,7 +31533,7 @@
 \lc bæ˧li˥
 \so F4
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bolées
 \de Sweetened tea.
 \ge sweetened_tea
 \dn 甜茶
@@ -32045,7 +32047,7 @@
 \ton #H
 \so F4
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
 \de Lunar eclipse.
 \ge lunar_eclipse
 \dn 月蚀
@@ -32080,7 +32082,7 @@
 \ton L#
 \so F4
 \pdv ɬi˧
-\pdc <langue="fra"> mois
+\pdc <langue="fra"> |fg{clf} des mois
 \de Menses; period.
 \ge menses
 \dn 月经
@@ -32132,7 +32134,7 @@
 \vc <langue="fra" print="n"> ton d7; vérifié: n'est pas d9
 \pdv ɭɯ˧β
 \pdv dze˩
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Earring.
 \ge earring
 \dn 耳环
@@ -35437,7 +35439,7 @@
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> Le locuteur recourt à un emprunt: mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> bol
+\pdc <langue="fra"> |fg{clf} des bols
 \de Ink (solid).
 \ge ink
 \dn 墨
@@ -43189,7 +43191,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv v̩˥
-\pdc <langue="fra"> casseroles
+\pdc <langue="fra"> |fg{clf} des casseroles
 \de Tofu, bean curd.
 \ge bean_curd
 \dn 豆腐
@@ -43263,7 +43265,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɤ˧˥
-\pdc <langue="fra"> panier
+\pdc <langue="fra"> |fg{clf} des paniers
 \de Green bean, snap bean, string bean; one consumes the pod with the seed inside.
 \ge green_bean
 \dn 四季豆、玉豆、帶莢豌豆、菜豆、刀豆、豆角、敏豆仔、敏豆
@@ -43287,14 +43289,13 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv wɤ˩
-\pdc <langue="fra"> une charge
+\pdc <langue="fra"> |fg{clf} des charges portées à dos d'homme: un chargement de soja
 \de Soy beans, soya beans.
 \ge soybeans
 \dn 黄豆
 \gn 黄豆
 \df Soja.
 \gf soja
-\dt 21/Jun/2017
 
 \lx nv̩˩mi˩
 \sf <nb="B"> 151
@@ -43534,7 +43535,7 @@
 \sy nv̩˩tɕʰi#˥
 \so F4
 \pdv kʰɤ˧˥
-\pdc <langue="fra"> panier
+\pdc <langue="fra"> |fg{clf} des paniers
 \de Fine chaff of beans (used to feed cows).
 \ge bean_chaff(fine)
 \dn 豆类的细糠秕，来喂牛
@@ -43556,7 +43557,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \pdv kʰɤ˧˥
-\pdc <langue="fra"> panier
+\pdc <langue="fra"> |fg{clf} des paniers
 \de Fine chaff of beans (used to feed cows).
 \ge bean_chaff(fine)
 \dn 豆类的细糠秕，来喂牛
@@ -45029,7 +45030,7 @@
 \ton L
 \so F4
 \pdv dzi˧
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Sandal.
 \ge 皮鞋::sandal
 \dn 凉鞋。西南官话借词：第一个音节：皮，第二个音节：不明确，同|fv{tɕæ˧hæ˩}。
@@ -48713,7 +48714,9 @@
 \so F4
 \va <speaker="M18"> ID.
 \pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Trench (monosyllable).
 \ge trench
 \dn 水沟（单音节）
@@ -48856,11 +48859,11 @@
 \xv qʰɑ˧-kʰɯ˩
 \xe how many (long objects)
 \xn 几条
-\xf combien (d'objets longs)
+\xf combien (d'objets allongés)
 \xv qʰɑ˧-kʰɯ˩ dʑo˩?
 \xe How many (long objects) are there?
 \xn 有几条？
-\xf Combien y a-t-il (d'objets longs)?
+\xf Combien y a-t-il (d'objets allongés)?
 \xv qʰɑ˧-mæ˩ dʑo˩?
 \xe How much money do (you) have?
 \xn 有几块（钱）？
@@ -49303,7 +49306,9 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Large trench, canal.
 \ge large_trench
 \dn 大水渠
@@ -49613,7 +49618,9 @@
 \lc qʰæ˧zo˧
 \so F4
 \pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Small trench/canal.
 \ge small_canal
 \dn 小水渠
@@ -50633,7 +50640,7 @@
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
 \pdv dze˩
-\pdc <langue="fra"> paire
+\pdc <langue="fra"> |fg{clf} des paires
 \de Horn.
 \ge horn
 \dn 犄角（锯下来的）
@@ -52480,7 +52487,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Seed.
 \ge seed
 \dn 种子
@@ -55348,7 +55355,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Mountain.
 \ge mountain
 \dn 山
@@ -56241,7 +56248,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \pdv qʰwæ˧˥
-\pdc <langue="fra"> filaments avant le filage
+\pdc <langue="fra"> |fg{clf} employé pour les filaments: un filament
 \de Flax, |fi{Linum usitatissimum}.
 \ge flax
 \dn 亚麻
@@ -56252,14 +56259,13 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \pdv qʰwæ˧˥
-\pdc <langue="fra"> filaments avant le filage
+\pdc <langue="fra"> |fg{clf} employé pour les filaments: un filament
 \de Hemp, |fi{Cannabis sativa}.
 \ge hemp
 \dn 火麻、胡麻
 \gn 火麻／胡麻
 \df Chanvre, |fi{Cannabis sativa}, plante textile.
 \gf chanvre
-\dt 05/Oct/2015
 
 \lx sɑ˥
 \sf <nb="2011"> 3350
@@ -58774,7 +58780,9 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> hĩ˧ so˩ (+ɲi˩), d'abord noté ˥ ˩; so˩˥, ton m4; so˩˥ kʰɯ˥ ɲi˩; so˩˥ ɲi˥!
 \pdv kʰɯ˩
-\pdc <langue="fra"> objets longs
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Breath.
 \ge breath
 \dn （一口）气
@@ -60543,14 +60551,13 @@
 \vc <langue="fra" print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
 \pdv dzi˩
-\pdc <langue="fra"> classificateur des arbres
+\pdc <langue="fra"> |fg{clf} des arbres
 \de Backbone.
 \ge backbone
 \dn 脊椎骨
 \gn 脊椎骨
 \df Colonne vertébrale.
 \gf colonne_vertébrale
-\dt 09/Oct/2015
 
 \lx sɯ˧ɻ̩̃#˥
 \or see'eun
@@ -61393,7 +61400,7 @@
 \va <speaker="M18"> ʂv̩˧ʂv̩˧
 \va <speaker="M21"> ID.
 \pdv pʰæ˧˥
-\pdc <langue="fra"> objets plats
+\pdc <langue="fra"> |fg{clf} des objets plats
 \de Paper.
 \ge paper
 \dn 纸
@@ -65111,7 +65118,7 @@
 \va <speaker="M21"> tɕi˧
 \vc <langue="fra" print="n"> mv̩˧ʁu˧ tɕi˧ (d'abord noté ˥ ˥ ˥), dʑɤ˩pi˧dʑo˧! 'Il y a bcp de nuages!' (mv̩˧ʁu˧) tɕi˧pʰɻ̩˩! "Il y a bcp de nuages blancs!" (d'abord noté ˥ ˥ ˥ ˩); mv̩˥ʁu˥ tɕi˩ dʑo˩ ze˩! (baisse entre sujet et prédicat; ne sais pas si c'est catégoriel ou non; selon M18, cette phrase est mal formée)
 \pdv kʰwɤ˥α
-\pdc <langue="fra"> morceaux
+\pdc <langue="fra"> |fg{clf} des morceaux
 \de Cloud.
 \ge cloud
 \dn 云
@@ -65876,7 +65883,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ti˧˥
-\pdc <langue="fra"> une couche de
+\pdc <langue="fra"> |fg{clf} des couches: une couche de
 \de Mist, fog.
 \ge mist
 \dn 雾
@@ -66913,7 +66920,7 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
 \pdv ɭɯ˧β
-\pdc <langue="fra"> objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds
 \de Mountain slope, hillside.
 \ge hillside
 \dn 山坡，岗
@@ -67674,7 +67681,7 @@
 \lc tʰo˧ɻæ˥
 \so F4
 \pdv ʈʂwɤ˧
-\pdc <langue="fra"> poignée
+\pdc <langue="fra"> |fg{clf} des poignées
 \de Pine-nut kernel.
 \ge pine_nut_kernel
 \dn 松子
@@ -67695,7 +67702,7 @@
 \lc tʰo˩ʂv̩˩˥
 \so F4
 \pdv qɑ˩
-\pdc <langue="fra"> botte
+\pdc <langue="fra"> |fg{clf} des bottes
 \de Pine needles.
 \ge pine_needles
 \dn 树针
@@ -70360,7 +70367,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
 \de Smallpox.
 \ge smallpox
 \dn 天花
@@ -77218,7 +77225,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \pdv qɑ˩
-\pdc <langue="fra"> botte
+\pdc <langue="fra"> |fg{clf} des bottes
 \de Vegetables.
 \ge vegetables
 \dn 蔬菜
@@ -79467,20 +79474,43 @@
 \so F4
 \va <speaker="M18"> ID.
 \pdv kʰɯ˩
-\pdc <langue="fra"> pour le grain
-\pdc <langue="eng"> for paddy rice
-\pdc <langue="cmn"> 用来指稻子
+\pdc <langue="fra"> |fg{clf} des objets allongés
+\pdc <langue="eng"> |fg{clf} for elongated objects
+\pdc <langue="cmn"> 用于细长物体的|fg{量词}
 \de Road (monosyllable).
 \ge road
 \dn 路（单音节）
 \gn 路
 \df Route (monosyllabe).
 \gf route(monosyll.)
-\xv ʐɤ˩ se˩-zo˩˥
-\xe traveller, person who travels; specifically: person who does commerce by caravans
-\xn 旅人，特别指走马帮的商人
-\xf voyageur, homme qui voyage; spécifiquement: personne partant faire du commerce en caravane
-\dt 07/Oct/2015
+
+\xv ʐɤ˩ se˩ zo˩
+\or reseisso
+\mr ʐɤ˩˧
+\mr se˥1
+\mr zo˥
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\lc ʐɤ˩se˩zo˩˥
+\ton L
+\so F4
+\sn 1
+\pdv v̩˧
+\de Traveller, person who travels.
+\ge traveller
+\dn 旅人。
+\gn 旅人
+\df Voyageur, homme qui voyage.
+\gf voyageur
+\sn 2
+\pdv v̩˧
+\de Caravan merchant: person who does commerce by caravans.
+\ge caravan_merchant
+\dn 商队商人：走马帮的人
+\gn 商队商人
+\df Caravanier, personne partant faire du commerce en caravane
+\gf caravanier
 
 \lx ʐɤ˧β
 \sf <nb="B"> 1599
@@ -80842,7 +80872,7 @@
 \lc ʐv̩˧bæ˧bv̩˧hɑ˧
 \so F4
 \pdv qɑ˩
-\pdc <langue="fra"> une botte de fourrage
+\pdc <langue="fra"> |fg{clf} des bottes: une botte de fourrage
 \de One of the three types of pig fodder.
 \ge pig_fodder
 \dn 能喂给猪的三种草之一
