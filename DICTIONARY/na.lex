@@ -15698,8 +15698,8 @@
 \xv ə˧pɤ˧-ɖɯ˩ pi˩-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩; | ə˧pɤ˧-ɖɯ˩-ɳɯ˩ | le˧-tsʰi˧-ɲi˥! | pi˧-zo˩.
 \xo Abeddee bi sso, eyishei; Abeddee nee lecee niq!
 \xn 将寿命斩断的（神），从前称作阿包笃（即：“伟大的阿包[神]”）！（生命结束时，是阿包笃切割人的生命）
-\xe The one called Abeddee (ə˧pɤ˧-ɖɯ˩, i.e. `great [deity] Abe (/ə˧pɤ˧/), long, long ago, Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
-\xf On l'appelait Abeddee, `grande divinité Abe (/ə˧pɤ˧/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
+\xe The one called Abeddee (/|fv{ə˧pɤ˧-ɖɯ˩}/, i.e. `great [deity] Abe (/|fv{ə˧pɤ˧}/), long, long ago, Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
+\xf On l'appelait Abeddee, `grande divinité Abe (/|fv{ə˧pɤ˧}/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
 \txt Dog.51
 \doi 10.24397/pangloss-0004443#S51
 \txtsup Dog2.28
@@ -41625,7 +41625,7 @@
 \nt <type="hist" print="n" langue="fra"> Note ancienne: “souvent prononcé proche de [njæ˧]… mais est bien /njɤ˧/". Avant novembre 2011: pensais qu'il existait une forme /‡njæ˩-sɯ˧-kv̩˥/ exprimant le possessif; mais cette forme n'est plus reconnue par la suite: c'était en fait une erreur de prononciation.
 \nt <dom="phono" langue="fra"> La première syllabe présente une certaine variation entre [|fv{njɤ}] et [|fv{njæ}]. La forme en |fv{njɤ} (/|fv{njɤ˧-sɯ˩kv̩˩}/) était dans un premier temps apparue comme la forme correcte, puis il est ressorti des échanges avec Mme Latami que la forme /|fv{njæ˧-sɯ˩kv̩˩}/ était la plus usuelle et faisait référence.
 \nt <dom="phono" langue="eng"> The first syllable shows some variation between [|fv{njɤ}] and [|fv{njæ}]. The |fv{njɤ} form (/|fv{njɤ˧-sɯ˩kv̩˩}/) initially appeared to be the correct one, then it emerged from discussions with Mrs. Latami that /|fv{njæ˧-sɯ˩kv̩˩}/ was more common and should be recorded as the current standard.
-\nt <dom="phono" langue="cmn"> 第一个音节的发音不是很稳定，有[|fv{njɤ}]变体和[|fv{njæ}]变体。带fv{njɤ}的这个变体（/|fv{njɤ˧-sɯ˩kv̩˩}/）最初被认为是正确的。但与拉他咪女士讨论后发现，/|fv{njæ˧-sɯ˩kv̩˩}/更为常见，应作为当前标准记录下来。
+\nt <dom="phono" langue="cmn"> 第一个音节的发音不是很稳定，有[|fv{njɤ}]变体和[|fv{njæ}]变体。带|fv{njɤ}的这个变体（/|fv{njɤ˧-sɯ˩kv̩˩}/）最初被认为是正确的。但与拉他咪女士讨论后发现，/|fv{njæ˧-sɯ˩kv̩˩}/更为常见，应作为当前标准记录下来。
 \ton -L
 \lc njæ˧sɯ˩kv̩˩
 \so F4
