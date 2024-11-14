@@ -536,6 +536,8 @@
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \pdc <langue="fra"> |fg{clf} pour un individu
+\pdc <langue="eng"> |fg{clf} for an individual
+\pdc <langue="cmn"> |fg{量词}：人（一个人）
 \de Soul.
 \ge soul
 \dn 灵魂、魂魄
@@ -1650,10 +1652,16 @@
 \vc <langue="fra" dom="ton" print="n"> Réalisé montant en forme de citation. Voir commentaire au sujet de la variation entre ton montant et ton M à l'isolée chez Mme Latami.
 \pdv ʈʰɤ˥
 \pdc <langue="fra"> |fg{clf} pour un petit bout de corde
+\pdc <langue="eng"> |fg{clf} for a short piece of rope
+\pdc <langue="cmn"> |fg{量词}：一小段绳子
 \pdv ɖæ˩
 \pdc <langue="fra"> |fg{clf} pour une section de corde, qui peut aller jusqu'à plusieurs mètres
+\pdc <langue="eng"> |fg{clf} for a section of rope (up to several meters)
+\pdc <langue="cmn"> |fg{量词}：一段绳子（可以是几米长）
 \pdv kʰɯ˩
 \pdc <langue="fra"> |fg{clf} pour une corde entière
+\pdc <langue="eng"> |fg{clf} for a whole rope
+\pdc <langue="cmn"> |fg{量词}：一整条绳子
 \de Rope.
 \ge rope
 \dn 绳子
