@@ -2242,7 +2242,10 @@
 \sd <langue="eng"> plant
 \ton L+H#
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Crowndaisy chrysanthemum, |fi{Glebionis coronaria (Linnaeus) Cassini ex Spach}. It is used as a medicinal plant, both for humans and in veterinary medicine (for pigs).
 \ge crowndaisy_chrysanthemum
 \dn 茼蒿。它是一种药用植物，既可用于人类，也可用于兽医（猪）。
@@ -3127,6 +3130,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Services (or money) offered as remuneration to a religious practitioner for ritual services rendered.
 \ge remuneration
 \dn 酬劳、报酬
@@ -3611,7 +3617,9 @@
 \vc <type="hist" print="n" langue="fra"> notes anciennes: «/bu˥/, /dʑi˩ bu˩˥/, /dʑi˩ tsɯ˩ bu˩˥/; sens: `pente/côte qui retient l'eau'; bu˥: est le même mot que 29d».
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Small slope at the edge of a field; one can walk on it, sit on it, put objects down here… In the old times, when land was abundant, peasants would leave these small areas uncultivated. Today, peasants tend to plane them down to enlarge cultivated fields.
 \ge small_slope
 \dn 过去，自然形成的小坡，便于农民坐着休息、放东西。现在用拖拉机拉平，成田地。
@@ -4095,6 +4103,9 @@
 \ton L-L#
 \so F4
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Pig's tail.
 \ge pig_tail
 \dn 猪尾巴
@@ -4181,7 +4192,10 @@
 \so F4
 \va <speaker="M21"> æ˩mi˧ɳwæ˧tɕʰi˩
 \vc <type="hist" print="n" langue="fra"> Mme Latami ne connaît pas l'expression employée par M21.
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Dandelion.
 \ge dandelion
 \dn 蒲公英
@@ -4385,6 +4399,8 @@
 \pdv kʰwɤ˥α
 \pdv qɑ˩
 \pdc <langue="fra"> |fg{clf} des morceaux
+\pdc <langue="eng"> |fg{clf} for pieces/chunks
+\pdc <langue="cmn"> 块的|fg{量词}
 \de Mane.
 \ge mane
 \dn （马）鬃
@@ -5295,6 +5311,8 @@
 \va <speaker="F5"> ID.
 \pdv ʁwɤ˧
 \pdc <langue="fra"> |fg{clf} des tas
+\pdc <langue="eng"> |fg{clf} for heaps
+\pdc <langue="cmn"> 堆的|fg{量词}
 \de Manure, dung.
 \ge manure
 \dn 肥料、粪
@@ -5530,8 +5548,12 @@
 \va <speaker="M21"> ID.
 \pdv tɕi˧˥
 \pdc <langue="fra"> |fg{clf} des livres (unité de poids)
+\pdc <langue="eng"> |fg{clf} for pounds (weight unit)
+\pdc <langue="cmn"> 斤的|fg{量词}
 \pdv ɭɯ˧β
-\pdc <langue="fra"> |fg{clf} à l'unité
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique pour un décompte à l'unité
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf} for counting the fruit piece by piece
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}：‘一颗’、‘一个’。
 \de Wild peach.
 \ge wild_peach
 \dn 毛桃
@@ -6476,9 +6498,9 @@
 \ton L
 \lc ɕjɤ˩jo˩˥
 \nt <type="hist" print="n" langue="fra"> Avant juin 2024: interprété par erreur comme le nom d'une plante, |fi{Fritillaria cirrhosa} (贝母)
+\nt <type="hist" print="n" langue="fra"> Avant novembre 2024: avais noté comme classificateur : ɭɯ˧β xxxx
 \nt <dom="ton" langue="fra"> L'expression définissant le terme en langue na, |fv{gi˧-nɑ˧mi˧=bv̩˧ | mɤ˧}, a un comportement tonal régulier. Un nom au ton #H suivi du possessif donne une séquence M…M (d'où |fv{gi˧-nɑ˧mi˧=bv̩˧}). Un nom au ton L formant un groupe tonal à lui seul porte un ton M (d'où |fv{mɤ˧}).
 \so F4
-\pdv ɭɯ˧β
 \de Bear grease.
 \ge bear_grease
 \dn 熊油（熊油是一种中药材，为黑熊的脂肪油）。
@@ -6838,6 +6860,8 @@
 \sn 1
 \pdv ti˧˥
 \pdc <langue="fra"> |fg{clf} des couches
+\pdc <langue="eng"> |fg{clf} for layers
+\pdc <langue="cmn"> 层的|fg{量词}
 \de Dust.
 \ge dust
 \dn 尘土
@@ -8876,12 +8900,15 @@
 \sd <langue="eng"> animal
 \comp <langue="pmi"> dõ51
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡/dv/, par erreur; est en fait rétroflexe
+\nt <type="hist" print="n" langue="fra"> xxxx vérifier: pourquoi le classificateur utilisé est-il celui des paires séparables, plutôt que celui des paires inséparables?
 \ton L
 \sy ɖv̩˧qæ˧
 \lc ɖv̩˧
 \so F4
 \pdv dze˩
-\pdc <langue="fra"> |fg{clf} des paires
+\pdc <langue="fra"> |fg{clf} des paires séparables
+\pdc <langue="eng"> |fg{clf} for separable pairs
+\pdc <langue="cmn"> 一对
 \de Wing (monosyllabic form; the commonly used form is the disyllable |fv{ɖv̩˧qæ˧}).
 \ge wing
 \dn 翅膀（单音节。一般用双音节词|fv{ɖv̩˧qæ˧}。）
@@ -8999,11 +9026,14 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton M
+\nt <type="hist" print="n" langue="fra"> xxxx vérifier: pourquoi le classificateur utilisé est-il celui des paires séparables, plutôt que celui des paires inséparables?
 \so F4
 \va <speaker="M21"> ɖɻ̩˧qv̩˧
 \va <speaker="M23"> du˧kæ˧
 \pdv dze˩
-\pdc <langue="fra"> |fg{clf} des paires
+\pdc <langue="fra"> |fg{clf} des paires séparables
+\pdc <langue="eng"> |fg{clf} for separable pairs
+\pdc <langue="cmn"> 一对
 \de Wing.
 \ge wing
 \dn 翅膀
@@ -9208,6 +9238,8 @@
 \vc <langue="fra" print="n" type="hist" print="n"> Notes anciennes: «vérifié à nouveau le 9 mai (2007? 2008?) que M21 utilise ˧ ˧ comme forme de citation; il semble y avoir pour régularité que M21 ait des ˧ ˧ à l'isolée pour ces d2; mais attention, il y a une exception: item 754; et le comportement en composition d'un apparent d2a comme hu˧mi˧ `estomac', qui chez Mme Latami est hu˧mi˥, est bel et bien différent de celui d'un simple d2a comme `poulain', ˧ ˧».
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \de Pond.
 \ge pond
 \dn 池塘
@@ -9242,6 +9274,8 @@
 \va <speaker="M23"> ɖwæ˧pɤ˧lv̩˥
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \de Puddle, pool (natural).
 \ge puddle
 \dn 水潭
@@ -9574,13 +9608,14 @@
 \va <speaker="M21"> ID.
 \pdv mɤ˩
 \pdc <langue="fra"> |fg{clf} des petites quantités: un peu de
+\pdc <langue="eng"> |fg{clf} for small quantities: a little
+\pdc <langue="cmn"> 一点
 \de Wild pepper, Szechuan pepper.
 \ge wild_pepper
 \dn 花椒
 \gn 花椒
 \df Xanthoxyle, poivre de Chine, poivre du Sichuan.
 \gf xanthoxyle
-\dt 24/Apr/2017
 
 \lx dze˥
 \sf <nb="B"> 399
@@ -9916,13 +9951,14 @@
 \so F4
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de Tea with sugar, sweetened tea.
 \ge sweetened_tea
 \dn 甜茶
 \gn 甜茶
 \df Thé sucré.
 \gf thé_sucré
-\dt 02/May/2018
 
 \lx dze˧ɭɯ˧
 \sf <nb="B"> 1999
@@ -10468,7 +10504,9 @@
 \vc <type="hist" print="n" langue="fra"> ton m4a
 \vc <type="hist" print="n" langue="fra"> segments vérifiés; différent de la prononciation de F4, vérifiée le 12/5/08
 \pdv ɭɯ˧β
-\pdc <langue="fra"> On ne peut utiliser le classificateur des outils, nɑ˧
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique. On ne peut utiliser le classificateur des outils, |fv{nɑ˧}.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}. The classifier for tools, |fv{nɑ˧}, is not used for this noun.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。工具的量词|fv{nɑ˧}不用于该名词。
 \de Chisel.
 \ge chisel
 \dn 凿子
@@ -11951,7 +11989,9 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ʂɯ˩
-\pdc <langue="fra"> fois
+\pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Cold, flu.
 \ge cold
 \dn 感冒
@@ -11986,6 +12026,9 @@
 \vc <type="hist" print="n" langue="fra"> Segments un peu différents de ceux notés pour Mme Latami (précédemment notés /…kʶwɤ˧…/ puis /ɖʐɤ˧ kʰʶwɑ˧ ʈʂe˧/)
 \va <speaker="M23"> dzɑ˧qʰwɤ˧ʈʂe˧
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique. On ne peut utiliser le classificateur des outils, |fv{nɑ˧}.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}. The classifier for tools, |fv{nɑ˧}, is not used for this noun.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。工具的量词|fv{nɑ˧}不用于该名词。
 \de Awl.
 \ge awl
 \dn 锥、锥子
@@ -13331,8 +13374,10 @@
 \vc <print="n" langue="fra"> Confirmé: différent de F4: dit /ʁv/ et non /ʁo/. Inversement, il a été vérifié que F4 dit /ʁo/ et non /ʁv/.
 \pdv qɑ˩
 \pdc <langue="fra"> botte
-\pdv po˧
-\pdc <langue="fra"> unité
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Wild herbs.
 \ge wild_herbs
 \dn 野草
@@ -15032,7 +15077,10 @@
 \ton L#
 \lc ə˧gɯ˩
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Peppermint.
 \ge peppermint
 \dn 薄荷
@@ -16520,7 +16568,7 @@
 \va <speaker="M21"> ID.
 \de To ferment.
 \ge 发::to_ferment
-\dn 发酵（汉语借词：发）
+\dn 发酵（汉语借词：‘发’）
 \gn 发酵（借词：发）
 \df Fermenter.
 \gf 发::fermenter
@@ -17408,6 +17456,9 @@
 \vc <langue="fra" print="n"> Le locuteur indique aussi /ʈæ˧bɤ˧-tsɯ˩ʁo˩/, expression dans laquelle /tsɯ˩ʁo˩˥/ signifierait 'position', 位置.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Temple, monastery.
 \ge monaster
 \dn 庙，寺
@@ -17585,6 +17636,9 @@
 \ton -L
 \so F4
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Cult room: room of the spirits, room of the ancestors, where there is an altar. A ritual is performed here every morning. By extension, the name refers to the entire building that houses this room on the farm.
 \ge room_for_worship
 \dn 经堂（拜佛、拜祖先的房间）
@@ -17656,6 +17710,9 @@
 \lc gɤ˧qo˥
 \so F4
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Higher part of the main room.
 \ge higher_part_of_main_room
 \dn 主屋的高处：人吃饭的地方
@@ -20428,6 +20485,8 @@
 \vc <type="hist" print="n" langue="fra"> ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥; vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
 \pdv ʂɯ˩
 \pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Rain.
 \ge rain
 \dn 雨
@@ -20905,6 +20964,8 @@
 \so F4
 \pdv ʂɯ˩
 \pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Torrential rain, cloudburst.
 \ge torrential_rain
 \dn 暴雨
@@ -21707,7 +21768,7 @@
 \so F4
 \de Mugwort, wormwood, |fi{Artemisia vulgaris}.
 \ge 蒿枝::mugwort
-\dn 蒿（汉语借词：蒿枝）。艾草和蒿枝的外表很像，但是艾草的背面有点带白色，蒿枝是全绿的。
+\dn 蒿（汉语借词：‘蒿枝’）。艾草和蒿枝的外表很像，但是艾草的背面有点带白色，蒿枝是全绿的。
 \gn 蒿（借词：蒿枝）
 \gr 蒿草、蒿枝
 \df Armoise, |fi{Artemisia vulgaris}.
@@ -23318,7 +23379,10 @@
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté hu˧tɕi˥ (n'est pas tɕɯ)
 \ton H#
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Curly dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder; it is also used as food for humans.
 \ge curly_dock
 \dn 土大黄（学名：皱叶酸模）（喂猪的牧草）
@@ -24528,7 +24592,7 @@
 \so F4
 \de A wild radish that grows on the mountains; it is edible; it is picked and eaten in the Spring, when vegetables are not ripe yet. Yi people harvest it and sell it in the plain.
 \ge 野山菜::wild_radish
-\dn 红萝卜菜（汉语借词：野山菜）：一种山上的野菜。春天的时候，菜园的蔬菜还没有成熟的时候，永宁的人吃红萝卜菜。彝族人从高山上采下来，在永宁卖。
+\dn 红萝卜菜（汉语借词：‘野山菜’）：一种山上的野菜。春天的时候，菜园的蔬菜还没有成熟的时候，永宁的人吃红萝卜菜。彝族人从高山上采下来，在永宁卖。
 \gn 红萝卜菜（借词：野山菜）
 \gr 野山菜
 \df Radis sauvage qui pousse en montagne; on le consomme surtout au printemps, à une époque où il n'y a pas encore de légumes. Ce radis est récoltée par les Yi et vendu dans la plaine.
@@ -25304,14 +25368,16 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv po˩
+\pdv po˩β
+\pdc <langue="fra"> |fg{clf} des paquets
+\pdc <langue="eng"> |fg{clf} for bags
+\pdc <langue="cmn"> 包的|fg{量词}
 \de Matches.
 \ge 洋火::matches
 \dn 火柴（洋火）
 \gn 火柴
 \df Allumette.
 \gf 洋火::allumette
-\dt 13/May/2016
 
 \lx jɤ˩jo˧-bɻ̩#˥
 \sf <nb="B"> 1830
@@ -25929,7 +25995,7 @@
 \so F4
 \de Acupuncture needles; acupuncture.
 \ge 干针::acupuncture
-\dn 针灸（汉语借词：干针）
+\dn 针灸（汉语借词：‘干针’）
 \gn 针灸（借词：干针）
 \gr 干针
 \df Acupuncture.
@@ -26095,6 +26161,9 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Threshold.
 \ge threshold
 \dn 门槛
@@ -26696,6 +26765,9 @@
 \lc kʰo˧bɤ˧
 \so F4
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Home (solemn, formal word).
 \ge home
 \dn 家（文言）：母亲生活的空间：有家人，有火塘，有母亲在那里生活的那个空间
@@ -27163,7 +27235,7 @@
 \so F4
 \de Shop.
 \ge 公司::shop
-\dn 商店、小卖部（汉语借词：公司）
+\dn 商店、小卖部（汉语借词：‘公司’）
 \gn 商店、小卖部（借词：公司）
 \df Boutique.
 \gf 公司::boutique
@@ -27683,6 +27755,8 @@
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \pdv kɯ˧
 \de Star.
 \ge star
@@ -28317,6 +28391,9 @@
 \so F4
 \pdv ʈv̩˩
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Chicken feet.
 \ge chicken_feet
 \dn 鸡爪
@@ -28451,6 +28528,8 @@
 \so F4
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de Rice wine (low alcohol).
 \ge light_rice_wine
 \dn 黄酒、苏里玛酒
@@ -28529,9 +28608,13 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdc <langue="fra"> pour: une gousse d'ail
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique: une gousse d'ail.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}: a clove of garlic.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}：一瓣大蒜
 \pdv tsʰɤ˧˥
-\pdc <langue="fra"> pour: une tête d'ail
+\pdc <langue="fra"> |fg{clf} des objets bosselés: une tête d'ail entière.
+\pdc <langue="eng"> |fg{clf} for dented or bumpy objects: a whole head of garlic.
+\pdc <langue="cmn"> 凸凹物品的|fg{量词}：一头大蒜。
 \de Garlic, |fi{Allium sativum}.
 \ge garlic
 \dn 大蒜
@@ -28939,11 +29022,10 @@
 \pdv ɭɯ˧β
 \de Garlic braid: garlic bulbs with long leaves, braided into a large clump.
 \ge garlic_braid
-\dn 蒜瓣
-\gn 蒜瓣
+\dn 大蒜辫子：大蒜球茎带长叶子，编成一大团。
+\gn 大蒜辫子
 \df Tresse d'ail, ail tressé.
 \gf tresse_d_ail
-\dt 24/Apr/2017
 
 \lx kʰv̩˧mæ˧
 \sf <nb="B"> 361
@@ -29943,6 +30025,9 @@
 \lc kwɑ˧tsʰɑ˧
 \so F4
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Coffin.
 \ge 棺材::coffin
 \dn 棺材
@@ -29953,7 +30038,6 @@
 \xe The coffin is the thing in which the corpse is put! / The coffin is the thing to put the corpse!
 \xn 棺材，是装尸体的！／棺材，是用来装尸体的！
 \xf Le cercueil, c'est là où on met le cadavre! / Le cercueil, c'est l'objet qui accueille le cadavre!
-\dt 04/Sep/2015
 
 \lx kwæ˧tsɯ˧
 \or guaezi
@@ -31182,7 +31266,7 @@
 \pdv ɭɯ˧β
 \de Chilli peppers.
 \ge 辣子::chilli_peppers
-\dn 辣椒（汉语借词：辣子）
+\dn 辣椒（汉语借词：‘辣子’）
 \gn 辣椒（借词）
 \gr 辣子
 \df Piment.
@@ -31495,6 +31579,8 @@
 \va <speaker="M21"> ID.
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de Tea.
 \ge tea
 \dn 茶
@@ -31523,6 +31609,8 @@
 \so F4
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de ‘Bitter tea': herbal tea prepared with leaves of Chinese peony, when there was no tea available. It has medicinal properties.
 \ge bitter_tea
 \dn ‘苦茶’：用白芍药来泡的饮料，没有茶的时候就喝这种‘苦茶’。它有医疗作用，帮助消化。
@@ -31542,6 +31630,8 @@
 \so F4
 \pdv qʰwɤ˧˥
 \pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de Sweetened tea.
 \ge sweetened_tea
 \dn 甜茶
@@ -32056,6 +32146,8 @@
 \so F4
 \pdv ʂɯ˩
 \pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Lunar eclipse.
 \ge lunar_eclipse
 \dn 月蚀
@@ -32312,6 +32404,9 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Auditory canal.
 \ge auditory_canal
 \dn 耳孔
@@ -32410,7 +32505,10 @@
 \sd <langue="eng"> plant
 \ton H#
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Asiatic plantain, |fi{Plantago asiatica}. Also know as Chinese plantain, obako.
 \ge Asiatic_plantain
 \dn 车前草
@@ -33461,12 +33559,12 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> ʁæ˩˥, kɑ˩˥: tous deux possibles.
 \pdv ɭɯ˧β
-\de Space between thumb and index finger.
-\ge space_between_thumb_and_index_finger
+\de Web of the hand (interdigital fold) between the thumb and index finger. In Chinese anatomy, this spot is significant as it includes Hegu (|fn{合谷}), an acupressure point on the Large Intestine meridian. Stimulating the Hegu point is considered to alleviate pain, especially headaches and toothaches.
+\ge web_of_the_hand
 \dn 虎口
 \gn 虎口
-\df Espace entre le pouce et l'index.
-\gf espace_entre_le_pouce_et_l_index
+\df Commissure (pli interdigital) entre le pouce et l'index. En anatomie chinoise, ce point est important car il s'y trouve un point d'acupression sur le méridien du gros intestin. La stimulation de ce point, Hegu (|fn{合谷}), est employée pour soulager la douleur, en particulier les maux de tête et les maux de dents.
+\gf commissure_entre_pouce_et_index
 
 \lx lo˧ʑi˥-bv̩˩
 \or loxxibbu
@@ -33531,7 +33629,6 @@
 \gn 手指
 \df Doigt.
 \gf doigt
-\dt 04/Sep/2015
 
 \lx lo˧ɲi˥ | ɖɯ˧ɭɯ˧
 \sf <nb="B"> 194
@@ -34055,7 +34152,6 @@
 \df Hanche.
 \gf hanche
 \ue archaic
-\dt 04/Sep/2015
 
 \lx lo˩tsʰɯ˥-sɑ˩
 \sf <nb="B"> 1938
@@ -34144,11 +34240,11 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\de Originally a classifier for round objects: grains, bowls… Now a generic classifier.
+\de Generic classifier. Originally a classifier for round objects (such as seeds and fruit), it is now widely used. In particular, it is used for many animals, as well as for bowls, clothes…
 \ge |fg{clf}.generic
-\dn 最常用的量词，相当于汉语中‘个’的用法。本意是圆形颗粒。一粒（米……），一个（碗……），件（衣服……）
+\dn 通用的|fg{量词}（最常用的|fg{量词}），相当于汉语中的‘个’。本意是圆形颗粒与圆形物体（如：一粒米）。此|fg{量词}广泛使用于动物。也用于‘碗’、‘衣服’等等等。
 \gn 量词.粒／个
-\df Classificateur générique; à l'origine, classificateur pour les objets ronds (graines et fruits, bols…), à l'emploi maintenant élargi.
+\df Classificateur générique. À l'origine, classificateur pour les objets ronds (graines et fruits, bols…), à l'emploi maintenant élargi. Il est notamment employé pour de nombreux animaux.
 \gf |fg{clf}.générique
 \xv ɕi˧ ɖɯ˧-ɭɯ˧ |
 \xe a grain of rice
@@ -34591,6 +34687,9 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> lv̩˧mi˧ bu˧ +ɲi˥: muret en pierre; fournit également: /lv̩˧mi˧ʈʂu˩bɤ˩/ (tons vérifiés).
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Stone wall.
 \ge stone_wall
 \dn 石墙
@@ -34743,6 +34842,9 @@
 \vc <langue="fra" print="n"> ton d1
 \nt <type="hist" print="n" langue="fra"> Sens vérifié: le terme désigne la limite entre champs de familles différentes.
 \pdv ɭɯ˧β
+\pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
+\pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
+\pdc <langue="cmn"> 圆形物体的|fg{量词}，作为通用|fg{量词}。
 \de Limit, boundary between fields belonging to different families. It is typically materialized by a small dike.
 \ge boundary_between_fields
 \dn 地界：不同家庭田地之间的界限
@@ -35447,7 +35549,9 @@
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> Le locuteur recourt à un emprunt: mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
 \pdv qʰwɤ˧˥
-\pdc <langue="fra"> |fg{clf} des bols
+\pdc <langue="fra"> |fg{clf} des bolées
+\pdc <langue="eng"> |fg{clf} for bowlfuls
+\pdc <langue="cmn"> 碗的|fg{量词}
 \de Ink (solid).
 \ge ink
 \dn 墨
@@ -35637,7 +35741,6 @@
 \xe cow's tail
 \xn 牛尾巴
 \xf queue de la vache
-\dt 04/Sep/2015
 
 \lx mæ˧ɻæ˩
 \sf <nb="B"> 393b
@@ -35661,7 +35764,6 @@
 \gn 植物油
 \df Huile végétale.
 \gf huile_végétale
-\dt 19/Jun/2017
 
 \lx mæ˧ɻ̩̃#˥
 \sf <nb="B"> 2257
@@ -38977,7 +39079,10 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv po˩
+\pdv po˩β
+\pdc <langue="fra"> |fg{clf} des paquets
+\pdc <langue="eng"> |fg{clf} for bags
+\pdc <langue="cmn"> 包的|fg{量词}
 \de Gunpowder.
 \ge gunpowder
 \dn 火药
@@ -40142,7 +40247,10 @@
 \ton #H
 \lc ni˧
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Amaranth.
 \ge amaranth
 \dn 苋米
@@ -42470,7 +42578,10 @@
 \ton L-L#
 \lc njɤ˩tse˧tse˩
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Branched horsetail, |fi{Equisetum ramosissimum Desf.} This is a wild herb used in traditional medicine; its stem consists of small segments; when pulled/plucked, the stem breaks at one of these articulations.
 \ge branched_horsetail
 \dn 节节草
@@ -42478,7 +42589,6 @@
 \gr 节节高
 \df Prêle ramifiée, prêle rameuse, |fi{Equisetum ramosissimum Desf.} Herbe sauvage, utilisée en pharmacopée traditionnelle; sa tige est divisée en petits segments, et elle se brise à l'une de ces articulations si on l'arrache.
 \gf prêle
-\dt 25/Apr/2017
 
 \lx njɤ˧ʈʂɤ˥
 \or nyazhe
@@ -45337,7 +45447,10 @@
 \cf tse˧bæ˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Tinder, touchwood.
 \ge tinder
 \dn 火草
@@ -46772,7 +46885,7 @@
 \pdv tsʰi˥
 \de Mattress.
 \ge 被褥::mattress
-\dn 褥子（汉语借词：被褥）
+\dn 褥子（汉语借词：‘被褥’）
 \gn 褥子（借词：被褥）
 \gr 被褥
 \df Matelas.
@@ -52449,7 +52562,6 @@
 \gn 量词.碗
 \df Classificateur des bols (utilisés comme quantité de mesure du non dénombrable).
 \gf |fg{clf}.bols
-\dt 30/Apr/2017
 
 \lx qʰwɤ˧α
 \sf <nb="B"> 1779b
@@ -52496,6 +52608,8 @@
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \de Seed.
 \ge seed
 \dn 种子
@@ -54949,7 +55063,10 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> Plante clairement identifiée.
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Field penny-cress, |fi{Thlaspi arvense}: a foetid plant with round flat pods.
 \ge field_penny_cress
 \dn 菥蓂
@@ -55364,6 +55481,8 @@
 \va <speaker="M18"> ID.
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \de Mountain.
 \ge mountain
 \dn 山
@@ -63625,7 +63744,7 @@
 \xf feuilles de navet conservées dans la saumure
 \xv tsʰɑ˧-tɕæ˧ɻæ˥
 \xe picked celery (the word |fv{tsʰɑ˧} is a Chinese loanword: |fn{菜})
-\xn 芹菜酸菜（|fv{tsʰɑ˧}这个词是汉语借词：菜)
+\xn 芹菜酸菜（|fv{tsʰɑ˧}这个词是汉语借词：‘菜’)
 \xf céleri en saumure (le mot |fv{tsʰɑ˧} est un emprunt au chinois |fn{菜})
 \xv tsʰɑ˧nɑ˥-tɕæ˩ɻæ˩
 \xe picked celery
@@ -65891,7 +66010,9 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ti˧˥
-\pdc <langue="fra"> |fg{clf} des couches: une couche de
+\pdc <langue="fra"> |fg{clf} des couches
+\pdc <langue="eng"> |fg{clf} for layers
+\pdc <langue="cmn"> 层的|fg{量词}
 \de Mist, fog.
 \ge mist
 \dn 雾
@@ -66277,7 +66398,7 @@
 \so F4
 \de To settle, to decide (Chinese borrowing).
 \ge 定::to_decide/to_settle
-\dn 决定（汉语借词：定）
+\dn 决定（汉语借词：‘定’）
 \gn 决定（借词）
 \df Décider, fixer, arrêter.
 \gf 定::fixer/décider
@@ -66929,6 +67050,8 @@
 \vc <langue="fra" print="n"> ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
+\pdc <langue="eng"> |fg{clf} for round objects
+\pdc <langue="cmn"> 圆形物体的|fg{量词}
 \de Mountain slope, hillside.
 \ge hillside
 \dn 山坡，岗
@@ -69010,7 +69133,10 @@
 \ton MH#
 \lc tsʰæ˧pʰɻ̩˧˥
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Chinese cabbage. This is a calque from the Chinese ‘white vegetable', using the Chinese word for ‘vegetable' in association with the Na word for ‘white'.
 \ge Chinese_cabbage
 \dn 白菜（借汉语‘白菜’的第二个音节来充当这个名词的第一个音节：按摩梭语句法，形容词在名词后面，跟汉语相反）
@@ -70376,6 +70502,8 @@
 \va <speaker="M21"> ID.
 \pdv ʂɯ˩
 \pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Smallpox.
 \ge smallpox
 \dn 天花
@@ -71982,11 +72110,30 @@
 \pdv ɭɯ˧β
 \de Kettle.
 \ge 茶壶::kettle
-\dn 水壶（汉语借词：茶壶）
+\dn 水壶（汉语借词：‘茶壶’）
 \gn 水壶（借词）
 \df Bouilloire.
 \gf 茶壶::bouilloire
-\dt 24/Jul/2017
+
+\lx ɕjo˩ɕjɤ˩
+\or xoxe
+\bw <langue="cmn"> 学校
+\ps n
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\lc ɕjo˩ɕjɤ˩˥
+\so F4
+\de School.
+\ge 学校::school
+\dn 学校
+\gn 学校（借词）
+\df École.
+\gf 学校::école
+\xv ɕjo˩ɕjɤ˩-ʑi˩qʰwɤ˥
+\xe the building(s) of the school, the school buildings
+\xn 学校的楼
+\xf les bâtiments de l'école
 
 \lx tsʰo˧ko˧
 \sf <nb="2011"> 3157
@@ -72573,14 +72720,16 @@
 \ton M
 \lc tsʰo˧tsɯ˧
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Onion; leek.
 \ge 葱子::leek/onion
 \dn 葱，韭葱
 \gn 葱／韭葱
 \df Poireau, oignon.
 \gf 葱子::poireau/oignon
-\dt 07/Oct/2015
 
 \lx ʈʂo˧tsɯ˥
 \or zhozi
@@ -77170,7 +77319,10 @@
 \va <speaker="M21"> u˩tsʰɤ˧˥
 \vc <langue="fra" print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
 \va <speaker="M23"> ID.
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Vegetables (in a broad sense including fresh vegetables and picked vegetables).
 \ge vegetables
 \dn 蔬菜
@@ -77214,7 +77366,10 @@
 \ton LM+H#
 \so F4
 \va <speaker="F5"> ID.
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Chinese cabbage.
 \ge Chinese_cabbage
 \dn 白菜
@@ -79274,10 +79429,6 @@
 \xe One can only see buildings! (A comment by the consultant about the city of Lijiang: the plain is now thoroughly covered by buildings, and one cannot see fields anymore, unlike in Yongning, where until recently there were only a few hamlets scattered among a landscape of groves, pastures, and cultivated fields.)
 \xn 只看到房子！／能看见的只有房子！（合作者说，丽江市区都是房子，看不到田。这一点，不像永宁坝：二十世纪的永宁，只有一些小村落分散在一大片田地中。）
 \xf on ne voit que des maisons/des bâtiments! (commentaires au sujet de la ville de Lijiang, où on ne voit pas les champs, à la différence de la plaine de Yongning: campagne où il y avait peu de maisons et de grands espaces cultivés.
-\xv ɕjo˩ɕjɤ˩-ʑi˩qʰwɤ˥
-\xe the building(s) of the school, the school buildings
-\xn 学校的楼（汉语借词：学校）
-\xf les bâtiments de l'école (du chinois |fn{学校} ‘école’)
 \xv ʑi˧qʰwɤ˧ ʈʂʰv̩˩
 \xe to paint a house
 \xn 给房子刷颜色（直译：‘染房’）
@@ -79290,7 +79441,6 @@
 \xe watchdog
 \xn 看门狗
 \xf chien de garde, chien qui garde la maison
-\dt 27/Apr/2017
 
 \lx ʑi˧ʁæ˥$
 \or xxihrae
@@ -80597,7 +80747,10 @@
 \ton #H
 \lc zɯ˧qʰɑ˧mi˧
 \so F4
-\pdv po˧
+\pdv po˧α
+\pdc <langue="fra"> |fg{clf} des plantes à tiges
+\pdc <langue="eng"> |fg{clf} for plants with a stalk
+\pdc <langue="cmn"> 有根的植物的|fg{量词}
 \de Sabai grass, |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}.
 \ge sabai_grass
 \dn 蓑草、山草、山草根、龙须草、山茅草、羊草、拟金茅
