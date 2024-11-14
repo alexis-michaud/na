@@ -4397,10 +4397,13 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv kʰwɤ˥α
-\pdv qɑ˩
 \pdc <langue="fra"> |fg{clf} des morceaux
 \pdc <langue="eng"> |fg{clf} for pieces/chunks
 \pdc <langue="cmn"> 块的|fg{量词}
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Mane.
 \ge mane
 \dn （马）鬃
@@ -7575,7 +7578,10 @@
 \ton L
 \lc di˩li˩˥
 \so F4
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Bracken. It was used as famine food.
 \ge bracken
 \dn 蕨菜。俗名：龙爪菜
@@ -9523,7 +9529,10 @@
 \va <speaker="M21"> dze˩qʰwɑ˩˥
 \vc <type="hist" print="n" langue="fra"> ton d3
 \va <speaker="M23"> ID.
-\pdv dzi˧
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Shoe.
 \ge shoe
 \dn 鞋、鞋子
@@ -10113,7 +10122,10 @@
 \nt <type="hist" print="n" langue="fra" dom="sem"> L'identification de la plante comme |fi{Adenophora sp.} correspond à celle proposée dans le volume «Médecine mosuo».
 \nt <type="hist" print="n" langue="fra" dom="phono"> La notation de la troisième syllabe est modifiée de /pv̩/ en /pɻ̩/ en juillet 2024.
 \ton LM+#H-
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \so F4
 \de This name is applied to various flowers of which bees are particularly fond, such as the Straight ladybell, |fi{Adenophora sp.}, and the gentian.
 \ge bee_flower
@@ -10801,7 +10813,10 @@
 \lc dʑi˧tɕʰi˧
 \ton M
 \so F4
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
+\pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Trip.
 \ge trip
 \dn 旅途
@@ -11988,7 +12003,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
 \pdc <langue="eng"> |fg{clf} for times
 \pdc <langue="cmn"> 次数的|fg{量词}
@@ -13082,7 +13097,10 @@
 \ton M
 \lc dʑɯ˧qʰɑ˧
 \so F4
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Selfheal, |fi{Prunella vulgaris}: a plant used in Chinese medicine. It yields a decoction that was used in Yongning to cure a sore throat. The decoction is bitter, hence the name.
 \ge selfheal
 \dn 夏枯草。煮出的夏枯草汤液，用来治嗓子痛。
@@ -13372,8 +13390,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> dʑi˩ʁv̩˩-zɯ˩
 \vc <print="n" langue="fra"> Confirmé: différent de F4: dit /ʁv/ et non /ʁo/. Inversement, il a été vérifié que F4 dit /ʁo/ et non /ʁv/.
-\pdv qɑ˩
-\pdc <langue="fra"> botte
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \pdv po˧α
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
 \pdc <langue="eng"> |fg{clf} for plants with a stalk
@@ -13467,7 +13487,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv dzi˧
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Chopsticks.
 \ge chopsticks
 \dn 筷子
@@ -18097,8 +18120,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \pdc <langue="fra"> |fg{clf} des peaux d'animaux
+\pdc <langue="eng"> |fg{clf} pelts / hides (animal skins)
+\pdc <langue="cmn"> 动物皮的|fg{量词}
 \de Skin.
 \ge skin
 \dn 皮肤
@@ -20483,7 +20508,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <type="hist" print="n" langue="fra"> ton m1; mv̩˧ʁu˧hi˧, mv̩˧ʁu˧ hi˩ gi˩ ze˥; vérifié: est ˧ ˧ ˩ ˩ ˥ et non ˥ ˥ ˩ ˩ ˥
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
 \pdc <langue="eng"> |fg{clf} for times
 \pdc <langue="cmn"> 次数的|fg{量词}
@@ -20962,7 +20987,7 @@
 \ton L
 \lc hi˩qʰɑ˩˥
 \so F4
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
 \pdc <langue="eng"> |fg{clf} for times
 \pdc <langue="cmn"> 次数的|fg{量词}
@@ -25260,15 +25285,16 @@
 \ton LM-L#
 \lc jɤ˩ɕjo˧dzɑ˧qʰwɤ˩
 \so F4
-\pdv dzi˧
-\pdc <langue="fra"> |fg{clf} des paires
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Sandal.
 \ge sandal
 \dn 凉鞋
 \gn 凉鞋
 \df Sandale.
 \gf sandale
-\dt 02/Sep/2015
 
 \lx jo˩gi˩
 \sf <nb="B"> 702
@@ -28136,8 +28162,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> kʰɯ˧dʑi˥
 \va <speaker="M21"> ID.
-\pdv dzi˧
-\pdc <langue="fra"> |fg{clf} des paires
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Leggings, puttee.
 \ge leggings
 \dn 裹腿
@@ -28277,8 +28305,10 @@
 \ton MH#
 \lc kɯ˧qʰæ˧ʂe˧˥
 \so F4
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Comet.
 \ge comet
 \dn 流星
@@ -32144,7 +32174,7 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié: n'est pas /dzi/)
 \ton #H
 \so F4
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
 \pdc <langue="eng"> |fg{clf} for times
 \pdc <langue="cmn"> 次数的|fg{量词}
@@ -32540,10 +32570,14 @@
 \lc li˧ʐv̩˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <dom="sem" langue="fra"> (serait un emprunt au chinois, d'après hky)
+\nt <dom="sem" langue="fra" print="n"> (serait un emprunt au chinois, d'après hky)
+\nt <type="hist" print="n" langue="fra"> xxxx classificateur: est-ce bien le bon? attendu pour des végétaux plutôt que pour des pièces de boucherie
 \ton L#
 \so F4
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Tenderloins.
 \ge tenderloins
 \dn 里脊肉
@@ -36210,7 +36244,10 @@
 \so F4
 \nt <type="hist" print="n" langue="fra"> d'abord noté /ɕɯ/; vérifié soigneusement le 1er juin 2024, cf. enregistrement.
 \pdv kʰɯ˩
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Rice seedling.
 \ge rice_seedling
 \dn 水稻秧苗
@@ -39024,7 +39061,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \pdv tʰv̩˩β
 \de Torch.
 \ge torch
@@ -40752,7 +40792,10 @@
 \nt <type="hist" print="n" langue="fra"> (vérifié: n'est pas /dzi/)
 \ton #H
 \so F4
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
+\pdc <langue="fra"> |fg{clf} des fois
+\pdc <langue="eng"> |fg{clf} for times
+\pdc <langue="cmn"> 次数的|fg{量词}
 \de Solar eclipse.
 \ge solar_eclipse
 \dn 日蚀
@@ -42259,7 +42302,10 @@
 \ton L#
 \lc njɤ˧hṽ̩˩
 \so F5
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \pdv kʰɤ˧˥
 \de A plant used as fodder for the pigs.
 \ge pig_fodder
@@ -42452,7 +42498,10 @@
 \ton H#
 \lc njɤ˧mv̩˥
 \so F4
-\pdv qɑ˩
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de A plant used as fodder for the pigs, |fi{Chenopodium album}.
 \ge pig_fodder
 \dn 灰条菜、灰灰菜：喂猪的牧草
@@ -45147,8 +45196,10 @@
 \sd <langue="eng"> object
 \ton L
 \so F4
-\pdv dzi˧
-\pdc <langue="fra"> |fg{clf} des paires
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Sandal.
 \ge 皮鞋::sandal
 \dn 凉鞋。西南官话借词：第一个音节：皮，第二个音节：不明确，同|fv{tɕæ˧hæ˩}。
@@ -63687,7 +63738,10 @@
 \ton L#
 \lc tɕæ˧hæ˩
 \so F4
-\pdv dzi˧
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
 \de Rubber shoes, rubber boots.
 \ge rubber_shoes
 \dn 橡胶鞋（西南官话借词：胶鞋）。
@@ -67832,8 +67886,10 @@
 \ton L
 \lc tʰo˩ʂv̩˩˥
 \so F4
-\pdv qɑ˩
-\pdc <langue="fra"> |fg{clf} des bottes
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Pine needles.
 \ge pine_needles
 \dn 树针
@@ -70500,7 +70556,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ʂɯ˩
+\pdv ʂɯ˩β
 \pdc <langue="fra"> |fg{clf} des fois
 \pdc <langue="eng"> |fg{clf} for times
 \pdc <langue="cmn"> 次数的|fg{量词}
@@ -77388,7 +77444,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \pdv qɑ˩
-\pdc <langue="fra"> |fg{clf} des bottes
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Vegetables.
 \ge vegetables
 \dn 蔬菜
@@ -81032,8 +81091,10 @@
 \ton #H
 \lc ʐv̩˧bæ˧bv̩˧hɑ˧
 \so F4
-\pdv qɑ˩
-\pdc <langue="fra"> |fg{clf} des bottes: une botte de fourrage
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées: une botte de fourrage
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles: a bundle of fodder
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de One of the three types of pig fodder.
 \ge pig_fodder
 \dn 能喂给猪的三种草之一
