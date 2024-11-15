@@ -3354,6 +3354,7 @@
 \doisup 10.24397/pangloss-0004539#S75
 
 \lx õ
+\hm 1
 \or on
 \ps ideophone
 \lc õ
@@ -14779,6 +14780,7 @@
 \dv ŋwɤ˧pʰæ˧ bv̩˥-di˩, | ŋwɤ˧jɤ˩!
 
 \lx õ
+\hm 2
 \or a
 \ps intj
 \ton 0
@@ -19734,7 +19736,7 @@
 \df Demoiselle de la noblesse, princesse.
 \gf demoiselle_noble
 
-\xv hæ̃˧kʰo˧-mi˧
+\lx hæ̃˧kʰo˧-mi˧
 \sf <nb="B"> 267
 \sf <nb="2011"> 347
 \or haekomi
@@ -21105,7 +21107,7 @@
 \xn “不是亲戚，也可以变成亲戚！”这个俗语来形容朋友之间的深情，变成像家人之间的感情。
 \xf «Même si on n'est pas de la même famille (au départ), on peut le devenir!» Formule traditionnelle pour désigner les liens quasi-familiaux tissés entre amis, qui reviennent à des formes d'adoption au sein du cercle familial.
 
-\xv hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
+\lx hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
 \or hinqi
 \mr hĩ˧-tɕʰɯ#˥
 \mr hĩ˧-ʈʂɤ#˥
@@ -46480,7 +46482,7 @@
 \xf «Les Naxi mangent de la viande de grenouille; ils se vêtent de gilets en peau de grenouille; ils se font des balais avec la queue des grenouilles!»
 \xc PROVERBE
 
-\xv dʑɯ˩-pɤ˩mi˩
+\lx dʑɯ˩-pɤ˩mi˩
 \or jjibemi
 \mr dʑɯ˩
 \mr pɤ˩mi˩
@@ -50771,7 +50773,7 @@
 \xf Tu fais peur aux gens!
 \xv ʈʂʰɯ˧-ɳɯ˧ | hĩ˧ qv̩˩-zo˩!
 \xe He frightens people!
-\xn他吓人！
+\xn 他吓人！
 \xf Il fait peur aux gens!
 \xv ʈʂʰɯ˧ | njæ˩ qv̩˩-tsʰɯ˩˥!
 \xe He frightens people!
@@ -52772,23 +52774,6 @@
 \gn 树液
 \df Sève, résine.
 \gf sève/résine
-
-\lx tʰo˩ʁæ˩
-\mr ʁæ˩˥
-\or tohrae
-\ps n
-\sd <langue="fra"> plante
-\sd <langue="eng"> plant
-\ton L
-\lc tʰo˩ʁæ˩˥
-\cf tʰo˧dzi˩
-\so F4
-\de Pine resin.
-\ge resin
-\dn 松脂
-\gn 松脂
-\df Résine de pin.
-\gf résine
 
 \lx ʁæ˧
 \sf <nb="B"> 1048
@@ -55457,28 +55442,6 @@
 \xf C'est achevé!
 \dt 06/Jun/2017
 
-\lx tsɯ˧ʈʂɯ˩
-\or zizhi
-\bw <langue="cmn"> 组织
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton L#
-\lc tsɯ˧ʈʂɯ˩
-\so F4
-\de To organize.
-\ge 组织::to_organize
-\dn 组织
-\gn 组织（借词）
-\df Organiser.
-\gf 组织::organiser
-\dv le˧-ʁwɤ˥~ʁwɤ˩
-\xv le˧-tsɯ˥ʈʂɯ˩
-\xe |fg{accomp} 〜
-\xn |fg{实施} 〜
-\xf |fg{accomp} 〜
-\PHONO
-
 \lx tɕɛ˥ʈʂʰɑ˩
 \or jiancha
 \bw <langue="cmn"> 检查
@@ -55499,7 +55462,7 @@
 \xe |fg{accomp} 〜
 \xn |fg{实施} 〜
 \xf |fg{accomp} 〜
-\PHONO
+\xc PHONO
 
 \lx tsɯ˧ʈʂɯ˩
 \or zizhi
@@ -55521,7 +55484,7 @@
 \xe |fg{accomp} 〜: to organize
 \xn |fg{实施} 〜：组织了
 \xf |fg{accomp} 〜
-\PHONO
+\xc PHONO
 
 \lx tjɤ˧no˥
 \or waezi
@@ -55814,7 +55777,7 @@
 \xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
 \xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
 
-\xv ʁwɤ˧ʐv̩˧-lo˩mæ˩
+\lx ʁwɤ˧ʐv̩˧-lo˩mæ˩
 \or Wuaru-Lomae
 \mr ʁwɤ˧ʐv̩#˥
 \mr lo˩mæ˩
@@ -57477,7 +57440,7 @@
 \df Nom donné par les Tibétains à la montagne |fv{/kɤ˧mv̩˧˥/} (nom chinois: Gemu).
 \gf nom_tibétain_de_la_montagne_Gemu
 
-\xv se˧gi˧-kɤ˩mv̩˩
+\lx se˧gi˧-kɤ˩mv̩˩
 \or Seiggi Gemu
 \mr se˧gi#˥
 \mr kɤ˧mv̩˧˥
@@ -67895,13 +67858,15 @@
 \lx tʰo˩ʁæ˩
 \sf <nb="B"> 2144
 \sf <nb="2011"> 3263
+\mr ʁæ˩˥
 \or tohrae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (notation 2006: tʰo˧ʁæ˩˥)
-\ton L
 \lc tʰo˩ʁæ˩˥
+\cf tʰo˧dzi˩
+\ton L
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -79765,7 +79730,7 @@
 \df Route (monosyllabe).
 \gf route(monosyll.)
 
-\xv ʐɤ˩ se˩ zo˩
+\lx ʐɤ˩ se˩ zo˩
 \or reseisso
 \mr ʐɤ˩˧
 \mr se˥1
