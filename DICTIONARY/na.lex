@@ -14,7 +14,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˩˧
 \vc <langue="fra" print="n"> Pas de nasalité chez M23.
-\pdv mi˩
+\pdv mi˩β
 \de Chicken.
 \ge chicken
 \dn 鸡
@@ -121,7 +121,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Goose.
 \ge goose
 \dn 鹅
@@ -512,7 +512,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> æ˩ɬi˧pʰæ˧˥
 \vc <type="hist" print="n" langue="fra"> Ton vérifié. En cadre: /ʈʂʰɯ˥ ˩ ˧ ˧ ɲi˥/.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Mirror.
 \ge mirror
 \dn 镜子
@@ -561,7 +561,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Hen.
 \ge hen
 \dn 母鸡
@@ -641,7 +641,7 @@
 \ton LM+#H
 \lc ɑ˩mi˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female goose.
 \ge female_goose
 \dn 母鹅
@@ -693,7 +693,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Cliff, overhanging cliff. This term designates the top of the cliff: the relatively flat ground close to the precipice. To refer to the steep (vertical) side of the cliff, one adds |fv{/lɑ˧bi˧/} ‘steep slope'.
 \ge cliff
 \dn 岩石、悬崖、崖山、崖壁
@@ -812,7 +812,7 @@
 \ton LM+#H
 \lc ɑ˩pʰv̩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Gander; male goose.
 \ge gander
 \dn 公鹅
@@ -838,7 +838,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> æ˧qæ˩
 \vc <langue="fra" print="n"> +ɲi˩
-\pdv mi˩
+\pdv mi˩β
 \de Parrot.
 \ge parrot
 \dn 鹦鹉
@@ -1338,7 +1338,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Rooster.
 \ge rooster
 \dn 公鸡
@@ -1452,7 +1452,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Large rock.
 \ge large_rock
 \dn 一大片大岩石
@@ -1529,7 +1529,7 @@
 \lc ɑ˩zo˥
 \so F4
 \pdv ɭɯ˧β
-\pdv mi˩
+\pdv mi˩β
 \de Gosling, baby goose.
 \ge gosling
 \dn 小鹅
@@ -1650,15 +1650,15 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" dom="ton" print="n"> Réalisé montant en forme de citation. Voir commentaire au sujet de la variation entre ton montant et ton M à l'isolée chez Mme Latami.
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \pdc <langue="fra"> |fg{clf} pour un petit bout de corde
 \pdc <langue="eng"> |fg{clf} for a short piece of rope
 \pdc <langue="cmn"> |fg{量词}：一小段绳子
-\pdv ɖæ˩
+\pdv ɖæ˩α
 \pdc <langue="fra"> |fg{clf} pour une section de corde, qui peut aller jusqu'à plusieurs mètres
 \pdc <langue="eng"> |fg{clf} for a section of rope (up to several meters)
 \pdc <langue="cmn"> |fg{量词}：一段绳子（可以是几米长）
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} pour une corde entière
 \pdc <langue="eng"> |fg{clf} for a whole rope
 \pdc <langue="cmn"> |fg{量词}：一整条绳子
@@ -1722,7 +1722,7 @@
 \lc bæ˩˥
 \cf bæ˩dʑɯ˥
 \so F4
-\pdv bæ˩
+\pdv bæ˩β
 \de Crops.
 \ge crops
 \dn 庄稼
@@ -1766,7 +1766,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \de Pus.
 \ge pus
 \dn 脓
@@ -1870,7 +1870,7 @@
 \lc bæ˩bæ˩˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv bæ˩
+\pdv bæ˩α
 \de Flower.
 \ge flower
 \dn 花
@@ -1958,7 +1958,7 @@
 \ton M
 \lc bæ˧ɖæ˧
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Short rope.
 \ge short_rope
 \dn 短绳
@@ -1980,7 +1980,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv bæ˩
+\pdv bæ˩β
 \de Crops, harvest.
 \ge crops/harvest
 \dn 庄稼
@@ -2060,7 +2060,7 @@
 \vc <langue="fra" print="n"> ton différent de F4
 \vc <langue="fra" print="n"> La composante /bɑ˧lɑ˧/ de ce mot n'est pas perçue comme étant le même mot que `vêtement' /bɑ˩lɑ˩/.
 \va <speaker="M23"> bɑ˧lɑ˧kʰɯ˧tɕʰɤ˧
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Spider.
 \ge spider
 \dn 蜘蛛
@@ -2070,7 +2070,7 @@
 \sn 2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Spider web, cobweb.
 \ge cobweb
 \dn 蜘蛛网
@@ -2145,7 +2145,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Duck (without a specification of gender).
 \ge duck
 \dn 鸭子
@@ -2180,7 +2180,7 @@
 \ton M
 \so F4
 \sn 1
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Thick rope.
 \ge thick_rope
 \dn 粗绳索
@@ -2188,7 +2188,7 @@
 \df Grosse corde.
 \gf grosse_corde
 \sn 2
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Long rope.
 \ge long_rope
 \dn 长绳索
@@ -2205,7 +2205,7 @@
 \sd <langue="eng"> animal
 \ton -L
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female duck. This form with a feminine suffix is cumbersome and clumsy, and is only used in cases where the aim is to remove any ambiguity about the sex of the animal.
 \ge female_duck
 \dn 母鸭子。这种带有女性后缀的词比较笨拙，只有在需要消除对动物性别的疑问才会使用。
@@ -2222,7 +2222,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male duck.
 \ge male_duck
 \dn 公鸭子
@@ -2270,7 +2270,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male duck.
 \ge male_duck
 \dn 公鸭子
@@ -2400,7 +2400,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Reins.
 \ge reins
 \dn 缰绳
@@ -2843,7 +2843,7 @@
 \va <speaker="M21"> bi˧hæ˧
 \vc <langue="fra" print="n"> Ton différent de celui de F4, qui est d2; confirmé.
 \va <speaker="M23"> bi˧hæ˥
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Girth (for horse).
 \ge girth
 \dn 马肚带
@@ -3580,7 +3580,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \pdv v̩˧
 \de Pig.
 \ge pig
@@ -4126,7 +4126,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \pdv v̩˧
 \de Sow.
 \ge sow
@@ -4315,7 +4315,7 @@
 \va <speaker="F5"> *
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> Le locuteur utilise la forme /hwɑ˧ʂɯ˧lɑ˧bv̩˥/ (+ɲi˩).
-\pdv mi˩
+\pdv mi˩β
 \de Dung beetle.
 \ge dung_beetle
 \dn 屎壳郎，蜣螂
@@ -4488,7 +4488,7 @@
 \ton LM+#H
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wild boar.
 \ge wild_boar
 \dn 野猪
@@ -4786,7 +4786,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Food steamer.
 \ge food_steamer
 \dn 蒸笼
@@ -4805,7 +4805,7 @@
 \nt <type="hist" print="n" langue="fra"> D'abord noté avec un ton haut: bv̩˥.
 \so F4
 \va <speaker="F5"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Intestine.
 \ge intestine
 \dn 肠子
@@ -4830,7 +4830,7 @@
 \sd <langue="eng"> body
 \ton H#
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Large intestine.
 \ge large_intestine
 \dn 大肠
@@ -4848,7 +4848,7 @@
 \sd <langue="eng"> body
 \ton L#
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Small intestine.
 \ge small_intestine
 \dn 小肠
@@ -4869,7 +4869,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Insect.
 \ge insect
 \dn 虫
@@ -5120,7 +5120,7 @@
 \nt <type="hist" print="n" langue="fra"> (confirmé à nouveau en 2011) (sémantique: avais traduit avant 2017 comme: 蚕; est corrigé par TS. Il n'existe pas de vers à soie à Yongning.)
 \ton MH#
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Worm.
 \ge worm
 \dn 蠕虫
@@ -5162,7 +5162,7 @@
 \ton M
 \so F4
 \va <speaker="M23"> bv̩˩mi˩
-\pdv mi˩
+\pdv mi˩β
 \de Female yak, dri, drimo, nak.
 \ge female_yak
 \dn 母牦牛
@@ -5188,7 +5188,7 @@
 \sd <langue="eng"> object
 \ton M
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Large food steamer.
 \ge large_food_steamer
 \dn 大蒸笼
@@ -5292,7 +5292,7 @@
 \sd <langue="eng"> animal
 \ton M
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male yak (elicited form; the commonly used form is |fv{/bɻ̩˩ʂwæ˩/}).
 \ge male_yak
 \dn 公牦牛（通常的说法是：|fv{bɻ̩˩ʂwæ˩}）
@@ -5441,7 +5441,7 @@
 \so F4
 \va <speaker="F5"> bv̩˧dv̩˩-ʑi˧-hĩ˧
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Snail.
 \ge snail
 \dn 蜗牛，螺蛳
@@ -5462,7 +5462,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Fly.
 \ge fly
 \dn 苍蝇
@@ -5635,7 +5635,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de  yak calf (baby yak).
 \ge baby_yak
 \dn 小牦牛
@@ -5659,7 +5659,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> +ɲi˩
 \ton M
-\pdv mi˩
+\pdv mi˩β
 \de Dragon.
 \ge dragon
 \dn 龙
@@ -6114,9 +6114,9 @@
 \pdc <langue="fra"> |fg{clf} pour le grain: une hotte
 \pdc <langue="eng"> for paddy rice
 \pdc <langue="cmn"> 用来指稻子
-\pdv pʰæ˧˥
-\pdc <langue="fra"> |fg{clf} pour les champs
-\pdc <langue="eng"> for paddy fields
+\pdv pʰæ˧˥α
+\pdc <langue="fra"> |fg{clf} des objets plats: pour les champs
+\pdc <langue="eng"> |fg{clf} for flat objects: to refer to paddy fields
 \pdc <langue="cmn"> 用来指稻田
 \de Paddy rice; by extension: paddy field.
 \ge paddy
@@ -6140,7 +6140,7 @@
 \nt <langue="fra" dom="ton"> Le schéma tonal est celui attendu en composition entre ‘riz’, |fv{ɕi˧ɭɯ˧}, et ‘champ inondé’, |fv{lv̩˧pʰv̩˩2}.
 \ton -L#
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Paddy field.
 \ge paddy_field
 \dn 水稻田
@@ -6162,7 +6162,7 @@
 \sy ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so F4
 \va <speaker="F5"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \pdv kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -6184,7 +6184,7 @@
 \cf lv̩˧pʰv̩˩2
 \cf ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \pdv kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -6325,7 +6325,7 @@
 \ton -L-
 \lc ɕi˧tv̩˧di˩lv̩˧
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \pdv kɤ˧˥
 \de Paddy field.
 \ge paddy_field
@@ -8005,7 +8005,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Thigh.
 \ge thigh
 \dn 大腿
@@ -8567,7 +8567,7 @@
 \ton LM+#H
 \lc ɖɯ˩mi˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female mule. This is a sterile animal. It is docile and strong, and can perform important tasks such as being the lead animal in a caravan. It is therefore a highly prized animal.
 \ge female_mule
 \dn 母骡子、母马骡
@@ -8829,7 +8829,7 @@
 \ton LM
 \lc dv̩˩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Weasel.
 \ge weasel
 \dn 黄鼠狼，黄喉貂
@@ -8866,7 +8866,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \de Poison.
 \ge poison
 \dn 毒
@@ -8974,7 +8974,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female weasel.
 \ge female_weasel
 \dn 母黄鼠狼
@@ -9016,7 +9016,7 @@
 \ton LM+#H ≈ LM
 \so F4
 \va <speaker="F4"> dv̩˩pʰv̩˧
-\pdv mi˩
+\pdv mi˩β
 \de Male weasel.
 \ge male_weasel
 \dn 公黄鼠狼
@@ -9759,7 +9759,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Bat; used for all species, including the flying squirrel.
 \ge bat
 \dn 蝙蝠、飞鼠
@@ -10027,7 +10027,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Bee.
 \ge bee
 \dn 蜜蜂
@@ -10047,7 +10047,7 @@
 \sd <langue="eng"> plant
 \ton LM-L
 \so F4
-\pdv bæ˩
+\pdv bæ˩α
 \de |fi{Artemisia suboligata}, a plant with medicinal properties (to treat digestive ailments). The name literally means “bees' flower”.
 \ge Artemisia_suboligata
 \dn 茶绒蒿，一种具有药用价值（治疗消化系统疾病）的植物。这个名词的字面意思是“蜜蜂花”。
@@ -11080,7 +11080,7 @@
 \ton LM
 \so F4
 \va <speaker="F5"> *
-\pdv mi˩
+\pdv mi˩β
 \de Lizard.
 \ge lizard
 \dn 壁虎，蜥蜴，四脚蛇
@@ -11874,7 +11874,7 @@
 \nt <type="hist" print="n" langue="fra"> avant juillet 2012: noté ‡dzo˧mi˧, par confusion avec ‘grande cuve'
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female lizard.
 \ge female_lizard
 \dn 母壁虎
@@ -11946,7 +11946,7 @@
 \vc <langue="fra" dom="ton"> LM+#H
 \vc <langue="eng" dom="ton"> LM+#H
 \vc <langue="cmn" dom="ton"> LM+#H
-\pdv mi˩
+\pdv mi˩β
 \pdv ɭɯ˧β
 \de Male lizard.
 \ge male_lizard
@@ -12174,7 +12174,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \pdv ɭɯ˧β
 \de Baby lizard.
 \ge baby_lizard
@@ -12344,7 +12344,7 @@
 \vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Water.
 \ge water
 \dn 水
@@ -12530,7 +12530,7 @@
 \vc <langue="cmn" dom="ton"> M
 \va <speaker="M21"> dʑi˧dv̩˧
 \vc <type="hist" print="n" langue="fra"> ton d1
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Earthworm.
 \ge earthworm
 \dn 蚯蚓
@@ -12580,7 +12580,7 @@
 \so F4
 \va <speaker="M21"> dʑi˩dze˩mi˧
 \vc <print="n" langue="fra"> +ɲi˩
-\pdv mi˩
+\pdv mi˩β
 \de Cicada.
 \ge cicada
 \dn 蝉
@@ -12743,7 +12743,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Girdle, waistband (a large piece of fabric worn at the waist; can be used to carry a child); belt.
 \ge waistband/belt
 \dn 布带子，用来背小孩的带子，腰带
@@ -12875,7 +12875,7 @@
 \ton M
 \lc dʑɯ˧mi˧
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Large river.
 \ge large_river
 \dn 大河
@@ -12992,7 +12992,7 @@
 \va <speaker="M21"> dʑi˩ ʈwæ˧˥
 \vc <print="n" langue="fra"> Corrigé le 10/5/08; la veille, avait indiqué: dzɯ˩ ʈwæ˧˥), ton d8; dʑi˩ ʈwæ˧˥ ɲi˩.
 \vc <print="n" langue="fra"> La proximité phonétique entre dʑi et dzɯ est commune à M21 et aux locutrices F4 et F5.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Ice.
 \ge ice
 \dn 冰
@@ -13275,7 +13275,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Quail, rail, |fi{Coturnix}; used when identifying pictures of various species of |fi{Turnix}, |fi{Coturnix}, and |fi{Crex}.
 \ge quail
 \dn 鹌鹑
@@ -13300,7 +13300,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wild boar.
 \ge wild_boar
 \dn 野猪
@@ -13347,7 +13347,7 @@
 \lc dʑɯ˩ʁo˩hwɤ˩li˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Yunnan wild cat, |fi{Felis temincki}.
 \ge wild_cat
 \dn 野猫
@@ -13441,7 +13441,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Wave.
 \ge wave
 \dn 波浪
@@ -13762,7 +13762,7 @@
 \ton L
 \lc dʑɯ˩zo˩˥
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Brook, rivulet.
 \ge brook
 \dn 溪流
@@ -14058,7 +14058,7 @@
 \lc ɖʐv̩˧
 \so F4
 \va <speaker="F5"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Large vein, artery.
 \ge artery
 \dn 动脉
@@ -14154,7 +14154,7 @@
 \ton #H-
 \lc ɖʐv̩˧nɑ˥mi˩
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Heron, a non-migratory bird.
 \ge heron
 \dn 鹭鸶，是鹳形目鹭科的鸟类，具有长嘴、长颈、长脚的外形。
@@ -14212,7 +14212,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Artery.
 \ge artery
 \dn 动脉
@@ -14342,7 +14342,7 @@
 \lc ɖʐwæ˩˥
 \sy ɖʐwæ˧mi˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Sparrow (monosyllabic form; not in common use). The commonly used form is disyllabic: /|fv{ɖʐwæ˧mi˧}/.
 \ge sparrow
 \dn 麻雀（单音节词。一般用双音节词|fv{ɖʐwæ˧mi˧}。）
@@ -14470,7 +14470,7 @@
 \lc ɖʐwæ˧lɑ˧ʁo˧ɖɯ˧˥
 \so F4
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de A type of sparrow.
 \ge sparrow
 \dn 雀
@@ -14488,7 +14488,7 @@
 \ton M
 \lc ɖʐwæ˧mi˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Sparrow.
 \ge sparrow
 \dn 麻雀
@@ -14505,7 +14505,7 @@
 \ton #H
 \lc ɖʐwæ˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male sparrow.
 \ge male_sparrow
 \dn 公麻雀
@@ -14527,7 +14527,7 @@
 \lc ɖʐwæ˧zo˧
 \so F4
 \pdv v̩˧
-\pdv mi˩
+\pdv mi˩β
 \de Baby sparrow, little sparrow.
 \ge baby_sparrow
 \dn 小麻雀
@@ -14659,7 +14659,7 @@
 \so F4
 \va <speaker="F5"> ə˩bo˧tɕo˧li˧
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Cricket.
 \ge cricket
 \dn 蟋蟀
@@ -18642,7 +18642,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Back.
 \ge back
 \dn 脊背
@@ -19150,7 +19150,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> hæ˩˥
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Gold.
 \ge gold
 \dn 金子
@@ -19870,7 +19870,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Plait; braid.
 \ge plait
 \dn 辫子
@@ -19999,7 +19999,7 @@
 \va <speaker="M21"> lhæ˩ʂɤ˩
 \vc <type="hist" print="n" langue="fra"> ton d3; réalisation à l'isolée: lhæ˩ʂɤ˩˥
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Magpie.
 \ge magpie
 \dn 喜鹊
@@ -20949,7 +20949,7 @@
 \ton L
 \lc hi˩ɲi˩zo˩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Salamander.
 \ge salamander
 \dn 娃娃鱼
@@ -21282,7 +21282,7 @@
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Pheasant, |fi{Phasianus colchicus}.
 \ge pheasant
 \dn 雉鸡，|fi{Phasianus colchicus}。别名：环颈雉、野鸡、山鸡、七彩山鸡。
@@ -21305,7 +21305,7 @@
 \ton #H
 \so F4
 \nt <type="hist" print="n" dom="ton" langue="fra"> Notation de Roselle Dobbs, 10 juillet 2024: suggère une voyelle ɻ̩ et non v̩ xxxx
-\pdv mi˩
+\pdv mi˩β
 \de Partridge, |fi{Francolinus pintadeanus (Scopoli)}.
 \ge partridge
 \dn 鹧鸪，|fi{Francolinus pintadeanus (Scopoli)}.
@@ -21324,7 +21324,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Partridge, |fi{Francolinus pintadeanus (Scopoli)}.
 \ge partridge
 \dn 鹧鸪，|fi{Francolinus pintadeanus (Scopoli)}.
@@ -21343,7 +21343,7 @@
 \sd <langue="eng"> animal
 \ton M
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Pheasant, |fi{Phasianus colchicus}.
 \ge 野鸡::pheasant
 \dn 野鸡：雉鸡，|fi{Phasianus colchicus}。别名：环颈雉、山鸡、七彩山鸡。
@@ -21650,7 +21650,7 @@
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté hu˩mi˩˧
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Hen pheasant, female pheasant.
 \ge female_pheasant
 \dn 母雉
@@ -21676,7 +21676,7 @@
 \sd <langue="eng"> animal
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Cock pheasant, male pheasant.
 \ge male_pheasant
 \dn 公雉
@@ -22236,7 +22236,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Body hair; animal's hair; porcupine's quills.
 \ge body_hair
 \dn 毛、豪猪的翎
@@ -22411,7 +22411,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wild animal.
 \ge wild_animal
 \dn 野兽
@@ -22526,7 +22526,7 @@
 \ton H#
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Squirrel.
 \ge squirrel
 \dn 松鼠，灰鼠
@@ -22551,7 +22551,7 @@
 \sd <langue="eng"> body
 \ton H#
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Wart.
 \ge wart
 \dn 瘊子、肉赘
@@ -22680,7 +22680,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Rat.
 \ge rat
 \dn 老鼠
@@ -22988,7 +22988,7 @@
 \sd <langue="eng"> animal
 \ton MH
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Cat (monosyllable).
 \ge cat
 \dn 猫（单音节）
@@ -23194,7 +23194,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Cat.
 \ge cat
 \dn 猫
@@ -23280,7 +23280,7 @@
 \sd <langue="eng"> animal
 \ton H#
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Old cat (male or female).
 \ge old_cat
 \dn 老猫（不分公、母）
@@ -23324,7 +23324,7 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> hwɤ˧mi#˥
 \vc <type="hist" print="n" langue="fra"> ton d2a
-\pdv mi˩
+\pdv mi˩β
 \de She-cat, queen.
 \ge she_cat
 \dn 母猫
@@ -23353,7 +23353,7 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Tom-cat, tom.
 \ge tom
 \dn 公猫
@@ -23814,7 +23814,7 @@
 \ton H#
 \so F4
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Black ox.
 \ge black_ox
 \dn 黑牛
@@ -23832,7 +23832,7 @@
 \ton MH
 \so F4
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de White ox.
 \ge black_ox
 \dn 白牛
@@ -23850,7 +23850,7 @@
 \ton MH
 \so F4
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Chestnut-coloured ox.
 \ge ox_of_chestnut_colour
 \dn 栗色牛
@@ -24459,7 +24459,7 @@
 \ton #H
 \so F4
 \pdv ɭɯ˧β
-\pdv mi˩
+\pdv mi˩β
 \de Male ox, bull.
 \ge bull
 \dn 公牛
@@ -24535,7 +24535,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Yellow cow / beef.
 \ge yellow_cow
 \dn 黄牛
@@ -25421,7 +25421,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Potato grub, |fi{Agriotes lineatus}.
 \ge potato_grub
 \dn 蛴螬
@@ -25757,7 +25757,7 @@
 \vc <langue="eng" dom="ton"> #H
 \vc <langue="cmn" dom="ton"> #H
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Male sheep.
 \ge male_sheep
 \dn 公绵羊
@@ -26242,7 +26242,7 @@
 \ton LM
 \lc ki˩mi˩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A large fly with a green head; its larvae are particularly harmful.
 \ge large_fly
 \dn 绿头大苍蝇
@@ -26369,7 +26369,7 @@
 \ton LM+#H
 \lc ki˩ti˥
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Leather belt.
 \ge leather_belt
 \dn 皮腰带
@@ -26904,7 +26904,7 @@
 \ton LM
 \lc ko˩tsɯ˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A sort of dove.
 \ge dove
 \dn 一种鸽子
@@ -27184,7 +27184,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Eagle. The same term is used by the main consultant for other birds of prey.
 \ge eagle
 \dn 老鹰。主合作人还将该词用于其他猛禽。
@@ -27877,7 +27877,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -28419,7 +28419,7 @@
 \ton #H
 \lc kʰɯ˧ʈʂɤ˧
 \so F4
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique.
 \pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}.
@@ -28486,7 +28486,7 @@
 \lc kʰɯ˩ʈɯ˩˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Root.
 \ge root
 \dn 根
@@ -28507,7 +28507,7 @@
 \ton L+H#
 \lc kʰɯ˩tv̩˩ɭɯ˥
 \so F4
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Leg (of chicken).
 \ge chicken_leg
 \dn 鸡腿
@@ -28835,7 +28835,7 @@
 \nt <dom="ton" langue="cmn"> 这个单音节词不常用，但它还是存在。根据其与/|fv{ʐwæ˥}/‘马’和 /|fv{ʝi˥1}/‘牛’（更常用的单音节词）相同的变调，其声调被分析为#H。‘狗年’的声调与‘马年’和‘牛年’相同，而‘马’和‘牛’的本调都是#H。这种声调模式与其他年名的声调模式不同，其他年名对应的单音节词分别承载L、ML、M和MH调。
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \pdv v̩˧
 \pdv jɤ˧˥
 \de Dog (monosyllable).
@@ -29244,7 +29244,7 @@
 \sd <langue="eng"> animal
 \ton H#
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Dog (formal word, used in elevated speech).
 \ge dog
 \dn 狗（尊敬用语）
@@ -29336,7 +29336,7 @@
 \ton #H
 \so F4
 \pdv v̩˧
-\pdv mi˩
+\pdv mi˩β
 \pdv ɭɯ˧β
 \de He-dog (elicited form).
 \ge he-dog
@@ -29461,7 +29461,7 @@
 \vc <langue="fra" dom="ton"> M
 \vc <langue="eng" dom="ton"> M
 \vc <langue="cmn" dom="ton"> M
-\pdv mi˩
+\pdv mi˩β
 \de Flea.
 \ge flea
 \dn 跳蚤
@@ -29735,7 +29735,7 @@
 \lc kʰv̩˧zo˧
 \so F4
 \pdv v̩˧
-\pdv mi˩
+\pdv mi˩β
 \pdv ɭɯ˧β
 \de Male dog. The term is also used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
 \dn 公狗（给刚出生的男孩子的名字，让鬼对他不感兴趣，不过来害小孩）
@@ -30951,7 +30951,7 @@
 \lc lɑ˧mi˧
 \so F4
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Female tiger.
 \ge female_tiger
 \dn 母老虎
@@ -31066,7 +31066,7 @@
 \ton H$
 \lc læ˧ʁæ˧mi˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female raven. (This is not a common term: in everyday language, no distinction is made between male and female ravens.)
 \ge female_raven
 \dn 母乌鸦（这不是一个通用词：在日常用语中，乌鸦没有公母之分）
@@ -31082,7 +31082,7 @@
 \ton #H
 \lc læ˧ʁæ˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male raven. (This is not a common term: in everyday language, no distinction is made between male and female ravens.)
 \ge male_raven
 \dn 公乌鸦（这不是一个通用词：在日常用语中，乌鸦没有公母之分）
@@ -31108,7 +31108,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> lɑ˧ʁæ#˥
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Raven.
 \ge raven
 \dn 乌鸦
@@ -31711,7 +31711,7 @@
 \lc ɬi˧
 \so F4
 \pdv pʰo˧˥α
-\pdv mi˩
+\pdv mi˩β
 \de Roebuck, hornless river deer.
 \ge roebuck
 \dn 獐子
@@ -31989,7 +31989,7 @@
 \ton L#
 \so F4
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de The river that flows through the plain of Yongning.
 \ge river_of_Yongning
 \dn 永宁坝子的河流
@@ -32384,7 +32384,7 @@
 \so F4
 \pdv v̩˧
 \pdv ɭɯ˧β
-\pdv mi˩
+\pdv mi˩β
 \de Male roebuck, male hornless river deer.
 \ge male_roebuck
 \dn 公獐子
@@ -33057,7 +33057,7 @@
 \sd <langue="eng"> society
 \ton MH#
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Suspended bridge; zip line, flying fox.
 \ge suspended_bridge/zip_line
 \dn 索桥，溜索
@@ -34222,7 +34222,7 @@
 \cf lo˩bv̩˧-ɭɯ˩
 \so F4
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Elbow.
 \ge elbow
 \dn 肘
@@ -34242,7 +34242,7 @@
 \ton LM
 \lc lo˩ʈv̩˥
 \so F4
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Fist.
 \ge fist
 \dn 拳
@@ -34560,7 +34560,7 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ɬv̩˧˥, ton m4b; confirmé: n'est pas m1
 \va <speaker="M23"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Brains.
 \ge brains
 \dn 脑子、脑髓
@@ -34767,7 +34767,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ɲi˧mi˧mæ˧dv̩#˥
-\pdv mi˩
+\pdv mi˩β
 \de Praying mantis.
 \ge praying_mantis
 \dn 螳螂
@@ -35608,7 +35608,7 @@
 \va <speaker="F5"> mæ˩ɖʐv̩˥
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Whip.
 \ge whip
 \dn 鞭子
@@ -36243,7 +36243,7 @@
 \ton #H
 \so F4
 \nt <type="hist" print="n" langue="fra"> d'abord noté /ɕɯ/; vérifié soigneusement le 1er juin 2024, cf. enregistrement.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdv qɑ˩γ
 \pdc <langue="fra"> |fg{clf} des bottes, des brassées
 \pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
@@ -36759,7 +36759,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Owl.
 \ge owl
 \dn 猫头鹰
@@ -36776,7 +36776,7 @@
 \ton L#-
 \lc mo˧jo˩mi˩pʰv̩˩
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male owl.
 \ge male_owl
 \dn 公猫头鹰
@@ -37668,7 +37668,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Dragon.
 \ge dragon
 \dn 龙
@@ -37732,7 +37732,7 @@
 \vc <langue="fra" print="n"> 直译：“天（上的）人喝水”。
 \vc <print="n" langue="fra" dom="dialect"> Parmi les exemples fournis par M18: |fv{tsʰɯ˧ ɲi˧ mv̩˧hĩ˥ dʑi˩ ʈʰɯ˩ dʑjɤ˩˥} “aujourd'hui, le mandarin du ciel est en train de boire". Le morphème |fv{dʑjɤ˩˥} est l'aspect imperfectif: “est en train de" (avais d'abord noté |fv{dʑo˩˥}, suivant la prononciation de F4).
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Rainbow.
 \ge rainbow
 \dn 彩虹
@@ -37771,7 +37771,7 @@
 \sd <langue="eng"> natural environment
 \ton H#
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Rainbow (simplified form of |fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}).
 \ge rainbow
 \dn 彩虹（|fv{mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩}的简化形式）
@@ -38964,7 +38964,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> mv̩˧ʈʂv̩˥, ton d7
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Wrinkle.
 \ge wrinkle
 \dn 皱纹
@@ -39147,7 +39147,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> hæ˧mv̩˧ʐe˧ +ɲi˥ “fusil des Han"; ʁo˧dzɯ˩mv̩˩ʐe˩: autre arme archaïque, “arme des Tibétains"
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Gun; firelock.
 \ge gun
 \dn 枪，明火枪
@@ -40559,7 +40559,7 @@
 \vc <langue="fra" print="n" dom="ton"> L
 \va <speaker="M18"> nju˩bv̩˩-ʂe˩sɑ˧
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Grasshopper, cricket.
 \ge grasshopper
 \dn 蟋蟀
@@ -40579,7 +40579,7 @@
 \lc ɲi˩bɻ̩˩ʂe˩sɑ˥
 \so F4
 \va <speaker="F5"> *
-\pdv mi˩
+\pdv mi˩β
 \de Dragonfly.
 \ge dragonfly
 \dn 蜻蜓
@@ -40649,7 +40649,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Rope attached to a cow's nasal ring.
 \ge nose_rope/nasal_ring
 \dn 牛鼻绳。也可以来指牛鼻圈。
@@ -40857,7 +40857,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Rays (of sunshine).
 \ge rays_of_sunshine
 \dn 太阳的光芒、太阳的光线
@@ -40884,7 +40884,7 @@
 \lc kʰɯ˧ʂɯ˧
 \cf ɲi˧mi˧-kʰɯ˧ʂɯ˧
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Visible rays (of sunshine); first rays (of sunshine) in the morning. Made up of ‘thread’ and ‘new’.
 \ge rays
 \dn 光线（由‘线’与‘新’组成，指雾或烟中能看到的光线）
@@ -41458,7 +41458,7 @@
 \lc ɲi˧ze˧hæ̃˩ze˩
 \so F4
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Swift.
 \ge swift
 \dn 雨燕
@@ -41478,7 +41478,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Fish.
 \ge fish
 \dn 鱼
@@ -41653,7 +41653,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> njɤ˧bæ˥
 \va <speaker="M21"> ID.
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \de Tear.
 \ge tear
 \dn 眼泪
@@ -42525,7 +42525,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Camel.
 \ge camel
 \dn 骆驼
@@ -42668,7 +42668,7 @@
 \ton LM+MH#
 \lc njɤ˩ʈʂv̩˧˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Loach (a kind of fish).
 \ge loach
 \dn 泥鳅
@@ -43236,7 +43236,7 @@
 \vc <langue="cmn" dom="ton"> #H
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ɳv̩˩˧ (ton m1; d'abord noté m4, par erreur); propose aussi: sɯ˧pʰi˧li˥, ss doute sorte de papillon: vient de: bois+papillon: pʰi˥li˩? Ou termite? Insecte qui habite la viande etc et la gâte; n'est pas un insecte volant.　xxxx
-\pdv mi˩
+\pdv mi˩β
 \de Moth; insect that eats into wood, books, clothes etc.
 \ge moth
 \dn 蛀虫
@@ -44261,7 +44261,7 @@
 \va <speaker="M18"> õ˧dv̩˧˥
 \vc <langue="fra" print="n"> donne: õ˧dv̩˧ kʰv̩˥mi˩ “chien-loup"
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wolf.
 \ge wolf
 \dn 狼
@@ -44283,7 +44283,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wolfhound.
 \ge wolfhound
 \dn 狼狗
@@ -44300,7 +44300,7 @@
 \ton LM+H#
 \lc õ˩dv̩˧mi˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female wolf.
 \ge female_wolf
 \dn 母狼
@@ -44316,7 +44316,7 @@
 \ton LM+#H
 \lc õ˩dv̩˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male wolf.
 \ge male_wolf
 \dn 公狼
@@ -44373,7 +44373,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Mosquito.
 \ge mosquito
 \dn 蚊子
@@ -45282,7 +45282,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Butterfly.
 \ge butterfly
 \dn 蝴蝶
@@ -45927,7 +45927,7 @@
 \ton LM
 \lc pʰɤ˩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Jackal, hyena.
 \ge jackal
 \dn 豺
@@ -46412,7 +46412,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Frog.
 \ge frog
 \dn 青蛙
@@ -46459,7 +46459,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A species of frog with a small head and large eyes, considered by the consultant as spending most of the time in the water. This is the third of three species of frogs distinguished by the consultant. The Naxi hunt it, especially in the fifth month.
 \ge frog_sp
 \dn 一种青蛙，头小、眼睛大。这是发音合作人认识的第三种青蛙。纳西族吃这种青蛙。
@@ -46478,7 +46478,7 @@
 \cf dʑɯ˩-pɤ˩mi˩
 \ton L#-
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A beautiful species of frog, with a long body. It is only found in the forest, on the mountain. This is the second of three species distinguished by the consultant.
 \ge frog_sp
 \dn 一种很美的青蛙，身体很长。只出现在山上森林里。这是发音合作人认识的第二种青蛙。
@@ -46499,7 +46499,7 @@
 \sd <langue="eng"> animal
 \ton L+#H-
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}. Literal translation: `bullfrog'.
 \ge large_frog
 \dn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。直译：‘公牛蛙’。
@@ -46521,7 +46521,7 @@
 \sd <langue="eng"> animal
 \ton L+#H-
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A species of large frog or toad, which is abundant in the Yongning plain. This is one of three species distinguished by the consultant. It is not eaten by the Naxi (nor by the Na, who do not eat any sort of frog). This is the term used for |fi{Kaloula verrucosa} and |fi{Rana chaochiaoensis}. Literal translation: `bullfrog'.
 \ge large_frog
 \dn 一种大青蛙，在永宁坝子很常见。这是发音合作人认识的三种蛙之一。纳西族人不吃这种动物（摩梭人不吃任何蛙类动物）。直译：‘公牛蛙’。
@@ -46537,7 +46537,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female jackal.
 \ge female_jackal
 \dn 母豺
@@ -46603,7 +46603,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male frog.
 \ge male_frog
 \dn 公青蛙
@@ -46623,7 +46623,7 @@
 \nt <type="hist" print="n" langue="fra"> L'existence de 2 variantes tonales est confirmée. Il s'agit de L et #H.
 \ton #H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male jackal.
 \ge male_jackal
 \dn 公豺
@@ -46643,7 +46643,7 @@
 \nt <type="hist" print="n" langue="fra"> existence de 2 variantes tonales confirmée: L, #H
 \ton M
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male jackal.
 \ge male_jackal
 \dn 公豺
@@ -46712,7 +46712,7 @@
 \so F4
 \va <speaker="M23"> pɤ˩tɕɯ˧˥
 \vc <langue="fra" print="n"> noté comme ton L une fois, comme L+MH# une autre
-\pdv mi˩
+\pdv mi˩β
 \de Tadpole.
 \ge tadpole
 \dn 蝌蚪
@@ -46740,7 +46740,7 @@
 \vc <langue="fra" print="n"> ton d3
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> D'après M21, /pɤ˩tɕi˧-pɤ˥mi˩/ voudrait dire “têtard et grenouille"; tons vérifiés
-\pdv mi˩
+\pdv mi˩β
 \de Tadpole.
 \ge tadpole
 \dn 蝌蚪
@@ -46760,7 +46760,7 @@
 \ton LM-MH#
 \lc pɤ˩tɕɯ˧ʁo˧ɖɯ˧˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Tadpole.
 \ge tadpole
 \dn 蝌蚪
@@ -48886,7 +48886,7 @@
 \ton #H
 \so F4
 \va <speaker="M18"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -49451,7 +49451,7 @@
 \lc qʰæ˧lo˧˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdv lo˩β
 \de Small gulley, small trench.
 \ge small_trench
@@ -49478,7 +49478,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -49790,7 +49790,7 @@
 \ton #H
 \lc qʰæ˧zo˧
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -50452,7 +50452,7 @@
 \lc qo˧pv̩˩
 \so F4
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Cuckoo.
 \ge cuckoo
 \dn 布谷鸟
@@ -50942,7 +50942,7 @@
 \lc qʰv̩˩ɖʐæ˩˥
 \so F4
 \va <speaker="F5"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de String; small rope.
 \ge string
 \dn 小绳子，细的绳子
@@ -51848,7 +51848,7 @@
 \nt <type="hist" print="n" dom="tone" langue="fra" print="n"> +ɲi˩
 \ton H#
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Bedbug, |fi{Cimex lectularius}.
 \ge bedbug
 \dn 臭虫
@@ -51869,7 +51869,7 @@
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Bedbug, |fi{Cimex lectularius}.
 \ge bedbug
 \dn 臭虫
@@ -53253,7 +53253,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Chest.
 \ge chest
 \dn 胸脯、胸膛
@@ -54335,7 +54335,7 @@
 \va <speaker="M21"> ʁu˧hṽ̩#˥
 \vc <langue="fra" print="n"> ton d2a; ʁu˧hṽ̩˧ ɲi˥
 \va <speaker="M23"> ũ˧hṽ̩˧˥
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Hair (of the head).
 \ge hair_of_head
 \dn 头发
@@ -55051,7 +55051,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Crane: black-necked crane |fi{Grus nigricollis Przew} and similar species. It is a migratory bird, that migrates to lower altitude areas for winter and return to Yongning (a place of higher elevation) for summer breeding.
 \ge crane
 \dn 黑颈鹤。是在云南越冬的候鸟。它们主要在青藏高原繁殖，冬季迁徙到云贵高原越冬。有一条主要的迁徙路线是从青海黄南州黄河沿岸湿地、果洛州希门措等区域繁殖地迁往云南昭通大山包越冬。
@@ -55142,7 +55142,7 @@
 \ton H$
 \lc ʁv̩˧mi˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female crane.
 \ge female_crane
 \dn 母鹤
@@ -55160,7 +55160,7 @@
 \ton #H
 \lc ʁv̩˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male crane.
 \ge male_crane
 \dn 公鹤
@@ -57264,7 +57264,7 @@
 \vc <langue="fra" print="n"> recourt à un emprunt: ɕjæ˧ljæ˥
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> hæ̃˩-ʂe˩bæ˥ +ɲi˩ 'collier en or'
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Necklace; chain.
 \ge necklace/chain
 \dn 项圈、项链，锁链
@@ -57460,7 +57460,7 @@
 \nt <langue="cmn" dom="synt"> 这个词已成为三音节的名词。不能在双音节词根的基础上派生出带有/|fv{-zo}/（‘小’）或/|fv{-pʰv}/（‘公’）后缀的词。
 \so F4
 \va <speaker="M23"> se˩gv̩˩
-\pdv mi˩
+\pdv mi˩β
 \de Vulture. This term is not restricted to female vultures, and hence does not provide an indication on sex.
 \ge vulture
 \dn 雕（不仅来指母雕）
@@ -57495,7 +57495,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Satin.
 \ge satin
 \dn 缎子
@@ -57609,7 +57609,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Louse.
 \ge louse
 \dn 虱子
@@ -57626,7 +57626,7 @@
 \ton #H
 \lc se˧mi˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female goral (|fi{Naemorhedus goral}), female blue sheep.
 \ge female_goral
 \dn 母岩羊
@@ -57819,7 +57819,7 @@
 \ton #H
 \lc se˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male goral (|fi{Naemorhedus goral}), male blue sheep.
 \ge male_goral
 \dn 公岩羊
@@ -58447,7 +58447,7 @@
 \so F4
 \va <speaker="M21"> sɯ˧gɯ˧
 \vc <langue="fra" print="n"> ton d1; vérifié: n'est pas /‡sɯ˧gɤ˧/
-\pdv mi˩
+\pdv mi˩β
 \de Lion.
 \ge སེང་གེ::lion
 \dn 狮子
@@ -58463,7 +58463,7 @@
 \ton -L
 \lc si˧gɯ˧mi˩
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Lioness.
 \ge lioness
 \dn 母狮
@@ -58480,7 +58480,7 @@
 \ton #H
 \lc si˧gɯ˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male lion.
 \ge male_lion
 \dn 公狮子
@@ -58512,7 +58512,7 @@
 \lc si˧gɯ˧zo˧
 \so F4
 \pdv ɭɯ˧β
-\pdv mi˩
+\pdv mi˩β
 \de Lion cub.
 \ge lion_cub
 \dn 小狮子
@@ -58958,7 +58958,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> hĩ˧ so˩ (+ɲi˩), d'abord noté ˥ ˩; so˩˥, ton m4; so˩˥ kʰɯ˥ ɲi˩; so˩˥ ɲi˥!
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -59074,7 +59074,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> sɤ˥, ton m4
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \de Blood.
 \ge blood
 \dn 血
@@ -59739,7 +59739,7 @@
 \vc <langue="fra" print="n"> ɖʐv̩˥, corrigé par M18 en: ɖʐv̩˧tsɯ˥, désigne les tendons
 \va <speaker="M21"> sɤ˧tsɯ˥
 \va <speaker="M23"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Vein.
 \ge vein
 \dn 血管
@@ -60632,7 +60632,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Caterpillar.
 \ge caterpillar
 \dn 毛虫
@@ -60958,7 +60958,7 @@
 \ton M
 \lc sɯ˧tsɯ˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Lion.
 \ge 狮子::lion
 \dn 狮子
@@ -63452,7 +63452,7 @@
 \ton LM+#H
 \lc tʰɑ˩zo˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Baby water buffalo.
 \ge baby_water_buffalo
 \dn 小水牛
@@ -65080,7 +65080,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Tracking rope, towrope, towline.
 \ge tracking_rope
 \dn 牛皮绳，犁具连轭之绳
@@ -65382,7 +65382,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Leech.
 \ge leech
 \dn 水蛭、蚂蟥
@@ -65404,7 +65404,7 @@
 \lc tɕɯ˧˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Wasp.
 \ge wasp
 \dn 马蜂（黄蜂）
@@ -65773,7 +65773,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Hunting dog, hound (literally ‘dog that chases the muntjac’).
 \ge hound
 \dn 猎狗（直译：‘赶麂子的狗’）
@@ -65799,7 +65799,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Hunting dog, hound (literally ‘dog that chases the muntjac’).
 \ge hound
 \dn 猎狗（直译：‘赶麂子的狗’）
@@ -65834,7 +65834,7 @@
 \sd <langue="eng"> animal
 \ton L
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Shrike, |fi{Lanius tephronotus} (a species of bird).
 \ge shrike
 \dn 伯劳鸟
@@ -65915,7 +65915,7 @@
 \ton LH
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Chinese Hwamei or Melodious Laughingthrush: |fi{Leucodioptron canorum}.
 \ge hwamei
 \dn 画眉鸟
@@ -65963,7 +65963,7 @@
 \ton LM+#H ≈ L
 \so F4
 \va <speaker="F4"> tɕʰɯ˩mi˩
-\pdv mi˩
+\pdv mi˩β
 \de Female muntjac, muntjac doe, female barking deer, barking deer doe.
 \ge female_muntjac
 \dn 母麂子
@@ -66006,7 +66006,7 @@
 \lc tɕʰɯ˩pʰv̩˥
 \so F4
 \va <speaker="F4"> tɕʰɯ˩pʰv̩˩
-\pdv mi˩
+\pdv mi˩β
 \de Male muntjac, muntjac stag, male barking deer, barking deer stag.
 \ge male_muntjac
 \dn 公麂子
@@ -67384,7 +67384,7 @@
 \so F4
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude"
-\pdv bæ˩
+\pdv bæ˩α
 \de Plant with long filaments.
 \ge plant_sp
 \dn 永宁的一种植物
@@ -67409,7 +67409,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M23"> ID.
-\pdv ʈv̩˩
+\pdv ʈv̩˩β
 \de Forehead.
 \ge forehead
 \dn 额头
@@ -67444,7 +67444,7 @@
 \lc to˩kʰv̩˩mi˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \pdv pʰo˧˥α
 \de Male dog.
 \ge male_dog
@@ -67506,7 +67506,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Rabbit.
 \ge rabbit
 \dn 兔子
@@ -67563,7 +67563,7 @@
 \ton -L
 \lc tʰo˧li˧mi˩
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Doe hare, jill.
 \ge jill
 \dn 母兔
@@ -67580,7 +67580,7 @@
 \ton #H
 \lc tʰo˧li˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male rabbit.
 \ge male_rabbit
 \dn 公兔
@@ -67748,7 +67748,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \pdv nɑ˧α
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Gun; firelock; rifle.
 \ge firelock
 \dn 枪，明火枪
@@ -67848,7 +67848,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv ʈʰɤ˥
+\pdv ʈʰɤ˥α
 \de Pine resin; colophony.
 \ge pine_resin
 \dn 松香
@@ -68102,7 +68102,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Pigeon.
 \ge pigeon
 \dn 鸽子
@@ -69727,7 +69727,7 @@
 \vc <langue="fra" print="n"> La locutrice ne connaît pas; elle songe à: /zɯ˧pv̩˩/ “herbe sèche"
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Tinder.
 \ge tinder
 \dn 火绒
@@ -71144,7 +71144,7 @@
 \ton L
 \lc tsi˩ɭɯ˩˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A species of small bird.
 \ge small_bird_sp
 \dn 一种小鸟
@@ -72332,7 +72332,7 @@
 \ton MH#
 \lc ʈʂo˧ɭɯ˧ʈʂo˧˥
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de A water insect.
 \ge a_water_insect
 \dn 一种水虫
@@ -74799,7 +74799,7 @@
 \vc <langue="fra" print="n" dom="ton"> #H
 \va <speaker="M21"> ʈʂʰv̩˧ɻ̩#˥
 \vc <langue="fra" print="n"> ton d2a. Vérifié en mai 2008: n'est pas ʈʂʰɻ
-\pdv mi˩
+\pdv mi˩β
 \de Ant.
 \ge ant
 \dn 蚂蚁
@@ -76187,7 +76187,7 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Centipede.
 \ge centipede
 \dn 蜈蚣
@@ -77141,7 +77141,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Bird.
 \ge bird
 \dn 鸟
@@ -77402,7 +77402,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Ladybug, ladybird.
 \ge ladybird
 \dn 瓢虫
@@ -78347,7 +78347,7 @@
 \lc ʐæ˩tsɯ˧˥
 \so F4
 \va <speaker="M18"> ʐɤ˩tɕi˧
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Path, trail.
 \ge trail
 \dn 小路、径道
@@ -78595,7 +78595,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdv ɭɯ˧β
 \de Arrow.
 \ge arrow
@@ -78615,7 +78615,7 @@
 \lc ʐe˧ɻ̩̃˧
 \sn 1
 \so F4
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdv ɭɯ˧β
 \de Arrow.
 \ge arrow
@@ -78688,7 +78688,7 @@
 \vc <langue="eng" dom="dialect"> Daeshi Daedeu has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
 \vc <langue="cmn" dom="dialect"> 拉他咪王勇创造了独特的说法：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创新）。
 \va <speaker="M21"> ID.
-\pdv bæ˩
+\pdv bæ˩α
 \de Flash of lightning, thunderbolt.
 \ge thunderbolt
 \dn 闪电、打闪电、霹雷
@@ -79012,7 +79012,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʑy˩˧
-\pdv mi˩
+\pdv mi˩β
 \de Monkey, ape.
 \ge monkey
 \dn 猴子
@@ -79228,7 +79228,7 @@
 \ton LM+#H
 \so F4
 \va <speaker="M21"> ʑy˩hṽ̩#˥ ≈ ʑi˩hṽ̩#˥
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Body hair (of humans).
 \ge body_hair
 \dn 人身上的毛
@@ -79333,7 +79333,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female monkey.
 \ge female_monkey
 \dn 母猴
@@ -79448,7 +79448,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male monkey.
 \ge male_monkey
 \dn 公猴
@@ -79691,7 +79691,7 @@
 \lc ʐɤ˩˥
 \so F4
 \va <speaker="M18"> ID.
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
@@ -79943,7 +79943,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \sn 1
-\pdv kʰɯ˩
+\pdv kʰɯ˩β
 \de Road.
 \ge road
 \dn 路
@@ -80139,7 +80139,7 @@
 \ps n
 \ton -L
 \lc tsɤ˧ɖɯ˧mɤ˧kv̩˩hĩ˩
-\pdv mi˩
+\pdv mi˩β
 \pdv pʰo˧˥α
 \de Infertile, sterile. The phrase is used for the pianniu (hybrid of yak and cattle), which is infertile.
 \ge infertile/pianniu
@@ -81056,7 +81056,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩
+\pdv mi˩β
 \de Snake, serpent.
 \ge snake
 \dn 蛇
@@ -81112,7 +81112,7 @@
 \ton -L
 \lc ʐv̩˧bæ˧mi˩
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Female snake.
 \ge female_snake
 \dn 母蛇
@@ -81129,7 +81129,7 @@
 \ton #H
 \lc ʐv̩˧bæ˧pʰv̩˧
 \so F4
-\pdv mi˩
+\pdv mi˩β
 \de Male snake.
 \ge male_snake
 \dn 公蛇
@@ -81930,7 +81930,7 @@
 \vc <langue="fra" print="n"> ton d4; prononce proche de /sv/; comme une voyelle apicale arrondie. /ʐwæ˧tv̩˧/: un cheval tout seul; tv̩˧: adjectif “solitaire", dont l'humeur ne se prête pas à la vie en société?
 \va <speaker="M23"> ʐwæ˧si˩
 \vc <langue="fra" print="n"> flottement dans la distribution des /si/ et des /sɯ/; présenté à la conférence de Kunming 2009
-\pdv mi˩
+\pdv mi˩β
 \de Stallion.
 \ge stallion
 \dn 公马
