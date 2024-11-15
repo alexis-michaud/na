@@ -20876,7 +20876,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé) (2024: on ne peut employer le verbe autrement qu'à la forme négative)
 \nt <type="hist" print="n" langue="fra"> (2024: comme relève Roselle Dobbs, on peut dire: mɤ˧-gɤ˩, sans l'objet 'homme'.)
-\nt <type="hist" print="n" langue="eng"> Comment by Roselle Dobbs (2017), confirmed as fully valid by Mrs. Latami in 2024: Is hĩ not just "person" here? Siggeema is adamant that the word for "jealous" is "megge."  The example in \xv would be "hin megge yi."
+\nt <type="hist" print="n" langue="eng"> Comment by Roselle Dobbs (2017), confirmed as fully valid by Mrs. Latami in 2024: Is hĩ not just "person" here? Siggeema is adamant that the word for "jealous" is "megge."  The example in xv would be "hin megge yi."
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -39896,7 +39896,7 @@
 \xn 纳西族的书
 \xf livres naxi
 
-\lx \xv nɑ˩hĩ˧-ʐwɤ˧˥
+\lx nɑ˩hĩ˧-ʐwɤ˧˥
 \or Nahinrua
 \mr nɑ˩hĩ#˥
 \mr ʐwɤ˩β
@@ -44900,7 +44900,8 @@
 \lc pʰæ˧ʈʂʰæ˧lo˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> +ɲi˥\"bassine" (tons vérifiés; schème tonal: est comme d2a (et m4a): ʈʂʰɯ˧ pʰæ˧ʈʂʰæ˧lo˧ ɲi˥)
+\nt <type="hist" print="n" langue="fra" dom="ton"> +ɲi˥
+\nt <type="hist" print="n" langue="fra" dom="ton"> Tons vérifiés; schème tonal: est comme d2a (et m4a): ʈʂʰɯ˧ pʰæ˧ʈʂʰæ˧lo˧ ɲi˥
 \ton #H
 \so F4
 \va <speaker="M18> *
@@ -79766,8 +79767,8 @@
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (d'abord noté zo˥bæ˩)
 \nt <dom="sem" langue="fra"> La forme /|fv{zo˧bæ˩}/ a en partie perdu son caractère masculin. Mme Latami dit parfois d'elle-même, par plaisanterie (quand elle a fait une étourderie): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ «je suis bien bête!» (littéralement: «Ama est bien bête!») et la négation est: /|fv{mɤ˧-zo˧bæ˩!}/ «(non, vous n'êtes) pas idiote!», où le disyllabe est traité comme un bloc.
-\t\nt <dom="sem" langue="eng"> The form /|fv{zo˧bæ˩}/ has partly lost its specifically masculine gender. Mrs. Latami sometimes says of herself, in humorous self-deprecation (when she has made a blunder): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “I am so dumb!!” (literally: “Ama is dumb!”) and the negation is: /|fv{mɤ˧-zo˧bæ˩!}/ “(no, you're) not dumb!”, where the disyllable is treated as a block.
-\t\nt <dom="sem" langue="cmn"> 这个词本来转门指男人，但它已部分失去其阳性特征。拉他咪女士在犯错时会开玩笑说自己：/|fv{ə˧mɑ˧ zo˧bæ˩！}/“我真苯！”（字面意思是：“阿妈真苯！”）
+\nt <dom="sem" langue="eng"> The form /|fv{zo˧bæ˩}/ has partly lost its specifically masculine gender. Mrs. Latami sometimes says of herself, in humorous self-deprecation (when she has made a blunder): /|fv{ə˧mɑ˧ zo˧bæ˩!}/ “I am so dumb!!” (literally: “Ama is dumb!”) and the negation is: /|fv{mɤ˧-zo˧bæ˩!}/ “(no, you're) not dumb!”, where the disyllable is treated as a block.
+\nt <dom="sem" langue="cmn"> 这个词本来转门指男人，但它已部分失去其阳性特征。拉他咪女士在犯错时会开玩笑说自己：/|fv{ə˧mɑ˧ zo˧bæ˩！}/“我真苯！”（字面意思是：“阿妈真苯！”）
 \ton L#
 \lc zo˧bæ˩
 \so F4
