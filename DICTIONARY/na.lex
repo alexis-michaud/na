@@ -30210,6 +30210,7 @@
 \lx kwɤ˩α
 \sf <nb="B"> 861
 \sf <nb="2011"> 1260
+\hm 3
 \or gua
 \ps clf
 \sd <langue="fra"> classificateur
