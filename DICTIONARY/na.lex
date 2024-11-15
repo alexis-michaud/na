@@ -6113,10 +6113,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɕi˧lv̩˧
-\pdv kɤ˧˥
-\pdc <langue="fra"> |fg{clf} pour le grain: une hotte
-\pdc <langue="eng"> for paddy rice
-\pdc <langue="cmn"> 用来指稻子
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
+\pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \pdv pʰæ˧˥α
 \pdc <langue="fra"> |fg{clf} des objets plats: pour les champs
 \pdc <langue="eng"> |fg{clf} for flat objects: to refer to paddy fields
@@ -6127,7 +6127,6 @@
 \gn 稻子
 \df Riz paddy; par extension: champ de riz.
 \gf paddy
-\dt 24/Apr/2017
 
 \lx ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \sf <nb="B"> 52b
@@ -6166,7 +6165,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥α
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
+\pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
 \ge paddy_field
 \dn 水稻田
@@ -6188,7 +6190,10 @@
 \cf ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \so F4
 \pdv pʰæ˧˥α
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
+\pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
 \ge paddy_field
 \dn 水田
@@ -6329,7 +6334,10 @@
 \lc ɕi˧tv̩˧di˩lv̩˧
 \so F4
 \pdv pʰæ˧˥α
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
+\pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
 \ge paddy_field
 \dn 种水稻的田
@@ -13204,7 +13212,10 @@
 \lc dʑɯ˩qʰwɤ˩lv̩˩˥
 \so F4
 \va <speaker="M23"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Marsh, bog, swamp (unsuitable for agriculture).
 \ge marsh
 \dn 沼泽、湿地
@@ -25334,7 +25345,10 @@
 \lc jɤ˧gɯ˩
 \so F4
 \va <speaker="M18"> jɤ˧gɤ˧
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre: un champ de sarrasin
+\pdc <langue="eng"> |fg{clf} for tracts of land: a buckwheat field
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Buckwheat, |fi{Fagopyrum esculentum}.
 \ge buckwheat
 \dn 甜荞／荞麦／花荞
@@ -25443,7 +25457,10 @@
 \lc jɤ˩jo˥
 \so F4
 \va <speaker="F5"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Potato.
 \ge 洋芋::potato
 \dn 洋芋、土豆、马铃薯
@@ -25800,7 +25817,10 @@
 \ton #H
 \lc jɤ˧qʰɑ˧
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Bitter buckwheat, |fi{Fagopyrum tataricum Gaertn}.
 \ge bitter_buckwheat
 \dn 苦荞
@@ -27063,7 +27083,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \vc <type="hist" print="n" langue="fra"> Donne: /si˧-kɤ˥lo˩/. Est du type “bois"; vérifié, n'est pas /sɯ/
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Branch.
 \ge branch
 \dn 树枝
@@ -27676,13 +27696,12 @@
 \ge |fg{clf}.sticks
 \dn |fg{量词}：棍子、树枝（一根）
 \gn 量词.树枝
-\df Classificateur des bâtons.
+\df Classificateur des bâtons, des branches.
 \gf |fg{clf}.bâtons
 \xv si˧-kɤ˧˥ | ɖɯ˧-kɤ˧˥
 \xe a branch (of a tree)
 \xn 一根树枝
 \xf une branche (d'arbre)
-\dt 24/Apr/2017
 
 \lx kɤ˧˥α
 \sf <nb="B"> 877
@@ -29508,7 +29527,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \pdv dzi˩β
 \de A flowering plant in the legume family: |fi{Flemingia strobilifera}, also known as |fi{Moghania fruticulosa}.
 \ge Flemingia_strobilifera
@@ -31325,7 +31344,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Candle.
 \ge 蜡烛::candle
 \dn 蜡烛
@@ -33459,7 +33478,7 @@
 \ton L
 \lc ɬo˩kɤ˩˥
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Rib.
 \ge rib
 \dn 肋骨
@@ -34350,7 +34369,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Field.
 \ge field
 \dn 田地
@@ -36228,7 +36250,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> mi˩lv̩˩-ʁv̩˩bv̩˧
 \vc <langue="fra" print="n"> +ɲi˩; ʁv̩˧bv̩˧. Vérifié, n'est pas /ʁo/.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Bamboo shoot.
 \ge bamboo_shoot
 \dn 竹笋
@@ -37817,7 +37839,10 @@
 \sd <langue="eng"> natural environment
 \ton MH#
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Field.
 \ge field
 \dn 田地
@@ -37921,14 +37946,16 @@
 \ton M
 \so F4
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Barley, |fi{Hordeum vulgare L}.
 \ge barley
 \dn 大麦
 \gn 大麦
 \df Orge, |fi{Hordeum vulgare L}.
 \gf orge
-\dt 25/Apr/2017
 
 \lx mv̩˧dze˧-tɕʰi#˥
 \sf <nb="B"> 1995
@@ -38789,7 +38816,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˧tsʰo˩˥
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Firewood full of resin, used to start a fire.
 \ge firewood_full_of_resin
 \dn 含很多树脂的木头，用来引火
@@ -39328,14 +39355,16 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre: un champ d'avoine
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Oats.
 \ge oats
 \dn 燕麦
 \gn 燕麦
 \df Avoine.
 \gf avoine
-\dt 04/Sep/2015
 
 \lx mv̩˩zɯ˩-ni˥mi˩
 \sf <nb="B"> 341
@@ -49255,7 +49284,7 @@
 \ton M
 \so F4
 \va <speaker="F5"> qæ˩do˧
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Timber, lumber.
 \ge lumber
 \dn 木材、木料
@@ -49289,7 +49318,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Sweet corn; maize; Indian corn.
 \ge sweet_corn
 \dn 玉米、包谷
@@ -49327,7 +49359,7 @@
 \sd <langue="eng"> house
 \ton -L
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Horizontal beams of the rack for drying grain: ‘the place to hang sweetcorn'.
 \ge beams_of_drying_rack
 \dn 粮架的横梁
@@ -49592,7 +49624,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Timber, lumber.
 \ge lumber
 \dn 木材、木料
@@ -51424,7 +51456,7 @@
 \sd <langue="eng"> agriculture
 \ton M
 \so F4
-\pdv kɤ˧˥α
+\pdv kɤ˧˥α1
 \de Fence, made of bamboo or of thorny shrub branches.
 \ge fence
 \dn 篱笆
@@ -51728,7 +51760,10 @@
 \nt <langue="fra" dom="dialect"> Il existe une importante variation entre locutrices pour cet emprunt. Il est bien confirmé que l'initiale est voisée chez Mme Latami (qui prononce /|fv{jæ˩dzɯ˧}/) et chez M. He Jiaze (consultant Jj, qui prononce /|fv{jɥen˩dzɯ˧}/), tandis que Gisso prononce /|fv{jɥe˩tsɯ˧}/, avec une initiale non voisée.
 \nt <langue="eng" dom="dialect"> There is considerable variation between speakers for this loanword. It is well confirmed that the initial is voiced in the speech of F4 (who pronounces /|fv{jæ˩dzɯ˧}/) and Mr. He Jiaze (consultant Jj, who pronounces /|fv{jɥen˩dzɯ˧}/), while Gisso pronounces /|fv{jɥe˩tsɯ˧}/, with an unvoiced initial.
 \nt <langue="cmn" dom="dialect"> 不同发音合作人对这一借词的发音差异很大。拉他咪女士（发音为/|fv{jæ˩dzɯ˧}/）和何甲泽先生（发音为 /|fv{jɥen˩dzɯ˧}/）的声母是浊的，而郭给若则发音为 /|fv{jɥe˩tsɯ˧}/，用清声母/|fv{dz}/。
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Vegetable garden.
 \ge 园子::vegetable_garden
 \dn 菜园
@@ -51749,7 +51784,10 @@
 \so F4
 \va <speaker="F5"> *
 \va <speaker="M21"> *
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Vegetable garden.
 \ge vegetable_garden
 \dn 菜园
@@ -54382,6 +54420,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
+\nt <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Auto-classificateur reprenant la deuxième syllabe? Il paraît ne s'agir ni du classificateur des bâtons et branches (kɤ˧˥α1), ni de celui des étendues de terre (kɤ˧˥α2).
 \ton L#
 \lc ʁo˧kɤ˩
 \so F4
@@ -55901,7 +55940,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Bone.
 \ge bone
 \dn 骨头
@@ -56156,7 +56195,7 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ɻ̩̃˧ hæ˧˥
 \pdv ɭɯ˧β
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Cartilage.
 \ge cartilage
 \dn 软骨
@@ -56178,7 +56217,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Shinbone, tibia.
 \ge shinbone
 \dn 胫骨
@@ -56200,7 +56239,7 @@
 \lc ɻ̩̃˧kɤ˩
 \sy sɯ˧ɻ̩̃˧mi#˥
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Backbone.
 \ge backbone
 \dn 脊椎骨
@@ -56222,7 +56261,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Tree trunk.
 \ge trunk
 \dn 树干
@@ -56730,7 +56769,10 @@
 \vc <langue="cmn" dom="ton"> L+MH#
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Marijuana, cannabis, |fi{Cannabis indica}.
 \ge marijuana
 \dn 大麻
@@ -56807,7 +56849,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Bone.
 \ge bone
 \dn 骨头
@@ -58244,7 +58286,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> sɯ˧tʰɑ˧
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Wood.
 \ge wood
 \dn 木头
@@ -58264,7 +58306,7 @@
 \ton L#
 \lc si˧mo˩
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Dead wood.
 \ge dead_wood
 \dn 枯木、老干柴（直译：死了的木头）
@@ -58283,7 +58325,7 @@
 \ton #H
 \lc si˧ɖʐɻ̩˧
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Green wood, freshly cut wood.
 \ge green_wood
 \dn 新伐材、生材、湿材
@@ -58544,14 +58586,13 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Branch; rod, stick.
 \ge branch
 \dn 树枝、小树枝，棍子
 \gn 树枝
 \df Branche; petite branche; bâton, gourdin, canne pour marcher.
 \gf branche
-\dt 05/Oct/2015
 
 \lx si˧kʰɯ˧-ɭɯ˧bv̩˥
 \or seekeeleebbu
@@ -58563,7 +58604,10 @@
 \ton H#
 \lc si˧kʰɯ˧ɭɯ˧bv̩˥
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de White Chinese herbaceous peony, |fi{Paeonia lactiflora}.
 \ge Chinese_peony
 \dn 白芍药
@@ -58655,7 +58699,7 @@
 \sd <langue="eng"> house
 \ton #H
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Timber, lumber.
 \ge lumber
 \dn 木材、木料
@@ -60603,6 +60647,7 @@
 \vc <langue="fra" print="n"> est aussi le nom d'un fruit, hua1hong2 (花红?). Notes anciennes: "erreur: dʑi˩kʰʶv̩˩, ton d3) dʑi˧sɯ˧pv̩˥ +ɲi˩; on peut dire simplement: sɯ˥pv̩˧, ton d4; d'abord noté ˥ ˥, par erreur".
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥
+\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne s'agir ni du classificateur des bâtons et branches (kɤ˧˥α1), ni de celui des étendues de terre (kɤ˧˥α2).
 \de Urinary bladder.
 \ge bladder
 \dn 膀胱
@@ -64034,14 +64079,13 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
 \de Thorn.
 \ge thorn
 \dn 刺
 \gn 刺
 \df Épine.
 \gf épine
-\dt 09/Oct/2015
 
 \lx tɕʰi˩β
 \sf <nb="B"> 1159
@@ -71290,7 +71334,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> tsʰɯ˩tsʰv̩˩
 \vc <langue="fra" print="n"> rimes confirmées, différent de F4 et F5
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Peas, garden peas.
 \ge peas
 \dn 豌豆
@@ -71333,8 +71380,9 @@
 \ton #H
 \lc tsʰi˧zi˧ɻ̩̃˧
 \so F4
-\va <speaker="M21"> tsʰv̩˧zv̩˧-ɻ̩̃##˥
-\pdv kɤ˧˥
+\va <speaker="M21"> tsʰv̩˧zv̩˧-ɻ̩̃#˥
+\pdv kɤ˧˥α1
+\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
 \de Highland barley straw.
 \ge highland_barley_straw
 \dn 青稞杆
@@ -71354,7 +71402,10 @@
 \lc tsʰi˧zi˧
 \so F4
 \va <speaker="M21"> tsʰv̩˧zv̩#˥
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
+\pdc <langue="fra"> |fg{clf} pour les étendues de terre
+\pdc <langue="eng"> |fg{clf} for tracts of land
+\pdc <langue="cmn"> 用于土地的|fg{量词}
 \de Highland barley, |fi{Hordeum vulgare var. nudum Hook. f.}.
 \ge barley
 \dn 青稞
@@ -72472,7 +72523,7 @@
 \ge soap
 \dn 肥皂。很可能借自缅甸的一种语言：如侬语|fv{tsʰɑ³¹ pi⁵⁵ iɔ⁵⁵}[戴庆厦1992]，潞西、梁河阿昌语|fv{tsʰɑw⁵⁵ pjɑw⁵⁵}[戴庆厦1985]，陇川阿昌族|fv{tsʰaw³¹ piaw³¹}[戴庆厦1992]。从文化上看，肥皂最初是通过与缅甸少数民族的接触／贸易传入的，这一点并非不可能。驻扎在扎美寺院里的人民解放军士兵用肥皂在溪边洗衣服，在与他们接触后，肥皂在永宁的使用迅速普及。以前，摩梭人使用两种植物：|fv{læ˩pʰæ˩-læ˥dzi˩}和|fv{ɭɯ˩}，将其捣碎并煮沸，所得液体用来洗衣服。
 \gn 肥皂
-\df Savon. Sans doute mot emprunté à une langue de Birmanie. À rapprocher de |fv{tsʰɑ³¹ pi⁵⁵ jɔ⁵⁵} en nung [Dai 1992], |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} en achang de Luxi et Lianghe [Dai 1985], |fv{tsʰaw³¹ piaw³¹} en achang de Longchuan [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fv{læ˩pʰæ˩-læ˥dzi˩} et leeq |fv{ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
+\df Savon. Sans doute mot emprunté à une langue de Birmanie. À rapprocher de |fv{tsʰɑ³¹ pi⁵⁵ jɔ⁵⁵} en nung [Dai 1992], |fv{tsʰɑw⁵⁵ pjɑw⁵⁵} en achang de Luxi et Lianghe [Dai 1985], |fv{tsʰaw³¹ piaw³¹} en achang de Longchuan [Dai 1992]. Culturellement, il est plausible que le savon ait été introduit par le contact/commerce avec des groupes ethniques de Birmanie. L'usage du savon à Yongning s'est rapidement généralisé après le contact avec les soldats de l'Armée Populaire de Libération cantonnés dans le monastère, qui faisaient leur lessive au savon auprès du cours d'eau. Auparavant, on utilisait deux sortes de plantes, |fo{laepaelaezzee} |fv{læ˩pʰæ˩-læ˥dzi˩} et |fo{leeq} |fv{ɭɯ˩}, qu'on écrasait et faisait bouillir; le liquide ainsi obtenu servait à laver les vêtements.
 \gf savon
 
 \lx tsɤ˩pʰv̩˧-tsɤ˥li˩
@@ -74337,7 +74388,8 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> Aussi: /tsʰɯ˩tsʰv̩˩zɯ˩˧/. Donne: tsʰɯ˩tsʰv̩˩zɯ˩ɲi˧
-\pdv kɤ˧˥
+\pdv kɤ˧˥α1
+\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
 \de Dry plant of garden peas, garden peas hay.
 \ge garden_pea_hay
 \dn 豌豆干草
@@ -74348,7 +74400,6 @@
 \xe This is garden pea hay.
 \xn 这是豌豆干草。
 \xf C'est de la paille de haricots.
-\dt 07/Oct/2015
 
 \lx tsʰɯ˧zo˥$
 \sf <nb="B"> 1888
