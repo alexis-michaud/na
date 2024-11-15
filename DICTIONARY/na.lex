@@ -12782,14 +12782,28 @@
 \ton LH
 \so F4
 \nt <dom="morpho" langue="fra" type="hist" print="n"> Viendrait de: ɖʐɯ˩˧ (ʈʂʰɯ˧ | ɖʐɯ˩ ɲi˥), même mot que dans “la société" xxxx à éliciter en 2025: extraction monosyllabe. Un renvoi vers ɖʐɯ˩α (transformé en 2024 en lien de type `mr', morphologie) était présent depuis la version 2015 du dictionnaire, mais l'entrée en question n'existe pas.
-\pdv ɖʐɯ˩
+\pdv ɖʐɯ˩α
 \de Period of time, era.
 \ge era
 \dn 时代
 \gn 时代
 \df Époque, ère, état de la société.
 \gf époque
-\dt 24/Apr/2017
+
+\lx ɖʐɯ˩α
+\or zzhiq
+\ps clf
+\lc ɖɯ˧ ɖʐɯ˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton Lα
+\so F4
+\de Classifier for moments, periods of time.
+\ge |fg{clf}.moments
+\dn |fg{量词}：时候、时间
+\gn 量词.时候／时间
+\df Classificateur des moments, des périodes de temps.
+\gf |fg{clf}.moments
 
 \lx ɖʐɯ˥kʰɤ˩
 \sf <nb="B"> 878
