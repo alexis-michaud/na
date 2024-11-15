@@ -5399,7 +5399,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv dze˩α
+\pdv dze˩α3
 \pdc <langue="fra"> |fg{clf} des paires. Explication: les conques vont par paires, chaque maisonnée en possède une paire.
 \pdc <langue="eng"> Pair. Explanation: conch shells come in pairs, with each household owning a pair.
 \pdc <langue="cmn"> 海螺壳是成双成对的，每家每户都有一对。
@@ -6273,7 +6273,10 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mɤ˩
+\pdv mɤ˩α
+\pdc <langue="fra"> |fg{clf} des petites quantités: un peu de
+\pdc <langue="eng"> |fg{clf} for small quantities: a little
+\pdc <langue="cmn"> 一点
 \de Chaff; bran; husk (of rice).
 \ge chaff
 \dn 米糠
@@ -6873,7 +6876,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \sn 1
-\pdv ti˧˥
+\pdv ti˧˥α
 \pdc <langue="fra"> |fg{clf} des couches
 \pdc <langue="eng"> |fg{clf} for layers
 \pdc <langue="cmn"> 层的|fg{量词}
@@ -7185,7 +7188,10 @@
 \lc ɖæ˩pʰv̩˥
 \so F4
 \va <speaker="M23"> ID.
-\pdv ti˧˥
+\pdv ti˧˥α
+\pdc <langue="fra"> |fg{clf} des couches
+\pdc <langue="eng"> |fg{clf} for layers
+\pdc <langue="cmn"> 层的|fg{量词}
 \de Dust, dirt.
 \ge dust
 \dn 灰尘
@@ -7465,7 +7471,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> di˩˥
 \va <speaker="M21"> ID.
-\pdv di˩
+\pdv di˩γ
 \de Earth (as in: the sky and the earth).
 \ge earth
 \dn 地（天地的地）
@@ -7670,7 +7676,7 @@
 \va <speaker="M18"> di˩æ˩˥; di˩mi˩˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> di˧læ˧
-\pdv di˩
+\pdv di˩γ
 \de Large plain.
 \ge large_plain
 \dn 平坝、大平坝
@@ -7694,7 +7700,7 @@
 \ton M
 \lc di˧qo˧
 \so F4
-\pdv di˩
+\pdv di˩γ
 \de Fields, cultivated lands.
 \ge fields
 \dn 田地
@@ -7715,7 +7721,7 @@
 \lc di˧ɻæ˧
 \so F4
 \va <speaker="M21"> ID.
-\pdv di˩
+\pdv di˩γ
 \de Plain.
 \ge plain
 \dn 平地
@@ -8923,7 +8929,7 @@
 \sy ɖv̩˧qæ˧
 \lc ɖv̩˧
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \pdc <langue="fra"> |fg{clf} des paires séparables
 \pdc <langue="eng"> |fg{clf} for separable pairs
 \pdc <langue="cmn"> 一对
@@ -9048,7 +9054,7 @@
 \so F4
 \va <speaker="M21"> ɖɻ̩˧qv̩˧
 \va <speaker="M23"> du˧kæ˧
-\pdv dze˩
+\pdv dze˩α3
 \pdc <langue="fra"> |fg{clf} des paires séparables
 \pdc <langue="eng"> |fg{clf} for separable pairs
 \pdc <langue="cmn"> 一对
@@ -9627,7 +9633,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mɤ˩
+\pdv mɤ˩α
 \pdc <langue="fra"> |fg{clf} des petites quantités: un peu de
 \pdc <langue="eng"> |fg{clf} for small quantities: a little
 \pdc <langue="cmn"> 一点
@@ -9970,7 +9976,7 @@
 \ton H#
 \lc dze˧li˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -10288,6 +10294,7 @@
 \lx dze˩α
 \sf <nb="B"> 851
 \sf <nb="2011"> 1274
+\hm 3
 \or zzei
 \ps clf
 \lc ɖɯ˧ dze˩
@@ -10882,7 +10889,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv dze˩
+\pdv dze˩α3
 \de Stirrup.
 \ge stirrup
 \dn 马镫
@@ -11046,7 +11053,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \pdv nɑ˧α
 \de Bridge.
 \ge bridge
@@ -11175,7 +11182,10 @@
 \ton #H
 \so F4
 \va <speaker="M21"> ID.
-\pdv ɖʐo˥
+\pdv ɖʐo˥α
+\pdc <langue="fra"> auto-classificateur
+\pdc <langue="eng"> self-classifier
+\pdc <langue="cmn"> ‘梁’本身充当量词。
 \de Major roof beam.
 \ge major_roof_beam
 \dn 大梁
@@ -11203,7 +11213,7 @@
 \vc <langue="cmn" dom="ton"> L
 \va <speaker="M18"> ɖʐɤ˩˥
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Ladder.
 \ge ladder
 \dn 梯子
@@ -11768,7 +11778,7 @@
 \vc <langue="fra" dom="ton"> L
 \vc <langue="eng" dom="ton"> L
 \vc <langue="cmn" dom="ton"> L
-\pdv ɖwæ˥
+\pdv ɖwæ˥α
 \de Step of stairs.
 \ge step
 \dn 台阶
@@ -12909,7 +12919,7 @@
 \va <speaker="M18"> dʑi˩ʈʂv̩˩lv̩˩
 \va <speaker="M21"> dʑi˩nɑ˩hæ˥tʰɑ˩
 \vc <print="n" langue="fra"> Avait d'abord copié le schéma tonal de F4, que je lui fournissais: /dʑi˩ nɑ˩ hæ˩tʰɑ˩˥/. Voyelles confirmées. La périphrase fournie par F5, /dʑi˩ ʈʂv̩˩ lɯ˩˥/, lui paraît “trop simple": langue enfantine.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Water-mill.
 \ge water_mill
 \dn 水磨
@@ -14337,14 +14347,6 @@
 \xe You're really selfish! / You only care about your own pleasure!
 \xn 你真的很自私！／你只关心自己的快乐！
 \xf Ben dis donc, toi, tu ne penses qu'à toi! / Toi, tu ne te soucies vraiment que de ton bon plaisir!
-\xo onq zzheu onq leshei sso, chumi yi keeq
-\xn （他们）随意挑选，娶来为妻。
-\xe (They) took whoever they pleased to be (their) wives.
-\xf (Ils) prirent pour femmes toutes celles d’entre elles qui leur avait plu.
-\xc <langue="fra" dom="sem"> Traduction partielle du 2e verset du chapitre 6 de la Genèse: «Les enfants de Dieu, voyant que les filles des hommes étaient belles, prirent pour femmes toutes celles d’entre elles qui leur avait plu.» (Rien de spécifique à la culture moso.)
-\xc <langue="eng" dom="sem"> Translation of part of Genesis 6:2 in the Bible: ``the sons of God saw that the daughters of humankind were beautiful. Thus they took wives for themselves from any they chose." (Nothing insightful about Na customs.)
-\xc <langue="cmn" dom="sem"> 《圣经》创世纪6:2部分内容的译文。全文：“神的儿子们看见人的女子美貌，就随意挑选，娶来为妻。”（与摩梭人的习俗无关。）
-\rf F22
 
 \lx ɖʐwæ˩˧
 \or zzhuaeq
@@ -18376,7 +18378,7 @@
 \ton MH#
 \lc ɣɯ˧ni˧˥
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \de Warp: the set of threads that run parallel to the length of the fabric, arranged longitudinally on a loom during the weaving process. These threads provide the structural foundation for the fabric. (A small bamboo structure hanging from the top of the loom keeps the threads together.)
 \ge warp
 \dn 经纱：织布过程中的重要组成部分。它是指在织机上纵向排列的一组线，构成了织物的基本结构。经纱与横向的纬纱交织，共同形成完整的布料。经纱决定了织物的长度和强度，是织布的骨架。（织布机上有一个竹子的框，让线不乱混。）
@@ -26148,7 +26150,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Door.
 \ge door
 \dn 门
@@ -26165,7 +26167,7 @@
 \ton #H
 \lc kʰi˧zo˧
 \so F4
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Small door, back door.
 \ge back_door
 \dn 小门、后门
@@ -26286,7 +26288,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Main entrance, main door.
 \ge main_door
 \dn 大门
@@ -28204,7 +28206,7 @@
 \sd <langue="eng"> society
 \ton M
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \de Spirit, impersonated by someone wearing a mask and a suit of clothes.
 \ge spirit
 \dn 神
@@ -28376,7 +28378,7 @@
 \ton H#
 \lc kʰɯ˧tʰo˧˥
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \de Chains (to tie a criminal's feet), made of iron.
 \ge chains
 \dn 脚链
@@ -28556,7 +28558,7 @@
 \ton #H
 \lc kʰɯ˧tʰv̩˧
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \de Pedal of the loom (to invert the vertical position of the threads).
 \ge pedal_of_loom
 \dn 织布机的脚蹬子=踏板
@@ -28578,7 +28580,7 @@
 \ton H$
 \lc kʰɯ˧ʐɯ˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -31630,7 +31632,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -31660,7 +31662,7 @@
 \lc li˩qʰɑ˩˥
 \cf si˧kʰɯ˧-ɭɯ˧bv̩˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -31681,7 +31683,7 @@
 \sy dze˧li˥
 \lc bæ˧li˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -32286,8 +32288,7 @@
 \va <speaker="M21"> ɬi˧pæ˥
 \vc <langue="fra" print="n"> ton d7; vérifié: n'est pas d9
 \pdv ɭɯ˧β
-\pdv dze˩
-\pdc <langue="fra"> |fg{clf} des paires
+\pdv dze˩α3
 \de Earring.
 \ge earring
 \dn 耳环
@@ -34151,7 +34152,7 @@
 \ton LM
 \lc lo˩tʰo˥
 \so F4
-\pdv dze˩
+\pdv dze˩α3
 \de Handcuffs, chains to tie a criminal's hands.
 \ge chains
 \dn 手铐
@@ -35608,7 +35609,7 @@
 \vc <langue="fra" print="n"> Le locuteur recourt à une périphrase: “l'eau qu'on utilise avec le stylo"
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> Le locuteur recourt à un emprunt: mi˩ʂwe˧, ton d6: emprunt au chinois; ʂwe˧ =水
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des bolées
 \pdc <langue="eng"> |fg{clf} for bowlfuls
 \pdc <langue="cmn"> 碗的|fg{量词}
@@ -36931,7 +36932,7 @@
 \ton L
 \lc mɤ˩ɬi˩˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \de Butter tea.
 \ge butter_tea
 \dn 酥油茶
@@ -36970,7 +36971,7 @@
 \ton L
 \lc mɤ˩mv̩˩˥
 \so F4
-\pdv qʰwɤ˧˥
+\pdv qʰwɤ˧˥α
 \de Candle holder.
 \ge candle_holder
 \dn 烛台
@@ -43776,14 +43777,16 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv mɤ˩
+\pdv mɤ˩α
+\pdc <langue="fra"> |fg{clf} des petites quantités: un peu de
+\pdc <langue="eng"> |fg{clf} for small quantities: a little
+\pdc <langue="cmn"> 一点
 \de Coarse chaff of beans.
 \ge bean_chaff(coarse)
 \dn 粗的豆糠
 \gn 粗的豆糠
 \df Balle grossière de légumineuses.
 \gf balle_grossière_de_légumineuses
-\dt 09/Sep/2015
 
 \lx nv̩˧tv̩˥
 \or nudu
@@ -50848,8 +50851,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
-\pdv dze˩
-\pdc <langue="fra"> |fg{clf} des paires
+\pdv dze˩α3
 \de Horn.
 \ge horn
 \dn 犄角（锯下来的）
@@ -51983,7 +51985,7 @@
 \ton L#
 \nt <type="hist" print="n" dom="phono" langue="fra"> Avant 2024: interprété comme: banc de la pièce principale.
 \so F4
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Small bench (small piece of mobile furniture with no fixed location).
 \ge small_bench
 \dn 小板凳（无固定位置的小型移动家具）。
@@ -54284,7 +54286,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Bridle; halter.
 \ge halter
 \dn 马笼头
@@ -57415,7 +57417,7 @@
 \ton #H
 \lc ʂe˧dzo˧
 \so F4
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Cooking table: a wooden piece of furniture on which one places the chopping board.
 \dn 放案板的家具
 \gn 放案板的家具
@@ -60678,7 +60680,7 @@
 \vc <langue="fra" dom="sem"> Le locuteur semble réanalyser la première syllabe comme étant le morphème /|fv{si˥}/ ‘bois’, par une étymologie populaire erronée.
 \vc <langue="eng" dom="sem"> The speaker seems to be re-analyzing the first syllable as the morpheme /|fv{si˥}/ ‘wood’, through a mistaken folk etymology (crates and cupboards being made of wood).
 \vc <langue="cmn" dom="sem"> 发音合作人似乎通过民间词源将第一个音节理解为/|fv{si˥}/“木头”：木箱和橱柜是木头做的。
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Table.
 \ge table
 \dn 桌子
@@ -62824,7 +62826,7 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \pdv nɑ˧α
 \de Crossbow.
 \ge crossbow
@@ -63165,7 +63167,7 @@
 \va <speaker="M18"> tʰæ˧ɻ̩˩
 \va <speaker="M21"> tʰæ˧ɻ̩˩
 \vc <langue="fra" print="n"> idem F5: tʰæ˧ɻ̩˩; 2e syll. différente de celle de F4, /ɻ/ et non /ɻæ/; d'abord noté /ʈʰæ/; corrigé en tʰæ le 15 juin 2008; dans entrées “lire un livre, étudier un livre": avais bien noté une initiale non rétroflexe.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Book.
 \ge book
 \dn 书
@@ -63866,7 +63868,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Saddle.
 \ge saddle
 \dn 马鞍
@@ -64248,7 +64250,7 @@
 \ton LM+MH#
 \so F4
 \va <speaker="M23"> ID.
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Saddle mat.
 \ge saddle_mat
 \dn 马鞍下面的毯子
@@ -66084,7 +66086,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ti˧˥
+\pdv ti˧˥α
 \pdc <langue="fra"> |fg{clf} des couches
 \pdc <langue="eng"> |fg{clf} for layers
 \pdc <langue="cmn"> 层的|fg{量词}
@@ -67871,13 +67873,12 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ʈʰɤ˥α
-\de Pine resin; colophony.
+\de Pine resin (a sticky substance secreted by pine trees: it exudes from the tree's bark when wounded); rosin, colophony (a solid form of resin).
 \ge pine_resin
-\dn 松香
-\gn 松香
-\df Résine de pin.
+\dn 松脂，松香
+\gn 松脂/松香
+\df Résine de pin (substance qui exsude naturellement de l'arbre lorsqu'il est blessé); colophane (résidu solide obtenu après distillation).
 \gf résine_de_pin
-\dt 08/Oct/2015
 
 \lx tʰo˧ɻæ˥
 \sf <nb="2011"> 3289
@@ -72151,7 +72152,7 @@
 \va <speaker="F5"> lv̩˧mi˧dzɤ˩ɖwæ˩
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɖwæ˥
+\pdv ɖwæ˥α
 \de Stone step.
 \ge stone_step
 \dn 石头台阶
@@ -72827,7 +72828,7 @@
 \ton H#
 \lc ʈʂo˧tsɯ˥
 \so F4
-\pdv pɤ˩
+\pdv pɤ˩β
 \de Table.
 \ge 桌子::table
 \dn 桌子
