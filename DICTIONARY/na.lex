@@ -1584,7 +1584,7 @@
 \so F4
 \de Classifier for fires and sacrificial offerings.
 \ge |fg{clf}.fire
-\dn 量词：火（一团）、祭品
+\dn |fg{量词}：火（一团）、祭品
 \gn 量词.火
 \df Classificateur des feux et des offrandes sacrificielles.
 \gf |fg{clf}.feux
@@ -2541,7 +2541,7 @@
 \so F4
 \de Self-classifier for flowers.
 \ge |fg{clf}.flowers
-\dn 量词：花（一朵）
+\dn |fg{量词}：花（一朵）
 \gn 量词.花
 \df Auto-classificateur des fleurs.
 \gf |fg{clf}.fleurs
@@ -2561,7 +2561,7 @@
 \so F4
 \de Self-classifier for harvests.
 \ge |fg{clf}.harvests
-\dn 量词：庄稼
+\dn |fg{量词}：庄稼
 \gn 量词.庄稼
 \df Auto-classificateur des récoltes.
 \gf |fg{clf}.récoltes
@@ -2577,7 +2577,7 @@
 \so F4
 \de Classifier for sorts of things; used in statements of identity: “it is the same".
 \ge |fg{clf}.sorts
-\dn 量词：东西（一样）
+\dn |fg{量词}：东西（一样）
 \gn 量词.东西
 \df Classificateur des espèces/sortes de choses. S'emploie dans la construction «c'est la même chose».
 \gf |fg{clf}.espèces
@@ -3172,7 +3172,7 @@
 \so F4
 \de Self-classifier for animal hooves; also used for footprints; also used for mountains (with emphasis on the visible face of the mountain, rather than on the mountain as a whole).
 \ge |fg{clf}.hooves
-\dn 量词：脚或脚印（一只）。也用于山峰：一片山峰，被视为一个物理实体（而不是将山峰视为一个整体，“一座山”，通常被人格化）。
+\dn |fg{量词}：脚或脚印（一只）。也用于山峰：一片山峰，被视为一个物理实体（而不是将山峰视为一个整体，“一座山”，通常被人格化）。
 \gn 量词.脚或脚印
 \df Auto-classificateur des sabots d'animaux, et des traces qu'ils laissent sur le sol. Également employé pour les montagnes: un pan de montagne, conçu comme une entité physique (plutôt que de considérer la montagne comme une entité globale, volontiers personnifiée)
 \gf |fg{clf}.sabots
@@ -3728,7 +3728,7 @@
 \so F4
 \de Classifier for women's traditional hair dresses / headdresses.
 \ge |fg{clf}.hair_dresses
-\dn 量词：缎子发带（一条）
+\dn |fg{量词}：缎子发带（一条）
 \gn 量词.发带
 \df Classificateur des coiffes (parures pour la chevelure des femmes).
 \gf |fg{clf}.coiffes
@@ -4634,7 +4634,7 @@
 \so F4
 \de Classifier for corncobs.
 \ge |fg{clf}.corncobs
-\dn 量词：玉米棒子（一根）
+\dn |fg{量词}：玉米棒子（一根）
 \gn 量词.玉米棒子
 \df Classificateur des épis de maïs.
 \gf |fg{clf}.épis_maïs
@@ -4662,7 +4662,7 @@
 \so F4
 \de Classifier for halves.
 \ge |fg{clf}.half
-\dn 量词：半
+\dn |fg{量词}：半
 \gn 量词.半
 \df Classificateur des moitiés.
 \gf |fg{clf}.moitié
@@ -4698,7 +4698,7 @@
 \so F4
 \de Classifier for scarves.
 \ge |fg{clf}.scarves
-\dn 量词：头帕（一条）
+\dn |fg{量词}：头帕（一条）
 \gn 量词.头帕
 \df Classificateur des fichus et foulards.
 \gf |fg{clf}.fichus
@@ -5059,7 +5059,7 @@
 \so F4
 \de Ladleful.
 \ge ladleful
-\dn 量词：勺
+\dn |fg{量词}：勺
 \gn 量词.勺
 \df Classificateur des cuillerées.
 \gf |fg{clf}.cuillerées
@@ -5086,12 +5086,15 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv kwɤ˩
-\de Bowels: intestine+stomach.
+\pdv kwɤ˩α
+\pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
+\pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
+\pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
+\de Bowels: intestine and stomach.
 \ge bowels
 \dn 胃与肠
 \gn 胃与肠
-\df Tube digestif: estomac+intestin.
+\df Tube digestif: estomac et intestin.
 \gf tube_digestif
 
 \lx bv̩˩hwɤ˩
@@ -5995,7 +5998,7 @@
 \so F4
 \de One hundredth of a yuan, one penny.
 \ge |fg{clf}.pennies
-\dn 量词：分（一分钱）
+\dn |fg{量词}：分（一分钱）
 \gn 量词.分（钱）
 \df Centième d'unité monétaire.
 \gf |fg{clf}.centimes
@@ -6957,7 +6960,7 @@
 \so F4
 \de Self-classifier for blows.
 \ge |fg{clf}.blows
-\dn 量词：下（打一下）
+\dn |fg{量词}：下（打一下）
 \gn 量词.下（打一下）
 \df Auto-classificateur des coups.
 \gf |fg{clf}.coups
@@ -7388,7 +7391,7 @@
 \va <speaker="M23"> ID.
 \de A section of (road); a bolt of cloth.
 \ge |fg{clf}.section
-\dn 量词：路（段）／布（匹）
+\dn |fg{量词}：路（段）／布（匹）
 \gn 量词.路／布
 \df Classificateur des sections, pour objets pouvant être divisés dans le sens de la longueur. Pour une route, cette unité correspond à 1/2 journée de marche; pour du tissu, elle correspond à une pièce.
 \gf |fg{clf}.sections
@@ -7778,7 +7781,7 @@
 \so F4
 \de Self-classifier for plains, and places.
 \ge |fg{clf}.plains/places
-\dn 量词：坝子、地方（一个）
+\dn |fg{量词}：坝子、地方（一个）
 \gn 量词.坝子／地方
 \df Classificateur pour les plaines, les étendues de terre, les lieux.
 \gf |fg{clf}.plaines/lieux
@@ -8216,8 +8219,8 @@
 \so F4
 \de Classifier for partitions/walls, and for large pieces of pork ribs.
 \ge |fg{clf}.partitions/walls
-\dn 量词.墙壁（一堵）、猪肋骨（一大块）
-\gn 量词：墙壁、猪肋骨
+\dn |fg{量词}：墙壁（一堵）、猪肋骨（一大块）
+\gn 量词.墙壁、猪肋骨
 \df Classificateur des cloisons et murs, et des quartiers de côtes de porc.
 \gf |fg{clf}.cloisons
 \xv ʈʂʰɯ˧-do#˥
@@ -8786,7 +8789,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for flocks of cattle; only used in the singular.
 \ge |fg{clf}.flocks
-\dn 量词：人、牲畜（一群、一队）
+\dn |fg{量词}：人、牲畜（一群、一队）
 \gn 量词.群
 \df Classificateur des troupeaux d'animaux, et des groupes d'humains. Ne s'utilise qu'au singulier.
 \gf |fg{clf}.troupeaux
@@ -8936,7 +8939,7 @@
 \so F4
 \de Classifier for small groups of people: 3 or more.
 \ge |fg{clf}.groups
-\dn 量词：人（一些）
+\dn |fg{量词}：人（一些）
 \gn 量词.一些
 \df Classificateur des petits groupes (de personnes): quelques-uns (plus de 3).
 \gf |fg{clf}.petits_groupes
@@ -9341,7 +9344,7 @@
 \so F4
 \de Classifier for steps (of stairs).
 \ge |fg{clf}.steps_of_stairs
-\dn 量词：梯级、楼梯（一节）
+\dn |fg{量词}：梯级、楼梯（一节）
 \gn 量词.梯级
 \df Classificateur des marches d'escalier.
 \gf |fg{clf}.marches
@@ -10290,7 +10293,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for pairs of separable objects: a pair of pots, a pair of bottles…
 \ge |fg{clf}.packs_of_two
-\dn 量词：瓶子、锅（一对）
+\dn |fg{量词}：瓶子、锅（一对）
 \gn 量词.瓶子／锅
 \df Classificateur des lots de deux objets non indissociables; par ex.: lot de 2 casseroles; paire de haut-parleurs… Pour les paires non dissociables (ex.: paire de chaussures), on utilise: /|fv{dzi˧β}/.
 \gf |fg{clf}.lots_de_deux
@@ -10419,7 +10422,7 @@
 \so F4
 \de Classifier for entire dresses.
 \ge |fg{clf}.costumes
-\dn 量词：衣服（一套）
+\dn |fg{量词}：衣服（一套）
 \gn 量词.套
 \df Un costume entier: tous les vêtements qu'on porte.
 \gf |fg{clf}.costumes
@@ -10450,7 +10453,7 @@
 \nt <type="hist" print="n" langue="fra"> Avant juin 2024: noté au ton Hα. Est en fait au ton MH (mais avec la relative instabilité qui caractérise les emprunts chinois récents).
 \de Classifier for sets: a complete set, e.g. a full dress (an entire set of clothing).
 \ge |fg{clf}.套::sets
-\dn 量词：套
+\dn |fg{量词}：套
 \gn 量词.套（借词）
 \df Classificateur des ensembles. Un ensemble au complet, par exemple un costume.
 \gf |fg{clf}.套::ensembles
@@ -10629,7 +10632,7 @@
 \va <speaker="M18"> ID.
 \de Classifier for trees, bamboos…
 \ge |fg{clf}.trees
-\dn 量词：树（一棵），竹子（一根）
+\dn |fg{量词}：树（一棵），竹子（一根）
 \gn 量词.树
 \df Classificateur des arbres.
 \gf |fg{clf}.arbres
@@ -10659,7 +10662,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for pairs of objects, when the pair makes up a unit: e.g. a pair of shoes.
 \ge |fg{clf}.pairs_as_units
-\dn 量词：鞋（一双）
+\dn |fg{量词}：鞋（一双）
 \gn 量词.鞋
 \df Paire d'objets qui constitue une unité: par exemple une paire de chaussures.
 \gf |fg{clf}.paires_comme_unités
@@ -11316,7 +11319,7 @@
 \so F4
 \de Classifier for sides.
 \ge |fg{clf}.sides
-\dn 量词：面
+\dn |fg{量词}：面
 \gn 量词.面
 \df Côté.
 \gf |fg{clf}.côtés
@@ -12244,7 +12247,7 @@
 \so F4
 \de Classifier for beams (in carpentry).
 \ge |fg{clf}.beams
-\dn 量词：梁（一根）
+\dn |fg{量词}：梁（一根）
 \gn 量词.梁
 \df Classificateur des poutres.
 \gf |fg{clf}.poutres
@@ -13851,7 +13854,7 @@
 \so F4
 \de Self-classifier for marketplaces/towns.
 \ge |fg{clf}.markets
-\dn 量词：市场（一个），城市（一个）
+\dn |fg{量词}：市场（一个），城市（一个）
 \gn 量词.市场／城
 \df Auto-classificateur des marchés/villes.
 \gf |fg{clf}.marchés/villes
@@ -14138,7 +14141,7 @@
 \so F4
 \de Self-classifier for accidents.
 \ge |fg{clf}.accidents
-\dn 量词：事故（一场）
+\dn |fg{量词}：事故（一场）
 \gn 量词.事故
 \df Auto-classificateur des accidents.
 \gf |fg{clf}.accidents
@@ -17223,7 +17226,7 @@
 \va <speaker="M21"> ID.
 \de A half.
 \ge |fg{clf}.halves
-\dn 量词：一半
+\dn |fg{量词}：一半
 \gn 量词.半
 \df Une moitié, un demi.
 \gf |fg{clf}.moitié
@@ -17245,7 +17248,7 @@
 \sd <langue="eng"> classifier
 \de A side; a direction.
 \ge |fg{clf}.sides
-\dn 量词：一面（房屋的一面）
+\dn |fg{量词}：一面（房屋的一面）
 \gn 量词.面
 \df Un côté (d'une pièce, d'une maison…); une direction.
 \gf |fg{clf}.côté
@@ -20214,7 +20217,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for nights.
 \ge |fg{clf}.nights
-\dn 量词：夜
+\dn |fg{量词}：夜
 \gn 量词.夜
 \df Nuit; par extension: utilisé pour le décompte des jours.
 \gf |fg{clf}.nuits
@@ -22187,7 +22190,7 @@
 \so F4
 \de A few, some, a little.
 \ge |fg{clf}.a_little/a_few
-\dn 量词：一点
+\dn |fg{量词}：一点
 \gn 量词.一点
 \df Quelques-uns, un peu, une petite quantité de.
 \gf |fg{clf}.quelques
@@ -24066,7 +24069,7 @@
 \so F4
 \de Classifier for places.
 \ge |fg{clf}.places
-\dn 量词：地方（一个）
+\dn |fg{量词}：地方（一个）
 \gn 量词.地方
 \df Classificateur des lieux.
 \gf |fg{clf}.lieux
@@ -25210,7 +25213,7 @@
 \va <speaker="M21"> ID.
 \de An ounce.
 \ge |fg{clf}.ounce
-\dn 量词：两（一两）
+\dn |fg{量词}：两（一两）
 \gn 量词.两
 \df Unité de poids: once.
 \gf |fg{clf}.onces
@@ -25267,7 +25270,7 @@
 \so F4
 \de Row: classifier for rows of vegetables.
 \ge |fg{clf}.rows_of_vegetables
-\dn 量词：排（一排菜）
+\dn |fg{量词}：排（一排菜）
 \gn 量词.排
 \df Classificateur des rangées de légumes (dans un potager, dans un champ).
 \gf |fg{clf}.rangées_de_légumes
@@ -25978,7 +25981,7 @@
 \so F4
 \de Classifier used for women, and for some female domestic animals; it does not carry any hint of deprecation, nor does it convey any hint of respect by itself.
 \ge |fg{clf}.females
-\dn 量词：母性、雌性（人或动物）（一个／一只）
+\dn |fg{量词}：母性、雌性（人或动物）（一个／一只）
 \gn 量词.母性
 \df Classificateur des créatures femelles; employé pour les personnes de sexe féminin (appellation qui ne marque pas de respect, mais n'est pas injurieuse), et pour certains animaux domestiques.
 \gf |fg{clf}.femelles
@@ -25995,7 +25998,7 @@
 \so F4
 \de Classifier for dough balls and teacakes. One dough ball is the quantity of dough that can be prepared with one egg. Tea consumed in the Yongning area in the first half of the 20th century was green tea from a large leaf variety of Camellia sinensis (C. sinensis assamica) found in the mountains of southern Yunnan; it used to be pressed into ‘teacake' shape.
 \ge |fg{clf}.balls/cakes
-\dn 量词：面（一团），茶饼（一个）等。（一团面，是和了一个鸡蛋的面团的量。）
+\dn |fg{量词}：面（一团），茶饼（一个）等。（一团面，是和了一个鸡蛋的面团的量。）
 \gn 量词.面团／茶并
 \df Classificateur pour la pâte à pain: quantité de pâte aux œufs que l'on peut préparer avec un œuf. Ce classificateur est également utilisé pour le thé tassé en galettes.
 \gf |fg{clf}.boules/galettes
@@ -26545,7 +26548,7 @@
 \so F4
 \de In association with the numeral ‘one', this classifier means ‘together'.
 \ge together
-\dn 量词：加上数词‘一’，这个量词表示‘一起’。
+\dn |fg{量词}：加上数词‘一’，这个量词表示‘一起’。
 \gn 量词.一起
 \df En association avec le numéral ‘un', ce classificateur signifie ‘ensemble'.
 \gf |fg{clf}.ensemble
@@ -27628,7 +27631,7 @@
 \so F4
 \de Classifier for small objects, e.g. cigarettes.
 \ge |fg{clf}.small_object
-\dn 量词：小东西，例如烟（一只）
+\dn |fg{量词}：小东西，例如烟（一只）
 \gn 量词.小东西
 \df Classificateur des petits objets, tels que des cigarettes.
 \gf |fg{clf}.petit_objet
@@ -27648,7 +27651,7 @@
 \va <speaker="M21"> ID.
 \de A bottle of.
 \ge |fg{clf}.bottles
-\dn 量词：瓶
+\dn |fg{量词}：瓶
 \gn 量词.瓶
 \df Classificateur des bouteilles.
 \gf |fg{clf}.bouteilles
@@ -27673,7 +27676,7 @@
 \vc <langue="fra" print="n"> sɯ˩kɤ˧˥ ɖɯ˧ kɤ˧˥
 \de Classifier for sticks/rods.
 \ge |fg{clf}.sticks
-\dn 量词：棍子、树枝（一根）
+\dn |fg{量词}：棍子、树枝（一根）
 \gn 量词.树枝
 \df Classificateur des bâtons.
 \gf |fg{clf}.bâtons
@@ -27699,7 +27702,7 @@
 \va <speaker="M23"> *
 \de A tract of land.
 \ge |fg{clf}.tracts_of_land
-\dn 量词：地（一片）
+\dn |fg{量词}：地（一片）
 \gn 量词.地
 \df Une étendue de terre.
 \gf |fg{clf}.étendues_de_terre
@@ -27720,7 +27723,7 @@
 \va <speaker="M23"> ID.
 \de A basket of.
 \ge |fg{clf}.baskets
-\dn 量词：筐
+\dn |fg{量词}：筐
 \gn 量词.筐
 \df Classificateur des cageots.
 \gf |fg{clf}.cageots
@@ -28047,7 +28050,7 @@
 \nt <type="hist" print="n" langue="fra"> Avant 2024: noté au ton Mβ.
 \de Self-classifier for stars.
 \ge |fg{clf}.stars
-\dn 量词：星星（一个）
+\dn |fg{量词}：星星（一个）
 \gn 量词.星星
 \df Auto-classificateur des étoiles; classificateur des jours propices.
 \gf |fg{clf}.étoiles
@@ -29872,7 +29875,7 @@
 \va <speaker="M21"> ID.
 \de Year; year of age.
 \ge |fg{clf}.year
-\dn 量词：年、岁
+\dn |fg{量词}：年、岁
 \gn 量词.年
 \df Année.
 \gf |fg{clf}.années
@@ -30222,11 +30225,11 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de A string, a cluster of.
+\de |fg{Classifier} for sets of objects woven, threaded, tied or assembled together: a string, a cluster of.
 \ge |fg{clf}.clusters/strings
-\dn 量词：串
+\dn |fg{量词}：串、套（一组编织、穿线或捆绑在一起的物体）
 \gn 量词.串
-\df Classificateur des objets tressés, enfilés ou liés ensemble.
+\df |fg{Classificateur} des ensembles d'objets tressés, enfilés, liés ensemble ou assemblés.
 \gf |fg{clf}.ligatures
 \xv kv̩˧ | ɖɯ˧-kwɤ˩
 \xe a braid of garlic
@@ -30331,7 +30334,7 @@
 \va <speaker="M21"> ID.
 \de A piece of, a chunk of; a mouthful of.
 \ge |fg{clf}.chunks
-\dn 量词：块。一块肉、一口饭
+\dn |fg{量词}：块。一块肉、一口饭
 \gn 量词.块
 \df Classificateur des morceaux et des bouchées.
 \gf |fg{clf}.morceaux
@@ -31785,7 +31788,7 @@
 \va <speaker="M21"> ID.
 \de A span, an armspread.
 \ge |fg{clf}.armspreads
-\dn 量词：庹
+\dn |fg{量词}：庹
 \gn 量词.庹
 \df Toise: envergure des bras =longueur des deux bras écartés. Cette unité correspond à environ 5 pieds chinois (1 mètre 78).
 \gf |fg{clf}.toises
@@ -31810,7 +31813,7 @@
 \va <speaker="M21"> ID.
 \de Month.
 \ge |fg{clf}.months
-\dn 量词：月
+\dn |fg{量词}：月
 \gn 量词.月
 \df Mois.
 \gf |fg{clf}.mois
@@ -32781,7 +32784,7 @@
 \so F4
 \de Self-classifier for lives/destinies.
 \ge |fg{clf}.lives
-\dn 量词：命、命运
+\dn |fg{量词}：命、命运
 \gn 量词.命
 \df Auto-classificateur des vies/destins.
 \gf |fg{clf}.vies
@@ -33021,7 +33024,7 @@
 \so F4
 \de Self-classifier for valleys.
 \ge |fg{clf}.valleys
-\dn 量词：谷
+\dn |fg{量词}：谷
 \gn 量词.谷
 \df Auto-classificateur des vallées. Également employé pour les chemins.
 \gf |fg{clf}.vallées
@@ -33044,7 +33047,7 @@
 \so F4
 \de Self-classifier for tasks/occupations.
 \ge |fg{clf}.tasks
-\dn 量词：事情（一件）、活（一个）
+\dn |fg{量词}：事情（一件）、活（一个）
 \gn 量词.事情／活
 \df Auto-classificateur des travaux/occupations.
 \gf |fg{clf}.travaux
@@ -33200,7 +33203,7 @@
 \vc <langue="fra" print="n"> Le locuteur indique: /ɖɯ˧lo˩bɤ˩/
 \de A handful (using both hands).
 \ge |fg{clf}.handfuls(both_hands)
-\dn 量词：捧（用两只手）
+\dn |fg{量词}：捧（用两只手）
 \gn 量词.捧
 \df Classificateur des poignées (à deux mains).
 \gf |fg{clf}.poignées(2_mains)
@@ -33881,7 +33884,7 @@
 \so F4
 \de Classifier for potfuls: the amount of rice (or other cereal) cooked in the copper pot traditionally used for cooking cereals.
 \ge |fg{clf}.potfuls
-\dn 量词：饭锅（饭锅的容量）
+\dn |fg{量词}：饭锅（饭锅的容量）
 \gn 量词.饭锅
 \df Classificateur des casserolées de céréales (utilisant la casserole à céréales comme mesure de quantité de nourriture).
 \gf |fg{clf}.casserolées
@@ -34311,7 +34314,7 @@
 \so F4
 \va <speaker="M21"> ɬv̩˧˥
 \ge |fg{clf}.clothes
-\dn 量词：衣服（一件）
+\dn |fg{量词}：衣服（一件）
 \gn 量词.件
 \df Classificateur des vêtements.
 \gf |fg{clf}.vêtements
@@ -35897,7 +35900,7 @@
 \va <speaker="M21"> ID.
 \de Monetary unit: yuan.
 \ge |fg{clf}.monetary_unit
-\dn 量词：钱（一元）
+\dn |fg{量词}：钱（一元）
 \gn 量词.元
 \df Unité monétaire: un yuan.
 \gf |fg{clf}.unité_monétaire
@@ -36113,7 +36116,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for small animals.
 \ge |fg{clf}.small_animals
-\dn 量词：小动物（一只）
+\dn |fg{量词}：小动物（一只）
 \gn 量词.只
 \df Classificateur des petits animaux (poules…).
 \gf |fg{clf}.petits_animaux
@@ -37270,7 +37273,7 @@
 \so F4
 \de Self-classifier for mushrooms.
 \ge |fg{clf}.mushrooms
-\dn 量词：蘑菇（一只）
+\dn |fg{量词}：蘑菇（一只）
 \gn 量词.蘑菇
 \df Auto-classificateur des champignons.
 \gf |fg{clf}.champignons
@@ -37288,7 +37291,7 @@
 \so F4
 \de Classifier for corpses.
 \ge |fg{clf}.corpses
-\dn 量词：尸体
+\dn |fg{量词}：尸体
 \gn 量词.尸体
 \df Classificateur des cadavres et tombeaux.
 \gf |fg{clf}.cadavres
@@ -37307,7 +37310,7 @@
 \va <speaker="M23"> *
 \de One Chinese acre, amounting to one-sixth of an acre.
 \ge 亩::|fg{clf}.acres
-\dn 量词：地（一亩地）
+\dn |fg{量词}：地（一亩地）
 \gn 量词.亩（地）（借词）
 \df Acre chinois: un sixième d'acre; 0,0667 hectare.
 \gf 亩::|fg{clf}.acres
@@ -37323,7 +37326,7 @@
 \so F4
 \de A few, a little.
 \ge |fg{clf}.small_quantity
-\dn 量词：一些、一点
+\dn |fg{量词}：一些、一点
 \gn 量词.一些
 \df Classificateur des petites quantités: quelques-uns, quelque peu de, un peu de.
 \gf |fg{clf}.petite_quantité
@@ -38769,7 +38772,7 @@
 \so F4
 \de Classifier for seasons.
 \ge |fg{clf}.seasons
-\dn 量词：季节
+\dn |fg{量词}：季节
 \gn 量词.季
 \df Classificateur des saisons.
 \gf |fg{clf}.saisons
@@ -40202,7 +40205,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for tools.
 \ge |fg{clf}.tools
-\dn 量词：工具（一把）
+\dn |fg{量词}：工具（一把）
 \gn 量词.把
 \df Classificateur des outils.
 \gf |fg{clf}.outils
@@ -43805,7 +43808,7 @@
 \so F4
 \de Classifier for waists.
 \ge |fg{clf}.waist
-\dn 量词：腰部
+\dn |fg{量词}：腰部
 \gn 量词.腰部
 \df Taille: taille d'un pantalon, d'une jupe.
 \gf |fg{clf}.taille
@@ -44949,7 +44952,7 @@
 \so F4
 \de Classifier for packs/herds (of horses…), troops (of soldiers)…
 \ge |fg{clf}.troops
-\dn 量词：马、军人……（一队）
+\dn |fg{量词}：马、军人……（一队）
 \gn 量词.群
 \df Troupe (de chevaux, de soldats…).
 \gf |fg{clf}.troupes
@@ -44971,7 +44974,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for flat objects, e.g. a sheet (of paper), a ceiling.
 \ge |fg{clf}.flat_objects
-\dn 量词：平面的东西，如：纸，天花板（一张、一片）
+\dn |fg{量词}：平面的东西，如：纸，天花板（一张、一片）
 \gn 量词.平面的东西
 \df Classificateur des objets plats: feuilles de papier, plafonds…
 \gf |fg{clf}.objets_plats
@@ -45624,7 +45627,7 @@
 \va <speaker="F5"> ID.
 \de A little (noncount); mostly appears in combination with the numeral ‘one'.
 \ge |fg{clf}.little
-\dn 量词：少
+\dn |fg{量词}：少
 \gn 量词.少
 \df Peu (indénombrable), un peu; souvent employé comme hypocoristique.
 \gf |fg{clf}.petit_peu
@@ -45968,7 +45971,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for packs (e.g. a pack of cigarettes).
 \ge |fg{clf}.包::packs
-\dn 量词：包
+\dn |fg{量词}：包
 \gn 量词.包（借词）
 \df Classificateur des paquets.
 \gf |fg{clf}.包::paquets
@@ -45987,7 +45990,7 @@
 \so F4
 \de Classifier for ladders, doors…
 \ge |fg{clf}.pieces_of_carpentry
-\dn 量词：木工件，如梯子、门等等（一扇门，一把梯子）
+\dn |fg{量词}：木工件，如梯子、门等等（一扇门，一把梯子）
 \gn 量词.木工件
 \df Classificateur des éléments de menuiserie/charpente: échelles, portes…
 \gf |fg{clf}.éléments_de_charpente
@@ -46004,7 +46007,7 @@
 \so F4
 \de Classifier for statues, paintings…
 \ge |fg{clf}.statues
-\dn 量词：雕像，如：佛像（一尊）
+\dn |fg{量词}：雕像，如：佛像（一尊）
 \gn 量词.雕像
 \df Classificateur des images, peintures…
 \gf |fg{clf}.statues
@@ -46666,7 +46669,7 @@
 \va <speaker="M21"> ID.
 \de A big step.
 \ge |fg{clf}.big_steps
-\dn 量词：一大步
+\dn |fg{量词}：一大步
 \gn 量词.一大步
 \df Un grand pas.
 \gf |fg{clf}.grands_pas
@@ -46955,7 +46958,7 @@
 \so F4
 \de Classifier for plants with a stalk; also used for pieces of clothing.
 \ge |fg{clf}.plants_with_stems
-\dn 量词：有根的植物，衣服（一棵，一件）
+\dn |fg{量词}：有根的植物，衣服（一棵，一件）
 \gn 量词.植物／衣服
 \df Classificateur des plantes à tiges (fleurs, poireaux…); aussi utilisé pour compter les types/catégories de vêtements.
 \gf |fg{clf}.plantes_à_tige
@@ -47083,7 +47086,7 @@
 \so F4
 \de Classifier for spoonfuls (of food)
 \ge |fg{clf}.spoonfuls
-\dn 量词：一瓢（饭）
+\dn |fg{量词}：一瓢（饭）
 \gn 量词.瓢（饭）
 \df Classificateur des cuillerées de riz
 \gf |fg{clf}.cuillerées
@@ -47146,7 +47149,7 @@
 \va <speaker="M21"> ID.
 \de A member of a pair; also used for some large domestic animals, e.g. oxen.
 \ge |fg{clf}.member_of_pair
-\dn 量词：一对中的一只（例如一只鞋），一头大牲畜（牛……）
+\dn |fg{量词}：一对中的一只（例如一只鞋），一头大牲畜（牛……）
 \gn 量词.只
 \df Classificateur des membres d'une paire. Par exemple: une chaussure, pas une paire. Ce classificateur est également employé pour le gros bétail: vaches, buffles…
 \gf |fg{clf}.membre_d_une_paire
@@ -47366,7 +47369,7 @@
 \so F4
 \de Classifier for steps / strides.
 \ge |fg{clf}.strides
-\dn 量词：步
+\dn |fg{量词}：步
 \gn 量词.步
 \df Classificateur des pas/enjambées.
 \gf |fg{clf}.pas
@@ -48325,7 +48328,7 @@
 \so F4
 \de Classifier for fields.
 \ge |fg{clf}.fields
-\dn 量词：田地（一块）
+\dn |fg{量词}：田地（一块）
 \gn 量词.田地
 \df Classificateur des parcelles de terre, des champs.
 \gf |fg{clf}.champs
@@ -49909,7 +49912,7 @@
 \so F4
 \de Classifier for armfuls: of firewood, objects…
 \ge |fg{clf}.armfuls
-\dn 量词：抱
+\dn |fg{量词}：抱
 \gn 量词.抱
 \df Classificateur: une brassée (de bois coupé pour le feu, d'objets…).
 \gf |fg{clf}.brassées
@@ -49921,7 +49924,7 @@
 \sn 2
 \de A large bundle of cut cereals, made of about 10 sheaves. Each sheaf is tied using one stalk, then sheaves are tied together using string. A mule can carry 4 large bundles. Also for: an armful.
 \ge |fg{clf}.bundles_of_cereals
-\dn 量词：粮食垛、干草垛
+\dn |fg{量词}：粮食垛、干草垛
 \gn 量词.垛（粮食、干草）
 \df Classificateur des bottes de céréales coupées, faites d'une dizaine de gerbes. Chaque gerbe est nouée à l'aide d'une tige, puis les gerbes sont liées ensemble avec de la ficelle. Une mule peut porter 4 bottes.
 \gf |fg{clf}.bottes_de_céréales
@@ -51154,7 +51157,7 @@
 \so F4
 \de Classifier: a hornful. The quantity of liquid (or powder) that can be contained in an ox's horn. Ox horns used to serve as containers for water.
 \ge |fg{clf}.hornful
-\dn 量词：一个牛角的容量
+\dn |fg{量词}：一个牛角的容量
 \gn 量词.角
 \df Classificateur: quantité de liquide (ou de poudre) que tient une corne de vache.
 \gf |fg{clf}.corne_de_liquide
@@ -51233,7 +51236,7 @@
 \so F4
 \de Classifier for hamlets / small villages.
 \ge |fg{clf}.hamlets
-\dn 量词：村落
+\dn |fg{量词}：村落
 \gn 量词.村落
 \df Classificateur des hameaux.
 \gf |fg{clf}.hameaux
@@ -51961,7 +51964,7 @@
 \so F4
 \de Classifier for filaments of hemp before spinning.
 \ge |fg{clf}.filaments
-\dn 量词：丝，如纺之前的麻丝（一根）
+\dn |fg{量词}：丝，如纺之前的麻丝（一根）
 \gn 量词.丝
 \df Classificateur des filaments de chanvre avant filage.
 \gf |fg{clf}.filaments
@@ -52101,7 +52104,10 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv bi˩
+\pdv bi˩γ
+\pdc <langue="fra"> auto-classificateur des sabots d’animaux, et des traces qu’ils laissent sur le sol
+\pdc <langue="eng"> self-classifier for animal hooves and footprints
+\pdc <langue="cmn"> 脚或脚印的|fg{量词}
 \pdv tʰv̩˧˥α
 \de Hoof (of horse); foot (of dog).
 \ge hoof/foot
@@ -52612,7 +52618,7 @@
 \so F4
 \de A bowl(ful) of.
 \ge |fg{clf}.bowlfuls
-\dn 量词：碗
+\dn |fg{量词}：碗
 \gn 量词.碗
 \df Classificateur des bols (utilisés comme quantité de mesure du non dénombrable).
 \gf |fg{clf}.bols
@@ -53024,7 +53030,7 @@
 \so F4
 \de Classifier: a plateful, the contents of a plate.
 \ge |fg{clf}.platefuls
-\dn 量词：盘
+\dn |fg{量词}：盘
 \gn 量词.盘
 \df Assiettée, contenu d'une assiette.
 \gf |fg{clf}.assiettées
@@ -53885,7 +53891,7 @@
 \so F4
 \de A sort of.
 \ge |fg{clf}.sorts
-\dn 量词：种
+\dn |fg{量词}：种
 \gn 量词.种
 \df Classificateur des variétés/sortes de choses.
 \gf |fg{clf}.variétés
@@ -54883,7 +54889,10 @@
 \va <speaker="M21"> ʁu˧ʈʂɤ˩
 \va <speaker="M23"> ʁu˧ʈʂɯ˩
 \sn 1
-\pdv kwɤ˩
+\pdv kwɤ˩α
+\pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
+\pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
+\pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
 \de Decorations (in semi-precious materials: agate, amber, pearls, etc.) attached to the headdress.
 \ge headdress_decorations
 \dn 头饰上的装饰（半宝石材料：玛瑙、琥珀、珍珠等）。
@@ -55321,7 +55330,7 @@
 \nt <dom="sem" langue="fra"> Entrée non reconnue en 2024. Si aucun exemple tiré des textes ne vient l'étayer, il faudra la supprimer.
 \de Classifier for places.
 \ge |fg{clf}.places
-\dn 量词：地方（一处）
+\dn |fg{量词}：地方（一处）
 \gn 量词.地方
 \df Classificateur des lieux, des endroits.
 \gf |fg{clf}.lieux/endroits
@@ -55847,7 +55856,7 @@
 \vc <langue="fra" print="n"> initiale: pas de /ʁ/
 \de A heap (e.g. of grains, of cut wood); literally: ‘a mountain of'.
 \ge |fg{clf}.heaps
-\dn 量词：堆（一堆粮食、一堆柴……）
+\dn |fg{量词}：堆（一堆粮食、一堆柴……）
 \gn 量词.堆
 \df Classificateur des tas / amoncellements (de céréales, de bois coupé…); littéralement: ‘une montagne de'.
 \gf |fg{clf}.tas
@@ -56013,7 +56022,7 @@
 \va <speaker="F4"> ɻ̩̃˥$
 \de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
 \ge |fg{clf}.clans
-\dn 量词：家族
+\dn |fg{量词}：家族
 \gn 量词.家族
 \df Classificateur des clans / groupes de familles: littéralement ‘un os'. Échelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
 \gf |fg{clf}.clans
@@ -56464,7 +56473,7 @@
 \so F4
 \de A thing (no plural; only used in the negative construction “there is not a thing").
 \ge |fg{clf}.thing
-\dn 量词：样，如：‘一样都没有’
+\dn |fg{量词}：样，如：‘一样都没有’
 \gn 量词.样
 \df Classificateur des choses/objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
 \gf |fg{clf}.choses(en_tournure_négative)
@@ -57011,7 +57020,7 @@
 \so F4
 \de Classifier for salted, smoked hog legs.
 \ge |fg{clf}.salted_hog_legs
-\dn 量词:腊猪脚（烟熏腊猪蹄子）（一只）
+\dn |fg{量词}：腊猪脚（烟熏腊猪蹄子）（一只）
 \gn 量词.腊猪脚
 \df Classificateur des pattes de cochon conservées.
 \gf |fg{clf}.pattes_de_cochon_conservées
@@ -57035,7 +57044,7 @@
 \vc <langue="fra" print="n"> ɖɯ˧ ʂæ˧˥, ɖɯ˧ ʂæ˧ ɲi˥, ton m4
 \de A sheaf of cut rice or other crop (the amount cut at one go with a sickle and immediately tied together with one sprig).
 \ge |fg{clf}.sheaves
-\dn 量词：捆
+\dn |fg{量词}：捆
 \gn 量词.捆
 \df Classificateur des gerbes: ce qu'on coupe en un coup de faucille et attache d'un brin.
 \gf |fg{clf}.gerbes
@@ -58621,7 +58630,10 @@
 \ton L#
 \lc si˧kwɤ˩
 \so F4
-\pdv kwɤ˩
+\pdv kwɤ˩α
+\pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
+\pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
+\pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
 \de Wooden structure (of a house), carpentry.
 \ge wooden_structure
 \dn 木头框架，如：房子的木头框架
@@ -59026,7 +59038,7 @@
 \so F4
 \de A thing (no plural; only used in the negative construction “there is not a thing").
 \ge |fg{clf}.thing
-\dn 量词：样东西，如：‘一样东西都没有’
+\dn |fg{量词}：样东西，如：‘一样东西都没有’
 \gn 量词.样
 \df Classificateur des choses/objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
 \gf |fg{clf}.choses(en_tournure_négative)
@@ -59902,7 +59914,7 @@
 \so F4
 \de Classifier for mornings.
 \ge |fg{clf}.mornings
-\dn 量词：早晨（一个）
+\dn |fg{量词}：早晨（一个）
 \gn 量词.早晨
 \df Classificateur des matinées. Il existe trois expressions pour compter les journées: on peut dire: un jour; une matinée; ou une nuit.
 \gf |fg{clf}.matinées
@@ -60251,7 +60263,7 @@
 \va <speaker="M18"> ID.
 \de Times (repeating an action: doing something n times).
 \ge |fg{clf}.times
-\dn 量词：次数
+\dn |fg{量词}：次数
 \gn 量词.次
 \df Classificateur des fois (répétitions d'une action).
 \gf |fg{clf}.fois
@@ -62017,7 +62029,10 @@
 \ton -L
 \lc ʂwɤ˧ljɤ˧kwɤ˩
 \so F4
-\pdv kwɤ˩
+\pdv kwɤ˩α
+\pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
+\pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
+\pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
 \de Small bell that was attached to horses' breastplate.
 \ge small_chest_bell_for_horses
 \dn 挂在马胸前的铃铛
@@ -63383,7 +63398,7 @@
 \va <speaker="M21"> ID.
 \de Daeco.
 \ge |fg{clf}.groups
-\dn 量词：和尚（一帮、一班）
+\dn |fg{量词}：和尚（一帮、一班）
 \gn 量词.班（和尚）
 \df Auto-classificateur des classes/groupes (de prêtres).
 \gf |fg{clf}.classes
@@ -63507,7 +63522,7 @@
 \so F4
 \de Classifier for sums of money.
 \ge |fg{clf}.sums
-\dn 量词：钱（一笔）
+\dn |fg{量词}：钱（一笔）
 \gn 量词.笔（钱）
 \df Classificateur des fortes sommes d'argent.
 \gf |fg{clf}.sommes
@@ -63541,7 +63556,7 @@
 \vc <langue="fra" print="n"> ɖɯ˧-tɑ˧˥, ɖɯ˧-tɑ˧˥ zu˩
 \de Entirely, all; everyone.
 \ge |fg{clf}.whole
-\dn 量词：全部、一切，大家
+\dn |fg{量词}：全部、一切，大家
 \gn 量词.全部
 \df Entièrement, tout, tout le monde.
 \gf |fg{clf}.totalité
@@ -64052,7 +64067,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for meals.
 \ge |fg{clf}.meals
-\dn 量词：饭（一顿）
+\dn |fg{量词}：饭（一顿）
 \gn 量词.饭（顿）
 \df Classificateur des repas.
 \gf |fg{clf}.repas
@@ -64440,7 +64455,7 @@
 \so F4
 \de Some, a few.
 \ge |fg{clf}.a_few
-\dn 量词：一些
+\dn |fg{量词}：一些
 \gn 量词.些
 \df Quelques-uns, certains, une partie.
 \gf |fg{clf}.certains
@@ -64592,7 +64607,7 @@
 \so F4
 \de Classifier: in combination with ‘one', means ‘together'; no plural form.
 \ge |fg{clf}.together
-\dn 量词：一起
+\dn |fg{量词}：一起
 \gn 量词.一起
 \df Ensemble.
 \gf |fg{clf}.ensemble
@@ -66226,7 +66241,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for loads carried by a pack-animal.
 \ge |fg{clf}.loads
-\dn 量词：驮子（一匹）
+\dn |fg{量词}：驮子（一匹）
 \gn 量词.驮子
 \df Classificateur des charges sur une bête de somme.
 \gf |fg{clf}.fardeaux_d_animaux
@@ -66250,7 +66265,7 @@
 \va <speaker="M21"> ID.
 \de Classifier: a pound of.
 \ge 斤::|fg{clf}.pound/pint_of
-\dn 量词：斤（用于固体，也用于液体）
+\dn |fg{量词}：斤（用于固体，也用于液体）
 \gn 量词.斤（借词）
 \df Livre (aussi pour les liquides: pinte).
 \gf 斤::|fg{clf}.livre/pinte(poids)
@@ -66407,7 +66422,7 @@
 \so F4
 \de Classifier for generations.
 \ge 代::|fg{clf}.generation
-\dn 量词：代
+\dn |fg{量词}：代
 \gn 量词.代（借词）
 \df Classificateur des générations.
 \gf 代::|fg{clf}.générations
@@ -66803,7 +66818,7 @@
 \so F4
 \de Classifier for layers (of dust, of boards…).
 \ge |fg{clf}.layers
-\dn 量词：层（一层灰、一层木板……）
+\dn |fg{量词}：层（一层灰、一层木板……）
 \gn 量词.层
 \df Couche (de poussière; de planches constituant un plancher; de tissu…).
 \gf |fg{clf}.couches
@@ -66948,7 +66963,7 @@
 \vc <langue="fra" print="n"> si on distingue entre les différents doigts: emploie ʈi˧ʂæ˩ “empan long" et ʈi˧ɖæ˧ “empan court" xxxx
 \de A handspan (between the thumb and index). The distance between the thumb and the middle finger is not commonly used.
 \ge |fg{clf}.handspans(thumb_to_index)
-\dn 量词：拃（大拇指和食指之间的距离。一般不用大拇指和中指之间的距离。）
+\dn |fg{量词}：拃（大拇指和食指之间的距离。一般不用大拇指和中指之间的距离。）
 \gn 量词.拃（食指）
 \df Empan: distance entre le pouce et l'index écartés. D'ordinaire, on n'emploie pas la distance entre pouce et majeur.
 \gf |fg{clf}.empan_pouce_index
@@ -67162,7 +67177,7 @@
 \va <speaker="M18"> ID.
 \de Self-classifier for bottles.
 \ge |fg{clf}.bottles
-\dn 量词：瓶
+\dn |fg{量词}：瓶
 \gn 量词.瓶
 \df Auto-classificateur des bouteilles.
 \gf |fg{clf}.bouteilles
@@ -67701,7 +67716,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for times: n times as many/much as…
 \ge |fg{clf}.times
-\dn 量词：倍（多几倍、少几倍等等）
+\dn |fg{量词}：倍（多几倍、少几倍等等）
 \gn 量词.倍
 \df Fois, multiple de.
 \gf |fg{clf}.fois/multiples
@@ -68217,7 +68232,7 @@
 \so F4
 \de An armful of.
 \ge |fg{clf}.armfuls
-\dn 量词：抱
+\dn |fg{量词}：抱
 \gn 量词.抱
 \df Une grande brassée, ce qu'on peut prendre dans les bras: par exemple lors de la récolte: une brassée de riz coupé.
 \gf |fg{clf}.brassées
@@ -68285,7 +68300,7 @@
 \so F4
 \de Classifier for solutions.
 \ge |fg{clf}.solutions
-\dn 量词：办法，解决的方法（一个）
+\dn |fg{量词}：办法，解决的方法（一个）
 \gn 量词.办法
 \df Classificateur des solutions / issues heureuses.
 \gf |fg{clf}.solutions
@@ -68345,7 +68360,7 @@
 \va <speaker="M21"> ID.
 \de A drop (of liquid).
 \ge |fg{clf}.drops
-\dn 量词：滴
+\dn |fg{量词}：滴
 \gn 量词.滴
 \df Goutte (une goutte de liquide).
 \gf |fg{clf}.gouttes
@@ -68712,7 +68727,7 @@
 \so F4
 \de Classifier for generations.
 \ge |fg{clf}.generation
-\dn 量词：代、世、辈、世代
+\dn |fg{量词}：代、世、辈、世代
 \gn 量词.代
 \df Classificateur des générations.
 \gf |fg{clf}.générations
@@ -69464,7 +69479,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for ears (of sweet corn).
 \ge |fg{clf}.ears_of_sweet_corn
-\dn 量词.玉米（一棒）
+\dn |fg{量词}：玉米（一棒）
 \gn 量词.棒（玉米）
 \df Classificateur des épis de maïs (mûrs).
 \gf |fg{clf}.épis_maïs
@@ -69625,7 +69640,7 @@
 \so F4
 \de Classifier for knots, e.g. in a braid.
 \ge |fg{clf}.knots
-\dn 量词：数辫子的节（一节）
+\dn |fg{量词}：数辫子的节（一节）
 \gn 量词.节（辫子）
 \df Classificateur des nœuds dans une tresse.
 \gf |fg{clf}.nœuds_tresses
@@ -69646,7 +69661,7 @@
 \va <speaker="M18"> *
 \de Classifier: an inch (1/3 decimeter).
 \ge |fg{clf.}寸::inch
-\dn 量词：寸
+\dn |fg{量词}：寸
 \gn 量词.寸（借词）
 \df Pouce (cette unité de mesure n'était pas en usage chez les Na avant son introduction par emprunt au chinois).
 \gf |fg{clf.}寸::pouce
@@ -70786,7 +70801,7 @@
 \so F4
 \de Classifiers for walls, i.e. the width of a room: for instance, a cupboard can be described as extending over an entire wall, i.e. occupying the entire width of a room.
 \ge |fg{clf}.widths
-\dn 量词：一面（墙）
+\dn |fg{量词}：一面（墙）
 \gn 量词.一面（墙）
 \df Classificateur pour les murs, et donc pour la largeur de toute une pièce: un buffet/placard occupe toute la largeur d'une pièce, par exemple.
 \gf |fg{clf}.largeur_d_une_pièce
@@ -71476,7 +71491,7 @@
 \so F4
 \de Classifier for pelts / hides (animal skins), and for pieces of fabric.
 \ge |fg{clf}.pelts/pieces_of_fabric
-\dn 量词：动物皮（一张），布料（一块）
+\dn |fg{量词}：动物皮（一张），布料（一块）
 \gn 量词.皮，布料
 \df Classificateur des peaux d'animaux, et des pièces de tissu.
 \gf |fg{clf}.peaux/tissus
@@ -71914,7 +71929,7 @@
 \sn 1
 \de Classifier for services during a meal. A first service was for guests and the elderly, a second for children, and a third for the other family members.
 \ge |fg{clf}.services
-\dn 量词：用餐时的饭轮。第一轮是给客人和老人，第二轮是孩子，第三轮是给其他家庭成员。
+\dn |fg{量词}：用餐时的饭轮。第一轮是给客人和老人，第二轮是孩子，第三轮是给其他家庭成员。
 \gn 量词.饭轮
 \df Classificateur des services au cours d'un repas. Un premier service était pour les invité·es et pour les aîné·es (personnes âgées), un deuxième pour les enfants, et enfin un troisième pour les autres membres de la famille.
 \gf |fg{clf}.services
@@ -71929,7 +71944,7 @@
 \sn 2
 \de Classifier for gourmet meals (elaborate meals), irrespective of whether they involve several services. This meaning is derived from the first; meals involving several services are typically richer in terms of variety of dishes and amount of food.
 \ge |fg{clf}.sumptuous_meals
-\dn 量词：美食餐点（精心制作的餐点），无论其是否涉及多轮。这一含义源于第一个含义；多轮的餐点通常在菜肴种类和食物数量方面更为丰富。
+\dn |fg{量词}：美食餐点（精心制作的餐点），无论其是否涉及多轮。这一含义源于第一个含义；多轮的餐点通常在菜肴种类和食物数量方面更为丰富。
 \gn 量词.饭轮
 \df Classificateur pour les repas gastronomiques (repas élaborés et plantureux), qu'ils comportent ou non plusieurs services. Ce sens est dérivé du premier; les repas comportant plusieurs services sont généralement plus riches en termes de diversité des plats et de quantité de nourriture.
 \gf |fg{clf}.repas_plantureux
@@ -72920,7 +72935,7 @@
 \so F4
 \de Classifier for rooms.
 \ge |fg{clf}.rooms/compartments
-\dn 量词：间（房间，分隔间，包间）
+\dn |fg{量词}：间（房间，分隔间，包间）
 \gn 量词.间
 \df Classificateur des pièces (dans la maison), des compartiments (dans un grenier).
 \gf |fg{clf}.pièces/compartiments
@@ -72974,7 +72989,7 @@
 \so F4
 \de Classifier for dented or bumpy objects: cockscombs, leaves, and bulbs of garlic.
 \ge |fg{clf}.dented_objects
-\dn 量词：凸凹的物品，如：鸡冠（一顶）、叶子（一片）、蒜（一头）
+\dn |fg{量词}：凸凹的物品，如：鸡冠（一顶）、叶子（一片）、蒜（一头）
 \gn 量词.凸凹的物品
 \df Classificateur des objets bosselés: feuilles, crêtes de coq, têtes d'ail (une tête d'ail se divise en gousses un peu comme on effeuille une branche ou une fleur).
 \gf |fg{clf}.objets_bosselés
@@ -73430,7 +73445,7 @@
 \so F4
 \de Classifier for handfuls / balls: loose substance shaped into ball form by compressing it in the hand, for instance a handful of cooked cereals.
 \ge |fg{clf}.handfuls/balls
-\dn 量词：团，掐。指的是一只手里能拿的量，压成团，如：手里拿煮熟的粮食，压成饭团。
+\dn |fg{量词}：团，掐。指的是一只手里能拿的量，压成团，如：手里拿煮熟的粮食，压成饭团。
 \gn 量词.掐／团
 \df Classificateur des boules/poignées: la quantité que l'on compacte en la serrant dans une main, par exemple une poignée de céréale cuite qu'on compresse en boule.
 \gf |fg{clf}.poignées/boules
@@ -75329,7 +75344,7 @@
 \so F4
 \de Classifier for journeys.
 \ge |fg{clf}.journeys
-\dn 量词：征途、路程、路途、征程，趟
+\dn |fg{量词}：征途、路程、路途、征程，趟
 \gn 量词.征途／趟
 \df Classificateur des trajets.
 \gf |fg{clf}.trajets
@@ -75650,7 +75665,7 @@
 \va <speaker="M23"> ID.
 \de A handful (with one single hand).
 \ge |fg{clf}.handfuls
-\dn 量词：捧
+\dn |fg{量词}：捧
 \gn 量词.捧
 \df Classificateur des poignées: ce que l'on peut prendre dans une seule main.
 \gf |fg{clf}.poignées(1_main)
@@ -76117,7 +76132,7 @@
 \so F4
 \de Classifier for sets of tens. The term used to refer to sets of eight. The word remains in use, but its meaning has shifted towards the meaning of ‘sets of ten', following the generalized use of decimal numeration.
 \ge |fg{clf}.sets_of_ten
-\dn 量词：一套（有十个）。更早的意思是八个。
+\dn |fg{量词}：一套（有十个）。更早的意思是八个。
 \gn 量词.一套（十个）
 \df Classificateur des dizaines. Autrefois, le terme servait à compter par ensembles de 8. Le terme a demeuré, mais son sens s'est déplacé vers le sens de ‘dizaine', suivant la généralisation du système de numération à base dix.
 \gf |fg{clf}.dizaines
@@ -76171,7 +76186,7 @@
 \so F4
 \de Classifier: a large chunk of: a piece larger than a mouthful. The size can range from a chunk of meat corresponding to one serving for one guest, to a quarter of meat weighing several kilos.
 \ge |fg{clf}.large_chunks
-\dn 量词：大块，如：一块肉，从一个人的份到几公斤的重量
+\dn |fg{量词}：大块，如：一块肉，从一个人的份到几公斤的重量
 \gn 量词.大块
 \df Classificateur des quartiers/pièces: morceaux de taille supérieure à une bouchée. Il peut s'agir d'un morceau de viande qu'on donne à un convive, et qui se mange en plusieurs bouchées, mais aussi d'un gros quartier de viande (plusieurs kilos).
 \gf |fg{clf}.quartiers
@@ -76654,7 +76669,7 @@
 \va <speaker="M21"> ID.
 \de Classifier: a dime, i.e. one tenth of the monetary unit.
 \ge |fg{clf}.dimes
-\dn 量词：角（钱），一元的十分之一
+\dn |fg{量词}：角（钱），一元的十分之一
 \gn 量词.角（钱）
 \df Dixième d'unité monétaire.
 \gf |fg{clf}.décimes
@@ -76675,7 +76690,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for steps (in walking).
 \ge |fg{clf}.steps
-\dn 量词：步
+\dn |fg{量词}：步
 \gn 量词.步
 \df Pas, enjambée.
 \gf |fg{clf}.enjambées
@@ -77045,7 +77060,7 @@
 \so F4
 \de Classifier for one individual (human); can only be used after the numeral ‘one', i.e. either in the singular or in association with numbers whose last figure is ‘one'.
 \ge |fg{clf}.individual
-\dn 量词：人（一个人）。只能用于单数。
+\dn |fg{量词}：人（一个人）。只能用于单数。
 \gn 量词.人（一个人）
 \df Classificateur pour un individu humain; ne peut s'employer que pour le chiffre ‘un', autrement dit soit au singulier, soit avec des nombres dont le dernier chiffre est ‘un'.
 \gf |fg{clf}.individu
@@ -77124,7 +77139,7 @@
 \so F4
 \de Self-classifier for pots; classifier for potfuls (of food, liquid…).
 \ge |fg{clf}.pots/potfuls
-\dn 量词：锅（一口），或锅的容量
+\dn |fg{量词}：锅（一口），或锅的容量
 \gn 量词.锅
 \df Auto-classificateur des casseroles; et classificateur des casserolées (utilisant la casserole comme mesure de quantité de nourriture, liquide ou solide).
 \gf |fg{clf}.casseroles/casserolées
@@ -77801,7 +77816,7 @@
 \va <speaker="M21"> ID.
 \de Classifier for teams of oxen. In Yongning, the ard is drawn by two oxen, or two small water buffaloes, or one strong water buffalo.
 \ge |fg{clf}.teams_of_oxen
-\dn 量词：牛（一架）
+\dn |fg{量词}：牛（一架）
 \gn 量词.架（牛）
 \df Classificateur des paires de bœufs; attelage de bœufs pour tirer l'araire. À Yongning, l'attelage comporte deux bœufs, ou deux petits buffles, ou un seul buffle vigoureux.
 \gf |fg{clf}.attelages
@@ -77832,7 +77847,7 @@
 \vc <langue="fra" print="n"> /ɖɯ˧wɤ˩ ɖɯ˧wɤ˩ le˧gv̩˧gv̩˥ tʰi˩ tɕi˥/: forte descente intonative entre les deux instances de ɖɯ˧ wɤ˩
 \de Load, charge, weight.
 \ge |fg{clf}.loads
-\dn 量词：担，负荷
+\dn |fg{量词}：担，负荷
 \gn 量词.担
 \df Classificateur des charges/fardeaux qu'une personne peut porter.
 \gf |fg{clf}.fardeaux
@@ -78576,7 +78591,7 @@
 \so F4
 \de Classifier for quarters of preserved meat.
 \ge |fg{clf}.quarter_of_preserved_meat
-\dn 量词：熏肉（一块）
+\dn |fg{量词}：熏肉（一块）
 \gn 量词.熏肉块
 \df Classificateur des morceaux de viande conservée.
 \gf |fg{clf}.viande_conservée
@@ -80436,7 +80451,7 @@
 \so F4
 \de Classifier for lines/patterns (in weaving, drawing, painting…).
 \ge |fg{clf}.patterns
-\dn 量词：图案（画画或织布）（一个）
+\dn |fg{量词}：图案（画画或织布）（一个）
 \gn 量词.图案
 \df Classificateur des motifs, tracés, lignes, dans les dessins, peintures et tissages.
 \gf |fg{clf}.motifs
@@ -80599,7 +80614,7 @@
 \va <speaker="M21"> ID.
 \de Self-classifier for life, existence.
 \ge |fg{clf}.lives
-\dn 量词：辈子
+\dn |fg{量词}：辈子
 \gn 量词.辈子
 \df Auto-classificateur de la vie, de l'existence entière.
 \gf |fg{clf}.vies
