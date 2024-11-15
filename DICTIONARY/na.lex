@@ -5552,7 +5552,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
-\pdv tɕi˧˥
+\pdv tɕɯ˧˥α2
 \pdc <langue="fra"> |fg{clf} des livres (unité de poids)
 \pdc <langue="eng"> |fg{clf} for pounds (weight unit)
 \pdc <langue="cmn"> 斤的|fg{量词}
@@ -5679,7 +5679,7 @@
 \sd <langue="eng"> plant
 \ton L
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Ivy.
 \ge ivy
 \dn 常春藤
@@ -6072,7 +6072,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕy˩dzɯ˧
 \vc <langue="fra" type="hist" print="n" dom="ton"> +ɲi˩
-\pdv dzi˩
+\pdv dzi˩β
 \de Cypress.
 \ge cypress
 \dn 柏树
@@ -10386,7 +10386,6 @@
 
 \lx dzi˩
 \sf <nb="2011"> 1138
-\hm 1
 \or zzeeq
 \ps v
 \lc dzi˩˥
@@ -10411,8 +10410,7 @@
 \xf Il fait tout à fait nuit! / Le ciel s'est entièrement obscurci!
 \xc <type="hist" print="n" langue="fra"> Notes d'avant 2009: /nɑ˩˥ le˧ dzɯ˩ le˧ se˩ ze˩/.
 
-\lx dzi˩
-\hm 2
+\lx dzi˩γ
 \or zzee
 \ps clf
 \lc ɖɯ˧ dzi˩
@@ -10420,11 +10418,11 @@
 \sd <langue="eng"> classifier
 \ton Lγ
 \so F4
-\de Classifier for entire dresses.
+\de Classifier for entire dresses. Also used for prayer flags.
 \ge |fg{clf}.costumes
-\dn |fg{量词}：衣服（一套）
+\dn |fg{量词}：衣服（一套）。也用于经幡（风马旗）。
 \gn 量词.套
-\df Un costume entier: tous les vêtements qu'on porte.
+\df Un costume entier: tous les vêtements qu'on porte. Également employé pour les drapeaux de prière.
 \gf |fg{clf}.costumes
 \xv dʑi˧hṽ̩˥ | ɖɯ˧-dzi˩
 \xe a full set of dress, a complete dress
@@ -10854,7 +10852,7 @@
 \so F4
 \va <speaker="M21"> dzɯ˩tsʰɤ˩
 \vc <langue="fra" print="n"> tons confirmés
-\pdv dzi˩
+\pdv dzi˩β
 \de A shrub with sharp thorns.
 \ge shrub_sp
 \dn 永宁的一种灌木
@@ -12111,7 +12109,7 @@
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté …tɕi˧mv̩˩
 \ton LM-L
 \so F4
-\pdv dzi˩
+\pdv dzi˩γ
 \de Prayer flag.
 \ge prayer_flag
 \dn 经幡、风马旗（挂在家旁边的树上，或房顶上）
@@ -22710,7 +22708,7 @@
 \sd <langue="eng"> plant
 \ton H#-
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Setose thistle.
 \ge setose_thistle
 \dn 大蓟
@@ -29511,7 +29509,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥
-\pdv dzi˩
+\pdv dzi˩β
 \de A flowering plant in the legume family: |fi{Flemingia strobilifera}, also known as |fi{Moghania fruticulosa}.
 \ge Flemingia_strobilifera
 \dn 球穗千斤拔、半灌木千斤拔、大苞千斤拔
@@ -36193,7 +36191,7 @@
 \vc <langue="fra" dom="phono"> Des traces de friction demeurent perceptibles dans une réalisation soignée, ce qui indique que la forme ancienne était |fv{mi˩ɬi˩}, avec initiale |fv{/ɬ/}. Mais cette initiale paraît proche de se confondre avec /l/. Dans les expressions composées, on entend clairement |fv{[li]} plutôt que |fv{[ɬi]}. Par exemple: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
 \vc <langue="eng" dom="phono"> Traces of friction are still perceptible in a careful realisation, which indicates that the old form was |fv{mi˩ɬi˩}, with initial |fv{/ɬ/}. But this initial now seems close to being confused with /l/. In compound expressions, |fv{[li]} is clearly heard rather than |fv{[ɬi]}. For example: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
 \vc <langue="cmn" dom="phono"> 在非常清楚的发音中，仍然可以感受到摩擦的痕迹，这表明旧的形式是|fv{mi˩ɬi˩}，声母是|fv{/ɬ/}。但这个辅音似乎很容易与/l/混淆。在多音节短语中，可以清楚地听到|fv{[li]}，而不是 |fv{[ɬi]}。例如：|fv{[lɑ˧hwɤ˩-mi˩li˩]}。
-\pdv dzi˩
+\pdv dzi˩β
 \de Large bamboo.
 \ge large_bamboo
 \dn 大竹子
@@ -36376,7 +36374,7 @@
 \va <speaker="M21"> ɲi˩pʰv̩˩
 \vc <langue="fra" print="n"> ton d3; confirmé: n'est pas mi˩
 \va <speaker="M23"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \de Nettle.
 \ge nettle
 \dn 荨麻
@@ -40906,14 +40904,13 @@
 \ton M
 \lc ɲi˧mi˧ʈæ˧ʂɯ˧
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Sunflower.
 \ge sunflower
 \dn 葵花
 \gn 葵花
 \df Tournesol.
 \gf tournesol
-\dt 25/Apr/2017
 
 \lx ɲi˧mi˧tʰv̩#˥
 \sf <nb="B"> 695
@@ -50973,7 +50970,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \pdv ʝi˧
 \de |fi{Pinus massoniana D.Don in Lamb.}, Masson's pine, Chinese red pine, horsetail pine. Its seeds are not edible (the fish eat them, but they are poisonous for humans).
 \ge Masson_pine
@@ -51621,7 +51618,7 @@
 \sd <langue="eng"> plant
 \ton L
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \pdv lo˩
 \de A sort of shrub, reaching 1.5 to 2 meters in height.
 \ge shrub_sp
@@ -53084,7 +53081,7 @@
 \va <speaker="F5"> *
 \vc <langue="fra" print="n"> emploie un emprunt: je˩lju˧dzɯ˩
 \va <speaker="M21"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \de Poplar.
 \ge poplar
 \dn 杨树
@@ -58388,7 +58385,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \pdv ʝi˧
 \de Tree.
 \ge tree
@@ -58782,7 +58779,7 @@
 \ton #H
 \lc si˧ʁo˧
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Fruit tree.
 \ge fruit_tree
 \dn 果树
@@ -59663,7 +59660,7 @@
 \ton MH#
 \lc sɤ˧tʰo˧˥
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de A type of pine.
 \ge pine_sp
 \dn 一种松树
@@ -60743,7 +60740,7 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \pdc <langue="fra"> |fg{clf} des arbres
 \de Backbone.
 \ge backbone
@@ -60813,14 +60810,13 @@
 \ton -L
 \lc ʂɯ˧ʂɯ˧dzi˩
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Root of Anhwei Barberry (|fi{Berberis anhweiensis Ahrendt}), a plant used in Chinese medicine.
 \ge root_of_Anhwei_Barberry
 \dn 安徽刺黄柏、黄柏、刺黄柏、三颗针（一种中药）
 \gn 安徽刺黄柏
 \df Racine de berberis, plante utilisée en médecine chinoise (|fi{Berberis anhweiensis Ahrendt}).
 \gf racine_de_Berberis
-\dt 23/Jun/2017
 
 \lx sɯ˩tʰi˩
 \sf <nb="B"> 510
@@ -62347,7 +62343,7 @@
 \sd <langue="eng"> religion
 \ton LM+MH#
 \so F4
-\pdv dzi˩
+\pdv dzi˩γ
 \de Small prayer flag.
 \ge small_prayer_flag
 \dn 小经幡
@@ -62995,7 +62991,7 @@
 \ton L#
 \lc tɑ˧pʰi˩
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Chinese mugwort, |fi{Artemisia argyi}.
 \ge Chinese_mugwort
 \dn 艾、艾蒿
@@ -65892,7 +65888,7 @@
 \nt <type="hist" print="n" dom="sem" langue="fra"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L+#H-
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Chinese star jessamine, an evergreen woody liana (|fi{Trachelospermum jasminoides}). Its name in Na literally means ‘spoon of the shrike’.
 \ge star_jessamine
 \dn 络石藤，别名石鲮、明石、悬石、云珠、云丹、红对叶肾、白花藤
@@ -67338,7 +67334,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \de Pine tree.
 \ge pine_tree
 \dn 松树
@@ -69992,7 +69988,7 @@
 \vc <langue="fra" print="n" dom="ton"> MH#
 \va <speaker="M21"> tsʰɤ˧hṽ̩˧˥
 \vc <langue="fra" print="n" dom="ton"> MH#
-\pdv dzi˩
+\pdv dzi˩β
 \de Chinese evergreen.
 \ge Chinese_evergreen
 \dn 万年青
@@ -72049,7 +72045,7 @@
 \nt <type="hist" print="n" dom="sem" langue="fra"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L#
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Calamus, sweet flag, bitterroot, |fi{Acorus calamus} (a tall wetland plant).
 \ge calamus
 \dn 菖蒲
@@ -73839,14 +73835,13 @@
 \sd <langue="eng"> plant
 \ton L#
 \so F4
-\pdv dzi˩
+\pdv dzi˩β
 \de Lacquer tree, varnish tree.
 \ge lacquer_tree
 \dn 漆树
 \gn 漆树
 \df Arbre à vernis.
 \gf arbre_à_vernis
-\dt 27/Apr/2017
 
 \lx ʈʂɯ˧fv̩#˥
 \or zheifu
@@ -80638,7 +80633,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv dzi˩
+\pdv dzi˩β
 \de Cedar.
 \ge cedar
 \dn 杉树
@@ -81236,7 +81231,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ʐv̩˧dzɯ˩ kʰæ˩ pʰv̩˩ ɻ̩˩
-\pdv dzi˩
+\pdv dzi˩β
 \de Willow tree.
 \ge willow
 \dn 柳树，杨柳
