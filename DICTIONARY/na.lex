@@ -2737,7 +2737,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Snow.
 \ge snow
 \dn 雪
@@ -3029,7 +3029,7 @@
 \ton M
 \so F4
 \va <speaker="M21"> ID.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Cape made of sheepskin and padded with felt, worn on the upper back. It kept the back warm and protected it against friction with loads carried on the shoulder.
 \ge cape
 \dn 垫背、披肩
@@ -3884,7 +3884,7 @@
 \ton LH
 \so F4
 \va <speaker="F5"> ID.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Pigskin, hogskin.
 \ge pigskin
 \dn 猪皮
@@ -3905,7 +3905,7 @@
 \ton L+#H-
 \so F4
 \va <speaker="F5"> ID.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Pigskin, hogskin.
 \ge pigskin
 \dn 猪皮
@@ -3928,7 +3928,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Pig feed, swill.
 \ge pig_swill
 \dn 猪食
@@ -4460,7 +4460,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv tʰv̩˧˥
+\pdv tʰv̩˧˥α
 \de Footprints.
 \ge footprints
 \dn 脚印
@@ -5312,7 +5312,7 @@
 \ton L
 \so F4
 \va <speaker="F5"> ID.
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \pdc <langue="fra"> |fg{clf} des tas
 \pdc <langue="eng"> |fg{clf} for heaps
 \pdc <langue="cmn"> 堆的|fg{量词}
@@ -5340,7 +5340,7 @@
 \nt <dom="synt" langue="fra"> Le schéma tonal attendu étant le même dans un composé déterminatif et dans un composé coordonné, il n'est pas aisé de savoir si c'est l'un ou l'autre type d'association qui est à l'origine du quadrisyllabe.
 \ton L-L#
 \so F4
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Manure, dung. Literally ‘manure in pen'.
 \ge manure
 \dn 农家粪（直译：‘牲口圈里的肥料’）、粪
@@ -5364,7 +5364,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Manure, excrement.
 \ge manure
 \dn 圈粪、肥料
@@ -6985,7 +6985,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Dirt, filth.
 \ge dirt
 \dn 污垢
@@ -20653,7 +20653,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Charcoal.
 \ge charcoal
 \dn 炭
@@ -25693,7 +25693,7 @@
 \ton LM ≈ LM+MH#
 \lc jo˩pv̩˥
 \so F4
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Oilcloth; tarpaulin.
 \ge oilcloth
 \dn 油布
@@ -26754,7 +26754,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Basket carried on the back.
 \ge basket_carried_on_back
 \dn 背篓
@@ -27112,7 +27112,7 @@
 \lc kʰɤ˧mi˥
 \so F4
 \va <speaker="M18"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Large basket carried on the back.
 \ge large_basket_carried_on_the_back
 \dn 大背篓
@@ -27564,7 +27564,7 @@
 \lc kʰɤ˧zo˥
 \so F4
 \va <speaker="M18"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Small basket carried on the back.
 \ge small_basket_carried_on_the_back
 \dn 小背篓
@@ -29218,7 +29218,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Silk.
 \ge silk
 \dn 丝绸
@@ -30001,7 +30001,7 @@
 \va <speaker="M21"> kʰu˧ɻæ#˥
 \vc <langue="fra" print="n"> ton d2a; vérifié: n'est pas /kʰwæ/; confirmé: est le mot qui était utilisé pour désigner les tissus qu'on mettait à même le sol ou sur les meubles
 \va <speaker="M23"> kʰwɤ˧ɻæ#˥
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Felt; extended use: mat (even if not made of felt), cushion…
 \ge felt
 \dn 毡子。也用来指席子，垫子等。
@@ -30230,7 +30230,7 @@
 \xv kv̩˧ | ɖɯ˧-kwɤ˩
 \xe a braid of garlic
 \xn 一辫大蒜
-\xf une tresse d'aïl
+\xf une tresse d'ail
 \xv læ˧tsɯ˥ | ɖɯ˧-kwɤ˩
 \xe a braid of hot peppers
 \xn 一辫辣椒
@@ -38735,6 +38735,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: mv̩˧tsʰɯ˧ko˩) (vérifié: n'est pas /tsʰɯ/)
+\nt <type="hist" print="n" langue="fra"> xxxx vérifier à nouveau le classificateur: est-ce le même que celui des peaux et fourrures et vêtements? ou un auto-classificateur pour la saison sèche?
 \ton #H
 \sy tsʰi#˥
 \lc mv̩˧tsʰi˧
@@ -38743,7 +38744,7 @@
 \vc <langue="fra" print="n"> aussi: mv̩˧tsʰɯ˧ko˩
 \va <speaker="M21"> mv̩˧tsʰv̩˧
 \vc <langue="fra" print="n"> dans l'expression: /mv̩˧tsʰv̩˧ku˩/. Vérifié: n'est pas /ɯ/.
-\pdv tsʰi˥α
+\pdv tsʰi˥α1
 \de Dry season (winter and spring: from the 9th lunar month to the 2nd lunar month).
 \ge dry_season
 \dn 旱季（冬天与春天：农历九月到二月）
@@ -42306,7 +42307,7 @@
 \pdc <langue="fra"> |fg{clf} des bottes, des brassées
 \pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
 \pdc <langue="cmn"> 抱、垛的|fg{量词}
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de A plant used as fodder for the pigs.
 \ge pig_fodder
 \dn 灰条菜、灰灰菜：喂猪的牧草
@@ -43431,7 +43432,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des paniers
 \de Green bean, snap bean, string bean; one consumes the pod with the seed inside.
 \ge green_bean
@@ -43701,7 +43702,7 @@
 \lc nv̩˩ɭɯ˧tɕʰi˧
 \sy nv̩˩tɕʰi#˥
 \so F4
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des paniers
 \de Fine chaff of beans (used to feed cows).
 \ge bean_chaff(fine)
@@ -43723,7 +43724,7 @@
 \sy nv̩˩ɭɯ˧-tɕʰi˧
 \so F4
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des paniers
 \de Fine chaff of beans (used to feed cows).
 \ge bean_chaff(fine)
@@ -46934,7 +46935,7 @@
 \vc <langue="fra" print="n"> n'est pas ˩˥ ˧
 \va <speaker="M18"> pɑ˩˥ʐv̩˩
 \vc <langue="fra" print="n" dom="ton"> D'abord noté /pɑ˩˥ ʐv̩˩/, puis corrigé en ˩˥ ˧. Le 30 nov. 2006: M18 corrige à nouveau en ˩˥ ˩. Sens: étoffe matelassée servant de matelas.
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Mattress.
 \ge 被褥::mattress
 \dn 褥子（汉语借词：‘被褥’）
@@ -47884,7 +47885,7 @@
 \vc <langue="fra" print="n"> tons vérifiés; d'abord noté ˩ ˥. Segments: d'abord noté pʰv̩˩lv̩˩˥.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> pʰv̩˩bɑ˩lɑ˧ +ɲi˩
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Tibetan wool fabric.
 \ge Tibetan_wool_fabric
 \dn 氆氇
@@ -52100,7 +52101,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv bi˩
-\pdv tʰv̩˧˥
+\pdv tʰv̩˧˥α
 \de Hoof (of horse); foot (of dog).
 \ge hoof/foot
 \dn 马蹄
@@ -55565,7 +55566,7 @@
 \va <speaker="M21"> wɤ˧
 \vc <langue="fra" print="n"> hĩ˧wɤ˧, ton d2a; aussi: wɤ˧ku˧, ton d1
 \va <speaker="M23"> ID.
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Village, hamlet.
 \ge village/hamlet
 \dn 村寨，村落
@@ -55695,7 +55696,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> /ʁwɤ˩ʁu˩˥/, ton d3; tons corrigé le 14 mai 2008; avais d'abord noté "ʁwɤ˧ʁu˧, ton d2a". Rime de la 2e syllabe: avais d'abord noté ʁwɤ˧ʶv̩˧; phonétiquement: préfère en fait une rime proche de [v]; mais en comparaison de “œuf", æ˩ʁv̩˩˥, n'est pas la même syllabe; en conséquence, je maintiens la notation /ʁu/
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Hillside.
 \ge hillside
 \dn 山坡
@@ -59453,7 +59454,7 @@
 \nt <type="hist" print="n" langue="fra"> tons vérifiés
 \ton L#
 \so F4
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \pdv ɭɯ˧β
 \de Pear.
 \ge pear
@@ -61066,7 +61067,7 @@
 \so F4
 \va <speaker="M23"> ID.
 \pdv lo˩
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
 \dn 家庭社区、支系。傅懋勣（1983:24）翻译为‘家庭社区’。这是比 “家族”（“骨”）更小的单位。根据二十世纪下半叶的统计，这个家庭单位有50到100名成员（见严汝娴、宋兆麟（1984：31sq））。汉语音译：‘斯日’。
@@ -78327,7 +78328,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʐæ˩sɯ˩kʰu˩ɻæ˧
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Felt mat.
 \ge felt_mat
 \dn 毡子（真正的毡子）做的垫子
@@ -80523,7 +80524,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Grass.
 \ge grass
 \dn 草
@@ -80789,7 +80790,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɤ˧˥
+\pdv kʰɤ˧˥α
 \de Hay, dry grass. The term is also used to describe rice straw. On the farm, only rice straw is stored, not hay; grass that is picked green and then dried (hay) is not stored, but fed to the animals straight away.
 \ge hay
 \dn 干草。这个词也用来形容稻草。家里只储存稻草，不储存干草；采摘的青草晒干后（干草）不储存，而是直接喂牲口。
@@ -80922,7 +80923,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕi˧zɯ˧
 \vc <langue="fra" print="n"> ton d2a; aussi: ɕi˧zɯ˧kʰu˧ɻæ˧ +ɲi˥
-\pdv tsʰi˥
+\pdv tsʰi˥α1
 \de Mattress.
 \ge mattress
 \dn 褥子
@@ -81883,7 +81884,7 @@
 \ton #H
 \lc ʐwæ˧qʰæ˧
 \so F4
-\pdv ʁwɤ˧
+\pdv ʁwɤ˧α2
 \de Horse manure.
 \ge horse_manure
 \dn 马粪
