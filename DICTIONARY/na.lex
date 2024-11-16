@@ -4319,7 +4319,7 @@
 \pdv mi˩β
 \de Dung beetle.
 \ge dung_beetle
-\dn 屎壳郎，蜣螂
+\dn 蜣螂
 \gn 蜣螂
 \gr 屎壳郎
 \df Bousier: sorte de scarabée, qui prolifère dans les étables lorsqu'il fait chaud.
@@ -7602,7 +7602,7 @@
 \pdc <langue="cmn"> 抱、垛的|fg{量词}
 \de Bracken. It was used as famine food.
 \ge bracken
-\dn 蕨菜。俗名：龙爪菜
+\dn 蕨菜
 \gn 蕨菜
 \gr 龙爪菜
 \df Fougère. Elle était consommée comme nourriture en temps de disette.
@@ -21495,7 +21495,6 @@
 \gr 火线
 \df Mèche.
 \gf 火线::mèche
-\dt 24/Apr/2017
 
 \lx ho˧di˧
 \sf <nb="B"> 2323
@@ -23713,7 +23712,6 @@
 \ge 洋人::Westerner
 \dn 西方人（“洋人”）
 \gn 洋人（借词）
-\gr 洋人
 \df Occidental.
 \gf 洋人::occidental
 
@@ -23732,7 +23730,6 @@
 \ge 洋人::Westerner
 \dn 西方人、老外（“洋人”）
 \gn 洋人（借词）
-\gr 洋人
 \df Occidental.
 \gf 洋人::occidental
 \xv tʰv̩-v̩˧, | jɤ˩ʐe˧-hĩ˧ ɲi˥!
@@ -25202,7 +25199,7 @@
 \ge wild_radish
 \dn 红萝卜菜：一种山上的野菜。春天的时候，菜园的蔬菜还没有成熟的时候，永宁的人吃红萝卜菜。彝族在高山上采下来，在永宁卖。
 \gn 红萝卜菜
-\gr 野山菜，|fv{/ʝi˧ʂæ˧tsʰɤ˩/}
+\gr 野山菜
 \df Radis sauvage qui pousse en montagne; on le consomme surtout au printemps, à une époque où il n'y a pas encore de légumes. Ce radis est récoltée par les Yi et vendu dans la plaine.
 \gf radis_sauvage
 \xv jɤ˧ dzɯ˧ | qʰɑ˧-sɯ˥~sɯ˩, | jɤ˧ ʈʂɤ˥ ŋv̩˩-ɭɯ˩~ɭɯ˩!
@@ -29567,14 +29564,13 @@
 \va <speaker="M23"> ID.
 \pdv kɤ˧˥α1
 \pdv dzi˩β
-\de A flowering plant in the legume family: |fi{Flemingia strobilifera}, also known as |fi{Moghania fruticulosa}.
+\de A flowering plant in the legume family: |fi{Flemingia strobilifera}, also known as |fi{Moghania fruticulosa}. (Name in local Chinese: ‘mouse ear’, alluding to the shape of the leaf.)
 \ge Flemingia_strobilifera
 \dn 球穗千斤拔、半灌木千斤拔、大苞千斤拔
 \gn 球穗千斤拔
 \gr 耗子耳朵
 \df Plante à fleurs, |fi{Flemingia strobilifera}, aussi appelée |fi{Moghania fruticulosa} (nom en chinois local: «oreille de souris», du fait de la forme de la feuille).
 \gf Flemingia_strobilifera
-\dt 03/Sep/2015
 
 \lx kv̩˩tɑ˩
 \or guda
@@ -31364,7 +31360,6 @@
 \xe to fry chilli peppers
 \xn 炒辣椒
 \xf frire des piments
-\dt 04/Sep/2015
 
 \lx lɑ˩ʈʂv̩˩
 \sf <nb="B"> 501
@@ -31994,7 +31989,6 @@
 \de Bai man.
 \ge Bai_man
 \gn 白族男人
-\gr 白族男人
 \df Homme bai.
 \gf homme_bai
 
@@ -34687,7 +34681,10 @@
 \nt <type="hist" print="n" langue="fra"> (noté “lv̩˧dʑi˥, ton d4"; mais ˧ ˥ correspond à d7; vérifié en 2011: est bien d7) (n'est pas dʑɯ; confirmé en avril 2012)
 \ton H#
 \so F4
-\pdv ʈʂwɤ˧
+\pdv ʈʂwɤ˧α
+\pdc <langue="fra"> |fg{clf} des poignées
+\pdc <langue="eng"> |fg{clf} for handfuls
+\pdc <langue="cmn"> 一捧
 \de Stone chips, little slabs of stone.
 \ge stone_chips
 \dn 零碎的石头块
@@ -34912,7 +34909,7 @@
 \lc lv̩˧pʰv̩˩
 \cf ɕi˧lv̩˧-mv̩˧di˧˥
 \so F4
-\pdv pʰv̩˩
+\pdv pʰv̩˩α
 \de Paddy field.
 \ge paddy_field
 \dn 水田
@@ -35471,7 +35468,10 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> d'abord noté /luə˩˥/; fortement diphtongué; n'est “absolument pas" /o/; M18 accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence. Sens: terme générique pour cendres de bois et de charbon
 \va <speaker="M21"> ID.
-\pdv ʈʂwɤ˧
+\pdv ʈʂwɤ˧α
+\pdc <langue="fra"> |fg{clf} des poignées
+\pdc <langue="eng"> |fg{clf} for handfuls
+\pdc <langue="cmn"> 一捧
 \de Ashes (of plants, charcoal…), cinders.
 \ge ashes
 \dn 灰，灰烬（包括草木灰等等）
@@ -35881,7 +35881,6 @@
 \gr 尾结骨
 \df Coccyx.
 \gf coccyx
-\dt 19/Jun/2017
 
 \lx mɑ˧tsɑ˥
 \or maza
@@ -36870,18 +36869,31 @@
 \sd <langue="eng"> plant
 \ton L#
 \lc mo˧kɤ˩
-\de Azalea.
+\cf mo˧kɤ˩-bæ˩bæ˩
+\de Azalea, |fi{Rhododendron delavayi}. This plant is poisonous; the mushrooms that grow in its vicinity are not eaten.
 \ge azalea
-\dn 杜鹃花、踯躅、山石榴、照山红、唐杜鹃
+\dn 杜鹃花、踯躅、山石榴、照山红、唐杜鹃。这种植物有毒；在民间经验中，通常会避免采食生长在杜鹃花附近的蘑菇。
 \gn 杜鹃花
 \gr 杨花木
-\df Azalée. Cette plante est perçue comme vénéneuse; on ne consomme pas les champignons qui poussent dans son voisinage.
+\df Rhododendron (azalée), |fi{Rhododendron delavayi}. Cette plante est vénéneuse; on ne consomme pas les champignons qui poussent dans son voisinage.
 \gf azalée
-\xv mo˧kɤ˩-bæ˩bæ˩
-\xe azalea flowers
-\xn 杜鹃花
-\xf fleurs d'azalée
-\dt 04/Sep/2015
+
+\lx mo˧kɤ˩-bæ˩bæ˩
+\or moge bbaebbae
+\mr mo˧kɤ˩
+\mr bæ˩bæ˩
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L#-
+\lc mo˧kɤ˩bæ˩bæ˩
+\de Azalea flowers.
+\ge azalea_flowers
+\dn 杜鹃花
+\gn 杜鹃花
+\gr 杨花木
+\df Fleurs de rhododendron (azalée). Cette plante est vénéneuse; on ne consomme pas les champignons qui poussent dans son voisinage.
+\gf fleurs_de_rhododendron
 
 \lx mo˩kv̩#˥
 \or mogu
@@ -36894,7 +36906,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Mushrooms that grows on fallen trunks, e.g. oaks.
+\de Mushrooms that grow on fallen trunks, e.g. oaks.
 \ge 蘑菇::mushroom_of_fallen_trees
 \dn 蘑菇：长在倒在地上的树（如青冈等树木）上的菌子
 \gn 蘑菇长在倒在地上的树上的一种菌子（借词）
@@ -36904,7 +36916,6 @@
 \xe |fv{/mo˩kv̩#˥/} refers to mushrooms that grow on trees!
 \xn |fv{mo˩kv̩#˥}，指的是长在（倒在地上的）树上的菌子！
 \xf |fv{/mo˩kv̩#˥/}, ça désigne les champignons qui pousse sur les arbres! (littéralement: «les champignons d'arbres», par opposition aux «champignons de terre»)
-\dt 04/Sep/2015
 
 \lx mo˧ɬɑ˥
 \sf <nb="2011"> 1800
@@ -37638,7 +37649,7 @@
 \vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv æ̃˩
+\pdv æ̃˩α3
 \de Fire.
 \ge fire
 \dn 火
@@ -37752,7 +37763,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv æ̃˩
+\pdv æ̃˩α3
 \de Spark.
 \ge spark
 \dn 火花
@@ -38217,7 +38228,7 @@
 \vc <langue="fra" print="n"> ex.: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde". Vérification faite: n'est pas: mv̩˩kʰv̩˩˥.
 \va <speaker="M21"> mv̩˧kʰv̩#˥
 \vc <langue="fra" print="n"> mv̩˧kʰv̩˧, ton d2a; mv̩˧kʰv̩˧ dʑi˥ ze˩, mv̩˧kʰv̩˧ dʑi˥ ɲi˩
-\pdv æ̃˩
+\pdv æ̃˩α3
 \de Smoke.
 \ge smoke
 \dn 烟
@@ -42381,7 +42392,6 @@
 \gr 灰凋
 \df Sorte de fourrage pour les cochons.
 \gf fourrage_pour_cochons
-\dt 09/Sep/2015
 
 \lx njo˩kæ˧-tɕi˩˥
 \or nyogaejie
@@ -42576,7 +42586,6 @@
 \gr 灰凋
 \df Sorte de fourrage pour les cochons, |fi{Chenopodium album}. (Il y a en tout trois sortes de fourrage pour les cochons.)
 \gf fourrage_pour_cochons
-\dt 09/Sep/2015
 
 \lx njɤ˧mv̩˥-mi˩
 \sf <nb="B"> 1908
@@ -43424,8 +43433,7 @@
 \va <speaker="F4"> ɳɯ˩dʑɯ˥
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv v̩˥
-\pdc <langue="fra"> |fg{clf} des casseroles
+\pdv v̩˥β
 \de Tofu, bean curd.
 \ge bean_curd
 \dn 豆腐
@@ -43454,7 +43462,7 @@
 \vc <langue="cmn" dom="ton"> L+#H
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv v̩˥
+\pdv v̩˥β
 \de Long-boiled soft beancurd.
 \ge soft_beancurd
 \dn 豆花
@@ -43476,14 +43484,13 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv v̩˥
+\pdv v̩˥β
 \de Bean; string bean, kidney bean.
 \ge bean
 \dn 豆子，四季豆，花腰豆
 \gn 豆子
 \df Haricot: terme générique.
 \gf haricot
-\dt 25/Apr/2017
 
 \lx nv̩˧hṽ̩˩-bi˩bi˩
 \sf <nb="B"> 2040
@@ -43522,7 +43529,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv wɤ˩
+\pdv wɤ˩β
 \pdc <langue="fra"> |fg{clf} des charges portées à dos d'homme: un chargement de soja
 \de Soy beans, soya beans.
 \ge soybeans
@@ -45370,7 +45377,6 @@
 \ge distiller_s_grains
 \dn 酒糟：煮酒剩下的渣滓（一般给猪吃）
 \gn 酒糟
-\gr 酒糟
 \df Déchet de la distillation: ce qui reste après la production de l'alcool; grain qu'on donne aux animaux.
 \gf déchet_de_distillation
 \xv pi˧lv̩˧, | hĩ˧ | dzɯ˧-mɤ˧-kv̩˩!
@@ -46662,7 +46668,6 @@
 \gr 包包菜
 \df Chou.
 \gf 包包菜::chou
-\dt 27/Apr/2017
 
 \lx pɤ˩pʰv̩˩
 \or bepu
@@ -47875,13 +47880,16 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <dom="sem" langue="fra"> (adjectif avant le nom)
+\nt <dom="sem" langue="fra"> Dans ce disyllabe, l'adjectif apparaît avant le nom.
+\nt <dom="sem" langue="eng"> In this disyllable, the adjective appears before the noun.
+\nt <dom="sem" langue="cmn"> 在这个双音节词中，形容词出现在名词前面。
+\nt <type="hist" dom="phono" langue="fra"> En 2024, corrigé le classificateur en /pʰɻ̩˩/, certainement par une fausse manœuvre: le classificateur a une voyelle v (classificateur des champs).
 \ton M
 \lc pɻ̩˧lv̩˧
 \so F4
 \va <speaker="M18"> *
 \vc <langue="fra" print="n"> Emploie: /pv̩˧ kæ:˧ lv̩˧/; allongement: non élucidé
-\pdv pʰɻ̩˩
+\pdv pʰv̩˩α
 \de Nonirrigated farmland; dry land.
 \ge dry_land
 \dn 旱地
@@ -51035,17 +51043,17 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: sɯ˥dzɯ˩, ton d4; notation 2006: sɯ˧dzɯ˩)
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: sɯ˥dzɯ˩)
+\nt <type="hist" print="n" langue="fra"> sens du classificateur à vérifier: un lieu (où poussent tels arbres)? ou autre? xxxx
 \ton L#
 \lc qv̩˧dzi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv dzi˩β
-\pdv ʝi˧
+\pdv ʝi˧β
 \de |fi{Pinus massoniana D.Don in Lamb.}, Masson's pine, Chinese red pine, horsetail pine. Its seeds are not edible (the fish eat them, but they are poisonous for humans).
 \ge Masson_pine
-\dn 马尾松
+\dn 马尾松。它的松子不能食用：鱼类可以吃，但对人类有毒。
 \gn 马尾松
 \gr 马松树
 \df |fi{Pinus massoniana D.Don in Lamb.}, conifère de la famille des |fi{Pinaceae}. Ses pignes ne sont pas comestibles: les poissons les mangent, mais pour les hommes elles sont vénéneuses.
@@ -51054,7 +51062,6 @@
 \xe One must not eat the seeds of Masson's pine! (It is poisonous)
 \xn 马松树的果子，不要吃！（有毒）
 \xf Il ne faut pas manger les pignes du pin de Masson! (Elles sont vénéneuses.)
-\dt 01/Oct/2015
 
 \lx qʰv̩˧dʑɯ˥$
 \sf <nb="B"> 38
@@ -58423,13 +58430,14 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> Notation 2006: /sɯ˧dzɯ˩/. Ensuite noté /sɯ˥dzɯ˩/ (ton d4). Corrigé en /si˧dzi˩/ en 2009.
+\nt <type="hist" print="n" langue="fra"> sens du classificateur à vérifier: un lieu (où poussent tels arbres)? ou autre? xxxx
 \ton L#
 \lc si˧dzi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv dzi˩β
-\pdv ʝi˧
+\pdv ʝi˧β
 \de Tree.
 \ge tree
 \dn 树
@@ -59052,7 +59060,7 @@
 \gn 早上献给神的食物
 \df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: |fv{/so˧ dze˧-bæ˩bæ˩/}); on le fait brûler sur un feu d'épines de pin.
 \gf offrande_du_matin_aux_esprits
-\pdv æ̃˩α
+\pdv æ̃˩α3
 \xv so˧ qæ˩
 \xe to burn an offering
 \xn 烧献给神（食物，……）
@@ -59324,7 +59332,7 @@
 \ton #H
 \lc so˧dze˧
 \so F4
-\pdv æ̃˩α
+\pdv æ̃˩α3
 \de Offering to the gods, given to them in the morning; it comprises various ingredients, including flowers, tea, butter, flour, and honey; it is burnt over a fire of pine needles.
 \ge morning_offering_to_the_gods
 \dn 早上献给神的食物（含茶、酥油、面、蜂蜜），扔进松针火里烧
@@ -64162,7 +64170,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> historique: fruit tropical; chinois: serait: ganzi; M23 indique: 黄果, mot qui n'est pas dans le dictionnaire; taille: gros comme une orange; F4 indique que ça pousse haut dans la montagne (n'est pas tɕɯ)
+\nt <type="hist" print="n" langue="fra"> historique: fruit tropical; chinois: serait: ganzi; M23 indique: 黄果, mot qui n'est pas dans le dictionnaire: c'est un mot local. Taille: gros comme une orange; F4 indique que ça pousse haut dans la montagne (n'est pas tɕɯ)
 \ton L#
 \lc tɕi˧do˩
 \so F4
@@ -64174,7 +64182,6 @@
 \gr 黄果
 \df Mandarine.
 \gf mandarine
-\dt 24/Jul/2017
 
 \lx tɕʰi˧ɖv̩#˥
 \or Qiddeu
@@ -65317,10 +65324,8 @@
 \ge 将将::just/exactly
 \dn 将将、刚刚
 \gn 将将（借词）
-\gr 将将
 \df Précisément, exactement (ex.: au moment précis où, juste au moment où).
 \gf 将将::précisément/exactement
-\dt 08/Oct/2015
 
 \lx tɕɯ˩˥
 \sf <nb="B"> 233
@@ -65980,7 +65985,6 @@
 \ge hwamei
 \dn 画眉鸟
 \gn 画眉鸟
-\gr 画眉鸟
 \df Passereau de la famille des Leiothrichidae: |fi{Leucodioptron canorum}. Le nom ‘hwamei’ signifie «sourcils peints» en référence à la marque distinctive autour des yeux de l'oiseau.
 \gf passereau
 \xv tɕɯ˩mi˥ | ə˧mi˧ ɲi˩!
@@ -67927,8 +67931,10 @@
 \ton H#
 \lc tʰo˧ɻæ˥
 \so F4
-\pdv ʈʂwɤ˧
+\pdv ʈʂwɤ˧α
 \pdc <langue="fra"> |fg{clf} des poignées
+\pdc <langue="eng"> |fg{clf} for handfuls
+\pdc <langue="cmn"> 一捧
 \de Pine-nut kernel.
 \ge pine_nut_kernel
 \dn 松子
@@ -72278,7 +72284,6 @@
 \gr 草果
 \df Cardamome, |fi{Elletaria cardamomum}.
 \gf cardamome
-\dt 07/Oct/2015
 
 \lx ʈʂʰɤ˩kɤ˧
 \sf <nb="B"> 522
@@ -75359,7 +75364,6 @@
 \gr 窗子
 \df Fenêtre.
 \gf fenêtre
-\dt 27/Apr/2017
 
 \lx ʈʂʰwæ˧ʈʂʰwæ˧
 \sf <nb="B"> 652b
@@ -80951,7 +80955,6 @@
 \gr 山扎拉
 \df Faisan doré.
 \gf faisan doré
-\dt 05/Jul/2017
 
 \lx ʐɯ˩tsɯ˧
 \or rizi
