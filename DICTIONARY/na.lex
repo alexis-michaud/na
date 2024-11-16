@@ -10863,7 +10863,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (tons confirmés) (d'abord noté /dzɯ/, par erreur)
-\nt <dom="sem" langue="fra"> cf grand échantillon séché sur photo
+\nt <dom="sem" langue="fra" print="n"> cf grand échantillon séché sur photo
 \ton L
 \so F4
 \va <speaker="M21"> dzɯ˩tsʰɤ˩
@@ -12269,6 +12269,27 @@
 \df Classificateur des poutres.
 \gf |fg{clf}.poutres
 \dt 24/Apr/2017
+
+\lx ɖʐo˩
+\or zzhoq
+\ps clf
+\lc ɖɯ˧ ɖʐo˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton L
+\nt <type="hist" print="n" langue="fra"> xxxx déterminer la sous-catégorie tonale
+\so F4
+\de Classifier for songs.
+\ge |fg{clf}.songs
+\dn |fg{量词}：歌（一首）
+\gn 量词.歌
+\df Classificateur des chansons.
+\gf |fg{clf}.chansons
+\xv ə˧hɑ˩bɑ˩lɑ˩ | ɖɯ˧-ɖʐo˩ gwɤ˩
+\xe to sing a song
+\xn 唱一首摩梭歌
+\xf chanter une chanson
+
 
 \lx dzo˩~dzo˧˥
 \or zzozzo
@@ -13707,7 +13728,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (tons confirmés) (vérifié en 2009: n'est pas /tsi/ ni /dzi/) ʈʂʰɯ˧ dzɯ˧tsɯ˧ ɲi˥
-\nt <dom="sem" langue="fra"> petit échantillon sur photo
+\nt <dom="sem" langue="fra" print="n"> petit échantillon sur photo
 \ton MH#
 \lc dzɯ˧tsɯ˧˥
 \so F4
@@ -15167,7 +15188,6 @@
 \xe to sing a song
 \xn 唱一首摩梭歌
 \xf chanter une chanson
-\dt 24/Apr/2017
 
 \lx ə˧hĩ˥
 \or ehin
@@ -15461,7 +15481,7 @@
 \so F4
 \va <speaker="M18"> ID.
 \pdv v̩˧
-\pdv jɤ˧˥
+\pdv jɤ˧˥α1
 \de Mother. The word is also used as a term of address for maternal aunts, and for women of the mother's generation outside the household and even outside the family. Literal and extended uses of the word are distinguished, not only by context, but also by various combinations with adjectives (`little mother' and `elder mother' refer to aunts younger and older than the mother, respectively) or with a family name or given name.
 \ge mother/aunt
 \dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
@@ -16862,7 +16882,7 @@
 \cf mv̩˩pʰæ˧
 \cf dv̩˩pʰæ˧
 \so F4
-\pdv tso˩
+\pdv tso˩γ
 \de Pantry, storeroom, larder: a room where food is kept.
 \ge pantry
 \dn 储藏室、库房：存粮食、火腿的房间
@@ -17668,7 +17688,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pɤ˥
+\pdv pɤ˥β
 \de Image of Buddha.
 \ge image_of_Buddha
 \dn 佛像
@@ -18179,7 +18199,7 @@
 \ton #H
 \lc ɣɯ˧
 \so F4
-\pdv bo˩
+\pdv bo˩β
 \de Cloth.
 \ge cloth
 \dn 布料
@@ -18223,11 +18243,11 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <dom="sem" langue="fra"> cf photo
+\nt <dom="sem" langue="fra" print="n"> cf photo
 \ton L#
 \lc ɣɯ˧bo˩
 \so F4
-\pdv bo˩
+\pdv bo˩β
 \de Weft, weft thread, pick.
 \ge weft
 \dn 纬线、纬纱
@@ -19580,7 +19600,7 @@
 \sd <langue="eng"> food
 \ton H#
 \so F4
-\pdv bɤ˩
+\pdv bɤ˩α1
 \de Fresh corncob.
 \ge fresh_corncob
 \dn 新鲜的玉米棒子
@@ -20854,7 +20874,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mo˧
+\pdv mo˧α
 \de Corpse.
 \ge corpse
 \dn 尸体
@@ -21841,7 +21861,7 @@
 \lc ho˧tʰv̩˧
 \cf ʂe˧sɑ˩
 \so F4
-\pdv sɑ˧˥
+\pdv sɑ˧˥α
 \pdv ɭɯ˧β
 \de Ham.
 \ge 火腿::ham
@@ -23242,9 +23262,10 @@
 \sy hwɤ˧li˧-se˧-di˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\pdc <langue="fra" type="hist" print="n"> xxxx classificateur: est-ce le classificateur des bâtons?? ou celui des étendues de terre? Ou encore un autre classificateur homophone? Provisoirement considéré comme le second (étendues de terre).
 \ton H#
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
 \de Lower balcony, mezzanine: an area of the main room where a floor is laid under the roof structure, forming a mezzanine, but which the human inhabitants do not use. As the area is very smoky, only a flimsy floor and no railings are used. Hence the name: ‘the cat's (place)’, as only the cat roams around easily up there. Sometimes objects are stored here (wickerwork, for example): the smoke give them some protection from insects.
 \ge lower_balcony
 \dn 夹层：主屋的夹层。只有一层薄的木地板。这一个区域，在屋顶结构下铺设地板，形成一个夹层。因为烟雾很大，所以人不能用这个空间当卧室。只铺设一层薄薄的地板，没有栏杆。因此，这里被称为“猫的（地方）”，因为只有猫可以在上面轻松地走来走去。有时会在这里存放一些物品（例如柳条制品）：烟雾可以起到一定的防虫作用。
@@ -23292,9 +23313,10 @@
 \lc hwɤ˧li˧se˧di˧˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\pdc <langue="fra" type="hist" print="n"> xxxx classificateur: est-ce le classificateur des bâtons?? ou celui des étendues de terre? Ou encore un autre classificateur homophone? Provisoirement considéré comme le second (étendues de terre).
 \ton MH#
 \so F4
-\pdv kɤ˧˥
+\pdv kɤ˧˥α2
 \de Lower balcony, mezzanine.
 \ge lower_balcony
 \dn 夹层：主屋的夹层。因为烟多，所以人不能用这个空间当卧室。只有一层薄的木地板。
@@ -25113,7 +25135,7 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
 \nt <type="hist" print="n" langue="fra"> Le locuteur M18 emploie le mot ‘fumée’, /mv̩˧kʰv̩˧˥/, pour dire ‘cigarette’.
-\pdv ko˧
+\pdv ko˧α
 \de Tobacco, cigarettes.
 \ge tobacco
 \dn 烟
@@ -27821,7 +27843,7 @@
 \pdc <langue="fra"> |fg{clf} des objets ronds
 \pdc <langue="eng"> |fg{clf} for round objects
 \pdc <langue="cmn"> 圆形物体的|fg{量词}
-\pdv kɯ˧
+\pdv kɯ˥β
 \de Star.
 \ge star
 \dn 星星
@@ -28418,14 +28440,13 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv ʈʂæ˧˥
+\pdv ʈʂæ˧˥α
 \de Ankle.
 \ge ankle
 \dn 踝关节
 \gn 踝关节
 \df Cheville.
 \gf cheville
-\dt 03/Sep/2015
 
 \lx kʰɯ˧tsʰɤ˧˥
 \sf <nb="B"> 166
@@ -28679,7 +28700,7 @@
 \pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique: une gousse d'ail.
 \pdc <langue="eng"> |fg{clf} for round objects, used as generic |fg{clf}: a clove of garlic.
 \pdc <langue="cmn"> 圆形物体的|fg{量词}：一瓣大蒜
-\pdv tsʰɤ˧˥
+\pdv tsʰɤ˧˥α
 \pdc <langue="fra"> |fg{clf} des objets bosselés: une tête d'ail entière.
 \pdc <langue="eng"> |fg{clf} for dented or bumpy objects: a whole head of garlic.
 \pdc <langue="cmn"> 凸凹物品的|fg{量词}：一头大蒜。
@@ -28689,7 +28710,6 @@
 \gn 大蒜
 \df Ail, |fi{Allium sativum}.
 \gf ail
-\dt 03/Sep/2015
 
 \lx kʰv̩˧˥
 \sf <nb="B"> 789
@@ -28875,7 +28895,7 @@
 \so F4
 \pdv mi˩β
 \pdv v̩˧
-\pdv jɤ˧˥
+\pdv jɤ˧˥α1
 \de Dog (monosyllable).
 \ge dog
 \dn 狗
@@ -29174,7 +29194,7 @@
 \va <speaker="M21"> ID.
 \pdv v̩˧
 \pdc <langue="fra"> |fg{clf} honorifique pour les individus humains. L'usage de ce classificateur marque le choix d'un terme particulièrement respectueux.
-\pdv jɤ˧˥
+\pdv jɤ˧˥α1
 \de Dog (either he-dog or she-dog).
 \ge dog
 \dn 狗
@@ -29202,7 +29222,7 @@
 \so F4
 \pdv v̩˧
 \pdc <langue="fra"> |fg{clf} honorifique pour les individus humains. L'usage de ce classificateur marque le choix d'un terme particulièrement respectueux.
-\pdv jɤ˧˥
+\pdv jɤ˧˥α1
 \de Dog of the plain (either he-dog or she-dog). The dogs of the plain, unlike dogs in mountain hamlets, get to see lots of passers-by, and are less likely to bite strangers suddenly.
 \ge dog_of_the_plain
 \dn 平坝的狗
@@ -29219,7 +29239,7 @@
 \sd <langue="eng"> animal
 \ton L+#H-
 \so F4
-\pdv jɤ˧˥
+\pdv jɤ˧˥α1
 \de Roving dog.
 \ge roving_dog
 \dn 流浪的狗
@@ -29664,7 +29684,7 @@
 \ton L#
 \lc kv̩˧tsʰɤ˩
 \so F4
-\pdv tsʰɤ˧˥
+\pdv tsʰɤ˧˥α
 \de Garlic sprout.
 \ge garlic_sprout
 \dn 蒜苗
@@ -32250,7 +32270,7 @@
 \nt <dom="ety" langue="cmn"> 第一个音节，/|fv{ɬi}/，显然是`月亮'这个语素。
 \ton L#
 \so F4
-\pdv ɬi˧
+\pdv ɬi˧β
 \pdc <langue="fra"> |fg{clf} des mois
 \de Menses; period.
 \ge menses
@@ -32729,7 +32749,7 @@
 \sd <langue="eng"> abstract
 \ton LM?LH?
 \so F4
-\pdv ljɤ˩
+\pdv ljɤ˩α
 \de Life, existence, destiny, fate.
 \ge destiny
 \dn 命、生命、命运
@@ -32744,7 +32764,6 @@
 \xe human existence, the human lot
 \xn 人命、人类的命运
 \xf l'existence humaine
-\dt 04/Sep/2015
 
 \lx ljɤ˩mi˥
 \sf <nb="2011"> 630
@@ -32778,7 +32797,7 @@
 \lc ljɤ˩mi˥ʈæ˩qo˩
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="fra"> voir photo 9677, année 2012
+\nt <dom="sem" langue="fra" print="n"> voir photo 9677, année 2012
 \ton LH-
 \so F4
 \pdv pʰæ˧˥α
@@ -32823,10 +32842,12 @@
 \df Auto-classificateur des vies/destins.
 \gf |fg{clf}.vies
 \xv ʈʂʰɯ˧-ljɤ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (tone: H# / H$)
-\dt 30/Apr/2017
+\xe |fg{dem} 〜: this life
+\xn |fg{指示代词} 〜：这个命
+\xf |fg{dem} 〜: cette vie
+\xc <langue="fra" dom="ton"> ton: H# / H$
+\xc <langue="eng" dom="ton"> tone: H# / H$
+\xc <langue="cmn" dom="ton"> 声调：H# / H$
 
 \lx lo˩
 \hm 1
@@ -32843,11 +32864,10 @@
 \gn 过（垭口）
 \df Passer, franchir (un col).
 \gf franchir
-\xv mv̩˩-tɕo˧-lo˩
+\xv mv̩˩-tɕo˧ lo˩
 \xe to go down (after crossing a mountain pass)
 \xn 往下过去（过了垭口以后）
 \xf descendre (après avoir passé un col)
-\dt 04/Sep/2015
 
 \lx lo˩
 \sf <nb="B"> 31
@@ -32864,7 +32884,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv lo˩
+\pdv lo˩β
 \de Mountain valley.
 \ge valley
 \dn 山谷
@@ -32909,7 +32929,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> lo˧, ton m2; pas d'élicitation possible dans le cadre “ceci est", mais le ton de base peut se déduire des nombreuses expressions où le mot apparaît: lo˧ dʑo˧-ze˧ (/dʑo˧/: ton 1), lo˧ ʝi˧-ze˩ (/ʝi˧/: ton 2).
-\pdv lo˧
+\pdv lo˧β
 \de Work, occupation, task.
 \ge work
 \dn 事情
@@ -33935,14 +33955,13 @@
 \so F4
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> lu˩qʰv̩˩˧, ton m3
-\pdv lo˩
+\pdv lo˩β
 \de Gully; ravine; valley.
 \ge gully
 \dn 山沟
 \gn 山沟
 \df Vallée, gorge, ravin.
 \gf vallée/ravin
-\dt 04/Sep/2015
 
 \lx lo˩qʰwɤ˧
 \sf <nb="B"> 181
@@ -34131,7 +34150,7 @@
 \ton #H
 \lc lo˧tɑ˧lo˧tɕi˧
 \so F4
-\pdv pɤ˥
+\pdv pɤ˥β
 \pdv pʰæ˧˥α
 \de Streamer of scriptures.
 \ge streamer_of_scriptures
@@ -34194,7 +34213,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\pdv ʈʂæ˧˥
+\pdv ʈʂæ˧˥α
 \de Wrist.
 \ge wrist
 \dn 手腕（词源：手的关节）
@@ -36620,7 +36639,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\pdv mo˧˥
+\pdv mo˧˥α
 \de Mushroom.
 \ge mushroom
 \dn 菌子、蘑菇
@@ -45879,7 +45898,7 @@
 \so F4
 \va <speaker="M18"> *
 \sn 1
-\pdv pɤ˥
+\pdv pɤ˥β
 \pdv pʰæ˧˥α
 \de Drawing, painting.
 \ge drawing/painting
@@ -46274,7 +46293,7 @@
 \nt <type="hist" print="n" langue="fra"> jusqu'en août 2012: noté pɤ˩jɤ˧, ton LM
 \so F4
 \va <speaker="F5"> ID.
-\pdv jɤ˧˥
+\pdv jɤ˧˥α2
 \de Dough for making bread (steamed bread, as well as bread that is fried or cooked on a griddle.
 \ge dough
 \dn 做面包的面团（可以蒸成馒头）
@@ -46284,7 +46303,7 @@
 \sn 2
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\pdv jɤ˧˥
+\pdv jɤ˧˥2
 \de Bread, cake (typically round and flat).
 \ge bread/cake
 \dn 饼
@@ -47129,11 +47148,11 @@
 \ton Hα
 \lc ɖɯ˧ pɤ˥
 \so F4
-\de Classifier for spoonfuls (of food)
-\ge |fg{clf}.spoonfuls
-\dn |fg{量词}：一瓢（饭）
-\gn 量词.瓢（饭）
-\df Classificateur des cuillerées de riz
+\de Classifier for quantities equivalent to a ladleful, a big spoonful. Used for food, but also for excrements.
+\ge |fg{clf}.ladlefuls
+\dn |fg{量词}：一瓢、一勺、一大勺的量。用于食物（一大勺米饭），也用于粪便（一团屎）。
+\gn 量词.瓢
+\df Classificateur pour une quantité équivalentes à une louche, une grande cuillerée. Utilisé pour les aliments (une louche de riz, une grande cuillerée de riz), mais aussi pour les excréments (une crotte).
 \gf |fg{clf}.cuillerées
 \xv hɑ˧ | ɖɯ˧-pɤ˥
 \xe a spoonful of rice
@@ -48957,6 +48976,7 @@
 \ps n
 \ton #H
 \lc qʰæ˧
+\cf qʰæ˧pɤ#˥
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -48966,7 +48986,7 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" type="hist" print="n"> /bv̩˩ko˩ bv̩˥kʶæ˧/ 'excréments de l'étable'; tons: ˩ ˩ ˧ ˧? Aussi: /ʐwæ˧bv̩˥ko˩bv̩˥kʶæ˥/ (tons de /bv/ à vérifier ds cette expression); /ʐwæ˧bv̩˥ʐwæ˧kʶæ˧/, 'fumier de cheval'; /i˥bv̩˥i˥kʶæ˧/, 'fumier de vache'.
 \va <speaker="M21"> ID.
-\pdv pɤ˥
+\pdv pɤ˥α
 \de Excrement, dung, droppings.
 \ge excrement
 \dn 屎、垃圾、肥料
@@ -48996,7 +49016,7 @@
 \sn 2
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\pdv pɤ˥
+\pdv pɤ˥α
 \de Flatulence, fart.
 \ge fart
 \dn 屁
@@ -49605,6 +49625,8 @@
 \sf <nb="B"> 503
 \sf <nb="2011"> 299
 \or khaebe
+\mr qʰæ˥
+\mr pɤ˥α
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -49612,7 +49634,7 @@
 \ton #H
 \lc qʰæ˧pɤ˧
 \so F4
-\pdv pɤ˥
+\pdv pɤ˥α
 \de Excrements, dung, dropping.
 \ge excrements
 \dn 屎
@@ -49627,7 +49649,6 @@
 \xe to defecate
 \xn 拉一泡屎
 \xf faire une crotte
-\dt 13/Jun/2017
 
 \lx qæ˧ɻ̩˧
 \sf <nb="B"> 450c
@@ -51670,6 +51691,7 @@
 \so F4
 \pdv dzi˩β
 \pdv lo˩
+\pdc <langue="fra" type="hist" print="n"> xxxx Quel est ce classificateur? Celui des vallées? Un autre, qui désignerait les arbres?? les mains???
 \de A sort of shrub, reaching 1.5 to 2 meters in height.
 \ge shrub_sp
 \dn 一种灌木，1.5至2米高，可以当篱笆用
@@ -54648,7 +54670,7 @@
 \ton H#
 \lc ʁo˧ni˥
 \so F4
-\pdv bo˩
+\pdv bo˩β
 \de Braided yarn headdress. It makes up a set with |fv{/ʁo˧kɤ˩/}.
 \ge headdress
 \dn 用来将长辫缠成盘头的黑色丝头饰。与|fv{ʁo˧kɤ˩}一起形成一套。
@@ -56332,7 +56354,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖʐæ˩˥
-\pdv ʈʂæ˧˥
+\pdv ʈʂæ˧˥α
 \de Ankle, joint (between the foot and the leg, the arm and the hand…).
 \ge joint
 \dn 关节部位，关节
@@ -57896,7 +57918,7 @@
 \lc ʂe˧sɑ˩
 \cf ho˧tʰv̩˧
 \so F4
-\pdv sɑ˧˥
+\pdv sɑ˧˥α
 \de Meat of the limbs of pig. This includes the four limbs; it usually refers to preserved meat, but can also be used to refer to the limbs of the living animal.
 \ge meat_of_limbs
 \dn 风干猪腿。把猪大腿的皮刮下来，留一层薄薄的瘦肉筋，使其绷紧，撑开，形成扇面，风干。
@@ -58849,7 +58871,7 @@
 \vc <langue="fra" print="n"> 2006: noté sɯ˧ tsʰɯ˩˥, par erreur), ton d3
 \va <speaker="M23"> tsʰɤ˩tsʰɤ˩
 \vc <langue="fra" print="n"> ex.: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥; vérifié, n'est pas /sɯ/
-\pdv tsʰɤ˧˥
+\pdv tsʰɤ˧˥α
 \de Leaf.
 \ge leaf
 \dn 叶子
@@ -60780,6 +60802,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc sɯ˧ɻ̩̃˧
+\pdc <langue="fra" type="hist" print="n"> xxxx Quel est ce classificateur? Celui des vallées? Un autre, qui désignerait les arbres?
 \so F4
 \pdv lo˩
 \de Tree trunk.
@@ -61100,6 +61123,7 @@
 \so F4
 \va <speaker="M23"> ID.
 \pdv lo˩
+\pdc <langue="fra" type="hist" print="n"> xxxx Quel est ce classificateur? Celui des vallées? Un autre, qui désignerait les arbres?? les mains???
 \pdv ʁwɤ˧α2
 \de Family community (translation proposed by Fu Maoji (1983:24)). This is a lower level than the ‘clan’ (literally: ‘bone’). This family unit (lineage) had between 50 and 100 members, according to counts made in the second half of the twentieth century: see Yan et al. (1984: 31sq).
 \ge family_community
@@ -68693,7 +68717,7 @@
 \sd <langue="eng"> body
 \ton MH
 \so F4
-\pdv ʈʂæ˧˥
+\pdv ʈʂæ˧˥α
 \de Joint (of body).
 \ge joint
 \dn 关节
@@ -69380,7 +69404,7 @@
 \lc tsɑ˩tɕi˩˥
 \so F4
 \pdv ɭɯ˧β
-\pdv mo˧˥
+\pdv mo˧˥α
 \de Various mushrooms, mixed mushrooms.
 \ge 杂菌::various_mushrooms
 \dn 杂菌
@@ -69497,12 +69521,12 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de Classifier for ears (of sweet corn).
-\ge |fg{clf}.ears_of_sweet_corn
-\dn |fg{量词}：玉米（一棒）
-\gn 量词.棒（玉米）
-\df Classificateur des épis de maïs (mûrs).
-\gf |fg{clf}.épis_maïs
+\de Classifier for joints of the body; also for ears of sweet corn.
+\ge |fg{clf}.joints
+\dn |fg{量词}：身体的关节。也用于玉米（一棒）。
+\gn 量词.关节
+\df Classificateur des articulations du corps; également utilisé pour les épis de maïs (mûrs).
+\gf |fg{clf}.articulations
 \xv qʰɑ˧dze˧ | ɖɯ˧-ʈʂæ˧˥
 \xe an ear of sweet corn
 \xn 一棒玉米
@@ -69511,7 +69535,6 @@
 \xe to pick an ear of sweet corn
 \xn 掰一棒玉米
 \xf arracher un épi de maïs, récolter un épi de maïs
-\dt 27/Apr/2017
 
 \lx ʈʂʰæ˧~ʈʂʰæ˧
 \or chaechae
@@ -81019,7 +81042,7 @@
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ljɤ˩
+\pdv ljɤ˩α
 \de Life, existence.
 \ge life
 \dn 生命
@@ -81877,7 +81900,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv v̩˧
-\pdv jɤ˧˥
+\pdv jɤ˧˥1
 \de Mare.
 \ge mare
 \dn 母马
