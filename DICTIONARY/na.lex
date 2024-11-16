@@ -52011,7 +52011,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> kʰwɑ˧ʈʰv̩˥
 \va <speaker="M23"> kʰwɑ˧ʈv̩˥
-\pdv bɤ˧˥
+\pdv bɤ˧˥α
 \de Scarf, kerchief.
 \ge kerchief
 \dn 头帕
@@ -56481,8 +56481,10 @@
 \sd <langue="eng"> plant
 \so F4
 \va <speaker="M21"> ID.
-\pdv qʰwæ˧˥
-\pdc <langue="fra"> |fg{clf} employé pour les filaments: un filament
+\pdv qʰwæ˧˥α
+\pdc <langue="fra"> |fg{clf} employé pour les filaments (avant filage).
+\pdc <langue="eng"> |fg{clf} for filaments of hemp before spinning.
+\pdc <langue="cmn"> 纺之前的麻丝（一根）
 \de Flax, |fi{Linum usitatissimum}.
 \ge flax
 \dn 亚麻
@@ -56492,8 +56494,6 @@
 \sn 2
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\pdv qʰwæ˧˥
-\pdc <langue="fra"> |fg{clf} employé pour les filaments: un filament
 \de Hemp, |fi{Cannabis sativa}.
 \ge hemp
 \dn 火麻、胡麻
@@ -56968,7 +56968,7 @@
 \sd <langue="eng"> object
 \ton L#
 \so F4
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
 \ge kaftan
 \dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
@@ -56989,7 +56989,7 @@
 \sd <langue="eng"> object
 \ton L+H#
 \so F4
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
 \ge kaftan
 \dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
@@ -57009,7 +57009,7 @@
 \sd <langue="eng"> object
 \ton M
 \so F4
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
 \ge kaftan
 \dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
@@ -57031,7 +57031,7 @@
 \sd <langue="eng"> object
 \ton L+H#
 \so F4
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Kaftan: clothing that children used to wear before they came of age: a loose robe (the same for girls and boys); also worn by adult men in earlier times.
 \ge kaftan
 \dn 裋、卡夫坦长衣：成年前男女小孩均穿的裋，成年男人也穿
@@ -63163,7 +63163,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Skirt.
 \ge skirt
 \dn 裙子
@@ -78367,7 +78367,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Rough felt made only of sheep wool. One drapes it over one's shoulders as an outdoor protection from the cold.
 \ge piece_of_felt
 \dn 披毡
@@ -79607,7 +79607,7 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> voyelle et tons confirmés; 2e syllabe proche de /wɤ/
 \va <speaker="M21"> ʑi˧ʁo#˥
-\pdv ɭɯ˧˥
+\pdv ɭɯ˧˥α
 \de Bed.
 \ge bed
 \dn 床
