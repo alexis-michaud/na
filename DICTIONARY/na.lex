@@ -58030,13 +58030,13 @@
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \ton L#
+\nt <type="hist" print="n" langue="fra" dom="synt"> Noté (avant 2015) un classificateur /kʰɤ˥/. À date de novembre 2024, il n'y a pas de classificateur /kʰɤ˥/ dans le dictionnaire. Provisoirement retranché. xxxx
 \lc ʂe˧ʈʂe˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv pʰæ˧˥α
-\pdv kʰɤ˥
 \de Cotton fabric, cloth.
 \ge cotton_fabric
 \dn 棉布，布料
@@ -58053,14 +58053,13 @@
 \ton #H
 \lc ʂe˧ʐe˧
 \so F4
-\pdv ʐe˥
+\pdv ʐe˥α
 \de Preserved pork meat.
 \ge preserved_pork_meat
 \dn 腊肉，包括不同几类的腊肉，如火腿等。
 \gn 腊肉
 \df Viande de cochon préservée. Le terme recouvre diverses pièces de boucherie, dont le jambon.
 \gf viande_de_porc_séchée
-\dt 05/Oct/2015
 
 \lx se˧zo#˥
 \or seisso
@@ -66667,21 +66666,22 @@
 \df Plafond.
 \gf plafond
 
-\lx ti˧pʰv̩#˥
-\or dipu
-\ps n
-\lc ti˧pʰv̩˧
-\sd <langue="fra"> objet
-\sd <langue="eng"> object
-\ton #H
+\lx fv̩˩
+\or fu
+\bw <langue="cmn"> 副?
+\ps clf
+\lc ɖɯ˧ fv̩˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\ton L
+\nt <dom="sem" print="n" langue="eng"> xxxx The classifier looks a lot like a Chinese loanword. Under this hypothesis, identification of a fu syllable takes place within a set that comprises 幅 (super-unlikely: cups are not in the least flat), 服 (unlikely, even supposing that the cup has a connotation of portioning of a liquid offering or a dose-like quantity), and 副. The last is a good match, being commonly used as a classifier for paired or matching items, such as tools. While primarily referring to paired items, it could work for pairs of ritual objects. In the context of offerings, cups are part of a set.
 \so F4
-\pdv fv̩˩
-\de Copper cup for offerings in religious rituals.
-\ge copper_cup
-\dn 铜杯盏，做仪式用的
-\gn 铜杯盏
-\df Coupe de cuivre pour les offrandes; elle est évasée, et de la taille d'un petit gobelet à alcool.
-\gf coupe_de_cuivre
+\de Classifier for pairs or sets of objects (such as cups for offerings in religious rituals).
+\ge 副::|fg{clf}.pairs/sets
+\dn |fg{量词}：副。常用于表示成套或成对的物品，例如工具、眼镜、对联等。有时也可以指某些非成对但功能相辅相成的物件，或带有特定象征意义的成套器具（如：做仪式用的铜杯盏）。
+\gn 量词.副（借词）
+\df Classificateur pour les paires ou ensembles d'objets (par exemple les coupes de cuivre pour les offrandes).
+\gf 副::|fg{clf}.paires/ensembles
 
 \lx ti˩tje˧
 \or didia
@@ -69821,7 +69821,6 @@
 \gn 铃铛
 \df Clochette (portée par le bétail: chevaux, parfois chiens).
 \gf clochette
-\dt 08/Oct/2015
 
 \lx ʈʂe˧dɑ˥
 \sf <nb="B"> 456
@@ -69836,15 +69835,14 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʈʂe˧dɑ˧
 \va <speaker="M21"> tɕi˧dɑ˥
-\vc <langue="fra" print="n"> ton d7
-\pdv do˥
+\vc <langue="fra" print="n"> ton d7 (H#)
+\pdv do˥α
 \de Partition.
 \ge partition
 \dn 隔板
 \gn 隔板
 \df Cloison.
 \gf cloison
-\dt 08/Oct/2015
 
 \lx tse˧di˧
 \or zeiddi
@@ -71562,7 +71560,7 @@
 \xc PHONO
 \dt 27/Apr/2017
 
-\lx tsʰi#˥
+\lx tsʰi˥
 \sf <nb="B"> 805
 \sf <nb="B"> 806
 \sf <nb="2011"> 1195
@@ -72065,7 +72063,7 @@
 \va <speaker="M21"> ʈʂu˩bɤ˩
 \vc <langue="fra" print="n"> ton d3; n'est pas /bu/
 \va <speaker="M23"> ʈʂe˩bu˩˧
-\pdv do˥
+\pdv do˥α
 \de Earthen wall.
 \ge earthen_wall
 \dn 土墙
@@ -76389,13 +76387,13 @@
 \ton M
 \lc tv̩˧qʰv̩˧
 \so F4
+\pdv ɭɯ˧β
 \de Temporary tomb, where the body is placed prior to cremation.
 \ge temporary_tomb
 \dn 临时坟墓
 \gn 临时坟墓
 \df Tombe provisoire, où on place le corps du défunt avant la crémation.
 \gf tombe_provisoire
-\pdv ɭɯ˧
 
 \lx ʈv̩˩qʰv̩˩
 \sf <nb="2011"> 927
@@ -77514,7 +77512,6 @@
 \ton LM+#H-
 \so F4
 \va <speaker="F5"> ID.
-\pdv qɑ˩
 \pdv qɑ˩γ
 \pdc <langue="fra"> |fg{clf} des bottes, des brassées
 \pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
@@ -78634,7 +78631,7 @@
 \gf |fg{interrog.quel}
 \dt 07/Oct/2015
 
-\lx ʐe˥
+\lx ʐe˥α
 \or rei
 \ps clf
 \sd <langue="fra"> classificateur
@@ -78648,7 +78645,6 @@
 \gn 量词.熏肉块
 \df Classificateur des morceaux de viande conservée.
 \gf |fg{clf}.viande_conservée
-\dt 27/Apr/2017
 
 \lx ʐe˥
 \sf <nb="B"> 622
@@ -79368,6 +79364,22 @@
 \gn 房顶
 \df Toit.
 \gf toit
+
+\lx tsʰi˩
+\or ciq
+\ps n
+\lc ɖɯ˧ tsʰi˩
+\sd <langue="fra"> classificateur
+\sd <langue="eng"> classifier
+\nt <type="hist" print="n" langue="fra"> xxxx noté comme classificateur dans l'entrée 'toit'; à vérifier, et établir la sous-catégorie tonale
+\ton L
+\so F4
+\de Classifier for roofs.
+\ge |fg{clf}.roofs
+\dn |fg{量词}：房顶
+\gn 量词.房顶
+\df Classificateur des toits.
+\gf |fg{clf}.toits
 
 \lx ʑi˧mi˧
 \sf <nb="2011"> 3286
@@ -80335,7 +80347,7 @@
 \va <speaker="F5"> ʐɤ˩ʐɤ˧
 \va <speaker="M18"> ʐɤ˩˥
 \vc <langue="fra" print="n"> M18 utilise le mot pour 'chemin', faute d'un terme spécifique.
-\pdv ʐɤ˩
+\pdv ʐɤ˩γ
 \de Lines, pattern.
 \ge lines/pattern
 \dn 花纹、图案
