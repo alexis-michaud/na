@@ -13713,7 +13713,7 @@
 \so F4
 \va <speaker="M21"> dʑi˩tsʰɤ˩
 \vc <print="n" langue="fra"> Il pourrait s'agir d'une confusion: incompréhension du mot na fourni lors de l'élicitation.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de A shrub that grows in Yongning.
 \ge shrub_sp
 \dn 永宁的一种灌木
@@ -18817,7 +18817,7 @@
 \sd <langue="eng"> object
 \ton L
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Thin plank.
 \ge thin_plank
 \dn 相当薄的木板
@@ -20064,7 +20064,7 @@
 \ton L#-
 \lc hæ̃˧ʂɯ˩pæ˧pʰæ˧
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Rack for drying grain.
 \ge rack_for_drying_grain
 \dn 粮架
@@ -22661,7 +22661,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <type="hist" print="n" langue="fra"> hwæ˧pʰæ˥ hṽ̩˩hĩ˩˥, “grande pièce de tissu"
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de A piece of cloth.
 \ge piece_of_cloth
 \dn 一块布
@@ -29945,7 +29945,7 @@
 \ton H#
 \lc kwæ˧fæ˥
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Ceiling jost: horizontal structural member, resting on a main beam, and supporting two of the purlins (roof beams, /|fv{ʐv̩˩ɭɯ˧}/), which themselves carry the rafters, /|fv{hæ̃˧kʰɤ˧˥}/.
 \ge medium_sized_beam
 \dn 中等大小的梁
@@ -32711,7 +32711,7 @@
 \sd <langue="eng"> house
 \ton LH
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Beam.
 \ge beam
 \dn 梁
@@ -32764,7 +32764,7 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" type="hist" print="n" dom="ton"> ton d5b; d'abord noté /lje˩mi˥/
 \va <speaker="M23"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Major (supporting) beam.
 \ge major_beam
 \dn 大梁
@@ -32781,7 +32781,7 @@
 \nt <dom="sem" langue="fra"> voir photo 9677, année 2012
 \ton LH-
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Decoration of major (supporting) beam: symbolically, this is the beam's ‘ear'.
 \ge decoration_of_major_beam
 \dn 大梁的装饰：大梁的‘耳朵’
@@ -34132,7 +34132,7 @@
 \lc lo˧tɑ˧lo˧tɕi˧
 \so F4
 \pdv pɤ˥
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Streamer of scriptures.
 \ge streamer_of_scriptures
 \dn 经幡、风马旗（挂在山上）
@@ -40189,7 +40189,7 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Streamer of scriptures, attached to pillars within the house.
 \ge streamer_of_scriptures
 \dn 经幡、风马旗（挂在家里的柱子上）
@@ -44092,7 +44092,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ŋwæ˧pʰæ˧
 \va <speaker="M21"> ŋwæ˧pʰæ˧˥
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Tile (roof tile).
 \ge 瓦::tile
 \dn 瓦
@@ -44156,7 +44156,7 @@
 \lc ŋwɤ˧ʈʂwæ˧
 \so F4
 \pdv ɭɯ˧β
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Tile and brick: characterization of the main materials used for Chinese-style house construction.
 \ge 瓦砖::tile_and_brick
 \dn 瓦与砖
@@ -44714,7 +44714,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Thick wood plank. A well-prepared plank, used in construction, could last a hundred years.
 \ge thick_plank
 \dn 厚的木板、木板子
@@ -45880,7 +45880,7 @@
 \va <speaker="M18"> *
 \sn 1
 \pdv pɤ˥
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Drawing, painting.
 \ge drawing/painting
 \dn 画
@@ -45892,7 +45892,7 @@
 \xn 作画，画一幅画
 \xf faire une peinture, réaliser une peinture
 \sn 2
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Photo, photography.
 \ge photo
 \dn 相片，照片
@@ -53322,7 +53322,7 @@
 \lc ʁɑ˧pv̩˧ɻ̩̃˧
 \so F4
 \va <speaker="F5"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Clavicle; collarbone.
 \ge clavicle
 \dn 锁骨
@@ -54278,7 +54278,7 @@
 \lc ʁo˧dzi˩tʰæ˩ɻæ˩
 \so F4
 \va <speaker="F5"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Flag, banner, pennant hung over temples and houses (literally: Tibetan writings).
 \ge pennant
 \dn 风马旗（也称作祭马、禄马、经幡）
@@ -54937,7 +54937,7 @@
 \df Décorations (en matières semi-précieuses: agate, ambre, perles…) que l'on fixait à la coiffe.
 \gf décorations_de_la_coiffe
 \sn 2
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Dandruff.
 \ge dandruff
 \dn 头皮
@@ -58006,7 +58006,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \pdv kʰɤ˥
 \de Cotton fabric, cloth.
 \ge cotton_fabric
@@ -58385,7 +58385,7 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> sɯ˧dzɯ˩; on ne peut dire sɯ˧nɑ; sɯ˧ɕi˧˥, ton d2: là où il y a de gros arbres
 \va <speaker="M23"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Forest.
 \ge forest
 \dn 森林
@@ -58714,7 +58714,7 @@
 \ton H#
 \lc si˧nɑ˥
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Deep forest.
 \ge deep_forest
 \dn 森林深处（难走路）
@@ -61612,7 +61612,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʂv̩˧ʂv̩˧
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \pdc <langue="fra"> |fg{clf} des objets plats
 \de Paper.
 \ge paper
@@ -67332,7 +67332,7 @@
 \ton MH#
 \so F4
 \va <speaker="F5"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Forest of conifers.
 \ge forest_of_conifers
 \dn 松树林
@@ -70037,7 +70037,7 @@
 \ton H#
 \lc tsʰe˧jɤ˧mi˥
 \so F4
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Marsh, bog, swamp.
 \ge marsh
 \dn 沼泽
@@ -70296,7 +70296,7 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> ton d5a: monnaie; ex.: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Coins of the imperial times.
 \ge coins_of_imperial_times
 \dn 民国之前的货币
@@ -70842,7 +70842,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\pdv pʰæ˧˥
+\pdv pʰæ˧˥α
 \de Crack.
 \ge crack/fissure
 \dn 裂缝、缝隙
