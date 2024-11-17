@@ -78178,8 +78178,8 @@
 \ge |fg{ideo}_clump!
 \dn 形声词（拟声词），表示一个或多个沉重的物体重重掉在地上的声音：咚！
 \gn 咚！
-\df Onomatopée évoquant le bruit d’un ou de plusieurs objets pesants tombant lourdement au sol: Boum!
-\gf |fg{ideo}.boum!
+\df Onomatopée évoquant le bruit d’un ou de plusieurs objets pesants tombant lourdement au sol: Brrouuum!
+\gf |fg{ideo}.brrouuum!
 \txtsup Reward.88
 \doisup 10.24397/pangloss-0004447#S88
 
