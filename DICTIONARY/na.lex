@@ -73990,7 +73990,7 @@
 \lc tsʰɯ˧hṽ̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> Modifié la glose de ‘laine' en ‘cachemire' sur l'indication de Roselle Dobbs: “Maybe change gloss to ‘cashmere, goat wool'.  (Cos I think that wool from a sheep would be yohun, right?)"
+\nt <type="hist" print="n" langue="fra"> Modifié la glose de ‘laine' en ‘cachemire' sur l'indication de Roselle Dobbs: “Maybe change gloss to ‘cashmere, goat wool'. (Cos I think that wool from a sheep would be yohun, right?)"
 \nt <type="hist" print="n" langue="fra"> (la fin de la première syllabe est phonétiquement modifiée par la nasalité de la deuxième syllabe: nasalisation?), ton d2 (tsʰɯ˧hṽ̩˧ɲi˥)
 \ton H$
 \so F4
@@ -79176,9 +79176,9 @@
 \xf |fg{accomp}
 \xc PHONO
 \xv le˧-ʑi˧-ze˥
-\xe |fg{accomp}  |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn |fg{实施} 〜 |fg{整体体}
-\xf |fg{accomp}  |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 \xv æ̃˩ ʑi˧-ze˥
 \xe the chicken has gone to sleep
