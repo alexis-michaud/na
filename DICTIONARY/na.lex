@@ -3413,6 +3413,24 @@
 \txt BuriedAlive3.62
 \doi 10.24397/pangloss-0004539#S62
 
+\lx ʐɯ.ʁæ~ʐɯ.ʁæ
+\or rihrae-rihrae
+\ps ideophone
+\lc ʐɯ˩ʁæ˩~ʐɯ˧ʁæ˧
+\cf ʐɯ˧ʁæ˩
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Ideophone that suggests dizziness: ‘tipsy-turvy’, ‘swirly-whirly’, ‘dizzy-wizzy’. It is apparently based on a reduplicated form of the adjective ‘drunk’, to which an intonation pattern typical of ideophones is applied.
+\ge |fg{ideo}.tipsy_turvy
+\dn 表示头晕的拟声词：摇摇晃晃、晕晕乎乎。这个拟声词显然源于形容词‘醉’的重叠形式，并加入了拟声词特有的语调。
+\gn 摇摇晃晃/晕晕乎乎
+\df Idéophone qui évoque le vertige: le sentiment de tituber, d'avoir les oreilles qui bourdonnent. Cet idéophone semble être créé à partir d'une forme rédupliquée de l'adjectif ‘ivre’, à laquelle est appliqué un schéma intonatif typique des idéophones.
+\gf |fg{ideo}.vertige
+\txtsup Reward.68
+\doisup 10.24397/pangloss-0004447#S68
+
 \lx tɑ.qɑ~tɑ.qɑ~tɑ.qɑ
 \or dagha-dagha-dagha
 \ps ideophone
@@ -25700,11 +25718,11 @@
 \ton #H
 \lc kɤ˧fv̩˧
 \so M18
-\de Gefu: the name of a family community (sissi, |fv{sɯ˧zɯ#˥}).
+\de Gefu: the name of a family community (|fo{sissi}, |fv{sɯ˧zɯ#˥}).
 \ge Gefu.family
-\dn 高夫家庭社区（支系）。汉语音译：‘斯日’。
+\dn 高夫家庭社区（支系，汉语音译：‘斯日’）。
 \gn 高夫‘斯日’
-\df Gefu: nom d'une communauté familiale (sissi, |fv{sɯ˧zɯ#˥}).
+\df Gefu: nom d'une communauté familiale (|fo{sissi}, |fv{sɯ˧zɯ#˥}).
 \gf Gefu.famille
 
 \lx jɤ˩po˧
@@ -53670,10 +53688,11 @@
 \hm 2
 \or hraeq
 \ps adj
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
 \ton Lα
 \lc ʁæ˩˥
+\sy ʐɯ˧ʁæ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -53683,10 +53702,29 @@
 \gn 醉
 \df Ivre, saoul.
 \gf ivre
-\xv ʐɯ˧ ʁæ˩(-ze˩)
-\xe drunk
-\xn 醉酒
-\xf ivre d'alcool
+
+\lx ʐɯ˧ʁæ˩
+\or rihrae
+\mr ʐɯ˧
+\mr ʁæ˩α2
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L#
+\lc ʐɯ˧ʁæ˩
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de Drunk.
+\ge drunk
+\dn 醉
+\gn 醉
+\df Ivre, saoul.
+\gf ivre
+\xv ʐɯ˧ʁæ˩-ze˩
+\xe 〜 |fg{pfv}: drunk
+\xn 〜 |fg{整体体}：醉酒了
+\xf 〜|fg{pfv}: ivre, en état d'ébriété
 
 \lx ʁæ˩α
 \hm 3
@@ -78127,6 +78165,23 @@
 \gf |fg{ideo}.ding_dong_gling
 \txtsup Tiger2.65
 \doisup 10.24397/pangloss-0004546#S65
+
+\lx po.lo
+\or bolo
+\ps ideophone
+\lc po.lo!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Onomatopoeia for the sound of a large object (or several such objects) falling heavily on the ground: clank!, clump!
+\ge |fg{ideo}_clump!
+\dn 形声词（拟声词），表示一个或多个沉重的物体重重掉在地上的声音：咚！
+\gn 咚！
+\df Onomatopée évoquant le bruit d’un ou de plusieurs objets pesants tombant lourdement au sol: Boum!
+\gf |fg{ideo}.boum!
+\txtsup Reward.88
+\doisup 10.24397/pangloss-0004447#S88
 
 \lx zɯ.bv̩…zɯ.bv̩
 \or ssibbu-ssibbu
