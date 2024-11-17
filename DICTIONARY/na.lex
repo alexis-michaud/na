@@ -588,7 +588,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: ‡mv̩˥ bɑ˥ ɖʐæ˩˥, corrigé en mv̩˧bɤ˧ʈʂæ˧˥, qui ne veut rien dire) nasalité: vérifié en août 2014
-\nt <type="hist" print="n" langue="fra"> (+ɲi˩) (sens vérifié en 2009) (note ancienne: ɻ̩̃˧ʈv̩˥; ne veut rien dire)
+\nt <type="hist" print="n" langue="fra"> (+ɲi˩) (sens vérifié en 2009) (note ancienne: ɻ̩̃˧ʈv̩˥; ne veut rien dire)
 \nt <dom="morpho" langue="fra"> À ce jour, il n'a pas été possible d'isoler des composants disyllabiques |fv{†æ˩mi˧} et |fv{†mv̩˧ʈv̩˥}.
 \nt <dom="morpho" langue="eng"> To date, it has not been possible to extract disyllabic components |fv{†æ˩mi˧} and |fv{†mv̩˧ʈv̩˥}.
 \nt <dom="morpho" langue="cmn"> 迄今为止，还无法分离出双音词成分|fv{†æ˩mi˧}和|fv{†mv̩˧ʈv̩˥}。
@@ -1917,7 +1917,7 @@
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; notation 2006: bæ˩bv̩˧)
 \ton H#
-\sy bæ˧bv̩˥zo˩
+\sy bæ˧bv̩˥-zo˩
 \lc bæ˧bv̩˥
 \so F4
 \va <speaker="F5"> ID.
@@ -6778,11 +6778,11 @@
 \xe to complain, to tell one's misfortunes
 \xn 诉苦
 \xf se plaindre de son infortune, gémir sur son sort
-\xv ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥
+\xv ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥
 \xe to bemoan one's misfortunes
 \xn 讲自己苦难的事情
 \xf raconter ses malheurs; se plaindre
-\xv ʈʂʰɯ˧ | mɤ˧-dɑ˩-qʰwɤ˩, | ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥!
+\xv ʈʂʰɯ˧ | mɤ˧-dɑ˩-qʰwɤ˩, | ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥!
 \xe (S)he is unhappy; (s)he is constantly complaining!
 \xn 他“玛达夸”，一直在诉说苦难的事情！
 \xf Il est malheureux; il passe son temps à se plaindre!
@@ -9384,12 +9384,12 @@
 \lc dzɑ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡tsɑ˥, par erreur) (vérifié: dzɑ˧ `pauvre' est différent de tsɑ˧ `occupé, mang2') (Roselle Dobbs: aurait un mot homophone de `os': ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
+\nt <type="hist" print="n" langue="fra"> (d'abord noté ‡tsɑ˥, par erreur) (vérifié: dzɑ˧ `pauvre' est différent de tsɑ˧ `occupé, mang2') (Roselle Dobbs: aurait un mot homophone de `os': ɻ̩̃) (2006: noté dzɑ˥ ʐwæ˩˥ ze˧) (2006: noté mv̩˥tsɑ˥ze˧, par erreur) (vérifié: est bien /dz/ et pas /ts/)
 \ton H
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\va <speaker="M23"> ɻ̩̃
+\va <speaker="M23"> ɻ̩̃
 \sn 1
 \de Bad, mean (action), inferior.
 \ge bad
@@ -10009,20 +10009,20 @@
 \gf blé
 \dt 24/Apr/2017
 
-\lx dze˧ɭɯ˧-ɻ̩̃#˥
+\lx dze˧ɭɯ˧-ɻ̩̃#˥
 \sf <nb="B"> 1996
 \sf <nb="2011"> 3045
 \or zzeilee'eun
 \mr dze˧ɭɯ˧
-\mr ɻ̩̃˥1
+\mr ɻ̩̃˥1
 \ps n
-\lc dze˧ɭɯ˧ɻ̩̃˧
+\lc dze˧ɭɯ˧ɻ̩̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥)
-\nt <dom="phono" langue="fra"> Phonétiquement: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. La troisième syllabe commence par une attaque glottique.
-\nt <dom="phono" langue="eng"> Phonetically: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. The third syllable begins with a glottal stop.
-\nt <dom="phono" langue="cmn"> 实际发音：[|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]。第三个音节以喉音开头。
+\nt <dom="phono" langue="fra"> Phonétiquement: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. La troisième syllabe commence par une attaque glottique.
+\nt <dom="phono" langue="eng"> Phonetically: [|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]. The third syllable begins with a glottal stop.
+\nt <dom="phono" langue="cmn"> 实际发音：[|fv{dze˧ɭɯ˧Ɂɻ̩̃˧}]。第三个音节以喉音开头。
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -10181,14 +10181,13 @@
 \sd <langue="eng"> agriculture
 \ton M? H?
 \cf dze˧-tɕʰi#˥
-\cf dze˧-ɻ̩̃#˥
+\cf dze˧-ɻ̩̃#˥
 \cf dze˧ɭɯ˧
-\cf dze˧ɭɯ˧-ɻ̩̃#˥
+\cf dze˧ɭɯ˧-ɻ̩̃#˥
 \lc --
-\so F4
-\nt <langue="fra" dom="ton"> D'après les règles synchroniques, les composés disyllabiques |fv{dze˧-ɻ̩̃#˥} (‘paille de blé’, littéralement ‘os de blé’) et |fv{dze˧-tɕʰi#˥} (‘barbe de blé’, littéralement ‘épines de blé’), au ton #H, dont le déterminé (‘os’, ‘épine’) porte un ton H, doivent avoir un déterminant qui porte, soit un ton M, soit un ton H. On en déduit que la racine monosyllabique pour ‘blé’ porte, soit un ton M, soit un ton H. D'autres scénarios diachroniques sont néanmoins possibles, tels que la réduction à une forme disyllabique d'un ancien composé qui aurait comporté plus de deux syllabes: par exemple si des composés formés sur la base du disyllabe |fv{dze˧ɭɯ˧} ‘blé’ s'étaient ensuite trouvés ramenés à deux syllabes, par ellipse de la syllabe |fv{ɭɯ˧}.
-\nt <langue="eng" dom="ton"> According to the current synchronic rules, the disyllabic compounds |fv{dze˧-ɻ̩̃#˥} (‘wheat straw', literally ‘wheat bone') and |fv{dze˧-tɕʰi#˥} (‘wheat beard', literally ‘wheat thorns'), with a #H tone, whose head (‘bone', ‘thorn') carries an H tone, must have a determiner that carries either an M tone or an H tone. We deduce that the monosyllabic root for ‘wheat' carries either an M or an H tone. However, other diachronic scenarios are possible, such as the reduction to disyllabic forms |fv{dze˧-ɻ̩̃#˥} ‘wheat straw' and |fv{dze˧-tɕʰi#˥} ‘wheat beard' of earlier compounds that would have contained more than two syllables: for example, if compounds formed on the basis of the disyllable |fv{dze˧ɭɯ˧} ‘wheat' had then been reduced to two syllables, by ellipsis of the syllable |fv{ɭɯ˧}.
-\nt <langue="cmn" dom="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
+\nt <langue="fra" dom="ton"> D'après les règles synchroniques, les composés disyllabiques |fv{dze˧-ɻ̩̃#˥} (‘paille de blé’, littéralement ‘os de blé’) et |fv{dze˧-tɕʰi#˥} (‘barbe de blé’, littéralement ‘épines de blé’), au ton #H, dont le déterminé (‘os’, ‘épine’) porte un ton H, doivent avoir un déterminant qui porte, soit un ton M, soit un ton H. On en déduit que la racine monosyllabique pour ‘blé’ porte, soit un ton M, soit un ton H. D'autres scénarios diachroniques sont néanmoins possibles, tels que la réduction à une forme disyllabique d'un ancien composé qui aurait comporté plus de deux syllabes: par exemple si des composés formés sur la base du disyllabe |fv{dze˧ɭɯ˧} ‘blé’ s'étaient ensuite trouvés ramenés à deux syllabes, par ellipse de la syllabe |fv{ɭɯ˧}.
+\nt <langue="eng" dom="ton"> According to the current synchronic rules, the disyllabic compounds |fv{dze˧-ɻ̩̃#˥} (‘wheat straw', literally ‘wheat bone') and |fv{dze˧-tɕʰi#˥} (‘wheat beard', literally ‘wheat thorns'), with a #H tone, whose head (‘bone', ‘thorn') carries an H tone, must have a determiner that carries either an M tone or an H tone. We deduce that the monosyllabic root for ‘wheat' carries either an M or an H tone. However, other diachronic scenarios are possible, such as the reduction to disyllabic forms |fv{dze˧-ɻ̩̃#˥} ‘wheat straw' and |fv{dze˧-tɕʰi#˥} ‘wheat beard' of earlier compounds that would have contained more than two syllables: for example, if compounds formed on the basis of the disyllable |fv{dze˧ɭɯ˧} ‘wheat' had then been reduced to two syllables, by ellipsis of the syllable |fv{ɭɯ˧}.
+\nt <langue="cmn" dom="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
 \de Wheat (monosyllabic root inferred from disyllabic forms).
 \ge wheat(monosyll.)
 \dn 小麦（从双音节形式推断出的单音节词根）。
@@ -10196,13 +10195,13 @@
 \df Blé (racine déduite des formes disyllabiques attestées).
 \gf blé(monosyll.)
 
-\lx dze˧-ɻ̩̃#˥
+\lx dze˧-ɻ̩̃#˥
 \sf <nb="2011"> 3046
 \or zzei'eun
 \mr †dze˧
-\mr ɻ̩̃˥1
+\mr ɻ̩̃˥1
 \ps n
-\lc dze˧ɻ̩̃˧
+\lc dze˧ɻ̩̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton #H
@@ -12717,7 +12716,7 @@
 \lc dʑɯ˩hṽ̩˧˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
-\nt <type="hist" print="n" langue="fra"> (voyelle confirmée en 2008; le 8/11/2007, avais corrigé en: dʑi˩hɻ̩̃˩˥, mais n'est pas adéquat) (vérifié: n'est pas dʑɯ)
+\nt <type="hist" print="n" langue="fra"> (voyelle confirmée en 2008; le 8/11/2007, avais corrigé en: dʑi˩hɻ̩̃˩˥, mais n'est pas adéquat) (vérifié: n'est pas dʑɯ)
 \ton LM+MH#
 \so F4
 \va <speaker="F5"> ID.
@@ -15002,7 +15001,7 @@
 
 \lx ə˧dze˧-njɤ˩hṽ̩˩
 \mr ə˧dze˧
-\mr njɤ˧hṽ̩˩
+\mr njɤ˧hṽ̩˩
 \or ezzei nyahun
 \ps n
 \sd <langue="fra"> plante
@@ -16102,7 +16101,7 @@
 \lx ə˧tse˧-ʝi˧
 \or aezeiyi
 \ps adv
-\sy ə˧tse˧-ʝi˥
+\sy ə˧tse˧-ʝi˥$
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton M
@@ -18985,7 +18984,7 @@
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
 \or gguggu
-\mr †gv̩˩α2
+\mr †gv̩˩α
 \ps v
 \lc gv̩˧gv̩˥
 \sd <langue="fra"> verbe
@@ -19017,7 +19016,7 @@
 \sf <nb="2011"> 1610
 \or gguq
 \ps v
-\lc gv̩˩˥
+\lc --
 \cf gv̩˧~gv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -19026,7 +19025,6 @@
 \nt <dom="morpho" langue="eng"> This monosyllable is arrived at through internal reconstruction, based on the reduplicated expression.
 \nt <dom="morpho" langue="cmn"> 这个单音节动词是在重叠词的基础上通过内部重构得出的。
 \ton Lα
-\so F4
 \de To tidy up, to sort out (monosyllabic root extracted from the reduplicated form).
 \ge to_tidy_up
 \dn 收拾（从重叠动词提取的单音节词根）
@@ -20406,7 +20404,7 @@
 \xe one person, an individual
 \xn 一个人
 \xf une personne
-\xv hĩ˧-ɻ̩̃˧ | ɖɯ˧-lo˩
+\xv hĩ˧-ɻ̩̃˧ | ɖɯ˧-lo˩
 \xe a lineage, a family
 \xn 一个家族
 \xf une lignée, une famille
@@ -20844,7 +20842,7 @@
 \gn 舌头
 \df Langue.
 \gf langue
-\xv ɕi˩mi˩˥, | ɻ̩̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
+\xv ɕi˩mi˩˥, | ɻ̩̃˧ mɤ˧-ʑi˧! | ə˧tso˧ ʐwɤ˩-bi˩, | õ˧-lɑ˥ ɖʐv̩˩!
 \xe The tongue has no bone! Only oneself knows what one is going to say! (Proverb meaning that one is responsible for one's speech: only oneself knows whether one is telling the truth or not.)
 \xn “舌头没有骨头。讲的是什么（=是否真的），只有自己才知道！”
 \xf «La langue n'a pas d'os! Ce qu'on dit, soi seul sait (si c'est la vérité)!»
@@ -22338,12 +22336,11 @@
 \sf <nb="2011"> 2223
 \or hunq
 \ps v
-\lc hṽ̩˧
+\lc --
 \cf hṽ̩˧~hṽ̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton H
-\so F4
 \de To stir-fry. (Monosyllable extracted from the reduplicated form.)
 \ge to_stir_fry
 \dn 炒（肉、菜）。（这个单音节动词是从双音节的重叠形式提取出来的。）
@@ -29594,7 +29591,7 @@
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <type="hist" print="n" langue="fra"> vérifié: est bien ɻ̩̃˧ɻ̩˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
+\nt <type="hist" print="n" langue="fra"> vérifié: est bien ɻ̩̃˧ɻ̩˧, première syllabe nasale et seconde non nasale (n'est pas tɕʰɯ); avant mars 2012: noté comme ton #H
 \nt <type="hist" dom="ton" langue="fra" print="n"> L'établissement du ton lexical a été laborieux, les contextes d'apparition étant restreints.
 \ton H$
 \lc kʰv̩˧tɕʰi˥
@@ -29605,11 +29602,11 @@
 \gn 办法
 \df Solution, méthode.
 \gf solution
-\xv kʰv̩˧tɕʰi˥ se˩-ze˩! | ɻ̩̃˧-ɻ̩˧ tʰo˩!
+\xv kʰv̩˧tɕʰi˥ se˩-ze˩! | ɻ̩̃˧-ɻ̩˧ tʰo˩!
 \xe There is nothing we can do anymore! It's a catastrophe!
 \xn 没有办法了！糟糕了！
 \xf Il n'y a plus rien à faire! C'est la catastrophe!
-\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̩̃˧-ɻ̩˧ tʰo˩!
+\xv kʰv̩˧tɕʰi˥ | mɤ˧-dʑo˧-ze˧! | ɻ̩̃˧-ɻ̩˧ tʰo˩!
 \xe There is nothing we can do anymore! It's a catastrophe!
 \xn 没有办法了！糟糕了！
 \xf Il n'y a plus rien à faire! C'est la catastrophe!
@@ -33076,7 +33073,7 @@
 \gn 量词.谷
 \df Auto-classificateur des vallées. Également employé pour les chemins.
 \gf |fg{clf}.vallées
-\xv hĩ˧-ɻ̩̃˧ | ɖɯ˧-lo˩
+\xv hĩ˧-ɻ̩̃˧ | ɖɯ˧-lo˩
 \xe literally ‘a valley of people', to mean: all the population of that valley
 \xn 住在一座山谷里的所有人（直译：‘一山谷的人’）
 \xf tous les membres d'une grande famille: ‘[toute la population d']une vallée'
@@ -35859,12 +35856,12 @@
 \df Huile végétale.
 \gf huile_végétale
 
-\lx mæ˧ɻ̩̃#˥
+\lx mæ˧ɻ̩̃#˥
 \sf <nb="B"> 2257
 \sf <nb="2011"> 229
 \or mae'eun
 \ps n
-\lc mæ˧ɻ̩̃˧
+\lc mæ˧ɻ̩̃˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <dom="sem" langue="fra"> Littéralement «os de la queue».
@@ -36883,7 +36880,7 @@
 \lx mo˧kɤ˩-bæ˩bæ˩
 \or moge bbaebbae
 \mr mo˧kɤ˩
-\mr bæ˩bæ˩
+\mr bæ˩bæ˩1
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -38815,7 +38812,7 @@
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: mv̩˧tsʰɯ˧ko˩) (vérifié: n'est pas /tsʰɯ/)
 \nt <type="hist" print="n" langue="fra"> xxxx vérifier à nouveau le classificateur: est-ce le même que celui des peaux et fourrures et vêtements? ou un auto-classificateur pour la saison sèche?
 \ton #H
-\sy tsʰi#˥
+\sy tsʰi˥
 \lc mv̩˧tsʰi˧
 \so F4
 \va <speaker="M18"> mv̩˧tsʰɯ˧
@@ -46513,7 +46510,6 @@
 \nt <dom="ton" langue="fra"> Le ton de la racine est obtenu en faisant l'hypothèse selon laquelle les diverses formes disyllabiques sont le produit de règles tonales régulières. Le nom composé ‘viande de grenouille’, /|fv{pɤ˧ ʂe˧}/ (avec pour tête /|fv{ʂe˥}/, au ton H), amène à écarter l'hypothèse d'un ton LM, LH, L ou MH. Restent M et H. ‘Queue de grenouille’ n'apporte pas d'argument clair, le ton du monosyllabe ‘queue’ n'étant pas encore établi. ‘Peau de grenouille’ (M.M en surface, analysé comme //M// ou //#H// sous-jacent) est inattendu, un composé avec tête au ton LH ne pouvant avoir un schéma M.M (voir tableau 3.2a du livre de 2017). Le nom disyllabique ‘grenouille’, /|fv{pɤ˩mi˩}/, présente le même ton (L) que /|fv{ʐwæ˩mi˩}/ ‘jument’, ce qui est compatible avec l'hypothèse d'une racine au ton H (comme ‘cheval’). L'hypothèse provisoirement retenue est donc celle d'un ton H.
 \nt <dom="ton" langue="eng"> The root's tone is arrived at by making the assumption that the various disyllabic forms are the product of regular tone rules. The compound noun ‘frog meat’, /|fv{pɤ˧ ʂe˧}/ (with the head, /|fv{ʂe˥}/, in the H tone), leads us to rule out the hypothesis of an LM, LH, L or MH tone. This leaves M and H. ‘Frog tail’ does not provide any clear evidence, as the tone of the monosyllable ‘tail’ has not yet been established. ‘Frog skin’ (M.M on the surface, analyzed as underlying //M// or //#H//) is unexpected, as a compound with LH-tone head cannot have an M.M pattern (see Table 3.2a in the 2017 book). The disyllabic noun ‘frog’, /|fv{pɤ˩mi˩}/, has the same tone (L) as /|fv{ʐwæ˩mi˩}/ ‘mare’, which is compatible with the hypothesis of an H-tone root (like ‘horse’). The provisional hypothesis is therefore that of an H tone.
 \nt <dom="ton" langue="cmn"> 假定含‘蛙’的各种双音节词都是按照规范的声调规则而生成的，就可以得到关于词根声调的假设。在复合名词‘青蛙肉’（/|fv{pɤ˧ ʂe˧}/，其中/|fv{ʂe˥}/‘肉’是H本调）的基础上，可以排除LM、LH、L或MH调的假设。‘蛙尾巴’这个复合词不提供明确的论据，因为单音节‘尾巴’的声调尚未确定。‘青蛙皮’（表层为M.M，底层能是//M//或//#H//）出乎意料，因为带有LH调的复合词按常规不可能有M.M调（见《永宁摩梭话的声调》，表3.2a）。双音节名词‘青蛙’（/|fv{pɤ˩mi˩}/）与‘母马’（/|fv{ʐwæ˩mi˩}/）的声调相同，这与H调词根的假设相符。因此，临时假设是H调。
-\so F4
 \de Frog (monosyllabic root extracted from the disyllable).
 \ge frog(monosyll.)
 \dn 青蛙（从双音节词提取的单音节词根）
@@ -46570,7 +46566,7 @@
 \ps n
 \sy pɤ˩mi˩-ʝi˥pʰv̩˩-mi˩
 \lc pɤ˩mi˩ʝi˥pʰv̩˩
-\cf hæ̃˧ʂɯ˩pɤ˩mi˩
+\cf hæ̃˧ʂɯ˩-pɤ˩mi˩
 \cf dʑɯ˩-pɤ˩mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -46592,7 +46588,7 @@
 \ps n
 \sy pɤ˩mi˩-ʝi˥pʰv̩˩
 \lc pɤ˩mi˩ʝi˥pʰv̩˩mi˩
-\cf hæ̃˧ʂɯ˩pɤ˩mi˩
+\cf hæ̃˧ʂɯ˩-pɤ˩mi˩
 \cf dʑɯ˩-pɤ˩mi˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -47131,9 +47127,8 @@
 \nt <dom="phono" langue="fra"> Monosyllabe déduit de la forme rédupliquée, seule en usage actuellement.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Le ton reste à vérifier: au vu des exemples, il pourrait s'agir de Mα ou de Lβ.
 \ton Mα
-\lc pɤ˧
+\lc --
 \cf pɤ˧~pɤ˥
-\so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \de To carry on one's back.
@@ -48914,7 +48909,7 @@
 \so F4
 \va <speaker="F5"> qʰæ˧˥
 \va <speaker="M21"> qʰæ˧˥
-\vc <langue="fra" print="n"> li˧æ˧kʰæ˧ zi˥, ton 2; li˧æ˧kʰæ˧kʰæ˧ +zi˩, li˧æ˧kʰæ˧kʰæ˧ dzɯ˧, li˧æ˧kʰæ˧kʰæ˧ li˧dzɯ˧ (tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̩̃˧ kʰæ˧˥
+\vc <langue="fra" print="n"> li˧æ˧kʰæ˧ zi˥, ton 2; li˧æ˧kʰæ˧kʰæ˧ +zi˩, li˧æ˧kʰæ˧kʰæ˧ dzɯ˧, li˧æ˧kʰæ˧kʰæ˧ li˧dzɯ˧ (tons approuvés par M21 mais peut-être tt de même erronés); ʂæ˧ɻ̩̃˧ kʰæ˧˥
 \de To gnaw, to nibble.
 \ge to_gnaw
 \dn 啃（啃骨头）
@@ -49635,7 +49630,7 @@
 \sf <nb="B"> 503
 \sf <nb="2011"> 299
 \or khaebe
-\mr qʰæ˥
+\mr qʰæ˥4
 \mr pɤ˥α
 \ps n
 \sd <langue="fra"> corps
@@ -53356,7 +53351,7 @@
 \df Poitrine.
 \gf poitrine
 
-\lx ʁɑ˧pv̩˧-ɻ̩̃#˥
+\lx ʁɑ˧pv̩˧-ɻ̩̃#˥
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
 \or hrabu'eun
@@ -53370,7 +53365,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \ton #H
-\lc ʁɑ˧pv̩˧ɻ̩̃˧
+\lc ʁɑ˧pv̩˧ɻ̩̃˧
 \so F4
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥α
@@ -55490,7 +55485,7 @@
 \bw <langue="cmn"> 完成
 \ps v
 \sy se˩α
-\sy ʈʂʰv̩˩
+\sy ʈʂʰv̩˩1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L#
@@ -55955,7 +55950,7 @@
 \xn 商量商量
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 
-\lx ɻ̩̃˥
+\lx ɻ̩̃˥
 \hm 1
 \sf <nb="B"> 214
 \sf <nb="2011"> 284
@@ -55963,9 +55958,9 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" langue="fra"> Analyse phonémique /ɻ̩̃/ réalisée en 2007. Auparavant: noté comme /ɑ͂˞/, prononciation que M18 avait jugée fautive (trop ouverte), puis /ə˞͂/ ("à la mode naxi": /ə˞/ est une des voyelles du naxi), puis comme /œ͂˞/. La présence d'une nasalité avait rapidement été établie. L'homophonie avec la première syllabe de /ɻ̩̃˧ko˩/ 'tibia' a été vérifiée.
+\nt <type="hist" print="n" langue="fra"> Analyse phonémique /ɻ̩̃/ réalisée en 2007. Auparavant: noté comme /ɑ͂˞/, prononciation que M18 avait jugée fautive (trop ouverte), puis /ə˞͂/ ("à la mode naxi": /ə˞/ est une des voyelles du naxi), puis comme /œ͂˞/. La présence d'une nasalité avait rapidement été établie. L'homophonie avec la première syllabe de /ɻ̩̃˧ko˩/ 'tibia' a été vérifiée.
 \ton #H
-\lc ɻ̩̃˧
+\lc ɻ̩̃˧
 \sn 1
 \so F4
 \va <speaker="F5"> ID.
@@ -55977,40 +55972,40 @@
 \gn 骨头
 \df Os, ossement.
 \gf os
-\xv ʈʂʰɯ˧ | ɻ̩̃˧ hæ˩-zo˩!
+\xv ʈʂʰɯ˧ | ɻ̩̃˧ hæ˩-zo˩!
 \xe Her bones are soft (=not very solid)!
 \xn 她的骨头软！（不是很结实）
 \xf Ses os sont mous/fragiles! / Elle a les os fragiles!
-\xv ɻ̩̃˧ | le˧-wo˥-kʰɯ˩
+\xv ɻ̩̃˧ | le˧-wo˥-kʰɯ˩
 \xe to harden the bones (a medicine containing calcium and D vitamin is billed for reinforcing the bones)
 \xn 让骨头坚硬（一种含钙和维生素Ｄ的药品，有助于让骨头更健康，更结实）
 \xf durcir les os (un médicament contenant du calcium et de la vitamine D est prescrit pour renforcer les os)
 \sn 2
 \so F4
-\pdv ɻ̩̃˧β
+\pdv ɻ̩̃˧β
 \de Clan, family members belonging to the same blood line (maternal lineage).
 \ge clan
 \dn ‘骨头’：家族，同母亲血统的亲戚
 \gn 家族
 \df Clan, lignage, lignée: personnes appartenant à une même lignée (maternelle).
 \gf clan
-\xv ʈʂʰɯ˧ | ɻ̩̃˧ | ʈʂɤ˧ mɤ˧-kv̩˧˥!
+\xv ʈʂʰɯ˧ | ɻ̩̃˧ | ʈʂɤ˧ mɤ˧-kv̩˧˥!
 \xe (S)he does not count as part of the clan! (About an in-law who has lived in the house a long time: despite the role played inside the house, (s)he does not count as part of the same blood line, and hence is not part of the clan.)
 \xn 他不算同母亲血统的亲戚！（女婿或儿媳妇，虽然是一家的成员，但不属于家族。）
 \xf Il/elle ne compte pas comme membre du clan! (Au sujet d'un·e conjoint·e qui habite sous le même toit depuis longtemps: en dépit du rôle joué dans la famille, cette personne ne s'inscrit pas dans la lignée, et ne fait donc pas partie du clan.)
-\xv ɖɯ˧-ɻ̩̃˥, ɖɯ˧-lo˩
+\xv ɖɯ˧-ɻ̩̃˥, ɖɯ˧-lo˩
 \xe “same clan, same valley”: the expression refers to the collective formed by people who not only belong to the same clan (through their lineage), but also live close to one another, thus maintaining a close relationship, which results in strong proximity in terms of social, cultural and linguistic practices (unlike mere genealogical proximity, which may not go hand in hand with linguistic and social proximity).
 \xn “同一个家族，同一个山谷”：指的是由不仅属于同一个家族（有血统关系），而且还生活在同一个地方的人组成的集体，他们因此保持着密切的关系，从而在社会、文化和语言习俗方面形成了很强的接近性（与单纯的家谱接近性不同，家谱接近性可能与语言和社会接近性不同步）。
 \xf «un même clan, une même vallée» (littéralement «un os, une vallée»): l'expression désigne le collectif formé par des gens qui non seulement appartiennent au même clan (par leur lignage), mais habitent au même endroit, entretenant ainsi une relation étroite, qui a pour effet une forte proximité au plan des pratiques sociales, culturelles et linguistiques (à la différence de la seule proximité généalogique, qui peut ne pas aller de pair avec la proximité linguistique et sociale).
 
-\lx ɻ̩̃˥
+\lx ɻ̩̃˥
 \hm 2
 \or eun
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton H
-\lc ɻ̩̃˧
+\lc ɻ̩̃˧
 \so F4
 \de Destitute, impoverished, poor; troubled, helpless.
 \ge destitute
@@ -56018,38 +56013,38 @@
 \gn 困难
 \df Démuni, en mauvaise passe.
 \gf démuni
-\xv le˧-ɻ̩̃˥-ze˩!
+\xv le˧-ɻ̩̃˥-ze˩!
 \xe [(S)he] is really poor/helpless!
 \xn （他）真的很穷苦！
 \xf (il) est en mauvaise passe!/il est à la rue!
-\xv le˧-ɻ̩̃˧-bi˧
+\xv le˧-ɻ̩̃˧-bi˧
 \xe |fg{accomp} 〜 |fg{fut_imm}
 \xn |fg{实施} 〜 近将来
 \xf |fg{accomp} 〜 |fg{fut_imm}
 \xc PHONO
-\xv mɤ˧-ɻ̩̃˥
+\xv mɤ˧-ɻ̩̃˥
 \xe |fg{neg}
 \xn 否定 〜
 \xf |fg{neg}
 \xc PHONO
-\xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
+\xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
 \xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
 \xn 很困难，也还没有到饿死的程度啊！／再困难，也还没饿死！（直译：“再困难，也没有露出骨头！”这个成语，来安慰认为自己太可怜的人。）
 \xf «Pour démuni/mal nourri/affamé qu'on soit, on n'en est pas encore maigre au point d'avoir les os à découvert!» Jeu de mots sur ‘démuni' et ‘ossement', qui sont homophones. Le proverbe sert à relativiser le malheur ressenti par quelqu'un.
 \xc PROVERBE
-\xv ɻ̩̃˧-ʐwɤ˧˥
+\xv ɻ̩̃˧-ʐwɤ˧˥
 \xe to complain
 \xn 诉苦、抱怨
 \xf se plaindre
-\xv ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥
+\xv ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥
 \xe to tell one's miseries, to complain about one's fate
 \xn 诉苦、讲自己的不幸
 \xf raconter ses malheurs; se plaindre
-\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥!
+\xv ʈʂʰɯ˧ | mɑ˧dɑ˩-qʰwɤ˩, | ɻ̩̃˧-ʐwɤ˧ dɑ˧-ʐwɤ˧-ɻ̩˥!
 \xe He is unhappy; he spends his time complaining / he is always complaining!
 \xn 他不幸福，一直在讲自己怎么可怜！
 \xf Il est malheureux; il passe son temps à se plaindre!
-\xv le˧-ɻ̩̃˥ | le˧-ʂɯ˧-ho˩!
+\xv le˧-ɻ̩̃˥ | le˧-ʂɯ˧-ho˩!
 \xe He's so unhappy he could die! / He's miserable as hell!
 \xn 他困难地都要死了！／他惨得要命！
 \xf Il est malheureux à en mourir!
@@ -56076,45 +56071,45 @@
 \xc <dom="ton" langue="fra"> Le schéma tonal est régulier: un classificateur au ton L, associé au numéral ‘quatre', donne un schéma M.H.
 \xc <dom="ton" langue="eng"> The tone pattern is regular: a L-tone classifier in association with the numeral ‘four' yields a M.H pattern.
 
-\lx ɻ̩̃˧β
+\lx ɻ̩̃˧β
 \or eun
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Mβ ≈ H$ ≈ #H
-\lc ɖɯ˧ ɻ̩̃˧ ≈ ɖɯ˧ ɻ̩̃˥
+\lc ɖɯ˧ ɻ̩̃˧ ≈ ɖɯ˧ ɻ̩̃˥
 \so F4
-\va <speaker="F4"> ɻ̩̃˥
-\va <speaker="F4"> ɻ̩̃˥$
+\va <speaker="F4"> ɻ̩̃˥
+\va <speaker="F4"> ɻ̩̃˥$
 \de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
 \ge |fg{clf}.clans
 \dn |fg{量词}：家族
 \gn 量词.家族
 \df Classificateur des clans / groupes de familles: littéralement ‘un os'. Échelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
 \gf |fg{clf}.clans
-\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
+\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
 \xe The Latami make up one clan / one lineage!
 \xn 姓拉他咪，都算同母亲血统的亲戚！
 \xf Les Latami forment un clan / un lignage!
-\xv ɖɯ˧-ʑi˩-ɳɯ˩, | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
+\xv ɖɯ˧-ʑi˩-ɳɯ˩, | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
 \xe All the members of a household belong to the same lineage!
 \xn 一家里面的人，都属于同一根‘骨头’（家族）。
 \xf Tous les membres d'une maisonnée appartiennent à un même clan!
 \xc <dom="sem" langue="fra"> Cette phrase est syntaxiquement ambiguë. Elle pourrait signifier, soit qu'une maisonnée constitue un clan, soit qu'une maisonnée appartient toute entière à un même clan (que tous les membres d'une maisonnée appartiennent à un même clan). C'est la seconde interprétation qui est ici la bonne.
-\xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˧
+\xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˧
 \xe one clan
 \xn 一个家族
 \xf un clan
 \xc <dom="ton" langue="fra"> Pas moins de trois variantes tonales existent pour ce classificateur: ton Mβ, ton H$, ton #H. Cet exemple illustre les variantes tonales Mβ et #H.
 \xc <dom="ton" langue="eng"> No less than three tonal variants exist for this classifier: tone Mβ, tone H$, and tone #H. This example illustrates the Mβ and #H tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有三种声调变体：Mβ、H$和#H。本例反映了Mβ和#H变体。
-\xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˥
+\xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˥
 \xe as above: one clan
 \xn 同上：一个家族
 \xf idem: un clan
 \xc PHONO
 \xc <dom="phono" langue="fra"> Cet exemple illustre la variante tonale H$.
-\xv ɖɯ˧-ɻ̩̃˧ ɲi˩
+\xv ɖɯ˧-ɻ̩̃˧ ɲi˩
 \xe It is one clan. / It is the same clan.
 \xn 是一个家族。
 \xf C'est un clan. / C'est le même clan.
@@ -56122,7 +56117,7 @@
 \xc <dom="ton" langue="fra"> Cette réalisation illustre l'une des trois variantes tonales du classificateur: Mβ.
 \xc <dom="ton" langue="eng"> This realization illustrates Mβ, one of the three tonal variants that exist for this classifier: tone Mβ, tone H$, and tone #H.
 \xc <dom="ton" langue="cmn"> 该量词有三种声调变体：Mβ、H$和#H。本例反映了Mβ变体。
-\xv ɖɯ˧-ɻ̩̃˧ ɲi˥
+\xv ɖɯ˧-ɻ̩̃˧ ɲi˥
 \xe It is one clan. / It is the same clan.
 \xn 是一个家族。
 \xf C'est un clan. / C'est le même clan.
@@ -56130,11 +56125,11 @@
 \xc <dom="ton" langue="fra"> Cette réalisation illustre deux des trois variantes tonales du classificateur: H$ et #H.
 \xc <dom="ton" langue="eng"> This realization matches two (H$ and #H) of the three tonal variants that exist for this classifier: tone Mβ, tone H$, and tone #H.
 \xc <dom="ton" langue="cmn"> 该量词有三种声调变体：Mβ、H$和#H。本例反映了H$和#H变体。
-\xv ɖɯ˧-ɻ̩̃˧ ɖɯ˧-nɑ˥
+\xv ɖɯ˧-ɻ̩̃˧ ɖɯ˧-nɑ˥
 \xe one clan
 \xn 一个家族
 \xf un clan
-\xv njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ɻ̩̃˧ ɖɯ˧-nɑ˥ ɲi˩!
+\xv njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ɻ̩̃˧ ɖɯ˧-nɑ˥ ɲi˩!
 \xe We belong to the same clan! / We are part of the same clan!
 \xn 我们属于同一个家族！
 \xf Nous autres, nous appartenons au même clan!
@@ -56210,7 +56205,7 @@
 \xf je vais dire toute la vérité/je vais faire la lumière!
 \dt 01/Oct/2015
 
-\lx ɻ̩̃˧hæ˩
+\lx ɻ̩̃˧hæ˩
 \sf <nb="B"> 216
 \sf <nb="2011"> 287
 \or eunhae
@@ -56219,11 +56214,11 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; ton d4) (note ancienne: “gifler", par erreur)
 \ton L#
-\lc ɻ̩̃˧hæ˩
+\lc ɻ̩̃˧hæ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
-\va <speaker="M21"> ɻ̩̃˧ hæ˧˥
+\va <speaker="M21"> ɻ̩̃˧ hæ˧˥
 \pdv ɭɯ˧β
 \pdv kɤ˧˥α1
 \de Cartilage.
@@ -56234,7 +56229,7 @@
 \gf cartilage
 \dt 01/Oct/2015
 
-\lx ɻ̩̃˧ko˩
+\lx ɻ̩̃˧ko˩
 \sf <nb="B"> 2218
 \sf <nb="2011"> 239
 \or eungo
@@ -56243,7 +56238,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
 \ton L#
-\lc ɻ̩̃˧ko˩
+\lc ɻ̩̃˧ko˩
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -56253,21 +56248,21 @@
 \dn 胫骨
 \df Tibia.
 \gf tibia
-\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̩̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
+\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̩̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
 \xe The poor must not borrow money; the shinbone must not receive wounds! (Proverb, to explain that one must avoid hitting weak/sensitive spots.)
 \xn “穷人莫借钱，胫骨莫受伤！”
 \xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
 \xc PROVERBE
 \xc <print="n"> xxxx extraire le verbe ancien 'emprunter' de /ɖʐe˧ tʰɑ˧-ʝi˥/. Victime de la concentration d'homophones sur la syllabe /ʝi/?
 
-\lx ɻ̩̃˧kɤ˩
+\lx ɻ̩̃˧kɤ˩
 \or eunge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L#
-\lc ɻ̩̃˧kɤ˩
-\sy sɯ˧ɻ̩̃˧mi#˥
+\lc ɻ̩̃˧kɤ˩
+\sy sɯ˧ɻ̩̃˧mi#˥
 \so F4
 \pdv kɤ˧˥α1
 \de Backbone.
@@ -56278,7 +56273,7 @@
 \gf colonne_vertébrale
 \dt 01/Oct/2015
 
-\lx ɻ̩̃˧mi˧
+\lx ɻ̩̃˧mi˧
 \sf <nb="B"> 2123
 \sf <nb="2011"> 3260
 \or eunmi
@@ -56287,7 +56282,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (2006: noté oe͂˞˧mi˧)
 \ton M
-\lc ɻ̩̃˧mi˧
+\lc ɻ̩̃˧mi˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -56298,7 +56293,7 @@
 \gn 树干
 \df Tronc.
 \gf tronc
-\xv si˧dzi˩-ɻ̩̃˩mi˩
+\xv si˧dzi˩-ɻ̩̃˩mi˩
 \xe tree trunk
 \xn 树干
 \xf tronc d'arbre
@@ -56370,7 +56365,7 @@
 \gf ganglions
 \dt 02/Oct/2015
 
-\lx ɻ̩̃˧ʈʂæ˩
+\lx ɻ̩̃˧ʈʂæ˩
 \sf <nb="2011"> 241
 \or eunzhae
 \ps n
@@ -56378,7 +56373,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
 \ton L#
-\lc ɻ̩̃˧ʈʂæ˩
+\lc ɻ̩̃˧ʈʂæ˩
 \cf ʈʂæ˧˥3
 \so F4
 \va <speaker="F5"> ID.
@@ -56443,14 +56438,14 @@
 \df Erchei, un prénom masculin.
 \gf Erchei
 
-\lx ɻ̩̃˧ʈʂwæ˩
+\lx ɻ̩̃˧ʈʂwæ˩
 \or eunzhuae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" dom="sem" langue="fra"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L#
-\lc ɻ̩̃˧ʈʂwæ˩
+\lc ɻ̩̃˧ʈʂwæ˩
 \so F4
 \de Sambucus, |fi{Toricellia angulata Oliv.}
 \ge sambucus
@@ -56458,7 +56453,7 @@
 \gn 接骨丹
 \df Sambucus, |fi{Toricellia angulata Oliv.}
 \gf sambucus
-\xv ɻ̩̃˧ʈʂwæ˩-si˩
+\xv ɻ̩̃˧ʈʂwæ˩-si˩
 \xe same meaning: Sambucus, |fi{Toricellia angulata Oliv.}, with addition of the morpheme for `wood'.
 \xn 同上：接骨丹（加上‘木’这个语素）。
 \xf même sens: Sambucus, |fi{Toricellia angulata Oliv.}, auquel est suffixé le morphème `bois'.
@@ -56868,12 +56863,12 @@
 \df Nom d'un village de la plaine de Lijiang: Shuhe, anciennement Longquan. Les terres de ce village étaient médiocres, et beaucoup de ses habitants se tournaient vers le commerce et voyageaient dans toute la région, ce qui a valu à cette localité d'être connue jusqu'à Yongning.
 \gf village_de_Shuhe
 
-\lx ʂæ˩ɻ̩̃˩
+\lx ʂæ˩ɻ̩̃˩
 \sf <nb="2011"> 285
 \or shae'eun
-\mr ɻ̩̃˥1
+\mr ɻ̩̃˥1
 \ps n
-\lc ʂæ˩ɻ̩̃˩˥
+\lc ʂæ˩ɻ̩̃˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L
@@ -58127,7 +58122,7 @@
 \sf <nb="2011"> 1647
 \or seiq
 \ps v
-\sy ʈʂʰv̩˩
+\sy ʈʂʰv̩˩1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
@@ -60796,7 +60791,7 @@
 \gf perle
 \dt 04/Aug/2017
 
-\lx sɯ˧ɻ̩̃˧mi#˥
+\lx sɯ˧ɻ̩̃˧mi#˥
 \sf <nb="B"> 217
 \sf <nb="2011"> 288
 \or si'eunmi
@@ -60806,14 +60801,14 @@
 \nt <type="hist" print="n" langue="fra"> +ɲi˥ (notes avant 2009: sɯ˥ œ͂˞˥ mi˥; tons: le 5/11/2007, corrige en ˧ ˧ ˧ “car ce sont les mêmes tons que l'item 29; peut-être ˥ ˥ ˥ pour les deux") (confirmé: n'est pas /si/)
 \nt <type="hist" print="n" langue="fra"> (correction 2007, auparavant noté oe͂˥kɤ˧)
 \ton #H
-\lc sɯ˧ɻ̩̃˧mi˧
-\cf ɻ̩̃˧kɤ˩
+\lc sɯ˧ɻ̩̃˧mi˧
+\cf ɻ̩̃˧kɤ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> sɯ˥ œ͂˞˥ mi˥; la 2e syllabe, “os", se réduit; séquence tonale ˥ ˥ ˥: confirmée
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
+\vc <langue="fra" print="n"> sɯ˧ɻ̩̃˧mi˧, ton équivalent d2: +ɲi˥
 \va <speaker="M23"> ID.
 \pdv dzi˩β
 \pdc <langue="fra"> |fg{clf} des arbres
@@ -60824,13 +60819,13 @@
 \df Colonne vertébrale.
 \gf colonne_vertébrale
 
-\lx sɯ˧ɻ̩̃#˥
+\lx sɯ˧ɻ̩̃#˥
 \or see'eun
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc sɯ˧ɻ̩̃˧
+\lc sɯ˧ɻ̩̃˧
 \pdc <langue="fra" type="hist" print="n"> xxxx Quel est ce classificateur? Celui des vallées? Un autre, qui désignerait les arbres?
 \so F4
 \pdv lo˩
@@ -60840,7 +60835,7 @@
 \gn 树干
 \df Tronc.
 \gf tronc
-\xv si˧dzi˩ tʰv̩˩-dzi˩, | sɯ˧ɻ̩̃˧ dʑɤ˥!
+\xv si˧dzi˩ tʰv̩˩-dzi˩, | sɯ˧ɻ̩̃˧ dʑɤ˥!
 \xe This tree has a good trunk! (i.e. it is suitable for use in carpentry, making furniture…)
 \xn 这是棵好树！（可以用做木料）
 \xf Cet arbre, il a un beau tronc! (c'est-à-dire qu'il est utilisable en menuiserie)
@@ -68739,7 +68734,7 @@
 \ps n
 \lc ʈʂæ˧˥
 \cf lo˩ʈʂæ˧˥
-\cf ɻ̩̃˧ʈʂæ˩
+\cf ɻ̩̃˧ʈʂæ˩
 \sn 1
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -68924,7 +68919,7 @@
 \xe Medicine powder, medicine in powder form. For instance: the disinfectant commonly used in Yongning at the time of fieldwork, of the brand |fn{云南白药}
 \xn 药粉，粉状药品。如：“云南白药”消毒粉。
 \xf Médicament en poudre. (Exemple: le désinfectant en poudre actuellement utilisé, de la marque |fn{云南白药}.)
-\xv ʂæ˩ɻ̩̃˩-tsɑ˩bɤ˥
+\xv ʂæ˩ɻ̩̃˩-tsɑ˩bɤ˥
 \xe bone powder
 \xn 骨头粉
 \xf poudre d'os
@@ -68933,7 +68928,7 @@
 \xe tobacco powder
 \xn 烟草粉
 \xf tabac en poudre
-\xv jɤ˧ɻ̩̃˧-tsɑ˧bɤ˥
+\xv jɤ˧ɻ̩̃˧-tsɑ˧bɤ˥
 \xe tobacco powder
 \xn 烟草粉
 \xf poudre de tabac, tabac en poudre
@@ -71398,20 +71393,20 @@
 \gf moëlle
 \dt 07/Oct/2015
 
-\lx tsʰi˧zi˧-ɻ̩̃#˥
+\lx tsʰi˧zi˧-ɻ̩̃#˥
 \sf <nb="B"> 1997
 \sf <nb="2011"> 3047
 \or ceessee'eun
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥) (avant 2009: noté: /tsʰɯ˥zɯ˥ ɻ̩̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
+\nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥) (avant 2009: noté: /tsʰɯ˥zɯ˥ ɻ̩̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
 \ton #H
-\lc tsʰi˧zi˧ɻ̩̃˧
+\lc tsʰi˧zi˧ɻ̩̃˧
 \so F4
-\va <speaker="M21"> tsʰv̩˧zv̩˧-ɻ̩̃#˥
+\va <speaker="M21"> tsʰv̩˧zv̩˧-ɻ̩̃#˥
 \pdv kɤ˧˥α1
-\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
+\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
 \de Highland barley straw.
 \ge highland_barley_straw
 \dn 青稞杆
@@ -73249,6 +73244,7 @@
 \lx †ʈʂʰɤ˧˥
 \or che
 \ps v
+\lc --
 \cf ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \nt <dom="synt" langue="fra"> Monosyllabe extrait de la forme disyllabique |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, selon les règles morpho-tonologiques synchroniques.
 \nt <dom="synt" langue="eng"> This monosyllabic form is extracted from disyllabic |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, based on the synchronic morpho-tonological rules.
@@ -74402,7 +74398,7 @@
 \gf chevreau
 \dt 05/Jul/2017
 
-\lx tsʰɯ˩tsʰɯ˩ɻ̩̃˩
+\lx tsʰɯ˩tsʰɯ˩ɻ̩̃˩
 \sf <nb="B"> 2042
 \sf <nb="2011"> 3152
 \or cici'eun
@@ -74411,20 +74407,20 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (2006: tsʰɯ˩tsʰɯ˩ oe͂˩˥)
 \ton L
-\lc tsʰɯ˩tsʰɯ˩ɻ̩̃˩˥
+\lc tsʰɯ˩tsʰɯ˩ɻ̩̃˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> Aussi: /tsʰɯ˩tsʰv̩˩zɯ˩˧/. Donne: tsʰɯ˩tsʰv̩˩zɯ˩ɲi˧
 \pdv kɤ˧˥α1
-\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
+\pdc <type="hist" print="n" langue="fra"> xxxx quel est le classificateur en question? Il paraît ne pas s'agir du classificateur des étendues de terre (kɤ˧˥α2). Il s'agit vraisemblablement du classificateur des bâtons et branches (kɤ˧˥α1), en lien avec la racine ɻ̩̃#˥ qui constitue la tête du nom composé, et qui est associée au classificateur kɤ˧˥α1.
 \de Dry plant of garden peas, garden peas hay.
 \ge garden_pea_hay
 \dn 豌豆干草
 \gn 豌豆干草
 \df Paille de petits pois.
 \gf paille_de_pois
-\xv ʈʂʰɯ˧ | tsʰɯ˩tsʰɯ˩ɻ̩̃˩ ɲi˥.
+\xv ʈʂʰɯ˧ | tsʰɯ˩tsʰɯ˩ɻ̩̃˩ ɲi˥.
 \xe This is garden pea hay.
 \xn 这是豌豆干草。
 \xf C'est de la paille de haricots.
@@ -75931,7 +75927,7 @@
 \xe to set the tripod in place (in the hearth); to set the large pot in place (as part of the final steps in setting up the new home, after a new house has been built)
 \xn （建完新房后）安装三脚架、把锅摆好（在三脚架上）
 \xf mettre en place le trépied de fer dans le foyer, mettre en place la grande casserole (sur le trépied) (Contexte: description de la «pendaison de crémaillère», dans une nouvelle maison)
-\xv tsʰo˩-ɻ̩̃˩˥ | dʑɯ˩ mɤ˩-ʈɯ˩˥, | lɑ˧-ʂe˧ | kʰv̩˧ tʰɑ˩-ki˩!
+\xv tsʰo˩-ɻ̩̃˩˥ | dʑɯ˩ mɤ˩-ʈɯ˩˥, | lɑ˧-ʂe˧ | kʰv̩˧ tʰɑ˩-ki˩!
 \xe “Human bones must not be put in water; tiger's flesh must not be given to the dog!" (Explanation: corpses were not buried in water, unlike in certain Tibetan customs. Neither the body, nor the ashes of cremation, must be put in water.)
 \xn “人骨头，莫碰水！老虎肉，莫给狗！”（这个谚语，来强调摩梭与藏族的一些不同习惯：摩梭禁止让尸体或骨灰沾水。）
 \xf «Les ossements humains, on ne les met pas à l'eau! La chair du tigre, on ne la donne pas au chien!» Sens: on n'enterre pas les gens dans l'eau (à la différence de certaines coutumes tibétaines); on prenait soin de n'immerger dans l'eau, ni le corps, ni les cendres après la crémation.
@@ -77101,7 +77097,7 @@
 
 \lx v̩˧~v̩˥
 \or vuvu
-\mr v̩˩˥
+\mr v̩˩
 \ps v
 \lc v̩˧v̩˥
 \sd <langue="fra"> verbe
@@ -78726,7 +78722,7 @@
 \df Flèche.
 \gf flèche
 
-\lx ʐe˧ɻ̩̃#˥
+\lx ʐe˧ɻ̩̃#˥
 \sf <nb="B"> 622
 \sf <nb="2011"> 919
 \or reieun
@@ -78734,7 +78730,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton #H
-\lc ʐe˧ɻ̩̃˧
+\lc ʐe˧ɻ̩̃˧
 \sn 1
 \so F4
 \pdv kʰɯ˩β
@@ -78745,26 +78741,26 @@
 \gn 箭
 \df Flèche.
 \gf flèche
-\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-kʰɯ˩
+\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-kʰɯ˩
 \xe an arrow
 \xn 一枝箭
 \xf une flèche
 \xc PHONO
-\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-ɭɯ˧
+\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-ɭɯ˧
 \xe an arrow
 \xn 一枝箭
 \xf une flèche
 \xc PHONO
 \sn 2
 \so F4
-\pdv ɻ̩̃˧β
+\pdv ɻ̩̃˧β
 \de A family, a lineage (metaphorical sense for ‘an arrow’).
 \ge lineage
 \dn 一个家族
 \gn 家族
 \df Un lignage, une famille (sens métaphorique de ‘une flèche’: la famille est unie et file d'un trait, comme une flèche).
 \gf lignage
-\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˧
+\xv ʐe˧ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˧
 \xe a family, a lineage
 \xn 一个家族
 \xf une lignée, une famille
@@ -82499,7 +82495,6 @@
 \ton LM
 \sy dze˩mi˧
 \lc --
-\so F4
 \de Bee.
 \ge bee(monosyll.)
 \dn 蜜蜂
@@ -82680,7 +82675,6 @@
 \ton M? H?
 \lc --
 \cf hi˧le˩
-\so F4
 \de Fast (root extracted from the disyllabic form |fv{/hi˧le˩/}).
 \ge fast(monosyll.)
 \dn 快
@@ -83593,7 +83587,6 @@
 \cf ʁwɤ˧~ʁwɤ˥
 \ton Lα
 \lc --
-\so F4
 \va <speaker="M21"> ID.
 \de To negotiate (monosyllabic root extracted from the reduplicated form).
 \ge to_negotiate(monosyll.)
@@ -83601,7 +83594,6 @@
 \gn 商量
 \df Discuter, négocier (racine extraite de la forme rédupliquée).
 \gf discuter(monosyll.)
-\dt 27/Apr/2017
 
 \lx -ɻ̩˩
 \or -er
@@ -83838,7 +83830,6 @@
 \sd <langue="eng"> clothing
 \ton L
 \lc --
-\so F4
 \de Skirt (monosyllabic form extracted from the set phrase ‘to wear the skirt').
 \ge skirt
 \dn 裙子（单音节）
