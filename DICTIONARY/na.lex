@@ -36721,6 +36721,8 @@
 \gn 感叹词.“玛达”
 \df «Malheur!» / «Hélas!» Formule notamment employée en début de chanson mélancolique, et parfois au début d'un conte. (La même formule est en usage dans la langue lazé.)
 \gf |fg{intj}.Hélas!
+\txtsup Tiger2.12
+\doisup 10.24397/pangloss-0004546#S12
 
 \lx v̩…v̩
 \or vu-vu
@@ -50886,9 +50888,10 @@
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> avant 2009: /‡i˥ kʶv̩˥/kʰʶv/. Tons confirmés en 2009.
 \ton M
 \lc qʰv̩˧
+\cf ʝi˧qʰv̩#˥
+\cf qʰv̩˧tʰv̩#˥2
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -50897,18 +50900,38 @@
 \pdv dze˩α3
 \de Horn.
 \ge horn
-\dn 犄角（锯下来的）
+\dn 犄角
 \gn 犄角
 \df Corne.
 \gf corne
-\xv ʝi˧-qʰv̩#˥
-\xe Ox horn. Ox horns are used as containers for drinking.
-\xn 牛角（过去，用牛角来当饮料容器）
-\xf Corne de bœuf. La corne de bœuf était autrefois utilisée comme récipient pour boissons.
 \xv ʈʂʰæ˧-qʰv̩˥
 \xe stag horn
 \xn 鹿角
 \xf corne de cerf
+
+\lx ʝi˧qʰv̩#˥
+\or yikheu
+\mr ʝi˥1
+\mr qʰv̩˧2
+\ps n
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\nt <type="hist" print="n" langue="fra"> avant 2009: /‡i˥ kʶv̩˥/kʰʶv/. Tons confirmés en 2009.
+\ton #H
+\lc ʝi˧qʰv̩˧
+\cf qʰv̩˧tʰv̩#˥2
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\pdv ɭɯ˧β
+\pdv dze˩α3
+\de Ox horn.
+\ge ox_horn
+\dn 牛角
+\gn 牛角
+\df Corne de bœuf.
+\gf corne_de_bœuf
 
 \lx qʰv̩˧˥
 \sf <nb="B"> 1371
@@ -51232,15 +51255,14 @@
 \so F4
 \de Classifier: a hornful. The quantity of liquid (or powder) that can be contained in an ox's horn. Ox horns used to serve as containers for water.
 \ge |fg{clf}.hornful
-\dn |fg{量词}：一个牛角的容量
-\gn 量词.角
-\df Classificateur: quantité de liquide (ou de poudre) que tient une corne de vache.
+\dn |fg{量词}：一个牛角的容量。过去，用牛角来当饮料容器。
+\gn 量词.牛角
+\df Classificateur: quantité de liquide (ou de poudre) que tient une corne de bœuf. La corne de bœuf était autrefois utilisée comme récipient pour boissons.
 \gf |fg{clf}.corne_de_liquide
 \xv ɖɯ˧-qʰv̩˧tʰv̩#˥, | ɲi˧-qʰv̩˧tʰv̩#˥, | so˩-qʰv̩˩tʰv̩˩˥, | ʐv̩˧-qʰv̩˧tʰv̩#˥, | ŋwɤ˧-qʰv̩˧tʰv̩#˥, | qʰv̩˧-qʰv̩˧tʰv̩#˥, | ʂɯ˧-qʰv̩˧tʰv̩#˥, | hõ˧-qʰv̩˧tʰv̩#˥, | gv̩˧-qʰv̩˧tʰv̩#˥, | tsʰe˩-qʰv̩˩tʰv̩˩˥
 \xe association with numerals from 1 to 10
 \xn 与数词结合，一至十
 \xf association avec des numéraux, de 1 à 10
-\dt 30/Apr/2017
 
 \lx qʰv̩˧tʰv̩#˥
 \or kheutu
@@ -78092,6 +78114,40 @@
 \gf |fg{ideo}_plof
 \txtsup Dog2.104
 \doisup 10.24397/pangloss-0004660#S104
+
+\lx kõlõ…kõlõ
+\or gonlon-gonlon
+\ps ideophone
+\lc kõlõ…kõlõ!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Sound of shaking bells, with a jingling, tinkling effect: ding-dong, gling-gling
+\ge |fg{ideo}_ding-dong
+\dn 形声词：摇晃的铃铛声：叮当，叮当！
+\gn 叮当叮当
+\df Bruit de clochettes qu'on secoue: ding-dong, gling-gling
+\gf |fg{ideo}.ding_dong_gling
+\txtsup Tiger2.65
+\doisup 10.24397/pangloss-0004546#S65
+
+\lx zɯ.bv̩…zɯ.bv̩
+\or ssibbu-ssibbu
+\ps ideophone
+\lc zɯbv̩…zɯbv̩!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Onomatopoeia: the groaning, creaking sound of an object under extreme pressure, on the verge of breaking. For example, a wooden plank creaks ominously as someone presses down on it with all their weight: creak-creak, groan-groan.
+\ge |fg{ideo}.creak_creak
+\dn 形声词（拟声词）：物体在猛烈的压力下发出的嘎吱声，接近断裂但尚未完全破裂。如：某人用全身的重量来压碎一块木板。
+\gn 嘎吱嘎吱
+\df Onomatopée: un objet gémit sous une forte pression. Proche de céder, il émet des craquements inquiétants. Par exemple une planche de bois sur laquelle quelqu'un pèse de tout son poids afin de la briser: crrr...crrr...
+\gf |fg{ideo}.grincement
+\txtsup Tiger2.72
+\doisup 10.24397/pangloss-0004546#S72
 
 \lx zzz…zzz
 \or ss-ss-ss
