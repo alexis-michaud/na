@@ -1317,13 +1317,12 @@
 \ton LM+H#-
 \lc æ̃˩ʂe˧li˥mo˩
 \so F4
-\de “Chicken-meat mushroom": an edible mushroom, |fi{Amanita spissa}.
+\de Grey spotted Amanita: an edible mushroom, |fi{Amanita spissa}. Literally “chicken-meat mushroom": its flavour is reminiscent of the taste of chicken.
 \ge chicken_meat_mushroom
-\dn 麻母鸡菌：一种可以吃的菌子，块鳞灰毒鹅膏菌。以味鲜，类似于鸡肉味道而得名。
+\dn 麻母鸡菌：一种可以吃的菌子，块鳞灰鹅膏菌（|fi{Amanita spissa}）。以味鲜，类似于鸡肉味道而得名。别名：块鳞灰毒伞、麒麟灰毒伞、角鳞灰鹅膏。
 \gn 麻母鸡菌
-\df «champignon viande-de-poulet»: un champignon comestible, |fi{Amanita spissa}.
-\gf champignon_viande_de_poulet
-\dt 24/Apr/2017
+\df Amanite épaisse, |fi{Amanita spissa} (synonyme: |fi{Amanita excelsa}), un champignon comestible. Littéralement «champignon viande-de-poulet»: il doit ce nom à sa saveur, qui rappelle celle du poulet.
+\gf Amanite_épaisse
 
 \lx æ̃˧ʂwæ˥
 \sf <nb="B"> 1790
@@ -26417,6 +26416,7 @@
 \or kiqi moq
 \ps n
 \sy ʈʂæ˧mo#˥
+\sy ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton L#-
@@ -26428,10 +26428,6 @@
 \gn 一种有毒的菌子
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
-\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
-\xe A poisonous mushroom (same meaning as the main entry).
-\xn 一种有毒的菌子（同上）
-\xf Un champignon vénéneux (même sens que l'entrée principale).
 
 \lx ki˩ti#˥
 \sf <nb="2011"> 548
@@ -69193,10 +69189,11 @@
 \lx ʈʂæ˧mo#˥
 \or zhaemo
 \ps n
-\sy kʰi˧tɕʰɯ˩-mo˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton #H
+\sy kʰi˧tɕʰɯ˩-mo˩
+\sy ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
 \lc ʈʂæ˧mo˧
 \so F4
 \pdv ɭɯ˧β
@@ -69206,10 +69203,26 @@
 \gn 一种有毒的菌子
 \df Un champignon vénéneux.
 \gf champignon_vénéneux_sp
-\xv ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
-\xe Same meaning: a poisonous mushroom. (Compound with the synonymous word |fv{kʰi˧tɕʰɯ˩-mo˩}.)
-\xn 同上：一种有毒的菌子。
-\xf Même sens: un champignon vénéneux. (Nom composé formé en ajoutant le synonyme |fv{kʰi˧tɕʰɯ˩-mo˩}.)
+
+\lx ʈʂæ˧mo˧-kʰi˧tɕʰɯ˩-mo˩
+\or zhaemo kiqi moq
+\mr ʈʂæ˧mo#˥
+\mr kʰi˧tɕʰɯ˩-mo˩
+\ps n
+\sy ʈʂæ˧mo#˥
+\sy kʰi˧tɕʰɯ˩-mo˩
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton -L#-
+\lc ʈʂæ˧mo˧kʰi˧tɕʰɯ˩mo˩
+\so F4
+\pdv ɭɯ˧β
+\de A poisonous mushroom. (Compound made up of two synonymous words.)
+\ge poisonous_mushroom_sp
+\dn 一种有毒的菌子
+\gn 一种有毒的菌子
+\df Un champignon vénéneux. (Nom composé formé de deux appellations synonymes.)
+\gf champignon_vénéneux_sp
 
 \lx ʈʂʰæ˧nɑ˥
 \or chaena
