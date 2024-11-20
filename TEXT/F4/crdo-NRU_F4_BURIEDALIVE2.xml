@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_BURIEDALIVE2" xml:lang="nru">
 	<HEADER>
-		<TITLE xml:lang="eng">Buried alive: how a young woman ran into great trouble because of her greed. (Version 2.)</TITLE>
-		<TITLE xml:lang="fra">Enterrée vive (version 2)</TITLE>
+		<TITLE xml:lang="en">Buried alive: how a young woman ran into great trouble because of her greed. (Version 2.)</TITLE>
+		<TITLE xml:lang="fr">Enterrée vive (version 2)</TITLE>
 		<TITLE xml:lang="cmn">《死而复生》（第二次讲述版本）</TITLE>
 		<SOUNDFILE href="crdo-NRU_F4_BuriedAlive2_AUDIO.wav"/>
 	</HEADER>
