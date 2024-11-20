@@ -741,9 +741,9 @@
 \xn （她）想出去！（情景：在阳光明媚的一日，一个家庭成员感觉到一个婴儿想去外面玩。）
 \xf [Elle] a envie de sortir! (Contexte: par une journée ensoleillée, un membre de la famille sent qu'un nourrisson aurait envie d'aller jouer dehors.)
 \xv ə˧dɑ˥ | ɑ˩pʰo˩ hɯ˩-ze˥!
-\xe Daddy went out! (Context: explanation provided to an infant who has just woken up and looks for her dad.)
-\xn 爸爸出去了！
-\xf Papa est sorti! (Explication fournie à un nourrisson qui vient de se réveiller de sa sieste et cherche son père.)
+\xe Daddy went out! (Explanation provided by her grandmother to an infant who has just woken up from a nap and is looking around for her dad.)
+\xn 爸爸出去了！（奶奶向刚刚午睡醒来、寻找父亲的婴儿这样解释：爸爸出去了。）
+\xf Papa est sorti! (Explication fournie par sa grand-mère à un nourrisson qui vient de se réveiller de sa sieste et cherche son père du regard.)
 \xv ɑ˩pʰo˩=bv̩˥ | lo˧ ʝi˧
 \xe to work outside the household: to help other families (in particular for harvesting); to go and look for work in a city
 \xn 在外边工作：去帮别人家的忙（特别是收庄稼的时候），或者到城市里面打工
@@ -15421,10 +15421,9 @@
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <dom="sem" langue="fra"> La position de ce village situé tout près du monastère peut se décrire comme |fv{ɖæ˩mi˧-kʰi˧} «(à) la porte du monastère», désignation qui peut servir de synonyme du nom `Alawua'.
-\nt <dom="sem" langue="eng"> The position of this village very close to the monastery can be described as |fv{ɖæ˩mi˧-kʰi˧} ‘(at) the monastery gate’, a designation that can serve as a synonym for the name `Alawua'.
-\nt <dom="sem" langue="cmn"> 这个村庄离寺院（扎美寺）很近，于是可以用|fv{ɖæ˩mi˧-kʰi˧}“寺院门口”来形容。这个称谓可以作为‘阿拉瓦’这一村名的同义词。
 \ton #H
+\sy ɖæ˩mi˧-ə˧lɑ˧-ʁwɤ#˥
+\sy ɖæ˩mi˧-kʰi˧
 \lc ɑ˧lɑ˧ʁwɤ˧
 \so F4
 \de Alawua, a hamlet of Yongning, close to the monastery. (This hamlet is the birthplace of the main consultant: the dictionary's second author.)
@@ -15437,6 +15436,46 @@
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
+
+\lx ɖæ˩mi˧-ə˧lɑ˧-ʁwɤ#˥
+\or Ddaemi Alawua
+\mr ɖæ˩mi˧
+\mr ə˧lɑ˧-ʁwɤ#˥
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton #H
+\sy ə˧lɑ˧-ʁwɤ#˥
+\sy ɖæ˩mi˧-kʰi˧
+\lc ɖæ˩mi˧ɑ˧lɑ˧ʁwɤ˧
+\so F4
+\de Ddaemi Alawua: another name of Alawua, a hamlet of Yongning. The hamlet is so called because it is close to the Ddaemi monastery. (This hamlet is the birthplace of the main consultant: the dictionary's second author.)
+\ge Ddaemi_Alawua.village_name
+\dn “扎美阿拉瓦”：阿拉瓦村的别名。因为阿拉瓦这个村庄离扎美寺很近，于是可以称做“扎美阿拉瓦”。这个村子是拉他咪女士的家乡。经纬度：100.6571941，27.7676599
+\gn 扎美阿拉瓦
+\df Ddaemi Alawua: autre nom de Alawua, un hameau de Yongning, proche du monastère. Le nom tient à la proximité avec le monastère Ddaemi. (Ce hameau est le lieu de naissance de la consultante principale.)
+\gf Ddaemi_Alawua.nom_de_village
+
+\lx ɖæ˩mi˧-kʰi˧
+\or Ddaemi ki
+\mr ɖæ˩mi˧
+\mr kʰi˥1
+\mc <langue="fra" print="n"> xxxx le second morphème est-il /kʰi˥1/ 'porte', 'à la porte du monastère', ou /kʰi˥2/ 'bord', 'au bord du monastère'?
+\ps n
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton LM-
+\sy ə˧lɑ˧-ʁwɤ#˥
+\sy ɖæ˩mi˧-ə˧lɑ˧-ʁwɤ#˥
+\lc ɖæ˩mi˧kʰi˧
+\nt <dom="ton" langue="fra" print="n"> xxxx vérifier le ton: ton #H ou M à la fin.
+\so F4
+\de ‘(at) the door of Ddaemi’: a periphrase referring to Alawua, a hamlet of Yongning. The position of this village very close to the monastery can be described as ‘(at) the monastery gate’, a designation that can serve as a synonym for the name `Alawua'. (This hamlet is the birthplace of the main consultant: the dictionary's second author.)
+\ge Ddaemi_ki.village_name
+\dn “扎美门（口）”：阿拉瓦村的别名。因为阿拉瓦这个村庄离扎美寺很近，于是可以称作|fv{ɖæ˩mi˧-kʰi˧}“扎美门（口）”，作为‘阿拉瓦’这一村名的同义词。这个村子是拉他咪女士的家乡。经纬度：100.6571941，27.7676599
+\gn 扎美门.村庄别名
+\df ‘(à) la porte de Ddaemi’: périphrase pouvant désigner le hameau de Alawua. La position du hameau peut en effet se décrire comme ‘à la porte du monastère Ddaemi’ (le monastère de Yongning), désignation qui est employée comme synonyme du nom ‘Alawua’. (Ce hameau est le lieu de naissance de la consultante principale.)
+\gf Ddaemi_ki.nom_de_village
 
 \lx ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩
 \or eliahaenshi moq
@@ -25853,7 +25892,6 @@
 \gn 牛肝菌
 \df Bolet, cèpe, |fi{Boletus edulis}; littéralement «champignon-galette de sarrasin», du fait de sa texture.
 \gf bolet
-\dt 24/Apr/2017
 
 \lx jɤ˧qʰɑ#˥
 \sf <nb="2011"> 3018
