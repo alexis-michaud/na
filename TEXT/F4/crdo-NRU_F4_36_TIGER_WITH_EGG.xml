@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_TIGER" xml:lang="nru">
 <HEADER>
-<TITLE xml:lang="eng">Tiger: How the tiger attacked a woman and her daughter (version 1)</TITLE>
+<TITLE xml:lang="en">Tiger: How the tiger attacked a woman and her daughter (version 1)</TITLE>
 <TITLE xml:lang="cmn">母女与老虎（第一次讲述版本）</TITLE>
-<TITLE xml:lang="fra">La mère et sa fille face au tigre (version 1)</TITLE>
+<TITLE xml:lang="fr">La mère et sa fille face au tigre (version 1)</TITLE>
 <SOUNDFILE href="crdo-NRU_F4_36_Tiger_withEGG_AUDIO.wav"/>
 </HEADER>
 

@@ -1,8 +1,10 @@
-<TEXT id="crdo-NRU_F4_SISTER5" xml:lang="NRU">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-NRU_F4_SISTER5" xml:lang="nru">
 	<HEADER>
-		<TITLE xml:lang="eng">Sister: The sister's wedding (version 5)</TITLE>
+		<TITLE xml:lang="en">Sister: The sister's wedding (version 5)</TITLE>
 		<TITLE xml:lang="cmn">《摩梭人丧葬仪式中的“斯克”仪式是怎么来的？》（第五次讲述版本）</TITLE>
-		<TITLE xml:lang="fra">Le Mariage de la sœur (version 5)</TITLE>
+		<TITLE xml:lang="fr">Le Mariage de la sœur (version 5)</TITLE>
 	</HEADER>
 
 	<NOTE xml:lang="fr" message = "L'annotation de ce texte a été préparée en mai-juin 2024, en utilisant comme canevas la transcription automatique réalisée au moyen des Transformers de HuggingFace (version de septembre 2022), fournie par Séverine Guillaume. La tâche consistait donc à écouter le récit avec la locutrice, corriger la transcription, et l'enrichir d'une traduction (en français) et de commentaires divers. La transcription automatique brute est disponible sur le dépôt GitHub, pour qui souhaiterait mettre en relation transcription automatique et document produit lors du travail de terrain. Adresse à date du 24 juillet 2024: https://github.com/alexis-michaud/na/tree/master/AutomaticTranscription/2022_09_Transformers"/>
