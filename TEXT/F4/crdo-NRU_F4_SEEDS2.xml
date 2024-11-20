@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_SEEDS2" xml:lang="nru">
 	<HEADER>
-		<TITLE xml:lang="eng">Seeds: How mankind obtained seeds and learnt to grow crops (version 2)</TITLE>
-		<TITLE xml:lang="fra">L'origine des plantes cultivées (version 2)</TITLE>
+		<TITLE xml:lang="en">Seeds: How mankind obtained seeds and learnt to grow crops (version 2)</TITLE>
+		<TITLE xml:lang="fr">L'origine des plantes cultivées (version 2)</TITLE>
 	</HEADER>
 	<S id="Seeds2S001">
 		<AUDIO start="2.0561" end="10.9387"/>

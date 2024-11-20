@@ -1,8 +1,10 @@
-﻿<TEXT id="crdo-NRU_MARIAGE_DE_LA_SOEUR_V1" xml:lang="nru">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-NRU_MARIAGE_DE_LA_SOEUR_V1" xml:lang="nru">
   <HEADER>
-    <TITLE xml:lang="eng">Sister: The sister's wedding (version 1)</TITLE>
+    <TITLE xml:lang="en">Sister: The sister's wedding (version 1)</TITLE>
     <TITLE xml:lang="cmn">《摩梭人丧葬仪式中的“斯克”仪式是怎么来的？》（第一次讲述版本）</TITLE>
-    <TITLE xml:lang="fra">Le Mariage de la sœur (version1)</TITLE>
+    <TITLE xml:lang="fr">Le Mariage de la sœur (version1)</TITLE>
     <SOUNDFILE href="F4_MariageDeLaSoeur_version1_8nov2006.wav"/>
   </HEADER>
   <NOTE xml:lang="zh" message="英文翻译与拼音文是杜玫瑰（Roselle Dobbs）女士加上的。"/>
