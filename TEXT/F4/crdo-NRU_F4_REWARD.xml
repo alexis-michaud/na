@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd"> <TEXT id="crdo-NRU_F4_REWARD" xml:lang="nru">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-NRU_F4_REWARD" xml:lang="nru">
 <HEADER>
 <TITLE xml:lang="en">Reward: the reward of an honest man, or: The heavens are watching</TITLE>
 <TITLE xml:lang="fr">"Le ciel nous voit": la récompense du juste</TITLE>
@@ -268,7 +270,7 @@
 		</W>
 </S>
 <S id="Reward_S007"><AUDIO start="32.2778" end="39.2077"></AUDIO>
-	<FORM>tʰi˩˥, | ɖɯ˧-hɑ̃˧-ɻ̍˥-dʑo˩, | tʰi˩˥, | ə˧mi˧-ɳɯ˧ | ə˧dɑ˧ tʰv̩˧-v̩˧-ki˥: | zo˧mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩: |</FORM>
+	<FORM>tʰi˩˥, | ɖɯ˧-hɑ̃˧-ɻ̩˥-dʑo˩, | tʰi˩˥, | ə˧mi˧-ɳɯ˧ | ə˧dɑ˧ tʰv̩˧-v̩˧-ki˥: | zo˧mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩: |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés, n'est pas: ‡ə˧dɑ˥ tʰv̩˧-v̩˧-ki˥"></NOTE>
 	<NOTE xml:lang="fr" message="tons vérifiés: est bien | zo˩mv̩˥ ə˩dɑ˩ tʰv̩˩-v̩˩-ki˩ |"></NOTE>
 	<TRANSL xml:lang="fr">Alors un jour, la mère a dit au père, au père des enfants: </TRANSL>
@@ -282,7 +284,7 @@
 			<TRANSL xml:lang="fr">1-soir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -959,7 +961,7 @@
 </S>
 <S id="Reward_S018"><AUDIO start="91.3524" end="100.3106"></AUDIO>
 	<FORM>&lt;kʰɤ…&gt; kʰɤ˧˥ | ɖɯ˧-ɭɯ˧ | tʰi˧-pɤ˥~pɤ˩! | əəə… ʝi˩mjæ˩˥ | &lt;s…&gt; əəə… le˧-se˥, | əəə… &lt;ɲi…&gt; ɬi˧mi˧-ɳɯ˧ | le˧-do˩, | õ˧ gɤ˧bɤ˥, | õ˩ do˩˥! |</FORM>
-	<NOTE xml:lang="fr" message="tournure exprimant la simultanéité ou l'alternance d'actions: emprunt au chinois: 一面+V，一面+V. La tournure correcte en na serait: /se˧-hɯ˧ se˧-ɻ̍˥, ʂæ˧-hɯ˧ ʂæ˧-ɻ̍˥…/::走着走…… (se: marcher; ʂæ: long)"></NOTE>
+	<NOTE xml:lang="fr" message="tournure exprimant la simultanéité ou l'alternance d'actions: emprunt au chinois: 一面+V，一面+V. La tournure correcte en na serait: /se˧-hɯ˧ se˧-ɻ̩˥, ʂæ˧-hɯ˧ ʂæ˧-ɻ̩˥…/::走着走…… (se: marcher; ʂæ: long)"></NOTE>
 	<TRANSL xml:lang="fr">il portait un panier! tantôt il marchait, euh… à la lumière de la lune, il [y] voyait [clair]: il voyait sa propre ombre!</TRANSL>
 	<TRANSL xml:lang="zh">他背着背篓，走着走，在月光中看见自己的影子！</TRANSL>
 		<W>
@@ -1335,7 +1337,7 @@
 		</W>
 </S>
 <S id="Reward_S023"><AUDIO start="125.9578" end="133.9310"></AUDIO>
-	<FORM>tʰi˩˥, | ʂɯ˧-hĩ˥ | ɖʐɤ˧-hɯ˥-dʑo˩, | tʰi˩˥, | hĩ˧-lv̩˥-qo˩ | tʰi˧-tʰv̩˧-dʑo˩, | ɖʐɤ˧-bi˥ | ʂv̩˧ɖv̩˧, | lo˩qʰwɤ˧ | ɖɯ˧-ʈʂʰe˧-ɻ̍˩, |</FORM>
+	<FORM>tʰi˩˥, | ʂɯ˧-hĩ˥ | ɖʐɤ˧-hɯ˥-dʑo˩, | tʰi˩˥, | hĩ˧-lv̩˥-qo˩ | tʰi˧-tʰv̩˧-dʑo˩, | ɖʐɤ˧-bi˥ | ʂv̩˧ɖv̩˧, | lo˩qʰwɤ˧ | ɖɯ˧-ʈʂʰe˧-ɻ̩˩, |</FORM>
 	<TRANSL xml:lang="fr">Ainsi parti pour cueillir du maïs nouveau, parvenu dans les champs d'autres gens, il veut cueillir [des épis de maïs]; il étend le bras, </TRANSL>
 	<TRANSL xml:lang="zh">要摘新的，他到人家的田里，想摘，一伸手……</TRANSL>
 		<W>
@@ -1415,7 +1417,7 @@
 			<TRANSL xml:lang="fr">étendre</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 </S>
@@ -1505,7 +1507,7 @@
 		</W>
 </S>
 <S id="Reward_S026"><AUDIO start="140.0125" end="144.5619"></AUDIO>
-	<FORM>wɤ˩˥ | ɖɯ˧-ʈʂʰe˧-ɻ̍˩, | qʰɑ˧dze˧ | ɖɯ˧-po˧-bi˩ | tʰi˧-ʈʂʰɻ̍˧˥, | wɤ˩˥ | le˧-wo˧-ɲi˥-pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>wɤ˩˥ | ɖɯ˧-ʈʂʰe˧-ɻ̩˩, | qʰɑ˧dze˧ | ɖɯ˧-po˧-bi˩ | tʰi˧-ʈʂʰɻ̩˧˥, | wɤ˩˥ | le˧-wo˧-ɲi˥-pi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">À nouveau, il a tendu [la main], il a empoigné un plant de maïs; à nouveau, il a reculé [sa main]!</TRANSL>
 	<TRANSL xml:lang="zh">（然后）他又伸出手来了，抓住一个包谷，又缩了手。</TRANSL>
 		<W>
@@ -1521,7 +1523,7 @@
 			<TRANSL xml:lang="fr">étendre</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -1541,7 +1543,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -1574,7 +1576,7 @@
 		</W>
 </S>
 <S id="Reward_S027"><AUDIO start="144.5619" end="150.3308"></AUDIO>
-	<FORM>"qʰɑ˧dze˧ | so˧-po˧-bi˩ ʈʂʰɻ̍˩-dʑo˩, | mɤ˧-bi˧-ze˧, | mɤ˧-bi˧-ze˧! | njɤ˧ | ɖʐɤ˧-ʁo˧-mɤ˧-ho˥! |</FORM>
+	<FORM>"qʰɑ˧dze˧ | so˧-po˧-bi˩ ʈʂʰɻ̩˩-dʑo˩, | mɤ˧-bi˧-ze˧, | mɤ˧-bi˧-ze˧! | njɤ˧ | ɖʐɤ˧-ʁo˧-mɤ˧-ho˥! |</FORM>
 	<TRANSL xml:lang="fr">"M'emparer ne serait-ce que de trois plants de maïs, impossible/j'en suis incapable! Je ne peux pas (me résoudre à) les casser! (littéralement: Arracher trois plants de maïs, ça ne va pas, ça ne va pas! je ne parviens pas à les arracher!)</TRANSL>
 	<TRANSL xml:lang="zh">他说：“抓三个包谷，（也）不行，不行！我不能抓！</TRANSL>
 		<W>
@@ -1590,7 +1592,7 @@
 			<TRANSL xml:lang="fr">vers/sur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -2073,7 +2075,7 @@
 		</W>
 </S>
 <S id="Reward_S036"><AUDIO start="188.8836" end="197.2008"></AUDIO>
-	<FORM>&lt;əəə… mv̩˧…&gt; | hĩ˧ mɤ˧-do˩-dʑo˩, | mv̩˧-ɳɯ˩ | le˧-do˩! | ɬi˧mi˧ | tsʰi˧-zo˩, | njɤ˧ | tʰi˧-ʈʂʰɻ̍˧-ʁo˧-mɤ˧-ho˥! | pi˧, | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩." |</FORM>
+	<FORM>&lt;əəə… mv̩˧…&gt; | hĩ˧ mɤ˧-do˩-dʑo˩, | mv̩˧-ɳɯ˩ | le˧-do˩! | ɬi˧mi˧ | tsʰi˧-zo˩, | njɤ˧ | tʰi˧-ʈʂʰɻ̩˧-ʁo˧-mɤ˧-ho˥! | pi˧, | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩." |</FORM>
 	<TRANSL xml:lang="fr">Le ciel… ce que les gens ne voient pas, le ciel le voit! La lune brillait; je ne voulais pas empoigner (le maïs d'autrui)! Du coup, je suis revenu!"</TRANSL>
 	<TRANSL xml:lang="zh">人看不见的，老天能看见！月光很强，我（庄稼）抓不成了！（于是）我就回来了！”</TRANSL>
 		<W>
@@ -2133,7 +2135,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʈʂʰɻ̍˧˥</FORM>
+			<FORM>ʈʂʰɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">empoigner</TRANSL>
 		</W>
 		<W>
@@ -3486,7 +3488,7 @@
 		</W>
 </S>
 <S id="Reward_S061"><AUDIO start="307.4346" end="314.1718"></AUDIO>
-	<FORM>hĩ˧ | ʈʰææ̃˧… | õ˧dɤ˧ɻ̍˧-ɳɯ˧ | hĩ˧ kʰv̩˧ mɤ˧-kv̩˩-ɲi˩! | mɤ˧-kʰv̩˥, | tʰi˧-kwɤ˩-kʰɯ˩! | &lt;njæ˧-sɯ˩kv̩˩…&gt; ə˧-sɯ˩kv̩˩, | hɑ˧-ʐwɤ˩ | ʂɯ˧-bi˧, | tʰi˧-ʂɯ˧-kʰɯ˧-tsæ˥-ɲi˩! |</FORM>
+	<FORM>hĩ˧ | ʈʰææ̃˧… | õ˧dɤ˧ɻ̩˧-ɳɯ˧ | hĩ˧ kʰv̩˧ mɤ˧-kv̩˩-ɲi˩! | mɤ˧-kʰv̩˥, | tʰi˧-kwɤ˩-kʰɯ˩! | &lt;njæ˧-sɯ˩kv̩˩…&gt; ə˧-sɯ˩kv̩˩, | hɑ˧-ʐwɤ˩ | ʂɯ˧-bi˧, | tʰi˧-ʂɯ˧-kʰɯ˧-tsæ˥-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message="tons vérifiés; sans l'influence de ce qui précède, les tons seraient: mɤ˧-kv̩˧˥ ◊ -ɲi˩"></NOTE>
 	<TRANSL xml:lang="fr">lui, vraiment… il est fondamentalement incapable de voler autrui! [Puisqu'il] ne vole pas, laissons tomber! &lt;Nous autres…&gt; nous, on va mourir de faim; eh bien mourrons donc de faim!</TRANSL>
 	<TRANSL xml:lang="zh">是因为他真的、根本不会偷别人的！（他）不偷就算了！咱们要饿死，就饿死了吧！</TRANSL>
@@ -3499,7 +3501,7 @@
 			<TRANSL xml:lang="fr">réellement</TRANSL>
 		</W>
 		<W>
-			<FORM>õ˧dɤ˧ɻ̍˧</FORM>
+			<FORM>õ˧dɤ˧ɻ̩˧</FORM>
 			<TRANSL xml:lang="fr">fondamentalement</TRANSL>
 		</W>
 		<W>
@@ -4165,15 +4167,15 @@
 		</W>
 </S>
 <S id="Reward_S071"><AUDIO start="359.0571" end="361.5601"></AUDIO>
-	<FORM>dʑɯ˩kʰi˩˥, | ɬi˧dʑi˩ pi˩-zo˩, ◊ ə˩-gi˩! |</FORM>
-	<TRANSL xml:lang="fr">au bord de l'eau, de la rivière qu'on appelle /ɬi˧dʑi˩/ (la rivière qui traverse Yongning), n'est-ce pas!</TRANSL>
-	<TRANSL xml:lang="zh">在水边，在/ɬi˧dʑi˩/那条河边，对嘛？（注：/ɬi˧dʑi˩/是永宁坝子的大河）</TRANSL>
+	<FORM>dʑɯ˩kʰi˩˥, | ɬi˧dʑɯ˩ pi˩-zo˩, ◊ ə˩-gi˩! |</FORM>
+	<TRANSL xml:lang="fr">au bord de l'eau, de la rivière qu'on appelle Lhijji /ɬi˧dʑɯ˩/ (la rivière qui traverse Yongning), n'est-ce pas!</TRANSL>
+	<TRANSL xml:lang="zh">在水边，在Lhijji /ɬi˧dʑɯ˩/那条河边，对嘛？（注：/ɬi˧dʑɯ˩/是永宁坝子的大河）</TRANSL>
 		<W>
 			<FORM>dʑɯ˩kʰi˩</FORM>
 			<TRANSL xml:lang="fr">bord_de_l_eau</TRANSL>
 		</W>
 		<W>
-			<FORM>ɬi˧dʑi˩</FORM>
+			<FORM>ɬi˧dʑɯ˩</FORM>
 			<TRANSL xml:lang="fr">nom_de_rivière</TRANSL>
 		</W>
 		<W>
@@ -4233,7 +4235,7 @@
 <S id="Reward_S073"><AUDIO start="363.4596" end="369.9396"></AUDIO>
 	<FORM>tʰi˩˥, | lv̩˧mi˧-ʈʂʰɯ˧ | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧-hĩ˧-ʈʂʰɯ˧, | ɬi˧dʑɯ˩ | dʑɯ˧-ɳɯ˧ | le˧-qv̩˩ | le˧-po˧-tsʰɯ˧-hĩ˥-ʈʂʰɯ˩-dʑo˩, | qʰɑ˩jɤ˩ tʰi˥-dʑo˩-kv̩˩-mæ˩! | pʰv̩˩tɕæ˩-ɻæ˥-zo˩! |</FORM>
 	<NOTE xml:lang="fr" message="d'abord noté /‡le˧-po˧-tsʰɯ˧-ɲi˥; | ʈʂʰɯ˧-dʑo˩, |/ (note de juillet 2012)"></NOTE>
-	<TRANSL xml:lang="fr">Alors, il a pris des pierres grosses comme ça, grosses comme ça, [parmi celles que] la rivière /ɬi˧dʑɯ˩/ avait charriées jusque-là; [des cailloux comme ça], il y en a des quantités! Tout blancs!</TRANSL>
+	<TRANSL xml:lang="fr">Alors, il a pris des pierres grosses comme ça, grosses comme ça, [parmi celles que] la rivière Lhijji /ɬi˧dʑɯ˩/ avait charriées jusque-là; [des cailloux comme ça], il y en a des quantités! Tout blancs!</TRANSL>
 	<TRANSL xml:lang="zh">他从河里捡起来了这么大、这么大的石头。这种石头，多得很！白白的！</TRANSL>
 		<W>
 			<FORM>tʰi˩˥</FORM>
@@ -4749,7 +4751,7 @@
 		</W>
 </S>
 <S id="Reward_S082"><AUDIO start="400.0149" end="402.4189"></AUDIO>
-	<FORM>ɖɯ˧-kʰɤ˧˥, | ʐɯ˧-tsɯ˩ ◊ -mv̩˩! | kʰɤ˧˥ | tʰi˧-ʂɻ̍˧-tsɯ˥ | mv̩˩! |</FORM>
+	<FORM>ɖɯ˧-kʰɤ˧˥, | ʐɯ˧-tsɯ˩ ◊ -mv̩˩! | kʰɤ˧˥ | tʰi˧-ʂɻ̩˧-tsɯ˥ | mv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">Son panier était devenu très pesant (littéralement "Tout son panier était pesant")! Le panier était plein, à ce que dit l'histoire!</TRANSL>
 	<TRANSL xml:lang="zh">一整背篓，很沉！</TRANSL>
 		<W>
@@ -4777,7 +4779,7 @@
 			<TRANSL xml:lang="fr">°dur</TRANSL>
 		</W>
 		<W>
-			<FORM>ʂɻ̍˧˥</FORM>
+			<FORM>ʂɻ̩˧˥</FORM>
 			<TRANSL xml:lang="fr">plein/rempli</TRANSL>
 		</W>
 		<W>
@@ -4831,7 +4833,7 @@
 		</W>
 </S>
 <S id="Reward_S084"><AUDIO start="405.8024" end="410.6500"></AUDIO>
-	<FORM>"kʰi˧ pʰo˧-ɻ̍˥!" | pi˧-dʑo˩, | ə˧mi˧, | wɤ˩˥, | ɖɯ˧-pi˧˥ | &lt;m…&gt; kʰi˧ pʰo˧ mɤ˧-tsʰɯ˩, | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>"kʰi˧ pʰo˧-ɻ̩˥!" | pi˧-dʑo˩, | ə˧mi˧, | wɤ˩˥, | ɖɯ˧-pi˧˥ | &lt;m…&gt; kʰi˧ pʰo˧ mɤ˧-tsʰɯ˩, | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<TRANSL xml:lang="fr">"Ouvre la porte!" a-t-il dit; mais la mère, elle, elle était un peu… elle n'est pas venue ouvrir, à ce qu'on raconte!</TRANSL>
 	<TRANSL xml:lang="zh">“开门！”他说。（可是）啊呀……传说（孩子妈）不来开门。</TRANSL>
 		<W>
@@ -4843,7 +4845,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -4900,7 +4902,7 @@
 		</W>
 </S>
 <S id="Reward_S085"><AUDIO start="410.6500" end="415.9033"></AUDIO>
-	<FORM>"kʰi˧ pʰo˧-ɻ̍˥!" | pi˧, | "kʰi˧ pʰo˧-ɻ̍˥!" | tʰi˩˥ | no˧˥, | kʰi˧ pʰo˧-tsʰɯ˧˥. | "tsʰo˧qʰwɤ˩, | no˧ | ə˩-ɖɯ˥?" | pi˧-dʑo˩. |</FORM>
+	<FORM>"kʰi˧ pʰo˧-ɻ̩˥!" | pi˧, | "kʰi˧ pʰo˧-ɻ̩˥!" | tʰi˩˥ | no˧˥, | kʰi˧ pʰo˧-tsʰɯ˧˥. | "tsʰo˧qʰwɤ˩, | no˧ | ə˩-ɖɯ˥?" | pi˧-dʑo˩. |</FORM>
 	<NOTE xml:lang="fr" message="intonation: intéressant: la syllabe /qʰwɤ˩/ est réalisée très haute, sous l'effet de l'intonation expressive/impatiente: 'Et alors, ce soir, est-ce que tu nous ramènes enfin quelque chose?'"></NOTE>
 	<TRANSL xml:lang="fr">[Il a répété:] "Ouvre, ouvre!" Alors, [elle] est venue [lui] ouvrir. Elle lui a demandé: "Ce soir, tu as trouvé quelque chose/tu as obtenu quelque chose?"</TRANSL>
 	<TRANSL xml:lang="zh">“开门！”他说。于是（孩子妈）来开门了。她问：“你今天晚上得到了（东西）吗？”</TRANSL>
@@ -4913,7 +4915,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -4966,7 +4968,7 @@
 		</W>
 </S>
 <S id="Reward_S086"><AUDIO start="415.9033" end="419.0790"></AUDIO>
-	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | ɖɯ˧-ze˩! | no˧ | kʰi˧ pʰo˧-ɻ̍˥!" | pi˧-dʑo˩. |</FORM>
+	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | ɖɯ˧-ze˩! | no˧ | kʰi˧ pʰo˧-ɻ̩˥!" | pi˧-dʑo˩. |</FORM>
 	<TRANSL xml:lang="fr">"[Oui!] Ce soir, [j'ai enfin] trouvé [quelque chose]! Ouvre la porte!"</TRANSL>
 	<TRANSL xml:lang="zh">“今天晚上，我得到了！/ 今天，有了！开门啊！”他说。</TRANSL>
 		<W>
@@ -4998,7 +5000,7 @@
 			<TRANSL xml:lang="fr">ouvrir</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍</FORM>
+			<FORM>ɻ̩</FORM>
 			<TRANSL xml:lang="fr">°inchoatif</TRANSL>
 		</W>
 		<W>
@@ -5078,9 +5080,9 @@
 		</W>
 </S>
 <S id="Reward_S088"><AUDIO start="422.9769" end="428.6457"></AUDIO>
-	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | pi˩ti˧ | ɖɯ˧-ze˩!" | pi˧-zo˩, | ɬi˩ʈɯ˩mæ˥ | tʰv̩˧-qo˧-dʑo˧, | bu.lo.o! pi˧ | tʰv̩˧-kʰɤ˩ | [tʰi˧-pʰv̩˧˥]: | gi˩˥, | pi˩ti˧ tsɤ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+	<FORM>"tsʰo˧qʰwɤ˩-dʑo˩, | pi˩ti˧ | ɖɯ˧-ze˩!" | pi˧-zo˩, | ɬi˩ʈɯ˩mæ˥ | tʰv̩˧-qo˧-dʑo˧, | po.lo! pi˧ | tʰv̩˧-kʰɤ˩ | [tʰi˧-pʰv̩˧˥]: | gi˩˥, | pi˩ti˧ tsɤ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message="tʰv̩˧-kʰɤ˩pʰv̩˧˥: hypo-articulé; j'entends quelque chose comme [tʰi˧.kʰɯ]."></NOTE>
-	<NOTE xml:lang="fr" message="On pourrait proposer une notation tonale approximative pour l'onomatopée: bo˩lo˩-o˥."></NOTE>
+	<NOTE xml:lang="fr" message="Onomatopée d'abord noté /bu.lo.o!/, en relevant qu'on pourrait en proposer une notation tonale approximative: /bo˩lo˩-o˥/. Mais à la réflexion, en novembre 2024, j'observe que l'initiale est non voisée, et je modifie la transcription en /po.lo/ (et ajoute une entrée au dictionnaire). xxxx à vérifier à nouveau avec la locutrice: est-ce simplement ici une réalisation non voisée d'une onomatopée ordinairement voisée.'"></NOTE>
 	<TRANSL xml:lang="fr">il a dit: "Ce soir, j'ai trouvé des pépites!" Ce que disant, il a renversé sa hotte sur le sol de la cuisine, brrouuum! et [les cailloux] s'étaient bel et bien transformés en pépites!</TRANSL>
 	<TRANSL xml:lang="zh">他说：“我今天晚上找到了银块！”说着，他把背篓翻到家的地上：隆隆隆！（而石头）确实变成银块了！</TRANSL>
 		<W>
@@ -5425,8 +5427,9 @@
 		</W>
 </S>
 <S id="Reward_S093"><AUDIO start="447.4031" end="451.8352"></AUDIO>
-	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̍̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | ə˧-sɯ˥? |</FORM>
-	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̍̃˥-ze˩ / le˧-ɻ̍̃˧-bi˧ / mɤ˧-ɻ̍̃˥"></NOTE>
+	<FORM>"ə˧mi˧! | ə˩-sɯ˧kv̩˥, | qʰɑ˩ne˩˥ | le˧-ɻ̩̃˧-bi˧, | hĩ˧-dʑo˩, | tʰɑ˧-kʰv̩˥, | æ˩sæ˥! |</FORM>
+	<NOTE xml:lang="fr" message="tons vérifiés: est: le˧-ɻ̩̃˥-ze˩ / le˧-ɻ̩̃˧-bi˧ / mɤ˧-ɻ̩̃˥"></NOTE>
+	<NOTE xml:lang="fr" message="Avant 2024, n'avais pas identifié comme telle l'expression polie /æ˩sæ˥/. J'interprétais ces deux syllabes comme une question: /ə˧-sɯ˥?/, «tu sais?»"></NOTE>
 	<TRANSL xml:lang="fr">[Le père prend la parole pour résumer aux membres de sa famille ce qui lui est arrivé:] "Aaah! Nous autres, si démunis qu'on soit, il ne faut pas voler [le bien d']autrui, vous avez bien compris, hein? (littéralement "est-ce que vous savez?")</TRANSL>
 	<TRANSL xml:lang="zh">（孩子爸对家人总结说：）“啊呀！咱们无论多么贫穷，不要偷别人的，知道（了）吗？</TRANSL>
 		<W>
@@ -5446,7 +5449,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5470,16 +5473,12 @@
 			<TRANSL xml:lang="fr">voler</TRANSL>
 		</W>
 		<W>
-			<FORM>ə˩</FORM>
-			<TRANSL xml:lang="fr">°interrog</TRANSL>
-		</W>
-		<W>
-			<FORM>sɯ˥</FORM>
-			<TRANSL xml:lang="fr">savoir</TRANSL>
+			<FORM>æ˩sæ˥</FORM>
+			<TRANSL xml:lang="fr">°respect</TRANSL>
 		</W>
 </S>
 <S id="Reward_S094"><AUDIO start="451.8352" end="460.5214"></AUDIO>
-	<FORM>njɤ˧ le˧-ɻ̍̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̍̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
+	<FORM>njɤ˧ le˧-ɻ̩̃˧-zo˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩-dʑo˩! | zo˩no˥, | njɤ˧ zo˧mv̩˥-ə˩mi˩-ɳɯ˩,</FORM>
 	<NOTE xml:lang="fr" message="/njɤ˧ zo˧mv̩˥-ə˩mi˩/: sens vérifié: 'la mère de mes enfants'."></NOTE>
 	<TRANSL xml:lang="fr">[Comme dit le proverbe:] "Pour affamé que je sois, je n'en suis pas encore à avoir les os à découvert!" [Or] maintenant, la mère de mes enfants, [voilà qu'elle me disait:]</TRANSL>
 	<TRANSL xml:lang="zh">我以前很贫穷，虽然很贫穷但我没去过（别人的地方偷东西）！现在，你们妈（一直跟我说：）</TRANSL>
@@ -5492,7 +5491,7 @@
 			<TRANSL xml:lang="fr">°accomp</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -5504,7 +5503,7 @@
 			<TRANSL xml:lang="fr">autrefois</TRANSL>
 		</W>
 		<W>
-			<FORM>ɻ̍̃˥</FORM>
+			<FORM>ɻ̩̃˥</FORM>
 			<TRANSL xml:lang="fr">démuni</TRANSL>
 		</W>
 		<W>
@@ -6192,7 +6191,7 @@
 		</W>
 </S>
 <S id="Reward_S105"><AUDIO start="515.4977" end="521.1220"></AUDIO>
-	<FORM>"ə˧mi˧! no˧-ɻ̍˩ ʁo˧dɑ˧-dʑo˥, &lt;le…&gt; ʁɑ˩mi˧! le˧-dzɑ˥, le˧-ʂɯ˧-ho˩-ɲi˩-mɤ˩-ɲi˩?</FORM>
+	<FORM>"ə˧mi˧! no˧-ɻ̩˩ ʁo˧dɑ˧-dʑo˥, &lt;le…&gt; ʁɑ˩mi˧! le˧-dzɑ˥, le˧-ʂɯ˧-ho˩-ɲi˩-mɤ˩-ɲi˩?</FORM>
 	<TRANSL xml:lang="fr">"Houlà! Mais avant [de devenir soudain fortunés], vous étiez indigents, vous étiez prêts de mourir de faim, non?</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！你们……真是！很穷，（都）要饿死的，不是吗？</TRANSL>
 		<W>
@@ -6204,7 +6203,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6254,7 +6253,7 @@
 </S>
 <S id="Reward_S106"><AUDIO start="521.1220" end="523.3331"></AUDIO>
 	<FORM>no˧ | ɖɯ˧-qʰv̩˧ | ɖɯ˧, | ə˩-ɖɯ˧? |</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-qʰv̩˧-ɻ̍˧"></NOTE>
+	<NOTE xml:lang="fr" message="d'abord noté ‡ɖɯ˧-qʰv̩˧-ɻ̩˧"></NOTE>
 	<TRANSL xml:lang="fr">Est-ce que tu as trouvé une cachette? (=Est-ce qu'en fait tu n'aurais pas trouvé un trésor enterré?) (Note: dans le passé, lors des périodes de troubles, les gens fortunés ne cachaient pas leurs objets précieux dans la maison, qui risquait d'être pillée; ils enterraient or, argent, bijoux… dans une cachette connue d'eux seuls, quelque part dans la forêt qui couvrait une partie de la plaine: au pied de tel arbre, etc.)</TRANSL>
 	<TRANSL xml:lang="zh">是不是发现了财宝？（注：过去，在社会动乱的时候，有人会把银子、金子、珠宝等埋在地里）</TRANSL>
 		<W>
@@ -6283,7 +6282,7 @@
 		</W>
 </S>
 <S id="Reward_S107"><AUDIO start="523.3331" end="526.6498"></AUDIO>
-	<FORM>no˧… | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | no˧-ɻ̍˩ | ʁæ˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
+	<FORM>no˧… | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | no˧-ɻ̩˩ | ʁæ˧-ɲi˥?" | pi˧-tsɯ˩ ◊ -mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message="/ə˧tse˥/: forme réduite de ə˧tse˧-ʝi˥"></NOTE>
 	<TRANSL xml:lang="fr">Comment se fait-il [donc] que vous soyez ainsi riches?" ont-ils demandé.</TRANSL>
 	<TRANSL xml:lang="zh">你们怎么这么富有？”</TRANSL>
@@ -6304,7 +6303,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6904,7 +6903,7 @@
 		</W>
 </S>
 <S id="Reward_S117"><AUDIO start="583.6455" end="590.3345"></AUDIO>
-	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | "no˧-ɻ̍˩ | mɤ˧-ʝi˧ bɑ˧˥! | ʈʂʰɯ˧ne˧-ʝi˥, | gɯ˩-mɤ˩-ʝi˩˥!" | pi˧. |</FORM>
+	<FORM>tʰi˩˥, | hĩ˧=ɻæ˧-ɳɯ˥-dʑo˩, | tʰi˩˥, | "no˧-ɻ̩˩ | mɤ˧-ʝi˧ bɑ˧˥! | ʈʂʰɯ˧ne˧-ʝi˥, | gɯ˩-mɤ˩-ʝi˩˥!" | pi˧. |</FORM>
 	<TRANSL xml:lang="fr">Alors les gens ont répliqué: "Vous (=votre histoire), elle est pas vraie, allez! Tout ça (littéralement 'ainsi'), ça peut pas être vrai!"</TRANSL>
 	<TRANSL xml:lang="zh">人家（不相信，回答他说：）“你们（这件事情），不是的吧！这些不会是真的吧！”</TRANSL>
 		<W>
@@ -6936,7 +6935,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -6973,7 +6972,7 @@
 		</W>
 </S>
 <S id="Reward_S118"><AUDIO start="590.3345" end="597.6579"></AUDIO>
-	<FORM>"njɤ˧ | gɯ˩-mɤ˩-gɯ˩˥ ◊ -dʑo˩, | ə˩-sɯ˧kv̩˥, | ʁwɤ˧-qo˧ dzi˩-ɲi˩! | njɤ˧=ɻ̍˩-dʑo˩, | ʁo˧dɑ˧, | v̩˧ ʈɯ˩-di˩ | mɤ˧-dʑo˩-hĩ˩-ɲi˩-mɤ˩-ɲi˩! |</FORM>
+	<FORM>"njɤ˧ | gɯ˩-mɤ˩-gɯ˩˥ ◊ -dʑo˩, | ə˩-sɯ˧kv̩˥, | ʁwɤ˧-qo˧ dzi˩-ɲi˩! | njɤ˧=ɻ̩˩-dʑo˩, | ʁo˧dɑ˧, | v̩˧ ʈɯ˩-di˩ | mɤ˧-dʑo˩-hĩ˩-ɲi˩-mɤ˩-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message="la différence entre /hĩ˥/ 'homme, personne' et sa variante grammaticalisée est nette au plan phonétique; lorsque je répète la phrase avec une version 'faible', la locutrice me corrige"></NOTE>
 	<NOTE xml:lang="fr" message="d'abord noté ‡v̩˧ ʈɯ˧-di˩"></NOTE>
 	<TRANSL xml:lang="fr">"Moi, si c'est vrai ou pas… [Vous connaissez bien l'histoire de notre famille, puisque] on habite tous dans le village/on est tous du même village! Auparavant, on était des gens qui n'avaient [même] pas [un foyer décent] sur lequel poser une casserole (=on n'avait même pas d'ustensiles de cuisine décents), oui ou non?</TRANSL>
@@ -7019,14 +7018,14 @@
 			<TRANSL xml:lang="fr">°certitude(°cop)</TRANSL>
 		</W>
 		<W>
-			<FORM>njɤ˧=ɻ̍˩</FORM>
+			<FORM>njɤ˧=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°1-coll</TRANSL>
 			<M>
 				<FORM>njɤ˩</FORM>
 				<TRANSL xml:lang="fr">°1sg</TRANSL>
 			</M>
 			<M>
-				<FORM>=ɻ̍˩</FORM>
+				<FORM>=ɻ̩˩</FORM>
 				<TRANSL xml:lang="fr">°associatif</TRANSL>
 			</M>
 			</W>
@@ -7278,7 +7277,7 @@
 		</W>
 </S>
 <S id="Reward_S123"><AUDIO start="614.1300" end="617.8362"></AUDIO>
-	<FORM>"ə˧mi˧! | no˧-ɻ̍˩-dʑo˩, | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥?" | pi˧. | "gi˩˥ ◊ -dʑo˩, | pi˩ti˧ po˩-ɳɯ˩! |</FORM>
+	<FORM>"ə˧mi˧! | no˧-ɻ̩˩-dʑo˩, | ə˧tse˥ | ʈʂʰɯ˧ne˧-ʝi˥ | dʑo˧-ɲi˥?" | pi˧. | "gi˩˥ ◊ -dʑo˩, | pi˩ti˧ po˩-ɳɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message="/ə˧tse˥/: forme réduite de: ə˧tse˧-ʝi˥"></NOTE>
 	<TRANSL xml:lang="fr">"Eeeh bien! Vous, comment ça se fait que vous soyez aussi riches? - Pour de vrai, c'est en ramenant des pépites!</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！你们怎么这么富有？”他们问。“真的是因为银块！”</TRANSL>
@@ -7291,7 +7290,7 @@
 			<TRANSL xml:lang="fr">°2</TRANSL>
 		</W>
 		<W>
-			<FORM>=ɻ̍˩</FORM>
+			<FORM>=ɻ̩˩</FORM>
 			<TRANSL xml:lang="fr">°associatif</TRANSL>
 		</W>
 		<W>
@@ -8989,20 +8988,47 @@
 			<TRANSL xml:lang="fr">°affirm</TRANSL>
 		</W>
 </S>
-	<TRANSL xml:lang="fr">Traduction libre du texte "Le ciel nous regarde":
-Il était une fois un père et une mère qui avaient beaucoup d'enfants. Et on dit qu'en cette année-là, il y a bien longtemps, ils ne mangeaient pas à leur faim. La récolte avait été mauvaise, à ce qu'on dit! Alors un jour, la mère a dit au père des enfants: "On ne peut tout de même pas continuer à affamer les enfants comme ça! Ils font pitié! Va voler quelque chose!" Le père a répondu: "Moi? J’en serais bien incapable!" La mère s'en est prise à lui: «Et pourquoi que tu pourrais pas voler? Si tu n'es pas capable de voler dans la maison de quelqu’un, vas donc voler dans les champs! Dans les champs, tu ne seras pas vu!». Alors, ce jeune homme, ce père de famille, il y est allé! Il se disait: "Aïe, aïe, aïe! Rien à faire! Moi qui suis incapable de voler, on m'envoie commettre un vol! Ce soir, comment je vais bien pouvoir voler?" Il s'en est allé, panier au dos! Il est arrivé sur la route; on raconte qu'il y avait un fort clair de lune ce jour-là. À la lumière de la lune, il y voyait clair: il voyait sa propre ombre! Il est parvenu dans les champs. Les maisons, il ne se sentait pas capable d'y voler! Il se disposait à voler quelque chose dans les champs. Il se disait: "Ces enfants, ils ont vraiment faim! Ils font pitié!"
-Ainsi parti, il est parvenu dans les champs. Le maïs était mûr, à ce qu’on dit. C’était vers le septième ou huitième mois. Les gens qui manquaient de vivres, comme cette famille, ils n'avaient plus de provisions de la récolte précédente, et ils avaient besoin de la nouvelle récolte, n’est-ce pas! Ainsi parti pour cueillir du maïs nouveau, parvenu dans les champs, il veut cueillir des épis de maïs; il étend le bras. On dit que la lumière de la lune l'aveuglait, comme s'il s'était agi de celle du soleil. Alors il a reculé sa main. Une nouvelle fois il a étendu le bras, il a empoigné un plant de maïs; à nouveau, il a reculé sa main. "M'emparer ne serait-ce que de trois plants de maïs, j'en suis incapable! Je ne peux pas me résoudre à les arracher! Les hommes ne me voient pas, mais le ciel me regarde! (=le ciel est témoin de ce que je fais! Si mes enfants doivent mourir de faim, qu'ils meurent! Je ne vais pas voler autrui comme ça!" Ce que disant, il s'en est retourné, son panier vide. Quand il est arrivé à sa maison, sa femme avait fermé la porte. Elle avait verrouillé sa porte derrière lui lorsqu'il était parti voler de la nourriture! "Ouvre la porte!" a-t-il dit. La mère lui a ouvert la porte et a demandé: "Ce soir, tu nous ramènes quelque chose?" "Hélas! Je reviens les mains vides! Je ne veux pas m'emparer des récoltes d'autres gens! Cambrioler des maisons, ce n'est pas bien; je ne veux pas non plus m'emparer de récoltes dans les champs! Comment pourrions-nous nous servir comme ça, dans les champs des autres? Ce que les gens ne voient pas, le ciel le voit! La lune brillait; je ne voulais pas prendre le maïs d'autrui! Du coup, je suis revenu!" Alors, on raconte que la mère de ses enfants a recommencé à le critiquer sans arrêt, à la maison. "Fais donc mourir de faim tes enfants! Nous, on n'a rien à manger à la maison! D'autres seraient capables d'aller voler au domicile des gens; toi, tu n'es pas capable de cambrioler une maison, alors je t'ai dit d'aller voler dehors, dans les champs où personne ne peut t'apercevoir, et tu n'y es pas allé!" Alors, qu'est-ce qu'il pouvait bien répondre, notre jeune homme, le papa?Il n'a rien dit; il se tenait assis; et les enfants disaient: "Papa, j'ai… j'ai faim! Maman, j'ai faim!" Alors, la mère a dit: "Si vous avez faim, buvez donc de l'eau froide! Votre père ne vous propose que de l'eau froide, alors va pour de l'eau froide! Quant à voler, il n'y est pas disposé!" 
-Une journée de plus a passé ainsi, la faim au ventre. Le lendemain, ils ont à nouveau mangé un peu de verdure bouillie. "Si ce soir tu n'as pas quelque chose à ramener, ne t'avise pas de revenir! Ces enfants, ils n'en peuvent vraiment plus, ils font pitié! Ils ont terriblement faim!" a dit la mère. Le jeune père de famille s'en est à nouveau allé tout pensif, au clair de la lune. "Non, non, tant pis! si on doit mourir, qu'on meure! même si toute la famille doit mourir de faim, moi, dans mon propre cœur, je serai resté honnête! Je n'arriverai pas à voler!" Ce que disant, il s'en est retourné. Alors on dit que la mère lui a à nouveau fait des reproches, quand il est revenu à la maison! "Toi, monsieur le père, tu es un pleutre! Un irresponsable! Tu es un jeune homme; les autres, eux, quand ils sont jeunes, ils savent prendre les choses en main, ils savent agir: ils sont capables d'assassiner des gens! d'extorquer! de voler!" Elle s'est emportée contre lui, lui disant: "Toi, t'es pas un homme!" Elle a demandé au père de lui répondre. Mais il n'a rien dit: il s'est tenu assis en silence. 
-On dit qu'il y avait dans la famille une jeune fille déjà grande. «Maman, si papa est comme ça… s’il ne veut pas voler… tu vois, il est fondamentalement incapable de voler! Puisqu'il ne veut pas, laissons tomber! Si on doit mourir de faim, eh bien mourons donc de faim! Comme dit papa: ce que les gens ne voient pas, le ciel le voit! Les dieux vont nous venir en aide!" Alors, la mère a dit à nouveau au père: "Retournes-y ce soir; si ce soir tu reviens les mains vides, moi, cette fois-ci, je ne t'ouvrirai pas la porte!" Alors, en ce troisième soir, on dit qu'il y est allé à nouveau, le papa! Ce soir-là, le père a dit à sa grande fille: "Ce soir, ta mère m'oblige à revenir avec quelque chose, n’importe quoi. Elle nous accable de sarcasmes à longueur de journée, comme tu sais bien; ce soir, je dois absolument trouver quelque chose à rapporter à la maison! Vous faites vraiment pitié, vous autres enfants affamés!" Ce que disant, il s'en est allé. Il a marché, marché, et il est à nouveau parvenu au champ de maïs. La lumière de la lune l'aveuglait: psssssssshh! psssssssshh! "Impossible, impossible! Ce soir, je ne vais pas cueillir la récolte d'autrui! Je vais mentir à la mère [de mes enfants]!" s'est-il dit.
-Au bord de l'eau, de la rivière /ɬi˧dʑi˩/, qui traverse la plaine de Yongning, il a pris des pierres grosses comme ça, parmi celles que la rivière avait charriées jusque-là. Des cailloux comme ça, tout blancs, il y en a des quantités. Il en ramassé quelques-uns, il les a mis dans son panier, et il s'en est retourné. "Hou là là! Ce que les gens ne voient pas, le ciel le voit! Je ne veux pas voler de nourriture! Ce soir, je vais rapporter quelques cailloux! Allez, je repars!"
-Il n'avait ramassé que quelques cailloux, au départ. Il a marché, marché, marché… et quand il est parvenu à la maison, son fardeau était devenu lourd, à ce que dit l'histoire! Son panier était devenu très pesant ; le panier était plein, à ce que dit l'histoire! Arrivé devant chez lui, il ne tenait plus droit! "Ouvre la porte!" a-t-il dit; mais la mère, elle n'est pas venue ouvrir. Il a répété: "Ouvre, ouvre!" Alors, elle est venue lui ouvrir. Elle lui a demandé: "Ce soir, tu nous ramènes quelque chose?" "Oui! Ce soir, j'ai enfin trouvé quelque chose! Ouvre la porte!" "Et qu'est-ce que tu as trouvé?" lui a-t-elle demandé. "Ce que j'ai trouvé? Ouvre-moi la porte!" a-t-il répondu.
-Lorsqu'elle a eu ouvert la porte, il a dit: "Ce soir, j'ai trouvé des pépites!" Ce que disant, il a renversé sa hotte sur le sol de la cuisine, brrouuum! et les cailloux s'étaient bel et bien transformés en pépites d’argent! C'est ainsi: il ne faut pas prendre l'habitude de voler! Il ne faut pas prendre l'habitude d'opprimer les gens! Le ciel nous vient en aide lorsqu'on est réellement dans le besoin. On racontait, jadis, que le ciel pouvait fait des dons comme celui-ci, n'est-ce pas! Cet homme-là, ce sont les esprits du ciel qui lui ont donné la fortune, à ce qu'on raconte! Ce sont réellement les bodhisattvas qui sont source de toute richesse!
-Le père a pris la parole pour résumer aux membres de sa famille ce qui était arrivé: "Nous autres, si démunis qu'on soit, il ne faut pas voler le bien d'autrui, vous avez bien compris, hein? J'étais démuni, auparavant; même démuni, je n'étais jamais allé voler! et voilà que votre mère me répétait à longueur de journée: "Alors comme ça tu n'es toujours pas allé voler quelqu'un! tu n'es toujours pas allé extorquer de l'argent à quelqu'un!" Or moi je suis tout simplement incapable de voler! Quand je suis allé voler, la lune brillait intensément, je sentais le regard des boddhisattvas! Alors je suis rentré à la maison. Trois jours ayant passé, je n'ai plus eu le choix! Là-bas au bord de l'eau, j'ai ramassé une hotte de pierres", a-t-il raconté. "Je suis reparti en emportant une hotte de pierres; votre mère m'a demandé: "Tu nous ramènes quelque chose, ce coup-ci?" Je lui ai répondu: "Oui! Ce soir, j'ai trouvé quelque chose!" "Et qu'as tu donc trouvé?" a-t-elle demandé. "Ce soir, j'ai trouvé des pépites!" j'ai dit. Alors elle a ouvert la porte; et quand on a répandu le contenu de la hotte sur le sol de la maison, c'était devenu des pépites! Alors, rappelez-vous bien, désormais: il ne faut pas voler le bien d'autrui!" a-t-il conclu, à ce que dit l'histoire. 
-Certaines personnes du village lui ont demandé: "Houlà! Mais avant de devenir soudain riches, vous étiez indigents, vous étiez prêts de mourir de faim, non? Est-ce qu'en fait tu n'aurais pas trouvé un trésor enterré? (Note: dans le passé, lors des périodes de troubles, les gens fortunés ne cachaient pas leurs objets précieux dans la maison, qui risquait d'être pillée; ils enterraient or, argent, bijoux… dans une cachette connue d'eux seuls, quelque part dans la forêt qui couvrait une partie de la plaine: au pied de tel arbre, etc.) Comment se fait-il donc que vous soyez ainsi riches?" ont-ils demandé. "Je n'ai pas découvert de cache aux trésors! C'est un don des bodhisattvas!" a-t-il répondu. "Et… mais… comment est-ce que les bodhisattvas te l'ont donné, ce cadeau?" Il a dit: "La façon dont les bodhisattvas nous ont aidé, je vais vous l'expliquer! Mes enfants se lamentaient: 'On a faim!' Leur mère m'a dit d'aller voler pour les nourrir, mais moi, je suis incapable de voler! La lune m'éblouissait! Quand j'étais sur le point de voler dans les récoltes d'autrui, comme je levais le bras pour cueillir un épi de maïs, j'ai vu l'ombre de mon bras; alors j'ai reculé; je ne pouvais pas voler! Comme j'étendais le bras, je me suis dit: "Je n'y peux rien! Même si les gens ne me voient pas, le ciel me voit! Je suis incapable de voler! Bodhisattvas, prenez pitié de moi! Je suis allé voler trois fois, trois fois j'ai tendu la main dans la direction du bien d'autrui; trois fois je me suis fait la même réflexion!" a-t-il dit, à ce qu'on raconte. Alors les gens ont répliqué: "Votre histoire, elle est pas vraie, allez! Tout ça, ça peut pas être vrai!" "Moi, si c'est vrai ou pas… Vous connaissez bien l'histoire de notre famille, puisqu’on est tous du même village! Auparavant, on n’avait même pas d'ustensiles de cuisine décents, oui ou non? Cessez de douter! Il arrive aux gens d'avoir bon cœur! Moi, si pauvre que je sois, j'ai plutôt bon cœur! Alors, croyez-le ou pas, c'est bien comme ça que ça s'est passé: le ciel m'a aidé, la terre m'a aidé!" Voilà ce qu’il leur a répondu, à ce qu'on raconte.
-Alors on dit que les gens sont allés raconter ça de toutes parts. Des tas de gens venaient poser des questions: "Eeeh bien! Vous, comment ça se fait que vous soyez aussi riches? - Pour de vrai, c'est en ramenant des pépites! Avec les pépites qu'on a ramenées, on a pu construire une maison; on a acheté des nouveaux vêtements pour les enfants! On a forgé des anneaux, des bracelets; on en a paré les enfants! Quand nos filles se marient, on a les moyens de leur donner une belle dot! Avec notre argent, on fait toutes sortes de bonnes choses!" Certains incrédules se sont dit: "Mais non, pas possible! Celui-là, cet homme, il a trouvé je ne sais quel trésor caché! D'où lui vient toute cette richesse, vraiment on ne sait pas!" Alors, il leur a répondu: "Je ne l'ai dénichée nulle part, cette richesse! Par pitié cessez de douter de ce que je vous dis! Les bodhisattvas du ciel et de la terre, ils voient tout de ce qu'on fait. Je me suis mis en chemin pour voler dans les champs; or il y a un esprit dans le ciel; il y a un esprit sur terre; ça ne se fait pas de voler, je me rappelais sans cesse que je ne dois pas commettre de mauvaises actions! Voilà comment les bodhisattvas m'ont donné la richesse!" Alors, les gens ont fini par se dire: "Eeeh! C’est bien vrai qu’il n'y a pas de voleur dans cette affaire! Suivons donc son bon exemple!" Autrefois, quand quelqu'un avait des poules, il arrivait qu'on les lui vole! Quand il avait un porcelet, il arrivait qu'on le lui vole! Quand il avait une mule, il arrivait qu'on la lui vole! En pleine nuit, vrai de vrai, il y avait quantité de voleurs! Par la suite, à force que cette homme-là raconte encore et encore et encore son histoire, il n'y a plus eu de voleurs ni de gens violents. Les gens font le bien autour d’eux! Dans ce monde, l'homme est susceptible de suivre le bon exemple! L'homme habite sous le ciel ; bien qu’il habite sur terre, il n'est pas coupé du ciel! Le Ciel nous observe, la Terre nous observe! "Les gens, ils ne devraient pas agir ainsi!" se disent les bodhisattvas quand ils sont témoin de mauvaises actions. 
-Autrefois, il existait une histoire comme ça, hein! Ma grand-mère, vrai de vrai, elle nous répétait ça sans arrêt: "Même quand vous êtes en mauvaise passe, il ne faut pas voler! il ne faut pas agresser!" Autrefois, il y avait une morale comme ça! "Même si on est dans le besoin, il ne faut pas s'inquiéter! Viendra un jour où on aura en suffisance! Si on agit bien à l'égard des gens, même si à ta génération les parents sont dans la pauvreté, toi, la génération de tes enfants, ils pourront connaître une vie plus confortable! Il ne faut vraiment pas faire de mauvaises actions!" On avait l'habitude de rappeler ça sans cesse. Moi j'y ai réfléchi au fil des jours, et je me dis que ça paraît bel et bien vrai! Les voleurs, les brigands, tous ces gens-là… toi tu es très habile, tu voles des choses, tu parviens à en vivre; mais à la génération suivante, il y en a dont les enfants sont dans la misère et n'ont absolument rien! Les gens… moi j'en ai vu, hein! 
-Voilà ce qu'on racontait autrefois!
-</TRANSL>
+	<TRANSL xml:lang="fr">Traduction libre du texte « Le ciel nous regarde » :
+Il était une fois un père et une mère qui avaient beaucoup d'enfants. Et on dit qu'en cette année-là, il y a bien longtemps, ils ne mangeaient pas à leur faim. La récolte avait été mauvaise, à ce qu'on dit! Alors un jour, la mère a dit au père des enfants: « On ne peut tout de même pas continuer à affamer les enfants comme ça! Ils font pitié! Va voler quelque chose! » Le père a répondu: « Moi? J’en serais bien incapable! » La mère s'en est prise à lui: « Et pourquoi que tu pourrais pas voler? Si tu n'es pas capable de voler dans la maison de quelqu’un, va donc voler dans les champs! Dans les champs, tu ne seras pas vu! » Alors, ce jeune homme, ce père de famille, il y est allé! Il se disait: « Aïe, aïe, aïe! Rien à faire! Moi qui suis incapable de voler, on m'envoie commettre un vol! Ce soir, comment je vais bien pouvoir voler? »
+Il s'en est allé, panier au dos! Il est arrivé sur la route; on raconte qu'il y avait un fort clair de lune ce jour-là. À la lumière de la lune, il y voyait clair: il voyait sa propre ombre! Il est parvenu dans les champs. Les maisons, il ne se sentait pas capable d'y voler! Il se disposait à voler quelque chose dans les champs. Il se disait: « Ces enfants, ils ont vraiment faim! Ils font pitié! »
+Ainsi parti, il est parvenu dans les champs. Le maïs était mûr, à ce qu’on dit. C’était vers le septième ou huitième mois. Les gens qui manquaient de vivres, comme cette famille, ils n'avaient plus de provisions de la récolte précédente, et ils avaient besoin de la nouvelle récolte, n’est-ce pas! Ainsi parti pour cueillir du maïs nouveau, parvenu dans les champs, il veut cueillir des épis de maïs; il étend le bras. On dit que la lumière de la lune l'aveuglait, comme s'il s'était agi de celle du soleil. Alors il a reculé sa main. Une nouvelle fois il a étendu le bras, il a empoigné un plant de maïs; à nouveau, il a reculé sa main. « M'emparer ne serait-ce que de trois plants de maïs, j'en suis incapable! Je ne peux pas me résoudre à les arracher! Les hommes ne me voient pas, mais le ciel me regarde, le ciel est témoin de ce que je fais! Si mes enfants doivent mourir de faim, qu'ils meurent! Je ne vais pas voler autrui comme ça! » Ce que disant, il s'en est retourné, son panier vide.
+Quand il est arrivé à sa maison, sa femme avait fermé la porte. Elle avait verrouillé sa porte derrière lui lorsqu'il était parti voler de la nourriture! « Ouvre la porte! » a-t-il dit. La mère lui a ouvert la porte et a demandé: « Ce soir, tu nous ramènes quelque chose? — Hélas! Je reviens les mains vides! Je ne veux pas m'emparer des récoltes d'autres gens! Cambrioler des maisons, ce n'est pas bien; je ne veux pas non plus m'emparer de récoltes dans les champs! Comment pourrions-nous nous servir comme ça, dans les champs des autres? Ce que les gens ne voient pas, le ciel le voit! La lune brillait; je ne voulais pas prendre le maïs d'autrui! Du coup, je suis revenu! » Alors, on raconte que la mère de ses enfants a recommencé à le critiquer sans arrêt, à la maison. « Fais donc mourir de faim tes enfants! Nous, on n'a rien à manger à la maison! D'autres seraient capables d'aller voler au domicile des gens; toi, tu n'es pas capable de cambrioler une maison, alors je t'ai dit d'aller voler dehors, dans les champs où personne ne peut t'apercevoir, et tu n'y es pas allé! » Alors, qu'est-ce qu'il pouvait bien répondre, notre jeune homme, le papa? Il n'a rien dit; il se tenait assis; et les enfants disaient: « Papa, j'ai… j'ai faim! Maman, j'ai faim! » Alors, la mère a dit: « Si vous avez faim, buvez donc de l'eau froide! Votre père ne vous propose que de l'eau froide, alors va pour de l'eau froide! Quant à voler, il n'y est pas disposé! »
+Une journée de plus a passé ainsi, la faim au ventre. Le lendemain, ils ont à nouveau mangé un peu de verdure bouillie. « Si ce soir tu n'as pas quelque chose à ramener, ne t'avise pas de revenir! Ces enfants, ils n'en peuvent vraiment plus, ils font pitié! Ils ont terriblement faim! » a dit la mère. Le jeune père de famille s'en est à nouveau allé tout pensif, au clair de la lune. « Non, non, tant pis! si on doit mourir, qu'on meure! même si toute la famille doit mourir de faim, moi, dans mon propre cœur, je serai resté honnête! Je n'arriverai pas à voler! » Ce que disant, il s'en est retourné.
+Alors on dit que la mère lui a à nouveau fait des reproches, quand il est revenu à la maison! « Toi, monsieur le père, tu es un pleutre! Un irresponsable! Tu es un jeune homme; les autres, eux, quand ils sont jeunes, ils savent prendre les choses en main, ils savent agir: ils sont capables d'assassiner des gens! d'extorquer! de voler! » Elle s'est emportée contre lui, lui disant: « Toi, t'es pas un homme! » Elle a demandé au père de lui répondre. Mais il n'a rien dit: il s'est tenu assis en silence.
+On dit qu'il y avait dans la famille une jeune fille déjà grande. « Maman, si papa est comme ça… s’il ne veut pas voler… tu vois, il est fondamentalement incapable de voler! Puisqu'il ne veut pas, laissons tomber! Si on doit mourir de faim, eh bien mourons donc de faim! Comme dit papa: ce que les gens ne voient pas, le ciel le voit! Les dieux vont nous venir en aide! » Alors, la mère a dit à nouveau au père: « Retournes-y ce soir; si ce soir tu reviens les mains vides, moi, cette fois-ci, je ne t'ouvrirai pas la porte! » Alors, en ce troisième soir, on dit qu'il y est allé à nouveau, le papa! Ce soir-là, le père a dit à sa grande fille: « Ce soir, ta mère m'oblige à revenir avec quelque chose. Elle nous accable de sarcasmes à longueur de journée, comme tu sais bien; ce soir, je dois absolument trouver quelque chose à rapporter à la maison! Vous faites vraiment pitié, vous autres enfants affamés! » Ce que disant, il s'en est allé. Il a marché, marché, et il est à nouveau parvenu au champ de maïs. La lumière de la lune l'aveuglait, la tête lui bourdonnait à le faire tituber ! « Impossible, impossible! Ce soir, je ne vais pas cueillir la récolte d'autrui! Je vais mentir à la mère de mes enfants! » s'est-il dit.
+Au bord de l'eau, de la rivière Lhijji /ɬi˧dʑɯ˩/, qui traverse la plaine de Yongning, il a pris des pierres grosses comme ça, parmi celles que la rivière avait charriées jusque-là. Des cailloux comme ça, tout blancs, il y en a des quantités. Il en ramassé quelques-uns, il les a mis dans son panier, et il s'en est retourné. « Hou là là! Ce que les gens ne voient pas, le ciel le voit! Je ne veux pas voler de nourriture! Ce soir, je vais rapporter quelques cailloux! Allez, je repars! »
+Il n'avait ramassé que quelques cailloux, au départ. Il a marché, marché, marché… et quand il est parvenu à la maison, son fardeau était devenu lourd, à ce que dit l'histoire! Son panier était devenu très pesant ; le panier était plein, à ce que dit l'histoire! Arrivé devant chez lui, il ne tenait plus droit! « Ouvre la porte! » a-t-il dit; mais la mère, elle n'est pas venue ouvrir. Il a répété: « Ouvre, ouvre! » Alors, elle est venue lui ouvrir. Elle lui a demandé: « Ce soir, tu nous ramènes quelque chose? — Oui! Ce soir, j'ai enfin trouvé quelque chose! Ouvre la porte! — Et qu'est-ce que tu as trouvé? » lui a-t-elle demandé. « Ce que j'ai trouvé? Ouvre-moi la porte! » a-t-il répondu.
+Lorsqu'elle a eu ouvert la porte, il a dit: « Ce soir, j'ai trouvé des pépites! » Ce que disant, il a renversé sa hotte sur le sol de la cuisine, brrouuum! et les cailloux s'étaient bel et bien transformés en pépites d’argent!
+C'est ainsi: il ne faut pas prendre l'habitude de voler! Il ne faut pas prendre l'habitude d'opprimer les gens! Le ciel nous vient en aide lorsqu'on est réellement dans le besoin. On racontait, jadis, que le ciel pouvait fait des dons comme celui-ci, n'est-ce pas! Cet homme-là, ce sont les esprits du ciel qui lui ont donné la fortune, à ce qu'on raconte! Ce sont réellement les bodhisattvas qui sont source de toute richesse!
+Le père a pris la parole pour résumer aux membres de sa famille ce qui était arrivé: « Nous autres, si démunis qu'on soit, il ne faut pas voler le bien d'autrui, vous avez bien compris, hein? J'étais démuni, auparavant; même démuni, je n'étais jamais allé voler! et voilà que votre mère me répétait à longueur de journée: “Alors comme ça tu n'es toujours pas allé voler quelqu'un! tu n'es toujours pas allé extorquer de l'argent à quelqu'un!” Or moi je suis tout simplement incapable de voler! Quand je suis allé voler, la lune brillait intensément, je sentais le regard des boddhisattvas! Alors je suis rentré à la maison. Trois jours ayant passé, je n'ai plus eu le choix! Là-bas au bord de l'eau, j'ai ramassé une hotte de pierres », a-t-il raconté. « Je suis reparti en emportant une hotte de pierres; votre mère m'a demandé: “Tu nous ramènes quelque chose, ce coup-ci?” Je lui ai répondu: “Oui! Ce soir, j'ai trouvé quelque chose! — Et qu'as tu donc trouvé?” a-t-elle demandé. “Ce soir, j'ai trouvé des pépites!” j'ai dit. Alors elle a ouvert la porte; et quand on a répandu le contenu de la hotte sur le sol de la maison, c'était devenu des pépites! Alors, rappelez-vous bien, désormais: il ne faut pas voler le bien d'autrui! » a-t-il conclu, à ce que dit l'histoire.
+Certaines personnes du village lui ont demandé: « Houlà! Mais avant de devenir soudain riches, vous étiez indigents, vous étiez pas loin de mourir de faim, non? Est-ce qu'en fait tu n'aurais pas trouvé un trésor enterré? » (Note: dans le passé, lors des périodes de troubles, les gens fortunés ne cachaient pas leurs objets précieux dans la maison, qui risquait d'être pillée; ils enterraient or, argent, bijoux… dans une cachette connue d'eux seuls, quelque part dans la forêt qui couvrait une partie de la plaine: au pied de tel arbre, etc.) « Comment se fait-il donc que vous soyez ainsi riches? » ont-ils demandé. « Je n'ai pas découvert de cache aux trésors! C'est un don des bodhisattvas! » a-t-il répondu. « Et… mais… comment est-ce que les bodhisattvas te l'ont donné, ce cadeau? » Il a dit: « La façon dont les bodhisattvas nous ont aidés, je vais vous l'expliquer! Mes enfants se lamentaient: “On a faim!” Leur mère m'a dit d'aller voler pour les nourrir, mais moi, je suis incapable de voler! La lune m'éblouissait. Quand j'étais sur le point de voler dans les récoltes d'autrui, comme je levais le bras pour cueillir un épi de maïs, j'ai vu l'ombre de mon bras; alors j'ai reculé; je ne pouvais pas voler! Comme j'étendais le bras, je me suis dit: “Je n'y peux rien! Même si les gens ne me voient pas, le ciel me voit! Je suis incapable de voler! Bodhisattvas, prenez pitié de moi!” Je suis allé voler trois fois, trois fois j'ai tendu la main dans la direction du bien d'autrui; trois fois je me suis fait la même réflexion! » a-t-il dit, à ce qu'on raconte. Alors les gens ont répliqué: « Votre histoire, elle est pas vraie, allez! Tout ça, ça peut pas être vrai! — Moi, si c'est vrai ou pas… Vous connaissez bien l'histoire de notre famille, puisqu’on est tous du même village! Auparavant, on n’avait même pas d'ustensiles de cuisine décents, oui ou non? Cessez de douter! Il arrive aux gens d'avoir bon cœur! Moi, si pauvre que je sois, j'ai plutôt bon cœur! Alors, croyez-le ou pas, c'est bien comme ça que ça s'est passé: le ciel m'a aidé, la terre m'a aidé! » Voilà ce qu’il leur a répondu, à ce qu'on raconte.
+Alors on dit que les gens sont allés raconter ça de toutes parts. Des tas de gens venaient poser des questions: « Eeeh bien! Vous, comment ça se fait que vous soyez aussi riches? — Pour de vrai, c'est en ramenant des pépites! Avec les pépites qu'on a ramenées, on a pu construire une maison; on a acheté des nouveaux vêtements pour les enfants! On a forgé des anneaux, des bracelets; on en a paré les enfants! Quand nos filles se marient, on a les moyens de leur donner une belle dot! Avec notre argent, on fait toutes sortes de bonnes choses! » Certains incrédules se sont dit: « Mais non, pas possible! Celui-là, cet homme, il a trouvé je ne sais quel trésor caché! D'où lui vient toute cette richesse, vraiment on ne sait pas! » Alors, il leur a répondu: « Je ne l'ai dénichée nulle part, cette richesse! Par pitié cessez de douter de ce que je vous dis! Les bodhisattvas du ciel et de la terre, ils voient tout de ce qu'on fait. Je me suis mis en chemin pour voler dans les champs; or il y a un esprit dans le ciel; il y a un esprit sur terre; ça ne se fait pas de voler, je me rappelais sans cesse que je ne dois pas commettre de mauvaises actions! Voilà comment les bodhisattvas m'ont donné la richesse! »
+Alors, les gens ont fini par se dire: « Eeeh! C’est bien vrai qu’il n'y a pas de voleur dans cette affaire! Suivons donc son bon exemple! »
+Autrefois, quand quelqu'un avait des poules, il arrivait qu'on les lui vole! Quand il avait un porcelet, il arrivait qu'on le lui vole! Quand il avait une mule, il arrivait qu'on la lui vole! En pleine nuit, vrai de vrai, il y avait quantité de voleurs! Par la suite, à force que cette homme-là raconte encore et encore et encore son histoire, il n'y a plus eu de voleurs ni de gens violents. Les gens font le bien autour d’eux! Dans ce monde, l'homme est susceptible de suivre le bon exemple. L'homme habite sous le ciel ; bien qu’il habite sur terre, il n'est pas coupé du ciel! Le Ciel nous observe, la Terre nous observe! « Les gens, ils ne devraient pas agir ainsi! » se disent les bodhisattvas quand ils sont témoins de mauvaises actions.
+Autrefois, il existait une histoire comme ça, hein! Ma grand-mère, vrai de vrai, elle nous répétait ça sans arrêt: « Même quand vous êtes en mauvaise passe, il ne faut pas voler! il ne faut pas agresser! » Autrefois, il y avait une morale comme ça! « Même si on est dans le besoin, il ne faut pas s'inquiéter! Viendra un jour où on aura en suffisance! Si on agit bien à l'égard des gens, même si à ta génération les parents sont dans la pauvreté, toi, la génération de tes enfants, ils pourront connaître une vie plus confortable! Il ne faut vraiment pas faire de mauvaises actions! » On avait l'habitude de rappeler ça sans cesse. Moi j'y ai réfléchi au fil des jours, et je me dis que ça paraît bel et bien vrai! Les voleurs, les brigands, tous ces gens-là… toi tu es très habile, tu voles des choses, tu parviens à en vivre; mais à la génération suivante, il y en a dont les enfants sont dans la misère et n'ont absolument rien! Les gens… moi j'en ai vu, hein!
+Voilà ce qu'on racontait autrefois!</TRANSL>
+	<TRANSL xml:lang="en">Free translation of the full text:
+Once upon a time, there was a father and a mother who had lots of children. And it is said that in that year, a long time ago, they did not have enough to eat. The harvest had failed, so they say! So one day, the mother said to the children's father: “We can't go on starving the children like this! They're pitiful! Go and steal something!” The father replied: “I couldn't do that!” The mother had a go at him: “And why can't you steal? If you can't steal from someone's house, go and steal from the fields! You won't be seen in the fields!” So this young man, this father of a family, went there! He said to himself: “Ouch, ouch, ouch! There's nothing I can do! I'm incapable of stealing, and I'm sent to commit a robbery! How am I going to steal tonight?”
+He left, with his basket on his back. He arrived on the road. The story goes that there was a lot of moonlight that day. In the moonlight, he could see clearly: he could see his own shadow! He reached the fields. He didn't feel able to rob someone’s house, so he thought he would steal something from the fields instead. He said to himself: “These children are really hungry! They're pitiful!”
+So off he went into the fields. The corn was ripe, they say. It was around the seventh or eighth month. People who were short of food, like this family, had nothing left in store from the previous harvest, and they needed the new crop, didn't they! So he set off to pick some new corn. When he got to the fields he wanted to pick some ears of corn, so he stretched out his arm. It is said that the light of the moon blinded him, as if it had been the light of the sun. So he drew back his hand. Once again he stretched out his arm, grabbed a corn plant; once again he drew back his hand. “I can't take even three ears of sweetcorn! I can't bring myself to uproot them! Men can't see me, but the heavens are watching me, the heavens are witness to what I'm doing! If my children have to die of hunger, let them die! I'm not going to rob others like that!” With that said, he set off again, his basket empty.
+When he arrived home, his wife had closed the door. She had locked the door behind him when he had gone to steal food! “Open the door”, he said. The mother opened the door and asked: “Tonight, are you bringing us back something? — Alas! I'm coming back empty-handed! I don't want to take other people's crops! Burglarizing houses is no good, and I don't want to take crops from the fields either! How can we just help ourselves to other people's fields? What people can't see, the heavens can! The moon was shining; I didn't want to take other people's corn! So I came back”. The story goes that his children's mother began to criticize him again and again at home. “Make your children starve! We've got nothing to eat at home! Others would be able to go and steal from people's homes; you're not capable of breaking into a house, so I told you to go and steal outside, in the fields where no one can see you, and you didn't go!” So what could our young man, the father, say? He said nothing. He just sat there while the children were saying: “Daddy, I'm hungry! Mummy, I'm hungry!” Then the mother said: “If you're hungry, drink some cold water! Your father only offers you cold water, so go for cold water! As for stealing, he's not prepared to do that!”
+Another day went by like that, with hunger in their bellies. The next day, they again ate some boiled greens. “If you don't have anything to take home tonight, don't you dare come back! These children can't take it any more, they're pitiful! They're terribly hungry”, said the mother. The young father walked away again, pensive, in the moonlight. “Even if the whole family has to die of hunger, in my heart of hearts I'll stay honest! I won't be able to steal!” With that, he turned and walked away.
+Then it is said that the mother reproached him again when he returned home. “You, father, you're a coward! You're irresponsible! You're a young man; the others, when they're young, they know how to take things in hand, they know how to act: they're capable of murdering people, extorting money, stealing!” She raged at him, saying: “You're not a man!” She asked the father to reply. But he said nothing: he just sat there in silence.
+It is said that there was a young girl in the family who was already grown up. “Mum, if Dad's like that... if he doesn't want to steal... you see, he's fundamentally incapable of stealing! Since he doesn't want to, let's forget it! If we have to starve, let's starve! As Dad says: what people can't see, the heavens can! The gods will come to our aid!” But the mother said to the father again: “Go again tonight. If you come back empty-handed tonight, I won't open the door for you this time!”
+So, on this third evening, it is said that the father went again. That evening, the father said to his grown-up daughter: “Tonight, your mother is forcing me to come back with something. She taunts us all day long, as you know; tonight I absolutely must find something to bring home! You hungry children really are pitiful!” With that, he set off. He walked and walked and came to the sweetcorn field again. The moonlight blinded him, and his head was buzzing, making him stagger. “No way, no way! Tonight I'm not going to pick someone else's crop! I'm going to lie to the mother of my children!”
+At the water's edge, on the Lhijji /ɬi˧dʑɯ˩/ river [which crosses the Yongning plain], he picked up some stones this big from among those that the river had carried along. There are lots of white stones like this. He picked up a few, put them in his basket and went back. “Ah well... What people can't see, heaven can! I don't want to steal food! Tonight, I'm going to bring back a few pebbles! All right, let’s walk back!”
+He had only collected a few pebbles at the start. He walked and walked and walked... and when he got home, his burden had become heavy, so the story goes! His basket had become very heavy; the basket was full, so the story goes! When he got to his house, he could no longer stand up straight! “Open the door”, he said. But the mother didn't come to open the door. He repeated: “Open up, open up!” So she came and opened the door. She asked him: “Are you bringing us anything tonight? — Yes! Tonight, I've finally found something! Open the door! — And what did you find?” she asked him. “What did I find? Open the door,” he replied.
+When she had opened the door, he said: “Tonight, I've found nuggets!” As he said this, he tipped his hood onto the kitchen floor, and the pebbles had indeed turned into silver nuggets!
+That's how it is: one should never get into the habit of stealing. We mustn't get into the habit of oppressing people, either. When we are really in need, Heaven comes to our aid. It used to be said that heaven could give gifts like this! According to the story, it was the sky spirits who gave this man his fortune! It really is the bodhisattvas who are the source of all wealth!
+The father took the floor to sum up what had happened to his family: “No matter how poor we are, we mustn't steal other people's property, you understand that, don't you? I used to be destitute; but even though I was destitute, I'd never gone out stealing! Your mother was nagging me all day long: ‘So you still haven't gone out stealing, have you?’ But I'm simply incapable of stealing! When I went to steal, the moon was shining brightly, I could feel the gaze of the boddhisattvas! So I went home. Three days later, I had no choice! There by the water, I picked up a basket of stones”, he recounted. “Your mother asked me: ‘Are you bringing us anything this time?’ I replied: ‘Yes, tonight I've found something! — And what did you find?’ she asked. ‘Tonight, I found nuggets!’ I said. So she opened the door, and when we scattered the contents of the hood on the floor of the house, they had become nuggets! So remember, from now on: you mustn't steal other people's property”, he concluded.
+Some people in the village asked him: “Hey, but before you suddenly became rich, you were destitute and on the verge of starvation, weren't you? What really happened is that you came across a buried treasure, didn’t you?” (Note: in the past, during periods of unrest, wealthy people did not hide their precious objects in the house, which risked being looted; they buried gold, silver, jewels... in a hiding place known only to them, somewhere in the forest that still covered part of the plain at the time: at the foot of such and such a tree, etc.) “How come you're so rich?” they asked. “I haven't discovered a treasure chest! It's a gift from the bodhisattvas”, he replied. “And... very well, but... how did the bodhisattvas give you this gift?” He said: “I'll tell you how the bodhisattvas helped us. My children were lamenting: ‘We're hungry!’ Their mother told me to go and steal to feed them, but I can't steal! The moon dazzled me. When I was about to steal from other people's crops, as I lifted my arm to pick an ear of corn, I saw the shadow of my arm; so I stepped back; I couldn't steal! As I stretched out my arm, I said to myself: ‘I can't help it! Even if people can't see me, the heavens can! I cannot steal! Bodhisattvas, have pity on me!’ Three times I tried to steal, three times I stretched out my hand towards other people's property; three times I came to the same conclusion”, he said. People replied: “Your story isn't true, come on! It can't all be true! — We're all from the same village, so you know our family history well, don’t you. In the old days, we didn't even have decent cooking utensils, right? Stop doubting! Sometimes people have a good heart! And me, as poor as I am, I've got a pretty good heart. So, believe it or not, that's how it happened: heaven helped me, earth helped me!” That's how the story goes.
+So they say that people spread this story everywhere. Lots of people came to ask questions: “Eeeh well! How come you're so rich? — It's by bringing home nuggets, it really is so! With the nuggets we brought back, we were able to build a house. We bought new clothes for the children. We forged rings and bracelets and adorned the children with them. When our daughters get married, we can afford to give them a nice dowry. We do all sorts of good things with our money!”
+Some unbelievers said to themselves: “No, that's not possible! That man has found some hidden treasure! We really don't know where he got all this wealth!” So he replied: “Please stop doubting what I'm telling you! The bodhisattvas of heaven and earth see everything we do. I set out to steal in the fields; but there's a spirit in the sky; there's a spirit on earth; it's not right to steal, I kept reminding myself that I mustn't commit bad deeds. That's why the bodhisattvas gave me wealth!”
+So people ended up saying to themselves: “Eeeh! It's true that there's no thief in this case! Let's follow his good example!”
+In the old days, when someone had chickens, they were sometimes stolen! When he had a piglet, sometimes it was stolen! When he had a mule, sometimes it was stolen! In the middle of the night, there were plenty of thieves! After that, when that man told his story again and again and again, there were no more thieves and no more violent people. People do good around them! In this world, people are likely to follow a good example. Man lives under the sky; although he lives on earth, he is not cut off from heaven! Heaven is watching us, Earth is watching us! When they witness bad deeds, the bodhisattvas think: “People shouldn't act like this”.
+In the old days, there was a story like that, wasn't there? My grandmother actually used to repeat this constantly: “Even when you're in a bad way, you mustn't steal, you mustn't rob!” In the old days, there was a moral like that! “Even if you're in need, don't worry! The day will come when you'll have enough! If we treat people well, even if your parents are poor in your generation, you, your children's generation, will be able to live a more comfortable life! You really mustn't do bad things!” They used to say that all the time. I've thought about it over time, and I've come to believe that it really does seem true! Thieves, robbers, all those people... you're very clever, you steal things, you manage to make a living out of it; but in the next generation, there are some whose children are destitute and have absolutely nothing! People... I've seen them!
+That's what they used to say!
+[Adapted from the French whole-text translation, on the basis of a translation automatically generated by DeepL (deepl.com) and checked manually. Alexis Michaud assumes full responsibility for the final text.]</TRANSL>
 	<TRANSL xml:lang="zh">《人们看不见的，天上的神还是都能看到的》（整篇整理翻译）
 从前，有一对夫妻。传说他们的孩子很多。那年，庄稼收成不好，他们的饭不够吃。一天晚上，孩子妈跟孩子爸说：“我们不能让孩子们这样饿着下去！这些孩子很可怜！你去偷人家一些吃的东西吧！”孩子爸回答：“我不可能偷别人的东西！”孩子妈就骂他说：“你怎么不能偷东西？你不敢在人家里偷的话，那你要在田里偷啊！家里，有人在。田里，人家看不到你！”那个孩子爸就去了。他背上背篓，边走边想：“啊呀！没有办法！我这个人不能偷东西，还非得让我去偷东西！我今天晚上要怎么偷东西呢？”
 那天晚上，传说月亮是很亮的，闪闪发光。他走着走着，就在月光中看见自己的影子，心里想着：“孩子们，真饿了！可怜巴巴的！”所以他就去了人家的田里。正是七、八月份新包谷的收获季节。
@@ -9013,7 +9039,7 @@ Voilà ce qu'on racontait autrefois!
 那孩子爸，又心事重重地去了。月亮还是很亮！“不，不，算了！即使要死，就死吧！即使全家饿死，我自己也要问心无愧！我不能偷别人的！”说着，他就回去了。
 他回家的时候，孩子妈又骂他了。“你啊，没有胆量！不负责任！你是个小伙子！别人，什么都干！人家会杀人！会抢！会偷！你不是真正的男人！”她让孩子爸回答她。但孩子爸还是什么也不说。
 传说家里有一个大的女孩，是大孩子了。她说：“妈妈，爸爸是这样的人，他不要偷，是因为他真的根本不会偷别人的！他不偷就算了！咱们要饿死，就饿死了吧！像爸爸所说：人看不见，老天能看见的！天神会帮我们的！”但孩子妈又跟孩子爸说了：“你今天再去！如果今天空手回来”，她说，“我今晚不会给你开门的！”所以，第三天的那个晚上，传说那个孩子爸又去了。他对大女孩说：“爸爸今天晚上不管得到什么东西，得拿一个东西回来。咱们俩个一天到晚被你妈骂！你们太可怜了！”
-走着走着，他又到了玉米田。月亮闪闪发亮，他就想：“不行，不行！我今天晚上不能摘别人的庄稼！我只好骗孩子妈了！”在/ɬi˧dʑi˩/那条河边，他捡起来了一些白白的石头，放到背篓里，就回去了。“啊呀！人看不见的，天能看见的！我是不能摘别人的！今天晚上，我就拿回去几块石头吧！”于是他捡了一些石头，放在背篓里。捡的时候，只捡了一点。他在路上走啊走，等到家的时候，扁担变得很沉很沉！背篓沉得很，他都站不直了！
+走着走着，他又到了玉米田。月亮闪闪发亮，他就想：“不行，不行！我今天晚上不能摘别人的庄稼！我只好骗孩子妈了！”在Lhijji /ɬi˧dʑɯ˩/那条河边，他捡起来了一些白白的石头，放到背篓里，就回去了。“啊呀！人看不见的，天能看见的！我是不能摘别人的！今天晚上，我就拿回去几块石头吧！”于是他捡了一些石头，放在背篓里。捡的时候，只捡了一点。他在路上走啊走，等到家的时候，扁担变得很沉很沉！背篓沉得很，他都站不直了！
 “开门！”他说。可是传说孩子妈不来开门。“开门！”他说。于是孩子妈来开门了。她问：“你今天晚上得到了东西吗？”“今天晚上，我得到了……开门啊！”他说。“你得的是什么东西？”她问。“你先开门吧！”他说。她开了门以后，他说：“我今天晚上找到了银块！”说着，他把背篓倒在地上：隆隆隆！而石头确实变成银块了！
 的确是这样：不要老想偷别人的，不要老想着抢别人的！老话说：天会帮助人的。那个人，就是菩萨帮助他的！人所能有的一切东西，都是菩萨给的！是这样传说的！
 孩子爸对家人说：“啊呀！咱们无论多么贫穷，不要偷别人的，知道了吗？我以前很贫穷，虽然很贫穷但我没去过别人的地方偷东西！你们妈一直跟我说： ‘你怎么还没去偷东西、还没去抢人？’，整天都在骂我，但其实我不能偷别人的！我去偷别人东西的时候，月亮很亮！菩萨看着！于是我回来了！过了三天，我就没办法了！我在水边捡了一背篓的石头，背着石头回家。到了家里，你们妈问了：‘你今天晚上拿回来了东西吗？’因为我说‘捡到了银块！’，所以你们妈开门了。结果石头真变成了银块！所以咱们今后要记住：别偷别人东西！”
