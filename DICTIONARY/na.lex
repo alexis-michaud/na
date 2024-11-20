@@ -338,6 +338,33 @@
 \nt <type="hist" print="n" langue="fra"> Vérifié en août 2014: non nasalisé. Vérifié en 2024: on ne peut dire |fv{æ˩gv̩˩mæ˩˥}, seulement dans l'exemple |fv{æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥}.
 \ton L+H#
 \lc æ˩gv̩˩mæ˩qo˥
+\sy æ˩gv̩˩-mæ˩
+\so F4
+\pdv nɑ˧α
+\de Handle (stilt) of the ard, used to control the ard's direction and the furrow's depth.
+\ge ard_handle
+\dn 犁把，用于控制犁的方向和犁沟的深度
+\gn 犁把
+\df Mancheron de l'araire, manche de l'araire. Il permet de contrôler l'orientation de l'araire et la profondeur du sillon.
+\gf mancheron
+\xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
+\xe 〜 |fg{dem} |fg{clf}
+\xn 〜 |fg{指示代词} |fg{量词}：那个犁把
+\xf 〜 |fg{dem} |fg{clf}
+\xc PHONO
+
+\lx æ˩gv̩˩-mæ˩
+\or aeggu mae
+\ps n
+\sd <langue="fra"> agriculture
+\sd <langue="eng"> agriculture
+\nt <type="hist" langue="fra" print="n"> Vérifié en août 2014: non nasalisé. Vérifié en 2024: on ne peut dire |fv{æ˩gv̩˩mæ˩˥}, seulement dans l'exemple |fv{æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥}.
+\nt <dom="usage" langue="fra"> Le nom |fv{æ˩gv̩˩mæ˩˥} n'a (à date de 2024) été observé que dans l'expression |fv{æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥}.
+\nt <dom="usage" langue="eng"> The noun |fv{æ˩gv̩˩mæ˩˥} has (as of 2024) only been observed in the expression |fv{æ˩gv̩˩-mæ˩ ʑi˩-hĩ˥}.
+\nt <dom="usage" langue="cmn"> 截至 2024 年，|fv{æ˩gv̩˩mæ˩˥}这个名词只出现在|fv{æ˩gv̩˩-mæ˩ʑi˩-hĩ˥}那个短语中。
+\ton L
+\sy æ˩gv̩˩-mæ˩qo˥
+\lc æ˩gv̩˩mæ˩˥
 \so F4
 \pdv nɑ˧α
 \de Handle (stilt) of the ard, used to control the ard's direction and the furrow's depth.
@@ -350,11 +377,6 @@
 \xe the person holding the handle of the ard
 \xn 抓着犁把的人
 \xf la personne qui tient le mancheron de l'araire
-\xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
-\xn 〜 |fg{指示代词} |fg{量词}：那个犁把
-\xf 〜 |fg{dem} |fg{clf}
-\xc PHONO
 
 \lx ɬɬɬ
 \or lhhh
