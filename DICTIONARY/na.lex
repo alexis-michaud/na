@@ -925,8 +925,7 @@
 \or awo
 \ps n
 \nt <type="hist" print="n" langue="fra"> D'abord noté ɑ˧ʁu˥ (en 2006), puis ɑ˩ʁu˥ (en 2007). La réécoute des enregistrements du 12/11/2007, jointe à des mesures de fréquence fondamentale, amène à conclure que c'est un ton d6 (LM) et non d7 (MH).
-\nt <type="hist" print="n" langue="fra"> D'abord noté ‡ɑ˧ʁu˥ hĩ˥, et: ‡ɑ˧ʁu˥ ɻæ˩.
-\nt <type="hist" print="n" langue="fra"> /ɑ˩ʁo˧-ʑi˧dv̩˧/ avait d'abord été noté /‡ɑ˧ʁu˥ʑi˧dv̩˧/ (2006), puis /‡ɑ˩ʁu˥ʑi˥dv̩˥/, puis /‡ɑ˩ʁu˧ʑi˧dv̩˧/ (2008), puis /ɑ˩ʁo˧-ʑi˩dv̩˩/.
+\nt <type="hist" print="n" langue="fra"> D'abord noté ‡ɑ˧ʁu˥ ɻæ˩.
 \ton LM
 \lc ɑ˩ʁo˥
 \sn 1
@@ -936,9 +935,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Home.
+\de Home. Characterized by Fu Maoji as “a building, a house, that is one's home”.
 \ge home
-\dn 家、家里
+\dn 家、家里。傅懋勣形容为：“当一个人的家的一所房子”。
 \gn 家
 \df Le foyer, la maison. Caractérisation par Fu Maoji (1983:24): «désigne “la maison”, là où il y a une construction, dans le sens de “chez soi”.»
 \gf foyer
@@ -976,10 +975,6 @@
 \xf Ce que les Na dénomment «bâtiment»; ce qu'ils appellent «la bâtisse principale»; ce foyer, dans lequel nous voici assis…
 \txt Housebuilding.2
 \doi 10.24397/pangloss-0004449#S2
-\xv ɑ˩ʁo˧-ʑi˧dv̩˧
-\xe The home, the household: where one is at home. This concept covers the various places where the family has settled: it can consist of several dwellings built or acquired by members of the immediate family, not necessarily in the same neighbourhood or even in the same region.
-\xn 家：能看作自己家的房子们。这一概念涵盖了家庭定居的不同房子：直系亲属建造或购置了的住所，不一定在同一地点。
-\xf Le foyer, la maisonnée: là où on est chez soi. Cette notion recouvre les divers lieux où la famille s'est établie: il peut s'agir de plusieurs logements construits ou acquis par les membres de la famille proche, pas nécessairement dans la même localité.
 \sn 2
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -997,12 +992,47 @@
 \xe my family, my lineage, my kin
 \xn 我的家人
 \xf ma famille, ma lignée
-\xv ɑ˩ʁo˧-hĩ#˥
-\xe Members of the family: relatives who live together under the same roof. They can have several houses: what matters is not that they are always in one and the same place, but that they are – or can be – together under the same roof. The notion by and large corresponds to that of lineage.
-\xn 家人、住在一起的家人、家庭成员：共同生活在同一屋檐下的亲属。他们可以有几栋房子：重要的不是他们总是在同一个地方，而是他们在一起在同一个屋檐下，或者可以在一起在同一个屋檐下。这个概念大体上与血缘关系的概念一致。
-\xf Membres de la famille, qui vivent ensemble sous le même toit. Ils peuvent avoir plusieurs maisons: l'important n'est pas qu'ils soient toujours au même endroit, mais qu'ils soient – ou puissent être – ensemble sous le même toit. La notion correspond globalement à celle de lignée.
-\xc <dom="phono" langue="fra"> Schéma tonal régulier en composition, avec en entrée les tons LM et #H.
-\xc <dom="phono" langue="eng"> The tone pattern is regular, given the input tones LM and #H for a determinative compound noun.
+
+\lx ɑ˩ʁo˧-hĩ#˥
+\or awo hin
+\mr ɑ˩ʁo˧
+\mr hĩ˥
+\ps n
+\nt <type="hist" print="n" langue="fra"> D'abord noté ‡ɑ˧ʁu˥ hĩ˥.
+\ton LM+#H
+\lc ɑ˩ʁo˧hĩ˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\nt <dom="phono" langue="fra"> Schéma tonal régulier en composition, avec en entrée les tons LM et #H.
+\nt <dom="phono" langue="eng"> The tone pattern is regular, given the input tones LM and #H for a determinative compound noun.
+\pdv v̩˧
+\de Members of the family: relatives who live together under the same roof. They can have several houses: what matters is not that they are always in one and the same place, but that they are – or can be – together under the same roof. The notion by and large corresponds to that of lineage.
+\ge family_members
+\dn 家人、住在一起的家人、家庭成员：共同生活在同一屋檐下的亲属。他们可以有几栋房子：重要的不是他们总是在同一个地方，而是他们在一起在同一个屋檐下，或者可以在一起在同一个屋檐下。这个概念大体上与血缘关系的概念一致。
+\gn 家人
+\df Membres de la famille, qui vivent ensemble sous le même toit. Ils peuvent avoir plusieurs maisons: l'important n'est pas qu'ils soient toujours au même endroit, mais qu'ils soient – ou puissent être – ensemble sous le même toit. La notion correspond globalement à celle de lignée.
+\gf membres_de_la_famille
+
+\lx ɑ˩ʁo˧-ʑi˧dv̩˧
+\or awo xxiddu
+\mr ɑ˩ʁo˧
+\mr ʑi˧dv̩˧
+\ps n
+\nt <type="hist" print="n" langue="fra"> avait d'abord été noté /‡ɑ˧ʁu˥ʑi˧dv̩˧/ (2006), puis /‡ɑ˩ʁu˥ʑi˥dv̩˥/, puis /‡ɑ˩ʁu˧ʑi˧dv̩˧/ (2008), puis /ɑ˩ʁo˧-ʑi˩dv̩˩/.
+\ton LM-
+\lc ɑ˩ʁo˧ʑi˧dv̩˧
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\so F4
+\de The home, the household: where one is at home. This concept covers the various places where the family has settled: it can consist of several dwellings built or acquired by members of the immediate family, not necessarily in the same neighbourhood or even in the same region.
+\ge home/household
+\dn 家：能看作自己家的房子们。这一概念涵盖了家庭定居的不同房子：直系亲属建造或购置了的住所，不一定在同一地点。
+\gn 家
+\df Le foyer, la maisonnée: là où on est chez soi. Cette notion recouvre les divers lieux où la famille s'est établie: il peut s'agir de plusieurs logements construits ou acquis par les membres de la famille proche, pas nécessairement dans la même localité.
+\gf foyer
 
 \lx æ̃˩ʁv̩˩
 \sf <nb="B"> 394
