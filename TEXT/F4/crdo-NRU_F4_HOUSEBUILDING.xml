@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_HOUSEBUILDING" xml:lang="nru">
 <HEADER>
-<TITLE xml:lang="eng">Building a Na house</TITLE>
+<TITLE xml:lang="en">Building a Na house</TITLE>
 <TITLE xml:lang="cmn">《建房子的过程》</TITLE>
-<TITLE xml:lang="fra">La construction d'une maison</TITLE>
+<TITLE xml:lang="fr">La construction d'une maison</TITLE>
 <TITLE xml:lang="nru">Naq bbu xxikhua jjo tee niq ceeq niq</TITLE>	
 <SOUNDFILE href="crdo-NRU_F4_HouseBuilding_AUDIO.wav"/>
 </HEADER>
@@ -15454,7 +15456,7 @@
 	<TRANSL xml:lang="zh">我在过去参加过建房子的过程！木料是得扛的！在过去，这里（指着肩膀）会发炎的！</TRANSL>
 		<W>
 			<FORM>ə˧ʝi˧-ʂɯ˥-ʝi˩</FORM>
-			<TRANSL xml:lang="fr">autrefois</TRANSL>,
+			<TRANSL xml:lang="fr">autrefois</TRANSL>
 			<TRANSL xml:lang="en"></TRANSL>
 		</W>
 		<W>

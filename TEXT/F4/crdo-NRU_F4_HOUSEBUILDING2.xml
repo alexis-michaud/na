@@ -1,9 +1,9 @@
-<?xml version="1.0"  encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="view_text.xsl"?>
-<TEXT id="crdo-NRU_HOUSEBUILDING2" xml:lang="NRU">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-NRU_HOUSEBUILDING2" xml:lang="nru">
 <HEADER>
-<SOUNDFILE  href="../audio/crdo-NRU_F4_HOUSEBUILDING2.wav"/>
-<TITLE xml:lang="eng">Housebuilding: the process of building a house (version 2)</TITLE>
+	<TITLE xml:lang="en">Housebuilding: the process of building a house (version 2)</TITLE>
+	<SOUNDFILE  href="../audio/crdo-NRU_F4_HOUSEBUILDING2.wav"/>
 </HEADER>
 <S id="HOUSEBUILDING2_S001">
 	<AUDIO start="0" end="8.879"/>

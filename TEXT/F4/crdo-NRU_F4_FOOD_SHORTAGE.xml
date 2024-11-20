@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_FOOD_SHORTAGE" xml:lang="nru">
 <HEADER>
-<TITLE xml:lang="eng">Food shortage: how parents set out to sell children, and then changed their mind</TITLE>
+<TITLE xml:lang="en">Food shortage: how parents set out to sell children, and then changed their mind</TITLE>
 <TITLE xml:lang="cmn">《忍饥挨饿》</TITLE>
-<TITLE xml:lang="fra">Disette</TITLE>
+<TITLE xml:lang="fr">Disette</TITLE>
 </HEADER>
 <S id="FoodShortageS001">
 	<AUDIO start="1.9707" end="7.0706"></AUDIO>
