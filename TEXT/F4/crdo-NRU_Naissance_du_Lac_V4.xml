@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_Naissance_du_Lac_V4" xml:lang="nru">
 	<HEADER>
-<TITLE xml:lang="eng">Lake: How the Lake was created (version 4)</TITLE>
+<TITLE xml:lang="en">Lake: How the Lake was created (version 4)</TITLE>
 <TITLE xml:lang="cmn">《落水湖（泸沽湖）的来历》（第四次讲述版本）</TITLE>
-<TITLE xml:lang="fra">La naissance du Lac (version 4)</TITLE>
+<TITLE xml:lang="fr">La naissance du Lac (version 4)</TITLE>
 <SOUNDFILE href="crdo-NRU_F4_LAKE4_AUDIO.wav"/>
 </HEADER>
 	<S id="Lake4S001">
