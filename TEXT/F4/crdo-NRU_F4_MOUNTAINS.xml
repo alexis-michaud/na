@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_MOUNTAINS" xml:lang="nru">
 <HEADER>
-<TITLE xml:lang="eng">Mountains: some beliefs associated to the mountains around Yongning</TITLE>
-<SOUNDFILE href="crdo-NRU_F4_MOUNTAINS.wav"></SOUNDFILE>
+<TITLE xml:lang="en">Mountains: some beliefs associated to the mountains around Yongning</TITLE>
 </HEADER>
 <S id="F4_MountainsS001">
 	<AUDIO start="0.6690" end="9.5600"></AUDIO>
