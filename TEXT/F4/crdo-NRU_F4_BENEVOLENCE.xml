@@ -1,13 +1,15 @@
-<TEXT id="crdo-NRU_F4_BENEVOLENCE" xml:lang="NRU">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-NRU_F4_BENEVOLENCE" xml:lang="nru">
 	<HEADER>
-		<TITLE xml:lang="eng">Benevolence: about attitudes that were valued among the Na, in particular generosity and hospitality.</TITLE>
-		<TITLE xml:lang="fra">La bienveillance: au sujet de comportements valorisés chez les Na, en particulier la générosité et l'hospitalité.</TITLE>
+		<TITLE xml:lang="en">Benevolence: about attitudes that were valued among the Na, in particular generosity and hospitality.</TITLE>
+		<TITLE xml:lang="fr">La bienveillance: au sujet de comportements valorisés chez les Na, en particulier la générosité et l'hospitalité.</TITLE>
 		<TITLE xml:lang="cmn">仁慈：关于摩梭人的传统美德，尤其是慷慨和好客。</TITLE>
 	</HEADER>
 
 		<NOTE xml:lang="fr" message = "Transcription entamée au printemps 2017, sur le terrain, en utilisant le canevas de la première version de l'outil de transcription phonémique et tonale du na créé par Oliver Adams. Revu 36 unités S (phrases, dans un sens large), correspondant aux portions 0 à 22 du découpage automatique. À partir de l'unité S numéro 36, le canevas est celui créé par la deuxième version de l'outil de transcription phonémique et tonal du na par l'outil d'Oliver Adams. Ce travail a lieu à partir du 8 octobre 2017. Le travail reprend ensuite le 18 avril 2018, à l'unité S numéro 47, en utilisant une troisième version du modèle acoustique (reposant sur les Transformers de HuggingFace), qui inclut les marques indiquant les frontières de groupes tonals. La tâche du linguiste consistait donc à écouter le récit avec la locutrice, corriger la transcription, et l'enrichir d'une traduction (en français) et de commentaires divers. La transcription automatique n'est conservée qu'en partie dans le présent document XML, dans des notes. Pour qui souhaiterait mettre en relation de façon systématique la transcription automatique et le document produit lors du travail de terrain (pour un travail de comparaison avec la version produite par le linguiste sur la base de ce canevas), la transcription automatique brute fournie par les trois modèles est disponible (pour l'ensemble des textes na) sur le dépôt GitHub. Adresse à date du 24 juillet 2024: https://github.com/alexis-michaud/na/tree/master/AutomaticTranscription (puis suivre l'arborescence en fonction de la date: par exemple, pour la troisième version du modèle, les transcriptions se trouvent dans le sous-dossier /2022_09_Transformers)."/>
 
-<S id="﻿Benevolence_S001">
+<S id="Benevolence_S001">
 	<AUDIO start="0" end="6.949"/>
 	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | nɑ˩˥ | ʈʂʰɯ˧-dʑo˩, | zo˩no˥, | le˧-ʐwɤ˩, | zo˩no˧ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/-bi/: adversatif."/>
@@ -17,21 +19,21 @@
 	<TRANSL xml:lang="fr">Autrefois, eh bien, les Na, eh bien… en parler (=ce que j'en dis / ce qu'on en dit / ce qu'il y a à en dire / ce dont je parle)… même maintenant, c'est pareil (= ça s'applique aussi aujourd'hui / ça vaut aussi pour aujourd'hui). (Autrement dit: Quand je parle de ce qu'étaient les Na autrefois, on peut aussi l'appliquer à aujourd'hui / il en va également ainsi aujourd'hui.)</TRANSL>
 	<TRANSL xml:lang="zh">从前，那么，摩梭人……（我）讲的（这些），现在也一样（=我讲的虽然是从前摩梭习俗，可是今日摩梭人的行为和做人标准也照样就是那样）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S002">
+<S id="Benevolence_S002">
 	<AUDIO start="6.949" end="8.87"/>
 	<FORM kindOf="phono">ə˧ʝi˧ʂɯ˥ʝi˩ ɲi˩-bi˩ | ʈʂʰɯ˧ lɑ˩ ɲi˩, ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="en" message = "Translation: In comparison with the old times, it's just the same, isn't it."/>
 	<TRANSL xml:lang="fr">Autrefois, c'était pareil, n'est-ce pas! / Même si c'était autrefois, c'est bien pareil [à toutes les époques], n'est-ce pas!</TRANSL>
 	<TRANSL xml:lang="zh">跟从前比，还是一回事，对吧！</TRANSL>
 </S>
-<S id="﻿Benevolence_S003">
+<S id="Benevolence_S003">
 	<AUDIO start="8.87" end="14.259"/>
 	<FORM kindOf="phono">ɖɯ˩lo˥, | &lt;ɖ&gt;… nɑ˩ ʈʂʰɯ˥ | ɖɯ˩lo˧ dʑɤ˥ | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ə˧tso˧ dʑɤ˩? | pi˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | zo˩no˥, |</FORM>
 	<NOTE xml:lang="en" message = "Translation: Traditions… When (people/I) say that the Na have beautiful traditions, what is it that is beautiful about them?"/>
 	<TRANSL xml:lang="fr">Les traditions… Quand on dit que les Na avaient de belles traditions, qu'est-ce qu'elles avaient de beau, au juste? / en quoi étaient-elles belles, au fond? eh bien… </TRANSL>
 	<TRANSL xml:lang="zh">说“摩梭人有美好的传统”，是在哪一点上算美好的？ / 具体有什么地方是美好的？那么，</TRANSL>
 </S>
-<S id="﻿Benevolence_S004">
+<S id="Benevolence_S004">
 	<AUDIO start="14.259" end="20.236"/>
 	<FORM kindOf="phono">mmm… ɑ˩ʁo˧-ʑi˧dv̩˧ qo˧-dʑo˩, | hĩ˧mo˥-hĩ˩ | ʁo˧mæ˧ ↑dʑɤ˩ mæ˩! |</FORM>
 	<NOTE xml:lang="en" message = "Translation: [Something really important is that] inside the family, older people were taken care of very well!"/>
@@ -39,14 +41,14 @@
 	<TRANSL xml:lang="fr">[Un élément tout à fait central, c'est que] dans la maisonnée, on s'occupait bien des personnes âgées!</TRANSL>
 	<TRANSL xml:lang="zh">（很重要的一点是：）在家里，关心老人关心得很周到！</TRANSL>
 </S>
-<S id="﻿Benevolence_S005">
+<S id="Benevolence_S005">
 	<AUDIO start="21.072" end="27.272"/>
 	<FORM kindOf="phono">əəə… ɑ˩pʰo˩ le˩-tsʰɯ˩ hĩ˥, | hĩ˧bæ˧ ʁo˧mæ˧-hĩ˧ dʑɤ˥ mæ˩, | nɑ˩ ʈʂʰɯ˥-dʑo˩. |</FORM>
 	<NOTE xml:lang="en" message = "Translation: [And also] the people who came from the outside (=people from outside the family who came as visitors), the guests, were taken care of very well, [among] the Na."/>
 	<TRANSL xml:lang="fr">Euh… Les gens qui venaient du dehors (=les gens qui n'étaient pas de la famille), les hôtes, on les traitait bien (=on les traitait avec honneur), (nous) les Na. / Un second point central, c'est la place accordée à l'hospitalité.</TRANSL>
 	<TRANSL xml:lang="zh">外边来的人（=外人），客人们，也得到关心，（在）摩梭人（家）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S006">
+<S id="Benevolence_S006">
 	<AUDIO start="27.272" end="34.029"/>
 	<FORM kindOf="phono">õ˧˥ | mɤ˧-dʑo˧, | tsʰi˧ɲi˧-bi˧, | hĩ˧bæ˧ jo˧-ho˥, | pi˧, | zo˩no˥, | le˧-ʂɯ˥~ʂɯ˩ | tʰi˧-tɕɯ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "/-bi/: adversatif; vérifié : /tsʰi˧ɲi˧/ signifie bien ici ‘ce jour'."/>
@@ -54,7 +56,7 @@
 	<TRANSL xml:lang="fr">Même si on n'a pas (suffisamment pour) soi-même, ce jour-là, on se dit qu'il peut venir un invité, et on met de côté de la bonne chère (pour lui faire fête quand l'occasion se présentera)! / Même si on n'a pas de quoi subvenir à ses propres besoins, on se dit qu'un invité peut se présenter, et on garde en réserve (les quelques bonnes choses qu'on a à la maison)! / Même quand on est dans le besoin, on garde en réserve de quoi faire fête aux invités qui pourraient se présenter.</TRANSL>
 	<TRANSL xml:lang="zh">那天（虽然）自己没有（够自己吃饱），还是会考虑：可能会有客人来，（于是还是会）准备，存留（好吃的东西给客人）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S007">
+<S id="Benevolence_S007">
 	<AUDIO start="34.029" end="39.784"/>
 	<FORM kindOf="phono">əəə… so˩-kʰv̩˩˥, | ɲi˧-kʰv̩˧-bv̩˧ pɤ˧to˩ | tʰi˧-tɕɯ˥, | ‘ə˧mi˧! | hĩ˧bæ˧ jo˧-kv̩˩!' |</FORM>
 	<NOTE xml:lang="fr" message = "d'abord noté /hĩ˧bæ˧ jo˧-kv̩˧˥/. On peut dire: /hĩ˧bæ˧ jo˧-ho˥!/, /hĩ˧bæ˧ jo˧-kv̩˩/."/>
@@ -62,7 +64,7 @@
 	<TRANSL xml:lang="fr">On pouvait même conserver (la viande) trois ans, (ou du moins) deux ans! (Note: dans le climat frais, sec et ensoleillé, la viande séchée pouvait se conserver plusieurs années. La viande était un élément important des repas, et particulièrement des repas festifs.) «Eeeh! Il se peut qu'on reçoive des invités / on va peut-être avoir un invité / on va peut-être recevoir la visite de quelqu'un!»</TRANSL>
 	<TRANSL xml:lang="zh">（肉）都会存三年……两年，想着：“会有客人来！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S008">
+<S id="Benevolence_S008">
 	<AUDIO start="39.784" end="48.274"/>
 	<FORM kindOf="phono">əəə… | hĩ˧ mo˥-hĩ˩-dʑo˩ ɲi˩ | pi˧, | zo˩no˥, | kʰv̩˧pʰæ˧ tɕi˩-hĩ˩ | dʑɤ˩˥ | hɤ˩-ʂe˩~ʂe˩-hĩ˥ ʈʂʰɯ˩ | dʑɤ˩-hĩ˥ | mɤ˧-tʰɑ˧˥, | dzɯ˧ mɤ˧-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "d'abord noté /dzɯ˧ mɤ˧-kv̩˥ mæ˩/"/>
@@ -70,21 +72,21 @@
 	<TRANSL xml:lang="fr">Les Anciens, eh bien… les jeunes, en pleine forme, les bonnes choses (=les meilleurs morceaux), ils n'en mangeaient pas! (=ils n'y touchaient pas: ils s'en privaient, pour les laisser aux personnes âgées ou aux enfants)</TRANSL>
 	<TRANSL xml:lang="zh">如果有老人（在），那么，青年人，既健康的（人），不能（吃最好的那些食品），不会吃的！（年轻人会让给老人）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S009">
+<S id="Benevolence_S009">
 	<AUDIO start="48.274" end="52.315"/>
 	<FORM kindOf="phono">mmm! ʂe˧ | dʑɤ˩-hĩ˥ | tʰv̩˧-kʰwɤ˥ | dʑɤ˩˥ | dzɯ˧ mɤ˧-kv̩˩, | tʰi˧-tɕɯ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "d'abord noté /dʑɤ˩-hĩ˩˥/, par erreur"/>
 	<TRANSL xml:lang="fr">Les beaux morceaux de viande, on n'en mangeait guère: on les gardait (pour une grande occasion, ou pour les personnes âgées)!</TRANSL>
 	<TRANSL xml:lang="zh">是的！好的那（些）肉块，（自己）不怎么吃，是要存起来！（留给客人或长辈）</TRANSL>
 </S>
-<S id="﻿Benevolence_S010">
+<S id="Benevolence_S010">
 	<AUDIO start="52.384" end="55.684"/>
 	<FORM kindOf="phono">ɑ˩pʰo˩˥ | hĩ˧bæ˧ le˧-ʝi˥-ze˩! | hĩ˧bæ˧ jo˧-kv̩˩, | pi˧. | </FORM>
 	<NOTE xml:lang="fr" message = "On pourrait également dire: /ɑ˩pʰo˩ hĩ˩bæ˩ le˩-ʝi˥-ze˩/."/>
 	<TRANSL xml:lang="fr">On disait: «Il y a des invités qui vont venir! On va avoir des invités (un jour ou l'autre)».</TRANSL>
 	<TRANSL xml:lang="zh">会有外边来的客人！会来客人的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S011">
+<S id="Benevolence_S011">
 	<AUDIO start="56.323" end="66.313"/>
 	<FORM kindOf="phono">hĩ˧bæ˧-ʈʂʰɯ˧ | so˩-kv̩˩, ʐv̩˩-kv̩˥ tsʰɯ˩, | pi˧-dʑo˩ | tsʰi˧ɲi˧ | tʰi˩˥, | ɖɯ˧-ʂɯ˩ tsʰɯ˩ | pi˧-dʑo˩ | tʰi˩˥, | ɑ˩ʁo˧ | ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥, | ʂe˧ dʑo˧-zo˧-kv̩˩, | æ̃˩ dʑo˥-zo˩-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "On peut dire aussi bien /ʐɯ˧ | dʑo˧-zo˧-kv̩˧˥/ que /ʐɯ˧ dʑo˧-zo˧-kv̩˩/. De même pour /ʂe˧ dʑo˧-zo˧-kv̩˩/ et /ʂe˧ | dʑo˧-zo˧-kv̩˧˥/. F4 exprime une préférence pour la variante avec intégration en un seul groupe tonal. Pas de variante stylistique évidente à ses yeux. Hypothèse toute personnelle: le ton montant convient à cette position dans la phrase: position non finale, où le contour montant a une connotation ‘suspensive'. Cela met également en valeur le mot ‘alcool'; l'alcool est une composante importante de l'hospitalité. Le récit passe ensuite un peu plus vite sur la viande (de porc, s'entend) et le poulet."/>
@@ -92,13 +94,13 @@
 	<TRANSL xml:lang="fr">Les invités, s'il y en a trois ou quatre qui viennent, ce jour-là, pour leur venue (littéralement ‘ils viennent une fois'), à la maison, il faut avoir de l'alcool, de la viande (de porc), et du poulet (pour pouvoir accommoder toutes ces bonnes choses et les leur servir)!</TRANSL>
 	<TRANSL xml:lang="zh">客人呢，来了两三位的话……今天来的话呢，家里得有酒、得有肉、得有鸡嘛！（这些不是店里买的：那时候永宁没有店铺，所以要在家里存，预备。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S012">
+<S id="Benevolence_S012">
 	<AUDIO start="66.85" end="73.259"/>
 	<FORM kindOf="phono">tʰi˩˥, | zo˩no˥ ɲi˩ ʝi˩-se˩, | ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧-bi˧, | mɤ˧-ɖwæ˩. | “ə˧tso˧ ɖwæ˩? | ɖʐɯ˧qo˩ hwæ˩-bi˩ tsæ˩ ɲi˩!”' | pi˧-kv̩˩ mæ˩. |</FORM>
 	<TRANSL xml:lang="fr">Tandis que maintenant, si on n'a rien du tout (=si on n'a pas suffisamment de provisions à la maison), on ne s'en fait pas. On se dit: «Qu'est-ce qu'on a à se tracasser? Il n'y a qu'à aller acheter [tout ce qu'il faut] au marché!»</TRANSL>
 	<TRANSL xml:lang="zh">而现在不一样了，（家里）什么都没有也不用担心。“你担心什么？去市场里买呗！”（人家）会这样说的。</TRANSL>
 </S>
-<S id="﻿Benevolence_S013">
+<S id="Benevolence_S013">
 	<AUDIO start="73.259" end="82.408"/>
 	<FORM kindOf="phono">ə˧ʝi˧-tsʰi˧ʝi˧ ɲi˥ bi˩-bi˩, | hĩ˧ mo˥-hĩ˩-dʑo˩ | hĩ˧=ɻæ˥-dʑo˩ | “ə˧mi˧! | hĩ˧bæ˧ le˧-jo˥-kv̩˩! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧ mɤ˧-ɖo˧! | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩ | dzɯ˧-ɖɯ˧-kv̩˩!” | tʰi˧-tɕɯ˧-ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/dzɯ˧-ɖɯ˧-kv̩˩/: on peut le manger; négation: /mɤ˧-ɖɯ˧-kv̩˧˥/."/>
@@ -106,14 +108,14 @@
 	<TRANSL xml:lang="fr">Même à notre époque (littéralement: même si on est maintenant dans l'époque actuelle [et plus dans le temps d'antan, celui de la société traditionnelle]), les personnes âgées, les gens, [voilà leur façon de penser:] «Eeeh ben, il est possible qu'on reçoive des invités [un de ces quatre]! Cette pièce [de viande], il ne faut pas la manger [à l'occasion d'un repas ordinaire]. Cette autre pièce, [par contre,] on peut la manger!» On garde de côté [de beaux morceaux, dans l'idée de les offrir à des hôtes de passage]! / On faisait une réserve !</TRANSL>
 	<TRANSL xml:lang="zh">现在，虽然不是那个时代了，老人家……人家还是会（这样想）：“啊，会有客人来！这块（肉），不要吃！那块呢，可以吃的！”就存（最好的肉，留给客人）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S014">
+<S id="Benevolence_S014">
 	<AUDIO start="82.408" end="88.921"/>
 	<FORM kindOf="phono">mmm… ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | mmm… le˧-hwæ˧, | ɖɯ˧-mɤ˧-tʰɑ˧˥, | ə˩-gi˩! | ɑ˩ʁo˧ ʈʰææ̃˧ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Correspond au segment de la transcription automatique numéroté 8"/>
 	<TRANSL xml:lang="fr">Euh… autrefois, euh… on ne pouvait pas se procurer [ces choses-là] en les achetant [dans des magasins, comme aujourd'hui], n'est-ce pas! Vrai de vrai, c'est à la maison qu'on conservait [les denrées alimentaires pour toute la maisonnée]!</TRANSL>
 	<TRANSL xml:lang="zh">过去，买不到，对吧！真的是在家村（食品）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S015">
+<S id="Benevolence_S015">
 	<AUDIO start="88.921" end="96.906"/>
 	<FORM kindOf="phono">ə˧ʝi˧-tsʰi˧ʝi˧, | əəə… mmm… zo˩no˥, | ɖʐɯ˧qo˩ | le˧-hwæ˧, | ɖɯ˧-tʰɑ˧˥ | pi˧-bi˧-bi˧, | õ˧=bv̩˥ | ʈʂʰɯ˧-kʰwɤ˥-dʑo˩, | dʑɤ˩ ʈʂɤ˧ ɲi˥, | pi˧-zo˩, | zo˩no˥ | ɑ˩ʁo˧ tʰi˧-tɕɯ˥!</FORM>
 	<NOTE xml:lang="fr" message = "avais d'abord noté /ɖɯ˧-v̩˧ tʰi˧-tɕɤ˥/, par erreur."/>
@@ -121,20 +123,20 @@
 	<TRANSL xml:lang="fr">De nos jours, euh, même si on peut acheter des choses au marché, y trouver ce qu'on veut, eh bien, les choses qui sont nos propres [productions], on les considère comme bonnes (=comme meilleures que ce qu'on achète au marché); alors, on les serre à la maison! </TRANSL>
 	<TRANSL xml:lang="zh">现在呢，虽然可以在市场上买到，可是自己家生产的食物（直译：‘自己的那块’）算是好的（=算是比市场上的更好），于是会存在家里！</TRANSL>
 </S>
-<S id="﻿Benevolence_S016">
+<S id="Benevolence_S016">
 	<AUDIO start="96.906" end="99.718"/>
 	<FORM kindOf="phono">hĩ˧bæ˧ ɖɯ˧-v̩˧ tsʰɯ˩-bi˩-bi˩, | ɖɯ˧-v̩˥ tʰi˩-tɕɤ˩! |</FORM>
 	<TRANSL xml:lang="fr">et même si un invité vient, on (lui en) fait un bon plat! (littéralement: ‘on [lui en] fait bouillir une casserolée') [de préférence à des ingrédients achetés au marché]</TRANSL>
 	<TRANSL xml:lang="zh">来了客人，就给煮一锅（好肉）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S017">
+<S id="Benevolence_S017">
 	<AUDIO start="99.718" end="104.995"/>
 	<FORM kindOf="phono">ə˧mɑ˧-ki˩ | ʁo˧dɑ˧ | &lt;z…&gt; zo˩no˥, | &lt;ʈ… ʈ&gt; D ʈæ˧ʂɯ˧ ɖʐv̩˧-ʈʂʰɯ˧, | hĩ˧ | zo˩qo˧ mɤ˧-ɲi˩ hĩ˩ | le˧-tsʰɯ˩-ɲi˩ mæ˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Léger bégaiement dans le passage /&lt;z…&gt; zo˩no˥, | &lt;ʈ… ʈ&gt; ʈæ˧ʂɯ˧/. Noté par le symbole D, pour ‘Disfluence'."/>
 	<TRANSL xml:lang="fr">Chez moi (littéralement ‘à moi, vers moi'), avant (=quand j'habitais à Yongning), eh bien, les amis de Daeshi (son fils ethnologue), des gens, il en est venu de partout (=j'ai reçu des visiteurs des quatre coins du globe).</TRANSL>
 	<TRANSL xml:lang="zh">到我家，以前……那么……达石的朋友们，有来自各地的嘛。</TRANSL>
 </S>
-<S id="﻿Benevolence_S018">
+<S id="Benevolence_S018">
 	<AUDIO start="104.995" end="116.495"/>
 	<FORM kindOf="phono">tʰæ˩ʁwæ˧-hĩ˧ le˧-tsʰɯ˧˥, | mmm… ʐɯ˩pe˧-hĩ˧ | le˧tsʰɯ˧˥, | õ! | əəə… ʂæ˧hæ˥-hĩ˩ tsʰɯ˩. | əəə… &lt;mmm…&gt; kʰu˧mi˩-hĩ˩ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ tsʰɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Regroupé en une seule unité S les anciennes unités 18 et 19, qui forment un seul énoncé. Cela paraît préférable au plan grammatical."/>
@@ -142,39 +144,39 @@
 	<TRANSL xml:lang="fr">Il en est venu de Taïwan; il en est venu du Japon; oui! Euh… il en est venu de Shanghaï! Euh… il en est venu de Kunming! Il en est venu de Pékin!</TRANSL>
 	<TRANSL xml:lang="zh">嗯……有上海人来，有昆明人来，有北京人来！有台湾人来，嗯……有日本人来，对的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S019">
+<S id="Benevolence_S019">
 	<AUDIO start="116.495" end="120.001"/>
 	<FORM kindOf="phono">le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | ə˧mɑ˧ ɳɯ˧ | ʂe˧bv̩˧ tʰi˩-tɕɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/ʂe˧bv̩˧ tʰi˩-tɕɯ˩/: avais d'abord pensé à /ʂe˧bv̩˧ tʰi˩-tɕɤ˩/. Le schéma tonal est confirmé : tons ˧ ˧ ˩ ˩."/>
 	<TRANSL xml:lang="fr">Comme il venait (tous ces visiteurs), eh bien, moi, je réservais des saucisses,</TRANSL>
 	<TRANSL xml:lang="zh">因为有（这样的贵宾来），我会存香肠的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S020">
+<S id="Benevolence_S020">
 	<AUDIO start="120.001" end="128.755"/>
 	<FORM kindOf="phono">mmm… bo˩kʰɯ˧ tʰi˧-tɕɯ˧˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩, | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩. | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɤ˧˥! | &lt;z…&gt; ə˧mɑ˧-ki˩ | tsʰɯ˩˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | le˧-tɕɤ˧˥, | tʰi˧-ki˧ ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "On pourrait également dire: /le˧-tɕɤ˧ tʰi˥-ki˩ ɲi˩ mæ˩/."/>
 	<TRANSL xml:lang="fr">euh… je réservais des pieds de porc séchés; je réservais des membres de porc séchés; je réservais du lard. Et je faisais cuire ces ingrédients (littéralement: je faisais bouillir), comme ça!</TRANSL>
 	<TRANSL xml:lang="zh">我会存猪脚、风干猪腿、琵琶肉。（客人）到我家来，我就煮，给（人吃）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S021">
+<S id="Benevolence_S021">
 	<AUDIO start="128.755" end="132.377"/>
 	<FORM kindOf="phono">'ə˧mi˧! | ə˧mɑ˧, | hɑ˧ | ɖwæ˧˥ | ʐv̩˩˥!' | pi˧-ɲi˥ mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">«Eeeeh bien! Ama, le repas est excellent!» disaient les invités!</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀！阿妈，饭真香！”（客人）会说。</TRANSL>
 </S>
-<S id="﻿Benevolence_S022">
+<S id="Benevolence_S022">
 	<AUDIO start="132.876" end="142.78"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧ | zo˩no˥ | nɑ˧dʑi˧ | ɑ˩pʰo˩ dʑo˩˥, | mmm… ɖɯ˩mɑ˥ | ɑ˩pʰo˩ dʑo˩˥, | zo˩no˥, | ki˧zo˧ ɑ˥ʁo˩ dʑo˩, | zo˩no˥, | &lt;k…&gt; əəə… ki˧zo˧ lɑ˩ | njæ˧zɯ˩ lɑ˩ ɲi˩ mæ˩, ◊ ə˩-gi˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors, moi, en fait… Najji habitait ailleurs; Ddeema habitait ailleurs (=mes deux filles habitaient ailleurs); alors, Gisso (une belle-fille) était à la maison; euh… Gisso et (moi), on était seules, toutes les deux, n'est-ce pas!</TRANSL>
 	<TRANSL xml:lang="zh">那么，我呢……娜金【二女孩】在外边（上班），嗯……独妈【大女孩】在外边（上班），那么，给若[阿妈的一个媳妇]在家，那么……给若和（我）……就是我们两个，对吧！</TRANSL>
 </S>
-<S id="﻿Benevolence_S023">
+<S id="Benevolence_S023">
 	<AUDIO start="142.78" end="144.8"/>
 	<FORM kindOf="phono">njæ˧zɯ˩… | ɖɯ˩-hĩ˩˥, | njæ˧zɯ˩ lɑ˩ ɲi˩. |</FORM>
 	<TRANSL xml:lang="fr">Nous deux, on était les deux seules adultes. [Note: deux petites-filles et un petit-fils, encore enfants, habitaient eux aussi à la maison.]</TRANSL>
 	<TRANSL xml:lang="zh">我们……大人，只有我们两个。[家里还有阿妈的两个孙女，没成年。]</TRANSL>
 </S>
-<S id="﻿Benevolence_S024">
+<S id="Benevolence_S024">
 	<AUDIO start="144.8" end="148.782"/>
 	<FORM kindOf="phono">&lt;ǁ&gt; ʈæ˧ʂɯ˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | ɑ˩pʰo˩ dʑo˩˥. | ʈʂʰɯ˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ | le˧-jo˥-kv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Le symbole ǁ note un clic ; je l'entends comme plutôt latéral (même si ce n'est pas très clair), d'où le choix de ce symbole. "/>
@@ -182,69 +184,69 @@
 	<TRANSL xml:lang="fr">Daeshi (lui aussi)… ils étaient tous au loin. Eux, il arrivait qu'ils viennent (à la maison avec des amis) / il arrivait qu'ils nous ramènent des invités à la maison!</TRANSL>
 	<TRANSL xml:lang="zh">（还有）达石【大儿子】（也在外边），他们都在外边。会有人跟他们一起来家里（=他们会带客人来家里的）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S025">
+<S id="Benevolence_S025">
 	<AUDIO start="148.782" end="155.469"/>
 	<FORM kindOf="phono">'dʑɤ˩-hĩ˥ | ʈʂʰɯ˧-kʰwɤ˥ | dzɯ˧ mɤ˧-ɖo˧, | tʰi˧-tɕɯ˥, | ki˧zo˧!' | ə˧zɯ˩-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ mɤ˧-ɲi˩ | dzɯ˧-tʰɑ˩ ɲi˩! | </FORM>
 	<TRANSL xml:lang="fr">(Je disais à ma belle-fille:) «Ce beau morceau, il ne faut pas le manger, Gisso!» Nous deux, à la maison, on aurait pu manger de tout, tranquillou! (Il y avait de la nourriture en abondance à la maison; les deux habitantes du lieu auraient pu faire bombance tout à leur aise.)</TRANSL>
 	<TRANSL xml:lang="zh">（我会说：）‘给若啊，好的这块（肉）不要吃，要存！’我们两个在家里什么都可以吃（=家里的食品丰富，我们想随便吃的话，能吃很多好的）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S026">
+<S id="Benevolence_S026">
 	<AUDIO start="155.469" end="159.782"/>
 	<FORM kindOf="phono">hĩ˧bæ˧ le˧-tsʰɯ˧˥ ◊ -dʑo˩, | &lt;hĩ˧-ki˧ | ki˩-mɤ˩-di˩˥…&gt; | ki˧-di˩ mɤ˩-dʑo˩-dʑo˩, | hĩ˧-ɳɯ˩ | ʐæ˧-kv̩˧˥!</FORM>
 	<TRANSL xml:lang="fr">(Mais il n'était pas question de se laisser aller à la gourmandise:) à l'arrivée d'invités / quand des invités se présentaient, si on n'avait rien eu à leur donner (littéralement: «si on n'avait pas eu de choses à leur donner») ç'aurait été une plaisanterie / ça aurait attiré des quolibets!</TRANSL>
 	<TRANSL xml:lang="zh">（可是不要那样做：）客人来了，如果没有（合适的）食品给他们，会见笑！</TRANSL>
 </S>
-<S id="﻿Benevolence_S027">
+<S id="Benevolence_S027">
 	<AUDIO start="159.782" end="166.154"/>
 	<FORM kindOf="phono">'ʈʂʰɯ˧=ɻ̩˧-dʑo˩, | ɑ˩ʁo˥ | ə˧tso˧ ɑ˩ʁo˩ &lt;ʁo˩&gt; ɲi˩? | ə˧mi˧, | ʑi˧dv̩˧ mɤ˧-ʝi ni˥ gv̩˩!' | pi˧-kv̩˩, | pi˧-zo˩. |</FORM>
 	<TRANSL xml:lang="fr">«Par chez eux, qu'est-ce que c'est que cette famille? La mère de famille, on dirait qu'elle ne sait pas tenir sa maisonnée!», qu'on dirait! Voilà ce qu'on (se) disait.</TRANSL>
 	<TRANSL xml:lang="zh">人家会说：“他们是什么样的一个家？/他们那家是怎么回事？主妇好像都不管家！”是这样讲的。</TRANSL>
 </S>
-<S id="﻿Benevolence_S028">
+<S id="Benevolence_S028">
 	<AUDIO start="166.154" end="170.051"/>
 	<FORM kindOf="phono">ɖɯ˧-kʰv̩˧˥ | bo˩˥ | so˩-kv̩˩ qʰo˥ bi˩-bi˩, | njæ˧zɯ˩-dʑo˩, | ʂe˧ mɤ˧-dzɯ˧˥! | </FORM>
 	<TRANSL xml:lang="fr">(Du coup,) bien qu'on tue trois cochons chaque année, nous deux, on ne mangeait (guère) de viande! / Bien qu'on tue trois cochons par an, nous autres (=les habitants à l'année de la demeure), on ne mangeait pas [cette] viande / les meilleures pièces de boucherie, elles n'étaient pas pour nous!</TRANSL>
 	<TRANSL xml:lang="zh">一年，我们虽然杀三头猪，但（自己）不吃肉！（不吃珍贵的那些块，也不吃新鲜肉）</TRANSL>
 </S>
-<S id="﻿Benevolence_S029">
+<S id="Benevolence_S029">
 	<AUDIO start="170.051" end="172.199"/>
 	<FORM kindOf="phono">lɑ˧ʐv̩˥ | -no˧˥ | tɕɤ˧ dzɯ˩! | </FORM>
 	<TRANSL xml:lang="fr">On se faisait bouillir du lard, pour manger / comme nourriture ordinaire!</TRANSL>
 	<TRANSL xml:lang="zh">（我们一般只给自己）煮腊肉吃！ / 平常，我们吃的只有腊肉！</TRANSL>
 </S>
-<S id="﻿Benevolence_S030">
+<S id="Benevolence_S030">
 	<AUDIO start="172.199" end="177.145"/>
 	<FORM kindOf="phono">ʂe˧, | ʂæ˩ɻ̩̃˩˥, | ʂe˧sɑ˩ tʰi˩-tɕɯ˩! | bo˩-kʰɯ˧ tʰi˧-tɕɯ˥! | ʂe˧bv̩˧ tʰi˩-tɕɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Tons de /bo˩-kʰɯ˧ tʰi˧-tɕɯ˥/ vérifiés, n'est pas … MH"/>
 	<TRANSL xml:lang="fr">La viande… les os… La viande des membres du cochon, on la gardait de côté / on la mettait en réserve! Les saucisses (viande séchée conservée dans les intestins), on les gardait en réserve!</TRANSL>
 	<TRANSL xml:lang="zh">肉、骨头、猪腿，（我们）存起来！猪脚，也存起来！香肠，也存起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S031">
+<S id="Benevolence_S031">
 	<AUDIO start="177.145" end="181.638"/>
 	<FORM kindOf="phono">əəə… | bo˩ʈʂʰæ˥ tʰi˩-tɕɯ˩! | ho˧tʰv̩˧ tʰi˧-tɕɯ˥! | ʂe˧ | dʑɤ˩-hĩ˥ | ɖɯ˧-tʰɑ˧˥ | tʰi˧-tɕɯ˥! |</FORM>
 	<TRANSL xml:lang="fr">Euh… on gardait en réserve le porc conservé! On gardait en réserve les jambons! On gardait en réserve toutes les bonnes pièces de viande!</TRANSL>
 	<TRANSL xml:lang="zh">嗯……琵琶肉，也存起来！火腿，也存起来！好的肉，全部存起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S032">
+<S id="Benevolence_S032">
 	<AUDIO start="181.638" end="186.636"/>
 	<FORM kindOf="phono">hĩ˧ | ɖɯ˧-ʂɯ˩ le˩-tsʰɯ˩, | ɖɯ˧-ʈv̩˩ tɕɤ˩! | tʰi˩˥, | hĩ˧ | le˧-dzɯ˧ mɤ˧-se˥, | õ˧˥ | wɤ˩˥ | dzɯ˧-tʰɑ˩ ɲi˩ mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">À chaque fois qu'il y avait des invités, on faisait bouillir un gros morceau [de bonne viande] / une belle pièce de viande! Si les invités ne finissaient pas / ne mangeaient pas tout, c'est alors qu'on (=les gens de la maisonnée) pouvait en manger! </TRANSL>
 	<TRANSL xml:lang="zh">每次来客人，煮一大块（好肉）！然后人家吃不完的话，自己（=家庭一般成员）就可以吃了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S033">
+<S id="Benevolence_S033">
 	<AUDIO start="186.863" end="189.832"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩ | tʰi˩˥ | æ˧ʂæ˧ | njɤ˧ ə˧ʑi˧-ɳɯ˥ | pi˧-kv̩˩: |</FORM>
 	<TRANSL xml:lang="fr">De la sorte, eh bien… autrefois, ma grand-mère disait :</TRANSL>
 	<TRANSL xml:lang="zh">这样……从前，我奶奶会说：</TRANSL>
 </S>
-<S id="﻿Benevolence_S034">
+<S id="Benevolence_S034">
 	<AUDIO start="189.832" end="196.005"/>
 	<FORM kindOf="phono">“õ˧˥ | le˧-dzɯ˥-dʑo˩, | tsʰi˧ɲi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩ lɑ˥ do˩-kv̩˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "/ʈʰæ˩ŋv̩˩˥/ pour les femmes, /ɬi˧ŋv̩˥/ pour les hommes, désigne la taille, les hanches. Reporté dans le dictionnaire."/>
 	<TRANSL xml:lang="fr">“Si on mange (ces bonnes choses) nous-mêmes, il n'y a que les hanches de nos pantalons et de nos jupes qui en voient la couleur! / Si on se mange ces bonnes choses dans notre coin, il n'y a que nos hanches qui en profitent!”</TRANSL>
 	<TRANSL xml:lang="zh">自己吃的话，今天，只有自己的腰部才有印象！（直译：‘只有腰部才见到’）</TRANSL>
 </S>
-<S id="﻿Benevolence_S035">
+<S id="Benevolence_S035">
 	<AUDIO start="196.005" end="203.69"/>
 	<FORM kindOf="phono">hĩ˧-ɳɯ˩… hĩ˧-ki˧ ki˩, | hĩ˧ | tʰi˧-dzɯ˥-kʰɯ˩, | pi˧-dʑo˩, | ɑ˩pʰo˩˥, | zo˩no˥, | gv̩˧-ti˩ qo˩ ʐwɤ˩&lt;-k…&gt;-bi˩-kv̩˩! | </FORM>
 	<NOTE xml:lang="fr" message = "la société: /ɖʐɯ˩kʰɤ˥/"/>
@@ -252,19 +254,19 @@
 	<TRANSL xml:lang="fr">[Tandis que] les gens [en parleront si]… Si on l'offre aux invités (littéralement: ‘si on le donne à manger aux gens’), à l'extérieur, eh bien, vous y gagnerez des compliments en abondance! (Littéralement: ‘il en sera question jusqu'à la neuvième strate!’ Façon métaphorique de dire ‘tout le monde en gardera le souvenir’, ‘la mémoire en restera loin et longtemps’. De même, le plus profond de la forêt se dit ‘la neuvième strate de la forêt’.)</TRANSL>
 	<TRANSL xml:lang="zh">而人呢……如果送给人家吃，那么，这件事会被传播到老远、被记住很久！（直译：‘会投入到社会的第九层’。意思是：很多人会知道的。同样，最深的森林叫做‘森林的第九层’。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S036">
+<S id="Benevolence_S036">
 	<AUDIO start="203.69" end="208.637"/>
 	<FORM kindOf="phono">ʈʰæ˩ŋv̩˩˥ ◊ -dʑo˩, | ɖɯ˧-ti˧ lɑ˥ ɲi˩! | ɬi˧ŋv̩˥ F | ɖɯ˧-ti˧ lɑ˥ ɲi˩! | </FORM>
 	<TRANSL xml:lang="fr">Tout ce qu'on y gagne, c'est une [p'tite] strate [de graisse en plus] dans les hanches! (Contraste entre les “neuf strates” de la société où résonneront les louanges, et l'unique “strate” (couche) de graisse dans les hanches qu'on gagne à être gourmand.)</TRANSL>
 	<TRANSL xml:lang="zh">而如果送到腰部，只能得一小层（肥肉）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S037">
+<S id="Benevolence_S037">
 	<AUDIO start="208.637" end="211.74"/>
 	<FORM kindOf="phono">əəə… hĩ˧ ɳɯ˩ | le˧-dzɯ˥ | po˧-hɯ˥, | pi˧, | gv̩˧-ti˩ qo˩ ʐwɤ˩-kv̩˩! </FORM>
 	<TRANSL xml:lang="fr">Tandis que si c'est des invités qui le mangent et qui l'emportent avec eux, c'est dans neuf strates [de la société, d'épaisseur de ‘lien social'] qu'il en sera question! (Le souvenir de la bonne chère sera conservé et amplifié.)</TRANSL>
 	<TRANSL xml:lang="zh">如果人家吃，带走，那么，在‘社会的九层’都会说（主人的好话）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S038">
+<S id="Benevolence_S038">
 	<AUDIO start="211.74" end="217.095"/>
 	<FORM kindOf="phono">õ˧˥ | le˧-dzɯ˥ | pi˧, | ɬi˧ŋv̩˥ lɑ˩ | ʈʰæ˩ŋv̩˩˥ | ɖɯ˧-ti˧ lɑ˥ do˩-kv̩˩! | &lt;mv̩˩si˧=ɻæ˥&gt;[mv̩˩si˧˥] | qʰæ˧pɤ˧ tʰi˧-tɕɯ˥-kv̩˩! | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "/mv̩˩si˧=ɻæ˥/: F4 souligne qu'il aurait été préférable de dire /mv̩˩si˧˥/"/>
@@ -272,7 +274,7 @@
 	<TRANSL xml:lang="fr">“Si on mange (nos bonnes choses) nous-mêmes, il n'y a que nos hanches qui en profitent! Et au matin, on fait une crotte (et voilà tout ce qui en reste)!”</TRANSL>
 	<TRANSL xml:lang="zh">“如果自己吃（自己的好东西），腰部得一小层（肥肉）而已！早上拉一团屎（就完了）！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S039">
+<S id="Benevolence_S039">
 	<AUDIO start="217.095" end="222.224"/>
 	<FORM kindOf="phono">zo˩no˥, | “gv̩˧-ti˩” | pi˧-dʑo˩, | æ˧ʂæ˧-dʑo˩ | “gv̩˧-ti˩” | pi˧-ɲi˥ mæ˩, ◊ ə˩-gi˩! | nɑ˩-ʐwɤ˥-dʑo˩, | “gv̩˧-ti˩” | pi˧! |</FORM>
 	<NOTE xml:lang="fr" message = "correspond au segment 22 du découpage automatique."/>
@@ -281,21 +283,21 @@
 	<TRANSL xml:lang="fr">Alors, quand on dit “neuf strates, eh bien… autrefois, on disait “neuf strates”, n'est-ce pas! (Par chez nous) les Na, on disait “neuf strates”!</TRANSL>
 	<TRANSL xml:lang="zh">那么，“九层”这个说法呢……以前有“九层”这个说法，对吗！摩梭人就说“九层”！</TRANSL>
 </S>
-<S id="﻿Benevolence_S040">
+<S id="Benevolence_S040">
 	<AUDIO start="222.224" end="229.297"/>
 	<FORM kindOf="phono">tʰi˩˥, | hæ˧ʐwɤ˩ | pi˧-dʑo˩, | əəə… zo˩no˥, | tɕʰɤ˩ʂɯ˩kɤ˩˥ | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | pi˧, ◊ ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/tɕʰɤ˩ʂɯ˩kɤ˩˥/: serait une formule chinoise; serait-ce l'expression chinoise 前时刻? ou 全世界?? La formule en question n'est pas très claire pour F4, qui juge, après coup, qu'il aurait été préférable d'omettre cette explication qu'elle est bien en peine de développer lors de la transcription."/>
 	<TRANSL xml:lang="fr">Alors, pour dire ça en chinois, eh bien… on dirait : «les gens d'autrefois disaient ça!», n'est-ce pas ! / Tout ça, c'est des paroles d'autrefois (前时刻), comme on dit en chinois !</TRANSL>
 	<TRANSL xml:lang="zh">用汉语来说呢，嗯……那么，‘前时刻’（汉语借词）的人会这样说的，对嘛。</TRANSL>
 </S>
-<S id="﻿Benevolence_S041">
+<S id="Benevolence_S041">
 	<AUDIO start="229.297" end="233.413"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ | ɑ˩ʁo˧ tʰv̩˧ | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧, | pi˧, | ʐwɤ˩-kv̩˩˥, | pi˧, | zo˩no˥! | </FORM>
 	<NOTE xml:lang="fr" message = "/ɖɯ˧-kʰwɤ˧ dzɯ˧/: objet au ton H$, verbe au ton H, cela donne M.M.M+L : /ɖɯ˧-kʰwɤ˧ dzɯ˧/, /ɖɯ˧-kʰwɤ˧ dzɯ˧-ze˩/. On s'attend donc à ce que le schéma tonal avec l'expérientiel soit : /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˩/. À confirmer par F4. Réponse le 20 avril 2018: est: ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧ (qui donne, si on y ajoute le perfectif: /ɖɯ˧-kʰwɤ˧ dzɯ˧-dʑɯ˧-ze˩/)."/>
 	<TRANSL xml:lang="fr">Il est venu à la maison (=chez nous), et a mangé ce [bon] morceau; il en parlera (aux autres, à sa maisonnée)!</TRANSL>
 	<TRANSL xml:lang="zh">他（=客人）来我们家，吃了这样一块（美食），他会（跟别人）说的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S042">
+<S id="Benevolence_S042">
 	<AUDIO start="233.413" end="240.942"/>
 	<FORM kindOf="phono">zo˩no˥, | njɤ˧-ki˧=ɻ̩˩, | əəə… ʐɯ˩pe˧ hĩ˧-dʑo˩, | ʝi˧kʰv̩˧ tsʰɯ˧˥ ◊ -dʑo˩, | “ə˧mɑ˧, | no˧ | ʂe˧, | ə… ʈʂʰɯ˧ | qʰɑ˩ne˩ʝi˥ | tʰi˧-tɕɯ˧ ɲi˥?” | pi˧-ɲi˩ wɤ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/qʰɑ˩ne˩ʝi˥/ ‘comment' pour signifier ‘pourquoi' (interrogatif qui se dit en na /ə˧tse˧-ʝi˥/): serait-ce un calque du chinois? En mandarin, 怎么 ‘comment' peut s'employer de façon concurrente à 为什么 ‘pourquoi' pour porter une question portant sur la cause ('pourquoi') plutôt que sur le comment."/>
@@ -304,7 +306,7 @@
 	<TRANSL xml:lang="fr">Alors, chez nous, euh… des Japonais, il y en a qui sont venus (en visite: collègues et amis de Daeshi); ils m'ont demandé: «Ama, vous, la viande, euh… ça… pourquoi vous gardez tout en réserve?»</TRANSL>
 	<TRANSL xml:lang="zh">那么，到我这边来的，嗯……来过一些日本人（直译：‘日本人，有一些来了’），（他们问：）“阿妈，你为什么要存肉呢？”</TRANSL>
 </S>
-<S id="﻿Benevolence_S043">
+<S id="Benevolence_S043">
 	<AUDIO start="240.942" end="247.761"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧-ɳɯ˧: | “le˧-ʑi˩-ɻ̩˩, | mv̩˧-ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧ | əəə… tʰi˧-tɕɯ˧-ɲi˥” | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "/mv̩˧ʁo˥ | tʰv̩˧qo˧ | tʰi˧-tɑ˧nɑ˧/: avais d'abord noté : /tʰi˧-tɑ˧nɑ˩/, par erreur."/>
@@ -312,7 +314,7 @@
 	<TRANSL xml:lang="fr">Alors, moi, (je leur ai expliqué:) «On la prend, on la fume là, au-dessus du foyer; euh… on la garde de côté».</TRANSL>
 	<TRANSL xml:lang="zh">然后我解释了：“拿（肉），火塘上面（挂着）熏，嗯……就存起来！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S044">
+<S id="Benevolence_S044">
 	<AUDIO start="247.761" end="256.991"/>
 	<FORM kindOf="phono">«ɖwæ˧˥ | ʐv̩˩˥! | ʁɑ˩mi˥! | ɖwæ˧˥ | ʐv̩˩˥!» | pi˧-zo˩, | tʰv̩˧ɲi˧ | ɖɯ˧-v̩˥ tɕɤ˩-dʑo˩, | ʂe˧… | ʂe˧bv̩˧… | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | ʂe˧bv̩˧ ɖɯ˧-kwɤ˩ tɕɤ˩, |</FORM>
 	<NOTE xml:lang="fr" message = "/ʂe˧bv̩˧ ɖɯ˧-kwɤ˩ tɕɤ˩/ 一串“干肉”（香肠）; avais d'abord pensé à /ɖɯ˧-kʰwɤ˥/, par erreur, en me demandant : «/ɖɯ˧-kʰwɤ˥/ réalisé sans aspiration: affaiblissement? ou s'agirait-il ici d'un autre classificateur?» Exemple d'erreur de notation due à une interprétation globale de la phrase plutôt qu'à une écoute ‘phonologique'."/>
@@ -320,7 +322,7 @@
 	<TRANSL xml:lang="fr">«Comme c'est bon! Vrai de vrai, c'est délicieux!» se sont exclamés les invités. Ce jour-là, on fait bouillir toute une casserole: des saucisses… On tue un poulet, on fait bouillir des saucisses,</TRANSL>
 	<TRANSL xml:lang="zh">“很好吃！啊呀！真好吃！”（客人）说。那天煮一锅：香肠……杀一只鸡，猪一些香肠，</TRANSL>
 </S>
-<S id="﻿Benevolence_S045">
+<S id="Benevolence_S045">
 	<AUDIO start="256.991" end="264.22"/>
 	<FORM kindOf="phono">əəə… bo˩ʈʂʰæ˥ | ɖɯ˧-ʈv̩˩ tɕɤ˩, | əəə… ho˧tʰv̩˧ ɖɯ˧-ʈv̩˩ tɕɤ˩, | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-ʈʂo˩, | hĩ˧ | ɲi˧tsʰi˧qʰɑ˧-kv̩˥ | ɖɯ˧-ʈʂo˩ dzɯ˩. | </FORM>
 	<NOTE xml:lang="fr" message = "incertitude lors de l'écoute : /ɖɯ˧ʈʂʰv̩˧ dzɯ˩/? /ɖɯ˧-ʈʂo˧tsɯ˥/ ‘une tablée'? /ɖɯ˧-tɕʰo˩ dzɯ˩/ ‘manger ensemble'? ʈʂo˧tsɯ˥: emprunt pour ‘table'? ou encore: /ɖɯ˧-tɕʰo˩ dzi˩/ ‘être assis ensemble'? Réponse : est : /ɖɯ˧-ʈʂo˩, ɖɯ˧-ʈʂo˩ dzɯ˩/. Il s'agit du classificateur des repas."/>
@@ -328,7 +330,7 @@
 	<TRANSL xml:lang="fr">on fait bouillir un quartier de viande conservée, on fait bouillir un quartier de jambon; de la sorte… on sert un repas à plus de vingt personnes! (littéralement: «vingt personnes et quelques prennent un repas»)</TRANSL>
 	<TRANSL xml:lang="zh">煮一大块琵琶肉，煮一大块火腿，这样。二十几个人（一起）吃一（大）顿！</TRANSL>
 </S>
-<S id="﻿Benevolence_S046">
+<S id="Benevolence_S046">
 	<AUDIO start="264.22" end="270.405"/>
 	<FORM kindOf="phono">mmm… ɖɯ˧-ʈʂo˩ dzɯ˩-dʑo˩, | le˧-hɯ˩-dʑo˩, | zo˩no˥, | ʈæ˧ʂɯ˧-lɑ˧ | njæ˧zɯ˩-bv̩˩ | ɕjɤ˧pʰje˥ | le˧-pʰæ˩, | ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "reporté dans le dictionnaire : réalisation de ‘photo', 相片, emprunté au chinois : n'est pas /ɕjɤ˧pʰjɤ˥/ mais /ɕjɤ˧pʰje˥/, réalisé proche de [ɕjɤ˧pʰjɛ˥]. On peut dire ‘prendre une photo' de deux façons : /le˧-lɑ˧˥/, /le˧-pʰæ˩/."/>
@@ -336,14 +338,14 @@
 	<TRANSL xml:lang="fr">Mmmh… (les gens) prennent un repas; quand ils partent, eh bien, Daeshi prend aussi une photo de nous, n'est-ce pas! (Pour faire fête aux invités, non seulement on leur sert un bon repas, mais après, on fait une photo ensemble, pour garder le souvenir de ce jour-là.)</TRANSL>
 	<TRANSL xml:lang="zh">吃了一顿，（他们）回去（之前），达石[阿妈的大儿子]也拍我们的相片，对吧！</TRANSL>
 </S>
-<S id="﻿Benevolence_S047">
+<S id="Benevolence_S047">
 	<AUDIO start="270.405" end="272.949"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥ | le˧-po˧˥, | njɤ˧-ki˩ | wɤ˩˥ | ə˧mɑ˧-ki˧ | le˧-hwɤ˩-tsʰɯ˩-dʑo˩, | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥ | le˧po˧˥ | njɤe˧kwɤ˧˥ | ə˧mɑ˧ki˧ | le˧ho˩tsʰɯ˩dʑo˩ |"/>
 	<TRANSL xml:lang="fr">(ils) emmenaient (les photos), et après, ils me les expédiaient (après les avoir fait développer)!</TRANSL>
 	<TRANSL xml:lang="zh">他们这样拿走（相片，当一个纪念），然后寄给我！</TRANSL>
 </S>
-<S id="﻿Benevolence_S048">
+<S id="Benevolence_S048">
 	<AUDIO start="272.949" end="277.998"/>
 	<FORM kindOf="phono">əəə… ʈʰææ̃˧, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | hĩ˧ ʈʂɤ˧fv̩˧-zo˧, &lt;əəə… hĩ˧…&gt; | zo˩no˥, | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɑ˩ʈʰæ˧æ˧nɑ˩ʈʂʰɯ˥dʑo˩ | hĩ˧ʈʂɤ˧fv̩˧zo˩ | zo˩no˥ | hĩ˧bo˧ | mæ˧zo˧ko˩ | hĩ˧ɻæɑ˥wo˩tsʰo˩ | hĩ˧pʰv̩˥ | ɖɯ˧ʝi˧zo˧kv̩˩pi˧zo˩ |"/>
@@ -351,13 +353,13 @@
 	<TRANSL xml:lang="fr">Vrai de vrai, les Na, ils prenaient soin d'autrui! ('prendre soin': emprunt chinois) euh, ils prenaient soin des gens (mot na)!</TRANSL>
 	<TRANSL xml:lang="zh">摩梭人，真的很会照顾别人！（‘照顾’：汉语借词）那么……很会照顾别人！（‘照顾’：摩梭话）</TRANSL>
 </S>
-<S id="﻿Benevolence_S049">
+<S id="Benevolence_S049">
 	<AUDIO start="277.998" end="280.015"/>
 	<FORM kindOf="phono">hĩ˧ ɑ˥ʁo˩ tsʰɯ˩, | hĩ˧ pʰv̩˩ɖɯ˩ ʝi˩-zo˩-kv̩˩, | pi˧-zo˩! |</FORM>
 	<TRANSL xml:lang="fr">Quand quelqu'un venait à la maison (=quand il venait un invité), on s'occupait d'eux ! (=on leur témoignait l'hospitalité la plus généreuse)</TRANSL>
 	<TRANSL xml:lang="zh">人来家里（=来了客人），要很关心！</TRANSL>
 </S>
-<S id="﻿Benevolence_S050">
+<S id="Benevolence_S050">
 	<AUDIO start="280.015" end="283.307"/>
 	<FORM kindOf="phono">æ˧ʂæ˧, | hĩ˧mo˥-hĩ˩-ɳɯ˩ | kwɤ˧pɤ˧ lɑ˧-kv̩˥-mæ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.28"/>
@@ -366,21 +368,21 @@
 	<TRANSL xml:lang="fr">Autrefois, ce sont les vieux qui prodiguaient ces enseignements (=qui enseignaient tout cela);</TRANSL>
 	<TRANSL xml:lang="zh">以前，老人家会教这些（道理）的，</TRANSL>
 </S>
-<S id="﻿Benevolence_S051">
+<S id="Benevolence_S051">
 	<AUDIO start="283.307" end="285.489"/>
 	<FORM kindOf="phono"> zo˩no˥ | ↑njɤ˧ | pi˧-ɲi˥ mæ˩, | ʈʂʰɯ˧-sɯ˩kv̩˩-ki˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˩no˧ | njɤ˧ | pi˧ɲi˥mæ˩æ˩ | ʈʂʰɯ˧sɯ˩kv̩˩ki˩ |"/>
 	<TRANSL xml:lang="fr">aujourd'hui, c'est moi qui leur en parle, à eux (=aux plus jeunes)!</TRANSL>
 	<TRANSL xml:lang="zh">而到了现在，是我说给他们（=给更年轻的人们）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S052">
+<S id="Benevolence_S052">
 	<AUDIO start="285.919" end="289.135"/>
 	<FORM kindOf="phono">zo˩no˥, | ʈʂʰɯ˧ gɤ˧-se˥, | ɖʐɯ˧qo˩ tʰv̩˩, | tʰi˧-hwæ˧, | õ˧-bv̩˥-õ˩ | tʰi˧-dzɯ˥. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˩no˥ | ʈʂʰɯ˧gɤ˧tsʰi˥ | ɖʐɯ˧qo˩tʰv̩˩ | tʰi˧hv̩˧˥ | hõ˧bv̩˥ʁo˩ | tʰi˧dzɯ˥ |"/>
 	<TRANSL xml:lang="fr">De nos jours, quand il manque quelque chose, hop, on va au marché, on achète (ce dont on a besoin) et on se le mange. </TRANSL>
 	<TRANSL xml:lang="zh">现在，缺什么东西，就去市场，买，自己吃。</TRANSL>
 </S>
-<S id="﻿Benevolence_S053">
+<S id="Benevolence_S053">
 	<AUDIO start="289.135" end="295.288"/>
 	<FORM kindOf="phono">ɑ˩ʁo˧-dʑo˩ | pi˧, | zo˩no˥, | njɤ˧ ki˧zo˧-ki˧ ɲi˥-bi˩, | dʑɤ˩-hĩ˧ tʰv̩˧-kʰwɤ˥ | tʰi˧-tɕɯ˥, | pi˧! | dzɑ˧-hĩ˧ | tʰv̩˧-kʰwɤ˥-dʑo˩ | le˧-dzɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.29"/>
@@ -389,14 +391,14 @@
 	<TRANSL xml:lang="fr">A la maison, eh bien, je donne le même conseil à (ma belle-fille) Gisso: je lui dis de garder les bons morceaux ! et de manger les bas morceaux / de se contenter des bas morceaux !</TRANSL>
 	<TRANSL xml:lang="zh">在家，我给（我媳妇）给若（这样的建议）：好的那块，存起来！不太好的那块，（给自己）吃！</TRANSL>
 </S>
-<S id="﻿Benevolence_S054">
+<S id="Benevolence_S054">
 	<AUDIO start="295.288" end="300.257"/>
 	<FORM kindOf="phono">hĩ˧ le˧-jo˥-kv̩˩, | hĩ˧-ɳɯ˩ | õ˧ ʐwɤ˧-kv̩˥, | ə˧zɯ˩ | tɕɯ˧-di˧ mɤ˧-dʑo˥-dʑo˩: |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧le˧ʝjoi˥kv̩˩ | hĩ˧ɳɯ˩ | õ˧ʐwɤ˧kv̩˩˥ | ə˧zɯ˩ | tɕɯ˧di˧mɤ˧dʑo˥dʑo˩ |"/>
 	<TRANSL xml:lang="fr">il y a des gens qui vont venir; les gens parleront de nous ; si on n'a pas de provisions, (ils diront:)</TRANSL>
 	<TRANSL xml:lang="zh">会有人来，他们会谈我们（评论我们），如果咱们俩没有存货（家里没有备好给客人的食物），（他们会说：）</TRANSL>
 </S>
-<S id="﻿Benevolence_S055">
+<S id="Benevolence_S055">
 	<AUDIO start="300.257" end="303.996"/>
 	<FORM kindOf="phono">“ooo! ʈʂʰɯ˧-ɻ̩˩, | ɑ˩ʁo˧ hĩ˧ ɲi˧-kv̩˧ tʰi˧-dʑo˧˥, | ɖɯ˧-sɑ˥ | gɤ˩-tʰv̩˧-di˧ mɤ˧-dʑo˧˥!” | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.30"/>
@@ -405,21 +407,21 @@
 	<TRANSL xml:lang="fr">“Eeeh ben! Elles, elles sont deux à la maison, mais elles n'ont rien à ‘sortir' (du garde-manger pour nous l'offrir)!”</TRANSL>
 	<TRANSL xml:lang="zh">喔！他们家里有两个人，（但还是）一点东西也没有！</TRANSL>
 </S>
-<S id="﻿Benevolence_S056">
+<S id="Benevolence_S056">
 	<AUDIO start="303.996" end="305.818"/>
 	<FORM kindOf="phono">zo˩no˥ | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˩no˥ | hĩ˧ɳɯ˩ | ʐwɤ˩kv̩˩˥ |"/>
 	<TRANSL xml:lang="fr">Alors… les gens vous critiquent (littéralement «les gens parlent»).</TRANSL>
 	<TRANSL xml:lang="zh">那么，人家会说（=会批评）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S057">
+<S id="Benevolence_S057">
 	<AUDIO start="305.818" end="309.098"/>
 	<FORM kindOf="phono">hĩ˧mo˥-hĩ˩ dʑo˩-hĩ˩ dʑo˩, | əəə…le˧-ʂɯ˧-kv̩˧˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧mo˥ɻ̩˩dʑo˩hĩ˧dʑo˩ | əəə…le˧ʂɯ˧kv̩˥ |"/>
 	<TRANSL xml:lang="fr">S'il y a des personnes âgées à la maison, euh… ils viennent à mourir un jour ! / ils peuvent passer soudain de vie à trépas ! (littéralement: ‘ils peuvent mourir')</TRANSL>
 	<TRANSL xml:lang="zh">（家里）如果有老人，嗯……他们会去世的！ / 他们不知何时会死的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S058">
+<S id="Benevolence_S058">
 	<AUDIO start="309.098" end="314.038"/>
 	<FORM kindOf="phono">tʰv̩˧ ɖʐɯ˥kʰɤ˩, | hi˧lɤ˩ | ɖɯ˧-pi˧ gɤ˥ tʰv̩˩-di˩ mɤ˩-dʑo˩, | pi˧-dʑo˩ | hĩ˧-ɳɯ˩ | ʐæ˩-kv̩˩˥, | pi˧zo˩. | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.31"/>
@@ -427,14 +429,14 @@
 	<TRANSL xml:lang="fr">A ce moment-là, si on n'a pas aussitôt quelque chose à sortir (de la réserve pour préparer un repas pour les gens qui viennent à la maison), on est l'objet de quolibets. Voilà ce qu'on disait !</TRANSL>
 	<TRANSL xml:lang="zh">到那时刻，假如无法立即拿出来一些（准备请客的饭）</TRANSL>
 </S>
-<S id="﻿Benevolence_S059">
+<S id="Benevolence_S059">
 	<AUDIO start="314.503" end="318.183"/>
 	<FORM kindOf="phono">le˧-ʐwɤ˩, | ɖɯ˧-kʰv̩˧˥ | bo˩˥ | qʰɑ˩kv̩˩ qʰo˥-bi˩-bi˩, | dʑɤ˩-hĩ˥ | tʰi˧-tɕɯ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : le˧ʐwɤ˩ | ɖɯ˧kʰv̩˥ | do˩ | qʰɑ˩qʰv̩˩qʰo˥bi˩bi˩dʑɤ˩hĩ˧dɯ˧tɕɯ˥ |"/>
 	<TRANSL xml:lang="fr">On disait aussi : quel que soit le nombre de porcs qu'on abat dans l'année, on garde (toujours) en réserve le bon (=les bons morceaux)!</TRANSL>
 	<TRANSL xml:lang="zh">还说：一年无论杀多少头猪，都要村好的（肉）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S060">
+<S id="Benevolence_S060">
 	<AUDIO start="318.183" end="326.444"/>
 	<FORM kindOf="phono">tsʰi˧ʝi˧, | bo˩˥ | le˧-qʰo˧˥, | &lt;le…&gt; tʰi˧-tɕɯ˧-se˥ | wɤ˩˥ | &lt;tsʰi˧ʝi˧…&gt; | so˧ʝi˥ | bo˩ qʰo˧-dʑɯ˧, | tsʰe˧ɬi˧mi˧-qo˧-ɳɯ˧ | tʰi˩˥ | wɤ˩˥ | &lt;l…&gt; ɖɯ˧-pi˧˥ | le˧-dzɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.32"/>
@@ -443,14 +445,14 @@
 	<TRANSL xml:lang="fr">Cette année, on tue le cochon, on garde en réserve [les meilleures pièces de viande]; ensuite, &lt;cette année…&gt; l'année prochaine, au moment de tuer le cochon, (c'est-à-dire) au dixième mois de l'année, eh bien, à nouveau… on mange un peu (de la viande du cochon: les bas morceaux, ceux qu'on ne conserve pas)!</TRANSL>
 	<TRANSL xml:lang="zh">今年，我们杀了猪，把（好的肉）留着；然后，&lt;今年……&gt;明年，当我们杀猪的时候，（也就是）每年的十月，还是……我们吃一点（猪肉：低等的，我们不留的）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S061">
+<S id="Benevolence_S061">
 	<AUDIO start="326.444" end="329.271"/>
 	<FORM kindOf="phono">wɤ˩˥ | tsʰe˧ʝi˧ | le˧-qʰo˧-hĩ˥, | wɤ˩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-tɕɯ˥-kv̩˩-mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tsʰe˧ɬi˧mi˧qo˧ɳɯ˧ | tʰi˩˥ | wɤ˩˥zɯ | ɖɯ˧pi˧ | le˧dzɯ˥ | wɤ˩˥ | tsʰe˧ʝi˧ | le˧qʰv̩˩ | wɤ˩˥ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi˧tɕɯ˥kv̩˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">et à nouveau, ceux qu'on tue cette année, on les conserve ainsi / on les conserve de même façon!</TRANSL>
 	<TRANSL xml:lang="zh">今年杀的猪（的肉），也同样存起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S062">
+<S id="Benevolence_S062">
 	<AUDIO start="329.271" end="331.862"/>
 	<FORM kindOf="phono">nɑ˩ʈʂʰɯ˥-dʑo˩, | hĩ˧… | hĩ˧ ʁo˧mæ˧-zo˧-kv̩˩, pi˩-kv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.33"/>
@@ -458,7 +460,7 @@
 	<TRANSL xml:lang="fr">Les Na, ils savent prendre soin des gens, dit-on.</TRANSL>
 	<TRANSL xml:lang="zh">摩梭人会关心别人。 / 摩梭话传统文化里面，好客和关心别人是核心概念。</TRANSL>
 </S>
-<S id="﻿Benevolence_S063">
+<S id="Benevolence_S063">
 	<AUDIO start="331.862" end="338.64"/>
 	<FORM kindOf="phono">nɑ˩-ʈʂʰɯ˥, | dʑɤ˩ ʈʂɤ˧-dʑo˧, | ʂe˧sɑ˩ dʑɤ˩ ʈʂɤ˩, | ʂe˧bv̩˧ dʑɤ˥ ʈʂɤ˩, | bo˩kʰɯ˥ dʑɤ˩ ʈʂɤ˩, | bo˩ʈʂʰæ˥ dʑɤ˩ ʈʂɤ˩! | ɑ˩pʰo˩-hĩ˩ le˩-tsʰɯ˩-hĩ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "tons de dʑɤ˩ʈʂɤ˧-dʑo˧: tv"/>
@@ -466,7 +468,7 @@
 	<TRANSL xml:lang="fr">Pour les Na, les bons morceaux (=ce qui est considéré comme des bons morceaux, c'est:) les membres séchés avec l'os, c'est considéré comme une belle pièce; la saucisse, c'est une belle pièce; les pieds de porc, c'est une belle pièce; la viande conservée, c'est une belle pièce, pour quand des gens arrivent (=pour les invités)!</TRANSL>
 	<TRANSL xml:lang="zh">摩梭人的话，算好（肉）的呢，（有）：风干猪腿算是好的，香肠算是好的，猪脚算是好的，琵琶肉算是好的，来客人的时候！</TRANSL>
 </S>
-<S id="﻿Benevolence_S064">
+<S id="Benevolence_S064">
 	<AUDIO start="338.64" end="342.901"/>
 	<FORM kindOf="phono">hĩ˧-ʈʂʰɯ˧, əəə… | nɑ˩ hɑ˧ ɲi˥, | pi˧-zo˩ | ɖwæ˧˥ | fv̩˧ ʝi˧ kv̩˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.34"/>
@@ -475,21 +477,21 @@
 	<TRANSL xml:lang="fr">Les gens, euh… la nourriture na, eh bien, ils adorent ça ! / La bonne nourriture na, les visiteurs, ils adorent ça !</TRANSL>
 	<TRANSL xml:lang="zh">人呢，那么……摩梭人的饭，能让人（吃得）很开心！ / 远方的客人吃摩梭人的饭，非常开心！</TRANSL>
 </S>
-<S id="﻿Benevolence_S065">
+<S id="Benevolence_S065">
 	<AUDIO start="343.237" end="345.397"/>
 	<FORM kindOf="phono">tʰi˩˥ | zo˩qo˥ | le˧-tsʰɯ˩-bi˩, | hɑ˧ le˧-gv̩˩, | tʰi˧-hu˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | zo˩qo˧ | lwæ˧tsʰɯ˩bi˩ | hɑ˧le˧gv̩˩tʰi˧hwɤ˧˥ |"/>
 	<TRANSL xml:lang="fr">Alors, d'où que vienne l'invité, on fait à manger, et puis on attend! </TRANSL>
 	<TRANSL xml:lang="zh">无论客人来自哪里，（都要一样好对待：我们）做饭，就等（人家的到来）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S066">
+<S id="Benevolence_S066">
 	<AUDIO start="345.397" end="351.086"/>
 	<FORM kindOf="phono">ə˧mɑ˧ | ʈʂʰɯ˧-tɕi˩ | le˧-ʝi˩-ze˩, | tæ˧ʂɯ˧-ɳɯ˧ tjɤ˧hwɑ˧ lɑ˥: | “ə˧mɑ˧! | tsʰi˧ɲi˧ | hĩ˧ le˧-jo˥-ho˩! | hɑ˧ ɖɯ˧-kʰwɤ˧ gv̩˥-ɻ̩˩!” | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɑ˩mɑ˧ʈʂʰɯ˥tɕi˩ | le˧ʝi˧ʑi˩tæ˧ʈʂʰɯ˧ɳɯ˩tʰi˩ho˥zo˩ | ə˧lɑ˧ | tsʰi˧ʝi˧ | hĩ˧le˧wɑ˥ho˩ | hɑ˧ɖv̩˧kʰɯ˧ gv̩˥ɻ̩ | pi˧ |"/>
 	<TRANSL xml:lang="fr">Quand ces gens viennent chez moi, Daeshi (me) passe un coup de fil: “Ama! Aujourd'hui, il y a des invités qui vont venir! Prépare de quoi manger!” qu'il dit.</TRANSL>
 	<TRANSL xml:lang="zh">他们来我家（的时候），达石打电话来，说：“阿妈！今天有人要来！你准备饭吧！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S067">
+<S id="Benevolence_S067">
 	<AUDIO start="351.086" end="355.37"/>
 	<FORM kindOf="phono">mmm… hɑ˧ | le˧gv̩˧~gv̩˥, | tʰi˧-hu˥! | &lt;lo˩q…&gt; lo˩qo˥ | hɑ˧ | tʰi˧-tɕɤ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.35"/>
@@ -497,7 +499,7 @@
 	<TRANSL xml:lang="fr">Alors je fais la cuisine, et puis j'attends! Je fais cuire du riz dans la casserole à céréales! (Si la locutrice fournit une telle précision quant à la façon de cuire le riz, plutôt que de dire simplement “je fais cuire du riz, je mets du riz à cuire”, c'est qu'à la ville on utilise un appareil électrique pour la cuisson du riz, comme elle l'explique ci-après.)</TRANSL>
 	<TRANSL xml:lang="zh">（于是我就）做饭，就等（他们的到来）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S068">
+<S id="Benevolence_S068">
 	<AUDIO start="355.37" end="359.689"/>
 	<FORM kindOf="phono">lo˩qo˥, | mmm… | hɑ˧bv̩˥ mɤ˩-bv̩˩, | lo˧qo˥ fæ˩ | tʰi˧-tɕɤ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : no˩kv̩˧˥ | hɑ˧bv̩˥mɤ˩gv̩˩ | lo˧qo˧hɑ˥ | tʰi˧tɕɤ˧˥ | ə˧"/>
@@ -505,7 +507,7 @@
 	<TRANSL xml:lang="fr">La casserole à céréales, eh bien… le riz, on ne le cuit pas à la vapeur, on le fait bouillir dans la casserole à céréales!</TRANSL>
 	<TRANSL xml:lang="zh">饭锅，嗯……饭不是蒸的，是饭锅里煮的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S069">
+<S id="Benevolence_S069">
 	<AUDIO start="359.689" end="362.754"/>
 	<FORM kindOf="phono">wɤ˩˥ | ə˧ʝi˧-tsʰi˧ʝi˧-dʑo˩, | tje˩fæ˧ po˥, | hɑ˧-dʑo˩ | hĩ˧ | mɤ˧-ʐv̩˩ tsɯ˩, | ɑ˩pʰo˩-hĩ˩ ʈʂʰɯ˩-tɕi˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.36"/>
@@ -513,7 +515,7 @@
 	<TRANSL xml:lang="fr">De nos jours, si on utilise un cuiseur à riz automatique, les gens, ceux qui viennent du dehors (=les visiteurs), il paraît qu'ils trouvent que ce n'est pas bon (=que ça n'a pas la même saveur que le riz cuit au feu de bois)!</TRANSL>
 	<TRANSL xml:lang="zh">如果用现代的电饭锅，外来的那些人好像认为饭不香（没有木火上煮的饭那么好吃）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S070">
+<S id="Benevolence_S070">
 	<AUDIO start="362.754" end="368.164"/>
 	<FORM kindOf="phono">lo˩qo˥ | tʰv̩˧-ʁo˥-qo˩-ɳɯ˩ | hɑ˧ | ɖɯ˧-lo˩qo˩ tʰi˩-tɕɤ˩! | “ɬɬɬ! ɖwæ˧˥ | so˩˥! | ɖwæ˧˥ | so˩!” pi˥, | ɖwæ˧˥ | dzɯ˧-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : lo˩kv̩˧ | tʰɯ˧ʁo˥qo˩ | ɳɯ˩qɑ˧ | ɖɯ˧ɬo˩kv̩˩tʰi˩tɕɤ˩ | ɳæ˧so˩ | ɖwæ˧˥so˩pi˧ | ɖwæ˧˥dzɯ˧kv̩˩mæ˩ |"/>
@@ -521,7 +523,7 @@
 	<TRANSL xml:lang="fr">(Alors) c'est dans la casserole à céréales que (je) prépare un grand pot riz! “Miam miam! C'est bon, c'est bon!” disent les invités; et ils en mangent beaucoup!</TRANSL>
 	<TRANSL xml:lang="zh">（所以）我用传统的饭锅来煮一锅饭！“很好吃！很好吃！”（人家）说。（他们）吃很多！</TRANSL>
 </S>
-<S id="﻿Benevolence_S071">
+<S id="Benevolence_S071">
 	<AUDIO start="368.164" end="376.581"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩ | tʰi˩˥, | æ˧ʂæ˩-dʑo˩ | tʰi˩˥, | hĩ˧mo˥-hĩ˩-ki˩ pʰv̩˩ɖɯ˩. | mmm… hĩ˧bæ˧-ki˧ pʰv̩˥ɖɯ˩. | zo˧mv̩˥zo˩-ki˩ pʰv̩˩ɖɯ˩-kv̩˩ mæ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥dʑo˩ | tʰi˩˥ | æ˧ʂ ʐæ˩dʑo˩ | tʰi˩˥ | hĩ˧no˥hĩ˩ki˩kʰv̩˩ɖɯ˩hĩ˧bæ˧ki˩pʰv̩˧ɖɯ˩ | zo˧mv̩˥zo˩ki˩kʰv̩˩dv̩˩kv̩˩mæ˩"/>
@@ -530,7 +532,7 @@
 	<TRANSL xml:lang="fr">De la sorte, autrefois, on prenait grand soin des personnes âges, des hôtes, et aussi des enfants.</TRANSL>
 	<TRANSL xml:lang="zh">这样，从前，（摩梭人）很关心老人，很关心客人，也很关心小孩子。</TRANSL>
 </S>
-<S id="﻿Benevolence_S072">
+<S id="Benevolence_S072">
 	<AUDIO start="376.581" end="385.28"/>
 	<FORM kindOf="phono">ĩ, | æ̃˩ qʰo˧-bi˧-bi˧, | zo˩no˥, | hĩ˧mo˥-hĩ˩-ki˩ | æ̃˩ʈʂæ˩˥ | ɖv̩˧qæ˧-lɑ˧ | tʰi˧-di˧~di˥-hĩ˩ ʈʂʰɯ˩-ɭɯ˩ | ɖɯ˧-tv̩˩ ki˩-kv̩˩ mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ĩ æ̃˩qʰo˥pʰi˩pi˥zo˩no˥ | hĩ˧ɻo˩ | ə˧ʝi˧ki˩ | æ˩ʈʂæ˧ | ɖv̩˧qæ˧˥ | ɑ˧ʈʂʰɯ˧dʑi˩di˥ | ʈʂʰɯ˧ | ɖɯ˧tv̩˩tɕi˥kv̩˩mæ˩ |"/>
@@ -538,7 +540,7 @@
 	<TRANSL xml:lang="fr">Oui, quand on tue un poulet, eh bien, on donne aux personnes âgées les ailes ; les ailes et ce qui va avec!</TRANSL>
 	<TRANSL xml:lang="zh">杀鸡的时候，给老人家一块鸡翅：翅膀和周围那块。</TRANSL>
 </S>
-<S id="﻿Benevolence_S073">
+<S id="Benevolence_S073">
 	<AUDIO start="385.28" end="388.807"/>
 	<FORM kindOf="phono">zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tsʰɤ˩ tʰv̩˩-ʈv̩˥! | kʰɯ˩tv̩˩ɭɯ˥ | ʈʂʰɯ˧-ʈv̩˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.38"/>
@@ -547,7 +549,7 @@
 	<TRANSL xml:lang="fr">Aux enfants, (on donne) les cuisses! (littéralement: ‘le morceau des cuisses, le morceau qui va avec les cuisses')</TRANSL>
 	<TRANSL xml:lang="zh">给小孩的，是腿那块！鸡腿那块！</TRANSL>
 </S>
-<S id="﻿Benevolence_S074">
+<S id="Benevolence_S074">
 	<AUDIO start="389.625" end="399.161"/>
 	<FORM kindOf="phono">mmm…tʰi˩˥, | hĩ˧ | njæ˧-sɯ˩kv̩˩ | zo˧mv̩˥-ə˩mi˩-lɑ˩ | zo˧mv̩˥-ə˩dɑ˩-lɑ˩, | njæ˧-sɯ˩kv̩˩-dʑo˩ | ɬo˩kɤ˩-ɬo˥ɲi˩ | mɤ˧-ʁɑ˧-hĩ˧-tʰv̩˧ | ɖɯ˧kʰwɤ˥-lɑ˩ dzɯ˩-kv̩˩ mæ˩! | v̩˩dʑɯ˩ ʈʰɯ˩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.39"/>
@@ -556,7 +558,7 @@
 	<TRANSL xml:lang="fr">Alors, les gens, nous autres, mères d'enfants (=femmes adultes) et pères d'enfants (=hommes adultes) (=ceux qui ne sont ni des enfants, ni des vieillards), nous autres, [du poulet qu'on partage en famille,] on ne mange qu'un petit bout de côtes, pas bien goûteux! On boit la soupe (du poulet) / on se contente essentiellement de la soupe!</TRANSL>
 	<TRANSL xml:lang="zh">我们成年人呢，只吃（鸡的）一点肋骨，不怎么好的那块！我们（基本上只）喝鸡汤（而已）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S075">
+<S id="Benevolence_S075">
 	<AUDIO start="399.627" end="404.167"/>
 	<FORM kindOf="phono">zo˩mv̩˥ pʰv̩˩ɖɯ˩! | hĩ˧mo˥-hĩ˩ pʰv̩˩ɖɯ˩! | hĩ˧bæ˧ pʰv̩˥ɖɯ˩! | ĩ˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.40"/>
@@ -564,7 +566,7 @@
 	<TRANSL xml:lang="fr">On prend soin des enfants! On prend soin des personnes âgées! On prend soin des invités! Oui!</TRANSL>
 	<TRANSL xml:lang="zh">关心小孩，关心老人，关心客人！对的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S076">
+<S id="Benevolence_S076">
 	<AUDIO start="404.167" end="412.235"/>
 	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧ne˧-ʝi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | æ̃˩˥ | ɖɯ˧-mi˩ qʰo˩, | njɤ˧ | ɑ˩ʁo˥ | zo˩no˥ | njæ˧-sɯ˩kv̩˩ | ɬɬɬ… æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, | tɕi˩-ʁo˩to˥, | æ˧mv̩˧-go˧mi˥ so˩-kv̩˩, |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tɕi˩ | ɬo˩to˥ə˧mv̩˧go˧mi˥so˩ |"/>
@@ -573,7 +575,7 @@
 	<TRANSL xml:lang="fr">Voilà comment on faisait, autrefois! (Quand) on tuait un poulet, chez moi, eh bien, nous, les trois enfants (les trois frères et soeurs), quand nous étions petits, nous, trois frères et soeurs,</TRANSL>
 	<TRANSL xml:lang="zh">以前就是这样做的！以前我们在家里杀鸡的时候，我们三个孩子，兄弟姐妹三个，</TRANSL>
 </S>
-<S id="﻿Benevolence_S077">
+<S id="Benevolence_S077">
 	<AUDIO start="412.235" end="419.468"/>
 	<FORM kindOf="phono">əəə… hĩ˧mo˥-hĩ˩, əəə… ʐv̩˩-kv̩˩. | ʈʂʰɯ˧-te˩… | njæ˧-sɯ˩kv̩˩ | so˩-kv̩˩˥, | æ̃˩ʂe˥ | dzɯ˧-mɤ˧-kv̩˩! | kʰɯ˧tsʰɤ˧ tʰv̩˧-ɭɯ˧-lɑ˩ ɖɯ˩-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.41"/>
@@ -583,7 +585,7 @@
 	<TRANSL xml:lang="fr">Les vieux, il y en avait quatre. Cette génération… nous autres, nous trois, on ne mangeait pas de viande de poulet ! On n'avait que les pattes! (=partie sans viande, qu'on grignote sans guère de profit)</TRANSL>
 	<TRANSL xml:lang="zh">老人，有四位。我们三个（轻装年轻人），不会吃鸡肉的！我们只得到脚那块！（=不带肉的鸡爪子）</TRANSL>
 </S>
-<S id="﻿Benevolence_S078">
+<S id="Benevolence_S078">
 	<AUDIO start="419.944" end="421.837"/>
 	<FORM kindOf="phono">ɬo˩kɤ˩˥, | mɤ˧-ʁɑ˧-hĩ˧ tʰv̩˧-kʰwɤ˧-lɑ˩ ɖɯ˩-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.42"/>
@@ -592,14 +594,14 @@
 	<TRANSL xml:lang="fr">On n'avait droit qu'aux côtes, aux bas morceaux!</TRANSL>
 	<TRANSL xml:lang="zh">我们只能吃肋骨之类，不怎么好的那些部位。</TRANSL>
 </S>
-<S id="﻿Benevolence_S079">
+<S id="Benevolence_S079">
 	<AUDIO start="421.837" end="427.027"/>
 	<FORM kindOf="phono">zo˧mv̩˥zo˩-lɑ˩ | hĩ˧mo˥-hĩ˩-ki˩, | zo˩no˧-ne˩ | | ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ dzɯ˧-mɤ˧-kv̩˩! | le˧-bv̩˧~bv̩˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˧mv̩˥zo˩lɑ˩ | hĩ˧mo˧hĩ˩ki˩ | zo˩no˧ | njɤ˧i˩ | ɖɯ˧tɑ˧˥ | tɑ˩ho˧dzɯ˩mɤ˩kv̩˩ | le˧bv̩˧bæ˩ |"/>
 	<TRANSL xml:lang="fr">Les enfants et les personnes âgées, elles ne mangeaient pas toutes ensembles comme c'est le cas aujourd'hui! On mangeait séparément (littéralement: ‘on séparait').</TRANSL>
 	<TRANSL xml:lang="zh">小孩和老人家，不会像现在一起吃的！是分开用餐的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S080">
+<S id="Benevolence_S080">
 	<AUDIO start="427.027" end="433.923"/>
 	<FORM kindOf="phono">hĩ˧mo˥-hĩ˩-ki˩, | æ̃˩ʈʂæ˩˥ | &lt;ʈʂʰɯ˧-h…&gt; | ɖɯ˧-ʈʂæ˧˥, | ʂe˧nɑ˩ | ɖɯ˧-kʰwɤ˥, | &lt;pʰv̩˧…&gt; | ʁɑ˧pv̩˧ tʰv̩˧-kʰwɤ˥ | mmm… ɖɯ˧-kʰwɤ˥ tʰi˩-kʰɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.43"/>
@@ -608,7 +610,7 @@
 	<TRANSL xml:lang="fr">Les personnes âgées, on mettait (dans l'assiette qui leur était destinée) une aile de poulet, un morceau de viande maigre : un morceau de poitrine (=de blanc de poulet)!</TRANSL>
 	<TRANSL xml:lang="zh">给老人家的有：一个鸡翅、一块瘦肉。鸡脖子那个部位，也给他们一块！</TRANSL>
 </S>
-<S id="﻿Benevolence_S081">
+<S id="Benevolence_S081">
 	<AUDIO start="433.923" end="436.593"/>
 	<FORM kindOf="phono">zo˧mv̩˥zo˩-ki˩, | kʰɯ˩tv̩˩ɭɯ˥-tʰv̩˩ ʝi˩-ɭɯ˩ tʰi˩-ki˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tso˧ɲv̩˥zo˩ki˩kʰɯ˩tv̩˩ɭɯ˥ | tʰi˩ | ʑjo˧ɻ̩˩tʰi˩ki˩ |"/>
@@ -616,14 +618,14 @@
 	<TRANSL xml:lang="fr">Aux enfants, on donnait une cuisse de poulet!</TRANSL>
 	<TRANSL xml:lang="zh">给小孩的是鸡腿！</TRANSL>
 </S>
-<S id="﻿Benevolence_S082">
+<S id="Benevolence_S082">
 	<AUDIO start="436.959" end="439.214"/>
 	<FORM kindOf="phono">ĩ˧, | v̩˩dʑɯ˩˥ | le˧-qwæ˧˥, | õ˧-bv̩˥-õ˩ | ɖɯ˧-qʰwɤ˧˥ | tʰi˧-ki˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |"/>
 	<TRANSL xml:lang="fr">On servait (littéralement: ‘puisait') aussi de la soupe, à chacun son propre bol!</TRANSL>
 	<TRANSL xml:lang="zh">还给鸡汤，一人一碗！</TRANSL>
 </S>
-<S id="﻿Benevolence_S083">
+<S id="Benevolence_S083">
 	<AUDIO start="439.214" end="443.446"/>
 	<FORM kindOf="phono">õ˧ʈʂʰɯ˧ne˧ʝi˥-zo˩, | zo˩no˥, | əəə… hĩ˧mo˥-hĩ˩-lɑ˩ | zo˧mv̩˥zo˩ | hĩ˧bæ˧ pʰv̩˩ɖɯ˩-kv̩˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.44"/>
@@ -631,14 +633,14 @@
 	<TRANSL xml:lang="fr">De la sorte, eh bien, euh… on était attentionné envers les personnes âgées, les enfants et les hôtes.</TRANSL>
 	<TRANSL xml:lang="zh">这样，对老人、孩子们、客人都很关心。</TRANSL>
 </S>
-<S id="﻿Benevolence_S084">
+<S id="Benevolence_S084">
 	<AUDIO start="443.446" end="448.627"/>
 	<FORM kindOf="phono">hĩ˧bæ˧ tsʰɯ˧˥ | pi˧ | tʰi˩˥, | zo˧mv̩˥-zo˩ | &lt;le˧…&gt; ɑ˩pʰo˩-sɯ˥ | tʰi˧-dʑɤ˩bv̩˩-kʰɯ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧bæ˧tsʰɯ˧˥ | pi˧tʰi˩˥ | zo˧mv̩˧zo˧ | ɑ˩pʰv̩˩sɯ˥ | tʰi˧dʑɤ˩bv̩˩kʰɯ˩ |"/>
 	<TRANSL xml:lang="fr">Quand venaient des invités, les enfants, on les envoyait d'abord jouer dehors (pendant que les invités prenaient leur repas).</TRANSL>
 	<TRANSL xml:lang="zh">来了客人，让小孩先在外边玩（等客人吃完了，孩子们再吃）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S085">
+<S id="Benevolence_S085">
 	<AUDIO start="449.062" end="455.053"/>
 	<FORM kindOf="phono">mmm… hĩ˧mo˥-hĩ˩, | hĩ˧bæ˧-qɑ˩ | tʰi˧-dzi˩-kʰɯ˩. | hĩ˧bæ˧-lɑ˩ | hĩ˧mo˥-hĩ˩-sɯ˩ | hɑ˧ | tʰi˧-dzɯ˥-kʰɯ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.45"/>
@@ -647,14 +649,14 @@
 	<TRANSL xml:lang="fr">On faisait asseoir les personnes âgées et les invités. On servait d'abord le repas aux invités et aux personnes âgées.</TRANSL>
 	<TRANSL xml:lang="zh">让老人和客人坐下，让客人和老人先吃饭。</TRANSL>
 </S>
-<S id="﻿Benevolence_S086">
+<S id="Benevolence_S086">
 	<AUDIO start="455.384" end="460.783"/>
 	<FORM kindOf="phono">tʰi˩˥, | tʰv̩˧-sɯ˩kv̩˩ | le˧-dzɯ˧-se˥-kwɤ˩tɕɯ˩-lɑ˩, | zo˧mv̩˥zo˩=ɻæ˩-ki˩: | le˧-jo˩! | pi˧, | wɤ˩˥ | zo˧mv̩˥-zo˩=ɻæ˩ tʰi˧-dzɯ˥-kʰɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˩˥ | tʰv̩˧sɯ˩kv̩˩ | le˧dzɯ˧se˥kwɤ˩tɕɯ˩lɑ˩ | zo˧mv̩˥zo˩ | ə˧ki˩ | le˧jo˩ | pi˧ | wɤ˩zo˧mv̩˥zɑ˩"/>
 	<TRANSL xml:lang="fr">Ensuite, après qu'eux aient fini de manger, on disait aux enfants: Venez!, et on donnait à manger aux enfants!</TRANSL>
 	<TRANSL xml:lang="zh">然后他们吃完了以后，就叫小孩们：“来吧！”，就给小孩们吃饭！</TRANSL>
 </S>
-<S id="﻿Benevolence_S087">
+<S id="Benevolence_S087">
 	<AUDIO start="460.783" end="466.396"/>
 	<FORM kindOf="phono">tʰi˧-no˥, | njæ˧-sɯ˩kv̩˩ | ə˧dɑ˧-ə˧mi˧ | njæ˧-sɯ˩kv̩˩ dzɯ˩, | hɑ˧-dʑo˩ | so˩-pæ˩˥ | dzɯ˧-kv̩˩, | ə˧ʝi˧ʂɯ˥ʝi˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.46"/>
@@ -664,7 +666,7 @@
 	<TRANSL xml:lang="fr">Alors, nous autres, les parents (=la génération des parents: entre le ‘premier âge' et le ‘troisième âge')… on faisait trois services (en tout: un pour les invités et les personnes âgées, un pour les enfants, et un pour les adultes)!</TRANSL>
 	<TRANSL xml:lang="zh">那么，我们，父亲们与母亲们（=成年人这代：不是少年了，也没到老人的年龄）……我们一共供三次饭！</TRANSL>
 </S>
-<S id="﻿Benevolence_S088">
+<S id="Benevolence_S088">
 	<AUDIO start="466.396" end="468.521"/>
 	<FORM kindOf="phono">zo˩no˧-se˥, | qʰɑ˩jɤ˩ le˩-tsʰɯ˩-ɻ̩˥, | tɑ˧ho˧ dzɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.47"/>
@@ -672,7 +674,7 @@
 	<TRANSL xml:lang="fr">Aujourd'hui, quel que soit le nombre de personnes qui vient, on mange tous ensemble!</TRANSL>
 	<TRANSL xml:lang="zh">而现在呢，无论有多少人到，都一起吃！</TRANSL>
 </S>
-<S id="﻿Benevolence_S089">
+<S id="Benevolence_S089">
 	<AUDIO start="468.881" end="475.358"/>
 	<FORM kindOf="phono">əəə… zo˩no˥, | hĩ˧bæ˧ | ʐæ˩ʂæ˥-hĩ˩… | dʑɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ | mɤ˧-ɲi˩-ze˩-dʑo˩, | əəə… zo˩no˥, | õ˧-hĩ˥-lɑ˩ ɲi˩-ze˩, | qwæ˩~qwæ˧ tsæ˥-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.48"/>
@@ -681,14 +683,14 @@
 	<TRANSL xml:lang="fr">Alors, eh bien, les invités, les gens (qui venaient) de loin… ceux qui ne venaient pas de bien loin, euh… ceux qu'on considérait comme les nôtres, on leur servait à manger (comme aux membres de la famille, dans un même service)! (littéralement : ‘on leur puisait de la nourriture' (?)</TRANSL>
 	<TRANSL xml:lang="zh">那么，远方客人们……如果不是远方来的，那么，就当自己人看，（跟家人一样）一瓢一瓢给他们饭吃！（=简单跟他们分家人的饭）</TRANSL>
 </S>
-<S id="﻿Benevolence_S090">
+<S id="Benevolence_S090">
 	<AUDIO start="475.358" end="480.44"/>
 	<FORM kindOf="phono">hĩ˧bæ˧ &lt;le˧-&gt; | wɤ˩˥ | ʐæ˩ʂæ˥-hĩ˩ tsʰɯ˩, | pi˧, | hĩ˧bæ˩-sɯ˩ | dzɯ˧-kʰɯ˩! | hĩ˧bæ˧-sɯ˩ | pʰv̩˧ɖɯ˧ ʝi˥! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧bæ˩le˩ʁɑ˥ | ʐæ˩ʂæ˥ | tsɯ˩to˧ | hĩ˧mæ˩sɯ˩dzɯ˧kʰɯ˩ | hĩ˧bæ˧so˩ | pʰv̩˩ɖɯ˧ʝi˥ | õ˧ʈʂʰɯ˧ne˧ kv̩˩kv̩˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">Tandis que si les invités venaient de loin, on les faisait manger en premier / on préparait un premier service pour eux! Avant toute chose, on honorait ces invités! Voilà comment on faisait!</TRANSL>
 	<TRANSL xml:lang="zh">而如果客人是远方来的，就先给客人吃！要尊重贵宾！是这样做的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S091">
+<S id="Benevolence_S091">
 	<AUDIO start="480.44" end="489.21"/>
 	<FORM kindOf="phono">zo˩no˥, | əəə… ə˧tso˧ ɲi˩? | ə˧ʝi˧-ʂɯ˥ʝi˩ | pe˩tɕi˧ ɲi˥ tsʰɯ˩ | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩, | mmm… ʐæ˧v̩˩ tʰv̩˩-zo˩! | ɖɯ˧-v̩˧ tsʰɯ˩-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.49"/>
@@ -697,7 +699,7 @@
 	<TRANSL xml:lang="fr">Alors, euh… qu'est-ce que c'est / de quoi je vais parler? Autrefois, il y en un qui venait de Pékin; quelle blague! C'était donc un visiteur (littéralement ‘une personne qui venait').</TRANSL>
 	<TRANSL xml:lang="zh">那么，什么……以前，有来自北京的一个，有一点像笑话。他就来了（我家）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S092">
+<S id="Benevolence_S092">
 	<AUDIO start="489.21" end="492.867"/>
 	<FORM kindOf="phono">no˧˥, | ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˧ tʰv̩˧-qo˧, | ɲi˩bv̩˩ gv̩˥-ɲi˩ tsɯ˩ | mv̩˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ə˧ʝi˧ʂɯ˥ʝi˩ | jo˧gv̩˩tsʰɯ˩qo˥ | ɲi˩gv̩˩gv̩˥ɲi˥tsɯ˩ | mv̩˩ |"/>
@@ -707,7 +709,7 @@
 	<TRANSL xml:lang="fr">Alors celui-là, il paraît qu'autrefois, à Lijiang, il cuisinait des criquets! (Ce personnage avait eu une vie assez désordonnée, un temps ici un temps ailleurs; Ama essayait de comprendre des bribes de sa conversation animée mais quasi-inintelligible faute de langue commune; elle pense se souvenir qu'il lui avait représenté, gestes à l'appui, qu'il avait un temps vendu des brochettes de criquets sur un marché de Lijiang.)</TRANSL>
 	<TRANSL xml:lang="zh">这个人呢，他好像有一段时间在丽江市场上卖烧烤蟋蟀串！</TRANSL>
 </S>
-<S id="﻿Benevolence_S093">
+<S id="Benevolence_S093">
 	<AUDIO start="492.867" end="499.496"/>
 	<FORM kindOf="phono">no˧˥ | ʈʂo˧kwɤ˩ | &lt;ɖɯ˧-kw…&gt; ɖɯ˧-gi˧ gwɤ˥-dʑɯ˩-hĩ˩ ɖɯ˩-v̩˩ ɲi˩, tsɯ˩-zo˩, | ɖɯ˧-hɑ̃˧-ɻ̩˥, | ə˧mɑ˧-ki˧ tsʰɯ˧˥ ◊ mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˧ʈʂv̩˧kwɤ˩ | ɖɯ˧kv̩˩ | ɖɯ˧gi˩gv̩˧dʑɯ˩hĩ˩ | ɖɯ˧v̩˧ɲi˩tsɯ˩zo˩ | dʑo˧hæ̃˧˥ | ə˧mɑ˧ki˧tsʰɯ˧˥ | mv̩˩"/>
@@ -715,7 +717,7 @@
 	<TRANSL xml:lang="fr">Cette personne qui avait parcouru la moitié de la Chine, un soir, elle est arrivée chez moi.</TRANSL>
 	<TRANSL xml:lang="zh">那么，有一天，游了半个中国的这个人，到了我家。</TRANSL>
 </S>
-<S id="﻿Benevolence_S094">
+<S id="Benevolence_S094">
 	<AUDIO start="499.496" end="509.407"/>
 	<FORM kindOf="phono">ə˧mɑ˧-ki˩ tsʰɯ˩ ◊ dʑo˩, | əəə… | zo˩no˥ | u˥-ʈæ˧ʂɯ˧-ɳɯ˧ | tɕɯ˩-hĩ˩˥ | ə˧hɑ˩bɑ˩lɑ˩&lt;-qo˩&gt; | gwɤ˩-hĩ˩ tʰv̩˩-kʰwɤ˩˥ | ɬi˩ʈɯ˩mæ˥ | tʰi˧-hĩ˧˥ | tʰv̩˧-kʰwɤ˧ gwɤ˥ mv̩˩! | ə˧mɑ˧-ɳɯ˧ | ə˧mɑ˧ | tsɯ˧˥ ◊ mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.50"/>
@@ -726,7 +728,7 @@
 	<TRANSL xml:lang="fr">Quand il est arrivé chez moi, euh… eh bien, debout en contrebas du foyer, il a chanté la chanson que mon fils Daeshi avait écrite! et il m'a appelée ‘Ama'! (Ama s'est donc laissée attendrir et a offert à l'inconnu l'accueil des Na dans ce qu'il a de plus hospitalier, sans se douter qu'elle avait en fait affaire à un malotru.)</TRANSL>
 	<TRANSL xml:lang="zh">他来我家，在主屋里面没有火铺的那个地方地方，站着长了（我儿子）达石写的一首歌！也把我叫做‘阿妈’了！（于是，好客的阿妈对他很好。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S095">
+<S id="Benevolence_S095">
 	<AUDIO start="509.407" end="512.435"/>
 	<FORM kindOf="phono">“mi˧li˩ | di˧ ə˧mɑ˧” tsɯ˧˥ | tʰv̩˧-kʰwɤ˥ | le˧-gwɤ˩-se˩-dʑo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.51"/>
@@ -738,14 +740,14 @@
 	<TRANSL xml:lang="fr">Il a chanté la chanson “Qu'il est beau [notre Lac], qu'elle est bonne, notre Mère” [chanson écrite par le fils de Ama].</TRANSL>
 	<TRANSL xml:lang="zh">他唱了“美丽的（泸沽湖）、阿妈好”这首歌（阿妈的儿子拉他咪·达石写的）</TRANSL>
 </S>
-<S id="﻿Benevolence_S096">
+<S id="Benevolence_S096">
 	<AUDIO start="513.283" end="518.026"/>
 	<FORM kindOf="phono">tʰi˩˥, | “so˧ɲi˥ | no˧-qɑ˧&lt;ʁɑ˧&gt; ʝi˥-qɑ˩-bi˩, | &lt;tsɯ˧… əəə…&gt; | lo˧ʝi˧ qɑ˩-bi˩” tsɯ˩ | -mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | so˧ɲi˥ | no˧qɑ˧lɑ˩ʝi˥qɑ˩bi˩tsɯ˥ | no˩lo˧ʝjɤ˧qɑ˩bi˩tsɯ˩ | mv̩˩ |"/>
 	<TRANSL xml:lang="fr">Après, il a dit que le lendemain, il allait nous aider dans nos travaux (travaux de la ferme, travaux des champs).</TRANSL>
 	<TRANSL xml:lang="zh">然后他说了他第二天会帮我们干活的。</TRANSL>
 </S>
-<S id="﻿Benevolence_S097">
+<S id="Benevolence_S097">
 	<AUDIO start="518.026" end="524.484"/>
 	<FORM kindOf="phono">tʰi˩˥ | əəə… “njɤ˩-dʑo˥, | lo˧ʝi˧ | qɑ˧ mɤ˧-zo˧! | ɑ˩ʁo˥ | njæ˧zɯ˩ | ki˧zo˧-lɑ˩ | njæ˧zɯ˩ | lo˧ʝi˧-di˧˥ | mɤ˧-dʑo˧!” |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.52"/>
@@ -753,21 +755,21 @@
 	<TRANSL xml:lang="fr">[Mais] je lui ai dit: “Moi, je n'ai pas besoin d'aide! A la maison, nous deux, Gisso et moi, nous n'avons pas de travail à faire / nous n'avons pas de tâche que nous pourrions vous confier!”</TRANSL>
 	<TRANSL xml:lang="zh">我回答说：“我呢，不需要帮忙！家里，咱们，给若和我，没有需要干的活！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S098">
+<S id="Benevolence_S098">
 	<AUDIO start="524.484" end="527.183"/>
 	<FORM kindOf="phono">“no˧ tʰv̩˧-qo˧ | tʰi˩˥ | əəə…njɤ˧-ki˩ dzi˩-ze˩, | tʰi˧-dzi˩”, | pi˧-dʑo˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˧tʰv̩˧qo˧ | tʰi˩˥ | əəə…njɤ˧ki˩dzɯ˩ze˩ | tʰi˧dzi˩ | pi˧-dʑo˩, |"/>
 	<TRANSL xml:lang="fr">“Si vous voulez venir ici, venir chez moi, eh bien venez donc!” lui ai-je dit.</TRANSL>
 	<TRANSL xml:lang="zh">“您（要）在这里，那么……要做在这里（=来我家做客），那就来吧！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S099">
+<S id="Benevolence_S099">
 	<AUDIO start="527.183" end="529.868"/>
 	<FORM kindOf="phono">“ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-&lt;k…&gt;ɲi˥ tʰi˧-dzi˩ | ɖɯ˧-ʝi˥” | tsɯ˧˥ mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ə˧mɑ˧ | no˧-ki˩ | ɖɯ˧-&lt;kv̩˧&gt;ɲi˧-ɲi˧ tʰi˧-dzɯ˧-bi˧˥! | tsɯ˧˥ | mv̩˩. |"/>
 	<TRANSL xml:lang="fr">Alors il a dit: “Ama, je vais donc habiter chez vous!”</TRANSL>
 	<TRANSL xml:lang="zh">他说：“那，阿妈，我来您家住吧！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S100">
+<S id="Benevolence_S100">
 	<AUDIO start="529.868" end="536.735"/>
 	<FORM kindOf="phono">“tsɤ˧ ʝi˧!” | pi˧-ɲi˩ mæ˩, ə˩-gi˩! | “tsɤ˧ ʝi˧”, | pi˧ | ɖɯ˧-hɑ̃˧˥ | tʰi˧-dzi˧˥ | -dʑo˩, | hɯ˧-ze˧, | v̩˧tɕʰɤ˩ bi˩-tso˩-ɲi˩! | tsɯ˧˥, | hɯ˧ | le˧-tsʰɯ˩ | mv̩˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.53"/>
@@ -777,7 +779,7 @@
 	<TRANSL xml:lang="fr">Je lui ai dit: “C'est d'accord!”, n'est-ce pas. “C'est d'accord!” Alors, il a habité chez moi une nuit, il est parti; il devait aller au village de Wenquan, semble-t-il! Il est donc parti… et puis il est revenu.</TRANSL>
 	<TRANSL xml:lang="zh">我答应了，说：“好的！”，对吧。说了“好的”，他去了温泉。然后他又回来了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S101">
+<S id="Benevolence_S101">
 	<AUDIO start="536.735" end="544.357"/>
 	<FORM kindOf="phono">le˧-tsʰɯ˩-dʑo˩, | ɲi˧zo˧-tʰv̩˧, | lo˧ʂv̩˩-ɳɯ˩ | le˧-tsʰɯ˩… -ɲi˩ tsɯ˩, | ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, ʈʂʰɯ˧-ɖɯ˧~ɖɯ˧, | &lt;ʐv̩˧-mi˥…&gt; | ŋwɤ˧-mi˥ hwæ˩-tʰi˩-po˩ mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.54"/>
@@ -785,14 +787,14 @@
 	<TRANSL xml:lang="fr">Quand il est revenu, il revenait du Lac, et il ramenait quatre… non, cinq poissons gros comme ça, qu'il y avait achetés!</TRANSL>
 	<TRANSL xml:lang="zh">回来的时候，他是从泸沽湖回来，他买回来有四……（不：）五条这么大的鱼！</TRANSL>
 </S>
-<S id="﻿Benevolence_S102">
+<S id="Benevolence_S102">
 	<AUDIO start="544.357" end="547.248"/>
 	<FORM kindOf="phono">“ə˧mɑ˧ | tʰi˧-tɕɤ˧-ɻ̩˥!” tsɯ˩ | mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ə˧mɑ˧ | tʰi˧tɕɤ˧ɻ̩˧tsɯ˩ | mv̩˩ |"/>
 	<TRANSL xml:lang="fr">Il m'a dit: “Ama, faites-les cuire!”</TRANSL>
 	<TRANSL xml:lang="zh">“阿妈，请（把这些鱼）煮一下！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S103">
+<S id="Benevolence_S103">
 	<AUDIO start="547.248" end="553.219"/>
 	<FORM kindOf="phono">tʰi˩˥, | əəə… tʰi˧-tɕɤ˧-ɲi˥ mæ˩, ə˩-gi˩! | tʰv̩˧-hɑ̃˩ | tʰv̩˧-ɲi˧, | ə˧mɑ˧-ki˩ | hĩ˧bæ˧ | ʁwɤ˧qo˧-hĩ˧bæ˧ | ɖɯ˧so˩-kv̩˩ tʰi˩-dʑo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.55"/>
@@ -801,14 +803,14 @@
 	<TRANSL xml:lang="fr">Alors, eh bien… je les lui ai fait cuire, n'est-ce pas! Ce soir-là, ce jour-là, il y avait chez moi quelques invités, des gens du village.</TRANSL>
 	<TRANSL xml:lang="zh">所以嘛，我给煮了，是不是。哪天，我家有客人，我们村子里的几个人。</TRANSL>
 </S>
-<S id="﻿Benevolence_S104">
+<S id="Benevolence_S104">
 	<AUDIO start="553.219" end="559.09"/>
 	<FORM kindOf="phono">ɲi˧zo˧ | tʰi˧-tɕɤ˧˥ | -dʑo˩, | no˧-tɑ˧kɤ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥ | ɖɯ˧-dzɯ˥-ɳɯ˩ | le˧-se˩-kʰɯ˩ | mv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɲi˧zo˧ | tʰi˧tɕɤ˧˥ | dʑo˩ | nv̩˧tɑ˧kʰæ˧˥ | ɖɯ˧dzɯ˧ | ɖɯ˧dzɯ˧ | dɯ˧dzɯ˥ | ne˩se˩kʰɯ˩ | mv̩˩ |"/>
 	<TRANSL xml:lang="fr">Quand le poisson a été cuit, voilà-t-y pas qu'il a mangé, mangé, mangé, jusqu'à ce qu'il ait tout fini à lui tout seul!</TRANSL>
 	<TRANSL xml:lang="zh">鱼煮好了，他就一个人吃啊吃，吃啊吃，都吃没了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S105">
+<S id="Benevolence_S105">
 	<AUDIO start="559.09" end="564.314"/>
 	<FORM kindOf="phono">tʰi˩˥ | ʈʂʰɯ˧-sɯ˩kv̩˩-ɳɯ˩ | ʐæ˧~ʐæ˩-ɻ̩˩ mv̩˩! | njɤ˧-ki˧: | “no˧ | hĩ˧bæ˧ | tʰv̩˧-v̩˧-dʑo˩, | ə˧tso˧ hĩ˧bæ˧ ɲi˥?” |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.56"/>
@@ -817,7 +819,7 @@
 	<TRANSL xml:lang="fr">Alors, eux (les gens du village qui se trouvaient à la maison ce jour-là) ils se sont bien moqués! Ils m'ont dit: “Ton invité, là, d'où il sort?” (littéralement: “qu'est-ce que c'est, comme invité?”)</TRANSL>
 	<TRANSL xml:lang="zh">他们呢（村子里的人，那天在阿妈家做客），笑起来了：“你这位客人，算什么客人呢？”</TRANSL>
 </S>
-<S id="﻿Benevolence_S106">
+<S id="Benevolence_S106">
 	<AUDIO start="564.314" end="573.568"/>
 	<FORM kindOf="phono">“ə˧sɯ˩kv̩˩-ki˩ | le˧-dzɯ˥ | mɤ˧-tsɯ˧-zo˥! | ə˧sɯ˩kv̩˩-se˩, | dzɯ˧ | mɤ˧-ʝi˧-dʑo˥! | no˧-tɑ˧kɤ˥ | le˧-dzɯ˥ | le˧-se˩-hɯ˩-ze˩! | ə˧-sɯ˩kv̩˩ ɑ˩ʁo˩-dʑo˩, | ʈʂʰɯ˧ne˧-ʝi˥-dʑo˩, | mɤ˧-fv̩˧ ɖɯ˧-v̩˧ ɲi˩ tsɯ˩ wɤ˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.57"/>
@@ -825,14 +827,14 @@
 	<TRANSL xml:lang="fr">“(Ben alors,) ils nous a pas appelés pour venir manger (=pour partager avec lui!) Nous, on a rien mangé! Il a mangé tout seul, et il a tout fini! Si ça s'était passé dans notre maison à nous, y'aurait eu du grabuge / ça se serait pas passé comme ça / on lui aurait témoigné notre colère!”</TRANSL>
 	<TRANSL xml:lang="zh">“（他）没叫我们（一起）吃！没让咱们吃！一个人，都吃没了！在咱们家，这么干的话……真的是让人生气的一个（人）啊！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S107">
+<S id="Benevolence_S107">
 	<AUDIO start="573.672" end="580.023"/>
 	<FORM kindOf="phono">əəə… tʰi˩˥, | gɯ˩-ʝi˥, | no˧ tsʰɯ˧ kwɤ˧tɕɯ˥-lɑ˩, | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧-tɑ˧˥ | no˧ tsʰɯ˧, | no˧-ɳɯ˧: | “e! ʈʂʰɯ˧-v̩˧ le˧-dzɯ˥! | e!”</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : əəə…tʰi˩˥ | dʑi˩ | nɑ˧tsʰɯ˧ | kwɤ˩tɕɯ˥lɑ˩ | njæ˧-sɯ˩kv̩˩ | hĩ˧ | ɖɯ˧tɑ˧˥zo˧tsʰɯ˧no˧ɳɯ˥ | tsʰo˧v̩˧le˧dzi˩ |"/>
 	<TRANSL xml:lang="fr">Alors… vrai de vrai, quand toi tu es venu, nous autres, tous les gens… quand tu es venu, tu as fais: «eh, ça c'est pour elle/lui! eh!» (Ama imite le geste du visiteur qui offre un morceau de nourriture à telle ou tel, et la formule peu assurée qui accompagne le geste, le visiteur étant très hésitant dans son rudiment de langue na.)</TRANSL>
 	<TRANSL xml:lang="zh">后来……你呢，你来了以后，真的，人家都（欣赏你）。你说：“嗯，他吃吧！嗯！”（阿妈模仿客人的动作：将一小块水果或一点核桃递给旁边的人，边试着用摩梭话说出他的好意。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S108">
+<S id="Benevolence_S108">
 	<AUDIO start="580.023" end="586.361"/>
 	<FORM kindOf="phono">“ə˧mɑ˧! | no˧ | tsʰɯ˧-v̩˧ -dʑo˩, | fɑ˧kwɤ˧-hĩ˧ tʰv̩˧-v̩˥-dʑo˩, | no˧ zo˧ tʰv̩˧-v̩˧ dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ ɖɯ˧-v̩˧! | õ˧˥ | mɤ˧-dzɯ˥, | hĩ˧-ki˧ sɯ˩ ki˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.58"/>
@@ -841,14 +843,14 @@
 	<TRANSL xml:lang="fr">“Ama, ton invité, là, le Français, [celui que tu traitais comme] ton ‘fils adoptif', c'est quelqu'un de vraiment bien! Avant de manger, il offre un morceau aux autres / il partage avec les autres, avant même d'avoir commencé à manger!”</TRANSL>
 	<TRANSL xml:lang="zh">“阿妈！你这个（客人），那个法国人，你这个‘儿子’，是很不错的人！自己还没吃，（他）先给别人！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S109">
+<S id="Benevolence_S109">
 	<AUDIO start="586.361" end="591.885"/>
 	<FORM kindOf="phono">“zo˩no˥ | ʁo˧dɑ˧ | no˧-ki˩ | ɖɯ˧-v̩˧ tsʰɯ˩, | pe˩tɕi˧-hĩ˧ ɲi˥ pi˩ | tʰv̩˧-v̩˧-se˥, | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩?” |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zɯ˩lo˥ | ʁv̩˧dɑ˥ | no˧ki˩ | ɖɯ˧v̩˧tsʰɯ˩ | pi˩tɕi˥ĩ˧ɲi˥pi˩tʰv̩˧v̩˧ | tʰi˩˥ə˧tso˧hĩ˧ | ɖɯ˧v̩˧ɲi˩ |"/>
 	<TRANSL xml:lang="fr">“Tandis que celui qui était venu chez toi auparavant (=l'autre fois), celui qui était de Pékin, quel drôle de bonhomme!”</TRANSL>
 	<TRANSL xml:lang="zh">“而以前到你那边的那位北京人呢，算什么人？”</TRANSL>
 </S>
-<S id="﻿Benevolence_S110">
+<S id="Benevolence_S110">
 	<AUDIO start="591.885" end="594.268"/>
 	<FORM kindOf="phono"> õ˧-bv̩˥-õ˩ | tʰi˧-ɻ̩˩-kʰɯ˩, | dzɯ˧-zo˥, | ə˩-gi˩! | tsɯ˧-zo˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.59"/>
@@ -858,7 +860,7 @@
 	<TRANSL xml:lang="fr">“Il était tourné de son côté à lui (tourné vers soi-même), quand il mangeait (=il mangeait tout seul dans son coin), n'est-ce pas!” Voilà ce qu'on raconte!</TRANSL>
 	<TRANSL xml:lang="zh">“他是自己一个人吃的，对吧！”（直译：‘向自己转过去’，意思是：不向别人看，不面对别人）是这样讲的。</TRANSL>
 </S>
-<S id="﻿Benevolence_S111">
+<S id="Benevolence_S111">
 	<AUDIO start="594.268" end="599.044"/>
 	<FORM kindOf="phono">æ˧ʂæ˧qʰwɤ˧-ʝi˥-zo˩ | wɤ˩˥, | no˧ ʐwɤ˧-dʑo˧-ɲi˥! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩! | no˩-dʑo˥, | ɖwæ˧˥ | gv̩˧! | tsɯ˩ mv̩˩, | æ˧ʂæ˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : æ˧ʂæ˧qʰwɤ˧zo˩ | nɑ˧ʐwɤ˧dʑo˧ɲi˥ | ə˧sɯ˧kv̩˩zɯ˩ | no˩dʑo˥ | ɖwæ˧˥ | gv̩˧tsɯ˩ | mv̩˩ | æ˧ʂæ˧ |"/>
@@ -866,7 +868,7 @@
 	<TRANSL xml:lang="fr">Au jeu des histoires, eh bien, on parlait aussi de toi, dans ce temps-là! Toi, on disait que tu étais quelqu'un de bien, à cette époque-là!</TRANSL>
 	<TRANSL xml:lang="zh">那时候，这样把这些事情当故事看呢，人家也说你的事啊！你呢，以前，算是好的人物！ / 你呢，这些故事里，是有好角色的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S112">
+<S id="Benevolence_S112">
 	<AUDIO start="599.819" end="608.21"/>
 	<FORM kindOf="phono">ə˧mɑ˧-ki˩… tsʰɯ˩-hĩ˩, | ɖɯ˧-tɑ˧˥ | no˧ do˧-hĩ˧ ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | ə˩-gi˩! | no˧-ɳɯ˧ | pʰi˧ko˥ | ɖɯ˧-kʰwɤ˥ hæ̃˩, | wɤ˩˥ | “ə˧mɑ˧ dzɯ˧! | əəə… ki˧zo˧ dzɯ˧! | ɖɯ˩mɑ˧ dzɯ˧!” tsɯ˩-mɤ˩-tsɯ˩, | ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.60"/>
@@ -874,7 +876,7 @@
 	<TRANSL xml:lang="fr">[Ces gens qui disent du bien de toi, ce sont tous] ceux qui venaient chez moi, tous ceux qui t'ont vu [lors de tes séjours à Yongning], n'est-ce pas! Toi, quand tu coupais un quartier de pomme, c'était parti pour des «Ama, tiens! Gisso, tiens! Ddeema, tiens!», n'est-ce pas que c'était comme ça! (Ama avait acheté pour le visiteur une belle provision de pommes; celui-ci en mangeait avec appétit, et proposait des quartiers à la ronde.)</TRANSL>
 	<TRANSL xml:lang="zh">（说你这些好话的人，）都是到我家来的人，见过你的人，对吧！你切一块苹果，就要（递给旁边的人，说：）“阿妈吃！给若吃！独妈吃！”，对不对！</TRANSL>
 </S>
-<S id="﻿Benevolence_S113">
+<S id="Benevolence_S113">
 	<AUDIO start="608.21" end="614.632"/>
 	<FORM kindOf="phono">wɤ˩˥ | hĩ˧bæ˧-ki˧ | no˧-ɳɯ˧ | le˧-hæ̃˩[~hæ̃˩] | tʰi˧-ki˧ hɯ˧-mɤ˧-hɯ˩! | -dʑo˩, | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩: | “hɤ! tʰv̩˧-v̩˧-dʑo˩, | ɖwæ˧˥ | gv̩˧-hĩ˧ | ɖɯ˧-v̩˧ ɲi˩! | ə˧-sɯ˩kv̩˩ | nɑ˩-ne˥-ʝi˩ gv̩˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.61"/>
@@ -883,7 +885,7 @@
 	<TRANSL xml:lang="fr">Pour les invités aussi, (c'était reparti pour un tour:) tu coupais (des quartiers de pomme) et tu les offrais, n'est-ce pas! Alors, eux, ils disaient: “Eeeh bien, celui-là, c'est quelqu'un de bien! Il est comme nous, les Na!”</TRANSL>
 	<TRANSL xml:lang="zh">给客人，也是：（你同样递给一些苹果块，）你切就给，是不是！于是他们说：“嘿！那个吧，是好人！他像咱们摩梭人一样！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S114">
+<S id="Benevolence_S114">
 	<AUDIO start="614.632" end="619.45"/>
 	<FORM kindOf="phono">“tʰv̩˧-v̩˧-se˥ | gɯ˩-ʝi˥ | hæ˧-ne˩-ʝi˩ gv̩˩! | ə˧tso˧ hĩ˧ | ɖɯ˧-v̩˧ ɲi˩ tsɯ˩?” | ʐæ˧~ʐæ˩-ɻ̩˩, | zo˩no˥, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-di˩ dʑo˩-ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰɯ˧v̩˧se˥ | gi˩ʝi˥ | hæ˧le˧gv̩˩ | ə˧tso˧hĩ˧ | ɖɯ˧mi˧tsʰɯ˩ | læ˧ʐɯ˩ | zo˩no˥ | qo˧ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˧dʑɯ˩dʑo˧ɲi˥mæ˩ | hĩ˧ |"/>
@@ -892,7 +894,7 @@
 	<TRANSL xml:lang="fr">“Tandis que l'autre, sûr de sûr que c'était un vrai Chinois (Han), brut de décoffrage! Qu'est-ce que c'était donc que ce bonhomme?” On riait; voilà ce qui se racontait.</TRANSL>
 	<TRANSL xml:lang="zh">“而那个呢，真的，是典型的老汉族 / 就是老汉族的劲儿！算什么人呢？”（人家这样）笑话。有这样的说法！</TRANSL>
 </S>
-<S id="﻿Benevolence_S115">
+<S id="Benevolence_S115">
 	<AUDIO start="619.45" end="626.814"/>
 	<FORM kindOf="phono">hĩ˧ | ʈʂʰɯ˧-dʑo˩, | hĩ˩ ʐwɤ˩˥! | pi˧-dʑo˩, | õ˧-ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-ɲi˥ mæ˩: | “hĩ˧-ʈʂʰɯ˧ | dʑɤ˩ ʝi˥, | pi˧-dʑo˩, | hĩ˧-ɳɯ˩ | ʐwɤ˩-kv̩˩˥! | dzɑ˧-ʝi˧ | pi˧, | hĩ˧-ɳɯ˩ ʐwɤ˩-kv̩˩!” | pi˧. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.62"/>
@@ -901,7 +903,7 @@
 	<TRANSL xml:lang="fr">Les gens, ils parlent les uns des autres! Voilà ce qu'on disait: quand quelqu'un fait quelque chose de bien ('fait le bien'), les gens en parlent! Quand il fait quelque chose de mal ('fait le mal'), les gens en parlent!</TRANSL>
 	<TRANSL xml:lang="zh">人嘛，就会说（别）人的！有这样一个说法：“人做好事，就会有人说（他好）！干坏事，会有人说（他不好！）”</TRANSL>
 </S>
-<S id="﻿Benevolence_S116">
+<S id="Benevolence_S116">
 	<AUDIO start="626.814" end="630.091"/>
 	<FORM kindOf="phono">dzɑ˧ ʝi˧-bi˧ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! | dʑɤ˩ ʝi˧-bi˥ F, | hĩ˧-ɳɯ˩ | ʐwɤ˩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : dzɑ˧ʝi˧bi˧ | hĩ˩˧ɳɯ˩ | ʐwɤ˩ | dʑɤ˩ʝi˧bi˥ | hĩ˧ɳɯ˧ | ʐwɤ˧˥"/>
@@ -909,7 +911,7 @@
 	<TRANSL xml:lang="fr">Quand on fait quelque chose de bien ('fait le bien'), les gens en parlent! Quand on fait quelque chose de mal ('fait le mal'), les gens en parlent!</TRANSL>
 	<TRANSL xml:lang="zh">干坏事，人家会说（=会传播出去）！做好事，人家也会说（=会传播出去）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S117">
+<S id="Benevolence_S117">
 	<AUDIO start="630.091" end="634.094"/>
 	<FORM kindOf="phono">“hĩ˧ | ɖɯ˧-v̩˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | ʐwɤ˧-di˧ mɤ˧-dʑo˧-hĩ˧-dʑo˩, | mɤ˧-dʑo˩-ɲi˩!” | pi˧-ɲi˥ mæ˩, | æ˧ʂæ˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.63"/>
@@ -917,7 +919,7 @@
 	<TRANSL xml:lang="fr">Autrefois, on disait: “Quelqu'un au sujet de qui il n'y aurait rien à dire, ça n'existe pas!” (Autrement dit: quoi qu'on fasse, les gens parleront de vous, soit en bien, soit en mal.)</TRANSL>
 	<TRANSL xml:lang="zh">从前，人家会说：“不存在任何不能当话题的人嘛！”（直译：“不存在任何人没话可说！”，意思是：每个人都会是八卦的话题，随便谁都有话可说。人家不可能不说你。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S118">
+<S id="Benevolence_S118">
 	<AUDIO start="634.094" end="636.343"/>
 	<FORM kindOf="phono">æ˧ʂæ˧qʰwɤ˧˥ F | ʈʂʰɯ˧-ɳɯ˩, | zo˩no˥ F | ʈʂʰɯ˧ ɲi˥-ze˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.64"/>
@@ -925,14 +927,14 @@
 	<TRANSL xml:lang="fr">Les histoires, elles continuent bon train aujourd'hui! / Les histoires, (c'est pas que des choses du temps passé, figées dans la tradition:) il en va toujours de même aujourd'hui (=il se crée de nouvelles histoires, au sujet de chacun, et il s'en oublie). (La locutrice exprime sa conviction selon laquelle il n'y a pas de frontière bien nette entre la tradition d'une part, et les historiettes de l'autre: une anecdote qui circule, elle entre dans la ‘tradition orale’.) </TRANSL>
 	<TRANSL xml:lang="zh">故事啊，现在也一样（在随时出现新的）！ （意思是：故事，不仅是远过去流传下来的一套：现在，也有新的故事开始流传。‘传统’故事和今天的八卦，没有什么明显的界限：一件稀奇的事情，流传起来，就是故事了！）</TRANSL>
 </S>
-<S id="﻿Benevolence_S119">
+<S id="Benevolence_S119">
 	<AUDIO start="636.343" end="638.755"/>
 	<FORM kindOf="phono">æ˧ʂæ˧-ɳɯ˧, | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | -ɳɯ˩, | zo˩no˥ | ʈʂʰɯ˧ ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : æ˧ʂæ˧ɳɯ˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩ɳ | zo˩no˥ | ʂɯ˧ɲe˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">Voilà ce qu'on disait autrefois; et ça vaut tout aussi bien pour aujourd'hui! / Ce qu'on disait autrefois, ça vaut aussi bien pour aujourd'hui!</TRANSL>
 	<TRANSL xml:lang="zh">以前，是这样讲的，而现在，也照样是这个样子！</TRANSL>
 </S>
-<S id="﻿Benevolence_S120">
+<S id="Benevolence_S120">
 	<AUDIO start="638.755" end="648.655"/>
 	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧ʝi˥ se˩-dʑo˩, | tʰi˩˥, | njæ˧-sɯ˩kv̩˩ | nɑ˩-ʈʂʰɯ˥-dʑo˩… lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩-bi˩, | zo˩no˥, | ɲi˩=ɻ̩˥ | lo˧ dʑo˧ ʐv̩˧ dʑo˧ bi˩-bi˩, | hĩ˧mo˥-hĩ˩ sɯ˩… &lt;hĩ˧-sɯ˧&gt; | pʰv̩˧ɖɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ne˧ | ʈʂʰɯ˧ne˧ | sɯ˧tsʰɯ˥ | dʑo˩ | tʰi˩˥ | njæ˧-sɯ˩kv̩˩ | nɑ˩ʈʂʰɯ˥dʑo˩əəə…zo˧dʑo˧ | ʐv̩˧dʑo˧bi˩bi˩ | bi˩ | zo˩ | ne˩ɻ̩˥ | lo˩dʑo˩ʐv̩˩dʑo˧ʁobi˩bi˩ | hĩ˧mo˥sɯ˩ | dʑsɯ˩pʰo˧ɖɯ˧ |"/>
@@ -941,7 +943,7 @@
 	<TRANSL xml:lang="fr">Ainsi donc, nous autres les Na, même si on est très occupé, eh bien, même si tel ou tel a ses soucis (et mériterait par là une attention particulière), on donne la priorité aux aînés: c'est eux qui viennent toujours en priorité!</TRANSL>
 	<TRANSL xml:lang="zh">这样，我们摩梭人，虽然有各种各样自己的事，还是会先管长辈的人，关心长辈的人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S121">
+<S id="Benevolence_S121">
 	<AUDIO start="648.725" end="655.012"/>
 	<FORM kindOf="phono">hĩ˧mo˥-hĩ˩-ki˩, | ɖwæ˧˥ | pʰv̩˧ɖɯ˧ ʝi˥-kv̩˩! | əəə… zo˧mv̩˥-zo˩-ki˩ | pʰv̩˧ɖɯ˧ʝi˥-kv̩˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.65"/>
@@ -949,7 +951,7 @@
 	<TRANSL xml:lang="fr">Les personnes âgées, nous en prenons grand soin! Les enfants (aussi), nous en prenons grand soin!</TRANSL>
 	<TRANSL xml:lang="zh">老人家，（我们是）很关心！孩子们，（也）很关心！</TRANSL>
 </S>
-<S id="﻿Benevolence_S122">
+<S id="Benevolence_S122">
 	<AUDIO start="655.012" end="661.177"/>
 	<FORM kindOf="phono">zo˩no˥ | njæ˧-sɯ˩kv̩˩ | kʰv̩˧pʰæ˧ tɕi˩-hĩ˩, | zo˧mv̩˥ ə˩dɑ˩, | njæ˧-sɯ˩kv̩˩-dʑo˩, | zo˩no˥, | hɤ˩ ɲi˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.66"/>
@@ -957,14 +959,14 @@
 	<TRANSL xml:lang="fr">Alors, nous autres, les personnes (encore) jeunes (=les adultes dans la force de l'âge), les pères des enfants, nous, eh bien… c'était très bien ainsi / on assurait bien!</TRANSL>
 	<TRANSL xml:lang="zh">那么，我们年轻人（=成年人），孩子的父亲……我们呢，这样，（以前这些做人标准，这些好习惯，确实）很好！</TRANSL>
 </S>
-<S id="﻿Benevolence_S123">
+<S id="Benevolence_S123">
 	<AUDIO start="661.177" end="668.804"/>
 	<FORM kindOf="phono">zo˧mv̩˥ | gɤ˩-qwɤ˥ kʰɯ˩-tso˩-ɲi˩, | əəə… hĩ˧mo˥-hĩ˩ | le˧-mo˩-ɲi˩-ze˩, | njæ˧-sɯ˩kv̩˩ | le˧-ʐɤ˧ le˥-mo˩-ɲi˩-ze˩, | pi˧-zo˩. | hĩ˧mo˥-hĩ˩ pʰv̩˩ɖɯ˩ ʝi˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˧mi˥gɤ˩qo˥kʰɯ˩tso˩ɲi˩ | əəə…hĩ˧mo˥hĩ˩ | le˧mo˩ɲi˩ze˩ | njæ˧-sɯ˩kv̩˩ | le˧ʐɤ˧ | le˧mo˩ɲi˩ze˩ | pi˧zo˩ | hĩ˧ŋo˥hõĩ˩ | kʰv̩˩ɖɯ˧ɬi˥ |"/>
 	<TRANSL xml:lang="fr">Il faut que les enfants grandissent (=ils faut prodiguer des soins aux enfants, afin qu'ils grandissent dans les meilleures conditions); les aînés (les vieux), eh bien, ils sont vieux… ils nous ont élevés, et les voici maintenant vieux, (alors, par reconnaissance,) on prend soin d'eux.</TRANSL>
 	<TRANSL xml:lang="zh">孩子们要养大。老人们，老了……是他们把我们养大的，养着养着他们现在老了，（所以我们要报恩，）要关心老人。</TRANSL>
 </S>
-<S id="﻿Benevolence_S124">
+<S id="Benevolence_S124">
 	<AUDIO start="668.804" end="678.081"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥ kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | no˧=ɻ̩˩ | so˩, | njɤ˧=ɻ̩˩ so˩! | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̩˩-ɳɯ˩ | hĩ˧mo˥-hĩ˩ ki˩ | ɖɯ˧-pi˧˥ | pʰv̩˧ɖɯ˧ mɤ˧-ʝi˥-dʑo˩, | “no˧ | so˧-mɤ˧-ʁɑ˧-hĩ˧ | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | tʰi˩˥ | no˧ɻ̩˩ | so˩ | njɤ˩ | ə˩so˩ | ɖɯ˧ʑi˩ɖɯ˩ʑi˩z˩ | hĩ˧mo˥hĩ˩ki˩ | ɖɯ˧ti˧˥pʰv̩˧ɖɯ˧mɤ˧ʝi˥dʑo˩ | no˧ | so˧mɤ˧ʁɑ˧jɤ˧ʈʂʰɯ˧ɻ̩˩dʑo˩ | ʈʂʰɯ˧ | ne˧ | qʰɑ˧ʝi˥ |"/>
@@ -973,7 +975,7 @@
 	<TRANSL xml:lang="fr">Comme ces bonnes habitudes sont pratique courante, [cela entretient une émulation entre familles:] on prend exemple sur vous, vous prenez exemple sur nous (littéralement: ‘comme on procède ainsi, nous, on vous enseigne [de bonnes habitudes], vous, vous nous inculquez [de bonnes habitudes]'). Quand telle ou telle famille néglige un peu les aînés, [on les représente comme des contre-exemples:] “Tu ne dois pas les imiter, ceux-là: ils ne devraient pas faire ainsi!”</TRANSL>
 	<TRANSL xml:lang="zh">这样，（我们）教你们、（你们）教我们。偶尔有个别一家对老人家不是特别关心，（发生这样情况，周围邻居会说：）“他们这些，不要学他们（因为他们不知道怎么做人、怎么关心别人），不应该这么做！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S125">
+<S id="Benevolence_S125">
 	<AUDIO start="678.081" end="681.181"/>
 	<FORM kindOf="phono">“ə˧dɑ˧-ə˧mi˧ | ʈʂʰɯ˧ | hĩ˧ ʐɤ˧, | lɑ˩ jɤ˧ fv̩˧ mɤ˧-kv̩˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.67"/>
@@ -982,7 +984,7 @@
 	<TRANSL xml:lang="fr">“Leur père et leur mère les ont élevés: c'est pas rien, hein!” (=cela mérite honneur et respect, jusqu'à la fin de leurs jours)</TRANSL>
 	<TRANSL xml:lang="zh">“父母养他们，不简单！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S126">
+<S id="Benevolence_S126">
 	<AUDIO start="681.181" end="688.475"/>
 	<FORM kindOf="phono">“no˧-sɯ˩kv̩˩ | tʰi˧-ʐɤ˧-dʑo˧, | so˧hwɤ˩ | ɖɯ˧-ɲi˥ | no˧sɯ˩kv̩˩-ɳɯ˩ | dʑɤ˩ mɤ˧-ʝi˧, | &lt;ə˧ʑi˧… | &gt; õ˧-ə˧mi˥-ki˩, | õ˧-ə˧dɑ˥-ki˩, | dʑɤ˩ mɤ˧-ʝi˧!” | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.68"/>
@@ -990,7 +992,7 @@
 	<TRANSL xml:lang="fr">“On vous élève; si, à l'avenir, vous faites de mauvaises actions ('vous faites le mal'), cela reviendra à faire du mal à votre propre mère, à votre propre père! [en ne remplissant pas votre devoir de piété filiale: les rendre fiers de vous]”</TRANSL>
 	<TRANSL xml:lang="zh">“（我们）在养你们，以后有一天你们干坏事的话，等于是&lt;对奶奶……&gt; 对自己母亲、对自己父亲干坏事的！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S127">
+<S id="Benevolence_S127">
 	<AUDIO start="688.475" end="690.979"/>
 	<FORM kindOf="phono">“no˧-sɯ˩kv̩˩ zo˩mv̩˩, | ʁɑ˩ʂɯ˥ | dʑɤ˩ ʝi˧-mɤ˧-kv̩˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.69"/>
@@ -999,14 +1001,14 @@
 	<TRANSL xml:lang="fr">“Ah, vous les enfants, vous ne donnerez rien de bon!” (Les aînés déplorent le manque de piété filiale des enfants d'autrui, et augurent que leurs propres enfants feront pareillement preuve d'ingratitude; cela par artifice didactique, afin que les enfants à qui on tient ce discours prennent la ferme résolution de ne pas suivre le mauvais exemple, et d'être, eux, dignes héritiers des belles traditions qu'on leur représente.)</TRANSL>
 	<TRANSL xml:lang="zh">“你们这些孩子啊，还是不会做好事的吧！”（批评别人的孩子不孝顺，也批评自己还是说他以后同样会不孝顺。这样，希望听了的孩子会决定：长大以后，不学人家不孝顺的态度，而继承长辈所教过的美好孝顺传统。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S128">
+<S id="Benevolence_S128">
 	<AUDIO start="690.979" end="698.88"/>
 	<FORM kindOf="phono">“hĩ˧-ʈʂʰɯ˧, | hĩ˧mo˥-hĩ˩-ki˩ | dʑɤ˩ ʝi˧-zo˧-kv̩˩”, | pi˧-zo˩! | zo˩no˥, | hĩ˧-ɳɯ˩… | kʰv̩˩pʰæ˧˥ | ɖɯ˩-hĩ˥=ɻæ˩-ɳɯ˩-dʑo˩, | hĩ˧mo˥=ɻæ˩-ɳɯ˩, | zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩-kv̩˩˥ mæ˩, | njæ˧-sɯ˩kv̩˩-ki˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧ʈʂʰɯ˧ | hĩ˧mo˥hĩ˩ki˩ | dʑɤ˩ʝ˧zi˧kv̩˩ | pi˧zo˩ | zo˩no˥ | hĩ˧mɤ˧o˩ | kʰtʰɑ˧˥ | ɖɯ˩hĩ˥ɻæ̃˩ɳɯ˩dʑo˩ | hĩ˧mo˥ɻæ˩le˧zo˩no˥ | ʈʂʰɯ˧ne˧ʝi˥ | so˩kv̩˩˥mæ˩ | njæ˧-sɯ˩kv̩˩ki˩ |"/>
 	<TRANSL xml:lang="fr">“Les hommes, ils doivent être bons à l'égard des vieillards!” Voilà ce qu'on nous disait: voilà ce que les personnes âgées, les vieux, nous enseignaient, à nous!</TRANSL>
 	<TRANSL xml:lang="zh">摩梭人家说（=教小孩子们）：“人啊，要对老人好！”那么，人……高年龄的，老人家，是这样教育我们的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S129">
+<S id="Benevolence_S129">
 	<AUDIO start="698.88" end="702.555"/>
 	<FORM kindOf="phono">ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩=ɻ̩˩-ɳɯ˩, | ə˧dɑ˧-ə˧mi˧ F | mɤ˧-kwæ˧! | mɤ˧-ʁo˧mæ˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.70"/>
@@ -1015,14 +1017,14 @@
 	<TRANSL xml:lang="fr">Dans certaines familles, on ne s'occupait pas des parents! (‘s'occuper de’: mot d'emprunt chinois, 管) On ne prenait pas soin (d'eux)! (mot na)</TRANSL>
 	<TRANSL xml:lang="zh">偶尔有些家庭，不管父母（‘管’：汉语借词）！不管！（‘管’：摩梭话）</TRANSL>
 </S>
-<S id="﻿Benevolence_S130">
+<S id="Benevolence_S130">
 	<AUDIO start="702.555" end="704.482"/>
 	<FORM kindOf="phono">õ˧ ɖʐv̩˥, õ˩ li˩, | pv̩˩-kʰɯ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : õ˧ɖʐv̩˥ | ɲi˩pv̩˩kʰɯ˧˥ |"/>
 	<TRANSL xml:lang="fr">On est influencé par ses amis; chacun prend ses responsabilités! (=on est responsable de ses fréquentations, et par là, des habitudes qu'on adopte au contact des autres; il importe de choisir judicieusement)</TRANSL>
 	<TRANSL xml:lang="zh">自己的朋友，自己看（=自己爱学他们的习惯），要负责任（地选择伙伴）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S131">
+<S id="Benevolence_S131">
 	<AUDIO start="704.662" end="714.292"/>
 	<FORM kindOf="phono">ɑ˩ʁo˥ | tsʰe˧ kʰwɤ˧ F | mɤ˧-dʑo˧, | li˩ kʰwɤ˩˥ F | mɤ˧-dʑo˧, | &lt;B&gt; ʈʂʰɯ˧ne˧ʝi˥-dʑo˩-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥ | mmm… ɕjɤ˩tʰv̩˧-bi˧-kv̩˩! | hĩ˧mo˥-hĩ˩ | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧-ɳɯ˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.71"/>
@@ -1031,14 +1033,14 @@
 	<TRANSL xml:lang="fr">Si à la maison il n'y a ni sel ni thé (c'est-à-dire si la maison n'est pas bien tenue, si on néglige d'assurer un certain confort aux membres de la maisonnée; littéralement: s'il n'y a ‘ni un morceau de sel ni un morceau de thé’; le thé se présentait souvent sous forme de galettes pressées), eh bien… on se fait réprimander par certaines personnes âgées!</TRANSL>
 	<TRANSL xml:lang="zh">家里如果一块盐巴也没有，一块茶（饼）也没有，这样的话，会被一些老人笑话！</TRANSL>
 </S>
-<S id="﻿Benevolence_S132">
+<S id="Benevolence_S132">
 	<AUDIO start="714.292" end="719.499"/>
 	<FORM kindOf="phono">“no˧ | gɯ˩ʝi˥ | no˧ | zo˧hṽ̩˥ | no˧ | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥! | no˧=ɻ̩˩, | &lt;njo…&gt; | no˧ | mv̩˩zo˩˥, | no˧ | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : no˧ | gɯ˩ʝi˥ | nɤ˧zo˧nṽ̩˥no˩ | ʈʂʰɯ˧ɲi˧ | tʰæ˧ʝi˥z | no˧ʁo˩ɲi˩˧ | no˥ | mv̩˩zo˩hĩ˥ʈʂʰɯ˩ | pʰæ˩ʝi˥ |"/>
 	<TRANSL xml:lang="fr">“Vous, vrai de vrai, vous les enfants, il faut pas agir de la sorte! Vous… les enfants, il ne faut pas faire ça!”</TRANSL>
 	<TRANSL xml:lang="zh">“你们啊，真的，别这样了！你们，你们这些孩子，不要这样！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S133">
+<S id="Benevolence_S133">
 	<AUDIO start="719.499" end="723.418"/>
 	<FORM kindOf="phono">“no˧ | ə˧mi˧ | no˧ ʐɤ˧, | no˧zɯ˩ ʐɤ˩-hĩ˩, | lɑ˩jɤ˧ fv̩˧-hĩ˧ mɤ˧-ɲi˥!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.72"/>
@@ -1047,14 +1049,14 @@
 	<TRANSL xml:lang="fr">“Votre mère vous a élevés; la personne qui vous a élevés, elle a pas eu la vie facile / ça lui a coûté bien des efforts et des sacrifices!”</TRANSL>
 	<TRANSL xml:lang="zh">“你们母亲，把你们养（大）。把你们养（大）的（人），很不容易！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S134">
+<S id="Benevolence_S134">
 	<AUDIO start="723.418" end="730.709"/>
 	<FORM kindOf="phono">“hĩ˧mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩! | mɤ˧-dʑo˧-bi˧, | zo˩qo˧ ʂe˧, | le˧-po˧… | le˧-ʂe˧ | le˧-po˧-jo˥ | tʰi˧-ki˧!” | pi˧, | õ˧ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | mæ˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧no˥hĩ˩ʁo˩mæ˩zo˩kv̩˩ | no˧go˧bi˧ | zo˩ho˧ʂɯ˧ | le˧bo˧le˧ʂɯ˩ | ʁo˩po˩o˩tʰi˧ki˧ | pi˧ | õ˧ʈʂʰɯ˧ne˧ʝ | ʐo˩kv̩˩˥mæ˩ |"/>
 	<TRANSL xml:lang="fr">“Il faut bien prendre soin des personnes âgées! S'il manque de quelque chose (à la maison), [prenez-vous en main,] allez en chercher quelque part, ramenez-en… allez en chercher, ramenez-en, et donnez-le [aux membres de votre famille]!” Voilà ce qu'on disait!</TRANSL>
 	<TRANSL xml:lang="zh">“要管老人！缺东西（如：从外边买来的日常用品：盐巴、茶饼、红糖、醋等等），也要努力找啊（直译：‘要从什么地方找啊’），就拿回家！找回家送（家人）！”会这样说的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S135">
+<S id="Benevolence_S135">
 	<AUDIO start="730.709" end="739.927"/>
 	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-dʑo˥, | &lt;“ə˧mi˧!” |&gt; ʈʂʰɯ˧ | ʁwɤ˧-qo˧ | hĩ˧mo˥-hĩ˩ | sɯ˧-hĩ˧ | ɖɯ˧-v̩˧-ɳɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩˥: | “ə˧mi˧! | ʈʂʰɯ˧-ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ɕjɤ˩tʰv̩˧ho˥, | gɯ˩-hĩ˥, | ə˩sɯ˧kv̩˥ | hĩ˧mo˥hĩ˩-ki˩ | dʑɤ˩-ʝi˧-zo˧-kv̩˩!” | pi˧, | zo˩no˥. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.73"/>
@@ -1063,7 +1065,7 @@
 	<TRANSL xml:lang="fr">Alors, de ce fait, quelqu'un qui connaît les vieux de ce village-là (quelqu'un qui est familier des vieilles personnes du village et qui est au courant de leurs réflexions) dit: “Houlà, mais c'est qu'il va nous sermonner! Vrai de vrai, nous autres, faudrait qu'on traite mieux les vieilles personnes!”</TRANSL>
 	<TRANSL xml:lang="zh">所以呢，一个跟那个村子的老人比较熟（的青年人）这样说：“啊呀，他会这样批评（我们不孝顺的孩子），真的，咱们要对老人们好一点吧！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S136">
+<S id="Benevolence_S136">
 	<AUDIO start="739.927" end="746.266"/>
 	<FORM kindOf="phono">əəə…no˧-ɳɯ˧ njɤ˩ so˩-ɻ̩˩, | zo˩no˥, | mɤ˧-dʑɤ˩-hĩ˩ tʰv̩˩-v̩˩ | tʰɑ˧-so˩! pi˩, | dʑɤ˩-hĩ˧ tʰv̩˧-v̩˧ so˥! pi˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.74"/>
@@ -1071,7 +1073,7 @@
 	<TRANSL xml:lang="fr">Euh… tu m'expliques: alors, ce mauvais sujet-là, il ne faut pas prendre exemple sur lui! Cette bonne personne-là, il faut prendre exemple sur elle!</TRANSL>
 	<TRANSL xml:lang="zh">你教我：这个不好的人，不要学他。这个好的人，（要）学他 / 要向他学习！</TRANSL>
 </S>
-<S id="﻿Benevolence_S137">
+<S id="Benevolence_S137">
 	<AUDIO start="746.266" end="755.631"/>
 	<FORM kindOf="phono">zo˩no˥ | tsʰi˧ɲi˧ | ɑ˩pʰo˩˥ | ɖɯ˧-ʝi˧ hɯ˧-bi˧, | ə˧mi˧! | hĩ˧mo˥-hĩ˩-dʑo˩, | pi˧-dʑo˩, | əəə… le˧-hɯ˩, | ʐɤ˩mi˩-qo˥-gɤ˩ | &lt;ʁo˧pv̩˩… |&gt; ʁo˧pv̩˩-bi˩-bi˩-bi˩, | hĩ˧mo˥-hĩ˩-ki˩, | zo˩no˥, | tso˧tso˧ | ɖɯ˧-kʰwɤ˥ tʰi˩-ki˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.75"/>
@@ -1080,14 +1082,14 @@
 	<TRANSL xml:lang="fr">Alors, aujourd'hui, si on s'est rendu quelque part en dehors [du village], eh bien! les personnes âgées, eh bien… euh… quand on s'en va [en voyage], sur le chemin, ce qu'on rencontre, eh bien, on donne (=on ramène) un petit quelque chose aux personnes âgées [de la maisonnée]!</TRANSL>
 	<TRANSL xml:lang="zh">那么，假如今天去一个什么地方，那就路程上遇见什么，就给老人家拿回一个东西送他们！</TRANSL>
 </S>
-<S id="﻿Benevolence_S138">
+<S id="Benevolence_S138">
 	<AUDIO start="755.631" end="758.396"/>
 	<FORM kindOf="phono">tʰi˧-ki˩… | ə˧mi˧! | tʰi˩˥ | hĩ˧mo˥-hĩ˩ | ʈʂʰɯ˧-v̩˧-ɳɯ˩ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩-kv̩˩˥ | mæ˧: |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˧ki˩ | ə˧mi˧ | tʰi˩˥ | hĩ˧mo˥hĩ˩ʈʂʰɯ˧v̩˧ | ʈʂʰɯ˧ne˧ʝi˥ | ʐwɤ˩kv̩˩˥ | mæ˩ |"/>
 	<TRANSL xml:lang="fr">Quand on offre [ce petit cadeau, témoignage d'affection qui montre qu'on pense à elle], waou! la personne âgée, voilà ce qu'elle dit:</TRANSL>
 	<TRANSL xml:lang="zh">送了（这样一份从外边拿回来的小礼物），哦哟！那位老人会这样讲的：</TRANSL>
 </S>
-<S id="﻿Benevolence_S139">
+<S id="Benevolence_S139">
 	<AUDIO start="758.396" end="762.532"/>
 	<FORM kindOf="phono">“ə˧mi˧! | ʈʂʰɯ˧-mv̩˥zo˩ ʈʂʰɯ˩-ɭɯ˩-dʑo˩, | &lt;k…&gt; so˧lo˧ dʑɤ˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.76"/>
@@ -1095,7 +1097,7 @@
 	<TRANSL xml:lang="fr">“Eeeh bien! Que voilà un bel exemple!” (Littéralement: “cet enfant constitue un bel exemple!”)</TRANSL>
 	<TRANSL xml:lang="zh">“啊，这个孩子，是个好榜样！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S140">
+<S id="Benevolence_S140">
 	<AUDIO start="762.532" end="766.363"/>
 	<FORM kindOf="phono">“zo˩qo˧ tʰv̩˧-ɻ̩˧, | lo˩qʰwɤ˥ | mɤ˧-kv̩˧ɲi˥! | hĩ˧-ki˧ ki˩-kv̩˩!” | pi˧. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : dʑo˩qo˧tʰv̩˧ɻ̩˧ | zo˩qʰwɤ˧ | mɤ˧kv̩˧ɲi˥ | hĩ˧ki˧ki˩kv̩˩ | pi˧ |"/>
@@ -1103,7 +1105,7 @@
 	<TRANSL xml:lang="fr">“Où qu'il aille, il ne revient pas les mains vides! (littéralement: “il n'a pas les mains vides”) Il est généreux envers autrui!” (littéralement: “il donne aux gens”)</TRANSL>
 	<TRANSL xml:lang="zh">“到哪里去，他都不空手！他是很大方的！”（老人家）说。</TRANSL>
 </S>
-<S id="﻿Benevolence_S141">
+<S id="Benevolence_S141">
 	<AUDIO start="766.363" end="772.946"/>
 	<FORM kindOf="phono">ə˧ʝi˧ʂɯ˥ʝi˩, | zo˩no˥, | njæ˧-sɯ˩kv̩˩, | ə˩-gi˩! | njɤ˧=ɻ̩˩ | tʰv̩˧-ʈʂæ˩ qo˩, | ɲi˧tsʰi˧qʰɑ˧-kʰv̩˧-lɑ˥ gv̩˩-sɯ˩, |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.77"/>
@@ -1112,7 +1114,7 @@
 	<TRANSL xml:lang="fr">Autrefois, eh bien, nous autres, n'est-ce pas! Ma génération, on avait seulement vingt années et quelques;</TRANSL>
 	<TRANSL xml:lang="zh">以前嘛，我们啊，我们这代，才二十几岁，</TRANSL>
 </S>
-<S id="﻿Benevolence_S142">
+<S id="Benevolence_S142">
 	<AUDIO start="772.946" end="779.076"/>
 	<FORM kindOf="phono">mmm… ɖʐɤ˩kɤ˧ ʈæ˧ʂɯ˧-tsʰɯ˩[ɻ̩˩] pi˩-zo˩… | ɖʐɤ˩kɤ˧ ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩ pi˩-zo˩, | tsʰo˩mo˩-tʰv̩˥ | ɖɯ˧-v̩˧ dʑo˩-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : mmm…dʑɤ˩kɤ˧ʈæ˧ʂɯ˩tsʰɯ˩ | pi˩zo˩ | ʐɤ˩kʰɯ˩˥ | ʈæ˧ʂɯ˧tsʰɯ˩ɻ̩ | pi˩zo˩ | tsʰɯ˧mv̩˩ʈʂo˥ | v̩˩dʑo˩kv̩˩mæ˩ |"/>
@@ -1122,7 +1124,7 @@
 	<TRANSL xml:lang="fr">Euh… il y avait un homme qui s'appelait Daeshi Ci'er, du clan Zzhege! Daeshi Ci'er, du clan Zzhege!</TRANSL>
 	<TRANSL xml:lang="zh">有一个男人，属于哲格家族，名叫达石次尔。</TRANSL>
 </S>
-<S id="﻿Benevolence_S143">
+<S id="Benevolence_S143">
 	<AUDIO start="779.076" end="783.79"/>
 	<FORM kindOf="phono">&lt;ɖɯ˧-v̩˧…&gt; | ɖɯ˧-v̩˧ dʑo˩-dʑo˩, | ə˧ʝi˧ʂɯ˥ʝi˩ | tʰi˩˥ | lo˧ʝi˧ kʰi˩! | zo˩no˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.78"/>
@@ -1130,7 +1132,7 @@
 	<TRANSL xml:lang="fr">Or donc cette personne-là, dans le temps… [Tout plein de gens] étaient partis travailler [ensemble]!</TRANSL>
 	<TRANSL xml:lang="zh">有那样的一个人，那个时候。然后呢，（大家一起）干活去了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S144">
+<S id="Benevolence_S144">
 	<AUDIO start="783.79" end="792.033"/>
 	<FORM kindOf="phono">ɖɯ˧-tɑ˧˥ | tɑ˧ho˧ lo˧ʝi˧ kʰi˩-dʑo˩ | tʰi˩˥ | əəə… qʰæ˧ qwæ˩-pi˩, | ʂo˧li˧ qwæ˧-pi˥, | əəə… zo˩no˥, | qʰæ˧lo˧˥ | tʰv̩˧=ɻæ˥ qwæ˩ kʰi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.79"/>
@@ -1141,21 +1143,21 @@
 	<TRANSL xml:lang="fr">On est tous parti travailler ensemble; alors, euh… on creusait un canal, on travaillait à un réseau d'irrigation (水利); alors… on est parti creuser des petits canaux!</TRANSL>
 	<TRANSL xml:lang="zh">大家一起去干活，挖水渠，做水利，那么……就是去挖小水渠！</TRANSL>
 </S>
-<S id="﻿Benevolence_S145">
+<S id="Benevolence_S145">
 	<AUDIO start="792.033" end="794.54"/>
 	<FORM kindOf="phono">kʰi˧-dʑo˩, | hæ̃˧qʰv̩˥ | tʰi˧-hɑ̃˧-bi˥-kv̩˩ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : kʰi˧dʑo˩ | hæ̃˧qv̩˧ | tʰi˧hɑ̃˩di˧kv̩˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">Comme on était ainsi parti (travailler), la nuit venue, on bivouaquait / on passait la nuit près du chantier (sans rentrer au village)!</TRANSL>
 	<TRANSL xml:lang="zh">去了，（到了）夜间，就要（在那里）过夜嘛！（不回村子里）</TRANSL>
 </S>
-<S id="﻿Benevolence_S146">
+<S id="Benevolence_S146">
 	<AUDIO start="795.144" end="800.647"/>
 	<FORM kindOf="phono">tʰi˧-hɑ̃˥-dʑo˩, | ɖɯ˧-hɑ̃˧˥ | -dʑo˩ | ʈʂʰɯ˧ | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥-dʑo˩ | hi˧ le˧-go˩-zo˩, | le˧-go˩-zo˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tɕi˧hɑ̃˥ | dʑo˩ | ɖɯ˧hɑ̃˧ | dʑo˩ | ʈʂʰɯ˧ | tsʰo˧ | mɤ˧ʈʂʰɯ˧˥ | dʑo˩ | hi˧le˧go˩do˩ | ˧ | le˧ gv̩˧zo˩ |"/>
 	<TRANSL xml:lang="fr">Comme on passait la nuit [sur place], toute la nuit, lui, cet homme-là (Daeshi Ci'er), il a eu mal aux dents!</TRANSL>
 	<TRANSL xml:lang="zh">过夜呢……一整夜，他，那个男人，牙齿痛了，很痛！</TRANSL>
 </S>
-<S id="﻿Benevolence_S147">
+<S id="Benevolence_S147">
 	<AUDIO start="800.647" end="804.037"/>
 	<FORM kindOf="phono">tʰi˩˥ | njɤ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | tʰi˧-hɑ̃˧˥, | kv̩˧dʑɯ˧˥ | ʈʂʰɯ˧ne˧ʝi˥ | le˧-tsʰi˧˥, | tʰi˧-hɑ̃˧-kv̩˥ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.80"/>
@@ -1164,14 +1166,14 @@
 	<TRANSL xml:lang="fr">Alors, on a tous passé la nuit [là-bas]; on a monté des tentes, et on a passé la nuit!</TRANSL>
 	<TRANSL xml:lang="zh"> 我们都（一起）过夜，就这样弄帐篷就过夜！</TRANSL>
 </S>
-<S id="﻿Benevolence_S148">
+<S id="Benevolence_S148">
 	<AUDIO start="804.037" end="809.944"/>
 	<FORM kindOf="phono">tʰi˩˥ | njɤ˩-dʑo˥ | ʈʂʰɯ˧-qo˧ ʑi˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥, | tʰv̩˧-qo˧ ʑi˧˥! | lɑ˧-ɬɑ˧˥ | kʰv̩˧pʰæ˥tɕi˩ | ɖɯ˧-tɑ˧˥ | tʰv̩˧qo˧ ʑi˧˥, | æ˧ʝi˩ kʰɯ˩~kʰɯ˩, | gwɤ˩-kv̩˩˥ | -mæ˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | njɤ˩dʑo˥ | ʈʂʰɯ˧qo˧ʑi˧ | tsʰɯ˩ | mo˩ʈʂʰɯ˩ | qo˩ʑi˧ | ʁɑ˧ɬɑ˧kʰv̩˧kæ˥tɕɯ˩tɑ˩tʰv̩˧qo˧ze˩ | æ˧ʝi˩kʰɯ˩ʈʂʰɯ˩ | gv̩˩kv̩˩˥ | mæ˩ |"/>
 	<TRANSL xml:lang="fr">Alors, moi, j'ai dormi ici! Cet homme, il dormait là! Les autres, tous les jeunes, ils dormaient là; [mais en fait ils ne dormaient pas,] ils faisaient tout un vacarme, ils chantaient!</TRANSL>
 	<TRANSL xml:lang="zh">那么，我吧，在这里睡。那个男人，在那里睡。其它所有年轻人，都在那边睡，（但其实他们没有睡：）他们很吵，他们唱歌什么的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S149">
+<S id="Benevolence_S149">
 	<AUDIO start="809.944" end="814.974"/>
 	<FORM kindOf="phono">gwɤ˩˥ | -dʑo˩ | tʰi˩˥, | njɤ˧-ɳɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-ɲi˥: | ʈʂʰɯ˧-ɳɯ˧: | “ə˧jo˧…ə˧jo˧!” tsɯ˧˥ | mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.81"/>
@@ -1179,7 +1181,7 @@
 	<TRANSL xml:lang="fr">Comme ils chantaient [ainsi], moi, voilà ce que j'ai dit, [pendant que] l'homme, lui, il faisait des “aaaïe! ouille!”:</TRANSL>
 	<TRANSL xml:lang="zh">这个男人在“啊呀、啊呀……”可怜地叫，而他们既然在唱歌！我这样说了：</TRANSL>
 </S>
-<S id="﻿Benevolence_S150">
+<S id="Benevolence_S150">
 	<AUDIO start="814.974" end="819.238"/>
 	<FORM kindOf="phono">“ə˧mi˧! no˧-sɯ˩kv̩˩ | ə˧tse˧ ʝi˧-ɲi˥? | hĩ˧ | ɖʐɤ˩kɤ˥ | ə˧v̩˧˥ | tsʰo˧qʰwɤ˩ | le˧-go˩ | le˧-ʂɯ˧-ho˥-ze˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ə˧mi˧no˧sɯ˩kv̩˩ətse˧i˧ɲi˥ | hĩ˧ | dʑɤ˩kɤ˥ | v̩˧ | tsʰi˧qʰwɤ˥ | le˧gv̩˩ | le˧ʂɯ˧ho˧ze˩ |"/>
@@ -1187,14 +1189,14 @@
 	<TRANSL xml:lang="fr">“Et alors! Qu'est-ce que vous fabriquez? Cet homme… l'oncle Zzhege, ce soir, il souffre à en crever!”</TRANSL>
 	<TRANSL xml:lang="zh">“啊呀，你们在干嘛呢？人呢……哲格叔叔今天晚上疼得要命！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S151">
+<S id="Benevolence_S151">
 	<AUDIO start="819.238" end="823.635"/>
 	<FORM kindOf="phono">“no˧-sɯ˩kv̩˩ | tsʰo˧qʰwɤ˩ | æ˧ji˧ | mɤ˧-kʰɯ˧˥ | mɤ˧-tʰɑ˧˥? | ʈʂʰɯ˧ne˧ tʰɑ˧-ʝi˥!” | pi˧, | ɕjɤ˩tʰv̩˧˥ | -dʑo˩, | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : no˧so˩v̩˩tsʰo˩ ɬo˧ə˩ʝi˩mɤ˧kʰɯ˥ | mɤ˩tʰɑ˥ | ʈʂʰɯ˧ne˧tʰɑ˧ʝi˥ | pi˧ | ɕjɤ˩tʰv̩˥dʑo˩ |"/>
 	<TRANSL xml:lang="fr">“Vous autres, ce soir, ce serait trop vous demander de pas faire de boucan?” (littéralement: “vous pouvez pas ne pas faire du boucan?”)</TRANSL>
 	<TRANSL xml:lang="zh">“你们今天晚上不能不吵吗？别这样了！”我这样批评他们，就……</TRANSL>
 </S>
-<S id="﻿Benevolence_S152">
+<S id="Benevolence_S152">
 	<AUDIO start="823.635" end="826.893"/>
 	<FORM kindOf="phono">tʰv̩˧so˩-dʑo˩, | gɤ˩-ʈi˥; | &lt;le˧…&gt; tsʰo˩mo˩˥ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-dʑo˥: |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.82"/>
@@ -1202,7 +1204,7 @@
 	<TRANSL xml:lang="fr">Le lendemain matin, au lever, il allait un peu mieux; </TRANSL>
 	<TRANSL xml:lang="zh">第二天早上起来，（那个）男人好一点了（=不那么疼了），</TRANSL>
 </S>
-<S id="﻿Benevolence_S153">
+<S id="Benevolence_S153">
 	<AUDIO start="826.893" end="832.296"/>
 	<FORM kindOf="phono">“ə˧mi˧! | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥!” | njɤ˧-ki˧-dʑo˩, | ʈæ˧ʂɯ˧-lɑ˩mv̩˩ | pi˧-mɤ˧-kv̩˩, | ə˩-gi˩! | ə˧pʰv̩˧ tʰv̩˧-v̩˧-dʑo˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ə˧mi˧ | lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩ | njɤ˧ki˩ ɖɯ˧æ˧ʂɯ˧lɑ˩ | mv̩˩pi˧mɤ˧kv̩˧˥ | ə˩gi˩ | qʰv̩˧pʰv̩˧tʰv̩˧v̩˧ |"/>
@@ -1210,7 +1212,7 @@
 	<TRANSL xml:lang="fr">“Demoiselle Latami”, a-t-il dit… Il ne m'appelait pas par mon prénom, ‘Daeshi Lhamu’, n'est-ce pas, cet aïeul! (Note: la narratrice adopte le point de vue du présent de l'énonciation, selon lequel le personnage est ce qu'il est devenu entretemps: un aïeul, tandis que dans le présent de la narration, il était un ‘oncle’, un homme de la génération de la mère.)</TRANSL>
 	<TRANSL xml:lang="zh">“家姑娘啊！”他不会用名字，把我叫做“达石拉么”（而他用的是家族的性加上“姑娘”这个称呼），那位祖父！（注：此处，阿妈从现在的角度看，将那个人称作“外曾叔父（相当于汉族家庭的祖父）”，而不用当时的角度：当时称“叔叔”。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S154">
+<S id="Benevolence_S154">
 	<AUDIO start="832.296" end="839.71"/>
 	<FORM kindOf="phono">“lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥! | no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩ ʝi˩-ze˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.83"/>
@@ -1220,7 +1222,7 @@
 	<TRANSL xml:lang="fr">“Demoiselle Latami”, a-t-il dit, “tu es un bel exemple pour les autres, tu sais! Tu as fait une bonne action!”</TRANSL>
 	<TRANSL xml:lang="zh">“拉他咪家姑娘啊，你是有好教养的，知道吗。你做了一件好事！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S155">
+<S id="Benevolence_S155">
 	<AUDIO start="839.71" end="845.81"/>
 	<FORM kindOf="phono">“njɤ˧ | ə˧hwɤ˧ | hi˧ | le˧-go˩-zo˩, | ʁo˩di˥-ho˩-ze˩! | tʰv̩˧-sɯ˩kv̩˩-ɳɯ˩ | æ˧ʝi˩ | le˧-kʰɯ˧-zo˥, | le˧-ʑi˧-mɤ˥-tʰɑ˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.84"/>
@@ -1228,14 +1230,14 @@
 	<TRANSL xml:lang="fr">“Hier soir, j'avais mal aux dents, je croyais devenir fou! et comme eux, ils faisaient du vacarme, je n'arrivais pas à dormir!”</TRANSL>
 	<TRANSL xml:lang="zh">“昨天晚上，我牙疼得要发疯了！而他们在吵，使得我没法睡着！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S156">
+<S id="Benevolence_S156">
 	<AUDIO start="845.81" end="851.749"/>
 	<FORM kindOf="phono">“no˧-ɳɯ˧ | ʈʂʰɯ˧-sɯ˩kv̩˩-ʁo˩to˩ | le˧-ɕjɤ˩tʰv̩˩-ɳɯ˩, | le˧-ʑi˧-hɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ | hi˧ʈʰɯ˧ | ɖɯ˧-pi˧˥ | le˧-qʰwɤ˧-ze˧!” | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : no˧ɳɯ˧ | ʈʂʰɯ˧sɯ˩kv̩˥o˩to˩ | le˧ʂe˩tʰv̩˩ɳɯ˩ | le˧ʑi˩hɯ˧gwɤ˩tɕɯ˩lɑ˩ | njɤ˧ | ɕi˩ |"/>
 	<TRANSL xml:lang="fr">“Comme tu les as admonestés, j'ai pu dormir, et ma rage de dents s'est un peu calmée!”</TRANSL>
 	<TRANSL xml:lang="zh">“你批评了他们，（他们不吵了，）我睡了以后，牙齿（现在）好一点了！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S157">
+<S id="Benevolence_S157">
 	<AUDIO start="851.749" end="856.416"/>
 	<FORM kindOf="phono">“no˩-dʑo˥ | so˧jɤ˩ dʑɤ˩! | lɑ˧tʰɑ˧mi˥ | ə˧ʑi˧mo˥-lɑ˩ | lɑ˧tʰɑ˧mi˥ | ə˧mi˧-dʑɤ˩tsʰi˩-ʈʂʰɯ˩, | so˧jɤ˩ dʑɤ˩, | ə˧-sɯ˥!” | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.85"/>
@@ -1244,14 +1246,14 @@
 	<TRANSL xml:lang="fr">“Tu es quelqu'un de bien élevé! La grand-mère Latami, et Jjacee, la mère Latami, elles t'ont donné une bonne éducation / elles ont de bons principes, tu sais!”</TRANSL>
 	<TRANSL xml:lang="zh">“你是有好教养的！拉他咪家奶奶和拉他咪家母亲甲次，给了你很好的教育，知道吗！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S158">
+<S id="Benevolence_S158">
 	<AUDIO start="856.416" end="859.368"/>
 	<FORM kindOf="phono">“no˧ | &lt;le˧…&gt; ʁɑ˩mi˥-ze˩! | ʁɑ˩mi˥-ze˩! | no˧ | le˧-dʑɤ˩ ʝi˩!” | pi˧-kv̩˩ mv̩˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : no˧ | le˩ʁɑ˩mi˧ze˩ | ʁɑ˩mi˧ze˩ | no˧ | le˧dʑɤ˩ʝi˩ | pi˧kv̩˩mv̩˩ |"/>
 	<TRANSL xml:lang="fr">“Toi, je te remercie! Merci beaucoup! Tu as fait une bonne action!” a-t-il dit.</TRANSL>
 	<TRANSL xml:lang="zh">“感谢你啊，感谢！你做了一件好事！”他说。</TRANSL>
 </S>
-<S id="﻿Benevolence_S159">
+<S id="Benevolence_S159">
 	<AUDIO start="859.368" end="867.974"/>
 	<FORM kindOf="phono">&lt;tʰv̩˧-so˩, | &gt; tʰv̩˧-hɑ̃˩ | hæ̃˧qʰv̩˥ | njɤ˧-ki˧, | “lɑ˧tʰɑ˧mi˥ | mv̩˩zo˩˥, | ʁɑ˩mi˥! | ə˧v̩˧-ki˥ | dʑɯ˧… | dʑɯ˧ | ɖɯ˧-qʰwɤ˧ ki˥-ɻ̩˩! | njɤ˧ | ʂɯ˩tse˧˥ | mɤ˧-tʰɑ˧-ze˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tsʰv̩ sɯ˧ʈʰv̩æ̃ | hæ̃˧qo˥ | ne˧ki˥ | ə˧tʰɑ˧mi˧mv̩˩zo˩ | ʁɑ˩mi˧ | ə˧v̩˧ki˥ | dʑi˧dʑɯ˧ | ɖɯ˧qʰwɤ˧tɕi˥njɤ˧ | ʂɯ˧tsɑ˧mɤ˧tʰɑ˧ze˥ |"/>
@@ -1261,7 +1263,7 @@
 	<TRANSL xml:lang="fr">&lt;Ce matin-là…&gt; Le soir suivant, au milieu de la nuit, il m'a dit: “Demoiselle Latami! S'il te plaît, donne-moi un peu d'eau à boire! Je n'en peux vraiment plus / je me trouve vraiment très mal!”</TRANSL>
 	<TRANSL xml:lang="zh">那天&lt;早上&gt;晚上，半夜的时候，他跟我说：“拉他咪家姑娘啊！求你给我喝一碗水！我实在不行了！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S160">
+<S id="Benevolence_S160">
 	<AUDIO start="867.974" end="872.278"/>
 	<FORM kindOf="phono">njæ˧-sɯ˩kv̩˩-dʑo˩ | ə˧ʝi˧-ʂɯ˥ʝi˩ | ɑ˩ʁo˥-ne˩ʝi˩-zo˩, | lo˧ʝi˧ kʰi˩-dʑo˩, | ʈʰææ̃˧ | hæ̃˧qʰv̩˥ | ɑ˩pʰo˩ hɑ̃˥ kʰɯ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.87"/>
@@ -1269,14 +1271,14 @@
 	<TRANSL xml:lang="fr">Nous autres, autrefois, en fait de maison… quand on partait travailler, vrai de vrai, la nuit, on la passait dehors! / la nuit, on bivouaquait en extérieur!</TRANSL>
 	<TRANSL xml:lang="zh">以前嘛，我们，就像在家里……去干活的时候，真的会在外边过夜！</TRANSL>
 </S>
-<S id="﻿Benevolence_S161">
+<S id="Benevolence_S161">
 	<AUDIO start="872.278" end="875.067"/>
 	<FORM kindOf="phono">njɤ˧le˧gv̩˧ F, | ɑ˩pʰo˩ hɑ̃˥-kʰɯ˩! | ɑ˩ʁo˧-dʑo˩ | hɑ̃˧-di˥ | mɤ˧-dʑo˧-ɲi˥ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : njɤ˧ | le˧gv̩˧ɑ˩pʰo˩hɑ̃˩kʰɯ˩ | ɑ˩ʁo˧dʑo˩ | hɑ̃˩dʑo˩ | mɤ˧dʑi˧zæ˩ |"/>
 	<TRANSL xml:lang="fr">Pendant la journée, euh… on partait et on dormait dehors! Pas de maison, pas d'endroit où dormir!</TRANSL>
 	<TRANSL xml:lang="zh">白天，恩……出去了，就在外边过夜！没有家，没有能睡的地方！</TRANSL>
 </S>
-<S id="﻿Benevolence_S162">
+<S id="Benevolence_S162">
 	<AUDIO start="875.067" end="876.623"/>
 	<FORM kindOf="phono">dʑi˧hṽ˧ | tʰv̩˧ ʝi˧-kʰwɤ˧ | le˧-pɤ˥~pɤ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : dʑi˧hṽ˧di˧ʝi˧kwɤ˥ | le˧pɤ˥pɤ˩ |"/>
@@ -1285,14 +1287,14 @@
 	<TRANSL xml:lang="fr">On roule quelques vêtements en boule (pour servir de matelas).</TRANSL>
 	<TRANSL xml:lang="zh">我们把几件衣服卷成团当床垫。</TRANSL>
 </S>
-<S id="﻿Benevolence_S163">
+<S id="Benevolence_S163">
 	<AUDIO start="876.623" end="884.689"/>
 	<FORM kindOf="phono">kʰi˧˥ | -dʑo˩ | tʰi˩˥, | əəə… õ˧tʰv̩˧-so… | tʰv̩˧-hɑ̃˩, | njɤ˧-ɳɯ˧… | dʑɯ˧, | əəə…dʑɯ˧ | ɖɯ˧-qʰwɤ˧˥ | dʑɯ˩tsʰi˥ | ɖɯ˧-qʰwɤ˧ tsi˥, | tʰi˧-ki˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : kʰi˧˥ | dʑo˩ | tʰi˩˥ | kõ˧tʰv̩˧ | s dz˧tʰɑ˥˩ | njɤ˧ɳɯ˧ | dʑɯ˧əəə…dʑɯ˧ | ɖɯ˧qʰwɤ˧ | dʑɯ˩tsʰi˧ | ɖɯ˧qʰwɤ˧tsɯ˥tʰi˧ki˩ |"/>
 	<TRANSL xml:lang="fr">Quand on partait ainsi, &lt;euh… ceux…&gt; ce soir-là, moi, l'eau, euh… j'ai fait bouillir un bol d'eau, et je le lui ai donné!</TRANSL>
 	<TRANSL xml:lang="zh">这样去的话，那么……那天晚上，我煮了一碗开水，给了他！</TRANSL>
 </S>
-<S id="﻿Benevolence_S164">
+<S id="Benevolence_S164">
 	<AUDIO start="885.609" end="888.755"/>
 	<FORM kindOf="phono">gɤ˩-ʈi˥, | hæ̃˧qʰv̩˧! | əəə…tʰi˧-ʈʰɯ˩-kʰɯ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.88"/>
@@ -1300,7 +1302,7 @@
 	<TRANSL xml:lang="fr">Je me suis levée, en pleine nuit! Je l'ai fait boire!</TRANSL>
 	<TRANSL xml:lang="zh">我半夜就起来了，给他喝水！</TRANSL>
 </S>
-<S id="﻿Benevolence_S165">
+<S id="Benevolence_S165">
 	<AUDIO start="888.755" end="892.116"/>
 	<FORM kindOf="phono">mv̩˩si˧njɤ˧˥ | -dʑo˩, | ʈʂʰɯ˧-ʈʂæ˩-qo˩-dʑo˩, | ʂo˧qo˧-tʰɑ˩ | mɤ˧-dʑo˧, | ə˩-gi˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : mv̩˩si˥njɤ˧˥ | dʑo˩ | wɤ ə | tʰv̩˧ʈʂæ˩qo˩dʑo˩ | ʂo˧qo˧tʰɑ˩mɤ˧dʑo˧ | ə˩gi˩ |"/>
@@ -1308,7 +1310,7 @@
 	<TRANSL xml:lang="fr">Le matin venu… A l'époque, il n'existait pas de bonbons, n'est-ce pas!</TRANSL>
 	<TRANSL xml:lang="zh">到了早晨……那时候，没有水果糖，对吧！</TRANSL>
 </S>
-<S id="﻿Benevolence_S166">
+<S id="Benevolence_S166">
 	<AUDIO start="892.116" end="895.919"/>
 	<FORM kindOf="phono">əəə… pi˧tʰɑ˩ | mɤ˧-dʑo˧! | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.89"/>
@@ -1317,14 +1319,14 @@
 	<TRANSL xml:lang="fr">Il n'existait pas de sucre blanc! Il n'existait que du sucre roux! (Le sucre se présentait sous forme de pains de sucre: suc de canne séché.)</TRANSL>
 	<TRANSL xml:lang="zh">没有白糖！只有红糖！</TRANSL>
 </S>
-<S id="﻿Benevolence_S167">
+<S id="Benevolence_S167">
 	<AUDIO start="895.919" end="898.368"/>
 	<FORM kindOf="phono">ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧-bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ho˧tʰɑ˩zɯ˥ | dʑo˩ | õ˧bv̩˥ | tsɑ˧bɤ˧ʁo˧ɬi˥ɲi˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">Le sucre roux, on le mettait soi-même dans le tsamba!</TRANSL>
 	<TRANSL xml:lang="zh">红糖，是自己放在糌粑里去嘛！</TRANSL>
 </S>
-<S id="﻿Benevolence_S168">
+<S id="Benevolence_S168">
 	<AUDIO start="898.368" end="901.747"/>
 	<FORM kindOf="phono">tsɑ˧bɤ˧ | le˧-po˧˥, | ho˩tʰɑ˩-tʰv̩˥ | ɖɯ˧-ʈv̩˩~ɖɯ˩-ʈv̩˩ | tsɑ˧bɤ˧-qo˧ | tʰi˧-kʰɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.90"/>
@@ -1332,7 +1334,7 @@
 	<TRANSL xml:lang="fr">On prenait le tsamba; le sucre roux, on le mettait dans le tsamba par petits blocs!</TRANSL>
 	<TRANSL xml:lang="zh">拿糌粑来，往里面红糖一块一块地放！</TRANSL>
 </S>
-<S id="﻿Benevolence_S169">
+<S id="Benevolence_S169">
 	<AUDIO start="901.747" end="906.971"/>
 	<FORM kindOf="phono">&lt;tsɑ˧bɤ˧&gt; [ho˩tʰɑ˩˥] | le˧-dze˧~dze˥-dʑo˩ | tʰi˩˥, | &lt;ho˩tʰɑ˩-qo˥ kʰɯ˩&gt; [tsɑ˧bɤ˧-qo˧ kʰɯ˧˥], | õ˧-bv̩˩-õ˩ | tsɑ˧bɤ˧ | &lt;le˧-…&gt; | le˧-njɤ˧~njɤ˥, | dzɯ˧-ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tɑ˧bo˧ | le˧ʑi˧dze˥dʑo˩ | tʰi˩˥ | ho˩tʰɑ˩qo˥kʰɯ˩ | bo˧ | tʰɑ˧bwɤ˩ | le˧ | le˧njɤ˩ | njɤ˧dzɯ˩ɲi˥mæ˩ |"/>
@@ -1340,7 +1342,7 @@
 	<TRANSL xml:lang="fr">Le sucre roux, on le taillait en morceaux; on le mettait dans la farine de céréales grillées, on malaxait, et on mangeait!</TRANSL>
 	<TRANSL xml:lang="zh">红糖，要切成小块，放糌粑里，搅拌，就吃！</TRANSL>
 </S>
-<S id="﻿Benevolence_S170">
+<S id="Benevolence_S170">
 	<AUDIO start="907.297" end="914.239"/>
 	<FORM kindOf="phono">tʰi˩˥, | tʰv̩˧-so˩-dʑo˩, | mv̩˩si˧njɤ˧˥ | əəə… tsʰo˩mo˩ tʰv̩˩-jɤ˩˥ | ki˧, | njɤ˧-ɳɯ˧ | &lt;ho˩tʰɑ˩[-li˥]…&gt; | li˩˥ | ɖɯ˧-kʰwɤ˥ | tʰi˧-tɕɤ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ʈv̩˩ tʰi˩-kʰɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "C'est à cette phrase que s'arrête le travail de transcription avec Ama le 27 avril 2018."/>
@@ -1349,14 +1351,14 @@
 	<TRANSL xml:lang="fr">Alors, tôt ce matin-là, je lui ai fait bouillir un peu de thé, à cet homme-là! J'y ai mis un morceau de sucre roux!</TRANSL>
 	<TRANSL xml:lang="zh">那么，那天早上，一大早，我给这位男人煮了一块茶饼，加了一块红糖！</TRANSL>
 </S>
-<S id="﻿Benevolence_S171">
+<S id="Benevolence_S171">
 	<AUDIO start="914.239" end="919.324"/>
 	<FORM kindOf="phono">tʰi˧-ki˧-dʑo˥, | “ə˧mi˧! | no˧ | ʁɑ˩mi˥-ze˩, | ə˧-sɯ˥! | no˧ | le˧-dʑɤ˩-ʝi˩-ze˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥tɕi˩dʑo˩ | ə˧mi˧no˧ | ʁɑ˩mi˧se˩ | ə˧sɯ˥ | no˧ | le˧dʑɤ˩i˩ze˩ |"/>
 	<TRANSL xml:lang="fr">Quand je lui ai donné, il a dit: “Eeeh bien, grand merci! Tu as fait là une belle action!”</TRANSL>
 	<TRANSL xml:lang="zh">给了，他就说：“感谢你！你做了一件好事，知道吗！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S172">
+<S id="Benevolence_S172">
 	<AUDIO start="919.324" end="924.63"/>
 	<FORM kindOf="phono">“njɤ˧ | tsʰi˧ɲi˧, | no˧ | li˩ tʰv̩˩-qʰwɤ˥ ʈʰɯ˩-dʑo˩, | dze˧li˥ tʰv̩˩-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩”… | ‘dze˧li˥’ | pi˧-kv̩˩ | mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.92"/>
@@ -1366,7 +1368,7 @@
 	<TRANSL xml:lang="fr">“Moi, aujourd'hui, j'ai bu ce bol de thé que tu m'as donné, ce thé sucré…” On appelait ça ‘thé sucré’, autrefois!</TRANSL>
 	<TRANSL xml:lang="zh">“我今天喝了你这碗茶，这碗甜茶……” 以前叫做‘甜茶’！</TRANSL>
 </S>
-<S id="﻿Benevolence_S173">
+<S id="Benevolence_S173">
 	<AUDIO start="924.63" end="929.553"/>
 	<FORM kindOf="phono">“dze˧li˥ | ʈʂʰɯ˧-qʰwɤ˩ ʈʰɯ˩-kwɤ˩tɕɯ˩-lɑ˩, | njɤ˧ gv̩˧mi˧ | ʈʂʰɯ˧ne˧-ʝi˥ | gɤ˩-tɕʰɯ˧-ze˩, | le˧-hɤ˩-ze˩!” | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : dʑi˧ɬi˥ | tsʰɯ˧qʰwɤ˩ʈʰɯ˩kwɤ˩tɕɯ˩lɑ˩ | njɤ˧gv̩˧mi˧ | ʈʂʰɯ˧ne˧ʝi˥ | gɤ˩tɕʰi˧ze˥ | le˧hɤ˩ze˩ | no˧"/>
@@ -1374,7 +1376,7 @@
 	<TRANSL xml:lang="fr">“Après avoir bu ce bol de thé sucré, mon état s'est amélioré; ça va mieux!”</TRANSL>
 	<TRANSL xml:lang="zh">“喝了这碗甜茶之后，我身体好了一些，感觉我好了！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S174">
+<S id="Benevolence_S174">
 	<AUDIO start="929.553" end="931.863"/>
 	<FORM kindOf="phono">“no˧ | ʁɑ˩mi˥-ze˩! | u˧, | hɤ˩˥!” | pi˧-kv̩˩ wɤ˩. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.93"/>
@@ -1383,7 +1385,7 @@
 	<TRANSL xml:lang="fr">“Un grand merci! Tu es quelqu'un de bien!”</TRANSL>
 	<TRANSL xml:lang="zh">“感谢你啊！你是好人！”他说了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S175">
+<S id="Benevolence_S175">
 	<AUDIO start="931.863" end="937.482"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧-le˧gv̩˧, | ʈʂʰɯ˧-sɯ˩kv̩˩ | hɑ˧ dzɯ˧ ʝi˧ tʰv̩˧ lɑ˧, | ʈʂʰɯ˧-ɳɯ˧, | qʰɑ˧ kv̩˧-ze˥, | ɕjɤ˩tʰv̩˧-zo˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hi˩˥ | njɤ˧ | le˧gv̩˧ʈʂʰɯ˧sɯ˩kv̩˩ | hɑ˧dzɯ˧hĩ˥ | tʰv̩˧lɑ˧ | ʈʂʰɯ˧ne˧ | qʰwɤ˧kv̩˧ze˥ | ɕjɤ˩tʰv̩˧zo˥ |"/>
@@ -1391,14 +1393,14 @@
 	<TRANSL xml:lang="fr">Ensuite, en plein jour (=le lendemain), eux, nos gros goinfres, le vieil homme, il les a critiqués, tous autant qu'ils étaient!</TRANSL>
 	<TRANSL xml:lang="zh">然后到了第二天，在光天化日之下，老人批评了他们，所有的那些自私蟾鬼！</TRANSL>
 </S>
-<S id="﻿Benevolence_S176">
+<S id="Benevolence_S176">
 	<AUDIO start="937.482" end="939.468"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˩-dʑo˥, | wɤ˩˥ | hɑ˧ tɕɤ˩ kʰɯ˩-ɲi˩ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɲi˩dʑo˥ | wɤ˩˥ | hɑ˧tɕɤ˩kʰɯ˩ɲi˩mæ˩ | ə"/>
 	<TRANSL xml:lang="fr">Moi, on m'avait à nouveau fait faire la cuisine / on m'avait à nouveau mise de corvée de cuisine.</TRANSL>
 	<TRANSL xml:lang="zh">我吧，又要做饭／去厨房值班了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S177">
+<S id="Benevolence_S177">
 	<AUDIO start="939.468" end="942.7"/>
 	<FORM kindOf="phono">ə˧mɑ˧ ʈʂʰɯ˧-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | õ˧˥ | mɤ˧-tʰɑ˥, | dzɯ˧ mɤ˧-kv̩˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.94"/>
@@ -1409,14 +1411,14 @@
 	<TRANSL xml:lang="fr">Moi, autrefois… moi-même, je n'arrivais pas à manger une seule bouchée! [parce qu'elle faisait le service et que les convives se laissaient servir sans vergogne, et en redemandaient, sans se faire la réflexion que la cuisinière, elle, n'avait pas encore mangé]</TRANSL>
 	<TRANSL xml:lang="zh">然后呢……吃饭的时候，没有我自己的份！（阿妈给别人吃饭，他们吃了又吃，不注意阿妈自己都没时间吃一口）</TRANSL>
 </S>
-<S id="﻿Benevolence_S178">
+<S id="Benevolence_S178">
 	<AUDIO start="942.7" end="952.18"/>
 	<FORM kindOf="phono">hɑ˧ bv̩˧~bv̩˧, | kʰv̩˧pʰæ˥tɕi˩-dʑo˩, | ə˩-gi˩! | ɖɯ˧-tɑ˧˥ | kɤ˧kɤ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-dzi˩, | hɑ˧ bv̩˧~bv̩˧-dʑo˩, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, | le˧-qwæ˧˥, | le˧-qwæ˧˥, | le˧-qwæ˧-hĩ˧-ʈʂʰɯ˥, | hɑ˧-ʈʂʰɯ˧ | tʰɑ˧-↑ni˥~ni˩ | qwæ˧-ʁo˥-kv̩˩ ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hɑ˧bv̩˧bv̩˧ | kʰv̩˩pʰæ˥ | tɕi˩dʑo˩ | ə˩dʑo˩ | ɖɯ˧tɑ˧˥ | ə˧kɤ˧kɤ˩ | ʈʂʰɯ˧ne˧i˥ | tʰi˧dzi˩ | hɑ˧gv̩˧gv̩˧dʑɯ˩ | le˧pwæ˧˥ɯ˧ | le˧pwæ˧˥ | le˧kv̩˧˥ | le˧qʰwæ˧˥ | ne˥ | hɑ˧ʈʂʰɯ˧ | tʰɑ˧ɲi˥njɤ˧qɑ˩ʁɤ˥kv̩˩ɲi˩ |"/>
 	<TRANSL xml:lang="fr">Le partage de la nourriture… tous ces jeunes, hein, ils étaient assis les uns à côté des autres (assis en rang); quand on distribue la nourriture, on distribue, on distribue, on distribue… et on parvient à ce que la part de chacun soit tout à fait identique ! (que la répartition soit tout à fait équitable)</TRANSL>
 	<TRANSL xml:lang="zh">把饭分给每个人的时候，那些年轻人嘛，都这样一排坐着。给饭的人，给着给着，给的是很公平的，给每个人一样多的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S179">
+<S id="Benevolence_S179">
 	<AUDIO start="952.18" end="957.09"/>
 	<FORM kindOf="phono">tɕɯ˧-qo˥ | ʐwæ˧ ne˧-ʝi˥-zo˩! | ɖɯ˧-v̩˧-ki˧-ɳɯ˩, | ɖɯ˧-pɤ˥! | ĩ˧, | ɖɯ˧-pɤ˥~ɖɯ˩~pɤ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-qwæ˧˥, |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.95"/>
@@ -1426,7 +1428,7 @@
 	<TRANSL xml:lang="fr">Comme si c'était pesé avec une balance! / On arrive à être aussi précis que si la part de chacun était pesée au trébuchet! Une cuillerée pour chacun / une louche pour chacun! Ainsi, on distribue, louche après louche;</TRANSL>
 	<TRANSL xml:lang="zh">就像用称一样！（能非常准，分出来的饭，每个人的份都完全一样）给每个人一瓢（饭）！这样，一瓢一瓢分，</TRANSL>
 </S>
-<S id="﻿Benevolence_S180">
+<S id="Benevolence_S180">
 	<AUDIO start="957.09" end="964.7"/>
 	<FORM kindOf="phono">tʰi˧-ki˧-dʑo˥, | ɕjo.ho, ɕjo.ho, ɕjo.ho | pi˧, | v̩˩tsʰɤ˧˥ | ɖɯ˧-v̩˧ tɕɤ˩! | ʁo˧dɑ˧ tʰi˧-tɕɯ˥! | hɑ˧ | õ˧-bv̩˥-õ˩ | qʰwɤ˧-qo˥ | le˧-po˧˥, | le˧-dzɯ˥-dʑo˩, |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.96"/>
@@ -1434,7 +1436,7 @@
 	<TRANSL xml:lang="fr">(Je) distribuais le riz; et je faisais aussi bouillir une casserole de soupe, glou-glou-glou-glou! Je la mettais devant moi! Le riz, chacun prenait son bol et mangeait; alors,</TRANSL>
 	<TRANSL xml:lang="zh">（我）给饭，那么……我也煮了一锅汤，咕噜咕噜！先放在那儿！饭，（他们）自己拿碗吃，</TRANSL>
 </S>
-<S id="﻿Benevolence_S181">
+<S id="Benevolence_S181">
 	<AUDIO start="964.7" end="967.65"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧-tɕi˩-ɳɯ˩, | dzɯ˧-se˩, | njɤ˧ | mɤ˧-dzɯ˧-sɯ˥, | tʰi˧-gɤ˧-kʰo˩-jo˩-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰv̩˧tɕi˩ɳɯ˩ | dzɯ˧se˩ | njɤ˧ | hɤ˧dzɯ˧sɯ˥tʰv̩˧pɤ˧kʰwɤ˩ɲi˩kv̩˩ | tʰi˩˥ | əəə… | ə˧v̩˧tʰv̩˧v̩ɳɯ˩ɕi˩"/>
@@ -1444,7 +1446,7 @@
 	<TRANSL xml:lang="fr">Eux, ils finissaient leur bol; je n'avais pas encore commencé à manger, moi, que déjà ils présentaient leur bol (pour en avoir à nouveau)!</TRANSL>
 	<TRANSL xml:lang="zh">他们吧，很快吃完了，我还没开始吃，他们就已经把碗伸出来要（我给）更多了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S182">
+<S id="Benevolence_S182">
 	<AUDIO start="967.65" end="976.43"/>
 	<FORM kindOf="phono">tʰi˩˥ | əəə… | ə˧v̩˧ tʰv̩˧-v̩˧-ɳɯ˩, | ɕjɤ˩tʰv̩˧ kv̩˥-ze˩, | ʈʂʰɯ˧-tɕi˩-ki˩: | “no˧-sɯ˩kv̩˩ | le˧-ʑi˩, | v̩˧-qo˩ li˩, | hĩ˧ | hɑ˧ mɤ˧-dzɯ˧-hĩ˧ | mɤ˧-do˩! | no˧-sɯ˩kv̩˩ | v̩˧-qo˩ li˩!” | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.97"/>
@@ -1452,14 +1454,14 @@
 	<TRANSL xml:lang="fr">Alors, cet oncle, il les a critiqués, ceux-là: “Vous autres, vous prenez (la nourriture qu'on vous donne), vous regardez dans la casserole (=vous n'avez d'yeux que pour la casserole: pour la nourriture que vous convoitez)! Vous ne voyez pas la personne qui n'a pas encore mangé ! Vous avez le regard rivé sur la casserole, dites donc!”</TRANSL>
 	<TRANSL xml:lang="zh">那位舅舅批评了他们，说：“你们拿人家给你们的饭，你们就看锅（＝你们感兴趣的，一共就是你们想吃的饭。你们看不见还没有吃饭的人！你们（只）看锅里哈！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S183">
+<S id="Benevolence_S183">
 	<AUDIO start="976.43" end="984.294"/>
 	<FORM kindOf="phono">tʰi˩˥, | “ə˧v̩˧˥, | ɖwæ˩-mɤ˧-zo˧! | njɤ˧ | hɑ˧ tʰi˧-dʑo˧!” | pi˧, | njɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˧-pi˥-dʑo˩, | njɤ˩-dʑo˥ | tʰi˩˥, | lo˧ʝi˧ kʰi˩, | hɑ˧ gv̩˥-kʰɯ˩, | li˩ tɕɤ˧-kʰɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : le˧lv̩˧˥ | ɻæ˧ɖwæ˩ | mɤ˧zo˧ | njɤ˧ | hɑ˧ | tʰi˧dʑo˧pi˧ | njɤ˧ | ʈʂʰɯ˧ne˧ʝi˥ | tʰi | pi˧dʑo˩ | njɤ˩dʑo˥ | tʰi˧ | lo˧ʝi˧kʰi˩ | hɑ˧gv̩˥kʰɯ˩ | di˩tɕɤ˧kʰɯ˧˥ |"/>
 	<TRANSL xml:lang="fr">Alors j'ai dit: “Oncle, ne vous en faites pas! Il me reste du riz!” Voilà ce que j'ai dit. Moi, je participais aux travaux collectifs, je faisais la cuisine, et je préparais le thé!</TRANSL>
 	<TRANSL xml:lang="zh">我就说：“舅舅不用担心，我还有饭！”我这样说，我吧，（比较乐意帮助别人，尽力为别人：）我参加公务干活，做饭，还煮茶。</TRANSL>
 </S>
-<S id="﻿Benevolence_S184">
+<S id="Benevolence_S184">
 	<AUDIO start="984.29" end="987.1"/>
 	<FORM kindOf="phono">hĩ˧mo˥-hĩ˩-ʈʂʰɯ˩-dʑo˩ | pi˧, | hĩ˧mo˥-hĩ˩ | ɖɯ˧-ʁo˧mæ˧-ɻ̩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hĩ˧mo˥hĩ˩ʈʂʰɯ˩dʑo˩ | pi˧ | hĩ˧mo˥hĩ˩ | ɖɯ˩ʁo˧ | mæ˧ |"/>
@@ -1467,14 +1469,14 @@
 	<TRANSL xml:lang="fr">Quant aux anciens, je m'en occupais un peu! / Et quand il me restait un peu de temps, j'aimais à le passer avec les anciens, à m'occuper d'eux!</TRANSL>
 	<TRANSL xml:lang="zh">我也管一管老人！ / 这些以外，有空的时候，我还喜欢花时间跟老人家在一起，管管他们。</TRANSL>
 </S>
-<S id="﻿Benevolence_S185">
+<S id="Benevolence_S185">
 	<AUDIO start="987.1" end="989.77"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njɤ˧ | qʰɑ˩ne˩˥ | fv̩˩-kv̩˩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥kwɤ˩tɕɯ˩lɑ˩ | ə˧ʝi˧ʂɯ˥ʝi˩ | njɤ˧ | qʰɑ˩le˥kv̩˩ |"/>
 	<TRANSL xml:lang="fr">Du coup, autrefois, les gens m'aimaient bien / m'appréciaient beaucoup!</TRANSL>
 	<TRANSL xml:lang="zh">于是，那时候，人家多么喜欢我！</TRANSL>
 </S>
-<S id="﻿Benevolence_S186">
+<S id="Benevolence_S186">
 	<AUDIO start="989.77" end="991.96"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥, | tsʰo˩mo˩-ʈʂʰɯ˥, | &lt;ə˧ʝi˧… njɤ˧…&gt; | ɖɯ˧-ʂɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.99"/>
@@ -1482,14 +1484,14 @@
 	<TRANSL xml:lang="fr">Et voilà pour l'épisode de l'homme!</TRANSL>
 	<TRANSL xml:lang="zh">这样，男人的那件事情就讲完了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S187">
+<S id="Benevolence_S187">
 	<AUDIO start="991.96" end="995.87"/>
 	<FORM kindOf="phono">ɖɯ˧-ʂɯ˩, | ʈʂʰɯ˧-dʑo˩, | tʰi˩˥, | njɤ˧=ɻ̩˩, ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɖɯ˧ʂɯ˧ɻ̩˩ʈʂʰɯ˧dʑo˩ | tʰi˩˥ | njɤ˧ɻ̩˧˩ | ə˩gi˩ |"/>
 	<TRANSL xml:lang="fr">Après cet épisode-là, eh bien… (je vais parler de) nous, n'est-ce pas ! / Maintenant, je vais parler des familles de Yongning.</TRANSL>
 	<TRANSL xml:lang="zh">那件事讲完了，那么，我要讲我们那边的家族！</TRANSL>
 </S>
-<S id="﻿Benevolence_S188">
+<S id="Benevolence_S188">
 	<AUDIO start="995.87" end="1010.81"/>
 	<FORM kindOf="phono">əəə… dze˧bo˧=ɻ̩˩, | mmm… ə˧ɕjo˩=ɻ̩˩, | əəə…lɑ˩mɑ˩=ɻ̩˥, | əəə… zo˩no˥, | D njæ˧-sɯ˩kv̩˩, | ʐv̩˧-ʑi˩, | ʐv̩˧-ʑi˩-hĩ˩-tʰv̩˩, | gv̩˩pʰæ˩ kʰi˩~kʰi˥ ɲi˩-ze˩ mæ˩, | ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.100"/>
@@ -1500,7 +1502,7 @@
 	<TRANSL xml:lang="fr">On était quatre familles, [avec] les Zzeibbo, les Exo, et les Lama. / On était quatre familles : les Latami, les Zzeibbo, les Exo et les Lama. Ces quatre familles, elles débitaient les planches ensemble, n'est-ce pas!</TRANSL>
 	<TRANSL xml:lang="zh">我们有四家：（拉他咪、）者波家、Exo、拉玛等。这四家，是一起划开木根成木板的，对吧！</TRANSL>
 </S>
-<S id="﻿Benevolence_S189">
+<S id="Benevolence_S189">
 	<AUDIO start="1010.81" end="1018.44"/>
 	<FORM kindOf="phono">ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | gv̩˩pʰæ˩˥! | dʑɯ˩-nɑ˩mi˩-ʁo˩˥! | gv̩˩pʰæ˩-tʰv̩˥ | si˧dzi˩ | tʰv̩˧-bv̩˧-hĩ˧ | le˧-dɑ˧˥ | -dʑo˩ | ʐv̩˩-pʰɤ˩˥ | le˧-kʰi˧~kʰi˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.101"/>
@@ -1508,7 +1510,7 @@
 	<TRANSL xml:lang="fr">Autrefois, [on utilisait beaucoup] les planches! [On allait] sur la montagne [couper du bois de construction]! Les planches… quand on avait abattu un arbre [au tronc] gros comme ça, on le débitait en planches!</TRANSL>
 	<TRANSL xml:lang="zh">以前，木板（是很重要的建材）！在深山老林里砍完那么粗大的树，就划开成木板！</TRANSL>
 </S>
-<S id="﻿Benevolence_S190">
+<S id="Benevolence_S190">
 	<AUDIO start="1018.44" end="1028.13"/>
 	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧-ɲi˥-kv̩˩ | le˧-lɑ˧˥, | ʈʂʰɯ˧-ɲi˥-kv̩˩ | le˧-lɑ˧˥, | ʈʂʰɯ˧-v̩˧, | ʈʂʰɯ˧-v̩˧, | ʈʂʰɯ˧-v̩˧-dʑo˥ | tʰi˩˥, | gv̩˩pʰæ˩-ʈʂʰɯ˥ | ɖɯ˧-pʰæ˧~ɖɯ˥-pʰæ˩ tsɤ˩-ɲi˩! | ʈʂʰɯ˧ne˧ʝi˥ | le˧-kʰi˥-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | gv̩˩pʰæ˩ tsɤ˩ ɲi˥-ze˩ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.102"/>
@@ -1516,7 +1518,7 @@
 	<TRANSL xml:lang="fr">On abattait ces deux-là; ces deux-là; celui-ci, celui-ci, celui-ci… Ensuite, ça donnait des planches, [qu'on tirait des grumes] l'une après l'autre!</TRANSL>
 	<TRANSL xml:lang="zh">砍这两个，那两个，再这个，这个，这个……（=先砍大树），然后就划开木板，一片又一片！</TRANSL>
 </S>
-<S id="﻿Benevolence_S191">
+<S id="Benevolence_S191">
 	<AUDIO start="1028.13" end="1035.58"/>
 	<FORM kindOf="phono">gv̩˩pʰæ˩ tsɤ˩˥ | dʑo˩ | tʰi˩˥, | əəə… ʐv̩˧-ʑi˥ qɑ˩~qɑ˩! | gv̩˩pʰæ˩ kʰi˩-bi˩-kv̩˥ mæ˩! | gv̩˩pʰæ˩ kʰi˩˥, | pi˧. | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.103"/>
@@ -1525,14 +1527,14 @@
 	<TRANSL xml:lang="fr">Pour débiter [les troncs] en planches / pour tirer des planches des grumes, les quatre familles s'ent'aidaient! On allait [ensemble] débiter des planches! On appelait ça ‘débiter des planches’.</TRANSL>
 	<TRANSL xml:lang="zh">为了把树干切成木板，为了从原木上拉出木板，四个家庭互相帮助！我们一起去切木板！我们称之为 “切木板”。</TRANSL>
 </S>
-<S id="﻿Benevolence_S192">
+<S id="Benevolence_S192">
 	<AUDIO start="1035.58" end="1038.88"/>
 	<FORM kindOf="phono">ʐv̩˧-ʑi˥ qɑ˩~qɑ˩, | gv̩˩pʰæ˩ kʰi˩˥, | gv̩˩pʰæ˩-ʈʂʰɯ˥ | tʰi˩˥ | le˧-qʰo˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɯ˧ʑi˥ | qɑ˩hwæ˩gv̩˩pʰæ˩ | kʰi˥ɻæ˥ | gv̩˩pʰɑ˩ʈʂʰɯ˥ | tʰi˩˥ | le˧to˧o˥ |"/>
 	<TRANSL xml:lang="fr">Les quatre familles s'entr'aidaient; on débitait des planches, et les planches, on les empilait!</TRANSL>
 	<TRANSL xml:lang="zh">四家互相帮忙，做木板，让后把木板堆起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S193">
+<S id="Benevolence_S193">
 	<AUDIO start="1038.88" end="1043.43"/>
 	<FORM kindOf="phono">&lt;gv̩˩pʰæ˩-gv̩˥pʰæ˩… |&gt; gv̩˩pʰæ˩˥ | ɖɯ˧-pʰæ˧~ɖɯ˥-pʰæ˩ | le˧-lɑ˧-se˥-dʑo˩, | ʈʂʰɯ˧ne˧ʝi˥ | qʰo˧-kv̩˧-ze˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.104"/>
@@ -1541,14 +1543,14 @@
 	<TRANSL xml:lang="fr">Quand on avait taillé les planches, une après l'autre, on les empilait, comme ceci!</TRANSL>
 	<TRANSL xml:lang="zh">木板一片一片做出来了，就这样堆起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S194">
+<S id="Benevolence_S194">
 	<AUDIO start="1043.43" end="1051.28"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥ | le˧-qʰo˧, | &lt;ʐv̩˧… | ʐv̩˧ q…&gt; ʐv̩˧-ɻ̩˥ | le˧-qʰo˧-dʑo˧, | bv̩˧~bv̩˧ ʈʂʰɯ˧-dʑo˩, | ə˩-gi˩! | dʑɤ˩-lɑ˥… | mɤ˧-dʑɤ˩, | tʰɑ˧-ʐwɤ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique :ʈʂʰɯ˧ne˧ʝi˥ | le˧qʰo˧˥ | ʐv̩˧ | ʐv̩˧ | ʐv̩˧ʐɑ̃˥ | ljɤ˧qʰwɤ˧˥dʑo˩ | bv̩˧bv̩˧ʈʂʰɯ˧dʑo˩ | ə˩gi˩ | dʑɤ˩lɑ˥ | mo˧dʑo˩tʰɑ˧˥ʐwɤ˩ |"/>
 	<TRANSL xml:lang="fr">Voici comment on les empilait: quatre… on les empilait sur quatre côtés (=en carrés), selon l'épaisseur, n'est-ce pas! [Que les planches soient] belles ou pas belles, ça n'entrait pas en ligne de compte / ça n'était pas pertinent! (littéralement: ‘on ne devait pas en parler’)</TRANSL>
 	<TRANSL xml:lang="zh">是这样堆起来的：方形的一堆，按照厚度，对吧。漂不漂亮是没有关系的（直译：‘是不要谈的’）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S195">
+<S id="Benevolence_S195">
 	<AUDIO start="1051.28" end="1061.73"/>
 	<FORM kindOf="phono">tʰɑ˧-ni˥~ni˩-hĩ˩ | gv̩˩pʰæ˩-ʈʂʰɯ˥ | tʰi˧-qʰo˧-dʑo˧, | ʈʂʰɯ˧ne˧ʝi˥ | ɖɯ˧-gi˥ | ɖɯ˧-v̩˧-ɳɯ˧ qʰæ˧˥, | no˧ | gi˧ | ɖɯ˧-gi˥ | qʰæ˧˥, | ʈʂʰɯ˧ | gi˧ | ɖɯ˧-gi˥ qʰæ˩, | ʈʂʰɯ˧-gi˧ | ɖɯ˧-gi˥ qʰæ˩! | ʈʂʰɯ˧-gi˧ | ɖɯ˧-gi˥ qʰæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.105"/>
@@ -1556,7 +1558,7 @@
 	<TRANSL xml:lang="fr">On répartissait les planches en tas sans trier par qualité (littéralement: 'on empilait les planches de façon identique'), et on procédait comme ceci pour répartir: à chacun était échu un côté [de la pile]. Toi, la part qui t'était échue, c'était un côté (de la pile); tel autre prenait les planches d'un deuxième côté; tel autre prenait les planches d'un troisième côté; et tel autre prenait le quatrième côté de la pile!</TRANSL>
 	<TRANSL xml:lang="zh">木板都堆起来了（漂亮和不漂亮不分，都一起堆起来），完了这样分：一人（木板堆的）一面。你这一面、他那一面、他那一面、他那一面！</TRANSL>
 </S>
-<S id="﻿Benevolence_S196">
+<S id="Benevolence_S196">
 	<AUDIO start="1061.73" end="1067.3"/>
 	<FORM kindOf="phono">njɤ˧=ɻ̩˩ ɖɯ˩-gi˩ qʰæ˩! | dze˧bo˧=ɻ̩˩ ɖɯ˩-gi˩ qʰæ˩! | lɑ˩mɑ˩=ɻ̩˩ ɖɯ˩-gi˥ qʰæ˩! | &lt;dze˧bo˧=ɻ̩˩&gt; [ə˧ɕjɤ˩=ɻ̩˩] ɖɯ˩-gi˩ qʰæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.106"/>
@@ -1564,7 +1566,7 @@
 	<TRANSL xml:lang="fr">Un côté pour nous! Un côté pour la famille Zzeibbo! Un côté pour la famille Lama! Un côté pour la famille &lt;Zzeibbo&gt; [Exo]! (Note: par erreur, la locutrice dit deux fois le nom 'Zzeibbo', et omet le nom Exo.)</TRANSL>
 	<TRANSL xml:lang="zh">一面，分给我们家！一面，分给者波家！一面，分给拉玛家！一面，分给&lt;Zzeibbo&gt; [Exo]家！</TRANSL>
 </S>
-<S id="﻿Benevolence_S197">
+<S id="Benevolence_S197">
 	<AUDIO start="1067.3" end="1075.13"/>
 	<FORM kindOf="phono">tʰv̩˧ne˧-ʝi˥ | ʐv̩˧-gi˥ qʰæ˩ | &lt;le˧…&gt; õ˧-bv̩˥-õ˩ | tʰi˩˥, | &lt;gv̩… D&gt; gv̩˩pʰæ˩-ʈʂʰɯ˥, | ɖɯ˧-qʰo˧-ɳɯ˧, | so˩-ɕi˩-pʰæ˥ tsɤ˩-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.107"/>
@@ -1572,14 +1574,14 @@
 	<TRANSL xml:lang="fr">Ainsi, les quatre côtés sont répartis, euh… soi-même, euh… les planches, quand on les répartit, il peut y en avoir jusqu'à trois cents! (La locutrice souligne que la tâche de débiter des planches était un labeur considérable, et que la quantité produite était élevée.)</TRANSL>
 	<TRANSL xml:lang="zh">这样将木板堆的四面分出来，那么，自己呢……分木板的时候，会有达到三百片之多！</TRANSL>
 </S>
-<S id="﻿Benevolence_S198">
+<S id="Benevolence_S198">
 	<AUDIO start="1075.13" end="1080.189"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | ʐv̩˧ɕi˧-pʰæ˩! | ʐv̩˧-ʑi˩ ʝi˩, | ʐv̩˧-ɕi˩ pʰæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥ | zo˩no˥ | ʐv̩˧ʑi˩ | ʐv̩˧ʈʂʰɯ˥pʰæ˩ |"/>
 	<TRANSL xml:lang="fr">Voilà comment c'était, en fait; ça pouvait atteindre quatre cents planches! Quand quatre familles s'y mettaient, elles vous débitaient quatre cents planches!</TRANSL>
 	<TRANSL xml:lang="zh">或者能达到四百片！四家一起做，做出四百片木板！</TRANSL>
 </S>
-<S id="﻿Benevolence_S199">
+<S id="Benevolence_S199">
 	<AUDIO start="1080.189" end="1088.83"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥, | gv̩˧-qʰo˧: | ɖɯ˧-qʰo˧ ɖɯ˧-qʰo˧-zo˥, | gɤ˩-qʰo˧! | qʰɑ˧-ʂwæ˧-mi˧-hĩ˧! | dʑɯ˩-nɑ˩mi˩-ʁo˩˥, | əəə… le˧-qʰo˧-se˩ | dʑo˩ | tʰi˩˥ | le˧-kʰi˧-se˩, | tʰi˧-qʰo˧-kv̩˧ mæ˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ʈʂʰɯ˧ne˧ʝi˥dʑi˧qʰv̩˧ɖv̩˧qʰo˧ɖɯ˧qʰwɤ˧zo˥ | go˩qʰo˧qʰh | dʑɯ˩nɑ˩mv̩˩˥ | əəə…le˧qʰo˩se˥ | dʑo˩ | tʰi˩˥ | le˧kʰi˧se˩ | tʰi˧qʰwɤ˧kv̩˥mæ˩ |"/>
@@ -1589,7 +1591,7 @@
 	<TRANSL xml:lang="fr">Voilà comment on empile: tas après tas, on empile! Ca monte très haut / les tas atteignent une belle hauteur! Sur la montagne, euh… quand on a fini d'empiler [les planches]… quand on a fini de débiter [les troncs en planches], on empile / on forme des tas de planches!</TRANSL>
 	<TRANSL xml:lang="zh">就这样，一堆一堆地堆起来！木板堆，好高呢！山上，木头划开成木板以后，就将木板堆起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S200">
+<S id="Benevolence_S200">
 	<AUDIO start="1088.83" end="1092.99"/>
 	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥! | tʰi˩˥, | õ˧-bv̩˥-õ˩ | &lt;tɕ…&gt; tɕɯ˧-bi˥-kv̩˩-ze˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | ɖɯ˧ʂɯ˧dʑ | tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ |"/>
@@ -1597,7 +1599,7 @@
 	<TRANSL xml:lang="fr">Ensuite, on laisse [les planches là] pendant un mois! (On laisse le bois vert sécher pendant un mois.) Après, chaque famille se dispose à les transporter (=à les ramener chez soi)!</TRANSL>
 	<TRANSL xml:lang="zh">然后就放一个月（让木头变干）！然后，每家把自己的木板搬回村子！</TRANSL>
 </S>
-<S id="﻿Benevolence_S201">
+<S id="Benevolence_S201">
 	<AUDIO start="1092.99" end="1097.24"/>
 	<FORM kindOf="phono">ʐwæ˧ po˩-ɳɯ˩ | tɕɯ˧˥! | hĩ˧ ʁɑ˧ʂe˥, | pɤ˧~pɤ˧! | ʈʂʰɯ˧ne˧-ʝi˥, | ɖɯ˧-kv̩˧-ze˥ mæ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.109"/>
@@ -1607,7 +1609,7 @@
 	<TRANSL xml:lang="fr">Ce sont des chevaux qui transportent [ce chargement]! On engage des gens, qui portent [les planches] à dos d'homme [jusqu'à l'endroit où les chevaux attendent]! Voilà comment on obtient [les planches pour la construction]! </TRANSL>
 	<TRANSL xml:lang="zh">马匹驮运！我们雇人把木板背（到马匹等着的地方）！这样才能得到建筑用的木板！</TRANSL>
 </S>
-<S id="﻿Benevolence_S202">
+<S id="Benevolence_S202">
 	<AUDIO start="1097.24" end="1102.82"/>
 	<FORM kindOf="phono">tʰi˩˥, | pɤ˧~pɤ˧-dʑo˧, | tʰv̩˧-ɲi˧-dʑo˩, | njæ˧-sɯ˩kv̩˩ | ɖɯ˧-tɑ˧˥ | gv̩˩pʰæ˩ ʑi˥ kʰi˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.110"/>
@@ -1616,21 +1618,21 @@
 	<TRANSL xml:lang="fr">Pour porter, ce jour-là, on allait tous prendre les planches.</TRANSL>
 	<TRANSL xml:lang="zh">背（木板回家）的那天，我们全家会一块儿去拿木板。</TRANSL>
 </S>
-<S id="﻿Benevolence_S203">
+<S id="Benevolence_S203">
 	<AUDIO start="1102.82" end="1106.54"/>
 	<FORM kindOf="phono">mv̩˩si˧njɤ˧˥ | əəə…tv̩˧tsʰɯ˧ | ŋwɤ˩-ɭɯ˩-qo˥ | gɤ˩-ʈi˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : mv̩˩si˧njɤ˧˥ | əəə…tv̩˧tsʰo˧ | ŋwɤ˩ɭɯ˩qo˥ | gɤ˧ʈi˥ |"/>
 	<TRANSL xml:lang="fr">Le matin, euh… on se levait à cinq heures!</TRANSL>
 	<TRANSL xml:lang="zh">早上五点就起来！</TRANSL>
 </S>
-<S id="﻿Benevolence_S204">
+<S id="Benevolence_S204">
 	<AUDIO start="1106.54" end="1110.25"/>
 	<FORM kindOf="phono">tʰi˩˥! | mv̩˩kʰv̩˥, | əəə… hæ̃˧qʰv̩˥ | mɤ˧-ʑi˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | mv̩˩kʰv̩˥ | hæ̃˩kv̩˥ | mɤ˧ʝi˧ɕi"/>
 	<TRANSL xml:lang="fr">Voilà! Et le soir, euh… jusque tard dans la nuit, on ne dormait pas! / On veillait tard, pour avancer le travail!</TRANSL>
 	<TRANSL xml:lang="zh">晚上……半夜不睡！（=晚上很晚还工作）</TRANSL>
 </S>
-<S id="﻿Benevolence_S205">
+<S id="Benevolence_S205">
 	<AUDIO start="1110.25" end="1116.33"/>
 	<FORM kindOf="phono">hɑ˧ | le˧-tɕɤ˧˥, | ʐo˩˥ | le˧-tɕɤ˧˥, | ʂe˧ | le˧-tɕɤ˧˥, | le˧-hæ̃˩~hæ̃˩ | le˧-dze˧~dze˥ | tso˧kʰwɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ kʰɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.111"/>
@@ -1638,7 +1640,7 @@
 	<TRANSL xml:lang="fr">On fait cuire la céréale; on fait cuire le déjeuner, on fait bouillir de la viande, on la débite (en gros morceaux), on la coupe (en petits morceaux), on met (ces nourritures) dans un sac, </TRANSL>
 	<TRANSL xml:lang="zh">煮饭，煮午饭，煮（腊）肉、切（成大块再）切成小块，放在一个袋子里！</TRANSL>
 </S>
-<S id="﻿Benevolence_S206">
+<S id="Benevolence_S206">
 	<AUDIO start="1116.33" end="1120.94"/>
 	<FORM kindOf="phono">hɑ˧ | le˧-ʐv̩˧~ʐv̩˥, | ʈʰɯ˧-ɖɯ˧-mi˧-hĩ˧ | ɖɯ˧-v̩˧ ɖɯ˧-ʈv̩˩, | tso˧kʰwɤ˧ | ɖɯ˧-ɭɯ˧-qo˧ kʰɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : hɑ˧ | le˧ʐə˧ʐwæ˧ | ʈʰɯ˩ɖɯ˩mi˩˥ | ɖɯ˧v̩˧ɖv̩˩ʈwæ˩ | tso˧kɤ˧ɖɯ˩ɭɯ˧qo˧kʰɯ˧˥ |"/>
@@ -1646,7 +1648,7 @@
 	<TRANSL xml:lang="fr">On pétrit la céréale, [on en fait] un bloc gros comme ça pour chaque personne; on la met dans un sac / on la serre dans sa besace!</TRANSL>
 	<TRANSL xml:lang="zh">饭，就揉一揉，（给）每个人一块，放袋子里！</TRANSL>
 </S>
-<S id="﻿Benevolence_S207">
+<S id="Benevolence_S207">
 	<AUDIO start="1120.94" end="1123.96"/>
 	<FORM kindOf="phono">tʰi˧-tʰv̩˧-dʑo˥ | tʰi˩˥, | ɖɯ˧-v̩˧ ɖɯ˧-ʈv̩˩ | hɑ˧ tʰi˧-ki˧! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˧tʰv̩˧dʑo˥ | tʰi˩˥ | ɖɯ˧v̩˧ | ɖɯ˧ʈv̩˩hɑ˩tʰi˧ki˩ |"/>
@@ -1654,14 +1656,14 @@
 	<TRANSL xml:lang="fr">Une fois arrivé à destination, on distribue la nourriture: un morceau par personne !</TRANSL>
 	<TRANSL xml:lang="zh">到了就给吃的，一人一大块！</TRANSL>
 </S>
-<S id="﻿Benevolence_S208">
+<S id="Benevolence_S208">
 	<AUDIO start="1123.96" end="1128.57"/>
 	<FORM kindOf="phono">mmm… ʂe˧ | ɖɯ˧-v̩˧ ɖɯ˧-pʰæ˧˥ | tʰi˧-ki˥! | li˩˥ | ɖɯ˧-v̩˥ tʰi˩-tɕɤ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : mmm…ʂe˧ | ɖɯ˧v̩˧ɖɯ˧pʰæ˧˥ | tʰi˧ki˥ | li˩˥hĩ˩˥ | ɖɯ˧v̩˧tʰi˩tɕɤ˩ |"/>
 	<TRANSL xml:lang="fr">Euh… la viande, on en donne une pièce par personne ! On fait bouillir une casserole de thé !</TRANSL>
 	<TRANSL xml:lang="zh">肉，分给一人一大块！煮一壶茶！</TRANSL>
 </S>
-<S id="﻿Benevolence_S209">
+<S id="Benevolence_S209">
 	<AUDIO start="1128.57" end="1134.87"/>
 	<FORM kindOf="phono">tʰi˩˥ | tʰv̩˧-ɲi˧-dʑo˩ | &lt;dʑɯ˩&gt; ʐɯ˧ po˧-zo˥-kv̩˩ mæ˩! | ʂe˧ po˩, | ʐɯ˧ po˥-zo˩-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.113"/>
@@ -1670,21 +1672,21 @@
 	<TRANSL xml:lang="fr">Alors, ce jour-là, on amenait des boissons ! On amenait de la viande, on amenait de l'alcool !</TRANSL>
 	<TRANSL xml:lang="zh">然后，那天，就拿饮料来！带肉、带酒！</TRANSL>
 </S>
-<S id="﻿Benevolence_S210">
+<S id="Benevolence_S210">
 	<AUDIO start="1134.87" end="1138.96"/>
 	<FORM kindOf="phono">ɑ˩ʁo˧ le˧-tʰv̩˧ dʑo˥ | tʰi˩˥, | æ̃˩ qʰo˧ zo˩-kv̩˩-ze˩! | hĩ˧ | ɖwæ˧˥ | ʈʰi˩-ɲi˥, | tʰv̩˧-ɲi˧-dʑo˩, | dʑɯ˩-nɑ˩mi˩-ʁo˥! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɑ˩ʁo˧le˧tʰv̩˧dʑo˩ | tʰi˩˥ | æ̃˩qʰo˧zo˩kv̩˩ze˩ | hĩ˧ | ɖwæ˧˥ | ʈʰi˩ɲi˩ | tʰv̩˧ne˧ | dʑɯ˩-nɑ˩mi˩ʁo |"/>
 	<TRANSL xml:lang="fr">Quand on arrivait à la maison, on tuait un poulet (pour marquer le coup)! Les gens étaient très fatigués, ce jour-là, (de leur séjour) sur la montagne !</TRANSL>
 	<TRANSL xml:lang="zh">到了家里，要杀鸡了！人家非常累，那天山上。</TRANSL>
 </S>
-<S id="﻿Benevolence_S211">
+<S id="Benevolence_S211">
 	<AUDIO start="1138.96" end="1144.51"/>
 	<FORM kindOf="phono">ʈʰi˩˥ | ʐwæ˩-dʑo˥, | ə˧mi˧! | gɤ˩-tɕo˧ kʰi˧˥ | -dʑo˩, | bi˧ | ɖɯ˧-gi˥ | ɖɯ˩-gi˥ | ɖɯ˩-gi˥ | ɖɯ˧-gi˥ | ɖɯ˧-gi˥ ɳɯ˩! | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : pʰi˧ | ʐwæ˩dʑo˩ ə˧mi˧gɤ˩tɕo˧kʰi˧˥ | dʑobi˧ɖɯ˧ki˧dɯ˩ki˩kiɖɯ˧gi˩ | ɖɯ˧gi˥ɳɯ˩ |"/>
 	<TRANSL xml:lang="fr">On était épuisé ; et houlà ! Sur le chemin du retour, la neige tombait, tombait, tombait ! / il arrivait qu'on subisse une neige qui tombait dru !</TRANSL>
 	<TRANSL xml:lang="zh">累得很，啊呀！（而且，有的时候，）回来时，雪会一直下的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S212">
+<S id="Benevolence_S212">
 	<AUDIO start="1144.51" end="1150.92"/>
 	<FORM kindOf="phono">bi˧ | le˧-gi˧-ze˥ wɤ˩, | dʑɯ˩-nɑ˩mi˩˥ | gɤ˩-do˧-hɯ˧ gɤ˥-do˩-ɻ̩˩, | bi˧ | gi˧-hɯ˧ gi˧-ɻ̩˥ | dʑɤ˩˥ | le˧-do˥, | kʰɯ˧tsʰɯ˧˥ | ʈʂʰɯ˧qo˧-ze˧ tʰv̩˧. |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.114"/>
@@ -1694,7 +1696,7 @@
 	<TRANSL xml:lang="fr">Il se mettait à neiger; on cheminait en montagne, encore et encore, la neige tombait encore et encore; on montait; [la neige], elle vous montait jusque-là à la jambe !</TRANSL>
 	<TRANSL xml:lang="zh">开始下雪了；我们在山上一直爬上爬下，雪一直在下；我们往上爬；[雪]，直到你的腿上那么高的！（手势：指雪几乎到膝盖）</TRANSL>
 </S>
-<S id="﻿Benevolence_S213">
+<S id="Benevolence_S213">
 	<AUDIO start="1150.92" end="1159.89"/>
 	<FORM kindOf="phono">tʰi˩˥, | tɑ˧~tɑ˧ | gv̩˧ qʰo˧-ki˧ | tʰi˧-tʰv̩˧-dʑo˥, | zo˩no˥, | ə˧v̩˧=ɻæ˧-ɳɯ˥, | pʰæ˧tɕi˥ | qʰɑ˩jɤ˩ kʰi˥-ɲi˩, | pʰæ˧tɕi˥ ʈʂʰɯ˩-tɕi˩-nɯ˩, | si˧-ʈʂʰɯ˧ | zo˩no˥ | le˧-ʑi˩ | le˧-po˧-tsʰɯ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.115"/>
@@ -1704,7 +1706,7 @@
 	<TRANSL xml:lang="fr">Alors, parvenu précisément à l'endroit où étaient empilées les planches, eh bien, les oncles, et tous les jeunes qui étaient du voyage, eh bien, ils portaient le bois à dos d'homme (pour le ramener au village).</TRANSL>
 	<TRANSL xml:lang="zh">那么，当到达堆放木板的地方时，舅舅们和同行的所有年轻人都背着木板（回到村子里）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S214">
+<S id="Benevolence_S214">
 	<AUDIO start="1159.89" end="1167.83"/>
 	<FORM kindOf="phono">mmm … mv̩˧ | tʰi˧-kʰɯ˧˥! | tʰi˧-kʰɯ˧˥ | -dʑo˩, | ʈʂʰɯ˧=ɻ̩˩-dʑo˩, | ʈʂʰɯ˧ … ʁo˧dɑ˧ tʰv̩˧-ʑi˩, | ɖʐɤ˩kɤ˧ | -ʈæ˧ʂɯ˧-tsʰɯ˩ɻ̩˩ pi˩-hĩ˩ tʰv̩˩-v̩˩-dzo˩, | ɖɯ˧-pi˧˥ | hĩ˧ dzɑ˧ ʈʂʰɯ˧-ʈʂæ˩-qo˩! | ʐɯ˧ | dʑo˧-mɤ˧-ʁo˧! |</FORM>
 	<NOTE xml:lang="fr" message = "214 (1160.300 s)"/>
@@ -1712,14 +1714,14 @@
 	<TRANSL xml:lang="fr">Mmmh… on faisait un feu! Ce faisant, eux… autrefois, cette famille, celle de Zzhege Daeshi Ci'er, elle était assez pauvre, à cette génération-là! Ils n'avaient pas les moyens de se procurer de l'alcool!</TRANSL>
 	<TRANSL xml:lang="zh">嗯……我们生火！在过去，这户人家，哲格·达石次尔家，他们那一代很穷！他们买不起酒。</TRANSL>
 </S>
-<S id="﻿Benevolence_S215">
+<S id="Benevolence_S215">
 	<AUDIO start="1167.83" end="1175.19"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧=ɻ̩˩-dʑo˩, | ʈʰææ̃˧, | ə˧ʑi˧-ʈʂʰɯ˥-ɳɯ˩, | ʐɯ˧ | ɖɯ˧-ɬi˧-qo˧ | ɲi˧-ʝi˥ tɕɤ˩! | mmm… tʰi˧-tɕɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "215"/>
 	<TRANSL xml:lang="fr">Tandis que dans ma famille à moi, vrai de vrai, ma grand-mère, elle brassait deux jarres d'alcool par mois! On le conservait/on le serrait en réserve!</TRANSL>
 	<TRANSL xml:lang="zh">而我的祖母则每个月酿两罐酒！我们把它留作储备！</TRANSL>
 </S>
-<S id="﻿Benevolence_S216">
+<S id="Benevolence_S216">
 	<AUDIO start="1175.19" end="1177.88"/>
 	<FORM kindOf="phono">ʐɯ˧ | hĩ˧bæ˧ tsʰɯ˧-bi˥, | &lt;tæ˧ mɤ˥-kʰɯ˩&gt; [mɤ˧-dʑo˧ mɤ˧-tʰɑ˧˥] ! |</FORM>
 	<NOTE xml:lang="fr" message = "218"/>
@@ -1727,21 +1729,21 @@
 	<TRANSL xml:lang="fr">L'alcool, on ne doit jamais en être dépourvu (littéralement: «on ne peut pas le laisser venir à manquer»), des fois qu'un invité paraisse!</TRANSL>
 	<TRANSL xml:lang="zh">永远都不要想没有酒：所以当客人出现时，有存货准备好了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S217">
+<S id="Benevolence_S217">
 	<AUDIO start="1175.19" end="1177.88"/>
 	<FORM kindOf="phono">ɑ˩ʁo˧ dʑo˩-bi˩-bi˩, | zo˩no˥, | hĩ˧ jo˧-kv̩˩ pi˩, | ʐɯ˧ | ʈʰææ̃˧ | tʰi˧-tɕɯ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "219"/>
 	<TRANSL xml:lang="fr">Même si on en a à la maison, eh bien, [on ne se précipite pas pour le boire:] on se dit qu'il peut venir quelqu'un (un invité), (et) l'alcool, vrai de vrai, on le garde!</TRANSL>
 	<TRANSL xml:lang="zh">即使家里有酒，我们也不急着喝：我们会告诉自己，可能会有客人来，而我们要留酒到那个场合喝！</TRANSL>
 </S>
-<S id="﻿Benevolence_S218">
+<S id="Benevolence_S218">
 	<AUDIO start="1175.19" end="1177.88"/>
 	<FORM kindOf="phono">tʰi˧-tɕɯ˥-dʑo˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩ kʰi˥ | ɖɯ˧-ɲi˥-dʑo˩, | “gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥!”, | pi˧-zo˩, | ʐɯ˧-ʈʂʰɯ˧ | wɤ˩˥ | tɕɤ˧-kv̩˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/gv̩˩pʰæ˩/: 'planche'. Ici, le terme désigne les planches dont on se servait pour confectionner les toitures. 'Prendre les planches', /gv̩˩pʰæ˩ ʑi˩/, est synonyme de /gv̩˧ ʑi˧/."/>
 	<TRANSL xml:lang="fr">On gardait (l'alcool) en réserve; alors, le jour où on allait prendre des planches (sur la montagne), on disait: «C'est parti pour aller chercher les planches!», et l'alcool, on en faisait fermenter!</TRANSL>
 	<TRANSL xml:lang="zh">（我们把酒）储备起来，等上山取木板的那天，我们会说：“要去取木板啊！”，而我们就又煮酒！</TRANSL>
 </S>
-<S id="﻿Benevolence_S219">
+<S id="Benevolence_S219">
 	<AUDIO start="1177.88" end="1182.62"/>
 	<FORM kindOf="phono">le˧-wo˧-tʂʰɯ˧-ɬi˧-qo˩: | “gv̩˧ ʑi˧-bi˧-tso˧-ɲi˥-ze˩! | ə˧-sɯ˩kv̩˩, | ʐɯ˧ v̩˧ tɕɤ˩-bi˩!” | pi˧, | ʐɯ˧ | tʰi˧-tɕɤ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "/ʐɯ˧ v̩˧/: l'interprétation de la structure N + CLF (sans numéral) est confirmée: le sens est celui de 'un' (ici, 'un pot, une casserole'). Élicité au passage: /hɑ˧ kʰwɤ˧ dzɯ˧/ 'manger une bouchée', avec la même structure N + CLF (nourriture+bouchée)."/>
@@ -1749,7 +1751,7 @@
 	<TRANSL xml:lang="fr">Le mois précédent, on disait: «Il va falloir aller chercher des planches (sur la montagne)! Nous autres, on va préparer une casserole d'alcool!» Et on préparait de l'alcool!</TRANSL>
 	<TRANSL xml:lang="zh">在一个月前，我们会说：“我们该去（山上）拿木板！咱们煮一锅酒吧！” 我们就这样酿出了酒！</TRANSL>
 </S>
-<S id="﻿Benevolence_S220">
+<S id="Benevolence_S220">
 	<AUDIO start="1182.62" end="1188.29"/>
 	<FORM kindOf="phono">tʰv̩˧-ɲi˧-dʑo˩, | njɤ˧=ɻ̩˩ | ʐɯ˧ | &lt;ɲi˧-tɕɯ˧ pɤ˧~pɤ˥&gt; [ɲi˧-kɤ˩ pɤ˩~pɤ˩] | po˧-kʰi˥-ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/tɕɯ˧˥/: 'livre', unité de mesure empruntée au chinois. Lors de la transcription, F4 suggère une formulation de remplacement: compter par bouteilles plutôt que par livres. D'où: /ɲi˧-kɤ˩/."/>
@@ -1757,27 +1759,27 @@
 	<TRANSL xml:lang="fr">Ce jour-là, notre famille apportait, à dos d'homme, &lt;deux livres&gt; [deux bouteilles] d'alcool!</TRANSL>
 	<TRANSL xml:lang="zh">那天，我们一家人背着&lt;两斤&gt;[两瓶]酒！</TRANSL>
 </S>
-<S id="﻿Benevolence_S221">
+<S id="Benevolence_S221">
 	<AUDIO start="1188.29" end="1194.07"/>
 	<FORM kindOf="phono">njɤ˧=ɻ̩˩ | pʰæ˧tɕi˥ s[o]˩… | njɤ˧=ɻ̩˩ | so˩-kv̩˩ ʁɑ˩ʂe˥ | po˧ kʰi˥! |</FORM>
 	<TRANSL xml:lang="fr">Notre maisonnée, elle recrutait trois jeunes garçons, et les emmenait !</TRANSL>
 	<TRANSL xml:lang="zh">我们家雇了三个年轻人，他们陪同我们一起去！</TRANSL>
 </S>
-<S id="﻿Benevolence_S222">
+<S id="Benevolence_S222">
 	<AUDIO start="1194.07" end="1196.27"/>
 	<FORM kindOf="phono">njɤ˩=ɻ̩˥ | ɑ˩ʁo˧ | ɲi˧-kv̩˧˥! | tʰi˩˥, | pʰæ˧tɕi˥ | ŋwɤ˧-kv̩˧ kʰi˥! |</FORM>
 	<NOTE xml:lang="fr" message = "njɤ˩=ɻ̩˥ : variante tonale possible de ce pronom, ordinairement au ton ML. confirmer le ton: LH$? LH#? Hypothèse: simple ton LH. Difficulté à l'obtenir, la forme «correcte» étant considérée celle au ton LH."/>
 	<TRANSL xml:lang="fr">De notre maisonnée, il y en avait deux! De la sorte, c'étaient (en tout) cinq jeunes gens qui y allaient (qui participaient à l'expédition)!</TRANSL>
 	<TRANSL xml:lang="zh">我们家（小伙子）有两个！所以（总共）有五个年轻人去！</TRANSL>
 </S>
-<S id="﻿Benevolence_S223">
+<S id="Benevolence_S223">
 	<AUDIO start="1196.27" end="1199.11"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ F | tʰi˩˥, | pʰæ˧tɕi˥ | ɲi˧-kv̩˧˥! | tsʰo˩mo˩ ʈʂʰɯ˩-jɤ˥ | -no˧˥! | ə … mi˩zɯ˩ so˩-kv̩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "xxxx Ne serait-ce pas: /ʈʂʰɯ˧=ɻ̩˩ | tʰi˩˥/?"/>
 	<TRANSL xml:lang="fr">De cette famille-là (celle de Zzhege Daeshi), il y avait deux jeunes gens, et aussi ce vieil homme; (et) trois femmes!</TRANSL>
 	<TRANSL xml:lang="zh">那户人家[即哲格达石家]有两个年轻人，还有这个老人；（还有）三个女人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S224">
+<S id="Benevolence_S224">
 	<AUDIO start="1199.11" end="1202.51"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | njæ˧-sɯ˩kv̩˩, | mi˩zɯ˩ … | pʰæ˧tɕi˥, | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥ʂe˩ po˩-kʰi˩, | tʰv̩˧-ɲi˧, | gv̩˩pʰæ˩ pɤ˩~pɤ˥ hĩ˩, | -no˧˥ | -qɑ˩, | hĩ˧ | ɲi˧-tsi˧-ze˧-gv̩˧-kv̩˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "La syllabe /-kʰi˩/ dans le premier /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ est dite très rapidement: je ne l'aurais pas reconnue sans l'indication sûre de F4. La deuxième occurrence de l'expression /le˧-ʁɑ˥ʂe˩ po˩-kʰi˩/ m'aurait été totalement inintelligible sans l'indication de F4."/>
@@ -1786,38 +1788,38 @@
 	<TRANSL xml:lang="fr">En sollicitant ainsi les familles (=en battant ainsi le rappel), nous, les femmes, les jeunes gens, en rassemblant tout le monde, eh bien, les gens qui s'en allaient porter les planches, ça donnait un groupe de vingt personnes! / on atteignait le nombre de vingt personnes!</TRANSL>
 	<TRANSL xml:lang="zh">我们这样请其它家帮忙，年轻女人们、小伙子们都请来，一共能达到二十个人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S225">
+<S id="Benevolence_S225">
 	<AUDIO start="1202.51" end="1208.65"/>
 	<FORM kindOf="phono">这tʰi˩˥, | hɑ˧ | ɖɯ˧-ʁwɤ˧ | tʰi˧-tɕɯ˥, | le˧-dzɯ˥ | dʑo˩ | tʰi˩˥, | ə˧pʰv̩˧ | tʰv̩˧-v̩˧-dʑo˩, | &lt;le˧-go˩-z…&gt; le˧-ɖʐo˧-zo˥! |</FORM>
 	<TRANSL xml:lang="fr">Alors, comme on avait préparé tout un tas de nourriture, alors qu'on mangeait, le grand-père, il a eu mal: il avait froid!</TRANSL>
 	<TRANSL xml:lang="zh">那么，饭准备了一大堆，大家在吃的时候，有一位老人受凉了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S226">
+<S id="Benevolence_S226">
 	<AUDIO start="1208.65" end="1214.7"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧-ʝi˥, | nɑ˩~nɑ˧ zo˥! | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩, | le˧-nɑ˩~nɑ˩-zo˩! | ə˧mi˧, ə˧mi˧! | bi˧ | le˧-gi˧-zo˥! |</FORM>
 	<NOTE xml:lang="fr" message = "228, 20mn18 secondes"/>
 	<TRANSL xml:lang="fr">Il était pris de tremblements. Il tremblait, il tremblait, il tremblait! Aïe, aïe, aïe! Par temps de neige / tout ça alors qu'il neigeait!</TRANSL>
 	<TRANSL xml:lang="zh">他发抖很重！而且天在下雪！</TRANSL>
 </S>
-<S id="﻿Benevolence_S227">
+<S id="Benevolence_S227">
 	<AUDIO start="1214.7" end="1222.16"/>
 	<FORM kindOf="phono">tʰi˩˥, | … njɤ˧ | ʐɯ˧ ʈʂʰɯ˧ ɲi˥-tɕɯ˩, | gɤ˩-tʰv̩˥! | tʰv̩˧-sɯ˩kv̩˩, | ɖɯ˧-ʑi˩ | ʐɯ˧ mɤ˧-po˧˥! | njɤ˧=ɻ̩˩ | ʈʂʰɯ˧ lɑ˩ po˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors moi, j'ai sorti ces deux bouteilles d'alcool! Eux, personne de leur famille n'avait amené d'alcool! On était la seule famille à en avoir amené!</TRANSL>
 	<TRANSL xml:lang="zh">于是我拿出来了那两壶酒。他们一家没带酒！（＝他们一家都忘了带上酒）我家是唯一带上的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S228">
+<S id="Benevolence_S228">
 	<AUDIO start="1222.16" end="1227.47"/>
 	<FORM kindOf="phono">ɖɯ˧-v̩˧ ki˥-ɳɯ˩, | tɕʰɤ˩ʈʂv̩˥-ne˩ʝi˩, | ʈʂʰɯ˧ne˧ ʝi˥-qo˩-ɳɯ˩, | li˩ ʈʰɯ˩ qʰwɤ˥-qo˩-ɳɯ˩! | ə˧mv̩˥-tɕi˩, | ɖɯ˧-v̩˧ ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |</FORM>
 	<TRANSL xml:lang="fr">Pour en servir / pour servir l'alcool, en fait de gobelet, voilà comment j'ai fait: dans les bols à thé, j'en ai versé un petit peu, donnant une goutte pour chacun!</TRANSL>
 	<TRANSL xml:lang="zh">为了用杯子盛酒，我是这样做的：我往茶碗里倒了一点，每个人都喝了一滴！</TRANSL>
 </S>
-<S id="﻿Benevolence_S229">
+<S id="Benevolence_S229">
 	<AUDIO start="1227.47" end="1232.84"/>
 	<FORM kindOf="phono">&lt;ə˧v̩˧˥ | …&gt; ə˧pʰv̩˧ tʰv̩˧-v̩˧-ki˧ | ɖɯ˧-ʈʰɤ˥ tʰi˩-ki˩! |</FORM>
 	<TRANSL xml:lang="fr">J'en ai servi une goutte au grand-oncle maternel (=au vieil homme)!</TRANSL>
 	<TRANSL xml:lang="zh">我给那位外曾叔父（＝那位老人）盛了一滴！</TRANSL>
 </S>
-<S id="﻿Benevolence_S230">
+<S id="Benevolence_S230">
 	<AUDIO start="1232.84" end="1239.43"/>
 	<FORM kindOf="phono">“ɬɬɬ! ə˧mi˧! | ʁɑ˩mi˧-ze˩, | æ˩sæ˥, | no˧ | mv̩˩zo˩˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "/æ˩sæ˥/: est un enjolivement des remerciements. /ʁɑ˩mi˧-ze˩/, c'est un Merci un peu sec. /ʁɑ˩mi˧-ze˩, | æ˩sæ˥/, c'est une formule qui prend le temps de s'exprimer. C'est une façon de parler qu'on peut, en na comme en français, dire ‘fleurie’: /bæ˩bæ˩ tʰi˩-di˥/ ('il y a des fleurs, c'est fleuri')."/>
@@ -1825,7 +1827,7 @@
 	<TRANSL xml:lang="fr">«Mmmh! Eeeeh bien! Grand merci à toi, demoiselle!»</TRANSL>
 	<TRANSL xml:lang="zh">“哇！非常感谢你，女士！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S231">
+<S id="Benevolence_S231">
 	<AUDIO start="1239.43" end="1241.33"/>
 	<FORM kindOf="phono">“no˧ | njɤ˧-bv̩˧ zɯ˧~zɯ˧ | ɲi˧-ʂɯ˩ tɕo˩-ze˩! | no˧ | le˧-dʑɤ˩-ʝi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/tɕo˩/: mot chinois, 救. Reporté dans le dictionnaire."/>
@@ -1833,20 +1835,20 @@
 	<TRANSL xml:lang="fr">«Tu m'as sauvé la vie deux fois! Tu fais de belles actions!»</TRANSL>
 	<TRANSL xml:lang="zh">“你救了我两次！你做大好事！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S232">
+<S id="Benevolence_S232">
 	<AUDIO start="1241.33" end="1244.69"/>
 	<FORM kindOf="phono">“tsʰi˧ɲi˧, | no˧ | ʐɯ˧ | tʰv̩˧-ho˩ mɤ˩-ɲi˩, | pi˧, | njɤ˧ | le˧-ɖʐo˥ | tʰi˧-ʂɯ˧-ho˩-ze˩!” | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="en" message = "Translation: “Today, had it not been for the wine that you gave me to drink, I was going to die from the cold!” he said."/>
 	<TRANSL xml:lang="fr">« Aujourd'hui, sans l'alcool que tu m'as donné à boire, j'allais mourir de froid », qu'il a dit.</TRANSL>
 	<TRANSL xml:lang="zh">他说：“今天，要不是你给我酒喝，我就要冻死了！”。</TRANSL>
 </S>
-<S id="﻿Benevolence_S233">
+<S id="Benevolence_S233">
 	<AUDIO start="1244.69" end="1248.66"/>
 	<FORM kindOf="phono">ə˧pʰv̩˧ tʰv̩˧-v̩˧, | ʈʂʰɯ˧ne˧-ʝi˥, | zo˩no˥, | le˧-ʂɯ˧-ho˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ʐwɤ˩-zo˩, | le˧-ʂɯ˧-ɲi˥-mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">Ce grand-oncle maternel, de la sorte, eh bien… il allait mourir: voilà ce qu'il disait: qu'il se mourait, vrai de vrai!</TRANSL>
 	<TRANSL xml:lang="zh">这位外曾叔父是这么说的：他要死了，真的要死了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S234">
+<S id="Benevolence_S234">
 	<AUDIO start="1248.66" end="1253.43"/>
 	<FORM kindOf="phono">hĩ˧ dʑɤ˧˥ | ɳɯ˧ʑi˩-pʰæ˩di˩. |</FORM>
 	<NOTE xml:lang="fr" message = "ɳɯ˧ʑi˩ = le˧-mv̩˩pʰæ˩ mɤ˩-tʰɑ˩ ('garder le souvenir de, se souvenir de')."/>
@@ -1854,45 +1856,45 @@
 	<TRANSL xml:lang="fr">Il semblerait que les gens aient gardé un vif souvenir de cet épisode.</TRANSL>
 	<TRANSL xml:lang="zh">人们似乎对这一情节记忆犹新。</TRANSL>
 </S>
-<S id="﻿Benevolence_S235">
+<S id="Benevolence_S235">
 	<AUDIO start="1253.43" end="1257.19"/>
 	<FORM kindOf="phono">tʰv̩˧-v̩˧ | tʰv̩˧-ʈʂæ˩-qo˩, | ɖwæ˧˥ | dzɑ˧! | zo˧mv̩˥ | tɕi˩˥, ◊ ə˩-gi˩! |</FORM>
 	<TRANSL xml:lang="fr">Cet homme, à l'époque, il était fort pauvre. Ses enfants étaient petits, n'est-ce pas.</TRANSL>
 	<TRANSL xml:lang="zh">这个人当时很穷。他的孩子还很小，对吧？</TRANSL>
 </S>
-<S id="﻿Benevolence_S236">
+<S id="Benevolence_S236">
 	<AUDIO start="1257.19" end="1258.75"/>
 	<FORM kindOf="phono">ʈʂʰv̩˧mi˧ | dʑɤ˩˥ | mɤ˧-hɤ˩! | &lt;tʰv̩˧-ʝɤ˩&gt; [tʰv̩˧-v̩˧] | dʑɤ˩˥ | mɤ˧-hɤ˩! | ə˧mi˧ | tʰi˩˥, | dʑɤ˩˥ | mɤ˧-hɤ˩! | tsʰo˩mo˩˥ | hɤ˩-dʑo˥, | ɖwæ˧˥ | hɤ˩-ɲi˥! |</FORM>
 	<TRANSL xml:lang="fr">Sa femme n'était pas particulièrement brillante: la mère (des enfants) n'était pas bien brillante. Ce vieil homme, en revanche, c'était quelqu'un de remarquable, vraiment!</TRANSL>
 	<TRANSL xml:lang="zh">他的妻子不是特别能干：（孩子们的）母亲不是很能干。而这位老人却是个能人，一个很能干的人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S237">
+<S id="Benevolence_S237">
 	<AUDIO start="1258.75" end="1261.35"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ʝi˥ | le˧-ʝi˥, | le˧-ʝi˥-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʝi˥, | le˧-hɤ˩-zo˩! |</FORM>
 	<TRANSL xml:lang="fr">De sorte qu'il travaillait; à force de travail, il était devenu habile (=il avait acquis des compétences)!</TRANSL>
 	<TRANSL xml:lang="zh">于是他干活；通过工作，他变得娴熟（=他掌握了技能）。</TRANSL>
 </S>
-<S id="﻿Benevolence_S238">
+<S id="Benevolence_S238">
 	<AUDIO start="1261.35" end="1266"/>
 	<FORM kindOf="phono">le˧-hɤ˩ | le˧-ʐwæ˩-zo˩, | le˧-mo˩-kwɤ˩tɕɯ˩-lɑ˩, | le˧-ʈʰi˩-zo˩! |</FORM>
 	<TRANSL xml:lang="fr">Devenu très habile… / Avec ces compétences… comme il se faisait vieux, il fatiguait!</TRANSL>
 	<TRANSL xml:lang="zh">他变得非常熟练……随着年龄的增长，他变得疲惫不堪！</TRANSL>
 </S>
-<S id="﻿Benevolence_S239">
+<S id="Benevolence_S239">
 	<AUDIO start="1266" end="1268.62"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | tʰi˩˥, | lo˧ ʝi˧ ʐv̩˩ ʝi˩-kʰi˩ | dʑo˩, | “ʈʰææ̃˧, | lɑ˧tʰɑ˧mi˥ mv̩˩zo˩ | so˩-ɻ̩˩˥! | ʁɑ˩mi˧! | ʈʂʰɯ˧=ɻ̩˩ | so˧-jɤ˩ dʑɤ˩!” | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/lo˧ ʝi˧ ʐv̩˩ ʝi˩/: travailler; équivalent de la formule disyllabique, en plus fleuri."/>
 	<TRANSL xml:lang="fr">De la sorte, eh bien… quand il est retourné travailler, il a dit: «Vrai de vrai, il faut prendre exemple sur la demoiselle Latami! Ils ont des bonnes habitudes, dans sa famille!»</TRANSL>
 	<TRANSL xml:lang="zh">所以……当他回去劳动时，他说：“真的，应该向拉他咪家姑娘学习！她家的人有好习惯！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S240">
+<S id="Benevolence_S240">
 	<AUDIO start="1268.62" end="1271.59"/>
 	<FORM kindOf="phono">njɤ˧ | gɯ˩-ʝi˥ | hĩ˧ mo˥-hĩ˩-ki˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʁo˧mæ˧ dʑɯ˧ mæ˩! | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! | zo˧mv̩˥zo˩ ʁo˩mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/dʑɯ˧/: expérientiel, /mæ˩/: affirmatif"/>
 	<TRANSL xml:lang="fr">Moi, vrai de vrai, je me suis occupée des anciens, autrefois! Je m'occupais des vieux; je m'occupais des enfants!</TRANSL>
 	<TRANSL xml:lang="zh">我曾经照顾过老人！我照顾老人；我照顾孩子！</TRANSL>
 </S>
-<S id="﻿Benevolence_S241">
+<S id="Benevolence_S241">
 	<AUDIO start="1271.59" end="1277.79"/>
 	<FORM kindOf="phono">õ˧˥, | hĩ˧ qɑ˩-tʰv̩˩, | ɖʐwæ˩~ɖʐwæ˧ | mɤ˧-dʑɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "fin W transcription au 18 mai 2024, à 21 mn 27"/>
@@ -1900,34 +1902,34 @@
 	<TRANSL xml:lang="fr">Moi, je ne me suis jamais disputée avec autrui. (Littéralement: «Moi, envers les autres, je ne me suis jamais disputée.»)</TRANSL>
 	<TRANSL xml:lang="zh">我没有欺负过人。</TRANSL>
 </S>
-<S id="﻿Benevolence_S242">
+<S id="Benevolence_S242">
 	<AUDIO start="1277.79" end="1283.6"/>
 	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧ne˧-ʝi˥-zo˩, | njæ˧-sɯ˩kv̩˩ | tʰi˩˥, | gv̩˩pʰæ˩ ʑi˩-kʰi˥ | tʰv̩˧-ʂɯ˩-lɑ˩ | D zo˩no˥, | qʰæ˧lo˧ qwæ˥-kʰi˩ tʰv̩˩-ʂɯ˩-se˩, | hĩ˧ | ə˧pʰv̩˧-tsʰo˩mo˩ | tʰi˩˥, | ɖwæ˧˥ | ɳɯ˧go˧-&lt;lɑ˥&gt;[zo˥]! |</FORM>
 	<TRANSL xml:lang="fr">Voilà ce qu'on a fait, nous, la fois où on était allé chercher des planches, et, euh… la fois où on était allé creuser un canal: ce grand-oncle maternel (=ce vieil homme), il faisait vraiment pitié / il était vraiment mal en point!</TRANSL>
 	<TRANSL xml:lang="zh">我们那次去找木板，呃……还有那次去挖水沟，我们是这样做的：那个外曾舅舅（=那个老人），他真的很可怜！</TRANSL>
 </S>
-<S id="﻿Benevolence_S243">
+<S id="Benevolence_S243">
 	<AUDIO start="1283.6" end="1285.84"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧-v̩˧, | njɤ˧ | &lt;p…&gt; ʈʂʰɯ˧-v̩˧-ki˧ | pʰv̩˧ɖɯ˧-ʝi˥ ɲi˩-lɑ˩, | zo˩no˥, | ʈʂʰɯ˧-v̩˧, | njɤ˧-ki˧ | ʈʰææ̃˧ | “ʁɑ˩mi˧!” | pi˧-zo˥, | hĩ˧ | kʰv̩˧pʰæ˧ | le˧-mo˩-ɲi˩-ze˩! |</FORM>
 	<NOTE xml:lang="fr" message = "/kʰv̩˧pʰæ˧/: âge"/>
 	<TRANSL xml:lang="fr">Cet homme, je lui marquais bien des égards; lui, il me disait des remerciements; il avait atteint un âge avancé!</TRANSL>
 	<TRANSL xml:lang="zh">我对这个人非常体贴，他也非常感激我；他已经上了年纪！</TRANSL>
 </S>
-<S id="﻿Benevolence_S244">
+<S id="Benevolence_S244">
 	<AUDIO start="1285.84" end="1294.06"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ | le˧-ʂɯ˧-ho˩, | go˩-zo˥ | njɤ˧ | li˧ … ə … | njæ˧-sɯ˩kv̩˩-dʑo˩, | wɤ˩˥, | hĩ˧mo˥-hĩ˩ | ʁwɤ˧-qo˧, | ə˩-gi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "246 21.4035"/>
 	<TRANSL xml:lang="fr">[Au moment où] il allait mourir, il était souffrant, je suis allée le voir, euh… Nous autres, les vieilles personnes, au village, n'est-ce pas! (La locutrice part de ce cas particulier pour exposer un principe général en vigueur dans cette société: quand une vieille personne est malade, et paraît toucher au terme de sa vie, tout le monde vient lui rendre visite.)</TRANSL>
 	<TRANSL xml:lang="zh">在他快要死的时候，他身体不舒服，我去看他，呃…… 我们村里的老人，对吧？(说话者用这个例子解释了摩梭社会的一个普遍原则：当一个老人生病，似乎快要走到生命的尽头时，每个人都会去看望他。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S245">
+<S id="Benevolence_S245">
 	<AUDIO start="1294.06" end="1299.99"/>
 	<FORM kindOf="phono">go˩-zo˥, | ə … “le˧-ʂɯ˧-ho˩-ze˩ pi˩”, | pi˧-dʑo˩, | “&lt;g… g…&gt; go˧ li˧-bi˧!”, | pi˧-zo˩, | hĩ˧-ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ | li˧-bi˧-kv̩˧˥ | mæ˩! | ʁwɤ˧qo˧ | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "247 21.4519"/>
 	<TRANSL xml:lang="fr">quand (une d'entre elles) souffre, euh… on se dit: «Elle va sans doute décéder; allons lui rendre visite!»; tout le monde va faire une visite; [chaque] famille du village [fait de la sorte], l'une après l'autre!</TRANSL>
 	<TRANSL xml:lang="zh">当老人生病时，我们会想：“她可能快死了，我们去看看她吧”；每个人都会去看望：村里的每家每户，一个接一个（都去）！</TRANSL>
 </S>
-<S id="﻿Benevolence_S246">
+<S id="Benevolence_S246">
 	<AUDIO start="1299.99" end="1304.92"/>
 	<FORM kindOf="phono">ʝi˧kʰv̩˥, | æ̃˩ po˧˥! | æ̃˩˥, | dze˧, | tʰv̩˧=ɻæ˧ po˥! | əəə … li˧-bi˧-kv̩˧˥ | -mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "248"/>
@@ -1935,7 +1937,7 @@
 	<TRANSL xml:lang="fr">Certains amènent un poulet! Un poulet, des sucreries, voilà ce qu'on amène! On va rendre visite!</TRANSL>
 	<TRANSL xml:lang="zh">有些人还带了一只鸡。一只鸡、糖果，我们带这样一些东西！我们要去看望她！</TRANSL>
 </S>
-<S id="﻿Benevolence_S247">
+<S id="Benevolence_S247">
 	<AUDIO start="1304.92" end="1314.39"/>
 	<FORM kindOf="phono">“ə˧mi˧! | ʈʂʰɯ˧, | hĩ˧ mo˥-hĩ˩ tʰv̩˩-v̩˧, | le˧-qʰwɤ˧ ʁo˧-mɤ˧-ho˩ tsɯ˩! | ə˧-sɯ˩kv̩˩, | ɖɯ˧-li˩-ɻ̩˩-bi˩!” pi˩, | ɖɯ˧-tɑ˧˥ … | tʰv̩˧-ʑi˧-ne˧-ʝi˥ | li˧-ʝi˧-kv̩˧˥ ◊ mv̩˩!</FORM>
 	<NOTE xml:lang="fr" message = "249"/>
@@ -1943,7 +1945,7 @@
 	<TRANSL xml:lang="fr">On dit: “Aïe, aïe, aïe! Cette vieille personne, il y a peu de chances qu'elle s'en sorte! Nous autres, allons lui rendre une petite visite!”, et tous ensemble… on va rendre visite à la famille en question!</TRANSL>
 	<TRANSL xml:lang="zh">人家说：“哎哟，哎哟，哎哟！这个老人活下来的机会不大！我们去看望他吧”，然后大家一起去看望这家人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S248">
+<S id="Benevolence_S248">
 	<AUDIO start="1314.39" end="1321.41"/>
 	<FORM kindOf="phono">tʰi˩˥, | ə … ɖɯ˧… ɖɯ˧… ʈʂʰɯ˧ li˩-kʰi˩-dʑo˩, | ə˧mi˧! | tʰv̩˧-ʈʂæ˩-qo˩, | njɤ˧-ki˧ | ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩ ɻwæ˩-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "250"/>
@@ -1952,70 +1954,70 @@
 	<TRANSL xml:lang="fr">Alors, quand on est allé rendre visite (au vieil homme en question), eeeh bien! [Là, je dois vous expliquer qu']à cette époque, on m'appelait ‘Daeshi Lhamu’!</TRANSL>
 	<TRANSL xml:lang="zh">当我去拜访那位老人时……（我得解释一下，）那时候我被称呼“达石拉姆”！</TRANSL>
 </S>
-<S id="﻿Benevolence_S249">
+<S id="Benevolence_S249">
 	<AUDIO start="1321.41" end="1268.2"/>
 	<FORM kindOf="phono">“ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩! | njɤ˧ | ɖɯ˧zɯ˧ | le˧-mv̩˩pʰæ˩ tʰɑ˩-mɤ˩-ho˩, | ə˧-sɯ˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "251"/>
 	<TRANSL xml:lang="fr">«Daeshi Lhamu! De toute ma vie je n'ai jamais oublié [ta prévenance], tu sais!»</TRANSL>
 	<TRANSL xml:lang="zh">“达石拉姆啊，在我的一生中，我从未忘记过（你的恩情），你知道吗？”</TRANSL>
 </S>
-<S id="﻿Benevolence_S250">
+<S id="Benevolence_S250">
 	<AUDIO start="1268.2" end="1334.37"/>
 	<FORM kindOf="phono">“njɤ˧ | le˧-ʂɯ˧-bi˧ -bi˧bi˧, | no˧-ɳɯ˧ | dʑɤ˩ ʝi˧-hĩ˧ tʰv̩˧-ɲi˧-ʂɯ˥-dʑo˩, | njɤ˧ | nv̩˩mi˩-qo˥ | tʰi˧-ʑi˥-ze˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "252"/>
 	<TRANSL xml:lang="fr">«Quand j'étais à l'article de la mort, toi, les deux fois où tu as fait une belle action, je les ai gardées au fond de mon cœur!»</TRANSL>
 	<TRANSL xml:lang="zh">“当我濒临死亡时，你的两次善举我都铭记在心！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S251">
+<S id="Benevolence_S251">
 	<AUDIO start="1334.37" end="1339.29"/>
 	<FORM kindOf="phono">“njɤ˧ zo˧ | njɤ˧ mv̩˥ F | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-ɲi˥ | … ʝi˧ mɤ˧dʑɯ˧!” |</FORM>
 	<NOTE xml:lang="fr" message = "253"/>
 	<TRANSL xml:lang="fr">«Pas une fois (littéralement 'pas un jour') mes propres fils et filles n'ont eu pareil procédé!»</TRANSL>
 	<TRANSL xml:lang="zh">我的亲生儿女从未如此体贴入微！</TRANSL>
 </S>
-<S id="﻿Benevolence_S252">
+<S id="Benevolence_S252">
 	<AUDIO start="1339.29" end="1345.83"/>
 	<FORM kindOf="phono">“no˧ | le˧-dʑɤ˩-ʝi˩, | æ˩sæ˥! | no˧ | njɤ˧-ki˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɲi˧-ʂɯ˩ ʁo˩mæ˩-ze˩!” | pi˧zo˩, | hĩ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-ɲi˥-mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "254"/>
 	<TRANSL xml:lang="fr">«Tu fais de bien belles actions, tu sais! Tu t'es occupée ainsi de moi à deux reprises!» Voilà ce qu'il a dit!</TRANSL>
 	<TRANSL xml:lang="zh">“你做很多了不起的事，你知道吗？你已经这样照顾我两次了！” 他是这么说的。</TRANSL>
 </S>
-<S id="﻿Benevolence_S253">
+<S id="Benevolence_S253">
 	<AUDIO start="1345.83" end="1348.82"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧-ɳɯ˧ : | “ə˧v̩˧˥, | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-mɤ˧-ɖo˧!” |</FORM>
 	<NOTE xml:lang="fr" message = "255"/>
 	<TRANSL xml:lang="fr">Alors moi j'ai répondu: «Oncle, ne dites pas ça!»</TRANSL>
 	<TRANSL xml:lang="zh">我回答说：“舅舅，别这么说！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S254">
+<S id="Benevolence_S254">
 	<AUDIO start="1348.82" end="1354.52"/>
 	<FORM kindOf="phono">“kʰv̩˧pʰæ˥ tɕi˩-hĩ˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "256"/>
 	<TRANSL xml:lang="fr">«Les jeunes, c'est tout naturel qu'ils prennent soin des personnes âgées!» (Littéralement: 'les jeunes sont à même de prendre soin des personnes âgées' (modalité radicale), ou 'les jeunes prennent soin des personnes âgées': modalité épistémique: comme en anglais 'young people will take care of older persons', sur le modèle de 'boys will be boys'.)</TRANSL>
 	<TRANSL xml:lang="zh">“年轻人照顾老人是天经地义的事！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S255">
+<S id="Benevolence_S255">
 	<AUDIO start="1354.52" end="1357.31"/>
 	<FORM kindOf="phono">əəə … hĩ˧ mo˥=ɻ̩˩-ɳɯ˩, | kʰv̩˧pʰæ˥ tɕi˩-hĩ˩ | le˧-ʁo˧mæ˧, | le˧-ɖɯ˩ ɲi˩ mæ˩!</FORM>
 	<NOTE xml:lang="fr" message = "257"/>
 	<TRANSL xml:lang="fr">«Les personnes âgées, ce sont elles qui ont pris soin des jeunes, qui leur ont permis de grandir!»</TRANSL>
 	<TRANSL xml:lang="zh">是老人照顾了年轻人，是老人让年轻人成长！</TRANSL>
 </S>
-<S id="﻿Benevolence_S256">
+<S id="Benevolence_S256">
 	<AUDIO start="1357.31" end="1360.25"/>
 	<FORM kindOf="phono">“no˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥!” | pi˧; |</FORM>
 	<NOTE xml:lang="fr" message = "258"/>
 	<TRANSL xml:lang="fr">«Voilà ce qu'il faut dire / voilà comment il faut voir les choses!»</TRANSL>
 	<TRANSL xml:lang="zh">你应该这样看！</TRANSL>
 </S>
-<S id="﻿Benevolence_S257">
+<S id="Benevolence_S257">
 	<AUDIO start="1360.25" end="1364.39"/>
 	<FORM kindOf="phono">“mɤ˧-ɲi˩! | ʁwɤ˧-qo˧-ʈʂʰɯ˧, | &lt;hĩ˧ mo˥hĩ˩ | qʰɑ˩jɤ˩… | &gt; kʰv̩˧pʰæ˥tɕi˩-hĩ˩ | qʰɑ˩jɤ˩ dʑo˩˥ | -dʑo˩, | hĩ˧ mo˥hĩ˩ mɤ˩-sɯ˩-hĩ˩, | dʑɤ˩pi˧ dʑo˧˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "259"/>
 	<TRANSL xml:lang="fr">[Le vieil homme répond alors:] «Oh que non! Au village, il y a &lt;beaucoup de personnes âgées&gt; beaucoup de jeunes personnes; et il y en a beaucoup qui ne prennent aucun soin des vieux!» (littéralement: «qui ne connaissent pas les vieux»)</TRANSL>
 	<TRANSL xml:lang="zh">老人回答说：“不，你不能这么说！村里有很多年轻人，他们中的很多人都不关心老人！(字面意思是 “不知道老人、不认识老人”。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S258">
+<S id="Benevolence_S258">
 	<AUDIO start="1364.39" end="1366.65"/>
 	<FORM kindOf="phono">“no˩-dʑo˥, | no˧=ɻ̩˩ | &lt;ə˧ʑi˧-mo˥-ɳɯ˩&gt; | ə˧ʑi˧-ɳɯ˥ | so˧ʝɤ˩ dʑɤ˩, | æ˩-sæ˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "260"/>
@@ -2023,7 +2025,7 @@
 	<TRANSL xml:lang="fr">«Toi, tu as bien retenu les leçons de ta grand-mère, tu sais!»</TRANSL>
 	<TRANSL xml:lang="zh">“你呢，你跟你奶奶学得很好，知道吗？”</TRANSL>
 </S>
-<S id="﻿Benevolence_S259">
+<S id="Benevolence_S259">
 	<AUDIO start="1366.65" end="1373.87"/>
 	<FORM kindOf="phono">“no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!” | pi˧-kv̩˩! |</FORM>
 	<NOTE xml:lang="fr" message = "261"/>
@@ -2031,7 +2033,7 @@
 	<TRANSL xml:lang="fr">«Dans votre famille, vous avez de bons principes!» a-t-il dit.</TRANSL>
 	<TRANSL xml:lang="zh">他说：“你的家庭有很好的原则。”</TRANSL>
 </S>
-<S id="﻿Benevolence_S260">
+<S id="Benevolence_S260">
 	<AUDIO start="1373.87" end="1377.73"/>
 	<FORM kindOf="phono">njɤ˧=ɻ̩˩-dʑo˩, | gɯ˩-ʝi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | hĩ˧ | so˩˥ ◊ dʑo˩ | dʑɤ˩-ɲi˥! |</FORM>
 	<NOTE xml:lang="fr" message = "262"/>
@@ -2039,35 +2041,35 @@
 	<TRANSL xml:lang="fr">Nous autres, vrai de vrai, autrefois, on donnait une bonne éducation!</TRANSL>
 	<TRANSL xml:lang="zh">在过去，我们确实给人们提供了良好的教育！</TRANSL>
 </S>
-<S id="﻿Benevolence_S261">
+<S id="Benevolence_S261">
 	<AUDIO start="1377.73" end="1379.53"/>
 	<FORM kindOf="phono">hĩ˧ mo˥-hĩ˩ ʈʂʰɯ˩-tɕɯ˩… | ʈʰææ̃˧ | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "263"/>
 	<TRANSL xml:lang="fr">Les vieilles personnes… vrai de vrai, on prenait soin des vieilles personnes!</TRANSL>
 	<TRANSL xml:lang="zh">老人……真的，我们照顾老人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S262">
+<S id="Benevolence_S262">
 	<AUDIO start="1379.53" end="1382.19"/>
 	<FORM kindOf="phono">əəə … “zo˧mv̩˥ ʁo˩mæ˩-zo˩-kv̩˩! | ɑ˩pʰo˩ kʰi˥-dʑo˩, | hĩ˧ mo˥-hĩ˩ ʁo˩mæ˩-zo˩-kv̩˩”, | pi˧-zo˩, |</FORM>
 	<NOTE xml:lang="fr" message = "264"/>
 	<TRANSL xml:lang="fr">«Il faut prendre soin des enfants! (Et) quand on est de sortie, il faut prendre soin des personnes âgées:»</TRANSL>
 	<TRANSL xml:lang="zh">“必须照顾孩子！出去到外边的时候，得照顾老人！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S263">
+<S id="Benevolence_S263">
 	<AUDIO start="1382.19" end="1385.17"/>
 	<FORM kindOf="phono">njɤ˧ | ə˧si˧ tʰv̩˧-v̩˧-ɳɯ˩ | qʰɑ˩ne˩˥ | ʐwɤ˩-kv̩˩˥ | mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "265"/>
 	<TRANSL xml:lang="fr">Ma grand-mère, qu'est-ce qu'elle nous le répétait[, ce bon principe]!</TRANSL>
 	<TRANSL xml:lang="zh">我的祖母经常这样对我们说！</TRANSL>
 </S>
-<S id="﻿Benevolence_S264">
+<S id="Benevolence_S264">
 	<AUDIO start="1385.17" end="1390.18"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ ʝi˥ | kwɤ˩tɕɯ˩-lɑ˩, | “no˧=ɻ̩˩ | dʑɤ˩ ɲi˥! | no˧ | so˧hwɤ˩ | le˧-dʑɤ˩-ʝi˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "266"/>
 	<TRANSL xml:lang="fr">De la sorte… «Vous, vous êtes des gens bien! Vous, dorénavant… continuez à pratiquer le bien!» (littéralement: «pratiquez le bien!»)</TRANSL>
 	<TRANSL xml:lang="zh">像这样…… “你们是好人！从现在起……继续践行善行！”（字面意思是：“践行善行”。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S265">
+<S id="Benevolence_S265">
 	<AUDIO start="1390.18" end="1391.83"/>
 	<FORM kindOf="phono">“no˧ | o˧ | hɤ˩-ze˥! | wɤ˩˥, | ʈʂʰɯ˧-ʂɯ˧ | njɤ˧ | go˧li˧-tsʰɯ˩”, | pi˧-zo˩. |</FORM>
 	<NOTE xml:lang="fr" message = "267"/>
@@ -2075,21 +2077,21 @@
 	<TRANSL xml:lang="fr">«Toi, ah, tu es quelqu'un de bien! Cette fois-là, tu t'étais rendue à mon chevet», qu'il a dit.</TRANSL>
 	<TRANSL xml:lang="zh">“你哦，你是个好人！那次你来探望”，他对我说。</TRANSL>
 </S>
-<S id="﻿Benevolence_S266">
+<S id="Benevolence_S266">
 	<AUDIO start="1391.83" end="1396.32"/>
 	<FORM kindOf="phono">tsʰo˩mo˩ tʰv̩˩-ʝɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-njɤ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "268"/>
 	<TRANSL xml:lang="fr">Ce vieil homme, voilà comment il me parlait sans cesse!</TRANSL>
 	<TRANSL xml:lang="zh">那位老人就是这样一直跟我说话的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S267">
+<S id="Benevolence_S267">
 	<AUDIO start="1396.32" end="1399.68"/>
 	<FORM kindOf="phono">tʰi˩˥, | njɤ˧ | “ə˧mi˧! | ɖɯ˧-sɑ˥ F | po˧-di˧ mɤ˧-dʑo˧˥!” |</FORM>
 	<NOTE xml:lang="fr" message = "269"/>
 	<TRANSL xml:lang="fr">Alors, moi, je répondais: «Houlà! (Mais je ne mérite pas tant de compliments.) Je n'ai rien amené du tout / je suis venue les mains vides!»</TRANSL>
 	<TRANSL xml:lang="zh">我回答说：“哇！（可是我并不值得这么多赞美：）我什么都没带，我是空手来的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S268">
+<S id="Benevolence_S268">
 	<AUDIO start="1399.68" end="1401.5"/>
 	<FORM kindOf="phono">“ə˧pʰv̩˧! | &lt;no˧ | le˧-tsʰɯ˩-ɲi˩!&gt; | njɤ˧ | ɑ˩ʁo˧-ɳɯ˧ | no˧ | go˧li˧ pɻ̩˩-kʰɯ˩-ɲi˩!” | pi˧, |</FORM>
 	<NOTE xml:lang="fr" message = "270"/>
@@ -2098,35 +2100,35 @@
 	<TRANSL xml:lang="fr">Grand-oncle maternel! C'est ma famille qui m'a envoyée pour vous rendre visite pendant votre maladie!</TRANSL>
 	<TRANSL xml:lang="zh">外曾叔父啊，我这人吧，功劳不大：您生病时，是我的家人派我去看望您的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S269">
+<S id="Benevolence_S269">
 	<AUDIO start="1401.5" end="1404.99"/>
 	<FORM kindOf="phono">æ̃˩mi˥ po˩-kʰi˩, | tʰv̩˧-ɲi˥! | dze˧ … | ə˧ʝi˧-ʂɯ˥ʝi˩dʑo˩, | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩! | ho˩tʰɑ˩˥ | ɖɯ˧-ɭɯ˧ po˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "271"/>
 	<TRANSL xml:lang="fr">J'avais amené une poule, ce jour-là! Du sucre… Autrefois, on n'avait que des blocs de sucre roux, n'est-ce pas! J'amenais un pain de sucre roux!</TRANSL>
 	<TRANSL xml:lang="zh">那天我带了一只鸡，还有糖。以前我们只有红糖块，不是吗？我带了一块红糖。</TRANSL>
 </S>
-<S id="﻿Benevolence_S270">
+<S id="Benevolence_S270">
 	<AUDIO start="1404.99" end="1408.13"/>
 	<FORM kindOf="phono">æ̃˩˥ | ɖɯ˧-mi˩ to˩~to˩ po˩-kʰi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "272"/>
 	<TRANSL xml:lang="fr">J'amenais une poule, que je serrais dans mes bras!</TRANSL>
 	<TRANSL xml:lang="zh">我去的时候，我紧紧地抱着一只鸡送给那家人！</TRANSL>
 </S>
-<S id="﻿Benevolence_S271">
+<S id="Benevolence_S271">
 	<AUDIO start="1408.13" end="1413.72"/>
 	<FORM kindOf="phono">ʈʂʰɯ˧ne˧ ʝi˥-kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥ | hĩ˧, | gɯ˩-ʝi˥ | ɖɯ˧-ʈʂæ˩ gv̩˩ | le˧-ʂɯ˧-ɲi˥-ze˩, | tʰv̩˧-v̩˧. |</FORM>
 	<NOTE xml:lang="fr" message = "273"/>
 	<TRANSL xml:lang="fr">Alors, ce faisant, l'homme, vrai de vrai, une génération a passé: il est décédé, ce monsieur.</TRANSL>
 	<TRANSL xml:lang="zh">就这样，那个人嘛，一代人过去了：这位先生死了。</TRANSL>
 </S>
-<S id="﻿Benevolence_S272">
+<S id="Benevolence_S272">
 	<AUDIO start="1413.72" end="1415.6"/>
 	<FORM kindOf="phono">tʰi˩˥, | ʈʂʰɯ˧ zo˧mv̩˥=ɻæ˩, | zo˩no˥, | hɤ˩˥, | njɤ˧-ki˧ | ɖɯ˧-njɤ˧ | ʐwɤ˩kv̩˩˥ | mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "274"/>
 	<TRANSL xml:lang="fr">Alors, ses enfants, eh bien, ils vont bien! et ils me parlent souvent!</TRANSL>
 	<TRANSL xml:lang="zh">他的孩子们，他们很好！他们经常和我聊天！</TRANSL>
 </S>
-<S id="﻿Benevolence_S273">
+<S id="Benevolence_S273">
 	<AUDIO start="1415.6" end="1419.74"/>
 	<FORM kindOf="phono">“njɤ˧ | ə˧dɑ˥-ɳɯ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | no˧ ʐwɤ˧-kv̩˧˥ | wɤ˩! | ə˧mi˧- | ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩!” |</FORM>
 	<NOTE xml:lang="fr" message = "275"/>
@@ -2134,28 +2136,28 @@
 	<TRANSL xml:lang="fr">«Mon père, autrefois, il parlait de vous, eeeeh! tante Daeshi Lhamu!»</TRANSL>
 	<TRANSL xml:lang="zh">“我父亲以前经常提起您，拉他咪阿姨！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S274">
+<S id="Benevolence_S274">
 	<AUDIO start="1419.74" end="1423.15"/>
 	<FORM kindOf="phono">“no˧ | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖwæ˧˥ | hĩ˧ ʁo˧mæ˧ kv̩˩ pʰæ˩-di˩!” | pi˧-zo˩; | “njæ˧-sɯ˩kv̩˩, | ɖɯ˧-ɲi˥~ɖɯ˩-ɲi˩, | ʐæ˧~ʐæ˩-kv̩˩ mæ˩, | lo˧ ʝi˧-bi˧!” |</FORM>
 	<NOTE xml:lang="fr" message = "276"/>
 	<TRANSL xml:lang="fr">«Vous, autrefois, il paraît que vous vous entendiez à prendre soin d'autrui!» qu'ils disent. «Nous autres, jour après jour, on en parlait, quand on allait travailler!»</TRANSL>
 	<TRANSL xml:lang="zh">他们说：“在过去，您好像很会照顾其他人！我们一天又一天去劳动时谈（这件事）！”</TRANSL>
 </S>
-<S id="﻿Benevolence_S275">
+<S id="Benevolence_S275">
 	<AUDIO start="1423.15" end="1426.21"/>
 	<FORM kindOf="phono">zo˩no˧-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | njɤ˧ ʁo˧pv̩˩-zo˩-kv̩˩: |</FORM>
 	<NOTE xml:lang="fr" message = "277"/>
 	<TRANSL xml:lang="fr">Actuellement (=ces années-ci), il leur arrive de me rencontrer [et ils me disent alors:]</TRANSL>
 	<TRANSL xml:lang="zh">（到）现在，他们有时见到我（就说）：</TRANSL>
 </S>
-<S id="﻿Benevolence_S276">
+<S id="Benevolence_S276">
 	<AUDIO start="1426.21" end="1430.54"/>
 	<FORM kindOf="phono">“no˧, | ə˧ʝi˧ʂɯ˥ʝi˩, | hĩ˧ mo˥-hĩ˩, | ɖwæ˧˥ | ʁo˧mæ˧ kv̩˩-tsɯ˩, | ə˩-gi˩!” | pi˧-zo˩, | wɤ˩˥, | ʐwɤ˩-kv̩˩˥ | mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "278"/>
 	<TRANSL xml:lang="fr">«Il paraît que vous preniez bien soin des personnes âgées, dans le temps, n'est-ce pas vrai?» Et ils reparlent de tout ça!</TRANSL>
 	<TRANSL xml:lang="zh">“据说您以前很会照顾老人，是吗？”们就又说起来了！</TRANSL>
 </S>
-<S id="﻿Benevolence_S277">
+<S id="Benevolence_S277">
 	<AUDIO start="1430.54" end="1433.66"/>
 	<FORM kindOf="phono">“njæ˧=ɻæ˩-dʑo˩, | hĩ˧mo˥-hĩ˩ ʁo˩mæ˩-kv̩˩! | no˧-sɯ˩kv̩˩-dʑo˩, | hĩ˧ mo˥-hĩ˩ | &lt;tʰɑ˧-li˧&gt; li˧-mɤ˧-ho˩ | tʰi˩˥…” | tsʰi˧qʰæ˧˥ | pi˧˥, | njɤ˧-ɳɯ˧ | ɖɯ˧-ʂɯ˩~ɖɯ˩-ʂɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "278"/>
@@ -2164,14 +2166,14 @@
 	<TRANSL xml:lang="fr">«C'est que nous autres, on savait prendre soin des personnes âgées! Alors que vous, les vieux, vous ne vous bousculiez pas pour les fréquenter!» Voilà ce que je leur dis en diverses occasions, [encore] ces temps derniers!</TRANSL>
 	<TRANSL xml:lang="zh">“我们知道如何照顾老人！但你们却不是很主动照顾他们！”这是我最近经常对他们说的话！</TRANSL>
 </S>
-<S id="﻿Benevolence_S278">
+<S id="Benevolence_S278">
 	<AUDIO start="1433.66" end="1437.83"/>
 	<FORM kindOf="phono">tʰi˩˥, | ʁo˧mæ˧-ɳɯ˩ | mɤ˧-mæ-ɳɯ˧ | ʈʂʰɯ˧ lɑ˩-ɲi˩-ze˩! | tʰi˩˥, | njæ˧-sɯ˩kv̩˩-dʑo˩ | tʰi˩˥, | ə˧ʝi˧-tsʰi˧ʝi˧, | qʰɑ˩ne˩ ʝi˥-tso˩-ɲi˩? | &lt;ɖʐ…&gt; |</FORM>
 	<NOTE xml:lang="fr" message = "279"/>
 	<TRANSL xml:lang="fr">Et voilà: choisir de s'occuper des gens, ou les négliger, tout est là! (=Tout ça, au fond, ça revient à la question toute simple de savoir si on prend soin d'autrui ou non!) Et nous autres, eh bien, ces temps-ci… qu'est-ce qu'on doit faire? / qu'est-ce que vous voulez?</TRANSL>
 	<TRANSL xml:lang="zh">这就是：选择照顾他人，还是忽视他人，一切都在那里！／所有这些，基本上都归结为一个简单的问题：我们是否照顾他人！而我们，在今日……我们该怎么办？</TRANSL>
 </S>
-<S id="﻿Benevolence_S279">
+<S id="Benevolence_S279">
 	<AUDIO start="1442.25" end="1446.57"/>
 	<FORM kindOf="phono">“ʈʰææ̃˧ | tʰi˩˥, | ɖʐv̩˧-ɳɯ˧ ʝi˧-ɲi˥ mæ˩!” | pi˧-zo˩, | wɤ˩˥, | zo˧hṽ̩˧=ɻæ˥, ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique: ʈʰææ˧, | tʰi˩˥, | ɖʐv̩˧ɳɯ˧ | ʝi˧ɲi˥mæ˩! | pi˧zo˩, | wɤ˩˥, | zo˧hɑ̃˧ɻ̩˥ | ʈʂʰɯ˧ne˧-ʝi˥ | ʐwɤ˩-kv̩˩˥ | ɲi˩! |"/>
@@ -2180,7 +2182,7 @@
 	<TRANSL xml:lang="fr">«Au fond, vrai de vrai, c'est ainsi que se comportent les amis!» disent-ils; les enfants, voilà ce qu'ils en disent!</TRANSL>
 	<TRANSL xml:lang="zh">“朋友就是这样”，孩子们也是这么说的！（＝这就是由友谊激发出来的行为！”，那位老人的孩子们说。）</TRANSL>
 </S>
-<S id="﻿Benevolence_S280">
+<S id="Benevolence_S280">
 	<AUDIO start="1446.57" end="1449.715"/>
 	<FORM kindOf="phono">zo˩no˥-ʈʂʰɯ˩ | õ˧-ʈʂʰɯ˧ne˧-ʝi˥, | ʈʂʰɯ˧ne˧-ʝi˥, | le˧-ʐwɤ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "281"/>
@@ -2188,7 +2190,7 @@
 	<TRANSL xml:lang="fr">Et alors, eh bien… voilà ce qui se raconte encore aujourd'hui!</TRANSL>
 	<TRANSL xml:lang="zh">然后，嗯……这些说法，到今天仍在流传的！</TRANSL>
 </S>
-<S id="﻿Benevolence_S281">
+<S id="Benevolence_S281">
 	<AUDIO start="1449.715" end="1452.39"/>
 	<FORM kindOf="phono">le˧-se˩-ze˩! | mmm!</FORM>
 	<NOTE xml:lang="fr" message = "Formule chuchotée, adressée à l'enquêteur, afin qu'il éteigne l'appareil d'enregistrement : «C'est fini!»"/>
@@ -2233,7 +2235,7 @@
 		Le dialogue a continué: «Houlà! Mais je ne mérite pas tant de compliments. D'autant qu'aujourd'hui je n'ai pas grand-chose à vous offrir. [Formulation polie: en réalité, la visiteuse n'était pas venue les mains vides.] Grand-oncle, c'est ma famille qui m'a envoyée pour vous rendre visite pendant votre maladie, moi je n'ai aucun mérite!» Je me souviens encore: j'avais amené une poule, ce jour-là, et un pain de sucre roux.
 		Il est décédé, ce monsieur, et une génération a passé. Ses enfants vont bien, et quand je les rencontre à l'occasion, ils me reparlent souvent de ce vieux souvenir! «Mon père, autrefois, il parlait de vous, tante Daeshi Lhamu! Vous, autrefois, il paraît que vous vous entendiez à prendre soin d'autrui!» qu'ils disent. «Nous autres, jour après jour, on en parlait, quand on allait travailler! Il paraît que vous preniez bien soin des personnes âgées, dans le temps, n'est-ce pas vrai?» Je leur réponds alors: «C'est que nous autres, on savait prendre soin des personnes âgées! Alors que vous, eh bien, les vieux, vous ne vous bousculiez pas pour les fréquenter!»
 		Tout ça, au fond, ça revient à la question toute simple de savoir si on prend soin d'autrui ou non! Qu'est-ce que vous voulez. [Moi, j'aime bien fournir aux jeunes un peu de matière à réflexion.] Ces histoires, elles circulent encore aujourd'hui; et ce qu'en disent les enfants, après les avoir écoutées, c'est: «Au fond, vrai de vrai, c'est ainsi que se comportent les amis!»</TRANSL>
-	<TRANSL xml:lang="cn">我要讲的是摩梭人以前是什么样子的，但归根结底，这些道理同样适用于今天。所有时代都是一样的，不是吗？
+	<TRANSL xml:lang="zh">我要讲的是摩梭人以前是什么样子的，但归根结底，这些道理同样适用于今天。所有时代都是一样的，不是吗？
 当我们谈论摩梭人的美好的传统时，究竟美好在哪里？一个核心要素是我们知道如何照顾老人。第二个关键要素是对客人的重视。
 就算我们自己食物不多，甚至不够吃，我们也一定记得可能会有客人来，我们就会留出一些招待他们的好食物，常备不时之需。有时，一块肉可以保存整整三年，通常是存两年。(注：在凉爽、干燥、阳光充足的气候条件下，干肉可以保存得很好。肉是饮食的重要组成部分，尤其是节日期间。）“可能会有客人来！”我们经常说，“说不定哪天就会有客人来呢”。年轻人不会碰最好的食物，他们会把好东西留给老人、孩子和客人。如果来了三四位客人，家里必须备着酒、猪肉和鸡肉。
 如今，情况完全不同了。如果家里没有生活用品，也不必担心。我们是这样想的：“有什么好担心的？随时都可以去市场上买需要的一切！”但老人还是有他们的老习惯。他们的观点是：总有一天会有客人来访，因此，不会把一块上好的肉当作普通食物来随便吃掉。摩梭人会把上好肉块保存起来，预备招待客人。在过去，不可能像今天一样随时在商店里买东西，是吧？事实上，全家人的食物都存放在家里。即使今天，虽然可以在市场上买到任何想要的东西，但我们仍然认为自己地里种的东西比市场上买的要好。所以我们仍然像过去一样在家里储存食物。有客人来的时候，我们会给他们做一桌子丰盛的菜肴，而不是把从市场上买来的食物端给他们！
