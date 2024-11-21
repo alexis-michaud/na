@@ -28117,7 +28117,7 @@
 \xn （你）让我卖吗？
 \xf Tu es d'accord pour que je vende?
 \xc PHONO
-ʈʂʰɯ˧-kʰwɤ˥, | no˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?
+\xv ʈʂʰɯ˧-kʰwɤ˥, | no˧ | tɕʰi˧ kʰɯ˧ ə˥-bi˩?
 \xe Do you agree for me to sell?
 \xn 你让卖吗？
 \xf Tu es d'accord pour vendre?
@@ -47996,7 +47996,7 @@
 \nt <dom="sem" langue="fra"> Dans ce disyllabe, l'adjectif apparaît avant le nom.
 \nt <dom="sem" langue="eng"> In this disyllable, the adjective appears before the noun.
 \nt <dom="sem" langue="cmn"> 在这个双音节词中，形容词出现在名词前面。
-\nt <type="hist" dom="phono" langue="fra"> En 2024, corrigé le classificateur en /pʰɻ̩˩/, certainement par une fausse manœuvre: le classificateur a une voyelle v (classificateur des champs).
+\nt <type="hist" dom="phono" langue="fra" print="n"> En 2024, corrigé le classificateur en /pʰɻ̩˩/, certainement par une fausse manœuvre: le classificateur a une voyelle v (classificateur des champs).
 \ton M
 \lc pɻ̩˧lv̩˧
 \so F4
