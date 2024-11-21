@@ -1446,12 +1446,24 @@
 \gn 公鸡
 \df Coq.
 \gf coq
-\xv æ̃˧ʂwæ˥-æ̃˩mi˩
-\xe cock and hen
-\xn 公鸡与母鸡
-\xf coq et poule
-\xc <dom="ton"> H#-
-\dt 16/Jun/2017
+
+\lx æ̃˧ʂwæ˥-æ̃˩mi˩
+\or aenshuae aenmi
+\mr æ̃˧ʂwæ˥
+\mr æ̃˩mi˧
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton H#-
+\lc æ̃˧ʂwæ˥æ̃˩mi˩
+\cf æ̃˩mi˧-æ̃˧ʂwæ˥
+\so F4
+\de Rooster and hen, cock and hen.
+\ge rooster_and_hen
+\dn 公鸡与母鸡
+\gn公鸡与母鸡
+\df Coque et poule.
+\gf coq_et_poule
 
 \lx æ˧tse˥-pʰæ˩
 \sf <nb="B"> 169
@@ -1497,9 +1509,10 @@
 
 \lx æ̃˧tsɯ˥-kʰɯ˩ʈʂɤ˩-mo˩
 \or aenzi keezhe moq
+\mr æ̃˧tsɯ˥
+\mr kʰɯ˧ʈʂɤ#˥
+\mr mo˧˥
 \ps n
-\cf æ̃˧tsɯ˥
-\cf kʰɯ˧ʈʂɤ#˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> nasalité: vérifié en août 2014
@@ -1581,8 +1594,9 @@
 
 \lx æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩
 \or aendua muku
+\mr æ̃˧ʈwɤ˩
+\mr mv̩˩kʰv̩˧˥
 \ps adv
-\cf æ̃˧ʈwɤ˩
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> nasalité: vérifié en août 2014; nouvelle vérification en 2016: la nasalité est bien présente: la première syllabe est homophone de ‘poulet'; elle provient de ce morphème, et garde la même voyelle nasale.
@@ -2007,7 +2021,7 @@
 \xv bæ˩bæ˩ tʰi˩-di˥
 \xe there are spots (e.g. on an egg, a bird, a stone)
 \xn 有花纹
-\xf il y a des taches, c'est tacheté, c'est bariolé (par ex.: œuf, oiseau, pierre)
+\xf il y a des taches, c'est tacheté, c'est bariolé (par exemple: un œuf, un oiseau, une pierre)
 
 \lx bæ˧bv̩˥
 \sf <nb="B"> 1856
@@ -2190,7 +2204,7 @@
 \lc bæ˩lɑ˩lɑ˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <dom="sem" langue="fra"> ex.: de la viande sans os, qui ne se tient pas
+\nt <dom="sem" langue="fra"> Par exemple: de la viande sans os, qui ne se tient pas.
 \ton L
 \so F4
 \de Soft, weak, pliant.
@@ -2258,16 +2272,40 @@
 \gn 母鸭子
 \df Cane.
 \gf cane
-\xv bæ˧mi˧-bæ˧pʰv̩#˥
-\xe female duck and male duck
-\xn 母鸭子与公鸭子
-\xf cane et canard
-\xc <dom="ton"> #H
+
+\lx bæ˧mi˧-bæ˧pʰv̩#˥
+\or bbaemi bbaepu
+\mr bæ˧mi˧1
+\mr bæ˧pʰv̩#˥
+\ps n
+\lc bæ˧mi˧bæ˧pʰv̩˧
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\so F4
+\de Female duck and male duck.
+\ge female_duck_and_male_duck
+\dn 母鸭子与公鸭子
+\gn 母鸭子与公鸭子
+\df Cane et canard.
+\gf cane_et_canard
+
 \xv bæ˧mi˧-bæ˧zo#˥
-\xe female duck and duckling
-\xn 母鸭与小鸭子
-\xf cane et caneton
-\xc <dom="ton"> #H
+\or bbaemi bbaesso
+\mr bæ˧mi˧1
+\mr bæ˧zo#˥
+\ps n
+\lc bæ˧mi˧bæ˧zo˧
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\so F4
+\de Female duck and duckling.
+\ge female_duck_and_duckling
+\dn 母鸭与小鸭子
+\gn 母鸭与小鸭子
+\df Cane et caneton.
+\gf cane_et_caneton
 
 \lx bæ˧mi˧
 \hm 2
@@ -2380,11 +2418,23 @@
 \xe 〜 |fg{dem} |fg{clf}
 \xn 〜 |fg{指示代词} |fg{量词}：那只公鸭子
 \xf 〜 |fg{dem} |fg{clf}
-\xv bæ˧pʰv̩˧-bæ˧mi#˥
-\xe male duck and female duck
-\xn 公鸭子与母鸭子
-\xf canard et cane
-\xc <dom="ton"> #H
+
+\lx bæ˧pʰv̩˧-bæ˧mi#˥
+\or bbaepu bbaemi
+\mr bæ˧pʰv̩#˥
+\mr bæ˧mi˧1
+\ps n
+\lc bæ˧pʰv̩˧bæ˧mi˧
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\so F4
+\de Male duck and female duck.
+\ge male_duck_and_female_duck
+\dn 公鸭子与母鸭子
+\gn 公鸭子与母鸭子
+\df Canard et cane.
+\gf canard_et_cane
 
 \lx bæ˩-ʁwæ˩~ʁwæ˥
 \sf <nb="B"> 1003
@@ -10426,7 +10476,7 @@
 \ge |fg{clf}.packs_of_two
 \dn |fg{量词}：瓶子、锅（一对）
 \gn 量词.瓶子／锅
-\df Classificateur des lots de deux objets non indissociables; par ex.: lot de 2 casseroles; paire de haut-parleurs… Pour les paires non dissociables (ex.: paire de chaussures), on utilise: /|fv{dzi˧β}/.
+\df Classificateur des lots de deux objets non indissociables; par exemple: lot de deux casseroles, paire de haut-parleurs… Pour les paires non dissociables (ex.: paire de chaussures), on utilise: /|fv{dzi˧β}/.
 \gf |fg{clf}.lots_de_deux
 \xv zo˧mv̩˥ | ɖɯ˧-dze˩
 \xe twins (literally: ‘a pair of children')
@@ -11433,7 +11483,7 @@
 \ge to_prop_open
 \dn 撑开（帐篷）
 \gn 撑开
-\df Déployer, ouvrir en soutenant; ex.: déployer la tente.
+\df Déployer, ouvrir en soutenant. Par exemple: déployer la tente.
 \gf déployer
 \xv le˧-ɖʐɤ˩~ɖʐɤ˩
 \xe |fg{red}
@@ -19420,7 +19470,7 @@
 \ge to_cut
 \dn 切，裁
 \gn 切／裁
-\df Trancher, couper au moyen d'un instrument tranchant: couteau, épée…; ex.: tailler un vêtement.
+\df Trancher, couper au moyen d'un instrument tranchant: couteau, épée… Par exemple: tailler un vêtement.
 \gf trancher
 \xv le˧-hæ̃˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -26163,7 +26213,7 @@
 \ge overcooked
 \dn （煮）烂
 \gn （煮）烂
-\df Trop cuit, dissous, tout décomposé: ex.: pommes de terre qui éclatent, pois qui se décomposent en purée.
+\df Trop cuit, dissous, tout décomposé. Par exemple: des pommes de terre qui éclatent, des pois qui se décomposent en purée.
 \gf trop_cuit
 \xv le˧-tɕɤ˧˥ | le˧-jɤ˩-ze˩!
 \xe It got sodden after boiling! / After boiling, it got all mushy/overdone!
@@ -26173,7 +26223,6 @@
 \xe 〜 |fg{rel}/|fg{nmlz}
 \xn 烂的
 \xf 〜 |fg{rel}/|fg{nmlz}
-\dt 02/Sep/2015
 
 \lx jɤ˧˥α
 \hm 1
@@ -48846,7 +48895,7 @@
 \ge to_crack
 \dn 折断
 \gn 折断
-\df Casser; ex.: casser une branche, récolter un épi de maïs en le cassant du plant de maïs.
+\df Casser. Par exemple: casser une branche, récolter un épi de maïs en le cassant du plant de maïs.
 \gf casser
 \xv qʰɑ˧dze˧ qʰæ˩
 \xe to harvest sweet corn (literally: to snap off ears of sweet corn)
@@ -83712,7 +83761,7 @@
 \xv ʑi˧qʰwɤ˧-ʁo˧to˩
 \xe on the house; e.g. there is a bird's nest on the top of the house
 \xn 房子上面：例如：有鸟窝在房顶上
-\xf sur la maison; ex.: il y a un nid d’oiseaux sur la maison
+\xf sur la maison; par exemple: il y a un nid d’oiseaux sur la maison
 \sn 2
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -83898,7 +83947,7 @@
 \xv si˧-ʂo˧~ʂo˥
 \xe full of wood, replete with wood, entirely made of wood
 \xn 有很多木头，如：来形容一个新建的木头房子：面面都是新鲜木头，给人的感觉是“木头呼呼”
-\xf plein de bois, tout plein de (beau) bois; ex.: d'une maison de bois nouvellement construite: jusque dans chaque recoin, c'est de bon bois, c'est «pur bois».
+\xf plein de bois, tout plein de (beau) bois; se dit par exemple d'une maison de bois nouvellement construite: jusque dans chaque recoin, c'est de bon bois, c'est «pur bois».
 \xc <langue="fra" dom="ton"> ton du nom: H
 \xc <langue="eng" dom="ton"> tone of the noun: H
 \xc <langue="cmn" dom="ton"> 名词的声调：H
