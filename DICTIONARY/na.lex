@@ -747,7 +747,7 @@
 \df Falaise. Le terme désigne spécifiquement le dos d'une falaise: l'espace relativement plat en bord de précipice. Pour faire référence à la paroi (face verticale de la falaise), on ajoute |fv{/lɑ˧bi˧/} ‘escarpement'.
 \gf falaise
 
-\xv æ˩pʰæ˧-lɑ˧bi˥
+\lx æ˩pʰæ˧-lɑ˧bi˥
 \or aenpae labbi
 \mr æ˩pʰæ˧˥
 \mr lɑ˧bi#˥
@@ -1391,27 +1391,24 @@
 \xf (Il) est en super forme!
 \rf M18
 
-\xv æ̃˩ʂe˩ tsʰi˩˥
-\xe to run a temperature, to have a fever
-\xn 发烧
-\xf avoir la fièvre
-\xc <type="hist" print="n" dom="ton" langue="fra"> D'abord noté ‡æ˩ʂe˩tsʰɯ˥. Corrigé en 2008.
-\xc <type="hist" print="n" dom="phono" langue="fra"> Établi en 2009: ce n'est pas /tsʰɯ/ mais /tsʰi/, adjectif qui signifie `chaud'.
-\or aeq
+\lx æ̃˩ʂe˩ tsʰi˩
+\or aenshei cee
+\mr æ̃˩ʂe˩
+\mr tsʰi˧1
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> Présence de nasalité vérifiée en août 2014.
-\nt <dom="sem" langue="fra"> La première syllabe du mot ‘miroir' est peut-être identique à ce morphème: le miroir renvoie la lumière.
-\ton Lα
-\lc æ̃˩˥
+\ton L
+\lc æ̃˩ʂe˩ tsʰi˩˥
+\nt <type="hist" print="n" dom="ton" langue="fra"> D'abord noté ‡æ˩ʂe˩tsʰɯ˥. Corrigé en 2008.
+\nt <type="hist" print="n" dom="phono" langue="fra"> Établi en 2009: ce n'est pas /tsʰɯ/ mais /tsʰi/, adjectif qui signifie `chaud'.
 \so F4
-\de To reflect (a mirror reflects light; a rainproof roof ‘reflects' rainwater).
-\ge to_reflect
-\dn 反射、辉映（镜子反射光线；防雨屋顶‘反射雨水’）。
-\gn 反射
-\df Réfléchir, renvoyer (un miroir renvoie la lumière; une toiture bien étanche à la pluie ‘renvoie' l'eau de pluie).
-\gf renvoyerxxxxx
+\de To run a temperature, to have a fever.
+\ge to_have_a_fever
+\dn 发烧。
+\gn 发烧
+\df Avoir la fièvre.
+\gf avoir_la_fièvre
 
 \lx æ̃˩ʂe˧li˥-mo˩
 \or aensheili moq
@@ -2185,8 +2182,6 @@
 \xe There's a cobweb hanging there.
 \xn 有蜘蛛网
 \xf Un fil d'araignée est tendu là. / Il y a un fil d'araignée tendu là.
-
-\dt 24/Apr/2017
 
 \lx bæ˩-lɑ˩~lɑ˥
 \sf <nb="2011"> 1425
@@ -6991,7 +6986,6 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
-
 \ton LM
 \lc ɖæ˩˥
 \so F4
@@ -52914,7 +52908,6 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> ɻ très léger, d'abord noté /l/; presque non voisé; n'est ni ʁæ˩˥, ni ɬæ˩˥); ɻæ˩kʰɯ˩˧ “semer des graines"; chez F5, “graine", /ɻæ/, est prononcé très proche de [læ].
-
 \ton LH
 \lc ɻæ˩˥
 \so F4
