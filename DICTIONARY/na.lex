@@ -487,11 +487,12 @@
 \gn 鸡年
 \df Année du Coq.
 \gf année_du_Coq
-\dt 06/Jun/2017
 
 \lx æ̃˩-kʰv̩˧˥
 \hm 2
 \or aenq kuq
+\mr æ̃˩˧
+\mr kʰv̩˧˥
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -509,7 +510,6 @@
 \gn 属鸡
 \df Né l'année du Coq.
 \gf né_l_année_du_Coq
-\dt 16/Jun/2017
 
 \lx æ̃˩li˧pʰæ˥
 \sf <nb="B"> 491
@@ -590,17 +590,40 @@
 \gn 母鸡
 \df Poule.
 \gf poule
-\xv æ̃˩mi˧-æ̃˧ʂwæ˥#
-\xe hen and rooster
-\xn 母鸡与公鸡
-\xf poule et coq
-\xc <dom="ton"> LM+H#
-\xv æ̃˩mi˧-æ̃˧tsɯ˥#
-\xe hen and chick
-\xn 母鸡与稚鸡
-\xf poule et poussins
-\xc <dom="ton"> LM+H#
-\dt 24/Aug/2015
+
+\lx æ̃˩mi˧-æ̃˧ʂwæ˥
+\or aenmi aenshuae
+\mr æ̃˩mi˧
+\mr æ̃˧ʂwæ˥
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton LM+H#
+\lc æ̃˩mi˧æ̃˧ʂwæ˥
+\so F4
+\de Hen and rooster.
+\ge hen_and_rooster
+\dn 母鸡与公鸡
+\gn 母鸡与公鸡
+\df Poule et coq.
+\gf poule_et_coq
+
+\lx æ̃˩mi˧-æ̃˧tsɯ˥
+\or aenmi aenzi
+\mr æ̃˩mi˧
+\mr æ̃˧tsɯ˥
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton LM+H#
+\lc æ̃˩mi˧æ̃˧tsɯ˥
+\so F4
+\de Hen and chick.
+\ge hen_and_chick
+\dn 母鸡与稚鸡
+\gn  母鸡与稚鸡
+\df Poule et poussins.
+\gf poule_et_poussins
 
 \lx æ˩mi˧-mv̩˧ʈv̩˥
 \sf <nb="B"> 179
@@ -1362,17 +1385,33 @@
 \gn 肌肉
 \df Muscle.
 \gf muscle
+\xv æ̃˩ʂe˩˥ | dʑɤ˩˥ | ʐwæ˩˥
+\xe (He/she) is in great shape!
+\xn 身体状况很好！（包括气色好）
+\xf (Il) est en super forme!
+\rf M18
+
 \xv æ̃˩ʂe˩ tsʰi˩˥
 \xe to run a temperature, to have a fever
 \xn 发烧
 \xf avoir la fièvre
 \xc <type="hist" print="n" dom="ton" langue="fra"> D'abord noté ‡æ˩ʂe˩tsʰɯ˥. Corrigé en 2008.
 \xc <type="hist" print="n" dom="phono" langue="fra"> Établi en 2009: ce n'est pas /tsʰɯ/ mais /tsʰi/, adjectif qui signifie `chaud'.
-\xv æ̃˩ʂe˩˥ | dʑɤ˩˥ | ʐwæ˩˥
-\xe (He/she) is in great shape!
-\xn 身体状况很好！（包括气色好）
-\xf (Il) est en super forme!
-\rf M18
+\or aeq
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> Présence de nasalité vérifiée en août 2014.
+\nt <dom="sem" langue="fra"> La première syllabe du mot ‘miroir' est peut-être identique à ce morphème: le miroir renvoie la lumière.
+\ton Lα
+\lc æ̃˩˥
+\so F4
+\de To reflect (a mirror reflects light; a rainproof roof ‘reflects' rainwater).
+\ge to_reflect
+\dn 反射、辉映（镜子反射光线；防雨屋顶‘反射雨水’）。
+\gn 反射
+\df Réfléchir, renvoyer (un miroir renvoie la lumière; une toiture bien étanche à la pluie ‘renvoie' l'eau de pluie).
+\gf renvoyerxxxxx
 
 \lx æ̃˩ʂe˧li˥-mo˩
 \or aensheili moq
