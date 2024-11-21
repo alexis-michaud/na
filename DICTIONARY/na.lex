@@ -5790,7 +5790,7 @@
 \va <speaker="M21"> ID.
 \de Year of the Snake. Literally ‘Year of the Dragon': /|fv{bv̩˧ʐv̩˧}/ does not mean ‘snake' (which is /|fv{ʐv̩˧bæ˧}/), but ‘dragon'.
 \ge year_of_the_Snake
-\dn 蛇年。字面意思是‘龙年’：fv{bv̩˧ʐv̩˧}不是‘蛇’的意思，而是‘龙’的意思。
+\dn 蛇年。字面意思是‘龙年’：|fv{bv̩˧ʐv̩˧}不是‘蛇’的意思，而是‘龙’的意思。
 \gn 蛇年
 \df Année du Serpent. Littéralement ‘année du Dragon': /|fv{bv̩˧ʐv̩˧}/ ne signifie pas ‘serpent' (qui se dit /|fv{ʐv̩˧bæ˧}/), mais ‘dragon'.
 \gf année_du_Serpent
@@ -16934,13 +16934,12 @@
 \ton H#
 \lc fv̩˧kʰo˥
 \so F4
-\de Fengke: a village located close to the Yangtze river, on the right bank.
+\de Fuko: a village located close to the Yangtze river, on the right bank. Chinese: Fengke.
 \ge Fengke
 \dn 奉科（金沙江边的一个地区）
 \gn 奉科
-\df Fengke: village situé au bord du Yang-tsé, sur la rive droite.
+\df Fuko: village situé au bord du Yang-tsé, sur la rive droite. En chinois: Fengke.
 \gf Fengke
-\dt 01/Sep/2015
 
 \lx fv̩˧ʂɯ˩
 \or fushi
@@ -35208,11 +35207,11 @@
 \ton LM+#H
 \lc lv̩˩tɕʰɯ˧hĩ˧
 \so F4
-\de The inhabitants of the village of Fengke (Fv-kho).
+\de The inhabitants of the village of Fengke (Fuko).
 \ge inhabitants_of_Fengke
 \dn 奉科的人
 \gn 奉科的人
-\df Gens de Fengke (Fv-kho), personne de Fengke.
+\df Gens de Fengke (Fuko), personne de Fengke.
 \gf gens_de_Fengke
 
 \lx lv̩˧tsɯ˥
@@ -54652,7 +54651,7 @@
 \so F4
 \de Sandalwood, sandlewood. Same meaning as /|fv{ʁo˩kʰv̩˩}/, with addition of the word for `wood', /|fv{si˥}/.
 \ge sandalwood
-\dn 香木（与|fv{ʁo˩kʰv̩˩}含义相同，但增加了‘木’这个名词：fv{si˥}）。
+\dn 香木（与|fv{ʁo˩kʰv̩˩}含义相同，但增加了‘木’这个名词：|fv{si˥}）。
 \gn 香木
 \gr 柏香
 \df Arbre à épice, arbre à encens de petite taille, qui pousse en montagne, dans les espaces ombragés. Même sens que /|fv{ʁo˩kʰv̩˩}/, avec l'ajout du nom `bois', /|fv{si˥}/.
