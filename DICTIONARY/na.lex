@@ -2834,9 +2834,9 @@
 \df Oser.
 \gf oser
 \xv ʝi˧-mɤ˧-bi˧
-\xe Not to dare to.
+\xe Not to dare to do something.
 \xn 不敢做
-\xf Ne pas oser (faire quelque chose).
+\xf Ne pas oser faire quelque chose.
 
 \lx bi˥
 \sf <nb="B"> 933
@@ -3010,6 +3010,7 @@
 \xc <langue="fra" dom="ton"> Ton différent de celui de la locutrice de référence.
 \xc <langue="eng" dom="ton"> Tone is different from that of the reference speaker.
 \xc <langue="cmn" dom="ton"> 声调与拉他咪女士的有所不同。
+\rf M21
 
 \lx bi˧-lv̩˧~lv̩˥
 \sf <nb="B"> 11b
@@ -3079,9 +3080,9 @@
 \df Ventre.
 \gf ventre
 \xv bi˧mi˧ ɖɯ˩
-\xe Who has a big appetite. It also has the abstract meaning of broad-minded, to describe someone who does not haggle over small matters.
-\xn 能吃、饭量大。也指肚量大，不计较（随便说说不生气）
-\xf Qui a un gros appétit; littéralement «qui a un gros ventre/gros estomac». L'expression a aussi le sens abstrait de: calme et posé, pas pinailleur, qui ne se perd pas dans des finasseries, qui ne prend pas la mouche pour un rien, qui sait voir les choses de haut.
+\xe Who has a big appetite. Like the corresponding Chinese expression, |fn{肚量大}, the expression also has the abstract meaning of: broad-minded, calm and composed, not nitpicking, to describe someone who does not haggle over small matters. The connection between the literal meaning (a big belly) and the figurative meaning (an elevated mind) is that a strong stomach allows one to ingest and digest large quantities of food, and that a good breadth of vision similarly requires one to ingest and digest information, knowledge and emotions without confining oneself to a few scraps of information, piecemeal impressions and sudden emotions.
+\xn 能吃、饭量大。与汉语的‘肚量大’相同，这个说法还有一个抽象的意思：心胸宽广，能够包容他人，不计较小事（随便说说不生气），看待问题的角度长远而全面，有较强的承受和化解矛盾的能力。
+\xf Qui a un gros appétit; littéralement «qui a un gros ventre/gros estomac». Comme l'expression chinoise correspondante, |fn{肚量大}, cette formule possède aussi le sens abstrait de: calme et posé, pas pinailleur, qui ne se perd pas dans des finasseries, qui ne prend pas la mouche pour un rien, qui sait voir les choses de haut. Le lien entre sens littéral (gros ventre) et sens figuré (hauteur d'esprit) est qu'un estomac de forte capacité permet d'ingérer et digérer de grandes quantités de nourriture, et qu'une bonne largeur de vue demande pareillement d'ingérer et digérer informations et savoirs sans s'en tenir à des bribes d'information, des fragments de savoir et des émotions soudaines.
 \xv bi˧mi˧ tɕi˩
 \xe Irritable, with little self-control; narrow-minded, parochial.
 \xn 肚量小，心胸狭隘
@@ -3448,7 +3449,7 @@
 
 \lx bo
 \or bbo
-\bw <langue="cmn"> 啵
+\bw <langue="cmn"> 啵？
 \ps disc.ptcl
 \lc --
 \sd <langue="fra"> morphosyntaxe
@@ -3903,14 +3904,16 @@
 \dt 24/Apr/2017
 
 \lx bo˧β
+\hm 1
 \or bbo
 \ps v
 \lc bo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> Il pourrait s'agir de deux verbes homophones, plutôt que de deux sens d'un même verbe. Le choix de les considérer comme deux sens d'un même verbe est motivé par la proximité relative des deux procès. Pour vanner, on secoue, et pour filer, on enroule par un mouvement circulaire; mais le fil ne tourne pas de façon lisse: il oscille sans cesse, d'où une certaine proximité sémantique avec ‘vanner’.
+\nt <dom="sem" langue="fra"> ‘Faire tourner’ et ‘vanner’ ont été considérés (avant la version 2 du dictionnaire) comme deux sens d'un même verbe. Lorsqu'on fait tourner la quenouille, pour filer, le mouvement n'est pas circulaire et uniforme: le fil oscille sans cesse, ce qui suggérait qu'une analogie existait avec le rythme de l'activité qui consiste à vanner, et que la langue na désignait les deux procès par un même terme. À la réflexion, cette hypothèse paraît tirée par les cheveux et les deux verbes sont considérés comme simplement homophones.
+\nt <dom="sem" langue="eng"> ‘To spin’ and ‘to winnow’ were considered (before version 2 of the dictionary) to be two meanings of the same verb. The movement of the distaff in spinning is not circular and uniform: the thread oscillates constantly, which suggested that an analogy existed with the rhythm of the activity of winnowing, and that the Na language designated the two processes by the same term. On reflection, this hypothesis seems far-fetched, and the two verbs are considered to be simply homophonous.
+\nt <dom="sem" langue="cmn"> ‘纺（线）’和‘簸扬’在本词典第2版之前被认为是同一个动词的两种含义。纺线时，纱杆的运动不是和均匀圆周的：纱线不断摆动，这样看，纺线活动的节奏与簸扬活动的节奏可能存在类比，摩梭语那个动词用于这两个过程。但经过反思，这一假设似乎有些牵强，因此这两个动词现在被认为只是同音。
 \ton Mβ
-\sn 1
 \so F4
 \de To spin.
 \ge to_spin
@@ -3922,11 +3925,20 @@
 \xe to spin hemp
 \xn 纺麻（线）
 \xf filer le lin
-\xv sɑ˧bo˧-di˧˥
-\xe Instrument for spinning hemp, that is: distaff (a stick or spindle onto which flax is wound for spinning).
-\xn 卷线杆、拉线棒
-\xf Instrument pour filer le lin, autrement dit: quenouille (instrument en bois pour enrouler le fil, pour filer le chanvre).
-\sn 2
+
+\lx bo˧β
+\hm 2
+\or bbo
+\ps v
+\lc bo˧
+\cf sɑ˧bo˧-di˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <dom="sem" langue="fra"> ‘Faire tourner’ et ‘vanner’ ont été considérés (avant la version 2 du dictionnaire) comme deux sens d'un même verbe. Lorsqu'on fait tourner la quenouille, pour filer, le mouvement n'est pas circulaire et uniforme: le fil oscille sans cesse, ce qui suggérait qu'une analogie existait avec le rythme de l'activité qui consiste à vanner, et que la langue na désignait les deux procès par un même terme. À la réflexion, cette hypothèse paraît tirée par les cheveux et les deux verbes sont considérés comme simplement homophones.
+\nt <dom="sem" langue="eng"> ‘To spin’ and ‘to winnow’ were considered (before version 2 of the dictionary) to be two meanings of the same verb. The movement of the distaff in spinning is not circular and uniform: the thread oscillates constantly, which suggested that an analogy existed with the rhythm of the activity of winnowing, and that the Na language designated the two processes by the same term. On reflection, this hypothesis seems far-fetched, and the two verbs are considered to be simply homophonous.
+\nt <dom="sem" langue="cmn"> ‘纺（线）’和‘簸扬’在本词典第2版之前被认为是同一个动词的两种含义。纺线时，纱杆的运动不是和均匀圆周的：纱线不断摆动，这样看，纺线活动的节奏与簸扬活动的节奏可能存在类比，摩梭语那个动词用于这两个过程。但经过反思，这一假设似乎有些牵强，因此这两个动词现在被认为只是同音。
+\ton Mβ
+\so F4
 \de To winnow.
 \ge to_winnow
 \dn 簸扬
@@ -3937,6 +3949,22 @@
 \xe to winnow something
 \xn 簸扬东西（用簸箕）
 \xf vanner quelque chose
+
+\lx sɑ˧bo˧-di˧˥
+\or sabboddi
+\ps n
+\sy ʈʂʰɤ˩˥
+\lc sɑ˧bo˧di˧˥
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton MH#
+\so F4
+\de Distaff (a stick or spindle onto which flax is wound for spinning). Literally: `instrument for spinning hemp'.
+\ge distaff
+\dn 卷线杆、拉线棒
+\gn 卷线杆
+\df Instrument pour filer le lin, autrement dit: quenouille (instrument en bois pour enrouler le fil, pour filer le chanvre).
+\gf quenouille
 
 \lx bo˩-bi˧mi˧
 \sf <nb="B"> 1940
@@ -4101,7 +4129,7 @@
 \ge pig_swill
 \dn 猪食
 \gn 猪食
-\df Nourriture du cochon/ pâtée des porcs.
+\df Nourriture du cochon, pâtée des porcs.
 \gf pâtée_des_porcs
 \dt 24/Apr/2017
 
@@ -4176,6 +4204,8 @@
 \lx bo˩-kʰv̩˧˥
 \hm 2
 \or bboq kuq
+\mr bo˩˧
+\mr kʰv̩˧˥
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -4188,7 +4218,6 @@
 \gn 属猪
 \df Né l'année du Cochon.
 \gf né_l_année_du_Cochon
-\dt 16/Jun/2017
 
 \lx bo˩ɬɑ˥
 \sf <nb="2011"> 2817
@@ -4249,6 +4278,7 @@
 \ton LH
 \so F4
 \pdv ɭɯ˧β
+\pdv do˥α
 \de Pork ribs.
 \ge pork_ribs
 \dn 猪肋骨
@@ -4263,6 +4293,8 @@
 \lx bo˩-mæ˧qv̩˩
 \sf <nb="2011"> 475
 \or bbomaegheu
+\mr bo˩˧
+\mr mæ˧qv̩˩
 \ps n
 \lc bo˩mæ˧qv̩˩
 \sd <langue="fra"> nourriture
@@ -4286,6 +4318,8 @@
 \sf <nb="B"> 1854
 \sf <nb="2011"> 2815
 \or bbomi
+\mr bo˩˧
+\mr -mi˩
 \ps n
 \lc bo˩mi˥
 \sd <langue="fra"> animal
@@ -4317,13 +4351,25 @@
 \xf …a vu (une/la) truie
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> Avais d'abord noté: |fv{bo˩mi˧ do˧ +ze˩}. Schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ). Vérifié en 2017: est en fait bien: |fv{bo˩mi˧ do˩}.
-\xv bo˩mi˧-bæ˧bv̩˥
-\xe sow and piglets
-\xn 母猪与猪仔
-\xf truie et porcelets
-\xc <dom="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/‡bæ˧bv̩˥-bo˩mi˩/}.
-\xc <dom="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/‡bæ˧bv̩˥-bo˩mi˩/}.
-\xc <dom="ton"> LM+H#
+
+\lx bo˩mi˧-bæ˧bv̩˥
+\or bbomi bbaebbu
+\mr bo˩mi˧
+\mr bæ˧bv̩˥
+\ps n
+\lc bo˩mi˧bæ˧bv̩˥
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\nt <dom="sem" langue="fra"> Il n'est pas usuel de construire le composé coordinatif dans l'ordre ‘porcelets et truie', |fv{/‡bæ˧bv̩˥-bo˩mi˩/}.
+\nt <dom="sem" langue="eng"> It is not usual to build the coordinative compound the other way round, ‘piglets and sow': |fv{/‡bæ˧bv̩˥-bo˩mi˩/}.
+\ton LM+H#
+\so F4
+\de Sow and piglets.
+\ge sow_and_piglets
+\dn 母猪与猪仔
+\gn 母猪与猪仔
+\df Truie et porcelets.
+\gf truie_et_porcelets
 
 \lx bo˩mi˧-dʑɯ˩pɻ̩˩
 \sf <nb="B"> 2219
@@ -4428,6 +4474,8 @@
 \sf <nb="B"> 390
 \sf <nb="2011"> 489
 \or bbome
+\mr bo˩˧
+\mr mɤ˩
 \ps n
 \lc bo˩mɤ˥
 \sd <langue="fra"> nourriture
@@ -4443,7 +4491,6 @@
 \gn 猪油
 \df Saindoux (gras de porc).
 \gf saindoux
-\dt 10/Jun/2017
 
 \lx bo˩pʰv̩˧
 \sf <nb="B"> 1855
@@ -4494,6 +4541,7 @@
 
 \lx bɤ˧ʂɯ˩
 \or Bbeshi
+\bw <langue="nxq"> bɤ˧ʂɯ˩
 \ps n
 \lc bɤ˧ʂɯ˩
 \sd <langue="fra"> lieu
@@ -4502,7 +4550,7 @@
 \so F4
 \de Baisha: name of a village of the Lijiang plain. The village had a tradition of trading and peddling to faraway places, hence its familiarity to people in Yongning. The Na rendering is identical to the Naxi name, |fv{/bɤ˧ʂɯ˩/}.
 \ge Baisha(village_name)
-\dn 白沙（丽江坝子里的一个村落）
+\dn 白沙（丽江坝子里的一个村落）。这个村子有做买卖、贩货到远方的传统，这也解释了为什么像永宁离丽江坝子那么远的村子里的人过去都听说过白沙这个小村子。
 \gn 白沙村
 \df Nom d'un village de la plaine de Lijiang, d'où venaient de nombreux marchands, d'où le fait que son nom soit connu à Yongning. La prononciation du nom en na est identique à celle en naxi: |fv{/bɤ˧ʂɯ˩/}.
 \gf village_de_Baisha
@@ -4603,12 +4651,12 @@
 \ge Bbecoggu
 \dn 巴搓古（永宁坝子的一个村落），在今永宁乡中心。经纬度：100.66164，27.75625
 \gn 巴搓古村
-\df Bbecoggu, un des villages de la plaine de Yongning; lieu de l'actuel marché; terme également employé pour désigner le lieu d'habitation des artisans naxi. Latitude: 27.75625, longitude: 100.66164.
+\df Bbecoggu, un des villages de la plaine de Yongning; lieu de l'actuel marché. Terme également employé pour désigner le lieu d'habitation des artisans naxi. Latitude: 27.75625, longitude: 100.66164.
 \gf Bbecoggu
 \xv bɤ˧tsʰo˧gv̩˥-hĩ˩
-\xe someone from Bacuogu
+\xe someone from Bbecoggu
 \xn 巴搓古的人
-\xf quelqu'un de Bacuogu
+\xf quelqu'un de Bbecoggu
 \xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
@@ -4732,18 +4780,17 @@
 \nt <type="hist" print="n" langue="fra"> ton confirmé en 2018: LM+#H
 \ton LM+#H
 \so F4
-\de “Piggy-Boy": a term used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
+\de “Piggy-Boy": a term used as a temporary name for baby boys, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
 \ge Piggy_Boy
-\dn 猪崽子（乳名、贱名：给刚出生的男孩起的名字，让鬼对她不感兴趣，不会来害小孩）
-\gn 猪崽子
-\df «Petit Porc»: nom employé pour les petits garçons pendant leurs premiers mois, avant qu'on leur donne un vrai nom. Le vilain nom dont on affuble l'enfant vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.)
+\dn 猪崽子。乳名（贱名、护身名）：摩梭人（同汉族人）相信给新生儿取一个不好听或贬低的名字可以保护她们免受邪灵和疾病的侵害。名字越贬低，鬼怪就越会鄙视这个孩子，从而不去打扰他。
+\gn ‘猪崽子’
+\df «Petit Porc»: terme utilisé comme nom temporaire pour les bébés de sexe masculin, pendant les premiers mois de leur vie, avant qu'ils ne reçoivent un vrai nom. La pratique consistant à affubler les nouveau-nés d'un nom temporaire désagréable ou dégradant vise à les protéger des mauvais esprits et du malheur. Cette pratique découle d'une croyance (partagée par d'autres groupes ethniques en Chine) selon laquelle, en donnant à un enfant un nom peu attrayant, on suscitera le dégoût des esprits malveillants et des démons, qui se détourneront de l'enfant. (L'état-civil nécessite qu'un nom soit donné dès la naissance, mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.) Cette coutume est connue en chinois comme «nom de protection».
 \gf Petit_Porc
 \xv bo˩zo˧ ɲi˥
 \xe 〜 |fg{cop}
 \xn 是“猪崽子”
 \xf 〜 |fg{cop}
 \xc PHONO
-\dt 10/Jun/2017
 
 \lx bɤ˧zo#˥
 \sf <nb="B"> 252b
@@ -5148,15 +5195,18 @@
 \or bbeuddae
 \mr bɻ̩˧
 \mr ɖæ˥
+\mc <langue="fra"> Littéralement «à intestin court» : dans la représentation populaire, les intestins courts sont associés à des réactions émotionnelles hâtives et précipitées, tandis que les intestins longs permettent à leur propriétaire de digérer calmement les contrariétés.
+\mc <langue="eng"> Literally ‘short-intestined': in folk representation, short intestines are associated with hasty emotional reactions, whereas long intestines allow their owner to digest vexations calmly.
+\mc <langue="cmn"> 字面意思是“（有）短短的肠子”：在民间思想中，短短的肠子则导致匆忙的情绪反应，而长长的肠子能让人平静地消化烦恼。
 \ps adj
 \lc bɻ̩˧ɖæ˧
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
 \ton M
 \so F4
-\de With a bad temper, impatient. Literally ‘short-intestined': in folk representation, short intestines are associated with hasty emotional reactions, whereas long intestines allow their owner to digest vexations calmly.
+\de With a bad temper, impatient.
 \ge bad-tempered
-\dn 脾气坏。直译：‘肠子短’。
+\dn 脾气坏。
 \gn 脾气坏
 \df Ayant mauvais caractère; impatient.
 \gf impatient
@@ -5284,6 +5334,7 @@
 \lx bɻ̩˧kʰɯ˧˥
 \sf <nb="2011"> 2753
 \or bbeukee
+\mr bɻ̩˥
 \ps n
 \lc bɻ̩˧kʰɯ˧˥
 \sd <langue="fra"> animal
@@ -5378,11 +5429,11 @@
 \ton #H-
 \so F4
 \va <speaker="F5"> *
-\de Black insects. This term can cover a variety of insects. It is used, for instance, to describe the Northern armyworm (rice ear-cutting caterpillar): |fi{Mythimna separata (Walker)}, a moth of the Noctuidae family.
+\de Black insects. This term can cover a variety of insects. It is used, for instance, to describe the Northern armyworm: |fi{Mythimna separata (Walker)}, a moth of the Noctuidae family.  (rice ear-cutting caterpillar). The caterpillars feed on the leaves, causing damage to the tips and margins, sometimes leaving only the midrib intact (skeletonization). Older caterpillars can destroy entire seedlings from the base. A characteristic sign is the cutting of the base of panicles, causing them to fall or fold, hence the name ‘rice ear-cutting caterpillar’.
 \ge black_insects
-\dn 黑色昆虫。这一词可涵盖多种昆虫，如粘虫： |fi{Mythimna separata (Walker)}，属于夜蛾科。
+\dn 黑色昆虫。这一词可涵盖多种昆虫，如粘虫： |fi{Mythimna separata (Walker)}，属于夜蛾科。粘虫以叶片为食，损害叶尖和叶缘，有时只留下中脉。较大的粘虫会破坏整株幼苗。一个特征性的迹象是：粘虫切割圆锥花序的基部，导致其倒伏或折叠。
 \gn 黑色昆虫
-\df Insectes noirs. Ce terme peut recouvrir une grande variété d'insectes. Il est utilisé, par exemple, pour décrire la chenille légionnaire du Nord (chenille qui coupe les épis de riz): |fi{Mythimna separata (Walker)}, un papillon de nuit de la famille des Noctuidae.
+\df Insectes noirs. Ce terme peut recouvrir une grande variété d'insectes. Il est utilisé, par exemple, pour décrire la chenille légionnaire du Nord: |fi{Mythimna separata (Walker)}, un papillon de nuit de la famille des Noctuidae. Les chenilles se nourrissent des feuilles, provoquant des dégâts sur les extrémités et les bords, et ne laissant parfois que la nervure centrale intacte (squelettisation). Les chenilles plus âgées peuvent détruire des plantules entières à partir de la base. Un signe caractéristique est la coupure de la base des panicules, causant leur chute ou leur pliure.
 \gf insectes_noirs
 
 \lx bɻ̩˧pʰɻ̩˧˥
@@ -5459,6 +5510,7 @@
 \mr bɻ̩˩˧
 \ps n
 \lc bɻ̩˧pʰv̩˧
+\sy bɻ̩˩ʂwæ˩
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton M
@@ -25318,7 +25370,7 @@
 \sf <nb="2011"> 508
 \hm 3
 \or ye
-\bw <langue="cmn"> 烟?
+\bw <langue="cmn"> 烟？
 \mc <langue="fra"> Il pourrait s'agir d'un emprunt chinois ancien: |fn{烟}.
 \mc <langue="eng"> It could be an early Chinese loan: |fn{烟}.
 \mc <langue="cmn"> 可能是早期汉语借词，来自‘烟’。
@@ -29401,7 +29453,7 @@
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
 \xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
-\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal sacré dans la culture na.)
+\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
 
 \lx di˧qo˧-kʰv̩˩mi˩
 \or ddigho kumi
@@ -29444,19 +29496,27 @@
 \or kumu
 \ps n
 \lc kʰv̩˧mv̩˥
+\sn 1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> Même terme pour les chiots femelles
 \ton H#
 \so F4
 \pdv v̩˧
-\de Female puppy. The term is also used as a temporary name for little girls, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
+\de Female puppy.
 \ge female_puppy
-\dn 小母狗（给刚出生的女孩起的名字，让鬼对她不感兴趣，不会来害小孩）
+\dn 小母狗
 \gn 小母狗
-\df Chienne, petit chiot femelle. Le terme est également employé comme nom provisoire pour les fillettes pendant leurs premiers mois, avant qu'on ne leur donne un vrai nom. Le vilain nom dont on l'affuble vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.)
+\df Chiot femelle, petite chienne.
 \gf petite_chienne
-\dt 24/Apr/2017
+\sn 2
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\de “Puppy-Girl": a term used as a temporary name for baby girls, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
+\ge Puppy_Girl
+\dn ‘小母狗’、‘狗崽子’。乳名（贱名、护身名）：摩梭人（同汉族人）相信给新生儿取一个不好听或贬低的名字可以保护她们免受邪灵和疾病的侵害。名字越贬低，鬼怪就越会鄙视这个孩子，从而不去打扰他。
+\gn ‘小母狗’
+\df «Petite Chienne»: terme utilisé comme nom temporaire pour les bébés de sexe féminin, pendant les premiers mois de leur vie, avant qu'elles ne reçoivent un vrai nom. La pratique consistant à affubler les nouveau-nés d'un nom temporaire désagréable ou dégradant vise à les protéger des mauvais esprits et du malheur. Cette pratique découle d'une croyance (partagée par d'autres groupes ethniques en Chine) selon laquelle, en donnant à un enfant un nom peu attrayant, on suscitera le dégoût des esprits malveillants et des démons, qui se détourneront de l'enfant. (L'état-civil nécessite qu'un nom soit donné dès la naissance, mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.) Cette coutume est connue en chinois comme «nom de protection».
+\gf «Petite_Chienne»
 
 \lx kv̩˩nɑ˧˥
 \sf <nb="2011"> 521
@@ -29940,13 +30000,12 @@
 \lc kʰv̩˧zo˧bo˩zo˥
 \so F4
 \pdv v̩˧
-\de Dog-pig, doggy-piggy. The term is used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
+\de ‘Dog-pig’, ‘doggy-piggy’: a term used as a temporary name for baby boys, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
 \ge doggy_piggy
-\dn 小畜生，直译：猪崽子、狗崽子
+\dn 小畜生，直译：猪崽子、狗崽子。乳名（贱名、护身名）：摩梭人（同汉族人）相信给新生儿取一个不好听或贬低的名字可以保护她们免受邪灵和疾病的侵害。名字越贬低，鬼怪就越会鄙视这个孩子，从而不去打扰他。
 \gn 小畜生
-\df Chien-cochon, cochon-clébard. Terme employé comme nom provisoire pour les garçonnets pendant leurs premiers mois, avant qu'on ne leur donne un vrai nom. Le vilain nom dont on l'affuble vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.)
-\gf petit_chien_petit_cochon
-\dt 24/Apr/2017
+\df ‘Chien-cochon’, ‘cochon-clébard’: terme utilisé comme nom temporaire pour les bébés de sexe masculin, pendant les premiers mois de leur vie, avant qu'ils ne reçoivent un vrai nom. La pratique consistant à affubler les nouveau-nés d'un nom temporaire désagréable ou dégradant vise à les protéger des mauvais esprits et du malheur. Cette pratique découle d'une croyance (partagée par d'autres groupes ethniques en Chine) selon laquelle, en donnant à un enfant un nom peu attrayant, on suscitera le dégoût des esprits malveillants et des démons, qui se détourneront de l'enfant. (L'état-civil nécessite qu'un nom soit donné dès la naissance, mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.) Cette coutume est connue en chinois comme «nom de protection».
+\gf ‘cochon-clébard’
 
 \lx kʰv̩˧zo˥$
 \or Kusso
@@ -29978,19 +30037,19 @@
 \lx kʰv̩˧zo#˥
 \or kusso
 \ps n
+\sn 1
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <dom="sem" langue="fra"> Même terme pour les chiots mâles.
 \ton #H
 \lc kʰv̩˧zo˧
 \so F4
 \pdv v̩˧
 \pdv mi˩β
 \pdv ɭɯ˧β
-\de Male dog. The term is also used as a temporary name for little boys, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
-\dn 公狗（给刚出生的男孩子的名字，让鬼对他不感兴趣，不过来害小孩）
+\de Male dog.
+\dn 公狗
 \gn 公狗
-\df Chien (mâle), chiot. Le terme est également employé comme nom provisoire pour les garçonnets pendant leurs premiers mois, avant qu'on ne leur donne un vrai nom. Le vilain nom dont on l'affuble vise à éviter que le nourrisson ne soit repéré par de mauvais esprits. (Actuellement, l'état-civil nécessite qu'un nom soit donné dès la naissance; mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.)
+\df Chien (mâle); chiot.
 \gf petit_chien
 \xv kʰv̩˧zo˧ ʈʂʰɯ˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}
@@ -30007,12 +30066,32 @@
 \xn 〜 |fg{指示代词} |fg{量词}：那只公狗
 \xf 〜 |fg{dem} |fg{clf}
 \xc PHONO
-\xv kʰv̩˧zo˥-kʰv̩˩mv̩˩
-\xe puppy and she-dog
-\xn 小狗与母狗
-\xf chien et chienne
-\xc PHONO
-\xc <dom="ton"> H#-
+\sn 2
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\de “Puppy-Boy": a term used as a temporary name for baby boys, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
+\ge Puppy_Boy
+\dn ‘小狗’、‘狗崽子’。乳名（贱名、护身名）：摩梭人（同汉族人）相信给新生儿取一个不好听或贬低的名字可以保护她们免受邪灵和疾病的侵害。名字越贬低，鬼怪就越会鄙视这个孩子，从而不去打扰他。
+\gn ‘小狗’
+\df «Petit Chien»: terme utilisé comme nom temporaire pour les bébés de sexe masculin, pendant les premiers mois de leur vie, avant qu'ils ne reçoivent un vrai nom. La pratique consistant à affubler les nouveau-nés d'un nom temporaire désagréable ou dégradant vise à les protéger des mauvais esprits et du malheur. Cette pratique découle d'une croyance (partagée par d'autres groupes ethniques en Chine) selon laquelle, en donnant à un enfant un nom peu attrayant, on suscitera le dégoût des esprits malveillants et des démons, qui se détourneront de l'enfant. (L'état-civil nécessite qu'un nom soit donné dès la naissance, mais celui-ci ne commence à être employé dans les conversations familiales qu'une fois passés les premiers mois.) Cette coutume est connue en chinois comme «nom de protection».
+\gf «Petit_Chien»
+
+\lx kʰv̩˧zo˥-kʰv̩˩mv̩˩
+\or kusso kumu
+\mr kʰv̩˧zo#˥
+\mr kʰv̩˧mv̩˥
+\ps n
+\lc kʰv̩˧zo˥kʰv̩˩mv̩˩
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton H#-
+\so F4
+\de Puppy and she-dog.
+\ge puppy_and_she_dog
+\dn 小狗与母狗
+\gn 小狗与母狗
+\df Chiot et chienne.
+\gf chiot_et_chienne
 
 \lx kv̩˩α
 \sf <nb="B"> 2271
@@ -56136,7 +56215,7 @@
 \ge |fg{clf}.heaps
 \dn |fg{量词}：堆（一堆粮食、一堆柴……）
 \gn 量词.堆
-\df Classificateur des tas / amoncellements (de céréales, de bois coupé…); littéralement: ‘une montagne de'.
+\df Classificateur des tas et amoncellements (de céréales, de bois coupé…); littéralement: ‘une montagne de'.
 \gf |fg{clf}.tas
 \xv ɖɯ˧-ʁwɤ˧ tʰi˧-tɕɯ˥
 \xe to arrange into a heap
@@ -66902,7 +66981,7 @@
 
 \lx fv̩˩
 \or fu
-\bw <langue="cmn"> 副?
+\bw <langue="cmn"> 副？
 \ps clf
 \lc ɖɯ˧ fv̩˩
 \sd <langue="fra"> classificateur
@@ -83561,7 +83640,7 @@
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩-pɤ˥to˩ dzɯ˩-kv̩˩!
 \xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
-\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal sacré dans la culture na.)
+\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
 \xv bo˩-pɤ˥to˩; lɑ˧-pɤ˧to˩; mv̩˩-pɤ˥to˩; ʐwæ˧-pɤ˧to˩; ɬi˧mi˧-pɤ˧to˩; ɲi˧mi˧-pɤ˧to˩; hwɤ˧li˧-pɤ˥-to˩; hwɤ˧mi˧-pɤ˥to˩; kʰv̩˩mi˩-pɤ˥-to˩; ʁo˧dzi˩-pɤ˩to˩; ʝi˩ʈʂæ˧-pɤ˥to˩; nɑ˩hĩ˧-pɤ˧to˩; bo˩mi˧-pɤ˧to˩; bo˩ɬɑ˧-pɤ˩to˩; ʁæ˧ʈv̩˥-pɤ˩to˩
 \xe combinations with nouns of the various tone categories
 \xn 与不同声调类的名词结合
