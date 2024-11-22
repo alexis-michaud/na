@@ -5622,11 +5622,11 @@
 \pdc <langue="fra"> |fg{clf} des paires. Explication: les conques vont par paires, chaque maisonnée en possède une paire.
 \pdc <langue="eng"> Pair. Explanation: conch shells come in pairs, with each household owning a pair.
 \pdc <langue="cmn"> 海螺壳是成双成对的，每家每户都有一对。
-\de Conch shell, |fi{Turbinella pyrum L.}. It is blown like a trumpet during ceremonies. Each family owns a pair.
+\de Conch shell, |fi{Turbinella pyrum L.}, blown like a trumpet during ceremonies. Each family owns a pair.
 \ge conch_shell
 \dn 法螺、海螺、螺号。在仪式上像喇叭一样吹响。每个家庭都有一对。
 \gn 法螺
-\df Conque, |fi{Turbinella pyrum L.}. On y souffle, comme dans une trompe, lors des cérémonies. Chaque famille en possède une paire.
+\df Conque, |fi{Turbinella pyrum L.}, utilisée comme trompe lors des cérémonies. Chaque famille en possède une paire.
 \gf conque
 \sn 2
 \sd <langue="fra"> corps
@@ -13806,11 +13806,11 @@
 \ton L+H#
 \lc dʑɯ˩tɕʰɯ˩lɑ˩qʰæ˥
 \so F4
-\de Buckthorn, |fi{Hippophae rhamnoides Linn.}.
+\de Buckthorn, |fi{Hippophae rhamnoides Linn.}
 \ge buckthorn
 \dn 沙棘
 \gn 沙棘
-\df Argousier, |fi{Hippophae rhamnoides Linn.}.
+\df Argousier, |fi{Hippophae rhamnoides Linn.}
 \gf argousier
 \dt 13/Jun/2017
 
@@ -15205,12 +15205,12 @@
 \ton M
 \lc ə˧dze˧
 \so F4
-\de Purple gromwell, red-root gromwell, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\de Purple gromwell, red-root gromwell, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}
 \ge purple_gromwell
 \dn 紫草
 \gn 紫草
 \gr 紫红草
-\df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}
 \gf grémil_des_teinturiers
 \xv ə˧dze˧-bæ˩bæ˩
 \xe gromwell flowers
@@ -15227,12 +15227,12 @@
 \ton -L
 \lc ə˧dze˧njɤ˩hṽ̩˩
 \so F4
-\de Purple gromwell, red-root gromwell, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\de Purple gromwell, red-root gromwell, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}
 \ge purple_gromwell
 \dn 紫草
 \gn 紫草
 \gr 紫红草
-\df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}.
+\df Grémil des teinturiers, |fi{Lithospermum erythrorhizon Sieb. et Zucc.}
 \gf grémil_des_teinturiers
 
 \lx ə˧-dzɤ˥$
@@ -15686,14 +15686,13 @@
 \ton L+H#-
 \lc ə˩ljɤ˩hæ̃˩ʂɯ˥mo˩
 \so F4
-\de A sort of mushroom: |fi{Hygrophorus lucorum Kalc hbr.}.
+\de Larch waxy cap, |fi{Hygrophorus lucorum var. speciosus (Peck) Krieglst} (formerly |fi{Hygrophorus lucorum Kalchbr.}). Literally ‘golden mushroom’. This fungus is specifically associated with larches in a mycorrhizal relationship. It is distinguished by its slimy, bright yellow to orange cap and white to cream-coloured blades. It is one of the mushrooms eaten by the Na.
 \ge |fi{Hygrophorus lucorum Kalc hbr.}
-\dn 柠檬黄蜡伞（一种菌子）
+\dn 柠檬黄蜡伞（一种菌子），|fi{Hygrophorus lucorum var. speciosus (Peck) Krieglst}。
 \gn 柠檬黄蜡伞
 \gr 黄蜡伞
-\df Grand champignon jaune vif, comestible: |fi{Hygrophorus lucorum Kalc hbr.}. Littéralement «champignon doré».
+\df Hygrophore des mélèzes, |fi{Hygrophorus lucorum var. speciosus (Peck) Krieglst} (anciennement |fi{Hygrophorus lucorum Kalchbr.}). Littéralement «champignon doré». Ce champignon est spécifiquement associé aux mélèzes dans une relation mycorhizienne. Il se distingue par son chapeau visqueux de couleur jaune vif à orangé et ses lames blanches à crème. Il fait partie des champignons consommés par les Na.
 \gf champignon_doré
-\dt 24/Apr/2017
 
 \lx ə˧mɑ˧
 \sf <nb="2011"> 360
@@ -71742,11 +71741,11 @@
 \pdc <langue="fra"> |fg{clf} pour les étendues de terre
 \pdc <langue="eng"> |fg{clf} for tracts of land
 \pdc <langue="cmn"> 用于土地的|fg{量词}
-\de Highland barley, |fi{Hordeum vulgare var. nudum Hook. f.}.
+\de Highland barley, |fi{Hordeum vulgare var. nudum Hook. f.}
 \ge barley
 \dn 青稞
 \gn 青稞
-\df Orge d'altitude, |fi{Hordeum vulgare var. nudum Hook. f.}.
+\df Orge d'altitude, |fi{Hordeum vulgare var. nudum Hook. f.}
 \gf orge
 \xv tsʰi˧zi˧ | nɑ˩-hĩ˩˥
 \xe black barley
@@ -81274,7 +81273,7 @@
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
 \pdc <langue="eng"> |fg{clf} for plants with a stalk
 \pdc <langue="cmn"> 有根的植物的|fg{量词}
-\de Sabai grass, |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}.
+\de Sabai grass, |fi{Eulaliopsis binata (Retz.) C. E. Hubb.}
 \ge sabai_grass
 \dn 蓑草、山草、山草根、龙须草、山茅草、羊草、拟金茅
 \gn 蓑草
