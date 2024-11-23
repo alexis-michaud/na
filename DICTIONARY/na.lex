@@ -7460,6 +7460,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc dɑ˧pv̩˧
+\nt <type="hist" print="n"> xxxx Définition fournie par M18, intégrée à des versions antérieures à la version 2.0 : 依杜的主人。“依杜”指摩梭的人户。 À vérifier: quel mot na correspond à l'approximation chinoise 依杜.
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -7473,7 +7474,7 @@
 \gf hôte
 \xv ʑi˧dv̩˧ dɑ˧pv̩˧
 \xe the family host, the member of the family who has the role of host
-\xn 家的主人（依杜的主人。“依杜”指摩梭的人户。）
+\xn 家的主人。
 \xf l'hôte de la maison
 \xv ʑi˧dv̩˧-ʝi˧-hĩ˧ dɑ˧pv̩˧
 \xe the member of the family who has the role of host
@@ -7755,10 +7756,10 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> Négation: /mɤ˧-di˧˥/.
-\nt <type="hist" print="n" langue="fra"> /tʰi˧di˩di˩/: la séquence M.L.L (˧ ˩˩) n'est pas évidente à reconnaître, du fait qu'elle ressemble phonétiquement à M.M.L (˧ ˧ ˩). L'interprétation phonologique comme M.L.L est néanmoins bien établie.
 \ton MH
 \lc di˧˥
+\cf tɕʰɯ˩di˩
+\cf di˩~di˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -7769,18 +7770,62 @@
 \gn 赶
 \df Poursuivre, chasser; disperser, repousser, faire déguerpir: par exemple, chasser la volaille vers la basse-cour, lorsque poules et oies s'aventurent jusque dans la maison.
 \gf chasser/disperser
-\xv tɕʰɯ˩di˩˥
-\xe to hunt the muntjac; to hunt
-\xn 赶麂子，狩猎
-\xf chasser le muntjac; chasser
+\xv mɤ˧-di˧˥
+\xe not to hunt
+\xn 不赶
+\xf ne pas chasser
+\xc PHONO xxxxxx
+
+\lx tɕʰɯ˩di˩
+\or qiddi
+\mr tɕʰɯ˩˥
+\mr di˧˥1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L
+\lc tɕʰɯ˩di˩˥
+\cf di˧˥1
+\cf di˩~di˧˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\sn 1
+\de To hunt the muntjac.
+\ge to_hunt_the_muntjac
+\dn 赶麂子
+\gn 赶麂子
+\df Chasser le muntjac.
+\gf chasser_le_muntjac
+\sn 2
+\de To hunt (extended sense).
+\ge to_hunt
+\dn 狩猎
+\gn 狩猎
+\df Chasser.
+\gf chasser
 \xv tɕʰɯ˩di˩-bi˩-ni˩gv̩˩˥
 \xe to have a habit of hunting, to have a fondness for hunting
 \xn 有打猎的习惯、喜欢打猎
 \xf avoir l'habitude de chasser
-\xv di˩~di˧˥
-\xe |fg{red}: to hunt, to track
-\xn |fg{重叠}：跟着、追着
-\xf |fg{red}: suivre à la trace, pister
+
+\lx di˩~di˧˥
+\or ddiddi
+\mr di˧˥1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L+MH#
+\sy di˧˥1
+\lc di˩di˧˥
+\so F4
+\de To hunt, to track; to scatter, to drive out, to drive away: for example, chasing poultry to the barnyard, when hens and geese venture into the house.
+\ge to_drive_out/away
+\dn 跟、追，打散，驱赶，撵，赶，打猎
+\gn 追
+\df Poursuivre, chasser; disperser, repousser, faire déguerpir: par exemple, chasser la volaille vers la basse-cour, lorsque poules et oies s'aventurent jusque dans la maison.
+\gf chasser/disperser
 \xv di˩~di˧-ze˥
 \xe 〜 |fg{red} |fg{pfv}: has hunted, has tracked
 \xn |fg{重叠}＋整体体：追了
@@ -7790,6 +7835,9 @@
 \xe |fg{dur} 〜 |fg{red}
 \xn |fg{持续体} 〜 |fg{重叠}
 \xf |fg{dur} 〜 |fg{red}
+\xc <dom="phono" langue="fra"> La séquence M.L.L dans |fv{tʰi˧-di˩~di˩} n'est pas évidente à reconnaître à l'oreille. Elle ressemble phonétiquement à M.M.L. L'interprétation phonologique comme M.L.L est néanmoins bien établie.
+\xc <dom="phono" langue="eng"> The M.L.L sequence in |fv{tʰi˧-di˩~di˩} is not obvious to the ear. It is phonetically similar to M.M.L. The phonological interpretation as M.L.L is well established nevertheless.
+\xc <dom="phono" langue="cmn"> |fv{tʰi˧-di˩~di˩}这个短语的M.L.L声调序并不明显。实际发音听起来接近M.L.L。但还是可以确认，在音系层次上是M.L.L。
 
 \lx di˧˥
 \sf <nb="B"> 1579
@@ -9000,9 +9048,9 @@
 \df Grand.
 \gf grand
 \xv mɤ˧-ɖɯ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not large
 \xn 不大
-\xf |fg{neg}
+\xf |fg{neg} 〜: pas grand
 \xc PHONO
 \xv ɖɯ˩-hĩ˩˥
 \xe 〜 |fg{rel}
@@ -11618,9 +11666,9 @@
 \df Existentiel pour les êtres animés (dont les personnes).
 \gf |fg{exist.êtres_animés}
 \xv mɤ˧-dʑo˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: is not present
 \xn 没有、不在
-\xf |fg{neg}
+\xf |fg{neg} 〜: n'est pas présent
 \xc PHONO
 \xv ʈʂʰɯ˧ | ɑ˩ʁo˧ ə˧-dʑo˥?
 \xe Is (s)he at home?
@@ -17749,10 +17797,9 @@
 \df Manquer de.
 \gf manquer_de
 \xv mɤ˧-gɤ˧
-\xe |fg{neg}: not to lack
+\xe |fg{neg} 〜: not to lack
 \xn 不缺乏
-\xf |fg{neg}: ne pas manquer de
-\dt 24/Apr/2017
+\xf |fg{neg} 〜: ne pas manquer de
 
 \lx go˩bi˧
 \or Ggobbi
@@ -18512,9 +18559,9 @@
 \df Habile, compétent, bon.
 \gf habile
 \xv mɤ˧-ɣɯ˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: lacking competence, unskilled
 \xn 不能干
-\xf |fg{neg}
+\xf |fg{neg} 〜: pas compétent, pas habile
 \xv ʈʂʰɯ˧-ɳɯ˧, | bɑ˩lɑ˩ hwæ˧ | ɣɯ˧!
 \xe He/she is very good at buying clothes! / He/she has talent for choosing clothes!
 \xn 他很会买衣服！
@@ -18853,9 +18900,9 @@
 \xn 非常好。
 \xf 〜 |fg{intensif}: extrêmement bon
 \xv mɤ˧-gv̩˧
-\xe |fg{neg}
+\xe |fg{neg} 〜: not good
 \xn 不好
-\xf |fg{neg}
+\xf |fg{neg} 〜: pas bon
 \xc PHONO
 
 \lx gv̩˧
@@ -20642,9 +20689,9 @@
 \df Devoir, falloir.
 \gf devoir/falloir
 \xv mɤ˧-hĩ˧˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: ...must not
 \xn 否定
-\xf |fg{neg}
+\xf |fg{neg} 〜: il ne faut pas
 \xc PHONO
 \xv no˧ | ʝi˧-hĩ˧˥!
 \xe You have to do it!
@@ -22275,9 +22322,9 @@
 \df Exact, correct; adapté, convenable.
 \gf correct
 \xv mɤ˧-ho˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: wrong
 \xn 不合适，不准，不对
-\xf |fg{neg}: faux, erroné, inapproprié
+\xf |fg{neg} 〜: faux, erroné, inapproprié
 \xv ho˩-ze˥!
 \xe |fg{pfv}
 \xn |fg{整体体}：对了！／准确！
@@ -22358,9 +22405,9 @@
 \xn 很好！
 \xf |fg{intensif.très}: c'est très bien!
 \xv mɤ˧-hɤ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not nice, not suitable
 \xn 不好
-\xf |fg{neg}
+\xf |fg{neg} 〜: pas approprié, pas bien
 \xc PHONO
 \xv hɤ˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
@@ -22838,9 +22885,9 @@
 \xc <langue="eng" dom="dialect"> According to consultant Ddeezzhi, the most accurate Chinese translation of the expression would be |fn{欺负人}, ‘to humiliate someone'. This remark does not seem fully justified from a linguistic point of view, but the association of ideas underlines the proximity between one-off annoyance (literal meaning of the word: ‘to annoy') and the perception that a person may have who feels resentment of a social status that places him or her in an unfavourable position in relations of authority and power. Resentment translates into a feeling of humiliation.
 \xc <langue="cmn" dom="dialect"> 何独知认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
 \xv mɤ˧-hṽ̩˩~hṽ̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to annoy
 \xn 不干扰
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas ennuyer
 \xc PHONO
 
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
@@ -23379,9 +23426,9 @@
 \df Participer à une cérémonie funèbre; littéralement «envoyer quelqu'un», c'est-à-dire accompagner quelqu'un vers l'au-delà.
 \gf participer_à_une_cérémonie_funèbre
 \xv mɤ˧-hwɤ˥
-\xe |fg{neg} 〜
+\xe |fg{neg} 〜: not to participate in a funeral ceremony
 \xn 否定 〜
-\xf |fg{neg} 〜
+\xf |fg{neg} 〜: ne pas participer à une cérémonie funèbre
 \xc PHONO
 \xv hĩ˧ hwɤ˥
 \xe To participate in a funeral ceremony (literally ‘to see someone out').
@@ -24310,9 +24357,9 @@
 \df Dessiner, tracer.
 \gf dessiner
 \xv mɤ˧-ʝi˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to draw
 \xn 不画
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas dessiner
 \xc PHONO
 \xv tʰɑ˧-ʝi˥!
 \xe |fg{proh}
@@ -25375,10 +25422,9 @@
 \df Bien (ne s'utilise qu'en tournure négative).
 \gf bien
 \xv mɤ˧-jɤ˧
-\xe |fg{neg}: it's not good! It's not right! (About someone's behaviour)
+\xe |fg{neg} 〜: it's not good! It's not right! (About someone's behaviour)
 \xn 不好（形容一个人的行为）
-\xf |fg{neg}: ce n'est pas bien! / c'est pas beau, ça! (Au sujet du comportement de quelqu'un)
-\dt 02/Sep/2015
+\xf |fg{neg} 〜: ce n'est pas bien! / c'est pas beau, ça! (Au sujet du comportement de quelqu'un)
 
 \lx jɤ˧
 \sf <nb="B"> 943
@@ -25402,11 +25448,10 @@
 \df Plat.
 \gf plat
 \xv mɤ˧-jɤ˧
-\xe |fg{neg}: not flat; uneven
+\xe |fg{neg} 〜: not flat; uneven
 \xn 不平
-\xf |fg{neg}: pas plat; inégal
+\xf |fg{neg} 〜: pas plat; inégal
 \xc PHONO
-\dt 02/Sep/2015
 
 \lx jɤ˧
 \sf <nb="B"> 400
@@ -36937,9 +36982,9 @@
 \xn 很贪吃
 \xf très avide de nourriture
 \xv mɤ˧-hɑ˧ mo˧!
-\xe |fg{neg}: not greedy
+\xe |fg{neg} 〜: not greedy
 \xn 不贪吃
-\xf |fg{neg}: pas avide
+\xf |fg{neg} 〜: pas avide
 \xc <langue="fra" dom="synt"> Pour faire porter la négation sur l'expression, la négation précède l'expression entière.
 \xc <langue="eng" dom="synt"> Negating the phrase is achieved with negation preceding the entire phrase.
 \xc <langue="cmn" dom="synt"> 否定词是在整个短语前面加上的。
@@ -37770,7 +37815,6 @@
 \gn 否定
 \df Negation.
 \gf |fg{neg}
-\dt 04/Sep/2015
 
 \lx mv̩˩˥
 \sf <nb="B"> 289
@@ -40202,11 +40246,10 @@
 \xf 〜 |fg{rel}
 \xc PHONO
 \xv mɤ˧-nɑ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not dark
 \xn 不黑
-\xf |fg{neg}
+\xf |fg{neg} 〜: pas sombre
 \xc PHONO
-\dt 25/Apr/2017
 
 \lx nɑ˩bɑ˧-ʁɑ˧ɭɯ#˥
 \or Nabbahralee
@@ -42132,11 +42175,10 @@
 \xn 看别的方向，不直接看（蔑视态度）
 \xf se détourner de quelqu'un, détourner la tête face à quelqu'un (que l'on méprise, déteste…)
 \xv mɤ˧-njæ˥qv̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to turn away
 \xn 否定 〜
-\xf |fg{neg}: ne pas détourner le regard (face à quelqu'un)
+\xf |fg{neg} 〜: ne pas détourner le regard (face à quelqu'un)
 \xc PHONO
-\dt 21/Jun/2017
 
 \lx njæ˩qwæ˧˥
 \sf <nb="B"> 368
@@ -43692,9 +43734,9 @@
 \df Apprendre une nouvelle; être au courant de.
 \gf apprendre_une_nouvelle
 \xv mɤ˧-ɳv̩˥
-\xe I am not aware of this piece of news! / I didn't know about that!
+\xe |fg{neg} 〜: I am not aware of this piece of news! / I didn't know about that!
 \xn （我）不知道这个消息！
-\xf |fg{neg}: je ne suis pas au courant!
+\xf |fg{neg} 〜: je ne suis pas au courant!
 \xv no˧ ə˧tso˧ ɳv̩˧?
 \xe Which piece of news did you get? / What did you get to know?
 \xn 你听到了什么消息呢？
@@ -46330,9 +46372,9 @@
 \df Se draper de, endosser, mettre sur son dos. Le fait de porter un vêtement sur les épaules sans le boutonner était considéré comme mal élevé: seuls les voleurs gardent la veste ouverte, pour y fourrer subrepticement leur butin.
 \gf se_draper_de
 \xv mɤ˧-pʰo˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to drape oneself
 \xn 不披
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas se draper
 \xc PHONO
 \xv bɑ˩lɑ˩ qɑ˩-pʰo˩˥
 \xe to put on a shirt without buttoning up
@@ -46730,9 +46772,9 @@
 \df Faire la guerre.
 \gf faire_la_guerre
 \xv mɤ˧-pʰo˩lɑ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to wage war
 \xn 不打仗
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas faire la guerre
 \xv pʰo˩lɑ˧˥ | ɖɯ˧-kʰv̩˧˥
 \xe a year of war, a year during which there was war
 \xn 打仗的一年
@@ -49568,9 +49610,9 @@
 \xn 不要骗人！（这个信条，是发音合作人的祖母教的）
 \xf il ne faut pas tromper (autrui)! (précepte inculqué à la locutrice par sa grand-mère)
 \xv mɤ˧-qæ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to cheat
 \xn 不骗
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas tromper
 \xc PHONO
 \xv hĩ˧ qæ˥-tso˩~tso˩!
 \xe Shoddy stuff! (Literally: ‘deceitful stuff!') (Context: a comment about thread of poor quality, bought at the market)
@@ -50540,9 +50582,9 @@
 \df Aimer d'amour.
 \gf aimer
 \xv mɤ˧-qo˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to love
 \xn 不爱
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas aimer
 \xc PHONO
 \xv zo˧mv̩˥zo˩ qo˩
 \xe to love (one's) children
@@ -52900,9 +52942,9 @@
 \df Accuser.
 \gf accuser
 \xv mɤ˧-qwɤ˧
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to accuse
 \xn 不告状
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas accuser
 \xv hĩ˧ qwɤ˩
 \xe to accuse someone, to denounce someone
 \xn 告一个人
@@ -53801,9 +53843,9 @@
 \xc PHONO
 \xc <langue="fra" dom="sem"> Contexte imaginé: quelqu'un s'adresse à un moine.
 \xv mɤ˧-ʁɑ˥-ʂe˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to invite, not to call over
 \xn 否定 〜
-\xf |fg{neg}: ne pas faire appel à
+\xf |fg{neg} 〜: ne pas faire appel à
 
 \lx ʁæ˧tɑ˩
 \sf <nb="B"> 581b
@@ -55488,9 +55530,9 @@
 \df Bénir et protéger.
 \gf bénir/protéger
 \xv mɤ˧-ʁo˥ʐv̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to bless
 \xn 否定 〜
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas bénir
 \xc PHONO
 \xv gɤ˧lɑ˧ | ɖɯ˧-ʁo˥ʐv̩˩-ɻ̩˩!
 \xe May the gods bless (you/us)!
@@ -55684,9 +55726,9 @@
 \df Crier, hurler; miauler; braire; hennir; rugir (chat, bœuf, cochon, mouton, loup, lion).
 \gf crier
 \xv mɤ˧-ɻwæ˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to cry
 \xn 不叫
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas crier
 \xc PHONO
 \xv ɻwæ˧~ɻwæ˧
 \xe |fg{red}
@@ -56391,9 +56433,9 @@
 \xf |fg{accomp} 〜 |fg{fut_imm}
 \xc PHONO
 \xv mɤ˧-ɻ̩̃˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to be in dire straits
 \xn 否定 〜
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas être en mauvaise passe
 \xc PHONO
 \xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
 \xe “Sure, we're in poverty/we're hungry, but not to the point where bones are bare!" Play on words on ‘poor, destitute' and ‘bone', which are homophonous. The proverb is used to relativize people's perceived degree of misfortune.
@@ -56527,9 +56569,9 @@
 \df Regarder, se tourner vers, faire face à.
 \gf se_tourner_vers
 \xv mɤ˧-ɻ̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to turn
 \xn 否定 〜
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas se tourner
 \xc PHONO
 \xv ɖɯ˧-ɻ̩˧~ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red}
@@ -60160,9 +60202,9 @@
 \xn 喘气
 \xf respirer très vite, haleter
 \xv mɤ˧-so˧tsʰi˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to pant
 \xn 不喘气
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas haleter
 \xc PHONO
 \xv so˧tsʰi˥-so˩hæ̃˩-ɻ̩˩
 \xe to sigh
@@ -60541,10 +60583,9 @@
 \df Savoir.
 \gf savoir
 \xv mɤ˧-sɯ˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to know
 \xn 不知道
-\xf |fg{neg}
-\dt 09/Oct/2015
+\xf |fg{neg} 〜: ne pas savoir
 
 \lx ʂɯ˧
 \hm 2
@@ -62434,9 +62475,9 @@
 \xf |fg{accomp}
 \xc PHONO
 \xv mɤ˧-ʂwæ˧
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to stir
 \xn 不搅拌
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas remuer
 \xc PHONO
 \xv tso˧~tso˧ ʂwæ˩
 \xe to stir things
@@ -68871,9 +68912,9 @@
 \xn |fg{重叠}：他在眨眨眼！
 \xf |fg{red}: Elle/il est en train de faire un clin d'œil!
 \xv mɤ˧-tsɑ˩~tsɑ˩
-\xe |fg{neg} |fg{red}
+\xe |fg{neg} 〜 |fg{red}: not to wink
 \xn 不眨眼
-\xf |fg{neg} |fg{red}
+\xf |fg{neg} 〜 |fg{red}: ne pas cligner de l'œil
 \xc PHONO
 
 \lx tsɑ˩
@@ -73699,9 +73740,9 @@
 \df Toucher, tripoter.
 \gf toucher
 \xv mɤ˧-dzo˧˥
-\xe |fg{neg} 〜
+\xe |fg{neg} 〜: not to paw
 \xn 不 〜
-\xf |fg{neg} 〜
+\xf |fg{neg} 〜: ne pas tripoter
 \xc PHONO
 \xv tʰɑ˧-dzo˧˥!
 \xe Don't touch (this)!
@@ -74025,9 +74066,9 @@
 \xn 栓水牛
 \xf attacher le buffle
 \xv mɤ˧-tsɯ˥
-\xe |fg{neg} 〜
+\xe |fg{neg} 〜: not to tie
 \xn 否定 〜
-\xf |fg{neg} 〜
+\xf |fg{neg} 〜: ne pas attacher
 \xc PHONO
 \xv le˧-tsɯ˥-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -74527,9 +74568,9 @@
 \df Cligner des yeux.
 \gf cligner_des_yeux
 \xv mɤ˧-tsɯ˩pʰɤ˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to blink
 \xn 不眨眼
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas cligner des yeux
 \xc PHONO
 \xv ɖɯ˧-tsɯ˧~tsɯ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
@@ -75399,14 +75440,14 @@
 \df Teindre.
 \gf teindre
 \xv mɤ˧-ʈʂʰv̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to dye
 \xn 否定 〜
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas teindre
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
-\xe 〜 |fg{neg} |fg{fut_imm}
+\xe 〜 |fg{neg} |fg{fut_imm}: will not dye
 \xn 〜 否定 近将来
-\xf 〜 |fg{neg} |fg{fut_imm}
+\xf 〜 |fg{neg} |fg{fut_imm}: ne vais pas teindre
 \xv tso˧~tso˧ ʈʂʰv̩˥
 \xe to dye things
 \xn 染东西
@@ -77341,9 +77382,9 @@
 \df Lancer (une pierre sur quelqu'un).
 \gf lancer
 \xv mɤ˧-ʈv̩˩
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to throw
 \xn 否定 〜
-\xf |fg{neg}
+\xf |fg{neg}: ne pas jeter
 \xc PHONO
 \xv lv̩˧mi˧ ʈv̩˩
 \xe to throw a stone
@@ -79632,9 +79673,9 @@
 \df Être présent, y avoir. Il peut s'agir d'une entité abstraite (une propriété du corps, de l'âme…: avoir de la force), ou de quelque chose de concret (par exemple: avoir de la barbe; il y a une resserre dans la maison).
 \gf |fg{exist.être_présent}
 \xv mɤ˧-ʑi˥
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to be present; there is not any
 \xn 没有
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas être présent: il n'y en a pas
 \xc PHONO
 
 \lx ʑi˩β
@@ -82624,9 +82665,9 @@
 \df Peser (à l'aide d'une balance).
 \gf peser
 \xv mɤ˧-ʐwæ˧
-\xe |fg{neg}
+\xe |fg{neg} 〜: not to weigh
 \xn 不称
-\xf |fg{neg}
+\xf |fg{neg} 〜: ne pas peser
 \xc PHONO
 \xv le˧-ʐwæ˧-ze˧
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -82905,14 +82946,14 @@
 \xn 可以摆东西的（家具）
 \xf (meuble/objet) sur lequel on pose des choses
 \xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥!
-\xe Take your stuff for washing! (soap, shampoo, towel…) (Context: someone is going to spend the night in a guest house that has running water.)
-\xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
-\xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison d'hôte qui a l'eau courante.)
+\xe Take your stuff for washing! (soap, shampoo, towel…) (Context: someone is going to spend the night in a guest house that has running water and a hot water tank.)
+\xn 要记得拿洗澡用品！（情景：一个人要到有热水的一家去过夜。）
+\xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison qui a l'eau courante et un ballon d'eau chaude.)
 \rf F5
 \xv dʑɯ˩tsʰi˩-kʰɯ˥-di˩
 \xe Periphrase: ‘container for hot water’. This was applied to a glass beer mug, in which tea was offered to the visitor during work sessions. Its capacity (around 25 centilitres) was considerably greater than that of the small glasses used by the Na to serve alcohol. There is no close equivalent in Na: the closest in terms of capacity would be ‘bowl’, but the object was clearly not shaped like a bowl, hence the use of this periphrase.
 \xn 短语：“盛热水的容器”。指的是一个玻璃啤酒杯，大小相当于一个大杯子，在工作期间用来给来访者倒茶。它的容量比摩梭人用来盛酒的小杯子大得多。摩梭语中没有与之相近的词语：就容量而言，最接近的词语是 “碗”，但该器物的形状显然不像碗，因此使用了这个词组。
-\xf Périphrase: «récipient pour eau chaude». Elle était appliquée à une chope à bière en verre, de la taille d'un grand mug, dans lequel on offrait du thé au visiteur pendant les séances de travail. Sa contenance (environ 25 centilitres) était nettement plus grande que celle des petits verres utilisés chez les Na pour servir de l'alcool. Il n'existe pas d'équivalent proche en na: le plus proche en termes de contenance serait ‘bol’, mais l'objet n'avait manifestement pas la forme d'un bol, d'où l'emploi de cette périphrase.
+\xf Périphrase: «récipient pour eau chaude». Elle était appliquée à une chope à bière en verre, de la taille d'un mug, dans lequel on offrait du thé au visiteur pendant les séances de travail. Sa contenance (environ 25 centilitres) était nettement plus grande que celle des petits verres utilisés chez les Na pour servir de l'alcool. Il n'existe pas d'équivalent proche en na: le plus proche en termes de contenance serait ‘bol’, mais l'objet n'avait manifestement pas la forme d'un bol, d'où l'emploi de cette périphrase.
 
 \lx †dze˩˧
 \or zzeiq
