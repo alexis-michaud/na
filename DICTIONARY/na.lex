@@ -2016,7 +2016,7 @@
 \ge spotted
 \dn 花的（花蛋、花石头、花鸟）
 \gn 花的
-\df Bariolé, tacheté, moucheté (ex.: un œuf moucheté, un oiseau au pelage moucheté, une pierre ayant plusieurs couleurs).
+\df Bariolé, tacheté, moucheté (par exemple: un œuf moucheté, un oiseau au pelage moucheté, une pierre ayant plusieurs couleurs).
 \gf bariolé
 \xv bæ˩bæ˩ tʰi˩-di˥
 \xe there are spots (e.g. on an egg, a bird, a stone)
@@ -2741,7 +2741,7 @@
 \xv ɲi˧-bæ˧-ɳɯ˧ | ɖɯ˧-bæ˧ ʝi˧
 \xe to confuse two things, e.g. to confuse two sounds (phonemes), and to write them in the same way, missing their opposition
 \xn 把两个音（其实是两个不同的音位）写成一样，等于把两者弄混淆了。
-\xf confondre deux choses (ex.: confondre deux sons, et les noter de la même façon, alors qu'ils s'opposent entre eux)
+\xf confondre deux choses (par exemple: confondre deux sons, et les noter de la même façon, alors qu'ils s'opposent entre eux)
 \dt 30/Apr/2017
 
 \lx bi˩
@@ -6109,7 +6109,7 @@
 \ge to_sow
 \dn 撒（种子）
 \gn 撒
-\df Disperser, semer (ex.: des graines).
+\df Disperser, semer (par exemple: des graines).
 \gf disperser/semer
 \xv ɻæ˩ bɻ̩˥
 \xe to sow seeds
@@ -7101,7 +7101,7 @@
 \xv le˧-dɑ˩~dɑ˩(-ze˩)
 \xe (I) have cut (e.g. a chicken) into pieces
 \xn （我把一只鸡）砍成块了。
-\xf (j'ai) découpé (ex.: le poulet) en morceaux
+\xf (j'ai) découpé (par exemple: le poulet) en morceaux
 \xv ʂe˧ dɑ˥~dɑ˩
 \xe to cut meat to small pieces
 \xn 把肉砍成小块
@@ -8092,7 +8092,7 @@
 \xv mɤ˧ tʰi˧-di˩
 \xe there is grease (eg there is grease around the mouth of someone who has been biting away at large slabs of meat)
 \xn 有油（例如：一个人的嘴巴周围油乎乎，有油）
-\xf il y a de la graisse (ex.: autour de la bouche de quelqu'un qui vient de croquer de la viande à belles dents)
+\xf il y a de la graisse (par exemple: autour de la bouche de quelqu'un qui vient de croquer de la viande à belles dents)
 \xv hi˩-nɑ˧mi˧ | ɖɯ˧-ɭɯ˧ tʰi˧-di˩.
 \xe there is a lake (there)
 \xn 有一片湖
@@ -8607,7 +8607,7 @@
 \xv po˧ mɤ˧-ɖo˧!
 \xe (You) are not allowed to take it! / You must not take it! (eg telling a child that (s)he is not allowed to take a knife)
 \xn 不许拿！
-\xf (Tu n'as) pas le droit de le prendre! (ex.: un enfant n'est pas autorisé à jouer avec un couteau)
+\xf (Tu n'as) pas le droit de le prendre! (par exemple: un enfant n'est pas autorisé à jouer avec un couteau)
 \xv ʈʂʰɯ˧, | po˧ ɖo˧!
 \xe That one, you can have it / you can take it / you can play with it! (Context: as above: telling a child what (s)he can and cannot toy with.)
 \xn 那个，是可以拿的！／那个，是可以玩的！（情景同上：告诉一个小孩子什么东西可以拿，什么不可以拿。）
@@ -9513,12 +9513,12 @@
 \ge to_whip
 \dn 鞭打、抽打、加鞭
 \gn 鞭打
-\df Fouetter, donner des coups (ex.: un tigre fouette le sol avec sa queue).
+\df Fouetter, donner des coups (par exemple: un tigre fouette le sol avec sa queue).
 \gf fouetter
 \xv mæ˧qv̩˩-po˩-ɳɯ˩ | ɖwæ˧˥
 \xe to whip with the tail (e.g. a tiger whips the ground with its tail)
 \xn 用尾巴来抽打（如：老虎用尾巴来抽打地面）
-\xf donner des coups de queue (ex.: le tigre fouette le sol de sa queue)
+\xf donner des coups de queue (par exemple: le tigre fouette le sol de sa queue)
 \txtsup Tiger.7
 \doisup 10.24397/pangloss-0004445#S7
 
@@ -9917,7 +9917,7 @@
 \xv mɤ˧ | le˧-ɖʐæ˩-ze˩
 \xe The grease has melted.
 \xn 油融化了。
-\xf la graisse a fondu (ex.: du saindoux qui fond dans un chaudron)
+\xf la graisse a fondu (par exemple: du saindoux qui fond dans un chaudron)
 \xv dʑɯ˩pʰæ˩˥ | le˧-ɖʐæ˩-ze˩
 \xe The ice has melted.
 \xn 冰融化了。
@@ -10645,7 +10645,7 @@
 \ge |fg{clf}.packs_of_two
 \dn |fg{量词}：瓶子、锅（一对）
 \gn 量词.瓶子／锅
-\df Classificateur des lots de deux objets non indissociables; par exemple: lot de deux casseroles, paire de haut-parleurs… Pour les paires non dissociables (ex.: paire de chaussures), on utilise: /|fv{dzi˧β}/.
+\df Classificateur des lots de deux objets non indissociables; par exemple: lot de deux casseroles, paire de haut-parleurs… Pour les paires non dissociables (par exemple: paire de chaussures), on utilise: /|fv{dzi˧β}/.
 \gf |fg{clf}.lots_de_deux
 \xv zo˧mv̩˥ | ɖɯ˧-dze˩
 \xe twins (literally: ‘a pair of children')
@@ -10700,9 +10700,9 @@
 \or zzeiq
 \ps v
 \lc dze˩˥
+\cf dze˧~dze˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra" dom="ton"> /v̩˩tsʰɤ˧ dze˧dze˥/: schéma tonal L.M.M.H confirmé. Avais d'abord noté L.H.M.H, sans doute du fait d'une réalisation divisée en deux groupes tonals, /v̩˩tsʰɤ˧ | dze˧dze˥/, dans laquelle la hauteur de la deuxième syllabe et celle de la troisième ne sont pas dans le prolongement l'une de l'autre. Pour /nv̩˩dʑi˧ dze˩dze˩/, l'historique de la notation est le suivant: en 2006; ˧ ˥ ˩ ˩ avait été considéré comme confirmé et établi. Début 2007, je veux aligner la notation sur le schéma général dégagé, que je pense être ˧ ˥ ˧ ˩. Fin 2007, je comprends que le schéma général est ˧ ˥ ˩ ˩ (après un ton H, il n'y a pas de distinction entre ton M et ton L; la descente progressive dans les séquences phonologiques L.L.L… suivant un ton H est un phénomène lié à la réalisation phonétique, non à une différence phonologique entre les tons successifs), et que cet item aussi a bien le schéma ˧ ˥ ˩ ˩.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Le ton lexical de ce verbe est confirmé en 2012: c'est un ton L.
 \ton Lα
 \so F4
@@ -10714,25 +10714,40 @@
 \df Couper (avec un couteau).
 \gf couper
 \xv le˧-dze˩
-\xe |fg{accomp}
-\xn |fg{实施} 〜
-\xf |fg{accomp}
-\xv dze˧~dze˥
-\xe |fg{red}
-\xn 〜 |fg{重叠}
-\xf |fg{red}
+\xe |fg{accomp} 〜: to cut
+\xn |fg{实施} 〜：切（用刀）
+\xf |fg{accomp} 〜: couper
+
+\lx dze˧~dze˥
+\or zzeizzei
+\mr dze˩α2
+\ps v
+\lc dze˧dze˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\de To cut (with a knife). Reduplicated form.
+\ge to_cut
+\dn 切（用刀）。重叠形式。
+\gn 切
+\df Couper (avec un couteau). Forme rédupliquée.
+\gf couper
 \xv le˧-dze˧~dze˥
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
+\xe |fg{accomp} 〜 |fg{red}: to cut
+\xn |fg{实施} 〜 |fg{重叠}：切（用刀）
+\xf |fg{accomp} 〜 |fg{red}: couper
 \xv v̩˩tsʰɤ˧ dze˧~dze˥
 \xe to cut vegetables
 \xn 切菜
 \xf découper des légumes
+\xc <type="hist" print="n" langue="fra" dom="ton"> /v̩˩tsʰɤ˧ dze˧dze˥/: schéma tonal L.M.M.H confirmé. Avais d'abord noté L.H.M.H, sans doute du fait d'une réalisation divisée en deux groupes tonals, /v̩˩tsʰɤ˧ | dze˧dze˥/, dans laquelle la hauteur de la deuxième syllabe et celle de la troisième ne sont pas dans le prolongement l'une de l'autre.
 \xv nv̩˩dʑɯ˥ dze˩~dze˩
 \xe to cut tofu
 \xn 切豆腐
 \xf découper du tofu
+\xc <type="hist" print="n" langue="fra" dom="ton"> L'historique de la notation est le suivant: 'en 2006; ˧ ˥ ˩ ˩ avait été considéré comme confirmé et établi. Début 2007, je veux aligner la notation sur le schéma général dégagé, que je pense être ˧ ˥ ˧ ˩. Fin 2007, je comprends que le schéma général est ˧ ˥ ˩ ˩ (après un ton H, il n'y a pas de distinction entre ton M et ton L; la descente progressive dans les séquences phonologiques L.L.L… suivant un ton H est un phénomène lié à la réalisation phonétique, non à une différence phonologique entre les tons successifs), et que cet item aussi a bien le schéma ˧ ˥ ˩ ˩.' Ensuite corrigé en /nv̩˩dʑi˧ dze˩dze˩/. Notation 2024: /nv̩˩dʑɯ˥ dze˩~dze˩/.
 
 \lx dzi˩
 \sf <nb="2011"> 1138
@@ -11308,7 +11323,7 @@
 \xv dzi˩-bi˩-ni˩-mɤ˩-gv̩˩˥
 \xe not to get accustomed; to feel awkward
 \xn 不习惯
-\xf je n'aime pas/je ne m'y fais pas/ça ne me plaît pas (ex.: quelqu'un ne veut pas rester quelque part, il s'y trouve mal et a la nostalgie d'ailleurs)
+\xf je n'aime pas/je ne m'y fais pas/ça ne me plaît pas (par exemple: quelqu'un ne veut pas rester quelque part, il s'y trouve mal et a la nostalgie d'ailleurs)
 \xv njɤ˧ | ʈʂʰɯ˧-qo˧ | dzi˩-bi˩-ni˩-mɤ˩-gv̩˩˥
 \xe I can't get accustomed (to this place)! / (I) can't make myself at ease here! / (I) don't like it here!
 \xn 我不习惯这里！／我不喜欢这里！／我不想待了！
@@ -11365,7 +11380,7 @@
 \ge to_sink
 \dn 掉入、沉下去
 \gn 掉入
-\df Tomber, sombrer (ex.: un bateau qui sombre peu à peu dans le lac).
+\df Tomber, sombrer (par exemple: un bateau qui sombre peu à peu dans le lac).
 \gf sombrer
 \xv mv̩˩-tɕo˧ dzi˩
 \xe to sink down
@@ -11691,7 +11706,7 @@
 \lc dʑo˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra" print="n"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (ex.: aux toilettes: «il y a quelqu'un!»); “il y a combien de personnes dans ta famille?" xxxx traduire ces 2 exemples et les ajouter parmi les exemples
+\nt <dom="sem" langue="fra" print="n"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (par exemple: aux toilettes: «il y a quelqu'un!»); “il y a combien de personnes dans ta famille?" xxxx traduire ces 2 exemples et les ajouter parmi les exemples
 \ton Lβ
 \so F4
 \de Existential: there is someone in the toilets/at home; there are n people in the family.
@@ -11774,7 +11789,7 @@
 \xv ɖwæ˧˥ | dʑo˧-ɲi˥!
 \xe There are lots! (For instance, when preparing to build a house, one needs large quantities of lumber; someone may comment: “There are lots!")
 \xn 有很多！（如：准备建房，积累的木材有很多）
-\xf Il y en a des quantités! (ex.: au sujet du bois de construction qu'on prépare en vue de la construction d'une maison)
+\xf Il y en a des quantités! (par exemple: au sujet du bois de construction qu'on prépare en vue de la construction d'une maison)
 \xv no˧ | ʁo˧do˧ | ə˧-dʑo˥?
 \xe Do you have some walnuts?
 \xn 你有核桃吗？（问一个人家里有没有核桃）
@@ -16726,7 +16741,7 @@
 \lc ə˧ze˧
 \so F4
 \va <speaker="M21"> ə˧zɤ˧zɤ˥
-\vc <type="hist" print="n" langue="fra"> Consonne initiale et voyelle vérifiées: la consonne n'est pas /dz/ mais /z/, la voyelle n'est pas /e/ mais /ɤ/. Ex.: travaille doucement/prends ton temps! /ɤ˧-zɤ˧~zɤ˥ ʝi˩!/ (Tons vérifiés, n'est pas ˧ ˧ ˥ ˧. )
+\vc <type="hist" print="n" langue="fra"> Consonne initiale et voyelle vérifiées: la consonne n'est pas /dz/ mais /z/, la voyelle n'est pas /e/ mais /ɤ/. par exemple: travaille doucement/prends ton temps! /ɤ˧-zɤ˧~zɤ˥ ʝi˩!/ (Tons vérifiés, n'est pas ˧ ˧ ˥ ˧. )
 \de Slowly.
 \ge slowly
 \dn 慢慢地
@@ -17690,7 +17705,7 @@
 \ge quarrelsome
 \dn 爱吵架
 \gn 爱吵架
-\df Querelleur, belliqueux, batailleur. Ce terme s'emploie notamment au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (ex.: lors du rite de passage à l'âge adulte), et au contraire très prisés pour d'autres.
+\df Querelleur, belliqueux, batailleur. Ce terme s'emploie notamment au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (par exemple: lors du rite de passage à l'âge adulte), et au contraire très prisés pour d'autres.
 \gf querelleur
 \xv kʰv̩˧ gɤ˧˥
 \xe “quarrelsome year": a year whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome; people born during one of these years are said to be tough and quarrelsome.
@@ -18722,7 +18737,7 @@
 \ge to_rub
 \dn 揉
 \gn 揉
-\df Frotter (ex.: se frotter les yeux, frotter un vêtement).
+\df Frotter (par exemple: se frotter les yeux, frotter un vêtement).
 \gf frotter
 \xv gɯ˩ɭɯ˧-ze˥
 \xe 〜 |fg{pfv}: rubbed
@@ -25534,7 +25549,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> ton 4: le˧ jɤ˧˥, le˧ jɤ˧˥ dzɯ˩; ex.: dzɯ˧ di˧ jɤ˥ “lécher une nourriture"; njɤ˧ jɤ˧ bi˧ “je vais lécher"
+\vc <langue="fra" print="n"> ton 4: le˧ jɤ˧˥, le˧ jɤ˧˥ dzɯ˩; par exemple: dzɯ˧ di˧ jɤ˥ “lécher une nourriture"; njɤ˧ jɤ˧ bi˧ “je vais lécher"
 \de To lick.
 \ge to_lick
 \dn 舔
@@ -25600,7 +25615,7 @@
 \ge to_smear
 \dn 抹、涂抹
 \gn 涂抹
-\df Étendre, appliquer, mettre (ex.: appliquer un onguent).
+\df Étendre, appliquer, mettre (par exemple: appliquer un onguent).
 \gf appliquer
 \xv pʰɻ̩˧ʂɯ˧ jɤ˧˥
 \xe to put on beauty cream or sunscreen
@@ -25609,7 +25624,7 @@
 \xv mɤ˩ jɤ˩˥
 \xe to apply grease (e.g. to the skin)
 \xn 涂抹油
-\xf appliquer de la graisse (ex.: sur une peau sèche)
+\xf appliquer de la graisse (par exemple: sur une peau sèche)
 \xv tʰi˧-jɤ˧˥
 \xe |fg{dur} 〜
 \xn |fg{持续体} 〜
@@ -26361,7 +26376,7 @@
 \ge to_coil
 \dn 盘、盘绕（线）
 \gn 盘绕
-\df Enrouler (ex.: des fibres de lin).
+\df Enrouler (par exemple: des fibres de lin).
 \gf enrouler
 \xv sɑ˧ jɤ˥
 \xe to coil linen thread
@@ -26700,7 +26715,7 @@
 \ge main_door
 \dn 大门
 \gn 大门
-\df Grande porte (ex.: porte d'entrée d'une maison).
+\df Grande porte (par exemple: porte d'entrée d'une maison).
 \gf grande_porte
 \dt 03/Sep/2015
 
@@ -27739,7 +27754,7 @@
 \ge small_bell_hung_to_neck
 \dn 铃铛：如，挂在妈的脖子上的铃铛
 \gn 铃铛
-\df Clochette s'accrochant autour du cou (ex.: clochette d'un cheval).
+\df Clochette s'accrochant autour du cou (par exemple: clochette d'un cheval).
 \gf clochette
 \dt 05/Sep/2017
 
@@ -28329,7 +28344,7 @@
 \ge put_into
 \dn 放，装（如：装进袋里），点种，收下
 \gn 放
-\df Mettre, mettre dans (ex.: mettre de la farine dans une casserole); libérer, lâcher (ex.: un poulet qu'on tenait par les pattes); semer en enfonçant les graines; ranger, remettre à sa place.
+\df Mettre, mettre dans (par exemple: mettre de la farine dans une casserole); libérer, lâcher (par exemple: un poulet qu'on tenait par les pattes); semer en enfonçant les graines; ranger, remettre à sa place.
 \gf mettre
 \xv kʰɯ˩~kʰɯ˧˥
 \xe |fg{red}
@@ -29232,7 +29247,7 @@
 \ge to_cut/to_harvest
 \dn 割（草）
 \gn 割（草）
-\df Couper (ex.: de l'herbe) pour récolter.
+\df Couper (par exemple: de l'herbe) pour récolter.
 \gf couper
 \xv le˧-kʰv̩˥-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -29959,7 +29974,7 @@
 \ge to_group
 \dn 集中在一起（如：砍木材后，把木材堆在一起）
 \gn 集中
-\df Regrouper, rassembler (ex.: des troncs, après leur abattage).
+\df Regrouper, rassembler (par exemple: des troncs, après leur abattage).
 \gf rassembler
 \dt 03/Sep/2015
 
@@ -31105,7 +31120,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> +ze˩ (tons vérifiés en 2009, n'est pas ˧ ˥); ex.: l'arbre est courbé: /si˧dzi˩lɑ˩gv̩˧ze˩/ (d'abord noté ze˧; corrigé avec M18 en mai 2008, confirmant hypothèse à l'écoute)
+\nt <type="hist" print="n" langue="fra"> +ze˩ (tons vérifiés en 2009, n'est pas ˧ ˥); par exemple: l'arbre est courbé: /si˧dzi˩lɑ˩gv̩˧ze˩/ (d'abord noté ze˧; corrigé avec M18 en mai 2008, confirmant hypothèse à l'écoute)
 \ton LM
 \lc lɑ˩gv̩˥
 \so F4
@@ -31622,7 +31637,7 @@
 \ge askew
 \dn 歪，偏（帽子戴得歪）
 \gn 歪
-\df De biais, de travers (ex.: porter son chapeau de travers).
+\df De biais, de travers (par exemple: porter son chapeau de travers).
 \gf de_biais
 \dt 04/Sep/2015
 
@@ -34674,7 +34689,7 @@
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
-\nt <type="hist" print="n" dom="ton" langue="fra"> Ton d6 (avant 2009: noté: /lo˩ ʈʰɯ˥/). Confirmé: est ton d6a et non d6b (ex.: /lo˩ʈʰɯ˧=bv̩˧ | ɣɯ˩˧/, etc).
+\nt <type="hist" print="n" dom="ton" langue="fra"> Ton d6 (avant 2009: noté: /lo˩ ʈʰɯ˥/). Confirmé: est ton d6a et non d6b (par exemple: /lo˩ʈʰɯ˧=bv̩˧ | ɣɯ˩˧/, etc).
 \nt <type="hist" print="n" langue="fra"> (a) lo˩oe͂˞˥ (tons confirmés, sens: “os du bras") (b) oe͂˞˥ ʈʂæ˩="articulation", cf 170 (c) lo˩oe͂˞˥ʈʂæ˩="articulation du bras"
 \ton LM
 \lc lo˩ʈʰɯ˥
@@ -35697,7 +35712,7 @@
 \va <speaker="F5"> ɬɯ˩
 \vc <type="hist" print="n" langue="fra" dom="phono"> Initiale et rime confirmées, n'est pas /ɬv̩˩/
 \va <speaker="M21"> lv̩˩
-\vc <langue="fra" print="n"> /tʰi˧-lv̩˩/; ex.: /ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩/ “garder un médicament dans la bouche"
+\vc <langue="fra" print="n"> /tʰi˧-lv̩˩/; par exemple: /ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩/ “garder un médicament dans la bouche"
 \de To hold in the mouth; to let melt in the mouth.
 \ge to_hold_in_the_mouth
 \dn 含在嘴里、在嘴巴里溶化
@@ -36434,7 +36449,7 @@
 \xv njɤ˧ ɖʐɤ˧˥ | tʰi˧-mɤ˧-mæ˧!
 \xe I can't fetch it!
 \xn 我够不着！（例如：够不着树枝上的果子）
-\xf je ne parviens pas à attraper (ex.: un fruit sur une branche trop élevée)
+\xf je ne parviens pas à attraper (par exemple: un fruit sur une branche trop élevée)
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -36561,7 +36576,7 @@
 \xv ɖɯ˩-tɕo˧ mi˧˥, | ʈʂʰɯ˧-tɕo˧ mi˧˥
 \xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
 \xn 东推西挤
-\xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (ex.: à la gare, quand il y a presse pour acheter un billet de train)
+\xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (par exemple: à la gare, quand il y a presse pour acheter un billet de train)
 
 \lx mi˩β
 \sf <nb="B"> 2185
@@ -37058,7 +37073,7 @@
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <type="hist" print="n" langue="fra"> (ton en forme de citation confirmé en juillet 2008; en 2006 et 2007, noté “mɤ˩˥; attention, pas le même ton chez F5")
-\nt <type="hist" print="n" langue="fra"> (n'est pas le même ton que F4); ex.: i˧mɤ˩˥ “graisse de vache"
+\nt <type="hist" print="n" langue="fra"> (n'est pas le même ton que F4); par exemple: i˧mɤ˩˥ “graisse de vache"
 \ton L
 \lc mɤ˧
 \so F4
@@ -38634,7 +38649,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> mv̩˥kʰv̩˥
-\vc <langue="fra" print="n"> ex.: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde". Vérification faite: n'est pas: mv̩˩kʰv̩˩˥.
+\vc <langue="fra" print="n"> par exemple: mv̩˥kʰv̩˥ lv̩˥ “ça enfume tout le monde". Vérification faite: n'est pas: mv̩˩kʰv̩˩˥.
 \va <speaker="M21"> mv̩˧kʰv̩#˥
 \vc <langue="fra" print="n"> mv̩˧kʰv̩˧, ton d2a; mv̩˧kʰv̩˧ dʑi˥ ze˩, mv̩˧kʰv̩˧ dʑi˥ ɲi˩
 \pdv æ̃˩α3
@@ -39874,7 +39889,7 @@
 \ge to_blow
 \dn 吹（灰，乐器）
 \gn 吹
-\df Souffler (ex.: souffler sur le feu, attiser le feu; souffler dans un instrument à vent).
+\df Souffler (par exemple: souffler sur le feu, attiser le feu; souffler dans un instrument à vent).
 \gf souffler
 \xv mv̩˧~mv̩˥(-ze˩)
 \xe |fg{red}
@@ -39950,7 +39965,7 @@
 \ge to_burn
 \dn 燃烧
 \gn 燃烧
-\df Brûler, se consumer (ex.: un corps sur le bûcher).
+\df Brûler, se consumer (par exemple: un corps sur le bûcher).
 \gf brûler
 \dt 04/Sep/2015
 
@@ -40178,12 +40193,12 @@
 \ge serious
 \dn 严重，重要
 \gn 严重
-\df Grave, sérieux (ex.: une blessure).
+\df Grave, sérieux (par exemple: une blessure).
 \gf grave
 \xv mɤ˧-nɑ˥
 \xe not serious
 \xn 不严重
-\xf bénin, pas grave, sans conséquence (ex.: une écorchure)
+\xf bénin, pas grave, sans conséquence (par exemple: une écorchure)
 \dt 04/Sep/2015
 
 \lx ɳæ˧˥
@@ -40803,7 +40818,7 @@
 \ge to_press/to_hold
 \dn 夹、夹持
 \gn 夹
-\df Serrer, tenir (ex.: tenir quelque chose serré sous le bras, serrer quelque chose entre les jambes).
+\df Serrer, tenir (par exemple: tenir quelque chose serré sous le bras, serrer quelque chose entre les jambes).
 \gf serrer/tenir
 \xv ɖɯ˧-ɲi˧~ɲi˥-ɻ̩˩
 \xe to press a little
@@ -42038,7 +42053,7 @@
 \de To break (tool), to be broken.
 \ge to_break
 \dn 设备坏了
-\df S'abîmer, se casser; tomber en panne (ex.: appareil photo).
+\df S'abîmer, se casser; tomber en panne (par exemple: appareil photo).
 \gf se_casser
 \xv le˧-ɲi˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: it's broken!
@@ -42429,7 +42444,7 @@
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> nju˧, mv̩˧dze˧ nju˧
 \va <speaker="M23"> ID.
-\vc <langue="fra" print="n"> hɑ˧nju˩, ex.: d'orge: tsʰi˧zi˧hɑ˧nju˥
+\vc <langue="fra" print="n"> hɑ˧nju˩, par exemple: d'orge: tsʰi˧zi˧hɑ˧nju˥
 \de Ear (of wheat, barley).
 \ge ear
 \dn 谷穗
@@ -43794,7 +43809,7 @@
 \ge confusedly
 \dn 不知不觉地，糊里糊涂地
 \gn 不知不觉地
-\df Inconsciemment, confusément, sans qu'on s'en rende compte (ex.: le temps passe sans qu'on s'en rende compte).
+\df Inconsciemment, confusément, sans qu'on s'en rende compte (par exemple: le temps passe sans qu'on s'en rende compte).
 \gf confusément
 
 \lx ŋv̩˩
@@ -46457,7 +46472,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="sem" langue="fra"> rouleau, paquet (ex.: cigarettes)
+\nt <dom="sem" langue="fra"> rouleau, paquet (par exemple: cigarettes)
 \ton Lβ
 \lc ɖɯ˧ po˩
 \nt <dom="phono" langue="fra"> Parmi les classificateurs de catégorie tonale Lβ, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#. Ce mot est un emprunt, et perçu comme tel, ce qui peut expliquer une certaine fluctuation dans son emploi: il est parfois traité comme appartenant à la catégorie Lα.
@@ -46531,7 +46546,7 @@
 \ge to_open
 \dn 打开（例如：开门）
 \gn 打开
-\df Ouvrir (ex.: porte).
+\df Ouvrir (par exemple: porte).
 \gf ouvrir
 \xv gɤ˩-pʰo˧ (-ze˧)
 \xe to open up
@@ -47487,7 +47502,7 @@
 \xv tʰi˧-pɤ˩-dʑo˩
 \xe |fg{dur} 〜 |fg{prog}: it is emerging
 \xn 正在涌出水来
-\xf |fg{dur} 〜 |fg{prog}: ça sort, ça coule, ça émerge (ex.: de l'eau de source)
+\xf |fg{dur} 〜 |fg{prog}: ça sort, ça coule, ça émerge (par exemple: de l'eau de source)
 \xv gɤ˩-pɤ˥
 \xe to emerge, to come up, to appear (e.g. the sun comes out)
 \xn 出现、上来：太阳出来
@@ -48469,7 +48484,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> donne: pʰv̩˩tɕæ˩ɻæ˧gv̩˩ (notation 2007; avais d'abord noté ɻ̩˩˥); ex.: le visage est blanc: pʰæ˧qʰwɤ˩ pʰɻ̩˩tɕæ˩ɻæ˧gv̩˩ (tons vérifiés en 2009, n'est pas /pʰɻ̩˩tɕæ˩˧/, ni /gv̩˧/)
+\nt <type="hist" print="n" langue="fra"> donne: pʰv̩˩tɕæ˩ɻæ˧gv̩˩ (notation 2007; avais d'abord noté ɻ̩˩˥); par exemple: le visage est blanc: pʰæ˧qʰwɤ˩ pʰɻ̩˩tɕæ˩ɻæ˧gv̩˩ (tons vérifiés en 2009, n'est pas /pʰɻ̩˩tɕæ˩˧/, ni /gv̩˧/)
 \ton L+H#
 \lc pʰɻ̩˩tɕæ˩ɻæ˥
 \so F4
@@ -48728,7 +48743,7 @@
 \ge to_allow/to_require
 \dn 让，安排，投资，要求
 \gn 让／安排
-\df Autoriser (ex.: un mariage); demander (à quelqu'un de faire quelque chose), faire faire; commanditer, être commanditaire/investisseur (ex.: pour une caravane).
+\df Autoriser (par exemple: un mariage); demander (à quelqu'un de faire quelque chose), faire faire; commanditer, être commanditaire/investisseur (par exemple: pour une caravane).
 \gf autoriser/demander
 \xv sɯ˧pʰi˧-ɳɯ˧ | pɻ̩˩-kʰɯ˥-ɲi˩!
 \xe It was the feudal lord who financed (the caravan)!
@@ -48737,7 +48752,7 @@
 \xv ʈʂʰɯ˧ | ɖʐe˧ ʂe˧ pɻ̩˩-kʰɯ˩-tso˩-ɲi˩!
 \xe (S)he is bringing the capital! / (S)he is financing the whole thing! (e.g. a caravan)
 \xn 是他来投资的！（如：马帮）
-\xf c'est elle/lui qui apporte le capital/qui commandite! (ex.: pour une caravane)
+\xf c'est elle/lui qui apporte le capital/qui commandite! (par exemple: pour une caravane)
 \xv hĩ˧-ɳɯ˩ | pɻ̩˩-mɤ˩-kʰɯ˥!
 \xe People do not allow access! / Access is not allowed! (Context: a discussion about difficulties for the investigator to be allowed to stay in an area of Sichuan where Naish languages are spoken. The consultant summarizes as: “Access is not allowed!")
 \xn 人家不让去！
@@ -48983,7 +48998,7 @@
 \dn 搬
 \gn 搬
 \gr 盘
-\df Déplacer, transporter (ex.: transporter de la terre, après avoir creusé).
+\df Déplacer, transporter (par exemple: transporter de la terre, après avoir creusé).
 \gf déplacer
 \xv le˧-qæ˥
 \xe |fg{accomp}
@@ -49675,7 +49690,7 @@
 \ge to_break
 \dn 断，破（棍子，竹竿）
 \gn 断
-\df (se) briser, (se) casser (ex.: un bâton).
+\df (se) briser, (se) casser (par exemple: un bâton).
 \gf briser/se_briser
 \xv le˧-qʰæ˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -51371,7 +51386,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
-\vc <langue="fra" print="n"> dzɯ˧ ŋɤ˧ +zi˧: se recroqueviller sur soi-même (ex.: un chien qui a froid); se recroqueviller, pour une chenille qu'on touche, par exemple: le˧-zv̩˧˥, le˧-zv̩˧-ze˥, ton 4
+\vc <langue="fra" print="n"> dzɯ˧ ŋɤ˧ +zi˧: se recroqueviller sur soi-même (par exemple: un chien qui a froid); se recroqueviller, pour une chenille qu'on touche, par exemple: le˧-zv̩˧˥, le˧-zv̩˧-ze˥, ton 4
 \de To huddle up, to curl up.
 \ge to_huddle_up
 \dn 蜷缩
@@ -51530,7 +51545,7 @@
 \ge hole
 \dn 窟窿
 \gn 窟窿
-\df Cavité, trou (ex.: trou de souris; ou piège où on fait tomber les animaux sauvages).
+\df Cavité, trou (par exemple: trou de souris; ou piège où on fait tomber les animaux sauvages).
 \gf cavité
 \xv hwæ˧tsɯ˥-qʰv̩˩dʑɯ˩
 \xe mousehole
@@ -52334,7 +52349,7 @@
 \va <speaker="F5"> ID.
 \vc <langue="fra" print="n"> Notes anciennes: a) kʶwæ˧ b) kʶwæ˧pu˩˥ “transmettre un message", tons confirmés
 \va <speaker="M21"> kʰwæ˧mi˧
-\vc <langue="fra" print="n"> ton d2; ex.: kʰwæ˧pu˧˥ “apporter une lettre"
+\vc <langue="fra" print="n"> ton d2; par exemple: kʰwæ˧pu˧˥ “apporter une lettre"
 \pdv kʰwɤ˥α
 \de Message, information (extended meaning: letter).
 \ge message/information
@@ -54241,7 +54256,7 @@
 \ge to_sink
 \dn 掉入、沉下去
 \gn 掉入
-\df Tomber, sombrer (ex.: quelqu'un coule dans l'eau; un bateau sombre peu à peu dans le lac).
+\df Tomber, sombrer (par exemple: quelqu'un coule dans l'eau; un bateau sombre peu à peu dans le lac).
 \gf sombrer
 \xv mv̩˩-tɕo˥ ʁo˩
 \xe to sink
@@ -56341,7 +56356,7 @@
 \xv ɖɯ˧-ʁwɤ˥-lv̩˩
 \xe to make into a heap (e.g. nuts, fruit… scattered around)
 \xn 收拾成一堆（如：有果子散在地上，把它们堆在一起）
-\xf rassembler en un tas (ex.: des piments épars, des noix, des fruits…)
+\xf rassembler en un tas (par exemple: des piments épars, des noix, des fruits…)
 \xv tso˧~tso˧ ʁwɤ˩
 \xe to pile up things
 \xn 东西堆在一起
@@ -59343,7 +59358,7 @@
 \va <speaker="M21"> sɯ˩tsʰɤ˩
 \vc <langue="fra" print="n"> 2006: noté sɯ˧ tsʰɯ˩˥, par erreur), ton d3
 \va <speaker="M23"> tsʰɤ˩tsʰɤ˩
-\vc <langue="fra" print="n"> ex.: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥; vérifié, n'est pas /sɯ/
+\vc <langue="fra" print="n"> par exemple: si˧dzɯ˩tsʰɤ˩tsʰɤ˩ “feuille d'arbre"; aussi: si˩tsʰɤ˩˥; vérifié, n'est pas /sɯ/
 \pdv tsʰɤ˧˥α
 \de Leaf.
 \ge leaf
@@ -59870,7 +59885,7 @@
 \so F4
 \va <speaker="M21"> *
 \va <speaker="M23"> *
-\vc <langue="fra" print="n"> gi˧tʰu˧˥, ton d2b; ex.: gi˧tʰu˧bv̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
+\vc <langue="fra" print="n"> gi˧tʰu˧˥, ton d2b; par exemple: gi˧tʰu˧bv̩˥ ʂv̩˧ɖv̩˧ “penser à l'avenir"
 \de Afterwards; later; from now on.
 \ge afterwards/from_now_on
 \dn 后来、以后，从此以后
@@ -60504,7 +60519,7 @@
 \ge to_tear
 \dn 撕（纸……）
 \gn 撕
-\df Déchirer (ex.: du papier).
+\df Déchirer (par exemple: du papier).
 \gf déchirer
 \xv tso˧~tso˧ ʂɤ˥
 \xe to tear things
@@ -60743,7 +60758,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> ʂɯ˧hĩ˥; ton 4; M21 indique, sur le modèle du cadre que je lui ai demandé pour les noms: ʈʂʰɯ˥ ʂɯ˧ ɲi˥; ex.: 'de la viande fraîche': ʂe˧ʂɯ˩; ʂe˧ʐv̩˥: 'de la vieille viande'
+\vc <langue="fra" print="n"> ʂɯ˧hĩ˥; ton 4; M21 indique, sur le modèle du cadre que je lui ai demandé pour les noms: ʈʂʰɯ˥ ʂɯ˧ ɲi˥; par exemple: 'de la viande fraîche': ʂe˧ʂɯ˩; ʂe˧ʐv̩˥: 'de la vieille viande'
 \va <speaker="M23"> ID.
 \de New, fresh.
 \ge new
@@ -62733,7 +62748,7 @@
 \xv hĩ˧ ʈʰæ˩
 \xe to bite someone (e.g. a dog bites a stranger)
 \xn 咬人
-\xf mordre quelqu'un (ex.: un chien mord un inconnu de passage)
+\xf mordre quelqu'un (par exemple: un chien mord un inconnu de passage)
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -63539,7 +63554,7 @@
 \ge dry
 \dn 晒干的（水果、蔬菜……）
 \gn 晒干的
-\df Séché (au soleil) (ex.: légumes).
+\df Séché (au soleil) (par exemple: légumes).
 \gf séché
 \xv v̩˩tsʰɤ˧-tæ˧pɻ̩˥
 \xe dry vegetables, vegetables dried in the sun
@@ -64149,7 +64164,7 @@
 \ge to_lock
 \dn 关（门、羊）
 \gn 关
-\df Fermer, refermer; enfermer (ex.: des moutons); aussi: fermer une route.
+\df Fermer, refermer; enfermer (par exemple: des moutons); aussi: fermer une route.
 \gf fermer
 \xv bv̩˩qo˩ ʈæ˥
 \xe to close the stable
@@ -64226,7 +64241,7 @@
 \xv tɑ˧~tɑ˧ | ho˩˥!
 \xe Just right, exactly right. (Example: a pair of shoes fits perfectly.)
 \xn 刚刚好！（如：一双鞋刚好合适）
-\xf Ça convient exactement/ça convient précisément (ex.: au sujet d'une paire de chaussures qu'on vient de vous offrir)
+\xf Ça convient exactement/ça convient précisément (par exemple: au sujet d'une paire de chaussures qu'on vient de vous offrir)
 \xv le˧-li˧ tɑ˧~tɑ˧
 \xe to see clearly
 \xn 看清楚
@@ -64417,7 +64432,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (M18: pʰi˩˥: cracher; ex.: pʰi˩˥ʐwæ˩ “cracher abondamment")
+\nt <type="hist" print="n" langue="fra"> (M18: pʰi˩˥: cracher; par exemple: pʰi˩˥ʐwæ˩ “cracher abondamment")
 \ton M
 \lc tɕi˧
 \sn 1
@@ -64515,7 +64530,7 @@
 \ge to_shake
 \dn 抖、抖动，摇动
 \gn 抖
-\df Secouer (ex.: pour défroisser des vêtements après lavage; aussi: secouer la tête).
+\df Secouer (par exemple: pour défroisser des vêtements après lavage; aussi: secouer la tête).
 \gf secouer
 \xv le˧-tɕi˧~tɕi˧-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -64555,7 +64570,7 @@
 \ge to_shake
 \dn 抖、抖动，摇动
 \gn 抖
-\df Secouer (ex.: pour défroisser des vêtements après lavage; aussi: secouer la tête).
+\df Secouer (par exemple: pour défroisser des vêtements après lavage; aussi: secouer la tête).
 \gf secouer
 
 \lx tɕʰi˥
@@ -65055,7 +65070,7 @@
 \ge to_bind
 \dn 打结、系上
 \gn 打结
-\df Attacher (ex.: un joug sur une vache; des troncs…).
+\df Attacher (par exemple: un joug sur une vache; des troncs…).
 \gf attacher
 \xv ʁæ˧ɻ̩˥ | tʰi˧-tɕɤ˩
 \xe to attach the yoke (to a buffalo)
@@ -65806,7 +65821,7 @@
 \ge 将将::just/exactly
 \dn 将将、刚刚
 \gn 将将（借词）
-\df Précisément, exactement (ex.: au moment précis où, juste au moment où).
+\df Précisément, exactement (par exemple: au moment précis où, juste au moment où).
 \gf 将将::précisément/exactement
 
 \lx tɕɯ˩˥
@@ -66040,7 +66055,7 @@
 \ge to_settle
 \dn 决定、定下来
 \gn 决定
-\df Fixer, décider (ex.: les puissances suprêmes fixent la durée de la vie humaine).
+\df Fixer, décider (par exemple: les puissances suprêmes fixent la durée de la vie humaine).
 \gf décider/fixer
 \xv le˧-ʐwɤ˩ | tʰi˧-tɕɯ˥
 \xe to settle
@@ -66260,7 +66275,7 @@
 \xv tʰv̩˧qʰv̩˧ tɕʰɯ˧
 \xe To bore a hole, to punch a hole.
 \xn 穿一个洞
-\xf Percer un trou, faire un trou (ex.: dans un tissu, un mur…)
+\xf Percer un trou, faire un trou (par exemple: dans un tissu, un mur…)
 
 \lx tɕʰɯ˧bo˧˥
 \sf <nb="B"> 1025
@@ -67649,7 +67664,7 @@
 \ton LH
 \so F4
 \va <speaker="M18"> ID.
-\vc <langue="fra" print="n"> ex.: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
+\vc <langue="fra" print="n"> par exemple: to˩ ʈʰɯ˧-ɭɯ˧ ɖɯ˧-pi˥ tɕi˩˧ “cette pente est un peu petite"
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds
 \pdc <langue="eng"> |fg{clf} for round objects
@@ -67763,7 +67778,7 @@
 \xv to˧bɤ˧-ze˩
 \xe |fg{pfv}: it's empty, there is nothing left (e.g. a bowl is entirely emptied)
 \xn 空了
-\xf il n'y a plus rien (ex.: un bol est complètement vidé)
+\xf il n'y a plus rien (par exemple: un bol est complètement vidé)
 \xv to˧bɤ˧ ɲi˥
 \xe 〜 |fg{cop}: it's empty
 \xn 是空的
@@ -68237,7 +68252,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <type="hist" print="n" langue="fra"> (tons confirmés; d'abord noté ˧ ˧ ˩); ex.: a doublé: ɖɯ˧to˩pi˩ɖɤ˩ (sens vérifié)
+\nt <type="hist" print="n" langue="fra"> (tons confirmés; d'abord noté ˧ ˧ ˩); par exemple: a doublé: ɖɯ˧to˩pi˩ɖɤ˩ (sens vérifié)
 \ton L
 \lc ɖɯ˧ to˩pi˩
 \so F4
@@ -69176,7 +69191,7 @@
 \ge to_set/to_attach
 \dn 安上（如：缝扣子、安上马鞍）
 \gn 安上
-\df Fixer, accrocher (ex.: coudre un bouton sur un vêtement; attacher la selle sur un cheval).
+\df Fixer, accrocher (par exemple: coudre un bouton sur un vêtement; attacher la selle sur un cheval).
 \gf fixer
 \xv pv̩˩ɭɯ˥ ʈʂæ˩
 \xe to sew a button
@@ -70394,9 +70409,9 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
-\vc <langue="fra" print="n"> ex.: tsʰe˧do˧so˩ɲi˩˧
+\vc <langue="fra" print="n"> par exemple: tsʰe˧do˧so˩ɲi˩˧
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> ex.: tsʰe˧do˧˥so˩ɲi˩˥
+\vc <langue="fra" print="n"> par exemple: tsʰe˧do˧˥so˩ɲi˩˥
 \vc <langue="fra" type="hist" print="n" dom="ton"> Tons confirmés.
 \de The beginning of the month.
 \ge beginning_of_the_month
@@ -70821,7 +70836,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> ton d5a: monnaie; ex.: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
+\vc <langue="fra" print="n"> ton d5a: monnaie; par exemple: “quelle monnaie est-ce?" réponse attendue: ce sont des yuan, des piastres…
 \pdv pʰæ˧˥α
 \de Coins of the imperial times.
 \ge coins_of_imperial_times
@@ -71230,7 +71245,7 @@
 \xv dʑɯ˩ʁo˩˥ | tʰi˧-tse˩ (-dʑo˩)
 \xe to float (in a torrent) on the mountain (e.g. timber is floated downstream)
 \xn 让木头漂到下游
-\xf faire flotter (dans un torrent), en montagne (ex.: des troncs qu'on ramène du lieu d'abattage jusqu'à la plaine)
+\xf faire flotter (dans un torrent), en montagne (par exemple: des troncs qu'on ramène du lieu d'abattage jusqu'à la plaine)
 \xv dʑɯ˩ʁo˩ tse˧
 \xe as above: to float down from the mountain
 \xn 同上：让木头漂到下游
@@ -71576,7 +71591,7 @@
 \ge to_install
 \dn 安装
 \gn 安装
-\df Fixer, installer, mettre en place (ex.: un pilier, dans une maison en construction).
+\df Fixer, installer, mettre en place (par exemple: un pilier, dans une maison en construction).
 \gf installer
 \xv tso˧~tso˧ tsi˧
 \xe to set up something
@@ -72120,7 +72135,7 @@
 \cf hɤ˧hwi˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (lə˧tsɤ˧ze˧!) (très couramment utilisé pour dire: “ça va! c'est bon! OK!": tsɤ˧i˧!) tsɤ˧ɲi˥!; ex.: no˧ mɤ˧-bi˧ mɤ˧-tsɤ˧! “Tu ne peux pas ne pas y aller!", littéralement “que tu n'y ailles pas, ça ne va pas!" (tv, n'est pas ˥ ˧ ˧ ˧ ˧) (tons vérifiés; d'abord noté ɖɯ˧ bæ˧ mɤ˧ tsɤ˥, par erreur)
+\nt <type="hist" print="n" langue="fra"> (lə˧tsɤ˧ze˧!) (très couramment utilisé pour dire: “ça va! c'est bon! OK!": tsɤ˧i˧!) tsɤ˧ɲi˥!; par exemple: no˧ mɤ˧-bi˧ mɤ˧-tsɤ˧! “Tu ne peux pas ne pas y aller!", littéralement “que tu n'y ailles pas, ça ne va pas!" (tv, n'est pas ˥ ˧ ˧ ˧ ˧) (tons vérifiés; d'abord noté ɖɯ˧ bæ˧ mɤ˧ tsɤ˥, par erreur)
 \ton M
 \lc tsɤ˧
 \so F4
@@ -72332,7 +72347,7 @@
 \ge to_rub
 \dn 摩擦
 \gn 摩擦
-\df Frotter, faire une friction (ex.: un tissu grossier frotte sur la peau, et l'irrite).
+\df Frotter, faire une friction (par exemple: un tissu grossier frotte sur la peau, et l'irrite).
 \gf frotter
 \xv mæ˩ko˥ | tʰv̩˧-ɭɯ˧ | mɤ˧-tsɤ˧, | le˧-tsʰɤ˧-ze˥!
 \xe This harness is not (set) right, it rubbed (against the horse's skin).
@@ -73049,7 +73064,7 @@
 \xv ʈʂʰɯ˧ | tsɤ˩pʰv̩˧-tsɤ˥li˩-ɻ̩˩!
 \xe (S)he is turning and twisting in all directions!
 \xn 他在东翻西滚！
-\xf il/elle se retourne en tous sens! (ex.: un enfant qui se roule par terre)
+\xf il/elle se retourne en tous sens! (par exemple: un enfant qui se roule par terre)
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73087,7 +73102,7 @@
 \xv ʈʂʰɤ˩qo˧ | ɖwæ˧˥ | tʰi˧-kʰɯ˧˥
 \xe to pay great attention to, to care greatly for (e.g. a grandmother paying great attention to an infant's feeding)
 \xn 很关心、很关注
-\xf prêter une grande attention à, être très attentif à (ex.: une grand-mère très attentive à l'alimentation d'un nourrisson)
+\xf prêter une grande attention à, être très attentif à (par exemple: une grand-mère très attentive à l'alimentation d'un nourrisson)
 \xv ʈʂʰɤ˩qo˧ | mɤ˧-kʰɯ˧˥
 \xe to pay no attention to, not to care for
 \xn 不关心、不关注
@@ -73947,7 +73962,7 @@
 \ge to_grasp
 \dn 握（握刀把）
 \gn 握
-\df Empoigner, prendre en main, saisir, tenir fermement (ex.: couteau); serrer, crisper (le poing).
+\df Empoigner, prendre en main, saisir, tenir fermement (par exemple: couteau); serrer, crisper (le poing).
 \gf empoigner
 \xv sɯ˩tʰi˩˥ | (ɖɯ˧)-nɑ˧ | tʰi˧-ʈʂʰɻ̩˧˥ (+dʑo˩)
 \xe to grasp a knife
@@ -74183,7 +74198,7 @@
 \ge to_cut_to_pieces
 \dn 剪成片
 \gn 剪成片
-\df Taillader (ex.: taillader un vêtement, le découper avec des ciseaux; n'est pas: tailler du tissu pour faire des vêtements).
+\df Taillader (par exemple: taillader un vêtement, le découper avec des ciseaux; n'est pas: tailler du tissu pour faire des vêtements).
 \gf taillader
 \xv tʰɑ˧-tsʰi˧˥!
 \xe |fg{proh}
@@ -74951,7 +74966,7 @@
 \ge to_block_up
 \dn 堵塞、塞住洞口
 \gn 堵塞
-\df Boucher/être bouché; obstruer (ex.: obstruer l'entrée d'un trou).
+\df Boucher/être bouché; obstruer (par exemple: obstruer l'entrée d'un trou).
 \gf boucher
 \dt 27/Apr/2017
 
@@ -75064,7 +75079,7 @@
 \ge peaceful
 \dn 平和的（生肖）
 \gn 平和的
-\df Paisible, aimable, pacifique, doux (signe astrologique); s'emploie au sujet des signes astrologiques: certains sont considérés comme ‘paisibles', comme le Bœuf, le Lapin et la Chèvre, ce qui rend les personnes nées cette année-là appropriées pour certains rites/certaines tâches (ex.: lors du rite de passage à l'âge adulte), et au contraire non appropriées pour d'autres.
+\df Paisible, aimable, pacifique, doux (signe astrologique); s'emploie au sujet des signes astrologiques: certains sont considérés comme ‘paisibles', comme le Bœuf, le Lapin et la Chèvre, ce qui rend les personnes nées cette année-là appropriées pour certains rites/certaines tâches (par exemple: lors du rite de passage à l'âge adulte), et au contraire non appropriées pour d'autres.
 \gf paisible
 \xv kʰv̩˧ ʈʂv̩˧˥
 \xe a peaceful, soft astrological sign, such as the Ox, the Rabbit and the Goat
@@ -75691,7 +75706,7 @@
 \ge to_stab
 \dn 插、戳
 \gn 戳
-\df Enfoncer (un couteau) d'un geste brutal: poignarder, de haut en bas, avec force; insérer, planter, ficher (ex.: un couteau, une aiguille…).
+\df Enfoncer (un couteau) d'un geste brutal: poignarder, de haut en bas, avec force; insérer, planter, ficher (par exemple: un couteau, une aiguille…).
 \gf poignarder/ficher
 \dt 07/Oct/2015
 
@@ -76142,7 +76157,7 @@
 \va <speaker="M18"> tsʰɯ˩˥
 \vc <type="hist" print="n" langue="fra">Le locuteur emploie l'adjectif 'fin'.
 \va <speaker="M21"> ʈʂʰwɤ˧tsʰɯ˧
-\vc <type="hist" print="n" langue="fra"> +ze˥; ex.: /ʑi˧kʰwɤ˧ ʈʂʰwɤ˧tsʰɯ˧ ze˥!/ 房间小了!
+\vc <type="hist" print="n" langue="fra"> +ze˥; par exemple: /ʑi˧kʰwɤ˧ ʈʂʰwɤ˧tsʰɯ˧ ze˥!/ 房间小了!
 \va <speaker="M23"> ʈʂʰwɤ˧tsʰɯ˧˥
 \de Narrow.
 \ge narrow
@@ -76184,7 +76199,7 @@
 \ge to_stratch
 \dn 抓（用爪子抓）
 \gn 抓
-\df Griffer (ex.: un tigre griffe).
+\df Griffer (par exemple: un tigre griffe).
 \gf griffer
 \xv hwɤ˧li˧˥ | hĩ˧ ʈʂwɤ˩-ze˩
 \xe the cat scratched someone
@@ -77281,7 +77296,7 @@
 \xv ɑ˩pʰo˩ tʰv̩˩˥
 \xe to come out: e.g. an animal comes out of its burrow
 \xn 出来，如：动物从地洞里爬出来
-\xf sortir, ex.: un animal sort de son terrier
+\xf sortir, par exemple: un animal sort de son terrier
 \xv ɲi˧mi˧ tʰv̩˧
 \xe the sun comes out
 \xn 太阳出来
@@ -77941,7 +77956,7 @@
 \vc <langue="cmn" dom="ton"> LM
 \vc <langue="fra" print="n"> ton d5b; tons confirmés
 \va <speaker="M21"> u˩tsʰɤ˧˥
-\vc <langue="fra" print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: ex.: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
+\vc <langue="fra" print="n"> ton d5a; M21 souligne qu'il ne dit pas v̩˩tsʰɤ˧˥ mais /u/; le ton est le même: par exemple: u˩tsʰɤ˧ dze˧~dze˥ “couper des légumes"
 \va <speaker="M23"> ID.
 \pdv po˧α
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
@@ -79735,7 +79750,7 @@
 \ge to_grab
 \dn 拿，捉（捉鸡）
 \gn 捉
-\df Attraper, saisir, prendre (ex.: un animal récalcitrant).
+\df Attraper, saisir, prendre (par exemple: un animal récalcitrant).
 \gf saisir
 \xv æ̃˩ ʑi˧
 \xe to catch a chicken
@@ -79990,7 +80005,7 @@
 \va <speaker="M18"> ʑi˧mv̩˥
 \vc <langue="fra" print="n"> faire un rêve: ʑi˧mv̩˧kʶwɑ˩˥
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> donne: ʑi˧mv̩˧kʰwɑ˧˥ (voyelle confirmée); ex.: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥ 'hier, j'ai fait un rêve'
+\vc <langue="fra" print="n"> donne: ʑi˧mv̩˧kʰwɑ˧˥ (voyelle confirmée); par exemple: ɑ˧hwɤ˧, njɤ˧ ʑi˧mv̩˧ kʰwɑ˧˥ 'hier, j'ai fait un rêve'
 \pdv kʰwɤ˥α
 \de Dream.
 \ge dream
@@ -80916,7 +80931,7 @@
 \xv ʐɤ˩ʐɤ˧ tʰi˧-di˥
 \xe with lines/patterns / there are lines/patterns
 \xn 有花纹
-\xf qui a des motifs, des dessins (ex.: un tissu)
+\xf qui a des motifs, des dessins (par exemple: un tissu)
 \xv bɑ˩lɑ˩˥ | ʈʰɯ˧-ɭɯ˥-bi˩ | ʐɤ˩ʐɤ˧ tʰi˧-di˥
 \xe There are lines/patterns on this piece of clothing.
 \xn 这衣服上面有花纹。
@@ -80952,7 +80967,7 @@
 \lc zo˧
 \so F4
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> exemple: mɤ˧-zo˧-ze˧! “ce n'est pas la peine!"; ex.: /ʈʰæ˧ i˧zu˧hu˥ɲi˩!/ Avant 2009, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
+\vc <langue="fra" print="n"> exemple: mɤ˧-zo˧-ze˧! “ce n'est pas la peine!"; par exemple: /ʈʰæ˧ i˧zu˧hu˥ɲi˩!/ Avant 2009, noté: ʈʰæ˧ i˩ zu˩ hu˥ ɲi˥!); trad. proposée par M23: 应该好好地打下基础!
 \de To have to, to be necessary.
 \ge have_to
 \dn 要，应该
@@ -83266,7 +83281,7 @@
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <dom="sem" langue="fra"> particule marquant le destinataire, ex.: objet direct d'un verbe transitif, objet indirect
+\nt <dom="sem" langue="fra"> particule marquant le destinataire, par exemple: objet direct d'un verbe transitif, objet indirect
 \nt <type="hist" print="n" langue="fra"> Jusqu'en 2018, datif et allatif ont été considérés comme un seul morphème. En 2017, l'examen du comportement tonal de ce morphème supposé unique a révélé des incohérences. Cela a conduit à une vérification en 2018; c'est alors seulement qu'a été constaté le fait que datif et allatif sont deux morphèmes distincts.
 \ton M
 \lc ki˧
@@ -83748,7 +83763,7 @@
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra"> particule marquant l'origine, ex.: lieu d'où l'on vient, sujet d'un verbe transitif
+\nt <type="hist" print="n" langue="fra"> particule marquant l'origine, par exemple: lieu d'où l'on vient, sujet d'un verbe transitif
 \ton M
 \lc ɳɯ˧
 \so F4
