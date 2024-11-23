@@ -4870,9 +4870,9 @@
 \xn 一根玉米棒子
 \xf un épi de maïs
 \xv tʰv̩˧-bɤ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
+\xe |fg{dem} 〜 (tone: H# / H$): that corncob
 \xn |fg{指示代词} 〜：那根（玉米棒子）
-\xf |fg{dem} 〜 (ton: H# / H$)
+\xf |fg{dem} 〜 (ton: H# / H$): cet épi
 \xv mɤ˧-mv̩˩ ʁo˩tʰo˩ dʑo˩, | hɑ˧bɤ˥!
 \xe When [the maize] has not yet dried, we have an ear of maize / it's maize on the cob! Literally: “when [the maize] is not yet ripe, it's an ear of maize”. In reality, ‘ripe’ here does not really refer to maturity, but to the stage at which the cereal has fully dried out and can be stored. In this sense, maize on the cob, although fit for consumption, is not considered ‘ripe’ because it is not yet dry.
 \xn 当[玉米]还没有干的时候，我们有一穗玉米／这是玉米棒子！字面意思是：“[玉米]还没有成熟时，就是玉米棒子”。实际上，这里的‘熟’并不是指成熟，而是指谷物完全变干并可以储存的阶段。从这个意义上说，玉米棒子虽然可以食用，但并不能算作‘成熟’，因为它还没有干透。
@@ -7771,9 +7771,9 @@
 \df Poursuivre, chasser; disperser, repousser, faire déguerpir: par exemple, chasser la volaille vers la basse-cour, lorsque poules et oies s'aventurent jusque dans la maison.
 \gf chasser/disperser
 \xv mɤ˧-di˧˥
-\xe not to hunt
-\xn 不赶
-\xf ne pas chasser
+\xe |fg{neg} 〜: not to hunt
+\xn |fg{否定} 〜：不赶
+\xf |fg{neg} 〜: ne pas chasser
 \xc PHONO
 
 \lx tɕʰɯ˩di˩
@@ -11814,9 +11814,9 @@
 \xn 你有核桃吗？（问一个人家里有没有核桃）
 \xf Est-ce que tu as des noix? / Est-ce que vous avez des noix?
 \xv mɤ˧-dʑo˧!
-\xe No, I/we don't have any!
-\xn 没有！／我没有！
-\xf Non, je n'en ai pas! / Non, on n'en a pas!
+\xe |fg{neg} 〜: No, I/we don't have any!
+\xn |fg{否定} 〜：没有！／我没有！
+\xf |fg{neg} 〜: Non, je n'en ai pas! / Non, on n'en a pas!
 \xv no˧ | ə˧-dʑo˧ sɯ˥?
 \xe Do you have any walnuts left? / Do you still have some walnuts?
 \xn 你还有核桃吗？
@@ -11847,9 +11847,9 @@
 \df Bon (bonne action, bonne décision).
 \gf bon
 \xv mɤ˧-dʑɤ˩
-\xe bad
-\xn 坏
-\xf pas bien, mauvais
+\xe |fg{neg} 〜: bad
+\xn |fg{否定} 〜：坏
+\xf |fg{neg} 〜: pas bien, mauvais
 \xc PHONO
 \xv dʑɤ˩-hĩ˥
 \xe 〜 |fg{rel}
@@ -17647,9 +17647,9 @@
 \df Vrai, vraiment.
 \gf vrai
 \xv mɤ˧-gi˩!
-\xe (It) is not true!
-\xn 不是的！／不是真的！
-\xf c'est pas vrai!
+\xe |fg{neg} 〜: (It) is not true!
+\xn |fg{否定} 〜：不是的！／不是真的！
+\xf |fg{neg} 〜: c'est pas vrai!
 \xv ə˩-gi˩˥?
 \xe Right? / Is that true? / It is true, isn't it?
 \xn 对吧？／对吗？
@@ -18536,10 +18536,9 @@
 \xn 你呢，（应该）很满意：（你的）孩子很成功！
 \xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants/habiles!
 \xv mɤ˧-gɤ˩
-\xe to be dissatisfied, not resigned, recalcitrant
-\xn 不满意、不甘心、不服气
-\xf être mécontent, ne pas se résigner, être récalcitrant
-\dt 02/Sep/2015
+\xe |fg{neg} 〜: to be dissatisfied, not resigned, recalcitrant
+\xn |fg{否定} 〜：不满意、不甘心、不服气
+\xf |fg{neg} 〜: être mécontent, ne pas se résigner, être récalcitrant
 
 \lx gɤ˩α
 \sf <nb="B"> 1299b
@@ -18881,9 +18880,9 @@
 \df Vrai, authentique, véritable.
 \gf vrai
 \xv mɤ˧-gɯ˩
-\xe not true
-\xn 不是真的
-\xf pas vrai
+\xe |fg{neg} 〜: not true
+\xn |fg{否定} 〜：不是真的
+\xf |fg{neg} 〜: pas vrai
 \xc PHONO
 \xv gɯ˩-hĩ˩˥
 \xe |fg{nmlz}
@@ -33872,9 +33871,9 @@
 \xn 非常难做
 \xf très difficile à faire
 \xv mɤ˧-lo˧hɑ˧!
-\xe (it is) not difficult!
-\xn 不难。
-\xf (ce) n'est pas difficile!
+\xe |fg{neg} 〜: (it is) not difficult!
+\xn |fg{否定} 〜：不难。
+\xf |fg{neg} 〜: (ce) n'est pas difficile!
 \xc <dom="synt" langue="fra"> La négation porte sur le disyllabe entier.
 
 \lx lo˧ʝi˧
@@ -37778,7 +37777,6 @@
 \xe (She/he/it) is not dead yet!
 \xn 还没死！
 \xf (Il n'est) pas encore mort!
-\dt 04/Sep/2015
 
 \lx mo˧˥α
 \or mo
@@ -40226,10 +40224,9 @@
 \df Grave, sérieux (par exemple: une blessure).
 \gf grave
 \xv mɤ˧-nɑ˥
-\xe not serious
-\xn 不严重
-\xf bénin, pas grave, sans conséquence (par exemple: une écorchure)
-\dt 04/Sep/2015
+\xe |fg{neg} 〜: not serious
+\xn |fg{否定} 〜：不严重
+\xf |fg{neg} 〜: bénin, pas grave, sans conséquence (par exemple: une écorchure)
 
 \lx ɳæ˧˥
 \sf <nb="B"> 1109
@@ -58639,9 +58636,9 @@
 \xn 完成了！
 \xf C'est fini, c'est achevé!
 \xv mɤ˧-se˩
-\xe It's not finished!
-\xn 没有完！
-\xf Ce n'est pas fini!
+\xe |fg{neg} 〜: It's not finished!
+\xn |fg{否定} 〜：没有完！
+\xf |fg{neg} 〜: Ce n'est pas fini!
 \xc PHONO
 \xv se˩˥ ◊ -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ ◊ -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
 \xo Seiq jjo, seiq meta! Jjaq jjo, jjaq keeq ta!
@@ -60515,9 +60512,9 @@
 \xf |fg{nmlz}
 \xc PHONO
 \xv mɤ˧-ʂo˩
-\xe not clean
-\xn 不干净、脏
-\xf sale, malpropre
+\xe |fg{neg} 〜: not clean
+\xn |fg{否定} 〜：不干净、脏
+\xf |fg{neg} 〜: sale, malpropre
 \xc PHONO
 \xv ʈʂʰɯ˧ | ʂo˩-hĩ˩ ɲi˥.
 \xe This is clean.
@@ -62841,9 +62838,9 @@
 \df Satisfait, tranquille.
 \gf satisfait
 \xv mɤ˧-ʈæ˩ɖɯ˩
-\xe dissatisfied, restless
-\xn 不高兴、不安
-\xf mécontent, furieux
+\xe |fg{neg} 〜: dissatisfied, restless
+\xn |fg{否定} 〜：不高兴、不安
+\xf |fg{neg} 〜: mécontent, furieux
 \xv ə˧mɑ˧ | tsʰi˧-ɲi˧ | ʈæ˩ɖɯ˧ tʰi˧-dzi˩-dʑo˩!
 \xe Today, Ama is sitting quietly!
 \xn 今天，阿妈安乐地坐着。
@@ -64243,14 +64240,13 @@
 \df Sérieux, attentif, soigneux; exact, précis (une chaussure convient précisément à un pied; quelqu'un observe avec précision/exactitude).
 \gf précis/exact
 \xv mɤ˧-tɑ˧~tɑ˧
-\xe sloppy, not careful
-\xn 邋遢、草率、潦草
-\xf pas sérieux, négligé (au sujet d'un travail)
+\xe |fg{neg} 〜: sloppy, not careful
+\xn |fg{否定} 〜：邋遢、草率、潦草
+\xf |fg{neg} 〜: pas sérieux, négligé (au sujet d'un travail)
 \xv hĩ˧ ʈʂʰɯ˧-v̩˧, | tɑ˧~tɑ˧!
 \xe (S)he works carefully!
 \xn 他很认真！
 \xf lui, il est soigneux!
-\dt 09/Oct/2015
 
 \lx tɑ˧~tɑ˧
 \hm 2
@@ -81106,10 +81102,9 @@
 \xn 这是干净的
 \xf c'est propre
 \xv mɤ˧-ʐɤ˩
-\xe not clean, dirty
-\xn 不干净
-\xf crasseux, dégoûtant (vêtements, nourriture…)
-\dt 07/Oct/2015
+\xe |fg{neg} 〜: not clean, dirty
+\xn |fg{否定} 〜：不干净
+\xf |fg{neg} 〜: crasseux, dégoûtant (vêtements, nourriture…)
 
 \lx ʐɤ˩γ
 \or re
@@ -83846,9 +83841,9 @@
 \xn 她长得很像她父亲。
 \xf Elle ressemble à son père.
 \xv mɤ˧-pʰæ˥di˩
-\xe unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
-\xn 不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
-\xf différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
+\xe |fg{neg} 〜: unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
+\xn |fg{否定} 〜：不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
+\xf |fg{neg} 〜: différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
 \xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! — mɤ˧-qʰɑ˥!
 \xe The vegetables look bitter! — No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！／菜很苦吧？ — 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
@@ -83858,7 +83853,6 @@
 \xe What kind of an impression does that give? (A way to point out to someone, coolly, calmly and without violence, that their behaviour is unseemly and undignified: for instance if someone is indulging in unreasonable quantities of alcohol.)
 \xn 这像什么呢？／这，给人是什么样的印象？（委婉说法，给一个人指出，他的行为不像话：如，一个人正在喝太多酒。）
 \xf Quelle impression ça produit, tout ça? (Façon calme et posée de signifier à quelqu'un que son comportement manque à la dignité: par exemple si quelqu'un se laisse aller à boire des quantités déraisonnables d'alcool.)
-\dt 27/Apr/2017
 
 \lx -pɤ˧to˩
 \or bedo
