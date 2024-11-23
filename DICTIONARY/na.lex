@@ -4996,12 +4996,12 @@
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (confirmé M18 en 2008)
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
+\nt <type="hist" dom="sem" print="n" langue="fra"> xxxx N'y a-t-il pas eu confusion avec 'yak'? Le classificateur est celui attendu pour un animal, pas pour une étude. Information provisoirement retranchée : "pdv mi˩β".
 \ton LM
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv mi˩β
 \de Food steamer.
 \ge food_steamer
 \dn 蒸笼
@@ -5226,6 +5226,7 @@
 \ps n
 \lc bv̩˩di˩˥
 \mr bv̩˩˧
+\mr -di˩
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton L
@@ -5324,11 +5325,11 @@
 \ton L
 \so F4
 \pdv ɭɯ˧β
-\de Wooden hut where shepherds stay while herding their flock on the mountain.
+\de Shepherd's hut: a wooden hut where shepherds stay while herding their flock on the mountain. It is not inhabited all year round, but is solid enough to be used year after year, unlike the temporary huts built when a team stays for some days on the mountain to cut wood.
 \ge wooden_hut
-\dn 山上放牧的人暂时住的木头小房
+\dn 山上的牧羊人小屋。这种暂时住的木头小房很堅固，可以年復一年地使用，不像要在山上砍柴停留幾天時所搭的臨時小屋。
 \gn 山上小房
-\df Cabane de berger, sur la montagne; n'est pas occupée à l'année, mais est assez solide pour être utilisée année après année, à la différence des cabanes provisoires construites lorsqu'on doit rester quelques jours sur la montagne pour couper du bois.
+\df Cabane de berger, sur la montagne. Elle n'est pas occupée à l'année, mais est assez solide pour être utilisée année après année, à la différence des cabanes provisoires construites lorsqu'on doit rester quelques jours sur la montagne pour couper du bois.
 \gf cabane_de_berger
 
 \lx bɻ̩˧kʰɯ˧˥
@@ -5404,6 +5405,8 @@
 
 \lx bv̩˧mi˧
 \or bbumi
+\mr bv̩˩˧
+\mr -mi˩
 \ps n
 \lc bv̩˧mi˧
 \sd <langue="fra"> objet
@@ -5501,9 +5504,9 @@
 \df Malodorant, puant, qui a une mauvaise odeur.
 \gf malodorant
 \xv bv̩˧nv̩˧-ze˧
-\xe 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: it stinks, it has become stinky, it has rotten
 \xn 〜 |fg{整体体}：臭了
-\xf 〜 |fg{pfv}
+\xf 〜 |fg{pfv}: ça pue, ça s'est gâté
 
 \lx bɻ̩˧pʰv̩˧
 \or bbeupu
@@ -5773,8 +5776,8 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
 \pdv tɕɯ˧˥α2
-\pdc <langue="fra"> |fg{clf} des livres (unité de poids)
-\pdc <langue="eng"> |fg{clf} for pounds (weight unit)
+\pdc <langue="fra"> |fg{clf} des livres: unité de poids
+\pdc <langue="eng"> |fg{clf} for pounds: weight unit
 \pdc <langue="cmn"> 斤的|fg{量词}
 \pdv ɭɯ˧β
 \pdc <langue="fra"> |fg{clf} des objets ronds, employé comme |fg{clf} générique pour un décompte à l'unité
@@ -5806,7 +5809,7 @@
 \ge sifter
 \dn 筛子
 \gn 筛子
-\df Vanneries: tamis où l'on fait sécher les graines de courge et autres produits de la ferme.
+\df Vannerie: tamis où l'on fait sécher les graines de courge et autres produits de la ferme.
 \gf tamis/crible
 
 \lx bv̩˧ʈʂʰv̩˧
@@ -5818,8 +5821,7 @@
 \lc bv̩˧ʈʂʰv̩˧
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
-\nt <dom="comp" langue="fra"> Cf. japhug |fv{zɯɣ.tɕʰɤl}.
-\nt <dom="comp" langue="eng"> See Japhug |fv{zɯɣ.tɕʰɤl}.
+\comp <langue="jya"> zɯɣ.tɕʰɤl
 \ton M
 \so F4
 \va <speaker="F5"> ID.
@@ -9402,7 +9404,8 @@
 \xe to whip with the tail (e.g. a tiger whips the ground with its tail)
 \xn 用尾巴来抽打（如：老虎用尾巴来抽打地面）
 \xf donner des coups de queue (ex.: le tigre fouette le sol de sa queue)
-\dt 27/Aug/2015
+\txtsup Tiger.7
+\doisup 10.24397/pangloss-0004445#S7
 
 \lx ɖwæ˧˥
 \sf <nb="B"> 2303
@@ -10504,9 +10507,8 @@
 \ge sieve
 \dn 筛子
 \gn 筛子
-\df Vanneries: tamis, crible.
+\df Tamis, crible (en vannerie).
 \gf tamis
-\dt 24/Apr/2017
 
 \lx dze˩α
 \sf <nb="B"> 851
@@ -11814,24 +11816,24 @@
 \df Jouer.
 \gf jouer
 \xv dʑɤ˩bv̩˥-bi˩
-\xe 〜 |fg{fut.imm}
+\xe 〜 |fg{fut.imm}: is going to play
 \xn 要玩耍
-\xf 〜 |fg{fut.imm}
+\xf 〜 |fg{fut.imm}: va jouer
 \xc PHONO
 \xv dʑɤ˩bv̩˥-ze˩
-\xe 〜 |fg{pfv}
-\xn 玩耍了
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: played
+\xn 〜 |fg{整体体}：玩耍了
+\xf 〜 |fg{pfv}: a joué
 \xc PHONO
 \xv le˧-dʑɤ˩bv̩˩ +ze˩
-\xe |fg{accomp} 〜 |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}: played
 \xn |fg{实施} 〜 |fg{整体体}：玩耍了
-\xf |fg{accomp} 〜 |fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}: a joué
 \xc PHONO
 \xv tʰi˧-dʑɤ˩bv̩˩, | tʰi˧-dʑɤ˩bv̩˩, | le˧-fv̩˧!
 \xe They play, they play… they're happy! / (By) playing on and on, they get really happy! (About children playing together)
 \xn 他们玩着玩着，很高兴！（情景：几个小孩子一起玩）
-\xf ils jouent, ils jouent… ils sont contents! (Au sujet d'enfants qui jouent ensemble)
+\xf Ils jouent, ils jouent… ils sont contents! / À jouer ainsi, ils sont au comble de la joie! (Au sujet d'enfants qui jouent ensemble)
 
 \lx dʑɤ˩bv̩˥-di˩
 \sf <nb="B"> 1556
@@ -18609,9 +18611,9 @@
 \df Frotter (ex.: se frotter les yeux, frotter un vêtement).
 \gf frotter
 \xv gɯ˩ɭɯ˧-ze˥
-\xe 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: rubbed
 \xn 〜 |fg{整体体}：揉了
-\xf 〜 |fg{pfv}
+\xf 〜 |fg{pfv}: a frotté
 \xc PHONO
 \xv le˧-gɯ˩ɭɯ˩+ze˩
 \xe |fg{accomp} 〜 |fg{pfv}
@@ -50855,9 +50857,9 @@
 \df Assoiffé, ayant soif.
 \gf assoiffé
 \xv qo˧pɻ̩˧-ze˧
-\xe 〜 |fg{pfv}
-\xn 渴了
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: thirsty
+\xn 〜 |fg{整体体}：渴了
+\xf 〜 |fg{pfv}: assoiffé, ayant soif
 \xc PHONO
 \xv qo˧pɻ̩˧ mɤ˧-tʰɑ˧-ze˥
 \xe terribly thirsty
@@ -69413,9 +69415,9 @@
 \xn 我给你讲、我跟你聊聊天
 \xf je te raconte, je te dis
 \xv ʈʂʰɤ˧lɑ˧-ze˧
-\xe 〜 |fg{pfv}
-\xn 〜 |fg{整体体}
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: has told, has narrated
+\xn 〜 |fg{整体体}：讲了
+\xf 〜 |fg{pfv}: a raconté
 \xc PHONO
 
 \lx ʈʂʰɤ˧lɑ˧-mv̩˧lɑ˩
@@ -70492,9 +70494,9 @@
 \df Avoir le hoquet.
 \gf avoir_le_hoquet
 \xv tsʰe˧kʰv̩˧-ze˩
-\xe 〜 |fg{pfv}
-\xn 〜 |fg{整体体}
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: hiccuped
+\xn 〜 |fg{整体体}：打嗝了
+\xf 〜 |fg{pfv}: a eu le hoquet
 \xc PHONO
 \xv tsʰe˧kʰv̩˧, | mɤ˧-qʰæ˩ | ʐwæ˩˥!
 \xe A fit of hiccup is something very unpleasant!
@@ -70697,9 +70699,9 @@
 \df Trop salé.
 \gf trop_salé
 \xv tsʰe˧qʰɑ˧-ze˩
-\xe 〜 |fg{pfv}
-\xn 〜 |fg{整体体}
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: (became) too salty
+\xn 〜 |fg{整体体}：太咸了
+\xf 〜 |fg{pfv}: (est devenu) trop salé
 \xc PHONO
 
 \lx tsʰe˩qʰv̩˩
@@ -79876,9 +79878,10 @@
 \df Somnoler.
 \gf somnoler
 \xv ʑi˧ŋɤ˥-ze˩
-\xe 〜 |fg{pfv}
-\xn 〜 |fg{整体体}
-\xf 〜 |fg{pfv}
+\xe 〜 |fg{pfv}: has dozed off
+\xn 〜 |fg{整体体}：打瞌睡了
+\xf 〜 |fg{pfv}: a somnolé
+\xc PHONO
 
 \lx ʑi˧ŋv̩˥
 \sf <nb="B"> 1517b
