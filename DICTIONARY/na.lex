@@ -8301,7 +8301,7 @@
 \xc <type="hist" print="n" langue="fra"> schéma tonal de /tso˧~tso˧ do˧˥/: confirmé en mars 2012; surprenant, on attendrait ˧ ˧ ˩ ou ˧ ˧ ˧
 \xv do˩-mɤ˩-ho˥
 \xe 〜 |fg{neg} |fg{desiderative}
-\xn 不许（看）见
+\xn 〜 |fg{否定} |fg{未来／愿望}：不许（看）见
 \xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
 \xv bo˩mi˧ do˩ (+ze˩)
@@ -54365,7 +54365,7 @@
 \xf Un durillon s'est formé!
 \xv ʁo˩-mɤ˩-ho˥
 \xe 〜 |fg{neg} |fg{desiderative}
-\xn 〜 |fg{否定}xxxxxx：不会出（茧子）
+\xn 〜 |fg{否定} |fg{未来／愿望}：不会出（茧子）
 \xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
 
@@ -83164,8 +83164,8 @@
 \so F4
 \de Future / desiderative / conjecture.
 \ge |fg{fut.desiderative}
-\dn 未来_愿望
-\gn 未来_愿望
+\dn 未来／愿望
+\gn 未来／愿望
 \df Futur / désidératif / conjecture.
 \gf |fg{fut}/désidératif/conjecture
 \xv hi˩gi˩ ə˥-ho˩? — hi˩ gi˩ ho˥!
