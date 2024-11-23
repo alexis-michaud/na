@@ -7774,7 +7774,7 @@
 \xe not to hunt
 \xn 不赶
 \xf ne pas chasser
-\xc PHONO xxxxxx
+\xc PHONO
 
 \lx tɕʰɯ˩di˩
 \or qiddi
@@ -9049,7 +9049,7 @@
 \gf grand
 \xv mɤ˧-ɖɯ˩
 \xe |fg{neg} 〜: not large
-\xn 不大
+\xn |fg{否定} 〜：不大
 \xf |fg{neg} 〜: pas grand
 \xc PHONO
 \xv ɖɯ˩-hĩ˩˥
@@ -11667,7 +11667,7 @@
 \gf |fg{exist.êtres_animés}
 \xv mɤ˧-dʑo˩
 \xe |fg{neg} 〜: is not present
-\xn 没有、不在
+\xn |fg{否定} 〜：没有、不在
 \xf |fg{neg} 〜: n'est pas présent
 \xc PHONO
 \xv ʈʂʰɯ˧ | ɑ˩ʁo˧ ə˧-dʑo˥?
@@ -16555,7 +16555,7 @@
 \xf |fg{intensif.très}
 \xv ə˧-mɤ˧-v̩˧˥
 \xe |fg{neg}: ugly
-\xn 丑陋
+\xn |fg{否定} 〜：丑陋
 \xf |fg{neg}: vilain, laid
 \xc <type="hist" print="n" dom="ton" langue="fra"> Tons: d'abord noté M.M.H, /˧ ˧ ˥/.
 \xc <type="hist" print="n" dom="phono" langue="fra"> D'abord noté /ɤ˧ mɤ˧ v̩˧˥/. La voyelle est modifiée en /ə/ en 2009.
@@ -17798,7 +17798,7 @@
 \gf manquer_de
 \xv mɤ˧-gɤ˧
 \xe |fg{neg} 〜: not to lack
-\xn 不缺乏
+\xn |fg{否定} 〜：不缺乏
 \xf |fg{neg} 〜: ne pas manquer de
 
 \lx go˩bi˧
@@ -18560,7 +18560,7 @@
 \gf habile
 \xv mɤ˧-ɣɯ˥
 \xe |fg{neg} 〜: lacking competence, unskilled
-\xn 不能干
+\xn |fg{否定} 〜：不能干
 \xf |fg{neg} 〜: pas compétent, pas habile
 \xv ʈʂʰɯ˧-ɳɯ˧, | bɑ˩lɑ˩ hwæ˧ | ɣɯ˧!
 \xe He/she is very good at buying clothes! / He/she has talent for choosing clothes!
@@ -18901,7 +18901,7 @@
 \xf 〜 |fg{intensif}: extrêmement bon
 \xv mɤ˧-gv̩˧
 \xe |fg{neg} 〜: not good
-\xn 不好
+\xn |fg{否定} 〜：不好
 \xf |fg{neg} 〜: pas bon
 \xc PHONO
 
@@ -20690,7 +20690,7 @@
 \gf devoir/falloir
 \xv mɤ˧-hĩ˧˥
 \xe |fg{neg} 〜: ...must not
-\xn 否定
+\xn |fg{否定} 〜：不应该
 \xf |fg{neg} 〜: il ne faut pas
 \xc PHONO
 \xv no˧ | ʝi˧-hĩ˧˥!
@@ -22323,7 +22323,7 @@
 \gf correct
 \xv mɤ˧-ho˩
 \xe |fg{neg} 〜: wrong
-\xn 不合适，不准，不对
+\xn |fg{否定} 〜：不合适，不准，不对
 \xf |fg{neg} 〜: faux, erroné, inapproprié
 \xv ho˩-ze˥!
 \xe |fg{pfv}
@@ -22406,7 +22406,7 @@
 \xf |fg{intensif.très}: c'est très bien!
 \xv mɤ˧-hɤ˩
 \xe |fg{neg} 〜: not nice, not suitable
-\xn 不好
+\xn |fg{否定} 〜：不好
 \xf |fg{neg} 〜: pas approprié, pas bien
 \xc PHONO
 \xv hɤ˩-hĩ˩˥
@@ -22886,7 +22886,7 @@
 \xc <langue="cmn" dom="dialect"> 何独知认为，该短语最准确的中文翻译是‘欺负人’。从语言学的角度看，这一说法似乎并不完全合理，但这一联想强调了恼怒与一个人对自己在权威和权力关系中处于不利地位的社会地位感到愤恨之间的接近性。怨恨转化为一种屈辱感。
 \xv mɤ˧-hṽ̩˩~hṽ̩˩
 \xe |fg{neg} 〜: not to annoy
-\xn 不干扰
+\xn |fg{否定} 〜：不干扰
 \xf |fg{neg} 〜: ne pas ennuyer
 \xc PHONO
 
@@ -23427,7 +23427,7 @@
 \gf participer_à_une_cérémonie_funèbre
 \xv mɤ˧-hwɤ˥
 \xe |fg{neg} 〜: not to participate in a funeral ceremony
-\xn 否定 〜
+\xn |fg{否定} 〜：不执绋送丧
 \xf |fg{neg} 〜: ne pas participer à une cérémonie funèbre
 \xc PHONO
 \xv hĩ˧ hwɤ˥
@@ -24358,7 +24358,7 @@
 \gf dessiner
 \xv mɤ˧-ʝi˥
 \xe |fg{neg} 〜: not to draw
-\xn 不画
+\xn |fg{否定} 〜：不画
 \xf |fg{neg} 〜: ne pas dessiner
 \xc PHONO
 \xv tʰɑ˧-ʝi˥!
@@ -25423,7 +25423,7 @@
 \gf bien
 \xv mɤ˧-jɤ˧
 \xe |fg{neg} 〜: it's not good! It's not right! (About someone's behaviour)
-\xn 不好（形容一个人的行为）
+\xn |fg{否定} 〜：不好（形容一个人的行为）
 \xf |fg{neg} 〜: ce n'est pas bien! / c'est pas beau, ça! (Au sujet du comportement de quelqu'un)
 
 \lx jɤ˧
@@ -25449,7 +25449,7 @@
 \gf plat
 \xv mɤ˧-jɤ˧
 \xe |fg{neg} 〜: not flat; uneven
-\xn 不平
+\xn |fg{否定} 〜：不平
 \xf |fg{neg} 〜: pas plat; inégal
 \xc PHONO
 
@@ -36983,7 +36983,7 @@
 \xf très avide de nourriture
 \xv mɤ˧-hɑ˧ mo˧!
 \xe |fg{neg} 〜: not greedy
-\xn 不贪吃
+\xn |fg{否定} 〜：不贪吃
 \xf |fg{neg} 〜: pas avide
 \xc <langue="fra" dom="synt"> Pour faire porter la négation sur l'expression, la négation précède l'expression entière.
 \xc <langue="eng" dom="synt"> Negating the phrase is achieved with negation preceding the entire phrase.
@@ -37811,7 +37811,7 @@
 \vc <type="hist" print="n" langue="fra"> voyelle vérifiée
 \de Negation.
 \ge |fg{neg}
-\dn 否定：不，没
+\dn |fg{否定}：不，没
 \gn 否定
 \df Negation.
 \gf |fg{neg}
@@ -40247,7 +40247,7 @@
 \xc PHONO
 \xv mɤ˧-nɑ˩
 \xe |fg{neg} 〜: not dark
-\xn 不黑
+\xn |fg{否定} 〜：不黑
 \xf |fg{neg} 〜: pas sombre
 \xc PHONO
 
@@ -42176,7 +42176,7 @@
 \xf se détourner de quelqu'un, détourner la tête face à quelqu'un (que l'on méprise, déteste…)
 \xv mɤ˧-njæ˥qv̩˩
 \xe |fg{neg} 〜: not to turn away
-\xn 否定 〜
+\xn |fg{否定} 〜：不看别的方向
 \xf |fg{neg} 〜: ne pas détourner le regard (face à quelqu'un)
 \xc PHONO
 
@@ -43735,7 +43735,7 @@
 \gf apprendre_une_nouvelle
 \xv mɤ˧-ɳv̩˥
 \xe |fg{neg} 〜: I am not aware of this piece of news! / I didn't know about that!
-\xn （我）不知道这个消息！
+\xn |fg{否定} 〜：（我）不知道这个消息！
 \xf |fg{neg} 〜: je ne suis pas au courant!
 \xv no˧ ə˧tso˧ ɳv̩˧?
 \xe Which piece of news did you get? / What did you get to know?
@@ -46373,7 +46373,7 @@
 \gf se_draper_de
 \xv mɤ˧-pʰo˥
 \xe |fg{neg} 〜: not to drape oneself
-\xn 不披
+\xn |fg{否定} 〜：不披
 \xf |fg{neg} 〜: ne pas se draper
 \xc PHONO
 \xv bɑ˩lɑ˩ qɑ˩-pʰo˩˥
@@ -46773,7 +46773,7 @@
 \gf faire_la_guerre
 \xv mɤ˧-pʰo˩lɑ˩
 \xe |fg{neg} 〜: not to wage war
-\xn 不打仗
+\xn |fg{否定} 〜：不打仗
 \xf |fg{neg} 〜: ne pas faire la guerre
 \xv pʰo˩lɑ˧˥ | ɖɯ˧-kʰv̩˧˥
 \xe a year of war, a year during which there was war
@@ -49611,7 +49611,7 @@
 \xf il ne faut pas tromper (autrui)! (précepte inculqué à la locutrice par sa grand-mère)
 \xv mɤ˧-qæ˩
 \xe |fg{neg} 〜: not to cheat
-\xn 不骗
+\xn |fg{否定} 〜：不骗
 \xf |fg{neg} 〜: ne pas tromper
 \xc PHONO
 \xv hĩ˧ qæ˥-tso˩~tso˩!
@@ -50583,7 +50583,7 @@
 \gf aimer
 \xv mɤ˧-qo˥
 \xe |fg{neg} 〜: not to love
-\xn 不爱
+\xn |fg{否定} 〜：不爱
 \xf |fg{neg} 〜: ne pas aimer
 \xc PHONO
 \xv zo˧mv̩˥zo˩ qo˩
@@ -52943,7 +52943,7 @@
 \gf accuser
 \xv mɤ˧-qwɤ˧
 \xe |fg{neg} 〜: not to accuse
-\xn 不告状
+\xn |fg{否定} 〜：不告状
 \xf |fg{neg} 〜: ne pas accuser
 \xv hĩ˧ qwɤ˩
 \xe to accuse someone, to denounce someone
@@ -53844,7 +53844,7 @@
 \xc <langue="fra" dom="sem"> Contexte imaginé: quelqu'un s'adresse à un moine.
 \xv mɤ˧-ʁɑ˥-ʂe˩
 \xe |fg{neg} 〜: not to invite, not to call over
-\xn 否定 〜
+\xn |fg{否定} 〜：不请
 \xf |fg{neg} 〜: ne pas faire appel à
 
 \lx ʁæ˧tɑ˩
@@ -54365,7 +54365,7 @@
 \xf Un durillon s'est formé!
 \xv ʁo˩-mɤ˩-ho˥
 \xe 〜 |fg{neg} |fg{desiderative}
-\xn 不会出（茧子）
+\xn 〜 |fg{否定}xxxxxx：不会出（茧子）
 \xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
 
@@ -55531,7 +55531,7 @@
 \gf bénir/protéger
 \xv mɤ˧-ʁo˥ʐv̩˩
 \xe |fg{neg} 〜: not to bless
-\xn 否定 〜
+\xn |fg{否定} 〜：不保佑
 \xf |fg{neg} 〜: ne pas bénir
 \xc PHONO
 \xv gɤ˧lɑ˧ | ɖɯ˧-ʁo˥ʐv̩˩-ɻ̩˩!
@@ -55727,7 +55727,7 @@
 \gf crier
 \xv mɤ˧-ɻwæ˥
 \xe |fg{neg} 〜: not to cry
-\xn 不叫
+\xn |fg{否定} 〜：不叫
 \xf |fg{neg} 〜: ne pas crier
 \xc PHONO
 \xv ɻwæ˧~ɻwæ˧
@@ -56434,7 +56434,7 @@
 \xc PHONO
 \xv mɤ˧-ɻ̩̃˥
 \xe |fg{neg} 〜: not to be in dire straits
-\xn 否定 〜
+\xn |fg{否定} 〜：不困难
 \xf |fg{neg} 〜: ne pas être en mauvaise passe
 \xc PHONO
 \xv le˧-ɻ̩̃˧-zo˥, | ɻ̩̃˧-lɑ˩ bi˩-mɤ˩-dʑɯ˩!
@@ -56570,7 +56570,7 @@
 \gf se_tourner_vers
 \xv mɤ˧-ɻ̩˩
 \xe |fg{neg} 〜: not to turn
-\xn 否定 〜
+\xn |fg{否定} 〜：不对着
 \xf |fg{neg} 〜: ne pas se tourner
 \xc PHONO
 \xv ɖɯ˧-ɻ̩˧~ɻ̩˩
@@ -60203,7 +60203,7 @@
 \xf respirer très vite, haleter
 \xv mɤ˧-so˧tsʰi˥
 \xe |fg{neg} 〜: not to pant
-\xn 不喘气
+\xn |fg{否定} 〜：不喘气
 \xf |fg{neg} 〜: ne pas haleter
 \xc PHONO
 \xv so˧tsʰi˥-so˩hæ̃˩-ɻ̩˩
@@ -60584,7 +60584,7 @@
 \gf savoir
 \xv mɤ˧-sɯ˥
 \xe |fg{neg} 〜: not to know
-\xn 不知道
+\xn |fg{否定} 〜：不知道
 \xf |fg{neg} 〜: ne pas savoir
 
 \lx ʂɯ˧
@@ -62476,7 +62476,7 @@
 \xc PHONO
 \xv mɤ˧-ʂwæ˧
 \xe |fg{neg} 〜: not to stir
-\xn 不搅拌
+\xn |fg{否定} 〜：不搅拌
 \xf |fg{neg} 〜: ne pas remuer
 \xc PHONO
 \xv tso˧~tso˧ ʂwæ˩
@@ -68913,7 +68913,7 @@
 \xf |fg{red}: Elle/il est en train de faire un clin d'œil!
 \xv mɤ˧-tsɑ˩~tsɑ˩
 \xe |fg{neg} 〜 |fg{red}: not to wink
-\xn 不眨眼
+\xn |fg{否定} 〜 |fg{重叠}：不眨眼
 \xf |fg{neg} 〜 |fg{red}: ne pas cligner de l'œil
 \xc PHONO
 
@@ -73741,7 +73741,7 @@
 \gf toucher
 \xv mɤ˧-dzo˧˥
 \xe |fg{neg} 〜: not to paw
-\xn 不 〜
+\xn |fg{否定} 〜：不触摸
 \xf |fg{neg} 〜: ne pas tripoter
 \xc PHONO
 \xv tʰɑ˧-dzo˧˥!
@@ -74067,7 +74067,7 @@
 \xf attacher le buffle
 \xv mɤ˧-tsɯ˥
 \xe |fg{neg} 〜: not to tie
-\xn 否定 〜
+\xn |fg{否定} 〜：不绑
 \xf |fg{neg} 〜: ne pas attacher
 \xc PHONO
 \xv le˧-tsɯ˥-ze˩
@@ -74569,7 +74569,7 @@
 \gf cligner_des_yeux
 \xv mɤ˧-tsɯ˩pʰɤ˩
 \xe |fg{neg} 〜: not to blink
-\xn 不眨眼
+\xn |fg{否定} 〜：不眨眼
 \xf |fg{neg} 〜: ne pas cligner des yeux
 \xc PHONO
 \xv ɖɯ˧-tsɯ˧~tsɯ˥-ɻ̩˩
@@ -75441,7 +75441,7 @@
 \gf teindre
 \xv mɤ˧-ʈʂʰv̩˩
 \xe |fg{neg} 〜: not to dye
-\xn 否定 〜
+\xn |fg{否定} 〜：不染
 \xf |fg{neg} 〜: ne pas teindre
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
@@ -77383,7 +77383,7 @@
 \gf lancer
 \xv mɤ˧-ʈv̩˩
 \xe |fg{neg} 〜: not to throw
-\xn 否定 〜
+\xn |fg{否定} 〜：不掷
 \xf |fg{neg}: ne pas jeter
 \xc PHONO
 \xv lv̩˧mi˧ ʈv̩˩
@@ -79674,7 +79674,7 @@
 \gf |fg{exist.être_présent}
 \xv mɤ˧-ʑi˥
 \xe |fg{neg} 〜: not to be present; there is not any
-\xn 没有
+\xn |fg{否定} 〜：没有
 \xf |fg{neg} 〜: ne pas être présent: il n'y en a pas
 \xc PHONO
 
@@ -82666,7 +82666,7 @@
 \gf peser
 \xv mɤ˧-ʐwæ˧
 \xe |fg{neg} 〜: not to weigh
-\xn 不称
+\xn |fg{否定} 〜：不称
 \xf |fg{neg} 〜: ne pas peser
 \xc PHONO
 \xv le˧-ʐwæ˧-ze˧
