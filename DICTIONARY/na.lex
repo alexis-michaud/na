@@ -7857,13 +7857,12 @@
 \ge to_run/to_flow
 \dn 拉（肚子）
 \gn 拉（肚子）
-\df S'écouler, couler; avoir la courante = avoir la diarrhée.
+\df S'écouler, couler; avoir la diarrhée.
 \gf couler
 \xv bi˧mi˧ di˧˥
-\xe to have diarrhea
+\xe to have diarrhea, to have the runs
 \xn 拉肚子
-\xf avoir la diarrhée
-\dt 27/Aug/2015
+\xf avoir la diarrhée, avoir la courante
 
 \lx di˩-gɤ˩lɑ˥
 \sf <nb="B"> 660b
@@ -7895,6 +7894,7 @@
 \nt <type="hist" print="n" langue="cmn"> 注：这个词，是指山上的蕨菜，不是长在湖里的海菜花。
 \ton L
 \lc di˩li˩˥
+\cf di˩li˩-ʁo˩bv̩˥
 \so F4
 \pdv qɑ˩γ
 \pdc <langue="fra"> |fg{clf} des bottes, des brassées
@@ -7907,11 +7907,27 @@
 \gr 龙爪菜
 \df Fougère. Elle était consommée comme nourriture en temps de disette.
 \gf fougère
-\xv di˩li˩-ʁo˩bv̩˥ (ton: L+H#)
-\xe bracken shoots
-\xn 蕨菜的萌芽
-\xf pousses de fougère
-\xc <dom="ton"> L+H#
+
+\lx di˩li˩-ʁo˩bv̩˥
+\or ddili wobbu
+\mr di˩li˩
+\mr ʁo˧bv̩˧
+\ps n
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L+H#
+\lc di˩li˩ʁo˩bv̩˥
+\so F4
+\pdv qɑ˩γ
+\pdc <langue="fra"> |fg{clf} des bottes, des brassées
+\pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
+\pdc <langue="cmn"> 抱、垛的|fg{量词}
+\de Bracken shoots. They were used as famine food.
+\ge bracken_shoots
+\dn 蕨菜的萌芽
+\gn 蕨菜萌芽
+\df Pousses de fougère. Elles étaient consommées comme nourriture en temps de disette.
+\gf pousses_de_fougère
 \xv di˩li˩-ʁo˩bv̩˥ hwæ˩
 \xe to buy bracken shoots
 \xn 买蕨菜萌芽
@@ -7944,6 +7960,7 @@
 \lx di˩mæ˩
 \or ddimae
 \ps adv
+\an di˩ʁo˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \ton L
@@ -8033,6 +8050,7 @@
 \lx di˩ʁo˩
 \or ddiwo
 \ps adv
+\an di˩mæ˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \ton L
@@ -8148,11 +8166,28 @@
 \gn 愚蠢
 \df Bête, stupide.
 \gf stupide
-\xv zo˩ do˩˥
-\xe idiot, village idiot
-\xn 傻瓜
-\xf un idiot, un fou du village; perçu comme: «un homme qui n'a pas grandi», «quelqu'un qui est resté enfant»
-\dt 27/Aug/2015
+
+\lx zo˩do˩
+\or ssoddo
+\mr zo˥
+\mr do˧1
+\ps n
+\cf zo˧bæ˩
+\lc zo˩do˩˥
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\pdv v̩˧
+\de A village idiot. Such a character is perceived as ‘a man who has not grown up’, ‘someone who has remained a child’.
+\ge village_idiot
+\dn 傻瓜、白痴。这样的人被视为“没有长大的男人”。
+\gn 傻瓜
+\df Un idiot, un fou du village. Un tel personnage est perçu comme «un homme qui n'a pas grandi», «quelqu'un qui est resté enfant».
+\gf fou_du_village
 
 \lx do˧
 \sf <nb="2011"> 1525
@@ -9118,6 +9153,7 @@
 \sd <langue="eng"> morphosyntax
 \ton L?
 \lc --
+\cf dv̩˩-tɕo˧
 \so F4
 \de Distal demonstrative, appearing in the phrase “that way, in this direction".
 \ge |fg{dem.dist.direction}
@@ -9125,15 +9161,6 @@
 \gn |fg{指示代词}：那边（远指）
 \df Démonstratif distal, qui apparaît dans l'indication de direction ‘par là, dans cette direction’.
 \gf |fg{dem.dist.direction}
-\xv dv̩˩-tɕo˧
-\xe that way
-\xn 那个方向
-\xf cette direction-là
-\xc <dom="ton"> LM (‡LM+#H)
-\xv dv̩˩tɕo˧ fæ˧
-\xe that way (using the Chinese loanword |fn{方} ‘direction')
-\xn 那个方向（借用汉语的‘方’）
-\xf cette direction-là (comporte l'emprunt chinois |fn{方} ‘direction')
 
 \lx dv̩˩˧
 \sf <nb="B"> 2312
@@ -9454,15 +9481,23 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so F4
-\de Poisonous; obnoxious.
+\sn 1
+\de Poisonous.
 \ge poisonous
 \dn 有毒
 \gn 有毒
-\df Empoisonné, vénéneux, toxique; odieux
+\df Empoisonné, vénéneux, toxique.
 \gf vénéneux
+\sn 2
+\de Obnoxious.
+\ge obnoxious
+\dn 厌恶
+\gn 厌恶
+\df Odieux.
+\gf odieux
 \xv ɖwæ˩˥ | dv̩˩˥! | ʈʂʰɯ˧ | hĩ˧-ʁo˧to˩, | dzɑ˧ ʝi˧ kv̩˩!
 \xe This person is obnoxious! (S)he hurts other people!
-\xn 这个人非常坏，他伤害其他人！
+\xn 这个人非常厌恶，他伤害其他人！
 \xf Cette personne est odieuse! Elle fait du mal aux autres!
 
 \lx ɖwæ˧˥
@@ -32382,7 +32417,7 @@
 \gn 永宁
 \df Yongning (nom de lieu).
 \gf Yongning
-\xv ɬi˧di˩di˩mi˩
+\xv ɬi˧di˩-di˩mi˩
 \xe Yongning plain
 \xn 永宁坝子
 \xf la plaine de Yongning
@@ -39090,7 +39125,7 @@
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> ton vérifié, est LM et non ‡LM+#H; suivi de: ɲi˩
+\nt <type="hist" print="n" langue="fra"> Ton vérifié, est LM et non ‡LM+#H. Suivi de: ɲi˩. Donc bien un ton LM.
 \ton LM
 \lc dv̩˩tɕo˥
 \so F4
@@ -39100,6 +39135,10 @@
 \gn 那边
 \df Dans cette direction-là, vers là-bas.
 \gf vers_là_bas
+\xv dv̩˩-tɕo˧ fæ˧
+\xe that way (using the Chinese loanword |fn{方} ‘direction')
+\xn 那个方向（借用汉语的‘方’）
+\xf cette direction-là (comporte l'emprunt chinois |fn{方} ‘direction')
 
 \lx mv̩˩tʰi˩
 \or muti
@@ -83168,7 +83207,7 @@
 \gn 未来／愿望
 \df Futur / désidératif / conjecture.
 \gf |fg{fut}/désidératif/conjecture
-\xv hi˩gi˩ ə˥-ho˩? — hi˩ gi˩ ho˥!
+\xv hi˩ gi˩ ə˥-ho˩? — hi˩ gi˩ ho˥!
 \xe Is it going to rain? — Yes, it is going to rain!
 \xn 要下雨了吗？ — 是的，要下雨了！
 \xf Va-t-il pleuvoir? — Oui!
