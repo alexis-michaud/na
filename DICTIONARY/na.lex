@@ -247,7 +247,7 @@
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \nt <type="hist" print="n" langue="fra"> Vérifié en août 2014: non nasalisé.
-\nt <type="hist" print="n" langue="fra"> En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuve', qui avait été élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
+\nt <type="hist" print="n" langue="fra"> En mai 2024: retiré l'expression |fv{æ˩-ʂɯ˩˥}, 'araire neuf', qui avait été élicitée "à tout va", comme équivalent de l'expression 'vieille charrue, charrue hors d'usage'. (Anglais: new ard, brand new ard. Chinois: 新的犁架子.)
 \ton L
 \lc æ˩gv̩˩˥
 \so F4
@@ -258,12 +258,12 @@
 \ge ard
 \dn 犁头（摩梭语不区分对称和不对称的犁，2006年调查时用的是对称的犁）
 \gn 犁头
-\df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire (symétrique) et l'autre pour la charrue (dissymétrique). À la date de l'enquête (2006), seule l'araire était en usage.
+\df Araire. Il n'existe pas deux termes distincts, l'un pour l'araire (symétrique) et l'autre pour la charrue (dissymétrique). À la date de l'enquête (2006), seul l'araire était en usage.
 \gf araire
 \xv æ˩gv̩˩ tʰv̩˩-nɑ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that ard
 \xn 〜 |fg{指示代词} |fg{量词}：那把犁头
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cet araire
 \xc PHONO
 
 \lx æ˩mo˥
@@ -280,12 +280,12 @@
 \ge used_ard
 \dn 陈旧的犁架子（不能再用了）
 \gn 陈旧的犁架子
-\df Araire usagée, vieille araire (hors d'usage du fait de l'usure).
-\gf araire_usagée
+\df Araire usagé, vieil araire (hors d'usage du fait de l'usure).
+\gf araire_usagé
 \xv æ˩mo˥ tʰv̩˩-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that used ard
 \xn 〜 |fg{指示代词} |fg{量词}：那个旧犁架子（犁杆）
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce vieil araire
 \xc PHONO
 
 \lx æ˩mo˧
@@ -348,9 +348,9 @@
 \df Mancheron de l'araire, manche de l'araire. Il permet de contrôler l'orientation de l'araire et la profondeur du sillon.
 \gf mancheron
 \xv æ˩gv̩˩-mæ˩qo˥ tʰv̩˩-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that ard handle
 \xn 〜 |fg{指示代词} |fg{量词}：那个犁把
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce mancheron d'araire
 \xc PHONO
 
 \lx æ˩gv̩˩-mæ˩
@@ -1784,9 +1784,9 @@
 \df Corde.
 \gf corde
 \xv bæ˩ ʈʂʰɯ˩-kʰɯ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this rope
 \xn 〜 |fg{指示代词} |fg{量词}：这条绳子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette corde
 \xc PHONO
 \xv bæ˧ tsʰi˩
 \xe string, thin rope
@@ -2367,9 +2367,9 @@
 \df Canard (mâle).
 \gf canard
 \xv bæ˧mi˧-pʰv̩˧ tʰv̩˧-mi˧˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that duck
 \xn 〜 |fg{指示代词} |fg{量词}：那只公鸭子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce canard
 
 \lx bæ˩pʰv̩˥
 \or bbaepeu
@@ -2415,9 +2415,9 @@
 \df Canard (mâle).
 \gf canard
 \xv bæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ bæ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that duck
 \xn 〜 |fg{指示代词} |fg{量词}：那只公鸭子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce canard
 
 \lx bæ˧pʰv̩˧-bæ˧mi#˥
 \or bbaepu bbaemi
@@ -2585,9 +2585,9 @@
 \df Caneton, petit canard.
 \gf caneton
 \xv bæ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that duckling
 \xn 〜 |fg{指示代词} |fg{量词}：那只小鸭子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce caneton
 \xv bæ˧zo˧-bæ˧mi#˥
 \xe duckling and female duck
 \xn 小鸭子与母鸭
@@ -5092,9 +5092,9 @@
 \df Insecte.
 \gf insecte
 \xv bɻ̩˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that insect
 \xn 〜 |fg{指示代词} |fg{量词}：那只虫
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cet insecte
 \xc PHONO
 
 \lx bv̩˥
@@ -5125,7 +5125,7 @@
 \xf très épais
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> Notes de 2006: «/kʶɤ˥ pv̩˥gv̩˥/; M18 corrige en /kʶɑ˥bv̩˧gv̩˧/, ‘très gros'.»
-\xv qʰɑ˧bv̩˧~bv̩˧-gv̩˧
+\xv qʰɑ˧-bv̩˧~bv̩˧-gv̩˧
 \xe very thick (as above)
 \xn 很粗、多粗的、好粗（同上）
 \xf très épais (idem ci-dessus)
@@ -5546,9 +5546,9 @@
 \df Fumier.
 \gf fumier
 \xv bɻ̩˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that pile of manure
 \xn 〜 |fg{指示代词} |fg{量词}：那堆肥料
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce tas de fumier
 
 \lx bɻ̩˩qo˩-bɻ̩˧qʰæ˩
 \sf <nb="2011"> 852
@@ -5595,9 +5595,9 @@
 \df Fumier.
 \gf fumier
 \xv bɻ̩˩qo˩-qʰæ˩ tʰv̩˩-ʁwɤ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that heap of manure
 \xn 〜 |fg{指示代词} |fg{量词}：那堆肥料
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce tas de fumier
 
 \lx bɻ̩˩qʰv̩˩
 \sf <nb="B"> 437b
@@ -5693,9 +5693,9 @@
 \df Mouche.
 \gf mouche
 \xv bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˧˥ ≈ bɻ̩˧ɻ̩˧ ʈʂʰɯ˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this fly
 \xn 〜 |fg{指示代词} |fg{量词}：这只苍蝇
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette mouche
 \xc PHONO
 
 \lx bɻ̩˧ʂæ˧
@@ -5866,9 +5866,9 @@
 \df Petit du yak.
 \gf petit_du_yak
 \xv bɻ̩˧zo˧ tʰv̩˧-mi˧˥ ≈ bɻ̩˧zo˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that yak calf
 \xn 〜 |fg{指示代词} |fg{量词}：那头小牦牛
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce jeune yak
 \xc PHONO
 
 \lx bv̩˧ʐv̩˧
@@ -11011,9 +11011,9 @@
 \df Buffle (femelle).
 \gf buffle_femelle
 \xv dʑi˧mi˧ tʰv̩˧-pʰo˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that female water buffalo
 \xn 〜 |fg{指示代词} |fg{量词}：那头母水牛
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce buffle femelle
 \xv dʑi˧mi˧-dʑi˧zo#˥ ≈ dʑi˧mi˧-dʑi˥zo˩
 \xe female water buffalo and male water buffalo
 \xn 母水牛与公水牛
@@ -11132,10 +11132,9 @@
 \df Buffle (enfant mâle).
 \gf petit_du_buffle
 \xv dʑi˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that young water buffalo
 \xn 〜 |fg{指示代词} |fg{量词}：那只水牛崽子
-\xf 〜 |fg{dem} |fg{clf}
-\dt 24/Apr/2017
+\xf 〜 |fg{dem} |fg{clf}: ce jeune buffle
 
 \lx dzi˩α
 \sf <nb="B"> 1647
@@ -12846,10 +12845,9 @@
 \df Cigale.
 \gf cigale
 \xv dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˧˥ ≈ dʑɯ˧dze˧-mi˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that cicada
 \xn 〜 |fg{指示代词} |fg{量词}：那只蝉
-\xf 〜 |fg{dem} |fg{clf}
-\dt 24/Apr/2017
+\xf 〜 |fg{dem} |fg{clf}: cette cigale
 
 \lx dʑɯ˩gɤ˩di˩
 \sf <nb="B"> 592
@@ -14780,9 +14778,9 @@
 \df Moineau mâle.
 \gf moineau_mâle
 \xv ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ɖʐwæ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male sparrow
 \xn 〜 |fg{指示代词} |fg{量词}：那只公麻雀
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce moineau mâle
 \xc PHONO
 
 \lx ɖʐwæ˧zo#˥
@@ -17357,9 +17355,9 @@
 \df Ours (mâle).
 \gf ours_mâle
 \xv gi˧-nɑ˧mi˧-pʰv̩˧ tʰv̩˧-pʰo˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male bear
 \xn 〜 |fg{指示代词} |fg{量词}：那只公熊
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cet ours mâle
 
 \lx gi˧-nɑ˧mi˧-zo#˥
 \sf <nb="B"> 1878
@@ -17383,9 +17381,9 @@
 \df Ourson (de sexe masculin).
 \gf ourson
 \xv gi˧-nɑ˧mi˧-zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that bear cub
 \xn 〜 |fg{指示代词} |fg{量词}：那只小熊
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cet ourson
 
 \lx gi˧-nɑ˧mi#˥
 \sf <nb="B"> 1877
@@ -17408,10 +17406,9 @@
 \df Ours (mâle ou femelle). Il n'existe pas de terme désignant de façon non ambiguë une ourse.
 \gf ours
 \xv gi˧-nɑ˧mi˧ tʰv̩˧-pʰo˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that bear
 \xn 〜 |fg{指示代词} |fg{量词}：那只熊
-\xf 〜 |fg{dem} |fg{clf}
-\dt 24/Apr/2017
+\xf 〜 |fg{dem} |fg{clf}: cet ours
 
 \lx gi˧zɯ˧-go˧mi#˥
 \sf <nb="B"> 312
@@ -21593,9 +21590,9 @@
 \df Faisan, |fi{Phasianus colchicus}. Également appelé «poule sauvage». Le même terme est utilisé pour la caille.
 \gf faisan
 \xv ho˧ tʰv̩˧-mi˧˥ ≈ ho˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that pheasant
 \xn 〜 |fg{指示代词} |fg{量词}：那只雉
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce faisan
 \xc PHONO
 
 \lx mv̩˧mi˧-mæ˧ɖv̩#˥
@@ -21960,9 +21957,9 @@
 \df Faisan femelle.
 \gf faisan_femelle
 \xv ho˧mi˧ tʰv̩˧-mi˧˥ ≈ ho˧mi˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that hen pheasant
 \xn 〜 |fg{指示代词} |fg{量词}：那只母雉
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce faisan femelle
 \xv ho˧mi˧-ho˧pʰv̩˥ ≈ ho˧mi˧-ho˥pʰv̩˩
 \xe female and male pheasant
 \xn 母雉与公雉
@@ -21986,9 +21983,9 @@
 \df Faisan mâle.
 \gf faisan_mâle
 \xv ho˧pʰv̩˧ tʰv̩˧-mi˧˥ ≈ ho˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male pheasant
 \xn 〜 |fg{指示代词} |fg{量词}：那只公雉
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce faisan mâle
 
 \lx hɤ˩-ʂe˩ʂe˩
 \or hesheishei
@@ -22142,10 +22139,9 @@
 \df Bébé faisan.
 \gf bébé_faisan
 \xv ho˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that pheasant chick
 \xn 〜 |fg{指示代词} |fg{量词}：那只小雉
-\xf 〜 |fg{dem} |fg{clf}
-\dt 29/Jul/2017
+\xf 〜 |fg{dem} |fg{clf}: ce bébé faisan
 
 \lx hõ˧α
 \sf <nb="B"> 2259
@@ -22912,12 +22908,12 @@
 \dn 大锄
 \gn 大锄
 \gr 挖锄
-\df Grosse houe.
+\df Grosse houe, grande houe.
 \gf grande_houe
 \xv hwæ˧pʰæ˩ tʰv̩˩-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that large hoe
 \xn 〜 |fg{指示代词} |fg{量词}：那把大锄
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette grande houe
 
 \lx hwæ˧pʰæ˥
 \sf <nb="B"> 409b
@@ -23664,9 +23660,9 @@
 \df Matou, chat mâle.
 \gf matou
 \xv hwɤ˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that tom-cat
 \xn 〜 |fg{指示代词} |fg{量词}：那个公猫
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce matou
 \xv hwɤ˧pʰv̩˧-hwɤ˧mi˥
 \xe tom-cat and she-cat
 \xn 公猫与母猫
@@ -23771,9 +23767,9 @@
 \df Chaton.
 \gf chaton
 \xv hwɤ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that kitten
 \xn 〜 |fg{指示代词} |fg{量词}：那只小猫
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chaton
 \xv hwɤ˧zo˧-hwɤ˧mi˥
 \xe cats, the cat family: kitten and parents
 \xn 猫，包括小猫、母猫和公猫
@@ -24100,10 +24096,9 @@
 \xn 牛皮
 \xf peau de vache
 \xv ʝi˧ tʰv̩˧-pʰo˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that ox skin
 \xn 〜 |fg{指示代词} |fg{量词}：那头牛
-\xf 〜 |fg{dem} |fg{clf}
-\dt 02/Sep/2015
+\xf 〜 |fg{dem} |fg{clf}: cette peau de vache
 
 \lx ʝi˧nɑ˥
 \or yina
@@ -24768,9 +24763,9 @@
 \df Taureau.
 \gf taureau
 \xv ʝi˧pʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that bull
 \xn 〜 |fg{指示代词} |fg{量词}：那头公牛
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce taureau
 \xv ʝi˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
 \xe 〜 |fg{dem} |fg{clf}.animals
 \xn 〜 |fg{指示代词} |fg{量词}：那头公牛
@@ -25160,9 +25155,9 @@
 \df Veau.
 \gf veau
 \xv ʝi˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that calf
 \xn 〜 |fg{指示代词} |fg{量词}：那头小牛
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce veau
 
 \lx jo˩
 \sf <nb="B"> 1889
@@ -28734,13 +28729,13 @@
 \df Griffes de poulet.
 \gf griffes_de_poulet
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that chicken foot
 \xn 〜 |fg{指示代词} |fg{量词}：那个鸡爪
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette griffe de poulet
 \xv kʰɯ˧ʈʂɤ˧ tʰv̩˧-ʈv̩˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that chicken foot
 \xn 〜 |fg{指示代词} |fg{量词}：那个鸡爪
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette griffe de poulet
 
 \lx kʰɯ˧tsɯ˧bæ˥
 \or keezibbae
@@ -29060,9 +29055,9 @@
 \df Nid (monosyllabe).
 \gf nid(monosyll.)
 \xv kʰv̩˧ | ʈʂʰɯ˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this nest
 \xn 〜 |fg{指示代词} |fg{量词}：这只鸟巢
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce nid
 \xc PHONO
 \xv kʰv̩˩ gv̩˩˥
 \xe to build a nest
@@ -29155,9 +29150,9 @@
 \xn 狗的生命（传说狗与人交换了生命）
 \xf l'existence du chien, la vie du chien (qu'il a échangée avec l'homme, selon la légende)
 \xv kʰv̩˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that dog
 \xn 〜 |fg{指示代词} |fg{量词}：那条狗
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chien
 \xv kʰv̩˧-gɤ˥ljɤ˩
 \xe roving dog
 \xn 流浪狗
@@ -29446,9 +29441,9 @@
 \df Chien (sans spécifier le sexe).
 \gf chien
 \xv kʰv̩˩mi˩ ʈʂʰɯ˩-jɤ˧
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this dog
 \xn 〜 |fg{指示代词} |fg{量词}：这条狗
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chien
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
 \xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
@@ -29655,19 +29650,19 @@
 \df Chien mâle (forme élicitée).
 \gf chien_mâle
 \xv kʰv̩˧pʰv̩˧ ʈʂʰɯ˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this he-dog
 \xn 〜 |fg{指示代词} |fg{量词}：这只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chien mâle
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-mi˧˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that he-dog
 \xn 〜 |fg{指示代词} |fg{量词}：那只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chien mâle
 \xc PHONO
 \xv kʰv̩˧pʰv̩˧ tʰv̩˧-v̩#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that he-dog
 \xn 〜 |fg{指示代词} |fg{量词}：那只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chien mâle
 \xc PHONO
 
 \lx kʰv̩˧qʰwɤ˧˥
@@ -30045,27 +30040,43 @@
 \pdv v̩˧
 \pdv mi˩β
 \pdv ɭɯ˧β
-\de Male dog.
+\de Puppy, young male dog.
+\ge puppy
 \dn 公狗
 \gn 公狗
-\df Chien (mâle); chiot.
-\gf petit_chien
+\df Chiot.
+\gf chiot
 \xv kʰv̩˧zo˧ ʈʂʰɯ˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
-\xn 〜 |fg{指示代词} |fg{量词}：这只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this puppy
+\xn 〜 |fg{指示代词} |fg{量词}：这只小狗
+\xf 〜 |fg{dem} |fg{clf}: ce chiot
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-mi˧˥
-\xe 〜 |fg{dem} |fg{clf}
-\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that puppy
+\xn 〜 |fg{指示代词} |fg{量词}：那只小狗
+\xf 〜 |fg{dem} |fg{clf}: ce chiot
 \xc PHONO
 \xv kʰv̩˧zo˧ tʰv̩˧-v̩#˥
-\xe 〜 |fg{dem} |fg{clf}
-\xn 〜 |fg{指示代词} |fg{量词}：那只公狗
-\xf 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that puppy
+\xn 〜 |fg{指示代词} |fg{量词}：那只小狗
+\xf 〜 |fg{dem} |fg{clf}: ce chiot
 \xc PHONO
 \sn 2
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\lc kʰv̩˧zo˧
+\so F4
+\pdv v̩˧
+\pdv mi˩β
+\pdv ɭɯ˧β
+\de Male dog.
+\ge male_dog
+\dn 公狗
+\gn 公狗
+\df Chien (mâle).
+\gf chien_mâle
+\sn 3
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \de “Puppy-Boy": a term used as a temporary name for baby boys, during the first months of their life, before they are given a real name. The practice of giving newborns a temporary, often unpleasant or degrading name is intended to keep them safe from evil spirits and misfortune. The practice stems from a belief (shared with other ethnic groups in China) that by giving a child an unattractive name, malevolent spirits and demons would be disgusted by the ugly name, and therefore overlook or ignore the child. (The registry office requires a name to be given at birth, but this name only begins to be used by the family after the first months of life have elapsed.)
@@ -31288,9 +31299,9 @@
 \df Tigresse.
 \gf tigresse
 \xv lɑ˧mi˧ tʰv̩˧-mi˧˥ ≈ lɑ˧mi˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that female tiger
 \xn 〜 |fg{指示代词} |fg{量词}：那只老虎
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette tigresse
 
 \lx ɬɑ˧mv̩˥$
 \or Lhamu
@@ -31382,9 +31393,9 @@
 \df Tigre (mâle).
 \gf tigre(mâle)
 \xv lɑ˧pʰv̩˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
-\xn 〜 |fg{指示代词} |fg{量词}：那只老虎
-\xf 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male tiger
+\xn 〜 |fg{指示代词} |fg{量词}：那只公老虎
+\xf 〜 |fg{dem} |fg{clf}: ce tigre
 
 \lx læ˧ʁæ˧-mi˥$
 \or laehraemi
@@ -31418,9 +31429,9 @@
 \df Corbeau mâle. (Ce n'est pas un terme usuel: dans la langue courante, on ne distingue pas corbeau mâle et corbeau femelle.)
 \gf corbeau_mâle
 \xv læ˧ʁæ˧-pʰv̩˧ tʰv̩˧-mi˥$
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male raven
 \xn 〜 |fg{指示代词} |fg{量词}：那只公乌鸦
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce corbeau mâle
 
 \lx læ˧ʁæ˥$
 \sf <nb="B"> 1798
@@ -31718,9 +31729,9 @@
 \df Petit tigre.
 \gf bébé_tigre
 \xv lɑ˧zo˧ tʰv̩˧-ɭɯ#˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that baby tiger
 \xn 〜 |fg{指示代词} |fg{量词}：那只小老虎
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce petit tigre
 
 \lx lɑ˩~lɑ˧˥
 \sf <nb="B"> 1690
@@ -32717,9 +32728,9 @@
 \df Chevrotain mâle.
 \gf chevrotain_mâle
 \xv ɬi˧pʰv̩˧ tʰv̩˧-mi˥# ≈ ɬi˧pʰv̩˧ tʰv̩˧-mi˧˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that male roebuck
 \xn 〜 |fg{指示代词} |fg{量词}：那只公獐子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce chevrotain mâle
 
 \lx ɬi˧qʰæ#˥
 \sf <nb="B"> 115
@@ -33587,9 +33598,9 @@
 \df Serfouette, croc à trois dents: instrument à trois dents perpendiculaires au manche, pour ameublir la terre. Les modèles actuellement utilisés ont une tête en métal.
 \gf serfouette
 \xv lo˧ɖʐɤ˩ ʈʂʰɯ˩-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this weeding hoe
 \xn 〜 |fg{指示代词} |fg{量词}：这把三齿耙
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette serfouette
 
 \lx lo˧fv̩˧
 \sf <nb="B"> 1029
@@ -35105,9 +35116,9 @@
 \df Mante religieuse.
 \gf mante_religieuse
 \xv ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˧˥ ≈ ɬv̩˧mi˧mæ˧dv̩˧mi˧ tʰv̩˧-mi˥#
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that praying mantis
 \xn 〜 |fg{指示代词} |fg{量词}：那只螳螂
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette mante religieuse
 
 \lx ɬv̩˩pʰæ˩
 \sf <nb="2011"> 1452
@@ -41839,9 +41850,9 @@
 \df Poisson.
 \gf poisson
 \xv ɲi˧zo˧ tʰv̩˧-mi˥# ≈ ɲi˧zo˧ tʰv̩˧-mi˧˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that fish
 \xn 〜 |fg{指示代词} |fg{量词}：那条鱼
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce poisson
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales. Mme Latami exprime une préférence pour le schéma tonal H#.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants. Mrs. Latami expresses a preference for H#.
 \xc <dom="ton" langue="cmn"> 该短语有两种声调变体。拉他咪女士偏爱H#。
@@ -51325,9 +51336,9 @@
 \df Cordelette, ficelle.
 \gf cordelette
 \xv qʰv̩˩ɖʐæ˩ ʈʂʰɯ˩-kʰɯ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this string
 \xn 〜 |fg{指示代词} |fg{量词}：这条细的绳子
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: cette cordelette
 
 \lx qv̩˧dzi˩
 \sf <nb="B"> 2017
@@ -53071,9 +53082,9 @@
 \df Joug (le terme est le même pour un ou deux animaux).
 \gf joug
 \xv ɻæ˩ ʈʂʰɯ˩-ɭɯ˥ ≈ ɻæ˩ ʈʂʰɯ˩-ɭɯ˩˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this yoke
 \xn 〜 |fg{指示代词} |fg{量词}：这个牛轭
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce joug
 \xc <dom="ton" langue="fra"> Cette expression possède deux variantes tonales.
 \xc <dom="ton" langue="eng"> This phrase has two tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有两种声调变体。
@@ -53756,9 +53767,9 @@
 \xn 牛肩隆
 \xf garrot de vache
 \xv ʁæ˧tɑ˩ tʰv̩˩-ɭɯ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that ox's withers
 \xn 〜 |fg{指示代词} |fg{量词}：那只肩隆
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce garrot de vache
 
 \lx ʁæ˧ʈv̩˥
 \sf <nb="B"> 140
@@ -65439,9 +65450,9 @@
 \df Joug.
 \gf 夹担::joug
 \xv tɕɤ˧tɑ˧ tʰv̩˧-ɭɯ˧
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that yoke
 \xn 〜 |fg{指示代词} |fg{量词}：那个牛轭
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce joug
 
 \lx tɕɤ˧tɑ˧-bæ˩
 \sf <nb="B"> 584
@@ -65466,9 +65477,9 @@
 \df Courroies entre le joug et l'araire.
 \gf courroies_du_joug
 \xv tɕɤ˧tɑ˧-bæ˩ tʰv̩˩-kʰɯ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that towrope
 \xn 〜 |fg{指示代词} |fg{量词}：那条牛皮绳
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ces courroies
 \xc PHONO
 
 \lx tɕʰɤ˧tɕo˩
@@ -73751,9 +73762,9 @@
 \df Soc de l'araire.
 \gf soc
 \xv ʈʂʰɻ̩˧ ʈʂʰɯ˧-ɭɯ˧
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: this ploughshare
 \xn 〜 |fg{指示代词} |fg{量词}：这把铧头
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce soc d'araire
 
 \lx ʈʂʰɻ̩˧˥
 \sf <nb="B"> 1750
@@ -75591,9 +75602,9 @@
 \df Filet. (Les filets n'étaient guère en usage à Yongning dans le temps. La nasse pour attraper les poissons, |fv{ɲi˧ʈʂæ˥-pɤ˩tv̩˩}, était confectionnée en bambou.)
 \gf filet
 \xv ʈʂʰwæ˧kɯ˧ tʰv̩˧-nɑ˩
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that net
 \xn 〜 |fg{指示代词} |fg{量词}：那个网
-\xf 〜 |fg{dem} |fg{clf}
+\xf 〜 |fg{dem} |fg{clf}: ce filet
 \xc PHONO
 
 \lx ʁwɤ˧
