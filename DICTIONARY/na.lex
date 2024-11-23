@@ -440,7 +440,7 @@
 \xe to shout
 \xn 叫
 \xf crier
-\xv no˧ | æ˧ʝi˩ tʰɑ˩-kʰɯ˩! | no˧ se˧-dʑæ˩ɻæ˩-gv̩˩! |
+\xv no˧ | æ˧ʝi˩ tʰɑ˩-kʰɯ˩! | no˧ se˧-dʑæ˩ɻæ˩-gv̩˩!
 \xe Don't make noise! You are annoying everyone! (Context: a reprimand given to people who spoke too loudly)
 \xn 请你不要大声／别那么大声！你就是叽叽喳喳！（你在麻烦大家、你很烦人）
 \xf Ne fais pas tant de bruit, tu embêtes le monde! (Contexte: réprimande qu'on adressait aux gens qui parlaient trop fort, qui élevaient la voix.)
@@ -1022,7 +1022,7 @@
 \xf Tandis que les autres adultes partaient travailler (aux champs), Ddeezzhi Lhaco, elle, on lui avait dit de rester à la maison / on l'avait affectée aux tâches domestiques!
 \txt BuriedAlive3.6
 \doi 10.24397/pangloss-0004539#S6
-\xv go˧mi˧-dʑo˥ | tʰi˩˥, | ɑ˩ʁo˧ dʑo˩ tsɯ˩ ◊ -mv̩˩. |
+\xv go˧mi˧-dʑo˥ | tʰi˩˥, | ɑ˩ʁo˧ dʑo˩ tsɯ˩ ◊ -mv̩˩.
 \xe As for the sister, she stayed at home [while her brother went out hunting in the wilderness for months on end].
 \xn 妹妹呢，她待在家里（而她的哥哥则连续几个月到野外打猎）。
 \xf Quant à la sœur, elle demeurait à la maison, dit-on [tandis que son frère allait chassant par monts et par vaux des mois durant].
@@ -1168,7 +1168,7 @@
 \gn 一座山的名字
 \df Aeshae, nom d'une montagne: l'une des deux principales montagnes autour de la plaine de Yongning, la montagne masculine («le jeune homme»: |fv{/pʰæ˧tɕi˥/}); l'autre étant la montagne |fv{/kɤ˧mv̩˧˥/}, montagne féminine («la jeune femme»: |fv{/mi˩zɯ˩˥/}). Latitude: 27.74883, longitude: 100.63379.
 \gf nom_d_une_montagne
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -7520,7 +7520,7 @@
 \gn 滑头
 \df Malhonnête, faux-jeton, fuyant.
 \gf malhonnête
-\xv no˧ | ɖæ˩ʂo˩~ɖæ˥ʂo˩! |
+\xv no˧ | ɖæ˩ʂo˩~ɖæ˥ʂo˩!
 \xe You are really cunning! (A criticism of someone who is not direct, not honest, who does not have a proper attitude: giving a slimy impression.)
 \xn 你真滑头！
 \xf Tu es bien malhonnête! (Critique de quelqu'un qui n'est pas franc et direct, qui est faux jeton, qui n'a pas une bonne attitude, donnant une impression huileuse: qui s'esquive et se dérobe, comme un objet glissant qui se dérobe à la prise.)
@@ -7666,7 +7666,7 @@
 \xe a section of road, a stretch of road
 \xn 一段路
 \xf un bout de chemin, un bout de route
-\xv ɲi˧, ɲi˩-ɖæ˩! |
+\xv ɲi˧, ɲi˩-ɖæ˩!
 \xe Two stretches a day! (Set phrase: in one day, one can cover a distance of two ‘stretches'. If one can get somewhere before lunch, the distance counts as one stretch/section; if one can only arrive there in the afternoon, it counts as two stretches/sections.)
 \xn 一天两段路！（说明：早上出发，如果午饭前能到目的地，距离算是一段，如果下午晚上才到，算两段。）
 \xf Formule figée traditionnelle: un jour, ça fait deux étapes! (si on peut parvenir quelque part avant le déjeuner, la distance est considérée comme une seule étape; si on y parvient dans l'après-midi, on compte deux étapes)
@@ -7907,7 +7907,7 @@
 \gn 往下
 \df Vers le bas (d'une pente de montagne), vers l'aval.
 \gf aval
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧!
 \xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
 \xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
 \xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
@@ -7996,7 +7996,7 @@
 \gn 往上
 \df Vers le haut (d'une pente de montagne), vers l'amont.
 \gf amont
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧!
 \xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
 \xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
 \xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
@@ -8533,7 +8533,7 @@
 \xe (You) are not allowed to climb (on the table,…)
 \xn 不许爬上（桌子……）
 \xf (tu) n'as pas le droit de grimper/monter sur (une table…)
-\xv lɑ˧-kʰv̩˧˥, | ʑi˧qʰwɤ˧ tsʰi˧-mɤ˧-ɖo˧! | ʑi˩-kʰv̩˩˥, | ʑi˧qʰwɤ˧ tsʰi˧-mɤ˧-ɖo˧! |
+\xv lɑ˧-kʰv̩˧˥, | ʑi˧qʰwɤ˧ tsʰi˧-mɤ˧-ɖo˧! | ʑi˩-kʰv̩˩˥, | ʑi˧qʰwɤ˧ tsʰi˧-mɤ˧-ɖo˧!
 \xe (During) the year of the Tiger, one should not build a house! (During) the year of the Monkey, one should not build a house! (These years are considered too “hard", |fv{/wu˧/}, by astrology.)
 \xn 虎年，不要建房！猴年，不要建房！（这样的年，被认为是太‘硬’的。）
 \xf L'année du Tigre, l'année du Singe, il ne faut pas construire de maison/il ne faut pas se lancer dans la construction d'une maison! (Ce sont des années trop «dures», |fv{/wu˧/}, selon l'astrologie traditionnelle)
@@ -12663,7 +12663,7 @@
 \xe to irrigate, to water
 \xn 浇灌、灌溉
 \xf irriguer, arroser, mettre de l’eau
-\xv dʑɯ˩ qæ˩, hɑ˩ qæ˩˥ |
+\xv dʑɯ˩ qæ˩, hɑ˩ qæ˩˥
 \xe a description of the traveller's changes in environment: ‘to change water, to change food'. This requires using strategies to avoid ailments: in particular, it was customary to boil in water a little earth of the place where one had arrived, and to drink this preparation.
 \xn ‘换水换土’：这个短语描述旅人到他人乡的情况，带来水土不服的危险。为了预防这类不良反应，摩梭旅人习惯水煮一点当地的土，喝下去，为了适应当地的水土。
 \xf description du dépaysement que connaît le voyageur qui arrive en pays étranger et doit ‘changer d'eau, changer de nourriture'. Ce dépaysement commande des stratégies de prévention de soucis de santé: en particulier, il était usuel de faire bouillir un peu de terre locale dans de l'eau, et de boire cette préparation de façon à s'accoutumer.
@@ -14620,7 +14620,7 @@
 \gn 意愿
 \df Souhait, désir, envie.
 \gf souhait
-\xv õ˧ ɖʐɻ̩˥, õ˩ li˩! |
+\xv õ˧ ɖʐɻ̩˥, õ˩ li˩!
 \xe “One does as one pleases, right!” This set phrase is used as a critical observation, an ironic comment: “Oh well, you go ahead and do as you like, don't you!” It underlines the distance between the initiatives taken by the individual and alternatives that would take into account the points of view of others.
 \xn “就按照自己的意愿来！”这句话，用来讽刺批评不考虑别人的行为：“哦，好吧，想做什么就做什么，对不对！”
 \xf «On fait bien ce qu'on veut!» Cette formule est utilisée comme une observation critique, au second degré: «Ah ben vas-y, fais bien comme tu l'entends!» Elle souligne la distance entre les initiatives que prend la personne et ce que pourrait être une action qui prenne en compte le point de vue d'autrui.
@@ -14752,7 +14752,7 @@
 \gn 放心
 \df Être en confiance, être rassuré.
 \gf être_en_confiance
-\xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩! |
+\xv no˧-ɳɯ˧ | ɖʐwæ˧ʝi˥ tsæ˩ ɲi˩!
 \xe Rest assured! / Set your mind at rest!
 \xn 你放心吧！／请你放心！
 \xf Sois sans crainte! / Sois confiant(e)! / Tu peux être en confiance!
@@ -15287,11 +15287,11 @@
 \xe to work slowly, to do slowly
 \xn 慢慢做
 \xf travailler lentement, faire lentement
-\xv ə˧dzɤ˧ le˧-hõ˩! |
+\xv ə˧dzɤ˧ le˧-hõ˩!
 \xe Goodbye! (Said by the host to their guest. Literally: “Walk slowly!" = “Take your time on the way!")
 \xn 慢走！
 \xf Au revoir! (Dit par l'hôte à la personne qui s'en va. Littéralement: «Allez doucement!» / «Prenez votre temps en chemin!»)
-\xv ə˧dzɤ˥ | le˧-hõ˩! |
+\xv ə˧dzɤ˥ | le˧-hõ˩!
 \xe Goodbye!
 \xn 慢走！
 \xf Au revoir!
@@ -15299,7 +15299,7 @@
 \xc <langue="fra" dom="phono"> Cet exemple est le fruit d'une manipulation: diviser l'expression en deux groupes tonals, afin d'établir le ton de la première partie de l'expression.
 \xc <langue="eng" dom="phono"> This example is the result of a manipulation: dividing the phrase into two tonal groups, to bring out the tone of the first part of the phrase.
 \xc <langue="cmn" dom="phono"> 这个例子就是这样处理的结果：将短语分成两个声调组，以突出短语前半部分的声调。
-\xv ə˧dzɤ˧ le˧-dzi˩! |
+\xv ə˧dzɤ˧ le˧-dzi˩!
 \xe Goodbye! (Said by the guest to their host. Literally: “Sit quietly!" = “Take it easy!")
 \xn 慢慢坐！
 \xf Au revoir! (Dit par l'invité à son hôte. Littéralement: «Restez assis doucement = tranquillement!»
@@ -19385,7 +19385,7 @@
 \gn 整齐
 \df En ordre/rangé.
 \gf en_ordre
-\xv tso˧~tso˧ | gwɤ˩ʝi˧ tʰi˧-tɕɯ˥ |
+\xv tso˧~tso˧ | gwɤ˩ʝi˧ tʰi˧-tɕɯ˥
 \xe to put things in good order
 \xn 把东西摆整齐
 \xf mettre des choses en ordre, ranger des choses
@@ -19432,7 +19432,7 @@
 \xn 摩梭民歌
 \xf les chansons des Na
 \xc <dom="ton"> LH
-\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥! |
+\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥!
 \xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
 \xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
 \xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
@@ -19761,7 +19761,7 @@
 \gn 过夜
 \df Passer la nuit.
 \gf passer_la_nuit
-\xv ɖɯ˧-hɑ̃˧ tʰi˥-hɑ̃˩ |
+\xv ɖɯ˧-hɑ̃˧ tʰi˥-hɑ̃˩
 \xe to spend a night (somewhere), to stay for the night
 \xn 过夜
 \xf se reposer une soirée, passer une soirée/nuitée (qq part)
@@ -20592,7 +20592,7 @@
 \xe |fg{dur}
 \xn |fg{持续体} 〜
 \xf |fg{dur}
-\xv njɤ˩ɭɯ˧ | gɤ˩-hɑ˥ |
+\xv njɤ˩ɭɯ˧ | gɤ˩-hɑ˥
 \xe to open one's eyes
 \xn 睁开眼睛
 \xf ouvrir les yeux
@@ -20654,7 +20654,7 @@
 \xe … need not be done, does not have to be done
 \xn 不应该做
 \xf … n'a pas à être fait
-\xv njɤ˧ | ʝi˧-mɤ˧-hĩ˧-hĩ˥ | (ɖɯ˧-pi˧) ʝi˧-ze˩! |
+\xv njɤ˧ | ʝi˧-mɤ˧-hĩ˧-hĩ˥ | (ɖɯ˧-pi˧) ʝi˧-ze˩!
 \xe I have done something I shouldn't have!
 \xn 我做了一件不应该做的事！
 \xf j'ai fait quelque chose que j'aurais pas dû!
@@ -20913,7 +20913,7 @@
 \xe to be a guest, to be invited, to attend a party
 \xn 做客
 \xf participer à une fête en tant qu'invité, se rendre à une fête/à une invitation
-\xv hĩ˧bæ˧ tsʰɯ˧-ze˥! |
+\xv hĩ˧bæ˧ tsʰɯ˧-ze˥!
 \xe A guest has arrived!
 \xn 客人来了！
 \xf Un invité est arrivé!
@@ -22168,7 +22168,7 @@
 \gn 火腿（借词）
 \df Jambon.
 \gf 火腿::jambon
-\xv ho˧tʰv̩˧ gv̩˩, | hæ˧ ɳɯ˧ | so˩˥! |
+\xv ho˧tʰv̩˧ gv̩˩, | hæ˧ ɳɯ˧ | so˩˥!
 \xe It's from the Chinese (Han) that we learnt to make ham! (The earlier recipe, for |fv{ʂe˧sɑ˩}, was slightly different.)
 \xn （怎么）做火腿，（我们）是向汉人学的！
 \xf Ce sont les Chinois (Han) qui nous ont appris à faire du jambon! (La recette antérieure pour la conservation de la viande des membres du cochon, |fv{ʂe˧sɑ˩}, était légèrement différente.)
@@ -23901,7 +23901,7 @@
 \gn 是的
 \df Oui, d'accord.
 \gf oui
-\xv ʈʂʰɯ˧-ɳɯ˧ | “ĩ˧! ĩ˧!" | pi˧. |
+\xv ʈʂʰɯ˧-ɳɯ˧ | “ĩ˧! ĩ˧!" | pi˧.
 \xe (S)he said “Yes! yes!"
 \xn 他说：“是的，是的！”
 \xf il a dit: «Oui, oui!»
@@ -26072,7 +26072,7 @@
 \gn 财源（借词）
 \df Source de revenus; ressources financières.
 \gf 财源::richesses
-\xv jo˧lv̩˧ kv̩˧-pi˥! | jo˧lv̩˧ kv̩˧˥, | pi˧-dʑo˩, | zo˩no˥, | hæ˧ʐwɤ˩-pi˩, | tsʰɤ˩ʝi˩-ʈʂʰɯ˥ | ɖwæ˧˥ | le˧-dʑo˧-kv̩˧ pi˥-zo˩, ◊ ə˩-gi˩! |
+\xv jo˧lv̩˧ kv̩˧-pi˥! | jo˧lv̩˧ kv̩˧˥, | pi˧-dʑo˩, | zo˩no˥, | hæ˧ʐwɤ˩-pi˩, | tsʰɤ˩ʝi˩-ʈʂʰɯ˥ | ɖwæ˧˥ | le˧-dʑo˧-kv̩˧ pi˥-zo˩, ◊ ə˩-gi˩!
 \xe We used to say blessing formulas: Prosperity! ‘Prosperity’, to translate that into Chinese, it means that sources of income (财源) will be plentiful: that [that family] will have plenty of wealth, right!
 \xn 人家说祝福语：|fv{‘yolu gu’}，等于汉语的‘财源广进！’意思是：会有很多财富，不是吗？
 \xf On disait des formules de bénédiction: Prospérité! «Prospérité», pour traduire ça en chinois, ça veut dire que les sources de revenus (财源) seront abondantes: qu'on aura plein de richesses, n'est-ce pas!
@@ -27507,7 +27507,7 @@
 \xe the Gemu princess: another name for Mount Gemu, considered as a female deity
 \xn 格姆公主：格姆山别名（格姆山被看作女神）
 \xf «la princesse Gemu»; autre nom de la montagne Gemu, considérée comme une divinité féminine
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -32000,7 +32000,7 @@
 \gn 茶
 \df Thé.
 \gf thé
-\xv li˩ tɕɤ˧-bi˧! |
+\xv li˩ tɕɤ˧-bi˧!
 \xe Tea time! / Let's prepare some tea! (Literally ‘boil tea': tea used to be prepared as a decoction, not as an infusion.)
 \xn 煮茶吧！（在过去，茶不是泡在开水中，而是煮在锅里。）
 \xf On va faire du thé! (Le verbe employé est ‘faire bouillir' et non ‘faire infuser': autrefois, le thé était préparé en décoction, non en infusion.)
@@ -34232,11 +34232,11 @@
 \gn 锣锅（借词）
 \df Marmite en cuivre pour la cuisson des céréales (aujourd'hui, presque exclusivement du riz) et de la soupe.
 \gf 锣锅::marmite
-\xv lo˩qo˥, | hɑ˧ tɕɤ˩-di˩! |
+\xv lo˩qo˥, | hɑ˧ tɕɤ˩-di˩!
 \xe The copper pot is for cooking cereals!
 \xn 锣锅，是煮饭用的（东西）！
 \xf La marmite, c'est ce qui sert à cuire les céréales!
-\xv lo˩qo˧: | hɑ˧ tɕɤ˩-di˩! | æ̃˧-v̩˧, | dʑɯ˩-kʰɯ˩-di˩˥! | ʈʂʰɤ˧ho˥, | dʑɯ˩ tɕɯ˩-di˩˥! |
+\xv lo˩qo˧: | hɑ˧ tɕɤ˩-di˩! | æ̃˧-v̩˧, | dʑɯ˩-kʰɯ˩-di˩˥! | ʈʂʰɤ˧ho˥, | dʑɯ˩ tɕɯ˩-di˩˥!
 \xe The cooking pot (|fv{/lo˩qo˧/}) is for cooking cereals! The copper pot (|fv{/æ˧-v̩˧/}) is for putting water! The boiler (|fv{/ʈʂʰɤ˩ho˥/}) is for boiling water! (A summary of the respective uses of the three types of pots and pans in use in Yongning about the middle of the 20th century.)
 \xn 锣锅，是用来煮饭的！铜锅，是放水用的！水壶，是来煮水的！（描写永宁二十世纪中使用的三种锅）
 \xf La marmite (|fv{/lo˩qo˧/}), ça sert à cuire la nourriture! La casserole de cuivre (|fv{/æ˧-v̩˧/}), ça sert à mettre de l'eau! La bouilloire (|fv{/ʈʂʰɤ˩ho˥/}), ça sert à faire bouillir l'eau! (Résumé des emplois des trois sortes de casseroles qui étaient en usage à Yongning vers le milieu du XXe siècle.)
@@ -34660,7 +34660,7 @@
 \gn 量词.粒／个
 \df Classificateur générique. À l'origine, classificateur pour les objets ronds (graines et fruits, bols…), à l'emploi maintenant élargi. Il est notamment employé pour de nombreux animaux.
 \gf |fg{clf}.générique
-\xv ɕi˧ ɖɯ˧-ɭɯ˧ |
+\xv ɕi˧ ɖɯ˧-ɭɯ˧
 \xe a grain of rice
 \xn 一粒米
 \xf un grain de riz
@@ -34698,7 +34698,7 @@
 \xe a skirt
 \xn 一件裙子
 \xf une jupe
-\xv bɑ˩lɑ˩˥ | ɖɯ˧-ɭɯ˧˥ |
+\xv bɑ˩lɑ˩˥ | ɖɯ˧-ɭɯ˧˥
 \xe a piece of clothing; a shirt
 \xn 一件衣服
 \xf un vêtement
@@ -35472,11 +35472,11 @@
 \gn 狗吠
 \df Aboyer.
 \gf aboyer
-\xv kʰv̩˩mi˩ lv̩˥ |
+\xv kʰv̩˩mi˩ lv̩˥
 \xe the dog barks
 \xn 狗吠
 \xf le chien aboie
-\xv kʰv̩˩ lv̩˥-dʑo˩ |
+\xv kʰv̩˩ lv̩˥-dʑo˩
 \xe the dog is barking
 \xn 狗在叫
 \xf le chien est en train d'aboyer
@@ -35852,7 +35852,7 @@
 \gn 句尾助词.显然
 \df Particule finale exprimant l'évidence.
 \gf particule_exprimant_l_évidence
-\xv hu˧mi˧-ʈʂʰæ˧ɣɯ˧ | le˧-ʈʰɯ˩, | le˧-qʰwɤ˧-ze˧ mæ˧! |
+\xv hu˧mi˧-ʈʂʰæ˧ɣɯ˧ | le˧-ʈʰɯ˩, | le˧-qʰwɤ˧-ze˧ mæ˧!
 \xe [Nowadays] one simply takes medicines for the stomach, and one is healed! [unlike in the old times, when there were no hospitals]
 \xn 吃了胃药，就好了呗！
 \xf On prend des médicaments pour l'estomac, et ça guérit!
@@ -36226,11 +36226,11 @@
 \gn 来历
 \df Origine, cause (lointaine).
 \gf origine/cause
-\xv mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ le˧-tsʰɯ˩-ɲi˩! |
+\xv mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ le˧-tsʰɯ˩-ɲi˩!
 \xe (Of an event:) It comes from afar! / It does not take place simply by chance: there is a long story behind it!
 \xn 这（件事情）出处很远！／有它的来龙去脉（=不是突然一下子出现的）！
 \xf (Au sujet d'un événement) Ça vient de loin! / ça a une origine/ça n'arrive pas par hasard!
-\xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩ |
+\xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩
 \xe 〜 |fg{dem} |fg{clf}: this cause, this origin
 \xn 〜 |fg{指示代词} |fg{量词}：这个来历
 \xf 〜 |fg{dem} |fg{clf}: cette cause, cette origine
@@ -37858,7 +37858,7 @@
 \gn 嘛.肯定式
 \df Particule finale affirmative.
 \gf |fg{affirm}
-\xv hu˧mi˧ go˧˥ ◊ -ɲi˩-ho˩-ze˩, | zo˩no˧-ɲi˩-pi˩, | zo˩no˥, | hu˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥ | le˧-qʰwɤ˧-ze˧-mæ˧! |
+\xv hu˧mi˧ go˧˥ ◊ -ɲi˩-ho˩-ze˩, | zo˩no˧-ɲi˩-pi˩, | zo˩no˥, | hu˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥ | le˧-qʰwɤ˧-ze˧-mæ˧!
 \xe It must have been a stomachache; nowadays, you can cure that by taking stomach medication!
 \xn 应该是胃痛。现在吃点胃药就能治好！
 \xf Ça devait être un mal d'estomac; de nos jours, eh bien, ça se guérit en prenant des médicaments pour l'estomac!
@@ -38258,7 +38258,7 @@
 \xe |fg{pfv}
 \xn 问了
 \xf |fg{pfv}
-\xv ə˧tso˧ mv̩˩do˩-bi˩? |
+\xv ə˧tso˧ mv̩˩do˩-bi˩?
 \xe What would [you] like to ask? / What is your question? (Context: the investigator turns towards his teacher (Ama), obviously wanting to ask a question, but he is tardy in expressing his request, experiencing trouble finding his words in Na. The teacher encourages him by asking, in Na: “What is it you want to ask? / What is your question?”
 \xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭语表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
 \xf Qu'est-ce que (tu) vas demander? (Contexte: l'enquêteur se tourne vers son enseignante (Ama, la locutrice), manifestement désireux de poser une question, mais tarde à exprimer sa requête, embarrassé à trouver ses mots pour poser la question en langue na. L'enseignante l'encourage en lui demandant, en na: «Qu'est-ce que tu vas demander? / Quelle est ta question?»)
@@ -39902,7 +39902,7 @@
 \xe Same as previous example, with the |fg{durative}
 \xn 同上
 \xf Comme l'exemple précédent, avec le |fg{duratif}
-\xv ʈʂʰɯ˧ mv̩˧-ʂɯ˧ bi˩-ni˩gv̩˩! njɤ˧ | gv̩˩dʑɯ˩˥ | ʐwæ˩˥! |
+\xv ʈʂʰɯ˧ mv̩˧-ʂɯ˧ bi˩-ni˩gv̩˩! njɤ˧ | gv̩˩dʑɯ˩˥ | ʐwæ˩˥!
 \xe (S)he is going to die! I am devastated!
 \xn 他要死了！我很伤心！
 \xf Il/elle va mourir! Je suis au désespoir!
@@ -40037,7 +40037,7 @@
 \gn 自称：摩梭族
 \df Endonyme: les Na.
 \gf |fg{endonyme.Na}
-\xv nɑ˩-mv̩˧ nɑ˥-di˩ |
+\xv nɑ˩-mv̩˧ nɑ˥-di˩
 \xe Na territory
 \xn 摩梭人地区
 \xf le territoire des Na
@@ -40515,7 +40515,7 @@
 \gn 一座山的名字
 \df Nacee, nom d'une montagne de Yongning. Latitude: 27.77143, longitude: 100.61742.
 \gf Nacee_nom_de_montagne
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -40536,7 +40536,7 @@
 \gn 一座山的名字：纳慈巧吧咪
 \df Nom d'une montagne de Yongning: Nacee-Qebemi.
 \gf nom_de_montagne
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -40640,11 +40640,11 @@
 \gn 暗暗
 \df En cachette, furtivement.
 \gf en_cachette
-\xv nɑ˧nɑ˥ | le˧-li˧ le˧-do˩ |
+\xv nɑ˧nɑ˥ | le˧-li˧ le˧-do˩
 \xe to see (someone) for whom one was secretly on the lookout
 \xn 偷偷地看见
 \xf apercevoir (quelqu'un) qu'on guettait en cachette
-\xv nɑ˧~nɑ˥ se˩ |
+\xv nɑ˧~nɑ˥ se˩
 \xe to walk furtively
 \xn 贼头贼脑地走
 \xf marcher furtivement
@@ -40899,7 +40899,7 @@
 \gn 向别人借
 \df Emprunter (un objet).
 \gf emprunter
-\xv hĩ˧-ki˧ | tso˧~tso˧ ɲi˧ |
+\xv hĩ˧-ki˧ | tso˧~tso˧ ɲi˧
 \xe to borrow things from someone
 \xn 向别人借东西
 \xf emprunter des choses à quelqu'un
@@ -41850,7 +41850,7 @@
 \gn 苗族
 \df Hmông (groupe ethnique).
 \gf Hmông
-\xv tʰv̩˧ | tɕo˧tɕɤ˧-mi˧ ne˧-ʝi˥-zo˩! | ɲi˧gɤ˧ pɤ˧ʈʂʰwæ˥! |
+\xv tʰv̩˧ | tɕo˧tɕɤ˧-mi˧ ne˧-ʝi˥-zo˩! | ɲi˧gɤ˧ pɤ˧ʈʂʰwæ˥!
 \xe She looks like a Hmông! (A derogatory comment, as Hmông physionomy is the subject of negative prejudice.)
 \xn 她长得像苗族女人！（贬义词：对苗族人的长相有偏见。）
 \xf Elle ressemble à une Hmông! Elle a le nez tout raplapla! (Commentaire désobligeant, les traits du visage des Hmông faisant l'objet de préjugés similaires à ceux des Han.)
@@ -43893,7 +43893,7 @@
 \gn 心脏
 \df Cœur.
 \gf cœur
-\xv nv̩˩mi˩˥ | ɖɯ˧-ɭɯ˧ tsɤ˧ |
+\xv nv̩˩mi˩˥ | ɖɯ˧-ɭɯ˧ tsɤ˧
 \xe in sympathy, in unison
 \xn 情投意合
 \xf être en sympathie, à l'unisson
@@ -43942,7 +43942,7 @@
 \gn 勇敢
 \df Courageux, audacieux. Littéralement «(au) grand cœur».
 \gf courageux
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ ɖɯ˩˥! |
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩ ɖɯ˩˥!
 \xe This person has courage! (literally “…(his/her) heart is large").
 \xn 这个人很勇敢！（直译：“心大”）
 \xf Cette personne-là a du courage! (littéralement «(elle a) un grand cœur», «(son) cœur est grand»)
@@ -43975,7 +43975,7 @@
 \gn 胆小
 \df Timide, lâche, qui manque de courage. Littéralement «(au) cœur petit».
 \ge timide
-\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩-tɕi˥! |
+\xv hĩ˧ ʈʂʰɯ˧-v̩˧, | nv̩˩mi˩-tɕi˥!
 \xe This person lacks courage!
 \xn 这个人，胆小！
 \xf Celui-là, il manque de courage!
@@ -44343,7 +44343,7 @@
 \gn 一座山的名字
 \df Nom d'une montagne au sud-ouest de Yongning.
 \gf nom_de_montagne
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -44550,11 +44550,11 @@
 \xe one's house
 \xn 自己家
 \xf sa propre maison
-\xv õ˧-dʑɯ˥, õ˩ ʈʰɯ˩! |
+\xv õ˧-dʑɯ˥, õ˩ ʈʰɯ˩!
 \xe Each drinks from her own bottle! (Context: an infant has grabbed another's milk bottle; parents prevent her from drinking from it.)
 \xn 自己喝自己的！（情景：一个婴儿抓另一个婴儿的奶瓶。）
 \xf Chacun boit sa propre boisson! (Contexte: un nourrisson s'empare du biberon d'un autre et s'apprête à boire; on l'en empêche.)
-\xv õ˧-ʂe˥, õ˩ ʈʰæ˩! |
+\xv õ˧-ʂe˥, õ˩ ʈʰæ˩!
 \xe Each person eats their own slab of meat! (Describing table manners: each person used to receive one slice of meat and eat it up, unlike Chinese custom, in which each guest picks food mouthful by mouthful, with chopsticks, from the dishes placed on the table.)
 \xn 自己吃自己的（那块）肉！（关于饮食习惯：吃饭的时候，每人分得一块肉，自己吃完。当地人认为，汉族没有这种分吃的习惯。）
 \xf chacun mange son propre morceau de viande! (Description des manières de table: dans le temps, on donnait un bout de viande à chacun et chacun mangeait son morceau, pas comme la coutume chinoise qui veut qu'on prélève bouchée par bouchée, avec ses baguettes, dans les bols/assiettes posés sur la table.)
@@ -44562,7 +44562,7 @@
 \xe One learns by practising oneself! / It's by practising oneself that one really masters a skill!
 \xn 自己做，就能学会！／要学会，就得自己熟练！
 \xf c'est en faisant soi-même qu'on apprend!
-\xv õ˧=bv̩˥-õ˩ +N |
+\xv õ˧=bv̩˥-õ˩ +N
 \xe one's own N
 \xn 自己的（+名词）
 \xf son propre N (soi-même+|fg{poss}+soi-même)
@@ -44791,7 +44791,7 @@
 \xe Here comes a mosquito! / A mosquito has come in! (=into the room, into the mosquito net…)
 \xn 有一只蚊子！
 \xf voilà un moustique! / un moustique est entré (dans la pièce, sous la moustiquaire…)
-\xv ʂɯ˧-ɬi˧mi˧, | õ˧ʈʂwɤ˧! |
+\xv ʂɯ˧-ɬi˧mi˧, | õ˧ʈʂwɤ˧!
 \xe In the seventh month, there are lots of mosquitoes!
 \xn 七月份，蚊子多！／七月份，是蚊子多的一个月！
 \xf Le septième mois, c'est un mois à moustiques!
@@ -44877,7 +44877,7 @@
 \gn 超过／错过
 \df Dépasser, outrepasser; laisser passer (une occasion).
 \gf outrepasser/laisser_passer
-\xv pæ˧˥ ◊ -kʰɯ˩-pi˩, | mɤ˧-tsɤ˧! |
+\xv pæ˧˥ ◊ -kʰɯ˩-pi˩, | mɤ˧-tsɤ˧!
 \xe It's not good to let (an auspicious day) slip by! / It's not good to miss the opportunity (of an auspicious days; for the building of a house, for instance)
 \xn 错过（一个吉日），不好！
 \xf Ce n'est pas bien de laisser passer (un jour propice: pour la construction d'une maison, par exemple)!
@@ -45989,7 +45989,7 @@
 \xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
 \xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
-\xv pi˧tsʰe˩: bɤ˩! |
+\xv pi˧tsʰe˩: bɤ˩!
 \xe |fv{/pi˧tsʰe˧/} is a Pumi village!
 \xn |fv{pi˧tsʰe˩}是一个普米族村落！
 \xf |fv{/pi˧tsʰe˩/}, c'est un village pumi!
@@ -47945,7 +47945,7 @@
 \gn 翻身
 \df Retourner; se retourner (quelqu'un est allongé et se retourne).
 \gf se_retourner
-\xv le˧-wo˧ tsɤ˥-pʰv̩˩ |
+\xv le˧-wo˧ tsɤ˥-pʰv̩˩
 \xe to turn over (when lying down)
 \xn 翻身
 \xf se retourner
@@ -49134,7 +49134,7 @@
 \gn 分
 \df Partager, répartir.
 \gf partager/répartir
-\xv le˧-qʰæ˧˥ | le˧-po˧-tsʰɯ˧˥, ◊ dʑo˩ | tʰi˩˥, | wɤ˩˥ | ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩, | tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩, | ə˩-gi˩! |
+\xv le˧-qʰæ˧˥ | le˧-po˧-tsʰɯ˧˥, ◊ dʑo˩ | tʰi˩˥, | wɤ˩˥ | ʈʂʰɯ˧-v̩˧-ki˧-dʑo˩, | tɕi˩-kʰwɤ˩ tʰi˩-ki˥ tʰv̩˩ ɲi˩-ho˩-ze˩ wɤ˩, | ə˩-gi˩!
 \xe When it came to sharing, they thought they'd give that person (=the older brother) a little piece (=a low morsel), didn't they!
 \xn 分饭的时候，他们觉得应该给那个人（什么都不算的）一小块（肉），不是吗？
 \xf Lors du partage, cette personne-là (=le grand frère), on s'est dit qu'on lui donnerait un petit morceau (=un morceau de rien du tout), n'est-ce pas!
@@ -53872,7 +53872,7 @@
 \gn 考虑
 \df S'occuper de; se mêler de; prendre en considération.
 \gf prendre_en_considération
-\xv hĩ˧ | qʰɑ˧-kv̩˧ dʑo˧˥ | mɤ˧-ʁæ˧ʑi˧, | njɤ˧-ɳɯ˧ qʰæ˧˥! |
+\xv hĩ˧ | qʰɑ˧-kv̩˧ dʑo˧˥ | mɤ˧-ʁæ˧ʑi˧, | njɤ˧-ɳɯ˧ qʰæ˧˥!
 \xe No matter how many people (guests) there are, I share (what I have)! (Context: the consultant explains how, following Na traditions, she shared as much as she could, and volunteered her time to help other families on important occasions, such as funerals.)
 \xn 无论有多少个人，我都会跟大家分！（情景：合作人描写在永宁摩梭人怎么跟别人分，如：分食品。有大事时，也去帮其它家庭的忙，不考虑活多么累，只考虑怎么能给予帮助）
 \xf «Moi, je partage, sans m'inquiéter de savoir combien il y a d'invités (littéralement ‘de gens’)!» (Contexte: Mme Latami explique comment on se dévouait autrefois: on partageait, et on aidait aussi les amis, non membres de la famille, lors des grandes occasions, telles que les funérailles)
@@ -56202,7 +56202,7 @@
 \xn 同上
 \xf comme ci-dessus
 \xc PROVERBE
-\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧!
 \xe Uphill is the village of |fv{gæ˧ɻæ˩}! Downhill is the village of |fv{ʁwɤ˧ʐv̩˧}! (A comment about the geography of the Yongning plain, and the location of the hamlet of Alawua.)
 \xn 上面是|fv{gæ˧ɻæ˩}村！下面是|fv{ʁwɤ˧ʐv̩˧}村！（关于阿拉瓦村在永宁坝子里的地理位置）
 \xf Vers l'amont, c'est le village de |fv{gæ˧ɻæ˩}! Vers l'aval, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawua.)
@@ -56455,11 +56455,11 @@
 \gn 量词.家族
 \df Classificateur des clans / groupes de familles: littéralement ‘un os'. Échelon supérieur à celui de la ‘communauté familiale' dans la terminologie de Fu Maoji (1983).
 \gf |fg{clf}.clans
-\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
+\xv lɑ˧tʰɑ˧mi˧=ɻ̩˥ | ɖɯ˧-ɻ̩̃˧ ɲi˥!
 \xe The Latami make up one clan / one lineage!
 \xn 姓拉他咪，都算同母亲血统的亲戚！
 \xf Les Latami forment un clan / un lignage!
-\xv ɖɯ˧-ʑi˩-ɳɯ˩, | ɖɯ˧-ɻ̩̃˧ ɲi˥! |
+\xv ɖɯ˧-ʑi˩-ɳɯ˩, | ɖɯ˧-ɻ̩̃˧ ɲi˥!
 \xe All the members of a household belong to the same lineage!
 \xn 一家里面的人，都属于同一根‘骨头’（家族）。
 \xf Tous les membres d'une maisonnée appartiennent à un même clan!
@@ -56616,7 +56616,7 @@
 \dn 胫骨
 \df Tibia.
 \gf tibia
-\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̩̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩. |
+\xv hĩ˧-dzɑ˧ | ɖʐe˧ tʰɑ˧-ʝi˥, | ɻ̩̃˧ko˩ mi˩ tʰɑ˩-tʰv̩˩.
 \xe The poor must not borrow money; the shinbone must not receive wounds! (Proverb, to explain that one must avoid hitting weak/sensitive spots.)
 \xn “穷人莫借钱，胫骨莫受伤！”
 \xf «Le pauvre ne doit pas emprunter d'argent; le tibia ne doit pas recevoir de blessure!» (Ce proverbe enseigne qu'il ne faut pas toucher les points les plus sensibles, les plus fragiles.)
@@ -57831,7 +57831,7 @@
 \xe (No,) you're not annoying (us)! (Context: someone apologizes for coming round to a friend's place at a bad time; the host reassures the visitor.)
 \xn 不麻烦，不麻烦！
 \xf Non, tu ne déranges pas! (Contexte: quelqu'un s'excuse de passer à un mauvais moment; l'hôte le rassure.)
-\xv no˧ | se˧-dʑæ˩ɻæ˩-gv̩˩! |
+\xv no˧ | se˧-dʑæ˩ɻæ˩-gv̩˩!
 \xe You're annoying people! You're annoying everyone!
 \xn 你在麻烦大家／你很烦人！
 \xf Tu embêtes le monde! Tu déranges tout le monde!
@@ -60327,7 +60327,7 @@
 \xe to have good principles, to have a good education, to be well brought up
 \xn 有良好的原则、接受良好的教育、受到良好的培养
 \xf avoir de bons principes, avoir une bonne éducation, être bien élevé
-\xv “no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!” | pi˧-kv̩˩. |
+\xv “no˧=ɻ̩˩ | ɑ˩ʁo˧ so˧jɤ˩ dʑɤ˩!” | pi˧-kv̩˩.
 \xe “You have good principles in your family,” he said.
 \xn 他说：“你的家庭有很好的原则。”
 \xf «Dans votre famille, vous avez de bons principes!» a-t-il dit.
@@ -60393,7 +60393,7 @@
 \xn 不干净、脏
 \xf sale, malpropre
 \xc PHONO
-\xv ʈʂʰɯ˧ | ʂo˩-hĩ˩ ɲi˥. |
+\xv ʈʂʰɯ˧ | ʂo˩-hĩ˩ ɲi˥.
 \xe This is clean.
 \xn 这是干净的。
 \xf C'est propre.
@@ -62231,11 +62231,11 @@
 \gr 山茶花
 \df Camélia.
 \gf camélia
-\xv ʂwæ˧bæ˩ bæ˩ |
+\xv ʂwæ˧bæ˩ bæ˩
 \xe The camellia flowers are in bloom.
 \xn 山茶花开了。
 \xf Les camélias sont en fleurs.
-\xv so˧-ɬi˧mi˧, | ʂwæ˧bæ˩ bæ˩! |
+\xv so˧-ɬi˧mi˧, | ʂwæ˧bæ˩ bæ˩!
 \xe Camellia flowers bloom in the third month!
 \xn 山茶花是在三月份开花的！
 \xf Les camélias fleurissent au troisième mois!
@@ -62277,7 +62277,7 @@
 \gn 加泽大山
 \df Une montagne au nord-ouest de Yongning.
 \gf Mont_de_Jiaze
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -62612,7 +62612,7 @@
 \xf Le champignon doré, il n'est pas si vénéneux que ça!
 \txt Mushrooms.12
 \doi 10.24397/pangloss-0005662#S12
-\xv mv̩˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩! |
+\xv mv̩˧dze˧-tsɑ˩bɤ˩, mɤ˧-tʰɑ˧˥ | mɤ˧-ʐv̩˩!
 \xe Barley flour is not too tasty! / Barley flour does not taste very good!
 \xn 大麦粉，不怎么好吃！
 \xf La farine d'orge, ça n'est pas bien bon (au goût)!
@@ -63204,11 +63204,11 @@
 \gn 乱
 \df Désordonné.
 \gf désordonné
-\xv ɑ˩ʁo˧ | ʈʰæ˧-mɤ˧-ʝi˧! |
+\xv ɑ˩ʁo˧ | ʈʰæ˧-mɤ˧-ʝi˧!
 \xe The house is in a mess!
 \xn 家很乱！
 \xf la maison est en grand désordre!
-\xv ʈʰæ˧-mɤ˧-ʝi˧ ɲi˥! |
+\xv ʈʰæ˧-mɤ˧-ʝi˧ ɲi˥!
 \xe It's a real mess!
 \xn 真乱！
 \xf C'est vraiment le désordre!
@@ -63417,7 +63417,7 @@
 \gr 打比
 \df Exemple, analogie.
 \gf 打比::exemple
-\xv tɑ˧pi˧ ɲi˩-ze˩ mæ˩! |
+\xv tɑ˧pi˧ ɲi˩-ze˩ mæ˩!
 \xe I only say this as an example!
 \xn 只是比方而已！
 \xf Je dis juste ça à titre d'exemple! (Contexte: Mme Latami explique que tous les enfants ne profitent pas également des bons conseils qu'on leur donne: «Toi, tes parents t'ont encouragé à étudier, et tu as réussi! Ton frère, il n'a pas réussi!» Me voyant prêt à corriger (pour dire que mon frère n'a pas moins bien réussi), elle souligne: «Je dis juste ça à titre d'exemple!»)
@@ -64143,7 +64143,7 @@
 \gn 刚（好）
 \df Précisément, justement, juste à point nommé.
 \gf précisément
-\xv tɑ˧~tɑ˧ | ho˩˥! |
+\xv tɑ˧~tɑ˧ | ho˩˥!
 \xe Just right, exactly right. (Example: a pair of shoes fits perfectly.)
 \xn 刚刚好！（如：一双鞋刚好合适）
 \xf Ça convient exactement/ça convient précisément (ex.: au sujet d'une paire de chaussures qu'on vient de vous offrir)
@@ -65016,7 +65016,7 @@
 \xe to cook stew
 \xn 煮粥
 \xf faire du ragoût
-\xv dʑɯ˩ʁo˩˥, | mo˧-no˥, | mo˧ tɕɤ˥-hĩ˩ lɑ˩-ɲi˩-mæ˩! |
+\xv dʑɯ˩ʁo˩˥, | mo˧-no˥, | mo˧ tɕɤ˥-hĩ˩ lɑ˩-ɲi˩-mæ˩!
 \xe Up on the mountain, to cook mushrooms, (we) simply cook them in a pot! (This does not refer to boiling in the sense of ‘cooking in hot water': the mushrooms are put in a pot; one adds grease and salt, and the mushrooms cook in their own juice.)
 \xn 在山上，菌子，就是简单煮一下而已！（放在锅里，加油、加盐。用菌子自身的水分）
 \xf (Quand on se trouve sur) la montagne, les champignons, on les fait simplement cuire dans une casserole! (Littéralement: «on se contente de les faire bouillir».) (On mettait simplement les champignons dans une casserole, sans eau, avec du sel et de la graisse; les champignons cuisaient alors dans leur propre eau.)
@@ -65302,7 +65302,7 @@
 \xn 百合长在高山上！
 \xf Le lis, ça pousse dans la montagne/en haute montagne!
 \xc <type="hist" print="n" langue="fra"> Avant 2015, noté: /‡dʑɯ˩-nɑ˩mi˩-ʁo˥ | di˧-kv̩˩/, puis corrigé en /dʑɯ˩-nɑ˩mi˩-ʁo˥ di˩-kv̩˩/. En 2024, relève que le schéma tonal devrait être dʑɯ˩-nɑ˩mi˩-ʁo˩ donnant dʑɯ˩-nɑ˩mi˩-ʁo˩˥, et non dʑɯ˩-nɑ˩mi˩-ʁo˥. xxxx à vérifier. Provisoirement rétabli ??dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˧-kv̩˩.
-\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˩-kv̩˩˥! |
+\xv tɕʰɤ˩lv̩˩˥, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | di˩-kv̩˩˥!
 \xe Lilies grow high up on the mountain!
 \xn 百合长在高山上！
 \xf Le lis, ça pousse dans la montagne/en haute montagne!
@@ -65699,7 +65699,7 @@
 \xe to accompany someone
 \xn 陪伴某人
 \xf suivre quelqu'un
-\xv ɖɯ˧-tɕʰo˩ tʰi˩-tɕʰo˩ |
+\xv ɖɯ˧-tɕʰo˩ tʰi˩-tɕʰo˩
 \xe to make up a set, to go with each other/one another: for instance, in the main room, the thangka above the hearth and the paintings on the cupboard that hosts the altar to the ancestors make up a set, they go with each other
 \xn 陪伴某人
 \xf aller ensemble, former un ensemble: par exemple, dans la pièce principale de la maison, le thangka au-dessus du foyer et les peintures sur le buffet-autel des ancêtres forment un tout, elles vont ensemble
@@ -65782,7 +65782,7 @@
 \xe The sky is cloudy!
 \xn 天上有云！
 \xf le ciel est nuageux!
-\xv mv̩˧ʁo˥ tɕɯ˩ pʰɻ̩˩ |
+\xv mv̩˧ʁo˥ tɕɯ˩ pʰɻ̩˩
 \xe The sky is cloudy!
 \xn 天上有云！
 \xf le ciel est nuageux!
@@ -68437,7 +68437,7 @@
 \gn 认真地
 \df Soigneusement, attentivement.
 \gf soigneusement
-\xv njɤ˧-ɳɯ˧ | to˩to˧ mi˥ | ʐwɤ˩-bi˩˥! |
+\xv njɤ˧-ɳɯ˧ | to˩to˧ mi˥ | ʐwɤ˩-bi˩˥!
 \xe I will explain carefully! / I will explain very clearly, step by step!
 \xn 我要认真地讲！
 \xf je vais parler soigneusement/je vais bien expliquer!
@@ -69614,7 +69614,7 @@
 \xe the full name of the mountain
 \xn 山的全名，包括水泉名
 \xf nom complet de la montagne
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -69636,7 +69636,7 @@
 \gn 一座山的名字
 \df La montagne Gheu'er-Chana.
 \gf Gheu'er_Chana
-\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥ |
+\xv kɤ˧mv̩˧˥, | æ˧ʂæ˧, | ŋwɤ˧hɑ̃˩, | ʂwæ˧gv̩#˥, | nɑ˩tsʰi˩˥ | -tɕʰɤ˧pɤ˧mi#˥, | qv̩˧ɻ̩˧-ʈʂʰɑ˧nɑ˥
 \xe The six mountains of Yongning that carry a name and have a definite symbolic value: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. The other mountains do not have comparable symbolic value, and fewer people use specific names for them.
 \xn 永宁地区有固定名字的六座山：格姆，安山，瓦哈，双古，纳慈巧吧咪，古尔川纳。
 \xf Les six montagnes de Yongning qui portent un nom: Gemu, Aesha, Nguahan, Shuaeggu, Nacee-Qebemi, Gheu'er-Chana. Les autres sommets du voisinage n'ont pas une valeur symbolique comparable, et ne portent pas de nom communément utilisé.
@@ -71477,7 +71477,7 @@
 \df Malade, souffrant.
 \gf souffrant
 \ue archaic
-\xv mɤ˧-go˩ mɤ˩-tsʰi˩-ɻ̩˩ |
+\xv mɤ˧-go˩ mɤ˩-tsʰi˩-ɻ̩˩
 \xe to be in good health: not sick, not suffering
 \xn 健康：不病、不痛
 \xf être bien portant, ne pas être malade
@@ -73877,7 +73877,7 @@
 \xe I won't grasp (this knife, …)
 \xn 我不要拿（刀）！
 \xf je ne veux pas empoigner/ pas question que j'empoigne (ce couteau,…)
-\xv lo˩qʰwɤ˧ ʈʂʰɻ̩˩~ʈʂʰɻ̩˩ |
+\xv lo˩qʰwɤ˧ ʈʂʰɻ̩˩~ʈʂʰɻ̩˩
 \xe to tighten the fist
 \xn 攥紧拳头
 \xf serrer le poing
@@ -75530,7 +75530,7 @@
 \gn 欣赏
 \df Savourer, déguster, siroter (nourriture ou boisson).
 \gf savourer
-\xv no˧ | li˩ ʈʂwæ˧-ɻ̩˥! |
+\xv no˧ | li˩ ʈʂwæ˧-ɻ̩˥!
 \xe Please enjoy a cup of tea! (A polite invitation)
 \xn 请您品一点茶！（礼貌说法）
 \xf Veuillez prendre un peu de thé! (Invitation polie)
@@ -75900,7 +75900,7 @@
 \xc <langue="fra" dom="phono"> Phonétiquement: [|fv{læ˧-…}]
 \xc <langue="eng" dom="phono"> Phonetically: [|fv{læ˧-…}]
 \xc <langue="cmn" dom="phono"> 实际发音：[|fv{læ˧-…}]
-\xv hĩ˧-ɳɯ˩ | mɤ˧-dzɯ˥, | le˧-ʈʂʰwæ˧-ze˧! |
+\xv hĩ˧-ɳɯ˩ | mɤ˧-dzɯ˥, | le˧-ʈʂʰwæ˧-ze˧!
 \xe No one ate it, and now it's rotten! (About a water melon that was forgotten in the cupboard.)
 \xn 没人吃，就烂了！（一个西瓜被忘记在橱柜里，就腐烂了）
 \xf On a oublié de la manger, et maintenant c'est pourri! (au sujet d'une pastèque qui a traîné dans le garde-manger et est maintenant incomestible)
@@ -78320,11 +78320,11 @@
 \gn 量词.担
 \df Classificateur des charges/fardeaux qu'une personne peut porter.
 \gf |fg{clf}.fardeaux
-\xv ɖɯ˧-wɤ˩ pɤ˩~pɤ˩ |
+\xv ɖɯ˧-wɤ˩ pɤ˩~pɤ˩
 \xe to carry a load
 \xn 背一担
 \xf porter une charge
-\xv ɖɯ˧-wɤ˩, | ɖɯ˧-wɤ˩ | le˧-kʰɯ˩~kʰɯ˩ | tʰi˧-tɕɯ˥ |
+\xv ɖɯ˧-wɤ˩, | ɖɯ˧-wɤ˩ | le˧-kʰɯ˩~kʰɯ˩ | tʰi˧-tɕɯ˥
 \xe to pile up loads, one after the other
 \xn 将驮的大包堆起来
 \xf entasser les charges, l'une après l'autre
@@ -80515,7 +80515,7 @@
 \xe on the road, on the way
 \xn 路上
 \xf sur le chemin
-\xv ʐɤ˩mi˩-qo˥, | hĩ˧ se˧! |
+\xv ʐɤ˩mi˩-qo˥, | hĩ˧ se˧!
 \xe People are walking on the road/path!
 \xn 路上有人走！
 \xf il y a des gens qui passent sur le chemin!
@@ -81018,7 +81018,7 @@
 \gn 摔
 \df Se balancer.
 \gf se_balancer
-\xv le˧-ʐo˩~ʐo˩ | le˧-ʐo˩~ʐo˩ |
+\xv le˧-ʐo˩~ʐo˩ | le˧-ʐo˩~ʐo˩
 \xe To swing to and fro. The form with accomplished prefix is typically said twice, adding repetition to reduplication. Both are in keeping with the repetitive nature of the process of swinging.
 \xn 来回摆动。与摆动过程的重复性一致，带有完成前缀的形式通常会说两次。
 \xf Se balancer. La forme avec préfixe accompli se répète généralement, cette répétition s'ajoutant à la réduplication, l'une et l'autre en cohérence avec la nature répétitive du procès.
@@ -82904,7 +82904,7 @@
 \xe (piece of furniture/object) on which one can put things
 \xn 可以摆东西的（家具）
 \xf (meuble/objet) sur lequel on pose des choses
-\xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥! |
+\xv ʈʂʰæ˧~ʈʂʰæ˧ di˧˥ | le˧-po˧˥!
 \xe Take your stuff for washing! (soap, shampoo, towel…) (Context: someone is going to spend the night in a guest house that has running water.)
 \xn 要记得拿洗澡用品！（情景：一个人要到有自来水的客栈去过夜。）
 \xf Emmenez votre nécessaire de toilette! (Indication fournie à quelqu'un qui va passer la nuit dans une maison d'hôte qui a l'eau courante.)
@@ -84239,7 +84239,7 @@
 \xe Do your own work first! / Please work on your own for a start! (Context: when I arrive for a morning class, the consultant is busy; she knows that I have various tasks to do, some of which I can do on my own, such as verifying texts that have already been transcribed; she tells me: “Please work on your own for a start!")
 \xn 你先自己工作（一会）吧！（情景：调查者早上到合作人的家，但她忙着，而她知道调查者有不同类型的工作要做，其中有一些可以自己做，比如重新核对记录过的长篇语料。她说：“你先忙自己的一会吧！”）
 \xf Commence par travailler tout seul! (Consigne de la locutrice quand j'arrive pour ma leçon du matin. Elle est occupée; et elle sait que j'ai de quoi m'occuper seul en l'attendant: toiletter des textes déjà transcrits, etc. Elle me dit «Commence par travailler tout seul! / Commence par les tâches que tu peux faire tout seul!»
-\xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥! |
+\xv kʰv̩˩mi˩-hɑ˥ | tʰɑ˧-sɯ˧-ki˥!
 \xe Don't feed the dog yet! / Don't give the dog food yet!
 \xn 先别喂狗！／先别给狗食！／不要现在给狗食！
 \xf Ne donne pas la pâtée au chien pour l'instant! / Ce n'est pas encore le moment de donner la pâtée au chien!
