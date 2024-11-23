@@ -12520,10 +12520,24 @@
 \gn 甲次
 \df Jjacee, un prénom.
 \gf Jjacee
+
 \xv dʑɤ˩tsʰi˧-mi#˥
-\xe A given name. (This is the given name of the main consultant's mother.)
-\xn 甲次咪：一个名字。这个名字，是第二作者的母亲的名字。
-\xf Nom propre. Il était porté par la mère de Ama.
+\or Jjaceemi
+\mr dʑɤ˩tsʰi#˥
+\bw <langue="bod"> Bde skyid (?) |tib{བདེ་སྐྱིད}
+\ps n
+\lc dʑɤ˩tsʰi˧mi˧
+\cf dʑɤ˩tsʰi#˥
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton LM+#H
+\so F4
+\de Jjaceemi, a given name. (This is the given name of Mrs. Latami's mother.)
+\ge Jjaceemi
+\dn 甲次咪：一个名字。这个名字，是第二作者的母亲的名字。
+\gn 甲次咪
+\df Jjaceemi, un nom propre. Il était porté par la mère de Mme Latami.
+\gf Jjaceemi
 
 \lx dʑɤ˩tsʰo˧
 \or jjaco
@@ -12754,6 +12768,7 @@
 \or jji
 \ps n
 \lc dʑɯ˧
+\cf dʑɯ˩ mæ˩
 \sn 1
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12791,10 +12806,6 @@
 \xn 放水
 \xf mettre de l'eau
 \xc PHONO
-\xv dʑɯ˩ mæ˩˥
-\xe to irrigate, to water
-\xn 浇灌、灌溉
-\xf irriguer, arroser, mettre de l’eau
 \xv dʑɯ˩ qæ˩, hɑ˩ qæ˩˥
 \xe a description of the traveller's changes in environment: ‘to change water, to change food'. This requires using strategies to avoid ailments: in particular, it was customary to boil in water a little earth of the place where one had arrived, and to drink this preparation.
 \xn ‘换水换土’：这个短语描述旅人到他人乡的情况，带来水土不服的危险。为了预防这类不良反应，摩梭旅人习惯水煮一点当地的土，喝下去，为了适应当地的水土。
@@ -12844,6 +12855,10 @@
 \gn 时间
 \df Le moment (de), l'heure (de).
 \gf moment/heure
+\xv ʐo˩ dzɯ˩-bi˩-dʑɯ˩˥
+\xe lunch-time
+\xn 午饭的时间
+\xf l'heure du déjeuner
 \xv ʈʂʰwɤ˩ dzɯ˩-bi˩-dʑɯ˩˥
 \xe dinner-time
 \xn 吃晚餐的时间
@@ -12856,11 +12871,6 @@
 \xe It is time to go to sleep!
 \xn 睡觉的时间到了！
 \xf Il est l'heure d'aller dormir!
-\xv ʐo˩ dzɯ˩-bi˩-dʑɯ˩˥
-\xe lunch-time
-\xn 午饭的时间
-\xf l'heure du déjeuner
-\dt 27/Aug/2015
 
 \lx dʑɯ˧˥
 \sf <nb="B"> 937
@@ -13249,7 +13259,7 @@
 \gf mousse
 \dt 27/Aug/2015
 
-\lx dʑɯ˧-li˧
+\lx dʑɯ˧ li˧
 \sf <nb="B"> 1297
 \sf <nb="2011"> 2451
 \or jjili
@@ -13259,6 +13269,7 @@
 \mc <langue="eng"> The morpheme composition of the disyllable would simply be `water' and `to look, to watch’: `to look after the water', `to see to the water’.
 \mc <langue="cmn"> 这个双音节的词素构成，看来是简单的‘水’和‘看、注视’：‘照水’、‘看水’。
 \ps v
+\sy dʑɯ˩ mæ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté /dʑi˧ mɤ˧ li:˧ lv̩˧) (n'est pas dʑɯ)
@@ -13271,11 +13282,11 @@
 \gn 灌溉
 \df Irriguer.
 \gf irriguer
-\xv dʑɯ˧-li˧-ze˧
+\xv dʑɯ˧ li˧-ze˧
 \xe |fg{pfv}
 \xn 灌溉了
 \xf |fg{pfv}
-\xv dʑɯ˧-mɤ˧-li˧-hĩ˧ lv̩˧
+\xv dʑɯ˧ mɤ˧-li˧-hĩ˧ lv̩˧
 \xe dry farmland, dry field: a field that is not irrigated
 \xn 旱田：不灌溉的田
 \xf champ sec/pluvial: «champ qu'on n'irrigue pas»
@@ -13442,8 +13453,8 @@
 \sf <nb="2011"> 106
 \or jjibe guhin
 \ps n
-\cf dʑɯ˩pɤ˩qʰv̩˩
-\cf dʑɯ˩pɤ˩tv̩˩qʰv̩˥
+\sy dʑɯ˩pɤ˩qʰv̩˩
+\sy dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (n'est pas dʑɯ)
@@ -13460,14 +13471,13 @@
 \xe there is a spring
 \xn 有水泉
 \xf il y a une source
-\dt 19/Jun/2017
 
 \lx dʑɯ˩pɤ˩qʰv̩˩
 \sf <nb="2011"> 108
 \or jjibekheu
 \ps n
-\cf dʑɯ˩pɤ˩-kv̩˧hĩ˩
-\cf dʑɯ˩pɤ˩tv̩˩qʰv̩˥
+\sy dʑɯ˩pɤ˩-kv̩˧hĩ˩
+\sy dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> avant 2009: noté dʑi˩pɤ˩kʶv̩˩˥; confirmé, n'est pas /pɑ/ (n'est pas dʑɯ)
@@ -13481,14 +13491,13 @@
 \gn 水泉
 \df Source.
 \gf source
-\dt 19/Jun/2017
 
 \lx dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sf <nb="2011"> 109
 \or jjibedukheu
 \ps n
-\cf dʑɯ˩pɤ˩qʰv̩˩
-\cf dʑɯ˩pɤ˩-kv̩˧hĩ˩
+\sy dʑɯ˩pɤ˩qʰv̩˩
+\sy dʑɯ˩pɤ˩-kv̩˧hĩ˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (type d6b: +ɲi˩, + =bv̩˩) (n'est pas dʑɯ)
@@ -13501,12 +13510,13 @@
 \gn 水泉
 \df Source.
 \gf source
-\dt 24/Jul/2017
 
 \lx dʑɯ˩qʰæ˩
 \sf <nb="B"> 397n
 \sf <nb="2011"> 505
 \or jjikhae
+\mr dʑɯ˩
+\mr qʰæ˥2
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -13520,7 +13530,6 @@
 \gn 凉水
 \df Eau froide.
 \gf eau_froide
-\dt 27/Aug/2015
 
 \lx dʑɯ˧qʰɑ˧
 \sf <nb="B"> 2108
@@ -13604,6 +13613,8 @@
 \sf <nb="B"> 45
 \sf <nb="2011"> 74
 \or jjikheu
+\mr dʑɯ˩
+\mr qʰv̩˧1
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -13966,7 +13977,8 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="sem" langue="fra"> ne pas confondre avec arbousier
+\nt <dom="sem" langue="fra"> Ne pas confondre, en français, argousier et arbousier.
+\nt <dom="sem" langue="fra"> xxxx à vérifier : sans doute même mot que celui noté /dʑɯ˩tɕʰɯ˩lɑ˩qʰɑ˥/
 \ton L+H#
 \lc dʑɯ˩tɕʰɯ˩lɑ˩qʰæ˥
 \so F4
@@ -13976,7 +13988,6 @@
 \gn 沙棘
 \df Argousier, |fi{Hippophae rhamnoides Linn.}
 \gf argousier
-\dt 13/Jun/2017
 
 \lx dʑɯ˩tɕʰɯ˩lɑ˩qʰɑ˥
 \or jjiqielakha
@@ -14003,6 +14014,7 @@
 \nt <type="hist" print="n" langue="fra"> (ton de ze˩ confirmé en 2008, confirmant l'hypothèse à l'écoute; avais d'abord noté ˧) (avant 2011: noté dʑi˩tɤ˩ɻ̩˧ gv̩˧-ze˩) (n'est pas dʑɯ)
 \ton L+H#
 \sy ɖʐɻ̩˥
+\sy dʑɯ˩dɤ˩-ɻ̩˥
 \lc dʑɯ˩tɤ˩ɻ̩˥
 \so F4
 \va <speaker="F5"> ID.
@@ -14041,6 +14053,8 @@
 \sf <nb="B"> 1373
 \sf <nb="2011"> 504
 \or jjicee
+\sy dʑɯ˩
+\sy tsʰi˧1
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -14063,6 +14077,10 @@
 \sf <nb="B"> 523b
 \sf <nb="2011"> 747
 \or jjicee teeddi
+\sy dʑɯ˩
+\sy tsʰi˧1
+\sy ʈʰɯ˩β
+\sy -di˩
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -35943,6 +35961,7 @@
 \sd <langue="eng"> verb
 \ton L
 \lc mæ˩˥
+\sy dʑɯ˩ mæ˩
 \so F4
 \de To water, to irrigate (making small trenches and pouring water into them).
 \ge to_water
@@ -35950,15 +35969,28 @@
 \gn 灌溉
 \df Irriguer (en faisant couler de l'eau dans de petites tranchées).
 \gf irriguer
-\xv dʑɯ˩ mæ˩˥
-\xe to irrigate, to water
-\xn 浇灌
-\xf irriguer, arroser, mettre de l’eau
 \xv dʑɯ˧ | le˧-mæ˩
 \xe |fg{accomp}: to water, to irrigate
 \xn 浇灌
 \xf |fg{accomp}: irriguer, arroser
-\dt 04/Sep/2015
+
+\lx dʑɯ˩ mæ˩
+\mr dʑɯ˩
+\mr mæ˩
+\or jjimae
+\ps v
+\sy dʑɯ˧ li˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L
+\lc dʑɯ˩ mæ˩˥
+\so F4
+\de To water, to irrigate.
+\ge to_water
+\dn 灌溉、浇灌
+\gn 灌溉
+\df Irriguer, arroser, mettre de l’eau.
+\gf irriguer
 
 \lx mæ˧
 \or mae
@@ -36359,6 +36391,7 @@
 \xf 〜 |fg{dem} |fg{clf}: cette cause, cette origine
 
 \lx mæ˩α
+\hm 3
 \sf <nb="B"> 1482
 \sf <nb="B"> 1632
 \sf <nb="2011"> 2172
@@ -49396,6 +49429,7 @@
 \or khae
 \ps adj
 \lc qʰæ˧
+\cf dʑɯ˩qʰæ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /kʶæ˥/)
@@ -49409,10 +49443,6 @@
 \gn 冷
 \df Froide (eau).
 \gf froid
-\xv dʑɯ˩qʰæ˩
-\xe cold water
-\xn 凉水
-\xf eau froide
 \xv qʰæ˧ ɕjæ˩-ɻæ˩ gv̩˩
 \xe very cold
 \xn 冷得很，太冷
