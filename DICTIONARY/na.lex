@@ -460,7 +460,7 @@
 \ge |fg{intj}.oh_no!
 \dn 感叹词。表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“|fv{æ˧ʝi˧}”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说“|fv{æ˧ʝi˧}”，脏
 \gn 感叹词
-\df Interjection: «Ah nooon! / Ca va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'elle va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple: lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
+\df Interjection: «Ah nooon! / Ça va pas!» Cette exclamation vise à mettre en garde, à décourager quelqu'un de faire quelque chose. Exemple de contexte: A dit à B qu'elle va acheter un manteau, et B pense que ce manteau ne lui va pas du tout. B dit alors: «|fv{æ˧ʝi˧}, ce manteau ne te va pas». Autre exemple: lorsqu'un bébé attrape quelque chose de sale (par exemple de la boue) et le porte à la bouche, l'adulte dira «|fv{æ˧ʝi˧}, c'est sale».
 \gf |fg{intj}.ah_non!
 
 \lx æ̃˩-kʰv̩˧˥
@@ -2214,9 +2214,9 @@
 \df Flasque, sans consistance.
 \gf flasque
 \xv bæ˩-lɑ˩~lɑ˥-gv̩˩
-\xe ditto
-\xn 同上：软塌塌
-\xf idem
+\xe Soft, weak, pliant.
+\xn 软塌塌
+\xf Flasque, sans consistance.
 
 \lx bæ˩-ljɤ˧~ljɤ˧
 \sf <nb="B"> 2145
@@ -3363,7 +3363,7 @@
 \xv bi˧-tʰɑ˧-ze˥!
 \xe |fg{abilitive}+|fg{pfv}: We can go now!
 \xn 可以去了！
-\xf |fg{abilitive}+|fg{pfv}: Ca y est, on peut y aller!
+\xf |fg{abilitive}+|fg{pfv}: Ça y est, on peut y aller!
 \xv le˧-bi˩
 \xe to go back
 \xn 回去，返回
@@ -3422,7 +3422,7 @@
 \gf 化肥::engrais_chimiques
 
 \lx ɕje˧se˧
-\or boshi
+\or xiesei
 \bw <langue="cmn"> 先生
 \ps n
 \lc ɕje˧se˧
@@ -3436,16 +3436,28 @@
 \gn 先生（借词）
 \df Monsieur: terme respectueux
 \gf 先生::monsieur
-\xv hæ˧-ɕje˧se˧
-\xe “Han sir”: respectful term for Han (Chinese) people coming to Yongning (teachers, doctors, engineers…).
-\xn 汉族先生：来指到永宁来的内地汉族（尊敬说法）：老师、医生、工程师等等
-\xf «Monsieur chinois»: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs…
-\xc <dom="ton"> M
 \xv ʈʂʰɯ˧-v̩˧, | ɕje˧se˧ ɲi˩!
 \xe This person is a “Sir” / a distinguished person!
 \xn 这个人就是“先生”／杰出人士！（〜 |fg{系动词}）
 \xf Cette personne, c'est un monsieur / une personne distinguée!
 \xc PHONO
+
+\lx hæ˧-ɕje˧se˧
+\or Hae xiesei
+\mr hæ˧
+\mr ɕje˧se˧
+\ps n
+\lc hæ˧ɕje˧se˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton M
+\so F4
+\de “Han sir”: respectful term for Han (Chinese) people coming to Yongning (teachers, doctors, engineers…).
+\ge Han_sir
+\df «Monsieur chinois»: terme respectueux pour désigner les Chinois (Han) qui venaient à Yongning: enseignants, médecins, ingénieurs…
+\gf «Monsieur chinois»
+\dn “汉族先生”：来指到永宁来的内地汉族（尊敬说法）：老师、医生、工程师等等
+\gn “汉族先生”
 
 \lx bo
 \or bbo
@@ -5126,9 +5138,9 @@
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> Notes de 2006: «/kʶɤ˥ pv̩˥gv̩˥/; M18 corrige en /kʶɑ˥bv̩˧gv̩˧/, ‘très gros'.»
 \xv qʰɑ˧-bv̩˧~bv̩˧-gv̩˧
-\xe very thick (as above)
-\xn 很粗、多粗的、好粗（同上）
-\xf très épais (idem ci-dessus)
+\xe very thick
+\xn 很粗、多粗的、好粗
+\xf très épais
 
 \lx bv̩˥
 \sf <nb="B"> 1263
@@ -5837,6 +5849,8 @@
 
 \lx bv̩˩zo˩
 \or bbusso
+\mr bv̩˩˧
+\mr -zo˥
 \ps n
 \lc bv̩˩zo˩˥
 \sd <langue="fra"> objet
@@ -5936,6 +5950,8 @@
 \lx bv̩˧ʐv̩˧-kʰv̩˧˥
 \hm 2
 \or bburu kuq
+\mr bv̩˧ʐv̩˧
+\mr kʰv̩˧˥
 \ps adj
 \lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
@@ -6193,9 +6209,9 @@
 \lc ɕi˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <dom="morpho" langue="fra"> Le monosyllabe est rarement utilisé tel quel. Il apparaît dans des expressions telles que `planter le riz', |fv{ɕi˧ tv̩˧}.
-\nt <dom="morpho" langue="eng"> The monosyllable is seldom used as such. It is found in phrases such as `to plant rice', |fv{ɕi˧ tv̩˧}.
-\nt <dom="morpho" langue="cmn"> 单音节很少使用。它出现在|fv{ɕi˧ tv̩˧}‘插秧’等短语中。
+\nt <dom="usage" langue="fra"> Le monosyllabe est rarement utilisé tel quel. Il apparaît dans des expressions telles que `planter le riz', |fv{ɕi˧ tv̩˧}.
+\nt <dom="usage" langue="eng"> The monosyllable is seldom used as such. It is found in phrases such as `to plant rice', |fv{ɕi˧ tv̩˧}.
+\nt <dom="usage" langue="cmn"> 单音节很少使用。它出现在|fv{ɕi˧ tv̩˧}‘插秧’等短语中。
 \ton M
 \so F4
 \de Rice (monosyllable).
@@ -6208,6 +6224,10 @@
 \xe to plant rice
 \xn 种稻谷
 \xf planter le riz
+\xv ɕi˧ tv̩˧ bi˧-tso˧ ɲi˥!
+\xe We're going to have to plant rice!
+\xn 该去种稻谷了！
+\xf Il va être temps d'aller planter le riz! / Il va falloir aller repiquer le riz!
 
 \lx ɕi˥β
 \sf <nb="2011"> 1289
@@ -6222,9 +6242,8 @@
 \ge |fg{clf}.pennies
 \dn |fg{量词}：分（一分钱）
 \gn 量词.分（钱）
-\df Centième d'unité monétaire.
+\df Centime: centième d'unité monétaire.
 \gf |fg{clf}.centimes
-\dt 30/Apr/2017
 
 \lx ɕi˧ɕi˩-lo˩
 \sf <nb="2011"> 291
@@ -6259,6 +6278,7 @@
 \or xiddu
 \ps n
 \lc ɕi˩dv̩˥
+\cf ɕi˩˥
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (tons vérifiés) (initiale confirmée, n'est pas /hi/) (avant 2009, noté ˩ ˥)
@@ -6277,7 +6297,6 @@
 \xe to burn incense
 \xn 烧香
 \xf brûler de l'encens
-\dt 14/May/2017
 
 \lx ɕi˩dzi˥
 \sf <nb="B"> 2026
@@ -6301,7 +6320,6 @@
 \gn 柏树
 \df Genévrier; arbre dont des branchages sont employés lors des rituels (suivant la tradition tibétaine).
 \gf genévrier
-\dt 27/Aug/2015
 
 \lx ɕi˧-ho˩ʂɯ˩
 \sf <nb="2011"> 3081
@@ -6548,7 +6566,7 @@
 \xf riz cuit; littéralement: «nourriture-riz cuit»; formulation employée pour préciser le terme |fv{/hɑ˥/}, qui désigne toutes les nourritures.
 \dt 27/Aug/2015
 
-\lx ɕi˧tv̩˧-di˩-lv̩˧
+\lx ɕi˧tv̩˧-di˩ | lv̩˧
 \sf <nb="2011"> 91
 \or xiduddi lu
 \ps n
@@ -6569,7 +6587,6 @@
 \gn 种水稻的田
 \df Champs de riz.
 \gf champs_de_riz
-\dt 09/Oct/2017
 
 \lx ɕi˥α
 \sf <nb="B"> 838
@@ -6705,6 +6722,7 @@
 \xe It smells good.
 \xn 这是香的（气味香）。
 \xf Ça sent bon.
+\xc PHONO
 
 \lx ɕjæ˧
 \sf <nb="B"> 1031
@@ -6934,18 +6952,32 @@
 \sd <langue="eng"> verb
 \ton Lα
 \lc ɕi˩˥
+\cf ʐɤ˧β
 \nt <type="hist" print="n" langue="fra"> Voyelle: avant 2018, noté /ɕi˩˥/. En 2018, pense avoir trouvé une opposition entre des syllabes /ɕɯ/ et des syllabes /ɕi/. Pense avoir soigneusement vérifié avec Mme Latami et confirmé l'existence de l'opposition. En 2024, sur le conseil de Roselle Dobbs, je reprends les deux seuls exemples de syllabe /ɕɯ/ (dont celui-ci), et Mme Latami indique qu'il s'agit de syllabes /ɕi/: homophones (segmentalement).
 \so F4
-\de To raise.
+\de To raise (children). (This is a more elevated term than |fv{ʐɤ˧β}.)
 \ge to_raise
-\dn 养
+\dn 养（孩子）
 \gn 养
-\df Élever (terme plus relevé que |fv{ʐɤ˧}).
+\df Élever (terme d'un registre plus relevé que |fv{ʐɤ˧β}).
 \gf élever
-\xv ɕi˩zo#˥
-\xe adopted child
-\xn 养儿
-\xf enfant adopté
+
+\lx ɕi˩zo#˥
+\or xisso
+\mr ɕi˩α1
+\mr zo˥
+\ps n
+\lc ɕi˩zo˧
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton LM+#H
+\so F4
+\de Adopted child.
+\ge adopted_child
+\dn 养儿
+\gn 养儿
+\df Enfant adopté.
+\gf enfant_adopté
 \xv ho˧zo˧-ɕi˧zo˥, | æ̃˩ mɤ˧-tsɤ˧! | hĩ˧-zo˧mv̩˥, | ʐɤ˧ tʰɑ˧-mɤ˧-ʝi˧!
 \xe The adopted baby pheasant does not become a chicken (=does not become domesticated)! One should not bring up other people's children! (Proverb which does not apply to the adoption of children who have lost ties with their biological family, but to the adoption of children who remain in touch with their relatives: no matter how much care one puts into bringing them up, they remain more attached to their lineage.)
 \xn 养的小雉，不会变成鸡！人家的孩子，不要养！（指的不是领养孤儿，而是无端端地养别人的孩子：无论多么关心孩子，最终他还是会无情，会更爱自己原来的家人。）
@@ -7444,9 +7476,9 @@
 \xn 家的主人（依杜的主人。“依杜”指摩梭的人户。）
 \xf l'hôte de la maison
 \xv ʑi˧dv̩˧-ʝi˧-hĩ˧ dɑ˧pv̩˧
-\xe ditto
-\xn 同上
-\xf idem
+\xe the member of the family who has the role of host
+\xn 家的主人
+\xf l'hôte de la maison
 
 \lx dɑ˧ʁwɤ#˥
 \or Ddawua
@@ -7602,9 +7634,9 @@
 \xn 渡了河
 \xf a passé une rivière
 \xv dʑɯ˧ | ɖɯ˧-kʰɯ˩ ɖæ˩ ≈ dʑɯ˧ | ɖɯ˧-kʰɯ˩ | ɖæ˩˥
-\xe as above
-\xn 同上
-\xf idem
+\xe crossed a river
+\xn 渡了一条河
+\xf a passé une rivière
 
 \lx ɖæ˩α
 \sf <nb="B"> 852
@@ -11633,7 +11665,7 @@
 \xv le˧-dʑo˧-ze˧!
 \xe There is some, now!
 \xn 有了！
-\xf Ca y est, il y en a!
+\xf Ça y est, il y en a!
 \xv ʈʂʰɯ˧ | ɑ˩ʁo˧ | ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧!
 \xe At his home, they have nothing at all = he is needy
 \xn 他家什么也没有 = 他家贫穷
@@ -12581,7 +12613,7 @@
 \xv dzɯ˧ tʰɑ˩.
 \xe It is edible. / I/you/(s)he can eat it.
 \xn 可以吃的。／（我／你／他）能吃。
-\xf Ca se mange, c'est comestible. / Je peux en manger/tu peux en manger/il peut en manger.
+\xf Ça se mange, c'est comestible. / Je peux en manger/tu peux en manger/il peut en manger.
 
 \lx dʑɯ˩
 \sf <nb="B"> 40a
@@ -17844,7 +17876,7 @@
 \xv gɤ˩bv̩˧-ho˩-ze˩!
 \xe |fg{fut} |fg{pfv}: It's going to boil over!
 \xn 未来+整体体：要溢出来了！要沸腾了！
-\xf |fg{fut} |fg{pfv}: Ca va déborder !
+\xf |fg{fut} |fg{pfv}: Ça va déborder !
 
 \lx gɤ˩dzɤ˧
 \sf <nb="2011"> 1068
@@ -20936,10 +20968,26 @@
 \xe Explanation of the Naxi loanword through its synonymy with the Na word: “The rain cape [Naxi loanword] is a rain cape [word in Narua]!”
 \xn 用摩梭语的词来解释纳西语借词：“蓑衣（纳西语借词），意思是‘蓑衣’[摩梭语]！”
 \xf Explication du mot emprunté au naxi par son synonyme en na: «Cape de pluie (mot naxi), ça veut dire cape de pluie (mot na)!» / «La cape des Naxi, c'est le vêtement de pluie!»
-\xv hi˧dʑi˧-dʑɤ˧tsʰe˩
-\xe same meaning
-\xn 同上
-\xf idem
+
+\lx hi˧dʑi˧-dʑɤ˧tsʰe˩
+\or xiejjie jjacei
+\mr hi˧dʑi˧
+\mr dʑɤ˧tsʰe˩
+\ps n
+\sd <langue="fra"> vêtement
+\sd <langue="eng"> clothing
+\ton -L#
+\lc hi˧dʑi˧dʑɤ˧tsʰe˩
+\sy hi˧dʑi˧
+\sy dʑɤ˧tsʰe˩
+\so F4
+\pdv ɭɯ˧β
+\de Palm bark rain cape.
+\ge rain_cape
+\dn 蓑衣
+\gn 蓑衣
+\df Cape de pluie, vêtement qui protège de la pluie.
+\gf cape_de_pluie
 
 \lx hi˩dʑɯ˩
 \sf <nb="B"> 76
@@ -22322,7 +22370,7 @@
 \xv hɤ˩ sɯ˥!
 \xe (I'm) still fine! / I'm still in good health! (Answer to the question ‘How are you?’, when acquaintances meet after several years.)
 \xn 还好！／我身体还好！（情景：认识的人，几年没有见面，见面时问最近怎么样。）
-\xf Ca va encore bien! / La santé reste bonne! (Réponse à la question ‘Comment ça va?’, entre connaissances qui se retrouvent après plusieurs années.)
+\xf Ça va encore bien! / La santé reste bonne! (Réponse à la question ‘Comment ça va?’, entre connaissances qui se retrouvent après plusieurs années.)
 \xv ə˧mi˧ | hɤ˩ sɯ˥!
 \xe My mother is still fine! / My mother is still in good health! (Answer to the question ‘How is your mother?’)
 \xn 母亲还好！／母亲身体还好！（情景：认识的人，几年没有见面，见面时问一下家人最近怎么样。）
@@ -24064,7 +24112,7 @@
 \xv ʈʂʰɯ˧ | ə˧-ʝi˥?
 \xe Is he coming? / Is he following? (Context: three people are climbing a mountain; the third is lagging behind. The first asks the second: “Is he following?”)
 \xn 他来吗？／他能跟上吗？（情景：三个人在登山。第三个人走路比较慢，第一个人看不见第三个人了，就问第二个人：“他来吗？／他能跟上吗？”）
-\xf Il vient? / Ca suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: «Il suit? / Ca suit?»)
+\xf Il vient? / Ça suit? (Contexte: trois personnes marchent en montagne, et la troisième s'est laissée distancer; la personne qui marche en tête demande à celle qui la suit: «Il suit? / Ça suit?»)
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ʝi˥/.
 \xv mɤ˧-ʝi˧-ze˧!
 \xe It's going wrong! / Something is going wrong! / We're in for trouble!
@@ -27102,19 +27150,14 @@
 \gn 家
 \df Foyer. Mot ancien, qui n'est utilisé que dans un registre soutenu; il désigne un espace de vie.
 \gf foyer
-\xv dʑi˧tɕʰi˧ le˧-gwɤ˩ | qo˩ tɑ˧-ze˥, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩ dʑɤ˩. |
+\xv dʑi˧tɕʰi˧ le˧-gwɤ˩ | qo˩ tɑ˧-ze˥, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩ dʑɤ˩. ≈ dʑi˧tɕʰi˧ le˧-gwɤ˩ qo˩ tɑ˩-ze˩, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩ dʑɤ˩.
 \xe After long journeys come to an end, how beautiful is the home of the mother who raised me! (A song about homesickness.)
 \xn 很远的路程结束了，养我的母亲家里多么美！
 \xf Au terme de lointains périples, comme il est beau, le foyer de la mère qui m'a élevée! (Chanson au sujet de la nostalgie du foyer.)
-\xv dʑi˧tɕʰi˧ le˧-gwɤ˩ | qo˩ tɑ˧-ze˥, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩-qo˩. |
-\xe as above
-\xn 同上
-\xf idem ci-dessus
-\xv dʑi˧tɕʰi˧ le˧-gwɤ˩ qo˩ tɑ˩-ze˩, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩ dʑɤ˩. |
-\xe as above
-\xn 同上
-\xf idem
-\dt 15/Jun/2017
+\xv dʑi˧tɕʰi˧ le˧-gwɤ˩ | qo˩ tɑ˧-ze˥, | njɤ˧-ɕi˩ ə˩mɑ˩ kʰo˩bɤ˩ qo˩.
+\xe After long journeys come to an end, how I love the home of the mother who raised me! (A song about homesickness.)
+\xn 很远的路程结束了，我多么爱养我的母亲的家！
+\xf Au terme de lointains périples, comme j'aime le foyer de la mère qui m'a élevée! (Chanson au sujet de la nostalgie du foyer.)
 
 \lx kʰo˧ɕi˩
 \or kexi
@@ -27376,9 +27419,9 @@
 \xn 树枝
 \xf branche d'arbre
 \xv si˧-kɤ˥lo˩
-\xe as above
-\xn 同上
-\xf idem
+\xe branch of tree
+\xn 树枝
+\xf branche d'arbre
 
 \lx kɤ˧mi˧
 \sf <nb="B"> 525
@@ -30801,7 +30844,7 @@
 \xv hĩ˧ ɖɯ˧-v̩˧ lɑ˧ ɲi˥ mæ˩!
 \xe It's one and the same person / It refers to the same person! (Response given by the speaker to a question about shades of meaning between quasi-synonyms. Paraphrase: ‘Well, you can find nuances, but basically it's all the same: it refers to the same person’).
 \xn 是同一个人／指的是同一个人！(情景：发音合作者回答关于准同义词之间的细微差别的问题。意思是：“嗯，可以找到细微差别，但基本上都是一样的，因为指的是同一个人”。）
-\xf Il s'agit d'une seule et même personne! / Il s'agit en tout et pour tout d'une seule personne! / Ca désigne la même personne! (Réponse fournie par la locutrice à une question concernant les nuances de sens entre quasi-synonymes pour désigner une certaine personne. Paraphrase: «Les nuances, bon, on peut en trouver, mais au fond, c'est pareil puisque ça désigne la même personne».)
+\xf Il s'agit d'une seule et même personne! / Il s'agit en tout et pour tout d'une seule personne! / Ça désigne la même personne! (Réponse fournie par la locutrice à une question concernant les nuances de sens entre quasi-synonymes pour désigner une certaine personne. Paraphrase: «Les nuances, bon, on peut en trouver, mais au fond, c'est pareil puisque ça désigne la même personne».)
 
 \lx lɑ˧˥
 \sf <nb="B"> 1191b
@@ -30928,7 +30971,7 @@
 \xv lɑ˧bi˧-tsɤ˧ | ʐwæ˩˥!
 \xe It is really steep!
 \xn 陡得很！
-\xf C'est très pentu! (Littéralement: ‘Ca ressemble vraiment à une pente raide!')
+\xf C'est très pentu! (Littéralement: ‘Ça ressemble vraiment à une pente raide!')
 \dt 04/Sep/2015
 
 \lx læ˧dæ˧qæ˥
@@ -34628,7 +34671,7 @@
 \xv ɖɯ˧-ɭɯ˧ hwæ˧-mɤ˧-ɖo˧! | le˧-qʰwæ˧-kv̩˥!
 \xe Don't buy just one / Don't buy a single one: it would break! (Explanation: objects must be bought by pairs: 2, 4, 6, 8, 10…, not by sets of odd numbers (1, 3, 5, 7, 9…), otherwise it bears ill luck and the objects get broken or lost)
 \xn 不要（只）买一个！会碎的！（东西要一对一对买：2、4、6、8、10……，单数不吉利，东西会碎的。）
-\xf N'en achète pas un (unique)! Ca va se casser! (Explication: il faut acheter les objets par paires: 2, 4, 6, 8, 10…, pas en nombre impair, sinon cela porte malheur et les objets cassent, se perdent…)
+\xf N'en achète pas un (unique)! Ça va se casser! (Explication: il faut acheter les objets par paires: 2, 4, 6, 8, 10…, pas en nombre impair, sinon cela porte malheur et les objets cassent, se perdent…)
 \xv ʈʂʰɯ˧ | zo˧hṽ̩˥ | dʑɤ˩-ɭɯ˥ dʑo˩!
 \xe She has a really pretty child! (Context: the main consultant had a polite conversation with a neighbour who had a lovely grandson; later on, she told me: “She has a really pretty child!")
 \xn 她有个很漂亮的孩子！
@@ -34827,7 +34870,7 @@
 \xv le˧-lv̩˧˥, | mv̩˩-tɕo˧ ɖʐwæ˧-ze˥!
 \xe It slipped out of my hand and fell to the floor!
 \xn （一个东西）从我手中滑落，掉在地上！
-\xf Ca m'a échappé des mains, et c'est tombé par terre!
+\xf Ça m'a échappé des mains, et c'est tombé par terre!
 
 \lx lv̩˥
 \sf <nb="B"> 1187
@@ -36186,7 +36229,7 @@
 \xv mɑ˧tsɑ˥ | ʈʂʰɯ˧-qo˧ le˧-tsʰɯ˩-ɲi˩! |
 \xe (Of an event:) It comes from afar! / It does not take place simply by chance: there is a long story behind it!
 \xn 这（件事情）出处很远！／有它的来龙去脉（=不是突然一下子出现的）！
-\xf (Au sujet d'un événement) Ca vient de loin! / ça a une origine/ça n'arrive pas par hasard!
+\xf (Au sujet d'un événement) Ça vient de loin! / ça a une origine/ça n'arrive pas par hasard!
 \xv mɑ˧tsɑ˥ ʈʂʰɯ˩-kʰwɤ˩ |
 \xe 〜 |fg{dem} |fg{clf}: this cause, this origin
 \xn 〜 |fg{指示代词} |fg{量词}：这个来历
@@ -36603,10 +36646,6 @@
 \xe to plant rice seedlings
 \xn 种水稻秧苗
 \xf planter le riz, repiquer le riz
-\xv ɕi˧ tv̩˧ bi˧-tso˧ ɲi˥!
-\xe We're going to have to plant rice!
-\xn 该去种稻谷了！
-\xf Il va être temps d'aller planter le riz! / Il va falloir aller repiquer le riz!
 
 \lx mi˧ɬo#˥
 \sf <nb="B"> 88a
@@ -37088,7 +37127,7 @@
 \xv ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-ʝi˩-zo˩!
 \xe ‘[They have kids] like (=as numerous as) morels in the seventh month!', i.e. they have children in great abundance. This is a comforting message to people who do not yet have as many children as they would want. It can also be a humorous comment made about people who had one child after the other. The abundance of morels in the seventh month is spectacular and proverbial.
 \xn （你们家孩子）生得像七月份的羊肚菌一样！（来形容一家有很多孩子出生，一个又一个。在永宁地区，七月份羊肚菌很多。）
-\xf «Il vous en vient comme des morilles au septième mois!» Commentaire humoristique: ce qu'on disait au sujet des gens qui avaient beaucoup d'enfants, qui avaient enfant après enfant: «Ca prolifère comme les morilles au septième mois!»
+\xf «Il vous en vient comme des morilles au septième mois!» Commentaire humoristique: ce qu'on disait au sujet des gens qui avaient beaucoup d'enfants, qui avaient enfant après enfant: «Ça prolifère comme les morilles au septième mois!»
 \xc <dom="phono" langue="fra"> La syllabe /|fv{-ʝi˩}/ est particulièrement discrète (ce qui avait conduit, avant 2014, à une notation /|fv{‡ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/). Sa réduction pourrait facilement se prêter à une réinterprétation à la génération suivante, comme /|fv{-ne˩-zo˩}/, si la langue continue d'être transmise.
 \xc <dom="phono" langue="eng"> The syllable /|fv{-ʝi˩}/ is phonetically reduced (which had led, prior to 2014, to a notation /|fv{‡ʂɯ˧-ɬi˧mi˧ | mo˧ɖʐv̩˥-ne˩-zo˩}/). Its reduction could easily lead to reinterpretation in the next generation, as /|fv{-ne˩-zo˩}/, if the language continues to be transmitted.
 \xc <dom="phono" langue="cmn"> /|fv{-ʝi˩}/音节的弱化很强（2014年之前，这种弱化导致了此短语被听成/|fv{‡ʂɯ˧-ɬi˧mi˧|mo˧ɖʐv̩˥-ne˩-zo˩}/）。如果语言继续流传下去，很容易在下一代简化为/|fv{-ne˩-zo˩}/。
@@ -37822,7 +37861,7 @@
 \xv hu˧mi˧ go˧˥ ◊ -ɲi˩-ho˩-ze˩, | zo˩no˧-ɲi˩-pi˩, | zo˩no˥, | hu˧mi˧-ʈʂʰæ˧ɣɯ˧ ʈʰɯ˧˥ | le˧-qʰwɤ˧-ze˧-mæ˧! |
 \xe It must have been a stomachache; nowadays, you can cure that by taking stomach medication!
 \xn 应该是胃痛。现在吃点胃药就能治好！
-\xf Ca devait être un mal d'estomac; de nos jours, eh bien, ça se guérit en prenant des médicaments pour l'estomac!
+\xf Ça devait être un mal d'estomac; de nos jours, eh bien, ça se guérit en prenant des médicaments pour l'estomac!
 \txt Healing.66
 \doi 10.24397/pangloss-0004541#S66
 \xc <dom="ton" langue="fra"> Le ton de cette particule est déduit des rares occurrences, telles que celles-ci, où il n'est pas déterminé par le contexte.
@@ -38355,10 +38394,14 @@
 \gn 后裔
 \df Les descendants, la descendance.
 \gf descendants
-\xv mv̩˧-gɤ˥gɤ˩ hĩ˩ (+ =ɻæ˩)
-\xe same meaning: descendants
+\xv mv̩˧-gɤ˥gɤ˩ hĩ˩
+\xe Descendants, people belonging to the line of descent
 \xn 后裔
-\xf idem: les descendants, la descendance
+\xf Les descendants, les personnes appartenant à la descendance
+\xv mv̩˧-gɤ˥gɤ˩ hĩ˩=ɻæ˩
+\xe Descendants, people belonging to the line of descent
+\xn 后裔
+\xf Les descendants, les personnes appartenant à la descendance
 
 \lx mv̩˧-gɤ˧lɑ˥
 \sf <nb="B"> 660b
@@ -42432,7 +42475,7 @@
 \xv le˧-njɤ˧-ze˥!
 \xe |fg{accomp} 〜 |fg{pfv}: It's glued!
 \xn |fg{实施} 〜 |fg{整体体}：粘在一起了！
-\xf |fg{accomp} 〜 |fg{pfv}: C'est recollé! / Ca y est, c'est collé!
+\xf |fg{accomp} 〜 |fg{pfv}: C'est recollé! / Ça y est, c'est collé!
 \xv tso˧~tso˧ le˧-ɖʐɤ˧, | le˧-njɤ˧˥!
 \xe When something (e.g. a book) is torn, (we) glue it together!
 \xn 东西撕破了，粘在一起（就好了）
@@ -45342,22 +45385,39 @@
 \lx pʰe
 \or pei
 \ps intj
+\sy pʰe.hɑ~hɑ
 \lc pʰe!
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \nt <type="hist" print="n" langue="fra"> nasalité: vérifié en août 2014
 \ton 0
 \so F4
-\de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says "pei!", then explains that the matter at issue is not a big deal.
+\de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says “pei!”, then explains that the matter at issue is not a big deal.
 \ge |fg{intj}.pooh!
 \dn 呸！（表示唾弃的感叹词）。如：表示对方认为很严重的事情，其实没什么大不了的，会用‘呸！’这个叹词。
 \gn 感叹词.呸
 \df Mais pas du tout! Mais non, enfin! Interjection par laquelle le locuteur signale qu'il reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'il va rectifier.
 \gf |fg{intj}.pas_du_tout!
 \xv pʰe! hɑ~hɑ!
-\xe as above
-\xn 同上
-\xf idem
+\xe No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says “pei， haha!”, then explains that the matter at issue is not a big deal.
+\xn 呸！（表示唾弃的感叹词）。如：表示对方认为很严重的事情，其实没什么大不了的，会说‘呸！哈哈’。
+\xf Mais pas du tout! Mais non, enfin! Interjection par laquelle le locuteur signale qu'il reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'il va rectifier.
+
+\lx pʰe.hɑ~hɑ
+\or peihaha
+\ps intj
+\sy pʰe
+\lc pʰe! hɑhɑ!
+\sd <langue="fra"> interjection
+\sd <langue="eng"> interjection
+\ton 0
+\so F4
+\de Interjection: No way! / Come on! The speaker signals that the interlocutor is making wrong statements, and that (s)he (the speaker) will now put forward different views. For instance: when someone is making a big fuss about something that does not warrant such a reaction, the speaker says “pei, haha!”, then explains that the matter at issue is not a big deal.
+\ge |fg{intj}.pooh_haha!
+\dn 呸！哈哈（表示唾弃的感叹词）。如：表示对方认为很严重的事情，其实没什么大不了的，会说‘呸！哈哈’。
+\gn 感叹词.呸哈哈
+\df Mais pas du tout! Mais non, enfin! Interjection par laquelle la locutrice signale qu'elle reprend la main: que ses interlocuteurs lui paraissent être dans l'erreur, et qu'elle va rectifier.
+\gf |fg{intj}.pas_du_tout!
 
 \lx pe˧ʂe˧
 \or beishei
@@ -52061,7 +52121,7 @@
 \xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-kv̩˩!
 \xe This is a story that could get under your skin (if you're not careful)! / (A warning to someone about behaviour such as petty theft, which would be socially stigmatised.)
 \xn （如果你不小心）这个故事可能会触动你的神经！（针对小偷小摸等行为向某人发出警告，这些行为会受到社会的鄙视）
-\xf Ca pourrait bien fournir matière à une infinité de racontars! / Ca, c'est une histoire qui te collerait à la peau (si tu n'es pas prudent·e)! / Ca pourrait faire jaser jusqu'à la fin de tes jours! (Mise en garde envers quelqu'un, au sujet d'un comportement tel qu'un larcin, qui serait stigmatisé socialement.)
+\xf Ça pourrait bien fournir matière à une infinité de racontars! / Ca, c'est une histoire qui te collerait à la peau (si tu n'es pas prudent·e)! / Ça pourrait faire jaser jusqu'à la fin de tes jours! (Mise en garde envers quelqu'un, au sujet d'un comportement tel qu'un larcin, qui serait stigmatisé socialement.)
 \xv ɖɯ˧-zɯ˧ qʰwæ˧kʰwɤ˧ tsɤ˧-ʝi˧!
 \xe This is a story that will get under your skin!
 \xn 这个故事可能会触动你的神经！
@@ -54612,9 +54672,9 @@
 \xn 往北方向走
 \xf marcher en direction du nord
 \xv hṽ̩˩gv̩˩lo˧-gi˩dzɤ˩ se˩
-\xe as above
-\xn 同上
-\xf idem ci-dessus
+\xe to walk towards the north
+\xn 往北方向走
+\xf marcher en direction du nord
 
 \lx ʁo˧dzi˩-tʰæ˩ɻæ˩
 \sf <nb="B"> 647
@@ -55532,9 +55592,9 @@
 \xn 菥蓂花
 \xf fleurs de monnoyère
 \xv ʁv̩˧-bæ˥bæ˩
-\xe as above: field penny-cress flowers
-\xn 同上：菥蓂花
-\xf idem ci-dessus: fleurs de monnoyère
+\xe field penny-cress flowers
+\xn 菥蓂花
+\xf fleurs de monnoyère
 
 \lx ʁv̩˧mi˥$
 \or weumi
@@ -56412,9 +56472,9 @@
 \xc <dom="ton" langue="eng"> No less than three tonal variants exist for this classifier: tone Mβ, tone H$, and tone #H. This example illustrates the Mβ and #H tonal variants.
 \xc <dom="ton" langue="cmn"> 该量词有三种声调变体：Mβ、H$和#H。本例反映了Mβ和#H变体。
 \xv ɻ̩̃˧ | ɖɯ˧-ɻ̩̃˥
-\xe as above: one clan
-\xn 同上：一个家族
-\xf idem: un clan
+\xe one clan
+\xn 一个家族
+\xf un clan
 \xc PHONO
 \xc <dom="phono" langue="fra"> Cet exemple illustre la variante tonale H$.
 \xv ɖɯ˧-ɻ̩̃˧ ɲi˩
@@ -61587,7 +61647,7 @@
 \xv mɤ˧-ʂɯ˥~ʂɯ˩! | mɤ˧-ʑi˧!
 \xe It does not leak; it does not flow out!
 \xn 没漏，没流出去！
-\xf Ca ne s'écoule pas, ça ne fuit pas! (|fv{/ʑi˧/}: ‘s'écouler’)
+\xf Ça ne s'écoule pas, ça ne fuit pas! (|fv{/ʑi˧/}: ‘s'écouler’)
 \dt 09/Oct/2015
 
 \lx ʂɯ˧α
@@ -61830,7 +61890,7 @@
 \xv njɤ˧ | le˧-ʂv̩˧ɖv̩˧ | le˧-tʰv̩˧ ze˧!
 \xe I remember! I recollect!
 \xn 我想起了！
-\xf Ca y est, je me souviens!
+\xf Ça y est, je me souviens!
 \xv ʈʂʰɯ˧ | le˧-ʂv̩˧ɖv̩˧-le˧-tʰv̩˧-ze˧
 \xe He remembers, he recollects
 \xn 他想起来了
@@ -62094,7 +62154,7 @@
 \xv ʈʂʰɯ˧ | le˧-ʂwæ˧-ze˧!
 \xe It has grown tall!
 \xn 变高了！
-\xf Ca a atteint une haute taille!
+\xf Ça a atteint une haute taille!
 \xc PHONO
 
 \lx ʂwæ˧
@@ -62395,7 +62455,7 @@
 \xv le˧-qʰæ˧-ho˥-ze˩, | ɖɯ˧-ʂwæ˥~ʂwæ˩-ɻ̩˩!
 \xe It's going to burn, so let's give it a stir! (A dish needs to be stirred so that it doesn't stick to the pan.)
 \xn 要烧焦了，要搅拌一下！(烹饪时需要搅拌，以免粘锅）
-\xf Ca va brûler, remuons donc un peu! (Une préparation culinaire nécessite d'être remuée pour ne pas attacher à la casserole.)
+\xf Ça va brûler, remuons donc un peu! (Une préparation culinaire nécessite d'être remuée pour ne pas attacher à la casserole.)
 
 \lx ʂwɤ˧ljɤ˧-kwɤ˩
 \or shualiagua
@@ -62559,7 +62619,7 @@
 \xv mɤ˧-tʰɑ˧˥ | mɤ˧-so˩!
 \xe It is not too good (to the taste)!
 \xn 不怎么香！
-\xf Ca n'est pas bien bon!
+\xf Ça n'est pas bien bon!
 
 \lx ʈʰæ˧˥
 \sf <nb="B"> 1161
@@ -62852,7 +62912,7 @@
 \xv hĩ˧-ki˧ | ɖɯ˧-kʰwɤ˧ tɑ˥hwɤ˩-zo˩-ʝi˩!
 \xe We shall have to make a present to people! / It's going to be an occasion to make a present to people! (For instance, when a child goes through the “Coming of age" rite.)
 \xn 应该给人家送礼了！（例如，人家为孩子进行成年礼时，要送礼。）
-\xf Il va falloir faire un présent aux gens! / Ca va être l'occasion de faire un présent aux gens! (par exemple à l'occasion d'un rituel de passage à l'âge adulte)
+\xf Il va falloir faire un présent aux gens! / Ça va être l'occasion de faire un présent aux gens! (par exemple à l'occasion d'un rituel de passage à l'âge adulte)
 \xv zo˧mv̩˥-ki˩, | tɑ˩hwɤ˩ mɤ˥-kv̩˩!
 \xe Presents are not for the kids! / We don't give big presents to children!
 \xn 不会专门给孩子送（大）礼的！（说明：送礼，是送给家里的主人）
@@ -63123,7 +63183,7 @@
 \xv le˧-tɑ˥mo˩-ze˩!
 \xe It has wilted!
 \xn 萎蔫了！
-\xf Ca a fané! (Exemple: une fleur coupée, une fleur abîmée par le vent ou par un soleil trop ardent.)
+\xf Ça a fané! (Exemple: une fleur coupée, une fleur abîmée par le vent ou par un soleil trop ardent.)
 \dt 27/Apr/2017
 
 \lx ʈʰæ˧-mɤ˧-ʝi#˥
@@ -64086,7 +64146,7 @@
 \xv tɑ˧~tɑ˧ | ho˩˥! |
 \xe Just right, exactly right. (Example: a pair of shoes fits perfectly.)
 \xn 刚刚好！（如：一双鞋刚好合适）
-\xf Ca convient exactement/ça convient précisément (ex.: au sujet d'une paire de chaussures qu'on vient de vous offrir)
+\xf Ça convient exactement/ça convient précisément (ex.: au sujet d'une paire de chaussures qu'on vient de vous offrir)
 \xv le˧-li˧ tɑ˧~tɑ˧
 \xe to see clearly
 \xn 看清楚
@@ -64142,10 +64202,28 @@
 \gn 橡胶鞋
 \df Chaussures en caoutchouc.
 \gf chaussures_en_caoutchouc
-\xv tɕæ˧hæ˩-dzɑ˩qʰwɤ˩
-\xe same meaning: rubber shoe, shoe with a rubber sole, sports shoe
-\xn 同上：橡胶鞋、橡胶底鞋
-\xf idem: chaussures à semelle en gomme/en caoutchouc; baskets
+
+\lx tɕæ˧hæ˩-dzɑ˩qʰwɤ˩
+\or jaehae zzakhua
+\mr tɕæ˧hæ˩
+\mr dzɑ˩qʰwɤ˩
+\ps n
+\sd <langue="fra"> objet
+\sd <langue="eng"> object
+\ton L#-
+\sy tɕæ˧hæ˩
+\lc tɕæ˧hæ˩dzɑ˩qʰwɤ˩
+\so F4
+\pdv dzi˧β
+\pdc <langue="fra"> |fg{clf}: paire d’objets qui constitue une unité
+\pdc <langue="eng"> |fg{clf} for pairs of objects, when the pair makes up a unit
+\pdc <langue="cmn"> 双的|fg{量词}
+\de Rubber shoes, shoes with a rubber sole, sports shoes
+\ge rubber_shoes
+\dn 橡胶鞋、橡胶底鞋、运动鞋。
+\gn 橡胶鞋
+\df Chaussures à semelle en gomme/en caoutchouc; baskets
+\gf chaussures_en_caoutchouc
 
 \lx tɕæ˧pʰɻ̩˩
 \sf <nb="B"> 954b
@@ -77094,8 +77172,7 @@
 \xv ɖɯ˧-tʰv̩˧˥, | ɖɯ˧-tʰv̩˧˥
 \xe step by step, one step after the other; same as above, but detaching the two parts of the phrase; this is closer to repetition than to reduplication
 \xn 一步又一步
-\xf idem, détachant les deux parties; cette forme est plus proche d'une répétition que d'une réduplication
-\dt 27/Apr/2017
+\xf Pas à pas. Les deux parties de l'expression sont détachées, formant chacune un groupe tonal distinct. Cette forme est plus proche d'une répétition que d'une réduplication.
 
 \lx tʰv̩˧α
 \sf <nb="B"> 2203
@@ -79787,7 +79864,7 @@
 \pdv ɭɯ˧β
 \de The main building of the house/farm: the building where the hearth is located.
 \ge main_building
-\dn 家里有火塘的那个房子（“祖母房”）
+\dn 家里有火塘的那个房子（“祖母房”）。汉语音译：‘依咪’。
 \gn 家里的主房
 \df Le bâtiment de la maison où se trouve le foyer.
 \gf bâtiment_principal
@@ -80286,17 +80363,25 @@
 \gn 宇宙
 \df Univers.
 \gf univers
-\xv sɑ˧ | -zo˩-bv̩˥-li˩
-\xe the universe
-\xn 宇宙
-\xf l'univers
-\xc <langue="fra" type="hist" print="n"> Sens: l'univers entier. Modifié en juillet 2012 de /‡sɑ˧zo˩ | bv̩˧ɭɯ˩/ en /sɑ˧ | zo˩bv̩˥ɭɯ˩/. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩. On peut dire simplement: zo˩bv̩˧ɭɯ˩. Corrigé en 2013 la syllabe /ɭɯ/ en /li/. M18 traduit par: 天地的空间.
-\rf F4
-\xv sɑ˧ | -zo˩-bv̩˥-li˩
-\xe as above: the universe
-\xn 同上：宇宙
-\xf idem: l'univers
-\rf M18
+
+\lx sɑ˧ | -zo˩-bv̩˥-li˩
+\or sa ssobbuli
+\mr zo˩-bv̩˥-li˩
+\ps n
+\ton M|L.H.L
+\lc sɑ˧zo˩bv̩˥li˩
+\cf zo˩-bv̩˥-li˩
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\nt <langue="fra" type="hist" print="n"> Sens: l'univers entier. Modifié en juillet 2012 de /‡sɑ˧zo˩ | bv̩˧ɭɯ˩/ en /sɑ˧ | zo˩bv̩˥ɭɯ˩/. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩. On peut dire simplement: zo˩bv̩˧ɭɯ˩. Corrigé en 2013 la syllabe /ɭɯ/ en /li/. M18 traduit par: 天地的空间.
+\so F4
+\va <speaker="M18"> sɑ˧zo˩bv̩˧ɭɯ˩
+\de The universe, the entire world.
+\ge universe
+\dn 宇宙、天地、全世界
+\gn 宇宙
+\df L'univers, le monde entier.
+\gf univers
 
 \lx zo˧ɖɯ#˥
 \or ssoddee
@@ -83117,9 +83202,9 @@
 \xn 给他讲
 \xf lui dire, lui parler
 \xv ʈʂʰɯ˧-ki˧ ʐwɤ˧-bi˥
-\xe as above, with |fg{immediate future}
+\xe ... am going to speak to her/him (as above, with |fg{immediate future})
 \xn 要给他讲
-\xf idem+|fg{futur immédiat}
+\xf ... vais lui parler (idem ci-dessus+|fg{futur immédiat})
 \xv ə˧mɑ˧-ɳɯ˧ | njɤ˧-ki˧ | nɑ˩-ʐwɤ˧ so˩!
 \xe Ama teaches me the Na language!
 \xn 阿妈教我摩梭语！
@@ -83914,9 +83999,9 @@
 \xn 家后院
 \xf derrière la maison, l'arrière de la maison (où il y a le potager)
 \xv ʑi˧qʰwɤ˧-ʁo˧tʰo˩
-\xe as above: behind the house
-\xn 同上：家后院
-\xf idem: derrière la maison, l'arrière de la maison (où il y a le potager)
+\xe behind the house
+\xn 家后院
+\xf derrière la maison, l'arrière de la maison (où il y a le potager)
 
 \lx †ʁwɤ˩α
 \sf <nb="B"> 1523
