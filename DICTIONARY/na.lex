@@ -9725,7 +9725,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\va <speaker="M23"> ɻ̩̃
+\va <speaker="M23"> *
 \sn 1
 \de Bad, mean (action), inferior.
 \ge bad
@@ -21937,7 +21937,6 @@
 \xe |fg{pfv}
 \xn |fg{整体体}：变穷苦了
 \xf |fg{pfv}: qui se retrouve à la rue, qui devient démuni
-\dt 24/Apr/2017
 
 \lx ho˧dʑɯ˧˥
 \or hojji
@@ -56456,6 +56455,7 @@
 \ton H
 \lc ɻ̩̃˧
 \so F4
+\va <speaker="M18"> ID.
 \de Destitute, impoverished, poor; troubled, helpless.
 \ge destitute
 \dn 困难、贫穷
