@@ -1336,7 +1336,7 @@
 \gf jadis
 \xv æ˧ʂæ˧=bv̩˧
 \xe |fg{poss}: …of the past
-\xn 属格：从前的……
+\xn |fg{属式}：从前的……
 \xf |fg{poss}: …du passé
 \xc PHONO
 \xc <dom="ton" langue="fra"> Schéma tonal régulier pour un mot disyllabique au ton #H suivi du possessif.
@@ -34201,7 +34201,7 @@
 \xf Casserole à céréales en bronze
 \xv lo˩qo˧=bv̩˧
 \xe |fg{poss}
-\xn 属格
+\xn |fg{属式}：铜饭锅的
 \xf |fg{poss}
 \xc PHONO
 
@@ -59756,9 +59756,9 @@
 \df L'année prochaine, l'an prochain.
 \gf l_an_prochain
 \xv so˧ʝi˧=bv̩˧
-\xe |fv{poss}
-\xn 属格
-\xf |fv{poss}
+\xe |fv{poss}: of next year, next year's
+\xn |fg{属式}：名年的
+\xf |fv{poss}: de l'année prochaine
 \xc PHONO
 
 \lx ʂo˧li˧
@@ -62023,14 +62023,14 @@
 \xf …a acheté un coin
 \xc PHONO
 \xv ʂwæ˩ tʰv̩˩-ɭɯ˩˥ ≈ ʂwæ˩ tʰv̩˩-ɭɯ˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that wedge
 \xn 〜 |fg{指示代词} |fg{量词}：那个楔子
-\xf 〜 |fg{dem} |fg{clf.générique}
+\xf 〜 |fg{dem} |fg{clf.générique}: ce coin
 \xc PHONO
 \xv ʂwæ˩ tʰv̩˩-kʰwɤ˩˥
-\xe 〜 |fg{dem} |fg{clf}
+\xe 〜 |fg{dem} |fg{clf}: that wedge
 \xn 〜 |fg{指示代词} |fg{量词}：那个楔子
-\xf 〜 |fg{dem} |fg{clf}.morceaux
+\xf 〜 |fg{dem} |fg{clf.morceaux}: ce coin
 \xc PHONO
 \xv ʂwæ˩ kʰɯ˥
 \xe to place a wedge, to put a wedge
@@ -82791,7 +82791,7 @@
 \so F4
 \de Possessive.
 \ge |fg{poss}
-\dn 属式：的
+\dn |fg{属式}：的
 \gn 属式
 \df Possessif.
 \gf |fg{poss}
