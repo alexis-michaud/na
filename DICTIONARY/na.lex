@@ -9262,7 +9262,7 @@
 \pdc <langue="cmn"> 一对
 \de Wing (monosyllabic form; the commonly used form is the disyllable |fv{ɖv̩˧qæ˧}).
 \ge wing
-\dn 翅膀（单音节。一般用双音节词|fv{ɖv̩˧qæ˧}。）
+\dn 翅膀（依据共时形态调系规则从双音节词推导的单音节词根）。一般用双音节词|fv{ɖv̩˧qæ˧}。
 \gn 翅膀
 \df Ailes (forme monosyllabique; la forme d'usage courant est le disyllabe, |fv{ɖv̩˧qæ˧}).
 \gf ailes(monosyll.)
@@ -10526,7 +10526,7 @@
 \nt <langue="cmn" dom="ton"> |fv{dze˧-ɻ̩̃#˥}（‘麦秸’，字面意思是‘麦骨’）和 |fv{dze˧-tɕʰi#˥}（‘麦须’、 字面意思是 ‘麦刺’）这两个复合名词的限定词（‘骨’、‘刺’）带H调，其核心词（‘小麦’）必须带M调或H调。因此，我们推断‘小麦’的单音节词根要么带M调，要么带H调。然而，也有可能出现过其他的情况，例如，本来包含两个以上音节的复合词被简化为双音节形式：例如，假如在双音节 |fv{dze˧ɭɯ˧}‘小麦’的基础上形成的复合词被简化为两个音节，省略了|fv{ɭɯ˧}这个音节。
 \de Wheat (monosyllabic root inferred from disyllabic forms).
 \ge wheat(monosyll.)
-\dn 小麦（从双音节形式推断出的单音节词根）。
+\dn 小麦（依据共时形态调系规则从双音节词推导的单音节词根）。
 \gn 小麦（单音节词根）
 \df Blé (racine déduite des formes disyllabiques attestées).
 \gf blé(monosyll.)
@@ -10635,8 +10635,8 @@
 \cf dzi˧β
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\nt <dom="sem" langue="fra"> Ce concept est important pour les Na, dans la mesure où les objets usuels doivent être achetés par paires, faute de quoi ils risquent de casser, dit-on. On n'achète (et n'offre) pas un bol, ou une casserole, ou un couteau, mais des paires: des ensembles de 2, 4, 6, 8, 10… Tous les nombres impairs porteraient malheur.
-\nt <dom="sem" langue="eng"> This concept is important for the Na, in that everyday objects must be bought in pairs, otherwise they risk breaking, it is said. One does not buy (or offer) one bowl, or one saucepan, or one knife, but pairs: sets of 2, 4, 6, 8, 10… Any odd numbers would bring bad luck.
+\nt <dom="sem" langue="fra"> Ce concept est important pour les Na (comme pour d'autres groupes ethniques de la région), dans la mesure où les objets usuels doivent être achetés par paires, faute de quoi ils risquent de casser, dit-on. On n'achète (et n'offre) pas un bol, ou une casserole, ou un couteau, mais des paires: des ensembles de 2, 4, 6, 8, 10… Tous les nombres impairs porteraient malheur.
+\nt <dom="sem" langue="eng"> This concept is important for the Na (as for other ethnic groups of the area, too), in that everyday objects must be bought in pairs, otherwise they risk breaking, it is said. One does not buy (or offer) one bowl, or one saucepan, or one knife, but pairs: sets of 2, 4, 6, 8, 10… Any odd numbers would bring bad luck.
 \nt <dom="sem" langue="cmn"> 这个概念对于当地文化来说很重要。日常用品必须成对购买，否则就不吉利，有损坏的危险。人们购买（或赠送）的不是一个碗、一个锅或一把刀，而是成对的：2、4、6等等。任何奇数都会带来厄运。
 \ton Lα
 \so F4
@@ -11088,9 +11088,8 @@
 \ge edible_mushroom_sp
 \dn 一种可以吃的菌子，长在枯木上
 \gn 一种可以吃的菌子
-\df Champignon comestible, qui ne pousse pas sur la terre, seulement sur les arbres tombés; est utilisé comme médicament pour les maux d'estomac.
+\df Champignon comestible, qui ne pousse pas sur la terre, seulement sur les arbres tombés. Il est utilisé comme médicament pour les maux d'estomac.
 \gf champignon_comestible_sp
-\dt 24/Apr/2017
 
 \lx dʑi˧hṽ̩˥$
 \sf <nb="B"> 416
@@ -11334,9 +11333,31 @@
 \or zzeeq
 \ps v
 \lc dzi˩˥
+\cf dzi˧~dzi˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lα
+\so F4
+\de To gather, to assemble (people gather together).
+\ge to_gather
+\dn 聚集
+\gn 聚集
+\df Se rassembler (groupe de personnes); s'accumuler (fumée).
+\gf se_rassembler
+\xv ɑ˩ʁo˧, | mv̩˧kʰv̩˧ dzi˥-ze˩!
+\xe Smoke has accumulated inside the house! / The house is full of smoke!
+\xn 家里烟很浓了！（直译：“家里积累了很多烟”）
+\xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
+\rf F5
+
+\lx dzi˧~dzi˥
+\or zzeezzee
+\mr dzi˩α2
+\ps v
+\lc dzi˧dzi˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
 \so F4
 \de To gather, to assemble (people gather together).
 \ge to_gather
@@ -11352,10 +11373,6 @@
 \xe Someone has passed away! Come and join the gathering!
 \xn 一个人去世了！来参加丧礼吧！
 \xf Quelqu'un est mort! Venez participer à la réunion/au rassemblement!
-\xv ɑ˩ʁo˧, | mv̩˧kʰv̩˧ dzi˥-ze˩!
-\xe Smoke has accumulated inside the house! / The house is full of smoke!
-\xn 家里烟很浓了！（直译：“家里积累了很多烟”）
-\xf De la fumée s'est accumulée dans la maison! / La maison est pleine de fumée! (Le feu ne flambe pas bien et a produit beaucoup de fumée; quand on entre dans la pièce principale, celle-ci est remplie d'une épaisse fumée de feu de bois.)
 \rf F5
 \xv le˧-dzi˧~dzi˥ tsʰɯ˩-ze˩
 \xe (People) have come together.
@@ -11473,7 +11490,9 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> D'abord noté un ton m3 pour Mme Latami (différent de celui de F5), mais l'énoncé-cadre standard (ajout de la copule) n'est pas adéquat. En revanche le ton peut être déduit du comportement tonal du nom en association avec des verbes. D'après la forme /dzu˧gi˧/ on est amené à postuler un ton m2 ou m4a, et d'après la forme /dzu˧lɑ˩/ le ton du nom ne peut être que m4a. (Historique: d'abord noté dzo˥lɑ˧ze˩)
 \nt <type="hist" print="n" langue="fra"> lors du 2e terrain, noté un ton m2, par erreur
-\nt <dom="sem" langue="fra"> Le nom `grêle' peut difficilement être isolé, car il est pris dans les collocations `grêler, tomber (de la grêle)'; le nom seul n'a pas de référent; la manifestation tangible, les grêlons, se dit par un autre mot.
+\nt <dom="sem" langue="fra"> Le nom `grêle' peut difficilement être isolé, car il est pris dans les collocations signifiant `grêler, tomber (de la grêle)'. Le nom seul n'a pas de référent. La manifestation tangible, les grêlons, se dit par un autre mot.
+\nt <dom="sem" langue="eng"> The noun ‘hail’ cannot easily be isolated, as it is embedded in collocations meaning ‘to hail, to fall (hail)’. The tangible manifestation, the hailstones, is expressed by another word.
+\nt <dom="sem" langue="cmn"> ‘冰雹’这个名词很难独立出现：它是从‘下冰雹’这样的短语中提取的。
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -12699,11 +12718,6 @@
 \xe I have eaten. / I have had a meal.
 \xn 我吃过饭了。
 \xf J'ai mangé. J'ai pris mon repas.
-\xv dzɯ˧-di˧˥
-\xe food, thing to eat
-\xn 吃的（东西）
-\xf nourriture, chose à manger
-\xc PHONO
 \xv dzɯ˧-bi˩-ze˩!
 \xe Let's eat! / It's time to eat!
 \xn 要吃饭了！
@@ -12712,6 +12726,26 @@
 \xe It is edible. / I/you/(s)he can eat it.
 \xn 可以吃的。／（我／你／他）能吃。
 \xf Ça se mange, c'est comestible. / Je peux en manger/tu peux en manger/il peut en manger.
+
+\xv dzɯ˧-di˧˥
+\mr dzɯ˥
+\mr -di˩
+\or zziddi
+\ps n
+\lc dzɯ˧di˧˥
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\de Food, thing to eat.
+\ge food
+\dn 吃的（东西）
+\gn 吃的
+\df Nourriture, chose à manger.
+\gf nourriture
 
 \lx dʑɯ˩
 \sf <nb="B"> 40a
@@ -14742,7 +14776,7 @@
 \pdv mi˩β
 \de Sparrow (monosyllabic form; not in common use). The commonly used form is disyllabic: /|fv{ɖʐwæ˧mi˧}/.
 \ge sparrow
-\dn 麻雀（单音节词。一般用双音节词|fv{ɖʐwæ˧mi˧}。）
+\dn 麻雀（依据共时形态调系规则从双音节词推导的单音节词根）。一般用双音节词|fv{ɖʐwæ˧mi˧}。
 \gn 麻雀
 \df Moineau (forme monosyllabique; n'est pas d'usage courant). La forme couramment usitée est le disyllabe /|fv{ɖʐwæ˧mi˧}/.
 \gf moineau
@@ -19404,15 +19438,12 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Confirmé en 2012: est un ton L.
-\nt <dom="morpho" langue="fra"> Monosyllabe reconstruit sur la base de la forme rédupliquée.
-\nt <dom="morpho" langue="eng"> This monosyllable is arrived at through internal reconstruction, based on the reduplicated expression.
-\nt <dom="morpho" langue="cmn"> 这个单音节动词是在重叠词的基础上通过内部重构得出的。
 \ton Lα
-\de To tidy up, to sort out (monosyllabic root extracted from the reduplicated form).
+\de To tidy up, to sort out (monosyllabic root extracted from the reduplicated form based on synchronic tone rules).
 \ge to_tidy_up
-\dn 收拾（从重叠动词提取的单音节词根）
-\gn 收拾
-\df Ranger (racine extraite de la forme rédupliquée).
+\dn 收拾。这是依据共时形态调系规则从双音节的重叠词推导的单音节词根。
+\gn 收拾（单音节词根）
+\df Ranger (racine monosyllabique extraite de la forme rédupliquée, sur la base des règles tonales synchroniques).
 \gf ranger
 
 \lx gv̩˩α
@@ -22738,11 +22769,11 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton H
-\de To stir-fry. (Monosyllable extracted from the reduplicated form.)
+\de To stir-fry (monosyllabic root extracted from the reduplicated form based on synchronic tone rules).
 \ge to_stir_fry
-\dn 炒（肉、菜）。（这个单音节动词是从双音节的重叠形式提取出来的。）
-\gn 炒
-\df Frire (viande, légumes…), cuire au wok. (Monosyllabe extrait de la forme rédupliquée.)
+\dn 炒（肉、菜）。这是依据共时形态调系规则从双音节的重叠词推导的单音节词根。
+\gn 炒（单音节词根）
+\df Frire (viande, légumes…), cuire au wok. (Racine monosyllabique extraite de la forme rédupliquée, sur la base des règles tonales synchroniques).
 \gf frire
 
 \lx hṽ̩˧ɻ̩˧
@@ -33325,11 +33356,10 @@
 \so F4
 \de Thumb.
 \ge thumb(monosyll.)
-\dn 大拇指（单音节，按照双音节词构拟出来的）
+\dn 大拇指（依据共时形态调系规则从双音节词推导的单音节词根）。
 \gn 大拇指
 \df Pouce (forme reconstruite d'après le disyllabe).
 \gf pouce(monosyll.)
-\dt 24/Apr/2017
 
 \lx lo˧
 \sf <nb="B"> 673
@@ -46956,8 +46986,8 @@
 \nt <dom="ton" langue="cmn"> 假定含‘蛙’的各种双音节词都是按照规范的声调规则而生成的，就可以得到关于词根声调的假设。在复合名词‘青蛙肉’（/|fv{pɤ˧ ʂe˧}/，其中/|fv{ʂe˥}/‘肉’是H本调）的基础上，可以排除LM、LH、L或MH调的假设。‘蛙尾巴’这个复合词不提供明确的论据，因为单音节‘尾巴’的声调尚未确定。‘青蛙皮’（表层为M.M，底层能是//M//或//#H//）出乎意料，因为带有LH调的复合词按常规不可能有M.M调（见《永宁摩梭话的声调》，表3.2a）。双音节名词‘青蛙’（/|fv{pɤ˩mi˩}/）与‘母马’（/|fv{ʐwæ˩mi˩}/）的声调相同，这与H调词根的假设相符。因此，临时假设是H调。
 \de Frog (monosyllabic root extracted from the disyllable).
 \ge frog(monosyll.)
-\dn 青蛙（从双音节词提取的单音节词根）
-\gn 青蛙
+\dn 青蛙（依据共时形态调系规则从双音节词推导的单音节词根）。
+\gn 青蛙（单音节词根）
 \df Grenouille (racine déduite du disyllabe).
 \gf grenouille(monosyll.)
 \xv nɑ˩hĩ˥ | pɤ˧-ʂe˧ dzɯ˧; | pɤ˧-ɣɯ˧ | ɬɑ˧tɑ˥ mv̩˩! | pɤ˧-mæ˧, | bæ˧ʈʂo˥ ʝi˩!
@@ -47575,11 +47605,11 @@
 \cf pɤ˧~pɤ˥
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To carry on one's back.
+\de To carry on one's back (monosyllabic root extracted from the reduplicated form based on synchronic tone rules).
 \ge to_carry_on_the_back
-\dn 背（水、柴、孩子……）
-\gn 背
-\df Porter sur son dos (le bois, …).
+\dn 背（水、柴、孩子……）。这个单音节动词是依据共时形态调系规则从双音节的重叠词推导的单音节词根。
+\gn 背（单音节词根）
+\df Porter sur son dos. Racine monosyllabique extraite de la forme rédupliquée, sur la base des règles tonales synchroniques.
 \gf porter_sur_le_dos
 \xv ‡tso˧~tso˧ pɤ˩
 \xe to carry things (this expression is well-formed syntactically, but apparently not in use: only the reduplicated form of the verb is in use)
@@ -53334,7 +53364,7 @@
 \pdv ɭɯ˧β
 \de Neck (monosyllable).
 \ge neck
-\dn 脖子（单音节）
+\dn 脖子（依据共时形态调系规则从双音节词推导的单音节词根）。
 \gn 脖子
 \df Cou (monosyllabe; moins usité que le disyllabe).
 \gf cou
@@ -72260,6 +72290,7 @@
 \nt <dom="phono" langue="fra"> Le ton du monosyllabe est déduit de son comportement dans l'expression /|fv{tsʰo˧ ʝi˥}/ ‘avoir de l'estime'.
 \nt <dom="phono" langue="eng"> The tone of the monosyllable is inferred from its behaviour in the phrase /|fv{tsʰo˧ ʝi˥}/ ‘to hold… in high esteem'.
 \nt <dom="ton" langue="cmn"> 这个单音节词的声调是根据它在/|fv{tsʰo˧ ʝi˥}/‘重视、尊敬’这个短语中的变调而提取的。
+\nt <dom="ton" langue="fra" print="n" type="hist"> xxxx à reprendre
 \ton MH
 \lc tsʰo˧˥
 \so F4
@@ -72273,7 +72304,6 @@
 \xe He/she treats me with great respect/attention.
 \xn 他很重视我／他对我很尊敬、很关心。
 \xf Il/elle me traite avec les plus grands égards / est aux petits soins pour moi!
-\dt 07/Oct/2015
 
 \lx tsʰo˥
 \or co
@@ -73745,6 +73775,7 @@
 \cf ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \nt <dom="synt" langue="fra"> Monosyllabe extrait de la forme disyllabique |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, selon les règles morpho-tonologiques synchroniques.
 \nt <dom="synt" langue="eng"> This monosyllabic form is extracted from disyllabic |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, based on the synchronic morpho-tonological rules.
+\nt <dom="synt" langue="cmn"> 这是依据共时形态调系规则从双音节的重叠词|fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}推导的单音节词根。This monosyllabic form is extracted from disyllabic |fv{ʈʂʰɤ˩~ʈʂʰɤ˧˥}, based on the synchronic morpho-tonological rules.
 
 \lx ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \sf <nb="B"> 1422
@@ -82796,9 +82827,9 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
-\de Hungry (monosyllable).
+\de Hungry (monosyllable). Combines with the word for `food' to make up the full form `hungry'.
 \ge hungry(monosyll.)
-\dn 饿
+\dn 饿（依据共时形态调系规则从双音节词推导的单音节词根）。
 \gn 饿
 \df Qui a faim (forme monosyllabique). Se combine en disyllabe avec le mot ‘nourriture’.
 \gf avoir_faim(monosyll.)
@@ -82806,7 +82837,28 @@
 \xe to be hungry
 \xn 饿
 \xf avoir faim
-\dt 06/Oct/2015
+
+\lx hɑ˧-ʐwɤ˩
+\sf <nb="B"> 1041a
+\sf <nb="2011"> 1473
+\or ha rua
+\mr ʐwɤ˧
+\ps adj
+\lc hɑ˧ ʐwɤ˩
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de Hungry; to be hungry.
+\ge hungry
+\dn 饿
+\gn 饿
+\df Avoir faim; qui a faim.
+\gf avoir_faim
+\xv hɑ˧-ʐwɤ˩
 
 \lx ʐwɤ˩β
 \sf <nb="B"> 1520
@@ -83017,11 +83069,11 @@
 \ton LM
 \sy dze˩mi˧
 \lc --
-\de Bee.
+\de Bee (root extracted from the disyllabic form |fv{/dze˩mi˧/}).
 \ge bee(monosyll.)
-\dn 蜜蜂
+\dn 蜜蜂（依据共时形态调系规则从双音节词推导的单音节词根）。
 \gn 蜜蜂（单音节词根）
-\df Abeille (racine déduite du disyllabe).
+\df Abeille (racine déduite du disyllabe |fv{/dze˩mi˧/}).
 \gf abeille(monosyll.)
 
 \lx -dʑo˧
@@ -83199,8 +83251,8 @@
 \cf hi˧le˩
 \de Fast (root extracted from the disyllabic form |fv{/hi˧le˩/}).
 \ge fast(monosyll.)
-\dn 快
-\gn 快
+\dn 快。单音节词根，取自双音节词/|fv{hi˧le˩}/。
+\gn 快（单音节词根）
 \df Rapide, rapidement (racine extraite de la forme disyllabique |fv{/hi˧le˩/}).
 \gf rapide(monosyll.)
 
@@ -84110,11 +84162,11 @@
 \ton Lα
 \lc --
 \va <speaker="M21"> ID.
-\de To negotiate (monosyllabic root extracted from the reduplicated form).
+\de To negotiate (monosyllabic root extracted from the reduplicated form based on synchronic tone rules).
 \ge to_negotiate(monosyll.)
-\dn 商量（单音节）
-\gn 商量
-\df Discuter, négocier (racine extraite de la forme rédupliquée).
+\dn 商量。这是依据共时形态调系规则从双音节的重叠词推导的单音节词根。
+\gn 商量（单音节词根）
+\df Discuter, négocier (racine monosyllabique extraite de la forme rédupliquée, sur la base des règles tonales synchroniques).
 \gf discuter(monosyll.)
 
 \lx -ɻ̩˩
@@ -84352,10 +84404,10 @@
 \sd <langue="eng"> clothing
 \ton L
 \lc --
-\de Skirt (monosyllabic form extracted from the set phrase ‘to wear the skirt').
+\de Skirt. Monosyllabic root extracted from the fixed expression /|fv{ʈʰæ˩ ki˩˥}/ ‘to put on the skirt’ (the name of the rite of passage to adulthood), which involves a verb carrying tone Lα. The monosyllable is not used outside this expression. For example, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘it's a skirt’ is flatly refused by Mrs. Latami.
 \ge skirt
-\dn 裙子（单音节）
-\gn 裙子
+\dn 裙子。单音节词根，取自/|fv{ʈʰæ˩ki˩˥}/‘穿裙子’（成年礼的名称），其中包含一个带Lα声调的动词。在这一短语之外，单音节‘裙子’不使用。例如，‡/|fv{ʈʰæ˩ ɲi˩˥}/‘这是裙子”这样的说法被拉他咪女士断然拒绝。
+\gn 裙子（单音节词根）
 \df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /|fv{ʈʰæ˩ ki˩˥}/ ‘enfiler la jupe', avec verbe au ton Lα (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘c'est une jupe' est catégoriquement refusé par Mme Latami.
 \gf jupe
 \xv ʈʰæ˧ | le˧-ki˩
