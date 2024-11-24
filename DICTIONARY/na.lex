@@ -1461,7 +1461,7 @@
 \de Rooster and hen, cock and hen.
 \ge rooster_and_hen
 \dn 公鸡与母鸡
-\gn公鸡与母鸡
+\gn 公鸡与母鸡
 \df Coque et poule.
 \gf coq_et_poule
 
@@ -2290,7 +2290,7 @@
 \df Cane et canard.
 \gf cane_et_canard
 
-\xv bæ˧mi˧-bæ˧zo#˥
+\lx bæ˧mi˧-bæ˧zo#˥
 \or bbaemi bbaesso
 \mr bæ˧mi˧1
 \mr bæ˧zo#˥
@@ -7776,40 +7776,6 @@
 \xf |fg{neg} 〜: ne pas chasser
 \xc PHONO
 
-\lx tɕʰɯ˩di˩
-\or qiddi
-\mr tɕʰɯ˩˥
-\mr di˧˥1
-\ps v
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\ton L
-\lc tɕʰɯ˩di˩˥
-\cf di˧˥1
-\cf di˩~di˧˥
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
-\sn 1
-\de To hunt the muntjac.
-\ge to_hunt_the_muntjac
-\dn 赶麂子
-\gn 赶麂子
-\df Chasser le muntjac.
-\gf chasser_le_muntjac
-\sn 2
-\de To hunt (extended sense).
-\ge to_hunt
-\dn 狩猎
-\gn 狩猎
-\df Chasser.
-\gf chasser
-\xv tɕʰɯ˩di˩-bi˩-ni˩gv̩˩˥
-\xe to have a habit of hunting, to have a fondness for hunting
-\xn 有打猎的习惯、喜欢打猎
-\xf avoir l'habitude de chasser
-
 \lx di˩~di˧˥
 \or ddiddi
 \mr di˧˥1
@@ -12521,7 +12487,7 @@
 \df Jjacee, un prénom.
 \gf Jjacee
 
-\xv dʑɤ˩tsʰi˧-mi#˥
+\lx dʑɤ˩tsʰi˧-mi#˥
 \or Jjaceemi
 \mr dʑɤ˩tsʰi#˥
 \bw <langue="bod"> Bde skyid (?) |tib{བདེ་སྐྱིད}
@@ -12741,10 +12707,10 @@
 \xn 可以吃的。／（我／你／他）能吃。
 \xf Ça se mange, c'est comestible. / Je peux en manger/tu peux en manger/il peut en manger.
 
-\xv dzɯ˧-di˧˥
+\lx dzɯ˧-di˧˥
+\or zziddi
 \mr dzɯ˥
 \mr -di˩
-\or zziddi
 \ps n
 \lc dzɯ˧di˧˥
 \sd <langue="fra"> nourriture
@@ -20583,6 +20549,8 @@
 \sf <nb="B"> 638c
 \sf <nb="2011"> 955
 \or Haerua
+\mr hæ˧
+\mr ʐwɤ˩β
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -20595,24 +20563,28 @@
 \gn 汉语
 \df La langue chinoise.
 \gf langue_chinoise
-\dt 02/Sep/2015
 
 \lx hɑ˧-ʐwɤ˩
-\or harua
+\sf <nb="B"> 1041a
+\sf <nb="2011"> 1473
+\or ha rua
+\mr hɑ˥
+\mr ʐwɤ˧
 \ps adj
-\cf ʐwɤ˧
+\lc hɑ˧ ʐwɤ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton L#
-\lc hɑ˧ʐwɤ˩
 \so F4
-\de Hungry.
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de Hungry; to be hungry.
 \ge hungry
-\dn 饿（饭）
+\dn 饿
 \gn 饿
-\df Avoir faim.
+\df Avoir faim; qui a faim.
 \gf avoir_faim
-\dt 24/Apr/2017
 
 \lx hæ̃˧α
 \sf <nb="B"> 1598
@@ -30251,8 +30223,6 @@
 \sn 2
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\ton #H
-\lc kʰv̩˧zo˧
 \so F4
 \pdv v̩˧
 \pdv mi˩β
@@ -66356,22 +66326,38 @@
 
 \lx tɕʰɯ˩di˩
 \or qiddi
-\ps v
-\lc tɕʰɯ˩di˩˥
 \mr tɕʰɯ˩˥
 \mr di˧˥1
-\sy hṽ̩˧ʂæ˧˥
-\sy kʰv̩˧ʂæ˧˥
+\ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
+\sy hṽ̩˧ʂæ˧˥
+\sy kʰv̩˧ʂæ˧˥
+\lc tɕʰɯ˩di˩˥
+\cf di˩~di˧˥
 \so F4
-\de To hunt (literally ‘to chase the muntjac’).
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\sn 1
+\de To chase the muntjac, to hunt the muntjac.
+\ge to_hunt_the_muntjac
+\dn 赶麂子
+\gn 赶麂子
+\df Chasser le muntjac, courir le muntjac.
+\gf chasser_le_muntjac
+\sn 2
+\de To hunt (extended sense).
 \ge to_hunt
-\dn 狩猎（直译：‘赶麂子’）
+\dn 狩猎
 \gn 狩猎
-\df Chasser (littéralement ‘courir le muntjac’).
+\df Chasser.
 \gf chasser
+\xv tɕʰɯ˩di˩-bi˩-ni˩gv̩˩˥
+\xe to have a habit of hunting, to have a fondness for hunting
+\xn 有打猎的习惯、喜欢打猎
+\xf avoir l'habitude de chasser
 
 \lx tɕʰɯ˩di˩-kʰv̩˩
 \sf <nb="2011"> 2850
@@ -82844,6 +82830,7 @@
 \or rua
 \ps adj
 \lc ʐwɤ˧
+\sy hɑ˧-ʐwɤ˩
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ʐu˩, calquant le naxi occidental; n'ai corrigé qu'en juin 2008) (avant mai 2012: noté comme un ton L, par erreur)
@@ -82862,28 +82849,6 @@
 \xe to be hungry
 \xn 饿
 \xf avoir faim
-
-\lx hɑ˧-ʐwɤ˩
-\sf <nb="B"> 1041a
-\sf <nb="2011"> 1473
-\or ha rua
-\mr ʐwɤ˧
-\ps adj
-\lc hɑ˧ ʐwɤ˩
-\sd <langue="fra"> adjectif
-\sd <langue="eng"> adjective
-\ton L#
-\so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
-\va <speaker="M23"> ID.
-\de Hungry; to be hungry.
-\ge hungry
-\dn 饿
-\gn 饿
-\df Avoir faim; qui a faim.
-\gf avoir_faim
-\xv hɑ˧-ʐwɤ˩
 
 \lx ʐwɤ˩β
 \sf <nb="B"> 1520
