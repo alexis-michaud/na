@@ -8410,6 +8410,8 @@
 \nt <type="hist" print="n" langue="fra"> ton m1 (vérifié, n'est pas m4)
 \ton M
 \lc ɖɤ˧mi˧
+\cf ɖɤ˧mi˧-zo#˥
+\cf ɖɤ˧mi˧-pʰv̩#˥
 \so F4
 \va <speaker="F5"> dv̩˩˧
 \vc <langue="fra" dom="ton"> LM
@@ -8423,14 +8425,6 @@
 \gn 狐狸
 \df Renard.
 \gf renard
-\xv ɖɤ˧mi˧-zo#˥
-\xe little fox, baby fox
-\xn 小狐狸
-\xf petit renard, renardeau
-\xv ɖɤ˧mi˧-pʰv̩#˥
-\xe male fox
-\xn 公狐狸
-\xf renard mâle
 \xv ɖɤ˧mi˧ | mi˩ ɲi˥!
 \xe It is a female fox! / (This fox) is a female fox!
 \xn 是母狐狸！／（这只狐狸）是母的！
@@ -9828,7 +9822,7 @@
 \xe A respectful term of address for a sorcerer who is advanced in years or considered to have great powers (using the kinship term for the mother's mother's brothers).
 \xn 对年龄高（或被认为本事很大）的法师的尊重称呼，用对母亲的母亲的兄弟的称呼。
 \xf Terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables. (L'expression recourt au terme de parenté qui désigne un frère de la mère de la mère.)
-\xv ə˧v̩˧-ɖʐæ˥bv̩˩
+\xv ə˧v̩˧-ɖʐæ˥bɻ̩˩
 \xe A respectful term of address for a sorcerer (using the kinship term for the mother's brothers).
 \xn 对法师的尊重称呼，用对母亲的兄弟的称呼。
 \xf Terme d'adresse respectueux pour un sorcier d'âge avancé, ou considéré comme ayant des pouvoirs considérables. (L'expression recourt au terme de parenté qui désigne un frère de la mère.)
@@ -10245,7 +10239,7 @@
 \xe Yongsheng Chinese (Han) (note: Yongsheng is mainly populated by Han Chinese)
 \xn 永胜汉族
 \xf Chinois de Yongsheng (note: le comté de Yongsheng était peuplé majoritairement de Chinois (Han).)
-\xc <dom="tone"> M
+\xc <dom="ton"> M
 \xv ɖʐe˧gɯ˧-dʑo˧, | hæ˧-ʂo˧~ʂo˩!
 \xe In Yongsheng, there are lots of Chinese (Han) people!
 \xn 永胜，汉族群多！
@@ -11630,7 +11624,7 @@
 \xv le˧-ɖʐɤ˧-po˥-jo˩!
 \xe Pluck some (fruit) and pass them over (to us)!
 \xn （你）去给摘（一些）过来吧！
-\xf cueille-m'en qq-unes!/cueilles-en et passe-les(-nous) par ici!
+\xf cueille-m'en quelques-unes!/cueilles-en et passe-les(-nous) par ici!
 \xv v̩˩tsʰɤ˧ ɖʐɤ˥
 \xe to pick vegetables
 \xn 摘蔬菜
@@ -14992,7 +14986,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra" dom="tone"> Confirmé en 2012: est un ton L.
+\nt <type="hist" print="n" langue="fra" dom="ton"> Confirmé en 2012: est un ton L.
 \ton Lα
 \lc ɖʐwæ˩˥
 \so F4
@@ -19909,7 +19903,7 @@
 \xv ɖɯ˧-hɑ̃˧ tʰi˥-hɑ̃˩
 \xe to spend a night (somewhere), to stay for the night
 \xn 过夜
-\xf se reposer une soirée, passer une soirée/nuitée (qq part)
+\xf se reposer une soirée, passer une soirée/nuitée (quelque part)
 \xv ʑi˧qʰwɤ˧ ɖɯ˧-ɭɯ˧-qo˧ hɑ̃˧˥
 \xe to spend the night in a house
 \xn 在一个人家过夜
@@ -51383,12 +51377,12 @@
 \xe fox burrow
 \xn 狐狸的窝
 \xf terrier de renard
-\xc <dom="tone"> M
+\xc <dom="ton"> M
 \xv ʂwæ˧ qʰv̩˧
 \xe otter's burrow
 \xn 水獭的窝
 \xf terrier de loutre
-\xc <dom="tone"> M
+\xc <dom="ton"> M
 
 \lx qʰv̩˧
 \sf <nb="B"> 1957
@@ -52464,7 +52458,7 @@
 \lc qwæ˧ʂe˧lɑ˧bɻ̩˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" dom="tone" langue="fra" print="n"> +ɲi˩
+\nt <type="hist" print="n" dom="ton" langue="fra" print="n"> +ɲi˩
 \ton H#
 \so F4
 \pdv mi˩β
