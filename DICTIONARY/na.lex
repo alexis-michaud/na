@@ -8431,10 +8431,46 @@
 \xe male fox
 \xn 公狐狸
 \xf renard mâle
-\xv ɖɤ˧mi˧, | mi˩ ɲi˥!
-\xe This fox is a female!
-\xn 这只狐狸是母的！
-\xf Ce renard, c'est une femelle!
+\xv ɖɤ˧mi˧ | mi˩ ɲi˥!
+\xe It is a female fox! / (This fox) is a female fox!
+\xn 是母狐狸！／（这只狐狸）是母的！
+\xf C'est une femelle renard! / Ce renard, c'est une femelle!
+
+\lx ɖɤ˧mi˧-zo#˥
+\or ddemisso
+\mr ɖɤ˧mi˧
+\mr -zo˥
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\lc ɖɤ˧mi˧zo˧
+\so F4
+\pdv pʰo˧˥α
+\de Little fox, baby fox.
+\ge baby_fox
+\dn 小狐狸
+\gn 小狐狸
+\df Petit renard, renardeau.
+\gf renardeau
+
+\lx ɖɤ˧mi˧-pʰv̩#˥
+\or ddemipu
+\mr ɖɤ˧mi˧
+\mr -pʰv̩˥
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H
+\lc ɖɤ˧mi˧pʰv̩˧
+\so F4
+\pdv pʰo˧˥α
+\de Male fox.
+\ge male_fox
+\dn 公狐狸
+\gn 公狐狸
+\df Renard mâle.
+\gf renard_mâle
 
 \lx dɤ˩-qo˧
 \sf <nb="2011"> 1327
