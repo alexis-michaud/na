@@ -7672,11 +7672,10 @@
 \xn 一天两段路！（说明：早上出发，如果午饭前能到目的地，距离算是一段，如果下午晚上才到，算两段。）
 \xf Formule figée traditionnelle: un jour, ça fait deux étapes! (si on peut parvenir quelque part avant le déjeuner, la distance est considérée comme une seule étape; si on y parvient dans l'après-midi, on compte deux étapes)
 \xv ʈʂʰɯ˧-ɖæ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (ton: H# / H$)
-\dt 30/Apr/2017
-
+\xe |fg{dem} 〜: this section
+\xn |fg{指示代词} 〜：这段
+\xf |fg{dem} 〜: cette étape
+\xc <dom="ton"> H# ≈ H$
 \lx ɖæ˧~ɖæ˩
 \sf <nb="B"> 949
 \sf <nb="2011"> 1382
@@ -10622,11 +10621,11 @@
 \xn 双胞胎（直译：“一对孩子”）
 \xf Il paraît qu'elle a des jumeaux (littéralement «une paire d'enfants»)
 \xv ʈʂʰɯ˧-dze˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (ton: H# / H$)
+\xe |fg{dem} 〜: this pair
+\xn |fg{指示代词} 〜：这对
+\xf |fg{dem} 〜: cette paire
 \xc PHONO
-\dt 24/Apr/2017
+\xc <dom="ton"> H# ≈ H$
 
 \lx dze˩α
 \sf <nb="B"> 1262
@@ -11115,7 +11114,7 @@
 \xe female water buffalo and male water buffalo
 \xn 母水牛与公水牛
 \xf buffles femelle et mâle
-\xc <dom="ton"> #H / #H-
+\xc <dom="ton"> #H ≈ #H-
 
 \lx dzi˩ʁo˩
 \sf <nb="B"> 2255a
@@ -22130,7 +22129,7 @@
 \xe female and male pheasant
 \xn 母雉与公雉
 \xf faisan femelle et faisan mâle
-\xc <dom="ton"> H# / #H-
+\xc <dom="ton"> H# ≈ #H-
 
 \lx ho˧pʰv̩#˥
 \sf <nb="2011"> 2661
@@ -27123,11 +27122,6 @@
 \xn 买了瓶子
 \xf …a acheté une bouteille (d'alcool)
 \xc PHONO
-\xv ʈʂʰɯ˧-kɤ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (tone: H# / H$)
-\xc PHONO
 
 \lx kɤ˧˥
 \sf <nb="B"> 1433
@@ -28115,6 +28109,12 @@
 \xe one bottle of wine
 \xn 一瓶酒
 \xf une bouteille d'alcool
+\xv ʈʂʰɯ˧-kɤ˥
+\xe |fg{dem} 〜: this bottle
+\xn |fg{指示代词} 〜：这瓶
+\xf |fg{dem} 〜: cette bouteille
+\xc PHONO
+\xc <dom="ton"> H# ≈ H$
 
 \lx kɤ˧˥α
 \sf <nb="B"> 2188
@@ -33280,9 +33280,7 @@
 \xe |fg{dem} 〜: this life
 \xn |fg{指示代词} 〜：这个命
 \xf |fg{dem} 〜: cette vie
-\xc <langue="fra" dom="ton"> ton: H# / H$
-\xc <langue="eng" dom="ton"> tone: H# / H$
-\xc <langue="cmn" dom="ton"> 声调：H# / H$
+\xc <dom="ton"> H# ≈ H$
 
 \lx lo˩
 \hm 1
@@ -36410,15 +36408,15 @@
 \va <speaker="M21"> ID.
 \de Monetary unit: yuan.
 \ge |fg{clf}.monetary_unit
-\dn |fg{量词}：钱（一元）
+\dn |fg{量词}：钱（一元、一块钱）
 \gn 量词.元
 \df Unité monétaire: un yuan.
 \gf |fg{clf}.unité_monétaire
 \xv ʈʂʰɯ˧-mæ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (tone: H# / H$)
-\dt 30/Apr/2017
+\xe |fg{dem} 〜: this yuan
+\xn |fg{指示代词} 〜：这块钱
+\xf |fg{dem} 〜: ce yuan
+\xc <dom="ton"> H# ≈ H$
 
 \lx mæ˩α
 \sf <nb="B"> 840
@@ -37862,10 +37860,11 @@
 \xn 一小捧面粉、两小捧面粉……
 \xf un peu de farine; deux poignées/petites quantités de farine; etc.
 \xv ʈʂʰɯ˧-mɤ˥
-\xe |fg{dem} 〜 (tone: H# / H$)
-\xn |fg{指示代词} 〜
-\xf |fg{dem} 〜 (tone: H# / H$)
+\xe |fg{dem} 〜: these few...
+\xn |fg{指示代词} 〜：这些
+\xf |fg{dem} 〜: ces quelques, ce peu de
 \xc PHONO
+\xc <dom="ton"> H# ≈ H$
 \xv hɑ˧ mɤ˩
 \xe a little food
 \xn 一点饭
@@ -82669,7 +82668,7 @@
 \xe colt and mare
 \xn 马驹子与母马
 \xf poulain et jument
-\xc <dom="ton"> #H- / H#
+\xc <dom="ton"> #H- ≈ H#
 \xc <langue="fra" dom="ton"> La variante |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, au ton H#, apparaît parmi les réalisations de Mme Latami. Elle exprime néanmoins une préférence pour l'autre réalisation, au ton #H-.
 \xc <langue="eng" dom="ton"> The variant |fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}, in the H# tone, appears among the realizations by Mrs. Latami. She nevertheless expresses a preference for the other realization, in the #H- tone.
 \xc <langue="cmn" dom="ton"> H#调变体|fv{/ʐwæ˧zo˧-ʐwæ˧mi˥/}出现在拉他咪女士的发音中。不过，她表示更喜欢另一种变音，即#H-音调变体。
