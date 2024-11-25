@@ -17431,11 +17431,11 @@
 \ton L#
 \lc gæ˧ɻæ˩
 \so F4
-\de The name of a village located about 1,500 meters West of |fv{/ə˧lɑ˧-ʁwɤ#˥/}: to the left when leaving the plain of Yongning towards Eya; Chinese: Gaer. Latitude: 27.76394, longitude: 100.64822.
+\de Ggae’er: the name of a village located about 1,500 meters West of |fv{/ə˧lɑ˧-ʁwɤ#˥/}: to the left when leaving the plain of Yongning towards Eya; Chinese: Gaer. Latitude: 27.76394, longitude: 100.64822.
 \ge village_name
 \dn 嘎尔村，80年代起行政称作嘎拉村民小组。经纬度：100.64822，27.76394
 \gn 嘎尔村
-\df Village situé à environ 1,5 km à l'ouest de |fv{/ə˧lɑ˧-ʁwɤ#˥/}: à main gauche en sortant de la vallée de Yongning, en direction de Eya. En chinois: Gaer. Latitude: 27.76394, longitude: 100.64822.
+\df Ggae’er: village situé à environ 1,5 km à l'ouest de |fv{/ə˧lɑ˧-ʁwɤ#˥/}: à main gauche en sortant de la vallée de Yongning, en direction de Eya. En chinois: Gaer. Latitude: 27.76394, longitude: 100.64822.
 \gf nom_de_village
 \xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
@@ -17845,6 +17845,7 @@
 \or ggeq
 \ps adj
 \lc gɤ˩˥
+\cf kʰv̩˧ gɤ˧˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton L
@@ -17853,12 +17854,24 @@
 \ge quarrelsome
 \dn 爱吵架
 \gn 爱吵架
-\df Querelleur, belliqueux, batailleur. Ce terme s'emploie notamment au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (par exemple: lors du rite de passage à l'âge adulte), et au contraire très prisés pour d'autres.
+\df Querelleur, belliqueux, batailleur. Ce terme s'emploie notamment au sujet des signes astrologiques: certains sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (par exemple: lors du rite de passage à l'âge adulte), et au contraire très prisées pour d'autres.
 \gf querelleur
-\xv kʰv̩˧ gɤ˧˥
-\xe “quarrelsome year": a year whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome; people born during one of these years are said to be tough and quarrelsome.
-\xn 爱打架的年份／生肖：十二个生肖中，虎、猴等被认为是爱打架的。
-\xf signe belliqueux (concept astrologique: certains signes confèrent aux gens nés l'année correspondante un caractère dur/belliqueux)
+
+\lx kʰv̩˧ gɤ˧˥
+\or kugge
+\mr gɤ˩
+\ps n
+\lc kʰv̩˧ gɤ˧˥
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\ton MH#
+\so F4
+\de “Quarrelsome year": a year whose astrological sign is a quarrelsome animal. This term is used to describe the personality associated with certain astrological signs: some, such as the Tiger and the Monkey, are considered as quarrelsome, making the people born during the corresponding years less suitable for participating in certain rites (e.g. the Coming of Age rite), and more suitable for certain other rites and occasions.
+\ge quarrelsome_year
+\dn 爱打架的年份／生肖：十二个生肖中，虎、猴等被认为是爱打架的。
+\gn 爱打架的生肖
+\df Signe belliqueux. Certains signes astrologiques sont considérés comme ‘bagarreurs', comme le Tigre et le Singe, ce qui rend les personnes nées cette année-là peu appropriées pour certains rites (par exemple: lors du rite de passage à l'âge adulte), et au contraire très prisées pour d'autres.
+\gf signe_belliqueux
 \xv kʰv̩˧ gɤ˧ hĩ˥
 \xe person whose astrological sign is a quarrelsome animal. Astrological signs such as the Tiger and the Monkey are considered as quarrelsome.
 \xn 属一个爱打架的年份／生肖的人。十二个生肖中，虎、猴等被认为是爱打架的。
@@ -18080,6 +18093,7 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (tons confirmés)
 \ton M
+\sn 1
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -18091,10 +18105,17 @@
 \gn 影子
 \df Ombre.
 \gf ombre
+\sn 2
+\de Television (coinage to avoid the Chinese loanword).
+\ge television
+\dn 电视（为避免使用汉语借词而创造的新词）。
+\gn 电视
+\df Télévision (néologisme créé afin d'éviter le mot d'emprunt chinois).
+\gf télévision
 \xv gɤ˧bɤ˧ li˧
-\xe to watch television (coinage to avoid the loanword ‘television')
+\xe to watch television
 \xn 看电视
-\xf regarder la télé (néologisme)
+\xf regarder la télé
 
 \lx gɤ˩bv̩˧
 \sf <nb="B"> 1605
@@ -18648,7 +18669,7 @@
 \xv no˩-se˥, | ɖwæ˧˥ | le˧-gɤ˩-ze˩: | zo˧mv̩˥ hɤ˩-zo˩!
 \xe You have grounds for satisfaction: your children are really bright!
 \xn 你呢，（应该）很满意：（你的）孩子很成功！
-\xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants/habiles!
+\xf Vous, vous avez bien de la chance/vous avez toutes raisons d'être satisfait(e)/vous avez des sujets de satisfaction: vos enfants sont brillants!
 \xv mɤ˧-gɤ˩
 \xe |fg{neg} 〜: to be dissatisfied, not resigned, recalcitrant
 \xn |fg{否定} 〜：不满意、不甘心、不服气
@@ -20005,7 +20026,7 @@
 \xv ɖɯ˧-hɑ̃˧ tʰi˥-hɑ̃˩
 \xe to spend a night (somewhere), to stay for the night
 \xn 过夜
-\xf se reposer une soirée, passer une soirée/nuitée (quelque part)
+\xf passer une nuitée (quelque part)
 \xv ʑi˧qʰwɤ˧ ɖɯ˧-ɭɯ˧-qo˧ hɑ̃˧˥
 \xe to spend the night in a house
 \xn 在一个人家过夜
@@ -67551,8 +67572,7 @@
 \xv dʑɯ˩-nɑ˩mi˩˥ | gv̩˧-ti˩-qo˩ tʰv̩˩
 \xe To arrive at the heart of the heart of the alpine forest. Literally ‘in the ninth layer of alpine forest'; ‘ninth' here serves as the highest numeral, to refer to an extreme; there is no such thing as a ‘first layer', a ‘second layer' and so on.
 \xn 到深山老林的最深处。直译：‘到深山老林的第九层’。这里的‘九’作为最高的数字，表示‘极深’的意思：不能说‘深山老林的第一层’、‘第二层’等。
-\xf se retrouver au plus profond de la forêt: littéralement «dans la neuvième couche de forêt/d'alpage» (=au plus profond; on ne compte pas au-delà de la 9e «couche»; ce décompte est métaphorique, il ne correspond pas à un décompte en étapes à pied, par exemple).
-\dt 30/Apr/2017
+\xf se retrouver au plus profond de la forêt: littéralement «dans la neuvième couche de forêt» (=au plus profond; on ne compte pas au-delà de la 9e «couche»; ce décompte est métaphorique, il ne correspond pas à un décompte en étapes à pied, par exemple).
 
 \lx tʰi˩α
 \sf <nb="B"> 1126
@@ -67854,7 +67874,7 @@
 \ge hillside
 \dn 山坡，岗
 \gn 山坡
-\df Pente, versant escarpé de montagne/colline.
+\df Pente, versant escarpé de montagne ou colline.
 \gf pente
 \xv to˩ do˩˥
 \xe to climb a hillside
@@ -71574,7 +71594,7 @@
 \xv tsi˧ qʰwæ˧-ze˥! (<tsi˧ qʰwæ˧˥)
 \xe A crack has appeared!
 \xn 有了裂缝！
-\xf il y a une fissure qui s'est faite! / ça s'est fendu! to crack; to develop a chink/crack/fissure
+\xf il y a une fissure qui s'est faite! / ça s'est fendu!
 \xv tsi˧ hɯ˧-ze˧!
 \xe A crack has appeared!
 \xn 有了裂缝！
@@ -74383,9 +74403,9 @@
 \df Taillader (par exemple: taillader un vêtement, le découper avec des ciseaux; n'est pas: tailler du tissu pour faire des vêtements).
 \gf taillader
 \xv tʰɑ˧-tsʰi˧˥!
-\xe |fg{proh}
-\xn 禁止式
-\xf |fg{proh}
+\xe |fg{proh} 〜
+\xn |fg{禁止式} 〜
+\xf |fg{proh} 〜
 \xc PHONO
 \xv dʑi˧hṽ̩˧ tsʰi˩
 \xe to cut clothes to pieces
@@ -74536,14 +74556,13 @@
 \xn 是这个！／对的！
 \xf C'est ça!
 \xv ʈʂʰɯ˧-v̩#˥
-\xe this one
-\xn 这个
-\xf celui-ci (|fg{dem_prox}-|fg{clf}.individu)
+\xe 〜 |fg{clf}.individual: this one
+\xn 这位
+\xf 〜 |fg{clf}.individu: celui-ci
 \xv ʈʂʰɯ˧=ɻæ˥
-\xe these things
+\xe 〜 |fg{pl}: these things
 \xn 这些
-\xf |fg{pl}: ces choses-là
-\dt 07/Oct/2015
+\xf 〜 |fg{pl}: ces choses-là
 
 \lx ʈʂʰɯ˥
 \sf <nb="B"> 2158
@@ -76234,13 +76253,13 @@
 \xn 一起跳舞
 \xf danser ensemble, danser en groupe
 \xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥
-\xe |fg{red} |fg{inceptive}
+\xe 〜 |fg{red} |fg{inceptive}
 \xn 〜 |fg{重叠} |fg{发端}
-\xf |fg{red} |fg{inchoatif}
+\xf 〜 |fg{red} |fg{inchoatif}
 \xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
-\xe |fg{accomp} |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xc PHONO
 
 \lx ʈʂwæ˧~ʈʂwæ˧
@@ -76455,9 +76474,9 @@
 \df Blanchir à l'eau bouillante: du lin pour préparer du fil pour le tissage, des légumes séchés avant de les utiliser pour la cuisine…
 \gf blanchir
 \xv tʰi˧-ʈɯ˧˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv dʑɯ˩tsʰi˩-qo˥ | tʰi˧-ʈɯ˧˥
 \xe to blanch with boiling water
 \xn 以滚水灼过
@@ -79329,14 +79348,14 @@
 \xf |fg{accomp} 〜 |fg{pfv}: s'est moqué
 \xc PHONO
 \xv le˧-ʐæ˥~ʐæ˩
-\xe |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn 笑一笑（别人）
-\xf |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv le˧-ʐæ˥~ʐæ˩-ze˩
-\xe |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn 嘲笑了
-\xf |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xc PHONO
 
 \lx ze˩
@@ -79865,9 +79884,9 @@
 \df Dormir.
 \gf dormir
 \xv le˧-ʑi˧˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv le˧-ʑi˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}: has slept, has gone to sleep
@@ -80257,9 +80276,9 @@
 \df Dormir.
 \gf dormir
 \xv le˧-ʑi˧ŋv̩˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv ʑi˧ŋv̩˥-ho˩
 \xe is going to sleep
 \xn 要睡了
@@ -81794,9 +81813,9 @@
 \xn 身体麻木、全身麻木
 \xf avoir le corps engourdi
 \xv tʰi˧-zɯ˩~zɯ˩
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} |fg{red}
+\xf |fg{dur} 〜 |fg{red}
 
 \lx zɯ˧~zɯ˧
 \sf <nb="B"> 247
@@ -82384,9 +82403,9 @@
 \xn 衣服皱了
 \xf les vêtements sont froissés, les vêtements ont été froissés
 \xv ʐɻ̩˧~ʐɻ̩˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv le˧-ʐɻ̩˧~ʐɻ̩˥-ze˩
 \xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
@@ -82457,9 +82476,9 @@
 \df Sarcler, biner.
 \gf sarcler
 \xv ʐwæ˩~ʐwæ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv jɤ˩jo˥ ʐwæ˩
 \xe to hoe potatoes, to weed a potato field
 \xn 洋芋地里锄草
@@ -82867,9 +82886,9 @@
 \df Habile, bon, capable.
 \gf habile
 \xv ʐwæ˩-hĩ˩˥
-\xe |fg{nmlz}
+\xe 〜 |fg{nmlz}
 \xn 能干的
-\xf |fg{nmlz}
+\xf 〜 |fg{nmlz}
 \xc PHONO
 \xv ʈʂʰɯ˧ ɖwæ˧˥ | ʐwæ˩˥!
 \xe He is very capable!
@@ -82996,12 +83015,10 @@
 \or ruaq
 \ps v
 \lc ʐwɤ˩˥
+\cf ʐwɤ˥~ʐwɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (en 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés") (vérifié; avant 2009: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
-\nt <dom="sem" langue="fra"> Pour désigner une personne muette, on utilisait traditionnellement le terme pour `idiot', ssobbae |fv{zo˧bæ˩}.
-\nt <dom="sem" langue="eng"> The term for `idiot', ssobbae |fv{zo˧bæ˩}, was traditionally used to designate a mute person.
-\nt <dom="sem" langue="cmn"> 传统上使用‘笨人、傻瓜’ssobbae |fv{zo˧bæ˩}那个词来指哑巴。
+\nt <type="hist" print="n" langue="fra"> (vérifié; avant 2009: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
@@ -83014,14 +83031,6 @@
 \gn 讲话
 \df Parler.
 \gf parler
-\xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩
-\xe dumb person, person who is not able to speak
-\xn 哑巴、不会讲话的人
-\xf muet, personne muette, personne qui ne parle pas
-\xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩, | ʈʂʰɯ˧-v̩˧!
-\xe (S)he is not able to speak! / (S)he won't speak!
-\xn 不会讲话，这个人！／这个人，不会讲话！
-\xf Elle/il ne sait pas parler, elle/lui!
 \xv le˧-ʐwɤ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: has spoken
 \xn |fg{实施} 〜 |fg{整体体}：讲了
@@ -83031,11 +83040,6 @@
 \xe What are you saying? / What do you mean?
 \xn 你说什么？
 \xf Que dis-tu? / Qu'est-ce que tu veux dire?
-\xv ʐwɤ˧~ʐwɤ˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
-\xc PHONO
 \xv le˧-ʐwɤ˩
 \xe to answer
 \xn 回答
@@ -83048,20 +83052,50 @@
 \xe According to her/him… / From her/his point of view…
 \xn 依照他的说法……
 \xf À ce qu'elle/il dit…
+\xv ʐwɤ˧qʰwæ˧-ʈʂɯ˧qʰwæ˧ ɲi˩!
+\xe That's how the saying goes! (Context: explaining that an idea is not just the speaker's opinion, but conforms to established wisdom.)
+\xn 是老说法！（指出：说的是老说法，不是说话人的个人意见。）
+\xf C'est ce qu'on dit! / C'est comme ça qu'on dit! (Autrement dit, ce qu'on vient d'expliquer n'est pas seulement l'opinion du locuteur, mais reflète le sens commun.)
+
+\lx ʐwɤ˥~ʐwɤ˩
+\or ruarua
+\mr ʐwɤ˩β
+\ps v
+\lc ʐwɤ˧ʐwɤ˩
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton HL
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\de To speak (|fg{red}).
+\ge to_speak
+\dn 讲话（|fg{重叠}）。
+\gn 讲话
+\df Parler (|fg{red}).
+\gf parler
+\xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩
+\xe dumb person, person who is not able to speak
+\xn 哑巴、不会讲话的人
+\xf muet, personne muette, personne qui ne parle pas
+\xc <type="hist" print="n" langue="fra"> En 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés".
+\xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩, | ʈʂʰɯ˧-v̩˧!
+\xe (S)he is not able to speak! / (S)he won't speak!
+\xn 不会讲话，这个人！／这个人，不会讲话！
+\xf Elle/il ne sait pas parler, elle/lui!
+\xc <dom="sem" langue="fra"> Pour désigner une personne muette, on utilisait traditionnellement le terme pour `idiot', |fo{ssobbae} |fv{zo˧bæ˩}.
+\xc <dom="sem" langue="eng"> The term for `idiot', |fo{ssobbae} |fv{zo˧bæ˩}, was traditionally used to designate a mute person.
+\xc <dom="sem" langue="cmn"> 传统上使用‘笨人、傻瓜’|fo{ssobbae} |fv{zo˧bæ˩}那个词来指哑巴。
 \xv hĩ˧-qɑ˧ ʐwɤ˧~ʐwɤ˥
 \xe to speak to people
 \xn 对人家讲
 \xf parler aux gens
 \xc PHONO
 \xv le˧-ʐwɤ˧~ʐwɤ˥-ze˩
-\xe |fg{accomp} |fg{red} |fg{pfv}
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}: spoke a little
+\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}：讲了一些
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}: a parlé un peu
 \xc PHONO
-\xv ʐwɤ˧qʰwæ˧-ʈʂɯ˧qʰwæ˧ ɲi˩!
-\xe That's how the saying goes! (Context: explaining that an idea is not just the speaker's opinion, but conforms to established wisdom.)
-\xn 是老说法！（指出：说的是老说法，不是说话人的个人意见。）
-\xf C'est ce qu'on dit! / C'est comme ça qu'on dit! (Autrement dit, ce qu'on vient d'expliquer n'est pas seulement l'opinion du locuteur, mais reflète le sens commun.)
 
 \lx ʐwɤ˧mv̩˧
 \or ruamu
@@ -84537,9 +84571,9 @@
 \df Jupe; monosyllabe extrait d'après le comportement dans l'expression figée /|fv{ʈʰæ˩ ki˩˥}/ ‘enfiler la jupe', avec verbe au ton Lα (nom du rituel de passage à l'âge adulte). Le monosyllabe n'est pas usité hors de cette expression. Par exemple, ‡/|fv{ʈʰæ˩ ɲi˩˥}/ ‘c'est une jupe' est catégoriquement refusé par Mme Latami.
 \gf jupe
 \xv ʈʰæ˧ | le˧-ki˩
-\xe to put on the skirt (|fg{accomp})
+\xe to put on the skirt
 \xn 穿上裙子
-\xf enfiler la jupe (|fg{accomp})
+\xf enfiler la jupe
 \xv ʈʰæ˩ ki˩˥
 \xe the ritual of coming of age for women: “putting on the skirt"
 \xn 女人成年的礼仪：“穿裙子”
