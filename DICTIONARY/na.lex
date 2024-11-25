@@ -4781,7 +4781,6 @@
 \xe the echo resonates
 \xn 有回音，回音一阵阵
 \xf Il y a de l'écho!
-\dt 24/Apr/2017
 
 \lx bo˩zo#˥
 \or bbosso
@@ -10018,7 +10017,7 @@
 \sf <nb="2011"> 768
 \or zzhei
 \ps n
-\cf ɖʐe˧ʁwɤ˧
+\sy ɖʐe˧ʁwɤ˧
 \lc ɖʐe˧
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -10221,6 +10220,7 @@
 \or Zzheiggee
 \ps n
 \lc ɖʐe˧gɯ˧
+\cf ɖʐe˧gɯ˧-to˩mi˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton M
@@ -10231,10 +10231,6 @@
 \gn 永胜
 \df Yongsheng (nom de comté).
 \gf Yongsheng
-\xv ɖʐe˧gɯ˧-to˩mi˩
-\xe a high mountain located in Yongsheng
-\xn 永胜的一座高山
-\xf une haute montagne située à Yongsheng
 \xv ɖʐe˧gɯ˧-hæ˧
 \xe Yongsheng Chinese (Han) (note: Yongsheng is mainly populated by Han Chinese)
 \xn 永胜汉族
@@ -10244,6 +10240,22 @@
 \xe In Yongsheng, there are lots of Chinese (Han) people!
 \xn 永胜，汉族群多！
 \xf À Yongsheng, il y a plein de Chinois (Han)!
+
+\lx ɖʐe˧gɯ˧-to˩mi˩
+\or Zzheiggee Domi
+\mr ɖʐe˧gɯ˧
+\ps n
+\lc ɖʐe˧gɯ˧to˩mi˩
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton -L
+\so F4
+\de A high mountain located in Zzheiggee (Yongsheng) county.
+\ge Zzheiggee_Domi.mountain_name
+\dn 永胜的一座高山
+\gn 永胜的一座高山
+\df Une haute montagne située dans le comté de Zzheiggee (Yongsheng).
+\gf Yongsheng
 
 \lx dze˧hi˧
 \or zzeixie
@@ -11636,17 +11648,13 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (notes avant 2009: «le˧ɖʐɤ˩˥, ton 4») (sens vérifié: 拆) (se réduplique en: lə˧ɖʐɤ˩ɖʐɤ˩, d'abord noté «le˥ɖʐɤ˩ɖʐɤ˩, tv») (voisement de l'initiale vérifié) (schéma tonal vérifié en 2009) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
+\nt <type="hist" print="n" langue="fra"> (notes avant 2009: «le˧ɖʐɤ˩˥, ton 4») (sens vérifié: 拆) (d'abord noté comme une simple séquence de ˧; en mai 2008, confirme la conjecture de la réécoute 2007: c'est le˧ ɖʐɤ˧˥ ɲi˧gi˧ gv̩˧)
 \de To snap, to cut (thread); to smash; to destroy (a building).
 \ge to_snap/to_smash
 \dn 拆（线），拔，捣碎
 \gn 拆／捣碎
 \df Déchirer, couper (fil); briser; broyer; détruire (une maison).
 \gf briser
-\xv le˧-ɖʐɤ˩~ɖʐɤ˩
-\xe |fg{red}
-\xn |fg{重叠}：拆拆
-\xf |fg{red}
 \xv ʑi˧qʰwɤ˧ ɖʐɤ˧˥
 \xe to destroy a house
 \xn 拆房子
@@ -11656,6 +11664,63 @@
 \xn 拆成两半
 \xf déchirer en deux morceaux
 
+\lx ɖʐɤ˩~ɖʐɤ˧˥
+\hm 1
+\or zzhezzhe
+\mr ɖʐɤ˧˥1
+\ps v
+\lc ɖʐɤ˩ɖʐɤ˧˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L+MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To pluck (fruit, weeds), to pick (vegetables).
+\ge to_pluck
+\dn 摘（果子、蔬菜）、扯（草）
+\gn 摘／扯
+\df Cueillir (des fruits, des légumes); arracher (des mauvaises herbes).
+\gf cueillir/arracher
+\xv le˧-ɖʐɤ˩~ɖʐɤ˩
+\xe |fg{accomp} 〜 |fg{red}: has plucked a little, has picked a little
+\xn |fg{实施} 〜 |fg{重叠}：拆拆了
+\xf |fg{accomp} 〜 |fg{red}: a un peu arraché, a un peu cueilli
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> D'abord noté «le˥ɖʐɤ˩ɖʐɤ˩, tv», puis lə˧ɖʐɤ˩ɖʐɤ˩. Schéma tonal vérifié en 2009.
+\de To snap, to cut (thread); to smash; to destroy (a building).
+\ge to_snap/to_smash
+\dn 拆（线），拔，捣碎
+\gn 拆／捣碎
+\df Déchirer, couper (fil); briser; broyer; détruire (une maison).
+\gf briser
+
+\lx ɖʐɤ˩~ɖʐɤ˧˥
+\hm 2
+\or zzhezzhe
+\ps v
+\lc ɖʐɤ˩ɖʐɤ˧˥
+\mr ɖʐɤ˧˥2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L+MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To prop open (a tent).
+\ge to_prop_open
+\dn 撑开（帐篷）
+\gn 撑开
+\df Déployer, ouvrir en soutenant. Par exemple: déployer la tente.
+\gf déployer
+\xv le˧-ɖʐɤ˩~ɖʐɤ˩
+\xe |fg{accomp} 〜 |fg{red}: has propped open a little
+\xn |fg{实施} 〜 |fg{重叠}：撑开一下
+\xf |fg{accomp} 〜 |fg{red}: a un peu ouvert, a un peu déployé
+
 \lx ɖʐɤ˧˥
 \sf <nb="B"> 1499
 \sf <nb="B"> 1694
@@ -11664,9 +11729,9 @@
 \or zzheq
 \ps v
 \lc ɖʐɤ˧˥
+\cf ɖʐɤ˩~ɖʐɤ˧˥2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> avant novembre 2011: noté lə˧ɖʐɤ˧ɖʐɤ˩
 \nt <type="hist" print="n" langue="fra"> qʰæ˧˥, ton 4 (avant 2009: notation 2006: kʶæ˥; notation 2007: kʰʶæ˩˥)
 \nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{le˧-ɖʐɤ˩~ɖʐɤ˩}.
 \nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{le˧-ɖʐɤ˩~ɖʐɤ˩}.
@@ -11681,11 +11746,6 @@
 \gn 撑开
 \df Déployer, ouvrir en soutenant. Par exemple: déployer la tente.
 \gf déployer
-\xv le˧-ɖʐɤ˩~ɖʐɤ˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
-\dt 27/Aug/2015
 
 \lx dzɤ˥β
 \or zze
@@ -11901,7 +11961,7 @@
 \xv ʈʂo˧ɭɯ˧ ɖʐo˧˥
 \xe to crush with a grindstone
 \xn 用手磨弄碎
-\xf écraser avec un moulin (|fv{ʈʂu˧ɭɯ#˥}: moulin)
+\xf écraser avec un moulin (|fv{ʈʂo˧ɭɯ#˥}: moulin)
 \xv ɖɯ˧-kʰwɤ˧ ɖʐo˧˥
 \xe to crush a piece (of something)
 \xn 弄碎一块
@@ -11912,7 +11972,6 @@
 \xn 弄碎一点（东西）
 \xf écraser un peu (de quelque chose)
 \xc PHONO
-\dt 27/Aug/2015
 
 \lx dʑɤ˧bo˩
 \sf <nb="B"> 476b
@@ -12127,8 +12186,8 @@
 \lx ɖʐɤ˩ɖwæ˩
 \sf <nb="2011"> 648
 \or zzhedduae
+\mr ɖwæ˥α
 \ps n
-\cf ɖwæ˩α
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -12150,7 +12209,6 @@
 \xe stone step
 \xn 石头台阶
 \xf marche en pierre
-\dt 24/Apr/2017
 
 \lx ɖʐɤ˩kɤ˥$
 \or Zzhege
@@ -12660,7 +12718,7 @@
 \gn 量词.歌
 \df Classificateur des chansons.
 \gf |fg{clf}.chansons
-\xv ə˧hɑ˩bɑ˩lɑ˩ | ɖɯ˧-ɖʐo˩ gwɤ˩
+\xv ə˧hɑ˩-bɑ˩lɑ˩ | ɖɯ˧-ɖʐo˩ gwɤ˩
 \xe to sing a song
 \xn 唱一首摩梭歌
 \xf chanter une chanson
@@ -13556,6 +13614,8 @@
 \sf <nb="B"> 1276
 \sf <nb="2011"> 615
 \or zzhigho
+\mr ɖʐɯ˥
+\mr -qo˧
 \ps adv
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14476,11 +14536,11 @@
 \hm 4
 \or zzhu
 \ps n
-\cf ɖʐv̩˧qʰɑ˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
 \nt <type="hist" print="n" langue="fra"> Vérifié en 2024: est une rime v̩ et non ɻ̩.
+\sy ɖʐv̩˧qʰɑ˧
 \lc ɖʐv̩˧
 \so F4
 \va <speaker="F5"> ID.
@@ -14492,20 +14552,16 @@
 \gn 露水
 \df Rosée.
 \gf rosée
-\xv ɖʐv̩˧qʰɑ˧ lɑ˧˥
-\xe Dew forms, dew appears.
-\xn 露水形成，露水出现。
-\xf De la rosée se forme, de la rosée apparaît.
 
 \lx ɖʐv̩˥
 \sf <nb="2011"> 282
 \or zzhu
 \hm 1
 \ps n
-\cf ɖʐv̩˧tsi˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton #H
+\sy ɖʐv̩˧tsi˥
 \lc ɖʐv̩˧
 \so F4
 \va <speaker="F5"> ID.
@@ -14581,6 +14637,7 @@
 
 \lx ɖʐv̩˧β
 \or zzheu
+\mr ɖʐv̩˧3
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -14593,7 +14650,6 @@
 \gn 量词.事故
 \df Auto-classificateur des accidents.
 \gf |fg{clf}.accidents
-\dt 24/Jul/2017
 
 \lx ɖʐv̩˧-nɑ˥mi˩
 \sf <nb="2011"> 2674
@@ -14616,8 +14672,8 @@
 \lx ɖʐv̩˧qʰɑ˧
 \sf <nb="2011"> 29
 \or zzheukha
+\mr ɖʐv̩˧4
 \ps n
-\cf ɖʐv̩˧4
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <dom="sem" langue="fra"> D'après Mme Latami, la seconde syllabe, /|fv{qʰɑ}/, serait la même que dans le mot `orage'. Il ne s'agirait pas de l'adjectif /|fv{qʰɑ˥}/ `amer'.
@@ -14630,6 +14686,10 @@
 \gn 露水
 \df Rosée.
 \gf rosée
+\xv ɖʐv̩˧qʰɑ˧ lɑ˧˥
+\xe Dew forms, dew appears.
+\xn 露水形成，露水出现。
+\xf De la rosée se forme, de la rosée apparaît.
 
 \lx ɖʐv̩˩ti#˥
 \sf <nb="2011"> 921
@@ -14925,6 +14985,7 @@
 \lx ɖʐwæ˧mi˧
 \sf <nb="2011"> 2712
 \or zzhuaemi
+\mr ɖʐwæ˩˧
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -14938,10 +14999,11 @@
 \gn 麻雀
 \df Moineau.
 \gf moineau
-\dt 27/Aug/2015
 
 \lx ɖʐwæ˧pʰv̩#˥
 \or zzhuaepu
+\mr ɖʐwæ˩˧
+\mr -pʰv̩˥
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -14963,6 +15025,8 @@
 
 \lx ɖʐwæ˧zo#˥
 \or zzhuaesso
+\mr ɖʐwæ˩˧
+\mr -zo˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14977,7 +15041,6 @@
 \gn 小麻雀
 \df Moinillon, petit moineau, bébé moineau.
 \gf petit_moineau
-\dt 27/Aug/2015
 
 \lx ɖʐwæ˩α
 \sf <nb="B"> 1147
@@ -14988,6 +15051,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra" dom="ton"> Confirmé en 2012: est un ton L.
 \ton Lα
+\sy ɖʐwæ˧~ɖʐwæ˥
 \lc ɖʐwæ˩˥
 \so F4
 \va <speaker="F5"> ID.
@@ -14999,10 +15063,25 @@
 \gn 吵架
 \df Se disputer (monosyllabe).
 \gf se_disputer
-\xv ɖʐwæ˧~ɖʐwæ˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+
+\lx ɖʐwæ˧~ɖʐwæ˥
+\sf <nb="B"> 1147
+\sf <nb="2011"> 2432
+\or zzhuaezzhuae
+\mr ɖʐwæ˩α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\lc ɖʐwæ˧ɖʐwæ˥
+\so F4
+\va <speaker="F5"> ID.
+\de To quarrel.
+\ge to_quarrel
+\dn 吵架
+\gn 吵架
+\df Se disputer.
+\gf se_disputer
 \xv hĩ˧ ɲi˥-kv̩˩ | ɖʐwæ˧~ɖʐwæ˥-ze˩!
 \xe Two people have started quarrelling!
 \xn 两个人开始争吵了！
@@ -15074,6 +15153,7 @@
 \ton L#-
 \lc ɑ˧bɑ˩lɑ˩bɑ˩
 \so F4
+\pdv dzi˩β
 \de Cactus.
 \ge cactus
 \dn 仙人掌
@@ -15271,7 +15351,7 @@
 \sf <nb="2011"> 425
 \or axe
 \ps n
-\cf ə˧ɖo˧
+\sy ə˧ɖo˧
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: ɤ˥ɕjɤ˧)
@@ -15464,6 +15544,7 @@
 \lc ə˧dzɤ˧dzɤ˥
 \so F4
 \va <speaker="F4"> ə˧-ze˧~ze˥
+\va <speaker="F5"> ID.
 \va <speaker="M21"> ə˧-zɤ˧~zɤ˥
 \vc <type="hist" print="n" langue="fra"> vérifié: n'est pas /dzɤ/; vérifié: n'est pas /e/
 \de Slowly.
@@ -15496,24 +15577,25 @@
 \sd <langue="eng"> given name
 \ton M
 \lc ə˧go˧
+\nt <type="hist" print="n" langue="fra"> La notation en caractères chinois, 阿古, est une hypothèse, tirée du nom du village. Reste à vérifier si tel est bien l'usage xxxx
 \so F4
 \de Eggo, a family name from Yongning. There are three families in Yongning that carry this name.
 \ge Eggo
-\dn 一个姓。这个姓，永宁有三家
-\gn 一个姓
+\dn 阿古：一个姓。这个姓，永宁有三家
+\gn 阿古
 \df Eggo, nom de clan/famille étendue. Trois familles portent ce nom à Yongning.
 \gf Eggo
 \xv ə˧go˧=ɻ̩˩
 \xe the Eggo |fv{/ə˧go˧/} clan
-\xn |fv{ə˧go˧}家族
+\xn 阿古家族
 \xf le clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧ | dʑɤ˩tsʰi˧
 \xe The person called Jjacee |fv{/dʑɤ˩tsʰi#˥/}, of the Eggo |fv{/ə˧go˧/} clan
-\xn |fv{ə˧go˧} 家族名叫甲次那个人
+\xn 阿古家族名叫甲次那个人
 \xf la personne prénommée Jjacee |fv{/dʑɤ˩tsʰi#˥/}, du clan Eggo |fv{/ə˧go˧/}
 \xv ə˧go˧=ɻ̩˩, | so˧-ʑi˧, | ɖɯ˧-ɻ̩̃˥!
 \xe There are three families carrying the name Eggo |fv{/ə˧go˧/}; they make up one clan!
-\xn 姓|fv{ə˧go˧}的，有三家，形成一个家族！
+\xn 姓阿古的，有三家，形成一个家族！
 \xf Il y a trois familles qui portent le nom Eggo |fv{/ə˧go˧/}; elles constituent un clan!
 
 \lx ə˧go˧-ʁwɤ˧
@@ -15577,7 +15659,7 @@
 \gn 民歌
 \df Chanson traditionnelle.
 \gf chanson
-\xv ə˧hɑ˩bɑ˩lɑ˩ | ɖɯ˧-ɖʐo˩ gwɤ˩
+\xv ə˧hɑ˩-bɑ˩lɑ˩ | ɖɯ˧-ɖʐo˩ gwɤ˩
 \xe to sing a song
 \xn 唱一首摩梭歌
 \xf chanter une chanson
@@ -15658,9 +15740,9 @@
 \sf <nb="B"> 799
 \sf <nb="2011"> 1185
 \or eyishei
+\mr ə˧ʝi˥$
+\mr ʂɯ˩ʝi#˥
 \ps adv
-\cf ə˧ʝi˥$
-\cf ʂɯ˩ʝi#˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> (tons confirmés; d'abord noté ˧ ˧ ˥ ˧)
@@ -15937,6 +16019,7 @@
 \nt <langue="cmn" dom="phono"> 实际发音接近[|fv{e˧mi˩ɖɯ˩}]。
 \ton L#
 \lc e˧mi˧ɖɯ˩
+\sy ə˧jɤ˩
 \so F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
@@ -16067,7 +16150,7 @@
 \gn 哥哥／姐姐
 \df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
-\xv æ˧mv̩˩=ɻæ˩
+\xv ə˧mv̩˩=ɻæ˩
 \xe |fg{pl}: elder siblings. The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \xn 复数：哥哥们、姐姐们。该词也用于指比自己年龄大的母亲姐妹的孩子们。
 \xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aîné·es. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
@@ -16076,6 +16159,8 @@
 \sf <nb="B"> 315
 \sf <nb="2011"> 381
 \or amuggissi
+\mr ə˧mv̩˧˥
+\mr gi˧zɯ#˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -16101,6 +16186,8 @@
 \sf <nb="B"> 309
 \sf <nb="2011"> 384
 \or amuggomi
+\mr ə˧mv̩˧˥
+\mr go˧mi˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -16125,6 +16212,7 @@
 \sf <nb="B"> 848
 \sf <nb="2011"> 2627
 \or aemujie
+\mr tɕi˩α
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -16328,7 +16416,7 @@
 \df Arrière-grand-mère (bisaïeule); sens étendu: bisaïeule et ses frères et sœurs, c'est-à-dire les membres importants de la famille à la troisième génération au-dessus.
 \gf bisaïeule
 
-\lx ə˧si˧-æ˧pʰv̩#˥
+\lx ə˧si˧-ə˧pʰv̩#˥
 \sf <nb="B"> 270b
 \sf <nb="2011"> 393
 \or asee apeu
@@ -16611,6 +16699,7 @@
 
 \lx ə˧tso˧~ə˧tso˥
 \or aezo aezo
+\mr ə˧tso˧
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -16682,7 +16771,7 @@
 \xv mv̩˧ʁo˥ | tʰi˧-dze˩, | kɤ˩-nɑ˧mi˧ ɖɯ˧˥! | di˧qo˧ ʈʂʰɯ˧-dʑo˩, | ə˧v̩˧ ɖɯ˧˥!
 \xe “As the Eagle is greatest of all that fly in the sky, so the mother's brother is greatest of all that walk the earth.”
 \xn “天上飞的，是老鹰最大。天下走的，是母亲的兄弟（“舅舅”）最大。”
-\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; parmi tout ce qui marche sur la terre, le frère de la mère est le plus grand.»
+\xf «Parmi tout ce qui vole dans le ciel, l'aigle est le plus grand; sur la terre, le frère de la mère est le plus grand.»
 \xc PROVERBE
 \xc <type="hist" print="n" langue="fra"> La locutrice de référence n'est pas familière de ce proverbe, dans aucune des versions qui en ont été enregistrées.
 \xc <type="hist" print="n" langue="eng"> The reference speaker is not familiar with this proverb (in any of the versions that have been recorded).
@@ -16904,6 +16993,7 @@
 \nt <type="hist" print="n" langue="fra"> ton 3a (notation 2006: ɤ˧ʐv̩˩)
 \ton L#
 \lc ə˧ʐv̩˩
+\cf ʂe˧ ʐv̩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -16913,10 +17003,22 @@
 \gn 陈旧
 \df Ancien, usagé.
 \gf usagé
-\xv ʂe˧ ʐv̩˥
-\xe old meat, meat that is not fresh
-\xn 陈肉、不新鲜的肉
-\xf de la vieille viande, de la viande pas fraîche
+
+\lx ʂe˧ ʐv̩˥
+\or shei ru
+\ps n
+\sd <langue="fra"> nourriture
+\sd <langue="eng"> food
+\ton H#
+\lc ʂe˧ ʐv̩˥
+\cf ə˧ʐv̩˩
+\so F4
+\de Old meat, meat that is not fresh
+\ge old_meat
+\dn 陈肉、不新鲜的肉
+\gn 陈肉
+\df De la vieille viande, de la viande pas fraîche.
+\gf vieille_viande
 
 \lx ə˩-
 \sf <nb="2011"> 1338
@@ -17084,7 +17186,6 @@
 \xe Make some flour to ferment! We're going to prepare buns!
 \xn 你发一点面吧！要做馒头！
 \xf Fais lever de la farine, on va faire des petits pains!
-\dt 01/Sep/2015
 
 \lx fv̩˩˧
 \or fuq
@@ -17093,6 +17194,7 @@
 \sd <langue="eng"> society
 \ton LM
 \lc fv̩˩˥
+\cf fv̩˩bi˩
 \so F4
 \de Neighbours.
 \ge neighbours
@@ -17100,7 +17202,6 @@
 \gn 邻居
 \df Le voisinage, les voisins.
 \gf voisins
-\dt 01/Sep/2015
 
 \lx fv̩˧
 \hm 1
@@ -17116,6 +17217,7 @@
 \nt <type="hist" print="n" langue="fra"> (corrigé en mai 2008 avec M18, confirmant une hypothèse faite à la réécoute: n'est pas fv̩˥) (lə˧fv̩˧ze˧)
 \ton M
 \lc fv̩˧
+\cf fv̩˧2
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -17150,7 +17252,6 @@
 \xn 没有不高兴的事，没有什么不愉快的！（景况：一个人拍了录像，给被录的人看，问他们：这次的录像，可以公布在网络上吗？有什么问题吗，有什么反对意见，有什么不安的吗？人家回答：‘没有不愉快的事！’、‘不反对！’）
 \xf Ne pas avoir matière à fâcherie, ne pas être fâché, ne pas être mécontent. (Contexte: quelqu'un qui a filmé des scènes de la vie quotidienne dans une maisonnée na montre les enregistrements vidéo aux personnes ayant participé, et s'enquiert afin de recueillir leur consentement oral à la diffusion du document: sont-ils d'accord pour apparaître dans un film qui sera rendu public sur internet? Ont-ils des sujets d'inquiétude ou de mécontentement? Ils répondent: ‘[Non,] nous n'avons pas de motif de mécontentement! / Nous n'avons pas d'objection!’)
 \rf F5
-\dt 23/May/2018
 
 \lx fv̩˧
 \hm 2
@@ -17166,6 +17267,7 @@
 \nt <type="hist" print="n" langue="fra"> (corrigé en mai 2008 avec M18, confirmant une hypothèse faite à la réécoute: n'est pas fv̩˥) (lə˧fv̩˧ze˧)
 \ton M
 \lc fv̩˧
+\cf fv̩˧1
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -17176,7 +17278,6 @@
 \gn 喜欢
 \df Aimer, apprécier.
 \gf apprécier
-\dt 23/May/2018
 
 \lx ʈʂe˩
 \or zheiq
@@ -17221,6 +17322,7 @@
 \sf <nb="B"> 480b
 \sf <nb="2011"> 617
 \or fubbi
+\mr fv̩˩˧
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -56192,7 +56294,7 @@
 \nt <dom="morpho" langue="fra"> Ce morphème n'apparaît que dans l'expression disyllabique /|fv{ɖʐe˧ʁwɤ˧}/ ‘argent'.
 \ton M
 \lc ʁwɤ˧
-\cf ɖʐe˧ʁwɤ˧
+\sy ɖʐe˧ʁwɤ˧
 \so F4
 \de Money.
 \ge money
