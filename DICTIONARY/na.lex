@@ -17744,9 +17744,9 @@
 \or ggiq
 \mr gɯ˩α2
 \mr ʝi˥5
-\mc <langue=fra> Ce morphème est issu de la contraction de |fv{gɯ˩α2} et |fv{ʝi˥5}.
-\mc <langue=eng> This morpheme originates in the coalescence of |fv{gɯ˩α2} and |fv{ʝi˥5}.
-\mc <langue=cmn> 此语素来自|fv{gɯ˩α2}与|fv{ʝi˥5}的和音。
+\mc <langue="fra"> Ce morphème est issu de la contraction de |fv{gɯ˩α2} et |fv{ʝi˥5}.
+\mc <langue="eng"> This morpheme originates in the coalescence of |fv{gɯ˩α2} and |fv{ʝi˥5}.
+\mc <langue="cmn"> 此语素来自|fv{gɯ˩α2}与|fv{ʝi˥5}的和音。
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -34320,7 +34320,7 @@
 \df Doigt.
 \gf doigt
 
-\lx lo˧ɲi˥ | ɖɯ˧ɭɯ˧
+\lx lo˧ɲi˥ | ɖɯ˧-ɭɯ˧
 \sf <nb="B"> 194
 \sf <nb="2011"> 261
 \or loni ddeelee
@@ -34336,9 +34336,8 @@
 \gn 食指
 \df Index.
 \gf index
-\dt 16/Jun/2017
 
-\lx lo˧ɲi˥ | ɲi˧ɭɯ˧
+\lx lo˧ɲi˥ | ɲi˧-ɭɯ˧
 \sf <nb="B"> 195
 \sf <nb="2011"> 262
 \or loni nilee
@@ -34374,7 +34373,6 @@
 \gn 第四根手指
 \df Annulaire.
 \gf annulaire
-\dt 24/Apr/2017
 
 \lx ɬo˧pɤ˥
 \or lhobe
@@ -34457,9 +34455,9 @@
 \xe jade ring
 \xn 玉石戒指
 \xf anneau en jade
-\xc <langue=fra" dom="sem"> Les Naxi étaient réputés porter des anneaux de jade. Les anneaux les plus prisés chez les Na étaient d'argent et d'or.
-\xc <langue=eng" dom="sem"> The Naxi were reputed to wear jade rings. Among the Na, the most prized rings were gold rings and silver rings.
-\xc <langue=cmn" dom="sem"> 纳西族被誉为戴玉环的民族。摩梭人最珍贵的戒指是金银戒指。
+\xc <langue="fra" dom="sem"> Les Naxi étaient réputés porter des anneaux de jade. Les anneaux les plus prisés chez les Na étaient d'argent et d'or.
+\xc <langue="eng" dom="sem"> The Naxi were reputed to wear jade rings. Among the Na, the most prized rings were gold rings and silver rings.
+\xc <langue="cmn" dom="sem"> 纳西族被誉为戴玉环的民族。摩梭人最珍贵的戒指是金银戒指。
 
 \lx ɬo˧pv̩˥
 \sf <nb="B"> 1392
