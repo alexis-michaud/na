@@ -112,7 +112,7 @@ Moso speakers' sense of belonging is an area that is not only complex (as is nat
 It could be argued, however, that the mere fact of endowing this speech variety with a dictionary gives it a prominent place in a contemporary lexicographical landscape that is still very sparse. Seen in this light, the orthographic representation provided in the dictionary has special value, as it aims to achieve a certain balance between dialects: it is not based on one dialect only (or have one specific speaker as an authoritative reference).
 
 \section{Aims and chronology of the project}
-\ref{sec:chronologie}
+\label{sec:chronologie}
 
 \begin{quotation}
     Adams, our head-boy, who had a turn for mathematics, had made a calculation, I was informed, of the time this Dictionary [a new Dictionary which Dr. Strong, the headmaster, had in contemplation] would take in completing, on the Doctor’s plan, and at the Doctor’s rate of going. He considered that it might be done in one thousand six hundred and forty-nine years, counting from the Doctor’s last, or sixty-second, birthday. (Charles Dickens, \emph{David Copperfield} (1850), Chapter 16.)
@@ -122,7 +122,7 @@ It could be argued, however, that the mere fact of endowing this speech variety 
     Since the project is constrained by limited resources of money, staff and time, the project must be organized in such a way that even after a very short period the dictionary makers can produce a useful piece of work. \parencite[``Dictionary making in endangered speech communities'':][42]{mosel_dictionary_2004}
 \end{quotation}
 
-\subsubsection{Elicitation method}
+\subsection{Elicitation method}
 
 In the classical tradition of linguistic fieldwork, a language description should include a dictionary, a grammar, and a collection of texts. Linguistic fieldwork consists in “going into a community where a language is spoken, collecting data from fluent native speakers, analysing the data, and providing a comprehensive description, consisting of grammar, texts and dictionary” \parencite[12]{dixon2007}. The grammar, texts and dictionary are referred to as the “Boasian trilogy” \parencite{foley1999} by reference to Franz Boas’s foundational work collecting North American languages \parencite{boas1902,boasetal1911}. Thus, the lexicographic data presented in this volume were collected as part of all-out fieldwork on Yongning Na. Trips to the field were made in 2006, 2007, 2008 and 2009, followed in 2011-2012 by a one-year stay in the city of Lijiang, where Mrs. Latami Daeshi Lhamu had settled to take care of a grandchild. Shorter stays were made in 2013, 2014, 2018 and 2024.
 
@@ -232,11 +232,11 @@ The versions produced so far are presented below in chronological order. A summa
 % \end{longtblr}
 
 
-\subsubsection{Versions 1.0 and 1.1: adhering to the Lexical Markup Framework (LMF) standard}
+\subsection{Versions 1.0 and 1.1: adhering to the Lexical Markup Framework (LMF) standard}
 
 During a first stage of the project, the team adopted the Lexical Markup Framework (LMF) standard, a pivotal format designed for machine-readable dictionaries \parencite{francopoulo2013,romary2013}. Céline Buret, a computer science engineer who worked with the project team for two years (Nov. 2014-Oct. 2015), produced scripts for converting the lexicographic data from the format of the Field Linguist’s Toolbox (Multi-Dictionary Formatter, MDF) to an XML format complying with the LMF standard. A Python 2 library was developed: PyLMFlib, for \emph{Python LMF library}. In 2015, version 1.0 of the online and PDF versions of the dictionary were released, along with the source database in MDF (Toolbox) format. Version 1.1, released in 2016, used the same library of computer scripts.
 
-\subsubsection{The Lexika software and the Lexica collection of dictionaries}
+\subsection{The Lexika software and the Lexica collection of dictionaries}
 
 A limitation of the Lexical Markup Framework in its 2013 formulation gradually became apparent: it places a constraint on what an entry can contain. Subentries that belong to different grammatical categories need to have separate entries set up. For instance, \phonologie{lɑ˧-kʰv̩˧˥} can mean both ‘year of the Tiger’ and ‘born in the year of the Tiger’ (in Chinese: \pcmn{虎年} and \pcmn{属虎}). From the linguist’s point of view, it is desirable to set up two subentries within the same entry. But the part-of-speech categories are different: ‘year of the Tiger’ is a noun phrase, and ‘born in the year of the Tiger’ is a predicate, categorized as an adjective. In the Lexical Markup Framework, this situation requires setting up two different entries, a requirement which is at variance with widespread lexicographic practice.
 
