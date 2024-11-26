@@ -925,7 +925,7 @@
 \ge blue/green
 \dn 像鹦鹉的颜色：介于青色、蓝色、绿色之间的颜色（摩梭语基本颜色为黄、红、青、黑、白、灰等）
 \gn 青色
-\df De couleur bleue/verte; couleur un peu plus légère que le vert de la plaine; équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
+\df De couleur bleue-verte: une couleur un peu plus légère que le vert de la plaine. Équivalent du chinois |fn{青}. Littéralement: ‘[couleur] perroquet'.
 \gf bleu/vert
 \xv æ̃˧qæ˩-ni˩gv̩˩
 \xe vivid-coloured, blue-green; literally ‘like a parrot', i.e. ‘parrot-coloured'
@@ -2446,9 +2446,9 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra" dom="phono"> Voisement du /b/ vérifié, n'est pas /pæ/.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Première notation (2006): /bæ˧ʁwæ˧ʁwæ˥/, mais une notation L.L.M était envisagée à titre d'hypothèse. C'est celle-ci qui est adoptée par la suite: /bæ˩-ʁwæ˩ʁwæ˧/. Elle est ensuite modifiée en L.L.H au vu de l'argument phonologique selon lequel il n'existe pas d'opposition L.L.H ~ L.L.M en fin de groupe tonal, d'où /bæ˩-ʁwæ˩ʁwæ˥/. Enfin, la réduplication est indiquée par un tilde, d'où /bæ˩-ʁwæ˩~ʁwæ˥/.
-\nt <dom="morpho" langue="fra"> Dans l'état actuel de la langue, le mot ne peut semble-t-il être dit sans réduplication. Je ne suis pas parvenu à dégager un monosyllabe /†|fv{bæ}/ signifiant ‘mou, relâché'.
-\nt <dom="morpho" langue="eng"> In the current state of the language, the word cannot seem to be said without reduplication. I have not been able to find a monosyllable /†|fv{bæ}/ meaning ‘soft, slack'.
-\nt <dom="morpho" langue="cmn"> 尚未找到一个表示‘柔软、松弛’的单音节词/†|fv{bæ}/。
+\nt <dom="morpho" langue="fra"> Dans l'état actuel de la langue, le mot ne peut semble-t-il être dit sans réduplication. Je ne suis pas parvenu à dégager un monosyllabe †|fv{bæ} signifiant ‘mou, relâché'.
+\nt <dom="morpho" langue="eng"> In the current state of the language, the word cannot seem to be said without reduplication. I have not been able to find a monosyllable †|fv{bæ} meaning ‘soft, slack'.
+\nt <dom="morpho" langue="cmn"> 尚未找到一个表示‘柔软、松弛’的单音节词†|fv{bæ}。
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -2728,7 +2728,7 @@
 \ge |fg{clf}.sorts
 \dn |fg{量词}：东西（一样）
 \gn 量词.东西
-\df Classificateur des espèces/sortes de choses. S'emploie dans la construction «c'est la même chose».
+\df Classificateur des espèces, des sortes de choses. S'emploie dans la construction «c'est la même chose».
 \gf |fg{clf}.espèces
 \xv ɖɯ˧-bæ˧-lɑ˧ ɲi˥!
 \xe It's the same!
@@ -6673,7 +6673,7 @@
 \ton H
 \lc ɕjɤ˧
 \so F4
-\de To invent, to think out/up, to come up with (an idea, a solution).
+\de To invent, to think out something, to come up with (an idea, a solution).
 \ge 想::to_invent/to_think_out
 \dn 想、发明、想出、找到（办法）
 \gn 想（借词）
@@ -8561,7 +8561,7 @@
 \ton Hα
 \lc ɖɯ˧ do˥
 \so F4
-\de Classifier for partitions/walls, and for large pieces of pork ribs.
+\de Classifier for partitions and walls, and for large pieces of pork ribs.
 \ge |fg{clf}.partitions/walls
 \dn |fg{量词}：墙壁（一堵）、猪肋骨（一大块）
 \gn 量词.墙壁、猪肋骨
@@ -9108,13 +9108,12 @@
 \ton M
 \lc --
 \so F4
-\de |fg{delimitative.}
+\de |fg{delimitative}.
 \ge |fg{delimitative}
 \dn |fg{进行时态}
 \gn |fg{进行时态}
 \df |fg{délimitatif.}
 \gf |fg{délimitatif}
-\dt 27/Aug/2015
 
 \lx dv̩˩
 \sf <nb="B"> 860
@@ -10038,15 +10037,16 @@
 \or Gesa
 \ps n
 \lc kɤ˧sɑ˥
+\cf dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton H$
 \so F4
-\de Gesa, a family name from Yongning.
+\de Gesa, a clan name from Yongning.
 \ge Gesa_clan
 \dn 格萨（姓）。这个家族有一个家庭。
 \gn 格萨：一个姓
-\df Gesa, nom de clan/famille étendue qui compte une famille (qui a donné son nom à un village de la plaine de Yongning).
+\df Gesa, nom de clan qui compte une famille (qui a donné son nom à un village de la plaine de Yongning).
 \gf clan_Gesa
 \xv kɤ˧sɑ˧=ɻ̩˥
 \xe the Gesa |fv{/kɤ˧sɑ˥$/} clan, the Gesa |fv{/kɤ˧sɑ˥$/} family
@@ -10066,11 +10066,11 @@
 \sd <langue="eng"> given name
 \ton M
 \so F4
-\de Zzeibbo, a family name from Yongning.
+\de Zzeibbo, a clan name from Yongning.
 \ge Zzeibbo_clan
 \dn 者波（姓）。这个家族有三个家庭。
 \gn 一个姓
-\df Zzeibbo, nom de clan/famille étendue qui compte 3 familles. C'est également le nom d'un village de la plaine de Yongning.
+\df Zzeibbo, nom de clan qui compte trois familles. C'est également le nom d'un village de la plaine de Yongning.
 \gf clan_Zzeibbo
 \xv dze˧bo˧=ɻ̩˩
 \xe the |fv{/dze˧bo˧/} clan, the |fv{/dze˧bo˧/} family
@@ -11782,11 +11782,11 @@
 \nt <dom="sem" langue="fra" print="n"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (par exemple: aux toilettes: «il y a quelqu'un!»); “il y a combien de personnes dans ta famille?" xxxx traduire ces 2 exemples et les ajouter parmi les exemples
 \ton Lβ
 \so F4
-\de Existential: there is someone in the toilets/at home; there are n people in the family.
+\de Existential: there is someone in the toilets, there is someone at home; there are n people in the family.
 \ge |fg{exist.animated_beings}
 \dn 存在动词：有，存在着。如：某人在家或家里有几口人
 \gn 存在动词：有／在
-\df Existentiel pour les êtres animés (dont les personnes).
+\df Existentiel pour les êtres animés (dont les personnes): il y a quelqu'un aux toilettes; il y a quelqu'un à la maison; il y a n personnes dans la famille.
 \gf |fg{exist.êtres_animés}
 \xv mɤ˧-dʑo˩
 \xe |fg{neg} 〜: is not present
@@ -12219,11 +12219,11 @@
 \nt <type="hist" print="n" langue="fra"> ton confirmé en avril 2012
 \ton LM+H$
 \so F4
-\de Zzhege, a family name from Yongning. There are two families in Yongning that carry this name.
+\de Zzhege, a clan name from Yongning. There are two families in Yongning that carry this name.
 \ge Zzhege
 \dn 一个姓。这个姓，永宁有两家。音译：哲格。
 \gn 哲格
-\df Zzhege, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\df Zzhege, nom de clan. Deux familles portent ce nom à Yongning.
 \gf clan_Zzhege
 \xv ɖʐɤ˩kɤ˧=ɻ̩˥$
 \xe the |fv{/ɖʐɤ˩kɤ˥$/} clan
@@ -13094,7 +13094,7 @@
 \vc <print="n" langue="fra"> gɤ˩˥: 'porter'
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
-\de Carrying/shoulder pole.
+\de Carrying pole, shoulder pole.
 \ge shoulder_pole
 \dn 扁担
 \gn 扁担
@@ -14250,7 +14250,7 @@
 \cf dʑɯ˩gv̩˥
 \so F4
 \va <speaker="M21"> ID.
-\de To be a hunchback/humpback.
+\de To be a hunchback, to be a humpback.
 \ge to_be_a_hunchback
 \dn 驼背（严重的病）
 \gn 驼背
@@ -14360,11 +14360,11 @@
 \nt <type="hist" print="n" langue="fra"> avant juillet 2012: noté comme classificateur au ton Lγ
 \ton Hα
 \so F4
-\de Self-classifier for marketplaces/towns.
+\de Self-classifier for marketplaces and towns.
 \ge |fg{clf}.markets
 \dn |fg{量词}：市场（一个），城市（一个）
 \gn 量词.市场／城
-\df Auto-classificateur des marchés/villes.
+\df Auto-classificateur des marchés et villes.
 \gf |fg{clf}.marchés/villes
 \xv ɖʐɯ˧ | ɖɯ˧-ɖʐɯ˥
 \xe a marketplace, a town
@@ -14483,7 +14483,7 @@
 \ge friend
 \dn 朋友、伙伴、伴侣
 \gn 朋友
-\df Ami/amie, compagnon/compagne.
+\df Ami·e, compagne ou compagnon.
 \gf ami/amie
 \xv njɤ˧ | ɖʐv̩˧ ɲi˩.
 \xe [(S)he] is my friend.
@@ -15332,11 +15332,11 @@
 \ton L#
 \lc ə˧ɕjo˩
 \so F4
-\de Exo, a family name from Yongning. There are two families in Yongning that carry this name.
+\de Exo, a clan name from Yongning. There are two families in Yongning that carry this name.
 \ge Exo
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Exo, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\df Exo, nom de clan. Deux familles portent ce nom à Yongning.
 \gf Exo
 \xv ə˧ɕjo˩=ɻ̩˩
 \xe the Exo |fv{/ə˧ɕjo˩/} clan
@@ -15360,12 +15360,12 @@
 \so F4
 \va <speaker="M18"> ə˧ɕjɤ˧
 \pdv v̩˧
-\de Lover, boy/girl-friend.
+\de Lover, boyfriend, girlfriend.
 \ge lover
 \dn 情人
 \gn 情人
-\df Petit(e) ami(e), amant(e).
-\gf amant/amante
+\df Petit·e ami·e, amant·e.
+\gf amant·e
 
 \lx ə˧dɑ˧-ə˧mi#˥
 \or adda ami
@@ -15579,11 +15579,11 @@
 \lc ə˧go˧
 \nt <type="hist" print="n" langue="fra"> La notation en caractères chinois, 阿古, est une hypothèse, tirée du nom du village. Reste à vérifier si tel est bien l'usage xxxx
 \so F4
-\de Eggo, a family name from Yongning. There are three families in Yongning that carry this name.
+\de Eggo, a clan name from Yongning. There are three families in Yongning that carry this name.
 \ge Eggo
 \dn 阿古：一个姓。这个姓，永宁有三家
 \gn 阿古
-\df Eggo, nom de clan/famille étendue. Trois familles portent ce nom à Yongning.
+\df Eggo, nom de clan. Trois familles portent ce nom à Yongning.
 \gf Eggo
 \xv ə˧go˧=ɻ̩˩
 \xe the Eggo |fv{/ə˧go˧/} clan
@@ -15859,11 +15859,11 @@
 \ton M
 \lc ɑ˧lɑ˧
 \so F4
-\de Ela, a family name from Yongning. There are three families in Yongning that carry this name. This is one of the three first Na clans who settled in the vicinity of the monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\de Ela, a clan name from Yongning. There are three families in Yongning that carry this name. This is one of the three first Na clans who settled in the vicinity of the monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
 \ge Ela
 \dn 阿拉：一个姓。这个姓，永宁有三家
 \gn 阿拉
-\df Ela, nom de clan/famille étendue. Trois familles portent ce nom à Yongning. C'est l'un des trois clans qui se sont établis les premiers dans le voisinage du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\df Ela, nom de clan. Trois familles portent ce nom à Yongning. C'est l'un des trois clans qui se sont établis les premiers dans le voisinage du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
 \gf Ela
 \xv ə˧lɑ˧=ɻ̩˩
 \xe the |fv{/ə˧lɑ˧/} clan
@@ -17694,6 +17694,8 @@
 \sf <nb="B"> 312
 \sf <nb="2011"> 387
 \or ggissi ggomi
+\mr gi˧zɯ#˥
+\mr go˧mi˧
 \ps n
 \lc gi˧zɯ˧go˧mi˧
 \sd <langue="fra"> société
@@ -17709,7 +17711,6 @@
 \gn 弟弟妹妹
 \df Cadets au sein de la fratrie: petits frères et petites sœurs.
 \gf cadets
-\dt 13/Jun/2017
 
 \lx gi˧zɯ#˥
 \sf <nb="B"> 314
@@ -18022,15 +18023,14 @@
 \so F4
 \de The city of Lijiang.
 \ge Lijiang
-\dn 丽江城
-\gn 丽江城
-\df Lijiang (la ville).
+\dn 丽江
+\gn 丽江
+\df Lijiang (nom de lieu).
 \gf Lijiang
 \xv go˩bi˧-ɖʐɯ˧qo˩
 \xe the city of Lijiang
 \xn 丽江城
 \xf la ville de Lijiang
-\dt 24/Apr/2017
 
 \lx go˩bo˥
 \sf <nb="B"> 1928
@@ -18576,25 +18576,51 @@
 \xe to have stomach-ache
 \xn 肚子疼
 \xf avoir mal au ventre
-\xv go˧ li˧
-\xe to consult a doctor, to go to the doctor
-\xn 看病、就医
-\xf consulter un médecin, aller voir le médecin, consulter
-\xv go˧ li˧-di˩
-\xe dispensary: literally, a place where a doctor can be consulted
-\xn 诊所：字面意思是“看病的地方”
-\xf dispensaire: littéralement, lieu où on peut consulter un médecin
-\xc <dom="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
-\xc <dom="synt" langue="eng"> This expression is perhaps a calque of the Chinese |fn{看病}: it is made up of the Narua equivalents of the two Chinese words (reversing, of course, the order between verb and object, as dictated by Narua syntax).
-\xc <dom="synt" langue="cmn"> 这个短语可能是汉语‘看病’的翻版：它是由两个对应汉语的词组成的（当然，根据摩梭语的句法，动词和宾语的顺序是颠倒的）。
-\xv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
-\xe dispensary: literally, a place where a doctor can be consulted
-\xn 诊所：字面意思是“看病的地方”
-\xf Le dispensaire, c'est le lieu où on va consulter un médecin!
 \xv mɤ˧-go˩ lɑ˩ dʑɤ˩!
 \xe It's only when one has no ailments that one can be happy! (An observation about the health trouble that comes with older years.)
 \xn 不病才（能）高兴！／没有病的时候才能开心！／身体健康才能幸福！（反思高年龄身体不舒服的困难和烦恼）
 \xf C'est seulement quand on n'a pas de maladie qu'on peut être content! / Ce n'est qu'en l'absence de soucis de santé qu'on peut être heureux! (Réflexion au sujet des contrariétés qu'apportent les soucis de santé avec l'âge.)
+
+\lx go˧ li˧
+\or ggoli
+\mr go˩α
+\mr li˧α
+\ps v
+\lc go˧ li˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\nt <dom="synt" langue="fra"> Cette expression est peut-être un calque du chinois |fn{看病}: elle est composée des termes na équivalents des deux mots chinois (en inversant bien sûr l'ordre entre verbe et objet, comme le commande la syntaxe du na).
+\nt <dom="synt" langue="eng"> This expression is perhaps a calque of the Chinese |fn{看病}: it is made up of the Narua equivalents of the two Chinese words (reversing, of course, the order between verb and object, as dictated by Narua syntax).
+\nt <dom="synt" langue="cmn"> 这个短语可能是汉语‘看病’的翻版：它是由两个对应汉语的词组成的（当然，根据摩梭语的句法，动词和宾语的顺序是颠倒的）。
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\de To consult a doctor, to go to the doctor.
+\ge to_go_to_the_doctor
+\dn 看病、就医
+\gn 看病
+\df Consulter un médecin, aller voir le médecin, consulter.
+\gf consulter_un_médecin
+
+\lx go˧ li˧-di˩
+\or ggoli
+\mr go˧ li˧
+\mr -di˩
+\ps n
+\sy ʈʂe˧so˧
+\lc go˧ li˧di˩
+\sd <langue="fra"> médecine
+\sd <langue="eng"> medicine
+\ton -L
+\so F4
+\de Dispensary: literally, a place where a doctor can be consulted.
+\ge dispensary
+\dn 诊所：字面意思是“看病的地方”
+\gn 诊所
+\df Dispensaire: littéralement «lieu où on peut consulter un médecin».
+\gf dispensaire
 
 \lx gɤ˩-
 \or gge-
@@ -19300,20 +19326,27 @@
 \lc gv̩˧kv̩˩
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
-\nt <dom="sem" langue="fra"> néologisme
 \ton L#
+\sn 1
 \so F4
-\de Intonation, way of speaking; can be used, by extension, to refer to tones.
+\de Intonation, way of speaking.
 \ge intonation
-\dn 语调，声调
+\dn 语调
 \gn 语调
-\df Intonation, manière de s'exprimer; par extension, peut désigner les tons.
+\df Intonation, manière de s'exprimer.
 \gf intonation
 \xv gv̩˧kv̩˩-gv̩˩li˩ | ʐwɤ˩˥
 \xe to speak with a pleasant style, to deliver one's speech with elegance
 \xn 说话说得好听、有口才、口若悬河、能言善辩
 \xf parler avec une élocution soignée/agréable
-\dt 24/Apr/2017
+\sn 2
+\so F4
+\de Tone (an innovative use of the term ‘intonation’ to refer to linguistic tone).
+\ge tone
+\dn 声调（创新性地使用‘语调’一词来指声调）。
+\gn 语调
+\df Tons (utilisation innovante du terme ‘intonation’ pour désigner le ton linguistique).
+\gf tons
 
 \lx gv̩˩ɬi˩mi˩
 \sf <nb="B"> 785
@@ -19626,8 +19659,7 @@
 \xv æ˧ʂæ˧ gwɤ˩; | qv̩˧ɻ̩˧ gwɤ˥; | nɑ˩tsʰi˩ gwɤ˥
 \xe “to walk around Mount |fv{/æ˧ʂæ˧/}; to walk around Mount |fv{/qv̩˧ɻ̩#˥/}; to walk around Mount |fv{/nɑ˩tsʰi˩/}": i.e. to do rituals on these mountains, in particular to obtain fertility, or to obtain a cure for a child who did not learn to speak.
 \xn 绕|fv{æ˧ʂæ˧}山，绕|fv{qv̩˧ɻ̩#˥}山，绕|fv{nɑ˩tsʰi˩}山（做“绕山”仪式，为了求生子等）
-\xf «faire le tour de la montagne |fv{/æ˧ʂæ˧/}; faire le tour de la montagne |fv{/qv̩˧ɻ̩#˥/}; faire le tour de la montagne |fv{/nɑ˩tsʰi˩/}»: façon de désigner les rites qu'on pratiquait sur ces montagnes: pour des enfants qui tardaient à apprendre à parler, etc.
-\dt 01/Jul/2018
+\xf «faire le tour de la montagne |fv{/æ˧ʂæ˧/}; faire le tour de la montagne |fv{/qv̩˧ɻ̩#˥/}; faire le tour de la montagne |fv{/nɑ˩tsʰi˩/}»: façon de désigner les rites qu'on pratiquait sur ces montagnes, en particulier pour obtenir la fertilité, ou lorsqu'un enfant tardait à apprendre à parler.
 
 \lx gwɤ˩ʝi˧
 \sf <nb="2011"> 1615
@@ -19662,7 +19694,6 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \comp <langue="pmi"> gwæ35
-\nt <type="hist" print="n" langue="fra"> tons vérifiés en 2011: auparavant, noté: ɖɯ˧-kʰwɤ˧ gwɤ˧(confirmé en 2012: est un ton L)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -19685,25 +19716,80 @@
 \xe to sing a song
 \xn 唱一下
 \xf chanter une chanson
+\xc <type="hist" print="n" langue="fra"> tons vérifiés en 2011: auparavant, noté: ɖɯ˧-kʰwɤ˧ gwɤ˧(confirmé en 2012: est un ton L)
 \xv ɖɯ˧-kʰwɤ˧ gwɤ˥-ɻ̩˩
 \xe to sing a song
 \xn 唱一下
 \xf chanter une chanson
-\xv nɑ˩-gwɤ˥
-\xe Na songs
-\xn 摩梭民歌
-\xf les chansons des Na
-\xc <dom="ton"> LH
-\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥!
-\xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
-\xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
-\xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
 \xv gwɤ˩˥ | dʑɤ˩-le˥!
 \xe [You] sing well!
 \xn 唱得好！
 \xf [Tu] chantes bien! / Bien chanté!
 \xc <langue="fra" print="n"> Exemple de M21, à vérifier avec F4 xxxx
 \rf M21
+
+\xv nɑ˩-gwɤ˥
+\or Naggua
+\mr nɑ˩˧
+\mr gwɤ˩α
+\ps n
+\lc nɑ˩gwɤ˥
+\sd <langue="fra"> musique
+\sd <langue="eng"> music
+\ton LH
+\so F4
+\de Na songs.
+\ge Na_songs
+\dn 摩梭民歌
+\gn 摩梭民歌
+\df Les chansons des Na.
+\gf chansons_na
+\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥!
+\xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
+\xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
+\xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
+
+\xv hæ˧-gwɤ˩
+\or Haeggua
+\mr hæ˧
+\mr gwɤ˩α
+\ps n
+\lc hæ˧gwɤ˩
+\sd <langue="fra"> musique
+\sd <langue="eng"> music
+\ton L#
+\so F4
+\de (Han) Chinese songs.
+\ge Chinese_songs
+\dn 汉族民歌
+\gn 汉族民歌
+\df Les chansons des Chinois (Han).
+\gf chansons_chinoises
+\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥!
+\xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
+\xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
+\xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
+
+\xv ʁo˧dzi˩-gwɤ˩
+\or Wozzeeggua
+\mr ʁo˧dzi˩
+\mr gwɤ˩α
+\ps n
+\lc ʁo˧dzi˩gwɤ˩
+\sd <langue="fra"> musique
+\sd <langue="eng"> music
+\ton L#-
+\so F4
+\de Tibetan songs.
+\ge Tibetan_songs
+\dn 藏族民歌
+\gn 藏族民歌
+\df Les chansons des Tibétains.
+\gf chansons_tibétaines
+\xv ʈʂʰɯ˧ | nɑ˩-gwɤ˥ F | kv̩˧˥! | hæ˧-gwɤ˩ F | kv̩˧˥! | ʁo˧dzi˩-gwɤ˩ F | kv̩˧-ʝi˥!
+\xe He can sing (lots of different styles:) Na songs! and also Chinese (Han) songs! and also Tibetan songs!
+\xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
+\xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
 
 \lx gwɤ˩~gwɤ˧˥
 \sf <nb="2011"> 2364
@@ -20569,15 +20655,20 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton M
+\sy go˧ li˧-di˩
 \lc ʈʂe˧so˧
 \so F4
-\de Dispensary: literally, a place where a doctor can be consulted.
+\de Dispensary.
 \ge 诊所::dispensary
-\dn 诊所：字面意思是“看病的地方”
+\dn 诊所
 \gn 诊所（借词）
-\df Dispensaire: littéralement, lieu où l'on peut consulter un médecin.
+\df Dispensaire.
 \gf dispensaire
 \dv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
+\xv ʈʂe˧so˧-dʑo˩, | go˧ li˧-di˩!
+\xe A dispensary is a place where a doctor can be consulted!
+\xn 诊所是看病的地方！
+\xf Le dispensaire, c'est le lieu où on va consulter un médecin!
 
 \lx hæ̃˩sɤ˩
 \sf <nb="B"> 0000
@@ -20628,7 +20719,7 @@
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
 \ton L#-
-\lc hæ̃˧ʂɯ˩pæ˧pʰæ˧
+\lc hæ̃˧ʂɯ˩pæ˩pʰæ˩
 \so F4
 \pdv pʰæ˧˥α
 \de Rack for drying grain.
@@ -27884,11 +27975,11 @@
 \ton MH+L
 \lc kɤ˧˥tʰɑ˩
 \so F4
-\de Geta, a family name from Yongning. There are two families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/ə˧lɑ˧/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\de Geta, a clan name from Yongning. There are two families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/ə˧lɑ˧/} and |fv{/lɑ˧tʰɑ˧mi˥$/}.
 \ge Geta_clan
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Geta, nom de clan/famille étendue. Deux familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/ə˧lɑ˧/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
+\df Geta, nom de clan. Deux familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/ə˧lɑ˧/} et |fv{/lɑ˧tʰɑ˧mi˥$/}.
 \gf clan_Geta
 \xv kɤ˧˥tʰɑ˩=ɻ̩˩
 \xe the Geta |fv{/kɤ˧˥tʰɑ˩/} clan
@@ -30316,11 +30407,11 @@
 \ton H$
 \lc kʰv̩˧zo˥
 \so F4
-\de Kusso, a family name from Yongning. There are two families in Yongning that carry this name.
+\de Kusso, a clan name from Yongning. There are two families in Yongning that carry this name.
 \ge Kusso
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Kusso, un nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\df Kusso, un nom de clan. Deux familles portent ce nom à Yongning.
 \gf Kusso
 \xv kʰv̩˧zo˧=ɻ̩˥$
 \xe the Kusso |fv{/kʰv̩˧zo˥$/} clan, the Kusso |fv{/kʰv̩˧zo˥$/} family
@@ -31544,11 +31635,11 @@
 \nt <langue="eng" dom="comp"> In case this word is a Tibetan borrowing (which is by no means certain; it is a surname and not a first name), it could be from Bla ma |tib{བླ་མ}.
 \nt <langue="cmn" dom="comp"> 假如是藏语借词（这一点还不能确定），可能来自|tib{བླ་མ}。
 \so F4
-\de Lama, a family name from Yongning. There are four families in Yongning that carry this name.
+\de Lama, a clan name from Yongning. There are four families in Yongning that carry this name.
 \ge Lama
 \dn 拉玛：一个姓。这个姓，永宁有四个家
 \gn 拉玛：一个姓
-\df Lama, un nom de clan/famille étendue. Quatre familles portent ce nom à Yongning.
+\df Lama, un nom de clan. Quatre familles portent ce nom à Yongning.
 \gf nom_de_clan
 \xv lɑ˩mɑ˩=ɻ̩˥$
 \xe the Lama |fv{/lɑ˩mɑ˩/} clan, the Lama |fv{/lɑ˩mɑ˩/} family
@@ -31878,11 +31969,11 @@
 \lc lɑ˧tʰɑ˧mi˥
 \so F4
 \va <speaker="M18"> lɑ˧tʰɑ˧mi˥#
-\de A family name from Yongning. There are five families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/ə˧lɑ˧/}.
+\de Latami, a clan name from Yongning. There are five families in Yongning that carry this name. This is one of the first three clans who settled in the vicinity of the Yongning monastery, the other two being |fv{/kɤ˧˥tʰɑ˩/} and |fv{/ə˧lɑ˧/}.
 \ge family_name
 \dn 一个姓。这个姓，永宁有五个家。音译：拉他咪、拉它米。
 \gn 拉他咪
-\df Nom de clan/famille étendue. Cinq familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/ə˧lɑ˧/}.
+\df Latami, nom de clan. Cinq familles portent ce nom à Yongning. C'est l'un des trois premiers clans à s'être établis à proximité du monastère de Yongning, les deux autres étant |fv{/kɤ˧˥tʰɑ˩/} et |fv{/ə˧lɑ˧/}.
 \gf nom_de_clan
 \xv lɑ˧tʰɑ˧mi˧=ɻ̩˥$
 \xe the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} clan, the Latami |fv{/lɑ˧tʰɑ˧mi˥$/} family
@@ -47484,11 +47575,11 @@
 \ton L#
 \lc pɤ˧tʰi˩
 \so F4
-\de Beti, a family name from Yongning. There are two families in Yongning that carry this name.
+\de Beti, a clan name from Yongning. There are two families in Yongning that carry this name.
 \ge Beti
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Beti, nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\df Beti, nom de clan. Deux familles portent ce nom à Yongning.
 \gf Beti
 \xv pɤ˧tʰi˩=ɻ̩˩
 \xe the Beti |fv{/pɤ˧tʰi˩/} clan, the Beti |fv{/pɤ˧tʰi˩/} family
@@ -50069,11 +50160,11 @@
 \ton L#
 \lc qæ˧dzɯ˩
 \so F4
-\de Ghaezzi, a family name from Yongning. There are two families in Yongning that carry this name.
+\de Ghaezzi, a clan name from Yongning. There are two families in Yongning that carry this name.
 \ge Ghaezzi
 \dn 一个姓。这个姓，永宁有两家
 \gn 一个姓
-\df Ghaezzi, un nom de clan/famille étendue. Deux familles portent ce nom à Yongning.
+\df Ghaezzi, un nom de clan. Deux familles portent ce nom à Yongning.
 \gf Ghaezzi
 \xv qæ˧dzɯ˩=ɻ̩˩
 \xe the Ghaezzi |fv{/qæ˧dzɯ˩/} clan, the Ghaezzi |fv{/qæ˧dzɯ˩/} family
@@ -84745,7 +84836,7 @@
 \ton Mα
 \lc tso˧
 \so F4
-\de |fg{volitive.}
+\de |fg{volitive}.
 \ge |fg{volitive}
 \dn 意志
 \gn 意志
@@ -84827,11 +84918,11 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \so F4
-\de Adverbializer, |fg{advb.}
+\de Adverbializer, |fg{advb}.
 \ge |fg{advb}
 \dn 副词化：……地
 \gn 副词化
-\df Adverbialisateur, |fg{advb.}
+\df Adverbialisateur, |fg{advb}.
 \gf |fg{advb}
 \xv gv̩˩dʑɯ˩-zo˥
 \xe sadly, with great sadness
