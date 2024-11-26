@@ -2484,9 +2484,9 @@
 \df Bbaewua, un village proche des Sources Chaudes.
 \gf Bbaewua
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv bæ˧ʁwɤ˧: | nɑ˩˥!
 \xe Bbaewua |fv{/bæ˧ʁwɤ˧/} is a Na village!
 \xn |fv{bæ˧ʁwɤ˧}是一个摩梭人村落！
@@ -3894,7 +3894,7 @@
 \xv bɤ˧-ʐwɤ˧ so˥
 \xe to learn the Pumi language
 \xn 学普米语
-\xf apprendre la langue pumi (prinmi)
+\xf apprendre la langue pumi
 
 \lx bo˩β
 \or bbo
@@ -15445,13 +15445,12 @@
 \so F4
 \va <speaker="F5"> ID.
 \pdv v̩˧
-\de Lover, boy/girl-friend.
+\de Lover, boyfriend, girlfriend.
 \ge lover
 \dn 情人（音译：阿注）
 \gn 情人
-\df Petit ami, petite amie, amant(e).
-\gf amant/amante
-\dt 13/Jun/2017
+\df Petit ami, petite amie, amant·e.
+\gf amant·e
 
 \lx ə˧dze˧
 \or ezzei
@@ -15613,9 +15612,9 @@
 \df Aggowua, an village proche de Wenquan. Latitude: 27.79405, longitude: 100.70133.
 \gf Aggowua
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 
 \lx ə˧gɯ˩
 \sf <nb="2011"> 3306
@@ -17516,7 +17515,7 @@
 \ton H
 \lc gi˧
 \so F4
-\de To fall (snow, rain), to snow/to rain.
+\de To fall (snow, rain), to snow, to rain.
 \ge to_fall(snow/rain)
 \dn 下（雨，雪）
 \gn 下（雨／雪）
@@ -18363,7 +18362,7 @@
 \ge altar_above_the_hearth
 \dn 火炉旁边的祭坛（上面摆礼物等）
 \gn 火炉旁边的祭坛
-\df Autel en contrehaut du foyer, où on dépose les présents qu'apportent les invités/les membres de la famille, les offrant ainsi aux ancêtres.
+\df Autel en contrehaut du foyer, où on dépose les présents qu'apportent membres de la famille et invités, les offrant ainsi aux ancêtres.
 \gf autel_proche_du_foyer
 
 \lx gɤ˩ʁwɤ˧
@@ -18678,7 +18677,7 @@
 \sd <langue="eng"> verb
 \ton Lα
 \so F4
-\de To be satisfied/happy; to feel that things are fair.
+\de To be satisfied, to be happy; to feel that things are fair.
 \ge satisfied
 \dn 满意，幸福，甘心，服气
 \gn 满意
@@ -19677,13 +19676,12 @@
 \ge in_good_order
 \dn 整齐
 \gn 整齐
-\df En ordre/rangé.
+\df En ordre, bien rangé.
 \gf en_ordre
 \xv tso˧~tso˧ | gwɤ˩ʝi˧ tʰi˧-tɕɯ˥
 \xe to put things in good order
 \xn 把东西摆整齐
 \xf mettre des choses en ordre, ranger des choses
-\dt 24/Apr/2017
 
 \lx gwɤ˩α
 \sf <nb="B"> 1146
@@ -20705,11 +20703,11 @@
 \ton H#
 \lc hɑ˧ʂɯ˥
 \so F4
-\de Conjunction borrowed from the Chinese: “still/also…". In Na, it is often used as a gap-filler.
+\de Conjunction borrowed from the Chinese: “still / also…". In Na, it is often used as a gap-filler.
 \ge 还是::still/also
 \dn 还是
 \gn 还是（借词）
-\df Conjonction empruntée au chinois: ‘quand même/aussi…’. En na, elle a fréquemment un emploi explétif.
+\df Conjonction empruntée au chinois: ‘quand même / aussi…’. En na, elle a fréquemment un usage explétif.
 \gf 还是::quand_même/aussi
 
 \lx hæ̃˧ʂɯ˩-pæ˩pʰæ˩
@@ -22200,7 +22198,9 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra"> (d'abord noté dzɯ˩, par erreur, notant “prononcé proche de dʑi˩")
-\nt <dom="sem" langue="fra"> (pas de succès lors d'une tentative d'analyse de l'expression/décomposition)
+\nt <dom="sem" langue="fra"> Il n'a pas été possible à ce jour de décomposer cette expression.
+\nt <dom="sem" langue="eng"> To date, it has not been possible to break down this expression.
+\nt <dom="sem" langue="cmn"> 迄今为止，还无法识别出此形容词的组成语素。
 \ton L
 \so F4
 \va <speaker="M23"> ID.
@@ -23578,7 +23578,7 @@
 \ge to_pack_together
 \dn 捆（捆成捆儿）
 \gn 捆
-\df Attacher, emballer, préparer un fardeau/une charge, constituer un ballot (avec de l'herbe, des objets…), mettre en botte, mettre en ballot.
+\df Attacher, emballer, préparer un fardeau / une charge, constituer un ballot (avec de l'herbe, des objets…), mettre en botte, mettre en ballot.
 \gf attacher
 \xv zɯ˧-wɤ˧ hwɤ˥
 \xe to make a bundle of hay
@@ -25244,7 +25244,7 @@
 \ge yellow_cow
 \dn 黄牛
 \gn 黄牛
-\df Vache/bœuf jaune.
+\df Vache jaune, bœuf jaune.
 \gf vache_jaune
 
 \lx ʝi˧ʁo#˥
@@ -26552,9 +26552,8 @@
 \ge porcelain_plate
 \dn 瓷盘
 \gn 瓷盘
-\df Assiette en faïence/porcelaine.
+\df Assiette en faïence, en porcelaine.
 \gf assiette_en_faïence
-\dt 02/Sep/2015
 
 \lx jɤ˧wo˧˥
 \or ye'uo
@@ -27307,7 +27306,7 @@
 \ge 过::to_happen
 \dn 过
 \gn 过（借词）
-\df Se passer, avoir lieu: les jours passent, la vie se passe; couler (des jours/des années).
+\df Se passer, avoir lieu: les jours passent, la vie se passe; couler (des jours, des années).
 \gf 过::se_passer
 \xv se˧ʐɯ˩ ko˩
 \xe to celebrate a birthday
@@ -27403,7 +27402,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> exemple: kʰwɤ˧ɻæ˧ kʰu˧ (tons vérifiés)
-\de To spread (e.g. to do a bed; to spread/scatter objects all over the floor).
+\de To spread (e.g. to do a bed; to spread objects all over the floor).
 \ge to_spread
 \dn 铺（床……）、铺得满地（果子、工具……）
 \gn 铺
@@ -28373,7 +28372,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> sɯ˩kɤ˧˥ ɖɯ˧ kɤ˧˥
-\de Classifier for sticks/rods.
+\de Classifier for sticks and rods.
 \ge |fg{clf}.sticks
 \dn |fg{量词}：棍子、树枝（一根）
 \gn 量词.树枝
@@ -29312,7 +29311,7 @@
 \so F4
 \va <speaker="M21"> ID.
 \vc <langue="fra" print="n"> lə˧-kv̩˧-ze˥; njɤ˧ kv̩˧˥!
-\vc <langue="fra" print="n"> Le mot se prononcerait de la même façon que le mot prinmi pour “bite"; d'après M21, le mot ferait sursauter les Pumi qui entendent parler na; prononciation en pumi de Yongning: [kv̩˧˥], noté kɯ˧˥ par pʰĩ˥tsʰu˥˩.
+\vc <langue="fra" print="n"> Le mot se prononcerait de la même façon que le mot pumi pour “bite"; d'après M21, le mot ferait sursauter les Pumi qui entendent parler na; prononciation en pumi de Yongning: [kv̩˧˥], noté kɯ˧˥ par pʰĩ˥tsʰu˥˩.
 \de To be able to.
 \ge to_be_able_to
 \dn 会、有能力做
@@ -30274,11 +30273,11 @@
 \ton H$
 \lc kv̩˧tsʰɑ˥
 \so F4
-\de Guca, a family name (that of the Muli feudal lord, belonging to the Pumi/Prinmi ethnic group).
+\de Guca, a clan name (that of the Muli feudal lord, belonging to the Pumi ethnic group).
 \ge Guca
 \dn 一个姓（木里土司，普米族，的姓）
 \gn 一个姓
-\df Guca, nom de clan/famille étendue. Ce nom était celui de la famille des seigneurs (pumi/prinmi) de Muli.
+\df Guca, nom de clan. Ce nom était celui de la famille des seigneurs (pumi) de Muli.
 \gf Guca
 \xv kv̩˧tsʰɑ˧=ɻ̩˥$
 \xe the Guca |fv{/kv̩˧tsʰɑ˥$/} clan, the Guca |fv{/kv̩˧tsʰɑ˥$/} family
@@ -30418,9 +30417,9 @@
 \xn |fv{kʰv̩˧zo˥$}家族
 \xf La famille Kusso |fv{/kʰv̩˧zo˥$/}, les Kusso |fv{/kʰv̩˧zo˥$/}
 \xv kʰv̩˧zo˥-tsʰɯ˩ɻ̩˩
-\xe the name of a person, containing both a family name: Kusso |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
+\xe the name of a person, containing both a clan name: Kusso |fv{/kʰv̩˧zo˥$/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
 \xn 一个人的名字：姓为|fv{kʰv̩˧zo˥$}，名为|fv{tsʰɯ˧ɻ̩#˥}
-\xf nom d'une personne, comportant un nom de famille (Kusso |fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/})
+\xf nom d'une personne, comportant un nom de clan (Kusso |fv{/kʰv̩˧zo˥$/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/})
 \xv kʰv̩˧zo˧=ɻ̩˥, | ɲi˧-ʑi˩, | ɖɯ˧-ɻ̩̃˥!
 \xe There are two families carrying the name Kusso; they make up one clan!
 \xn 姓|fv{kʰv̩˧zo˥$}的，有两家，形成一个家族！
@@ -30726,7 +30725,9 @@
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> (initiales et tons confirmés; vérifié en 2009: est /kʰwæ/ et non /kʰwɤ/); sens vérifié avec M18 en mai 2008
 \nt <type="hist" print="n" langue="fra"> M23: ton d2a (vérifié: chez M23, n'est pas /kʰwæ/)
-\nt <dom="sem" langue="fra"> sens initial: feutre (à base de laine), sur lequel on dormait, et dont on pouvait aussi se revêtir; par extension, désigne tout ce qui sert aujourd'hui au couchage/ce qui sert de matelas, ainsi que les tissus dont on couvre les meubles pour les protéger
+\nt <dom="sem" langue="fra"> Le sens initial était une pièce de feutre (à base de laine), sur lequel on dormait, et dont on pouvait aussi se revêtir. Par extension, le nom désigne tout ce qui sert au couchage, ce qui sert de matelas, ainsi que les tissus dont on couvre les meubles pour les protéger.
+\nt <dom="sem" langue="eng"> The original meaning was: a piece of felt (made of wool) on which people slept, and which they could also cover themselves with. By extension, the name refers to anything used for sleeping, such as mattresses, as well as the fabrics used to cover furniture to protect it.
+\nt <dom="sem" langue="cmn"> 原意：来指一块羊毛毡，人们睡在上面，也可以披上。推而广之，这个名词指的是用当垫子的任何物品，如床垫，以及用来覆盖宝贵家具的织物。
 \ton #H
 \lc kʰwæ˧ɻæ˧
 \so F4
@@ -31646,9 +31647,9 @@
 \xn 拉玛家族
 \xf le clan Lama |fv{/lɑ˩mɑ˩/}, la famille Lama |fv{/lɑ˩mɑ˩/}
 \xv lɑ˩mɑ˩-gv̩˥mɑ˩
-\xe the name of a person, containing both a family name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
+\xe the name of a person, containing both a clan name: Lama |fv{/lɑ˩mɑ˩/}, and a given name: |fv{/gv̩˧mɑ˧/}
 \xn 一个人的名字：姓为拉玛，名为|fv{gv̩˧mɑ˧}
-\xf nom d'une personne, comportant un nom de famille (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
+\xf nom d'une personne, comportant un nom de clan (Lama |fv{/lɑ˩mɑ˩/}) et un prénom (|fv{/gv̩˧mɑ˧/})
 \xv lɑ˩mɑ˩=ɻ̩˥, | ʐv̩˧-ʑi˥, | ɖɯ˧-ɻ̩̃˥!
 \xe There are four families carrying the name Lama; they make up one clan!
 \xn 姓拉玛的，有四家，形成一个家族！
@@ -32811,9 +32812,8 @@
 \ge ritual_for_boys_coming_of_age
 \dn 男性成年礼：直译“穿裤”
 \gn 穿裤礼
-\df Cérémonie pour les garçons atteignant 13 ans: littéralement ‘porter/enfiler/mettre le pantalon’. Après cette cérémonie, l'adolescent porte un pantalon, au lieu du vêtement unisexe des enfants. (Rituel parallèle avec |fv{/ʈʰæ˩ ki˩˥/}, ‘porter/enfiler/mettre la jupe’, pour les jeunes filles.)
+\df Cérémonie pour les garçons atteignant 13 ans: littéralement ‘enfiler le pantalon’. Après cette cérémonie, l'adolescent porte un pantalon, au lieu du vêtement unisexe des enfants. (Rituel parallèle avec |fv{/ʈʰæ˩ ki˩˥/}, ‘enfiler la jupe’, pour les jeunes filles.)
 \gf cérémonie_de_passage_à_l_âge_adulte_pour_garçons
-\dt 24/Apr/2017
 
 \lx ɬi˧ki#˥
 \or Lhigi
@@ -33509,11 +33509,11 @@
 \sd <langue="eng"> classifier
 \ton Lα
 \so F4
-\de Self-classifier for lives/destinies.
+\de Self-classifier for lives, for destinies.
 \ge |fg{clf}.lives
 \dn |fg{量词}：命、命运
 \gn 量词.命
-\df Auto-classificateur des vies/destins.
+\df Auto-classificateur des vies, des destins.
 \gf |fg{clf}.vies
 \xv ʈʂʰɯ˧-ljɤ˥
 \xe |fg{dem} 〜: this life
@@ -33788,13 +33788,12 @@
 \sd <langue="eng"> classifier
 \ton Mβ
 \so F4
-\de Self-classifier for tasks/occupations.
+\de Self-classifier for tasks and occupations.
 \ge |fg{clf}.tasks
 \dn |fg{量词}：事情（一件）、活（一个）
 \gn 量词.事情／活
-\df Auto-classificateur des travaux/occupations.
+\df Auto-classificateur des travaux et occupations.
 \gf |fg{clf}.travaux
-\dt 24/Apr/2017
 
 \lx lo˧bæ˧˥
 \or lobbae
@@ -35727,11 +35726,11 @@
 \ton L#
 \lc to˧bv̩˧di˩
 \so F4
-\de Dobbuddi: a place (yet to be precisely identified: near Fengke?) of high mountains, where living conditions are particularly harsh. A harsh land, reputed among the Na to be populated by tough, hard-working people.
+\de Dobbuddi: a place of high mountains, where living conditions are particularly harsh. A harsh land, reputed among the Na to be populated by tough, hard-working people. The place is yet to be precisely identified: near Luqi (Fengke)?
 \ge Dobbuddi
 \dn 一个生活条件特别恶劣的高山乡（尚未准确确定：可能靠近峰科）。这是一片艰苦的土地，摩梭人认为这里的居民坚韧不拔、勤劳肯干。
 \gn 多部布
-\df Dobbuddi: un canton (qui reste à identifier précisément: à proximité de Fengke/六区?) de hautes montagnes, où les conditions de vie sont particulièrement rudes. Terre dure, réputée, parmi les Na, être peuplée de gens durs, âpres à la tâche.
+\df Dobbuddi: un canton de hautes montagnes, où les conditions de vie sont particulièrement rudes. Terre dure, réputée, parmi les Na, être peuplée de gens durs, âpres à la tâche. Ce lieu reste à identifier précisément: à proximité de Luqi (Fengke)?
 \gf Dobbuddi
 \xv “to˧bv̩˩-di˩ tɕʰi˩-bi˩!” | pi˧-zo˩.
 \xe “We're going to sell you to Dobbuddi!”, [parents] would say! (A threat addressed to a rebellious child, to intimidate him into listening to his parents. The geography of Dobbuddi made it feel like a prison: you were squeezed between high mountains, as if you were locked in: you could neither go down nor up. For the people of the vast plain of Yongning, the steep slopes on all sides created an impression of a hostile, inhospitable place.)
@@ -36753,7 +36752,7 @@
 \ge to_catch_up_with
 \dn 跟上
 \gn 跟上
-\df Rattraper, rejoindre (quelqu'un qui est plus avant sur un chemin/une route).
+\df Rattraper, rejoindre (quelqu'un qui est plus avant sur un chemin, sur une route).
 \gf rejoindre
 
 \lx mi˩˧
@@ -37277,7 +37276,7 @@
 \ton L
 \lc --
 \so F4
-\de Final particle indicating invitation/suggestion to do something.
+\de Final particle indicating invitation or suggestion to do something.
 \ge |fg{invitation}
 \dn 句尾助词：请……
 \gn 句尾助词.请
@@ -40262,11 +40261,11 @@
 \ton M
 \lc mv̩˧
 \so F4
-\de Aspect/mood: the event is about to take place: the event is imminent.
+\de Aspect-mood: the event is about to take place: the event is imminent.
 \ge |fg{imminence}
 \dn 即将、快要、马上会、立即
 \gn 即将
-\df Aspect/mode: l'événement est imminent: sur le point de se produire.
+\df Aspect-mode: l'événement est imminent: sur le point de se produire.
 \gf |fg{imminence}
 \xv tʰv̩˧ mv̩˧ se˧!
 \xe (S)he will soon be walking!
@@ -41416,7 +41415,7 @@
 \ge large_bag
 \dn 大包：用来包装物品的皮包（马帮用的），或者来装尸体的麻布包（为了在火葬前暂时存放尸体）
 \gn 大包
-\df Très grand sac/très grande poche; en cuir, pour emballer les produits que l'on transportait sur de longues distances; s'emploie aussi pour désigner le sac de toile dans lequel on place le corps d'un défunt pendant son inhumation provisoire.
+\df Très grand sac, très grande poche; en cuir, pour emballer les produits que l'on transportait sur de longues distances; s'emploie aussi pour désigner le sac de toile dans lequel on place le corps d'un défunt pendant son inhumation provisoire.
 \gf grand_sac
 \xv jɤ˧ŋɤ˧-ni˧fv̩˥
 \xe Chengdu bag (note: this kind of large, solid bag was often purchased in the area of Chengdu, hence their association with this place name.)
@@ -41916,13 +41915,12 @@
 \ge mouth
 \dn 嘴巴，包括嘴周围的部位：颚等
 \gn 嘴巴
-\df Bouche/pourtour de la bouche (autour des lèvre).
+\df Bouche, pourtour de la bouche (autour des lèvre).
 \gf bouche
 \xv ɲi˧to˧ ʈʂʰwæ˩
 \xe talkative
 \xn 多嘴、拉不断扯不断（直译：“嘴快”）
 \xf bavard (littéralement «bouche rapide»)
-\dt 09/Sep/2015
 
 \lx ɲi˧tʰo#˥
 \or nito
@@ -43228,9 +43226,9 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \nt <type="hist" print="n" langue="fra"> avant 2011: noté ‡njɤ˩ɬi˩gv̩˩, par erreur: 2e syll. d'abord notée ‡ɬi, en précisant “tend à s'amollir en: li - le"; corrigé en 2011 en: /le/
-\nt <dom="phono" langue="fra"> La structure morphémique de ce mot est perçue par la co-autrice comme ‘la journée s'écoule/se déroule' : ‘jour', /|fv{ɲi˥}/, suivi de l'|fg{accompli} et du verbe ‘s'écouler, passer; avoir lieu'. Selon cette interprétation tout à fait plausible, le processus de lexicalisation, menant d'une expression comportant trois morphèmes à un élément lexical unique, est allé de pair avec un changement de voyelle dans la première syllabe, cédant à la pression phonétique vers une harmonie vocalique régressive (tendance clairement à l'œuvre dans la langue).
-\nt <dom="phono" langue="eng"> The morphemic structure of this word is perceived by Mrs. Latami as ‘the day is flowing/going by’: ‘day’, /|fv{ɲi˥}/, followed by the |fg{accomplished} and by ‘to flow, to go by; to take place, to occur (event)’. Under this plausible interpretation, the process of lexicalization of a multi-word expression (a three-morpheme expression) into one lexical item went together with a change in vowel in the first syllable, yielding to phonetic pressure towards regressive vowel harmony (a tendency clearly at play in the language).
-\nt <dom="phono" langue="cmn"> 标准发音合作者认为这个词的语素结构是‘日在流淌/流逝’：‘日’/|fv{ɲi˥}/后面加动词‘过、发生’（|fg{实施}）。根据这种解释，三个语素组成的‘白天’，在词汇化过程中发生过元音和谐，导致第一个音节元音的变化，屈服于元音和谐（这显然是摩梭语中的一种明显语音趋势）。
+\nt <dom="phono" langue="fra"> La structure morphémique de ce mot est perçue par la co-autrice comme ‘la journée s'écoule, se déroule' : ‘jour', /|fv{ɲi˥}/, suivi de l'|fg{accompli} et du verbe ‘s'écouler, passer; avoir lieu'. Selon cette interprétation tout à fait plausible, le processus de lexicalisation, menant d'une expression comportant trois morphèmes à un élément lexical unique, est allé de pair avec un changement de voyelle dans la première syllabe, cédant à la pression phonétique vers une harmonie vocalique régressive (tendance clairement à l'œuvre dans la langue).
+\nt <dom="phono" langue="eng"> The morphemic structure of this word is perceived by Mrs. Latami as ‘the day is flowing, going by’: ‘day’, /|fv{ɲi˥}/, followed by the |fg{accomplished} and by ‘to flow, to go by; to take place, to occur (event)’. Under this plausible interpretation, the process of lexicalization of a multi-word expression (a three-morpheme expression) into one lexical item went together with a change in vowel in the first syllable, yielding to phonetic pressure towards regressive vowel harmony (a tendency clearly at play in the language).
+\nt <dom="phono" langue="cmn"> 标准发音合作者认为这个词的语素结构是‘日在流淌，在流逝’：‘日’/|fv{ɲi˥}/后面加动词‘过、发生’（|fg{实施}）。根据这种解释，三个语素组成的‘白天’，在词汇化过程中发生过元音和谐，导致第一个音节元音的变化，屈服于元音和谐（这显然是摩梭语中的一种明显语音趋势）。
 \ton #H
 \lc njɤ˧le˧gv̩˧
 \cf mv̩˩si˧-njɤ˧˥
@@ -43416,7 +43414,7 @@
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
 \pdc <langue="eng"> |fg{clf} for plants with a stalk
 \pdc <langue="cmn"> 有根的植物的|fg{量词}
-\de Branched horsetail, |fi{Equisetum ramosissimum Desf.} This is a wild herb used in traditional medicine; its stem consists of small segments; when pulled/plucked, the stem breaks at one of these articulations.
+\de Branched horsetail, |fi{Equisetum ramosissimum Desf.} This is a wild herb used in traditional medicine; its stem consists of small segments; when pulled (plucked), the stem breaks at one of these articulations.
 \ge branched_horsetail
 \dn 节节草
 \gn 节节草
@@ -44392,13 +44390,12 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \so F4
-\de With similar mood/frame of mind.
+\de With similar mood, similar frame of mind.
 \ge with_similar_mood
 \dn 心意相通
 \gn 心意相通
 \df En harmonie, à l'unisson.
 \gf en_harmonie
-\dt 25/Apr/2017
 
 \lx nv̩˩mi˩-ʈʰi˩
 \sf <nb="2011"> 1004
@@ -45012,16 +45009,16 @@
 \ton M
 \lc õ˧dɤ˧ɻ̩˧
 \so F4
-\de Foundation, fundamentals.
+\de Foundation, fundamentals; fundamentally.
 \ge foundation
 \dn 根本
 \gn 根本
-\df Fondement/fondamentalement.
+\df Fondement; fondamentalement.
 \gf fondement
 \xv õ˧dɤ˧ɻ̩˧-ɳɯ˧, | hĩ˧ ʈʂʰɯ˧-v̩˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -ɲi˩!
 \xe So that is how he really behaves / does! (Comment on someone whose behaviour is not respectful of good manners)
 \xn 他原来是这样做事情的！／他原来这么不懂事！
-\xf Voilà comment il se comporte en réalité/au fond! (Se dit de quelqu'un dont le comportement est irrespectueux des règles de savoir-vivre)
+\xf Voilà comment il se comporte en réalité / au fond! (Se dit de quelqu'un dont le comportement est irrespectueux des règles de savoir-vivre)
 \xc <dom="phono" langue="fra"> Phonétiquement, /|fv{õ˧dɤ˧ɻ̩˧-ɳɯ˧}/ se réduit à quelque chose comme [|fv{õ˧dɻ̩˧ɳɯ˧}].
 \xc <dom="phono" langue="eng"> Phonetically, /|fv{õ˧dɤ˧ɻ̩˧-ɳɯ˧}/ gets reduced, resembling [|fv{õ˧dɻ̩˧ɳɯ˧}].
 \xc <dom="phono" langue="cmn"> /|fv{õ˧dɤ˧ɻ̩˧-ɳɯ˧}/的实际发音简化，接近[|fv{õ˧dɻ̩˧ɳɯ˧}]。
@@ -45730,13 +45727,12 @@
 \ton Hα
 \lc ɖɯ˧ pæ˥
 \so F4
-\de Classifier for packs/herds (of horses…), troops (of soldiers)…
+\de Classifier for packs (herds) (of horses…), troops (of soldiers)…
 \ge |fg{clf}.troops
 \dn |fg{量词}：马、军人……（一队）
 \gn 量词.群
 \df Troupe (de chevaux, de soldats…).
 \gf |fg{clf}.troupes
-\dt 26/Apr/2017
 
 \lx pʰæ˧˥α
 \sf <nb="B"> 2243
@@ -46363,9 +46359,9 @@
 \df Un village proche des Sources Chaudes.
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv pi˧tsʰe˩: bɤ˩!
 \xe |fv{/pi˧tsʰe˧/} is a Pumi village!
 \xn |fv{pi˧tsʰe˩}是一个普米族村落！
@@ -46464,7 +46460,7 @@
 \ge square
 \dn 方形的
 \gn 方形的
-\df Carré/anguleux (visage, pilier…).
+\df Carré, anguleux (visage, pilier…).
 \gf carré
 \xv tɑ˧-pjɤ˧~pjɤ˥ (-zo˩)
 \xe (of a face or object) unpleasantly squarish, lacking smoothness
@@ -46569,7 +46565,7 @@
 \ge to_harrow
 \dn 耙地
 \gn 耙地
-\df Passer la herse, aplanir (à l'aide d'une herse/instrument permettant de lisser le champ après labourage, afin qu'il soit prêt pour qu'on y repique le riz).
+\df Passer la herse, aplanir (à l'aide d'une herse ou autre instrument permettant de lisser le champ après labourage, afin qu'il soit prêt pour qu'on y repique le riz).
 \gf passer_la_herse
 \xv ʝi˧ pɤ˥
 \xe to harrow
@@ -46787,9 +46783,8 @@
 \ge |fg{clf}.pieces_of_carpentry
 \dn |fg{量词}：木工件，如梯子、门等等（一扇门，一把梯子）
 \gn 量词.木工件
-\df Classificateur des éléments de menuiserie/charpente: échelles, portes…
+\df Classificateur des éléments de menuiserie et charpente: échelles, portes…
 \gf |fg{clf}.éléments_de_charpente
-\dt 27/Apr/2017
 
 \lx pɤ˥β
 \or be
@@ -46900,9 +46895,9 @@
 \df Bejjaddi, un village proche des Sources Chaudes, au nord de Wuadu. Latitude: 27.82149, longitude: 100.66728.
 \gf nom_de_village
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \dt 27/Apr/2017
 
 \lx pɤ˩dʑɯ˩
@@ -47089,7 +47084,7 @@
 \ge steamer_for_buns
 \dn 用来蒸面团（馒头等等）的蒸笼
 \gn 馒头蒸笼
-\df Étuve pour cuire la pâte/le pain.
+\df Étuve pour cuire la pâte, les petits pains.
 \gf étude_pour_petits_pains
 
 \lx pʰo˩lɑ˧˥
@@ -47753,9 +47748,8 @@
 \ge |fg{clf}.plants_with_stems
 \dn |fg{量词}：有根的植物，衣服（一棵，一件）
 \gn 量词.植物／衣服
-\df Classificateur des plantes à tiges (fleurs, poireaux…); aussi utilisé pour compter les types/catégories de vêtements.
+\df Classificateur des plantes à tiges (fleurs, poireaux…); aussi utilisé pour compter les types de vêtements, les catégories de vêtements.
 \gf |fg{clf}.plantes_à_tige
-\dt 27/Apr/2017
 
 \lx pɤ˩α
 \sf <nb="2011"> 107
@@ -48159,11 +48153,11 @@
 \lc ɖɯ˧ pv̩˧˥
 \sy tʰv̩˧˥α
 \so F4
-\de Classifier for steps / strides.
+\de Classifier for steps, for strides.
 \ge |fg{clf}.strides
 \dn |fg{量词}：步
 \gn 量词.步
-\df Classificateur des pas/enjambées.
+\df Classificateur des pas, des enjambées.
 \gf |fg{clf}.pas
 \xv ɖɯ˧-pv̩˧~ɖɯ˥-pv̩˩
 \xe step by step, slowly, carefully
@@ -48373,7 +48367,7 @@
 \sd <langue="eng"> verb
 \ton Lβ
 \lc pʰɻ̩˩˥
-\nt <dom="sem" langue="eng"> In the Wualabbi dialect, the verb is reported (by Siggeema, F22) to express the idea of people dispersing (throughout the land/world) due to population increase. (Growth naturally tends to be accompanied by spatial expansion.) There is a sense of movement, as well as multiplication. In the Alawua dialect, on the other hand, the term does not by itself describe dispersion.
+\nt <dom="sem" langue="eng"> In the Wualabbi dialect, the verb is reported (by Siggeema, F22) to express the idea of people dispersing (throughout the land) due to population increase. (Growth naturally tends to be accompanied by spatial expansion.) There is a sense of movement, as well as multiplication. In the Alawua dialect, on the other hand, the term does not by itself describe dispersion.
 \nt <dom="sem" langue="fra"> Dans le dialecte de Wualabbi, Siggeema (F22) relève que le verbe exprime l'idée d'une dispersion (dans le voisinage, et dans le vaste monde) en raison de l'augmentation de la population. La croissance tend naturellement à s'accompagner d'une expansion spatiale. Dans le dialecte d'Alawua, en revanche, le terme ne décrit pas par lui-même une dispersion.
 \nt <dom="sem" langue="cmn"> 据Siggeema（F22）报道，在老温泉方言中，该动词表达的意思是由于人口增长，人们分散、去不同的地方定居。而在阿拉瓦方言中，该词本身并不描述分散。
 \so F4
@@ -48617,7 +48611,7 @@
 \ge dry_land
 \dn 旱地
 \gn 旱地
-\df Champ sec/pluvial.
+\df Champ sec, champ pluvial.
 \gf champ_pluvial
 
 \lx pɻ̩˩mi˩
@@ -49025,7 +49019,7 @@
 \ge to_allow/to_require
 \dn 让，安排，投资，要求
 \gn 让／安排
-\df Autoriser (par exemple: un mariage); demander (à quelqu'un de faire quelque chose), faire faire; commanditer, être commanditaire/investisseur (par exemple: pour une caravane).
+\df Autoriser (par exemple: un mariage); demander (à quelqu'un de faire quelque chose), faire faire; commanditer, être commanditaire, être investisseur (par exemple: pour une caravane).
 \gf autoriser/demander
 \xv sɯ˧pʰi˧-ɳɯ˧ | pɻ̩˩-kʰɯ˥-ɲi˩!
 \xe It was the feudal lord who financed (the caravan)!
@@ -49594,7 +49588,7 @@
 \ge to_go_brown
 \dn 糊、变黑（高温让油、食物变黑，变糊了）
 \gn 变黑
-\df Brûler, griller, noircir: la graisse chauffée à feu vif noircit, fume et donne de l'acroléine; le riz devient sec, très/trop cuit. La nourriture reste comestible.
+\df Brûler, griller, noircir: la graisse chauffée à feu vif noircit, fume et donne de l'acroléine; le riz devient sec, trop cuit. La nourriture reste comestible.
 \gf noircir
 \xv le˧-qʰæ˧-ze˥
 \xe |fg{accomp} 〜 |fg{pfv}: has burnt, has gone brown
@@ -50171,9 +50165,9 @@
 \xn |fv{qæ˧dzɯ˩}家族
 \xf le clan Ghaezzi |fv{/qæ˧dzɯ˩/}, la famille Ghaezzi |fv{/qæ˧dzɯ˩/}
 \xv qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧
-\xe the name of a person, containing both a family name: Ghaezzi |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
+\xe the name of a person, containing both a clan name: Ghaezzi |fv{/qæ˧dzɯ˩/}, and a given name: |fv{/tsʰɯ˧ɻ̩#˥/}
 \xn 一个人的名字：姓为|fv{qæ˧dzɯ˩}，名为|fv{tsʰɯ˧ɻ̩#˥}
-\xf Nom d'une personne, comportant un nom de famille (Ghaezzi |fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/}).
+\xf Nom d'une personne, comportant un nom de clan (Ghaezzi |fv{/qæ˧dzɯ˩/}) et un prénom (|fv{/tsʰɯ˧ɻ̩#˥/}).
 \xc <langue="fra" dom="ton"> Le nom n'est pas traité comme formant un seul groupe tonal, mais comme comportant deux groupes tonals: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. S'il ne comportait qu'un seul groupe tonal, les deux dernières syllabes verraient leur ton abaissé à L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
 \xc <langue="eng" dom="ton"> The name is not treated as one tone group, but as two tone groups: /|fv{qæ˧dzɯ˩ | -tsʰɯ˧ɻ̩˧}/. If it consisted of only one tone group, the last two syllables would have their tones lowered to L: /‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/.
 \xc <langue="cmn" dom="ton"> 该名字不作为一个声调组，而是作为两个声调组：/|fv{qæ˧dzɯ˩|-tsʰɯ˧ɻ̩˧}/。如果它只有一个声调组，那么最后两个音节的声调将降为L：/‡|fv{qæ˧dzɯ˩-tsʰɯ˩ɻ̩˩}/。
@@ -50594,13 +50588,12 @@
 \pdc <langue="fra"> |fg{clf} des objets allongés
 \pdc <langue="eng"> |fg{clf} for elongated objects
 \pdc <langue="cmn"> 用于细长物体的|fg{量词}
-\de Small trench/canal.
+\de Small trench, small canal.
 \ge small_canal
 \dn 小水渠
 \gn 小水渠
 \df Petit canal.
 \gf petit_canal
-\dt 01/Oct/2015
 
 \lx qæ˩α
 \sf <nb="B"> 1302
@@ -51090,11 +51083,11 @@
 \lc qo˩ho˧˥
 \so F4
 \pdv ɭɯ˧β
-\de Round wicker/bamboo box used to carry gifts.
+\de Round wicker or bamboo box used to carry gifts.
 \ge gift_box
 \dn 礼盒
 \gn 礼盒
-\df Boîte en vannerie ronde, dans laquelle on place les cadeaux qu’on vient offrir. Cette boîte est formée de deux parties qui s’ajustent l'une sur l'autre. On la porte lorsqu'on se rend chez quelqu'un dans le cadre d'un événement social important. Une photo de cet objet est présente dans le rapport d'enquête de terrain publié en 1986 en 3 volumes (|fn{永宁纳西族……调查}).
+\df Boîte en vannerie ronde, dans laquelle on place les cadeaux qu’on vient offrir. Cette boîte est formée de deux parties qui s’ajustent l'une sur l'autre. On la porte lorsqu'on se rend chez quelqu'un dans le cadre d'un événement social important. Une photo de cet objet est présente dans le rapport d'enquête de terrain publié en 1986 en trois volumes (|fn{永宁纳西族……调查}).
 \gf boîte_à_cadeaux
 \xv le˧-bi˩-dʑo˩, | tʰv̩˧-ɲi˧-dʑo˩, | qo˩ho˧ pɤ˧~pɤ˥-zo˩-kv̩˩-ze˩ ◊ mæ˩!
 \xe So when we go, on that day, we have to take the gift box with us!
@@ -51277,7 +51270,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> vérifié: initiale uvulaire et non vélaire
 \nt <dom="sem" langue="fra"> Littéralement: «la bouche est sèche».
-\nt <dom="sem" langue="eng"> Literal translation: “dry-mouthed/the mouth is dry”.
+\nt <dom="sem" langue="eng"> Literal translation: “dry-mouthed / the mouth is dry”.
 \nt <dom="sem" langue="cmn"> 直译：‘口干’。
 \so F4
 \va <speaker="F5"> ID.
@@ -52302,7 +52295,7 @@
 \ge message
 \dn 信息、话
 \gn 信息
-\df Message, parole/récit (monosyllabe).
+\df Message, parole, récit (monosyllabe).
 \gf message
 \xv qʰwæ˧ | ɖɯ˧-kʰwɤ˧ ʐwɤ˧˥
 \xe to tell something, to deliver a piece of information
@@ -54282,7 +54275,7 @@
 \ge to_browbeat
 \dn 欺负
 \gn 欺负
-\df Provoquer/humilier.
+\df Provoquer; humilier.
 \gf provoquer/humilier
 \xv ʈʂʰɯ˧-v̩˧ | hĩ˧-ki˧ ʁɑ˧-ʐwɤ˧-ʝi˥!
 \xe (s)he is picking on someone
@@ -54715,7 +54708,7 @@
 \ge |fg{clf}.sorts
 \dn |fg{量词}：种
 \gn 量词.种
-\df Classificateur des variétés/sortes de choses.
+\df Classificateur des variétés de choses, des sortes de choses.
 \gf |fg{clf}.variétés
 \xv ɖɯ˧-ʁo˩
 \xe one type (of clothing, food…)
@@ -56436,9 +56429,9 @@
 \df Wualabbi, un village de la plaine de Yongning, où se trouvent des sources d'eau chaude (d'où le nom chinois: Sources Chaudes, |fn{温泉}). Il est peuplé de Na et de Pumi. Latitude: 27.82334, longitude: 100.69718.
 \gf Wualabbi
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 
 \lx ʁwɤ˧qʰv̩˧
 \sf <nb="B"> 35
@@ -56539,9 +56532,9 @@
 \xn 同上
 \xf même sens
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv ʁwɤ˧tv̩˧: | bɤ˧!
 \xe Wuadu |fv{/ʁwɤ˧tv̩˧/} is a Pumi village!
 \xn 瓦都村是一个普米族村落！
@@ -56561,7 +56554,7 @@
 \ge Wuaru(Qiansuo)
 \dn 四川省凉山州盐源县前所乡。经纬度：100.77927，27.82267
 \gn 前所
-\df Wuaru: le village de Qiansuo (localité perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques/emprunts/mélanges). Latitude: 27.82267, longitude: 100.77927.
+\df Wuaru: le village de Qiansuo (localité perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois (Han), en plus des Na, d'où des contacts linguistiques, des emprunts, et des mélanges de dialectes). Latitude: 27.82267, longitude: 100.77927.
 \gf Wuaru(Qiansuo)
 \xv ʁwɤ˧ʐv̩˧, | jɤ˧qʰɑ˧ dʑɤ˥; | hwɤ˧li˧-hɑ˧ mɤ˧-dʑo˧˥!
 \xc PROVERBE
@@ -56595,7 +56588,7 @@
 \ge Wuaru_Lomae(Qiansuo)
 \dn 四川省凉山州盐源县前所乡。经纬度：100.77927，27.82267
 \gn 前所
-\df Wuaru-Lomae: le village de Qiansuo. (Nom formé des deux appellations synonymes ‘Wuaru’ et ‘Lomae’.) La localité est perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois/Han, en plus des Na, d'où des contacts linguistiques, emprunts, et mélanges de dialectes. Latitude: 27.82267, longitude: 100.77927.
+\df Wuaru-Lomae: le village de Qiansuo. (Nom formé des deux appellations synonymes ‘Wuaru’ et ‘Lomae’.) La localité est perçue par Mme Latami comme comportant beaucoup de Yi, et des Chinois (Han), en plus des Na, d'où des contacts linguistiques, des emprunts, et des mélanges de dialectes. Latitude: 27.82267, longitude: 100.77927.
 \gf Wuaru_Lomae(Qiansuo)
 
 \lx ʁwɤ˧α
@@ -57277,7 +57270,7 @@
 \ge |fg{clf}.thing
 \dn |fg{量词}：样，如：‘一样都没有’
 \gn 量词.样
-\df Classificateur des choses/objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
+\df Classificateur des choses, des objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
 \gf |fg{clf}.choses(en_tournure_négative)
 \xv ɖɯ˧-sɑ˥ | mɤ˧-dʑo˧!
 \xe There is simply nothing at all! (A polite statement made by the host when welcoming a guest for a meal, apologizing, in self-deprecation, for not offering a meal commensurate to one's wishes.)
@@ -57543,7 +57536,7 @@
 \ge marijuana
 \dn 大麻
 \gn 大麻
-\df Chanvre indien, kanja, marijuana, |fi{Cannabis indica} (plante euphorisante/psychotrope, qui est également comestible: les Na en tiraient de l'huile).
+\df Chanvre indien, kanja, marijuana, |fi{Cannabis indica} (plante euphorisante, psychotrope, qui est également comestible: les Na en tiraient de l'huile).
 \gf marijuana
 \xv sɑ˩mi˩-mæ˩ɻæ˥, | dzɯ˧-kv̩˩!
 \xe Cannabis oil is edible!
@@ -59849,7 +59842,7 @@
 \ge |fg{clf}.thing
 \dn |fg{量词}：样东西，如：‘一样东西都没有’
 \gn 量词.样
-\df Classificateur des choses/objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
+\df Classificateur des choses, des objets, utilisé seulement en tournure négative: ‘quoi que ce soit'.
 \gf |fg{clf}.choses(en_tournure_négative)
 \xv ɖɯ˧-so˥ | mɤ˧-dʑo˧!
 \xe There is simply nothing at all! (A polite statement made by the host when welcoming a guest for a meal, apologizing, in self-deprecation, for not offering a meal commensurate to one's wishes.)
@@ -64209,7 +64202,7 @@
 \ge |fg{clf}.groups
 \dn |fg{量词}：和尚（一帮、一班）
 \gn 量词.班（和尚）
-\df Auto-classificateur des classes/groupes (de prêtres).
+\df Auto-classificateur des classes, des groupes (de prêtres).
 \gf |fg{clf}.classes
 \xv ɖɯ˧-ʈæ˩tsʰo˩
 \xe a group (of monks)
@@ -64488,7 +64481,7 @@
 \ge precise/exact
 \dn 严肃认真、细心、细致，（看得）清楚、清晰
 \gn 细致
-\df Sérieux, attentif, soigneux; exact, précis (une chaussure convient précisément à un pied; quelqu'un observe avec précision/exactitude).
+\df Sérieux, attentif, soigneux; exact, précis (une chaussure convient précisément à un pied; quelqu'un observe avec précision, avec exactitude).
 \gf précis/exact
 \xv mɤ˧-tɑ˧~tɑ˧
 \xe |fg{neg} 〜: sloppy, not careful
@@ -64537,7 +64530,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; auparavant, noté: “ʈʰæ˩ʈʰæ˩˧, tons confirmés, n'est pas ˧ ˧˥")
-\nt <dom="sem" langue="fra"> Ce mot est perçu comme sans lien étymologique/sémantique avec le verbe ‘mordre' (perçu comme simple homophone).
+\nt <dom="sem" langue="fra"> Ce mot est perçu comme sans lien étymologique ni sémantique avec le verbe ‘mordre' (perçu comme simple homophone).
 \ton MH
 \lc ʈʰæ˩ʈʰæ˧˥
 \so F4
@@ -64594,7 +64587,7 @@
 \ge rubber_shoes
 \dn 橡胶鞋、橡胶底鞋、运动鞋。
 \gn 橡胶鞋
-\df Chaussures à semelle en gomme/en caoutchouc; baskets
+\df Chaussures à semelle en gomme, en caoutchouc; baskets
 \gf chaussures_en_caoutchouc
 
 \lx tɕæ˧pʰɻ̩˩
@@ -65045,7 +65038,7 @@
 \ge prinsepia
 \dn 青刺果、青刺尖、阿娜斯果
 \gn 青刺果
-\df Prinsepia, |fi{Prinsepia utilis Royle}; végétal qui sert pour bâtir des haies, à grosses épines, petites fleurs jaunes, et tige verte vernissée. On tire de ses graines une huile de grand prix, utilisée dans des préparations alimentaires et comme cosmétique/huile de massage.
+\df Prinsepia, |fi{Prinsepia utilis Royle}; végétal qui sert pour bâtir des haies, à grosses épines, petites fleurs jaunes, et tige verte vernissée. On tire de ses graines une huile de grand prix, utilisée dans des préparations alimentaires et comme cosmétique et huile de massage.
 \gf prinsepia
 \xv tɕʰi˧nɑ˥-dzi˩
 \xe prinsepia plant
@@ -68549,7 +68542,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Classifier for times: n times as many/much as…
+\de Classifier for times: n times as many / as much as…
 \ge |fg{clf}.times
 \dn |fg{量词}：倍（多几倍、少几倍等等）
 \gn 量词.倍
@@ -68861,9 +68854,9 @@
 \nt <dom="sem" langue="cmn"> 地理坐标（经纬度）的确定还有待确认：地图上的地点被称为‘拖且’，而这个地名的传统汉语音译则为‘拖其’。
 \gf Tocei
 \xv ə˧go˧-ʁwɤ˧, | ʁwɤ˧lɑ˩-bi˩, | bæ˧ʁwɤ˧, | tʰo˧tsʰe#˥, | pi˧tsʰe˩-di˩, | pɤ˧dʑɤ˩-di˩, | ʁwɤ˧tv̩˧
-\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi (Prinmi); the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
+\xe Seven villages that one encounters as one leaves the plain of Yongning (towards the Lake); the first two are perceived as villages with a high proportion of Na members, and the third as a mostly Na village, whereas the next two are Pumi; the last used to be predominantly Pumi, but as of the 2010s, it had an important Chinese (Han) population.
 \xn 永宁背向泸沽湖方向经过的七个村落：阿古瓦、瓦拉比、巴瓦、拖其、比其地、巴甲地、瓦都。前两个村落拥有相当大的摩梭人口比例，第三主要是摩梭村。拖其、比其地、巴甲地是普米村。瓦都，过去主要是普米族村，到了2010年代有了相当多的汉族人口。
-\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi/prinmi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
+\xf Sept villages au sortir de la plaine de Yongning, dans la direction du Lac; les deux premiers comportent une population na; le troisième est un village na; les deux suivants sont essentiellement des villages pumi; le dernier était un village pumi, et a désormais (dans les années 2010) une importante population chinoise (han).
 \xv tʰo˧tsʰe˧: | bɤ˧!
 \xe Tocei |fv{/tʰo˧tsʰe˧/} is a Pumi village!
 \xn 拖其村是一个普米族村落！
@@ -69420,7 +69413,7 @@
 \nt <type="hist" print="n" langue="fra"> avant septembre 2012: noté: /‡mv̩˩-tɕo˧ tsɑ˧/
 \ton MH
 \so F4
-\de To lay (up/down), to place.
+\de To lay (up or down), to place.
 \ge to_lay
 \dn 放置、放下
 \gn 放置
@@ -71654,7 +71647,7 @@
 \ge |fg{clf}.widths
 \dn |fg{量词}：一面（墙）
 \gn 量词.一面（墙）
-\df Classificateur pour les murs, et donc pour la largeur de toute une pièce: un buffet/placard occupe toute la largeur d'une pièce, par exemple.
+\df Classificateur pour les murs, et donc pour la largeur de toute une pièce: un buffet ou un placard occupe toute la largeur d'une pièce, par exemple.
 \gf |fg{clf}.largeur_d_une_pièce
 
 \lx tsi˥
@@ -72017,9 +72010,8 @@
 \ge small_bird_sp
 \dn 一种小鸟
 \gn 一种小鸟
-\df Petit oiseau de couleur bleue/verte.
+\df Petit oiseau de couleur bleue-verte.
 \gf petit_oiseau_sp
-\dt 27/Oct/2016
 
 \lx tsi˩ɭɯ˩=bv̩˥ | -qʰæ˩bæ˩˥
 \sf <nb="2011"> 3275
@@ -74306,9 +74298,8 @@
 \ge |fg{clf}.handfuls/balls
 \dn |fg{量词}：团，掐。指的是一只手里能拿的量，压成团，如：手里拿煮熟的粮食，压成饭团。
 \gn 量词.掐／团
-\df Classificateur des boules/poignées: la quantité que l'on compacte en la serrant dans une main, par exemple une poignée de céréale cuite qu'on compresse en boule.
+\df Classificateur des boules, des poignées: la quantité que l'on compacte en la serrant dans une main, par exemple une poignée de céréale cuite qu'on compresse en boule.
 \gf |fg{clf}.poignées/boules
-\dt 27/Apr/2017
 
 \lx tsɯ˧
 \hm 1
@@ -74375,7 +74366,7 @@
 \ton MH
 \lc tsɯ˧˥
 \so F4
-\de Reported/hearsay evidential: the speaker indicates that they are not in a position to vouch personally for what they are saying, that it is based on indirect knowledge, from hearsay.
+\de Reported (hearsay) evidential: the speaker indicates that they are not in a position to vouch personally for what they are saying, that it is based on indirect knowledge, from hearsay.
 \ge |fg{rep}
 \dn 传闻据素：据说……说话的人表示，她无法亲自为自己保证所说的话是准确，她所说的话是基于间接了解，根据别人的报告。
 \gn 传闻据素
@@ -74522,7 +74513,7 @@
 \ge goat
 \dn 山羊
 \gn 山羊
-\df Chèvre/bouc.
+\df Chèvre, bouc.
 \gf chèvre/bouc
 
 \lx ʈʂɯ˧
@@ -75256,9 +75247,8 @@
 \ge to_block_up
 \dn 堵塞、塞住洞口
 \gn 堵塞
-\df Boucher/être bouché; obstruer (par exemple: obstruer l'entrée d'un trou).
+\df Boucher, obstruer (par exemple: obstruer l'entrée d'un trou); être bouché.
 \gf boucher
-\dt 27/Apr/2017
 
 \lx tsɯ˧α
 \hm 1
@@ -75369,7 +75359,7 @@
 \ge peaceful
 \dn 平和的（生肖）
 \gn 平和的
-\df Paisible, aimable, pacifique, doux (signe astrologique); s'emploie au sujet des signes astrologiques: certains sont considérés comme ‘paisibles', comme le Bœuf, le Lapin et la Chèvre, ce qui rend les personnes nées cette année-là appropriées pour certains rites/certaines tâches (par exemple: lors du rite de passage à l'âge adulte), et au contraire non appropriées pour d'autres.
+\df Paisible, aimable, pacifique, doux (signe astrologique); s'emploie au sujet des signes astrologiques: certains sont considérés comme ‘paisibles', comme le Bœuf, le Lapin et la Chèvre, ce qui rend les personnes nées cette année-là appropriées pour certains rites et certaines tâches (par exemple: lors du rite de passage à l'âge adulte), et au contraire non appropriées pour d'autres.
 \gf paisible
 \xv kʰv̩˧ ʈʂv̩˧˥
 \xe a peaceful, soft astrological sign, such as the Ox, the Rabbit and the Goat
@@ -77043,9 +77033,8 @@
 \ge |fg{clf}.large_chunks
 \dn |fg{量词}：大块，如：一块肉，从一个人的份到几公斤的重量
 \gn 量词.大块
-\df Classificateur des quartiers/pièces: morceaux de taille supérieure à une bouchée. Il peut s'agir d'un morceau de viande qu'on donne à un convive, et qui se mange en plusieurs bouchées, mais aussi d'un gros quartier de viande (plusieurs kilos).
+\df Classificateur des quartiers et des pièces:des morceaux de taille supérieure à une bouchée. Il peut s'agir d'un morceau de viande qu'on donne à un convive, et qui se mange en plusieurs bouchées, mais aussi d'un gros quartier de viande (plusieurs kilos).
 \gf |fg{clf}.quartiers
-\dt 27/Apr/2017
 
 \lx tv̩˧ɕi˩
 \sf <nb="B"> 1806
@@ -77810,13 +77799,12 @@
 \ge to_sing
 \dn 啼，鸡叫
 \gn 啼
-\df Le coq chante/fait cocorico; un oiseau chante.
+\df Le coq chante, le coq fait cocorico; un oiseau chante.
 \gf chanter(oiseau)
 \xv æ̃˩ ʈwɤ˧ (+ze˧)
 \xe The cock sings.
 \xn 鸡叫。
-\xf Le coq chante/fait cocorico.
-\dt 27/Apr/2017
+\xf Le coq chante, le coq fait cocorico.
 
 \lx u˧
 \or o
@@ -77831,11 +77819,11 @@
 \nt <dom="phono" langue="eng"> Phonetically, the word starts with a glottal stop: [|fv{ʔu˧}]. Realization as [|fv{wu}] or [|fv{wo}] is deemed incorrect by Mrs. Latami and by consultant Ddeezzhi. Hence notation as /|fv{u}/, not /|fv{wo}/.
 \ton M
 \so F4
-\de First person, associative: my family/my people. This root is only attested together with a plural or associative clitic.
+\de First person, associative: my family, my people. This root is only attested together with a plural or associative clitic.
 \ge |fg{1associative}
 \dn 我家人
 \gn 我家人
-\df Pronom de 1e personne, associatif: les miens. Cette racine n'apparaît qu'en combinaison avec un clitique pluriel ou associatif.
+\df Pronom de première personne, associatif: les miens. Cette racine n'apparaît qu'en combinaison avec un clitique pluriel ou associatif.
 \gf |fg{1associatif}
 \xv u˧=ɻ̩˩, ʈʂʰɯ˧=ɻ̩˩
 \xe My clan, his clan: two terms that stand in a relation of opposition
@@ -78702,7 +78690,7 @@
 \ge |fg{clf}.loads
 \dn |fg{量词}：担，负荷
 \gn 量词.担
-\df Classificateur des charges/fardeaux qu'une personne peut porter.
+\df Classificateur des charges, des fardeaux qu'une personne peut porter.
 \gf |fg{clf}.fardeaux
 \xv ɖɯ˧-wɤ˩ pɤ˩~pɤ˩
 \xe to carry a load
@@ -79253,9 +79241,8 @@
 \ge felt_mat
 \dn 毡子（真正的毡子）做的垫子
 \gn 毡子做的垫子
-\df Natte en feutre. Le terme désigne spécifiquement les nattes/matelas/tissus en feutre véritable, par opposition avec le sens étendu que peut avoir |fv{/kʰwæ˧ɻæ#˥/}.
+\df Natte en feutre. Le terme désigne spécifiquement les nattes, matelas et tissus en feutre véritable, par opposition avec le sens étendu que peut avoir |fv{/kʰwæ˧ɻæ#˥/}.
 \gf natte_en_feutre
-\dt 14/Jul/2017
 
 \lx ʐæ˩tsɯ˧˥
 \sf <nb="B"> 47b
@@ -80129,11 +80116,11 @@
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
-\de The person in charge of the house, the master/mistress of the house.
+\de The person in charge of the house, the master or mistress of the house.
 \ge master/mistress_of_the_house
 \dn 一家之主、家长
 \gn 一家之主
-\df La personne qui s'occupe de la maison, le maître/la maîtresse de céans.
+\df La personne qui s'occupe de la maison, le maître ou la maîtresse de céans.
 \gf maître/maîtresse_de_céans
 
 \lx ʑi˩hṽ̩#˥
@@ -80246,7 +80233,7 @@
 \ton M
 \so F4
 \pdv ɭɯ˧β
-\de The main building of the house/farm: the building where the hearth is located.
+\de The main building of the house, of the farm: the building where the hearth is located.
 \ge main_building
 \dn 家里有火塘的那个房子（“祖母房”）。汉语音译：‘依咪’。
 \gn 家里的主房
@@ -80506,13 +80493,12 @@
 \ton LM+#H
 \so F4
 \pdv ɭɯ˧β
-\de Infant monkey/ape.
+\de Infant monkey, infant ape.
 \ge baby_monkey
 \dn 小猴子
 \gn 小猴子
 \df Petit singe.
 \gf petit_singe
-\dt 27/Apr/2017
 
 \lx ʑi˧α
 \sf <nb="B"> 1408
@@ -80608,13 +80594,12 @@
 \ge noon/lunch
 \dn 中午
 \gn 中午
-\df Midi; repas de midi/déjeuner.
+\df Midi; repas de midi, déjeuner.
 \gf midi/déjeuner
 \xv ʐo˩ dzɯ˩˥
 \xe to have lunch
 \xn 吃午饭
 \xf prendre son déjeuner
-\dt 08/May/2017
 
 \lx ʐɤ˩˧
 \sf <nb="2011"> 77
@@ -80909,7 +80894,7 @@
 \xf Contexte: on va couper du bois en montagne, à un endroit où il n'y a pas de chemin. Les gens se succèdent, et cela finit par ouvrir un chemin/former une sorte de chemin
 \sn 2
 \so M18
-\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his/her soul and guide him/her back to the place where his/her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
+\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his or her soul and guide him or her back to the place where his or her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
 \ge Remi.epic
 \dn 达巴口诵经典《仁咪经》。拉他咪王勇解释：《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
 \gn 《仁咪经》
@@ -81376,13 +81361,12 @@
 \ton Lγ
 \lc ɖɯ˧ ʐɤ˩
 \so F4
-\de Classifier for lines/patterns (in weaving, drawing, painting…).
+\de Classifier for lines and patterns (in weaving, drawing, painting…).
 \ge |fg{clf}.patterns
 \dn |fg{量词}：图案（画画或织布）（一个）
 \gn 量词.图案
 \df Classificateur des motifs, tracés, lignes, dans les dessins, peintures et tissages.
 \gf |fg{clf}.motifs
-\dt 27/Apr/2017
 
 \lx ʐo˩~ʐo˧˥
 \sf <nb="2011"> 2256
@@ -81654,7 +81638,7 @@
 \ge to_shake(earthquake)
 \dn 地震
 \gn 地震
-\df Tremblement de terre/la terre tremble.
+\df Tremblement de terre; la terre tremble.
 \gf trembler(terre)
 \xv ʐɯ˧ɭɯ˧-ze˧!
 \xe There is an earthquake!
@@ -82126,7 +82110,7 @@
 \va <speaker="M18"> ʐwɑ˧kʰɯ˧
 \vc <langue="fra" print="n"> Non reconnu par Mme Latami.
 \pdv v̩˧
-\de The Pumi (Prinmi) people of the mountains.
+\de The Pumi people of the mountains.
 \ge Pumi_of_mountains
 \dn 高山普米族（永宁以北地区：木里等）
 \gn 高山普米族
