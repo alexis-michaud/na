@@ -19950,18 +19950,19 @@
 \mr hæ˧
 \mr -di˩
 \ps n
+\sy hæ˧-mv̩˧ hæ˧-di˧˥
 \lc hæ˧di˩
 \sd <langue="fra"> lieux
 \sd <langue="eng"> places
 \ton -L
 \sn 1
 \so F4
-\de (Han) Chinese territory: Chengdu, Kunming…
+\de (Han) Chinese territory: Kunming, Chengdu…
 \ge Chinese_territory
-\dn 汉族地区，包括成都、昆明等等
+\dn 汉族地区，包括昆明昆明、成都等等
 \gn 汉族地区
-\df Homme chinois (han); terme péjoratif: littéralement ‘idiot de Chinois'
-\gf Chinois(péjoratif)
+\df Les territoires des Chinois (Han): Kunming, Chengdu…
+\gf territoires_chinois
 \sn 2
 \de The South. Extended from the literal meaning of “(Han) Chinese territory”, because the city of Kunming, located to the South, is a major centre, as seen from early 21st-century Yongning. Yongning is part of Yunnan, the provincial capital (where students can aspire to go to University, in particular) is Kunming.
 \ge the_South
@@ -19970,13 +19971,23 @@
 \df Le Sud. Extension du sens littéral de «territoire chinois», sans doute du fait que la ville de Kunming, située au sud, est un centre important, vu depuis Yongning au début du XXIe siècle. Yongning fait partie du Yunnan, dont la capitale est Kunming (où les lycéens aspirent à aller à l'Université).
 \gf le_Sud
 
-\xe ; used to mean ‘the south'
-\xn ，来代指南方
-\xf le territoire des Chinois (Han): Chengdu, Kunming… L'expression est également employée pour désigner la direction du sud.
-\xv hæ˧-mv̩˧ hæ˧-di˧˥
-\xe As above: (Han) Chinese territory: Chengdu, Kunming…
-\xn 同上：汉族地区，包括成都、昆明等等
-\xf Idem ci-dessus: le territoire des Chinois (Han): Chengdu, Kunming…
+\lx hæ˧-mv̩˧ hæ˧-di˧˥
+\or haemu-haeddi
+\mr hæ˧
+\mr mv̩˧di˧˥
+\ps n
+\sy hæ˧-di˩
+\lc hæ˧mv̩˧hæ˧di˧˥
+\sd <langue="fra"> lieux
+\sd <langue="eng"> places
+\ton MH#
+\so F4
+\de (Han) Chinese territory: Kunming, Chengdu…
+\ge Chinese_territory
+\dn 汉族地区，包括昆明昆明、成都等等
+\gn 汉族地区
+\df Les terres des Chinois (Han).
+\gf territoires_chinois
 
 \lx hæ˧-zo˧bæ˩
 \or Hae ssobbae
@@ -19998,6 +20009,8 @@
 
 \lx hæ˧-mi#˥
 \or Haemi
+\mr hæ˧
+\mr -mi˩
 \ps n
 \lc hæ˧mi˧
 \sd <langue="fra"> ethnies
@@ -20343,10 +20356,12 @@
 \gf règle
 \dt 24/Apr/2017
 
-\lx hæ˧di˩-ʈæ˩bɤ˩
+\lx hæ˧-di˩-ʈæ˩bɤ˩
 \sf <nb="B"> 357
 \sf <nb="2011"> 415
 \or haeddi daebbe
+\mr hæ˧-di˩
+\mr ʈæ˧bɤ˧
 \ps n
 \lc hæ˧di˩ʈæ˩bɤ˩
 \sd <langue="fra"> société
@@ -20354,15 +20369,14 @@
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ˥ ˧ ˧ ˧, par erreur) (refuse la formulation “moine mendiant" de F5)
 \ton -L
 \so F4
-\va <speaker="F5"> hɑ˧mi˥-hĩ˧ ʈæ˧bɤ˧
-\va <speaker="M18"> hæ˥ di˧ ʈæ˧bɤ˧
+\va <speaker="F5"> hɑ˧mi˥-hĩ˧ | ʈæ˧bɤ˧
+\va <speaker="M18"> hæ˥di˧-ʈæ˧bɤ˧
 \de Beggar-monk (of the Buddhist religion).
 \ge beggar_monk
 \dn 比丘、游僧
 \gn 比丘
 \df Bhiksu, moine mendiant.
 \gf moine_mendiant
-\dt 24/Apr/2017
 
 \lx hæ̃˧do˧
 \sf <nb="B"> 1198
@@ -20619,13 +20633,12 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \so F4
-\de Ephedra sinica.
-\ge Ephedra_sinica
+\de |fi{Ephedra sinica}.
+\ge |fi{Ephedra sinica}
 \dn 草麻黄
 \gn 草麻黄
-\df Ephedra sinica.
-\gf Ephedra_sinica
-\dt 13/Jun/2017
+\df |fi{Ephedra sinica}.
+\gf |fi{Ephedra_sinica}
 
 \lx hæ̃˧qʰv̩˥$
 \or huaekheu
@@ -20748,6 +20761,8 @@
 \lx hæ̃˧ʂɯ˩-pæ˩pʰæ˩
 \sf <nb="2011"> 657
 \or haenshi baepae
+\mr hæ̃˧ʂɯ˩-
+\mr pæ˩pʰæ˧˥
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -20761,27 +20776,45 @@
 \gn 粮架
 \df Espalier en bois, dans la cour des fermes, pour faire sécher les épis de maïs avant égrenage.
 \gf espalier_de_séchage
-\dt 13/Jun/2017
 
 \lx hæ̃˧ʂɯ˩-
 \or haenshi
+\mr hæ̃˩
+\mr ʂɯ˧˥2
 \ps adj
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <dom="sem" langue="eng">l'étymologie demeure transparente: “or jaune". Mais cette expression ne peut être utilisée pour désigner le véritable or: c'est une façon sophistiquée de parler, réservée au registre métaphorique. Les tons ne sont pas ceux qu'on attendrait au vu des règles actuellement productives.
+\nt <dom="sem" langue="fra"> L'étymologie demeure transparente: “or jaune". Mais cette expression ne peut être utilisée pour désigner le véritable or. Elle constitue une formulation sophistiquée, réservée au registre métaphorique. Les tons ne sont pas ceux qu'on attendrait au vu des règles actuellement productives.
+\nt <dom="sem" langue="eng"> The etymology remains transparent: ‘yellow gold’. But this expression cannot be used to designate real gold. It belongs to a sophisticated way of speaking, reserved for the metaphorical register. The tones are not as expected in view of the currently productive tone rules.
+\nt <dom="sem" langue="cmn"> 词源仍然是透明的：“黄金”。但这种说法专指隐喻，不能用来指真正的黄金。其声调不符合共时调系规则。
 \ton L#
 \lc hæ̃˧ʂɯ˩
 \so F4
 \pdv nɑ˧α
 \de ‘Precious': a prefix added to certain nouns to coin a prestige term. This prefix is not currently productive: it cannot be added to terms such as ‘mother', ‘house'…
 \ge precious
+\dn ‘珍贵’：添加到某些名词上的前缀，表示该物品的重要性。这个前缀仅出现在一些特殊词汇中，不能随便用于名词（如‘母亲’、‘房子’等等）来创造新的短语。
+\gn ‘珍贵’
 \df ‘Précieux': préfixe ajouté à certains noms pour construire une appellation prestigieuse. Il n'est pas productif: on ne peut l'ajouter à: |fv{ə˧mɑ˧} ‘mère', |fv{ɑ˩ʁo˧} ‘maison', etc.
 \gf précieux
-\xv hæ̃˧ʂɯ˩-to˩mi˩
-\xe the Precious Pillars, the Golden Pillars: a solemn designation for the two pillars of the main building
-\xn ‘黄金柱’、‘宝贵柱’：对主屋两个柱子的庄严称呼
-\xf les Piliers d'Or, les Précieux Piliers: appellation solennelle pour les deux piliers de la maison
-\dt 02/Sep/2015
+
+\lx hæ̃˧ʂɯ˩-to˩mi˩
+\or haenshi domi
+\mr hæ̃˧ʂɯ˩-
+\mr to˩mi˩1
+\ps n
+\sd <langue="fra"> maison
+\sd <langue="eng"> house
+\ton L#-
+\lc hæ̃˧ʂɯ˩to˩mi˩
+\so F4
+\pdv nɑ˧α
+\de the Precious Pillars, the Golden Pillars: a solemn designation for the two pillars of the main building.
+\ge Golden_Pillars
+\dn ‘黄金柱’、‘宝贵柱’：对主屋两个柱子的庄严称呼
+\gn ‘黄金柱’
+\df les Piliers d'Or, les Précieux Piliers: appellation solennelle pour les deux piliers de la maison.
+\gf Piliers_d_Or
 
 \lx hæ̃˧ʂv̩˧pɤ˥
 \or haechube
@@ -20798,7 +20831,6 @@
 \gn 丈夫
 \df Mari.
 \gf mari
-\dt 13/Jun/2017
 
 \lx hæ̃˧ʐɤ˥
 \or haenre
@@ -21037,7 +21069,7 @@
 \df Devoir, falloir.
 \gf devoir/falloir
 \xv mɤ˧-hĩ˧˥
-\xe |fg{neg} 〜: ...must not
+\xe |fg{neg} 〜: …must not
 \xn |fg{否定} 〜：不应该
 \xf |fg{neg} 〜: il ne faut pas
 \xc PHONO
@@ -21100,10 +21132,11 @@
 \xe Someone must be talking (about you)! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说（你）！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle (de toi)! (Ce qu'on dit quand quelqu'un éternue.)
-\xv hĩ˧-ɲɯ˩ | ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˥-di˩!
+\xv hĩ˧-ɲɯ˩ | ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˩-di˩!
 \xe Someone must be talking about her/him! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说他！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle d'elle/de lui! (Ce qu'on dit quand quelqu'un éternue.)
+\xc <type="hist" langue="fra" print="n" dom="ton"> Avant novembre 2024: noté /ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˥-di˩/. Sans doute copier/coller de l'exemple précédent, insuffisamment relu lors de la saisie du présent exemple.
 \xv hĩ˧-ɲɯ˩ | no˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
 \xe Someone must be talking about you! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说你！（打喷嚏时说的一句话。）
@@ -21471,7 +21504,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (tons confirmés, d'abord noté ˥ ˧˥ ˧)
-\nt <dom="sem" langue="fra"> personne qui peut frapper =pers. dangereuse
+\nt <print="n" dom="sem" langue="fra"> personne qui peut frapper =pers. dangereuse
 \ton -L
 \lc hĩ˧lɑ˩kv̩˩hĩ˩
 \so F4
@@ -21829,7 +21862,7 @@
 \gn 亲戚
 \df Membre de la famille de même lignage (du côté maternel).
 \gf membre_de_la_famille_de_même_lignage
-\xv ʈʂʰɯ˧ | njɤ˧ hĩ˧ tɕʰɯ˧ ɲi˥!
+\xv ʈʂʰɯ˧ | njɤ˧ hĩ˧-tɕʰɯ˧ ɲi˥!
 \xe (S)he is someone of my lineage!
 \xn 他是我的亲戚！
 \xf C'est quelqu'un de mon lignage!
@@ -22127,6 +22160,24 @@
 \or hee
 \ps n
 \lc hɤ˧
+\cf ɖɯ˧-hɤ˧
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton M
+\so F4
+\de All.
+\ge all
+\dn 全部
+\gn 全部
+\df Tout.
+\gf tout
+
+\lx ɖɯ˧-hɤ˧
+\or ddeehee
+\mr ɖɯ˩˥
+\mr hɤ˧
+\ps n
+\lc ɖɯ˧hɤ˧
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton M
@@ -22149,7 +22200,6 @@
 \xe (S)he buys everything / buys the lot
 \xn 他全部都买。／他什么都买。
 \xf (il/elle) achète (le) tout
-\dt 02/Sep/2015
 
 \lx ho˩ɕjæ˧
 \sf <nb="B"> 2069
@@ -38153,7 +38203,7 @@
 \xn 一小捧面粉、两小捧面粉……
 \xf un peu de farine; deux poignées/petites quantités de farine; etc.
 \xv ʈʂʰɯ˧-mɤ˥
-\xe |fg{dem} 〜: these few...
+\xe |fg{dem} 〜: these few…
 \xn |fg{指示代词} 〜：这些
 \xf |fg{dem} 〜: ces quelques, ce peu de
 \xc PHONO
@@ -42406,9 +42456,9 @@
 \df Verbe copule.
 \gf |fg{cop}
 \xv le˧-ɲi˩-ze˩
-\xe |fg{accomp} 〜 |fg{pfv}: has become..., is now...
+\xe |fg{accomp} 〜 |fg{pfv}: has become…, is now…
 \xn |fg{实施} 〜 |fg{整体体}：是……了、成……了
-\xf |fg{accomp} 〜 |fg{pfv}: est devenu..., est maintenant...
+\xf |fg{accomp} 〜 |fg{pfv}: est devenu…, est maintenant…
 \xc PHONO
 \xc <dom="sem" langue="fra"> Exemple de contexte dans lequel la tournure /|fv{le˧-ɲi˩-ze˩}/ est possible: lorsque quelqu'un est devenu autre que ce qu'il n'était, par exemple quelqu'un qui a acquis une nationalité par naturalisation.
 \xc <dom="sem" langue="eng"> Example of context of use for /|fv{le˧-ɲi˩-ze˩}/: when someone has become something other than what they were, for example someone who has acquired a certain nationality by naturalization (becoming a citizen of a certain country).
@@ -63052,7 +63102,7 @@
 \xv tso˧~tso˧ ʈʰæ˩-ze˩
 \xe has bitten things
 \xn 咬东西了
-\xf ... a mordu quelque chose
+\xf … a mordu quelque chose
 \xc PHONO
 \xv hĩ˧ ʈʰæ˩
 \xe to bite someone (e.g. a dog bites a stranger)
@@ -78968,7 +79018,7 @@
 \ge |fg{ideo}.creak_creak
 \dn 形声词（拟声词）：物体在猛烈的压力下发出的嘎吱声，接近断裂但尚未完全破裂。如：某人用全身的重量来压碎一块木板。
 \gn 嘎吱嘎吱
-\df Onomatopée: un objet gémit sous une forte pression. Proche de céder, il émet des craquements inquiétants. Par exemple une planche de bois sur laquelle quelqu'un pèse de tout son poids afin de la briser: crrr...crrr...
+\df Onomatopée: un objet gémit sous une forte pression. Proche de céder, il émet des craquements inquiétants. Par exemple une planche de bois sur laquelle quelqu'un pèse de tout son poids afin de la briser: crrr…crrr…
 \gf |fg{ideo}.grincement
 \txtsup Tiger2.72
 \doisup 10.24397/pangloss-0004546#S72
@@ -83636,9 +83686,9 @@
 \xn 给他讲
 \xf lui dire, lui parler
 \xv ʈʂʰɯ˧-ki˧ ʐwɤ˧-bi˥
-\xe ... am going to speak to her/him (as above, with |fg{immediate future})
+\xe … am going to speak to her/him (as above, with |fg{immediate future})
 \xn 要给他讲
-\xf ... vais lui parler (idem ci-dessus+|fg{futur immédiat})
+\xf … vais lui parler (idem ci-dessus+|fg{futur immédiat})
 \xv ə˧mɑ˧-ɳɯ˧ | njɤ˧-ki˧ | nɑ˩-ʐwɤ˧ so˩!
 \xe Ama teaches me the Na language!
 \xn 阿妈教我摩梭语！
