@@ -10232,9 +10232,9 @@
 \df Yongsheng (nom de comté).
 \gf Yongsheng
 \xv ɖʐe˧gɯ˧-hæ˧
-\xe Yongsheng Chinese (Han) (note: Yongsheng is mainly populated by Han Chinese)
+\xe Yongsheng Chinese (Han). (Yongsheng county is mainly populated by Han people.)
 \xn 永胜汉族
-\xf Chinois de Yongsheng (note: le comté de Yongsheng était peuplé majoritairement de Chinois (Han).)
+\xf Chinois de Yongsheng. (Le comté de Yongsheng est peuplé majoritairement de gens de nationalité Han.)
 \xc <dom="ton"> M
 \xv ɖʐe˧gɯ˧-dʑo˧, | hæ˧-ʂo˧~ʂo˩!
 \xe In Yongsheng, there are lots of Chinese (Han) people!
@@ -12358,9 +12358,9 @@
 \xn 我有很多！
 \xf J'en ai beaucoup! (possession)
 \xv dʑɤ˩pi˧ dʑo˧˥
-\xe There is plenty / there is a lot. (Note: existence, and not possession)
+\xe There is plenty / there is a lot. (Refers to existence, not to possession.)
 \xn 有很多。
-\xf Il en existe beaucoup, il y en a beaucoup. (Note: existentiel, et non possession)
+\xf Il en existe beaucoup, il y en a beaucoup. (Décrit l'existence, la présence, non la possession.)
 \xv no˧-ɳɯ˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
 \xe You teach me a great deal! (Context: expression of gratitude on the part of the linguist. The sentence could also be used ironically, in the course of a conversation: “What great things you're teaching me!”)
 \xn 你教我很多！（情景：调查者对合作人表示欣赏与感激。这句话，在摩梭人的对话中，也可以有幽默或讽刺的用法：“你教我的，有一点多！”）
@@ -19944,18 +19944,57 @@
 \gn 汉人
 \df Chinois (Han).
 \gf Chinois
-\xv hæ˧-di˩
-\xe (Han) Chinese territory: Chengdu, Kunming…; used to mean ‘the south'
-\xn 汉族地区，包括成都、昆明等等，来代指南方
+
+\lx hæ˧-di˩
+\or haeddi
+\mr hæ˧
+\mr -di˩
+\ps n
+\lc hæ˧di˩
+\sd <langue="fra"> lieux
+\sd <langue="eng"> places
+\ton -L
+\sn 1
+\so F4
+\de (Han) Chinese territory: Chengdu, Kunming…
+\ge Chinese_territory
+\dn 汉族地区，包括成都、昆明等等
+\gn 汉族地区
+\df Homme chinois (han); terme péjoratif: littéralement ‘idiot de Chinois'
+\gf Chinois(péjoratif)
+\sn 2
+\de The South. Extended from the literal meaning of “(Han) Chinese territory”, because the city of Kunming, located to the South, is a major centre, as seen from early 21st-century Yongning. Yongning is part of Yunnan, the provincial capital (where students can aspire to go to University, in particular) is Kunming.
+\ge the_South
+\dn 南方。从字面意思“汉族地区”延伸而来。从21世纪初的永宁来看，位于南方的昆明市是省城（省会），学生向往的大学所在地是昆明。
+\gn 南方
+\df Le Sud. Extension du sens littéral de «territoire chinois», sans doute du fait que la ville de Kunming, située au sud, est un centre important, vu depuis Yongning au début du XXIe siècle. Yongning fait partie du Yunnan, dont la capitale est Kunming (où les lycéens aspirent à aller à l'Université).
+\gf le_Sud
+
+\xe ; used to mean ‘the south'
+\xn ，来代指南方
 \xf le territoire des Chinois (Han): Chengdu, Kunming… L'expression est également employée pour désigner la direction du sud.
 \xv hæ˧-mv̩˧ hæ˧-di˧˥
 \xe As above: (Han) Chinese territory: Chengdu, Kunming…
 \xn 同上：汉族地区，包括成都、昆明等等
 \xf Idem ci-dessus: le territoire des Chinois (Han): Chengdu, Kunming…
-\xv hæ˧-zo˧bæ˩
-\xe Han Chinese man (derogatory: literally ‘Chinese idiot')
-\xn 汉男人（带偏见的称呼）
-\xf homme chinois han (terme péjoratif: littéralement ‘idiot de Chinois')
+
+\lx hæ˧-zo˧bæ˩
+\or Hae ssobbae
+\mr hæ˧
+\mr zo˧bæ˩
+\ps n
+\lc hæ˧zo˧bæ˩
+\sd <langue="fra"> ethnies
+\sd <langue="eng"> ethnic groups
+\ton -L#
+\so F4
+\pdv v̩˧
+\de Han Chinese man (derogatory: literally ‘Chinese idiot')
+\ge Chinese_man(derogatory)
+\dn 汉男人（带偏见的称呼）
+\gn 汉男人（带偏见的称呼）
+\df Homme chinois (han); terme péjoratif: littéralement ‘idiot de Chinois'
+\gf Chinois(péjoratif)
 
 \lx hæ˧-mi#˥
 \or Haemi
@@ -20861,6 +20900,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (vérifié en mai 2008: pas de nasalité sur la 2e syll.; avais noté hĩ˧ hæ̃˥, hĩ˧ hæ̃˥ zo˩ en 2007; notations 2006: hĩ˧ hæ̃˥, hĩ˧hæ̃˥zo˧)(confirmé en 2012: est un ton L)
+\nt <dom="ety" langue="fra"> Ce mot n'est pas un emprunt, d'après Mme Latami. La ressemble avec le mandarin semble être une coïncidence.
+\nt <dom="ety" langue="eng"> This is not a loanword, according to Mrs. Latami. The surface similarity with Mandarin Chinese seems to be a coincidence.
+\nt <dom="ety" langue="cmn"> 拉他咪女士认为这个词不是借词。与汉语的‘害’的语音相似似乎只是巧合。
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -20869,7 +20911,7 @@
 \ge to_harm
 \dn 祸害、害
 \gn 害
-\df Causer du tort à (note: ce mot n'est pas un emprunt, la ressemble avec le mandarin est une coïncidence).
+\df Causer du tort à.
 \gf causer_du_tort
 \xv hĩ˧ hæ˥
 \xe to harm people
@@ -28778,9 +28820,12 @@
 \xn 一条绳子
 \xf un brin de corde, un bout de corde
 \xv kʰɯ˧ | ʈʂʰɯ˧-kʰɯ˧˥
-\xe this thread (note: irregular tone pattern)
+\xe this thread
 \xn 这根线
-\xf ce brin (note: schéma tonal irrégulier)
+\xf ce brin
+\xc <langue="fra" dom="ton"> Schéma tonal inattendu.
+\xc <langue="eng" dom="ton"> The tone pattern is unexpected.
+\xc <langue="cmn" dom="ton"> 这个短语的声调出乎意料。
 
 \lx kʰɯ˧di˧˥
 \sf <nb="B"> 524e
@@ -29836,9 +29881,9 @@
 \xn 〜 |fg{指示代词} |fg{量词}：这条狗
 \xf 〜 |fg{dem} |fg{clf}: ce chien
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩˥ F dzɯ˩-kv̩˩!
-\xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
+\xe The (Han) Chinese even eat dog meat! (Consumption of dog meat is forbidden in Na culture.)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
-\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
+\xf les Chinois, ils mangent même du chien! (L'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
 
 \lx di˧qo˧-kʰv̩˩mi˩
 \or ddigho kumi
@@ -41412,10 +41457,9 @@
 \df Très grand sac, très grande poche; en cuir, pour emballer les produits que l'on transportait sur de longues distances; s'emploie aussi pour désigner le sac de toile dans lequel on place le corps d'un défunt pendant son inhumation provisoire.
 \gf grand_sac
 \xv jɤ˧ŋɤ˧-ni˧fv̩˥
-\xe Chengdu bag (note: this kind of large, solid bag was often purchased in the area of Chengdu, hence their association with this place name.)
+\xe Chengdu bag. This kind of large, solid bag was often purchased in the area of Chengdu, hence its association with this place name.
 \xn 成都大包。（据说这类的包一般是成都地区生产的。）
 \xf grand sac de Chengdu. Expression employée car les sacs de ce type provenaient généralement de la région de Chengdu.
-\dt 09/Sep/2015
 
 \lx ɲi˧gɤ˧-bæ˧˥
 \sf <nb="B"> 558
@@ -63248,7 +63292,7 @@
 \ge to_give_a_dowry
 \dn 送陪嫁（嫁妆、陪奁）
 \gn 送陪嫁
-\df Fournir la dot: donner des biens à une jeune femme lorsqu'elle rejoint sa nouvelle famille lors du mariage. (Note: la dot est apportée à dos de cheval; elle est rangée dans deux caisses en bois: comme en d'autres circonstances, les présents doivent aller par deux.)
+\df Fournir la dot: donner des biens à une jeune femme lorsqu'elle rejoint sa nouvelle famille lors du mariage. (La dot était apportée à dos de cheval; elle était rangée dans deux caisses en bois: comme en d'autres circonstances, les présents doivent aller par deux.)
 \gf fournir_la_dot
 \xv ə˧tso˧ tɑ˩hwɤ˩-ʝi˩? | ə˧-sɯ˩kv̩˩ (-dʑo˩), | ɖɯ˧-li˧-ɻ̩˩-bi˩!
 \xe What did they give as a dowry? Let's go and have a look! (At a wedding, the gifts given as a dowry are put on public display, for everyone to appreciate the parents' generosity.)
@@ -78978,11 +79022,11 @@
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
 \pdv pʰo˧˥α
-\de Leopard, panther (note: these two terms are homonymous in English).
+\de Leopard, panther (these two terms are homonymous in English).
 \ge leopard
 \dn 豹子
 \gn 豹子
-\df Léopard, panthère (note: ces deux termes sont homonymes en français).
+\df Léopard, panthère (ces deux termes sont homonymes en français).
 \gf léopard
 \xv ʐæ˩ dzɯ˥-ze˩
 \xe …ate (a/the) leopard
@@ -83269,12 +83313,13 @@
 \ton L
 \lc di˩˥
 \so F4
-\de Nominalizer; locative or purposive.
-\ge |fg{nmlz}/|fg{loc}/purp
-\dn 名物化／处所格／目的格
-\gn 名物化／处所格／目的格
-\df Nominalisateur; locatif; purposif.
-\gf |fg{nmlz}/|fg{loc}/purp
+\sn 1
+\de Nominalizer (|fg{nmlz}).
+\ge |fg{nmlz}
+\dn 名物化
+\gn 名物化
+\df Nominalisateur (|fg{nmlz}).
+\gf |fg{nmlz}
 \xv tso˧~tso˧-tɕɯ˧-di˧˥
 \xe (piece of furniture/object) on which one can put things
 \xn 可以摆东西的（家具）
@@ -83288,6 +83333,20 @@
 \xe Periphrase: ‘container for hot water’. This was applied to a glass beer mug, in which tea was offered to the visitor during work sessions. Its capacity (around 25 centilitres) was considerably greater than that of the small glasses used by the Na to serve alcohol. There is no close equivalent in Na: the closest in terms of capacity would be ‘bowl’, but the object was clearly not shaped like a bowl, hence the use of this periphrase.
 \xn 短语：“盛热水的容器”。指的是一个玻璃啤酒杯，大小相当于一个大杯子，在工作期间用来给来访者倒茶。它的容量比摩梭人用来盛酒的小杯子大得多。摩梭语中没有与之相近的词语：就容量而言，最接近的词语是 “碗”，但该器物的形状显然不像碗，因此使用了这个词组。
 \xf Périphrase: «récipient pour eau chaude». Elle était appliquée à une chope à bière en verre, de la taille d'un mug, dans lequel on offrait du thé au visiteur pendant les séances de travail. Sa contenance (environ 25 centilitres) était nettement plus grande que celle des petits verres utilisés chez les Na pour servir de l'alcool. Il n'existe pas d'équivalent proche en na: le plus proche en termes de contenance serait ‘bol’, mais l'objet n'avait manifestement pas la forme d'un bol, d'où l'emploi de cette périphrase.
+\sn 2
+\de Locative (|fg{loc}).
+\ge |fg{loc}
+\dn 处所格
+\gn 处所格
+\df Locatif (|fg{loc}).
+\gf |fg{loc}
+\sn 3
+\de Purposive (|fg{purp}).
+\ge |fg{purp}
+\dn 目的格
+\gn 目的格
+\df Purposif (|fg{purp}).
+\gf |fg{purp}
 
 \lx †dze˩˧
 \or zzeiq
@@ -84110,9 +84169,9 @@
 \xn 她连面包都吃！
 \xf Elle mange même du pain! (au sujet de l'alimentation d'un enfant d'un an)
 \xv hæ˧, | kʰv̩˩mi˩-ʂe˩-pɤ˥to˩ dzɯ˩-kv̩˩!
-\xe The (Han) Chinese even eat dog meat! (Note: consumption of dog meat is forbidden in Na culture)
+\xe The (Han) Chinese even eat dog meat! (Consumption of dog meat is forbidden in Na culture.)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
-\xf les Chinois, ils mangent même du chien! (Note: l'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
+\xf les Chinois, ils mangent même du chien! (L'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
 \xv bo˩-pɤ˥to˩; lɑ˧-pɤ˧to˩; mv̩˩-pɤ˥to˩; ʐwæ˧-pɤ˧to˩; ɬi˧mi˧-pɤ˧to˩; ɲi˧mi˧-pɤ˧to˩; hwɤ˧li˧-pɤ˥-to˩; hwɤ˧mi˧-pɤ˥to˩; kʰv̩˩mi˩-pɤ˥-to˩; ʁo˧dzi˩-pɤ˩to˩; ʝi˩ʈʂæ˧-pɤ˥to˩; nɑ˩hĩ˧-pɤ˧to˩; bo˩mi˧-pɤ˧to˩; bo˩ɬɑ˧-pɤ˩to˩; ʁæ˧ʈv̩˥-pɤ˩to˩
 \xe combinations with nouns of the various tone categories
 \xn 与不同声调类的名词结合
