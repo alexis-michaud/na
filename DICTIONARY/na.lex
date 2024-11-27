@@ -22045,6 +22045,7 @@
 \xe to sip wine
 \xn 喝一小口酒
 \xf siroter du vin
+\xc <langue="fra" type="hist" print="n" dom="ton"> Schéma tonal inattendu. Pour un verbe au ton MH, on attendrait : ɖɯ˧-ho˩~ho˩. Seuls les tons Mc et La donnent un schéma M.M.H avec ɖɯ˧-. xxxx
 
 \lx ho˥
 \sf <nb="B"> 1795a
@@ -22249,7 +22250,9 @@
 \lc ho˧di˧
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
-\nt <dom="sem" langue="fra"> c'est de là que venait le sel; désigne maintenant indifféremment toutes les localités proches de Yongning du côté du Sichuan: Yanyuan, Yanbian, la ville de Xichang…
+\nt <dom="sem" langue="fra"> C'est de là que venait le sel (le nom chinois Yanyuan signifie `source de sel'). Le terme désigne maintenant indifféremment toutes les localités proches de Yongning du côté du Sichuan: non seulement Yanyuan, mais aussi Yanbian, la ville de Xichang…
+\nt <dom="sem" langue="eng"> This is where salt came from: Yanyuan (the Chinese name means `salt source'). The term is now used indiscriminately to refer to all the localities close to Yongning on the Sichuan side: not just Yanyuan, but also Yanbian, the town of Xichang…
+\nt <dom="sem" langue="cmn"> 最初专指盐源，是盐的产地。现在，这个词用来泛指许多四川省离永宁近的地方：盐源以外，还来指盐边、西昌等等。
 \ton M
 \so F4
 \va <speaker="M23"> ID.
@@ -83618,7 +83621,7 @@
 \xv ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩ ho˩-hĩ˩ | ə˩-ɲi˩˥? — ʈʂʰɯ˧ | so˧ɲi˥ | le˧-jo˩-ho˩-ɲi˩-mæ˩.
 \xe Is he going to come tomorrow? — (Yes,) he will come tomorrow.
 \xn 他明天要来买？—（是的，）他明天会来的。（回答表示：比较肯定。）
-\xf Viendra-t-il demain? — (Oui) je pense qu’il viendra demain. (Qd on est presque sûr)
+\xf Viendra-t-il demain? — (Oui) je pense qu’il viendra demain. (On peut utiliser cette formulation quand on est presque sûr.)
 \xv so˧ɲi˥ | le˧-ɬi˥ | mɤ˧-ho˥!
 \xe Tomorrow, they won't be on holiday anymore! (Context: on a Sunday, talking about a kindergarten that has been on holiday during the previous week.)
 \xn 明天就不休息了！
