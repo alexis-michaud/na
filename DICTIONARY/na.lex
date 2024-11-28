@@ -22942,7 +22942,7 @@
 \cf hõ˧α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="ton" langue="fra"> Parmi les verbes au ton M (qui portent un ton M lorsqu'ils sont précédés de la négation, |fv{mɤ˧-}, celui-ci se singularise, aux côtés de `aller', |fv{bi˧}, et `se passer', |fv{gv̩˧}, par son comportement dans le cadre |fg{accomp} 〜 |fg{pfv}: le verbe porte alors un ton bas (schéma: M.L.L). Ces verbes sont classés dans la catégorie Mγ.
+\nt <dom="ton" langue="fra"> Parmi les verbes au ton M (qui portent un ton M lorsqu'ils sont précédés de la négation, |fv{mɤ˧-}), celui-ci se singularise, aux côtés de `aller', |fv{bi˧}, et `se passer', |fv{gv̩˧}, par son comportement dans le cadre |fg{accomp} 〜 |fg{pfv}: le verbe porte alors un ton bas (schéma: M.L.L). Ces verbes sont classés dans la catégorie Mγ.
 \ton Mγ
 \so F4
 \de To go, past form for the third person.
