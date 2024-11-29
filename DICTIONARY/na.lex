@@ -19723,7 +19723,7 @@
 \xc <langue="fra" print="n"> Exemple de M21, à vérifier avec F4 xxxx
 \rf M21
 
-\xv nɑ˩-gwɤ˥
+\lx nɑ˩-gwɤ˥
 \or Naggua
 \mr nɑ˩˧
 \mr gwɤ˩α
@@ -19744,7 +19744,7 @@
 \xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
 \xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
 
-\xv hæ˧-gwɤ˩
+\lx hæ˧-gwɤ˩
 \or Haeggua
 \mr hæ˧
 \mr gwɤ˩α
@@ -19765,7 +19765,7 @@
 \xn 他会唱很多种风格的歌曲：摩梭的，会唱！汉族的，会唱！藏族的，会唱！
 \xf Il sait chanter (toutes sortes de styles:) les chansons na! les chansons chinoises! les chansons tibétaines!
 
-\xv ʁo˧dzi˩-gwɤ˩
+\lx ʁo˧dzi˩-gwɤ˩
 \or Wozzeeggua
 \mr ʁo˧dzi˩
 \mr gwɤ˩α
@@ -20762,7 +20762,7 @@
 \sf <nb="2011"> 657
 \or haenshi baepae
 \mr hæ̃˧ʂɯ˩-
-\mr pæ˩pʰæ˧˥
+\mr pæ˩pʰæ˧˥1
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
