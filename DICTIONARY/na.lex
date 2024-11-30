@@ -23447,7 +23447,7 @@
 \nt <dom="sem" langue="fra"> Littéralement «objet pour faire du tissu».
 \ton L#-
 \so F4
-\va <speaker="F5"> hwæ˧pʰæ˥-gv̩˧-di˧ tɕit˧ɕʰi˥
+\va <speaker="F5"> hwæ˧pʰæ˥-gv̩˧-di˧ tɕi˧tɕʰi˥
 \va <speaker="M21"> ID.
 \pdv nɑ˧α
 \de Loom.
