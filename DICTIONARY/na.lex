@@ -7357,9 +7357,17 @@
 \df Ddaemi, le nom du temple de Yongning. Latitude: 27.76501, longitude: 100.66145.
 \gf temple_de_Yongning
 \xv ɖæ˩mi˧-ʈæ˩bɤ˩
-\xe a priest from the monastery
+\xe a priest from the Ddaemi monastery
 \xn 永宁大寺的和尚
-\xf un prêtre du monastère
+\xf un prêtre du monastère de Ddaemi
+\xv ɖæ˩mi˧-sɯ˩pʰi˩
+\xe the lord of the Ddaemi monastery
+\xn 永宁大寺的土司
+\xf le seigneur du monastère de Ddaemi
+\xv ɖæ˩mi˧-sɯ˩pʰi˩=ɻ̩˩
+\xe the family of the lord of the Ddaemi monastery
+\xn 永宁大寺土司的家、永宁大寺土司那家
+\xf la famille du seigneur du monastère de Ddaemi
 
 \lx ɖæ˩mi˧-go˧bɤ˩
 \sf <nb="2011"> 3315
@@ -16344,7 +16352,7 @@
 \xv ə˧pɤ˧-ɖɯ˩ pi˩-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩; | ə˧pɤ˧-ɖɯ˩-ɳɯ˩ | le˧-tsʰi˧-ɲi˥! | pi˧-zo˩.
 \xo Abeddee bi sso, eyishei; Abeddee nee lecee niq!
 \xn 将寿命斩断的（神），从前称作阿包笃（即：“伟大的阿包[神]”）！（生命结束时，是阿包笃切割人的生命）
-\xe The one called Abeddee (/|fv{ə˧pɤ˧-ɖɯ˩}/, i.e. `great [deity] Abe (/|fv{ə˧pɤ˧}/), long, long ago, Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
+\xe The one called Abeddee (/|fv{ə˧pɤ˧-ɖɯ˩}/, i.e. `great [deity] Abe (/|fv{ə˧pɤ˧}/), long, long ago… Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
 \xf On l'appelait Abeddee, `grande divinité Abe (/|fv{ə˧pɤ˧}/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
 \txt Dog.51
 \doi 10.24397/pangloss-0004443#S51
@@ -19374,6 +19382,7 @@
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton M
+\nt <type="hist" print="n" langue="fra" dom="sem"> xxxx vérifier : n'est-ce pas un prénom unisexe, ou un prénom féminin?
 \so F4
 \de Gguma, a masculine given name.
 \ge Gguma
@@ -19385,6 +19394,26 @@
 \xe This person is called Gguma |fv{/gv̩˧mɑ˧/}!
 \xn 这个人，名叫|fv{gv̩˧mɑ˧}！
 \xf Cette personne s'appelle Gguma |fv{/gv̩˧mɑ˧/}!
+
+\lx gv̩˧mɑ˧-tsʰɯ˩ɻ̩˩
+\or Gguma Ci’er
+\mr gv̩˧mɑ˧
+\mr tsʰɯ˧ɻ̩#˥
+\bw <langue="bod"> ? |tib{? ཚ་རང}
+\ps n
+\lc gv̩˧mɑ˧tsʰɯ˩ɻ̩˩
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton M
+\so F4
+\de Gguma Ci’er, a feminine given name.
+\ge Gguma_Ci’er
+\dn 女性名字
+\gn 女性名字
+\df Gguma Ci’er, un prénom féminin.
+\gf Gguma_Ci’er
+\txtsup Elders3.17
+\doisup 10.24397/pangloss-0004533#S17
 
 \lx gv̩˧mi˧
 \sf <nb="B"> 89
