@@ -24380,7 +24380,7 @@
 \or yepiye
 \bw <langue="cmn"> 鸦片
 \mr jɤ˧3
-\mc <langue="fra"> L'opium se fume, comme le tabac. En moso, il a été emprunté comme ‘tabac-opium'. Le mot pour ‘tabac', /|fv{jɤ˧3}/, pourrait également être un emprunt au chinois, mais d'une date bien antérieure. Lorsque le mot ‘opium' a été emprunté, le mot ‘tabac' était pleinement acclimaté (à supposer qu'il s'agisse bien d'un emprunt) et pouvait servir à guider l'interprétation du nouveau mot emprunté, ‘opium'.
+\mc <langue="fra"> L'opium se fume, comme le tabac. En na, il a été emprunté comme ‘tabac-opium'. Le mot pour ‘tabac', /|fv{jɤ˧3}/, pourrait également être un emprunt au chinois, mais d'une date bien antérieure. Lorsque le mot ‘opium' a été emprunté, le mot ‘tabac' était pleinement acclimaté (à supposer qu'il s'agisse bien d'un emprunt) et pouvait servir à guider l'interprétation du nouveau mot emprunté, ‘opium'.
 \mc <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /|fv{jɤ˧3}/, might be an early borrowing from Chinese, too, but by the time the word ‘opium' was borrowed, the word ‘tobacco' was well-integrated (supposing that it was originally a loanword) and could assist in guiding the interpretation of the new loanword, ‘opium'.
 \mc <langue="cmn"> 鸦片像烟草一样被吸食。在摩梭中，它被借为‘鸦片烟’。‘烟’/|fv{jɤ˧3}/可能也是从汉语中借用的词，但借用时间估计是更早。当‘鸦片’一词被借用时，估计‘烟’已经完全融化到摩梭适词汇中（假设它确实原来是汉语借词），可以用来帮助解释新借用词‘鸦片’的含义。
 \ps n
@@ -24413,7 +24413,7 @@
 \sd <langue="eng"> household
 \nt <type="hist" print="n" langue="fra"> corrigé en 2024: auparavant noté avec une voyelle /e/, /je˩tʰi˧/.
 \nt <dom="ton" langue="fra"> Le comportement tonal de cet emprunt ne présente pas une complète cohérence. Pour un ton LH, on s'attendrait à un schéma tonal L.H.L pour l'expression ‘casserole émaillée’ et pour l'expression ‘fabriqué en émail’, /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/, mais c'est L.M.M qui est observé. À l'inverse, si le ton était LM, on s'attendrait à un schéma L.M.M.M pour ‘assiette émaillée', qui porte en réalité une séquence L.H.L.L: /|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/. L'interprétation proposée est que le ton des emprunts encore perçus comme tels est moins stable que celle du vocabulaire plus anciennement établi (et perçu comme appartenant à la langue na). Parmi les autres exemples de ce phénomène figure l'emprunt chinois pour ‘toile cirée'.
-\nt <dom="ton" langue="eng"> The tonal behaviour of this loan is not fully consistent. For an LH tone, we would expect an L.H.L tonal pattern for the phrase ‘enamelled saucepan', as well as for the phrase 'made of enamel', /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/, but the observed pattern is L.M.M. Conversely, if the tone were LM, we would expect an L.M.M.M pattern for ‘enamelled plate', which actually carries an L.H.L.L sequence: /|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/. The proposed interpretation is that the tone of borrowings still perceived as such is less stable than that of fully established vocabulary (perceived as belonging to the Moso language). Other examples of this phenomenon include the Chinese borrowing for ‘oilcloth'.
+\nt <dom="ton" langue="eng"> The tonal behaviour of this loan is not fully consistent. For an LH tone, we would expect an L.H.L tonal pattern for the phrase ‘enamelled saucepan', as well as for the phrase 'made of enamel', /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/, but the observed pattern is L.M.M. Conversely, if the tone were LM, we would expect an L.M.M.M pattern for ‘enamelled plate', which actually carries an L.H.L.L sequence: /|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/. The proposed interpretation is that the tone of borrowings still perceived as such is less stable than that of fully established vocabulary (perceived as belonging to the Na language). Other examples of this phenomenon include the Chinese borrowing for ‘oilcloth'.
 \nt <dom="ton" langue="cmn"> 这种借词的声调表现并不完全一致。假如本调是LH，那么‘搪瓷锅’和‘搪瓷做的’这两个短语应该是L.H.L调式，即 /|fv{jɤ˩tʰi˧-ɳɯ˧ | gv̩˩˥}/，但实际情况却是L.M.M.M。相反，如果声调是LM，‘搪瓷盘’的声调会是L.M.M.M，但实际上‘搪瓷盘’的声调是L.H.L.L：/|fv{jɤ˩tʰi˥-ʁæ˩bæ˩}/。所提出的解释是，仍被视为汉语词汇（借词）的词语在声调方面没有更早的词汇（被视为属于摩梭语）那么稳定。这种现象的其他例子包括汉语借词‘油布’。
 \ton LH
 \so F4
@@ -38931,11 +38931,11 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Year of the Dragon. Literally ‘Year of Thunder’. The Narua (Moso) term for ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, is used to refer to the Chinese year of the Snake.
+\de Year of the Dragon. Literally ‘Year of Thunder’. The Na term for ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, is used to refer to the Chinese year of the Snake.
 \ge year_of_the_Dragon
 \dn 龙年。字面意思是‘雷年’。摩梭语的‘龙’，即|fv{bv̩˧ʐv̩˧}，用于指中国的蛇年。
 \gn 龙年
-\df Année du Dragon. Littéralement ‘Année du tonnerre’. Le terme moso ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, est employé pour désigner l'année chinoise du Serpent.
+\df Année du Dragon. Littéralement ‘Année du tonnerre’. Le terme na ‘dragon’, /|fv{bv̩˧ʐv̩˧}/, est employé pour désigner l'année chinoise du Serpent.
 \gf année_du_Dragon
 
 \lx mv̩˧gv̩˧-kʰv̩˩
@@ -40875,9 +40875,9 @@
 \df Une femme Na.
 \gf femme_Na
 \xv nɑ˩zo˧-nɑ˥mv̩˩
-\xe Na men and women; the Mosuo
+\xe Na men and women; the Na (Mosuo)
 \xn 摩梭男人与摩梭女人，摩梭人
-\xf Les hommes et les femmes na; les Moso
+\xf Les hommes et les femmes na, les Na (Moso)
 
 \lx nɑ˧mi#˥
 \or nami
@@ -43588,7 +43588,7 @@
 \sd <langue="eng"> given name
 \ton -L
 \lc ʈæ˧ʂɯ˧no˩bv̩˩
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \so F4
 \de Daeshi Nobbu, a masculine given name.
 \ge Daeshi_Nobbu
@@ -43609,7 +43609,7 @@
 \sd <langue="eng"> given name
 \ton LM
 \lc no˩bv̩˥tsʰɯ˩ɻ̩˩
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \so F4
 \de Nobbu Ci'er, a masculine given name.
 \ge Nobbu_Ci'er
@@ -43628,7 +43628,7 @@
 \sd <langue="eng"> given name
 \ton LM
 \lc no˩bv̩˥
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom moso.
+\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \nt <type="hist" print="n" langue="fra" dom="ton"> avant juin 2012: noté ‡|fv{no˧bv̩˥}. Un argument en faveur de cette notation était qu'elle comporte un ton H, en mesure d'expliquer pourquoi, en composition, le prénom `Nobbu' abaisse le ton du prénom qui suit dans les prénoms composés: ainsi, le ton de |fv{tsʰɯ˧ɻ̩#˥} `Ci'er' se trouve abaissé en |fv{…-tsʰɯ˩ɻ̩˩} dans |fv{no˩bv̩˧-tsʰɯ˩ɻ̩˩}, ce qui indique la présence d'un ton H dans le premier prénom, et suggérait qu'il pourrait au fond s'agir d'un ‡|fv{no˧bv̩˥-tsʰɯ˩ɻ̩˩} ou ‡|fv{no˩bv̩˥-tsʰɯ˩ɻ̩˩}. Mais les règles tonales en composition nominale ne s'appliquent pas aux prénoms composés, puisque le nom Daeshi, qui porte un ton M, abaisse pareillement le ton du prénom qui suit dans les prénoms composés. Voir Michaud (2017: 144-147).
 \so F4
 \de Nobbu, a masculine given name.
@@ -59482,7 +59482,7 @@
 \dn 色疙瘩
 \gn 色疙瘩
 \gr 根三香
-\df Plante identifiée par Li Dazhu (dans son ouvrage au sujet de la médecine mosuo) par le nom local |fn{根三香}, dont un équivalent serait |fn{色疙瘩}. Aucun de ces deux termes n'a pu être retrouvé dans les nomenclatures.
+\df Plante identifiée par Li Dazhu (dans son ouvrage au sujet de la médecine des Na) par le nom local |fn{根三香}, dont un équivalent serait |fn{色疙瘩}. Aucun de ces deux termes n'a pu être retrouvé dans les nomenclatures.
 \gf plante_sp
 \xv si˧kʰɯ˧-bæ˥bæ˩
 \xe the flower of this plant
@@ -63543,9 +63543,9 @@
 \xn 永宁格姆山
 \xf la montagne Gemu de Yongning
 \xv tʰɑ˩lo˧-hĩ#˥
-\xe the people of Yongning, the Moso
+\xe the people of Yongning, the Na (Moso)
 \xn 永宁人，永宁的人（摩梭人）
-\xf les gens de Yongning (=les Moso)
+\xf les gens de Yongning, les Na (Moso)
 
 \lx ʈʰæ˧mi˧-ɳɯ˩
 \or taemi nee
@@ -68662,9 +68662,9 @@
 \df Au début, pour commencer.
 \gf pour_commencer
 \xv ʁo˧dɑ˧ | to˩pv̩˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv̩˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
-\xe Before, at first, (your) learning (Mosuo) was a little slow. (Now,) it is really getting a bit faster! You know some (Mosuo, and so) it gets faster!
+\xe Before, at first, (your) learning (Na) was a little slow. (Now,) it is really getting a bit faster! You know some (Na, and so) it gets faster!
 \xn 以前，最初的时候，（你）学习（摩梭语）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭语），所以快起来了！
-\xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue), (le travail de transcription) va plus vite!' (Commentaire de Mme Latami en 2017, au sujet des progrès dans le travail de transcription de textes.)
+\xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue na), (le travail de transcription) va plus vite!' (Commentaire de Mme Latami en 2017, au sujet des progrès dans le travail de transcription de textes.)
 
 \lx tʰo˩pʰv̩˧tɕʰɤ˧
 \sf <nb="B"> 609
@@ -69333,7 +69333,7 @@
 \ge to_wink
 \dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
 \gn 眨眼
-\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Moso avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
+\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Na avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
 \gf cligner_de_l_œil
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩~tsɑ˩-dʑo˩!
 \xe |fg{red}: (S)he is winking!
@@ -69367,7 +69367,7 @@
 \ge to_wink
 \dn 眨眼睛，是一种谨慎的暗示，表示人家说话不够谨慎：他太多言了，应该保持沉默。
 \gn 眨眼
-\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Moso avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
+\df Faire un clin d'œil. Le clin d'œil (pratiqué chez les Na avec les deux yeux, pas avec un seul) vise à indiquer discrètement à quelqu'un qu'il ne fait pas assez attention à ce qu'il dit: qu'il est trop bavard et qu'il devrait se taire.
 \gf cligner_de_l_œil
 \xv ʈʂʰɯ˧ | njɤ˩ɭɯ˧ tsɑ˩-dʑo˩!
 \xe (S)he is winking!
@@ -79310,7 +79310,7 @@
 \xf jupe en feutre
 \rf M18
 \xc <langue="fra" dom="dialect"> Expression refusée par Mme Latami: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
-\xc <langue="eng" dom="dialect"> Mrs. Latami rejects this phrase: there is no such thing as felt skirts in traditional Moso costume.
+\xc <langue="eng" dom="dialect"> Mrs. Latami rejects this phrase: there is no such thing as felt skirts in traditional Na (Moso) costume.
 \xc <langue="cmn" dom="dialect"> 拉他咪女士拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
@@ -80985,11 +80985,11 @@
 \xf Contexte: on va couper du bois en montagne, à un endroit où il n'y a pas de chemin. Les gens se succèdent, et cela finit par ouvrir un chemin/former une sorte de chemin
 \sn 2
 \so M18
-\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Mosuo person passes away, the Ddabe has to see off his or her soul and guide him or her back to the place where his or her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
+\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Na (Mosuo) person passes away, the Ddabe has to see off his or her soul and guide him or her back to the place where his or her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
 \ge Remi.epic
 \dn 达巴口诵经典《仁咪经》。拉他咪王勇解释：《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
 \gn 《仁咪经》
-\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne moso décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances. (Information fournie par Latami Wangyong.)
+\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne na décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances. (Information fournie par Latami Wangyong.)
 \gf Remi.épopée
 
 \lx zo˧mv̩˥
@@ -85067,11 +85067,11 @@
 \ton M | L
 \lc tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩˥
 \so M18
-\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Mosuo people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative. (Information supplied by Latami Wangyong.)
+\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Na (Mosuo) people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative. (Information supplied by Latami Wangyong.)
 \ge Cozzi_Ddimezzi.epic
 \dn 拉他咪王勇解释：达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
 \gn 《搓孜地玛孜经》
-\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple moso, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit. (Information fournie par Latami Wangyong.)
+\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple na, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit. (Information fournie par Latami Wangyong.)
 \gf Cozzi_Ddimezzi.épopée
 
 \lx dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
@@ -85091,11 +85091,11 @@
 \ton LM
 \lc hɑ˩nɑ˧gv̩˧
 \so M18
-\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Mosuo's ancestors. (Information supplied by Latami Wangyong.)
+\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Na (Mosuo)'s ancestors. (Information supplied by Latami Wangyong.)
 \ge Hanaggu.epic
 \dn 达巴口诵经典《哈纳鼓经》。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
 \gn 《哈纳鼓经》
-\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Moso. (Information fournie par Latami Wangyong.)
+\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Na (Moso). (Information fournie par Latami Wangyong.)
 \gf Hanaggu.épopée
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
@@ -85153,11 +85153,11 @@
 \ton L#
 \lc dzɯ˧dʑo˩
 \so M18
-\de Zzijjo, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic that is recited for the healthy continuation of life. The main ceremony is held at the time of the coming of age ritual, at the age of 13. In Mosuo people's view, 13 years old means the renewal of life. The ages of 25, 37, 49 and 61 are likewise junctures of life, at which ceremonies must be held so the wheel of life rolls on smoothly. (Information supplied by Latami Wangyong.)
+\de Zzijjo, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic that is recited for the healthy continuation of life. The main ceremony is held at the time of the coming of age ritual, at the age of 13. In Na (Mosuo) people's view, 13 years old means the renewal of life. The ages of 25, 37, 49 and 61 are likewise junctures of life, at which ceremonies must be held so the wheel of life rolls on smoothly. (Information supplied by Latami Wangyong.)
 \ge Zzijjo.epic
 \dn 《仔迥经》。拉他咪王勇解释：这部经典是为了生命的延续、绵长而念诵的经典。主要仪式在年满13岁虚岁举行成年礼时举行。在摩梭人看来，虚岁13岁意味着生命的重续。此外，25岁，37岁，49岁，61岁都是生命的关口，也必须举行仪式来重续年轮，使生命长寿。
 \gn 《仔迥经》
-\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Mosuo, l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
+\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Na (Moso), l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
 \gf Zzijjo.épopée
 
 \lx ʈʂɯ˧pv̩˧-ʈʂɯ˧dv̩˧
