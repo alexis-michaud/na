@@ -2494,7 +2494,7 @@
 \xv bæ˧ʁwɤ˧-nɑ˩
 \xe Na (Mosuo) people from Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 \xn 巴瓦摩梭
-\xf Les Na (Moso) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
+\xf Les Na (Mosuo) de Bbaewua |fv{/bæ˧ʁwɤ˧/}.
 
 \lx bæ˧ʁwɤ˧-ʁwɤ˧
 \or Bbaewua wua
@@ -32830,7 +32830,7 @@
 \ge people_of_Yongning
 \dn 永宁人（除非有特别的说明，这个词语指的是摩梭人）
 \gn 永宁人
-\df Les gens de Yongning. Sauf précision contraire, l'expression désigne les Na (Moso).
+\df Les gens de Yongning. Sauf précision contraire, l'expression désigne les Na (Mosuo).
 \gf gens_de_Yongning
 
 \lx ɬi˧dʑɯ˩
@@ -40906,7 +40906,7 @@
 \xv nɑ˩zo˧-nɑ˥mv̩˩
 \xe Na men and women; the Na (Mosuo)
 \xn 摩梭男人与摩梭女人，摩梭人
-\xf Les hommes et les femmes na, les Na (Moso)
+\xf Les hommes et les femmes na, les Na (Mosuo)
 
 \lx nɑ˧mi#˥
 \or nami
@@ -41076,7 +41076,7 @@
 \xv nɑ˩zo˧-nɑ˥mv̩˩
 \xe Na men and women; the Mosuo
 \xn 摩梭男人与摩梭女人，摩梭人
-\xf Les hommes et les femmes na; les Moso
+\xf Les hommes et les femmes na; les Mosuo
 
 \lx nɑ˩-ʐwɤ˥
 \sf <nb="B"> 638b
@@ -63572,9 +63572,9 @@
 \xn 永宁格姆山
 \xf la montagne Gemu de Yongning
 \xv tʰɑ˩lo˧-hĩ#˥
-\xe the people of Yongning, the Na (Moso)
+\xe the people of Yongning, the Na (Mosuo)
 \xn 永宁人，永宁的人（摩梭人）
-\xf les gens de Yongning, les Na (Moso)
+\xf les gens de Yongning, les Na (Mosuo)
 
 \lx ʈʰæ˧mi˧-ɳɯ˩
 \or taemi nee
@@ -68883,11 +68883,11 @@
 \va <speaker="M18"> *
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Unbaked brick. The Na (Moso) of Yongning did not use them: they built the walls by compacting the earth.
+\de Unbaked brick. The Na (Mosuo) of Yongning did not use them: they built the walls by compacting the earth.
 \ge brick
 \dn 坯：未焙烧的砖。在过去，永宁摩梭人不使用这种砖：他们用土压实来砌墙。
 \gn 坯
-\df Brique crue. Les Na (Moso) de Yongning n'en employaient pas: ils bâtissaient les murs en tassant la terre.
+\df Brique crue. Les Na (Mosuo) de Yongning n'en employaient pas: ils bâtissaient les murs en tassant la terre.
 \gf brique_crue
 \xv tʰo˩tɕɯ˧ ɳæ˥
 \xe to make unbaked bricks
@@ -79339,7 +79339,7 @@
 \xf jupe en feutre
 \rf M18
 \xc <langue="fra" dom="dialect"> Expression refusée par Mme Latami: il n'existe pas de jupes en feutre dans la panoplie traditionnelle des Na.
-\xc <langue="eng" dom="dialect"> Mrs. Latami rejects this phrase: there is no such thing as felt skirts in traditional Na (Moso) costume.
+\xc <langue="eng" dom="dialect"> Mrs. Latami rejects this phrase: there is no such thing as felt skirts in traditional Na (Mosuo) costume.
 \xc <langue="cmn" dom="dialect"> 拉他咪女士拒绝这个说法：摩梭人没有披毡短裙。
 
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
@@ -85124,7 +85124,7 @@
 \ge Hanaggu.epic
 \dn 达巴口诵经典《哈纳鼓经》。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
 \gn 《哈纳鼓经》
-\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Na (Moso). (Information fournie par Latami Wangyong.)
+\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Na (Mosuo). (Information fournie par Latami Wangyong.)
 \gf Hanaggu.épopée
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
@@ -85186,7 +85186,7 @@
 \ge Zzijjo.epic
 \dn 《仔迥经》。拉他咪王勇解释：这部经典是为了生命的延续、绵长而念诵的经典。主要仪式在年满13岁虚岁举行成年礼时举行。在摩梭人看来，虚岁13岁意味着生命的重续。此外，25岁，37岁，49岁，61岁都是生命的关口，也必须举行仪式来重续年轮，使生命长寿。
 \gn 《仔迥经》
-\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Na (Moso), l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
+\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Na (Mosuo), l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
 \gf Zzijjo.épopée
 
 \lx ʈʂɯ˧pv̩˧-ʈʂɯ˧dv̩˧
