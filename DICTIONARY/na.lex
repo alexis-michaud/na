@@ -12545,6 +12545,26 @@
 \df Jjacee Ddeema, un prénom féminin.
 \gf Jjacee_Ddeema
 
+\lx dʑɤ˩tsʰi˧-pv̩˩ʈʰɯ˩
+\or Jjacee Butee
+\bw <langue="bod"> Bde skyid (?) Bu khrid (/Bu phrug?) |tib{བདེ་སྐྱིད(?)་བུ་ཁྲིད/བུ་ཕྲུག?}
+\mr dʑɤ˩tsʰi#˥
+\mr pv̩˩ʈʰɯ˧
+\ps n
+\lc dʑɤ˩tsʰi˧pv̩˩ʈʰɯ˩
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton LM-L
+\so F4
+\de Jjacee Butee, a feminine given name.
+\ge Jjacee_Butee
+\dn 甲次布尺：一个女性名字
+\gn 甲次布尺
+\df Jjacee Butee, un prénom féminin.
+\gf Jjacee_Butee
+\txtsup Elders3.26
+\doisup 10.24397/pangloss-0004533#S26
+
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
 \or jjaceezeemu
 \mr dʑɤ˩tsʰi#˥
