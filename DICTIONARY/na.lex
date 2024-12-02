@@ -28282,7 +28282,7 @@
 \gn 护符
 \df Amulette.
 \gf amulette
-\xv no˧ | kɤ˧v̩˧ ne˩-ʲi˩-zo˩!
+\xv no˧ | kɤ˧v̩˧ ne˩-ʝi˩-zo˩!
 \xe You are like an amulet to met!
 \xn 你像护符一样！
 \xf Tu es pour moi comme une amulette! (Tu prends soin de moi, tu m'apportes une vie heureuse, tu fais mon bonheur)
