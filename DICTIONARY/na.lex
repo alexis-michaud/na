@@ -25594,6 +25594,8 @@
 \gn 央金独玛
 \df Yijie Ddeema, un prénom féminin.
 \gf Yijie_Ddeema
+\txtsup Elders3.27
+\doisup 10.24397/pangloss-0004533#S27
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
 \or Yijie Lhamu
