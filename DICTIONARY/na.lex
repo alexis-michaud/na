@@ -14059,7 +14059,7 @@
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <dom="sem" langue="fra"> Ne pas confondre, en français, argousier et arbousier.
-\nt <dom="sem" langue="fra"> xxxx à vérifier : sans doute même mot que celui noté /dʑɯ˩tɕʰɯ˩lɑ˩qʰɑ˥/
+\nt <dom="sem" langue="fra" print="n"> xxxx à vérifier : sans doute même mot que celui noté /dʑɯ˩tɕʰɯ˩lɑ˩qʰɑ˥/
 \ton L+H#
 \lc dʑɯ˩tɕʰɯ˩lɑ˩qʰæ˥
 \so F4
@@ -56016,6 +56016,7 @@
 \nt <dom="sem" langue="fra"> Cet oiseau quitte Yongning vers le 3e jours du 3e mois du calendrier na, revient au 9e jour du 9e mois
 \ton MH
 \lc ʁv̩˧˥
+\sy ʁv̩˧-nɑ˥mi˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -56027,10 +56028,6 @@
 \gn 黑颈鹤
 \df Grue, |fi{Grus nigricollis Przew} et autres espèces similaires. Il s'agit d'un oiseau migrateur, qui quitte Yongning l'hiver pour se rendre en plus basse altitude.
 \gf grue
-\xv ʁv̩˧nɑ˥mi˩ xxxx
-\xe same meaning: crane
-\xn 同上：黑颈鹤
-\xf même sens: grue
 \xv ʁv̩˧ dzɯ˥-ze˩
 \xe …ate the crane
 \xn 吃了黑颈鹤
@@ -56041,6 +56038,29 @@
 \xn 买了黑颈鹤
 \xf …a acheté une grue
 \xc PHONO
+
+\lx ʁv̩˧-nɑ˥mi˩
+\mr ʁv̩˧˥
+\sf <nb="B"> 2193
+\sf <nb="2011"> 2672
+\or weunami
+\ps n
+\sd <langue="fra"> animal
+\sd <langue="eng"> animal
+\ton #H-
+\lc ʁv̩˧nɑ˥mi˩
+\sy ʁv̩˧˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\pdv mi˩β
+\de Crane: black-necked crane |fi{Grus nigricollis Przew} and similar species. It is a migratory bird, that migrates to lower altitude areas for winter and return to Yongning (a place of higher elevation) for summer breeding.
+\ge crane
+\dn 黑颈鹤。是在云南越冬的候鸟。它们主要在青藏高原繁殖，冬季迁徙到云贵高原越冬。有一条主要的迁徙路线是从青海黄南州黄河沿岸湿地、果洛州希门措等区域繁殖地迁往云南昭通大山包越冬。
+\gn 黑颈鹤
+\df Grue, |fi{Grus nigricollis Przew} et autres espèces similaires. Il s'agit d'un oiseau migrateur, qui quitte Yongning l'hiver pour se rendre en plus basse altitude.
+\gf grue
 
 \lx ʁv̩˥
 \sf <nb="B"> 1165
