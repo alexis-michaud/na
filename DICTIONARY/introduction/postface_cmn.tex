@@ -1,0 +1,31 @@
+《永宁阿拉瓦村摩梭方言—汉—英—法词典》是“世界珍稀语言系列词典丛书”中的第三部词典，也是一部在这个版本之前有过由旧PLexica软件生成的版本。
+
+这本著作的一个特点在于它的三种语言版本：中文、英文和法文。这三个版本不完全对称。中文版可以说是最完整的版本，包括所有的语言，甚至注释信息都带有三种语言的翻译，详尽无遗。英文版和法文版中的外文翻译则相互删节：英文版不带法语翻译、法文版不带英语翻译。从技术的角度讲，我将三个版本的代码和模板尽可能地因素化，这是非常有趣的过程。这样既可以有一个强大而灵活的手段来同时修正和改进三个版本，又可以保留它们各自的特点。
+
+除了有中、英、法这一重要语言特点外，这部词典还有一个技术方面的特点。它的源文件（\textefra{\textsc{Lex}}文件）中使用元数据，乍一看似乎会使结构更加繁琐，但实际上这种做法是合适的，由于语言和其他辅助元数据的增多，将元数据包含在源文件里，甚至是很有必要的。显然，为了保持与原始\textefra{\textsc{Mdf}}文件格式相似的格式，将这些元数据转换成尽可能多的（子）标签是很容易的，但我认为在标签和数据之间再插入中间结构层次是合理的，能起重要作用，至于我决定将这一功能集成到了 (J)Lexika 引擎的主要算法中； 下游的困难（特别是该元数据和与标签相关的元数据之间的过度定义和优先级，或者完全没有）值得克服。
+
+另一个特别之处是在页面的页脚增加了信头，为读者提供了所研究语言中使用的不同词素的清晰概览，包括所选择的词法顺序、元音和辅音之间的分隔、显示页面所在信头的清晰标记，以及在适当情况下访问相关信头的链接。该词典集的其他词典肯定也会增加这一功能。
+
+值得注意的是，由于我对中文封面的外观有特殊的愿望，我借此机会了解了 \LaTeX{} 在这方面可以做些什么。结果非常令人满意，而且美学并没有限制程序的灵活性，因此我也想为所有字典的封面铺平道路，让封面比最初设想的更自由、更简洁。毕竟，就在我写下这些文字的时候，字典集中的第一批字典由于种种原因被推迟了，它们的封面还没有完成，因此，这次对时间表的重新安排将不出所料地为后来者带来好处！
+
+本词典项目的最后一个特点是语言学家和我本人之间的持续互动。通过包括 Github 软件锻造在内的各种渠道，我们进行了大量的思考和讨论，从而对源数据的结构进行了大量修改，并对介绍性文本进行了改进，有时甚至是我本人直接进行的改进。其中许多修改和讨论都保存在锻造票据中，这些票据将成为宝贵的历史记录。
+
+中文版也是讨论某些中文翻译的机会，特别是词典集本身的名称。从更广泛的意义上讲，这本字典也提供了一个机会，让我们以一种深思熟虑、认真负责的方式对 “作者 ”的概念和质量提出质疑。
+
+最后，对我来说最困难的部分是，我知道，尽管已经采取了所有的谨慎措施，但与任何此类规模的作品一样，仍然会有错别字和不完善之处！一般来说，我可以接受这种情况，因为 Lexika 处理链的设计可以在数据或技术架构（改进样式、表面处理等）更新后立即轻松生成一本全新的词典，但在这种特殊情况下，由于最后还要印刷，它不仅仅是一本可以有十几个版本的数字词典！不，如果你手中拿的是纸质版本，也许它将保留几十年（这正是我们所希望的！），其错误会刻在纸张的纤维中，随着时间的流逝而老化！作为一个完美主义者，我很难接受在文件还可以完善的情况下就将其打印出来，但我们都知道 “尽善尽美 ”这句格言，所以我们不得不接受它。
+
+最后，我希望这本书能够造福纳族人民，为保护和传承纳族丰富的文化遗产做出贡献。
+
+
+
+Une dernière particularité de ce projet de dictionnaires est l’interaction très soutenue entre le linguiste, \alexisfra, et moi-même. Beaucoup de réflexions et de discussions ont eu lieu par divers canaux, dont la forge logicielle Github, menant à de nombreuses modifications de la structure des données sources et l’amélioration des textes liminaires, parfois directement par moi-même. Nombre de ces changements et discussions sont sauvegardés dans les tickets de la forge, qui servira ainsi d’historique précieux.
+
+Par ailleurs, la version chinoise a été l’occasion de poser sur la table les réflexions autour de certaines traductions chinoises, notamment celle du nom de la collection elle-même. De manière plus générale, ce dictionnaire a aussi permis de questionner de manière réfléchie et consciencieuse la notion et la qualité d’\emph{auteur}.
+
+Finalement, le plus dur pour moi est de savoir que, malgré tout le soin apporté, comme tout ouvrage de ce type et de cette taille, il restera des coquilles, des imperfections ! Généralement, je peux m’en accommoder, car la chaîne de traitement Lexika est faite pour justement générer très facilement un tout nouveau dictionnaire dès qu’il y a une mise à jour des données ou de l’architecture technique (améliorant le style, les finitions, etc.), mais dans ce cas précis, comme il y a une impression à réaliser à la fin, il ne s’agit pas uniquement d’un dictionnaire numérique qui pourrait exister en une dizaine de versions ! Non, si vous avez une version papier entre les mains, peut-être qu’elle restera des décennies (c’est ce que nous espérons tous !) avec ses fautes gravées dans les fibres du papier, vieillissant avec lui ! Étant perfectionniste, c’est très dur pour moi d’accepter qu’un document soit imprimé alors qu’il reste perfectible, mais l’on connaît tous l’adage à propos de la perfection, donc il faut l’accepter.
+
+Pour conclure, j'espère que cet ouvrage bénéficiera au peuple na, et qu'il contribuera à la préservation ainsi qu'à la transmission de leur riche culture patrimoniale.
+
+\bigskip
+
+\hfill \benjaminfra
