@@ -54632,7 +54632,7 @@
 \xn 亮堂堂，好看！
 \xf C'est splendide! / Tu es ravissant·e!
 \xv pʰæ˧qʰwɤ˩ | dʑɤ˩˥, | ʁæ˩ʑi˩-zo˥!
-\xe (Her/your) face is pretty, it is splendid / it!
+\xe (Her/your) face is pretty, it is splendid!
 \xn 脸好看，亮堂堂！
 \xf (Son/ton) visage est beau, il est resplendissant!
 
