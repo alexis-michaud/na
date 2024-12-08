@@ -3514,6 +3514,8 @@
 \doisup 10.24397/pangloss-0004445#S8
 \txtsup BuriedAlive3.75
 \doisup 10.24397/pangloss-0004539#S75
+\txtsup Funeral.156
+\doisup 10.24397/pangloss-0004572#S156
 
 \lx õ
 \hm 1
@@ -8821,7 +8823,6 @@
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" print="n" langue="fra"> (cf récit 1)
 \ton LM+#H
 \lc ɖɯ˩lo˥
 \so F4
@@ -8837,6 +8838,8 @@
 \xe to teach a custom
 \xn 教授一个传统、一个习俗
 \xf enseigner une coutume
+\txtsup Funeral.75
+\doisup 10.24397/pangloss-0004572#S75
 \sn 2
 \de Good manners.
 \ge good_manners
