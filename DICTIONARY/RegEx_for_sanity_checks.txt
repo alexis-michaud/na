@@ -1,2 +1,0 @@
-Pour détecter les champs \pdv avec CLF sans lettre en indice :
-(\\pdv.*)[^αβγ]$
