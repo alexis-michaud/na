@@ -64332,12 +64332,14 @@
 \lx ʈæ˩tsʰo#˥
 \hm 1
 \or daeco
+\bw <langue="bod"> grwa tshang |tib{གྲྭ་ཚང}
 \ps n
 \cf ʈæ˩tsʰo#˥2
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \ton LM+#H
 \lc ʈæ˩tsʰo˥
+\nt <langue="fra" type="hist" print="n" dom="ety"> Identification du terme proposée par Camille Simon en décembre 2024. Le mot tibétain grwa tshang signifie `collège monastique', de grwa (pa) = moine + tshang = nid/tanière/famille/groupe. Dans l'hypothèse naturelle selon laquelle le mot est emprunté à une variété du khams, la voyelle /o/ est bien celle attendue: en effet, les codas nasales changent régulièrement la voyelle a en /o/ dans ces variétés. La correspondance paraît solide.
 \so F4
 \pdv ɭɯ˧β
 \de Class, group, set (of monks).
@@ -64355,6 +64357,7 @@
 \lx ʈæ˩tsʰo#˥
 \hm 2
 \or daeco
+\bw <langue="bod"> grwa tshang |tib{གྲྭ་ཚང}
 \ps clf
 \cf ʈæ˩tsʰo#˥1
 \sd <langue="fra"> classificateur
@@ -73463,7 +73466,6 @@
 \gn 马帮头领
 \df Chef de caravane.
 \gf chef_de_caravane
-\dt 07/Oct/2015
 
 \lx tsʰo˧pjɤ˧
 \sf <nb="B"> 490
