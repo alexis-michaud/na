@@ -4602,15 +4602,26 @@
 \ton LH
 \so F4
 \va <speaker="M23"> ID.
+\sn 1
 \pdv sɑ˧˥α
 \pdv ʈv̩˩β
-\de Lard, fat meat of pig; also: boneless, fleshless preserved pork: cured pork made from a whole pig by removing all its internal organs from the opened stomach, seasoned with salt and spices and then the opening is stitched together. The whole sewn pig is then pressed with a slabstone.
+\de Lard, fat meat of pig.
 \ge lard
-\dn 猪膘，琵琶肉
-\gn 猪膘／琵琶肉
-\df Lard; le même terme est employé pour désigner le cochon entier désossé et conservé dans sa peau (au moyen de salpêtre et de sel), qui se conserve une décennie, appelé «viande pipa» en chinois. La glose adoptée dans les textes est: cochon-conservé-entier.
-\gf lard/cochon_conservé_entier
-\dt 24/Apr/2017
+\dn 腊肉
+\gn 腊肉
+\df Lard.
+\gf lard
+\sn 2
+\pdv sɑ˧˥α
+\pdv ʈv̩˩β
+\de Cured whole pork: preserved meat made (by the Na, the Naxi, the Pumi and other ethnic groups) from a whole pig. The bones and internal organs are removed. The piece is then seasoned with saltpeter, salt, and spices (such as Sichuan pepper), sewn shut, and pressed with a slabstone. Its shape resembles a pipa (a Chinese lute), hence its alternative name: “pipa” pork. This preservation method allows for conservation for as long as a decade.
+\ge cured_whole_pork
+\dn 猪膘肉，又称琵琶肉。将整只生猪宰杀后去内脏、剔除骨头，用硝、盐和花椒等香料腌制，然后将猪缝合，用石板压扁。因其外形酷似琵琶，故又称“琵琶肉”。这种腌制方法使肉可长期保存，据说保质期能达到十年。
+\gn 猪膘肉／琵琶肉
+\df Porc entier affiné: charcuterie traditionnelle (chez les Na, les Naxi, les Pumi...) préparée à partir d'un cochon entier. L'animal est vidé, désossé, et conservé par du salpêtre, du sel et des épices (poivre du Sichuan notamment). Le cochon est ensuite recousu, puis pressé sous une dalle de pierre. Sa forme rappelle celle d'un pipa (luth chinois), d'où le nom de porc «pipa» employé en chinois. Cette méthode de conservation permet une conservation de longue durée: jusqu'à une décennie.
+\gf porc_entier_affiné
+\txtsup Funeral.176
+\doisup 10.24397/pangloss-0004572#S176
 
 \lx bo˧tsi˩
 \sf <nb="B"> 1950
@@ -37865,14 +37876,31 @@
 \sd <langue="eng"> object
 \ton L
 \lc mɤ˩mv̩˩˥
+\nt <type="hist" lang="fra" print="n"> Avant le 15/12/2024: traduit comme: 'porte-bougie', cmn 烛台, eng Candle holder.
 \so F4
 \pdv qʰwɤ˧˥α
-\de Candle holder.
-\ge candle_holder
-\dn 烛台
-\gn 烛台
-\df Porte-bougie: objet en cuivre dans lequel on verse de la paraffine fondue, ou de la graisse, et dans lequel on place une mèche; est utilisé dans les rituels.
-\gf porte_bougie
+\de Butter lamp. The butter lamp is an important ritual object in Tibetan Buddhism. It consists of a small metal container, often made of copper or bronze, into which a fatty substance is poured (traditionally yak butter; nowadays, vegetable oil or paraffin may be used) and a wick is placed. This lamp, which is like a candle, is used as an offering during rituals.
+\ge butter_lamp
+\dn 酥油灯。酥油灯是藏传佛教中重要的仪式用品。它由一个小型金属容器组成，通常是铜制或青铜制的，其中倒入脂肪物质（传统上使用牦牛酥油；现在也可以使用植物油或石蜡）并放置一根灯芯。这种灯，功能类似蜡烛，在仪式中被用作供品。
+\gn 酥油灯
+\df Lampe à beurre. La lampe à beurre est un objet rituel important dans le bouddhisme tibétain. Elle se présente sous la forme d'un petit récipient en métal, souvent en cuivre ou en bronze, dans lequel on verse un corps gras (traditionnellement du beurre de yak; de nos jours, on peut utiliser de l'huile végétale ou de la paraffine) et on place une mèche. Cette lampe, qui est comme une bougie, est utilisée comme offrande lors des rituels.
+\gf lampe_à_beurre
+\xv mɤ˩mv̩˩ ʈʂv̩˥
+\xe to light a butter lamp
+\xn 点酥油灯
+\xf allumer une lampe à beurre
+\xv hĩ˧=ɻæ˥ | mɤ˩mv̩˩ ʈʂv̩˥-tsʰɯ˩-dʑo˩, | pɤ˩jɤ˧ gv̩˥, | po˧-jo˥-kv̩˩! | tʰi˩˥, | tʰv̩˧ne˧-ʝi˥ | tʰi˧-tɕɯ˥!
+\xe When people come to light butter lamps [for the funeral ceremony], they make cakes and bring them! Then we arrange [these gifts] like this!
+\xn 当人们前来点亮酥油灯（用于葬礼仪式）时，他们会制作并带来！然后我们就这样摆放这些礼物！
+\xf Quand les gens viennent allumer des lampes à beurre [pour la cérémonie funéraire], ils font des galettes, et les amènent! Ensuite, on dispose [ces cadeaux] comme ça!
+\txt Funeral.90
+\doi 10.24397/pangloss-0004572#S90
+\xv ‘mɤ˩mv̩˩ʈʂv̩˥-ʂe˩pʰæ˩’ pi˩! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʂe˧pʰæ˩ hæ̃˩-kv̩˩-mæ˩! | ‘mɤ˩mv̩˩ʈʂv̩˥-ʂe˩pʰæ˩’ pi˩!
+\xe We used to talk about ‘the slice of meat of butter-lamps-lighting’! In the old days, a slice of meat was cut: it was called ‘the slice of meat of butter-lamps-lighting’! [Explanation: when visiting someone's home as part of the funeral ceremonies, in addition to a butter lamp, a piece of meat was brought as a contribution to the preparation of the funeral meal. The term used refers to the symbolic function of this piece of meat, brought specifically at the visit during which the visitors lit a butter lamp in the room where the body was temporarily buried before cremation.]
+\xn 我们有“点酥油灯的肉片”这种说法！在过去，（每家）会切一片肉（带过来）：这，被称为“点酥油灯的肉片”！[解释：丧葬仪式的一个组成部分是别人家来做客，这时要带酥油灯，还要带一块肉，作为对准备丧葬餐的贡献。这个词反映这块肉的象征意义，它是专门在来访者来点燃一盏点酥油时而带来的。］
+\xf On parlait de «la tranche de viande de l'allumage des lampes à beurre»! Autrefois, on coupait une tranche de viande: on appelait ça «la tranche de viande de l'allumage des lampes à beurre»! [Explication: lorsqu'on se rendait chez quelqu'un dans le cadre de la cérémonie funéraire, on amenait, outre une lampe à beurre, un morceau de viande comme contribution pour la préparation des repas funèbres. Le terme employé disait la fonction symbolique de ce morceau de viande, apporté spécifiquement à l'occasion de la visite lors de laquelle les visiteurs allumaient une lampe à beurre dans la pièce où le corps était provisoirement enterré avant la crémation.]
+\txt Funeral.88
+\doi 10.24397/pangloss-0004572#S88
 
 \lx mo˧nɑ˥
 \sf <nb="2011"> 960
@@ -55422,8 +55450,7 @@
 \xv ʁo˧ɬi˥, | bo˩ʈʂʰæ˧ ʐv̩˩-di˩ ɲi˩.
 \xe The large needle is used to sew pipa meat.
 \xn 大针，是用来缝琵琶肉的。
-\xf La grosse aiguille, ça sert à coudre le cochon-conservé-entier (viande séchée «pipa»).
-\dt 01/Oct/2015
+\xf La grosse aiguille, ça sert à coudre le porc-entier-affiné (porc «pipa»).
 
 \lx ʁo˧lv̩˧
 \sf <nb="2011"> 1767
@@ -58782,8 +58809,8 @@
 \so F4
 \de Cured meat; bacon.
 \ge bacon
-\dn 腊肉
-\gn 腊肉
+\dn 干肉、肉干、肉脯
+\gn 肉干
 \df Viande séchée.
 \gf viande_séchée
 
@@ -79935,7 +79962,7 @@
 \mr jɤ˩ʐe˧
 \mr bæ˩bæ˩1
 \mc <langue="fra"> Il est possible qu'une forme antérieure *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} soit devenue |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} par un phénomène d'harmonie. Au vu de la forte variabilité de formes pour le mot ‘occidental, étranger’, il est également imaginable que ce composé ait eu d'emblée pour déterminant une forme |fv{/ʐe˩ʐe˧/} et non |fv{/jɤ˩ʐe˧/}, ou encore une forme |fv{/je˩ʐe˧/}. Dans ce dernier cas, l'évolution vers la forme actuelle |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} aurait consisté à régulariser l'exception que constituait la syllabe empruntée /je/, en l'identifiant à une syllabe bien attestée dans le système: |fv{/ʐe/}.
-\mc <langue="eng"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable /je/, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
+\mc <langue="eng"> It may be that an earlier form *|fv{/jɤ˩ʐe˧-bæ˩bæ˩/} became |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} through vowel harmony. In view of the high variability of forms for the word ‘Western, foreign', it is also conceivable that this compound had a form |fv{/ʐe˩ʐe˧/} and not |fv{/jɤ˩ʐe˧/} as its determiner from the outset, or perhaps a form |fv{/je˩ʐe˧/}. In the latter case, the evolution towards the current form |fv{/ʐe˩ʐe˧-bæ˩bæ˩/} would have consisted in regularizing the exception constituted by the borrowed syllable |fv{/je/}, by identifying it with a syllable that is well attested in the system: |fv{/ʐe/}.
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
