@@ -10,7 +10,7 @@
 	<FORM kindOf="phono">ʑi˧qʰwɤ˧-ʈʂʰɯ˧, | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | ʑi˧qʰwɤ˧… -ʈʂʰɯ˧, | ɖɯ˧-ɭɯ˧ tsʰi˧˥ | pi˧-dʑo˩, ◊ ə˩-gi˩! | tʰi˩˥, | əəə… ə˧tso˧ mɤ˧-ɲi˩, | le˧-ʂɯ˧~ʂɯ˧ tʰi˧-tɕɯ˥. |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription commencée en août 2014 (2 premières minutes de l'enregistrement); poursuivie en juin 2015 (jusqu'à 3 mn 20 sec), en mai 2016 (jusqu'à 20 mn 20 sec), et en mai 2017. Achevée le 9 mai 2017. Conversion en XML en juillet 2017."/>
 	<NOTE xml:lang="fr" message = "Les 6 dernières minutes ont été transcrites avec l'aide de la transcription automatique réalisée par Oliver Adams."/>
-	<TRANSL xml:lang="fr">Les maisons, autrefois… les maisons, pour en construire une, n'est-ce pas! eh bien… [pour la construction d'une maison, il faut d'abord] tout bien préparer. </TRANSL>
+	<TRANSL xml:lang="fr">Les maisons, autrefois… les maisons, pour en construire une, n'est-ce pas! eh bien… [pour la construction d'une maison, il faut d'abord] tout bien préparer.</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S002">
 	<AUDIO start="9.799" end="19.853"/>
@@ -2135,7 +2135,62 @@
 	Voilà comment c'était, autrefois, l'histoire d'une maison! C'était diablement compliqué! On n'en voyait pas le bout! Quand on avait fini de construire la maison, qu'on avait invité les gens, qu'on avait fini tout ça, il restait encore la construction du bâtiment à deux étages! Pour la construction de la maison à deux étages, là, on n'engageait pas de travailleurs en dehors de la famille. On n'invitait pas non plus de gens à festoyer une fois le travail de construction achevé. Les membres de la famille eux-mêmes, les hommes, ils employaient le bois qui restait de la construction du bâtiment principal, pour construire la maison à deux étages. Quand on construit la maison à deux étages, les amis viennent quand même donner un coup de main! Là… on achève, vrai de vrai! On termine!
 	Quand on a fini, eh bien, la maison, elle comporte un bâtiment principal, et un bâtiment à deux étages! Elle comporte aussi une étable à cochons! Une porte principale! et une petite porte! Une maison, en fait de portes, elle comporte une porte principale, et une porte de derrière! En tout trois portes! On ne compte pas les portes à l'intérieur de la maison, celles qui donnent sur l'aire à battre le grain, mais on compte seulement celles qui ouvrent sur l'extérieur, et qu'il faut fermer pour garantir la ferme des intrusions. On ne ferme pas (littéralement ‘on n'attache pas’, 不拴) la porte principale! À cause des visiteurs nocturnes! On franchit la porte principale; c'est celle qu'on franchit pour entrer dans la ferme! Alors, voilà pour la première des portes: une porte principale.
 	Le jour où on installe la porte principale, eh bien… ça doit être un jour propice! Il est déterminé par l'astrologie! La grande porte, dans quel sens elle est orientée? Est-ce qu'elle pointera vers le village de Qiansuo? Est-ce qu'elle pointera vers le col de la montagne Muddee /mv̩˧ɖɯ˩/? vers le village de /kɤ˧sɑ˥-ɕi˩ʁwɤ˩/? Voilà dans quels termes on réfléchit pour l'orientation de la porte: qu'elle donne dans une belle direction. On disait qu'il fallait que la porte soit orientée vers des étendues boisées, pas vers des étendues rocheuses. On disait que si c'était orienté vers un lieu fertile et verdoyant, la famille qui habiterait dans la maison aurait de tout en abondance! Si la porte donne sur une direction qui n'est pas boisée, les gens de la maisonnée, ils auront beau se démener, leur labeur sera en vain! Vrai de vrai, dans le temps, je t'assure, c'était bien clair dans la tête des gens, ce principe-là, au sujet de la direction dans laquelle donne la porte! La porte ne devait pas être tournée en direction d'une falaise, à ce qu'on dit. Si on est tourné vers une falaise, les richesses vont disparaître de la maisonnée comme si elles tombaient d'une falaise! Voilà ce qu'on disait! Est-ce que c'est vrai ou pas, on sait pas, hein!</TRANSL>
-	<TRANSL xml:lang="zh"></TRANSL>
+	<TRANSL xml:lang="zh">《盖房子》（第二次讲述版本）（整篇整理翻译）
+
+建房之前，首先要准备好所有材料，包括木材、石头和瓦片。过去，屋顶不是用瓦片，而是用木板覆盖的。建房的第一步是砍伐制作木板所需的树木。木材砍伐后被存放在建筑工地上，而制作木板用的树干需要从山上运下来。运输方式先是人力背负，沿着山坡走到大路上，再用马驮运到工地。这是极为繁重的工作，从清晨鸡鸣时分出发，到晚上八九点才能返回，每天工作时间长达十几小时。为了完成这一任务，需要向拥有马匹的人家借马，或从人力充足的人家雇人。一般来说，建一座房子需要两三千块木板。
+所有的木材都已储存，主楼的墙壁也已经砌好，接下来就是铺设支撑屋顶的横梁。首先，沿着建筑的纵向铺设支撑屋顶的大横梁。在这些大横梁上，再以与建筑宽度成一定角度的方式铺设短横梁。最后，用薄木板盖住屋顶。至此，建筑就算完成了！
+接下来是房屋的内部结构。在房子里，必须建造餐具柜，用来存放餐具。还要建造粮仓和祖先的祭坛柜！祖先的祭坛柜是一件放在主房间里的家具，象征着祖先居住的地方。此外，还要做长凳！我们在每个细节上都非常规范。据说祖先的祭坛是家的核心。餐具柜和壁炉上方的祭坛构成了一个整体！这一切都是连贯的、计划好的一部分。建造的顺序是：先做客凳，然后是餐具柜，最后是祖先祭坛！等餐具柜安装完后，再装柜子的下半部分，接着是祖先祭坛！（祖先祭坛通常放在餐具柜上，餐具柜和祭坛是一体的）。之后再轮到装门！
+房子是全木头做的，真的！摩梭人的房子几乎完全用木头建造，每一个结构件都是用木头一点点做出来的。这种建筑方式和现在的完全不同。如今，用的是钢筋混凝土、砖、PVC管、电缆，还有石膏、油漆和清漆。而过去，家具也是木头做的，有些甚至是和房子一起定制的；但到了2000到2020年代，家具大多都是买现成的了。
+跨过大门后，会经过一个被称为门廊的地方（这是庭院和正房之间的空间，从正房跨过门槛后到达的一个有屋顶遮雨的地方）。门廊连接着庭院里的打谷场。（米可调查时，这个地方的地面已经铺上了水泥。）主厅里设有厨房和储藏室，而门廊（前庭）则是主室的延续。（门廊和主厅在同一个高度，与庭院相比略高一些，门廊和主厅之间的区别仅在于木墙和门槛。）要去厨房、储藏室或粮仓，通常都得经过前庭。房子的布局就是这样的！
+从门廊进入，有一扇门通向储藏室。储藏室用来存放各种东西，尤其是腌制的猪肉。过去，有些家庭甚至会让人住在储藏室里睡觉！这就是所谓的“农家生活”！那时候并没有专门的客房，储藏室往往就成了额外的卧室。
+储藏室还经常用来煮猪泥，而厨房就在主房间里。在主房间，我们还布置了卧室。客人来访时，他们通常会坐在主房间里。如果人多，就会安排客人住在小房间或者储藏室；如果人少，大家一般都围坐在正厅。
+每天，我们都会在炉鼎上烹饪三餐。做完饭后，我们总会在 Choddo /ʈʂʰo˧do˩/（壁炉旁边象征祖先的小台）上放一点食物，以示敬奉祖先。
+至于盖房子，技术不好的人可能三四个月都盖不完一座房子。但技术娴熟、动作麻利的人，二十天或者一个月就能完成整个工程，随后就可以搬进去住了。如果工人偷懒或不够用心，他们就会咔嚓咔嚓敲敲打打，拖拖拉拉，完全没有效率！
+过去的房子，墙壁大多是用土夯成的。土墙是怎么夯的呢？简单说，就是用木板搭成模子，把土倒进去压实，慢慢地就形成了墙。这种房子就是用泥土和木头夯实建成的，而且完全是靠手工完成，耗时费力。装土通常是两个人一组，两天就能夯出一堵墙。接着是榫卯的制作，一天做榫头，一个个地雕刻出来，再把木板刨平。木板一般是成对刨的。
+在过去，当地盖房子是一项非常艰巨的工作。如今，用传统方法建房已经几乎不可能了。建房最困难的并不是夯墙，而是砍伐和运输木材。从山谷里砍下木材后，必须扛着木头翻越一个又一个山谷，把木材扔下山坡，然后再背回山上。要把木材运到永宁平原，可能需要五六天的时间，甚至还要翻过十几个山谷才能抵达工地。然后才是盖楼，盖房子！
+在过去，两层楼并不常见！（注：这里的两层楼是指主屋之外的加盖楼房。在那个时候，很多家庭都没有这样的楼房。）只有那些特别聪明的人，比如永宁土司那样的人家，才会有两层楼的房子。
+没错，老摩梭人家的房子几乎全是木头建的！房子是用木材搭建的，而不是用泥墙砌成的。其实，把原木拼接在一起建成木屋并不是建房最困难的部分。最难的，是找到建房所需的木材，并把它从山上运下来。
+真正的难点在于运输：砍伐下来的原木需要从一个山谷运到另一个山谷，还得扛着木头爬山翻岭。等木材运回来后，就可以用这些木头随心所欲地盖房子了。如果不想再住在原来的村子里，还可以把木材搬到平原上的其他地方，重新建造房屋。一旦房屋框架拆除，木材就可以运到另一个地方，重新盖新房子。建好后，就可以住进去了！至于那些泥墙，搬家时通常就会被留在那里，或者干脆铲平。木材才是最重要的，因为它不仅能用来建房，还能随着家庭的迁徙而被带走，用在新的家园里。
+如今，人们建造的是泥墙、砖房和砖瓦房。而在过去，伐木建房是一项极其艰苦的工作！年轻人把木头扛到平原上，有时候脸上的皮肤都会晒脱一层！（没有防晒霜嘛，高山上的阳光又特别强烈，稍微一晒就会脱皮。更别提肩膀和扛粗木头的手了，都会被划伤。）
+在山上干活，食物还可能会全被吃完（不够吃了）！因为每天劳累过度，山上的人每天晚上都得煮腊猪肉和骨头汤来补身体。在高山劳作，油腻的饭菜可是必需的！
+汉族地区情况不同，因为海拔低，气候也温和，不吃肉问题不大。但是在永宁，不吃肉可不行！如果不吃肉，人的脸色就会变得像你（语言学家米可）这样：苍白，没有一点血色。天气冷的时候，身上也特别容易冷。而吃了肉，尤其是肥肉，不管外面多冷，身体都会暖和起来。即便是严寒的冬天，也不觉得冷！
+我们永宁的水也特别，大家都说这水有助消化，能让人胃口大开。在内地，天气热，喝的水可能没这个效果，吃肉的欲望也小。但是到了永宁，不吃肉可是大问题！
+过去建房子时，主妇们会给上山砍木头的男人准备食物。这些食物往往要忙活到深夜才能准备好，因为要发面 、揉面、蒸馒头。一旦施工需要十个工人人，那就得准备十个馒头！肉呢，每人两块，一大一小。（解释一下：一块肉工人自己当场吃，另一块可以带回家给他们家人。辛苦一天，大家得有点奖励嘛！）装好的食物塞了满满一篮子。
+等到清晨鸡叫的时候，主妇们就把食物送上山。到了山上，还得感叹：“哎呀，这木材今天得运到某某地方，可那地方偏偏没有水源！”你知道，山上有些地方是没水源的，平均三个山谷里才有一个溪流。所以说，运木头、盖房子，那是真正的辛苦活儿！
+在没有水源的时候，你必须从家里把水背到半山腰上。过去，没有什么豆腐渣罐，也没有塑料水箱，我们用的是竹子编织的背篓！背篓的缝隙都堵上了，把水倒进去，就不会漏了。我们带着竹编的储水的背篓，还带着装食物的背篓，也带一些泡菜。到了没有水的地方，我们就用泡菜的盐水把蔬菜和肉煮在一起，还会加入准备好的五谷杂粮。吃饭的时候，我们喝酒、喝茶！茶用水壶里的水泡，每人一碗茶！饭前，年轻人先喝上一碗酒。吃完饭，一天的劳作也就结束了。
+第二天，我们从前一天到达的地方继续出发，再翻过三四个山谷。到了有泉水的地方，就开始准备杀鸡！我们带了一只鸡——那时候鸡多得很！不像现在，鸡像苍蝇一样死掉，谁知道为什么！现在还有禽流感，养的鸡都死了。以前可不是这样，那时候母鸡自己带小鸡，不用人管，小鸡四处撒欢找吃的，到处啄。鸡多到随便抓一两只就能上山煮着吃。鸡煮熟了，味道特别好！大家会说：“昨天和前天我们都没水喝！今天能喝到鸡汤了！”就这样，我们杀鸡煮汤，一天又过去了。七八天后，木材终于运到了目的地。
+过去，我们全靠人背木材，没有拖拉机，也没有汽车。现在，木材可以通过拖拉机和公路运输，而以前，全靠从高山上，年轻人一根一根地背木头，肩膀经常肿得老高，像个大包一样。等木材运到目的地时，大家都很高兴：“啊呀，太好了！这可是些好木头啊！我们一定能建一栋漂亮的房子！”
+回到家后，他们会说：“啊呀，这下好了！我要盖一座漂亮的房子。如果现在死了，我也满足了！”对他们来说，建一座美丽的房子是人生的梦想。如果能住在这样的房子里，即使老去、离世，也觉得一生圆满。
+在我们这里，老人去世时会被安放在正房的长椅上。如果一个人死在离家很远的地方，那是个悲剧；但如果能死在自己的家中，尤其是家里最核心的地方，那就是一生幸福的结局了。住在漂亮房子里的老人，心里满足而安详，他们会觉得，自己的人生没有遗憾了。
+建房是一项漫长而讲究的工程，往往需要分几年完成。第一年砍伐木材，第二年开始盖房。我们没有“建造”这个词，而是用ddaq /dɑ˧˥/这个词，特指切割木材、制作建筑部件的精细木工活。而伐木工人的工作则叫做 qoq /tɕʰo˧˥/，意思是“把木头修整方正”。过去，我们常说：“我们要把树干拼成房子，把房子‘摆成正方形’。”这“方房子”指的就是建房前的准备工作。比如把木材从山上运到要建房子的地方，我们会说：“今年先‘摆平房子’，明年再正式盖！”
+选定动工的日子也是有讲究的，必须要找一位高僧来择吉。他会仔细翻看日历，然后告诉你：“嗯，这一年适合建房。比如18号、15号、8号，这些都是好日子。”一个月里可能只有三天是吉日。如果实在无法赶在这些日子动工，就只能再去请僧人选其他合适的日子。日期定下来后，家里的妇女们就开始忙着准备酒了。
+说到过去，纳家人的生活里，蔬菜并不多。萝卜和芜菁算是最常见的蔬菜了。每年九月，大家去地里挖萝卜。地里种什么就挖什么。挖完后，还会在地里挖一个小坑，把碾碎的燕麦秸秆铺进去，再把一棵棵萝卜编成辫子，存放在坑里。到来年三四月再把它们拿出来时，萝卜的头已经全变白了！
+这些腌制好的萝卜用来煮汤，或者和猪骨一起熬煮，再不然就用来搭配熏肉炒菜。至于其他蔬菜，过去根本没有现在这么丰富。大白菜？那是后来才有的！以前我们只有萝卜类的（黑）菜。说起这些，老一辈人还喜欢开玩笑：“以前哪有什么白菜！只有黑菜！”在第九个月，能吃到的绿色蔬菜少得可怜。于是我们把菜晒干，把它们编成一捆捆，像发辫一样，挂满了房子的每一个角落，所有晾晒空间都被占满了。
+等菜全晒干了，就会存起来，等上山探险时再带上。到了山上，烧点开水，把干菜放进去焯一焯，再洗干净，煮一煮，就能吃了！
+那年头没有什么新鲜蔬菜！从十月到第二年正月，连一片绿叶都没有。到了二月，车前草终于出来了！我们就去摘车前草。在中文里，车前草叫 kʰe˧mɤ˥ʝi˩，对吧！说的就是这个。我们到平原上挖车前草，这就是冬天唯一的新鲜蔬菜了。至于正月、二月的蔬菜……其实，当初纳人看到汉人种菜，才学会了种菜。这是汉人教的！
+到了二月，我们开始上山砍一种灌木，叫 khuaege /qʰwæ˩kɤ˩/。把它砍下来，带回去盖在菜地上，用来保温。我们这样铺好，浇水。有些人不知道诀窍，光浇水，种子也长不好。只有盖好了，才会长得好。这样一来，到了三月就能吃到新鲜蔬菜了！
+五月的时候，每顿饭都离不开车前草。午饭后，有人就会去挖一篮车前草。下午一点出发，晚上七点回来，篮子装得满满的，足够一家人吃。就是这么简单，我们只吃那些自然长出来的东西——平原上的野菜。过去，我们不会种菜，全靠挖野生植物。
+以前，纳人看到汉人的菜园会被吓坏：“呸！居然撒大便！”大家立刻捂住嘴巴，目瞪口呆地看着地里那一堆堆的粪便。要是有人提议买汉人种的菜，大家就说：“别买，他们菜里全是粪便！”那时候，我们真的不吃这些菜。但后来，汉人的菜实在太好看了，我们也跟着学种菜，用起了肥料，开始吃这些菜了。
+人就是这样有意思，不是吗？一切都是从别人那儿学来的。在田里，人们互相观察：你怎么做，我就学着做；我怎么做，你也跟着学。就这样，新鲜蔬菜成了我们饮食中不可缺少的一部分！
+以前，我们永宁纳人什么都不会做，只会晒菜，吃干菜。因为干菜轻，适合上山携带，两天的干菜不觉得重，而新鲜蔬菜，一顿饭的量就已经很沉了。干菜一泡水就能变软，用起来也方便。建房的时候，大家吃的就是这种菜，加点豆腐，家里的女人会兴奋地说：“咿呀好啊！今年我们要盖房子了！”
+这大喜的日子，擅长酿酒的人就忙着酿酒，擅长做豆腐的人就开始做豆腐。酒酿好后，放在坛子里两周，再煮沸蒸熟。一家人忙忙碌碌，满是期待。
+酿酒那天，我们可不会做豆腐！据说酒和豆腐不能一起做，也不能一起吃。在同一天酿酒和做豆腐，是不习惯的！我们总是先酿酒。酿好后，把酒装进一个个坛子里，一瓶一瓶地倒进放酒的大缸里。等酿酒的事忙完，妈妈们才开始洗豆子。她们把豆子打碎，放进沸水里焯一遍，然后开始捣碎，再一批一批地压成豆腐。豆腐压好后，用筛子过滤，静置，再切成大块。那时候，我们的菜肴很简单，只有豆腐和蔬菜。以前就更单调了，全是干菜。我们会煮一锅豆腐，再煮一锅干菜，然后混在一起吃。那个年代，可没有整桌菜随便挑的日子。每个人就是一碗米饭、一碗汤，再加一块肉，绝对不是像汉人那样把菜摆在桌子上共用。这么吃更卫生，不是吗？每个人都有自己的碗和勺子，不会把筷子放嘴里再夹菜。而且干饭用手抓着吃也方便，用手捏成球就行。以前，纳人每人有两个碗，一个装汤，一个装饭。我奶奶常说，早些年用的不是碗，是盘子！我也见过那种木盘子，是用木头雕刻的，虽然颜色黑黑的，不太好看，但能用。盘子有这么大，一次能装两勺麦片。盛第一勺的时候是满满的一大勺，接着再加一小勺，总是成双成对地盛。盘子里装麦片，汤就用碗盛。
+如今，再也见不到那些木盘子了，现在我们用的是搪瓷盘子。搪瓷盘子比木盘子漂亮多了，不是吗？所以现在各种餐具都有，选择多得很。
+说回建房那天。我们烧水、准备豆腐，做完这些准备后，开始盖房子。房子建好后，我们搬进去，接着就办乔迁派对，全村的人都会被邀请来庆祝，客人们还会带上礼物。
+搬家的那天一早，家里就有人点火。如果家里有合适的人选，他们自己点；如果没有合适的属相，就得请外人来点火。点火仪式的人要根据属相来选，比如蛇、牛、鸡属相的三人组合，或者龙、猴、鼠属相的三人组合。选这几个属相的人才适合点火仪式。
+一大早，三个人就起床准备。一个人把锅放在炉子上，一个人往锅里倒水，还有一个人点火。点火的仪式很讲究，家里的女主人会准备一些猪肉，切好，留着日后烹饪。同时，还有人带着茶叶、盐和酒进新家，把这些象征好运的东西摆进壁炉。
+你可能会问，壁炉里到底“装”什么？其实，大家会轮流往壁炉里放东西，并且许下好运和繁荣的祝福。比如说，“繁荣昌盛！”“财源滚滚！”对吧？我们就是这样做的。这时，祭司会举行 Ddaelaeso 仪式，祈求好运。当仪式结束后，我们就邀请客人来庆祝，热闹非凡！
+客人们带来的礼物可真是五花八门。有的带来了酒，有的带了茶，还有香烟和钱。他们把所有的礼物都放在祭坛上。我们则招待他们吃饭。母亲们坐下来聊天，聊着聊着，总会说：“好了，你们吃饱了！你们建了一座这么漂亮的房子！如果有一天你死了，也会死得很幸福。住在这里，多幸福啊！如果你的孩子聪明，你也该满足了。这世上还有比这更好的事吗？”
+她们常常这样感慨。还有人会说：“聪明的孩子才能给你盖这么漂亮的房子！哇，我们没你们这么聪明！我们的房子可没这么好看！”主人家的女人会回答：“别担心，人活着有一辈子的时间去做出非凡的事情。你的儿子还年轻，将来也能成就一番事业！”话题就这样展开了。大家围坐在一起，你说你的看法，我说我的故事，新房子里充满了欢声笑语。
+母亲们总会夸赞主人家：“咿呀好啊！你的房子建得真漂亮！”还有人开玩笑似的说：“哎呀，女士们，你们家肯定没这位女士家好看吧？”就这样，大家聊聊这个，谈谈那个，互相安慰：“别担心，别担心！有什么好担心的？日子总会越过越好，厄运不会永远持续下去！”过去的人就是这样聊天的。
+那一天，家里的女人们总算可以好好休息一下。有些客人，特别是从远道赶来的，只吃了一顿饭就走了；而住得近的朋友，或者关系特别好的人，则会留下来一起吃午饭、晚饭，甚至参加晚上的舞会。我们还会热情地邀请他们：“你们为什么不留下来过夜呢？今晚留下来一起跳舞吧！”
+到了晚上，大家尽情跳舞。跳舞的时候，所有的烦恼都会被踩在脚下，心情随着舞步变得轻松起来。这就是舞蹈的意义：忘记不满和悲伤，让自己完全沉浸在快乐之中。(注意摩梭语原文中的比喻：就像动词“踩在脚下”，指的是舞蹈，而直接宾语则是生活中的所有烦恼：“我们把一切都踩在脚下，直到我们从烦恼中解脱出来”）舞会热闹非凡，观看舞者的观众坐在长凳上，边看边聊，说起舞者的衣着、舞步，当然聊的话题里，家长里短流言蜚语也不少。
+跳完舞，到了深夜，就是所谓的“星空晚餐”时间了。这是一个特别的夜宵，通常准备得非常丰盛。以前，我们的晚饭一般在八点左右吃完，“星空晚餐”则会在十一点左右开始。大家喝酒、嗑瓜子、吃水果，聊天说笑，整夜都沉浸在欢乐中。
+过去建房的过程就是这样，漫长得看不到尽头，复杂得让人说也说不完 。房子盖好了，客人请来了，仪式结束了，还要继续建两层楼。建两层楼的时候，我们没有请外人，全靠家里男人自己动手，用主楼剩下的木料建成了两层小楼。楼盖好了，朋友们还会来帮忙收尾。
+完工后，整个家就变成了一个大院子：有一栋主楼、一栋两层小楼，还有猪圈，以及前后两扇门。院子里总共有三扇门。我们不算通往屋里或谷仓的那些小门，只算通向院子外的大门，这些门一定要关好，防止入侵者破坏农场。不过，大门不会上锁，因为晚上可能有访客要进来。访客必须从正门进入，这就是院子的第一道门。
+安装大门那天，选的也是个黄道吉日。门的朝向要经过一番考量。有人说，大门应该朝着树林，而不是石头多的地方。如果门朝着肥沃、绿色的地方，住在这里的家庭就会顺风顺水；如果朝着悬崖或荒地，家里的运势可能就不太好，财富甚至会像从悬崖上掉下去一样消失。人们很重视这些讲究，虽然谁也不知道是真是假。
+[根据 DeepL (deepl.com) 自动生成并经人工核对的译文，于 2024 年 11 月改编自法文全文译本。赵筱筠编辑修改。]
+</TRANSL>
 	<TRANSL xml:lang="en">Here is how houses used to be built: first you had to prepare everything properly, the timber, the stones and the tiles. In the old days, roofs were covered with wooden planks, not tiles. The first step was to cut down the trees that would be used to make the boards.
 	Trees were felled for timber, and the timber was stored on the building site. The trunks from which the planks were made were brought down from the mountains: first they were carried by people [down the mountain slope until one reached the main path], then on horseback. It took a day's transport to get to the construction site! We set off early in the morning, before the cock crows, at around five o'clock, and in the evening we might not get back until eight! That's a long working day. This is how it was done: we borrowed horses from the households that had some! We hired people from households with plenty of manpower! Everyone went! A vast amount of planks was needed: we'd cut two or three thousand boards!
 	Once all the timber had been stored and the walls of the main building had been built, the beams supporting the roof were laid. First, the large horizontal beams supporting the roof were laid lengthways along the building. On them rested the short beams, laid at an angle to the width of the building. The roof was then covered with thin planks. The building was now complete! Next came the interior of the house. In the house, you had to build the sideboard, the piece of furniture in which you stored your crockery. The granary had to be built, and the ancestors' altar cabinet! (A piece of furniture in the main room, the symbolic place where the ancestors lived.) You had to build the bench! We did everything right, in every detail! The ancestral altar piece is said to be the heart of the home! The sideboard and the altar above the fireplace (with its thangka) form a whole! It's all part of a coherent whole, there's a master plan behind it all! The order of construction was: first the guest bench, then the sideboard, then the ancestor altar! After the sideboard, when you had installed the lower part of the cabinet, you proceeded to the ancestors' altar! (The ancestors' altar is placed on the sideboard; sideboard and altar together form a single unit.) Then we went on to the door!
