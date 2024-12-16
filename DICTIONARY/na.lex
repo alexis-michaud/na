@@ -10380,7 +10380,7 @@
 \mr dze˧ɭɯ˧
 \mr ɻ̩̃˥1
 \ps n
-\lc dze˧ɭɯ˧ɻ̩̃˧
+\lc dze˧ɭɯ˧ʔɻ̩̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥)
@@ -10565,7 +10565,7 @@
 \mr †dze˧
 \mr ɻ̩̃˥1
 \ps n
-\lc dze˧ɻ̩̃˧
+\lc dze˧ʔɻ̩̃˧
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
 \ton #H
@@ -36727,7 +36727,7 @@
 \sf <nb="2011"> 229
 \or mae'eun
 \ps n
-\lc mæ˧ɻ̩̃˧
+\lc mæ˧ʔɻ̩̃˧
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <dom="sem" langue="fra"> Littéralement «os de la queue».
@@ -54251,7 +54251,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: premières notations 2006: Rɔ˥ pv̩˥ u͂˥; notations 2006 revues: ʁɑ˧pv̩˧oe͂˧, ʁɑ˧pv̩˧bv̩˧oe͂˧/oe͂˞˧)
 \ton #H
-\lc ʁɑ˧pv̩˧ɻ̩̃˧
+\lc ʁɑ˧pv̩˧ʔɻ̩̃˧
 \so F4
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥α
@@ -56885,7 +56885,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> Analyse phonémique /ɻ̩̃/ réalisée en 2007. Auparavant: noté comme /ɑ͂˞/, prononciation que M18 avait jugée fautive (trop ouverte), puis /ə˞͂/ ("à la mode naxi": /ə˞/ est une des voyelles du naxi), puis comme /œ͂˞/. La présence d'une nasalité avait rapidement été établie. L'homophonie avec la première syllabe de /ɻ̩̃˧ko˩/ 'tibia' a été vérifiée.
 \ton #H
-\lc ɻ̩̃˧
+\lc ʔɻ̩̃˧
 \sn 1
 \so F4
 \va <speaker="F5"> ID.
@@ -56930,7 +56930,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \ton H
-\lc ɻ̩̃˧
+\lc ʔɻ̩̃˧
 \so F4
 \va <speaker="M18"> ID.
 \de Destitute, impoverished, poor; troubled, helpless.
@@ -57003,7 +57003,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \ton Mβ ≈ H$ ≈ #H
-\lc ɖɯ˧ ɻ̩̃˧ ≈ ɖɯ˧ ɻ̩̃˥
+\lc ɖɯ˧ ʔɻ̩̃˧ ≈ ɖɯ˧ ʔɻ̩̃˥
 \so F4
 \va <speaker="F4"> ɻ̩̃˥
 \va <speaker="F4"> ɻ̩̃˥$
@@ -57140,7 +57140,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009; ton d4) (note ancienne: “gifler", par erreur)
 \ton L#
-\lc ɻ̩̃˧hæ˩
+\lc ʔɻ̩̃˧hæ˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> *
@@ -57164,7 +57164,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: /œ͂˞˥ ku˩/) (est bien la même syllabe, au ton près, que la 1e syll. de 214 “os") (vérifié: initiale vélaire et non uvulaire)
 \ton L#
-\lc ɻ̩̃˧ko˩
+\lc ʔɻ̩̃˧ko˩
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -57187,7 +57187,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L#
-\lc ɻ̩̃˧kɤ˩
+\lc ʔɻ̩̃˧kɤ˩
 \sy sɯ˧ɻ̩̃˧mi#˥
 \so F4
 \pdv kɤ˧˥α1
@@ -57208,7 +57208,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (2006: noté oe͂˞˧mi˧)
 \ton M
-\lc ɻ̩̃˧mi˧
+\lc ʔɻ̩̃˧mi˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -57299,7 +57299,7 @@
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (notation 2006: oe͂˥ ʈʂæ˩; différence seulement phonétique, non phonémique) (sens: premières notations: n'avais noté que le sens “articulation de la jambe")
 \ton L#
-\lc ɻ̩̃˧ʈʂæ˩
+\lc ʔɻ̩̃˧ʈʂæ˩
 \cf ʈʂæ˧˥3
 \so F4
 \va <speaker="F5"> ID.
@@ -57371,7 +57371,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" dom="sem" langue="fra"> Identification vérifiée en 2016 d'après le livre ‘Médecine Mosuo'.
 \ton L#
-\lc ɻ̩̃˧ʈʂwæ˩
+\lc ʔɻ̩̃˧ʈʂwæ˩
 \so F4
 \de Sambucus, |fi{Toricellia angulata Oliv.}
 \ge sambucus
@@ -57794,7 +57794,7 @@
 \or shae'eun
 \mr ɻ̩̃˥1
 \ps n
-\lc ʂæ˩ɻ̩̃˩˥
+\lc ʂæ˩ʔɻ̩̃˩˥
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \ton L
@@ -61727,7 +61727,7 @@
 \nt <type="hist" print="n" langue="fra"> +ɲi˥ (notes avant 2009: sɯ˥ œ͂˞˥ mi˥; tons: le 5/11/2007, corrige en ˧ ˧ ˧ “car ce sont les mêmes tons que l'item 29; peut-être ˥ ˥ ˥ pour les deux") (confirmé: n'est pas /si/)
 \nt <type="hist" print="n" langue="fra"> (correction 2007, auparavant noté oe͂˥kɤ˧)
 \ton #H
-\lc sɯ˧ɻ̩̃˧mi˧
+\lc sɯ˧ʔɻ̩̃˧mi˧
 \cf ɻ̩̃˧kɤ˩
 \so F4
 \va <speaker="F5"> ID.
@@ -61751,7 +61751,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \ton #H
-\lc sɯ˧ɻ̩̃˧
+\lc sɯ˧ʔɻ̩̃˧
 \pdc <langue="fra" type="hist" print="n"> xxxx Quel est ce classificateur? Celui des vallées? Un autre, qui désignerait les arbres?
 \so F4
 \pdv lo˩
@@ -72376,7 +72376,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> type d2a (+ɲi˥) (avant 2009: noté: /tsʰɯ˥zɯ˥ ɻ̩̃˥/; 3e syll.: 2006: pensé analyser comme /o/; 2007: pensé à /ṽ/)
 \ton #H
-\lc tsʰi˧zi˧ɻ̩̃˧
+\lc tsʰi˧zi˧ʔɻ̩̃˧
 \so F4
 \va <speaker="M21"> tsʰv̩˧zv̩˧-ɻ̩̃#˥
 \pdv kɤ˧˥α1
@@ -75379,7 +75379,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n" langue="fra"> (2006: tsʰɯ˩tsʰɯ˩ oe͂˩˥)
 \ton L
-\lc tsʰɯ˩tsʰɯ˩ɻ̩̃˩˥
+\lc tsʰɯ˩tsʰɯ˩ʔɻ̩̃˩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -79713,7 +79713,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton #H
-\lc ʐe˧ɻ̩̃˧
+\lc ʐe˧ʔɻ̩̃˧
 \sn 1
 \so F4
 \pdv kʰɯ˩β
