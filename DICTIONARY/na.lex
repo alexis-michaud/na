@@ -3666,18 +3666,18 @@
 \sd <langue="eng"> morphosyntax
 \ton 0
 \so F4
-\de Sound of an object sliding rapidly along a rope, e.g. a shuttle to cross the Yangtze River: ‘Swish!’, ‘Whoosh!’, ‘Whizz!’
+\de Sound of an object gliding or sliding rapidly along a rope, e.g. a shuttle to cross the Yangtze River: ‘Swish!’, ‘Whoosh!’, ‘Whizz!’
 \ge |fg{ideo}.‘Whizz!’
 \dn 形声词：物体沿绳索快速滑动的声音，如横渡长江用的竹子工具：‘唰！’、‘嗖！’、‘咝！’。
-\gn 啵！
-\df Bruit d'un objet qui glisse à toute vitesse le long d'une corde, par exemple une navette de bambou coulissant le long d'une corde pour traverser le Yangtzé: «Vzzzt!», «Zzzuip!»
+\gn 咝！
+\df Bruit d'un objet qui glisse à toute vitesse le long d'une corde, par exemple une glissière (navette) de bambou coulissant le long d'une corde pour traverser le Yangtzé: «Vzzzt!», «Zzzuip!»
 \gf |fg{ideo}.Vzzzt!
-\xv ʈʂʰɯ˧ne˧-ʝi˥ | mv̩˩tɕo˧ ɖʐɤ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | æ̃˩ʁv̩˩-ʈʂʰɯ˥, | pɑ! pi˧, | gɤ˩-pʰi˧ le˧-tsʰɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!
-\xe As he grabbed her again like this [squeezing her chest], well… it made her spit out the egg, plop!
-\xn 他又拉了一下，这时候鸡蛋就都被吐出来了：“啵！”
-\xf Comme il la saisissait à nouveau comme ceci [comprimant sa poitrine], eh bien… l'œuf, plop! il a été recraché!
-\txt BuriedAlive3.65
-\doi 10.24397/pangloss-0004539#S65
+\xv bæ˩-po˩-ɳɯ˥ | ʐwæ˧ | tʰi˧-tsɯ˧~tsɯ˧-kwɤ˩tɕɯ˩-zo˩, | gi˧dʑɯ˧-qo˧mv̩˧, | fv! pi˧, | ɖɯ˧-tɕo˥ | kʰɯ˧˥!
+\xe When one had tied a horse with a small rope [to the shuttle that slid on the massive rope], above the Yangtze, Whizz!!! we sent it over there! (=the horse was sent over the river on the rope, to reach the other bank)
+\xn 当人们用一根小绳子[把马拴在梭子上，梭子在巨大的绳子上滑动]把马拴在长江上面时，“唰！”人家把它送过去！(马被拴在绳索上越过长江，到达对岸）。
+\xf Quand, avec une corde, on avait attaché un cheval [à la navette qui coulissait sur la corde], au-dessus du Yangtze, Vzzzt!!! on l'envoyait par là-bas! (=on le lançait sur la corde au-dessus du fleuve, pour atteindre l'autre rive)
+\txt Caravans.137
+\doi 10.24397/pangloss-0004531#S137
 
 \lx hwɑ.lɑ~hwɑ.lɑ~hwɑ.lɑ
 \or huala-huala-huala

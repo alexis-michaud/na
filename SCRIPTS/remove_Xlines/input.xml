@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
 <TEXT id="crdo-NRU_F4_CARAVANS" xml:lang="nru">
 	<HEADER>
 		<TITLE xml:lang="en">Caravans: about the trade which flourished in the area in the second quarter of the twentieth century</TITLE>
@@ -20,22 +22,24 @@
 	<S id="CaravansS003">
 		<AUDIO start="15.9839" end="22.5627"/>
 		<FORM>ʈʂʰɯ˧ | ə˧ʝi˧-ʂɯ˥ʝi˩ | &lt;ʐ… əəə…&gt; ʐwæ˧ tɕɯ˩! | ʐwæ˧ tɕɯ˩! | sɯ˧pʰi˧-bv̩˧ | ʐwæ˧ tɕɯ˩-kv̩˩-mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
-		<NOTE xml:lang="fr" message="L'expression /ʐwæ˧ tɕɯ˩/ veut dire 'conduire une caravane, mener une caravane, faire du commerce par caravanes'. Elle pourrait être traitée comme une entrée lexicale, /ʐwæ˧tɕɯ˩/, du fait que la composante /ʐwæ˥/ n'a pas simplement son sens littéral de 'cheval': les meilleures bêtes de somme sont des mules. Le choix fait ici consiste néanmoins à traiter /ʐwæ˧ tɕɯ˩/ comme une simple combinaison objet+verbe."/>
-		<TRANSL xml:lang="fr">Lui, autrefois, il faisait du commerce par caravane! Il lui arrivait de participer à des caravanes pour le seigneur [de Yongning], autrefois!</TRANSL>
+		<NOTE xml:lang="fr"
+			message="L'expression /ʐwæ˧ tɕɯ˩/ veut dire 'conduire une caravane, mener une caravane, faire du commerce par caravanes'. Elle pourrait être traitée comme une entrée lexicale, /ʐwæ˧tɕɯ˩/, du fait que la composante /ʐwæ˥/ n'a pas simplement son sens littéral de 'cheval': les meilleures bêtes de somme sont des mules. Le choix fait ici consiste néanmoins à traiter /ʐwæ˧ tɕɯ˩/ comme une simple combinaison objet+verbe."/>
+		<TRANSL xml:lang="fr">Lui, autrefois, il faisait du commerce par caravane! Il lui arrivait de participer à des caravanes pour le seigneur [de Yongning], autrefois! </TRANSL>
 		<TRANSL xml:lang="zh">以前他是跑马帮的！给永宁土司做马帮！</TRANSL>
 	</S>
 	<S id="CaravansS004">
 		<AUDIO start="23.2937" end="35.1517"/>
 		<FORM>sɯ˧pʰi˧-bv̩˧ | ʐwæ˧ | ɖɯ˧-so˩ kv̩˩ tɕɯ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩… | əəə… ɬɑ˧sɑ˧, | ʐwæ˧ tɕɯ˩. | əəə… ʐwæ˧ le˧-po˧˥, | ʐwæ˧ tɕɯ˩-bi˩. |</FORM>
-		<NOTE xml:lang="en" message="/-bi˩/ is tacked on after the end of the sentence, as an afterthought."/>
-		<TRANSL xml:lang="fr">Il conduisait plusieurs des chevaux du seigneur, autrefois. [De Yongning jusqu'à] Lhasa, il menait les chevaux. On amenait les chevaux, (et) on partait en caravane.</TRANSL>
+		<NOTE xml:lang="en"
+			message="/-bi˩/ is tacked on after the end of the sentence, as an afterthought."/>
+		<TRANSL xml:lang="fr">Il conduisait plusieurs des chevaux du seigneur, autrefois. [De Yongning jusqu'à] Lhasa, il menait les chevaux. On amenait les chevaux, (et) on partait en caravane. </TRANSL>
 		<TRANSL xml:lang="zh">他可以同时赶着土司的好几匹马上路，到拉萨。货物捆在马上就出发！</TRANSL>
 	</S>
 	<S id="CaravansS005">
 		<AUDIO start="35.8502" end="44.1995"/>
 		<FORM>tʰi˩˥, | ʐwæ˧ tɕɯ˩-bi˩-dʑo˩, | njæ˧sɯ˩kv̩˩ | le˧-tsʰɯ˩, | ʐwæ˧ tɕɯ˩-bi˩-ho˩ | ɖɯ˧-ɲi˥-dʑo˩, | ʐwæ˧-hɑ˧-no˧˥, | tsɑ˧bɤ˧-ʈʂʰɯ˧, ◊ ə˩-gi˩! | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 		<NOTE xml:lang="fr" message="/-no˧˥: est un °top"/>
-		<TRANSL xml:lang="fr">Alors, quand partait la caravane, nous autres, on venait [participer aux préparatifs]; le jour où partait la caravane, pour ce qui est de la nourriture des chevaux, [on préparait de] la farine, n'est-ce pas! autrefois!</TRANSL>
+		<TRANSL xml:lang="fr">Alors, quand partait la caravane, nous autres, on venait [participer aux préparatifs]; le jour où partait la caravane, pour ce qui est de la nourriture des chevaux, [on préparait de] la farine, n'est-ce pas! autrefois! </TRANSL>
 		<TRANSL xml:lang="zh">当马队要出发的时候，全家人都来壮行，帮着准备马吃的粮食粉。</TRANSL>
 	</S>
 	<S id="CaravansS006">
@@ -47,7 +51,8 @@
 	<S id="CaravansS007">
 		<AUDIO start="50.3721" end="55.6188"/>
 		<FORM>mmm… tʰi˩˥, | le˧-tɕɯ˧˥! | ʐwæ˧-ʁo˧to˩! | ɑ˩ʁo˧-ɳɯ˧ hɯ˧-dʑo˧, | le˧-tɕɯ˧˥, | po˧-hɯ˧-ɲi˥-mæ˩! |</FORM>
-		<NOTE xml:lang="fr" message="emploi inattendu de /ʁo˧to˩/: l'emploi temporel me paraissait plus fréquent."/>
+		<NOTE xml:lang="fr"
+			message="emploi inattendu de /ʁo˧to˩/: l'emploi temporel me paraissait plus fréquent."/>
 		<TRANSL xml:lang="fr">ensuite, on l'emportait/on la transportait [avec la caravane]! sur les chevaux! Quand on partait de la maison, on la transportait, on l'emmenait [avec soi]!</TRANSL>
 		<TRANSL xml:lang="zh">把粮食驮在马上，出发的时候带着粮食！</TRANSL>
 	</S>
@@ -60,8 +65,10 @@
 	<S id="CaravansS009">
 		<AUDIO start="65.8199" end="79.9521"/>
 		<FORM>tʰi˧-tɕɯ˧˥! | tʰi˩˥, | le˧-tɕʰi˧! | mmm… tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ ◊ -dʑo˩, | əəə… zo˩no˥… | tsʰo˧pæ˧ mv̩˥ʈʂæ˩-kv̩˩-mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩! | ʐwæ˧ tɕɯ˩-hĩ˩-ʈʂʰɯ˩-dʑo˩! | tsʰo˧pæ˧, | lɑ˧do˧, | pi˧-zo˩! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧-tɕi˥/, pensant que cela voulait dire 'on rangeait'."/>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ʐwæ˧ tɕɯ˩-hĩ˩ | ʈʂʰɯ˧-dʑo˩/. (note de juillet 2012)"/>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡tʰi˧-tɕi˥/, pensant que cela voulait dire 'on rangeait'."/>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡ʐwæ˧ tɕɯ˩-hĩ˩ | ʈʂʰɯ˧-dʑo˩/. (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">on transportait [des marchandises]! ensuite, on [les] vendait! Mon oncle, eh bien… on le désignait comme "chef de caravane" (mot tibétain : tshong pa ཚང་པ), autrefois! Celui qui dirigeait des caravanes! On parlait du "chef de caravane", et des "palefreniers/caravaniers"!</TRANSL>
 		<TRANSL xml:lang="zh">他们就这样运货回来，然后卖出去。我舅舅是马帮的首领。其他随行的人，叫“马夫”！</TRANSL>
 	</S>
@@ -69,7 +76,8 @@
 		<AUDIO start="80.2445" end="88.0902"/>
 		<FORM>zo˩no˥, əəə… | ʐwæ˧ tɕɯ˩-hĩ˩ | ɖɯ˧-pi˧˥ | hɤ˩-hĩ˩˥, | tʰo˩lo˥, | ɻ̩˩ɻ̩˧lo˩ | pi˧, | di˩-hĩ˩˥ ◊ -dʑo˩, | tsʰo˧pæ˧ mv̩˥ʈʂæ˩-kv̩˩-mæ˩! |</FORM>
 		<NOTE xml:lang="fr" message="c'étaient des mulets de sexe féminin qui marchaient en tête; des montures de prix."/>
-		<NOTE xml:lang="fr" message="vérification au sujet de /tʰo˩lo˧/, /ɻ̩˩ɻ̩˧lo˩/: au vu du son et du sens (头、二?) cela paraît être des emprunts chinois. Le ton montant en 1e syllabe dans ɻ̩˩ɻ̩˧ paraît également un signe sûr d'emprunt. Deuxième syllabe: 头(…?)、二(…?). Réponse 2017: n'est pas perçu comme des emprunts. Aucune conscience de leur origine."/>
+		<NOTE xml:lang="fr"
+			message="vérification au sujet de /tʰo˩lo˧/, /ɻ̩˩ɻ̩˧lo˩/: au vu du son et du sens (头、二?) cela paraît être des emprunts chinois. Le ton montant en 1e syllabe dans ɻ̩˩ɻ̩˧ paraît également un signe sûr d'emprunt. Deuxième syllabe: 头(…?)、二(…?). Réponse 2017: n'est pas perçu comme des emprunts. Aucune conscience de leur origine."/>
 		<TRANSL xml:lang="fr">les caravaniers un peu habiles, ils étaient sur l'un des deux chevaux de tête! Celui qui avait la première monture, ou la deuxième monture, il portait le titre de "chef de caravane"! (littéralement: 'on l'appelait "chef de caravane"!') (Note: il avait parmi ses responsabilités celle du choix des marchandises achetées à destination, avec le produit de la vente de ce que la caravane avait apporté. Les deux chevaux qui marchaient en tête étaient magnifiquement bridés et décorés.)</TRANSL>
 		<TRANSL xml:lang="zh">马帮习惯上来说，骑在带队的第一匹马或者第二匹马上的人，就是“马帮头领”。</TRANSL>
 	</S>
@@ -78,8 +86,10 @@
 		<FORM>tʰi˩˥, | lɑ˧do˧ | pi˧-dʑo˩, | zo˩no˥ | ʈʂʰɯ˧-qɑ˧ tʰi˧-tɕɯ˧-kv̩˥-hĩ˩… | qɑ˧-hĩ˥, | ʈʂʰɯ˧-qɑ˧ | tʰi˧-qɑ˩~qɑ˩-hĩ˩! |</FORM>
 		<NOTE xml:lang="fr" message="Vérification 2016: est le verbe /tɕɯ˧˥/ 'transporter à dos d'animal', et non le verbe /tɕɯ˧/ 'mettre, poser'. S'il s'était agi de ce dernier, on aurait attendu: /ʈʂʰɯ˧-qɑ˧ tʰi˧-tɕɯ˥-kv̩˩-hĩ˩/ et non /‡‡ʈʂʰɯ˧-qɑ˧ tʰi˧-tɕɯ˧-kv̩˥-hĩ˩/ comme précédemment noté. Pour le verbe /tɕɯ˧˥/ 'transporter à dos d'animal', les tons ici sont réguliers: /ʈʂʰɯ˧-qɑ˧ tʰi˧-tɕɯ˧-kv̩˥-hĩ˩/."/>
 		<NOTE xml:lang="fr" message="gloses: "/>
-		<NOTE xml:lang="fr" message="tʰi˩˥  lɑ˧do#˥  pi˥ dʑo˩  zo˩no˧       ʈʂʰɯ˥ qɑ tʰi tɕɯ˧˥    kv̩˧˥   hĩ˥ qɑ˧˥  hĩ  ʈʂʰɯ˥ qɑ tʰi qɑ˧˥  ~      hĩ˥"/>
-		<NOTE xml:lang="fr" message="alors palefrenier °top °top  maintenant/°phatique °3sg  °dat °dur transporter °abilitive °rel aider °rel °3sg  °dat °dur aider °activité~  personne"/>
+		<NOTE xml:lang="fr"
+			message="tʰi˩˥  lɑ˧do#˥  pi˥ dʑo˩  zo˩no˧       ʈʂʰɯ˥ qɑ tʰi tɕɯ˧˥    kv̩˧˥   hĩ˥ qɑ˧˥  hĩ  ʈʂʰɯ˥ qɑ tʰi qɑ˧˥  ~      hĩ˥"/>
+		<NOTE xml:lang="fr"
+			message="alors palefrenier °top °top  maintenant/°phatique °3sg  °dat °dur transporter °abilitive °rel aider °rel °3sg  °dat °dur aider °activité~  personne"/>
 		<TRANSL xml:lang="fr">Quant aux palefreniers, ils travaillaient pour lui (littéralement "ils transportaient pour lui"); [c'étaient] des assistants, des gens qui l'aidaient!</TRANSL>
 		<TRANSL xml:lang="zh">马夫都为他效力！</TRANSL>
 	</S>
@@ -110,13 +120,14 @@
 	<S id="CaravansS016">
 		<AUDIO start="116.3056" end="122.4133"/>
 		<FORM>tʰi˩˥, | ɑ˩ʁo˧ ʈʂʰɯ˧-qo˧ | ɬɑ˧sɑ˧-ɳɯ˧ | le˧-po˧˥, | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩. | əəə… ɬi˧di˩ tɕi˩. |</FORM>
-		<TRANSL xml:lang="fr">On rapportait [ces choses-là] jusqu'à la maison, depuis Lhasa; on apportait [ces choses] en caravane. On les stockait à Yongning.</TRANSL>
+		<TRANSL xml:lang="fr">On rapportait [ces choses-là] jusqu'à la maison, depuis Lhasa; on apportait [ces choses] en caravane. On les stockait à Yongning. </TRANSL>
 		<TRANSL xml:lang="zh">他们带着货物从拉萨回来，存在永宁。</TRANSL>
 	</S>
 	<S id="CaravansS017">
 		<AUDIO start="122.9493" end="131.1849"/>
 		<FORM>ɬi˧-di˩-ɳɯ˩ | wɤ˩˥ | bi˧, | əəə… wɤ˩˥ | wɤ˩˥ | ʈʂʰɯ˧ | ɖɯ˧-ɬi˧ ɖʐɯ˧-ho˧-ze˩! | ɲi˧tsi˧-hɑ̃˧ ɖʐɯ˧-ho˥-ze˩, | pi˧, |</FORM>
-		<NOTE xml:lang="fr" message="deux expressions différentes: ɖɯ˧-ɬi˧ dzi˩ 'habiter un mois' et ɖɯ˧-ɬi˧ ɖʐɯ˧ 'la durée d'un mois'"/>
+		<NOTE xml:lang="fr"
+			message="deux expressions différentes: ɖɯ˧-ɬi˧ dzi˩ 'habiter un mois' et ɖɯ˧-ɬi˧ ɖʐɯ˧ 'la durée d'un mois'"/>
 		<TRANSL xml:lang="fr">Ensuite, on repartait de Yongning; à nouveau, [l'absence serait d']une durée d'un mois! Ou encore, d'une durée d'une vingtaine de jours!</TRANSL>
 		<TRANSL xml:lang="zh">然后他们又从永宁出发。走大概一个月，或者二十天！</TRANSL>
 	</S>
@@ -129,7 +140,7 @@
 	<S id="CaravansS019">
 		<AUDIO start="140.5413" end="148.9719"/>
 		<FORM>tʰi˩˥, | ho˧di˧ le˧… | wɤ˩˥ | ɖɯ˧-ɬi˧ tʰi˧-dzi˩. | le… əəə… ɑ˩ʁo˧ | le˧-tsʰɯ˩-dʑo˩ | tʰi˩˥, | njæ˩sɯ˩kv̩˩-ki˩ | pʰɤ˧bɤ˧ | qʰɑ˩jɤ˩ le˥-po˩-jo˩-kv̩˩-mæ˩! |</FORM>
-		<TRANSL xml:lang="fr">Au Sichuan… on y restait un mois. Au… euh… Quand [ils] revenaient à la maison, ils nous ramenaient toutes sortes de cadeaux[, à nous qui étions restés à la maison]!</TRANSL>
+		<TRANSL xml:lang="fr">Au Sichuan… on y restait un mois. Au… euh… Quand [ils] revenaient à la maison, ils nous ramenaient toutes sortes de cadeaux[, à nous qui étions restés à la maison]! </TRANSL>
 		<TRANSL xml:lang="zh">去四川一趟，需要大概一个月。他们回来的时候，给我们带来各种礼物！</TRANSL>
 	</S>
 	<S id="CaravansS020">
@@ -156,15 +167,17 @@
 	<S id="CaravansS023">
 		<AUDIO start="171.4208" end="175.2056"/>
 		<FORM>tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | se˧kʰɯ˩! | ʁo˧ni˥, | ʁo˧qʰwɤ˩ ʂæ˩-hĩ˩! |</FORM>
-		<TRANSL xml:lang="fr">autrefois, le satin! La coiffe en fils tressés, qui sert à attacher la chevelure! (littéralement "à nouer la tête")</TRANSL>
+		<TRANSL xml:lang="fr">autrefois, le satin! La coiffe en fils tressés, qui sert à attacher la chevelure! (littéralement "à nouer la tête") </TRANSL>
 		<TRANSL xml:lang="zh">从前，用缎子发带绑头发！</TRANSL>
 	</S>
 	<S id="CaravansS024">
 		<AUDIO start="176.3589" end="178.6817"/>
 		<FORM>no˧ | ə˧mɑ˧-bv̩˧ | sjæ˧pʰjɛ˧ | no˧ | ɖɯ˧-pʰæ˧ lɑ˥-ɲi˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
 		<NOTE xml:lang="fr" message="gloses interlinéaires: "/>
-		<NOTE xml:lang="fr" message="no˩ ə˧mɑ˧ bv  sjæ˧pʰjɛ˧      no˩ ɖɯ˧-pʰæ˧˥     lɑ˧˥     ɲi˩     mæ  ə˩    gi˩"/>
-		<NOTE xml:lang="fr" message="°2sg mère °poss 相片::photographie °2sg °clf.feuille/objet_plat prendre/faire °certitude(°cop) °affirm °interrog vrai/véritable"/>
+		<NOTE xml:lang="fr"
+			message="no˩ ə˧mɑ˧ bv  sjæ˧pʰjɛ˧      no˩ ɖɯ˧-pʰæ˧˥     lɑ˧˥     ɲi˩     mæ  ə˩    gi˩"/>
+		<NOTE xml:lang="fr"
+			message="°2sg mère °poss 相片::photographie °2sg °clf.feuille/objet_plat prendre/faire °certitude(°cop) °affirm °interrog vrai/véritable"/>
 		<TRANSL xml:lang="fr">Tu as pris une photo de moi (quand je portais cette coiffe), non?</TRANSL>
 		<TRANSL xml:lang="zh">你拍了我这样绑头发的照片，是吧？</TRANSL>
 	</S>
@@ -181,7 +194,7 @@
 		<NOTE xml:lang="fr" message="ho˧di˧  ʁo˧ni˥    le    po˧˥   jo˧  pi˥ ə˧ʝi˧-ʂɯ˥ʝi˩ ho˧di˧  mɤ˧ ɲi˩  ʁo˧ni˥    ʈʂʰɯ˧-gɤ˧  dʑo˧  mɤ˧  kv̩˧˥   mæ"/>
 		<NOTE xml:lang="fr" message="Sichuan coiffe_en_fils °accomp apporter venir dire autrefois  Sichuan °neg °cop  coiffe_en_fils ici      °exist °neg  °abilitive °affirm"/>
 		<NOTE xml:lang="fr" message="il s'agit d'un produit fabriqué par les Chinois: /hæ˧-ɳɯ˧ | gv̩˩˥!/"/>
-    <NOTE xml:lang="fr" message="vérifié à nouveau en 2013: n'est pas /‡dʑo˧-mɤ˧-kv̩˧/ mais /dʑo˧-mɤ˧-kv̩˧˥/."/>
+    <NOTE xml:lang="fr" message="vérifié à nouveau en 2013: n'est pas /‡dʑo˧-mɤ˧-kv̩˧/ mais /dʑo˧-mɤ˧-kv̩˧˥/." />
 		<TRANSL xml:lang="fr">On parlait de "rapporter des coiffes du Sichuan"! Autrefois, à part celles qui venaient du Sichuan, les coiffes, ici, il n'en existait pas!</TRANSL>
 		<TRANSL xml:lang="zh">我们说“从四川带回发带”：以前，没有从其它地方来的发带！</TRANSL>
 	</S>
@@ -195,7 +208,7 @@
 		<AUDIO start="192.5376" end="197.1184"/>
 		<FORM>əəə… ho˧di˧ hɯ˧-hĩ˧, | ʁo˧ni˥ hwæ˩-kʰɯ˩-bi˩! | pi˧. | əəə… se˧kʰɯ˩-ʁo˩ni˩! |</FORM>
 		<NOTE xml:lang="fr" message="note: une femme portait la coiffe toute sa vie"/>
-		<TRANSL xml:lang="fr">Les gens qui allaient dans le Sichuan, on leur demandait d'acheter des coiffes! des coiffes en satin!</TRANSL>
+		<TRANSL xml:lang="fr">Les gens qui allaient dans le Sichuan, on leur demandait d'acheter des coiffes! des coiffes en satin! </TRANSL>
 		<TRANSL xml:lang="zh">去四川的人，我们会托他们带回四川的缎子发带！</TRANSL>
 	</S>
 	<S id="CaravansS029">
@@ -225,7 +238,7 @@
 	<S id="CaravansS033">
 		<AUDIO start="207.1445" end="209.2826"/>
 		<FORM>hĩ˧ | ɖɯ˧-v̩˧-ki˧-ɳɯ˩, | pʰɤ˧bɤ˧! |</FORM>
-		<TRANSL xml:lang="fr">Pour quelqu'un [qu'on appréciait, on rapportait] des cadeaux!</TRANSL>
+		<TRANSL xml:lang="fr">Pour quelqu'un [qu'on appréciait, on rapportait] des cadeaux! </TRANSL>
 		<TRANSL xml:lang="zh">有喜欢的人，也会带礼物给她！</TRANSL>
 	</S>
 	<S id="CaravansS034">
@@ -239,7 +252,7 @@
 		<FORM>&lt;b…&gt; "ə˧mi˧! | ɳæ˧=ɻ̩˩-se˩, | ə˧mv̩˩ le˩-ʝi˩-ʝi˩-ze˩! | se˧kʰɯ˩-ʁo˩ni˩ le˩-po˩-ʝi˩-ʝi˩-ze˩!" | pi˧-kv̩˩-mæ˩, | &lt;ho…&gt; ho˧di˧ hɤ˧-dʑo˥! |</FORM>
 		<TRANSL xml:lang="fr">"Eeeeh! Vous autres, votre grand frère va revenir!" [disait-on aux femmes dont un frère était parti en caravane] "Il va vous ramener des coiffes en satin!" Voilà ce qu'on disait, quand [une caravane] était partie au Sichuan!</TRANSL>
 		<TRANSL xml:lang="zh">“你们大哥快回来了，要给你们带回缎子发带了！”马帮去四川的时候，大家都这么问候。</TRANSL>
-		<NOTE xml:lang="fr" message="En novembre 2016: modifié /næ˧=ɻ̩˩/ en /ɳæ˧=ɻ̩˩/, ici et dans le reste du document, en conformité avec le dictionnaire; s'agissant d'une forme innovante/marginale, il n'est pas sûr qu'elle ait une stabilité suffisante pour déterminer de façon nette si l'une ou l'autre des notations est préférable. Dans le doute, je me fie à la forme 'hyper-articulée' fournie lors de répétitions."/>
+		<NOTE xml:lang="fr" message="En novembre 2016: modifié /næ˧=ɻ̩˩/ en /ɳæ˧=ɻ̩˩/, ici et dans le reste du document, en conformité avec le dictionnaire; s'agissant d'une forme innovante/marginale, il n'est pas sûr qu'elle ait une stabilité suffisante pour déterminer de façon nette si l'une ou l'autre des notations est préférable. Dans le doute, je me fie à la forme 'hyper-articulée' fournie lors de répétitions."></NOTE>
 
 	</S>
 	<S id="CaravansS036">
@@ -248,7 +261,7 @@
 		<NOTE xml:lang="fr" message="réalisation phonétique de -ze˩-wɤ˩: proche de [zo˩]"/>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /ɖɯ˧-v̩˧ ɖɯ˧-pi˧ le˥-po˩-tsʰɯ˩/"/>
 		<NOTE xml:lang="fr" message="le découpage est sans doute: /ɖɯ˧-v̩˧ ɖɯ˧-pi˧˥/, en un seul groupe tonal; de même qu'on pourrait dire, dans un contexte où quelqu'un distribue du sel à des yaks/bovins: /ɖɯ˧-pʰo˧ ɖɯ˥-pi˩/ 'un peu pour chaque (animal)'."/>
-		<TRANSL xml:lang="fr">Alors, [l'homme qui était parti avec les caravanes] ramenait à chacun un petit quelque chose; il ramenait un fardeau depuis le Sichuan; du Sichuan, on ramenait aussi du riz!</TRANSL>
+		<TRANSL xml:lang="fr">Alors, [l'homme qui était parti avec les caravanes] ramenait à chacun un petit quelque chose; il ramenait un fardeau depuis le Sichuan; du Sichuan, on ramenait aussi du riz! </TRANSL>
 		<TRANSL xml:lang="zh">马帮的人，会从四川带给家人一人一件礼物。也带回来大米！</TRANSL>
 	</S>
 	<S id="CaravansS037">
@@ -267,13 +280,14 @@
 	<S id="CaravansS039">
 		<AUDIO start="241.7678" end="246.5684"/>
 		<FORM>ĩ˧! | sɯ˧pʰi˧-ki˧ ki˩! | tʰi˩˥, | sɯ˧pʰi˧-ɳɯ˧ | pv̩˩-kʰɯ˥-ɲi˩-mæ˩! | sɯ˧pʰi˧-ɳɯ˧ | ʐwæ˧ tɕɯ˩-pv̩˩-kʰɯ˩! |</FORM>
-		<TRANSL xml:lang="fr">Oui, on donnait [tout ça] au seigneur! c'est le seigneur qui commanditait; c'est le seigneur qui commanditait les caravanes!</TRANSL>
+		<TRANSL xml:lang="fr">Oui, on donnait [tout ça] au seigneur! c'est le seigneur qui commanditait; c'est le seigneur qui commanditait les caravanes! </TRANSL>
 		<TRANSL xml:lang="zh">是，全部要给土司，因为是土司雇的马帮。</TRANSL>
 	</S>
 	<S id="CaravansS040">
 		<AUDIO start="247.4140" end="251.0697"/>
 		<FORM>ĩ˧! | sɯ˧pʰi˧-ɳɯ˧ | ʐwæ˧ tɕɯ˩-pv̩˩-kʰɯ˩! | tʰi˩˥, | gi˩˥ ◊ -dʑo˩, | sɯ˧pʰi˧-ʐwæ˧ | ɖɯ˧-ʈʂæ˧ tɕɯ˥! |</FORM>
-		<NOTE xml:lang="fr" message="/ɖɯ˧-ʈʂæ˧˥/: ne signifie pas 'une étape (d'un jour)' mais 'une certaine période, un certain temps' (qui peut durer plusieurs années)."/>
+		<NOTE xml:lang="fr"
+			message="/ɖɯ˧-ʈʂæ˧˥/: ne signifie pas 'une étape (d'un jour)' mais 'une certaine période, un certain temps' (qui peut durer plusieurs années)."/>
 		<TRANSL xml:lang="fr">C'est le seigneur qui commanditait les caravanes! Pour de vrai, on conduisait les chevaux du seigneur pendant un certain temps! (Explication: pendant un certain temps --une ou deux années--, on travaille pour le seigneur, ou pour autrui; pendant ce temps on épargne de l'argent pour s'acheter ses propres chevaux, et on devient son propre maître.)</TRANSL>
 		<TRANSL xml:lang="zh">马帮是土司雇的！有一段时间就得完全为土司效力。</TRANSL>
 	</S>
@@ -294,7 +308,7 @@
 	<S id="CaravansS043">
 		<AUDIO start="263.4418" end="266.2129"/>
 		<FORM>tʰi˩˥, | ʐæ˩ʂæ˥-hĩ˩-ɳɯ˩ | li˩˥ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩-dʑo˩, ◊ ə˩-gi˩! |</FORM>
-		<TRANSL xml:lang="fr">C'est qu'on ramenait du thé de très loin, n'est-ce pas!</TRANSL>
+		<TRANSL xml:lang="fr">C'est qu'on ramenait du thé de très loin, n'est-ce pas! </TRANSL>
 		<TRANSL xml:lang="zh">茶是从很远的地方带来的，对吧！</TRANSL>
 	</S>
 	<S id="CaravansS044">
@@ -312,7 +326,8 @@
 	<S id="CaravansS046">
 		<AUDIO start="275.5276" end="280.1070"/>
 		<FORM>tʰi˩˥, | "si˧kʰɯ˧-li˥nɑ˩ | ʈʰɯ˩-se˩-gɤ˥, | njɤ˧ ə˧mɑ˧ mɤ˧-dʑo˩, | tʰi˧-kwɤ˩-kʰɯ˩!" | pi˧ | tʰi˩˥, |</FORM>
-		<NOTE xml:lang="fr" message="li˩nɑ˥: thé noir (noirci au cours des longs trajets en caravane)"/>
+		<NOTE xml:lang="fr"
+			message="li˩nɑ˥: thé noir (noirci au cours des longs trajets en caravane)"/>
 		<TRANSL xml:lang="fr">"Quand on a bu son content de racines de pivoine, et de thé, on est repu; mais si c'est pour que ma mère ne soit plus là (=mais si ma mère est morte tandis que j'étais au loin), alors c'est bien en vain!" (Texte d'une chanson qu'hommes et femmes chantaient autrefois)</TRANSL>
 		<TRANSL xml:lang="zh">“我们喝白芍药根当茶，或者喝茶，感觉很爽！但如果阿妈已经不在人世了，就没意思了！”</TRANSL>
 	</S>
@@ -327,7 +342,7 @@
 		<FORM>tʰi˩˥, | "si˧kʰɯ˧ ʈʰɯ˧-se˥-gɤ˩-se˩, | tʰi˧-kwɤ˩-kʰɯ˩! | njɤ˧ ə˧mi˧ le˧-ʂɯ˧, | tʰi˧-kwɤ˩-kʰɯ˩!" pi˩-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
 		<NOTE xml:lang="fr" message="de: si˧kʰɯ˧ ʈʰɯ˧˥ 'boire (une décoction de bulbes de) pivoine'"/>
 		<NOTE xml:lang="fr" message="d'abord noté ‡| pi˧-ɲi˩-tsɯ˩ ◊ -mv̩˩."/>
-		<TRANSL xml:lang="fr">"Boire tout son content de racines de pivoine, [si ce n'est pas en compagnie de sa mère, des gens qu'on aime] c'est bien en vain! Ma mère est morte; alors à quoi bon!" Voilà ce qu'on disait.</TRANSL>
+		<TRANSL xml:lang="fr">"Boire tout son content de racines de pivoine, [si ce n'est pas en compagnie de sa mère, des gens qu'on aime] c'est bien en vain! Ma mère est morte; alors à quoi bon!" Voilà ce qu'on disait. </TRANSL>
 		<TRANSL xml:lang="zh">“舒舒服服喝着白芍药根，可现在没意思了！阿妈不在了，就没意思了！”</TRANSL>
 	</S>
 	<S id="CaravansS049">
@@ -359,7 +374,8 @@
 	<S id="CaravansS053">
 		<AUDIO start="318.6283" end="322.7784"/>
 		<FORM>ə˧hɑ˩bɑ˩lɑ˩ gwɤ˩-dʑo˩, | æ˧ʂæ˧! | ʈʂʰɯ˧ne˧-ʝi˥… | dʑɯ˩ʁo˩˥ | ʐwæ˧ tɕɯ˩-hɯ˩-hĩ˩-ʈʂʰɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | gwɤ˩-ɲi˥-mæ˩! |</FORM>
-		<NOTE xml:lang="fr" message="Note d'avant 2013: 'on ne peut dire: /‡ʈʂʰɯ˧ni˧ gwɤ˥-ɲi˩-mæ˩/. N'est pas seulement un choix stylistique.' Le fait que le ton haut du mot qui était noté comme /ʈʂʰɯ˧ni˧˥/ ne puisse se réassocier à la syllabe suivante constituait une énigme. Réponse en 2013: ce mot est en fait /ʈʂʰɯ˧ne˧-ʝi˥/; la troisième syllabe est phonétiquement réduite, mais pas au point de disparaître. Cela explique pourquoi on ne peut dire /‡ʈʂʰɯ˧ni˧ gwɤ˥-ɲi˩-mæ˩/: il manquerait une syllabe."/>
+		<NOTE xml:lang="fr"
+			message="Note d'avant 2013: 'on ne peut dire: /‡ʈʂʰɯ˧ni˧ gwɤ˥-ɲi˩-mæ˩/. N'est pas seulement un choix stylistique.' Le fait que le ton haut du mot qui était noté comme /ʈʂʰɯ˧ni˧˥/ ne puisse se réassocier à la syllabe suivante constituait une énigme. Réponse en 2013: ce mot est en fait /ʈʂʰɯ˧ne˧-ʝi˥/; la troisième syllabe est phonétiquement réduite, mais pas au point de disparaître. Cela explique pourquoi on ne peut dire /‡ʈʂʰɯ˧ni˧ gwɤ˥-ɲi˩-mæ˩/: il manquerait une syllabe."/>
 		<TRANSL xml:lang="fr">Voilà ce qu'on chantait, autrefois! Les gens qui étaient partis conduire des caravanes dans la montagne, voilà ce qu'ils chantaient!</TRANSL>
 		<TRANSL xml:lang="zh">从前，就是这么唱的！马帮的人，在山上就是这么唱的！</TRANSL>
 		</S>
@@ -385,7 +401,7 @@
 	<S id="CaravansS057">
 		<AUDIO start="342.3447" end="350.2025"/>
 		<FORM>li˩ tɕɯ˧˥ | le˧-po˧-tsʰɯ˧˥ ◊ -dʑo˩, | ə˧mi˧! | õ˧˥ | ə˧mi˧ | le˧-ʂɯ˧-ze˧! | ə˧mi˧ mɤ˧-dʑo˩, | mɤ˧-gɤ˩-ze˩!" | pi˧. | ʈʂʰɯ˧ne˧-ʝi˥ | gwɤ˩-ɲi˥-mæ˩! | ʐwæ˧ tɕɯ˩-zo˩-ɳɯ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩. |</FORM>
-		<TRANSL xml:lang="fr">On ramenait du thé, en caravane; "Hélas! Ma propre mère est morte! Sans ma mère, quelle tristesse!" Voilà ce qu'ils chantaient, les caravaniers, autrefois!</TRANSL>
+		<TRANSL xml:lang="fr">On ramenait du thé, en caravane; "Hélas! Ma propre mère est morte! Sans ma mère, quelle tristesse!" Voilà ce qu'ils chantaient, les caravaniers, autrefois! </TRANSL>
 		<TRANSL xml:lang="zh">通过马帮带回了茶。“可惜！我的亲阿妈，已经去世啊！没有了阿妈，真难过呀！”马帮的人，从前就是这么唱的！</TRANSL>
 	</S>
 	<S id="CaravansS058">
@@ -403,7 +419,7 @@
 	<S id="CaravansS060">
 		<AUDIO start="366.0872" end="370.3153"/>
 		<FORM>ɖɯ˧-tsʰi˥-ɳɯ˩, əəə… | ʈʰæ˧qʰwɤ˧… | ɲi˧-tsʰi˥-ɳɯ˩, | ʈʰæ˧qʰwɤ˧ | ɖɯ˧-ɭɯ˧-lɑ˥ tʰv̩˩-kv̩˩. |</FORM>
-		<TRANSL xml:lang="fr">Avec une mesure, euh… Pour une robe… avec deux mesures, on ne pouvait faire qu'une seule robe!</TRANSL>
+		<TRANSL xml:lang="fr">Avec une mesure, euh… Pour une robe… avec deux mesures, on ne pouvait faire qu'une seule robe! </TRANSL>
 		<TRANSL xml:lang="zh">一幅布呢……一条裙子需要两幅布！</TRANSL>
 	</S>
 	<S id="CaravansS061">
@@ -422,7 +438,8 @@
 	<S id="CaravansS063">
 		<AUDIO start="376.8981" end="384.2225"/>
 		<FORM>hĩ˧=ɻæ˥, | tʰi˩˥ | mi˩zɯ˩=ɻæ˥, | zo˩no˥, | ʐwæ˧ tɕɯ˩-hɯ˩-hĩ˩, | zo˩no˥, | pʰæ˧tɕi˥ | ɖʐv̩˧ ɲi˩-pi˩, | ɖʐv̩˧ ʈʂʰɯ˧-v̩˧-ɳɯ˩ | le˧-po˧-jo˥-kv̩˩-ze˩-mæ˩! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: n'y a pas de syllabe supplémentaire après /ɲi/ dans: ɖʐv̩˧ ɲi˩-pi˩."/>
+		<NOTE xml:lang="fr"
+			message="vérifié: n'y a pas de syllabe supplémentaire après /ɲi/ dans: ɖʐv̩˧ ɲi˩-pi˩."/>
 		<NOTE xml:lang="fr" message="avant juin 2012: noté: /‡ɖʐv̩˧ ʈʂʰɯ˧-v̩˧-ɳɯ˧/."/>
 		<TRANSL xml:lang="fr">les jeunes filles, les gens qui étaient partis en caravane, eh bien, si elle était l'amie d'un des jeunes gens, son ami lui ramenait (des cadeaux)!</TRANSL>
 		<TRANSL xml:lang="zh">年轻姑娘，如果有人跟马帮中的年轻小伙子是朋友，他会给她带回来礼物的！</TRANSL>
@@ -444,8 +461,9 @@
 	<S id="CaravansS066">
 		<AUDIO start="400.3804" end="403.0994"/>
 		<FORM>tʰi˩˥, | ho˧di˧ hɯ˧, | ʂe˧ʈʂe˩… | ʂe˧ʈʂe˩ hwæ˩ | le˧-po˧-tsʰɯ˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ʂe˧ʈʂe˩ hwæ˩ le˩-po˩-tsʰɯ˩˥/, mais c'est un groupe tonal mal formé. C'est en fait: /ʂe˧ʈʂe˩ hwæ˩ | le˧-po˧-tsʰɯ˧˥/; en débit rapide, la remontée entre /hwæ˩/ et /le˧/ n'est pas sensible."/>
-		<TRANSL xml:lang="fr">Quand on allait dans le Sichuan, le tissu de coton… on achetait du tissu de coton et on le ramenait!</TRANSL>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡ʂe˧ʈʂe˩ hwæ˩ le˩-po˩-tsʰɯ˩˥/, mais c'est un groupe tonal mal formé. C'est en fait: /ʂe˧ʈʂe˩ hwæ˩ | le˧-po˧-tsʰɯ˧˥/; en débit rapide, la remontée entre /hwæ˩/ et /le˧/ n'est pas sensible."/>
+		<TRANSL xml:lang="fr">Quand on allait dans le Sichuan, le tissu de coton… on achetait du tissu de coton et on le ramenait! </TRANSL>
 		<TRANSL xml:lang="zh">去四川，买棉布带回来。</TRANSL>
 	</S>
 	<S id="CaravansS067" who="investigator">
@@ -495,14 +513,14 @@
 	<S id="CaravansS074">
 		<AUDIO start="433.6849" end="437.0153"/>
 		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧˥, | ʐwæ˧ | tʰo˩lo˥, | ɻ̩˩ɻ̩˧lo˩ | le˧-di˧˥, |</FORM>
-		<TRANSL xml:lang="fr">Voici comment on menait la caravane: pour les chevaux, on menait le cheval de tête et le second cheval,</TRANSL>
+		<TRANSL xml:lang="fr">Voici comment on menait la caravane: pour les chevaux, on menait le cheval de tête et le second cheval, </TRANSL>
 		<TRANSL xml:lang="zh">马帮是这么安排马匹的：领头的马和第二匹马是有人骑的。</TRANSL>
 	</S>
 	<S id="CaravansS075">
 		<AUDIO start="437.4836" end="442.0240"/>
 		<FORM>njɤ˧ ə˧v̩˧-ʈʂʰɯ˧, | tʰo˩lo˧… | ɻ̩˩ɻ̩˧lo˩-pi˩-kv̩˩-mæ˩! | ə˧v̩˧˥ | ɖɯ˩-hĩ˩-ɳɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | di˧˥ ◊ -dʑo˩! |</FORM>
 		<NOTE xml:lang="fr" message="rappel: ɖɯ˩mi#˥: mule femelle; ɖɯ˩zo#˥: mule mâle"/>
-		<TRANSL xml:lang="fr">Mon oncle, il conduisait le premier cheval, le deuxième cheval (les bêtes de tête)! L'oncle aîné! Voilà comment il conduisait [les bêtes]!</TRANSL>
+		<TRANSL xml:lang="fr">Mon oncle, il conduisait le premier cheval, le deuxième cheval (les bêtes de tête)! L'oncle aîné! Voilà comment il conduisait [les bêtes]! </TRANSL>
 		<TRANSL xml:lang="zh">我舅舅，大舅舅，骑着领头的马或第二匹马。他是这样领着马队赶路的！</TRANSL>
 	</S>
 	<S id="CaravansS076">
@@ -522,7 +540,7 @@
 	<S id="CaravansS078">
 		<AUDIO start="455.8141" end="466.0266"/>
 		<FORM>ə˧v̩˧˥ | tɕi˩-hĩ˩˥ | dʑo˩ | tʰi˩˥, | &lt;əəə…&gt; ə˧so˧, | zo˩no˥, | no˧ tʰv̩˧-qo˧ tʰæ˧ɻæ˩-bi˩ | tʰi˧-tɕi˩-ni˩, | ʈæ˧ʂɯ˧-pæ˩pʰæ˩ | pi˧-hĩ˧ tʰv̩˧-v̩˧-dʑo˩, | əəə… lɑ˧do˧ ʝi˧-kʰɯ˩! | ʐwæ˧ tɕɯ˩! | ʐwæ˧ lv̩˩! |</FORM>
-		<TRANSL xml:lang="fr">Quant à l'oncle cadet, eh bien, celui qui s'appelait Daeshi Baepae /ʈæ˧ʂɯ˧-pæ˩pʰæ˩/, comme tu l'as écrit tout à l'heure dans ton livre (="comme tu l'as consigné tout à l'heure dans ta liste de vocabulaire". Explication: ce matin-là, nous avions enquêté au sujet des prénoms), on le chargeait du rôle de palefrenier! Il mettait les charges sur les chevaux! Il menait paître les chevaux!</TRANSL>
+		<TRANSL xml:lang="fr">Quant à l'oncle cadet, eh bien, celui qui s'appelait Daeshi Baepae /ʈæ˧ʂɯ˧-pæ˩pʰæ˩/, comme tu l'as écrit tout à l'heure dans ton livre (="comme tu l'as consigné tout à l'heure dans ta liste de vocabulaire". Explication: ce matin-là, nous avions enquêté au sujet des prénoms), on le chargeait du rôle de palefrenier! Il mettait les charges sur les chevaux! Il menait paître les chevaux! </TRANSL>
 		<TRANSL xml:lang="zh">二舅，叫Daeshi Baepae /ʈæ˧ʂɯ˧-pæ˩pʰæ˩/，你早上已经记下来了他的名字！他当马夫，把货物绑在马上、负责喂马！</TRANSL>
 	</S>
 	<S id="CaravansS079">
@@ -534,7 +552,8 @@
 	<S id="CaravansS080">
 		<AUDIO start="469.9164" end="477.5530"/>
 		<FORM>əəə… ʐwæ˧ | zo˩qo˧ tʰv̩˧-ɻ̩˧, | tsʰo˧qʰwɤ˩ | tʰv̩˧-qo˧ | tʰi˧-hɑ̃˧˥, | pi˧ | tʰi˩˥, | tʰi˧-hɑ̃˧˥ ◊ -kwɤ˩tɕɯ˩, | ʈʂʰɯ˧-dʑo˧ | tʰi˩˥, | ʐwæ˧ F | lv̩˧-tʰɑ˧-bi˧! | &lt;hwɤ˩dʑɯ˩-qo˥&gt; kv̩˧dʑɯ˧-qo˥ | tʰi˧-dzi˩! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡tʰi˧-hɑ̃˧˥ ◊ -kwɤ˩tɕɯ˩, | ʈʂʰɯ˧-dʑo˩ |/ (note de juillet 2012)"/>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡tʰi˧-hɑ̃˧˥ ◊ -kwɤ˩tɕɯ˩, | ʈʂʰɯ˧-dʑo˩ |/ (note de juillet 2012)"/>
 		<TRANSL xml:lang="fr">On dormait le soir là où les chevaux étaient parvenus; comme on y passait la nuit, lui, il n'avait pas à mener paître les chevaux! Il se tenait assis &lt;dans la hutte&gt; [dans la tente]! (=Il était dispensé des corvées effectuées par les palefreniers)</TRANSL>
 		<TRANSL xml:lang="zh">马能走到哪儿，晚上就在哪儿歇脚。在那边过夜，马帮头领就不用遛马去吃草。他在帐篷里休息。</TRANSL>
 	</S>
@@ -560,7 +579,8 @@
 	</S>
 	<S id="CaravansS084">
 		<AUDIO start="498.9928" end="506.0830"/>
-		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩! | tʰi˩˥, | əəə… ho˧di˧-ɳɯ˧ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩ | tʰi˩˥, | ho˧di˧-ɕi˧ʈʂʰwæ˧-pi˧, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩! | tʰi˩˥, | əəə… ho˧di˧-ɳɯ˧ |
+			le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩ | tʰi˩˥, | ho˧di˧-ɕi˧ʈʂʰwæ˧-pi˧, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 		<TRANSL xml:lang="fr">Voilà comment on revient en caravane! (=Voilà comment se passait un trajet aller-retour en caravane) Quand on revient d'un voyage en caravane dans le Sichuan… on parlait du "riz du Sichuan", autrefois!</TRANSL>
 		<TRANSL xml:lang="zh">这就是马帮走一趟的情况！从四川赶马回来……我们以前叫“四川大米"!</TRANSL>
 	</S>
@@ -588,7 +608,7 @@
 		<AUDIO start="524.0621" end="529.4221"/>
 		<FORM>tʰi˩˥, | æ˧ʂæ˧-tɑ˩mv̩˩… | æ˧ʂæ˧-tɑ˩mv̩˩ | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˥-mæ˩: | "ho˧ di˧, pʰi˩ tɕʰɯ˩-jɤ˩; | ɬɑ˧sɑ˧, zo˧ tɕʰɯ˩-jɤ˩!" -pi˩. |</FORM>
 		<NOTE xml:lang="fr" message="de: /tɕʰɯ˧˥/ 'jeter, perdre'"/>
-		<TRANSL xml:lang="fr">Alors, le proverbe… voici ce que disait le proverbe: "Le Sichuan, on lui abandonne (on lui donne pour rien) notre tissu de lin; Lhasa, on y abandonne (on lui donne pour rien) nos fils!" (Explication: le tissu de lin partait pour le Sichuan, et il n'en revenait que de maigres sommes d'argent. Les fils partaient à Lhasa pour s'accomplir comme moines, ou pour faire du commerce, et beaucoup n'en revenaient pas ou ne revenaient que bien longtemps après, car un marchand ne revenait de Lhasa qu'après avoir fait fortune, et un bonze qu'après avoir acquis une grande notoriété, faute de quoi la crainte de faire honte à leur famille les dissuadait de revenir. Le chemin était long et ardu; beaucoup n'avaient pas les moyens d'entreprendre le voyage de retour, et demeuraient à Lhasa, vivant au jour le jour; d'autres disparaissaient en chemin.)</TRANSL>
+		<TRANSL xml:lang="fr">Alors, le proverbe… voici ce que disait le proverbe: "Le Sichuan, on lui abandonne (on lui donne pour rien) notre tissu de lin; Lhasa, on y abandonne (on lui donne pour rien) nos fils!" (Explication: le tissu de lin partait pour le Sichuan, et il n'en revenait que de maigres sommes d'argent. Les fils partaient à Lhasa pour s'accomplir comme moines, ou pour faire du commerce, et beaucoup n'en revenaient pas ou ne revenaient que bien longtemps après, car un marchand ne revenait de Lhasa qu'après avoir fait fortune, et un bonze qu'après avoir acquis une grande notoriété, faute de quoi la crainte de faire honte à leur famille les dissuadait de revenir. Le chemin était long et ardu; beaucoup n'avaient pas les moyens d'entreprendre le voyage de retour, et demeuraient à Lhasa, vivant au jour le jour; d'autres disparaissaient en chemin.) </TRANSL>
 		<TRANSL xml:lang="zh">有句谚语：“四川扔麻布、拉萨扔儿子！”（说明：麻布在四川不值什么钱，就跟扔了一样。儿子去拉萨当喇嘛或者做买卖，等着功成名就才会回来。山高路远，很多人没有回家的盘缠，也有人失踪在路上。）</TRANSL>
 	</S>
 	<S id="CaravansS089">
@@ -600,7 +620,8 @@
 	<S id="CaravansS090">
 		<AUDIO start="533.7933" end="537.5140"/>
 		<FORM>ho˧di˧-ʈʂʰɯ˧, | pʰi˧ le˧-po˧~po˥-bi˩, | le˧-tɕʰi˧-dʑo˥ | tʰi˩˥, | tʰi˧-kwɤ˩-ni˩-gv̩˩-kv̩˩-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="vérifier à nouveau: n'y aurait-il pas une syllabe en plus, telle que /ʝi/ ou /jo/, entre /gv̩˩/ et /kv̩˩/?"/>
+		<NOTE xml:lang="fr"
+			message="vérifier à nouveau: n'y aurait-il pas une syllabe en plus, telle que /ʝi/ ou /jo/, entre /gv̩˩/ et /kv̩˩/?"/>
 		<TRANSL xml:lang="fr">Dans le Sichuan, quand on y emmenait son tissu de lin, qu'on l'y vendait, eh bien, c'est comme si on le jetait [par la fenêtre]! (=on le vendait à vil prix; on n'en retirait presque aucun argent)</TRANSL>
 		<TRANSL xml:lang="zh">在四川卖麻布，就像扔掉一样，拿不回什么钱。</TRANSL>
 	</S>
@@ -646,7 +667,7 @@
 		<FORM>"njɤ˧ | ʐwæ˧ tʰv̩˧-v̩˧ | no˧ | ɖɯ˧-tɕɯ˧-ɻ̩˥! | njɤ˧-pʰi˩ ʈʂʰɯ˩-kʰwɤ˩ | no˧ | ɖɯ˧-tɕʰi˧-qɑ˩-ɻ̩˩!" | pi˧, | tʰi˧-hwɤ˩. |</FORM>
 		<TRANSL xml:lang="fr">"Conduis donc mon cheval! Cette pièce de tissu de lin, vends-la pour moi!" On confiait [ainsi ces choses aux caravaniers].</TRANSL>
 		<TRANSL xml:lang="zh">“请带着我的马驮着我这块麻布，帮我卖了吧！”</TRANSL>
-		<NOTE xml:lang="fr" message="avant 2013: noté /njɤ˧ | pʰi˧ ʈʂʰɯ˧-kʰwɤ˧ | no˧…/"/>
+		<NOTE xml:lang="fr" message="avant 2013: noté /njɤ˧ | pʰi˧ ʈʂʰɯ˧-kʰwɤ˧ | no˧…/"></NOTE>
 	</S>
 	<S id="CaravansS098">
 		<AUDIO start="567.4879" end="572.8479"/>
@@ -665,7 +686,7 @@
 		<FORM>pʰi˧ | le˧-tɕʰi˧-dʑo˥ | tʰi˩˥, | pʰi˧ | tʰi˩˥, | ʈʂʰɯ˧-ʂwæ˧~ʂwæ˧, | ə˧mi˧! | le˧-dɑ˩-zo˩, | ʈʂʰɯ˧-ʂwæ˧~ʂwæ˧ po˧-jo˥-kv̩˩! | ɖɯ˧-ti˧~ɖɯ˥-ti˩ | le˧-qʰv̩˩~qʰv̩˩, | le˧-qʰv̩˩~qʰv̩˩, | le˧-qʰv̩˩~qʰv̩˩, | ɑ˩ʁo˧-gɤ˧ | ʈʂʰɯ˧-qo˧-ɳɯ˧ bi˧-dʑo˥ | tʰi˩˥, | pʰi˧ tɕɯ˧˥ | po˧-bi˥! | mmm… li˩ tɕɯ˧˥ | po˧-bi˥! |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés, est bien: ho˧di˧ tɕʰi˧-hɯ˧! |"/>
 		<NOTE xml:lang="fr" message="de: ɖɯ˧-ti˧˥ 'une couche'"/>
-		<TRANSL xml:lang="fr">Quand on vendait le tissu de lin… Le tissu de lin, il y en avait [des piles] haut comme ça! Eeeeh! Quand on en faisait, il s'en empilait haut comme ça! On en pliait couche après couche, et on en pliait encore. Quand on quittait la maison [pour une expédition lointaine], on chargeait du tissu de lin [sur les bêtes de somme]! on en avait des quantités à vendre!</TRANSL>
+		<TRANSL xml:lang="fr">Quand on vendait le tissu de lin… Le tissu de lin, il y en avait [des piles] haut comme ça! Eeeeh! Quand on en faisait, il s'en empilait haut comme ça! On en pliait couche après couche, et on en pliait encore. Quand on quittait la maison [pour une expédition lointaine], on chargeait du tissu de lin [sur les bêtes de somme]! on en avait des quantités à vendre! </TRANSL>
 		<TRANSL xml:lang="zh">卖的麻布，有很多匹，能堆成这么高！我们把它一层一层折起来。马帮离家的时候，带着很多匹麻布！</TRANSL>
 	</S>
 	<S id="CaravansS101">
@@ -677,9 +698,10 @@
 	<S id="CaravansS102">
 		<AUDIO start="595.9529" end="606.9331"/>
 		<FORM>əəə… ho˧di˧-bv̩˧ | tso˧~tso˧, | le˧-wo˧-tɕɯ˥ | le˧-po˧-tsʰɯ˧˥, | wɤ˩˥ | ɬi˧di˩ tɕʰi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | &lt;ʐv…&gt; əəə… zo˩no˥, | ʐɤ˩ se˩-zo˩-ʈʂʰɯ˥-dʑo˩, | ʈʂʰɯ˧ne˧ ʝi˥, | tʰi˩˥, | ho˧di˧ | ɖɯ˧-ʂɯ˩ hɯ˩ | le˧-tsʰɯ˩, | ʂe˧ʈʂe˩ | le˧-po˧-tsʰɯ˧˥; |</FORM>
-		<NOTE xml:lang="fr" message="ʂe˧ʈʂe˩ | le˧-po˧-tsʰɯ˧˥: fin fortement abaissée par facteurs intonatifs, mais est bien: le˧-po˧-tsʰɯ˧˥, non …˩ ˩"/>
+		<NOTE xml:lang="fr"
+			message="ʂe˧ʈʂe˩ | le˧-po˧-tsʰɯ˧˥: fin fortement abaissée par facteurs intonatifs, mais est bien: le˧-po˧-tsʰɯ˧˥, non …˩ ˩"/>
 		<NOTE xml:lang="fr" message="tons vérifiés, est: /le˧-wo˧-tɕɯ˥/"/>
-		<TRANSL xml:lang="fr">Les choses du Sichuan, on les ramenait en caravane, puis on les vendait à Yongning, autrefois! Les voyageurs, voilà comment ils faisaient! À chaque fois qu'ils revenaient du Sichuan, ils ramenaient du tissu de coton;</TRANSL>
+		<TRANSL xml:lang="fr">Les choses du Sichuan, on les ramenait en caravane, puis on les vendait à Yongning, autrefois! Les voyageurs, voilà comment ils faisaient! À chaque fois qu'ils revenaient du Sichuan, ils ramenaient du tissu de coton; </TRANSL>
 		<TRANSL xml:lang="zh">以前，四川的货物，走马帮带回来，再在永宁卖！走马帮的人们，是这样（做的）：去四川一趟，带棉布回来，</TRANSL>
 	</S>
 	<S id="CaravansS103">
@@ -705,9 +727,12 @@
 	<S id="CaravansS106">
 		<AUDIO start="617.6009" end="627.3711"/>
 		<FORM>njɤ˧ | ə˧v̩˧-ɳɯ˥-dʑo˩, | njæ˧sɯ˩kv̩˩, | ə˧mv̩˧-go˧mi˥, | so˩-kv̩˩˥ | əəə… gi˧zɯ˧ | ɖɯ˧-v̩˧-ki˧, | njæ˩sɯ˩kv̩˩-ki˩, | gi˧zɯ˧-ki˧-dʑo˩, | ʈʂʰo˧bɤ˧! | hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ | ɖɯ˩-ɭɯ˩˥! |</FORM>
-		<NOTE xml:lang="fr" message="Avril 2018 : corrige, après vérification soigneuse, /ɖɯ˧-v̩˧-ki˥/ en /ɖɯ˧-v̩˧-ki˧/."/>
-		<NOTE xml:lang="fr" message="tons intéressants: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ | ɖɯ˩-ɭɯ˩˥; remontée finale inattendue; est une façon de souligner; on pourrait également dire, plus simplement: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ ɖɯ˩-ɭɯ˩ |"/>
-		<NOTE xml:lang="fr" message="gi˧zɯ˧-ki˧-dʑo˩: très hypo-articulé, fait penser à: ‡gi˧zɯ˧-ki˧-hĩ mais est bien -dʑo˩"/>
+		<NOTE xml:lang="fr"
+			message="Avril 2018 : corrige, après vérification soigneuse, /ɖɯ˧-v̩˧-ki˥/ en /ɖɯ˧-v̩˧-ki˧/."/>
+		<NOTE xml:lang="fr"
+			message="tons intéressants: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ | ɖɯ˩-ɭɯ˩˥; remontée finale inattendue; est une façon de souligner; on pourrait également dire, plus simplement: hæ̃˩-bɑ˥lɑ˩-ʈʂʰo˩bɤ˩ ɖɯ˩-ɭɯ˩ |"/>
+		<NOTE xml:lang="fr"
+			message="gi˧zɯ˧-ki˧-dʑo˩: très hypo-articulé, fait penser à: ‡gi˧zɯ˧-ki˧-hĩ mais est bien -dʑo˩"/>
 		<TRANSL xml:lang="fr">Mon oncle, [pour] nous… les trois frères et sœurs… pour le petit frère, pour nous, pour le petit frère, il ramenait un habit masculin! (Note: c'était un vêtement que les hommes portaient à partir de 13 ans: sorte de veste serrée à la ceinture, qu'on portait par-dessus la chemise, dans les grandes occasions: mariage, invitations…) Il lui ramenait un habit masculin en soie!</TRANSL>
 		<TRANSL xml:lang="zh">我舅舅，（给）我们姐妹三个呢……给弟弟那个……给我们的……给弟弟的，是男性衣服：一件丝绸的男性衣服！</TRANSL>
 	</S>
@@ -715,7 +740,7 @@
 		<AUDIO start="627.3711" end="630.4804"/>
 		<FORM>njæ˧sɯ˩kv̩˩ | so˩kv̩˩-ki˥-dʑo˩, | hæ̃˩bɑ˥lɑ˩ | ʂæ˧tsɯ˧! |</FORM>
 		<NOTE xml:lang="fr" message="vêtement que portaient les enfants avant leurs treize ans: sorte de robe ample, ressemblant aux vêtements chinois"/>
-		<TRANSL xml:lang="fr">Pour nous autres, les trois [enfants qui n'avaient pas encore treize ans], il nous donnait une robe en soie!</TRANSL>
+		<TRANSL xml:lang="fr">Pour nous autres, les trois [enfants qui n'avaient pas encore treize ans], il nous donnait une robe en soie! </TRANSL>
 		<TRANSL xml:lang="zh">给我们三个（姐妹）呢，是丝裋！</TRANSL>
 	</S>
 	<S id="CaravansS108">
@@ -737,7 +762,7 @@
 		<AUDIO start="637.8698" end="644.7259"/>
 		<FORM>tʰi˩˥, | dzɑ˩qʰwɤ˩-ʈʂʰɯ˥, | əəə… ə˧tso˧, | ɣɯ˩-ʈʂʰɯ˥, | le˧-ʐv̩˧-zo˥, | qʰɑ˩ne˩˥ | ə˧v̩˧-hĩ˥ | ɖɯ˧-ʁo˩-dʑo˩-kv̩˩! | ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ne˧-ʝi˥ | mɤ˧-ɲi˩-zo˩! |</FORM>
 		<NOTE xml:lang="fr" message="Avant 2018: noté /ə˧ʝi˧-tsʰi˧ʝi˧-bv̩˧-ni˧˥/"/>
-		<TRANSL xml:lang="fr">Pour ce qui est des chaussures, on cousait le cuir, il y en avait de vraiment magnifiques! Elles n'étaient pas comme celles d'aujourd'hui!</TRANSL>
+		<TRANSL xml:lang="fr">Pour ce qui est des chaussures, on cousait le cuir, il y en avait de vraiment magnifiques! Elles n'étaient pas comme celles d'aujourd'hui! </TRANSL>
 		<TRANSL xml:lang="zh">鞋子呢，那么，有非常好看的一种，是缝皮而做出来的！不是像今日的！</TRANSL>
 	</S>
 	<S id="CaravansS111">
@@ -758,7 +783,7 @@
 	<S id="CaravansS113">
 		<AUDIO start="652.4926" end="655.1205"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧v̩˧-ɳɯ˥ | njæ˧sɯ˩kv̩˩-ki˩ | qʰɑ˩ne˩˥ | ki˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
-		<TRANSL xml:lang="fr">Autrefois, l'oncle, envers nous, qu'est-ce qu'il était généreux!</TRANSL>
+		<TRANSL xml:lang="fr">Autrefois, l'oncle, envers nous, qu'est-ce qu'il était généreux! </TRANSL>
 		<TRANSL xml:lang="zh">以前，舅舅对我们多么大方！</TRANSL>
 	</S>
 	<S id="CaravansS114">
@@ -806,13 +831,14 @@
 	<S id="CaravansS121">
 		<AUDIO start="680.4890" end="686.3953"/>
 		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˩˥, | lɑ˧do˧… lɑ˧do˧ ɲi˥-kv̩˩, | tsʰo˧pæ˧ ɲi˥-kv̩˩, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕʰo˥~tɕʰo˩ bi˩-dʑo˩ | tʰi˩˥, |</FORM>
-		<TRANSL xml:lang="fr">Ainsi, il y avait deux palefreniers, deux chefs de caravane; voilà comme ils partaient,</TRANSL>
+		<TRANSL xml:lang="fr">Ainsi, il y avait deux palefreniers, deux chefs de caravane; voilà comme ils partaient, </TRANSL>
 	</S>
 	<S id="CaravansS122">
 		<AUDIO start="686.3953" end="697.2063"/>
 		<FORM>lɑ˧do˧ ɲi˥-pi˩ | ʈʂʰɯ˧-tɕi˩-dʑo˩, | ɖʐɯ˧qo˩ | tʰi˧-tʰv̩˧, | ʐwæ˧-ʈʂʰɯ˧ | le˧-kʰɯ˧˥, | dʑɯ˧ | tʰi˧-ki˧, | lv̩˧ tʰi˧-ki˧, | qʰɑ˧dze˧-hɑ˧lv̩˧ | tʰi˧-ki˧, | tʰi˧-dzɯ˥-kʰɯ˩, | le˧-se˩-kwɤ˩tɕɯ˩-lɑ˩, | dʑɯ˩ʁo˩˥ | gɤ˧ | wɤ˩˥ | tʰi˧-lv̩˧˥. |</FORM>
 		<NOTE xml:lang="fr" message="lɑ˧do˧ ɲi˥: a ici le même sens que lɑ˧do˧ ɲi˥-kv̩˩."/>
-		<NOTE xml:lang="fr" message="dʑɯ˩ʁo˩˥ | gɤ˧ | tʰi˧-lv̩˧˥: vérifié: n'est pas ‡dʑɯ˩ʁo˩-gɤ˥ ni dʑɯ˩ʁo˩-gɤ˩˥; a pourtant le sens de locatif, /dʑɯ˩ʁo˩˥ | gɤ˧/ 'sur la montagne', de sorte qu'on s'attendrait à le voir intégré au même groupe tonal, comme c'est le cas pour 'ville' dans ce qui suit (juste après: phrase suivante)."/>
+		<NOTE xml:lang="fr"
+			message="dʑɯ˩ʁo˩˥ | gɤ˧ | tʰi˧-lv̩˧˥: vérifié: n'est pas ‡dʑɯ˩ʁo˩-gɤ˥ ni dʑɯ˩ʁo˩-gɤ˩˥; a pourtant le sens de locatif, /dʑɯ˩ʁo˩˥ | gɤ˧/ 'sur la montagne', de sorte qu'on s'attendrait à le voir intégré au même groupe tonal, comme c'est le cas pour 'ville' dans ce qui suit (juste après: phrase suivante)."/>
 		<TRANSL xml:lang="fr">Ceux qui étaient palefreniers, ceux-là, quand ils arrivent à la ville, ils mettent les chevaux (à l'étable), ils leur donnent à boire, ils leur donnent du grain; ils leur donnent du picotin de maïs, ils les font manger; quand ils ont fini, ils les mènent encore paître sur la montagne (=ils doivent encore les mener paître en montagne).</TRANSL>
 	</S>
 	<S id="CaravansS123">
@@ -823,12 +849,13 @@
 	<S id="CaravansS124">
 		<AUDIO start="703.6720" end="709.7865"/>
 		<FORM>tʰi˩˥, | ze˩-ɲi˧ | wɤ˩˥ | "tsʰo˧qʰwɤ˩-dʑo˩, | ə˧zɯ˩, | lo˧ʂv̩˩ hɑ̃˩! | so˧ɲi˥-dʑo˩, | lo˧gv̩˩ tʰv̩˩! |</FORM>
-		<TRANSL xml:lang="fr">Après, un certain jour, à nouveau, ils annoncent: "ce soir, nous deux, on dormira à lo˧ʂv̩˩! (=Luoshui, au bord du Lac) Demain, on parviendra à lo˧gv̩˩! (=l'actuel Ninglang)"</TRANSL>
+		<TRANSL xml:lang="fr">Après, un certain jour, à nouveau, ils annoncent: "ce soir, nous deux, on dormira à lo˧ʂv̩˩! (=Luoshui, au bord du Lac) Demain, on parviendra à lo˧gv̩˩! (=l'actuel Ninglang)" </TRANSL>
 	</S>
 	<S id="CaravansS125">
 		<AUDIO start="709.7865" end="715.1074"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ɑ˩ʁo˧ ɬi˧di˩-ɳɯ˩ bi˩, | lo˧ʂv̩˩ hɑ̃˩-kv̩˩-ze˩-mæ˩! | ʐwæ˧ tɕɯ˩! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: /bi/ ici a son sens de futur immédiat, non un sens plus abstrait."/>
+		<NOTE xml:lang="fr"
+			message="vérifié: /bi/ ici a son sens de futur immédiat, non un sens plus abstrait."/>
 		<TRANSL xml:lang="fr">Autrefois, quand on se mettait en route depuis Yongning, on passait la nuit à lo˧gv̩˩! (=l'actuel Ninglang) On conduisait la caravane!</TRANSL>
 	</S>
 	<S id="CaravansS126">
@@ -844,13 +871,14 @@
 	<S id="CaravansS128">
 		<AUDIO start="722.8481" end="726.5818"/>
 		<FORM>ɬi˧di˩-lɑ˩ | lo˧gv̩˩, | so˩-hɑ̃˩ tʰi˥-hɑ̃˩-kv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | so˩-hɑ̃˩˥! |</FORM>
-		<NOTE xml:lang="en" message="The phrase /so˩-hɑ̃˩˥/ 'three nights', found in /so˩-hɑ̃˩ tʰi˥-hɑ̃˩-kv̩˩/, is repeated by the investigator; the speaker echoes this repetition, as /| so˩-hɑ̃˩˥/."/>
+		<NOTE xml:lang="en"
+			message="The phrase /so˩-hɑ̃˩˥/ 'three nights', found in /so˩-hɑ̃˩ tʰi˥-hɑ̃˩-kv̩˩/, is repeated by the investigator; the speaker echoes this repetition, as /| so˩-hɑ̃˩˥/."/>
 		<TRANSL xml:lang="fr">De Yongning à Ninglang (littéralement: "Yongning et Ninglang"), le trajet comportait trois étapes (trois nuits en route), autrefois! Trois nuits! (Note: autrefois, il fallait trois jours entre Ninglang et Yongning; sept jours entre Lijiang et Yongning; trois mois entre Yongning et Lhasa.)</TRANSL>
 	</S>
 	<S id="CaravansS129">
 		<AUDIO start="726.5818" end="732.3190"/>
 		<FORM>ʐo˩dzɯ˩˥ | wɤ˩˥ | ʐwæ˧tɕi˥ | le˧-pʰv̩˧˥, | wɤ˩˥ | ɖɯ˧-ʂɯ˩ dzɯ˩. | wɤ˩˥ | ʐwæ˧ | ɖɯ˧-lv̩˧˥, | wɤ˩˥ | ɖɯ˧-ʂɯ˩ ʈʂæ˩. |</FORM>
-		<TRANSL xml:lang="fr">Au déjeuner, à nouveau, on ôte leur selle aux chevaux, on prend un repas (littéralement "on mange une nouvelle fois"). À nouveau, on mène paître les chevaux; à nouveau, [on les] selle!</TRANSL>
+		<TRANSL xml:lang="fr">Au déjeuner, à nouveau, on ôte leur selle aux chevaux, on prend un repas (littéralement "on mange une nouvelle fois"). À nouveau, on mène paître les chevaux; à nouveau, [on les] selle! </TRANSL>
 	</S>
 	<S id="CaravansS130">
 		<AUDIO start="733.0215" end="739.1230"/>
@@ -862,9 +890,11 @@
 	<S id="CaravansS131">
 		<AUDIO start="739.3181" end="740.9313"/>
 		<FORM>ʐɤ˩mi˩˥ | no˩-qo˥ hɑ̃˩-lɑ˩ ɲi˩! | dʑɯ˩ʁo˩˥! |</FORM>
-		<NOTE xml:lang="fr" message="/no˩-qo˥/: le sens n'est pas 'n'importe où', mais 'à côté de, à proximité de'"/>
-		<NOTE xml:lang="fr" message="On pourrait dire: /ʐɤ˩-ʈʰæ˩ hɑ̃˥-lɑ˩ ɲi˩/ 'on dormait au bord du chemin, et voilà tout!'"/>
-		<TRANSL xml:lang="fr">On dormait au bord du chemin, et voilà tout! En pleine montagne!</TRANSL>
+		<NOTE xml:lang="fr"
+			message="/no˩-qo˥/: le sens n'est pas 'n'importe où', mais 'à côté de, à proximité de'"/>
+		<NOTE xml:lang="fr"
+			message="On pourrait dire: /ʐɤ˩-ʈʰæ˩ hɑ̃˥-lɑ˩ ɲi˩/ 'on dormait au bord du chemin, et voilà tout!'"/>
+		<TRANSL xml:lang="fr">On dormait au bord du chemin, et voilà tout! En pleine montagne! </TRANSL>
 	</S>
 	<S id="CaravansS132">
 		<AUDIO start="741.2956" end="745.7058"/>
@@ -874,7 +904,7 @@
 	<S id="CaravansS133">
 		<AUDIO start="746.6034" end="750.6234"/>
 		<FORM>&lt;jo˧… lo˧gv̩˩…&gt; ɬi˧di˩-ɳɯ˩ | jo˧gv̩˧ tʰv̩˧, | ʂɯ˧-hɑ̃˧ ɲi˥-tsɯ˩ ◊ -mv̩˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
-		<TRANSL xml:lang="fr">Depuis Yongning, pour gagner Lijiang, il fallait sept nuits, autrefois!</TRANSL>
+		<TRANSL xml:lang="fr">Depuis Yongning, pour gagner Lijiang, il fallait sept nuits, autrefois! </TRANSL>
 	</S>
 	<S id="CaravansS134">
 		<AUDIO start="751.2868" end="753.4985"/>
@@ -888,44 +918,57 @@
 	</S>
 	<S id="CaravansS136">
 		<AUDIO start="756.5947" end="763.7760"/>
-		<FORM>jo˧gv̩˧-ŋv̩˧lv̩˧-ki˧-ɳɯ˧ | le˧-tsʰɯ˩-dʑo˩, | gi˧dʑɯ˧-qo˧-kʰɯ˧˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ʐwæ˧-ʈʂʰɯ˧, | mo˧qʰwɤ˥ tʰi˩-tsɯ˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="on pourrait également dire: mo˧qʰwɤ˥ | tʰi˧-tsɯ˥-kv̩˩-tsɯ˩ ◊ -mv̩˩."/>
+		<FORM>jo˧gv̩˧-ŋv̩˧lv̩˧-ki˧-ɳɯ˧ | le˧-tsʰɯ˩-dʑo˩, | gi˧dʑɯ˧-qo˧-kʰɯ˧˥ ◊ -dʑo˩, |
+			ə˧ʝi˧-ʂɯ˥ʝi˩, | ʐwæ˧-ʈʂʰɯ˧, | mo˧qʰwɤ˥ tʰi˩-tsɯ˩-kv̩˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr"
+			message="on pourrait également dire: mo˧qʰwɤ˥ | tʰi˧-tsɯ˥-kv̩˩-tsɯ˩ ◊ -mv̩˩."/>
 		<TRANSL xml:lang="fr">Pour passer par le glacier de Lijiang, on vous faisait passer au-dessus du Yangtze, autrefois; les chevaux, on les attachait à la navette! (/mo˧qʰwɤ˥/: navette en bois qui coulissait sur la corde)</TRANSL>
 	</S>
 	<S id="CaravansS137">
 		<AUDIO start="764.5956" end="770.4369"/>
-		<FORM>bæ˧! | bæ˩-po˩-ɳɯ˥ | ʐwæ˧ | tʰi˧-tsɯ˧~tsɯ˧-kwɤ˩tɕɯ˩-zo˩, | gi˧dʑɯ˧-&lt;-dʑo˧-qɑ˧&gt;[qo˧mv̩˧], | fv! pi˧, | ɖɯ˧-tɕo˥ | kʰɯ˧˥ ◊ -dʑo˩, |</FORM>
+		<FORM>bæ˧! | bæ˩-po˩-ɳɯ˥ | ʐwæ˧ | tʰi˧-tsɯ˧~tsɯ˧-kwɤ˩tɕɯ˩-zo˩, |
+			gi˧dʑɯ˧-&lt;-dʑo˧-qɑ˧&gt;[qo˧mv̩˧], | fv! pi˧, | ɖɯ˧-tɕo˥ | kʰɯ˧˥ ◊ -dʑo˩, |</FORM>
 		<NOTE xml:lang="fr" message="lo˧bæ˧-qo˥mv̩˩: sur le pont de corde"/>
 		<TRANSL xml:lang="fr">Une corde! Quand, avec une corde, on avait attaché les chevaux, au-dessus du Yangtze, Vzzzt!!! on l'envoyait par là-bas! (=on le lançait sur la corde au-dessus du fleuve, dans le sens de la descente)</TRANSL>
 	</S>
 	<S id="CaravansS138">
 		<AUDIO start="770.9703" end="781.3780"/>
-		<FORM>mmm… ɖɯ˧-dzɤ˥ | æ˩ʈv̩˥-ki˩ | ɖɯ˧-v̩˧-ɳɯ˧ | &lt;tʰi˧…&gt; tʰi˧-ʈʂʰɻ̩˧-kv̩˥-tsɯ˩ ◊ -mv̩˩, | mo˧qʰwɤ˥ | ʈʂʰɯ˧-ɭɯ˧ | le˧-tɕʰɯ˩, | wɤ˩˥ | ʐwæ˧-ʈʂʰɯ˧ | tɕɯ˧-lɑ˥, | &lt;əəə… ʐwæ˧-ʈʂʰɯ˧…&gt; ʐwæ˧ tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | dv̩˧tɕo˥ | kʰɯ˧-kv̩˥-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ʐwæ˧-ʈʂʰɯ˧ | tɕi˧-lɑ˥/; vérifié: est bien la syllabe /tɕi˧˥/ 'conduire un cheval'"/>
-		<NOTE xml:lang="fr" message="Un caravanier, autrefois, était payé trois pièces d'argent par jour en voyage; et il fallait en donner une pour le passage d'un cheval ou d'une personne."/>
+		<FORM>mmm… ɖɯ˧-dzɤ˥ | æ˩ʈv̩˥-ki˩ | ɖɯ˧-v̩˧-ɳɯ˧ | &lt;tʰi˧…&gt;
+			tʰi˧-ʈʂʰɻ̩˧-kv̩˥-tsɯ˩ ◊ -mv̩˩, | mo˧qʰwɤ˥ | ʈʂʰɯ˧-ɭɯ˧ | le˧-tɕʰɯ˩, | wɤ˩˥ | ʐwæ˧-ʈʂʰɯ˧ |
+			tɕɯ˧-lɑ˥, | &lt;əəə… ʐwæ˧-ʈʂʰɯ˧…&gt; ʐwæ˧ tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | dv̩˧tɕo˥ |
+			kʰɯ˧-kv̩˥-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡ʐwæ˧-ʈʂʰɯ˧ | tɕi˧-lɑ˥/; vérifié: est bien la syllabe /tɕi˧˥/ 'conduire un cheval'"/>
+		<NOTE xml:lang="fr"
+			message="Un caravanier, autrefois, était payé trois pièces d'argent par jour en voyage; et il fallait en donner une pour le passage d'un cheval ou d'une personne."/>
 		<TRANSL xml:lang="fr">De l'autre côté, sur la falaise, il y en a un qui… qui agrippe [le cheval qui vient de passer la rivière]; la navette en bois, on la renvoie [par l'autre pont de corde, dont l'inclinaison permet le passage dans l'autre sens]; et à nouveau, on mène un autre cheval, et… [on] attache un [autre] cheval [pour le passage du pont]! Le cheval… on attache le cheval! On l'envoie comme ça, dans la direction [de l'autre rive]!</TRANSL>
 	</S>
 	<S id="CaravansS139">
 		<AUDIO start="781.8854" end="787.1282"/>
-		<FORM>əəə… tɕɯ˧-lɑ˥, əəə… | zo˩no˥, | tso˧~tso˧ | õ˧-bv̩˥-õ˩ | tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-tɕo˥ | kʰɯ˧˥; |</FORM>
-		<TRANSL xml:lang="fr">En caravane, les choses, on les attache soi-même[lors du passage du pont]! On les envoie ainsi de l'autre côté;</TRANSL>
+		<FORM>əəə… tɕɯ˧-lɑ˥, əəə… | zo˩no˥, | tso˧~tso˧ | õ˧-bv̩˥-õ˩ | tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ |
+			ɖɯ˧-tɕo˥ | kʰɯ˧˥; |</FORM>
+		<TRANSL xml:lang="fr">En caravane, les choses, on les attache soi-même[lors du passage du pont]! On les envoie ainsi de l'autre côté; </TRANSL>
 	</S>
 	<S id="CaravansS140">
 		<AUDIO start="787.7136" end="794.2574"/>
-		<FORM>gi˧dʑɯ˧ kv̩˩-pi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | &lt;ʐw…&gt; "ə˧mi˧! tsʰo˧qʰwɤ˩-dʑo˩, | &lt;ʐwæ˧…&gt; ʐwæ˧ tɕɯ˩-zo˩, | gi˧dʑɯ˧-ki˧ | tʰv̩˧-ze˩!" | pi˧. |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: n'est pas /‡ʐwæ˧ tɕɯ˩-zo˩-ɻ̩˩/ ni /‡ʐwæ˧ tɕɯ˩-zo˩=ɻæ˩/"/>
+		<FORM>gi˧dʑɯ˧ kv̩˩-pi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | &lt;ʐw…&gt; "ə˧mi˧! tsʰo˧qʰwɤ˩-dʑo˩, |
+			&lt;ʐwæ˧…&gt; ʐwæ˧ tɕɯ˩-zo˩, | gi˧dʑɯ˧-ki˧ | tʰv̩˧-ze˩!" | pi˧. |</FORM>
+		<NOTE xml:lang="fr"
+			message="vérifié: n'est pas /‡ʐwæ˧ tɕɯ˩-zo˩-ɻ̩˩/ ni /‡ʐwæ˧ tɕɯ˩-zo˩=ɻæ˩/"/>
 		<NOTE xml:lang="fr" message="sens de /kv̩˩/ dans /gi˧dʑɯ˧ kv̩˩/: 'passer, franchir'"/>
 		<TRANSL xml:lang="fr">On appelait ça "passer le Yangtze", autrefois! "Eeeh! Ce soir, les caravaniers, ils vont parvenir au Yangtze!" [se racontaient les membres de la famille restés à la maison]</TRANSL>
 	</S>
 	<S id="CaravansS141">
 		<AUDIO start="794.2574" end="795.9226"/>
 		<FORM>ɑ˩ʁo˧ | ə˧mi˧=ɻæ˩-ɳɯ˩ | ʈʂɤ˧~ʈʂɤ˩-kv̩˩-ze˩-mæ˩! |</FORM>
-		<TRANSL xml:lang="fr">Les femmes de la famille, elles comptaient [les jours]!</TRANSL>
+		<TRANSL xml:lang="fr">Les femmes de la famille, elles comptaient [les jours]! </TRANSL>
 	</S>
 	<S id="CaravansS142">
 		<AUDIO start="796.1828" end="799.2010"/>
-		<FORM>zo˩qo˧, zo˩qo˧, | qʰɑ˩-hɑ̃˩˥, | zo˩qo˧, zo˩qo˧, | qʰɑ˩-hɑ̃˩-pi˥, | zo˩qo˧ tʰv̩˧… |</FORM>
-		<NOTE xml:lang="fr" message="dans la deuxième répétition de /zo˩qo˧, | qʰɑ˩-hɑ̃˩˥/, il me semble entendre une syllable après le dernier /zo˩qo˧/; mais de l'avis de la locutrice il n'y a rien, sinon une légère maladresse de prononciation."/>
+		<FORM>zo˩qo˧, zo˩qo˧, | qʰɑ˩-hɑ̃˩˥, | zo˩qo˧, zo˩qo˧, | qʰɑ˩-hɑ̃˩-pi˥, | zo˩qo˧ tʰv̩˧…
+			|</FORM>
+		<NOTE xml:lang="fr"
+			message="dans la deuxième répétition de /zo˩qo˧, | qʰɑ˩-hɑ̃˩˥/, il me semble entendre une syllable après le dernier /zo˩qo˧/; mais de l'avis de la locutrice il n'y a rien, sinon une légère maladresse de prononciation."/>
 		<TRANSL xml:lang="fr">où [ils étaient parvenus], combien de nuits [ils devraient encore passer au dehors avant de rentrer]… / Ils doivent être parvenus ici, ils doivent être parvenus là; en tant de jours, ils seront ici, puis là, puis là…</TRANSL>
 	</S>
 	<S id="CaravansS143">
@@ -936,8 +979,9 @@
 	</S>
 	<S id="CaravansS144">
 		<AUDIO start="801.6207" end="805.2504"/>
-		<FORM>o! qʰɑ˩ hɑ̃˩-ɖʐɯ˩-ze˥, | ʈʂʰɯ˧-qo˧-pi˧ | tʰi˩˥, | ʈʂʰɯ˧ | ɖɯ˧-so˩ hɑ̃˩ | le˧-mɤ˧-tsʰɯ˩, | pi˧-dʑo˩, |</FORM>
-		<TRANSL xml:lang="fr">Pendant une durée de combien de jours… par rapport à ici, s'ils ne revenaient pas pendant quelques jours [après la date escomptée pour le retour],</TRANSL>
+		<FORM>o! qʰɑ˩ hɑ̃˩-ɖʐɯ˩-ze˥, | ʈʂʰɯ˧-qo˧-pi˧ | tʰi˩˥, | ʈʂʰɯ˧ | ɖɯ˧-so˩ hɑ̃˩ | le˧-mɤ˧-tsʰɯ˩,
+			| pi˧-dʑo˩, |</FORM>
+		<TRANSL xml:lang="fr">Pendant une durée de combien de jours… par rapport à ici, s'ils ne revenaient pas pendant quelques jours [après la date escomptée pour le retour], </TRANSL>
 	</S>
 	<S id="CaravansS145">
 		<AUDIO start="805.2504" end="807.4880"/>
@@ -947,17 +991,21 @@
 	</S>
 	<S id="CaravansS146">
 		<AUDIO start="807.8132" end="811.8722"/>
-		<FORM>"ə˧mi˧! | njɤ˧-zo˧ le˧-mɤ˧-tsʰɯ˧˥", | pi˧-zo˩, | ə˧mi˧ | ʁɑ˩ʂɯ˧ | &lt;ɕi˧tjɤ˧ kv̩˧-ɲi˥…&gt; ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˩-ɲi˩-ze˩! |</FORM>
+		<FORM>"ə˧mi˧! | njɤ˧-zo˧ le˧-mɤ˧-tsʰɯ˧˥", | pi˧-zo˩, | ə˧mi˧ | ʁɑ˩ʂɯ˧ | &lt;ɕi˧tjɤ˧
+			kv̩˧-ɲi˥…&gt; ʂv̩˧ɖv̩˧ tʰv̩˧-kv̩˩-ɲi˩-ze˩! |</FORM>
 		<NOTE xml:lang="fr" message="pensais d'abord à un emprunt chinois: 还是, prononcé /‡hæ˩ʂɯ˧/; corrigé ensuite (juillet 2012) en: /ʁɑ˩ʂɯ˧/, mot na."/>
 		<NOTE xml:lang="fr" message="/ɕi˧tjɤ˧/: emprunt chinois: 心跳 'avoir le cœur qui palpite'."/>
-		<TRANSL xml:lang="fr">"Hélas! Mon fils ne revient pas!" [Sa] mère était très inquiète!</TRANSL>
+		<TRANSL xml:lang="fr">"Hélas! Mon fils ne revient pas!" [Sa] mère était très inquiète! </TRANSL>
 	</S>
 	<S id="CaravansS147">
 		<AUDIO start="812.2625" end="820.4065"/>
-		<FORM>ʈʂʰɯ˧-gɤ˧ bæ˧˥ ◊ -ki˩, | tʰv̩˧-mv̩˧ bæ˧˥ ◊ -ki˩, | ə˧mi˧! | ʈʂʰɯ˧-qo˧… | gæ˧ɻæ˩-hĩ˩ &lt;ɖɯ…&gt; ʝi˩kʰv̩˩-hɯ˩-tsɯ˩, | le˧-tsʰɯ˩-ə˩-hɯ˩?" | pi˧, | wɤ˩˥ | le˧-bæ˧˥, | ə˧mi˧=ɻæ˩ | wɤ˩˥ | mv̩˩do˩-bi˩-zo˩-kv̩˥!</FORM>
+		<FORM>ʈʂʰɯ˧-gɤ˧ bæ˧˥ ◊ -ki˩, | tʰv̩˧-mv̩˧ bæ˧˥ ◊ -ki˩, | ə˧mi˧! | ʈʂʰɯ˧-qo˧… | gæ˧ɻæ˩-hĩ˩
+			&lt;ɖɯ…&gt; ʝi˩kʰv̩˩-hɯ˩-tsɯ˩, | le˧-tsʰɯ˩-ə˩-hɯ˩?" | pi˧, | wɤ˩˥ | le˧-bæ˧˥, |
+			ə˧mi˧=ɻæ˩ | wɤ˩˥ | mv̩˩do˩-bi˩-zo˩-kv̩˥!</FORM>
 		<NOTE xml:lang="fr" message="vérifié: n'est pas ‡mv̩˩do˩-bi˩-zo˩-kv̩˩˥"/>
-		<NOTE xml:lang="fr" message="tons vérifiés: est /ʈʂʰɯ˧-gɤ˧ bæ˧˥ ◊ -ki˩, | tʰv̩˧-mv̩˧ bæ˧˥ ◊ -ki˩/"/>
-		<TRANSL xml:lang="fr">Elle courait de droite et de gauche; hélas! ici… "Il paraît que quelques personnes du village de Ggae’er /gæ˧ɻæ˩/ [proche de Yongning] y sont allées (=faisaient partie de la même caravane); sont-elles revenues?" Ensuite elle repartait à la course, à nouveau elle posait des questions aux femmes [des diverses maisonnées]!</TRANSL>
+		<NOTE xml:lang="fr"
+			message="tons vérifiés: est /ʈʂʰɯ˧-gɤ˧ bæ˧˥ ◊ -ki˩, | tʰv̩˧-mv̩˧ bæ˧˥ ◊ -ki˩/"/>
+		<TRANSL xml:lang="fr">Elle courait de droite et de gauche; hélas! ici… "Il paraît que quelques personnes du village de gæ˧ɻæ˩ [proche de Yongning] y sont allées (=faisaient partie de la même caravane); sont-elles revenues?" Ensuite elle repartait à la course, à nouveau elle posait des questions aux femmes [des diverses maisonnées]!</TRANSL>
 	</S>
 	<S id="CaravansS148">
 		<AUDIO start="820.6797" end="822.6832"/>
@@ -967,7 +1015,9 @@
 	</S>
 	<S id="CaravansS149">
 		<AUDIO start="822.8686" end="831.4842"/>
-		<FORM>əəə… zo˩no˥, | hĩ˧ sɯ˧~sɯ˧-hĩ˧, | ɖʐv̩˧-ʈʂʰɯ˧, | ə˧zɯ˩, | no˧… | ə˧zɯ˩ | tɕʰo˧-tɕʰo˧-ɻ̩˩ | kʰi˧˥, | pi˧, | no˧ ʁo˧dɑ˧ | le˧-hɯ˩-pi˩, | no˧-ki˧ mv̩˥do˩, ◊ ə˩-gi˩! | njɤ˧ | le˧-mɤ˧-tsʰɯ˩-pi˩! |</FORM>
+		<FORM>əəə… zo˩no˥, | hĩ˧ sɯ˧~sɯ˧-hĩ˧, | ɖʐv̩˧-ʈʂʰɯ˧, | ə˧zɯ˩, | no˧… | ə˧zɯ˩ |
+			tɕʰo˧-tɕʰo˧-ɻ̩˩ | kʰi˧˥, | pi˧, | no˧ ʁo˧dɑ˧ | le˧-hɯ˩-pi˩, | no˧-ki˧ mv̩˥do˩, ◊ ə˩-gi˩! |
+			njɤ˧ | le˧-mɤ˧-tsʰɯ˩-pi˩! |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ə˧zɯ˩-tɕʰo˩-tɕʰo˩-ɻ̩˩ kʰi˩˥/"/>
 		<TRANSL xml:lang="fr">[On demandait des nouvelles] aux gens qu'on connaissait, aux amis! nous deux… toi… si on est parti ensemble, tous les deux, eh bien, si tu es parti devant [=si tu es rentré en premier], c'est à toi que [ma famille] demande[ra des nouvelles], n'est-ce pas! puisque je ne reviens pas!</TRANSL>
 	</S>
@@ -979,13 +1029,14 @@
 	</S>
 	<S id="CaravansS151">
 		<AUDIO start="833.7771" end="836.5578"/>
-		<FORM>"õ! ʈʂʰɯ˧sɯ˩kv̩˩, | tsʰo˧qʰwɤ˩-dʑo˩ | ʈʂʰɯ˧-qo˧ tʰv̩˧-ʝi˧-ze˧! | ɖwæ˩-mɤ˧-zo˧!" | pi˧. |</FORM>
+		<FORM>"õ! ʈʂʰɯ˧sɯ˩kv̩˩, | tsʰo˧qʰwɤ˩-dʑo˩ | ʈʂʰɯ˧-qo˧ tʰv̩˧-ʝi˧-ze˧! | ɖwæ˩-mɤ˧-zo˧!" | pi˧.
+			|</FORM>
 		<TRANSL xml:lang="fr">[La personne interrogée] disait: "Oooh! Eux, ce soir, ils arriveront ici! Ne vous faites pas de souci!"</TRANSL>
 	</S>
 	<S id="CaravansS152">
 		<AUDIO start="836.5578" end="837.5920"/>
 		<FORM>õ˧ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩-ɲi˩! |</FORM>
-	<NOTE xml:lang="fr" message="d'abord noté sans /-wɤ/ final; vers 2015: pense à modifier en /pi˧-kv˩-ɲi˩-wɤ˩/; réécouté en 2017 avec F4: il lui paraît qu'il n'y a pas de particule après /ɲi˩/: n'est pas /‡pi˧-kv˩-ɲi˩-wɤ˩/."/>
+	<NOTE xml:lang="fr" message="d'abord noté sans /-wɤ/ final; vers 2015: pense à modifier en /pi˧-kv˩-ɲi˩-wɤ˩/; réécouté en 2017 avec F4: il lui paraît qu'il n'y a pas de particule après /ɲi˩/: n'est pas /‡pi˧-kv˩-ɲi˩-wɤ˩/."></NOTE>
 		<TRANSL xml:lang="fr">Voilà ce qu'on disait!</TRANSL>
 	</S>
 	<S id="CaravansS153">
@@ -997,7 +1048,8 @@
 	<S id="CaravansS154">
 		<AUDIO start="844.5098" end="851.1935"/>
 		<FORM>kɤ˧zo˧ mv̩˥ʈʂæ˩-hĩ˩ tʰv̩˩-v̩˩-dʑo˩, | hĩ˧ tsʰo˧pæ˧ ʝi˧! | əəə… tso˧~tso˧ hwæ˩! | əəə… ŋv̩˩ tʰi˩-po˩˥! |</FORM>
-		<NOTE xml:lang="fr" message="phonétiquement, fait penser à: /ŋv̩˩v̩˩ tʰi˩-po˩˥/, mais c'est simplement un petit accident de prononciation: il n'y a pas de syllabe supplémentaire entre /ŋv̩˩/ et /tʰi˩/"/>
+		<NOTE xml:lang="fr"
+			message="phonétiquement, fait penser à: /ŋv̩˩v̩˩ tʰi˩-po˩˥/, mais c'est simplement un petit accident de prononciation: il n'y a pas de syllabe supplémentaire entre /ŋv̩˩/ et /tʰi˩/"/>
 		<TRANSL xml:lang="fr">Celui qui s'appelait kɤ˧zo˧, il était chef de caravane! Il achetait les choses / C'est lui qui était chargé des achats! C'est lui qui portait l'argent!</TRANSL>
 	</S>
 	<S id="CaravansS155">
@@ -1008,8 +1060,9 @@
 	</S>
 	<S id="CaravansS156">
 		<AUDIO start="859.5261" end="867.0586"/>
-		<FORM>hhh… ɬɑ˧sɑ˧-ɳɯ˧, | ʐwæ˧ le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | ɑ˩ʁo˧ tɕi˧! | ɑ˩ʁo˧-ɳɯ˧ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, mmm… | tso˧~tso˧ le˧-tɕɯ˧-po˥-hɯ˩, | jɤ˧ŋɤ˧ po˧-hɯ˥! |</FORM>
-		<TRANSL xml:lang="fr">Depuis Lhasa, on menait la caravane, on déposait [les marchandises] à la maison! Depuis la maison, on transportait [les marchandises], mmh… on emportait les marchandises, on les emportait à Chengdu!</TRANSL>
+		<FORM>hhh… ɬɑ˧sɑ˧-ɳɯ˧, | ʐwæ˧ le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | ɑ˩ʁo˧ tɕi˧! | ɑ˩ʁo˧-ɳɯ˧ |
+			le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, mmm… | tso˧~tso˧ le˧-tɕɯ˧-po˥-hɯ˩, | jɤ˧ŋɤ˧ po˧-hɯ˥! |</FORM>
+		<TRANSL xml:lang="fr">Depuis Lhasa, on menait la caravane, on déposait [les marchandises] à la maison! Depuis la maison, on transportait [les marchandises], mmh… on emportait les marchandises, on les emportait à Chengdu! </TRANSL>
 	</S>
 	<S id="CaravansS157">
 		<AUDIO start="867.0586" end="870.3468"/>
@@ -1018,19 +1071,23 @@
 	</S>
 	<S id="CaravansS158">
 		<AUDIO start="871.0298" end="874.4838"/>
-		<FORM>hæ˧di˩-qo˩, | wɤ˩˥, | ə˧tso˧-mɤ˧-ɲi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧sɯ˩kv̩˩-dʑo˩, | hæ˧di˩-lɑ˩ pi˩-kv̩˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
-		<TRANSL xml:lang="fr">Dans les régions chinoises… nous autres, autrefois, on appelait tout "les régions chinoises"[, sans faire de différences/de façon indifférenciée], n'est-ce pas!</TRANSL>
+		<FORM>hæ˧di˩-qo˩, | wɤ˩˥, | ə˧tso˧-mɤ˧-ɲi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧sɯ˩kv̩˩-dʑo˩, | hæ˧di˩-lɑ˩
+			pi˩-kv̩˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
+		<TRANSL xml:lang="fr">Dans les régions chinoises… nous autres, autrefois, on appelait tout "les régions chinoises"[, sans faire de différences/de façon indifférenciée], n'est-ce pas! </TRANSL>
 	</S>
 	<S id="CaravansS159">
 		<AUDIO start="875.0497" end="877.7232"/>
 		<FORM>ĩ˧! | zo˩qo˧ ɲi˩ F | mɤ˧-sɯ˥, | tʰi˩˥, | "hæ˧di˩ hɯ˩-ɲi˩!" | pi˧. |</FORM>
-		<NOTE xml:lang="fr" message="L'intuition de la locutrice est qu'il n'y a pas de syllabe après /zo˩qo˧ ɲi˩/: pas de syllabe /-ɻ̩˩/ ou autre; c'est simplement une mise en valeur intonative: focalisation. Elle est notée par le symbole F."/>
+		<NOTE xml:lang="fr"
+			message="L'intuition de la locutrice est qu'il n'y a pas de syllabe après /zo˩qo˧ ɲi˩/: pas de syllabe /-ɻ̩˩/ ou autre; c'est simplement une mise en valeur intonative: focalisation. Elle est notée par le symbole F."/>
 		<TRANSL xml:lang="fr">Eh! Quand on ne savait pas où c'était (=où quelqu'un était parti au juste: Chengdu, Xichang, Kunming…), on disait: "[Il] est parti en pays chinois!"</TRANSL>
 	</S>
 	<S id="CaravansS160">
 		<AUDIO start="878.2306" end="883.1579"/>
-		<FORM>əəə… "tsʰi˧ɲi˧-dʑo˩, | hæ˧di˩ bi˩-tso˩-ɲi˩!" | pi˧. | ɕi˧ʈʂʰwæ˧ ʈʂʰɯ˧=ɻæ˧-pi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɬi˧di˩-di˩mi˩-qo˩, | ɕi˧ʈʂʰwæ˧ | mɤ˧-dʑo˧-ɲi˥-mæ˩! |</FORM>
-		<NOTE xml:lang="fr" message="/ɕi˧ʈʂʰwæ˧ ʈʂʰɯ˧=ɻæ˥$/: le riz, ces choses-là, cette sorte de choses; phonétiquement: /ʈʂʰɯ˧=ɻæ˥$/ est réalisé proche de /ʈʰæ˧æ˥/"/>
+		<FORM>əəə… "tsʰi˧ɲi˧-dʑo˩, | hæ˧di˩ bi˩-tso˩-ɲi˩!" | pi˧. | ɕi˧ʈʂʰwæ˧ ʈʂʰɯ˧=ɻæ˧-pi˥! |
+			ə˧ʝi˧-ʂɯ˥ʝi˩, | ɬi˧di˩-di˩mi˩-qo˩, | ɕi˧ʈʂʰwæ˧ | mɤ˧-dʑo˧-ɲi˥-mæ˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="/ɕi˧ʈʂʰwæ˧ ʈʂʰɯ˧=ɻæ˥$/: le riz, ces choses-là, cette sorte de choses; phonétiquement: /ʈʂʰɯ˧=ɻæ˥$/ est réalisé proche de /ʈʰæ˧æ˥/"/>
 		<NOTE xml:lang="fr" message="/ɕi˧ʈʂʰwæ˧/: fortement hypo-articulé ici"/>
 		<TRANSL xml:lang="fr">On disait: "Aujourd'hui, c'est parti pour les contrées chinoises!" On disait: C'est parti pour le riz!/ Ce coup-ci, on est parti pour une cargaison de riz!" C'est qu'autrefois, à Yongning, il n'y avait pas de riz!</TRANSL>
 	</S>
@@ -1041,9 +1098,13 @@
 	</S>
 	<S id="CaravansS162">
 		<AUDIO start="886.3973" end="900.9940"/>
-		<FORM>tʰi˩˥, | gi˩˥, | gi˩-ɳɯ˥, | sɯ˧pʰi˧-ɳɯ˧, | hæ˧ qɑ˧˥ | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩ sɯ˩~sɯ˩-dʑo˩ | tʰi˩˥, | hæ˧ | ɖɯ˧-ɲi˧-ʑi˩ | &lt;tʰi˧-…&gt; tʰi˧-dzi˩-dʑo˩, | ʈʂʰɯ˧-ɲi˥-ʑi˩-ɳɯ˩ | kʰɤ˧ʂɯ˧, | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩ tv̩˩-dʑo˩ | tʰi˩˥, | no˧=ɻ̩˩ ɖɯ˩-pʰv̩˩ tv̩˩, | njɤ˧=ɻ̩˩ ɖɯ˩-pʰv̩˩ tv̩˩, | ʈʂʰɯ˧ne˧-ʝi˥ | tv̩˧-hĩ˧-lɑ˩-ɲi˩-ze˩-mæ˩! |</FORM>
+		<FORM>tʰi˩˥, | gi˩˥, | gi˩-ɳɯ˥, | sɯ˧pʰi˧-ɳɯ˧, | hæ˧ qɑ˧˥ | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩ sɯ˩~sɯ˩-dʑo˩
+			| tʰi˩˥, | hæ˧ | ɖɯ˧-ɲi˧-ʑi˩ | &lt;tʰi˧-…&gt; tʰi˧-dzi˩-dʑo˩, | ʈʂʰɯ˧-ɲi˥-ʑi˩-ɳɯ˩ |
+			kʰɤ˧ʂɯ˧, | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩ tv̩˩-dʑo˩ | tʰi˩˥, | no˧=ɻ̩˩ ɖɯ˩-pʰv̩˩ tv̩˩, | njɤ˧=ɻ̩˩
+			ɖɯ˩-pʰv̩˩ tv̩˩, | ʈʂʰɯ˧ne˧-ʝi˥ | tv̩˧-hĩ˧-lɑ˩-ɲi˩-ze˩-mæ˩! |</FORM>
 		<NOTE xml:lang="fr" message="vérifié: est bien /gi˩-ɳɯ˥/, non /gi˩˥ ◊ -ɳɯ˩/"/>
-		<NOTE xml:lang="fr" message="passage /ʈʂʰɯ˧-ɲi˥-ʑi˩-ɳɯ˩ | kʰɤ˧ʂɯ˧/: avait été omis lors de la première transcription."/>
+		<NOTE xml:lang="fr"
+			message="passage /ʈʂʰɯ˧-ɲi˥-ʑi˩-ɳɯ˩ | kʰɤ˧ʂɯ˧/: avait été omis lors de la première transcription."/>
 		<TRANSL xml:lang="fr">Alors, vrai de vrai, le seigneur, avec l'aide des Chinois, il a compris petit à petit; alors, quelques familles de Chinois se sont installés; et comme ils plantaient quelques parcelles [de riz], eh bien… en commençant par ces quelques familles-là, [ça s'est transmis de proche en proche:] vous, vous plantez une parcelle; nous; on plante une parcelle; c'est simplement comme ça qu'on plante (=que cette culture s'est répandue)!</TRANSL>
 	</S>
 	<S id="CaravansS163">
@@ -1054,43 +1115,53 @@
 	<S id="CaravansS164">
 		<AUDIO start="903.5186" end="905.9747"/>
 		<FORM>ɑ˩pʰo˩-hĩ˩-bv̩˥ | tɕɯ˧-le˧-po˧-tsʰɯ˧˥! | v̩˧lɑ˩-ʝi˩-hĩ˩-ɳɯ˩! |</FORM>
-		<TRANSL xml:lang="fr">C'étaient des gens de l'extérieur qui l'apportaient! Des marchands!</TRANSL>
+		<TRANSL xml:lang="fr">C'étaient des gens de l'extérieur qui l'apportaient! Des marchands! </TRANSL>
 	</S>
 	<S id="CaravansS165">
 		<AUDIO start="907.3468" end="915.8127"/>
-		<FORM>ʐwæ˧ tɕɯ˩-zo˩-ʈʂʰɯ˩-ɳɯ˩! | v̩˧lɑ˩ | le˧-ʝi˥, | ʐwæ˧-ʈʂʰɯ˧ | tʰi˩˥, | tʰo˩lo˧, | ɻ̩˧lo˩ | ʈʰææ̃˧˥… | ʐwæ˧-ʈʂʰɯ˧, | so˧-tsʰi˧, | ʐv̩˧-tsʰi˩, | ŋwɤ˧-tsʰi˩, | ʈʂʰɯ˧=ɻæ˧ tɕʰo˧~tɕʰo˥! |</FORM>
+		<FORM>ʐwæ˧ tɕɯ˩-zo˩-ʈʂʰɯ˩-ɳɯ˩! | v̩˧lɑ˩ | le˧-ʝi˥, | ʐwæ˧-ʈʂʰɯ˧ | tʰi˩˥, | tʰo˩lo˧, | ɻ̩˧lo˩
+			| ʈʰææ̃˧˥… | ʐwæ˧-ʈʂʰɯ˧, | so˧-tsʰi˧, | ʐv̩˧-tsʰi˩, | ŋwɤ˧-tsʰi˩, | ʈʂʰɯ˧=ɻæ˧
+			tɕʰo˧~tɕʰo˥! |</FORM>
 		<NOTE xml:lang="fr" message="de: /ʈʂʰɯ˧=ɻæ˥$/, réalisé proche de [ʈʰææ]"/>
-		<TRANSL xml:lang="fr">C'étaient les caravanes [qui apportaient le riz]! Ils faisaient du commerce. Les chevaux, le cheval de tête, le second cheval, pour de vrai… les chevaux, il y en avait trente, quarante, cinquante comme ça, qui se suivaient!</TRANSL>
+		<TRANSL xml:lang="fr">C'étaient les caravanes [qui apportaient le riz]! Ils faisaient du commerce. Les chevaux, le cheval de tête, le second cheval, pour de vrai… les chevaux, il y en avait trente, quarante, cinquante comme ça, qui se suivaient! </TRANSL>
 	</S>
 	<S id="CaravansS166">
 		<AUDIO start="916.1832" end="929.0123"/>
-		<FORM>ɬi˧di˩-di˩mi˩, | qʰæ˧tɕʰi˧-hĩ˧ | &lt;ɖɯ˧…&gt; ʐwæ˧ | ɖɯ˧-pæ˥; | njæ˧sɯ˩kv̩˩, | ə˧lɑ˧-ʁwɤ˧-hĩ˧ | ɖɯ˧-pæ˥! | gæ˧ɻæ˩-hĩ˩ | ɖɯ˧-pæ˥! | lɑ˧ŋwɤ˧-hĩ˧ | ɖɯ˧-pæ˥! | õ! əəə… ʈʂo˧ʂɯ˧-hĩ˧ | ɖɯ˧-pæ˥! |</FORM>
-		<NOTE xml:lang="fr" message="/gæ˧ɻæ˩-hĩ˩ | ɖɯ˧-pæ˥/: réalisé phonétiquement proche de: [gæ˧ɻæ˩-hĩ˩ ɖɯ˩-pæ˩] mais la locutrice juge que ce regroupement n'est pas bon, même en débit rapide; la forme phonologique est bien divisée en deux groupes."/>
+		<FORM>ɬi˧di˩-di˩mi˩, | qʰæ˧tɕʰi˧-hĩ˧ | &lt;ɖɯ˧…&gt; ʐwæ˧ | ɖɯ˧-pæ˥; | njæ˧sɯ˩kv̩˩, |
+			ə˧lɑ˧-ʁwɤ˧-hĩ˧ | ɖɯ˧-pæ˥! | gæ˧ɻæ˩-hĩ˩ | ɖɯ˧-pæ˥! | lɑ˧ŋwɤ˧-hĩ˧ | ɖɯ˧-pæ˥! | õ! əəə…
+			ʈʂo˧ʂɯ˧-hĩ˧ | ɖɯ˧-pæ˥! |</FORM>
+		<NOTE xml:lang="fr"
+			message="/gæ˧ɻæ˩-hĩ˩ | ɖɯ˧-pæ˥/: réalisé phonétiquement proche de: [gæ˧ɻæ˩-hĩ˩ ɖɯ˩-pæ˩] mais la locutrice juge que ce regroupement n'est pas bon, même en débit rapide; la forme phonologique est bien divisée en deux groupes."/>
 		<TRANSL xml:lang="fr">Dans la plaine de Yongning, il y avait une troupe [de chevaux] qui appartenait aux gens du village de qʰæ˧tɕʰi˧; une à nous, les gens de ə˧lɑ˧-ʁwɤ˧; une des gens du village de gæ˧ɻæ˩! une des gens de la montagne lɑ˧ŋwɤ˧! une des gens du village de ʈʂo˧ʂɯ˧!</TRANSL>
 	</S>
 	<S id="CaravansS167">
 		<AUDIO start="929.2730" end="935.7493"/>
-		<FORM>ə˧zɯ˩ | sɯ˧~sɯ˧-pi˧-dʑo˩, | ə˧zɯ˩ | ɖʐv̩˧ ɲi˩-pi˩, | ɖʐv̩˧… ɖʐv̩˧… | no˧-ɳɯ˧ njɤ˩ mv̩˩, | njɤ˧-ɳɯ˧ no˩ mv̩˩, | ɖɯ˧-pæ˥ | le˧-tɕʰo˥~tɕʰo˩-hɯ˩! |</FORM>
-		<TRANSL xml:lang="fr">Comme on se connaissait, comme on était amis, les amis… les amis… toi, tu me comprends; moi, je te comprends (=on se comprend bien); on partait ensemble, en une même troupe!</TRANSL>
+		<FORM>ə˧zɯ˩ | sɯ˧~sɯ˧-pi˧-dʑo˩, | ə˧zɯ˩ | ɖʐv̩˧ ɲi˩-pi˩, | ɖʐv̩˧… ɖʐv̩˧… | no˧-ɳɯ˧ njɤ˩
+			mv̩˩, | njɤ˧-ɳɯ˧ no˩ mv̩˩, | ɖɯ˧-pæ˥ | le˧-tɕʰo˥~tɕʰo˩-hɯ˩! |</FORM>
+		<TRANSL xml:lang="fr">Comme on se connaissait, comme on était amis, les amis… les amis… toi, tu me comprends; moi, je te comprends (=on se comprend bien); on partait ensemble, en une même troupe! </TRANSL>
 	</S>
 	<S id="CaravansS168">
 		<AUDIO start="935.8316" end="940.6340"/>
-		<FORM>ʐwæ˧-ʈʂʰɯ˧, | ʈʂʰɯ˧-qo˧-ɳɯ˧ | ɖɯ˧-kɤ˥~kɤ˩, | ɖɯ˧-kɤ˥~kɤ˩, | ʝi-lõ-ʁõ-lõ, ʝi-lõ-ʁõ-lõ pi˧, | kɤ˩-tjɤ˧ljɤ˧ | tʰi˧-ʈʂæ˧˥! |</FORM>
-		<TRANSL xml:lang="fr">Les chevaux, à partir d'ici, ils se suivaient, en une longue file: "gling, gling, gling!" On leur accrochait des clochettes pour le cou!</TRANSL>
+		<FORM>ʐwæ˧-ʈʂʰɯ˧, | ʈʂʰɯ˧-qo˧-ɳɯ˧ | ɖɯ˧-kɤ˥~kɤ˩, | ɖɯ˧-kɤ˥~kɤ˩, | ʝi-lõ-ʁõ-lõ,
+			ʝi-lõ-ʁõ-lõ pi˧, | kɤ˩-tjɤ˧ljɤ˧ | tʰi˧-ʈʂæ˧˥! |</FORM>
+		<TRANSL xml:lang="fr">Les chevaux, à partir d'ici, ils se suivaient, en une longue file: "gling, gling, gling!" On leur accrochait des clochettes pour le cou! </TRANSL>
 	</S>
 	<S id="CaravansS169">
 		<AUDIO start="941.1417" end="947.3984"/>
-		<FORM>əəə… ʂwɤ˧ljɤ˧-kwɤ˩ | tʰi˧-ʈʂæ˧˥! | si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, pi˧, | gõ-ndõ, gõ-ndõ, gõ-ndõ, pi˧! |</FORM>
+		<FORM>əəə… ʂwɤ˧ljɤ˧-kwɤ˩ | tʰi˧-ʈʂæ˧˥! | si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, pi˧, |
+			gõ-ndõ, gõ-ndõ, gõ-ndõ, pi˧! |</FORM>
 		<TRANSL xml:lang="fr">On leur accrochait des clochettes pour le poitrail, ding, ding, ding! [bruit des petites clochettes] Brroum, brroum, brroum! [bruit des grosses cloches; il y avait toutes sortes de cloches, dont de très grosses pour les mules, qui rendaient un son plus grave]</TRANSL>
 	</S>
 	<S id="CaravansS170">
 		<AUDIO start="947.3984" end="953.6963"/>
-		<FORM>njæ˧sɯ˩kv̩˩, | qo˩qɑ˩˥… | ɑ˩ʁo˧ dʑo˩ | pi˧-dʑo˩, | ɖʐɯ˧qo˩-ni˩-hĩ˩-ɳɯ˩-dʑo˩, | əəə… ʐwæ˧ | tʰi˧-se˥, | le˧-mv̩˥-kv̩˩-ze˩! |</FORM>
+		<FORM>njæ˧sɯ˩kv̩˩, | qo˩qɑ˩˥… | ɑ˩ʁo˧ dʑo˩ | pi˧-dʑo˩, | ɖʐɯ˧qo˩-ni˩-hĩ˩-ɳɯ˩-dʑo˩, | əəə…
+			ʐwæ˧ | tʰi˧-se˥, | le˧-mv̩˥-kv̩˩-ze˩! |</FORM>
 		<TRANSL xml:lang="fr">Nous autres, [dès qu'ils étaient parvenus] au col… les gens de la maisonnée, nous… à partir du moment où [la caravane à laquelle participaient des gens de la maison] s'apprêtait à entrer en ville, les chevaux en marche, on parvenait à reconnaître leur bruit particulier! (littéralement: "à les entendre")</TRANSL>
 	</S>
 	<S id="CaravansS171">
 		<AUDIO start="953.6963" end="957.3598"/>
-		<FORM>"o! le˧-ʝi˩-ze˩, | le˧-ʝi˩-ze˩! | o! tʰo˩lo˧-bv̩˧ | kɤ˩-tjɤ˧ljɤ˧ | tʰi˧-lɑ˧-ze˥!" | pi˧. |</FORM>
+		<FORM>"o! le˧-ʝi˩-ze˩, | le˧-ʝi˩-ze˩! | o! tʰo˩lo˧-bv̩˧ | kɤ˩-tjɤ˧ljɤ˧ | tʰi˧-lɑ˧-ze˥!" |
+			pi˧. |</FORM>
 		<TRANSL xml:lang="fr">Les chevaux en marche, on les entendait! On disait: "Ooh! Ils arrivent! Ils arrivent! Ooh! Il y a les cloches du cheval de tête qui sonnent!"</TRANSL>
 	</S>
 	<S id="CaravansS172">
@@ -1100,9 +1171,13 @@
 	</S>
 	<S id="CaravansS173">
 		<AUDIO start="959.0886" end="970.1889"/>
-		<FORM>tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥-se˩-dʑo˩, | njɤ˧ | ə˧v̩˧˥ | ʈʂʰɯ˧=ɻæ˥ | tʰi˩˥ | gi˩˥, | ʐwæ˧ | le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | tʰi˩˥, | ɖæ˩mi˧… | &lt;go˧…&gt; mmm… zo˩no˥… | sɯ˧pʰi˧-bv̩˧ | ʐwæ˧ | le˧-tɕɯ˧˥, | sɯ˧pʰi˧-hĩ˧-ɳɯ˩ | ʐwæ˧ le˧-tɕɯ˧˥, | ʐwæ˧ tɕɯ˩-po˩-kʰɯ˩! | tʰi˩˥… |</FORM>
-		<NOTE xml:lang="fr" message="/sɯ˧pʰi˧-hĩ˧-ɳɯ˩/: tons vérifiés; les gens du seigneur: /sɯ˧pʰi˧-hĩ˥$/"/>
-		<TRANSL xml:lang="fr">Alors, de la sorte, mon oncle, ces choses-là… il conduisait les chevaux, encore et encore; au monastère de ɖæ˩mi˧… eh bien… on conduisait les caravanes du seigneur; les gens du seigneur conduisaient les caravanes, on les envoyait conduire les chevaux!</TRANSL>
+		<FORM>tʰi˩˥, | ʈʂʰɯ˧ne˧ ʝi˥-se˩-dʑo˩, | njɤ˧ | ə˧v̩˧˥ | ʈʂʰɯ˧=ɻæ˥ | tʰi˩˥ | gi˩˥, | ʐwæ˧ |
+			le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | le˧-tɕɯ˧˥, | tʰi˩˥, | ɖæ˩mi˧… | &lt;go˧…&gt;
+			mmm… zo˩no˥… | sɯ˧pʰi˧-bv̩˧ | ʐwæ˧ | le˧-tɕɯ˧˥, | sɯ˧pʰi˧-hĩ˧-ɳɯ˩ | ʐwæ˧ le˧-tɕɯ˧˥,
+			| ʐwæ˧ tɕɯ˩-po˩-kʰɯ˩! | tʰi˩˥… |</FORM>
+		<NOTE xml:lang="fr"
+			message="/sɯ˧pʰi˧-hĩ˧-ɳɯ˩/: tons vérifiés; les gens du seigneur: /sɯ˧pʰi˧-hĩ˥$/"/>
+		<TRANSL xml:lang="fr">Alors, de la sorte, mon oncle, ces choses-là… il conduisait les chevaux, encore et encore; au monastère de ɖæ˩mi˧… eh bien… on conduisait les caravanes du seigneur; les gens du seigneur conduisaient les caravanes, on les envoyait conduire les chevaux! </TRANSL>
 	</S>
 	<S id="CaravansS174">
 		<AUDIO start="970.1889" end="972.9194"/>
@@ -1111,36 +1186,42 @@
 	</S>
 	<S id="CaravansS175">
 		<AUDIO start="973.2350" end="977.2003"/>
-		<FORM>gi˩˥, | sɯ˧pʰi˧ | ʐwæ˧ mɤ˧-tɕɯ˧˥, | õ˧˥ | v̩˧lɑ˩ | le˧-ʝi˥, | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩ ɖɯ˩, | õ˧˥ | dɑ˧ʝi˩ | le˧-hwæ˧! |</FORM>
-		<TRANSL xml:lang="fr">En vérité, ne pas conduire les chevaux du seigneur (=ne pas travailler pour le seigneur, mais se mettre à son compte), faire son propre commerce, obtenir [des bénéfices] petit à petit, acheter sa propre mule…</TRANSL>
+		<FORM>gi˩˥, | sɯ˧pʰi˧ | ʐwæ˧ mɤ˧-tɕɯ˧˥, | õ˧˥ | v̩˧lɑ˩ | le˧-ʝi˥, | ɖɯ˧-kʰwɤ˥~ɖɯ˩-kʰwɤ˩
+			ɖɯ˩, | õ˧˥ | dɑ˧ʝi˩ | le˧-hwæ˧! |</FORM>
+		<TRANSL xml:lang="fr">En vérité, ne pas conduire les chevaux du seigneur (=ne pas travailler pour le seigneur, mais se mettre à son compte), faire son propre commerce, obtenir [des bénéfices] petit à petit, acheter sa propre mule… </TRANSL>
 	</S>
 	<S id="CaravansS176">
 		<AUDIO start="977.7217" end="987.0794"/>
-		<FORM>dɑ˧ʝi˩… | tʰo˩lo˧ | ɖɯ˧-v̩˧, | ɻ̩˩ɻ̩˧lo˩ | ɖɯ˧-v̩˧, | ʐwæ˧ʁo˩ | ɖɯ˧-v̩˧… | hhh… əəə… wɤ˩˥, | dɑ˧ʝi˩ | ɖɯ˧-v̩˧, | qʰv̩˧-kv̩˧ dʑo˧˥ ◊ -ɲi˩, | njɤ˧=ɻ̩˩, | ɑ˩ʁo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+		<FORM>dɑ˧ʝi˩… | tʰo˩lo˧ | ɖɯ˧-v̩˧, | ɻ̩˩ɻ̩˧lo˩ | ɖɯ˧-v̩˧, | ʐwæ˧ʁo˩ | ɖɯ˧-v̩˧… | hhh…
+			əəə… wɤ˩˥, | dɑ˧ʝi˩ | ɖɯ˧-v̩˧, | qʰv̩˧-kv̩˧ dʑo˧˥ ◊ -ɲi˩, | njɤ˧=ɻ̩˩, | ɑ˩ʁo˧, |
+			ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 		<TRANSL xml:lang="fr">Les mules, [il y en avait] une pour marcher en tête, une pour marcher en second… un cheval, et euh… encore une mule! On en avait sept, nous, à la maison, autrefois!</TRANSL>
 	</S>
 	<S id="CaravansS177">
 		<AUDIO start="987.6145" end="989.8099"/>
-		<FORM>qʰv̩˧-kv̩˧-hĩ˧-tʰv̩˧, | tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ | ɖɯ˩-hĩ˩˥ | no˧˥ | le˧-tɕɯ˧˥, |</FORM>
-		<NOTE xml:lang="fr" message="/no˧˥/: est le topicalisateur: intéressant: n'entre pas dans le même groupe tonal que le nom."/>
+		<FORM>qʰv̩˧-kv̩˧-hĩ˧-tʰv̩˧, | tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ | ɖɯ˩-hĩ˩˥ | no˧˥ | le˧-tɕɯ˧˥,
+			|</FORM>
+		<NOTE xml:lang="fr"
+			message="/no˧˥/: est le topicalisateur: intéressant: n'entre pas dans le même groupe tonal que le nom."/>
 		<TRANSL xml:lang="fr">Ces sept-là, c'était mon oncle aîné (=frère aîné de la mère) qui les conduisait!</TRANSL>
 	</S>
 	<S id="CaravansS178">
 		<AUDIO start="990.5234" end="997.6995"/>
 		<FORM>mmm… tʰi˩˥, | ə˧v̩˧˥ | tɕi˩-hĩ˩˥ | tʰi˧-qɑ˧˥; | le˧-tɕɯ˧˥ | hɯ˧-dʑo˥ | tʰi˩˥, | ʐɤ˩mi˩-qo˥, | ʈʂʰɯ˧-qo˧ | kʰv̩˧mæ˧-ɳɯ˧ | tsʰɤ˧˥, | ʈʂʰɯ˧sɯ˩kv̩˩ | tsʰɤ˧-mɤ˧-ʁo˧-ɲi˥! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡le˧-tɕi˥-hɯ˩-dʑo˩/; en fait: est le verbe /tɕɯ˧˥/; ressemble beaucoup phonétiquement à une séquence M.H.L.L."/>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡le˧-tɕi˥-hɯ˩-dʑo˩/; en fait: est le verbe /tɕɯ˧˥/; ressemble beaucoup phonétiquement à une séquence M.H.L.L."/>
 		<TRANSL xml:lang="fr">mon oncle cadet l'aidait; quand ils étaient partis en caravane, sur le chemin, [ils savaient qu']à cet endroit, on se faisait attaquer par des brigands / cet endroit, il était menacé par des brigands; ainsi, ils ne se faisaient pas attaquer/ ils déjouaient les brigands! [Note: les brigands connaissaient les caravaniers; ils choisissaient à qui ils s'attaquaient; certains caravaniers qui entretenaient de bonnes relations avec les chefs des brigands --désignés eux aussi comme 'chefs': /kʰv̩˧mæ˧-ʁo˧mi˧/, ton M-- étaient épargnés; des brigands qui s'en seraient pris à eux auraient eu affaire à leurs chefs.]</TRANSL>
 	</S>
 	<S id="CaravansS179">
 		<AUDIO start="997.8641" end="1001.6374"/>
 		<FORM>njɤ˧ | ə˧v̩˧˥ | tɕi˩-hĩ˩˥ | ɖɯ˧-pi˧˥ | hɤ˩˥! | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ʐwæ˧ tɕɯ˩-zo˩, | kʰv̩˧mæ˧-ɳɯ˧ | tsʰɤ˧-lɑ˥-ɲi˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
 		<NOTE xml:lang="fr" message="d'abord noté /‡kʰv̩˧mæ˧-ɳɯ˩"/>
-		<TRANSL xml:lang="fr">Mon oncle cadet, il était assez habile! Autrefois, les caravaniers, ils se faisaient dévaliser par les bandits, n'est-ce pas!</TRANSL>
+		<TRANSL xml:lang="fr">Mon oncle cadet, il était assez habile! Autrefois, les caravaniers, ils se faisaient dévaliser par les bandits, n'est-ce pas! </TRANSL>
 	</S>
 	<S id="CaravansS180">
 		<AUDIO start="1002.2274" end="1006.6044"/>
 		<FORM>le˧-tɕɯ˩~tɕɯ˩ | le˧-po˧-tsʰɯ˧˥, | ɑ˩ʁo˧ tʰv̩˧-ho˩, | gi˧dʑɯ˧ kʰi˧ | tʰi˩˥, | jo˧gv̩˧-ŋv̩˧ɭɯ˧-ʈʰæ˧qo˩ tʰv̩˩-dʑo˩, |</FORM>
-		<TRANSL xml:lang="fr">Quand on ramenait [les marchandises] en caravane, qu'on allait arriver à la maison, quand on passait le Yangtze, qu'on parvenait au pied du Glacier de Lijiang (=la montagne Yulong),</TRANSL>
+		<TRANSL xml:lang="fr">Quand on ramenait [les marchandises] en caravane, qu'on allait arriver à la maison, quand on passait le Yangtze, qu'on parvenait au pied du Glacier de Lijiang (=la montagne Yulong), </TRANSL>
 	</S>
 	<S id="CaravansS181">
 		<AUDIO start="1006.9886" end="1008.4705"/>
@@ -1149,8 +1230,10 @@
 	</S>
 	<S id="CaravansS182">
 		<AUDIO start="1008.6900" end="1016.6345"/>
-		<FORM>ʐwæ˧ F | kv̩˧ɲi˥ | le˧-tsʰɯ˩-ɲi˩ wɤ˩! | ʝi˧kʰv̩˥, | ʐwæ˧ le˧-ʈʂæ˧-po˥-hɯ˩! | õ! hĩ˧ F | le˧-ti˩! | ʈʂʰɯ˧ne˧ ʝi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="Exemple particulièrement net du phénomène étiqueté comme 'focalisation', F, après /ʐwæ˧/, et après /hĩ˧/"/>
+		<FORM>ʐwæ˧ F | kv̩˧ɲi˥ | le˧-tsʰɯ˩-ɲi˩ wɤ˩! | ʝi˧kʰv̩˥, | ʐwæ˧ le˧-ʈʂæ˧-po˥-hɯ˩! | õ! hĩ˧
+			F | le˧-ti˩! | ʈʂʰɯ˧ne˧ ʝi˥-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr"
+			message="Exemple particulièrement net du phénomène étiqueté comme 'focalisation', F, après /ʐwæ˧/, et après /hĩ˧/"/>
 		<NOTE xml:lang="fr" message="kv̩˧ɲi˥: bredouille, sans rien"/>
 		<TRANSL xml:lang="fr">Le cheval revenait à vide! (=Les brigands volaient toutes les marchandises, et laissaient souvent repartir les chevaux; il était plus difficile de faire du recel et de la revente de chevaux, plus difficiles à cacher, tandis que les marchandises pouvaient aisément être dissimulées, l'argent enfoui…)</TRANSL>
 	</S>
@@ -1169,7 +1252,7 @@
 	<S id="CaravansS185">
 		<AUDIO start="1027.2545" end="1030.1496"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | li˩læ˩˥ ◊ -dʑo˩, | lo˧gv̩˩-pi˩-kv̩˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
-		<TRANSL xml:lang="fr">Autrefois, Ninglang, on l'appelait lo˧gv̩˩, n'est-ce pas!</TRANSL>
+		<TRANSL xml:lang="fr">Autrefois, Ninglang, on l'appelait lo˧gv̩˩, n'est-ce pas! </TRANSL>
 	</S>
 	<S id="CaravansS186">
 		<AUDIO start="1030.1770" end="1032.6468"/>
@@ -1179,32 +1262,41 @@
 	</S>
 	<S id="CaravansS187">
 		<AUDIO start="1032.6468" end="1038.3986"/>
-		<FORM>ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | ʁɑ˧ʂe˩-zo˩ | ŋwɤ˩-kv̩˩˥! | njɤ˧-bv̩˩ ŋwɤ˩-kv̩˩! | ʐwæ˧ | tsʰe˩-kv̩˩-hĩ˥-ʈʂʰɯ˩, | kʰv̩˧mæ˧-ɳɯ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʈʂæ˧-po˥-hɯ˩-ɲi˩! |</FORM>
-		<NOTE xml:lang="fr" message="/kʰv̩˧mæ˧-ɳɯ˧/: forme réduite de /ɳɯ/, il n'en reste guère qu'un [ɳ]"/>
-		<NOTE xml:lang="fr" message="vérifié: il n'y a pas de syllabe finale après /le˧-ʈʂæ˧-po˥-hɯ˩-ɲi˩/"/>
-		<NOTE xml:lang="fr" message="Un passage de 1,005 seconde a été supprimé de l'enregistrement, correspondant au milieu de cette phrase: /hĩ˥-ʈʂʰɯ˩, | &lt;NOM_DE_PEUPLE&gt;-ɳɯ˧, | kʰv̩˧mæ˧-ɳɯ˧ |/ Y était nommé un des peuples de la région, dont le nom était ici utilisé comme synonyme de 'bandit'. La locutrice s'est immédiatement reprise et a remplacé ce nom propre par le nom commun 'bandits'. Cette coupe était absolument impérative dans le contexte de l'enquête. Le fichier original n'a pas été conservé intact, accédant ainsi à une requête de la locutrice jugée légitime par l'enquêteur. Cette demande est une des multiples composantes de l'auto-censure pratiquée en présence du micro, et dont l'influence est sensible sur tous les enregistrements. La prudence amène à éviter les propos dont il paraît évident qu'ils seraient perçus comme désobligeants/outrageux, dans un contexte où la question des 'ethnies' est extrêmement sensible. Au plan linguistique, il est évidemment gênant de retrancher une portion du signal, d'où la présente note. Mais après mûre observation de ce passage, il n'y a pas de raison solide de penser que la structure de l'énoncé, intonation comprise, soit affectée par cette retouche, et que le signal modifié soit susceptible de susciter de fausses hypothèses au sujet de la langue/fausser telle ou telle analyse qui s'appuierait dessus."/>
+		<FORM>ʈʂʰɯ˧-ʑi˧=ɻ̩˧-ɳɯ˥, | ʁɑ˧ʂe˩-zo˩ | ŋwɤ˩-kv̩˩˥! | njɤ˧-bv̩˩ ŋwɤ˩-kv̩˩! | ʐwæ˧ |
+			tsʰe˩-kv̩˩-hĩ˥-ʈʂʰɯ˩, | kʰv̩˧mæ˧-ɳɯ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʈʂæ˧-po˥-hɯ˩-ɲi˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="/kʰv̩˧mæ˧-ɳɯ˧/: forme réduite de /ɳɯ/, il n'en reste guère qu'un [ɳ]"/>
+		<NOTE xml:lang="fr"
+			message="vérifié: il n'y a pas de syllabe finale après /le˧-ʈʂæ˧-po˥-hɯ˩-ɲi˩/"/>
+		<NOTE xml:lang="fr"
+			message="Un passage de 1,005 seconde a été supprimé de l'enregistrement, correspondant au milieu de cette phrase: /hĩ˥-ʈʂʰɯ˩, | &lt;NOM_DE_PEUPLE&gt;-ɳɯ˧, | kʰv̩˧mæ˧-ɳɯ˧ |/ Y était nommé un des peuples de la région, dont le nom était ici utilisé comme synonyme de 'bandit'. La locutrice s'est immédiatement reprise et a remplacé ce nom propre par le nom commun 'bandits'. Cette coupe était absolument impérative dans le contexte de l'enquête. Le fichier original n'a pas été conservé intact, accédant ainsi à une requête de la locutrice jugée légitime par l'enquêteur. Cette demande est une des multiples composantes de l'auto-censure pratiquée en présence du micro, et dont l'influence est sensible sur tous les enregistrements. La prudence amène à éviter les propos dont il paraît évident qu'ils seraient perçus comme désobligeants/outrageux, dans un contexte où la question des 'ethnies' est extrêmement sensible. Au plan linguistique, il est évidemment gênant de retrancher une portion du signal, d'où la présente note. Mais après mûre observation de ce passage, il n'y a pas de raison solide de penser que la structure de l'énoncé, intonation comprise, soit affectée par cette retouche, et que le signal modifié soit susceptible de susciter de fausses hypothèses au sujet de la langue/fausser telle ou telle analyse qui s'appuierait dessus."/>
 		<TRANSL xml:lang="fr">Cette famille, ils avaient pris cinq employés/engagé cinq hommes! Cinq de la famille Latami! et dix chevaux; eh bien, les brigands, ils ont volé le tout!</TRANSL>
 	</S>
 	<S id="CaravansS188">
 		<AUDIO start="1040.0232" end="1043.7333"/>
-		<FORM>ʝi˧-bi˧-di˧ mɤ˧-di˥! | njɤ˧ | ə˧v̩˧˥ | ɖɯ˧-v̩˧-hĩ˧-ʈʂʰɯ˧, | dʑi˧hṽ̩˥ | ɖɯ˧-tɑ˧˥ | le˧-pʰv̩˧-po˧-hɯ˧-ɲi˥! |</FORM>
+		<FORM>ʝi˧-bi˧-di˧ mɤ˧-di˥! | njɤ˧ | ə˧v̩˧˥ | ɖɯ˧-v̩˧-hĩ˧-ʈʂʰɯ˧, | dʑi˧hṽ̩˥ | ɖɯ˧-tɑ˧˥ |
+			le˧-pʰv̩˧-po˧-hɯ˧-ɲi˥! |</FORM>
 		<TRANSL xml:lang="fr">On n'y pouvait rien/il n'y avait rien à faire! Mon oncle, ils lui ont enlevé tous ses vêtements, et ils sont partis avec! (datation approximative des événements: la locutrice avait déjà dix ans; elle s'en souvient car son oncle lui avait promis de petites babioles en argent, et la nièce triste et déçue se souvient de son retour sans fanfare)</TRANSL>
 	</S>
 	<S id="CaravansS189">
 		<AUDIO start="1043.9857" end="1048.2228"/>
 		<FORM>hhhh! ə˧mi˧! | le˧-ɖwæ˩! | njɤ˧ | ə˧ʑi˧˥ | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩: |</FORM>
-		<TRANSL xml:lang="fr">Houlà! Ca nous flanquait une belle frousse! Voici ce que disait ma grand-mère:</TRANSL>
+		<TRANSL xml:lang="fr">Houlà! Ca nous flanquait une belle frousse! Voici ce que disait ma grand-mère: </TRANSL>
 	</S>
 	<S id="CaravansS190">
 		<AUDIO start="1048.2228" end="1052.2952"/>
-		<FORM>"ɖʐe˧ se˩, | tʰi˧-se˩-kʰɯ˩! | njɤ˧ | zo˧ &lt;se˥-ze˩&gt; [tʰi˧-se˥-ʝi˩], | njɤ˧ | zo˧ | dʑɤ˩˥ | mɤ˧-do˧-ze˥!" | pi˧-zo˩. |</FORM>
-		<NOTE xml:lang="fr" message="entends /‡njɤ˧ zo˧ se˥-ze˩/, mais la locutrice tient à corriger en: /tʰi˧-se˥-ʝi˩/."/>
+		<FORM>"ɖʐe˧ se˩, | tʰi˧-se˩-kʰɯ˩! | njɤ˧ | zo˧ &lt;se˥-ze˩&gt; [tʰi˧-se˥-ʝi˩], | njɤ˧ | zo˧
+			| dʑɤ˩˥ | mɤ˧-do˧-ze˥!" | pi˧-zo˩. |</FORM>
+		<NOTE xml:lang="fr"
+			message="entends /‡njɤ˧ zo˧ se˥-ze˩/, mais la locutrice tient à corriger en: /tʰi˧-se˥-ʝi˩/."/>
 		<TRANSL xml:lang="fr">"S'il n'y a plus d'argent, eh bien qu'il n'y en ait plus/ qu'il s'épuise[, ça n'est pas grave]! Si mes fils s'en vont, je ne les verrai plus!"</TRANSL>
 	</S>
 	<S id="CaravansS191">
 		<AUDIO start="1052.2952" end="1056.6420"/>
-		<FORM>ʁwɤ˧-qo˧-hĩ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥-ʂe˩ | ʂe˧-hɯ˧-dʑo˧, | hæ̃˧qʰv̩˥-dʑo˩ | tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
-		<NOTE xml:lang="fr" message="réalisé proche de: [ə˧v̩˧ le˥-tsʰɯ˩…] mais c'est un phénomène phonétique, non phonologique; en débit un peu plus lent il est impossible de prononcer ainsi; le H de /ə˧v̩˧˥/ ne peut s'attacher à la syllabe suivante."/>
+		<FORM>ʁwɤ˧-qo˧-hĩ˧ | ɖɯ˧-tɑ˧˥ | le˧-ʁɑ˥-ʂe˩ | ʂe˧-hɯ˧-dʑo˧, | hæ̃˧qʰv̩˥-dʑo˩ | tʰi˩˥, |
+			njɤ˧ | ə˧v̩˧˥ | le˧-tsʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩. |</FORM>
+		<NOTE xml:lang="fr"
+			message="réalisé proche de: [ə˧v̩˧ le˥-tsʰɯ˩…] mais c'est un phénomène phonétique, non phonologique; en débit un peu plus lent il est impossible de prononcer ainsi; le H de /ə˧v̩˧˥/ ne peut s'attacher à la syllabe suivante."/>
 		<TRANSL xml:lang="fr">On a rassemblé tous les gens du village pour aller le chercher; à la nuit, mon oncle est revenu!</TRANSL>
 	</S>
 	<S id="CaravansS192">
@@ -1221,7 +1313,8 @@
 	</S>
 	<S id="CaravansS194">
 		<AUDIO start="1060.5057" end="1062.9645"/>
-		<FORM>hĩ˧-ɳɯ˩ | ɖɯ˧-tɑ˧˥ | le˧-ɣɯ˩ʂɯ˩-po˩-hɯ˩! | ʐwæ˧-lɑ˩ | ɖɯ˧-tɑ˧˥ | le˧-di˧-po˥-hɯ˩! |</FORM>
+		<FORM>hĩ˧-ɳɯ˩ | ɖɯ˧-tɑ˧˥ | le˧-ɣɯ˩ʂɯ˩-po˩-hɯ˩! | ʐwæ˧-lɑ˩ | ɖɯ˧-tɑ˧˥ | le˧-di˧-po˥-hɯ˩!
+			|</FORM>
 		<TRANSL xml:lang="fr">Ils avaient complètement épluché les gens, et ils avaient emporté leurs vêtements! Ils avaient aussi emmené tous les chevaux!</TRANSL>
 	</S>
 	<S id="CaravansS195">
@@ -1231,22 +1324,26 @@
 	</S>
 	<S id="CaravansS196">
 		<AUDIO start="1064.9732" end="1069.5725"/>
-		<FORM>tʰi˩˥, | "mɤ˧-ɖwæ˩! | mɤ˧-ɖwæ˩!" | njɤ˧ | ə˧v̩˧˥ | ɖɯ˩-hĩ˩-ɳɯ˥. | "wɤ˩˥, | ə˧tso˧ ɖwæ˩-tso˩ dʑo˩? | njɤ˧-ɳɯ˧ | wɤ˩˥ | hwæ˧-bi˧!" | pi˧. |</FORM>
+		<FORM>tʰi˩˥, | "mɤ˧-ɖwæ˩! | mɤ˧-ɖwæ˩!" | njɤ˧ | ə˧v̩˧˥ | ɖɯ˩-hĩ˩-ɳɯ˥. | "wɤ˩˥, | ə˧tso˧
+			ɖwæ˩-tso˩ dʑo˩? | njɤ˧-ɳɯ˧ | wɤ˩˥ | hwæ˧-bi˧!" | pi˧. |</FORM>
 		<TRANSL xml:lang="fr">"N'ayez crainte, n'ayez crainte!" a dit l'aîné des oncles. "De quoi on devrait avoir peur? (littéralement "Quel sujet de peur y a-t-il [donc]?") Moi, je vais racheter [autant de choses que tout ce qui a été perdu]!" [L'oncle ainsi dépouillé avait emmené, parmi les marchandises de la caravane, certaines qui appartenaient à la famille, et la famille était donc attristée de cette perte.]</TRANSL>
 	</S>
 	<S id="CaravansS197">
 		<AUDIO start="1069.5725" end="1075.1597"/>
-		<FORM>wɤ˩˥ | le˧-hwæ˧, | gi˩˥ | le˧-tɕɯ˧˥! | õ! õ˧-ʈʂʰɯ˧ne˧ ʝi˥ | dʑo˩ | tʰi˩˥, | zo˩no˥… |</FORM>
+		<FORM>wɤ˩˥ | le˧-hwæ˧, | gi˩˥ | le˧-tɕɯ˧˥! | õ! õ˧-ʈʂʰɯ˧ne˧ ʝi˥ | dʑo˩ | tʰi˩˥, |
+			zo˩no˥… |</FORM>
 		<TRANSL xml:lang="fr">Et ensuite, il a acheté des choses, et vrai de vrai, il les a emmenée [en caravane]! Comme il avait procédé ainsi, eh bien…</TRANSL>
 	</S>
 	<S id="CaravansS198">
 		<AUDIO start="1075.5548" end="1078.5405"/>
-		<FORM>njɤ˧-ɳɯ˧ tʰi˧-ʂv̩˧ɖv̩˧… ə˧ti˥dzi˩-pi˩-hĩ˩, | zo˩qo˧ ɲi˩, | mɤ˧-do˩! | njɤ˧ | mɤ˧-sɯ˥! |</FORM>
+		<FORM>njɤ˧-ɳɯ˧ tʰi˧-ʂv̩˧ɖv̩˧… ə˧ti˥dzi˩-pi˩-hĩ˩, | zo˩qo˧ ɲi˩, | mɤ˧-do˩! | njɤ˧ |
+			mɤ˧-sɯ˥! |</FORM>
 		<TRANSL xml:lang="fr">Je réfléchis… ə˧ti˥dzi˩, c'était où, va savoir! Moi, je ne sais pas!</TRANSL>
 	</S>
 	<S id="CaravansS199">
 		<AUDIO start="1079.8358" end="1083.7215"/>
-		<FORM>mmm… ə˧ti˥dzi˩, | ə˧ti˥dzi˩ hɯ˩-dʑo˩, | gi˧dʑɯ˧ kʰi˧ le˧-jo˥-kv̩˩-tsɯ˩-mɤ˩-tsɯ˩? |</FORM>
+		<FORM>mmm… ə˧ti˥dzi˩, | ə˧ti˥dzi˩ hɯ˩-dʑo˩, | gi˧dʑɯ˧ kʰi˧ le˧-jo˥-kv̩˩-tsɯ˩-mɤ˩-tsɯ˩?
+			|</FORM>
 		<TRANSL xml:lang="fr">ə˧ti˥dzi˩… quand on allait à ə˧ti˥dzi˩, est-ce qu'on ne revenait pas par le Yangtze?</TRANSL>
 	</S>
 	<S id="CaravansS200" who="investigator">
@@ -1259,18 +1356,21 @@
 		<FORM>ĩ˧, | ə˧ti˥dzi˩! | zo˩no˥, | po˧ʂæ˧-pi˧-hĩ˧ | ɖɯ˧-ʝi˧ ɲi˩-ə˩-di˩-wɤ˩? |</FORM>
 		<NOTE xml:lang="fr" message="po˧ʂæ˧: 宝山"/>
 		<NOTE xml:lang="fr" message="avais d'abord négligé de noter le /-wɤ˩/."/>
-		<NOTE xml:lang="fr" message="forme complète: /ɲi˩-ə˩-di˥/; on pourrait l'employer ici: /ɖɯ˧-ʝi˧ | ɲi˩-ə˩-di˥/."/>
+		<NOTE xml:lang="fr"
+			message="forme complète: /ɲi˩-ə˩-di˥/; on pourrait l'employer ici: /ɖɯ˧-ʝi˧ | ɲi˩-ə˩-di˥/."/>
 		<TRANSL xml:lang="fr">Oui, ə˧ti˥dzi˩! Alors, est-ce que ce serait l'endroit qu'on appelle "Baoshan"?</TRANSL>
 	</S>
 	<S id="CaravansS202">
 		<AUDIO start="1089.3745" end="1094.6873"/>
-		<FORM>po˧ʂæ˧-lɑ˧… | zo˩no˥ | ʐwɤ˩˥ ◊ -dʑo˩, | po˧ʂæ˧-lɑ˧ | fv̩˩ko˩˥ | ʈʂʰɯ˧=ɻæ˥ | ʐwɤ˩˥ | -dʑo˩! | hæ˧-ʐwɤ˩-dʑo˩! |</FORM>
+		<FORM>po˧ʂæ˧-lɑ˧… | zo˩no˥ | ʐwɤ˩˥ ◊ -dʑo˩, | po˧ʂæ˧-lɑ˧ | fv̩˩ko˩˥ | ʈʂʰɯ˧=ɻæ˥ | ʐwɤ˩˥ |
+			-dʑo˩! | hæ˧-ʐwɤ˩-dʑo˩! |</FORM>
 		<NOTE xml:lang="fr" message="/ʈʂʰɯ˧=ɻæ˥$/: fortement coarticulé, ressemble à [ʈʂʰææ˧˥]"/>
 		<TRANSL xml:lang="fr">Baoshan et… pour employer les mots d'aujourd'hui, on parle de "Baoshan" et "Fengke", de ces choses-là! en chinois!</TRANSL>
 	</S>
 	<S id="CaravansS203">
 		<AUDIO start="1095.3788" end="1099.4183"/>
-		<FORM>õ! ə˧ti˥dzi˩ | pi˧-hĩ˧ | tʰv̩˧-qo˧-dʑo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩, | v̩˧lɑ˩-ʝi˩, | qʰɑ˩ne˩˥ | dʑɤ˩-kv̩˧˥ ◊ -mv̩˩!</FORM>
+		<FORM>õ! ə˧ti˥dzi˩ | pi˧-hĩ˧ | tʰv̩˧-qo˧-dʑo˧, | ə˧ʝi˧-ʂɯ˥ʝi˩, | v̩˧lɑ˩-ʝi˩, | qʰɑ˩ne˩˥ |
+			dʑɤ˩-kv̩˧˥ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="tons de /dʑɤ˩-kv̩˧˥ ◊ -mv̩˩/ corrigés en août 2012: auparavant noté /‡dʑɤ˩-kv̩˩˥/"/>
 		<NOTE xml:lang="fr" message="tons de /tʰv̩˧-qo˧-dʑo˧/ vérifiés"/>
 		<NOTE xml:lang="fr" message="d'après M18, il s'agirait d'une région au nord de Zhongdian"/>
@@ -1278,8 +1378,10 @@
 	</S>
 	<S id="CaravansS204">
 		<AUDIO start="1100.6916" end="1107.9472"/>
-		<FORM>ə˧ti˧-bɑ˧lɑ˥ | pi˧-zo˩, | bɑ˩lɑ˩˥, | hṽ̩… | ʂe˧ʈʂe˩ | ʈʂʰɯ˧-ʁo˥, ◊ ə˩-gi˩! | ɖɯ˧-tsʰi˥~ɖɯ˩-tsʰi˩, | ɖɯ˧-tsʰi˥~ɖɯ˩-tsʰi˩-hĩ˩-tʰv̩˩, | qʰɑ˩ne˩˥ | le˧-tɕɯ˧-le˥-po˩-jo˩-kv̩˩! |</FORM>
-		<TRANSL xml:lang="fr">On parlait des "vêtements de ə˧ti˥dzi˩"! Les vêtements… c'était en tissu de coton, n'est-ce pas! Pièce après pièce, pièce après pièce, qu'est-ce qu'ils en ramenaient! / on en ramenait de grandes quantités!</TRANSL>
+		<FORM>ə˧ti˧-bɑ˧lɑ˥ | pi˧-zo˩, | bɑ˩lɑ˩˥, | hṽ̩… | ʂe˧ʈʂe˩ | ʈʂʰɯ˧-ʁo˥, ◊ ə˩-gi˩! |
+			ɖɯ˧-tsʰi˥~ɖɯ˩-tsʰi˩, | ɖɯ˧-tsʰi˥~ɖɯ˩-tsʰi˩-hĩ˩-tʰv̩˩, | qʰɑ˩ne˩˥ |
+			le˧-tɕɯ˧-le˥-po˩-jo˩-kv̩˩! |</FORM>
+		<TRANSL xml:lang="fr">On parlait des "vêtements de ə˧ti˥dzi˩"! Les vêtements… c'était en tissu de coton, n'est-ce pas! Pièce après pièce, pièce après pièce, qu'est-ce qu'ils en ramenaient! / on en ramenait de grandes quantités! </TRANSL>
 	</S>
 	<S id="CaravansS205">
 		<AUDIO start="1108.3863" end="1112.7660"/>
@@ -1291,32 +1393,38 @@
 		<AUDIO start="1112.9745" end="1119.2752"/>
 		<FORM>ə˧ti˧-dʑɯ˩ki˩, | pi˧-zo˩, | dʑɯ˧ki˥ | ɖɯ˧-kʰɯ˩-ɳɯ˩, | lo˩jɤ˧ | ɖɯ˧-pʰæ˧-lɑ˥ ɲi˩ | tʰi˩˥, | ŋv̩˧, | ə˧ʝi˧-ʂɯ˥ʝi˩-bv̩˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-pʰæ˧˥! |</FORM>
 		<NOTE xml:lang="fr" message="ɖɯ˧-pʰæ˧˥: CL des pièces"/>
-		<NOTE xml:lang="fr" message="Dans /lo˩jɤ˧ ɖɯ˧-pʰæ˧-lɑ˥ ɲi˩/, l'adverbe /-lɑ/ 'seulement' ici n'implique pas que ce soit bon marché, mais indique que cela valait précisément cette somme. Paraphrase: c'était ça le prix, un point c'est tout."/>
+		<NOTE xml:lang="fr"
+			message="Dans /lo˩jɤ˧ ɖɯ˧-pʰæ˧-lɑ˥ ɲi˩/, l'adverbe /-lɑ/ 'seulement' ici n'implique pas que ce soit bon marché, mais indique que cela valait précisément cette somme. Paraphrase: c'était ça le prix, un point c'est tout."/>
 		<TRANSL xml:lang="fr">[Il y avait aussi] les ceintures de ə˧ti˥dzi˩; une ceinture, ça se vendait un yuan! Une pièce d'argent, d'autrefois!</TRANSL>
 	</S>
 	<S id="CaravansS207">
 		<AUDIO start="1120.6802" end="1124.4013"/>
-		<FORM>tʰi˩˥, | no˧˥, | qʰɑ˩jɤ˩˥ | kwæ˧tɕʰæ˩-ɲi˩! | əəə… pʰv̩˧ɖɯ˧˥ ◊ -ɲi˩, ◊ ə˩-gi˩! | ɖɯ˧-pʰæ˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="/kwæ˧tɕʰæ˩/: serait du chinois local, pour dire 'précieux, qui a de la valeur'; la seconde syllabe paraît être 钱, 'argent'; en mandarin standard on dirait 值钱 'qui a de la valeur'."/>
+		<FORM>tʰi˩˥, | no˧˥, | qʰɑ˩jɤ˩˥ | kwæ˧tɕʰæ˩-ɲi˩! | əəə… pʰv̩˧ɖɯ˧˥ ◊ -ɲi˩, ◊ ə˩-gi˩! |
+			ɖɯ˧-pʰæ˧˥! |</FORM>
+		<NOTE xml:lang="fr"
+			message="/kwæ˧tɕʰæ˩/: serait du chinois local, pour dire 'précieux, qui a de la valeur'; la seconde syllabe paraît être 钱, 'argent'; en mandarin standard on dirait 值钱 'qui a de la valeur'."/>
 		<NOTE xml:lang="fr" message="vérifié: n'est pas tʰi˩-no˥"/>
-		<NOTE xml:lang="fr" message="Selon la locutrice: on pourrait dire /‡pʰv̩˧ɖɯ˧ ɲi˥/; mais ne serait pas approprié ici, pas assez expressif/exclamatif."/>
+		<NOTE xml:lang="fr"
+			message="Selon la locutrice: on pourrait dire /‡pʰv̩˧ɖɯ˧ ɲi˥/; mais ne serait pas approprié ici, pas assez expressif/exclamatif."/>
 		<TRANSL xml:lang="fr">Alors, ça, ça avait vraiment de la valeur! [mot chinois] Euh… c'était très coûteux, n'est-ce pas! [ça valait] Une pièce d'argent!</TRANSL>
 	</S>
 	<S id="CaravansS208">
 		<AUDIO start="1124.9062" end="1130.9105"/>
-		<FORM>ʈʂʰɯ˧ | hĩ˧ | ɖɯ˧-ʑi˩, | ɑ˩ʁo˧ | tʰi˩˥ | lo˩jɤ˧ | tsʰe˩-pʰæ˩ dʑo˩-ze˥-se˩, | &lt;tsʰi˧…&gt; tsʰi˧ʝi˧ | ɖɯ˧-kʰv̩˧˥ | ə˧tso˧ mɤ˧-ɲi˩, | le˧-dzɯ˥ | le˧-lv̩˩-ɲi˩! |</FORM>
+		<FORM>ʈʂʰɯ˧ | hĩ˧ | ɖɯ˧-ʑi˩, | ɑ˩ʁo˧ | tʰi˩˥ | lo˩jɤ˧ | tsʰe˩-pʰæ˩ dʑo˩-ze˥-se˩, |
+			&lt;tsʰi˧…&gt; tsʰi˧ʝi˧ | ɖɯ˧-kʰv̩˧˥ | ə˧tso˧ mɤ˧-ɲi˩, | le˧-dzɯ˥ | le˧-lv̩˩-ɲi˩! |</FORM>
 		<TRANSL xml:lang="fr">Cette famille, quand elle avait accumulé dix pièces d'argent à la maison, cette année-ci, elle avait toutes sortes de choses à manger en abondance!</TRANSL>
 	</S>
 	<S id="CaravansS209">
 		<AUDIO start="1131.3166" end="1134.0718"/>
 		<FORM>&lt;ə˧ʝi˧…&gt; ə˧ʝi˧-tsʰi˧ʝi˧-ni˧˥, | ŋv̩˧ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-tɑ˩~ɖɯ˩tɑ˩, | zo˩qo˧ dʑo˧? |</FORM>
-		<NOTE xml:lang="fr" message="Construction parallèle du chinois （人家）哪里有那么多钱, qu'on pourrait traduire par 'Mais bien sûr qu'on n'a pas tout cet argent/autant d'argent'."/>
+		<NOTE xml:lang="fr"
+			message="Construction parallèle du chinois （人家）哪里有那么多钱, qu'on pourrait traduire par 'Mais bien sûr qu'on n'a pas tout cet argent/autant d'argent'."/>
 		<TRANSL xml:lang="fr">Qui donc avait de l'argent par liasses [entières], comme de nos jours? (=Autrefois, on avait peu d'argent/ il circulait seulement de petites quantités d'argent)</TRANSL>
 	</S>
 	<S id="CaravansS210">
 		<AUDIO start="1134.7414" end="1138.7479"/>
 		<FORM>lo˩jɤ˧ | ɖɯ˧-pʰæ˧ pi˥! | ə˧ʝi˧-ʂɯ˥ʝi˩, | pæ˧kʰwɤ˧ | ɖɯ˧-ɭɯ˧ | pi˧-kv̩˩-mæ˩! |</FORM>
-		<TRANSL xml:lang="fr">On parlait de "une pièce d'argent"! Autrefois, on parlait de "un yuan d'argent"!</TRANSL>
+		<TRANSL xml:lang="fr">On parlait de "une pièce d'argent"! Autrefois, on parlait de "un yuan d'argent"! </TRANSL>
 	</S>
 	<S id="CaravansS211">
 		<AUDIO start="1140.4273" end="1143.5557"/>
@@ -1338,18 +1446,22 @@
 	</S>
 	<S id="CaravansS214">
 		<AUDIO start="1151.0967" end="1156.8348"/>
-		<FORM>ʈʂʰɯ˧ne˧ ʝi˥ | tʰi˩˥, | ʐwæ˧ tɕɯ˩-hĩ˩=ɻæ˩-ɳɯ˩ | le˧-po˧-tsʰɯ˧˥. | njɤ˧ ə˧v̩˧˥ | ʈʰææ̃˧ | ʐwæ˧ tɕɯ˩! | ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩qo˧ mɤ˧-ɲi˩ | bi˧-kv̩˧˥ ◊ -mv̩˩!</FORM>
-		<TRANSL xml:lang="fr">Ainsi, les gens qui partaient en caravane emportaient [ces vêtements pour les vendre]. Mon oncle, pour de vrai, il conduisait des caravanes! Autrefois, il allait partout!</TRANSL>
+		<FORM>ʈʂʰɯ˧ne˧ ʝi˥ | tʰi˩˥, | ʐwæ˧ tɕɯ˩-hĩ˩=ɻæ˩-ɳɯ˩ | le˧-po˧-tsʰɯ˧˥. | njɤ˧ ə˧v̩˧˥ |
+			ʈʰææ̃˧ | ʐwæ˧ tɕɯ˩! | ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩qo˧ mɤ˧-ɲi˩ | bi˧-kv̩˧˥ ◊ -mv̩˩!</FORM>
+		<TRANSL xml:lang="fr">Ainsi, les gens qui partaient en caravane emportaient [ces vêtements pour les vendre]. Mon oncle, pour de vrai, il conduisait des caravanes! Autrefois, il allait partout! </TRANSL>
 	</S>
 	<S id="CaravansS215">
 		<AUDIO start="1156.8348" end="1161.8511"/>
-		<FORM>ʐwæ˧ tɕɯ˩-hĩ˩, | mv̩˧ɭɯ˩! | mmm… sɯ˧pʰi˧ ɖɯ˧-ʑi˩-bv̩˩, | mv̩˧ɭɯ˩ | kv̩˧tsʰɑ˧=ɻ̩˧ pi˥-zo˩! |</FORM>
-		<NOTE xml:lang="fr" message="kv̩˧tsʰɑ˥$, kv̩˧tsʰɑ˧=ɻ̩˥: nom de la famille des seigneurs de Muli"/>
+		<FORM>ʐwæ˧ tɕɯ˩-hĩ˩, | mv̩˧ɭɯ˩! | mmm… sɯ˧pʰi˧ ɖɯ˧-ʑi˩-bv̩˩, | mv̩˧ɭɯ˩ | kv̩˧tsʰɑ˧=ɻ̩˧
+			pi˥-zo˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="kv̩˧tsʰɑ˥$, kv̩˧tsʰɑ˧=ɻ̩˥: nom de la famille des seigneurs de Muli"/>
 		<TRANSL xml:lang="fr">Les caravaniers, ils allaient à Muli! Ceux de la famille du seigneur… on les appelait "les kv̩˧tsʰɑ˥$ de Muli"!</TRANSL>
 	</S>
 	<S id="CaravansS216">
 		<AUDIO start="1163.0480" end="1168.3385"/>
-		<FORM>zo˩no˥, | njɤ˧ | ə˧v̩˧-ki˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧=ɻ̩˩ | le˧-sɯ˥-kwɤ˩tɕɯ˩-lɑ˩, | &lt;kv̩˧sɑ˥&gt; [kv̩˧tsʰɑ˥] | ki˧-zo˧-pi˧-ɲi˥-wɤ˩! |</FORM>
+		<FORM>zo˩no˥, | njɤ˧ | ə˧v̩˧-ki˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | njæ˧=ɻ̩˩ | le˧-sɯ˥-kwɤ˩tɕɯ˩-lɑ˩, |
+			&lt;kv̩˧sɑ˥&gt; [kv̩˧tsʰɑ˥] | ki˧-zo˧-pi˧-ɲi˥-wɤ˩! |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: n'est pas /‡ki˧-zo˧-pi˧-ɲi˥-wɤ˩/."/>
 		<TRANSL xml:lang="fr">En fait, à mon oncle… autrefois, comme on connaissait [le seigneur du monastère de Yongning, et qu'il connaissait les qualités des hommes de la famille], il a donné [mon oncle] à kv̩˧tsʰɑ˥$ (=au seigneur de Muli)! (Résumé de cette histoire: Un des oncles de F4 a été donné au seigneur de Muli par le seigneur de Yongning, pour être à son service; mais après sept ans, il s'est échappé de Muli, où le travail devait être trop dur et il ne s'était pas accoutumé; et il est revenu à Yongning. À son retour il parlait couramment le prinmi.)</TRANSL>
 	</S>
@@ -1361,9 +1473,11 @@
 	</S>
 	<S id="CaravansS218">
 		<AUDIO start="1171.4999" end="1175.1091"/>
-		<FORM>tʰi˩˥, | sɯ˧pʰi˧ | ɖɯ˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩! | tʰi˩˥, | kv̩˧tsʰɑ˥-ki˩ dzi˩-hɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | sɯ˧pʰi˧ | ɖɯ˧-ʑi˩ ɲi˩-tsɯ˩ ◊ -mv̩˩! | tʰi˩˥, | kv̩˧tsʰɑ˥-ki˩
+			dzi˩-hɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="prononcé comme: ɖɯ˧-ʑi˩-hĩ˩, léger lapsus"/>
-		<NOTE xml:lang="fr" message="dɑ˧pʰo˥ sɯ˩pʰi˩, ɖæ˩mi˧-sɯ˩pʰi˩: étaient autrefois frères; tʰo˧ʈɯ˧-sɯ˧pʰi˥: était aussi de la famille."/>
+		<NOTE xml:lang="fr"
+			message="dɑ˧pʰo˥ sɯ˩pʰi˩, ɖæ˩mi˧-sɯ˩pʰi˩: étaient autrefois frères; tʰo˧ʈɯ˧-sɯ˧pʰi˥: était aussi de la famille."/>
 		<TRANSL xml:lang="fr">C'est que les seigneurs formaient une seule famille! (=le seigneur de Yongning et celui de Muli étaient amis, et ils s'envoyaient mutuellement des présents, dont des gens) Alors, il est allé habité auprès de la famille kv̩˧tsʰɑ˥$</TRANSL>
 	</S>
 	<S id="CaravansS219">
@@ -1374,13 +1488,16 @@
 	</S>
 	<S id="CaravansS220">
 		<AUDIO start="1178.1517" end="1180.8746"/>
-		<FORM>ʐwæ˧ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | &lt;ɖæ˩mi˧ tʰi…&gt; ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: on dit: /sɯ˧pʰi˧/, mais: /ɖæ˩mi˧-sɯ˩pʰi˩/; avais d'abord noté /‡ɖæ˩mi˧-sɯ˧pʰi˩/."/>
+		<FORM>ʐwæ˧ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | &lt;ɖæ˩mi˧ tʰi…&gt; ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩!
+			|</FORM>
+		<NOTE xml:lang="fr"
+			message="vérifié: on dit: /sɯ˧pʰi˧/, mais: /ɖæ˩mi˧-sɯ˩pʰi˩/; avais d'abord noté /‡ɖæ˩mi˧-sɯ˧pʰi˩/."/>
 		<TRANSL xml:lang="fr">Quand il revenait en caravane, il donnait au seigneur du monastère [ce qu'il avait rapporté]!</TRANSL>
 	</S>
 	<S id="CaravansS221">
 		<AUDIO start="1181.3863" end="1184.2188"/>
-		<FORM>ɖæ˩mi˧-sɯ˩pʰi˩ ki˩-ɳɯ˩, | tʰi˩˥, | wɤ˩˥, | ɖæ˩mi˧-sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩ | le˧-tɕɯ˧˥! |</FORM>
+		<FORM>ɖæ˩mi˧-sɯ˩pʰi˩ ki˩-ɳɯ˩, | tʰi˩˥, | wɤ˩˥, | ɖæ˩mi˧-sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩ | le˧-tɕɯ˧˥!
+			|</FORM>
 		<TRANSL xml:lang="fr">Quand il le donnait au seigneur du monastère, eh bien, à leur tour, les seigneurs du monastère l'expédiait [vers d'autres destinations]!</TRANSL>
 	</S>
 	<S id="CaravansS222">
@@ -1388,7 +1505,8 @@
 		<FORM>le˧-tɕɯ˧˥, | mv̩˧ɭɯ˩… | mv̩˧ɭɯ˩ | kv̩˧tsʰɑ˥ | hĩ˧ ʝi˧-hɯ˧! |</FORM>
 		<NOTE xml:lang="fr" message="ressemble à: /‡hĩ˧ ʝi˧-hɯ˥/"/>
 		<NOTE xml:lang="fr" message="d'abord noté /‡ko˧tsʰɑ˥/; bien vérifié: est /kv/ et non /ko/."/>
-		<NOTE xml:lang="fr" message="exemple formé sur le même modèle, imaginant qu'un serf de Muli est donné au seigneur de Yongning et devient son sujet: /mv̩˧ɭɯ˩-hĩ˩-ɳɯ˩, | ɬi˧di˩ | hĩ˧ ʝi˧-hɯ˧!/ '(cette) personne de Muli, elle est allée à Yongning jouer le rôle de sujet!'"/>
+		<NOTE xml:lang="fr"
+			message="exemple formé sur le même modèle, imaginant qu'un serf de Muli est donné au seigneur de Yongning et devient son sujet: /mv̩˧ɭɯ˩-hĩ˩-ɳɯ˩, | ɬi˧di˩ | hĩ˧ ʝi˧-hɯ˧!/ '(cette) personne de Muli, elle est allée à Yongning jouer le rôle de sujet!'"/>
 		<TRANSL xml:lang="fr">Une fois la caravane terminée, il retournait jouer son rôle de sujet des kv̩˧tsʰɑ˥$ (=des seigneurs de Muli)!</TRANSL>
 	</S>
 	<S id="CaravansS223">
@@ -1400,7 +1518,8 @@
 	<S id="CaravansS224">
 		<AUDIO start="1192.0676" end="1195.6950"/>
 		<FORM>zo˩no˥, | mv̩˧ɭɯ˩-dʑo˩, | ɖæ˩mi˧-hĩ˧-ni˧gv̩˧ ɲi˥-ze˩-mæ˩! |</FORM>
-		<NOTE xml:lang="fr" message="d'abord noté /‡ɖæ˩mi˧-hĩ˩-ni˩-gv̩˩ ɲi˥-ze˩-mæ˩/. On pourrait également dire: /ɖæ˩mi˧-hĩ˧-ni˥-gv̩˩ ɲi˩-ze˩-mæ˩/."/>
+		<NOTE xml:lang="fr"
+			message="d'abord noté /‡ɖæ˩mi˧-hĩ˩-ni˩-gv̩˩ ɲi˥-ze˩-mæ˩/. On pourrait également dire: /ɖæ˩mi˧-hĩ˧-ni˥-gv̩˩ ɲi˩-ze˩-mæ˩/."/>
 		<TRANSL xml:lang="fr">[Les seigneurs de] Muli, ils étaient comme des gens du monastère [de Yongning]!</TRANSL>
 	</S>
 	<S id="CaravansS225">
@@ -1411,109 +1530,134 @@
 	<S id="CaravansS226">
 		<AUDIO start="1199.0940" end="1201.5245"/>
 		<FORM>no˧ mɤ˧-dʑo˧, | njɤ˧ ki˧-ki˩! | njɤ˧ mɤ˧-dʑo˧, | no˧ ki˧-ki˩! |</FORM>
-		<NOTE xml:lang="fr" message="on pourrait également dire, pour désambiguïser: /njɤ˧-ɳɯ˧ no˧-ki˧ ki˩!/"/>
+		<NOTE xml:lang="fr"
+			message="on pourrait également dire, pour désambiguïser: /njɤ˧-ɳɯ˧ no˧-ki˧ ki˩!/"/>
 		<TRANSL xml:lang="fr">Si tu manques de quelque chose (littéralement: "si je n'ai pas"), je t'en donne! Si je manque de quelque chose, tu m'en donnes! / Ils étaient solidaires, ils s'épaulaient en cas de besoin!</TRANSL>
 	</S>
 	<S id="CaravansS227">
 		<AUDIO start="1201.6981" end="1209.1905"/>
-		<FORM>njɤ˧ | hĩ˧ | dʑɤ˩pi˧ dʑo˧˥ | pi˧-dʑo˩, | no˧ ki˧-ki˩! | õ! tʰi˩˥, | no˧ | hĩ˧ ʈʂʰɯ˧-v̩˧, | no˧-ɳɯ˧-dʑo˥, | sɯ˧pʰi˧ ʝi˧-pv̩˥-kʰɯ˩! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié, est bien /dʑɤ˩pi˧ dʑo˧˥/ 'il en existe beaucoup, il y en a beaucoup' et non /dʑɤ˩pi˧ dʑo˧/ '[j'en] ai beaucoup': c'est ici l'existentiel, et non le verbe de possession."/>
+		<FORM>njɤ˧ | hĩ˧ | dʑɤ˩pi˧ dʑo˧˥ | pi˧-dʑo˩, | no˧ ki˧-ki˩! | õ! tʰi˩˥, | no˧ | hĩ˧
+			ʈʂʰɯ˧-v̩˧, | no˧-ɳɯ˧-dʑo˥, | sɯ˧pʰi˧ ʝi˧-pv̩˥-kʰɯ˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="vérifié, est bien /dʑɤ˩pi˧ dʑo˧˥/ 'il en existe beaucoup, il y en a beaucoup' et non /dʑɤ˩pi˧ dʑo˧/ '[j'en] ai beaucoup': c'est ici l'existentiel, et non le verbe de possession."/>
 		<TRANSL xml:lang="fr">[Par exemple] S'il y a beaucoup de gens par chez moi, je t'en donne (je t'offre des sujets)! Eh! Toi, cette personne-là, le seigneur te commande d'aller quelque part/ te donne un ordre!</TRANSL>
 	</S>
 	<S id="CaravansS228">
 		<AUDIO start="1209.7113" end="1213.3388"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-dzɤ˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩ ʝi˩-tʰɑ˩-ɲi˩-ze˩-mæ˩! | &lt;ɖæ˩mi˧-z…&gt; ɖæ˩mi˧=ɻ̩˩-ɳɯ˩! |</FORM>
-		<NOTE xml:lang="fr" message="ɖɯ˧-dzɤ˥: un côté, d'où par extension: une partie: une des deux parties de ces échanges est Yongning, l'autre est Muli"/>
-		<TRANSL xml:lang="fr">Alors, [les gens d']une des parties (=les sujets du seigneur de Yongning) pouvaient être mis au service du seigneur de Muli! Des gens du monastère (=de Yongning) [pouvaient être donnés au seigneur de Muli]!</TRANSL>
+		<FORM>tʰi˩˥, | ɖɯ˧-dzɤ˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩ ʝi˩-tʰɑ˩-ɲi˩-ze˩-mæ˩! | &lt;ɖæ˩mi˧-z…&gt;
+			ɖæ˩mi˧=ɻ̩˩-ɳɯ˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="ɖɯ˧-dzɤ˥: un côté, d'où par extension: une partie: une des deux parties de ces échanges est Yongning, l'autre est Muli"/>
+		<TRANSL xml:lang="fr">Alors, [les gens d']une des parties (=les sujets du seigneur de Yongning) pouvaient être mis au service du seigneur de Muli! Des gens du monastère (=de Yongning) [pouvaient être donnés au seigneur de Muli]! </TRANSL>
 	</S>
 	<S id="CaravansS229">
 		<AUDIO start="1213.6129" end="1218.1723"/>
-		<FORM>tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖæ˩mi˧sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩-dʑo˩, | mv̩˧ɭɯ˩-sɯ˩pʰi˩ | ɖɯ˧-ʈʂæ˧ ʝi˧-pv̩˥-kʰɯ˩-ɲi˩-mæ˩! |</FORM>
+		<FORM>tʰi˩˥, | njɤ˧ | ə˧v̩˧˥ ◊ -dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩, | ɖæ˩mi˧sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩-dʑo˩, |
+			mv̩˧ɭɯ˩-sɯ˩pʰi˩ | ɖɯ˧-ʈʂæ˧ ʝi˧-pv̩˥-kʰɯ˩-ɲi˩-mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">Alors, mon oncle, autrefois, les seigneurs du monastère de Yongning l'ont envoyé servir un temps les seigneurs de Muli!</TRANSL>
 	</S>
 	<S id="CaravansS230">
 		<AUDIO start="1218.8850" end="1224.8059"/>
-		<FORM>tʰi˩˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩ | ɖɯ˧-ʈʂæ˧ ʝi˥-kʰɯ˩-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩ | tʰi˩˥, | mmm… mv̩˩zo˩=ɻæ˥, ◊ ə˩-gi˩! |</FORM>
-		<NOTE xml:lang="fr" message="tons vérifiés: est bien, ici, /ɖɯ˧-ʈʂæ˧ ʝi˥-kʰɯ˩/, et dans la phrase qui précède, /ɖɯ˧-ʈʂæ˧ ʝi˧-pv̩˥-kʰɯ˩/."/>
-		<TRANSL xml:lang="fr">Alors, comme on l'envoyait travailler un temps auprès du seigneur de Muli… autrefois, eh bien… les jeunes filles, n'est-ce pas!</TRANSL>
+		<FORM>tʰi˩˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩ | ɖɯ˧-ʈʂæ˧ ʝi˥-kʰɯ˩-dʑo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩ | tʰi˩˥, | mmm…
+			mv̩˩zo˩=ɻæ˥, ◊ ə˩-gi˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="tons vérifiés: est bien, ici, /ɖɯ˧-ʈʂæ˧ ʝi˥-kʰɯ˩/, et dans la phrase qui précède, /ɖɯ˧-ʈʂæ˧ ʝi˧-pv̩˥-kʰɯ˩/."/>
+		<TRANSL xml:lang="fr">Alors, comme on l'envoyait travailler un temps auprès du seigneur de Muli… autrefois, eh bien… les jeunes filles, n'est-ce pas! </TRANSL>
 	</S>
 	<S id="CaravansS231">
 		<AUDIO start="1225.1896" end="1227.7480"/>
 		<FORM>mv̩˩zo˩=ɻæ˩-lɑ˥ | ə˧ʝi˧-ʂɯ˥ʝi˩ | tʰi˩˥, | dʑɤ˩↑bv̩˥-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
-		<NOTE xml:lang="en" message="The second syllable of the verb /dʑɤ˩↑bv̩˥/ ‘to play’ is realized with a much stronger trilling of the /b/ than is found in non-emphatic contexts."/>
+		<NOTE xml:lang="en"
+			message="The second syllable of the verb /dʑɤ˩↑bv̩˥/ ‘to play’ is realized with a much stronger trilling of the /b/ than is found in non-emphatic contexts."/>
 		<TRANSL xml:lang="fr">Avec les jeunes filles, autrefois, [il] s'est amusé, n'est-ce pas! / Il a conté fleurette aux jeunes filles, dans le temps, à ce qu'on raconte!</TRANSL>
 	</S>
 	<S id="CaravansS232">
 		<AUDIO start="1228.0221" end="1235.0029"/>
-		<FORM>dʑɤ˩bv̩˧, | dʑɤ˩bv̩˧-dʑo˩ | tʰi˩˥, | əəə… mv̩˧ɭɯ˩-sɯ˩pʰi˩ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩, | mv̩˧ɭɯ˩-sɯ˩pʰi˩-bv̩˩ | ɖʐv̩˧-qɑ˧ dʑɤ˥bv̩˩-dʑo˩! |</FORM>
-		<NOTE xml:lang="fr" message="vérifié: la formulation est bien /mv̩˧ɭɯ˩-sɯ˩pʰi˩ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩/, en deux groupes tonals."/>
+		<FORM>dʑɤ˩bv̩˧, | dʑɤ˩bv̩˧-dʑo˩ | tʰi˩˥, | əəə… mv̩˧ɭɯ˩-sɯ˩pʰi˩ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩, |
+			mv̩˧ɭɯ˩-sɯ˩pʰi˩-bv̩˩ | ɖʐv̩˧-qɑ˧ dʑɤ˥bv̩˩-dʑo˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="vérifié: la formulation est bien /mv̩˧ɭɯ˩-sɯ˩pʰi˩ | tʰv̩˧-v̩˧-ɳɯ˩-dʑo˩/, en deux groupes tonals."/>
 		<TRANSL xml:lang="fr">Et à force de s'amuser, de s'amuser… le seigneur de Muli, lui… [mon oncle,] il s'est amusé avec une bonne amie du seigneur de Muli!</TRANSL>
 	</S>
 	<S id="CaravansS233">
 		<AUDIO start="1235.0029" end="1239.7451"/>
-		<FORM>tʰi˩˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩-ɳɯ˩ | mɤ˧-fv̩˧-zo˩! | wɤ˩˥ | le˧-wo˥ | le˧-tsʰɯ˩-kʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩! | ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | mv̩˧ɭɯ˩-sɯ˩pʰi˩-ɳɯ˩ | mɤ˧-fv̩˧-zo˩! | wɤ˩˥ | le˧-wo˥ |
+			le˧-tsʰɯ˩-kʰɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩! | ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est /mɤ˧-fv̩˧-zo˩/"/>
 		<TRANSL xml:lang="fr">Alors, le seigneur de Muli s'est fâché! et il l'a fait retourner (à Yongning)! Il l'a rendu (littéralement "donné") au seigneur du monastère [de Yongning]!</TRANSL>
 	</S>
 	<S id="CaravansS234">
 		<AUDIO start="1240.1288" end="1245.2091"/>
-		<FORM>ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩-dʑo˩ | tʰi˩˥, | njɤ˧ | ə˧v̩˧-ɳɯ˥: | "mɤ˧-bi˧-ze˧! | njɤ˧, əəə… | ɖæ˩mi˧-sɯ˩pʰi˩ | hĩ˧ F | ʝi˧-mɤ˧-bi˧!"</FORM>
+		<FORM>ɖæ˩mi˧-sɯ˩pʰi˩-ki˩ ki˩-dʑo˩ | tʰi˩˥, | njɤ˧ | ə˧v̩˧-ɳɯ˥: | "mɤ˧-bi˧-ze˧! | njɤ˧,
+			əəə… | ɖæ˩mi˧-sɯ˩pʰi˩ | hĩ˧ F | ʝi˧-mɤ˧-bi˧!"</FORM>
 		<TRANSL xml:lang="fr">Comme on allait le rendre au seigneur du monastère [littéralement: "comme on le donnait au seigneur du monastère"], mon oncle a dit: "Ca ne marche pas comme ça!/Non! Je ne veux pas être le sujet du seigneur du monastère (de Yongning)!</TRANSL>
 	</S>
 	<S id="CaravansS235">
 		<AUDIO start="1245.7390" end="1251.2670"/>
-		<FORM>mmm… "mv̩˧ɭɯ˩-sɯ˩pʰi˩ | hĩ˧ F | wɤ˩˥ | [ʝi˧-mɤ˧-bi˧! |] njɤ˧ | õ˧-bv̩˥-õ˩… | ʐwæ˧ tɕɯ˩-bi˩-ze˩!" | tʰv̩˧ pi˧-zo˩, | ʐwæ˧ tɕɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>mmm… "mv̩˧ɭɯ˩-sɯ˩pʰi˩ | hĩ˧ F | wɤ˩˥ | [ʝi˧-mɤ˧-bi˧! |] njɤ˧ | õ˧-bv̩˥-õ˩… |
+			ʐwæ˧ tɕɯ˩-bi˩-ze˩!" | tʰv̩˧ pi˧-zo˩, | ʐwæ˧ tɕɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est /tʰv̩˧ pi˧-zo˩/, 'ce que disant'"/>
 		<TRANSL xml:lang="fr">[Je ne veux pas non plus] être sujet du seigneur de Muli! Je vais conduire mes propres chevaux/ constituer ma propre caravane!" Ce que disant, il a conduit une caravane / il est parti conduire ses propres caravanes, à ce qu'on dit!</TRANSL>
 	</S>
 	<S id="CaravansS236">
 		<AUDIO start="1252.1350" end="1257.7544"/>
-		<FORM>njæ˧sɯ˩kv̩˩-ʁwɤ˩-qo˩, | ʐwæ˧ tɕɯ˩-hĩ˩, | njɤ˧ | ə˧v̩˧-lɑ˥ | ɖɯ˧-ʑi˩-lɑ˩ dʑo˩-ɲi˩! | ʐwæ˧-ʈʂʰɯ˧! |</FORM>
+		<FORM>njæ˧sɯ˩kv̩˩-ʁwɤ˩-qo˩, | ʐwæ˧ tɕɯ˩-hĩ˩, | njɤ˧ | ə˧v̩˧-lɑ˥ | ɖɯ˧-ʑi˩-lɑ˩ dʑo˩-ɲi˩! |
+			ʐwæ˧-ʈʂʰɯ˧! |</FORM>
 		<TRANSL xml:lang="fr">Dans notre village, des [gens] qui conduisaient les caravanes, il n'y avait que mon oncle, cette seule famille! [Qui conduisait] les chevaux!</TRANSL>
 	</S>
 	<S id="CaravansS237">
 		<AUDIO start="1258.8326" end="1265.4387"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩, | ʐwæ˧ | ɖɯ˧-v̩˧ dʑo˩, | "ə˧v̩˧˥, | ʁɑ˩mi˧! | ə˧v̩˧-kɤ˧zo˧, no˧-ɳɯ˧ ɖɯ˧-tɕɯ˧-ɻ̩˥! | ʁɑ˩mi˧! | njɤ˧-ki˩, | tsʰe˧ pʰv̩˧ li˥ pʰv̩˩ kwɤ˩-ki˩-tsæ˩-ɲi˩!" | pi˧. |</FORM>
+		<FORM>tʰi˩˥, | ɖɯ˧-ʑi˩~ɖɯ˩-ʑi˩, | ʐwæ˧ | ɖɯ˧-v̩˧ dʑo˩, | "ə˧v̩˧˥, | ʁɑ˩mi˧! | ə˧v̩˧-kɤ˧zo˧,
+			no˧-ɳɯ˧ ɖɯ˧-tɕɯ˧-ɻ̩˥! | ʁɑ˩mi˧! | njɤ˧-ki˩, | tsʰe˧ pʰv̩˧ li˥ pʰv̩˩ kwɤ˩-ki˩-tsæ˩-ɲi˩!"
+			| pi˧. |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est bien: /ʐwæ˧ | ɖɯ˧-v̩˧ dʑo˩/"/>
 		<NOTE xml:lang="fr" message="Avant 2017, noté /njɤ˧-ki˩ |/, contrairement à la règle morpho-phonologique dégagée, selon laquelle le schéma devrait être /njɤ˧-ki˧/. Vérifié en 2018: est bien: /njɤ˧-ki˩ |/."/>
-		<TRANSL xml:lang="fr">Alors, famille après famille (=toutes les familles [du village]), celles qui avaient un cheval, elles lui disaient: "Oncle, s'il vous plaît! Oncle kɤ˧zo˧, conduisez-le [=conduisez notre cheval chargé de ses marchandises]! On vous en prie! On partagera les bénéfices (littéralement "le prix du sel et le prix du thé") [avec vous]!"</TRANSL>
+		<TRANSL xml:lang="fr">Alors, famille après famille (=toutes les familles [du village]), celles qui avaient un cheval, elles lui disaient: "Oncle, s'il vous plaît! Oncle kɤ˧zo˧, conduisez-le [=conduisez notre cheval chargé de ses marchandises]! On vous en prie! On partagera les bénéfices (littéralement "le prix du sel et le prix du thé") [avec vous]!" </TRANSL>
 	</S>
 	<S id="CaravansS238">
 		<AUDIO start="1265.8681" end="1270.0986"/>
-		<FORM>õ! "tsʰe˧ | hwæ˧ le˧-po˧-jo˥, | li˩ hwæ˥ | le˧-po˧-jo˧! | pi˧, | ʈʂʰɯ˧-ki˧ | tʰi˧-hwɤ˩! | tɕɯ˧-pv̩˥-kʰɯ˩! |</FORM>
+		<FORM>õ! "tsʰe˧ | hwæ˧ le˧-po˧-jo˥, | li˩ hwæ˥ | le˧-po˧-jo˧! | pi˧, | ʈʂʰɯ˧-ki˧ |
+			tʰi˧-hwɤ˩! | tɕɯ˧-pv̩˥-kʰɯ˩! |</FORM>
 		<TRANSL xml:lang="fr">Eh! "[Vous] achèterez du sel et nous le ramènerez, vous achèterez du thé et le ramènerez!" disaient-ils, et ils lui confiaient [leur cheval chargé de ses marchandises]! Ils le faisaient conduire le cheval!</TRANSL>
 	</S>
 	<S id="CaravansS239">
 		<AUDIO start="1270.4915" end="1274.4753"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | hĩ˧=ɻæ˧-ni˧˥, | zo˩no˧-&lt;ɳ&gt;hĩ˧ ni˧˥ | lo˧pæ˧ tsɤ˧-ɲi˥-ze˩-wɤ˩! | hɤ˩ ɲi˥-ho˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | zo˩no˥, | hĩ˧=ɻæ˧-ni˧˥, | zo˩no˧-&lt;ɳ&gt;hĩ˧ ni˧˥ | lo˧pæ˧
+			tsɤ˧-ɲi˥-ze˩-wɤ˩! | hɤ˩ ɲi˥-ho˩-mæ˩, ◊ ə˩-gi˩! |</FORM>
 		<TRANSL xml:lang="fr">Autrefois, eh bien, les gens comme [lui], eh bien… Dans la société d'aujourd'hui (littéralement "comme les gens d'aujourd'hui"), c'est devenu "le patron"! / Les gens comme lui, eh bien, aujourd'hui, on les désignerait comme des "patrons"! （老板）[Quelqu'un de] remarquable, n'est-ce pas!</TRANSL>
 	</S>
 	<S id="CaravansS240">
 		<AUDIO start="1275.0052" end="1281.2733"/>
-		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ ◊ -dʑo˩ | le˧-tɕɯ˧˥! | zo˩qo˧ mɤ˧-ɲi˩, | tʰi˧-hɑ̃˧˥! | hhh… le˧-hɑ̃˧˥, | le˧-hɑ̃˧˥ ◊ -dʑo˩ | tʰi˩˥, | gi˩˥ ◊ -dʑo˩,</FORM>
+		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ ◊ -dʑo˩ | le˧-tɕɯ˧˥! | zo˩qo˧ mɤ˧-ɲi˩, | tʰi˧-hɑ̃˧˥! | hhh… le˧-hɑ̃˧˥, |
+			le˧-hɑ̃˧˥ ◊ -dʑo˩ | tʰi˩˥, | gi˩˥ ◊ -dʑo˩,</FORM>
 		<TRANSL xml:lang="fr">Ainsi, il partait en caravane! Il dormait n'importe où[, au hasard des étapes]!</TRANSL>
 	</S>
 	<S id="CaravansS241">
 		<AUDIO start="1281.9129" end="1289.4876"/>
-		<FORM>əəə… ʐwæ˧-ʈʂʰɯ˧, | ɖɯ˧-v̩˧ gi˧˥, | ɲi˧-kv̩˧ hwæ˥! | ɲi˧-kv̩˧ gi˥, | so˩-kv̩˩ hwæ˥ | -dʑo˩ | tʰi˩˥, | lo˧pæ˧ tsɤ˧! |</FORM>
+		<FORM>əəə… ʐwæ˧-ʈʂʰɯ˧, | ɖɯ˧-v̩˧ gi˧˥, | ɲi˧-kv̩˧ hwæ˥! | ɲi˧-kv̩˧ gi˥, | so˩-kv̩˩ hwæ˥ |
+			-dʑo˩ | tʰi˩˥, | lo˧pæ˧ tsɤ˧! |</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: ɖɯ˧-v̩˧ gi˧˥, | ɲi˧-kv̩˧ hwæ˥"/>
 		<TRANSL xml:lang="fr">Les chevaux, il en achetait un, puis deux! Quand il en avait deux, il en achetait trois! (=il se constituait progressivement sa propre caravane) C'est ainsi qu'il est devenu un patron! (mot chinois; autrefois, on aurait dit: tsʰo˧pæ#˥ "chef de caravane")</TRANSL>
 	</S>
 	<S id="CaravansS242">
 		<AUDIO start="1290.0724" end="1303.6684"/>
-		<FORM>lo˧pæ˧ le˧-tsɤ˧-se˩-dʑo˩, | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | əəə… ho˧di˧! | əəə… ho˧di˧ | ɖæ˩mi˧-qo˧&lt;-ɳ&gt;… ɖæ˩mi˧-sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩, | "ho˧di˧ ɕi˧ʈʂʰwæ˧ tɕɯ˧-hõ˧!" | pi˧, | ho˧di˧ ɕi˧ʈʂʰwæ˧ le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩! |</FORM>
+		<FORM>lo˧pæ˧ le˧-tsɤ˧-se˩-dʑo˩, | tʰi˩˥, | ə˧ʝi˧-ʂɯ˥ʝi˩, | əəə… ho˧di˧! | əəə… ho˧di˧ |
+			ɖæ˩mi˧-qo˧&lt;-ɳ&gt;… ɖæ˩mi˧-sɯ˩pʰi˩=ɻ̩˩-ɳɯ˩, | "ho˧di˧ ɕi˧ʈʂʰwæ˧ tɕɯ˧-hõ˧!" | pi˧, |
+			ho˧di˧ ɕi˧ʈʂʰwæ˧ le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩! |</FORM>
 		<TRANSL xml:lang="fr">Quand il est devenu son propre patron, eh bien, autrefois… [il est parti dans] le Sichuan! Le Sichuan… le monastère… les seigneurs du monastère l'ont envoyé dans le Sichuan faire le commerce du riz (=acheter du riz); il a ramené du riz du Sichuan, par caravane!</TRANSL>
 	</S>
 	<S id="CaravansS243">
 		<AUDIO start="1304.2349" end="1309.7354"/>
-		<FORM>tʰi˩˥, | ɖæ˩mi˧-qo˧ | tʰi˧-sɑ˧˥! | wɤ˩˥, | ɖæ˩mi˧=ɻ̩˩-ɳɯ˩ | tʰi˩˥, | ɕi˧ʈʂʰwæ˧ | le˧-tɕɯ˧˥, | wɤ˩˥, | ɬɑ˧sɑ˧ po˧-pv̩˥-kʰɯ˩! |</FORM>
+		<FORM>tʰi˩˥, | ɖæ˩mi˧-qo˧ | tʰi˧-sɑ˧˥! | wɤ˩˥, | ɖæ˩mi˧=ɻ̩˩-ɳɯ˩ | tʰi˩˥, | ɕi˧ʈʂʰwæ˧ |
+			le˧-tɕɯ˧˥, | wɤ˩˥, | ɬɑ˧sɑ˧ po˧-pv̩˥-kʰɯ˩! |</FORM>
 		<NOTE xml:lang="fr" message="de /pv̩˩/ 'commanditer'"/>
 		<TRANSL xml:lang="fr">Ensuite, il livrait [ce riz] au monastère! Après, les gens du monastère, à leur tour/à nouveau, ils emportaient le riz par caravane; ils commanditaient une livraison à Lhasa!</TRANSL>
 	</S>
 	<S id="CaravansS244">
 		<AUDIO start="1310.3750" end="1315.6563"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ɬɑ˧sɑ˧! | no˩-dʑo˧, | ʈʰææ̃˧ | le˧-tɕɯ˧˥… | ɬi˧di˩-di˩mi˩-qo˩ | gɤ˩tɕo˧ tɕɯ˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="gɤ˩-tɕɯ˧˥, mv̩˩-tɕɯ˧˥: faire le commerce des caravanes du 'haut' (Lhasa) en 'bas' (les plaines chinoises: Chengdu…)"/>
+		<NOTE xml:lang="fr"
+			message="gɤ˩-tɕɯ˧˥, mv̩˩-tɕɯ˧˥: faire le commerce des caravanes du 'haut' (Lhasa) en 'bas' (les plaines chinoises: Chengdu…)"/>
 		<TRANSL xml:lang="fr">Autrefois, Lhasa [c'était une destination importante]! Toi, réellement, tu faisais du commerce en caravane; depuis Yongning (littéralement: "à Yongning"), on montait par caravane [les marchandises jusqu'à Lhasa]!</TRANSL>
 	</S>
 	<S id="CaravansS245">
@@ -1524,18 +1668,21 @@
 	<S id="CaravansS246">
 		<AUDIO start="1321.8513" end="1327.9732"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩, | ʈʰææ̃˧ | ʐwæ˧ tɕɯ˩! | ɑ˩ʁo˧-hĩ˧ | dzi˩-di˩ dʑo˩˥ | mɤ˧-kv̩˧˥! | zo˧-ʈʂʰɯ˧-dʑo˩! | ʐwæ˧ tɕɯ˩! |</FORM>
-		<NOTE xml:lang="fr" message="autre formulation possible: /ɑ˩ʁo˧-hĩ˧ | dzi˩-di˩ dʑo˩ mɤ˩-kv̩˥ |/"/>
+		<NOTE xml:lang="fr"
+			message="autre formulation possible: /ɑ˩ʁo˧-hĩ˧ | dzi˩-di˩ dʑo˩ mɤ˩-kv̩˥ |/"/>
 		<TRANSL xml:lang="fr">Autrefois, il y avait vraiment des caravanes de partout!/ c'était vraiment l'époque des caravanes! Personne ne restait chez lui à rien faire[, les hommes valides couraient les routes, avec les caravanes]! (littéralement "il n'y avait pas de sièges dans les maisons"; c'est-à-dire "personne ne restait assis à ne rien faire") [Pour] les hommes[, c'était comme ça!] On menait les caravanes!</TRANSL>
 	</S>
 	<S id="CaravansS247">
 		<AUDIO start="1327.9732" end="1332.2494"/>
-		<FORM>mv̩˧ʐe˧-qo˥, | ə˧mi˧=ɻæ˩-dʑo˩, | le˧-tsʰɯ˩-pi˩, | ʐwæ˧-zɯ˧ kʰv̩˧! | ʐwæ˧-hɑ˧ ʂe˩! |</FORM>
+		<FORM>mv̩˧ʐe˧-qo˥, | ə˧mi˧=ɻæ˩-dʑo˩, | le˧-tsʰɯ˩-pi˩, | ʐwæ˧-zɯ˧ kʰv̩˧! | ʐwæ˧-hɑ˧ ʂe˩!
+			|</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est ʐwæ˧-zɯ˧ kʰv̩˧"/>
 		<TRANSL xml:lang="fr">Pendant la saison des pluies, les femmes, comme [les hommes] étaient de retour [avec leurs bêtes], elles coupaient de l'herbe pour les chevaux! elles ramassaient de la nourriture pour les chevaux! (Explication: pendant la saison des pluies, on ne se déplaçait guère; les caravanes ne se déplaçaient que pendant la saison sèche, où les chemins étaient plus pratiquables.)</TRANSL>
 	</S>
 	<S id="CaravansS248">
 		<AUDIO start="1332.8890" end="1340.7287"/>
-		<FORM>ĩ˧! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-dʑo˩ | tʰi˩˥, | mv̩˧tsʰi˧-qo˩ tʰv̩˩-kwɤ˩tɕɯ˩-lɑ˩, | əəə… ʐwæ˧ dʑo˧-hĩ˥=ɻæ˩, | dʑi˧ qæ˧ kʰɯ˩-kv̩˩-ze˩-pi˩-kv̩˩! | tso˧~tso˧ le˧-hwæ˧-le˧-po˧-jo˥! |</FORM>
+		<FORM>ĩ˧! | õ˧ʈʂʰɯ˧ne˧ ʝi˥-dʑo˩ | tʰi˩˥, | mv̩˧tsʰi˧-qo˩ tʰv̩˩-kwɤ˩tɕɯ˩-lɑ˩, | əəə… ʐwæ˧
+			dʑo˧-hĩ˥=ɻæ˩, | dʑi˧ qæ˧ kʰɯ˩-kv̩˩-ze˩-pi˩-kv̩˩! | tso˧~tso˧ le˧-hwæ˧-le˧-po˧-jo˥! |</FORM>
 		<TRANSL xml:lang="fr">Voilà comment on faisait; et alors, quand arrivait la saison sèche, les gens qui avaient des chevaux, on disait qu'on allait les faire changer de vêtements! (façon métonymique de désigner leur départ en caravane: au retour des voyages en caravane, on avait généralement de nouveaux vêtements) [Les hommes partis en caravane] achetaient des choses, et les ramenaient!</TRANSL>
 	</S>
 	<S id="CaravansS249">
@@ -1545,7 +1692,8 @@
 	</S>
 	<S id="CaravansS250">
 		<AUDIO start="1345.6261" end="1349.4820"/>
-		<FORM>ɑ˩ʁo˧, | zo˩no˥, | &lt;ko˧…&gt; ə˧ʝi˧-ʂɯ˥ʝi˩-ni˩, | ko˧sɯ˧ F | mɤ˧-di˩, ◊ ə˩-gi˩! | ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩! |</FORM>
+		<FORM>ɑ˩ʁo˧, | zo˩no˥, | &lt;ko˧…&gt; ə˧ʝi˧-ʂɯ˥ʝi˩-ni˩, | ko˧sɯ˧ F | mɤ˧-di˩, ◊ ə˩-gi˩! |
+			ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩! |</FORM>
 		<TRANSL xml:lang="fr">À la maison… c'est que, dans le temps (littéralement: "comme autrefois"), des boutiques, il n'y en avait pas, n'est-ce pas! Autrefois!</TRANSL>
 	</S>
 	<S id="CaravansS251">
@@ -1556,7 +1704,8 @@
 	</S>
 	<S id="CaravansS252">
 		<AUDIO start="1351.8540" end="1357.2226"/>
-		<FORM>ɖɯ˧-ʁwɤ˧, | ʐwæ˧ tɕɯ˩-zo˩ | so˩-kv̩˩ dʑo˩˥, | pi˧-dʑo˩, | njɤ˧=ɻ̩˩-ɳɯ˩ | le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | pi˧, | njɤ˧ | ɑ˩ʁo˧ | hwæ˧-tsʰɯ˩-ɲi˩-ze˩-mæ˩! |</FORM>
+		<FORM>ɖɯ˧-ʁwɤ˧, | ʐwæ˧ tɕɯ˩-zo˩ | so˩-kv̩˩ dʑo˩˥, | pi˧-dʑo˩, | njɤ˧=ɻ̩˩-ɳɯ˩ |
+			le˧-tɕɯ˧-le˥-po˩-tsʰɯ˩, | pi˧, | njɤ˧ | ɑ˩ʁo˧ | hwæ˧-tsʰɯ˩-ɲi˩-ze˩-mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">Si dans un village il y avait trois ou quatre hommes qui faisaient du commerce par caravane… comme c'est nous qui ramenions [des marchandises], c'est à ma maison qu'on venait l'acheter!</TRANSL>
 	</S>
 	<S id="CaravansS253">
@@ -1566,7 +1715,8 @@
 	</S>
 	<S id="CaravansS254">
 		<AUDIO start="1360.7004" end="1367.0057"/>
-		<FORM>"njɤ˧=ɻ̩˩ | ʈʂʰɯ˧-ʂɯ˥-dʑo˩, | qʰwɤ˩ tɕɯ˥ | le˧-po˧-tsʰɯ˧˥!" | əəə… "ʂe˧ʈʂe˩ tɕɯ˩ | le˧-po˧-tsʰɯ˧˥!" | pi˧. |</FORM>
+		<FORM>"njɤ˧=ɻ̩˩ | ʈʂʰɯ˧-ʂɯ˥-dʑo˩, | qʰwɤ˩ tɕɯ˥ | le˧-po˧-tsʰɯ˧˥!" | əəə… "ʂe˧ʈʂe˩ tɕɯ˩ |
+			le˧-po˧-tsʰɯ˧˥!" | pi˧. |</FORM>
 		<TRANSL xml:lang="fr">[Il leur était répondu:] "Nous, cette fois-ci, on a ramené des bols (=de la vaisselle)!" [Ou encore:] "On a ramené du tissu de coton!"</TRANSL>
 	</S>
 	<S id="CaravansS255">
@@ -1577,15 +1727,19 @@
 	</S>
 	<S id="CaravansS256">
 		<AUDIO start="1369.3561" end="1374.2910"/>
-		<FORM>əəə… qʰwɤ˩˥ | ɖɯ˧-tʰv̩˩, | lo˩jɤ˧ | ɲi˧-pʰæ˧-lɑ˥-ɲi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | &lt;kwɤ˩-pi˧…&gt; …no˧˥… | pæ˧kʰwɤ˧ | ɲi˧-ɭɯ˧! |</FORM>
+		<FORM>əəə… qʰwɤ˩˥ | ɖɯ˧-tʰv̩˩, | lo˩jɤ˧ | ɲi˧-pʰæ˧-lɑ˥-ɲi˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |
+			&lt;kwɤ˩-pi˧…&gt; …no˧˥… | pæ˧kʰwɤ˧ | ɲi˧-ɭɯ˧! |</FORM>
 		<NOTE xml:lang="fr" message="de: /ɲi˧-pʰæ˧˥/"/>
-		<NOTE xml:lang="fr" message="&lt;kwɤ˩-pi˧…&gt;: erreur; il faut dire: /pæ˧kʰwɤ#˥/, autre terme pour 'pièce d'argent'"/>
-		<NOTE xml:lang="fr" message="note: /-lɑ/ 'seulement' ici n'implique pas que ce soit bon marché, mais indique que cela valait précisément cette somme. Paraphrase: c'était ça le prix, un point c'est tout."/>
+		<NOTE xml:lang="fr"
+			message="&lt;kwɤ˩-pi˧…&gt;: erreur; il faut dire: /pæ˧kʰwɤ#˥/, autre terme pour 'pièce d'argent'"/>
+		<NOTE xml:lang="fr"
+			message="note: /-lɑ/ 'seulement' ici n'implique pas que ce soit bon marché, mais indique que cela valait précisément cette somme. Paraphrase: c'était ça le prix, un point c'est tout."/>
 		<TRANSL xml:lang="fr">Un lot de dix bols, ça valait deux yuan d'argent, autrefois! Deux pièces d'argent!</TRANSL>
 	</S>
 	<S id="CaravansS257">
 		<AUDIO start="1374.7854" end="1378.0117"/>
-		<FORM>tʰi˩˥ | no˧˥, | qʰɑ˩ne˩˥ | pʰv̩˧-ɖɯ˧ ɲi˥, ◊ ə˩-gi˩! | pʰv̩˧ʐɯ˧ | ʐwæ˩˥, ◊ ə˩-gi˩! |</FORM>
+		<FORM>tʰi˩˥ | no˧˥, | qʰɑ˩ne˩˥ | pʰv̩˧-ɖɯ˧ ɲi˥, ◊ ə˩-gi˩! | pʰv̩˧ʐɯ˧ | ʐwæ˩˥, ◊ ə˩-gi˩!
+			|</FORM>
 		<TRANSL xml:lang="fr">C'était vraiment cher, n'est-ce pas! C'était très coûteux, n'est-ce pas!</TRANSL>
 	</S>
 	<S id="CaravansS258">
@@ -1605,7 +1759,9 @@
 	</S>
 	<S id="CaravansS261">
 		<AUDIO start="1402.5001" end="1409.7074"/>
-		<FORM>le˧-gwɤ˩~gwɤ˩, | le˧-gwɤ˩~gwɤ˩, | le˧-gwɤ˩~gwɤ˩-dʑo˩, | dʑi˧hṽ̩˧-ʈʂʰɯ˧, | ze˩-bæ˧ &lt;ho˥ʂɯ˩&gt; ho˥, | ze˩-bæ˧ &lt;mɤ˧-ho˥ʂɯ˩-hĩ˩-ʈʂʰɯ˩&gt; | mɤ˧-ho˩-hĩ˩-ʈʂʰɯ˩, | le˧-sɯ˥[-kwɤ˩tɕɯ˩-lɑ˩] | tʰi˩˥ | le˧-hwæ˥~hwæ˩! |</FORM>
+		<FORM>le˧-gwɤ˩~gwɤ˩, | le˧-gwɤ˩~gwɤ˩, | le˧-gwɤ˩~gwɤ˩-dʑo˩, | dʑi˧hṽ̩˧-ʈʂʰɯ˧, | ze˩-bæ˧
+			&lt;ho˥ʂɯ˩&gt; ho˥, | ze˩-bæ˧ &lt;mɤ˧-ho˥ʂɯ˩-hĩ˩-ʈʂʰɯ˩&gt; | mɤ˧-ho˩-hĩ˩-ʈʂʰɯ˩, |
+			le˧-sɯ˥[-kwɤ˩tɕɯ˩-lɑ˩] | tʰi˩˥ | le˧-hwæ˥~hwæ˩! |</FORM>
 		<NOTE xml:lang="fr" message="ce vêtement te va? /ə˩-ho˩˥?/"/>
 		<NOTE xml:lang="fr" message="/mɤ˧-ho˩ʂɯ˩/: emprunt chinois: 不合适"/>
 		<TRANSL xml:lang="fr">On se promenait encore et encore; alors, les vêtements, [on regardait] lequel (vous) va bien, lequel ne (vous) va pas bien; quand on avait bien décidé (littéralement "quand on savait"), on achetait!</TRANSL>
@@ -1617,12 +1773,14 @@
 	</S>
 	<S id="CaravansS263">
 		<AUDIO start="1413.4021" end="1416.7846"/>
-		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥… | ʐwæ˧ tɕɯ˩-hĩ˩-ʈʂʰɯ˩, | qʰɑ˩ne˩˥ | ʈʰi˩-kv̩˩˥ ◊ -mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
+		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈʂʰɯ˧ne˧-ʝi˥… | ʐwæ˧ tɕɯ˩-hĩ˩-ʈʂʰɯ˩, | qʰɑ˩ne˩˥ | ʈʰi˩-kv̩˩˥ ◊ -mæ˩, |
+			ə˧ʝi˧-ʂɯ˥ʝi˩! |</FORM>
 		<TRANSL xml:lang="fr">Autrefois, c'est comme ça que… Les gens qui conduisaient les caravanes, qu'est-ce que c'était épuisant [comme travail], autrefois!</TRANSL>
 	</S>
 	<S id="CaravansS264">
 		<AUDIO start="1417.6302" end="1424.9415"/>
-		<FORM>tʰi˩˥, | mv̩˩zɯ˩-ni˥mi˩=ɻæ˩ dʑo˩-hĩ˩-dʑo˩, | hĩ˧=ɻæ˥… | "ʈʂʰɯ˧, mv̩˩zɯ˩-ʝi˥-hĩ˩ ʈʂʰɯ˩-v̩˩, | ʐwæ˧ tɕɯ˩-hɯ˩! | hɤ˩˥ | ʐwæ˩˥!" | pi˧-zo˩. |</FORM>
+		<FORM>tʰi˩˥, | mv̩˩zɯ˩-ni˥mi˩=ɻæ˩ dʑo˩-hĩ˩-dʑo˩, | hĩ˧=ɻæ˥… | "ʈʂʰɯ˧,
+			mv̩˩zɯ˩-ʝi˥-hĩ˩ ʈʂʰɯ˩-v̩˩, | ʐwæ˧ tɕɯ˩-hɯ˩! | hɤ˩˥ | ʐwæ˩˥!" | pi˧-zo˩. |</FORM>
 		<TRANSL xml:lang="fr">Tous les frères et sœurs… on disait: "Lui, votre frère, il est parti en caravane! C'est [quelqu'un de] remarquable!"</TRANSL>
 	</S>
 	<S id="CaravansS265">
@@ -1632,7 +1790,8 @@
 	</S>
 	<S id="CaravansS266">
 		<AUDIO start="1428.3500" end="1432.6302"/>
-		<FORM>tʰi˩˥, | ʐwæ˧ tɕɯ˩-hĩ˩ &lt;mɤ˩-di˩&gt; [mɤ˧-dʑo˩]-hĩ˩-ʈʂʰɯ˩-dʑo˩, | pʰi˧! | pʰi˩-ʈʰæ˩qʰwɤ˥-lɑ˩ ki˩-ɲi˩-mv̩˩!</FORM>
+		<FORM>tʰi˩˥, | ʐwæ˧ tɕɯ˩-hĩ˩ &lt;mɤ˩-di˩&gt; [mɤ˧-dʑo˩]-hĩ˩-ʈʂʰɯ˩-dʑo˩, | pʰi˧! |
+			pʰi˩-ʈʰæ˩qʰwɤ˥-lɑ˩ ki˩-ɲi˩-mv̩˩!</FORM>
 		<TRANSL xml:lang="fr">[Tandis que] celles qui n'avaient pas de caravaniers [dans la famille], [elles devaient se contenter du] lin! On ne leur donnait que des jupes en lin! (=de confection locale, à Yongning)</TRANSL>
 	</S>
 	<S id="CaravansS267">
@@ -1642,31 +1801,37 @@
 	</S>
 	<S id="CaravansS268">
 		<AUDIO start="1437.3136" end="1441.0083"/>
-		<FORM>no˧ | zo˩no˥ | sɑ˧ ɲi˥-kv̩˩-mɤ˩-ho˩, | zo˧mv̩˥-dʑo˩! | zo˩no˥, | njæ˧sɯ˩kv̩˩, | nɑ˩ ɲi˥-pi˩-bi˩-bi˩! |</FORM>
-		<NOTE xml:lang="fr" message="tournure -pi˩-bi˩-bi˩: veut dire 'bien que, quoique, en dépit du fait que…'"/>
+		<FORM>no˧ | zo˩no˥ | sɑ˧ ɲi˥-kv̩˩-mɤ˩-ho˩, | zo˧mv̩˥-dʑo˩! | zo˩no˥, | njæ˧sɯ˩kv̩˩, | nɑ˩
+			ɲi˥-pi˩-bi˩-bi˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="tournure -pi˩-bi˩-bi˩: veut dire 'bien que, quoique, en dépit du fait que…'"/>
 		<TRANSL xml:lang="fr">Toi… aujourd'hui, ils ne savent plus filer le chanvre, les enfants (=les jeunes)! Aujourd'hui, bien que nous on soit des Na[, les jeunes ont perdu ces techniques qui nous appartenaient]!</TRANSL>
 	</S>
 	<S id="CaravansS269">
 		<AUDIO start="1441.4246" end="1444.0915"/>
-		<FORM>sɑ˧ pʰv̩˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩, | tʰi˩˥, | sɑ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tɕɯ˧ɭɯ˧ ɲi˥-wɤ˩! |</FORM>
+		<FORM>sɑ˧ pʰv̩˧-ʈʂʰɯ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩, | tʰi˩˥, | sɑ˧ | ʈʂʰɯ˧ne˧-ʝi˥ | tɕɯ˧ɭɯ˧ ɲi˥-wɤ˩!
+			|</FORM>
 		<NOTE xml:lang="fr" message="/tɕɯ˧ɭɯ˧/: enrouler; d'abord noté /‡tɕi˧ɭɯ˧/"/>
 		<TRANSL xml:lang="fr">Le chanvre blanchi, on le file comme ça; ensuite, le chanvre, on l'enroule comme ça [en bobines]!</TRANSL>
 	</S>
 	<S id="CaravansS270">
 		<AUDIO start="1444.3907" end="1448.5407"/>
-		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩! | le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩! |</FORM>
+		<FORM>ʈʂʰɯ˧ne˧-ʝi˥ | le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩! |
+			le˧-tɕɯ˧ɭɯ˧, | le˧-tɕɯ˧ɭɯ˧, | ʈʂʰɯ˧ne˧-ʝi˥ | le˧-ɲi˩! |</FORM>
 		<TRANSL xml:lang="fr">On l'enroule comme ça! On le file comme ça! On enroule, et on file!</TRANSL>
 	</S>
 	<S id="CaravansS271">
 		<AUDIO start="1448.9700" end="1450.9995"/>
 		<FORM>ɖɯ˧-hɑ̃˧-ɳɯ˥, | ʈʂʰɯ˧ne˧-ʝi˥ | qo˩tv̩˥ | ɖɯ˧-ɭɯ˧~ɖɯ˧-ɭɯ˧ ɲi˩! |</FORM>
 		<NOTE xml:lang="fr" message="on peut également dire: /ɖɯ˧-pɤ˩tv̩˩/; ou /ɖɯ˧-qo˥-lv̩˩ (vérifié à nouveau en 2015: n'est pas /‡ɭɯ˩/)"/>
-		<NOTE xml:lang="fr" message="/ɖɯ˧-hɑ̃˧-ɳɯ˥/: traduit ici comme 'toute la soirée'; littéralement, voudrait plutôt dire 'en une soirée'."/>
+		<NOTE xml:lang="fr"
+			message="/ɖɯ˧-hɑ̃˧-ɳɯ˥/: traduit ici comme 'toute la soirée'; littéralement, voudrait plutôt dire 'en une soirée'."/>
 		<TRANSL xml:lang="fr">Toute la soirée, on filait ainsi, bobine après bobine! [Note: le travail de filage et tissage se faisait le soir; pendant la journée, on veillait aux travaux des champs et aux travaux ménagers]</TRANSL>
 	</S>
 	<S id="CaravansS272">
 		<AUDIO start="1451.4158" end="1459.5207"/>
-		<FORM>tʰi˩˥, | əəə… le˧-ʈʂʰæ˥, | le˧-tɕɤ˧˥, | ə˧bo˧! | lo˧ hɑ˧ | ʐwæ˩-ɲi˥! | ʈʂʰɯ˧ne˧-ʝi˥ | tʰi˩˥, | ɖɯ˧-kʰv̩˧-qo˥ | ʈʰæ˧qʰwɤ˧ | &lt;ɲi˧-ɭɯ˧ ʐ…&gt; ɖɯ˧-ɭɯ˧ ʐv̩˥-dʑo˩, |</FORM>
+		<FORM>tʰi˩˥, | əəə… le˧-ʈʂʰæ˥, | le˧-tɕɤ˧˥, | ə˧bo˧! | lo˧ hɑ˧ | ʐwæ˩-ɲi˥! | ʈʂʰɯ˧ne˧-ʝi˥ |
+			tʰi˩˥, | ɖɯ˧-kʰv̩˧-qo˥ | ʈʰæ˧qʰwɤ˧ | &lt;ɲi˧-ɭɯ˧ ʐ…&gt; ɖɯ˧-ɭɯ˧ ʐv̩˥-dʑo˩, |</FORM>
 		<TRANSL xml:lang="fr">On lavait [le lin], on [le] faisait bouillir… Aïïïïïïïïïïe, qu'est-ce que c'était fatigant! Ainsi, en une année, on confectionnait une [seule] jupe!</TRANSL>
 	</S>
 	<S id="CaravansS273">
@@ -1680,66 +1845,85 @@
 		<FORM>tsʰɤ˧˥ ◊ -ɲi˩ wɤ˩! | ʈʂʰɯ˧ne˧-ʝi˥, | tʰi˩˥, | ʁɑ˩ʂɯ˧ | mv̩˧-v̩˩-tʰv̩˩ ɲi˩! |</FORM>
 		<NOTE xml:lang="fr" message="tournure /mv̩˧-v̩˩-tʰv̩˩/: à examiner plus en détail"/>
 		<NOTE xml:lang="fr" message="pensais d'abord à un emprunt chinois: 还是, prononcé /‡hæ˩ʂɯ˧/; corrigé ensuite (juillet 2012) en: /ʁɑ˩ʂɯ˧/, mot na."/>
-		<TRANSL xml:lang="fr">Ca frotte [durement contre la peau]! [Mais] on met quand même ce vêtement[, si on n'a pas le choix]!</TRANSL>
+		<TRANSL xml:lang="fr">Ca frotte [durement contre la peau]! [Mais] on met quand même ce vêtement[, si on n'a pas le choix]! </TRANSL>
 	</S>
 	<S id="CaravansS275">
 		<AUDIO start="1467.9229" end="1472.8899"/>
-		<FORM>tʰi˩˥, | ʝi˧kʰv̩˥ | ʂe˧ʈʂe˩ | hwæ˧ le˧-po˧-tsʰɯ˧˥, | ʂe˧ʈʂe˩-ʈʰæ˩qʰwɤ˩ ʈʂʰɯ˩-ɭɯ˩ | -dʑo˩, | dʑi˧ qæ˧-di˧ ʝi˥! | lo˧ ʝi˧, | tʰɑ˧-mv̩˧! |</FORM>
+		<FORM>tʰi˩˥, | ʝi˧kʰv̩˥ | ʂe˧ʈʂe˩ | hwæ˧ le˧-po˧-tsʰɯ˧˥, | ʂe˧ʈʂe˩-ʈʰæ˩qʰwɤ˩ ʈʂʰɯ˩-ɭɯ˩ |
+			-dʑo˩, | dʑi˧ qæ˧-di˧ ʝi˥! | lo˧ ʝi˧, | tʰɑ˧-mv̩˧! |</FORM>
 		<TRANSL xml:lang="fr">Certains achetaient des tissus de coton et les ramenaient; la jupe en coton, on s'en servait comme vêtement pour se changer (=comme vêtement pour les grandes occasions)! Il ne fallait pas la porter quand on travaillait[, pour ne pas l'abîmer]!</TRANSL>
 	</S>
 	<S id="CaravansS276">
 		<AUDIO start="1474.0424" end="1482.3737"/>
-		<FORM>õ˧ʈʂʰɯ˧ne˧-ʝi˥ | hĩ˧ ʝi˧! | əəə… ʐwæ˧ tɕɯ˩-zo˩ ʈʂʰɯ˩-dʑo˩, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ | le˧-hɑ̃˧˥, | le˧-hɑ̃˧˥, | zo˩qo˧ tʰv̩˧-ɻ̩˧, | mv̩˩tsʰo˩˥ | le˧-dɑ˧˥, | si˧ le˧-gv̩˥, | ə˧so˧ tʰv̩˧-v̩˧ pi˧-ni˧˥, |</FORM>
+		<FORM>õ˧ʈʂʰɯ˧ne˧-ʝi˥ | hĩ˧ ʝi˧! | əəə… ʐwæ˧ tɕɯ˩-zo˩ ʈʂʰɯ˩-dʑo˩, | dʑɯ˩-nɑ˩mi˩-ʁo˩˥ |
+			le˧-hɑ̃˧˥, | le˧-hɑ̃˧˥, | zo˩qo˧ tʰv̩˧-ɻ̩˧, | mv̩˩tsʰo˩˥ | le˧-dɑ˧˥, | si˧ le˧-gv̩˥, |
+			ə˧so˧ tʰv̩˧-v̩˧ pi˧-ni˧˥, |</FORM>
 		<NOTE xml:lang="fr" message="mv̩˩tsʰo˩: bois gorgé de résine, pour faire partir le feu"/>
 		<NOTE xml:lang="fr" message="avant 2016 : noté /‡dʑɯ˩-nɑ˩mi˩-ʁo˥/"/>
-		<NOTE xml:lang="fr" message="si˧gv̩˧ (&gt;si˧ | le˧-gv̩˥): 'faire du bois, couper du bois'; on peut aussi dire: si˧tɕɯ˩ , quand on ramène le bois à dos de cheval"/>
+		<NOTE xml:lang="fr"
+			message="si˧gv̩˧ (&gt;si˧ | le˧-gv̩˥): 'faire du bois, couper du bois'; on peut aussi dire: si˧tɕɯ˩ , quand on ramène le bois à dos de cheval"/>
 		<TRANSL xml:lang="fr">Voilà comment on faisait/on se comportait! Les hommes qui partaient en caravane, ils dormaient sur la montagne; là où ils étaient parvenus, ils coupaient du petit bois, celui dont on parlait tout à l'heure [allusion à une conversation de ce matin-là au sujet d'un des oncles de la narratrice]</TRANSL>
 	</S>
 	<S id="CaravansS277">
 		<AUDIO start="1482.3737" end="1489.6183"/>
-		<FORM>ɲi˧-kv̩˧˥ | tɕʰo˧~tɕʰo˥ bi˩, | ɖɯ˧-v̩˧-dʑo˧, | mv̩˩tsʰo˩ dɑ˥, | ɖɯ˧-v̩˧-dʑo˧, | si˧ ʂe˩. | ɖɯ˧-v̩˧-dʑo˧, | dʑɯ˧ ʑi˧! | ɖɯ˧-v̩˧-dʑo˧, | hɑ˧ tɕɤ˩! |</FORM>
+		<FORM>ɲi˧-kv̩˧˥ | tɕʰo˧~tɕʰo˥ bi˩, | ɖɯ˧-v̩˧-dʑo˧, | mv̩˩tsʰo˩ dɑ˥, | ɖɯ˧-v̩˧-dʑo˧, | si˧
+			ʂe˩. | ɖɯ˧-v̩˧-dʑo˧, | dʑɯ˧ ʑi˧! | ɖɯ˧-v̩˧-dʑo˧, | hɑ˧ tɕɤ˩! |</FORM>
 		<TRANSL xml:lang="fr">On y allait à deux, ensemble; l'un coupait du bois gorgé de sève pour faire partir le feu [note: il n'est pas facile de repérer les arbres qui présentent cette propriété]; l'autre cherchait du bois [ordinaire]. Un autre [allait] chercher de l'eau! Un autre faisait cuire la nourriture!</TRANSL>
 	</S>
 	<S id="CaravansS278">
 		<AUDIO start="1489.6183" end="1493.8663"/>
-		<FORM>æ˧ʂæ˧-tɑ˩mv̩˩… | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩-mæ˩! | ɑ˩ʁo˧… | mv̩˩zo˩=ɻæ˩-ɳɯ˥ | le˧-ʈʂæ˧, | gɤ˩-mɤ˧-ʈi˩: |</FORM>
-		<NOTE xml:lang="fr" message="le˧-ʈʂæ˧: on les envoyait; vérifié: est /ʈʂæ˧-kv̩˧˥/ et non /‡ʈʂæ˧-kv̩˥/"/>
-		<NOTE xml:lang="fr" message="Sens de /gɤ˩-mɤ˧-ʈi˩/ vérifié: lorsque LES ENFANTS ne voulaient pas se lever."/>
+		<FORM>æ˧ʂæ˧-tɑ˩mv̩˩… | ʈʂʰɯ˧ne˧-ʝi˥ | pi˧-kv̩˩-mæ˩! | ɑ˩ʁo˧… | mv̩˩zo˩=ɻæ˩-ɳɯ˥ | le˧-ʈʂæ˧,
+			| gɤ˩-mɤ˧-ʈi˩: |</FORM>
+		<NOTE xml:lang="fr"
+			message="le˧-ʈʂæ˧: on les envoyait; vérifié: est /ʈʂæ˧-kv̩˧˥/ et non /‡ʈʂæ˧-kv̩˥/"/>
+		<NOTE xml:lang="fr"
+			message="Sens de /gɤ˩-mɤ˧-ʈi˩/ vérifié: lorsque LES ENFANTS ne voulaient pas se lever."/>
 		<TRANSL xml:lang="fr">Dans les coutumes d'antan… voilà comment on parlait: à la maison, les enfants, on leur donnait des ordres, quand ils ne voulaient pas se lever:</TRANSL>
 	</S>
 	<S id="CaravansS279">
 		<AUDIO start="1493.8663" end="1502.0659"/>
-		<FORM>"&lt;ʐwæ˧-se…&gt;ʐɤ˩ se˩-zo˩-ni˥, | ɖɯ˧-v̩˧ si˧ ʑi˧ hõ˧˥! | əəə… ɖɯ˧-v̩˧ dʑɯ˩ qwæ˩-hõ˩˥! | ɖɯ˧-v̩˧, | mv̩˧ kʰɯ˩-hõ˩!" | pi˧-zo˩, | ə˧mi˧=ɻæ˩-ɳɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂæ˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
+		<FORM>"&lt;ʐwæ˧-se…&gt;ʐɤ˩ se˩-zo˩-ni˥, | ɖɯ˧-v̩˧ si˧ ʑi˧ hõ˧˥! | əəə… ɖɯ˧-v̩˧ dʑɯ˩
+			qwæ˩-hõ˩˥! | ɖɯ˧-v̩˧, | mv̩˧ kʰɯ˩-hõ˩!" | pi˧-zo˩, | ə˧mi˧=ɻæ˩-ɳɯ˩, | ʈʂʰɯ˧ne˧-ʝi˥ | ʈʂæ˧-kv̩˧˥ ◊ -mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">"Maintenant vous allez faire comme les caravaniers! Y'en a un qui va chercher du bois! Y'en a un qui va puiser de l'eau! Y'en a un qui va faire le feu!"Voilà comment elles les envoyaient [chacun effectuer une certaine tâche]!</TRANSL>
 	</S>
 	<S id="CaravansS280">
 		<AUDIO start="1502.0659" end="1506.1602"/>
-		<FORM>ʐɤ˩ se˩-zo˩ ʈʂʰɯ˩-tɕi˥, | ɖwæ˧˥ | nɑ˧mi˧ tʰv̩˧-ɲi˥, | ə˧ʝi˧-ʂɯ˥ʝi˩! | ʐ… ʐwæ˧ tɕɯ˩-hĩ˩ ʈʂʰɯ˩-dʑo˩! |</FORM>
+		<FORM>ʐɤ˩ se˩-zo˩ ʈʂʰɯ˩-tɕi˥, | ɖwæ˧˥ | nɑ˧mi˧ tʰv̩˧-ɲi˥, | ə˧ʝi˧-ʂɯ˥ʝi˩! | ʐ… ʐwæ˧
+			tɕɯ˩-hĩ˩ ʈʂʰɯ˩-dʑo˩! |</FORM>
 		<NOTE xml:lang="fr" message="on pourrait également dire: /ɖwæ˧˥ | nɑ˧mi˧ tʰv̩˧-kv̩˩/"/>
-		<TRANSL xml:lang="fr">Ceux qui parcouraient les chemins, ils couraient toutes sortes de dangers! / il pouvait vraiment leur arriver malheur! Ceux qui partaient en caravane!</TRANSL>
+		<TRANSL xml:lang="fr">Ceux qui parcouraient les chemins, ils couraient toutes sortes de dangers! / il pouvait vraiment leur arriver malheur! Ceux qui partaient en caravane! </TRANSL>
 	</S>
 	<S id="CaravansS281">
 		<AUDIO start="1506.5444" end="1511.0997"/>
-		<FORM>ʐwæ˧-ʈʂʰɯ˧-dʑo˩ | tʰi˩˥, | no˧ | ɖɯ˧-v̩˧, | ɲi˧-kv̩˧-lɑ˥ mɤ˩-ɲi˩-mæ˩! | ʐwæ˧-ʈʂʰɯ˧, | ɲi˧tsi˧, | so˧tsʰi˧! |</FORM>
+		<FORM>ʐwæ˧-ʈʂʰɯ˧-dʑo˩ | tʰi˩˥, | no˧ | ɖɯ˧-v̩˧, | ɲi˧-kv̩˧-lɑ˥ mɤ˩-ɲi˩-mæ˩! | ʐwæ˧-ʈʂʰɯ˧, |
+			ɲi˧tsi˧, | so˧tsʰi˧! |</FORM>
 		<TRANSL xml:lang="fr">C'est que les chevaux, tu n'en avais pas qu'un ou deux [à t'occuper]! Les chevaux, il y en avait vingt, trente!</TRANSL>
 	</S>
 	<S id="CaravansS282">
 		<AUDIO start="1512.2083" end="1515.9294"/>
-		<FORM>ʈʂʰɯ˧ | wɤ-ɕjɤ-ɕjɤ!! | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | ʐwæ˧-ʈʂʰɯ˧ | õ˧-bv̩˥-õ˩ le˩-jo˩-kv̩˩-mæ˩! |</FORM>
-		<TRANSL xml:lang="fr">Quand [le caravanier leur criait:] "wɤ-ɕjɤ-ɕjɤ!", les chevaux venaient d'eux-mêmes!</TRANSL>
+		<FORM>ʈʂʰɯ˧ | wɤ-ɕjɤ-ɕjɤ!! | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | ʐwæ˧-ʈʂʰɯ˧ | õ˧-bv̩˥-õ˩
+			le˩-jo˩-kv̩˩-mæ˩! |</FORM>
+		<TRANSL xml:lang="fr">Quand [le caravanier leur criait:] "wɤ-ɕjɤ-ɕjɤ!", les chevaux venaient d'eux-mêmes! </TRANSL>
 	</S>
 	<S id="CaravansS283">
 		<AUDIO start="1516.6429" end="1523.8985"/>
-		<FORM>tʰi˩˥, | ʐwæ˧ | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧ dʑo˧, | kʰɤ˧gɤ˧ mv̩˧ʈʂæ˧ kv̩˧˥ ◊ -mæ˩! | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧, | ɻ̩˩pɑ˧ mv̩˧ʈʂæ˧ kv̩˧˥ ◊ -mæ˩! | tʰv̩˧-ɲi˥-kv̩˩-bv̩˩ | mv̩˧ ɻwæ˩-kwɤ˩tɕɯ˩-lɑ˩, | ɖɯ˧-tɑ˧˥ | le˧-jo˩-kv̩˩-ɲi˩! |</FORM>
-		<NOTE xml:lang="fr" message="/kʰɤ˧gɤ˧/, ton M: nom d'un cheval; autre nom: /ʁwɤ˩lɑ˧/ (ton: LM); hwɤ˧tɕo˩: nom pour une mule; /ɻ̩˩pɑ˧/: nom pour un cheval; /hwɤ˧mi˩/: pour une mule de grand prix."/>
+		<FORM>tʰi˩˥, | ʐwæ˧ | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧ dʑo˧, | kʰɤ˧gɤ˧ mv̩˧ʈʂæ˧ kv̩˧˥ ◊ -mæ˩! |
+			ɖɯ˧-v̩˧~ɖɯ˧-v̩˧, | ɻ̩˩pɑ˧ mv̩˧ʈʂæ˧ kv̩˧˥ ◊ -mæ˩! | tʰv̩˧-ɲi˥-kv̩˩-bv̩˩ | mv̩˧
+			ɻwæ˩-kwɤ˩tɕɯ˩-lɑ˩, | ɖɯ˧-tɑ˧˥ | le˧-jo˩-kv̩˩-ɲi˩! |</FORM>
+		<NOTE xml:lang="fr"
+			message="/kʰɤ˧gɤ˧/, ton M: nom d'un cheval; autre nom: /ʁwɤ˩lɑ˧/ (ton: LM); hwɤ˧tɕo˩: nom pour une mule; /ɻ̩˩pɑ˧/: nom pour un cheval; /hwɤ˧mi˩/: pour une mule de grand prix."/>
 		<TRANSL xml:lang="fr">Les chevaux, certains d'entre eux avaient comme nom /kʰɤ˧gɤ˧/! D'autres s'appelaient /ɻ̩˩pɑ˧/! Quand on criait les noms de ces deux-là (=ces deux noms), tous les chevaux venaient! [Explication: tous les chevaux accouraient, parce que la plupart d'entre eux portait l'un ou l'autre de ces deux noms; entre nom commun et nom propre: nom choisi pour l'animal, mais parmi un répertoire si restreint qu'il s'approche d'un nom commun]</TRANSL>
 	</S>
 	<S id="CaravansS284">
 		<AUDIO start="1524.8315" end="1534.0519"/>
-		<FORM>tʰi˩˥, | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧-ɳɯ˧, | ʐwæ˧-ʈʂʰɯ˧… | qo˩qɑ˩-ʁo˥ | tʰi˧-hĩ˧˥, | "wɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ!" pi˧-kwɤ˩tɕɯ˩-lɑ˩, | nv̩˧tv̩˥-ʈʂʰɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-tɕi˧~tɕi˧ ki˩; | ʁɑ˩ʂɯ˥ | hĩ˧ | le˧-so˩ | kv̩˧-zo˥ | tʰi˩˥, | dʑɤ˩˥ | ʂe˧-bi˧-zo˧, | mɤ˧-kv̩˧˥! |</FORM>
-		<NOTE xml:lang="fr" message="nv̩˧tv̩˥: sacoche qu'on suspendait sur la tête du cheval (juste derrière les oreilles), et dans laquelle on lui donnait des céréales à manger "/>
+		<FORM>tʰi˩˥, | ɖɯ˧-v̩˧~ɖɯ˧-v̩˧-ɳɯ˧, | ʐwæ˧-ʈʂʰɯ˧… | qo˩qɑ˩-ʁo˥ | tʰi˧-hĩ˧˥, |
+			"wɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ!" pi˧-kwɤ˩tɕɯ˩-lɑ˩, | nv̩˧tv̩˥-ʈʂʰɯ˩ | ʈʂʰɯ˧ne˧-ʝi˥ |
+			ɖɯ˧-tɕi˧~tɕi˧ ki˩; | ʁɑ˩ʂɯ˥ | hĩ˧ | le˧-so˩ | kv̩˧-zo˥ | tʰi˩˥, | dʑɤ˩˥ | ʂe˧-bi˧-zo˧,
+			| mɤ˧-kv̩˧˥! |</FORM>
+		<NOTE xml:lang="fr"
+			message="nv̩˧tv̩˥: sacoche qu'on suspendait sur la tête du cheval (juste derrière les oreilles), et dans laquelle on lui donnait des céréales à manger "/>
 		<NOTE xml:lang="fr" message="pensais d'abord à un emprunt chinois: 还是, prononcé /‡hæ˩ʂɯ˧/; corrigé ensuite (juillet 2012) en: /ʁɑ˩ʂɯ˧/, mot na."/>
-		<TRANSL xml:lang="fr">Certains d'entre eux, les chevaux… [Quand un homme] se tenait debout au col, qu'il appelait: "wɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ!", en secouant la sacoche à céréales, comme ça [note: il s'agissait d'une sacoche qu'on suspendait à la tête du cheval, et dans laquelle on lui donnait des céréales à manger]… comme les hommes lui avaient appris, qu'il connaissait les règles/ avait de bonnes habitudes, il n'était guère la peine d'aller le chercher / ce n'était pas la peine de courir après[, il venait de lui-même]!</TRANSL>
+		<TRANSL xml:lang="fr">Certains d'entre eux, les chevaux… [Quand un homme] se tenait debout au col, qu'il appelait: "wɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ-ɕjɤ!", en secouant la sacoche à céréales, comme ça [note: il s'agissait d'une sacoche qu'on suspendait à la tête du cheval, et dans laquelle on lui donnait des céréales à manger]… comme les hommes lui avaient appris, qu'il connaissait les règles/ avait de bonnes habitudes, il n'était guère la peine d'aller le chercher / ce n'était pas la peine de courir après[, il venait de lui-même]! </TRANSL>
 	</S>
 	<S id="CaravansS285">
 		<AUDIO start="1534.2604" end="1544.2492"/>
@@ -1756,13 +1940,14 @@
 	<S id="CaravansS287">
 		<AUDIO start="1547.1967" end="1553.3876"/>
 		<FORM>ə˧ʝi˧-ʂɯ˥ʝi˩-dʑo˩ | tʰi˩˥, | no˧ | ʈʂʰɤ˧tsɯ˧ | mɤ˧-tʰo˥! | ʈʰææ̃˧ | ʐwæ˧ tɕɯ˩-lɑ˩ ɲi˩-mæ˩! | ʐwæ˧ tɕɯ˩-zo˩, | ɖwæ˧˥ | ʈʰi˩˥, ◊ ə˩-gi˩! |</FORM>
-		<NOTE xml:lang="fr" message="emprunt de deux mots chinois: 不通车: 车子 pour 'véhicule', et 通 'passer, parvenir, traverser'."/>
-		<TRANSL xml:lang="fr">Autrefois, toi, … y'avait pas de véhicules/[la région] n'était pas accessible aux véhicules! On n'avait vraiment que les caravanes! Les caravaniers, ils étaient épuisés / ils faisaient un travail épuisant, n'est-ce pas!</TRANSL>
+		<NOTE xml:lang="fr"
+			message="emprunt de deux mots chinois: 不通车: 车子 pour 'véhicule', et 通 'passer, parvenir, traverser'."/>
+		<TRANSL xml:lang="fr">Autrefois, toi, … y'avait pas de véhicules/[la région] n'était pas accessible aux véhicules! On n'avait vraiment que les caravanes! Les caravaniers, ils étaient épuisés / ils faisaient un travail épuisant, n'est-ce pas! </TRANSL>
 	</S>
 	<S id="CaravansS288">
 		<AUDIO start="1554.0571" end="1555.3304"/>
 		<FORM>õ˧tʰv̩˧ne˧ gv̩˧-ɲi˥-tsɯ˩! |</FORM>
 		<TRANSL xml:lang="fr">Voilà comment ça se passait, à ce qu'on dit!</TRANSL>
 	</S>
-	<TRANSL xml:lang="fr"/>
+	<TRANSL xml:lang="fr"></TRANSL>
 </TEXT>
