@@ -3658,6 +3658,27 @@
 \txt BuriedAlive3.65
 \doi 10.24397/pangloss-0004539#S65
 
+\lx fv̩
+\or fu
+\ps ideophone
+\lc fv̩!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Sound of an object sliding rapidly along a rope, e.g. a shuttle to cross the Yangtze River: ‘Swish!’, ‘Whoosh!’, ‘Whizz!’
+\ge |fg{ideo}.‘Whizz!’
+\dn 形声词：物体沿绳索快速滑动的声音，如横渡长江用的竹子工具：‘唰！’、‘嗖！’、‘咝！’。
+\gn 啵！
+\df Bruit d'un objet qui glisse à toute vitesse le long d'une corde, par exemple une navette de bambou coulissant le long d'une corde pour traverser le Yangtzé: «Vzzzt!», «Zzzuip!»
+\gf |fg{ideo}.Vzzzt!
+\xv ʈʂʰɯ˧ne˧-ʝi˥ | mv̩˩tɕo˧ ɖʐɤ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩ | tʰi˩˥, | æ̃˩ʁv̩˩-ʈʂʰɯ˥, | pɑ! pi˧, | gɤ˩-pʰi˧ le˧-tsʰɯ˧-ɲi˥-tsɯ˩ ◊ -mv̩˩!
+\xe As he grabbed her again like this [squeezing her chest], well… it made her spit out the egg, plop!
+\xn 他又拉了一下，这时候鸡蛋就都被吐出来了：“啵！”
+\xf Comme il la saisissait à nouveau comme ceci [comprimant sa poitrine], eh bien… l'œuf, plop! il a été recraché!
+\txt BuriedAlive3.65
+\doi 10.24397/pangloss-0004539#S65
+
 \lx hwɑ.lɑ~hwɑ.lɑ~hwɑ.lɑ
 \or huala-huala-huala
 \bw <langue="cmn"> 哗啦
