@@ -1769,7 +1769,7 @@
 \pdc <langue="fra"> |fg{clf} pour un petit bout de corde
 \pdc <langue="eng"> |fg{clf} for a short piece of rope
 \pdc <langue="cmn"> |fg{量词}：一小段绳子
-\pdv ɖæ˩α
+\pdv ɖæ˩α2
 \pdc <langue="fra"> |fg{clf} pour une section de corde, qui peut aller jusqu'à plusieurs mètres
 \pdc <langue="eng"> |fg{clf} for a section of rope (up to several meters)
 \pdc <langue="cmn"> |fg{量词}：一段绳子（可以是几米长）
@@ -1985,7 +1985,7 @@
 \lc bæ˩bæ˩˥
 \so F4
 \va <speaker="M21"> ID.
-\pdv bæ˩α
+\pdv bæ˩α3
 \de Flower.
 \ge flower
 \dn 花
@@ -5415,7 +5415,7 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
-\pdv kwɤ˩α
+\pdv kwɤ˩α3
 \pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
 \pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
 \pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
@@ -10515,7 +10515,7 @@
 \sd <langue="eng"> plant
 \ton LM-L
 \so F4
-\pdv bæ˩α
+\pdv bæ˩α3
 \de |fi{Artemisia suboligata}, a plant with medicinal properties (to treat digestive ailments). The name literally means “bees' flower”.
 \ge Artemisia_suboligata
 \dn 茶绒蒿，一种具有药用价值（治疗消化系统疾病）的植物。这个名词的字面意思是“蜜蜂花”。
@@ -33212,7 +33212,7 @@
 \ton H#
 \lc ɬi˧ŋv̩˥
 \so F4
-\pdv ŋv̩˩α
+\pdv ŋv̩˩α2
 \de Waist of the trousers.
 \ge waist_of_the_trousers
 \dn 裤子的上部分：腰部
@@ -33811,7 +33811,6 @@
 \xn 山谷里
 \xf dans la vallée
 \xc PHONO
-\dt 04/Sep/2015
 
 \lx lo˩˧
 \or loq
@@ -35616,7 +35615,7 @@
 \nt <type="hist" print="n" langue="fra"> (noté “lv̩˧dʑi˥, ton d4"; mais ˧ ˥ correspond à d7; vérifié en 2011: est bien d7) (n'est pas dʑɯ; confirmé en avril 2012)
 \ton H#
 \so F4
-\pdv ʈʂwɤ˧α
+\pdv ʈʂwɤ˧α2
 \pdc <langue="fra"> |fg{clf} des poignées
 \pdc <langue="eng"> |fg{clf} for handfuls
 \pdc <langue="cmn"> 一捧
@@ -36403,7 +36402,7 @@
 \va <speaker="M18"> ID.
 \vc <langue="fra" print="n"> d'abord noté /luə˩˥/; fortement diphtongué; n'est “absolument pas" /o/; M18 accepte d'abord l'analyse comme rime /wɤ/, puis remarque une différence. Sens: terme générique pour cendres de bois et de charbon
 \va <speaker="M21"> ID.
-\pdv ʈʂwɤ˧α
+\pdv ʈʂwɤ˧α2
 \pdc <langue="fra"> |fg{clf} des poignées
 \pdc <langue="eng"> |fg{clf} for handfuls
 \pdc <langue="cmn"> 一捧
@@ -55963,7 +55962,7 @@
 \va <speaker="M21"> ʁu˧ʈʂɤ˩
 \va <speaker="M23"> ʁu˧ʈʂɯ˩
 \sn 1
-\pdv kwɤ˩α
+\pdv kwɤ˩α3
 \pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
 \pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
 \pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
@@ -59710,7 +59709,7 @@
 \ton L#
 \lc si˧kwɤ˩
 \so F4
-\pdv kwɤ˩α
+\pdv kwɤ˩α3
 \pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
 \pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
 \pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
@@ -63109,7 +63108,7 @@
 \ton -L
 \lc ʂwɤ˧ljɤ˧kwɤ˩
 \so F4
-\pdv kwɤ˩α
+\pdv kwɤ˩α3
 \pdc <langue="fra"> |fg{clf} des ensembles d'objets tressés, enfilés ou liés ensemble
 \pdc <langue="eng"> |fg{clf} for sets of objects woven, threaded or tied together
 \pdc <langue="cmn"> 套、串的|fg{量词}：一组编织、穿线或捆绑在一起的物体
@@ -63964,7 +63963,7 @@
 \ton L
 \lc ʈʰæ˩ŋv̩˩˥
 \so F4
-\pdv ŋv̩˩α
+\pdv ŋv̩˩α2
 \de Waist of the skirt.
 \ge waist_of_the_skirt
 \dn 裙子的上部分：腰部
@@ -68510,7 +68509,7 @@
 \so F4
 \va <speaker="M21"> *
 \vc <langue="fra" print="n"> ɬu˧pv̩˥ +ɲi˩; refuse la formule “to˥kɤ˥ kʶæ˩di˩ bæ˩bæ˩˥, littéralement ‘fleur qui vous donne une chiquenaude au front"; kʶæ˩di˩˥ “donner une chiquenaude"
-\pdv bæ˩α
+\pdv bæ˩α3
 \de Plant with long filaments.
 \ge plant_sp
 \dn 永宁的一种植物
@@ -68993,7 +68992,7 @@
 \ton H#
 \lc tʰo˧ɻæ˥
 \so F4
-\pdv ʈʂwɤ˧α
+\pdv ʈʂwɤ˧α2
 \pdc <langue="fra"> |fg{clf} des poignées
 \pdc <langue="eng"> |fg{clf} for handfuls
 \pdc <langue="cmn"> 一捧
@@ -76771,7 +76770,6 @@
 \xf griffer des objets
 \xc PHONO
 
-
 \lx ʈʂwɤ˧α
 \sf <nb="B"> 858
 \sf <nb="2011"> 1257
@@ -79875,7 +79873,7 @@
 \vc <langue="eng" dom="dialect"> Daeshi Daedeu has an idiosyncratic pronunciation: he chose the designation /|fv{ʐɤ˩ bæ˩˥}/, `the path runs', as a poetic coinage to refer to a thunderbolt.
 \vc <langue="cmn" dom="dialect"> 拉他咪王勇创造了独特的说法：/|fv{ʐɤ˩ bæ˩˥}/‘路在跑’（可以视为诗人的创新）。
 \va <speaker="M21"> ID.
-\pdv bæ˩α
+\pdv bæ˩α3
 \de Flash of lightning, thunderbolt.
 \ge thunderbolt
 \dn 闪电、打闪电、霹雷

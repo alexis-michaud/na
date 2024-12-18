@@ -4,8 +4,8 @@ julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 
 (sans doute la même chose que : cloner, lancer julia avec juste --project, et faire ]instantiate )
 
-Conserver les fichiers toml : dans /github/na/DICTIONARY/fichiers_JLexika
-Conserver le sous-dossier "Lien vers image"
+Rapatrier les 2 fichiers toml à la racine du dossier JLexika. (Ces fichiers sont conservés dans /github/na/DICTIONARY/fichiers_JLexika. Il s'agit de : Manifest.toml, Project.toml)
+Rapatrier le sous-dossier "Lien vers image"
 
 
 Mettre à jour TeX Live :
@@ -16,6 +16,11 @@ Mettre à jour Julia:
 julia
 using Pkg
 Pkg.update()
+
+Il faut également :
+Pkg.instantiate()
+(ajout du 18 décembre 2024)
+
 
 Ajout testé par Alexis pour souci avec JLexika (erreur) le 10/11/2024:
 using Pkg
@@ -44,3 +49,6 @@ julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf -t 100
 '--forcer' après la commande pour recompiler le PDF dans tous les cas.
 
 Les informations des traductions des termes-clefs sont dans le fichier général.xsl, vers le bas.
+
+Lancé à 17h47 le 18 décembre 2024
+Relancé à 18h
