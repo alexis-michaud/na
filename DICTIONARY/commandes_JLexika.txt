@@ -7,6 +7,8 @@ julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 Rapatrier les 2 fichiers toml à la racine du dossier JLexika. (Ces fichiers sont conservés dans /github/na/DICTIONARY/fichiers_JLexika. Il s'agit de : Manifest.toml, Project.toml)
 Rapatrier le sous-dossier "Lien vers image"
 
+L'information de version est dans un fichier variables.tex
+\NewDocumentCommand \version {} {2.0.1}
 
 Mettre à jour TeX Live :
 https://tex.stackexchange.com/questions/540429/tlmgr-in-ubuntu-20-04-local-tex-live-2019-is-older-than-remote-repository-2
@@ -16,11 +18,6 @@ Mettre à jour Julia:
 julia
 using Pkg
 Pkg.update()
-
-Il faut également :
-Pkg.instantiate()
-(ajout du 18 décembre 2024)
-
 
 Ajout testé par Alexis pour souci avec JLexika (erreur) le 10/11/2024:
 using Pkg
@@ -51,4 +48,5 @@ julia --project exécuter.jl dictionnaires/na/configuration.yml --pdf -t 100
 Les informations des traductions des termes-clefs sont dans le fichier général.xsl, vers le bas.
 
 Lancé à 17h47 le 18 décembre 2024
-Relancé à 18h
+Relancé à 18h. Le français est compilé à 19h05, l'anglais à 19h35
+Relancé à 20h (avec numéro de version correct).

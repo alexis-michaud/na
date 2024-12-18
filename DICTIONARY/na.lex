@@ -31875,9 +31875,9 @@
 \sd <langue="eng"> given name
 \ton L
 \lc lɑ˩mɑ˩˥
-\nt <langue="fra" dom="comp"> S'il s'agissait d'un emprunt tibétain (ce qui n'a rien de sûr, s'agissant d'un nom de famille et non d'un prénom), il pourrait s'agir de Bla ma |tib{བླ་མ}.
-\nt <langue="eng" dom="comp"> In case this word is a Tibetan borrowing (which is by no means certain; it is a surname and not a first name), it could be from Bla ma |tib{བླ་མ}.
-\nt <langue="cmn" dom="comp"> 假如是藏语借词（这一点还不能确定），可能来自|tib{བླ་མ}。
+\nt <langue="fra" dom="ety"> S'il s'agissait d'un emprunt tibétain (ce qui n'a rien de sûr, s'agissant d'un nom de famille et non d'un prénom), il pourrait s'agir de Bla ma |tib{བླ་མ}.
+\nt <langue="eng" dom="ety"> In case this word is a Tibetan borrowing (which is by no means certain; it is a surname and not a first name), it could be from Bla ma |tib{བླ་མ}.
+\nt <langue="cmn" dom="ety"> 假如是藏语借词（这一点还不能确定），可能来自|tib{བླ་མ}。
 \so F4
 \de Lama, a clan name from Yongning. There are four families in Yongning that carry this name.
 \ge Lama
@@ -43755,7 +43755,7 @@
 \sd <langue="eng"> given name
 \ton -L
 \lc ʈæ˧ʂɯ˧no˩bv̩˩
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
+\nt <langue="fra" print="n" dom="ety"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \so F4
 \de Daeshi Nobbu, a masculine given name.
 \ge Daeshi_Nobbu
@@ -43776,7 +43776,7 @@
 \sd <langue="eng"> given name
 \ton LM
 \lc no˩bv̩˥tsʰɯ˩ɻ̩˩
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
+\nt <langue="fra" print="n" dom="ety"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \so F4
 \de Nobbu Ci'er, a masculine given name.
 \ge Nobbu_Ci'er
@@ -43795,7 +43795,7 @@
 \sd <langue="eng"> given name
 \ton LM
 \lc no˩bv̩˥
-\nt <langue="fra" print="n" dom="comp"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
+\nt <langue="fra" print="n" dom="ety"> La source de la transcription du nom en chinois, |fn{诺布}, est la transcription ordinaire en chinois du prénom tibétain. À vérifier: sont-ce bien ces deux caractères qui sont couramment utilisés pour le prénom na.
 \nt <type="hist" print="n" langue="fra" dom="ton"> avant juin 2012: noté ‡|fv{no˧bv̩˥}. Un argument en faveur de cette notation était qu'elle comporte un ton H, en mesure d'expliquer pourquoi, en composition, le prénom `Nobbu' abaisse le ton du prénom qui suit dans les prénoms composés: ainsi, le ton de |fv{tsʰɯ˧ɻ̩#˥} `Ci'er' se trouve abaissé en |fv{…-tsʰɯ˩ɻ̩˩} dans |fv{no˩bv̩˧-tsʰɯ˩ɻ̩˩}, ce qui indique la présence d'un ton H dans le premier prénom, et suggérait qu'il pourrait au fond s'agir d'un ‡|fv{no˧bv̩˥-tsʰɯ˩ɻ̩˩} ou ‡|fv{no˩bv̩˥-tsʰɯ˩ɻ̩˩}. Mais les règles tonales en composition nominale ne s'appliquent pas aux prénoms composés, puisque le nom Daeshi, qui porte un ton M, abaisse pareillement le ton du prénom qui suit dans les prénoms composés. Voir Michaud (2017: 144-147).
 \so F4
 \de Nobbu, a masculine given name.
@@ -43812,9 +43812,9 @@
 \sd <langue="eng"> given name
 \ton M
 \lc no˧no˧
-\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
-\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
-\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
+\nt <langue="fra" dom="ety"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="ety"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="ety"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \de Nono, a feminine given name.
 \ge Nono
 \dn 女性名字
@@ -43856,9 +43856,9 @@
 \lc no˧no˧ɖɯ˩mɑ˩
 \ton -L
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté no˧no˧-ɖv̩˩mɑ˩
-\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
-\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
-\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
+\nt <langue="fra" dom="ety"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Nono’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="ety"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Nono’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="ety"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘诺诺’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \so F4
 \de Nono Ddeema, a feminine given name.
 \ge Nono_Ddeema
@@ -67679,9 +67679,9 @@
 \sd <langue="eng"> given name
 \ton H#
 \so F4
-\nt <langue="fra" dom="comp"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Diddeo’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
-\nt <langue="eng" dom="comp"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Diddeo’, is no exception. But no plausible identification has yet been found.
-\nt <langue="cmn" dom="comp"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘棣嘟’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
+\nt <langue="fra" dom="ety"> Les prénoms des Na étant empruntés au tibétain, il est vraisemblable que celui-ci, ‘Diddeo’, ne fasse pas exception. Mais il n'a pas été trouvé d'identification plausible à ce jour.
+\nt <langue="eng" dom="ety"> As the given names of the Na are borrowed from Tibetan, it is likely that this one, ‘Diddeo’, is no exception. But no plausible identification has yet been found.
+\nt <langue="cmn" dom="ety"> 摩梭人的名字一般都是从藏语中借用过来的，因此‘棣嘟’这个名字很可能也不例外。但目前还没有找到可信的藏语名字来源。
 \de Diddeo, a masculine given name. For writing it in Chinese characters: since |fn{棣} and |fn{嘟} are not among the most commonly used characters, the simpler and more common characters |fn{定珠} are sometimes used.
 \ge Diddeo
 \dn 棣嘟：一个男性名字。由于‘棣’、‘嘟’并不是常用的字，因此有时会使用更简单、更常用的‘定珠’。
