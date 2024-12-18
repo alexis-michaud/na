@@ -3616,6 +3616,71 @@
 \txt Housebuilding2.64
 \doi 10.24397/pangloss-0004550#S64
 
+\lx ʝi-lõ-ʁõ-lõ
+\or yilo-wolo
+\ps ideophone
+\lc ʝi-lõ-ʁõ-lõ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\nt <type="hist" langue="fr" print="n"> xxxx vérifier à nouveau: variation libre entre forme nasalisée et non nasalisée, ʝi-lõ-ʁõ-lõ et ʝi-lo-ʁo-lo? Dans l'exemple cité, à la réécoute, la nasalité ne paraît pas clairement présente.
+\de Light, tinkling sound of small bells attached to horse harnesses: ‘Ding-a-ling!’
+\ge |fg{ideo}.Ding-a-ling!
+\dn 形声词：马具上挂着的小铃铛发出轻快、叮当的声音：“丁零当啷！”
+\gn 丁零当啷
+\df Bruit des clochettes d'une troupe de chevaux: «Gling-gling!»
+\gf |fg{ideo}.gling-gling!
+\xv ʐwæ˧-ʈʂʰɯ˧, | ʈʂʰɯ˧-qo˧-ɳɯ˧ | ɖɯ˧-kɤ˥~kɤ˩, | ɖɯ˧-kɤ˥~kɤ˩, | ʝi-lõ-ʁõ-lõ, ʝi-lõ-ʁõ-lõ pi˧, | kɤ˩-tjɤ˧ljɤ˧ | tʰi˧-ʈʂæ˧˥!
+\xe The horses, from here (=from the point of convergence between the groups coming from the various villages), they followed each other, in a long line. ‘Ding-a-ling, ding-a-ling!’ They had bells hanging [on the harness]!
+\xn 从那里（大家聚集的地方）起，马就排成长长的队伍：“丁零当啷，丁零当啷！”（在它们的马具上）挂着铃铛！
+\xf Les chevaux, à partir d'ici (=à partir du point de convergence entre les groupes venus des divers villages), ils se suivaient, en une longue file. «Gling, gling, gling!» Ils avaient des clochettes accrochées [sur le harnais]!
+\txt Caravans.168
+\doi 10.24397/pangloss-0004531#S168
+
+\lx si-li-sɑ̃-lɑ̃
+\or xieli-sala
+\ps ideophone
+\lc si-li-sɑ̃-lɑ̃
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\nt <type="hist" langue="fr" print="n"> xxxx vérifier à nouveau: ne serait-ce pas ɕi-li-sɑ̃-lɑ̃? Cette forme ne contreviendrait pas à la phonotactique na, tandis qu'un /si/ prononcé [si] sans apicalisation serait hors système: le /si/ de la phonotactique na est apicalisé, s'opposant à /sɯ/ par son articulation plus en avant. L'orthographe est proposée selon cette hypothèse.
+\de Sound of small bells: ‘Jingle-jingle!’
+\ge |fg{ideo}.jingle-jingle!
+\dn 形声词：小铃铛发出的声音：“叮铃铃！”
+\gn 叮铃铃
+\df Bruit de clochettes: «Ding-ding!»
+\gf |fg{ideo}.ding-ding!
+\xv ʂwɤ˧ljɤ˧-kwɤ˩ | tʰi˧-ʈʂæ˧˥! | si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, pi˧, | gõ-ndõ, gõ-ndõ, gõ-ndõ, pi˧!
+\xe Little bells were hung on [the horses'] chests, ‘jingle-jingle-jingle!’ [sound of small bells] ‘dong-dong-dong!’ [sound of large bells; there were various bells for livestock, including large ones for the mules, which made a deeper sound]
+\xn 马的胸前挂着小铃铛，‘叮铃铃--叮铃铃--叮铃铃！’（小铃铛的声音）。‘锵--锵--锵！’（大铃铛的声音；有各种牲畜用的铃铛，包括骡子用的大铃铛，发出的声音更低沉）
+\xf On leur accrochait des clochettes pour le poitrail, ding, ding, ding! [bruit des petites clochettes] Dooong, dooong, dooong! [bruit des grosses cloches; il y avait diverses cloches pour le bétail, dont de grosses cloches pour les mules, qui rendaient un son plus grave]
+\txt Caravans.169
+\doi 10.24397/pangloss-0004531#S169
+
+\lx gõ-ndõ
+\or ggon-ddon
+\ps ideophone
+\lc gõ-ndõ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\so F4
+\de Sound of large bells, such as the ones used for mules: ‘Dong-dong!’
+\ge |fg{ideo}.dong-dong!
+\dn 形声词：大铃铛发出的声音：“锵！”、“叮叮当！”
+\gn 锵
+\df Bruit de cloche de belle taille, comme celle que portaient les mules: «Dooong, dooong!»
+\gf |fg{ideo}.dooong-dooong!
+\xv ʂwɤ˧ljɤ˧-kwɤ˩ | tʰi˧-ʈʂæ˧˥! | si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, si-li-sɑ̃-lɑ̃, pi˧, | gõ-ndõ, gõ-ndõ, gõ-ndõ, pi˧!
+\xe Little bells were hung on [the horses'] chests, ‘jingle-jingle-jingle!’ [sound of small bells] ‘dong-dong-dong!’ [sound of large bells; there were various bells for livestock, including large ones for the mules, which made a deeper sound]
+\xn 马的胸前挂着小铃铛，‘叮铃铃--叮铃铃--叮铃铃！’（小铃铛的声音）。‘锵--锵--锵！’（大铃铛的声音；有各种牲畜用的铃铛，包括骡子用的大铃铛，发出的声音更低沉）
+\xf On leur accrochait des clochettes pour le poitrail, ding, ding, ding! [bruit des petites clochettes] Dooong, dooong, dooong! [bruit des grosses cloches; il y avait diverses cloches pour le bétail, dont de grosses cloches pour les mules, qui rendaient un son plus grave]
+\txt Caravans.169
+\doi 10.24397/pangloss-0004531#S169
+
 \lx ʈwæ-ʈwæ-ʈwæ
 \or duae-duae-duae
 \ps ideophone
