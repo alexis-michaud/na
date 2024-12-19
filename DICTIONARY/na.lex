@@ -12472,7 +12472,7 @@
 \xv no˧-ɳɯ˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
 \xe You teach me a great deal! (Context: expression of gratitude on the part of the linguist. The sentence could also be used ironically, in the course of a conversation: “What great things you're teaching me!”)
 \xn 你教我很多！（情景：调查者对合作人表示欣赏与感激。这句话，在摩梭人的对话中，也可以有幽默或讽刺的用法：“你教我的，有一点多！”）
-\xf Tu m'apprends de nombreuses choses (au sujet de la langue et la culture na)! (Contexte: expression de gratitude de la part du linguiste envers la consultante. Dans la conversation courante, la phrase est plutôt utilisée ironiquement: «Tu contribues grandement à mon édification!», «Te voilà qui m'apprends là des choses fort importantes!»
+\xf Tu m'apprends de nombreuses choses (au sujet de la langue et la culture na)! (Contexte: expression de gratitude de la part du linguiste envers la consultante. Dans la conversation courante, la phrase est plutôt utilisée ironiquement: «Tu contribues grandement à mon édification!», «Te voilà qui m'apprends là des choses fort importantes!»)
 \xc <dom="ton" langue="fra"> L'expression |fg{1sg-dat} porte ici un schéma tonal M.M (…|fv{njɤ˧-ki˧}), qui est régulier.
 \xc <dom="ton" langue="eng"> The M.M tone pattern of the |fg{1sg-dat} expression (…|fv{njɤ˧-ki˧}) is regular.
 \xc <dom="ton" langue="cmn"> |fg{1sg-dat}（…|fv{njɤ˧-ki˧}）的M.M声调是正则的。
