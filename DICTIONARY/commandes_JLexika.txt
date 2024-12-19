@@ -50,3 +50,5 @@ Les informations des traductions des termes-clefs sont dans le fichier général
 Lancé à 17h47 le 18 décembre 2024
 Relancé à 18h. Le français est compilé à 19h05, l'anglais à 19h35
 Relancé à 20h (avec numéro de version correct).
+
+Pour tester la sortie : rechercher le caractère de remplacement pour symbole inexistant dans le PDF créé par Lexika : �.

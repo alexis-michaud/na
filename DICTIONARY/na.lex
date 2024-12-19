@@ -3517,6 +3517,28 @@
 \txtsup Funeral.156
 \doisup 10.24397/pangloss-0004572#S156
 
+\lx tõ
+\or don
+\ps ideophone
+\lc tohõ
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\nt <type="hist" print="n" langue="fra"> Vérifier à nouveau la relation entre [to˩hõ˩˥] (entendu dans Caravans.94) et tõ: le premier, allongement avec dévoisement au milieu, très expressif? ou forme disyllabique? (la première hypothèse paraît pluss probable) xxxx Utilisation intéressante de la voyelle õ: son caractère nasalisé la dispose-t-elle à être utilisée fréquemment dans des idéophones?
+\so F4
+\de Ideophone for a dull noise made by mild shock between two objects, for instance a sitting person's head hitting a board as the person dozes off: Thud!
+\ge |fg{ideo}.Thud!
+\dn 形声词：两个物体之间的轻微撞击发出的沉闷声响，例如坐着的人打瞌睡时头部撞击木板发出的声响：嘭！
+\gn 嘭！
+\df Idéophone correspondant à un bruit sourd produit par un choc léger entre deux objets, par exemple la tête d'une personne assise venant donner sur une planche lorsqu'elle s'endort: Bong!
+\gf |fg{ideo}.Bong!
+\xv ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧mi˧=ɻæ˩-dʑo˩ | tʰi˩˥, | sɑ˧, | hæ̃˧qʰv̩˥-dʑo˩, | ʝi˧kʰv̩˥, | ʑi˧ le˧-ŋv̩˩, le˧-ŋv̩˩, | to-hõ! pi˧, | wɤ˩˥ | sɑ˧ le˧-ɲi˩, | le˧-ɲi˩!
+\xe In the old days, women [spun] flax late into the night; some fell asleep [while spinning flax; their heads fell forward], Boom! [and this would wake them up]; then they would start spinning again, on and on!
+\xn 过去，女人们纺亚麻纺到深夜；有些人在纺亚麻时睡着了；她们的头向前倾倒，嘣！这会把她们惊醒；然后她们又开始纺，一直纺下去！
+\xf Autrefois, les femmes, le lin... en pleine nuit, certaines s'endormaient [tandis qu'elles filaient le lin; leur tête tombaient en avant], Boum! [et cela les réveillait]; alors elles se remettaient à filer [le lin], filer [sans fin]!
+\txt Caravans.94
+\doi 10.24397/pangloss-0004531#S94
+
 \lx õ
 \hm 1
 \or on
