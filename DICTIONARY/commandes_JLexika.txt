@@ -7,6 +7,9 @@ julia --project -e "import Pkg; Pkg.instantiate(); Pkg.precompile();"
 Rapatrier les 2 fichiers toml à la racine du dossier JLexika. (Ces fichiers sont conservés dans /github/na/DICTIONARY/fichiers_JLexika. Il s'agit de : Manifest.toml, Project.toml)
 Rapatrier le sous-dossier "Lien vers image"
 
+Mettre les polices (fontes) dans : /home/dom/.fonts
+STKaiti.ttf : ne se trouve pas sur l'internet ouvert.
+
 L'information de version est dans un fichier variables.tex
 \NewDocumentCommand \version {} {2.0.1}
 
