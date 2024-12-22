@@ -15257,6 +15257,8 @@
 \xf Bravo! Tu es épatant! / Félicitations!
 \txt ComingOfAge2.92
 \doi 10.24397/pangloss-0004589#S92
+\txtsup ComingOfAge2.28
+\doisup 10.24397/pangloss-0004589#S28
 
 \lx tje-tje-tje
 \or die-die-die
@@ -33066,6 +33068,8 @@
 
 \lx ɬi˧ki˥
 \or lhigi
+\mr ɬi˩qʰwɤ˩
+\mr ki˩α
 \ps n
 \lc ɬi˧ki˥
 \sd <langue="fra"> religion
@@ -63598,23 +63602,24 @@
 \lx ʈʰæ˩ki˩
 \sf <nb="2011"> 1992
 \or taegi
+\mr ʈʰæ˧qʰwɤ˧
+\mr ki˩α
 \ps v
 \lc ʈʰæ˩ki˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
 \so F4
-\de To perform the ceremony for a person's coming of age.
-\ge to_perform_the_ceremony_for_women_coming_of_age
-\dn 举行女孩的成年礼
+\de To perform the ceremony for a person's coming of age. Literally: “to put on the skirt”.
+\ge coming_of_age_for_women
+\dn 举行女孩的成年礼。直译：“穿裙子”。
 \gn 举行女孩的成年礼
-\df Réaliser la cérémonie de passage à l'âge adulte des femmes.
-\gf réaliser_le_rite_de_passage_à_l_âge_adulte_des_femmes
+\df Réaliser la cérémonie de passage à l'âge adulte des femmes. Littéralement: «enfiler la jupe».
+\gf rite_de_passage_à_l_âge_adulte_des_femmes
 \xv ʈʰæ˩ki˩-ze˥!
 \xe She has come of age! / The ceremony for her coming of age has been performed!
 \xn 穿裙了！／行过穿裙礼了！／她成年了！
 \xf Elle est adulte maintenant! / La cérémonie de passage à l'âge adulte a été réalisée!
-\dt 09/Oct/2015
 
 \lx tɑ˩kɤ˧
 \sf <nb="B"> 1558

@@ -57,7 +57,7 @@
 <S id="F4_ComingOfAge2S011"><AUDIO start="61.4103" end="69.7335"></AUDIO>
 	<FORM kindOf="phono">&lt;ɲi˧-dzi˩~ɲi˩-dzi˩, | pi˧! | &gt; [ɲi˧-dzi˩~ɲi˩-dzi˩ hwæ˩-ze˩-mæ˩! | ] zo˩no˥, | ə˧dɑ˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˧, ɖɯ˧-dzi˥! | ə˧mi˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˧, ɖɯ˧-dzi˥! | mmm!</FORM>
 	<NOTE xml:lang="fr" message="La réalisation sur l'enregistrement est /ə˧dɑ˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˧, ɖɯ˧-dzi˥/ (tons vérifiés); mais à la transcription, F4 préfère la formulation plus analytique/détaillée /ə˧dɑ˧ ʈʂʰɯ˧-ʑi˧=ɻ̩˥, | ɖɯ˧-dzi˩/."></NOTE>
-	<NOTE xml:lang="fr" message="Le classificateur ici est /dzi˩/ 'un ensemble (de vêtements)'; sens: inclut: une chemise, une jupe, des chaussettes, des souliers."></NOTE>
+	<NOTE xml:lang="fr" message="Le classificateur ici est /dzi˩/ 'un ensemble (de vêtements)'; sens: inclut: une chemise, une jupe, des chaussettes, des souliers. xxxx pourquoi le ton est-il noté /ɖɯ˧-dzi˥/ et non ɖɯ˧-dzi˩ (ton du dictionnaire)? Sur l'enregistrement, en 2024 il me semble entendre /ɖɯ˧-dzi˧˥/.'"></NOTE>
 	<NOTE xml:lang="fr" message="/mmm/: marque ici l'approbation/la confirmation, non pas l'hésitation."></NOTE>
 	<TRANSL xml:lang="fr">On achetait [les cadeaux] par paires! Alors… la famille du père, [elle achetait à la jeune fille] un ensemble [de vêtements]! La famille de la mère, [elle achetait à la jeune fille] un ensemble [de vêtements]! Eeeh oui!</TRANSL>
 </S>
@@ -74,6 +74,7 @@
 <S id="F4_ComingOfAge2S014"><AUDIO start="86.9252" end="89.7463"></AUDIO>
 	<FORM kindOf="phono">ə˧dɑ˥-lɑ˩ | ə˧ʑi˧-ki˥ | le˧-bi˩-kv̩˩-ze˩-mæ˩! |</FORM>
 	<TRANSL xml:lang="fr">On se rend chez le père et chez la grand-mère [paternelle]!</TRANSL>
+	<NOTE xml:lang="fr" message="Le terme employé ici pour désigner la mère du père est celui utilisé d'ordinaire pour la mère de la mère. Cet usage revient à instaurer une symétrie et même une identification entre la lignée paternelle et la lignée maternelle."></NOTE>
 </S>
 <S id="F4_ComingOfAge2S015"><AUDIO start="89.7463" end="94.8274"></AUDIO>
 	<FORM kindOf="phono">tʰi˩˥, | le˧-bi˩-dʑo˩, | tʰv̩˧-ɲi˧-dʑo˩, | əəə… qo˩ho˧ pɤ˧~pɤ˥-zo˩-kv̩˩-ze˩ mæ˩! |</FORM>
