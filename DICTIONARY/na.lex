@@ -8840,6 +8840,31 @@
 \xf obtenir quelque chose
 \dt 27/Aug/2015
 
+\lx ə˧ʁɑ˩
+\or Ahra
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton L#
+\lc ɑ˧ʁɑ˩
+\so F4
+\de Ahra, a given name carried by a ddabe priest from Yongning.
+\ge Ahra
+\dn 一个名字（过去一位达巴有这个名字）
+\gn 一个名字
+\df Ahra, un nom propre (porté autrefois par un prêtre ddabe).
+\gf Ahra
+\xv ə˧ʁɑ˩-dɑ˩pɤ˩
+\xn 过去一位达巴有这个名字
+\xe ‘the Ahra ddabe’, ‘Ahra the priest’: the name of a ddabe priest from Yongning
+\xf ‘le prêtre Ahra’, ‘le ddape Ahra’: nom d'un prêtre ddabe de Yongning
+\xv ə˧ʁɑ˩-dɑ˩pɤ˩ | pi˧, | ɬi˧di˩-di˩mi˩-qo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-v̩˧ dʑo˩-kv̩˩
+\xn 在永宁坝，曾经有一位被称为“Ahra达巴”的人物。
+\xe In Yongning, there was a character known as ‘the Ahra ddabe’.
+\xf À Yongning, il y avait un personnage qu'on appelait «le ddabe Ahra».
+\txt Healing.58
+\doi 10.24397/pangloss-0004541#S58
+
 \lx ɖɯ˩ɖʐɯ˧
 \or Ddeezzhi
 \bw <langue="bod"> Rdo rje |tib{རྡོ་རྗེ}
