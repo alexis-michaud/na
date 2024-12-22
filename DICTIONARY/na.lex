@@ -15260,6 +15260,27 @@
 \txtsup ComingOfAge2.28
 \doisup 10.24397/pangloss-0004589#S28
 
+\lx əə
+\or e
+\ps intj
+\ton 0
+\lc ʔəɔ! ≈ ʔəʊ!
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\so F4
+\de Interjection: Come on!
+\ge |fg{intj}.come_on!
+\dn 感叹词：快点！／来吧！／加油！
+\gn 感叹词：快点
+\df Interjection: allez!
+\gf |fg{intj}.allez!
+\xv “əə!” pi˧, | “no˧ | tʰi˧-hĩ˧-hõ˥!”, | “te!” pi˧, | “no˧ | tʰi˧-hĩ˧-hõ˥!” | pi˧-zo˩, | to˩mi˩-pi˥ | bɑ˩lɑ˩-sɯ˥ | tʰi˧-mv̩˧-kʰɯ˧˥!
+\xe “Come on, stand upright!” people say to the pillar. “Bravo, stand upright!” So saying, we put the young person's clothes on the pillar, as if to dress it!
+\xn “快点，立正！”人们对着柱子说。“好样的，立正！” 说着，我们把年轻人的那套新衣服放在柱子上，就像给它穿衣服一样！
+\xf «Allez, tiens-toi droit!», lance-t-on au pilier. «Bravo, tiens-toi droit!» Ce que disant, on commence par mettre le costume du jeune adulte sur le pilier, comme pour l'en vêtir!
+\txt ComingOfAge2.28
+\doi 10.24397/pangloss-0004589#S28
+
 \lx tje-tje-tje
 \or die-die-die
 \ps intj
@@ -24509,7 +24530,7 @@
 \lx ĩ˧
 \or in
 \ps intj
-\lc ĩ˧!
+\lc ʔĩ˧!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="phono" langue="fra"> Le choix d'indiquer un ton lexical M pour ce mot a quelque chose d'arbitraire, dans la mesure où il ne se fonde pas sur des arguments morpho-tonologiques précis. Dans les exemples observés, le mot n'entre pas en relation avec les morphèmes environnants, ce qui empêche de le soumettre à une batterie de tests tonals.
@@ -24533,7 +24554,7 @@
 \lx o
 \or o
 \ps intj
-\lc o!
+\lc ʔo!
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton 0
