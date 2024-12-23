@@ -37857,8 +37857,8 @@
 \ton 0
 \lc bo˩…bo˧
 \so F4
-\de Onomatopoeia for the noise of wind: Whoosh!, Howl!
-\ge |fg{ideo}.Whoosh!
+\de Onomatopoeia for the noise of wind: Whooosh!, Howl!
+\ge |fg{ideo}.Whooosh!
 \dn 形声词：刮大风的声音：嗖嗖！，呼啸！
 \gn 形声词.嗖嗖
 \df Onomatopée pour le bruit d'un vent violent: Wwwwwou, Wwwou!
