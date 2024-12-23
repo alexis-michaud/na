@@ -419,13 +419,13 @@
 	<S id="HealingS074">
 		<AUDIO start="343.3880" end="345.3715"/>
 		<FORM>jo˧do˧-mv̩˩ | tʰi˧-pv̩˩, | le˧-qʰwɤ˧-ʝi˧-ze˧, | pi˧! |</FORM>
-		<NOTE xml:lang="fr" message="Il me semble vraiment entendre ‡ʝi˧do˧ et non jo˧do˧; mais la narratrice indique très clairement qu'il s'agit bien de la syllabe /jo/ et non /ʝi/."/>
+		<NOTE xml:lang="fr" message="Il me semble vraiment entendre ‡ʝi˧do˧ et non jo˧do˧; mais à la transcription, la narratrice indique très clairement qu'il s'agit bien de la syllabe /jo/ et non /ʝi/."/>
 		<TRANSL xml:lang="fr">On disait qu'en réalisant le rituel /jo˧do#˥/, ça guérissait!</TRANSL>
 	</S>
 	<S id="HealingS075">
 		<AUDIO start="345.6716" end="347.9406"/>
 		<FORM>hĩ˧ mo˥-hĩ˩ go˩-pi˩, | tɕʰɯ˧ɭɯ˧ ʝi˧-zo˧-kv̩˩-pi˩! |</FORM>
-		<TRANSL xml:lang="fr">Quand c'était une personne âgée qui était souffrante, on réalisait le rituel /tɕʰɯ˧ɭɯ˧/.</TRANSL>
+		<TRANSL xml:lang="fr">Quand c'était une personne âgée qui était souffrante, on réalisait le rituel qilee /tɕʰɯ˧ɭɯ˧/.</TRANSL>
 	</S>
 	<S id="HealingS076">
 		<AUDIO start="348.3139" end="350.8756"/>

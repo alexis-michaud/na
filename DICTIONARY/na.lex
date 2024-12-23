@@ -14159,18 +14159,39 @@
 \ton #H
 \lc jo˧do˧
 \so F4
-\de Name of a Buddhist ritual.
+\de Name of a Buddhist ritual, practised for curing diseases, specifically for women.
 \ge name_of_ritual
-\dn 一项佛教仪式
+\dn 一项佛教仪式的名称，专门用于治疗女性疾病。
 \gn 仪式名
-\df Nom d'un rituel bouddhiste.
+\df Nom d'un rituel bouddhiste, pratiqué pour obtenir la guérison, spécifiquement pour les affections féminines.
 \gf nom_de_rituel
 \xv ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈæ˧bɤ˧ ʁɑ˧ʂe˩-dʑo˩, | jo˧do˧ pv̩˩-pi˩! | mi˩zɯ˩-ʈʂʰɯ˥ | go˩˥, | pi˧, | jo˧do˧ pv̩˩-pi˩-kv̩˩ mv̩˩!
 \xe In the old days, when calling in the monks, we used to talk about ‘doing the yoddo ritual’! When a woman was ill, they would perform the yoddo ritual!
-\xn 以前，当我们召集僧侣时，我们常说‘做Yoddo仪式’！当女人生病时，我们会举行Yoddo 仪式。
+\xn 以前，当我们召集僧侣时，我们常说‘做yoddo仪式’！当女人生病时，我们会举行yoddo仪式。
 \xf Autrefois, quand on appelait les moines, on parlait de ‘faire le rituel yoddo’! Quand c'était une femme qui était malade, on faisait le rituel yoddo!
 \txt Healing.73
 \doi 10.24397/pangloss-0004541#S73
+
+\lx tɕʰɯ˧ɭɯ˧
+\or qilee
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton M
+\lc tɕʰɯ˧ɭɯ˧
+\so F4
+\de Name of a Buddhist ritual, practised for curing diseases, specifically for elderly persons.
+\ge name_of_ritual
+\dn 一项佛教仪式的名称，专门用于治疗老人的疾病。
+\gn 仪式名
+\df Nom d'un rituel bouddhiste, pratiqué pour obtenir la guérison, spécifiquement pour les affections des personnes âgées.
+\gf nom_de_rituel
+\xv hĩ˧ mo˥-hĩ˩ go˩-pi˩, | tɕʰɯ˧ɭɯ˧ ʝi˧-zo˧-kv̩˩-pi˩!
+\xe When an elderly person was ill, they would perform the qilee ritual.
+\xn 以前，当老人生病时，我们会举行qilee仪式。
+\xf Quand c'était une personne âgée qui était souffrante, on réalisait le rituel qilee /tɕʰɯ˧ɭɯ˧/.
+\txt Healing.75
+\doi 10.24397/pangloss-0004541#S75
 
 \lx ɖʐɯ˧ʂɯ˥
 \sf <nb="B"> 518
@@ -37406,6 +37427,23 @@
 \df Amande (d'un noyau).
 \gf 米米::amande
 
+\lx tsʰo˧jo˩
+\or coyo
+\bw <langue="xina1239"> 芍药??
+\ps n
+\lc tsʰo˧jo˩
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton L#
+\so F4
+\nt <langue="fra" type="hist" print="n"> Le mot est clairement perçu comme un emprunt au chinois.
+\de Peony.
+\ge peony_loanword
+\dn 白芍药
+\gn 白芍药（借词）
+\df Pivoine.
+\gf pivoine_emprunt
+
 \lx mi˩mo˩
 \sf <nb="B"> 596a
 \sf <nb="2011"> 860
@@ -37580,11 +37618,11 @@
 \so F4
 \va <speaker="F5"> *
 \de Noodles.
-\ge noodles
+\ge 面::noodles
 \dn 面条
-\gn 面条
+\gn 面条（借词）
 \df Nouilles, pâtes alimentaires.
-\gf nouilles
+\gf 面::nouilles
 \xv mje˧˥ | dzɯ˧-bi˧! ~ mje˧ dzɯ˧-bi˧! ~ mje˧ dzɯ˥-bi˩!
 \xe Let's eat noodles!
 \xn 吃面吧！
