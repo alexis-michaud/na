@@ -3533,7 +3533,7 @@
 \df Idéophone correspondant à un bruit sourd produit par un choc léger entre deux objets, par exemple la tête d'une personne assise venant donner sur une planche lorsqu'elle s'endort: Bong!
 \gf |fg{ideo}.Bong!
 \xv ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧mi˧=ɻæ˩-dʑo˩ | tʰi˩˥, | sɑ˧, | hæ̃˧qʰv̩˥-dʑo˩, | ʝi˧kʰv̩˥, | ʑi˧ le˧-ŋv̩˩, le˧-ŋv̩˩, | to-hõ! pi˧, | wɤ˩˥ | sɑ˧ le˧-ɲi˩, | le˧-ɲi˩!
-\xe In the old days, women [spun] flax late into the night; some fell asleep [while spinning flax; their heads fell forward], Boom! [and this would wake them up]; then they would start spinning again, on and on!
+\xe In the old days, women [spun] flax late into the night; some fell asleep [while spinning flax; their heads fell forward], Thud! [and this would wake them up]; then they would start spinning again, on and on!
 \xn 过去，女人们纺亚麻纺到深夜；有些人在纺亚麻时睡着了；她们的头向前倾倒，嘣！这会把她们惊醒；然后她们又开始纺，一直纺下去！
 \xf Autrefois, les femmes, le lin... en pleine nuit, certaines s'endormaient [tandis qu'elles filaient le lin; leur tête tombaient en avant], Boum! [et cela les réveillait]; alors elles se remettaient à filer [le lin], filer [sans fin]!
 \txt Caravans.94
@@ -8864,6 +8864,27 @@
 \xf À Yongning, il y avait un personnage qu'on appelait «le ddabe Ahra».
 \txt Healing.58
 \doi 10.24397/pangloss-0004541#S58
+
+\lx mv̩˩lo˥ʝi˩
+\or Muloyi
+\ps n
+\sd <langue="fra"> nom propre
+\sd <langue="eng"> given name
+\ton LH
+\lc mv̩˩lo˥ʝi˩
+\so F4
+\de Muloyi, the name of a legendary family. It could be a distortion of |fn{木老爷}, the name given to the Naxi lord of Lijiang in his old age. Mrs. Latami has no knowledge of the meaning of the name, and does not link this family to the Naxi.
+\ge Muloyi
+\dn Muloyi：一个传奇家族的姓名字。这可能是‘木老爷’的变形，‘木老爷’是丽江纳西族土司晚年的名字。拉他咪女士不知道这个名字的含义，也没有将这个家族与纳西族联系起来。
+\gn 一个传奇家族的姓名字
+\df Muloyi, le nom d'une famille légendaire. Il pourrait s'agir d'une déformation de |fn{木老爷}, nom donné au seigneur naxi de Lijiang dans ses vieilles années. Mme Latami n'a pas connaissance de la signification du nom, et ne rattache pas cette famille aux Naxi.
+\gf Muloyi
+\xv æ˧ʂæ˧-dʑo˩ | tʰi˩˥, | qv̩˧ɻ̍˧-ʁo˧qʰwɤ˥ | hĩ˧ | ɖɯ˧-ʑi˩=ɻ̍˩-dʑo˩, | mv̩˩lo˥ʝi˩ mv̩˩ʈʂæ˩-kv̩˩-tsɯ˩ ◊ -mv̩˩!
+\xn 从前，住在古尔山山顶的家族被称为“Muloyi”！
+\xe In the past, the family who lived at the top of Mount Gheu'er was called ‘the Muloyi’!
+\xf Autrefois, la famille qui habitait au sommet de la montagne Gheu'er, on les appelait: «les Muloyi»!
+\txt Mountains.2
+\doi 10.24397/pangloss-0004574#S2
 
 \lx ɖɯ˩ɖʐɯ˧
 \or Ddeezzhi
@@ -37827,6 +37848,48 @@
 \xn 开始拉了，水牛都有九对！
 \txt Lake3.41
 \doi 10.24397/pangloss-0004349#S41
+
+\lx bo…bo
+\or bbo-bbo
+\ps ideophone
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\lc bo˩…bo˧
+\so F4
+\de Onomatopoeia for the noise of wind: Whoosh!, Howl!
+\ge |fg{ideo}.Whoosh!
+\dn 形声词：刮大风的声音：嗖嗖！，呼啸！
+\gn 形声词.嗖嗖
+\df Onomatopée pour le bruit d'un vent violent: Wwwwwou, Wwwou!
+\gf |fg{ideo}.Wwwou!
+\xv hæ̃˧-ʈʂʰɯ˧, | “bo…bo!” | pi˧ | le˧-tʰv̩˧.
+\xe The wind rises: Whoosh!
+\xn 开始刮风：嗖嗖！
+\xf Le vent se lève: Wwwwwou, Wwwou!
+\txt Mountains.87
+\doi 10.24397/pangloss-0004574#S87
+
+\lx ʁo…ʁo
+\or wo-wo
+\ps ideophone
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0
+\lc ʁo˩…ʁo˧
+\so F4
+\de Onomatopoeia for the sound of thunder: Kaboom!
+\ge |fg{ideo}.Kaboom!
+\dn 形声词：打雷的声音：轰隆！
+\gn 形声词.轰隆
+\df Onomatopée pour un coup de tonnerre: Krrak! Bbrroum!
+\gf |fg{ideo}.Krrak!
+\xv mv̩˧gv̩˧ | “ʁo…ʁo!” | pi˧, | le˧-gv̩˥ | le˧-tsʰɯ˩!
+\xe Thunder starts rumbling: Kaboom!
+\xn 开始打雷：轰隆！
+\xf Le tonnerre se met à gronder: Bbrroum!
+\txt Mountains.86
+\doi 10.24397/pangloss-0004574#S86
 
 \lx mɤ˧-dɑ˩mi˩
 \or meddami
