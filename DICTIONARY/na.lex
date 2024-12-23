@@ -37429,7 +37429,7 @@
 
 \lx tsʰo˧jo˩
 \or coyo
-\bw <langue="xina1239"> 芍药??
+\bw <langue="xina1239"> 草药
 \ps n
 \lc tsʰo˧jo˩
 \sd <langue="fra"> plante
@@ -37437,12 +37437,18 @@
 \ton L#
 \so F4
 \nt <langue="fra" type="hist" print="n"> Le mot est clairement perçu comme un emprunt au chinois.
-\de Peony.
-\ge peony_loanword
-\dn 白芍药
-\gn 白芍药（借词）
-\df Pivoine.
-\gf pivoine_emprunt
+\de Medicinal herb.
+\ge 草药::medicinal_herb
+\dn 草药
+\gn 草药（借词）
+\df Herbe médicinale.
+\gf 草药::herbe_médicinale
+\xv si˧kʰɯ˧-ɭɯ˧bv̩˥ pi˩-zo˩, | zo˩no˧-dʑo˥, | tsʰo˧jo˩ mv̩˩ʈʂæ˩-ɲi˩ mæ˩, ◊ ə˩-gi˩!
+\xe Nowadays, the peony is generally referred to as a ‘medicinal herb’, isn't it?
+\xn 如今，芍药被视为是一种草药，对吧。
+\xf La pivoine, de nos jours, on appelle ça une ‘herbe médicinale’, n'est-ce pas!
+\txt Healing.89
+\doi 10.24397/pangloss-0004541#S89
 
 \lx mi˩mo˩
 \sf <nb="B"> 596a
