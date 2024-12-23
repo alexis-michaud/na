@@ -14151,6 +14151,27 @@
 \xf Farine (tsamba) pouvant servir aux cérémonies; elle ne doit pas contenir d'avoine. À la fin de la cérémonie, on la jette.
 \dt 27/Aug/2015
 
+\lx jo˧do#˥
+\or yoddo
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton #H
+\lc jo˧do˧
+\so F4
+\de Name of a Buddhist ritual.
+\ge name_of_ritual
+\dn 一项佛教仪式
+\gn 仪式名
+\df Nom d'un rituel bouddhiste.
+\gf nom_de_rituel
+\xv ə˧ʝi˧-ʂɯ˥ʝi˩, | ʈæ˧bɤ˧ ʁɑ˧ʂe˩-dʑo˩, | jo˧do˧ pv̩˩-pi˩! | mi˩zɯ˩-ʈʂʰɯ˥ | go˩˥, | pi˧, | jo˧do˧ pv̩˩-pi˩-kv̩˩ mv̩˩!
+\xe In the old days, when calling in the monks, we used to talk about ‘doing the yoddo ritual’! When a woman was ill, they would perform the yoddo ritual!
+\xn 以前，当我们召集僧侣时，我们常说‘做Yoddo仪式’！当女人生病时，我们会举行Yoddo 仪式。
+\xf Autrefois, quand on appelait les moines, on parlait de ‘faire le rituel yoddo’! Quand c'était une femme qui était malade, on faisait le rituel yoddo!
+\txt Healing.73
+\doi 10.24397/pangloss-0004541#S73
+
 \lx ɖʐɯ˧ʂɯ˥
 \sf <nb="B"> 518
 \sf <nb="2011"> 729
@@ -16193,7 +16214,7 @@
 \pdv jɤ˧˥α1
 \de Mother. The word is also used as a term of address for maternal aunts, and for women of the mother's generation outside the household and even outside the family. Literal and extended uses of the word are distinguished, not only by context, but also by various combinations with adjectives (`little mother' and `elder mother' refer to aunts younger and older than the mother, respectively) or with a family name or given name.
 \ge mother/aunt
-\dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈妇女的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
+\dn 母亲。该词也用作对母亲姨妈的称呼，以及对家庭外的母亲辈女人们的称呼。该词的字面用法和引申用法不仅根据情景（上下文），还根据与形容词的不同组合（‘小母亲’和‘大母亲’分别指比母亲年轻和年长的阿姨）或与姓氏或名字的不同组合来区分。于是，摩梭语的‘母亲’能对应汉语许多种称呼，包括姑母、姨母、伯母、叔母、大娘、婶、大妈、姨、伯母、舅母、大婶、大姨、阿姨、妗母、妗子、舅妈、婶母、婶娘、婶子、叔母、姨妈、姨母、姨娘等等。
 \gn 母亲／姑母
 \df Mère. Le mot est également utilisé pour désigner les tantes maternelles, ainsi que les femmes de la génération que la mère, en dehors du foyer et même en dehors de la famille. Les utilisations étendues du mot se distinguent de l'utilisation littérale non seulement par le contexte, mais aussi par diverses combinaisons avec des adjectifs (ainsi, les expressions «petite mère» et «grande mère» désignent respectivement les tantes plus jeunes et plus âgées que la mère), avec un nom de famille ou un prénom, avec une marque de pluriel…
 \gf mère/tante
@@ -24758,9 +24779,9 @@
 \lc ʝi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="sem" langue="fra"> Au fil des réflexions avec Mme Latami et Daeshi Daedeu, il n'a pas été trouvé de nuance de sens qui distingue /|fv{ʝi˧1}/ de /|fv{ʝo˧}/.
-\nt <dom="sem" langue="eng"> Discussions with Mrs. Latami and Daeshi Daedeu have not brought up any nuance of meaning that would distinguish /|fv{ʝi˧1}/ from /|fv{ʝo˧}/.
-\nt <dom="sem" langue="cmn"> 在跟拉他咪女士和拉他咪王勇进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{ʝo˧}/区分开来。
+\nt <dom="sem" langue="fra"> Au fil des réflexions avec Mme Latami et Daeshi Daedeu, il n'a pas été trouvé de nuance de sens qui distingue /|fv{ʝi˧1}/ de /|fv{jo˧}/.
+\nt <dom="sem" langue="eng"> Discussions with Mrs. Latami and Daeshi Daedeu have not brought up any nuance of meaning that would distinguish /|fv{ʝi˧1}/ from /|fv{jo˧}/.
+\nt <dom="sem" langue="cmn"> 在跟拉他咪女士和拉他咪王勇进行思考的过程中，没有发现任何细微的意义差别可以将/|fv{ʝi˧1}/与/|fv{jo˧}/区分开来。
 \ton Mγ
 \so F4
 \de To come.
