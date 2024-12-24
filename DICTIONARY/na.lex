@@ -7452,11 +7452,11 @@
 \ton L-#H
 \lc ɖæ˩lɑ˧so˧
 \so F4
-\de Name of a ceremony conducted at home once a year, during the first two weeks of the year, by one or two monks invited to the farm: offering grain (or fruit) to the gods. The aim is to ensure prosperity for the household.
+\de Name of a ceremony conducted at home once a year, during the first two weeks of the year, by one or two monks invited to the farm. It consists in a ceremonial offering of grain (or fruit) to the local gods, asking them to grant good crops and bestow prosperity on the household.
 \ge name_of_ceremony
-\dn 一种祈福仪式，和尚在过年时主持行礼
-\gn 一种祈福仪式
-\df Nom de cérémonie que les moines (un ou deux) pratiquent une fois par an (pendant la première quinzaine de l'année) au domicile de la personne qui les y invite: offrande de céréales (ou de fruits) aux divinités. L'objet de la cérémonie est d'assurer la prospérité financière de la maisonnée.
+\dn 祭山神仪式：一种祈福仪式。和尚在过年时主持行礼
+\gn 祭山神仪式
+\df Nom de cérémonie que les moines (un ou deux) pratiquent une fois par an (pendant la première quinzaine de l'année) au domicile de la personne qui les y invite. Il s'agit d'une offrande cérémonielle de céréales (ou de fruits) aux divinités locales pour demander la prospérité et des récoltes abondantes pour la maisonnée.
 \gf nom_de_cérémonie
 \xv ɖæ˩-lɑ˧so˧ qæ˩
 \xe to carry out the Ddaelaso ritual
