@@ -3504,12 +3504,18 @@
 \ton 0
 \nt <type="hist" print="n" langue="fra"> Vérifier à nouveau la relation avec bõ xxxx
 \so F4
-\de Noise of a shock between two objects, for instance the sound of the tiger's tail whipping the ground: Bang!
+\de The sound of a strong, muffled clash between objects, resonating beyond the physical impact either literally or figuratively. Thus, this onomatopoeia is used for the sound of a tiger's tail whipping the ground, heralding a violent death: Bang!
 \ge |fg{ideo}.Bang!
-\dn 形声词：老虎尾巴鞭打地：轰！轰！
-\gn 轰！
-\df Bruit d'un choc entre objets durs, par exemple la queue du tigre qui fouette le sol: Boum!
-\gf |fg{ideo}.Boum!
+\dn 形声词：物体之间发出的强而闷的碰撞声，其共鸣超出了单纯的撞击，或者是字面意义上的（即声音产生强烈共鸣），或者是形象意义上的，即碰撞所暗示的戏剧意义。例如，这个拟声词用来形容老虎尾巴甩在地面的声音，预示着猛烈的死亡的到来：轰！／嘭！
+\gn 轰！／嘭！
+\df Bruit d'un choc sourd mais fort entre objets, dont le son possède une résonance qui dépasse le simple impact, soit au sens propre (suggérant la puissance d'un bruit qui résonne), soit au sens figuré, par ce que le choc suggère en termes narratifs. Cette onomatopée est par exemple employée pour décrire le bruit de la queue du tigre fouettant le sol, annonciateur d'une mort violente: Bouum!
+\gf |fg{ideo}.Bouum!
+\xv tɑ˧~tɑ˧ | ʈʂʰɯ˧ zɯ˩ | ʂe˧ lɑ˩ | hɑ˧ | le˧-dzɯ˧-se˥-dʑo˩, | bv̩˧nv̩˧-zo˩ | tʰi˩˥, | lo˧-qo˧-dʑo˩, | põ! põ pi˧, | tʰi˧-ɖwæ˧˥ ◊ -dʑo˩-pi˩-tsɯ˩ ◊ -mv̩˩, | lɑ˧-mæ˧qv̩˩-ʈʂʰɯ˩-ɳɯ˩!
+\xe Just as the two of them had finished eating their meat and cereal, while the smell of the meat was still wafting through the air, well, in the valley, violent blows were heard in the valley: Bang, Bang! It was the tiger's tail whipping [the ground]! / Just as they had finished eating their meat and cereal, while the delicious smell lingered in the air, violent blows resounded in the valley: Bang, Bang! It was the tiger’s tail whipping the ground!
+\xn 就在她们俩刚吃完肉和谷物，烤肉的香味还在空气中飘荡的时候，山谷里传来了老虎尾巴扫过地面的声音：轰！轰！
+\xf Au moment précis où elles deux avaient fini de manger viande et céréale, comme [la viande] fleurait bon, eh bien, dans la vallée, on a entendu: Bouum, Bouum! des coups violents qui fouettaient [le sol]. C'était la queue du tigre [qui faisait ce bruit]! / Alors qu'elles venaient de terminer leur repas, savourant cette viande au fumet délicieux, des Bouum! Bouum! résonnèrent dans la vallée. C’était la queue du tigre qui fouettait le sol!
+\txt Tiger2.57
+\doi 10.24397/pangloss-0004546#S57
 \txtsup Tiger.8
 \doisup 10.24397/pangloss-0004445#S8
 \txtsup BuriedAlive3.75
