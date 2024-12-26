@@ -3541,7 +3541,7 @@
 \xv ə˧ʝi˧-ʂɯ˥ʝi˩, | ə˧mi˧=ɻæ˩-dʑo˩ | tʰi˩˥, | sɑ˧, | hæ̃˧qʰv̩˥-dʑo˩, | ʝi˧kʰv̩˥, | ʑi˧ le˧-ŋv̩˩, le˧-ŋv̩˩, | to-hõ! pi˧, | wɤ˩˥ | sɑ˧ le˧-ɲi˩, | le˧-ɲi˩!
 \xe In the old days, women [spun] flax late into the night; some fell asleep [while spinning flax; their heads fell forward], Thud! [and this would wake them up]; then they would start spinning again, on and on!
 \xn 过去，女人们纺亚麻纺到深夜；有些人在纺亚麻时睡着了；她们的头向前倾倒，嘣！这会把她们惊醒；然后她们又开始纺，一直纺下去！
-\xf Autrefois, les femmes, le lin... en pleine nuit, certaines s'endormaient [tandis qu'elles filaient le lin; leur tête tombaient en avant], Boum! [et cela les réveillait]; alors elles se remettaient à filer [le lin], filer [sans fin]!
+\xf Autrefois, les femmes, le lin… en pleine nuit, certaines s'endormaient [tandis qu'elles filaient le lin; leur tête tombaient en avant], Boum! [et cela les réveillait]; alors elles se remettaient à filer [le lin], filer [sans fin]!
 \txt Caravans.94
 \doi 10.24397/pangloss-0004531#S94
 
@@ -4732,7 +4732,7 @@
 \ge cured_whole_pork
 \dn 猪膘肉，又称琵琶肉。将整只生猪宰杀后去内脏、剔除骨头，用硝、盐和花椒等香料腌制，然后将猪缝合，用石板压扁。因其外形酷似琵琶，故又称“琵琶肉”。这种腌制方法使肉可长期保存，据说保质期能达到十年。
 \gn 猪膘肉／琵琶肉
-\df Porc entier affiné: charcuterie traditionnelle (chez les Na, les Naxi, les Pumi...) préparée à partir d'un cochon entier. L'animal est vidé, désossé, et conservé par du salpêtre, du sel et des épices (poivre du Sichuan notamment). Le cochon est ensuite recousu, puis pressé sous une dalle de pierre. Sa forme rappelle celle d'un pipa (luth chinois), d'où le nom de porc «pipa» employé en chinois. Cette méthode de conservation permet une conservation de longue durée: jusqu'à une décennie.
+\df Porc entier affiné: charcuterie traditionnelle (chez les Na, les Naxi, les Pumi…) préparée à partir d'un cochon entier. L'animal est vidé, désossé, et conservé par du salpêtre, du sel et des épices (poivre du Sichuan notamment). Le cochon est ensuite recousu, puis pressé sous une dalle de pierre. Sa forme rappelle celle d'un pipa (luth chinois), d'où le nom de porc «pipa» employé en chinois. Cette méthode de conservation permet une conservation de longue durée: jusqu'à une décennie.
 \gf porc_entier_affiné
 \txtsup Funeral.176
 \doisup 10.24397/pangloss-0004572#S176
@@ -7466,6 +7466,55 @@
 \xe to watch the Ddaelaso ritual
 \xn 看这种仪式
 \xf regarder le rituel Ddaelaso
+
+\lx ʐɯ˧ hwɤ˩
+\or rife
+\mr ʐɯ˧
+\mr hwɤ˩α
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\ton L#
+\lc ʐɯ˧hwɤ˩
+\so F4
+\de Name of a ritual carried out by the ddabe priest at funerals: “rife”, “passing on alcohol”. The ddabe priest who performs the ritual carries a bowl of alcohol, which he symbolically passes on to the deceased.
+\ge passing_on_alcohol_ritual
+\dn ‘递过酒’、‘传酒’：达巴在葬礼上举行的仪式。达巴端着一碗酒，象征性地把酒递给死者。
+\gn ‘递过酒’仪式
+\df Nom d'un rituel effectué par le prêtre ddabe lors des funérailles : «rife», «transmission de l'alcool». Le prêtre ddabe qui effectue ce rituel porte un bol d'alcool qu'il transmet symboliquement au défunt.
+\gf rituel_rife
+
+\lx ʐɯ˧ ʈʰɯ˩
+\or ritee
+\mr ʐɯ˧
+\mr ʈʰɯ˩β
+\ps v
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L#
+\lc ʐɯ˧ʈʰɯ˩
+\so F4
+\sn 1
+\de To drink alcohol.
+\ge to_drink_alcohol
+\dn 喝酒。
+\gn 喝酒
+\df Boire de l'alcool.
+\gf boire_de_l_alcool
+\sn 2
+\de To celebrate.
+\ge to_celebrate
+\dn 庆祝。
+\gn 庆祝
+\df Faire une fête, organiser un banquet, faire une grande réception.
+\gf faire_un_banquet
+\sn 3
+\de To get married (specific sense of the more general meaning ‘to celebrate’).
+\ge to_get_married
+\dn 结婚、办婚礼。
+\gn 办婚礼
+\df Célébrer les noces, célébrer un mariage, se marier.
+\gf se_marier
 
 \lx ɖæ˩mi˧
 \or Ddaemi
@@ -13667,9 +13716,9 @@
 \df Millet, |fi{Panicum miliaceum}.
 \gf millet
 \xv dʑɯ˧njɤ˧, | ʐɯ˧ tɕɤ˧˥!
-\xe Millet is used to make wine!
+\xe Millet is used to make alcohol!
 \xn 小米，用来酿酒！
-\xf Le millet, on s'en sert pour faire du vin!
+\xf Le millet, on s'en sert pour faire de l'alcool!
 \xv dʑɯ˧njɤ˧-hɑ#˥
 \xe cooked millet
 \xn 小米饭
@@ -20788,13 +20837,12 @@
 \so F4
 \va <speaker="M21"> hæ˧lwɤ˧
 \vc <type="hist" print="n" langue="fra"> ton d2a
-\de Chinese sorghum.
+\de Chinese sorghum. One of its uses is for brewing alcohol.
 \ge sorghum
 \dn 高粱
 \gn 高粱
-\df Sorgho, gaoliang; céréale dont on se sert pour faire du vin.
+\df Sorgho, gaoliang; céréale dont on se sert notamment pour faire de l'alcool.
 \gf sorgho
-\dt 02/Sep/2015
 
 \lx hɑ˧ɭɯ#˥
 \sf <nb="B"> 1978
@@ -21346,7 +21394,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 2009: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩˩˥ et non ˧ ˧˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé M18 2008: est ˧ ˧ ˥)
+\nt <type="hist" print="n" langue="fra"> njɤ˧ i˧ mɤ˧-hĩ˧ hĩ˥ (ɖɯ˧ pi˧) i˧ze˩!: avant 2009: noté: mɤ˧-hĩ˧i˥; en fait: est le relateur, coalescent. (note ancienne: “schéma tonal: est certainement ˩ ˩ ˥ et non ˧ ˧ ˥, car ze˥ n'apparaît pas après un ton M"; en fait: confirmé M18 2008: est ˧ ˧ ˥)
 \ton MH
 \lc hĩ˧˥
 \so F4
@@ -22322,17 +22370,17 @@
 \df Siroter, boire à petites gorgées.
 \gf siroter
 \xv ʐɯ˧ ho˧˥
-\xe to sip wine
+\xe to sip alcohol
 \xn 小口地喝酒
-\xf siroter du vin
+\xf siroter de l'alcool
 \xv ʐɯ˧ ho˧~ho˥
-\xe to sip wine
+\xe to sip alcohol
 \xn 小口地喝酒
-\xf siroter du vin
+\xf siroter de l'alcool
 \xv ʐɯ˧ | ɖɯ˧-ho˧~ho˥
-\xe to sip wine
+\xe to sip alcohol
 \xn 喝一小口酒
-\xf siroter du vin
+\xf siroter de l'alcool
 \xc <langue="fra" type="hist" print="n" dom="ton"> Schéma tonal inattendu. Pour un verbe au ton MH, on attendrait : ɖɯ˧-ho˩~ho˩. Seuls les tons Mc et La donnent un schéma M.M.H avec ɖɯ˧-. xxxx
 
 \lx ho˥
@@ -25304,9 +25352,9 @@
 \xn 管一个孩子
 \xf s'occuper d'un enfant
 \xv ʐɯ˧ | ʝi˧-ɭɯ˧
-\xe a pot of wine
+\xe a pot of alcohol, a small jar of alcohol
 \xn 一壶酒
-\xf un pot de vin, une petite jarre de vin
+\xf un pot d'alcool, une petite jarre d'alcool
 \xv qʰwɤ˩˥ | ʝi˧-ɭɯ˧
 \xe a bowl
 \xn 一个碗
@@ -28117,9 +28165,8 @@
 \ge 高粱::sorghum
 \dn 高粱
 \gn 高粱（借词）
-\df Sorgho, gaoliang; céréale dont on se sert pour faire du vin.
+\df Sorgho, gaoliang.
 \gf 高粱::sorgho
-\dt 03/Sep/2015
 
 \lx kɤ˩lo˧˥
 \sf <nb="B"> 2121
@@ -28128,7 +28175,7 @@
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> (confirmé lors du terrain 2009: ʈʂʰɯ˧ kɤ˩lo˧ ɲi˥) (notes anciennes: “kɤ˧lo˧˥, ou kɤ˩lo˩˥? doutes janvier 2008") (si˧dzi˩kɤ˩lo˩: noté ˧ ˩˩˩ en 2006, puis sɯ˥dzɯ˩kɤ˩lo˩) (ʈʂʰɯ˧ si˧kɤ˥lo˩ ɲi˩, sens et tons vérifiés)
+\nt <type="hist" print="n" langue="fra"> (confirmé lors du terrain 2009: ʈʂʰɯ˧ kɤ˩lo˧ ɲi˥) (notes anciennes: “kɤ˧lo˧˥, ou kɤ˩lo˩˥? doutes janvier 2008") (si˧dzi˩kɤ˩lo˩: noté ˧ ˩ ˩ ˩ en 2006, puis sɯ˥dzɯ˩kɤ˩lo˩) (ʈʂʰɯ˧ si˧kɤ˥lo˩ ɲi˩, sens et tons vérifiés)
 \ton LM+MH#
 \lc kɤ˩lo˧˥
 \so F4
@@ -29644,7 +29691,6 @@
 \gn 黄酒
 \df Vin de riz (faiblement alcoolisé).
 \gf vin_de_riz_léger
-\dt 03/Sep/2015
 
 \lx kɯ˩α
 \or geeq
@@ -31214,7 +31260,9 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2007; notation 2006: kwɤ˥ɭɯ˧) vérifié: initiale vélaire et non uvulaire
-\nt <dom="sem" langue="fra"> Désigne à l'origine les objets en poterie, jarre pour le vin ou pour les légumes fermentés; a également un emploi figuré, pour désigner les choses précieuses.
+\nt <dom="sem" langue="fra"> Le mot désigne à l'origine un objet en poterie: jarre pour l'alcool ou pour les légumes fermentés. Il a également un emploi figuré, pour désigner les choses précieuses.
+\nt <dom="sem" langue="eng"> The word originally referred to a pottery object: a jar for alcohol or fermented vegetables. It is also used figuratively to refer to precious things.
+\nt <dom="sem" langue="cmn"> 该词最初指陶器：盛放酒或发酵蔬菜的罐子。它也来指珍贵物品。
 \ton L#
 \lc kwɤ˧ɭɯ˩
 \so F4
@@ -31222,17 +31270,24 @@
 \vc <langue="fra" print="n"> vérifié: n'est pas lɯ˩. Ton d4
 \va <speaker="M23"> ID.
 \pdv ɭɯ˧β
-\de Jug; jar; pitcher; also: treasure, valuable possession.
-\ge jug/treasure
-\dn 坛子、罐子（陶器），宝贝
-\gn 坛子／宝贝
-\df Jarre; trésor, objet de grande valeur.
-\gf jarre/trésor
+\sn 1
+\de Jug; jar; pitcher.
+\ge jug
+\dn 坛子、罐子（陶器）
+\gn 坛子
+\df Jarre.
+\gf jarre
+\sn 2
+\de Treasure, valuable possession.
+\ge treasure
+\dn 宝贝
+\gn 宝贝
+\df Trésor, objet de grande valeur.
+\gf trésor
 \xv ʈʂʰɯ˧ | njɤ˧ kwɤ˧ɭɯ˩ ɲi˩!
 \xe (S)he is my treasure! (About a child)
 \xn 他是我宝贝！（母亲说孩子是她的宝贝）
 \xf C'est mon petit trésor! (dit au sujet d'un enfant)
-\dt 04/Sep/2015
 
 \lx kwɤ˧pɤ˧
 \or guabe
@@ -39543,7 +39598,7 @@
 \ge kitchen
 \dn 备料房：煮猪食、煮酒的地方，有时候也在那边准备人的饭
 \gn 备料房
-\df Office, cuisine: pièce où on cuisine la pâtée des cochons, où on distille le vin, et où on prépare certains des plats pour les humains. Elle est située dans le même bâtiment que le foyer-salle à manger, à sa droite (vu depuis la cour).
+\df Office, cuisine: pièce où on cuisine la pâtée des cochons, où on distille l'alcool, et où on prépare certains des plats pour les humains. Elle est située dans le même bâtiment que le foyer-salle à manger, à sa droite (vu depuis la cour).
 \gf office/cuisine
 \dt 19/Jun/2017
 
@@ -40603,7 +40658,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (cf récit F4_1) (initiale non palatale: est [ni]) (tons confirmés); (formé de: mv̩˩zɯ˩˧, ton d3, et ni˧mi˧, ton d2a, les sœurs; vérifié: n'est pas une initiale ɲ mais une initiale n, non palatalisée)
-\nt <type="hist" print="n" langue="fra"> tons corrigés, d'abord noté ˩˩˥ ˧
+\nt <type="hist" print="n" langue="fra"> tons corrigés, d'abord noté ˩ ˩ ˥ ˧
 \nt <type="hist" print="n" langue="fra" dom="phono"> confirmé: n'est pas /ɲi˥/ mais /ni˥/.
 \ton L+#H-
 \so F4
@@ -44672,7 +44727,7 @@
 \lc nv̩˧hṽ̩˩bi˩bi˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> (tons confirmés, d'abord noté ˥ ˧ ˩˩) (schéma tonal régulier)
+\nt <type="hist" print="n" langue="fra"> (tons confirmés, d'abord noté ˥ ˧ ˩ ˩) (schéma tonal régulier)
 \ton L#-
 \so F4
 \va <speaker="F5"> ID.
@@ -47328,7 +47383,7 @@
 \ge gift
 \dn 礼物
 \gn 礼物
-\df Cadeau (choses à manger ou boire; essentiellement: tabac, thé, bonbons, vin; on n'offre généralement pas de vêtements).
+\df Cadeau (choses à manger ou boire; essentiellement: tabac, thé, bonbons, alcool; on n'offre généralement pas de vêtements).
 \gf cadeau
 \xv pʰɤ˧bɤ˧ po˧-tsʰɯ˧˥
 \xe to bring gifts
@@ -48735,9 +48790,9 @@
 \df Verser; renverser; répandre; jeter.
 \gf verser
 \xv ʐɯ˧ pʰv̩˧˥
-\xe to pour wine, to serve wine
+\xe to pour alcohol, to serve alcohol
 \xn 倒酒
-\xf verser du vin, servir du vin
+\xf verser de l'alcool, servir de l'alcool
 \xv dʑɯ˩ pʰv̩˩˥
 \xe to pour water, to serve water (as a beverage)
 \xn 倒水
@@ -60006,7 +60061,7 @@
 \xv si˩qʰɑ˩-dʑɯ˩
 \xe a liquid prepared from plums, which served as an equivalent of vinegar (vinegar was introduced late: it was bought in Chinese areas)
 \xn 用梅子做的一种汁，用法类似于醋。过去，永宁没有醋，醋是从内地买来的。
-\xf Un liquide préparé à base de prunelles d'abricotier du Japon, servant d'équivalent de vinaigre (le vinaigre a été introduit tardivement; il était acheté en pays chinois).
+\xf Un liquide préparé à base de prunelles d'abricotier du Japon, servant d'équivalent de vinaigre. (Le vinaigre a été introduit tardivement; il était acheté en pays chinois.)
 
 \lx si˧-ʁæ˧bæ˥
 \sf <nb="B"> 517
@@ -62871,7 +62926,7 @@
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
-\nt <type="hist" print="n" langue="fra"> (ai eu des hésitations en 2007 au sujet du ton; conclusion: n'est ni ˧ ˧, ni ˧˥, ni ˩˩: ˧ ˧˥, avec une montée peu audible) tons vérifiés en 2009: n'est pas ʂv̩˧ʂv̩˧ ɖɯ˧pʰæ˧˥ (nom et ensemble nb+cl forment deux mots prosodiques différents); note ancienne: “dans ‘une feuille de papier', le ton montant de la deuxième syllabe de ‘papier' se maintient en débit très lent, sorte de juxtaposition de formes de citation"
+\nt <type="hist" print="n" langue="fra"> (ai eu des hésitations en 2007 au sujet du ton; conclusion: n'est ni ˧ ˧, ni ˧ ˥, ni ˩ ˩: ˧ ˧˥, avec une montée peu audible) tons vérifiés en 2009: n'est pas ʂv̩˧ʂv̩˧ ɖɯ˧pʰæ˧˥ (nom et ensemble nb+cl forment deux mots prosodiques différents); note ancienne: “dans ‘une feuille de papier', le ton montant de la deuxième syllabe de ‘papier' se maintient en débit très lent, sorte de juxtaposition de formes de citation"
 \ton MH#
 \lc ʂv̩˧ʂv̩˧˥
 \so F4
@@ -63768,9 +63823,9 @@
 \xn 不会专门给孩子送（大）礼的！（说明：送礼，是送给家里的主人）
 \xf On ne fait pas de présents aux enfants! (Explication: le présent donné par une famille à une autre de façon ritualisée est offert aux aînés, pas aux enfants; c'est d'une nature différente des petits cadeaux qu'on peut leur faire au quotidien.)
 \xv ʐɯ˧ tɑ˩hwɤ˩
-\xe to offer wine as a present
+\xe to offer alcohol as a present
 \xn 送酒（作为礼物）
-\xf offrir du vin comme présent
+\xf offrir de l'alcool comme présent
 \xv li˩ tɑ˥hwɤ˩
 \xe to offer tea as a present
 \xn 送茶（作为礼物）
@@ -64072,7 +64127,7 @@
 \ps v
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
-\nt <type="hist" print="n" langue="fra"> æ˧ʂæ˧tɑ˩mv̩˩: tons vérifiés, n'est pas ˧ ˧˥˩; schéma tonal régulier pour composition de d2a+d3, cf voc 639 (on peut aussi dire ˧ ˧ ˩˩˥, variation libre) Avant 2015: noté au ton L#
+\nt <type="hist" print="n" langue="fra"> æ˧ʂæ˧tɑ˩mv̩˩: tons vérifiés, n'est pas ˧ ˧˥˩; schéma tonal régulier pour composition de d2a+d3, cf voc 639 (on peut aussi dire ˧ ˧ ˩ ˩˥, variation libre) Avant 2015: noté au ton L#
 \nt <type="hist" print="n" langue="fra"> (tons confirmés; pas les mêmes que F4)
 \ton L
 \lc tɑ˩mv̩˩˥
@@ -65259,16 +65314,16 @@
 \sd <langue="eng"> verb
 \so F4
 \nt <type="hist" print="n" langue="fra" dom="phono"> Avant 2024: noté /tɕi˧˥/. Il s'agit en réalité d'une syllabe /tɕɯ˧˥/: voir enregistrement du 2 juillet 2024.
-\de To invite (guests) to drink wine.
+\de To invite (guests) to drink alcohol.
 \ge to_invite_to_drink
 \dn 敬（酒）
 \gn 敬（酒）
-\df Inviter (des hôtes) à boire du vin.
+\df Inviter (des hôtes) à boire de l'alcool.
 \gf inviter_à_boire
 \xv ʐɯ˧ tɕɯ˧˥
-\xe to invite (guests) to drink wine
+\xe to invite (guests) to drink alcohol
 \xn 敬酒
-\xf inviter (des hôtes) à boire du vin
+\xf inviter (des hôtes) à boire de l'alcool
 
 \lx tɕi˧~tɕi#˥
 \sf <nb="B"> 1212b
@@ -66506,7 +66561,7 @@
 \ge goblet
 \dn 酒杯、杯子
 \gn 酒杯
-\df Gobelet pour le vin ou autres liquides (sans anse); en verre ou autre matériau.
+\df Gobelet pour l'alcool ou autres liquides (sans anse); en verre ou autre matériau.
 \gf gobelet
 \xv bo˧ʐæ˧-tɕʰɤ˩ʈʂv̩˩
 \xe goblet for drinking tea (made of glass)
@@ -67588,8 +67643,7 @@
 \xv ʐɯ˧ | ɖɯ˧-tɕɯ˧˥
 \xe a pint of wine
 \xn 一斤酒
-\xf une pinte de vin
-\dt 30/Jun/2017
+\xf une pinte d'alcool
 
 \lx tɕʰɯ˩α
 \sf <nb="B"> 1035
@@ -69146,7 +69200,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (+gv̩˩), confirmé en mai 2008; notation antérieure: to˩ko˩lv̩˥(gv̩˩) (notation 2006: ˩˩˥ ˧) (vérifié: n'est pas /tv̩˩/ mais /to˩/)
+\nt <type="hist" print="n" langue="fra"> (+gv̩˩), confirmé en mai 2008; notation antérieure: to˩ko˩lv̩˥(gv̩˩) (notation 2006: ˩ ˩ ˥ ˧) (vérifié: n'est pas /tv̩˩/ mais /to˩/)
 \nt <dom="sem" langue="fra"> vérifié: initiale uvulaire
 \ton L+H#
 \lc to˩qo˩lv̩˥
@@ -76607,7 +76661,7 @@
 \dn 米酒（甜酒，酒精度低）
 \gn 米酒
 \df Alcool de riz fermenté. Ce type d'alcool est sucré, et son degré d'alcool est moins élevé que celui des alcools distillés.
-\gf vin
+\gf alcool_de_riz_fermenté
 
 \lx ʈʂwæ˧tʰo˩
 \bw <langue="cmn"> 砖头
@@ -77120,9 +77174,9 @@
 \xf |fg{accomp} 〜 |fg{pfv}: a bu
 \xc PHONO
 \xv ʐɯ˧ ʈʰɯ˩
-\xe to drink wine
+\xe to drink alcohol
 \xn 喝酒
-\xf boire du vin
+\xf boire de l'alcool
 \xv jɤ˧ ʈʰɯ˩
 \xe to smoke (tobacco)
 \xn 抽烟
@@ -78727,7 +78781,7 @@
 \lc v̩˩tsʰɤ˧˥
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\nt <type="hist" print="n" langue="fra"> ton d5a (ʈʂʰɯ˧ v̩˩tsʰɤ˧ɲi˥) (d'abord noté ˩˩˥, puis, en 2007, ˩ ˧) (tons confirmés) (important: est /tsʰɤ/ et non /tsʰe/; vérifié à plusieurs reprises)
+\nt <type="hist" print="n" langue="fra"> ton d5a (ʈʂʰɯ˧ v̩˩tsʰɤ˧ɲi˥) (d'abord noté ˩ ˩˥, puis, en 2007, ˩ ˧) (tons confirmés) (important: est /tsʰɤ/ et non /tsʰe/; vérifié à plusieurs reprises)
 \ton LM+MH#
 \so F4
 \va <speaker="F5"> v̩˩tsʰɤ#˥
@@ -79781,7 +79835,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (notation 2009; en 2007, noté ˥ ˩ ˩; en 2006, avais noté: ʐæ˥ v̩˧ tʰv̩˩; hésitais déjà à transcrire ˥˩˩)
+\nt <type="hist" print="n" langue="fra"> (notation 2009; en 2007, noté ˥ ˩ ˩; en 2006, avais noté: ʐæ˥ v̩˧ tʰv̩˩; hésitais déjà à transcrire ˥ ˩ ˩)
 \nt <dom="sem" langue="fra"> On ne peut isoler un disyllabe /‡|fv{ʐæ˧v̩˩}/, ni l'associer à d'autres verbes, par exemple pour former /‡|fv{ʐæ˧v̩˩ ʐwɤ˩}/ ‘dire des blagues’.
 \ton L#-
 \lc ʐæ˧v̩˩tʰv̩˩
@@ -81980,16 +82034,16 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Fermented alcohol, liquor, spirits, wine.
-\ge wine
+\de A term for all alcoholic beverages: fermented alcohol (chang [barley beer], rice wine, and various other brews), distilled alcohol, wine… The English word ‘wine’ is a close equivalent in terms of cultural contexts, but it has strong associations with beverages made from grapes. For want of a better translation, the word ‘alcohol’ is used (despite the unwanted connotations of this term, which suggests strong spirits, whereas traditional beers and rice wines had a moderate alcohol content).
+\ge alcohol
 \dn 酒
 \gn 酒
-\df Alcool fermenté, chang, vin.
-\gf vin
+\df Terme désignant toutes les boissons alcoolisées: alcool fermenté (chang, [bière d'orge], alcool de riz…), alcool distillé, vin… Le mot français ‘vin’ constitue un équivalent culturel proche, mais évoque une boisson à base de raisin. Faute de mieux, la traduction adoptée est ‘alcool’ (en dépit des connotations non souhaitées du mot, qui évoque des alcools forts, alors que l'alcool traditionnel avait une teneur en alcool modérée).
+\gf alcool
 \xv ʐɯ˧ pʰv̩˧˥
-\xe to pour wine
+\xe to pour alcohol
 \xn 斟酒
-\xf verser à boire
+\xf verser à boire, verser de l'alcool
 
 \lx ʐɯ˥
 \sf <nb="B"> 966
@@ -82188,9 +82242,8 @@
 \ge high_quality_liquor
 \dn 醇酒，好酒
 \gn 醇酒
-\df Alcool fort; alcool de qualité supérieure.
+\df Alcool fort, alcool distillé; alcool de qualité supérieure.
 \gf alcool_de_qualité
-\dt 05/Jul/2017
 
 \lx ʐɯ˩pe˧
 \or rebei
@@ -85256,9 +85309,9 @@
 \xn 在这里坐下来
 \xf s'asseoir ici
 \xv ʐɯ˧ ɖɯ˧-qʰwɤ˧ tʰi˧-mv̩˧-ʈʰɯ˧˥ | -tɕɯ˩-zo˩!
-\xe (Go ahead and) drink this bowl of wine!
+\xe (Go ahead and) drink this bowl of alcohol!
 \xn 把这碗酒喝了下去！
-\xf Bois donc ce bol de vin!
+\xf Bois donc ce bol d'alcool!
 
 \lx -tsæ˧α
 \or zae

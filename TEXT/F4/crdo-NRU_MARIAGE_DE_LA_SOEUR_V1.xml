@@ -459,8 +459,8 @@
     <AUDIO start="30.4362" end="35.5738"/>
     <FORM kindOf="phono">tʰi˩˥, | hĩ˧-ki˧ ki˩-se˩ ◊ -dʑo˩ | tʰi˩˥, | &lt;mmm…&gt; tʰi˩˥, | ʐɯ˧ ʈʰɯ˩ tsɯ˩ ◊ mv̩˩. |</FORM>
     <FORM kindOf="ortho">Tiq, hin gi gi seiq jjo, tiq, ri teeq zimu.</FORM>
-    <NOTE xml:lang="fr" message="à ce point du récit, M18, jouant son rôle de répondant, glisse: ʐɯ˧ ʈʰɯ˩, hɑ˧ dzɯ˧. «On a bu du vin, et on a mangé.»)"/>
-    <TRANSL xml:lang="fr">Comme le mariage était décidé, on l’a fêté («boire du vin» signifie, par synecdoque, «faire la fête», et spécifiquement célébrer un mariage), à ce qu’on raconte.</TRANSL>
+    <NOTE xml:lang="fr" message="à ce point du récit, M18, jouant son rôle de répondant, glisse: ʐɯ˧ ʈʰɯ˩, hɑ˧ dzɯ˧. «On a bu de l'alcool, et on a mangé.»)"/>
+    <TRANSL xml:lang="fr">Comme le mariage était décidé, on l’a fêté («boire de l'alcool» signifie, par synecdoque, «faire la fête», et spécifiquement célébrer un mariage), à ce qu’on raconte.</TRANSL>
    <TRANSL xml:lang="en">Then, when (she) had been given (in marriage), (they) drank alcohol. [Euphemism for wedding ceremony.]</TRANSL> 
 	<TRANSL xml:lang="zh">然后，已经嫁给人了，那么……（大家都）喝（了）酒。（纳语“喝酒、吃饭”这个短语的意思为：结婚。）</TRANSL>
     <W>
@@ -506,7 +506,7 @@
     </W>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -535,7 +535,7 @@
     <TRANSL xml:lang="zh">在庆祝的那个时候，那么，（大家）按顺序坐下来了。</TRANSL>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	   <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -1992,12 +1992,12 @@
     <FORM kindOf="phono">ʐɯ˧ | wɤ˩˥ | ɖɯ˧-v̩˧ | ɖɯ˧-qʰwɤ˧˥ |</FORM>
     <FORM kindOf="ortho">ri uaq ddeevu ddeekhua.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté ‡kʰwɑ˩˥"/>
-    <TRANSL xml:lang="fr">pour le vin, à nouveau (=pareillement): un bol par personne,</TRANSL>
+    <TRANSL xml:lang="fr">pour l'alcool, à nouveau (=pareillement): un bol par personne,</TRANSL>
 	<TRANSL xml:lang="en">(as for the) alcohol, again (it was) one bowl per person.</TRANSL>
     <TRANSL xml:lang="zh">酒（呢），又一人一碗，</TRANSL>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -2543,13 +2543,13 @@
     <FORM kindOf="ortho">"Rina sokhua zheina teeq!" bi ssei.</FORM>
     <NOTE xml:lang="fr" message="ʐɯ˧nɑ˩: corrigé avec kz en avril 09; d’abord noté ˧ ˩ puis corrigé en nɑ˩˥"/>
     <NOTE xml:lang="fr" message="qʰwɤ: d’abord noté kʰwɑ˩˥, qui est la forme de citation"/>
-    <NOTE xml:lang="fr" message="ʐɯ˧nɑ˩: vin noir/fort = bon vin"/>
-    <TRANSL xml:lang="fr">«terre noire, bois-moi ces trois bols de bon vin!»</TRANSL>
+    <NOTE xml:lang="fr" message="ʐɯ˧nɑ˩: alcool noir/fort = bon alcool, bon vin de céréales"/>
+    <TRANSL xml:lang="fr">«terre noire, bois-moi ces trois bols de bon alcool!»</TRANSL>
 	<TRANSL xml:lang="en">"Black earth, drink (these) three bowls of good alcohol," (he) said. </TRANSL>
     <TRANSL xml:lang="zh">“这三碗良酒，（给）黑土喝！”</TRANSL>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -2594,12 +2594,12 @@
     <FORM kindOf="ortho">Ri lexxi, zhei gho puq hee zimu.</FORM>
     <NOTE xml:lang="fr" message="d’abord noté pʰv̩˩˥"/>
     <NOTE xml:lang="fr" message="hɯ˩tsɯ˧mv̩˩: d’abord noté ˥ ˥ ˩; tons vérifiés en juin 08"/>
-    <TRANSL xml:lang="fr">Il prend le vin, et le répand par terre.</TRANSL>
+    <TRANSL xml:lang="fr">Il prend l'alcool, et le répand par terre.</TRANSL>
 	<TRANSL xml:lang="en">(He) picked up the alcohol (and) poured it onto the ground.</TRANSL>
     <TRANSL xml:lang="zh">（他）举起来了酒（碗），撒在地上去了。</TRANSL>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -3034,7 +3034,7 @@
     <FORM kindOf="ortho">tee ha lezzi ri letee teezzee, tiq, tee jjo leshaexi keeq.
      </FORM>
     <NOTE xml:lang="fr" message="/ʈʂʰɯ˧/: d’abord noté /‡tʰi˩˥/"/>
-    <TRANSL xml:lang="fr">elle, elle a mangé de la nourriture, elle a bu du vin, elle s’est tenue assise (=elle a pris part à la fête); et lui, ça l’a rendu tout triste;</TRANSL>
+    <TRANSL xml:lang="fr">elle, elle a mangé de la nourriture, elle a bu de l'alcool, elle s’est tenue assise (=elle a pris part à la fête); et lui, ça l’a rendu tout triste;</TRANSL>
 	<TRANSL xml:lang="en">She was sitting (there) eating food and drinking alcohol, and this made him sad. </TRANSL>
     <TRANSL xml:lang="zh">她吃着饭、喝着酒、坐着，而他呢，感到了伤心，</TRANSL>
     <W>
@@ -3059,7 +3059,7 @@
     </W>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -3118,12 +3118,12 @@
     <FORM kindOf="phono">ʐɯ˧ le˧-ʑi˩, | ʈʂe˧-qo˩ pʰv̩˩ |</FORM>
     <FORM kindOf="ortho">Ri lexxi, zhei gho puq,</FORM>
     <NOTE xml:lang="fr" message="tons vérifiés"/>
-    <TRANSL xml:lang="fr">il a pris le vin, et l’a renversé par terre;</TRANSL>
+    <TRANSL xml:lang="fr">il a pris l'alcool, et l’a renversé par terre;</TRANSL>
 	<TRANSL xml:lang="en">He took the alcohol and poured in onto the ground,</TRANSL>
     <TRANSL xml:lang="zh">（他）拿了酒，撒了在地上，</TRANSL>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -9064,7 +9064,7 @@
     <FORM kindOf="phono">» ʈʰɯ˩-gɤ˩ ʈʰɯ˩-mɤ˩-lv̩˧-dʑo˩, | &lt;ʈʂe˧n…&gt; ʈʂe˧nɑ˥ | so˩-qʰwɤ˩ no˩ ʈʰɯ˩-hõ˩˥!»|</FORM>
     <FORM kindOf="ortho">"Teeq gge teeq melu jjo, zheina sokhua no teeq hon!"</FORM>
     <NOTE xml:lang="fr" message="réalisation phonétique: proche de: no˩ʈʰɯ˩hõ˩˥; surprend m23, pour qui l’analyse qui s’impose est: no˧ ʈʰɯ˩hõ˩˥; mais il n’est pas entièrement sûr, car les histoires ont leurs tournures, qui ne lui sont pas familières."/>
-    <TRANSL xml:lang="fr">«quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi [ces] trois bols [de vin]!»</TRANSL>
+    <TRANSL xml:lang="fr">«quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi [ces] trois bols [d'alcool]!»</TRANSL>
     <TRANSL xml:lang="en">"When (the) drink is scant, not enough (to get merry), black earth, (you) drink (these) three bowls (of alcohol)!" </TRANSL>
 	<TRANSL xml:lang="zh">“喝得缺（酒），就喝不够！（=“如果酒不够，喝得不过瘾！”）（谚语）这三碗，（给）黑土喝！”</TRANSL>
     <W>
@@ -9133,7 +9133,7 @@
     <AUDIO start="459.0672" end="461.6150"/>
     <FORM kindOf="phono">tʰi˩˥, | &lt;ʐɯ˧ ʈʂʰɯ˧…&gt; ʐɯ˧ ʈʂʰɯ˧-qʰwɤ˥ | le˧-ʑi˩ | tʰi˧-pʰv̩˧˥ ◊ -tɕi˩-zo˩ |</FORM>
     <FORM kindOf="ortho">Tiq, ri teekhua lexxi teepu ji sso,</FORM>
-    <TRANSL xml:lang="fr">alors, (il) a pris ces bols de vin, et les a renversés, de sorte que…</TRANSL>
+    <TRANSL xml:lang="fr">alors, (il) a pris ces bols d'alcool, et les a renversés, de sorte que…</TRANSL>
 	<TRANSL xml:lang="en">Then (he) took the bowl of alcohol (and) poured it out (on the ground), and</TRANSL>
     <TRANSL xml:lang="zh">那么，这碗酒他举起来了就撒（在地上）了，所以……</TRANSL>
     <W>
@@ -9143,7 +9143,7 @@
     </W>
     <W>
       <FORM>ʐɯ˧</FORM>
-      <TRANSL xml:lang="fr">vin</TRANSL>
+      <TRANSL xml:lang="fr">alcool</TRANSL>
 	  <TRANSL xml:lang="en">alcohol</TRANSL>
     </W>
     <W>
@@ -10221,8 +10221,8 @@
   </S>
   <TRANSL xml:lang="fr">Traduction libre du récit "Le mariage de la sœur", qui explique l'origine du rituel "sɯ˧kʰɯ˩":
   Il était une fois un frère et sa sœur. C’est le garçon qui était l’aîné. Il chassait en montagne; on dit qu’il s’en est allé vivre plusieurs années dans les forêts de haute altitude, où il traquait le muntjac. Quant à sa sœur, on dit qu’elle demeurait à la maison. Alors que le grand frère était au loin, la sœur a décidé de se donner en mariage à quelqu’un [et de quitter ainsi la demeure où elle était née, et où les Na passaient traditionnellement leur existence toute entière, en compagnie de leur famille du côté maternel: leurs frères et sœurs et neveux; leur mère et ses frères; etc]. Le mariage une fois scellé, il a été fêté par un grand repas. À l’heure du festin, chacun a pris place: les gens importants dans la partie noble de la maison (celle qui est surélevée d’un plancher), et les petites gens en contrebas: sur le sol en terre battue, plus près de la porte. Une à une, toutes les places ont été occupées, jusqu’au fond de la salle. C’est alors que le grand frère est revenu de la chasse. Il est arrivé là au hasard de la traque, depuis la haute montagne: son chien, parti sur une piste, avait franchi un col, de sorte qu’il n’entendait plus les appels du chasseur; celui-ci s’était mis à la poursuite du chien, et avait suivi ses traces, qui l’avaient conduit jusque là où se tenait la fête. C’est ainsi qu’il est parvenu à la maison que sa petite sœur venait de rejoindre. Le chien est venu prendre place dans l’espace entre la porte et le foyer. On lui a lancé: «Holà, sac à puces! Sors d’ici!»; alors le grand frère a rejoint son chien d’un bond, et il est venu s’asseoir à côté de lui, sur la terre battue. Se tenant assis là, il se demandait: «La mariée, est-ce que ce ne serait pas ma propre sœur?» Il s’est détourné, de sorte que sa sœur ne pouvait le voir de face; ce n’est que quand le repas a commencé pour de bon qu’il s’est assis comme les autres.
-On avait fait bouillir un gros quartier de côtes de porc; on a donné un morceau à chacun, d’abord des belles pièces de viande, grosses comme ça, puis de plus petites, de plus en plus petites. Quand ç’a été le tour du grand frère, tout en bout de rangée, on lui a donné un bout de viande d'une taille ridicule. Pour le vin, même chose: un bol pour chacun des convives, et la jeune mariée a versé à boire à chacun. Parvenue en bout de rangée, elle a servi à boire à son frère. Alors les gens ont pris leur bol de nourriture, et se sont mis à manger. Les gens importants, ils avaient été largement servis, ils ont mangé de bon cœur. Le frère, lui, assis là-bas au fond, il bouillonnait intérieurement. Tandis que les autres convives mangeaient, lui s’est adressé à son chien: «Quand y’a pas assez, à quoi bon se mettre à table! Ces petites côtelettes ridicules… allez, le chien, c’est pour toi!» Après quoi, il a lancé: «Quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi ça!» Il a pris le vin, et il l’a répandu par terre. Voilà comment ça s'est passé, au temps jadis! C’est ce que dit l’histoire. 
-Or vous savez, l’aîné et sa cadette, ça vous fait une paire de gens: ils se doivent d’être toujours soudés. Mais eux avaient été longtemps séparés, du fait que l’aîné, il chassait en haute montagne, tandis que sa sœur, elle était à la maison. Tandis que la petite sœur s’apprêtait à se marier, son grand frère ne revenait pas… et quand il est finalement arrivé, la petite sœur ne l’a pas reconnu. Ce jour-là, elle mangeait et buvait, elle prenait part à la fête; et lui, il s’est trouvé affligé de ne pas être à ses côtés comme un invité de marque. Il a pris le vin, et l’a renversé par terre;  il a pris la viande, et l’a donnée à son chien; et il s’en est allé, drapé dans son gros feutre de chasseur. 
+On avait fait bouillir un gros quartier de côtes de porc; on a donné un morceau à chacun, d’abord des belles pièces de viande, grosses comme ça, puis de plus petites, de plus en plus petites. Quand ç’a été le tour du grand frère, tout en bout de rangée, on lui a donné un bout de viande d'une taille ridicule. Pour l'alcool, même chose: un bol pour chacun des convives, et la jeune mariée a versé à boire à chacun. Parvenue en bout de rangée, elle a servi à boire à son frère. Alors les gens ont pris leur bol de nourriture, et se sont mis à manger. Les gens importants, ils avaient été largement servis, ils ont mangé de bon cœur. Le frère, lui, assis là-bas au fond, il bouillonnait intérieurement. Tandis que les autres convives mangeaient, lui s’est adressé à son chien: «Quand y’a pas assez, à quoi bon se mettre à table! Ces petites côtelettes ridicules… allez, le chien, c’est pour toi!» Après quoi, il a lancé: «Quand y’a pas assez à boire, y’a pas de plaisir! Terre noire, bois-moi ça!» Il a pris l'alcool, et il l’a répandu par terre. Voilà comment ça s'est passé, au temps jadis! C’est ce que dit l’histoire.
+Or vous savez, l’aîné et sa cadette, ça vous fait une paire de gens: ils se doivent d’être toujours soudés. Mais eux avaient été longtemps séparés, du fait que l’aîné, il chassait en haute montagne, tandis que sa sœur, elle était à la maison. Tandis que la petite sœur s’apprêtait à se marier, son grand frère ne revenait pas… et quand il est finalement arrivé, la petite sœur ne l’a pas reconnu. Ce jour-là, elle mangeait et buvait, elle prenait part à la fête; et lui, il s’est trouvé affligé de ne pas être à ses côtés comme un invité de marque. Il a pris l'alcool, et l’a renversé par terre; il a pris la viande, et l’a donnée à son chien; et il s’en est allé, drapé dans son gros feutre de chasseur.
 Comme il partait, sa sœur a soudain pensé: «Mais c’est mon frère!» Alors elle s’est agrippée à son feutre, en lui disant: «C'est toi, mon grand frère!» Mais il a détalé malgré les efforts de sa sœur pour le retenir: il l'a repoussée, et d'un coup de couteau il a tranché le morceau de feutre qu’elle avait saisi; puis, comme elle saisissait l’autre pan de son vêtement, il l’a tranché aussi. Eh bien, la petite sœur en est morte de chagrin. Après sa mort, on a mis son corps au bûcher, mais on a eu beau nourrir le feu pendant trois jours et trois nuits, son corps ne s’est pas consumé. On a tourné et retourné son corps, on l’a transpercé pour que ça brûle, mais il n’a pas brûlé. 
 Alors on s’est mis en quête de son frère; on lui a dit: «Vous devez être son aîné; votre petite sœur, voilà ce qui lui arrive» (la conteuse, pudiquement, ne répète pas ici la situation en question, à savoir que le corps est là sur le bûcher, refusant de se consumer); «nous, on n’est pas au courant de votre histoire familiale!» Alors le grand frère est venu auprès du bûcher; il a dit à sa petite sœur:  «Il ne faut pas que tu fasses des histoires pareilles! Ce qui est fait est fait… il ne faut pas que tu gardes ça sur le cœur! Nous deux… Oui, je suis bel et bien ton grand frère; tu es ma petite sœur. Oublions les fâcheries.» Ce que disant, il a coupé l’avant de son vêtement [= la plus grosse partie de son vêtement de feutre], il l’a jeté au feu, et le corps s’est consumé. 
 Depuis lors, quand une femme s'est mariée et a quitté la maison où elle est née, [lors de son décès] on pratique le rituel sikee /sɯ˧kʰɯ˩/. On dit: «sikee! L’oncle est de retour!» On commence par lancer un cri de défi: «Ehihi!», et on y va. En chemin, on proclame: «sikee! L’oncle est de retour!» Toute la famille qu'avait rejointe la mariée doit se prosterner. On leur lance des «Ehihi!»; on entre chez eux; on donne un grand coup sur les piliers, paf!, comme si on voulait abattre la maison. On frappe un grand coup sur le seuil; on trépigne et on virevolte, en assenant des coups sur les piliers de la maison. «sikee! L’oncle est arrivé!» On se livre au plus grand courroux. Jadis, les rituels sikee /sɯ˧kʰɯ˩/ (le rite pratiqué lors du décès d'une femme née dans notre famille et qui l'a quittée pour se marier) et zhokee /ʈʂo˧kʰɯ˩/ (le rite funéraire pour les autres cas de figures: les cas "normaux"), voilà comment ça se passait: si notre sœur s'est mariée, eh bien, à sa mort, on pratique le rite «sikee»! Les gens de la famille qui a reçu la femme, ils pleurent, ils se prosternent, ils implorent pardon. Les frères et sœurs de la défunte, qui jouent le rôle du frère aîné de la légende, ils lancent des cris de défi: «Ehihi!» Tous les membres de la parentèle, où qu'ils se trouvent, viennent participer au rituel: «sikee! L’oncle est de retour!» disent-ils. Toute la famille s'installe dans la maisonnée qu’a rejointe la mariée, et se faire nourrir. On n’amène aucun cadeau, pas de nourriture: on n’amène pas le coffret à cadeaux, on vient les mains vides et les bras ballants! Pendant trois jours et trois nuits, on dort là-bas; on y mange; on s’y met à demeure, quoi! «sikee! l’oncle est de retour!» qu’on dit. Les gens chez qui on débarque ont peur, ils se prosternent vrai de vrai! On leur parle avec colère: «vous, ce soir», qu’on dit, «on va vous abattre les piliers de votre maison! La porte de votre maison, on va la défoncer!» Eh! Voilà comment on leur parle. Quand on veillait un défunt, jadis, on suivait les rituels «sikee» et «zhokee»! On disait: "Les gens de «sikee», les voici!" et de même au retour: "Les gens de «sikee», ils s’en retournent!" Quand on pratique «sikee», en famille, on a fière allure! Chacun est paru de ses vêtements les plus beaux, de ses bijoux; on porte chapeau; on s’avance fièrement. Pour «ʈʂo˧kʰɯ˩», la famille vient en apportant des bonnes choses à manger, fanions tibétains à l’épaule; là aussi c’est une belle procession. Les gens de «sikee», ils arrivent en lançant des cris de défi! Ils sont en fureur, pas question qu’ils pleurent. Face à eux, les gens de la belle-famille, ils se détournent, ils pleurent et implorent pardon. En revanche, pour le rite «ʈʂo˧kʰɯ˩», les gens pleurent! Qu’il s’agisse de ma mère, ma sœur ou mon frère aîné, ou encore ma petite sœur, peu importe: je viens en pleurs.
