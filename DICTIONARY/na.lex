@@ -7509,12 +7509,13 @@
 \df Faire une fête, organiser un banquet, faire une grande réception.
 \gf faire_un_banquet
 \sn 3
-\de To get married (specific sense of the more general meaning ‘to celebrate’).
-\ge to_get_married
-\dn 结婚、办婚礼。
+\de To celebrate a wedding (specific sense of the more general meaning ‘to celebrate’).
+\ge to_celebrate_a_wedding
+\dn 办婚礼。
 \gn 办婚礼
-\df Célébrer les noces, célébrer un mariage, se marier.
-\gf se_marier
+\df Célébrer les noces, célébrer un mariage.
+\gf célébrer_les_noces
+\xv ʐɯ˧ ʈʰɯ˩, | hɑ˧ dzɯ˧
 
 \lx ɖæ˩mi˧
 \or Ddaemi
