@@ -1060,6 +1060,7 @@
 \nt <type="hist" print="n" langue="fra"> D'abord noté ‡ɑ˧ʁu˥ hĩ˥.
 \ton LM+#H
 \lc ɑ˩ʁo˧hĩ˧
+\an hĩ˧hĩ#˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so F4
@@ -21418,16 +21419,16 @@
 \xv ʝi˧ mɤ˧-hĩ˧˥
 \xe … need not be done, does not have to be done
 \xn 不应该做
-\xf … n'a pas à être fait
+\xf il ne faut pas faire…, … ne doit pas être fait, … n'a pas à être fait
 \xv njɤ˧ | ʝi˧-mɤ˧-hĩ˧-hĩ˥ | (ɖɯ˧-pi˧) ʝi˧-ze˩!
 \xe I have done something I shouldn't have!
 \xn 我做了一件不应该做的事！
 \xf j'ai fait quelque chose que j'aurais pas dû!
+\xc <type="hist" langue="fra" print="n" dom="ton"> xxxx Sans doute ɖɯ˧-pi˧˥ 'un peu, un petit quelque chose'?
 \xv no˧ | lo˧ ʝi˧-hĩ˧!
 \xe You have to work! / You must work!
 \xn 你应该工作啊！
 \xf Il faut que tu travailles!
-\dt 02/Sep/2015
 
 \lx hĩ˥
 \sf <nb="B"> 249
@@ -21466,20 +21467,20 @@
 \gn 某人
 \df Quelqu'un.
 \gf quelqu'un
-\xv hĩ˧-ɲɯ˩ | ʐwɤ˩-dʑo˩ pʰæ˥-di˩!
+\xv hĩ˧-ɳɯ˩ | ʐwɤ˩-dʑo˩ pʰæ˥-di˩!
 \xe Someone must be talking (about you)! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说（你）！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle (de toi)! (Ce qu'on dit quand quelqu'un éternue.)
-\xv hĩ˧-ɲɯ˩ | ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˩-di˩!
+\xv hĩ˧-ɳɯ˩ | ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˩-di˩!
 \xe Someone must be talking about her/him! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说他！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle d'elle/de lui! (Ce qu'on dit quand quelqu'un éternue.)
 \xc <type="hist" langue="fra" print="n" dom="ton"> Avant novembre 2024: noté /ʈʂʰɯ˧ ʐwɤ˥-dʑo˩ pʰæ˥-di˩/. Sans doute copier/coller de l'exemple précédent, insuffisamment relu lors de la saisie du présent exemple.
-\xv hĩ˧-ɲɯ˩ | no˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
+\xv hĩ˧-ɳɯ˩ | no˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
 \xe Someone must be talking about you! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说你！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle de toi! (Ce qu'on dit quand quelqu'un éternue.)
-\xv hĩ˧-ɲɯ˩ | njɤ˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
+\xv hĩ˧-ɳɯ˩ | njɤ˧ ʐwɤ˧-dʑo˧ pʰæ˧-di˩!
 \xe Someone must be talking about me! (A sentence one says when somebody sneezes.)
 \xn 肯定有人在说我！（打喷嚏时说的一句话。）
 \xf Il doit y avoir quelqu'un qui parle de moi! (Ce qu'on dit quand quelqu'un éternue.)
@@ -21637,6 +21638,7 @@
 \nt <type="hist" print="n" langue="fra"> (d'abord noté hi˥)
 \ton #H
 \lc hi˧
+\sy hi˧tʰo˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -21787,13 +21789,14 @@
 \nt <type="hist" print="n" langue="fra"> ton d2a (vérifié en 2009)
 \ton #H
 \lc hĩ˧hĩ˧
+\an ɑ˩ʁo˧-hĩ#˥
 \so F4
 \pdv v̩˧
 \de Strangers, people outside the family.
 \ge strangers
 \dn 外人
 \gn 外人
-\df Les gens extérieurs à la famille (s'oppose à: ‘les gens de la famille’).
+\df Les gens extérieurs à la famille. (Ce terme s'oppose à: ‘les gens de la famille’.)
 \gf gens_extérieurs_à_la_famille
 
 \lx hi˧kʰɯ#˥
@@ -21838,6 +21841,10 @@
 \sf <nb="B"> 364
 \sf <nb="2011"> 423
 \or hin laguhin
+\mr hĩ˥
+\mr lɑ˧˥1
+\mr kv̩˧˥
+\mr -hĩ˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -22123,11 +22130,15 @@
 \sf <nb="B"> 120b
 \sf <nb="2011"> 185
 \or xiekhua
+\mr hi˥
+\mr qʰwɤ˩α2
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté /kʰwɑ/)
-\nt <dom="sem" langue="fra"> (ce sont surtout les grosses dents, molaires et autres, qui subissent ces tourments)
+\nt <dom="sem" langue="fra"> Mme Latami relève que ce sont surtout les grosses dents, molaires et autres, qui subissent ces tourments.
+\nt <dom="sem" langue="eng"> Mrs. Latami points out that it is mainly the large teeth, molars and wisdom teeth, that suffer these torments.
+\nt <dom="sem" langue="cmn"> 拉他咪女士指出，患龋齿的主要是大牙：臼齿和智齿。
 \ton L#
 \lc hi˧qʰwɤ˩
 \so F4
@@ -22153,17 +22164,16 @@
 \ton L-M
 \lc hi˩ʁwɤ˩lo˥
 \so F4
-\de The name of a village in the plain of Yongning.
-\ge village_name
-\dn 习瓦洛村：永宁坝子的一个村落
+\de Xiewualo, a village in the plain of Yongning. Latitude: 27.78599, longitude: 100.67404.
+\ge Xiewualo
+\dn 习瓦洛村（也称作‘黑瓦罗’村）：永宁坝子的一个村落。经 纬 度：100.66097，27.76789
 \gn 习瓦洛村
-\df Un village de la plaine de Yongning.
-\gf nom_de_village
+\df Xiewualo, un village de la plaine de Yongning, au nord-nord-est du temple. Latitude: 27.78599, longitude: 100.67404.
+\gf Xiewualo
 \xv dʑɤ˩bv̩˧-kɤ˧sɑ˥-ʁwɤ˩, | hi˩ʁwɤ˩-lo˥, | æ˩mi˧-ʁwɤ#˥, | lɑ˧lo˧-ʁwɤ˥, | lɑ˧ŋwɤ˧, | bɤ˧tsʰo˧gv̩˥, | ə˧lɑ˧-ʁwɤ#˥, | gæ˧ɻæ˩, | qʰæ˧tɕʰi˧, | tʰo˧ʈɯ#˥
 \xe The ten Na villages considered in traditional geography as belonging to the vicinity of the Yongning temple.
 \xn 永宁摩梭地理概念中，距离扎美寺最近的十个村落：佳部嘎萨瓦、习瓦洛、阿咪瓦、拉洛瓦、拉瓦、巴搓古、阿拉瓦、嘎尔、开基、拖支。
 \xf Les dix villages na traditionnellement considérés comme appartenant au voisinage du temple de Yongning.
-\dt 11/May/2017
 
 \lx hi˧tʰɑ˩
 \sf <nb="2011"> 1414
@@ -22193,6 +22203,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc hĩ˧tɕʰɯ˧
+\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
 \so F4
 \de Family member belonging to the same lineage (on the mother's side).
 \ge family_members_of_same_lineage
@@ -22205,12 +22216,12 @@
 \xn 他是我的亲戚！
 \xf C'est quelqu'un de mon lignage!
 \xv hĩ˧-tɕʰɯ˧ mɤ˧-ɲi˥ F | hĩ˧-tɕʰɯ˧ ʝi˧ tʰɑ˩-kv̩˩!
-\xe “Even if one is not (born) a family member, it is possible to become one!" A saying that refers to quasi-family links between friends, which amount to a form of adoption into the family circle.
-\xn “不是亲戚，也可以变成亲戚！”这个俗语来形容朋友之间的深情，变成像家人之间的感情。
-\xf «Même si on n'est pas de la même famille (au départ), on peut le devenir!» Formule traditionnelle pour désigner les liens quasi-familiaux tissés entre amis, qui reviennent à des formes d'adoption au sein du cercle familial.
+\xe “Even if one is not (born) a family member, it is possible to become one!" A saying that refers to quasi-family links between friends, which get close to a form of adoption into the family circle.
+\xn “不是亲戚，也可以变成亲戚！”这个俗语来形容朋友之间的深情，变成接近家人之间的感情。
+\xf «Même si on n'est pas de la même famille (au départ), on peut le devenir!» Formule traditionnelle pour désigner les liens quasi-familiaux tissés entre amis, qui se rapprochent de formes d'adoption au sein du cercle familial.
 
 \lx hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
-\or hinqi
+\or hinqi-hinzhe
 \mr hĩ˧-tɕʰɯ#˥
 \mr hĩ˧-ʈʂɤ#˥
 \ps n
@@ -22238,6 +22249,7 @@
 \nt <type="hist" print="n" langue="fra"> (notation 2006: “hi˧tʰo˧, tons confirmés à plusieurs reprises"; 2007: changé en: ˥ ˥) (confirmé: n'est pas /ɕi/) corrigé en septembre 2011 en: ˧ ˧˥
 \ton MH#
 \lc hi˧tʰo˧˥
+\sy hi˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -22259,6 +22271,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc hĩ˧ʈʂɤ˧
+\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
 \so F4
 \de Family member belonging to the same lineage (on the mother's side).
 \ge family_members_of_same_lineage
@@ -22313,7 +22326,7 @@
 \xv qv̩˧ʈʂæ˧=bv̩˥ | hi˩ʐæ˥
 \xe the uvula; specifying ‘the throat's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 小舌
-\xf la luette; la précision ‘…de la gorge' permet de lever l'ambiguïté lorsqu'il pourrait s'agir du tendon de la langue, lui aussi désigné comme |fv{/hi˩ʐæ˥/}.
+\xf la luette; la précision ‘…de la gorge' permet de lever l'ambiguïté lorsqu'il pourrait s'agir du tendon de la langue, pareillement désigné comme |fv{/hi˩ʐæ˥/}.
 \sn 2
 \de Tendon of the tongue.
 \ge tendon_of_the_tongue
@@ -22324,7 +22337,7 @@
 \xv hi˩mi˩=bv̩˥ | hi˩ʐæ˥
 \xe the tendon of the tongue; specifying ‘the tongue's…' disambiguates between the uvula and the tendon of the tongue, which are referred to by the same term, |fv{/hi˩ʐæ˥/}.
 \xn 舌头的筋
-\xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme |fv{/hi˩ʐæ˥/}.
+\xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, pareillement désignée comme |fv{/hi˩ʐæ˥/}.
 
 \lx hõ˧˥
 \sf <nb="B"> 818
@@ -22850,7 +22863,7 @@
 \xf les gens en bonne santé; exemple typique: les jeunes en pleine forme
 \rf F4
 
-\lx ho˩tʰɑ˩˥
+\lx ho˩tʰɑ˩
 \or hota
 \bw <langue="cmn"> 红糖
 \ps n
@@ -22859,7 +22872,8 @@
 \sd <langue="eng"> food
 \nt <type="hist" print="n" langue="fra"> Sens indiqué par M18 en 2018.
 \ton L
-\lc ho˩tʰɑ˩
+\lc ho˩tʰɑ˩˥
+\cf pi˧tʰɑ˩
 \so F4
 \de Brown sugar.
 \ge 红糖::brown_sugar
@@ -22867,7 +22881,14 @@
 \gn 红糖（借词）
 \df Sucre roux, sucre intégral, suc de canne séché.
 \gf 红糖::sucre_roux
-\dt 03/Sep/2015
+\xv pi˧tʰɑ˩ | mɤ˧-dʑo˧! | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩!
+\xe [In the old days] there was no white sugar! There was only brown sugar! (Sugar came in the form of sugar loaves.)
+\xn （过去）没有白糖，只有红糖！
+\xf [Autrefois] il n'y avait pas de sucre blanc! Il n'y avait que du sucre roux! (Le sucre se présentait sous forme de pains de sucre.)
+\txt Benevolence.166
+\doi 10.24397/pangloss-0009081#S166
+\txtsup Funeral.202
+\doisup 10.24397/pangloss-0004572#S202
 
 \lx ho˩to˩ʂæ˧
 \sf <nb="B"> 2060
@@ -22883,11 +22904,11 @@
 \va <speaker="F5"> *
 \va <speaker="M21"> ʐɯ˩hṽ̩˩
 \vc <type="hist" print="n" langue="fra"> ton d3; donne ʐɯ˩hṽ̩˩ dzɯ˩˧
-\de Yew.
+\de Yew, |fi{Taxus baccata}.
 \ge 红豆杉::yew
 \dn 红豆杉
 \gn 红豆杉（借词）
-\df If.
+\df If, |fi{Taxus baccata}.
 \gf 红豆杉::if
 \xv ho˩to˩ʂæ˧=bv̩˧ | bæ˩bæ˩ ɲi˥!
 \xe It's a yew flower!
@@ -46796,6 +46817,7 @@
 \sd <langue="eng"> food
 \ton L#
 \lc pi˧tʰɑ˩
+\cf ho˩tʰɑ˩
 \so F4
 \de White sugar.
 \ge 白糖::white_sugar
@@ -46803,6 +46825,12 @@
 \gn 白糖（借词）
 \df Sucre blanc.
 \gf 白糖::sucre_blanc
+\xv pi˧tʰɑ˩ | mɤ˧-dʑo˧! | ho˩tʰɑ˩-lɑ˥ dʑo˩-ɲi˩ mæ˩!
+\xe [In the old days] there was no white sugar! There was only brown sugar! (Sugar came in the form of sugar loaves.)
+\xn （过去）没有白糖，只有红糖！
+\xf [Autrefois] il n'y avait pas de sucre blanc! Il n'y avait que du sucre roux! (Le sucre se présentait sous forme de pains de sucre.)
+\txt Benevolence.166
+\doi 10.24397/pangloss-0009081#S166
 
 \lx pʰi˩tʰɑ˩
 \sf <nb="B"> 2176
@@ -53499,9 +53527,9 @@
 \xn 咱们两个是一家人。
 \xf Tous deux, on est de la même famille
 \xv qʰwɤ˩ɖɯ˩˥, | v̩˩dze˩˥
-\xe family and friends, extended family circle
+\xe family and friends, extended family circle (this is a metaphor, akin to the English saying “birds of a feather flock together”)
 \xn 亲人：泛指亲戚与亲密朋友们
-\xf famille et amis, cercle familial élargi (métaphore: comme des oiseaux qui forment ensemble un groupe: "birds of a feather flock together")
+\xf famille et amis, cercle familial élargi (métaphore: comme des oiseaux qui forment ensemble un groupe)
 \xv ə˧zɯ˩ | qʰwɤ˩ɖɯ˩˥ | v̩˩dze˩ ɲi˥
 \xe We two belong to the same extended family circle.
 \xn 咱们两个是亲戚朋友们，算一家人。
