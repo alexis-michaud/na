@@ -1060,7 +1060,7 @@
 \nt <type="hist" print="n" langue="fra"> D'abord noté ‡ɑ˧ʁu˥ hĩ˥.
 \ton LM+#H
 \lc ɑ˩ʁo˧hĩ˧
-\an hĩ˧hĩ#˥
+\an hĩ˧hĩ#˥
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \so F4
@@ -21841,10 +21841,10 @@
 \sf <nb="B"> 364
 \sf <nb="2011"> 423
 \or hin laguhin
-\mr hĩ˥
+\mr hĩ˥
 \mr lɑ˧˥1
 \mr kv̩˧˥
-\mr -hĩ˥
+\mr -hĩ˥
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -22203,7 +22203,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc hĩ˧tɕʰɯ˧
-\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
+\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
 \so F4
 \de Family member belonging to the same lineage (on the mother's side).
 \ge family_members_of_same_lineage
@@ -22271,7 +22271,7 @@
 \sd <langue="eng"> society
 \ton #H
 \lc hĩ˧ʈʂɤ˧
-\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
+\cf hĩ˧-tɕʰɯ˧-hĩ˧-ʈʂɤ#˥
 \so F4
 \de Family member belonging to the same lineage (on the mother's side).
 \ge family_members_of_same_lineage
@@ -58190,7 +58190,7 @@
 \or shatazzei
 \bw <langue="cmn"> 砂糖
 \ps n
-\cf ho˩tʰɑ˩˥
+\cf ho˩tʰɑ˩
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <type="hist" print="n" langue="fra"> Sens indiqué par M18 en 2018.
