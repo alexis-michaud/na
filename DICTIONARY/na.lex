@@ -19692,11 +19692,12 @@
 \sd <langue="eng"> given name
 \ton M
 \nt <type="hist" print="n" langue="fra" dom="sem"> xxxx vérifier : n'est-ce pas un prénom unisexe, ou un prénom féminin?
+\nt <type="hist" print="n" langue="fra" dom="sem"> La transcription chinoise comme 古玛 est basée sur une recherche rapide qui montre que cette forme est attestée à date récente, mais elle n'est peut-être pas la plus répandue ni la plus usuelle dans un registre formel.
 \so F4
 \de Gguma, a masculine given name.
 \ge Gguma
-\dn 男性名字
-\gn 男性名字
+\dn 古玛：一个男性名字
+\gn 古玛
 \df Gguma, un prénom masculin.
 \gf Gguma
 \xv hĩ˧ | ʈʂʰɯ˧-v̩˧, | gv̩˧mɑ˧ mv̩˧ʈʂæ˧˥!
@@ -44009,7 +44010,7 @@
 
 
 \lx ʈæ˧ʂɯ˧-no˩bv̩˩
-\or Nobbu
+\or Daeshi Nobbu
 \bw <langue="bod"> Bkra shis Nor bu |tib{་ནོར་བུ་བཀྲ་ཤིས}
 \mr ʈæ˧ʂɯ˧
 \mr no˩bv̩˧
