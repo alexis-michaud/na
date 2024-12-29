@@ -938,7 +938,7 @@
 \xn 青、蓝色、绿色衣服
 \xf vêtement bleu; littéralement vêtement ‘couleur perroquet'
 \rf F5
-\xv æ̃˧qæ˩ni˩~æ̃˧qæ˩ni˩gv̩˩
+\xv æ̃˧qæ˩ni˩|~æ̃˧qæ˩ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
 \xn |fg{重叠}。同上：青色
 \xf |fg{red}; même sens: bleu-vert
@@ -946,7 +946,7 @@
 \xc <langue="eng" dom="dialect"> Not accepted by Mrs. Latami and Mr. He Jiaze (consultant Jj).
 \xc <langue="cmn" dom="dialect"> 拉他咪女士与何甲泽先生不用这个说法。
 \rf F5
-\xv æ̃˧kæ˩~æ̃˧kæ˩ ni˩gv̩˩
+\xv æ̃˧kæ˩|~æ̃˧kæ˩ ni˩gv̩˩
 \xe |fg{red}; same meaning: blue-green
 \xn |fg{重叠}。同上：青色
 \xf |fg{red}; même sens: bleu-vert
@@ -1336,9 +1336,9 @@
 \df Jadis, dans le passé.
 \gf jadis
 \xv æ˧ʂæ˧=bv̩˧
-\xe |fg{poss}: …of the past
-\xn |fg{属式}：从前的……
-\xf |fg{poss}: …du passé
+\xe 〜 |fg{poss}: …of the past
+\xn 〜|fg{属式}：从前的……
+\xf 〜 |fg{poss}: …du passé
 \xc PHONO
 \xc <dom="ton" langue="fra"> Schéma tonal régulier pour un mot disyllabique au ton #H suivi du possessif.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
@@ -1846,9 +1846,9 @@
 \df Récolte; plantes que l'on a semées.
 \gf récolte
 \xv bæ˩ ɲi˥
-\xe |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是庄稼
-\xf |fg{cop}
+\xf 〜 |fg{cop}
 \xc PHONO
 \xv ɖɯ˧-kʰv̩˧ ʈv̩˧-bæ˥ mv̩˩, | ɕi˧-kʰv̩˧ | le˧-mɤ˧-dzɯ˧!
 \xe “This year, even if we had had a thousand harvests, it would not have lasted a hundred years!" This proverb is a consolation for years of bad harvests: “If the harvest had been excellent, it would not have lasted forever anyway! Everything begins anew every year, so let us look forward!"
@@ -2626,9 +2626,9 @@
 \xf balayer les saletés, balayer le sol+|fg{pfv}
 \xc PHONO
 \xv le˧-bæ˧~bæ˥
-\xe |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn 扫一扫
-\xf |fg{accomp} |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv ɖʐɤ˩ bæ˩˥
 \xe to sweep the stairs
@@ -2917,9 +2917,9 @@
 \df Cosse de haricot.
 \gf cosse
 \xv bi˩bi˧ ɲi˩
-\xe |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是豆荚
-\xf |fg{cop}
+\xf 〜 |fg{cop}
 \xc PHONO
 \xv nv̩˩ɭɯ˧-bi˩bi˩
 \xe soybean pods
@@ -3163,9 +3163,9 @@
 \df Se reculer.
 \gf reculer
 \xv bi˩tɑ˩-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 退后了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \dt 24/Apr/2017
 
@@ -3358,13 +3358,13 @@
 \df Aller.
 \gf aller
 \xv bi˧-tʰɑ˧!
-\xe |fg{abilitive}
+\xe 〜 |fg{abilitive}
 \xn 可以去！
-\xf |fg{abilitive}: On peut y aller!
+\xf 〜 |fg{abilitive}: On peut y aller!
 \xv bi˧-tʰɑ˧-ze˥!
-\xe |fg{abilitive}+|fg{pfv}: We can go now!
+\xe 〜 |fg{abilitive}+|fg{pfv}: We can go now!
 \xn 可以去了！
-\xf |fg{abilitive}+|fg{pfv}: Ça y est, on peut y aller!
+\xf 〜 |fg{abilitive}+|fg{pfv}: Ça y est, on peut y aller!
 \xv le˧-bi˩
 \xe to go back
 \xn 回去，返回
@@ -6219,14 +6219,14 @@
 \xn 泼水、撒水
 \xf asperger d'eau; arroser
 \xv ɖɯ˧-bɻ̩˧~bɻ̩˥-ɻ̩˩
-\xe |fg{delimitative} |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 泼一泼
-\xf |fg{délimitatif} |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xv le˧-bɻ̩˧~bɻ̩˥-ze˩
-\xe |fg{accomp} |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn 泼了一点
-\xf |fg{accomp} |fg{red} |fg{pfv}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xc PHONO
 \sn 2
 \sd <langue="fra"> verbe
@@ -6808,9 +6808,9 @@
 \df Inventer, trouver.
 \gf 想::inventer/trouver
 \xv le˧-ɕjɤ˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn 想了
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv ʈʂʰɯ˧ | pæ˧˥hwɤ˧ | ɕjɤ˧ ɣɯ˧!
 \xe (S)he knows to find solutions under all circumstances! / (S)he is good of finding solutions to all problems!
@@ -7222,9 +7222,9 @@
 \xn 砍一下
 \xf donner un coup
 \xv dɑ˩~dɑ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv le˧-dɑ˩~dɑ˩(-ze˩)
 \xe (I) have cut (e.g. a chicken) into pieces
 \xn （我把一只鸡）砍成块了。
@@ -8440,9 +8440,9 @@
 \df Ramper.
 \gf ramper
 \xv ɖɤ˧~ɖɤ˧ (-ze˩)
-\xe |fg{red}
+\xe 〜 |fg{red}
 \xn |fg{重叠}：爬一爬
-\xf |fg{red}
+\xf 〜 |fg{red}
 \xv ʈʂʰɯ˧ | ɖɤ˧~ɖɤ˧-ʁo˧-ze˩!
 \xe She can crawl! / She knows how to crawl! (About a baby that crawls around.)
 \xn 她会爬了！
@@ -9320,9 +9320,9 @@
 \xf 〜 |fg{rel}
 \xc PHONO
 \xv le˧-ɖɯ˩(-ze˩)
-\xe |fg{accomp}+|fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn |fg{实施} 〜 |fg{整体体}
-\xf |fg{accomp}+|fg{pfv}: ça a grandi!/ il/elle a grandi!
+\xf |fg{accomp} 〜 |fg{pfv}: ça a grandi!/ il/elle a grandi!
 \xc PHONO
 \xv ə˧pɤ˥ɖɯ˩-gv̩˩
 \xe very big
@@ -13024,9 +13024,9 @@
 \df Manger.
 \gf manger
 \xv le˧-dzɯ˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施}
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc <dom="phono"> [|fv{læ˧-dzɯ˥}]
 \xc PHONO
 \xv hɑ˧ dzɯ˧
@@ -13588,9 +13588,9 @@
 \df Irriguer.
 \gf irriguer
 \xv dʑɯ˧ li˧-ze˧
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 灌溉了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv dʑɯ˧ mɤ˧-li˧-hĩ˧ lv̩˧
 \xe dry farmland, dry field: a field that is not irrigated
 \xn 旱田：不灌溉的田
@@ -14551,10 +14551,9 @@
 \df Être gravement voûté, avoir une bosse.
 \gf bossu
 \xv dʑɯ˩ʈv̩˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 驼背了
-\xf |fg{pfv}
-\dt 27/Aug/2015
+\xf 〜 |fg{pfv}
 
 \lx dʑɯ˩zo˩
 \sf <nb="B"> 40e
@@ -14896,9 +14895,9 @@
 \xf |fg{accomp} 〜 |fg{pfv}: s'est mouillé
 \xc PHONO
 \xv ɖʐɻ̩˧~ɖʐɻ̩˧
-\xe |fg{red}
+\xe 〜 |fg{red}
 \xn 〜 |fg{重叠}
-\xf |fg{red}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv ʈʂe˧ ɖʐɻ̩˧-ze˩!
 \xe The earth is damp!
@@ -16467,9 +16466,9 @@
 \df Aîné·e: grand frère, grande sœur. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 \gf grand_frère/grande_sœur
 \xv ə˧mv̩˩=ɻæ˩
-\xe |fg{pl}: elder siblings. The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
+\xe 〜 |fg{pl}: elder siblings. The term is also used to refer to the daughters and sons of one's mother's sisters who are older than self.
 \xn 复数：哥哥们、姐姐们。该词也用于指比自己年龄大的母亲姐妹的孩子们。
-\xf |fg{pl}: les aînés dans la fratrie: sœurs et frères aîné·es. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
+\xf 〜 |fg{pl}: les aînés dans la fratrie: sœurs et frères aîné·es. Le terme est également utilisé pour désigner les filles et fils des sœurs de la mère qui sont plus âgé·es que soi.
 
 \lx ə˧mv̩˧-gi˥zɯ˩
 \sf <nb="B"> 315
@@ -16856,9 +16855,9 @@
 \df Tante (sœur cadette de la mère).
 \gf sœur_cadette_de_la_mère
 \xv ə˧tɕi˩=ɻæ˩
-\xe |fg{pl}: aunts
+\xe 〜 |fg{pl}: aunts
 \xn 姨母们
-\xf |fg{pl}: les tantes
+\xf 〜 |fg{pl}: les tantes
 
 \lx ə˧ti˥-dzi˩
 \or Adizzee
@@ -17051,9 +17050,9 @@
 \df Beau, joli.
 \gf beau
 \xv ɖwæ˧˥ | ə˧v̩˧˥
-\xe |fg{intensive.very}
+\xe |fg{intensive.very} 〜
 \xn 很好看！
-\xf |fg{intensif.très}
+\xf |fg{intensif.très} 〜
 \xv ə˧-mɤ˧-v̩˧˥
 \xe |fg{neg}: ugly
 \xn |fg{否定} 〜：丑陋
@@ -17467,11 +17466,10 @@
 \gf 发达::florissant
 \dv le˧-ʝi˧ le˧-hwɤ˩-ze˩
 \xv fɑ˧tɑ˧-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 很发达的了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
-\dt 13/Jun/2017
 
 \lx fɑ˩α
 \sf <nb="B"> 1247
@@ -17544,9 +17542,9 @@
 \df Content, joyeux; agréable
 \gf content
 \xv ɖwæ˧˥ | fv̩˧
-\xe |fg{intensive.very}: really glad, very happy
+\xe |fg{intensive.very} 〜: really glad, very happy
 \xn 很高兴
-\xf |fg{intensif.très}: très content, tout content
+\xf |fg{intensif.très} 〜: très content, tout content
 \xv dʑɤ˩˥ | fv̩˧
 \xe really glad, very happy
 \xn 很高兴
@@ -18049,9 +18047,9 @@
 \df Petit frère. Le terme est également utilisé pour désigner les fils des sœurs de la mère qui sont plus jeunes que soi.
 \gf petit_frère
 \xv gi˧zɯ˧=ɻæ˥
-\xe |fg{pl}: younger brothers. The term is also used to refer the sons of one's mother's sisters who are younger than oneself.
+\xe 〜 |fg{pl}: younger brothers. The term is also used to refer the sons of one's mother's sisters who are younger than oneself.
 \xn 复数：弟弟们。这个词也用于比自己年龄小的母亲姐妹的男孩子们。
-\xf |fg{pl}: les petits frères; le terme est également utilisé pour désigner les fils des sœurs de la mère qui sont plus jeunes que soi.
+\xf 〜 |fg{pl}: les petits frères; le terme est également utilisé pour désigner les fils des sœurs de la mère qui sont plus jeunes que soi.
 \xc <type="hist" print="n" langue="fra" dom="ton"> Tons confirmés.
 
 \lx gi˩α
@@ -18284,9 +18282,9 @@
 \df Porter à l’épaule; porter sur une palanche.
 \gf porter_à_l_épaule
 \xv tʰi˧-gɤ˧˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xc PHONO
 \xv tʰi˧-gɤ˧-ze˥
 \xe |fg{dur} 〜 |fg{pfv}
@@ -18452,13 +18450,13 @@
 \df Déborder. Par exemple, quand on a mis un couvercle sur une casserole, et que le feu va fort, le liquide bout à gros bouillons, et ça déborde.
 \gf déborder
 \xv gɤ˩bv̩˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn |fg{整体体}：溢出来了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv gɤ˩bv̩˧-ho˩-ze˩!
-\xe |fg{fut} |fg{pfv}: It's going to boil over!
+\xe 〜 |fg{fut} |fg{pfv}: It's going to boil over!
 \xn 未来+整体体：要溢出来了！要沸腾了！
-\xf |fg{fut} |fg{pfv}: Ça va déborder !
+\xf 〜 |fg{fut} |fg{pfv}: Ça va déborder !
 
 \lx gɤ˩dzɤ˧
 \sf <nb="2011"> 1068
@@ -18611,9 +18609,9 @@
 \df Petite sœur. Le terme est également employé pour les filles des sœurs de la mère qui sont plus jeunes que soi.
 \gf petite_sœur
 \xv go˧mi˧=ɻæ˩
-\xe |fg{pl}: younger sisters; also: daughters of the mother's sisters who are younger than oneself
+\xe 〜 |fg{pl}: younger sisters; also: daughters of the mother's sisters who are younger than oneself
 \xn 复数：妹妹们。这个词也用于比自己年龄小的母亲姐妹的女孩子们。
-\xf |fg{pl}: les petites sœurs; aussi: les filles des sœurs de la mère qui sont plus jeunes que soi
+\xf 〜 |fg{pl}: les petites sœurs; aussi: les filles des sœurs de la mère qui sont plus jeunes que soi
 
 \lx gɤ˩-qo˧
 \sf <nb="2011"> 1327
@@ -18881,9 +18879,9 @@
 \xn 我好疼！
 \xf J'ai très mal!
 \xv go˩-hĩ˩˥
-\xe |fg{nmlz}: patient, sick person
+\xe 〜 |fg{nmlz}: patient, sick person
 \xn 病人，病的（人）
-\xf |fg{nmlz}: patient, malade
+\xf 〜 |fg{nmlz}: patient, malade
 \xv hĩ˧ | go˩-hĩ˩˥
 \xe sick person, person who is ill, patient
 \xn 病人
@@ -19362,9 +19360,9 @@
 \xf |fg{neg} 〜: pas vrai
 \xc PHONO
 \xv gɯ˩-hĩ˩˥
-\xe |fg{nmlz}
+\xe 〜 |fg{nmlz}
 \xn 真的
-\xf |fg{nmlz}
+\xf 〜 |fg{nmlz}
 \xc PHONO
 \xv ə˩-gɯ˩˥?
 \xe Is that true?
@@ -19892,9 +19890,9 @@
 \df Fabriquer ou réparer (un outil).
 \gf fabriquer/réparer
 \xv le˧-gv̩˧~gv̩˥
-\xe |fg{red}: to repair
+\xe |fg{accomp} 〜 |fg{red}: to repair
 \xn |fg{重叠}：修理
-\xf |fg{red}: réparer
+\xf |fg{accomp} 〜 |fg{red}: réparer
 \xv le˧-gv̩˩ | le˧-tʰv̩˧-ze˧!
 \xe It's repaired! / It's done! / I have finished doing it!
 \xn 修理好了！／修理出来了！
@@ -19918,9 +19916,9 @@
 \df Ranger.
 \gf ranger
 \xv tʰi˧-gv̩˧~gv̩˥
-\xe |fg{dur}
-\xn |fg{持续体} 〜
-\xf |fg{dur}
+\xe |fg{dur} 〜 |fg{red}
+\xn |fg{持续体} 〜 |fg{重叠}
+\xf |fg{dur} 〜 |fg{red}
 \xc PHONO
 \xv ɖɯ˧-gv̩˧~gv̩˥-ɻ̩˩
 \xe to clear up a little
@@ -20242,9 +20240,9 @@
 \xf |fg{accomp} 〜 |fg{pfv}: a tranché
 \xc PHONO
 \xv tʰɑ˧-hæ̃˧˥!
-\xe |fg{proh}
+\xe |fg{proh} 〜
 \xn 禁止式：别切！
-\xf |fg{proh}
+\xf |fg{proh} 〜
 \xc PHONO
 \xv bɑ˩lɑ˩˥ | le˧-hæ̃˧˥, | le˧-ʐv̩˧˥
 \xe to cut cloth to make clothes, and to sew clothes
@@ -21355,9 +21353,9 @@
 \df Ouvrir (les yeux); s'ouvrir (un sac).
 \gf ouvrir
 \xv tʰi˧-hɑ˩
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv njɤ˩ɭɯ˧ | gɤ˩-hɑ˥
 \xe to open one's eyes
 \xn 睁开眼睛
@@ -22653,9 +22651,9 @@
 \df Indigent.
 \gf indigent
 \xv ho˩dʑɯ˩-ze˥
-\xe |fg{pfv}
-\xn |fg{整体体}：变穷苦了
-\xf |fg{pfv}: qui se retrouve à la rue, qui devient démuni
+\xe 〜 |fg{pfv}
+\xn 〜 |fg{整体体}：变穷苦了
+\xf 〜 |fg{pfv}: qui se retrouve à la rue, qui devient démuni
 
 \lx ho˧dʑɯ˧˥
 \or hojji
@@ -23087,9 +23085,9 @@
 \xn |fg{否定} 〜：不合适，不准，不对
 \xf |fg{neg} 〜: faux, erroné, inapproprié
 \xv ho˩-ze˥!
-\xe |fg{pfv}
-\xn |fg{整体体}：对了！／准确！
-\xf |fg{pfv}
+\xe 〜 |fg{pfv}
+\xn 〜 |fg{整体体}：对了！／准确！
+\xf 〜 |fg{pfv}
 \xv ho˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
 \xn 准确的
@@ -23117,9 +23115,9 @@
 \df Chauffer au feu, sécher au feu.
 \gf chauffer_au_feu
 \xv tʰi˧-hɤ˩
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xc PHONO
 \xv le˧-hɤ˩
 \xe |fg{accomp} 〜
@@ -23162,9 +23160,9 @@
 \df Bon, approprié, bien.
 \gf bon
 \xv ɖwæ˧˥ | hɤ˩˥!
-\xe |fg{intensive.very}
+\xe |fg{intensive.very} 〜
 \xn 很好！
-\xf |fg{intensif.très}: c'est très bien!
+\xf |fg{intensif.très} 〜: c'est très bien!
 \xv mɤ˧-hɤ˩
 \xe |fg{neg} 〜: not nice, not suitable
 \xn |fg{否定} 〜：不好
@@ -23510,11 +23508,10 @@
 \xn 笨手笨脚的（男）人
 \xf un maladroit
 \xv hṽ̩˩ɖɻ̩˩~hṽ̩˧ɖɻ̩˧-gv̩˧
-\xe |fg{red}
-\xn |fg{重叠}：笨笨的
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}：笨笨的
+\xf 〜 |fg{red}
 \rf F5
-\dt 24/Apr/2017
 
 \lx hṽ̩˩-ɖʐæ˩ɻæ˥
 \sf <nb="2011"> 1395
@@ -23541,15 +23538,14 @@
 \xe intensely red, red all over
 \xn 红红的
 \xf tout rouge
-\xv hṽ̩˩ɖʐæ˩˥ | hṽ̩˩ɖʐæ˩˥ gv̩˩
-\xe |fg{red}; the first two syllables are higher-pitched than the following two
-\xn |fg{重叠}
-\xf |fg{red}; les deux premières syllabes ont une fréquence fondamentale nettement plus haute que les deux suivantes
+\xv hṽ̩˩ɖʐæ˩˥~| hṽ̩˩ɖʐæ˩˥ gv̩˩
+\xe 〜 |fg{red}; the first two syllables are higher-pitched than the following two
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}; les deux premières syllabes ont une fréquence fondamentale nettement plus haute que les deux suivantes
 \xc <langue="fra" dom="phono"> Forme réduite de |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
 \xc <langue="eng" dom="phono"> Reduced form of |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
 \xc <langue="cmn" dom="phono"> |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}的简化。
 \rf F5
-\dt 14/Jun/2017
 
 \lx hṽ̩˧nɑ˩
 \sf <nb="B"> 1926
@@ -23997,9 +23993,9 @@
 \df Acheter.
 \gf acheter
 \xv le˧-hwæ˧
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv tso˧~tso˧ hwæ˩
 \xe to buy things
 \xn 买东西
@@ -24011,9 +24007,9 @@
 \xf acheter un morceau
 \xc PHONO
 \xv hwæ˧~hwæ˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 
 \lx hwɤ˩
 \or feq
@@ -24125,9 +24121,9 @@
 \df Repriser, raccommoder (vêtement).
 \gf repriser
 \xv le˧-hwɤ˧˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv bɑ˩lɑ˩ hwɤ˥
 \xe to mend clothes
 \xn 补衣服
@@ -24604,10 +24600,9 @@
 \df Rouiller.
 \gf rouiller
 \xv hwɤ˩ʈi˥-ze˩
-\xe |fg{pfv}: it has become rusty
+\xe 〜 |fg{pfv}: it has become rusty
 \xn 生锈了
-\xf |fg{pfv}: ça a rouillé
-\dt 24/Apr/2017
+\xf 〜 |fg{pfv}: ça a rouillé
 
 \lx hwɤ˧zo#˥
 \or huasso
@@ -25123,9 +25118,9 @@
 \xf |fg{neg} 〜: ne pas dessiner
 \xc PHONO
 \xv tʰɑ˧-ʝi˥!
-\xe |fg{proh}
+\xe |fg{proh} 〜
 \xn 禁止式：别画！
-\xf |fg{proh}
+\xf |fg{proh} 〜
 \xc PHONO
 \xv ʈʂɑ˧tɑ˥ ʝi˩
 \xe to draw a sign
@@ -25599,9 +25594,9 @@
 \xn 同上。
 \xf Idem ci-dessus.
 \xv ʝi˩ŋɤ˧-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 往后仰了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 
 \lx ʝi˧pʰv̩#˥
@@ -27652,9 +27647,9 @@
 \df Donner, passer, transmettre.
 \gf donner
 \xv ki˧~ki˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv tʰi˧-ki˩~ki˩
 \xe |fg{dur} 〜 |fg{red}
@@ -27837,9 +27832,9 @@
 \df Frapper à la porte, heurter à la porte. (La forme monosyllabique n'est pas couramment utilisée: c'est la forme rédupliquée qui est en usage.)
 \gf frapper_à_la_porte
 \xv tʰi˧-kɤ˧˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 
 \lx kʰo˥
 \sf <nb="B"> 1746
@@ -27997,9 +27992,9 @@
 \df Dépenser.
 \gf dépenser
 \xv kʰɤ˧ɕjɤ˧-ze˩!
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 花掉了！
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv le˧-kʰɤ˧ɕjɤ˧ | le˧-se˩-kʰɯ˩
 \xe to spend all the money
 \xn 全部都花完
@@ -29057,9 +29052,9 @@
 \df Mettre, mettre dans (par exemple: mettre de la farine dans une casserole); libérer, lâcher (par exemple: un poulet qu'on tenait par les pattes); semer en enfonçant les graines; ranger, remettre à sa place.
 \gf mettre
 \xv kʰɯ˩~kʰɯ˧˥
-\xe |fg{red}
+\xe 〜 |fg{red}
 \xn 〜 |fg{重叠}
-\xf |fg{red}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv qwɤ˧-qo˧ | si˧ tʰi˧-kʰɯ˧˥
 \xe to add wood into the fire
@@ -30973,9 +30968,9 @@
 \df Ramasser; cueillir (des baies, des choses qu'on se baisse pour cueillir).
 \gf cueillir
 \xv kv̩˧~kv̩˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv gɤ˩-kv̩˧~kv̩˥
 \xe to pick up (something that was on the ground)
 \xn 捡起来（地上的东西）
@@ -35069,9 +35064,9 @@
 \xn 铜饭锅
 \xf Casserole à céréales en bronze
 \xv lo˩qo˧=bv̩˧
-\xe |fg{poss}
-\xn |fg{属式}：铜饭锅的
-\xf |fg{poss}
+\xe 〜 |fg{poss}
+\xn 〜 |fg{属式}：铜饭锅的
+\xf 〜 |fg{poss}
 \xc PHONO
 
 \lx lo˩qo˧
@@ -36477,9 +36472,9 @@
 \xn 温暖
 \xf très tiède, bien tiède
 \xv ɖwæ˧˥ | ɬv̩˩˥
-\xe |fg{intensive.very}
+\xe |fg{intensive.very} 〜
 \xn 很暖和
-\xf |fg{intensif.très}: très tiède
+\xf |fg{intensif.très} 〜: très tiède
 \xv ɬv̩˩-hĩ˩˥
 \xe 〜 |fg{rel}/|fg{nmlz}
 \xn 温暖的
@@ -36546,13 +36541,13 @@
 \df Bouger, faire des mouvements.
 \gf bouger
 \xv lv̩˩~lv̩˧-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 动了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv tʰi˧-lv̩˩~lv̩˩(-ze˩)
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} |fg{red}
+\xf |fg{dur} 〜 |fg{red}
 \xv tʰi˧-lv̩˩~lv̩˩ | se˧
 \xe to walk askance, to walk askew: e.g. a lame person walks with difficulty
 \xn 歪着走、扭着走、例如：残疾人走路有困难
@@ -36653,9 +36648,9 @@
 \df Irriguer (en faisant couler de l'eau dans de petites tranchées).
 \gf irriguer
 \xv dʑɯ˧ | le˧-mæ˩
-\xe |fg{accomp}: to water, to irrigate
+\xe |fg{accomp} 〜: to water, to irrigate
 \xn 浇灌
-\xf |fg{accomp}: irriguer, arroser
+\xf |fg{accomp} 〜: irriguer, arroser
 
 \lx dʑɯ˩ mæ˩
 \mr dʑɯ˩
@@ -36779,9 +36774,9 @@
 \xn 闭嘴
 \xf fermer la bouche
 \xv mæ˩~mæ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv ɲi˧to˧ | tʰi˧-mæ˩~mæ˩
 \xe to close the mouth
 \xn 闭嘴
@@ -37292,14 +37287,14 @@
 \xf |fg{accomp} 〜 |fg{pfv}: a poussé
 \xc PHONO
 \xv le˧-mi˧˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn 推
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv tʰi˧-mi˧˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn 推
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xc PHONO
 \xv tso˧~tso˧ mi˩
 \xe to push something
@@ -37307,17 +37302,17 @@
 \xf pousser quelque chose
 \xc PHONO
 \xv mi˩~mi˧˥
-\xe |fg{red}: to push and squeeze
-\xn |fg{重叠}：推、拥挤
-\xf |fg{red}
+\xe 〜 |fg{red}: to push and squeeze
+\xn 〜 |fg{重叠}：推、拥挤
+\xf 〜 |fg{red}
 \xv hĩ˧ mi˥~mi˩
 \xe to shove someone
 \xn 推人、推搡某人
 \xf pousser quelqu'un, bousculer quelqu'un
 \xv mi˩~mi˧-ɻ̩˥
-\xe |fg{red} |fg{inceptive}
+\xe 〜 |fg{red} |fg{inceptive}
 \xn |fg{重叠}：推、拥挤
-\xf |fg{red} |fg{inchoatif}
+\xf 〜 |fg{red} |fg{inchoatif}
 \xv ɖɯ˩-tɕo˧ mi˧˥, | ʈʂʰɯ˧-tɕo˧ mi˧˥
 \xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
 \xn 东推西挤
@@ -39171,13 +39166,13 @@
 \df Demander.
 \gf demander
 \xv le˧-mv̩˩do˩
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv mv̩˩do˩-ze˥
-\xe |fg{pfv}
+\xe |fg{pfv} 〜
 \xn 问了
-\xf |fg{pfv}
+\xf |fg{pfv} 〜
 \xv ə˧tso˧ mv̩˩do˩-bi˩?
 \xe What would [you] like to ask? / What is your question? (Context: the investigator turns towards his teacher (Ama), obviously wanting to ask a question, but he is tardy in expressing his request, experiencing trouble finding his words in Na. The teacher encourages him by asking, in Na: “What is it you want to ask? / What is your question?”
 \xn 要问什么呢？（情景：调查者向老师转身，明显是有要问老师问题，但不马上说出来，可能是用摩梭语表达自己的意思有一点困难。老师鼓励调查者说出他的问题：“有一个什么问题呢？”）
@@ -40719,9 +40714,9 @@
 \df Souffler (par exemple: souffler sur le feu, attiser le feu; souffler dans un instrument à vent).
 \gf souffler
 \xv mv̩˧~mv̩˥(-ze˩)
-\xe |fg{red}
-\xn |fg{重叠}：吹吹
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}：吹吹
+\xf 〜 |fg{red}
 \xv bv̩˩qʰv̩˩ mv̩˥
 \xe to blow a conch shell
 \xn 吹法螺
@@ -40815,7 +40810,7 @@
 \xn 他很快就会走路了！
 \xf Elle/il va bientôt marcher!
 \xv tʰi˧-mv̩˧-dzɯ˧
-\xe |fg{dur} |fg{imminence}to_eat
+\xe |fg{dur} |fg{imminence} to_eat
 \xn |fg{持续体} 即将 吃
 \xf |fg{dur} |fg{imminence} manger
 \xv ʈʂʰɯ˧ | mv̩˧-dzɯ˧-kwɤ˩-tɕɯ˩!
@@ -40991,14 +40986,14 @@
 \df Trembler.
 \gf trembler
 \xv nɑ˩~nɑ˧-ze˥
-\xe |fg{red} |fg{pfv}
+\xe 〜 |fg{red} |fg{pfv}
 \xn 发抖了
-\xf |fg{red} |fg{pfv}
+\xf 〜 |fg{red} |fg{pfv}
 \xc PHONO
 \xv le˧-nɑ˩~nɑ˩
-\xe |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv lo˩qʰwɤ˥ | nɑ˩~nɑ˧˥
 \xe the hand trembles
@@ -41096,8 +41091,7 @@
 \xv tʰi˧-ɳæ˥
 \xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
-\dt 25/Apr/2017
+\xf |fg{dur} 〜
 
 \lx nɑ˩β
 \sf <nb="B"> 953
@@ -42846,17 +42840,17 @@
 \df Tordre avec les doigts, enrouler, filer (pour fabriquer du fil de lin, pour tisser des vêtements).
 \gf tordre_avec_les_doigts
 \xv le˧-ɲi˩
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv sɑ˧ ɲi˥
 \xe to twine hemp (to make thread)
 \xn 捻麻
 \xf tordre le chanvre/le lin (pour faire du fil)
 \xv ɖɯ˧-ɲi˧~ɲi˥-ɻ̩˩
-\xe |fg{delimitative} |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 捻一捻
-\xf |fg{délimitatif} |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \txtsup Agriculture.82
 \doisup 10.24397/pangloss-0004441#S82
 
@@ -44504,9 +44498,9 @@
 \df Suivre à la trace, pister.
 \gf pister
 \xv le˧-nv̩˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv ʈʂɤ˩nv̩˩
 \xe to chase after, to pursue
 \xn 追赶
@@ -45158,10 +45152,9 @@
 \df Pleurer.
 \gf pleurer
 \xv (tʰi˧-)ŋv̩˧~ŋv̩˥
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn 哭一场
-\xf |fg{dur} |fg{red}
-\dt 21/Jun/2017
+\xf |fg{dur} 〜 |fg{red}
 
 \lx ŋwæ˧qʰv̩˧
 \sf <nb="B"> 2311
@@ -45879,9 +45872,9 @@
 \xn |fg{持续体} 〜 |fg{整体体}
 \xf |fg{dur} 〜 |fg{pfv}
 \xv pʰæ˧~pʰæ˧
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46518,9 +46511,9 @@
 \xn 簸粮食
 \xf vanner du grain
 \xv pʰi˧~pʰi˧
-\xe |fg{red}
-\xn |fg{重叠}：簸一簸
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}：簸一簸
+\xf 〜 |fg{red}
 \xv le˧-pʰi˧(-ze˧)
 \xe |fg{accomp} 〜 (|fg{pfv})
 \xn 簸了
@@ -47093,10 +47086,9 @@
 \df Emballer.
 \gf 包::emballer
 \xv le˧-po˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
-\dt 26/Apr/2017
+\xf |fg{accomp} 〜
 
 \lx pɤ˧˥
 \sf <nb="B"> 1285b
@@ -48357,9 +48349,9 @@
 \df Porter sur son dos (le bois, …).
 \gf porter_sur_le_dos
 \xv tʰi˧-pɤ˥~pɤ˩
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn 背一背
-\xf |fg{dur} |fg{red}
+\xf |fg{dur} 〜 |fg{red}
 \xv qʰæ˧ pɤ˧~pɤ˥
 \xe to carry manure
 \xn 背肥料
@@ -49087,13 +49079,13 @@
 \df Rouler (une pierre roule).
 \gf rouler
 \xv pv̩˧ɭɯ˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 滚动了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv le˧-pv̩˧ɭɯ˧
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv gɤ˩-pv̩˧ɭɯ˧, | mv̩˩-pv̩˧ɭɯ˧
 \xe to roll in all directions (literally: rolling up, rolling down)
 \xn 滚来滚去
@@ -49422,9 +49414,9 @@
 \xn 我来压吧！
 \xf Je vais presser ça! / je m'occupe de serrer ça/presser ça!
 \xv le˧-pɻ̩˥ʈʂɯ˩
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 
 \lx pɻ̩˩tsɯ˧-pɻ̩˥mi˩
 \sf <nb="B"> 425c
@@ -49827,9 +49819,9 @@
 \df Déplacer, transporter (par exemple: transporter de la terre, après avoir creusé).
 \gf déplacer
 \xv le˧-qæ˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv tso˧~tso˧ | le˧-qæ˧~qæ˧
 \xe to move things around
 \xn 搬搬东西
@@ -49867,27 +49859,26 @@
 \xn 换衣服
 \xf changer de vêtements
 \xv qæ˧~qæ˧
-\xe |fg{red}: to exchange (an object for another)
-\xn |fg{重叠}：交换
-\xf |fg{red}: échanger (un objet contre un autre)
+\xe 〜 |fg{red}: to exchange (an object for another)
+\xn 〜 |fg{重叠}：交换
+\xf 〜 |fg{red}: échanger (un objet contre un autre)
 \xv qæ˧~qæ˧-ɻ̩˥
-\xe |fg{red} |fg{inceptive}
+\xe 〜 |fg{red} |fg{inceptive}
 \xn 〜 |fg{重叠} |fg{发端}
-\xf |fg{red} |fg{inchoatif}
+\xf 〜 |fg{red} |fg{inchoatif}
 \xv qæ˧~qæ˧-ɻ̩˧-ze˥
-\xe |fg{red} |fg{inceptive} |fg{pfv}
+\xe 〜 |fg{red} |fg{inceptive} |fg{pfv}
 \xn 〜 |fg{重叠} |fg{发端} |fg{整体体}
-\xf |fg{red} |fg{inchoatif} |fg{pfv}
+\xf 〜 |fg{red} |fg{inchoatif} |fg{pfv}
 \xv tso˧~tso˧ qæ˧~qæ˧
 \xe to exchange things
 \xn 交换东西
 \xf échanger des choses
 \xc PHONO
 \xv le˧-qæ˧~qæ˧(-ze˩)
-\xe |fg{accomp} |fg{red} (|fg{pfv})
+\xe |fg{accomp} 〜 |fg{red} (|fg{pfv})
 \xn |fg{实施} 〜 |fg{重叠}（＋整体体）
-\xf |fg{accomp} |fg{red} (|fg{pfv})
-\dt 11/Sep/2015
+\xf |fg{accomp} 〜 |fg{red} (|fg{pfv})
 
 \lx qæ˥
 \sf <nb="B"> 1304
@@ -49937,13 +49928,13 @@
 \df Aider.
 \gf aider
 \xv tʰi˧-qɑ˧˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv qɑ˩~qɑ˧˥
-\xe |fg{red}
-\xn |fg{重叠}：帮帮忙
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}：帮帮忙
+\xf 〜 |fg{red}
 \xv hĩ˧ qɑ˩~qɑ˩
 \xe to help people; to go and work at someone else's place (e.g. during the harvest)
 \xn 帮人，到别人家去工作（例如收庄稼的时候）
@@ -52091,9 +52082,9 @@
 \xn 我要吓唬他一下！
 \xf Je vais lui faire peur!
 \xv tʰɑ˧-qv̩˧˥!
-\xe |fg{proh}
+\xe |fg{proh} 〜
 \xn 禁止式：别吓唬（人家）！
-\xf |fg{proh}
+\xf |fg{proh} 〜
 
 \lx qʰv̩˧
 \sf <nb="B"> 39
@@ -52622,13 +52613,13 @@
 \df Plier (vêtements).
 \gf plier
 \xv qʰv̩˩~qʰv̩˧-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 折起来了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv le˧-qʰv̩˩~qʰv̩˩
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 
 \lx qwæ˩˥
 \sf <nb="2011"> 176
@@ -52745,9 +52736,9 @@
 \xn 刻花
 \xf graver une fleur
 \xv qwæ˩~qwæ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv bæ˩bæ˩ qwæ˥~qwæ˩
 \xe to engrave flowers
 \xn 刻一朵花
@@ -53831,9 +53822,9 @@
 \xn 你去告状吧！
 \xf va (le) dénoncer!
 \xv qwɤ˧~qwɤ˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv sɯ˧pʰi˧-ki˧ qwɤ˩
 \xe to report to the lord
 \xn 向土司控诉
@@ -55522,9 +55513,9 @@
 \df Se rassembler.
 \gf se rassembler
 \xv le˧-ʁo˧dzi˥ (+ze˩)
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv hĩ˧ | tʰi˧-ʁo˧dzi˥ tsʰɯ˩(-ze˩)
 \xe People have come together.
 \xn 人们聚集在一起。
@@ -55849,9 +55840,9 @@
 \gf se_perdre
 \dv ʐɤ˩mi˩˥ | le˧-ʂe˧ mɤ˧-ɖɯ˧!
 \xv le˧-ʁo˧lv̩˧
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 
 \lx ʁo˧mæ˧
 \sf <nb="2011"> 1600
@@ -55873,9 +55864,9 @@
 \df S'occuper de, prendre soin de (animaux, aussi bien qu'humains: personnes âgées, enfants, personnes ayant besoin d'aide).
 \gf s_occuper_de
 \xv ʁo˧mæ˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 管好了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv hĩ˧ ʁo˧mæ˧
 \xe to take care of people
@@ -56202,9 +56193,9 @@
 \xn 有一家带头：例如收庄稼时，一个家先开始收割，于是其它家庭也跟着开始收割。
 \xf une famille montre l'exemple: par exemple, une famille commence à récolter le riz, et les autres suivent son exemple
 \xv ʁo˧ʂv̩˧-ze˧
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 带了路
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv njɤ˧=ɻ̩˩-ɳɯ˩ | ʁo˧ʂv̩˧!
 \xe We are showing the way! / We are setting an example for others! (Context: for agricultural activities, one household started first, and the others followed suit.)
 \xn 是我们带头的！（其他家庭是跟着我们来的！）（情景：农业活动，如：收庄稼，是一个家庭先开始的，然后其他家庭也跟着来。）
@@ -56492,9 +56483,9 @@
 \df Avaler, déglutir.
 \gf avaler
 \xv le˧-ʁv̩˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc <dom="phono" langue="fra"> Réalisation phonétique proche de [|fv{læ˧ʁv̩˥}].
 \xc <dom="phono" langue="eng"> Phonetic realization: close to [|fv{læ˧ʁv̩˥}].
 \xc <dom="phono" langue="cmn"> 实际发音接近[|fv{læ˧ʁv̩˥}]。
@@ -56623,9 +56614,9 @@
 \xf |fg{neg} 〜: ne pas crier
 \xc PHONO
 \xv ɻwæ˧~ɻwæ˧
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv hĩ˧ ɻwæ˧-dʑo˩
 \xe Someone is shouting
 \xn 有人在叫。
@@ -56670,9 +56661,9 @@
 \xc <langue="eng" dom="sem"> This example is a homophone of the one given for sense 1, in which it means “to call, to call out (to someone)”.
 \xc <langue="cmn" dom="sem"> 这个例句是以上意义1中例句的同音句子，但以上句子的意思是“叫一声”。
 \xv tʰɑ˧-ɻwæ˥!
-\xe |fg{proh}
+\xe |fg{proh} 〜
 \xn 禁止式：不要请！
-\xf |fg{proh}
+\xf |fg{proh} 〜
 \xc PHONO
 \xv ɻwæ˧-mɤ˧-bi˧!
 \xe (We)'re not inviting (him/her)!
@@ -57937,9 +57928,9 @@
 \df Attacher, nouer en bottes.
 \gf attacher/nouer
 \xv le˧-ʂæ˧˥
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xv hɑ˧ ʂæ˩
 \xe to tie freshly cut rice into bundles
 \xn 刚收割的稻子，捆成捆
@@ -57954,9 +57945,9 @@
 \df Envelopper, emballer (monosyllabique).
 \gf envelopper
 \xv ʂæ˩~ʂæ˧˥
-\xe |fg{red}: to wrap, to pack
-\xn |fg{重叠}：包一包
-\xf |fg{red}: emballer, envelopper
+\xe 〜 |fg{red}: to wrap, to pack
+\xn 〜 |fg{重叠}：包一包
+\xf 〜 |fg{red}: emballer, envelopper
 \xv ʂæ˩~ʂæ˧-ze˥
 \xe |fg{red} |fg{pfv}
 \xn 〜 |fg{重叠} |fg{整体体}
@@ -59275,11 +59266,10 @@
 \df Prendre froid, attraper un rhume, attraper froid.
 \gf prendre_froid
 \xv ʂe˧ʂe˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 着凉了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
-\dt 05/Oct/2015
 
 \lx se˧ʂɯ˩
 \or seishi
@@ -60138,11 +60128,10 @@
 \df Fruit.
 \gf fruit
 \xv si˧ʁo˧si˧ɭɯ˧ ɲi˥
-\xe |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是水果。
-\xf |fg{cop}
+\xf 〜 |fg{cop}
 \xc PHONO
-\dt 05/Oct/2015
 
 \lx si˧ʁo#˥
 \sf <nb="2011"> 2996
@@ -60520,9 +60509,9 @@
 \xn 他滑了一跤
 \xf il a glissé et il est tombé
 \xv ʂo˩~ʂo˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 
 \lx ʂo˧˥
 \sf <nb="B"> 993
@@ -61018,11 +61007,10 @@
 \df Préparer.
 \gf préparer
 \xv le˧-ʂo˧~ʂo˧
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn 准备了
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx sɤ˧tʰo˧˥
 \sf <nb="2011"> 3111
@@ -61321,9 +61309,9 @@
 \df Propre (sens propre ou figuré); claire (eau).
 \gf propre
 \xv ʂo˩-hĩ˩˥
-\xe |fg{nmlz}
+\xe 〜 |fg{nmlz}
 \xn 干净的
-\xf |fg{nmlz}
+\xf 〜 |fg{nmlz}
 \xc PHONO
 \xv mɤ˧-ʂo˩
 \xe |fg{neg} 〜: not clean
@@ -62944,10 +62932,9 @@
 \df Nœud (sur un arbre).
 \gf nœud_d_arbre
 \xv ʂv̩˩njɤ˥ ɲi˩
-\xe |fg{cop}
+\xe 〜 |fg{cop}
 \xn 是树瘤。
-\xf |fg{cop}
-\dt 09/Oct/2015
+\xf 〜 |fg{cop}
 
 \lx ʂv̩˧ʂv̩˧˥
 \sf <nb="B"> 634
@@ -63364,9 +63351,9 @@
 \df Remuer (monosyllabe).
 \gf remuer
 \xv le˧-ʂwæ˧
-\xe |fg{accomp}
+\xe |fg{accomp} 〜
 \xn |fg{实施} 〜
-\xf |fg{accomp}
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv mɤ˧-ʂwæ˧
 \xe |fg{neg} 〜: not to stir
@@ -63379,9 +63366,9 @@
 \xf remuer des choses, touiller des choses
 \xc PHONO
 \xv ʂwæ˧~ʂwæ˩
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv le˧-ʂwæ˥~ʂwæ˩
 \xe |fg{accomp} 〜 |fg{red}
@@ -64329,11 +64316,10 @@
 \df Prendre un exemple.
 \gf 打比::prendre_un_exemple
 \xv tɑ˧pi˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 打比方了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
-\dt 23/Jun/2017
 
 \lx tɑ˧pi˧
 \or dabi
@@ -65015,9 +65001,9 @@
 \xn 关牛圈
 \xf fermer l'étable
 \xv tʰi˧-ʈæ˩
-\xe |fg{dur}: to close
+\xe |fg{dur} 〜: to close
 \xn 关门
-\xf |fg{dur}: fermer
+\xf |fg{dur} 〜: fermer
 \xv kʰi˧ ʈæ˥
 \xe to close the door
 \xn 关门
@@ -65116,10 +65102,9 @@
 \df Démanger.
 \gf démanger
 \xv le˧-ʈʰæ˩~ʈʰæ˩-ze˩
-\xe |fg{accomp} |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} |fg{red} |fg{pfv}
-\dt 27/Apr/2017
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 
 \lx tɕæ˧hæ˩
 \or jaehae
@@ -65388,7 +65373,7 @@
 \xn 摇头
 \xf agiter la tête, secouer la tête
 \xv ɖɯ˧-tɕi˧~tɕi˧-ɻ̩˥
-\xe |fg{demilitative} |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 摇一摇
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 
@@ -66882,9 +66867,9 @@
 \df Poser, ranger, mettre, placer.
 \gf poser/mettre
 \xv tʰi˧-tɕɯ˥
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv ɖɯ˩hĩ˧ | ɖɯ˩˧ | tʰi˧-tɕɯ˥, | tɕi˩hĩ˧ | tɕi˩˧ | tʰi˧-tɕɯ˥
 \xe to put big ones with big ones, small ones with small ones
 \xn 大小归类
@@ -67596,9 +67581,9 @@
 \df Écrire.
 \gf écrire
 \xv le˧-tɕɯ˩-ze˩
-\xe |fg{accomp}+|fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn 写了
-\xf |fg{accomp}+|fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv tʰæ˧ɻæ˩ tɕɯ˩
 \xe to write, to write a text, to write a book
 \xn 写、写书
@@ -67938,9 +67923,9 @@
 \df Compétent, habile.
 \gf compétent
 \xv ɖwæ˧˥ | tʰi˧
-\xe |fg{intensive.very}
+\xe |fg{intensive.very} 〜
 \xn 很能干
-\xf |fg{intensif.très}: très habile
+\xf |fg{intensif.très} 〜: très habile
 \xv mv̩˩tʰi˩ tʰv̩˩-v̩˩˥
 \xe that clever woman
 \xn 那个聪明女人
@@ -68338,11 +68323,10 @@
 \xn 起床了！
 \xf (il/elle) s'est levé(e)!
 \xv ɖɯ˧-ʈi˧~ʈi˥-ɻ̩˩
-\xe |fg{delimitative} |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 起来一下
-\xf |fg{délimitatif} |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
-\dt 24/Jul/2017
 
 \lx ʈi˥α
 \sf <nb="B"> 870
@@ -68557,10 +68541,9 @@
 \df Goutter, dégouliner, couler goutte à goutte.
 \gf goutter
 \xv tʰi˧-ʈʰɤ˩~ʈʰɤ˩
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn 滴着滴着
-\xf |fg{dur} |fg{red}
-\dt 27/Apr/2017
+\xf |fg{dur} 〜 |fg{red}
 
 \lx to˩bi˩
 \sf <nb="2011"> 738
@@ -68631,15 +68614,14 @@
 \df Vide.
 \gf vide
 \xv to˧bɤ˧-ze˩
-\xe |fg{pfv}: it's empty, there is nothing left (e.g. a bowl is entirely emptied)
+\xe 〜 |fg{pfv}: it's empty, there is nothing left (e.g. a bowl is entirely emptied)
 \xn 空了
-\xf il n'y a plus rien (par exemple: un bol est complètement vidé)
+\xf 〜 |fg{pfv}: il n'y a plus rien (par exemple: un bol est complètement vidé)
 \xv to˧bɤ˧ ɲi˥
 \xe 〜 |fg{cop}: it's empty
 \xn 是空的
 \xf 〜 |fg{cop}: c'est vide
 \xc PHONO
-\dt 27/Apr/2017
 
 \lx tʰo˧ɕi˩
 \or toxi
@@ -69215,13 +69197,13 @@
 \xn 我要（将这个东西）倒过来放！
 \xf je vais renverser (ce pot, cette assiette…)
 \xv to˩qo˧-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 倒过来了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv le˧-to˩qo˩
-\xe |fg{accomp}: to turn upside down (e.g. a glass)
+\xe |fg{accomp} 〜: to turn upside down (e.g. a glass)
 \xn 倒过来
-\xf |fg{accomp}: retourner, renverser (par exemple, renverser son verre)
+\xf |fg{accomp} 〜: retourner, renverser (par exemple, renverser son verre)
 
 \lx to˩qo˩lv̩˥
 \sf <nb="B"> 940
@@ -69666,9 +69648,9 @@
 \df S’adosser (à), s'appuyer.
 \gf s_adosser
 \xv tʰi˧-tʰo˩
-\xe |fg{dur}
+\xe |fg{dur} 〜
 \xn |fg{持续体} 〜
-\xf |fg{dur}
+\xf |fg{dur} 〜
 \xv tʰi˧-tʰo˩ | tʰi˧-dzi˩
 \xe to sit with one's back propped against (something)
 \xn 靠着座
@@ -69855,9 +69837,9 @@
 \xn 他在眨眼！
 \xf Elle/il est en train de faire un clin d'œil!
 \xv tsɑ˩~tsɑ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 
 \lx tsɑ˧
 \sf <nb="B"> 1046
@@ -69878,9 +69860,9 @@
 \df Occupé, affairé, pressé.
 \gf occupé
 \xv ɖwæ˧˥ | tsɑ˧
-\xe |fg{intensive.very}: very busy
+\xe |fg{intensive.very} 〜: very busy
 \xn 很忙
-\xf |fg{intensif.très}: très occupé
+\xf |fg{intensif.très} 〜: très occupé
 \xv tsɑ˧ | ʐwæ˩˥
 \xe extremely busy
 \xn 非常忙
@@ -69940,9 +69922,9 @@
 \df Donner un coup de pied; briser (les mottes de terre, après le labour, avec une bêche, ou une masse en bois).
 \gf frapper_du_pied/briser
 \xv le˧-tsɑ˧-ze˥
-\xe |fg{accomp}+|fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
 \xn |fg{实施} 〜 |fg{整体体}
-\xf |fg{accomp}+|fg{pfv}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv ʈʂe˧ tsɑ˩
 \xe to smash clods of earth, after ploughing (with a hand instrument, such as a hoe)
 \xn 打碎土坷垃
@@ -72905,9 +72887,9 @@
 \df Fin (objet).
 \gf fin(objet)
 \xv tsʰi˩-hĩ˩˥
-\xe |fg{nmlz}
+\xe 〜 |fg{nmlz}
 \xn 细的
-\xf |fg{nmlz}
+\xf 〜 |fg{nmlz}
 \xc PHONO
 \xv qʰɑ˧-tsʰi˧-gv̩˧
 \xe very thin
@@ -73355,10 +73337,9 @@
 \xn 跳绳
 \xf sauter à la corde
 \xv tsʰo˧~tsʰo˧
-\xe |fg{red}
-\xn |fg{重叠}
-\xf forme rédupliquée: trépigner, sautiller ici et là
-\dt 27/Apr/2017
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}: trépigner, sautiller ici et là
 
 \lx ʈʂo˩β
 \or zho
@@ -73431,10 +73412,9 @@
 \xn 朗读一本书
 \xf lire un livre
 \xv ʈʂʰo˧~ʈʂʰo˧
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
-\dt 07/Oct/2015
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 
 \lx ʈʂo˩bo˩
 \sf <nb="B"> 457
@@ -73539,9 +73519,9 @@
 \df Mettre bas (bovidé).
 \gf mettre_bas
 \xv tsɤ˧ɖɯ˧-ze˩
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 生崽子了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv (dʑi˧mi˧) tsɤ˧ɖɯ˧-ze˩
 \xe (the water buffalo) has given birth.
 \xn 水牛生崽子了。
@@ -74461,9 +74441,9 @@
 \df Compter; calculer.
 \gf compter
 \xv ʈʂɤ˧~ʈʂɤ˩
-\xe |fg{red}
-\xn |fg{重叠}：算一算
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}：算一算
+\xf 〜 |fg{red}
 \xc PHONO
 \xv ɖɯ˧-ʈʂɤ˥~ʈʂɤ˩-ɻ̩˩
 \xe to do some counting, to take a count
@@ -75004,19 +74984,19 @@
 \xf |fg{accomp} 〜 |fg{pfv}: a attaché
 \xc PHONO
 \xv tsɯ˧~tsɯ˧
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv le˧-tsɯ˧~tsɯ˧
-\xe |fg{accomp} |fg{red}
+\xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} |fg{red}
+\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv tʰi˧-tsɯ˧~tsɯ˧
-\xe |fg{dur} |fg{red}
+\xe |fg{dur} 〜 |fg{red}
 \xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} |fg{red}
+\xf |fg{dur} 〜 |fg{red}
 \xc PHONO
 \sn 2
 \sd <langue="fra"> verbe
@@ -75170,9 +75150,9 @@
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \xv ʈʂɯ˩~ʈʂɯ˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv le˧-ʈʂɯ˩~ʈʂɯ˩
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
@@ -76316,9 +76296,9 @@
 \xn （病毒）会传染人的
 \xf (la maladie) va contaminer quelqu'un
 \xv ʈʂv̩˧~ʈʂv̩˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv ʈʂv̩˧~ʈʂv̩˥-ɻ̩˩ ho˩
 \xe (the disease) is going to contaminate (people)
 \xn （病毒）会传染的。
@@ -76856,9 +76836,9 @@
 \df Pourrir.
 \gf pourrir
 \xv ʈʂʰwæ˧-ze˧
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 烂了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv le˧-ʈʂʰwæ˧-ze˧
 \xe |fg{accomp} 〜 |fg{pfv}: has rotten
 \xn |fg{实施} 〜 |fg{整体体}：烂了
@@ -77194,9 +77174,9 @@
 \xn 我不喝
 \xf je ne bois pas
 \xv ʈʰɯ˩-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 喝了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-ʈʰɯ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: has drunk
@@ -77392,9 +77372,9 @@
 \df Fouler du pied, marcher sur, écraser.
 \gf fouler_du_pied
 \xv tʰv̩˩~tʰv̩˧˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xc PHONO
 \xv ɖɯ˧-tʰv̩˧ tʰi˥-tʰv̩˩
 \xe to give a kick, to stamp the ground
@@ -78307,7 +78287,7 @@
 \xv mɤ˧-ʈv̩˩
 \xe |fg{neg} 〜: not to throw
 \xn |fg{否定} 〜：不掷
-\xf |fg{neg}: ne pas jeter
+\xf |fg{neg}〜 : ne pas jeter
 \xc PHONO
 \xv lv̩˧mi˧ ʈv̩˩
 \xe to throw a stone
@@ -78946,9 +78926,9 @@
 \df Mâcher.
 \gf mâcher
 \xv le˧-v̩˧~v̩˧ +ze˩
-\xe |fg{accomp}
+\xe |fg{accomp} 〜 (+|fg{pfv})
 \xn |fg{实施} 〜（＋整体体）
-\xf |fg{accomp}
+\xf |fg{accomp} 〜 (+|fg{pfv})
 \xv le˧-wo˧ v̩˧~v̩˧
 \xe to chew the cud
 \xn 反刍
@@ -79416,9 +79396,9 @@
 \xf 〜 |fg{fut_imm}
 \xc PHONO
 \xv wɤ˩~wɤ˩-ze˥
-\xe |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 绕了
-\xf |fg{pfv}
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-wɤ˩~wɤ˩ | le˧-se˥
 \xe to bypass on foot; to walk past, bypassing (a certain place)
@@ -83043,9 +83023,9 @@
 \xn 揉面
 \xf pétrir la pâte
 \xv ʐɻ̩˧~ʐɻ̩˥
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
+\xe 〜 |fg{red}
+\xn 〜 |fg{重叠}
+\xf 〜 |fg{red}
 \xv ɖɯ˧-kʰwɤ˧ ʐɻ̩˥
 \xe to knead a piece (of dough)
 \xn 揉一块（面团）
