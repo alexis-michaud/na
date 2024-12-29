@@ -16656,13 +16656,13 @@
 \ge Abeddee
 \dn 阿包笃（神名）
 \gn 阿包笃
-\df Abeddee: personnage de la mythologie na, qui décide de la durée de la vie. (Dans un contexte culturel tout à fait distinct, celui de la mythologie grecque, cette fonction évoque celle d'Atropos, ‘l'implacable’, aînée des Moires, qui tranche le fil de l'existence.)
+\df Abeddee: personnage de la mythologie na, qui décide de la durée de la vie.
 \gf Abeddee
 \xv ə˧pɤ˧-ɖɯ˩ pi˩-zo˩, | ə˧ʝi˧-ʂɯ˥ʝi˩; | ə˧pɤ˧-ɖɯ˩-ɳɯ˩ | le˧-tsʰi˧-ɲi˥! | pi˧-zo˩.
 \xo Abeddee bi sso, eyishei; Abeddee nee lecee niq!
 \xn 将寿命斩断的（神），从前称作阿包笃（即：“伟大的阿包[神]”）！（生命结束时，是阿包笃切割人的生命）
 \xe The one called Abeddee (/|fv{ə˧pɤ˧-ɖɯ˩}/, i.e. `great [deity] Abe (/|fv{ə˧pɤ˧}/), long, long ago… Abeddee restricted [literally: cut] (lifespans) [i.e., Abeddee was considered as the deity that cuts off life when it has come to an end].
-\xf On l'appelait Abeddee, `grande divinité Abe (/|fv{ə˧pɤ˧}/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]!
+\xf On l'appelait Abeddee, `grande divinité Abe (/|fv{ə˧pɤ˧}/)', autrefois, celui qui coupe [la vie lorsqu'elle est parvenue à son terme]! (Dans un contexte culturel tout à fait distinct, celui de la mythologie grecque, cette fonction évoque celle d'Atropos, ‘l'implacable’, aînée des Moires, qui tranche le fil de l'existence.)
 \txt Dog.51
 \doi 10.24397/pangloss-0004443#S51
 \txtsup Dog2.28
