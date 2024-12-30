@@ -70509,6 +70509,7 @@
 \gf champignon_vénéneux_sp
 
 \lx ʈʂʰæ˧nɑ˥
+\hm 1
 \or chaena
 \ps n
 \sd <langue="fra"> animal
@@ -70525,9 +70526,9 @@
 \gn 黑鹿
 \df Cerf noir: espèce légendaire, que seuls les esprits sont à même de chasser et abattre.
 \gf cerf_noir
-\dt 08/Oct/2015
 
 \lx ʈʂʰæ˧nɑ˥
+\hm 2
 \or Chaena
 \mr ʈʂʰæ˧˥1
 \mr nɑ˩β
