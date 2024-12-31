@@ -76075,6 +76075,7 @@
 \lx ʈʂʰv̩˧˥
 \sf <nb="B"> 1143
 \sf <nb="2011"> 1810
+\hm 1
 \or chuq
 \ps v
 \sd <langue="fra"> verbe
@@ -76376,32 +76377,49 @@
 \xf teindre des choses
 \xc PHONO
 
-\lx ʈʂʰv̩˩~ʈʂʰv̩˧˥
-\sf <nb="B"> 1679
-\sf <nb="2011"> 2495
-\or chuchu
+\lx ʈʂʰv̩˧˥
+\hm 2
+\or chu
 \ps v
-\ton L+MH#
-\lc ʈʂʰv̩˩ʈʂʰv̩˧˥
+\ton MH
+\lc ʈʂʰv̩˧˥
+\cf ʈʂʰv̩˩~ʈʂʰv̩˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra" dom="ton"> tso˧~tso˧ ʈʂʰv̩˥~ʈʂʰv̩˩ “frotter des choses": en 2006, avais noté M.M.H.M (˧ ˧ ˥ ˧).
 \nt <dom="phono" langue="fra"> La forme monosyllabique /|fv{ʈʂʰv̩˧˥}/ (au ton MH) n'est pas couramment utilisée, mais paraît intelligible.
 \nt <dom="phono" langue="eng"> The monosyllabic form /|fv{ʈʂʰv̩˧˥}/ (tone: MH) is not in common use, but seems intelligible.
 \nt <dom="phono" langue="cmn"> 单音节/|fv{ʈʂʰv̩˧˥}/不是常用的，但还是准确的。
 \so F4
-\va <speaker="F5"> ID.
-\va <speaker="M21"> ID.
 \de To rub, to wipe.
 \ge to_wipe
 \dn 擦
 \gn 擦
 \df Frotter, essuyer.
 \gf essuyer
+
+\lx ʈʂʰv̩˩~ʈʂʰv̩˧˥
+\sf <nb="B"> 1679
+\sf <nb="2011"> 2495
+\or chuchu
+\mr ʈʂʰv̩˧˥2
+\ps v
+\ton LM+MH#
+\lc ʈʂʰv̩˩ʈʂʰv̩˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To rub, to wipe (reduplicated form).
+\ge to_wipe.|fg{red}
+\dn 擦（重叠形式）
+\gn 擦.|fg{重叠}
+\df Frotter, essuyer (forme rédupliquée).
+\gf essuyer.|fg{red}
 \xv ʈʂʰv̩˩~ʈʂʰv̩˧-ze˥
-\xe 〜 |fg{red} |fg{pfv}
-\xn 〜 |fg{重叠}＋整体体
-\xf 〜 |fg{red} |fg{pfv}
+\xe 〜 |fg{pfv}: has rubbed, has wiped
+\xn 〜 整体体：擦了
+\xf 〜 |fg{pfv}: a frotté, a essuyé
 \xc PHONO
 \xv le˧-ʈʂʰv̩˩~ʈʂʰv̩˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: has wiped
@@ -76413,6 +76431,7 @@
 \xn 擦东西
 \xf frotter des choses
 \xc PHONO
+\xc <type="hist" print="n" langue="fra" dom="ton"> tso˧~tso˧ ʈʂʰv̩˥~ʈʂʰv̩˩ “frotter des choses": en 2006, avais noté M.M.H.M (˧ ˧ ˥ ˧).
 
 \lx ʈʂwæ˧˥
 \sf <nb="B"> 2301
@@ -76908,14 +76927,14 @@
 \sy tɑ˧ho˧
 \sd <langue="fra"> adverbe
 \sd <langue="eng"> adverb
-\ton MH
+\ton LM+MH#
 \so F4
-\de Together, in a group. For instance: to dance together, in a group. People do not necessarily hold hands, but participate in the same dance.
+\de Together, in a group. For instance: to dance together, in a group.
 \ge together
 \dn 一起：如，一起跳舞。
 \gn 手拉手
-\df Ensemble, en groupe. Par exemple: danser en groupe. Les danseuses et danseurs ne se tiennent pas nécessairement par la main, mais participent à une même danse.
-\gf se_tenir_par_la_main
+\df Ensemble, en groupe. Par exemple: danser ensemble, en groupe.
+\gf ensemble
 \xv ʈʂwæ˩~ʈʂwæ˧-ɻ̩˥ tsʰo˩
 \xe to dance together, to dance in a group
 \xn 一起跳舞
@@ -76924,11 +76943,6 @@
 \xe 〜 |fg{red} |fg{inceptive}
 \xn 〜 |fg{重叠} |fg{发端}
 \xf 〜 |fg{red} |fg{inchoatif}
-\xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xc PHONO
 
 \lx ʈʂwæ˧~ʈʂwæ˧
 \sf <nb="B"> 1318
@@ -76939,7 +76953,6 @@
 \cf ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> d'abord noté le˧-ʈʂwæ˧~ʈʂwæ˧-ze˩; corrigé en nov. 2011
 \ton M
 \so F4
 \va <speaker="M21"> ID.
@@ -76949,6 +76962,12 @@
 \gn 搅拌混合
 \df Mélanger.
 \gf mélanger
+\xv le˧-ʈʂwæ˧~ʈʂwæ˧-ze˧
+\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
+\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xc PHONO
+\xc <type="hist" print="n" langue="fra" dom="ton"> d'abord noté le˧-ʈʂwæ˧~ʈʂwæ˧-ze˩; corrigé en nov. 2011
 
 \lx ʈʂwæ˧~ʈʂwæ˧-nɑ˧~nɑ#˥
 \or zhuaezhuae nana
@@ -77374,10 +77393,11 @@
 \or tuq
 \ps v
 \lc tʰv̩˧˥
+\cf tʰv̩˩~tʰv̩˧˥
 \cf tʰv̩˧˥α
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> tʰv̩˩tʰv̩˧˥: schéma tonal régulier; ɖɯ˧tʰv̩˧tʰi˥tʰv̩˩: d'abord noté ˧ ˧ ˥ ˧, par erreur; transcription confirmée; avant 2009: noté aussi une forme rédupliquée: kʰɯ˧tsʰɤ˧tʰv̩˥tʰv̩˩; refusée en 2009. (confirmé en 2009: n'est pas /tsʰi/)
+\nt <type="hist" print="n" langue="fra"> ɖɯ˧tʰv̩˧tʰi˥tʰv̩˩: d'abord noté ˧ ˧ ˥ ˧, par erreur; transcription confirmée. (confirmé en 2009: n'est pas /tsʰi/)
 \ton MH
 \so F4
 \va <speaker="F5"> ID.
@@ -77388,20 +77408,11 @@
 \gn 踩
 \df Fouler du pied, marcher sur, écraser.
 \gf fouler_du_pied
-\xv tʰv̩˩~tʰv̩˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xc PHONO
 \xv ɖɯ˧-tʰv̩˧ tʰi˥-tʰv̩˩
 \xe to give a kick, to stamp the ground
 \xn 踢一脚
 \xf donner un coup de pied par terre, fouler le sol du pied
 \xv kʰɯ˧tsʰɤ˧ tʰv̩˥-tsʰɯ˩
-\xe to give a kick, to stamp the ground
-\xn 踢一脚
-\xf donner un coup de pied par terre, fouler le sol du pied
-\xv kʰɯ˧tsʰɤ˧ tʰv̩˥~tʰv̩˩
 \xe to give a kick, to stamp the ground
 \xn 踢一脚
 \xf donner un coup de pied par terre, fouler le sol du pied
@@ -77414,6 +77425,29 @@
 \xe Do not tread on my foot!
 \xn 别踩我的脚！
 \xf Ne me marche pas sur le pied!
+
+\lx tʰv̩˩~tʰv̩˧˥
+\or tutu
+\mr tʰv̩˧˥1
+\ps v
+\lc tʰv̩˩tʰv̩˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> tʰv̩˩tʰv̩˧˥: schéma tonal régulier; avant 2009: noté aussi une forme rédupliquée: kʰɯ˧tsʰɤ˧tʰv̩˥tʰv̩˩; refusée en 2009.
+\ton LM+MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To step on, to tread on, to trample (reduplicated form).
+\ge to_step_on.|fg{red}
+\dn 踩（重叠形式）
+\gn 踩.|fg{重叠}
+\df Fouler du pied, marcher sur, écraser (forme rédupliquée).
+\gf fouler_du_pied.|fg{red}
+\xv kʰɯ˧tsʰɤ˧ tʰv̩˥~tʰv̩˩
+\xe to give a kick, to stamp the ground
+\xn 踢一脚
+\xf donner un coup de pied par terre, fouler le sol du pied
 
 \lx tʰv̩˧˥
 \hm 2
@@ -79404,9 +79438,9 @@
 \gf contourner
 \xc PHONO
 \xv ɖɯ˧-wɤ˩~wɤ˩-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 绕一绕
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xv wɤ˩~wɤ˩ bi˩˥
 \xe 〜 |fg{imm_fut}
 \xn 〜 近将来
@@ -79628,14 +79662,13 @@
 \or raeq
 \ps v
 \lc ʐæ˩˥
+\cf ʐæ˧~ʐæ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="morpho" langue="fra"> Généralement employé sous sa forme rédupliquée: |fv{ʐæ˧~ʐæ˥}.
 \nt <dom="morpho" langue="eng"> The word is generally used in reduplicated form: |fv{ʐæ˧~ʐæ˥}.
 \nt <dom="morpho" langue="cmn"> 一般用重叠形式：|fv{ʐæ˧~ʐæ˥}。
-\nt <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
-\nt <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
-\nt <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-ʐæ˧~ʐæ˥}]。
+\nt <langue="fra" dom="ton" print="n"> xxxx À vérifier à nouveau : le ton lexical ne serait-il pas Lα plutôt que Lβ? En effet la forme rédupliquée suggère un ton lexical Lα.
 \ton Lβ
 \so F4
 \va <speaker="F5"> ID.
@@ -79646,11 +79679,31 @@
 \gn 搅拌合混
 \df Mélanger, tourner (un mélange, une préparation).
 \gf mélanger
+
+\lx ʐæ˧~ʐæ˥
+\or raerae
+\mr ʐæ˩β
+\ps v
+\lc ʐæ˧ʐæ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To mix (reduplicated form).
+\ge to_mix.|fg{red}
+\dn 搅拌合混（重叠形式）
+\gn 搅拌合混.|fg{重叠}
+\df Mélanger, tourner (un mélange, une préparation) (forme rédupliquée).
+\gf mélanger.|fg{red}
 \xv le˧-ʐæ˧~ʐæ˥
-\xe |fg{accomp} 〜 |fg{red}
-\xn 搅拌
-\xf |fg{accomp} 〜 |fg{red}
-\dt 27/Apr/2017
+\xe |fg{accomp}
+\xn |fg{实施} 〜：搅拌
+\xf |fg{accomp} 〜
+\xc <langue="fra" dom="phono"> La réalisation phonétique est proche de [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\xc <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-ʐæ˧~ʐæ˥}].
+\xc <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-ʐæ˧~ʐæ˥}]。
 
 \lx zɑ˩-bɑ˧lɑ˩
 \or ssabbala
@@ -79936,6 +79989,7 @@
 \or ssaq
 \ps v
 \lc zɑ˩˥
+\cf zɑ˧~zɑ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" dom="ton" langue="fra"> Confirmé en 2012: est un ton L.
@@ -79945,7 +79999,7 @@
 \ge to_descend
 \dn 下（山……）
 \gn 下（山……）
-\df Descendre (redescendre de la montagne).
+\df Descendre (par exemple: descendre de la montagne).
 \gf descendre
 \xv ʁwɤ˩ zɑ˩˥
 \xe to go down the mountain
@@ -79956,6 +80010,22 @@
 \xn 还没下来
 \xf ne pas descendre encore
 \xc PHONO
+
+\lx zɑ˧~zɑ˥
+\or ssassa
+\mr zɑ˩α
+\ps v
+\lc zɑ˧zɑ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\de To go downward (a mountain), to descend (reduplicated form).
+\ge to_descend.|fg{red}
+\dn 下（山……）（重叠形式）
+\gn 下（山……）.|fg{重叠}
+\df Descendre (redescendre de la montagne) (forme rédupliquée).
+\gf descendre.|fg{red}
 \xv ɖɯ˧-zɑ˧~zɑ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn 下来一下
