@@ -79969,10 +79969,11 @@
 \or rae
 \ps v
 \lc ʐæ˧
+\cf ʐæ˥~ʐæ˩
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tons vérifiés en 2009: n'est pas: ʐæ˧ʐæ˩) (avant 2009: noté: ʐæ˥ʐæ˩ (kʰɯ˩), læ˧ ʐæ˥ʐæ˩ ze˩; corrigé en 2007; en 2006, avais noté ˧ ˩) (tons corrigés en 2007, confirmés en 2009; en 2006, avais noté: zo˧hṽ̩˧ ʐæ˧ʐæ˥ kʰɯ˧) (sens vérifié en 2009) le˧-ʐæ˧-ze˧: phonétiquement: [læ˧ʐæ˧ze˧]
+\nt <type="hist" print="n" langue="fra"> (sens vérifié en 2009) le˧-ʐæ˧-ze˧: phonétiquement: [læ˧ʐæ˧ze˧]
 \ton Mα
 \so F4
 \va <speaker="F5"> ID.
@@ -79983,18 +79984,6 @@
 \gn 笑
 \df Rire.
 \gf rire
-\xv hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
-\xe to make people laugh, to amuse people
-\xn 让大家笑一笑
-\xf faire rire les gens, amuser les gens, faire rire le public
-\xv zo˧hṽ̩˥ | hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
-\xe The kids make people laugh
-\xn 孩子们把大家逗笑了。
-\xf les enfants taquinent les gens, les font rire
-\xv ʐæ˧~ʐæ˩-di˩
-\xe jokes, funny talk
-\xn 笑话，好笑的话
-\xf plaisanteries, blagues
 \sn 2
 \de To laugh at; to be impertinent; to deride, to make fun of (people).
 \ge to_make_fun_of
@@ -80011,6 +80000,41 @@
 \xn |fg{实施} 〜 |fg{整体体}：出言不逊了
 \xf |fg{accomp} 〜 |fg{pfv}: s'est moqué
 \xc PHONO
+
+\lx ʐæ˥~ʐæ˩
+\or raerae
+\mr ʐæ˧α
+\ps v
+\lc ʐæ˧ʐæ˩
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (tons vérifiés en 2009: n'est pas: ʐæ˧ʐæ˩) (avant 2009: noté: ʐæ˥ʐæ˩ (kʰɯ˩), læ˧ ʐæ˥ʐæ˩ ze˩; corrigé en 2007; en 2006, avais noté ˧ ˩) (tons corrigés en 2007, confirmés en 2009; en 2006, avais noté: zo˧hṽ̩˧ ʐæ˧ʐæ˥ kʰɯ˧)
+\ton H-
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To laugh (reduplicated form).
+\ge to_laugh.|fg{red}
+\dn 笑（重叠形式）
+\gn 笑.|fg{重叠}
+\df Rire.
+\gf rire.|fg{red}
+\xv hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
+\xe to make people laugh, to amuse people
+\xn 让大家笑一笑
+\xf faire rire les gens, amuser les gens, faire rire le public
+\xv zo˧hṽ̩˥ | hĩ˧ ʐæ˧~ʐæ˥ kʰɯ˩
+\xe The kids make people laugh
+\xn 孩子们把大家逗笑了。
+\xf les enfants taquinent les gens, les font rire
+\sn 2
+\de To laugh at; to be impertinent; to deride, to make fun of (people) (reduplicated form).
+\ge to_make_fun_of.|fg{red}
+\dn 嘲笑别人、出言不逊（重叠形式）
+\gn 嘲笑.|fg{重叠}
+\df Être impertinent, déranger, se moquer.
+\gf se_moquer_de.|fg{red}
 \xv le˧-ʐæ˥~ʐæ˩
 \xe |fg{accomp} 〜 |fg{red}
 \xn 笑一笑（别人）
@@ -80021,6 +80045,24 @@
 \xn 嘲笑了
 \xf |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xc PHONO
+
+\lx ʐæ˧~ʐæ˩-di˩
+\or raeraeddi
+\mr ʐæ˥~ʐæ˩
+\mr -di˩
+\ps n
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\ton -L
+\lc ʐe˧
+\so F4
+\nt <dom="ton" print="n" langue="fra"> Le ton pourrait également être analysé comme H-, conformément à celui du morphème rédupliqué dont le mot est issu.
+\de Jokes, funny talk.
+\ge jokes
+\dn 笑话，好笑的话
+\gn 笑话
+\df Plaisanteries, blagues.
+\gf blagues
 
 \lx ze˩
 \hm 2
@@ -81853,7 +81895,6 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="ton" langue="fra"> Le comportement tonal du monosyllabe et celui du disyllabe rédupliqué qui lui correspond de façon transparente au plan sémantique ne sont pas en cohérence au plan phonologique. La forme rédupliquée suggère un monosyllabe au ton MH, mais la forme |fv{ɖɯ˧-ʐo˩-ɻ̩˩} (seule acceptable) amène à poser un ton Lα pour le monosyllabe. Or le schéma tonal attendu en réduplication pour le ton Lα est M.H. Le lien entre monosyllabe et disyllabe (forme rédupliquée) paraît donc perdu au plan de la phonologie synchronique.
 \ton Lα
 \lc ʐo˩˥
 \cf ʐo˩~ʐo˧˥
@@ -81870,22 +81911,6 @@
 \xe to swing back and forth
 \xn 甩来甩去
 \xf se balancer un peu
-\xv ʐo˩~ʐo˧-ze˥
-\xe 〜 |fg{red} |fg{pfv}
-\xn 〜 |fg{重叠} |fg{整体体}
-\xf 〜 |fg{red} |fg{pfv}
-\xv le˧-ʐo˩~ʐo˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
-\xc PHONO
-\xv ʐo˩~ʐo˧ bi˧
-\xe 〜 |fg{immediate.fut}
-\xn 〜 近将来
-\xf 〜 |fg{fut.imm}
-\xc <langue="fra" dom="ton"> Le schéma tonal est L.M.M, et non L.M.H comme on aurait pu s'y attendre dans la vision purement phonologique d'un déploiement d'un schéma MH.
-\xc <langue="eng" dom="ton"> The observed tonal pattern is L.M.M, and not L.M.H as might have been expected in the purely phonological perspective of an MH pattern unfolding over two syllables (which, in this case, would have yielded L.M.H).
-\xc <langue="cmn" dom="ton"> 声调模式是 L.M.M，而不是纯音系学角度上的“MH调张开成M＋H”。
 
 \lx ʐo˩α
 \sf <nb="B"> 967
@@ -81964,7 +81989,10 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Avant 2009, noté /le˧ ʐu˧ʐu˩/.
-\ton MH
+\nt <dom="ton" langue="fra"> Le comportement tonal du monosyllabe et celui du disyllabe rédupliqué qui lui correspond de façon transparente au plan sémantique ne sont pas en cohérence au plan phonologique. La forme rédupliquée suggère un monosyllabe au ton MH, mais la forme |fv{ɖɯ˧-ʐo˩-ɻ̩˩} (seule acceptable) amène à poser un ton Lα pour le monosyllabe. Or le schéma tonal attendu en réduplication pour le ton Lα est M.H. Le lien entre monosyllabe et disyllabe (forme rédupliquée) paraît donc perdu au plan de la phonologie synchronique.
+\nt <dom="ton" langue="eng"> The tonal behavior of the monosyllable and that of the reduplicated disyllable that corresponds to it transparently at the semantic level are not consistent at the phonological level. The reduplicated form suggests a monosyllable with an MH tone, but the form |fv{ɖɯ˧-ʐo˩-ɻ̩˩} (which is the only acceptable one) leads to the conclusion that the monosyllable carries Lα tone. However, the expected tonal pattern in reduplication for the Lα tone is M.H. The link between monosyllable and disyllable (reduplicated form) seems to be lost in terms of synchronic phonology.
+\nt <dom="ton" langue="cmn"> 虽然单音节动词与重叠动词（双音节动词）在语义层面上有着清楚的对应关系，可是其声调在音系层面上不是对应的。LM+MH#调的重叠形式平时对应着MH调的单音节动词。但|fv{ɖɯ˧-ʐo˩-ɻ̩˩}这个形式表明，单音节词带有Lα调。然而，Lα调动词的重叠平时生成MH调的双音节动词。在共时音系学方面，单音节和双音节（重叠形式）之间的联系似乎已经失去了。
+\ton LM+MH#
 \lc ʐo˩ʐo˧˥
 \so F4
 \de To swing.
@@ -81973,10 +82001,26 @@
 \gn 摔
 \df Se balancer.
 \gf se_balancer
+\xv ʐo˩~ʐo˧-ze˥
+\xe 〜 |fg{red} |fg{pfv}
+\xn 〜 |fg{重叠} |fg{整体体}
+\xf 〜 |fg{red} |fg{pfv}
+\xv le˧-ʐo˩~ʐo˩
+\xe |fg{accomp} 〜 |fg{red}
+\xn |fg{实施} 〜 |fg{重叠}
+\xf |fg{accomp} 〜 |fg{red}
+\xc PHONO
 \xv le˧-ʐo˩~ʐo˩ | le˧-ʐo˩~ʐo˩
 \xe To swing to and fro. The form with accomplished prefix is typically said twice, adding repetition to reduplication. Both are in keeping with the repetitive nature of the process of swinging.
 \xn 来回摆动。与摆动过程的重复性一致，带有完成前缀的形式通常会说两次。
 \xf Se balancer. La forme avec préfixe accompli se répète généralement, cette répétition s'ajoutant à la réduplication, l'une et l'autre en cohérence avec la nature répétitive du procès.
+\xv ʐo˩~ʐo˧ bi˧
+\xe 〜 |fg{immediate.fut}
+\xn 〜 近将来
+\xf 〜 |fg{fut.imm}
+\xc <langue="fra" dom="ton"> Le schéma tonal est L.M.M, et non L.M.H comme on aurait pu s'y attendre dans la vision purement phonologique d'un déploiement d'un schéma MH.
+\xc <langue="eng" dom="ton"> The observed tonal pattern is L.M.M, and not L.M.H as might have been expected in the purely phonological perspective of an MH pattern unfolding over two syllables (which, in this case, would have yielded L.M.H).
+\xc <langue="cmn" dom="ton"> 声调模式是 L.M.M，而不是纯音系学角度上的“MH调张开成M＋H”。
 
 \lx zo˧~zo˧-mv̩˧~mv̩˥
 \or ssossomumu
@@ -82449,7 +82493,7 @@
 \sf <nb="B"> 1412
 \sf <nb="2011"> 2040
 \or ssissi
-\ps v
+\ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009: n'est pas /zi/)
@@ -82473,9 +82517,9 @@
 \xn 身体麻木、全身麻木
 \xf avoir le corps engourdi
 \xv tʰi˧-zɯ˩~zɯ˩
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜
+\xf |fg{dur} 〜
 
 \lx zɯ˧~zɯ˧
 \sf <nb="B"> 247
@@ -83018,11 +83062,11 @@
 \lx ʐɻ̩˩α
 \sf <nb="B"> 1472
 \sf <nb="2011"> 2228, 1372
-\hm 1
 \or reuq
 \ps v
 \ton Lα
 \lc ʐɻ̩˩˥
+\cf ʐɻ̩˧~ʐɻ̩˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -83039,10 +83083,6 @@
 \xe to knead dough
 \xn 揉面
 \xf pétrir la pâte
-\xv ʐɻ̩˧~ʐɻ̩˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
 \xv ɖɯ˧-kʰwɤ˧ ʐɻ̩˥
 \xe to knead a piece (of dough)
 \xn 揉一块（面团）
@@ -83062,14 +83102,36 @@
 \xe to crease clothes; the clothes have been creased; the clothes are creased
 \xn 衣服皱了
 \xf les vêtements sont froissés, les vêtements ont été froissés
-\xv ʐɻ̩˧~ʐɻ̩˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx ʐɻ̩˧~ʐɻ̩˥
+\or reureu
+\mr ʐɻ̩˩α
+\ps v
+\ton H#
+\lc ʐɻ̩˧ʐɻ̩˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To knead (dough) (reduplicated form).
+\ge to_knead.|fg{red}
+\dn 揉（面）（重叠形式）
+\gn 揉.|fg{重叠}
+\df Pétrir (la pâte), malaxer (forme rédupliquée).
+\gf pétrir.|fg{red}
+\sn 2
+\de To crease, to crumple, to wrinkle (reduplicated form).
+\ge to_crease.|fg{red}
+\dn 皱（衣服）（重叠形式）
+\gn 皱.|fg{重叠}
+\df Froisser, plisser (forme rédupliquée).
+\gf froisser.|fg{red}
 \xv le˧-ʐɻ̩˧~ʐɻ̩˥-ze˩
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}: it is creased, it got creased
+\xn |fg{实施} 〜 |fg{整体体}：被弄皱了，被弄皱皱的了
+\xf |fg{accomp} 〜 |fg{pfv}: c'est froissé, ça s'est froissé
 
 \lx ʐv̩˩α
 \sf <nb="B"> 1033
