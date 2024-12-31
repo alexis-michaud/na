@@ -60560,6 +60560,7 @@
 \ps v
 \ton H
 \lc ʂo˧
+\cf ʂo˧~ʂo#˥
 \so F4
 \sn 1
 \sd <langue="fra"> verbe
@@ -60598,14 +60599,30 @@
 \gn 收集
 \df Rassembler, assembler.
 \gf rassembler
+
+\lx ʂo˧~ʂo#˥
+\or shosho
+\mr ʂo˥
+\ps v
+\ton #H
+\lc ʂo˧ʂo˧
+\so F4
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\de To gather, to collect, to bring together (reduplicated form).
+\ge to_gather.|fg{red}
+\dn 收集（重叠形式）
+\gn 收集.|fg{重叠}
+\df Rassembler, assembler (forme rédupliquée).
+\gf rassembler.|fg{red}
+\xv le˧-ʂo˧~ʂo˧
+\xe |fg{accomp} 〜: to gather a bit, to do a bit of gathering
+\xn 收集收集
+\xf |fg{accomp} 〜 |fg{red}: rassembler un peu, déployer une action en vue de rassembler
 \xv ʂo˧~ʂo˧-zo˧-ho˩-ze˩
 \xe We are going to have to gather (things).
 \xn 该收集一些了。
 \xf Il va falloir rassembler/assembler.
-\xv le˧-ʂo˧~ʂo˧
-\xe |fg{accomp} 〜 |fg{red}: to gather a bit, to do a bit of gathering
-\xn 收集收集
-\xf |fg{accomp} 〜 |fg{red}: rassembler un peu, déployer une action en vue de rassembler
 
 \lx ʂɤ˧do˧˥
 \sf <nb="B"> 1080
@@ -61351,6 +61368,7 @@
 \or sheq
 \ps v
 \lc ʂɤ˩˥
+\cf ʂɤ˧~ʂɤ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
@@ -61358,7 +61376,6 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\vc <langue="fra" print="n"> /ʂɤ/, ton 3, se rédupliquant en ʂɤ˧ʂɤ˥: voudrait dire “déchiqueter, déchirer en petits morceaux"
 \va <speaker="M23"> ID.
 \de To tear, to rip.
 \ge to_tear
@@ -61370,6 +61387,25 @@
 \xe to tear things
 \xn 撕东西
 \xf déchirer des choses
+
+\lx ʂɤ˧~ʂɤ˥
+\or sheshe
+\mr ʂɤ˩α
+\ps v
+\lc ʂɤ˧ʂɤ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To tear, to rip (reduplicated form).
+\ge to_tear.|fg{red}
+\dn 撕（纸……）（重叠形式）
+\gn 撕.|fg{重叠}
+\df Déchiqueter, déchirer en petits morceaux (par exemple: du papier) (forme rédupliquée).
+\gf déchirer.|fg{red}
 \xv tso˧~tso˧ ʂɤ˧~ʂɤ˥ (+ze˩)
 \xe to tear things
 \xn 撕东西
@@ -61378,7 +61414,6 @@
 \xe |fg{accomp} 〜 |fg{red} |fg{pfv}
 \xn 撕了
 \xf |fg{accomp} 〜 |fg{red} |fg{pfv}
-\dt 06/Oct/2015
 
 \lx so˩~so˧˥
 \sf <nb="B"> 1190b
@@ -61387,8 +61422,10 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté le˥so˧so˩)
-\ton MH
+\nt <dom="ton" langue="fra"> Les tons de la forme rédupliquée suggèrent que la forme simplex d'origine portait un ton MH.
+\nt <dom="ton" langue="eng"> The tones of the reduplicated form point to a simplex form carrying MH tone.
+\nt <dom="ton" langue="cmn"> 重叠形式的声调指向带有MH调的单音节词根。
+\ton LM+MH#
 \lc so˩so˧˥
 \so F4
 \va <speaker="M21"> ID.
@@ -61399,10 +61436,10 @@
 \df Frotter dans ses mains.
 \gf frotter_dans_mains
 \xv le˧-so˩~so˩
-\xe |fg{accomp} 〜 |fg{red}
+\xe |fg{accomp} 〜
 \xn 揉来揉去
-\xf |fg{accomp} 〜 |fg{red}
-\dt 27/Apr/2017
+\xf |fg{accomp} 〜
+\xc <type="hist" print="n" langue="fra"> Avant 2009: noté le˥so˧so˩.
 
 \lx ʂɻ̩˧˥
 \sf <nb="B"> 1652
@@ -63359,8 +63396,9 @@
 \nt <dom="sem" langue="cmn"> 一般用重叠形式：/|fv{le˧-ʂwæ˥~ʂwæ˩}/。
 \ton Mα
 \lc ʂwæ˧
+\cf ʂwæ˥~ʂwæ˩
 \so F4
-\de To stir.
+\de To stir (monosyllable).
 \ge to_stir
 \dn 搅拌
 \gn 搅拌
@@ -63381,11 +63419,22 @@
 \xn 搅拌东西
 \xf remuer des choses, touiller des choses
 \xc PHONO
-\xv ʂwæ˧~ʂwæ˩
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xc PHONO
+
+\lx ʂwæ˥~ʂwæ˩
+\or shuaeshuae
+\mr ʂwæ˧α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\lc ʂwæ˥ʂwæ˩
+\so F4
+\de To stir (reduplicated form).
+\ge to_stir.|fg{red}
+\dn 搅拌（重叠形式）
+\gn 搅拌.|fg{重叠}
+\df Remuer (forme rédupliquée).
+\gf remuer.|fg{red}
 \xv le˧-ʂwæ˥~ʂwæ˩
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
@@ -65105,7 +65154,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (corrigé en 2009; auparavant, noté: “ʈʰæ˩ʈʰæ˩˧, tons confirmés, n'est pas ˧ ˧˥")
-\nt <dom="sem" langue="fra"> Ce mot est perçu comme sans lien étymologique ni sémantique avec le verbe ‘mordre' (perçu comme simple homophone).
+\nt <dom="sem" langue="fra"> Au vu de son schème tonal, le disyllabe paraît constituer une forme rédupliquée de |fv{ʈʰæ˧˥} ‘mordre, piquer’. Néanmoins, ce mot est perçu par Mme Latami comme n'ayant pas de lien étymologique ni sémantique avec le verbe ‘mordre, piquer'. Celui-ci est perçu comme un simple homophone.
+\nt <dom="sem" langue="eng"> In view of its tone pattern, the disyllable looks very much like a reduplicated form of |fv{ʈʰæ˧˥} ‘to bite, to sting'. However, this word is perceived by Mrs. Latami as having no etymological or semantic link with the verb ‘to bite, to sting', which is perceived as a mere homophone.
+\nt <dom="sem" langue="cmn"> 鉴于其声调，该双个音节词似乎是|fv{ʈʰæ˧˥}‘咬、刺’的重叠形式。然而，拉他咪女士认为这个词与‘咬、刺’没有词源上或语义上的联系。这被认为是一个简单的同音异义词。
 \ton MH
 \lc ʈʰæ˩ʈʰæ˧˥
 \so F4
@@ -65118,9 +65169,9 @@
 \df Démanger.
 \gf démanger
 \xv le˧-ʈʰæ˩~ʈʰæ˩-ze˩
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{实施} 〜 |fg{整体体}
+\xf |fg{accomp} 〜 |fg{pfv}
 
 \lx tɕæ˧hæ˩
 \or jaehae
@@ -65370,12 +65421,12 @@
 \lc tɕi˧tɕi˧
 \so F4
 \va <speaker="F5"> ID.
-\de To shake (e.g. clothes after washing; to shake one's head).
-\ge to_shake
-\dn 抖、抖动，摇动
-\gn 抖
-\df Secouer (par exemple: pour défroisser des vêtements après lavage; aussi: secouer la tête).
-\gf secouer
+\de To shake (e.g. clothes after washing; to shake one's head) (reduplicated form).
+\ge to_shake.|fg{red}
+\dn 抖、抖动，摇动（重叠形式）
+\gn 抖.|fg{重叠}
+\df Secouer (par exemple: pour défroisser des vêtements après lavage; aussi: secouer la tête) (forme rédupliquée).
+\gf secouer.|fg{red}
 \xv le˧-tɕi˧~tɕi˧-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: has shaken
 \xn |fg{实施} 〜 |fg{整体体}：抖了
@@ -65389,9 +65440,9 @@
 \xn 摇头
 \xf agiter la tête, secouer la tête
 \xv ɖɯ˧-tɕi˧~tɕi˧-ɻ̩˥
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 摇一摇
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx tɕi˥
 \sf <nb="B"> 1212b
@@ -67582,13 +67633,13 @@
 \or jiq
 \ps v
 \lc tɕɯ˩˥
+\cf tɕɯ˧~tɕɯ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tons vérifiés avec M23)(confirmé en 2012: est un ton L) (avant 2009: noté /‡ʈʰæ˥ɻ̩˩tɕi˩di˩/)
+\nt <type="hist" print="n" langue="fra"> (tons vérifiés avec M23)(confirmé en 2012: est un ton L)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
-\vc <langue="fra" print="n"> tɕɯ˧~tɕɯ˥-bæ˩bæ˩ ‘pattern'
 \va <speaker="M21"> ID.
 \de To write.
 \ge to_write
@@ -67608,10 +67659,6 @@
 \xe There are twelve months in one year; I would like to transcribe twelve stories (in the coming year)! (Context: the consultant notices that I completed the transcription of two texts in two months; by providing this example sentence, she suggests to me the project of keeping up the same rhythm, transcribing twelve stories in the coming year.)
 \xn 一年有十二个月，我就想（一年之内）记十二个故事！（情景：我两个月内完成了两个故事的记录工作。发音合作人举这个例句，鼓励我坚持这种速度，一年内再记十二个故事。）
 \xf Dans une année il y a douze mois; je voudrais transcrire douze histoires (au cours de l'année qui vient)! (Contexte: en septembre 2011, la locutrice remarque que j'ai transcrit deux contes en deux mois; en m'offrant cet exemple, elle me souffle le projet de garder le rythme et de transcrire une histoire par mois, soit douze pendant l'année qui vient)
-\xv ɖɯ˧-tɕɯ˧~tɕɯ˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{重叠} |fg{发端}
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv tɕɯ˩-di˩˥
 \xe brush, pen; literally ‘thing to write'
 \xn 笔。直译：‘（用来）书写的（东西）’
@@ -67620,11 +67667,38 @@
 \xe brush, pen; literally ‘thing to write books'
 \xn 笔。直译：‘（用来）写书的（东西）’
 \xf pinceau; littéralement ‘chose pour écrire des livres'
+\xc <langue="fra" type="hist" print="n" dom="ton"> (avant 2009: noté /‡ʈʰæ˥ɻ̩˩tɕi˩di˩/)
+
+\lx tɕɯ˧~tɕɯ˥
+\or jiji
+\mr tɕɯ˩α
+\ps v
+\lc tɕɯ˧tɕɯ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To write (reduplicated form).
+\ge to_write.|fg{red}
+\dn 写（重叠形式）
+\gn 写.|fg{重叠}
+\df Écrire (forme rédupliquée).
+\gf écrire.|fg{red}
+\xv ɖɯ˧-tɕɯ˧~tɕɯ˥-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}: to write a little something, to do a little writing
+\xn |fg{进行时态} 〜 |fg{发端}：写一写
+\xf |fg{délimitatif} 〜 |fg{inchoatif}: écrire un petit quelque chose, faire un peu d'écriture
 \xv ʈʂʰɯ˧ | tʰi˧-tɕɯ˧~tɕɯ˥ dʑo˩
-\xe (S)he is writing
+\xe (S)he is writing.
 \xn 他正在写写东西。
-\xf Elle/il est en train d'écrire
-\dt 27/Apr/2017
+\xf Elle/il est en train d'écrire.
+\xv tɕɯ˧~tɕɯ˥-bæ˩bæ˩
+\xe a pattern
+\xn 一种图案
+\xf un motif
+\rf F5
 
 \lx tɕɯ˧˥α
 \sf <nb="B"> 859
@@ -67786,7 +67860,10 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (noté en 2006: lo˧mi˥ tɕʰi˧tɕʰi˧) (avant mars 2012: noté comme ton: M.M)
-\ton MH
+\nt <dom="ton" langue="fra"> Les tons de la forme rédupliquée suggèrent que la forme simplex d'origine portait un ton MH.
+\nt <dom="ton" langue="eng"> The tones of the reduplicated form point to a simplex form carrying MH tone.
+\nt <dom="ton" langue="cmn"> 重叠形式的声调指向带有MH调的单音节词根。
+\ton LM+MH#
 \lc tɕʰɯ˩tɕʰɯ˧˥
 \so F4
 \va <speaker="F5"> ID.
@@ -67806,9 +67883,9 @@
 \xn 吮拇指（直译：‘吮手’）
 \xf sucer son pouce (littéralement: ‘sucer sa main’).
 \xv le˧-tɕʰɯ˩~tɕʰɯ˩-ze˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{实施} 〜 |fg{整体体}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xc PHONO
 
 \lx te˧˥α
@@ -68301,6 +68378,7 @@
 \or deiq
 \ps v
 \lc ʈi˩˥
+\cf ʈi˧~ʈi˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (erreur ancienne: ʐɯ˩gv̩˩˧ “bateau"; erreur par l'élicitation du chinois: chuang/chuan)(confirmé en 2012: est un ton L)
@@ -68338,10 +68416,28 @@
 \xe (She/he) has got up!
 \xn 起床了！
 \xf (il/elle) s'est levé(e)!
+
+\lx ʈi˧~ʈi˥
+\or deidei
+\mr ʈi˩α
+\ps v
+\lc ʈi˧ʈi˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To get up (reduplicated form).
+\ge to_get_up.|fg{red}
+\dn 起（如：起来，起床）（重叠形式）
+\gn 起.|fg{重叠}
+\df Se lever (forme rédupliquée).
+\gf se_lever.|fg{red}
 \xv ɖɯ˧-ʈi˧~ʈi˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 起来一下
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 
 \lx ʈi˥α
@@ -68544,6 +68640,7 @@
 \or teq
 \ps v
 \lc ʈʰɤ˧˥
+\cf ʈʰɤ˩~ʈʰɤ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté tʰi˧ tʰɤ˩tʰɤ˩)
@@ -68556,10 +68653,28 @@
 \gn 滴
 \df Goutter, dégouliner, couler goutte à goutte.
 \gf goutter
+
+\lx ʈʰɤ˩~ʈʰɤ˧˥
+\or tete
+\mr ʈʰɤ˧˥
+\ps v
+\lc ʈʰɤ˩ʈʰɤ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\so F4
+\va <speaker="M21"> ID.
+\de To drip, to dribble (reduplicated form).
+\ge to_drip.|fg{red}
+\dn 滴（水往下滴）（重叠形式）
+\gn 滴.|fg{重叠}
+\df Goutter, dégouliner, couler goutte à goutte (forme rédupliquée).
+\gf goutter.|fg{red}
 \xv tʰi˧-ʈʰɤ˩~ʈʰɤ˩
-\xe |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
 \xn 滴着滴着
-\xf |fg{dur} 〜 |fg{red}
+\xf |fg{dur} 〜
+\xc <type="hist" print="n" langue="fra"> D'abord noté tʰi˧ tʰɤ˩tʰɤ˩.
 
 \lx to˩bi˩
 \sf <nb="2011"> 738
@@ -69603,6 +69718,7 @@
 \or doq
 \ps v
 \lc to˩˥
+\cf to˧~to˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lα
@@ -69613,15 +69729,38 @@
 \gn 有亲属关系
 \df Être en relation, entretenir un lien de parenté.
 \gf avoir_un_lien_de_parenté
-\xv le˧-to˧~to˥
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
 \xv qʰwɤ˩ɖɯ˩˥ | le˧-to˩-ze˩
 \xe We have acquired a family tie! (through adoption, marriage…)
 \xn 我们成了亲戚！（通过领养、婚姻……）
 \xf (nous) avons acquis un lien de parenté! (par adoption, mariage…)
-\dt 08/Oct/2015
+\xv qʰwɤ˩ɖɯ˩˥ | mɤ˧-to˩, | le˧-to˩-ze˩!
+\xe We had no family ties; [but] here we are now united (as one family)!
+\xn 我们之前没有亲戚关联，[但是]现在我们成了亲戚！
+\xf Nous n'avions pas de lien de parenté; [mais] nous voilà désormais unies (comme une même famille)!
+\txt BuriedAlive2.152
+\doi 10.24397/pangloss-0004537#S152
+\txtsup BuriedAlive3.111
+\doisup 10.24397/pangloss-0004539#S111
+
+\lx to˧~to˥
+\or dodo
+\mr to˩α3
+\ps v
+\lc to˧to˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\de To stand in a family relationship, to have family ties.
+\ge to_have_family_ties
+\dn 有亲属关系
+\gn 有亲属关系
+\df Être en relation, entretenir un lien de parenté.
+\gf avoir_un_lien_de_parenté
+\xv le˧-to˧~to˥
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
 
 \lx to˥α
 \or do
@@ -69803,7 +69942,7 @@
 \cf tsɯ˩pʰɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L+MH
+\ton LM+MH#
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> *
@@ -69852,10 +69991,6 @@
 \xe (S)he is winking!
 \xn 他在眨眼！
 \xf Elle/il est en train de faire un clin d'œil!
-\xv tsɑ˩~tsɑ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
 
 \lx tsɑ˧
 \sf <nb="B"> 1046
