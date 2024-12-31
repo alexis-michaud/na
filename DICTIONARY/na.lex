@@ -75131,9 +75131,26 @@
 
 \lx ʈʂɯ˩~ʈʂɯ˧˥
 \or zhizhi
+\mr ʈʂɯ˧˥
 \ps v
 \lc ʈʂɯ˩ʈʂɯ˧˥
-\cf ʈʂɯ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To sift (reduplicated form).
+\ge to_sift.|fg{red}
+\dn 筛（重叠形式）
+\gn 筛.|fg{重叠}
+\df Tamiser (forme rédupliquée).
+\gf tamiser.|fg{red}
+\xv le˧-ʈʂɯ˩~ʈʂɯ˩
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
+\xc PHONO
 
 \lx ʈʂɯ˧˥
 \sf <nb="B"> 1478
@@ -75141,6 +75158,7 @@
 \or zhiq
 \ps v
 \lc ʈʂɯ˧˥
+\cf ʈʂɯ˩~ʈʂɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{ʈʂɯ˩~ʈʂɯ˧˥}.
@@ -75165,15 +75183,6 @@
 \xe |fg{delimitative} 〜 |fg{inceptive}
 \xn |fg{进行时态} 〜 |fg{发端}
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
-\xc PHONO
-\xv ʈʂɯ˩~ʈʂɯ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xv le˧-ʈʂɯ˩~ʈʂɯ˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 
 \lx ʈʂʰɯ˧
