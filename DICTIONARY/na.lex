@@ -75496,10 +75496,6 @@
 \xn |fg{否定} 〜：不眨眼
 \xf |fg{neg} 〜: ne pas cligner des yeux
 \xc PHONO
-\xv ɖɯ˧-tsɯ˧~tsɯ˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{重叠} |fg{发端}
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xv njɤ˩ɭɯ˧ tsɯ˩pʰɤ˩
 \xe to blink
 \xn 眨眼
@@ -75518,7 +75514,6 @@
 \xe (S)he is winking!
 \xn 他在眨眼！
 \xf Elle/il est en train de faire un clin d'œil!
-\dt 27/Apr/2017
 
 \lx tsʰɯ˧pʰv̩#˥
 \or cipu
@@ -75825,6 +75820,7 @@
 \or ziq
 \ps v
 \lc tsɯ˩˥
+\cf tsɯ˧~tsɯ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (vérifié en 2009: n'est pas /tsi/; ton également vérifié: tʰi˧tsɯ˩ze˩)(confirmé en 2012: est un ton L)
@@ -75838,6 +75834,30 @@
 \gn 堵塞
 \df Boucher, obstruer (par exemple: obstruer l'entrée d'un trou); être bouché.
 \gf boucher
+
+\lx tsɯ˧~tsɯ˥
+\sf <nb="B"> 1233
+\sf <nb="2011"> 1769
+\or zizi
+\mr tsɯ˩α
+\ps v
+\lc tsɯ˧tsɯ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M23"> ID.
+\de To block up (reduplicated form).
+\ge to_block_up.|fg{red}
+\dn 堵塞、塞住洞口（重叠形式）
+\gn 堵塞.|fg{重叠}
+\df Boucher, obstruer (par exemple: obstruer l'entrée d'un trou); être bouché (forme rédupliquée).
+\gf boucher.|fg{red}
+\xv ɖɯ˧-tsɯ˧~tsɯ˥-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{进行时态} 〜 |fg{发端}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx tsɯ˧α
 \hm 1
@@ -76300,6 +76320,7 @@
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
 \ton Lα
 \lc ʈʂv̩˩˥
+\cf ʈʂv̩˧~ʈʂv̩˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -76313,19 +76334,35 @@
 \xe (the disease) is going to contaminate someone / is going to contaminate people
 \xn （病毒）会传染人的
 \xf (la maladie) va contaminer quelqu'un
-\xv ʈʂv̩˧~ʈʂv̩˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xv ʈʂv̩˧~ʈʂv̩˥-ɻ̩˩ ho˩
-\xe (the disease) is going to contaminate (people)
-\xn （病毒）会传染的。
-\xf (la maladie) va contaminer (des gens)
 \xv njɤ˧-ɳɯ˧ | no˧ ʈʂv̩˧-ʝi˥!
 \xe (Be careful,) I may contaminate you / pass on my cold to you!
 \xn （要小心：）我会传染你的！
 \xf (Attention,) je vais te contaminer/te passer (mon rhume)!
-\dt 07/Oct/2015
+
+\lx ʈʂv̩˧~ʈʂv̩˥
+\sf <nb="B"> 1182
+\sf <nb="2011"> 1697
+\or zhuzhu
+\mr ʈʂv̩˩α1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
+\ton H#
+\lc ʈʂv̩˧ʈʂv̩˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To contaminate, to infect (reduplicated form).
+\ge to_contaminate.|fg{red}
+\dn 传染（重叠形式）
+\gn 传染.|fg{重叠}
+\df Contaminer, infecter (forme rédupliquée).
+\gf contaminer.|fg{red}
+\xv ʈʂv̩˧~ʈʂv̩˥-ɻ̩˩ ho˩
+\xe (the disease) is going to contaminate (people)
+\xn （病毒）会传染的。
+\xf (la maladie) va contaminer (des gens)
 
 \lx ʈʂv̩˩α
 \hm 2
