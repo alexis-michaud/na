@@ -2607,6 +2607,7 @@
 \nt <type="hist" print="n" langue="fra"> ton 3a
 \ton Lα
 \lc bæ˩˥
+\cf bæ˧~bæ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -2624,11 +2625,6 @@
 \xe to sweep the dust, to sweep the floor+|fg{pfv}
 \xn 扫地了
 \xf balayer les saletés, balayer le sol+|fg{pfv}
-\xc PHONO
-\xv le˧-bæ˧~bæ˥
-\xe |fg{accomp} 〜 |fg{red}
-\xn 扫一扫
-\xf |fg{accomp} 〜 |fg{red}
 \xc PHONO
 \xv ɖʐɤ˩ bæ˩˥
 \xe to sweep the stairs
@@ -2650,7 +2646,27 @@
 \xn 我要扫仓廪了！
 \xf Il va falloir que je balaie le grenier à céréales!
 \xc PHONO
-\dt 26/Aug/2015
+
+\lx bæ˧~bæ˥
+\or bbaebbae
+\mr bæ˩α1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\lc bæ˧bæ˥
+\so F4
+\de To sweep, to clean up (reduplicated form).
+\ge to_sweep.|fg{red}
+\dn 扫（重叠形式）
+\gn 扫.|fg{重叠}
+\df Balayer (forme rédupliquée).
+\gf balayer.|fg{red}
+\xv le˧-bæ˧~bæ˥
+\xe |fg{accomp} 〜
+\xn 扫一扫
+\xf |fg{accomp} 〜
+\xc PHONO
 
 \lx bæ˩α
 \sf <nb="B"> 1254
@@ -83109,8 +83125,11 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <dom="sem" langue="fra"> Le binage se pratique pour les plants de riz, de maïs, de soja…
+\nt <dom="sem" langue="eng"> Hoeing is used for rice, corn, and soybean plants, among others.
+\nt <dom="sem" langue="cmn"> 水稻、玉米、大豆等等植物需要锄草。
 \ton MH
 \lc ʐwæ˧˥
+\cf ʐwæ˩~ʐwæ˧˥
 \so F4
 \va <speaker="M23"> ID.
 \de To hoe weeds.
@@ -83119,15 +83138,7 @@
 \gn 薅锄
 \df Sarcler, biner.
 \gf sarcler
-\xv ʐwæ˩~ʐwæ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
 \xv jɤ˩jo˥ ʐwæ˩
-\xe to hoe potatoes, to weed a potato field
-\xn 洋芋地里锄草
-\xf sarcler des pommes de terre
-\xv jɤ˩jo˧ ʐwæ˧~ʐwæ˥
 \xe to hoe potatoes, to weed a potato field
 \xn 洋芋地里锄草
 \xf sarcler des pommes de terre
@@ -83135,11 +83146,30 @@
 \xe to hoe sweetcorn, to weed a sweetcorn field
 \xn 苞谷地里锄草
 \xf sarcler du maïs
+
+\lx ʐwæ˩~ʐwæ˧˥
+\or ruaeq
+\mr ʐwæ˧˥
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\lc ʐwæ˩ʐwæ˧˥
+\so F4
+\de To hoe weeds (reduplicated form).
+\ge to_hoe.|fg{red}
+\dn 薅锄、锄草（重叠形式）
+\gn 薅锄.|fg{重叠}
+\df Sarcler, biner (forme rédupliquée).
+\gf sarcler.|fg{red}
+\xv jɤ˩jo˧ ʐwæ˧~ʐwæ˥
+\xe to hoe potatoes, to weed a potato field
+\xn 洋芋地里锄草
+\xf sarcler des pommes de terre
 \xv qʰɑ˧dze˧ ʐwæ˧~ʐwæ˥
 \xe to hoe sweetcorn, to weed a sweetcorn field
 \xn 苞谷地里锄草
 \xf sarcler du maïs
-\dt 06/Oct/2015
 
 \lx ʐwæ˥
 \sf <nb="B"> 1858
@@ -83708,16 +83738,16 @@
 \lc ʐwɤ˧ʐwɤ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton HL
+\ton H-
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \de To speak (|fg{red}).
-\ge to_speak
+\ge to_speak.|fg{red}
 \dn 讲话（|fg{重叠}）。
-\gn 讲话
+\gn 讲话.|fg{重叠}
 \df Parler (|fg{red}).
-\gf parler
+\gf parler.|fg{red}
 \xv ʐwɤ˧~ʐwɤ˩ mɤ˩-hĩ˩
 \xe dumb person, person who is not able to speak
 \xn 哑巴、不会讲话的人
@@ -83736,9 +83766,9 @@
 \xf parler aux gens
 \xc PHONO
 \xv le˧-ʐwɤ˧~ʐwɤ˥-ze˩
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}: spoke a little
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}：讲了一些
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}: a parlé un peu
+\xe |fg{accomp} 〜 |fg{pfv}: spoke a little
+\xn |fg{实施} 〜 |fg{整体体}：讲了一些
+\xf |fg{accomp} 〜 |fg{pfv}: a parlé un peu
 \xc PHONO
 
 \lx ʐwɤ˧mv̩˧
