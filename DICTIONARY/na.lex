@@ -72404,10 +72404,12 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /lə˧ tsʰɯ˩tsʰɯ˩ tʰi˧ dzɯ˩/)
 \nt <dom="synt" langue="fra"> Le mot est généralement employé sous sa forme rédupliquée: /|fv{tsʰi˩~tsʰi˧˥}/.
+\nt <dom="synt" langue="eng"> The word is generally used in its reduplicated form: /|fv{tsʰi˩~tsʰi˧˥}/.
+\nt <dom="synt" langue="cmn"> 该词通常以其重叠形式使用：/|fv{tsʰi˩~tsʰi˧˥}/。
 \ton MH
 \lc tsʰi˧˥
+\cf tsʰi˩~tsʰi˧˥
 \so F4
 \va <speaker="F5"> ID.
 \de To squat.
@@ -72416,10 +72418,24 @@
 \gn 蹲
 \df S'accroupir.
 \gf s_accroupir
-\xv tsʰi˩~tsʰi˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx tsʰi˩~tsʰi˧˥
+\or ceecee
+\mr tsʰi˧˥2
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (avant 2009: noté: /lə˧ tsʰɯ˩tsʰɯ˩ tʰi˧ dzɯ˩/)
+\ton LM+MH#
+\lc tsʰi˩tsʰi˧˥
+\so F4
+\va <speaker="F5"> ID.
+\de To squat (reduplicated form).
+\ge to_squat.|fg{red}
+\dn 蹲（重叠形式）
+\gn 蹲.|fg{重叠}
+\df S'accroupir (forme rédupliquée).
+\gf s_accroupir.|fg{red}
 \xv le˧-tsʰi˩~tsʰi˩ | tʰi˧-dzi˩
 \xe to sit cross-legged
 \xn 盘腿坐
@@ -73336,6 +73352,7 @@
 \or co
 \ps v
 \lc tsʰo˧
+\cf tsʰo˧~tsʰo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mβ
@@ -73353,10 +73370,25 @@
 \xe to skip rope
 \xn 跳绳
 \xf sauter à la corde
-\xv tsʰo˧~tsʰo˧
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}: trépigner, sautiller ici et là
+
+\lx tsʰo˧~tsʰo˧
+\or coco
+\mr tsʰo˧β
+\ps v
+\lc tsʰo˧tsʰo˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To jump around, to hop (reduplicated form of ‘to jump’).
+\ge to_hop
+\dn 跳一跳
+\gn 跳一跳
+\df Trépigner, sautiller (forme rédupliquée de ‘sauter’).
+\gf sautiller
 
 \lx ʈʂo˩β
 \or zho
@@ -73404,6 +73436,7 @@
 \or cho
 \ps v
 \lc ʈʂʰo˧
+\cf ʈʂʰo˧~ʈʂʰo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mβ
@@ -73428,10 +73461,22 @@
 \xe to read a book aloud
 \xn 朗读一本书
 \xf lire un livre
-\xv ʈʂʰo˧~ʈʂʰo˧
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx ʈʂʰo˧~ʈʂʰo˧
+\or chocho
+\mr ʈʂʰo˧β
+\ps v
+\lc ʈʂʰo˧ʈʂʰo˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\so F4
+\de To read aloud (reduplicated form).
+\ge to_read_aloud.|fg{red}
+\dn 朗读（重叠形式）
+\gn 朗读.|fg{重叠}
+\df Lire à haute voix (forme rédupliquée).
+\gf lire.|fg{red}
 
 \lx ʈʂo˩bo˩
 \sf <nb="B"> 457
@@ -74393,6 +74438,7 @@
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: /ʁu˥ kʶwɑ˩ tsʰɤ˩/)(confirmé en 2012: est un ton L)
 \ton Lα
 \lc tsʰɤ˩˥
+\cf tsʰɤ˧~tsʰɤ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -74412,10 +74458,29 @@
 \xe to plait hair
 \xn 梳一条辫子
 \xf faire une tresse
+
+\lx tsʰɤ˧~tsʰɤ˥
+\or cece
+\mr tsʰɤ˩α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\lc tsʰɤ˧tsʰɤ˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\de To plait, to weave (hair, thread) (reduplicated form).
+\ge to_plait.|fg{red}
+\dn 编（头发，线）（重叠形式）
+\gn 编.|fg{重叠}
+\df Tresser (les cheveux, fils) (forme rédupliquée).
+\gf tresser.|fg{red}
 \xv ɖɯ˧-tsʰɤ˧~tsʰɤ˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{重叠} |fg{发端}
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{进行时态} 〜 |fg{发端}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx tsʰɤ˧˥α
 \or ce
