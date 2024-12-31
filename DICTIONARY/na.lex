@@ -49853,6 +49853,7 @@
 \sd <langue="eng"> verb
 \ton H
 \lc qæ˧
+\cf qæ˧~qæ#˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -49874,27 +49875,45 @@
 \xe to change clothes
 \xn 换衣服
 \xf changer de vêtements
-\xv qæ˧~qæ˧
-\xe 〜 |fg{red}: to exchange (an object for another)
-\xn 〜 |fg{重叠}：交换
-\xf 〜 |fg{red}: échanger (un objet contre un autre)
+
+\lx qæ˧~qæ#˥
+\or ghae
+\mr qæ˥2
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton #H
+\lc qæ˧qæ˧
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To exchange (an object for another). (Reduplicated form of ‘to change’.)
+\ge to_exchange
+\dn 交换（重叠形式）
+\gn 交换.|fg{重叠}
+\df Échanger (un objet contre un autre). (Forme rédupliquée de ‘changer’.)
+\gf échanger
 \xv qæ˧~qæ˧-ɻ̩˥
-\xe 〜 |fg{red} |fg{inceptive}
-\xn 〜 |fg{重叠} |fg{发端}
-\xf 〜 |fg{red} |fg{inchoatif}
+\xe 〜 |fg{inceptive}
+\xn 〜 |fg{发端}
+\xf 〜 |fg{inchoatif}
 \xv qæ˧~qæ˧-ɻ̩˧-ze˥
-\xe 〜 |fg{red} |fg{inceptive} |fg{pfv}
-\xn 〜 |fg{重叠} |fg{发端} |fg{整体体}
-\xf 〜 |fg{red} |fg{inchoatif} |fg{pfv}
+\xe 〜 |fg{inceptive} |fg{pfv}
+\xn 〜 |fg{发端} |fg{整体体}
+\xf 〜 |fg{inchoatif} |fg{pfv}
 \xv tso˧~tso˧ qæ˧~qæ˧
 \xe to exchange things
 \xn 交换东西
 \xf échanger des choses
 \xc PHONO
-\xv le˧-qæ˧~qæ˧(-ze˩)
-\xe |fg{accomp} 〜 |fg{red} (|fg{pfv})
-\xn |fg{实施} 〜 |fg{重叠}（＋整体体）
-\xf |fg{accomp} 〜 |fg{red} (|fg{pfv})
+\xv le˧-qæ˧~qæ˧
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
+\xv le˧-qæ˧~qæ˧-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{实施} 〜 |fg{整体体}
+\xf |fg{accomp} 〜 |fg{pfv}
 
 \lx qæ˥
 \sf <nb="B"> 1304
@@ -49931,9 +49950,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tons vérifiés) (en 2006, noté ˧ ˧˥, puis corrigé en 2007 en ˩ ˩˧, par erreur; en 2011: confirme le schéma qɑ˩ qɑ˧˥, qui est régulier)
 \ton MH
 \lc qɑ˧˥
+\cf qɑ˩~qɑ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -49947,10 +49966,25 @@
 \xe |fg{dur} 〜
 \xn |fg{持续体} 〜
 \xf |fg{dur} 〜
-\xv qɑ˩~qɑ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}：帮帮忙
-\xf 〜 |fg{red}
+
+\lx qɑ˩~qɑ˧˥
+\or ghagha
+\mr qɑ˧˥
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (tons vérifiés) (en 2006, noté ˧ ˧˥, puis corrigé en 2007 en ˩ ˩˧, par erreur; en 2011: confirme le schéma qɑ˩ qɑ˧˥, qui est régulier)
+\ton LM+MH#
+\lc qɑ˩qɑ˧˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To help (reduplicated form).
+\ge to_help.|fg{red}
+\dn 帮助（重叠形式）：帮帮忙
+\gn 帮助.|fg{重叠}
+\df Aider (forme rédupliquée).
+\gf aider.|fg{red}
 \xv hĩ˧ qɑ˩~qɑ˩
 \xe to help people; to go and work at someone else's place (e.g. during the harvest)
 \xn 帮人，到别人家去工作（例如收庄稼的时候）
@@ -51559,9 +51593,10 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="eng"> Before 2014: tone erroneously classified as Lβ; patterns thoroughly verified with F4 in Aug. 2014.
+\nt <type="hist" print="n" langue="eng"> 'Before 2014: tone erroneously classified as Lβ; patterns thoroughly verified with F4 in Aug. 2014.' This seems to be an early note, with later verification leading to classification as Lβ.
 \ton Lβ
 \lc qʰo˩˥
+\cf qʰo˥~qʰo˩
 \so F4
 \de To invite, to treat.
 \ge to_invite
@@ -51585,11 +51620,6 @@
 \xe Euphemism for ‘rat poison'. This phrase is intended not to attract the mice's attention to these preparations.
 \xn ‘待客的东西’（老鼠药的委婉语。如果说出来要买老鼠药，老鼠会知道，就不会吃的。）
 \xf Euphémisme pour désigner la mort-aux-rats. La croyance veut que si on expose clairement le projet, les rats vont se méfier et ne prendront pas cette nourriture empoisonnée.
-\xv ɖɯ˧-qʰo˥~qʰo˩-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{重叠} |fg{发端}：请一下
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\xc PHONO
 \xv qʰo˩-mɤ˥-qʰo˩
 \xe to invite or not
 \xn 请不请
@@ -51599,7 +51629,27 @@
 \xe …will not invite
 \xn 不请了／不要请了
 \xf … ne vais pas inviter
-\dt 01/Oct/2015
+
+\lx qʰo˥~qʰo˩
+\or khokho
+\mr qʰo˩β
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\lc qʰo˧qʰo˩
+\so F4
+\de To invite, to treat (reduplicated form).
+\ge to_invite.|fg{red}
+\dn 邀请、请（重叠形式）
+\gn 邀请.|fg{重叠}
+\df Inviter (forme rédupliquée).
+\gf inviter.|fg{red}
+\xv ɖɯ˧-qʰo˥~qʰo˩-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{进行时态} 〜 |fg{发端}：请一下
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
+\xc PHONO
 
 \lx qʰo˩dv̩˧˥
 \sf <nb="B"> 570b
@@ -52736,6 +52786,7 @@
 \or ghuaeq
 \ps v
 \lc qwæ˧˥
+\cf qwæ˩~qwæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton MH
@@ -52751,15 +52802,27 @@
 \xe to engrave a flower
 \xn 刻花
 \xf graver une fleur
-\xv qwæ˩~qwæ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx qwæ˩~qwæ˧˥
+\or ghuaeghuae
+\mr qwæ˧˥2
+\ps v
+\lc qwæ˩qwæ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\so F4
+\va <speaker="M21"> ID.
+\de To engrave (reduplicated form).
+\ge to_engrave.|fg{red}
+\dn 雕刻（重叠形式）
+\gn 雕刻.|fg{重叠}
+\df Graver (forme rédupliquée).
+\gf graver.|fg{red}
 \xv bæ˩bæ˩ qwæ˥~qwæ˩
 \xe to engrave flowers
 \xn 刻一朵花
 \xf graver des fleurs
-\dt 01/Oct/2015
 
 \lx qwæ˧
 \or ghuae
@@ -52803,10 +52866,10 @@
 \or khuaeq
 \ps v
 \lc qʰwæ˩˥
+\cf qʰwæ˧~qʰwæ˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" dom="ton" langue="fra"> Confirmé en 2012: est un ton L. Affiné ensuite en: ton Lα.
-\nt <type="hist" print="n" dom="phono" langue="fra"> Avant 2009: noté /kʰwæ˧kʰwæ˧/.
 \ton Lα
 \so F4
 \va <speaker="M21"> ID.
@@ -52816,10 +52879,28 @@
 \gn 挡住
 \df Bloquer. Par exemple: bloquer le passage du bétail en construisant une haie en bord de champ.
 \gf bloquer
+
+\lx qʰwæ˧~qʰwæ˥
+\or khuaekhuae
+\mr qʰwæ˩α
+\ps v
+\lc qʰwæ˧qʰwæ˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" dom="phono" langue="fra"> Avant 2009: noté /kʰwæ˧kʰwæ˧/.
+\ton H#
+\so F4
+\va <speaker="M21"> ID.
+\de To block (reduplicated form).
+\ge to_block.|fg{red}
+\dn 挡住。例如：在田地边缘修建篱笆，阻止牲畜通过。（重叠形式）
+\gn 挡住.|fg{重叠}
+\df Bloquer (forme rédupliquée).
+\gf bloquer.|fg{red}
 \xv tʰi˧-qʰwæ˧~qʰwæ˥
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}：挡一挡
-\xf |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜：挡一挡
+\xf |fg{dur} 〜
 
 \lx qʰwæ˧
 \sf <nb="B"> 630
@@ -53349,6 +53430,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: kwæ˩kwæ˩˧, par erreur)
+\nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton MH.
+\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a MH tone.
+\nt <dom="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有MH调。
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -53359,9 +53443,9 @@
 \df Se gratter; gratter, gratouiller.
 \gf se_gratter
 \xv le˧-qwæ˧~qwæ˩-ze˩
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn |fg{实施} 〜 |fg{重叠} |fg{整体体}
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{实施} 〜 |fg{整体体}
+\xf |fg{accomp} 〜 |fg{pfv}
 \xv gv̩˧dv̩˧ qwæ˩~qwæ˩
 \xe to scratch one's back
 \xn 搔背
@@ -53812,6 +53896,7 @@
 \nt <type="hist" print="n" langue="fra"> avais noté, avant 2011: hĩ˧ kwɤ˩ “dénoncer quelqu'un"; en 2011: vérification peu soigneuse: avais conclu à: initiale vélaire et non uvulaire; et modifié à mauvais escient les tons en: hĩ˧ kwɤ˥, puis rétabli hĩ˧ kwɤ˩
 \ton Mα
 \lc qwɤ˧
+\cf qwɤ˥~qwɤ˩
 \so F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -53837,14 +53922,28 @@
 \xe Go and denounce (him/her)!
 \xn 你去告状吧！
 \xf va (le) dénoncer!
-\xv qwɤ˧~qwɤ˩
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
 \xv sɯ˧pʰi˧-ki˧ qwɤ˩
 \xe to report to the lord
 \xn 向土司控诉
 \xf dénoncer auprès du seigneur
+
+\lx qwɤ˥~qwɤ˩
+\or ghuaghua
+\mr qwɤ˧α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\lc qwɤ˧qwɤ˩
+\so F4
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To accuse, to denounce (reduplicated form).
+\ge to_accuse.|fg{red}
+\dn 告状（重叠形式）
+\gn 告状.|fg{重叠}
+\df Accuser (forme rédupliquée).
+\gf accuser.|fg{red}
 
 \lx qʰwɤ˩α
 \sf <nb="B"> 1067
@@ -54905,6 +55004,7 @@
 \nt <type="hist" print="n" langue="fra"> le˧-ʁæ˩-ze˩: phonétiquement: læ˧…(confirmé en 2012: est un ton L)
 \ton Lα
 \lc ʁæ˩˥
+\cf ʁæ˧~ʁæ˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -54919,11 +55019,6 @@
 \xn |fg{实施} 〜 |fg{整体体}：溶化了
 \xf |fg{accomp} 〜 |fg{pfv}: s'est dissout
 \xc PHONO
-\xv le˧-ʁæ˧~ʁæ˥ (-ze˩ / -bi˩)
-\xe |fg{red}
-\xn |fg{重叠}
-\xf |fg{red}
-\xc PHONO
 \xv ɖɯ˧-kʰwɤ˧ ʁæ˥
 \xe a lump (of earth) melts
 \xn 一块（土）散开
@@ -54933,6 +55028,39 @@
 \xe Clods of earth fall apart (after ploughing, the fields are irrigated; clods of earth melt into the water)
 \xn 土块散开在了（耕田后灌溉，土块散在水里）
 \xf les mottes de terre se défond, se dissolvent (dans l'eau dont on inonde les champs après les labours)
+
+\lx ʁæ˧~ʁæ˥
+\or hraehrae
+\mr ʁæ˩α1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\lc ʁæ˧ʁæ˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To fall apart, to scatter, to melt (e.g. clods of dry earth melting in water when a field is irrigated after ploughing)(reduplicated form).
+\ge to_dissolve.|fg{red}
+\dn 散、散开，化，溶化（一块土在水里面散开）（重叠形式）
+\gn 溶化／散开.|fg{重叠}
+\df Se défaire, fondre, se dissoudre: une motte de terre plongée dans l'eau se défait (forme rédupliquée).
+\gf fondre/se_dissoudre.|fg{red}
+\xv le˧-ʁæ˧~ʁæ˥
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
+\xc PHONO
+\xv le˧-ʁæ˧~ʁæ˥-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn |fg{实施} 〜  |fg{整体体}
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
+\xv le˧-ʁæ˧~ʁæ˥-bi˩
+\xe |fg{accomp} 〜 |fg{imm.fut}
+\xn |fg{实施} 〜 |fg{近将来}
+\xf |fg{accomp} 〜 |fg{fut.imm}
+\xc PHONO
 
 \lx ʁæ˩α
 \sf <nb="B"> 1646
@@ -56606,6 +56734,7 @@
 \ps v
 \ton H
 \lc ɻwæ˧
+\cf ɻwæ˧~ɻwæ#˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56693,6 +56822,22 @@
 \xe Shall (we) invite (him/her)?
 \xn 请不请他？
 \xf On l'invite?
+
+\lx ɻwæ˧~ɻwæ#˥
+\or luaeluae
+\mr ɻwæ˥
+\ps v
+\ton H
+\lc ɻwæ˧ɻwæ˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\de To cry (man, and animals); to call out (reduplicated form).
+\ge to_cry.|fg{red}
+\dn 喊、吼、叫（人、动物）（重叠形式）
+\gn 叫.|fg{重叠}
+\df Crier, hurler; miauler; braire; hennir; rugir (chat, bœuf, cochon, mouton, loup, lion) (forme rédupliquée).
+\gf crier.|fg{red}
 
 \lx ʁwæ˥
 \sf <nb="2011"> 1043
@@ -57241,9 +57386,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton L.
-\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a L tone.
-\nt <dom="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有L调。
+\nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton Lα.
+\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a Lα tone.
+\nt <dom="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有Lα调。
 \cf †ʁwɤ˩α
 \ton H#
 \lc ʁwɤ˧ʁwɤ˥
@@ -57255,9 +57400,9 @@
 \df Discuter, négocier.
 \gf discuter
 \xv ɖɯ˧-ʁwɤ˧~ʁwɤ˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn 商量商量
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx ɻ̩̃˥
 \hm 1
@@ -57329,7 +57474,7 @@
 \xf (il) est en mauvaise passe!/il est à la rue!
 \xv le˧-ɻ̩̃˧-bi˧
 \xe |fg{accomp} 〜 |fg{fut_imm}
-\xn |fg{实施} 〜 近将来
+\xn |fg{实施} 〜 |fg{近将来}
 \xf |fg{accomp} 〜 |fg{fut_imm}
 \xc PHONO
 \xv mɤ˧-ɻ̩̃˥
@@ -57478,6 +57623,7 @@
 \xn |fg{进行时态} 〜 |fg{重叠}
 \xf |fg{délimitatif} 〜 |fg{red}
 \xc PHONO
+\xc <type="hist" langue="fra" print="n" dom="morpho"> /ɖɯ˧-ɻ̩˧-ɻ̩˩/: ne s'agirait-il pas de l'inchoatif, ou d'une autre construction encore, plutôt que d'une réduplication? Le schéma tonal attendu en réduplication serait ɖɯ˧-ɻ̩˥~ɻ̩˩: M.H.L, et non M.M.L. xxxx
 \xv ze˩gi˧ ɻ̩˥?
 \xe In which direction should (I) look? / Which direction should I turn to?
 \xn （我要）往哪边转？
@@ -57901,6 +58047,7 @@
 \or shaeq
 \ps v
 \lc ʂæ˩˥
+\cf ʂæ˩~ʂæ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton L
@@ -57919,11 +58066,35 @@
 \xe gone hunting, out hunting
 \xn 狩猎去了
 \xf parti chasser, parti à la chasse
-\xv lo˩qʰwɤ˧ ʂæ˧~ʂæ˩-ɻ̩˩
-\xe to hold (each other) by the hand
-\xn 手拉手
-\xf se tenir par la main
-\xc <type="hist" print="n" langue="fra" dom="sem"> xxxx confirmer que le verbe est bien le même que dans `mener un chien'
+
+\lx ʂæ˩~ʂæ˧˥
+\or shaeq
+\mr ʂæ˧˥
+\ps v
+\lc ʂæ˩ʂæ˧˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> le˧-ʂæ˧˥: phonétiquement proche de: læ˧ ʂæ˧˥
+\ton LM+MH#
+\so F4
+\va <speaker="F5"> ID.
+\de To wrap, to pack (reduplicated form).
+\ge to_wrap.|fg{red}
+\dn 包一包（‘包’的重叠形式）
+\gn 包.|fg{重叠}
+\df Envelopper, emballer (forme rédupliquée).
+\gf envelopper.|fg{red}
+\xv ʂæ˩~ʂæ˧-ze˥
+\xe 〜 |fg{pfv}
+\xn 〜 |fg{整体体}
+\xf 〜 |fg{pfv}
+\xc PHONO
+\xv tso˧~tso˧ ʂæ˥~ʂæ˩
+\xe to wrap things
+\xn 包一包东西
+\xf emballer des choses
+\xc PHONO
 
 \lx ʂæ˧˥
 \sf <nb="2011"> 3285
@@ -57974,7 +58145,6 @@
 \xn 包一包东西
 \xf emballer des choses
 \xc PHONO
-\dt 05/Oct/2015
 
 \lx ʈʂʰɤ˩˥
 \or cheq
@@ -60256,9 +60426,10 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (corrigé en mars 09; auparavant: avais noté /sɯ/, n'ayant pas décelé le contraste /si/ - /sɯ/); lə˧si˥si˩: tons vérifiés en 2009
+\nt <type="hist" print="n" langue="fra"> (corrigé en mars 09; auparavant: avais noté /sɯ/, n'ayant pas décelé le contraste /si/ - /sɯ/)
 \ton Mα
 \lc si˧
+\cf si˥~si˩
 \so F4
 \va <speaker="M21"> sv̩˧
 \vc <langue="fra" print="n"> ton 1, lə˧sv̩˧ze˧); donne: njɤ˧ sv̩˧ bi˧! “c'est moi qui choisis!"
@@ -60282,23 +60453,42 @@
 \xe I choose! / Let me choose!
 \xn 是我来选！
 \xf C'est moi qui choisis!
-\xv le˧-si˥~si˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
 \xv tso˧~tso˧ si˩
 \xe to choose things
 \xn 选东西
 \xf choisir des choses
 \xc PHONO
-\xv tso˧~tso˧ si˧~si˥
-\xe to choose things
-\xn 选选东西
-\xf choisir des choses
 \xv dʑɤ˩-hĩ˥ | si˧
 \xe to choose good ones
 \xn 挑好的
 \xf choisir les plus beaux; en choisir de beaux (par exemple: sur la montagne, lorsqu'on choisit des arbres à abattre pour en tirer du bois de charpente)
+
+\lx si˥~si˩
+\or seesee
+\mr si˧α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> lə˧si˥si˩: tons vérifiés en 2009
+\ton H-
+\lc si˧si˩
+\so F4
+\va <speaker="M23"> sɯ˧sɯ˩
+\vc <langue="fra" print="n"> d'après M23, est du type “savoir", /sɯ/, n'est pas /si/; différence avec F4.
+\de To choose, to select (reduplicated form).
+\ge to_choose.|fg{red}
+\dn 挑选（重叠形式）
+\gn 挑选.|fg{重叠}
+\df Choisir (forme rédupliquée).
+\gf choisir.|fg{red}
+\xv le˧-si˥~si˩
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
+\xv tso˧~tso˧ si˧~si˥
+\xe to choose things
+\xn 选选东西
+\xf choisir des choses
 \xv le˧-si˥~si˩ | le˧-dzɯ˥!
 \xe Pick and choose what you like! / Pick and choose what you want to eat! (Context: telling a guest who is finishing up a stir-fried dish to pick and choose as he likes, with chopsticks, without feeling pressure to eat every bit: for instance leaving out hot peppers, onion stems and such.)
 \xn 挑着吃吧！(语境：客人拿起一盘菜，准备吃完。主妇（阿妈）告诉他可以选择他想吃的东西（用筷子一口一口地夹菜），而不必吃掉整盘的全部内容。如：可以不吃炒菜里的辣椒和葱。）
@@ -60502,11 +60692,13 @@
 \or ddaesho
 \ps v
 \cf ʂo˧˥2
+\cf \ʂo˩~ʂo˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
 \ton MH
 \lc ʂo˧˥
+\cf ʂo˩~ʂo˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -60524,10 +60716,24 @@
 \xe (S)he slipped and fell down
 \xn 他滑了一跤
 \xf il a glissé et il est tombé
-\xv ʂo˩~ʂo˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx ʂo˩~ʂo˧˥
+\or shosho
+\mr ʂo˧˥1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\lc ʂo˩ʂo˧˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M23"> ID.
+\de To slip, to slide (reduplicated form).
+\ge to_slip.|fg{red}
+\dn 滑，光滑（路……）（重叠形式）
+\gn 滑.|fg{重叠}
+\df Glisser (forme rédupliquée).
+\gf glisser.|fg{red}
 
 \lx ʂo˧˥
 \sf <nb="B"> 993
@@ -76657,7 +76863,7 @@
 \xc PHONO
 \xv ʈʂʰv̩˩ mɤ˩-bi˩˥!
 \xe 〜 |fg{neg} |fg{fut_imm}: will not dye
-\xn 〜 否定 近将来
+\xn 〜 否定 |fg{近将来}
 \xf 〜 |fg{neg} |fg{fut_imm}: ne vais pas teindre
 \xv tso˧~tso˧ ʈʂʰv̩˥
 \xe to dye things
@@ -79731,7 +79937,7 @@
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xv wɤ˩~wɤ˩ bi˩˥
 \xe 〜 |fg{imm_fut}
-\xn 〜 近将来
+\xn 〜 |fg{近将来}
 \xf 〜 |fg{fut_imm}
 \xc PHONO
 \xv wɤ˩~wɤ˩-ze˥
@@ -82374,7 +82580,7 @@
 \xf Se balancer. La forme avec préfixe accompli se répète généralement, cette répétition s'ajoutant à la réduplication, l'une et l'autre en cohérence avec la nature répétitive du procès.
 \xv ʐo˩~ʐo˧ bi˧
 \xe 〜 |fg{immediate.fut}
-\xn 〜 近将来
+\xn 〜 |fg{近将来}
 \xf 〜 |fg{fut.imm}
 \xc <langue="fra" dom="ton"> Le schéma tonal est L.M.M, et non L.M.H comme on aurait pu s'y attendre dans la vision purement phonologique d'un déploiement d'un schéma MH.
 \xc <langue="eng" dom="ton"> The observed tonal pattern is L.M.M, and not L.M.H as might have been expected in the purely phonological perspective of an MH pattern unfolding over two syllables (which, in this case, would have yielded L.M.H).
@@ -84265,7 +84471,7 @@
 \so F4
 \de Immediate future.
 \ge |fg{immediate.fut}
-\dn 要（近将来）
+\dn 要（|fg{近将来}）
 \gn 近将来
 \df Futur immédiat.
 \gf |fg{fut.imm}
