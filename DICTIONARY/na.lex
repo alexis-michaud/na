@@ -45872,6 +45872,7 @@
 \ps v
 \ton Mβ
 \lc pʰæ˧
+\cf pʰæ˧~pʰæ˧
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45887,10 +45888,33 @@
 \xe |fg{dur} 〜 |fg{pfv}
 \xn |fg{持续体} 〜 |fg{整体体}
 \xf |fg{dur} 〜 |fg{pfv}
-\xv pʰæ˧~pʰæ˧
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\de To be linked, to have ties: e.g. the members of a family have ties.
+\ge to_be_linked
+\dn 有联系，有缘分，有深的关系
+\gn 有联系
+\df Être lié, avoir des liens étroits: par exemple, les membres d'une famille ont des liens profonds.
+\gf être_liés
+
+\lx pʰæ˧~pʰæ˧
+\or pae
+\mr pʰæ˧β
+\ps v
+\ton M
+\lc pʰæ˧ pʰæ˧
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="M21"> ID.
+\de To tie, to fasten (an animal) (reduplicated form).
+\ge to_tie.|fg{red}
+\dn 拴（牛……）（重叠形式）
+\gn 拴.|fg{重叠}
+\df Attacher (un animal) (forme rédupliquée).
+\gf attacher.|fg{red}
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45904,7 +45928,6 @@
 \xe They are united / they make up a couple / they are united into a couple (about two young people)
 \xn 他们有联系了／他们成了一俩了！（关于两个年轻人）
 \xf [Ils] sont unis, ils sont en couple! (au sujet de deux jeunes personnes)
-\dt 09/Sep/2015
 
 \lx pæ˧˥hwɤ˧
 \or baefe
@@ -46512,11 +46535,12 @@
 \or pi
 \ps v
 \lc pʰi˧
+\cf pʰi˧~pʰi˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Mβ
 \so F4
-\de To winnow with a fan.
+\de To winnow with a sieve (a round piece of wickerwork): the grain is shaken, and the wind carries the chaff away.
 \ge to_winnow
 \dn 簸
 \gn 簸
@@ -46526,15 +46550,26 @@
 \xe to winnow cereals
 \xn 簸粮食
 \xf vanner du grain
-\xv pʰi˧~pʰi˧
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}：簸一簸
-\xf 〜 |fg{red}
 \xv le˧-pʰi˧(-ze˧)
 \xe |fg{accomp} 〜 (|fg{pfv})
 \xn 簸了
 \xf |fg{accomp} 〜 (|fg{pfv})
-\dt 26/Apr/2017
+
+\lx pʰi˧~pʰi˧
+\or pipi
+\mr pʰi˧β
+\ps v
+\lc pʰi˧pʰi˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton M
+\so F4
+\de To winnow with a sieve (a round piece of wickerwork): the grain is shaken, and the wind carries the chaff away (reduplicated form).
+\ge to_winnow.|fg{red}
+\dn 簸（重叠形式）：簸一簸
+\gn 簸.|fg{重叠}
+\df Vanner à l'aide d'un crible (vannerie ronde): on fait «sauter» le grain dans un crible, et le vent emporte la balle (forme rédupliquée).
+\gf vanner.|fg{red}
 
 \lx pʰi˩hæ˩
 \or pihae
@@ -48349,6 +48384,7 @@
 \sf <nb="B"> 1128
 \sf <nb="2011"> 1582
 \or bebe
+\mr †pɤ˧α
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48365,9 +48401,9 @@
 \df Porter sur son dos (le bois, …).
 \gf porter_sur_le_dos
 \xv tʰi˧-pɤ˥~pɤ˩
-\xe |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
 \xn 背一背
-\xf |fg{dur} 〜 |fg{red}
+\xf |fg{dur} 〜
 \xv qʰæ˧ pɤ˧~pɤ˥
 \xe to carry manure
 \xn 背肥料
