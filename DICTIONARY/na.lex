@@ -74448,7 +74448,6 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (d'abord noté ɖʐɤ˥ɖʐɤ˧, par erreur) (avant 2009: noté: ɲi˧ ŋwɤ˧ hɑ̃˧ tʰɑ˥ ɖɯ˧ ʈʂɤ˩ bi˩)
 \so F4
 \va <speaker="M21"> ID.
 \de To count; to calculate.
@@ -74457,16 +74456,6 @@
 \gn 算
 \df Compter; calculer.
 \gf compter
-\xv ʈʂɤ˧~ʈʂɤ˩
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}：算一算
-\xf 〜 |fg{red}
-\xc PHONO
-\xv ɖɯ˧-ʈʂɤ˥~ʈʂɤ˩-ɻ̩˩
-\xe to do some counting, to take a count
-\xn 算一下
-\xf faire quelques calculs
-\xc PHONO
 \xv tso˧~tso˧ ʈʂɤ˩
 \xe to count things
 \xn 数东西
@@ -74496,20 +74485,12 @@
 \gn 算命
 \df Dire la bonne aventure, pratiquer la divination.
 \gf dire_la_bonne_aventure
-\xv le˧-ʈʂɤ˥~ʈʂɤ˩
-\xe to do divination, to do fortune-telling
-\xn 算命
-\xf dire la bonne aventure, pratiquer la divination
-\xv ɖɯ˧-ʈʂɤ˥~ʈʂɤ˩-ɻ̩˩
-\xe to do some fortune-telling
-\xn 算一下命
-\xf dire la bonne aventure
-\xc PHONO
 \xv ɲi˧ŋwɤ˩hɑ̃˩tʰɑ˩ | ɖɯ˧-ɭɯ˧ | ʈʂɤ˧-bi˧!
 \xe (We are) going to look for an auspicious day (for an event such as a wedding or the building of a house)
 \xn 要掐算一下日子
 \xf On va chercher un jour propice! (pour un événement tel qu'un mariage ou la construction d'une maison)
 \xc <type="hist" print="n" langue="fra"> Sens indiqué par M18 en juin 2008.
+\xc <type="hist" print="n" langue="fra"> Avant 2009: noté: ɲi˧ ŋwɤ˧ hɑ̃˧ tʰɑ˥ ɖɯ˧ ʈʂɤ˩ bi˩
 \xv kɯ˧ ʈʂɤ˧, | hɑ̃˧ ʈʂɤ˥
 \xe to look for an auspicious day for an important event; literally: “to count stars, to count days"
 \xn 掐算一下。直译：“算星星，算日子”。
@@ -74573,6 +74554,49 @@
 \xe They can't be considered as brothers and sisters! / They are not actually siblings!
 \xn 他们不算是兄弟姐妹！
 \xf Ils ne sont pas frères et sœurs! / Ils n'ont pas cette relation-là!
+
+\lx ʈʂɤ˥~ʈʂɤ˩
+\or zhezhe
+\mr ʈʂɤ˧α
+\ps v
+\ton H-
+\lc ʈʂɤ˧ʈʂɤ˩
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (d'abord noté ɖʐɤ˥ɖʐɤ˧, par erreur)
+\so F4
+\va <speaker="M21"> ID.
+\de To count; to calculate (reduplicated form).
+\ge to_count.|fg{red}
+\dn 数一数、算一算（‘数’的重叠形式）
+\gn 算.|fg{重叠}
+\df Compter; calculer (forme rédupliquée).
+\gf compter.|fg{red}
+\xv ɖɯ˧-ʈʂɤ˥~ʈʂɤ˩-ɻ̩˩
+\xe to do some counting, to take a count
+\xn 算一下
+\xf faire quelques calculs
+\xc PHONO
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\de To do divination, to do fortune-telling.
+\ge to_do_divination
+\dn 算命
+\gn 算命
+\df Dire la bonne aventure, pratiquer la divination.
+\gf dire_la_bonne_aventure
+\xv le˧-ʈʂɤ˥~ʈʂɤ˩
+\xe to do divination, to do fortune-telling
+\xn 算命
+\xf dire la bonne aventure, pratiquer la divination
+\xv ɖɯ˧-ʈʂɤ˥~ʈʂɤ˩-ɻ̩˩
+\xe to do some fortune-telling
+\xn 算一下命
+\xf dire la bonne aventure
+\xc PHONO
 
 \lx ʈʂʰɤ˩α
 \or cheq
@@ -74972,10 +74996,11 @@
 \ps v
 \ton H
 \lc tsɯ˧
+\cf tsɯ˧~tsɯ#˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (phonétiquement, proche de: læ˧ tsɯ˧tsɯ˧) (vérifié: n'est pas /tsi/)
+\nt <type="hist" print="n" langue="fra"> (d'abord noté “tʰi˧tsɯ˧ze˧; d'abord noté ze˩, par erreur") (vérifié soigneusement en 2009: est bien /tsɯ/, non /tsi/) (vérifié: n'est pas /tsi/)
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -75000,21 +75025,6 @@
 \xn |fg{实施} 〜 |fg{整体体}：绑了
 \xf |fg{accomp} 〜 |fg{pfv}: a attaché
 \xc PHONO
-\xv tsɯ˧~tsɯ˧
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xc PHONO
-\xv le˧-tsɯ˧~tsɯ˧
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
-\xc PHONO
-\xv tʰi˧-tsɯ˧~tsɯ˧
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} 〜 |fg{red}
-\xc PHONO
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -75024,10 +75034,42 @@
 \gn 上吊自杀
 \df Se pendre, se suicider.
 \gf se_pendre
-\xv ʁæ˧tsɯ˧ le˧-ʂɯ˧ +ze˧
-\xe to hang oneself
+\xv ʁæ˧tsɯ˧ le˧-ʂɯ˧ (+ze˧)
+\xe to die by hanging oneself
 \xn 上吊自杀、缢
-\xf se pendre
+\xf mourir par pendaison
+
+\lx tsɯ˧~tsɯ#˥
+\or zizi
+\mr tsɯ˥1
+\ps v
+\ton #H
+\lc tsɯ˧tsɯ˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\de To tie (with a rope) (reduplicated form).
+\ge to_tie.|fg{red}
+\dn 绑、捆、栓（重叠形式）
+\gn 绑.|fg{重叠}
+\df Attacher (forme rédupliquée).
+\gf attacher.|fg{red}
+\xv le˧-tsɯ˧~tsɯ˧
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
+\xc PHONO
+\xc <dom="phono" langue="fra"> La réalisation phonétique est proche de [|fv{læ˧-tsɯ˧tsɯ˧}].
+\xc <dom="phono" langue="eng"> Phonetic realization is close to [|fv{læ˧-tsɯ˧tsɯ˧}].
+\xc <dom="phono" langue="cmn"> 实际发音接近[|fv{læ˧-tsɯ˧tsɯ˧}。
+\xv tʰi˧-tsɯ˧~tsɯ˧
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜
+\xf |fg{dur} 〜
+\xc PHONO
 
 \lx tsɯ˥
 \sf <nb="2011"> 2517
