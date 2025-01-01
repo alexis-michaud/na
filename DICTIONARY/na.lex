@@ -23418,10 +23418,12 @@
 \lx hṽ̩˧~hṽ̩˧
 \sf <nb="2011"> 2223
 \mr †hṽ̩˥
+\or hunhun
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton H
+\nt <type="hist" print="n" langue="fra" dom="ton"> xxxx ton H ou ton M? À tester: ɖɯ˧-〜-ɻ̩. Si le résultat est M.M.M.H, le ton du simplex est H, et le ton de la forme rédupliquée est #H. Si le résultat est M.M.M.L, le ton du simplex est Mβ, et le ton de la forme rédupliquée est un simple ton M. La forme /hṽ̩˧~hṽ̩˧-ze˩/ suggère un ton #H.
+\ton H#
 \lc hṽ̩˧~hṽ̩˧
 \so F4
 \de To stir-fry.
@@ -23431,13 +23433,13 @@
 \df Frire (viande, légumes…), cuire au wok.
 \gf frire
 \xv le˧-hṽ̩˧~hṽ̩˧
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
 \xv hṽ̩˧~hṽ̩˧-ze˩
-\xe 〜 |fg{red} |fg{pfv}
+\xe 〜 |fg{pfv}
 \xn 炒了
-\xf 〜 |fg{red} |fg{pfv}
+\xf 〜 |fg{pfv}
 \xv ʂe˧ hṽ̩˧~hṽ̩˧
 \xe to stir-fry some meat
 \xn 炒肉
@@ -23994,6 +23996,7 @@
 \or huae
 \ps v
 \lc hwæ˧
+\cf hwæ˥~hwæ˩
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra" dom="ton"> Ton de la forme à l'isolée: hésitation lors des premiers terrains. Le 26/10/2007, entends comme un ton plat de niveau bas: /hwæ˩/. Le 1/11/2007, entends comme un ton plat de niveau haut: /hwæ˥/.
@@ -24022,10 +24025,24 @@
 \xn 买一块
 \xf acheter un morceau
 \xc PHONO
-\xv hwæ˧~hwæ˩
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx hwæ˥~hwæ˩
+\or huaehuae
+\mr hwæ˧α
+\ps v
+\lc hwæ˧hwæ˩
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To buy (reduplicated form).
+\ge to_buy.|fg{red}
+\dn 买（重叠形式）
+\gn 买.|fg{重叠}
+\df Acheter (forme rédupliquée).
+\gf acheter.|fg{red}
 
 \lx hwɤ˩
 \or feq
@@ -27650,9 +27667,9 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (notes 2006: hĩ˧ki˧ki˧)
 \ton Mα
 \lc ki˧
+\cf ki˥~ki˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -27662,22 +27679,7 @@
 \gn 给
 \df Donner, passer, transmettre.
 \gf donner
-\xv ki˧~ki˩
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xc PHONO
-\xv tʰi˧-ki˩~ki˩
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜+重叠
-\xf |fg{dur} 〜 |fg{red}
-\xc PHONO
 \xv tso˧~tso˧ ki˩
-\xe to give things
-\xn 给东西
-\xf donner des choses
-\xc PHONO
-\xv tso˧~tso˧ ki˧~ki˥
 \xe to give things
 \xn 给东西
 \xf donner des choses
@@ -27686,6 +27688,7 @@
 \xe 1. to give to someone. 2. to give oneself (in marriage) to someone, to marry someone (for a woman)
 \xn 1.许配给人家。2.嫁给人
 \xf 1. donner à quelqu'un. 2. se donner en mariage à quelqu'un (pour une femme)
+\xc <type="hist" print="n" langue="fra"> (notes 2006: hĩ˧ki˧ki˧)
 \xv hĩ˧-ki˧ | ɖwæ˧˥ | tʰi˧-ki˧
 \xe to be generous, to be open-handed
 \xn 大方
@@ -27702,6 +27705,35 @@
 \xe to feed, to give food
 \xn 喂饭
 \xf nourrir, donner à manger
+
+\lx ki˥~ki˩
+\or gigi
+\mr ki˧α
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\lc ki˧ki˩
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To give, to pass on, to transmit, to offer (reduplicated form).
+\ge to_give.|fg{red}
+\dn 给、传、献给、发（工资），嫁给（重叠形式）
+\gn 给.|fg{重叠}
+\df Donner, passer, transmettre (forme rédupliquée).
+\gf donner.|fg{red}
+\xv tʰi˧-ki˩~ki˩
+\xe |fg{dur} 〜 |fg{red}
+\xn |fg{持续体} 〜+重叠
+\xf |fg{dur} 〜 |fg{red}
+\xc PHONO
+\xc <type="hist" langue="fra" dom="ton" print="n"> xxxx ne serait-ce pas ?tʰi˧-ki˥~ki˩?
+\xv tso˧~tso˧ ki˧~ki˥
+\xe to give things
+\xn 给东西
+\xf donner des choses
+\xc PHONO
 
 \lx ki˥α
 \or gi
@@ -29056,6 +29088,7 @@
 \ps v
 \ton MH
 \lc kʰɯ˧˥
+\cf kʰɯ˩~kʰɯ˧˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -29067,11 +29100,6 @@
 \gn 放
 \df Mettre, mettre dans (par exemple: mettre de la farine dans une casserole); libérer, lâcher (par exemple: un poulet qu'on tenait par les pattes); semer en enfonçant les graines; ranger, remettre à sa place.
 \gf mettre
-\xv kʰɯ˩~kʰɯ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xc PHONO
 \xv qwɤ˧-qo˧ | si˧ tʰi˧-kʰɯ˧˥
 \xe to add wood into the fire
 \xn 放木头在火中
@@ -29135,7 +29163,24 @@
 \xf Tu es d'accord pour coudre?
 \xc PHONO
 \xc <dom="ton"> MH
-\dt 03/Sep/2015
+
+\lx kʰɯ˩~kʰɯ˧˥
+\or keekee
+\mr kʰɯ˧˥1
+\ps v
+\ton LM+MH#
+\lc kʰɯ˩kʰɯ˧˥
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="F5"> ID.
+\de To put into (e.g. to put into a bag) (reduplicated form).
+\ge put_into.|fg{red}
+\dn 放，装（如：装进袋里）（重叠形式）
+\gn 放.|fg{重叠}
+\df Mettre, mettre dans (forme rédupliquée).
+\gf mettre.|fg{red}
 
 \lx kʰɯ˧˥
 \sf <nb="2011"> 2154
@@ -30970,9 +31015,10 @@
 \or guq
 \ps v
 \lc kv̩˩˥
+\cf kv̩˧~kv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (avant 2009, noté kv̩˧kv̩˧, par erreur)(confirmé en 2012: est un ton L)
+\nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
 \ton Lα
 \so F4
 \va <speaker="F5"> ID.
@@ -30983,18 +31029,33 @@
 \gn 捡起来／拾
 \df Ramasser; cueillir (des baies, des choses qu'on se baisse pour cueillir).
 \gf cueillir
-\xv kv̩˧~kv̩˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+
+\lx kv̩˧~kv̩˥
+\or gugu
+\mr kv̩˩α1
+\ps v
+\lc kv̩˧kv̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> (avant 2009, noté kv̩˧kv̩˧, par erreur)
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M23"> ID.
+\de To pick up (from the ground), to gather (reduplicated form).
+\ge to_gather.|fg{red}
+\dn 捡起来，拾（重叠形式）
+\gn 捡起来／拾.|fg{重叠}
+\df Ramasser; cueillir (des baies, des choses qu'on se baisse pour cueillir) (forme rédupliquée).
+\gf cueillir.|fg{red}
 \xv gɤ˩-kv̩˧~kv̩˥
 \xe to pick up (something that was on the ground)
 \xn 捡起来（地上的东西）
 \xf ramasser (quelque chose qui se trouvait à terre)
 \xv le˧-kv̩˧~kv̩˥
-\xe to pick up (something that was on the ground)
-\xn 捡起来（地上的东西）
-\xf ramasser (quelque chose qui se trouvait à terre)
+\xe |fg{accomp} 〜: to pick up (something that was on the ground)
+\xn |fg{实施} 〜：捡起来（地上的东西）
+\xf |fg{accomp} 〜: ramasser (quelque chose qui se trouvait à terre)
 \xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ (+ tʰv̩˧-v̩˧ / zo˧mv̩˥)
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
@@ -32627,6 +32688,7 @@
 \dt 24/Apr/2017
 
 \lx lɑ˧~lɑ˧
+\hm 1
 \or lala
 \ps adj
 \sd <langue="fra"> adjectif
@@ -32648,25 +32710,27 @@
 \txt Sister.106
 \doi 10.24397/pangloss-0004342#S106
 
-\lx lɑ˧~lɑ˧β
+\lx lɑ˧~lɑ˧
 \sf <nb="B"> 1687
 \sf <nb="2011"> 2506
+\hm 2
 \or lala
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Avant 2024, avais mal compris le sens: ce mot avait été obtenu par élicitation (maladroite) du mot ‘diluer’, manifestement mal expliqué.
-\ton Mβ
+\nt <type="hist" print="n" langue="fra" dom="ton"> xxxx À reprendre: vérification du ton et recherche d'un élément simplex.
+\ton M? #H?
 \lc lɑ˧lɑ˧
 \cf ʈʂwæ˧~ʈʂwæ˧
 \so F4
 \va <speaker="M21"> ID.
 \de To shake (e.g. to shake a jar of alcohol to ascertain whether there is still any liquid in it, to shake a box to find out whether it still has some contents), to blend (e.g. to blend tsampa with butter tea).
-\ge to_shake
+\ge to_shake/to_blend
 \dn 摇晃（例如，摇晃一罐酒，以确定里面是否还有液体；摇晃一个盒子，以确定里面是否还有东西），混合（例如，将糌粑与酥油茶混合）。
 \gn 摇晃／混合
 \df Secouer (par exemple, secouer une petite jarre d'alcool pour déterminer si elle contient encore du liquide, ou secouer une boîte pour savoir s'il y a encore quelque chose dedans), mélanger (par exemple, mélanger du tsampa avec du thé au beurre).
-\gf secouer
+\gf secouer/mélanger
 \xv le˧-lɑ˧~lɑ˧
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}
@@ -32680,6 +32744,7 @@
 \xn 〜 |fg{重叠} |fg{整体体}
 \xf 〜 |fg{red} |fg{pfv}
 \xc PHONO
+\xc <type="hist" print="n" langue="fra" dom="ton"> xxxx pourquoi le ton bas du suffixe, dont le ton lexical est M? Serait-ce le signe d'un ton H flottant, la forme sous-jacente étant //lɑ˧~lɑ#˥// et non //lɑ˧~lɑ˧//?
 
 \lx le˩
 \or lei
@@ -36291,6 +36356,7 @@
 \sf <nb="2011"> 1932
 \hm 1
 \or luq
+\cf lv̩˧~lv̩˥
 \ps v
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
@@ -36315,11 +36381,28 @@
 \xe the dog is barking
 \xn 狗在叫
 \xf le chien est en train d'aboyer
+
+\lx lv̩˧~lv̩˥
+\or lulu
+\mr lv̩˩α1
+\ps v
+\lc lv̩˧lv̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To bark (a dog barks) (reduplicated form).
+\ge to_bark.|fg{red}
+\dn 狗吠（重叠形式）
+\gn 狗吠.|fg{重叠}
+\df Aboyer (forme rédupliquée).
+\gf aboyer.|fg{red}
 \xv ɖɯ˧-lv̩˧~lv̩˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
+\xe |fg{delimitative} 〜 |fg{inceptive}
 \xn |fg{进行时态} 〜 |fg{发端}：叫一叫
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\dt 24/Apr/2017
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx lv̩˩α
 \sf <nb="B"> 1188
@@ -36329,6 +36412,7 @@
 \or luq
 \ps v
 \lc lv̩˩˥
+\cf lv̩˧~lv̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (d'abord noté ɻy˩, songé à lv) (aussi noté læ˧kæ˥ɭɯ˧; ton dernière syllabe vérifié en 2011: est bien ɭɯ˩ et non un ton moyen) (/ɭɯ/: voyelle confirmée) (corrigé en 2012 en: lv)(confirmé en 2012: est un ton L)
@@ -36341,6 +36425,28 @@
 \gn 卷起来
 \df Enrouler (un tissu).
 \gf enrouler
+\xv ɖɯ˧-kʰwɤ˧ lv̩˥
+\xe to coil something
+\xn 卷一块（东西）
+\xf enrouler quelque chose
+\xc PHONO
+
+\lx lv̩˧~lv̩˧
+\or lulu
+\mr lv̩˩α2
+\ps v
+\lc lv̩˧lv̩˧
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> xxxx à retravailler. Le ton de la forme rédupliquée n'est pas celui attendu pour une racine verbale au ton Lα. S'agit-il d'un ton M ou d'un ton #H?
+\ton M? H#?
+\so F4
+\de To roll, to coil (fabric) (reduplicated form).
+\ge to_coil.|fg{red}
+\dn 把布卷起来（重叠形式）
+\gn 卷起来.|fg{重叠}
+\df Enrouler (un tissu) (forme rédupliquée).
+\gf enrouler.|fg{red}
 \xv le˧-lv̩˧~lv̩˧
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}：卷一卷
@@ -36350,11 +36456,6 @@
 \xe to coil things
 \xn 卷东西
 \xf enrouler des choses
-\xc PHONO
-\xv ɖɯ˧-kʰwɤ˧ lv̩˥
-\xe to coil something
-\xn 卷一块（东西）
-\xf enrouler quelque chose
 \xc PHONO
 
 \lx lv̩˩α
@@ -36545,6 +36646,9 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (notation 2006: tʰi˥lv̩˧lv̩˩) (confirmé: n'est pas ɭɯ˩ɭɯ˩˥)
+\nt <dom="phono" langue="fra"> Il n'a pas été possible jusqu'ici d'éliciter une forme simplex, non rédupliquée. Les tons de la forme rédupliquée suggèrent un simplex au ton MH.
+\nt <dom="phono" langue="eng"> It has not been possible so far to elicit a simplex (non-reduplicated) form. The tonal pattern of the reduplicated form suggests that the simplex (monosyllabic) verb form must have a MH tone.
+\nt <dom="phono" langue="cmn"> 迄今为止，还无法为这个词找到一个单音节（非重叠）形式。重叠形式的声调模式表明，单音节动词应该是有MH调。
 \ton L+MH
 \lc lv̩˩lv̩˧˥
 \so F4
@@ -36561,9 +36665,9 @@
 \xn 动了
 \xf 〜 |fg{pfv}
 \xv tʰi˧-lv̩˩~lv̩˩(-ze˩)
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜
+\xf |fg{dur} 〜
 \xv tʰi˧-lv̩˩~lv̩˩ | se˧
 \xe to walk askance, to walk askew: e.g. a lame person walks with difficulty
 \xn 歪着走、扭着走、例如：残疾人走路有困难
@@ -36772,12 +36876,11 @@
 \ps v
 \ton MH
 \lc mæ˧˥
+\cf mæ˩~mæ˧˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> En 2008, la version rédupliquée /ɲi˧to˧ tʰi˧-mæ˩~mæ˩/ est rejetée par Mme Latami: elle juge cette formulation non adaptée.
 \nt <type="hist" print="n" langue="fra"> D'abord noté tʰe˧-mæ˧, par erreur.
-\nt <type="hist" print="n" langue="fra"> Dans /ɲi˧to˧ | tʰi˧-mæ˩~mæ˩/, un fort décrochement phonétique est perceptible entre sujet et prédicat.
 \so F4
 \de To close (the mouth).
 \ge to_close
@@ -36789,14 +36892,6 @@
 \xe to close the mouth
 \xn 闭嘴
 \xf fermer la bouche
-\xv mæ˩~mæ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
-\xv ɲi˧to˧ | tʰi˧-mæ˩~mæ˩
-\xe to close the mouth
-\xn 闭嘴
-\xf fermer la bouche
 \sn 2
 \de To purse (one's lips).
 \ge to_purse(lips)
@@ -36804,6 +36899,31 @@
 \gn 抿
 \df Pincer (les lèvres).
 \gf pincer(les_lèvres)
+
+\lx mæ˩~mæ˧˥
+\or maemae
+\mr mæ˧˥
+\ps v
+\ton LM+MH#
+\lc mæ˩mæ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\de To close (the mouth) (reduplicated form).
+\ge to_close.|fg{red}
+\dn 闭（嘴）（重叠形式）
+\gn 闭.|fg{重叠}
+\df Fermer (la bouche) (forme rédupliquée).
+\gf fermer.|fg{red}
+\xv ?? ɲi˧to˧ | tʰi˧-mæ˩~mæ˩
+\xe to close the mouth
+\xn 闭嘴
+\xf fermer la bouche
+\nt <type="hist" langue="fra"> En 2008, l'expression /|fv{ɲi˧to˧ tʰi˧-mæ˩~mæ˩}/ est rejetée par Mme Latami: elle juge cette formulation non adaptée.
+\nt <type="hist" langue="eng"> In 2008, the phrase /|fv{ɲi˧to˧ tʰi˧-mæ˩~mæ˩}/ was rejected by Mrs. Latami: on retrospect, she did not consider this wording as appropriate.
+\nt <type="hist" langue="cmn"> 2008年，拉他咪女士拒绝了/|fv{ɲi˧to˧ tʰi˧-mæ˩~mæ˩}/这个短语：她认为这种说法不合适。
+\nt <type="hist" print="n" langue="fra"> xxxx vérifier à nouveau
+\nt <langue="fra" dom="ton"> Dans l'expression /|fv{ɲi˧to˧ tʰi˧-mæ˩~mæ˩}/, un fort décrochement phonétique est perceptible entre sujet et prédicat: le ton M sur lequel commence /|fv{tʰi˧-mæ˩~mæ˩}/ est nettement plus élevé que le ton M sur lequel finit /|fv{ɲi˧to˧}/.
 
 \lx mɑ˩dzɑ˩
 \sf <nb="B"> 636a
