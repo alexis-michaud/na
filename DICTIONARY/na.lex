@@ -42848,6 +42848,7 @@
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
 \ton Lα
 \lc ɲi˩˥
+\cf ɲi˧~ɲi˥
 \so F4
 \de To twine, to wind; twist with the fingers (e.g. linen, to make thread).
 \ge to_twine
@@ -42863,12 +42864,28 @@
 \xe to twine hemp (to make thread)
 \xn 捻麻
 \xf tordre le chanvre/le lin (pour faire du fil)
-\xv ɖɯ˧-ɲi˧~ɲi˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 捻一捻
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \txtsup Agriculture.82
 \doisup 10.24397/pangloss-0004441#S82
+
+\lx ɲi˧~ɲi˥
+\or niq
+\mr ɲi˩α1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\lc ɲi˧ɲi˥
+\so F4
+\de To twine, to wind; twist with the fingers (e.g. linen, to make thread) (reduplicated form).
+\ge to_twine.|fg{red}
+\dn 捻，缠线（重叠形式）
+\gn 捻.|fg{重叠}
+\df Tordre avec les doigts, enrouler, filer (pour fabriquer du fil de lin, pour tisser des vêtements) (forme rédupliquée).
+\gf tordre_avec_les_doigts.|fg{red}
+\xv ɖɯ˧-ɲi˧~ɲi˥-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn 捻一捻
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx ɲi˩α
 \sf <nb="2011"> 1779
@@ -43389,11 +43406,12 @@
 \hm 1
 \or nyaq
 \ps v
-\cf njɤ˧˥2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton MH
 \lc njɤ˧˥
+\cf njɤ˧˥2
+\cf njɤ˩~njɤ˧˥
 \so F4
 \de To glue (two objects together).
 \ge to_glue
@@ -43413,6 +43431,26 @@
 \xe |fg{dur} 〜 |fg{red}: to glue
 \xn |fg{持续体} 〜 |fg{重叠}：粘一粘
 \xf |fg{dur} 〜 |fg{red}: coller
+
+\lx njɤ˩~njɤ˧˥
+\or nyanya
+\mr njɤ˧˥1
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\lc njɤ˩njɤ˧˥
+\so F4
+\de To glue (two objects together) (reduplicated form).
+\ge to_glue.|fg{red}
+\dn 粘（重叠形式）
+\gn 粘.|fg{重叠}
+\df Coller (2 objets ensemble) (forme rédupliquée).
+\gf coller.|fg{red}
+\xv tʰi˧-njɤ˩~njɤ˩
+\xe |fg{dur} 〜: to glue
+\xn |fg{持续体} 〜：粘一粘
+\xf |fg{dur} 〜: coller
 
 \lx njɤ˧˥
 \sf <nb="B"> 992
@@ -43435,7 +43473,6 @@
 \gn 黏
 \df Poisseux, collant, visqueux (colle, résine…).
 \gf poisseux
-\dt 09/Sep/2015
 
 \lx njɤ˧˥
 \sf <nb="B"> 972
@@ -43476,8 +43513,8 @@
 \ge to_stir
 \dn 搅拌、翻拌
 \gn 搅拌
-\df Touiller, mélanger, remuer.
-\gf mélanger
+\df Malaxer, touiller, mélanger, remuer.
+\gf malaxer
 \xv le˧-njɤ˩-ze˩
 \xe |fg{accomp} 〜 |fg{pfv}: has stirred
 \xn |fg{实施} 〜 |fg{整体体}：搅拌了
@@ -43486,6 +43523,7 @@
 \xe |fg{accomp} 〜 |fg{red}
 \xn |fg{实施} 〜 |fg{重叠}：搅拌搅拌
 \xf |fg{accomp} 〜 |fg{red}
+\xc <langue="fra" type="hist" print="n" dom="ton"> xxxx ton à revoir: pour un verbe au ton Lβ, on attendrait le˧-njɤ˥~njɤ˩. Pourtant la forme /le˧-njɤ˧~njɤ˥/ est également attestée dans des textes.
 \xv hɑ˧ njɤ˧˥
 \xe to stir rice (in a pot)
 \xn 搅拌米饭
@@ -43498,6 +43536,7 @@
 \xe rice 〜 |fg{delimitative} |fg{red} |fg{inceptive}: to stir the rice a bit, to do a bit of stirring
 \xn 把米搅拌搅拌
 \xf riz |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}: touiller un peu le riz
+\xc <langue="fra" type="hist" print="n" dom="ton"> xxxx ton à revoir: pour un verbe au ton Lβ, on attendrait ɖɯ˧-njɤ˥~njɤ˩-ɻ̩˩. (Et pour un verbe au ton Lα, on attendrait ɖɯ˧-njɤ˧~njɤ˥-ɻ̩˩.) Confusion avec le verbe njɤ˧˥ 'coller', d'où une réalisation /M.L.L.L/ entendue /M.M.L.L/?
 \xv ɖɯ˧-v̩˧ tʰi˧-njɤ˥
 \xe to stir a pot (of rice, to make rice paste in order to prepare rice cakes)
 \xn 搅拌一锅（如：搅拌一锅米饭，做出浆糊，准备制作米饼。）
@@ -45155,6 +45194,7 @@
 \or nguq
 \ps v
 \lc ŋv̩˩˥
+\cf ŋv̩˧~ŋv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (confirmé en 2012: est un ton L)
@@ -45167,10 +45207,27 @@
 \gn 哭
 \df Pleurer.
 \gf pleurer
-\xv (tʰi˧-)ŋv̩˧~ŋv̩˥
-\xe |fg{dur} 〜 |fg{red}
+
+\lx ŋv̩˧~ŋv̩˥
+\or ngungu
+\mr ŋv̩˩α1
+\ps v
+\lc ŋv̩˧ŋv̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="M21"> ID.
+\de To cry, to weep (reduplicated form).
+\ge to_weep.|fg{red}
+\dn 哭（重叠形式）
+\gn 哭.|fg{重叠}
+\df Pleurer (forme rédupliquée).
+\gf pleurer.|fg{red}
+\xv tʰi˧-ŋv̩˧~ŋv̩˥
+\xe |fg{dur} 〜
 \xn 哭一场
-\xf |fg{dur} 〜 |fg{red}
+\xf |fg{dur} 〜
 
 \lx ŋwæ˧qʰv̩˧
 \sf <nb="B"> 2311
