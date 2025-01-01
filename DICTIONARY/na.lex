@@ -4985,11 +4985,11 @@
 \gf embrasser
 \xv ɖɯ˧-bo˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn （主动的）亲吻一下（如：大人对小孩的一种表示）
+\xn |fg{进行时态} 〜 |fg{发端}：（主动的）亲吻一下（如：大人对小孩的一种表示）
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xv ɖɯ˧-bo˧~bo˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 相互亲吻一下
+\xn |fg{进行时态} 〜 |fg{发端}：相互亲吻一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 24/Apr/2017
 
@@ -6236,7 +6236,7 @@
 \xf asperger d'eau; arroser
 \xv ɖɯ˧-bɻ̩˧~bɻ̩˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 泼一泼
+\xn |fg{进行时态} 〜 |fg{发端}：泼一泼
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xv le˧-bɻ̩˧~bɻ̩˥-ze˩
@@ -7351,7 +7351,7 @@
 \xf tisser du tissu
 \xv ɖɯ˧-dɑ˧~dɑ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 织一下
+\xn |fg{进行时态} 〜 |fg{发端}：织一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \dt 27/Aug/2015
@@ -8485,7 +8485,7 @@
 \gf apercevoir
 \xv ɖɯ˧-do˥~do˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 见一见
+\xn |fg{进行时态} 〜 |fg{发端}：见一见
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> vérifié en août 2014
@@ -23142,7 +23142,7 @@
 \xc PHONO
 \xv ɖɯ˧-hɤ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 烘干一下
+\xn |fg{进行时态} 〜 |fg{发端}：烘干一下
 \xf |fg{délimitatif} 〜 |fg{inchoatif}: chauffer un coup, chauffer un peu
 \xv le˧-hɤ˩-ze˩, | le˧-pɻ̩˧-ze˧!
 \xe It was dried beside the fire, and it got dry / and it is now dry!
@@ -36317,7 +36317,7 @@
 \xf le chien est en train d'aboyer
 \xv ɖɯ˧-lv̩˧~lv̩˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 叫一叫
+\xn |fg{进行时态} 〜 |fg{发端}：叫一叫
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \dt 24/Apr/2017
 
@@ -37284,6 +37284,7 @@
 \or miq
 \ps v
 \lc mi˧˥
+\cf mi˩~mi˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton MH
@@ -37317,17 +37318,36 @@
 \xn 推开一个东西
 \xf pousser quelque chose
 \xc PHONO
-\xv mi˩~mi˧˥
-\xe 〜 |fg{red}: to push and squeeze
-\xn 〜 |fg{重叠}：推、拥挤
-\xf 〜 |fg{red}
+\xv ɖɯ˩-tɕo˧ mi˧˥, | ʈʂʰɯ˧-tɕo˧ mi˧˥
+\xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
+\xn 东推西挤
+\xf pousser par ici, pousser par là / jouer des coudes par ci, jouer des coudes par là (par exemple: à la gare, quand il y a presse pour acheter un billet de train)
+
+\lx mi˩~mi˧˥
+\or mimi
+\mr mi˧˥
+\ps v
+\lc mi˩mi˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To push and squeeze (reduplicated form of ‘to push’).
+\ge to_push.|fg{red}
+\dn 推、拥挤（重叠形式）
+\gn 推.|fg{重叠}
+\df Pousser (forme rédupliquée).
+\gf pousser.|fg{red}
 \xv hĩ˧ mi˥~mi˩
 \xe to shove someone
 \xn 推人、推搡某人
 \xf pousser quelqu'un, bousculer quelqu'un
 \xv mi˩~mi˧-ɻ̩˥
-\xe 〜 |fg{red} |fg{inceptive}
-\xn |fg{重叠}：推、拥挤
+\xe 〜 |fg{inceptive}
+\xn 〜 |fg{发端}
 \xf 〜 |fg{red} |fg{inchoatif}
 \xv ɖɯ˩-tɕo˧ mi˧˥, | ʈʂʰɯ˧-tɕo˧ mi˧˥
 \xe to shove on this side, to shove on that side (e.g. at a station, when lots of people are shoving their way towards the ticket counter)
@@ -40716,6 +40736,7 @@
 \or muq
 \ps v
 \lc mv̩˩˥
+\cf mv̩˧~mv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> ton 3a (homophone avec “cuit")(confirmé en 2012: est un ton L)
@@ -40729,10 +40750,6 @@
 \gn 吹
 \df Souffler (par exemple: souffler sur le feu, attiser le feu; souffler dans un instrument à vent).
 \gf souffler
-\xv mv̩˧~mv̩˥(-ze˩)
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}：吹吹
-\xf 〜 |fg{red}
 \xv bv̩˩qʰv̩˩ mv̩˥
 \xe to blow a conch shell
 \xn 吹法螺
@@ -40741,6 +40758,28 @@
 \xe to blow a horn
 \xn 吹号角
 \xf souffler dans une corne
+
+\lx mv̩˧~mv̩˥
+\or mumu
+\mr mv̩˩α1
+\ps v
+\lc mv̩˧mv̩˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To blow (e.g. to blow the fire, to blow a horn) (reduplicated form).
+\ge to_blow.|fg{red}
+\dn 吹（灰，乐器）（重叠形式）
+\gn 吹.|fg{重叠}
+\df Souffler (par exemple: souffler sur le feu, attiser le feu; souffler dans un instrument à vent) (forme rédupliquée).
+\gf souffler.|fg{red}
+\xv mv̩˧~mv̩˥-ze˩
+\xe 〜 |fg{pfv}
+\xn 〜 |fg{整体体}：吹一吹了
+\xf 〜 |fg{pfv}
 
 \lx mv̩˩α
 \hm 2
@@ -40989,9 +41028,10 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> avant 2012: noté comme L; en fait: est MH, évident d'après la forme rédupliquée, et aussi d'après la forme à l'isolée
+\nt <type="hist" print="n" langue="fra" dom="ton"> avant 2012: noté comme L; en fait: est MH, évident d'après la forme rédupliquée, et aussi d'après la forme à l'isolée
 \ton MH
 \lc nɑ˧˥
+\cf nɑ˩~nɑ˧˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -41001,21 +41041,38 @@
 \gn 发抖
 \df Trembler.
 \gf trembler
+
+\lx nɑ˩~nɑ˧˥
+\or nana
+\mr nɑ˧˥
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton LM+MH#
+\lc nɑ˩nɑ˧˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To tremble (reduplicated form).
+\ge to tremble.|fg{red}
+\dn 发抖，颤抖（重叠形式）
+\gn 发抖.|fg{重叠}
+\df Trembler (forme rédupliquée).
+\gf trembler.|fg{red}
 \xv nɑ˩~nɑ˧-ze˥
-\xe 〜 |fg{red} |fg{pfv}
-\xn 发抖了
-\xf 〜 |fg{red} |fg{pfv}
+\xe 〜 |fg{pfv}
+\xn 〜 |fg{整体体}：发抖了
+\xf 〜 |fg{pfv}
 \xc PHONO
 \xv le˧-nɑ˩~nɑ˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
 \xc PHONO
 \xv lo˩qʰwɤ˥ | nɑ˩~nɑ˧˥
 \xe the hand trembles
 \xn 手抖
 \xf la main tremble
-\dt 04/Sep/2015
 
 \lx nɑ˥
 \sf <nb="B"> 965
@@ -41049,10 +41106,11 @@
 \ps v
 \ton MH
 \lc ɳæ˧˥
+\cf ɳæ˩~ɳæ˧˥
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tʰi˧ ɳæ˧ ze˥); appuyer vers le bas: mv̩˩tɕu˧ tʰi˧ɳæ˧˥, mv̩˩tɕu˧ɳæ˧˥ (avant janvier 2011, noté: ‡le˧-ɳæ˧~ɳæ˩; la descente graduelle par laquelle se réalise la séquence ˧ ˩ ˩ était interprétée comme ‡˧ ˧ ˩.)
+\nt <type="hist" print="n" langue="fra"> (tʰi˧ ɳæ˧ ze˥); appuyer vers le bas: mv̩˩tɕu˧ tʰi˧ɳæ˧˥, mv̩˩tɕu˧ɳæ˧˥.
 \nt <type="hist" print="n" langue="eng"> Prior to 2024, one of the meanings registered in the dictionary was 'to squeeze'. It was corrected at the indication of Roselle Dobbs, who pointed out: “I've been looking for a picture to illustrate the verb 'naeq' (to press), and in so doing have clarified its meaning a bit. I sent various pics to my friends, including a hand squeezing the juice out of a lemon, and a hand pressing down on a block of tofu.  The first one was rejected as a suitable illustration for naeq. The second one was fine.”
 \so F4
 \va <speaker="F5"> ID.
@@ -41067,14 +41125,9 @@
 \xe to push down, to press down
 \xn 往下按
 \xf appuyer vers le bas, peser sur
-\xv le˧-ɳæ˩~ɳæ˩
-\xe |fg{accomp} 〜 |fg{red}
-\xn |fg{实施} 〜 |fg{重叠}
-\xf |fg{accomp} 〜 |fg{red}
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tʰi˧ ɳæ˧ ze˥); appuyer vers le bas: mv̩˩tɕu˧ tʰi˧ɳæ˧˥, mv̩˩tɕu˧ɳæ˧˥ (avant janvier 2011, noté: ‡le˧-ɳæ˧~ɳæ˩; la descente graduelle par laquelle se réalise la séquence ˧ ˩ ˩ était interprétée comme ‡˧ ˧ ˩.)
 \de To oppress, to overwhelm, to crush with authority, to impose by violence.
 \ge to_oppress
 \dn 压迫、压倒、用权威压垮、用暴力强加。
@@ -41085,6 +41138,29 @@
 \xe to steal and oppress (description of a despot's behaviour)
 \xn 偷和迫（描述专制统治者的行为）
 \xf voler et oppresser (description du comportement d'un despote)
+
+\lx ɳæ˩~ɳæ˧˥
+\or naenae
+\mr ɳæ˧˥
+\ps v
+\ton LM+MH#
+\lc ɳæ˩ɳæ˧˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> Avant janvier 2011, noté: ‡le˧-ɳæ˧~ɳæ˩; la descente graduelle par laquelle se réalise la séquence ˧ ˩ ˩ était interprétée comme ‡˧ ˧ ˩.
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To press, to push down (with the hand); to press flat, to flatten (reduplicated form).
+\ge to_press.|fg{red}
+\dn 按（用手）、压扁、挤压（重叠形式）
+\gn 按.|fg{重叠}
+\df Aplatir; appuyer, peser sur; presser (forme rédupliquée).
+\gf appuyer.|fg{red}
+\xv le˧-ɳæ˩~ɳæ˩
+\xe |fg{accomp} 〜
+\xn |fg{实施} 〜
+\xf |fg{accomp} 〜
 
 \lx ɳæ˥
 \sf <nb="B"> 1230
@@ -42884,7 +42960,7 @@
 \gf tordre_avec_les_doigts.|fg{red}
 \xv ɖɯ˧-ɲi˧~ɲi˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 捻一捻
+\xn |fg{进行时态} 〜 |fg{发端}：捻一捻
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx ɲi˩α
@@ -49461,7 +49537,7 @@
 \xf distinguer, voir la différence (par exemple entre diverses espèces de champignons)
 \xv ɖɯ˧-pʰv̩˥ʈʂʰe˩=ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 试着区分
+\xn |fg{进行时态} 〜 |fg{发端}：试着区分
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 \xv mɤ˧-pʰv̩˥ʈʂʰe˩
@@ -56893,7 +56969,7 @@
 \gf inviter
 \xv ɖɯ˧-ɻwæ˧-ɻ̩˥
 \xe |fg{delimitative} 〜 |fg{inceptive}: to invite, to call over
-\xn 请来一下
+\xn |fg{进行时态} 〜 |fg{发端}：请来一下
 \xf |fg{délimitatif} 〜 |fg{inchoatif}: inviter
 \xc <langue="fra" dom="sem"> Cet exemple est homophone de celui fourni pour le sens 1, dans lequel il signifie «appeler, lancer un appel».
 \xc <langue="eng" dom="sem"> This example is a homophone of the one given for sense 1, in which it means “to call, to call out (to someone)”.
@@ -57494,7 +57570,7 @@
 \gf discuter
 \xv ɖɯ˧-ʁwɤ˧~ʁwɤ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 商量商量
+\xn |fg{进行时态} 〜 |fg{发端}：商量商量
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx ɻ̩̃˥
@@ -65740,7 +65816,7 @@
 \xf agiter la tête, secouer la tête
 \xv ɖɯ˧-tɕi˧~tɕi˧-ɻ̩˥
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 摇一摇
+\xn |fg{进行时态} 〜 |fg{发端}：摇一摇
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 
 \lx tɕi˥
@@ -68735,7 +68811,7 @@
 \gf se_lever.|fg{red}
 \xv ɖɯ˧-ʈi˧~ʈi˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 起来一下
+\xn |fg{进行时态} 〜 |fg{发端}：起来一下
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xc PHONO
 
@@ -80026,7 +80102,7 @@
 \xc PHONO
 \xv ɖɯ˧-wɤ˩~wɤ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{inceptive}
-\xn 绕一绕
+\xn |fg{进行时态} 〜 |fg{发端}：绕一绕
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
 \xv wɤ˩~wɤ˩ bi˩˥
 \xe 〜 |fg{imm_fut}
@@ -80615,7 +80691,7 @@
 \gf descendre.|fg{red}
 \xv ɖɯ˧-zɑ˧~zɑ˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn 下来一下
+\xn |fg{进行时态} 〜 |fg{发端}：下来一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
 
