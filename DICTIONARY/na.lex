@@ -11987,7 +11987,7 @@
 \or zzheq
 \ps v
 \lc ɖʐɤ˧˥
-\lx ɖʐɤ˩~ɖʐɤ˧˥1
+\cf ɖʐɤ˩~ɖʐɤ˧˥1
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -50374,7 +50374,7 @@
 \sd <langue="eng"> verb
 \ton MH
 \lc qɑ˧˥
-\cf qɑ˩~qɑ˧˥
+\cf qɑ˩~qɑ˧˥2
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -50390,6 +50390,7 @@
 \xf |fg{dur} 〜
 
 \lx qɑ˩~qɑ˧˥
+\hm 2
 \or ghagha
 \mr qɑ˧˥
 \ps v
@@ -51839,6 +51840,7 @@
 \dt 22/Jun/2017
 
 \lx qɑ˩~qɑ˧˥
+\hm 1
 \or ghagha
 \ps adv
 \cf qɑ˧˥
@@ -53208,7 +53210,7 @@
 \or ghuaeq
 \ps v
 \lc qwæ˧˥
-\cf qwæ˩~qwæ˧˥
+\cf qwæ˩~qwæ˧˥2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton MH
@@ -53226,6 +53228,7 @@
 \xf graver une fleur
 
 \lx qwæ˩~qwæ˧˥
+\hm 2
 \or ghuaeghuae
 \mr qwæ˧˥2
 \ps v
@@ -53844,6 +53847,7 @@
 \dt 30/Apr/2017
 
 \lx qwæ˩~qwæ˧˥
+\hm 1
 \sf <nb="B"> 1743
 \sf <nb="2011"> 2380
 \or ghuaeghuae
@@ -61114,7 +61118,7 @@
 \or ddaesho
 \ps v
 \cf ʂo˧˥2
-\cf \ʂo˩~ʂo˧˥
+\cf ʂo˩~ʂo˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté /lə˧ ʂu˩ tʰi˧ ʈwæ˩ ze˩/, par erreur) (ɲi˧to˧ ɖɯ˧-ɭɯ˧ dze˧-ʂu˧~ʂu˥: d'abord noté …ʂu˧ʂu˧, avec M23, par erreur) (vérifié: est différent de “propre"); cf 997a “glisser"
@@ -64004,13 +64008,6 @@
 \xn 熏木（使其更硬：例如，用来制作锄头柄的木头）
 \xf fumer du bois (pour le rendre plus dur: par exemple pour le bois qui sert à confectionner le manche d'une houe)
 
-\lx ʂwæ˥~ʂwæ˩
-\or shuaeshuae
-\ps v
-\ton H-
-\lc ʂwæ˧ʂwæ˩
-\cf ʂwæ˧α
-
 \lx ʂwæ˧α
 \sf <nb="B"> 2217
 \sf <nb="2011"> 2231
@@ -64055,7 +64052,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton H-
-\lc ʂwæ˥ʂwæ˩
+\lc ʂwæ˧ʂwæ˩
 \so F4
 \de To stir (reduplicated form).
 \ge to_stir.|fg{red}
@@ -71355,7 +71352,7 @@
 \lx qv̩˧ɻ̩˧-ʈʂʰæ˧nɑ˥
 \or Gheu'er-Chaena
 \mr qv̩˧ɻ̩#˥
-\mr ʈʂʰæ˧nɑ˥
+\mr ʈʂʰæ˧nɑ˥2
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -73154,11 +73151,6 @@
 \xe to put fire to a piece of wood full of sap (to start a fire)
 \xn 用含很多树脂的木头来引火
 \xf mettre le feu à un bout de bois plein de sève (pour faire partir le feu)
-
-\lx tsʰi˩~tsʰi˧˥
-\or ceecee
-\ps v
-\cf tsʰi˧˥2
 
 \lx tsʰi˧˥
 \sf <nb="2011"> 1954
