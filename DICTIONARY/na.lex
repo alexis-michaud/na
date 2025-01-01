@@ -7668,7 +7668,7 @@
 \sd <langue="fra"> société
 \sd <langue="eng"> society
 \nt <type="hist" print="n" langue="fra"> (tons soigneusement vérifiés)
-\nt <dom="sem" langue="fra"> Mme Latami récuse la traduction par le terme chinois 法师
+\nt <dom="sem" langue="fra"> Mme Latami récuse la traduction par le terme chinois |fn{法师}
 \ton M
 \lc dɑ˧pɤ˧
 \so F4
@@ -9361,13 +9361,13 @@
 \ps n
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra"> (cf récit 1 F4)
+\nt <dom="ety" type="hist" print="n" langue="fra"> Une étymologie qui avait été imaginée est que le mot proviendrait de l'association des chiffres 'un' et 'trois'. Cela n'a néanmoins rien d'une évidence.
 \ton Lα
 \lc ɖɯ˧so˩
 \so F4
-\de Some, a few. Made up of ‘one' and ‘three'.
+\de Some, a few.
 \ge a_few
-\dn 一些、两三个（直译：‘一三（个）’
+\dn 一些、两三个
 \gn 些
 \df Un petit nombre de, quelques-uns.
 \gf quelques_uns
@@ -12727,9 +12727,9 @@
 \xc <dom="ton" langue="eng"> The M.M tone pattern of the |fg{1sg-dat} expression (…|fv{njɤ˧-ki˧}) is regular.
 \xc <dom="ton" langue="cmn"> |fg{1sg-dat}（…|fv{njɤ˧-ki˧}）的M.M声调是正则的。
 \xv no˧ | njɤ˧-ki˧ | dʑɤ˩pi˧ so˥!
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
+\xe As above: You teach me a great deal! (Context: expression of gratitude on the part of the linguist. The sentence could also be used ironically, in the course of a conversation: “What great things you're teaching me!”)
+\xn 同上：你教我很多！（情景：调查者对合作人表示欣赏与感激。这句话，在摩梭人的对话中，也可以有幽默或讽刺的用法：“你教我的，有一点多！”）
+\xf Idem ci-dessus: Tu m'apprends de nombreuses choses (au sujet de la langue et la culture na)! (Contexte: expression de gratitude de la part du linguiste envers la consultante. Dans la conversation courante, la phrase est plutôt utilisée ironiquement: «Tu contribues grandement à mon édification!», «Te voilà qui m'apprends là des choses fort importantes!»)
 
 \lx dzo˩pʰv̩˩
 \or zzopu
@@ -14101,7 +14101,7 @@
 \cf dʑɯ˩-nɑ˩mi˩-ʁo˩
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> cf récit “Frère et sœur"; avant 2011: noté ˩ ˧
+\nt <type="hist" print="n" langue="fra" dom="ton"> Avant 2011: noté ˩ ˧
 \nt <dom="morpho" langue="fra"> Il n'a pas été possible à ce jour d'extraire de forme monosyllabique.
 \nt <dom="morpho" langue="eng"> It has not been possible so far to extract a monosyllabic form.
 \nt <dom="morpho" langue="cmn"> 尚未成功提取单音节语素。
@@ -14114,7 +14114,8 @@
 \gn 深山老林
 \df Forêt d'altitude, régions sauvages en altitude.
 \gf forêt_d_altitude
-\dt 27/Aug/2015
+\txtsup Caravans.131
+\doisup 10.24397/pangloss-0004531#S131
 
 \lx dʑɯ˧ʁo˩
 \sf <nb="B"> 1974
@@ -19746,7 +19747,6 @@
 \lc gv̩˩dʑɯ˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> cf récit F4 1
 \ton L
 \so F4
 \de Angry; afflicted.
@@ -19755,7 +19755,14 @@
 \gn 生气
 \df En colère, affligé.
 \gf en_colère
-\dt 24/Apr/2017
+\xv gv̩˩dʑɯ˩˥ | le˧-hɯ˩-ɲi˩ tsɯ˩ ◊ mv̩˩.
+\xe He angrily left, it's said.
+\xn 他生气地回去（到深山老林）。
+\xf Furieux, il partit, à ce que dit l'histoire.
+\txt Sister.56
+\doi 10.24397/pangloss-0004342#S56
+\txtsup Sister3.63
+\doisup 10.24397/pangloss-0004345#S63
 
 \lx gv̩˧kv̩˩
 \sf <nb="2011"> 3347
@@ -23179,11 +23186,11 @@
 \xv ə˧-ze˧~ze˥ hõ˩!
 \xe Walk slowly! / Take your time on the road! / Have a quiet and pleasant journey! (Polite salutation to someone who is leaving.)
 \xn 慢走！
-\xf salutation respectueuse à quelqu'un qui se met en chemin: Prends ton temps en chemin!
+\xf Salutation respectueuse à quelqu'un qui se met en chemin: Prends ton temps en chemin!
 \xv ə˧-dzɤ˥ | le˧-hõ˧!
-\xe As above.
-\xn 同上
-\xf Idem ci-dessus.
+\xe As above: Walk slowly! / Take your time on the road! / Have a quiet and pleasant journey! (Polite salutation to someone who is leaving.)
+\xn 同上：慢走！
+\xf Idem ci-dessus: salutation respectueuse à quelqu'un qui se met en chemin: Prends ton temps en chemin!
 \xv ɑ˩pʰo˩ hõ˩˥!
 \xe Get out!
 \xn 出去！走开！滚出去！
@@ -25754,11 +25761,11 @@
 \xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˥!
 \xe Walk upright! / Keep your back straight as you walk!
 \xn 走路，直一点！
-\xf Tiens-toi un peu droit(e) en marchant!
+\xf Tiens-toi un peu droit·e en marchant!
 \xv ʝi˩ŋɤ˧˥ | ʂe˧~ʂe˧ | le˧-se˧-ɻ̩˥!
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
+\xe As above: Walk upright! / Keep your back straight as you walk!
+\xn 同上： 走路，直一点！
+\xf Idem ci-dessus: Tiens-toi un peu droit·e en marchant!
 \xv ʝi˩ŋɤ˧-ze˥
 \xe 〜 |fg{pfv}
 \xn 往后仰了
@@ -31224,6 +31231,8 @@
 \xn 你们在钓鱼时钓到鱼了吗？—是的，我们钓到了几条鱼！
 \xf À la pêche, vous avez attrapé quelque chose / vous avez fait des prises? — Oui, on en a attrapé quelques-uns, de poissons!
 \xc <type="hist" print="n" langue="fra"> Avant 2024: noté un schéma tonal L.H pour l'interrogation: /ə˩-ɖɯ˥/.
+\txtsup Sister3.8
+\doisup 10.24397/pangloss-0004345#S8
 
 \lx kv̩˩α
 \hm 2
@@ -36997,9 +37006,9 @@
 \xf «Les adultes peuvent tout faire; les enfants, eux, n'y arrivent pas/n'en sont pas capables!» Sens: s'adresse à quelqu'un qui assigne des tâches aux enfants et adolescents: Laissez les enfants jouer! A chacun ses occupations: les adultes travaillent; les enfants, leur tâche, c'est de s'amuser entre eux, pas de travailler. Le travail des grands, c'est pas leur affaire!
 \xc PROVERBE
 \xv ɖɯ˩-hĩ˩˥, | qʰɑ˧ mæ˥~mæ˩! | tɕi˩-hĩ˩˥, | le˧-mɤ˧-mæ˧!
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
+\xe As above: “Adults can manage all sorts of things, (whereas) children can't manage (that much) yet!"
+\xn 同上：“大人管干活，小孩管玩耍！”
+\xf Idem ci-dessus: «Les adultes peuvent tout faire; les enfants, eux, n'y arrivent pas/n'en sont pas capables!»
 \xc PROVERBE
 
 \lx mæ˧˥
@@ -37231,7 +37240,7 @@
 \lc mæ˧qo˩
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
-\nt <type="hist" print="n" langue="fra"> (cf récit 1: “parvenu au bout (de la pièce), …") (d’abord pensé que cela était le même mot que « queue »; mais en fait: « queue » est mæ˧qv̩˩) (vérifié: initiale uvulaire et non vélaire)
+\nt <type="hist" print="n" langue="fra"> Cf récit Mariage: “parvenu au bout (de la pièce), …") (d’abord pensé que cela était le même mot que « queue »; mais en fait: « queue » est mæ˧qv̩˩) (vérifié: initiale uvulaire et non vélaire)
 \ton L#
 \so F4
 \de At the extremity, at the end; at the bottom, in the lower part.
@@ -37240,6 +37249,8 @@
 \gn 在后面
 \df En bas, au fond; à l'arrière, derrière.
 \gf au_fond/à_l_arrière
+\txtsup TraderAndHisSon.40
+\doisup 10.24397/pangloss-0004633#S40
 
 \lx mæ˧qv̩˩
 \sf <nb="B"> 1954
@@ -39577,7 +39588,8 @@
 \xe Go and get seated in the bottom part (of the room)!
 \xn 你到下面去坐！
 \xf Assieds-toi en bas!
-\dt 25/Apr/2017
+\txtsup Housebuilding.109
+\doisup 10.24397/pangloss-0004449#S109
 
 \lx mv̩˧-gɤ˥gɤ˩
 \sf <nb="B"> 2280
@@ -85212,9 +85224,9 @@
 \xf Tu arrives chez moi.
 \xc PHONO
 \xv no˧ | njɤ˧-ki˧ tsʰɯ˧˥.
-\xe As above.
-\xn 同上。
-\xf Idem ci-dessus.
+\xe As above: You arrive at my place.
+\xn 同上： 你到我这里。
+\xf Idem ci-dessus: Tu arrives chez moi.
 \xc PHONO
 
 \lx -ki˧
