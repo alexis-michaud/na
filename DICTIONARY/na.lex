@@ -6210,6 +6210,7 @@
 \or bbeuq
 \ps v
 \lc bɻ̩˩˥
+\cf bɻ̩˧~bɻ̩˥
 \ton Lα
 \sn 1
 \sd <langue="fra"> verbe
@@ -6234,16 +6235,6 @@
 \xe to sprinkle water
 \xn 泼水、撒水
 \xf asperger d'eau; arroser
-\xv ɖɯ˧-bɻ̩˧~bɻ̩˥-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{发端}：泼一泼
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\xc PHONO
-\xv le˧-bɻ̩˧~bɻ̩˥-ze˩
-\xe |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xn 泼了一点
-\xf |fg{accomp} 〜 |fg{red} |fg{pfv}
-\xc PHONO
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6268,6 +6259,45 @@
 \xn 撒吧！
 \xf Sème!
 \xc PHONO
+
+\lx bɻ̩˧~bɻ̩˥
+\or bbeubbeu
+\mr bɻ̩˩α1
+\ps v
+\lc bɻ̩˧bɻ̩˥
+\ton H#
+\sn 1
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de To sprinkle water (reduplicated form).
+\ge to_sprinkle.|fg{red}
+\dn 泼水，浇（浇菜），撒（水）（重叠形式）
+\gn 泼.|fg{重叠}
+\df Asperger; arroser (forme rédupliquée).
+\gf asperger.|fg{red}
+\xv ɖɯ˧-bɻ̩˧~bɻ̩˥-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{进行时态} 〜 |fg{发端}：泼一泼
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
+\xc PHONO
+\xv le˧-bɻ̩˧~bɻ̩˥-ze˩
+\xe |fg{accomp} 〜 |fg{pfv}
+\xn 泼了一点
+\xf |fg{accomp} 〜 |fg{pfv}
+\xc PHONO
+\sn 2
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\so F4
+\de To sow (seeds) (reduplicated form).
+\ge to_sow.|fg{red}
+\dn 撒（种子）（重叠形式）
+\gn 撒.|fg{重叠}
+\df Disperser, semer (par exemple: des graines) (forme rédupliquée).
+\gf disperser/semer.|fg{red}
 
 \lx bɻ̩˩α
 \sf <nb="B"> 942
@@ -7220,6 +7250,7 @@
 \nt <type="hist" print="n" langue="fra"> Maxime Fily relève que ce verbe serait employé pour «couper le crin du cheval» xxxx
 \ton MH
 \lc dɑ˧˥
+\cf dɑ˩~dɑ˧˥
 \so F4
 \va <speaker="M21"> ID.
 \de To fell (a tree); to cut into pieces (a large piece of meat); to create a breach (in a dike).
@@ -7237,10 +7268,32 @@
 \xe to hit a blow
 \xn 砍一下
 \xf donner un coup
-\xv dɑ˩~dɑ˧˥
-\xe 〜 |fg{red}
-\xn 〜 |fg{重叠}
-\xf 〜 |fg{red}
+\xv tso˧~tso˧ dɑ˩
+\xe to cut things
+\xn 砍东西
+\xf découper des choses
+\xc PHONO
+\txtsup Sister.85
+\doisup 10.24397/pangloss-0004342#S85
+
+\lx dɑ˩~dɑ˧˥
+\or ddadda
+\mr dɑ˧˥2
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> /ʂe˧ dɑ˥~dɑ˩/: en 2006, avais noté M.H.M (˧˥ ˧); schéma attendu: M.H.L (˧˥˩); vérifié en 2007 et 2008: est bien M.H.L (˧˥˩)
+\nt <type="hist" print="n" langue="fra"> En 2006, avais noté /‡dɤ˧dɤ˩/, /‡le˧dɤ˧dɤ˩/, /‡æ˩˥le˧dɤ˧dɤ˩ze˩/ «le poulet a été découpé»
+\ton LM+MH#
+\lc dɑ˩dɑ˧˥
+\so F4
+\va <speaker="M21"> ID.
+\de To fell (a tree); to cut into pieces (a large piece of meat); to create a breach (in a dike) (reduplicated form).
+\ge to_fell/to_cut.|fg{red}
+\dn 砍（树），砍（肉）（重叠形式）
+\gn 砍／宰.|fg{重叠}
+\df Couper un arbre, abattre un arbre; ouvrir une brèche (dans une digue); découper (de la viande) (forme rédupliquée).
+\gf couper/découper.|fg{red}
 \xv le˧-dɑ˩~dɑ˩(-ze˩)
 \xe (I) have cut (e.g. a chicken) into pieces
 \xn （我把一只鸡）砍成块了。
@@ -7249,13 +7302,6 @@
 \xe to cut meat to small pieces
 \xn 把肉砍成小块
 \xf découper de la viande en morceaux
-\xv tso˧~tso˧ dɑ˩
-\xe to cut things
-\xn 砍东西
-\xf découper des choses
-\xc PHONO
-\txtsup Sister.85
-\doisup 10.24397/pangloss-0004342#S85
 
 \lx ɖæ˩˧
 \sf <nb="B"> 58
@@ -7321,7 +7367,6 @@
 \gn 短
 \df Court.
 \gf court
-\dt 27/Aug/2015
 
 \lx dɑ˩β
 \sf <nb="B"> 1631
@@ -7333,6 +7378,7 @@
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: «ɯ˥dɑ˧; tons confirmés, n'est pas ˧ ˩»)
 \ton Lβ
 \lc dɑ˩˥
+\cf dɑ˧~dɑ˩
 \so F4
 \va <speaker="M21"> ID.
 \de To weave.
@@ -7349,12 +7395,28 @@
 \xe to weave fabric
 \xn 织布
 \xf tisser du tissu
+
+\lx dɑ˧~dɑ˩
+\or ddadda
+\mr dɑ˩β
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton L#
+\lc dɑ˧dɑ˩
+\so F4
+\de To weave (reduplicated form).
+\ge to_weave.|fg{red}
+\dn 织（重叠形式）
+\gn 织.|fg{重叠}
+\df Tisser (forme rédupliquée).
+\gf tisser.|fg{red}
 \xv ɖɯ˧-dɑ˧~dɑ˩-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn |fg{进行时态} 〜 |fg{发端}：织一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
 \xc PHONO
-\dt 27/Aug/2015
+\xc <langue="fra" type="hist" print="n" dom="ton"> xxxx le schéma tonal attendu pour un simplex au ton Lβ est: M.H.L.L, ɖɯ˧-dɑ˥~dɑ˩-ɻ̩˩
 
 \lx dɑ˧˥β
 \or dda
