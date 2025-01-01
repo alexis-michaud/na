@@ -7986,21 +7986,21 @@
 \sy di˧˥1
 \lc di˩di˧˥
 \so F4
-\de To hunt, to track; to scatter, to drive out, to drive away: for example, chasing poultry to the barnyard, when hens and geese venture into the house.
-\ge to_drive_out/away
-\dn 跟、追，打散，驱赶，撵，赶，打猎
-\gn 追
-\df Poursuivre, chasser; disperser, repousser, faire déguerpir: par exemple, chasser la volaille vers la basse-cour, lorsque poules et oies s'aventurent jusque dans la maison.
-\gf chasser/disperser
+\de To hunt, to track; to scatter, to drive out, to drive away: for example, chasing poultry to the barnyard, when hens and geese venture into the house (reduplicated form).
+\ge to_drive_out/away.|fg{red}
+\dn 跟、追，打散，驱赶，撵，赶，打猎（重叠形式）
+\gn 追.|fg{重叠}
+\df Poursuivre, chasser; disperser, repousser, faire déguerpir: par exemple, chasser la volaille vers la basse-cour, lorsque poules et oies s'aventurent jusque dans la maison (forme rédupliquée).
+\gf chasser/disperser.|fg{red}
 \xv di˩~di˧-ze˥
-\xe 〜 |fg{red} |fg{pfv}: has hunted, has tracked
-\xn |fg{重叠}＋整体体：追了
-\xf 〜 |fg{red} |fg{pfv}: a suivi à la trace, a pisté
+\xe 〜 |fg{pfv}: has hunted, has tracked
+\xn 〜 |fg{整体体}：追了
+\xf 〜 |fg{pfv}: a suivi à la trace, a pisté
 \xc PHONO
 \xv tʰi˧-di˩~di˩
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜
+\xf |fg{dur} 〜
 \xc <dom="phono" langue="fra"> La séquence M.L.L dans |fv{tʰi˧-di˩~di˩} n'est pas évidente à reconnaître à l'oreille. Elle ressemble phonétiquement à M.M.L. L'interprétation phonologique comme M.L.L est néanmoins bien établie.
 \xc <dom="phono" langue="eng"> The M.L.L sequence in |fv{tʰi˧-di˩~di˩} is not obvious to the ear. It is phonetically similar to M.M.L. The phonological interpretation as M.L.L is well established nevertheless.
 \xc <dom="phono" langue="cmn"> |fv{tʰi˧-di˩~di˩}这个短语的M.L.L声调序并不明显。实际发音听起来接近M.L.L。但还是可以确认，在音系层次上是M.L.L。
@@ -8442,9 +8442,31 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> Anciennes notes, 2006: «(ʈʰɯ˥) ʈʰi˥ ɖɤ˧ɖɤ˧ (confirmé, d'abord noté ɖɯ˧ɖɯ˧ze˩)»
+\nt <dom="usage" langue="fra"> Le verbe est généralement employé sous sa forme rédupliquée: |fv{ɖɤ˧~ɖɤ#˥}.
+\nt <dom="usage" langue="eng"> This verb is generally used in reduplicated form, as |fv{ɖɤ˧~ɖɤ#˥}.
+\nt <dom="usage" langue="cmn"> 该动词一般以重叠形式使用：|fv{ɖɤ˧~ɖɤ#˥}。
 \ton H
 \lc ɖɤ˧
+\cf ɖɤ˧~ɖɤ#˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To crawl, to creep.
+\ge to_crawl
+\dn 爬行，匍匐
+\gn 爬行／匍匐
+\df Ramper.
+\gf ramper
+
+\lx ɖɤ˧~ɖɤ#˥
+\or ddedde
+\mr ɖɤ˥
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\nt <type="hist" print="n" langue="fra"> Anciennes notes, 2006: «(ʈʰɯ˥) ʈʰi˥ ɖɤ˧ɖɤ˧ (confirmé, d'abord noté ɖɯ˧ɖɯ˧ze˩)»
+\ton #H
+\lc ɖɤ˧ɖɤ˧
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -8455,15 +8477,14 @@
 \gn 爬行／匍匐
 \df Ramper.
 \gf ramper
-\xv ɖɤ˧~ɖɤ˧ (-ze˩)
-\xe 〜 |fg{red}
-\xn |fg{重叠}：爬一爬
-\xf 〜 |fg{red}
+\xv ɖɤ˧~ɖɤ˧-ze˩
+\xe 〜 |fg{pfv}
+\xn |fg{整体体}：爬一爬了
+\xf 〜 |fg{pfv}
 \xv ʈʂʰɯ˧ | ɖɤ˧~ɖɤ˧-ʁo˧-ze˩!
 \xe She can crawl! / She knows how to crawl! (About a baby that crawls around.)
 \xn 她会爬了！
 \xf Elle sait ramper! (Au sujet d'un bébé qui se déplace en rampant.)
-\dt 27/Aug/2015
 
 \lx do˩β
 \sf <nb="B"> 1382
@@ -8474,6 +8495,7 @@
 \sd <langue="eng"> verb
 \ton Lβ
 \lc do˩˥
+\cf do˥~do˩
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -8483,12 +8505,6 @@
 \gn 见
 \df Voir, apercevoir.
 \gf apercevoir
-\xv ɖɯ˧-do˥~do˩-ɻ̩˩
-\xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
-\xn |fg{进行时态} 〜 |fg{发端}：见一见
-\xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\xc PHONO
-\xc <type="hist" print="n" langue="fra"> vérifié en août 2014
 \xv ɖɯ˧-kʰwɤ˧ do˧˥
 \xe to see a piece
 \xn 看见一块（东西）
@@ -8511,6 +8527,30 @@
 \xf …a vu (une/la) truie
 \xc PHONO
 \xc <type="hist" print="n" langue="fra"> note ancienne: «schéma tonal inattendu: on s'attendrait à L.M.L (nom au ton LM, verbe au ton Lβ), mais ce schéma n'est pas acceptable». En réalité: était dû à une erreur de la part de l'enquêteur: défaut de reconnaissance de la différence entre ‘voir' et ‘couvrir'.
+
+\lx do˥~do˩
+\or ddoddo
+\mr do˩β
+\ps v
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H-
+\lc do˧do˩
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M21"> ID.
+\de To see; to come across someone (reduplicated form).
+\ge to_see.|fg{red}
+\dn 看见，遇见，见（重叠形式）
+\gn 见.|fg{重叠}
+\df Voir, apercevoir (forme rédupliquée).
+\gf apercevoir.|fg{red}
+\xv ɖɯ˧-do˥~do˩-ɻ̩˩
+\xe |fg{delimitative} 〜 |fg{inceptive}
+\xn |fg{进行时态} 〜：见一见
+\xf |fg{délimitatif} 〜 |fg{inchoatif}
+\xc PHONO
+\xc <type="hist" print="n" langue="fra"> vérifié en août 2014
 
 \lx do˧bæ˧
 \sf <nb="B"> 167
@@ -10984,11 +11024,11 @@
 \so F4
 \va <speaker="F5"> ID.
 \de To cut (with a knife). Reduplicated form.
-\ge to_cut
-\dn 切（用刀）。重叠形式。
-\gn 切
+\ge to_cut.|fg{red}
+\dn 切（用刀）（重叠形式）。
+\gn 切.|fg{重叠}
 \df Couper (avec un couteau). Forme rédupliquée.
-\gf couper
+\gf couper.|fg{red}
 \xv le˧-dze˧~dze˥
 \xe |fg{accomp} 〜 |fg{red}: to cut
 \xn |fg{实施} 〜 |fg{重叠}：切（用刀）
@@ -11869,6 +11909,7 @@
 \or zzheq
 \ps v
 \lc ɖʐɤ˧˥
+\lx ɖʐɤ˩~ɖʐɤ˧˥1
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -11926,26 +11967,16 @@
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To pluck (fruit, weeds), to pick (vegetables).
-\ge to_pluck
-\dn 摘（果子、蔬菜）、扯（草）
-\gn 摘／扯
-\df Cueillir (des fruits, des légumes); arracher (des mauvaises herbes).
-\gf cueillir/arracher
+\de To pluck (fruit, weeds), to pick (vegetables) (reduplicated form).
+\ge to_pluck.|fg{red}
+\dn 摘（果子、蔬菜）、扯（草）（重叠形式）
+\gn 摘／扯.|fg{重叠}
+\df Cueillir (des fruits, des légumes); arracher (des mauvaises herbes) (forme rédupliquée).
+\gf cueillir/arracher.|fg{red}
 \xv le˧-ɖʐɤ˩~ɖʐɤ˩
 \xe |fg{accomp} 〜 |fg{red}: has plucked a little, has picked a little
 \xn |fg{实施} 〜 |fg{重叠}：拆拆了
 \xf |fg{accomp} 〜 |fg{red}: a un peu arraché, a un peu cueilli
-\sn 2
-\sd <langue="fra"> verbe
-\sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> D'abord noté «le˥ɖʐɤ˩ɖʐɤ˩, tv», puis lə˧ɖʐɤ˩ɖʐɤ˩. Schéma tonal vérifié en 2009.
-\de To snap, to cut (thread); to smash; to destroy (a building).
-\ge to_snap/to_smash
-\dn 拆（线），拔，捣碎
-\gn 拆／捣碎
-\df Déchirer, couper (fil); briser; broyer; détruire (une maison).
-\gf briser
 
 \lx ɖʐɤ˩~ɖʐɤ˧˥
 \hm 2
@@ -11955,20 +11986,20 @@
 \mr ɖʐɤ˧˥2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L+MH#
+\ton LM+MH#
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
-\de To prop open (a tent).
-\ge to_prop_open
-\dn 撑开（帐篷）
-\gn 撑开
-\df Déployer, ouvrir en soutenant. Par exemple: déployer la tente.
-\gf déployer
+\de To prop open (a tent) (reduplicated form).
+\ge to_prop_open.|fg{red}
+\dn 撑开（帐篷）（重叠形式）
+\gn 撑开.|fg{重叠}
+\df Déployer, ouvrir en soutenant. Par exemple: déployer la tente (forme rédupliquée).
+\gf déployer.|fg{red}
 \xv le˧-ɖʐɤ˩~ɖʐɤ˩
-\xe |fg{accomp} 〜 |fg{red}: has propped open a little
-\xn |fg{实施} 〜 |fg{重叠}：撑开一下
-\xf |fg{accomp} 〜 |fg{red}: a un peu ouvert, a un peu déployé
+\xe |fg{accomp} 〜: has propped open a little
+\xn |fg{实施} 〜：撑开一下
+\xf |fg{accomp} 〜: a un peu ouvert, a un peu déployé
 
 \lx ɖʐɤ˧˥
 \sf <nb="B"> 1499
@@ -19858,6 +19889,7 @@
 \ps v
 \ton Lα
 \lc gv̩˩˥
+\cf gv̩˧~gv̩˥2
 \so F4
 \nt <type="hist" print="n" langue="fra"> (avant 2009, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tons vérifiés)
 \va <speaker="M21"> ID.
@@ -19905,16 +19937,36 @@
 \gn 修理／做出来
 \df Fabriquer ou réparer (un outil).
 \gf fabriquer/réparer
-\xv le˧-gv̩˧~gv̩˥
-\xe |fg{accomp} 〜 |fg{red}: to repair
-\xn |fg{重叠}：修理
-\xf |fg{accomp} 〜 |fg{red}: réparer
 \xv le˧-gv̩˩ | le˧-tʰv̩˧-ze˧!
 \xe It's repaired! / It's done! / I have finished doing it!
 \xn 修理好了！／修理出来了！
 \xf Ça y est, c'est réparé / c'est fabriqué / c'est fini!
 
 \lx gv̩˧~gv̩˥
+\hm 2
+\or gguggu
+\mr gv̩˩α1
+\ps v
+\ton H#
+\lc gv̩˧gv̩˥
+\so F4
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\de To repair; to make (a tool, a machine…) (reduplicated form).
+\ge to_repair/to_make.|fg{red}
+\dn 修理、做出来（工具）（重叠形式）
+\gn 修理／做出来.|fg{重叠}
+\df Fabriquer ou réparer (un outil) (forme rédupliquée).
+\gf fabriquer/réparer.|fg{red}
+\xv le˧-gv̩˧~gv̩˥
+\xe |fg{accomp} 〜: to repair
+\xn |fg{实施}：修理
+\xf |fg{accomp} 〜: réparer
+
+\lx gv̩˧~gv̩˥
+\hm 1
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
 \or gguggu
@@ -19923,18 +19975,18 @@
 \lc gv̩˧gv̩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton Lα
+\ton H#
 \so F4
-\de To tidy up, to sort out.
-\ge to_tidy_up
-\dn 收拾
-\gn 收拾
-\df Ranger.
-\gf ranger
+\de To tidy up, to sort out (reduplicated form).
+\ge to_tidy_up.|fg{red}
+\dn 收拾（重叠形式）
+\gn 收拾.|fg{重叠}
+\df Ranger (forme rédupliquée).
+\gf ranger.|fg{red}
 \xv tʰi˧-gv̩˧~gv̩˥
-\xe |fg{dur} 〜 |fg{red}
-\xn |fg{持续体} 〜 |fg{重叠}
-\xf |fg{dur} 〜 |fg{red}
+\xe |fg{dur} 〜
+\xn |fg{持续体} 〜
+\xf |fg{dur} 〜
 \xc PHONO
 \xv ɖɯ˧-gv̩˧~gv̩˥-ɻ̩˩
 \xe to clear up a little
@@ -19951,7 +20003,7 @@
 \or gguq
 \ps v
 \lc --
-\cf gv̩˧~gv̩˥
+\cf gv̩˧~gv̩˥1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="fra"> Confirmé en 2012: est un ton L.
@@ -23557,12 +23609,15 @@
 \xn 红红的
 \xf tout rouge
 \xv hṽ̩˩ɖʐæ˩˥~| hṽ̩˩ɖʐæ˩˥ gv̩˩
-\xe 〜 |fg{red}; the first two syllables are higher-pitched than the following two
+\xe 〜 |fg{red}
 \xn 〜 |fg{重叠}
-\xf 〜 |fg{red}; les deux premières syllabes ont une fréquence fondamentale nettement plus haute que les deux suivantes
+\xf 〜 |fg{red}
 \xc <langue="fra" dom="phono"> Forme réduite de |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
 \xc <langue="eng" dom="phono"> Reduced form of |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}
 \xc <langue="cmn" dom="phono"> |fv{/hṽ̩˩-ɖʐæ˩ɻæ˥~hṽ̩˩-ɖʐæ˩ɻæ˥/}的简化。
+\xc <langue="fra" dom="ton"> La première partie de l'expression rédupliquée a une fréquence fondamentale nettement plus haute que la seconde.
+\xc <langue="eng" dom="ton"> The first part of the reduplicated expression is higher-pitched than the second one.
+\xc <langue="cmn" dom="ton"> 前半部分的基频明显高于后半部分。
 \rf F5
 
 \lx hṽ̩˧nɑ˩
