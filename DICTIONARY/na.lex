@@ -4972,6 +4972,7 @@
 \or bboq
 \ps v
 \lc bo˩˥
+\cf bo˧~bo˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton Lα
@@ -4987,11 +4988,26 @@
 \xe |fg{delimitative} 〜 |fg{inceptive}
 \xn |fg{进行时态} 〜 |fg{发端}：（主动的）亲吻一下（如：大人对小孩的一种表示）
 \xf |fg{délimitatif} 〜 |fg{inchoatif}
+
+\lx bo˧~bo˥
+\or bbobbo
+\mr bo˩α
+\ps v
+\lc bo˧bo˥
+\sd <langue="fra"> verbe
+\sd <langue="eng"> verb
+\ton H#
+\so F4
+\de To kiss (reduplicated form).
+\ge to_kiss.|fg{red}
+\dn 亲吻（重叠形式）
+\gn 亲吻.|fg{重叠}
+\df Embrasser (forme rédupliquée).
+\gf embrasser.|fg{red}
 \xv ɖɯ˧-bo˧~bo˥-ɻ̩˩
 \xe |fg{delimitative} 〜 |fg{red} |fg{inceptive}
 \xn |fg{进行时态} 〜 |fg{发端}：相互亲吻一下
 \xf |fg{délimitatif} 〜 |fg{red} |fg{inchoatif}
-\dt 24/Apr/2017
 
 \lx bɤ˩α
 \hm 1
