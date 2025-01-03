@@ -12979,7 +12979,7 @@
 \so F4
 \de To dance.
 \ge to_dance
-\dn 跳舞
+\dn 跳舞（音译：‘甲搓’）
 \gn 跳舞
 \df Danser.
 \gf danser
@@ -12995,7 +12995,6 @@
 \xe to throw a housewarming party in a newly built house
 \xn 在新房子举办乔迁宴会
 \xf organiser une pendaison de crémaillère dans une nouvelle maison
-\dt 27/Aug/2015
 
 \lx dzo˩zo#˥
 \or zzosso
@@ -24714,10 +24713,23 @@
 \gn 花生
 \df Cacahuètes.
 \gf cacahuètes
-\xv hwɤ˧se˧-qo˧tv̩˩
-\xe Peanuts (same meaning as the main entry, with addition of the word for `kernel, pit', /|fv{qo˧tv̩˩}/).
-\xn 花生米（与|fv{hwɤ˧se˧}含义相同，但增加了‘果核’这个词：|fv{qo˧tv̩˩}）。
-\xf Cacahuètes (même sens que l'entrée principale, avec l'ajout du mot `noyau, graine', /|fv{qo˧tv̩˩}/).
+
+\lx hwɤ˧se˧-qo˧tv̩˩
+\or huasei ghodu
+\mr hwɤ˧se˧
+\mr qo˧tv̩˩
+\ps n
+\lc hwɤ˧se˧qo˧tv̩˩
+\sd <langue="fra"> plante
+\sd <langue="eng"> plant
+\ton -L#
+\so F4
+\de Peanuts (same meaning as /|fv{hwɤ˧se˧}/, with addition of the word for `kernel, pit', /|fv{qo˧tv̩˩}/).
+\ge peanuts
+\dn 花生仁（与|fv{hwɤ˧se˧}含义相同，但增加了‘果核、仁’这个词：|fv{qo˧tv̩˩}）。
+\gn 花生仁
+\df Cacahuètes (même sens que /|fv{hwɤ˧se˧}/, avec ajout du mot `noyau, graine', /|fv{qo˧tv̩˩}/).
+\gf cacahuètes
 
 \lx hwɤ˧tɕi˥
 \sf <nb="B"> 2107
