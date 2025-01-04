@@ -8144,9 +8144,9 @@
 \pdc <langue="fra"> |fg{clf} des bottes, des brassées
 \pdc <langue="eng"> |fg{clf} for armfuls, for large bundles
 \pdc <langue="cmn"> 抱、垛的|fg{量词}
-\de Bracken. It was used as famine food.
+\de Bracken. It was eaten by humans as famine food.
 \ge bracken
-\dn 蕨菜
+\dn 蕨菜。人在饥荒时期会食用这种植物。
 \gn 蕨菜
 \gr 龙爪菜
 \df Fougère. Elle était consommée comme nourriture en temps de disette.
@@ -24746,11 +24746,11 @@
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
 \pdc <langue="eng"> |fg{clf} for plants with a stalk
 \pdc <langue="cmn"> 有根的植物的|fg{量词}
-\de Curly dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder; it is also used as food for humans.
+\de Curly dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder. It was also eaten by humans as famine food.
 \ge curly_dock
-\dn 土大黄（学名：皱叶酸模）（喂猪的牧草）
+\dn 土大黄（学名：皱叶酸模），是喂猪的三种主要牧草之一。人在饥荒时期也会食用这种植物。
 \gn 土大黄
-\df Parelle sauvage, oseille crépue, patience crépue, patience sauvage, |fi{Rumex crispus}. Cette plante constitue l'une des trois sortes de fourrage utilisées pour les cochons; elle est aussi consommée par les humains.
+\df Parelle sauvage, oseille crépue, patience crépue, patience sauvage, |fi{Rumex crispus}. Cette plante constitue l'une des trois principales sortes de fourrage utilisées pour les cochons. Elle était également consommée par les humains en temps de disette.
 \gf parelle_sauvage
 \xv hwɤ˧tɕi˥-bæ˩bæ˩
 \xe curly dock flowers
