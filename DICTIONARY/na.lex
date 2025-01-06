@@ -24746,7 +24746,7 @@
 \pdc <langue="fra"> |fg{clf} des plantes à tiges
 \pdc <langue="eng"> |fg{clf} for plants with a stalk
 \pdc <langue="cmn"> 有根的植物的|fg{量词}
-\de Curly dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder. It was also eaten by humans as famine food.
+\de Curly dock, wild dock, |fi{Rumex crispus}. It is one of three sorts of plants used as pig fodder. It was also eaten by humans as famine food.
 \ge curly_dock
 \dn 土大黄（学名：皱叶酸模），是喂猪的三种主要牧草之一。人在饥荒时期也会食用这种植物。
 \gn 土大黄
