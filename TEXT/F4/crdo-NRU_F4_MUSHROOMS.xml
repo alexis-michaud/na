@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
-<TEXT id="crdo-NRU_F4_MUSHROOMS" xml:lang="NRU">
+<TEXT id="crdo-NRU_F4_MUSHROOMS" xml:lang="nru">
 <HEADER>
 <SOUNDFILE  href="crdo-NRU_F4_MUSHROOMS.wav"/>
-<TITLE xml:lang="en">Mushrooms: which ones are collected for cooking and for medicine</TITLE>
 </HEADER>
 <S id="MUSHROOMS_S001">
 	<AUDIO start="0.958" end="6.409"/>

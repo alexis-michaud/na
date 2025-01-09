@@ -23078,7 +23078,7 @@
 \ton LM+MH#
 \so F4
 \va <speaker="F5"> ID.
-\va <speaker="M18"> hũ˧tsʰɯ˧lɯ˥
+\va <speaker="M18"> hũ˧tsʰɯ˧ lɯ˥
 \va <speaker="M21"> ID.
 \de 80.
 \ge 80
@@ -23086,7 +23086,6 @@
 \gn 八十
 \df 80.
 \gf 80
-\dt 24/Apr/2017
 
 \lx ho˧ʈʂɯ˧
 \or hozhi
@@ -64520,16 +64519,16 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \so F4
-\de To give a dowry: to give goods to a young woman when she goes to her new home after her wedding. The dowry used to be brought on horseback, in two wood boxes: gifts must come in pairs, and the dowry is no exception.
+\de To give a dowry: the bride's natal kin give goods to a young woman when she goes to her new home after her wedding. The dowry used to be brought on horseback, in two wood boxes: gifts must come in pairs, and the dowry is no exception.
 \ge to_give_a_dowry
 \dn 送陪嫁（嫁妆、陪奁）
 \gn 送陪嫁
-\df Fournir la dot: donner des biens à une jeune femme lorsqu'elle rejoint sa nouvelle famille lors du mariage. (La dot était apportée à dos de cheval; elle était rangée dans deux caisses en bois: comme en d'autres circonstances, les présents doivent aller par deux.)
+\df Fournir la dot: sa famille d'origine donne des biens à une jeune femme lorsqu'elle rejoint sa nouvelle famille lors du mariage. (La dot était apportée à dos de cheval; elle était rangée dans deux caisses en bois: comme en d'autres circonstances, les présents doivent aller par deux.)
 \gf fournir_la_dot
 \xv ə˧tso˧ tɑ˩hwɤ˩-ʝi˩? | ə˧-sɯ˩kv̩˩ (-dʑo˩), | ɖɯ˧-li˧-ɻ̩˩-bi˩!
 \xe What did they give as a dowry? Let's go and have a look! (At a wedding, the gifts given as a dowry are put on public display, for everyone to appreciate the parents' generosity.)
 \xn 给的是什么嫁妆？咱们去看一看吧！（结婚的时候，陪嫁展示在大家眼前，显示女方家的大方程度）
-\xf Qu'est-ce qu'ils ont donné comme dot? Regardons un peu! / Allons voir! (Ce que disent les villageois invités à un mariage; les biens offerts en dot sont alors exposés, de façon à ce que chacun puisse apprécier la générosité des parents.)
+\xf Qu'est-ce qu'ils ont donné comme dot? Regardons un peu! / Allons voir! (Ce que disent les villageois invités à un mariage; les biens offerts en dot sont alors exposés, de façon à ce que chacun puisse apprécier la générosité de la famille d'origine.)
 \xv ti˧tsɯ˥ | qʰɑ˧-ɭɯ˧ tɑ˩hwɤ˩? — ti˧tsɯ˥ | ɲi˧-ɭɯ˧ tɑ˩hwɤ˩!
 \xe How many boxes are there in the dowry? — The dowry consists of two boxes!
 \xn 陪嫁有几个木箱？ — 陪嫁有两个（木箱）！
@@ -83092,7 +83091,6 @@
 \gn 草
 \df Herbe.
 \gf herbe
-\dt 07/Oct/2015
 
 \lx ʐɯ˧
 \sf <nb="B"> 396
@@ -83107,7 +83105,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de A term for all alcoholic beverages: fermented alcohol (chang [barley beer], rice wine, and various other brews), distilled alcohol, wine… The English word ‘wine’ is a close equivalent in terms of cultural contexts, but it has strong associations with beverages made from grapes. For want of a better translation, the word ‘alcohol’ is used (despite the unwanted connotations of this term, which suggests strong spirits, whereas traditional beers and rice wines had a moderate alcohol content).
+\de A term for all alcoholic beverages: fermented alcohol (chang [barley beer], rice wine, and various other brews), distilled alcohol, wine… From a cultural point of view, the connotations of the English word ‘wine’, as an element of banquets and rituals, are well suited to translating the Na term. Moreover, traditional beers and rice wines had a moderate alcohol content, like grape wine, whereas the English word ‘alcohol’ is suggestive of strong spirits (or medical or industrial uses of alcohol). However, the English word ‘wine’ has such strong associations with beverages made from grapes that the word ‘alcohol’ is used as a gloss, despite the unwanted connotations of this term.
 \ge alcohol
 \dn 酒
 \gn 酒
