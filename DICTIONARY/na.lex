@@ -7562,6 +7562,39 @@
 \xn 看这种仪式
 \xf regarder le rituel Ddaelaso
 
+\lx ʈʂʰæ˧qæ˥
+\or chaeghae
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°1 des DVD (1.1)
+\ton H#? H$?
+\lc ʈʂʰæ˧qæ˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{chaeghae}”.
+\ge chaeghae_ritual
+\dn 达巴（？？）经。音译为《畅改》。直译：‘？？’（拉他咪王勇：xxxx）。
+\gn 《畅改》仪式
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{chaeghae}».
+\gf rituel_chaeghae
+
+\lx ɕi˩qæ˩
+\or xighae
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°1 des DVD (1.1), avec chaeghae
+\nt <print="n" type="hist" dom="ton" langue="fra"> Serait-ce simplement 'brûler de l'encens', ɕi˩ qæ˧˥? xxxx
+\ton L? L+MH#?
+\lc ɕi˩qæ˩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{xighae}”.
+\ge xighae_ritual
+\dn 达巴（？？）经。音译为《夕改》。直译：‘？？’（拉他咪王勇：xxxx）。
+\gn 《夕改》仪式
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{xighae}».
+\gf rituel_xighae
+
 \lx ʐɯ˧ hwɤ˩
 \or rife
 \mr ʐɯ˧
@@ -7569,14 +7602,15 @@
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°13 des DVD (3.1)
 \ton L#
 \lc ʐɯ˧hwɤ˩
 \so F4
-\de Name of a ritual carried out by the ddabe priest at funerals: “rife”, “passing on alcohol”. The ddabe priest who performs the ritual carries a bowl of alcohol, which he symbolically passes on to the deceased.
+\de Name of a ritual carried out by the |fo{ddabe} priest at funerals: “|fo{rife}”, “passing on alcohol”. The |fo{ddabe} priest who performs the ritual carries a bowl of alcohol, which he symbolically passes on to the deceased.
 \ge passing_on_alcohol_ritual
-\dn ‘递过酒’、‘传酒’：达巴在葬礼上举行的仪式。达巴端着一碗酒，象征性地把酒递给死者。
+\dn 达巴祭酒经。音译为《日璜》或《日划》。直译：‘递过酒’、‘传酒’。达巴在葬礼上举行的仪式。达巴端着一碗酒，象征性地把酒递给死者。“这是一部葬礼中本氏族的亲人为逝者祭奠酒时念诵的经典。唱词抒情，寓意深远，缠绵悱恻，委婉动人”（拉他咪王勇）。
 \gn ‘递过酒’仪式
-\df Nom d'un rituel effectué par le prêtre ddabe lors des funérailles : «rife», «transmission de l'alcool». Le prêtre ddabe qui effectue ce rituel porte un bol d'alcool qu'il transmet symboliquement au défunt.
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe} lors des funérailles: «|fo{rife}», «transmission de l'alcool». Le prêtre |fo{ddabe} qui effectue ce rituel porte un bol d'alcool qu'il transmet symboliquement au défunt.
 \gf rituel_rife
 
 \lx ʐɯ˧ ʈʰɯ˩
