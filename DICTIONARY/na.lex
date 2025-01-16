@@ -9059,11 +9059,14 @@
 \xe We have managed to obtain it! / We found it possible to obtain it!
 \xn （我们）成功地得到了！
 \xf On a réussi à obtenir!
-\xv tso˧~tso˧ ɖɯ˧ (+ze˧)
+\xv tso˧~tso˧ ɖɯ˧
 \xe to obtain something
 \xn 得到东西
 \xf obtenir quelque chose
-\dt 27/Aug/2015
+\xv tso˧~tso˧ ɖɯ˧-ze˧
+\xe has obtained something
+\xn 得到东西了
+\xf a obtenu quelque chose
 
 \lx ə˧ʁɑ˩
 \or Ahra
@@ -9073,20 +9076,20 @@
 \ton L#
 \lc ɑ˧ʁɑ˩
 \so F4
-\de Ahra, a given name carried by a ddabe priest from Yongning.
+\de Ahra, a given name carried by a |fo{ddabe} priest from Yongning.
 \ge Ahra
 \dn 一个名字（过去一位达巴有这个名字）
 \gn 一个名字
-\df Ahra, un nom propre (porté autrefois par un prêtre ddabe).
+\df Ahra, un nom propre (porté autrefois par un prêtre |fo{ddabe}).
 \gf Ahra
 \xv ə˧ʁɑ˩-dɑ˩pɤ˩
 \xn 过去一位达巴有这个名字
-\xe ‘the Ahra ddabe’, ‘Ahra the priest’: the name of a ddabe priest from Yongning
-\xf ‘le prêtre Ahra’, ‘le ddape Ahra’: nom d'un prêtre ddabe de Yongning
+\xe ‘Ahra the priest’, ‘Ahra the |fo{ddabe}’: the name of a |fo{ddabe} priest from Yongning
+\xf ‘le prêtre Ahra’, ‘le |fo{ddabe} Ahra’: nom d'un prêtre |fo{ddabe} de Yongning
 \xv ə˧ʁɑ˩-dɑ˩pɤ˩ | pi˧, | ɬi˧di˩-di˩mi˩-qo˩ | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-v̩˧ dʑo˩-kv̩˩
 \xn 在永宁坝，曾经有一位被称为“Ahra达巴”的人物。
-\xe In Yongning, there was a character known as ‘the Ahra ddabe’.
-\xf À Yongning, il y avait un personnage qu'on appelait «le ddabe Ahra».
+\xe In Yongning, there was a character known as ‘Ahra the |fo{ddabe}’.
+\xf À Yongning, il y avait un personnage qu'on appelait «le |fo{ddabe} Ahra».
 \txt Healing.58
 \doi 10.24397/pangloss-0004541#S58
 
@@ -82559,11 +82562,11 @@
 \xf Contexte: on va couper du bois en montagne, à un endroit où il n'y a pas de chemin. Les gens se succèdent, et cela finit par ouvrir un chemin/former une sorte de chemin
 \sn 2
 \so M18
-\de Remi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Na (Mosuo) person passes away, the Ddabe has to see off his or her soul and guide him or her back to the place where his or her ancestors lived. When performing this ceremony, the Ddabe firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
+\de Remi, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. ‘Remi' means ‘the Way’. When a Na (Mosuo) person passes away, the |fo{ddabe} has to see off his or her soul and guide him or her back to the place where his or her ancestors lived. When performing this ceremony, the |fo{ddabe} firstly recites down from the place where the ancestors lived, and progresses all the way to the village of the soul who has just left the human world. Then he recites the sequence of places the other way round: from the village where this soul lived to the ancestral land. There are five different routes for sending souls back, depending on different ancestries. (Information supplied by Latami Wangyong.)
 \ge Remi.epic
 \dn 达巴口诵经典《仁咪经》。拉他咪王勇解释：《仁咪经》意思是《指路经》。当一个摩梭人离开人世后，达巴就要为其灵魂送行，指引他（她）回到祖先生活的地方。在举行这个仪式时，达巴首先从祖先居住地念下来，一直找到刚离开人世的这个灵魂的村庄，最后又从这个灵魂所居住的村长念诵到祖先地。由于流传地域不同，《仁咪经》有五条不同的送魂线路。
 \gn 《仁咪经》
-\df Remi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne na décède, le Ddabe doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le Ddabe récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances. (Information fournie par Latami Wangyong.)
+\df Remi, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. `Remi' signifie `le chemin'. Lorsqu'une personne na décède, le |fo{ddabe} doit guider son âme dans son retour jusqu'à l'endroit où vivaient ses ancêtres. Lors de cette cérémonie, le |fo{ddabe} récite la liste des noms de lieux en partant du lieu où vivaient les ancêtres, pour parvenir jusqu'au village où habitait celle ou celui dont l'âme vient de quitter le monde des hommes. Il récite ensuite la liste des localités dans l'autre sens : du village où vivait cette âme jusqu'à la terre ancestrale. Il existe cinq chemins différents pour le retour des âmes, en fonction des différentes ascendances. (Information fournie par Latami Wangyong.)
 \gf Remi.épopée
 
 \lx zo˧mv̩˥
@@ -86673,11 +86676,11 @@
 \ton M | L
 \lc tsʰo˧dzɯ˧ | di˩mɤ˩dzɯ˩˥
 \so M18
-\de Cozzi Ddimezzi, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Na (Mosuo) people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The Ddabe ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative. (Information supplied by Latami Wangyong.)
+\de Cozzi Ddimezzi, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics, also known as Zzitu Cotu. This is the Na (Mosuo) people's cosmogony, a narrative about the beginnings of the world and of human peoples. This classic has neither an oral recitation ceremony of its own nor a fixed time for recitation. The |fo{ddabe} ritual practitioners will select some passages to recite orally in each ceremony, using both chanting and recitation: chanting for some parts to be emphasized, and oral recitation as the backbone to the narrative. (Information supplied by Latami Wangyong.)
 \ge Cozzi_Ddimezzi.epic
 \dn 拉他咪王勇解释：达巴口诵经典《搓孜地玛孜经》，也称《孜图搓图》或《搓德鲁若》。这是摩梭人的创世纪史诗，反映了摩梭先民对蒙昧洪荒年代、人类形成之初的想象。这部经典没有专门的口诵仪式和固定的念诵时间。但是，达巴在每个仪式中都要选部分章节来口诵。达巴可以采取演唱和念诵两种方式：演唱选取的是精妙的部分，口诵则是完整的叙述。
 \gn 《搓孜地玛孜经》
-\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple na, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant Ddabe sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit. (Information fournie par Latami Wangyong.)
+\df Cozzi Ddimezzi, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Il s'agit de la cosmogonie du peuple na, un récit sur l'origine du monde et des peuples humains. Cette épopée n'a pas de cérémonie de récitation orale qui lui soit propre, ni de temps fixe pour la récitation. L'officiant |fo{ddabe} sélectionne certains passages pour les réciter oralement lors de chaque cérémonie, en utilisant tantôt la psalmodie, tantôt la récitation: la psalmodie est employée pour mettre en valeur certains passages, tandis que la récitation orale constitue l'ossature du récit. (Information fournie par Latami Wangyong.)
 \gf Cozzi_Ddimezzi.épopée
 
 \lx dzɯ˧tʰv̩˧-tsʰo˧tʰv̩˧
@@ -86697,11 +86700,11 @@
 \ton LM
 \lc hɑ˩nɑ˧gv̩˧
 \so M18
-\de Hanaggu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the Ddape religion came about and the life principles of the Na (Mosuo)'s ancestors. (Information supplied by Latami Wangyong.)
+\de Hanaggu, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the |fo{ddabe} religion came about and the life principles of the Na (Mosuo)'s ancestors. (Information supplied by Latami Wangyong.)
 \ge Hanaggu.epic
 \dn 达巴口诵经典《哈纳鼓经》。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
 \gn 《哈纳鼓经》
-\df Hanaggu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion Ddape et sur les principes de vie des ancêtres des Na (Mosuo). (Information fournie par Latami Wangyong.)
+\df Hanaggu, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion |fo{ddabe} et sur les principes de vie des ancêtres des Na (Mosuo). (Information fournie par Latami Wangyong.)
 \gf Hanaggu.épopée
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
@@ -86713,11 +86716,11 @@
 \lc pʰv̩˧zo˧pʰv̩˧tv̩˧lv̩˧
 \cf lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
 \so M18
-\de Pusso Pudulu, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
+\de Pusso Pudulu, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
 \ge Pusso_Pudulu
 \dn 普若普嘟噜。拉他咪王勇解释：普若普嘟噜是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
+\df Pusso Pudulu, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
 \gf Pusso_Pudulu
 
 \lx lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩
@@ -86729,11 +86732,11 @@
 \lc lv̩˧ɕi˧ʈʂɯ˧nɑ˩hɑ˩
 \cf pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
 \so M18
-\de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
+\de Luxi Zhinaha, one of the two family communities in the “Pusso Pudulu and Luxi Zhinaha” epic, |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics, which narrates how trivial bickering gradually builds up to a feud between families). (Information supplied by Latami Wangyong.)
 \ge Luxi_Zhinaha
 \dn 噜细至纳哈。拉他咪王勇解释：噜细至纳哈是达巴口诵经典《普若普嘟噜和噜细至纳哈经》中的一个家庭社区名称。
 \gn 普若普嘟噜
-\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
+\df Luxi Zhinaha, l'une des deux familles éponymes de l'épopée «Pusso Pudulu et Luxi Zhinaha» |fv{pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧ lv̩˧ɕi˧-ʈʂɯ˧nɑ˩hɑ˩} (l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}, qui raconte comment des chamailleries en cascade aboutissent à une guerre entre familles). (Information fournie par Latami Wangyong.)
 \gf Luxi_Zhinaha
 
 \lx kv̩˧pv̩˧
@@ -86744,11 +86747,11 @@
 \ton M
 \lc kv̩˧pv̩˧
 \so M18
-\de Gubu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic for worshipping the well water. It is usually recited in the second month of the lunar calendar every year. If someone cut down a tree next to the well water, threw unclean dirt into the well water, or offended the god of the well water, they may get a wound or get sick. Then the Gubu epic is recited as rituals for healing are performed. (Information supplied by Latami Wangyong.)
+\de Gubu, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. This is a classic for worshipping the well water. It is usually recited in the second month of the lunar calendar every year. If someone cut down a tree next to the well water, threw unclean dirt into the well water, or offended the god of the well water, they may get a wound or get sick. Then the Gubu epic is recited as rituals for healing are performed. (Information supplied by Latami Wangyong.)
 \ge Gubu.epic
 \dn 《估布经》。拉他咪王勇解释：《估布经》是祭祀井水（龙潭）的经典。通常在每年的农历二月举行念诵仪式。主要讲的是一个叫“比茨若”的人因砍伐井水旁的树木、或者把不干净的污物扔到井水里、或者得罪井水神“日目估”，就会不明不白的染上伤口或生病，这时就要举行祭祀同时念诵《估布经》。
 \gn 《估布经》
-\df Gubu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'un classique pour célébrer l'eau du puits. Il est généralement récité chaque année au cours du deuxième mois du calendrier lunaire. Si quelqu'un coupe un arbre à côté du puits, jette des impuretés dans l'eau du puits ou offense le dieu de l'eau du puits, il risque de se blesser ou de tomber malade. L'épopée Gubu est alors récitée, et des rituels de guérison sont effectués. (Information fournie par Latami Wangyong.)
+\df Gubu, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Il s'agit d'un classique pour célébrer l'eau du puits. Il est généralement récité chaque année au cours du deuxième mois du calendrier lunaire. Si quelqu'un coupe un arbre à côté du puits, jette des impuretés dans l'eau du puits ou offense le dieu de l'eau du puits, il risque de se blesser ou de tomber malade. L'épopée Gubu est alors récitée, et des rituels de guérison sont effectués. (Information fournie par Latami Wangyong.)
 \gf Gubu.épopée
 
 \lx dzɯ˧dʑo˩
@@ -86759,11 +86762,11 @@
 \ton L#
 \lc dzɯ˧dʑo˩
 \so M18
-\de Zzijjo, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This is a classic that is recited for the healthy continuation of life. The main ceremony is held at the time of the coming of age ritual, at the age of 13. In Na (Mosuo) people's view, 13 years old means the renewal of life. The ages of 25, 37, 49 and 61 are likewise junctures of life, at which ceremonies must be held so the wheel of life rolls on smoothly. (Information supplied by Latami Wangyong.)
+\de Zzijjo, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. This is a classic that is recited for the healthy continuation of life. The main ceremony is held at the time of the coming of age ritual, at the age of 13. In Na (Mosuo) people's view, 13 years old means the renewal of life. The ages of 25, 37, 49 and 61 are likewise junctures of life, at which ceremonies must be held so the wheel of life rolls on smoothly. (Information supplied by Latami Wangyong.)
 \ge Zzijjo.epic
 \dn 《仔迥经》。拉他咪王勇解释：这部经典是为了生命的延续、绵长而念诵的经典。主要仪式在年满13岁虚岁举行成年礼时举行。在摩梭人看来，虚岁13岁意味着生命的重续。此外，25岁，37岁，49岁，61岁都是生命的关口，也必须举行仪式来重续年轮，使生命长寿。
 \gn 《仔迥经》
-\df Zzijjo, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Na (Mosuo), l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
+\df Zzijjo, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Il s'agit d'une épopée qui est récitée pour favoriser la bonne poursuite d'une vie en bonne santé. La cérémonie principale a lieu au moment du rituel de passage à l'âge adulte, à treize ans révolus. Pour les Na (Mosuo), l'âge de 13 ans est synonyme de renouveau de la vie. Les âges de 25, 37, 49 et 61 ans sont également des étapes cruciales de la vie, au cours desquelles des cérémonies doivent être organisées pour que la roue de la vie tourne sans heurts. (Information fournie par Latami Wangyong.)
 \gf Zzijjo.épopée
 
 \lx ʈʂɯ˧pv̩˧-ʈʂɯ˧dv̩˧
@@ -86774,9 +86777,9 @@
 \ton M
 \lc ʈʂɯ˧pv̩˧ʈʂɯ˧dv̩˧
 \so M18
-\de Zhibu Zhiddu, one of the seven Ddabe |fv{dɑ˧pɤ˧} classic epics. This epic is about human beings in a mythic period when human beings could not distinguish between heaven and earth, or sun and moon; when they could not distinguish between sour, spicy, bitter and sweet; they did not know how to plant crops and raise livestock; and they lived in a mixed life with ghosts and gods. Eventually, through a harrowing process of migration, they find a path of their own. (Information supplied by Latami Wangyong.)
+\de Zhibu Zhiddu, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. This epic is about human beings in a mythic period when human beings could not distinguish between heaven and earth, or sun and moon; when they could not distinguish between sour, spicy, bitter and sweet; they did not know how to plant crops and raise livestock; and they lived in a mixed life with ghosts and gods. Eventually, through a harrowing process of migration, they find a path of their own. (Information supplied by Latami Wangyong.)
 \ge Zhibu_Zhiddu.epic
 \dn 《仔迥经》。拉他咪王勇解释：这部经典主要讲述人类处在梦寐时期的情景：人类分不清天地、日月、星辰；分辨不出酸辣苦甜；不知道种植和豢养牲畜；人鬼神混杂生活。最终经历了迁徙、苦难找到了生存之路。
 \gn 《仔迥经》
-\df Zhibu Zhiddu, l'une des sept épopées classiques de la religion Ddabe |fv{dɑ˧pɤ˧}. Cette épopée raconte l'histoire des êtres humains à une époque mythique où ils ne pouvaient pas faire la différence entre le ciel et la terre, ni entre le soleil et la lune; où ils ne pouvaient pas faire la différence entre l'aigre, le piquant, l'amer et le doux; où ils ne savaient pas planter des cultures ni élever du bétail; et où ils vivaient mêlés aux fantômes et aux dieux. Finalement, au terme de migrations éprouvantes, ils trouvent leur propre voie. (Information fournie par Latami Wangyong.)
+\df Zhibu Zhiddu, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Cette épopée raconte l'histoire des êtres humains à une époque mythique où ils ne pouvaient pas faire la différence entre le ciel et la terre, ni entre le soleil et la lune; où ils ne pouvaient pas faire la différence entre l'aigre, le piquant, l'amer et le doux; où ils ne savaient pas planter des cultures ni élever du bétail; et où ils vivaient mêlés aux fantômes et aux dieux. Finalement, au terme de migrations éprouvantes, ils trouvent leur propre voie. (Information fournie par Latami Wangyong.)
 \gf Zhibu_Zhiddu.épopée
