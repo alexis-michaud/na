@@ -86700,11 +86700,11 @@
 \ton LM
 \lc hɑ˩nɑ˧gv̩˧
 \so M18
-\de Hanaggu, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the |fo{ddabe} religion came about and the life principles of the Na (Mosuo)'s ancestors. (Information supplied by Latami Wangyong.)
+\de |fo{Hanaggu}, one of the seven |fo{ddabe} |fv{dɑ˧pɤ˧} classic epics. It serves as a spectacular introduction to the ceremony, replete with thunder and lightning. The content is mainly about how the |fo{ddabe} religion came about and the life principles of the Na (Mosuo)'s ancestors. (Information supplied by Latami Wangyong.)
 \ge Hanaggu.epic
-\dn 达巴口诵经典《哈纳鼓经》。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
+\dn 达巴口诵经典《哈纳鼓》经（还称作《哈纳估》经）。拉他咪王勇解释：在开始仪式之前，达巴以雷霆万钧之势讲述。内容主要是达巴教的形成过程和摩梭先民的行为规范等。
 \gn 《哈纳鼓经》
-\df Hanaggu, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion |fo{ddabe} et sur les principes de vie des ancêtres des Na (Mosuo). (Information fournie par Latami Wangyong.)
+\df |fo{Hanaggu}, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Spectaculaire, accompagnée de force effets instrumentaux figurant tonnerre et éclairs, elle sert d'introduction à la cérémonie. Le contenu porte principalement sur l'origine de la religion |fo{ddabe} et sur les principes de vie des ancêtres des Na (Mosuo). (Information fournie par Latami Wangyong.)
 \gf Hanaggu.épopée
 
 \lx pʰv̩˧zo˧-pʰv̩˧tv̩˧lv̩˧
@@ -86783,3 +86783,106 @@
 \gn 《仔迥经》
 \df Zhibu Zhiddu, l'une des sept épopées classiques de la religion |fo{ddabe} |fv{dɑ˧pɤ˧}. Cette épopée raconte l'histoire des êtres humains à une époque mythique où ils ne pouvaient pas faire la différence entre le ciel et la terre, ni entre le soleil et la lune; où ils ne pouvaient pas faire la différence entre l'aigre, le piquant, l'amer et le doux; où ils ne savaient pas planter des cultures ni élever du bétail; et où ils vivaient mêlés aux fantômes et aux dieux. Finalement, au terme de migrations éprouvantes, ils trouvent leur propre voie. (Information fournie par Latami Wangyong.)
 \gf Zhibu_Zhiddu.épopée
+
+\lx dv̩˩dzi˥
+\or dduzzee
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°2 des DVD (1.2)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton LM? LH? LM+#H?
+\lc dv̩˩dzi˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{dduzzee}”.
+\ge dduzzee_ritual
+\dn 达巴《嘟紫》经。
+\gn 《嘟紫》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{dduzzee}».
+\gf rituel_dduzzee
+
+\lx ɖʐæ˧ɖʐæ˥
+\or zzhaezzhae
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°4 des DVD (1.4)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton H#? H$?
+\lc ɖʐæ˧ɖʐæ˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{zzhaezzhae}”.
+\ge zzhaezzhae_ritual
+\dn 达巴《章占》经。
+\gn 《章占》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{zzhaezzhae}».
+\gf rituel_zzhaezzhae
+
+\lx æ˩mi˧so˧
+\or aemiso
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°5 des DVD (1.5)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton LM? LM+#H?
+\lc æ˩mi˧so˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{aemiso}”.
+\ge aemiso_ritual
+\dn 达巴《暗咪诵》经。
+\gn 《暗咪诵》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{aemiso}».
+\gf rituel_aemiso
+
+\lx ʑi˩ʝi˥
+\or xxiyi
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°6 des DVD (1.6)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton LM? LH? LM+#H?
+\lc ʑi˩ʝi˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{xxiyi}”.
+\ge xxiyi_ritual
+\dn 达巴《移耶》经。
+\gn 《移耶》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{xxiyi}».
+\gf rituel_xxiyi
+
+\lx lv̩˧ɣɯ˧ɣɯ˧
+\or luhreehree
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°7 des DVD (2.1)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton L? L+#H?
+\lc lv̩˧ɣɯ˧ɣɯ˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{luhreehree}”.
+\ge luhreehree_ritual
+\dn 达巴《鲁俄俄》经。
+\gn 《鲁俄俄》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{luhreehree}».
+\gf rituel_luhreehree
+
+\lx pʰv̩˩zo˩-pʰv̩˥tv̩˩lv̩˩ | lv˧ɕi˧ʈʂɯ˧nɑ˩hɑ˩
+\or Pussopudulu Luxizhinaha
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°8 des DVD (2.2)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton L? L+#H?
+\lc lv˧ɣɯ˧ɣɯ˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Pussopudulu Luxizhinaha}”. This is an allegorical story: a child from one clan wanted to eat sweet fruits, and a child from another clan wanted to eat bitter fruits; the argument escalated step by step and incident after incident, eventually leading to an all-out war between the two clans. The story serves as a warning that small things that are left unattended and unchecked can lead to major trouble. (Source: Latami Wangyong.)
+\ge Pussopudulu_Luxizhinaha_ritual
+\dn 达巴《普若普嘟噜和噜细至纳哈》经。这是一个寓意故事：普若普嘟噜“斯日”的孩子想吃甜水果，噜细至纳哈“斯日”的孩子想吃苦水果，争执中逐渐升级，最终引发了两个“斯日”之间的全面战争，警示小事不加制止可能酿成大祸。（信息来源：拉他咪王勇对达巴经的研究。）
+\gn 《普若普嘟噜和噜细至纳哈》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Pussopudulu Luxizhinaha}». Il s'agit d'une histoire allégorique: un enfant d'un clan voulait manger des fruits sucrés, et un enfant d'un autre clan voulait manger des fruits amers; la dispute s'est propagée et intensifiée, pour finalement aboutir à une guerre entre deux clans. Cette histoire sert d'avertissement: les petites chamailleries peuvent dégénérer et entraîner de graves problèmes si elles ne sont pas gérées attentivement. (Source : Latami Wangyong.)
+\gf rituel_pussopudulu_luxizhinaha
+
