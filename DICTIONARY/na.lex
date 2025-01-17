@@ -62456,13 +62456,15 @@
 \cf ʈʂo˧kʰɯ˩
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°17 des DVD (4.2)
+\nt <print="n" dom="sem" langue="fra"> xxxx interprétation par TS à vérifier: réinterprétation du rituel? nouvelle pratique? ou versatilité du rituel, pour tout ce qui concerne les liens maintenus entre famille d'origine et famille d'adoption par mariage?
 \ton L#
 \so F4
-\de Sikee: the ritual performed for the death of a female relative who left her maternal home to marry.
+\de Sikee: the ritual performed for the death of a female relative who left her maternal home to marry. “When the father-in-law or mother-in-law of their sister passes away, the brothers have to go to the funeral ceremony to carry out a ritual involving the recitation of a specific piece by the |fo{ddabe}. It expresses the love of brothers and sisters: the sister lived with her brothers and sisters when she was unmarried; after married, she was busy with her new family. In this ceremony, the brother contributes a cow or a goat to support his sister, thereby expressing that they share the same burden.” (Latami Wangyong)
 \ge name_of_ritual
-\dn 斯克：嫁到外边的女人去世时进行的仪式
+\dn 《斯克》：嫁到外边的女人去世时进行的仪式。“当姐姐或妹妹的公公或婆婆离世，做哥哥或弟弟的要去办理葬礼时举行的仪式中念诵的一部经典，由达巴来完成。主要表达兄弟姊妹之情：姐姐或者妹妹未出嫁时和兄弟姊妹们一起劳作，出嫁以后为自己的家忙碌。在这个仪式中，哥哥或者弟弟贡献一头牛或者一只羊子，支持姐姐或者妹妹，表示有难同当。”（拉他咪王勇）
 \gn 斯克仪式
-\df Sikee: le rituel réalisé lors du décès d'une femme qui a quitté la maison de sa mère pour se marier.
+\df Sikee: le rituel réalisé lors du décès d'une femme qui a quitté la maison de sa mère pour se marier. «Lorsque le beau-père ou la belle-mère de leur sœur décède, les frères doivent se rendre à la cérémonie funéraire pour accomplir un rituel qui comporte la récitation d'un texte spécifique par le |fo{ddabe}. Ce rituel exprime l'amour entre frères et sœurs: avant son mariage, la sœur vivait avec ses frères et sœurs; après son mariage, elle rejoint sa nouvelle famille, et devient absorbée par cette dernière. Lors de cette cérémonie, le frère offre une vache ou une chèvre à sa sœur, exprimant par là qu'il considère le fardeau porté par la sœur comme demeurant partagé avec ses frères.
 \gf nom_d_un_rituel
 \xv sɯ˧kʰɯ˩ hĩ˩: | ɖɯ˧-ʑi˩.
 \xe The people who come together for the sikee ritual are a family. / The people who come together for the sikee ritual are the whole family.
@@ -74364,7 +74366,9 @@
 \lc ʈʂʰo˧do˩
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\nt <print="n" dom="sem" langue="fra"> Rituel n°28 des DVD (6.1)
 \ton L#
+\sn 1
 \so F4
 \pdv ɭɯ˧β
 \de Small eminence next to the hearth, symbolising the ancestors, on top of which some food is offered at the beginning of each meal.
@@ -74373,7 +74377,18 @@
 \gn 祖先灵位
 \df Petite éminence juste à côté du foyer, en contrebas de l'autel où on offre des cadeaux aux ancêtres; c'est sur cette petite éminence qu'on dépose un peu de nourriture au début de chaque repas, en offrande aux ancêtres.
 \gf éminence_sacrée_dans_le_foyer
-\dt 27/Apr/2017
+\sn 2
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Choddo}”. “A first level of meaning of ‘Choddo’ is: ‘I see, I understand’. A second level of meaning is as an exclamation, equivalent to ‘Amen’. This is a text for sacrificing to the god of the hearth, above the fire. The first thing the |fo{ddabe} does in his ritual at the fire pit is to sacrifice to the hearth. There are two versions of the ‘Choddo’ text: the folk version, which is used daily in the Na house, and the classical version, which is used by the |fo{ddabe}. Each Na house has three meals a day; before each meal, they pay tribute to the food they eat at the hearth and recite the |fo{Choddo} verses orally, usually just a few simple lines to indicate that they are inviting their deceased ancestors to eat first. On the other hand, the |fo{ddabe} provides a formal rendition of the whole text; in his sacrifice to the deities of the hearth, he invites the five gods of heaven and earth.” (Latami Wangyong)
+\ge Choddo_ritual
+\dn 达巴《冲朵》经。“‘冲朵’第一层意思：我看见、我明白。第二层意思：近乎叹词：“阿门”。这是祭祀火塘上方锅庄神的经典。达巴在火塘边做仪式首先要祭祀锅庄。《冲朵经》有两种版本：摩梭家屋日常使用的民间版和达巴所使用的经典版。每个摩梭家屋一日三餐前都要在锅庄贡上所食用的食物，并口诵《冲朵经》，一般只念诵简单的几句，表明先请逝去的祖先食用。而达巴则不同，如果他们要举行祭祀锅庄神灵，邀请天地间5方神，就要认真念诵完整部经典。”（拉他咪王勇）
+\gn 《冲朵》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Choddo}». «Un premier sens de «|fo{Choddo}» est «je vois, je comprends». Un deuxième niveau de signification est une exclamation, équivalent de «Amen». Il s'agit d'un rituel pour sacrifier aux divinités de l'âtre, qui résident au-dessus du feu. La première chose que fait le |fo{ddabe} dans ce rituel est de sacrifier à l'âtre. Il existe deux versions de «Choddo»: une version simple utilisée quotidiennement dans la maison Na, et une version complète, classique, dite par le |fo{ddabe}. Chaque maison na organise trois repas par jour; avant chaque repas, les membres de la maison rendent hommage à la nourriture qu'ils consomment en en déposant un peu en contrehaut du foyer, tout en récitant oralement des versets du texte «|fo{Choddo}»: quelques mots pour indiquer qu'ils invitent leurs ancêtres décédés à manger en premier. En revanche, le |fo{ddabe} pratique un rituel qui comprend la récitation de l'ensemble du texte. Dans son sacrifice aux divinités de l'âtre, il invite les cinq dieux du ciel et de la terre.» (Latami Wangyong)
+\gf rituel_Choddo
+\xv ʈʂʰo˧do˩ ʈʂʰo˩
+\xe to practise the Choddo ritual
+\xn 进行《冲朵》仪式
+\xf pratiquer le rituel Choddo
 
 \lx tsɤ˧ɖɯ˧
 \sf <nb="B"> 1693
@@ -86884,5 +86899,275 @@
 \dn 达巴《普若普嘟噜和噜细至纳哈》经。这是一个寓意故事：普若普嘟噜“斯日”的孩子想吃甜水果，噜细至纳哈“斯日”的孩子想吃苦水果，争执中逐渐升级，最终引发了两个“斯日”之间的全面战争，警示小事不加制止可能酿成大祸。（信息来源：拉他咪王勇对达巴经的研究。）
 \gn 《普若普嘟噜和噜细至纳哈》经
 \df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Pussopudulu Luxizhinaha}». Il s'agit d'une histoire allégorique: un enfant d'un clan voulait manger des fruits sucrés, et un enfant d'un autre clan voulait manger des fruits amers; la dispute s'est propagée et intensifiée, pour finalement aboutir à une guerre entre deux clans. Cette histoire sert d'avertissement: les petites chamailleries peuvent dégénérer et entraîner de graves problèmes si elles ne sont pas gérées attentivement. (Source : Latami Wangyong.)
-\gf rituel_pussopudulu_luxizhinaha
+\gf rituel_Pussopudulu_Luxizhinaha
+
+\lx mɑ˧bv̩˧dzɯ˧ʐv̩˧
+\or Mabbuzziru
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°9 des DVD (2.3)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton M? M+#H?
+\lc mɑ˧bv̩˧dzɯ˧ʐv̩˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Mabbuzziru}”.
+\ge Mabbuzziru_ritual
+\dn 达巴《玛部紫如》经。
+\gn 《玛部紫如》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Mabbuzziru}».
+\gf rituel_Mabbuzziru
+
+\lx so˧ qæ˩
+\or Soghae
+\mr so˥1
+\mr qæ˧˥1
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituels n°10 et 11 des DVD (2.4 et 2.5)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton etc.
+\ton L#
+\lc so˧ qæ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Soghae}”, literally ‘burning incense’. This ritual is mainly recited during harvest celebrations, when there is a new addition to the family, at the birth of domestic animals large and small, and at sacrifices to the mountain gods. In autumn, sacrifices are made to the mountain gods as well as to the gods of livestock, water, sky and land. The names of the gods recited during the rituals vary depending on the place and time. The tone of voice is mostly one of gratefulness, humility and supplication. Some passages are sung, while others are chanted. Accompanying actions include blowing the conch and beating the drum and gong. Participants in the ceremony, regardless of their age, are required to kowtow in the direction of the gods and to bow to the |fo{ddabe} in thanksgiving. The procedure of the ceremony is essentially as follows: a table is placed in the house, a butter lamp is lit on the tabletop, two bunches of flowers are placed behind the lamp, and butter tea, preserved pig and grains are placed as an offering, next to the table. In front of the |fo{ddabe}, a pot of beverage made of fresh milk and water is placed. (Source: Latami Wangyong.)
+\ge Soghae_ritual
+\dn 达巴《梭嘎》经，也称作《梭改》经。分‘大’与‘小’两种。““梭嘎”即煨桑、烧香。这个经典主要在喜庆丰收、家里新添人丁、大小牲畜下崽、祭祀山神等时节念诵。秋天祭祀山神的同时也祭祀牲畜神、水神、天神和土地神。祭祀过程中念到的神名因居住地的不同而有变化，其他内容大同小异。祭祀口诵赞美语很多，语气为祈求语，或者谦卑语较多。有些段落是唱词，有些段落则是经文格式，韵律感很强。辅助的仪式方式有吹海螺，敲鼓和打锣。参加仪式的成员不分长幼都要向诸神方向磕头和向达巴磕头谢恩。仪式的程序大致是：在屋里放置一张桌子，桌面点上酥油灯，灯后放两束花，旁边敬着酥油茶、猪膘肉和五谷杂粮。达巴前放置一盆由鲜奶和清水融成的净水，一边念诵一边祭祀。”（拉他咪王勇）
+\gn 《梭嘎》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{soghae}», littéralement «brûler de l'encens». Ce rituel est principalement récité lors des récoltes, de l'arrivée d'un nouveau membre dans la famille, de la naissance d'animaux domestiques petits et grands, et des sacrifices aux divinités de la montagne. En automne, des sacrifices sont faits aux divinités de la montagne ainsi qu'aux divinités du bétail, de l'eau, du ciel et de la terre. Les noms des divinités récités lors des rituels varient en fonction du lieu et du moment. Le ton de la voix exprime essentiellement gratitude, humilité et supplication. Certains passages sont chantés, d'autres sont psalmodiés. Les actions qui accompagnement le rituel comprennent le fait de souffler dans une conque et de battre le tambour et le gong. Les participant·es à la cérémonie, quel que soit leur âge, sont tenu·es de se prosterner en direction des divinités et de s'incliner devant le |fo{ddabe} pour marquer leur reconnaissance. Le déroulement de la cérémonie est le suivant: une table est placée dans la maison, une lampe à beurre y est allumée, deux bouquets de fleurs sont placés derrière la lampe, et du thé au beurre, du porc affiné et des céréales sont déposés en offrande à côté de la table. Un pot de boisson composé de lait frais mêlé à de l'eau est placé devant le |fo{ddabe}. (Source: Latami Wangyong.)
+\gf rituel_Soghae
+
+\lx sɯ˧bv̩˧tʰv̩˥ (sɯ˧pv̩˧tʰv̩˧˥?)
+\or Sibbutu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°12 des DVD (2.6)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton et la consonne de la 2e syllabe. Noté sɯ˧bv˧tʰv˥ dans l'index des DVD, mais noté sɯ˧pv˧tʰv˧˥ dans l’article en chinois au sujet des rituels ddabe.
+\ton H#? H$? MH#?
+\lc sɯ˧bv̩˧tʰv̩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Sibbutu}”. “There are many different versions of |fo{Sibbutu}. For example, it is a blessing recited (i) for the rite of passage to adulthood at the age of thirteen, (ii) during funeral ceremonies, (iii) on festive occasions and (iv) in honour of the ancestors.” (Source: Latami Wangyong.)
+\ge Sibbutu_ritual
+\dn 达巴《斯部图》经，也称作《斯部吐》经。““斯部图”有多种不同版本。如为年满13虚岁举行成年礼仪式口诵的祝福经典，在丧葬仪式时念诵的经典，在节日里念诵的经典以及祭祀祖先时念诵的经典。”（拉他咪王勇）
+\gn 《梭嘎》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Sibbutu}». «Il existe de nombreuses versions différentes de |fo{Sibbutu}. Cette bénédiction est notamment récitée lors du rite de passage à l'âge adulte à treize ans, lors de cérémonies funéraires, lors d'occasions festives, et en l'honneur des ancêtres.» (Source: Latami Wangyong.)
+\gf rituel_Sibbutu
+
+\lx ʐɯ˧ dzɯ˧
+\or Rizzi
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°14 des DVD (3.2)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton
+\ton M? #H?
+\lc ʐɯ˧ dzɯ˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Rizzi}”.
+\ge Rizzi_ritual
+\dn 达巴《日紫》经。
+\gn 《日紫》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Rizzi}».
+\gf rituel_Rizzi
+
+\lx tsʰo˧ɖʐɯ˧ hwɤ˩
+\or Cozzhife
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°15 des DVD (3.3)
+\nt <type="hist" langue="fra" print="n"> xxxx vérifier le ton. À voir : est-ce la même chose que 《蜘鬼经》（ɖʐɯ˧）?
+\ton L#
+\lc tsʰo˧ɖʐɯ˧ hwɤ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Cozzhife}”.
+\ge Cozzhife_ritual
+\dn 达巴《搓之阔》经。
+\gn 《搓之阔》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Cozzhife}».
+\gf rituel_Cozzhife
+
+\lx le˧-hɑ̃˧˥
+\or Le Han
+\mr le˧-
+\mr hɑ̃˧˥2
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°16 des DVD (4.1)
+\ton MH#
+\lc le˧hɑ̃˧˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Le Han}”. Literal translation: “to spend the night, to sleep”. “This is a classic text that is recited every night as people go to sleep, during the period of a funeral ceremony. The |fo{ddabe} ensures the quiet repose of the deceased by reciting verses throughout the night, until the first crow of the cock the next day.” (Source: Latami Wangyong)
+\ge Le_Han_ritual
+\dn 达巴《嘞哈》经（也称作《来哈》经）。直译：‘过夜’。“这是在丧葬仪式中每晚入睡前给逝者口诵的经典。丧葬仪式期间，达巴通过整晚念诵经文让逝者安静入睡，直到第二天鸡叫头遍。”（拉他咪王勇）
+\gn 《搓之阔》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Le Han}». Littéralement: «passer la nuit, dormir». «Il s'agit d'un texte classique qui est récité tous les soirs avant que les gens ne s'endorment, pendant la période de la cérémonie funéraire. Le |fo{ddabe} veille au repos paisible du défunt en récitant au long de la nuit, jusqu'au premier chant du coq le lendemain.» (Source: Latami Wangyong)
+\gf rituel_Le_Han
+
+\lx ʈʂʰwɤ˩ qʰæ˩
+\or Chuakhae
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°18 des DVD (4.3)
+\ton L
+\lc ʈʂʰwɤ˩ qʰæ˩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Chuakhae}”.
+\ge Chuakhae_ritual
+\dn 达巴《传楷》经。
+\gn 《传楷》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Chuakhae}».
+\gf rituel_Chuakhae
+
+\lx ɕjɤ˧ʈʂʰɯ˩-lɑ˩
+\or Xeteela
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°19 des DVD (4.4)
+\nt <print="n" dom="sem" langue="fra"> xxxx noté /ɕjɤ˧ʈʂʰɯ˧-lɑ˩/ dans l'article (ton différent)
+\ton L#-
+\lc ɕjɤ˧ʈʂʰɯ˩lɑ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Xeteela}”. “This is a dialogue between a maternal uncle and his nieces and nephews. In Na women's funeral, the participant of the uncle is considered exceptionally important. Upon the arrival of the uncle, gifts of wine, meat, tea, etc. are placed in front of him. He sits at the place of honour at the square table, and all the nieces and nephews have to kneel down in front of the uncle to apologize to him. The chanting reflects the uncle's high status, the pain of living apart from his sisters and the relentless confirmation of the blood relationship between uncle and nephews. At any point of the chanting, the uncle is allowed (and expected) to lose his temper, abusing his authority, whereas the nieces and nephews must never answer back: they can only make amends. Eventually, however, another figure of authority stands forward to regulate the situation and curb the uncle's blunt assertion of his power.” (Source: Latami Wangyong.)
+\ge Xeteela_ritual
+\dn 达巴《晓迟拉》经，也称作《晓持啦》。“这是一部舅舅与甥男甥女们的对话录。在摩梭人的女性葬礼中，最高级别就是舅父奔丧。舅舅到来后，舅舅面前摆满酒肉茶等礼物，舅舅坐在方桌上方，所有甥男甥女们都要长跪在舅舅面前，向他道歉。唱词反映出舅舅的崇高地位，与姐妹分开居住的痛苦以及对甥舅血缘关系的执着确认。在整个念诵过程中，舅舅可以发脾气、可以借题发挥，而甥男甥女们只能赔礼，绝不能反驳。不过，最终会有威望的人物出来调节。”（拉他咪王勇）
+\gn 《晓迟拉》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Xeteela}». «Il s'agit d'un dialogue entre un oncle maternel et ses nièces et neveux. Lors des funérailles d'une femme na, la participation de l'oncle est considérée comme exceptionnellement importante. À l'arrivée de l'oncle, des offrandes sont déposées devant lui: alcool, viande, thé, etc. Il s'assied à la place d'honneur de la table carrée, et toutes les nièces et tous les neveux doivent se prosterner devant l'oncle pour lui présenter leurs excuses. Le texte du rituel exprime le statut élevé de l'oncle (figure d'autorité) et la douleur de vivre séparé de ses sœurs. Il affirme de façon implacable le lien de sang qui unit oncle et neveux. Le comportement attendu de l'oncle est qu'à tout moment de la psalmodie, il s'emporte soudain, affichant son autorité et abusant de son pouvoir. Nièces et neveux ne doivent jamais répliquer: ils ne peuvent que faire amende honorable. Enfin, une autre figure d'autorité finit par intervenir pour réguler la situation et brider l'affirmation brutale, par l'oncle, de ses prérogatives et de son pouvoir.» (Latami Wangyong)
+\gf rituel_Xeteela
+
+\lx ʂo˧pɤ˧-lɑ˩
+\or Shobela
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°20 des DVD (4.5)
+\ton -L
+\lc ʂo˧pɤ˧lɑ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Shobela}”.
+\ge Shobela_ritual
+\dn 达巴《硕吧啦》经。
+\gn 《硕吧啦》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Shobela}».
+\gf rituel_Shobela
+
+\lx ʐwæ˧ʈʂʰæ˧
+\or Ruaechae
+\mr ʐwæ˥
+\mr ʈʂʰæ˥
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°21 des DVD (4.6)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à vérifier
+\ton M? #H?
+\lc ʐwæ˧ʈʂʰæ˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Ruaechae}”. Literal translation: ‘washing the horse’. “During the funeral, the families of the same clan, each riding a horse, gather at the house of the deceased. The house of the deceased is to find a very beautiful horse on which the soul of the deceased is to ride, and let this horse go out first, and all the people ride after it. The horse team goes around the places where the deceased has passed and laboured, all looking and walking. Then coming to the place of confluence of three streams of water meet, the |fo{ddabe} chants this text while washing the horse on which the soul of the deceased is riding. The ceremony is then complete. The |fo{ddabe} then returns in front of the bier of the deceased, where he provides an account of how the |fo{Ruaechae} ritual has been completed.” (Source: Latami Wangyong.)
+\ge Ruaechae_ritual
+\dn 达巴《软缠》仪式经，也称作《软产》仪式经。直译：‘洗马’。“葬礼中，同一个氏族的各户人家，每家骑一匹马，聚集在逝者家里，逝者家屋要找一匹很漂亮的马，让逝者的魂魄骑在这匹马上，让这匹马先出门，众人骑随。马队绕行在逝者路过、劳作过的地方，都要看看走走，然后，来到三股水汇合的河面，一边诵经典，一边洗这匹骑着逝者魂魄的马。软产仪式完成，达巴要在逝者的灵柩前陈述软产的过程。”（拉他咪王勇）
+\gn 《软缠》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ruaechae}», littéralement «laver le cheval». «Lors des funérailles, les familles d'un même clan, chacune montée sur un cheval, se rassemblent à la maison du défunt. La maison du défunt doit trouver un très beau cheval, sur lequel l'âme du défunt est invitée à monter. Ce cheval sort de la ferme et prend la tête d'une procession dans laquelle toutes les autres montures lui emboîtent le pas. La troupe fait le tour des lieux où le défunt est passé et a travaillé. Arrivé au point de confluence de trois cours d'eau, le |fo{ddabe} psalmodie le texte («|fo{Ruaechae}») en faisant la toilette du cheval qui porte l'âme du défunt. La cérémonie est alors terminée. Le |fo{ddabe} retourne ensuite auprès du cercueil du défunt, où il rend compte de la manière dont le rituel du |fo{Ruaechae} s'est déroulé.» (Source: Latami Wangyong.)
+\gf rituel_Ruaechae
+
+\lx po˧so˧
+\or Boso
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°22 des DVD (5.1)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à vérifier
+\ton M? #H?
+\lc po˧so˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Boso}”.
+\ge Boso_ritual
+\dn 达巴《波诵》经。
+\gn 《波诵》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Boso}».
+\gf rituel_Boso
+
+\lx njɤ˧mv̩˧qʰæ˩
+\or Njamukhae
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°23 des DVD (5.2)
+\ton L#
+\lc njɤ˧mv̩˧qʰæ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Njamukhae}”.
+\ge Njamukhae_ritual
+\dn 达巴《年目楷》经。
+\gn 《年目楷》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Njamukhae}».
+\gf rituel_Njamukhae
+
+\lx do˧nɑ˧
+\or Ddona
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°24 des DVD (5.3)
+\ton M? #H?
+\lc do˧nɑ˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Ddona}”.
+\ge Ddona_ritual
+\dn 达巴《多纳》经。
+\gn 《多纳》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ddona}».
+\gf rituel_Ddona
+
+\lx tsʰe˧tʰɑ˧kʰɯ˩
+\or Ceitakee
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°25 des DVD (5.4)
+\ton L#
+\lc tsʰe˧tʰɑ˧kʰɯ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Ceitakee}”.
+\ge Ceitakee_ritual
+\dn 达巴《测塔克》经。
+\gn 《测塔克》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ceitakee}».
+\gf rituel_Ceitakee
+
+\lx bo˩qʰo˧-sɯ˧pv̩˥
+\or Bbokho Sibu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°26 des DVD (5.5)
+\ton LM+MH#
+\lc bo˩qʰo˧sɯ˧pv̩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Bbokho Sibu}”.
+\ge Bbokho_Sibu_ritual
+\dn 达巴《波阔斯部》经。
+\gn 《波阔斯部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Bbokho Sibu}».
+\gf rituel_Bbokho_Sibu
+
+\lx ə˧go˧-ʁwɤ˧ʈʂɯ˧lo˧zo˥ | kʰɯ˧ʝi˧pʰv̩˧ pɤ˧-mi˧
+\or Aggowua Zhilosso Keeyipu Bemi
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°27 des DVD (5.6)
+\ton H# | M
+\lc ə˧go˧ʁwɤ˧ʈʂɯ˧lo˧zo˥ kʰɯ˧ʝi˧pʰv̩˧ pɤ˧mi˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Aggowua Zhilosso Keeyipu Bemi}”.
+\ge Aggowua_Zhilosso_Keeyipu_Bemi_ritual
+\dn 达巴《啊公瓦之若／楷移部吧咪》经。
+\gn 《啊公瓦之若／楷移部吧咪》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Aggowua Zhilosso Keeyipu Bemi}».
+\gf rituel_Aggowua_Zhilosso_Keeyipu_Bemi
 
