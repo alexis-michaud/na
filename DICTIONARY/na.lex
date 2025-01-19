@@ -31244,10 +31244,18 @@
 \xe |fg{accomp} 〜: to pick up (something that was on the ground)
 \xn |fg{实施} 〜：捡起来（地上的东西）
 \xf |fg{accomp} 〜: ramasser (quelque chose qui se trouvait à terre)
-\xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ (+ tʰv̩˧-v̩˧ / zo˧mv̩˥)
+\xv le˧-ko˧~ko˥ | po˧tsʰɯ˧, | tʰv̩˧-v̩˧.
 \xe [This child] has been adopted (literally “has been picked up")
 \xn （这个孩子）是被领养的。
 \xf il a été adopté; littéralement: «il a été ramassé, celui-là/cet enfant»
+\xc <langue="fra" dom="phono"> Mme Latami prononce /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="eng" dom="phono"> Mrs. Latami pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
+\xc <langue="cmn" dom="phono"> 拉他咪女士的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
+\rf F5
+\xv le˧-ko˧~ko˥ | po˧tsʰɯ˧ zo˧mv̩˥
+\xe adopted child (literally “child that has been picked up")
+\xn 被领养的孩子
+\xf enfant adopté; littéralement: «enfant qui a été ramassé»
 \xc <langue="fra" dom="phono"> Mme Latami prononce /|fv{le˧-kv̩˧~kv̩˥}/.
 \xc <langue="eng" dom="phono"> Mrs. Latami pronounces /|fv{le˧-kv̩˧~kv̩˥}/.
 \xc <langue="cmn" dom="phono"> 拉他咪女士的发音为/|fv{le˧-kv̩˧~kv̩˥}/。
@@ -62457,12 +62465,12 @@
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
 \nt <print="n" dom="sem" langue="fra"> Rituel n°17 des DVD (4.2)
-\nt <print="n" dom="sem" langue="fra"> xxxx interprétation par TS à vérifier: réinterprétation du rituel? nouvelle pratique? ou versatilité du rituel, pour tout ce qui concerne les liens maintenus entre famille d'origine et famille d'adoption par mariage?
+\nt <print="n" dom="sem" langue="fra" type="hist"> Vérifié auprès de M18 (TS) en janvier 2025: la formulation qu'il adoptait dans un manuscrit est erronée: “当姐姐或妹妹的公公或婆婆离世，做哥哥或弟弟的要去办理葬礼时举行的仪式中念诵的一部经典，由达巴来完成。主要表达兄弟姊妹之情：姐姐或者妹妹未出嫁时和兄弟姊妹们一起劳作，出嫁以后为自己的家忙碌。在这个仪式中，哥哥或者弟弟贡献一头牛或者一只羊子，支持姐姐或者妹妹，表示有难同当。”（拉他咪王勇）. En réalité, le décès de la belle-mère (ou du beau-père) ou de la belle-mère ne déclenche pas le rituel sikee. Il n'y a pas eu de réinterprétation du rituel? nouvelle pratique? ou versatilité du rituel, pour tout ce qui concerne les liens maintenus entre famille d'origine et famille d'adoption par mariage?
 \ton L#
 \so F4
 \de Sikee: the ritual performed for the death of a female relative who left her maternal home to marry. “When the father-in-law or mother-in-law of their sister passes away, the brothers have to go to the funeral ceremony to carry out a ritual involving the recitation of a specific piece by the |fo{ddabe}. It expresses the love of brothers and sisters: the sister lived with her brothers and sisters when she was unmarried; after married, she was busy with her new family. In this ceremony, the brother contributes a cow or a goat to support his sister, thereby expressing that they share the same burden.” (Latami Wangyong)
 \ge name_of_ritual
-\dn 《斯克》：嫁到外边的女人去世时进行的仪式。“当姐姐或妹妹的公公或婆婆离世，做哥哥或弟弟的要去办理葬礼时举行的仪式中念诵的一部经典，由达巴来完成。主要表达兄弟姊妹之情：姐姐或者妹妹未出嫁时和兄弟姊妹们一起劳作，出嫁以后为自己的家忙碌。在这个仪式中，哥哥或者弟弟贡献一头牛或者一只羊子，支持姐姐或者妹妹，表示有难同当。”（拉他咪王勇）
+\dn 《斯克》：嫁到外边的女人去世时进行的仪式。
 \gn 斯克仪式
 \df Sikee: le rituel réalisé lors du décès d'une femme qui a quitté la maison de sa mère pour se marier. «Lorsque le beau-père ou la belle-mère de leur sœur décède, les frères doivent se rendre à la cérémonie funéraire pour accomplir un rituel qui comporte la récitation d'un texte spécifique par le |fo{ddabe}. Ce rituel exprime l'amour entre frères et sœurs: avant son mariage, la sœur vivait avec ses frères et sœurs; après son mariage, elle rejoint sa nouvelle famille, et devient absorbée par cette dernière. Lors de cette cérémonie, le frère offre une vache ou une chèvre à sa sœur, exprimant par là qu'il considère le fardeau porté par la sœur comme demeurant partagé avec ses frères.
 \gf nom_d_un_rituel
@@ -76591,7 +76599,7 @@
 \so F4
 \de Ci'er, a unisex given name: a given name used for both men and women.
 \ge Ci'er
-\dn 次尔：男女通用名（还音译为‘慈琳、‘此尔’）
+\dn 次尔：男女通用名（还音译为‘此尔’）
 \gn 次尔
 \df Ci'er, un prénom unisexe: prénom utilisé pour les deux sexes.
 \gf Ci'er
@@ -81975,7 +81983,8 @@
 \xv ʑi˧mv̩˧ qʰwɤ˧˥
 \xe to have a dream
 \xn 做梦
-\xf faire un rêve
+\xf faire un rêve, rêver
+\xc <type="hist" print="n" langue="fra"> xxxx reporter le verbe 'faire' de 'faire un rêve'
 \xv ʑi˧mv̩˧ sɯ˧
 \xe to sleep-walk (somnambulism); also: to speak in one's dreams
 \xn 梦游，梦呓
@@ -87170,4 +87179,178 @@
 \gn 《啊公瓦之若／楷移部吧咪》经
 \df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Aggowua Zhilosso Keeyipu Bemi}».
 \gf rituel_Aggowua_Zhilosso_Keeyipu_Bemi
+
+\lx nɑ˧tʰi˧pv̩˧
+\or Natibu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°29 des DVD (6.1)
+\nt <print="n" dom="sem" langue="fra"> xxxx noté nɑ˧tʰi˧pv̩˥ dans le sommaire des DVD, nɑ˧tʰi˧pv˧ dans l'article
+\ton M? #H?
+\lc nɑ˧tʰi˧pv̩˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Natibu}”. Its purpose is to drive away the |fo{Nati} ghosts. (Source: Latami Wangyong)
+\ge Natibu_ritual
+\dn 达巴《纳替部》经。“驱赶“纳替”鬼时念诵的经典”（拉他咪王勇）。
+\gn 《纳替部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Natibu}». Sa fonction est de chasser les fantômes |fo{Nati}. (Source: Latami Wangyong)
+\gf rituel_Natibu
+
+\lx dʑi˧qʰv̩˧ pv̩˧ | ʈʂe˧qʰv̩˧ pv̩˧
+\or Jjiekheubu Zheikheubu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°30 des DVD (6.2)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
+\ton M? #H?
+\lc dʑi˧qʰv̩˧ pv̩˧ ʈʂe˧qʰv̩˧ pv̩˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Jjiekheubu Zheikheubu}”.
+\ge Jjiekheubu_Zheikheubu_ritual
+\dn 达巴《计枯部／整枯部》经。
+\gn 《计枯部／整枯部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Jjiekheubu Zheikheubu}».
+\gf rituel_Jjiekheubu_Zheikheubu
+
+\lx ʐɯ˩mv̩˧kv̩˧pv̩˥
+\or Rimugubu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°31 des DVD (6.3)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir, et analyse morphologique : ʐɯ˩mv̩˧kv̩˧ 'divinité de l'eau' (ton à voir) + verbe 'invoquer, prier'? L'article de TS mentionne '... 水神“日目估”...' qui suggère cette interprétation. Créer une entrée pour cette divinité.
+\ton LM+H#? LM+H$?
+\lc ʐɯ˩mv̩˧kv̩˧pv̩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Rimugubu}”.
+\ge Rimugubu_ritual
+\dn 达巴《日目估部》经：祭水神‘日目估’。（信息来源：拉他咪王勇）
+\gn 《日目估部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Rimugubu}».
+\gf rituel_Rimugubu
+
+\lx di˧pv̩˧ | ʐɯ˧tsʰɯ˧pv̩˧
+\or Ddibu Ricibu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°32 des DVD (6.4)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir, et analyse morphologique : ʐɯ˩mv̩˧kv̩˧ 'divinité de l'eau' (ton à voir) + verbe 'invoquer, prier'? L'article de TS mentionne '... 水神“日目估”...' qui suggère cette interprétation. Créer une entrée pour cette divinité.
+\ton M | M? M | H#?
+\lc di˧pv̩˧ | ʐɯ˧tsʰɯ˧pv̩˧
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Ddibu Ricibu}”.
+\ge Ddibu_Ricibu_ritual
+\dn 达巴《地部／日辞部》经。
+\gn 《地部／日辞部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ddibu Ricibu}».
+\gf rituel_Ddibu_Ricibu
+
+\lx ʐɤ˩tɑ˥
+\or Reda
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°33 des DVD (6.5)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
+\ton LM? LH? LM+#H?
+\lc ʐɤ˩tɑ˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Reda}”.
+\ge Reda_ritual
+\dn 达巴《绕搭》经。
+\gn 《绕搭》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Reda}».
+\gf rituel_Reda
+
+\lx ʑi˧mv̩˧ qʰwɤ˧˥
+\or Xximu khua
+\mr ʑi˧mv̩˧˥
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°34 des DVD (6.6)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
+\ton LM? LH? LM+#H?
+\lc ʐɤ˩tɑ˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Xximu khua}”, ‘to dream’. “This is an important component of funeral rituals. ‘|fo{Xximu}’ means ‘dream’, and ‘|fo{khua}’ means ‘broken, bad’, hence ‘nightmare, unknown dream’. Through this Dream Scripture, we can see the psychology, imagination, and understanding of the concept of death of the Na’s ancestors. The Dream Scripture mainly consists of a list of omens of death. It aims to make sense of phenomena that seem absurd and bizarre on the surface -- as absurd as the fate of a loved one who suddenly becomes unable to speak, hear, or see due to an unseen illness, and finally passes away, leaving the living in acute distress.” (Latami Wangyong)
+\ge Reda_ritual
+\dn 达巴《梦经》，音译为《日穆垮》经或《日目垮》经。直译：‘做梦’。“这是葬礼仪式中的一个重要经典。“日穆”是梦的意思，“垮”是破碎、坏的意思，是做噩梦、不详之梦。通过这部梦经，可以看出摩梭先民的心理、意识、想象、联想以及对死亡观念的理解。整部《梦经》主要罗列的是死亡的诸多特殊预兆以及一系列表面看来荒诞离奇，其实却合情合理的现象。当一个活生生的亲人突然之间由于看不见、摸不着的病痛，口不能言、耳不能听、眼不能看，最后悄然离开。活着的人们就会因极度的恐惧而心生许许多多的联想和想象。如一个人上山打猎被野兽伤害，便认为这人得罪了某位神灵，把伤人的野兽拟人化，夸张出很多惊人的事实，借此产生敬畏心理并将它化为图腾。”（拉他咪王勇）
+\gn 《日目垮》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Xximu khua}», ‘rêver’. «Il s'agit d'un élément important des rituels funéraires. ‘|fo{Xximu}’ signifie ‘rêve’ et ‘|fo{khua}’ signifie ‘brisé, mauvais’, d'où ‘cauchemar, rêve inconnu’. Ce texte donne un aperçu de la psychologie, l'imagination, et la compréhension du concept de la mort des ancêtres des Na. Le texte consiste principalement en une liste de présages de mort. Il vise à donner un sens à des phénomènes qui semblent absurdes et bizarres à première vue -- aussi absurdes que le destin d'un être cher qui devient soudain incapable de parler, d'entendre ou de voir en raison d'une maladie invisible, et qui finit par s'éteindre, laissant les vivants dans une détresse aiguë» (Latami Wangyong).
+\gf rituel_Reda
+
+\lx kv̩˧pv̩˥
+\or Gubu
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°35 des DVD (7.1)
+\nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
+\ton H#? H$?
+\lc kv̩˧pv̩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Gubu}”.
+\ge Gubu_ritual
+\dn 达巴《估部》经。
+\gn 《估部》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Gubu}».
+\gf rituel_Gubu
+
+\lx le˧-ʈi˩
+\or Le Deiq
+\mr le˧-
+\mr ʈi˩α
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°36 des DVD (7.2)
+\ton L#
+\lc le˧ʈi˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Le Deiq}”, ‘to get up, to rise’.
+\ge Le_Deiq_ritual
+\dn 达巴《莱迪》经。直译：‘起来’。
+\gn 《莱迪》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Le Deiq}», ‘se lever, s'éveiller’.
+\gf rituel_Le_Deiq
+
+\lx le˧-qʰwæ˩
+\or Le Khuaeq
+\mr le˧-
+\mr qʰwæ˩α
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°37 des DVD (7.3)
+\ton L#
+\lc le˧qʰwæ˩
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Le Khuaeq}”, ‘to block’.
+\ge Le_Khuaeq_ritual
+\dn 达巴《莱垮》经。直译：‘挡住’。
+\gn 《莱垮》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Le Khuaeq}», ‘bloquer, faire obstacle’.
+\gf rituel_Le_Khuaeq
+
+\lx tsʰɯ˩ di˩
+\or Ciddi
+\mr di˧˥1
+\ps n
+\sd <langue="fra"> religion
+\sd <langue="eng"> religion
+\nt <print="n" dom="sem" langue="fra"> Rituel n°38 des DVD (7.4)
+\nt <print="n" dom="sem" langue="fra"> Sur la jaquette du DVD: noté tɕʰi˩di˩˥ / tsʰɯ˩di˩, 弃地/辞地 (撵鬼), qui correspond en orthographe à: qieddi / ciddi
+\ton L
+\lc tsʰɯ˩ di˩˥
+\so M18
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Ciddi}”, ‘to exorcise ghosts, to chase ghosts’.
+\ge Ciddi_ritual
+\dn 达巴《弃地／辞地》经。直译：‘撵鬼’。
+\gn 《莱垮》经
+\df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ciddi}», ‘exorciser les fantômes, chasser les fantômes’.
+\gf rituel_Ciddi
 
