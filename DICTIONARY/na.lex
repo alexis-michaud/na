@@ -4046,7 +4046,6 @@
 \gn 量词.发带
 \df Classificateur des coiffes (parures pour la chevelure des femmes).
 \gf |fg{clf}.coiffes
-\dt 24/Apr/2017
 
 \lx bo˧β
 \hm 1
