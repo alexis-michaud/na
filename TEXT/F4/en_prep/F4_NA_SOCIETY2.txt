@@ -1,7 +1,7 @@
 ə˧ʝi˧-ʂɯ˥ʝi˩ ◊ -dʑo˩, ◊ ə˩gi˩! | zo˩no˥, | nɑ˩-ʈʂʰɯ˥-dʑo˩, | ɖɯ˩lo˧-ʈʂʰɯ˧! |
 Autrefois, n'est-ce pas, eh bien, les Na, pour ce qui est de leurs coutumes...
 
-zo˩no˥… | əəə… ɖɯ˩-hĩ˩˥... | ki˧, | kʰv̩˧ʂɯ˥ ʁɑ˩, ◊ ə˩gi˩! |
+zo˩no˥… | əəə… ɖɯ˩-hĩ˩˥... | ki˧, | kʰv̩˧ʂɯ˥ ʁɑ˩, ◊ ə˩-gi˩! |
 % confirmer le sens de /kʰv̩˧ʂɯ˥ ʁɑ˩/: formulation figée signifiant 'to pay one's respects', ou interprétation proche du sens littéral du verbe ʁɑ˥ 'convier, inviter' ? xxxx
 eh bien... les gens importants, on les invitait au Nouvel An, n'est-ce pas !
 
@@ -18,11 +18,11 @@ njæ˧sɯ˩kv̩˩-dʑo˩, | ə˧ʝi˧ʂɯ˥ʝi˩, | "ɖæ˩mi˧-sɯ˩pʰi˩" pi�
 [Par chez] nous autres, autrefois, il y avait celui qu'on appelait le "seigneur du monastère Ddaemi" !
 
 ʈʂo˧ʂɯ˧-sɯ˧pʰi˥, | ɖæ˩mi˧-sɯ˩pi˩, | dɑ˧pʰo˥-sɯ˩pʰi˩, | tʰo˧ʈɯ˧-sɯ˧pʰi˥, | dze˧bo˧-sɯ˧pʰi˥ | dʑo˧ ɲi˥ ◊ mæ˩! |
-% Pour le dictionnaire: vérifier le ton lexical de /ʈʂo˧ʂɯ˧-sɯ˧pʰi˥/ et autres schémas à H final en surface : H# ou H$.
+% Pour le dictionnaire: vérifier le ton lexical de /ʈʂo˧ʂɯ˧-sɯ˧pʰi˥/ et autres schémas à H final en surface : H# ou H$. xxxx
 % D'après le schéma en composition nominale : ʈʂo˧ʂɯ#˥, tʰo˧ʈɯ#˥ : #H donne un H final, comme attendu ; dɑ˧pʰo˥ : H# donne H#-, comme attendu ; dze˧bo˧ : M ne donne pas le résultat attendu. xxxx Vérifier le ton de /dze˧bo˧-sɯ˧pʰi˥/. On s'attendrait à ce que dze˧bo˧ et sɯ˧pʰi˧ donnent, en composition nominale, un ton M (**dze˧bo˧-sɯ˧pʰi˧), non un ton H final. Le schéma /dze˧bo˧-sɯ˧pʰi˥/ est très inattendu : il suppose que le ton de //sɯ˧pʰi˧// soit... un ton H#. Ou, si le ton de //sɯ˧pʰi˧// est bien un ton M, il faudrait que celui du déterminant soit un ton H (#H, MH# ou H$). Conjecture de novembre 2023 : la forme correcte est //dze˧bo#˥//, avec un ton H flottant. S'agissant d'un nom de lieu, l'élicitation avec la copule a pu donner un résultat faux, peut-être en partie parce que le nom n'est pas très courant, et surtout parce que la combinaison du nom de lieu avec le verbe copule n'est pas usuelle.
 Il y avait le seigneur du village de Zhoshi, le seigneur du monastère Ddaemi, le seigneur du village de Ddapo, le seigneur du village de Todee, le seigneur du village de Zzeibo !
 
-tʰi˩˥, | ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ ◊ dʑo˩, | ɖɯ˩lo˧ | ʈʂʰɯ˧-dʑo˩, ◊ ə˩-gi˩! mmm … kʰv̩˧ʂɯ˥ ◊ -dʑo˩ | tʰi˩˥, | əəə … "ɬi˧di˩-ʈʂɯ˩-fv̩˩" | pi˧-zo˩, | zo˩no˥! |
+tʰi˩˥, | ʈʂʰɯ˧ | ɖɯ˧-tɑ˧˥ ◊ dʑo˩, | ɖɯ˩lo˧ | ʈʂʰɯ˧-dʑo˩, ◊ ə˩-gi˩! mmm … kʰv̩˧ʂɯ˥ ◊ -dʑo˩ | tʰi˩˥, | əəə … "ɬi˧di˩-ʈʂɯ˩fv̩˩" | pi˧-zo˩, | zo˩no˥! |
 Alors, tout cela, eh bien, cette tradition, n'est-ce pas, mmmh... lors du Nouvel An, alors, euh... on appelait ça "le gouvernement local de Yongning", voilà !
 
 əəə … ɬi˧di˩-ʈʂɯ˩fv̩˩-ki˩, | zo˩no˥ … əəə … kʰv̩˧ʂɯ˥ ʁɑ˩-pv̩˩-kv̩˩-tsɯ˩ ◊ mv̩˩! |
@@ -43,8 +43,8 @@ tʰi˩˥, | tsʰe˧do˧-ɖɯ˧ɲi˥-dʑo˩, | kʰv̩˧ʂɯ˥ ʁɑ˩pv̩˩ kʰɯ�
 % La construction distributive un-N1 un-N2 'un N2 pour chaque N1' comporte une frontière de groupe tonal : un-N1 | un-N2. C'est ce qu'on observe également dans le récit 'Le mariage de la soeur' (https://doi.org/10.24397/pangloss-0004342#S27). #syntaxe
 % Phrase 10.
 % séquence /kʰv̩˧ʂɯ˥ ʁɑ˩pv̩˩ kʰɯ˩/ à confirmer xxxx Hypothèse : est le même /pv̩/ 'autoriser, faire faire' que dans l'exemple de dictionnaire /pv̩˩α/: /sɯ˧pʰi˧-ɳɯ˧ | pv̩˩-kʰɯ˥-ɲi˩ ! （马帮）是土司来投资的！ 'c’est le seigneur qui était le commanditaire !'
-% vérifier à nouveau : /sɯ˧pʰi˧-ʈʂo˧fv̩˥/ ou /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/? (dans ce dernier cas, il y aurait une harmonie vocalique régressive relativement forte du /v̩/ vers la voyelle apicale, la rapprochant de [o].
-% ton de /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/: par combinaison de M et #H, on s'attendrait à un composé au ton #H, non H# (ou H$). xxxx vérifier à nouveau le ton de ce composé.
+% xxxx vérifier à nouveau : /sɯ˧pʰi˧-ʈʂo˧fv̩˥/ ou /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/? (dans ce dernier cas, il y aurait une harmonie vocalique régressive relativement forte du /v̩/ vers la voyelle apicale, la rapprochant de [o].
+% ton de /sɯ˧pʰi˧-ʈʂɯ˧fv̩˥/: par combinaison de M et #H, on s'attendrait à un composé au ton #H, non H# (ou H$). xxxx vérifier à nouveau le ton de ce composé. La notation /ɖʐo˧fv̩˥/ paraît être une erreur.
 Alors, le premier jour du mois, comme [le seigneur] faisait quérir [ses gens] pour les inviter pour le Nouvel An, une personne de chaque famille y allait, chez le seigneur !
 
 tʰi˩˥, | ʂe˧-ʐe˧, | ʂe˧-sɑ˩, | mmm… dze˧, | ʐɯ˧, | əəə… le˧-pɤ˥~pɤ˩! |
