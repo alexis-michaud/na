@@ -15282,7 +15282,7 @@
 \xe “One does as one pleases, right!” This set phrase is used as a critical observation, an ironic comment: “Oh well, you go ahead and do as you like, don't you!” It underlines the distance between the initiatives taken by the individual and alternatives that would take into account the points of view of others.
 \xn “就按照自己的意愿来！”这句话，用来讽刺批评不考虑别人的行为：“哦，好吧，想做什么就做什么，对不对！”
 \xf «On fait bien ce qu'on veut!» Cette formule est utilisée comme une observation critique, au second degré: «Ah ben vas-y, fais bien comme tu l'entends!» Elle souligne la distance entre les initiatives que prend la personne et ce que pourrait être une action qui prenne en compte le point de vue d'autrui.
-\xc <type="hist" print="n" langue="fra"> Avant 2024, un contresens avait été fait sur cette expression, interprétée de la façon suivante: ‘On est influencé par ses amis!’ (Littéralement: ‘On observe ses amis !’) Le proverbe souligne l’influence des amis, en bien ou en mal selon qu’on a ou non choisi judicieusement.
+\xc <type="hist" print="n" langue="fra"> Avant 2024, un contresens avait été fait sur cette expression, interprétée de la façon suivante: ‘On est influencé par ses amis!’ (Littéralement: ‘On observe ses amis!’) Le proverbe souligne l’influence des amis, en bien ou en mal selon qu’on a ou non choisi judicieusement.
 \xc <type="hist" print="n" langue="eng"> Prior to 2024, this expression was misinterpreted as follows: ‘One is easily influenced by one's friends!' (Literally: ‘One's friends, one observes'.) The proverb refers to influence from friends, good or bad: good friends exert good influences; bad friends exert bad influences.
 \xc <type="hist" print="n" langue="cmn"> 在 2024 年之前，这一表述被误解如下：“大家都容易受朋友的影响！”（直译：“自己的朋友，自己看（=自己爱学他们的习惯）”）
 \xv no˧ | õ˧ ɖʐɻ̩˥ õ˩ li˩ | ʐwæ˩˥!
@@ -18617,7 +18617,7 @@
 \xv gɤ˩bv̩˧-ho˩-ze˩!
 \xe 〜 |fg{fut} |fg{pfv}: It's going to boil over!
 \xn 未来+整体体：要溢出来了！要沸腾了！
-\xf 〜 |fg{fut} |fg{pfv}: Ça va déborder !
+\xf 〜 |fg{fut} |fg{pfv}: Ça va déborder!
 
 \lx gɤ˩dzɤ˧
 \sf <nb="2011"> 1068
@@ -35952,7 +35952,7 @@
 \xv le˧-lv̩˧˥, | le˧-ʝi˩-ze˩!
 \xe It escaped, and now it's back! (About a domestic animal that went off, then came back.)
 \xn 它逃走了，现在又回来了！(关于一只家畜跑掉了，然后又回来了）
-\xf Il avait fichu le camp, mais maintenant le voilà de retour ! (À propos d'un animal domestique qui s'était échappé, puis est revenu.)
+\xf Il avait fichu le camp, mais maintenant le voilà de retour! (À propos d'un animal domestique qui s'était échappé, puis est revenu.)
 \txtsup Lake3.59
 \doisup 10.24397/pangloss-0004349#S59
 \sn 2
@@ -42772,9 +42772,9 @@
 \df Une plante de montagne; la locutrice pense la reconnaître sur une photo de menthe aquatique, |fi{Mentha aquatica}, |fi{Mentha aquatica var. hirsuta (Huds.)}, mais ce n'est vraisemblablement pas la bonne identification.
 \gf menthe_aquatique
 \xv ɲi˩pʰɻ̩˩-bæ˥bæ˩, | mɤ˧-dʑo˧!
-\xe There is no such thing as nipu flowers!
+\xe There is no such thing as |fo{nipu} flowers!
 \xn 这种植物，没有花！／这种植物的花，是不存在的！
-\xf la fleur de nipu, ça n'existe pas !
+\xf la fleur de |fo{nipu}, ça n'existe pas!
 
 \lx ɲi˧pʰɻ̩˩
 \sf <nb="B"> 16
@@ -42866,10 +42866,23 @@
 \gn 嘴巴
 \df Bouche, pourtour de la bouche (autour des lèvre).
 \gf bouche
-\xv ɲi˧to˧ ʈʂʰwæ˩
-\xe talkative
-\xn 多嘴、拉不断扯不断（直译：“嘴快”）
-\xf bavard (littéralement «bouche rapide»)
+
+\lx ɲi˧to˧ ʈʂʰwæ˩
+\or nido chuae
+\mr ɲi˧to˧
+\mr ʈʂʰwæ˩α
+\ps adj
+\sd <langue="fra"> société
+\sd <langue="eng"> society
+\ton L#
+\lc ɲi˧to˧ʈʂʰwæ˩
+\so F4
+\de Talkative (literally `quick-mouthed').
+\ge talkative
+\dn 多嘴、拉不断扯不断（直译：“嘴快”）
+\gn 多嘴
+\df Bavard (littéralement «bouche rapide»).
+\gf bavard
 
 \lx ɲi˧tʰo#˥
 \or nito
@@ -74252,7 +74265,7 @@
 \xv ʐo˩˥, | njɤ˧ ɖɯ˧-ʈʂo˩ pæ˩-bi˩!
 \xe I'm going to prepare a sumptuous lunch for you! / For lunch, I'm going to pull out all the stops! (Given the appropriate context, it could also mean, in its literal meaning: “For lunch, I'm taking charge of one of the services!”)
 \xn 我要准备一顿丰盛的午餐！／午餐，我将使出浑身解数！(在适当的语境下，也能有它的字面意思，即：“午餐时，我要负责其中一轮”）
-\xf Je m'occupe de vous préparer un déjeuner somptueux! / Au déjeuner, je vais mettre les petits plats dans les grands! (Dans un contexte approprié, la phrase peut également signifier, au sens propre, «Pour le déjeuner, je me charge d'un service ! / Pour le déjeuner, je m'occupe d'un des services !»)
+\xf Je m'occupe de vous préparer un déjeuner somptueux! / Au déjeuner, je vais mettre les petits plats dans les grands! (Dans un contexte approprié, la phrase peut également signifier, au sens propre, «Pour le déjeuner, je me charge d'un service! / Pour le déjeuner, je m'occupe d'un des services!»)
 
 \lx ʈʂʰo˧β
 \sf <nb="B"> 1522
