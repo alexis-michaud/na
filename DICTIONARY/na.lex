@@ -7809,7 +7809,7 @@
 \gf Ddawua_nom_de_village
 
 \lx ɖæ˩ʂo˩
-\or shoq
+\or ddaesho
 \ps v
 \cf ʂo˧˥1
 \ton L
