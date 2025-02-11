@@ -41519,7 +41519,7 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\de Black.
+\de Black, dark.
 \ge black
 \dn 黑，暗（颜色，天色）
 \gn 黑
@@ -42435,13 +42435,12 @@
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
 \pdv ɭɯ˧β
-\de Nose.
+\de Nose; snout.
 \ge nose
 \dn 鼻子
 \gn 鼻子
-\df Nez.
+\df Nez; museau.
 \gf nez
-\dt 09/Sep/2015
 
 \lx ɲi˧ɬi˧mi˧
 \sf <nb="B"> 778
