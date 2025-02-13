@@ -11222,7 +11222,7 @@
 \sd <langue="eng"> classifier
 \ton MH
 \so F4
-\nt <type="hist" print="n" langue="fra"> Avant juin 2024: noté au ton Hα. Est en fait au ton MH (mais avec la relative instabilité qui caractérise les emprunts chinois récents).
+\nt <type="hist" print="n" langue="fra"> Avant juin 2024: noté au ton Hα. Est en fait au ton MH (mais avec la relative instabilité qui caractérise les emprunts chinois récents). xxxx tenter d'éliciter avec divers numéraux, afin d'établir la catégorie tonale : MHα ou MHβ.
 \de Classifier for sets: a complete set, e.g. a full dress (an entire set of clothing).
 \ge |fg{clf}.套::sets
 \dn |fg{量词}：套
@@ -37444,6 +37444,7 @@
 \sf <nb="2011"> 1287
 \hm 1
 \or mae
+\bw <langue="cmn"> 元, MC *ngjwon (Baxter 2000)
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -37468,7 +37469,7 @@
 \sf <nb="2011"> 1237
 \hm 2
 \or mae
-\bw <langue="cmn"> 元, MC *mjonH (Baxter 2000)
+\bw <langue="cmn"> 萬, MC *mjonH (Baxter 2000)
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -68813,6 +68814,7 @@
 \sd <langue="eng"> classifier
 \ton L
 \nt <dom="sem" print="n" langue="eng"> xxxx The classifier looks a lot like a Chinese loanword. Under this hypothesis, identification of a fu syllable takes place within a set that comprises 幅 (super-unlikely: cups are not in the least flat), 服 (unlikely, even supposing that the cup has a connotation of portioning of a liquid offering or a dose-like quantity), and 副. The last is a good match, being commonly used as a classifier for paired or matching items, such as tools. While primarily referring to paired items, it could work for pairs of ritual objects. In the context of offerings, cups are part of a set.
+\nt <dom="ton" print="n" langue="fra" type="hist"> xxxx éliciter avec divers numéraux afin d'établir la catégorie tonale
 \so F4
 \de Classifier for pairs or sets of objects (such as cups for offerings in religious rituals).
 \ge 副::|fg{clf}.pairs/sets
