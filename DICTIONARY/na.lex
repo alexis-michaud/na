@@ -32657,7 +32657,7 @@
 \so F4
 \de Lataddi: the entire Na area around Lugu Lake, including Zuosuo (currently Luguhu Zhen) and the village of Luoshui.
 \ge Lataddi
-\dn 拉塔地：泸沽湖周边的摩梭地区，包括左所（今为泸沽湖镇）、落水村等
+\dn 拉塔地（还音译为‘喇塔地’）：泸沽湖周边的摩梭地区，包括左所（今为泸沽湖镇）、落水村等
 \gn 拉塔地
 \df Lataddi: la région na qui entoure le lac Lugu: Zuosuo (actuel Luguhu Zhen), le village de Luoshui, et les autres localités du bord du Lac.
 \gf Lataddi
