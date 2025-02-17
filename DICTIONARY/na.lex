@@ -37765,7 +37765,7 @@
 \vc <langue="fra" print="n"> Ton L (ton d3); mais donne: /mi˩lv̩˥ | ɖɯ˩ hĩ˩˥/ “gros bambou"; /mi˩lv̩˥ ɖɯ˩ ɲi˥/ “le bambou est gros".
 \va <speaker="M23"> mi˩li˩
 \vc <langue="fra" dom="phono"> Des traces de friction demeurent perceptibles dans une réalisation soignée, ce qui indique que la forme ancienne était |fv{mi˩ɬi˩}, avec initiale |fv{/ɬ/}. Mais cette initiale paraît proche de se confondre avec /l/. Dans les expressions composées, on entend clairement |fv{[li]} plutôt que |fv{[ɬi]}. Par exemple: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
-\vc <langue="eng" dom="phono"> Traces of friction are still perceptible in a careful realisation, which indicates that the old form was |fv{mi˩ɬi˩}, with initial |fv{/ɬ/}. But this initial now seems close to being confused with /l/. In compound expressions, |fv{[li]} is clearly heard rather than |fv{[ɬi]}. For example: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
+\vc <langue="eng" dom="phono"> Traces of friction are still perceptible in a careful realization, which indicates that the old form was |fv{mi˩ɬi˩}, with initial |fv{/ɬ/}. But this initial now seems close to being confused with /l/. In compound expressions, |fv{[li]} is clearly heard rather than |fv{[ɬi]}. For example: |fv{[lɑ˧hwɤ˩-mi˩li˩]}.
 \vc <langue="cmn" dom="phono"> 在非常清楚的发音中，仍然可以感受到摩擦的痕迹，这表明旧的形式是|fv{mi˩ɬi˩}，声母是|fv{/ɬ/}。但这个辅音似乎很容易与/l/混淆。在多音节短语中，可以清楚地听到|fv{[li]}，而不是 |fv{[ɬi]}。例如：|fv{[lɑ˧hwɤ˩-mi˩li˩]}。
 \pdv dzi˩β
 \de Large bamboo.
@@ -67055,7 +67055,7 @@
 \nt <type="hist" print="n" langue="fra" dom="phono"> L'analyse comme /…ne˧ʝi˥/ n'a été adoptée qu'en octobre 2013. Jusque-là, l'expression était notée /tɕʰɤ˧ɲi˧-ni˧˥/, en trois syllabes, alors que la forme qui paraît trisyllabique est en fait une contraction d'une expression de quatre syllabes.
 \nt <type="hist" print="n" langue="fra" dom="ton"> Premières notes: /tɕʰɤ˧ɲi˥ (ɳɯ˥), tɕʰɤ˧ɲi˧ni˧˥ +zo˩/.
 \nt <dom="phono" langue="fra"> La première syllabe est réalisée proche de [|fv{tɕʰe˧}], par harmonie vocalique (anticipation de l'articulation du /|fv{i}/ de la syllabe suivante). Une réalisation sans ce processus d'harmonie, avec voyelle d'arrière [|fv{ɤ}], est refusée par Mme Latami, ce qui paraît indiquer que l'harmonie vocalique est en voie de lexicalisation.
-\nt <dom="phono" langue="eng"> The first syllable is realised close to [|fv{tɕʰe˧}], through vowel harmony (anticipation of the articulation of the /|fv{i}/ of the following syllable). A realization without strong vowel harmony, with a back vowel [|fv{ɤ}], is rejected by Mrs. Latami, which seems to indicate that the outcome of vowel harmony is well on its way towards lexicalization.
+\nt <dom="phono" langue="eng"> The first syllable is realized close to [|fv{tɕʰe˧}], through vowel harmony (anticipation of the articulation of the /|fv{i}/ of the following syllable). A realization without strong vowel harmony, with a back vowel [|fv{ɤ}], is rejected by Mrs. Latami, which seems to indicate that the outcome of vowel harmony is well on its way towards lexicalization.
 \nt <dom="phono" langue="cmn"> 第一个音节的实际发音接近[|fv{tɕʰe˧}]，这是后音节的/|fv{i}/元音的影响（元音和谐） 。拉他咪女士认为带有后元音[|fv{ɤ}]的发音不准确，这似乎表明元音和谐的结果正朝着词汇化的方向发展。
 \so F4
 \va <speaker="M18"> tɕʰɤ˧ɲi˥-ni˩-zo˩
