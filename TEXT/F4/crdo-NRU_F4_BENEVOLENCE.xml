@@ -122,6 +122,7 @@
 	<NOTE xml:lang="fr" message = "avais d'abord noté /ɖɯ˧-tʰɑ˧-bi˧ bi˧-bi˧/, par erreur."/>
 	<TRANSL xml:lang="fr">De nos jours, euh, même si on peut acheter des choses au marché, y trouver ce qu'on veut, eh bien, les choses qui sont nos propres [productions], on les considère comme bonnes (=comme meilleures que ce qu'on achète au marché); alors, on les serre à la maison! </TRANSL>
 	<TRANSL xml:lang="zh">现在呢，虽然可以在市场上买到，可是自己家生产的食物（直译：‘自己的那块’）算是好的（=算是比市场上的更好），于是会存在家里！</TRANSL>
+	<TRANSL xml:lang="en">These days, even if we can buy things at the market and find what we want, well, we consider the things that are our own [productions] as good (=as better than what we buy at the market), so we store them at home!</TRANSL>
 </S>
 <S id="Benevolence_S016">
 	<AUDIO start="96.906" end="99.718"/>
@@ -377,7 +378,7 @@
 </S>
 <S id="Benevolence_S052">
 	<AUDIO start="285.919" end="289.135"/>
-	<FORM kindOf="phono">zo˩no˥, | ʈʂʰɯ˧ gɤ˧-se˥, | ɖʐɯ˧qo˩ tʰv̩˩, | tʰi˧-hwæ˧, | õ˧-bv̩˥-õ˩ | tʰi˧-dzɯ˥. | </FORM>
+	<FORM kindOf="phono">zo˩no˥, | ʈʂʰɯ˧ gɤ˧-se˥, | ɖʐɯ˧qo˩ tʰv̩˩, | tʰi˧-hwæ˧, | õ˧=bv̩˥-õ˩ | tʰi˧-dzɯ˥. | </FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : zo˩no˥ | ʈʂʰɯ˧gɤ˧tsʰi˥ | ɖʐɯ˧qo˩tʰv̩˩ | tʰi˧hv̩˧˥ | hõ˧bv̩˥ʁo˩ | tʰi˧dzɯ˥ |"/>
 	<TRANSL xml:lang="fr">De nos jours, quand il manque quelque chose, hop, on va au marché, on achète (ce dont on a besoin) et on se le mange. </TRANSL>
 	<TRANSL xml:lang="zh">现在，缺什么东西，就去市场，买，自己吃。</TRANSL>
@@ -620,7 +621,7 @@
 </S>
 <S id="Benevolence_S082">
 	<AUDIO start="436.959" end="439.214"/>
-	<FORM kindOf="phono">ĩ˧, | v̩˩dʑɯ˩˥ | le˧-qwæ˧˥, | õ˧-bv̩˥-õ˩ | ɖɯ˧-qʰwɤ˧˥ | tʰi˧-ki˧! |</FORM>
+	<FORM kindOf="phono">ĩ˧, | v̩˩dʑɯ˩˥ | le˧-qwæ˧˥, | õ˧=bv̩˥-õ˩ | ɖɯ˧-qʰwɤ˧˥ | tʰi˧-ki˧! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ɑ˩v̩˩tɕɯ˥ | le˧qwæ˧ | hĩ˧bv̩˥ʁo˩ | ɖɯ˧qʰwɤ˥tʰi˧ki˩ |"/>
 	<TRANSL xml:lang="fr">On servait (littéralement: ‘puisait') aussi de la soupe, à chacun son propre bol!</TRANSL>
 	<TRANSL xml:lang="zh">还给鸡汤，一人一碗！</TRANSL>
@@ -852,7 +853,7 @@
 </S>
 <S id="Benevolence_S110">
 	<AUDIO start="591.885" end="594.268"/>
-	<FORM kindOf="phono"> õ˧-bv̩˥-õ˩ | tʰi˧-ɻ̩˩-kʰɯ˩, | dzɯ˧-zo˥, | ə˩-gi˩! | tsɯ˧-zo˥! |</FORM>
+	<FORM kindOf="phono"> õ˧=bv̩˥-õ˩ | tʰi˧-ɻ̩˩-kʰɯ˩, | dzɯ˧-zo˥, | ə˩-gi˩! | tsɯ˧-zo˥! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.59"/>
 	<NOTE xml:lang="fr" message = "Transcription automatique : õ˧do˥ | tʰæ˧kʰɯ˩ | dzɯ˧zɑ˥ | əgi˩tso˧zo˩ |"/>
 	<NOTE xml:lang="fr" message = "/no˩-dʑo˥/: tons vérifiés"/>
@@ -1321,7 +1322,7 @@
 </S>
 <S id="Benevolence_S167">
 	<AUDIO start="895.919" end="898.368"/>
-	<FORM kindOf="phono">ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧-bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |</FORM>
+	<FORM kindOf="phono">ho˩tʰɑ˩-ʈʂʰɯ˥ | -dʑo˩, | õ˧=bv̩˥-õ˩ | tsɑ˧bɤ˧ po˧-kʰi˥-ɲi˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : ho˧tʰɑ˩zɯ˥ | dʑo˩ | õ˧bv̩˥ | tsɑ˧bɤ˧ʁo˧ɬi˥ɲi˩mæ˩ |"/>
 	<TRANSL xml:lang="fr">Le sucre roux, on le mettait soi-même dans le tsamba!</TRANSL>
 	<TRANSL xml:lang="zh">红糖，是自己放在糌粑里去嘛！</TRANSL>
@@ -1336,7 +1337,7 @@
 </S>
 <S id="Benevolence_S169">
 	<AUDIO start="901.747" end="906.971"/>
-	<FORM kindOf="phono">&lt;tsɑ˧bɤ˧&gt; [ho˩tʰɑ˩˥] | le˧-dze˧~dze˥-dʑo˩ | tʰi˩˥, | &lt;ho˩tʰɑ˩-qo˥ kʰɯ˩&gt; [tsɑ˧bɤ˧-qo˧ kʰɯ˧˥], | õ˧-bv̩˩-õ˩ | tsɑ˧bɤ˧ | &lt;le˧-…&gt; | le˧-njɤ˧~njɤ˥, | dzɯ˧-ɲi˥ mæ˩! |</FORM>
+	<FORM kindOf="phono">&lt;tsɑ˧bɤ˧&gt; [ho˩tʰɑ˩˥] | le˧-dze˧~dze˥-dʑo˩ | tʰi˩˥, | &lt;ho˩tʰɑ˩-qo˥ kʰɯ˩&gt; [tsɑ˧bɤ˧-qo˧ kʰɯ˧˥], | õ˧=bv̩˩-õ˩ | tsɑ˧bɤ˧ | &lt;le˧-…&gt; | le˧-njɤ˧~njɤ˥, | dzɯ˧-ɲi˥ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tɑ˧bo˧ | le˧ʑi˧dze˥dʑo˩ | tʰi˩˥ | ho˩tʰɑ˩qo˥kʰɯ˩ | bo˧ | tʰɑ˧bwɤ˩ | le˧ | le˧njɤ˩ | njɤ˧dzɯ˩ɲi˥mæ˩ |"/>
 	<NOTE xml:lang="fr" message = "Sens de /le˧-njɤ˧~njɤ˥/: ‘touiller'? Est-ce le même mot que ‘collant'? Comparer avec: /tso˩∼tso˧˥/ et /ʂwæ˧/. Réponse de F4: /le˧-njɤ˧~njɤ˥/ décrit une façon de mélanger avec la main; c'est proche de /le˧-ʈʂʰv̩˩~ʈʂʰv̩˩/. En revanche, la distance avec /ʂwæ˥~ʂwæ˩/ ‘remuer' est nette. Traduction choisie: ‘malaxer'."/>
 	<TRANSL xml:lang="fr">Le sucre roux, on le taillait en morceaux; on le mettait dans la farine de céréales grillées, on malaxait, et on mangeait!</TRANSL>
@@ -1430,7 +1431,7 @@
 </S>
 <S id="Benevolence_S180">
 	<AUDIO start="957.09" end="964.7"/>
-	<FORM kindOf="phono">tʰi˧-ki˧-dʑo˥, | ɕjo.ho, ɕjo.ho, ɕjo.ho | pi˧, | v̩˩tsʰɤ˧˥ | ɖɯ˧-v̩˧ tɕɤ˩! | ʁo˧dɑ˧ tʰi˧-tɕɯ˥! | hɑ˧ | õ˧-bv̩˥-õ˩ | qʰwɤ˧-qo˥ | le˧-po˧˥, | le˧-dzɯ˥-dʑo˩, |</FORM>
+	<FORM kindOf="phono">tʰi˧-ki˧-dʑo˥, | ɕjo.ho, ɕjo.ho, ɕjo.ho | pi˧, | v̩˩tsʰɤ˧˥ | ɖɯ˧-v̩˧ tɕɤ˩! | ʁo˧dɑ˧ tʰi˧-tɕɯ˥! | hɑ˧ | õ˧=bv̩˥-õ˩ | qʰwɤ˧-qo˥ | le˧-po˧˥, | le˧-dzɯ˥-dʑo˩, |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.96"/>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩tɕi˥dʑo˩ | kʰi˧ho˧ | ʂv̩˧ho˧ʂɯ˥zo˩ tʰv̩˩to | v̩˩tsʰɤ˧˥ | ɖɯ˧v̩˩tɕɤ˩ | ɑ˩ʁo˧dɑ˧tʰi˧tɕɯ˥ | hɑ˧ | õ˧bv̩˥õ˩ | qʰwɤ˩qo˩ | le˧po˧˥ | le˧dzɯ˥dʑo˩ |"/>
 	<TRANSL xml:lang="fr">(Je) distribuais le riz; et je faisais aussi bouillir une casserole de soupe, glou-glou-glou-glou! Je la mettais devant moi! Le riz, chacun prenait son bol et mangeait; alors,</TRANSL>
@@ -1568,7 +1569,7 @@
 </S>
 <S id="Benevolence_S197">
 	<AUDIO start="1067.3" end="1075.13"/>
-	<FORM kindOf="phono">tʰv̩˧ne˧-ʝi˥ | ʐv̩˧-gi˥ qʰæ˩ | &lt;le˧…&gt; õ˧-bv̩˥-õ˩ | tʰi˩˥, | &lt;gv̩… D&gt; gv̩˩pʰæ˩-ʈʂʰɯ˥, | ɖɯ˧-qʰo˧-ɳɯ˧, | so˩-ɕi˩-pʰæ˥ tsɤ˩-kv̩˩ mæ˩! |</FORM>
+	<FORM kindOf="phono">tʰv̩˧ne˧-ʝi˥ | ʐv̩˧-gi˥ qʰæ˩ | &lt;le˧…&gt; õ˧=bv̩˥-õ˩ | tʰi˩˥, | &lt;gv̩… D&gt; gv̩˩pʰæ˩-ʈʂʰɯ˥, | ɖɯ˧-qʰo˧-ɳɯ˧, | so˩-ɕi˩-pʰæ˥ tsɤ˩-kv̩˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Utterance ID: BENEVOLENCE.107"/>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰine˧ʝi˥ʂv̩˩gi˥qʰæ˩ | ˧bv̩˥õ˩ | tʰi˩˥ | gv̩˩pʰæ˩ʈʂʰɯ˥ | dv̩˧qʰv̩˧ɳɯ˥ | so˩ɕi˩kʰæ˥tsɯ˩kv̩˩mæ˩ | ʐv̩˧ɕɯ˧pʰæ˩ |"/>
 	<TRANSL xml:lang="fr">Ainsi, les quatre côtés sont répartis, euh… soi-même, euh… les planches, quand on les répartit, il peut y en avoir jusqu'à trois cents! (La locutrice souligne que la tâche de débiter des planches était un labeur considérable, et que la quantité produite était élevée.)</TRANSL>
@@ -1593,7 +1594,7 @@
 </S>
 <S id="Benevolence_S200">
 	<AUDIO start="1088.83" end="1092.99"/>
-	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥! | tʰi˩˥, | õ˧-bv̩˥-õ˩ | &lt;tɕ…&gt; tɕɯ˧-bi˥-kv̩˩-ze˩ mæ˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥! | tʰi˩˥, | õ˧=bv̩˥-õ˩ | &lt;tɕ…&gt; tɕɯ˧-bi˥-kv̩˩-ze˩ mæ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "Transcription automatique : tʰi˩˥ | ɖɯ˧ʂɯ˧dʑ | tʰi˧tɕɯ˥ | tʰi˩˥ | õ˧bv̩˥õ | tɕɯ˧bi˥kv̩˩ze˩mæ˩ |"/>
 	<NOTE xml:lang="fr" message = "Question posée à F4: ne serait-ce pas simplement /ɖɯ˧-ɬi˧ tʰi˧-tɕɯ˥/? Réponse : on peut dire l'un comme l'autre ; ici, c'est bien /ɖɯ˧-ɬi˧-ze˧ tʰi˧-tɕɯ˥/."/>
 	<TRANSL xml:lang="fr">Ensuite, on laisse [les planches là] pendant un mois! (On laisse le bois vert sécher pendant un mois.) Après, chaque famille se dispose à les transporter (=à les ramener chez soi)!</TRANSL>

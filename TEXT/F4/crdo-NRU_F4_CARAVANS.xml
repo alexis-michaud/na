@@ -281,7 +281,7 @@
 	</S>
 	<S id="CaravansS041">
 		<AUDIO start="251.3949" end="257.0151"/>
-		<FORM>tʰi˩˥, | õ˧˥ | ɖɯ˧-pi˧ dʑo˥-kwɤ˩tɕɯ˩-lɑ˩, | õ˧˥ | dɑ˧ʝi˩ | le˧-hwæ˧! | ʐwæ˧ʁo˩ | le˧-hwæ˧! | wɤ˩˥, | õ˧-bv̩˥-õ˩ | le˧-tɕɯ˧˥! |</FORM>
+		<FORM>tʰi˩˥, | õ˧˥ | ɖɯ˧-pi˧ dʑo˥-kwɤ˩tɕɯ˩-lɑ˩, | õ˧˥ | dɑ˧ʝi˩ | le˧-hwæ˧! | ʐwæ˧ʁo˩ | le˧-hwæ˧! | wɤ˩˥, | õ˧=bv̩˥-õ˩ | le˧-tɕɯ˧˥! |</FORM>
 		<TRANSL xml:lang="fr">Ou alors, si on avait un peu (d'argent), on achetait une mule! on achetait un cheval! et on faisait son propre chargement!</TRANSL>
 		<TRANSL xml:lang="zh">有了自己的一点钱以后，就自己买马、买骡子！</TRANSL>
 	</S>
@@ -909,7 +909,7 @@
 	</S>
 	<S id="CaravansS139">
 		<AUDIO start="781.8854" end="787.1282"/>
-		<FORM>əəə… tɕɯ˧-lɑ˥, əəə… | zo˩no˥, | tso˧~tso˧ | õ˧-bv̩˥-õ˩ | tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-tɕo˥ | kʰɯ˧˥; |</FORM>
+		<FORM>əəə… tɕɯ˧-lɑ˥, əəə… | zo˩no˥, | tso˧~tso˧ | õ˧=bv̩˥-õ˩ | tʰi˧-tsɯ˥! | ʈʂʰɯ˧ne˧-ʝi˥ | ɖɯ˧-tɕo˥ | kʰɯ˧˥; |</FORM>
 		<TRANSL xml:lang="fr">En caravane, les choses, on les attache soi-même[lors du passage du pont]! On les envoie ainsi de l'autre côté;</TRANSL>
 	</S>
 	<S id="CaravansS140">
@@ -1463,7 +1463,7 @@
 	</S>
 	<S id="CaravansS235">
 		<AUDIO start="1245.7390" end="1251.2670"/>
-		<FORM>mmm… "mv̩˧ɭɯ˩-sɯ˩pʰi˩ | hĩ˧ F | wɤ˩˥ | [ʝi˧-mɤ˧-bi˧! |] njɤ˧ | õ˧-bv̩˥-õ˩… | ʐwæ˧ tɕɯ˩-bi˩-ze˩!" | tʰv̩˧ pi˧-zo˩, | ʐwæ˧ tɕɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
+		<FORM>mmm… "mv̩˧ɭɯ˩-sɯ˩pʰi˩ | hĩ˧ F | wɤ˩˥ | [ʝi˧-mɤ˧-bi˧! |] njɤ˧ | õ˧=bv̩˥-õ˩… | ʐwæ˧ tɕɯ˩-bi˩-ze˩!" | tʰv̩˧ pi˧-zo˩, | ʐwæ˧ tɕɯ˩-ɲi˩-tsɯ˩ ◊ -mv̩˩!</FORM>
 		<NOTE xml:lang="fr" message="tons vérifiés: est /tʰv̩˧ pi˧-zo˩/, 'ce que disant'"/>
 		<TRANSL xml:lang="fr">[Je ne veux pas non plus] être sujet du seigneur de Muli! Je vais conduire mes propres chevaux/ constituer ma propre caravane!" Ce que disant, il a conduit une caravane / il est parti conduire ses propres caravanes, à ce qu'on dit!</TRANSL>
 	</S>
@@ -1726,7 +1726,7 @@
 	</S>
 	<S id="CaravansS282">
 		<AUDIO start="1512.2083" end="1515.9294"/>
-		<FORM>ʈʂʰɯ˧ | wɤ-ɕjɤ-ɕjɤ!! | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | ʐwæ˧-ʈʂʰɯ˧ | õ˧-bv̩˥-õ˩ le˩-jo˩-kv̩˩-mæ˩! |</FORM>
+		<FORM>ʈʂʰɯ˧ | wɤ-ɕjɤ-ɕjɤ!! | pi˧-kwɤ˩tɕɯ˩-lɑ˩, | ʐwæ˧-ʈʂʰɯ˧ | õ˧=bv̩˥-õ˩ le˩-jo˩-kv̩˩-mæ˩! |</FORM>
 		<TRANSL xml:lang="fr">Quand [le caravanier leur criait:] "wɤ-ɕjɤ-ɕjɤ!", les chevaux venaient d'eux-mêmes!</TRANSL>
 	</S>
 	<S id="CaravansS283">

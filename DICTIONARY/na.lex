@@ -3374,13 +3374,13 @@
 \df Aller.
 \gf aller
 \xv bi˧-tʰɑ˧!
-\xe 〜 |fg{abilitive}
+\xe 〜 |fg{permissive}
 \xn 可以去！
-\xf 〜 |fg{abilitive}: On peut y aller!
+\xf 〜 |fg{permissif}: On peut y aller!
 \xv bi˧-tʰɑ˧-ze˥!
-\xe 〜 |fg{abilitive}+|fg{pfv}: We can go now!
+\xe 〜 |fg{permissive}+|fg{pfv}: We can go now!
 \xn 可以去了！
-\xf 〜 |fg{abilitive}+|fg{pfv}: Ça y est, on peut y aller!
+\xf 〜 |fg{permissif}+|fg{pfv}: Ça y est, on peut y aller!
 \xv le˧-bi˩
 \xe to go back
 \xn 回去，返回
@@ -45980,7 +45980,7 @@
 \xe one's own money
 \xn 自己的钱
 \xf son propre argent
-\xv õ˧mv̩˥-õ˩di˩
+\xv õ˧-mv̩˥ õ˩-di˩
 \xe birth place
 \xn 出生的地方、老家、故乡
 \xf lieu de naissance, lieu d'origine
@@ -80120,7 +80120,7 @@
 \nt <type="hist" print="n" langue="fra"> (historique: “le˧u˧tʰu˧tɕju˥, le˧u˧tʰu˧tɕju˥ se˧; aussi: le˧u˧tʰu˥tɕju˩ =idem précédent, tons différents; d'abord noté ˧ ˧ ˧˥, puis corrigé en ˧ ˧˥˩, pensé que c'était confirmé; enrt F589: relève que les deux sont réalisés; le second est sans doute mieux, car qd je propose les deux à F5, c'est celui-là qu'elle choisit)
 \nt <dom="sem" langue="fra"> La sémantique de ce mot nécessite encore quelques éclaircissements. Roselle Dobbs (communication personnelle 2015) explique : «J'ai également rencontré ce verbe en collocation avec d'autres verbes. Sa signification de base est `faire quelque chose à nouveau'». En plus de `again', il peut y avoir un élément similaire à l'anglais `back'.
 \nt <type="hist" dom="sem" langue="fra" print="n"> Avant 2015: avais glosé comme: “To turn around (e.g. in order to look back)."
-\nt <dom="sem" langue="eng"> The semantics of this word still requires some clarification. Roselle Dobbs (p.c. 2015) explains: “I have also come across this verb in collocation with other verbs. Its basic meaning is ‘to do something again'. In addition to `again', there may also be an element similar to English `back'.
+\nt <dom="sem" langue="eng"> The semantics of this word still requires some clarification. Roselle Dobbs (p.c. 2015) explains: “I have also come across this verb in collocation with other verbs. Its basic meaning is ‘to do something again'." In addition to `again', there may also be an element similar to English `back'.
 \nt <dom="sem" langue="cmn"> 这个词的语义仍需澄清。杜玫瑰（私人交流，2015年）解释道：“我还在与其他动词的搭配中遇到过这个动词。它的基本含义是‘再次做某事’。”除了‘再次’的意思，可能还有一个与‘回’类似的成分。
 \ton MH
 \so F4
@@ -84946,6 +84946,7 @@
 \or bbi
 \ps cnj
 \lc --
+\cf -bi-bi
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \ton 0?
@@ -84960,14 +84961,34 @@
 \xe Although (s)he is Na, (s)he cannot speak the Na language!
 \xn 他虽然是摩梭人但不会讲摩梭语。
 \xf Bien qu'elle/il soit Na, elle/il ne sait pas parler la langue na!
-\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩, …
+\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩, | nɑ˩-ʐwɤ˥ | mɤ˧-kv̩˧˥!
 \xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na…'
-\xn 病句：不能这样说“他虽然是摩梭人……”
-\xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na…'
-\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩-bi˩, …
-\xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na…'
-\xn 病句：不能这样说“他虽然是摩梭人……”
-\xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na…'
+\xn 病句：不能这样说“他虽然是摩梭人但不会讲摩梭语”
+\xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na, elle/il ne sait pas parler la langue na'
+
+\lx -bi-bi
+\or bbibbi
+\mr -bi
+\ps cnj
+\lc --
+\sd <langue="fra"> morphosyntaxe
+\sd <langue="eng"> morphosyntax
+\ton 0?
+\so F4
+\de |fg{adversative}: no matter…
+\ge |fg{adversative}
+\dn 虽然……
+\gn 虽然
+\df |fg{adversatif}: bien que, même si.
+\gf |fg{adversatif}
+\xv ʈʂʰɯ˧ | nɑ˩ ɲi˥-pi˩-bi˩-bi˩, | nɑ˩-ʐwɤ˥ | mɤ˧-kv̩˧˥!
+\xe Although (s)he is Na, (s)he cannot speak the Na language!
+\xn 他虽然是摩梭人但不会讲摩梭语。
+\xf Bien qu'elle/il soit Na, elle/il ne sait pas parler la langue na!
+\xv ‡ʈʂʰɯ˧ | nɑ˩ ɲi˥-bi˩-bi˩, | nɑ˩-ʐwɤ˥ | mɤ˧-kv̩˧˥!
+\xe an ungrammatical sentence; the intended meaning was ‘although (s)he is Na, (s)he cannot speak the Na language'
+\xn 病句：不能这样说“他虽然是摩梭人但不会讲摩梭语”
+\xf phrase non acceptable; l'intention était de dire ‘bien qu'il soit Na, elle/il ne sait pas parler la langue na'
 
 \lx -bi˧α
 \sf <nb="2011"> 3368

@@ -3393,10 +3393,10 @@
   </S>
   <S id="Sister_S058">
     <AUDIO start="178.6544" end="181.9703"/>
-    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩-bi˧ | tʰi˧-ʈʂʰɻ̩˧˥ ◊  tsɯ˩ ◊ mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
+    <FORM kindOf="phono">əəə… ʐæ˩sɯ˩ bi˥ | tʰi˧-ʈʂʰɻ̩˧˥ ◊  tsɯ˩ ◊ mv̩˩, | le˧-pʰo˩-hɯ˩!</FORM>
     <FORM kindOf="ortho">raesi bbi teechu zimu, lepo hee!</FORM>
     <NOTE xml:lang="fr" message="ʈʂʰv̩˧˥: ici réalisé phonétiquement proche de [ʈʂʰwe]: la diphtongaison du /v/ est particulièrement forte; l’insistance sur ce mot crée une tension entre la bonne réalisation de la rime /v/, fricative et fermée, d’une part, et l’ouverture plus grande qui résulte de l’insistance; cette tension a pour résultat un mouvement ouvrant qui modifie considérablement la rime"/>
-    <NOTE xml:lang="fr" message="/ʐæ˩sɯ˩bi˧/: d’abord noté ‡˧ ˧ ˥; corrigé en 2007"/>
+    <NOTE xml:lang="fr" message="/ʐæ˩sɯ˩bi˧/: d’abord noté ‡˧ ˧ ˥; corrigé en 2007; en 2025, modifie de L.L.M en L.L.H, et retire le trait d'union du fait que le morphème est analysé comme une postposition et non un suffixe. Cf. §5.4.1 (p. 227) de l'ouvrage de 2017.'"/>
     <NOTE xml:lang="fr" message="sens vérifié"/>
     <TRANSL xml:lang="fr">elle s’agrippe au feutre [dont il s’est drapé], [mais] [le grand frère] détale (malgré le geste de sa sœur pour le retenir).</TRANSL>
 	<TRANSL xml:lang="en">(She) grabbed the cloak (that he was wearing), (but the older brother) fled.</TRANSL>

@@ -555,7 +555,7 @@
 </S>
 <S id="MUSHROOMS_S082">
 	<AUDIO start="469.09" end="473.87"/>
-	<FORM kindOf="phono">njæ˧-sɯ˩kv̩˩ | dʑɯ˩ʁo˩ bi˩˥, | ʈʰæ˧mi˧-ɳɯ˩, | kv̩˧ | tʰi˩˥ | &lt;w… po˧˥… | &gt; kv̩˧ | dʑɤ˩pi˧ po˥-bi˩-kv̩˩; | õ˧-bv̩˥-õ˩ tv̩˩! | zo˩no˧-ni˩, | hwæ˧-mɤ˧-zo˧! |</FORM>
+	<FORM kindOf="phono">njæ˧-sɯ˩kv̩˩ | dʑɯ˩ʁo˩ bi˩˥, | ʈʰæ˧mi˧-ɳɯ˩, | kv̩˧ | tʰi˩˥ | &lt;w… po˧˥… | &gt; kv̩˧ | dʑɤ˩pi˧ po˥-bi˩-kv̩˩; | õ˧=bv̩˥-õ˩ tv̩˩! | zo˩no˧-ni˩, | hwæ˧-mɤ˧-zo˧! |</FORM>
 	<NOTE xml:lang="fr" message = "/dʑɤ˩pi˧ po˥/ 'en emporter beaucoup'"/>
 	<NOTE xml:lang="fr" message = "d'abord noté /‡zo˩no˧-ne˩/; vérifié avec soin en 2015: est bien /zo˩no˧-ni˩/."/>
 	<TRANSL xml:lang="fr">Quand on allait en montagne, vrai de vrai, on amenait quantité d'ail! (L'ail,)  on le cultivait soi-même! On ne l'achetait pas, comme (on fait) aujourd'hui! </TRANSL>
@@ -563,7 +563,7 @@
 </S>
 <S id="MUSHROOMS_S083">
 	<AUDIO start="473.87" end="478.563"/>
-	<FORM kindOf="phono">kv̩˧-tʰv̩˧, | õ˧-bv̩˥-õ˩ le˩-tv̩˩! | ɖɯ˧-ʑi˩-ɳɯ˩, | kv̩˧ | ɲi˧-ɭɯ˧-so˩-ɭɯ˩ po˩! | ɖɯ˧-v̩˧ tʰi˧-tɕɤ˧˥! |</FORM>
+	<FORM kindOf="phono">kv̩˧-tʰv̩˧, | õ˧=bv̩˥-õ˩ le˩-tv̩˩! | ɖɯ˧-ʑi˩-ɳɯ˩, | kv̩˧ | ɲi˧-ɭɯ˧-so˩-ɭɯ˩ po˩! | ɖɯ˧-v̩˧ tʰi˧-tɕɤ˧˥! |</FORM>
 	<NOTE xml:lang="fr" message = "tons de /ɲi˧-ɭɯ˧-so˩-ɭɯ˩ po˩/ vérifiés."/>
 	<TRANSL xml:lang="fr">L'ail, on le cultivait soi-même! Chaque famille emportait deux ou trois têtes d'ail! On faisait cuire une casserole (de champignons, avec un peu d'ail)!</TRANSL>
 	<TRANSL xml:lang="zh">大蒜，是自己种的！（每）一家，拿两三个蒜头！煮一锅（菌子，加上酸）！</TRANSL>
@@ -576,7 +576,7 @@
 </S>
 <S id="MUSHROOMS_S085">
 	<AUDIO start="483.788" end="486.008"/>
-	<FORM kindOf="phono">õ˧-bv̩˥-õ˩, | v̩˩tsʰɤ˧˥ | tʰæ˧ɻæ˧ &lt;po˧&gt; tɕɤ˥! |</FORM>
+	<FORM kindOf="phono">õ˧=bv̩˥-õ˩, | v̩˩tsʰɤ˧˥ | tʰæ˧ɻæ˧ &lt;po˧&gt; tɕɤ˥! |</FORM>
 	<NOTE xml:lang="fr" message = "/tʰæ˧ɻæ˧/: aurait le même sens que /ʈʰæ˧mi˧-ɳɯ˩/. "/>
 	<TRANSL xml:lang="fr">On faisait soi-même cuire des légumes (sauvages cueillis sur la montagne), vrai de vrai!</TRANSL>
 	<TRANSL xml:lang="zh">（上深山老林就，）（野）菜真的是自己（采，自己）煮！</TRANSL>
@@ -969,7 +969,7 @@
 </S>
 <S id="MUSHROOMS_S145">
 	<AUDIO start="774.774" end="778.623"/>
-	<FORM kindOf="phono">di˧qo˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | dzɯ˧-tʰɑ˩, | mɤ˧-tʰɑ˧˥, | ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | õ˧-bv̩˥-õ˩ sɯ˩! |</FORM>
+	<FORM kindOf="phono">di˧qo˧-hĩ˧ ʈʂʰɯ˧-dʑo˩, | dzɯ˧-tʰɑ˩, | mɤ˧-tʰɑ˧˥, | ʈʂʰɯ˧-dʑo˩, | wɤ˩˥, | õ˧=bv̩˥-õ˩ sɯ˩! |</FORM>
 	<NOTE xml:lang="fr" message = "vérifié : il n'y a pas de syllabe intermédiaire au milieu de la séquence /mɤ˧-tʰɑ˧˥, | ʈʂʰɯ˧-dʑo˩, | /."/>
 	<TRANSL xml:lang="fr">Ceux qui se trouvent dans la terre, (si) on peut les manger ou non, ça, eh bien, c'est chacun qui sait / c'est à chacun de le déterminer (lors de la cueillette)!</TRANSL>
 	<TRANSL xml:lang="zh">在土里长的，能不能吃，这是每个人要想清楚的！ / 在土里长的菌子，能不能吃，要自己看好！</TRANSL>

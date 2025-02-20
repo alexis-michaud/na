@@ -800,7 +800,7 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S145"><AUDIO start="752.2118" end="756.0769"></AUDIO>
-	<FORM>njɤ˧ | le˧-dʑo˩-hĩ˩-dʑo˩, | õ˧-bv̩˥-õ˩ ɲi˩-ze˩! | no˧ | le˧-ʂɯ˧-hĩ˧, | õ˧-bv̩˥-õ˩ ɲi˩-ze˩, | pi˧-zo˩! |</FORM>
+	<FORM>njɤ˧ | le˧-dʑo˩-hĩ˩-dʑo˩, | õ˧=bv̩˥-õ˩ ɲi˩-ze˩! | no˧ | le˧-ʂɯ˧-hĩ˧, | õ˧=bv̩˥-õ˩ ɲi˩-ze˩, | pi˧-zo˩! |</FORM>
 	<TRANSL xml:lang="fr">Moi, personne vivante, je suis désormais seule! Toi, personne décédée, tu es désormais seule! / Le lien est désormais rompu avec les vivants!</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
@@ -826,8 +826,8 @@
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>
 <S id="F4_FUNERAL_S150"><AUDIO start="770.0980" end="774.6648"></AUDIO>
-	<FORM>tʰi˩˥, | le˧-ʂɯ˧-hĩ˧, | õ˧-bv̩˥-õ˩ | bi˧! | mmm… le˧-dʑo˩-hĩ˩-dʑo˩ | tʰi˩˥, | "õ˧ ə˧mi˥ F | le˧-ʂɯ˧-ze˧" pi˧! |</FORM>
-	<NOTE xml:lang="fr" message="vérifié, n'est pas /‡…õ˧-bv̩˥-õ˩ bi˩/"></NOTE>
+	<FORM>tʰi˩˥, | le˧-ʂɯ˧-hĩ˧, | õ˧=bv̩˥-õ˩ | bi˧! | mmm… le˧-dʑo˩-hĩ˩-dʑo˩ | tʰi˩˥, | "õ˧ ə˧mi˥ F | le˧-ʂɯ˧-ze˧" pi˧! |</FORM>
+	<NOTE xml:lang="fr" message="vérifié, n'est pas /‡…õ˧=bv̩˥-õ˩ bi˩/"></NOTE>
 	<TRANSL xml:lang="fr">Le défunt s'en va de son côté! Les vivants, ils disent (=ils peuvent désormais dire): "Ma mère est morte!"</TRANSL>
 	<TRANSL xml:lang="zh"></TRANSL>
 </S>

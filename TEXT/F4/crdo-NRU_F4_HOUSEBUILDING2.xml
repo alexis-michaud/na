@@ -391,7 +391,7 @@
 </S>
 <S id="HOUSEBUILDING2_S068">
 	<AUDIO start="372.332" end="377.8"/>
-	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧-bæ˧ po˩-ɳɯ˩ | tʰi˩˥ | si˧-ʈʂʰɯ˧ | dʑɯ˩ʁo˩˥ | õ˧-bv̩˥-õ˩… ɬɬɬ! | tɕʰɤ˧tɕo˩-po˩-ɳɯ˩ | le˧-kɤ˩. |</FORM>
+	<FORM kindOf="phono">õ˧-ʈʂʰɯ˧-bæ˧ po˩-ɳɯ˩ | tʰi˩˥ | si˧-ʈʂʰɯ˧ | dʑɯ˩ʁo˩˥ | õ˧=bv̩˥-õ˩… ɬɬɬ! | tɕʰɤ˧tɕo˩-po˩-ɳɯ˩ | le˧-kɤ˩. |</FORM>
 	<NOTE xml:lang="fr" message = "/tɕʰɤ˧tɕo˩/: scie passe-partout: grande scie, qui était maniée par deux personnes; emprunt chinois. En bon na: /se˩di˩/ pour scie. On peut essayer /se˩di˩-ɖɯ˩/ pour 'grande scie' mais la locutrice trouve que ça ne convient pas (sans être vraiment mal formé). Pour 'petite scie', /se˩di˩-tɕi˥/ est bien formé. Ces formes ne sont acceptables que dans la mesure où il existe un objet spécifique correspondant: un certain type de scie qu'on dénomme ainsi. Autrement dit, la forme N+Adj ne s'emploie que pour des expressions lexicalisées. On ne peut absolument pas dire /‡‡se˩di˩-ɬi˥/ (avec le sens 'une scie de taille moyenne): il faut dire /se˩di˩˥ | ɬi˧-hĩ˧ ɖɯ˧-nɑ˧/."/>
 	<TRANSL xml:lang="fr">Avec ça (=avec ces planches), eh bien… le bois, sur la montagne, on le scie soi-même, avec une scie passe-partout !</TRANSL>
 </S>
@@ -579,7 +579,7 @@
 </S>
 <S id="HOUSEBUILDING2_S100">
 	<AUDIO start="528.951" end="531.923"/>
-	<FORM kindOf="phono">tʰi˩˥, | õ˧-bv̩˥-õ˩ | ɖʐo˧ | qæ˧do˧ tʰi˥-di˩-hĩ˩ | tʰv̩˧-kʰwɤ˧ gɤ˥-ʑi˩, |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | õ˧=bv̩˥-õ˩ | ɖʐo˧ | qæ˧do˧ tʰi˥-di˩-hĩ˩ | tʰv̩˧-kʰwɤ˧ gɤ˥-ʑi˩, |</FORM>
 	<TRANSL xml:lang="fr">Alors, on prend (=on récupère) soi-même les poutres, les parties qui contiennent du bois de charpente!</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S101">
@@ -669,7 +669,7 @@
 </S>
 <S id="HOUSEBUILDING2_S116">
 	<AUDIO start="604.726" end="614.359"/>
-	<FORM kindOf="phono">tʰi˩˥, | gɯ˩˥ | mɤ˧-gɯ˩ | mɤ˧-sɯ˥, ◊ ə˩-gi˩! | ʈʂʰɯ˧ne˧ ʝi˥ | le˧-pi˥ pi˩, | dʑɯ˧ | zo˩no˧, | õ˧-bv̩˥-õ˩ | ɬi˩di˩-di˩-mi˩&lt;-qo˩&gt; ʈʂʰɯ˩-qo˩ dʑo˩, | dʑɯ˧ | ɖɯ˧-pi˧˥, əəə … | hɑ˧ | dzɯ˧-kv̩˩-hĩ˩ dʑɯ˩ ɲi˩-ze˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | gɯ˩˥ | mɤ˧-gɯ˩ | mɤ˧-sɯ˥, ◊ ə˩-gi˩! | ʈʂʰɯ˧ne˧ ʝi˥ | le˧-pi˥ pi˩, | dʑɯ˧ | zo˩no˧, | õ˧=bv̩˥-õ˩ | ɬi˩di˩-di˩-mi˩&lt;-qo˩&gt; ʈʂʰɯ˩-qo˩ dʑo˩, | dʑɯ˧ | ɖɯ˧-pi˧˥, əəə … | hɑ˧ | dzɯ˧-kv̩˩-hĩ˩ dʑɯ˩ ɲi˩-ze˩! |</FORM>
 	<TRANSL xml:lang="fr">Alors… est-ce que c'est vrai ou pas, on ne sait pas, n'est-ce pas! Voilà ce qu'on dit; l'eau, eh bien, notre eau de par ici, à Yongning, c'est une eau qui… qui donne un peu de l'appétit / c'est de l'eau qui aide à la digestion et donne bon appétit / c'est de l'eau qui est bonne pour la digestion!</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S117">
@@ -844,7 +844,7 @@
 </S>
 <S id="HOUSEBUILDING2_S146">
 	<AUDIO start="768.174" end="774.676"/>
-	<FORM kindOf="phono">ʁæ˧ mɤ˧-ʑi˧, | hĩ˧-ɳɯ˩ | li˧ F | mɤ˧-li˧! | ʁæ˧-mɤ˧ʑi˧, | æ̃˩tsɯ˧ le˧-bv̩˩ | tʰi˧-kʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | õ˧-bv̩˥-õ˩… | ʈʂe˧ | le˧-pʰæ˩~pʰæ˩, | le˧-pʰæ˩~pʰæ˩, | æ̃˩-ʈʂʰɯ˥ | qʰɑ˩jɤ˩ dʑo˩-kv̩˥! |</FORM>
+	<FORM kindOf="phono">ʁæ˧ mɤ˧-ʑi˧, | hĩ˧-ɳɯ˩ | li˧ F | mɤ˧-li˧! | ʁæ˧-mɤ˧ʑi˧, | æ̃˩tsɯ˧ le˧-bv̩˩ | tʰi˧-kʰɯ˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | õ˧=bv̩˥-õ˩… | ʈʂe˧ | le˧-pʰæ˩~pʰæ˩, | le˧-pʰæ˩~pʰæ˩, | æ̃˩-ʈʂʰɯ˥ | qʰɑ˩jɤ˩ dʑo˩-kv̩˥! |</FORM>
 	<NOTE xml:lang="fr" message = "/li˧ F | mɤ˧-li˧/ possède un équivalent chinois assez proche: 连看都不看"/>
 	<TRANSL xml:lang="fr">N'importe comment… les gens, ils les regardaient même pas (= on ne leur prêtait aucune attention) ! N'importe comment… on laissait (la poule) couver (ses) poussins; ils faisaient voler de la terre de droite et de gauche, tout seuls (en fouissant le sol à la recherche de nourriture); et les poulets (à l'époque), qu'est-ce qu'il y en avait ! / laissez-moi vous dire qu'il y en avait ! </TRANSL>
 </S>
@@ -965,7 +965,7 @@
 </S>
 <S id="HOUSEBUILDING2_S166">
 	<AUDIO start="850.872" end="859.15"/>
-	<FORM kindOf="phono">õ˧-bv̩˥-õ˩, | əəə… ɑ˩ʁo˧ ʂɯ˧-bi˧, | wɤ˩˥ | ʑi˧mi˧ dʑɤ˩, | pi˧-dʑo˩, | hĩ˧ mo˥-hĩ˩ | le˧-ʂɯ˧-dʑo˥, | nv̩˩mi˩-qo˥ | fv̩˩-kv̩˩ pi˥ mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | qwæ˧ʁo˧ tɕɯ˧! |</FORM>
+	<FORM kindOf="phono">õ˧=bv̩˥-õ˩, | əəə… ɑ˩ʁo˧ ʂɯ˧-bi˧, | wɤ˩˥ | ʑi˧mi˧ dʑɤ˩, | pi˧-dʑo˩, | hĩ˧ mo˥-hĩ˩ | le˧-ʂɯ˧-dʑo˥, | nv̩˩mi˩-qo˥ | fv̩˩-kv̩˩ pi˥ mæ˩, | ə˧ʝi˧-ʂɯ˥ʝi˩! | qwæ˧ʁo˧ tɕɯ˧! |</FORM>
 	<NOTE xml:lang="fr" message = "tons vérifiés: est bien /qwæ˧ʁo˧ tɕɯ˧/"/>
 	<TRANSL xml:lang="fr">Si on mourait à son propre domicile, et que c'était une belle maison, quand la vieille personne mourait, dans son coeur, elle était joyeuse, autrefois! On la déposait sur le banc de la pièce principale (le banc des invités, où on place le défunt). (Explication: mourir loin du foyer était considéré comme une tragédie; mourir dans une belle demeure, au sein de sa maisonnée, c'était le terme heureux d'une vie.)</TRANSL>
 </S>
@@ -1334,7 +1334,7 @@
 </S>
 <S id="HOUSEBUILDING2_S231">
 	<AUDIO start="1163.947" end="1169.276"/>
-	<FORM kindOf="phono">&lt;õ˧-ʈʂʰɯ˧-lɑ˥ ɲi˩&gt; [õ˧-ʈʂʰɯ˧-lɑ˩ ɲi˩]. | di˧qo˧-gɤ˧, | ʁæ˧mɤ˧-ʑi˧, | õ˧-bv̩˥-õ˩ | &lt;ʑ…&gt; gɤ˩-ʑi˥-hĩ˩, | ʝi˧se˧-hĩ˧-bv̩˧, | gɤ˩-ʑi˥-hĩ˩ | qwæ˩~qwæ˧˥ | dzɯ˧-lɑ˩-ɲi˩. |</FORM>
+	<FORM kindOf="phono">&lt;õ˧-ʈʂʰɯ˧-lɑ˥ ɲi˩&gt; [õ˧-ʈʂʰɯ˧-lɑ˩ ɲi˩]. | di˧qo˧-gɤ˧, | ʁæ˧mɤ˧-ʑi˧, | õ˧=bv̩˥-õ˩ | &lt;ʑ…&gt; gɤ˩-ʑi˥-hĩ˩, | ʝi˧se˧-hĩ˧-bv̩˧, | gɤ˩-ʑi˥-hĩ˩ | qwæ˩~qwæ˧˥ | dzɯ˧-lɑ˩-ɲi˩. |</FORM>
 	<NOTE xml:lang="fr" message = "Sur l'enregistrement: /ʈʂʰɯ˧-lɑ˥ ɲi˩/. Deux séquences tonales sont phonologiquement acceptables: /ʈʂʰɯ˧-lɑ˥ ɲi˩/ ou /ʈʂʰɯ˧-lɑ˩ ɲi˩/. La formulation /ʈʂʰɯ˧-lɑ˩ ɲi˩/ est jugée préférable. On pourrait également dire: /õ˧-tʰv̩˧-lɑ˩ ɲi˩/"/>
 	<NOTE xml:lang="fr" message = "découpage en groupes tonals vérifiés : /qwæ˩~qwæ˧˥ | dzɯ˧-lɑ˩-ɲi˩. | /"/>
 	<NOTE xml:lang="fr" message = "/gɤ˩-ʑi˥-hĩ˩/: 'ce qui pousse' ; /ʝi˧se˧-hĩ˧/ : chinois: 野生的. Reporté dans le dictionnaire en 2016."/>
@@ -1342,7 +1342,7 @@
 </S>
 <S id="HOUSEBUILDING2_S232">
 	<AUDIO start="1169.276" end="1170.309"/>
-	<FORM kindOf="phono">õ˧-bv̩˥-õ˩, | pʰo˧-mɤ˥-kv̩˩! |</FORM>
+	<FORM kindOf="phono">õ˧=bv̩˥-õ˩, | pʰo˧-mɤ˥-kv̩˩! |</FORM>
 	<TRANSL xml:lang="fr">On ne plantait pas nos propres (légumes)!</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S233">
@@ -1369,7 +1369,7 @@
 </S>
 <S id="HOUSEBUILDING2_S237">
 	<AUDIO start="1184.248" end="1190.905"/>
-	<FORM kindOf="phono">tʰi˩˥, | gɯ˩-ʝi˥, | gɯ˩-ʝi˥, | v̩˩tsʰɤ˧˥ | hæ˧-ɳɯ˧ | v̩˩tsʰɤ˧˥ tʰi˧-pʰo˧-hĩ˥ | dʑɤ˩˥ | kwɤ˧tɕɯ˥-lɑ˥ | tʰi˩˥, | nɑ˩˥ | õ˧-bv̩˥-õ˩ | pʰo˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | õ˧-bv̩˥-õ˩ | qʰæ˧ tʰi˩-kʰɯ˩! |</FORM>
+	<FORM kindOf="phono">tʰi˩˥, | gɯ˩-ʝi˥, | gɯ˩-ʝi˥, | v̩˩tsʰɤ˧˥ | hæ˧-ɳɯ˧ | v̩˩tsʰɤ˧˥ tʰi˧-pʰo˧-hĩ˥ | dʑɤ˩˥ | kwɤ˧tɕɯ˥-lɑ˥ | tʰi˩˥, | nɑ˩˥ | õ˧=bv̩˥-õ˩ | pʰo˧˥ ◊ -kwɤ˩tɕɯ˩-lɑ˩, | õ˧=bv̩˥-õ˩ | qʰæ˧ tʰi˩-kʰɯ˩! |</FORM>
 	<TRANSL xml:lang="fr">Et alors, pour de vrai, vrai de vrai, comme ils étaient beaux, les légumes que faisaient pousser les Chinois, eh bien, quand les Na se sont mis à en cultiver (littéralement: "lorsque les Na en ont cultivé eux-mêmes"), ils y ont mis des excréments [comme engrais], à leur tour! (littéralement "ils y ont mis leurs propres excréments comme engrais")</TRANSL>
 </S>
 <S id="HOUSEBUILDING2_S238">

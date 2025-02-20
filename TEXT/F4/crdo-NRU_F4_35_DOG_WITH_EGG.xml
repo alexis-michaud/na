@@ -3184,7 +3184,7 @@
 		</W>
 </S>
 <S id="Dog_S040"><AUDIO start="246.6123" end="250.4524"/>
-	<FORM kindOf="phono">əəə… v̩˩dʑi˧˥ | &lt;dʑ…&gt; õ˧-bv̩˥-õ˩ | kʰv̩˩mi˩-qʰwɤ˥-qo˩ | tʰi˧-kʰɯ˧˥ | dʑo˩ tʰi˩˥, |</FORM>
+	<FORM kindOf="phono">əəə… v̩˩dʑi˧˥ | &lt;dʑ…&gt; õ˧=bv̩˥-õ˩ | kʰv̩˩mi˩-qʰwɤ˥-qo˩ | tʰi˧-kʰɯ˧˥ | dʑo˩ tʰi˩˥, |</FORM>
 	<FORM kindOf="ortho">Wujji onbbu onq kumi khuaq gho teekee jjo, tiq,</FORM>
 		<TRANSL xml:lang="fr">la soupe, on la verse soi-même dans le bol du chien (=on prend soin de servir le chien comme s'il s'agissait d'une personne); </TRANSL>
 		<TRANSL xml:lang="en">(The) soup, one puts (it) into the dog's bowl oneself (i.e. one serves the dog the same as one would serve a person).</TRANSL>
@@ -3195,7 +3195,7 @@
 			<TRANSL xml:lang="en">soup</TRANSL>
 		</W>
 		<W>
-			<FORM>õ˧-bv̩˥-õ˩</FORM>
+			<FORM>õ˧=bv̩˥-õ˩</FORM>
 			<TRANSL xml:lang="fr">soi_même</TRANSL>
 			<TRANSL xml:lang="en">oneself(/one_s_own)</TRANSL>
 		</W>
@@ -3920,7 +3920,7 @@
 		</W>
 </S>
 <S id="Dog_S048"><AUDIO start="293.0895" end="300.8096"/>
-	<FORM kindOf="phono">zɯ˧~zɯ˧ ki˧-hĩ˧ ʈʂʰɯ˧-v̩˧-ɳɯ˩, | əəə… zo˩no˥, | ɲi˩˥ | &lt;ɲi˩˥&gt; | qʰɑ˩jɤ˩-ɖɯ˩˥, | ə˧tso˧~ə˧tso˥ | qʰɑ˩jɤ˩-ɖɯ˩-pi˥-hĩ˩-ʈʂʰɯ˩-dʑo˩, | zo˩no˥, | õ˧-bv̩˥-õ˩, |</FORM>
+	<FORM kindOf="phono">zɯ˧~zɯ˧ ki˧-hĩ˧ ʈʂʰɯ˧-v̩˧-ɳɯ˩, | əəə… zo˩no˥, | ɲi˩˥ | &lt;ɲi˩˥&gt; | qʰɑ˩jɤ˩-ɖɯ˩˥, | ə˧tso˧~ə˧tso˥ | qʰɑ˩jɤ˩-ɖɯ˩-pi˥-hĩ˩-ʈʂʰɯ˩-dʑo˩, | zo˩no˥, | õ˧=bv̩˥-õ˩, |</FORM>
 	<FORM kindOf="ortho">ssissi gihin teevu nee, ssono, niq khaye ddee, aezo aezo khaye ddee bihin tee jjo, ssono, onbbu onq,</FORM>
 	<TRANSL xml:lang="fr">Celui qui distribuait l'existence (=qui mesurait à chacun la durée de l'existence), eh bien… qui obtiendrait combien [d'années], combien tout un chacun obtiendrait, eh bien, soi-même…</TRANSL>
 	<TRANSL xml:lang="en">The one who distributed lifespans, now, who got how many (years), well, (the one who decided) how many (years) who would get, well, (creatures) themselves,</TRANSL>
@@ -4011,7 +4011,7 @@
 			<TRANSL xml:lang="en">now</TRANSL>
 		</W>
 		<W>
-			<FORM>õ˧-bv̩˥-õ˩</FORM>
+			<FORM>õ˧=bv̩˥-õ˩</FORM>
 			<TRANSL xml:lang="fr">soi_même</TRANSL>
 			<TRANSL xml:lang="en">one's_self</TRANSL>
 		</W>
