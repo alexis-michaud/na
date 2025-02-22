@@ -85709,7 +85709,7 @@
 \df Particule indiquant la certitude; dérivée du verbe copule.
 \gf |fg{certitude}(|fg{cop})
 
-\lx -ni˧gv̩˧˥
+\lx ni˧gv̩˧˥
 \sf <nb="B"> 1073
 \sf <nb="2011"> 3378
 \or niggu
@@ -85727,39 +85727,39 @@
 \gn 像
 \df Comme (être comme, être semblable à).
 \gf être_comme
-\xv zɯ˧hṽ̩˩-ni˩gv̩˩
+\xv zɯ˧hṽ̩˩ ni˩gv̩˩
 \xe like grass, i.e. vivid green
 \xn 像草，等于绿色
 \xf comme de l’herbe, c'est-à-dire vert
-\xv æ̃˧qæ˩-ni˩gv̩˩
+\xv æ̃˧qæ˩ ni˩gv̩˩
 \xe like a parrot (i.e. blue/green-coloured)
 \xn 像鹦鹉，等于青色
 \xf bleu-vert; littéralement ‘comme un perroquet’, c'est-à-dire ‘couleur perroquet’
-\xv lwæ˩pʰɻ̩˩-ni˥gv̩˩
+\xv lwæ˩pʰɻ̩˩ ni˥gv̩˩
 \xe like ashes, i.e. grey-coloured
 \xn 灰色
 \xf comme de la cendre = de couleur grise
-\xc <langue="fra" dom="phono"> Forme modifiée de |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}. C'est actuellement |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} qui est le plus courant, bien que le mot ‘cendre', hors de cette expression, conserve sa forme |fv{/lwɤ˩/}.
-\xc <langue="eng" dom="phono"> A modified form of |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}. It is currently |fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/} that is most common, even though the word ‘ash’, outside this expression, retains its |fv{/lwɤ˩/} form.
-\xc <langue="cmn" dom="phono"> |fv{/lwɤ˩pʰɻ̩˩-ni˧gv̩˩/}变来的。目前最常见的是|fv{/lwæ˩pʰɻ̩˩-ni˧gv̩˩/}。在这个短语之外，‘灰’仍保留其|fv{/lwɤ˩/}发音。
-\xv sɯ˧pɻ̩˩-ni˩gv̩˩
+\xc <langue="fra" dom="phono"> Forme modifiée de |fv{/lwɤ˩pʰɻ̩˩ ni˧gv̩˩/}. C'est actuellement |fv{/lwæ˩pʰɻ̩˩ ni˧gv̩˩/} qui est le plus courant, bien que le mot ‘cendre', hors de cette expression, conserve sa forme |fv{/lwɤ˩/}.
+\xc <langue="eng" dom="phono"> A modified form of |fv{/lwɤ˩pʰɻ̩˩ ni˧gv̩˩/}. It is currently |fv{/lwæ˩pʰɻ̩˩ ni˧gv̩˩/} that is most common, even though the word ‘ash’, outside this expression, retains its |fv{/lwɤ˩/} form.
+\xc <langue="cmn" dom="phono"> |fv{/lwɤ˩pʰɻ̩˩ ni˧gv̩˩/}变来的。目前最常见的是|fv{/lwæ˩pʰɻ̩˩ ni˧gv̩˩/}。在这个短语之外，‘灰’仍保留其|fv{/lwɤ˩/}发音。
+\xv sɯ˧pɻ̩˩ ni˩gv̩˩
 \xe like a urinary bladder, in the shape of a bladder
 \xn 像膀胱
 \xf comme une vessie, en forme de vessie
-\xv (nv̩˩mi˩˥ | ) ɖɯ˧-v̩˧-ni˩gv̩˩
+\xv (nv̩˩mi˩˥ | ) ɖɯ˧-v̩˧ ni˩gv̩˩
 \xe (their heart is) like one, as one
 \xn 一条心，想得一致
 \xf comme un seul cœur, (leur) cœur est à l'unisson
-\xv dzi˩bi˩-ni˩gv̩˩˥
+\xv dzi˩bi˩ ni˩gv̩˩˥
 \xe to be accustomed to, to get accustomed to
 \xn 习惯（一个环境）
 \xf s’habituer, s'accoutumer, prendre ses habitudes (dans un environnement)
-\xv li˩ ʈʰɯ˩-bi˩-ni˩-gv̩˩˥
+\xv li˩ ʈʰɯ˩-bi˩ ni˩gv̩˩˥
 \xe to have a habit of drinking tea, to be a tea-drinker
 \xn 习惯喝茶、有喝茶的习惯
 \xf avoir l'habitude de boire du thé, être un buveur de thé
 \xc <type="hist" print="n" dom="ton" langue="fra"> Tons vérifiés à plusieurs reprises, notamment en 2013.
-\xv ʈʂʰɯ˧ | ʂɯ˧-bi˧-ni˩gv̩˩!
+\xv ʈʂʰɯ˧ | ʂɯ˧-bi˧ ni˩gv̩˩!
 \xe It looks like it's going to die! / It looks as if it (/he/she) were going to die!
 \xn 他好像要死了！
 \xf On dirait qu'il/elle va mourir!
@@ -85834,14 +85834,14 @@
 \df Ablatif, agent, et marqueur de topique.
 \gf |fg{abl}/a/top
 
-\lx -pʰæ˥di˩
+\lx pʰæ˥di˩
 \or paeddi
 \ps adv
 \ton H.L
 \lc pʰæ˧di˩
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
-\nt <type="hist" print="n" langue="fra"> avant 2015, noté /-pʰæ˧di˥/; modifié en /-pʰæ˥di˩/ au vu du comportement avec la négation, choisi comme référence pour l'analyse des tons des verbes et adjectifs
+\nt <type="hist" print="n" langue="fra"> Avant 2015, noté /-pʰæ˧di˥/; modifié en /-pʰæ˥di˩/ au vu du comportement avec la négation, choisi comme référence pour l'analyse des tons des verbes et adjectifs. En 2025: retranché le trait d'union initial pour les quelques adverbes qui en avaient un.
 \so F4
 \de Like; as if.
 \ge as_if
@@ -85849,15 +85849,15 @@
 \gn 像、好像
 \df Semblable à; comme; comme si; on dirait que.
 \gf comme_si
-\xv ʈʂʰɯ˧ | ə˧dɑ˧-pʰæ˧di˥.
+\xv ʈʂʰɯ˧ | ə˧dɑ˧ pʰæ˧di˥.
 \xe She looks like her father.
 \xn 她长得很像她父亲。
 \xf Elle ressemble à son père.
-\xv mɤ˧-pʰæ˥di˩
+\xv mɤ˧ pʰæ˥di˩
 \xe |fg{neg} 〜: unlike; for example: seeing a child after several years have elapsed, one finds that (s)he does not look the same as before / is greatly changed
 \xn |fg{否定} 〜：不像（比如：几年没见一个孩子，见的时候，觉得不像以前的样子了）
 \xf |fg{neg} 〜: différent, peu ressemblant; par exemple, rencontrant un enfant qui a beaucoup grandi en l'espace de quelques années, on peut faire la réflexion selon laquelle il/elle ne ressemble plus à ce qu'il était auparavant
-\xv v̩˩tsʰɤ˩˥ | qʰɑ˧-pʰæ˧di˥! — mɤ˧-qʰɑ˥!
+\xv v̩˩tsʰɤ˩˥ | qʰɑ˧ pʰæ˧di˥! — mɤ˧-qʰɑ˥!
 \xe The vegetables look bitter! — No they aren't! (Table manners: out of modesty, the person who cooked the meal asks, in self-deprecation: “The vegetables look bitter!” The guests answer: “No they aren't!”)
 \xn 菜看起来是苦的！／菜很苦吧？ — 不苦，不苦！（情景：吃饭的时候，做了饭的人谦虚地问：“菜很苦吧？”客人回答：“不苦，不苦！”）
 \xf Les légumes m'ont l'air amers! — Mais non, pas du tout! (Politesse à table: la personne qui a fait la cuisine fait mine de s'inquiéter au sujet de la qualité des mets proposés aux convives. Ceux-ci répondent: «Mais non, pas du tout!»)
@@ -85867,7 +85867,7 @@
 \xn 这像什么呢？／这，给人是什么样的印象？（委婉说法，给一个人指出，他的行为不像话：如，一个人正在喝太多酒。）
 \xf Quelle impression ça produit, tout ça? (Façon calme et posée de signifier à quelqu'un que son comportement manque à la dignité: par exemple si quelqu'un se laisse aller à boire des quantités déraisonnables d'alcool.)
 
-\lx -pɤ˧to˩
+\lx pɤ˧to˩
 \or bedo
 \ps adv
 \sd <langue="fra"> morphosyntaxe
@@ -85881,19 +85881,19 @@
 \gn 连
 \df Même.
 \gf même
-\xv ʈʂʰɯ˧ | li˩-pɤ˥to˩ | ʈʰɯ˩-ɲi˥!
+\xv ʈʂʰɯ˧ | li˩ pɤ˥to˩ | ʈʰɯ˩-ɲi˥!
 \xe She even drinks tea! (About the eating and drinking habits of a one-year-old child)
 \xn 她连茶都喝！（关于一个一岁孩子的饮食习惯）
 \xf Elle boit même du thé! (au sujet de l'alimentation d'un enfant d'un an)
-\xv ʈʂʰɯ˧ | pɤ˩jɤ˧-pɤ˥to˩ | dzɯ˩-ɲi˥!
+\xv ʈʂʰɯ˧ | pɤ˩jɤ˧ pɤ˥to˩ | dzɯ˩-ɲi˥!
 \xe She even eats bread! (About the eating and drinking habits of a one-year-old child)
 \xn 她连面包都吃！
 \xf Elle mange même du pain! (au sujet de l'alimentation d'un enfant d'un an)
-\xv hæ˧, | kʰv̩˩mi˩-ʂe˩-pɤ˥to˩ dzɯ˩-kv̩˩!
+\xv hæ˧, | kʰv̩˩mi˩-ʂe˩ pɤ˥to˩ dzɯ˩-kv̩˩!
 \xe The (Han) Chinese even eat dog meat! (Consumption of dog meat is forbidden in Na culture.)
 \xn 汉族连狗肉都吃！（注：摩梭人不吃狗肉）
 \xf les Chinois, ils mangent même du chien! (L'un des interdits alimentaires na concerne la viande de chien, le chien étant un animal hautement respecté dans la culture na.)
-\xv bo˩-pɤ˥to˩; lɑ˧-pɤ˧to˩; mv̩˩-pɤ˥to˩; ʐwæ˧-pɤ˧to˩; ɬi˧mi˧-pɤ˧to˩; ɲi˧mi˧-pɤ˧to˩; hwɤ˧li˧-pɤ˥-to˩; hwɤ˧mi˧-pɤ˥to˩; kʰv̩˩mi˩-pɤ˥-to˩; ʁo˧dzi˩-pɤ˩to˩; ʝi˩ʈʂæ˧-pɤ˥to˩; nɑ˩hĩ˧-pɤ˧to˩; bo˩mi˧-pɤ˧to˩; bo˩ɬɑ˧-pɤ˩to˩; ʁæ˧ʈv̩˥-pɤ˩to˩
+\xv bo˩ pɤ˥to˩; lɑ˧ pɤ˧to˩; mv̩˩ pɤ˥to˩; ʐwæ˧ pɤ˧to˩; ɬi˧mi˧ pɤ˧to˩; ɲi˧mi˧ pɤ˧to˩; hwɤ˧li˧ pɤ˥-to˩; hwɤ˧mi˧ pɤ˥to˩; kʰv̩˩mi˩ pɤ˥-to˩; ʁo˧dzi˩ pɤ˩to˩; ʝi˩ʈʂæ˧ pɤ˥to˩; nɑ˩hĩ˧ pɤ˧to˩; bo˩mi˧ pɤ˧to˩; bo˩ɬɑ˧ pɤ˩to˩; ʁæ˧ʈv̩˥ pɤ˩to˩
 \xe combinations with nouns of the various tone categories
 \xn 与不同声调类的名词结合
 \xf en association avec des noms des diverses catégories tonales
