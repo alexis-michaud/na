@@ -87389,3 +87389,19 @@
 \df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Ciddi}», ‘exorciser les fantômes, chasser les fantômes’.
 \gf rituel_Ciddi
 
+\lx tɕo˧˥ʂɯ˩
+\or joshi
+\bw <langue="cmn"> 就是
+\ps disc.ptcl
+\lc tɕo˧˥ʂɯ˩
+\sd <langue="fra"> abstrait
+\sd <langue="eng"> abstract
+\ton MH+L
+\so F4
+\de Quite right; exactly, precisely, just. Commonly used as a gap-filler: `that is...'
+\ge 就是::gap_filler
+\dn 就是（填空词）
+\gn 就是（借词）
+\df Tout-à-fait; exactement, précisément. Couramment employé comme explétif: `c'est-à-dire...'
+\gf 就是::explétif
+
