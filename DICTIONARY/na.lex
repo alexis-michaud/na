@@ -11192,7 +11192,7 @@
 \sd <langue="eng"> classifier
 \ton Lγ
 \so F4
-\de Classifier for entire dresses. Also used for prayer flags.
+\de Classifier for sets of clothing. Also used for prayer flags.
 \ge |fg{clf}.costumes
 \dn |fg{量词}：衣服（一套）。也用于经幡（风马旗）。
 \gn 量词.套
@@ -81219,7 +81219,7 @@
 \lx ʐe˧ɻ̩̃#˥
 \sf <nb="B"> 622
 \sf <nb="2011"> 919
-\or reieun
+\or rei'eun
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -84285,7 +84285,7 @@
 \xf sarcler du maïs
 
 \lx ʐwæ˩~ʐwæ˧˥
-\or ruaeq
+\or ruaeruae
 \mr ʐwæ˧˥
 \ps v
 \sd <langue="fra"> verbe
