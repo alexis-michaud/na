@@ -1,6 +1,3 @@
-Nom à donner au PDF du dico :
-Lexika3_永宁阿拉瓦村摩梭方言—汉—英—法词典_v2_0_1_2025-03-06
-
 Symboles utiles pour na.lex:    ‡ (erroné)    † (prédit mais non attesté)
 “”  ‘’  «» Lettres grecques pour les sous-catégories tonales: α β γ
 Absence de ton: noter 0. Absence de forme de surface (lc): noter --
@@ -10,6 +7,9 @@ na:  |fv{}    nom scientifique:  |fi{}   chinois:  |fn{}    gloses: |fg{}    |fo
 la Vague pour le mot-cible: 〜
 variation libre: ≈           tiret cadratin : — barre penchée chinoise : ／
 \vf <print="n">
+
+Pour autoriser une coupure:
+\-
 
 \textecmn passe en noir ; \pcmn passe dans le style de la langue dans le dictionnaire.
 
