@@ -49042,7 +49042,6 @@
 
 \lx pv̩˧
 \sf <nb="2011"> 1985
-\hm 1
 \or bu
 \ps v
 \sd <langue="fra"> verbe

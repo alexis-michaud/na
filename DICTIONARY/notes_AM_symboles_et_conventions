@@ -10,6 +10,12 @@ variation libre: ≈           tiret cadratin : — barre penchée chinoise : �
 
 Pour autoriser une coupure:
 \-
+{\linebreak} : \linebreak[<value>]
+"Terminates the current line and formats it in the same way as the preceding line. If that line is justified, this line would be justified as well. The optional argument <value> takes integer values between 0 and 4 inclusive to specify the urgency of the line break; 4 means it must occur."
+Pour diminuer l'inter-colonnes d'un tableau:
+{\setlength\tabcolsep{4.5pt}
+
+
 
 \textecmn passe en noir ; \pcmn passe dans le style de la langue dans le dictionnaire.
 
@@ -76,8 +82,6 @@ julia --project exécuter.jl exemples/na/configuration.yml --latex
 
 
 
-
-
 \de To tidy up, to sort out (monosyllabic root extracted from the reduplicated form based on synchronic tone rules).
 \ge to_tidy_up
 \dn 收拾。这个单音节动词是依据共时形态调系规则从双音节的重叠词推导的单音节词根。
@@ -85,12 +89,3 @@ julia --project exécuter.jl exemples/na/configuration.yml --latex
 \df Ranger (racine monosyllabique extraite de la forme rédupliquée, sur la base des règles tonales synchroniques).
 
 |fg{neg} |fg{否定} 〜
-
-
-xxxxxx signaler :
-https://cnrs.zoom.us/saml/login?_x_zm_rtaid=DACpfMiHTNa-1xr9XB03mQ.1734601159023.7d42de69f1b5d032e6d925be71dc97d9&_x_zm_rhtaid=827
-
-
-Le délai d’attente est dépassé
-
-Une erreur est survenue pendant une connexion à janus.cnrs.fr.
