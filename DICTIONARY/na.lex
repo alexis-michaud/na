@@ -61393,7 +61393,7 @@
 \gn 早上献给神的食物
 \df Offrande aux esprits: repas qu'on leur offre le matin; on y met du thé, du beurre, de la farine, et du miel (et éventuellement des fleurs: |fv{/so˧ dze˧-bæ˩bæ˩/}); on le fait brûler sur un feu d'épines de pin.
 \gf offrande_du_matin_aux_esprits
-\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mɑ˧pʰɻ̩˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
+\xv bæ˩bæ˩˥, | ʁo˩kʰv̩˩˥, | mɤ˧pʰɻ̩˧, | ɳæ˧, | tsɑ˧bɤ˧, | dze˩mi˧-dze˧.
 \xe list of ingredients of the offering to the gods: flowers, sandalwood, butter, milk, flour and honey
 \xn 配料：花、香木、酥油、奶、面粉、蜂蜜。
 \xf liste des ingrédients avec lesquels on compose cette offrande: fleurs, santal, beurre, lait, farine et miel.
