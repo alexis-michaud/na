@@ -21529,7 +21529,7 @@
 \xe He has entirely read it in one night! / He has read the whole (book) in just one night! (Imagined context: someone is given a book; he finishes reading it within a day)
 \xn 一个晚上就读完了！／一天之内都读完了！（情景：送一个人一本书，他马上全部读完）
 \xf (Il) a tout lu en deux jours! (contexte imaginé: on offre un livre à quelqu'un; en deux jours il a tout lu)
-\rf F5 xxxxxx
+\rf F5
 
 \lx hɑ˩α
 \or haq
