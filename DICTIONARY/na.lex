@@ -87310,7 +87310,7 @@
 \gf rituel_Reda
 
 \lx ʑi˧mv̩˧ qʰwɤ˧˥
-\or Xximu khua
+\or Xximu khuaq
 \mr ʑi˧mv̩˧˥
 \ps n
 \sd <langue="fra"> religion
@@ -87318,14 +87318,14 @@
 \nt <print="n" dom="sem" langue="fra"> Rituel n°34 des DVD (6.6)
 \nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
 \ton LM? LH? LM+#H?
-\lc ʐɤ˩tɑ˥
+\lc ʑi˧mv̩˧ qʰwɤ˧˥
 \so M18
 \de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Xximu khua}”, ‘to dream’. “This is an important component of funeral rituals. ‘|fo{Xximu}’ means ‘dream’, and ‘|fo{khua}’ means ‘broken, bad’, hence ‘nightmare, unknown dream’. Through this Dream Scripture, we can see the psychology, imagination, and understanding of the concept of death of the Na’s ancestors. The Dream Scripture mainly consists of a list of omens of death. It aims to make sense of phenomena that seem absurd and bizarre on the surface -- as absurd as the fate of a loved one who suddenly becomes unable to speak, hear, or see due to an unseen illness, and finally passes away, leaving the living in acute distress.” (Latami Wangyong)
-\ge Reda_ritual
+\ge Xximu_khuaq_ritual
 \dn 达巴《梦经》，音译为《日穆垮》经或《日目垮》经。直译：‘做梦’。“这是葬礼仪式中的一个重要经典。“日穆”是梦的意思，“垮”是破碎、坏的意思，是做噩梦、不详之梦。通过这部梦经，可以看出摩梭先民的心理、意识、想象、联想以及对死亡观念的理解。整部《梦经》主要罗列的是死亡的诸多特殊预兆以及一系列表面看来荒诞离奇，其实却合情合理的现象。当一个活生生的亲人突然之间由于看不见、摸不着的病痛，口不能言、耳不能听、眼不能看，最后悄然离开。活着的人们就会因极度的恐惧而心生许许多多的联想和想象。如一个人上山打猎被野兽伤害，便认为这人得罪了某位神灵，把伤人的野兽拟人化，夸张出很多惊人的事实，借此产生敬畏心理并将它化为图腾。”（拉他咪王勇）
 \gn 《日目垮》经
 \df Nom d'un rituel effectué par le prêtre |fo{ddabe}: «|fo{Xximu khua}», ‘rêver’. «Il s'agit d'un élément important des rituels funéraires. ‘|fo{Xximu}’ signifie ‘rêve’ et ‘|fo{khua}’ signifie ‘brisé, mauvais’, d'où ‘cauchemar, rêve inconnu’. Ce texte donne un aperçu de la psychologie, l'imagination, et la compréhension du concept de la mort des ancêtres des Na. Le texte consiste principalement en une liste de présages de mort. Il vise à donner un sens à des phénomènes qui semblent absurdes et bizarres à première vue -- aussi absurdes que le destin d'un être cher qui devient soudain incapable de parler, d'entendre ou de voir en raison d'une maladie invisible, et qui finit par s'éteindre, laissant les vivants dans une détresse aiguë» (Latami Wangyong).
-\gf rituel_Reda
+\gf rituel_Xximu_khuaq
 
 \lx kv̩˧pv̩˥
 \or Gubu
