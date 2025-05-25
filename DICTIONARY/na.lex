@@ -816,7 +816,7 @@
 \lx ɑ˩pʰo˩-hĩ˩
 \sf <nb="B"> 898b
 \sf <nb="2011"> 1317
-\or apohin
+\or apo hin
 \ps n
 \mr ɑ˩pʰo˩
 \mr hĩ˥
@@ -1228,12 +1228,15 @@
 \lx æ˧ʂæ˧-qʰwɤ˧˥
 \sf <nb="B"> 639
 \sf <nb="2011"> 956
-\or eshae khua
+\or eshae khuaq
+\mr æ˧ʂæ#˥
+\mr qʰwɤ˧˥2
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
 \nt <type="hist" print="n" langue="fra"> (notation 2009; auparavant: /æ˧ʂæ˧kʶwɑ˩˥/) æ˧ʂæ˧qʰwɤ˧ ʐwɤ˧˥: qd prédicat au ton 3, /L/, le contour se déploie dessus? réponse F4, 15 mars 09: confirme /æ˧ʂæ˧qʰwɤ˧ʐwɤ˧˥/, càd tons du verbe dans la continuité de ce qui précède (æ˧ʂæ˧: ton d2a; ne peut s'employer seul: on ne peut dire: /†æ˧ʂæ˧ʐwɤ˧˥/)
 \nt <type="hist" print="n" langue="fra"> nasalité: vérifié en août 2014
+\nt <type="hist" print="n" langue="fra"> orthographe modifiée par Roselle en mai 2025, pour ajouter une marque de ton L. Précédemment: eshae khua.
 \ton MH#
 \lc æ˧ʂæ˧qʰwɤ˧˥
 \cf æ˧ʂæ˧-pi˧mv̩˧˥
@@ -1657,15 +1660,15 @@
 \lx æ̃˩zɯ˩
 \sf <nb="B"> 2286
 \sf <nb="2011"> 571
-\or onssi
+\or eunssi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
 \nt <type="hist" print="n" langue="fra"> vérifié: peut être réalisé [æ̃˩zɯ˩]. Nasalité: vérifié en août 2014: est présente.
-\nt <dom="dialect" langue="fra"> Forme indiquée par Roselle Dobbs: /|fv{õ˩zɯ˩}/.
-\nt <dom="dialect" langue="eng"> Roselle Dobbs indicates the form /|fv{õ˩zɯ˩}/.
-\nt <dom="dialect" langue="cmn"> 杜玫瑰记录的发音是/|fv{õ˩zɯ˩}/。
-\nt <type="hist" print="n" langue="fra"> La forme indiquée par Roselle Dobbs avait d'abord été notée /ũ˩zɯ˩˧/, ton d3, c'est-à-dire ton L. Le sens est le même: `agate'.
+\nt <dom="dialect" langue="fra"> Forme indiquée par Roselle Dobbs: /|fv{ɻ̩̃˩zɯ˩}/.
+\nt <dom="dialect" langue="eng"> Roselle Dobbs indicates the form /|fv{ɻ̩̃˩zɯ˩}/.
+\nt <dom="dialect" langue="cmn"> 杜玫瑰记录的发音是/|fv{ɻ̩̃˩zɯ˩}/。
+\nt <type="hist" print="n" langue="fra"> La forme indiquée par Roselle Dobbs avait d'abord été notée /|fv{ũ˩zɯ˩}/. Elle avait ensuite été modifiée en /|fv{õ˩zɯ˩}/. En mai 2025, Roselle indique de modifier en /|fv{ɻ̩̃˩zɯ˩}/. Le sens est le même: `agate'. Le ton est également inchangé: il a toujours été identifié comme un ton L (ton d3 des premières classifications).
 \ton L
 \lc æ̃˩zɯ˩˥
 \so F4
@@ -5127,6 +5130,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n" langue="fra"> Ton LM confirmé (type `porc').
+\nt <type="hist" print="n" langue="fra"> Orthographe changée de bbeuq en bbeu en mai 2025 à la demande de Roselle. 'In my LTD data, 'yak' is HL.'
 \ton LM
 \so F4
 \va <speaker="F5"> ID.
@@ -7750,6 +7754,7 @@
 \sd <langue="eng"> natural environment
 \ton LH
 \lc ɖæ˩pʰv̩˥
+\nt <type="hist" print="n" langue="fra"> Message from Roselle Dobbs in May 2025: 'Spelling may be ddaepeu (not ddaepu). Could you check next time, please?' xxxx
 \so F4
 \va <speaker="M23"> ID.
 \pdv ti˧˥α
@@ -15690,12 +15695,13 @@
 \gf frère_du_père
 
 \lx ə˧bo˧-ɖɯ˧˥
-\or abbo ddee
+\or abbo ddeeq
 \mr ə˧bo˥$
 \mr ɖɯ˩α
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
+\nt <type="hist" print="n" langue="fra"> Spelling changed from abbo ddee to abbo ddeeq in May 2025.
 \ton MH#
 \lc ə˧bo˧ɖɯ˧˥
 \so F4
@@ -17281,10 +17287,11 @@
 \lx ə˧v̩˧-ɖɯ˧˥
 \mr ə˧v̩˧˥2
 \mr ɖɯ˩α
-\or avu ddee
+\or avu ddeeq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
+\nt <type="hist" print="n" langue="fra"> Spelling changed from avu ddee to avu ddeeq in May 2025.
 \ton MH#
 \lc ə˧v̩˧ɖɯ˧˥
 \cf ə˧v̩˧-tɕi˥
@@ -21130,6 +21137,8 @@
 \gn 辫子
 \df Tresse.
 \gf tresse
+\xo No (bbu) haenbe khashae ggu.
+\rf F22
 
 \lx hɑ˧pɻ̩˩
 \or habeu
@@ -21520,8 +21529,7 @@
 \xe He has entirely read it in one night! / He has read the whole (book) in just one night! (Imagined context: someone is given a book; he finishes reading it within a day)
 \xn 一个晚上就读完了！／一天之内都读完了！（情景：送一个人一本书，他马上全部读完）
 \xf (Il) a tout lu en deux jours! (contexte imaginé: on offre un livre à quelqu'un; en deux jours il a tout lu)
-\rf F5
-\dt 24/Apr/2017
+\rf F5 xxxxxx
 
 \lx hɑ˩α
 \or haq
@@ -23472,7 +23480,6 @@
 \xn 我会等你们的！
 \xf Je vous attendrai!
 \rf F5
-\dt 09/Oct/2017
 
 \lx hɯ˧γ
 \sf <nb="B"> 1756c
@@ -49856,6 +49863,7 @@
 \sd <langue="eng"> verb
 \ton HL
 \lc pʰv̩˧ʈʂʰe˩
+\nt <type="hist" print="n" langue="fra"> Message from Roselle Dobbs in May 2025: 'Spelling may be peuchei (not puchei). Could you check next time, please?' xxxx
 \so F4
 \de To distinguish.
 \ge to_distinguish
@@ -62715,12 +62723,13 @@
 \lx sɯ˧pɻ̩˩
 \sf <nb="B"> 226
 \sf <nb="2011"> 298
-\or sibu
+\or sibeu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (confirmé: n'est pas /si/) (avant 2009: noté: “sɯ˥ pv̩˧, tons confirmés")
 \nt <type="hist" print="n" langue="fra"> (observation 2006: “changement tonal régulier: ˧+ ˥ ˧ donne ˧ ˧˥") (aussi: dʑi˧kʶv̩˧ (puits), certainement erreur)
+\nt <type="hist" print="n" langue="fra"> Orthographe modifiée de sibu en sibeu en mai 2025.
 \ton L#
 \lc sɯ˧pɻ̩˩
 \so F4
@@ -62739,7 +62748,7 @@
 
 \lx sɯ˧pɻ̩˩-ni˩gv̩˩
 \sf <nb="2011"> 1494
-\or sibu niggu
+\or sibeu niq ggu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -64791,7 +64800,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n" langue="fra"> À partir de décembre 2011, la notation de la forme réduite est uniformisée en: [|fv{ʈʰææ̃˧}]. L'application aux textes se fait manuellement au cas par cas.
-\nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects.
+\nt <type="hist" print="n" langue="eng"> Comment from Roselle Dobbs, 2017: Siggeema insists that this word means 'often'. Comment by Alexis: this looks like a case of difference between dialects. Same comment from Roselle Dobbs in 2025: 'In my observation, this term means: often, always, all along. Perhaps it has both meanings. Worth investigation?'
 \nt <dom="phono" langue="fra"> Cette expression se simplifie souvent très fortement, au point qu'une notation au moyen de la forme complète /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ ressemble à un maniérisme. La forme réduite ressemble à [|fv{ʈʰæː˧}] (sans nasalité reconnaissable) ou [|fv{ʈʰææ̃˧}].
 \nt <dom="phono" langue="eng"> This expression typically undergoes drastic phonetic reduction, to the point where a notation using the full form /|fv{ʈʰæ˧mi˧-ɳɯ˩}/ looks like a mannerism. The reduced form sounds like [|fv{ʈʰæː˧}] (with no recognizable nasality) or [|fv{ʈʰææ̃˧}].
 \nt <dom="phono" langue="cmn"> 这个词通常大大简化，以至于使用完整形式/|fv{ʈʰæ˧mi˧-ɳɯ˩}/来转写似乎不合适了。简化发音接近 [|fv{ʈʰæː˧}]（没有明显的鼻音）或 [|fv{ʈʰæ̃˧}]。
@@ -64988,7 +64997,7 @@
 \dt 09/Oct/2015
 
 \lx tʰɑ˧-ni˥-ni˩-gv̩˩
-\or tanini ggu
+\or tani niq ggu
 \ps adv
 \ton -H.L-
 \lc tʰɑ˧ni˥ni˩gv̩˩
@@ -79720,12 +79729,13 @@
 \lx v̩˩dʑɯ˩
 \sf <nb="B"> 395
 \sf <nb="2011"> 499
-\or wujji
+\or vujji
 \ps n
 \lc v̩˩dʑɯ˩˥
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \nt <type="hist" print="n" langue="fra"> (terrain 2007; auparavant, avais noté: v̩˧dʑi˩˥, ton d2)
+\nt <type="hist" print="n" langue="fra"> “Wujji”, a special spelling for borrowings, was modified to the standard transcription, vujji, in May 2025.
 \ton L
 \so F4
 \va <speaker="F5"> ID.
@@ -79749,13 +79759,13 @@
 \lx v̩˧ko˧
 \sf <nb="B"> 1851
 \sf <nb="2011"> 2810
-\or wugo
+\or vugo
 \bw <langue="cmn"> 乌龟
 \ps n
 \lc v̩˧ko˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
-\nt <type="hist" print="n" langue="fra"> “Wugo” is a special spelling for borrowings.
+\nt <type="hist" print="n" langue="fra"> “Wugo”, a special spelling for borrowings, was modified to the standard transcription, vugo, in May 2025.
 \ton M
 \so F4
 \de Tortoise.
@@ -85711,7 +85721,7 @@
 \lx ni˧gv̩˧˥
 \sf <nb="B"> 1073
 \sf <nb="2011"> 3378
-\or niggu
+\or niq ggu
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
