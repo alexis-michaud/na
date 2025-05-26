@@ -5124,7 +5124,7 @@
 \lx bɻ̩˩˧
 \sf <nb="B"> 1922
 \sf <nb="2011"> 2928
-\or bbeuq
+\or bbeu
 \ps n
 \lc bɻ̩˩˥
 \sd <langue="fra"> animal
@@ -14993,12 +14993,13 @@
 \sf <nb="B"> 17
 \sf <nb="2011"> 28
 \hm 4
-\or zzhu
+\or zzheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \ton M
-\nt <type="hist" print="n" langue="fra"> Vérifié en 2024: est une rime v̩ et non ɻ̩.
+\nt <type="hist" print="n" langue="fra"> Vérifié en 2024: est une rime v̩ et non ɻ̩. xxxx vérifier à nouveau en 2025 ? Pour Roselle Dobbs: semble être ɻ̩
+\nt <type="hist" print="n" langue="fra"> Orthographe modifiée en mai 2025 de zzhu à zzheu
 \sy ɖʐv̩˧qʰɑ˧
 \lc ɖʐv̩˧
 \so F4
@@ -87317,10 +87318,10 @@
 \sd <langue="eng"> religion
 \nt <print="n" dom="sem" langue="fra"> Rituel n°34 des DVD (6.6)
 \nt <print="n" dom="sem" langue="fra"> xxxx ton à voir
-\ton LM? LH? LM+#H?
+\ton MH#
 \lc ʑi˧mv̩˧ qʰwɤ˧˥
 \so M18
-\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Xximu khua}”, ‘to dream’. “This is an important component of funeral rituals. ‘|fo{Xximu}’ means ‘dream’, and ‘|fo{khua}’ means ‘broken, bad’, hence ‘nightmare, unknown dream’. Through this Dream Scripture, we can see the psychology, imagination, and understanding of the concept of death of the Na’s ancestors. The Dream Scripture mainly consists of a list of omens of death. It aims to make sense of phenomena that seem absurd and bizarre on the surface -- as absurd as the fate of a loved one who suddenly becomes unable to speak, hear, or see due to an unseen illness, and finally passes away, leaving the living in acute distress.” (Latami Wangyong)
+\de Name of a ritual carried out by the |fo{ddabe} priest: “|fo{Xximu khuaq}”, ‘to dream’. “This is an important component of funeral rituals. ‘|fo{Xximu}’ means ‘dream’, and ‘|fo{khuaq}’ means ‘broken, bad’, hence ‘nightmare, unknown dream’. Through this Dream Scripture, we can see the psychology, imagination, and understanding of the concept of death of the Na’s ancestors. The Dream Scripture mainly consists of a list of omens of death. It aims to make sense of phenomena that seem absurd and bizarre on the surface -- as absurd as the fate of a loved one who suddenly becomes unable to speak, hear, or see due to an unseen illness, and finally passes away, leaving the living in acute distress.” (Latami Wangyong)
 \ge Xximu_khuaq_ritual
 \dn 达巴《梦经》，音译为《日穆垮》经或《日目垮》经。直译：‘做梦’。“这是葬礼仪式中的一个重要经典。“日穆”是梦的意思，“垮”是破碎、坏的意思，是做噩梦、不详之梦。通过这部梦经，可以看出摩梭先民的心理、意识、想象、联想以及对死亡观念的理解。整部《梦经》主要罗列的是死亡的诸多特殊预兆以及一系列表面看来荒诞离奇，其实却合情合理的现象。当一个活生生的亲人突然之间由于看不见、摸不着的病痛，口不能言、耳不能听、眼不能看，最后悄然离开。活着的人们就会因极度的恐惧而心生许许多多的联想和想象。如一个人上山打猎被野兽伤害，便认为这人得罪了某位神灵，把伤人的野兽拟人化，夸张出很多惊人的事实，借此产生敬畏心理并将它化为图腾。”（拉他咪王勇）
 \gn 《日目垮》经

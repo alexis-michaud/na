@@ -12,6 +12,7 @@ STKaiti.ttf : ne se trouve pas sur l'internet ouvert.
 
 L'information de version est dans un fichier variables.tex
 \NewDocumentCommand \version {} {2.0.1}
+(attention, il y a aussi une info dans configuration.yml ; version: "2.0.2" ; mais elle est sans effet)
 
 Mettre à jour TeX Live :
 https://tex.stackexchange.com/questions/540429/tlmgr-in-ubuntu-20-04-local-tex-live-2019-is-older-than-remote-repository-2
