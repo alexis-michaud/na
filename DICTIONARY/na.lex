@@ -3788,7 +3788,7 @@
 \xv bæ˩-po˩-ɳɯ˥ | ʐwæ˧ | tʰi˧-tsɯ˧~tsɯ˧-kwɤ˩tɕɯ˩-zo˩, | gi˧dʑɯ˧-qo˧mv̩˧, | fv! pi˧, | ɖɯ˧-tɕo˥ | kʰɯ˧˥!
 \xe When one had tied a horse with a small rope [to the shuttle that slid on the massive rope], above the Yangtze, Whizz!!! we sent it over there! (=the horse was sent over the river on the rope, to reach the other bank)
 \xn 当人们用一根小绳子[把马拴在梭子上，梭子在巨大的绳子上滑动]把马拴在长江上面时，“唰！”人家把它送过去！(马被拴在绳索上越过长江，到达对岸）。
-\xf Quand, avec une corde, on avait attaché un cheval [à la navette qui coulissait sur la corde], au-dessus du Yangtze, Vzzzt!!! on l'envoyait par là-bas! (=on le lançait sur la corde au-dessus du fleuve, pour atteindre l'autre rive)
+\xf Quand, avec une corde, on avait attaché un cheval [à la navette qui coulissait sur la corde], au-dessus du Yangtzé, Vzzzt!!! on l'envoyait par là-bas! (=on le lançait sur la corde au-dessus du fleuve, pour atteindre l'autre rive)
 \txt Caravans.137
 \doi 10.24397/pangloss-0004531#S137
 
@@ -7648,6 +7648,9 @@
 \df Célébrer les noces, célébrer un mariage.
 \gf célébrer_les_noces
 \xv ʐɯ˧ ʈʰɯ˩, | hɑ˧ dzɯ˧
+\xe to hold a banquet; literally: to drink alcohol and eat food. The term is used to refer to the celebration of a wedding.
+\xn 举行宴会。字面意思：喝酒、吃饭。该词用于指婚礼庆典。
+\xf organiser un banquet; littéralement: boire de l'alcool et manger de la nourriture. Le terme est utilisé pour désigner la célébration d'un mariage.
 
 \lx ɖæ˩mi˧
 \or Ddaemi
@@ -18066,20 +18069,20 @@
 \ge Yangtze_river
 \dn 金沙江
 \gn 金沙江
-\df Le fleuve Yangtze.
-\gf fleuve_Yangtze
+\df Le fleuve Yangtzé.
+\gf fleuve_Yangtzé
 \xv gi˧dʑɯ˧-kʰi#˥
 \xe the banks of the Yangtze river: Fengke, Labai…
 \xn 金沙江边：奉科，拉伯……
-\xf le bord du fleuve Yangtze: Fengke, Labai…
+\xf le bord du fleuve Yangtzé: Fengke, Labai…
 \xv gi˧dʑɯ˧-kʰi˧-hĩ#˥
 \xe inhabitants of the banks of the Yangtze: people of Labai, Fengke…
 \xn 金沙江边的人：奉科人，拉伯人……
-\xf les riverains du Yangtze: gens de Labai, Fengke…
+\xf les riverains du Yangtzé: gens de Labai, Fengke…
 \xv gi˧dʑɯ˧ ɖæ˩
 \xe to cross the Yangtze river
 \xn 过金沙江
-\xf traverser le fleuve Yangtze
+\xf traverser le fleuve Yangtzé
 
 \lx gi˩kɯ˩
 \sf <nb="B"> 1887
@@ -36512,7 +36515,7 @@
 \ge 六区::Fengke
 \dn 六区，今奉科乡
 \gn 六区（今奉科乡）（借词）
-\df Fengke: nom chinois ancien du village de Fengke, au bord du Yangtze.
+\df Fengke: nom chinois ancien du village de Fengke, au bord du Yangtzé.
 \gf 六区::Fengke
 
 \lx lv̩˩tɕʰɯ˧-hĩ#˥
@@ -77565,7 +77568,7 @@
 \ge 船::boat
 \dn 船
 \gn 船（借词）
-\df Bateau (emprunt chinois ancien); désormais, c'est le terme employé pour les grands bateaux, par ex. les barges pour passer le Yangtze; ce sont des Chinois (Han) et des Hmong qui auraient installé le bateau permettant de passer le Yangtze, d'où l'utilisation d'un mot chinois.
+\df Bateau (emprunt chinois ancien); désormais, c'est le terme employé pour les grands bateaux, par ex. les barges pour passer le Yangtzé; ce sont des Chinois (Han) et des Hmong qui auraient installé le bateau permettant de passer le Yangtzé, d'où l'utilisation d'un mot chinois.
 \gf 船::bateau
 \dt 27/Apr/2017
 
@@ -81578,11 +81581,12 @@
 \xf Le village tout entier formait une seule famille. (Résumé du principe de fonctionnement de l'économie collectivisée.)
 
 \lx ʑi˩˧
-\or xxi
+\or xxiq
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\nt <type="hist" print="n" langue="fra"> à ce jour (2013), seulement trouvé “bâtir" et “démolir" comme verbes pouvant s'associer à la racine monosyllabique.
+\nt <type="hist" print="n" langue="fra"> à date de 2013, seulement trouvé “bâtir" et “démolir" comme verbes pouvant s'associer à la racine monosyllabique. S'y ajoute ensuite “fonder un nouveau foyer".
+\nt <type="hist" print="n" langue="fra"> Orthographe modifiée de xxi à xxiq le 19 juin 2025.
 \ton LM? LH?
 \lc --
 \so F4
@@ -81597,6 +81601,7 @@
 \xn 建房立家（固定词语）
 \xf Bâtir une demeure, bâtir un foyer (expression proverbiale)
 \xv ʑi˩ tʰv̩˩˥
+\xo xxiq tu
 \xe to found a new home, to build a new house
 \xn 分家，建立自己的新房屋比如：孩子多，一个孩子建自己的房子）
 \xf Fonder une nouvelle demeure: lorsque la famille est nombreuse, un de ses membres peut bâtir sa propre demeure
@@ -81619,7 +81624,6 @@
 \xe Where is the house of the Latami family? (Context: an outsider comes to the village of Alawua, looking for the house of Latami Dashi, whose songs he has heard; in the village, he asks where the family lives.)
 \xn 拉他咪家在哪里？（情景：一个喜欢拉他咪达石写的歌的游客来阿拉瓦村，找拉他咪家。）
 \xf Où se trouve la maison de la famille Latami? (Contexte: un touriste qui apprécie les chansons de Latami Dashi se rend dans le village de Alawua, et cherche la maison où il habite.)
-\dt 27/Apr/2017
 
 \lx ʑi˩˥
 \sf <nb="B"> 1912
@@ -83845,8 +83849,8 @@
 \ge banks_of_the_Yangtze
 \dn 金沙江边的地方（气候热）
 \gn 金沙江边
-\df Les rives du Yangtze; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants La, Gi, Jj.)
-\gf rives_du_Yangtze
+\df Les rives du Yangtzé; le climat y est chaud et humide. Ces régions sont perçus par les Na de Yongning comme peuplées de Pumi; ils imaginent que les habitants de Fengke et Labai seraient des descendants des Pumi. (Source: consultants La, Gi, Jj.)
+\gf rives_du_Yangtzé
 
 \lx ʐv̩˧dzi˩
 \sf <nb="B"> 2025
@@ -83994,7 +83998,7 @@
 \ge Pumi_territory
 \dn 江边普米族地区（带偏见的说法）
 \gn 江边普米族地区
-\df Les territoires des Pumi, au bord du fleuve Yangtze. Le terme est connoté péjorativement: cette région est perçue comme périphérique et moins plaisante que la plaine de Yongning.
+\df Les territoires des Pumi, au bord du fleuve Yangtzé. Le terme est connoté péjorativement: cette région est perçue comme périphérique et moins plaisante que la plaine de Yongning.
 \gf territoires_des_Pumi
 \xv ʐɻ̩˧mv̩˧lɑ˧di˧ hĩ˥
 \xe people from the Pumi territories
