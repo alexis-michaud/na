@@ -56,3 +56,17 @@ Relancé à 18h. Le français est compilé à 19h05, l'anglais à 19h35
 Relancé à 20h (avec numéro de version correct).
 
 Pour tester la sortie : rechercher le caractère de remplacement pour symbole inexistant dans le PDF créé par Lexika : �.
+
+2025 : produire version par version, en commentant dans configuration.yml :
+  xsl:
+ # - latex alphabétique français.xsl
+ #  - latex alphabétique anglais.xsl
+ - latex alphabétique chinois.xsl
+  latex:
+ # - na français.tex
+ #  - na anglais.tex
+ - na chinois.tex
+  pdf:
+ # - résultats/na français.pdf
+ #  - résultats/na anglais.pdf
+ - résultats/na chinois.pdf

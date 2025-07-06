@@ -1009,6 +1009,7 @@
 \xn 你家
 \xf ton foyer, ta maison
 \xv ɑ˩ʁo˧ ʝi˧
+\xo awo yi
 \xe to take care of the household, to look after the affairs of the family (in particular: distributing work to the various members, and ensuring that the supplies are not running low)
 \xn 在家里做事情、管家（如：分配工作、做家务事等）
 \xf gérer la maisonnée, s'occuper de la famille (tâche de la personne qui répartit les travaux à accomplir, veille aux approvisionnements…)
@@ -4492,7 +4493,7 @@
 \xc <dom="ton" langue="fra"> Schéma tonal régulier pour un nom au ton LM et un verbe au ton Lβ.
 \xc <dom="ton" langue="eng"> The tonal pattern is regular.
 \xc <dom="ton" langue="cmn"> 此处的变调是符合常规的。
-\xv bo˩mi˧ do˩ (+ze˩)
+\xv bo˩mi˧ do˩ (+-ze˩)
 \xe …has seen (a/the) sow
 \xn 见了母猪
 \xf …a vu (une/la) truie
@@ -8271,8 +8272,9 @@
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (correction 2007; en 2006, avais noté: di˩mi˩˥).
 \nt <dom="sem" langue="fra"> on ne peut utiliser le suffixe /-zo/ ‘petit'
-\ton M
 \lc di˧mi˧
+\cf ɬi˧di˩-di˩mi˩
+\ton M
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> di˩æ˩˥; di˩mi˩˥
@@ -8285,11 +8287,6 @@
 \gn 平坝
 \df Grande plaine.
 \gf grande_plaine
-\xv ɬi˧di˩-di˩mi˩
-\xe the plain of Yongning
-\xn 永宁坝
-\xf la plaine de Yongning
-\dt 27/Aug/2015
 
 \lx di˧qo˧
 \sf <nb="B"> 48b
@@ -8640,7 +8637,7 @@
 \xn 〜 |fg{否定} |fg{未来／愿望}：不许（看）见
 \xf 〜 |fg{neg} |fg{désidératif}
 \xc PHONO
-\xv bo˩mi˧ do˩ (+ze˩)
+\xv bo˩mi˧ do˩ (+-ze˩)
 \xe …has seen (a/the) sow
 \xn 看见了母猪
 \xf …a vu (une/la) truie
@@ -16897,8 +16894,8 @@
 \pdv v̩˧
 \de Great-grandmother (on the mother's side); extended meaning: great-grandmother and her siblings (brothers and sisters): third-generation elders.
 \ge great_grandmother/3rd_generation_elders
-\dn 祖母。泛指：祖母与其兄弟姐妹
-\gn 祖母
+\dn 母亲的母亲的母亲（祖母的母亲）。泛指：祖母的母亲与其兄弟姐妹
+\gn 母亲的母亲的母亲
 \df Arrière-grand-mère (bisaïeule); sens étendu: bisaïeule et ses frères et sœurs, c'est-à-dire les membres importants de la famille à la troisième génération au-dessus.
 \gf bisaïeule
 
@@ -25294,7 +25291,8 @@
 \xn 应该这样做的！
 \xf Voilà comment il faut faire! / C'est comme ça qu'on fait!
 \xv ɑ˩ʁo˧ ʝi˧
-\xe to take care of the household, to look after the affairs of the family; in particular: distributing work to the various members, and ensuring that the supplies are not running low
+\xo awo yi
+\xe to take care of the household, to look after the affairs of the family (in particular: distributing work to the various members, and ensuring that the supplies are not running low)
 \xn 管理家里的大小事情（如：分配工作、家务等）
 \xf gérer la maisonnée, s'occuper de la famille (tâche de la personne qui répartit les travaux à accomplir, veille aux approvisionnements…)
 \xv ɑ˩ʁo˧ le˧-ʝi˥, | se˩ mɤ˩-tʰɑ˥!
@@ -30888,7 +30886,7 @@
 \lc kʰv̩˧ʂɯ˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\nt <type="hist" print="n" langue="fra"> (+ze˩) (tons confirmés)
+\nt <type="hist" print="n" langue="fra"> (+-ze˩) (tons confirmés)
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -33423,6 +33421,7 @@
 \or Lhiddi
 \ps n
 \lc ɬi˧di˩
+\cf ɬi˧di˩-di˩mi˩
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \ton L#
@@ -33433,10 +33432,23 @@
 \gn 永宁
 \df Yongning (nom de lieu).
 \gf Yongning
-\xv ɬi˧di˩-di˩mi˩
-\xe Yongning plain
-\xn 永宁坝子
-\xf la plaine de Yongning
+
+\lx ɬi˧di˩-di˩mi˩
+\or Lhiddi ddimi
+\mr ɬi˧di˩
+\mr di˧mi˧
+\ps n
+\lc ɬi˧di˩di˩mi˩
+\sd <langue="fra"> lieu
+\sd <langue="eng"> place name
+\ton L#-
+\so F4
+\de Yongning plain (place name).
+\ge Yongning_plain
+\dn 永宁坝子（地名）
+\gn 永宁坝子
+\df La plaine de Yongning (nom de lieu).
+\gf plaine_de_Yongning
 
 \lx ɬi˧di˩-hĩ˩
 \sf <nb="2011"> 329
@@ -47591,7 +47603,7 @@
 \xe She is pregnant.
 \xn 她怀孕了。
 \xf Elle est enceinte.
-\xv zo˧ po˩ (+ze˩)
+\xv zo˧ po˩ (+-ze˩)
 \xe to carry a child, i.e. to be pregnant
 \xn 怀孕
 \xf porter un enfant, être enceinte.
@@ -50273,7 +50285,7 @@
 \xe the fire is burning
 \xn 火在烧
 \xf ça brûle
-\xv mv̩˧ le˧-qæ˧-ze˥
+\xv mv̩˧ | le˧-qæ˧-ze˥
 \xe a fire has caught
 \xn 着火了
 \xf il y a un incendie
@@ -50282,6 +50294,7 @@
 \xn 火在烧／火烧着了
 \xf ça brûle; il y a un incendie
 \xc <type="hist" print="n" langue="fra"> en 2006: /‡mv̩˧kæ˥ɻ̩˧ kʰɯ˩/, /mv̩˧kæ˥ɻ̩˧ kʰɯ˩ ze˥/; en 2007: “confirmé par Mme Latami: est /ɭɯ˩/ et non /ɻ̩˩/"; 2009: confirme définitivement que c'est /ɻ/, non pas /ɭɯ/ ni /lv/.
+\xc <type="hist" print="n" langue="fra"> Note de 2025: le schéma tonal M.H... dans /|fv{mv̩˧ qæ˥-ɻ̩˩}/ est paradoxal, puisque la séquence N+V donne M.L (qu'il s'agisse d'une construction S+V ou O+V). S'il s'agissait d'un cas de découpage en deux groupes tonals, la fréquence fondamentale très élevée du verbe pourrait être attribuée à un effet coarticulatoire (dissimilation avec le ton L qui suit), doublé d'un rehaussement de début de groupe tonal. Cette explication ne serait pas complètement plausible, tant la f0 atteinte sur le verbe est élevée, s'il n'était pas possible d'invoquer la contribution que viendrait ajouter une forme d'insistance liée à la sémantique de l'événement désigné (un incendie). Mais même si cette explication paraissait acceptable, il resterait à expliquer pourquoi le verbe en vient à porter un ton M dans la séquence hypothétique /|fv{mv̩˧ | qæ˧-ɻ̩˩}/. En effet, le ton lexical du verbe est MH.
 \xv mv̩˧ qæ˥-ɻ̩˩ kʰɯ˩ ≈ mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩
 \xe to start a fire (as an act of destruction/war), to commit arson
 \xn （有人）放火
@@ -53180,7 +53193,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (tv; avant 2009, noté: kʰʶv̩˩kʰʶv̩˩˥ puis ˩ ˩˧), tso˧~tso˧qʰv̩˥qʰv̩˩ (+ze˩), lə˧qʰv̩˩qʰv̩˩ (premières notes: “læ˧kʰʶv̩˧kʰʶv̩˩", par erreur) le˥kʰʶv̩˩kʰʶv̩˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
+\nt <type="hist" print="n" langue="fra"> (tv; avant 2009, noté: kʰʶv̩˩kʰʶv̩˩˥ puis ˩ ˩˧), tso˧~tso˧qʰv̩˥qʰv̩˩ (+-ze˩), lə˧qʰv̩˩qʰv̩˩ (premières notes: “læ˧kʰʶv̩˧kʰʶv̩˩", par erreur) le˥kʰʶv̩˩kʰʶv̩˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
 \nt <type="hist" print="n" langue="fra"> kʰʶv̩˩kʰʶv̩˩˥, læ˥kʰʶv̩˩kʰʶv̩˩ +ze˩ (corrigé en 2007; notation 2006: le˧ kʰʶv̩˧kʰʶv̩˩)
 \ton MH
 \lc qʰv̩˩qʰv̩˧˥
@@ -54871,7 +54884,7 @@
 \xe Your family/clan is powerful!
 \xn 你们家族很强大！
 \xf votre famille/lignée/tribu est puissante!
-\xv ʁɑ˧ tʰv̩˧ (+ze˩)
+\xv ʁɑ˧ tʰv̩˧ (+-ze˩)
 \xe to exert oneself, to make efforts
 \xn 尽力
 \xf faire des efforts, donner toutes ses forces, s'impliquer (dans une tâche)
@@ -55168,7 +55181,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n" langue="fra"> (+ze˩)! Merci!
+\nt <type="hist" print="n" langue="fra"> (+-ze˩)! Merci!
 \nt <dom="ton" langue="fra"> Dans l'hypothèse où la seconde syllabe est le verbe /|fv{mi˩α}/ ‘demander, quémander', et la première syllabe un nom en position d'objet du verbe, d'après les règles tonales synchroniques (contemporaines), cet objet devrait être un nom au ton LM ou LH. À l'heure actuelle, le dictionnaire ne contient pas d'entrée correspondant à ce critère.
 \nt <dom="ton" langue="eng"> Assuming that the second syllable is the verb /|fv{mi˩α}/ ‘to ask, to beg’ and the first syllable a noun in object position, according to synchronic tonal rules, this object should be a noun carrying LM tone or LH tone. At present, the dictionary does not contain any entries that meet this criterion.
 \nt <dom="ton" langue="cmn"> 假设第二个音节是动词/|fv{mi˩α}/‘请求、乞求’，而第一个音节是位于动词宾语位置的名词，根据共时声调规则，这个宾语应该是LM或LH调的名词。目前，词典中还没有符合这一标准的词条。
@@ -56173,7 +56186,7 @@
 \gn 聚集
 \df Se rassembler.
 \gf se rassembler
-\xv le˧-ʁo˧dzi˥ (+ze˩)
+\xv le˧-ʁo˧dzi˥ (+-ze˩)
 \xe |fg{accomp} 〜
 \xn |fg{实施} 〜
 \xf |fg{accomp} 〜
@@ -58679,17 +58692,17 @@
 \df Quenouille: instrument en bois pour enrouler le fil, pour filer le chanvre.
 \gf quenouille
 \dv sɑ˧bo˧-di˧˥
-\xv ʈʂʰɤ˩ gv̩˥ (+ze˩)
+\xv ʈʂʰɤ˩ gv̩˥ (+-ze˩)
 \xe … made a distaff
 \xn 制作了卷线杆
 \xf … a fabriqué une quenouille
 \xc PHONO
-\xv ʈʂʰɤ˩ hwæ˥ (+ze˩)
+\xv ʈʂʰɤ˩ hwæ˥ (+-ze˩)
 \xe … bought a distaff
 \xn 买了卷线杆
 \xf … a acheté une quenouille
 \xc PHONO
-\xv ʈʂʰɤ˩ tɕʰi˥ (+ze˩)
+\xv ʈʂʰɤ˩ tɕʰi˥ (+-ze˩)
 \xe … sold a distaff
 \xn 卖了卷线杆
 \xf … a vendu une quenouille
@@ -62129,7 +62142,7 @@
 \gn 撕.|fg{重叠}
 \df Déchiqueter, déchirer en petits morceaux (par exemple: du papier) (forme rédupliquée).
 \gf déchirer.|fg{red}
-\xv tso˧~tso˧ ʂɤ˧~ʂɤ˥ (+ze˩)
+\xv tso˧~tso˧ ʂɤ˧~ʂɤ˥ (+-ze˩)
 \xe to tear things
 \xn 撕东西
 \xf déchirer des choses
@@ -67467,7 +67480,7 @@
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
-\nt <type="hist" print="n" langue="fra"> (avant 2009, noté mv̩˧ʁu˥tɕi˥; au sujet de l'ambiguïté phonétique de certaines séquences tonales, amenant à des erreurs de ce type, voir la section “réalisation phonétique des séquences tonales" du document “phonétique du na de Yongning") (tons vérifiés; d'abord noté mv̩˧ʁu˥tɕi˧pʰɻ̩˧ puis, au terme de l'enquête 2006, ˧˥ ˧ ˩; était le schéma tonal régulier d'après la notation d'alors) (d'abord noté tɕi˥ pʰɻ̩˩; confirmé, n'est pas tɕi˥ pʰɻ̩˧) (+ze˩; ton m2: tɕi˧ɲi˩)
+\nt <type="hist" print="n" langue="fra"> (avant 2009, noté mv̩˧ʁu˥tɕi˥; au sujet de l'ambiguïté phonétique de certaines séquences tonales, amenant à des erreurs de ce type, voir la section “réalisation phonétique des séquences tonales" du document “phonétique du na de Yongning") (tons vérifiés; d'abord noté mv̩˧ʁu˥tɕi˧pʰɻ̩˧ puis, au terme de l'enquête 2006, ˧˥ ˧ ˩; était le schéma tonal régulier d'après la notation d'alors) (d'abord noté tɕi˥ pʰɻ̩˩; confirmé, n'est pas tɕi˥ pʰɻ̩˧) (+-ze˩; ton m2: tɕi˧ɲi˩)
 \ton M
 \lc tɕɯ˧
 \so F4
@@ -75962,7 +75975,7 @@
 \gn 上吊自杀
 \df Se pendre, se suicider.
 \gf se_pendre
-\xv ʁæ˧tsɯ˧ le˧-ʂɯ˧ (+ze˧)
+\xv ʁæ˧tsɯ˧ le˧-ʂɯ˧ (+-ze˧)
 \xe to die by hanging oneself
 \xn 上吊自杀、缢
 \xf mourir par pendaison
@@ -77621,7 +77634,7 @@
 \lc ʈʂʰwæ˧bv̩˧nv̩˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\nt <type="hist" print="n" langue="fra"> (+ze˧, ton confirmé, à nouveau en 2009) “à l'odeur de pourriture"
+\nt <type="hist" print="n" langue="fra"> (+-ze˧, ton confirmé, à nouveau en 2009) “à l'odeur de pourriture"
 \ton #H
 \so F4
 \va <speaker="F5"> ID.
@@ -79412,15 +79425,17 @@
 \xe water freezes
 \xn 水冻成冰
 \xf l'eau gèle, il gèle
-\xv dʑɯ˩pʰæ˩ ʈwæ˧-ze˩
+\xv dʑɯ˩pʰæ˩ ʈwæ˥ (+-ze˩)
 \xe ice has formed
 \xn 水冻成冰了。
-\xf l'eau a gelé, de la glace s'est formée
+\xv dʑɯ˩pʰæ˩˥ | tʰi˧-ʈwæ˩-dʑo˩
+\xe Ice is forming. / The water is freezing.
+\xn （水）正在冻成冰。
+\xf l'eau est en train de geler, de la glace est en train de se former
 \xv ɖɯ˧-ʈwæ˧~ʈwæ˥-ɻ̩˩ kʰɯ˩
 \xe to put to freeze, to put in the deep freeze
 \xn 冷冻，放在冷箱
 \xf faire geler, mettre à congeler
-\dt 27/Apr/2017
 
 \lx ʈwɤ˧α
 \sf <nb="2011"> 1933
@@ -79439,7 +79454,7 @@
 \gn 啼
 \df Le coq chante, le coq fait cocorico; un oiseau chante.
 \gf chanter(oiseau)
-\xv æ̃˩ ʈwɤ˧ (+ze˧)
+\xv æ̃˩ ʈwɤ˧ (+-ze˧)
 \xe The cock sings.
 \xn 鸡叫。
 \xf Le coq chante, le coq fait cocorico.
