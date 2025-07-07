@@ -727,6 +727,8 @@
 \sf <nb="B"> 33
 \sf <nb="2011"> 44
 \or aenpae
+\mr æ˩˥
+\mr pʰæ˧˥α
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -745,6 +747,27 @@
 \dn 岩石、悬崖、崖山、崖壁
 \gn 岩石
 \df Falaise. Le terme désigne spécifiquement le dos d'une falaise: l'espace relativement plat en bord de précipice. Pour faire référence à la paroi (face verticale de la falaise), on ajoute |fv{/lɑ˧bi˧/} ‘escarpement'.
+\gf falaise
+
+\lx æ˩˥
+\sf <nb="B"> 33
+\sf <nb="2011"> 44
+\or aen
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\nt <type="hist" print="n" langue="fra"> Mot réintroduit en 2025, en retravaillant l'enquête de vocabulaire de 2008, dans laquelle cette forme monosyllabique avait été proposée, concurremment avec la forme disyllabique.
+\nt <type="hist" print="n" langue="fra"> xxxx ton : LM ou LH?
+\ton LH
+\lc æ˩˥
+\cf æ˩pʰæ˧˥
+\so F4
+\pdv pʰæ˧˥α
+\de Cliff, overhanging cliff.
+\ge cliff
+\dn 岩石、悬崖、崖山、崖壁
+\gn 岩石
+\df Falaise.
 \gf falaise
 
 \lx æ˩pʰæ˧-lɑ˧bi˥
