@@ -6570,7 +6570,7 @@
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ɕi˧lv̩˧
 \pdv kɤ˧˥α2
-\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): une rizière, un champ de riz
 \pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
 \pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \pdv pʰæ˧˥α
@@ -6581,7 +6581,7 @@
 \ge paddy
 \dn 稻子
 \gn 稻子
-\df Riz paddy; par extension: champ de riz.
+\df Riz paddy; par extension: rizière, champ de riz.
 \gf paddy
 
 \lx ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
@@ -6622,7 +6622,7 @@
 \va <speaker="F5"> ID.
 \pdv pʰæ˧˥α
 \pdv kɤ˧˥α2
-\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): une rizière, un champ de riz
 \pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
 \pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
@@ -6647,7 +6647,7 @@
 \so F4
 \pdv pʰæ˧˥α
 \pdv kɤ˧˥α2
-\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): une rizière, un champ de riz
 \pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
 \pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
@@ -6794,7 +6794,7 @@
 \so F4
 \pdv pʰæ˧˥α
 \pdv kɤ˧˥α2
-\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): un champ de riz
+\pdc <langue="fra"> |fg{clf} pour les champs (les étendues de terre): une rizière, un champ de riz
 \pdc <langue="eng"> |fg{clf} for tracts of land: a paddy field
 \pdc <langue="cmn"> 用于土地的|fg{量词}：一片稻田
 \de Paddy field.
@@ -10417,12 +10417,20 @@
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
+\sn 1
 \de Sugar.
 \ge sugar
 \dn 糖
 \gn 糖
 \df Sucre.
 \gf sucre
+\sn 2
+\de Sweets, candies.
+\ge sweets
+\dn 糖果、甜食
+\gn 糖果
+\df Bonbons, sucreries.
+\gf bonbons
 
 \lx dze˧pʰɻ̩˧˥
 \or zzeipeu
@@ -13275,7 +13283,6 @@
 \vc <langue="cmn" dom="ton"> M
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ID.
-\pdv kʰɯ˩β
 \de Water.
 \ge water
 \dn 水
@@ -13309,6 +13316,7 @@
 \xf l'eau coule vers le bas
 \rf F5
 \sn 2
+\pdv kʰɯ˩β
 \de River, waterway.
 \ge waterway
 \dn 河流
@@ -49146,6 +49154,26 @@
 \xc <langue="fra" dom="phono"> Réalisation proche de [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
 \xc <langue="eng" dom="phono"> Phonetic realization is close to [|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}].
 \xc <langue="cmn" dom="phono"> 实际发音接近[|fv{læ˧-pɻ̩˧ læ˧-ʐwæ˩-ze˩}]。
+\xv si˧ pɻ̩˩
+\xe dry wood
+\xn 干的木头
+\xf bois sec
+
+\lx pɻ̩˧-kæ˧-ɻæ˩
+\or beu gaelae
+\mr pɻ̩˧1
+\ps adj
+\sd <langue="fra"> adjectif
+\sd <langue="eng"> adjective
+\ton L#
+\lc pɻ̩˧kæ˧ɻæ˩
+\so F4
+\de Completely dry.
+\ge fully_dry
+\dn 全干、完全干。
+\gn 全干
+\df Tout sec.
+\gf tout_sec
 \xv pɻ̩˧-kæ˧-ɻæ˩-gv̩˩
 \xe all dry, completely dry
 \xn 全干、完全干
@@ -49154,10 +49182,6 @@
 \xc <langue="fra" dom="phono"> Phonétiquement: allongement de la rime de /|fv{kæ}/, pas de [|fv{ɻ}] perceptible sauf en débit très soigné. La réalisation est proche de [|fv{pɻ̩˧kæ˧æ˩gv̩˩}].
 \xc <langue="eng" dom="phono"> Phonetically, the rhyme of the syllable /|fv{kæ}/ is lengthened, and there is no distinct [|fv{ɻ}] perceptible as such except in very careful speech. Realization is close to [|fv{pɻ̩˧kæ˧æ˩gv̩˩}].
 \xc <langue="cmn" dom="phono"> 实际发音接近[|fv{pɻ̩˧kæ˧æ˩gv̩˩}]。
-\xv si˧ pɻ̩˩
-\xe dry wood
-\xn 干的木头
-\xf bois sec
 
 \lx pɻ̩˧
 \hm 2
@@ -62947,7 +62971,7 @@
 \xf Cet arbre, il a un beau tronc! (c'est-à-dire qu'il est utilisable en menuiserie)
 \dt 23/Jun/2017
 
-\lx sɯ˧sɯ˩
+\lx si˧si˩
 \sf <nb="B"> 1006
 \sf <nb="2011"> 1431
 \or sisi
@@ -62955,9 +62979,11 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n" langue="fra" dom="ton"> Avant 2009: noté tantôt sɯ˥sɯ˧, tantôt sɯ˥sɯ˩. Tons vérifiés en 2009, aboutissant à une notation M.L.
-\nt <type="hist" print="n" langue="fra" dom="phono"> La notation de la voyelle possède un historique complexe. Note de 2009: "/sɯ/, non /si/". 28 juin 2024: la locutrice indique clairement /si/ et non /sɯ/. Un changement de /sɯ/ en /si/ est alors effectué.
+\nt <type="hist" print="n" langue="fra" dom="phono"> La notation de la voyelle possède un historique complexe. Note de 2009: "/sɯ/, non /si/". 28 juin 2024: la locutrice indique clairement /si/ et non /sɯ/. Un changement de /sɯ/ en /si/ est alors effectué. Il n'est reporté dans le mot vedette qu'en juillet 2025 (précédemment, le changement avait été reporté dans le champ 'forme de surface' et dans les exemples, mais non dans la vedette).
+\nt <type="hist" print="n" langue="fra" dom="morpho"> La forme avait été notée, avant 2024, comme une forme rédupliquée, avec un tilde entre les deux syllabes. En l'absence d'indication claire confirmant cette hypothèse, le tilde est supprimé en juillet 2025.
 \ton L#
 \lc si˧si˩
+\cf ʈʂe˧ si˧si˥
 \so F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -62969,14 +62995,10 @@
 \gn 生
 \df Cru.
 \gf cru
-\xv ʂe˧ si˧~si˥#
+\xv ʂe˧ si˧si˥#
 \xe raw meat
 \xn 生肉
 \xf viande crue
-\xv ʈʂe˧ si˧~si˥
-\xe ‘raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc.
-\xn ‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物
-\xf ‘Terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc.
 
 \lx ʂɯ˧ʂɯ˧-dzi˩
 \or shishizzee
@@ -71908,9 +71930,6 @@
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n" langue="fra"> (auparavant noté: ʈʂi˥) (vérifié: n'est pas /ʈʂi/) (corrigé en 2007; en 2006, avais noté: ʈʂe˥pv̩˧)
-\nt <dom="sem" langue="fra"> Une croyance rapportée par Daeshi Daedeu est que s'asseoir sur de la terre `crue' est mauvais pour la santé. Cela fait écho à la vision taoïste de la façon dont le souffle, Qi |fn{气}, circule dans la nature, vision sur laquelle repose le Fengshui |fn{风水}: une pratique chinoise qui vise à harmoniser les personnes avec leur environnement en analysant les flux d'énergie dans l’espace, pour favoriser santé et équilibre. Les lieux «vierges» ou «non travaillés» y sont perçus comme potentiellement hostiles (dommageables à la santé), du fait que le Qi y serait stagnant: leurs énergies seraient «brutes» et néfastes. La mise en culture aurait pour effet d'«harmoniser» leur Qi.
-\nt <dom="sem" langue="eng"> A belief reported by Daeshi Daedeu is that sitting on ‘raw’ earth is bad for your health. This echoes the Taoist vision of the way in which breath, Qi |fn{气}, circulates in nature -- a vision on which Fengshui |fn{风水} is based: a Chinese practice that aims to harmonize people with their environment by analyzing the flow of energy in the spaces they inhabit. “Wild”, “unworked” places are perceived as potentially hostile (harmful to health), because the Qi there would be stagnant: their energies would be “raw” and harmful. The effect of cultivation would be to ‘harmonize’ their Qi.
-\nt <dom="sem" langue="cmn"> 拉他咪王勇报道的一种观点认为，坐在‘生’土上不利于健康。这与道家关于自然界中的‘气’循环方式的观点相同。没有耕种的地方被认为是潜在的敌对之地（对健康有害），因为那里的‘气’是停滞的：它们的能量是有害的。耕种可以‘调和’它们的 ‘气’。
 \ton #H
 \lc ʈʂe˧
 \so F4
@@ -71928,11 +71947,31 @@
 \xe dry earth
 \xn 干土
 \xf terre sèche
-\xv ʈʂe˧ sɯ˧~sɯ˥
-\xe ‘raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc
-\xn ‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物
-\xf ‘terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc.
-\dt 08/Oct/2015
+
+\lx ʈʂe˧ si˧si˥
+\or zhei sisi
+\mr ʈʂe˥1
+\mr si˧si˩
+\ps n
+\sd <langue="fra"> environnement naturel
+\sd <langue="eng"> natural environment
+\nt <dom="sem" langue="fra"> Une croyance rapportée par Daeshi Daedeu est que s'asseoir sur de la terre `crue' est mauvais pour la santé. Cela fait écho à la vision taoïste de la façon dont le souffle, Qi |fn{气}, circule dans la nature, vision sur laquelle repose le Fengshui |fn{风水}: une pratique chinoise qui vise à harmoniser les personnes avec leur environnement en analysant les flux d'énergie dans l’espace, pour favoriser santé et équilibre. Les lieux «vierges» ou «non travaillés» y sont perçus comme potentiellement hostiles (dommageables à la santé), du fait que le Qi y serait stagnant: leurs énergies seraient «brutes» et néfastes. La mise en culture aurait pour effet d'«harmoniser» leur Qi.
+\nt <dom="sem" langue="eng"> A belief reported by Daeshi Daedeu is that sitting on ‘raw’ earth is bad for your health. This echoes the Taoist vision of the way in which breath, Qi |fn{气}, circulates in nature -- a vision on which Fengshui |fn{风水} is based: a Chinese practice that aims to harmonize people with their environment by analyzing the flow of energy in the spaces they inhabit. “Wild”, “unworked” places are perceived as potentially hostile (harmful to health), because the Qi there would be stagnant: their energies would be “raw” and harmful. The effect of cultivation would be to ‘harmonize’ their Qi.
+\nt <dom="sem" langue="cmn"> 拉他咪王勇报道的一种观点认为，坐在‘生’土上不利于健康。这与道家关于自然界中的‘气’循环方式的观点相同。没有耕种的地方被认为是潜在的敌对之地（对健康有害），因为那里的‘气’是停滞的：它们的能量是有害的。耕种可以‘调和’它们的 ‘气’。
+\nt <type="hist" print="n" langue="fra" dom="tone"> xxxx vérifier le ton en 2025: H#? H$?
+\ton #H
+\lc ʈʂe˧si˧si˥
+\so F4
+\va <speaker="F5"> ID.
+\va <speaker="M18"> ID.
+\va <speaker="M21"> ID.
+\va <speaker="M23"> ID.
+\de ‘Raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc.
+\ge raw_earth
+\dn ‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物
+\gn 生土
+\df ‘Terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc..
+\gf terre_crue
 
 \lx ʈʂe˥
 \sf <nb="B"> 566
