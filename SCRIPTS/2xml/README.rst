@@ -1,4 +1,4 @@
-﻿**2xml**: scripts to add markup to plain text files, producing XML documents
+﻿...2xml: scripts to add markup to plain text files, producing XML documents
 ================================
 
 ##############
@@ -13,8 +13,11 @@ The script is called::
 
 Explanations in English and French are provided in::
 
-    RegionsandDictionary2xml_ReadMe.txt.
+    RegionsandDictionary2xml_ReadMe.txt
 
+To run the script: 
+
+    python3 regions_and_dictionary_to_xml.py input.txt na.xml
 
 ##############
 Heritage Perl scripts
