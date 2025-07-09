@@ -305,6 +305,8 @@
     <TRANSL xml:lang="zh">一家人</TRANSL>
     <TRANSL xml:lang="fr">une famille</TRANSL>
     <TRANSL xml:lang="en">a family</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʑi˩βⓗ2"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʑi˩βⓗ2"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʑi˩βⓗ2"/>
@@ -366,7 +368,7 @@
   </W>
   <W id="w34">
     <AUDIO start="158.676" end="159.747"/>
-    <FORM kindOf="phono">hĩ˧ggomo˩ | tʰi˧-nv̩˥-dʑo˩.</FORM>
+    <FORM kindOf="phono">hĩ˧mo˩ | tʰi˧-nv̩˥-dʑo˩.</FORM>
     <TRANSL xml:lang="zh">尸体埋着。/尸体被埋。</TRANSL>
     <TRANSL xml:lang="fr">Le corps est enterré.</TRANSL>
     <TRANSL xml:lang="en">The corpse is buried.</TRANSL>

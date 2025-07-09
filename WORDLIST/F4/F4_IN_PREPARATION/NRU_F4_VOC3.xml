@@ -232,8 +232,10 @@
     <AUDIO start="111.983" end="113.011"/>
     <FORM kindOf="phono">ɕi˧ɭɯ˧ tv̩˧ di˩</FORM>
     <TRANSL xml:lang="zh">稻田，种米的地</TRANSL>
-    <TRANSL xml:lang="fr">rizière, terre où on plante du riz)</TRANSL>
+    <TRANSL xml:lang="fr">rizière, terre où on plante du riz</TRANSL>
     <TRANSL xml:lang="en">rice field, earth where rice is sown</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtv̩˧α"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtv̩˧α"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtv̩˧α"/>
@@ -468,8 +470,10 @@
     <AUDIO start="203.018" end="203.665"/>
     <FORM kindOf="phono">ɖæ˩˥ | ɖɯ˧-ti˧˥</FORM>
     <TRANSL xml:lang="zh">一层灰</TRANSL>
-    <TRANSL xml:lang="fr">une couche de poussière)</TRANSL>
+    <TRANSL xml:lang="fr">une couche de poussière</TRANSL>
     <TRANSL xml:lang="en">a layer of dust</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɖæ˩˧"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩˧"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɖæ˩˧"/>
@@ -501,8 +505,10 @@
     <AUDIO start="214.082" end="214.807"/>
     <FORM kindOf="phono">ɖʐæ˧qʰæ˧ ʐæ˥-ze˩.</FORM>
     <TRANSL xml:lang="zh">有泥巴了。</TRANSL>
-    <TRANSL xml:lang="fr">De la boue s’est formée; il y a de la boue, c’est tout boueux.)</TRANSL>
+    <TRANSL xml:lang="fr">De la boue s’est formée; il y a de la boue, c’est tout boueux.</TRANSL>
     <TRANSL xml:lang="en">There is mud; mud has formed.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɖʐæ˧qʰæ˥$"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖʐæ˧qʰæ˥$"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɖʐæ˧qʰæ˥$"/>
@@ -514,8 +520,6 @@
     <TRANSL xml:lang="zh">水</TRANSL>
     <TRANSL xml:lang="fr">Eau.</TRANSL>
     <TRANSL xml:lang="en">Water.</TRANSL>
-    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
-    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩"/>
@@ -524,8 +528,10 @@
     <AUDIO start="224.864" end="225.668"/>
     <FORM kindOf="phono">dʑɯ˩so˩ pʰv̩˩˥</FORM>
     <TRANSL xml:lang="zh">有波浪</TRANSL>
-    <TRANSL xml:lang="fr">il y a une vague, une vague déferle)</TRANSL>
+    <TRANSL xml:lang="fr">il y a une vague, une vague déferle</TRANSL>
     <TRANSL xml:lang="en">there is a wave, a wave breaks</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩so˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩so˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩so˩"/>
@@ -567,8 +573,6 @@
     <TRANSL xml:lang="zh">水泉、山泉</TRANSL>
     <TRANSL xml:lang="fr">Source.</TRANSL>
     <TRANSL xml:lang="en">Spring (where water flows out).</TRANSL>
-    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
-    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩pɤ˩qʰv̩˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩pɤ˩qʰv̩˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩pɤ˩qʰv̩˩"/>

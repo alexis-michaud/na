@@ -37,8 +37,10 @@
     <AUDIO start="11.832" end="12.562"/>
     <FORM kindOf="phono">dʑɯ˩pʰæ˩ ʈwæ˥-ze˩</FORM>
     <TRANSL xml:lang="zh"> 水冻成冰了。</TRANSL>
-    <TRANSL xml:lang="fr"> l’eau a gelé, de la glace s’est formée)</TRANSL>
+    <TRANSL xml:lang="fr"> l’eau a gelé, de la glace s’est formée</TRANSL>
     <TRANSL xml:lang="en"> ice has formed </TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩pʰæ˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩pʰæ˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩pʰæ˩"/>
@@ -47,8 +49,10 @@
     <AUDIO start="13.699" end="14.512"/>
     <FORM kindOf="phono">dʑɯ˩pʰæ˩˥ | tʰi˧-ʈwæ˩-dʑo˩</FORM>
     <TRANSL xml:lang="zh">（水）正在冻成冰。</TRANSL>
-    <TRANSL xml:lang="fr">  l'eau est en train de geler, de la glace est en train de se former)</TRANSL>
+    <TRANSL xml:lang="fr">  l'eau est en train de geler, de la glace est en train de se former</TRANSL>
     <TRANSL xml:lang="en">Ice is forming. / The water is freezing.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩pʰæ˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩pʰæ˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩pʰæ˩"/>
@@ -60,8 +64,6 @@
     <TRANSL xml:lang="zh">火</TRANSL>
     <TRANSL xml:lang="fr">Feu.</TRANSL>
     <TRANSL xml:lang="en">Fire.</TRANSL>
-    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
-    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmv̩˥ⓗ2"/>
@@ -111,8 +113,10 @@
     <AUDIO start="29.718" end="30.365"/>
     <FORM kindOf="phono">mv̩˧ qæ˥-ɻ˩̩ kʰɯ˩ ≈ mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩</FORM>
     <TRANSL xml:lang="zh">（有人）放火</TRANSL>
-    <TRANSL xml:lang="fr">lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)</TRANSL>
+    <TRANSL xml:lang="fr">lancer un incendie, déclencher un incendie, mettre le feu (acte criminel</TRANSL>
     <TRANSL xml:lang="en">to start a fire (as an act of destruction/war), to commit arson</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmv̩˥ⓗ2"/>
@@ -121,8 +125,10 @@
     <AUDIO start="32.303" end="33.134"/>
     <FORM kindOf="phono">mv̩˧ qæ˥-ɻ˩̩ kʰɯ˩ ≈ mv̩˧ qæ˥-ɭɯ˩ kʰɯ˩</FORM>
     <TRANSL xml:lang="zh">（有人）放火</TRANSL>
-    <TRANSL xml:lang="fr">lancer un incendie, déclencher un incendie, mettre le feu (acte criminel)</TRANSL>
+    <TRANSL xml:lang="fr">lancer un incendie, déclencher un incendie, mettre le feu (acte criminel</TRANSL>
     <TRANSL xml:lang="en">to start a fire (as an act of destruction/war), to commit arson</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmv̩˥ⓗ2"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmv̩˥ⓗ2"/>
@@ -190,8 +196,10 @@
     <AUDIO start="45.168" end="45.696"/>
     <FORM kindOf="phono">mv̩˧kʰv̩˧ lv̩˥</FORM>
     <TRANSL xml:lang="zh">烟很多</TRANSL>
-    <TRANSL xml:lang="fr">ça enfume tout le monde)</TRANSL>
+    <TRANSL xml:lang="fr">ça enfume tout le monde</TRANSL>
     <TRANSL xml:lang="en">there is a lot of smoke</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmv̩˧kʰv̩˧˥"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmv̩˧kʰv̩˧˥"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmv̩˧kʰv̩˧˥"/>
@@ -210,8 +218,10 @@
     <AUDIO start="51.149" end="51.718"/>
     <FORM kindOf="phono">so˧˥ | ɖɯ˧-kʰɯ˩</FORM>
     <TRANSL xml:lang="zh">一口气</TRANSL>
-    <TRANSL xml:lang="fr">un souffle)</TRANSL>
+    <TRANSL xml:lang="fr">un souffle</TRANSL>
     <TRANSL xml:lang="en">a breath</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔso˧˥"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔso˧˥"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔso˧˥"/>
@@ -253,8 +263,6 @@
     <TRANSL xml:lang="zh">永宁坝子（地名）</TRANSL>
     <TRANSL xml:lang="fr">La plaine de Yongning (nom de lieu).</TRANSL>
     <TRANSL xml:lang="en">Yongning plain (place name).</TRANSL>
-    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
-    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɬi˧di˩-di˩mi˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɬi˧di˩-di˩mi˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɬi˧di˩-di˩mi˩"/>
@@ -344,8 +352,10 @@
     <AUDIO start="83.098" end="83.783"/>
     <FORM kindOf="phono">ʁwɤ˧ | ɖɯ˧-ɭɯ˧</FORM>
     <TRANSL xml:lang="zh">一座山</TRANSL>
-    <TRANSL xml:lang="fr">Une montagne.)</TRANSL>
+    <TRANSL xml:lang="fr">Une montagne.</TRANSL>
     <TRANSL xml:lang="en">A mountain.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʁwɤ˧ⓗ1"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʁwɤ˧ⓗ1"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʁwɤ˧ⓗ1"/>
@@ -367,8 +377,6 @@
     <TRANSL xml:lang="zh">顶上，如：山顶</TRANSL>
     <TRANSL xml:lang="fr">Sommet de, en haut de.</TRANSL>
     <TRANSL xml:lang="en">Top (e.g. mountain top).</TRANSL>
-    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
-    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʁo˧tsʰe˧ʁo#˥"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʁo˧tsʰe˧ʁo#˥"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʁo˧tsʰe˧ʁo#˥"/>
@@ -812,8 +820,10 @@
     <AUDIO start="222.339" end="223.933"/>
     <FORM kindOf="phono">dʑɯ˧ | ɖɯ˧-kʰɯ˩</FORM>
     <TRANSL xml:lang="zh">一条河</TRANSL>
-    <TRANSL xml:lang="fr">une rivière)</TRANSL>
+    <TRANSL xml:lang="fr">une rivière</TRANSL>
     <TRANSL xml:lang="en">a river</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
     <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩"/>
     <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩"/>
     <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔdʑɯ˩"/>

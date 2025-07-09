@@ -15,30 +15,34 @@ def parse_line(line):
         start = match.group(2)
         end = match.group(3)
         duration = match.group(4)
-        return {"Name": text, "start": start, "end": end, "length": duration}
+
+        # Détection de parenthèse fermante en fin de ligne
+        forme_non_canonique = False
+        if re.search(r"\)\s*$", text):
+            text = re.sub(r"\)\s*$", "", text)
+            forme_non_canonique = True
+
+        return {
+            "Name": text,
+            "start": start,
+            "end": end,
+            "length": duration,
+            "forme_non_canonique": forme_non_canonique
+        }
     else:
-        return None  # ou raise ValueError("Format incorrect")
+        return None
+
 
 
 def creation_tsv(fichier_entree, fichier_sortie):
-    # Lecture du fichier
-    #df = pd.read_csv(fichier_entree, sep='\t', names=["Name", "Start", "End", "Length"], skiprows=4)
-
-
     data = []
     for idx, line in enumerate(open(fichier_entree)):
-
         if idx <= 3:
             continue
-
         data.append(parse_line(line))
 
     df = pd.DataFrame(data)
-    import sys
 
-
-    print(df)
-    # On suppose que la colonne à diviser est la 1re (index 0)
     premiere_colonne = df.iloc[:, 0]
 
     # Séparation sur le caractère • avec 5 colonnes max
@@ -46,19 +50,16 @@ def creation_tsv(fichier_entree, fichier_sortie):
 
     # S'assurer d’avoir 5 colonnes (remplir avec valeurs vides si moins)
     for i in range(5 - colonnes_separees.shape[1]):
-        colonnes_separees[ colonnes_separees.shape[1] + i ] = ""
+        colonnes_separees[colonnes_separees.shape[1] + i] = ""
 
     colonnes_separees.columns = ['form', 'ex', 'zh', 'en', 'fr']
 
-    # Fusion avec les autres colonnes (si elles existent)
     autres_colonnes = df.iloc[:, 1:]
     df_final = pd.concat([colonnes_separees, autres_colonnes], axis=1)
+    df_final['forme_non_canonique'] = df['forme_non_canonique']
 
-    # Sauvegarde du résultat
     df_final.to_csv(fichier_sortie, sep='\t', index=False)
     print(f" Fichier transformé enregistré dans : {fichier_sortie}")
-
-
 
 
 
@@ -79,10 +80,21 @@ def normaliser_en_nfd(s):
     return unicodedata.normalize("NFD", s)
 
 
+# def detecter_forme_non_canonique_et_nettoyer(row):
+#     """Détecte une parenthèse fermante en fin de chaîne (indiquant une réalisation non canonique),
+#     la retire, et retourne la ligne corrigée avec un champ booléen.
+#     """
+#     for champ in ['form', 'fr', 'en', 'zh', 'ex']:
+#         if isinstance(row[champ], str) and row[champ].endswith(')'):
+#             row[champ] = row[champ].rstrip(')')
+#             row['forme_non_canonique'] = True
+#     return row
+
+
 def create_xml_pangloss(tsv_text, dictionary, out, identifiant):
 
     compte_rendu = open('compte_rendu.xml', mode = 'w', encoding='utf-8')
-    compte_rendu.write('form non trouvée dans le dictionnaire : \n\n')
+    compte_rendu.write('forme non trouvée dans le dictionnaire : \n\n')
 
     resultat = open(out, mode = 'w', encoding='utf-8')
 
@@ -135,18 +147,32 @@ def create_xml_pangloss(tsv_text, dictionary, out, identifiant):
         form = normaliser_en_nfd(form)
 
         transl_fr = row['fr']
-        # on détecte les parenthèses (=indication d'exemple pas très pertinent) et on effectue le traitement = supprimer la parenthese et ajouter une note supplémentaire pour cette entrée
-        if (')' in form) or (')' in str(transl_fr)):
-            form = form.replace(')',"")
-            # print ("transl avant : ",transl_fr)
-            transl_fr = str(transl_fr).replace(')',"")
-            # print ("transl après : ",transl_fr)
+
+        # on détecte les parenthèses (=indication d'une réalisation pas très canonique) et on effectue le traitement = supprimer la parenthese et ajouter une note supplémentaire pour cette entrée.
+        # Ajout Alexis : veiller à réinitialiser à chaque itération, afin d'éviter un effet de persistance d’état, qui a lieu en Python quand des variables sont définies à l’intérieur d’un `if` et utilisées ensuite hors de tout contrôle explicite.
+        # message_parenthese_en = ""
+        # message_parenthese_fr = ""
+
+# Test et traitement des parenthèses (ancienne version)
+        # if (')' in form) or (')' in str(transl_fr)):
+        #     form = form.replace(')',"")
+        #     # print ("transl avant : ",transl_fr)
+        #     transl_fr = str(transl_fr).replace(')',"")
+        #     # print ("transl après : ",transl_fr)
+        #     message_parenthese_en = "<NOTE xml:lang='en' message=\"This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary).\"/>"
+        #     message_parenthese_fr = "<NOTE xml:lang='fr' message=\"Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia.\"/>"
+
+        if row['forme_non_canonique']:
             message_parenthese_en = "<NOTE xml:lang='en' message=\"This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary).\"/>"
             message_parenthese_fr = "<NOTE xml:lang='fr' message=\"Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia.\"/>"
+        else:
+            message_parenthese_en = ""
+            message_parenthese_fr = ""
+
 
         l_form = list(form)
 
-        # on détecte tous les chiffres (=indicatio nd'homonyme) et on ajoute ⓗ devant pour retrouver la bonne entrée dans le dictionnaire
+        # on détecte tous les chiffres (=indication d'homonyme) et on ajoute ⓗ devant pour retrouver la bonne entrée dans le dictionnaire
         for x in range(len(l_form)):
             if form[x].isdigit():
                 modif = re.sub(r'(\d+)', r'ⓗ\1',form[x])
@@ -199,6 +225,14 @@ def create_xml_pangloss(tsv_text, dictionary, out, identifiant):
 
                 if not pd.isnull(row['en']):
                     resultat.write("<TRANSL xml:lang='en'>"+str(row['en'])+"</TRANSL>\n")
+
+                if message_parenthese_en != '':
+                    resultat.write(message_parenthese_en+'\n')
+                    message_parenthese_en = ''
+
+                if message_parenthese_fr != '':
+                    resultat.write(message_parenthese_fr+'\n')
+                    message_parenthese_fr = ''
 
                 # probleme régler cette ligne
             else:
