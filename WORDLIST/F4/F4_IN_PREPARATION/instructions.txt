@@ -1,3 +1,10 @@
+script de Séverine :
 python3 soundforge_and_dictionary_to_xml_pangloss.py NRU_F4_VOC1.txt na.xml
 
-En sortie il y a 2 fichiers : le fichier compte_rendu.xml qui liste les mots non trouvés dans le dictionnaire et le fichier xml pangloss créé qui est nommé du même nom que le fichier soundforge mais avec l’extension xml (ici NRU_F4_VOC1.xml)
+"En sortie il y a 2 fichiers : le fichier compte_rendu.xml qui liste les mots non trouvés dans le dictionnaire et le fichier xml pangloss créé qui est nommé du même nom que le fichier soundforge mais avec l’extension xml (ici NRU_F4_VOC1.xml)"
+
+script modifié par Alexis :
+regions_and_dictionary_to_xml.py
+python3 regions_and_dictionary_to_xml.py NRU_F4_VOC1.txt na.xml
+
+Dans cette version, la sortie porte un suffixe "_AUTO", qui évite d'écraser sans préavis un fichier qui aurait été modifié manuellement.

@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE WORDLIST SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<WORDLIST id="F4_VOC4" xml:lang="nru">
+  <HEADER/>
+  <W id="w1">
+    <AUDIO start="0.655" end="1.049"/>
+    <FORM kindOf="phono-deep">si˧nɑ˥</FORM>
+    <FORM kindOf="phono-surface">si˧nɑ˥</FORM>
+    <TRANSL xml:lang="zh">森林深处（难走路）</TRANSL>
+    <TRANSL xml:lang="fr">Forêt épaisse.</TRANSL>
+    <TRANSL xml:lang="en">Deep forest.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔsi˧nɑ˥"/>
+  </W>
+  <W id="w2">
+    <AUDIO start="2.133" end="2.481"/>
+    <FORM kindOf="phono-deep">si˧nɑ˥</FORM>
+    <FORM kindOf="phono-surface">si˧nɑ˥</FORM>
+    <TRANSL xml:lang="zh">森林深处（难走路）</TRANSL>
+    <TRANSL xml:lang="fr">Forêt épaisse.</TRANSL>
+    <TRANSL xml:lang="en">Deep forest.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔsi˧nɑ˥"/>
+  </W>
+  <W id="w3">
+    <AUDIO start="2.960" end="5.503"/>
+    <FORM kindOf="phono">si˧ɕi˧˥, | si˧nɑ˥, | ɖɯ˧-bæ˧ lɑ˧ ɲi˥!</FORM>
+    <TRANSL xml:lang="zh">‘森林’，‘森林深处’，是一回事！</TRANSL>
+    <TRANSL xml:lang="fr">‘Forêt’, ‘forêt épaisse’, c'est la même chose / il s'agit d'une seule et même chose!</TRANSL>
+    <TRANSL xml:lang="en">‘Forest’ and ‘deep forest’, these are just the same! / These mean the same thing!</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔsi˧nɑ˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔsi˧nɑ˥"/>
+  </W>
+  <W id="w4">
+    <AUDIO start="7.360" end="8.243"/>
+    <FORM kindOf="phono-deep">hæ̃˩</FORM>
+    <FORM kindOf="phono-surface">hæ̃˧</FORM>
+    <TRANSL xml:lang="zh">金子</TRANSL>
+    <TRANSL xml:lang="fr">Or (métal).</TRANSL>
+    <TRANSL xml:lang="en">Gold.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhæ̃˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhæ̃˩"/>
+  </W>
+  <W id="w5">
+    <AUDIO start="9.334" end="10.123"/>
+    <FORM kindOf="phono-deep">hæ̃˩</FORM>
+    <FORM kindOf="phono-surface">hæ̃˧</FORM>
+    <TRANSL xml:lang="zh">金子</TRANSL>
+    <TRANSL xml:lang="fr">Or (métal).</TRANSL>
+    <TRANSL xml:lang="en">Gold.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhæ̃˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhæ̃˩"/>
+  </W>
+  <W id="w6">
+    <AUDIO start="22.082" end="22.825"/>
+    <FORM kindOf="phono-deep">hæ̃˩</FORM>
+    <FORM kindOf="phono-surface">hæ̃˧</FORM>
+    <TRANSL xml:lang="zh">金子</TRANSL>
+    <TRANSL xml:lang="fr">Or (métal).</TRANSL>
+    <TRANSL xml:lang="en">Gold.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhæ̃˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhæ̃˩"/>
+  </W>
+  <W id="w7">
+    <AUDIO start="30.615" end="31.404"/>
+    <FORM kindOf="phono-deep">hæ̃˩</FORM>
+    <FORM kindOf="phono-surface">hæ̃˧</FORM>
+    <TRANSL xml:lang="zh">金子</TRANSL>
+    <TRANSL xml:lang="fr">Or (métal).</TRANSL>
+    <TRANSL xml:lang="en">Gold.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhæ̃˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhæ̃˩"/>
+  </W>
+  <W id="w8">
+    <AUDIO start="11.099" end="11.795"/>
+    <FORM kindOf="phono-deep">ŋv̩˩</FORM>
+    <FORM kindOf="phono-surface">ŋv̩˧</FORM>
+    <TRANSL xml:lang="zh">银子</TRANSL>
+    <TRANSL xml:lang="fr">Argent (métal).</TRANSL>
+    <TRANSL xml:lang="en">Silver; money.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔŋv̩˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔŋv̩˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔŋv̩˩"/>
+  </W>
+  <W id="w9">
+    <AUDIO start="31.497" end="32.252"/>
+    <FORM kindOf="phono-deep">ŋv̩˩</FORM>
+    <FORM kindOf="phono-surface">ŋv̩˧</FORM>
+    <TRANSL xml:lang="zh">银子</TRANSL>
+    <TRANSL xml:lang="fr">Argent (métal).</TRANSL>
+    <TRANSL xml:lang="en">Silver; money.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔŋv̩˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔŋv̩˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔŋv̩˩"/>
+  </W>
+  <W id="w10">
+    <AUDIO start="14.791" end="15.789"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w11">
+    <AUDIO start="17.368" end="17.925"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w12">
+    <AUDIO start="18.721" end="19.139"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w13">
+    <AUDIO start="23.992" end="24.346"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w14">
+    <AUDIO start="25.251" end="25.611"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w15">
+    <AUDIO start="33.088" end="33.819"/>
+    <FORM kindOf="phono-deep">æ̃˥</FORM>
+    <FORM kindOf="phono-surface">æ̃˧</FORM>
+    <TRANSL xml:lang="zh">铜，包括黄铜、红铜、青铜</TRANSL>
+    <TRANSL xml:lang="fr">Cuivre; bronze.</TRANSL>
+    <TRANSL xml:lang="en">Brass, copper, bronze.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔæ̃˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔæ̃˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔæ̃˥"/>
+  </W>
+  <W id="w16">
+    <AUDIO start="41.999" end="42.643"/>
+    <FORM kindOf="phono-deep">ʂe˧mo˧</FORM>
+    <FORM kindOf="phono-surface">ʂe˧mo˧</FORM>
+    <TRANSL xml:lang="zh">铁（双音节）</TRANSL>
+    <TRANSL xml:lang="fr">Fer (disyllabe).</TRANSL>
+    <TRANSL xml:lang="en">Iron (disyllable).</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʂe˧mo˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʂe˧mo˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʂe˧mo˧"/>
+  </W>
+  <W id="w17">
+    <AUDIO start="43.641" end="44.419"/>
+    <FORM kindOf="phono-deep">ʂe˧mo˧</FORM>
+    <FORM kindOf="phono-surface">ʂe˧mo˧</FORM>
+    <TRANSL xml:lang="zh">铁（双音节）</TRANSL>
+    <TRANSL xml:lang="fr">Fer (disyllabe).</TRANSL>
+    <TRANSL xml:lang="en">Iron (disyllable).</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʂe˧mo˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʂe˧mo˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʂe˧mo˧"/>
+  </W>
+  <W id="w18">
+    <AUDIO start="86.462" end="86.900"/>
+    <FORM kindOf="phono-deep">lwɤ˩˥</FORM>
+    <FORM kindOf="phono-surface">lwɤ˩˥</FORM>
+    <TRANSL xml:lang="zh">灰，灰烬（包括草木灰等等）</TRANSL>
+    <TRANSL xml:lang="fr">Cendre (cendre végétale ou cendre de charbon); scories.</TRANSL>
+    <TRANSL xml:lang="en">Ashes (of plants, charcoal…), cinders.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔlwɤ˩˥"/>
+  </W>
+  <W id="w19">
+    <AUDIO start="87.922" end="88.967"/>
+    <FORM kindOf="phono-deep">lwɤ˩˥</FORM>
+    <FORM kindOf="phono-surface">lwɤ˩˥</FORM>
+    <TRANSL xml:lang="zh">灰，灰烬（包括草木灰等等）</TRANSL>
+    <TRANSL xml:lang="fr">Cendre (cendre végétale ou cendre de charbon); scories.</TRANSL>
+    <TRANSL xml:lang="en">Ashes (of plants, charcoal…), cinders.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔlwɤ˩˥"/>
+  </W>
+  <W id="w20">
+    <AUDIO start="88.967" end="90.093"/>
+    <FORM kindOf="phono-deep">lwɤ˩˥</FORM>
+    <FORM kindOf="phono-surface">lwɤ˩˥</FORM>
+    <TRANSL xml:lang="zh">灰，灰烬（包括草木灰等等）</TRANSL>
+    <TRANSL xml:lang="fr">Cendre (cendre végétale ou cendre de charbon); scories.</TRANSL>
+    <TRANSL xml:lang="en">Ashes (of plants, charcoal…), cinders.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔlwɤ˩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔlwɤ˩˥"/>
+  </W>
+  <W id="w21">
+    <AUDIO start="93.291" end="94.130"/>
+    <FORM kindOf="phono">hĩ˧ | ʝi˧-kʰv̩˥</FORM>
+    <TRANSL xml:lang="zh">一些人</TRANSL>
+    <TRANSL xml:lang="fr">certaines personnes</TRANSL>
+    <TRANSL xml:lang="en">some people</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w22">
+    <AUDIO start="95.526" end="96.316"/>
+    <FORM kindOf="phono">hĩ˧ | ʝi˧-kʰv̩˥</FORM>
+    <TRANSL xml:lang="zh">一些人</TRANSL>
+    <TRANSL xml:lang="fr">certaines personnes</TRANSL>
+    <TRANSL xml:lang="en">some people</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w23">
+    <AUDIO start="97.012" end="98.127"/>
+    <FORM kindOf="phono">hĩ˧ | ʝi˧-kʰv̩˥</FORM>
+    <TRANSL xml:lang="zh">一些人</TRANSL>
+    <TRANSL xml:lang="fr">certaines personnes</TRANSL>
+    <TRANSL xml:lang="en">some people</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w24">
+    <AUDIO start="100.333" end="101.273"/>
+    <FORM kindOf="phono">hĩ˧ | ʝi˧-kʰv̩˥</FORM>
+    <TRANSL xml:lang="zh">一些人</TRANSL>
+    <TRANSL xml:lang="fr">certaines personnes</TRANSL>
+    <TRANSL xml:lang="en">some people</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w25">
+    <AUDIO start="103.677" end="104.559"/>
+    <FORM kindOf="phono">hĩ˧ | ʝi˧-kʰv̩˥</FORM>
+    <TRANSL xml:lang="zh">一些人</TRANSL>
+    <TRANSL xml:lang="fr">certaines personnes</TRANSL>
+    <TRANSL xml:lang="en">some people</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w26">
+    <AUDIO start="99.404" end="100.085"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w27">
+    <AUDIO start="106.347" end="107.043"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w28">
+    <AUDIO start="109.413" end="110.318"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w29">
+    <AUDIO start="112.430" end="116.575"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w30">
+    <AUDIO start="120.883" end="150.929"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w31">
+    <AUDIO start="152.195" end="160.612"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w32">
+    <AUDIO start="162.690" end="178.700"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w33">
+    <AUDIO start="180.523" end="181.382"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w34">
+    <AUDIO start="184.540" end="186.578"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w35">
+    <AUDIO start="188.859" end="191.274"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w36">
+    <AUDIO start="192.806" end="195.152"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w37">
+    <AUDIO start="197.056" end="202.292"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w38">
+    <AUDIO start="203.232" end="211.452"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w39">
+    <AUDIO start="215.516" end="217.954"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w40">
+    <AUDIO start="223.875" end="226.452"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w41">
+    <AUDIO start="227.961" end="231.235"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w42">
+    <AUDIO start="233.209" end="236.309"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w43">
+    <AUDIO start="239.014" end="241.336"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+  <W id="w44">
+    <AUDIO start="247.582" end="257.786"/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+  </W>
+</WORDLIST>
