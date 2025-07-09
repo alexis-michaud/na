@@ -1,3 +1,4 @@
+import unicodedata
 import pandas as pd
 from lxml import etree
 import xml.etree.ElementTree as ET
@@ -73,6 +74,9 @@ def conversion_duree_en_secondes(duree):
     return "{:.3f}".format(secondes)
 
 
+def normaliser_en_nfd(s):
+    """Renvoie la chaîne normalisée selon la forme Unicode NFD (décomposée)."""
+    return unicodedata.normalize("NFD", s)
 
 
 def create_xml_pangloss(tsv_text, dictionary, out, identifiant):
@@ -126,6 +130,9 @@ def create_xml_pangloss(tsv_text, dictionary, out, identifiant):
         ## form = row['form']. replace(" ", "")
         # Commentaire Alexis : ça c'est à appliquer attentivement car il y a des entrées qui contiennent des espaces. Solution: ne retirer les espaces qu'en fin d'expression.
         form = row['form'].rstrip()
+
+        # Normalisation Unicode (ajout du 9 juillet, pour que la forme NFC /hĩ˧mo˩/, avec i tilde U+0129, puisse être retrouvée dans le dictionnaire XML, où la forme est en NDF: /hĩ˧mo˩/)
+        form = normaliser_en_nfd(form)
 
         transl_fr = row['fr']
         # on détecte les parenthèses (=indication d'exemple pas très pertinent) et on effectue le traitement = supprimer la parenthese et ajouter une note supplémentaire pour cette entrée

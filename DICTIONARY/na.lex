@@ -67377,6 +67377,7 @@
 \lx tɕʰɤ˧ti#˥
 \sf <nb="B"> 87a
 \sf <nb="2011"> 133
+\bw <langue="bod"> mchod rten |tib{མཆོད་རྟེན།}
 \so F4
 \or qedi
 \ps n
@@ -67400,14 +67401,13 @@
 \sn 2
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
-\nt <type="hist" print="n" langue="fra"> (d'après Liberty Lidz: emprunt au tibétain, chorten)
+\nt <type="hist" print="n" langue="fra"> L'information selon laquelle le terme est emprunté au tibétain chörten est fournie par Liberty Lidz.
 \de Chorten (reliquary).
 \ge chorten
 \dn 佛塔
 \gn 佛塔
 \df Chörten (reliquaire).
 \gf chörten
-\dt 11/May/2016
 
 \lx tɕʰɤ˩ʈʂv̩˧
 \sf <nb="B"> 522b

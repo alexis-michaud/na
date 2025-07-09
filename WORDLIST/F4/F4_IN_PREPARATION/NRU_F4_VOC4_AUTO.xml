@@ -281,116 +281,349 @@
   </W>
   <W id="w26">
     <AUDIO start="99.404" end="100.085"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <FORM kindOf="phono">hĩ˧ | ɖɯ˧-ʑi˩</FORM>
+    <TRANSL xml:lang="zh">一家人</TRANSL>
+    <TRANSL xml:lang="fr">une famille</TRANSL>
+    <TRANSL xml:lang="en">a family</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʑi˩βⓗ2"/>
   </W>
   <W id="w27">
     <AUDIO start="106.347" end="107.043"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <FORM kindOf="phono">hĩ˧ | ɖɯ˧-ʑi˩</FORM>
+    <TRANSL xml:lang="zh">一家人</TRANSL>
+    <TRANSL xml:lang="fr">une famille</TRANSL>
+    <TRANSL xml:lang="en">a family</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʑi˩βⓗ2"/>
   </W>
   <W id="w28">
     <AUDIO start="109.413" end="110.318"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <FORM kindOf="phono">hĩ˧ | ɖɯ˧-ʑi˩</FORM>
+    <TRANSL xml:lang="zh">一家人</TRANSL>
+    <TRANSL xml:lang="fr">une famille</TRANSL>
+    <TRANSL xml:lang="en">a family</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʑi˩βⓗ2"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʑi˩βⓗ2"/>
   </W>
   <W id="w29">
-    <AUDIO start="112.430" end="116.575"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="112.430" end="113.232"/>
+    <FORM kindOf="phono-deep">kʰv̩˧mæ˧</FORM>
+    <FORM kindOf="phono-surface">kʰv̩˧mæ˧</FORM>
+    <TRANSL xml:lang="zh">强盗</TRANSL>
+    <TRANSL xml:lang="fr">Voleur, bandit.</TRANSL>
+    <TRANSL xml:lang="en">Robber, bandit.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔkʰv̩˧mæ˧"/>
   </W>
   <W id="w30">
-    <AUDIO start="120.883" end="150.929"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="113.232" end="115.333"/>
+    <FORM kindOf="phono">no˧=ɻ̩˩ | ɑ˩ʁo˧ | kʰv̩˧mæ˧ tsʰɯ˩</FORM>
+    <TRANSL xml:lang="zh">有贼来到你们家里了。</TRANSL>
+    <TRANSL xml:lang="fr">Des voleurs sont venus dans votre maison.</TRANSL>
+    <TRANSL xml:lang="en">Thieves have come to your house.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔkʰv̩˧mæ˧"/>
   </W>
   <W id="w31">
-    <AUDIO start="152.195" end="160.612"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="115.333" end="116.575"/>
+    <FORM kindOf="phono">kʰv̩˧mæ˧ tsʰɯ˩</FORM>
+    <TRANSL xml:lang="zh">有贼来了。</TRANSL>
+    <TRANSL xml:lang="fr">Des voleurs sont venus.</TRANSL>
+    <TRANSL xml:lang="en">Thieves have come.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔkʰv̩˧mæ˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔkʰv̩˧mæ˧"/>
   </W>
   <W id="w32">
-    <AUDIO start="162.690" end="178.700"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="152.195" end="153.208"/>
+    <FORM kindOf="phono-deep">hĩ˧mo˩</FORM>
+    <FORM kindOf="phono-surface">hĩ˧mo˩</FORM>
+    <TRANSL xml:lang="zh">尸体</TRANSL>
+    <TRANSL xml:lang="fr">Cadavre.</TRANSL>
+    <TRANSL xml:lang="en">Corpse.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhĩ˧mo˩"/>
   </W>
   <W id="w33">
-    <AUDIO start="180.523" end="181.382"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="153.957" end="154.397"/>
+    <FORM kindOf="phono-deep">hĩ˧mo˩</FORM>
+    <FORM kindOf="phono-surface">hĩ˧mo˩</FORM>
+    <TRANSL xml:lang="zh">尸体</TRANSL>
+    <TRANSL xml:lang="fr">Cadavre.</TRANSL>
+    <TRANSL xml:lang="en">Corpse.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhĩ˧mo˩"/>
   </W>
   <W id="w34">
-    <AUDIO start="184.540" end="186.578"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="158.676" end="159.747"/>
+    <FORM kindOf="phono">hĩ˧ggomo˩ | tʰi˧-nv̩˥-dʑo˩.</FORM>
+    <TRANSL xml:lang="zh">尸体埋着。/尸体被埋。</TRANSL>
+    <TRANSL xml:lang="fr">Le corps est enterré.</TRANSL>
+    <TRANSL xml:lang="en">The corpse is buried.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔhĩ˧mo˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔhĩ˧mo˩"/>
   </W>
   <W id="w35">
-    <AUDIO start="188.859" end="191.274"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="163.080" end="163.831"/>
+    <FORM kindOf="phono-deep">go˧bɤ˩</FORM>
+    <FORM kindOf="phono-surface">go˧bɤ˩</FORM>
+    <TRANSL xml:lang="zh">庙，寺</TRANSL>
+    <TRANSL xml:lang="fr">Temple, monastère.</TRANSL>
+    <TRANSL xml:lang="en">Temple, monastery.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgo˧bɤ˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgo˧bɤ˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgo˧bɤ˩"/>
   </W>
   <W id="w36">
-    <AUDIO start="192.806" end="195.152"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="164.797" end="166.487"/>
+    <FORM kindOf="phono">“go˧bɤ˩”, | pi˧-kv̩˩ mæ˩!</FORM>
+    <TRANSL xml:lang="zh">说的是“庙”嘛！</TRANSL>
+    <TRANSL xml:lang="fr">Ca se dit “ggobbe”, voilà!</TRANSL>
+    <TRANSL xml:lang="en">It is “ggobbe”, isn't it!</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgo˧bɤ˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgo˧bɤ˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgo˧bɤ˩"/>
   </W>
   <W id="w37">
-    <AUDIO start="197.056" end="202.292"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="163.080" end="163.831"/>
+    <FORM kindOf="phono-deep">ɖæ˩mi˧-go˧bɤ˩</FORM>
+    <FORM kindOf="phono-surface">ɖæ˩mi˧go˧bɤ˩</FORM>
+    <TRANSL xml:lang="zh">永宁大寺</TRANSL>
+    <TRANSL xml:lang="fr">Ddaemi ggobbe: le nom du temple de Yongning.</TRANSL>
+    <TRANSL xml:lang="en">Ddaemi ggobbe: the name of the Yongning temple.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɖæ˩mi˧-go˧bɤ˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩mi˧-go˧bɤ˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɖæ˩mi˧-go˧bɤ˩"/>
   </W>
   <W id="w38">
-    <AUDIO start="203.232" end="211.452"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="180.844" end="181.382"/>
+    <FORM kindOf="phono-deep">ɖæ˩mi˧</FORM>
+    <FORM kindOf="phono-surface">ɖæ˩mi˥</FORM>
+    <TRANSL xml:lang="zh">永宁大寺（扎美寺）。经纬度：100.66145，27.76501</TRANSL>
+    <TRANSL xml:lang="fr">Ddaemi, le nom du temple de Yongning. Latitude: 27.76501, longitude: 100.66145.</TRANSL>
+    <TRANSL xml:lang="en">The Yongning monastery. Latitude: 27.76501, longitude: 100.66145.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɖæ˩mi˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩mi˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɖæ˩mi˧"/>
   </W>
   <W id="w39">
-    <AUDIO start="215.516" end="217.954"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="184.540" end="185.029"/>
+    <FORM kindOf="phono-deep">tɕʰɤ˧ti#˥</FORM>
+    <FORM kindOf="phono-surface">tɕʰɤ˧ti˧</FORM>
+    <TRANSL xml:lang="zh">塔</TRANSL>
+    <TRANSL xml:lang="fr">Stupa, tour.</TRANSL>
+    <TRANSL xml:lang="en">Stupa, tower.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ti#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ti#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ti#˥"/>
   </W>
   <W id="w40">
-    <AUDIO start="223.875" end="226.452"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="185.721" end="186.578"/>
+    <FORM kindOf="phono-deep">tɕʰɤ˧ti#˥</FORM>
+    <FORM kindOf="phono-surface">tɕʰɤ˧ti˧</FORM>
+    <TRANSL xml:lang="zh">塔</TRANSL>
+    <TRANSL xml:lang="fr">Stupa, tour.</TRANSL>
+    <TRANSL xml:lang="en">Stupa, tower.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ti#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ti#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ti#˥"/>
   </W>
   <W id="w41">
-    <AUDIO start="227.961" end="231.235"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="188.859" end="189.728"/>
+    <FORM kindOf="phono-deep">mi˧ɬo#˥</FORM>
+    <FORM kindOf="phono-surface">mi˩ɬo˥</FORM>
+    <TRANSL xml:lang="zh">祈祷</TRANSL>
+    <TRANSL xml:lang="fr">Prière.</TRANSL>
+    <TRANSL xml:lang="en">Prayer.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmi˧ɬo#˥"/>
   </W>
   <W id="w42">
-    <AUDIO start="233.209" end="236.309"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="190.058" end="191.229"/>
+    <FORM kindOf="phono-deep">mi˧ɬo#˥</FORM>
+    <FORM kindOf="phono-surface">mi˩ɬo˥</FORM>
+    <TRANSL xml:lang="zh">祈祷</TRANSL>
+    <TRANSL xml:lang="fr">Prière.</TRANSL>
+    <TRANSL xml:lang="en">Prayer.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmi˧ɬo#˥"/>
   </W>
   <W id="w43">
-    <AUDIO start="239.014" end="241.336"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="192.806" end="193.742"/>
+    <FORM kindOf="phono">mi˧ɬo˧lɑ˩</FORM>
+    <TRANSL xml:lang="zh">祈祷</TRANSL>
+    <TRANSL xml:lang="fr">prier</TRANSL>
+    <TRANSL xml:lang="en">to pray</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmi˧ɬo#˥"/>
   </W>
   <W id="w44">
-    <AUDIO start="247.582" end="257.786"/>
-    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʝi˧kʰv̩˥"/>
-    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʝi˧kʰv̩˥"/>
+    <AUDIO start="194.216" end="195.139"/>
+    <FORM kindOf="phono">mi˧ɬo˧lɑ˩</FORM>
+    <TRANSL xml:lang="zh">祈祷</TRANSL>
+    <TRANSL xml:lang="fr">prier</TRANSL>
+    <TRANSL xml:lang="en">to pray</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔmi˧ɬo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔmi˧ɬo#˥"/>
+  </W>
+  <W id="w45">
+    <AUDIO start="197.056" end="198.452"/>
+    <FORM kindOf="phono-deep">gɤ˧lɑ˧-ʑi˩</FORM>
+    <FORM kindOf="phono-surface">gɤ˧lɑ˧ʑi˩</FORM>
+    <TRANSL xml:lang="zh">经堂（拜佛、拜祖先的房间）</TRANSL>
+    <TRANSL xml:lang="fr">Pièce du culte: pièce des esprits, pièce des ancêtres, où se trouve un autel. Un rituel y est effectué chaque matin. Le nom désigne par extension l'intégralité du bâtiment qui, dans la ferme, abrite cette pièce.</TRANSL>
+    <TRANSL xml:lang="en">Cult room: room of the spirits, room of the ancestors, where there is an altar. A ritual is performed here every morning. By extension, the name refers to the entire building that houses this room on the farm.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgɤ˧lɑ˧-ʑi˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgɤ˧lɑ˧-ʑi˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgɤ˧lɑ˧-ʑi˩"/>
+  </W>
+  <W id="w46">
+    <AUDIO start="199.932" end="200.881"/>
+    <FORM kindOf="phono-deep">gɤ˧lɑ˧-ʑi˩</FORM>
+    <FORM kindOf="phono-surface">gɤ˧lɑ˧ʑi˩</FORM>
+    <TRANSL xml:lang="zh">经堂（拜佛、拜祖先的房间）</TRANSL>
+    <TRANSL xml:lang="fr">Pièce du culte: pièce des esprits, pièce des ancêtres, où se trouve un autel. Un rituel y est effectué chaque matin. Le nom désigne par extension l'intégralité du bâtiment qui, dans la ferme, abrite cette pièce.</TRANSL>
+    <TRANSL xml:lang="en">Cult room: room of the spirits, room of the ancestors, where there is an altar. A ritual is performed here every morning. By extension, the name refers to the entire building that houses this room on the farm.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgɤ˧lɑ˧-ʑi˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgɤ˧lɑ˧-ʑi˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgɤ˧lɑ˧-ʑi˩"/>
+  </W>
+  <W id="w47">
+    <AUDIO start="208.420" end="209.053"/>
+    <FORM kindOf="phono-deep">tɕʰɤ˧ʂo#˥</FORM>
+    <FORM kindOf="phono-surface">tɕʰɤ˧ʂo˧</FORM>
+    <TRANSL xml:lang="zh">祭坛</TRANSL>
+    <TRANSL xml:lang="fr">Autel, lieu où on brûle de l'encens (dans la maison: l'autel principal est à l'étage, dans le bâtiment face à la porte de la ferme).</TRANSL>
+    <TRANSL xml:lang="en">Altar.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ʂo#˥"/>
+  </W>
+  <W id="w48">
+    <AUDIO start="210.716" end="211.408"/>
+    <FORM kindOf="phono-deep">tɕʰɤ˧ʂo#˥</FORM>
+    <FORM kindOf="phono-surface">tɕʰɤ˧ʂo˧</FORM>
+    <TRANSL xml:lang="zh">祭坛</TRANSL>
+    <TRANSL xml:lang="fr">Autel, lieu où on brûle de l'encens (dans la maison: l'autel principal est à l'étage, dans le bâtiment face à la porte de la ferme).</TRANSL>
+    <TRANSL xml:lang="en">Altar.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ʂo#˥"/>
+  </W>
+  <W id="w49">
+    <AUDIO start="206.036" end="206.663"/>
+    <FORM kindOf="phono-deep">tɕʰɤ˧ʂo#˥</FORM>
+    <FORM kindOf="phono-surface">tɕʰɤ˧ʂo˧</FORM>
+    <TRANSL xml:lang="zh">祭坛</TRANSL>
+    <TRANSL xml:lang="fr">Autel, lieu où on brûle de l'encens (dans la maison: l'autel principal est à l'étage, dans le bâtiment face à la porte de la ferme).</TRANSL>
+    <TRANSL xml:lang="en">Altar.</TRANSL>
+    <NOTE xml:lang="en" message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+    <NOTE xml:lang="fr" message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ʂo#˥"/>
+  </W>
+  <W id="w50">
+    <AUDIO start="203.232" end="204.405"/>
+    <FORM kindOf="phono">“tɕʰɤ˧ʂo#˥”, | pi˧-ɲi˥ mæ˩!</FORM>
+    <TRANSL xml:lang="zh">说的是“祭坛”嘛！</TRANSL>
+    <TRANSL xml:lang="fr">Ca se dit “qesho”, voilà!</TRANSL>
+    <TRANSL xml:lang="en">It is “qesho”, isn't it!</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔtɕʰɤ˧ʂo#˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔtɕʰɤ˧ʂo#˥"/>
+  </W>
+  <W id="w51">
+    <AUDIO start="215.516" end="216.537"/>
+    <FORM kindOf="phono-deep">gv̩˧mi˧</FORM>
+    <FORM kindOf="phono-surface">gv̩˧mi˧</FORM>
+    <TRANSL xml:lang="zh">身体</TRANSL>
+    <TRANSL xml:lang="fr">Corps.</TRANSL>
+    <TRANSL xml:lang="en">Body.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgv̩˧mi˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgv̩˧mi˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgv̩˧mi˧"/>
+  </W>
+  <W id="w52">
+    <AUDIO start="216.537" end="217.977"/>
+    <FORM kindOf="phono-deep">gv̩˧mi˧</FORM>
+    <FORM kindOf="phono-surface">gv̩˧mi˧</FORM>
+    <TRANSL xml:lang="zh">身体</TRANSL>
+    <TRANSL xml:lang="fr">Corps.</TRANSL>
+    <TRANSL xml:lang="en">Body.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔgv̩˧mi˧"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔgv̩˧mi˧"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔgv̩˧mi˧"/>
+  </W>
+  <W id="w53">
+    <AUDIO start="223.875" end="224.815"/>
+    <FORM kindOf="phono-deep">ʁo˧qʰwɤ˩</FORM>
+    <FORM kindOf="phono-surface">ʁo˧qʰwɤ˩</FORM>
+    <TRANSL xml:lang="zh">头，上面部分</TRANSL>
+    <TRANSL xml:lang="fr">Tête.</TRANSL>
+    <TRANSL xml:lang="en">Head.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʁo˧qʰwɤ˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʁo˧qʰwɤ˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʁo˧qʰwɤ˩"/>
+  </W>
+  <W id="w54">
+    <AUDIO start="225.332" end="226.580"/>
+    <FORM kindOf="phono-deep">ʁo˧qʰwɤ˩</FORM>
+    <FORM kindOf="phono-surface">ʁo˧qʰwɤ˩</FORM>
+    <TRANSL xml:lang="zh">头，上面部分</TRANSL>
+    <TRANSL xml:lang="fr">Tête.</TRANSL>
+    <TRANSL xml:lang="en">Head.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔʁo˧qʰwɤ˩"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔʁo˧qʰwɤ˩"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔʁo˧qʰwɤ˩"/>
+  </W>
+  <W id="w55">
+    <AUDIO start="235.183" end="236.309"/>
+    <FORM kindOf="phono">ʁo˧qʰwɤ˩ pɤ˩-ho˩~ho˥-gv̩˩</FORM>
+    <TRANSL xml:lang="zh">头软（的部分）：囟 门</TRANSL>
+    <TRANSL xml:lang="fr">(l'endroit où) la tête est molle: la fontanelle</TRANSL>
+    <TRANSL xml:lang="en">the head, (where) it is soft, i.e. the fontanel</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔpɤ˩-ho˩~ho˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔpɤ˩-ho˩~ho˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔpɤ˩-ho˩~ho˥"/>
+  </W>
+  <W id="w56">
+    <AUDIO start="239.014" end="239.966"/>
+    <FORM kindOf="phono-deep">ɬv̩˧˥</FORM>
+    <FORM kindOf="phono-surface">ɬv̩˧˥</FORM>
+    <TRANSL xml:lang="zh">脑子、脑髓</TRANSL>
+    <TRANSL xml:lang="fr">Cerveau, cervelle.</TRANSL>
+    <TRANSL xml:lang="en">Brains.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɬv̩˧˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɬv̩˧˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɬv̩˧˥"/>
+  </W>
+  <W id="w57">
+    <AUDIO start="240.332" end="241.336"/>
+    <FORM kindOf="phono-deep">ɬv̩˧˥</FORM>
+    <FORM kindOf="phono-surface">ɬv̩˧˥</FORM>
+    <TRANSL xml:lang="zh">脑子、脑髓</TRANSL>
+    <TRANSL xml:lang="fr">Cerveau, cervelle.</TRANSL>
+    <TRANSL xml:lang="en">Brains.</TRANSL>
+    <NOTE xml:lang="en" message="Identifier of the corresponding dictionary entry: ⓔɬv̩˧˥"/>
+    <NOTE xml:lang="fr" message="Identifiant de l'entrée de dictionnaire correspondante: ⓔɬv̩˧˥"/>
+    <NOTE xml:lang="zh" message="相应词典条目的识别码：ⓔɬv̩˧˥"/>
   </W>
 </WORDLIST>
