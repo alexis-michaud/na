@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE WORDLIST SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
+<WORDLIST id='F4_VOC3' xml:lang='nru'>
+<HEADER></HEADER>
+<W id='w1'>
+<AUDIO start='0.401' end='1.346'/>
+<FORM kindOf='phono'>dze˧ dzɯ˧</FORM>
+<TRANSL xml:lang='zh'>吃糖果</TRANSL>
+<TRANSL xml:lang='fr'>manger des bonbons</TRANSL>
+<TRANSL xml:lang='en'>to eat candies</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdze˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdze˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdze˥" />
+</W>
+<W id='w2'>
+<AUDIO start='2.856' end='3.831'/>
+<FORM kindOf='phono'>dze˧ dzɯ˧</FORM>
+<TRANSL xml:lang='zh'>吃糖果</TRANSL>
+<TRANSL xml:lang='fr'>manger des bonbons</TRANSL>
+<TRANSL xml:lang='en'>to eat candies</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdze˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdze˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdze˥" />
+</W>
+<W id='w3'>
+<AUDIO start='5.584' end='6.446'/>
+<FORM kindOf='phono'>ɖwæ˥ | ɖɯ˧-ɭɯ˧</FORM>
+<TRANSL xml:lang='zh'>一个池塘</TRANSL>
+<TRANSL xml:lang='fr'>une mare</TRANSL>
+<TRANSL xml:lang='en'>a pond</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖwæ˥ⓗ1" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖwæ˥ⓗ1" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖwæ˥ⓗ1" />
+</W>
+<W id='w4'>
+<AUDIO start='7.674' end='8.324'/>
+<FORM kindOf='phono-deep'>ɖwæ˥</FORM>
+<FORM kindOf='phono-surface'>ɖwæ˧</FORM>
+<TRANSL xml:lang='zh'>池塘</TRANSL>
+<TRANSL xml:lang='fr'>Mare.</TRANSL>
+<TRANSL xml:lang='en'>Pond.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖwæ˥ⓗ1" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖwæ˥ⓗ1" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖwæ˥ⓗ1" />
+</W>
+<W id='w5'>
+<AUDIO start='9.636' end='10.678'/>
+<FORM kindOf='phono-deep'>ɖwæ˧-pɤ˧ɭɯ˥</FORM>
+<FORM kindOf='phono-surface'>ɖwæ˧pɤ˧ɭɯ˥</FORM>
+<TRANSL xml:lang='zh'>水潭</TRANSL>
+<TRANSL xml:lang='fr'>Flaque (naturelle).</TRANSL>
+<TRANSL xml:lang='en'>Puddle, pool (natural).</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+</W>
+<W id='w6'>
+<AUDIO start='12.654' end='13.455'/>
+<FORM kindOf='phono-deep'>ɖwæ˧-pɤ˧ɭɯ˥</FORM>
+<FORM kindOf='phono-surface'>ɖwæ˧pɤ˧ɭɯ˥</FORM>
+<TRANSL xml:lang='zh'>水潭</TRANSL>
+<TRANSL xml:lang='fr'>Flaque (naturelle).</TRANSL>
+<TRANSL xml:lang='en'>Puddle, pool (natural).</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖwæ˧-pɤ˧ɭɯ˥" />
+</W>
+<W id='w7'>
+<AUDIO start='22.105' end='22.622'/>
+<FORM kindOf='phono-deep'>qʰæ˧mi˧</FORM>
+<FORM kindOf='phono-surface'>qʰæ˧mi˧</FORM>
+<TRANSL xml:lang='zh'>大水渠</TRANSL>
+<TRANSL xml:lang='fr'>Grand canal.</TRANSL>
+<TRANSL xml:lang='en'>Large trench, canal.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔqʰæ˧mi˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔqʰæ˧mi˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔqʰæ˧mi˧" />
+</W>
+<W id='w8'>
+<AUDIO start='22.622' end='24.044'/>
+<FORM kindOf='phono-deep'>qʰæ˧mi˧</FORM>
+<FORM kindOf='phono-surface'>qʰæ˧mi˧</FORM>
+<TRANSL xml:lang='zh'>大水渠</TRANSL>
+<TRANSL xml:lang='fr'>Grand canal.</TRANSL>
+<TRANSL xml:lang='en'>Large trench, canal.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔqʰæ˧mi˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔqʰæ˧mi˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔqʰæ˧mi˧" />
+</W>
+<W id='w9'>
+<AUDIO start='78.585' end='79.182'/>
+<FORM kindOf='phono-deep'>ʐɤ˩mi˩</FORM>
+<FORM kindOf='phono-surface'>ʐɤ˩mi˩˥</FORM>
+<TRANSL xml:lang='zh'>路</TRANSL>
+<TRANSL xml:lang='fr'>Route.</TRANSL>
+<TRANSL xml:lang='en'>Road.</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʐɤ˩mi˩" />
+</W>
+<W id='w10'>
+<AUDIO start='80.805' end='81.734'/>
+<FORM kindOf='phono-deep'>ʐɤ˩mi˩</FORM>
+<FORM kindOf='phono-surface'>ʐɤ˩mi˩˥</FORM>
+<TRANSL xml:lang='zh'>路</TRANSL>
+<TRANSL xml:lang='fr'>Route.</TRANSL>
+<TRANSL xml:lang='en'>Road.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʐɤ˩mi˩" />
+</W>
+<W id='w11'>
+<AUDIO start='73.914' end='75.035'/>
+<FORM kindOf='phono'>ʐɤ˩mi˩˥ | ɖɯ˧-kʰɯ˩</FORM>
+<TRANSL xml:lang='zh'>一条路</TRANSL>
+<TRANSL xml:lang='fr'>une route</TRANSL>
+<TRANSL xml:lang='en'>a road</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʐɤ˩mi˩" />
+</W>
+<W id='w12'>
+<AUDIO start='76.556' end='77.902'/>
+<FORM kindOf='phono'>ʐɤ˩mi˩˥ | ɖɯ˧-kʰɯ˩</FORM>
+<TRANSL xml:lang='zh'>一条路</TRANSL>
+<TRANSL xml:lang='fr'>une route</TRANSL>
+<TRANSL xml:lang='en'>a road</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʐɤ˩mi˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʐɤ˩mi˩" />
+</W>
+<W id='w13'>
+<AUDIO start='79.801' end='80.532'/>
+<FORM kindOf='phono-deep'>kʰɯ˩β</FORM>
+<FORM kindOf='phono-surface'>ɖɯ˧ kʰɯ˩</FORM>
+<TRANSL xml:lang='zh'>用于细长物体的量词：一根线、一条绳子等等。</TRANSL>
+<TRANSL xml:lang='fr'>Classificateur des objets allongés: un brin d'herbe, un brin de fil, une corde…</TRANSL>
+<TRANSL xml:lang='en'>Classifier for elongated objects: a strand of thread, a blade of grass, a rope…</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔkʰɯ˩β" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔkʰɯ˩β" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔkʰɯ˩β" />
+</W>
+<W id='w14'>
+<AUDIO start='82.372' end='83.080'/>
+<FORM kindOf='phono-deep'>kʰɯ˩β</FORM>
+<FORM kindOf='phono-surface'>ɖɯ˧ kʰɯ˩</FORM>
+<TRANSL xml:lang='zh'>用于细长物体的量词：一根线、一条绳子等等。</TRANSL>
+<TRANSL xml:lang='fr'>Classificateur des objets allongés: un brin d'herbe, un brin de fil, une corde…</TRANSL>
+<TRANSL xml:lang='en'>Classifier for elongated objects: a strand of thread, a blade of grass, a rope…</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔkʰɯ˩β" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔkʰɯ˩β" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔkʰɯ˩β" />
+</W>
+<W id='w15'>
+<AUDIO start='89.837' end='91.432'/>
+<FORM kindOf='phono'>hæ̃˧do˧ | ɖɯ˧-ɭɯ˧</FORM>
+<TRANSL xml:lang='zh'>一个打场</TRANSL>
+<TRANSL xml:lang='fr'>une aire à battre le grain</TRANSL>
+<TRANSL xml:lang='en'>a threshing ground</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔhæ̃˧do˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˧do˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔhæ̃˧do˧" />
+</W>
+<W id='w16'>
+<AUDIO start='91.432' end='93.518'/>
+<FORM kindOf='phono'>hæ̃˧do˧ | ɖɯ˧-ɭɯ˧</FORM>
+<TRANSL xml:lang='zh'>一个打场</TRANSL>
+<TRANSL xml:lang='fr'>une aire à battre le grain</TRANSL>
+<TRANSL xml:lang='en'>a threshing ground</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔhæ̃˧do˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔhæ̃˧do˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔhæ̃˧do˧" />
+</W>
+<W id='w17'>
+<AUDIO start='95.526' end='95.985'/>
+<FORM kindOf='phono-deep'>di˩˥</FORM>
+<FORM kindOf='phono-surface'>di˩˥</FORM>
+<TRANSL xml:lang='zh'>地（天地的地）</TRANSL>
+<TRANSL xml:lang='fr'>Terre (le ciel et la terre).</TRANSL>
+<TRANSL xml:lang='en'>Earth (as in: the sky and the earth).</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdi˩˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdi˩˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdi˩˥" />
+</W>
+<W id='w18'>
+<AUDIO start='102.028' end='105.047'/>
+<FORM kindOf='phono-deep'>ʈʂe˥</FORM>
+<FORM kindOf='phono-surface'>ʈʂe˧</FORM>
+<TRANSL xml:lang='zh'>土壤</TRANSL>
+<TRANSL xml:lang='fr'>Terre.</TRANSL>
+<TRANSL xml:lang='en'>Earth.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂe˥ⓗ1" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂe˥ⓗ1" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂe˥ⓗ1" />
+</W>
+<W id='w19'>
+<AUDIO start='206.007' end='206.518'/>
+<FORM kindOf='phono-deep'>ʈʂe˥</FORM>
+<FORM kindOf='phono-surface'>ʈʂe˧</FORM>
+<TRANSL xml:lang='zh'>土壤</TRANSL>
+<TRANSL xml:lang='fr'>Terre.</TRANSL>
+<TRANSL xml:lang='en'>Earth.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂe˥ⓗ1" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂe˥ⓗ1" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂe˥ⓗ1" />
+</W>
+<W id='w20'>
+<AUDIO start='106.811' end='107.432'/>
+<FORM kindOf='phono-deep'>ʈʂe˧ si˧si˥</FORM>
+<FORM kindOf='phono-surface'>ʈʂe˧si˧si˥</FORM>
+<TRANSL xml:lang='zh'>‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物</TRANSL>
+<TRANSL xml:lang='fr'>‘Terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc..</TRANSL>
+<TRANSL xml:lang='en'>‘Raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂe˧ si˧si˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂe˧ si˧si˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂe˧ si˧si˥" />
+</W>
+<W id='w21'>
+<AUDIO start='107.432' end='109.040'/>
+<FORM kindOf='phono-deep'>ʈʂe˧ si˧si˥</FORM>
+<FORM kindOf='phono-surface'>ʈʂe˧si˧si˥</FORM>
+<TRANSL xml:lang='zh'>‘生土’：没有经过加工（加肥料等等）的土，还不适合种农作物</TRANSL>
+<TRANSL xml:lang='fr'>‘Terre crue': terre qui n'a pas été préparée pour l'agriculture par l'ajout de fumier, etc..</TRANSL>
+<TRANSL xml:lang='en'>‘Raw earth': immature soil, earth that has not been prepared for agriculture by adding manure, etc.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂe˧ si˧si˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂe˧ si˧si˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂe˧ si˧si˥" />
+</W>
+<W id='w22'>
+<AUDIO start='111.983' end='113.011'/>
+<FORM kindOf='phono'>ɕi˧ɭɯ˧ tv̩˧ di˩</FORM>
+<TRANSL xml:lang='zh'>稻田，种米的地</TRANSL>
+<TRANSL xml:lang='fr'>rizière, terre où on plante du riz)</TRANSL>
+<TRANSL xml:lang='en'>rice field, earth where rice is sown</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtv̩˧α" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtv̩˧α" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtv̩˧α" />
+</W>
+<W id='w23'>
+<AUDIO start='114.195' end='115.170'/>
+<FORM kindOf='phono'>ɕi˧ɭɯ˧ tv̩˧ di˩</FORM>
+<TRANSL xml:lang='zh'>稻田，种米的地</TRANSL>
+<TRANSL xml:lang='fr'>rizière, terre où on plante du riz</TRANSL>
+<TRANSL xml:lang='en'>rice field, earth where rice is sown</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtv̩˧α" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtv̩˧α" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtv̩˧α" />
+</W>
+<W id='w24'>
+<AUDIO start='122.264' end='122.810'/>
+<FORM kindOf='phono-deep'>ɕi˧ɭɯ˧</FORM>
+<FORM kindOf='phono-surface'>ɕi˧ɭɯ˧</FORM>
+<TRANSL xml:lang='zh'>稻子</TRANSL>
+<TRANSL xml:lang='fr'>Riz paddy; par extension: rizière, champ de riz.</TRANSL>
+<TRANSL xml:lang='en'>Paddy rice; by extension: paddy field.</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɕi˧ɭɯ˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɕi˧ɭɯ˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɕi˧ɭɯ˧" />
+</W>
+<W id='w25'>
+<AUDIO start='123.344' end='124.249'/>
+<FORM kindOf='phono'>ɕi˧ɭɯ˧ tv̩˧</FORM>
+<TRANSL xml:lang='zh'>插秧</TRANSL>
+<TRANSL xml:lang='fr'>repiquer le riz</TRANSL>
+<TRANSL xml:lang='en'>to bed out rice</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtv̩˧α" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtv̩˧α" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtv̩˧α" />
+</W>
+<W id='w26'>
+<AUDIO start='125.515' end='126.154'/>
+<FORM kindOf='phono'>ɕi˧ɭɯ˧ tv̩˧</FORM>
+<TRANSL xml:lang='zh'>插秧</TRANSL>
+<TRANSL xml:lang='fr'>repiquer le riz</TRANSL>
+<TRANSL xml:lang='en'>to bed out rice</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtv̩˧α" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtv̩˧α" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtv̩˧α" />
+</W>
+<W id='w27'>
+<AUDIO start='146.218' end='146.876'/>
+<FORM kindOf='phono-deep'>qʰɑ˧dze˧-lv̩˧</FORM>
+<FORM kindOf='phono-surface'>qʰɑ˧dze˧lv̩˧</FORM>
+<TRANSL xml:lang='zh'>包谷田、玉米田</TRANSL>
+<TRANSL xml:lang='fr'>Champ de maïs.</TRANSL>
+<TRANSL xml:lang='en'>Maize field.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔqʰɑ˧dze˧-lv̩˧" />
+</W>
+<W id='w28'>
+<AUDIO start='148.387' end='149.019'/>
+<FORM kindOf='phono-deep'>qʰɑ˧dze˧-lv̩˧</FORM>
+<FORM kindOf='phono-surface'>qʰɑ˧dze˧lv̩˧</FORM>
+<TRANSL xml:lang='zh'>包谷田、玉米田</TRANSL>
+<TRANSL xml:lang='fr'>Champ de maïs.</TRANSL>
+<TRANSL xml:lang='en'>Maize field.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔqʰɑ˧dze˧-lv̩˧" />
+</W>
+<W id='w29'>
+<AUDIO start='150.134' end='150.831'/>
+<FORM kindOf='phono-deep'>qʰɑ˧dze˧-lv̩˧</FORM>
+<FORM kindOf='phono-surface'>qʰɑ˧dze˧lv̩˧</FORM>
+<TRANSL xml:lang='zh'>包谷田、玉米田</TRANSL>
+<TRANSL xml:lang='fr'>Champ de maïs.</TRANSL>
+<TRANSL xml:lang='en'>Maize field.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔqʰɑ˧dze˧-lv̩˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔqʰɑ˧dze˧-lv̩˧" />
+</W>
+<W id='w30'>
+<AUDIO start='152.827' end='153.672'/>
+<FORM kindOf='phono-deep'>pɻ̩˧-kæ˧-ɻæ˩</FORM>
+<FORM kindOf='phono-surface'>pɻ̩˧kæ˧ɻæ˩</FORM>
+<TRANSL xml:lang='zh'>全干、完全干。</TRANSL>
+<TRANSL xml:lang='fr'>Tout sec.</TRANSL>
+<TRANSL xml:lang='en'>Completely dry.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+</W>
+<W id='w31'>
+<AUDIO start='154.070' end='155.103'/>
+<FORM kindOf='phono'>pɻ̩˧-kæ˧-ɻæ˩, | qʰɑ˧dze˧ tv̩˧!</FORM>
+<TRANSL xml:lang='zh'>干干的，种包谷！</TRANSL>
+<TRANSL xml:lang='fr'>C'est sec; on plante du maïs! [Énoncé inventé en réponse à la question de vocabulaire «champ sec» : à ce stade de rodage de l'enquête de terrain, en réponse à la question, la locutrice traduit ma paraphrase en chinois du terme, au lieu d'identifier un nom spécifique comme réponse.]</TRANSL>
+<TRANSL xml:lang='en'>It's dry; (we) plant sweetcorn! (A combination coined in response to the prompt 'dry field': at this early stage of fieldwork, in response to the prompt, instead of identifying a specific noun as an answer, the speaker describes the situation.)</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+</W>
+<W id='w32'>
+<AUDIO start='156.955' end='158.394'/>
+<FORM kindOf='phono'>pɻ̩˧-kæ˧-ɻæ˩, | qʰɑ˧dze˧ tv̩˧!</FORM>
+<TRANSL xml:lang='zh'>干干的，种包谷！</TRANSL>
+<TRANSL xml:lang='fr'>C'est sec; on plante du maïs! [Énoncé inventé en réponse à la question de vocabulaire «champ sec» : à ce stade de rodage de l'enquête de terrain, en réponse à la question, la locutrice traduit ma paraphrase en chinois du terme, au lieu d'identifier un nom spécifique comme réponse.]</TRANSL>
+<TRANSL xml:lang='en'>It's dry; (we) plant sweetcorn! (A combination coined in response to the prompt 'dry field': at this early stage of fieldwork, in response to the prompt, instead of identifying a specific noun as an answer, the speaker describes the situation.)</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔpɻ̩˧-kæ˧-ɻæ˩" />
+</W>
+<W id='w33'>
+<AUDIO start='161.938' end='162.664'/>
+<FORM kindOf='phono-deep'>lv̩˧mi˧</FORM>
+<FORM kindOf='phono-surface'>lv̩˧mi˧</FORM>
+<TRANSL xml:lang='zh'>石头</TRANSL>
+<TRANSL xml:lang='fr'>Pierre.</TRANSL>
+<TRANSL xml:lang='en'>Stone.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔlv̩˧mi˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔlv̩˧mi˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔlv̩˧mi˧" />
+</W>
+<W id='w34'>
+<AUDIO start='166.742' end='167.949'/>
+<FORM kindOf='phono-deep'>ʈʂo˩mv̩˩</FORM>
+<FORM kindOf='phono-surface'>ʈʂo˩mv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>沙子</TRANSL>
+<TRANSL xml:lang='fr'>Sable fin.</TRANSL>
+<TRANSL xml:lang='en'>Fine sand.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂo˩mv̩˩" />
+</W>
+<W id='w35'>
+<AUDIO start='168.623' end='169.319'/>
+<FORM kindOf='phono-deep'>ʈʂo˩mv̩˩</FORM>
+<FORM kindOf='phono-surface'>ʈʂo˩mv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>沙子</TRANSL>
+<TRANSL xml:lang='fr'>Sable fin.</TRANSL>
+<TRANSL xml:lang='en'>Fine sand.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂo˩mv̩˩" />
+</W>
+<W id='w36'>
+<AUDIO start='169.993' end='170.553'/>
+<FORM kindOf='phono-deep'>ʈʂo˩mv̩˩</FORM>
+<FORM kindOf='phono-surface'>ʈʂo˩mv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>沙子</TRANSL>
+<TRANSL xml:lang='fr'>Sable fin.</TRANSL>
+<TRANSL xml:lang='en'>Fine sand.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂo˩mv̩˩" />
+</W>
+<W id='w37'>
+<AUDIO start='171.758' end='172.547'/>
+<FORM kindOf='phono-deep'>ʈʂo˩mv̩˩</FORM>
+<FORM kindOf='phono-surface'>ʈʂo˩mv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>沙子</TRANSL>
+<TRANSL xml:lang='fr'>Sable fin.</TRANSL>
+<TRANSL xml:lang='en'>Fine sand.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔʈʂo˩mv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔʈʂo˩mv̩˩" />
+</W>
+<W id='w38'>
+<AUDIO start='183.141' end='183.971'/>
+<FORM kindOf='phono'>tsɑ˧bɤ˧ tsɤ˧-kʰɯ˩</FORM>
+<TRANSL xml:lang='zh'>磨成粉</TRANSL>
+<TRANSL xml:lang='fr'>réduire en poudre, transformer en poudre</TRANSL>
+<TRANSL xml:lang='en'>to grind into powder, to turn into powder</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtsɑ˧bɤ˧" />
+</W>
+<W id='w39'>
+<AUDIO start='184.958' end='185.748'/>
+<FORM kindOf='phono'>tsɑ˧bɤ˧ tsɤ˧</FORM>
+<TRANSL xml:lang='zh'>变成粉</TRANSL>
+<TRANSL xml:lang='fr'>devenir de la poudre, être réduit en poudre</TRANSL>
+<TRANSL xml:lang='en'>to turn into powder</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtsɑ˧bɤ˧" />
+</W>
+<W id='w40'>
+<AUDIO start='186.242' end='186.730'/>
+<FORM kindOf='phono-deep'>tsɑ˧bɤ˧</FORM>
+<FORM kindOf='phono-surface'>tsɑ˧bɤ˧</FORM>
+<TRANSL xml:lang='zh'>糌粑、面粉、粉、粉末</TRANSL>
+<TRANSL xml:lang='fr'>Poudre; farine.</TRANSL>
+<TRANSL xml:lang='en'>Powder; flour.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔtsɑ˧bɤ˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔtsɑ˧bɤ˧" />
+</W>
+<W id='w41'>
+<AUDIO start='196.117' end='196.876'/>
+<FORM kindOf='phono-deep'>ɖæ˩dʑɯ˥</FORM>
+<FORM kindOf='phono-surface'>ɖæ˩dʑɯ˥</FORM>
+<TRANSL xml:lang='zh'>污垢</TRANSL>
+<TRANSL xml:lang='fr'>Détritus, saletés, crasse.</TRANSL>
+<TRANSL xml:lang='en'>Dirt, filth.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖæ˩dʑɯ˥" />
+</W>
+<W id='w42'>
+<AUDIO start='196.876' end='198.037'/>
+<FORM kindOf='phono-deep'>ɖæ˩dʑɯ˥</FORM>
+<FORM kindOf='phono-surface'>ɖæ˩dʑɯ˥</FORM>
+<TRANSL xml:lang='zh'>污垢</TRANSL>
+<TRANSL xml:lang='fr'>Détritus, saletés, crasse.</TRANSL>
+<TRANSL xml:lang='en'>Dirt, filth.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖæ˩dʑɯ˥" />
+</W>
+<W id='w43'>
+<AUDIO start='198.037' end='200.016'/>
+<FORM kindOf='phono-deep'>ɖæ˩dʑɯ˥</FORM>
+<FORM kindOf='phono-surface'>ɖæ˩dʑɯ˥</FORM>
+<TRANSL xml:lang='zh'>污垢</TRANSL>
+<TRANSL xml:lang='fr'>Détritus, saletés, crasse.</TRANSL>
+<TRANSL xml:lang='en'>Dirt, filth.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩dʑɯ˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖæ˩dʑɯ˥" />
+</W>
+<W id='w44'>
+<AUDIO start='203.018' end='203.665'/>
+<FORM kindOf='phono'>ɖæ˩˥ | ɖɯ˧-ti˧˥</FORM>
+<TRANSL xml:lang='zh'>一层灰</TRANSL>
+<TRANSL xml:lang='fr'>une couche de poussière)</TRANSL>
+<TRANSL xml:lang='en'>a layer of dust</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖæ˩˧" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖæ˩˧" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖæ˩˧" />
+</W>
+<W id='w45'>
+<AUDIO start='209.473' end='209.930'/>
+<FORM kindOf='phono-deep'>ɖʐæ˧qʰæ˥$</FORM>
+<FORM kindOf='phono-surface'>ɖʐæ˧qʰæ˥</FORM>
+<TRANSL xml:lang='zh'>泥巴</TRANSL>
+<TRANSL xml:lang='fr'>Boue.</TRANSL>
+<TRANSL xml:lang='en'>Mud.</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖʐæ˧qʰæ˥$" />
+</W>
+<W id='w46'>
+<AUDIO start='211.760' end='212.700'/>
+<FORM kindOf='phono'>ɖʐæ˧qʰæ˧ ʐæ˥-ze˩.</FORM>
+<TRANSL xml:lang='zh'>有泥巴了。</TRANSL>
+<TRANSL xml:lang='fr'>De la boue s’est formée; il y a de la boue, c’est tout boueux.</TRANSL>
+<TRANSL xml:lang='en'>There is mud; mud has formed.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖʐæ˧qʰæ˥$" />
+</W>
+<W id='w47'>
+<AUDIO start='214.082' end='214.807'/>
+<FORM kindOf='phono'>ɖʐæ˧qʰæ˧ ʐæ˥-ze˩.</FORM>
+<TRANSL xml:lang='zh'>有泥巴了。</TRANSL>
+<TRANSL xml:lang='fr'>De la boue s’est formée; il y a de la boue, c’est tout boueux.)</TRANSL>
+<TRANSL xml:lang='en'>There is mud; mud has formed.</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖʐæ˧qʰæ˥$" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖʐæ˧qʰæ˥$" />
+</W>
+<W id='w48'>
+<AUDIO start='218.105' end='219.103'/>
+<FORM kindOf='phono-deep'>dʑɯ˩</FORM>
+<FORM kindOf='phono-surface'>dʑɯ˧</FORM>
+<TRANSL xml:lang='zh'>水</TRANSL>
+<TRANSL xml:lang='fr'>Eau.</TRANSL>
+<TRANSL xml:lang='en'>Water.</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdʑɯ˩" />
+</W>
+<W id='w49'>
+<AUDIO start='224.864' end='225.668'/>
+<FORM kindOf='phono'>dʑɯ˩so˩ pʰv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>有波浪</TRANSL>
+<TRANSL xml:lang='fr'>il y a une vague, une vague déferle)</TRANSL>
+<TRANSL xml:lang='en'>there is a wave, a wave breaks</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩so˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩so˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdʑɯ˩so˩" />
+</W>
+<W id='w50'>
+<AUDIO start='227.253' end='228.234'/>
+<FORM kindOf='phono'>dʑɯ˩so˩ pʰv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>有波浪</TRANSL>
+<TRANSL xml:lang='fr'>il y a une vague, une vague déferle</TRANSL>
+<TRANSL xml:lang='en'>there is a wave, a wave breaks</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩so˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩so˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdʑɯ˩so˩" />
+</W>
+<W id='w51'>
+<AUDIO start='231.317' end='232.452'/>
+<FORM kindOf='phono'>dʑɯ˧ | mv̩˩-tɕo˧ ɖʐwæ˧˥</FORM>
+<TRANSL xml:lang='zh'>水往下掉</TRANSL>
+<TRANSL xml:lang='fr'>de l'eau tombe [explication en na fournie en réponse à une explication en chinois pour le terme 'cascade']</TRANSL>
+<TRANSL xml:lang='en'>water falls down (periphrase in response to an explanation of the prompt 'waterfall')</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔɖʐwæ˧˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔɖʐwæ˧˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔɖʐwæ˧˥" />
+</W>
+<W id='w52'>
+<AUDIO start='234.614' end='235.612'/>
+<FORM kindOf='phono'>dʑɯ˩ pɤ˩˥</FORM>
+<TRANSL xml:lang='zh'>涌出水来</TRANSL>
+<TRANSL xml:lang='fr'>de l’eau sort</TRANSL>
+<TRANSL xml:lang='en'>some water comes out</TRANSL>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔpɤ˩α" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔpɤ˩α" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔpɤ˩α" />
+</W>
+<W id='w53'>
+<AUDIO start='238.701' end='239.301'/>
+<FORM kindOf='phono-deep'>dʑɯ˩pɤ˩qʰv̩˩</FORM>
+<FORM kindOf='phono-surface'>dʑɯ˩pɤ˩qʰv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>水泉、山泉</TRANSL>
+<TRANSL xml:lang='fr'>Source.</TRANSL>
+<TRANSL xml:lang='en'>Spring (where water flows out).</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+</W>
+<W id='w54'>
+<AUDIO start='240.787' end='241.471'/>
+<FORM kindOf='phono-deep'>dʑɯ˩pɤ˩qʰv̩˩</FORM>
+<FORM kindOf='phono-surface'>dʑɯ˩pɤ˩qʰv̩˩˥</FORM>
+<TRANSL xml:lang='zh'>水泉、山泉</TRANSL>
+<TRANSL xml:lang='fr'>Source.</TRANSL>
+<TRANSL xml:lang='en'>Spring (where water flows out).</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔdʑɯ˩pɤ˩qʰv̩˩" />
+</W>
+<W id='w55'>
+<AUDIO start='244.956' end='245.640'/>
+<FORM kindOf='phono-deep'>si˧ɕi˧˥</FORM>
+<FORM kindOf='phono-surface'>si˧ɕi˧˥</FORM>
+<TRANSL xml:lang='zh'>森林</TRANSL>
+<TRANSL xml:lang='fr'>Forêt (clairsemée).</TRANSL>
+<TRANSL xml:lang='en'>Forest.</TRANSL>
+<NOTE xml:lang='en' message="This token is not recommended for the status of typical (canonical) realization (e.g. for use as illustration of the word in a multimedia dictionary)."/>
+<NOTE xml:lang='fr' message="Il n'est pas recommandé d'employer cet item en tant que réalisation représentative (canonique), par exemple dans le cadre d'un dictionnaire multimédia."/>
+<NOTE xml:lang='en' message ="Identifier of the corresponding dictionary entry: ⓔsi˧ɕi˧˥" />
+<NOTE xml:lang='fr' message ="Identifiant de l'entrée de dictionnaire correspondante: ⓔsi˧ɕi˧˥" />
+<NOTE xml:lang='zh' message ="相应词典条目的识别码：ⓔsi˧ɕi˧˥" />
+</W>
+</WORDLIST>

@@ -13953,6 +13953,7 @@
 \sf <nb="B"> 63
 \sf <nb="2011"> 106
 \or jjibe guhin
+\mr pɤ˩α
 \ps n
 \sy dʑɯ˩pɤ˩qʰv̩˩
 \sy dʑɯ˩pɤ˩tv̩˩qʰv̩˥
@@ -13976,6 +13977,7 @@
 \lx dʑɯ˩pɤ˩qʰv̩˩
 \sf <nb="2011"> 108
 \or jjibekheu
+\mr pɤ˩α
 \ps n
 \sy dʑɯ˩pɤ˩-kv̩˧hĩ˩
 \sy dʑɯ˩pɤ˩tv̩˩qʰv̩˥
@@ -13996,6 +13998,7 @@
 \lx dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sf <nb="2011"> 109
 \or jjibedukheu
+\mr pɤ˩α
 \ps n
 \sy dʑɯ˩pɤ˩qʰv̩˩
 \sy dʑɯ˩pɤ˩-kv̩˧hĩ˩
@@ -21156,6 +21159,7 @@
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
 \nt <type="hist" print="n" langue="fra"> (avant 2009: noté: hæ˧pɤ˧)
+\nt <type="hist" print="n" langue="fra"> xxxx exemple fourni par Roselle Dobbs, à vérifier avec Ama: \xo No (bbu) haenbe khashae ggu. \rf F22 Tu as une longue tresse / ta tresse est très longue. Réintégrer ensuite au corps du dictionnaire. Un exemple sans \xv n'apparaît pas dans le dictionnaire.
 \ton M
 \lc hæ̃˧pɤ˧
 \so F4
@@ -21169,8 +21173,6 @@
 \gn 辫子
 \df Tresse.
 \gf tresse
-\xo No (bbu) haenbe khashae ggu.
-\rf F22
 
 \lx hɑ˧pɻ̩˩
 \or habeu
@@ -25616,13 +25618,15 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <dom="sem" langue="fra"> Le mot est étiqueté comme archaïque, sans qu'il y ait véritablement d'arguments décisifs allant dans ce sens, seulement des indices. Un premier indice est qu'il apparaît dans des expressions figées et non modifiables, telles que |fv{ʝi˧-kʰv̩˥} ‘certains'. Un second indice est sa rareté et la difficulté (quasi-impossibilité) de former de nouvelles expressions en l'employant. En tout état de cause, il paraît clair qu'il ne s'agit pas d'un emprunt chinois récent, comme pourrait y faire penser la proximité fortuite avec le numéral ‘un' du chinois (|fn{一}).
+\nt <dom="sem" langue="eng"> The word is labelled as archaic, although there are no decisive arguments to this effect, only clues. A first clue is that it appears in fixed and unmodifiable expressions, such as |fv{ʝi˧-kʰv̩˥} ‘some'. A second clue is its rarity and the difficulty (quasi-impossibility) of using it to form new expressions. In any case, it seems clear that this is not a recent Chinese borrowing, as the chance proximity to the Chinese numeral ‘one' (|fn{一}) might suggest.
+\nt <dom="sem" langue="cmn"> 尽管没有决定性的论据，只有一些线索，但这个词还是被贴上了“古词”标签。第一条线索是它出现在固定的、不可修改的短语中，如|fv{ʝi˧-kʰv̩˥}‘一些’。第二条线索是它的稀有性以及用它来构成新表达式的难度。无论如何，这显然不是一个新近的汉语借词：它与汉语数字‘一’在发音上的类似，是偶然的。
 \ton M
 \so F4
-\de One (restricted use: only in association with |fv{ɭɯ˧}).
+\de One (restricted use: only in association with some classifiers, such as |fv{ɭɯ˧}).
 \ge one
 \dn 一
 \gn 一
-\df Un (numéral, à emploi restreint; ne se combine qu'avec le classificateur |fv{ɭɯ˧}).
+\df Un (numéral, à emploi restreint; ne se combine qu'avec certains classificateurs, dont |fv{ɭɯ˧}).
 \gf un
 \ue archaic
 \xv zo˧mv̩˥ | ʝi˧-ɭɯ˧ ʂv̩˧
@@ -25695,7 +25699,7 @@
 \gn 一些
 \df Certains.
 \gf certains
-\xv hĩ˧ ʝi˧kʰv̩˥
+\xv hĩ˧ | ʝi˧kʰv̩˥
 \xe some people, part of the people
 \xn 一些人
 \xf certaines personnes, une partie des gens
@@ -48873,6 +48877,9 @@
 \nt <type="hist" print="n" langue="fra"> fait partie des mots classifiés comme ayant un ton “d8"; en fait, ce sont des combinaisons nom+prédicat.
 \ton Lα
 \lc pɤ˩˥
+\cf dʑɯ˩pɤ˩-kv̩˧hĩ˩
+\cf dʑɯ˩pɤ˩qʰv̩˩
+\cf dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \so F4
 \de To come out, to emerge, to appear.
 \ge to_come_out
@@ -71195,6 +71202,10 @@
 \xe to cook tsamba (grilled flour)
 \xn 炒糌粑，制作糌粑
 \xf préparer du tsamba/de la farine grillée
+\xv tsɑ˧bɤ˧ tsɤ˧-kʰɯ˩
+\xe to grind into powder, to turn into powder
+\xn 磨成粉
+\xf réduire en poudre, transformer en poudre
 \xv bo˩hɑ˧-tsɑ˧bɤ˥
 \xe Flour for pigswill: flour used to cook pigswill. (At the time of fieldwork, it was made of a variety of sweetcorn not used for human consumption.)
 \xn 用来煮猪食的面粉（玉米面粉）
@@ -81614,9 +81625,10 @@
 \xf une flèche
 \dt 07/Oct/2015
 
-\lx ʑi˩
+\lx ʑi˩β
 \sf <nb="B"> 82a
 \sf <nb="2011"> 349
+\hm 2
 \or xxi
 \ps clf
 \sd <langue="fra"> société
@@ -81808,6 +81820,7 @@
 \sf <nb="B"> 1739
 \sf <nb="B"> 2199
 \sf <nb="2011"> 2568
+\hm 1
 \or xxiq
 \ps v
 \lc ʑi˩˥

@@ -1,0 +1,58 @@
+Regions List: NRU_F4_VOC1
+
+Name                               Start           End        Length
+-------------------------- ------------- ------------- -------------
+mv̩˧-gɤ˧lɑ˥                 00:00:01,509  00:00:02,507  00:00:00,998
+mv̩˧-gɤ˧lɑ˥)                        00:00:04,249  00:00:04,896  00:00:00,647
+mv̩˧ʁo˥$)                        00:00:06,825  00:00:07,506  00:00:00,681
+mv̩˧ʁo˥$                         00:00:09,235  00:00:10,036  00:00:00,801
+mv̩˥1                          00:00:12,445  00:00:14,976  00:00:02,530
+ɲi˧mi˧                           00:00:17,043  00:00:19,899  00:00:02,856
+ɲi˧mi˧-kʰɯ˧ʂɯ˧                           00:00:23,034  00:00:24,543  00:00:01,509
+ɲi˧mi˧-kʰɯ˧ʂɯ˧                           00:00:25,123  00:00:26,068  00:00:00,944
+ɬi˧mi˧1                           00:00:28,305  00:00:30,720  00:00:02,414
+kɯ˧                           00:00:33,158  00:00:35,247  00:00:02,089
+hæ̃˧•hæ̃˧ tʰv̩˧•刮风•the wind blows•le vent souffle                           00:00:39,404  00:00:41,865  00:00:02,461
+hi˩˥2                          00:00:49,203  00:00:49,841  00:00:00,638
+hi˩˥2•hi˩ gi˩˥•下雨•it rains•il pleut; pleuvoir)                        00:00:49,841  00:00:50,816  00:00:00,975
+hi˩˥2                          00:00:50,816  00:00:52,361  00:00:01,544
+hi˩˥2)                        00:00:52,838  00:00:53,295  00:00:00,457
+hi˩˥2•hi˩ gi˩˥•下雨•it rains•il pleut; pleuvoir)                         00:00:54,613  00:00:55,263  00:00:00,650
+hi˩˥2•hi˩ gi˩-ze˥•下雨了•it’s raining; it has rained•il s’est mis à pleuvoir; il a plu)                        00:00:58,641  00:00:59,328  00:00:00,686
+hi˩˥2•hi˩ gi˩-ze˥•下雨了•it’s raining; it has rained•il s’est mis à pleuvoir; il a plu                          00:01:00,311  00:01:01,727  00:00:01,416
+hi˩qʰɑ˩•hi˩qʰɑ˩ lɑ˥-ze˩•下暴雨了•torrential rain is falling•l’orage éclate, il y a de l’orage                          00:01:03,773  00:01:06,629  00:00:02,856
+hi˩qʰɑ˩•hi˩qʰɑ˩ lɑ˥-ze˩•下暴雨了•torrential rain is falling•l’orage éclate, il y a de l’orage                          00:01:07,732  00:01:08,321  00:00:00,589
+hi˩qʰɑ˩•hi˩qʰɑ˩ lɑ˥-ze˩•下暴雨了•torrential rain is falling•l’orage éclate, il y a de l’orage)                        00:01:09,324  00:01:09,905  00:00:00,580
+hi˩qʰɑ˩•hi˩qʰɑ˩ lɑ˥-ze˩•下暴雨了•torrential rain is falling•l’orage éclate, il y a de l’orage)                        00:01:10,323  00:01:10,932  00:00:00,609
+hi˩qʰɑ˩•hi˩qʰɑ˩ lɑ˥-ze˩•下暴雨了•torrential rain is falling•l’orage éclate, il y a de l’orage)                        00:01:11,724  00:01:12,290  00:00:00,565
+tɕɯ˧1                           00:01:13,584  00:01:14,181  00:00:00,597
+tɕɯ˧1                           00:01:15,511  00:01:17,856  00:00:02,345
+tɕɯ˧sɯ˧˥•tɕɯ˧sɯ˧mv̩˥•有雾•there is some fog, there is some mist•il y a de la brume                           00:01:23,104  00:01:25,437  00:00:02,333
+tɕɯ˧sɯ˧˥•tɕɯ˧sɯ˧mv̩˥•有雾•there is some fog, there is some mist•il y a de la brume                           00:01:28,340  00:01:29,199  00:00:00,859
+mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩•mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩-ze˩.•有了一道彩虹•a rainbow has formed, there is a rainbow•il y a un arc-en-ciel, un arc-en-ciel s’est formé                          00:01:30,017  00:01:31,225  00:00:01,207
+mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩•mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩-ze˩.•有了一道彩虹•a rainbow has formed, there is a rainbow•il y a un arc-en-ciel, un arc-en-ciel s’est formé)                       00:01:36,130  00:01:37,187  00:00:01,056
+mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩•mv̩˧ɕi˥-dʑɯ˩ʈʰɯ˩-ze˩.•有了一道彩虹•a rainbow has formed, there is a rainbow•il y a un arc-en-ciel, un arc-en-ciel s’est formé)                       00:01:37,996  00:01:38,943  00:00:00,946
+bi˥1•bi˧ gi˧-ze˩•下雪了•it is snowing; it has snowed•il neige                        00:01:44,144  00:01:45,221  00:00:01,076
+bi˥1•bi˧ gi˧-ze˩•下雪了•it is snowing; it has snowed•il neige                         00:01:46,858  00:01:47,856  00:00:00,998
+-ze˧β•[bi˧ gi˧]-ze˩•下雪了•it is snowing; it has snowed•il neige              00:01:50,616  00:01:51,304  00:00:00,687
+bi˥1•bi˧ gi˧-ze˩•下雪了•it is snowing; it has snowed•il neige                         00:01:52,535  00:01:53,313  00:00:00,777
+bi˥1•bi˧ gi˧-ze˩•下雪了•it is snowing; it has snowed•il neige)                       00:01:53,629  00:01:54,189  00:00:00,560
+mv̩˧gv̩#˥•mv̩˧gv̩˧ | gv̩˧-ze˩•打雷了• there is a clap of thunder • le tonnerre gronde                         00:01:56,596  00:01:57,652  00:00:01,056
+mv̩˧gv̩#˥•mv̩˧gv̩˧ | gv̩˧-ze˩•打雷了• there is a clap of thunder • le tonnerre gronde                         00:01:59,025  00:02:00,395  00:00:01,369
+mv̩˧gv̩#˥•mv̩˧gv̩˧ | gv̩˧-ze˩•打雷了• there is a clap of thunder • le tonnerre gronde)                       00:02:01,719  00:02:02,671  00:00:00,952
+mv̩˧gv̩#˥•ʈʂʰɯ˧-qo˧, | mv̩˧gv̩˧ lɑ˧-ze˥-pʰæ˩di˩.•那边好像打雷了。•There seems to have been a thunderclap over there.•On dirait qu'il y a eu un coup de tonnerre par là-bas.                 00:02:09,822  00:02:11,622  00:00:01,799
+zæ˩bæ˩•zæ˩bæ˩-ze˥!•打闪电了！•There has been a flash of lightning!•il y a eu un éclair!                         00:02:22,297  00:02:26,715  00:00:04,417
+zæ˩bæ˩•zæ˩bæ˩-ze˥!•打闪电了！•There has been a flash of lightning!•il y a eu un éclair!)                       00:02:27,168  00:02:27,841  00:00:00,673
+zæ˩bæ˩•zæ˩bæ˩-ze˥!•打闪电了！•There has been a flash of lightning!•il y a eu un éclair!)                       00:02:28,404  00:02:29,284  00:00:00,879
+zæ˩bæ˩•zæ˩bæ˩-ze˥!•打闪电了！•There has been a flash of lightning!•il y a eu un éclair!)                       00:02:29,760  00:02:30,346  00:00:00,586
+dzo˥•dzo˧ lɑ˩-ze˩•下冰雹了•it is hailing/it has hailed•il grêle                          00:02:32,694  00:02:36,560  00:00:03,866
+ɲi˧pʰɻ̩˩•ɲi˧pʰɻ̩˩ lɑ˩-ze˩•有霜•there is some frost•il y a du givre                         00:02:40,774  00:02:41,767  00:00:00,992
+ɲi˧pʰɻ̩˩•ɲi˧pʰɻ̩˩ lɑ˩-ze˩•有霜•there is some frost•il y a du givre                         00:02:42,905  00:02:43,764  00:00:00,859
+ɲi˧pʰɻ̩˩•[ɲi˧pʰɻ̩˩] lɑ˩-ze˩•有霜•there is some frost•il y a du givre    00:02:45,604  00:02:46,243  00:00:00,638
+ɲi˧pʰɻ̩˩•ɲi˧pʰɻ̩˩ lɑ˩-ze˩•有霜•there is some frost•il y a du givre                         00:02:46,579  00:02:47,648  00:00:01,068
+ɲi˧pʰɻ̩˩•ɲi˧pʰɻ̩˩ lɑ˩-ze˩•有霜•there is some frost•il y a du givre)                       00:02:48,158  00:02:48,798  00:00:00,640
+ɖʐv̩˧qʰɑ˧                         00:02:51,409  00:02:52,501  00:00:01,091
+ɖʐv̩˧qʰɑ˧)                       00:02:53,307  00:02:54,043  00:00:00,735
+ɖʐv̩˧qʰɑ˧•ɖʐv̩˧qʰɑ˧ lɑ˧˥•Dew forms, dew appears.•露水形成，露水出现。•De la rosée se forme, de la rosée apparaît.                        00:02:55,333  00:02:55,943  00:00:00,609
+ɖʐv̩˧qʰɑ˧•ɖʐv̩˧qʰɑ˧ lɑ˧˥•Dew forms, dew appears.•露水形成，露水出现。•De la rosée se forme, de la rosée apparaît.                         00:02:57,446  00:02:58,189  00:00:00,743
+ɖʐv̩˧qʰɑ˧•ɖʐv̩˧qʰɑ˧ lɑ˧˥•Dew forms, dew appears.•露水形成，露水出现。•De la rosée se forme, de la rosée apparaît.                         00:02:59,641  00:03:00,368  00:00:00,727

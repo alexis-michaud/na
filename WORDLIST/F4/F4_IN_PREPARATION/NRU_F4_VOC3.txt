@@ -10,12 +10,6 @@ dze˥•dze˧ dzɯ˧•吃糖果•to eat candies•manger des bonbons          
 ɖwæ˧-pɤ˧ɭɯ˥                         00:00:12,654  00:00:13,455  00:00:00,801
 qʰæ˧mi˧                         00:00:22,105  00:00:22,622  00:00:01,938
 qʰæ˧mi˧                         00:00:22,622  00:00:24,044  00:00:01,938
-45a                         00:00:28,357  00:00:28,895  00:00:00,538
-45a                         00:00:32,089  00:00:32,716  00:00:00,626
-46                          00:00:44,588  00:00:47,409  00:00:02,821
-46b                         00:01:01,419  00:01:02,142  00:00:00,722
-46b                         00:01:03,483  00:01:04,348  00:00:00,864
-(46b)                       00:01:07,175  00:01:07,883  00:00:00,708
 ʐɤ˩mi˩)                       00:01:18,585  00:01:19,182  00:00:00,597
 ʐɤ˩mi˩                         00:01:20,805  00:01:21,734  00:00:00,928
 ʐɤ˩mi˩•ʐɤ˩mi˩˥ | ɖɯ˧-kʰɯ˩•一条路•a road•une route                          00:01:13,914  00:01:15,035  00:00:01,120
@@ -26,6 +20,7 @@ hæ̃˧do˧•hæ̃˧do˧ | ɖɯ˧-ɭɯ˧•一个打场•a threshing ground•
 hæ̃˧do˧•hæ̃˧do˧ | ɖɯ˧-ɭɯ˧•一个打场•a threshing ground•une aire à battre le grain                  00:01:31,432  00:01:33,518  00:00:03,680
 di˩˥                         00:01:35,526  00:01:35,985  00:00:00,458
 ʈʂe˥1                          00:01:42,028  00:01:45,047  00:00:03,018
+ʈʂe˥1                          00:03:26,007  00:03:26,518  00:00:00,510
 ʈʂe˧ si˧si˥                         00:01:46,811  00:01:47,432  00:00:02,229
 ʈʂe˧ si˧si˥                         00:01:47,432  00:01:49,040  00:00:02,229
 tv̩˧α•ɕi˧ɭɯ˧ tv̩˧ di˩•稻田，种米的地•rice field, earth where rice is sown•rizière, terre où on plante du riz)                       00:01:51,983  00:01:53,011  00:00:01,028
@@ -37,28 +32,28 @@ qʰɑ˧dze˧-lv̩˧                         00:02:26,218  00:02:26,876  00:00:00
 qʰɑ˧dze˧-lv̩˧                         00:02:28,387  00:02:29,019  00:00:00,632
 qʰɑ˧dze˧-lv̩˧                         00:02:30,134  00:02:30,831  00:00:00,696
 pɻ̩˧-kæ˧-ɻæ˩                         00:02:32,827  00:02:33,672  00:00:00,844
-53b+a                       00:02:34,070  00:02:35,103  00:00:01,033
-53b+a                       00:02:36,955  00:02:38,394  00:00:01,439
-54                          00:02:41,938  00:02:42,664  00:00:00,725
-55a                         00:02:46,742  00:02:47,949  00:00:01,207
-55a                         00:02:48,623  00:02:49,319  00:00:00,696
-55a                         00:02:49,993  00:02:50,553  00:00:00,560
-55a_mettant en avant la rime de la 2e syllabe  00:02:51,758  00:02:52,547  00:00:00,789
-56a                         00:03:03,141  00:03:03,971  00:00:00,830
-56b                         00:03:04,958  00:03:05,748  00:00:00,789
-56c                         00:03:06,242  00:03:06,730  00:00:00,487
-58a                         00:03:16,117  00:03:20,016  00:00:03,899
-(58b)                       00:03:23,018  00:03:23,665  00:00:00,646
-49                          00:03:26,007  00:03:26,518  00:00:00,510
-(59a)                       00:03:29,473  00:03:29,930  00:00:00,457
-59b                         00:03:31,760  00:03:32,700  00:00:00,940
-(59b)                       00:03:34,082  00:03:34,807  00:00:00,725
-60                          00:03:38,105  00:03:39,103  00:00:00,998
-(62a)                       00:03:44,864  00:03:45,668  00:00:00,804
-62a                         00:03:47,253  00:03:48,234  00:00:00,981
-63a                         00:03:51,317  00:03:52,452  00:00:01,134
-63b                         00:03:54,614  00:03:55,612  00:00:00,998
-63c                         00:03:58,701  00:03:59,301  00:00:00,600
-(63c)                       00:04:00,787  00:04:01,471  00:00:00,684
-(65a)                       00:04:04,956  00:04:05,640  00:00:00,684
-ama admoneste les deux fillettes, qui jouent bruyamment  00:04:07,431  00:04:26,332  00:00:18,901
+pɻ̩˧-kæ˧-ɻæ˩•pɻ̩˧-kæ˧-ɻæ˩, | qʰɑ˧dze˧ tv̩˧!•干干的，种包谷！•It's dry; (we) plant sweetcorn! (A combination coined in response to the prompt 'dry field': at this early stage of fieldwork, in response to the prompt, instead of identifying a specific noun as an answer, the speaker describes the situation.)•C'est sec; on plante du maïs! [Énoncé inventé en réponse à la question de vocabulaire «champ sec» : à ce stade de rodage de l'enquête de terrain, en réponse à la question, la locutrice traduit ma paraphrase en chinois du terme, au lieu d'identifier un nom spécifique comme réponse.]                       00:02:34,070  00:02:35,103  00:00:01,033
+pɻ̩˧-kæ˧-ɻæ˩•pɻ̩˧-kæ˧-ɻæ˩, | qʰɑ˧dze˧ tv̩˧!•干干的，种包谷！•It's dry; (we) plant sweetcorn! (A combination coined in response to the prompt 'dry field': at this early stage of fieldwork, in response to the prompt, instead of identifying a specific noun as an answer, the speaker describes the situation.)•C'est sec; on plante du maïs! [Énoncé inventé en réponse à la question de vocabulaire «champ sec» : à ce stade de rodage de l'enquête de terrain, en réponse à la question, la locutrice traduit ma paraphrase en chinois du terme, au lieu d'identifier un nom spécifique comme réponse.]                       00:02:36,955  00:02:38,394  00:00:01,439
+lv̩˧mi˧                          00:02:41,938  00:02:42,664  00:00:00,725
+ʈʂo˩mv̩˩                         00:02:46,742  00:02:47,949  00:00:01,207
+ʈʂo˩mv̩˩                         00:02:48,623  00:02:49,319  00:00:00,696
+ʈʂo˩mv̩˩                         00:02:49,993  00:02:50,553  00:00:00,560
+ʈʂo˩mv̩˩  00:02:51,758  00:02:52,547  00:00:00,789
+tsɑ˧bɤ˧•tsɑ˧bɤ˧ tsɤ˧-kʰɯ˩•磨成粉•to grind into powder, to turn into powder•réduire en poudre, transformer en poudre                         00:03:03,141  00:03:03,971  00:00:00,830
+tsɑ˧bɤ˧•tsɑ˧bɤ˧ tsɤ˧•变成粉•to turn into powder•devenir de la poudre, être réduit en poudre                         00:03:04,958  00:03:05,748  00:00:00,789
+tsɑ˧bɤ˧                         00:03:06,242  00:03:06,730  00:00:00,487
+ɖæ˩dʑɯ˥                         00:03:16,117  00:03:16,876  00:00:03,899
+ɖæ˩dʑɯ˥                         00:03:16,876  00:03:18,037  00:00:03,899
+ɖæ˩dʑɯ˥                         00:03:18,037  00:03:20,016  00:00:03,899
+ɖæ˩˧•ɖæ˩˥ | ɖɯ˧-ti˧˥•一层灰•a layer of dust•une couche de poussière)                       00:03:23,018  00:03:23,665  00:00:00,646
+ɖʐæ˧qʰæ˥$)                       00:03:29,473  00:03:29,930  00:00:00,457
+ɖʐæ˧qʰæ˥$•ɖʐæ˧qʰæ˧ ʐæ˥-ze˩.•有泥巴了。•There is mud; mud has formed.•De la boue s’est formée; il y a de la boue, c’est tout boueux.                         00:03:31,760  00:03:32,700  00:00:00,940
+ɖʐæ˧qʰæ˥$•ɖʐæ˧qʰæ˧ ʐæ˥-ze˩.•有泥巴了。•There is mud; mud has formed.•De la boue s’est formée; il y a de la boue, c’est tout boueux.)                       00:03:34,082  00:03:34,807  00:00:00,725
+dʑɯ˩                          00:03:38,105  00:03:39,103  00:00:00,998
+dʑɯ˩so˩•dʑɯ˩so˩ pʰv̩˩˥•有波浪•there is a wave, a wave breaks•il y a une vague, une vague déferle)                       00:03:44,864  00:03:45,668  00:00:00,804
+dʑɯ˩so˩•dʑɯ˩so˩ pʰv̩˩˥•有波浪•there is a wave, a wave breaks•il y a une vague, une vague déferle                         00:03:47,253  00:03:48,234  00:00:00,981
+ɖʐwæ˧˥•dʑɯ˧ | mv̩˩-tɕo˧ ɖʐwæ˧˥•水往下掉•water falls down (periphrase in response to an explanation of the prompt 'waterfall')•de l'eau tombe [explication en na fournie en réponse à une explication en chinois pour le terme 'cascade']                         00:03:51,317  00:03:52,452  00:00:01,134
+pɤ˩α•dʑɯ˩ pɤ˩˥•涌出水来•some water comes out•de l’eau sort                         00:03:54,614  00:03:55,612  00:00:00,998
+dʑɯ˩pɤ˩qʰv̩˩                         00:03:58,701  00:03:59,301  00:00:00,600
+dʑɯ˩pɤ˩qʰv̩˩)                       00:04:00,787  00:04:01,471  00:00:00,684
+si˧ɕi˧˥)                       00:04:04,956  00:04:05,640  00:00:00,684
