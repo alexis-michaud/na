@@ -15,9 +15,11 @@ Explanations in English and French are provided in::
 
     RegionsandDictionary2xml_ReadMe.txt
 
-To run the script: 
+To run the script::
 
     python3 regions_and_dictionary_to_xml.py input.txt na.xml
+
+There are 2 output files: the compte_rendu.xml file, which lists the words not found in the dictionary, and the Pangloss XML file, which bears the same name as the input file but (i) with a _AUTO suffix (to be removed manually after the file has been tested to be OK), so as to avoid overwriting another file, and (ii) with the .xml extension (such as: NRU_F4_VOC1.xml).
 
 ##############
 Heritage Perl scripts

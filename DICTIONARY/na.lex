@@ -7708,6 +7708,8 @@
 \lx ɖæ˩mi˧-go˧bɤ˩
 \sf <nb="2011"> 3315
 \or Ddaemi ggobbe
+\mr ɖæ˩mi˧
+\mr go˧bɤ˩
 \bw <langue="bod"> dgra med dgon pa |tib{དགྲ་མེད་དགོན་པ}
 \ps n
 \sd <langue="fra"> lieu
@@ -18582,6 +18584,7 @@
 \sd <langue="eng"> religion
 \comp <langue="pmi"> gõ55bɑ22
 \nt <type="hist" print="n" langue="fra"> (corrigé en ˥ ˩ en 2007; en 2006, avais noté: gu˧bɤ˩)
+\cf ɖæ˩mi˧-go˧bɤ˩
 \ton L#
 \so F4
 \va <speaker="F5"> ID.
